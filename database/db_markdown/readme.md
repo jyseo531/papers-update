@@ -71,6 +71,9 @@ Updated on 2025-01-14
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-----------|:-----|:------|:---|:---|
+|2025-01-13|**Kolmogorov-Arnold Network for Remote Sensing Image Semantic Segmentation**|Xianping Ma, Ziyao Wang, Yin Hu, Xiaokang Zhang, Man-On Pun et.al.|[PDF](http://arxiv.org/abs/2501.07390v1)|null|
+|2025-01-13|**Skip Mamba Diffusion for Monocular 3D Semantic Scene Completion**|Li Liang, Naveed Akhtar, Jordan Vice, Xiangrui Kong, Ajmal Saeed Mian et.al.|[PDF](http://arxiv.org/abs/2501.07260v1)|[link](https://github.com/xrkong/skimba)**)|
+|2025-01-11|**Parking Space Detection in the City of Granada**|Crespo-Orti Luis, Moreno-Cuadrado Isabel, Olivares-Martínez Pablo, Sanz-Tornero Ximo et.al.|[PDF](http://arxiv.org/abs/2501.06651v1)|[link](https://github.com/pab1s/granada-parking-segmentation)**)|
 |2025-01-09|**Domain-Incremental Semantic Segmentation for Autonomous Driving under Adverse Driving Conditions**|Shishir Muralidhara, René Schuster, Didier Stricker et.al.|[PDF](http://arxiv.org/abs/2501.05246v1)|null|
 |2025-01-09|**Advancing ALS Applications with Large-Scale Pre-training: Dataset Development and Downstream Assessment**|Haoyi Xiu, Xin Liu, Taehoon Kim, Kyoung-Sook Kim et.al.|[PDF](http://arxiv.org/abs/2501.05095v1)|null|
 |2025-01-08|**Test-Time Optimization for Domain Adaptive Open Vocabulary Segmentation**|Ulindu De Silva, Didula Samaraweera, Sasini Wanigathunga, Kavindu Kariyawasam, Kanchana Ranasinghe, Muzammal Naseer, Ranga Rodrigo et.al.|[PDF](http://arxiv.org/abs/2501.04696v1)|[link](https://github.com/ulindup/segtto)**)|
