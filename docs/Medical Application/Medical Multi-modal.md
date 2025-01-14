@@ -26,7 +26,7 @@
 |**2025-01-10**|**Geometric-Based Nail Segmentation for Clinical Measurements**|Bernat Galmés et.al.|[2501.06027v1](http://arxiv.org/abs/2501.06027v1)|null|
 |**2025-01-10**|**How far does the influence of the free surface extend in turbulent open channel flow?**|Christian Bauer et.al.|[2501.06017v1](http://arxiv.org/abs/2501.06017v1)|null|
 |**2025-01-10**|**Pose-independent 3D Anthropometry from Sparse Data**|David Bojanić et.al.|[2501.06014v1](http://arxiv.org/abs/2501.06014v1)|[link](https://github.com/davidboja/pose-independent-anthropometry)|
-|**2025-01-10**|**A Neural Operator for Forecasting Carbon Monoxide Evolution in Cities**|Sanchit Bedi et.al.|[2501.06007v1](http://arxiv.org/abs/2501.06007v1)|null|
+|**2025-01-10**|**CoNOAir: A Neural Operator for Forecasting Carbon Monoxide Evolution in Cities**|Sanchit Bedi et.al.|[2501.06007v2](http://arxiv.org/abs/2501.06007v2)|null|
 |**2025-01-10**|**Self-Supervised Partial Cycle-Consistency for Multi-View Matching**|Fedor Taggenbrock et.al.|[2501.06000v1](http://arxiv.org/abs/2501.06000v1)|[link](https://github.com/fedortaggenbrock/self-supervised-partial-cycle-consistency)|
 |**2025-01-10**|**Minimizing Occlusion Effect on Multi-View Camera Perception in BEV with Multi-Sensor Fusion**|Sanjay Kumar et.al.|[2501.05997v1](http://arxiv.org/abs/2501.05997v1)|null|
 |**2025-01-10**|**Fast Multi-tone Phase Calibration Signal Extraction**|Jan Wagner et.al.|[2501.05993v1](http://arxiv.org/abs/2501.05993v1)|null|

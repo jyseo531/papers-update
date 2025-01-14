@@ -311,6 +311,7 @@ Updated on 2025-01-14
 |2025-01-03|**A self-learning magnetic Hopfield neural network with intrinsic gradient descent adaption**|Chang Niu, Huanyu Zhang, Chuanlong Xu, Wenjie Hu, Yunzhuo Wu, Yu Wu, Yadi Wang, Tong Wu, Yi Zhu, Yinyan Zhu, Wenbin Wang, Yizheng Wu, Lifeng Yin, Jiang Xiao, Weichao Yu, Hangwen Guo, Jian Shen et.al.|[PDF](http://arxiv.org/abs/2501.01853v2)|null|
 |2025-01-02|**Unsupervised learning for anticipating critical transitions**|Shirin Panahi, Ling-Wei Kong, Bryan Glaz, Mulugeta Haile, Ying-Cheng Lai et.al.|[PDF](http://arxiv.org/abs/2501.01579v1)|null|
 |2025-01-02|**Learning Spectral Methods by Transformers**|Yihan He, Yuan Cao, Hong-Yu Chen, Dennis Wu, Jianqing Fan, Han Liu et.al.|[PDF](http://arxiv.org/abs/2501.01312v2)|null|
+|2025-01-02|**Learning Spectral Methods by Transformers**|Yihan He, Yuan Cao, Hong-Yu Chen, Dennis Wu, Jianqing Fan, Han Liu et.al.|[PDF](http://arxiv.org/abs/2501.01312v3)|null|
 |2024-12-31|**Deep learning for exploring hadron-hadron interactions**|Lingxiao Wang et.al.|[PDF](http://arxiv.org/abs/2501.00374v1)|null|
 
 ### GAN
@@ -389,6 +390,7 @@ Updated on 2025-01-14
 |2025-01-10|**Diffusion Models for Smarter UAVs: Decision-Making and Modeling**|Yousef Emami, Hao Zhou, Luis Almeida, Kai Li et.al.|[PDF](http://arxiv.org/abs/2501.05819v1)|null|
 |2025-01-10|**Real-Time Integrated Dispatching and Idle Fleet Steering with Deep Reinforcement Learning for A Meal Delivery Platform**|Jingyi Cheng, Shadi Sharif Azadeh et.al.|[PDF](http://arxiv.org/abs/2501.05808v1)|null|
 |2025-01-10|**Understanding Impact of Human Feedback via Influence Functions**|Taywon Min, Haeone Lee, Hanho Ryu, Yongchan Kwon, Kimin Lee et.al.|[PDF](http://arxiv.org/abs/2501.05790v1)|null|
+|2025-01-10|**RIOT-based smart metering system for privacy-preserving data aggregation using watermarking and encryption**|Farzana Kabir, David Megias, Krzysztof Cabaj et.al.|[PDF](http://arxiv.org/abs/2501.06161v2)|null|
 |2025-01-09|**TimeRL: Efficient Deep Reinforcement Learning with Polyhedral Dependence Graphs**|Pedro F. Silvestre, Peter Pietzuch et.al.|[PDF](http://arxiv.org/abs/2501.05408v1)|null|
 |2025-01-09|**Search-o1: Agentic Search-Enhanced Large Reasoning Models**|Xiaoxi Li, Guanting Dong, Jiajie Jin, Yuyao Zhang, Yujia Zhou, Yutao Zhu, Peitian Zhang, Zhicheng Dou et.al.|[PDF](http://arxiv.org/abs/2501.05366v1)|[link](https://github.com/sunnynexus/search-o1)**)|
 |2025-01-09|**Knowledge Transfer in Model-Based Reinforcement Learning Agents for Efficient Multi-Task Learning**|Dmytro Kuzmenko, Nadiya Shvai et.al.|[PDF](http://arxiv.org/abs/2501.05329v1)|null|
@@ -574,6 +576,7 @@ Updated on 2025-01-14
 |2025-01-10|**Scalable Vision Language Model Training via High Quality Data Curation**|Hongyuan Dong, Zijian Kang, Weijie Yin, Xiao Liang, Chao Feng, Jiao Ran et.al.|[PDF](http://arxiv.org/abs/2501.05952v1)|null|
 |2025-01-10|**MCMC for multi-modal distributions**|Krzysztof Łatuszyński, Matthew T. Moores, Timothée Stumpf-Fétizon et.al.|[PDF](http://arxiv.org/abs/2501.05908v1)|null|
 |2025-01-10|**Valley2: Exploring Multimodal Models with Scalable Vision-Language Design**|Ziheng Wu, Zhenghao Chen, Ruipu Luo, Can Zhang, Yuan Gao, Zhentao He, Xian Wang, Haoran Lin, Minghui Qiu et.al.|[PDF](http://arxiv.org/abs/2501.05901v1)|null|
+|2025-01-10|**Valley2: Exploring Multimodal Models with Scalable Vision-Language Design**|Ziheng Wu, Zhenghao Chen, Ruipu Luo, Can Zhang, Yuan Gao, Zhentao He, Xian Wang, Haoran Lin, Minghui Qiu et.al.|[PDF](http://arxiv.org/abs/2501.05901v2)|[link](https://github.com/bytedance/valley)**)|
 |2025-01-09|**ReFocus: Visual Editing as a Chain of Thought for Structured Image Understanding**|Xingyu Fu, Minqian Liu, Zhengyuan Yang, John Corring, Yijuan Lu, Jianwei Yang, Dan Roth, Dinei Florencio, Cha Zhang et.al.|[PDF](http://arxiv.org/abs/2501.05452v1)|null|
 |2025-01-09|**Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal ReAsoning Benchmark**|Yunzhuo Hao, Jiawei Gu, Huichen Will Wang, Linjie Li, Zhengyuan Yang, Lijuan Wang, Yu Cheng et.al.|[PDF](http://arxiv.org/abs/2501.05444v1)|null|
 |2025-01-09|**Mechanistic understanding and validation of large AI models with SemanticLens**|Maximilian Dreyer, Jim Berend, Tobias Labarta, Johanna Vielhaben, Thomas Wiegand, Sebastian Lapuschkin, Wojciech Samek et.al.|[PDF](http://arxiv.org/abs/2501.05398v1)|null|

@@ -18,7 +18,7 @@
 |**2025-01-10**|**Non-planar 3D Printing of Double Shells**|Ioanna Mitropoulou et.al.|[2501.06088v1](http://arxiv.org/abs/2501.06088v1)|null|
 |**2025-01-10**|**Multi-layered Authentication and Key Management Scheme for Secure IoV**|Morteza Azmoudeh Afshar et.al.|[2501.06087v1](http://arxiv.org/abs/2501.06087v1)|null|
 |**2025-01-10**|**Averaged Adam accelerates stochastic optimization in the training of deep neural network approximations for partial differential equation and optimal control problems**|Steffen Dereich et.al.|[2501.06081v1](http://arxiv.org/abs/2501.06081v1)|[link](https://github.com/deeplearningmethods/averaged-adam)|
-|**2025-01-10**|**A monthly sub-national Harmonized Food Insecurity Dataset for comprehensive analysis and predictive modeling**|Machefer Mélissande et.al.|[2501.06076v1](http://arxiv.org/abs/2501.06076v1)|null|
+|**2025-01-10**|**A monthly sub-national Harmonized Food Insecurity Dataset for comprehensive analysis and predictive modeling**|Mélissande Machefer et.al.|[2501.06076v2](http://arxiv.org/abs/2501.06076v2)|null|
 |**2025-01-10**|**Geometry and Optimization of Shallow Polynomial Networks**|Yossi Arjevani et.al.|[2501.06074v1](http://arxiv.org/abs/2501.06074v1)|null|
 |**2025-01-10**|**First simultaneous measurement of single and pair production of top quarks in association with a Z boson at the LHC**|Konstantin Sharko et.al.|[2501.06070v1](http://arxiv.org/abs/2501.06070v1)|null|
 |**2025-01-10**|**Decentralized Multi-Antenna Architectures with Unitary Constraints**|Juan Vidal Alegría et.al.|[2501.06067v1](http://arxiv.org/abs/2501.06067v1)|null|

@@ -15,7 +15,7 @@
 |**2025-01-03**|**Decoding Gray Matter: large-scale analysis of brain cell morphometry to inform microstructural modeling of diffusion MR signals**|Charlie Aird-Rossiter et.al.|[2501.02100v2](http://arxiv.org/abs/2501.02100v2)|null|
 |**2025-01-03**|**ANTHROPOS-V: benchmarking the novel task of Crowd Volume Estimation**|Luca Collorone et.al.|[2501.01877v1](http://arxiv.org/abs/2501.01877v1)|null|
 |**2025-01-03**|**ASKCOS: an open source software suite for synthesis planning**|Zhengkai Tu et.al.|[2501.01835v1](http://arxiv.org/abs/2501.01835v1)|null|
-|**2025-01-02**|**Constructing and explaining machine learning models for chemistry: example of the exploration and design of boron-based Lewis acids**|Juliette Fenogli et.al.|[2501.01576v1](http://arxiv.org/abs/2501.01576v1)|[link](https://github.com/jfenogli/xai_boron_la)|
+|**2025-01-02**|**Constructing and explaining machine learning models for chemistry: example of the exploration and design of boron-based Lewis acids**|Juliette Fenogli et.al.|[2501.01576v2](http://arxiv.org/abs/2501.01576v2)|[link](https://github.com/jfenogli/xai_boron_la)|
 |**2025-01-02**|**Click-Calib: A Robust Extrinsic Calibration Method for Surround-View Systems**|Lihao Wang et.al.|[2501.01557v1](http://arxiv.org/abs/2501.01557v1)|[link](https://github.com/lwangvaleo/click_calib)|
 |**2025-01-02**|**A spectral radius for matrices over an operator space**|Orr Shalit et.al.|[2501.01325v1](http://arxiv.org/abs/2501.01325v1)|null|
 |**2025-01-02**|**L3D-Pose: Lifting Pose for 3D Avatars from a Single Camera in the Wild**|Soumyaratna Debnath et.al.|[2501.01174v1](http://arxiv.org/abs/2501.01174v1)|null|

@@ -25,10 +25,10 @@
 |**2025-01-10**|**Minimizing Occlusion Effect on Multi-View Camera Perception in BEV with Multi-Sensor Fusion**|Sanjay Kumar et.al.|[2501.05997v1](http://arxiv.org/abs/2501.05997v1)|null|
 |**2025-01-10**|**Deep Variational Sequential Monte Carlo for High-Dimensional Observations**|Wessel L. van Nierop et.al.|[2501.05982v1](http://arxiv.org/abs/2501.05982v1)|null|
 |**2025-01-10**|**Estimation and Restoration of Unknown Nonlinear Distortion using Diffusion**|Michal Švento et.al.|[2501.05959v1](http://arxiv.org/abs/2501.05959v1)|null|
-|**2025-01-10**|**A primer of the complex WKB method, with application to the ODE/IM correspondence**|Gabriele Degano et.al.|[2501.05957v1](http://arxiv.org/abs/2501.05957v1)|null|
+|**2025-01-10**|**A primer of the complex WKB method, with application to the ODE/IM correspondence**|Gabriele Degano et.al.|[2501.05957v2](http://arxiv.org/abs/2501.05957v2)|null|
 |**2025-01-10**|**Universal-2-TF: Robust All-Neural Text Formatting for ASR**|Yash Khare et.al.|[2501.05948v1](http://arxiv.org/abs/2501.05948v1)|null|
 |**2025-01-10**|**A Multimodal Dataset for Enhancing Industrial Task Monitoring and Engagement Prediction**|Naval Kishore Mehta et.al.|[2501.05936v1](http://arxiv.org/abs/2501.05936v1)|[link](https://github.com/navalkishoremehta95/miam)|
 |**2025-01-10**|**Q-MAML: Quantum Model-Agnostic Meta-Learning for Variational Quantum Algorithms**|Junyong Lee et.al.|[2501.05906v1](http://arxiv.org/abs/2501.05906v1)|null|
-|**2025-01-10**|**Inverse Design of 3D Nanophotonic Devices with Structural Integrity Using Auxiliary Thermal Solvers**|Oliver Kuster et.al.|[2501.05900v1](http://arxiv.org/abs/2501.05900v1)|null|
+|**2025-01-10**|**Inverse Design of 3D Nanophotonic Devices with Structural Integrity Using Auxiliary Thermal Solvers**|Oliver Kuster et.al.|[2501.05900v2](http://arxiv.org/abs/2501.05900v2)|null|
 |**2025-01-10**|**The Born approximation for the fixed energy Calderón problem**|Fabricio Macià et.al.|[2501.05889v1](http://arxiv.org/abs/2501.05889v1)|null|
 |**2025-01-10**|**EDNet: Edge-Optimized Small Target Detection in UAV Imagery -- Faster Context Attention, Better Feature Fusion, and Hardware Acceleration**|Zhifan Song et.al.|[2501.05885v1](http://arxiv.org/abs/2501.05885v1)|null|

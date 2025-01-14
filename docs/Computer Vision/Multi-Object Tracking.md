@@ -31,4 +31,4 @@
 |**2025-01-10**|**An Attention-Guided Deep Learning Approach for Classifying 39 Skin Lesion Types**|Sauda Adiv Hanum et.al.|[2501.05991v1](http://arxiv.org/abs/2501.05991v1)|[link](https://github.com/akabircs/skin-lesions-classification)|
 |**2025-01-10**|**Deep Variational Sequential Monte Carlo for High-Dimensional Observations**|Wessel L. van Nierop et.al.|[2501.05982v1](http://arxiv.org/abs/2501.05982v1)|null|
 |**2025-01-10**|**Estimation and Restoration of Unknown Nonlinear Distortion using Diffusion**|Michal Švento et.al.|[2501.05959v1](http://arxiv.org/abs/2501.05959v1)|null|
-|**2025-01-10**|**A primer of the complex WKB method, with application to the ODE/IM correspondence**|Gabriele Degano et.al.|[2501.05957v1](http://arxiv.org/abs/2501.05957v1)|null|
+|**2025-01-10**|**A primer of the complex WKB method, with application to the ODE/IM correspondence**|Gabriele Degano et.al.|[2501.05957v2](http://arxiv.org/abs/2501.05957v2)|null|

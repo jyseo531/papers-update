@@ -15,7 +15,7 @@
 |**2025-01-10**|**Environment Modeling for Service Robots From a Task Execution Perspective**|Ying Zhang et.al.|[2501.05931v1](http://arxiv.org/abs/2501.05931v1)|null|
 |**2025-01-10**|**Path Planning for Multi-Copter UAV Formation Employing a Generalized Particle Swarm Optimization**|Van Truong Hoang et.al.|[2501.05770v1](http://arxiv.org/abs/2501.05770v1)|null|
 |**2025-01-10**|**Semantic Mapping in Indoor Embodied AI -- A Comprehensive Survey and Future Directions**|Sonia Raychaudhuri et.al.|[2501.05750v1](http://arxiv.org/abs/2501.05750v1)|null|
-|**2025-01-10**|**Robot Error Awareness Through Human Reactions: Implementation, Evaluation, and Recommendations**|Maia Stiber et.al.|[2501.05723v1](http://arxiv.org/abs/2501.05723v1)|null|
+|**2025-01-10**|**Robot Error Awareness Through Human Reactions: Implementation, Evaluation, and Recommendations**|Maia Stiber et.al.|[2501.05723v2](http://arxiv.org/abs/2501.05723v2)|null|
 |**2025-01-10**|**eKalibr: Dynamic Intrinsic Calibration for Event Cameras From First Principles of Events**|Shuolong Chen et.al.|[2501.05688v1](http://arxiv.org/abs/2501.05688v1)|null|
 |**2025-01-10**|**Scaling Safe Multi-Agent Control for Signal Temporal Logic Specifications**|Joe Eappen et.al.|[2501.05639v1](http://arxiv.org/abs/2501.05639v1)|null|
 |**2025-01-10**|**Concerns and Values in Human-Robot Interactions: A Focus on Social Robotics**|Giulio Antonio Abbo et.al.|[2501.05628v1](http://arxiv.org/abs/2501.05628v1)|null|
