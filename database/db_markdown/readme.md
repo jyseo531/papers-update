@@ -107,6 +107,10 @@ Updated on 2025-01-14
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-----------|:-----|:------|:---|:---|
+|2025-01-13|**Zero-Shot Scene Understanding for Automatic Target Recognition Using Large Vision-Language Models**|Yasiru Ranasinghe, Vibashan VS, James Uplinger, Celso De Melo, Vishal M. Patel et.al.|[PDF](http://arxiv.org/abs/2501.07396v1)|null|
+|2025-01-13|**Dual Scale-aware Adaptive Masked Knowledge Distillation for Object Detection**|ZhouRui Zhang, Jun Li, JiaYan Li, ZhiJian Wu, JianHua Xu et.al.|[PDF](http://arxiv.org/abs/2501.07101v1)|null|
+|2025-01-11|**CPDR: Towards Highly-Efficient Salient Object Detection via Crossed Post-decoder Refinement**|Yijie Li, Hewei Wang, Aggelos Katsaggelos et.al.|[PDF](http://arxiv.org/abs/2501.06441v1)|null|
+|2025-01-11|**FocusDD: Real-World Scene Infusion for Robust Dataset Distillation**|Youbing Hu, Yun Cheng, Olga Saukh, Firat Ozdemir, Anqi Lu, Zhiqiang Cao, Zhijun Li et.al.|[PDF](http://arxiv.org/abs/2501.06405v1)|null|
 |2025-01-10|**A Holistically Point-guided Text Framework for Weakly-Supervised Camouflaged Object Detection**|Tsui Qin Mok, Shuyong Gao, Haozhe Xing, Miaoyang He, Yan Wang, Wenqiang Zhang et.al.|[PDF](http://arxiv.org/abs/2501.06038v1)|null|
 |2025-01-10|**Minimizing Occlusion Effect on Multi-View Camera Perception in BEV with Multi-Sensor Fusion**|Sanjay Kumar, Hiep Truong, Sushil Sharma, Ganesh Sistu, Tony Scanlan, Eoin Grua, Ciarán Eising et.al.|[PDF](http://arxiv.org/abs/2501.05997v1)|null|
 |2025-01-10|**EDNet: Edge-Optimized Small Target Detection in UAV Imagery -- Faster Context Attention, Better Feature Fusion, and Hardware Acceleration**|Zhifan Song, Yuan Zhang, Abd Al Rahman M. Abu Ebayyeh et.al.|[PDF](http://arxiv.org/abs/2501.05885v1)|null|
@@ -379,6 +383,13 @@ Updated on 2025-01-14
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-----------|:-----|:------|:---|:---|
+|2025-01-13|**Exploring the Use of Contrastive Language-Image Pre-Training for Human Posture Classification: Insights from Yoga Pose Analysis**|Andrzej D. Dobrzycki, Ana M. Bernardos, Luca Bergesio, Andrzej Pomirski, Daniel Sáez-Trigueros et.al.|[PDF](http://arxiv.org/abs/2501.07221v1)|null|
+|2025-01-13|**AlgoRxplorers **| Precision in Mutation -- Enhancing Drug Design with Advanced Protein Stability Prediction Tools**|[PDF](Karishma Thakrar, Jiangqin Ma, Max Diamond, Akash Patel et.al.)|null|
+|2025-01-12|**Towards Fair and Privacy-Aware Transfer Learning for Educational Predictive Modeling: A Case Study on Retention Prediction in Community Colleges**|Chengyuan Yao, Carmen Cortez, Renzhe Yu et.al.|[PDF](http://arxiv.org/abs/2501.06913v1)|null|
+|2025-01-12|**Transfer Learning of Tabular Data by Finetuning Large Language Models**|Shourav B. Rabbani, Ibna Kowsar, Manar D. Samad et.al.|[PDF](http://arxiv.org/abs/2501.06863v1)|null|
+|2025-01-12|**Hold On! Is My Feedback Useful? Evaluating the Usefulness of Code Review Comments**|Sharif Ahmed, Nasir U. Eisty et.al.|[PDF](http://arxiv.org/abs/2501.06738v1)|null|
+|2025-01-11|**Transforming Social Science Research with Transfer Learning: Social Science Survey Data Integration with AI**|Ali Amini et.al.|[PDF](http://arxiv.org/abs/2501.06577v1)|null|
+|2025-01-11|**Mathematics of Digital Twins and Transfer Learning for PDE Models**|Yifei Zong, Alexandre Tartakovsky et.al.|[PDF](http://arxiv.org/abs/2501.06400v1)|null|
 |2025-01-10|**IoT Firmware Version Identification Using Transfer Learning with Twin Neural Networks**|Ashley Andrews, George Oikonomou, Simon Armour, Paul Thomas, Thomas Cattermole et.al.|[PDF](http://arxiv.org/abs/2501.06033v1)|null|
 |2025-01-09|**Load Forecasting for Households and Energy Communities: Are Deep Learning Models Worth the Effort?**|Lukas Moosbrugger, Valentin Seiler, Philipp Wohlgenannt, Sebastian Hegenbart, Sashko Ristov, Peter Kepplinger et.al.|[PDF](http://arxiv.org/abs/2501.05000v1)|[link](https://github.com/rce-fhv/loadforecasting)**)|
 |2025-01-08|**A novel Facial Recognition technique with Focusing on Masked Faces**|Dana A Abdullah, Dana Rasul Hamad, Hakem Beitollahi, Ismail Y Maolood, Abdulhady Abas Abdullah, Aso Khaleel Ameen et.al.|[PDF](http://arxiv.org/abs/2501.04444v1)|null|
@@ -510,8 +521,13 @@ Updated on 2025-01-14
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-----------|:-----|:------|:---|:---|
+|2025-01-13|**Protego: Detecting Adversarial Examples for Vision Transformers via Intrinsic Capabilities**|Jialin Wu, Kaikai Pan, Yanjiao Chen, Jiangyi Deng, Shengyuan Pang, Wenyuan Xu et.al.|[PDF](http://arxiv.org/abs/2501.07044v1)|null|
+|2025-01-13|**UNetVL: Enhancing 3D Medical Image Segmentation with Chebyshev KAN Powered Vision-LSTM**|Xuhui Guo, Tanmoy Dam, Rohan Dhamdhere, Gourav Modanwal, Anant Madabhushi et.al.|[PDF](http://arxiv.org/abs/2501.07017v1)|null|
+|2025-01-12|**Transforming Vision Transformer: Towards Efficient Multi-Task Asynchronous Learning**|Hanwen Zhong, Jiaxin Chen, Yutong Zhang, Di Huang, Yunhong Wang et.al.|[PDF](http://arxiv.org/abs/2501.06884v1)|[link](https://github.com/yewen1486/emtal)**)|
+|2025-01-11|**CeViT: Copula-Enhanced Vision Transformer in multi-task learning and bi-group image covariates with an application to myopia screening**|Chong Zhong, Yang Li, Jinfeng Xu, Xiang Fu, Yunhao Liu, Qiuyi Huang, Danjuan Yang, Meiyan Li, Aiyi Liu, Alan H. Welsh, Xingtao Zhou, Bo Fu, Catherine C. Liu et.al.|[PDF](http://arxiv.org/abs/2501.06540v1)|null|
 |2025-01-10|**MSCViT: A Small-size ViT architecture with Multi-Scale Self-Attention Mechanism for Tiny Datasets**|Bowei Zhang, Yi Zhang et.al.|[PDF](http://arxiv.org/abs/2501.06040v1)|null|
 |2025-01-10|**An Attention-Guided Deep Learning Approach for Classifying 39 Skin Lesion Types**|Sauda Adiv Hanum, Ashim Dey, Muhammad Ashad Kabir et.al.|[PDF](http://arxiv.org/abs/2501.05991v1)|null|
+|2025-01-10|**Mix-QViT: Mixed-Precision Vision Transformer Quantization Driven by Layer Importance and Quantization Sensitivity**|Navin Ranjan, Andreas Savakis et.al.|[PDF](http://arxiv.org/abs/2501.06357v1)|null|
 |2025-01-08|**Leveraging Registers in Vision Transformers for Robust Adaptation**|Srikar Yellapragada, Kowshik Thopalli, Vivek Narayanaswamy, Wesam Sakla, Yang Liu, Yamen Mubarka, Dimitris Samaras, Jayaraman J. Thiagarajan et.al.|[PDF](http://arxiv.org/abs/2501.04784v1)|null|
 |2025-01-07|**LM-Net: A Light-weight and Multi-scale Network for Medical Image Segmentation**|Zhenkun Lu, Chaoyin She, Wei Wang, Qinghua Huang et.al.|[PDF](http://arxiv.org/abs/2501.03838v1)|[link](https://github.com/Asunatan/LM-Net)**)|
 |2025-01-07|**Vision Transformer Neural Architecture Search for Out-of-Distribution Generalization: Benchmark and Insights**|Sy-Tuyen Ho, Tuan Van Vo, Somayeh Ebrahimkhani, Ngai-Man Cheung et.al.|[PDF](http://arxiv.org/abs/2501.03782v1)|null|
@@ -748,6 +764,11 @@ Updated on 2025-01-14
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-----------|:-----|:------|:---|:---|
+|2025-01-13|**The Guitar's Magnetic Field Revealed by Starlight Polarization**|Jack T. Dinsmore, Roger W. Romani et.al.|[PDF](http://arxiv.org/abs/2501.07577v1)|null|
+|2025-01-13|**Dataset Distillation via Committee Voting**|Jiacheng Cui, Zhaoyi Li, Xiaochen Ma, Xinyue Bi, Yaxin Luo, Zhiqiang Shen et.al.|[PDF](http://arxiv.org/abs/2501.07575v1)|[link](https://github.com/jiacheng8/cv-dd)**)|
+|2025-01-13|**The Paradox of Success in Evolutionary and Bioinspired Optimization: Revisiting Critical Issues, Key Studies, and Methodological Pathways**|Daniel Molina, Javier Del Ser, Javier Poyatos, Francisco Herrera et.al.|[PDF](http://arxiv.org/abs/2501.07515v1)|null|
+|2025-01-13|**Exploring Temperature Influences on Gravitational Wave Production in Binary White Dwarfs**|Sílvia P. Nunes, José D. V. Arbañil, César H. Lenzi, Jaziel G. Coelho et.al.|[PDF](http://arxiv.org/abs/2501.07501v1)|null|
+|2025-01-13|**Smart Learning in the 21st Century: Advancing Constructionism Across Three Digital Epochs**|Ilya Levin, Alexei L. Semenov, Mikael Gorsky et.al.|[PDF](http://arxiv.org/abs/2501.07486v1)|null|
 |2025-01-10|**VideoAuteur: Towards Long Narrative Video Generation**|Junfei Xiao, Feng Cheng, Lu Qi, Liangke Gui, Jiepeng Cen, Zhibei Ma, Alan Yuille, Lu Jiang et.al.|[PDF](http://arxiv.org/abs/2501.06173v1)|null|
 |2025-01-10|**Approximate well-balanced WENO finite difference schemes using a global-flux quadrature method with multi-step ODE integrator weights**|Maria Kazolea, Carlos Parés Madroñal, Mario Ricchiuto et.al.|[PDF](http://arxiv.org/abs/2501.06155v1)|null|
 |2025-01-10|**SkyReconNet: A Deep Learning Inpainting Approach for Enhanced CMB Map Reconstruction**|Reyhan D. Lambaga, Vipin Sudevan, Pisin Chen et.al.|[PDF](http://arxiv.org/abs/2501.06139v1)|null|
@@ -775,6 +796,13 @@ Updated on 2025-01-14
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-----------|:-----|:------|:---|:---|
+|2025-01-13|**Diff-Ensembler: Learning to Ensemble 2D Diffusion Models for Volume-to-Volume Medical Image Translation**|Xiyue Zhu, Dou Hoon Kwark, Ruike Zhu, Kaiwen Hong, Yiqi Tao, Shirui Luo, Yudu Li, Zhi-Pei Liang, Volodymyr Kindratenko et.al.|[PDF](http://arxiv.org/abs/2501.07430v1)|null|
+|2025-01-13|**FedSemiDG: Domain Generalized Federated Semi-supervised Medical Image Segmentation**|Zhipeng Deng, Zhe Xu, Tsuyoshi Isshiki, Yefeng Zheng et.al.|[PDF](http://arxiv.org/abs/2501.07378v1)|null|
+|2025-01-13|**Bigger Isn't Always Better: Towards a General Prior for Medical Image Reconstruction**|Lukas Glaszner, Martin Zach et.al.|[PDF](http://arxiv.org/abs/2501.07376v1)|null|
+|2025-01-12|**SAM-DA: Decoder Adapter for Efficient Medical Domain Adaptation**|Javier Gamazo Tejero, Moritz Schmid, Pablo Márquez Neila, Martin S. Zinkernagel, Sebastian Wolf, Raphael Sznitman et.al.|[PDF](http://arxiv.org/abs/2501.06836v1)|null|
+|2025-01-12|**Improved joint modelling of breast cancer radiomics features and hazard by image registration aided longitudinal CT data**|Subrata Mukherjee et.al.|[PDF](http://arxiv.org/abs/2501.06814v1)|null|
+|2025-01-12|**Hierarchical Divide-and-Conquer for Fine-Grained Alignment in LLM-Based Medical Evaluation**|Shunfan Zheng, Xiechi Zhang, Gerard de Melo, Xiaoling Wang, Linlin Wang et.al.|[PDF](http://arxiv.org/abs/2501.06741v1)|null|
+|2025-01-12|**PGP-SAM: Prototype-Guided Prompt Learning for Efficient Few-Shot Medical Image Segmentation**|Zhonghao Yan, Zijin Yin, Tianyu Lin, Xiangzhu Zeng, Kongming Liang, Zhanyu Ma et.al.|[PDF](http://arxiv.org/abs/2501.06692v1)|null|
 |2025-01-10|**Scale-up Unlearnable Examples Learning with High-Performance Computing**|Yanfan Zhu, Issac Lyngaas, Murali Gopalakrishnan Meena, Mary Ellen I. Koran, Bradley Malin, Daniel Moyer, Shunxing Bao, Anuj Kapadia, Xiao Wang, Bennett Landman, Yuankai Huo et.al.|[PDF](http://arxiv.org/abs/2501.06080v1)|null|
 |2025-01-10|**Weakly Supervised Segmentation of Hyper-Reflective Foci with Compact Convolutional Transformers and SAM2**|Olivier Morelle, Justus Bisten, Maximilian W. M. Wintergerst, Robert P. Finger, Thomas Schultz et.al.|[PDF](http://arxiv.org/abs/2501.05933v1)|null|
 |2025-01-09|**Hierarchical Decomposed Dual-domain Deep Learning for Sparse-View CT Reconstruction**|Yoseob Han et.al.|[PDF](http://arxiv.org/abs/2501.05093v1)|[link](https://github.com/hanyoseob/hdd-dl-for-svct)**)|
