@@ -91,7 +91,7 @@ class ToolBox:
 
     @staticmethod
     # Awesome github pages 업데이트 동기화 함수
-    # SERVER_PATH_AWESOME = join(SERVER_DIR_DOCS, "🔥Awesome_Pages")
+    # SERVER_PATH_AWESOME = join(SERVER_DIR_DOCS, "Awesome_Pages")
 
     def update_readme(repo_url: str, repo_dir: str, target_path: str):
         """
@@ -99,8 +99,8 @@ class ToolBox:
 
         Args:
             repo_url (str): URL of the repository to pull updates from.     ex) https://github.com/Hannibal046/Awesome-LLM.git
-            repo_dir (str): Local directory where the repository is cloned. ex) docs/🔥Awesome_Pages/Awesome-LLM
-            target_path (str): Path to copy the updated README.md file.     ex) docs/🔥Awesome_Pages/Awesome-LLM_README.md
+            repo_dir (str): Local directory where the repository is cloned. ex) docs/Awesome_Pages/Awesome-LLM
+            target_path (str): Path to copy the updated README.md file.     ex) docs/Awesome_Pages/Awesome-LLM_README.md
         """
         if not os.path.exists(repo_dir):
             # Clone the repository if it doesn't exist
@@ -448,7 +448,7 @@ class Scaffold:
         # Iterate over each repository and update
         for repo_url in repo_list:
             repo_name = repo_url.split("/")[-1].replace(".git", "")
-            repo_dir = os.path.join(SERVER_PATH_DOCS, "🔥Awesome_Pages", repo_name)
+            repo_dir = os.path.join(SERVER_PATH_DOCS, "Awesome_Pages", repo_name)
             target_readme_path = os.path.join(repo_dir, f"{repo_name}_README.md")
 
             # Clone or update the repository and copy README.md
@@ -484,7 +484,7 @@ class Scaffold:
         # Iterate over each repository and update
         for repo_url in repo_list:
             repo_name = repo_url.split("/")[-1].replace(".git", "")
-            repo_dir = os.path.join(SERVER_PATH_DOCS, "🔥Awesome_Pages", repo_name)
+            repo_dir = os.path.join(SERVER_PATH_DOCS, "Awesome_Pages", repo_name)
             target_readme_path = os.path.join(repo_dir, f"{repo_name}_README.md")
 
             # Clone or update the repository and copy README.md
