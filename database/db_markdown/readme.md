@@ -1,5 +1,5 @@
 # arxiv-daily
-Updated on 2025-01-13
+Updated on 2025-01-14
 
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/your-repo).
 
@@ -691,6 +691,7 @@ Updated on 2025-01-13
 |2025-01-07|**Semise: Semi-supervised learning for severity representation in medical image**|Dung T. Tran, Hung Vu, Anh Tran, Hieu Pham, Hong Nguyen, Phong Nguyen et.al.|[PDF](http://arxiv.org/abs/2501.03848v1)|null|
 |2025-01-07|**An innovative mixed reality approach for Robotics Surgery**|Gabriela Rus, Nadim Al Hajjar, Ionut Zima, Calin Vaida, Corina Radu, Damien Chablat, Andra Ciocan, Doina Pîslă et.al.|[PDF](http://arxiv.org/abs/2501.03819v1)|null|
 |2025-01-07|**Self-adaptive vision-language model for 3D segmentation of pulmonary artery and vein**|Xiaotong Guo, Deqian Yang, Dan Wang, Haochen Zhao, Yuan Li, Zhilin Sui, Tao Zhou, Lijun Zhang, Yanda Meng et.al.|[PDF](http://arxiv.org/abs/2501.03722v1)|null|
+|2025-01-07|**Visual question answering: from early developments to recent advances -- a survey**|Ngoc Dung Huynh, Mohamed Reda Bouadjenek, Sunil Aryal, Imran Razzak, Hakim Hacid et.al.|[PDF](http://arxiv.org/abs/2501.03939v2)|null|
 
 ### Medical Image Analysis
 
