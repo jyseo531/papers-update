@@ -18,6 +18,7 @@ theme:
     - navigation.indexes
 
 repo_url: https://github.com/chimdungs/arxiv-daily
+site_url: https://chimdungs.github.io/arxiv-daily
 
 markdown_extensions:
   - def_list

@@ -112,13 +112,13 @@ class ToolBox:
             except Exception as e:
                 logger.error(f"Failed to pull latest changes for {repo_dir}: {e}")
 
-        # Copy the README.md file to the target path
-        readme_path = os.path.join(repo_dir, "README.md")
-        if os.path.exists(readme_path):
-            shutil.copyfile(readme_path, target_path)
-            logger.info(f"Updated README.md copied to {target_path}")
-        else:
-            logger.warning(f"README.md not found in {repo_dir}")
+        # # Copy the README.md file to the target path
+        # readme_path = os.path.join(repo_dir, "README.md")
+        # if os.path.exists(readme_path):
+        #     shutil.copyfile(readme_path, target_path)
+        #     logger.info(f"Updated README.md copied to {target_path}")
+        # else:
+        #     logger.warning(f"README.md not found in {repo_dir}")
 
 class CoroutineSpeedup:
     """轻量化的协程控件"""
