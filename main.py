@@ -90,7 +90,7 @@ class ToolBox:
                 return []
 
     @staticmethod
-    # Awesome github pages 업데이트 동기화 함수
+    # Awesome github pages 업데이트 동기화(git-pull) 함수
     # SERVER_PATH_AWESOME = join(SERVER_DIR_DOCS, "Awesome_Pages")
 
     def update_readme(repo_url: str, repo_dir: str, target_path: str):
