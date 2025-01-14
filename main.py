@@ -91,18 +91,20 @@ class ToolBox:
 
     @staticmethod
     # Awesome github pages 업데이트 동기화 함수
+    # SERVER_PATH_AWESOME = join(SERVER_DIR_DOCS, "🔥Awesome_Pages")
+
     def update_readme(repo_url: str, repo_dir: str, target_path: str):
         """
         Clone the repo if not exists, or pull the latest changes, and copy README.md to the target path.
 
         Args:
-            repo_url (str): URL of the repository to pull updates from.
-            repo_dir (str): Local directory where the repository is cloned.
-            target_path (str): Path to copy the updated README.md file.
+            repo_url (str): URL of the repository to pull updates from.     ex) https://github.com/Hannibal046/Awesome-LLM.git
+            repo_dir (str): Local directory where the repository is cloned. ex) docs/🔥Awesome_Pages/Awesome-LLM
+            target_path (str): Path to copy the updated README.md file.     ex) docs/🔥Awesome_Pages/Awesome-LLM_README.md
         """
         if not os.path.exists(repo_dir):
             # Clone the repository if it doesn't exist
-            os.system(f"git clone {repo_url} {repo_dir}")
+            os.system(f"git clone {repo_url} {repo_dir}")           # hand pose estimation 레포만 되고있음
             logger.info(f"Cloned repository: {repo_url}")
         else:
             # Pull the latest changes if repository exists
@@ -112,13 +114,13 @@ class ToolBox:
             except Exception as e:
                 logger.error(f"Failed to pull latest changes for {repo_dir}: {e}")
 
-        # # Copy the README.md file to the target path
-        # readme_path = os.path.join(repo_dir, "README.md")
-        # if os.path.exists(readme_path):
-        #     shutil.copyfile(readme_path, target_path)
-        #     logger.info(f"Updated README.md copied to {target_path}")
-        # else:
-        #     logger.warning(f"README.md not found in {repo_dir}")
+        # Copy the README.md file to the target path
+        readme_path = os.path.join(repo_dir, "README.md")
+        if os.path.exists(readme_path):
+            shutil.copyfile(readme_path, target_path)
+            logger.info(f"Updated README.md copied to {target_path}")
+        else:
+            logger.warning(f"README.md not found in {repo_dir}")
 
 class CoroutineSpeedup:
     """轻量化的协程控件"""
@@ -454,6 +456,7 @@ class Scaffold:
 
         logger.info("All awesome repositories updated successfully.")
 
+        
         # Replace project README file.
         if env == "production":
             with open(SERVER_PATH_README, "w", encoding="utf8") as f:

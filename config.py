@@ -9,7 +9,9 @@ from loguru import logger
 # 定位项目根目录
 SERVER_DIR_PROJECT = dirname(__file__) if "win" in platform else abspath("./")
 
-SERVER_PATH_README = join(SERVER_DIR_PROJECT, "README.md")                                  # default
+SERVER_PATH_README = join(SERVER_DIR_PROJECT, "README.md")          # default
+                                  
+SERVER_PATH_AWESOME = join(SERVER_DIR_DOCS, "🔥Awesome_Pages")
 
 #SERVER_PATH_README = "./database/db_markdown/readme.md"    # DB용 markdown 
 SERVER_PATH_DOCS = join(SERVER_DIR_PROJECT, "docs")
