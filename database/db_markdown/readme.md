@@ -1,5 +1,5 @@
 # arxiv-daily
-Updated on 2025-01-14
+Updated on 2025-01-15
 
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/your-repo).
 
@@ -215,6 +215,7 @@ Updated on 2025-01-14
 |2025-01-13|**Synesthesia of Machines Based Multi-Modal Intelligent V2V Channel Model**|Zengrui Han, Lu Bai, Ziwei Huang, Xiang Cheng et.al.|[PDF](http://arxiv.org/abs/2501.07333v1)|null|
 |2025-01-13|**Representation Learning of Point Cloud Upsampling in Global and Local Inputs**|Tongxu Zhang, Bei Wang et.al.|[PDF](http://arxiv.org/abs/2501.07076v1)|null|
 |2025-01-13|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu, Rong Liu, Meida Chen, Andrew Feng, Peter Beerel et.al.|[PDF](http://arxiv.org/abs/2501.07015v1)|null|
+|2025-01-13|**Synthesis and Analysis of Data as Probability Measures with Entropy-Regularized Optimal Transport**|Brendan Mallery, James M. Murphy, Shuchin Aeron et.al.|[PDF](http://arxiv.org/abs/2501.07446v2)|[link](https://github.com/brendanmallery9/entropic-barycenters)**)|
 |2025-01-12|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng, Steve Zhang, Weizhe Lin, Aaron Zhang, Walterio W. Mayol-Cuevas, Junxiao Shen et.al.|[PDF](http://arxiv.org/abs/2501.06927v1)|null|
 |2025-01-10|**Semantic Mapping in Indoor Embodied AI -- A Comprehensive Survey and Future Directions**|Sonia Raychaudhuri, Angel X. Chang et.al.|[PDF](http://arxiv.org/abs/2501.05750v1)|null|
 |2025-01-10|**LPRnet: A self-supervised registration network for LiDAR and photogrammetric point clouds**|Chen Wang, Yanfeng Gu, Xian Li et.al.|[PDF](http://arxiv.org/abs/2501.05669v1)|null|
@@ -318,6 +319,7 @@ Updated on 2025-01-14
 |2025-01-10|**Q-MAML: Quantum Model-Agnostic Meta-Learning for Variational Quantum Algorithms**|Junyong Lee, JeiHee Cho, Shiho Kim et.al.|[PDF](http://arxiv.org/abs/2501.05906v1)|null|
 |2025-01-09|**Coordinated Control of Deformation and Flight for Morphing Aircraft via Meta-Learning and Coupled State-Dependent Riccati Equations**|Hao-Chi Che, Huai-Ning Wu et.al.|[PDF](http://arxiv.org/abs/2501.05102v1)|null|
 |2025-01-08|**Meta-learning-based percussion transcription and $t\bar{a}la$ identification from low-resource audio**|Rahul Bapusaheb Kodag, Vipul Arora et.al.|[PDF](http://arxiv.org/abs/2501.04742v1)|null|
+|2025-01-08|**Meta-learning-based percussion transcription and $t\bar{a}la$ identification from low-resource audio**|Rahul Bapusaheb Kodag, Vipul Arora et.al.|[PDF](http://arxiv.org/abs/2501.04742v2)|null|
 |2025-01-07|**Optimizing Value of Learning in Task-Oriented Federated Meta-Learning Systems**|Bibo Wu, Fang Fang, Xianbin Wang et.al.|[PDF](http://arxiv.org/abs/2501.03448v1)|null|
 |2025-01-05|**AMM: Adaptive Modularized Reinforcement Model for Multi-city Traffic Signal Control**|Zherui Huang, Yicheng Liu, Chumeng Liang, Guanjie Zheng et.al.|[PDF](http://arxiv.org/abs/2501.02548v1)|null|
 |2025-01-05|**MetaNeRV: Meta Neural Representations for Videos with Spatial-Temporal Guidance**|Jialong Guo, Ke liu, Jiangchao Yao, Zhihua Wang, Jiajun Bu, Haishuai Wang et.al.|[PDF](http://arxiv.org/abs/2501.02427v1)|null|
@@ -585,6 +587,7 @@ Updated on 2025-01-14
 |2025-01-13|**Guided SAM: Label-Efficient Part Segmentation**|S. B. van Rooij, G. J. Burghouts et.al.|[PDF](http://arxiv.org/abs/2501.07434v1)|null|
 |2025-01-13|**Fast-Revisit Coverage Path Planning for Autonomous Mobile Patrol Robots Using Long-Range Sensor Information**|Srinivas Kachavarapu, Tobias Doernbach, Reinhard Gerndt et.al.|[PDF](http://arxiv.org/abs/2501.07343v1)|null|
 |2025-01-13|**Evaluation of Artificial Intelligence Methods for Lead Time Prediction in Non-Cycled Areas of Automotive Production**|Cornelius Hake, Jonas Weigele, Frederik Reichert, Christian Friedrich et.al.|[PDF](http://arxiv.org/abs/2501.07317v1)|null|
+|2025-01-13|**Evaluation of Artificial Intelligence Methods for Lead Time Prediction in Non-Cycled Areas of Automotive Production**|Cornelius Hake, Jonas Weigele, Frederik Reichert, Christian Friedrich et.al.|[PDF](http://arxiv.org/abs/2501.07317v2)|null|
 |2025-01-10|**CoDriveVLM: VLM-Enhanced Urban Cooperative Dispatching and Motion Planning for Future Autonomous Mobility on Demand Systems**|Haichao Liu, Ruoyu Yao, Wenru Liu, Zhenmin Huang, Shaojie Shen, Jun Ma et.al.|[PDF](http://arxiv.org/abs/2501.06132v1)|null|
 |2025-01-10|**A Mixed-Integer Conic Program for the Multi-Agent Moving-Target Traveling Salesman Problem**|Allen George Philip, Zhongqiang Ren, Sivakumar Rathinam, Howie Choset et.al.|[PDF](http://arxiv.org/abs/2501.06130v1)|null|
 |2025-01-10|**NDOB-Based Control of a UAV with Delta-Arm Considering Manipulator Dynamics**|Hongming Chen, Biyu Ye, Xianqi Liang, Weiliang Deng, Ximin Lyu et.al.|[PDF](http://arxiv.org/abs/2501.06122v1)|null|
@@ -711,6 +714,7 @@ Updated on 2025-01-14
 |2025-01-10|**Overcoming Language Priors for Visual Question Answering Based on Knowledge Distillation**|Daowan Peng, Wei Wei et.al.|[PDF](http://arxiv.org/abs/2501.05690v1)|null|
 |2025-01-10|**Diffusion-Enhanced Optimization of Variational Quantum Eigensolver for General Hamiltonians**|Shikun Zhang, Zheng Qin, Yongyou Zhang, Yang Zhou, Rui Li, Chunxiao Du, Zhisong Xiao et.al.|[PDF](http://arxiv.org/abs/2501.05666v1)|null|
 |2025-01-10|**Counterfactually Fair Reinforcement Learning via Sequential Data Preprocessing**|Jitao Wang, Chengchun Shi, John D. Piette, Joshua R. Loftus, Donglin Zeng, Zhenke Wu et.al.|[PDF](http://arxiv.org/abs/2501.06366v1)|null|
+|2025-01-10|**Counterfactually Fair Reinforcement Learning via Sequential Data Preprocessing**|Jitao Wang, Chengchun Shi, John D. Piette, Joshua R. Loftus, Donglin Zeng, Zhenke Wu et.al.|[PDF](http://arxiv.org/abs/2501.06366v2)|null|
 |2025-01-09|**An Algorithmic Approach for Causal Health Equity: A Look at Race Differentials in Intensive Care Unit (ICU) Outcomes**|Drago Plecko, Paul Secombe, Andrea Clarke, Amelia Fiske, Samarra Toby, Donisha Duff, David Pilcher, Leo Anthony Celi, Rinaldo Bellomo, Elias Bareinboim et.al.|[PDF](http://arxiv.org/abs/2501.05197v1)|null|
 |2025-01-09|**Commonsense Video Question Answering through Video-Grounded Entailment Tree Reasoning**|Huabin Liu, Filip Ilievski, Cees G. M. Snoek et.al.|[PDF](http://arxiv.org/abs/2501.05069v1)|null|
 |2025-01-09|**LLaVA-Octopus: Unlocking Instruction-Driven Adaptive Projector Fusion for Video Understanding**|Jiaxing Zhao, Boyuan Sun, Xiang Chen, Xihan Wei, Qibin Hou et.al.|[PDF](http://arxiv.org/abs/2501.05067v1)|null|
@@ -730,6 +734,7 @@ Updated on 2025-01-14
 |:-----------|:-----|:------|:---|:---|
 |2025-01-13|**RadAlign: Advancing Radiology Report Generation with Vision-Language Concept Alignment**|Difei Gu, Yunhe Gao, Yang Zhou, Mu Zhou, Dimitris Metaxas et.al.|[PDF](http://arxiv.org/abs/2501.07525v1)|null|
 |2025-01-13|**BIOMEDICA: An Open Biomedical Image-Caption Archive, Dataset, and Vision-Language Models Derived from Scientific Literature**|Alejandro Lozano, Min Woo Sun, James Burgess, Liangyu Chen, Jeffrey J Nirschl, Jeffrey Gu, Ivan Lopez, Josiah Aklilu, Austin Wolfgang Katzer, Collin Chiu, Anita Rau, Xiaohan Wang, Yuhui Zhang, Alfred Seunghoon Song, Robert Tibshirani, Serena Yeung-Levy et.al.|[PDF](http://arxiv.org/abs/2501.07171v1)|null|
+|2025-01-13|**BIOMEDICA: An Open Biomedical Image-Caption Archive, Dataset, and Vision-Language Models Derived from Scientific Literature**|Alejandro Lozano, Min Woo Sun, James Burgess, Liangyu Chen, Jeffrey J Nirschl, Jeffrey Gu, Ivan Lopez, Josiah Aklilu, Austin Wolfgang Katzer, Collin Chiu, Anita Rau, Xiaohan Wang, Yuhui Zhang, Alfred Seunghoon Song, Robert Tibshirani, Serena Yeung-Levy et.al.|[PDF](http://arxiv.org/abs/2501.07171v2)|[link](https://github.com/minwoosun/biomedica-etl)**)|
 |2025-01-12|**VidChain: Chain-of-Tasks with Metric-based Direct Preference Optimization for Dense Video Captioning**|Ji Soo Lee, Jongha Kim, Jeehye Na, Jinyoung Park, Hyunwoo J. Kim et.al.|[PDF](http://arxiv.org/abs/2501.06761v1)|null|
 |2025-01-08|**Improving Image Captioning by Mimicking Human Reformulation Feedback at Inference-time**|Uri Berger, Omri Abend, Lea Frermann, Gabriel Stanovsky et.al.|[PDF](http://arxiv.org/abs/2501.04513v1)|null|
 |2025-01-05|**Generalizing from SIMPLE to HARD Visual Reasoning: Can We Mitigate Modality Imbalance in VLMs?**|Simon Park, Abhishek Panigrahi, Yun Cheng, Dingli Yu, Anirudh Goyal, Sanjeev Arora et.al.|[PDF](http://arxiv.org/abs/2501.02669v1)|[link](https://github.com/princeton-pli/vlm_s2h)**)|
