@@ -292,6 +292,16 @@ Updated on 2025-01-15
 |2024-12-10|**A Real-time Degeneracy Sensing and Compensation Method for Enhanced LiDAR SLAM**|Zongbo Liao, Xuanxuan Zhang, Tianxiang Zhang, Zhi Li, Zhenqi Zheng, Zhichao Wen, You Li et.al.|[PDF](http://arxiv.org/abs/2412.07513v1)|null|
 |2024-12-07|**AutoURDF: Unsupervised Robot Modeling from Point Cloud Frames Using Cluster Registration**|Jiong Lin, Lechen Zhang, Kwansoo Lee, Jialong Ning, Judah Goldfeder, Hod Lipson et.al.|[PDF](http://arxiv.org/abs/2412.05507v1)|null|
 
+### 3D Reconstruction
+
+|Publish Date|Title|Authors|PDF|Code|
+|:-----------|:-----|:------|:---|:---|
+|2025-01-10|**MEt3R: Measuring Multi-View Consistency in Generated Images**|Mohammad Asim, Christopher Wewer, Thomas Wimmer, Bernt Schiele, Jan Eric Lenssen et.al.|[PDF](http://arxiv.org/abs/2501.06336v1)|null|
+|2025-01-07|**ConcealGS: Concealing Invisible Copyright Information in 3D Gaussian Splatting**|Yifeng Yang, Hengyu Liu, Chenxin Li, Yining Sun, Wuyang Li, Yifan Liu, Yiyang Lin, Yixuan Yuan, Nanyang Ye et.al.|[PDF](http://arxiv.org/abs/2501.03605v1)|[link](https://github.com/zxk1212/concealgs)**)|
+|2025-01-06|**AE-NeRF: Augmenting Event-Based Neural Radiance Fields for Non-ideal Conditions and Larger Scene**|Chaoran Feng, Wangbo Yu, Xinhua Cheng, Zhenyu Tang, Junwu Zhang, Li Yuan, Yonghong Tian et.al.|[PDF](http://arxiv.org/abs/2501.02807v2)|null|
+|2025-01-03|**JoyGen: Audio-Driven 3D Depth-Aware Talking-Face Video Editing**|Qili Wang, Dajiang Wu, Zihang Xu, Junshi Huang, Jun Lv et.al.|[PDF](http://arxiv.org/abs/2501.01798v1)|[link](https://github.com/JOY-MM/JoyGen)**)|
+|2025-01-03|**Laparoscopic Scene Analysis for Intraoperative Visualisation of Gamma Probe Signals in Minimally Invasive Cancer Surgery**|Baoru Huang et.al.|[PDF](http://arxiv.org/abs/2501.01752v1)|null|
+
 ## Few-shot Learning
 
 ### Few-shot Learning
@@ -864,6 +874,7 @@ Updated on 2025-01-15
 |2025-01-13|**Parallel Key-Value Cache Fusion for Position Invariant RAG**|Philhoon Oh, Jinwoo Shin, James Thorne et.al.|[PDF](http://arxiv.org/abs/2501.07523v1)|null|
 |2025-01-13|**Exploring and Mitigating Adversarial Manipulation of Voting-Based Leaderboards**|Yangsibo Huang, Milad Nasr, Anastasios Angelopoulos, Nicholas Carlini, Wei-Lin Chiang, Christopher A. Choquette-Choo, Daphne Ippolito, Matthew Jagielski, Katherine Lee, Ken Ziyu Liu, Ion Stoica, Florian Tramer, Chiyuan Zhang et.al.|[PDF](http://arxiv.org/abs/2501.07493v1)|null|
 |2025-01-13|**TiEBe: A Benchmark for Assessing the Current Knowledge of Large Language Models**|Thales Sales Almeida, Giovana Kerche Bonás, João Guilherme Alves Santos, Hugo Abonizio, Rodrigo Nogueira et.al.|[PDF](http://arxiv.org/abs/2501.07482v1)|null|
+|2025-01-13|**WebWalker: Benchmarking LLMs in Web Traversal**|Jialong Wu, Wenbiao Yin, Yong Jiang, Zhenglin Wang, Zekun Xi, Runnan Fang, Linhai Zhang, Yulan He, Deyu Zhou, Pengjun Xie, Fei Huang et.al.|[PDF](http://arxiv.org/abs/2501.07572v2)|[link](https://github.com/alibaba-nlp/webwalker)**)|
 |2025-01-10|**Supervision policies can shape long-term risk management in general-purpose AI models**|Manuel Cebrian, Emilia Gomez, David Fernandez Llorca et.al.|[PDF](http://arxiv.org/abs/2501.06137v1)|null|
 |2025-01-10|**Contextual ASR Error Handling with LLMs Augmentation for Goal-Oriented Conversational AI**|Yuya Asano, Sabit Hassan, Paras Sharma, Anthony Sicilia, Katherine Atwell, Diane Litman, Malihe Alikhani et.al.|[PDF](http://arxiv.org/abs/2501.06129v1)|null|
 |2025-01-10|**Fleurs-SLU: A Massively Multilingual Benchmark for Spoken Language Understanding**|Fabian David Schmidt, Ivan Vulić, Goran Glavaš, David Ifeoluwa Adelani et.al.|[PDF](http://arxiv.org/abs/2501.06117v1)|null|
