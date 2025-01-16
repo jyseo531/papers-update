@@ -48,7 +48,8 @@ def save_to_db(conn, data):
                 authors = fields[3]
                 first_author = authors.split(",")[0]
                 pdf_url = fields[4].split("(")[-1].strip(")")
-                code_url = fields[5].split("(")[-1].strip(")") if "link" in fields[5] else None
+                updated_date = fields[5].strip("**")  # updated_date 추가
+                code_url = fields[6].split("(")[-1].strip(")") if "link" in fields[5] else None
                 # Insert into database
                 cursor.execute("""
                     INSERT OR IGNORE INTO papers
