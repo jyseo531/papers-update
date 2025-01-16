@@ -18,6 +18,7 @@ base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 def init_db(db_name="arxiv.db"):
     conn = sqlite3.connect(db_name)
     cursor = conn.cursor()
+    cursor.execute("DROP TABLE IF EXISTS papers")
     cursor.execute("""
         CREATE TABLE IF NOT EXISTS papers (
             id TEXT PRIMARY KEY,
