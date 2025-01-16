@@ -54,7 +54,7 @@ def save_to_db(conn, data):
                     INSERT OR IGNORE INTO papers
                     (id, topic, subtopic, publish_date, title, authors, first_author, pdf_url, updated_date, code_url)
                     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-                """, (paper_id, topic, subtopic, publish_date, title, authors, first_author, pdf_url, code_url))
+                """, (paper_id, topic, subtopic, publish_date, title, authors, first_author, pdf_url, updated_date, code_url))
     conn.commit()
 
 def get_authors(authors, first_author=False):
