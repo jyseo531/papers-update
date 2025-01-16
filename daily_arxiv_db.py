@@ -28,6 +28,7 @@ def init_db(db_name="arxiv.db"):
             authors TEXT,
             first_author TEXT,
             pdf_url TEXT,
+            updated_date TEXT,
             code_url TEXT
         )
     """)
@@ -50,8 +51,8 @@ def save_to_db(conn, data):
                 # Insert into database
                 cursor.execute("""
                     INSERT OR IGNORE INTO papers
-                    (id, topic, subtopic, publish_date, title, authors, first_author, pdf_url, code_url)
-                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+                    (id, topic, subtopic, publish_date, title, authors, first_author, pdf_url, updated_date, code_url)
+                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 """, (paper_id, topic, subtopic, publish_date, title, authors, first_author, pdf_url, code_url))
     conn.commit()
 
