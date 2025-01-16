@@ -182,7 +182,7 @@ class CoroutineSpeedup:
             paper_first_author = result.authors[0]
 
             publish_time = result.published.date()
-
+            updated_time = result.updated.date()  # updated 날짜 추가
             ver_pos = paper_id.find("v")
             paper_key = paper_id if ver_pos == -1 else paper_id[0:ver_pos]
 
@@ -227,6 +227,7 @@ class CoroutineSpeedup:
                         "authors": f"{paper_first_author} et.al.",
                         "id": paper_id,
                         "paper_url": paper_url,
+                        "updated_time": updated_time,  # 추가
                         "repo": repo_url,
                     },
                 }
@@ -236,7 +237,7 @@ class CoroutineSpeedup:
                 "paper": _paper,
                 "topic": context["hook"]["topic"],
                 "subtopic": context["hook"]["subtopic"],
-                "fields": ["Publish Date", "Title", "Authors", "PDF", "Code"],
+                "fields": ["Publish Date", "Title", "Authors", "PDF", "Last Updated", "Code"],
             }
         )
         logger.success(
@@ -325,6 +326,7 @@ class _OverloadTasks:
 
     def _generate_markdown_table_content(self, paper: dict):
         paper["publish_time"] = f"**{paper['publish_time']}**"
+        paper["updated_time"] = f"**{paper['updated_time']}**"  # 추가
         paper["title"] = f"**{paper['title']}**"
         _pdf = self._set_markdown_hyperlink(text=paper["id"], link=paper["paper_url"])
         _repo = (
@@ -338,6 +340,7 @@ class _OverloadTasks:
             f"|{paper['title']}"
             f"|{paper['authors']}"
             f"|{_pdf}"
+            f"|{paper['updated_time']}"
             f"|{_repo}|\n"
         )
 

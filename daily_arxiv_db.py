@@ -81,14 +81,18 @@ def get_daily_papers(topic: str, query: str = "slam", max_results=2):
         paper_authors = get_authors(result.authors)
         paper_first_author = get_authors(result.authors, first_author=True)
         publish_time = result.published.date()
+        updated_time = result.updated.date()    # 최종 업데이트 날짜 추가 
     
         try:
             r = requests.get(code_url).json()
             if "official" in r and r["official"]:
                 repo_url = r["official"]["url"]
-                content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
+                # content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
+                content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**{updated_time}**|**[link]({repo_url})**|\n"
+            
             else: # OCR 
-                content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|null|\n"
+                content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**{updated_time}**|null|\n"
+        
         except Exception as e:
             print(f"Exception: {e} with id: {paper_id}")
     return {topic: content}
@@ -116,10 +120,10 @@ def db_to_md(conn, md_filename="./database/db_markdown/readme.md"):
             for subtopic in subtopics:
                 subtopic_name = subtopic[0]
                 f.write(f"### {subtopic_name}\n\n")
-                f.write("|Publish Date|Title|Authors|PDF|Code|\n")
+                f.write("|Publish Date|Title|Authors|PDF|Last Updated|Code|\n")
                 f.write("|:-----------|:-----|:------|:---|:---|\n")
                 cursor.execute("""
-                    SELECT publish_date, title, authors, pdf_url, code_url
+                    SELECT publish_date, title, authors, pdf_url, updated_date, code_url
                     FROM papers
                     WHERE topic=? AND subtopic=?
                     ORDER BY publish_date DESC
@@ -128,7 +132,7 @@ def db_to_md(conn, md_filename="./database/db_markdown/readme.md"):
                 for paper in papers:
                     publish_date, title, authors, pdf_url, code_url = paper
                     code_link = f"[link]({code_url})" if code_url else "null"
-                    f.write(f"|{publish_date}|**{title}**|{authors}|[PDF]({pdf_url})|{code_link}|\n")
+                    f.write(f"|{publish_date}|**{title}**|{authors}|[PDF]({pdf_url})|{updated_date}|{code_link}|\n")
                 f.write("\n")
     print(f"Markdown file '{md_filename}' generated successfully.")
 
