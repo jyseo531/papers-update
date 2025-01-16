@@ -1,5 +1,5 @@
 # arxiv-daily
-Updated on 2025-01-15
+Updated on 2025-01-16
 
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/your-repo).
 
@@ -16,6 +16,7 @@ Updated on 2025-01-15
 |2025-01-14|**Parameter-Inverted Image Pyramid Networks for Visual Perception and Multimodal Understanding**|Zhaokai Wang, Xizhou Zhu, Xue Yang, Gen Luo, Hao Li, Changyao Tian, Wenhan Dou, Junqi Ge, Lewei Lu, Yu Qiao, Jifeng Dai et.al.|[PDF](http://arxiv.org/abs/2501.07783v1)|[link](https://github.com/opengvlab/piip)**)|
 |2025-01-13|**Uncertainty Guarantees on Automated Precision Weeding using Conformal Prediction**|Paul Melki, Lionel Bombrun, Boubacar Diallo, Jérôme Dias, Jean-Pierre da Costa et.al.|[PDF](http://arxiv.org/abs/2501.07185v1)|null|
 |2025-01-13|**Adaptive Noise-Tolerant Network for Image Segmentation**|Weizhi Li et.al.|[PDF](http://arxiv.org/abs/2501.07163v1)|null|
+|2025-01-13|**Adaptive Noise-Tolerant Network for Image Segmentation**|Weizhi Li et.al.|[PDF](http://arxiv.org/abs/2501.07163v2)|null|
 |2025-01-12|**LarvSeg: Exploring Image Classification Data For Large Vocabulary Semantic Segmentation via Category-wise Attentive Classifier**|Haojun Yu, Di Dai, Ziwei Zhao, Di He, Han Hu, Liwei Wang et.al.|[PDF](http://arxiv.org/abs/2501.06862v1)|null|
 |2025-01-12|**Rice Leaf Disease Detection: A Comparative Study Between CNN, Transformer and Non-neural Network Architectures**|Samia Mehnaz, Md. Touhidul Islam et.al.|[PDF](http://arxiv.org/abs/2501.06740v1)|null|
 |2025-01-10|**Merging Feed-Forward Sublayers for Compressed Transformers**|Neha Verma, Kenton Murray, Kevin Duh et.al.|[PDF](http://arxiv.org/abs/2501.06126v1)|null|
@@ -312,6 +313,7 @@ Updated on 2025-01-15
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-----------|:-----|:------|:---|:---|
+|2025-01-13|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu, Rong Liu, Meida Chen, Peter Beerel, Andrew Feng et.al.|[PDF](http://arxiv.org/abs/2501.07015v2)|null|
 |2025-01-10|**MEt3R: Measuring Multi-View Consistency in Generated Images**|Mohammad Asim, Christopher Wewer, Thomas Wimmer, Bernt Schiele, Jan Eric Lenssen et.al.|[PDF](http://arxiv.org/abs/2501.06336v1)|null|
 |2025-01-07|**ConcealGS: Concealing Invisible Copyright Information in 3D Gaussian Splatting**|Yifeng Yang, Hengyu Liu, Chenxin Li, Yining Sun, Wuyang Li, Yifan Liu, Yiyang Lin, Yixuan Yuan, Nanyang Ye et.al.|[PDF](http://arxiv.org/abs/2501.03605v1)|[link](https://github.com/zxk1212/concealgs)**)|
 |2025-01-06|**AE-NeRF: Augmenting Event-Based Neural Radiance Fields for Non-ideal Conditions and Larger Scene**|Chaoran Feng, Wangbo Yu, Xinhua Cheng, Zhenyu Tang, Junwu Zhang, Li Yuan, Yonghong Tian et.al.|[PDF](http://arxiv.org/abs/2501.02807v2)|null|
@@ -491,6 +493,7 @@ Updated on 2025-01-15
 |2025-01-14|**Continual Reinforcement Learning for Digital Twin Synchronization Optimization**|Haonan Tong, Mingzhe Chen, Jun Zhao, Ye Hu, Zhaohui Yang, Yuchen Liu, Changchuan Yin et.al.|[PDF](http://arxiv.org/abs/2501.08045v1)|null|
 |2025-01-14|**READ: Reinforcement-based Adversarial Learning for Text Classification with Limited Labeled Data**|Rohit Sharma, Shanu Kumar, Avinash Kumar et.al.|[PDF](http://arxiv.org/abs/2501.08035v1)|null|
 |2025-01-14|**Cooperative Patrol Routing: Optimizing Urban Crime Surveillance through Multi-Agent Reinforcement Learning**|Juan Palma-Borda, Eduardo Guzmán, María-Victoria Belmonte et.al.|[PDF](http://arxiv.org/abs/2501.08020v1)|null|
+|2025-01-14|**Data-driven inventory management for new products: A warm-start and adjusted Dyna-$Q$ approach**|Xinye Qu, Longxiao Liu, Wenjie Huang et.al.|[PDF](http://arxiv.org/abs/2501.08109v2)|null|
 |2025-01-13|**SafeSwarm: Decentralized Safe RL for the Swarm of Drones Landing in Dense Crowds**|Grik Tadevosyan, Maksim Osipenko, Demetros Aschu, Aleksey Fedoseev, Valerii Serpiva, Oleg Sautenkov, Sausar Karaf, Dzmitry Tsetserukou et.al.|[PDF](http://arxiv.org/abs/2501.07566v1)|null|
 |2025-01-13|**Improving DeFi Accessibility through Efficient Liquidity Provisioning with Deep Reinforcement Learning**|Haonan Xu, Alessio Brini et.al.|[PDF](http://arxiv.org/abs/2501.07508v1)|null|
 |2025-01-13|**RbRL2.0: Integrated Reward and Policy Learning for Rating-based Reinforcement Learning**|Mingkang Wu, Devin White, Vernon Lawhern, Nicholas R. Waytowich, Yongcan Cao et.al.|[PDF](http://arxiv.org/abs/2501.07502v1)|null|
@@ -747,6 +750,7 @@ Updated on 2025-01-15
 |2025-01-14|**A Multi-Modal AI Copilot for Single-Cell Analysis with Instruction Following**|Yin Fang, Xinle Deng, Kangwei Liu, Ningyu Zhang, Jingyang Qian, Penghui Yang, Xiaohui Fan, Huajun Chen et.al.|[PDF](http://arxiv.org/abs/2501.08187v1)|null|
 |2025-01-14|**CG-MER: A Card Game-based Multimodal dataset for Emotion Recognition**|Nessrine Farhat, Amine Bohi, Leila Ben Letaifa, Rim Slama et.al.|[PDF](http://arxiv.org/abs/2501.08182v1)|null|
 |2025-01-14|**Benchmarking Multimodal Models for Fine-Grained Image Analysis: A Comparative Study Across Diverse Visual Features**|Evgenii Evstafev et.al.|[PDF](http://arxiv.org/abs/2501.08170v1)|null|
+|2025-01-14|**A Multi-Modal AI Copilot for Single-Cell Analysis with Instruction Following**|Yin Fang, Xinle Deng, Kangwei Liu, Ningyu Zhang, Jingyang Qian, Penghui Yang, Xiaohui Fan, Huajun Chen et.al.|[PDF](http://arxiv.org/abs/2501.08187v2)|null|
 |2025-01-13|**Imagine while Reasoning in Space: Multimodal Visualization-of-Thought**|Chengzu Li, Wenshan Wu, Huanyu Zhang, Yan Xia, Shaoguang Mao, Li Dong, Ivan Vulić, Furu Wei et.al.|[PDF](http://arxiv.org/abs/2501.07542v1)|null|
 |2025-01-13|**Aligning First, Then Fusing: A Novel Weakly Supervised Multimodal Violence Detection Method**|Wenping Jin, Li Zhu, Jing Sun et.al.|[PDF](http://arxiv.org/abs/2501.07496v1)|null|
 |2025-01-13|**A Survey on Dynamic Neural Networks: from Computer Vision to Multi-modal Sensor Fusion**|Fabio Montello, Ronja Güldenring, Simone Scardapane, Lazaros Nalpantidis et.al.|[PDF](http://arxiv.org/abs/2501.07451v1)|null|
@@ -956,6 +960,7 @@ Updated on 2025-01-15
 |2025-01-14|**HALoGEN: Fantastic LLM Hallucinations and Where to Find Them**|Abhilasha Ravichander, Shrusti Ghela, David Wadden, Yejin Choi et.al.|[PDF](http://arxiv.org/abs/2501.08292v1)|null|
 |2025-01-14|**AfriHate: A Multilingual Collection of Hate Speech and Abusive Language Datasets for African Languages**|Shamsuddeen Hassan Muhammad, Idris Abdulmumin, Abinew Ali Ayele, David Ifeoluwa Adelani, Ibrahim Said Ahmad, Saminu Mohammad Aliyu, Nelson Odhiambo Onyango, Lilian D. A. Wanzare, Samuel Rutunda, Lukman Jibril Aliyu, Esubalew Alemneh, Oumaima Hourrane, Hagos Tesfahun Gebremichael, Elyas Abdi Ismail, Meriem Beloucif, Ebrahim Chekol Jibril, Andiswa Bukula, Rooweither Mabuya, Salomey Osei, Abigail Oppong, Tadesse Destaw Belay, Tadesse Kebede Guge, Tesfa Tegegne Asfaw, Chiamaka Ijeoma Chukwuneke, Paul Röttger, Seid Muhie Yimam, Nedjma Ousidhoum et.al.|[PDF](http://arxiv.org/abs/2501.08284v1)|null|
 |2025-01-14|**Exploring Robustness of LLMs to Sociodemographically-Conditioned Paraphrasing**|Pulkit Arora, Akbar Karimi, Lucie Flek et.al.|[PDF](http://arxiv.org/abs/2501.08276v1)|null|
+|2025-01-14|**AfriHate: A Multilingual Collection of Hate Speech and Abusive Language Datasets for African Languages**|Shamsuddeen Hassan Muhammad, Idris Abdulmumin, Abinew Ali Ayele, David Ifeoluwa Adelani, Ibrahim Said Ahmad, Saminu Mohammad Aliyu, Nelson Odhiambo Onyango, Lilian D. A. Wanzare, Samuel Rutunda, Lukman Jibril Aliyu, Esubalew Alemneh, Oumaima Hourrane, Hagos Tesfahun Gebremichael, Elyas Abdi Ismail, Meriem Beloucif, Ebrahim Chekol Jibril, Andiswa Bukula, Rooweither Mabuya, Salomey Osei, Abigail Oppong, Tadesse Destaw Belay, Tadesse Kebede Guge, Tesfa Tegegne Asfaw, Chiamaka Ijeoma Chukwuneke, Paul Röttger, Seid Muhie Yimam, Nedjma Ousidhoum et.al.|[PDF](http://arxiv.org/abs/2501.08284v2)|null|
 |2025-01-13|**WebWalker: Benchmarking LLMs in Web Traversal**|Jialong Wu, Wenbiao Yin, Yong Jiang, Zhenglin Wang, Zekun Xi, Runnan Fang, Deyu Zhou, Pengjun Xie, Fei Huang et.al.|[PDF](http://arxiv.org/abs/2501.07572v1)|[link](https://github.com/alibaba-nlp/webwalker)**)|
 |2025-01-13|**ML Mule: Mobile-Driven Context-Aware Collaborative Learning**|Haoxiang Yu, Javier Berrocal, Christine Julien et.al.|[PDF](http://arxiv.org/abs/2501.07536v1)|null|
 |2025-01-13|**Investigating Large Language Models in Inferring Personality Traits from User Conversations**|Jianfeng Zhu, Ruoming Jin, Karin G. Coifman et.al.|[PDF](http://arxiv.org/abs/2501.07532v1)|null|
