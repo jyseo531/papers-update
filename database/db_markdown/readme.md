@@ -488,6 +488,21 @@ Updated on 2025-01-17
 |2025-01-08|**Improving Image Captioning by Mimicking Human Reformulation Feedback at Inference-time**|Uri Berger, Omri Abend, Lea Frermann, Gabriel Stanovsky et.al.|[PDF](http://arxiv.org/abs/2501.04513v1)|2025-01-08|null|
 |2025-01-07|**Evaluating Image Caption via Cycle-consistent Text-to-Image Generation**|Tianyu Cui, Jinbin Bai, Guo-Hua Wang, Qing-Guo Chen, Zhao Xu, Weihua Luo, Kaifu Zhang, Ye Shi et.al.|[PDF](http://arxiv.org/abs/2501.03567v2)|2025-01-08|null|
 
+### Text and Image Generation
+
+|Publish Date|Title|Authors|PDF|Last Updated|Code|
+|:-----------|:-----|:------|:---|:---|
+|2025-01-14|**Religious Bias Landscape in Language and Text-to-Image Models: Analysis, Detection, and Debiasing Strategies**|Ajwad Abrar, Nafisa Tabassum Oeshy, Mohsinul Kabir, Sophia Ananiadou et.al.|[PDF](http://arxiv.org/abs/2501.08441v1)|2025-01-14|null|
+|2024-12-22|**Distilled Decoding 1: One-step Sampling of Image Auto-regressive Models with Flow Matching**|Enshu Liu, Xuefei Ning, Yu Wang, Zinan Lin et.al.|[PDF](http://arxiv.org/abs/2412.17153v2)|2024-12-24|null|
+|2024-12-22|**Modular Conversational Agents for Surveys and Interviews**|Jiangbo Yu, Jinhua Zhao, Luis Miranda-Moreno, Matthew Korp et.al.|[PDF](http://arxiv.org/abs/2412.17049v1)|2024-12-22|null|
+|2024-12-15|**Understanding and Mitigating Memorization in Diffusion Models for Tabular Data**|Zhengyu Fang, Zhimeng Jiang, Huiyuan Chen, Xiao Li, Jing Li et.al.|[PDF](http://arxiv.org/abs/2412.11044v1)|2024-12-15|null|
+|2024-12-09|**The Narrow Gate: Localized Image-Text Communication in Vision-Language Models**|Alessandro Serra, Francesco Ortu, Emanuele Panizon, Lucrezia Valeriani, Lorenzo Basile, Alessio Ansuini, Diego Doimo, Alberto Cazzaniga et.al.|[PDF](http://arxiv.org/abs/2412.06646v1)|2024-12-09|null|
+|2024-12-09|**Flow Matching Guide and Code**|Yaron Lipman, Marton Havasi, Peter Holderrieth, Neta Shaul, Matt Le, Brian Karrer, Ricky T. Q. Chen, David Lopez-Paz, Heli Ben-Hamu, Itai Gat et.al.|[PDF](http://arxiv.org/abs/2412.06264v1)|2024-12-09|null|
+|2024-11-26|**Interleaved Scene Graph for Interleaved Text-and-Image Generation Assessment**|Dongping Chen, Ruoxi Chen, Shu Pu, Zhaoyi Liu, Yanru Wu, Caixi Chen, Benlin Liu, Yue Huang, Yao Wan, Pan Zhou, Ranjay Krishna et.al.|[PDF](http://arxiv.org/abs/2411.17188v1)|2024-11-26|null|
+|2024-11-12|**Evaluating the Generation of Spatial Relations in Text and Image Generative Models**|Shang Hong Sim, Clarence Lee, Alvin Tan, Cheston Tan et.al.|[PDF](http://arxiv.org/abs/2411.07664v1)|2024-11-12|null|
+|2024-11-07|**Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models**|Weixin Liang, Lili Yu, Liang Luo, Srinivasan Iyer, Ning Dong, Chunting Zhou, Gargi Ghosh, Mike Lewis, Wen-tau Yih, Luke Zettlemoyer, Xi Victoria Lin et.al.|[PDF](http://arxiv.org/abs/2411.04996v1)|2024-11-07|null|
+|2024-11-05|**BrainBits: How Much of the Brain are Generative Reconstruction Methods Using?**|David Mayo, Christopher Wang, Asa Harbin, Abdulrahman Alabdulkareem, Albert Eaton Shaw, Boris Katz, Andrei Barbu et.al.|[PDF](http://arxiv.org/abs/2411.02783v1)|2024-11-05|null|
+
 ### Vision-Language
 
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
