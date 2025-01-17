@@ -1,5 +1,5 @@
 # arxiv-daily
-Updated on 2025-01-16
+Updated on 2025-01-17
 
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/your-repo).
 
@@ -406,7 +406,7 @@ Updated on 2025-01-16
 |2025-01-15|**SLC$^2$-SLAM: Semantic-guided Loop Closure with Shared Latent Code for NeRF SLAM**|Yuhang Ming, Di Ma, Weichen Dai, Han Yang, Rui Fan, Guofeng Zhang, Wanzeng Kong et.al.|[PDF](http://arxiv.org/abs/2501.08880v1)|2025-01-15|null|
 |2025-01-15|**The first calibration model for bluetooth angle of arrival: Enhancing positioning accuracy in indoor environments**|Ma'mon Saeed Alghananim, Yuxiang Feng, Washington Yotto Ochieng et.al.|[PDF](http://arxiv.org/abs/2501.08805v1)|2025-01-15|null|
 |2025-01-15|**Task Allocation in Mobile Robot Fleets: A review**|Andrés Meseguer Valenzuela, Francisco Blanes Noguera et.al.|[PDF](http://arxiv.org/abs/2501.08726v1)|2025-01-15|null|
-|2025-01-15|**BRIGHT-VO: Brightness-Guided Hybrid Transformer for Visual Odometry with Multi-modality Refinement Module**|Dongzhihan Wang, Yang Yang, Liang Xu et.al.|[PDF](http://arxiv.org/abs/2501.08659v1)|2025-01-15|null|
+|2025-01-15|**BRIGHT-VO: Brightness-Guided Hybrid Transformer for Visual Odometry with Multi-modality Refinement Module**|Dongzhihan Wang, Yang Yang, Liang Xu et.al.|[PDF](http://arxiv.org/abs/2501.08659v2)|2025-01-16|null|
 
 ### SLAM
 
