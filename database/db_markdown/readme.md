@@ -1,5 +1,5 @@
 # arxiv-daily
-Updated on 2025-01-17
+Updated on 2025-01-18
 
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/your-repo).
 
