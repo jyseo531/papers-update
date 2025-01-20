@@ -100,6 +100,9 @@ def get_daily_papers(topic: str, query: str = "slam", max_results=2):
             print(f"Exception: {e} with id: {paper_id}")
     return {topic: content}
 
+
+
+
     
 def db_to_md(conn, md_filename="./database/db_markdown/readme.md"):
     """
