@@ -161,7 +161,7 @@ if __name__ == "__main__":
             print("Processing Keyword:", subtopic)
             try:
                 processor=None
-                data = get_daily_papers(subtopic, query=keyword, max_results=10, model=model, processor=processor)
+                data = get_daily_papers(subtopic, query=keyword, max_results=10, model=None, processor=processor)
             except Exception as e:
                 print(f"Error processing {subtopic}: {e}")
                 data = None
