@@ -109,3 +109,6 @@ Updated on 2025-01-20
 | meta-llama/Llama-3.2-1B-Instruct | None | [Link](https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct) | llama3.2 | text-generation |
 | meta-llama/Meta-Llama-3-8B-Instruct | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) | llama3 | text-generation |
 | xinsir/controlnet-union-sdxl-1.0 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/xinsir/controlnet-union-sdxl-1.0) | apache-2.0 | text-to-image |
+| deepseek-ai/DeepSeek-R1-Distill-Qwen-32B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B) | Unknown license | None |
+| deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) | Unknown license | None |
+| deepseek-ai/DeepSeek-R1-Distill-Qwen-7B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B) | Unknown license | None |
