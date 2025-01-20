@@ -105,3 +105,6 @@ Updated on 2025-01-20
 | Kijai/HunyuanVideo_comfy | Kijai/HunyuanVideo_comfy | [Link](https://huggingface.co/Kijai/HunyuanVideo_comfy) | other | None |
 | Steelskull/L3.3-MS-Nevoria-70b | Steelskull/L3.3-MS-Nevoria-70b | [Link](https://huggingface.co/Steelskull/L3.3-MS-Nevoria-70b) | llama3.3 | text-generation |
 | Salesforce/SFR-Embedding-Code-2B_R | Salesforce/SFR-Embedding-Code-2B_R | [Link](https://huggingface.co/Salesforce/SFR-Embedding-Code-2B_R) | cc-by-nc-4.0 | None |
+| Qwen/Qwen2.5-7B-Instruct | YaRN: Efficient Context Window Extension of Large Language Models | [Link](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct) | apache-2.0 | text-generation |
+| meta-llama/Llama-3.2-1B-Instruct | The Carbon Footprint of Machine Learning Training Will Plateau, Then
+  Shrink | [Link](https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct) | llama3.2 | text-generation |
