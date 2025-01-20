@@ -99,13 +99,13 @@ Updated on 2025-01-20
 | microsoft/phi-4-gguf | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/microsoft/phi-4-gguf) | mit | text-generation |
 | OuteAI/OuteTTS-0.3-500M-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/OuteAI/OuteTTS-0.3-500M-GGUF) | cc-by-sa-4.0 | text-to-speech |
 | 2Noise/ChatTTS | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/2Noise/ChatTTS) | cc-by-nc-4.0 | text-to-audio |
-| stable-diffusion-v1-5/stable-diffusion-v1-5 | stable-diffusion-v1-5/stable-diffusion-v1-5 | [Link](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5) | creativeml-openrail-m | text-to-image |
+| stable-diffusion-v1-5/stable-diffusion-v1-5 | http://arxiv.org/abs/2210.12192v1 | [Link](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5) | creativeml-openrail-m | text-to-image |
 | xey/sldr_flux_nsfw_v2-studio | xey/sldr_flux_nsfw_v2-studio | [Link](https://huggingface.co/xey/sldr_flux_nsfw_v2-studio) | Unknown license | text-to-image |
 | stabilityai/stable-diffusion-3.5-medium | http://arxiv.org/abs/2403.03206v1 | [Link](https://huggingface.co/stabilityai/stable-diffusion-3.5-medium) | other | text-to-image |
 | Kijai/HunyuanVideo_comfy | Kijai/HunyuanVideo_comfy | [Link](https://huggingface.co/Kijai/HunyuanVideo_comfy) | other | None |
 | Steelskull/L3.3-MS-Nevoria-70b | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Steelskull/L3.3-MS-Nevoria-70b) | llama3.3 | text-generation |
 | Salesforce/SFR-Embedding-Code-2B_R | None | [Link](https://huggingface.co/Salesforce/SFR-Embedding-Code-2B_R) | cc-by-nc-4.0 | None |
-| Qwen/Qwen2.5-7B-Instruct | Qwen/Qwen2.5-7B-Instruct | [Link](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct) | apache-2.0 | text-generation |
+| Qwen/Qwen2.5-7B-Instruct | http://arxiv.org/abs/2405.18009v2 | [Link](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct) | apache-2.0 | text-generation |
 | meta-llama/Llama-3.2-1B-Instruct | None | [Link](https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct) | llama3.2 | text-generation |
 | meta-llama/Meta-Llama-3-8B-Instruct | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) | llama3 | text-generation |
 | xinsir/controlnet-union-sdxl-1.0 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/xinsir/controlnet-union-sdxl-1.0) | apache-2.0 | text-to-image |
