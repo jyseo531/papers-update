@@ -1,5 +1,5 @@
 # arxiv-daily
-Updated on 2025-01-19
+Updated on 2025-01-20
 
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/your-repo).
 
@@ -268,7 +268,7 @@ Updated on 2025-01-19
 |2025-01-08|**Meta-learning-based percussion transcription and $t\bar{a}la$ identification from low-resource audio**|Rahul Bapusaheb Kodag, Vipul Arora et.al.|[PDF](http://arxiv.org/abs/2501.04742v2)|2025-01-14|null|
 |2025-01-07|**Optimizing Value of Learning in Task-Oriented Federated Meta-Learning Systems**|Bibo Wu, Fang Fang, Xianbin Wang et.al.|[PDF](http://arxiv.org/abs/2501.03448v1)|2025-01-07|null|
 |2025-01-05|**AMM: Adaptive Modularized Reinforcement Model for Multi-city Traffic Signal Control**|Zherui Huang, Yicheng Liu, Chumeng Liang, Guanjie Zheng et.al.|[PDF](http://arxiv.org/abs/2501.02548v1)|2025-01-05|null|
-|2025-01-05|**MetaNeRV: Meta Neural Representations for Videos with Spatial-Temporal Guidance**|Jialong Guo, Ke liu, Jiangchao Yao, Zhihua Wang, Jiajun Bu, Haishuai Wang et.al.|[PDF](http://arxiv.org/abs/2501.02427v1)|2025-01-05|null|
+|2025-01-05|**MetaNeRV: Meta Neural Representations for Videos with Spatial-Temporal Guidance**|Jialong Guo, Ke liu, Jiangchao Yao, Zhihua Wang, Jiajun Bu, Haishuai Wang et.al.|[PDF](http://arxiv.org/abs/2501.02427v2)|2025-01-17|null|
 
 ## Unsupervised Learning
 
@@ -291,7 +291,7 @@ Updated on 2025-01-19
 
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 |:-----------|:-----|:------|:---|:---|
-|2025-01-15|**VECT-GAN: A variationally encoded generative model for overcoming data scarcity in pharmaceutical science**|Youssef Abdalla, Marrisa Taub, Eleanor Hilton, Priya Akkaraju, Alexander Milanovic, Mine Orlu, Abdul W. Basit, Michael T Cook, Tapabrata Chakraborty, David Shorthouse et.al.|[PDF](http://arxiv.org/abs/2501.08995v1)|2025-01-15|null|
+|2025-01-15|**VECT-GAN: A variationally encoded generative model for overcoming data scarcity in pharmaceutical science**|Youssef Abdalla, Marrisa Taub, Eleanor Hilton, Priya Akkaraju, Alexander Milanovic, Mine Orlu, Abdul W. Basit, Michael T Cook, Tapabrata Chakraborti, David Shorthouse et.al.|[PDF](http://arxiv.org/abs/2501.08995v2)|2025-01-17|null|
 |2025-01-15|**Enhanced Multi-Scale Cross-Attention for Person Image Generation**|Hao Tang, Ling Shao, Nicu Sebe, Luc Van Gool et.al.|[PDF](http://arxiv.org/abs/2501.08900v1)|2025-01-15|null|
 |2025-01-15|**Generating Realistic Synthetic Head Rotation Data for Extended Reality using Deep Learning**|Jakob Struye, Filip Lemic, Jeroen Famaey et.al.|[PDF](http://arxiv.org/abs/2501.09050v1)|2025-01-15|null|
 |2025-01-15|**ABACUS: An Electronic Structure Analysis Package for the AI Era**|Weiqing Zhou, Daye Zheng, Qianrui Liu, Denghui Lu, Yu Liu, Peize Lin, Yike Huang, Xingliang Peng, Jie J. Bao, Chun Cai, Zuxin Jin, Jing Wu, Haochong Zhang, Gan Jin, Yuyang Ji, Zhenxiong Shen, Xiaohui Liu, Liang Sun, Yu Cao, Menglin Sun, Jianchuan Liu, Tao Chen, Renxi Liu, Yuanbo Li, Haozhi Han, Xinyuan Liang, Taoni Bao, Nuo Chen, Hongxu Ren, Xiaoyang Zhang, Zhaoqing Liu, Yiwei Fu, Maochang Liu, Zhuoyuan Li, Tongqi Wen, Zechen Tang, Yong Xu, Wenhui Duan, Xiaoyang Wang, Qiangqiang Gu, Fu-Zhi Dai, Qijing Zheng, Jin Zhao, Yuzhi Zhang, Qi Ou, Hong Jiang, Shi Liu, Ben Xu, Shenzhen Xu, Xinguo Ren, Lixin He, Linfeng Zhang, Mohan Chen et.al.|[PDF](http://arxiv.org/abs/2501.08697v1)|2025-01-15|null|
@@ -343,7 +343,7 @@ Updated on 2025-01-19
 |:-----------|:-----|:------|:---|:---|
 |2025-01-16|**Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models**|Fengli Xu, Qianyue Hao, Zefang Zong, Jingwei Wang, Yunke Zhang, Jingyi Wang, Xiaochong Lan, Jiahui Gong, Tianjian Ouyang, Fanjin Meng, Chenyang Shao, Yuwei Yan, Qinglong Yang, Yiwen Song, Sijian Ren, Xinyuan Hu, Yu Li, Jie Feng, Chen Gao, Yong Li et.al.|[PDF](http://arxiv.org/abs/2501.09686v1)|2025-01-16|null|
 |2025-01-16|**Reward-Guided Controlled Generation for Inference-Time Alignment in Diffusion Models: Tutorial and Review**|Masatoshi Uehara, Yulai Zhao, Chenyu Wang, Xiner Li, Aviv Regev, Sergey Levine, Tommaso Biancalani et.al.|[PDF](http://arxiv.org/abs/2501.09685v1)|2025-01-16|null|
-|2025-01-16|**Optimizing hypergraph product codes with random walks, simulated annealing and reinforcement learning**|Bruno C. A. Freire, Nicolas Delfosse, Anthony Leverrier et.al.|[PDF](http://arxiv.org/abs/2501.09622v1)|2025-01-16|null|
+|2025-01-16|**Optimizing hypergraph product codes with random walks, simulated annealing and reinforcement learning**|Bruno C. A. Freire, Nicolas Delfosse, Anthony Leverrier et.al.|[PDF](http://arxiv.org/abs/2501.09622v2)|2025-01-17|null|
 |2025-01-16|**Beyond Reward Hacking: Causal Rewards for Large Language Model Alignment**|Chaoqi Wang, Zhuokai Zhao, Yibo Jiang, Zhaorun Chen, Chen Zhu, Yuxin Chen, Jiayi Liu, Lizhu Zhang, Xiangjun Fan, Hao Ma, Sinong Wang et.al.|[PDF](http://arxiv.org/abs/2501.09620v1)|2025-01-16|null|
 |2025-01-16|**EVaDE : Event-Based Variational Thompson Sampling for Model-Based Reinforcement Learning**|Siddharth Aravindan, Dixant Mittal, Wee Sun Lee et.al.|[PDF](http://arxiv.org/abs/2501.09611v1)|2025-01-16|null|
 |2025-01-16|**ADAGE: A generic two-layer framework for adaptive agent based modelling**|Benjamin Patrick Evans, Sihan Zeng, Sumitra Ganesh, Leo Ardon et.al.|[PDF](http://arxiv.org/abs/2501.09429v1)|2025-01-16|null|
@@ -454,7 +454,7 @@ Updated on 2025-01-19
 |:-----------|:-----|:------|:---|:---|
 |2025-01-16|**The Goofus & Gallant Story Corpus for Practical Value Alignment**|Md Sultan Al Nahian, Tasmia Tasrin, Spencer Frazier, Mark Riedl, Brent Harrison et.al.|[PDF](http://arxiv.org/abs/2501.09707v1)|2025-01-16|null|
 |2025-01-16|**U-Fair: Uncertainty-based Multimodal Multitask Learning for Fairer Depression Detection**|Jiaee Cheong, Aditya Bangar, Sinan Kalkan, Hatice Gunes et.al.|[PDF](http://arxiv.org/abs/2501.09687v1)|2025-01-16|null|
-|2025-01-16|**LLM-Based Routing in Mixture of Experts: A Novel Framework for Trading**|Kuan-Ming Liu, Ming-Chih Lo et.al.|[PDF](http://arxiv.org/abs/2501.09636v1)|2025-01-16|null|
+|2025-01-16|**LLM-Based Routing in Mixture of Experts: A Novel Framework for Trading**|Kuan-Ming Liu, Ming-Chih Lo et.al.|[PDF](http://arxiv.org/abs/2501.09636v2)|2025-01-17|null|
 |2025-01-16|**A Multi-agent System for Hybrid Optimization**|Eric S. Fraga, Veerawat Udomvorakulchai, Miguel Pineda, Lazaros G. Papageorgiou et.al.|[PDF](http://arxiv.org/abs/2501.09563v1)|2025-01-16|null|
 |2025-01-16|**Multimodal Marvels of Deep Learning in Medical Diagnosis: A Comprehensive Review of COVID-19 Detection**|Md Shofiqul Islama, Khondokar Fida Hasanc, Hasibul Hossain Shajeebd, Humayan Kabir Ranae, Md Saifur Rahmand, Md Munirul Hasanb, AKM Azadf, Ibrahim Abdullahg, Mohammad Ali Moni et.al.|[PDF](http://arxiv.org/abs/2501.09506v1)|2025-01-16|null|
 |2025-01-16|**Omni-Emotion: Extending Video MLLM with Detailed Face and Audio Modeling for Multimodal Emotion Analysis**|Qize Yang, Detao Bai, Yi-Xing Peng, Xihan Wei et.al.|[PDF](http://arxiv.org/abs/2501.09502v1)|2025-01-16|null|
