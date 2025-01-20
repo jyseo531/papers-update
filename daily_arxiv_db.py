@@ -14,6 +14,8 @@ except ImportError:
     
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 
+
+
 # SQLite DB 초기화
 def init_db(db_name="arxiv.db"):
     conn = sqlite3.connect(db_name)
@@ -102,7 +104,6 @@ def get_daily_papers(topic: str, query: str = "slam", max_results=2):
 
 
 
-
     
 def db_to_md(conn, md_filename="./database/db_markdown/readme.md"):
     """
@@ -143,7 +144,10 @@ def db_to_md(conn, md_filename="./database/db_markdown/readme.md"):
     print(f"Markdown file '{md_filename}' generated successfully.")
 
 if __name__ == "__main__":
-    # Initialize database
+
+
+
+    # Initialize database (Arxiv)
     conn = init_db('./database/arxiv.db')
     yaml_path = os.path.join("./database", "topic.yml")
     yaml_data = get_yaml_data(yaml_path)
