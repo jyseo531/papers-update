@@ -1,4 +1,4 @@
-from bs4 import BeautifulSoup
+# from bs4 import BeautifulSoup
 import requests 
 from huggingface_script.fetch_hf_news import get_arxiv_metadata, fetch_huggingface_news
 import sqlite3
