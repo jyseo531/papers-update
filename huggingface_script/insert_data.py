@@ -48,13 +48,13 @@ def insert_hf_news(news_data, db_path="db/database.db"):
             # 데이터 업데이트
             cursor.execute("""
                 UPDATE hf_news
-                SET arxiv_links = ?, github_url = ?, license = ?, category = ?
+                SET paper = ?, github_url = ?, license = ?, category = ?
                 WHERE id = ?
             """, (news["arxiv_links"], news["github_url"], news["license"], news["category"], row[0]))
         else:
             # 데이터 삽입
             cursor.execute("""
-                INSERT INTO hf_news (title, arxiv_links, github_url, license, category)
+                INSERT INTO hf_news (title, paper, github_url, license, category)
                 VALUES (?, ?, ?, ?, ?)
             """, (news["title"], news["arxiv_links"], news["github_url"], news["license"], news["category"]))
 
