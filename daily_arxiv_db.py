@@ -12,7 +12,7 @@ try:
 except ImportError:
     from yaml import Loader, Dumper
 
-from using_ocr import load_model, loading_pdf_image, perform_ocr, extract_link
+# from using_ocr import load_model, loading_pdf_image, perform_ocr, extract_link
 
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 MODEL_PATH = "./EraX-VL-7B-V1.0"
@@ -152,7 +152,7 @@ if __name__ == "__main__":
 
 
     # Loading Erax Model......
-    model, processor = load_model(MODEL_PATH) 
+    # model, processor = load_model(MODEL_PATH) 
 
 
 
@@ -160,6 +160,7 @@ if __name__ == "__main__":
         for subtopic, keyword in yaml_data[topic].items():
             print("Processing Keyword:", subtopic)
             try:
+                processor=None
                 data = get_daily_papers(subtopic, query=keyword, max_results=10, model=model, processor=processor)
             except Exception as e:
                 print(f"Error processing {subtopic}: {e}")
