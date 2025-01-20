@@ -495,6 +495,24 @@ class Scaffold:
 
         logger.info("All awesome repositories updated successfully.")
 
+        # Adding Hugging Face News markdown file 
+        # Adding Hugging Face News markdown file
+        huggingface_readme_path = "./database/db_markdown/huggface_readme.md"
+        huggingface_target_path = os.path.join(SERVER_PATH_DOCS, "HuggingFace", "huggface_news.md")
+
+        # Ensure the target directory exists
+        huggingface_dir = os.path.dirname(huggingface_target_path)
+        if not os.path.exists(huggingface_dir):
+            os.makedirs(huggingface_dir)
+            logger.info(f"Directory {huggingface_dir} created.")
+
+        # Copy the Hugging Face markdown file
+        shutil.copyfile(huggingface_readme_path, huggingface_target_path)
+        
+        logger.info(f"Hugging Face news file copied to {huggingface_target_path}.")
+
+
+
 
 if __name__ == "__main__":
     Fire(Scaffold)
