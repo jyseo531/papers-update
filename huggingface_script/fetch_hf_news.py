@@ -1,6 +1,6 @@
 import requests 
 from xml.etree import ElementTree
-from tqdm import tqdm 
+# from tqdm import tqdm 
 
 
 
@@ -55,7 +55,7 @@ def fetch_huggingface_news(limit=10):
     models = response.json()
     news_data = []
 
-    for model in tqdm(models, desc="Iterate Huggingface Models...."):
+    for model in models:
         # 'arxiv' 태그 추출
         arxiv_links = [tag.split(":")[1] for tag in model.get("tags", []) if tag.startswith("arxiv:")]
 
