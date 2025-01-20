@@ -1,7 +1,7 @@
 import requests 
 from xml.etree import ElementTree
 # from tqdm import tqdm 
-
+import arxiv
 
 
 def get_arxiv_metadata(arxiv_id):
@@ -42,6 +42,35 @@ def get_arxiv_metadata(arxiv_id):
         return {"title": "Unknown", "authors": []}
 
 
+def get_paper_url_by_title(title):
+    """
+    논문 제목을 입력받아 해당 논문의 paper_url을 반환하는 함수.
+    
+    Args:
+        title (str): 논문 제목
+    
+    Returns:
+        str: 논문의 URL (찾지 못한 경우 None 반환)
+    """
+    try:
+        # arxiv 검색 설정
+        search = arxiv.Search(
+            query=title,
+            max_results=1,  # 제목으로 검색 시 첫 번째 결과만 반환
+            sort_by=arxiv.SortCriterion.Relevance
+        )
+        
+        # 검색 결과 처리
+        for result in search.results():
+            return result.entry_id  # 논문의 URL 반환
+    
+    except Exception as e:
+        print(f"Error occurred: {e}")
+    
+    return None  # 논문을 찾지 못한 경우 None 반환
+
+
+
 def fetch_huggingface_news(limit=10):
     """
     Hugging Face API에서 최신 소식 가져오기 + ArXiv 논문 저자 정보 추가
@@ -80,6 +109,8 @@ def fetch_huggingface_news(limit=10):
 
         # GitHub URL: Hugging Face 모델 페이지 URL로 구성
         github_url = f"https://huggingface.co/{model.get('modelId')}"
+
+        arxiv_title = get_paper_url_by_title(arxiv_title)
 
         # 데이터 추가
         news_data.append({
