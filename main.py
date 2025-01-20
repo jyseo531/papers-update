@@ -495,7 +495,7 @@ class Scaffold:
 
         logger.info("All awesome repositories updated successfully.")
 
-        # Adding Hugging Face News markdown file 
+        
         # Adding Hugging Face News markdown file
         huggingface_readme_path = "./database/db_markdown/huggface_readme.md"
         huggingface_target_path = os.path.join(SERVER_PATH_DOCS, "HuggingFace", "huggface_news.md")
@@ -508,7 +508,7 @@ class Scaffold:
 
         # Copy the Hugging Face markdown file
         shutil.copyfile(huggingface_readme_path, huggingface_target_path)
-        
+
         logger.info(f"Hugging Face news file copied to {huggingface_target_path}.")
 
 
