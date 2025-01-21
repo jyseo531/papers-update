@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-01-20
+Updated on 2025-01-21
 
 > Generated from the Hugging Face database.
 
@@ -112,3 +112,12 @@ Updated on 2025-01-20
 | deepseek-ai/DeepSeek-R1-Distill-Qwen-32B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B) | Unknown license | None |
 | deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) | Unknown license | None |
 | deepseek-ai/DeepSeek-R1-Distill-Qwen-7B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B) | Unknown license | None |
+| deepseek-ai/DeepSeek-R1-Distill-Llama-70B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-70B) | Unknown license | None |
+| deepseek-ai/DeepSeek-R1-Distill-Llama-8B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-8B) | Unknown license | None |
+| deepseek-ai/DeepSeek-R1-Distill-Qwen-14B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B) | Unknown license | None |
+| unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF) | Unknown license | None |
+| unsloth/DeepSeek-R1-Distill-Qwen-32B-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/unsloth/DeepSeek-R1-Distill-Qwen-32B-GGUF) | apache-2.0 | None |
+| bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF) | Unknown license | text-generation |
+| unsloth/DeepSeek-R1-Distill-Qwen-7B-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/unsloth/DeepSeek-R1-Distill-Qwen-7B-GGUF) | apache-2.0 | None |
+| BSC-LT/ALIA-40b | None | [Link](https://huggingface.co/BSC-LT/ALIA-40b) | apache-2.0 | text-generation |
+| mcmonkey/cosmos-1.0 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/mcmonkey/cosmos-1.0) | Unknown license | None |
