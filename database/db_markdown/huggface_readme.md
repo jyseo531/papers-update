@@ -132,3 +132,6 @@ Updated on 2025-01-22
 | FuseAI/FuseO1-DeepSeekR1-QwQ-SkyT1-32B-Preview | http://arxiv.org/abs/2408.07990v1 | [Link](https://huggingface.co/FuseAI/FuseO1-DeepSeekR1-QwQ-SkyT1-32B-Preview) | Unknown license | None |
 | sayakpaul/FLUX.1-dev-edit-v0 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/sayakpaul/FLUX.1-dev-edit-v0) | other | text-to-image |
 | jasperai/Flux.1-dev-Controlnet-Upscaler | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/jasperai/Flux.1-dev-Controlnet-Upscaler) | other | image-to-image |
+| bytedance-research/UI-TARS-7B-SFT | http://arxiv.org/abs/2501.04575v1 | [Link](https://huggingface.co/bytedance-research/UI-TARS-7B-SFT) | apache-2.0 | image-text-to-text |
+| unsloth/DeepSeek-R1 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/unsloth/DeepSeek-R1) | mit | text-generation |
+| bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF) | Unknown license | text-generation |
