@@ -1,4 +1,4 @@
-## Updated on 2025.01.21
+## Updated on 2025.01.22
 
 > Welcome to contribute! Add your topics and keywords in `topic.yml`
 
@@ -559,7 +559,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-14**|**PSReg: Prior-guided Sparse Mixture of Experts for Point Cloud Registration**|Xiaoshui Huang et.al.|[2501.07762v1](http://arxiv.org/abs/2501.07762v1)|null|
+|**2025-01-14**|**PSReg: Prior-guided Sparse Mixture of Experts for Point Cloud Registration**|Xiaoshui Huang et.al.|[2501.07762v2](http://arxiv.org/abs/2501.07762v2)|null|
 |**2025-01-10**|**LPRnet: A self-supervised registration network for LiDAR and photogrammetric point clouds**|Chen Wang et.al.|[2501.05669v1](http://arxiv.org/abs/2501.05669v1)|null|
 |**2025-01-05**|**LP-ICP: General Localizability-Aware Point Cloud Registration for Robust Localization in Extreme Unstructured Environments**|Haosong Yue et.al.|[2501.02580v2](http://arxiv.org/abs/2501.02580v2)|**[link](https://github.com/xuqingyuan2000/lp-icp)**|
 |**2025-01-03**|**MRG: A Multi-Robot Manufacturing Digital Scene Generation Method Using Multi-Instance Point Cloud Registration**|Songjie Han et.al.|[2501.02041v1](http://arxiv.org/abs/2501.02041v1)|null|

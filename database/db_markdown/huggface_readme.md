@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-01-21
+Updated on 2025-01-22
 
 > Generated from the Hugging Face database.
 
@@ -129,3 +129,6 @@ Updated on 2025-01-21
 | unsloth/DeepSeek-R1-Distill-Qwen-14B-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/unsloth/DeepSeek-R1-Distill-Qwen-14B-GGUF) | apache-2.0 | None |
 | pyannote/speaker-diarization-3.1 | http://arxiv.org/abs/2010.11458v2 | [Link](https://huggingface.co/pyannote/speaker-diarization-3.1) | mit | automatic-speech-recognition |
 | strangerzonehf/Flux-Enrich-Art-LoRA | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/strangerzonehf/Flux-Enrich-Art-LoRA) | other | text-to-image |
+| FuseAI/FuseO1-DeepSeekR1-QwQ-SkyT1-32B-Preview | http://arxiv.org/abs/2408.07990v1 | [Link](https://huggingface.co/FuseAI/FuseO1-DeepSeekR1-QwQ-SkyT1-32B-Preview) | Unknown license | None |
+| sayakpaul/FLUX.1-dev-edit-v0 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/sayakpaul/FLUX.1-dev-edit-v0) | other | text-to-image |
+| jasperai/Flux.1-dev-Controlnet-Upscaler | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/jasperai/Flux.1-dev-Controlnet-Upscaler) | other | image-to-image |
