@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-01-22
+Updated on 2025-01-23
 
 > Generated from the Hugging Face database.
 
@@ -135,3 +135,10 @@ Updated on 2025-01-22
 | bytedance-research/UI-TARS-7B-SFT | http://arxiv.org/abs/2501.04575v1 | [Link](https://huggingface.co/bytedance-research/UI-TARS-7B-SFT) | apache-2.0 | image-text-to-text |
 | unsloth/DeepSeek-R1 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/unsloth/DeepSeek-R1) | mit | text-generation |
 | bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF) | Unknown license | text-generation |
+| HKUSTAudio/Llasa-3B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/HKUSTAudio/Llasa-3B) | cc-by-nc-nd-4.0 | text-to-speech |
+| Alibaba-NLP/gte-modernbert-base | http://arxiv.org/abs/2308.03281v1 | [Link](https://huggingface.co/Alibaba-NLP/gte-modernbert-base) | apache-2.0 | sentence-similarity |
+| bytedance-research/UI-TARS-72B-DPO | http://arxiv.org/abs/2501.04575v1 | [Link](https://huggingface.co/bytedance-research/UI-TARS-72B-DPO) | apache-2.0 | image-text-to-text |
+| Alibaba-NLP/gte-reranker-modernbert-base | http://arxiv.org/abs/2308.03281v1 | [Link](https://huggingface.co/Alibaba-NLP/gte-reranker-modernbert-base) | apache-2.0 | sentence-similarity |
+| unsloth/DeepSeek-R1-Distill-Llama-70B-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/unsloth/DeepSeek-R1-Distill-Llama-70B-GGUF) | Unknown license | None |
+| google/gemma-2-2b-it | http://arxiv.org/abs/2009.03300v3 | [Link](https://huggingface.co/google/gemma-2-2b-it) | gemma | text-generation |
+| jinaai/jina-embeddings-v3 | http://arxiv.org/abs/2405.13053v3 | [Link](https://huggingface.co/jinaai/jina-embeddings-v3) | cc-by-nc-4.0 | feature-extraction |
