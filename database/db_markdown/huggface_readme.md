@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-01-23
+Updated on 2025-01-24
 
 > Generated from the Hugging Face database.
 
@@ -144,3 +144,11 @@ Updated on 2025-01-23
 | jinaai/jina-embeddings-v3 | http://arxiv.org/abs/2405.13053v3 | [Link](https://huggingface.co/jinaai/jina-embeddings-v3) | cc-by-nc-4.0 | feature-extraction |
 | EvaByte/EvaByte-SFT | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/EvaByte/EvaByte-SFT) | apache-2.0 | None |
 | bytedance-research/UI-TARS-7B-DPO | http://arxiv.org/abs/2501.04575v1 | [Link](https://huggingface.co/bytedance-research/UI-TARS-7B-DPO) | apache-2.0 | image-text-to-text |
+| HuggingFaceTB/SmolVLM-256M-Instruct | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-256M-Instruct) | apache-2.0 | image-text-to-text |
+| HuggingFaceTB/SmolVLM-500M-Instruct | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-500M-Instruct) | apache-2.0 | image-text-to-text |
+| shuttleai/shuttle-jaguar | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/shuttleai/shuttle-jaguar) | apache-2.0 | text-to-image |
+| XLabs-AI/flux-RealismLora | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/XLabs-AI/flux-RealismLora) | other | text-to-image |
+| EvaByte/EvaByte | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/EvaByte/EvaByte) | apache-2.0 | None |
+| bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF) | Unknown license | text-generation |
+| hotchpotch/static-embedding-japanese | http://arxiv.org/abs/2406.07432v1 | [Link](https://huggingface.co/hotchpotch/static-embedding-japanese) | mit | sentence-similarity |
+| bartowski/DeepSeek-R1-Distill-Llama-8B-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-8B-GGUF) | Unknown license | text-generation |
