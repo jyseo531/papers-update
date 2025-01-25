@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-01-24
+Updated on 2025-01-25
 
 > Generated from the Hugging Face database.
 
@@ -133,7 +133,7 @@ Updated on 2025-01-24
 | sayakpaul/FLUX.1-dev-edit-v0 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/sayakpaul/FLUX.1-dev-edit-v0) | other | text-to-image |
 | jasperai/Flux.1-dev-Controlnet-Upscaler | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/jasperai/Flux.1-dev-Controlnet-Upscaler) | other | image-to-image |
 | bytedance-research/UI-TARS-7B-SFT | http://arxiv.org/abs/2501.04575v1 | [Link](https://huggingface.co/bytedance-research/UI-TARS-7B-SFT) | apache-2.0 | image-text-to-text |
-| unsloth/DeepSeek-R1 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/unsloth/DeepSeek-R1) | mit | text-generation |
+| unsloth/DeepSeek-R1 | None | [Link](https://huggingface.co/unsloth/DeepSeek-R1) | mit | text-generation |
 | bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF) | Unknown license | text-generation |
 | HKUSTAudio/Llasa-3B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/HKUSTAudio/Llasa-3B) | cc-by-nc-nd-4.0 | text-to-speech |
 | Alibaba-NLP/gte-modernbert-base | http://arxiv.org/abs/2308.03281v1 | [Link](https://huggingface.co/Alibaba-NLP/gte-modernbert-base) | apache-2.0 | sentence-similarity |
@@ -155,3 +155,8 @@ Updated on 2025-01-24
 | bespokelabs/Bespoke-Stratos-32B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bespokelabs/Bespoke-Stratos-32B) | apache-2.0 | text-generation |
 | openfree/pepe | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/openfree/pepe) | other | text-to-image |
 | fofr/sdxl-emoji | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/fofr/sdxl-emoji) | creativeml-openrail-m | text-to-image |
+| tencent/Hunyuan-7B-Instruct | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/tencent/Hunyuan-7B-Instruct) | other | text-generation |
+| HKUSTAudio/Llasa-1B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/HKUSTAudio/Llasa-1B) | cc-by-nc-nd-4.0 | text-to-speech |
+| HuggingFaceTB/SmolVLM-Instruct | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-Instruct) | apache-2.0 | image-text-to-text |
+| nu-dialogue/j-moshi-ext | http://arxiv.org/abs/2205.12662v2 | [Link](https://huggingface.co/nu-dialogue/j-moshi-ext) | cc-by-nc-4.0 | None |
+| bartowski/FuseO1-DeekSeekR1-QwQ-SkyT1-32B-Preview-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/FuseO1-DeekSeekR1-QwQ-SkyT1-32B-Preview-GGUF) | Unknown license | text-generation |
