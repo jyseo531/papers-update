@@ -166,3 +166,4 @@ Updated on 2025-01-26
 | strangerzonehf/Flux-Super-Realism-LoRA | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/strangerzonehf/Flux-Super-Realism-LoRA) | mit | text-to-image |
 | openfree/claude-monet | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/openfree/claude-monet) | other | text-to-image |
 | microsoft/Phi-3.5-mini-instruct | None | [Link](https://huggingface.co/microsoft/Phi-3.5-mini-instruct) | mit | text-generation |
+| mlx-community/DeepSeek-R1-Distill-Qwen-32B-4bit | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/mlx-community/DeepSeek-R1-Distill-Qwen-32B-4bit) | Unknown license | text-generation |
