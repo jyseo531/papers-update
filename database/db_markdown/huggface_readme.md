@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-01-25
+Updated on 2025-01-26
 
 > Generated from the Hugging Face database.
 
@@ -12,7 +12,7 @@ Updated on 2025-01-25
 | deepseek-ai/DeepSeek-V3 | http://arxiv.org/abs/1707.08679v1 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) | Unknown license | text-generation |
 | NovaSky-AI/Sky-T1-32B-Preview | None | [Link](https://huggingface.co/NovaSky-AI/Sky-T1-32B-Preview) | apache-2.0 | text-generation |
 | jinaai/ReaderLM-v2 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/jinaai/ReaderLM-v2) | cc-by-nc-4.0 | text-generation |
-| MiniMaxAI/MiniMax-VL-01 | http://arxiv.org/abs/2401.04658v2 | [Link](https://huggingface.co/MiniMaxAI/MiniMax-VL-01) | Unknown license | text-generation |
+| MiniMaxAI/MiniMax-VL-01 | http://arxiv.org/abs/2401.04658v2 | [Link](https://huggingface.co/MiniMaxAI/MiniMax-VL-01) | Unknown license | image-text-to-text |
 | internlm/internlm3-8b-instruct | http://arxiv.org/abs/2403.17297v1 | [Link](https://huggingface.co/internlm/internlm3-8b-instruct) | apache-2.0 | text-generation |
 | black-forest-labs/FLUX.1-dev | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/black-forest-labs/FLUX.1-dev) | other | text-to-image |
 | kyutai/helium-1-preview-2b | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/kyutai/helium-1-preview-2b) | cc-by-4.0 | text-generation |
@@ -162,3 +162,5 @@ Updated on 2025-01-25
 | bartowski/FuseO1-DeekSeekR1-QwQ-SkyT1-32B-Preview-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/FuseO1-DeekSeekR1-QwQ-SkyT1-32B-Preview-GGUF) | Unknown license | text-generation |
 | mobiuslabsgmbh/DeepSeek-R1-ReDistill-Qwen-1.5B-v1.0 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/mobiuslabsgmbh/DeepSeek-R1-ReDistill-Qwen-1.5B-v1.0) | mit | text-generation |
 | lmstudio-community/DeepSeek-R1-Distill-Qwen-7B-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/lmstudio-community/DeepSeek-R1-Distill-Qwen-7B-GGUF) | Unknown license | text-generation |
+| NovaSky-AI/Sky-T1-32B-Flash | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/NovaSky-AI/Sky-T1-32B-Flash) | apache-2.0 | text-generation |
+| strangerzonehf/Flux-Super-Realism-LoRA | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/strangerzonehf/Flux-Super-Realism-LoRA) | mit | text-to-image |

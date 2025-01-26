@@ -1,4 +1,4 @@
-## Updated on 2025.01.25
+## Updated on 2025.01.26
 
 > Welcome to contribute! Add your topics and keywords in `topic.yml`
 
@@ -151,13 +151,13 @@
 |**2025-01-23**|**Where Do You Go? Pedestrian Trajectory Prediction using Scene Features**|Mohammad Ali Rezaei et.al.|[2501.13848v1](http://arxiv.org/abs/2501.13848v1)|null|
 |**2025-01-23**|**Overcoming Support Dilution for Robust Few-shot Semantic Segmentation**|Wailing Tang et.al.|[2501.13529v1](http://arxiv.org/abs/2501.13529v1)|null|
 |**2025-01-22**|**Revisiting Data Augmentation for Ultrasound Images**|Adam Tupper et.al.|[2501.13193v1](http://arxiv.org/abs/2501.13193v1)|**[link](https://github.com/adamtupper/ultrasound-augmentation)**|
-|**2025-01-22**|**A Novel Scene Coupling Semantic Mask Network for Remote Sensing Image Segmentation**|Xiaowen Ma et.al.|[2501.13130v1](http://arxiv.org/abs/2501.13130v1)|null|
+|**2025-01-22**|**A Novel Scene Coupling Semantic Mask Network for Remote Sensing Image Segmentation**|Xiaowen Ma et.al.|[2501.13130v1](http://arxiv.org/abs/2501.13130v1)|**[link](https://github.com/xwmaxwma/rssegmentation)**|
 |**2025-01-22**|**Hybridization of Attention UNet with Repeated Atrous Spatial Pyramid Pooling for Improved Brain Tumour Segmentation**|Satyaki Roy Chowdhury et.al.|[2501.13129v1](http://arxiv.org/abs/2501.13129v1)|null|
 |**2025-01-22**|**Enhancing Monocular Depth Estimation with Multi-Source Auxiliary Tasks**|Alessio Quercia et.al.|[2501.12824v1](http://arxiv.org/abs/2501.12824v1)|null|
 |**2025-01-19**|**Comparative Analysis of Hand-Crafted and Machine-Driven Histopathological Features for Prostate Cancer Classification and Segmentation**|Feda Bolus Al Baqain et.al.|[2501.12415v1](http://arxiv.org/abs/2501.12415v1)|null|
 |**2025-01-21**|**Benchmarking Image Perturbations for Testing Automated Driving Assistance Systems**|Stefano Carlo Lambertenghi et.al.|[2501.12269v1](http://arxiv.org/abs/2501.12269v1)|null|
 |**2025-01-21**|**A margin-based replacement for cross-entropy loss**|Michael W. Spratling et.al.|[2501.12191v1](http://arxiv.org/abs/2501.12191v1)|null|
-|**2025-01-20**|**MedicoSAM: Towards foundation models for medical image segmentation**|Anwai Archit et.al.|[2501.11734v1](http://arxiv.org/abs/2501.11734v1)|null|
+|**2025-01-20**|**MedicoSAM: Towards foundation models for medical image segmentation**|Anwai Archit et.al.|[2501.11734v1](http://arxiv.org/abs/2501.11734v1)|**[link](https://github.com/computational-cell-analytics/medico-sam)**|
 |**2025-01-20**|**Automatic Labelling & Semantic Segmentation with 4D Radar Tensors**|Botao Sun et.al.|[2501.11351v1](http://arxiv.org/abs/2501.11351v1)|null|
 |**2025-01-20**|**Enhancing Uncertainty Estimation in Semantic Segmentation via Monte-Carlo Frequency Dropout**|Tal Zeevi et.al.|[2501.11258v1](http://arxiv.org/abs/2501.11258v1)|**[link](https://github.com/talze/frequency-dropout)**|
 |**2025-01-19**|**Rethinking Early-Fusion Strategies for Improved Multimodal Image Segmentation**|Zhengwen Shen et.al.|[2501.10958v1](http://arxiv.org/abs/2501.10958v1)|null|
@@ -214,7 +214,7 @@
 |**2025-01-20**|**Advancing Oyster Phenotype Segmentation with Multi-Network Ensemble and Multi-Scale mechanism**|Wenli Yang et.al.|[2501.11203v1](http://arxiv.org/abs/2501.11203v1)|null|
 |**2025-01-18**|**ClusterViG: Efficient Globally Aware Vision GNNs via Image Partitioning**|Dhruv Parikh et.al.|[2501.10640v1](http://arxiv.org/abs/2501.10640v1)|null|
 |**2025-01-14**|**SmartEraser: Remove Anything from Images using Masked-Region Guidance**|Longtao Jiang et.al.|[2501.08279v1](http://arxiv.org/abs/2501.08279v1)|null|
-|**2025-01-13**|**TimberVision: A Multi-Task Dataset and Framework for Log-Component Segmentation and Tracking in Autonomous Forestry Operations**|Daniel Steininger et.al.|[2501.07360v1](http://arxiv.org/abs/2501.07360v1)|null|
+|**2025-01-13**|**TimberVision: A Multi-Task Dataset and Framework for Log-Component Segmentation and Tracking in Autonomous Forestry Operations**|Daniel Steininger et.al.|[2501.07360v1](http://arxiv.org/abs/2501.07360v1)|**[link](https://github.com/timbervision/timbervision)**|
 |**2025-01-13**|**Toward Realistic Camouflaged Object Detection: Benchmarks and Method**|Zhimeng Xin et.al.|[2501.07297v1](http://arxiv.org/abs/2501.07297v1)|**[link](https://github.com/zhimengxin/rcod)**|
 |**2025-01-12**|**Static Segmentation by Tracking: A Frustratingly Label-Efficient Approach to Fine-Grained Segmentation**|Zhenyang Feng et.al.|[2501.06749v1](http://arxiv.org/abs/2501.06749v1)|null|
 |**2025-01-08**|**NextStop: An Improved Tracker For Panoptic LIDAR Segmentation Data**|Nirit Alkalay et.al.|[2501.06235v1](http://arxiv.org/abs/2501.06235v1)|null|
@@ -253,11 +253,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-23**|**PointOBB-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection**|Peiyuan Zhang et.al.|[2501.13898v1](http://arxiv.org/abs/2501.13898v1)|null|
+|**2025-01-23**|**PointOBB-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection**|Peiyuan Zhang et.al.|[2501.13898v1](http://arxiv.org/abs/2501.13898v1)|**[link](https://github.com/zpywhu/pointobb-v3)**|
 |**2025-01-23**|**First Lessons Learned of an Artificial Intelligence Robotic System for Autonomous Coarse Waste Recycling Using Multispectral Imaging-Based Methods**|Timo Lange et.al.|[2501.13855v1](http://arxiv.org/abs/2501.13855v1)|null|
 |**2025-01-23**|**Integrating Causality with Neurochaos Learning: Proposed Approach and Research Agenda**|Nanjangud C. Narendra et.al.|[2501.13763v1](http://arxiv.org/abs/2501.13763v1)|null|
 |**2025-01-23**|**You Only Crash Once v2: Perceptually Consistent Strong Features for One-Stage Domain Adaptive Detection of Space Terrain**|Timothy Chase Jr et.al.|[2501.13725v1](http://arxiv.org/abs/2501.13725v1)|null|
-|**2025-01-23**|**YOLO11-JDE: Fast and Accurate Multi-Object Tracking with Self-Supervised Re-ID**|Iñaki Erregue et.al.|[2501.13710v1](http://arxiv.org/abs/2501.13710v1)|null|
+|**2025-01-23**|**YOLO11-JDE: Fast and Accurate Multi-Object Tracking with Self-Supervised Re-ID**|Iñaki Erregue et.al.|[2501.13710v1](http://arxiv.org/abs/2501.13710v1)|**[link](https://github.com/inakierregueab/yolo11-jde)**|
 |**2025-01-23**|**Multi-aspect Knowledge Distillation with Large Language Model**|Taegyeong Lee et.al.|[2501.13341v1](http://arxiv.org/abs/2501.13341v1)|null|
 |**2025-01-22**|**MONA: Moving Object Detection from Videos Shot by Dynamic Camera**|Boxun Hu et.al.|[2501.13183v1](http://arxiv.org/abs/2501.13183v1)|null|
 |**2025-01-21**|**Large-image Object Detection for Fine-grained Recognition of Punches Patterns in Medieval Panel Painting**|Josh Bruegger et.al.|[2501.12489v1](http://arxiv.org/abs/2501.12489v1)|**[link](https://github.com/marcozullich/punches-object-detection)**|
@@ -317,12 +317,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-23**|**YOLO11-JDE: Fast and Accurate Multi-Object Tracking with Self-Supervised Re-ID**|Iñaki Erregue et.al.|[2501.13710v1](http://arxiv.org/abs/2501.13710v1)|null|
+|**2025-01-23**|**YOLO11-JDE: Fast and Accurate Multi-Object Tracking with Self-Supervised Re-ID**|Iñaki Erregue et.al.|[2501.13710v1](http://arxiv.org/abs/2501.13710v1)|**[link](https://github.com/inakierregueab/yolo11-jde)**|
 |**2025-01-21**|**InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling**|Yi Wang et.al.|[2501.12386v2](http://arxiv.org/abs/2501.12386v2)|**[link](https://github.com/opengvlab/internvideo)**|
 |**2025-01-20**|**PD-SORT: Occlusion-Robust Multi-Object Tracking Using Pseudo-Depth Cues**|Yanchao Wang et.al.|[2501.11288v1](http://arxiv.org/abs/2501.11288v1)|**[link](https://github.com/wangyc2000/pd_sort)**|
 |**2025-01-17**|**Spatio-temporal Graph Learning on Adaptive Mined Key Frames for High-performance Multi-Object Tracking**|Futian Wang et.al.|[2501.10129v1](http://arxiv.org/abs/2501.10129v1)|null|
 |**2025-01-13**|**SST-EM: Advanced Metrics for Evaluating Semantic, Spatial and Temporal Aspects in Video Editing**|Varun Biyyala et.al.|[2501.07554v1](http://arxiv.org/abs/2501.07554v1)|**[link](https://github.com/custommetrics-sst/sst_customevaluationmetrics)**|
-|**2025-01-13**|**TimberVision: A Multi-Task Dataset and Framework for Log-Component Segmentation and Tracking in Autonomous Forestry Operations**|Daniel Steininger et.al.|[2501.07360v1](http://arxiv.org/abs/2501.07360v1)|null|
+|**2025-01-13**|**TimberVision: A Multi-Task Dataset and Framework for Log-Component Segmentation and Tracking in Autonomous Forestry Operations**|Daniel Steininger et.al.|[2501.07360v1](http://arxiv.org/abs/2501.07360v1)|**[link](https://github.com/timbervision/timbervision)**|
 |**2025-01-13**|**Robust Single Object Tracking in LiDAR Point Clouds under Adverse Weather Conditions**|Xiantong Zhao et.al.|[2501.07133v1](http://arxiv.org/abs/2501.07133v1)|null|
 |**2025-01-09**|**An Empirical Study of Autoregressive Pre-training from Videos**|Jathushan Rajasegaran et.al.|[2501.05453v1](http://arxiv.org/abs/2501.05453v1)|null|
 |**2025-01-08**|**Building a Mind Palace: Structuring Environment-Grounded Semantic Graphs for Effective Long Video Analysis with LLMs**|Zeyi Huang et.al.|[2501.04336v1](http://arxiv.org/abs/2501.04336v1)|null|
@@ -359,7 +359,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-23**|**YOLO11-JDE: Fast and Accurate Multi-Object Tracking with Self-Supervised Re-ID**|Iñaki Erregue et.al.|[2501.13710v1](http://arxiv.org/abs/2501.13710v1)|null|
+|**2025-01-23**|**YOLO11-JDE: Fast and Accurate Multi-Object Tracking with Self-Supervised Re-ID**|Iñaki Erregue et.al.|[2501.13710v1](http://arxiv.org/abs/2501.13710v1)|**[link](https://github.com/inakierregueab/yolo11-jde)**|
 |**2025-01-20**|**PD-SORT: Occlusion-Robust Multi-Object Tracking Using Pseudo-Depth Cues**|Yanchao Wang et.al.|[2501.11288v1](http://arxiv.org/abs/2501.11288v1)|**[link](https://github.com/wangyc2000/pd_sort)**|
 |**2025-01-10**|**k-Sample inference via Multimarginal Optimal Transport**|Natalia Kravtsova et.al.|[2501.05645v1](http://arxiv.org/abs/2501.05645v1)|null|
 |**2025-01-09**|**A Magneto-Optical Trap of Titanium Atoms**|Scott Eustice et.al.|[2501.05544v1](http://arxiv.org/abs/2501.05544v1)|null|
@@ -500,7 +500,7 @@
 |**2025-01-23**|**MultiDreamer3D: Multi-concept 3D Customization with Concept-Aware Diffusion Guidance**|Wooseok Song et.al.|[2501.13449v1](http://arxiv.org/abs/2501.13449v1)|null|
 |**2025-01-23**|**From Images to Point Clouds: An Efficient Solution for Cross-media Blind Quality Assessment without Annotated Training**|Yipeng Liu et.al.|[2501.13387v1](http://arxiv.org/abs/2501.13387v1)|null|
 |**2025-01-22**|**CHaRNet: Conditioned Heatmap Regression for Robust Dental Landmark Localization**|José Rodríguez-Ortega et.al.|[2501.13073v2](http://arxiv.org/abs/2501.13073v2)|null|
-|**2025-01-22**|**MorphoSkel3D: Morphological Skeletonization of 3D Point Clouds for Informed Sampling in Object Classification and Retrieval**|Pierre Onghena et.al.|[2501.12974v1](http://arxiv.org/abs/2501.12974v1)|null|
+|**2025-01-22**|**MorphoSkel3D: Morphological Skeletonization of 3D Point Clouds for Informed Sampling in Object Classification and Retrieval**|Pierre Onghena et.al.|[2501.12974v1](http://arxiv.org/abs/2501.12974v1)|**[link](https://github.com/pierreoo/morphoskel3d)**|
 |**2025-01-22**|**Manifold learning and optimization using tangent space proxies**|Ryan A. Robinett et.al.|[2501.12678v1](http://arxiv.org/abs/2501.12678v1)|null|
 |**2025-01-21**|**HAC++: Towards 100X Compression of 3D Gaussian Splatting**|Yihang Chen et.al.|[2501.12255v2](http://arxiv.org/abs/2501.12255v2)|**[link](https://github.com/yihangchen-ee/hac-plus)**|
 |**2025-01-19**|**OpenLiDARMap: Zero-Drift Point Cloud Mapping using Map Priors**|Dominik Kulmer et.al.|[2501.11111v1](http://arxiv.org/abs/2501.11111v1)|null|
@@ -1095,7 +1095,7 @@
 |**2025-01-23**|**2-Tier SimCSE: Elevating BERT for Robust Sentence Embeddings**|Yumeng Wang et.al.|[2501.13758v1](http://arxiv.org/abs/2501.13758v1)|null|
 |**2025-01-23**|**Skin Disease Detection and Classification of Actinic Keratosis and Psoriasis Utilizing Deep Transfer Learning**|Fahud Ahmmed et.al.|[2501.13713v1](http://arxiv.org/abs/2501.13713v1)|null|
 |**2025-01-23**|**GenTL: A General Transfer Learning Model for Building Thermal Dynamics**|Fabian Raisch et.al.|[2501.13703v1](http://arxiv.org/abs/2501.13703v1)|null|
-|**2025-01-23**|**WFCRL: A Multi-Agent Reinforcement Learning Benchmark for Wind Farm Control**|Claire Bizon Monroc et.al.|[2501.13592v1](http://arxiv.org/abs/2501.13592v1)|null|
+|**2025-01-23**|**WFCRL: A Multi-Agent Reinforcement Learning Benchmark for Wind Farm Control**|Claire Bizon Monroc et.al.|[2501.13592v1](http://arxiv.org/abs/2501.13592v1)|**[link](https://github.com/ifpen/wfcrl-env)**|
 |**2025-01-23**|**NUDT4MSTAR: A New Dataset and Benchmark Towards SAR Target Recognition in the Wild**|Yongxiang Liu et.al.|[2501.13354v1](http://arxiv.org/abs/2501.13354v1)|**[link](https://github.com/waterdisappear/nudt4mstar)**|
 |**2025-01-22**|**Multimodal AI on Wound Images and Clinical Notes for Home Patient Referral**|Reza Saadati Fard et.al.|[2501.13247v1](http://arxiv.org/abs/2501.13247v1)|null|
 |**2025-01-22**|**LLM4WM: Adapting LLM for Wireless Multi-Tasking**|Xuanyu Liu et.al.|[2501.12983v1](http://arxiv.org/abs/2501.12983v1)|null|
@@ -1164,7 +1164,7 @@
 |**2025-01-23**|**MixRec: Individual and Collective Mixing Empowers Data Augmentation for Recommender Systems**|Yi Zhang et.al.|[2501.13579v1](http://arxiv.org/abs/2501.13579v1)|**[link](https://github.com/blueghostyi/id-grec)**|
 |**2025-01-23**|**Leveraging Textual Anatomical Knowledge for Class-Imbalanced Semi-Supervised Multi-Organ Segmentation**|Yuliang Gu et.al.|[2501.13470v1](http://arxiv.org/abs/2501.13470v1)|null|
 |**2025-01-23**|**Multi-Level Attention and Contrastive Learning for Enhanced Text Classification with an Optimized Transformer**|Jia Gao et.al.|[2501.13467v1](http://arxiv.org/abs/2501.13467v1)|null|
-|**2025-01-23**|**Rethinking the Sample Relations for Few-Shot Classification**|Guowei Yin et.al.|[2501.13418v1](http://arxiv.org/abs/2501.13418v1)|null|
+|**2025-01-23**|**Rethinking the Sample Relations for Few-Shot Classification**|Guowei Yin et.al.|[2501.13418v1](http://arxiv.org/abs/2501.13418v1)|**[link](https://github.com/HobbitLong/SupContrast)**|
 |**2025-01-23**|**Retrievals Can Be Detrimental: A Contrastive Backdoor Attack Paradigm on Retrieval-Augmented Diffusion Models**|Hao Fang et.al.|[2501.13340v1](http://arxiv.org/abs/2501.13340v1)|null|
 |**2025-01-22**|**MEDFORM: A Foundation Model for Contrastive Learning of CT Imaging and Clinical Numeric Data in Multi-Cancer Analysis**|Daeun Jung et.al.|[2501.13277v1](http://arxiv.org/abs/2501.13277v1)|**[link](https://github.com/digitalhealthcarelab/25multimodalfoundationmodel)**|
 |**2025-01-22**|**Less is More: Simple yet Effective Heuristic Community Detection with Graph Convolution Network**|Hong Wang et.al.|[2501.12946v1](http://arxiv.org/abs/2501.12946v1)|null|
@@ -1235,7 +1235,7 @@
 |**2025-01-23**|**Large Language Model driven Policy Exploration for Recommender Systems**|Jie Wang et.al.|[2501.13816v1](http://arxiv.org/abs/2501.13816v1)|null|
 |**2025-01-23**|**Integrating Causality with Neurochaos Learning: Proposed Approach and Research Agenda**|Nanjangud C. Narendra et.al.|[2501.13763v1](http://arxiv.org/abs/2501.13763v1)|null|
 |**2025-01-23**|**Scalable Safe Multi-Agent Reinforcement Learning for Multi-Agent System**|Haikuo Du et.al.|[2501.13727v1](http://arxiv.org/abs/2501.13727v1)|null|
-|**2025-01-23**|**WFCRL: A Multi-Agent Reinforcement Learning Benchmark for Wind Farm Control**|Claire Bizon Monroc et.al.|[2501.13592v1](http://arxiv.org/abs/2501.13592v1)|null|
+|**2025-01-23**|**WFCRL: A Multi-Agent Reinforcement Learning Benchmark for Wind Farm Control**|Claire Bizon Monroc et.al.|[2501.13592v1](http://arxiv.org/abs/2501.13592v1)|**[link](https://github.com/ifpen/wfcrl-env)**|
 |**2025-01-23**|**Explainable AI-aided Feature Selection and Model Reduction for DRL-based V2X Resource Allocation**|Nasir Khan et.al.|[2501.13552v1](http://arxiv.org/abs/2501.13552v1)|null|
 |**2025-01-22**|**Which Sensor to Observe? Timely Tracking of a Joint Markov Source with Model Predictive Control**|Ismail Cosandal et.al.|[2501.13099v1](http://arxiv.org/abs/2501.13099v1)|null|
 |**2025-01-22**|**Attention-Driven Hierarchical Reinforcement Learning with Particle Filtering for Source Localization in Dynamic Fields**|Yiwei Shi et.al.|[2501.13084v1](http://arxiv.org/abs/2501.13084v1)|null|
@@ -1382,7 +1382,7 @@
 |**2025-01-23**|**Ensuring Medical AI Safety: Explainable AI-Driven Detection and Mitigation of Spurious Model Behavior and Associated Data**|Frederik Pahde et.al.|[2501.13818v1](http://arxiv.org/abs/2501.13818v1)|**[link](https://github.com/frederikpahde/medical-ai-safety)**|
 |**2025-01-22**|**Multimodal AI on Wound Images and Clinical Notes for Home Patient Referral**|Reza Saadati Fard et.al.|[2501.13247v1](http://arxiv.org/abs/2501.13247v1)|null|
 |**2025-01-22**|**Unified CNNs and transformers underlying learning mechanism reveals multi-head attention modus vivendi**|Ella Koresh et.al.|[2501.12900v1](http://arxiv.org/abs/2501.12900v1)|null|
-|**2025-01-21**|**Efficient Lung Ultrasound Severity Scoring Using Dedicated Feature Extractor**|Jiaqi Guo et.al.|[2501.12524v1](http://arxiv.org/abs/2501.12524v1)|null|
+|**2025-01-21**|**Efficient Lung Ultrasound Severity Scoring Using Dedicated Feature Extractor**|Jiaqi Guo et.al.|[2501.12524v1](http://arxiv.org/abs/2501.12524v1)|**[link](https://github.com/guojiaqi-1020/medivlad)**|
 |**2025-01-21**|**Vision-Language Models for Automated Chest X-ray Interpretation: Leveraging ViT and GPT-2**|Md. Rakibul Islam et.al.|[2501.12356v1](http://arxiv.org/abs/2501.12356v1)|null|
 |**2025-01-20**|**Generative AI-enabled Blockage Prediction for Robust Dual-Band mmWave Communication**|Mohammad Ghassemi et.al.|[2501.11763v1](http://arxiv.org/abs/2501.11763v1)|null|
 |**2025-01-19**|**Reproducibility review of "Why Not Other Classes": Towards Class-Contrastive Back-Propagation Explanations**|Arvid Eriksson et.al.|[2501.11096v1](http://arxiv.org/abs/2501.11096v1)|null|
