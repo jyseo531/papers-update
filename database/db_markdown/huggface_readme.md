@@ -164,3 +164,5 @@ Updated on 2025-01-26
 | lmstudio-community/DeepSeek-R1-Distill-Qwen-7B-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/lmstudio-community/DeepSeek-R1-Distill-Qwen-7B-GGUF) | Unknown license | text-generation |
 | NovaSky-AI/Sky-T1-32B-Flash | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/NovaSky-AI/Sky-T1-32B-Flash) | apache-2.0 | text-generation |
 | strangerzonehf/Flux-Super-Realism-LoRA | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/strangerzonehf/Flux-Super-Realism-LoRA) | mit | text-to-image |
+| openfree/claude-monet | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/openfree/claude-monet) | other | text-to-image |
+| microsoft/Phi-3.5-mini-instruct | None | [Link](https://huggingface.co/microsoft/Phi-3.5-mini-instruct) | mit | text-generation |
