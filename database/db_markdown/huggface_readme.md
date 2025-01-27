@@ -175,3 +175,8 @@ Updated on 2025-01-27
 | Steelskull/L3.3-Nevoria-R1-70b | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Steelskull/L3.3-Nevoria-R1-70b) | Unknown license | text-generation |
 | NaniDAO/deepseek-r1-qwen-2.5-32B-ablated | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/NaniDAO/deepseek-r1-qwen-2.5-32B-ablated) | mit | text-generation |
 | FuseAI/FuseO1-DeepSeekR1-QwQ-SkyT1-Flash-32B-Preview | http://arxiv.org/abs/2408.07990v1 | [Link](https://huggingface.co/FuseAI/FuseO1-DeepSeekR1-QwQ-SkyT1-Flash-32B-Preview) | apache-2.0 | None |
+| cyberagent/DeepSeek-R1-Distill-Qwen-32B-Japanese | None | [Link](https://huggingface.co/cyberagent/DeepSeek-R1-Distill-Qwen-32B-Japanese) | mit | text-generation |
+| netease-youdao/Confucius-o1-14B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/netease-youdao/Confucius-o1-14B) | apache-2.0 | text-generation |
+| strangerzonehf/Qd-Sketch | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/strangerzonehf/Qd-Sketch) | other | text-to-image |
+| onnx-community/DeepSeek-R1-Distill-Qwen-1.5B-ONNX | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/onnx-community/DeepSeek-R1-Distill-Qwen-1.5B-ONNX) | Unknown license | text-generation |
+| huihui-ai/DeepSeek-R1-Distill-Qwen-32B-abliterated | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/huihui-ai/DeepSeek-R1-Distill-Qwen-32B-abliterated) | Unknown license | text-generation |
