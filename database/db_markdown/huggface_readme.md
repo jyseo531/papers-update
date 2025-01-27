@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-01-26
+Updated on 2025-01-27
 
 > Generated from the Hugging Face database.
 
@@ -167,3 +167,11 @@ Updated on 2025-01-26
 | openfree/claude-monet | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/openfree/claude-monet) | other | text-to-image |
 | microsoft/Phi-3.5-mini-instruct | None | [Link](https://huggingface.co/microsoft/Phi-3.5-mini-instruct) | mit | text-generation |
 | mlx-community/DeepSeek-R1-Distill-Qwen-32B-4bit | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/mlx-community/DeepSeek-R1-Distill-Qwen-32B-4bit) | Unknown license | text-generation |
+| Qwen/Qwen2.5-14B-Instruct-1M | http://arxiv.org/abs/2412.15115v2 | [Link](https://huggingface.co/Qwen/Qwen2.5-14B-Instruct-1M) | apache-2.0 | text-generation |
+| Qwen/Qwen2.5-7B-Instruct-1M | http://arxiv.org/abs/2412.15115v2 | [Link](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct-1M) | apache-2.0 | text-generation |
+| ozone-ai/0x-lite | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/ozone-ai/0x-lite) | Unknown license | text-generation |
+| bartowski/DeepSeek-R1-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/DeepSeek-R1-GGUF) | Unknown license | text-generation |
+| baichuan-inc/Baichuan-M1-14B-Instruct | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/baichuan-inc/Baichuan-M1-14B-Instruct) | Unknown license | None |
+| Steelskull/L3.3-Nevoria-R1-70b | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Steelskull/L3.3-Nevoria-R1-70b) | Unknown license | text-generation |
+| NaniDAO/deepseek-r1-qwen-2.5-32B-ablated | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/NaniDAO/deepseek-r1-qwen-2.5-32B-ablated) | mit | text-generation |
+| FuseAI/FuseO1-DeepSeekR1-QwQ-SkyT1-Flash-32B-Preview | http://arxiv.org/abs/2408.07990v1 | [Link](https://huggingface.co/FuseAI/FuseO1-DeepSeekR1-QwQ-SkyT1-Flash-32B-Preview) | apache-2.0 | None |
