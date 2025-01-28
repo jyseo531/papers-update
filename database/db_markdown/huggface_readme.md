@@ -5,7 +5,7 @@ Updated on 2025-01-28
 
 | Title | Paper | GitHub URL | License | Category |
 |:------|:------|:-----------|:--------|:---------|
-| hexgrad/Kokoro-82M | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/hexgrad/Kokoro-82M) | apache-2.0 | text-to-speech |
+| hexgrad/Kokoro-82M | None | [Link](https://huggingface.co/hexgrad/Kokoro-82M) | apache-2.0 | text-to-speech |
 | openbmb/MiniCPM-o-2_6 | http://arxiv.org/abs/2408.01800v1 | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6) | Unknown license | any-to-any |
 | MiniMaxAI/MiniMax-Text-01 | http://arxiv.org/abs/2401.04658v2 | [Link](https://huggingface.co/MiniMaxAI/MiniMax-Text-01) | Unknown license | text-generation |
 | microsoft/phi-4 | http://arxiv.org/abs/2412.08905v1 | [Link](https://huggingface.co/microsoft/phi-4) | mit | text-generation |
@@ -167,12 +167,12 @@ Updated on 2025-01-28
 | openfree/claude-monet | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/openfree/claude-monet) | other | text-to-image |
 | microsoft/Phi-3.5-mini-instruct | None | [Link](https://huggingface.co/microsoft/Phi-3.5-mini-instruct) | mit | text-generation |
 | mlx-community/DeepSeek-R1-Distill-Qwen-32B-4bit | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/mlx-community/DeepSeek-R1-Distill-Qwen-32B-4bit) | Unknown license | text-generation |
-| Qwen/Qwen2.5-14B-Instruct-1M | http://arxiv.org/abs/2412.15115v2 | [Link](https://huggingface.co/Qwen/Qwen2.5-14B-Instruct-1M) | apache-2.0 | text-generation |
-| Qwen/Qwen2.5-7B-Instruct-1M | http://arxiv.org/abs/2412.15115v2 | [Link](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct-1M) | apache-2.0 | text-generation |
+| Qwen/Qwen2.5-14B-Instruct-1M | http://arxiv.org/abs/2501.15383v1 | [Link](https://huggingface.co/Qwen/Qwen2.5-14B-Instruct-1M) | apache-2.0 | text-generation |
+| Qwen/Qwen2.5-7B-Instruct-1M | http://arxiv.org/abs/2501.15383v1 | [Link](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct-1M) | apache-2.0 | text-generation |
 | ozone-ai/0x-lite | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/ozone-ai/0x-lite) | apache-2.0 | text-generation |
 | bartowski/DeepSeek-R1-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/DeepSeek-R1-GGUF) | Unknown license | text-generation |
 | baichuan-inc/Baichuan-M1-14B-Instruct | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/baichuan-inc/Baichuan-M1-14B-Instruct) | Unknown license | None |
-| Steelskull/L3.3-Nevoria-R1-70b | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Steelskull/L3.3-Nevoria-R1-70b) | Unknown license | text-generation |
+| Steelskull/L3.3-Nevoria-R1-70b | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Steelskull/L3.3-Nevoria-R1-70b) | other | text-generation |
 | NaniDAO/deepseek-r1-qwen-2.5-32B-ablated | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/NaniDAO/deepseek-r1-qwen-2.5-32B-ablated) | mit | text-generation |
 | FuseAI/FuseO1-DeepSeekR1-QwQ-SkyT1-Flash-32B-Preview | http://arxiv.org/abs/2408.07990v1 | [Link](https://huggingface.co/FuseAI/FuseO1-DeepSeekR1-QwQ-SkyT1-Flash-32B-Preview) | apache-2.0 | None |
 | cyberagent/DeepSeek-R1-Distill-Qwen-32B-Japanese | None | [Link](https://huggingface.co/cyberagent/DeepSeek-R1-Distill-Qwen-32B-Japanese) | mit | text-generation |
@@ -189,3 +189,8 @@ Updated on 2025-01-28
 | deepseek-ai/JanusFlow-1.3B | None | [Link](https://huggingface.co/deepseek-ai/JanusFlow-1.3B) | mit | any-to-any |
 | cyberagent/DeepSeek-R1-Distill-Qwen-14B-Japanese | None | [Link](https://huggingface.co/cyberagent/DeepSeek-R1-Distill-Qwen-14B-Japanese) | mit | text-generation |
 | mkurman/Qwen2.5-14B-DeepSeek-R1-1M | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/mkurman/Qwen2.5-14B-DeepSeek-R1-1M) | apache-2.0 | text-generation |
+| m-a-p/YuE-s1-7B-anneal-en-cot | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/m-a-p/YuE-s1-7B-anneal-en-cot) | cc-by-nc-4.0 | text-generation |
+| cagliostrolab/animagine-xl-4.0 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/cagliostrolab/animagine-xl-4.0) | openrail++ | text-to-image |
+| baichuan-inc/Baichuan-Omni-1d5 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/baichuan-inc/Baichuan-Omni-1d5) | apache-2.0 | None |
+| deepseek-ai/deepseek-vl2 | None | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2) | other | image-text-to-text |
+| bartowski/Qwen2.5-7B-Instruct-1M-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/Qwen2.5-7B-Instruct-1M-GGUF) | apache-2.0 | text-generation |
