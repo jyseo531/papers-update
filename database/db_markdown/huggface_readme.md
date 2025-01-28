@@ -1,11 +1,11 @@
 # Hugging Face News
-Updated on 2025-01-27
+Updated on 2025-01-28
 
 > Generated from the Hugging Face database.
 
 | Title | Paper | GitHub URL | License | Category |
 |:------|:------|:-----------|:--------|:---------|
-| hexgrad/Kokoro-82M | None | [Link](https://huggingface.co/hexgrad/Kokoro-82M) | apache-2.0 | text-to-speech |
+| hexgrad/Kokoro-82M | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/hexgrad/Kokoro-82M) | apache-2.0 | text-to-speech |
 | openbmb/MiniCPM-o-2_6 | http://arxiv.org/abs/2408.01800v1 | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6) | Unknown license | any-to-any |
 | MiniMaxAI/MiniMax-Text-01 | http://arxiv.org/abs/2401.04658v2 | [Link](https://huggingface.co/MiniMaxAI/MiniMax-Text-01) | Unknown license | text-generation |
 | microsoft/phi-4 | http://arxiv.org/abs/2412.08905v1 | [Link](https://huggingface.co/microsoft/phi-4) | mit | text-generation |
@@ -169,7 +169,7 @@ Updated on 2025-01-27
 | mlx-community/DeepSeek-R1-Distill-Qwen-32B-4bit | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/mlx-community/DeepSeek-R1-Distill-Qwen-32B-4bit) | Unknown license | text-generation |
 | Qwen/Qwen2.5-14B-Instruct-1M | http://arxiv.org/abs/2412.15115v2 | [Link](https://huggingface.co/Qwen/Qwen2.5-14B-Instruct-1M) | apache-2.0 | text-generation |
 | Qwen/Qwen2.5-7B-Instruct-1M | http://arxiv.org/abs/2412.15115v2 | [Link](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct-1M) | apache-2.0 | text-generation |
-| ozone-ai/0x-lite | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/ozone-ai/0x-lite) | Unknown license | text-generation |
+| ozone-ai/0x-lite | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/ozone-ai/0x-lite) | apache-2.0 | text-generation |
 | bartowski/DeepSeek-R1-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/DeepSeek-R1-GGUF) | Unknown license | text-generation |
 | baichuan-inc/Baichuan-M1-14B-Instruct | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/baichuan-inc/Baichuan-M1-14B-Instruct) | Unknown license | None |
 | Steelskull/L3.3-Nevoria-R1-70b | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Steelskull/L3.3-Nevoria-R1-70b) | Unknown license | text-generation |
@@ -180,3 +180,12 @@ Updated on 2025-01-27
 | strangerzonehf/Qd-Sketch | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/strangerzonehf/Qd-Sketch) | other | text-to-image |
 | onnx-community/DeepSeek-R1-Distill-Qwen-1.5B-ONNX | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/onnx-community/DeepSeek-R1-Distill-Qwen-1.5B-ONNX) | Unknown license | text-generation |
 | huihui-ai/DeepSeek-R1-Distill-Qwen-32B-abliterated | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/huihui-ai/DeepSeek-R1-Distill-Qwen-32B-abliterated) | Unknown license | text-generation |
+| deepseek-ai/Janus-Pro-7B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-7B) | mit | any-to-any |
+| deepseek-ai/Janus-Pro-1B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-1B) | mit | any-to-any |
+| Qwen/Qwen2.5-VL-7B-Instruct | http://arxiv.org/abs/2405.18009v2 | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct) | apache-2.0 | image-text-to-text |
+| Qwen/Qwen2.5-VL-72B-Instruct | http://arxiv.org/abs/2405.18009v2 | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-72B-Instruct) | other | image-text-to-text |
+| Qwen/Qwen2.5-VL-3B-Instruct | http://arxiv.org/abs/2405.18009v2 | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct) | Unknown license | image-text-to-text |
+| deepseek-ai/Janus-1.3B | None | [Link](https://huggingface.co/deepseek-ai/Janus-1.3B) | mit | any-to-any |
+| deepseek-ai/JanusFlow-1.3B | None | [Link](https://huggingface.co/deepseek-ai/JanusFlow-1.3B) | mit | any-to-any |
+| cyberagent/DeepSeek-R1-Distill-Qwen-14B-Japanese | None | [Link](https://huggingface.co/cyberagent/DeepSeek-R1-Distill-Qwen-14B-Japanese) | mit | text-generation |
+| mkurman/Qwen2.5-14B-DeepSeek-R1-1M | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/mkurman/Qwen2.5-14B-DeepSeek-R1-1M) | apache-2.0 | text-generation |
