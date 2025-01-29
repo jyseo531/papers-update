@@ -115,7 +115,7 @@ Updated on 2025-01-29
 | deepseek-ai/DeepSeek-R1-Distill-Llama-70B | None | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-70B) | mit | text-generation |
 | deepseek-ai/DeepSeek-R1-Distill-Llama-8B | None | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-8B) | mit | text-generation |
 | deepseek-ai/DeepSeek-R1-Distill-Qwen-14B | None | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B) | mit | text-generation |
-| unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF | None | [Link](https://huggingface.co/unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF) | Unknown license | None |
+| unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF | None | [Link](https://huggingface.co/unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF) | llama3.1 | None |
 | unsloth/DeepSeek-R1-Distill-Qwen-32B-GGUF | None | [Link](https://huggingface.co/unsloth/DeepSeek-R1-Distill-Qwen-32B-GGUF) | apache-2.0 | None |
 | bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF) | Unknown license | text-generation |
 | unsloth/DeepSeek-R1-Distill-Qwen-7B-GGUF | None | [Link](https://huggingface.co/unsloth/DeepSeek-R1-Distill-Qwen-7B-GGUF) | apache-2.0 | None |
@@ -198,3 +198,5 @@ Updated on 2025-01-29
 | nvidia/Eagle2-9B | None | [Link](https://huggingface.co/nvidia/Eagle2-9B) | cc-by-nc-4.0 | image-text-to-text |
 | DAMO-NLP-SG/VideoLLaMA3-7B | None | [Link](https://huggingface.co/DAMO-NLP-SG/VideoLLaMA3-7B) | apache-2.0 | visual-question-answering |
 | m-a-p/YuE-s1-7B-anneal-en-icl | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/m-a-p/YuE-s1-7B-anneal-en-icl) | cc-by-nc-4.0 | text-generation |
+| bluepen5805/DeepSeek-R1-Distill-Qwen-14B-Japanese-gguf | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bluepen5805/DeepSeek-R1-Distill-Qwen-14B-Japanese-gguf) | mit | text-generation |
+| m-a-p/YuE-s2-1B-general | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/m-a-p/YuE-s2-1B-general) | cc-by-nc-4.0 | text-generation |
