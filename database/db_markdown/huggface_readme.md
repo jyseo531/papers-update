@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-01-28
+Updated on 2025-01-29
 
 > Generated from the Hugging Face database.
 
@@ -194,3 +194,7 @@ Updated on 2025-01-28
 | baichuan-inc/Baichuan-Omni-1d5 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/baichuan-inc/Baichuan-Omni-1d5) | apache-2.0 | None |
 | deepseek-ai/deepseek-vl2 | None | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2) | other | image-text-to-text |
 | bartowski/Qwen2.5-7B-Instruct-1M-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/Qwen2.5-7B-Instruct-1M-GGUF) | apache-2.0 | text-generation |
+| onnx-community/Janus-Pro-1B-ONNX | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/onnx-community/Janus-Pro-1B-ONNX) | mit | any-to-any |
+| nvidia/Eagle2-9B | None | [Link](https://huggingface.co/nvidia/Eagle2-9B) | cc-by-nc-4.0 | image-text-to-text |
+| DAMO-NLP-SG/VideoLLaMA3-7B | None | [Link](https://huggingface.co/DAMO-NLP-SG/VideoLLaMA3-7B) | apache-2.0 | visual-question-answering |
+| m-a-p/YuE-s1-7B-anneal-en-icl | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/m-a-p/YuE-s1-7B-anneal-en-icl) | cc-by-nc-4.0 | text-generation |
