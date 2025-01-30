@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-01-29
+Updated on 2025-01-30
 
 > Generated from the Hugging Face database.
 
@@ -201,3 +201,6 @@ Updated on 2025-01-29
 | bluepen5805/DeepSeek-R1-Distill-Qwen-14B-Japanese-gguf | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bluepen5805/DeepSeek-R1-Distill-Qwen-14B-Japanese-gguf) | mit | text-generation |
 | m-a-p/YuE-s2-1B-general | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/m-a-p/YuE-s2-1B-general) | cc-by-nc-4.0 | text-generation |
 | bartowski/deepseek-r1-qwen-2.5-32B-ablated-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/deepseek-r1-qwen-2.5-32B-ablated-GGUF) | mit | text-generation |
+| unsloth/DeepSeek-R1-Distill-Llama-8B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/unsloth/DeepSeek-R1-Distill-Llama-8B) | llama3.1 | text-generation |
+| PramaLLC/BEN2 | http://arxiv.org/abs/2501.06230v1 | [Link](https://huggingface.co/PramaLLC/BEN2) | mit | image-segmentation |
+| AtlaAI/Selene-1-Mini-Llama-3.1-8B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/AtlaAI/Selene-1-Mini-Llama-3.1-8B) | llama3.1 | text-generation |
