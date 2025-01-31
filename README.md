@@ -1,4 +1,4 @@
-## Updated on 2025.01.30
+## Updated on 2025.01.31
 
 > Welcome to contribute! Add your topics and keywords in `topic.yml`
 
@@ -243,7 +243,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-29**|**ContourFormer:Real-Time Contour-Based End-to-End Instance Segmentation Transformer**|Weiwei yao et.al.|[2501.17688v1](http://arxiv.org/abs/2501.17688v1)|null|
+|**2025-01-29**|**ContourFormer:Real-Time Contour-Based End-to-End Instance Segmentation Transformer**|Weiwei Yao et.al.|[2501.17688v2](http://arxiv.org/abs/2501.17688v2)|null|
 |**2025-01-27**|**D-PLS: Decoupled Semantic Segmentation for 4D-Panoptic-LiDAR-Segmentation**|Maik Steinhauser et.al.|[2501.15870v1](http://arxiv.org/abs/2501.15870v1)|null|
 |**2025-01-26**|**iFormer: Integrating ConvNet and Transformer for Mobile Application**|Chuanyang Zheng et.al.|[2501.15369v1](http://arxiv.org/abs/2501.15369v1)|**[link](https://github.com/chuanyangzheng/iformer)**|
 |**2025-01-24**|**Effective Defect Detection Using Instance Segmentation for NDI**|Ashiqur Rahman et.al.|[2501.14149v1](http://arxiv.org/abs/2501.14149v1)|null|
@@ -293,7 +293,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-01-29**|**Detection of Oscillation-like Patterns in Eclipsing Binary Light Curves using Neural Network-based Object Detection Algorithms**|Burak Ulaş et.al.|[2501.17538v1](http://arxiv.org/abs/2501.17538v1)|null|
-|**2025-01-29**|**Assessing the Capability of YOLO- and Transformer-based Object Detectors for Real-time Weed Detection**|Alicia Allmendinger et.al.|[2501.17387v1](http://arxiv.org/abs/2501.17387v1)|null|
+|**2025-01-29**|**Assessing the Capability of YOLO- and Transformer-based Object Detectors for Real-time Weed Detection**|Alicia Allmendinger et.al.|[2501.17387v2](http://arxiv.org/abs/2501.17387v2)|null|
 |**2025-01-28**|**DINOSTAR: Deep Iterative Neural Object Detector Self-Supervised Training for Roadside LiDAR Applications**|Muhammad Shahbaz et.al.|[2501.17076v1](http://arxiv.org/abs/2501.17076v1)|null|
 |**2025-01-28**|**Contextual Self-paced Learning for Weakly Supervised Spatio-Temporal Video Grounding**|Akash Kumar et.al.|[2501.17053v1](http://arxiv.org/abs/2501.17053v1)|null|
 |**2025-01-28**|**Approach Towards Semi-Automated Certification for Low Criticality ML-Enabled Airborne Applications**|Chandrasekar Sridhar et.al.|[2501.17028v1](http://arxiv.org/abs/2501.17028v1)|null|
@@ -1199,7 +1199,7 @@
 |**2025-01-27**|**Quantum oscillations of holes in GaN**|Chuan F. C. Chang et.al.|[2501.16213v1](http://arxiv.org/abs/2501.16213v1)|null|
 |**2025-01-27**|**Using Generative Models to Produce Realistic Populations of UK Windstorms**|Yee Chun Tsoi et.al.|[2501.16110v1](http://arxiv.org/abs/2501.16110v1)|null|
 |**2025-01-27**|**Generating Spatial Synthetic Populations Using Wasserstein Generative Adversarial Network: A Case Study with EU-SILC Data for Helsinki and Thessaloniki**|Vanja Falck et.al.|[2501.16080v1](http://arxiv.org/abs/2501.16080v1)|null|
-|**2025-01-27**|**Can Location Embeddings Enhance Super-Resolution of Satellite Imagery?**|Daniel Panangian et.al.|[2501.15847v1](http://arxiv.org/abs/2501.15847v1)|null|
+|**2025-01-27**|**Can Location Embeddings Enhance Super-Resolution of Satellite Imagery?**|Daniel Panangian et.al.|[2501.15847v2](http://arxiv.org/abs/2501.15847v2)|null|
 |**2025-01-27**|**Walk in Their Shoes to Navigate Your Own Path: Learning About Procrastination Through A Serious Game**|Runhua Zhang et.al.|[2501.15770v1](http://arxiv.org/abs/2501.15770v1)|null|
 |**2025-01-27**|**An ab initio dataset of size-dependent effective thermal conductivity for advanced technology transistors**|Han Xie et.al.|[2501.15736v1](http://arxiv.org/abs/2501.15736v1)|null|
 |**2025-01-26**|**Rethinking External Slow-Thinking: From Snowball Errors to Probability of Correct Reasoning**|Zeyu Gan et.al.|[2501.15602v1](http://arxiv.org/abs/2501.15602v1)|**[link](https://github.com/zygan1999/snowball-errors-and-probability)**|
@@ -1740,7 +1740,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-29**|**Graph Neural Network Flavor Tagger and measurement of $\mathrm{sin}2β$ at Belle II**|Petros Stavroulakis et.al.|[2501.17631v1](http://arxiv.org/abs/2501.17631v1)|null|
+|**2025-01-29**|**Graph Neural Network Flavor Tagger and measurement of $\mathrm{sin}2β$ at Belle II**|Petros Stavroulakis et.al.|[2501.17631v2](http://arxiv.org/abs/2501.17631v2)|null|
 |**2025-01-29**|**RegionGCN: Spatial-Heterogeneity-Aware Graph Convolutional Networks**|Hao Guo et.al.|[2501.17599v1](http://arxiv.org/abs/2501.17599v1)|null|
 |**2025-01-29**|**Query-Aware Learnable Graph Pooling Tokens as Prompt for Large Language Models**|Wooyoung Kim et.al.|[2501.17549v1](http://arxiv.org/abs/2501.17549v1)|null|
 |**2025-01-29**|**Reqo: A Robust and Explainable Query Optimization Cost Model**|Baoming Chang et.al.|[2501.17414v1](http://arxiv.org/abs/2501.17414v1)|**[link](https://github.com/baomingchang/reqo-on-postgresql)**|
@@ -2095,7 +2095,7 @@
 |---|---|---|---|---|
 |**2025-01-29**|**U2A: Unified Unimodal Adaptation for Robust and Efficient Multimodal Learning**|Md Kaykobad Reza et.al.|[2501.17823v1](http://arxiv.org/abs/2501.17823v1)|null|
 |**2025-01-29**|**Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling**|Xiaokang Chen et.al.|[2501.17811v1](http://arxiv.org/abs/2501.17811v1)|**[link](https://github.com/deepseek-ai/janus)**|
-|**2025-01-29**|**Leveraging Multimodal LLM for Inspirational User Interface Search**|Seokhyeon Park et.al.|[2501.17799v1](http://arxiv.org/abs/2501.17799v1)|**[link](https://github.com/spark-damian/s-ui)**|
+|**2025-01-29**|**Leveraging Multimodal LLM for Inspirational User Interface Search**|Seokhyeon Park et.al.|[2501.17799v2](http://arxiv.org/abs/2501.17799v2)|**[link](https://github.com/spark-damian/s-ui)**|
 |**2025-01-29**|**Reasoning Over the Glyphs: Evaluation of LLM's Decipherment of Rare Scripts**|Yu-Fei Shih et.al.|[2501.17785v1](http://arxiv.org/abs/2501.17785v1)|null|
 |**2025-01-29**|**Glioma Multimodal MRI Analysis System for Tumor Layered Diagnosis via Multi-task Semi-supervised Learning**|Yihao Liu et.al.|[2501.17758v1](http://arxiv.org/abs/2501.17758v1)|null|
 |**2025-01-29**|**A technical review of multi-omics data integration methods: from classical statistical to deep generative approaches**|Ana R. Baião et.al.|[2501.17729v1](http://arxiv.org/abs/2501.17729v1)|null|
@@ -2508,7 +2508,7 @@
 |**2025-01-29**|**Matrix Product Sketching via Coordinated Sampling**|Majid Daliri et.al.|[2501.17836v1](http://arxiv.org/abs/2501.17836v1)|null|
 |**2025-01-29**|**Replacing the Gallium Oxide Shell with Conductive Ag: Toward a Printable and Recyclable Composite for Highly Stretchable Electronics, Electromagnetic Shielding, and Thermal Interfaces**|Abdollah Hajalilou et.al.|[2501.17808v1](http://arxiv.org/abs/2501.17808v1)|null|
 |**2025-01-29**|**LEKA:LLM-Enhanced Knowledge Augmentation**|Xinhao Zhang et.al.|[2501.17802v1](http://arxiv.org/abs/2501.17802v1)|null|
-|**2025-01-29**|**Leveraging Multimodal LLM for Inspirational User Interface Search**|Seokhyeon Park et.al.|[2501.17799v1](http://arxiv.org/abs/2501.17799v1)|**[link](https://github.com/spark-damian/s-ui)**|
+|**2025-01-29**|**Leveraging Multimodal LLM for Inspirational User Interface Search**|Seokhyeon Park et.al.|[2501.17799v2](http://arxiv.org/abs/2501.17799v2)|**[link](https://github.com/spark-damian/s-ui)**|
 |**2025-01-29**|**BreezyVoice: Adapting TTS for Taiwanese Mandarin with Enhanced Polyphone Disambiguation -- Challenges and Insights**|Chan-Jan Hsu et.al.|[2501.17790v1](http://arxiv.org/abs/2501.17790v1)|null|
 |**2025-01-29**|**Reasoning Over the Glyphs: Evaluation of LLM's Decipherment of Rare Scripts**|Yu-Fei Shih et.al.|[2501.17785v1](http://arxiv.org/abs/2501.17785v1)|null|
 |**2025-01-29**|**AdditiveLLM: Large Language Models Predict Defects in Additive Manufacturing**|Peter Pak et.al.|[2501.17784v1](http://arxiv.org/abs/2501.17784v1)|null|

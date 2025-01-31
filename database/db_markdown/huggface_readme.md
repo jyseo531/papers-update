@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-01-30
+Updated on 2025-01-31
 
 > Generated from the Hugging Face database.
 
@@ -189,7 +189,7 @@ Updated on 2025-01-30
 | deepseek-ai/JanusFlow-1.3B | None | [Link](https://huggingface.co/deepseek-ai/JanusFlow-1.3B) | mit | any-to-any |
 | cyberagent/DeepSeek-R1-Distill-Qwen-14B-Japanese | None | [Link](https://huggingface.co/cyberagent/DeepSeek-R1-Distill-Qwen-14B-Japanese) | mit | text-generation |
 | mkurman/Qwen2.5-14B-DeepSeek-R1-1M | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/mkurman/Qwen2.5-14B-DeepSeek-R1-1M) | apache-2.0 | text-generation |
-| m-a-p/YuE-s1-7B-anneal-en-cot | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/m-a-p/YuE-s1-7B-anneal-en-cot) | cc-by-nc-4.0 | text-generation |
+| m-a-p/YuE-s1-7B-anneal-en-cot | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/m-a-p/YuE-s1-7B-anneal-en-cot) | apache-2.0 | text-generation |
 | cagliostrolab/animagine-xl-4.0 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/cagliostrolab/animagine-xl-4.0) | openrail++ | text-to-image |
 | baichuan-inc/Baichuan-Omni-1d5 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/baichuan-inc/Baichuan-Omni-1d5) | apache-2.0 | None |
 | deepseek-ai/deepseek-vl2 | None | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2) | other | image-text-to-text |
@@ -199,7 +199,7 @@ Updated on 2025-01-30
 | DAMO-NLP-SG/VideoLLaMA3-7B | None | [Link](https://huggingface.co/DAMO-NLP-SG/VideoLLaMA3-7B) | apache-2.0 | visual-question-answering |
 | m-a-p/YuE-s1-7B-anneal-en-icl | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/m-a-p/YuE-s1-7B-anneal-en-icl) | cc-by-nc-4.0 | text-generation |
 | bluepen5805/DeepSeek-R1-Distill-Qwen-14B-Japanese-gguf | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bluepen5805/DeepSeek-R1-Distill-Qwen-14B-Japanese-gguf) | mit | text-generation |
-| m-a-p/YuE-s2-1B-general | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/m-a-p/YuE-s2-1B-general) | cc-by-nc-4.0 | text-generation |
+| m-a-p/YuE-s2-1B-general | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/m-a-p/YuE-s2-1B-general) | apache-2.0 | text-generation |
 | bartowski/deepseek-r1-qwen-2.5-32B-ablated-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/deepseek-r1-qwen-2.5-32B-ablated-GGUF) | mit | text-generation |
 | unsloth/DeepSeek-R1-Distill-Llama-8B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/unsloth/DeepSeek-R1-Distill-Llama-8B) | llama3.1 | text-generation |
 | PramaLLC/BEN2 | http://arxiv.org/abs/2501.06230v1 | [Link](https://huggingface.co/PramaLLC/BEN2) | mit | image-segmentation |
@@ -210,3 +210,8 @@ Updated on 2025-01-30
 | arcee-ai/Virtuoso-Medium-v2 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/arcee-ai/Virtuoso-Medium-v2) | apache-2.0 | text-generation |
 | deepseek-ai/DeepSeek-Coder-V2-Instruct | None | [Link](https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Instruct) | other | text-generation |
 | bartowski/Qwen2.5-14B-Instruct-1M-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/Qwen2.5-14B-Instruct-1M-GGUF) | apache-2.0 | text-generation |
+| mistralai/Mistral-Small-24B-Instruct-2501 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501) | apache-2.0 | text-generation |
+| mistralai/Mistral-Small-24B-Base-2501 | http://arxiv.org/abs/2009.03300v3 | [Link](https://huggingface.co/mistralai/Mistral-Small-24B-Base-2501) | apache-2.0 | text-generation |
+| bartowski/Mistral-Small-24B-Instruct-2501-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/Mistral-Small-24B-Instruct-2501-GGUF) | apache-2.0 | text-generation |
+| Alpha-VLLM/Lumina-Image-2.0 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0) | Unknown license | text-to-image |
+| open-thoughts/OpenThinker-7B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/open-thoughts/OpenThinker-7B) | apache-2.0 | text-generation |
