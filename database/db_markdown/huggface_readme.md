@@ -215,3 +215,8 @@ Updated on 2025-01-31
 | bartowski/Mistral-Small-24B-Instruct-2501-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/Mistral-Small-24B-Instruct-2501-GGUF) | apache-2.0 | text-generation |
 | Alpha-VLLM/Lumina-Image-2.0 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0) | Unknown license | text-to-image |
 | open-thoughts/OpenThinker-7B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/open-thoughts/OpenThinker-7B) | apache-2.0 | text-generation |
+| Almawave/Velvet-14B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Almawave/Velvet-14B) | apache-2.0 | text-generation |
+| allenai/Llama-3.1-Tulu-3-405B | http://arxiv.org/abs/2411.15124v3 | [Link](https://huggingface.co/allenai/Llama-3.1-Tulu-3-405B) | llama3.1 | text-generation |
+| m-a-p/YuE-s1-7B-anneal-zh-cot | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/m-a-p/YuE-s1-7B-anneal-zh-cot) | apache-2.0 | text-generation |
+| arcee-ai/Virtuoso-Lite | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/arcee-ai/Virtuoso-Lite) | other | text-generation |
+| deepseek-ai/deepseek-llm-7b-base | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/deepseek-ai/deepseek-llm-7b-base) | other | text-generation |
