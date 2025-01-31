@@ -220,3 +220,4 @@ Updated on 2025-01-31
 | m-a-p/YuE-s1-7B-anneal-zh-cot | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/m-a-p/YuE-s1-7B-anneal-zh-cot) | apache-2.0 | text-generation |
 | arcee-ai/Virtuoso-Lite | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/arcee-ai/Virtuoso-Lite) | other | text-generation |
 | deepseek-ai/deepseek-llm-7b-base | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/deepseek-ai/deepseek-llm-7b-base) | other | text-generation |
+| huihui-ai/DeepSeek-R1-Distill-Qwen-14B-abliterated-v2 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/huihui-ai/DeepSeek-R1-Distill-Qwen-14B-abliterated-v2) | Unknown license | text-generation |
