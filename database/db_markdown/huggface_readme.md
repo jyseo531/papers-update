@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-01-31
+Updated on 2025-02-01
 
 > Generated from the Hugging Face database.
 
@@ -221,3 +221,4 @@ Updated on 2025-01-31
 | arcee-ai/Virtuoso-Lite | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/arcee-ai/Virtuoso-Lite) | other | text-generation |
 | deepseek-ai/deepseek-llm-7b-base | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/deepseek-ai/deepseek-llm-7b-base) | other | text-generation |
 | huihui-ai/DeepSeek-R1-Distill-Qwen-14B-abliterated-v2 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/huihui-ai/DeepSeek-R1-Distill-Qwen-14B-abliterated-v2) | Unknown license | text-generation |
+| lmstudio-community/Mistral-Small-24B-Instruct-2501-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/lmstudio-community/Mistral-Small-24B-Instruct-2501-GGUF) | apache-2.0 | text-generation |
