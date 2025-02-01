@@ -180,8 +180,8 @@ Updated on 2025-02-01
 | strangerzonehf/Qd-Sketch | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/strangerzonehf/Qd-Sketch) | other | text-to-image |
 | onnx-community/DeepSeek-R1-Distill-Qwen-1.5B-ONNX | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/onnx-community/DeepSeek-R1-Distill-Qwen-1.5B-ONNX) | Unknown license | text-generation |
 | huihui-ai/DeepSeek-R1-Distill-Qwen-32B-abliterated | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/huihui-ai/DeepSeek-R1-Distill-Qwen-32B-abliterated) | Unknown license | text-generation |
-| deepseek-ai/Janus-Pro-7B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-7B) | mit | any-to-any |
-| deepseek-ai/Janus-Pro-1B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-1B) | mit | any-to-any |
+| deepseek-ai/Janus-Pro-7B | None | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-7B) | mit | any-to-any |
+| deepseek-ai/Janus-Pro-1B | None | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-1B) | mit | any-to-any |
 | Qwen/Qwen2.5-VL-7B-Instruct | http://arxiv.org/abs/2405.18009v2 | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct) | apache-2.0 | image-text-to-text |
 | Qwen/Qwen2.5-VL-72B-Instruct | http://arxiv.org/abs/2405.18009v2 | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-72B-Instruct) | other | image-text-to-text |
 | Qwen/Qwen2.5-VL-3B-Instruct | http://arxiv.org/abs/2405.18009v2 | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct) | Unknown license | image-text-to-text |
@@ -222,3 +222,4 @@ Updated on 2025-02-01
 | deepseek-ai/deepseek-llm-7b-base | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/deepseek-ai/deepseek-llm-7b-base) | other | text-generation |
 | huihui-ai/DeepSeek-R1-Distill-Qwen-14B-abliterated-v2 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/huihui-ai/DeepSeek-R1-Distill-Qwen-14B-abliterated-v2) | Unknown license | text-generation |
 | lmstudio-community/Mistral-Small-24B-Instruct-2501-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/lmstudio-community/Mistral-Small-24B-Instruct-2501-GGUF) | apache-2.0 | text-generation |
+| bartowski/DeepSeek-R1-Distill-Qwen-32B-abliterated-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-abliterated-GGUF) | Unknown license | text-generation |
