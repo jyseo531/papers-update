@@ -224,3 +224,6 @@ Updated on 2025-02-02
 | lmstudio-community/Mistral-Small-24B-Instruct-2501-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/lmstudio-community/Mistral-Small-24B-Instruct-2501-GGUF) | apache-2.0 | text-generation |
 | bartowski/DeepSeek-R1-Distill-Qwen-32B-abliterated-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-abliterated-GGUF) | Unknown license | text-generation |
 | mradermacher/DeepSeek-R1-Distill-Qwen-14B-Uncensored-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/mradermacher/DeepSeek-R1-Distill-Qwen-14B-Uncensored-GGUF) | mit | None |
+| lllyasviel/ic-light | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/lllyasviel/ic-light) | Unknown license | None |
+| ali-vilab/ACE_Plus | None | [Link](https://huggingface.co/ali-vilab/ACE_Plus) | mit | None |
+| meta-llama/Meta-Llama-3-8B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) | llama3 | text-generation |
