@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-02-01
+Updated on 2025-02-02
 
 > Generated from the Hugging Face database.
 
@@ -197,7 +197,7 @@ Updated on 2025-02-01
 | onnx-community/Janus-Pro-1B-ONNX | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/onnx-community/Janus-Pro-1B-ONNX) | mit | any-to-any |
 | nvidia/Eagle2-9B | None | [Link](https://huggingface.co/nvidia/Eagle2-9B) | cc-by-nc-4.0 | image-text-to-text |
 | DAMO-NLP-SG/VideoLLaMA3-7B | None | [Link](https://huggingface.co/DAMO-NLP-SG/VideoLLaMA3-7B) | apache-2.0 | visual-question-answering |
-| m-a-p/YuE-s1-7B-anneal-en-icl | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/m-a-p/YuE-s1-7B-anneal-en-icl) | cc-by-nc-4.0 | text-generation |
+| m-a-p/YuE-s1-7B-anneal-en-icl | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/m-a-p/YuE-s1-7B-anneal-en-icl) | apache-2.0 | text-generation |
 | bluepen5805/DeepSeek-R1-Distill-Qwen-14B-Japanese-gguf | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bluepen5805/DeepSeek-R1-Distill-Qwen-14B-Japanese-gguf) | mit | text-generation |
 | m-a-p/YuE-s2-1B-general | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/m-a-p/YuE-s2-1B-general) | apache-2.0 | text-generation |
 | bartowski/deepseek-r1-qwen-2.5-32B-ablated-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/deepseek-r1-qwen-2.5-32B-ablated-GGUF) | mit | text-generation |
@@ -223,3 +223,4 @@ Updated on 2025-02-01
 | huihui-ai/DeepSeek-R1-Distill-Qwen-14B-abliterated-v2 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/huihui-ai/DeepSeek-R1-Distill-Qwen-14B-abliterated-v2) | Unknown license | text-generation |
 | lmstudio-community/Mistral-Small-24B-Instruct-2501-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/lmstudio-community/Mistral-Small-24B-Instruct-2501-GGUF) | apache-2.0 | text-generation |
 | bartowski/DeepSeek-R1-Distill-Qwen-32B-abliterated-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-abliterated-GGUF) | Unknown license | text-generation |
+| mradermacher/DeepSeek-R1-Distill-Qwen-14B-Uncensored-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/mradermacher/DeepSeek-R1-Distill-Qwen-14B-Uncensored-GGUF) | mit | None |
