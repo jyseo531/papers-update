@@ -135,7 +135,7 @@ Updated on 2025-02-02
 | bytedance-research/UI-TARS-7B-SFT | http://arxiv.org/abs/2501.04575v1 | [Link](https://huggingface.co/bytedance-research/UI-TARS-7B-SFT) | apache-2.0 | image-text-to-text |
 | unsloth/DeepSeek-R1 | None | [Link](https://huggingface.co/unsloth/DeepSeek-R1) | mit | text-generation |
 | bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF) | Unknown license | text-generation |
-| HKUSTAudio/Llasa-3B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/HKUSTAudio/Llasa-3B) | cc-by-nc-nd-4.0 | text-to-speech |
+| HKUSTAudio/Llasa-3B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/HKUSTAudio/Llasa-3B) | cc-by-nc-4.0 | text-to-speech |
 | Alibaba-NLP/gte-modernbert-base | http://arxiv.org/abs/2308.03281v1 | [Link](https://huggingface.co/Alibaba-NLP/gte-modernbert-base) | apache-2.0 | sentence-similarity |
 | bytedance-research/UI-TARS-72B-DPO | http://arxiv.org/abs/2501.04575v1 | [Link](https://huggingface.co/bytedance-research/UI-TARS-72B-DPO) | apache-2.0 | image-text-to-text |
 | Alibaba-NLP/gte-reranker-modernbert-base | http://arxiv.org/abs/2308.03281v1 | [Link](https://huggingface.co/Alibaba-NLP/gte-reranker-modernbert-base) | apache-2.0 | sentence-similarity |
