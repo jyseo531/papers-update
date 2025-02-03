@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-02-02
+Updated on 2025-02-03
 
 > Generated from the Hugging Face database.
 
@@ -227,3 +227,6 @@ Updated on 2025-02-02
 | lllyasviel/ic-light | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/lllyasviel/ic-light) | Unknown license | None |
 | ali-vilab/ACE_Plus | None | [Link](https://huggingface.co/ali-vilab/ACE_Plus) | mit | None |
 | meta-llama/Meta-Llama-3-8B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) | llama3 | text-generation |
+| HKUSTAudio/Llasa-8B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/HKUSTAudio/Llasa-8B) | cc-by-nc-4.0 | text-to-speech |
+| DavidAU/Llama-3.2-8X3B-MOE-Dark-Champion-Instruct-uncensored-abliterated-18.4B-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/DavidAU/Llama-3.2-8X3B-MOE-Dark-Champion-Instruct-uncensored-abliterated-18.4B-GGUF) | apache-2.0 | text-generation |
+| mmnga/cyberagent-DeepSeek-R1-Distill-Qwen-32B-Japanese-gguf | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/mmnga/cyberagent-DeepSeek-R1-Distill-Qwen-32B-Japanese-gguf) | mit | None |
