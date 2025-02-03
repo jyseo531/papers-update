@@ -1,4 +1,4 @@
-## Updated on 2025.02.02
+## Updated on 2025.02.03
 
 > Welcome to contribute! Add your topics and keywords in `topic.yml`
 
@@ -473,9 +473,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-28**|**Consistency Diffusion Models for Single-Image 3D Reconstruction with Priors**|Chenru Jiang et.al.|[2501.16737v1](http://arxiv.org/abs/2501.16737v1)|null|
+|**2025-01-28**|**Consistency Diffusion Models for Single-Image 3D Reconstruction with Priors**|Chenru Jiang et.al.|[2501.16737v2](http://arxiv.org/abs/2501.16737v2)|null|
 |**2025-01-27**|**3D Reconstruction of non-visible surfaces of objects from a Single Depth View -- Comparative Study**|Rafał Staszak et.al.|[2501.16101v1](http://arxiv.org/abs/2501.16101v1)|null|
-|**2025-01-26**|**Dfilled: Repurposing Edge-Enhancing Diffusion for Guided DSM Void Filling**|Daniel Panangian et.al.|[2501.15440v1](http://arxiv.org/abs/2501.15440v1)|null|
+|**2025-01-26**|**Dfilled: Repurposing Edge-Enhancing Diffusion for Guided DSM Void Filling**|Daniel Panangian et.al.|[2501.15440v2](http://arxiv.org/abs/2501.15440v2)|null|
 |**2025-01-26**|**Acquiring Submillimeter-Accurate Multi-Task Vision Datasets for Computer-Assisted Orthopedic Surgery**|Emma Most et.al.|[2501.15371v2](http://arxiv.org/abs/2501.15371v2)|**[link](https://github.com/emmamost26/CamSceneRegistration)**|
 |**2025-01-24**|**Light3R-SfM: Towards Feed-forward Structure-from-Motion**|Sven Elflein et.al.|[2501.14914v1](http://arxiv.org/abs/2501.14914v1)|null|
 |**2025-01-24**|**Glissando-Net: Deep sinGLe vIew category level poSe eStimation ANd 3D recOnstruction**|Bo Sun et.al.|[2501.14896v1](http://arxiv.org/abs/2501.14896v1)|null|
@@ -813,9 +813,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-28**|**Consistency Diffusion Models for Single-Image 3D Reconstruction with Priors**|Chenru Jiang et.al.|[2501.16737v1](http://arxiv.org/abs/2501.16737v1)|null|
+|**2025-01-28**|**Consistency Diffusion Models for Single-Image 3D Reconstruction with Priors**|Chenru Jiang et.al.|[2501.16737v2](http://arxiv.org/abs/2501.16737v2)|null|
 |**2025-01-27**|**3D Reconstruction of non-visible surfaces of objects from a Single Depth View -- Comparative Study**|Rafał Staszak et.al.|[2501.16101v1](http://arxiv.org/abs/2501.16101v1)|null|
-|**2025-01-26**|**Dfilled: Repurposing Edge-Enhancing Diffusion for Guided DSM Void Filling**|Daniel Panangian et.al.|[2501.15440v1](http://arxiv.org/abs/2501.15440v1)|null|
+|**2025-01-26**|**Dfilled: Repurposing Edge-Enhancing Diffusion for Guided DSM Void Filling**|Daniel Panangian et.al.|[2501.15440v2](http://arxiv.org/abs/2501.15440v2)|null|
 |**2025-01-26**|**Acquiring Submillimeter-Accurate Multi-Task Vision Datasets for Computer-Assisted Orthopedic Surgery**|Emma Most et.al.|[2501.15371v2](http://arxiv.org/abs/2501.15371v2)|**[link](https://github.com/emmamost26/CamSceneRegistration)**|
 |**2025-01-24**|**Light3R-SfM: Towards Feed-forward Structure-from-Motion**|Sven Elflein et.al.|[2501.14914v1](http://arxiv.org/abs/2501.14914v1)|null|
 |**2025-01-24**|**Glissando-Net: Deep sinGLe vIew category level poSe eStimation ANd 3D recOnstruction**|Bo Sun et.al.|[2501.14896v1](http://arxiv.org/abs/2501.14896v1)|null|
@@ -1217,7 +1217,7 @@
 |**2025-01-29**|**Trustworthy image-to-image translation: evaluating uncertainty calibration in unpaired training scenarios**|Ciaran Bench et.al.|[2501.17570v1](http://arxiv.org/abs/2501.17570v1)|null|
 |**2025-01-28**|**CoRe-Net: Co-Operational Regressor Network with Progressive Transfer Learning for Blind Radar Signal Restoration**|Muhammad Uzair Zahid et.al.|[2501.17125v1](http://arxiv.org/abs/2501.17125v1)|null|
 |**2025-01-28**|**MAUCell: An Adaptive Multi-Attention Framework for Video Frame Prediction**|Shreyam Gupta et.al.|[2501.16997v1](http://arxiv.org/abs/2501.16997v1)|null|
-|**2025-01-28**|**Whispers of Sound-Enhancing Information Extraction from Depression Patients' Unstructured Data through Audio and Text Emotion Recognition and Llama Fine-tuning**|Lindy Gan et.al.|[2501.16813v1](http://arxiv.org/abs/2501.16813v1)|null|
+|**2025-01-28**|**Multimodal Magic Elevating Depression Detection with a Fusion of Text and Audio Intelligence**|Lindy Gan et.al.|[2501.16813v2](http://arxiv.org/abs/2501.16813v2)|null|
 |**2025-01-28**|**Theoretical study of the impact of carrier density screening on Urbach tail energies and optical polarization in (Al,Ga)N quantum well systems**|Robert Finn et.al.|[2501.16808v1](http://arxiv.org/abs/2501.16808v1)|null|
 |**2025-01-27**|**Towards Robust Stability Prediction in Smart Grids: GAN-based Approach under Data Constraints and Adversarial Challenges**|Emad Efatinasab et.al.|[2501.16490v1](http://arxiv.org/abs/2501.16490v1)|null|
 |**2025-01-27**|**Quantum oscillations of holes in GaN**|Chuan F. C. Chang et.al.|[2501.16213v1](http://arxiv.org/abs/2501.16213v1)|null|
@@ -2484,7 +2484,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-01-30**|**Tuning Vision Foundation Model via Test-Time Prompt-Guided Training for VFSS Segmentations**|Chengxi Zeng et.al.|[2501.18474v1](http://arxiv.org/abs/2501.18474v1)|null|
-|**2025-01-30**|**Task-based Regularization in Penalized Least-Squares for Binary Signal Detection Tasks in Medical Image Denoising**|Wentao Chen et.al.|[2501.18418v1](http://arxiv.org/abs/2501.18418v1)|null|
+|**2025-01-30**|**Task-based Regularization in Penalized Least-Squares for Binary Signal Detection Tasks in Medical Image Denoising**|Wentao Chen et.al.|[2501.18418v2](http://arxiv.org/abs/2501.18418v2)|null|
 |**2025-01-30**|**Finite element discretization of nonlinear models of ultrasound heating**|Julio Careaga et.al.|[2501.18307v1](http://arxiv.org/abs/2501.18307v1)|**[link](https://github.com/juliocareaga/wave-heat)**|
 |**2025-01-30**|**Continually Evolved Multimodal Foundation Models for Cancer Prognosis**|Jie Peng et.al.|[2501.18170v1](http://arxiv.org/abs/2501.18170v1)|null|
 |**2025-01-30**|**Scattering approach to diffusion quantifies axonal damage in brain injury**|Ali Abdollahzadeh et.al.|[2501.18167v1](http://arxiv.org/abs/2501.18167v1)|**[link](https://github.com/aAbdz/DeepACSON)**|
