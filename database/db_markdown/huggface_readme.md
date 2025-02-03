@@ -230,3 +230,6 @@ Updated on 2025-02-03
 | HKUSTAudio/Llasa-8B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/HKUSTAudio/Llasa-8B) | cc-by-nc-4.0 | text-to-speech |
 | DavidAU/Llama-3.2-8X3B-MOE-Dark-Champion-Instruct-uncensored-abliterated-18.4B-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/DavidAU/Llama-3.2-8X3B-MOE-Dark-Champion-Instruct-uncensored-abliterated-18.4B-GGUF) | apache-2.0 | text-generation |
 | mmnga/cyberagent-DeepSeek-R1-Distill-Qwen-32B-Japanese-gguf | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/mmnga/cyberagent-DeepSeek-R1-Distill-Qwen-32B-Japanese-gguf) | mit | None |
+| black-forest-labs/FLUX.1-dev-onnx | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/black-forest-labs/FLUX.1-dev-onnx) | other | text-to-image |
+| mradermacher/DeepSeek-R1-Distill-Qwen-32B-Uncensored-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/mradermacher/DeepSeek-R1-Distill-Qwen-32B-Uncensored-GGUF) | mit | None |
+| arcee-ai/Virtuoso-Small-v2 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/arcee-ai/Virtuoso-Small-v2) | apache-2.0 | text-generation |
