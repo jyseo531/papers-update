@@ -59,84 +59,84 @@ Updated on 2025-02-04
 | Efficient-Large-Model/Sana_1600M_1024px | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion
   Transformers | [Link](https://huggingface.co/Efficient-Large-Model/Sana_1600M_1024px) | Unknown license | text-to-image |
 | openfree/korea-president-yoon | NULL | [Link](https://huggingface.co/openfree/korea-president-yoon) | other | text-to-image |
-| deepseek-ai/DeepSeek-R1 | None | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) | mit | text-generation |
-| deepseek-ai/Janus-Pro-7B | None | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-7B) | mit | any-to-any |
-| mistralai/Mistral-Small-24B-Instruct-2501 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501) | apache-2.0 | text-generation |
-| unsloth/DeepSeek-R1-GGUF | None | [Link](https://huggingface.co/unsloth/DeepSeek-R1-GGUF) | mit | text-generation |
-| m-a-p/YuE-s1-7B-anneal-en-cot | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/m-a-p/YuE-s1-7B-anneal-en-cot) | apache-2.0 | text-generation |
-| tencent/Hunyuan3D-2 | None | [Link](https://huggingface.co/tencent/Hunyuan3D-2) | other | image-to-3d |
-| deepseek-ai/DeepSeek-R1-Distill-Qwen-32B | None | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B) | mit | text-generation |
-| Qwen/Qwen2.5-VL-7B-Instruct | http://arxiv.org/abs/2405.18009v2 | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct) | apache-2.0 | image-text-to-text |
-| mistralai/Mistral-Small-24B-Base-2501 | http://arxiv.org/abs/2009.03300v3 | [Link](https://huggingface.co/mistralai/Mistral-Small-24B-Base-2501) | apache-2.0 | text-generation |
-| deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B | None | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) | mit | text-generation |
-| deepseek-ai/Janus-Pro-1B | None | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-1B) | mit | any-to-any |
-| deepseek-ai/DeepSeek-R1-Zero | None | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Zero) | mit | text-generation |
-| deepseek-ai/DeepSeek-R1-Distill-Llama-8B | None | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-8B) | mit | text-generation |
-| deepseek-ai/DeepSeek-R1-Distill-Llama-70B | None | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-70B) | mit | text-generation |
-| Qwen/Qwen2.5-VL-72B-Instruct | http://arxiv.org/abs/2405.18009v2 | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-72B-Instruct) | other | image-text-to-text |
-| cagliostrolab/animagine-xl-4.0 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/cagliostrolab/animagine-xl-4.0) | openrail++ | text-to-image |
-| Alpha-VLLM/Lumina-Image-2.0 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0) | Unknown license | text-to-image |
-| cyberagent/DeepSeek-R1-Distill-Qwen-32B-Japanese | None | [Link](https://huggingface.co/cyberagent/DeepSeek-R1-Distill-Qwen-32B-Japanese) | mit | text-generation |
-| Almawave/Velvet-14B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Almawave/Velvet-14B) | apache-2.0 | text-generation |
-| deepseek-ai/DeepSeek-R1-Distill-Qwen-7B | None | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B) | mit | text-generation |
-| Qwen/Qwen2.5-VL-3B-Instruct | http://arxiv.org/abs/2405.18009v2 | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct) | Unknown license | image-text-to-text |
-| Qwen/Qwen2.5-14B-Instruct-1M | http://arxiv.org/abs/2501.15383v1 | [Link](https://huggingface.co/Qwen/Qwen2.5-14B-Instruct-1M) | apache-2.0 | text-generation |
-| deepseek-ai/DeepSeek-R1-Distill-Qwen-14B | None | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B) | mit | text-generation |
-| allenai/Llama-3.1-Tulu-3-405B | http://arxiv.org/abs/2411.15124v3 | [Link](https://huggingface.co/allenai/Llama-3.1-Tulu-3-405B) | llama3.1 | text-generation |
-| PramaLLC/BEN2 | http://arxiv.org/abs/2501.06230v1 | [Link](https://huggingface.co/PramaLLC/BEN2) | mit | image-segmentation |
-| HKUSTAudio/Llasa-3B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/HKUSTAudio/Llasa-3B) | cc-by-nc-4.0 | text-to-speech |
-| unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF | None | [Link](https://huggingface.co/unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF) | llama3.1 | None |
-| bartowski/Mistral-Small-24B-Instruct-2501-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/Mistral-Small-24B-Instruct-2501-GGUF) | apache-2.0 | text-generation |
-| Qwen/Qwen2.5-7B-Instruct-1M | http://arxiv.org/abs/2501.15383v1 | [Link](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct-1M) | apache-2.0 | text-generation |
-| unsloth/DeepSeek-R1-Distill-Llama-8B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/unsloth/DeepSeek-R1-Distill-Llama-8B) | llama3.1 | text-generation |
-| bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF) | Unknown license | text-generation |
-| AtlaAI/Selene-1-Mini-Llama-3.1-8B | http://arxiv.org/abs/2501.17195v1 | [Link](https://huggingface.co/AtlaAI/Selene-1-Mini-Llama-3.1-8B) | apache-2.0 | text-generation |
-| bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF) | Unknown license | text-generation |
-| open-thoughts/OpenThinker-7B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/open-thoughts/OpenThinker-7B) | apache-2.0 | text-generation |
-| meta-llama/Llama-3.1-8B | None | [Link](https://huggingface.co/meta-llama/Llama-3.1-8B) | llama3.1 | text-generation |
-| HuggingFaceTB/SmolVLM-256M-Instruct | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-256M-Instruct) | apache-2.0 | image-text-to-text |
-| cyberagent/DeepSeek-R1-Distill-Qwen-14B-Japanese | None | [Link](https://huggingface.co/cyberagent/DeepSeek-R1-Distill-Qwen-14B-Japanese) | mit | text-generation |
-| huihui-ai/DeepSeek-R1-Distill-Qwen-32B-abliterated | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/huihui-ai/DeepSeek-R1-Distill-Qwen-32B-abliterated) | Unknown license | text-generation |
-| weberding/iclight-v2 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/weberding/iclight-v2) | Unknown license | None |
-| arcee-ai/Virtuoso-Medium-v2 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/arcee-ai/Virtuoso-Medium-v2) | apache-2.0 | text-generation |
-| stepfun-ai/GOT-OCR-2.0-hf | http://arxiv.org/abs/2409.01704v1 | [Link](https://huggingface.co/stepfun-ai/GOT-OCR-2.0-hf) | apache-2.0 | image-text-to-text |
-| mmnga/cyberagent-DeepSeek-R1-Distill-Qwen-14B-Japanese-gguf | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/mmnga/cyberagent-DeepSeek-R1-Distill-Qwen-14B-Japanese-gguf) | mit | None |
-| ali-vilab/ACE_Plus | None | [Link](https://huggingface.co/ali-vilab/ACE_Plus) | mit | None |
-| onnx-community/Janus-Pro-1B-ONNX | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/onnx-community/Janus-Pro-1B-ONNX) | mit | any-to-any |
-| stabilityai/stable-diffusion-xl-base-1.0 | None | [Link](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) | openrail++ | text-to-image |
-| bytedance-research/UI-TARS-7B-DPO | http://arxiv.org/abs/2501.04575v1 | [Link](https://huggingface.co/bytedance-research/UI-TARS-7B-DPO) | apache-2.0 | image-text-to-text |
-| bartowski/deepseek-r1-qwen-2.5-32B-ablated-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/deepseek-r1-qwen-2.5-32B-ablated-GGUF) | mit | text-generation |
-| lmstudio-community/Mistral-Small-24B-Instruct-2501-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/lmstudio-community/Mistral-Small-24B-Instruct-2501-GGUF) | apache-2.0 | text-generation |
-| Steelskull/L3.3-Nevoria-R1-70b | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Steelskull/L3.3-Nevoria-R1-70b) | other | text-generation |
-| m-a-p/YuE-s2-1B-general | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/m-a-p/YuE-s2-1B-general) | apache-2.0 | text-generation |
-| deepseek-ai/Janus-1.3B | None | [Link](https://huggingface.co/deepseek-ai/Janus-1.3B) | mit | any-to-any |
-| HKUSTAudio/Llasa-8B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/HKUSTAudio/Llasa-8B) | cc-by-nc-4.0 | text-to-speech |
-| mradermacher/DeepSeek-R1-Distill-Qwen-14B-Uncensored-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/mradermacher/DeepSeek-R1-Distill-Qwen-14B-Uncensored-GGUF) | mit | None |
-| lllyasviel/ic-light | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/lllyasviel/ic-light) | Unknown license | None |
-| deepseek-ai/deepseek-llm-7b-base | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/deepseek-ai/deepseek-llm-7b-base) | other | text-generation |
-| meta-llama/Llama-3.2-11B-Vision-Instruct | None | [Link](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) | llama3.2 | image-text-to-text |
-| unsloth/DeepSeek-R1-Distill-Qwen-32B-GGUF | None | [Link](https://huggingface.co/unsloth/DeepSeek-R1-Distill-Qwen-32B-GGUF) | apache-2.0 | None |
-| fofr/sdxl-emoji | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/fofr/sdxl-emoji) | creativeml-openrail-m | text-to-image |
-| black-forest-labs/FLUX.1-dev-onnx | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/black-forest-labs/FLUX.1-dev-onnx) | other | text-to-image |
-| huihui-ai/DeepSeek-R1-Distill-Qwen-14B-abliterated-v2 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/huihui-ai/DeepSeek-R1-Distill-Qwen-14B-abliterated-v2) | Unknown license | text-generation |
-| arcee-ai/Virtuoso-Lite | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/arcee-ai/Virtuoso-Lite) | other | text-generation |
-| deepseek-ai/DeepSeek-Coder-V2-Instruct | None | [Link](https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Instruct) | other | text-generation |
-| deepseek-ai/JanusFlow-1.3B | None | [Link](https://huggingface.co/deepseek-ai/JanusFlow-1.3B) | mit | any-to-any |
-| DavidAU/Llama-3.2-8X3B-MOE-Dark-Champion-Instruct-uncensored-abliterated-18.4B-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/DavidAU/Llama-3.2-8X3B-MOE-Dark-Champion-Instruct-uncensored-abliterated-18.4B-GGUF) | apache-2.0 | text-generation |
-| mmnga/cyberagent-DeepSeek-R1-Distill-Qwen-32B-Japanese-gguf | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/mmnga/cyberagent-DeepSeek-R1-Distill-Qwen-32B-Japanese-gguf) | mit | None |
-| openai-community/gpt2 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/openai-community/gpt2) | mit | text-generation |
-| openai/whisper-large-v3 | http://arxiv.org/abs/2212.04356v1 | [Link](https://huggingface.co/openai/whisper-large-v3) | apache-2.0 | automatic-speech-recognition |
-| SakanaAI/TinySwallow-1.5B-Instruct | None | [Link](https://huggingface.co/SakanaAI/TinySwallow-1.5B-Instruct) | apache-2.0 | text-generation |
-| bartowski/DeepSeek-R1-Distill-Qwen-32B-abliterated-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-abliterated-GGUF) | Unknown license | text-generation |
-| m-a-p/YuE-s1-7B-anneal-en-icl | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/m-a-p/YuE-s1-7B-anneal-en-icl) | apache-2.0 | text-generation |
-| arcee-ai/Virtuoso-Small-v2 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/arcee-ai/Virtuoso-Small-v2) | apache-2.0 | text-generation |
-| meta-llama/Llama-3.2-3B-Instruct | None | [Link](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct) | llama3.2 | text-generation |
-| Lightricks/LTX-Video | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Lightricks/LTX-Video) | other | image-to-video |
-| nvidia/Eagle2-9B | None | [Link](https://huggingface.co/nvidia/Eagle2-9B) | cc-by-nc-4.0 | image-text-to-text |
-| bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF) | Unknown license | text-generation |
-| m-a-p/YuE-s1-7B-anneal-zh-cot | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/m-a-p/YuE-s1-7B-anneal-zh-cot) | apache-2.0 | text-generation |
-| DavidAU/AI_Autocorrect__Auto-Creative-Enhancement__Auto-Low-Quant-Optimization__gguf-exl2-hqq-SOFTWARE | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/DavidAU/AI_Autocorrect__Auto-Creative-Enhancement__Auto-Low-Quant-Optimization__gguf-exl2-hqq-SOFTWARE) | apache-2.0 | text-generation |
-| deepseek-ai/deepseek-llm-7b-chat | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/deepseek-ai/deepseek-llm-7b-chat) | other | text-generation |
-| google/gemma-2-2b-it | http://arxiv.org/abs/2009.03300v3 | [Link](https://huggingface.co/google/gemma-2-2b-it) | gemma | text-generation |
-| allenai/Llama-3.1-Tulu-3-8B | http://arxiv.org/abs/2411.15124v3 | [Link](https://huggingface.co/allenai/Llama-3.1-Tulu-3-8B) | llama3.1 | text-generation |
-| unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF | None | [Link](https://huggingface.co/unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF) | apache-2.0 | None |
+| deepseek-ai/DeepSeek-R1 | deepseek-ai/DeepSeek-R1 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) | mit | text-generation |
+| deepseek-ai/Janus-Pro-7B | deepseek-ai/Janus-Pro-7B | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-7B) | mit | any-to-any |
+| mistralai/Mistral-Small-24B-Instruct-2501 | mistralai/Mistral-Small-24B-Instruct-2501 | [Link](https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501) | apache-2.0 | text-generation |
+| unsloth/DeepSeek-R1-GGUF | unsloth/DeepSeek-R1-GGUF | [Link](https://huggingface.co/unsloth/DeepSeek-R1-GGUF) | mit | text-generation |
+| m-a-p/YuE-s1-7B-anneal-en-cot | m-a-p/YuE-s1-7B-anneal-en-cot | [Link](https://huggingface.co/m-a-p/YuE-s1-7B-anneal-en-cot) | apache-2.0 | text-generation |
+| tencent/Hunyuan3D-2 | tencent/Hunyuan3D-2 | [Link](https://huggingface.co/tencent/Hunyuan3D-2) | other | image-to-3d |
+| deepseek-ai/DeepSeek-R1-Distill-Qwen-32B | deepseek-ai/DeepSeek-R1-Distill-Qwen-32B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B) | mit | text-generation |
+| Qwen/Qwen2.5-VL-7B-Instruct | Qwen/Qwen2.5-VL-7B-Instruct | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct) | apache-2.0 | image-text-to-text |
+| mistralai/Mistral-Small-24B-Base-2501 | mistralai/Mistral-Small-24B-Base-2501 | [Link](https://huggingface.co/mistralai/Mistral-Small-24B-Base-2501) | apache-2.0 | text-generation |
+| deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B | deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) | mit | text-generation |
+| deepseek-ai/Janus-Pro-1B | deepseek-ai/Janus-Pro-1B | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-1B) | mit | any-to-any |
+| deepseek-ai/DeepSeek-R1-Zero | deepseek-ai/DeepSeek-R1-Zero | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Zero) | mit | text-generation |
+| deepseek-ai/DeepSeek-R1-Distill-Llama-8B | deepseek-ai/DeepSeek-R1-Distill-Llama-8B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-8B) | mit | text-generation |
+| deepseek-ai/DeepSeek-R1-Distill-Llama-70B | deepseek-ai/DeepSeek-R1-Distill-Llama-70B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-70B) | mit | text-generation |
+| Qwen/Qwen2.5-VL-72B-Instruct | Qwen/Qwen2.5-VL-72B-Instruct | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-72B-Instruct) | other | image-text-to-text |
+| cagliostrolab/animagine-xl-4.0 | cagliostrolab/animagine-xl-4.0 | [Link](https://huggingface.co/cagliostrolab/animagine-xl-4.0) | openrail++ | text-to-image |
+| Alpha-VLLM/Lumina-Image-2.0 | Alpha-VLLM/Lumina-Image-2.0 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0) | Unknown license | text-to-image |
+| cyberagent/DeepSeek-R1-Distill-Qwen-32B-Japanese | cyberagent/DeepSeek-R1-Distill-Qwen-32B-Japanese | [Link](https://huggingface.co/cyberagent/DeepSeek-R1-Distill-Qwen-32B-Japanese) | mit | text-generation |
+| Almawave/Velvet-14B | Almawave/Velvet-14B | [Link](https://huggingface.co/Almawave/Velvet-14B) | apache-2.0 | text-generation |
+| deepseek-ai/DeepSeek-R1-Distill-Qwen-7B | deepseek-ai/DeepSeek-R1-Distill-Qwen-7B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B) | mit | text-generation |
+| Qwen/Qwen2.5-VL-3B-Instruct | Qwen/Qwen2.5-VL-3B-Instruct | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct) | Unknown license | image-text-to-text |
+| Qwen/Qwen2.5-14B-Instruct-1M | Qwen/Qwen2.5-14B-Instruct-1M | [Link](https://huggingface.co/Qwen/Qwen2.5-14B-Instruct-1M) | apache-2.0 | text-generation |
+| deepseek-ai/DeepSeek-R1-Distill-Qwen-14B | deepseek-ai/DeepSeek-R1-Distill-Qwen-14B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B) | mit | text-generation |
+| allenai/Llama-3.1-Tulu-3-405B | allenai/Llama-3.1-Tulu-3-405B | [Link](https://huggingface.co/allenai/Llama-3.1-Tulu-3-405B) | llama3.1 | text-generation |
+| PramaLLC/BEN2 | PramaLLC/BEN2 | [Link](https://huggingface.co/PramaLLC/BEN2) | mit | image-segmentation |
+| HKUSTAudio/Llasa-3B | HKUSTAudio/Llasa-3B | [Link](https://huggingface.co/HKUSTAudio/Llasa-3B) | cc-by-nc-4.0 | text-to-speech |
+| unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF | unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF | [Link](https://huggingface.co/unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF) | llama3.1 | None |
+| bartowski/Mistral-Small-24B-Instruct-2501-GGUF | bartowski/Mistral-Small-24B-Instruct-2501-GGUF | [Link](https://huggingface.co/bartowski/Mistral-Small-24B-Instruct-2501-GGUF) | apache-2.0 | text-generation |
+| Qwen/Qwen2.5-7B-Instruct-1M | Qwen/Qwen2.5-7B-Instruct-1M | [Link](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct-1M) | apache-2.0 | text-generation |
+| unsloth/DeepSeek-R1-Distill-Llama-8B | unsloth/DeepSeek-R1-Distill-Llama-8B | [Link](https://huggingface.co/unsloth/DeepSeek-R1-Distill-Llama-8B) | llama3.1 | text-generation |
+| bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF | bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF | [Link](https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF) | Unknown license | text-generation |
+| AtlaAI/Selene-1-Mini-Llama-3.1-8B | AtlaAI/Selene-1-Mini-Llama-3.1-8B | [Link](https://huggingface.co/AtlaAI/Selene-1-Mini-Llama-3.1-8B) | apache-2.0 | text-generation |
+| bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF | bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF | [Link](https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF) | Unknown license | text-generation |
+| open-thoughts/OpenThinker-7B | open-thoughts/OpenThinker-7B | [Link](https://huggingface.co/open-thoughts/OpenThinker-7B) | apache-2.0 | text-generation |
+| meta-llama/Llama-3.1-8B | meta-llama/Llama-3.1-8B | [Link](https://huggingface.co/meta-llama/Llama-3.1-8B) | llama3.1 | text-generation |
+| HuggingFaceTB/SmolVLM-256M-Instruct | HuggingFaceTB/SmolVLM-256M-Instruct | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-256M-Instruct) | apache-2.0 | image-text-to-text |
+| cyberagent/DeepSeek-R1-Distill-Qwen-14B-Japanese | cyberagent/DeepSeek-R1-Distill-Qwen-14B-Japanese | [Link](https://huggingface.co/cyberagent/DeepSeek-R1-Distill-Qwen-14B-Japanese) | mit | text-generation |
+| huihui-ai/DeepSeek-R1-Distill-Qwen-32B-abliterated | huihui-ai/DeepSeek-R1-Distill-Qwen-32B-abliterated | [Link](https://huggingface.co/huihui-ai/DeepSeek-R1-Distill-Qwen-32B-abliterated) | Unknown license | text-generation |
+| weberding/iclight-v2 | weberding/iclight-v2 | [Link](https://huggingface.co/weberding/iclight-v2) | Unknown license | None |
+| arcee-ai/Virtuoso-Medium-v2 | arcee-ai/Virtuoso-Medium-v2 | [Link](https://huggingface.co/arcee-ai/Virtuoso-Medium-v2) | apache-2.0 | text-generation |
+| stepfun-ai/GOT-OCR-2.0-hf | stepfun-ai/GOT-OCR-2.0-hf | [Link](https://huggingface.co/stepfun-ai/GOT-OCR-2.0-hf) | apache-2.0 | image-text-to-text |
+| mmnga/cyberagent-DeepSeek-R1-Distill-Qwen-14B-Japanese-gguf | mmnga/cyberagent-DeepSeek-R1-Distill-Qwen-14B-Japanese-gguf | [Link](https://huggingface.co/mmnga/cyberagent-DeepSeek-R1-Distill-Qwen-14B-Japanese-gguf) | mit | None |
+| ali-vilab/ACE_Plus | ali-vilab/ACE_Plus | [Link](https://huggingface.co/ali-vilab/ACE_Plus) | mit | None |
+| onnx-community/Janus-Pro-1B-ONNX | onnx-community/Janus-Pro-1B-ONNX | [Link](https://huggingface.co/onnx-community/Janus-Pro-1B-ONNX) | mit | any-to-any |
+| stabilityai/stable-diffusion-xl-base-1.0 | stabilityai/stable-diffusion-xl-base-1.0 | [Link](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) | openrail++ | text-to-image |
+| bytedance-research/UI-TARS-7B-DPO | bytedance-research/UI-TARS-7B-DPO | [Link](https://huggingface.co/bytedance-research/UI-TARS-7B-DPO) | apache-2.0 | image-text-to-text |
+| bartowski/deepseek-r1-qwen-2.5-32B-ablated-GGUF | bartowski/deepseek-r1-qwen-2.5-32B-ablated-GGUF | [Link](https://huggingface.co/bartowski/deepseek-r1-qwen-2.5-32B-ablated-GGUF) | mit | text-generation |
+| lmstudio-community/Mistral-Small-24B-Instruct-2501-GGUF | lmstudio-community/Mistral-Small-24B-Instruct-2501-GGUF | [Link](https://huggingface.co/lmstudio-community/Mistral-Small-24B-Instruct-2501-GGUF) | apache-2.0 | text-generation |
+| Steelskull/L3.3-Nevoria-R1-70b | Steelskull/L3.3-Nevoria-R1-70b | [Link](https://huggingface.co/Steelskull/L3.3-Nevoria-R1-70b) | other | text-generation |
+| m-a-p/YuE-s2-1B-general | m-a-p/YuE-s2-1B-general | [Link](https://huggingface.co/m-a-p/YuE-s2-1B-general) | apache-2.0 | text-generation |
+| deepseek-ai/Janus-1.3B | deepseek-ai/Janus-1.3B | [Link](https://huggingface.co/deepseek-ai/Janus-1.3B) | mit | any-to-any |
+| HKUSTAudio/Llasa-8B | HKUSTAudio/Llasa-8B | [Link](https://huggingface.co/HKUSTAudio/Llasa-8B) | cc-by-nc-4.0 | text-to-speech |
+| mradermacher/DeepSeek-R1-Distill-Qwen-14B-Uncensored-GGUF | mradermacher/DeepSeek-R1-Distill-Qwen-14B-Uncensored-GGUF | [Link](https://huggingface.co/mradermacher/DeepSeek-R1-Distill-Qwen-14B-Uncensored-GGUF) | mit | None |
+| lllyasviel/ic-light | lllyasviel/ic-light | [Link](https://huggingface.co/lllyasviel/ic-light) | Unknown license | None |
+| deepseek-ai/deepseek-llm-7b-base | deepseek-ai/deepseek-llm-7b-base | [Link](https://huggingface.co/deepseek-ai/deepseek-llm-7b-base) | other | text-generation |
+| meta-llama/Llama-3.2-11B-Vision-Instruct | meta-llama/Llama-3.2-11B-Vision-Instruct | [Link](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) | llama3.2 | image-text-to-text |
+| unsloth/DeepSeek-R1-Distill-Qwen-32B-GGUF | unsloth/DeepSeek-R1-Distill-Qwen-32B-GGUF | [Link](https://huggingface.co/unsloth/DeepSeek-R1-Distill-Qwen-32B-GGUF) | apache-2.0 | None |
+| fofr/sdxl-emoji | fofr/sdxl-emoji | [Link](https://huggingface.co/fofr/sdxl-emoji) | creativeml-openrail-m | text-to-image |
+| black-forest-labs/FLUX.1-dev-onnx | black-forest-labs/FLUX.1-dev-onnx | [Link](https://huggingface.co/black-forest-labs/FLUX.1-dev-onnx) | other | text-to-image |
+| huihui-ai/DeepSeek-R1-Distill-Qwen-14B-abliterated-v2 | huihui-ai/DeepSeek-R1-Distill-Qwen-14B-abliterated-v2 | [Link](https://huggingface.co/huihui-ai/DeepSeek-R1-Distill-Qwen-14B-abliterated-v2) | Unknown license | text-generation |
+| arcee-ai/Virtuoso-Lite | arcee-ai/Virtuoso-Lite | [Link](https://huggingface.co/arcee-ai/Virtuoso-Lite) | other | text-generation |
+| deepseek-ai/DeepSeek-Coder-V2-Instruct | deepseek-ai/DeepSeek-Coder-V2-Instruct | [Link](https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Instruct) | other | text-generation |
+| deepseek-ai/JanusFlow-1.3B | deepseek-ai/JanusFlow-1.3B | [Link](https://huggingface.co/deepseek-ai/JanusFlow-1.3B) | mit | any-to-any |
+| DavidAU/Llama-3.2-8X3B-MOE-Dark-Champion-Instruct-uncensored-abliterated-18.4B-GGUF | DavidAU/Llama-3.2-8X3B-MOE-Dark-Champion-Instruct-uncensored-abliterated-18.4B-GGUF | [Link](https://huggingface.co/DavidAU/Llama-3.2-8X3B-MOE-Dark-Champion-Instruct-uncensored-abliterated-18.4B-GGUF) | apache-2.0 | text-generation |
+| mmnga/cyberagent-DeepSeek-R1-Distill-Qwen-32B-Japanese-gguf | mmnga/cyberagent-DeepSeek-R1-Distill-Qwen-32B-Japanese-gguf | [Link](https://huggingface.co/mmnga/cyberagent-DeepSeek-R1-Distill-Qwen-32B-Japanese-gguf) | mit | None |
+| openai-community/gpt2 | openai-community/gpt2 | [Link](https://huggingface.co/openai-community/gpt2) | mit | text-generation |
+| openai/whisper-large-v3 | openai/whisper-large-v3 | [Link](https://huggingface.co/openai/whisper-large-v3) | apache-2.0 | automatic-speech-recognition |
+| SakanaAI/TinySwallow-1.5B-Instruct | SakanaAI/TinySwallow-1.5B-Instruct | [Link](https://huggingface.co/SakanaAI/TinySwallow-1.5B-Instruct) | apache-2.0 | text-generation |
+| bartowski/DeepSeek-R1-Distill-Qwen-32B-abliterated-GGUF | bartowski/DeepSeek-R1-Distill-Qwen-32B-abliterated-GGUF | [Link](https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-abliterated-GGUF) | Unknown license | text-generation |
+| m-a-p/YuE-s1-7B-anneal-en-icl | m-a-p/YuE-s1-7B-anneal-en-icl | [Link](https://huggingface.co/m-a-p/YuE-s1-7B-anneal-en-icl) | apache-2.0 | text-generation |
+| arcee-ai/Virtuoso-Small-v2 | arcee-ai/Virtuoso-Small-v2 | [Link](https://huggingface.co/arcee-ai/Virtuoso-Small-v2) | apache-2.0 | text-generation |
+| meta-llama/Llama-3.2-3B-Instruct | meta-llama/Llama-3.2-3B-Instruct | [Link](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct) | llama3.2 | text-generation |
+| Lightricks/LTX-Video | Lightricks/LTX-Video | [Link](https://huggingface.co/Lightricks/LTX-Video) | other | image-to-video |
+| nvidia/Eagle2-9B | nvidia/Eagle2-9B | [Link](https://huggingface.co/nvidia/Eagle2-9B) | cc-by-nc-4.0 | image-text-to-text |
+| bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF | bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF | [Link](https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF) | Unknown license | text-generation |
+| m-a-p/YuE-s1-7B-anneal-zh-cot | m-a-p/YuE-s1-7B-anneal-zh-cot | [Link](https://huggingface.co/m-a-p/YuE-s1-7B-anneal-zh-cot) | apache-2.0 | text-generation |
+| DavidAU/AI_Autocorrect__Auto-Creative-Enhancement__Auto-Low-Quant-Optimization__gguf-exl2-hqq-SOFTWARE | DavidAU/AI_Autocorrect__Auto-Creative-Enhancement__Auto-Low-Quant-Optimization__gguf-exl2-hqq-SOFTWARE | [Link](https://huggingface.co/DavidAU/AI_Autocorrect__Auto-Creative-Enhancement__Auto-Low-Quant-Optimization__gguf-exl2-hqq-SOFTWARE) | apache-2.0 | text-generation |
+| deepseek-ai/deepseek-llm-7b-chat | deepseek-ai/deepseek-llm-7b-chat | [Link](https://huggingface.co/deepseek-ai/deepseek-llm-7b-chat) | other | text-generation |
+| google/gemma-2-2b-it | google/gemma-2-2b-it | [Link](https://huggingface.co/google/gemma-2-2b-it) | gemma | text-generation |
+| allenai/Llama-3.1-Tulu-3-8B | allenai/Llama-3.1-Tulu-3-8B | [Link](https://huggingface.co/allenai/Llama-3.1-Tulu-3-8B) | llama3.1 | text-generation |
+| unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF | unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF | [Link](https://huggingface.co/unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF) | apache-2.0 | None |
