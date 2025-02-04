@@ -150,7 +150,7 @@ class ToolBox:
             logger.info(f"Cloned repository: {repo_url}")
 
             # Remove all files except README.md
-            remove_non_readme_files(repo_dir)
+            ToolBox.remove_non_readme_files(repo_dir)
 
         else:
             # Fetch and reset to ensure latest updates
