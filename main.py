@@ -93,28 +93,67 @@ class ToolBox:
     # Awesome github pages 업데이트 동기화(git-pull) 함수
     # SERVER_PATH_AWESOME = join(SERVER_DIR_DOCS, "Awesome_Pages")
 
+    # def update_readme(repo_url: str, repo_dir: str, target_path: str):
+    #     """
+    #     Clone the repo if not exists, or pull the latest changes, and copy README.md to the target path.
+
+    #     Args:
+    #         repo_url (str): URL of the repository to pull updates from.     ex) https://github.com/Hannibal046/Awesome-LLM.git
+    #         repo_dir (str): Local directory where the repository is cloned. ex) docs/Awesome_Pages/Awesome-LLM
+    #         target_path (str): Path to copy the updated README.md file.     ex) docs/Awesome_Pages/Awesome-LLM_README.md
+    #     """
+    #     if not os.path.exists(repo_dir):
+    #         # Clone the repository if it doesn't exist
+    #         os.system(f"git clone {repo_url} {repo_dir}")           # hand pose estimation 레포만 되고있음
+    #         logger.info(f"Cloned repository: {repo_url}")
+    #     else:
+    #         # Pull the latest changes if repository exists
+    #         try:
+    #             os.system(f"git -C {repo_dir} pull")
+    #             logger.info(f"Pulled latest changes for {repo_dir}")
+    #         except Exception as e:
+    #             logger.error(f"Failed to pull latest changes for {repo_dir}: {e}")
+
+    #     # Copy the README.md file to the target path
+    #     readme_path = os.path.join(repo_dir, "README.md")
+    #     if os.path.exists(readme_path):
+    #         shutil.copyfile(readme_path, target_path)
+    #         logger.info(f"Updated README.md copied to {target_path}")
+    #     else:
+    #         logger.warning(f"README.md not found in {repo_dir}")
+
     def update_readme(repo_url: str, repo_dir: str, target_path: str):
         """
-        Clone the repo if not exists, or pull the latest changes, and copy README.md to the target path.
+        Clone the repository if not exists, or fetch the latest changes,
+        while keeping only README.md and removing other files.
 
         Args:
-            repo_url (str): URL of the repository to pull updates from.     ex) https://github.com/Hannibal046/Awesome-LLM.git
-            repo_dir (str): Local directory where the repository is cloned. ex) docs/Awesome_Pages/Awesome-LLM
-            target_path (str): Path to copy the updated README.md file.     ex) docs/Awesome_Pages/Awesome-LLM_README.md
+            repo_url (str): URL of the repository to pull updates from.
+            repo_dir (str): Local directory where the repository is cloned.
+            target_path (str): Path to copy the updated README.md file.
         """
         if not os.path.exists(repo_dir):
             # Clone the repository if it doesn't exist
-            os.system(f"git clone {repo_url} {repo_dir}")           # hand pose estimation 레포만 되고있음
+            os.system(f"git clone {repo_url} {repo_dir}")
             logger.info(f"Cloned repository: {repo_url}")
-        else:
-            # Pull the latest changes if repository exists
-            try:
-                os.system(f"git -C {repo_dir} pull")
-                logger.info(f"Pulled latest changes for {repo_dir}")
-            except Exception as e:
-                logger.error(f"Failed to pull latest changes for {repo_dir}: {e}")
 
-        # Copy the README.md file to the target path
+            # Remove all files except README.md
+            remove_non_readme_files(repo_dir)
+
+        else:
+            # Fetch and reset to ensure latest updates
+            try:
+                os.system(f"git -C {repo_dir} fetch")
+                os.system(f"git -C {repo_dir} reset --hard origin/main")
+                logger.info(f"Updated repository {repo_dir} to latest main branch")
+
+                # Remove all files except README.md after update
+                remove_non_readme_files(repo_dir)
+            except Exception as e:
+                logger.error(f"Failed to update repository {repo_dir}: {e}")
+                return
+
+        # Copy the latest README.md file to the target path
         readme_path = os.path.join(repo_dir, "README.md")
         if os.path.exists(readme_path):
             shutil.copyfile(readme_path, target_path)
@@ -122,36 +161,17 @@ class ToolBox:
         else:
             logger.warning(f"README.md not found in {repo_dir}")
 
-    # def update_readme(repo_url: str, repo_dir: str, target_path: str):
-    #     """
-    #     Ensure the local repository is up-to-date and copy the latest README.md to the target path.
-        
-    #     Args:
-    #         repo_url (str): URL of the repository to pull updates from.
-    #         repo_dir (str): Local directory where the repository is cloned.
-    #         target_path (str): Path to copy the updated README.md file.
-    #     """
-    #     if not os.path.exists(repo_dir):
-    #         # Clone the repository if it doesn't exist
-    #         os.system(f"git clone {repo_url} {repo_dir}")
-    #         logger.info(f"Cloned repository: {repo_url}")
-    #     else:
-    #         # Fetch and reset to ensure latest updates
-    #         try:
-    #             os.system(f"git -C {repo_dir} fetch")
-    #             os.system(f"git -C {repo_dir} reset --hard o")
-    #             logger.info(f"Updated repository {repo_dir} to latest main branch")
-    #         except Exception as e:
-    #             logger.error(f"Failed to update repository {repo_dir}: {e}")
-    #             return
+    def remove_non_readme_files(repo_dir: str):
+        """ Removes all files and folders in the repository except README.md and .git """
+        for item in os.listdir(repo_dir):
+            item_path = os.path.join(repo_dir, item)
+            if item not in ["README.md", ".git"]:
+                if os.path.isdir(item_path):
+                    shutil.rmtree(item_path)
+                else:
+                    os.remove(item_path)
+        logger.info(f"Removed all non-README files from {repo_dir}")
 
-    #     # Copy the latest README.md file to the target path
-    #     readme_path = os.path.join(repo_dir, "README.md")
-    #     if os.path.exists(readme_path):
-    #         shutil.copyfile(readme_path, target_path)
-    #         logger.info(f"Updated README.md copied to {target_path}")
-    #     else:
-    #         logger.warning(f"README.md not found in {repo_dir}")
 
 
 class CoroutineSpeedup:
