@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+
 import requests 
 from huggingface_script.fetch_hf_news import get_arxiv_metadata, fetch_huggingface_news
 import sqlite3
@@ -141,7 +142,8 @@ def db_to_md(conn, md_filename="./database/db_markdown/huggface_readme.md"):
 if __name__ == "__main__":
     db_path = './database/huggingface_model.db'
     conn = initialize_database(db_path)
-    hf_news = fetch_huggingface_news(limit=50)
+
+    hf_news = fetch_huggingface_news(limit=100)
 
 
     insert_hf_news(hf_news, db_path) 
