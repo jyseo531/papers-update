@@ -167,8 +167,12 @@ class ToolBox:
         # Copy the latest README.md file to the target path
         readme_path = os.path.join(repo_dir, "README.md")
         if os.path.exists(readme_path):
-            shutil.copyfile(readme_path, target_path)
+            shutil.move(readme_path, target_path)  # ✅ 기존 `copyfile` 대신 `move` 사용
             logger.info(f"Updated README.md copied to {target_path}")
+
+            # Clean up the empty repo_dir after moving README.md
+            shutil.rmtree(repo_dir)  # ✅ repo_dir을 삭제해서 중복  제거
+            logger.info(f"Removed repository directory: {repo_dir}")    
         else:
             logger.warning(f"README.md not found in {repo_dir}")
 
