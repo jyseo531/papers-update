@@ -122,21 +122,24 @@ class ToolBox:
     #         logger.warning(f"README.md not found in {repo_dir}")
     @staticmethod
     def remove_non_readme_files(repo_dir: str):
-        """Removes all files and folders in the repository except README.md and .git."""
+        """Removes all files and folders in the repository except README.md, .git, and assets folder."""
+        keep_dirs = ["README.md", ".git", "assets", "images", "media"]  # ✅ 유지할 폴더 추가
         for item in os.listdir(repo_dir):
             item_path = os.path.join(repo_dir, item)
-            if item not in ["README.md", ".git"]:
+            if item not in keep_dirs:  # ❌ 제외 리스트에 포함된 항목은 삭제하지 않음
                 if os.path.isdir(item_path):
                     shutil.rmtree(item_path)
                 else:
                     os.remove(item_path)
-        logger.info(f"Removed all non-README files from {repo_dir}")
+        
+        logger.info(f"Removed all non-essential files from {repo_dir}")
+
 
     @staticmethod
     def update_readme(repo_url: str, repo_dir: str, target_path: str):
         """
         Clone the repository if not exists, or fetch the latest changes,
-        while keeping only README.md and removing other files.
+        while keeping README.md and assets folder, and moving them to target_path.
 
         Args:
             repo_url (str): URL of the repository to pull updates from.
@@ -144,37 +147,45 @@ class ToolBox:
             target_path (str): Path to copy the updated README.md file.
         """
         if not os.path.exists(repo_dir):
-            # Clone the repository if it doesn't exist
             os.system(f"git clone {repo_url} {repo_dir}")
             logger.info(f"Cloned repository: {repo_url}")
 
-            # Remove all files except README.md
-            getattr(ToolBox, "remove_non_readme_files")(repo_dir)  # ✅ 수정됨
-
         else:
-            # Fetch and reset to ensure latest updates
             try:
                 os.system(f"git -C {repo_dir} fetch")
                 os.system(f"git -C {repo_dir} reset --hard origin/main")
                 logger.info(f"Updated repository {repo_dir} to latest main branch")
-
-                # Remove all files except README.md after update
-                getattr(ToolBox, "remove_non_readme_files")(repo_dir)  # ✅ 수정됨
             except Exception as e:
                 logger.error(f"Failed to update repository {repo_dir}: {e}")
                 return
 
-        # Copy the latest README.md file to the target path
+        # Remove unnecessary files but keep README.md and assets
+        ToolBox.remove_non_readme_files(repo_dir)
+
+        # Ensure target directory exists
+        target_dir = os.path.dirname(target_path)
+        if not os.path.exists(target_dir):
+            os.makedirs(target_dir)
+
+        # Move README.md
         readme_path = os.path.join(repo_dir, "README.md")
         if os.path.exists(readme_path):
-            shutil.move(readme_path, target_path)  # ✅ 기존 `copyfile` 대신 `move` 사용
-            logger.info(f"Updated README.md copied to {target_path}")
-
-            # Clean up the empty repo_dir after moving README.md
-            shutil.rmtree(repo_dir)  # ✅ repo_dir을 삭제해서 중복  제거
-            logger.info(f"Removed repository directory: {repo_dir}")    
+            shutil.move(readme_path, target_path)
+            logger.info(f"Moved README.md to {target_path}")
         else:
             logger.warning(f"README.md not found in {repo_dir}")
+
+        # Move assets folder (if exists)
+        assets_path = os.path.join(repo_dir, "assets")
+        target_assets_path = os.path.join(target_dir, "assets")  # 📌 assets를 target_path와 동일한 위치에 유지
+        if os.path.exists(assets_path):
+            if os.path.exists(target_assets_path):
+                shutil.rmtree(target_assets_path)  # 기존 assets 삭제
+            shutil.move(assets_path, target_assets_path)  # assets 폴더 이동
+            logger.info(f"Moved assets folder to {target_assets_path}")
+
+        # ✅ `repo_dir`은 삭제하지 않음! (폴더 유지)
+
 
 class CoroutineSpeedup:
     """轻量化的协程控件"""
