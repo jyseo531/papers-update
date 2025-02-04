@@ -141,7 +141,7 @@ Updated on 2025-02-04
 | allenai/Llama-3.1-Tulu-3-8B | allenai/Llama-3.1-Tulu-3-8B | [Link](https://huggingface.co/allenai/Llama-3.1-Tulu-3-8B) | llama3.1 | text-generation |
 | unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF | unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF | [Link](https://huggingface.co/unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF) | apache-2.0 | None |
 | lmstudio-community/DeepSeek-R1-Distill-Qwen-7B-GGUF | lmstudio-community/DeepSeek-R1-Distill-Qwen-7B-GGUF | [Link](https://huggingface.co/lmstudio-community/DeepSeek-R1-Distill-Qwen-7B-GGUF) | Unknown license | text-generation |
-| mradermacher/DeepSeek-R1-Distill-Qwen-32B-Uncensored-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/mradermacher/DeepSeek-R1-Distill-Qwen-32B-Uncensored-GGUF) | mit | None |
-| BAAI/bge-m3 | None | [Link](https://huggingface.co/BAAI/bge-m3) | mit | sentence-similarity |
-| jinaai/jina-embeddings-v3 | http://arxiv.org/abs/2405.13053v3 | [Link](https://huggingface.co/jinaai/jina-embeddings-v3) | cc-by-nc-4.0 | feature-extraction |
-| bartowski/DeepSeek-R1-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/DeepSeek-R1-GGUF) | Unknown license | text-generation |
+| mradermacher/DeepSeek-R1-Distill-Qwen-32B-Uncensored-GGUF | mradermacher/DeepSeek-R1-Distill-Qwen-32B-Uncensored-GGUF | [Link](https://huggingface.co/mradermacher/DeepSeek-R1-Distill-Qwen-32B-Uncensored-GGUF) | mit | None |
+| BAAI/bge-m3 | BAAI/bge-m3 | [Link](https://huggingface.co/BAAI/bge-m3) | mit | sentence-similarity |
+| jinaai/jina-embeddings-v3 | jinaai/jina-embeddings-v3 | [Link](https://huggingface.co/jinaai/jina-embeddings-v3) | cc-by-nc-4.0 | feature-extraction |
+| bartowski/DeepSeek-R1-GGUF | bartowski/DeepSeek-R1-GGUF | [Link](https://huggingface.co/bartowski/DeepSeek-R1-GGUF) | Unknown license | text-generation |
