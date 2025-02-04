@@ -122,6 +122,38 @@ class ToolBox:
         else:
             logger.warning(f"README.md not found in {repo_dir}")
 
+    # def update_readme(repo_url: str, repo_dir: str, target_path: str):
+    #     """
+    #     Ensure the local repository is up-to-date and copy the latest README.md to the target path.
+        
+    #     Args:
+    #         repo_url (str): URL of the repository to pull updates from.
+    #         repo_dir (str): Local directory where the repository is cloned.
+    #         target_path (str): Path to copy the updated README.md file.
+    #     """
+    #     if not os.path.exists(repo_dir):
+    #         # Clone the repository if it doesn't exist
+    #         os.system(f"git clone {repo_url} {repo_dir}")
+    #         logger.info(f"Cloned repository: {repo_url}")
+    #     else:
+    #         # Fetch and reset to ensure latest updates
+    #         try:
+    #             os.system(f"git -C {repo_dir} fetch")
+    #             os.system(f"git -C {repo_dir} reset --hard o")
+    #             logger.info(f"Updated repository {repo_dir} to latest main branch")
+    #         except Exception as e:
+    #             logger.error(f"Failed to update repository {repo_dir}: {e}")
+    #             return
+
+    #     # Copy the latest README.md file to the target path
+    #     readme_path = os.path.join(repo_dir, "README.md")
+    #     if os.path.exists(readme_path):
+    #         shutil.copyfile(readme_path, target_path)
+    #         logger.info(f"Updated README.md copied to {target_path}")
+    #     else:
+    #         logger.warning(f"README.md not found in {repo_dir}")
+
+
 class CoroutineSpeedup:
     """轻量化的协程控件"""
 
