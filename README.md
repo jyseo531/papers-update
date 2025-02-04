@@ -613,7 +613,7 @@
 |**2025-01-31**|**Imagine with the Teacher: Complete Shape in a Multi-View Distillation Way**|Zhanpeng Luo et.al.|[2501.19270v1](http://arxiv.org/abs/2501.19270v1)|null|
 |**2025-01-31**|**RIGNO: A Graph-based framework for robust and accurate operator learning for PDEs on arbitrary domains**|Sepehr Mousavi et.al.|[2501.19205v1](http://arxiv.org/abs/2501.19205v1)|**[link](https://github.com/camlab-ethz/rigno)**|
 |**2025-01-30**|**OT-Transformer: A Continuous-time Transformer Architecture with Optimal Transport Regularization**|Kelvin Kan et.al.|[2501.18793v1](http://arxiv.org/abs/2501.18793v1)|null|
-|**2025-01-30**|**Unpaired Translation of Point Clouds for Modeling Detector Response**|Mingyang Li et.al.|[2501.18674v1](http://arxiv.org/abs/2501.18674v1)|null|
+|**2025-01-30**|**Unpaired Translation of Point Clouds for Modeling Detector Response**|Mingyang Li et.al.|[2501.18674v1](http://arxiv.org/abs/2501.18674v1)|**[link](https://github.com/alpha-davidson/attpc_unpaired_trans)**|
 |**2025-01-30**|**Foundational Models for 3D Point Clouds: A Survey and Outlook**|Vishal Thengane et.al.|[2501.18594v1](http://arxiv.org/abs/2501.18594v1)|null|
 |**2025-01-30**|**Surface Defect Identification using Bayesian Filtering on a 3D Mesh**|Matteo Dalle Vedove et.al.|[2501.18315v1](http://arxiv.org/abs/2501.18315v1)|null|
 |**2025-01-30**|**Ground Awareness in Deep Learning for Large Outdoor Point Cloud Segmentation**|Kevin Qiu et.al.|[2501.18246v1](http://arxiv.org/abs/2501.18246v1)|null|
@@ -1786,7 +1786,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-01-31**|**ContextFormer: Redefining Efficiency in Semantic Segmentation**|Mian Muhammad Naeem Abid et.al.|[2501.19255v1](http://arxiv.org/abs/2501.19255v1)|null|
-|**2025-01-28**|**Machine learning of microstructure--property relationships in materials with robust features from foundational vision transformers**|Sheila E. Whitman et.al.|[2501.18637v1](http://arxiv.org/abs/2501.18637v1)|null|
+|**2025-01-28**|**Machine learning of microstructure--property relationships in materials with robust features from foundational vision transformers**|Sheila E. Whitman et.al.|[2501.18637v1](http://arxiv.org/abs/2501.18637v1)|**[link](https://github.com/materials-informatics-az/micropropvit)**|
 |**2025-01-30**|**Learning Priors of Human Motion With Vision Transformers**|Placido Falqueto et.al.|[2501.18543v1](http://arxiv.org/abs/2501.18543v1)|null|
 |**2025-01-30**|**Arbitrary Data as Images: Fusion of Patient Data Across Modalities and Irregular Intervals with Vision Transformers**|Malte Tölle et.al.|[2501.18237v1](http://arxiv.org/abs/2501.18237v1)|null|
 |**2025-01-29**|**TransRAD: Retentive Vision Transformer for Enhanced Radar Object Detection**|Lei Cheng et.al.|[2501.17977v1](http://arxiv.org/abs/2501.17977v1)|**[link](https://github.com/radar-lab/transrad)**|
@@ -2454,7 +2454,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-14**|**Religious Bias Landscape in Language and Text-to-Image Models: Analysis, Detection, and Debiasing Strategies**|Ajwad Abrar et.al.|[2501.08441v1](http://arxiv.org/abs/2501.08441v1)|null|
+|**2025-01-14**|**Religious Bias Landscape in Language and Text-to-Image Models: Analysis, Detection, and Debiasing Strategies**|Ajwad Abrar et.al.|[2501.08441v1](http://arxiv.org/abs/2501.08441v1)|**[link](https://github.com/ajwad-abrar/religious-bias)**|
 |**2024-12-22**|**Distilled Decoding 1: One-step Sampling of Image Auto-regressive Models with Flow Matching**|Enshu Liu et.al.|[2412.17153v2](http://arxiv.org/abs/2412.17153v2)|**[link](https://github.com/imagination-research/distilled-decoding)**|
 |**2024-12-22**|**Modular Conversational Agents for Surveys and Interviews**|Jiangbo Yu et.al.|[2412.17049v1](http://arxiv.org/abs/2412.17049v1)|null|
 |**2024-12-15**|**Understanding and Mitigating Memorization in Diffusion Models for Tabular Data**|Zhengyu Fang et.al.|[2412.11044v1](http://arxiv.org/abs/2412.11044v1)|null|
@@ -2727,10 +2727,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-31**|**Low-Rank Adapting Models for Sparse Autoencoders**|Matthew Chen et.al.|[2501.19406v1](http://arxiv.org/abs/2501.19406v1)|null|
+|**2025-01-31**|**Low-Rank Adapting Models for Sparse Autoencoders**|Matthew Chen et.al.|[2501.19406v1](http://arxiv.org/abs/2501.19406v1)|**[link](https://github.com/matchten/lora-models-for-saes)**|
 |**2025-01-31**|**Vintix: Action Model via In-Context Reinforcement Learning**|Andrey Polubarov et.al.|[2501.19400v1](http://arxiv.org/abs/2501.19400v1)|**[link](https://github.com/dunnolab/vintix)**|
 |**2025-01-31**|**Scalable-Softmax Is Superior for Attention**|Ken M. Nakanishi et.al.|[2501.19399v1](http://arxiv.org/abs/2501.19399v1)|null|
-|**2025-01-31**|**Do LLMs Strategically Reveal, Conceal, and Infer Information? A Theoretical and Empirical Analysis in The Chameleon Game**|Mustafa O. Karabag et.al.|[2501.19398v1](http://arxiv.org/abs/2501.19398v1)|null|
+|**2025-01-31**|**Do LLMs Strategically Reveal, Conceal, and Infer Information? A Theoretical and Empirical Analysis in The Chameleon Game**|Mustafa O. Karabag et.al.|[2501.19398v1](http://arxiv.org/abs/2501.19398v1)|**[link](https://github.com/mustafakarabag/llmchameleon)**|
 |**2025-01-31**|**s1: Simple test-time scaling**|Niklas Muennighoff et.al.|[2501.19393v2](http://arxiv.org/abs/2501.19393v2)|**[link](https://github.com/simplescaling/s1)**|
 |**2025-01-31**|**Cache Me If You Must: Adaptive Key-Value Quantization for Large Language Models**|Alina Shutova et.al.|[2501.19392v1](http://arxiv.org/abs/2501.19392v1)|null|
 |**2025-01-31**|**Federated Sketching LoRA: On-Device Collaborative Fine-Tuning of Large Language Models**|Wenzhi Fang et.al.|[2501.19389v1](http://arxiv.org/abs/2501.19389v1)|null|
