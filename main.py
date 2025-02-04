@@ -123,15 +123,15 @@ class ToolBox:
     #         logger.warning(f"README.md not found in {repo_dir}")
 
     def remove_non_readme_files(repo_dir: str):
-    """ Removes all files and folders in the repository except README.md and .git """
-    for item in os.listdir(repo_dir):
-        item_path = os.path.join(repo_dir, item)
-        if item not in ["README.md", ".git"]:
-            if os.path.isdir(item_path):
-                shutil.rmtree(item_path)
-            else:
-                os.remove(item_path)
-    logger.info(f"Removed all non-README files from {repo_dir}")
+        """Removes all files and folders in the repository except README.md and .git."""
+        for item in os.listdir(repo_dir):
+            item_path = os.path.join(repo_dir, item)
+            if item not in ["README.md", ".git"]:
+                if os.path.isdir(item_path):
+                    shutil.rmtree(item_path)
+                else:
+                    os.remove(item_path)
+        logger.info(f"Removed all non-README files from {repo_dir}")
 
 
     def update_readme(repo_url: str, repo_dir: str, target_path: str):
