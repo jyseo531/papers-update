@@ -140,3 +140,4 @@ Updated on 2025-02-04
 | google/gemma-2-2b-it | google/gemma-2-2b-it | [Link](https://huggingface.co/google/gemma-2-2b-it) | gemma | text-generation |
 | allenai/Llama-3.1-Tulu-3-8B | allenai/Llama-3.1-Tulu-3-8B | [Link](https://huggingface.co/allenai/Llama-3.1-Tulu-3-8B) | llama3.1 | text-generation |
 | unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF | unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF | [Link](https://huggingface.co/unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF) | apache-2.0 | None |
+| lmstudio-community/DeepSeek-R1-Distill-Qwen-7B-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/lmstudio-community/DeepSeek-R1-Distill-Qwen-7B-GGUF) | Unknown license | text-generation |
