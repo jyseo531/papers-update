@@ -89,7 +89,6 @@ class ToolBox:
                 logger.error(f"Failed to read configuration file {config_path}: {e}")
                 return []
 
-    @staticmethod
     # Awesome github pages 업데이트 동기화(git-pull) 함수
     # SERVER_PATH_AWESOME = join(SERVER_DIR_DOCS, "Awesome_Pages")
 
@@ -150,7 +149,7 @@ class ToolBox:
             logger.info(f"Cloned repository: {repo_url}")
 
             # Remove all files except README.md
-            ToolBox.remove_non_readme_files(repo_dir)
+            getattr(ToolBox, "remove_non_readme_files")(repo_dir)  # ✅ 수정됨
 
         else:
             # Fetch and reset to ensure latest updates
@@ -160,7 +159,7 @@ class ToolBox:
                 logger.info(f"Updated repository {repo_dir} to latest main branch")
 
                 # Remove all files except README.md after update
-                remove_non_readme_files(repo_dir)
+                getattr(ToolBox, "remove_non_readme_files")(repo_dir)  # ✅ 수정됨
             except Exception as e:
                 logger.error(f"Failed to update repository {repo_dir}: {e}")
                 return
