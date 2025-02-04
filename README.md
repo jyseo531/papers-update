@@ -1,4 +1,4 @@
-## Updated on 2025.02.03
+## Updated on 2025.02.04
 
 > Welcome to contribute! Add your topics and keywords in `topic.yml`
 
@@ -2602,7 +2602,7 @@
 |**2025-01-30**|**Tuning Vision Foundation Model via Test-Time Prompt-Guided Training for VFSS Segmentations**|Chengxi Zeng et.al.|[2501.18474v1](http://arxiv.org/abs/2501.18474v1)|null|
 |**2025-01-30**|**Task-based Regularization in Penalized Least-Squares for Binary Signal Detection Tasks in Medical Image Denoising**|Wentao Chen et.al.|[2501.18418v2](http://arxiv.org/abs/2501.18418v2)|null|
 |**2025-01-30**|**Finite element discretization of nonlinear models of ultrasound heating**|Julio Careaga et.al.|[2501.18307v1](http://arxiv.org/abs/2501.18307v1)|**[link](https://github.com/juliocareaga/wave-heat)**|
-|**2025-01-30**|**Continually Evolved Multimodal Foundation Models for Cancer Prognosis**|Jie Peng et.al.|[2501.18170v1](http://arxiv.org/abs/2501.18170v1)|null|
+|**2025-01-30**|**Continually Evolved Multimodal Foundation Models for Cancer Prognosis**|Jie Peng et.al.|[2501.18170v2](http://arxiv.org/abs/2501.18170v2)|null|
 |**2025-01-30**|**Scattering approach to diffusion quantifies axonal damage in brain injury**|Ali Abdollahzadeh et.al.|[2501.18167v1](http://arxiv.org/abs/2501.18167v1)|**[link](https://github.com/aAbdz/DeepACSON)**|
 |**2025-01-29**|**Unsupervised Patch-GAN with Targeted Patch Ranking for Fine-Grained Novelty Detection in Medical Imaging**|Jingkun Chen et.al.|[2501.17906v1](http://arxiv.org/abs/2501.17906v1)|null|
 |**2025-01-29**|**VICCA: Visual Interpretation and Comprehension of Chest X-ray Anomalies in Generated Report Without Human Feedback**|Sayeh Gholipour Picha et.al.|[2501.17726v1](http://arxiv.org/abs/2501.17726v1)|null|

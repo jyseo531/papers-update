@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-02-03
+Updated on 2025-02-04
 
 > Generated from the Hugging Face database.
 
@@ -203,7 +203,7 @@ Updated on 2025-02-03
 | bartowski/deepseek-r1-qwen-2.5-32B-ablated-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/deepseek-r1-qwen-2.5-32B-ablated-GGUF) | mit | text-generation |
 | unsloth/DeepSeek-R1-Distill-Llama-8B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/unsloth/DeepSeek-R1-Distill-Llama-8B) | llama3.1 | text-generation |
 | PramaLLC/BEN2 | http://arxiv.org/abs/2501.06230v1 | [Link](https://huggingface.co/PramaLLC/BEN2) | mit | image-segmentation |
-| AtlaAI/Selene-1-Mini-Llama-3.1-8B | http://arxiv.org/abs/2501.17195v1 | [Link](https://huggingface.co/AtlaAI/Selene-1-Mini-Llama-3.1-8B) | llama3.1 | text-generation |
+| AtlaAI/Selene-1-Mini-Llama-3.1-8B | http://arxiv.org/abs/2501.17195v1 | [Link](https://huggingface.co/AtlaAI/Selene-1-Mini-Llama-3.1-8B) | apache-2.0 | text-generation |
 | weberding/iclight-v2 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/weberding/iclight-v2) | Unknown license | None |
 | bluepen5805/DeepSeek-R1-Distill-Qwen-32B-Japanese-gguf | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bluepen5805/DeepSeek-R1-Distill-Qwen-32B-Japanese-gguf) | mit | text-generation |
 | mmnga/cyberagent-DeepSeek-R1-Distill-Qwen-14B-Japanese-gguf | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/mmnga/cyberagent-DeepSeek-R1-Distill-Qwen-14B-Japanese-gguf) | mit | None |
@@ -233,3 +233,6 @@ Updated on 2025-02-03
 | black-forest-labs/FLUX.1-dev-onnx | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/black-forest-labs/FLUX.1-dev-onnx) | other | text-to-image |
 | mradermacher/DeepSeek-R1-Distill-Qwen-32B-Uncensored-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/mradermacher/DeepSeek-R1-Distill-Qwen-32B-Uncensored-GGUF) | mit | None |
 | arcee-ai/Virtuoso-Small-v2 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/arcee-ai/Virtuoso-Small-v2) | apache-2.0 | text-generation |
+| stepfun-ai/GOT-OCR-2.0-hf | http://arxiv.org/abs/2409.01704v1 | [Link](https://huggingface.co/stepfun-ai/GOT-OCR-2.0-hf) | apache-2.0 | image-text-to-text |
+| SakanaAI/TinySwallow-1.5B-Instruct | None | [Link](https://huggingface.co/SakanaAI/TinySwallow-1.5B-Instruct) | apache-2.0 | text-generation |
+| DavidAU/AI_Autocorrect__Auto-Creative-Enhancement__Auto-Low-Quant-Optimization__gguf-exl2-hqq-SOFTWARE | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/DavidAU/AI_Autocorrect__Auto-Creative-Enhancement__Auto-Low-Quant-Optimization__gguf-exl2-hqq-SOFTWARE) | apache-2.0 | text-generation |
