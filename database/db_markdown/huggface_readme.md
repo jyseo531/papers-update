@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-02-04
+Updated on 2025-02-05
 
 > Generated from the Hugging Face database.
 
@@ -145,3 +145,5 @@ Updated on 2025-02-04
 | BAAI/bge-m3 | BAAI/bge-m3 | [Link](https://huggingface.co/BAAI/bge-m3) | mit | sentence-similarity |
 | jinaai/jina-embeddings-v3 | jinaai/jina-embeddings-v3 | [Link](https://huggingface.co/jinaai/jina-embeddings-v3) | cc-by-nc-4.0 | feature-extraction |
 | bartowski/DeepSeek-R1-GGUF | bartowski/DeepSeek-R1-GGUF | [Link](https://huggingface.co/bartowski/DeepSeek-R1-GGUF) | Unknown license | text-generation |
+| ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4) | apache-2.0 | reinforcement-learning |
+| strangerzonehf/Flux-Super-Realism-LoRA | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/strangerzonehf/Flux-Super-Realism-LoRA) | mit | text-to-image |
