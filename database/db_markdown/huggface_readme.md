@@ -147,9 +147,9 @@ Updated on 2025-02-05
 | bartowski/DeepSeek-R1-GGUF | bartowski/DeepSeek-R1-GGUF | [Link](https://huggingface.co/bartowski/DeepSeek-R1-GGUF) | Unknown license | text-generation |
 | ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4 | ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4 | [Link](https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4) | apache-2.0 | reinforcement-learning |
 | strangerzonehf/Flux-Super-Realism-LoRA | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/strangerzonehf/Flux-Super-Realism-LoRA) | mit | text-to-image |
-| lerobot/pi0 | http://arxiv.org/abs/2406.04086v4 | [Link](https://huggingface.co/lerobot/pi0) | apache-2.0 | robotics |
-| Steelskull/L3.3-Damascus-R1 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Steelskull/L3.3-Damascus-R1) | other | text-generation |
-| nomic-ai/nomic-embed-text-v1.5 | http://arxiv.org/abs/2406.07432v1 | [Link](https://huggingface.co/nomic-ai/nomic-embed-text-v1.5) | apache-2.0 | sentence-similarity |
-| SentientAGI/Dobby-Mini-Unhinged-Llama-3.1-8B | http://arxiv.org/abs/2411.03887v2 | [Link](https://huggingface.co/SentientAGI/Dobby-Mini-Unhinged-Llama-3.1-8B) | llama3.1 | text-generation |
-| mradermacher/Janus-Pro-7B-LM-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/mradermacher/Janus-Pro-7B-LM-GGUF) | mit | None |
-| stabilityai/stable-video-diffusion-img2vid-xt | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt) | other | image-to-video |
+| lerobot/pi0 | lerobot/pi0 | [Link](https://huggingface.co/lerobot/pi0) | apache-2.0 | robotics |
+| Steelskull/L3.3-Damascus-R1 | Steelskull/L3.3-Damascus-R1 | [Link](https://huggingface.co/Steelskull/L3.3-Damascus-R1) | other | text-generation |
+| nomic-ai/nomic-embed-text-v1.5 | nomic-ai/nomic-embed-text-v1.5 | [Link](https://huggingface.co/nomic-ai/nomic-embed-text-v1.5) | apache-2.0 | sentence-similarity |
+| SentientAGI/Dobby-Mini-Unhinged-Llama-3.1-8B | SentientAGI/Dobby-Mini-Unhinged-Llama-3.1-8B | [Link](https://huggingface.co/SentientAGI/Dobby-Mini-Unhinged-Llama-3.1-8B) | llama3.1 | text-generation |
+| mradermacher/Janus-Pro-7B-LM-GGUF | mradermacher/Janus-Pro-7B-LM-GGUF | [Link](https://huggingface.co/mradermacher/Janus-Pro-7B-LM-GGUF) | mit | None |
+| stabilityai/stable-video-diffusion-img2vid-xt | stabilityai/stable-video-diffusion-img2vid-xt | [Link](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt) | other | image-to-video |
