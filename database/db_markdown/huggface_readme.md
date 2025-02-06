@@ -153,8 +153,12 @@ Updated on 2025-02-06
 | SentientAGI/Dobby-Mini-Unhinged-Llama-3.1-8B | SentientAGI/Dobby-Mini-Unhinged-Llama-3.1-8B | [Link](https://huggingface.co/SentientAGI/Dobby-Mini-Unhinged-Llama-3.1-8B) | llama3.1 | text-generation |
 | mradermacher/Janus-Pro-7B-LM-GGUF | mradermacher/Janus-Pro-7B-LM-GGUF | [Link](https://huggingface.co/mradermacher/Janus-Pro-7B-LM-GGUF) | mit | None |
 | stabilityai/stable-video-diffusion-img2vid-xt | stabilityai/stable-video-diffusion-img2vid-xt | [Link](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt) | other | image-to-video |
-| simplescaling/s1-32B | http://arxiv.org/abs/2410.08020v2 | [Link](https://huggingface.co/simplescaling/s1-32B) | apache-2.0 | text-generation |
-| deepseek-ai/deepseek-vl2 | None | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2) | other | image-text-to-text |
-| deepseek-ai/deepseek-vl2-small | None | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2-small) | other | image-text-to-text |
+| simplescaling/s1-32B | simplescaling/s1-32B | [Link](https://huggingface.co/simplescaling/s1-32B) | apache-2.0 | text-generation |
+| deepseek-ai/deepseek-vl2 | deepseek-ai/deepseek-vl2 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2) | other | image-text-to-text |
+| deepseek-ai/deepseek-vl2-small | deepseek-ai/deepseek-vl2-small | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2-small) | other | image-text-to-text |
 | XLabs-AI/flux-RealismLora | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/XLabs-AI/flux-RealismLora) | other | text-to-image |
-| mistralai/Mistral-7B-Instruct-v0.3 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3) | apache-2.0 | text-generation |
+| mistralai/Mistral-7B-Instruct-v0.3 | mistralai/Mistral-7B-Instruct-v0.3 | [Link](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3) | apache-2.0 | text-generation |
+| openfree/president-pjh | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/openfree/president-pjh) | other | text-to-image |
+| PKU-Alignment/Align-DS-V | None | [Link](https://huggingface.co/PKU-Alignment/Align-DS-V) | mit | None |
+| ValueFX9507/Tifa-Deepsex-14b-CoT | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT) | apache-2.0 | reinforcement-learning |
+| openfree/president-k-dj | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/openfree/president-k-dj) | other | text-to-image |
