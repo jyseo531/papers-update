@@ -1,4 +1,4 @@
-## Updated on 2025.02.05
+## Updated on 2025.02.06
 
 > Welcome to contribute! Add your topics and keywords in `topic.yml`
 
@@ -1252,7 +1252,7 @@
 |---|---|---|---|---|
 |**2025-02-03**|**Learning Fine-to-Coarse Cuboid Shape Abstraction**|Gregor Kobsik et.al.|[2502.01855v1](http://arxiv.org/abs/2502.01855v1)|null|
 |**2025-02-03**|**AquaticCLIP: A Vision-Language Foundation Model for Underwater Scene Analysis**|Basit Alawode et.al.|[2502.01785v1](http://arxiv.org/abs/2502.01785v1)|null|
-|**2025-02-03**|**A Poisson Process AutoDecoder for X-ray Sources**|Yanke Song et.al.|[2502.01627v1](http://arxiv.org/abs/2502.01627v1)|null|
+|**2025-02-03**|**A Poisson Process AutoDecoder for X-ray Sources**|Yanke Song et.al.|[2502.01627v2](http://arxiv.org/abs/2502.01627v2)|null|
 |**2025-02-03**|**Supervised Similarity for High-Yield Corporate Bonds with Quantum Cognition Machine Learning**|Joshua Rosaler et.al.|[2502.01495v1](http://arxiv.org/abs/2502.01495v1)|null|
 |**2025-02-03**|**One-to-Normal: Anomaly Personalization for Few-shot Anomaly Detection**|Yiyue Li et.al.|[2502.01201v1](http://arxiv.org/abs/2502.01201v1)|null|
 |**2025-01-31**|**Physics-Informed Neural Network based Damage Identification for Truss Railroad Bridges**|Althaf Shajihan et.al.|[2502.00194v1](http://arxiv.org/abs/2502.00194v1)|null|
@@ -1320,7 +1320,7 @@
 |**2025-02-04**|**Flexible radio-frequency transistors exceeding 100 GHz**|Fan Xia et.al.|[2502.02485v1](http://arxiv.org/abs/2502.02485v1)|null|
 |**2025-02-04**|**Style transfer as data augmentation: evaluating unpaired image-to-image translation models in mammography**|Emir Ahmed et.al.|[2502.02475v1](http://arxiv.org/abs/2502.02475v1)|null|
 |**2025-02-04**|**Kinetic study of Kelvin-Helmholtz instability: Multiscale thermodynamic nonequilibrium effects and their relative importance**|Zhongyi He et.al.|[2502.02474v1](http://arxiv.org/abs/2502.02474v1)|null|
-|**2025-02-04**|**High-Fidelity Human Avatars from Laptop Webcams using Edge Compute**|Akash Haridas Imran N. Junejo et.al.|[2502.02468v1](http://arxiv.org/abs/2502.02468v1)|null|
+|**2025-02-04**|**High-Fidelity Human Avatars from Laptop Webcams using Edge Compute**|Akash Haridas et.al.|[2502.02468v1](http://arxiv.org/abs/2502.02468v1)|null|
 |**2025-02-04**|**Towards Consistent and Controllable Image Synthesis for Face Editing**|Mengting Wei et.al.|[2502.02465v1](http://arxiv.org/abs/2502.02465v1)|null|
 |**2025-02-04**|**TransformDAS: Mapping Φ-OTDR Signals to Riemannian Manifold for Robust Classification**|Jiaju Kang et.al.|[2502.02428v1](http://arxiv.org/abs/2502.02428v1)|null|
 |**2025-02-04**|**Synthetic Random Environmental Time Series Generation with Similarity Control, Preserving Original Signal's Statistical Characteristics**|Ofek Aloni et.al.|[2502.02392v1](http://arxiv.org/abs/2502.02392v1)|null|
@@ -1400,7 +1400,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-04**|**Beyond English: Evaluating Automated Measurement of Moral Foundations in Non-English Discourse with a Chinese Case Study**|Calvin Yixiang Cheng et.al.|[2502.02451v1](http://arxiv.org/abs/2502.02451v1)|null|
+|**2025-02-04**|**Beyond English: Evaluating Automated Measurement of Moral Foundations in Non-English Discourse with a Chinese Case Study**|Calvin Yixiang Cheng et.al.|[2502.02451v2](http://arxiv.org/abs/2502.02451v2)|null|
 |**2025-02-04**|**Self-Supervised Convolutional Audio Models are Flexible Acoustic Feature Learners: A Domain Specificity and Transfer-Learning Study**|Mattson Ogg et.al.|[2502.02366v1](http://arxiv.org/abs/2502.02366v1)|null|
 |**2025-02-04**|**Transfer Risk Map: Mitigating Pixel-level Negative Transfer in Medical Segmentation**|Shutong Duan et.al.|[2502.02340v1](http://arxiv.org/abs/2502.02340v1)|null|
 |**2025-02-03**|**Geometric Framework for 3D Cell Segmentation Correction**|Peter Chen et.al.|[2502.01890v1](http://arxiv.org/abs/2502.01890v1)|null|
@@ -1513,7 +1513,7 @@
 |**2025-02-04**|**Mask-informed Deep Contrastive Incomplete Multi-view Clustering**|Zhenglai Li et.al.|[2502.02234v1](http://arxiv.org/abs/2502.02234v1)|null|
 |**2025-02-04**|**Multi-level Supervised Contrastive Learning**|Naghmeh Ghanooni et.al.|[2502.02202v1](http://arxiv.org/abs/2502.02202v1)|null|
 |**2025-02-04**|**Efficient Domain Adaptation of Multimodal Embeddings using Constrastive Learning**|Georgios Margaritis et.al.|[2502.02048v1](http://arxiv.org/abs/2502.02048v1)|null|
-|**2025-02-04**|**T-SCEND: Test-time Scalable MCTS-enhanced Diffusion Model**|Tao Zhang et.al.|[2502.01989v1](http://arxiv.org/abs/2502.01989v1)|null|
+|**2025-02-04**|**T-SCEND: Test-time Scalable MCTS-enhanced Diffusion Model**|Tao Zhang et.al.|[2502.01989v2](http://arxiv.org/abs/2502.01989v2)|null|
 |**2025-02-04**|**Hierarchical Consensus Network for Multiview Feature Learning**|Chengwei Xia et.al.|[2502.01961v1](http://arxiv.org/abs/2502.01961v1)|null|
 |**2025-02-04**|**Boundary-Driven Table-Filling with Cross-Granularity Contrastive Learning for Aspect Sentiment Triplet Extraction**|Qingling Li et.al.|[2502.01942v1](http://arxiv.org/abs/2502.01942v1)|null|
 |**2025-02-03**|**A Privacy-Preserving Domain Adversarial Federated learning for multi-site brain functional connectivity analysis**|Yipu Zhang et.al.|[2502.01885v1](http://arxiv.org/abs/2502.01885v1)|null|
@@ -2423,7 +2423,7 @@
 |**2025-02-04**|**LV-XAttn: Distributed Cross-Attention for Long Visual Inputs in Multimodal Large Language Models**|Tzu-Tao Chang et.al.|[2502.02406v1](http://arxiv.org/abs/2502.02406v1)|null|
 |**2025-02-04**|**Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking**|Jinyang Wu et.al.|[2502.02339v1](http://arxiv.org/abs/2502.02339v1)|null|
 |**2025-02-04**|**VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation**|Siyu Xu et.al.|[2502.02175v1](http://arxiv.org/abs/2502.02175v1)|null|
-|**2025-02-04**|**IPO: Iterative Preference Optimization for Text-to-Video Generation**|Xiaomeng Yang et.al.|[2502.02088v1](http://arxiv.org/abs/2502.02088v1)|null|
+|**2025-02-04**|**IPO: Iterative Preference Optimization for Text-to-Video Generation**|Xiaomeng Yang et.al.|[2502.02088v2](http://arxiv.org/abs/2502.02088v2)|null|
 |**2025-02-04**|**Efficient Domain Adaptation of Multimodal Embeddings using Constrastive Learning**|Georgios Margaritis et.al.|[2502.02048v1](http://arxiv.org/abs/2502.02048v1)|null|
 |**2025-01-31**|**Do Large Multimodal Models Solve Caption Generation for Scientific Figures? Lessons Learned from SCICAP Challenge 2023**|Ting-Yao E. Hsu et.al.|[2501.19353v1](http://arxiv.org/abs/2501.19353v1)|null|
 |**2025-01-31**|**PixelWorld: Towards Perceiving Everything as Pixels**|Zhiheng Lyu et.al.|[2501.19339v1](http://arxiv.org/abs/2501.19339v1)|null|
@@ -2671,7 +2671,7 @@
 |**2025-02-04**|**Medical Multimodal Model Stealing Attacks via Adversarial Domain Alignment**|Yaling Shen et.al.|[2502.02438v1](http://arxiv.org/abs/2502.02438v1)|null|
 |**2025-02-04**|**Unlocking the power of global quantum gates with machine learning**|Vinit Singh et.al.|[2502.02405v1](http://arxiv.org/abs/2502.02405v1)|null|
 |**2025-02-04**|**STAIR: Improving Safety Alignment with Introspective Reasoning**|Yichi Zhang et.al.|[2502.02384v1](http://arxiv.org/abs/2502.02384v1)|null|
-|**2025-02-04**|**MotionLab: Unified Human Motion Generation and Editing via the Motion-Condition-Motion Paradigm**|Ziyan Guo et.al.|[2502.02358v1](http://arxiv.org/abs/2502.02358v1)|null|
+|**2025-02-04**|**MotionLab: Unified Human Motion Generation and Editing via the Motion-Condition-Motion Paradigm**|Ziyan Guo et.al.|[2502.02358v2](http://arxiv.org/abs/2502.02358v2)|null|
 |**2025-01-31**|**Low dust mass and high star-formation efficiency at $z>12$ from deep ALMA observations**|Ikki Mitsuhashi et.al.|[2501.19384v1](http://arxiv.org/abs/2501.19384v1)|null|
 |**2025-01-31**|**PUATE: Semiparametric Efficient Average Treatment Effect Estimation from Treated (Positive) and Unlabeled Units**|Masahiro Kato et.al.|[2501.19345v1](http://arxiv.org/abs/2501.19345v1)|null|
 |**2025-01-31**|**PixelWorld: Towards Perceiving Everything as Pixels**|Zhiheng Lyu et.al.|[2501.19339v1](http://arxiv.org/abs/2501.19339v1)|null|

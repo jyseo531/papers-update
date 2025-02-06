@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-02-05
+Updated on 2025-02-06
 
 > Generated from the Hugging Face database.
 
@@ -153,3 +153,8 @@ Updated on 2025-02-05
 | SentientAGI/Dobby-Mini-Unhinged-Llama-3.1-8B | SentientAGI/Dobby-Mini-Unhinged-Llama-3.1-8B | [Link](https://huggingface.co/SentientAGI/Dobby-Mini-Unhinged-Llama-3.1-8B) | llama3.1 | text-generation |
 | mradermacher/Janus-Pro-7B-LM-GGUF | mradermacher/Janus-Pro-7B-LM-GGUF | [Link](https://huggingface.co/mradermacher/Janus-Pro-7B-LM-GGUF) | mit | None |
 | stabilityai/stable-video-diffusion-img2vid-xt | stabilityai/stable-video-diffusion-img2vid-xt | [Link](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt) | other | image-to-video |
+| simplescaling/s1-32B | http://arxiv.org/abs/2410.08020v2 | [Link](https://huggingface.co/simplescaling/s1-32B) | apache-2.0 | text-generation |
+| deepseek-ai/deepseek-vl2 | None | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2) | other | image-text-to-text |
+| deepseek-ai/deepseek-vl2-small | None | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2-small) | other | image-text-to-text |
+| XLabs-AI/flux-RealismLora | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/XLabs-AI/flux-RealismLora) | other | text-to-image |
+| mistralai/Mistral-7B-Instruct-v0.3 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3) | apache-2.0 | text-generation |
