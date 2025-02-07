@@ -156,18 +156,21 @@ Updated on 2025-02-07
 | simplescaling/s1-32B | simplescaling/s1-32B | [Link](https://huggingface.co/simplescaling/s1-32B) | apache-2.0 | text-generation |
 | deepseek-ai/deepseek-vl2 | deepseek-ai/deepseek-vl2 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2) | other | image-text-to-text |
 | deepseek-ai/deepseek-vl2-small | deepseek-ai/deepseek-vl2-small | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2-small) | other | image-text-to-text |
-| XLabs-AI/flux-RealismLora | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/XLabs-AI/flux-RealismLora) | other | text-to-image |
+| XLabs-AI/flux-RealismLora | XLabs-AI/flux-RealismLora | [Link](https://huggingface.co/XLabs-AI/flux-RealismLora) | other | text-to-image |
 | mistralai/Mistral-7B-Instruct-v0.3 | mistralai/Mistral-7B-Instruct-v0.3 | [Link](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3) | apache-2.0 | text-generation |
 | openfree/president-pjh | openfree/president-pjh | [Link](https://huggingface.co/openfree/president-pjh) | other | text-to-image |
 | PKU-Alignment/Align-DS-V | PKU-Alignment/Align-DS-V | [Link](https://huggingface.co/PKU-Alignment/Align-DS-V) | mit | None |
 | ValueFX9507/Tifa-Deepsex-14b-CoT | ValueFX9507/Tifa-Deepsex-14b-CoT | [Link](https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT) | apache-2.0 | reinforcement-learning |
 | openfree/president-k-dj | openfree/president-k-dj | [Link](https://huggingface.co/openfree/president-k-dj) | other | text-to-image |
-| huihui-ai/DeepSeek-R1-Distill-Llama-8B-abliterated | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/huihui-ai/DeepSeek-R1-Distill-Llama-8B-abliterated) | Unknown license | text-generation |
-| ValueFX9507/Tifa-Deepsex-14b-CoT-Q8 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-Q8) | apache-2.0 | reinforcement-learning |
-| deepseek-ai/deepseek-vl2-tiny | None | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2-tiny) | other | image-text-to-text |
-| huihui-ai/DeepSeek-R1-Distill-Llama-70B-abliterated | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/huihui-ai/DeepSeek-R1-Distill-Llama-70B-abliterated) | Unknown license | text-generation |
-| krutrim-ai-labs/Krutrim-2-instruct | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/krutrim-ai-labs/Krutrim-2-instruct) | other | None |
-| ByteDance/AnimateDiff-Lightning | http://arxiv.org/abs/2410.11971v1 | [Link](https://huggingface.co/ByteDance/AnimateDiff-Lightning) | creativeml-openrail-m | text-to-video |
-| xwen-team/Xwen-7B-Chat | http://arxiv.org/abs/2412.15115v2 | [Link](https://huggingface.co/xwen-team/Xwen-7B-Chat) | apache-2.0 | text-generation |
+| huihui-ai/DeepSeek-R1-Distill-Llama-8B-abliterated | huihui-ai/DeepSeek-R1-Distill-Llama-8B-abliterated | [Link](https://huggingface.co/huihui-ai/DeepSeek-R1-Distill-Llama-8B-abliterated) | Unknown license | text-generation |
+| ValueFX9507/Tifa-Deepsex-14b-CoT-Q8 | ValueFX9507/Tifa-Deepsex-14b-CoT-Q8 | [Link](https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-Q8) | apache-2.0 | reinforcement-learning |
+| deepseek-ai/deepseek-vl2-tiny | deepseek-ai/deepseek-vl2-tiny | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2-tiny) | other | image-text-to-text |
+| huihui-ai/DeepSeek-R1-Distill-Llama-70B-abliterated | huihui-ai/DeepSeek-R1-Distill-Llama-70B-abliterated | [Link](https://huggingface.co/huihui-ai/DeepSeek-R1-Distill-Llama-70B-abliterated) | Unknown license | text-generation |
+| krutrim-ai-labs/Krutrim-2-instruct | krutrim-ai-labs/Krutrim-2-instruct | [Link](https://huggingface.co/krutrim-ai-labs/Krutrim-2-instruct) | other | None |
+| ByteDance/AnimateDiff-Lightning | ByteDance/AnimateDiff-Lightning | [Link](https://huggingface.co/ByteDance/AnimateDiff-Lightning) | creativeml-openrail-m | text-to-video |
+| xwen-team/Xwen-7B-Chat | xwen-team/Xwen-7B-Chat | [Link](https://huggingface.co/xwen-team/Xwen-7B-Chat) | apache-2.0 | text-generation |
 | meta-llama/Meta-Llama-3-8B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) | llama3 | text-generation |
 | HuggingFaceTB/SmolLM2-1.7B-Instruct | None | [Link](https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B-Instruct) | apache-2.0 | text-generation |
+| cognitivecomputations/Dolphin3.0-R1-Mistral-24B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/cognitivecomputations/Dolphin3.0-R1-Mistral-24B) | Unknown license | text-generation |
+| cognitivecomputations/Dolphin3.0-Mistral-24B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/cognitivecomputations/Dolphin3.0-Mistral-24B) | Unknown license | text-generation |
+| kyutai/hibiki-2b-pytorch-bf16 | http://arxiv.org/abs/1606.02012v1 | [Link](https://huggingface.co/kyutai/hibiki-2b-pytorch-bf16) | cc-by-4.0 | translation |
