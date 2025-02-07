@@ -171,6 +171,6 @@ Updated on 2025-02-07
 | xwen-team/Xwen-7B-Chat | xwen-team/Xwen-7B-Chat | [Link](https://huggingface.co/xwen-team/Xwen-7B-Chat) | apache-2.0 | text-generation |
 | meta-llama/Meta-Llama-3-8B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) | llama3 | text-generation |
 | HuggingFaceTB/SmolLM2-1.7B-Instruct | None | [Link](https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B-Instruct) | apache-2.0 | text-generation |
-| cognitivecomputations/Dolphin3.0-R1-Mistral-24B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/cognitivecomputations/Dolphin3.0-R1-Mistral-24B) | Unknown license | text-generation |
-| cognitivecomputations/Dolphin3.0-Mistral-24B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/cognitivecomputations/Dolphin3.0-Mistral-24B) | Unknown license | text-generation |
-| kyutai/hibiki-2b-pytorch-bf16 | http://arxiv.org/abs/1606.02012v1 | [Link](https://huggingface.co/kyutai/hibiki-2b-pytorch-bf16) | cc-by-4.0 | translation |
+| cognitivecomputations/Dolphin3.0-R1-Mistral-24B | cognitivecomputations/Dolphin3.0-R1-Mistral-24B | [Link](https://huggingface.co/cognitivecomputations/Dolphin3.0-R1-Mistral-24B) | Unknown license | text-generation |
+| cognitivecomputations/Dolphin3.0-Mistral-24B | cognitivecomputations/Dolphin3.0-Mistral-24B | [Link](https://huggingface.co/cognitivecomputations/Dolphin3.0-Mistral-24B) | Unknown license | text-generation |
+| kyutai/hibiki-2b-pytorch-bf16 | kyutai/hibiki-2b-pytorch-bf16 | [Link](https://huggingface.co/kyutai/hibiki-2b-pytorch-bf16) | cc-by-4.0 | translation |
