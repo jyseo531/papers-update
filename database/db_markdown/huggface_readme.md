@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-02-06
+Updated on 2025-02-07
 
 > Generated from the Hugging Face database.
 
@@ -146,7 +146,7 @@ Updated on 2025-02-06
 | jinaai/jina-embeddings-v3 | jinaai/jina-embeddings-v3 | [Link](https://huggingface.co/jinaai/jina-embeddings-v3) | cc-by-nc-4.0 | feature-extraction |
 | bartowski/DeepSeek-R1-GGUF | bartowski/DeepSeek-R1-GGUF | [Link](https://huggingface.co/bartowski/DeepSeek-R1-GGUF) | Unknown license | text-generation |
 | ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4 | ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4 | [Link](https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4) | apache-2.0 | reinforcement-learning |
-| strangerzonehf/Flux-Super-Realism-LoRA | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/strangerzonehf/Flux-Super-Realism-LoRA) | mit | text-to-image |
+| strangerzonehf/Flux-Super-Realism-LoRA | strangerzonehf/Flux-Super-Realism-LoRA | [Link](https://huggingface.co/strangerzonehf/Flux-Super-Realism-LoRA) | mit | text-to-image |
 | lerobot/pi0 | lerobot/pi0 | [Link](https://huggingface.co/lerobot/pi0) | apache-2.0 | robotics |
 | Steelskull/L3.3-Damascus-R1 | Steelskull/L3.3-Damascus-R1 | [Link](https://huggingface.co/Steelskull/L3.3-Damascus-R1) | other | text-generation |
 | nomic-ai/nomic-embed-text-v1.5 | nomic-ai/nomic-embed-text-v1.5 | [Link](https://huggingface.co/nomic-ai/nomic-embed-text-v1.5) | apache-2.0 | sentence-similarity |
@@ -162,3 +162,12 @@ Updated on 2025-02-06
 | PKU-Alignment/Align-DS-V | PKU-Alignment/Align-DS-V | [Link](https://huggingface.co/PKU-Alignment/Align-DS-V) | mit | None |
 | ValueFX9507/Tifa-Deepsex-14b-CoT | ValueFX9507/Tifa-Deepsex-14b-CoT | [Link](https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT) | apache-2.0 | reinforcement-learning |
 | openfree/president-k-dj | openfree/president-k-dj | [Link](https://huggingface.co/openfree/president-k-dj) | other | text-to-image |
+| huihui-ai/DeepSeek-R1-Distill-Llama-8B-abliterated | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/huihui-ai/DeepSeek-R1-Distill-Llama-8B-abliterated) | Unknown license | text-generation |
+| ValueFX9507/Tifa-Deepsex-14b-CoT-Q8 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-Q8) | apache-2.0 | reinforcement-learning |
+| deepseek-ai/deepseek-vl2-tiny | None | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2-tiny) | other | image-text-to-text |
+| huihui-ai/DeepSeek-R1-Distill-Llama-70B-abliterated | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/huihui-ai/DeepSeek-R1-Distill-Llama-70B-abliterated) | Unknown license | text-generation |
+| krutrim-ai-labs/Krutrim-2-instruct | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/krutrim-ai-labs/Krutrim-2-instruct) | other | None |
+| ByteDance/AnimateDiff-Lightning | http://arxiv.org/abs/2410.11971v1 | [Link](https://huggingface.co/ByteDance/AnimateDiff-Lightning) | creativeml-openrail-m | text-to-video |
+| xwen-team/Xwen-7B-Chat | http://arxiv.org/abs/2412.15115v2 | [Link](https://huggingface.co/xwen-team/Xwen-7B-Chat) | apache-2.0 | text-generation |
+| meta-llama/Meta-Llama-3-8B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) | llama3 | text-generation |
+| HuggingFaceTB/SmolLM2-1.7B-Instruct | None | [Link](https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B-Instruct) | apache-2.0 | text-generation |
