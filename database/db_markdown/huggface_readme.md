@@ -179,6 +179,6 @@ Updated on 2025-02-08
 | ibm-granite/granite-vision-3.1-2b-preview | ibm-granite/granite-vision-3.1-2b-preview | [Link](https://huggingface.co/ibm-granite/granite-vision-3.1-2b-preview) | apache-2.0 | image-text-to-text |
 | Comfy-Org/Lumina_Image_2.0_Repackaged | Comfy-Org/Lumina_Image_2.0_Repackaged | [Link](https://huggingface.co/Comfy-Org/Lumina_Image_2.0_Repackaged) | Unknown license | None |
 | stable-diffusion-v1-5/stable-diffusion-v1-5 | http://arxiv.org/abs/2210.12192v1 | [Link](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5) | creativeml-openrail-m | text-to-image |
-| cognitivecomputations/DeepSeek-R1-AWQ | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/cognitivecomputations/DeepSeek-R1-AWQ) | mit | text-generation |
-| ZhengPeng7/BiRefNet_HR | http://arxiv.org/abs/2401.03407v6 | [Link](https://huggingface.co/ZhengPeng7/BiRefNet_HR) | mit | image-segmentation |
-| strangerzonehf/Realism-v3-Flux | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/strangerzonehf/Realism-v3-Flux) | creativeml-openrail-m | text-to-image |
+| cognitivecomputations/DeepSeek-R1-AWQ | cognitivecomputations/DeepSeek-R1-AWQ | [Link](https://huggingface.co/cognitivecomputations/DeepSeek-R1-AWQ) | mit | text-generation |
+| ZhengPeng7/BiRefNet_HR | ZhengPeng7/BiRefNet_HR | [Link](https://huggingface.co/ZhengPeng7/BiRefNet_HR) | mit | image-segmentation |
+| strangerzonehf/Realism-v3-Flux | strangerzonehf/Realism-v3-Flux | [Link](https://huggingface.co/strangerzonehf/Realism-v3-Flux) | creativeml-openrail-m | text-to-image |
