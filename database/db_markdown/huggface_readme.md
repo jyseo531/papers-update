@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-02-07
+Updated on 2025-02-08
 
 > Generated from the Hugging Face database.
 
@@ -174,3 +174,8 @@ Updated on 2025-02-07
 | cognitivecomputations/Dolphin3.0-R1-Mistral-24B | cognitivecomputations/Dolphin3.0-R1-Mistral-24B | [Link](https://huggingface.co/cognitivecomputations/Dolphin3.0-R1-Mistral-24B) | Unknown license | text-generation |
 | cognitivecomputations/Dolphin3.0-Mistral-24B | cognitivecomputations/Dolphin3.0-Mistral-24B | [Link](https://huggingface.co/cognitivecomputations/Dolphin3.0-Mistral-24B) | Unknown license | text-generation |
 | kyutai/hibiki-2b-pytorch-bf16 | kyutai/hibiki-2b-pytorch-bf16 | [Link](https://huggingface.co/kyutai/hibiki-2b-pytorch-bf16) | cc-by-4.0 | translation |
+| kudzueye/boreal-hl-v1 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/kudzueye/boreal-hl-v1) | other | text-to-video |
+| bartowski/cognitivecomputations_Dolphin3.0-R1-Mistral-24B-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/cognitivecomputations_Dolphin3.0-R1-Mistral-24B-GGUF) | Unknown license | text-generation |
+| ibm-granite/granite-vision-3.1-2b-preview | http://arxiv.org/abs/2207.11455v1 | [Link](https://huggingface.co/ibm-granite/granite-vision-3.1-2b-preview) | apache-2.0 | image-text-to-text |
+| Comfy-Org/Lumina_Image_2.0_Repackaged | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Comfy-Org/Lumina_Image_2.0_Repackaged) | Unknown license | None |
+| stable-diffusion-v1-5/stable-diffusion-v1-5 | http://arxiv.org/abs/2210.12192v1 | [Link](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5) | creativeml-openrail-m | text-to-image |

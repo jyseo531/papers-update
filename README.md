@@ -1,4 +1,4 @@
-## Updated on 2025.02.07
+## Updated on 2025.02.08
 
 > Welcome to contribute! Add your topics and keywords in `topic.yml`
 
@@ -14,7 +14,7 @@
 |**2025-02-06**|**Conditional Diffusion Models are Medical Image Classifiers that Provide Explainability and Uncertainty for Free**|Gian Mario Favero et.al.|[2502.03687v1](http://arxiv.org/abs/2502.03687v1)|null|
 |**2025-02-05**|**A Study in Dataset Distillation for Image Super-Resolution**|Tobias Dietz et.al.|[2502.03656v1](http://arxiv.org/abs/2502.03656v1)|null|
 |**2025-02-05**|**Gompertz Linear Units: Leveraging Asymmetry for Enhanced Learning Dynamics**|Indrashis Das et.al.|[2502.03654v1](http://arxiv.org/abs/2502.03654v1)|null|
-|**2025-02-05**|**Clinically-Inspired Hierarchical Multi-Label Classification of Chest X-rays with a Penalty-Based Loss Function**|Mehrdad Asadi et.al.|[2502.03591v1](http://arxiv.org/abs/2502.03591v1)|null|
+|**2025-02-05**|**Clinically-Inspired Hierarchical Multi-Label Classification of Chest X-rays with a Penalty-Based Loss Function**|Mehrdad Asadi et.al.|[2502.03591v1](http://arxiv.org/abs/2502.03591v1)|**[link](https://github.com/the-mercury/CIHMLC)**|
 |**2025-02-05**|**Optimal Task Order for Continual Learning of Multiple Tasks**|Ziyan Li et.al.|[2502.03350v1](http://arxiv.org/abs/2502.03350v1)|null|
 |**2025-02-05**|**Long-tailed Medical Diagnosis with Relation-aware Representation Learning and Iterative Classifier Calibration**|Li Pan et.al.|[2502.03238v1](http://arxiv.org/abs/2502.03238v1)|null|
 |**2025-02-05**|**Adversarial Dependence Minimization**|Pierre-François De Plaen et.al.|[2502.03227v1](http://arxiv.org/abs/2502.03227v1)|null|
