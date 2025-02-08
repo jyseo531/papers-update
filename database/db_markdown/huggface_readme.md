@@ -170,12 +170,15 @@ Updated on 2025-02-08
 | ByteDance/AnimateDiff-Lightning | ByteDance/AnimateDiff-Lightning | [Link](https://huggingface.co/ByteDance/AnimateDiff-Lightning) | creativeml-openrail-m | text-to-video |
 | xwen-team/Xwen-7B-Chat | xwen-team/Xwen-7B-Chat | [Link](https://huggingface.co/xwen-team/Xwen-7B-Chat) | apache-2.0 | text-generation |
 | meta-llama/Meta-Llama-3-8B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) | llama3 | text-generation |
-| HuggingFaceTB/SmolLM2-1.7B-Instruct | None | [Link](https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B-Instruct) | apache-2.0 | text-generation |
+| HuggingFaceTB/SmolLM2-1.7B-Instruct | HuggingFaceTB/SmolLM2-1.7B-Instruct | [Link](https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B-Instruct) | apache-2.0 | text-generation |
 | cognitivecomputations/Dolphin3.0-R1-Mistral-24B | cognitivecomputations/Dolphin3.0-R1-Mistral-24B | [Link](https://huggingface.co/cognitivecomputations/Dolphin3.0-R1-Mistral-24B) | Unknown license | text-generation |
 | cognitivecomputations/Dolphin3.0-Mistral-24B | cognitivecomputations/Dolphin3.0-Mistral-24B | [Link](https://huggingface.co/cognitivecomputations/Dolphin3.0-Mistral-24B) | Unknown license | text-generation |
 | kyutai/hibiki-2b-pytorch-bf16 | kyutai/hibiki-2b-pytorch-bf16 | [Link](https://huggingface.co/kyutai/hibiki-2b-pytorch-bf16) | cc-by-4.0 | translation |
-| kudzueye/boreal-hl-v1 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/kudzueye/boreal-hl-v1) | other | text-to-video |
-| bartowski/cognitivecomputations_Dolphin3.0-R1-Mistral-24B-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/cognitivecomputations_Dolphin3.0-R1-Mistral-24B-GGUF) | Unknown license | text-generation |
-| ibm-granite/granite-vision-3.1-2b-preview | http://arxiv.org/abs/2207.11455v1 | [Link](https://huggingface.co/ibm-granite/granite-vision-3.1-2b-preview) | apache-2.0 | image-text-to-text |
-| Comfy-Org/Lumina_Image_2.0_Repackaged | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Comfy-Org/Lumina_Image_2.0_Repackaged) | Unknown license | None |
+| kudzueye/boreal-hl-v1 | kudzueye/boreal-hl-v1 | [Link](https://huggingface.co/kudzueye/boreal-hl-v1) | other | text-to-video |
+| bartowski/cognitivecomputations_Dolphin3.0-R1-Mistral-24B-GGUF | bartowski/cognitivecomputations_Dolphin3.0-R1-Mistral-24B-GGUF | [Link](https://huggingface.co/bartowski/cognitivecomputations_Dolphin3.0-R1-Mistral-24B-GGUF) | Unknown license | text-generation |
+| ibm-granite/granite-vision-3.1-2b-preview | ibm-granite/granite-vision-3.1-2b-preview | [Link](https://huggingface.co/ibm-granite/granite-vision-3.1-2b-preview) | apache-2.0 | image-text-to-text |
+| Comfy-Org/Lumina_Image_2.0_Repackaged | Comfy-Org/Lumina_Image_2.0_Repackaged | [Link](https://huggingface.co/Comfy-Org/Lumina_Image_2.0_Repackaged) | Unknown license | None |
 | stable-diffusion-v1-5/stable-diffusion-v1-5 | http://arxiv.org/abs/2210.12192v1 | [Link](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5) | creativeml-openrail-m | text-to-image |
+| cognitivecomputations/DeepSeek-R1-AWQ | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/cognitivecomputations/DeepSeek-R1-AWQ) | mit | text-generation |
+| ZhengPeng7/BiRefNet_HR | http://arxiv.org/abs/2401.03407v6 | [Link](https://huggingface.co/ZhengPeng7/BiRefNet_HR) | mit | image-segmentation |
+| strangerzonehf/Realism-v3-Flux | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/strangerzonehf/Realism-v3-Flux) | creativeml-openrail-m | text-to-image |
