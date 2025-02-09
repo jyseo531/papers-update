@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-02-08
+Updated on 2025-02-09
 
 > Generated from the Hugging Face database.
 
@@ -182,3 +182,4 @@ Updated on 2025-02-08
 | cognitivecomputations/DeepSeek-R1-AWQ | cognitivecomputations/DeepSeek-R1-AWQ | [Link](https://huggingface.co/cognitivecomputations/DeepSeek-R1-AWQ) | mit | text-generation |
 | ZhengPeng7/BiRefNet_HR | ZhengPeng7/BiRefNet_HR | [Link](https://huggingface.co/ZhengPeng7/BiRefNet_HR) | mit | image-segmentation |
 | strangerzonehf/Realism-v3-Flux | strangerzonehf/Realism-v3-Flux | [Link](https://huggingface.co/strangerzonehf/Realism-v3-Flux) | creativeml-openrail-m | text-to-image |
+| kyutai/hibiki-1b-mlx-bf16 | http://arxiv.org/abs/1606.02012v1 | [Link](https://huggingface.co/kyutai/hibiki-1b-mlx-bf16) | cc-by-4.0 | translation |
