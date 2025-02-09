@@ -185,4 +185,4 @@ Updated on 2025-02-09
 | kyutai/hibiki-1b-mlx-bf16 | kyutai/hibiki-1b-mlx-bf16 | [Link](https://huggingface.co/kyutai/hibiki-1b-mlx-bf16) | cc-by-4.0 | translation |
 | onnx-community/Kokoro-82M-v1.0-ONNX | onnx-community/Kokoro-82M-v1.0-ONNX | [Link](https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX) | apache-2.0 | text-to-speech |
 | stabilityai/stable-diffusion-3.5-medium | http://arxiv.org/abs/2403.03206v1 | [Link](https://huggingface.co/stabilityai/stable-diffusion-3.5-medium) | other | text-to-image |
-| ibm-granite/granite-3.2-8b-instruct-preview | http://arxiv.org/abs/2207.11455v1 | [Link](https://huggingface.co/ibm-granite/granite-3.2-8b-instruct-preview) | apache-2.0 | text-generation |
+| ibm-granite/granite-3.2-8b-instruct-preview | ibm-granite/granite-3.2-8b-instruct-preview | [Link](https://huggingface.co/ibm-granite/granite-3.2-8b-instruct-preview) | apache-2.0 | text-generation |
