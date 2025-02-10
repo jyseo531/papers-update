@@ -189,3 +189,4 @@ Updated on 2025-02-10
 | mistralai/Mistral-7B-v0.1 | mistralai/Mistral-7B-v0.1 | [Link](https://huggingface.co/mistralai/Mistral-7B-v0.1) | apache-2.0 | text-generation |
 | fishaudio/fish-speech-1.5 | fishaudio/fish-speech-1.5 | [Link](https://huggingface.co/fishaudio/fish-speech-1.5) | cc-by-nc-sa-4.0 | text-to-speech |
 | comfyanonymous/flux_text_encoders | comfyanonymous/flux_text_encoders | [Link](https://huggingface.co/comfyanonymous/flux_text_encoders) | apache-2.0 | None |
+| KwaiVGI/LivePortrait | None | [Link](https://huggingface.co/KwaiVGI/LivePortrait) | mit | None |
