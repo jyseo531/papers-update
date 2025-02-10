@@ -170,6 +170,7 @@ class ToolBox:
         # Move README.md
         readme_path = os.path.join(repo_dir, "README.md")
         if os.path.exists(readme_path):
+            os.remove(target_path)                               # 기존 파일 삭제(추가 2/10)
             shutil.move(readme_path, target_path)
             logger.info(f"Moved README.md to {target_path}")
         else:
