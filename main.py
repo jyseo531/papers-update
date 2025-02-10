@@ -574,7 +574,22 @@ class Scaffold:
         # Copy the Hugging Face markdown file
         shutil.copyfile(huggingface_readme_path, huggingface_target_path)
 
-        logger.info(f"Hugging Face news file copied to {huggingface_target_path}.")
+        #--------------------------
+        
+        # Adding conference_target_path News markdown file
+        conference_readme_path = "./database/db_markdown/conference_readme.md"
+        conference_target_path = os.path.join(SERVER_PATH_DOCS, "Conference", "conference_news.md")
+
+        # Ensure the target directory exists
+        conference_dir = os.path.dirname(conference_target_path)
+        if not os.path.exists(conference_dir):
+            os.makedirs(conference_dir)
+            logger.info(f"Directory {conference_dir} created.")
+
+        # Copy the conference_target_path markdown file
+        shutil.copyfile(conference_readme_path, conference_target_path)
+
+        logger.info(f"Conference news file copied to {conference_target_path}.")
 
 
 
