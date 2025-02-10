@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-02-09
+Updated on 2025-02-10
 
 > Generated from the Hugging Face database.
 
@@ -184,5 +184,7 @@ Updated on 2025-02-09
 | strangerzonehf/Realism-v3-Flux | strangerzonehf/Realism-v3-Flux | [Link](https://huggingface.co/strangerzonehf/Realism-v3-Flux) | creativeml-openrail-m | text-to-image |
 | kyutai/hibiki-1b-mlx-bf16 | kyutai/hibiki-1b-mlx-bf16 | [Link](https://huggingface.co/kyutai/hibiki-1b-mlx-bf16) | cc-by-4.0 | translation |
 | onnx-community/Kokoro-82M-v1.0-ONNX | onnx-community/Kokoro-82M-v1.0-ONNX | [Link](https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX) | apache-2.0 | text-to-speech |
-| stabilityai/stable-diffusion-3.5-medium | http://arxiv.org/abs/2403.03206v1 | [Link](https://huggingface.co/stabilityai/stable-diffusion-3.5-medium) | other | text-to-image |
+| stabilityai/stable-diffusion-3.5-medium | stabilityai/stable-diffusion-3.5-medium | [Link](https://huggingface.co/stabilityai/stable-diffusion-3.5-medium) | other | text-to-image |
 | ibm-granite/granite-3.2-8b-instruct-preview | ibm-granite/granite-3.2-8b-instruct-preview | [Link](https://huggingface.co/ibm-granite/granite-3.2-8b-instruct-preview) | apache-2.0 | text-generation |
+| mistralai/Mistral-7B-v0.1 | http://arxiv.org/abs/2310.06825v1 | [Link](https://huggingface.co/mistralai/Mistral-7B-v0.1) | apache-2.0 | text-generation |
+| fishaudio/fish-speech-1.5 | None | [Link](https://huggingface.co/fishaudio/fish-speech-1.5) | cc-by-nc-sa-4.0 | text-to-speech |

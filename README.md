@@ -1,4 +1,4 @@
-## Updated on 2025.02.09
+## Updated on 2025.02.10
 
 > Welcome to contribute! Add your topics and keywords in `topic.yml`
 
@@ -358,7 +358,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-06**|**Point2RBox-v2: Rethinking Point-supervised Oriented Object Detection with Spatial Layout Among Instances**|Yi Yu et.al.|[2502.04268v1](http://arxiv.org/abs/2502.04268v1)|null|
+|**2025-02-06**|**Point2RBox-v2: Rethinking Point-supervised Oriented Object Detection with Spatial Layout Among Instances**|Yi Yu et.al.|[2502.04268v2](http://arxiv.org/abs/2502.04268v2)|null|
 |**2025-02-06**|**An object detection approach for lane change and overtake detection from motion profiles**|Andrea Benericetti et.al.|[2502.04244v1](http://arxiv.org/abs/2502.04244v1)|null|
 |**2025-02-06**|**YOLOv4: A Breakthrough in Real-Time Object Detection**|Athulya Sundaresan Geetha et.al.|[2502.04161v1](http://arxiv.org/abs/2502.04161v1)|null|
 |**2025-02-06**|**Advanced Object Detection and Pose Estimation with Hybrid Task Cascade and High-Resolution Networks**|Yuhui Jin et.al.|[2502.03877v1](http://arxiv.org/abs/2502.03877v1)|null|
@@ -1600,7 +1600,7 @@
 |**2025-02-06**|**Adapting Human Mesh Recovery with Vision-Language Feedback**|Chongyang Xu et.al.|[2502.03836v1](http://arxiv.org/abs/2502.03836v1)|null|
 |**2025-02-06**|**Boosting Knowledge Graph-based Recommendations through Confidence-Aware Augmentation with Large Language Models**|Rui Cai et.al.|[2502.03715v1](http://arxiv.org/abs/2502.03715v1)|null|
 |**2025-02-05**|**Contrastive Learning for Cold Start Recommendation with Adaptive Feature Fusion**|Jiacheng Hu et.al.|[2502.03664v1](http://arxiv.org/abs/2502.03664v1)|null|
-|**2025-02-05**|**SLCGC: A lightweight Self-supervised Low-pass Contrastive Graph Clustering Network for Hyperspectral Images**|Yao Ding et.al.|[2502.03497v1](http://arxiv.org/abs/2502.03497v1)|null|
+|**2025-02-05**|**SLCGC: A lightweight Self-supervised Low-pass Contrastive Graph Clustering Network for Hyperspectral Images**|Yao Ding et.al.|[2502.03497v2](http://arxiv.org/abs/2502.03497v2)|null|
 |**2025-02-05**|**TopoCL: Topological Contrastive Learning for Time Series**|Namwoo Kim et.al.|[2502.02924v1](http://arxiv.org/abs/2502.02924v1)|null|
 |**2025-02-05**|**MobiCLR: Mobility Time Series Contrastive Learning for Urban Region Representations**|Namwoo Kim et.al.|[2502.02912v1](http://arxiv.org/abs/2502.02912v1)|null|
 |**2025-02-04**|**Mosaic3D: Foundation Dataset and Model for Open-Vocabulary 3D Segmentation**|Junha Lee et.al.|[2502.02548v1](http://arxiv.org/abs/2502.02548v1)|null|
@@ -2890,7 +2890,7 @@
 |**2025-02-06**|**Resolving shortwave and longwave irradiation distributions across the human body in outdoor built environments**|Kambiz Sadeghi et.al.|[2502.04216v1](http://arxiv.org/abs/2502.04216v1)|null|
 |**2025-02-06**|**Enhanced Feature-based Image Stitching for Endoscopic Videos in Pediatric Eosinophilic Esophagitis**|Juming Xiong et.al.|[2502.04207v1](http://arxiv.org/abs/2502.04207v1)|null|
 |**2025-02-06**|**"Short-length" Adversarial Training Helps LLMs Defend "Long-length" Jailbreak Attacks: Theoretical and Empirical Evidence**|Shaopeng Fu et.al.|[2502.04204v1](http://arxiv.org/abs/2502.04204v1)|null|
-|**2025-02-06**|**The Best Instruction-Tuning Data are Those That Fit**|Dylan Zhang et.al.|[2502.04194v1](http://arxiv.org/abs/2502.04194v1)|null|
+|**2025-02-06**|**The Best Instruction-Tuning Data are Those That Fit**|Dylan Zhang et.al.|[2502.04194v2](http://arxiv.org/abs/2502.04194v2)|null|
 |**2025-02-05**|**Seeing World Dynamics in a Nutshell**|Qiuhong Shen et.al.|[2502.03465v1](http://arxiv.org/abs/2502.03465v1)|null|
 |**2025-02-05**|**A Schema-Guided Reason-while-Retrieve framework for Reasoning on Scene Graphs with Large-Language-Models (LLMs)**|Yiye Chen et.al.|[2502.03450v1](http://arxiv.org/abs/2502.03450v1)|null|
 |**2025-02-05**|**Dress-1-to-3: Single Image to Simulation-Ready 3D Outfit with Diffusion Prior and Differentiable Physics**|Xuan Li et.al.|[2502.03449v1](http://arxiv.org/abs/2502.03449v1)|null|
