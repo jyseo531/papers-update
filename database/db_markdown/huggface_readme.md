@@ -188,3 +188,4 @@ Updated on 2025-02-10
 | ibm-granite/granite-3.2-8b-instruct-preview | ibm-granite/granite-3.2-8b-instruct-preview | [Link](https://huggingface.co/ibm-granite/granite-3.2-8b-instruct-preview) | apache-2.0 | text-generation |
 | mistralai/Mistral-7B-v0.1 | mistralai/Mistral-7B-v0.1 | [Link](https://huggingface.co/mistralai/Mistral-7B-v0.1) | apache-2.0 | text-generation |
 | fishaudio/fish-speech-1.5 | fishaudio/fish-speech-1.5 | [Link](https://huggingface.co/fishaudio/fish-speech-1.5) | cc-by-nc-sa-4.0 | text-to-speech |
+| comfyanonymous/flux_text_encoders | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/comfyanonymous/flux_text_encoders) | apache-2.0 | None |
