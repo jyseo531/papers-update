@@ -170,7 +170,7 @@ class ToolBox:
         # Move README.md
         readme_path = os.path.join(repo_dir, "README.md")
         if os.path.exists(readme_path):
-            os.remove(target_path)                               # 기존 파일 삭제(추가 2/10)
+            #os.remove(target_path)                               # 기존 파일 삭제(추가 2/10)
             shutil.move(readme_path, target_path)
             logger.info(f"Moved README.md to {target_path}")
         else:
@@ -553,7 +553,7 @@ class Scaffold:
         # Iterate over each repository and update
         for repo_url in repo_list:
             repo_name = repo_url.split("/")[-1].replace(".git", "")
-            repo_dir = os.path.join(SERVER_PATH_DOCS, "Awesome_Pages📝", repo_name)
+            repo_dir = os.path.join(SERVER_PATH_DOCS, "Awesome_Pages", repo_name)
             # target_readme_path = os.path.join(repo_dir, f"{repo_name}_README.md")
             target_readme_path = os.path.join(repo_dir)
 
@@ -565,7 +565,7 @@ class Scaffold:
         
         # Adding Hugging Face News markdown file
         huggingface_readme_path = "./database/db_markdown/huggface_readme.md"
-        huggingface_target_path = os.path.join(SERVER_PATH_DOCS, "HuggingFace🤗", "huggface_news.md")
+        huggingface_target_path = os.path.join(SERVER_PATH_DOCS, "HuggingFace", "huggface_news.md")
 
         # Ensure the target directory exists
         huggingface_dir = os.path.dirname(huggingface_target_path)
@@ -580,7 +580,7 @@ class Scaffold:
 
         # Adding conference_target_path News markdown file
         conference_readme_path = "./database/db_markdown/conference_readme.md"
-        conference_target_path = os.path.join(SERVER_PATH_DOCS, "Conference🫂", "conference_news.md")
+        conference_target_path = os.path.join(SERVER_PATH_DOCS, "Conference", "conference_news.md")
 
         # Ensure the target directory exists
         conference_dir = os.path.dirname(conference_target_path)
