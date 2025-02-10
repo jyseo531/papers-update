@@ -169,6 +169,9 @@ class ToolBox:
 
         # Move README.md
         readme_path = os.path.join(repo_dir, "README.md")
+        if os.path.exists(readme_path):
+            shutil.move(readme_path, target_path)
+            logger.info(f"Moved README.md to {target_path}")
 
         # if os.path.exists(readme_path):
         #     # 기존 target_path가 존재하면 삭제 (파일 또는 폴더 구분)
@@ -177,8 +180,7 @@ class ToolBox:
         #     elif os.path.isdir(target_path):
         #         shutil.rmtree(target_path)
 
-            shutil.move(readme_path, target_path)
-            logger.info(f"Moved README.md to {target_path}")
+            
         else:
             logger.warning(f"README.md not found in {repo_dir}")
 
