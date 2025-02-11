@@ -1,0 +1,2550 @@
+{
+    "Audio-Text-to-Text": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Image-Text-to-Text": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Visual Question Answering": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Document Question Answering": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Video-Text-to-Text": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Visual Document Retrieval": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Any-to-Any": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Depth Estimation": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Image Classification": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Object Detection": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Image Segmentation": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Text-to-Image": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Image-to-Text": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Image-to-Image": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Image-to-Video": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Unconditional Image Generation": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Video Classification": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Text-to-Video": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Zero-Shot Image Classification": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Mask Generation": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Zero-Shot Object Detection": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Text-to-3D": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Image-to-3D": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Image Feature Extraction": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Keypoint Detection": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Text Classification": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Token Classification": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Table Question Answering": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Question Answering": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Zero-Shot Classification": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Translation": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Summarization": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Feature Extraction": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Text Generation": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Text2Text Generation": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Fill-Mask": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Sentence Similarity": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Text-to-Speech": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Text-to-Audio": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Automatic Speech Recognition": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Audio-to-Audio": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Audio Classification": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Voice Activity Detection": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Tabular Classification": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Tabular Regression": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Time Series Forecasting": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Reinforcement Learning": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Robotics": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ],
+    "Graph Machine Learning": [
+        {
+            "Model Name": "deepseek-ai/DeepSeek-R1Text Generation•Updated2 days ago•2.67M••8.15k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+        },
+        {
+            "Model Name": "ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement Learning•Updated3 days ago•40.3k•406",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4"
+        },
+        {
+            "Model Name": "deepseek-ai/Janus-Pro-7BAny-to-Any•Updated10 days ago•370k•2.84k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/Janus-Pro-7B"
+        },
+        {
+            "Model Name": "Zyphra/Zonos-v0.1-hybridText-to-Speech•Updatedabout 10 hours ago•80•289",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/Zyphra/Zonos-v0.1-hybrid"
+        },
+        {
+            "Model Name": "hexgrad/Kokoro-82MText-to-Speech•Updated9 days ago•300k•3.02k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/hexgrad/Kokoro-82M"
+        },
+        {
+            "Model Name": "deepseek-ai/DeepSeek-V3Text Generation•Updated18 days ago•1.22M••3.34k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "Model Name": "simplescaling/s1-32BText Generation•Updatedabout 11 hours ago•5.39k•236",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/simplescaling/s1-32B"
+        },
+        {
+            "Model Name": "unsloth/DeepSeek-R1-GGUFText Generation•Updated2 days ago•792k•697",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/unsloth/DeepSeek-R1-GGUF"
+        },
+        {
+            "Model Name": "black-forest-labs/FLUX.1-devText-to-Image•UpdatedAug 16, 2024•1.58M••8.62k",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+        },
+        {
+            "Model Name": "mistralai/Mistral-Small-24B-Instruct-2501Text Generation•Updated9 days ago•263k••691",
+            "Downloads": "•",
+            "Link": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501"
+        }
+    ]
+}

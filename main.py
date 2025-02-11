@@ -422,7 +422,7 @@ class Scaffold:
         Start the test sample.
 
         Usage: python daily_arxiv.py run
-        or: python daily_arxiv.py run --env=production  生产环境下运行
+        or: python daily_arxiv.py run --env=production  
 
         @param power:  synergy power. The recommended value interval is [2,16].The default value is 37.
         @param env: Optional with [development production]

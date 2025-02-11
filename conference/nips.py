@@ -109,8 +109,8 @@ def scrape_neurips_data(base_url, session_type, page_count):
             all_papers.append({
                 'title': title,
                 'authors': authors,
-                'pdf_link': paper_link,
-                'code_url': code_url
+                'pdf_link': "NULL",
+                'code_url': paper_link
             })
 
 
