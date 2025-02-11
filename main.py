@@ -129,14 +129,14 @@ class ToolBox:
     #         logger.warning(f"README.md not found in {repo_dir}")
     @staticmethod
     def remove_non_readme_files(repo_dir: str):
-    keep_dirs = ["README.md", ".git", "assets", "images", "media"]
-    for item in os.listdir(repo_dir):
-        item_path = os.path.join(repo_dir, item)
-        if item not in keep_dirs and not item.endswith(".md"):  # ❌ Markdown 삭제 방지
-            if os.path.isdir(item_path):
-                shutil.rmtree(item_path)
-            else:
-                os.remove(item_path)
+        keep_dirs = ["README.md", ".git", "assets", "images", "media"]
+        for item in os.listdir(repo_dir):
+            item_path = os.path.join(repo_dir, item)
+            if item not in keep_dirs and not item.endswith(".md"):  # ❌ Markdown 삭제 방지
+                if os.path.isdir(item_path):
+                    shutil.rmtree(item_path)
+                else:
+                    os.remove(item_path)
 
 
 

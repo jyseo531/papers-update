@@ -23,7 +23,6 @@ except ImportError:
 # from using_ocr import load_model, loading_pdf_image, perform_ocr, extract_link
 
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
-MODEL_PATH = "./EraX-VL-7B-V1.0"
 
 
 # SQLite DB 초기화
