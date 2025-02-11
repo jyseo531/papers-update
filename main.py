@@ -134,6 +134,19 @@ class ToolBox:
         
         logger.info(f"Removed all non-essential files from {repo_dir}")
 
+    @staticmethod
+    def get_citation_count(arxiv_id):
+        """
+        Semantic Scholar API를 사용하여 논문의 인용 수 가져오기
+        """
+        try:
+            response = requests.get(f"https://api.semanticscholar.org/v1/paper/arXiv:{arxiv_id}")
+            if response.status_code == 200:
+                data = response.json()
+                return data.get("citationCount", None)  # 인용 수 반환 (없으면 None)
+        except Exception as e:
+            logger.error(f"Error fetching citation count for {arxiv_id}: {e}")
+        return None
 
     @staticmethod
     def update_readme(repo_url: str, repo_dir: str, target_path: str):
@@ -301,8 +314,9 @@ class CoroutineSpeedup:
                         "authors": f"{paper_first_author} et.al.",
                         "id": paper_id,
                         "paper_url": paper_url,
-                        "updated_time": updated_time,  # 추가
+                        "updated_time": updated_time,   # 추가
                         "repo": repo_url,
+                        "citation" : citation_count,    # 추가
                     },
                 }
             )
@@ -400,8 +414,10 @@ class _OverloadTasks:
 
     def _generate_markdown_table_content(self, paper: dict):
         paper["publish_time"] = f"**{paper['publish_time']}**"
-        paper["updated_time"] = f"**{paper['updated_time']}**"  # 추가
+        paper["updated_time"] = f"**{paper['updated_time']}**"      # 추가
         paper["title"] = f"**{paper['title']}**"
+        paper["citation"] = paper.get("citation", "N/A")             # ⬅️ citation 추가
+
         _pdf = self._set_markdown_hyperlink(text=paper["id"], link=paper["paper_url"])
         _repo = (
             self._set_markdown_hyperlink(text="link", link=paper["repo"])
@@ -415,7 +431,8 @@ class _OverloadTasks:
             f"|{paper['authors']}"
             f"|{_pdf}"
             f"|{paper['updated_time']}"
-            f"|{_repo}|\n"
+            f"|{_repo}"
+            f"|{paper['citation']}|\n"  # ⬅️ citation 추가
         )
 
         return line
