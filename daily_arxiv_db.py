@@ -42,8 +42,7 @@ def init_db(db_name="arxiv.db"):
             first_author TEXT,
             pdf_url TEXT,
             updated_date TEXT,
-            code_url TEXT,
-        )
+            code_url TEXT
     """)
     conn.commit()
     return conn
