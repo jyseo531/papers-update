@@ -152,7 +152,7 @@ def db_to_md(conn, md_filename="README.md"):
                 """, (topic_name, subtopic_name))
                 papers = cursor.fetchall()
                 for paper in papers:
-                    publish_date, title, authors, pdf_url, updated_date, code_url, citation = paper
+                    publish_date, title, authors, pdf_url, updated_date, code_url = paper
                     code_link = f"[link]({code_url})" if code_url else "null"
                     
                     f.write(f"|{publish_date}|**{title}**|{authors}|[PDF]({pdf_url})|{updated_date}|{code_link}|\n")
