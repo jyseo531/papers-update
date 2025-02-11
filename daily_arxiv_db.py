@@ -152,10 +152,10 @@ def get_daily_papers(topic: str, query: str = "slam", max_results=2, model=None,
             if "official" in r and r["official"]:
                 repo_url = r["official"]["url"]
                 # content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
-                content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**{updated_time}**|**[link]({repo_url}**|{Citation})**|\n"
+                content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**{updated_time}**|**[link]({repo_url}**|{citation_count})**|\n"
             
             else: # OCR 
-                content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**{updated_time}**|null|{Citation})**|\n"
+                content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**{updated_time}**|null|{citation_count})**|\n"
         
         except Exception as e:
             print(f"Exception: {e} with id: {paper_id}")
@@ -189,7 +189,7 @@ def db_to_md(conn, md_filename="README.md"):
                 f.write("|Publish Date|Title|Authors|PDF|Last Updated|Code|Citations|\n")
                 f.write("|:-----------|:-----|:------|:---|:---|:---|:---|\n")
                 cursor.execute("""
-                    SELECT publish_date, title, authors, pdf_url, updated_date, code_url, citation
+                    SELECT publish_date, title, authors, pdf_url, updated_date, code_url, citation_count
                     FROM papers
                     WHERE topic=? AND subtopic=?
                     ORDER BY publish_date DESC
@@ -229,7 +229,7 @@ if __name__ == "__main__":
     save_to_db(conn, data_collector)
     
     # Generate Markdown file from database
-    db_to_md(conn, 'database/db_markdown/readme.md')
+    db_to_md(conn, 'README.md')
     conn.close()
     
     print("Data saved to SQLite database and Markdown file generated.")
