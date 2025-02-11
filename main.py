@@ -129,17 +129,15 @@ class ToolBox:
     #         logger.warning(f"README.md not found in {repo_dir}")
     @staticmethod
     def remove_non_readme_files(repo_dir: str):
-        """Removes all files and folders in the repository except README.md, .git, and assets folder."""
-        keep_dirs = ["README.md", ".git", "assets", "images", "media"]  # ✅ 유지할 폴더 추가
-        for item in os.listdir(repo_dir):
-            item_path = os.path.join(repo_dir, item)
-            if item not in keep_dirs:  # ❌ 제외 리스트에 포함된 항목은 삭제하지 않음
-                if os.path.isdir(item_path):
-                    shutil.rmtree(item_path)
-                else:
-                    os.remove(item_path)
-        
-        logger.info(f"Removed all non-essential files from {repo_dir}")
+    keep_dirs = ["README.md", ".git", "assets", "images", "media"]
+    for item in os.listdir(repo_dir):
+        item_path = os.path.join(repo_dir, item)
+        if item not in keep_dirs and not item.endswith(".md"):  # ❌ Markdown 삭제 방지
+            if os.path.isdir(item_path):
+                shutil.rmtree(item_path)
+            else:
+                os.remove(item_path)
+
 
 
     @staticmethod
@@ -167,7 +165,7 @@ class ToolBox:
                 return
 
         # Remove unnecessary files but keep README.md and assets
-        ToolBox.remove_non_readme_files(repo_dir)
+        #ToolBox.remove_non_readme_files(repo_dir)
 
         # Ensure target directory exists
         target_dir = os.path.dirname(target_path)

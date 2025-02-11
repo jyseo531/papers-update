@@ -128,48 +128,53 @@ def get_yaml_data(yaml_file: str):
         data = yaml.load(fs, Loader=Loader)
     return data
 
-
-
-def get_daily_papers(topic: str, query: str = "slam", max_results=2, model=None, processor=None):
+def get_all_papers_since_2023(topic: str, query: str = "slam"):
     content = dict()
-
-    # ✅ 2023년 이후 논문만 검색하도록 쿼리 수정
     start_date = "20230101"
-    query_with_date = f"{query} AND submittedDate:[{start_date} TO 30001231]" 
+    query_with_date = f"{query} AND submittedDate:[{start_date} TO 30001231]"
 
     search_engine = arxiv.Search(
         query=query_with_date,
-        max_results=max_results,
+        max_results=None,  # ✅ max_results 없이 모든 논문 가져오기
         sort_by=arxiv.SortCriterion.SubmittedDate
     )
 
+    paper_list = []
+    
+    # ✅ arXiv API는 Generator를 사용하므로 모든 결과를 하나씩 가져올 수 있음
     for result in search_engine.results():
         paper_id = result.get_short_id()
         paper_title = result.title
         paper_url = result.entry_id
         code_url = base_url + paper_id
         paper_authors = get_authors(result.authors)
-        paper_first_author = get_authors(result.authors, first_author=True)
         publish_time = result.published.date()
-
-        # ✅ 필터링: 2022년 이후 논문만 저장
-        if publish_time.year < 2022:
-            continue  # 2022년 이전 논문은 저장하지 않음
-
         updated_time = result.updated.date()
+
+        if publish_time.year < 2023:
+            continue  # ✅ 2023년 이전 논문 제외
+
+        # ✅ Google Scholar에서 citation 가져오기
         citation_count = get_citation_count(paper_title)
 
-        try:
-            r = requests.get(code_url).json()
-            if "official" in r and r["official"]:
-                repo_url = r["official"]["url"]
-                content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**{updated_time}**|**[link]({repo_url})**|{citation_count}|\n"
-            else:
-                content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**{updated_time}**|null|{citation_count}|\n"
-        except Exception as e:
-            print(f"Exception: {e} with id: {paper_id}")
+        paper_list.append({
+            "id": paper_id,
+            "title": paper_title,
+            "authors": paper_authors,
+            "publish_time": publish_time,
+            "updated_time": updated_time,
+            "pdf_url": paper_url,
+            "citation": citation_count if citation_count is not None else 0
+        })
+
+    # ✅ 인용 수 기준으로 내림차순 정렬 후 저장
+    sorted_papers = sorted(paper_list, key=lambda x: x["citation"], reverse=True)
+
+    for paper in sorted_papers:
+        content[paper["id"]] = f"|**{paper['publish_time']}**|**{paper['title']}**|{paper['authors']} et.al.|[{paper['id']}]({paper['pdf_url']})|**{paper['updated_time']}**|null|{paper['citation']}|\n"
 
     return {topic: content}
+
 
 
 
@@ -226,7 +231,7 @@ if __name__ == "__main__":
             print("Processing Keyword:", subtopic)
             try:
                 processor=None
-                data = get_daily_papers(subtopic, query=keyword, max_results=10, model=None, processor=processor)
+                data = get_all_papers_since_2023(subtopic, query=keyword)
             except Exception as e:
                 print(f"Error processing {subtopic}: {e}")
                 data = None
@@ -239,7 +244,7 @@ if __name__ == "__main__":
     save_to_db(conn, data_collector)
     
     # Generate Markdown file from database
-    db_to_md(conn, "./database/db_markdown/arxiv_README.md")
+    db_to_md(conn, "./database/db_markdown/arxiv_citation_all.md")
     conn.close()
     
     print("Data saved to SQLite database and Markdown file generated.")
