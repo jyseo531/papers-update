@@ -195,4 +195,4 @@ Updated on 2025-02-11
 | tomg-group-umd/huginn-0125 | tomg-group-umd/huginn-0125 | [Link](https://huggingface.co/tomg-group-umd/huginn-0125) | apache-2.0 | text-generation |
 | GAIR/LIMO | GAIR/LIMO | [Link](https://huggingface.co/GAIR/LIMO) | Unknown license | None |
 | microsoft/Florence-2-large | microsoft/Florence-2-large | [Link](https://huggingface.co/microsoft/Florence-2-large) | mit | image-text-to-text |
-| agentica-org/DeepScaleR-1.5B-Preview | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/agentica-org/DeepScaleR-1.5B-Preview) | mit | None |
+| agentica-org/DeepScaleR-1.5B-Preview | agentica-org/DeepScaleR-1.5B-Preview | [Link](https://huggingface.co/agentica-org/DeepScaleR-1.5B-Preview) | mit | None |
