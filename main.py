@@ -127,19 +127,7 @@ class ToolBox:
     #         logger.info(f"Updated README.md copied to {target_path}")
     #     else:
     #         logger.warning(f"README.md not found in {repo_dir}")
-    @staticmethod
-    def remove_non_readme_files(repo_dir: str):
-        keep_dirs = ["README.md", ".git", "assets", "images", "media"]
-        for item in os.listdir(repo_dir):
-            item_path = os.path.join(repo_dir, item)
-            if item not in keep_dirs and not item.endswith(".md"):  # ❌ Markdown 삭제 방지
-                if os.path.isdir(item_path):
-                    shutil.rmtree(item_path)
-                else:
-                    os.remove(item_path)
-
-
-
+    
     @staticmethod
     def update_readme(repo_url: str, repo_dir: str, target_path: str):
         """
@@ -258,7 +246,7 @@ class CoroutineSpeedup:
 
             response = ToolBox.handle_html(code_url)
             official_ = response.get("official")
-    
+            repo_url = official_.get("url", "null") if official_ else "null"
             _paper.update(
                 {
                     paper_key: {
@@ -268,8 +256,7 @@ class CoroutineSpeedup:
                         "id": paper_id,
                         "paper_url": paper_url,
                         "updated_time": updated_time,   # 추가
-                       
-                       
+                        "repo": repo_url,
                     },
                 }
             )
