@@ -413,7 +413,7 @@ class _OverloadTasks:
         paper["publish_time"] = f"**{paper['publish_time']}**"
         paper["updated_time"] = f"**{paper['updated_time']}**"      # 추가
         paper["title"] = f"**{paper['title']}**"
-        paper["citation"] = paper.get("citation", "N/A")             # ⬅️ citation 추가
+        paper["citation"] = f"**{paper['citation']}**"          # ⬅️ citation 추가
 
         _pdf = self._set_markdown_hyperlink(text=paper["id"], link=paper["paper_url"])
         _repo = (
