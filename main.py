@@ -268,7 +268,7 @@ class CoroutineSpeedup:
                         "id": paper_id,
                         "paper_url": paper_url,
                         "updated_time": updated_time,   # 추가
-                        "repo": repo_url,
+                       
                        
                     },
                 }
