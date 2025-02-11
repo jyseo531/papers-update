@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 
 # 데이터베이스 설정
 DB_DIR = "database/"
-DB_NAME = os.path.join(DB_DIR, "naacl_papers.db")
+DB_NAME = os.path.join(DB_DIR, "acl_papers.db")
 
 def init_db():
     """SQLite 데이터베이스 초기화"""
@@ -74,7 +74,7 @@ def save_to_db(papers):
     print(f"✅ {len(papers)} papers saved to {DB_NAME}")
 
 if __name__ == "__main__":
-    naacl_url = "https://2024.naacl.org/program/accepted_papers/"
+    naacl_url = "https://2024.aclweb.org/program/main_conference_papers/"
     
     # 1. 데이터베이스 초기화
     init_db()

@@ -5,9 +5,16 @@ import json
 import re
 import time
 import datetime
+from config import (
+    SERVER_DIR_RECOMMEND
+    logger,
+)
 
 # SQLite DB 경로 (올바른 경로 설정)
-DB_PATH = "recommend/recommend_huggingface_models.db"
+# DB_PATH = "recommend/recommend_huggingface_models.db"
+
+DB_PATH = os.path.join(SERVER_PATH_RECOMMEND, "recommend_huggingface_model.db")
+
 HF_URL = "https://huggingface.co/models"
 
 # 1️⃣ DB 초기화 함수

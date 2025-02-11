@@ -20,6 +20,7 @@ SERVER_PATH_DOCS = join(SERVER_DIR_PROJECT, "docs")
 os.makedirs(SERVER_PATH_DOCS, exist_ok=True)
 
 # 文件数据库 目录根
+SERVER_DIR_RECOMMEND = join(SERVER_DIR_PROJECT, "recommend")
 SERVER_DIR_DATABASE = join(SERVER_DIR_PROJECT, "database")
 
 SERVER_DIR_STORAGE = join(SERVER_DIR_DATABASE, "storage")
