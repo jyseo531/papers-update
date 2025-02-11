@@ -5,6 +5,7 @@ import json
 import re
 import time
 import datetime
+monkey.patch_all()
 from config import (
     SERVER_DIR_RECOMMEND
 )
