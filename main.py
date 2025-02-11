@@ -295,7 +295,7 @@ class CoroutineSpeedup:
 
             publish_time = result.published.date()
             updated_time = result.updated.date()  # updated 날짜 추가
-            citation_count = ToolBox.get_citation_count(title)
+            citation_count = ToolBox.get_citation_count(paper_title)
 
             ver_pos = paper_id.find("v")
             paper_key = paper_id if ver_pos == -1 else paper_id[0:ver_pos]
