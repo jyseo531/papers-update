@@ -190,8 +190,9 @@ Updated on 2025-02-11
 | fishaudio/fish-speech-1.5 | fishaudio/fish-speech-1.5 | [Link](https://huggingface.co/fishaudio/fish-speech-1.5) | cc-by-nc-sa-4.0 | text-to-speech |
 | comfyanonymous/flux_text_encoders | comfyanonymous/flux_text_encoders | [Link](https://huggingface.co/comfyanonymous/flux_text_encoders) | apache-2.0 | None |
 | KwaiVGI/LivePortrait | KwaiVGI/LivePortrait | [Link](https://huggingface.co/KwaiVGI/LivePortrait) | mit | None |
-| Zyphra/Zonos-v0.1-hybrid | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Zyphra/Zonos-v0.1-hybrid) | apache-2.0 | text-to-speech |
-| Zyphra/Zonos-v0.1-transformer | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Zyphra/Zonos-v0.1-transformer) | apache-2.0 | None |
-| tomg-group-umd/huginn-0125 | None | [Link](https://huggingface.co/tomg-group-umd/huginn-0125) | apache-2.0 | text-generation |
-| GAIR/LIMO | http://arxiv.org/abs/2305.02171v1 | [Link](https://huggingface.co/GAIR/LIMO) | Unknown license | None |
-| microsoft/Florence-2-large | None | [Link](https://huggingface.co/microsoft/Florence-2-large) | mit | image-text-to-text |
+| Zyphra/Zonos-v0.1-hybrid | Zyphra/Zonos-v0.1-hybrid | [Link](https://huggingface.co/Zyphra/Zonos-v0.1-hybrid) | apache-2.0 | text-to-speech |
+| Zyphra/Zonos-v0.1-transformer | Zyphra/Zonos-v0.1-transformer | [Link](https://huggingface.co/Zyphra/Zonos-v0.1-transformer) | apache-2.0 | None |
+| tomg-group-umd/huginn-0125 | tomg-group-umd/huginn-0125 | [Link](https://huggingface.co/tomg-group-umd/huginn-0125) | apache-2.0 | text-generation |
+| GAIR/LIMO | GAIR/LIMO | [Link](https://huggingface.co/GAIR/LIMO) | Unknown license | None |
+| microsoft/Florence-2-large | microsoft/Florence-2-large | [Link](https://huggingface.co/microsoft/Florence-2-large) | mit | image-text-to-text |
+| agentica-org/DeepScaleR-1.5B-Preview | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/agentica-org/DeepScaleR-1.5B-Preview) | mit | None |
