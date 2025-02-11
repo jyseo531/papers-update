@@ -146,7 +146,7 @@ def get_daily_papers(topic: str, query: str = "slam", max_results=2, model=None,
         paper_first_author = get_authors(result.authors, first_author=True)
         publish_time = result.published.date()
         updated_time = result.updated.date()    # 최종 업데이트 날짜 추가 
-        citation_count = get_citation_count(title)
+        citation_count = get_citation_count(paper_title)  # ✅ 수정 완료
         try:
             r = requests.get(code_url).json()
             if "official" in r and r["official"]:
