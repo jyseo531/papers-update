@@ -43,6 +43,21 @@ def init_db(db_name="arxiv.db"):
     conn.commit()
     return conn
 
+# 논문의 인용 수 가져오기
+def get_citation_count(arxiv_id):
+    try:
+        response = requests.get(f"{SEMANTIC_SCHOLAR_API}{arxiv_id}")
+        if response.status_code == 200:
+            data = response.json()
+            return data.get("citationCount", None)  # 인용 수 반환 (없으면 None)
+        else:
+            print(f"Semantic Scholar API 요청 실패: {response.status_code}")
+            return None
+    except Exception as e:
+        print(f"Error fetching citation count for {arxiv_id}: {e}")
+        return None
+        
+
 def save_to_db(conn, data):
     cursor = conn.cursor()
     for topic, subtopics in data.items():
@@ -57,6 +72,9 @@ def save_to_db(conn, data):
                 pdf_url = fields[4].split("(")[-1].strip(")")
                 updated_date = fields[5].strip("**")  # updated_date 추가
                 code_url = fields[6].split("(")[-1].strip(")") if "link" in fields[5] else None
+
+                citation_count = get_citation_count(paper_id)
+
                 # Insert into database
                 cursor.execute("""
                     INSERT OR IGNORE INTO papers
@@ -158,6 +176,7 @@ def db_to_md(conn, md_filename="README.md"):
                 for paper in papers:
                     publish_date, title, authors, pdf_url, updated_date, code_url, citation = paper
                     code_link = f"[link]({code_url})" if code_url else "null"
+                    citation_count = citation if citation is not None else "N/A"
                     f.write(f"|{publish_date}|**{title}**|{authors}|[PDF]({pdf_url})|{updated_date}|{code_link}|{citation_count}|\n")
                 f.write("\n")
     print(f"Markdown file '{md_filename}' generated successfully.")
