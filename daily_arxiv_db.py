@@ -43,6 +43,7 @@ def init_db(db_name="arxiv.db"):
             pdf_url TEXT,
             updated_date TEXT,
             code_url TEXT
+        )  # ✅ 테이블 종료 괄호 추가!
     """)
     conn.commit()
     return conn
