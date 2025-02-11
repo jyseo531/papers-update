@@ -143,7 +143,7 @@ def save_models_to_db(data):
     print("✅ 데이터가 DB에 저장되었습니다!")
 
 # 6️⃣ Markdown 변환 함수
-def db_to_md(conn, md_filename="recommand/recommand_huggingface_models.md"):
+def db_to_md(conn, md_filename="database/db_markdown/recommand_huggingface_models.md"):
     """
     SQLite DB 데이터를 읽어 Markdown 파일로 변환하여 저장하는 함수.
     """
