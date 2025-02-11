@@ -21,6 +21,13 @@ from datetime import datetime
 import requests
 import arxiv
 import yaml
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from webdriver_manager.chrome import ChromeDriverManager
 
 from fire import Fire
 
@@ -135,18 +142,47 @@ class ToolBox:
         logger.info(f"Removed all non-essential files from {repo_dir}")
 
     @staticmethod
-    def get_citation_count(arxiv_id):
-        """
-        Semantic Scholar API를 사용하여 논문의 인용 수 가져오기
-        """
+    # 논문의 인용 수 가져오기
+    def get_citation_count(query):
         try:
-            response = requests.get(f"https://api.semanticscholar.org/v1/paper/arXiv:{arxiv_id}")
-            if response.status_code == 200:
-                data = response.json()
-                return data.get("citationCount", None)  # 인용 수 반환 (없으면 None)
+            search_url = f"https://scholar.google.com/scholar?q={query.replace(' ', '+')}"
+            print(f"Requesting: {search_url}")
+
+            # Chrome Headless 설정 (UI 없이 실행)
+            chrome_options = Options()
+            chrome_options.add_argument("--headless")  # GUI 없이 실행
+            chrome_options.add_argument("--no-sandbox")
+            chrome_options.add_argument("--disable-dev-shm-usage")
+
+            # WebDriver 실행
+            driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
+            driver.get(search_url)
+
+            # 페이지 로딩 대기
+            time.sleep(3)
+
+            # "인용" 관련된 첫 번째 요소 찾기
+            try:
+                citation_elements = WebDriverWait(driver, 10).until(
+                    EC.presence_of_all_elements_located((By.XPATH, "//div[@class='gs_ri']//a[contains(text(), '인용')]"))
+                )
+
+                if citation_elements:
+                    citation_text = citation_elements[0].text  # 예: "103회 인용"
+                    citation_count = int(''.join(filter(str.isdigit, citation_text)))  # 숫자만 추출
+                else:
+                    citation_count = None
+                    print("Citation count not found. Google might have blocked the request.")
+            except:
+                citation_count = None
+                print("Citation count not found. Google might have blocked the request.")
+
+            driver.quit()
+            return citation_count
+
         except Exception as e:
-            logger.error(f"Error fetching citation count for {arxiv_id}: {e}")
-        return None
+            print(f"Error fetching citation count: {e}")
+            return None
 
     @staticmethod
     def update_readme(repo_url: str, repo_dir: str, target_path: str):
@@ -193,21 +229,10 @@ class ToolBox:
         #     elif os.path.isdir(target_path):
         #         shutil.rmtree(target_path)
 
-            
         else:
             logger.warning(f"README.md not found in {repo_dir}")
 
-        # Move assets folder (if exists)
-        assets_path = os.path.join(repo_dir, "assets")
-        target_assets_path = os.path.join(target_dir, "assets")  # 📌 assets를 target_path와 동일한 위치에 유지
-        if os.path.exists(assets_path):
-            if os.path.exists(target_assets_path):
-                shutil.rmtree(target_assets_path)  # 기존 assets 삭제
-            shutil.move(assets_path, target_assets_path)  # assets 폴더 이동
-            logger.info(f"Moved assets folder to {target_assets_path}")
-
-        # ✅ `repo_dir`은 삭제하지 않음! (폴더 유지)
-
+        
 
 class CoroutineSpeedup:
     """轻量化的协程控件"""
@@ -270,42 +295,14 @@ class CoroutineSpeedup:
 
             publish_time = result.published.date()
             updated_time = result.updated.date()  # updated 날짜 추가
+            citation_count = ToolBox.get_citation_count(title)
+
             ver_pos = paper_id.find("v")
             paper_key = paper_id if ver_pos == -1 else paper_id[0:ver_pos]
 
-            # 尝试获取仓库代码
-            # ----------------------------------------------------------------------------------
-            # Origin(r)
-            # ----------------------------------------------------------------------------------
-            # {
-            #   'paper_url': 'https://',
-            #   'official': {'url': 'https://github.com/nyu-wireless/mmwRobotNav'},
-            #   'all_official': [{'url': 'https://github.com/nyu-wireless/mmwRobotNav'}],
-            #   'unofficial_count': 0,
-            #   'frameworks': [],
-            #   'status': 'OK'
-            # }
-            # ----------------------------------------------------------------------------------
-            # None(r)
-            # ----------------------------------------------------------------------------------
-            # {
-            #   'paper_url': 'https://',
-            #   'official': None,
-            #   'all_official': [],
-            #   'unofficial_count': 0,
-            #   'frameworks': [],
-            #   'status': 'OK'
-            # }
             response = ToolBox.handle_html(code_url)
             official_ = response.get("official")
-            repo_url = official_.get("url", "null") if official_ else "null"
-            # ----------------------------------------------------------------------------------
-            # 编排模型
-            # ----------------------------------------------------------------------------------
-            # IF repo
-            #   |publish_time|paper_title|paper_first_author|[paper_id](paper_url)|`[link](url)`
-            # ELSE
-            #   |publish_time|paper_title|paper_first_author|[paper_id](paper_url)|`null`
+    
             _paper.update(
                 {
                     paper_key: {
@@ -325,7 +322,7 @@ class CoroutineSpeedup:
                 "paper": _paper,
                 "topic": context["hook"]["topic"],
                 "subtopic": context["hook"]["subtopic"],
-                "fields": ["Publish Date", "Title", "Authors", "PDF", "Last Updated", "Code"],
+                "fields": ["Publish Date", "Title", "Authors", "PDF", "Last Updated", "Code", "Citation"],
             }
         )
         logger.success(
@@ -587,7 +584,8 @@ class Scaffold:
 
         logger.info("All awesome repositories updated successfully.")
 
-        
+        # ---------------------------------------------
+
         # Adding Hugging Face News markdown file
         huggingface_readme_path = "./database/db_markdown/huggface_readme.md"
         huggingface_target_path = os.path.join(SERVER_PATH_DOCS, "HuggingFace", "huggface_news.md")
@@ -601,7 +599,7 @@ class Scaffold:
         # Copy the Hugging Face markdown file
         shutil.copyfile(huggingface_readme_path, huggingface_target_path)
 
-        #--------------------------
+        # ---------------------------------------------
 
         # Adding conference_target_path News markdown file
         conference_readme_path = "./database/db_markdown/conference_readme.md"

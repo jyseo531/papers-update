@@ -7,6 +7,14 @@ import os
 import yaml
 import time
 import random
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from webdriver_manager.chrome import ChromeDriverManager
+
 try:
     from yaml import CLoader as Loader, CDumper as Dumper
 except ImportError:
@@ -17,8 +25,6 @@ except ImportError:
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 MODEL_PATH = "./EraX-VL-7B-V1.0"
 
-# Semantic Scholar API URL
-SEMANTIC_SCHOLAR_API = "https://api.semanticscholar.org/v1/paper/arXiv:"
 
 # SQLite DB 초기화
 def init_db(db_name="arxiv.db"):
@@ -44,19 +50,47 @@ def init_db(db_name="arxiv.db"):
     return conn
 
 # 논문의 인용 수 가져오기
-def get_citation_count(arxiv_id):
+def get_citation_count(query):
     try:
-        response = requests.get(f"{SEMANTIC_SCHOLAR_API}{arxiv_id}")
-        if response.status_code == 200:
-            data = response.json()
-            return data.get("citationCount", None)  # 인용 수 반환 (없으면 None)
-        else:
-            print(f"Semantic Scholar API 요청 실패: {response.status_code}")
-            return None
+        search_url = f"https://scholar.google.com/scholar?q={query.replace(' ', '+')}"
+        print(f"Requesting: {search_url}")
+
+        # Chrome Headless 설정 (UI 없이 실행)
+        chrome_options = Options()
+        chrome_options.add_argument("--headless")  # GUI 없이 실행
+        chrome_options.add_argument("--no-sandbox")
+        chrome_options.add_argument("--disable-dev-shm-usage")
+
+        # WebDriver 실행
+        driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
+        driver.get(search_url)
+
+        # 페이지 로딩 대기
+        time.sleep(3)
+
+        # "인용" 관련된 첫 번째 요소 찾기
+        try:
+            citation_elements = WebDriverWait(driver, 10).until(
+                EC.presence_of_all_elements_located((By.XPATH, "//div[@class='gs_ri']//a[contains(text(), '인용')]"))
+            )
+
+            if citation_elements:
+                citation_text = citation_elements[0].text  # 예: "103회 인용"
+                citation_count = int(''.join(filter(str.isdigit, citation_text)))  # 숫자만 추출
+            else:
+                citation_count = None
+                print("Citation count not found. Google might have blocked the request.")
+        except:
+            citation_count = None
+            print("Citation count not found. Google might have blocked the request.")
+
+        driver.quit()
+        return citation_count
+
     except Exception as e:
-        print(f"Error fetching citation count for {arxiv_id}: {e}")
+        print(f"Error fetching citation count: {e}")
         return None
-        
+
 
 def save_to_db(conn, data):
     cursor = conn.cursor()
@@ -73,7 +107,7 @@ def save_to_db(conn, data):
                 updated_date = fields[5].strip("**")  # updated_date 추가
                 code_url = fields[6].split("(")[-1].strip(")") if "link" in fields[5] else None
 
-                citation_count = get_citation_count(paper_id)
+                citation_count = get_citation_count(title)
 
                 # Insert into database
                 cursor.execute("""
@@ -94,18 +128,6 @@ def get_yaml_data(yaml_file: str):
         data = yaml.load(fs, Loader=Loader)
     return data
 
-# 논문의 인용 수 가져오기
-def get_citation_count(arxiv_id):
-    try:
-        response = requests.get(f"{SEMANTIC_SCHOLAR_API}{arxiv_id}")
-        if response.status_code == 200:
-            data = response.json()
-            return data.get("citationCount", None)  # 인용 수 반환 (없으면 None)
-        else:
-            print(f"Semantic Scholar API 요청 실패: {response.status_code}")
-            return None
-    except Exception as e:
-        print(f"Error fetching citation count for {arxiv_id}: {e}")
 
 
 def get_daily_papers(topic: str, query: str = "slam", max_results=2, model=None, processor=None):
@@ -124,16 +146,16 @@ def get_daily_papers(topic: str, query: str = "slam", max_results=2, model=None,
         paper_first_author = get_authors(result.authors, first_author=True)
         publish_time = result.published.date()
         updated_time = result.updated.date()    # 최종 업데이트 날짜 추가 
-    
+        citation_count = get_citation_count(title)
         try:
             r = requests.get(code_url).json()
             if "official" in r and r["official"]:
                 repo_url = r["official"]["url"]
                 # content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
-                content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**{updated_time}**|**[link]({repo_url})**|\n"
+                content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**{updated_time}**|**[link]({repo_url}**|{Citation})**|\n"
             
             else: # OCR 
-                content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**{updated_time}**|null|\n"
+                content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**{updated_time}**|null|{Citation})**|\n"
         
         except Exception as e:
             print(f"Exception: {e} with id: {paper_id}")
