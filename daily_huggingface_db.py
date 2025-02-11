@@ -1,5 +1,5 @@
 import requests 
-from bs4 import BeautifulSoup
+#from bs4 import BeautifulSoup
 from huggingface_script.fetch_hf_news import get_arxiv_metadata, fetch_huggingface_news
 import sqlite3
 from huggingface_script.insert_data import insert_model, insert_hf_news
