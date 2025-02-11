@@ -185,7 +185,7 @@ if __name__ == "__main__":
     save_to_db(conn, data_collector)
     
     # Generate Markdown file from database
-    db_to_md(conn, './README.md')
+    db_to_md(conn, './database/db_markdown/readme.md')
     conn.close()
     
     print("Data saved to SQLite database and Markdown file generated.")
