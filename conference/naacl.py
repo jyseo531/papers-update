@@ -1,8 +1,26 @@
 import requests
+import sqlite3
 from bs4 import BeautifulSoup
+import os
 
-def scrape_conference_data(url):
-    """Scrape paper details from the conference website."""
+def init_db():
+    """SQLite 데이터베이스 초기화"""
+    conn = sqlite3.connect(DB_NAME)
+    cursor = conn.cursor()
+    cursor.execute('''
+        CREATE TABLE IF NOT EXISTS papers (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            title TEXT,
+            authors TEXT,
+            pdf_link TEXT,
+            code_link TEXT
+        )
+    ''')
+    conn.commit()
+    conn.close()
+
+def scrape_naacl_papers(url):
+    """NAACL 2024 Accepted Papers 페이지에서 논문 정보 크롤링"""
     response = requests.get(url)
     if response.status_code != 200:
         print(f"Failed to access {url}")
@@ -10,39 +28,57 @@ def scrape_conference_data(url):
 
     soup = BeautifulSoup(response.text, 'html.parser')
     papers = []
-    with open('emnlp.txt', 'w') as f : 
-        f.write(soup.prettify())
 
-        
-    # 논문 정보를 포함한 <tr> 태그 기준으로 검색
-    for row in soup.find_all('tr'):
-        # 링크와 논문 제목 추출
+    for row in soup.find_all('tr'):  # 논문 정보가 포함된 <tr> 태그 반복
         link_tag = row.find('a', href=True)
-        if link_tag:
-            code_url = link_tag['href']  # 하이퍼링크 추출
-            title = link_tag.text.strip()  # 논문 제목 추출
-        else:
-            continue  # 링크가 없으면 해당 <tr> 스킵
+        if not link_tag:
+            continue  # 링크가 없으면 스킵
 
-        # 저자 정보 추출
-        author_div = row.find('div', {'class': 'indented'})
+        title = link_tag.text.strip()  # 논문 제목
+        pdf_link = link_tag['href']  # 논문 PDF 링크
+        pdf_link = f"https://2024.naacl.org{pdf_link}" if pdf_link.startswith('/') else pdf_link
+
+        # 저자 정보
+        author_div = row.find('div', {'class': 'authors'})
         authors = author_div.text.strip() if author_div else "Unknown"
-        
 
-        """
-        
-        Code Link, PDF_Link를 여기서 좀 나누어야 할듯 
-        """
+        # 코드 링크 찾기 (일반적으로 PDF 아래에 코드 링크가 존재)
+        code_link = ""
+        code_tag = row.find('a', text="Code")  # "Code"라는 텍스트 포함하는 링크 검색
+        if code_tag:
+            code_link = code_tag['href']
+            code_link = f"https://2024.naacl.org{code_link}" if code_link.startswith('/') else code_link
 
-
-        # 디버깅용 출력
-        print(f"Title: {title}, Authors: {authors}, Code URL: {code_url}")
-
-        papers.append({
-            'title': title,
-            'authors': authors,
-            'pdf_link': "",  # PDF 링크는 빈 문자열로 설정
-            'code_url': code_url  # 하이퍼링크를 Code_URL로 설정
-        })
+        papers.append((title, authors, pdf_link, code_link))
 
     return papers
+
+def save_to_db(papers):
+    """크롤링한 논문 데이터를 SQLite DB에 저장"""
+    conn = sqlite3.connect(DB_NAME)
+    cursor = conn.cursor()
+
+    for paper in papers:
+        cursor.execute('''
+            INSERT INTO papers (title, authors, pdf_link, code_link)
+            VALUES (?, ?, ?, ?)
+        ''', paper)
+
+    conn.commit()
+    conn.close()
+    print(f"✅ {len(papers)} papers saved to {DB_NAME}")
+
+if __name__ == "__main__":
+    naacl_url = "https://2024.naacl.org/program/accepted_papers/"
+    
+    # 1. 데이터베이스 초기화
+    init_db()
+    
+    # 2. 논문 정보 크롤링
+    papers = scrape_naacl_papers(naacl_url)
+    
+    # 3. 데이터베이스 저장
+    if papers:
+        save_to_db(papers)
+    else:
+        print("No papers found.")

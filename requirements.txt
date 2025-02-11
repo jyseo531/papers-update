@@ -8,3 +8,4 @@ pytz
 fire
 selenium
 webdriver-manager
+BeautifulSoup
