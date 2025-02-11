@@ -43,10 +43,54 @@ def init_db(db_name="arxiv.db"):
             pdf_url TEXT,
             updated_date TEXT,
             code_url TEXT,
+            citation INTEGER DEFAULT NULL
         )
     """)
     conn.commit()
     return conn
+
+# 논문의 인용 수 가져오기
+def get_citation_count(query):
+    try:
+        search_url = f"https://scholar.google.com/scholar?q={query.replace(' ', '+')}"
+        print(f"Requesting: {search_url}")
+
+        # Chrome Headless 설정 (UI 없이 실행)
+        chrome_options = Options()
+        chrome_options.add_argument("--headless")  # GUI 없이 실행
+        chrome_options.add_argument("--no-sandbox")
+        chrome_options.add_argument("--disable-dev-shm-usage")
+
+        # WebDriver 실행
+        driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
+        driver.get(search_url)
+
+        # 페이지 로딩 대기
+        time.sleep(3)
+
+        # "인용" 관련된 첫 번째 요소 찾기
+        try:
+            citation_elements = WebDriverWait(driver, 10).until(
+                EC.presence_of_all_elements_located((By.XPATH, "//div[@class='gs_ri']//a[contains(text(), '인용')]"))
+            )
+
+            if citation_elements:
+                citation_text = citation_elements[0].text  # 예: "103회 인용"
+                citation_count = int(''.join(filter(str.isdigit, citation_text)))  # 숫자만 추출
+            else:
+                citation_count = None
+                print("Citation count not found. Google might have blocked the request.")
+        except:
+            citation_count = None
+            print("Citation count not found. Google might have blocked the request.")
+
+        driver.quit()
+        return citation_count
+
+    except Exception as e:
+        print(f"Error fetching citation count: {e}")
+        return None
+
 
 def save_to_db(conn, data):
     cursor = conn.cursor()
@@ -63,14 +107,14 @@ def save_to_db(conn, data):
                 updated_date = fields[5].strip("**")  # updated_date 추가
                 code_url = fields[6].split("(")[-1].strip(")") if "link" in fields[5] else None
 
-                
+                citation_count = get_citation_count(title)
 
                 # Insert into database
                 cursor.execute("""
                     INSERT OR IGNORE INTO papers
-                    (id, topic, subtopic, publish_date, title, authors, first_author, pdf_url, updated_date, code_url)
-                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-                """, (paper_id, topic, subtopic, publish_date, title, authors, first_author, pdf_url, updated_date, code_url))
+                    (id, topic, subtopic, publish_date, title, authors, first_author, pdf_url, updated_date, code_url, citation)
+                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                """, (paper_id, topic, subtopic, publish_date, title, authors, first_author, pdf_url, updated_date, code_url, citation_count))
     conn.commit()
 
 def get_authors(authors, first_author=False):
@@ -88,11 +132,17 @@ def get_yaml_data(yaml_file: str):
 
 def get_daily_papers(topic: str, query: str = "slam", max_results=2, model=None, processor=None):
     content = dict()
+
+    # ✅ 2023년 이후 논문만 검색하도록 쿼리 수정
+    start_date = "20230101"
+    query_with_date = f"{query} AND submittedDate:[{start_date} TO 30001231]" 
+
     search_engine = arxiv.Search(
-        query=query,
+        query=query_with_date,
         max_results=max_results,
         sort_by=arxiv.SortCriterion.SubmittedDate
     )
+
     for result in search_engine.results():
         paper_id = result.get_short_id()
         paper_title = result.title
@@ -101,26 +151,30 @@ def get_daily_papers(topic: str, query: str = "slam", max_results=2, model=None,
         paper_authors = get_authors(result.authors)
         paper_first_author = get_authors(result.authors, first_author=True)
         publish_time = result.published.date()
-        updated_time = result.updated.date()    # 최종 업데이트 날짜 추가 
-        
+
+        # ✅ 필터링: 2022년 이후 논문만 저장
+        if publish_time.year < 2022:
+            continue  # 2022년 이전 논문은 저장하지 않음
+
+        updated_time = result.updated.date()
+        citation_count = get_citation_count(paper_title)
+
         try:
             r = requests.get(code_url).json()
             if "official" in r and r["official"]:
                 repo_url = r["official"]["url"]
-                # content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
-                content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**{updated_time}**|**[link]({repo_url}**|\n"
-            
-            else: # OCR 
-                content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**{updated_time}**|null|\n"
-        
+                content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**{updated_time}**|**[link]({repo_url})**|{citation_count}|\n"
+            else:
+                content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**{updated_time}**|null|{citation_count}|\n"
         except Exception as e:
             print(f"Exception: {e} with id: {paper_id}")
+
     return {topic: content}
 
 
 
     
-def db_to_md(conn, md_filename="README.md"):
+def db_to_md(conn, md_filename="./database/db_markdown/arxiv_README.md"):
     """
     SQLite DB 데이터를 읽어 Markdown 파일 생성
     """
@@ -142,10 +196,10 @@ def db_to_md(conn, md_filename="README.md"):
             for subtopic in subtopics:
                 subtopic_name = subtopic[0]
                 f.write(f"### {subtopic_name}\n\n")
-                f.write("|Publish Date|Title|Authors|PDF|Last Updated|Code|\n")
+                f.write("|Publish Date|Title|Authors|PDF|Last Updated|Code|Citations|\n")
                 f.write("|:-----------|:-----|:------|:---|:---|:---|:---|\n")
                 cursor.execute("""
-                    SELECT publish_date, title, authors, pdf_url, updated_date, code_url
+                    SELECT publish_date, title, authors, pdf_url, updated_date, code_url, citation_count
                     FROM papers
                     WHERE topic=? AND subtopic=?
                     ORDER BY publish_date DESC
@@ -154,8 +208,8 @@ def db_to_md(conn, md_filename="README.md"):
                 for paper in papers:
                     publish_date, title, authors, pdf_url, updated_date, code_url, citation = paper
                     code_link = f"[link]({code_url})" if code_url else "null"
-                    
-                    f.write(f"|{publish_date}|**{title}**|{authors}|[PDF]({pdf_url})|{updated_date}|{code_link}|\n")
+                    citation_count = citation if citation is not None else "N/A"
+                    f.write(f"|{publish_date}|**{title}**|{authors}|[PDF]({pdf_url})|{updated_date}|{code_link}|{citation_count}|\n")
                 f.write("\n")
     print(f"Markdown file '{md_filename}' generated successfully.")
 
@@ -185,7 +239,7 @@ if __name__ == "__main__":
     save_to_db(conn, data_collector)
     
     # Generate Markdown file from database
-    db_to_md(conn, 'README.md')
+    db_to_md(conn, "./database/db_markdown/arxiv_README.md")
     conn.close()
     
     print("Data saved to SQLite database and Markdown file generated.")

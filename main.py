@@ -141,48 +141,6 @@ class ToolBox:
         
         logger.info(f"Removed all non-essential files from {repo_dir}")
 
-    @staticmethod
-    # 논문의 인용 수 가져오기
-    def get_citation_count(query):
-        try:
-            search_url = f"https://scholar.google.com/scholar?q={query.replace(' ', '+')}"
-            print(f"Requesting: {search_url}")
-
-            # Chrome Headless 설정 (UI 없이 실행)
-            chrome_options = Options()
-            chrome_options.add_argument("--headless")  # GUI 없이 실행
-            chrome_options.add_argument("--no-sandbox")
-            chrome_options.add_argument("--disable-dev-shm-usage")
-
-            # WebDriver 실행
-            driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
-            driver.get(search_url)
-
-            # 페이지 로딩 대기
-            time.sleep(3)
-
-            # "인용" 관련된 첫 번째 요소 찾기
-            try:
-                citation_elements = WebDriverWait(driver, 10).until(
-                    EC.presence_of_all_elements_located((By.XPATH, "//div[@class='gs_ri']//a[contains(text(), '인용')]"))
-                )
-
-                if citation_elements:
-                    citation_text = citation_elements[0].text  # 예: "103회 인용"
-                    citation_count = int(''.join(filter(str.isdigit, citation_text)))  # 숫자만 추출
-                else:
-                    citation_count = None
-                    print("Citation count not found. Google might have blocked the request.")
-            except:
-                citation_count = None
-                print("Citation count not found. Google might have blocked the request.")
-
-            driver.quit()
-            return citation_count
-
-        except Exception as e:
-            print(f"Error fetching citation count: {e}")
-            return None
 
     @staticmethod
     def update_readme(repo_url: str, repo_dir: str, target_path: str):
@@ -295,7 +253,7 @@ class CoroutineSpeedup:
 
             publish_time = result.published.date()
             updated_time = result.updated.date()  # updated 날짜 추가
-            citation_count = ToolBox.get_citation_count(paper_title)
+           
 
             ver_pos = paper_id.find("v")
             paper_key = paper_id if ver_pos == -1 else paper_id[0:ver_pos]
@@ -313,7 +271,7 @@ class CoroutineSpeedup:
                         "paper_url": paper_url,
                         "updated_time": updated_time,   # 추가
                         "repo": repo_url,
-                        "citation" : citation_count,    # 추가
+                       
                     },
                 }
             )
@@ -322,7 +280,7 @@ class CoroutineSpeedup:
                 "paper": _paper,
                 "topic": context["hook"]["topic"],
                 "subtopic": context["hook"]["subtopic"],
-                "fields": ["Publish Date", "Title", "Authors", "PDF", "Last Updated", "Code", "Citation"],
+                "fields": ["Publish Date", "Title", "Authors", "PDF", "Last Updated", "Code"],
             }
         )
         logger.success(
@@ -413,7 +371,7 @@ class _OverloadTasks:
         paper["publish_time"] = f"**{paper['publish_time']}**"
         paper["updated_time"] = f"**{paper['updated_time']}**"      # 추가
         paper["title"] = f"**{paper['title']}**"
-        paper["citation"] = f"**{paper['citation_count']}**"          # ⬅️ citation 추가
+       
 
         _pdf = self._set_markdown_hyperlink(text=paper["id"], link=paper["paper_url"])
         _repo = (
@@ -429,7 +387,7 @@ class _OverloadTasks:
             f"|{_pdf}"
             f"|{paper['updated_time']}"
             f"|{_repo}"
-            f"|{paper['citation']}|\n"  # ⬅️ citation 추가
+            
         )
 
         return line
