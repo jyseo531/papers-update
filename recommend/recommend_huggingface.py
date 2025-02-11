@@ -7,7 +7,6 @@ import time
 import datetime
 from config import (
     SERVER_DIR_RECOMMEND
-    logger,
 )
 
 # SQLite DB 경로 (올바른 경로 설정)
