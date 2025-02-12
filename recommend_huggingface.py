@@ -155,10 +155,11 @@ def save_models_to_db(data):
     conn.close()
     print("✅ 데이터가 DB에 저장되었습니다!")
 
-# 6️⃣ Markdown 변환 함수
+# 6️⃣ Markdown 변환 함수 (카테고리별 소제목 추가 + 좋아요 수 기준 정렬)
 def db_to_md(conn, md_filename="database/db_markdown/recommend_huggingface_models.md"):
     """
     SQLite DB 데이터를 읽어 Markdown 파일로 변환하여 저장하는 함수.
+    각 카테고리별로 소제목을 추가하고, 'Likes' 기준 내림차순 정렬하여 출력.
     """
     cursor = conn.cursor()
 
@@ -169,10 +170,11 @@ def db_to_md(conn, md_filename="database/db_markdown/recommend_huggingface_model
         f.write(f"Updated on {datetime.date.today().strftime('%Y-%m-%d')}\n\n")
         f.write("> Generated from the Hugging Face database.\n\n")
 
-        # 데이터 가져오기 (순서 변경)
+        # 데이터 가져오기 (카테고리별 그룹화 & Likes 내림차순 정렬)
         cursor.execute("""
             SELECT category, downloads, likes, model_name, update_date, link 
             FROM huggingface_models
+            ORDER BY category ASC, CAST(likes AS INTEGER) DESC
         """)
         rows = cursor.fetchall()
 
@@ -180,18 +182,29 @@ def db_to_md(conn, md_filename="database/db_markdown/recommend_huggingface_model
             print("❌ No data found in the database. Markdown file will not be created.")
             return None
 
-        # 테이블 헤더 작성 (사용자가 원하는 순서대로 정렬)
-        f.write("| Category | Downloads | Likes | Model Name | Update Date | Link |\n")
-        f.write("|:---------|:----------|:------|:-----------|:------------|:------|\n")
-
-        # 데이터 입력
+        # 카테고리별 그룹화
+        category_dict = {}
         for row in rows:
             category, downloads, likes, model_name, update_date, link = row
-            link_markdown = f"[Link]({link})" if link else "N/A"
-            f.write(f"| {category} | {downloads} | {likes} | {model_name} | {update_date} | {link_markdown} |\n")
+            if category not in category_dict:
+                category_dict[category] = []
+            category_dict[category].append((downloads, likes, model_name, update_date, link))
+
+        # 카테고리별 Markdown 출력
+        for category, models in category_dict.items():
+            f.write(f"## {category}\n\n")  # 소제목 추가
+            f.write("| Downloads | Likes | Model Name | Update Date | Link |\n")
+            f.write("|:----------|:------|:-----------|:------------|:------|\n")
+
+            for downloads, likes, model_name, update_date, link in models:
+                link_markdown = f"[Link]({link})" if link else "N/A"
+                f.write(f"| {downloads} | {likes} | {model_name} | {update_date} | {link_markdown} |\n")
+
+            f.write("\n")  # 카테고리별 구분을 위해 개행 추가
 
     print(f"✅ Markdown file '{md_filename}' generated successfully.")
     return md_filename
+
 
 # 7️⃣ 실행 함수
 def main():

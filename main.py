@@ -560,6 +560,23 @@ class Scaffold:
         logger.info(f"Conference news file copied to {conference_target_path}.")
 
 
+        # ---------------------------------------------
+        # Adding HuggingFace Recommend markdown
+        hugg_recommend_readme_path = ./"database/db_markdown/recommend_huggingface_models.md"
+        hugg_recommend_path = os.path.join(SERVER_PATH_DOCS, "HuggingFace", "Recommend_system.md")
+
+        # Ensure the target directory exists
+        recommend_dir = os.path.dirname(hugg_recommend_path)
+        if not os.path.exists(recommend_dir):
+            os.makedirs(recommend_dir)
+            logger.info(f"Directory {recommend_dir} created.")
+
+        # Copy the conference_target_path markdown file
+        shutil.copyfile(conference_readme_path, hugg_recommend_path)
+
+        logger.info(f"HuggingFace Recommend file copied to {hugg_recommend_path}.")
+
+
 
 
 if __name__ == "__main__":
