@@ -572,7 +572,7 @@ class Scaffold:
             logger.info(f"Directory {recommend_dir} created.")
 
         # Copy the conference_target_path markdown file
-        shutil.copyfile(conference_readme_path, hugg_recommend_path)
+        shutil.copyfile(hugg_recommend_readme_path, hugg_recommend_path)
 
         logger.info(f"HuggingFace Recommend file copied to {hugg_recommend_path}.")
 
