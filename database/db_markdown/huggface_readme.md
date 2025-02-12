@@ -196,10 +196,10 @@ Updated on 2025-02-12
 | GAIR/LIMO | GAIR/LIMO | [Link](https://huggingface.co/GAIR/LIMO) | Unknown license | None |
 | microsoft/Florence-2-large | microsoft/Florence-2-large | [Link](https://huggingface.co/microsoft/Florence-2-large) | mit | image-text-to-text |
 | agentica-org/DeepScaleR-1.5B-Preview | agentica-org/DeepScaleR-1.5B-Preview | [Link](https://huggingface.co/agentica-org/DeepScaleR-1.5B-Preview) | mit | None |
-| AIDC-AI/Ovis2-1B | http://arxiv.org/abs/2408.11813v1 | [Link](https://huggingface.co/AIDC-AI/Ovis2-1B) | apache-2.0 | image-text-to-text |
-| AIDC-AI/Ovis2-2B | http://arxiv.org/abs/2408.11813v1 | [Link](https://huggingface.co/AIDC-AI/Ovis2-2B) | apache-2.0 | image-text-to-text |
-| AIDC-AI/Ovis2-34B | http://arxiv.org/abs/2408.11813v1 | [Link](https://huggingface.co/AIDC-AI/Ovis2-34B) | apache-2.0 | image-text-to-text |
-| AIDC-AI/Ovis2-8B | http://arxiv.org/abs/2408.11813v1 | [Link](https://huggingface.co/AIDC-AI/Ovis2-8B) | apache-2.0 | image-text-to-text |
-| AIDC-AI/Ovis2-16B | http://arxiv.org/abs/2408.11813v1 | [Link](https://huggingface.co/AIDC-AI/Ovis2-16B) | apache-2.0 | image-text-to-text |
-| AIDC-AI/Ovis2-4B | http://arxiv.org/abs/2408.11813v1 | [Link](https://huggingface.co/AIDC-AI/Ovis2-4B) | apache-2.0 | image-text-to-text |
-| Alpha-VLLM/Lumina-Video-f24R960 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-Video-f24R960) | apache-2.0 | text-to-video |
+| AIDC-AI/Ovis2-1B | AIDC-AI/Ovis2-1B | [Link](https://huggingface.co/AIDC-AI/Ovis2-1B) | apache-2.0 | image-text-to-text |
+| AIDC-AI/Ovis2-2B | AIDC-AI/Ovis2-2B | [Link](https://huggingface.co/AIDC-AI/Ovis2-2B) | apache-2.0 | image-text-to-text |
+| AIDC-AI/Ovis2-34B | AIDC-AI/Ovis2-34B | [Link](https://huggingface.co/AIDC-AI/Ovis2-34B) | apache-2.0 | image-text-to-text |
+| AIDC-AI/Ovis2-8B | AIDC-AI/Ovis2-8B | [Link](https://huggingface.co/AIDC-AI/Ovis2-8B) | apache-2.0 | image-text-to-text |
+| AIDC-AI/Ovis2-16B | AIDC-AI/Ovis2-16B | [Link](https://huggingface.co/AIDC-AI/Ovis2-16B) | apache-2.0 | image-text-to-text |
+| AIDC-AI/Ovis2-4B | AIDC-AI/Ovis2-4B | [Link](https://huggingface.co/AIDC-AI/Ovis2-4B) | apache-2.0 | image-text-to-text |
+| Alpha-VLLM/Lumina-Video-f24R960 | Alpha-VLLM/Lumina-Video-f24R960 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-Video-f24R960) | apache-2.0 | text-to-video |
