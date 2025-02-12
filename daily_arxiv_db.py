@@ -86,7 +86,7 @@ def get_yaml_data(yaml_file: str):
 
 
 
-def get_daily_papers(topic: str, query: str = "slam", max_results=2, model=None, processor=None):
+def get_daily_papers(topic: str, query: str = "slam", max_results=10, model=None, processor=None):
     content = dict()
     search_engine = arxiv.Search(
         query=query,
