@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-02-11
+Updated on 2025-02-12
 
 > Generated from the Hugging Face database.
 
@@ -178,7 +178,7 @@ Updated on 2025-02-11
 | bartowski/cognitivecomputations_Dolphin3.0-R1-Mistral-24B-GGUF | bartowski/cognitivecomputations_Dolphin3.0-R1-Mistral-24B-GGUF | [Link](https://huggingface.co/bartowski/cognitivecomputations_Dolphin3.0-R1-Mistral-24B-GGUF) | Unknown license | text-generation |
 | ibm-granite/granite-vision-3.1-2b-preview | ibm-granite/granite-vision-3.1-2b-preview | [Link](https://huggingface.co/ibm-granite/granite-vision-3.1-2b-preview) | apache-2.0 | image-text-to-text |
 | Comfy-Org/Lumina_Image_2.0_Repackaged | Comfy-Org/Lumina_Image_2.0_Repackaged | [Link](https://huggingface.co/Comfy-Org/Lumina_Image_2.0_Repackaged) | Unknown license | None |
-| stable-diffusion-v1-5/stable-diffusion-v1-5 | http://arxiv.org/abs/2210.12192v1 | [Link](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5) | creativeml-openrail-m | text-to-image |
+| stable-diffusion-v1-5/stable-diffusion-v1-5 | stable-diffusion-v1-5/stable-diffusion-v1-5 | [Link](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5) | creativeml-openrail-m | text-to-image |
 | cognitivecomputations/DeepSeek-R1-AWQ | cognitivecomputations/DeepSeek-R1-AWQ | [Link](https://huggingface.co/cognitivecomputations/DeepSeek-R1-AWQ) | mit | text-generation |
 | ZhengPeng7/BiRefNet_HR | ZhengPeng7/BiRefNet_HR | [Link](https://huggingface.co/ZhengPeng7/BiRefNet_HR) | mit | image-segmentation |
 | strangerzonehf/Realism-v3-Flux | strangerzonehf/Realism-v3-Flux | [Link](https://huggingface.co/strangerzonehf/Realism-v3-Flux) | creativeml-openrail-m | text-to-image |
@@ -196,3 +196,10 @@ Updated on 2025-02-11
 | GAIR/LIMO | GAIR/LIMO | [Link](https://huggingface.co/GAIR/LIMO) | Unknown license | None |
 | microsoft/Florence-2-large | microsoft/Florence-2-large | [Link](https://huggingface.co/microsoft/Florence-2-large) | mit | image-text-to-text |
 | agentica-org/DeepScaleR-1.5B-Preview | agentica-org/DeepScaleR-1.5B-Preview | [Link](https://huggingface.co/agentica-org/DeepScaleR-1.5B-Preview) | mit | None |
+| AIDC-AI/Ovis2-1B | http://arxiv.org/abs/2408.11813v1 | [Link](https://huggingface.co/AIDC-AI/Ovis2-1B) | apache-2.0 | image-text-to-text |
+| AIDC-AI/Ovis2-2B | http://arxiv.org/abs/2408.11813v1 | [Link](https://huggingface.co/AIDC-AI/Ovis2-2B) | apache-2.0 | image-text-to-text |
+| AIDC-AI/Ovis2-34B | http://arxiv.org/abs/2408.11813v1 | [Link](https://huggingface.co/AIDC-AI/Ovis2-34B) | apache-2.0 | image-text-to-text |
+| AIDC-AI/Ovis2-8B | http://arxiv.org/abs/2408.11813v1 | [Link](https://huggingface.co/AIDC-AI/Ovis2-8B) | apache-2.0 | image-text-to-text |
+| AIDC-AI/Ovis2-16B | http://arxiv.org/abs/2408.11813v1 | [Link](https://huggingface.co/AIDC-AI/Ovis2-16B) | apache-2.0 | image-text-to-text |
+| AIDC-AI/Ovis2-4B | http://arxiv.org/abs/2408.11813v1 | [Link](https://huggingface.co/AIDC-AI/Ovis2-4B) | apache-2.0 | image-text-to-text |
+| Alpha-VLLM/Lumina-Video-f24R960 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-Video-f24R960) | apache-2.0 | text-to-video |

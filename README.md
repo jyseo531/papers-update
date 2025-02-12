@@ -1,4 +1,4 @@
-## Updated on 2025.02.11
+## Updated on 2025.02.12
 
 > Welcome to contribute! Add your topics and keywords in `topic.yml`
 
@@ -11,7 +11,7 @@
 |**2025-02-10**|**Enhancing Performance of Explainable AI Models with Constrained Concept Refinement**|Geyu Liang et.al.|[2502.06775v1](http://arxiv.org/abs/2502.06775v1)|null|
 |**2025-02-10**|**Hybrid State-Space and GRU-based Graph Tokenization Mamba for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2502.06427v1](http://arxiv.org/abs/2502.06427v1)|null|
 |**2025-02-10**|**Provably Near-Optimal Federated Ensemble Distillation with Negligible Overhead**|Won-Jun Jang et.al.|[2502.06349v1](http://arxiv.org/abs/2502.06349v1)|null|
-|**2025-02-10**|**From Pixels to Components: Eigenvector Masking for Visual Representation Learning**|Alice Bizeul et.al.|[2502.06314v1](http://arxiv.org/abs/2502.06314v1)|null|
+|**2025-02-10**|**From Pixels to Components: Eigenvector Masking for Visual Representation Learning**|Alice Bizeul et.al.|[2502.06314v2](http://arxiv.org/abs/2502.06314v2)|null|
 |**2025-02-10**|**Beyond Batch Learning: Global Awareness Enhanced Domain Adaptation**|Lingkun Luo et.al.|[2502.06272v1](http://arxiv.org/abs/2502.06272v1)|null|
 |**2025-02-10**|**Multi-Scale Transformer Architecture for Accurate Medical Image Classification**|Jiacheng Hu et.al.|[2502.06243v1](http://arxiv.org/abs/2502.06243v1)|null|
 |**2025-02-10**|**Low Tensor-Rank Adaptation of Kolmogorov--Arnold Networks**|Yihang Gao et.al.|[2502.06153v1](http://arxiv.org/abs/2502.06153v1)|null|
@@ -172,7 +172,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-10**|**Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**|Matteo Mule et.al.|[2502.06288v1](http://arxiv.org/abs/2502.06288v1)|null|
+|**2025-02-10**|**Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**|Emanuele Mule et.al.|[2502.06288v2](http://arxiv.org/abs/2502.06288v2)|null|
 |**2025-02-04**|**Muographic Image Upsampling with Machine Learning for Built Infrastructure Applications**|William O'Donnell et.al.|[2502.02624v1](http://arxiv.org/abs/2502.02624v1)|null|
 |**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299v1](http://arxiv.org/abs/2501.11299v1)|null|
 |**2025-01-13**|**MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**|Xingyi He et.al.|[2501.07556v1](http://arxiv.org/abs/2501.07556v1)|null|
@@ -213,7 +213,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-02-10**|**SAMRefiner: Taming Segment Anything Model for Universal Mask Refinement**|Yuqi Lin et.al.|[2502.06756v1](http://arxiv.org/abs/2502.06756v1)|null|
-|**2025-02-10**|**Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**|Matteo Mule et.al.|[2502.06288v1](http://arxiv.org/abs/2502.06288v1)|null|
+|**2025-02-10**|**Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**|Emanuele Mule et.al.|[2502.06288v2](http://arxiv.org/abs/2502.06288v2)|null|
 |**2025-02-10**|**Unsupervised deep learning for semantic segmentation of multispectral LiDAR forest point clouds**|Lassi Ruoppa et.al.|[2502.06227v1](http://arxiv.org/abs/2502.06227v1)|null|
 |**2025-02-09**|**Traveling Waves Integrate Spatial Information Into Spectral Representations**|Mozes Jacobs et.al.|[2502.06034v1](http://arxiv.org/abs/2502.06034v1)|null|
 |**2025-02-09**|**LegalSeg: Unlocking the Structure of Indian Legal Judgments Through Rhetorical Role Classification**|Shubham Kumar Nigam et.al.|[2502.05836v1](http://arxiv.org/abs/2502.05836v1)|null|
@@ -323,13 +323,13 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-02-10**|**A Large-scale AI-generated Image Inpainting Benchmark**|Paschalis Giakoumoglou et.al.|[2502.06593v1](http://arxiv.org/abs/2502.06593v1)|null|
-|**2025-02-09**|**VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer**|Xinyu Liu et.al.|[2502.05979v1](http://arxiv.org/abs/2502.05979v1)|null|
+|**2025-02-09**|**VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer**|Xinyu Liu et.al.|[2502.05979v2](http://arxiv.org/abs/2502.05979v2)|null|
 |**2025-02-07**|**AIQViT: Architecture-Informed Post-Training Quantization for Vision Transformers**|Runqing Jiang et.al.|[2502.04628v1](http://arxiv.org/abs/2502.04628v1)|null|
 |**2025-02-06**|**Beyond the Final Layer: Hierarchical Query Fusion Transformer with Agent-Interpolation Initialization for 3D Instance Segmentation**|Jiahao Lu et.al.|[2502.04139v1](http://arxiv.org/abs/2502.04139v1)|null|
 |**2025-02-05**|**Gompertz Linear Units: Leveraging Asymmetry for Enhanced Learning Dynamics**|Indrashis Das et.al.|[2502.03654v1](http://arxiv.org/abs/2502.03654v1)|null|
 |**2025-02-05**|**ZISVFM: Zero-Shot Object Instance Segmentation in Indoor Robotic Environments with Vision Foundation Models**|Ying Zhang et.al.|[2502.03266v1](http://arxiv.org/abs/2502.03266v1)|**[link](https://github.com/Yinmlmaoliang/zisvfm)**|
 |**2025-02-04**|**Mosaic3D: Foundation Dataset and Model for Open-Vocabulary 3D Segmentation**|Junha Lee et.al.|[2502.02548v1](http://arxiv.org/abs/2502.02548v1)|null|
-|**2025-02-04**|**Mind the Gap: Evaluating Patch Embeddings from General-Purpose and Histopathology Foundation Models for Cell Segmentation and Classification**|Valentina Vadori et.al.|[2502.02471v1](http://arxiv.org/abs/2502.02471v1)|null|
+|**2025-02-04**|**Mind the Gap: Evaluating Patch Embeddings from General-Purpose and Histopathology Foundation Models for Cell Segmentation and Classification**|Valentina Vadori et.al.|[2502.02471v1](http://arxiv.org/abs/2502.02471v1)|**[link](https://github.com/Vadori/CytoArk)**|
 |**2025-02-04**|**Memory Efficient Transformer Adapter for Dense Predictions**|Dong Zhang et.al.|[2502.01962v1](http://arxiv.org/abs/2502.01962v1)|null|
 |**2025-02-01**|**Segment Anything for Histopathology**|Titus Griebel et.al.|[2502.00408v1](http://arxiv.org/abs/2502.00408v1)|**[link](https://github.com/computational-cell-analytics/patho-sam)**|
 |**2025-01-31**|**Lifting by Gaussians: A Simple, Fast and Flexible Method for 3D Instance Segmentation**|Rohan Chacko et.al.|[2502.00173v1](http://arxiv.org/abs/2502.00173v1)|null|
@@ -392,7 +392,7 @@
 |**2025-02-10**|**A Novel Multi-Teacher Knowledge Distillation for Real-Time Object Detection using 4D Radar**|Seung-Hyun Song et.al.|[2502.06114v1](http://arxiv.org/abs/2502.06114v1)|null|
 |**2025-02-09**|**Training-free Anomaly Event Detection via LLM-guided Symbolic Pattern Discovery**|Yuhui Zeng et.al.|[2502.05843v1](http://arxiv.org/abs/2502.05843v1)|null|
 |**2025-02-08**|**Demystifying Catastrophic Forgetting in Two-Stage Incremental Object Detector**|Qirui Wu et.al.|[2502.05540v1](http://arxiv.org/abs/2502.05540v1)|null|
-|**2025-02-07**|**LP-DETR: Layer-wise Progressive Relations for Object Detection**|Zhengjian Kang et.al.|[2502.05147v1](http://arxiv.org/abs/2502.05147v1)|null|
+|**2025-02-07**|**LP-DETR: Layer-wise Progressive Relations for Object Detection**|Zhengjian Kang et.al.|[2502.05147v2](http://arxiv.org/abs/2502.05147v2)|null|
 |**2025-02-07**|**Counting Fish with Temporal Representations of Sonar Video**|Kai Van Brunt et.al.|[2502.05129v1](http://arxiv.org/abs/2502.05129v1)|null|
 |**2025-02-07**|**DetVPCC: RoI-based Point Cloud Sequence Compression for 3D Object Detection**|Mingxuan Yan et.al.|[2502.04804v1](http://arxiv.org/abs/2502.04804v1)|null|
 |**2025-02-07**|**MHAF-YOLO: Multi-Branch Heterogeneous Auxiliary Fusion YOLO for accurate object detection**|Zhiqiang Yang et.al.|[2502.04656v1](http://arxiv.org/abs/2502.04656v1)|null|
@@ -1459,7 +1459,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-10**|**ViSIR: Vision Transformer Single Image Reconstruction Method for Earth System Models**|Ehsan Zeraatkar et.al.|[2502.06741v1](http://arxiv.org/abs/2502.06741v1)|null|
+|**2025-02-10**|**ViSIR: Vision Transformer Single Image Reconstruction Method for Earth System Models**|Ehsan Zeraatkar et.al.|[2502.06741v2](http://arxiv.org/abs/2502.06741v2)|null|
 |**2025-02-10**|**Provably Near-Optimal Federated Ensemble Distillation with Negligible Overhead**|Won-Jun Jang et.al.|[2502.06349v1](http://arxiv.org/abs/2502.06349v1)|null|
 |**2025-02-10**|**Hydrodynamic and thermodynamic non-equilibrium characteristics of shock waves: Insights from the discrete Boltzmann method**|Dejia Zhang et.al.|[2502.06326v1](http://arxiv.org/abs/2502.06326v1)|null|
 |**2025-02-10**|**Beyond Batch Learning: Global Awareness Enhanced Domain Adaptation**|Lingkun Luo et.al.|[2502.06272v1](http://arxiv.org/abs/2502.06272v1)|null|
@@ -1700,9 +1700,9 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-02-10**|**Prototype Contrastive Consistency Learning for Semi-Supervised Medical Image Segmentation**|Shihuan He et.al.|[2502.06650v1](http://arxiv.org/abs/2502.06650v1)|null|
-|**2025-02-10**|**Unleashing the Potential of Pre-Trained Diffusion Models for Generalizable Person Re-Identification**|Jiachen Li et.al.|[2502.06619v1](http://arxiv.org/abs/2502.06619v1)|null|
+|**2025-02-10**|**Unleashing the Potential of Pre-Trained Diffusion Models for Generalizable Person Re-Identification**|Jiachen Li et.al.|[2502.06619v2](http://arxiv.org/abs/2502.06619v2)|**[link](https://github.com/RikoLi/DCAC)**|
 |**2025-02-10**|**Learning Clustering-based Prototypes for Compositional Zero-shot Learning**|Hongyu Qu et.al.|[2502.06501v1](http://arxiv.org/abs/2502.06501v1)|null|
-|**2025-02-10**|**Structure-preserving contrastive learning for spatial time series**|Yiru Jiao et.al.|[2502.06380v1](http://arxiv.org/abs/2502.06380v1)|null|
+|**2025-02-10**|**Structure-preserving contrastive learning for spatial time series**|Yiru Jiao et.al.|[2502.06380v1](http://arxiv.org/abs/2502.06380v1)|**[link](https://github.com/Yiru-Jiao/spclt)**|
 |**2025-02-10**|**Multimodal Task Representation Memory Bank vs. Catastrophic Forgetting in Anomaly Detection**|You Zhou et.al.|[2502.06194v1](http://arxiv.org/abs/2502.06194v1)|null|
 |**2025-02-09**|**ARISE: Iterative Rule Induction and Synthetic Data Generation for Text Classification**|Yashwanth M. et.al.|[2502.05923v1](http://arxiv.org/abs/2502.05923v1)|null|
 |**2025-02-09**|**Contrastive Representation Distillation via Multi-Scale Feature Decoupling**|Cuipeng Wang et.al.|[2502.05835v1](http://arxiv.org/abs/2502.05835v1)|null|
@@ -2023,7 +2023,7 @@
 |**2025-02-10**|**On the Emergence of Thinking in LLMs I: Searching for the Right Intuition**|Guanghao Ye et.al.|[2502.06773v1](http://arxiv.org/abs/2502.06773v1)|null|
 |**2025-02-10**|**Exploiting Sparsity for Long Context Inference: Million Token Contexts on Commodity GPUs**|Ryan Synk et.al.|[2502.06766v1](http://arxiv.org/abs/2502.06766v1)|null|
 |**2025-02-10**|**History-Guided Video Diffusion**|Kiwhan Song et.al.|[2502.06764v1](http://arxiv.org/abs/2502.06764v1)|null|
-|**2025-02-10**|**ViSIR: Vision Transformer Single Image Reconstruction Method for Earth System Models**|Ehsan Zeraatkar et.al.|[2502.06741v1](http://arxiv.org/abs/2502.06741v1)|null|
+|**2025-02-10**|**ViSIR: Vision Transformer Single Image Reconstruction Method for Earth System Models**|Ehsan Zeraatkar et.al.|[2502.06741v2](http://arxiv.org/abs/2502.06741v2)|null|
 |**2025-02-10**|**TEMSET-24K: Densely Annotated Dataset for Indexing Multipart Endoscopic Videos using Surgical Timeline Segmentation**|Muhammad Bilal et.al.|[2502.06708v1](http://arxiv.org/abs/2502.06708v1)|null|
 |**2025-02-10**|**RAILS: Risk-Aware Iterated Local Search for Joint SLA Decomposition and Service Provider Management in Multi-Domain Networks**|Cyril Shih-Huan Hsu et.al.|[2502.06674v1](http://arxiv.org/abs/2502.06674v1)|null|
 |**2025-02-10**|**MoETuner: Optimized Mixture of Expert Serving with Balanced Expert Placement and Token Routing**|Seokjin Go et.al.|[2502.06643v1](http://arxiv.org/abs/2502.06643v1)|null|
@@ -2203,7 +2203,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-10**|**ViSIR: Vision Transformer Single Image Reconstruction Method for Earth System Models**|Ehsan Zeraatkar et.al.|[2502.06741v1](http://arxiv.org/abs/2502.06741v1)|null|
+|**2025-02-10**|**ViSIR: Vision Transformer Single Image Reconstruction Method for Earth System Models**|Ehsan Zeraatkar et.al.|[2502.06741v2](http://arxiv.org/abs/2502.06741v2)|null|
 |**2025-02-10**|**Multi-Scale Transformer Architecture for Accurate Medical Image Classification**|Jiacheng Hu et.al.|[2502.06243v1](http://arxiv.org/abs/2502.06243v1)|null|
 |**2025-02-10**|**Fully Exploiting Vision Foundation Model's Profound Prior Knowledge for Generalizable RGB-Depth Driving Scene Parsing**|Sicen Guo et.al.|[2502.06219v1](http://arxiv.org/abs/2502.06219v1)|null|
 |**2025-02-09**|**DiTASK: Multi-Task Fine-Tuning with Diffeomorphic Transformations**|Krishna Sri Ipsit Mantri et.al.|[2502.06029v1](http://arxiv.org/abs/2502.06029v1)|null|
@@ -2318,7 +2318,7 @@
 |**2025-02-10**|**RelGNN: Composite Message Passing for Relational Deep Learning**|Tianlang Chen et.al.|[2502.06784v1](http://arxiv.org/abs/2502.06784v1)|null|
 |**2025-02-10**|**Prompt-Driven Continual Graph Learning**|Qi Wang et.al.|[2502.06327v1](http://arxiv.org/abs/2502.06327v1)|null|
 |**2025-02-10**|**IceBerg: Debiased Self-Training for Class-Imbalanced Node Classification**|Zhixun Li et.al.|[2502.06280v1](http://arxiv.org/abs/2502.06280v1)|null|
-|**2025-02-10**|**Graph Neural Networks at a Fraction**|Rucha Bhalchandra Joshi et.al.|[2502.06136v1](http://arxiv.org/abs/2502.06136v1)|null|
+|**2025-02-10**|**Graph Neural Networks at a Fraction**|Rucha Bhalchandra Joshi et.al.|[2502.06136v2](http://arxiv.org/abs/2502.06136v2)|null|
 |**2025-02-09**|**Norm Augmented Graph AutoEncoders for Link Prediction**|Yunhui Liu et.al.|[2502.05868v1](http://arxiv.org/abs/2502.05868v1)|null|
 |**2025-02-09**|**Learning Accurate, Efficient, and Interpretable MLPs on Multiplex Graphs via Node-wise Multi-View Ensemble Distillation**|Yunhui Liu et.al.|[2502.05864v1](http://arxiv.org/abs/2502.05864v1)|null|
 |**2025-02-09**|**LegalSeg: Unlocking the Structure of Indian Legal Judgments Through Rhetorical Role Classification**|Shubham Kumar Nigam et.al.|[2502.05836v1](http://arxiv.org/abs/2502.05836v1)|null|
@@ -2821,7 +2821,7 @@
 |**2025-02-10**|**Can We Trust AI Benchmarks? An Interdisciplinary Review of Current Issues in AI Evaluation**|Maria Eriksson et.al.|[2502.06559v1](http://arxiv.org/abs/2502.06559v1)|null|
 |**2025-02-10**|**Retrieving Filter Spectra in CNN for Explainable Sleep Stage Classification**|Stephan Goerttler et.al.|[2502.06478v1](http://arxiv.org/abs/2502.06478v1)|null|
 |**2025-02-10**|**UniMoD: Efficient Unified Multimodal Transformers with Mixture-of-Depths**|Weijia Mao et.al.|[2502.06474v1](http://arxiv.org/abs/2502.06474v1)|null|
-|**2025-02-10**|**CoS: Chain-of-Shot Prompting for Long Video Understanding**|Jian Hu et.al.|[2502.06428v1](http://arxiv.org/abs/2502.06428v1)|null|
+|**2025-02-10**|**CoS: Chain-of-Shot Prompting for Long Video Understanding**|Jian Hu et.al.|[2502.06428v2](http://arxiv.org/abs/2502.06428v2)|null|
 |**2025-02-10**|**Fine-tuning Multimodal Transformers on Edge: A Parallel Split Learning Approach**|Timo Fudala et.al.|[2502.06355v1](http://arxiv.org/abs/2502.06355v1)|null|
 |**2025-02-10**|**Engineering of electronic and magnetic modulations in gradient functional oxide heterostructures**|Leonard Schüler et.al.|[2502.06345v1](http://arxiv.org/abs/2502.06345v1)|null|
 |**2025-02-07**|**QLIP: Text-Aligned Visual Tokenization Unifies Auto-Regressive Multimodal Understanding and Generation**|Yue Zhao et.al.|[2502.05178v1](http://arxiv.org/abs/2502.05178v1)|null|
