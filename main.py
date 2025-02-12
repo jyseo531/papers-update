@@ -562,7 +562,7 @@ class Scaffold:
 
         # ---------------------------------------------
         # Adding HuggingFace Recommend markdown
-        hugg_recommend_readme_path = ./"database/db_markdown/recommend_huggingface_models.md"
+        hugg_recommend_readme_path = "./database/db_markdown/recommend_huggingface_models.md"
         hugg_recommend_path = os.path.join(SERVER_PATH_DOCS, "HuggingFace", "Recommend_system.md")
 
         # Ensure the target directory exists
