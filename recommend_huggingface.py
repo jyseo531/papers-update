@@ -13,7 +13,7 @@ from config import (
 # SQLite DB 경로 (올바른 경로 설정)
 # DB_PATH = "recommend/recommend_huggingface_models.db"
 
-DB_PATH = os.path.join(SERVER_PATH_RECOMMEND, "recommend_huggingface_model.db")
+DB_PATH = os.path.join(SERVER_DIR_RECOMMEND, "recommend_huggingface_model.db")
 
 HF_URL = "https://huggingface.co/models"
 
