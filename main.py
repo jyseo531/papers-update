@@ -353,29 +353,28 @@ class _OverloadTasks:
         return f"[{text}]({link})"
 
     def _generate_markdown_table_content(self, paper: dict):
-        paper["publish_time"] = f"**{paper['publish_time']}**"
-        paper["updated_time"] = f"**{paper['updated_time']}**"      # 추가
-        paper["title"] = f"**{paper['title']}**"
-       
+        paper["publish_time"] = f"**{paper.get('publish_time', 'N/A')}**"
+        paper["updated_time"] = f"**{paper.get('updated_time', 'N/A')}**"  # 추가
+        paper["title"] = f"**{paper.get('title', 'Untitled')}**"
 
         _pdf = self._set_markdown_hyperlink(text=paper["id"], link=paper["paper_url"])
         _repo = (
             self._set_markdown_hyperlink(text="link", link=paper["repo"])
-            if "http" in paper["repo"]
+            if paper.get("repo") and "http" in paper["repo"]
             else "null"
         )
 
         line = (
-            f"|{paper['publish_time']}"
-            f"|{paper['title']}"
-            f"|{paper['authors']}"
-            f"|{_pdf}"
-            f"|{paper['updated_time']}"
-            f"|{_repo}"
-            
+            f"|{paper['publish_time']}|"
+            f"{paper['title']}|"
+            f"{paper['authors']}|"
+            f"{_pdf}|"
+            f"{paper['updated_time']}|"
+            f"{_repo}|"
         )
 
         return line
+
 
     @staticmethod
     def _set_style_to(style: str = "center"):
