@@ -166,7 +166,7 @@ def db_to_md(conn, md_filename="database/db_markdown/recommend_huggingface_model
     # Markdown 파일 초기화
     with open(md_filename, "w", encoding="utf-8") as f:
         # Header 작성
-        f.write("# Hugging Face Models\n")
+        f.write("# Recommendation of HuggingFace Models\n")
         f.write(f"Updated on {datetime.date.today().strftime('%Y-%m-%d')}\n\n")
         f.write("> Generated from the Hugging Face database.\n\n")
 
