@@ -48,30 +48,55 @@ def init_db(db_name="arxiv.db"):
     conn.commit()
     return conn
 
+# def save_to_db(conn, data):
+#     cursor = conn.cursor()
+#     for topic, subtopics in data.items():
+#         for subtopic, papers in subtopics.items():
+#             for paper_id, paper_data in papers.items():
+#                 # Parse paper_data to extract fields
+#                 fields = paper_data.split('|')
+#                 publish_date = fields[1].strip("**")
+#                 title = fields[2].strip("**")
+#                 authors = fields[3]
+#                 first_author = authors.split(",")[0]
+#                 pdf_url = fields[4].split("(")[-1].strip(")")
+#                 updated_date = fields[5].strip("**")  # updated_date 추가
+#                 code_url = fields[6].split("(")[-1].strip(")") if "link" in fields[5] else None
+
+                
+
+#                 # Insert into database
+#                 cursor.execute("""
+#                     INSERT OR IGNORE INTO papers
+#                     (id, topic, subtopic, publish_date, title, authors, first_author, pdf_url, updated_date, code_url)
+#                     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+#                 """, (paper_id, topic, subtopic, publish_date, title, authors, first_author, pdf_url, updated_date, code_url))
+#     conn.commit()
+
 def save_to_db(conn, data):
     cursor = conn.cursor()
     for topic, subtopics in data.items():
         for subtopic, papers in subtopics.items():
             for paper_id, paper_data in papers.items():
-                # Parse paper_data to extract fields
-                fields = paper_data.split('|')
-                publish_date = fields[1].strip("**")
-                title = fields[2].strip("**")
-                authors = fields[3]
-                first_author = authors.split(",")[0]
-                pdf_url = fields[4].split("(")[-1].strip(")")
-                updated_date = fields[5].strip("**")  # updated_date 추가
-                code_url = fields[6].split("(")[-1].strip(")") if "link" in fields[5] else None
-
-                
-
-                # Insert into database
                 cursor.execute("""
                     INSERT OR IGNORE INTO papers
                     (id, topic, subtopic, publish_date, title, authors, first_author, pdf_url, updated_date, code_url)
                     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-                """, (paper_id, topic, subtopic, publish_date, title, authors, first_author, pdf_url, updated_date, code_url))
+                """, (
+                    paper_data["id"],
+                    topic,
+                    subtopic,
+                    paper_data["publish_date"],
+                    paper_data["title"],
+                    paper_data["authors"],
+                    paper_data["first_author"],
+                    paper_data["pdf_url"],
+                    paper_data["updated_date"],
+                    paper_data["code_url"]
+                ))
     conn.commit()
+
+
 
 def get_authors(authors, first_author=False):
     return ", ".join(str(author) for author in authors) if not first_author else authors[0]
@@ -86,13 +111,45 @@ def get_yaml_data(yaml_file: str):
 
 
 
+# def get_daily_papers(topic: str, query: str = "slam", max_results=10, model=None, processor=None):
+#     content = dict()
+#     search_engine = arxiv.Search(
+#         query=query,
+#         max_results=max_results,
+#         sort_by=arxiv.SortCriterion.SubmittedDate
+#     )
+#     for result in search_engine.results():
+#         paper_id = result.get_short_id()
+#         paper_title = result.title
+#         paper_url = result.entry_id
+#         code_url = base_url + paper_id
+#         paper_authors = get_authors(result.authors)
+#         paper_first_author = get_authors(result.authors, first_author=True)
+#         publish_time = result.published.date()
+#         updated_time = result.updated.date()    # 최종 업데이트 날짜 추가 
+        
+#         try:
+#             r = requests.get(code_url).json()
+#             if "official" in r and r["official"]:
+#                 repo_url = r["official"]["url"]
+#                 # content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
+#                 content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**{updated_time}**|**[link]({repo_url}**|\n"
+            
+#             else: # OCR 
+#                 content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**{updated_time}**|null|\n"
+        
+#         except Exception as e:
+#             print(f"Exception: {e} with id: {paper_id}")
+#     return {topic: content}
+
 def get_daily_papers(topic: str, query: str = "slam", max_results=10, model=None, processor=None):
-    content = dict()
+    content = {topic: {}}
     search_engine = arxiv.Search(
         query=query,
         max_results=max_results,
         sort_by=arxiv.SortCriterion.SubmittedDate
     )
+
     for result in search_engine.results():
         paper_id = result.get_short_id()
         paper_title = result.title
@@ -101,23 +158,35 @@ def get_daily_papers(topic: str, query: str = "slam", max_results=10, model=None
         paper_authors = get_authors(result.authors)
         paper_first_author = get_authors(result.authors, first_author=True)
         publish_time = result.published.date()
-        updated_time = result.updated.date()    # 최종 업데이트 날짜 추가 
-        
+        updated_time = result.updated.date()
+
         try:
             r = requests.get(code_url).json()
-            if "official" in r and r["official"]:
-                repo_url = r["official"]["url"]
-                # content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
-                content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**{updated_time}**|**[link]({repo_url}**|\n"
-            
-            else: # OCR 
-                content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**{updated_time}**|null|\n"
-        
+            repo_url = r["official"]["url"] if "official" in r and r["official"] else None
         except Exception as e:
             print(f"Exception: {e} with id: {paper_id}")
-    return {topic: content}
+            repo_url = None
 
+        # DB에 넣을 데이터를 딕셔너리 형태로 저장
+        paper_data = {
+            "id": paper_id,
+            "publish_date": str(publish_time),
+            "title": paper_title,
+            "authors": paper_authors,
+            "first_author": paper_first_author,
+            "pdf_url": paper_url,
+            "updated_date": str(updated_time),
+            "code_url": repo_url
+        }
 
+        if topic not in content:
+            content[topic] = {}
+        if query not in content[topic]:
+            content[topic][query] = {}
+
+        content[topic][query][paper_id] = paper_data  # Markdown 문자열이 아니라 딕셔너리 형태로 저장
+
+    return content
 
 def db_to_md(conn, md_filename="README.md"):
     """
@@ -128,46 +197,41 @@ def db_to_md(conn, md_filename="README.md"):
         f.write("# arxiv-daily\n")
         f.write(f"Updated on {datetime.date.today().strftime('%Y-%m-%d')}\n\n")
         f.write("> Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/your-repo).\n\n")
-        
+
         cursor.execute("SELECT DISTINCT topic FROM papers")
         topics = cursor.fetchall()
         for topic in topics:
             topic_name = topic[0]
             f.write(f"## {topic_name}\n\n")
-            
+
             cursor.execute("SELECT DISTINCT subtopic FROM papers WHERE topic=?", (topic_name,))
             subtopics = cursor.fetchall()
             for subtopic in subtopics:
                 subtopic_name = subtopic[0]
-                f.write(f"### {subtopic_name}\n\n")
+                f.write(f"\n### {subtopic_name}\n\n")
+
                 f.write("| Publish Date | Title | Authors | PDF | Last Updated | Code |\n")
                 f.write("|-------------|-------|---------|-----|-------------|------|\n")
-                
+
                 cursor.execute("""
                     SELECT publish_date, title, authors, pdf_url, updated_date, code_url
                     FROM papers
                     WHERE topic=? AND subtopic=?
                     ORDER BY publish_date DESC
                 """, (topic_name, subtopic_name))
-                
+
                 papers = cursor.fetchall()
                 for paper in papers:
                     publish_date, title, authors, pdf_url, updated_date, code_url = paper
-
-                    # Handle potential None values
-                    publish_date = publish_date if publish_date else "N/A"
-                    title = title if title else "Untitled"
-                    authors = authors if authors else "Unknown"
-                    pdf_url = f"[PDF]({pdf_url})" if pdf_url else "N/A"
-                    updated_date = updated_date if updated_date else "N/A"
                     code_link = f"[link]({code_url})" if code_url else "null"
 
-                    f.write(f"| {publish_date} | **{title}** | {authors} | {pdf_url} | {updated_date} | {code_link} |\n")
-                
+                    f.write(f"| {publish_date} | **{title}** | {authors} | [PDF]({pdf_url}) | {updated_date} | {code_link} |\n")
+
                 f.write("\n")
     
     print(f"Markdown file '{md_filename}' generated successfully.")
 
+    
 # def db_to_md(conn, md_filename="README.md"):
 #     """
 #     SQLite DB 데이터를 읽어 Markdown 파일 생성

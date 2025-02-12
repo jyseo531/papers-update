@@ -365,12 +365,12 @@ class _OverloadTasks:
         )
 
         line = (
-            f"|{paper['publish_time']}|"
-            f"{paper['title']}|"
-            f"{paper['authors']}|"
-            f"{_pdf}|"
-            f"{paper['updated_time']}|"
-            f"{_repo}|"
+            f"|{paper['publish_time']}"
+            f"{paper['title']}"
+            f"{paper['authors']}"
+            f"{_pdf}"
+            f"{paper['updated_time']}"
+            f"{_repo}"
         )
 
         return line
