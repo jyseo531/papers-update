@@ -203,6 +203,6 @@ Updated on 2025-02-12
 | AIDC-AI/Ovis2-16B | AIDC-AI/Ovis2-16B | [Link](https://huggingface.co/AIDC-AI/Ovis2-16B) | apache-2.0 | image-text-to-text |
 | AIDC-AI/Ovis2-4B | AIDC-AI/Ovis2-4B | [Link](https://huggingface.co/AIDC-AI/Ovis2-4B) | apache-2.0 | image-text-to-text |
 | Alpha-VLLM/Lumina-Video-f24R960 | Alpha-VLLM/Lumina-Video-f24R960 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-Video-f24R960) | apache-2.0 | text-to-video |
-| simplescaling/s1.1-32B | http://arxiv.org/abs/2410.08020v3 | [Link](https://huggingface.co/simplescaling/s1.1-32B) | apache-2.0 | text-generation |
-| Almawave/Velvet-2B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Almawave/Velvet-2B) | apache-2.0 | text-generation |
-| intfloat/multilingual-e5-large-instruct | http://arxiv.org/abs/2402.05672v1 | [Link](https://huggingface.co/intfloat/multilingual-e5-large-instruct) | mit | feature-extraction |
+| simplescaling/s1.1-32B | simplescaling/s1.1-32B | [Link](https://huggingface.co/simplescaling/s1.1-32B) | apache-2.0 | text-generation |
+| Almawave/Velvet-2B | Almawave/Velvet-2B | [Link](https://huggingface.co/Almawave/Velvet-2B) | apache-2.0 | text-generation |
+| intfloat/multilingual-e5-large-instruct | intfloat/multilingual-e5-large-instruct | [Link](https://huggingface.co/intfloat/multilingual-e5-large-instruct) | mit | feature-extraction |
