@@ -211,5 +211,5 @@ Updated on 2025-02-13
 | HuggingFaceTB/SmolLM2-135M-Instruct | HuggingFaceTB/SmolLM2-135M-Instruct | [Link](https://huggingface.co/HuggingFaceTB/SmolLM2-135M-Instruct) | apache-2.0 | text-generation |
 | PygmalionAI/Pygmalion-3-12B | PygmalionAI/Pygmalion-3-12B | [Link](https://huggingface.co/PygmalionAI/Pygmalion-3-12B) | apache-2.0 | None |
 | open-thoughts/OpenThinker-32B | open-thoughts/OpenThinker-32B | [Link](https://huggingface.co/open-thoughts/OpenThinker-32B) | apache-2.0 | text-generation |
-| large-traversaal/Alif-1.0-8B-Instruct | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/large-traversaal/Alif-1.0-8B-Instruct) | apache-2.0 | None |
-| sbintuitions/modernbert-ja-130m | None | [Link](https://huggingface.co/sbintuitions/modernbert-ja-130m) | mit | fill-mask |
+| large-traversaal/Alif-1.0-8B-Instruct | large-traversaal/Alif-1.0-8B-Instruct | [Link](https://huggingface.co/large-traversaal/Alif-1.0-8B-Instruct) | apache-2.0 | None |
+| sbintuitions/modernbert-ja-130m | sbintuitions/modernbert-ja-130m | [Link](https://huggingface.co/sbintuitions/modernbert-ja-130m) | mit | fill-mask |
