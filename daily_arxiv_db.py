@@ -166,7 +166,7 @@ def db_to_md(conn, md_filename="README.md"):
                 for paper in papers:
                     publish_date, title, authors, pdf_url, updated_date, code_url = paper
                     pdf_link = f"[PDF]({pdf_url})" if pdf_url else "N/A"
-                    code_link = f"[link]({code_url})" if code_url else "null"
+                    code_link = f"[link]({code_url})" if code_url else "N/A"
 
                     f.write(f"| {publish_date} | **{title}** | {authors} | {pdf_link} | {updated_date} | {code_link} |\n")
 

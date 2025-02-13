@@ -369,7 +369,7 @@ class _OverloadTasks:
             f"{paper['authors']} |"
             f"{_pdf} |"
             f"{paper['updated_time']} |"
-            f"|{_repo} |\n"
+            f"|{_repo}|\n"
         )
 
         return line
