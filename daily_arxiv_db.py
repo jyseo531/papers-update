@@ -20,6 +20,16 @@ try:
 except ImportError:
     from yaml import Loader, Dumper
 
+from config import (
+    SERVER_DIR_DATABASE ,
+    SERVER_DIR_STORAGE,
+    SERVER_PATH_README,
+    SERVER_PATH_DOCS,
+    SERVER_DIR_HISTORY,
+    SERVER_PATH_STORAGE_MD,
+    TIME_ZONE_KR,
+    logger,
+)
 # from using_ocr import load_model, loading_pdf_image, perform_ocr, extract_link
 
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
@@ -192,7 +202,7 @@ if __name__ == "__main__":
     save_to_db(conn, data_collector)
     
     # Generate Markdown file from database
-    db_to_md(conn, './database/db_markdown/readme.md')
+    db_to_md(conn, SERVER_PATH_README)
     conn.close()
     
     print("Data saved to SQLite database and Markdown file generated.")

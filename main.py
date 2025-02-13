@@ -353,10 +353,9 @@ class _OverloadTasks:
         return f"[{text}]({link})"
 
     def _generate_markdown_table_content(self, paper: dict):
-        paper["publish_time"] = f"**{paper.get('publish_time', 'N/A')}**"
-        paper["updated_time"] = f"**{paper.get('updated_time', 'N/A')}**"  # 추가
-        paper["title"] = f"**{paper.get('title', 'Untitled')}**"
-
+        paper["publish_time"] = f"**{paper['publish_time']}**"
+        paper["updated_time"] = f"**{paper['updated_time']}**"  # 추가
+        paper["title"] = f"**{paper['title']}**"
         _pdf = self._set_markdown_hyperlink(text=paper["id"], link=paper["paper_url"])
         _repo = (
             self._set_markdown_hyperlink(text="link", link=paper["repo"])
