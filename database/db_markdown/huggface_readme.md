@@ -209,4 +209,4 @@ Updated on 2025-02-13
 | nomic-ai/nomic-embed-text-v2-moe | nomic-ai/nomic-embed-text-v2-moe | [Link](https://huggingface.co/nomic-ai/nomic-embed-text-v2-moe) | apache-2.0 | sentence-similarity |
 | Liberata/illustrious-xl-v1.0 | Liberata/illustrious-xl-v1.0 | [Link](https://huggingface.co/Liberata/illustrious-xl-v1.0) | mit | text-to-image |
 | HuggingFaceTB/SmolLM2-135M-Instruct | HuggingFaceTB/SmolLM2-135M-Instruct | [Link](https://huggingface.co/HuggingFaceTB/SmolLM2-135M-Instruct) | apache-2.0 | text-generation |
-| PygmalionAI/Pygmalion-3-12B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/PygmalionAI/Pygmalion-3-12B) | apache-2.0 | None |
+| PygmalionAI/Pygmalion-3-12B | PygmalionAI/Pygmalion-3-12B | [Link](https://huggingface.co/PygmalionAI/Pygmalion-3-12B) | apache-2.0 | None |
