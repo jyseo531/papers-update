@@ -2088,7 +2088,7 @@
 |**2025-02-11**|**EdgeEar: Efficient and Accurate Ear Recognition for Edge Devices**|Camile Lendering et.al.|[2502.07734v1](http://arxiv.org/abs/2502.07734v1)|null|
 |**2025-02-11**|**Spectral analysis of Grushin type operators on the quarter plane**|Krzysztof Stempak et.al.|[2502.07729v1](http://arxiv.org/abs/2502.07729v1)|null|
 |**2025-02-11**|**Pluto: Authoring Semantically Aligned Text and Charts for Data-Driven Communication**|Arjun Srinivasan et.al.|[2502.07725v1](http://arxiv.org/abs/2502.07725v1)|null|
-|**2025-02-11**|**OpenCat: Improving Interoperability of ADS Testing**|Qurban Ali et.al.|[2502.07719v1](http://arxiv.org/abs/2502.07719v1)|null|
+|**2025-02-11**|**OpenCat: Improving Interoperability of ADS Testing**|Qurban Ali et.al.|[2502.07719v2](http://arxiv.org/abs/2502.07719v2)|null|
 |**2025-02-11**|**RenderBox: Expressive Performance Rendering with Text Control**|Huan Zhang et.al.|[2502.07711v1](http://arxiv.org/abs/2502.07711v1)|null|
 |**2025-02-10**|**DeepCrossAttention: Supercharging Transformer Residual Connections**|Mike Heddes et.al.|[2502.06785v1](http://arxiv.org/abs/2502.06785v1)|null|
 |**2025-02-10**|**Lumina-Video: Efficient and Flexible Video Generation with Multi-scale Next-DiT**|Dongyang Liu et.al.|[2502.06782v1](http://arxiv.org/abs/2502.06782v1)|null|
@@ -3249,7 +3249,7 @@
 |**2025-02-11**|**An Alternative Approach to the Exact Solution of FRW-Type Spacetime with a Generalized Chaplygin Gas**|D Panigrahi et.al.|[2502.07700v1](http://arxiv.org/abs/2502.07700v1)|null|
 |**2025-02-11**|**Distributional Instrumental Variable Method**|Anastasiia Holovchak et.al.|[2502.07641v1](http://arxiv.org/abs/2502.07641v1)|null|
 |**2025-02-11**|**BiaSWE: An Expert Annotated Dataset for Misogyny Detection in Swedish**|Kätriin Kukk et.al.|[2502.07637v1](http://arxiv.org/abs/2502.07637v1)|null|
-|**2025-02-11**|**HarmonyCut: Supporting Creative Chinese Paper-cutting Design with Form and Connotation Harmony**|Huanchen Wang et.al.|[2502.07628v1](http://arxiv.org/abs/2502.07628v1)|null|
+|**2025-02-11**|**HarmonyCut: Supporting Creative Chinese Paper-cutting Design with Form and Connotation Harmony**|Huanchen Wang et.al.|[2502.07628v2](http://arxiv.org/abs/2502.07628v2)|null|
 |**2025-02-11**|**DPO-Shift: Shifting the Distribution of Direct Preference Optimization**|Xiliang Yang et.al.|[2502.07599v1](http://arxiv.org/abs/2502.07599v1)|null|
 |**2025-02-10**|**KARST: Multi-Kernel Kronecker Adaptation with Re-Scaling Transmission for Visual Classification**|Yue Zhu et.al.|[2502.06779v1](http://arxiv.org/abs/2502.06779v1)|null|
 |**2025-02-10**|**Enhancing Trust in Language Model-Based Code Optimization through RLHF: A Research Design**|Jingzhi Gong et.al.|[2502.06769v1](http://arxiv.org/abs/2502.06769v1)|null|
