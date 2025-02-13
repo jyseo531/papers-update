@@ -121,9 +121,9 @@ def get_daily_papers(topic: str, query: str = "slam", max_results=10, model=None
             if "official" in r and r["official"]:
                 repo_url = r["official"]["url"]
                 # content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
-                content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**{updated_time}**|**[link]({repo_url}**|\n"
+                content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**{updated_time}**|**[link]({code_url}**|\n"
             
-            else: # OCR 
+            else: 
                 content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**{updated_time}**|null|\n"
         
         except Exception as e:
