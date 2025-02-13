@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-02-12
+Updated on 2025-02-13
 
 > Generated from the Hugging Face database.
 
@@ -206,3 +206,6 @@ Updated on 2025-02-12
 | simplescaling/s1.1-32B | simplescaling/s1.1-32B | [Link](https://huggingface.co/simplescaling/s1.1-32B) | apache-2.0 | text-generation |
 | Almawave/Velvet-2B | Almawave/Velvet-2B | [Link](https://huggingface.co/Almawave/Velvet-2B) | apache-2.0 | text-generation |
 | intfloat/multilingual-e5-large-instruct | intfloat/multilingual-e5-large-instruct | [Link](https://huggingface.co/intfloat/multilingual-e5-large-instruct) | mit | feature-extraction |
+| nomic-ai/nomic-embed-text-v2-moe | http://arxiv.org/abs/2406.07432v1 | [Link](https://huggingface.co/nomic-ai/nomic-embed-text-v2-moe) | apache-2.0 | sentence-similarity |
+| Liberata/illustrious-xl-v1.0 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Liberata/illustrious-xl-v1.0) | mit | text-to-image |
+| HuggingFaceTB/SmolLM2-135M-Instruct | None | [Link](https://huggingface.co/HuggingFaceTB/SmolLM2-135M-Instruct) | apache-2.0 | text-generation |
