@@ -217,6 +217,6 @@ Updated on 2025-02-14
 | agents-course/notebooks | agents-course/notebooks | [Link](https://huggingface.co/agents-course/notebooks) | apache-2.0 | None |
 | microsoft/OmniParser-v2.0 | microsoft/OmniParser-v2.0 | [Link](https://huggingface.co/microsoft/OmniParser-v2.0) | mit | image-text-to-text |
 | ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q4 | ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q4 | [Link](https://huggingface.co/ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q4) | apache-2.0 | reinforcement-learning |
-| zed-industries/zeta | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/zed-industries/zeta) | apache-2.0 | None |
-| NousResearch/DeepHermes-3-Llama-3-8B-Preview-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview-GGUF) | llama3 | None |
-| UNIVA-Bllossom/DeepSeek-llama3.3-Bllossom-70B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/UNIVA-Bllossom/DeepSeek-llama3.3-Bllossom-70B) | mit | None |
+| zed-industries/zeta | zed-industries/zeta | [Link](https://huggingface.co/zed-industries/zeta) | apache-2.0 | None |
+| NousResearch/DeepHermes-3-Llama-3-8B-Preview-GGUF | NousResearch/DeepHermes-3-Llama-3-8B-Preview-GGUF | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview-GGUF) | llama3 | None |
+| UNIVA-Bllossom/DeepSeek-llama3.3-Bllossom-70B | UNIVA-Bllossom/DeepSeek-llama3.3-Bllossom-70B | [Link](https://huggingface.co/UNIVA-Bllossom/DeepSeek-llama3.3-Bllossom-70B) | mit | None |
