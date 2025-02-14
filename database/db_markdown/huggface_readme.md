@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-02-13
+Updated on 2025-02-14
 
 > Generated from the Hugging Face database.
 
@@ -213,3 +213,7 @@ Updated on 2025-02-13
 | open-thoughts/OpenThinker-32B | open-thoughts/OpenThinker-32B | [Link](https://huggingface.co/open-thoughts/OpenThinker-32B) | apache-2.0 | text-generation |
 | large-traversaal/Alif-1.0-8B-Instruct | large-traversaal/Alif-1.0-8B-Instruct | [Link](https://huggingface.co/large-traversaal/Alif-1.0-8B-Instruct) | apache-2.0 | None |
 | sbintuitions/modernbert-ja-130m | sbintuitions/modernbert-ja-130m | [Link](https://huggingface.co/sbintuitions/modernbert-ja-130m) | mit | fill-mask |
+| NousResearch/DeepHermes-3-Llama-3-8B-Preview | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview) | llama3 | text-generation |
+| agents-course/notebooks | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/agents-course/notebooks) | apache-2.0 | None |
+| microsoft/OmniParser-v2.0 | http://arxiv.org/abs/2408.00203v1 | [Link](https://huggingface.co/microsoft/OmniParser-v2.0) | mit | image-text-to-text |
+| ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q4 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q4) | apache-2.0 | reinforcement-learning |
