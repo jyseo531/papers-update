@@ -223,5 +223,5 @@ Updated on 2025-02-15
 | allenai/OLMoE-1B-7B-0125-Instruct | allenai/OLMoE-1B-7B-0125-Instruct | [Link](https://huggingface.co/allenai/OLMoE-1B-7B-0125-Instruct) | apache-2.0 | text-generation |
 | open-r1/OpenR1-Qwen-7B | open-r1/OpenR1-Qwen-7B | [Link](https://huggingface.co/open-r1/OpenR1-Qwen-7B) | apache-2.0 | text-generation |
 | bartowski/agentica-org_DeepScaleR-1.5B-Preview-GGUF | bartowski/agentica-org_DeepScaleR-1.5B-Preview-GGUF | [Link](https://huggingface.co/bartowski/agentica-org_DeepScaleR-1.5B-Preview-GGUF) | mit | text-generation |
-| TheDrummer/Cydonia-24B-v2 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/TheDrummer/Cydonia-24B-v2) | other | None |
-| Vikhrmodels/QVikhr-2.5-1.5B-Instruct-r | None | [Link](https://huggingface.co/Vikhrmodels/QVikhr-2.5-1.5B-Instruct-r) | apache-2.0 | text-generation |
+| TheDrummer/Cydonia-24B-v2 | TheDrummer/Cydonia-24B-v2 | [Link](https://huggingface.co/TheDrummer/Cydonia-24B-v2) | other | None |
+| Vikhrmodels/QVikhr-2.5-1.5B-Instruct-r | Vikhrmodels/QVikhr-2.5-1.5B-Instruct-r | [Link](https://huggingface.co/Vikhrmodels/QVikhr-2.5-1.5B-Instruct-r) | apache-2.0 | text-generation |
