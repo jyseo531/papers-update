@@ -169,7 +169,7 @@ Updated on 2025-02-15
 | krutrim-ai-labs/Krutrim-2-instruct | krutrim-ai-labs/Krutrim-2-instruct | [Link](https://huggingface.co/krutrim-ai-labs/Krutrim-2-instruct) | other | None |
 | ByteDance/AnimateDiff-Lightning | ByteDance/AnimateDiff-Lightning | [Link](https://huggingface.co/ByteDance/AnimateDiff-Lightning) | creativeml-openrail-m | text-to-video |
 | xwen-team/Xwen-7B-Chat | xwen-team/Xwen-7B-Chat | [Link](https://huggingface.co/xwen-team/Xwen-7B-Chat) | apache-2.0 | text-generation |
-| meta-llama/Meta-Llama-3-8B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) | llama3 | text-generation |
+| meta-llama/Meta-Llama-3-8B | meta-llama/Meta-Llama-3-8B | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) | llama3 | text-generation |
 | HuggingFaceTB/SmolLM2-1.7B-Instruct | HuggingFaceTB/SmolLM2-1.7B-Instruct | [Link](https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B-Instruct) | apache-2.0 | text-generation |
 | cognitivecomputations/Dolphin3.0-R1-Mistral-24B | cognitivecomputations/Dolphin3.0-R1-Mistral-24B | [Link](https://huggingface.co/cognitivecomputations/Dolphin3.0-R1-Mistral-24B) | Unknown license | text-generation |
 | cognitivecomputations/Dolphin3.0-Mistral-24B | cognitivecomputations/Dolphin3.0-Mistral-24B | [Link](https://huggingface.co/cognitivecomputations/Dolphin3.0-Mistral-24B) | Unknown license | text-generation |
@@ -220,6 +220,8 @@ Updated on 2025-02-15
 | zed-industries/zeta | zed-industries/zeta | [Link](https://huggingface.co/zed-industries/zeta) | apache-2.0 | None |
 | NousResearch/DeepHermes-3-Llama-3-8B-Preview-GGUF | NousResearch/DeepHermes-3-Llama-3-8B-Preview-GGUF | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview-GGUF) | llama3 | None |
 | UNIVA-Bllossom/DeepSeek-llama3.3-Bllossom-70B | UNIVA-Bllossom/DeepSeek-llama3.3-Bllossom-70B | [Link](https://huggingface.co/UNIVA-Bllossom/DeepSeek-llama3.3-Bllossom-70B) | mit | text-generation |
-| allenai/OLMoE-1B-7B-0125-Instruct | http://arxiv.org/abs/2408.10441v1 | [Link](https://huggingface.co/allenai/OLMoE-1B-7B-0125-Instruct) | apache-2.0 | text-generation |
-| open-r1/OpenR1-Qwen-7B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/open-r1/OpenR1-Qwen-7B) | apache-2.0 | text-generation |
-| bartowski/agentica-org_DeepScaleR-1.5B-Preview-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/agentica-org_DeepScaleR-1.5B-Preview-GGUF) | mit | text-generation |
+| allenai/OLMoE-1B-7B-0125-Instruct | allenai/OLMoE-1B-7B-0125-Instruct | [Link](https://huggingface.co/allenai/OLMoE-1B-7B-0125-Instruct) | apache-2.0 | text-generation |
+| open-r1/OpenR1-Qwen-7B | open-r1/OpenR1-Qwen-7B | [Link](https://huggingface.co/open-r1/OpenR1-Qwen-7B) | apache-2.0 | text-generation |
+| bartowski/agentica-org_DeepScaleR-1.5B-Preview-GGUF | bartowski/agentica-org_DeepScaleR-1.5B-Preview-GGUF | [Link](https://huggingface.co/bartowski/agentica-org_DeepScaleR-1.5B-Preview-GGUF) | mit | text-generation |
+| TheDrummer/Cydonia-24B-v2 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/TheDrummer/Cydonia-24B-v2) | other | None |
+| Vikhrmodels/QVikhr-2.5-1.5B-Instruct-r | None | [Link](https://huggingface.co/Vikhrmodels/QVikhr-2.5-1.5B-Instruct-r) | apache-2.0 | text-generation |
