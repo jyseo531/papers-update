@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-02-14
+Updated on 2025-02-15
 
 > Generated from the Hugging Face database.
 
@@ -219,4 +219,7 @@ Updated on 2025-02-14
 | ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q4 | ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q4 | [Link](https://huggingface.co/ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q4) | apache-2.0 | reinforcement-learning |
 | zed-industries/zeta | zed-industries/zeta | [Link](https://huggingface.co/zed-industries/zeta) | apache-2.0 | None |
 | NousResearch/DeepHermes-3-Llama-3-8B-Preview-GGUF | NousResearch/DeepHermes-3-Llama-3-8B-Preview-GGUF | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview-GGUF) | llama3 | None |
-| UNIVA-Bllossom/DeepSeek-llama3.3-Bllossom-70B | UNIVA-Bllossom/DeepSeek-llama3.3-Bllossom-70B | [Link](https://huggingface.co/UNIVA-Bllossom/DeepSeek-llama3.3-Bllossom-70B) | mit | None |
+| UNIVA-Bllossom/DeepSeek-llama3.3-Bllossom-70B | UNIVA-Bllossom/DeepSeek-llama3.3-Bllossom-70B | [Link](https://huggingface.co/UNIVA-Bllossom/DeepSeek-llama3.3-Bllossom-70B) | mit | text-generation |
+| allenai/OLMoE-1B-7B-0125-Instruct | http://arxiv.org/abs/2408.10441v1 | [Link](https://huggingface.co/allenai/OLMoE-1B-7B-0125-Instruct) | apache-2.0 | text-generation |
+| open-r1/OpenR1-Qwen-7B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/open-r1/OpenR1-Qwen-7B) | apache-2.0 | text-generation |
+| bartowski/agentica-org_DeepScaleR-1.5B-Preview-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/bartowski/agentica-org_DeepScaleR-1.5B-Preview-GGUF) | mit | text-generation |
