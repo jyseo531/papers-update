@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-02-15
+Updated on 2025-02-16
 
 > Generated from the Hugging Face database.
 
@@ -225,3 +225,4 @@ Updated on 2025-02-15
 | bartowski/agentica-org_DeepScaleR-1.5B-Preview-GGUF | bartowski/agentica-org_DeepScaleR-1.5B-Preview-GGUF | [Link](https://huggingface.co/bartowski/agentica-org_DeepScaleR-1.5B-Preview-GGUF) | mit | text-generation |
 | TheDrummer/Cydonia-24B-v2 | TheDrummer/Cydonia-24B-v2 | [Link](https://huggingface.co/TheDrummer/Cydonia-24B-v2) | other | None |
 | Vikhrmodels/QVikhr-2.5-1.5B-Instruct-r | Vikhrmodels/QVikhr-2.5-1.5B-Instruct-r | [Link](https://huggingface.co/Vikhrmodels/QVikhr-2.5-1.5B-Instruct-r) | apache-2.0 | text-generation |
+| Qwen/Qwen2.5-7B-Instruct | http://arxiv.org/abs/2405.18009v2 | [Link](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct) | apache-2.0 | text-generation |
