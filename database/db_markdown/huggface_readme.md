@@ -226,6 +226,6 @@ Updated on 2025-02-16
 | TheDrummer/Cydonia-24B-v2 | TheDrummer/Cydonia-24B-v2 | [Link](https://huggingface.co/TheDrummer/Cydonia-24B-v2) | other | None |
 | Vikhrmodels/QVikhr-2.5-1.5B-Instruct-r | Vikhrmodels/QVikhr-2.5-1.5B-Instruct-r | [Link](https://huggingface.co/Vikhrmodels/QVikhr-2.5-1.5B-Instruct-r) | apache-2.0 | text-generation |
 | Qwen/Qwen2.5-7B-Instruct | Qwen/Qwen2.5-7B-Instruct | [Link](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct) | apache-2.0 | text-generation |
-| ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q8 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q8) | apache-2.0 | reinforcement-learning |
-| meta-llama/Llama-2-7b-chat-hf | http://arxiv.org/abs/2403.00858v4 | [Link](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf) | llama2 | text-generation |
-| city96/FLUX.1-dev-gguf | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/city96/FLUX.1-dev-gguf) | other | text-to-image |
+| ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q8 | ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q8 | [Link](https://huggingface.co/ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q8) | apache-2.0 | reinforcement-learning |
+| meta-llama/Llama-2-7b-chat-hf | meta-llama/Llama-2-7b-chat-hf | [Link](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf) | llama2 | text-generation |
+| city96/FLUX.1-dev-gguf | city96/FLUX.1-dev-gguf | [Link](https://huggingface.co/city96/FLUX.1-dev-gguf) | other | text-to-image |
