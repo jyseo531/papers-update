@@ -1670,7 +1670,7 @@
 |**2025-02-13**|**A Hybrid Model for Few-Shot Text Classification Using Transfer and Meta-Learning**|Jia Gao et.al.|[2502.09086v1](http://arxiv.org/abs/2502.09086v1)|null|
 |**2025-02-12**|**$\mathsf{CSMAE~}$:~Cataract Surgical Masked Autoencoder (MAE) based Pre-training**|Nisarg A. Shah et.al.|[2502.08822v1](http://arxiv.org/abs/2502.08822v1)|null|
 |**2025-02-12**|**Advancing machine fault diagnosis: A detailed examination of convolutional neural networks**|Govind Vashishtha et.al.|[2502.08689v1](http://arxiv.org/abs/2502.08689v1)|null|
-|**2025-02-12**|**Multifidelity Simulation-based Inference for Computationally Expensive Simulators**|Anastasia N. Krouglova et.al.|[2502.08416v1](http://arxiv.org/abs/2502.08416v1)|null|
+|**2025-02-12**|**Multifidelity Simulation-based Inference for Computationally Expensive Simulators**|Anastasia N. Krouglova et.al.|[2502.08416v2](http://arxiv.org/abs/2502.08416v2)|null|
 |**2025-02-12**|**Hi-End-MAE: Hierarchical encoder-driven masked autoencoders are stronger vision learners for medical image segmentation**|Fenghe Tang et.al.|[2502.08347v1](http://arxiv.org/abs/2502.08347v1)|null|
 |**2025-02-12**|**Knowledge-Guided Wasserstein Distributionally Robust Optimization**|Zitao Wang et.al.|[2502.08146v1](http://arxiv.org/abs/2502.08146v1)|null|
 |**2025-02-11**|**Instance-dependent Early Stopping**|Suqin Yuan et.al.|[2502.07547v1](http://arxiv.org/abs/2502.07547v1)|**[link](https://github.com/tmllab/2025_ICLR_IES)**|
@@ -2192,7 +2192,7 @@
 |**2025-02-13**|**Collective migration and topological phase transitions in confluent epithelia**|Leonardo Puggioni et.al.|[2502.09554v1](http://arxiv.org/abs/2502.09554v1)|null|
 |**2025-02-13**|**Projecting Unequal Time Fields and Correlators of Large Scale Structure**|Theodore Steele et.al.|[2502.09518v1](http://arxiv.org/abs/2502.09518v1)|null|
 |**2025-02-13**|**Gabor systems with Hermite functions of order n and oversampling greater n+1 which are not frames**|Markus Faulhuber et.al.|[2502.09510v1](http://arxiv.org/abs/2502.09510v1)|null|
-|**2025-02-13**|**EQ-VAE: Equivariance Regularized Latent Space for Improved Generative Image Modeling**|Theodoros Kouzelis et.al.|[2502.09509v1](http://arxiv.org/abs/2502.09509v1)|null|
+|**2025-02-13**|**EQ-VAE: Equivariance Regularized Latent Space for Improved Generative Image Modeling**|Theodoros Kouzelis et.al.|[2502.09509v2](http://arxiv.org/abs/2502.09509v2)|null|
 |**2025-02-12**|**Poly-Autoregressive Prediction for Modeling Interactions**|Neerja Thakkar et.al.|[2502.08646v1](http://arxiv.org/abs/2502.08646v1)|null|
 |**2025-02-12**|**SwiftSketch: A Diffusion Model for Image-to-Vector Sketch Generation**|Ellie Arar et.al.|[2502.08642v1](http://arxiv.org/abs/2502.08642v1)|null|
 |**2025-02-12**|**Constructing optimal Wannier functions via potential theory: isolated single band for matrix models**|Hanwen Zhang et.al.|[2502.08641v1](http://arxiv.org/abs/2502.08641v1)|null|
@@ -2530,7 +2530,7 @@
 |**2025-02-13**|**Self-Supervised Graph Contrastive Pretraining for Device-level Integrated Circuits**|Sungyoung Lee et.al.|[2502.08949v1](http://arxiv.org/abs/2502.08949v1)|null|
 |**2025-02-12**|**Bridging Domain Adaptation and Graph Neural Networks: A Tensor-Based Framework for Effective Label Propagation**|Tao Wen et.al.|[2502.08505v1](http://arxiv.org/abs/2502.08505v1)|null|
 |**2025-02-12**|**Trustworthy GNNs with LLMs: A Systematic Review and Taxonomy**|Ruizhan Xue et.al.|[2502.08353v1](http://arxiv.org/abs/2502.08353v1)|null|
-|**2025-02-12**|**Graph Foundation Models for Recommendation: A Comprehensive Survey**|Bin Wu et.al.|[2502.08346v1](http://arxiv.org/abs/2502.08346v1)|null|
+|**2025-02-12**|**Graph Foundation Models for Recommendation: A Comprehensive Survey**|Bin Wu et.al.|[2502.08346v2](http://arxiv.org/abs/2502.08346v2)|null|
 |**2025-02-12**|**Data Pricing for Graph Neural Networks without Pre-purchased Inspection**|Yiping Liu et.al.|[2502.08284v1](http://arxiv.org/abs/2502.08284v1)|null|
 |**2025-02-12**|**Equivariant Masked Position Prediction for Efficient Molecular Representation**|Junyi An et.al.|[2502.08209v1](http://arxiv.org/abs/2502.08209v1)|null|
 |**2025-02-12**|**MixDec Sampling: A Soft Link-based Sampling Method of Graph Neural Network for Recommendation**|Xiangjin Xie et.al.|[2502.08161v1](http://arxiv.org/abs/2502.08161v1)|null|
@@ -3777,7 +3777,7 @@
 |---|---|---|---|---|
 |**2025-02-12**|**ActiveSSF: An Active-Learning-Guided Self-Supervised Framework for Long-Tailed Megakaryocyte Classification**|Linghao Zhuang et.al.|[2502.08200v1](http://arxiv.org/abs/2502.08200v1)|null|
 |**2025-02-11**|**Joint Modelling Histology and Molecular Markers for Cancer Classification**|Xiaofei Wang et.al.|[2502.07979v1](http://arxiv.org/abs/2502.07979v1)|null|
-|**2025-02-11**|**The Devil is in the Prompts: De-Identification Traces Enhance Memorization Risks in Synthetic Chest X-Ray Generation**|Raman Dutt et.al.|[2502.07516v1](http://arxiv.org/abs/2502.07516v1)|**[link](https://github.com/Raman1121/diffusion_memorization)**|
+|**2025-02-11**|**The Devil is in the Prompts: De-Identification Traces Enhance Memorization Risks in Synthetic Chest X-Ray Generation**|Raman Dutt et.al.|[2502.07516v2](http://arxiv.org/abs/2502.07516v2)|**[link](https://github.com/Raman1121/diffusion_memorization)**|
 |**2025-02-10**|**Prototype Contrastive Consistency Learning for Semi-Supervised Medical Image Segmentation**|Shihuan He et.al.|[2502.06650v1](http://arxiv.org/abs/2502.06650v1)|null|
 |**2025-02-10**|**Multi-Scale Transformer Architecture for Accurate Medical Image Classification**|Jiacheng Hu et.al.|[2502.06243v1](http://arxiv.org/abs/2502.06243v1)|null|
 |**2025-02-06**|**L2GNet: Optimal Local-to-Global Representation of Anatomical Structures for Generalized Medical Image Segmentation**|Vandan Gorade et.al.|[2502.05229v1](http://arxiv.org/abs/2502.05229v1)|null|
