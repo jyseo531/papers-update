@@ -53,8 +53,7 @@ Updated on 2025-02-17
 | mistralai/Mistral-Nemo-Instruct-2407 | mistralai/Mistral-Nemo-Instruct-2407 | [Link](https://huggingface.co/mistralai/Mistral-Nemo-Instruct-2407) | apache-2.0 | text-generation |
 | meta-llama/Llama-3.2-1B | meta-llama/Llama-3.2-1B | [Link](https://huggingface.co/meta-llama/Llama-3.2-1B) | llama3.2 | text-generation |
 | driaforall/Dria-Agent-a-7B | DynaSaur: Large Language Agents Beyond Predefined Actions | [Link](https://huggingface.co/driaforall/Dria-Agent-a-7B) | apache-2.0 | text-generation |
-| answerdotai/ModernBERT-base | Smarter, Better, Faster, Longer: A Modern Bidirectional Encoder for
-  Fast, Memory Efficient, and Long Context Finetuning and Inference | [Link](https://huggingface.co/answerdotai/ModernBERT-base) | apache-2.0 | fill-mask |
+| answerdotai/ModernBERT-base | answerdotai/ModernBERT-base | [Link](https://huggingface.co/answerdotai/ModernBERT-base) | apache-2.0 | fill-mask |
 | physical-intelligence/fast | NULL | [Link](https://huggingface.co/physical-intelligence/fast) | apache-2.0 | robotics |
 | Efficient-Large-Model/Sana_1600M_1024px | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion
   Transformers | [Link](https://huggingface.co/Efficient-Large-Model/Sana_1600M_1024px) | Unknown license | text-to-image |
@@ -231,3 +230,6 @@ Updated on 2025-02-17
 | city96/FLUX.1-dev-gguf | city96/FLUX.1-dev-gguf | [Link](https://huggingface.co/city96/FLUX.1-dev-gguf) | other | text-to-image |
 | OpenGVLab/InternVideo2_5_Chat_8B | OpenGVLab/InternVideo2_5_Chat_8B | [Link](https://huggingface.co/OpenGVLab/InternVideo2_5_Chat_8B) | apache-2.0 | video-text-to-text |
 | smirki/UIGEN-T1-Qwen-7b | smirki/UIGEN-T1-Qwen-7b | [Link](https://huggingface.co/smirki/UIGEN-T1-Qwen-7b) | apache-2.0 | text-generation |
+| stepfun-ai/stepvideo-t2v | None | [Link](https://huggingface.co/stepfun-ai/stepvideo-t2v) | mit | None |
+| stepfun-ai/stepvideo-t2v-turbo | None | [Link](https://huggingface.co/stepfun-ai/stepvideo-t2v-turbo) | mit | None |
+| microsoft/OmniParser | http://arxiv.org/abs/2408.00203v1 | [Link](https://huggingface.co/microsoft/OmniParser) | mit | image-text-to-text |
