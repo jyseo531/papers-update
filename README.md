@@ -1,4 +1,4 @@
-## Updated on 2025.02.16
+## Updated on 2025.02.17
 
 > Welcome to contribute! Add your topics and keywords in `topic.yml`
 
@@ -1815,7 +1815,7 @@
 |---|---|---|---|---|
 |**2025-02-13**|**FARM: Frequency-Aware Model for Cross-Domain Live-Streaming Recommendation**|Xiaodong Li et.al.|[2502.09375v1](http://arxiv.org/abs/2502.09375v1)|null|
 |**2025-02-13**|**Graph Diffusion Network for Drug-Gene Prediction**|Jiayang Wu et.al.|[2502.09335v1](http://arxiv.org/abs/2502.09335v1)|null|
-|**2025-02-13**|**GEVRM: Goal-Expressive Video Generation Model For Robust Visual Manipulation**|Hongyin Zhang et.al.|[2502.09268v1](http://arxiv.org/abs/2502.09268v1)|null|
+|**2025-02-13**|**GEVRM: Goal-Expressive Video Generation Model For Robust Visual Manipulation**|Hongyin Zhang et.al.|[2502.09268v2](http://arxiv.org/abs/2502.09268v2)|null|
 |**2025-02-13**|**Neuro-Symbolic Contrastive Learning for Cross-domain Inference**|Mingyue Liu et.al.|[2502.09213v1](http://arxiv.org/abs/2502.09213v1)|null|
 |**2025-02-13**|**Self-Supervised Graph Contrastive Pretraining for Device-level Integrated Circuits**|Sungyoung Lee et.al.|[2502.08949v1](http://arxiv.org/abs/2502.08949v1)|null|
 |**2025-02-12**|**A Novel Approach to for Multimodal Emotion Recognition : Multimodal semantic information fusion**|Wei Dai et.al.|[2502.08573v1](http://arxiv.org/abs/2502.08573v1)|null|
@@ -2525,7 +2525,7 @@
 |**2025-02-13**|**Machine learning for modelling unstructured grid data in computational physics: a review**|Sibo Cheng et.al.|[2502.09346v1](http://arxiv.org/abs/2502.09346v1)|null|
 |**2025-02-13**|**Revisiting Topological Interference Management: A Learning-to-Code on Graphs Perspective**|Zhiwei Shan et.al.|[2502.09344v1](http://arxiv.org/abs/2502.09344v1)|null|
 |**2025-02-13**|**Graph Diffusion Network for Drug-Gene Prediction**|Jiayang Wu et.al.|[2502.09335v1](http://arxiv.org/abs/2502.09335v1)|null|
-|**2025-02-13**|**LiSA: Leveraging Link Recommender to Attack Graph Neural Networks via Subgraph Injection**|Wenlun Zhang et.al.|[2502.09271v1](http://arxiv.org/abs/2502.09271v1)|null|
+|**2025-02-13**|**LiSA: Leveraging Link Recommender to Attack Graph Neural Networks via Subgraph Injection**|Wenlun Zhang et.al.|[2502.09271v2](http://arxiv.org/abs/2502.09271v2)|null|
 |**2025-02-13**|**Unlocking the Potential of Classic GNNs for Graph-level Tasks: Simple Architectures Meet Excellence**|Yuankai Luo et.al.|[2502.09263v1](http://arxiv.org/abs/2502.09263v1)|**[link](https://github.com/LUOyk1999/tunedGNN-G)**|
 |**2025-02-13**|**Self-Supervised Graph Contrastive Pretraining for Device-level Integrated Circuits**|Sungyoung Lee et.al.|[2502.08949v1](http://arxiv.org/abs/2502.08949v1)|null|
 |**2025-02-12**|**Bridging Domain Adaptation and Graph Neural Networks: A Tensor-Based Framework for Effective Label Propagation**|Tao Wen et.al.|[2502.08505v1](http://arxiv.org/abs/2502.08505v1)|null|
@@ -2912,7 +2912,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-02-13**|**DenseSplat: Densifying Gaussian Splatting SLAM with Neural Radiance Prior**|Mingrui Li et.al.|[2502.09111v1](http://arxiv.org/abs/2502.09111v1)|null|
-|**2025-02-10**|**Occupancy-SLAM: An Efficient and Robust Algorithm for Simultaneously Optimizing Robot Poses and Occupancy Map**|Yingyu Wang et.al.|[2502.06292v1](http://arxiv.org/abs/2502.06292v1)|null|
+|**2025-02-10**|**Occupancy-SLAM: An Efficient and Robust Algorithm for Simultaneously Optimizing Robot Poses and Occupancy Map**|Yingyu Wang et.al.|[2502.06292v2](http://arxiv.org/abs/2502.06292v2)|null|
 |**2025-02-09**|**PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map**|Yue Pan et.al.|[2502.05752v1](http://arxiv.org/abs/2502.05752v1)|**[link](https://github.com/PRBonn/PINGS)**|
 |**2025-02-07**|**Joint State and Noise Covariance Estimation**|Kasra Khosoussi et.al.|[2502.04584v1](http://arxiv.org/abs/2502.04584v1)|null|
 |**2025-02-05**|**GARAD-SLAM: 3D GAussian splatting for Real-time Anti Dynamic SLAM**|Mingrui Li et.al.|[2502.03228v1](http://arxiv.org/abs/2502.03228v1)|null|

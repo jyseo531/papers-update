@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-02-16
+Updated on 2025-02-17
 
 > Generated from the Hugging Face database.
 
@@ -229,3 +229,4 @@ Updated on 2025-02-16
 | ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q8 | ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q8 | [Link](https://huggingface.co/ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q8) | apache-2.0 | reinforcement-learning |
 | meta-llama/Llama-2-7b-chat-hf | meta-llama/Llama-2-7b-chat-hf | [Link](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf) | llama2 | text-generation |
 | city96/FLUX.1-dev-gguf | city96/FLUX.1-dev-gguf | [Link](https://huggingface.co/city96/FLUX.1-dev-gguf) | other | text-to-image |
+| OpenGVLab/InternVideo2_5_Chat_8B | None | [Link](https://huggingface.co/OpenGVLab/InternVideo2_5_Chat_8B) | apache-2.0 | video-text-to-text |
