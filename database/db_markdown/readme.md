@@ -1,5 +1,5 @@
 # arxiv-daily
-Updated on 2025-02-13
+Updated on 2025-02-17
 
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/your-repo).
 
@@ -10,6 +10,9 @@ Updated on 2025-02-13
 
 | Publish Date | Title | Authors | PDF | Last Updated | Code |
 |-------------|-------|---------|-----|-------------|------|
+| 2025-02-13 | **GAIA: A Global, Multi-modal, Multi-scale Vision-Language Dataset for Remote Sensing Image Analysis** | Angelos Zavras, Dimitrios Michail, Xiao Xiang Zhu, Begüm Demir, Ioannis Papoutsis et.al. | [PDF](http://arxiv.org/abs/2502.09598v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Feature-based Graph Attention Networks Improve Online Continual Learning** | Adjovi Sim, Zhengkui Wang, Aik Beng Ng, Shalini De Mello, Simon See, Wonmin Byeon et.al. | [PDF](http://arxiv.org/abs/2502.09143v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Hierarchical Vision Transformer with Prototypes for Interpretable Medical Image Classification** | Luisa Gallée, Catharina Silvia Lisson, Meinrad Beer, Michael Götz et.al. | [PDF](http://arxiv.org/abs/2502.08997v1) | 2025-02-13 | N/A |
 | 2025-02-12 | **ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification** | Jiangbo Shi, Chen Li, Tieliang Gong, Yefeng Zheng, Huazhu Fu et.al. | [PDF](http://arxiv.org/abs/2502.08391v1) | 2025-02-12 | N/A |
 | 2025-02-12 | **Keep your distance: learning dispersed embeddings on $\mathbb{S}_d$** | Evgeniia Tokarchuk, Hua Chang Bakker, Vlad Niculae et.al. | [PDF](http://arxiv.org/abs/2502.08231v1) | 2025-02-12 | N/A |
 | 2025-02-12 | **Riemannian Complex Hermit Positive Definite Convolution Network for Polarimetric SAR Image Classification** | Junfei Shi, Mengmeng Nie, Yuke Li, Haiyan Jin, Weisi Lin et.al. | [PDF](http://arxiv.org/abs/2502.08137v1) | 2025-02-12 | N/A |
@@ -17,9 +20,6 @@ Updated on 2025-02-13
 | 2025-02-11 | **ESPFormer: Doubly-Stochastic Attention with Expected Sliced Transport Plans** | Ashkan Shahbazi, Elaheh Akbari, Darian Salehi, Xinran Liu, Navid Naderializadeh, Soheil Kolouri et.al. | [PDF](http://arxiv.org/abs/2502.07962v1) | 2025-02-11 | N/A |
 | 2025-02-11 | **Optimizing Knowledge Distillation in Transformers: Enabling Multi-Head Attention without Alignment Barriers** | Zhaodong Bing, Linze Li, Jiajun Liang et.al. | [PDF](http://arxiv.org/abs/2502.07436v1) | 2025-02-11 | N/A |
 | 2025-02-11 | **MoENAS: Mixture-of-Expert based Neural Architecture Search for jointly Accurate, Fair, and Robust Edge Deep Neural Networks** | Lotfi Abdelkrim Mecharbat, Alberto Marchisio, Muhammad Shafique, Mohammad M. Ghassemi, Tuka Alhanai et.al. | [PDF](http://arxiv.org/abs/2502.07422v1) | 2025-02-11 | N/A |
-| 2025-02-11 | **MGPATH: Vision-Language Model with Multi-Granular Prompt Learning for Few-Shot WSI Classification** | Anh-Tien Nguyen, Duy Minh Ho Nguyen, Nghiem Tuong Diep, Trung Quoc Nguyen, Nhat Ho, Jacqueline Michelle Metsch, Miriam Cindy Maurer, Daniel Sonntag, Hanibal Bohnenberger, Anne-Christin Hauschild et.al. | [PDF](http://arxiv.org/abs/2502.07409v1) | 2025-02-11 | N/A |
-| 2025-02-10 | **From Image to Video: An Empirical Study of Diffusion Representations** | Pedro Vélez, Luisa F. Polanía, Yi Yang, Chuhan Zhang, Rishab Kabra, Anurag Arnab, Mehdi S. M. Sajjadi et.al. | [PDF](http://arxiv.org/abs/2502.07001v1) | 2025-02-10 | N/A |
-| 2025-02-10 | **Enhancing Performance of Explainable AI Models with Constrained Concept Refinement** | Geyu Liang, Senne Michielssen, Salar Fattahi et.al. | [PDF](http://arxiv.org/abs/2502.06775v1) | 2025-02-10 | N/A |
 
 
 ### Keypoint Detection
@@ -56,20 +56,22 @@ Updated on 2025-02-13
 
 | Publish Date | Title | Authors | PDF | Last Updated | Code |
 |-------------|-------|---------|-----|-------------|------|
+| 2025-02-13 | **SQ-GAN: Semantic Image Communications Using Masked Vector Quantization** | Francesco Pezone, Sergio Barbarossa, Giuseppe Caire et.al. | [PDF](http://arxiv.org/abs/2502.09520v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **FLARES: Fast and Accurate LiDAR Multi-Range Semantic Segmentation** | Bin Yang, Alexandru Paul Condurache et.al. | [PDF](http://arxiv.org/abs/2502.09274v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Memory-based Ensemble Learning in CMR Semantic Segmentation** | Yiwei Liu, Ziyi Wu, Liang Zhong, Linyi Wen, Yuankai Wu et.al. | [PDF](http://arxiv.org/abs/2502.09269v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Latents of latents to delineate pixels: hybrid Matryoshka autoencoder-to-U-Net pairing for segmenting large medical images in GPU-poor and low-data regimes** | Tahir Syed, Ariba Khan, Sawera Hanif et.al. | [PDF](http://arxiv.org/abs/2502.08988v1) | 2025-02-13 | N/A |
 | 2025-02-11 | **Efficient Continuous Group Convolutions for Local SE(3) Equivariance in 3D Point Clouds** | Lisa Weijler, Pedro Hermosilla et.al. | [PDF](http://arxiv.org/abs/2502.07505v1) | 2025-02-11 | N/A |
 | 2025-02-11 | **A Survey on Mamba Architecture for Vision Applications** | Fady Ibrahim, Guangjun Liu, Guanghui Wang et.al. | [PDF](http://arxiv.org/abs/2502.07161v1) | 2025-02-11 | N/A |
 | 2025-02-10 | **SAMRefiner: Taming Segment Anything Model for Universal Mask Refinement** | Yuqi Lin, Hengjia Li, Wenqi Shao, Zheng Yang, Jun Zhao, Xiaofei He, Ping Luo, Kaipeng Zhang et.al. | [PDF](http://arxiv.org/abs/2502.06756v1) | 2025-02-10 | N/A |
 | 2025-02-10 | **Unsupervised deep learning for semantic segmentation of multispectral LiDAR forest point clouds** | Lassi Ruoppa, Oona Oinonen, Josef Taher, Matti Lehtomäki, Narges Takhtkeshha, Antero Kukko, Harri Kaartinen, Juha Hyyppä et.al. | [PDF](http://arxiv.org/abs/2502.06227v1) | 2025-02-10 | N/A |
-| 2025-02-09 | **Traveling Waves Integrate Spatial Information Into Spectral Representations** | Mozes Jacobs, Roberto C. Budzinski, Lyle Muller, Demba Ba, T. Anderson Keller et.al. | [PDF](http://arxiv.org/abs/2502.06034v1) | 2025-02-09 | N/A |
-| 2025-02-09 | **A Comprehensive Review of U-Net and Its Variants: Advances and Applications in Medical Image Segmentation** | Wang Jiangtao, Nur Intan Raihana Ruhaiyem, Fu Panpan et.al. | [PDF](http://arxiv.org/abs/2502.06895v1) | 2025-02-09 | N/A |
-| 2025-02-09 | **LegalSeg: Unlocking the Structure of Indian Legal Judgments Through Rhetorical Role Classification** | Shubham Kumar Nigam, Tanmay Dubey, Govind Sharma, Noel Shallum, Kripabandhu Ghosh, Arnab Bhattacharya et.al. | [PDF](http://arxiv.org/abs/2502.05836v1) | 2025-02-09 | N/A |
-| 2025-02-08 | **Convolutional Neural Network Segmentation for Satellite Imagery Data to Identify Landforms Using U-Net Architecture** | Mitul Goswami, Sainath Dey, Aniruddha Mukherjee, Suneeta Mohanty, Prasant Kumar Pattnaik et.al. | [PDF](http://arxiv.org/abs/2502.05476v1) | 2025-02-08 | N/A |
 
 
 ### Instance Segmentation
 
 | Publish Date | Title | Authors | PDF | Last Updated | Code |
 |-------------|-------|---------|-----|-------------|------|
+| 2025-02-13 | **Instance Segmentation of Scene Sketches Using Natural Image Priors** | Mia Tang, Yael Vinker, Chuan Yan, Lvmin Zhang, Maneesh Agrawala et.al. | [PDF](http://arxiv.org/abs/2502.09608v1) | 2025-02-13 | N/A |
+| 2025-02-12 | **HistoSmith: Single-Stage Histology Image-Label Generation via Conditional Latent Diffusion for Enhanced Cell Segmentation and Classification** | Valentina Vadori, Jean-Marie Graïc, Antonella Peruffo, Livio Finos, Ujwala Kiran Chaudhari, Enrico Grisan et.al. | [PDF](http://arxiv.org/abs/2502.08754v1) | 2025-02-12 | N/A |
 | 2025-02-12 | **Generalized Class Discovery in Instance Segmentation** | Cuong Manh Hoang, Yeejin Lee, Byeongkeun Kang et.al. | [PDF](http://arxiv.org/abs/2502.08149v1) | 2025-02-12 | N/A |
 | 2025-02-10 | **A Large-scale AI-generated Image Inpainting Benchmark** | Paschalis Giakoumoglou, Dimitrios Karageorgiou, Symeon Papadopoulos, Panagiotis C. Petrantonakis et.al. | [PDF](http://arxiv.org/abs/2502.06593v1) | 2025-02-10 | N/A |
 | 2025-02-09 | **VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer** | Xinyu Liu, Ailing Zeng, Wei Xue, Harry Yang, Wenhan Luo, Qifeng Liu, Yike Guo et.al. | [PDF](http://arxiv.org/abs/2502.05979v2) | 2025-02-11 | N/A |
@@ -78,23 +80,20 @@ Updated on 2025-02-13
 | 2025-02-05 | **Gompertz Linear Units: Leveraging Asymmetry for Enhanced Learning Dynamics** | Indrashis Das, Mahmoud Safari, Steven Adriaensen, Frank Hutter et.al. | [PDF](http://arxiv.org/abs/2502.03654v1) | 2025-02-05 | N/A |
 | 2025-02-05 | **ZISVFM: Zero-Shot Object Instance Segmentation in Indoor Robotic Environments with Vision Foundation Models** | Ying Zhang, Maoliang Yin, Wenfu Bi, Haibao Yan, Shaohan Bian, Cui-Hua Zhang, Changchun Hua et.al. | [PDF](http://arxiv.org/abs/2502.03266v1) | 2025-02-05 | N/A |
 | 2025-02-04 | **Mosaic3D: Foundation Dataset and Model for Open-Vocabulary 3D Segmentation** | Junha Lee, Chunghyun Park, Jaesung Choe, Yu-Chiang Frank Wang, Jan Kautz, Minsu Cho, Chris Choy et.al. | [PDF](http://arxiv.org/abs/2502.02548v1) | 2025-02-04 | N/A |
-| 2025-02-04 | **Mind the Gap: Evaluating Patch Embeddings from General-Purpose and Histopathology Foundation Models for Cell Segmentation and Classification** | Valentina Vadori, Antonella Peruffo, Jean-Marie Graïc, Livio Finos, Enrico Grisan et.al. | [PDF](http://arxiv.org/abs/2502.02471v1) | 2025-02-04 | N/A |
-| 2025-02-04 | **Memory Efficient Transformer Adapter for Dense Predictions** | Dong Zhang, Rui Yan, Pingcheng Dong, Kwang-Ting Cheng et.al. | [PDF](http://arxiv.org/abs/2502.01962v1) | 2025-02-04 | N/A |
 
 
 ### Object Detection
 
 | Publish Date | Title | Authors | PDF | Last Updated | Code |
 |-------------|-------|---------|-----|-------------|------|
+| 2025-02-13 | **Wholly-WOOD: Wholly Leveraging Diversified-quality Labels for Weakly-supervised Oriented Object Detection** | Yi Yu, Xue Yang, Yansheng Li, Zhenjun Han, Feipeng Da, Junchi Yan et.al. | [PDF](http://arxiv.org/abs/2502.09471v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Mitigating the Impact of Prominent Position Shift in Drone-based RGBT Object Detection** | Yan Zhang, Wen Yang, Chang Xu, Qian Hu, Fang Xu, Gui-Song Xia et.al. | [PDF](http://arxiv.org/abs/2502.09311v1) | 2025-02-13 | N/A |
 | 2025-02-12 | **Uncertainty Aware Human-machine Collaboration in Camouflaged Object Detection** | Ziyue Yang, Kehan Wang, Yuhang Ming, Yong Peng, Han Yang, Qiong Chen, Wanzeng Kong et.al. | [PDF](http://arxiv.org/abs/2502.08373v1) | 2025-02-12 | N/A |
 | 2025-02-12 | **Plantation Monitoring Using Drone Images: A Dataset and Performance Review** | Yashwanth Karumanchi, Gudala Laxmi Prasanna, Snehasis Mukherjee, Nagesh Kolagani et.al. | [PDF](http://arxiv.org/abs/2502.08233v1) | 2025-02-12 | N/A |
 | 2025-02-12 | **Take What You Need: Flexible Multi-Task Semantic Communications with Channel Adaptation** | Xiang Chen, Shuying Gan, Chenyuan Feng, Xijun Wang, Tony Q. S. Quek et.al. | [PDF](http://arxiv.org/abs/2502.08221v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **SARChat-Bench-2M: A Multi-Task Vision-Language Benchmark for SAR Image Interpretation** | Zhiming Ma, Xiayang Xiao, Sihao Dong, Peidong Wang, HaiPeng Wang, Qingyun Pan et.al. | [PDF](http://arxiv.org/abs/2502.08168v1) | 2025-02-12 | N/A |
-| 2025-02-11 | **Visual-based spatial audio generation system for multi-speaker environments** | Xiaojing Liu, Ogulcan Gurelli, Yan Wang, Joshua Reiss et.al. | [PDF](http://arxiv.org/abs/2502.07538v1) | 2025-02-11 | N/A |
+| 2025-02-12 | **SARChat-Bench-2M: A Multi-Task Vision-Language Benchmark for SAR Image Interpretation** | Zhiming Ma, Xiayang Xiao, Sihao Dong, Peidong Wang, HaiPeng Wang, Qingyun Pan et.al. | [PDF](http://arxiv.org/abs/2502.08168v2) | 2025-02-13 | N/A |
+| 2025-02-11 | **Visual-based spatial audio generation system for multi-speaker environments** | Xiaojing Liu, Ogulcan Gurelli, Yan Wang, Joshua Reiss et.al. | [PDF](http://arxiv.org/abs/2502.07538v2) | 2025-02-13 | N/A |
 | 2025-02-11 | **Quantitative Analysis of Objects in Prisoner Artworks** | Thea Christoffersen, Annika Tidemand Jensen, Chris Hall, Christofer Meinecke, Stefan Jänicke et.al. | [PDF](http://arxiv.org/abs/2502.07440v1) | 2025-02-11 | N/A |
-| 2025-02-11 | **Fast-COS: A Fast One-Stage Object Detector Based on Reparameterized Attention Vision Transformer for Autonomous Driving** | Novendra Setyawan, Ghufron Wahyu Kurniawan, Chi-Chia Sun, Wen-Kai Kuo, Jun-Wei Hsieh et.al. | [PDF](http://arxiv.org/abs/2502.07417v1) | 2025-02-11 | N/A |
-| 2025-02-11 | **Multi-Task-oriented Nighttime Haze Imaging Enhancer for Vision-driven Measurement Systems** | Ai Chen, Yuxu Lu, Dong Yang, Junlin Zhou, Yan Fu, Duanbing Chen et.al. | [PDF](http://arxiv.org/abs/2502.07351v1) | 2025-02-11 | N/A |
-| 2025-02-11 | **SparseFormer: Detecting Objects in HRW Shots via Sparse Vision Transformer** | Wenxi Li, Yuchen Guo, Jilai Zheng, Haozhe Lin, Chao Ma, Lu Fang, Xiaokang Yang et.al. | [PDF](http://arxiv.org/abs/2502.07216v1) | 2025-02-11 | N/A |
 
 
 ### Object Tracking
@@ -117,20 +116,22 @@ Updated on 2025-02-13
 
 | Publish Date | Title | Authors | PDF | Last Updated | Code |
 |-------------|-------|---------|-----|-------------|------|
+| 2025-02-13 | **Rigidity results for free boundary hypersurfaces in initial data sets with boundary** | Deivid de Almeida, Abraão Mendes et.al. | [PDF](http://arxiv.org/abs/2502.09433v1) | 2025-02-13 | N/A |
 | 2025-01-23 | **YOLO11-JDE: Fast and Accurate Multi-Object Tracking with Self-Supervised Re-ID** | Iñaki Erregue, Kamal Nasrollahi, Sergio Escalera et.al. | [PDF](http://arxiv.org/abs/2501.13710v1) | 2025-01-23 | N/A |
 | 2025-01-20 | **PD-SORT: Occlusion-Robust Multi-Object Tracking Using Pseudo-Depth Cues** | Yanchao Wang, Dawei Zhang, Run Li, Zhonglong Zheng, Minglu Li et.al. | [PDF](http://arxiv.org/abs/2501.11288v1) | 2025-01-20 | N/A |
 | 2025-01-10 | **k-Sample inference via Multimarginal Optimal Transport** | Natalia Kravtsova et.al. | [PDF](http://arxiv.org/abs/2501.05645v1) | 2025-01-10 | N/A |
 | 2025-01-09 | **A Magneto-Optical Trap of Titanium Atoms** | Scott Eustice, Jackson Schrott, Anke Stöltzel, Julian Wolf, Diego Novoa, Kayleigh Cassella, Dan M. Stamper-Kurn et.al. | [PDF](http://arxiv.org/abs/2501.05544v1) | 2025-01-09 | N/A |
 | 2024-12-30 | **Field-free, Quasi-continuous Operation of Optical Nanofiber Interface with Two-dimensional Ferromagnetic Trap** | Ruijuan Liu, Jinggu Wu, Yuan Jiang, Yanting Zhao, Saijun Wu et.al. | [PDF](http://arxiv.org/abs/2412.20734v2) | 2024-12-31 | N/A |
 | 2024-12-16 | **A Rb-Cs dual-species magneto-optical trap** | Shi-Yao Shao, Qing Li, Li-Hua Zhang, Bang Liu, Zheng-Yuan Zhang, Qi-Feng Wang, Jun Zhang, Yu Ma, Tian-Yu Han, Han-Chao Chen, Jia-Dou Nan, Yi-Ming Yin, Dong-Yang Zhu, Ya-Jun Wang, Dong-Sheng Ding, Bao-Sen Shi et.al. | [PDF](http://arxiv.org/abs/2412.11411v1) | 2024-12-16 | N/A |
-| 2024-12-14 | **Heterogeneous Graph Transformer for Multiple Tiny Object Tracking in RGB-T Videos** | Qingyu Xu, Longguang Wang, Weidong Sheng, Yingqian Wang, Chao Xiao, Chao Ma, Wei An et.al. | [PDF](http://arxiv.org/abs/2412.10861v1) | 2024-12-14 | N/A |
 
 
 ### 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Last Updated | Code |
 |-------------|-------|---------|-----|-------------|------|
-| 2025-02-12 | **Re$^3$Sim: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation** | Xiaoshen Han, Minghuan Liu, Yilun Chen, Junqiu Yu, Xiaoyang Lyu, Yang Tian, Bolun Wang, Weinan Zhang, Jiangmiao Pang et.al. | [PDF](http://arxiv.org/abs/2502.08645v1) | 2025-02-12 | N/A |
+| 2025-02-13 | **Latent Radiance Fields with 3D-aware 2D Representations** | Chaoyi Zhou, Xi Liu, Feng Luo, Siyu Huang et.al. | [PDF](http://arxiv.org/abs/2502.09613v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Large Images are Gaussians: High-Quality Large Image Representation with Levels of 2D Gaussian Splatting** | Lingting Zhu, Guying Lin, Jinnan Chen, Xinjie Zhang, Zhenchao Jin, Zhao Wang, Lequan Yu et.al. | [PDF](http://arxiv.org/abs/2502.09039v1) | 2025-02-13 | N/A |
+| 2025-02-12 | **Re$^3$Sim: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation** | Xiaoshen Han, Minghuan Liu, Yilun Chen, Junqiu Yu, Xiaoyang Lyu, Yang Tian, Bolun Wang, Weinan Zhang, Jiangmiao Pang et.al. | [PDF](http://arxiv.org/abs/2502.08645v2) | 2025-02-13 | N/A |
 | 2025-02-11 | **EventEgo3D++: 3D Human Motion Capture from a Head-Mounted Event Camera** | Christen Millerdurai, Hiroyasu Akada, Jian Wang, Diogo Luvizon, Alain Pagani, Didier Stricker, Christian Theobalt, Vladislav Golyanik et.al. | [PDF](http://arxiv.org/abs/2502.07869v1) | 2025-02-11 | N/A |
 | 2025-02-10 | **TripoSG: High-Fidelity 3D Shape Synthesis using Large-Scale Rectified Flow Models** | Yangguang Li, Zi-Xin Zou, Zexiang Liu, Dehu Wang, Yuan Liang, Zhipeng Yu, Xingchao Liu, Yuan-Chen Guo, Ding Liang, Wanli Ouyang, Yan-Pei Cao et.al. | [PDF](http://arxiv.org/abs/2502.06608v1) | 2025-02-10 | N/A |
 | 2025-02-07 | **SC-OmniGS: Self-Calibrating Omnidirectional Gaussian Splatting** | Huajian Huang, Yingshu Chen, Longwei Li, Hui Cheng, Tristan Braud, Yajie Zhao, Sai-Kit Yeung et.al. | [PDF](http://arxiv.org/abs/2502.04734v1) | 2025-02-07 | N/A |
@@ -138,8 +139,6 @@ Updated on 2025-02-13
 | 2025-02-05 | **Dress-1-to-3: Single Image to Simulation-Ready 3D Outfit with Diffusion Prior and Differentiable Physics** | Xuan Li, Chang Yu, Wenxin Du, Ying Jiang, Tianyi Xie, Yunuo Chen, Yin Yang, Chenfanfu Jiang et.al. | [PDF](http://arxiv.org/abs/2502.03449v1) | 2025-02-05 | N/A |
 | 2025-02-05 | **Enhancing Free-hand 3D Photoacoustic and Ultrasound Reconstruction using Deep Learning** | SiYeoul Lee, SeonHo Kim, Minkyung Seo, SeongKyu Park, Salehin Imrus, Kambaluru Ashok, DongEon Lee, Chunsu Park, SeonYeong Lee, Jiye Kim, Jae-Heung Yoo, MinWoo Kim et.al. | [PDF](http://arxiv.org/abs/2502.03505v1) | 2025-02-05 | N/A |
 | 2025-02-04 | **SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification** | Yifu Tao, Maurice Fallon et.al. | [PDF](http://arxiv.org/abs/2502.02657v1) | 2025-02-04 | N/A |
-| 2025-02-04 | **GP-GS: Gaussian Processes for Enhanced Gaussian Splatting** | Zhihao Guo, Jingxuan Su, Shenglin Wang, Jinlong Fan, Jing Zhang, Liangxiu Han, Peng Wang et.al. | [PDF](http://arxiv.org/abs/2502.02283v2) | 2025-02-05 | N/A |
-| 2025-02-03 | **Three-dimensional holographic imaging of incoherent objects through scattering media** | YoonSeok Baek, Hilton B. de Aguiar, Sylvain Gigan et.al. | [PDF](http://arxiv.org/abs/2502.01475v1) | 2025-02-03 | N/A |
 
 ## 3D Vision
 
@@ -180,14 +179,15 @@ Updated on 2025-02-13
 
 | Publish Date | Title | Authors | PDF | Last Updated | Code |
 |-------------|-------|---------|-----|-------------|------|
+| 2025-02-13 | **Exploring the Potential of Encoder-free Architectures in 3D LMMs** | Yiwen Tang, Zoey Guo, Zhuhao Wang, Ray Zhang, Qizhi Chen, Junli Liu, Delin Qu, Zhigang Wang, Dong Wang, Xuelong Li, Bin Zhao et.al. | [PDF](http://arxiv.org/abs/2502.09620v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **3D-Grounded Vision-Language Framework for Robotic Task Planning: Automated Prompt Synthesis and Supervised Reasoning** | Guoqin Tang, Qingxuan Jia, Zeyuan Huang, Gang Chen, Ning Ji, Zhipeng Yao et.al. | [PDF](http://arxiv.org/abs/2502.08903v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **CoL3D: Collaborative Learning of Single-view Depth and Camera Intrinsics for Metric 3D Shape Recovery** | Chenghao Zhang, Lubin Fan, Shen Cao, Bojian Wu, Jieping Ye et.al. | [PDF](http://arxiv.org/abs/2502.08902v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **ShapeLib: designing a library of procedural 3D shape abstractions with Large Language Models** | R. Kenny Jones, Paul Guerrero, Niloy J. Mitra, Daniel Ritchie et.al. | [PDF](http://arxiv.org/abs/2502.08884v1) | 2025-02-13 | N/A |
 | 2025-02-12 | **Checkerboard Target Measurement in Unordered Point Clouds with Coloured ICP** | June Moh Goo, Jialun Li, Darmawan Wicaksono, Jan Boehm et.al. | [PDF](http://arxiv.org/abs/2502.08525v1) | 2025-02-12 | N/A |
 | 2025-02-12 | **Revisiting 3D LLM Benchmarks: Are We Really Testing 3D Capabilities?** | Jiahe Jin, Yanheng He, Mingyan Yang et.al. | [PDF](http://arxiv.org/abs/2502.08503v1) | 2025-02-12 | N/A |
 | 2025-02-12 | **CordViP: Correspondence-based Visuomotor Policy for Dexterous Manipulation in Real-World** | Yankai Fu, Qiuxuan Feng, Ning Chen, Zichen Zhou, Mengzhen Liu, Mingdong Wu, Tianxing Chen, Shanyu Rong, Jiaming Liu, Hao Dong, Shanghang Zhang et.al. | [PDF](http://arxiv.org/abs/2502.08449v1) | 2025-02-12 | N/A |
 | 2025-02-12 | **Fully-Geometric Cross-Attention for Point Cloud Registration** | Weijie Wang, Guofeng Mei, Jian Zhang, Nicu Sebe, Bruno Lepri, Fabio Poiesi et.al. | [PDF](http://arxiv.org/abs/2502.08285v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **COMBO-Grasp: Learning Constraint-Based Manipulation for Bimanual Occluded Grasping** | Jun Yamada, Alexander L. Mitchell, Jack Collins, Ingmar Posner et.al. | [PDF](http://arxiv.org/abs/2502.08054v1) | 2025-02-12 | N/A |
-| 2025-02-11 | **HiPoNet: A Topology-Preserving Multi-View Neural Network For High Dimensional Point Cloud and Single-Cell Data** | Siddharth Viswanath, Hiren Madhu, Dhananjay Bhaskar, Jake Kovalic, Dave Johnson, Rex Ying, Christopher Tape, Ian Adelstein, Michael Perlmutter, Smita Krishnaswamy et.al. | [PDF](http://arxiv.org/abs/2502.07746v1) | 2025-02-11 | N/A |
-| 2025-02-11 | **GaRLIO: Gravity enhanced Radar-LiDAR-Inertial Odometry** | Chiyun Noh, Wooseong Yang, Minwoo Jung, Sangwoo Jung, Ayoung Kim et.al. | [PDF](http://arxiv.org/abs/2502.07703v1) | 2025-02-11 | N/A |
-| 2025-02-11 | **Multiview Point Cloud Registration Based on Minimum Potential Energy for Free-Form Blade Measurement** | Zijie Wu, Yaonan Wang, Yang Mo, Qing Zhu, He Xie, Haotian Wu, Mingtao Feng, Ajmal Mian et.al. | [PDF](http://arxiv.org/abs/2502.07680v1) | 2025-02-11 | N/A |
+| 2025-02-12 | **LIR-LIVO: A Lightweight,Robust LiDAR/Vision/Inertial Odometry with Illumination-Resilient Deep Features** | Shujie Zhou, Zihao Wang, Xinye Dai, Weiwei Song, Shengfeng Gu et.al. | [PDF](http://arxiv.org/abs/2502.08676v1) | 2025-02-12 | N/A |
 
 
 ### Point Cloud Completion
@@ -242,6 +242,7 @@ Updated on 2025-02-13
 
 | Publish Date | Title | Authors | PDF | Last Updated | Code |
 |-------------|-------|---------|-----|-------------|------|
+| 2025-02-11 | **Multiview Point Cloud Registration Based on Minimum Potential Energy for Free-Form Blade Measurement** | Zijie Wu, Yaonan Wang, Yang Mo, Qing Zhu, He Xie, Haotian Wu, Mingtao Feng, Ajmal Mian et.al. | [PDF](http://arxiv.org/abs/2502.07680v1) | 2025-02-11 | N/A |
 | 2025-02-10 | **DefTransNet: A Transformer-based Method for Non-Rigid Point Cloud Registration in the Simulation of Soft Tissue Deformation** | Sara Monji-Azad, Marvin Kinz, Siddharth Kothari, Robin Khanna, Amrei Carla Mihan, David Maennel, Claudia Scherl, Juergen Hesser et.al. | [PDF](http://arxiv.org/abs/2502.06336v1) | 2025-02-10 | N/A |
 | 2025-02-05 | **Mapping and Localization Using LiDAR Fiducial Markers** | Yibo Liu et.al. | [PDF](http://arxiv.org/abs/2502.03510v1) | 2025-02-05 | N/A |
 | 2025-01-31 | **A Direct Semi-Exhaustive Search Method for Robust, Partial-to-Full Point Cloud Registration** | Richard Cheng, Chavdar Papozov, Dan Helmick, Mark Tjersland et.al. | [PDF](http://arxiv.org/abs/2502.00115v1) | 2025-01-31 | N/A |
@@ -273,16 +274,16 @@ Updated on 2025-02-13
 
 | Publish Date | Title | Authors | PDF | Last Updated | Code |
 |-------------|-------|---------|-----|-------------|------|
+| 2025-02-13 | **A Survey of Reinforcement Learning for Optimization in Automation** | Ahmad Farooq, Kamran Iqbal et.al. | [PDF](http://arxiv.org/abs/2502.09417v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Memristor-Based Meta-Learning for Fast mmWave Beam Prediction in Non-Stationary Environments** | Yuwen Cao, Wenqin Lu, Tomoaki Ohtsuki, Setareh Maghsudi, Xue-Qin Jiang, Charalampos C. Tsimenidis et.al. | [PDF](http://arxiv.org/abs/2502.09244v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **A Hybrid Model for Few-Shot Text Classification Using Transfer and Meta-Learning** | Jia Gao, Shuangquan Lyu, Guiran Liu, Binrong Zhu, Hongye Zheng, Xiaoxuan Liao et.al. | [PDF](http://arxiv.org/abs/2502.09086v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Bilevel gradient methods and Morse parametric qualification** | Jérôme Bolte, Quoc-Tung Le, Edouard Pauwels, Samuel Vaiter et.al. | [PDF](http://arxiv.org/abs/2502.09074v1) | 2025-02-13 | N/A |
+| 2025-02-12 | **A Low-Complexity Plug-and-Play Deep Learning Model for Massive MIMO Precoding Across Sites** | Ali Hasanzadeh Karkan, Ahmed Ibrahim, Jean-François Frigon, François Leduc-Primeau et.al. | [PDF](http://arxiv.org/abs/2502.08757v1) | 2025-02-12 | N/A |
 | 2025-02-11 | **TMLC-Net: Transferable Meta Label Correction for Noisy Label Learning** | Mengyang Li et.al. | [PDF](http://arxiv.org/abs/2502.07721v1) | 2025-02-11 | N/A |
 | 2025-02-10 | **Analytic Personalized Federated Meta-Learning** | Shunxian Gu, Chaoqun You, Deke Guo, Zhihao Qu, Bangbang Ren, Zaipeng Xie, Lailong Luo et.al. | [PDF](http://arxiv.org/abs/2502.06915v1) | 2025-02-10 | N/A |
 | 2025-02-07 | **Towards Foundational Models for Dynamical System Reconstruction: Hierarchical Meta-Learning via Mixture of Experts** | Roussel Desmond Nzoyem, David A. W. Barton, Tom Deakin et.al. | [PDF](http://arxiv.org/abs/2502.05335v1) | 2025-02-07 | N/A |
 | 2025-02-07 | **A Meta-learner for Heterogeneous Effects in Difference-in-Differences** | Hui Lan, Haoge Chang, Eleanor Dillon, Vasilis Syrgkanis et.al. | [PDF](http://arxiv.org/abs/2502.04699v1) | 2025-02-07 | N/A |
 | 2025-02-06 | **Zero-shot Meta-learning for Tabular Prediction Tasks with Adversarially Pre-trained Transformer** | Yulun Wu, Doron L. Bergman et.al. | [PDF](http://arxiv.org/abs/2502.04573v1) | 2025-02-06 | N/A |
-| 2025-02-06 | **Discovering Physics Laws of Dynamical Systems via Invariant Function Learning** | Shurui Gui, Xiner Li, Shuiwang Ji et.al. | [PDF](http://arxiv.org/abs/2502.04495v1) | 2025-02-06 | N/A |
-| 2025-02-05 | **Meta-Learning-Based People Counting and Localization Models Employing CSI from Commodity WiFi NICs** | Jihoon Cha, Hwanjin Kim, Junil Choi et.al. | [PDF](http://arxiv.org/abs/2502.03117v1) | 2025-02-05 | N/A |
-| 2025-02-05 | **UMC: Unified Resilient Controller for Legged Robots with Joint Malfunctions** | Yu Qiu, Xin Lin, Jingbo Wang, Xiangtai Li, Lu Qi, Ming-Hsuan Yang et.al. | [PDF](http://arxiv.org/abs/2502.03035v1) | 2025-02-05 | N/A |
-| 2025-02-05 | **TD3: Tucker Decomposition Based Dataset Distillation Method for Sequential Recommendation** | Jiaqing Zhang, Mingjia Yin, Hao Wang, Yawen Li, Yuyang Ye, Xingyu Lou, Junping Du, Enhong Chen et.al. | [PDF](http://arxiv.org/abs/2502.02854v2) | 2025-02-06 | N/A |
-| 2025-02-04 | **Discovering Quality-Diversity Algorithms via Meta-Black-Box Optimization** | Maxence Faldor, Robert Tjarko Lange, Antoine Cully et.al. | [PDF](http://arxiv.org/abs/2502.02190v1) | 2025-02-04 | N/A |
 
 ## Unsupervised Learning
 
@@ -307,15 +308,15 @@ Updated on 2025-02-13
 
 | Publish Date | Title | Authors | PDF | Last Updated | Code |
 |-------------|-------|---------|-----|-------------|------|
+| 2025-02-13 | **Zero-shot generation of synthetic neurosurgical data with large language models** | Austin A. Barr, Eddie Guo, Emre Sezgin et.al. | [PDF](http://arxiv.org/abs/2502.09566v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **DiffRenderGAN: Addressing Training Data Scarcity in Deep Segmentation Networks for Quantitative Nanomaterial Analysis through Differentiable Rendering and Generative Modelling** | Dennis Possart, Leonid Mill, Florian Vollnhals, Tor Hildebrand, Peter Suter, Mathis Hoffmann, Jonas Utz, Daniel Augsburger, Mareike Thies, Mingxuan Wu, Fabian Wagner, George Sarau, Silke Christiansen, Katharina Breininger et.al. | [PDF](http://arxiv.org/abs/2502.09477v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Graph Diffusion Network for Drug-Gene Prediction** | Jiayang Wu, Wensheng Gan, Philip S. Yu et.al. | [PDF](http://arxiv.org/abs/2502.09335v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Joint Attention Mechanism Learning to Facilitate Opto-physiological Monitoring during Physical Activity** | Xiaoyu Zheng, Sijung Hu, Vincent Dwyer, Mahsa Derakhshani, Laura Barrett et.al. | [PDF](http://arxiv.org/abs/2502.09291v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **LOB-Bench: Benchmarking Generative AI for Finance - an Application to Limit Order Book Data** | Peer Nagy, Sascha Frey, Kang Li, Bidipta Sarkar, Svitlana Vyetrenko, Stefan Zohren, Ani Calinescu, Jakob Foerster et.al. | [PDF](http://arxiv.org/abs/2502.09172v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Interfacial Polarization Switching in Al0.92Sc0.08N/GaN Heterostructures Grown by Sputter Epitaxy** | Niklas Wolff, Georg Schönweger, Redwanul Md. Islam, Ziming Ding, Christian Kübel, Simon Fichtner, Lorenz Kienle et.al. | [PDF](http://arxiv.org/abs/2502.09090v1) | 2025-02-13 | N/A |
+| 2025-02-12 | **DejAIvu: Identifying and Explaining AI Art on the Web in Real-Time with Saliency Maps** | Jocelyn Dzuong et.al. | [PDF](http://arxiv.org/abs/2502.08821v1) | 2025-02-12 | N/A |
+| 2025-02-12 | **Deep EEG Super-Resolution: Upsampling EEG Spatial Resolution with Generative Adversarial Networks** | Isaac Corley, Yufei Huang et.al. | [PDF](http://arxiv.org/abs/2502.08803v1) | 2025-02-12 | N/A |
 | 2025-02-12 | **Representation Learning to Advance Multi-institutional Studies with Electronic Health Record Data** | Doudou Zhou, Han Tong, Linshanshan Wang, Suqi Liu, Xin Xiong, Ziming Gan, Romain Griffier, Boris Hejblum, Yun-Chung Liu, Chuan Hong, Clara-Lea Bonzel, Tianrun Cai, Kevin Pan, Yuk-Lam Ho, Lauren Costa, Vidul A. Panickan, J. Michael Gaziano, Kenneth Mandl, Vianney Jouhet, Rodolphe Thiebaut, Zongqi Xia, Kelly Cho, Katherine Liao, Tianxi Cai et.al. | [PDF](http://arxiv.org/abs/2502.08547v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **PDRs4All XI. Detection of infrared CH$^+$ and CH$_3^+$ rovibrational emission in the Orion Bar and disk d203-506: evidence of chemical pumping** | Marion Zannese, Benoît Tabone, Emilie Habart, Emmanuel Dartois, Javier R. Goicoechea, Laurent Coudert, Bérenger Gans, Marie-Aline Martin-Drumel, Ugo Jacovella, Alexandre Faure, Benjamin Godard, Alexander G. G. M. Tielens, R. Le Gal, John H. Black, Silvia Vicente, Olivier Berné, Els Peeters, Dries Van De Putte, Ryan Chown, Ameek Sidhu, Ilane Schroetter, Amélie Canin, Olga Kannavou et.al. | [PDF](http://arxiv.org/abs/2502.08354v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Rapid prediction of organisation in engineered corneal, glial and fibroblast tissues using machine learning and biophysical models** | Allison E. Andrews, Hugh Dickinson, Caitriona O'Rourke, James B. Philips, James P. Hague et.al. | [PDF](http://arxiv.org/abs/2502.08062v1) | 2025-02-12 | N/A |
-| 2025-02-11 | **Towards THz-based Obstacle Sensing: A Generative Radio Environment Awareness Framework** | Tianyu Hu, Yunhang Xie, Shuai Wang, Boyu Ning, Lingxiang Li, Zhi Chen et.al. | [PDF](http://arxiv.org/abs/2502.07504v1) | 2025-02-11 | N/A |
-| 2025-02-10 | **Likelihood-Free Estimation for Spatiotemporal Hawkes processes with missing data and application to predictive policing** | Pramit Das, Moulinath Banerjee, Yuekai Sun et.al. | [PDF](http://arxiv.org/abs/2502.07111v1) | 2025-02-10 | N/A |
-| 2025-02-10 | **Shubnikov-de Haas oscillations in coherently strained AlN/GaN/AlN quantum wells on bulk AlN substrates** | Yu-Hsin Chen, Jimy Encomendero, Huili Grace Xing, Debdeep Jena et.al. | [PDF](http://arxiv.org/abs/2502.07032v1) | 2025-02-10 | N/A |
-| 2025-02-10 | **Outsourced diffusion sampling: Efficient posterior inference in latent spaces of generative models** | Siddarth Venkatraman, Mohsin Hasan, Minsu Kim, Luca Scimeca, Marcin Sendera, Yoshua Bengio, Glen Berseth, Nikolay Malkin et.al. | [PDF](http://arxiv.org/abs/2502.06999v1) | 2025-02-10 | N/A |
-| 2025-02-10 | **ViSIR: Vision Transformer Single Image Reconstruction Method for Earth System Models** | Ehsan Zeraatkar, Salah Faroughi, Jelena Tešić et.al. | [PDF](http://arxiv.org/abs/2502.06741v2) | 2025-02-11 | N/A |
-| 2025-02-10 | **Provably Near-Optimal Federated Ensemble Distillation with Negligible Overhead** | Won-Jun Jang, Hyeon-Seo Park, Si-Hyeon Lee et.al. | [PDF](http://arxiv.org/abs/2502.06349v1) | 2025-02-10 | N/A |
 
 ## Transfer Learning
 
@@ -324,16 +325,14 @@ Updated on 2025-02-13
 
 | Publish Date | Title | Authors | PDF | Last Updated | Code |
 |-------------|-------|---------|-----|-------------|------|
-| 2025-02-12 | **Multifidelity Simulation-based Inference for Computationally Expensive Simulators** | Anastasia N. Krouglova, Hayden R. Johnson, Basile Confavreux, Michael Deistler, Pedro J. Gonçalves et.al. | [PDF](http://arxiv.org/abs/2502.08416v1) | 2025-02-12 | N/A |
+| 2025-02-13 | **Revisiting Euclidean Alignment for Transfer Learning in EEG-Based Brain-Computer Interfaces** | Dongrui Wu et.al. | [PDF](http://arxiv.org/abs/2502.09203v1) | 2025-02-13 | N/A |
+| 2025-02-12 | **$\mathsf{CSMAE~}$:~Cataract Surgical Masked Autoencoder (MAE) based Pre-training** | Nisarg A. Shah, Wele Gedara Chaminda Bandara, Shameema Skider, S. Swaroop Vedula, Vishal M. Patel et.al. | [PDF](http://arxiv.org/abs/2502.08822v1) | 2025-02-12 | N/A |
+| 2025-02-12 | **Multifidelity Simulation-based Inference for Computationally Expensive Simulators** | Anastasia N. Krouglova, Hayden R. Johnson, Basile Confavreux, Michael Deistler, Pedro J. Gonçalves et.al. | [PDF](http://arxiv.org/abs/2502.08416v2) | 2025-02-14 | N/A |
+| 2025-02-12 | **Advancing machine fault diagnosis: A detailed examination of convolutional neural networks** | Govind Vashishtha, Sumika Chauhan, Mert Sehri, Justyna Hebda-Sobkowicz, Radoslaw Zimroz, Patrick Dumond, Rajesh Kumar et.al. | [PDF](http://arxiv.org/abs/2502.08689v1) | 2025-02-12 | N/A |
 | 2025-02-12 | **Hi-End-MAE: Hierarchical encoder-driven masked autoencoders are stronger vision learners for medical image segmentation** | Fenghe Tang, Qingsong Yao, Wenxin Ma, Chenxu Wu, Zihang Jiang, S. Kevin Zhou et.al. | [PDF](http://arxiv.org/abs/2502.08347v1) | 2025-02-12 | N/A |
 | 2025-02-12 | **Knowledge-Guided Wasserstein Distributionally Robust Optimization** | Zitao Wang, Ziyuan Wang, Molei Liu, Nian Si et.al. | [PDF](http://arxiv.org/abs/2502.08146v1) | 2025-02-12 | N/A |
 | 2025-02-11 | **Instance-dependent Early Stopping** | Suqin Yuan, Runqi Lin, Lei Feng, Bo Han, Tongliang Liu et.al. | [PDF](http://arxiv.org/abs/2502.07547v1) | 2025-02-11 | N/A |
 | 2025-02-11 | **Music for All: Exploring Multicultural Representations in Music Generation Models** | Atharva Mehta, Shivam Chauhan, Amirbek Djanibekov, Atharva Kulkarni, Gus Xia, Monojit Choudhury et.al. | [PDF](http://arxiv.org/abs/2502.07328v2) | 2025-02-12 | N/A |
-| 2025-02-11 | **Long-term simulation of physical and mechanical behaviors using curriculum-transfer-learning based physics-informed neural networks** | Yuan Guo, Zhuojia Fu, Jian Min, Shiyu Lin, Xiaoting Liu, Youssef F. Rashed, Xiaoying Zhuang et.al. | [PDF](http://arxiv.org/abs/2502.07325v1) | 2025-02-11 | N/A |
-| 2025-02-11 | **Robust Indoor Localization in Dynamic Environments: A Multi-source Unsupervised Domain Adaptation Framework** | Jiyu Jiao, Xiaojun Wang, Chengpei Han et.al. | [PDF](http://arxiv.org/abs/2502.07246v1) | 2025-02-11 | N/A |
-| 2025-02-11 | **Tab2Visual: Overcoming Limited Data in Tabular Data Classification Using Deep Learning with Visual Representations** | Ahmed Mamdouh, Moumen El-Melegy, Samia Ali, Ron Kikinis et.al. | [PDF](http://arxiv.org/abs/2502.07181v1) | 2025-02-11 | N/A |
-| 2025-02-10 | **Cross-platform Learning-based Fault Tolerant Surfacing Controller for Underwater Robots** | Yuya Hamamatsu, Walid Remmas, Jaan Rebane, Maarja Kruusmaa, Asko Ristolainen et.al. | [PDF](http://arxiv.org/abs/2502.07133v1) | 2025-02-10 | N/A |
-| 2025-02-10 | **Generative Distribution Prediction: A Unified Approach to Multimodal Learning** | Xinyu Tian, Xiaotong Shen et.al. | [PDF](http://arxiv.org/abs/2502.07090v1) | 2025-02-10 | N/A |
 
 ## Contrastive Learning
 
@@ -342,14 +341,14 @@ Updated on 2025-02-13
 
 | Publish Date | Title | Authors | PDF | Last Updated | Code |
 |-------------|-------|---------|-----|-------------|------|
+| 2025-02-13 | **FARM: Frequency-Aware Model for Cross-Domain Live-Streaming Recommendation** | Xiaodong Li, Ruochen Yang, Shuang Wen, Shen Wang, Yueyang Liu, Guoquan Wang, Weisong Hu, Qiang Luo, Jiawei Sheng, Tingwen Liu, Jiangxia Cao, Shuang Yang, Zhaojie Liu et.al. | [PDF](http://arxiv.org/abs/2502.09375v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **GEVRM: Goal-Expressive Video Generation Model For Robust Visual Manipulation** | Hongyin Zhang, Pengxiang Ding, Shangke Lyu, Ying Peng, Donglin Wang et.al. | [PDF](http://arxiv.org/abs/2502.09268v2) | 2025-02-14 | N/A |
+| 2025-02-13 | **Neuro-Symbolic Contrastive Learning for Cross-domain Inference** | Mingyue Liu, Ryo Ueda, Zhen Wan, Katsumi Inoue, Chris G. Willcocks et.al. | [PDF](http://arxiv.org/abs/2502.09213v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Self-Supervised Graph Contrastive Pretraining for Device-level Integrated Circuits** | Sungyoung Lee, Ziyi Wang, Seunggeun Kim, Taekyun Lee, David Z. Pan et.al. | [PDF](http://arxiv.org/abs/2502.08949v1) | 2025-02-13 | N/A |
 | 2025-02-12 | **A Novel Approach to for Multimodal Emotion Recognition : Multimodal semantic information fusion** | Wei Dai, Dequan Zheng, Feng Yu, Yanrong Zhang, Yaohui Hou et.al. | [PDF](http://arxiv.org/abs/2502.08573v1) | 2025-02-12 | N/A |
 | 2025-02-12 | **Composite Sketch+Text Queries for Retrieving Objects with Elusive Names and Complex Interactions** | Prajwal Gatti, Kshitij Parikh, Dhriti Prasanna Paul, Manish Gupta, Anand Mishra et.al. | [PDF](http://arxiv.org/abs/2502.08438v1) | 2025-02-12 | N/A |
 | 2025-02-12 | **Closer through commonality: Enhancing hypergraph contrastive learning with shared groups** | Daeyoung Roh, Donghee Han, Daehee Kim, Keejun Han, Mun Yi et.al. | [PDF](http://arxiv.org/abs/2502.08432v1) | 2025-02-12 | N/A |
 | 2025-02-12 | **A Survey on Data Curation for Visual Contrastive Learning: Why Crafting Effective Positive and Negative Pairs Matters** | Shasvat Desai, Debasmita Ghose, Deep Chakraborty et.al. | [PDF](http://arxiv.org/abs/2502.08134v1) | 2025-02-12 | N/A |
-| 2025-02-11 | **Contrastive Learning for Robust Representations of Neutrino Data** | Alex Wilkinson, Radi Radev, Saul Alonso-Monsalve et.al. | [PDF](http://arxiv.org/abs/2502.07724v1) | 2025-02-11 | N/A |
-| 2025-02-11 | **Beyond Behavior Cloning: Robustness through Interactive Imitation and Contrastive Learning** | Zhaoting Li, Rodrigo Pérez-Dattari, Robert Babuska, Cosimo Della Santina, Jens Kober et.al. | [PDF](http://arxiv.org/abs/2502.07645v1) | 2025-02-11 | N/A |
-| 2025-02-11 | **Causal-Informed Contrastive Learning: Towards Bias-Resilient Pre-training under Concept Drift** | Xiaoyu Yang, Jie Lu, En Yu et.al. | [PDF](http://arxiv.org/abs/2502.07620v1) | 2025-02-11 | N/A |
-| 2025-02-11 | **O1 Embedder: Let Retrievers Think Before Action** | Ruiran Yan, Zheng Liu, Defu Lian et.al. | [PDF](http://arxiv.org/abs/2502.07555v2) | 2025-02-12 | N/A |
 
 ## Reinforcement Learning
 
@@ -358,16 +357,15 @@ Updated on 2025-02-13
 
 | Publish Date | Title | Authors | PDF | Last Updated | Code |
 |-------------|-------|---------|-----|-------------|------|
-| 2025-02-12 | **A Real-to-Sim-to-Real Approach to Robotic Manipulation with VLM-Generated Iterative Keypoint Rewards** | Shivansh Patel, Xinchen Yin, Wenlong Huang, Shubham Garg, Hooshang Nayyeri, Li Fei-Fei, Svetlana Lazebnik, Yunzhu Li et.al. | [PDF](http://arxiv.org/abs/2502.08643v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Necessary and Sufficient Oracles: Toward a Computational Taxonomy For Reinforcement Learning** | Dhruv Rohatgi, Dylan J. Foster et.al. | [PDF](http://arxiv.org/abs/2502.08632v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Acceleration of crystal structure relaxation with Deep Reinforcement Learning** | Elena Trukhan, Efim Mazhnik, Artem R. Oganov et.al. | [PDF](http://arxiv.org/abs/2502.08405v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Learning Humanoid Standing-up Control across Diverse Postures** | Tao Huang, Junli Ren, Huayi Wang, Zirui Wang, Qingwei Ben, Muning Wen, Xiao Chen, Jianan Li, Jiangmiao Pang et.al. | [PDF](http://arxiv.org/abs/2502.08378v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Towards Principled Multi-Agent Task Agnostic Exploration** | Riccardo Zamboni, Mirco Mutti, Marcello Restelli et.al. | [PDF](http://arxiv.org/abs/2502.08365v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Deterministic generation of non-classical mechanical states in cavity optomechanics via reinforcement learning** | Yu-Hong Liu, Qing-Shou Tan, Le-Man Kuang, Jie-Qiao Liao et.al. | [PDF](http://arxiv.org/abs/2502.08350v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Hierarchical Learning-based Graph Partition for Large-scale Vehicle Routing Problems** | Yuxin Pan, Ruohong Liu, Yize Chen, Zhiguang Cao, Fangzhen Lin et.al. | [PDF](http://arxiv.org/abs/2502.08340v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Hierarchical Multi-Agent Framework for Carbon-Efficient Liquid-Cooled Data Center Clusters** | Soumyendu Sarkar, Avisek Naug, Antonio Guillen, Vineet Gundecha, Ricardo Luna Gutierrez, Sahand Ghorbanpour, Sajad Mousavi, Ashwin Ramesh Babu, Desik Rengarajan, Cullen Bash et.al. | [PDF](http://arxiv.org/abs/2502.08337v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Salience-Invariant Consistent Policy Learning for Generalization in Visual Reinforcement Learning** | Sun Jingbo, Tu Songjun, Zhang Qichao, Chen Ke, Zhao Dongbin et.al. | [PDF](http://arxiv.org/abs/2502.08336v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks** | Alejandro Cuadron, Dacheng Li, Wenjie Ma, Xingyao Wang, Yichuan Wang, Siyuan Zhuang, Shu Liu, Luis Gaspar Schroeder, Tian Xia, Huanzhi Mao, Nicholas Thumiger, Aditya Desai, Ion Stoica, Ana Klimovic, Graham Neubig, Joseph E. Gonzalez et.al. | [PDF](http://arxiv.org/abs/2502.08235v1) | 2025-02-12 | N/A |
+| 2025-02-13 | **DexTrack: Towards Generalizable Neural Tracking Control for Dexterous Manipulation from Human References** | Xueyi Liu, Jianibieke Adalibieke, Qianwei Han, Yuzhe Qin, Li Yi et.al. | [PDF](http://arxiv.org/abs/2502.09614v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Coupled Rendezvous and Docking Maneuver control of satellite using Reinforcement learning-based Adaptive Fixed-Time Sliding Mode Controller** | Rakesh Kumar Sahoo, Manoranjan Sinha et.al. | [PDF](http://arxiv.org/abs/2502.09517v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Source function from two-particle correlation function through entropy-regularized Richardson-Lucy deblurring** | C. K. Tam, Z. Chajęcki, P. Danielewicz, P. Nzabahimana et.al. | [PDF](http://arxiv.org/abs/2502.09478v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Variable Stiffness for Robust Locomotion through Reinforcement Learning** | Dario Spoljaric, Yashuai Yan, Dongheui Lee et.al. | [PDF](http://arxiv.org/abs/2502.09436v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning** | Shay Snyder, Ryan Shea, Andrew Capodieci, David Gorsich, Maryam Parsa et.al. | [PDF](http://arxiv.org/abs/2502.09393v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Machine learning for modelling unstructured grid data in computational physics: a review** | Sibo Cheng, Marc Bocquet, Weiping Ding, Tobias Sebastian Finn, Rui Fu, Jinlong Fu, Yike Guo, Eleda Johnson, Siyi Li, Che Liu, Eric Newton Moro, Jie Pan, Matthew Piggott, Cesar Quilodran, Prakhar Sharma, Kun Wang, Dunhui Xiao, Xiao Xue, Yong Zeng, Mingrui Zhang, Hao Zhou, Kewei Zhu, Rossella Arcucci et.al. | [PDF](http://arxiv.org/abs/2502.09346v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Revisiting Topological Interference Management: A Learning-to-Code on Graphs Perspective** | Zhiwei Shan, Xinping Yi, Han Yu, Chung-Shou Liao, Shi Jin et.al. | [PDF](http://arxiv.org/abs/2502.09344v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Convex Is Back: Solving Belief MDPs With Convexity-Informed Deep Reinforcement Learning** | Daniel Koutas, Daniel Hettegger, Kostas G. Papakonstantinou, Daniel Straub et.al. | [PDF](http://arxiv.org/abs/2502.09298v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Autonomous Task Completion Based on Goal-directed Answer Set Programming** | Alexis R. Tudor et.al. | [PDF](http://arxiv.org/abs/2502.09208v1) | 2025-02-13 | N/A |
 
 ## Transformer
 
@@ -376,28 +374,30 @@ Updated on 2025-02-13
 
 | Publish Date | Title | Authors | PDF | Last Updated | Code |
 |-------------|-------|---------|-----|-------------|------|
-| 2025-02-12 | **Poly-Autoregressive Prediction for Modeling Interactions** | Neerja Thakkar, Tara Sadjadpour, Jathushan Rajasegaran, Shiry Ginosar, Jitendra Malik et.al. | [PDF](http://arxiv.org/abs/2502.08646v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **SwiftSketch: A Diffusion Model for Image-to-Vector Sketch Generation** | Ellie Arar, Yarden Frenkel, Daniel Cohen-Or, Ariel Shamir, Yael Vinker et.al. | [PDF](http://arxiv.org/abs/2502.08642v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Constructing optimal Wannier functions via potential theory: isolated single band for matrix models** | Hanwen Zhang et.al. | [PDF](http://arxiv.org/abs/2502.08641v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Joint Transmit and Pinching Beamforming for PASS: Optimization-Based or Learning-Based?** | Xiaoxia Xu, Xidong Mu, Yuanwei Liu, Arumugam Nallanathan et.al. | [PDF](http://arxiv.org/abs/2502.08637v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Triggered ferroelectricity in HfO$_2$ from polar hybrid zone-boundary phonon instability** | Seongjoo Jung, Turan Birol et.al. | [PDF](http://arxiv.org/abs/2502.08633v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **COAST: Intelligent Time-Adaptive Neural Operators** | Zhikai Wu, Shiyang Zhang, Sizhuang He, Sifan Wang, Min Zhu, Anran Jiao, Lu Lu, David van Dijk et.al. | [PDF](http://arxiv.org/abs/2502.08574v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **A Survey on Image Quality Assessment: Insights, Analysis, and Future Outlook** | Chengqian Ma, Zhengyi Shi, Zhiqiang Lu, Shenghao Xie, Fei Chao, Yao Sui et.al. | [PDF](http://arxiv.org/abs/2502.08540v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Foundations of Digital Circuits: Denotation, Operational, and Algebraic Semantics** | George Kaye et.al. | [PDF](http://arxiv.org/abs/2502.08497v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning** | Qifan Yu, Zhenyu He, Sijie Li, Xun Zhou, Jun Zhang, Jingjing Xu, Di He et.al. | [PDF](http://arxiv.org/abs/2502.08482v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **High-resolution rapid-scanning Fourier-transform spectroscopy of ultracold atoms** | Friedemann Landmesser, Nicolai Gölz, Ulrich Bangert, Tobias Sixt, Lukas Bruder et.al. | [PDF](http://arxiv.org/abs/2502.08446v1) | 2025-02-12 | N/A |
+| 2025-02-13 | **RigAnything: Template-Free Autoregressive Rigging for Diverse 3D Assets** | Isabella Liu, Zhan Xu, Wang Yifan, Hao Tan, Zexiang Xu, Xiaolong Wang, Hao Su, Zifan Shi et.al. | [PDF](http://arxiv.org/abs/2502.09615v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Designing a Conditional Prior Distribution for Flow-Based Generative Models** | Noam Issachar, Mohammad Salama, Raanan Fattal, Sagie Benaim et.al. | [PDF](http://arxiv.org/abs/2502.09611v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Pressure-Tuned Magnetism and Bandgap Modulation in Layered Fe-Doped CrCl3** | Aya Ali, Govindaraj Lingannan, Lukas Gries, Md Ezaz Hasan Khan, Anas Abutaha, Kei Uemura, Masaki Mito, Vladislav Borisov, Anna Delin, Olle Eriksson, Ruediger Klingeler, Mahmoud Abdel-Hafiez et.al. | [PDF](http://arxiv.org/abs/2502.09581v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **DiffMS: Diffusion Generation of Molecules Conditioned on Mass Spectra** | Montgomery Bohde, Mrunali Manjrekar, Runzhong Wang, Shuiwang Ji, Connor W. Coley et.al. | [PDF](http://arxiv.org/abs/2502.09571v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **MorphNLI: A Stepwise Approach to Natural Language Inference Using Text Morphing** | Vlad Andrei Negru, Robert Vacareanu, Camelia Lemnaru, Mihai Surdeanu, Rodica Potolea et.al. | [PDF](http://arxiv.org/abs/2502.09567v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Incorporating Backreaction in One-Loop Corrections in Ultra-Slow-Roll Inflation** | Cheng-Jun Fang, Zhen-Hong Lyu, Chao Chen, Zong-Kuan Guo et.al. | [PDF](http://arxiv.org/abs/2502.09555v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Collective migration and topological phase transitions in confluent epithelia** | Leonardo Puggioni, Dimitrios Krommydas, Luca Giomi et.al. | [PDF](http://arxiv.org/abs/2502.09554v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Projecting Unequal Time Fields and Correlators of Large Scale Structure** | Theodore Steele, Alvise Raccanelli, Zvonimir Vlah et.al. | [PDF](http://arxiv.org/abs/2502.09518v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Gabor systems with Hermite functions of order n and oversampling greater n+1 which are not frames** | Markus Faulhuber et.al. | [PDF](http://arxiv.org/abs/2502.09510v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **EQ-VAE: Equivariance Regularized Latent Space for Improved Generative Image Modeling** | Theodoros Kouzelis, Ioannis Kakogeorgiou, Spyros Gidaris, Nikos Komodakis et.al. | [PDF](http://arxiv.org/abs/2502.09509v2) | 2025-02-14 | N/A |
 
 
 ### Vision Transformer
 
 | Publish Date | Title | Authors | PDF | Last Updated | Code |
 |-------------|-------|---------|-----|-------------|------|
+| 2025-02-13 | **Shortcut Learning Susceptibility in Vision Classifiers** | Pirzada Suhail, Amit Sethi et.al. | [PDF](http://arxiv.org/abs/2502.09150v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Residual Transformer Fusion Network for Salt and Pepper Image Denoising** | Bintang Pradana Erlangga Putra, Heri Prasetyo, Esti Suryani et.al. | [PDF](http://arxiv.org/abs/2502.09000v1) | 2025-02-13 | N/A |
 | 2025-02-11 | **5D Neural Surrogates for Nonlinear Gyrokinetic Simulations of Plasma Turbulence** | Gianluca Galletti, Fabian Paischer, Paul Setinek, William Hornsby, Lorenzo Zanisi, Naomi Carey, Stanislas Pamela, Johannes Brandstetter et.al. | [PDF](http://arxiv.org/abs/2502.07469v1) | 2025-02-11 | N/A |
+| 2025-02-11 | **Fast-COS: A Fast One-Stage Object Detector Based on Reparameterized Attention Vision Transformer for Autonomous Driving** | Novendra Setyawan, Ghufron Wahyu Kurniawan, Chi-Chia Sun, Wen-Kai Kuo, Jun-Wei Hsieh et.al. | [PDF](http://arxiv.org/abs/2502.07417v1) | 2025-02-11 | N/A |
+| 2025-02-11 | **SparseFormer: Detecting Objects in HRW Shots via Sparse Vision Transformer** | Wenxi Li, Yuchen Guo, Jilai Zheng, Haozhe Lin, Chao Ma, Lu Fang, Xiaokang Yang et.al. | [PDF](http://arxiv.org/abs/2502.07216v1) | 2025-02-11 | N/A |
 | 2025-02-10 | **Unconstrained Body Recognition at Altitude and Range: Comparing Four Approaches** | Blake A Myers, Matthew Q Hill, Veda Nandan Gandi, Thomas M Metz, Alice J O'Toole et.al. | [PDF](http://arxiv.org/abs/2502.07130v1) | 2025-02-10 | N/A |
 | 2025-02-10 | **Demystifying Singular Defects in Large Language Models** | Haoqi Wang, Tong Zhang, Mathieu Salzmann et.al. | [PDF](http://arxiv.org/abs/2502.07004v1) | 2025-02-10 | N/A |
 | 2025-02-10 | **Generalizable automated ischaemic stroke lesion segmentation with vision transformers** | Chris Foulon, Robert Gray, James K. Ruffle, Jonathan Best, Tianbo Xu, Henry Watkins, Jane Rondina, Guilherme Pombo, Dominic Giles, Paul Wright, Marcela Ovando-Tellez, H. Rolf Jäger, Jorge Cardoso, Sebastien Ourselin, Geraint Rees, Parashkev Nachev et.al. | [PDF](http://arxiv.org/abs/2502.06939v1) | 2025-02-10 | N/A |
-| 2025-02-10 | **Hyper Compressed Fine-Tuning of Large Foundation Models with Quantum Inspired Adapters** | Snehal Raj, Brian Coyle et.al. | [PDF](http://arxiv.org/abs/2502.06916v1) | 2025-02-10 | N/A |
-| 2025-02-10 | **Multi-Scale Transformer Architecture for Accurate Medical Image Classification** | Jiacheng Hu, Yanlin Xiang, Yang Lin, Junliang Du, Hanchao Zhang, Houze Liu et.al. | [PDF](http://arxiv.org/abs/2502.06243v1) | 2025-02-10 | N/A |
 
 ## Graph Neural Network
 
@@ -406,16 +406,12 @@ Updated on 2025-02-13
 
 | Publish Date | Title | Authors | PDF | Last Updated | Code |
 |-------------|-------|---------|-----|-------------|------|
+| 2025-02-13 | **Enhancing the Utility of Higher-Order Information in Relational Learning** | Raphael Pellegrin, Lukas Fesser, Melanie Weber et.al. | [PDF](http://arxiv.org/abs/2502.09570v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **LiSA: Leveraging Link Recommender to Attack Graph Neural Networks via Subgraph Injection** | Wenlun Zhang, Enyan Dai, Kentaro Yoshioka et.al. | [PDF](http://arxiv.org/abs/2502.09271v2) | 2025-02-14 | N/A |
+| 2025-02-13 | **Unlocking the Potential of Classic GNNs for Graph-level Tasks: Simple Architectures Meet Excellence** | Yuankai Luo, Lei Shi, Xiao-Ming Wu et.al. | [PDF](http://arxiv.org/abs/2502.09263v1) | 2025-02-13 | N/A |
 | 2025-02-12 | **Bridging Domain Adaptation and Graph Neural Networks: A Tensor-Based Framework for Effective Label Propagation** | Tao Wen, Elynn Chen, Yuzhou Chen, Qi Lei et.al. | [PDF](http://arxiv.org/abs/2502.08505v1) | 2025-02-12 | N/A |
 | 2025-02-12 | **Trustworthy GNNs with LLMs: A Systematic Review and Taxonomy** | Ruizhan Xue, Huimin Deng, Fang He, Maojun Wang, Zeyu Zhang et.al. | [PDF](http://arxiv.org/abs/2502.08353v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Graph Foundation Models for Recommendation: A Comprehensive Survey** | Bin Wu, Yihang Wang, Yuanhao Zeng, Jiawei Liu, Jiashu Zhao, Cheng Yang, Yawen Li, Long Xia, Dawei Yin, Chuan Shi et.al. | [PDF](http://arxiv.org/abs/2502.08346v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Data Pricing for Graph Neural Networks without Pre-purchased Inspection** | Yiping Liu, Mengxiao Zhang, Jiamou Liu, Song Yang et.al. | [PDF](http://arxiv.org/abs/2502.08284v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Equivariant Masked Position Prediction for Efficient Molecular Representation** | Junyi An, Chao Qu, Yun-Fei Shi, XinHao Liu, Qianwei Tang, Fenglei Cao, Yuan Qi et.al. | [PDF](http://arxiv.org/abs/2502.08209v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **MixDec Sampling: A Soft Link-based Sampling Method of Graph Neural Network for Recommendation** | Xiangjin Xie, Yuxin Chen, Ruipeng Wang, Kai Ouyang, Zihan Zhang, Hai-Tao Zheng, Buyue Qian, Hansen Zheng, Bo Hu, Chengxiang Zhuo, Zang Li et.al. | [PDF](http://arxiv.org/abs/2502.08161v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Mixture of Decoupled Message Passing Experts with Entropy Constraint for General Node Classification** | Xuanze Chen, Jiajun Zhou, Jinsong Chen, Shanqing Yu, Qi Xuan et.al. | [PDF](http://arxiv.org/abs/2502.08083v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Collaborative Filtering Meets Spectrum Shift: Connecting User-Item Interaction with Graph-Structured Side Information** | Yunhang He, Cong Xu, Jun Wang, Wei Zhang et.al. | [PDF](http://arxiv.org/abs/2502.08071v1) | 2025-02-12 | N/A |
-| 2025-02-11 | **Learning Effective Dynamics across Spatio-Temporal Scales of Complex Flows** | Han Gao, Sebastian Kaltenbach, Petros Koumoutsakos et.al. | [PDF](http://arxiv.org/abs/2502.07990v1) | 2025-02-11 | N/A |
-| 2025-02-11 | **Stereograph: Stereoscopic event reconstruction using graph neural networks applied to CTAO** | Hana Ali Messaoud, Thomas Vuillaume, Tom François et.al. | [PDF](http://arxiv.org/abs/2502.07421v1) | 2025-02-11 | N/A |
+| 2025-02-12 | **Graph Foundation Models for Recommendation: A Comprehensive Survey** | Bin Wu, Yihang Wang, Yuanhao Zeng, Jiawei Liu, Jiashu Zhao, Cheng Yang, Yawen Li, Long Xia, Dawei Yin, Chuan Shi et.al. | [PDF](http://arxiv.org/abs/2502.08346v2) | 2025-02-14 | N/A |
 
 ## Robotics
 
@@ -424,18 +420,20 @@ Updated on 2025-02-13
 
 | Publish Date | Title | Authors | PDF | Last Updated | Code |
 |-------------|-------|---------|-----|-------------|------|
-| 2025-02-12 | **Robot Data Curation with Mutual Information Estimators** | Joey Hejna, Suvir Mirchandani, Ashwin Balakrishna, Annie Xie, Ayzaan Wahid, Jonathan Tompson, Pannag Sanketi, Dhruv Shah, Coline Devin, Dorsa Sadigh et.al. | [PDF](http://arxiv.org/abs/2502.08623v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Direction Finding for Software Defined Radios with Switched Uniform Circular Arrays** | Lennart Werner, Markus Gardill, Marco Hutter et.al. | [PDF](http://arxiv.org/abs/2502.08592v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Learning to Group and Grasp Multiple Objects** | Takahiro Yonemaru, Weiwei Wan, Tatsuki Nishimura, Kensuke Harada et.al. | [PDF](http://arxiv.org/abs/2502.08452v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Robot-Initiated Social Control of Sedentary Behavior: Comparing the Impact of Relationship- and Target-Focused Strategies** | Jiaxin Xu, Sterre Anna Mariam van der Horst, Chao Zhang, Raymond H. Cuijpers, Wijnand A. IJsselsteijn et.al. | [PDF](http://arxiv.org/abs/2502.08428v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Conveyor Line Color Object Sorting using A Monochrome Camera, Colored Light and RGB Filters** | Mason Petersen, Brendon Lakenen, Krishna Chavan, Pratik Waghmare, Aleksandr Sergeyev, Nathir A. Rawashdeh et.al. | [PDF](http://arxiv.org/abs/2502.08419v1) | 2025-02-12 | N/A |
+| 2025-02-13 | **Rolling Ahead Diffusion for Traffic Scene Simulation** | Yunpeng Liu, Matthew Niedoba, William Harvey, Adam Scibior, Berend Zwartsenberg, Frank Wood et.al. | [PDF](http://arxiv.org/abs/2502.09587v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Real-Time Fast Marching Tree for Mobile Robot Motion Planning in Dynamic Environments** | Jefferson Silveira, Kleber Cabral, Sidney Givigi, Joshua A. Marshall et.al. | [PDF](http://arxiv.org/abs/2502.09556v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Robot Pouring: Identifying Causes of Spillage and Selecting Alternative Action Parameters Using Probabilistic Actual Causation** | Jaime Maldonado, Jonas Krumme, Christoph Zetzsche, Vanessa Didelez, Kerstin Schill et.al. | [PDF](http://arxiv.org/abs/2502.09395v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **S$^2$-Diffusion: Generalizing from Instance-level to Category-level Skills in Robot Manipulation** | Quantao Yang, Michael C. Welle, Danica Kragic, Olov Andersson et.al. | [PDF](http://arxiv.org/abs/2502.09389v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **TRIFFID: Autonomous Robotic Aid For Increasing First Responders Efficiency** | Jorgen Cani, Panagiotis Koletsis, Konstantinos Foteinos, Ioannis Kefaloukos, Lampros Argyriou, Manolis Falelakis, Iván Del Pino, Angel Santamaria-Navarro, Martin Čech, Ondřej Severa, Alessandro Umbrico, Francesca Fracasso, AndreA Orlandini, Dimitrios Drakoulis, Evangelos Markakis, Georgios Th. Papadopoulos et.al. | [PDF](http://arxiv.org/abs/2502.09379v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **A Deep Inverse-Mapping Model for a Flapping Robotic Wing** | Hadar Sharvit, Raz Karl, Tsevi Beatus et.al. | [PDF](http://arxiv.org/abs/2502.09378v1) | 2025-02-13 | N/A |
 
 
 ### SLAM
 
 | Publish Date | Title | Authors | PDF | Last Updated | Code |
 |-------------|-------|---------|-----|-------------|------|
-| 2025-02-10 | **Occupancy-SLAM: An Efficient and Robust Algorithm for Simultaneously Optimizing Robot Poses and Occupancy Map** | Yingyu Wang, Liang Zhao, Shoudong Huang et.al. | [PDF](http://arxiv.org/abs/2502.06292v1) | 2025-02-10 | N/A |
+| 2025-02-13 | **DenseSplat: Densifying Gaussian Splatting SLAM with Neural Radiance Prior** | Mingrui Li, Shuhong Liu, Tianchen Deng, Hongyu Wang et.al. | [PDF](http://arxiv.org/abs/2502.09111v1) | 2025-02-13 | N/A |
+| 2025-02-10 | **Occupancy-SLAM: An Efficient and Robust Algorithm for Simultaneously Optimizing Robot Poses and Occupancy Map** | Yingyu Wang, Liang Zhao, Shoudong Huang et.al. | [PDF](http://arxiv.org/abs/2502.06292v2) | 2025-02-14 | N/A |
 | 2025-02-09 | **PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map** | Yue Pan, Xingguang Zhong, Liren Jin, Louis Wiesmann, Marija Popović, Jens Behley, Cyrill Stachniss et.al. | [PDF](http://arxiv.org/abs/2502.05752v1) | 2025-02-09 | N/A |
 | 2025-02-07 | **Joint State and Noise Covariance Estimation** | Kasra Khosoussi, Iman Shames et.al. | [PDF](http://arxiv.org/abs/2502.04584v1) | 2025-02-07 | N/A |
 | 2025-02-05 | **GARAD-SLAM: 3D GAussian splatting for Real-time Anti Dynamic SLAM** | Mingrui Li, Weijian Chen, Na Cheng, Jingyuan Xu, Dong Li, Hongyu Wang et.al. | [PDF](http://arxiv.org/abs/2502.03228v1) | 2025-02-05 | N/A |
@@ -443,7 +441,6 @@ Updated on 2025-02-13
 | 2025-02-03 | **Statistical enhance learning for modeling and prediction tennis matches at Grand Slam tournaments** | Nourah Buhamra, Andreas Groll et.al. | [PDF](http://arxiv.org/abs/2502.01613v1) | 2025-02-03 | N/A |
 | 2025-02-03 | **Enhancing Feature Tracking Reliability for Visual Navigation using Real-Time Safety Filter** | Dabin Kim, Inkyu Jang, Youngsoo Han, Sunwoo Hwang, H. Jin Kim et.al. | [PDF](http://arxiv.org/abs/2502.01092v1) | 2025-02-03 | N/A |
 | 2025-02-01 | **FlexCloud: Direct, Modular Georeferencing and Drift-Correction of Point Cloud Maps** | Maximilian Leitenstern, Marko Alten, Christian Bolea-Schaser, Dominik Kulmer, Marcel Weinmann, Markus Lienkamp et.al. | [PDF](http://arxiv.org/abs/2502.00395v1) | 2025-02-01 | N/A |
-| 2025-01-31 | **LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks** | Liudi Yang, Ruben Mascaro, Ignacio Alzugaray, Sai Manoj Prakhya, Marco Karrer, Ziyuan Liu, Margarita Chli et.al. | [PDF](http://arxiv.org/abs/2501.19382v1) | 2025-01-31 | N/A |
 
 
 ### SFM
@@ -454,6 +451,7 @@ Updated on 2025-02-13
 | 2025-02-10 | **FOCUS - Multi-View Foot Reconstruction From Synthetically Trained Dense Correspondences** | Oliver Boyne, Roberto Cipolla et.al. | [PDF](http://arxiv.org/abs/2502.06367v1) | 2025-02-10 | N/A |
 | 2025-02-09 | **Audio-Visual Representation Learning via Knowledge Distillation from Speech Foundation Models** | Jing-Xuan Zhang, Genshun Wan, Jianqing Gao, Zhen-Hua Ling et.al. | [PDF](http://arxiv.org/abs/2502.05766v1) | 2025-02-09 | N/A |
 | 2025-02-07 | **Building Rome with Convex Optimization** | Haoyu Han, Heng Yang et.al. | [PDF](http://arxiv.org/abs/2502.04640v2) | 2025-02-10 | N/A |
+| 2025-02-04 | **GP-GS: Gaussian Processes for Enhanced Gaussian Splatting** | Zhihao Guo, Jingxuan Su, Shenglin Wang, Jinlong Fan, Jing Zhang, Liangxiu Han, Peng Wang et.al. | [PDF](http://arxiv.org/abs/2502.02283v2) | 2025-02-05 | N/A |
 | 2025-02-03 | **XR-VIO: High-precision Visual Inertial Odometry with Fast Initialization for XR Applications** | Shangjin Zhai, Nan Wang, Xiaomeng Wang, Danpeng Chen, Weijian Xie, Hujun Bao, Guofeng Zhang et.al. | [PDF](http://arxiv.org/abs/2502.01297v1) | 2025-02-03 | N/A |
 | 2025-01-29 | **Segmentation-Aware Generative Reinforcement Network (GRN) for Tissue Layer Segmentation in 3-D Ultrasound Images for Chronic Low-back Pain (cLBP) Assessment** | Zixue Zeng, Xiaoyan Zhao, Matthew Cartier, Tong Yu, Jing Wang, Xin Meng, Zhiyu Sheng, Maryam Satarpour, John M Cormack, Allison Bean, Ryan Nussbaum, Maya Maurer, Emily Landis-Walkenhorst, Dinesh Kumbhare, Kang Kim, Ajay Wasan, Jiantao Pu et.al. | [PDF](http://arxiv.org/abs/2501.17690v1) | 2025-01-29 | N/A |
 | 2025-01-27 | **Automatic Calibration of a Multi-Camera System with Limited Overlapping Fields of View for 3D Surgical Scene Reconstruction** | Tim Flückiger, Jonas Hein, Valery Fischer, Philipp Fürnstahl, Lilian Calvet et.al. | [PDF](http://arxiv.org/abs/2501.16221v2) | 2025-01-28 | N/A |
@@ -464,6 +462,7 @@ Updated on 2025-02-13
 
 | Publish Date | Title | Authors | PDF | Last Updated | Code |
 |-------------|-------|---------|-----|-------------|------|
+| 2025-02-12 | **SpeechCompass: Enhancing Mobile Captioning with Diarization and Directional Guidance via Multi-Microphone Localization** | Artem Dementyev, Dimitri Kavensky, Samuel J. Yang, Mathieu Parvaix, Chiong Lai, Alex Olwal et.al. | [PDF](http://arxiv.org/abs/2502.08848v1) | 2025-02-12 | N/A |
 | 2025-02-11 | **Ultrafast 4D scanning transmission electron microscopy for imaging of localized optical fields** | Petr Koutenský, Neli Laštovičková Streshkova, Kamila Moriová, Marius Constantin Chirita Mihaila, Daniel Burda, Alexandr Knápek, Martin Kozák et.al. | [PDF](http://arxiv.org/abs/2502.07338v1) | 2025-02-11 | N/A |
 | 2025-01-24 | **Visual Localization via Semantic Structures in Autonomous Photovoltaic Power Plant Inspection** | Viktor Kozák, Karel Košnar, Jan Chudoba, Miroslav Kulich, Libor Přeučil et.al. | [PDF](http://arxiv.org/abs/2501.14587v1) | 2025-01-24 | N/A |
 | 2025-01-17 | **FLORA: Formal Language Model Enables Robust Training-free Zero-shot Object Referring Analysis** | Zhe Chen, Zijing Chen et.al. | [PDF](http://arxiv.org/abs/2501.09887v1) | 2025-01-17 | N/A |
@@ -473,7 +472,6 @@ Updated on 2025-02-13
 | 2024-12-18 | **ConDo: Continual Domain Expansion for Absolute Pose Regression** | Zijun Li, Zhipeng Cai, Bochun Yang, Xuelun Shen, Siqi Shen, Xiaoliang Fan, Michael Paulitsch, Cheng Wang et.al. | [PDF](http://arxiv.org/abs/2412.13452v1) | 2024-12-18 | N/A |
 | 2024-12-11 | **Reloc3r: Large-Scale Training of Relative Camera Pose Regression for Generalizable, Fast, and Accurate Visual Localization** | Siyan Dong, Shuzhe Wang, Shaohui Liu, Lulu Cai, Qingnan Fan, Juho Kannala, Yanchao Yang et.al. | [PDF](http://arxiv.org/abs/2412.08376v1) | 2024-12-11 | N/A |
 | 2024-12-11 | **Intelligent Control of Robotic X-ray Devices using a Language-promptable Digital Twin** | Benjamin D. Killeen, Anushri Suresh, Catalina Gomez, Blanca Inigo, Christopher Bailey, Mathias Unberath et.al. | [PDF](http://arxiv.org/abs/2412.08020v1) | 2024-12-11 | N/A |
-| 2024-12-09 | **An Efficient Scene Coordinate Encoding and Relocalization Method** | Kuan Xu, Zeyu Jiang, Haozhi Cao, Shenghai Yuan, Chen Wang, Lihua Xie et.al. | [PDF](http://arxiv.org/abs/2412.06488v1) | 2024-12-09 | N/A |
 
 ## Multi-modal
 
@@ -482,42 +480,42 @@ Updated on 2025-02-13
 
 | Publish Date | Title | Authors | PDF | Last Updated | Code |
 |-------------|-------|---------|-----|-------------|------|
-| 2025-02-12 | **PulseCheck457: A Diagnostic Benchmark for Comprehensive Spatial Reasoning of Large Multimodal Models** | Xingrui Wang, Wufei Ma, Tiezheng Zhang, Celso M de Melo, Jieneng Chen, Alan Yuille et.al. | [PDF](http://arxiv.org/abs/2502.08636v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Human-Centric Foundation Models: Perception, Generation and Agentic Modeling** | Shixiang Tang, Yizhou Wang, Lu Chen, Yuan Wang, Sida Peng, Dan Xu, Wanli Ouyang et.al. | [PDF](http://arxiv.org/abs/2502.08556v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Salamandra Technical Report** | Aitor Gonzalez-Agirre, Marc Pàmies, Joan Llop, Irene Baucells, Severino Da Dalt, Daniel Tamayo, José Javier Saiz, Ferran Espuña, Jaume Prats, Javier Aula-Blasco, Mario Mina, Adrián Rubio, Alexander Shvets, Anna Sallés, Iñaki Lacunza, Iñigo Pikabea, Jorge Palomar, Júlia Falcão, Lucía Tormo, Luis Vasquez-Reina, Montserrat Marimon, Valle Ruíz-Fernández, Marta Villegas et.al. | [PDF](http://arxiv.org/abs/2502.08489v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Referring Remote Sensing Image Segmentation via Bidirectional Alignment Guided Joint Prediction** | Tianxiang Zhang, Zhaokun Wen, Bo Kong, Kecheng Liu, Yisi Zhang, Peixian Zhuang, Jiangyun Li et.al. | [PDF](http://arxiv.org/abs/2502.08486v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **mmE5: Improving Multimodal Multilingual Embeddings via High-quality Synthetic Data** | Haonan Chen, Liang Wang, Nan Yang, Yutao Zhu, Ziliang Zhao, Furu Wei, Zhicheng Dou et.al. | [PDF](http://arxiv.org/abs/2502.08468v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Monge SAM: Robust Reparameterization-Invariant Sharpness-Aware Minimization Based on Loss Geometry** | Albert Kjøller Jacobsen, Georgios Arvanitidis et.al. | [PDF](http://arxiv.org/abs/2502.08448v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Mitigating Hallucinations in Multimodal Spatial Relations through Constraint-Aware Prompting** | Jiarui Wu, Zhuo Liu, Hangfeng He et.al. | [PDF](http://arxiv.org/abs/2502.08317v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **What Is That Talk About? A Video-to-Text Summarization Dataset for Scientific Presentations** | Dongqi Liu, Chenxi Whitehouse, Xi Yu, Louis Mahon, Rohit Saxena, Zheng Zhao, Yifu Qiu, Mirella Lapata, Vera Demberg et.al. | [PDF](http://arxiv.org/abs/2502.08279v1) | 2025-02-12 | N/A |
+| 2025-02-13 | **MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency** | Dongzhi Jiang, Renrui Zhang, Ziyu Guo, Yanwei Li, Yu Qi, Xinyan Chen, Liuhui Wang, Jianhan Jin, Claire Guo, Shen Yan, Bo Zhang, Chaoyou Fu, Peng Gao, Hongsheng Li et.al. | [PDF](http://arxiv.org/abs/2502.09621v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Variational Rectified Flow Matching** | Pengsheng Guo, Alexander G. Schwing et.al. | [PDF](http://arxiv.org/abs/2502.09616v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents** | Rui Yang, Hanyang Chen, Junyu Zhang, Mark Zhao, Cheng Qian, Kangrui Wang, Qineng Wang, Teja Venkat Koripella, Marziyeh Movahedi, Manling Li, Heng Ji, Huan Zhang, Tong Zhang et.al. | [PDF](http://arxiv.org/abs/2502.09560v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Long-Term TalkingFace Generation via Motion-Prior Conditional Diffusion Model** | Fei Shen, Cong Wang, Junyao Gao, Qin Guo, Jisheng Dang, Jinhui Tang, Tat-Seng Chua et.al. | [PDF](http://arxiv.org/abs/2502.09533v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Foundation Neural-Network Quantum States** | Riccardo Rende, Luciano Loris Viteritti, Federico Becca, Antonello Scardicchio, Alessandro Laio, Giuseppe Carleo et.al. | [PDF](http://arxiv.org/abs/2502.09488v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Galileo: Learning Global and Local Features in Pretrained Remote Sensing Models** | Gabriel Tseng, Anthony Fuller, Marlena Reil, Henry Herzog, Patrick Beukema, Favyen Bastani, James R. Green, Evan Shelhamer, Hannah Kerner, David Rolnick et.al. | [PDF](http://arxiv.org/abs/2502.09356v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **A Benchmark for Crime Surveillance Video Analysis with Large Models** | Haoran Chen, Dong Yi, Moyan Cao, Chensen Huang, Guibo Zhu, Jinqiao Wang et.al. | [PDF](http://arxiv.org/abs/2502.09325v1) | 2025-02-13 | N/A |
 
 
 ### VQA
 
 | Publish Date | Title | Authors | PDF | Last Updated | Code |
 |-------------|-------|---------|-----|-------------|------|
+| 2025-02-13 | **EmoAssist: Emotional Assistant for Visual Impairment Community** | Xingyu Qi, He Li, Linjie Li, Zhenyu Wu et.al. | [PDF](http://arxiv.org/abs/2502.09285v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Abduction of Domain Relationships from Data for VQA** | Al Mehdi Saadat Chowdhury, Paulo Shakarian, Gerardo I. Simari et.al. | [PDF](http://arxiv.org/abs/2502.09219v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Visual Graph Question Answering with ASP and LLMs for Language Parsing** | Jakob Johannes Bauer, Thomas Eiter, Nelson Higuera Ruiz, Johannes Oetsch et.al. | [PDF](http://arxiv.org/abs/2502.09211v1) | 2025-02-13 | N/A |
 | 2025-02-12 | **Tutorial for Surrogate Endpoint Validation Using Joint modeling and Mediation Analysis** | Quentin Le Coent, Virginie Rondeau, Catherine Legrand et.al. | [PDF](http://arxiv.org/abs/2502.08443v1) | 2025-02-12 | N/A |
 | 2025-02-12 | **Individualised Treatment Effects Estimation with Composite Treatments and Composite Outcomes** | Vinod Kumar Chauhan, Lei Clifton, Gaurav Nigam, David A. Clifton et.al. | [PDF](http://arxiv.org/abs/2502.08282v1) | 2025-02-12 | N/A |
 | 2025-02-12 | **ACCESS : A Benchmark for Abstract Causal Event Discovery and Reasoning** | Vy Vo, Lizhen Qu, Tao Feng, Yuncheng Hua, Xiaoxi Kang, Songhai Fan, Tim Dwyer, Lay-Ki Soon, Gholamreza Haffari et.al. | [PDF](http://arxiv.org/abs/2502.08148v1) | 2025-02-12 | N/A |
 | 2025-02-11 | **Simulating Longitudinal Data from Marginal Structural Models** | Xi Lin, Daniel de Vassimon Manela, Chase Mathis, Jens Magelund Tarp, Robin J. Evans et.al. | [PDF](http://arxiv.org/abs/2502.07991v1) | 2025-02-11 | N/A |
-| 2025-02-11 | **Vision-Language Models for Edge Networks: A Comprehensive Survey** | Ahmed Sharshar, Latif U. Khan, Waseem Ullah, Mohsen Guizani et.al. | [PDF](http://arxiv.org/abs/2502.07855v1) | 2025-02-11 | N/A |
-| 2025-02-11 | **Distilling heterogeneous treatment effects: Stable subgroup estimation in causal inference** | Melody Huang, Tiffany M. Tang, Ana M. Kenney et.al. | [PDF](http://arxiv.org/abs/2502.07275v1) | 2025-02-11 | N/A |
-| 2025-02-10 | **Visual Agentic AI for Spatial Reasoning with a Dynamic API** | Damiano Marsili, Rohun Agrawal, Yisong Yue, Georgia Gkioxari et.al. | [PDF](http://arxiv.org/abs/2502.06787v1) | 2025-02-10 | N/A |
-| 2025-02-10 | **Causal Lifting of Neural Representations: Zero-Shot Generalization for Causal Inferences** | Riccardo Cadei, Ilker Demirel, Piersilvio De Bartolomeis, Lukas Lindorfer, Sylvia Cremer, Cordelia Schmid, Francesco Locatello et.al. | [PDF](http://arxiv.org/abs/2502.06343v1) | 2025-02-10 | N/A |
+| 2025-02-11 | **Causal-Informed Contrastive Learning: Towards Bias-Resilient Pre-training under Concept Drift** | Xiaoyu Yang, Jie Lu, En Yu et.al. | [PDF](http://arxiv.org/abs/2502.07620v1) | 2025-02-11 | N/A |
 
 
 ### Image Caption
 
 | Publish Date | Title | Authors | PDF | Last Updated | Code |
 |-------------|-------|---------|-----|-------------|------|
+| 2025-02-13 | **FE-LWS: Refined Image-Text Representations via Decoder Stacking and Fused Encodings for Remote Sensing Image Captioning** | Swadhin Das, Raksha Sharma et.al. | [PDF](http://arxiv.org/abs/2502.09282v1) | 2025-02-13 | N/A |
+| 2025-02-11 | **Vision-Language Models for Edge Networks: A Comprehensive Survey** | Ahmed Sharshar, Latif U. Khan, Waseem Ullah, Mohsen Guizani et.al. | [PDF](http://arxiv.org/abs/2502.07855v1) | 2025-02-11 | N/A |
+| 2025-02-10 | **Generative Distribution Prediction: A Unified Approach to Multimodal Learning** | Xinyu Tian, Xiaotong Shen et.al. | [PDF](http://arxiv.org/abs/2502.07090v1) | 2025-02-10 | N/A |
 | 2025-02-10 | **Evaluation of Multilingual Image Captioning: How far can we get with CLIP models?** | Gonçalo Gomes, Chrysoula Zerva, Bruno Martins et.al. | [PDF](http://arxiv.org/abs/2502.06600v1) | 2025-02-10 | N/A |
 | 2025-02-09 | **Temporal Working Memory: Query-Guided Segment Refinement for Enhanced Multimodal Understanding** | Xingjian Diao, Chunhui Zhang, Weiyi Wu, Zhongyu Ouyang, Peijun Qing, Ming Cheng, Soroush Vosoughi, Jiang Gui et.al. | [PDF](http://arxiv.org/abs/2502.06020v1) | 2025-02-09 | N/A |
 | 2025-02-06 | **Éclair -- Extracting Content and Layout with Integrated Reading Order for Documents** | Ilia Karmanov, Amala Sanjay Deshmukh, Lukas Voegtle, Philipp Fischer, Kateryna Chumachenko, Timo Roman, Jarno Seppänen, Jupinder Parmar, Joseph Jennings, Andrew Tao, Karan Sapra et.al. | [PDF](http://arxiv.org/abs/2502.04223v1) | 2025-02-06 | N/A |
 | 2025-02-06 | **Efficient Few-Shot Continual Learning in Vision-Language Models** | Aristeidis Panos, Rahaf Aljundi, Daniel Olmeda Reino, Richard E. Turner et.al. | [PDF](http://arxiv.org/abs/2502.04098v2) | 2025-02-07 | N/A |
 | 2025-02-06 | **Decoder-Only LLMs are Better Controllers for Diffusion Models** | Ziyi Dong, Yao Xiao, Pengxu Wei, Liang Lin et.al. | [PDF](http://arxiv.org/abs/2502.04412v1) | 2025-02-06 | N/A |
 | 2025-02-06 | **Taking A Closer Look at Interacting Objects: Interaction-Aware Open Vocabulary Scene Graph Generation** | Lin Li, Chuhan Zhang, Dong Zhang, Chong Sun, Chen Li, Long Chen et.al. | [PDF](http://arxiv.org/abs/2502.03856v1) | 2025-02-06 | N/A |
-| 2025-02-05 | **TexLiDAR: Automated Text Understanding for Panoramic LiDAR Data** | Naor Cohen, Roy Orfaig, Ben-Zion Bobrovsky et.al. | [PDF](http://arxiv.org/abs/2502.04385v1) | 2025-02-05 | N/A |
-| 2025-02-05 | **SKI Models: Skeleton Induced Vision-Language Embeddings for Understanding Activities of Daily Living** | Arkaprava Sinha, Dominick Reilly, Francois Bremond, Pu Wang, Srijan Das et.al. | [PDF](http://arxiv.org/abs/2502.03459v1) | 2025-02-05 | N/A |
 
 
 ### Text and Image Generation
@@ -547,11 +545,13 @@ Updated on 2025-02-13
 
 | Publish Date | Title | Authors | PDF | Last Updated | Code |
 |-------------|-------|---------|-----|-------------|------|
-| 2025-02-12 | **Utility Engineering: Analyzing and Controlling Emergent Value Systems in AIs** | Mantas Mazeika, Xuwang Yin, Rishub Tamirisa, Jaehyuk Lim, Bruce W. Lee, Richard Ren, Long Phan, Norman Mu, Adam Khoja, Oliver Zhang, Dan Hendrycks et.al. | [PDF](http://arxiv.org/abs/2502.08640v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Commercial LLM Agents Are Already Vulnerable to Simple Yet Dangerous Attacks** | Ang Li, Yin Zhou, Vethavikashini Chithrra Raghuram, Tom Goldstein, Micah Goldblum et.al. | [PDF](http://arxiv.org/abs/2502.08586v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Interacting Early Dark Energy** | Yousef Bisabr et.al. | [PDF](http://arxiv.org/abs/2502.08541v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **On the crystalline environment of luminescent Tb$^{3+}$ ions embedded in indium tin oxide thin films: a DFT and Crystal field analysis assessment** | E. Serquen, K. Lizárraga, L. A. Enrique, F. Bravo, S. Mishra, P. LLontop, P. Venezuela, L. R. Tessler, J. A. Guerra et.al. | [PDF](http://arxiv.org/abs/2502.08517v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Microscopic mechanism of electric field-induced superconductivity suppression in metallic thin films** | Alessio Zaccone, Giovanni A. Ummarino, Alessandro Braggio, Francesco Giazotto et.al. | [PDF](http://arxiv.org/abs/2502.08459v1) | 2025-02-12 | N/A |
+| 2025-02-13 | **Superspin Renormalization and Slow Relaxation in Random Spin Systems** | Yi J. Zhao, Samuel J. Garratt, Joel E. Moore et.al. | [PDF](http://arxiv.org/abs/2502.09612v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **SelfCite: Self-Supervised Alignment for Context Attribution in Large Language Models** | Yung-Sung Chuang, Benjamin Cohen-Wang, Shannon Zejiang Shen, Zhaofeng Wu, Hu Xu, Xi Victoria Lin, James Glass, Shang-Wen Li, Wen-tau Yih et.al. | [PDF](http://arxiv.org/abs/2502.09604v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Diffusing DeBias: a Recipe for Turning a Bug into a Feature** | Massimiliano Ciranni, Vito Paolo Pastore, Roberto Di Via, Enzo Tartaglione, Francesca Odone, Vittorio Murino et.al. | [PDF](http://arxiv.org/abs/2502.09564v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Discovery of large-scale radio emission enveloping the mini-halo in the most X-ray luminous galaxy cluster RX~J1347.5-1145** | D. N. Hoang, M. Brüggen, A. Bonafede, P. M. Koch, G. Brunetti, E. Bulbul, G. Di Gennaro, A. Liu, C. J. Riseley, H. J. A. Röttgering, R. J. van Weeren et.al. | [PDF](http://arxiv.org/abs/2502.09472v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Intrinsic galaxy alignments in the KiDS-1000 bright sample: dependence on colour, luminosity, morphology and galaxy scale** | Christos Georgiou, Nora Elisa Chisari, Maciej Bilicki, Francesco La Barbera, Nicola R. Napolitano, Nivya Roy, Crescenzo Tortora et.al. | [PDF](http://arxiv.org/abs/2502.09452v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Pixel-Level Reasoning Segmentation via Multi-turn Conversations** | Dexian Cai, Xiaocui Yang, Yongkang Liu, Daling Wang, Shi Feng, Yifei Zhang, Soujanya Poria et.al. | [PDF](http://arxiv.org/abs/2502.09447v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Redistribute Ensemble Training for Mitigating Memorization in Diffusion Models** | Xiaoliu Guan, Yu Wu, Huayang Huang, Xiao Liu, Jiaxu Miao, Yi Yang et.al. | [PDF](http://arxiv.org/abs/2502.09434v1) | 2025-02-13 | N/A |
 
 ## Medical Application
 
@@ -560,22 +560,23 @@ Updated on 2025-02-13
 
 | Publish Date | Title | Authors | PDF | Last Updated | Code |
 |-------------|-------|---------|-----|-------------|------|
+| 2025-02-13 | **Standardisation of Convex Ultrasound Data Through Geometric Analysis and Augmentation** | Alistair Weld, Giovanni Faoro, Luke Dixon, Sophie Camp, Arianna Menciassi, Stamatia Giannarou et.al. | [PDF](http://arxiv.org/abs/2502.09482v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Medicine on the Edge: Comparative Performance Analysis of On-Device LLMs for Clinical Reasoning** | Leon Nissen, Philipp Zagar, Vishnu Ravi, Aydin Zahedivash, Lara Marie Reimer, Stephan Jonas, Oliver Aalami, Paul Schmiedmayer et.al. | [PDF](http://arxiv.org/abs/2502.08954v1) | 2025-02-13 | N/A |
+| 2025-02-12 | **Recovery guarantees for compressed sensing photoacoustic tomography** | Alessandro Felisi et.al. | [PDF](http://arxiv.org/abs/2502.08846v1) | 2025-02-12 | N/A |
 | 2025-02-12 | **Ultrasound Image Generation using Latent Diffusion Models** | Benoit Freiche, Anthony El-Khoury, Ali Nasiri-Sarvi, Mahdi S. Hosseini, Damien Garcia, Adrian Basarab, Mathieu Boily, Hassan Rivaz et.al. | [PDF](http://arxiv.org/abs/2502.08580v1) | 2025-02-12 | N/A |
 | 2025-02-12 | **Screener: Self-supervised Pathology Segmentation Model for 3D Medical Images** | Mikhail Goncharov, Eugenia Soboleva, Mariia Donskova, Ivan Oseledets, Marina Munkhoeva, Maxim Panov et.al. | [PDF](http://arxiv.org/abs/2502.08321v1) | 2025-02-12 | N/A |
 | 2025-02-12 | **ActiveSSF: An Active-Learning-Guided Self-Supervised Framework for Long-Tailed Megakaryocyte Classification** | Linghao Zhuang, Ying Zhang, Gege Yuan, Xingyue Zhao, Zhiping Jiang et.al. | [PDF](http://arxiv.org/abs/2502.08200v1) | 2025-02-12 | N/A |
-| 2025-02-11 | **Joint Modelling Histology and Molecular Markers for Cancer Classification** | Xiaofei Wang, Hanyu Liu, Yupei Zhang, Boyang Zhao, Hao Duan, Wanming Hu, Yonggao Mou, Stephen Price, Chao Li et.al. | [PDF](http://arxiv.org/abs/2502.07979v1) | 2025-02-11 | N/A |
-| 2025-02-11 | **The Devil is in the Prompts: De-Identification Traces Enhance Memorization Risks in Synthetic Chest X-Ray Generation** | Raman Dutt et.al. | [PDF](http://arxiv.org/abs/2502.07516v1) | 2025-02-11 | N/A |
-| 2025-02-11 | **Bidirectional Uncertainty-Aware Region Learning for Semi-Supervised Medical Image Segmentation** | Shiwei Zhou, Haifeng Zhao, Dengdi Sun et.al. | [PDF](http://arxiv.org/abs/2502.07457v1) | 2025-02-11 | N/A |
-| 2025-02-11 | **ERANet: Edge Replacement Augmentation for Semi-Supervised Meniscus Segmentation with Prototype Consistency Alignment and Conditional Self-Training** | Siyue Li, Yongcheng Yao, Junru Zhong, Shutian Zhao, Yudong Zhang, Shuihua Wang, Jin Hong, Weitian Chen et.al. | [PDF](http://arxiv.org/abs/2502.07331v1) | 2025-02-11 | N/A |
-| 2025-02-11 | **Color-Quality Invariance for Robust Medical Image Segmentation** | Ravi Shah, Atsushi Fukuda, Quan Huu Cap et.al. | [PDF](http://arxiv.org/abs/2502.07200v1) | 2025-02-11 | N/A |
-| 2025-02-11 | **Explaining 3D Computed Tomography Classifiers with Counterfactuals** | Joseph Paul Cohen, Louis Blankemeier, Akshay Chaudhari et.al. | [PDF](http://arxiv.org/abs/2502.07156v1) | 2025-02-11 | N/A |
+| 2025-02-12 | **Improving Lesion Segmentation in Medical Images by Global and Regional Feature Compensation** | Chuhan Wang, Zhenghao Chen, Jean Y. H. Yang, Jinman Kim et.al. | [PDF](http://arxiv.org/abs/2502.08675v1) | 2025-02-12 | N/A |
 
 
 ### Medical Image Analysis
 
 | Publish Date | Title | Authors | PDF | Last Updated | Code |
 |-------------|-------|---------|-----|-------------|------|
+| 2025-02-11 | **Joint Modelling Histology and Molecular Markers for Cancer Classification** | Xiaofei Wang, Hanyu Liu, Yupei Zhang, Boyang Zhao, Hao Duan, Wanming Hu, Yonggao Mou, Stephen Price, Chao Li et.al. | [PDF](http://arxiv.org/abs/2502.07979v1) | 2025-02-11 | N/A |
+| 2025-02-11 | **The Devil is in the Prompts: De-Identification Traces Enhance Memorization Risks in Synthetic Chest X-Ray Generation** | Raman Dutt et.al. | [PDF](http://arxiv.org/abs/2502.07516v2) | 2025-02-14 | N/A |
 | 2025-02-10 | **Prototype Contrastive Consistency Learning for Semi-Supervised Medical Image Segmentation** | Shihuan He, Zhihui Lai, Ruxin Wang, Heng Kong et.al. | [PDF](http://arxiv.org/abs/2502.06650v1) | 2025-02-10 | N/A |
+| 2025-02-10 | **Multi-Scale Transformer Architecture for Accurate Medical Image Classification** | Jiacheng Hu, Yanlin Xiang, Yang Lin, Junliang Du, Hanchao Zhang, Houze Liu et.al. | [PDF](http://arxiv.org/abs/2502.06243v1) | 2025-02-10 | N/A |
 | 2025-02-06 | **L2GNet: Optimal Local-to-Global Representation of Anatomical Structures for Generalized Medical Image Segmentation** | Vandan Gorade, Sparsh Mittal, Neethi Dasu, Rekha Singhal, KC Santosh, Debesh Jha et.al. | [PDF](http://arxiv.org/abs/2502.05229v1) | 2025-02-06 | N/A |
 | 2025-02-06 | **Synthetic Poisoning Attacks: The Impact of Poisoned MRI Image on U-Net Brain Tumor Segmentation** | Tianhao Li, Tianyu Zeng, Yujia Zheng, Chulong Zhang, Jingyu Lu, Haotian Huang, Chuangxin Chu, Fang-Fang Yin, Zhenyu Yang et.al. | [PDF](http://arxiv.org/abs/2502.03825v1) | 2025-02-06 | N/A |
 | 2025-02-06 | **Optimized Unet with Attention Mechanism for Multi-Scale Semantic Segmentation** | Xuan Li, Quanchao Lu, Yankaiqi Li, Muqing Li, Yijiashun Qi et.al. | [PDF](http://arxiv.org/abs/2502.03813v1) | 2025-02-06 | N/A |
@@ -605,10 +606,10 @@ Updated on 2025-02-13
 
 | Publish Date | Title | Authors | PDF | Last Updated | Code |
 |-------------|-------|---------|-----|-------------|------|
-| 2025-02-12 | **Examining Multilingual Embedding Models Cross-Lingually Through LLM-Generated Adversarial Examples** | Andrianos Michail, Simon Clematide, Rico Sennrich et.al. | [PDF](http://arxiv.org/abs/2502.08638v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Ensemble based approach to quantifying uncertainty of LLM based classifications** | Srijith Rajamohan, Ahmed Salhin, Josh Frazier, Rohit Kumar, Yu-Cheng Tsai, Todd Cook et.al. | [PDF](http://arxiv.org/abs/2502.08631v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **SPeCtrum: A Grounded Framework for Multidimensional Identity Representation in LLM-Based Agent** | Keyeun Lee, Seo Hyeong Kim, Seolhee Lee, Jinsu Eun, Yena Ko, Hayeon Jeon, Esther Hehsun Kim, Seonghye Cho, Soeun Yang, Eun-mee Kim, Hajin Lim et.al. | [PDF](http://arxiv.org/abs/2502.08599v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Mapping the Landscape of Generative AI in Network Monitoring and Management** | Giampaolo Bovenzi, Francesco Cerasuolo, Domenico Ciuonzo, Davide Di Monda, Idio Guarino, Antonio Montieri, Valerio Persico, Antonio Pescapè et.al. | [PDF](http://arxiv.org/abs/2502.08576v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **QA-Expand: Multi-Question Answer Generation for Enhanced Query Expansion in Information Retrieval** | Wonduk Seo, Seunghyun Lee et.al. | [PDF](http://arxiv.org/abs/2502.08557v1) | 2025-02-12 | N/A |
-| 2025-02-12 | **Fostering Appropriate Reliance on Large Language Models: The Role of Explanations, Sources, and Inconsistencies** | Sunnie S. Y. Kim, Jennifer Wortman Vaughan, Q. Vera Liao, Tania Lombrozo, Olga Russakovsky et.al. | [PDF](http://arxiv.org/abs/2502.08554v1) | 2025-02-12 | N/A |
+| 2025-02-13 | **Theoretical Benefit and Limitation of Diffusion Language Model** | Guhao Feng, Yihan Geng, Jian Guan, Wei Wu, Liwei Wang, Di He et.al. | [PDF](http://arxiv.org/abs/2502.09622v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Human-LLM Coevolution: Evidence from Academic Writing** | Mingmeng Geng, Roberto Trotta et.al. | [PDF](http://arxiv.org/abs/2502.09606v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs** | Siyan Zhao, Mingyi Hong, Yang Liu, Devamanyu Hazarika, Kaixiang Lin et.al. | [PDF](http://arxiv.org/abs/2502.09597v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **KIMAs: A Configurable Knowledge Integrated Multi-Agent System** | Zitao Li, Fei Wei, Yuexiang Xie, Dawei Gao, Weirui Kuang, Zhijian Ma, Bingchen Qian, Yaliang Li, Bolin Ding et.al. | [PDF](http://arxiv.org/abs/2502.09596v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Logical forms complement probability in understanding language model (and human) performance** | Yixuan Wang, Freda Shi et.al. | [PDF](http://arxiv.org/abs/2502.09589v1) | 2025-02-13 | N/A |
+| 2025-02-13 | **Polymind: Parallel Visual Diagramming with Large Language Models to Support Prewriting Through Microtasks** | Qian Wan, Jiannan Li, Huanchen Wang, Zhicong Lu et.al. | [PDF](http://arxiv.org/abs/2502.09577v1) | 2025-02-13 | N/A |
 

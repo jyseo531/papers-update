@@ -72,7 +72,7 @@ class ToolBox:
             return data_
         except json.decoder.JSONDecodeError as e:
             logger.error(e)
-
+    # Awesome repository list
     @staticmethod
     def get_repository_list(config_path: str = "database/awesome_repos.yml") -> list:
         """

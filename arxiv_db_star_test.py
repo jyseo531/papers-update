@@ -33,7 +33,6 @@ from config import (
 # from using_ocr import load_model, loading_pdf_image, perform_ocr, extract_link
 
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
-MODEL_PATH = "./EraX-VL-7B-V1.0"
 
 
 # SQLite DB 초기화
@@ -52,7 +51,9 @@ def init_db(db_name="arxiv.db"):
             first_author TEXT,
             pdf_url TEXT,
             updated_date TEXT,
-            code_url TEXT
+            code_url TEXT, 
+            star INTEGER DEFAULT 0,
+            framework TEXT
         )  
     """)
     conn.commit()
@@ -72,15 +73,17 @@ def save_to_db(conn, data):
                 pdf_url = fields[4].split("(")[-1].strip(")")
                 updated_date = fields[5].strip("**")  # updated_date 추가
                 code_url = fields[6].split("(")[-1].strip(")") if "link" in fields[5] else None
+                star = 0
+                framework = ""
 
                 
 
                 # Insert into database
                 cursor.execute("""
                     INSERT OR IGNORE INTO papers
-                    (id, topic, subtopic, publish_date, title, authors, first_author, pdf_url, updated_date, code_url)
+                    (id, topic, subtopic, publish_date, title, authors, first_author, pdf_url, updated_date, code_url, star, framework)
                     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-                """, (paper_id, topic, subtopic, publish_date, title, authors, first_author, pdf_url, updated_date, code_url))
+                """, (paper_id, topic, subtopic, publish_date, title, authors, first_author, pdf_url, updated_date, code_url, star, framework))
     conn.commit()
 
 
@@ -97,87 +100,59 @@ def get_yaml_data(yaml_file: str):
         data = yaml.load(fs, Loader=Loader)
     return data
 
-
-def get_daily_papers(topic: str, query: str = "slam", max_results=10 ,model=None, processor=None):
-    # output
+def get_daily_papers(topic: str, query: str = "slam", start_date="20250101"):
     content = dict()
-    # content
-    output = dict()
-    search_engine = arxiv.Search(
-        query=query,
-        max_results=max_results,
-        sort_by=arxiv.SortCriterion.SubmittedDate
-    )
+    total_results = 0
+    page_size = 100  # 한 번에 불러올 논문 개수 (최대 100)
+    retrieved_papers = set()  # 중복 방지
 
-    cnt = 0
-    for result in search_engine.results():
+    while True:
+        search_engine = arxiv.Search(
+            query=f"{query} AND submittedDate:[{start_date} TO {datetime.datetime.now().strftime('%Y%m%d')}]",
+            max_results=page_size,
+            sort_by=arxiv.SortCriterion.SubmittedDate
+        )
 
-        paper_id = result.get_short_id()
-        paper_title = result.title
-        paper_url = result.entry_id
+        new_papers = list(search_engine.results())  # 검색 결과를 리스트로 변환
+        if not new_papers or len(new_papers) == 0:  # 새로운 논문이 없으면 종료
+            break
 
-        code_url = base_url + paper_id
-        paper_abstract = result.summary.replace("\n", " ")
-        paper_authors = get_authors(result.authors)
-        paper_first_author = get_authors(result.authors, first_author=True)
-        primary_category = result.primary_category
+        for result in new_papers:
+            paper_id = result.get_short_id()
+            if paper_id in retrieved_papers:  # 중복 방지
+                continue
+            retrieved_papers.add(paper_id)
 
-        publish_time = result.published.date()
-        updated_time = result.updated.date()    # 최종 업데이트 날짜 추가 
+            paper_title = result.title
+            paper_url = result.entry_id
+            code_url = base_url + paper_id
+            paper_authors = get_authors(result.authors)
+            paper_first_author = get_authors(result.authors, first_author=True)
+            publish_time = result.published.date()
+            updated_time = result.updated.date()  # 최종 업데이트 날짜 추가
+            star = 0
+            framework = ""
+            try:
+                r = requests.get(code_url).json()
+                if "official" in r and r["official"]:
+                    repo_url = r["official"]["url"]
+                    content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**{updated_time}**|**[link]({repo_url})**|**{star}**|**{framework}**|\n"
 
-        # eg: 2108.09112v1 -> 2108.09112
-        ver_pos = paper_id.find('v')
-        if ver_pos == -1:
-            paper_key = paper_id
-        else:
-            paper_key = paper_id[0:ver_pos]
+                else: 
+                    content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**{updated_time}**|null|**{star}**|**{framework}**|\n"
 
-        try:
-            r = requests.get(code_url).json()
-            # source code link
-            if r.get("official") and r["official"].get("url"):
-                cnt += 1
-                repo_url = r["official"]["url"]
-                content[paper_key] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**{updated_time}**|**[link]({repo_url})**|\n"
-            else:
-                content[paper_key] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**{updated_time}**|null|\n"
-        
+            except Exception as e:
+                print(f"Exception: {e} with id: {paper_id}")
 
-        except Exception as e:
-            print(f"Exception: {e} with id: {paper_id}")
+        total_results += len(new_papers)
+        print(f"Retrieved {total_results} papers so far...")
 
-    data = {topic: content}
-    return data
+        # ArXiv API에는 페이지네이션 기능이 없어서, 현재 방식으로는 모든 데이터를 반복적으로 가져오는 한계가 있음.
+        # 해결 방법:
+        # - ArXiv 데이터셋을 직접 다운로드하여 활용하거나
+        # - OpenAlex, Semantic Scholar 같은 API 활용 고려
 
-# def get_daily_papers(topic: str, query: str = "slam", max_results=10, model=None, processor=None):
-#     content = dict()
-#     search_engine = arxiv.Search(
-#         query=query,
-#         max_results=max_results,
-#         sort_by=arxiv.SortCriterion.SubmittedDate
-#     )
-#     for result in search_engine.results():
-#         paper_id = result.get_short_id()
-#         paper_title = result.title
-#         paper_url = result.entry_id
-#         code_url = base_url + paper_id
-#         paper_authors = get_authors(result.authors)
-#         paper_first_author = get_authors(result.authors, first_author=True)
-#         publish_time = result.published.date()
-#         updated_time = result.updated.date()    # 최종 업데이트 날짜 추가 
-        
-#         try:
-#             r = requests.get(code_url).json()
-#             if "official" in r and r["official"]:
-#                 repo_url = r["official"]["url"]
-#                 content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**{updated_time}**|**[link]({repo_url})**|\n"
-            
-#             else: 
-#                 content[paper_id] = f"|**{publish_time}**|**{paper_title}**|{paper_authors} et.al.|[{paper_id}]({paper_url})|**{updated_time}**|null|\n"
-        
-#         except Exception as e:
-#             print(f"Exception: {e} with id: {paper_id}")
-#     return {topic: content}
+    return {topic: content}
 
 def db_to_md(conn, md_filename="README.md"):
     """
@@ -201,11 +176,11 @@ def db_to_md(conn, md_filename="README.md"):
                 subtopic_name = subtopic[0]
                 f.write(f"\n### {subtopic_name}\n\n")
 
-                f.write("| Publish Date | Title | Authors | PDF | Last Updated | Code |\n")
+                f.write("| Publish Date | Title | Authors | PDF | Last Updated | Code | Star | Framework |\n")
                 f.write("|-------------|-------|---------|-----|-------------|------|\n")
 
                 cursor.execute("""
-                    SELECT publish_date, title, authors, pdf_url, updated_date, code_url
+                    SELECT publish_date, title, authors, pdf_url, updated_date, code_url, star, framework
                     FROM papers
                     WHERE topic=? AND subtopic=?
                     ORDER BY publish_date DESC
@@ -216,8 +191,9 @@ def db_to_md(conn, md_filename="README.md"):
                     publish_date, title, authors, pdf_url, updated_date, code_url = paper
                     pdf_link = f"[PDF]({pdf_url})" if pdf_url else "N/A"
                     code_link = f"[link]({code_url})" if code_url else "N/A"
-
-                    f.write(f"| {publish_date} | **{title}** | {authors} | {pdf_link} | {updated_date} | {code_link} |\n")
+                    star = 0
+                    framework = ""
+                    f.write(f"| {publish_date} | **{title}** | {authors} | {pdf_link} | {updated_date} | {code_link} | {star} | {framework} |\n")
 
                 f.write("\n")
 
@@ -227,7 +203,7 @@ def db_to_md(conn, md_filename="README.md"):
 if __name__ == "__main__":
 
     # Initialize database (Arxiv)
-    conn = init_db('./database/arxiv.db')
+    conn = init_db('./arxiv_star_test.db')
     yaml_path = os.path.join("./database", "topic.yml")
     yaml_data = get_yaml_data(yaml_path)
     data_collector = {}
@@ -237,7 +213,7 @@ if __name__ == "__main__":
             print("Processing Keyword:", subtopic)
             try:
                 processor=None
-                data = get_daily_papers(subtopic, query=keyword, max_results=10, model=None, processor=processor)
+                data = get_daily_papers(subtopic, query=keyword, start_date="20250101")
             except Exception as e:
                 print(f"Error processing {subtopic}: {e}")
                 data = None
@@ -251,7 +227,7 @@ if __name__ == "__main__":
     save_to_db(conn, data_collector)
     
     # Generate Markdown file from database
-    db_to_md(conn, SERVER_PATH_README)
+    db_to_md(conn, "./arxiv_star_test.md")
     conn.close()
     
     print("Data saved to SQLite database and Markdown file generated.")
