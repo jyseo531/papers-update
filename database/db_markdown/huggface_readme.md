@@ -230,4 +230,4 @@ Updated on 2025-02-17
 | meta-llama/Llama-2-7b-chat-hf | meta-llama/Llama-2-7b-chat-hf | [Link](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf) | llama2 | text-generation |
 | city96/FLUX.1-dev-gguf | city96/FLUX.1-dev-gguf | [Link](https://huggingface.co/city96/FLUX.1-dev-gguf) | other | text-to-image |
 | OpenGVLab/InternVideo2_5_Chat_8B | OpenGVLab/InternVideo2_5_Chat_8B | [Link](https://huggingface.co/OpenGVLab/InternVideo2_5_Chat_8B) | apache-2.0 | video-text-to-text |
-| smirki/UIGEN-T1-Qwen-7b | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/smirki/UIGEN-T1-Qwen-7b) | apache-2.0 | text-generation |
+| smirki/UIGEN-T1-Qwen-7b | smirki/UIGEN-T1-Qwen-7b | [Link](https://huggingface.co/smirki/UIGEN-T1-Qwen-7b) | apache-2.0 | text-generation |
