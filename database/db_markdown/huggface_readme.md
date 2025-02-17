@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-02-13
+Updated on 2025-02-17
 
 > Generated from the Hugging Face database.
 
@@ -169,7 +169,7 @@ Updated on 2025-02-13
 | krutrim-ai-labs/Krutrim-2-instruct | krutrim-ai-labs/Krutrim-2-instruct | [Link](https://huggingface.co/krutrim-ai-labs/Krutrim-2-instruct) | other | None |
 | ByteDance/AnimateDiff-Lightning | ByteDance/AnimateDiff-Lightning | [Link](https://huggingface.co/ByteDance/AnimateDiff-Lightning) | creativeml-openrail-m | text-to-video |
 | xwen-team/Xwen-7B-Chat | xwen-team/Xwen-7B-Chat | [Link](https://huggingface.co/xwen-team/Xwen-7B-Chat) | apache-2.0 | text-generation |
-| meta-llama/Meta-Llama-3-8B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) | llama3 | text-generation |
+| meta-llama/Meta-Llama-3-8B | meta-llama/Meta-Llama-3-8B | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) | llama3 | text-generation |
 | HuggingFaceTB/SmolLM2-1.7B-Instruct | HuggingFaceTB/SmolLM2-1.7B-Instruct | [Link](https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B-Instruct) | apache-2.0 | text-generation |
 | cognitivecomputations/Dolphin3.0-R1-Mistral-24B | cognitivecomputations/Dolphin3.0-R1-Mistral-24B | [Link](https://huggingface.co/cognitivecomputations/Dolphin3.0-R1-Mistral-24B) | Unknown license | text-generation |
 | cognitivecomputations/Dolphin3.0-Mistral-24B | cognitivecomputations/Dolphin3.0-Mistral-24B | [Link](https://huggingface.co/cognitivecomputations/Dolphin3.0-Mistral-24B) | Unknown license | text-generation |
@@ -210,3 +210,23 @@ Updated on 2025-02-13
 | Liberata/illustrious-xl-v1.0 | Liberata/illustrious-xl-v1.0 | [Link](https://huggingface.co/Liberata/illustrious-xl-v1.0) | mit | text-to-image |
 | HuggingFaceTB/SmolLM2-135M-Instruct | HuggingFaceTB/SmolLM2-135M-Instruct | [Link](https://huggingface.co/HuggingFaceTB/SmolLM2-135M-Instruct) | apache-2.0 | text-generation |
 | PygmalionAI/Pygmalion-3-12B | PygmalionAI/Pygmalion-3-12B | [Link](https://huggingface.co/PygmalionAI/Pygmalion-3-12B) | apache-2.0 | None |
+| open-thoughts/OpenThinker-32B | open-thoughts/OpenThinker-32B | [Link](https://huggingface.co/open-thoughts/OpenThinker-32B) | apache-2.0 | text-generation |
+| large-traversaal/Alif-1.0-8B-Instruct | large-traversaal/Alif-1.0-8B-Instruct | [Link](https://huggingface.co/large-traversaal/Alif-1.0-8B-Instruct) | apache-2.0 | None |
+| sbintuitions/modernbert-ja-130m | sbintuitions/modernbert-ja-130m | [Link](https://huggingface.co/sbintuitions/modernbert-ja-130m) | mit | fill-mask |
+| NousResearch/DeepHermes-3-Llama-3-8B-Preview | NousResearch/DeepHermes-3-Llama-3-8B-Preview | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview) | llama3 | text-generation |
+| agents-course/notebooks | agents-course/notebooks | [Link](https://huggingface.co/agents-course/notebooks) | apache-2.0 | None |
+| microsoft/OmniParser-v2.0 | microsoft/OmniParser-v2.0 | [Link](https://huggingface.co/microsoft/OmniParser-v2.0) | mit | image-text-to-text |
+| ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q4 | ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q4 | [Link](https://huggingface.co/ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q4) | apache-2.0 | reinforcement-learning |
+| zed-industries/zeta | zed-industries/zeta | [Link](https://huggingface.co/zed-industries/zeta) | apache-2.0 | None |
+| NousResearch/DeepHermes-3-Llama-3-8B-Preview-GGUF | NousResearch/DeepHermes-3-Llama-3-8B-Preview-GGUF | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview-GGUF) | llama3 | None |
+| UNIVA-Bllossom/DeepSeek-llama3.3-Bllossom-70B | UNIVA-Bllossom/DeepSeek-llama3.3-Bllossom-70B | [Link](https://huggingface.co/UNIVA-Bllossom/DeepSeek-llama3.3-Bllossom-70B) | mit | text-generation |
+| allenai/OLMoE-1B-7B-0125-Instruct | allenai/OLMoE-1B-7B-0125-Instruct | [Link](https://huggingface.co/allenai/OLMoE-1B-7B-0125-Instruct) | apache-2.0 | text-generation |
+| open-r1/OpenR1-Qwen-7B | open-r1/OpenR1-Qwen-7B | [Link](https://huggingface.co/open-r1/OpenR1-Qwen-7B) | apache-2.0 | text-generation |
+| bartowski/agentica-org_DeepScaleR-1.5B-Preview-GGUF | bartowski/agentica-org_DeepScaleR-1.5B-Preview-GGUF | [Link](https://huggingface.co/bartowski/agentica-org_DeepScaleR-1.5B-Preview-GGUF) | mit | text-generation |
+| TheDrummer/Cydonia-24B-v2 | TheDrummer/Cydonia-24B-v2 | [Link](https://huggingface.co/TheDrummer/Cydonia-24B-v2) | other | None |
+| Vikhrmodels/QVikhr-2.5-1.5B-Instruct-r | Vikhrmodels/QVikhr-2.5-1.5B-Instruct-r | [Link](https://huggingface.co/Vikhrmodels/QVikhr-2.5-1.5B-Instruct-r) | apache-2.0 | text-generation |
+| Qwen/Qwen2.5-7B-Instruct | Qwen/Qwen2.5-7B-Instruct | [Link](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct) | apache-2.0 | text-generation |
+| ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q8 | ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q8 | [Link](https://huggingface.co/ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q8) | apache-2.0 | reinforcement-learning |
+| meta-llama/Llama-2-7b-chat-hf | meta-llama/Llama-2-7b-chat-hf | [Link](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf) | llama2 | text-generation |
+| city96/FLUX.1-dev-gguf | city96/FLUX.1-dev-gguf | [Link](https://huggingface.co/city96/FLUX.1-dev-gguf) | other | text-to-image |
+| OpenGVLab/InternVideo2_5_Chat_8B | None | [Link](https://huggingface.co/OpenGVLab/InternVideo2_5_Chat_8B) | apache-2.0 | video-text-to-text |
