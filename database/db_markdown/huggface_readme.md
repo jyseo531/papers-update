@@ -230,6 +230,6 @@ Updated on 2025-02-17
 | city96/FLUX.1-dev-gguf | city96/FLUX.1-dev-gguf | [Link](https://huggingface.co/city96/FLUX.1-dev-gguf) | other | text-to-image |
 | OpenGVLab/InternVideo2_5_Chat_8B | OpenGVLab/InternVideo2_5_Chat_8B | [Link](https://huggingface.co/OpenGVLab/InternVideo2_5_Chat_8B) | apache-2.0 | video-text-to-text |
 | smirki/UIGEN-T1-Qwen-7b | smirki/UIGEN-T1-Qwen-7b | [Link](https://huggingface.co/smirki/UIGEN-T1-Qwen-7b) | apache-2.0 | text-generation |
-| stepfun-ai/stepvideo-t2v | None | [Link](https://huggingface.co/stepfun-ai/stepvideo-t2v) | mit | None |
-| stepfun-ai/stepvideo-t2v-turbo | None | [Link](https://huggingface.co/stepfun-ai/stepvideo-t2v-turbo) | mit | None |
-| microsoft/OmniParser | http://arxiv.org/abs/2408.00203v1 | [Link](https://huggingface.co/microsoft/OmniParser) | mit | image-text-to-text |
+| stepfun-ai/stepvideo-t2v | stepfun-ai/stepvideo-t2v | [Link](https://huggingface.co/stepfun-ai/stepvideo-t2v) | mit | None |
+| stepfun-ai/stepvideo-t2v-turbo | stepfun-ai/stepvideo-t2v-turbo | [Link](https://huggingface.co/stepfun-ai/stepvideo-t2v-turbo) | mit | None |
+| microsoft/OmniParser | microsoft/OmniParser | [Link](https://huggingface.co/microsoft/OmniParser) | mit | image-text-to-text |
