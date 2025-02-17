@@ -71,9 +71,7 @@ def save_to_db(conn, data):
                 first_author = authors.split(",")[0]
                 pdf_url = fields[4].split("(")[-1].strip(")")
                 updated_date = fields[5].strip("**")  # updated_date 추가
-                code_url = fields[6].split("(")[-1].strip(")") if "link" in fields[5] else None
-
-                
+                code_url = fields[6].split("(")[-1].strip(")") if "link" in fields[6] else None
 
                 # Insert into database
                 cursor.execute("""
@@ -82,8 +80,6 @@ def save_to_db(conn, data):
                     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 """, (paper_id, topic, subtopic, publish_date, title, authors, first_author, pdf_url, updated_date, code_url))
     conn.commit()
-
-
 
 
 def get_authors(authors, first_author=False):
