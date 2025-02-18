@@ -233,7 +233,10 @@ Updated on 2025-02-18
 | stepfun-ai/stepvideo-t2v | stepfun-ai/stepvideo-t2v | [Link](https://huggingface.co/stepfun-ai/stepvideo-t2v) | mit | None |
 | stepfun-ai/stepvideo-t2v-turbo | stepfun-ai/stepvideo-t2v-turbo | [Link](https://huggingface.co/stepfun-ai/stepvideo-t2v-turbo) | mit | None |
 | microsoft/OmniParser | microsoft/OmniParser | [Link](https://huggingface.co/microsoft/OmniParser) | mit | image-text-to-text |
-| stepfun-ai/Step-Audio-Chat | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/stepfun-ai/Step-Audio-Chat) | apache-2.0 | audio-text-to-text |
-| stepfun-ai/Step-Audio-TTS-3B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/stepfun-ai/Step-Audio-TTS-3B) | apache-2.0 | text-to-speech |
-| aoxo/flux.1dev-abliteratedv2 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/aoxo/flux.1dev-abliteratedv2) | apache-2.0 | text-to-image |
-| Skywork/SkyReels-V1-Hunyuan-I2V | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-I2V) | Unknown license | image-to-video |
+| stepfun-ai/Step-Audio-Chat | stepfun-ai/Step-Audio-Chat | [Link](https://huggingface.co/stepfun-ai/Step-Audio-Chat) | apache-2.0 | audio-text-to-text |
+| stepfun-ai/Step-Audio-TTS-3B | stepfun-ai/Step-Audio-TTS-3B | [Link](https://huggingface.co/stepfun-ai/Step-Audio-TTS-3B) | apache-2.0 | text-to-speech |
+| aoxo/flux.1dev-abliteratedv2 | aoxo/flux.1dev-abliteratedv2 | [Link](https://huggingface.co/aoxo/flux.1dev-abliteratedv2) | apache-2.0 | text-to-image |
+| Skywork/SkyReels-V1-Hunyuan-I2V | Skywork/SkyReels-V1-Hunyuan-I2V | [Link](https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-I2V) | Unknown license | image-to-video |
+| yentinglin/Mistral-Small-24B-Instruct-2501-reasoning | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/yentinglin/Mistral-Small-24B-Instruct-2501-reasoning) | apache-2.0 | text-generation |
+| hashu786/HYVReward | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/hashu786/HYVReward) | apache-2.0 | text-to-image |
+| UNIVA-Bllossom/DeepSeek-llama3.1-Bllossom-8B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/UNIVA-Bllossom/DeepSeek-llama3.1-Bllossom-8B) | mit | text-generation |
