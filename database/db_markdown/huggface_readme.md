@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-02-17
+Updated on 2025-02-18
 
 > Generated from the Hugging Face database.
 
@@ -233,3 +233,7 @@ Updated on 2025-02-17
 | stepfun-ai/stepvideo-t2v | stepfun-ai/stepvideo-t2v | [Link](https://huggingface.co/stepfun-ai/stepvideo-t2v) | mit | None |
 | stepfun-ai/stepvideo-t2v-turbo | stepfun-ai/stepvideo-t2v-turbo | [Link](https://huggingface.co/stepfun-ai/stepvideo-t2v-turbo) | mit | None |
 | microsoft/OmniParser | microsoft/OmniParser | [Link](https://huggingface.co/microsoft/OmniParser) | mit | image-text-to-text |
+| stepfun-ai/Step-Audio-Chat | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/stepfun-ai/Step-Audio-Chat) | apache-2.0 | audio-text-to-text |
+| stepfun-ai/Step-Audio-TTS-3B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/stepfun-ai/Step-Audio-TTS-3B) | apache-2.0 | text-to-speech |
+| aoxo/flux.1dev-abliteratedv2 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/aoxo/flux.1dev-abliteratedv2) | apache-2.0 | text-to-image |
+| Skywork/SkyReels-V1-Hunyuan-I2V | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-I2V) | Unknown license | image-to-video |
