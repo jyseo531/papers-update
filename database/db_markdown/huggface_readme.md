@@ -230,7 +230,7 @@ Updated on 2025-02-19
 | city96/FLUX.1-dev-gguf | city96/FLUX.1-dev-gguf | [Link](https://huggingface.co/city96/FLUX.1-dev-gguf) | other | text-to-image |
 | OpenGVLab/InternVideo2_5_Chat_8B | OpenGVLab/InternVideo2_5_Chat_8B | [Link](https://huggingface.co/OpenGVLab/InternVideo2_5_Chat_8B) | apache-2.0 | video-text-to-text |
 | smirki/UIGEN-T1-Qwen-7b | smirki/UIGEN-T1-Qwen-7b | [Link](https://huggingface.co/smirki/UIGEN-T1-Qwen-7b) | apache-2.0 | text-generation |
-| stepfun-ai/stepvideo-t2v | stepfun-ai/stepvideo-t2v | [Link](https://huggingface.co/stepfun-ai/stepvideo-t2v) | mit | None |
+| stepfun-ai/stepvideo-t2v | stepfun-ai/stepvideo-t2v | [Link](https://huggingface.co/stepfun-ai/stepvideo-t2v) | mit | text-to-video |
 | stepfun-ai/stepvideo-t2v-turbo | stepfun-ai/stepvideo-t2v-turbo | [Link](https://huggingface.co/stepfun-ai/stepvideo-t2v-turbo) | mit | None |
 | microsoft/OmniParser | microsoft/OmniParser | [Link](https://huggingface.co/microsoft/OmniParser) | mit | image-text-to-text |
 | stepfun-ai/Step-Audio-Chat | stepfun-ai/Step-Audio-Chat | [Link](https://huggingface.co/stepfun-ai/Step-Audio-Chat) | apache-2.0 | audio-text-to-text |
@@ -240,9 +240,11 @@ Updated on 2025-02-19
 | yentinglin/Mistral-Small-24B-Instruct-2501-reasoning | yentinglin/Mistral-Small-24B-Instruct-2501-reasoning | [Link](https://huggingface.co/yentinglin/Mistral-Small-24B-Instruct-2501-reasoning) | apache-2.0 | text-generation |
 | hashu786/HYVReward | hashu786/HYVReward | [Link](https://huggingface.co/hashu786/HYVReward) | apache-2.0 | text-to-image |
 | UNIVA-Bllossom/DeepSeek-llama3.1-Bllossom-8B | UNIVA-Bllossom/DeepSeek-llama3.1-Bllossom-8B | [Link](https://huggingface.co/UNIVA-Bllossom/DeepSeek-llama3.1-Bllossom-8B) | mit | text-generation |
-| perplexity-ai/r1-1776 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/perplexity-ai/r1-1776) | mit | None |
-| NexaAIDev/DeepSeek-R1-Distill-Llama-8B-NexaQuant | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/NexaAIDev/DeepSeek-R1-Distill-Llama-8B-NexaQuant) | llama3.1 | None |
-| NexaAIDev/DeepSeek-R1-Distill-Qwen-1.5B-NexaQuant | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/NexaAIDev/DeepSeek-R1-Distill-Qwen-1.5B-NexaQuant) | apache-2.0 | None |
-| Skywork/SkyReels-V1-Hunyuan-T2V | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-T2V) | apache-2.0 | text-to-video |
-| Kijai/SkyReels-V1-Hunyuan_comfy | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Kijai/SkyReels-V1-Hunyuan_comfy) | Unknown license | None |
-| SentientAGI/Dobby-Unhinged-Llama-3.3-70B | http://arxiv.org/abs/2502.07760v1 | [Link](https://huggingface.co/SentientAGI/Dobby-Unhinged-Llama-3.3-70B) | llama3.3 | text-generation |
+| perplexity-ai/r1-1776 | perplexity-ai/r1-1776 | [Link](https://huggingface.co/perplexity-ai/r1-1776) | mit | None |
+| NexaAIDev/DeepSeek-R1-Distill-Llama-8B-NexaQuant | NexaAIDev/DeepSeek-R1-Distill-Llama-8B-NexaQuant | [Link](https://huggingface.co/NexaAIDev/DeepSeek-R1-Distill-Llama-8B-NexaQuant) | llama3.1 | None |
+| NexaAIDev/DeepSeek-R1-Distill-Qwen-1.5B-NexaQuant | NexaAIDev/DeepSeek-R1-Distill-Qwen-1.5B-NexaQuant | [Link](https://huggingface.co/NexaAIDev/DeepSeek-R1-Distill-Qwen-1.5B-NexaQuant) | apache-2.0 | None |
+| Skywork/SkyReels-V1-Hunyuan-T2V | Skywork/SkyReels-V1-Hunyuan-T2V | [Link](https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-T2V) | apache-2.0 | text-to-video |
+| Kijai/SkyReels-V1-Hunyuan_comfy | Kijai/SkyReels-V1-Hunyuan_comfy | [Link](https://huggingface.co/Kijai/SkyReels-V1-Hunyuan_comfy) | Unknown license | None |
+| SentientAGI/Dobby-Unhinged-Llama-3.3-70B | SentientAGI/Dobby-Unhinged-Llama-3.3-70B | [Link](https://huggingface.co/SentientAGI/Dobby-Unhinged-Llama-3.3-70B) | llama3.3 | text-generation |
+| aoxo/flux.1dev-abliterated | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/aoxo/flux.1dev-abliterated) | apache-2.0 | text-to-image |
+| MediaTek-Research/Llama-Breeze2-8B-Instruct | None | [Link](https://huggingface.co/MediaTek-Research/Llama-Breeze2-8B-Instruct) | llama3.2 | None |
