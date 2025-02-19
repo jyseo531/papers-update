@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-02-18
+Updated on 2025-02-19
 
 > Generated from the Hugging Face database.
 
@@ -240,3 +240,9 @@ Updated on 2025-02-18
 | yentinglin/Mistral-Small-24B-Instruct-2501-reasoning | yentinglin/Mistral-Small-24B-Instruct-2501-reasoning | [Link](https://huggingface.co/yentinglin/Mistral-Small-24B-Instruct-2501-reasoning) | apache-2.0 | text-generation |
 | hashu786/HYVReward | hashu786/HYVReward | [Link](https://huggingface.co/hashu786/HYVReward) | apache-2.0 | text-to-image |
 | UNIVA-Bllossom/DeepSeek-llama3.1-Bllossom-8B | UNIVA-Bllossom/DeepSeek-llama3.1-Bllossom-8B | [Link](https://huggingface.co/UNIVA-Bllossom/DeepSeek-llama3.1-Bllossom-8B) | mit | text-generation |
+| perplexity-ai/r1-1776 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/perplexity-ai/r1-1776) | mit | None |
+| NexaAIDev/DeepSeek-R1-Distill-Llama-8B-NexaQuant | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/NexaAIDev/DeepSeek-R1-Distill-Llama-8B-NexaQuant) | llama3.1 | None |
+| NexaAIDev/DeepSeek-R1-Distill-Qwen-1.5B-NexaQuant | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/NexaAIDev/DeepSeek-R1-Distill-Qwen-1.5B-NexaQuant) | apache-2.0 | None |
+| Skywork/SkyReels-V1-Hunyuan-T2V | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-T2V) | apache-2.0 | text-to-video |
+| Kijai/SkyReels-V1-Hunyuan_comfy | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Kijai/SkyReels-V1-Hunyuan_comfy) | Unknown license | None |
+| SentientAGI/Dobby-Unhinged-Llama-3.3-70B | http://arxiv.org/abs/2502.07760v1 | [Link](https://huggingface.co/SentientAGI/Dobby-Unhinged-Llama-3.3-70B) | llama3.3 | text-generation |
