@@ -194,7 +194,7 @@ Updated on 2025-02-19
 | tomg-group-umd/huginn-0125 | tomg-group-umd/huginn-0125 | [Link](https://huggingface.co/tomg-group-umd/huginn-0125) | apache-2.0 | text-generation |
 | GAIR/LIMO | GAIR/LIMO | [Link](https://huggingface.co/GAIR/LIMO) | Unknown license | None |
 | microsoft/Florence-2-large | microsoft/Florence-2-large | [Link](https://huggingface.co/microsoft/Florence-2-large) | mit | image-text-to-text |
-| agentica-org/DeepScaleR-1.5B-Preview | agentica-org/DeepScaleR-1.5B-Preview | [Link](https://huggingface.co/agentica-org/DeepScaleR-1.5B-Preview) | mit | None |
+| agentica-org/DeepScaleR-1.5B-Preview | agentica-org/DeepScaleR-1.5B-Preview | [Link](https://huggingface.co/agentica-org/DeepScaleR-1.5B-Preview) | mit | text-generation |
 | AIDC-AI/Ovis2-1B | AIDC-AI/Ovis2-1B | [Link](https://huggingface.co/AIDC-AI/Ovis2-1B) | apache-2.0 | image-text-to-text |
 | AIDC-AI/Ovis2-2B | AIDC-AI/Ovis2-2B | [Link](https://huggingface.co/AIDC-AI/Ovis2-2B) | apache-2.0 | image-text-to-text |
 | AIDC-AI/Ovis2-34B | AIDC-AI/Ovis2-34B | [Link](https://huggingface.co/AIDC-AI/Ovis2-34B) | apache-2.0 | image-text-to-text |
@@ -246,5 +246,7 @@ Updated on 2025-02-19
 | Skywork/SkyReels-V1-Hunyuan-T2V | Skywork/SkyReels-V1-Hunyuan-T2V | [Link](https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-T2V) | apache-2.0 | text-to-video |
 | Kijai/SkyReels-V1-Hunyuan_comfy | Kijai/SkyReels-V1-Hunyuan_comfy | [Link](https://huggingface.co/Kijai/SkyReels-V1-Hunyuan_comfy) | Unknown license | None |
 | SentientAGI/Dobby-Unhinged-Llama-3.3-70B | SentientAGI/Dobby-Unhinged-Llama-3.3-70B | [Link](https://huggingface.co/SentientAGI/Dobby-Unhinged-Llama-3.3-70B) | llama3.3 | text-generation |
-| aoxo/flux.1dev-abliterated | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/aoxo/flux.1dev-abliterated) | apache-2.0 | text-to-image |
+| aoxo/flux.1dev-abliterated | aoxo/flux.1dev-abliterated | [Link](https://huggingface.co/aoxo/flux.1dev-abliterated) | apache-2.0 | text-to-image |
 | MediaTek-Research/Llama-Breeze2-8B-Instruct | None | [Link](https://huggingface.co/MediaTek-Research/Llama-Breeze2-8B-Instruct) | llama3.2 | None |
+| MediaTek-Research/BreezyVoice | None | [Link](https://huggingface.co/MediaTek-Research/BreezyVoice) | apache-2.0 | None |
+| ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-F16 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-F16) | apache-2.0 | reinforcement-learning |
