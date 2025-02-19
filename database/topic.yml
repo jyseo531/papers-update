@@ -19,16 +19,6 @@
   "Point Cloud Matching": '"Point Cloud Matching"'
   "Point Cloud Registration": '"Point Cloud Registration"'
 
-
-"Few-shot Learning":
-  "Few-shot Learning": '"Few-shot Learning"OR"Few-shot"OR"Meta-Learning"OR"One-shot Learning"'
-  "One-shot Learning": '"One-shot Learning"'
-  "Meta Learning": '"Meta Learning"OR"Meta-Learning"'
-
-"Unsupervised Learning":
-  "Unsupervised Learning": '"Unsupervised Learning"'
-  "GAN": '"GAN"OR"Generative Adversarial Network"'
-
 "Transfer Learning":
   "Transfer Learning": '"Transfer Learning"OR"Transfer Machine Learning"'
 
@@ -57,12 +47,7 @@
   "Image Caption": '"Image Caption"OR"Video Caption"'
   "Text and Image Generation": '"Text and Image Generation"OR"Text-Image Generation"OR"Image and Text Generation"OR"Image-Text Generation"OR"Text-to-Image"OR"Image-to-Text"OR"Language-Image"OR"Image-Language"'
   "Vision-Language": '"Vision-Language"OR"Language-Vision"OR"Visual-Language"OR"Language-Visual"OR"Visual-Semantic"OR"Semantic-Visual"OR"Visual-Semantic"OR"Semantic-Visual"'
-  "Alignment": '"Alignment"OR"Cross-Modal"OR"Cross Modal"OR"Cross-Modal Alignment"OR"Cross Modal Alignment"OR"Cross-Modal Retrieval"OR"Cross Modal Retrieval"OR"Cross-Modal Generation"OR"Cross Modal Generation"OR"Cross-Modal Translation"OR"Cross Modal Translation"OR"Cross-Modal Fusion"OR"Cross Modal Fusion"OR"Cross-Modal Interaction"OR"Cross Modal Interaction"OR"Cross-Modal Reasoning"OR"Cross Modal Reasoning"OR"Cross-Modal Learning"OR"Cross Modal Learning"OR"Cross-Modal Adaptation"OR"Cross Modal Adaptation"OR"Cross-Modal Representation"OR"Cross Modal Representation"OR"Cross-Modal Understanding"OR"Cross Modal Understanding"OR"Cross-Modal Perception"OR"Cross Modal Perception"OR"Cross-Modal Attention"OR"Cross Modal Attention"OR"Cross-Modal Communication"OR"Cross Modal Communication"OR"Cross-Modal Integration"OR"Cross Modal Integration"OR"Cross-Modal Inference"OR"Cross Modal Inference"OR"Cross-Modal Prediction"OR"Cross Modal Prediction"OR"Cross-Modal Reasoning"OR"Cross Modal Reasoning"OR"Cross-Modal Interaction"OR"Cross Modal Interaction"OR"Cross-Modal Learning"OR"Cross Modal Learning"OR"Cross-Modal Adaptation"OR"Cross Modal Adaptation"OR"Cross-Modal Representation"OR"Cross Modal Representation"OR"Cross-Modal Understanding"OR"Cross Modal Understanding"OR"Cross-Modal Perception"OR"Cross Modal Perception"OR"Cross-Modal Attention"OR"Cross Modal Attention"OR"Cross-Modal Communication"OR"Cross Modal Communication"OR"Cross-Modal Integration"OR"Cross Modal Integration"OR"Cross-Modal Inference"OR"Cross Modal Inference"OR"Cross-Modal Prediction"OR"Cross Modal Prediction"OR"Cross-Modal Reasoning"OR"Cross Modal Reasoning"OR"Cross-Modal Interaction"OR"Cross Modal Interaction"OR"Cross-Modal Learning"OR"Cross Modal Learning"OR"Cross-Modal Adaptation"OR"Cross Modal Adaptation"OR"Cross-Modal Representation"OR"Cross Modal Representation"OR"Cross-Modal Understanding"OR"Cross Modal Understanding"OR"Cross-Modal Perception"OR"Cross modal"'
-
-"Medical Application":
-  "Medical Application": '"Medical Application"OR"Medical Imaging"OR"Medical Image Analysis"OR"Medical Image Processing"'
-  "Medical Image Analysis": '"Medical Image Analysis"OR"Medical Image Processing"'
-  "Medical Multi-modal": '"Medical Multi-modal"OR"Medical Multimodal"OR"Medical Multi modal"'
+ 
 
 "Large-Language Model":
   "Large-Language Model": '"Large-Language Model"OR"LLM"OR"Large Language Model"OR"Pre-trained Language Model"OR"PLM"OR"Pretrained Language Model"OR"Language Model"OR"LM"OR"Transformer-based Language Model"OR"TB-LM"OR"Transformer based Language Model"'

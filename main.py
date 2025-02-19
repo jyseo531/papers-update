@@ -511,6 +511,25 @@ class Scaffold:
                 )
                 logger.info(f"{file} is copied to {SERVER_DIR_HISTORY}.")
 
+
+        # ---------------------------------------------
+        # Adding Arxiv DB w/ Star & Framework 
+        arxiv_recommend_readme_path = "./arxiv_star_test_alltopic.md"
+        arxiv_recommend_path = os.path.join(SERVER_PATH_DOCS, "🚀arxiv_special", "Recommend_system.md")
+
+        # Ensure the target directory exists
+        recommend_dir = os.path.dirname(arxiv_recommend_path)
+        if not os.path.exists(recommend_dir):
+            os.makedirs(recommend_dir)
+            logger.info(f"Directory {recommend_dir} created.")
+
+        # Copy the conference_target_path markdown file
+        shutil.copyfile(arxiv_recommend_readme_path, arxiv_recommend_path)
+
+        logger.info(f"🚀Arxiv Recommend file copied to {arxiv_recommend_path}.")
+
+        # ------------------------------------------------
+
         # Load repository URLs from configuration
         repo_list = ToolBox.get_repository_list(config_path="database/awesome_repos.yml")
 
