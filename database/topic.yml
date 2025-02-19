@@ -1,53 +1,53 @@
-"Computer Vision":
-  "Image Classification": '"Image Classification"'
-  "Keypoint Detection": '"Keypoint Detection"OR"Feature Descriptor"'
-  "Image Matching": '"Image Matching"'
-  "Semantic Segmentation": '"Semantic Segmentation"'
-  "Instance Segmentation": '"Instance Segmentation"'
-  "Object Detection": '"Object Detection"OR"Object Detector"'
-  "Object Tracking": '"Object Tracking"OR"Visual Object Tracking"'
-  "Multi-Object Tracking": '"Multi-Object Tracking"OR"Multiple Ojbect Tracking"OR"MOT"OR"Multiple Visual Object Tracking"'
-  "3D Reconstruction": '"3D Reconstruction"OR"3D-Reconstruction"'
+arxiv-daily:
+  "Computer Vision":
+    "Image Classification": '"Image Classification"'
+    "Keypoint Detection": '"Keypoint Detection"OR"Feature Descriptor"'
+    "Image Matching": '"Image Matching"'
+    "Semantic Segmentation": '"Semantic Segmentation"'
+    "Instance Segmentation": '"Instance Segmentation"'
+    "Object Detection": '"Object Detection"OR"Object Detector"'
+    "Object Tracking": '"Object Tracking"OR"Visual Object Tracking"'
+    "Multi-Object Tracking": '"Multi-Object Tracking"OR"Multiple Ojbect Tracking"OR"MOT"OR"Multiple Visual Object Tracking"'
+    "3D Reconstruction": '"3D Reconstruction"OR"3D-Reconstruction"'
 
-"3D Vision":
-  "3D Reconstruction": '"3D Reconstruction"OR"3D-Reconstruction"OR"Single-View 3D Reconstruction"OR"Multi-View 3D Reconstruction"'
-  "3D Object Detection": '"3D Object Detection"OR"3D Object Detector"OR"Point Cloud Object Detection"'
-  "3D Object Tracking": '"3D Object Tracking"OR"Point Cloud Object Tracking"OR"3D Multi-Object Tracking"'
-  "Point Cloud": '"Point Cloud"'
-  "Point Cloud Completion": '"Point Cloud Completion"'
-  "Point Cloud Segmentation": '"Point Cloud Segmentation"'
-  "Point Cloud Matching": '"Point Cloud Matching"'
-  "Point Cloud Registration": '"Point Cloud Registration"'
+  "3D Vision":
+    "3D Reconstruction": '"3D Reconstruction"OR"3D-Reconstruction"OR"Single-View 3D Reconstruction"OR"Multi-View 3D Reconstruction"'
+    "3D Object Detection": '"3D Object Detection"OR"3D Object Detector"OR"Point Cloud Object Detection"'
+    "3D Object Tracking": '"3D Object Tracking"OR"Point Cloud Object Tracking"OR"3D Multi-Object Tracking"'
+    "Point Cloud": '"Point Cloud"'
+    "Point Cloud Completion": '"Point Cloud Completion"'
+    "Point Cloud Segmentation": '"Point Cloud Segmentation"'
+    "Point Cloud Matching": '"Point Cloud Matching"'
+    "Point Cloud Registration": '"Point Cloud Registration"'
 
-"Transfer Learning":
-  "Transfer Learning": '"Transfer Learning"OR"Transfer Machine Learning"'
+  "Transfer Learning":
+    "Transfer Learning": '"Transfer Learning"OR"Transfer Machine Learning"'
 
-"Contrastive Learning":
-  "Contrastive Learning": '"Contrastive Learning"'
+  "Contrastive Learning":
+    "Contrastive Learning": '"Contrastive Learning"'
 
-"Reinforcement Learning":
-  "Reinforcement Learning": '"Reinforcement Learning"OR"RL"'
+  "Reinforcement Learning":
+    "Reinforcement Learning": '"Reinforcement Learning"OR"RL"'
 
-"Transformer":
-  "Transformer": '"Transformer"'
-  "Vision Transformer": '"Vision Transformer"OR"Computer Vision Transformer"'
+  "Transformer":
+    "Transformer": '"Transformer"'
+    "Vision Transformer": '"Vision Transformer"OR"Computer Vision Transformer"'
 
-"Graph Neural Network":
-  "Graph Neural Network": '"Graph Neural Network"'
+  "Graph Neural Network":
+    "Graph Neural Network": '"Graph Neural Network"'
 
-"Robotics":
-  "Robotics": '"Robotics"'
-  "SLAM": '"SLAM"'
-  "SFM": '"SFM"OR"Structure from Motion"'
-  "Visual Localization": '"Camera Localization"OR"Visual Localization"OR"Camera Re-localisation"'
+  "Robotics":
+    "Robotics": '"Robotics"'
+    "SLAM": '"SLAM"'
+    "SFM": '"SFM"OR"Structure from Motion"'
+    "Visual Localization": '"Camera Localization"OR"Visual Localization"OR"Camera Re-localisation"'
 
-"Multi-modal":
-  "Multi-modal": '"Multi-modal"OR"Multimodal"OR"Multi modal"'
-  "VQA": '"VQA"OR"Visual Question Answering"OR"Visual Reasoning"OR"Knowledge-based  Graph"OR"Causal Inference"'
-  "Image Caption": '"Image Caption"OR"Video Caption"'
-  "Text and Image Generation": '"Text and Image Generation"OR"Text-Image Generation"OR"Image and Text Generation"OR"Image-Text Generation"OR"Text-to-Image"OR"Image-to-Text"OR"Language-Image"OR"Image-Language"'
-  "Vision-Language": '"Vision-Language"OR"Language-Vision"OR"Visual-Language"OR"Language-Visual"OR"Visual-Semantic"OR"Semantic-Visual"OR"Visual-Semantic"OR"Semantic-Visual"'
- 
+  "Multi-modal":
+    "Multi-modal": '"Multi-modal"OR"Multimodal"OR"Multi modal"'
+    "VQA": '"VQA"OR"Visual Question Answering"OR"Visual Reasoning"OR"Knowledge-based Graph"OR"Causal Inference"'
+    "Image Caption": '"Image Caption"OR"Video Caption"'
+    "Text and Image Generation": '"Text and Image Generation"OR"Text-Image Generation"OR"Image and Text Generation"OR"Image-Text Generation"OR"Text-to-Image"OR"Image-to-Text"OR"Language-Image"OR"Image-Language"'
+    "Vision-Language": '"Vision-Language"OR"Language-Vision"OR"Visual-Language"OR"Language-Visual"OR"Visual-Semantic"OR"Semantic-Visual"'
 
-"Large-Language Model":
-  "Large-Language Model": '"Large-Language Model"OR"LLM"OR"Large Language Model"OR"Pre-trained Language Model"OR"PLM"OR"Pretrained Language Model"OR"Language Model"OR"LM"OR"Transformer-based Language Model"OR"TB-LM"OR"Transformer based Language Model"'
+  "Large Language Model":
+    "Large-Language Model": '"Large-Language Model"OR"LLM"OR"Large Language Model"OR"Pre-trained Language Model"OR"PLM"OR"Pretrained Language Model"OR"Language Model"OR"LM"OR"Transformer-based Language Model"OR"TB-LM"OR"Transformer based Language Model"'

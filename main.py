@@ -514,7 +514,7 @@ class Scaffold:
 
         # ---------------------------------------------
         # Adding Arxiv DB w/ Star & Framework 
-        arxiv_recommend_readme_path = "./arxiv_star_test_alltopic.md"
+        arxiv_recommend_readme_path = "./arxiv_star_test.md"
         arxiv_recommend_path = os.path.join(SERVER_PATH_DOCS, "🚀arxiv_special", "Recommend_system.md")
 
         # Ensure the target directory exists
