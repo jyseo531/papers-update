@@ -135,121 +135,225 @@ def update_json_file(filename, data):
     with open(filename, "w") as f:
         json.dump(json_data, f)
 
+import os
+import json
+import shutil
+import datetime
 
 def json_to_md(filename, to_web=False):
     """
     @param filename: str
+    @param to_web: bool
     @return None
     """
 
-    DateNow = datetime.date.today()
-    DateNow = str(DateNow)
-    DateNow = DateNow.replace('-', '.')
+    DateNow = datetime.date.today().strftime("%Y.%m.%d")
 
-    with open(filename, "r") as f:
+    # arxiv-daily 상위 폴더 고려하여 경로 설정
+    arxiv_daily_path = "arxiv-daily"
+    os.makedirs(arxiv_daily_path, exist_ok=True)
+
+    with open(filename, "r", encoding="utf-8") as f:
         content = f.read()
-        if not content:
-            data = {}
-        else:
-            data = json.loads(content)
+        data = json.loads(content) if content else {}
 
-    if to_web == False:
-        md_filename = "README.md"
-        # clean README.md if daily already exist else create it
-        with open(md_filename, "w+") as f:
+    if not to_web:
+        md_filename = os.path.join(arxiv_daily_path, "README.md")
+
+        # clean README.md if daily already exists else create it
+        with open(md_filename, "w+", encoding="utf-8") as f:
             pass
 
         # write data into README.md
-        with open(md_filename, "a+") as f:
+        with open(md_filename, "a+", encoding="utf-8") as f:
+            f.write(f"## Updated on {DateNow}\n\n")
+            f.write("> Welcome to contribute! Add your topics and keywords in `topic.yml`\n\n")
 
-            f.write("## Updated on " + DateNow + "\n\n")
-
-            f.write(
-                "> Welcome to contribute! Add your topics and keywords in `topic.yml`\n\n")
-
-            for topic in data.keys():
-                f.write("## " + topic + "\n\n")
-                for subtopic in data[topic].keys():
-                    day_content = data[topic][subtopic]
-                    if not day_content:
+            for topic, subtopics in data.items():
+                f.write(f"## {topic}\n\n")
+                for subtopic, papers in subtopics.items():
+                    if not papers:
                         continue
-                    # the head of each part
-                    f.write(f"### {subtopic}\n\n")
 
-                    f.write("|Publish Date|Title|Authors|PDF|Code|\n" +
-                            "|---|---|---|---|---|\n")
+                    f.write(f"### {subtopic}\n\n")
+                    f.write("| Publish Date | Title | Authors | PDF | Code |\n")
+                    f.write("|---|---|---|---|---|\n")
 
                     # sort papers by date
-                    day_content = sort_papers(day_content)
+                    sorted_papers = sort_papers(papers)
 
-                    for _, v in day_content.items():
+                    for _, v in sorted_papers.items():
                         if v is not None:
                             f.write(v)
 
-                    f.write(f"\n")
+                    f.write("\n")
+
     else:
-        if os.path.exists('docs'):
-            shutil.rmtree('docs')
-        if not os.path.isdir('docs'):
-            os.mkdir('docs')
+        docs_path = os.path.join(arxiv_daily_path, "docs")
+        if os.path.exists(docs_path):
+            shutil.rmtree(docs_path)
+        os.makedirs(docs_path, exist_ok=True)
 
-        shutil.copyfile('README.md', os.path.join('docs', 'index.md'))
+        shutil.copyfile(os.path.join(arxiv_daily_path, "README.md"), os.path.join(docs_path, "index.md"))
 
-        for topic in data.keys():
-            os.makedirs(os.path.join('docs', topic), exist_ok=True)
-            md_indexname = os.path.join('docs', topic, "index.md")
-            with open(md_indexname, "w+") as f:
+        for topic, subtopics in data.items():
+            topic_path = os.path.join(docs_path, topic)
+            os.makedirs(topic_path, exist_ok=True)
+
+            md_indexname = os.path.join(topic_path, "index.md")
+            with open(md_indexname, "w+", encoding="utf-8") as f:
                 f.write(f"# {topic}\n\n")
 
-            # print(f'web {topic}')
+            for subtopic, papers in subtopics.items():
+                if not papers:
+                    continue
 
-            for subtopic in data[topic].keys():
-                md_filename = os.path.join('docs', topic, f"{subtopic}.md")
-                # print(f'web {subtopic}')
+                md_filename = os.path.join(topic_path, f"{subtopic}.md")
 
-                # clean README.md if daily already exist else create it
-                with open(md_filename, "w+") as f:
-                    pass
-
-                with open(md_filename, "a+") as f:
-                    day_content = data[topic][subtopic]
-                    if not day_content:
-                        continue
-                    # the head of each part
+                with open(md_filename, "w+", encoding="utf-8") as f:
                     f.write(f"# {subtopic}\n\n")
                     f.write("| Publish Date | Title | Authors | PDF | Code |\n")
-                    f.write(
-                        "|:---------|:-----------------------|:---------|:------|:------|\n")
+                    f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
 
-                    # sort papers by date
-                    day_content = sort_papers(day_content)
+                    sorted_papers = sort_papers(papers)
 
-                    for _, v in day_content.items():
+                    for _, v in sorted_papers.items():
                         if v is not None:
                             f.write(v)
 
-                    f.write(f"\n")
+                    f.write("\n")
 
-                with open(md_indexname, "a+") as f:
-                    day_content = data[topic][subtopic]
-                    if not day_content:
-                        continue
-                    # the head of each part
+                with open(md_indexname, "a+", encoding="utf-8") as f:
                     f.write(f"## {subtopic}\n\n")
                     f.write("| Publish Date | Title | Authors | PDF | Code |\n")
-                    f.write(
-                        "|:---------|:-----------------------|:---------|:------|:------|\n")
+                    f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
 
-                    # sort papers by date
-                    day_content = sort_papers(day_content)
-
-                    for _, v in day_content.items():
+                    for _, v in sorted_papers.items():
                         if v is not None:
                             f.write(v)
 
-                    f.write(f"\n")
+                    f.write("\n")
 
     print("finished")
+
+
+
+
+
+# def json_to_md(filename, to_web=False):
+#     """
+#     @param filename: str
+#     @return None
+#     """
+
+#     DateNow = datetime.date.today()
+#     DateNow = str(DateNow)
+#     DateNow = DateNow.replace('-', '.')
+
+#     with open(filename, "r") as f:
+#         content = f.read()
+#         if not content:
+#             data = {}
+#         else:
+#             data = json.loads(content)
+
+#     if to_web == False:
+#         md_filename = "README.md"
+#         # clean README.md if daily already exist else create it
+#         with open(md_filename, "w+") as f:
+#             pass
+
+#         # write data into README.md
+#         with open(md_filename, "a+") as f:
+
+#             f.write("## Updated on " + DateNow + "\n\n")
+
+#             f.write(
+#                 "> Welcome to contribute! Add your topics and keywords in `topic.yml`\n\n")
+
+#             for topic in data.keys():
+#                 f.write("## " + topic + "\n\n")
+#                 for subtopic in data[topic].keys():
+#                     day_content = data[topic][subtopic]
+#                     if not day_content:
+#                         continue
+#                     # the head of each part
+#                     f.write(f"### {subtopic}\n\n")
+
+#                     f.write("|Publish Date|Title|Authors|PDF|Code|\n" +
+#                             "|---|---|---|---|---|\n")
+
+#                     # sort papers by date
+#                     day_content = sort_papers(day_content)
+
+#                     for _, v in day_content.items():
+#                         if v is not None:
+#                             f.write(v)
+
+#                     f.write(f"\n")
+#     else:
+#         if os.path.exists('docs'):
+#             shutil.rmtree('docs')
+#         if not os.path.isdir('docs'):
+#             os.mkdir('docs')
+
+#         shutil.copyfile('README.md', os.path.join('docs', 'index.md'))
+
+#         for topic in data.keys():
+#             os.makedirs(os.path.join('docs', topic), exist_ok=True)
+#             md_indexname = os.path.join('docs', topic, "index.md")
+#             with open(md_indexname, "w+") as f:
+#                 f.write(f"# {topic}\n\n")
+
+#             # print(f'web {topic}')
+
+#             for subtopic in data[topic].keys():
+#                 md_filename = os.path.join('docs', topic, f"{subtopic}.md")
+#                 # print(f'web {subtopic}')
+
+#                 # clean README.md if daily already exist else create it
+#                 with open(md_filename, "w+") as f:
+#                     pass
+
+#                 with open(md_filename, "a+") as f:
+#                     day_content = data[topic][subtopic]
+#                     if not day_content:
+#                         continue
+#                     # the head of each part
+#                     f.write(f"# {subtopic}\n\n")
+#                     f.write("| Publish Date | Title | Authors | PDF | Code |\n")
+#                     f.write(
+#                         "|:---------|:-----------------------|:---------|:------|:------|\n")
+
+#                     # sort papers by date
+#                     day_content = sort_papers(day_content)
+
+#                     for _, v in day_content.items():
+#                         if v is not None:
+#                             f.write(v)
+
+#                     f.write(f"\n")
+
+#                 with open(md_indexname, "a+") as f:
+#                     day_content = data[topic][subtopic]
+#                     if not day_content:
+#                         continue
+#                     # the head of each part
+#                     f.write(f"## {subtopic}\n\n")
+#                     f.write("| Publish Date | Title | Authors | PDF | Code |\n")
+#                     f.write(
+#                         "|:---------|:-----------------------|:---------|:------|:------|\n")
+
+#                     # sort papers by date
+#                     day_content = sort_papers(day_content)
+
+#                     for _, v in day_content.items():
+#                         if v is not None:
+#                             f.write(v)
+
+#                     f.write(f"\n")
+
+#     print("finished")
 
 
 # if __name__ == "__main__":
