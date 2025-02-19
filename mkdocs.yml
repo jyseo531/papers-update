@@ -1,43 +1,16 @@
 site_name: arxiv-daily
-
-# theme:
-#   name: material  # 테마 이름
-#   palette:
-#     - scheme: default  # 기본 테마
-#       primary: indigo
-#       accent: pink
-#     - scheme: slate  # 다크 모드 테마
-#       primary: deep-purple
-#       accent: cyan
-
-
 theme:
-  name: material
-  custom_dir: overrides
-  features:
-    - navigation.indexes
-
-repo_url: https://github.com/chimdungs/arxiv-daily
-site_url: https://chimdungs.github.io/arxiv-daily
-
+  name: mkdocs  # 기본 MkDocs 테마 사용
+repo_url: https://github.com/jyseo531/arxiv-daily
+site_url: https://jyseo531.github.io/arxiv-daily
 markdown_extensions:
   - def_list
-  - pymdownx.tasklist:
-      custom_checkbox: true
   - attr_list
-  - md_in_html
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-
-
 plugins:
-  - search:
-      lang:
-        - en
-        - ja
-
-extra:
-  analytics:
-    provider: google
-    # property: UA-145083103-1
+  - search
+extra_javascript:
+  - https://code.jquery.com/jquery-3.6.0.min.js
+  - https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js
+  - js/custom.js
+extra_css:
+  - https://cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css
