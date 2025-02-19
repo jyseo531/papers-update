@@ -220,34 +220,69 @@ def db_to_md(conn, md_filename="README.md"):
     print(f"Markdown file '{md_filename}' generated successfully.")
 
 
+# if __name__ == "__main__":
+
+#     # Initialize database (Arxiv)
+#     conn = init_db('./database/arxiv.db')
+#     yaml_path = os.path.join("./database", "topic.yml")
+#     yaml_data = get_yaml_data(yaml_path)
+#     data_collector = {}
+
+#     for topic in yaml_data.keys():
+#         for subtopic, keyword in yaml_data[topic].items():
+#             print("Processing Keyword:", subtopic)
+#             try:
+#                 processor=None
+#                 data = get_daily_papers(subtopic, query=keyword, max_results=10, model=None, processor=processor)
+#             except Exception as e:
+#                 print(f"Error processing {subtopic}: {e}")
+#                 data = None
+#             if not topic in data_collector:
+#                 data_collector[topic] = {}
+#             if data:
+#                 data_collector[topic].update(data)
+
+
+#     # Save collected data to SQLite database
+#     save_to_db(conn, data_collector)
+    
+#     # Generate Markdown file from database
+#     db_to_md(conn, SERVER_PATH_README)
+#     conn.close()
+    
+#     print("Data saved to SQLite database and Markdown file generated.")
+
 if __name__ == "__main__":
 
     # Initialize database (Arxiv)
     conn = init_db('./database/arxiv.db')
     yaml_path = os.path.join("./database", "topic.yml")
     yaml_data = get_yaml_data(yaml_path)
-    data_collector = {}
+
+    # ✅ arxiv-daily를 최상위 폴더로 설정
+    data_collector = {"arxiv-daily": {}}
 
     for topic in yaml_data.keys():
+        if topic not in data_collector["arxiv-daily"]:
+            data_collector["arxiv-daily"][topic] = {}  # ✅ arxiv-daily 아래 topic 추가
+
         for subtopic, keyword in yaml_data[topic].items():
             print("Processing Keyword:", subtopic)
             try:
-                processor=None
+                processor = None
                 data = get_daily_papers(subtopic, query=keyword, max_results=10, model=None, processor=processor)
             except Exception as e:
                 print(f"Error processing {subtopic}: {e}")
                 data = None
-            if not topic in data_collector:
-                data_collector[topic] = {}
+
             if data:
-                data_collector[topic].update(data)
+                data_collector["arxiv-daily"][topic].update(data)  # ✅ topic 아래에 subtopic 추가
 
-
-    # Save collected data to SQLite database
+    # ✅ Save collected data to SQLite database
     save_to_db(conn, data_collector)
-    
-    # Generate Markdown file from database
+
+    # ✅ Generate Markdown file from database
     db_to_md(conn, SERVER_PATH_README)
     conn.close()
-    
+
     print("Data saved to SQLite database and Markdown file generated.")

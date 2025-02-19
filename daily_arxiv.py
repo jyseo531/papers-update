@@ -252,52 +252,89 @@ def json_to_md(filename, to_web=False):
     print("finished")
 
 
-if __name__ == "__main__":
+# if __name__ == "__main__":
 
-    data_collector = dict()
+#     data_collector = dict()
+
+#     yaml_path = "./database/topic.yml"
+#     yaml_data = get_yaml_data(yaml_path)
+
+#     # print(yaml_data)
+
+#     keywords = dict(yaml_data)
+
+#     for topic in keywords.keys():
+#         for subtopic, keyword in dict(keywords[topic]).items():
+
+#             # topic = keyword.replace("\"","")
+#             print("Keyword: " + subtopic)
+#             try:
+#                 data = get_daily_papers(
+#                     subtopic, query=keyword, max_results=10)
+#             except:
+#                 print(f'CANNOT get {subtopic} data from arxiv')
+#                 data = None
+#             # time.sleep(random.randint(2, 10))
+
+#             if not topic in data_collector.keys():
+#                 data_collector[topic] = {}
+
+#             if data:
+#                 data_collector[topic].update(data)
+
+#             print(data)
+#             # print(data_collector)
+
+#             print("\n")
+
+#     print(data_collector)
+#     # update README.md file
+#     json_file = "arxiv-daily.json"
+# #     if ~os.path.exists(json_file):
+# #         with open(json_file,'w')as a:
+# #             print("create " + json_file)
+
+#     # update json data
+#     update_json_file(json_file, data_collector)
+#     # json data to markdown
+#     json_to_md(json_file)
+
+#     # json data to markdown
+#     json_to_md(json_file, to_web=True)
+
+
+if __name__ == "__main__":
+    data_collector = {"arxiv-daily": {}}  # ✅ arxiv-daily를 최상위 키로 추가
 
     yaml_path = "./database/topic.yml"
     yaml_data = get_yaml_data(yaml_path)
 
-    # print(yaml_data)
-
     keywords = dict(yaml_data)
 
     for topic in keywords.keys():
-        for subtopic, keyword in dict(keywords[topic]).items():
+        if topic not in data_collector["arxiv-daily"]:
+            data_collector["arxiv-daily"][topic] = {}  # ✅ arxiv-daily 아래에 topic 추가
 
-            # topic = keyword.replace("\"","")
+        for subtopic, keyword in dict(keywords[topic]).items():
             print("Keyword: " + subtopic)
             try:
-                data = get_daily_papers(
-                    subtopic, query=keyword, max_results=10)
+                data = get_daily_papers(subtopic, query=keyword, max_results=10)
             except:
                 print(f'CANNOT get {subtopic} data from arxiv')
                 data = None
-            # time.sleep(random.randint(2, 10))
-
-            if not topic in data_collector.keys():
-                data_collector[topic] = {}
 
             if data:
-                data_collector[topic].update(data)
+                data_collector["arxiv-daily"][topic].update(data)  # ✅ 서브토픽을 topic 아래에 추가
 
             print(data)
-            # print(data_collector)
-
             print("\n")
 
-    print(data_collector)
-    # update README.md file
+    print(data_collector)  # ✅ 최종 구조 확인
+
+    # ✅ JSON 데이터 업데이트
     json_file = "arxiv-daily.json"
-#     if ~os.path.exists(json_file):
-#         with open(json_file,'w')as a:
-#             print("create " + json_file)
-
-    # update json data
     update_json_file(json_file, data_collector)
-    # json data to markdown
-    json_to_md(json_file)
 
-    # json data to markdown
+    # ✅ Markdown 생성
+    json_to_md(json_file)
     json_to_md(json_file, to_web=True)
