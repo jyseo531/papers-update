@@ -416,7 +416,7 @@ class _OverloadTasks:
                 f.write(i)
 
     def generate_markdown_template(self, content: str):
-        _project = f"# database daily \n"
+        _project = f"# Home \n"
         _pin = f" Automated deployment @ {self.update_time} Asia/Seoul\n"
         _tos = (
             "> Welcome to contribute! Add your topics and keywords in "
