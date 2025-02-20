@@ -250,8 +250,8 @@ Updated on 2025-02-20
 | MediaTek-Research/Llama-Breeze2-8B-Instruct | MediaTek-Research/Llama-Breeze2-8B-Instruct | [Link](https://huggingface.co/MediaTek-Research/Llama-Breeze2-8B-Instruct) | llama3.2 | None |
 | MediaTek-Research/BreezyVoice | MediaTek-Research/BreezyVoice | [Link](https://huggingface.co/MediaTek-Research/BreezyVoice) | apache-2.0 | None |
 | ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-F16 | ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-F16 | [Link](https://huggingface.co/ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-F16) | apache-2.0 | reinforcement-learning |
-| microsoft/wham | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/microsoft/wham) | Unknown license | None |
-| unsloth/r1-1776-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/unsloth/r1-1776-GGUF) | mit | text-generation |
-| ALLaM-AI/ALLaM-7B-Instruct-preview | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/ALLaM-AI/ALLaM-7B-Instruct-preview) | apache-2.0 | text-generation |
-| Skywork/SkyReels-A1 | None | [Link](https://huggingface.co/Skywork/SkyReels-A1) | apache-2.0 | image-to-video |
-| meta-llama/Meta-Llama-3-8B-Instruct | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) | llama3 | text-generation |
+| microsoft/wham | microsoft/wham | [Link](https://huggingface.co/microsoft/wham) | Unknown license | None |
+| unsloth/r1-1776-GGUF | unsloth/r1-1776-GGUF | [Link](https://huggingface.co/unsloth/r1-1776-GGUF) | mit | text-generation |
+| ALLaM-AI/ALLaM-7B-Instruct-preview | ALLaM-AI/ALLaM-7B-Instruct-preview | [Link](https://huggingface.co/ALLaM-AI/ALLaM-7B-Instruct-preview) | apache-2.0 | text-generation |
+| Skywork/SkyReels-A1 | Skywork/SkyReels-A1 | [Link](https://huggingface.co/Skywork/SkyReels-A1) | apache-2.0 | image-to-video |
+| meta-llama/Meta-Llama-3-8B-Instruct | meta-llama/Meta-Llama-3-8B-Instruct | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) | llama3 | text-generation |
