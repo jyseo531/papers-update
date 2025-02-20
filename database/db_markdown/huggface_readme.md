@@ -255,4 +255,6 @@ Updated on 2025-02-20
 | ALLaM-AI/ALLaM-7B-Instruct-preview | ALLaM-AI/ALLaM-7B-Instruct-preview | [Link](https://huggingface.co/ALLaM-AI/ALLaM-7B-Instruct-preview) | apache-2.0 | text-generation |
 | Skywork/SkyReels-A1 | Skywork/SkyReels-A1 | [Link](https://huggingface.co/Skywork/SkyReels-A1) | apache-2.0 | image-to-video |
 | meta-llama/Meta-Llama-3-8B-Instruct | meta-llama/Meta-Llama-3-8B-Instruct | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) | llama3 | text-generation |
-| xai-org/grok-1 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/xai-org/grok-1) | apache-2.0 | text-generation |
+| xai-org/grok-1 | xai-org/grok-1 | [Link](https://huggingface.co/xai-org/grok-1) | apache-2.0 | text-generation |
+| LatitudeGames/Wayfarer-Large-70B-Llama-3.3 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/LatitudeGames/Wayfarer-Large-70B-Llama-3.3) | llama3.3 | text-generation |
+| smirki/UIGEN-T1.1-Qwen-14B-GGUF | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/smirki/UIGEN-T1.1-Qwen-14B-GGUF) | apache-2.0 | None |
