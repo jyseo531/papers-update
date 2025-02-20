@@ -23,6 +23,17 @@ try:
 except ImportError:
     from yaml import Loader, Dumper
 
+from config import (
+    SERVER_PATH_TOPIC,
+    SERVER_DIR_STORAGE,
+    SERVER_PATH_README,
+    SERVER_PATH_DOCS,
+    SERVER_DIR_HISTORY,
+    SERVER_PATH_STORAGE_MD,
+    TIME_ZONE_KR,
+    logger,
+)
+
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 
 
@@ -135,22 +146,21 @@ def update_json_file(filename, data):
     with open(filename, "w") as f:
         json.dump(json_data, f)
 
+
+# 2025-02-20 test
 import os
 import json
 import shutil
 import datetime
-
 def json_to_md(filename, to_web=False):
     """
-    @param filename: str
-    @param to_web: bool
-    @return None
+    JSON 데이터를 Markdown 파일로 변환하여 저장
     """
 
     DateNow = datetime.date.today().strftime("%Y.%m.%d")
 
-    # arxiv-daily 상위 폴더 고려하여 경로 설정
-    arxiv_daily_path = "arxiv-daily"
+    # arxiv-daily 폴더 생성
+    arxiv_daily_path = os.path.join("docs", "arxiv-daily")
     os.makedirs(arxiv_daily_path, exist_ok=True)
 
     with open(filename, "r", encoding="utf-8") as f:
@@ -160,12 +170,8 @@ def json_to_md(filename, to_web=False):
     if not to_web:
         md_filename = os.path.join(arxiv_daily_path, "README.md")
 
-        # clean README.md if daily already exists else create it
+        # clean README.md if it already exists
         with open(md_filename, "w+", encoding="utf-8") as f:
-            pass
-
-        # write data into README.md
-        with open(md_filename, "a+", encoding="utf-8") as f:
             f.write(f"## Updated on {DateNow}\n\n")
             f.write("> Welcome to contribute! Add your topics and keywords in `topic.yml`\n\n")
 
@@ -177,268 +183,127 @@ def json_to_md(filename, to_web=False):
 
                     f.write(f"### {subtopic}\n\n")
                     f.write("| Publish Date | Title | Authors | PDF | Code |\n")
-                    f.write("|---|---|---|---|---|\n")
+                    f.write("|-------------|----------------|-------------|------|------|\n")
 
-                    # sort papers by date
                     sorted_papers = sort_papers(papers)
 
                     for _, v in sorted_papers.items():
-                        if v is not None:
+                        if isinstance(v, dict):  # Markdown 형식으로 변환
+                            publish_date = v.get("publish_date", "N/A")
+                            title = v.get("title", "N/A")
+                            authors = ", ".join(v.get("authors", [])) if isinstance(v.get("authors"), list) else v.get("authors", "N/A")
+                            pdf_link = f"[PDF]({v.get('pdf', '#')})" if v.get("pdf") else "N/A"
+                            code_link = f"[Code]({v.get('code', '#')})" if v.get("code") else "N/A"
+
+                            f.write(f"| {publish_date} | {title} | {authors} | {pdf_link} | {code_link} |\n")
+                        elif isinstance(v, str):
                             f.write(v)
 
                     f.write("\n")
 
     else:
-        docs_path = os.path.join(arxiv_daily_path, "docs")
-        if os.path.exists(docs_path):
-            shutil.rmtree(docs_path)
-        os.makedirs(docs_path, exist_ok=True)
+        # 기존 docs/arxiv-daily 폴더 삭제 후 다시 생성
+        if os.path.exists(arxiv_daily_path):
+            shutil.rmtree(arxiv_daily_path)
+        os.makedirs(arxiv_daily_path, exist_ok=True)
 
-        shutil.copyfile(os.path.join(arxiv_daily_path, "README.md"), os.path.join(docs_path, "index.md"))
+        md_indexname = os.path.join(arxiv_daily_path, "index.md")
+        with open(md_indexname, "w+", encoding="utf-8") as f_index:
+            f_index.write("# arxiv-daily\n\n")
 
-        for topic, subtopics in data.items():
-            topic_path = os.path.join(docs_path, topic)
-            os.makedirs(topic_path, exist_ok=True)
+            for topic, subtopics in data.items():
+                topic_path = os.path.join(arxiv_daily_path, topic)
+                os.makedirs(topic_path, exist_ok=True)  # topic 폴더 생성
 
-            md_indexname = os.path.join(topic_path, "index.md")
-            with open(md_indexname, "w+", encoding="utf-8") as f:
-                f.write(f"# {topic}\n\n")
+                topic_indexname = os.path.join(topic_path, "index.md")
+                with open(topic_indexname, "w+", encoding="utf-8") as f_topic_index:
+                    f_topic_index.write(f"# {topic}\n\n")
 
-            for subtopic, papers in subtopics.items():
-                if not papers:
-                    continue
+                # index.md에 topic 추가
+                f_index.write(f"- [{topic}](./{topic}/index.md)\n")
 
-                md_filename = os.path.join(topic_path, f"{subtopic}.md")
+                for subtopic, papers in subtopics.items():
+                    if not papers:
+                        continue
 
-                with open(md_filename, "w+", encoding="utf-8") as f:
-                    f.write(f"# {subtopic}\n\n")
-                    f.write("| Publish Date | Title | Authors | PDF | Code |\n")
-                    f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
+                    md_filename = os.path.join(topic_path, f"{subtopic}.md")
 
-                    sorted_papers = sort_papers(papers)
+                    with open(md_filename, "w+", encoding="utf-8") as f:
+                        f.write(f"# {subtopic}\n\n")
+                        f.write("| Publish Date | Title | Authors | PDF | Code |\n")
+                        f.write("|-------------|----------------|-------------|------|------|\n")
 
-                    for _, v in sorted_papers.items():
-                        if v is not None:
-                            f.write(v)
+                        sorted_papers = sort_papers(papers)
 
-                    f.write("\n")
+                        for _, v in sorted_papers.items():
+                            if isinstance(v, dict):
+                                publish_date = v.get("publish_date", "N/A")
+                                title = v.get("title", "N/A")
+                                authors = ", ".join(v.get("authors", [])) if isinstance(v.get("authors"), list) else v.get("authors", "N/A")
+                                pdf_link = f"[PDF]({v.get('pdf', '#')})" if v.get("pdf") else "N/A"
+                                code_link = f"[Code]({v.get('code', '#')})" if v.get("code") else "N/A"
 
-                with open(md_indexname, "a+", encoding="utf-8") as f:
-                    f.write(f"## {subtopic}\n\n")
-                    f.write("| Publish Date | Title | Authors | PDF | Code |\n")
-                    f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
+                                f.write(f"| {publish_date} | {title} | {authors} | {pdf_link} | {code_link} |\n")
+                            elif isinstance(v, str):
+                                f.write(v)
 
-                    for _, v in sorted_papers.items():
-                        if v is not None:
-                            f.write(v)
+                        f.write("\n")
 
-                    f.write("\n")
+                    # topic index에 subtopic 추가
+                    with open(topic_indexname, "a+", encoding="utf-8") as f_topic_index:
+                        f_topic_index.write(f"- [{subtopic}](./{subtopic}.md)\n")
 
-    print("finished")
+    print("Markdown file generation finished.")
 
-
-
-
-
-# def json_to_md(filename, to_web=False):
-#     """
-#     @param filename: str
-#     @return None
-#     """
-
-#     DateNow = datetime.date.today()
-#     DateNow = str(DateNow)
-#     DateNow = DateNow.replace('-', '.')
-
-#     with open(filename, "r") as f:
-#         content = f.read()
-#         if not content:
-#             data = {}
-#         else:
-#             data = json.loads(content)
-
-#     if to_web == False:
-#         md_filename = "README.md"
-#         # clean README.md if daily already exist else create it
-#         with open(md_filename, "w+") as f:
-#             pass
-
-#         # write data into README.md
-#         with open(md_filename, "a+") as f:
-
-#             f.write("## Updated on " + DateNow + "\n\n")
-
-#             f.write(
-#                 "> Welcome to contribute! Add your topics and keywords in `topic.yml`\n\n")
-
-#             for topic in data.keys():
-#                 f.write("## " + topic + "\n\n")
-#                 for subtopic in data[topic].keys():
-#                     day_content = data[topic][subtopic]
-#                     if not day_content:
-#                         continue
-#                     # the head of each part
-#                     f.write(f"### {subtopic}\n\n")
-
-#                     f.write("|Publish Date|Title|Authors|PDF|Code|\n" +
-#                             "|---|---|---|---|---|\n")
-
-#                     # sort papers by date
-#                     day_content = sort_papers(day_content)
-
-#                     for _, v in day_content.items():
-#                         if v is not None:
-#                             f.write(v)
-
-#                     f.write(f"\n")
-#     else:
-#         if os.path.exists('docs'):
-#             shutil.rmtree('docs')
-#         if not os.path.isdir('docs'):
-#             os.mkdir('docs')
-
-#         shutil.copyfile('README.md', os.path.join('docs', 'index.md'))
-
-#         for topic in data.keys():
-#             os.makedirs(os.path.join('docs', topic), exist_ok=True)
-#             md_indexname = os.path.join('docs', topic, "index.md")
-#             with open(md_indexname, "w+") as f:
-#                 f.write(f"# {topic}\n\n")
-
-#             # print(f'web {topic}')
-
-#             for subtopic in data[topic].keys():
-#                 md_filename = os.path.join('docs', topic, f"{subtopic}.md")
-#                 # print(f'web {subtopic}')
-
-#                 # clean README.md if daily already exist else create it
-#                 with open(md_filename, "w+") as f:
-#                     pass
-
-#                 with open(md_filename, "a+") as f:
-#                     day_content = data[topic][subtopic]
-#                     if not day_content:
-#                         continue
-#                     # the head of each part
-#                     f.write(f"# {subtopic}\n\n")
-#                     f.write("| Publish Date | Title | Authors | PDF | Code |\n")
-#                     f.write(
-#                         "|:---------|:-----------------------|:---------|:------|:------|\n")
-
-#                     # sort papers by date
-#                     day_content = sort_papers(day_content)
-
-#                     for _, v in day_content.items():
-#                         if v is not None:
-#                             f.write(v)
-
-#                     f.write(f"\n")
-
-#                 with open(md_indexname, "a+") as f:
-#                     day_content = data[topic][subtopic]
-#                     if not day_content:
-#                         continue
-#                     # the head of each part
-#                     f.write(f"## {subtopic}\n\n")
-#                     f.write("| Publish Date | Title | Authors | PDF | Code |\n")
-#                     f.write(
-#                         "|:---------|:-----------------------|:---------|:------|:------|\n")
-
-#                     # sort papers by date
-#                     day_content = sort_papers(day_content)
-
-#                     for _, v in day_content.items():
-#                         if v is not None:
-#                             f.write(v)
-
-#                     f.write(f"\n")
-
-#     print("finished")
-
-
-# if __name__ == "__main__":
-
-#     data_collector = dict()
-
-#     yaml_path = "./database/topic.yml"
-#     yaml_data = get_yaml_data(yaml_path)
-
-#     # print(yaml_data)
-
-#     keywords = dict(yaml_data)
-
-#     for topic in keywords.keys():
-#         for subtopic, keyword in dict(keywords[topic]).items():
-
-#             # topic = keyword.replace("\"","")
-#             print("Keyword: " + subtopic)
-#             try:
-#                 data = get_daily_papers(
-#                     subtopic, query=keyword, max_results=10)
-#             except:
-#                 print(f'CANNOT get {subtopic} data from arxiv')
-#                 data = None
-#             # time.sleep(random.randint(2, 10))
-
-#             if not topic in data_collector.keys():
-#                 data_collector[topic] = {}
-
-#             if data:
-#                 data_collector[topic].update(data)
-
-#             print(data)
-#             # print(data_collector)
-
-#             print("\n")
-
-#     print(data_collector)
-#     # update README.md file
-#     json_file = "arxiv-daily.json"
-# #     if ~os.path.exists(json_file):
-# #         with open(json_file,'w')as a:
-# #             print("create " + json_file)
-
-#     # update json data
-#     update_json_file(json_file, data_collector)
-#     # json data to markdown
-#     json_to_md(json_file)
-
-#     # json data to markdown
-#     json_to_md(json_file, to_web=True)
 
 
 if __name__ == "__main__":
-    data_collector = {"arxiv-daily": {}}  # ✅ arxiv-daily를 최상위 키로 추가
+
+    data_collector = dict()
 
     yaml_path = "./database/topic.yml"
     yaml_data = get_yaml_data(yaml_path)
 
+    # print(yaml_data)
+
     keywords = dict(yaml_data)
 
     for topic in keywords.keys():
-        if topic not in data_collector["arxiv-daily"]:
-            data_collector["arxiv-daily"][topic] = {}  # ✅ arxiv-daily 아래에 topic 추가
-
         for subtopic, keyword in dict(keywords[topic]).items():
+
+            # topic = keyword.replace("\"","")
             print("Keyword: " + subtopic)
             try:
-                data = get_daily_papers(subtopic, query=keyword, max_results=10)
+                data = get_daily_papers(
+                    subtopic, query=keyword, max_results=10)
             except:
                 print(f'CANNOT get {subtopic} data from arxiv')
                 data = None
+            # time.sleep(random.randint(2, 10))
+
+            if not topic in data_collector.keys():
+                data_collector[topic] = {}
 
             if data:
-                data_collector["arxiv-daily"][topic].update(data)  # ✅ 서브토픽을 topic 아래에 추가
+                data_collector[topic].update(data)
 
             print(data)
+            # print(data_collector)
+
             print("\n")
 
-    print(data_collector)  # ✅ 최종 구조 확인
-
-    # ✅ JSON 데이터 업데이트
+    print(data_collector)
+    # update README.md file
     json_file = "arxiv-daily.json"
-    update_json_file(json_file, data_collector)
+#     if ~os.path.exists(json_file):
+#         with open(json_file,'w')as a:
+#             print("create " + json_file)
 
-    # ✅ Markdown 생성
+    # update json data
+    update_json_file(json_file, data_collector)
+    # json data to markdown
     json_to_md(json_file)
+
+    # json data to markdown
     json_to_md(json_file, to_web=True)
+

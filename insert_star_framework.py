@@ -3,7 +3,7 @@ import requests
 import base64
 import time
 from bs4 import BeautifulSoup
-
+import datetime
 class GitHubRepoAnalyzer:
     def __init__(self, repo_url, token=None):
         self.base_url = self.convert_to_api_url(repo_url)
@@ -77,11 +77,6 @@ def update_github_info(db_file, token=None):
 #     db_file = "./arxiv_star_test_alltopic_2.db"  #test용
 #     github_token = ""
 #     update_github_info(db_file, github_token)
-
-
-import sqlite3
-import datetime
-
 def db_to_md(conn, md_filename="README.md"):
     """
     SQLite DB 데이터를 읽어 Markdown 파일 생성 (Authors, Last Updated 제외)
@@ -108,12 +103,12 @@ def db_to_md(conn, md_filename="README.md"):
                 f.write("| Publish Date | Title | PDF | Code | Star | Framework |\n")
                 f.write("|-------------|-------|-----|------|------|---------|\n")
 
-                # ✅ SQL 쿼리에서 Authors, Last Updated 제거
+                # ✅ SQL 쿼리에서 star 내림차순 정렬 추가
                 cursor.execute("""
                     SELECT publish_date, title, pdf_url, code_url, star, framework
                     FROM papers
                     WHERE topic=? AND subtopic=?
-                    ORDER BY publish_date DESC
+                    ORDER BY star DESC, publish_date DESC
                 """, (topic_name, subtopic_name))
 
                 papers = cursor.fetchall()
