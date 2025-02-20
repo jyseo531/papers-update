@@ -238,7 +238,7 @@ Updated on 2025-02-20
 | aoxo/flux.1dev-abliteratedv2 | aoxo/flux.1dev-abliteratedv2 | [Link](https://huggingface.co/aoxo/flux.1dev-abliteratedv2) | apache-2.0 | text-to-image |
 | Skywork/SkyReels-V1-Hunyuan-I2V | Skywork/SkyReels-V1-Hunyuan-I2V | [Link](https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-I2V) | Unknown license | image-to-video |
 | yentinglin/Mistral-Small-24B-Instruct-2501-reasoning | yentinglin/Mistral-Small-24B-Instruct-2501-reasoning | [Link](https://huggingface.co/yentinglin/Mistral-Small-24B-Instruct-2501-reasoning) | apache-2.0 | text-generation |
-| hashu786/HYVReward | hashu786/HYVReward | [Link](https://huggingface.co/hashu786/HYVReward) | apache-2.0 | text-to-image |
+| hashu786/HYVReward | hashu786/HYVReward | [Link](https://huggingface.co/hashu786/HYVReward) | Unknown license | text-to-image |
 | UNIVA-Bllossom/DeepSeek-llama3.1-Bllossom-8B | UNIVA-Bllossom/DeepSeek-llama3.1-Bllossom-8B | [Link](https://huggingface.co/UNIVA-Bllossom/DeepSeek-llama3.1-Bllossom-8B) | mit | text-generation |
 | perplexity-ai/r1-1776 | perplexity-ai/r1-1776 | [Link](https://huggingface.co/perplexity-ai/r1-1776) | mit | None |
 | NexaAIDev/DeepSeek-R1-Distill-Llama-8B-NexaQuant | NexaAIDev/DeepSeek-R1-Distill-Llama-8B-NexaQuant | [Link](https://huggingface.co/NexaAIDev/DeepSeek-R1-Distill-Llama-8B-NexaQuant) | llama3.1 | None |
