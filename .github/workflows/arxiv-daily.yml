@@ -47,7 +47,7 @@ jobs:
       # ============================================
       # TODO [√] Scaffold 
       # ============================================
-      - name: Run daily arxiv
+      - name: Run Scaffold
         run: |
           python main.py run --env=${{ env.RUN_ENV }} --power=${{ env.POWER }}
       # ============================================

@@ -416,15 +416,15 @@ class _OverloadTasks:
                 f.write(i)
 
     def generate_markdown_template(self, content: str):
-        _project = f"# arxiv-daily\n"
+        _project = f"# database daily \n"
         _pin = f" Automated deployment @ {self.update_time} Asia/Seoul\n"
         _tos = (
             "> Welcome to contribute! Add your topics and keywords in "
-            "[`topic.yml`](https://github.com/chimdungs/arxiv-daily/blob/feature/branch-name/database/topic.yml).\n"
+            "[`topic.yml`](https://github.com/jyseo531/arxiv-daily/blob/feature/branch-name/database/topic.yml).\n"
         )
         _tos += (
             "> You can also view historical data through the "
-            "[storage](https://github.com/chimdungs/arxiv-daily/blob/feature/branch-name/database/storage).\n"
+            "[storage](https://github.com/jyseo531/arxiv-daily/blob/feature/branch-name/database/storage).\n"
         )
 
         _form = _project + _pin + _tos + content
@@ -511,17 +511,17 @@ class Scaffold:
             shutil.copyfile(
                 SERVER_PATH_README, os.path.join(SERVER_PATH_DOCS, "index.md")
             )
-            # make history directory and copy files in SERVER_DIR_STORAGE to history directory
-            if not os.path.exists(SERVER_DIR_HISTORY):
-                os.mkdir(SERVER_DIR_HISTORY)
-            logger.info(f"{SERVER_DIR_HISTORY} is created.")
-            for file in os.listdir(SERVER_DIR_STORAGE):
-                file_format = os.path.basename(file).split("_")[-1]
-                shutil.copyfile(
-                    os.path.join(SERVER_DIR_STORAGE, file),
-                    os.path.join(SERVER_DIR_HISTORY, file_format),
-                )
-                logger.info(f"{file} is copied to {SERVER_DIR_HISTORY}.")
+            # # make history directory and copy files in SERVER_DIR_STORAGE to history directory
+            # if not os.path.exists(SERVER_DIR_HISTORY):
+            #     os.mkdir(SERVER_DIR_HISTORY)
+            # logger.info(f"{SERVER_DIR_HISTORY} is created.")
+            # for file in os.listdir(SERVER_DIR_STORAGE):
+            #     file_format = os.path.basename(file).split("_")[-1]
+            #     shutil.copyfile(
+            #         os.path.join(SERVER_DIR_STORAGE, file),
+            #         os.path.join(SERVER_DIR_HISTORY, file_format),
+            #     )
+            #     logger.info(f"{file} is copied to {SERVER_DIR_HISTORY}.")
 
 
         # ---------------------------------------------

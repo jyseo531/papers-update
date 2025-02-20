@@ -1,4 +1,4 @@
-site_name: arxiv-daily
+site_name: kuaicv
 
 # theme:
 #   name: material  # 테마 이름
@@ -17,8 +17,8 @@ theme:
   features:
     - navigation.indexes
 
-repo_url: https://github.com/jyseo531/arxiv-daily
-site_url: https://jyseo531.github.io/arxiv-daily
+repo_url: https://github.com/jyseo531/kuaicv
+site_url: https://jyseo531.github.io/kuaicv
 
 markdown_extensions:
   - def_list

@@ -1,4 +1,4 @@
-site_name: arxiv-daily
+site_name: kuaicv
 theme:
   name: mkdocs  # 기본 MkDocs 테마 사용
 repo_url: https://github.com/jyseo531/arxiv-daily
