@@ -1,0 +1,16 @@
+site_name: arxiv-daily
+theme:
+  name: mkdocs  # 기본 MkDocs 테마 사용
+repo_url: https://github.com/jyseo531/arxiv-daily
+site_url: https://jyseo531.github.io/arxiv-daily
+markdown_extensions:
+  - def_list
+  - attr_list
+plugins:
+  - search
+extra_javascript:
+  - https://code.jquery.com/jquery-3.6.0.min.js
+  - https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js
+  - js/custom.js
+extra_css:
+  - https://cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css

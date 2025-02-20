@@ -1,4 +1,4 @@
-# arxiv-daily
+# arxiv DB with Star & Framework
 Updated on 2025-02-20
 
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/your-repo).

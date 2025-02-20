@@ -292,17 +292,28 @@ class CoroutineSpeedup:
                 file_obj[md_obj["hook"]] = md_obj["hook"]
             file_obj[md_obj["hook"]] += md_obj["content"]
 
-            # 生成 mkdocs 所需文件
             os.makedirs(
-                os.path.join(SERVER_PATH_DOCS, f'{context["topic"]}'), exist_ok=True
+                os.path.join(SERVER_PATH_DOCS, "arxiv-daily", f'{context["topic"]}'), exist_ok=True
             )
             with open(
                 os.path.join(
-                    SERVER_PATH_DOCS, f'{context["topic"]}', f'{context["subtopic"]}.md'
+                    SERVER_PATH_DOCS, "arxiv-daily", f'{context["topic"]}', f'{context["subtopic"]}.md'
                 ),
                 "w",
             ) as f:
                 f.write(md_obj["content"])
+
+            # # 生成 mkdocs 所需文件
+            # os.makedirs(
+            #     os.path.join(SERVER_PATH_DOCS, f'{context["topic"]}'), exist_ok=True
+            # )
+            # with open(
+            #     os.path.join(
+            #         SERVER_PATH_DOCS, f'{context["topic"]}', f'{context["subtopic"]}.md'
+            #     ),
+            #     "w",
+            # ) as f:
+            #     f.write(md_obj["content"])
 
         # 生成 Markdown 模板文件
         template_ = ot.generate_markdown_template(
@@ -338,7 +349,8 @@ class _OverloadTasks:
             ToolBox.log_date("file")
         )
         self.storage_path_readme = SERVER_PATH_README
-        self.storage_path_docs = SERVER_PATH_DOCS
+        #self.storage_path_docs = SERVER_PATH_DOCS
+        self.storage_path_docs = os.path.join(SERVER_PATH_DOCS, "arxiv-daily")
 
     # -------------------
     # Private API
