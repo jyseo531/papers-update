@@ -255,3 +255,4 @@ Updated on 2025-02-20
 | ALLaM-AI/ALLaM-7B-Instruct-preview | ALLaM-AI/ALLaM-7B-Instruct-preview | [Link](https://huggingface.co/ALLaM-AI/ALLaM-7B-Instruct-preview) | apache-2.0 | text-generation |
 | Skywork/SkyReels-A1 | Skywork/SkyReels-A1 | [Link](https://huggingface.co/Skywork/SkyReels-A1) | apache-2.0 | image-to-video |
 | meta-llama/Meta-Llama-3-8B-Instruct | meta-llama/Meta-Llama-3-8B-Instruct | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) | llama3 | text-generation |
+| xai-org/grok-1 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/xai-org/grok-1) | apache-2.0 | text-generation |
