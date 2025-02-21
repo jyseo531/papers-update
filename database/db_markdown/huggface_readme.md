@@ -259,9 +259,9 @@ Updated on 2025-02-21
 | LatitudeGames/Wayfarer-Large-70B-Llama-3.3 | LatitudeGames/Wayfarer-Large-70B-Llama-3.3 | [Link](https://huggingface.co/LatitudeGames/Wayfarer-Large-70B-Llama-3.3) | llama3.3 | text-generation |
 | smirki/UIGEN-T1.1-Qwen-14B-GGUF | smirki/UIGEN-T1.1-Qwen-14B-GGUF | [Link](https://huggingface.co/smirki/UIGEN-T1.1-Qwen-14B-GGUF) | apache-2.0 | None |
 | arcee-ai/Arcee-Blitz | arcee-ai/Arcee-Blitz | [Link](https://huggingface.co/arcee-ai/Arcee-Blitz) | apache-2.0 | text-generation |
-| HuggingFaceTB/SmolVLM2-2.2B-Instruct | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM2-2.2B-Instruct) | apache-2.0 | video-text-to-text |
-| arcinstitute/evo2_40b | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/arcinstitute/evo2_40b) | apache-2.0 | None |
-| arcee-ai/Arcee-Maestro-7B-Preview | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/arcee-ai/Arcee-Maestro-7B-Preview) | apache-2.0 | text-generation |
-| google/paligemma2-3b-mix-448 | http://arxiv.org/abs/2407.07726v2 | [Link](https://huggingface.co/google/paligemma2-3b-mix-448) | gemma | image-text-to-text |
-| Qwen/Qwen2.5-VL-7B-Instruct-AWQ | http://arxiv.org/abs/2405.18009v2 | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct-AWQ) | apache-2.0 | image-text-to-text |
-| google/paligemma2-28b-mix-448 | http://arxiv.org/abs/2407.07726v2 | [Link](https://huggingface.co/google/paligemma2-28b-mix-448) | gemma | image-text-to-text |
+| HuggingFaceTB/SmolVLM2-2.2B-Instruct | HuggingFaceTB/SmolVLM2-2.2B-Instruct | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM2-2.2B-Instruct) | apache-2.0 | video-text-to-text |
+| arcinstitute/evo2_40b | arcinstitute/evo2_40b | [Link](https://huggingface.co/arcinstitute/evo2_40b) | apache-2.0 | None |
+| arcee-ai/Arcee-Maestro-7B-Preview | arcee-ai/Arcee-Maestro-7B-Preview | [Link](https://huggingface.co/arcee-ai/Arcee-Maestro-7B-Preview) | apache-2.0 | text-generation |
+| google/paligemma2-3b-mix-448 | google/paligemma2-3b-mix-448 | [Link](https://huggingface.co/google/paligemma2-3b-mix-448) | gemma | image-text-to-text |
+| Qwen/Qwen2.5-VL-7B-Instruct-AWQ | Qwen/Qwen2.5-VL-7B-Instruct-AWQ | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct-AWQ) | apache-2.0 | image-text-to-text |
+| google/paligemma2-28b-mix-448 | google/paligemma2-28b-mix-448 | [Link](https://huggingface.co/google/paligemma2-28b-mix-448) | gemma | image-text-to-text |
