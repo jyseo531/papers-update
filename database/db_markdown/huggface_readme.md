@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-02-21
+Updated on 2025-02-22
 
 > Generated from the Hugging Face database.
 
@@ -265,3 +265,4 @@ Updated on 2025-02-21
 | google/paligemma2-3b-mix-448 | google/paligemma2-3b-mix-448 | [Link](https://huggingface.co/google/paligemma2-3b-mix-448) | gemma | image-text-to-text |
 | Qwen/Qwen2.5-VL-7B-Instruct-AWQ | Qwen/Qwen2.5-VL-7B-Instruct-AWQ | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct-AWQ) | apache-2.0 | image-text-to-text |
 | google/paligemma2-28b-mix-448 | google/paligemma2-28b-mix-448 | [Link](https://huggingface.co/google/paligemma2-28b-mix-448) | gemma | image-text-to-text |
+| homebrewltd/AlphaMaze-v0.2-1.5B | http://arxiv.org/abs/2401.13935v1 | [Link](https://huggingface.co/homebrewltd/AlphaMaze-v0.2-1.5B) | apache-2.0 | text-generation |
