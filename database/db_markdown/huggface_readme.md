@@ -266,5 +266,5 @@ Updated on 2025-02-22
 | Qwen/Qwen2.5-VL-7B-Instruct-AWQ | Qwen/Qwen2.5-VL-7B-Instruct-AWQ | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct-AWQ) | apache-2.0 | image-text-to-text |
 | google/paligemma2-28b-mix-448 | google/paligemma2-28b-mix-448 | [Link](https://huggingface.co/google/paligemma2-28b-mix-448) | gemma | image-text-to-text |
 | homebrewltd/AlphaMaze-v0.2-1.5B | homebrewltd/AlphaMaze-v0.2-1.5B | [Link](https://huggingface.co/homebrewltd/AlphaMaze-v0.2-1.5B) | apache-2.0 | text-generation |
-| perplexity-ai/r1-1776-distill-llama-70b | None | [Link](https://huggingface.co/perplexity-ai/r1-1776-distill-llama-70b) | mit | None |
-| Shakker-Labs/Lumatales-FL | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Shakker-Labs/Lumatales-FL) | other | text-to-image |
+| perplexity-ai/r1-1776-distill-llama-70b | perplexity-ai/r1-1776-distill-llama-70b | [Link](https://huggingface.co/perplexity-ai/r1-1776-distill-llama-70b) | mit | None |
+| Shakker-Labs/Lumatales-FL | Shakker-Labs/Lumatales-FL | [Link](https://huggingface.co/Shakker-Labs/Lumatales-FL) | other | text-to-image |
