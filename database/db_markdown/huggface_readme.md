@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-02-22
+Updated on 2025-02-23
 
 > Generated from the Hugging Face database.
 
@@ -268,3 +268,5 @@ Updated on 2025-02-22
 | homebrewltd/AlphaMaze-v0.2-1.5B | homebrewltd/AlphaMaze-v0.2-1.5B | [Link](https://huggingface.co/homebrewltd/AlphaMaze-v0.2-1.5B) | apache-2.0 | text-generation |
 | perplexity-ai/r1-1776-distill-llama-70b | perplexity-ai/r1-1776-distill-llama-70b | [Link](https://huggingface.co/perplexity-ai/r1-1776-distill-llama-70b) | mit | None |
 | Shakker-Labs/Lumatales-FL | Shakker-Labs/Lumatales-FL | [Link](https://huggingface.co/Shakker-Labs/Lumatales-FL) | other | text-to-image |
+| smirki/UIGEN-T1.1-Qwen-14B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/smirki/UIGEN-T1.1-Qwen-14B) | apache-2.0 | text-generation |
+| spacepxl/skyreels-i2v-smooth-lora | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/spacepxl/skyreels-i2v-smooth-lora) | Unknown license | None |
