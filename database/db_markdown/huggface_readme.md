@@ -270,9 +270,9 @@ Updated on 2025-02-23
 | Shakker-Labs/Lumatales-FL | Shakker-Labs/Lumatales-FL | [Link](https://huggingface.co/Shakker-Labs/Lumatales-FL) | other | text-to-image |
 | smirki/UIGEN-T1.1-Qwen-14B | smirki/UIGEN-T1.1-Qwen-14B | [Link](https://huggingface.co/smirki/UIGEN-T1.1-Qwen-14B) | apache-2.0 | text-generation |
 | spacepxl/skyreels-i2v-smooth-lora | spacepxl/skyreels-i2v-smooth-lora | [Link](https://huggingface.co/spacepxl/skyreels-i2v-smooth-lora) | Unknown license | None |
-| moonshotai/Moonlight-16B-A3B-Instruct | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/moonshotai/Moonlight-16B-A3B-Instruct) | mit | text-generation |
-| moonshotai/Moonlight-16B-A3B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/moonshotai/Moonlight-16B-A3B) | mit | text-generation |
-| ModelSpace/GemmaX2-28-2B-v0.1 | None | [Link](https://huggingface.co/ModelSpace/GemmaX2-28-2B-v0.1) | other | translation |
-| TheDrummer/Skyfall-36B-v2 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/TheDrummer/Skyfall-36B-v2) | other | None |
-| stepfun-ai/Step-Audio-Tokenizer | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/stepfun-ai/Step-Audio-Tokenizer) | apache-2.0 | None |
-| ProsusAI/finbert | http://arxiv.org/abs/2407.03916v2 | [Link](https://huggingface.co/ProsusAI/finbert) | Unknown license | text-classification |
+| moonshotai/Moonlight-16B-A3B-Instruct | moonshotai/Moonlight-16B-A3B-Instruct | [Link](https://huggingface.co/moonshotai/Moonlight-16B-A3B-Instruct) | mit | text-generation |
+| moonshotai/Moonlight-16B-A3B | moonshotai/Moonlight-16B-A3B | [Link](https://huggingface.co/moonshotai/Moonlight-16B-A3B) | mit | text-generation |
+| ModelSpace/GemmaX2-28-2B-v0.1 | ModelSpace/GemmaX2-28-2B-v0.1 | [Link](https://huggingface.co/ModelSpace/GemmaX2-28-2B-v0.1) | other | translation |
+| TheDrummer/Skyfall-36B-v2 | TheDrummer/Skyfall-36B-v2 | [Link](https://huggingface.co/TheDrummer/Skyfall-36B-v2) | other | None |
+| stepfun-ai/Step-Audio-Tokenizer | stepfun-ai/Step-Audio-Tokenizer | [Link](https://huggingface.co/stepfun-ai/Step-Audio-Tokenizer) | apache-2.0 | None |
+| ProsusAI/finbert | ProsusAI/finbert | [Link](https://huggingface.co/ProsusAI/finbert) | Unknown license | text-classification |
