@@ -279,5 +279,5 @@ Updated on 2025-02-24
 | spacepxl/HunyuanVideo-GoWithTheFlow-unofficial | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/spacepxl/HunyuanVideo-GoWithTheFlow-unofficial) | Unknown license | None |
 | HuggingFaceTB/SmolVLM2-500M-Video-Instruct | HuggingFaceTB/SmolVLM2-500M-Video-Instruct | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM2-500M-Video-Instruct) | apache-2.0 | video-text-to-text |
 | KBLab/kb-whisper-large | KBLab/kb-whisper-large | [Link](https://huggingface.co/KBLab/kb-whisper-large) | apache-2.0 | automatic-speech-recognition |
-| Open-Reasoner-Zero/Open-Reasoner-Zero-32B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Open-Reasoner-Zero/Open-Reasoner-Zero-32B) | mit | None |
-| HuggingFaceTB/SmolVLM2-256M-Video-Instruct | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM2-256M-Video-Instruct) | apache-2.0 | video-text-to-text |
+| Open-Reasoner-Zero/Open-Reasoner-Zero-32B | Open-Reasoner-Zero/Open-Reasoner-Zero-32B | [Link](https://huggingface.co/Open-Reasoner-Zero/Open-Reasoner-Zero-32B) | mit | None |
+| HuggingFaceTB/SmolVLM2-256M-Video-Instruct | HuggingFaceTB/SmolVLM2-256M-Video-Instruct | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM2-256M-Video-Instruct) | apache-2.0 | video-text-to-text |
