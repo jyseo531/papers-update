@@ -272,10 +272,12 @@ Updated on 2025-02-24
 | spacepxl/skyreels-i2v-smooth-lora | spacepxl/skyreels-i2v-smooth-lora | [Link](https://huggingface.co/spacepxl/skyreels-i2v-smooth-lora) | Unknown license | None |
 | moonshotai/Moonlight-16B-A3B-Instruct | moonshotai/Moonlight-16B-A3B-Instruct | [Link](https://huggingface.co/moonshotai/Moonlight-16B-A3B-Instruct) | mit | text-generation |
 | moonshotai/Moonlight-16B-A3B | moonshotai/Moonlight-16B-A3B | [Link](https://huggingface.co/moonshotai/Moonlight-16B-A3B) | mit | text-generation |
-| ModelSpace/GemmaX2-28-2B-v0.1 | ModelSpace/GemmaX2-28-2B-v0.1 | [Link](https://huggingface.co/ModelSpace/GemmaX2-28-2B-v0.1) | other | translation |
+| ModelSpace/GemmaX2-28-2B-v0.1 | ModelSpace/GemmaX2-28-2B-v0.1 | [Link](https://huggingface.co/ModelSpace/GemmaX2-28-2B-v0.1) | gemma | translation |
 | TheDrummer/Skyfall-36B-v2 | TheDrummer/Skyfall-36B-v2 | [Link](https://huggingface.co/TheDrummer/Skyfall-36B-v2) | other | None |
 | stepfun-ai/Step-Audio-Tokenizer | stepfun-ai/Step-Audio-Tokenizer | [Link](https://huggingface.co/stepfun-ai/Step-Audio-Tokenizer) | apache-2.0 | None |
 | ProsusAI/finbert | ProsusAI/finbert | [Link](https://huggingface.co/ProsusAI/finbert) | Unknown license | text-classification |
 | spacepxl/HunyuanVideo-GoWithTheFlow-unofficial | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/spacepxl/HunyuanVideo-GoWithTheFlow-unofficial) | Unknown license | None |
-| HuggingFaceTB/SmolVLM2-500M-Video-Instruct | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM2-500M-Video-Instruct) | apache-2.0 | video-text-to-text |
-| KBLab/kb-whisper-large | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/KBLab/kb-whisper-large) | apache-2.0 | automatic-speech-recognition |
+| HuggingFaceTB/SmolVLM2-500M-Video-Instruct | HuggingFaceTB/SmolVLM2-500M-Video-Instruct | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM2-500M-Video-Instruct) | apache-2.0 | video-text-to-text |
+| KBLab/kb-whisper-large | KBLab/kb-whisper-large | [Link](https://huggingface.co/KBLab/kb-whisper-large) | apache-2.0 | automatic-speech-recognition |
+| Open-Reasoner-Zero/Open-Reasoner-Zero-32B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Open-Reasoner-Zero/Open-Reasoner-Zero-32B) | mit | None |
+| HuggingFaceTB/SmolVLM2-256M-Video-Instruct | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM2-256M-Video-Instruct) | apache-2.0 | video-text-to-text |
