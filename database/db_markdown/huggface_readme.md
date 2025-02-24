@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-02-23
+Updated on 2025-02-24
 
 > Generated from the Hugging Face database.
 
@@ -276,3 +276,6 @@ Updated on 2025-02-23
 | TheDrummer/Skyfall-36B-v2 | TheDrummer/Skyfall-36B-v2 | [Link](https://huggingface.co/TheDrummer/Skyfall-36B-v2) | other | None |
 | stepfun-ai/Step-Audio-Tokenizer | stepfun-ai/Step-Audio-Tokenizer | [Link](https://huggingface.co/stepfun-ai/Step-Audio-Tokenizer) | apache-2.0 | None |
 | ProsusAI/finbert | ProsusAI/finbert | [Link](https://huggingface.co/ProsusAI/finbert) | Unknown license | text-classification |
+| spacepxl/HunyuanVideo-GoWithTheFlow-unofficial | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/spacepxl/HunyuanVideo-GoWithTheFlow-unofficial) | Unknown license | None |
+| HuggingFaceTB/SmolVLM2-500M-Video-Instruct | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM2-500M-Video-Instruct) | apache-2.0 | video-text-to-text |
+| KBLab/kb-whisper-large | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/KBLab/kb-whisper-large) | apache-2.0 | automatic-speech-recognition |
