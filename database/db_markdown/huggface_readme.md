@@ -281,4 +281,7 @@ Updated on 2025-02-25
 | KBLab/kb-whisper-large | KBLab/kb-whisper-large | [Link](https://huggingface.co/KBLab/kb-whisper-large) | apache-2.0 | automatic-speech-recognition |
 | Open-Reasoner-Zero/Open-Reasoner-Zero-32B | Open-Reasoner-Zero/Open-Reasoner-Zero-32B | [Link](https://huggingface.co/Open-Reasoner-Zero/Open-Reasoner-Zero-32B) | mit | None |
 | HuggingFaceTB/SmolVLM2-256M-Video-Instruct | HuggingFaceTB/SmolVLM2-256M-Video-Instruct | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM2-256M-Video-Instruct) | apache-2.0 | video-text-to-text |
-| Qwen/Qwen2.5-VL-72B-Instruct-AWQ | http://arxiv.org/abs/2405.18009v2 | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-72B-Instruct-AWQ) | other | image-text-to-text |
+| Qwen/Qwen2.5-VL-72B-Instruct-AWQ | Qwen/Qwen2.5-VL-72B-Instruct-AWQ | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-72B-Instruct-AWQ) | other | image-text-to-text |
+| qihoo360/TinyR1-32B-Preview | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/qihoo360/TinyR1-32B-Preview) | apache-2.0 | None |
+| yandex/YandexGPT-5-Lite-8B-pretrain | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/yandex/YandexGPT-5-Lite-8B-pretrain) | other | None |
+| nvidia/DeepSeek-R1-FP4 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/nvidia/DeepSeek-R1-FP4) | Unknown license | None |
