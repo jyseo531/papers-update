@@ -282,6 +282,6 @@ Updated on 2025-02-25
 | Open-Reasoner-Zero/Open-Reasoner-Zero-32B | Open-Reasoner-Zero/Open-Reasoner-Zero-32B | [Link](https://huggingface.co/Open-Reasoner-Zero/Open-Reasoner-Zero-32B) | mit | None |
 | HuggingFaceTB/SmolVLM2-256M-Video-Instruct | HuggingFaceTB/SmolVLM2-256M-Video-Instruct | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM2-256M-Video-Instruct) | apache-2.0 | video-text-to-text |
 | Qwen/Qwen2.5-VL-72B-Instruct-AWQ | Qwen/Qwen2.5-VL-72B-Instruct-AWQ | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-72B-Instruct-AWQ) | other | image-text-to-text |
-| qihoo360/TinyR1-32B-Preview | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/qihoo360/TinyR1-32B-Preview) | apache-2.0 | None |
-| yandex/YandexGPT-5-Lite-8B-pretrain | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/yandex/YandexGPT-5-Lite-8B-pretrain) | other | None |
-| nvidia/DeepSeek-R1-FP4 | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/nvidia/DeepSeek-R1-FP4) | Unknown license | None |
+| qihoo360/TinyR1-32B-Preview | qihoo360/TinyR1-32B-Preview | [Link](https://huggingface.co/qihoo360/TinyR1-32B-Preview) | apache-2.0 | None |
+| yandex/YandexGPT-5-Lite-8B-pretrain | yandex/YandexGPT-5-Lite-8B-pretrain | [Link](https://huggingface.co/yandex/YandexGPT-5-Lite-8B-pretrain) | other | None |
+| nvidia/DeepSeek-R1-FP4 | nvidia/DeepSeek-R1-FP4 | [Link](https://huggingface.co/nvidia/DeepSeek-R1-FP4) | Unknown license | None |
