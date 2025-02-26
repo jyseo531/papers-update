@@ -295,9 +295,11 @@ if __name__ == "__main__":
     print(data_collector)
     # update README.md file
     json_file = "arxiv-daily.json"
-#     if ~os.path.exists(json_file):
-#         with open(json_file,'w')as a:
-#             print("create " + json_file)
+ #1️⃣ 파일이 없으면 생성하고 빈 JSON 구조로 초기화
+if not os.path.exists(json_file):
+    with open(json_file, "w") as f:
+        json.dump({}, f)  # 빈 JSON 객체 저장
+    print(f"📂 {json_file} 파일을 새로 생성했습니다.")
 
     # update json data
     update_json_file(json_file, data_collector)
