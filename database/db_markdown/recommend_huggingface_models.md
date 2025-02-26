@@ -1239,6 +1239,7 @@ Updated on 2025-02-26
 | 30 | Unknown | Emanon14/LoRAText-to-Image | Updated2 days ago | [Link](https://huggingface.co/Emanon14/LoRA) |
 | 28 |  | strangerzonehf/333-PROText-to-Image | Updated2 days ago | [Link](https://huggingface.co/strangerzonehf/333-PRO) |
 | 38k |  | strangerzonehf/Flux-Super-Realism-LoRAText-to-Image | UpdatedNov 27, 2024 | [Link](https://huggingface.co/strangerzonehf/Flux-Super-Realism-LoRA) |
+| 1.11k | Unknown | h94/IP-AdapterText-to-Image | UpdatedMar 27, 2024 | [Link](https://huggingface.co/h94/IP-Adapter) |
 
 ## Text-to-Speech
 
