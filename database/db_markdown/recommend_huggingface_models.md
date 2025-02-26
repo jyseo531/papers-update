@@ -1,0 +1,1678 @@
+# Recommendation of HuggingFace Models
+Updated on 2025-02-25
+
+> Generated from the Hugging Face database.
+
+## Any-to-Any
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 617k | 999 | openbmb/MiniCPM-o-2_6Any-to-Any | Updated5 days ago | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6) |
+| 189k | 577 | deepseek-ai/Janus-1 | Updated29 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-1.3B) |
+| 121k | 381 | deepseek-ai/Janus-Pro-1BAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-1B) |
+| 488 | 260 | gpt-omni/mini-omni2Any-to-Any | UpdatedOct 24, 2024 | [Link](https://huggingface.co/gpt-omni/mini-omni2) |
+| 1.68k | 208 | BAAI/Emu3-GenAny-to-Any | UpdatedOct 23, 2024 | [Link](https://huggingface.co/BAAI/Emu3-Gen) |
+| 9.96k | 141 | deepseek-ai/JanusFlow-1 | Updated29 days ago | [Link](https://huggingface.co/deepseek-ai/JanusFlow-1.3B) |
+| 36.8k | 83 | openbmb/MiniCPM-o-2_6-ggufAny-to-Any | UpdatedJan 17 | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6-gguf) |
+| 32.5k | 44 | onnx-community/Janus-Pro-1B-ONNXAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/onnx-community/Janus-Pro-1B-ONNX) |
+| 16.8k | 38 | openbmb/MiniCPM-o-2_6-int4Any-to-Any | UpdatedJan 22 | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6-int4) |
+| 94 | 34 | EPFL-VILAB/4M-21_XLAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-21_XL) |
+| 2.09k | 22 | THUdyh/Ola-7bAny-to-Any | Updated6 days ago | [Link](https://huggingface.co/THUdyh/Ola-7b) |
+| 142 | 19 | mit-han-lab/vila-u-7b-256Any-to-Any | UpdatedOct 29, 2024 | [Link](https://huggingface.co/mit-han-lab/vila-u-7b-256) |
+| 621 | 16 | EPFL-VILAB/4M-7_B_CC12MAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-7_B_CC12M) |
+| 470 | 15 | showlab/show-oAny-to-Any | UpdatedAug 27, 2024 | [Link](https://huggingface.co/showlab/show-o) |
+| 1.03k | 14 | onnx-community/Janus-1 | UpdatedNov 28, 2024 | [Link](https://huggingface.co/onnx-community/Janus-1.3B-ONNX) |
+| 612 | 7 | internlm/internlm-xcomposer2d5-7b-rewardAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/internlm/internlm-xcomposer2d5-7b-reward) |
+| 1.63k | 5 | PKU-Alignment/AA-chameleon-7b-plusAny-to-Any | UpdatedSep 13, 2024 | [Link](https://huggingface.co/PKU-Alignment/AA-chameleon-7b-plus) |
+| 481k | 3.11k | deepseek-ai/Janus-Pro-7BAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-7B) |
+| 78 | 3 | VARGPT-family/VARGPT_LLaVA-v1Any-to-Any | UpdatedJan 23 | [Link](https://huggingface.co/VARGPT-family/VARGPT_LLaVA-v1) |
+| 47 | 2 | PKU-Alignment/AnyRewardModelAny-to-Any | UpdatedDec 28, 2024 | [Link](https://huggingface.co/PKU-Alignment/AnyRewardModel) |
+| 585 | 2 | wnma3mz/Janus-Pro-1B-4bitAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/wnma3mz/Janus-Pro-1B-4bit) |
+| 170 | 1 | tezuesh/moshi_generalAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/tezuesh/moshi_general) |
+| 35 | 1 | tezuesh/IBLlama_v1Any-to-Any | UpdatedJan 24 | [Link](https://huggingface.co/tezuesh/IBLlama_v1) |
+| 43 | 1 | Athagi/Janus-Pro-7BAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/Athagi/Janus-Pro-7B) |
+| 76 | 1 | neilmehta24/janus-pro-7b-4bitAny-to-Any | Updated25 days ago | [Link](https://huggingface.co/neilmehta24/janus-pro-7b-4bit) |
+| 726 | 1 | wnma3mz/Janus-Pro-7B-4bitAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/wnma3mz/Janus-Pro-7B-4bit) |
+| 2 | Unknown | guanwenhao/MonoSpeechAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/guanwenhao/MonoSpeech) |
+| 22 | Unknown | Goekdeniz-Guelmez/J | UpdatedOct 29, 2024 | [Link](https://huggingface.co/Goekdeniz-Guelmez/J.O.S.I.E.v4o) |
+| 1 | Unknown | hfcsrd/cryptographyAny-to-Any | UpdatedNov 17, 2024 | [Link](https://huggingface.co/hfcsrd/cryptography) |
+| 2 | Unknown | Jwrockon/Artemis2 | Updated18 days ago | [Link](https://huggingface.co/Jwrockon/Artemis2.0) |
+
+## Audio Classification
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 13.6k | 128 | speechbrain/emotion-recognition-wav2vec2-IEMOCAPAudio | UpdatedJul 23, 2024 | [Link](https://huggingface.co/speechbrain/emotion-recognition-wav2vec2-IEMOCAP) |
+| 210k | 102 | audeering/wav2vec2-large-robust-12-ft-emotion-msp-dimAudio | UpdatedSep 19, 2024 | [Link](https://huggingface.co/audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim) |
+| 28.7k | 61 | m-a-p/MERT-v1-330MAudio | UpdatedMay 7, 2024 | [Link](https://huggingface.co/m-a-p/MERT-v1-330M) |
+| 29k | 55 | speechbrain/spkrec-xvect-voxcelebAudio | UpdatedFeb 25, 2024 | [Link](https://huggingface.co/speechbrain/spkrec-xvect-voxceleb) |
+| 2.11k | 42 | xmj2002/hubert-base-ch-speech-emotion-recognitionAudio | UpdatedMay 16, 2023 | [Link](https://huggingface.co/xmj2002/hubert-base-ch-speech-emotion-recognition) |
+| 26.1k | 30 | m-a-p/MERT-v1-95MAudio | UpdatedMay 7, 2024 | [Link](https://huggingface.co/m-a-p/MERT-v1-95M) |
+| 753 | 25 | Roblox/voice-safety-classifierAudio | UpdatedJul 8, 2024 | [Link](https://huggingface.co/Roblox/voice-safety-classifier) |
+| 5.25k | 22 | nvidia/diar_sortformer_4spk-v1Audio | Updated21 days ago | [Link](https://huggingface.co/nvidia/diar_sortformer_4spk-v1) |
+| 4.28k | 20 | superb/hubert-base-superb-erAudio | UpdatedNov 4, 2021 | [Link](https://huggingface.co/superb/hubert-base-superb-er) |
+| 4.81k | 19 | firdhokk/speech-emotion-recognition-with-openai-whisper-large-v3Audio | UpdatedDec 15, 2024 | [Link](https://huggingface.co/firdhokk/speech-emotion-recognition-with-openai-whisper-large-v3) |
+| 4.1k | 19 | superb/wav2vec2-base-superb-sidAudio | UpdatedNov 4, 2021 | [Link](https://huggingface.co/superb/wav2vec2-base-superb-sid) |
+| 15.7k | 15 | superb/wav2vec2-base-superb-ksAudio | UpdatedNov 4, 2021 | [Link](https://huggingface.co/superb/wav2vec2-base-superb-ks) |
+| 22.5k | 14 | MIT/ast-finetuned-speech-commands-v2Audio | UpdatedSep 10, 2023 | [Link](https://huggingface.co/MIT/ast-finetuned-speech-commands-v2) |
+| 86 | 13 | Talha/urdu-audio-emotionsAudio | UpdatedJul 2, 2022 | [Link](https://huggingface.co/Talha/urdu-audio-emotions) |
+| 378k | 10 | facebook/mms-lid-256Audio | UpdatedJun 13, 2023 | [Link](https://huggingface.co/facebook/mms-lid-256) |
+| 18.8k | 8 | superb/hubert-base-superb-ksAudio | UpdatedNov 4, 2021 | [Link](https://huggingface.co/superb/hubert-base-superb-ks) |
+| 4.92k | 7 | facebook/mms-lid-4017Audio | UpdatedJun 13, 2023 | [Link](https://huggingface.co/facebook/mms-lid-4017) |
+| 26 | 6 | SpeechFlow/spoken_language_identificationAudio | UpdatedMar 24, 2023 | [Link](https://huggingface.co/SpeechFlow/spoken_language_identification) |
+| 5 | 5 | AkshaySg/langidAudio | UpdatedNov 4, 2021 | [Link](https://huggingface.co/AkshaySg/langid) |
+| 266 | 3 | DunnBC22/wav2vec2-base-Toronto_emotional_speech_setAudio | UpdatedMay 12, 2023 | [Link](https://huggingface.co/DunnBC22/wav2vec2-base-Toronto_emotional_speech_set) |
+| 188 | 2 | Dc26/wav2vec2-base-finetuned-ksAudio | UpdatedMar 29, 2023 | [Link](https://huggingface.co/Dc26/wav2vec2-base-finetuned-ks) |
+| 169 | 2 | minoosh/finetuned_wav2vec2 | UpdatedJun 10, 2023 | [Link](https://huggingface.co/minoosh/finetuned_wav2vec2.0-base-on-IEMOCAP_2) |
+| 185 | 1 | Rafeq/wav2vec2-base-cry-classification__Audio | UpdatedJun 24, 2023 | [Link](https://huggingface.co/Rafeq/wav2vec2-base-cry-classification__) |
+| 8 | Unknown | ccmusic-database/Guzheng_Tech99Audio | Updated14 days ago | [Link](https://huggingface.co/ccmusic-database/Guzheng_Tech99) |
+| 27.1k |  | ehcalabres/wav2vec2-lg-xlsr-en-speech-emotion-recognitionAudio | UpdatedOct 24, 2024 | [Link](https://huggingface.co/ehcalabres/wav2vec2-lg-xlsr-en-speech-emotion-recognition) |
+| 828k |  | MIT/ast-finetuned-audioset-10-10-0 | UpdatedSep 6, 2023 | [Link](https://huggingface.co/MIT/ast-finetuned-audioset-10-10-0.4593) |
+| 721k |  | alefiury/wav2vec2-large-xlsr-53-gender-recognition-librispeechAudio | UpdatedMar 23, 2024 | [Link](https://huggingface.co/alefiury/wav2vec2-large-xlsr-53-gender-recognition-librispeech) |
+| 16 | Unknown | facebook/audiobox-aestheticsAudio | Updated7 days ago | [Link](https://huggingface.co/facebook/audiobox-aesthetics) |
+| 261k |  | speechbrain/lang-id-voxlingua107-ecapaAudio | UpdatedNov 27, 2024 | [Link](https://huggingface.co/speechbrain/lang-id-voxlingua107-ecapa) |
+| 2.16k |  | Jzuluaga/accent-id-commonaccent_ecapaAudio | UpdatedJul 22, 2023 | [Link](https://huggingface.co/Jzuluaga/accent-id-commonaccent_ecapa) |
+
+## Audio-Text-to-Text
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 751 | 378 | stepfun-ai/Step-Audio-ChatAudio-Text-to-Text | Updated8 days ago | [Link](https://huggingface.co/stepfun-ai/Step-Audio-Chat) |
+| 858 | 243 | NexaAIDev/OmniAudio-2 | UpdatedDec 13, 2024 | [Link](https://huggingface.co/NexaAIDev/OmniAudio-2.6B) |
+| 10.9k | 144 | NexaAIDev/Qwen2-Audio-7B-GGUFAudio-Text-to-Text | UpdatedNov 25, 2024 | [Link](https://huggingface.co/NexaAIDev/Qwen2-Audio-7B-GGUF) |
+| 18.3k | 99 | Qwen/Qwen2-Audio-7BAudio-Text-to-Text | UpdatedNov 20, 2024 | [Link](https://huggingface.co/Qwen/Qwen2-Audio-7B) |
+| 14.6k | 96 | fixie-ai/ultravox-v0_4_1-llama-3_1-8bAudio-Text-to-Text | UpdatedJan 22 | [Link](https://huggingface.co/fixie-ai/ultravox-v0_4_1-llama-3_1-8b) |
+| 859 | 51 | fixie-ai/ultravox-v0_2Audio-Text-to-Text | Updated17 days ago | [Link](https://huggingface.co/fixie-ai/ultravox-v0_2) |
+| 15.5k | 45 | fixie-ai/ultravox-v0_4Audio-Text-to-Text | UpdatedDec 13, 2024 | [Link](https://huggingface.co/fixie-ai/ultravox-v0_4) |
+| 4.75k | 24 | fixie-ai/ultravox-v0_4_1-llama-3_1-70bAudio-Text-to-Text | Updated17 days ago | [Link](https://huggingface.co/fixie-ai/ultravox-v0_4_1-llama-3_1-70b) |
+| 693 | 24 | fixie-ai/ultravox-v0_4_1-mistral-nemoAudio-Text-to-Text | Updated17 days ago | [Link](https://huggingface.co/fixie-ai/ultravox-v0_4_1-mistral-nemo) |
+| 105 | 19 | homebrewltd/Ichigo-llama3 | UpdatedDec 13, 2024 | [Link](https://huggingface.co/homebrewltd/Ichigo-llama3.1-s-instruct-v0.4) |
+| 108k | 17 | fixie-ai/ultravox-v0_3Audio-Text-to-Text | UpdatedDec 13, 2024 | [Link](https://huggingface.co/fixie-ai/ultravox-v0_3) |
+| 3 | 17 | homebrewltd/Ichigo-whisper-v0 | UpdatedJan 3 | [Link](https://huggingface.co/homebrewltd/Ichigo-whisper-v0.1) |
+| 5.81k | 11 | fixie-ai/ultravox-v0_5-llama-3_3-70bAudio-Text-to-Text | Updated13 days ago | [Link](https://huggingface.co/fixie-ai/ultravox-v0_5-llama-3_3-70b) |
+| 46.9k | 10 | fixie-ai/ultravox-v0_5-llama-3_2-1bAudio-Text-to-Text | Updated13 days ago | [Link](https://huggingface.co/fixie-ai/ultravox-v0_5-llama-3_2-1b) |
+| 1.24k | 10 | fixie-ai/ultravox-v0_4_1-llama-3_3-70bAudio-Text-to-Text | UpdatedJan 22 | [Link](https://huggingface.co/fixie-ai/ultravox-v0_4_1-llama-3_3-70b) |
+| 3.54k | 9 | fixie-ai/ultravox-v0_5-llama-3_1-8bAudio-Text-to-Text | Updated13 days ago | [Link](https://huggingface.co/fixie-ai/ultravox-v0_5-llama-3_1-8b) |
+| 234k | 6 | fixie-ai/ultravox-v0_3-llama-3_2-1bAudio-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/fixie-ai/ultravox-v0_3-llama-3_2-1b) |
+| 116 | 4 | fixie-ai/ultravox-v0_4-llama-3_1-70bAudio-Text-to-Text | Updated17 days ago | [Link](https://huggingface.co/fixie-ai/ultravox-v0_4-llama-3_1-70b) |
+| 231 | 1 | homebrewltd/Speechless-llama3 | UpdatedDec 30, 2024 | [Link](https://huggingface.co/homebrewltd/Speechless-llama3.2-v0.1) |
+| 19 | 1 | Felguk/Felguk-omni-v0Audio-Text-to-Text | UpdatedJan 19 | [Link](https://huggingface.co/Felguk/Felguk-omni-v0) |
+| 31 | 1 | homebrewltd/mini-Ichigo-llama3 | UpdatedNov 19, 2024 | [Link](https://huggingface.co/homebrewltd/mini-Ichigo-llama3.2-3B-s-base) |
+| 38 | 1 | fixie-ai/ultravox-v0_4-ToolACE-8BAudio-Text-to-Text | Updated17 days ago | [Link](https://huggingface.co/fixie-ai/ultravox-v0_4-ToolACE-8B) |
+| 508 | 1 | mradermacher/Ichigo-llama3 | UpdatedDec 15, 2024 | [Link](https://huggingface.co/mradermacher/Ichigo-llama3.1-s-instruct-v0.4-GGUF) |
+| 115k |  | Qwen/Qwen2-Audio-7B-InstructAudio-Text-to-Text | UpdatedJan 12 | [Link](https://huggingface.co/Qwen/Qwen2-Audio-7B-Instruct) |
+| 2 | Unknown | Flex-Data/bm-v1Audio-Text-to-Text | UpdatedDec 4, 2024 | [Link](https://huggingface.co/Flex-Data/bm-v1) |
+| 1 | Unknown | beita6969/DeepSeek-R1-Distill-Qwen-32B-MedicalAudio-Text-to-Text | Updatedabout 17 hours ago | [Link](https://huggingface.co/beita6969/DeepSeek-R1-Distill-Qwen-32B-Medical) |
+
+## Audio-to-Audio
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 2.42k | 98 | microsoft/speecht5_vcAudio-to-Audio | UpdatedMar 22, 2023 | [Link](https://huggingface.co/microsoft/speecht5_vc) |
+| 21.3k | 63 | speechbrain/metricgan-plus-voicebankAudio-to-Audio | UpdatedFeb 28, 2024 | [Link](https://huggingface.co/speechbrain/metricgan-plus-voicebank) |
+| 6.6k | 58 | speechbrain/sepformer-wsj02mixAudio-to-Audio | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/speechbrain/sepformer-wsj02mix) |
+| 27.2k | 44 | HKUSTAudio/xcodec2Audio-to-Audio | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/xcodec2) |
+| 484 | 21 | speechbrain/sepformer-wham-enhancementAudio-to-Audio | UpdatedFeb 25, 2024 | [Link](https://huggingface.co/speechbrain/sepformer-wham-enhancement) |
+| 23.1k | 17 | speechbrain/sepformer-dns4-16k-enhancementAudio-to-Audio | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/speechbrain/sepformer-dns4-16k-enhancement) |
+| 2.72k | 14 | speechbrain/sepformer-whamrAudio-to-Audio | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/speechbrain/sepformer-whamr) |
+| 477 | 11 | speechbrain/sepformer-whamr16kAudio-to-Audio | UpdatedFeb 20, 2024 | [Link](https://huggingface.co/speechbrain/sepformer-whamr16k) |
+| 113 | 8 | dog/kanyeAudio-to-Audio | UpdatedApr 25, 2023 | [Link](https://huggingface.co/dog/kanye) |
+| 1.18k | 7 | speechbrain/sepformer-libri3mixAudio-to-Audio | UpdatedFeb 25, 2024 | [Link](https://huggingface.co/speechbrain/sepformer-libri3mix) |
+| 365 | 6 | speechbrain/sepformer-wsj03mixAudio-to-Audio | UpdatedFeb 20, 2024 | [Link](https://huggingface.co/speechbrain/sepformer-wsj03mix) |
+| 1.38k | 3 | sail-rvc/Hatsune_Miku__RVC_v2_Audio-to-Audio | UpdatedJul 14, 2023 | [Link](https://huggingface.co/sail-rvc/Hatsune_Miku__RVC_v2_) |
+| 6 | 1 | sail-rvc/Guibel_Reviews__RVC_-_500_Epochs_Audio-to-Audio | UpdatedJul 14, 2023 | [Link](https://huggingface.co/sail-rvc/Guibel_Reviews__RVC_-_500_Epochs_) |
+| 9 | 1 | sail-rvc/Hu-Tao_e3000Audio-to-Audio | UpdatedJul 14, 2023 | [Link](https://huggingface.co/sail-rvc/Hu-Tao_e3000) |
+| 1 | 1 | sail-rvc/MafumafuAudio-to-Audio | UpdatedJul 14, 2023 | [Link](https://huggingface.co/sail-rvc/Mafumafu) |
+| 1.36k |  | speechbrain/sepformer-whamAudio-to-Audio | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/speechbrain/sepformer-wham) |
+| 16.8k |  | speechbrain/sepformer-wham16k-enhancementAudio-to-Audio | UpdatedFeb 25, 2024 | [Link](https://huggingface.co/speechbrain/sepformer-wham16k-enhancement) |
+| 11 | Unknown | Wanlau/RVC_BanGDreamAudio-to-Audio | Updated2 days ago | [Link](https://huggingface.co/Wanlau/RVC_BanGDream) |
+| 1 | Unknown | jaCappella/MRDLA_jaCappella_VES_48kAudio-to-Audio | UpdatedFeb 12, 2024 | [Link](https://huggingface.co/jaCappella/MRDLA_jaCappella_VES_48k) |
+| 19 | Unknown | Wanlau/RVC_datealiveAudio-to-Audio | UpdatedApr 29, 2024 | [Link](https://huggingface.co/Wanlau/RVC_datealive) |
+| 214 | Unknown | ArkanDash/rvc-genshin-impactAudio-to-Audio | UpdatedMay 11, 2024 | [Link](https://huggingface.co/ArkanDash/rvc-genshin-impact) |
+| 2 | Unknown | Tromboli/MyRVCModelsAudio-to-Audio | UpdatedSep 20, 2023 | [Link](https://huggingface.co/Tromboli/MyRVCModels) |
+| 29 | Unknown | mrmocciai/genshin-impactAudio-to-Audio | UpdatedOct 27, 2024 | [Link](https://huggingface.co/mrmocciai/genshin-impact) |
+| 30 | Unknown | TLME/RVC-UmamusumeAudio-to-Audio | UpdatedOct 27, 2023 | [Link](https://huggingface.co/TLME/RVC-Umamusume) |
+| 1 | Unknown | suyahimesuki/RVC_ModelsAudio-to-Audio | UpdatedMar 20, 2024 | [Link](https://huggingface.co/suyahimesuki/RVC_Models) |
+| 103 | Unknown | IAHispano/ApplioAudio-to-Audio | UpdatedJan 16 | [Link](https://huggingface.co/IAHispano/Applio) |
+| 1 | Unknown | modpotato/public_modelsAudio-to-Audio | UpdatedJan 9, 2024 | [Link](https://huggingface.co/modpotato/public_models) |
+| 130 | Unknown | ResembleAI/resemble-enhanceAudio-to-Audio | UpdatedDec 21, 2023 | [Link](https://huggingface.co/ResembleAI/resemble-enhance) |
+| 12 | Unknown | MarcusUniverse/SpliceGirl_RVCAudio-to-Audio | UpdatedJan 30, 2024 | [Link](https://huggingface.co/MarcusUniverse/SpliceGirl_RVC) |
+| 10 | Unknown | Its7up/Disco-Elysium-Narrator-RVC-v2Audio-to-Audio | UpdatedJan 19, 2024 | [Link](https://huggingface.co/Its7up/Disco-Elysium-Narrator-RVC-v2) |
+
+## Automatic Speech Recognition
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 6.99M | 964 | pyannote/speaker-diarizationAutomatic | UpdatedMay 10, 2024 | [Link](https://huggingface.co/pyannote/speaker-diarization) |
+| 11M | 708 | pyannote/speaker-diarization-3 | UpdatedMay 10, 2024 | [Link](https://huggingface.co/pyannote/speaker-diarization-3.1) |
+| 740k | 340 | Systran/faster-whisper-large-v3Automatic | UpdatedNov 23, 2023 | [Link](https://huggingface.co/Systran/faster-whisper-large-v3) |
+| 5.58M | 97 | jonatasgrosman/wav2vec2-large-xlsr-53-chinese-zh-cnAutomatic | UpdatedDec 14, 2022 | [Link](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-chinese-zh-cn) |
+| 2k | 73 | alvanlii/whisper-small-cantoneseAutomatic | UpdatedNov 12, 2024 | [Link](https://huggingface.co/alvanlii/whisper-small-cantonese) |
+| 14.1k | 43 | Systran/faster-distil-whisper-large-v3Automatic | UpdatedMar 25, 2024 | [Link](https://huggingface.co/Systran/faster-distil-whisper-large-v3) |
+| 1.54k | 43 | BELLE-2/Belle-whisper-large-v3-turbo-zhAutomatic | UpdatedDec 16, 2024 | [Link](https://huggingface.co/BELLE-2/Belle-whisper-large-v3-turbo-zh) |
+| 214 | 42 | unity/sentis-whisper-tinyAutomatic | UpdatedJan 6 | [Link](https://huggingface.co/unity/sentis-whisper-tiny) |
+| 3.9k | 29 | primeline/whisper-large-v3-turbo-germanAutomatic | UpdatedDec 3, 2024 | [Link](https://huggingface.co/primeline/whisper-large-v3-turbo-german) |
+| 2.03k | 24 | KBLab/kb-whisper-largeAutomatic | Updatedabout 6 hours ago | [Link](https://huggingface.co/KBLab/kb-whisper-large) |
+| 13.4k | 23 | nvidia/parakeet-tdt_ctc-110mAutomatic | Updated7 days ago | [Link](https://huggingface.co/nvidia/parakeet-tdt_ctc-110m) |
+| 665k | 8 | nvidia/parakeet-rnnt-0 | Updated7 days ago | [Link](https://huggingface.co/nvidia/parakeet-rnnt-0.6b) |
+| 25 | 5 | DrishtiSharma/whisper-large-v2-hausaAutomatic | UpdatedDec 21, 2022 | [Link](https://huggingface.co/DrishtiSharma/whisper-large-v2-hausa) |
+| 382 | 3 | suzii/vi-whisper-large-v3-turbo-v1Automatic | UpdatedJan 15 | [Link](https://huggingface.co/suzii/vi-whisper-large-v3-turbo-v1) |
+| 9.97M |  | openai/whisper-large-v3-turboAutomatic | UpdatedOct 4, 2024 | [Link](https://huggingface.co/openai/whisper-large-v3-turbo) |
+| 3.78M |  | openai/whisper-large-v3Automatic | UpdatedAug 12, 2024 | [Link](https://huggingface.co/openai/whisper-large-v3) |
+| 908 | Unknown | ggerganov/whisper | UpdatedOct 29, 2024 | [Link](https://huggingface.co/ggerganov/whisper.cpp) |
+| 1.19M |  | openai/whisper-large-v2Automatic | UpdatedFeb 29, 2024 | [Link](https://huggingface.co/openai/whisper-large-v2) |
+| 12.4M |  | openai/whisper-smallAutomatic | UpdatedFeb 29, 2024 | [Link](https://huggingface.co/openai/whisper-small) |
+| 140k |  | facebook/seamless-m4t-v2-largeAutomatic | UpdatedJan 4, 2024 | [Link](https://huggingface.co/facebook/seamless-m4t-v2-large) |
+| 273k |  | distil-whisper/distil-large-v3Automatic | UpdatedJun 7, 2024 | [Link](https://huggingface.co/distil-whisper/distil-large-v3) |
+| 2.54M |  | MahmoudAshraf/mms-300m-1130-forced-alignerAutomatic | UpdatedSep 28, 2024 | [Link](https://huggingface.co/MahmoudAshraf/mms-300m-1130-forced-aligner) |
+| 3.83M |  | facebook/wav2vec2-base-960hAutomatic | UpdatedNov 14, 2022 | [Link](https://huggingface.co/facebook/wav2vec2-base-960h) |
+| 21.4M |  | jonatasgrosman/wav2vec2-large-xlsr-53-englishAutomatic | UpdatedMar 25, 2023 | [Link](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-english) |
+| 4.51M |  | jonatasgrosman/wav2vec2-large-xlsr-53-russianAutomatic | UpdatedDec 14, 2022 | [Link](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-russian) |
+| 524k |  | openai/whisper-tinyAutomatic | UpdatedFeb 29, 2024 | [Link](https://huggingface.co/openai/whisper-tiny) |
+| 4.17M |  | openai/whisper-baseAutomatic | UpdatedFeb 29, 2024 | [Link](https://huggingface.co/openai/whisper-base) |
+| 507k |  | openai/whisper-mediumAutomatic | UpdatedFeb 29, 2024 | [Link](https://huggingface.co/openai/whisper-medium) |
+| 448 |  | smerchi/Arabic-Morocco-Speech_To_TextAutomatic | UpdatedApr 2, 2024 | [Link](https://huggingface.co/smerchi/Arabic-Morocco-Speech_To_Text) |
+| 23.5k |  | nyrahealth/CrisperWhisperAutomatic | UpdatedDec 19, 2024 | [Link](https://huggingface.co/nyrahealth/CrisperWhisper) |
+
+## Depth Estimation
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 1.96k | 401 | apple/DepthProDepth | Updatedabout 7 hours ago | [Link](https://huggingface.co/apple/DepthPro) |
+| 77.4k | 84 | depth-anything/Depth-Anything-V2-LargeDepth | UpdatedJul 8, 2024 | [Link](https://huggingface.co/depth-anything/Depth-Anything-V2-Large) |
+| 222k | 83 | tencent/DepthCrafterDepth | UpdatedSep 24, 2024 | [Link](https://huggingface.co/tencent/DepthCrafter) |
+| 56.1k | 55 | depth-anything/Depth-Anything-V2-SmallDepth | UpdatedJul 8, 2024 | [Link](https://huggingface.co/depth-anything/Depth-Anything-V2-Small) |
+| 101 | 54 | apple/coreml-depth-anything-v2-smallDepth | UpdatedJun 24, 2024 | [Link](https://huggingface.co/apple/coreml-depth-anything-v2-small) |
+| 83.9k | 48 | LiheYoung/depth-anything-large-hfDepth | UpdatedJan 25, 2024 | [Link](https://huggingface.co/LiheYoung/depth-anything-large-hf) |
+| 28 | 35 | apple/coreml-depth-anything-smallDepth | UpdatedJun 13, 2024 | [Link](https://huggingface.co/apple/coreml-depth-anything-small) |
+| 9.44k | 25 | apple/DepthPro-hfDepth | Updated17 days ago | [Link](https://huggingface.co/apple/DepthPro-hf) |
+| 72.4k | 17 | depth-anything/Depth-Anything-V2-Large-hfDepth | UpdatedJul 5, 2024 | [Link](https://huggingface.co/depth-anything/Depth-Anything-V2-Large-hf) |
+| 250k | 14 | depth-anything/Depth-Anything-V2-Small-hfDepth | UpdatedJul 5, 2024 | [Link](https://huggingface.co/depth-anything/Depth-Anything-V2-Small-hf) |
+| 1.32k | 12 | onnx-community/depth-anything-v2-smallDepth | UpdatedOct 8, 2024 | [Link](https://huggingface.co/onnx-community/depth-anything-v2-small) |
+| 2.07k | 10 | LiheYoung/depth-anything-base-hfDepth | UpdatedJan 25, 2024 | [Link](https://huggingface.co/LiheYoung/depth-anything-base-hf) |
+| 577 | 9 | prs-eth/rollingdepth-v1-0Depth | UpdatedNov 28, 2024 | [Link](https://huggingface.co/prs-eth/rollingdepth-v1-0) |
+| 94 | 9 | zysong212/DepthMasterDepth | UpdatedJan 14 | [Link](https://huggingface.co/zysong212/DepthMaster) |
+| 4.33k | 7 | facebook/dpt-dinov2-small-kittiDepth | UpdatedMar 29, 2024 | [Link](https://huggingface.co/facebook/dpt-dinov2-small-kitti) |
+| 112 | 7 | onnx-community/DepthPro-ONNXDepth | UpdatedOct 9, 2024 | [Link](https://huggingface.co/onnx-community/DepthPro-ONNX) |
+| 4.43k | 7 | vinvino02/glpn-kittiDepth | UpdatedNov 13, 2023 | [Link](https://huggingface.co/vinvino02/glpn-kitti) |
+| 36 | 5 | julienkay/sentis-MiDaSDepth | UpdatedAug 17, 2024 | [Link](https://huggingface.co/julienkay/sentis-MiDaS) |
+| 5 | 1 | coreml-projects/DepthPro-coremlDepth | Updated17 days ago | [Link](https://huggingface.co/coreml-projects/DepthPro-coreml) |
+| 2 | Unknown | Duino/Duino-LidarDepth | Updated6 days ago | [Link](https://huggingface.co/Duino/Duino-Lidar) |
+| 2 | Unknown | ChristianOrr/madnet_kerasDepth | UpdatedFeb 18, 2022 | [Link](https://huggingface.co/ChristianOrr/madnet_keras) |
+| 173k |  | Intel/dpt-largeDepth | UpdatedFeb 24, 2024 | [Link](https://huggingface.co/Intel/dpt-large) |
+| 14 | Unknown | zachL1/Metric3DDepth | UpdatedApr 17, 2024 | [Link](https://huggingface.co/zachL1/Metric3D) |
+| 4 | Unknown | qualcomm/Midas-V2Depth | Updated10 days ago | [Link](https://huggingface.co/qualcomm/Midas-V2) |
+| 7 | Unknown | MackinationsAi/Depth-Anything-V2_SafetensorsDepth | UpdatedJul 7, 2024 | [Link](https://huggingface.co/MackinationsAi/Depth-Anything-V2_Safetensors) |
+| 7 | Unknown | hhyangcs/depth-any-videoDepth | UpdatedDec 4, 2024 | [Link](https://huggingface.co/hhyangcs/depth-any-video) |
+| 1 | Unknown | depth-anything/prompt-depth-anything-vitsDepth | Updated30 days ago | [Link](https://huggingface.co/depth-anything/prompt-depth-anything-vits) |
+| 2 | Unknown | depth-anything/Video-Depth-Anything-SmallDepth | UpdatedJan 23 | [Link](https://huggingface.co/depth-anything/Video-Depth-Anything-Small) |
+| 4 | Unknown | depth-anything/Video-Depth-Anything-LargeDepth | UpdatedJan 23 | [Link](https://huggingface.co/depth-anything/Video-Depth-Anything-Large) |
+| 1 | Unknown | Zayb1999/Supreme01Depth | UpdatedFeb 23, 2024 | [Link](https://huggingface.co/Zayb1999/Supreme01) |
+
+## Document Question Answering
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 841 | 32 | nikravan/glm-4vqDocument | UpdatedJun 16, 2024 | [Link](https://huggingface.co/nikravan/glm-4vq) |
+| 102 | 14 | Xenova/donut-base-finetuned-docvqaDocument | UpdatedOct 23, 2024 | [Link](https://huggingface.co/Xenova/donut-base-finetuned-docvqa) |
+| 1.2k | 14 | tiennvcs/layoutlmv2-base-uncased-finetuned-docvqaDocument | UpdatedOct 31, 2021 | [Link](https://huggingface.co/tiennvcs/layoutlmv2-base-uncased-finetuned-docvqa) |
+| 711 | 9 | rubentito/layoutlmv3-base-mpdocvqaDocument | UpdatedJun 6, 2024 | [Link](https://huggingface.co/rubentito/layoutlmv3-base-mpdocvqa) |
+| 616 | 6 | faisalraza/layoutlm-invoicesDocument | UpdatedDec 20, 2022 | [Link](https://huggingface.co/faisalraza/layoutlm-invoices) |
+| 66 | 5 | xhyi/layoutlmv3_docvqa_t11c5000Document | UpdatedMar 20, 2023 | [Link](https://huggingface.co/xhyi/layoutlmv3_docvqa_t11c5000) |
+| 337 | 3 | TusharGoel/LiLT-Document-QADocument | UpdatedNov 6, 2024 | [Link](https://huggingface.co/TusharGoel/LiLT-Document-QA) |
+| 714 | 3 | zpm/Llama-3 | UpdatedAug 16, 2024 | [Link](https://huggingface.co/zpm/Llama-3.1-PersianQA) |
+| 85 | 3 | MariaK/layoutlmv2-base-uncased_finetuned_docvqa_v2Document | UpdatedFeb 9, 2023 | [Link](https://huggingface.co/MariaK/layoutlmv2-base-uncased_finetuned_docvqa_v2) |
+| 78 | 2 | tiennvcs/layoutlmv2-large-uncased-finetuned-infovqaDocument | UpdatedNov 9, 2021 | [Link](https://huggingface.co/tiennvcs/layoutlmv2-large-uncased-finetuned-infovqa) |
+| 71 | 1 | tiennvcs/layoutlmv2-base-uncased-finetuned-infovqaDocument | UpdatedNov 1, 2021 | [Link](https://huggingface.co/tiennvcs/layoutlmv2-base-uncased-finetuned-infovqa) |
+| 23 | 1 | pardeepSF/layoutlm-vqaDocument | UpdatedOct 18, 2022 | [Link](https://huggingface.co/pardeepSF/layoutlm-vqa) |
+| 14.4k |  | naver-clova-ix/donut-base-finetuned-docvqaDocument | UpdatedMar 9, 2024 | [Link](https://huggingface.co/naver-clova-ix/donut-base-finetuned-docvqa) |
+| 54.2k |  | impira/layoutlm-document-qaDocument | UpdatedMar 18, 2023 | [Link](https://huggingface.co/impira/layoutlm-document-qa) |
+| 7.73k |  | impira/layoutlm-invoicesDocument | UpdatedMar 25, 2023 | [Link](https://huggingface.co/impira/layoutlm-invoices) |
+| 409 |  | jinhybr/OCR-DocVQA-DonutDocument | UpdatedNov 4, 2022 | [Link](https://huggingface.co/jinhybr/OCR-DocVQA-Donut) |
+| 355 | Unknown | eachadea/ggml-vicuna-13b-1 | UpdatedAug 19, 2023 | [Link](https://huggingface.co/eachadea/ggml-vicuna-13b-1.1) |
+| 20 | Unknown | frizwankhan/entity-linking-model-finalDocument | UpdatedJan 13, 2022 | [Link](https://huggingface.co/frizwankhan/entity-linking-model-final) |
+| 73 | Unknown | tiennvcs/layoutlmv2-base-uncased-finetuned-vi-infovqaDocument | UpdatedDec 27, 2021 | [Link](https://huggingface.co/tiennvcs/layoutlmv2-base-uncased-finetuned-vi-infovqa) |
+| 85 | Unknown | tiennvcs/layoutlmv2-large-uncased-finetuned-vi-infovqaDocument | UpdatedDec 27, 2021 | [Link](https://huggingface.co/tiennvcs/layoutlmv2-large-uncased-finetuned-vi-infovqa) |
+| 1 | Unknown | mishig/temp-modelDocument | UpdatedSep 14, 2022 | [Link](https://huggingface.co/mishig/temp-model) |
+| 1 | Unknown | davanstrien/testwebhookDocument | UpdatedJan 31, 2023 | [Link](https://huggingface.co/davanstrien/testwebhook) |
+| 7 | Unknown | cloudqi/CQI_Visual_Question_Awnser_PT_v0Document | UpdatedMar 29, 2023 | [Link](https://huggingface.co/cloudqi/CQI_Visual_Question_Awnser_PT_v0) |
+| 51 | Unknown | hf-tiny-model-private/tiny-random-LayoutLMForQuestionAnsweringDocument | UpdatedMar 29, 2023 | [Link](https://huggingface.co/hf-tiny-model-private/tiny-random-LayoutLMForQuestionAnswering) |
+| 56 | Unknown | hf-tiny-model-private/tiny-random-LayoutLMv3ForQuestionAnsweringDocument | UpdatedMar 29, 2023 | [Link](https://huggingface.co/hf-tiny-model-private/tiny-random-LayoutLMv3ForQuestionAnswering) |
+| 100 | Unknown | hugginglaoda/layoutlmv2-base-uncased_finetuned_docvqaDocument | UpdatedApr 2, 2023 | [Link](https://huggingface.co/hugginglaoda/layoutlmv2-base-uncased_finetuned_docvqa) |
+| 16 | Unknown | Sayantan1993/layoutlmv2-base-uncased_finetuned_docvqaDocument | UpdatedApr 10, 2023 | [Link](https://huggingface.co/Sayantan1993/layoutlmv2-base-uncased_finetuned_docvqa) |
+| 13 | Unknown | ytiriyar/layoutlmv2-base-uncased_finetuned_docvqaDocument | UpdatedApr 11, 2023 | [Link](https://huggingface.co/ytiriyar/layoutlmv2-base-uncased_finetuned_docvqa) |
+| 15 | Unknown | dperales/layoutlmv2-base-uncased_finetuned_docvqaDocument | UpdatedApr 18, 2023 | [Link](https://huggingface.co/dperales/layoutlmv2-base-uncased_finetuned_docvqa) |
+| 1 | Unknown | seungwon12/layoutlmv2-base-uncased_finetuned_docvqaDocument | UpdatedApr 24, 2023 | [Link](https://huggingface.co/seungwon12/layoutlmv2-base-uncased_finetuned_docvqa) |
+
+## Feature Extraction
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 2.09M | 770 | jinaai/jina-embeddings-v3Feature | Updatedabout 22 hours ago | [Link](https://huggingface.co/jinaai/jina-embeddings-v3) |
+| 358k | 384 | nvidia/NV-Embed-v2Feature | Updated1 day ago | [Link](https://huggingface.co/nvidia/NV-Embed-v2) |
+| 43.6k | 266 | Salesforce/SFR-Embedding-MistralFeature | Updated20 days ago | [Link](https://huggingface.co/Salesforce/SFR-Embedding-Mistral) |
+| 8.91k | 68 | rinna/japanese-hubert-baseFeature | UpdatedJul 20, 2024 | [Link](https://huggingface.co/rinna/japanese-hubert-base) |
+| 35.9k | 52 | BAAI/bge-small-zh-v1 | UpdatedOct 12, 2023 | [Link](https://huggingface.co/BAAI/bge-small-zh-v1.5) |
+| 137k | 49 | laion/clap-htsat-unfusedFeature | UpdatedApr 24, 2023 | [Link](https://huggingface.co/laion/clap-htsat-unfused) |
+| 6.13k | 45 | Linq-AI-Research/Linq-Embed-MistralFeature | UpdatedJun 5, 2024 | [Link](https://huggingface.co/Linq-AI-Research/Linq-Embed-Mistral) |
+| 3.19k | 21 | Salesforce/SFR-Embedding-Code-400M_RFeature | UpdatedJan 24 | [Link](https://huggingface.co/Salesforce/SFR-Embedding-Code-400M_R) |
+| 24 | 8 | THUMedInfo/GENIE_zh_7bFeature | Updated14 days ago | [Link](https://huggingface.co/THUMedInfo/GENIE_zh_7b) |
+| 57 | 7 | kitjesen/MinerUFeature | UpdatedNov 8, 2024 | [Link](https://huggingface.co/kitjesen/MinerU) |
+| 151 | 6 | LennartKeller/longformer-gottbert-base-8192-aw512Feature | UpdatedAug 1, 2024 | [Link](https://huggingface.co/LennartKeller/longformer-gottbert-base-8192-aw512) |
+| 7.99k | 4 | OrcaDB/cde-small-v1Feature | UpdatedJan 2 | [Link](https://huggingface.co/OrcaDB/cde-small-v1) |
+| 2.82k | 3 | slprl/mhubert-base-25hzFeature | UpdatedJan 10 | [Link](https://huggingface.co/slprl/mhubert-base-25hz) |
+| 2.67k | 3 | DeepPavlov/bert-base-bg-cs-pl-ru-casedFeature | UpdatedNov 8, 2021 | [Link](https://huggingface.co/DeepPavlov/bert-base-bg-cs-pl-ru-cased) |
+| 203 | 2 | BounharAbdelaziz/Morocco-Darija-Sentence-Embedding-v0 | Updated4 days ago | [Link](https://huggingface.co/BounharAbdelaziz/Morocco-Darija-Sentence-Embedding-v0.1) |
+| 538k |  | intfloat/multilingual-e5-large-instructFeature | Updated8 days ago | [Link](https://huggingface.co/intfloat/multilingual-e5-large-instruct) |
+| 2.28M |  | intfloat/multilingual-e5-largeFeature | Updated8 days ago | [Link](https://huggingface.co/intfloat/multilingual-e5-large) |
+| 590k |  | BAAI/bge-large-zh-v1 | UpdatedApr 2, 2024 | [Link](https://huggingface.co/BAAI/bge-large-zh-v1.5) |
+| 14 | Unknown | Mayank6255/GLiNER-MoE-MultiLingualFeature | Updated9 days ago | [Link](https://huggingface.co/Mayank6255/GLiNER-MoE-MultiLingual) |
+| 1.65M |  | BAAI/bge-base-en-v1 | UpdatedFeb 21, 2024 | [Link](https://huggingface.co/BAAI/bge-base-en-v1.5) |
+| 3.83M |  | BAAI/bge-small-en-v1 | UpdatedFeb 22, 2024 | [Link](https://huggingface.co/BAAI/bge-small-en-v1.5) |
+| 1.79M |  | mixedbread-ai/mxbai-embed-large-v1Feature | UpdatedNov 26, 2024 | [Link](https://huggingface.co/mixedbread-ai/mxbai-embed-large-v1) |
+| 130k |  | ncbi/MedCPT-Query-EncoderFeature | UpdatedDec 3, 2023 | [Link](https://huggingface.co/ncbi/MedCPT-Query-Encoder) |
+| 13.9k |  | maidalun1020/bce-embedding-base_v1Feature | UpdatedNov 8, 2024 | [Link](https://huggingface.co/maidalun1020/bce-embedding-base_v1) |
+| 56.6k |  | Metric-AI/armenian-text-embeddings-1Feature | Updated5 days ago | [Link](https://huggingface.co/Metric-AI/armenian-text-embeddings-1) |
+| 194k |  | DeepPavlov/rubert-base-casedFeature | UpdatedNov 23, 2021 | [Link](https://huggingface.co/DeepPavlov/rubert-base-cased) |
+| 1.02M |  | BAAI/bge-reranker-largeFeature | UpdatedMay 11, 2024 | [Link](https://huggingface.co/BAAI/bge-reranker-large) |
+| 4.18M |  | WhereIsAI/UAE-Large-V1Feature | UpdatedDec 31, 2024 | [Link](https://huggingface.co/WhereIsAI/UAE-Large-V1) |
+| 8.93k |  | DeepPavlov/rubert-base-cased-conversationalFeature | UpdatedNov 8, 2021 | [Link](https://huggingface.co/DeepPavlov/rubert-base-cased-conversational) |
+| 32.4k |  | DeepPavlov/rubert-base-cased-sentenceFeature | UpdatedMay 18, 2021 | [Link](https://huggingface.co/DeepPavlov/rubert-base-cased-sentence) |
+
+## Fill-Mask
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 10.1M | 764 | answerdotai/ModernBERT-baseFill-Mask | UpdatedJan 15 | [Link](https://huggingface.co/answerdotai/ModernBERT-base) |
+| 89.9M | 389 | FacebookAI/xlm-roberta-largeFill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/FacebookAI/xlm-roberta-large) |
+| 630k | 354 | answerdotai/ModernBERT-largeFill-Mask | UpdatedJan 15 | [Link](https://huggingface.co/answerdotai/ModernBERT-large) |
+| 1.71M | 291 | microsoft/deberta-v3-baseFill-Mask | UpdatedSep 22, 2022 | [Link](https://huggingface.co/microsoft/deberta-v3-base) |
+| 5.87M | 290 | google-bert/bert-base-casedFill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/google-bert/bert-base-cased) |
+| 726k | 173 | microsoft/mdeberta-v3-baseFill-Mask | UpdatedApr 6, 2023 | [Link](https://huggingface.co/microsoft/mdeberta-v3-base) |
+| 4.76k | 130 | hfl/chinese-macbert-baseFill-Mask | UpdatedMay 19, 2021 | [Link](https://huggingface.co/hfl/chinese-macbert-base) |
+| 221k | 104 | Rostlab/prot_bertFill-Mask | UpdatedNov 16, 2023 | [Link](https://huggingface.co/Rostlab/prot_bert) |
+| 3.84k | 46 | jackaduma/SecBERTFill-Mask | UpdatedJun 26, 2023 | [Link](https://huggingface.co/jackaduma/SecBERT) |
+| 4.35k | 39 | Twitter/twhin-bert-baseFill-Mask | UpdatedJul 7, 2023 | [Link](https://huggingface.co/Twitter/twhin-bert-base) |
+| 8.8k | 32 | sbintuitions/modernbert-ja-130mFill-Mask | Updated11 days ago | [Link](https://huggingface.co/sbintuitions/modernbert-ja-130m) |
+| 3.06k | 26 | ckiplab/bert-base-chineseFill-Mask | UpdatedMay 10, 2022 | [Link](https://huggingface.co/ckiplab/bert-base-chinese) |
+| 349k | 19 | m3rg-iitd/matscibertFill-Mask | UpdatedJun 22, 2024 | [Link](https://huggingface.co/m3rg-iitd/matscibert) |
+| 7.23k | 17 | deepvk/RuModernBERT-baseFill-Mask | Updated6 days ago | [Link](https://huggingface.co/deepvk/RuModernBERT-base) |
+| 241 | 14 | neavo/modern_bert_multilingualFill-Mask | Updated7 days ago | [Link](https://huggingface.co/neavo/modern_bert_multilingual) |
+| 83 | 10 | prithivMLmods/Betelgeuse-bert-base-uncasedFill-Mask | UpdatedMay 15, 2024 | [Link](https://huggingface.co/prithivMLmods/Betelgeuse-bert-base-uncased) |
+| 5.68k | 8 | deepvk/RuModernBERT-smallFill-Mask | Updated6 days ago | [Link](https://huggingface.co/deepvk/RuModernBERT-small) |
+| 105 | 8 | metga97/Modern-EgyBert-BaseFill-Mask | Updated2 days ago | [Link](https://huggingface.co/metga97/Modern-EgyBert-Base) |
+| 1.37k | 3 | makiart/multilingual-ModernBert-base-previewFill-Mask | Updated9 days ago | [Link](https://huggingface.co/makiart/multilingual-ModernBert-base-preview) |
+| 81.3M |  | google-bert/bert-base-uncasedFill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/google-bert/bert-base-uncased) |
+| 2.09M |  | google-bert/bert-base-chineseFill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/google-bert/bert-base-chinese) |
+| 12.5M |  | google-bert/bert-base-multilingual-casedFill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/google-bert/bert-base-multilingual-cased) |
+| 14.9M |  | distilbert/distilbert-base-uncasedFill-Mask | UpdatedMay 6, 2024 | [Link](https://huggingface.co/distilbert/distilbert-base-uncased) |
+| 97.9k |  | microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltextFill-Mask | UpdatedNov 6, 2023 | [Link](https://huggingface.co/microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext) |
+| 144k |  | microsoft/graphcodebert-baseFill-Mask | UpdatedSep 26, 2022 | [Link](https://huggingface.co/microsoft/graphcodebert-base) |
+| 1.21M |  | distilbert/distilbert-base-multilingual-casedFill-Mask | UpdatedMay 6, 2024 | [Link](https://huggingface.co/distilbert/distilbert-base-multilingual-cased) |
+| 519k |  | nlpaueb/legal-bert-base-uncasedFill-Mask | UpdatedApr 28, 2022 | [Link](https://huggingface.co/nlpaueb/legal-bert-base-uncased) |
+| 7.93k |  | law-ai/InLegalBERTFill-Mask | UpdatedMay 11, 2023 | [Link](https://huggingface.co/law-ai/InLegalBERT) |
+| 2.96M |  | google-bert/bert-base-multilingual-uncasedFill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/google-bert/bert-base-multilingual-uncased) |
+| 11.4M |  | FacebookAI/xlm-roberta-baseFill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/FacebookAI/xlm-roberta-base) |
+
+## Graph Machine Learning
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 631 | 67 | clefourrier/graphormer-base-pcqm4mv2Graph | UpdatedFeb 7, 2023 | [Link](https://huggingface.co/clefourrier/graphormer-base-pcqm4mv2) |
+| 23 | 48 | mgalkin/ultra_50gGraph | UpdatedDec 4, 2023 | [Link](https://huggingface.co/mgalkin/ultra_50g) |
+| 641 | 21 | ecmwf/aifs-single-0 | Updatedabout 19 hours ago | [Link](https://huggingface.co/ecmwf/aifs-single-0.2.1) |
+| 27 | 5 | mgalkin/ultra_3gGraph | UpdatedDec 4, 2023 | [Link](https://huggingface.co/mgalkin/ultra_3g) |
+| 75 | 4 | clefourrier/graphormer-base-pcqm4mv1Graph | UpdatedFeb 7, 2023 | [Link](https://huggingface.co/clefourrier/graphormer-base-pcqm4mv1) |
+| 79 | 1 | DaizeDong/GraphsGPT-2WGraph | UpdatedMay 27, 2024 | [Link](https://huggingface.co/DaizeDong/GraphsGPT-2W) |
+| 99 | 1 | Huhujingjing/custom-gcnGraph | UpdatedJul 1, 2023 | [Link](https://huggingface.co/Huhujingjing/custom-gcn) |
+| 8 | 1 | hle2000/graphsormer_subgraphs_reranking_t5largeGraph | UpdatedAug 8, 2023 | [Link](https://huggingface.co/hle2000/graphsormer_subgraphs_reranking_t5large) |
+| 2 | Unknown | shermansiu/dm_graphcast_smallGraph | UpdatedDec 30, 2023 | [Link](https://huggingface.co/shermansiu/dm_graphcast_small) |
+| 5 | Unknown | PromptKing/GTA5_PROCESS_LEARNING_AIGraph | UpdatedApr 12, 2023 | [Link](https://huggingface.co/PromptKing/GTA5_PROCESS_LEARNING_AI) |
+| 7 | Unknown | riship-nv/RGCNGraph | UpdatedMay 25, 2023 | [Link](https://huggingface.co/riship-nv/RGCN) |
+| Unknown | Unknown | manetov/ControlNet_qrcodeGraph | UpdatedJun 23, 2023 | [Link](https://huggingface.co/manetov/ControlNet_qrcode) |
+| 96 | Unknown | Huhujingjing/custom-mxmGraph | UpdatedJul 2, 2023 | [Link](https://huggingface.co/Huhujingjing/custom-mxm) |
+| 8 | Unknown | hle2000/graphsormer_subgraphs_reranking_t5xlGraph | UpdatedAug 8, 2023 | [Link](https://huggingface.co/hle2000/graphsormer_subgraphs_reranking_t5xl) |
+| Unknown | Unknown | Orgilbold09/OrikoreGraph | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Orgilbold09/Orikore) |
+| Unknown | Unknown | NysPsycho/TrailerParkSteveGraph | UpdatedOct 9, 2023 | [Link](https://huggingface.co/NysPsycho/TrailerParkSteve) |
+| 22 | Unknown | mgalkin/ultra_4gGraph | UpdatedDec 4, 2023 | [Link](https://huggingface.co/mgalkin/ultra_4g) |
+| 210 | Unknown | DaizeDong/GraphsGPT-1WGraph | UpdatedMay 27, 2024 | [Link](https://huggingface.co/DaizeDong/GraphsGPT-1W) |
+| 66 | Unknown | DaizeDong/GraphsGPT-4WGraph | UpdatedMay 27, 2024 | [Link](https://huggingface.co/DaizeDong/GraphsGPT-4W) |
+| 83 | Unknown | DaizeDong/GraphsGPT-8WGraph | UpdatedMay 27, 2024 | [Link](https://huggingface.co/DaizeDong/GraphsGPT-8W) |
+| 9 | Unknown | shermansiu/dm_graphcastGraph | UpdatedDec 30, 2023 | [Link](https://huggingface.co/shermansiu/dm_graphcast) |
+| Unknown | Unknown | shermansiu/dm_graphcast_operationalGraph | UpdatedDec 30, 2023 | [Link](https://huggingface.co/shermansiu/dm_graphcast_operational) |
+| Unknown | Unknown | cosbi-ku/ProInterValGraph | UpdatedJan 14, 2024 | [Link](https://huggingface.co/cosbi-ku/ProInterVal) |
+| Unknown | Unknown | Shubham2711/SanskritamGraph | UpdatedFeb 21, 2024 | [Link](https://huggingface.co/Shubham2711/Sanskritam) |
+| Unknown | Unknown | Shubham2711/PatanjaliYogsutramChatbotGraph | UpdatedMar 3, 2024 | [Link](https://huggingface.co/Shubham2711/PatanjaliYogsutramChatbot) |
+| Unknown | Unknown | bei0209/test_0406Graph | UpdatedApr 7, 2024 | [Link](https://huggingface.co/bei0209/test_0406) |
+| Unknown | Unknown | roadmapacademy/GATConvGraph | UpdatedApr 25, 2024 | [Link](https://huggingface.co/roadmapacademy/GATConv) |
+| Unknown | Unknown | gzhong/PreModeGraph | UpdatedMay 2, 2024 | [Link](https://huggingface.co/gzhong/PreMode) |
+| Unknown | Unknown | jonruida/SpotifyGraph | UpdatedMay 14, 2024 | [Link](https://huggingface.co/jonruida/Spotify) |
+| 54 | Unknown | DaizeDong/GraphsGPT-1W-CGraph | UpdatedMay 27, 2024 | [Link](https://huggingface.co/DaizeDong/GraphsGPT-1W-C) |
+
+## Image Classification
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 774k | 38 | AdamCodd/vit-base-nsfw-detectorImage | UpdatedDec 3, 2024 | [Link](https://huggingface.co/AdamCodd/vit-base-nsfw-detector) |
+| 117k | 23 | prithivMLmods/Deep-Fake-Detector-ModelImage | Updated25 days ago | [Link](https://huggingface.co/prithivMLmods/Deep-Fake-Detector-Model) |
+| 3.18k | 14 | google/efficientnet-b7Image | UpdatedFeb 17, 2023 | [Link](https://huggingface.co/google/efficientnet-b7) |
+| 191 | 11 | prithivMLmods/Deepfake-Detection-Exp-02-21Image | Updated5 days ago | [Link](https://huggingface.co/prithivMLmods/Deepfake-Detection-Exp-02-21) |
+| 300 | 11 | prithivMLmods/Deepfake-Detection-Exp-02-22Image | Updated5 days ago | [Link](https://huggingface.co/prithivMLmods/Deepfake-Detection-Exp-02-22) |
+| 43 | 10 | prithivMLmods/Deepfake-QualityAssess-85MImage | Updated4 days ago | [Link](https://huggingface.co/prithivMLmods/Deepfake-QualityAssess-85M) |
+| 100 | 10 | prithivMLmods/Deepfake-QualityAssess-88MImage | Updated4 days ago | [Link](https://huggingface.co/prithivMLmods/Deepfake-QualityAssess-88M) |
+| 19 | 10 | prithivMLmods/Deepfake-QualityAssess-88M-ONNXImage | Updated5 days ago | [Link](https://huggingface.co/prithivMLmods/Deepfake-QualityAssess-88M-ONNX) |
+| 20 | 10 | prithivMLmods/Deepfake-QualityAssess-85M-ONNXImage | Updated5 days ago | [Link](https://huggingface.co/prithivMLmods/Deepfake-QualityAssess-85M-ONNX) |
+| 22 | 10 | prithivMLmods/Deepfake-Detection-Exp-02-22-ONNXImage | Updated5 days ago | [Link](https://huggingface.co/prithivMLmods/Deepfake-Detection-Exp-02-22-ONNX) |
+| 12 | 10 | prithivMLmods/Deepfake-Detection-Exp-02-21-ONNXImage | Updated5 days ago | [Link](https://huggingface.co/prithivMLmods/Deepfake-Detection-Exp-02-21-ONNX) |
+| 20 | 10 | prithivMLmods/Deepfake-QualityAssess2 | Updated2 days ago | [Link](https://huggingface.co/prithivMLmods/Deepfake-QualityAssess2.0-85M) |
+| 29 | 10 | prithivMLmods/AI-vs-Deepfake-vs-RealImage | Updated2 days ago | [Link](https://huggingface.co/prithivMLmods/AI-vs-Deepfake-vs-Real) |
+| 2 | 10 | prithivMLmods/AI-vs-Deepfake-vs-Real-ONNXImage | Updated2 days ago | [Link](https://huggingface.co/prithivMLmods/AI-vs-Deepfake-vs-Real-ONNX) |
+| 99 | 9 | fbarragan/helloworld_modelImage | UpdatedJan 14 | [Link](https://huggingface.co/fbarragan/helloworld_model) |
+| 4 | 8 | strangerguardhf/Deepfake-Detector-ModelImage | Updated2 days ago | [Link](https://huggingface.co/strangerguardhf/Deepfake-Detector-Model) |
+| 520 | 8 | RavenOnur/Sign-LanguageImage | UpdatedJan 1, 2023 | [Link](https://huggingface.co/RavenOnur/Sign-Language) |
+| 1.97k | 5 | timm/vit_mediumd_patch16_reg4_gap_384 | UpdatedJan 21 | [Link](https://huggingface.co/timm/vit_mediumd_patch16_reg4_gap_384.sbb2_e200_in12k_ft_in1k) |
+| 157M | 4 | timm/mobilenetv3_small_100 | UpdatedJan 21 | [Link](https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k) |
+| 211 | 2 | smp111/terrain_recognitionImage | UpdatedOct 17, 2023 | [Link](https://huggingface.co/smp111/terrain_recognition) |
+| 60.6M |  | Falconsai/nsfw_image_detectionImage | UpdatedDec 6, 2023 | [Link](https://huggingface.co/Falconsai/nsfw_image_detection) |
+| 45.8M |  | microsoft/resnet-50Image | UpdatedFeb 13, 2024 | [Link](https://huggingface.co/microsoft/resnet-50) |
+| 6.01M |  | google/vit-base-patch16-224Image | UpdatedSep 5, 2023 | [Link](https://huggingface.co/google/vit-base-patch16-224) |
+| 1.86k |  | nateraw/foodImage | UpdatedMay 17, 2022 | [Link](https://huggingface.co/nateraw/food) |
+| 3.45M |  | nateraw/vit-age-classifierImage | UpdatedJul 28, 2024 | [Link](https://huggingface.co/nateraw/vit-age-classifier) |
+| 4.51k |  | umm-maybe/AI-image-detectorImage | UpdatedJan 3, 2024 | [Link](https://huggingface.co/umm-maybe/AI-image-detector) |
+| 4 | Unknown | DOFOFFICIAL/animeGender-dvgg-0 | UpdatedAug 4, 2023 | [Link](https://huggingface.co/DOFOFFICIAL/animeGender-dvgg-0.8) |
+
+## Image Feature Extraction
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 3.56M | 304 | google/vit-base-patch16-224-in21kImage | UpdatedFeb 5, 2024 | [Link](https://huggingface.co/google/vit-base-patch16-224-in21k) |
+| 56.5k | 228 | TTPlanet/TTPLanet_SDXL_Controlnet_Tile_RealisticImage | UpdatedJun 8, 2024 | [Link](https://huggingface.co/TTPlanet/TTPLanet_SDXL_Controlnet_Tile_Realistic) |
+| 87.3k | 216 | MahmoodLab/UNIImage | UpdatedMay 10, 2024 | [Link](https://huggingface.co/MahmoodLab/UNI) |
+| 8.39M | 104 | facebook/dinov2-baseImage | UpdatedJan 17, 2024 | [Link](https://huggingface.co/facebook/dinov2-base) |
+| 9.69k | 100 | MahmoodLab/CONCHImage | UpdatedMay 5, 2024 | [Link](https://huggingface.co/MahmoodLab/CONCH) |
+| 2.92M | 73 | facebook/dinov2-largeImage | UpdatedSep 6, 2023 | [Link](https://huggingface.co/facebook/dinov2-large) |
+| 10.8k | 48 | paige-ai/Virchow2Image | UpdatedOct 26, 2024 | [Link](https://huggingface.co/paige-ai/Virchow2) |
+| 1.04M | 41 | microsoft/rad-dinoImage | Updated14 days ago | [Link](https://huggingface.co/microsoft/rad-dino) |
+| 19.4k | 39 | bioptimus/H-optimus-0Image | UpdatedAug 2, 2024 | [Link](https://huggingface.co/bioptimus/H-optimus-0) |
+| 226k | 34 | facebook/dinov2-giantImage | UpdatedSep 6, 2023 | [Link](https://huggingface.co/facebook/dinov2-giant) |
+| 5.13k | 28 | MahmoodLab/TITANImage | UpdatedDec 3, 2024 | [Link](https://huggingface.co/MahmoodLab/TITAN) |
+| 1.69M | 27 | facebook/dinov2-smallImage | UpdatedSep 6, 2023 | [Link](https://huggingface.co/facebook/dinov2-small) |
+| 245k | 26 | google/vit-large-patch16-224-in21kImage | UpdatedFeb 14, 2024 | [Link](https://huggingface.co/google/vit-large-patch16-224-in21k) |
+| 226 | 24 | OpenGVLab/InternViT-6B-224pxImage | UpdatedDec 9, 2024 | [Link](https://huggingface.co/OpenGVLab/InternViT-6B-224px) |
+| 16.1k | 20 | google/vit-huge-patch14-224-in21kImage | UpdatedFeb 14, 2024 | [Link](https://huggingface.co/google/vit-huge-patch14-224-in21k) |
+| 33.1k | 18 | google/vit-base-patch32-224-in21kImage | UpdatedDec 8, 2022 | [Link](https://huggingface.co/google/vit-base-patch32-224-in21k) |
+| 64.2k | 16 | facebook/dino-vits16Image | UpdatedMay 22, 2023 | [Link](https://huggingface.co/facebook/dino-vits16) |
+| 115 | 12 | intfloat/mmE5-mllama-11b-instructImage | Updatedabout 20 hours ago | [Link](https://huggingface.co/intfloat/mmE5-mllama-11b-instruct) |
+| 60.5k | 11 | timm/vit_large_patch14_dinov2 | UpdatedJan 20 | [Link](https://huggingface.co/timm/vit_large_patch14_dinov2.lvd142m) |
+| 16.3k | 10 | timm/vit_base_patch14_reg4_dinov2 | UpdatedJan 21 | [Link](https://huggingface.co/timm/vit_base_patch14_reg4_dinov2.lvd142m) |
+| 101k | 10 | nvidia/MambaVision-B-1KImage | UpdatedJul 25, 2024 | [Link](https://huggingface.co/nvidia/MambaVision-B-1K) |
+| 4.86k | 9 | GoodBaiBai88/M3D-CLIPImage | UpdatedMay 8, 2024 | [Link](https://huggingface.co/GoodBaiBai88/M3D-CLIP) |
+| 5.1k | 8 | facebook/dinov2-with-registers-smallImage | UpdatedDec 23, 2024 | [Link](https://huggingface.co/facebook/dinov2-with-registers-small) |
+| 85.8k | 6 | timm/vit_large_patch14_reg4_dinov2 | UpdatedJan 21 | [Link](https://huggingface.co/timm/vit_large_patch14_reg4_dinov2.lvd142m) |
+| 7 | 4 | bioptimus/H-optimus-1Image | Updated4 days ago | [Link](https://huggingface.co/bioptimus/H-optimus-1) |
+| 5.8k | 4 | timm/eva02_base_patch14_224 | UpdatedJan 21 | [Link](https://huggingface.co/timm/eva02_base_patch14_224.mim_in22k) |
+| 2.36k | 3 | apple/aimv2-large-patch14-448Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/apple/aimv2-large-patch14-448) |
+| 2.81k | 3 | apple/aimv2-huge-patch14-448Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/apple/aimv2-huge-patch14-448) |
+| 2.63k | 3 | ikim-uk-essen/BiomedCLIP_ViT_patch16_224Image | UpdatedApr 26, 2024 | [Link](https://huggingface.co/ikim-uk-essen/BiomedCLIP_ViT_patch16_224) |
+| 65 | 2 | facebook/regnet-y-320-seerImage | UpdatedSep 28, 2023 | [Link](https://huggingface.co/facebook/regnet-y-320-seer) |
+
+## Image Segmentation
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 706k | 638 | briaai/RMBG-2 | Updated6 days ago | [Link](https://huggingface.co/briaai/RMBG-2.0) |
+| 559k | 324 | ZhengPeng7/BiRefNetImage | Updatedabout 19 hours ago | [Link](https://huggingface.co/ZhengPeng7/BiRefNet) |
+| 11.8M | 119 | CIDAS/clipseg-rd64-refinedImage | UpdatedDec 11, 2024 | [Link](https://huggingface.co/CIDAS/clipseg-rd64-refined) |
+| 9.93k | 58 | ZhengPeng7/BiRefNet_HRImage | Updatedabout 19 hours ago | [Link](https://huggingface.co/ZhengPeng7/BiRefNet_HR) |
+| 6.9k | 46 | Xenova/modnetImage | UpdatedSep 2, 2024 | [Link](https://huggingface.co/Xenova/modnet) |
+| 140 | 41 | skytnt/anime-segImage | UpdatedOct 18, 2024 | [Link](https://huggingface.co/skytnt/anime-seg) |
+| 97.2k | 19 | shi-labs/oneformer_ade20k_swin_largeImage | UpdatedJan 19, 2023 | [Link](https://huggingface.co/shi-labs/oneformer_ade20k_swin_large) |
+| 17.8k | 16 | shi-labs/oneformer_ade20k_swin_tinyImage | UpdatedJan 19, 2023 | [Link](https://huggingface.co/shi-labs/oneformer_ade20k_swin_tiny) |
+| 5.73k | 10 | shi-labs/oneformer_ade20k_dinat_largeImage | UpdatedAug 30, 2023 | [Link](https://huggingface.co/shi-labs/oneformer_ade20k_dinat_large) |
+| 48 | 9 | SerdarHelli/Segmentation-of-Teeth-in-Panoramic-X-ray-Image-Using-U-NetImage | UpdatedJun 29, 2022 | [Link](https://huggingface.co/SerdarHelli/Segmentation-of-Teeth-in-Panoramic-X-ray-Image-Using-U-Net) |
+| 46.1k | 7 | ZhengPeng7/BiRefNet-portraitImage | Updatedabout 19 hours ago | [Link](https://huggingface.co/ZhengPeng7/BiRefNet-portrait) |
+| 4.92k | 7 | nvidia/segformer-b0-finetuned-cityscapes-1024-1024Image | UpdatedAug 8, 2022 | [Link](https://huggingface.co/nvidia/segformer-b0-finetuned-cityscapes-1024-1024) |
+| 2.13k | 6 | keremberke/yolov8m-building-segmentationImage | UpdatedFeb 22, 2023 | [Link](https://huggingface.co/keremberke/yolov8m-building-segmentation) |
+| 1.07k | 5 | keremberke/yolov8n-pcb-defect-segmentationImage | UpdatedFeb 22, 2023 | [Link](https://huggingface.co/keremberke/yolov8n-pcb-defect-segmentation) |
+| 3.94k | 3 | facebook/mask2former-swin-tiny-cityscapes-semanticImage | UpdatedSep 11, 2023 | [Link](https://huggingface.co/facebook/mask2former-swin-tiny-cityscapes-semantic) |
+| 7.28k | 2 | facebook/mask2former-swin-small-cityscapes-semanticImage | UpdatedSep 11, 2023 | [Link](https://huggingface.co/facebook/mask2former-swin-small-cityscapes-semantic) |
+| 1.15k | 2 | openmmlab/upernet-swin-baseImage | UpdatedMay 3, 2023 | [Link](https://huggingface.co/openmmlab/upernet-swin-base) |
+| 581k | 1.72k | briaai/RMBG-1 | UpdatedJan 7 | [Link](https://huggingface.co/briaai/RMBG-1.4) |
+| 842 | 1 | facebook/mask2former-swin-large-cityscapes-instanceImage | UpdatedSep 11, 2023 | [Link](https://huggingface.co/facebook/mask2former-swin-large-cityscapes-instance) |
+| 4.65M |  | mattmdjaga/segformer_b2_clothesImage | UpdatedJun 17, 2024 | [Link](https://huggingface.co/mattmdjaga/segformer_b2_clothes) |
+| 41.3k |  | facebook/detr-resnet-50-panopticImage | UpdatedApr 10, 2024 | [Link](https://huggingface.co/facebook/detr-resnet-50-panoptic) |
+| 97.2k |  | nvidia/segformer-b0-finetuned-ade-512-512Image | UpdatedJan 14, 2024 | [Link](https://huggingface.co/nvidia/segformer-b0-finetuned-ade-512-512) |
+| 1.3M |  | nvidia/segformer-b1-finetuned-ade-512-512Image | UpdatedAug 6, 2022 | [Link](https://huggingface.co/nvidia/segformer-b1-finetuned-ade-512-512) |
+| 10k |  | nvidia/segformer-b1-finetuned-cityscapes-1024-1024Image | UpdatedAug 9, 2022 | [Link](https://huggingface.co/nvidia/segformer-b1-finetuned-cityscapes-1024-1024) |
+| 331k |  | jonathandinu/face-parsingImage | UpdatedJan 29, 2024 | [Link](https://huggingface.co/jonathandinu/face-parsing) |
+| 4 | Unknown | Teklia/doc-ufcn-norhand-v1-lineImage | UpdatedSep 10, 2024 | [Link](https://huggingface.co/Teklia/doc-ufcn-norhand-v1-line) |
+| 10.2k |  | facebook/mask2former-swin-large-coco-panopticImage | UpdatedFeb 7, 2023 | [Link](https://huggingface.co/facebook/mask2former-swin-large-coco-panoptic) |
+| 294k |  | facebook/mask2former-swin-large-cityscapes-semanticImage | UpdatedSep 7, 2023 | [Link](https://huggingface.co/facebook/mask2former-swin-large-cityscapes-semantic) |
+| 38.9k |  | openmmlab/upernet-convnext-smallImage | UpdatedJan 19, 2023 | [Link](https://huggingface.co/openmmlab/upernet-convnext-small) |
+| 19 | Unknown | Teklia/doc-ufcn-generic-historical-lineImage | UpdatedSep 10, 2024 | [Link](https://huggingface.co/Teklia/doc-ufcn-generic-historical-line) |
+
+## Image-Text-to-Text
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 109k | 939 | openbmb/MiniCPM-V-2_6Image-Text-to-Text | UpdatedJan 15 | [Link](https://huggingface.co/openbmb/MiniCPM-V-2_6) |
+| 4.89k | 934 | microsoft/OmniParser-v2 | Updated7 days ago | [Link](https://huggingface.co/microsoft/OmniParser-v2.0) |
+| 1.67M | 546 | Qwen/Qwen2 | Updated10 days ago | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct) |
+| 112k | 395 | HuggingFaceTB/SmolVLM-InstructImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-Instruct) |
+| 17.9k | 287 | deepseek-ai/deepseek-vl2Image-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2) |
+| 38.8k | 163 | stepfun-ai/GOT-OCR-2 | Updated25 days ago | [Link](https://huggingface.co/stepfun-ai/GOT-OCR-2.0-hf) |
+| 39.1k | 159 | HuggingFaceTB/SmolVLM-256M-InstructImage-Text-to-Text | Updated22 days ago | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-256M-Instruct) |
+| 98.7k | 146 | deepseek-ai/deepseek-vl2-tinyImage-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2-tiny) |
+| 1.28k | 115 | AIDC-AI/Ovis2-34BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-34B) |
+| 10.9k | 80 | ibm-granite/granite-vision-3 | Updatedabout 7 hours ago | [Link](https://huggingface.co/ibm-granite/granite-vision-3.1-2b-preview) |
+| 1.06k | 71 | AIDC-AI/Ovis2-16BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-16B) |
+| 1.47k | 64 | AIDC-AI/Ovis2-1BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-1B) |
+| 1.27k | 51 | AIDC-AI/Ovis2-8BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-8B) |
+| 848 | 47 | AIDC-AI/Ovis2-2BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-2B) |
+| 4.01k | 31 | google/paligemma2-3b-mix-448Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-3b-mix-448) |
+| 280 | 24 | google/paligemma2-28b-mix-448Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-28b-mix-448) |
+| 3.71k | 19 | google/paligemma2-10b-mix-448Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-10b-mix-448) |
+| 1.49k | 17 | google/paligemma2-3b-mix-224Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-3b-mix-224) |
+| 296 | 14 | Fancy-MLLM/R1-Onevision-7BImage-Text-to-Text | Updatedabout 12 hours ago | [Link](https://huggingface.co/Fancy-MLLM/R1-Onevision-7B) |
+| 185 | 10 | prithivMLmods/Tokenized-OCRImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/prithivMLmods/Tokenized-OCR) |
+| 2.72k | 1.62k | microsoft/OmniParserImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/microsoft/OmniParser) |
+| 100k | 1.4k | stepfun-ai/GOT-OCR2_0Image-Text-to-Text | Updated21 days ago | [Link](https://huggingface.co/stepfun-ai/GOT-OCR2_0) |
+| 1.78M | 1.42k | microsoft/Florence-2-largeImage-Text-to-Text | UpdatedDec 8, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-large) |
+| 1.07M |  | meta-llama/Llama-3 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) |
+| 1.49M |  | Qwen/Qwen2-VL-7B-InstructImage-Text-to-Text | Updated19 days ago | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) |
+
+## Image-to-3D
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 64.2k | 991 | tencent/Hunyuan3D-2Image-to-3D | Updated22 days ago | [Link](https://huggingface.co/tencent/Hunyuan3D-2) |
+| 4.02k | 589 | stabilityai/stable-fast-3dImage-to-3D | UpdatedJan 3 | [Link](https://huggingface.co/stabilityai/stable-fast-3d) |
+| 30.8k | 523 | stabilityai/TripoSRImage-to-3D | UpdatedAug 9, 2024 | [Link](https://huggingface.co/stabilityai/TripoSR) |
+| 786k | 386 | JeffreyXiang/TRELLIS-image-largeImage-to-3D | UpdatedDec 6, 2024 | [Link](https://huggingface.co/JeffreyXiang/TRELLIS-image-large) |
+| 65k | 273 | TencentARC/InstantMeshImage-to-3D | UpdatedApr 11, 2024 | [Link](https://huggingface.co/TencentARC/InstantMesh) |
+| 7.99k | 248 | stabilityai/stable-point-aware-3dImage-to-3D | UpdatedJan 16 | [Link](https://huggingface.co/stabilityai/stable-point-aware-3d) |
+| 115 | 66 | facebook/vfusion3dImage-to-3D | UpdatedAug 13, 2024 | [Link](https://huggingface.co/facebook/vfusion3d) |
+| 12 | 19 | hwjiang/Real3DImage-to-3D | UpdatedJun 14, 2024 | [Link](https://huggingface.co/hwjiang/Real3D) |
+| 531 | 15 | Yiwen-ntu/MeshAnythingV2Image-to-3D | UpdatedAug 11, 2024 | [Link](https://huggingface.co/Yiwen-ntu/MeshAnythingV2) |
+| 6 | 14 | heye0507/LucidFusionImage-to-3D | UpdatedNov 7, 2024 | [Link](https://huggingface.co/heye0507/LucidFusion) |
+| 38.5k | 12 | naver/DUSt3R_ViTLarge_BaseDecoder_512_dptImage-to-3D | UpdatedJul 12, 2024 | [Link](https://huggingface.co/naver/DUSt3R_ViTLarge_BaseDecoder_512_dpt) |
+| 130 | 11 | craftsman3d/craftsmanImage-to-3D | UpdatedNov 25, 2024 | [Link](https://huggingface.co/craftsman3d/craftsman) |
+| 26 | 10 | cocktailpeanut/sf3dImage-to-3D | UpdatedAug 1, 2024 | [Link](https://huggingface.co/cocktailpeanut/sf3d) |
+| 141 | 7 | TencentARC/NVComposerImage-to-3D | UpdatedDec 16, 2024 | [Link](https://huggingface.co/TencentARC/NVComposer) |
+| 13 | 6 | zxhezexin/openlrm-small-obj-1 | UpdatedJan 9, 2024 | [Link](https://huggingface.co/zxhezexin/openlrm-small-obj-1.0) |
+| 35 | Unknown | Peng-Wang/ImageDreamImage-to-3D | UpdatedApr 5, 2024 | [Link](https://huggingface.co/Peng-Wang/ImageDream) |
+| 43 | Unknown | FrozenBurning/SceneDreamerImage-to-3D | UpdatedNov 30, 2023 | [Link](https://huggingface.co/FrozenBurning/SceneDreamer) |
+| 12 | Unknown | dylanebert/En3D-human-animationImage-to-3D | UpdatedJan 15, 2024 | [Link](https://huggingface.co/dylanebert/En3D-human-animation) |
+| 81 | Unknown | VAST-AI/TriplaneGaussianImage-to-3D | UpdatedJan 18, 2024 | [Link](https://huggingface.co/VAST-AI/TriplaneGaussian) |
+| 52 | Unknown | Zhengyi/CRMImage-to-3D | UpdatedMar 11, 2024 | [Link](https://huggingface.co/Zhengyi/CRM) |
+| 9 | Unknown | pkunliu/Isotropic3DImage-to-3D | UpdatedMar 19, 2024 | [Link](https://huggingface.co/pkunliu/Isotropic3D) |
+| 23 | Unknown | zjpshadow/CharacterGenImage-to-3D | UpdatedMay 30, 2024 | [Link](https://huggingface.co/zjpshadow/CharacterGen) |
+| 4 | Unknown | ADSKAILab/Make-A-Shape-single-view-20mImage-to-3D | UpdatedNov 14, 2024 | [Link](https://huggingface.co/ADSKAILab/Make-A-Shape-single-view-20m) |
+| 57 | Unknown | wenqsun/DimensionXImage-to-3D | UpdatedNov 15, 2024 | [Link](https://huggingface.co/wenqsun/DimensionX) |
+| 4 | Unknown | TencentARC/FreeSplatterImage-to-3D | UpdatedDec 19, 2024 | [Link](https://huggingface.co/TencentARC/FreeSplatter) |
+| 5 | Unknown | Andyx/TEXGenImage-to-3D | UpdatedDec 24, 2024 | [Link](https://huggingface.co/Andyx/TEXGen) |
+| 7 | Unknown | Zhenggang/MV-DUSt3RImage-to-3D | UpdatedJan 11 | [Link](https://huggingface.co/Zhenggang/MV-DUSt3R) |
+| 1 | Unknown | AntResearch/FLAREImage-to-3D | Updated4 days ago | [Link](https://huggingface.co/AntResearch/FLARE) |
+| 19 | Unknown | cvlab/zero123-weightsImage-to-3D | UpdatedSep 5, 2024 | [Link](https://huggingface.co/cvlab/zero123-weights) |
+| 2 | Unknown | Rompo/RompovImage-to-3D | UpdatedDec 8, 2023 | [Link](https://huggingface.co/Rompo/Rompov) |
+
+## Image-to-Image
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 11.6k | 607 | jasperai/Flux | UpdatedSep 30, 2024 | [Link](https://huggingface.co/jasperai/Flux.1-dev-Controlnet-Upscaler) |
+| 129k | 550 | yisol/IDM-VTONImage-to-Image | UpdatedApr 22, 2024 | [Link](https://huggingface.co/yisol/IDM-VTON) |
+| 169k | 534 | stabilityai/stable-diffusion-2-inpaintingImage-to-Image | UpdatedJul 5, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-2-inpainting) |
+| 13.9k | 205 | XLabs-AI/flux-ip-adapter-v2Image-to-Image | UpdatedOct 24, 2024 | [Link](https://huggingface.co/XLabs-AI/flux-ip-adapter-v2) |
+| 8.65k | 135 | lllyasviel/sd-controlnet-openposeImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-openpose) |
+| 14.4k | 124 | Yuanshi/OminiControlImage-to-Image | UpdatedDec 10, 2024 | [Link](https://huggingface.co/Yuanshi/OminiControl) |
+| 15.3k | 109 | lllyasviel/control_v11p_sd15_openposeImage-to-Image | UpdatedAug 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_openpose) |
+| 378 | 74 | instruction-tuning-sd/cartoonizerImage-to-Image | UpdatedMay 13, 2023 | [Link](https://huggingface.co/instruction-tuning-sd/cartoonizer) |
+| 95 | 65 | rsortino/ColorizeNetImage-to-Image | UpdatedJul 31, 2023 | [Link](https://huggingface.co/rsortino/ColorizeNet) |
+| 1.17k | 44 | lllyasviel/sd-controlnet-mlsdImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-mlsd) |
+| 102 | 34 | keras-io/lowlight-enhance-mirnetImage-to-Image | UpdatedJul 5, 2024 | [Link](https://huggingface.co/keras-io/lowlight-enhance-mirnet) |
+| 8.66k | 33 | caidas/swin2SR-classical-sr-x2-64Image-to-Image | UpdatedMar 27, 2024 | [Link](https://huggingface.co/caidas/swin2SR-classical-sr-x2-64) |
+| 303 | 30 | lllyasviel/sd-controlnet-normalImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-normal) |
+| 298 | 29 | ixarchakos/tryOffAnyoneImage-to-Image | UpdatedDec 13, 2024 | [Link](https://huggingface.co/ixarchakos/tryOffAnyone) |
+| 1.87k | 28 | lllyasviel/sd-controlnet-hedImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-hed) |
+| 37.8k | 16 | caidas/swin2SR-realworld-sr-x4-64-bsrgan-psnrImage-to-Image | UpdatedJan 21, 2023 | [Link](https://huggingface.co/caidas/swin2SR-realworld-sr-x4-64-bsrgan-psnr) |
+| 1.03k | 11 | xiaozaa/cat-tryoff-fluxImage-to-Image | UpdatedDec 6, 2024 | [Link](https://huggingface.co/xiaozaa/cat-tryoff-flux) |
+| 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
+| 12 | 1 | Jorgvt/CycleGAN_GTA_REALImage-to-Image | UpdatedJul 11, 2024 | [Link](https://huggingface.co/Jorgvt/CycleGAN_GTA_REAL) |
+| 1.54M |  | stabilityai/stable-diffusion-xl-refiner-1 | UpdatedSep 25, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0) |
+| 76.7k |  | timbrooks/instruct-pix2pixImage-to-Image | UpdatedJul 5, 2023 | [Link](https://huggingface.co/timbrooks/instruct-pix2pix) |
+| 281k |  | lllyasviel/sd-controlnet-cannyImage-to-Image | UpdatedMay 1, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-canny) |
+| 25 | Unknown | OAOA/InvSRImage-to-Image | UpdatedJan 7 | [Link](https://huggingface.co/OAOA/InvSR) |
+| 56.4k |  | lambdalabs/sd-image-variations-diffusersImage-to-Image | UpdatedFeb 8, 2023 | [Link](https://huggingface.co/lambdalabs/sd-image-variations-diffusers) |
+| 58.4k |  | lllyasviel/sd-controlnet-depthImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-depth) |
+| 62 | Unknown | akiyamasho/AnimeBackgroundGAN-ShinkaiImage-to-Image | UpdatedApr 5, 2022 | [Link](https://huggingface.co/akiyamasho/AnimeBackgroundGAN-Shinkai) |
+| 64 | Unknown | lambdalabs/stable-diffusion-image-conditionedImage-to-Image | UpdatedSep 16, 2022 | [Link](https://huggingface.co/lambdalabs/stable-diffusion-image-conditioned) |
+| 20 | Unknown | google/maxim-s3-deblurring-goproImage-to-Image | UpdatedOct 31, 2022 | [Link](https://huggingface.co/google/maxim-s3-deblurring-gopro) |
+| 17 | Unknown | google/maxim-s2-enhancement-lolImage-to-Image | UpdatedOct 31, 2022 | [Link](https://huggingface.co/google/maxim-s2-enhancement-lol) |
+
+## Image-to-Text
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 7.46k | 213 | xtuner/llava-llama-3-8b-v1_1-ggufImage-to-Text | UpdatedApr 30, 2024 | [Link](https://huggingface.co/xtuner/llava-llama-3-8b-v1_1-gguf) |
+| 131 | 71 | keras-io/ocr-for-captchaImage-to-Text | UpdatedMay 29, 2022 | [Link](https://huggingface.co/keras-io/ocr-for-captcha) |
+| 8.31k | 64 | alibaba-damo/mgp-str-baseImage-to-Text | UpdatedDec 11, 2023 | [Link](https://huggingface.co/alibaba-damo/mgp-str-base) |
+| 6.34k | 32 | thwri/CogFlorence-2 | UpdatedSep 28, 2024 | [Link](https://huggingface.co/thwri/CogFlorence-2.2-Large) |
+| 637 | 31 | U4R/StructTable-InternVL2-1BImage-to-Text | UpdatedDec 12, 2024 | [Link](https://huggingface.co/U4R/StructTable-InternVL2-1B) |
+| 290 | 26 | paragon-AI/blip2-image-to-textImage-to-Text | UpdatedJun 24, 2023 | [Link](https://huggingface.co/paragon-AI/blip2-image-to-text) |
+| 7.18k | 25 | ddobokki/ko-trocrImage-to-Text | UpdatedOct 22, 2024 | [Link](https://huggingface.co/ddobokki/ko-trocr) |
+| 225 | 15 | DunnBC22/trocr-base-handwritten-OCR-handwriting_recognition_v2Image-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-base-handwritten-OCR-handwriting_recognition_v2) |
+| 658 | 11 | prithivMLmods/Florence-2-VLM-Doc-VQAImage-to-Text | UpdatedOct 26, 2024 | [Link](https://huggingface.co/prithivMLmods/Florence-2-VLM-Doc-VQA) |
+| 68 | 10 | Flova/omr_transformerImage-to-Text | UpdatedOct 5, 2023 | [Link](https://huggingface.co/Flova/omr_transformer) |
+| 452 | 8 | nathansutton/generate-cxrImage-to-Text | UpdatedFeb 23, 2024 | [Link](https://huggingface.co/nathansutton/generate-cxr) |
+| 51 | 2 | microsoft/git-base-msrvtt-qaImage-to-Text | UpdatedApr 4, 2024 | [Link](https://huggingface.co/microsoft/git-base-msrvtt-qa) |
+| 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
+| 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
+| 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
+| 494k |  | microsoft/git-baseImage-to-Text | UpdatedApr 24, 2023 | [Link](https://huggingface.co/microsoft/git-base) |
+| 1.14M |  | Salesforce/blip-image-captioning-largeImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-large) |
+| 112k |  | kha-white/manga-ocr-baseImage-to-Text | UpdatedJun 22, 2022 | [Link](https://huggingface.co/kha-white/manga-ocr-base) |
+| 88.6k |  | microsoft/trocr-base-printedImage-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-base-printed) |
+| 118k |  | microsoft/trocr-large-handwrittenImage-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-large-handwritten) |
+| 384k |  | microsoft/trocr-large-printedImage-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-large-printed) |
+| 3.77k |  | microsoft/trocr-large-stage1Image-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-large-stage1) |
+| 453k |  | microsoft/trocr-small-handwrittenImage-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-small-handwritten) |
+| 1.81M |  | nlpconnect/vit-gpt2-image-captioningImage-to-Text | UpdatedFeb 27, 2023 | [Link](https://huggingface.co/nlpconnect/vit-gpt2-image-captioning) |
+| 24.8k |  | naver-clova-ix/donut-base-finetuned-cord-v2Image-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base-finetuned-cord-v2) |
+| 8 | Unknown | florentgbelidji/blip_captioningImage-to-Text | UpdatedJun 27, 2023 | [Link](https://huggingface.co/florentgbelidji/blip_captioning) |
+| 2.14k |  | jinhybr/OCR-Donut-CORDImage-to-Text | UpdatedNov 5, 2022 | [Link](https://huggingface.co/jinhybr/OCR-Donut-CORD) |
+| 66.6k |  | microsoft/git-base-cocoImage-to-Text | UpdatedFeb 8, 2023 | [Link](https://huggingface.co/microsoft/git-base-coco) |
+| 22.6k |  | microsoft/git-large-cocoImage-to-Text | UpdatedJun 26, 2023 | [Link](https://huggingface.co/microsoft/git-large-coco) |
+| 3.91k |  | google/pix2struct-baseImage-to-Text | UpdatedDec 24, 2023 | [Link](https://huggingface.co/google/pix2struct-base) |
+
+## Image-to-Video
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 334k | 995 | Lightricks/LTX-VideoImage-to-Video | Updated21 days ago | [Link](https://huggingface.co/Lightricks/LTX-Video) |
+| 71.7k | 887 | stabilityai/stable-video-diffusion-img2vidImage-to-Video | UpdatedJul 10, 2024 | [Link](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid) |
+| 123k | 858 | stabilityai/stable-video-diffusion-img2vid-xt-1-1Image-to-Video | UpdatedJul 10, 2024 | [Link](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt-1-1) |
+| 2.81k | 596 | IamCreateAI/Ruyi-Mini-7BImage-to-Video | UpdatedDec 25, 2024 | [Link](https://huggingface.co/IamCreateAI/Ruyi-Mini-7B) |
+| 113k | 272 | THUDM/CogVideoX-5b-I2VImage-to-Video | UpdatedNov 23, 2024 | [Link](https://huggingface.co/THUDM/CogVideoX-5b-I2V) |
+| 24.1k | 214 | Skywork/SkyReels-V1-Hunyuan-I2VImage-to-Video | Updatedabout 21 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-I2V) |
+| 21.5k | 95 | THUDM/CogVideoX1 | UpdatedNov 20, 2024 | [Link](https://huggingface.co/THUDM/CogVideoX1.5-5B-I2V) |
+| 312 | 75 | NimVideo/cogvideox-2b-img2vidImage-to-Video | UpdatedOct 28, 2024 | [Link](https://huggingface.co/NimVideo/cogvideox-2b-img2vid) |
+| 120 | 55 | rhymes-ai/Allegro-TI2VImage-to-Video | UpdatedNov 26, 2024 | [Link](https://huggingface.co/rhymes-ai/Allegro-TI2V) |
+| 436 | 40 | Skywork/SkyReels-A1Image-to-Video | Updatedabout 22 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-A1) |
+| 115 | 33 | jdh-algo/JoyVASAImage-to-Video | UpdatedJan 13 | [Link](https://huggingface.co/jdh-algo/JoyVASA) |
+| 13.8k | 28 | vdo/stable-video-diffusion-img2vid-xt-1-1Image-to-Video | UpdatedFeb 5, 2024 | [Link](https://huggingface.co/vdo/stable-video-diffusion-img2vid-xt-1-1) |
+| 427 | 27 | BestWishYsh/ConsisID-previewImage-to-Video | UpdatedJan 19 | [Link](https://huggingface.co/BestWishYsh/ConsisID-preview) |
+| 259 | 24 | alibaba-pai/CogVideoX-Fun-5b-InPImage-to-Video | UpdatedSep 23, 2024 | [Link](https://huggingface.co/alibaba-pai/CogVideoX-Fun-5b-InP) |
+| 16 | 5 | chenguolin/sv3d-diffusersImage-to-Video | UpdatedOct 16, 2024 | [Link](https://huggingface.co/chenguolin/sv3d-diffusers) |
+| 600k | 2.91k | stabilityai/stable-video-diffusion-img2vid-xtImage-to-Video | UpdatedJul 10, 2024 | [Link](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt) |
+| 696 | Unknown | stabilityai/sv3dImage-to-Video | UpdatedJul 10, 2024 | [Link](https://huggingface.co/stabilityai/sv3d) |
+| 1 | Unknown | Latinos/TH3BULLImage-to-Video | UpdatedDec 20, 2023 | [Link](https://huggingface.co/Latinos/TH3BULL) |
+| 11 | Unknown | zyand/animate-anything-v1 | UpdatedDec 22, 2023 | [Link](https://huggingface.co/zyand/animate-anything-v1.02) |
+| 76 | Unknown | wangfuyun/AnimateLCM-I2VImage-to-Video | UpdatedOct 16, 2024 | [Link](https://huggingface.co/wangfuyun/AnimateLCM-I2V) |
+| 14 | Unknown | stabilityai/stable-video-diffusion-img2vid-xt-1-1-tensorrtImage-to-Video | UpdatedMar 15, 2024 | [Link](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt-1-1-tensorrt) |
+| 27 | Unknown | OpenDriveLab/VistaImage-to-Video | UpdatedJun 7, 2024 | [Link](https://huggingface.co/OpenDriveLab/Vista) |
+| 2 | Unknown | Lixiaoming/Animate-Your-MotionImage-to-Video | UpdatedOct 28, 2024 | [Link](https://huggingface.co/Lixiaoming/Animate-Your-Motion) |
+| 17 | Unknown | qihoo360/FancyVideoImage-to-Video | UpdatedOct 10, 2024 | [Link](https://huggingface.co/qihoo360/FancyVideo) |
+| 58 | Unknown | FrancisRing/StableAnimatorImage-to-Video | UpdatedJan 2 | [Link](https://huggingface.co/FrancisRing/StableAnimator) |
+| 54 | Unknown | fudan-generative-ai/hallo3Image-to-Video | UpdatedJan 20 | [Link](https://huggingface.co/fudan-generative-ai/hallo3) |
+| 16 | Unknown | MayensGuds/ltx-video-quantsImage-to-Video | UpdatedNov 28, 2024 | [Link](https://huggingface.co/MayensGuds/ltx-video-quants) |
+| 8 | Unknown | turing-motors/TerraImage-to-Video | UpdatedDec 23, 2024 | [Link](https://huggingface.co/turing-motors/Terra) |
+
+## Keypoint Detection
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 2.84k | 10 | usyd-community/vitpose-plus-baseKeypoint | UpdatedJan 8 | [Link](https://huggingface.co/usyd-community/vitpose-plus-base) |
+| 497k | 9 | usyd-community/vitpose-base-simpleKeypoint | UpdatedJan 8 | [Link](https://huggingface.co/usyd-community/vitpose-base-simple) |
+| 796 | 9 | usyd-community/vitpose-baseKeypoint | UpdatedJan 8 | [Link](https://huggingface.co/usyd-community/vitpose-base) |
+| 24.5k | 8 | magic-leap-community/superpointKeypoint | UpdatedJan 1 | [Link](https://huggingface.co/magic-leap-community/superpoint) |
+| 1.34k | 5 | facebook/sapiens-pose-1b-torchscriptKeypoint | UpdatedOct 7, 2024 | [Link](https://huggingface.co/facebook/sapiens-pose-1b-torchscript) |
+| 9.1k | 3 | usyd-community/vitpose-plus-hugeKeypoint | UpdatedJan 12 | [Link](https://huggingface.co/usyd-community/vitpose-plus-huge) |
+| 21 | 2 | onnx-community/vitpose-base-simpleKeypoint | UpdatedNov 19, 2024 | [Link](https://huggingface.co/onnx-community/vitpose-base-simple) |
+| 414 | 1 | usyd-community/vitpose-base-coco-aic-mpiiKeypoint | UpdatedJan 8 | [Link](https://huggingface.co/usyd-community/vitpose-base-coco-aic-mpii) |
+| 51.3k | 1 | usyd-community/vitpose-plus-smallKeypoint | UpdatedJan 12 | [Link](https://huggingface.co/usyd-community/vitpose-plus-small) |
+| 189 | 1 | stevenbucaille/superpointKeypoint | UpdatedSep 5, 2024 | [Link](https://huggingface.co/stevenbucaille/superpoint) |
+| 68 | 1 | ufdatastudio/vit-poseKeypoint | UpdatedSep 27, 2024 | [Link](https://huggingface.co/ufdatastudio/vit-pose) |
+| 95 | 1 | nielsr/vitpose-base-simpleKeypoint | UpdatedAug 28, 2024 | [Link](https://huggingface.co/nielsr/vitpose-base-simple) |
+| 54 | Unknown | qualcomm/MediaPipe-Pose-EstimationKeypoint | Updated10 days ago | [Link](https://huggingface.co/qualcomm/MediaPipe-Pose-Estimation) |
+| 15 | Unknown | mwmathis/DeepLabCutModelZoo-SuperAnimal-QuadrupedKeypoint | UpdatedOct 10, 2024 | [Link](https://huggingface.co/mwmathis/DeepLabCutModelZoo-SuperAnimal-Quadruped) |
+| 8 | Unknown | qualcomm/OpenPoseKeypoint | Updated10 days ago | [Link](https://huggingface.co/qualcomm/OpenPose) |
+| 1 | Unknown | STMicroelectronics/yolov8n_poseKeypoint | UpdatedDec 4, 2024 | [Link](https://huggingface.co/STMicroelectronics/yolov8n_pose) |
+| 8 | Unknown | public-data/ViTPoseKeypoint | UpdatedAug 27, 2024 | [Link](https://huggingface.co/public-data/ViTPose) |
+| Unknown | Unknown | mwmathis/DeepLabCutModelZoo-horse_sideviewKeypoint | UpdatedOct 10, 2024 | [Link](https://huggingface.co/mwmathis/DeepLabCutModelZoo-horse_sideview) |
+| 1 | Unknown | mwmathis/DeepLabCutModelZoo-primate_faceKeypoint | UpdatedOct 10, 2024 | [Link](https://huggingface.co/mwmathis/DeepLabCutModelZoo-primate_face) |
+| Unknown | Unknown | mwmathis/DeepLabCutModelZoo-macaque_fullKeypoint | UpdatedOct 10, 2024 | [Link](https://huggingface.co/mwmathis/DeepLabCutModelZoo-macaque_full) |
+| Unknown | Unknown | mwmathis/DeepLabCutModelZoo-mouse_pupil_vcloseKeypoint | UpdatedSep 20, 2024 | [Link](https://huggingface.co/mwmathis/DeepLabCutModelZoo-mouse_pupil_vclose) |
+| Unknown | Unknown | mwmathis/DeepLabCutModelZoo-DLC_human_fullbody_resnet_101Keypoint | UpdatedOct 10, 2024 | [Link](https://huggingface.co/mwmathis/DeepLabCutModelZoo-DLC_human_fullbody_resnet_101) |
+| 4 | Unknown | mwmathis/DeepLabCutModelZoo-SuperAnimal-TopViewMouseKeypoint | UpdatedOct 10, 2024 | [Link](https://huggingface.co/mwmathis/DeepLabCutModelZoo-SuperAnimal-TopViewMouse) |
+| 13 | Unknown | JunkyByte/easy_ViTPoseKeypoint | UpdatedAug 27, 2024 | [Link](https://huggingface.co/JunkyByte/easy_ViTPose) |
+| 76 | Unknown | shauray/ViTPoseKeypoint | UpdatedSep 2, 2024 | [Link](https://huggingface.co/shauray/ViTPose) |
+| 7 | Unknown | qualcomm/HRNetPoseKeypoint | Updated10 days ago | [Link](https://huggingface.co/qualcomm/HRNetPose) |
+| 7 | Unknown | qualcomm/LiteHRNetKeypoint | Updated10 days ago | [Link](https://huggingface.co/qualcomm/LiteHRNet) |
+| 1 | Unknown | qualcomm/HRNetPoseQuantizedKeypoint | Updated10 days ago | [Link](https://huggingface.co/qualcomm/HRNetPoseQuantized) |
+| 50 | Unknown | nielsr/vitpose_baseKeypoint | UpdatedAug 29, 2024 | [Link](https://huggingface.co/nielsr/vitpose_base) |
+| 3 | Unknown | qualcomm/Posenet-MobilenetKeypoint | Updated10 days ago | [Link](https://huggingface.co/qualcomm/Posenet-Mobilenet) |
+
+## Mask Generation
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 260k | 148 | facebook/sam-vit-hugeMask | UpdatedJan 11, 2024 | [Link](https://huggingface.co/facebook/sam-vit-huge) |
+| 675k | 126 | facebook/sam-vit-baseMask | UpdatedJan 11, 2024 | [Link](https://huggingface.co/facebook/sam-vit-base) |
+| 8.14k | 107 | finegrain/finegrain-box-segmenterMask | UpdatedSep 11, 2024 | [Link](https://huggingface.co/finegrain/finegrain-box-segmenter) |
+| 715k | 68 | facebook/sam2 | UpdatedSep 24, 2024 | [Link](https://huggingface.co/facebook/sam2.1-hiera-large) |
+| 252k | 64 | facebook/sam2-hiera-largeMask | UpdatedAug 15, 2024 | [Link](https://huggingface.co/facebook/sam2-hiera-large) |
+| 205k | 28 | facebook/sam-vit-largeMask | UpdatedJan 11, 2024 | [Link](https://huggingface.co/facebook/sam-vit-large) |
+| 25 | 25 | apple/coreml-sam2-largeMask | UpdatedSep 13, 2024 | [Link](https://huggingface.co/apple/coreml-sam2-large) |
+| 2.04k | 22 | wanglab/medsam-vit-baseMask | UpdatedMay 3, 2023 | [Link](https://huggingface.co/wanglab/medsam-vit-base) |
+| 61.5k | 19 | facebook/sam2-hiera-tinyMask | UpdatedAug 15, 2024 | [Link](https://huggingface.co/facebook/sam2-hiera-tiny) |
+| 100 | 17 | apple/coreml-sam2 | UpdatedOct 1, 2024 | [Link](https://huggingface.co/apple/coreml-sam2.1-large) |
+| 21 | 15 | apple/coreml-sam2-tinyMask | UpdatedSep 12, 2024 | [Link](https://huggingface.co/apple/coreml-sam2-tiny) |
+| 9k | 14 | Xenova/slimsam-77-uniformMask | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Xenova/slimsam-77-uniform) |
+| 82 | 5 | nielsr/mobilesamMask | UpdatedApr 9, 2024 | [Link](https://huggingface.co/nielsr/mobilesam) |
+| 62.4k | 4 | jadechoghari/robustsam-vit-largeMask | UpdatedAug 16, 2024 | [Link](https://huggingface.co/jadechoghari/robustsam-vit-large) |
+| 36 | 1 | ahishamm/skinsamMask | UpdatedNov 27, 2024 | [Link](https://huggingface.co/ahishamm/skinsam) |
+| 153 | 1 | ductai199x/sam_hq_vit_largeMask | UpdatedJul 2, 2024 | [Link](https://huggingface.co/ductai199x/sam_hq_vit_large) |
+| 11 | 1 | weihao1115/wmmf_sam_on_sarMask | UpdatedSep 9, 2024 | [Link](https://huggingface.co/weihao1115/wmmf_sam_on_sar) |
+| 23.8k | 1 | fxmarty/sam-vit-tiny-randomMask | UpdatedApr 20, 2023 | [Link](https://huggingface.co/fxmarty/sam-vit-tiny-random) |
+| 146 | 1 | masapasa/breast-cancer-segmentationMask | UpdatedMay 12, 2023 | [Link](https://huggingface.co/masapasa/breast-cancer-segmentation) |
+| 38 | Unknown | mit-han-lab/efficientvit-samMask | UpdatedJan 6 | [Link](https://huggingface.co/mit-han-lab/efficientvit-sam) |
+| 5 | Unknown | merve/EfficientSAMMask | UpdatedJan 29, 2024 | [Link](https://huggingface.co/merve/EfficientSAM) |
+| 2 | Unknown | g-ronimo/sam2-tinyMask | Updated30 days ago | [Link](https://huggingface.co/g-ronimo/sam2-tiny) |
+| 5 | Unknown | cmhong68/medSAM_skinMask | UpdatedMay 3, 2023 | [Link](https://huggingface.co/cmhong68/medSAM_skin) |
+| 69 | Unknown | Xenova/sam-vit-baseMask | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Xenova/sam-vit-base) |
+| 142 | Unknown | masapasa/medsam-vit-base-cancerMask | UpdatedMay 12, 2023 | [Link](https://huggingface.co/masapasa/medsam-vit-base-cancer) |
+| 143 | Unknown | h2thez3/sam_busiMask | UpdatedMay 28, 2023 | [Link](https://huggingface.co/h2thez3/sam_busi) |
+| 9 | Unknown | Xenova/sam-vit-largeMask | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Xenova/sam-vit-large) |
+
+## Object Detection
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 25.8k | 268 | foduucom/stockmarket-pattern-detection-yolov8Object | Updated29 days ago | [Link](https://huggingface.co/foduucom/stockmarket-pattern-detection-yolov8) |
+| 38.9k | 176 | Ultralytics/YOLOv8Object | UpdatedJan 11 | [Link](https://huggingface.co/Ultralytics/YOLOv8) |
+| 1.28k | 135 | foduucom/stockmarket-future-predictionObject | UpdatedOct 7, 2023 | [Link](https://huggingface.co/foduucom/stockmarket-future-prediction) |
+| 44.2k | 78 | foduucom/table-detection-and-extractionObject | UpdatedAug 6, 2023 | [Link](https://huggingface.co/foduucom/table-detection-and-extraction) |
+| 557k | 57 | TahaDouaji/detr-doc-table-detectionObject | UpdatedDec 6, 2024 | [Link](https://huggingface.co/TahaDouaji/detr-doc-table-detection) |
+| 32.9k | 47 | keremberke/yolov5m-license-plateObject | UpdatedJan 1, 2023 | [Link](https://huggingface.co/keremberke/yolov5m-license-plate) |
+| 675 | 47 | ultralyticsplus/yolov8sObject | UpdatedJan 31, 2024 | [Link](https://huggingface.co/ultralyticsplus/yolov8s) |
+| 9.29k | 38 | keremberke/yolov8m-table-extractionObject | UpdatedMay 23, 2024 | [Link](https://huggingface.co/keremberke/yolov8m-table-extraction) |
+| 29.5k | 33 | Anzhc/Anzhcs_YOLOsObject | Updated7 days ago | [Link](https://huggingface.co/Anzhc/Anzhcs_YOLOs) |
+| 352 | 17 | keremberke/yolov5n-construction-safetyObject | UpdatedDec 30, 2022 | [Link](https://huggingface.co/keremberke/yolov5n-construction-safety) |
+| 352 | 16 | keremberke/yolov5m-smokeObject | UpdatedJan 5, 2023 | [Link](https://huggingface.co/keremberke/yolov5m-smoke) |
+| 557 | 11 | keremberke/yolov5m-garbageObject | UpdatedJan 5, 2023 | [Link](https://huggingface.co/keremberke/yolov5m-garbage) |
+| 9.77k | 9 | microsoft/conditional-detr-resnet-50Object | UpdatedMay 8, 2024 | [Link](https://huggingface.co/microsoft/conditional-detr-resnet-50) |
+| 547 | 7 | tech4humans/yolov8s-signature-detectorObject | Updated16 days ago | [Link](https://huggingface.co/tech4humans/yolov8s-signature-detector) |
+| 345 | 7 | keremberke/yolov5s-license-plateObject | UpdatedJan 1, 2023 | [Link](https://huggingface.co/keremberke/yolov5s-license-plate) |
+| 91 | 6 | biglam/detr-resnet-50_fine_tuned_nls_chapbooksObject | UpdatedSep 19, 2023 | [Link](https://huggingface.co/biglam/detr-resnet-50_fine_tuned_nls_chapbooks) |
+| 285 | 5 | keremberke/yolov5n-garbageObject | UpdatedJan 5, 2023 | [Link](https://huggingface.co/keremberke/yolov5n-garbage) |
+| 392 | 4 | keremberke/yolov5n-footballObject | UpdatedDec 30, 2022 | [Link](https://huggingface.co/keremberke/yolov5n-football) |
+| 528 | 3 | keremberke/yolov5s-construction-safetyObject | UpdatedDec 30, 2022 | [Link](https://huggingface.co/keremberke/yolov5s-construction-safety) |
+| 288 | 3 | keremberke/yolov5s-smokeObject | UpdatedJan 4, 2023 | [Link](https://huggingface.co/keremberke/yolov5s-smoke) |
+| 321 | 2 | keremberke/yolov5n-aerial-sheepObject | UpdatedJan 5, 2023 | [Link](https://huggingface.co/keremberke/yolov5n-aerial-sheep) |
+| 588k |  | facebook/detr-resnet-50Object | UpdatedApr 10, 2024 | [Link](https://huggingface.co/facebook/detr-resnet-50) |
+| 5.01M |  | microsoft/table-transformer-detectionObject | UpdatedSep 6, 2023 | [Link](https://huggingface.co/microsoft/table-transformer-detection) |
+| 67 | Unknown | arnabdhar/YOLOv8-Face-DetectionObject | UpdatedFeb 20, 2024 | [Link](https://huggingface.co/arnabdhar/YOLOv8-Face-Detection) |
+| 2 | Unknown | nielsr/yolov12nObject | Updated4 days ago | [Link](https://huggingface.co/nielsr/yolov12n) |
+| 242k |  | facebook/detr-resnet-101Object | UpdatedDec 14, 2023 | [Link](https://huggingface.co/facebook/detr-resnet-101) |
+| 180k |  | hustvl/yolos-tinyObject | UpdatedApr 10, 2024 | [Link](https://huggingface.co/hustvl/yolos-tiny) |
+| 2.3k |  | nickmuchi/yolos-small-finetuned-license-plate-detectionObject | UpdatedJan 10, 2023 | [Link](https://huggingface.co/nickmuchi/yolos-small-finetuned-license-plate-detection) |
+| 20.2k |  | valentinafeve/yolos-fashionpediaObject | UpdatedMar 10, 2023 | [Link](https://huggingface.co/valentinafeve/yolos-fashionpedia) |
+| 1 | Unknown | kadirnar/SORTObject | UpdatedJan 23, 2023 | [Link](https://huggingface.co/kadirnar/SORT) |
+
+## Question Answering
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 402 | 82 | luhua/chinese_pretrain_mrc_roberta_wwm_ext_largeQuestion | UpdatedJun 12, 2021 | [Link](https://huggingface.co/luhua/chinese_pretrain_mrc_roberta_wwm_ext_large) |
+| 422 | 42 | whyhow-ai/PatientSeekQuestion | Updated28 days ago | [Link](https://huggingface.co/whyhow-ai/PatientSeek) |
+| 2.25k | 36 | pierreguillou/bert-base-cased-squad-v1 | UpdatedJan 4, 2022 | [Link](https://huggingface.co/pierreguillou/bert-base-cased-squad-v1.1-portuguese) |
+| 133 | 26 | mrzlab630/lora-alpaca-trading-candlesQuestion | UpdatedJun 29, 2023 | [Link](https://huggingface.co/mrzlab630/lora-alpaca-trading-candles) |
+| 1.81k | 25 | deepset/gelectra-base-germanquadQuestion | UpdatedSep 26, 2024 | [Link](https://huggingface.co/deepset/gelectra-base-germanquad) |
+| 395 | 14 | mrm8488/bert-italian-finedtuned-squadv1-it-alfaQuestion | UpdatedMay 20, 2021 | [Link](https://huggingface.co/mrm8488/bert-italian-finedtuned-squadv1-it-alfa) |
+| 1.21k | 11 | mrm8488/bert-base-spanish-wwm-cased-finetuned-spa-squad2-esQuestion | UpdatedMay 20, 2021 | [Link](https://huggingface.co/mrm8488/bert-base-spanish-wwm-cased-finetuned-spa-squad2-es) |
+| 288 | 11 | wissamantoun/araelectra-base-artydiqaQuestion | UpdatedMar 20, 2023 | [Link](https://huggingface.co/wissamantoun/araelectra-base-artydiqa) |
+| 34.7k | 9 | SmallDoge/Doge-160M-InstructQuestion | Updated4 days ago | [Link](https://huggingface.co/SmallDoge/Doge-160M-Instruct) |
+| 1.27k | 8 | OzgurEnt/OZGURLUK-GPT-LinuxGeneralQuestion | UpdatedDec 16, 2024 | [Link](https://huggingface.co/OzgurEnt/OZGURLUK-GPT-LinuxGeneral) |
+| 1.56k | 7 | PlanTL-GOB-ES/roberta-large-bne-sqacQuestion | UpdatedNov 30, 2022 | [Link](https://huggingface.co/PlanTL-GOB-ES/roberta-large-bne-sqac) |
+| 1.79k | 5 | internlm/OREAL-32B-SFTQuestion | Updated1 day ago | [Link](https://huggingface.co/internlm/OREAL-32B-SFT) |
+| 205 | 4 | henryk/bert-base-multilingual-cased-finetuned-polish-squad1Question | UpdatedMay 19, 2021 | [Link](https://huggingface.co/henryk/bert-base-multilingual-cased-finetuned-polish-squad1) |
+| 257k | 4 | monologg/koelectra-small-v2-distilled-korquad-384Question | UpdatedJun 12, 2023 | [Link](https://huggingface.co/monologg/koelectra-small-v2-distilled-korquad-384) |
+| 4.46k | 2 | SmallDoge/Doge-160M-Reason-DistillQuestion | Updated5 days ago | [Link](https://huggingface.co/SmallDoge/Doge-160M-Reason-Distill) |
+| 133 | 1 | chieunq/xlm-r-base-uit-viquadQuestion | UpdatedDec 13, 2022 | [Link](https://huggingface.co/chieunq/xlm-r-base-uit-viquad) |
+| 4.98k |  | Intel/dynamic_tinybertQuestion | UpdatedMar 22, 2024 | [Link](https://huggingface.co/Intel/dynamic_tinybert) |
+| 170k |  | google-bert/bert-large-uncased-whole-word-masking-finetuned-squadQuestion | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/google-bert/bert-large-uncased-whole-word-masking-finetuned-squad) |
+| 459k |  | distilbert/distilbert-base-cased-distilled-squadQuestion | UpdatedMay 6, 2024 | [Link](https://huggingface.co/distilbert/distilbert-base-cased-distilled-squad) |
+| 207k |  | distilbert/distilbert-base-uncased-distilled-squadQuestion | UpdatedMay 6, 2024 | [Link](https://huggingface.co/distilbert/distilbert-base-uncased-distilled-squad) |
+| 1.39k |  | AlexKay/xlm-roberta-large-qa-multilingual-finedtuned-ruQuestion | UpdatedJul 19, 2022 | [Link](https://huggingface.co/AlexKay/xlm-roberta-large-qa-multilingual-finedtuned-ru) |
+| 27.5k |  | Rifky/Indobert-QAQuestion | UpdatedJan 16 | [Link](https://huggingface.co/Rifky/Indobert-QA) |
+| 1.85M |  | deepset/roberta-base-squad2Question | UpdatedSep 24, 2024 | [Link](https://huggingface.co/deepset/roberta-base-squad2) |
+| 44k |  | deepset/roberta-large-squad2Question | UpdatedSep 26, 2024 | [Link](https://huggingface.co/deepset/roberta-large-squad2) |
+| 22.2k |  | deepset/tinyroberta-squad2Question | UpdatedSep 26, 2024 | [Link](https://huggingface.co/deepset/tinyroberta-squad2) |
+| 61.5k |  | dmis-lab/biobert-large-cased-v1 | UpdatedJan 4, 2023 | [Link](https://huggingface.co/dmis-lab/biobert-large-cased-v1.1-squad) |
+| 717 |  | pierreguillou/bert-large-cased-squad-v1 | UpdatedJan 4, 2022 | [Link](https://huggingface.co/pierreguillou/bert-large-cased-squad-v1.1-portuguese) |
+| 924 |  | savasy/bert-base-turkish-squadQuestion | UpdatedFeb 1, 2024 | [Link](https://huggingface.co/savasy/bert-base-turkish-squad) |
+| 34.1k |  | timpal0l/mdeberta-v3-base-squad2Question | UpdatedNov 26, 2024 | [Link](https://huggingface.co/timpal0l/mdeberta-v3-base-squad2) |
+| 27 | Unknown | mmosiolek/polpaca-lora-7bQuestion | UpdatedNov 6, 2023 | [Link](https://huggingface.co/mmosiolek/polpaca-lora-7b) |
+
+## Reinforcement Learning
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 197k | 725 | ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4Reinforcement | Updated11 days ago | [Link](https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4) |
+| 35.2k | 193 | ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q4Reinforcement | Updated1 day ago | [Link](https://huggingface.co/ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q4) |
+| 69.7k | 181 | ValueFX9507/Tifa-Deepsex-14b-CoTReinforcement | Updated11 days ago | [Link](https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT) |
+| 245k | 148 | ValueFX9507/Tifa-Deepsex-14b-CoT-Q8Reinforcement | Updated11 days ago | [Link](https://huggingface.co/ValueFX9507/Tifa-Deepsex-14b-CoT-Q8) |
+| 772 | 92 | jat-project/jatReinforcement | UpdatedApr 29, 2024 | [Link](https://huggingface.co/jat-project/jat) |
+| 132k | 82 | ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q8Reinforcement | Updated1 day ago | [Link](https://huggingface.co/ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q8) |
+| 18.9k | 37 | ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-F16Reinforcement | Updated5 days ago | [Link](https://huggingface.co/ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-F16) |
+| 516 | 18 | edbeeching/decision-transformer-gym-hopper-expertReinforcement | UpdatedJun 29, 2022 | [Link](https://huggingface.co/edbeeching/decision-transformer-gym-hopper-expert) |
+| 969 | 14 | emredeveloper/DeepSeek-R1-Medical-COTReinforcement | Updated27 days ago | [Link](https://huggingface.co/emredeveloper/DeepSeek-R1-Medical-COT) |
+| 6 | 8 | ThomasSimonini/ML-Agents-SnowballFight-1vs1Reinforcement | UpdatedNov 30, 2021 | [Link](https://huggingface.co/ThomasSimonini/ML-Agents-SnowballFight-1vs1) |
+| 12k | 3 | tensorblock/Tifa-Deepsex-14b-CoT-GGUFReinforcement | Updated18 days ago | [Link](https://huggingface.co/tensorblock/Tifa-Deepsex-14b-CoT-GGUF) |
+| 26 | 2 | Gyaneshere/ppo-LunarLander-v2Reinforcement | Updated20 days ago | [Link](https://huggingface.co/Gyaneshere/ppo-LunarLander-v2) |
+| 3 | 2 | edbeeching/doom_health_gathering_supreme_2222Reinforcement | UpdatedOct 24, 2022 | [Link](https://huggingface.co/edbeeching/doom_health_gathering_supreme_2222) |
+| 17 | 2 | hishamcse/street-fighter-iii-ppo-diambraReinforcement | UpdatedAug 12, 2024 | [Link](https://huggingface.co/hishamcse/street-fighter-iii-ppo-diambra) |
+| 4 | 1 | ThomasSimonini/ppo-AntBulletEnv-v0Reinforcement | UpdatedApr 7, 2022 | [Link](https://huggingface.co/ThomasSimonini/ppo-AntBulletEnv-v0) |
+| 549 | 1 | sb3/sac-Humanoid-v3Reinforcement | UpdatedOct 11, 2022 | [Link](https://huggingface.co/sb3/sac-Humanoid-v3) |
+| 783 | 1 | sb3/dqn-SpaceInvadersNoFrameskip-v4Reinforcement | UpdatedOct 11, 2022 | [Link](https://huggingface.co/sb3/dqn-SpaceInvadersNoFrameskip-v4) |
+| 2 | 1 | Mahanthesh0r/BipedalWalker-RLReinforcement | UpdatedMay 20, 2024 | [Link](https://huggingface.co/Mahanthesh0r/BipedalWalker-RL) |
+| 19 | 1 | hishamcse/poca-SoccerTwosReinforcement | UpdatedAug 12, 2024 | [Link](https://huggingface.co/hishamcse/poca-SoccerTwos) |
+| 7 | 1 | hishamcse/mortal-kombat-3-ppo-diambraReinforcement | UpdatedAug 12, 2024 | [Link](https://huggingface.co/hishamcse/mortal-kombat-3-ppo-diambra) |
+| 9 | 1 | afedyanin/ppo-LunarLander-v2Reinforcement | UpdatedJan 18 | [Link](https://huggingface.co/afedyanin/ppo-LunarLander-v2) |
+| 2 | Unknown | edbeeching/decision_transformer_atariReinforcement | UpdatedFeb 21, 2022 | [Link](https://huggingface.co/edbeeching/decision_transformer_atari) |
+| 7 | Unknown | unity/ML-Agents-WalkerReinforcement | UpdatedJun 22, 2022 | [Link](https://huggingface.co/unity/ML-Agents-Walker) |
+| 25 | Unknown | Cainiao-AI/GreedRLReinforcement | UpdatedMay 4, 2023 | [Link](https://huggingface.co/Cainiao-AI/GreedRL) |
+| 2 | Unknown | Elysr/TrialMatchLLMReinforcement | UpdatedMar 31, 2024 | [Link](https://huggingface.co/Elysr/TrialMatchLLM) |
+| 1 | Unknown | hishamcse/doom_deathmatch_botsReinforcement | UpdatedAug 12, 2024 | [Link](https://huggingface.co/hishamcse/doom_deathmatch_bots) |
+| 1 | Unknown | hishamcse/RND-SuperMarioBros-v0Reinforcement | UpdatedAug 12, 2024 | [Link](https://huggingface.co/hishamcse/RND-SuperMarioBros-v0) |
+| 24 | Unknown | eloialonso/diamondReinforcement | UpdatedOct 21, 2024 | [Link](https://huggingface.co/eloialonso/diamond) |
+| 1 | Unknown | afedyanin/q-FrozenLake-v1-4x4-noSlipperyReinforcement | UpdatedJan 18 | [Link](https://huggingface.co/afedyanin/q-FrozenLake-v1-4x4-noSlippery) |
+| 1 | Unknown | afedyanin/q-Taxi-v3Reinforcement | UpdatedJan 18 | [Link](https://huggingface.co/afedyanin/q-Taxi-v3) |
+
+## Robotics
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 5.87k | 121 | lerobot/pi0Robotics | Updated18 days ago | [Link](https://huggingface.co/lerobot/pi0) |
+| 286 | 82 | notmahi/dobb-eRobotics | UpdatedNov 28, 2023 | [Link](https://huggingface.co/notmahi/dobb-e) |
+| 1.9k | 72 | robotics-diffusion-transformer/rdt-1bRobotics | UpdatedOct 17, 2024 | [Link](https://huggingface.co/robotics-diffusion-transformer/rdt-1b) |
+| 1.41k | 34 | lerobot/diffusion_pushtRobotics | Updated12 days ago | [Link](https://huggingface.co/lerobot/diffusion_pusht) |
+| 66 | 21 | rail-berkeley/octo-baseRobotics | UpdatedDec 14, 2023 | [Link](https://huggingface.co/rail-berkeley/octo-base) |
+| 75 | 14 | rail-berkeley/octo-base-1 | UpdatedMay 21, 2024 | [Link](https://huggingface.co/rail-berkeley/octo-base-1.5) |
+| 112 | 13 | rail-berkeley/octo-smallRobotics | UpdatedDec 14, 2023 | [Link](https://huggingface.co/rail-berkeley/octo-small) |
+| 114 | 10 | liruiw/hpt-baseRobotics | UpdatedOct 2, 2024 | [Link](https://huggingface.co/liruiw/hpt-base) |
+| 19 | 10 | facebook/vc1-baseRobotics | UpdatedApr 7, 2023 | [Link](https://huggingface.co/facebook/vc1-base) |
+| 5 | 8 | facebook/vc1-largeRobotics | UpdatedApr 7, 2023 | [Link](https://huggingface.co/facebook/vc1-large) |
+| 97 | 7 | rail-berkeley/crossformerRobotics | UpdatedAug 26, 2024 | [Link](https://huggingface.co/rail-berkeley/crossformer) |
+| 952 | 7 | robotics-diffusion-transformer/rdt-170mRobotics | UpdatedOct 24, 2024 | [Link](https://huggingface.co/robotics-diffusion-transformer/rdt-170m) |
+| 5.26k | 7 | CogACT/CogACT-BaseRobotics | UpdatedDec 4, 2024 | [Link](https://huggingface.co/CogACT/CogACT-Base) |
+| 9 | 4 | mbreuss/MoDE_PretrainedRobotics | UpdatedDec 19, 2024 | [Link](https://huggingface.co/mbreuss/MoDE_Pretrained) |
+| 65 | 2 | CogACT/CogACT-LargeRobotics | UpdatedDec 4, 2024 | [Link](https://huggingface.co/CogACT/CogACT-Large) |
+| 15 | 2 | mbreuss/MoDE_CALVIN_ABCDRobotics | UpdatedDec 19, 2024 | [Link](https://huggingface.co/mbreuss/MoDE_CALVIN_ABCD) |
+| 12 | 1 | mbreuss/MoDE_CALVIN_ABC_3Robotics | UpdatedDec 19, 2024 | [Link](https://huggingface.co/mbreuss/MoDE_CALVIN_ABC_3) |
+| 8 | 1 | mbreuss/MoDE_CALVIN_ABC_1Robotics | UpdatedDec 19, 2024 | [Link](https://huggingface.co/mbreuss/MoDE_CALVIN_ABC_1) |
+| 2 | 1 | shadyy/ARIA-7b-v0 | UpdatedDec 5, 2023 | [Link](https://huggingface.co/shadyy/ARIA-7b-v0.1) |
+| 80 | Unknown | physical-intelligence/fastRobotics | UpdatedJan 16 | [Link](https://huggingface.co/physical-intelligence/fast) |
+| 2 | Unknown | sirbrentmichaelskoda/Auto-GBT-Dream-Team-ModelRobotics | UpdatedJun 7, 2023 | [Link](https://huggingface.co/sirbrentmichaelskoda/Auto-GBT-Dream-Team-Model) |
+| 5 | Unknown | USC-GVL/UH-1Robotics | UpdatedDec 19, 2024 | [Link](https://huggingface.co/USC-GVL/UH-1) |
+| 11 | Unknown | camusean/grasp_diffusionRobotics | UpdatedJan 17, 2023 | [Link](https://huggingface.co/camusean/grasp_diffusion) |
+| Unknown | Unknown | Antheia/HannaRobotics | UpdatedJan 25, 2023 | [Link](https://huggingface.co/Antheia/Hanna) |
+| 3 | Unknown | Bbyaz/robotics-deep-rl-graspingRobotics | UpdatedFeb 20, 2023 | [Link](https://huggingface.co/Bbyaz/robotics-deep-rl-grasping) |
+| 1 | Unknown | Beemarkethk/BeemarketRobotics | UpdatedApr 27, 2023 | [Link](https://huggingface.co/Beemarkethk/Beemarket) |
+| Unknown | Unknown | Gage888/GageAIRobotics | UpdatedJun 18, 2023 | [Link](https://huggingface.co/Gage888/GageAI) |
+| Unknown | Unknown | Sehwan/R-PredRobotics | UpdatedSep 12, 2023 | [Link](https://huggingface.co/Sehwan/R-Pred) |
+| Unknown | Unknown | HCW1202/testRobotics | UpdatedOct 13, 2023 | [Link](https://huggingface.co/HCW1202/test) |
+| Unknown | Unknown | pleasefill/mesoloRobotics | UpdatedFeb 2, 2024 | [Link](https://huggingface.co/pleasefill/mesolo) |
+
+## Sentence Similarity
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 1.64M | 554 | nomic-ai/nomic-embed-text-v1 | UpdatedJan 16 | [Link](https://huggingface.co/nomic-ai/nomic-embed-text-v1.5) |
+| 103k | 286 | Alibaba-NLP/gte-Qwen2-7B-instructSentence | UpdatedJan 11 | [Link](https://huggingface.co/Alibaba-NLP/gte-Qwen2-7B-instruct) |
+| 32.1k | 250 | nomic-ai/nomic-embed-text-v2-moeSentence | Updated9 days ago | [Link](https://huggingface.co/nomic-ai/nomic-embed-text-v2-moe) |
+| 836k | 201 | Alibaba-NLP/gte-multilingual-baseSentence | UpdatedJan 9 | [Link](https://huggingface.co/Alibaba-NLP/gte-multilingual-base) |
+| 2.38M | 199 | Alibaba-NLP/gte-large-en-v1 | UpdatedAug 9, 2024 | [Link](https://huggingface.co/Alibaba-NLP/gte-large-en-v1.5) |
+| 102k | 192 | nomic-ai/modernbert-embed-baseSentence | UpdatedJan 24 | [Link](https://huggingface.co/nomic-ai/modernbert-embed-base) |
+| 74k | 103 | Alibaba-NLP/gte-modernbert-baseSentence | UpdatedJan 24 | [Link](https://huggingface.co/Alibaba-NLP/gte-modernbert-base) |
+|  | 102 | sentence-transformers/clip-ViT-B-32Sentence | UpdatedFeb 12, 2024 | [Link](https://huggingface.co/sentence-transformers/clip-ViT-B-32) |
+| 253 | 67 | NeuML/txtai-wikipediaSentence | Updated14 days ago | [Link](https://huggingface.co/NeuML/txtai-wikipedia) |
+| 152k | 46 | Alibaba-NLP/gte-reranker-modernbert-baseSentence | UpdatedJan 24 | [Link](https://huggingface.co/Alibaba-NLP/gte-reranker-modernbert-base) |
+| 63.9k | 42 | Alibaba-NLP/gme-Qwen2-VL-2B-InstructSentence | UpdatedJan 21 | [Link](https://huggingface.co/Alibaba-NLP/gme-Qwen2-VL-2B-Instruct) |
+| 855k | 38 | emrecan/bert-base-turkish-cased-mean-nli-stsb-trSentence | UpdatedJan 24, 2022 | [Link](https://huggingface.co/emrecan/bert-base-turkish-cased-mean-nli-stsb-tr) |
+| 2.04k | 3 | Qodo/Qodo-Embed-1-1 | Updatedabout 14 hours ago | [Link](https://huggingface.co/Qodo/Qodo-Embed-1-1.5B) |
+| 95.8M |  | sentence-transformers/all-MiniLM-L6-v2Sentence | UpdatedNov 1, 2024 | [Link](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) |
+| 2.47M |  | BAAI/bge-m3Sentence | UpdatedJul 3, 2024 | [Link](https://huggingface.co/BAAI/bge-m3) |
+| 32.8M |  | sentence-transformers/all-mpnet-base-v2Sentence | UpdatedNov 5, 2024 | [Link](https://huggingface.co/sentence-transformers/all-mpnet-base-v2) |
+| 10M |  | sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2Sentence | UpdatedNov 5, 2024 | [Link](https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2) |
+| 464k |  | Alibaba-NLP/gte-Qwen2-1 | UpdatedJan 11 | [Link](https://huggingface.co/Alibaba-NLP/gte-Qwen2-1.5B-instruct) |
+| 578k |  | sentence-transformers/LaBSESentence | UpdatedMar 27, 2024 | [Link](https://huggingface.co/sentence-transformers/LaBSE) |
+| 2.42M |  | sentence-transformers/paraphrase-multilingual-mpnet-base-v2Sentence | UpdatedNov 5, 2024 | [Link](https://huggingface.co/sentence-transformers/paraphrase-multilingual-mpnet-base-v2) |
+| 496k |  | shibing624/text2vec-base-chineseSentence | UpdatedNov 14, 2024 | [Link](https://huggingface.co/shibing624/text2vec-base-chinese) |
+| 1.44M |  | intfloat/e5-large-v2Sentence | Updated8 days ago | [Link](https://huggingface.co/intfloat/e5-large-v2) |
+| 91.1k |  | Snowflake/snowflake-arctic-embed-l-v2 | UpdatedDec 14, 2024 | [Link](https://huggingface.co/Snowflake/snowflake-arctic-embed-l-v2.0) |
+| 499k |  | cointegrated/rubert-tiny2Sentence | UpdatedOct 14, 2023 | [Link](https://huggingface.co/cointegrated/rubert-tiny2) |
+| 32.9k |  | GanymedeNil/text2vec-large-chineseSentence | UpdatedJun 25, 2024 | [Link](https://huggingface.co/GanymedeNil/text2vec-large-chinese) |
+| 3.76M |  | NeuML/pubmedbert-base-embeddingsSentence | UpdatedOct 18, 2023 | [Link](https://huggingface.co/NeuML/pubmedbert-base-embeddings) |
+| 179k |  | NovaSearch/stella_en_1 | Updated20 days ago | [Link](https://huggingface.co/NovaSearch/stella_en_1.5B_v5) |
+| 274k |  | hkunlp/instructor-largeSentence | UpdatedApr 21, 2023 | [Link](https://huggingface.co/hkunlp/instructor-large) |
+| 477k |  | thenlper/gte-largeSentence | UpdatedNov 15, 2024 | [Link](https://huggingface.co/thenlper/gte-large) |
+
+## Summarization
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 3.24k | 61 | pszemraj/led-base-book-summarySummarization | UpdatedNov 28, 2023 | [Link](https://huggingface.co/pszemraj/led-base-book-summary) |
+| 2.87k | 18 | mrm8488/bert2bert_shared-turkish-summarizationSummarization | UpdatedApr 26, 2023 | [Link](https://huggingface.co/mrm8488/bert2bert_shared-turkish-summarization) |
+| 509 | 14 | mrm8488/camembert2camembert_shared-finetuned-french-summarizationSummarization | UpdatedApr 28, 2023 | [Link](https://huggingface.co/mrm8488/camembert2camembert_shared-finetuned-french-summarization) |
+| 417 | 14 | nsi319/legal-led-base-16384Summarization | UpdatedMar 1, 2021 | [Link](https://huggingface.co/nsi319/legal-led-base-16384) |
+| 2.81k | 12 | IlyaGusev/rut5_base_sum_gazetaSummarization | UpdatedJul 13, 2022 | [Link](https://huggingface.co/IlyaGusev/rut5_base_sum_gazeta) |
+| 65 | 12 | SEBIS/code_trans_t5_large_source_code_summarization_python_multitask_finetuneSummarization | UpdatedJun 23, 2021 | [Link](https://huggingface.co/SEBIS/code_trans_t5_large_source_code_summarization_python_multitask_finetune) |
+| 856 | 11 | T-Systems-onsite/mt5-small-sum-de-en-v2Summarization | UpdatedApr 7, 2024 | [Link](https://huggingface.co/T-Systems-onsite/mt5-small-sum-de-en-v2) |
+| 1.06k | 10 | patrickvonplaten/bert2bert_cnn_daily_mailSummarization | UpdatedJun 25, 2022 | [Link](https://huggingface.co/patrickvonplaten/bert2bert_cnn_daily_mail) |
+| 1.88k | 9 | deutsche-telekom/mt5-small-sum-de-mit-v1Summarization | UpdatedMay 18, 2023 | [Link](https://huggingface.co/deutsche-telekom/mt5-small-sum-de-mit-v1) |
+| 64 | 5 | HooshvareLab/pn-summary-b2b-sharedSummarization | UpdatedJun 8, 2021 | [Link](https://huggingface.co/HooshvareLab/pn-summary-b2b-shared) |
+| 637 | 3 | HooshvareLab/pn-summary-mt5-baseSummarization | UpdatedMay 5, 2021 | [Link](https://huggingface.co/HooshvareLab/pn-summary-mt5-base) |
+| 163 | 2 | SEBIS/code_trans_t5_base_api_generationSummarization | UpdatedJun 23, 2021 | [Link](https://huggingface.co/SEBIS/code_trans_t5_base_api_generation) |
+| 133 | 1 | HooshvareLab/pn-summary-mt5-smallSummarization | UpdatedMay 5, 2021 | [Link](https://huggingface.co/HooshvareLab/pn-summary-mt5-small) |
+| 4.26M |  | facebook/bart-large-cnnSummarization | UpdatedFeb 13, 2024 | [Link](https://huggingface.co/facebook/bart-large-cnn) |
+| 68.3k |  | Falconsai/text_summarizationSummarization | UpdatedFeb 17, 2024 | [Link](https://huggingface.co/Falconsai/text_summarization) |
+| 393 |  | prithivMLmods/t5-Flan-Prompt-EnhanceSummarization | Updated8 days ago | [Link](https://huggingface.co/prithivMLmods/t5-Flan-Prompt-Enhance) |
+| 3.99k |  | human-centered-summarization/financial-summarization-pegasusSummarization | UpdatedApr 26, 2024 | [Link](https://huggingface.co/human-centered-summarization/financial-summarization-pegasus) |
+| 10.3k |  | IlyaGusev/mbart_ru_sum_gazetaSummarization | UpdatedMar 16, 2023 | [Link](https://huggingface.co/IlyaGusev/mbart_ru_sum_gazeta) |
+| 12.9k |  | cointegrated/rut5-base-absumSummarization | UpdatedMar 17, 2023 | [Link](https://huggingface.co/cointegrated/rut5-base-absum) |
+| 48.7k |  | csebuetnlp/mT5_multilingual_XLSumSummarization | UpdatedAug 13, 2022 | [Link](https://huggingface.co/csebuetnlp/mT5_multilingual_XLSum) |
+| 361 |  | efederici/text2tagsSummarization | UpdatedMay 21, 2023 | [Link](https://huggingface.co/efederici/text2tags) |
+| 8.96k |  | google/bigbird-pegasus-large-arxivSummarization | UpdatedJan 24, 2023 | [Link](https://huggingface.co/google/bigbird-pegasus-large-arxiv) |
+| 15.4k |  | google/pegasus-cnn_dailymailSummarization | UpdatedJan 24, 2023 | [Link](https://huggingface.co/google/pegasus-cnn_dailymail) |
+| 71.9k |  | google/pegasus-largeSummarization | UpdatedJan 24, 2023 | [Link](https://huggingface.co/google/pegasus-large) |
+| 149k |  | google/pegasus-xsumSummarization | UpdatedJan 24, 2023 | [Link](https://huggingface.co/google/pegasus-xsum) |
+| 2.47k |  | mrm8488/bert-mini2bert-mini-finetuned-cnn_daily_mail-summarizationSummarization | UpdatedMay 5, 2023 | [Link](https://huggingface.co/mrm8488/bert-mini2bert-mini-finetuned-cnn_daily_mail-summarization) |
+| 706 |  | mrm8488/bert2bert_shared-german-finetuned-summarizationSummarization | UpdatedMay 10, 2023 | [Link](https://huggingface.co/mrm8488/bert2bert_shared-german-finetuned-summarization) |
+| 745 |  | ozcangundes/mt5-small-turkish-summarizationSummarization | UpdatedSep 22, 2021 | [Link](https://huggingface.co/ozcangundes/mt5-small-turkish-summarization) |
+| 229k |  | philschmid/bart-large-cnn-samsumSummarization | UpdatedDec 23, 2022 | [Link](https://huggingface.co/philschmid/bart-large-cnn-samsum) |
+| 4.45k |  | pszemraj/led-large-book-summarySummarization | UpdatedNov 28, 2023 | [Link](https://huggingface.co/pszemraj/led-large-book-summary) |
+
+## Table Question Answering
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 38k | 70 | microsoft/tapex-large-finetuned-wtqTable | UpdatedJan 12, 2024 | [Link](https://huggingface.co/microsoft/tapex-large-finetuned-wtq) |
+| 175 | 17 | microsoft/tapex-base-finetuned-wikisqlTable | UpdatedJan 24, 2023 | [Link](https://huggingface.co/microsoft/tapex-base-finetuned-wikisql) |
+| 2.1k | 9 | google/tapas-base-finetuned-wikisql-supervisedTable | UpdatedNov 29, 2021 | [Link](https://huggingface.co/google/tapas-base-finetuned-wikisql-supervised) |
+| 359 | 8 | microsoft/tapex-large-finetuned-tabfactTable | UpdatedJul 14, 2022 | [Link](https://huggingface.co/microsoft/tapex-large-finetuned-tabfact) |
+| 2.04k | 7 | google/tapas-small-finetuned-wikisql-supervisedTable | UpdatedNov 29, 2021 | [Link](https://huggingface.co/google/tapas-small-finetuned-wikisql-supervised) |
+| 2.91k | 6 | google/tapas-base-finetuned-sqaTable | UpdatedNov 29, 2021 | [Link](https://huggingface.co/google/tapas-base-finetuned-sqa) |
+| 677 | 6 | google/tapas-large-finetuned-sqaTable | UpdatedNov 29, 2021 | [Link](https://huggingface.co/google/tapas-large-finetuned-sqa) |
+| 2.82k | 6 | google/tapas-large-finetuned-wikisql-supervisedTable | UpdatedNov 29, 2021 | [Link](https://huggingface.co/google/tapas-large-finetuned-wikisql-supervised) |
+| 401 | 3 | google/tapas-mini-finetuned-sqaTable | UpdatedNov 29, 2021 | [Link](https://huggingface.co/google/tapas-mini-finetuned-sqa) |
+| 1.9k | 2 | google/tapas-medium-finetuned-wtqTable | UpdatedJul 14, 2022 | [Link](https://huggingface.co/google/tapas-medium-finetuned-wtq) |
+| 2.49k | 2 | google/tapas-mini-finetuned-wtqTable | UpdatedJul 14, 2022 | [Link](https://huggingface.co/google/tapas-mini-finetuned-wtq) |
+| 407 | 1 | google/tapas-medium-finetuned-sqaTable | UpdatedNov 29, 2021 | [Link](https://huggingface.co/google/tapas-medium-finetuned-sqa) |
+| 9.71k | 1 | google/tapas-tiny-finetuned-wtqTable | UpdatedNov 29, 2021 | [Link](https://huggingface.co/google/tapas-tiny-finetuned-wtq) |
+| 10 | 1 | juliagsy/tapas_fine_tuningTable | UpdatedJan 31, 2022 | [Link](https://huggingface.co/juliagsy/tapas_fine_tuning) |
+| 12 | 1 | navteca/tapas-large-finetuned-wtqTable | UpdatedAug 9, 2021 | [Link](https://huggingface.co/navteca/tapas-large-finetuned-wtq) |
+| 21.5k |  | google/tapas-base-finetuned-wtqTable | UpdatedJul 14, 2022 | [Link](https://huggingface.co/google/tapas-base-finetuned-wtq) |
+| 129k |  | google/tapas-large-finetuned-wtqTable | UpdatedSep 5, 2023 | [Link](https://huggingface.co/google/tapas-large-finetuned-wtq) |
+| 905 |  | microsoft/tapex-baseTable | UpdatedMay 3, 2023 | [Link](https://huggingface.co/microsoft/tapex-base) |
+| 1 | Unknown | Mi6paulino/Dreamforce2Table | Updated17 days ago | [Link](https://huggingface.co/Mi6paulino/Dreamforce2) |
+| 11 | Unknown | benschlagman/tapas_fine_tuningTable | UpdatedJan 28, 2022 | [Link](https://huggingface.co/benschlagman/tapas_fine_tuning) |
+| 1.93k | Unknown | google/tapas-medium-finetuned-wikisql-supervisedTable | UpdatedNov 29, 2021 | [Link](https://huggingface.co/google/tapas-medium-finetuned-wikisql-supervised) |
+| 953 | Unknown | google/tapas-small-finetuned-sqaTable | UpdatedNov 29, 2021 | [Link](https://huggingface.co/google/tapas-small-finetuned-sqa) |
+| 2.62k |  | google/tapas-small-finetuned-wtqTable | UpdatedJul 14, 2022 | [Link](https://huggingface.co/google/tapas-small-finetuned-wtq) |
+| 14.5k | Unknown | google/tapas-tiny-finetuned-sqaTable | UpdatedNov 29, 2021 | [Link](https://huggingface.co/google/tapas-tiny-finetuned-sqa) |
+| 11 | Unknown | juliagsy/tapas-fine-tunedTable | UpdatedJan 31, 2022 | [Link](https://huggingface.co/juliagsy/tapas-fine-tuned) |
+| 9 | Unknown | lysandre/tapas-temporary-repoTable | UpdatedDec 17, 2020 | [Link](https://huggingface.co/lysandre/tapas-temporary-repo) |
+| 1.62k | Unknown | lysandre/tiny-tapas-random-sqaTable | UpdatedDec 14, 2020 | [Link](https://huggingface.co/lysandre/tiny-tapas-random-sqa) |
+| 2.4k |  | lysandre/tiny-tapas-random-wtqTable | UpdatedDec 15, 2020 | [Link](https://huggingface.co/lysandre/tiny-tapas-random-wtq) |
+| 18 | Unknown | nielsr/tapex-large-finetuned-sqaTable | UpdatedJan 13, 2022 | [Link](https://huggingface.co/nielsr/tapex-large-finetuned-sqa) |
+| 62 | Unknown | nielsr/tapex-large-finetuned-wikisqlTable | UpdatedNov 27, 2023 | [Link](https://huggingface.co/nielsr/tapex-large-finetuned-wikisql) |
+
+## Tabular Classification
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 42 | 34 | keras-io/tab_transformerTabular | UpdatedJul 9, 2024 | [Link](https://huggingface.co/keras-io/tab_transformer) |
+| 11.8k | 26 | Prior-Labs/TabPFN-v2-clfTabular | UpdatedJan 13 | [Link](https://huggingface.co/Prior-Labs/TabPFN-v2-clf) |
+| 187 | 18 | julien-c/wine-qualityTabular | UpdatedDec 18, 2023 | [Link](https://huggingface.co/julien-c/wine-quality) |
+| 42 | 8 | keras-io/imbalanced_classificationTabular | UpdatedJul 5, 2024 | [Link](https://huggingface.co/keras-io/imbalanced_classification) |
+| 50 | 7 | keras-io/structured-data-classification-grn-vsnTabular | UpdatedJul 9, 2024 | [Link](https://huggingface.co/keras-io/structured-data-classification-grn-vsn) |
+| 34 | 5 | keras-io/TF_Decision_TreesTabular | UpdatedJul 5, 2024 | [Link](https://huggingface.co/keras-io/TF_Decision_Trees) |
+| 28 | 5 | osanseviero/wine-qualityTabular | UpdatedOct 6, 2023 | [Link](https://huggingface.co/osanseviero/wine-quality) |
+| 10 | 3 | abhishek/autotrain-adult-census-xgboostTabular | UpdatedJul 5, 2022 | [Link](https://huggingface.co/abhishek/autotrain-adult-census-xgboost) |
+| 6 | 2 | rajistics/autotrain-Adult-934630783Tabular | UpdatedMay 31, 2022 | [Link](https://huggingface.co/rajistics/autotrain-Adult-934630783) |
+| 14 | 2 | keras-io/collaborative-filtering-movielensTabular | UpdatedJul 5, 2024 | [Link](https://huggingface.co/keras-io/collaborative-filtering-movielens) |
+| 18 | 1 | abhishek/autotrain-iris-xgboostTabular | UpdatedJul 5, 2022 | [Link](https://huggingface.co/abhishek/autotrain-iris-xgboost) |
+| 70 | 1 | imodels/figs-compas-recidivismTabular | UpdatedAug 13, 2022 | [Link](https://huggingface.co/imodels/figs-compas-recidivism) |
+| 10 | Unknown | templates/tabular-classificationTabular | UpdatedJul 26, 2022 | [Link](https://huggingface.co/templates/tabular-classification) |
+| 1 | Unknown | mindwrapped/collaborative-filtering-movielens-copyTabular | UpdatedAug 4, 2022 | [Link](https://huggingface.co/mindwrapped/collaborative-filtering-movielens-copy) |
+| 20 | Unknown | abhishek/autotrain-iris-logistic-regressionTabular | UpdatedJul 5, 2022 | [Link](https://huggingface.co/abhishek/autotrain-iris-logistic-regression) |
+| 10 | Unknown | abhishek/autotrain-iris-knnTabular | UpdatedJul 5, 2022 | [Link](https://huggingface.co/abhishek/autotrain-iris-knn) |
+| Unknown | Unknown | osanseviero/tipsuhtxfu-sex-classificationTabular | UpdatedJul 5, 2022 | [Link](https://huggingface.co/osanseviero/tipsuhtxfu-sex-classification) |
+| Unknown | Unknown | maderix/titanic_traink4m62li8-survived-classificationTabular | UpdatedJul 5, 2022 | [Link](https://huggingface.co/maderix/titanic_traink4m62li8-survived-classification) |
+| 2 | Unknown | merve/breast_cancernb8gjv4n-diagnosis-classificationTabular | UpdatedJul 6, 2022 | [Link](https://huggingface.co/merve/breast_cancernb8gjv4n-diagnosis-classification) |
+| Unknown | Unknown | luizapzbn/titanicht_mp88q-Survived-classificationTabular | UpdatedJul 6, 2022 | [Link](https://huggingface.co/luizapzbn/titanicht_mp88q-Survived-classification) |
+| Unknown | Unknown | cacauvicosa/heart1ohr2x9e-target-classificationTabular | UpdatedJul 6, 2022 | [Link](https://huggingface.co/cacauvicosa/heart1ohr2x9e-target-classification) |
+| Unknown | Unknown | Fulccrum/trainii_ac94u-label-classificationTabular | UpdatedJul 7, 2022 | [Link](https://huggingface.co/Fulccrum/trainii_ac94u-label-classification) |
+| Unknown | Unknown | sahilrajpal121/train5a1e8w7-label-classificationTabular | UpdatedJul 11, 2022 | [Link](https://huggingface.co/sahilrajpal121/train5a1e8w7-label-classification) |
+| Unknown | Unknown | ieborhan/irisg444_4c0-Species-classificationTabular | UpdatedJul 15, 2022 | [Link](https://huggingface.co/ieborhan/irisg444_4c0-Species-classification) |
+| Unknown | Unknown | bhavesh/arinfo_sample_dataset_finaltffwjv58-model-classificationTabular | UpdatedAug 3, 2022 | [Link](https://huggingface.co/bhavesh/arinfo_sample_dataset_finaltffwjv58-model-classification) |
+| 13 | Unknown | julien-c/skops-digitsTabular | UpdatedAug 10, 2022 | [Link](https://huggingface.co/julien-c/skops-digits) |
+| 1 | Unknown | scikit-learn/skops-blog-exampleTabular | UpdatedNov 25, 2022 | [Link](https://huggingface.co/scikit-learn/skops-blog-example) |
+| 2 | Unknown | scikit-learn/tabular-playgroundTabular | UpdatedDec 1, 2022 | [Link](https://huggingface.co/scikit-learn/tabular-playground) |
+| Unknown | Unknown | demo-org/tabular-playgroundTabular | UpdatedAug 30, 2022 | [Link](https://huggingface.co/demo-org/tabular-playground) |
+| Unknown | Unknown | vendorabc/modelhubexampleTabular | UpdatedAug 30, 2022 | [Link](https://huggingface.co/vendorabc/modelhubexample) |
+
+## Tabular Regression
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 67 | 64 | keras-io/timeseries-anomaly-detectionTabular | UpdatedJul 9, 2024 | [Link](https://huggingface.co/keras-io/timeseries-anomaly-detection) |
+| 2.87k | 11 | autogluon/tabpfn-mix-1 | UpdatedNov 27, 2024 | [Link](https://huggingface.co/autogluon/tabpfn-mix-1.0-regressor) |
+| 26.4k | 9 | Prior-Labs/TabPFN-v2-regTabular | UpdatedJan 13 | [Link](https://huggingface.co/Prior-Labs/TabPFN-v2-reg) |
+| 10 | 4 | inayet/autotrain-price-prediction-1331950900Tabular | UpdatedAug 30, 2022 | [Link](https://huggingface.co/inayet/autotrain-price-prediction-1331950900) |
+| 19 | 2 | prabinpanta0/celsius-to-fahrenheitTabular | UpdatedAug 17, 2024 | [Link](https://huggingface.co/prabinpanta0/celsius-to-fahrenheit) |
+| 6 | 1 | jwan2021/autotrain-us-housing-prices-1771761510Tabular | UpdatedOct 15, 2022 | [Link](https://huggingface.co/jwan2021/autotrain-us-housing-prices-1771761510) |
+| 3 | 1 | jwan2021/autotrain-us-housing-prices-1771761511Tabular | UpdatedOct 15, 2022 | [Link](https://huggingface.co/jwan2021/autotrain-us-housing-prices-1771761511) |
+| 4 | Unknown | srg/outhimar_64-Close-regressionTabular | UpdatedJul 6, 2022 | [Link](https://huggingface.co/srg/outhimar_64-Close-regression) |
+| 1 | Unknown | rajistics/MAPIE-TS-ElectricityTabular | UpdatedOct 1, 2022 | [Link](https://huggingface.co/rajistics/MAPIE-TS-Electricity) |
+| 2 | Unknown | rajistics/california_housingTabular | UpdatedSep 30, 2022 | [Link](https://huggingface.co/rajistics/california_housing) |
+| 2 | Unknown | scikit-learn/Fish-WeightTabular | UpdatedNov 29, 2023 | [Link](https://huggingface.co/scikit-learn/Fish-Weight) |
+| 1 | Unknown | julien-c/pokemon-predict-hpTabular | UpdatedNov 7, 2022 | [Link](https://huggingface.co/julien-c/pokemon-predict-hp) |
+| 1 | Unknown | halflings/pokemon_hpTabular | UpdatedOct 10, 2022 | [Link](https://huggingface.co/halflings/pokemon_hp) |
+| 1 | Unknown | halflings/pokemon | UpdatedOct 12, 2022 | [Link](https://huggingface.co/halflings/pokemon.csv) |
+| 1 | Unknown | julien-c/avocado-pricesTabular | UpdatedNov 7, 2022 | [Link](https://huggingface.co/julien-c/avocado-prices) |
+| 1 | Unknown | halflings/nateraw_world-happiness_2019 | UpdatedOct 13, 2022 | [Link](https://huggingface.co/halflings/nateraw_world-happiness_2019.csv) |
+| Unknown | Unknown | halflings/nateraw_world-happiness_2018 | UpdatedOct 13, 2022 | [Link](https://huggingface.co/halflings/nateraw_world-happiness_2018.csv) |
+| Unknown | Unknown | halflings/nateraw_avocado-prices_avocado | UpdatedOct 13, 2022 | [Link](https://huggingface.co/halflings/nateraw_avocado-prices_avocado.csv) |
+| Unknown | Unknown | halflings/nateraw_world-happiness_2018_2 | UpdatedOct 13, 2022 | [Link](https://huggingface.co/halflings/nateraw_world-happiness_2018_2.csv) |
+| 3 | Unknown | jwan2021/autotrain-us-housing-prices-1771761512Tabular | UpdatedOct 15, 2022 | [Link](https://huggingface.co/jwan2021/autotrain-us-housing-prices-1771761512) |
+| 1 | Unknown | jwan2021/autotrain-us-housing-prices-1771761513Tabular | UpdatedOct 15, 2022 | [Link](https://huggingface.co/jwan2021/autotrain-us-housing-prices-1771761513) |
+| 6 | Unknown | jwan2021/autotrain-us-housing-prices-1771761514Tabular | UpdatedOct 15, 2022 | [Link](https://huggingface.co/jwan2021/autotrain-us-housing-prices-1771761514) |
+| 3 | Unknown | pcoloc/autotrain-only-rssi-1813762559Tabular | UpdatedOct 19, 2022 | [Link](https://huggingface.co/pcoloc/autotrain-only-rssi-1813762559) |
+| 6 | Unknown | pcoloc/autotrain-600-dragino-1839063122Tabular | UpdatedOct 22, 2022 | [Link](https://huggingface.co/pcoloc/autotrain-600-dragino-1839063122) |
+| 15 | Unknown | pcoloc/autotrain-mikrotik-7-7-1860563588Tabular | UpdatedOct 24, 2022 | [Link](https://huggingface.co/pcoloc/autotrain-mikrotik-7-7-1860563588) |
+| 3 | Unknown | pcoloc/autotrain-mikrotik-7-7-1860563590Tabular | UpdatedOct 24, 2022 | [Link](https://huggingface.co/pcoloc/autotrain-mikrotik-7-7-1860563590) |
+| 3 | Unknown | pcoloc/autotrain-mikrotik-7-7-1860563597Tabular | UpdatedOct 24, 2022 | [Link](https://huggingface.co/pcoloc/autotrain-mikrotik-7-7-1860563597) |
+| 1 | Unknown | pcoloc/autotrain-dragino-7-7-1860763606Tabular | UpdatedOct 24, 2022 | [Link](https://huggingface.co/pcoloc/autotrain-dragino-7-7-1860763606) |
+| 1 | Unknown | pcoloc/autotrain-dragino-7-7-max_495m-1860863627Tabular | UpdatedOct 24, 2022 | [Link](https://huggingface.co/pcoloc/autotrain-dragino-7-7-max_495m-1860863627) |
+| 7 | Unknown | pcoloc/autotrain-dragino-7-7-max_300m-1861063640Tabular | UpdatedOct 24, 2022 | [Link](https://huggingface.co/pcoloc/autotrain-dragino-7-7-max_300m-1861063640) |
+
+## Text Classification
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 983k | 518 | BAAI/bge-reranker-v2-m3Text | UpdatedJun 24, 2024 | [Link](https://huggingface.co/BAAI/bge-reranker-v2-m3) |
+| 88.2k | 259 | vectara/hallucination_evaluation_modelText | UpdatedOct 30, 2024 | [Link](https://huggingface.co/vectara/hallucination_evaluation_model) |
+| 882k | 172 | BAAI/bge-reranker-baseText | UpdatedJun 24, 2024 | [Link](https://huggingface.co/BAAI/bge-reranker-base) |
+| 37.5k | 122 | mixedbread-ai/mxbai-rerank-large-v1Text | Updated4 days ago | [Link](https://huggingface.co/mixedbread-ai/mxbai-rerank-large-v1) |
+| 390k | 93 | Alibaba-NLP/gte-multilingual-reranker-baseText | UpdatedJan 9 | [Link](https://huggingface.co/Alibaba-NLP/gte-multilingual-reranker-base) |
+| 1.01M | 88 | pysentimiento/robertuito-sentiment-analysisText | UpdatedJul 8, 2024 | [Link](https://huggingface.co/pysentimiento/robertuito-sentiment-analysis) |
+| 7.05k | 50 | BAAI/bge-reranker-v2-minicpm-layerwiseText | UpdatedMar 19, 2024 | [Link](https://huggingface.co/BAAI/bge-reranker-v2-minicpm-layerwise) |
+| 2.1k | 46 | BAAI/bge-reranker-v2 | UpdatedSep 6, 2024 | [Link](https://huggingface.co/BAAI/bge-reranker-v2.5-gemma2-lightweight) |
+| 9.68k | 41 | soleimanian/financial-roberta-large-sentimentText | UpdatedOct 12, 2022 | [Link](https://huggingface.co/soleimanian/financial-roberta-large-sentiment) |
+| 1.15k | 40 | Falconsai/intent_classificationText | UpdatedDec 9, 2023 | [Link](https://huggingface.co/Falconsai/intent_classification) |
+| 4.58k | 30 | Skywork/Skywork-Reward-Gemma-2-27B-v0 | UpdatedOct 25, 2024 | [Link](https://huggingface.co/Skywork/Skywork-Reward-Gemma-2-27B-v0.2) |
+| 903 | 24 | yiyanghkust/finbert-tone-chineseText | UpdatedFeb 6, 2024 | [Link](https://huggingface.co/yiyanghkust/finbert-tone-chinese) |
+| 3.58k | 14 | clapAI/modernBERT-base-multilingual-sentimentText | UpdatedJan 8 | [Link](https://huggingface.co/clapAI/modernBERT-base-multilingual-sentiment) |
+| 482 | 10 | upskyy/ko-reranker-8kText | UpdatedAug 17, 2024 | [Link](https://huggingface.co/upskyy/ko-reranker-8k) |
+| 1.37k | 7 | Intel/polite-guardText | Updated1 day ago | [Link](https://huggingface.co/Intel/polite-guard) |
+| 33 | 4 | WebOrganizer/TopicClassifierText | Updated5 days ago | [Link](https://huggingface.co/WebOrganizer/TopicClassifier) |
+| 13 | 4 | lemon42-ai/ThreatDetect-C-CppText | Updatedabout 13 hours ago | [Link](https://huggingface.co/lemon42-ai/ThreatDetect-C-Cpp) |
+| 65.8k |  | tabularisai/multilingual-sentiment-analysisText | UpdatedJan 16 | [Link](https://huggingface.co/tabularisai/multilingual-sentiment-analysis) |
+| 1.54M |  | ProsusAI/finbertText | UpdatedMay 23, 2023 | [Link](https://huggingface.co/ProsusAI/finbert) |
+| 2.1M |  | cardiffnlp/twitter-roberta-base-sentiment-latestText | UpdatedMay 28, 2023 | [Link](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest) |
+| 2.13M |  | mrm8488/distilroberta-finetuned-financial-news-sentiment-analysisText | UpdatedJan 21, 2024 | [Link](https://huggingface.co/mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis) |
+| 7.7M |  | distilbert/distilbert-base-uncased-finetuned-sst-2-englishText | UpdatedDec 19, 2023 | [Link](https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english) |
+| 434k |  | SamLowe/roberta-base-go_emotionsText | UpdatedOct 4, 2023 | [Link](https://huggingface.co/SamLowe/roberta-base-go_emotions) |
+| 21.7k |  | meta-llama/Prompt-Guard-86MText | UpdatedJul 25, 2024 | [Link](https://huggingface.co/meta-llama/Prompt-Guard-86M) |
+| 115k |  | FacebookAI/roberta-large-mnliText | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/FacebookAI/roberta-large-mnli) |
+| 1.65M |  | cardiffnlp/twitter-xlm-roberta-base-sentimentText | UpdatedJul 19, 2023 | [Link](https://huggingface.co/cardiffnlp/twitter-xlm-roberta-base-sentiment) |
+| 1.56M |  | nlptown/bert-base-multilingual-uncased-sentimentText | UpdatedJan 2 | [Link](https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment) |
+| 6k |  | savasy/bert-base-turkish-sentiment-casedText | UpdatedFeb 1, 2024 | [Link](https://huggingface.co/savasy/bert-base-turkish-sentiment-cased) |
+| 31k |  | ElKulako/cryptobertText | UpdatedDec 25, 2024 | [Link](https://huggingface.co/ElKulako/cryptobert) |
+| 45.3k |  | HuggingFaceFW/fineweb-edu-classifierText | UpdatedNov 17, 2024 | [Link](https://huggingface.co/HuggingFaceFW/fineweb-edu-classifier) |
+
+## Text Generation
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 4.08M | 912 | unsloth/DeepSeek-R1-GGUFText | Updated12 days ago | [Link](https://huggingface.co/unsloth/DeepSeek-R1-GGUF) |
+| 894k | 486 | deepseek-ai/DeepSeek-R1-Distill-Qwen-7BText | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B) |
+| 6.51k | 262 | NousResearch/DeepHermes-3-Llama-3-8B-PreviewText | Updated6 days ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview) |
+| 11.7k | 196 | smirki/UIGEN-T1-Qwen-7bText | Updated5 days ago | [Link](https://huggingface.co/smirki/UIGEN-T1-Qwen-7b) |
+| 2.25k | 153 | open-thoughts/OpenThinker-32BText | Updated11 days ago | [Link](https://huggingface.co/open-thoughts/OpenThinker-32B) |
+| 695 | 90 | moonshotai/Moonlight-16B-A3B-InstructText | Updated2 days ago | [Link](https://huggingface.co/moonshotai/Moonlight-16B-A3B-Instruct) |
+| 21.7k | 78 | unsloth/r1-1776-GGUFText | Updated6 days ago | [Link](https://huggingface.co/unsloth/r1-1776-GGUF) |
+| 406 | 57 | LatitudeGames/Wayfarer-Large-70B-Llama-3 | Updated6 days ago | [Link](https://huggingface.co/LatitudeGames/Wayfarer-Large-70B-Llama-3.3) |
+| 926 | 54 | arcee-ai/Arcee-BlitzText | Updated4 days ago | [Link](https://huggingface.co/arcee-ai/Arcee-Blitz) |
+| 325 | 51 | moonshotai/Moonlight-16B-A3BText | Updated2 days ago | [Link](https://huggingface.co/moonshotai/Moonlight-16B-A3B) |
+| 1.45k | 50 | ALLaM-AI/ALLaM-7B-Instruct-previewText | Updated8 days ago | [Link](https://huggingface.co/ALLaM-AI/ALLaM-7B-Instruct-preview) |
+| 3.68k | 35 | arcee-ai/Arcee-Maestro-7B-PreviewText | Updated4 days ago | [Link](https://huggingface.co/arcee-ai/Arcee-Maestro-7B-Preview) |
+| 323 | 29 | smirki/UIGEN-T1 | Updated6 days ago | [Link](https://huggingface.co/smirki/UIGEN-T1.1-Qwen-14B) |
+| 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
+| 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
+| 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
+| 149 |  | homebrewltd/AlphaMaze-v0 | Updatedabout 21 hours ago | [Link](https://huggingface.co/homebrewltd/AlphaMaze-v0.2-1.5B) |
+| 1.07M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-32BText | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B) |
+| 27.5k |  | agentica-org/DeepScaleR-1 | Updated2 days ago | [Link](https://huggingface.co/agentica-org/DeepScaleR-1.5B-Preview) |
+| 739k |  | mistralai/Mistral-Small-24B-Instruct-2501Text | Updated23 days ago | [Link](https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501) |
+| 608k |  | microsoft/phi-4Text | Updatedabout 17 hours ago | [Link](https://huggingface.co/microsoft/phi-4) |
+| 576k |  | mistralai/Mistral-7B-Instruct-v0 | UpdatedAug 21, 2024 | [Link](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3) |
+| 397k |  | google/gemma-2-2b-itText | UpdatedAug 27, 2024 | [Link](https://huggingface.co/google/gemma-2-2b-it) |
+| 1.02M |  | deepseek-ai/DeepSeek-R1-Distill-Llama-8BText | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-8B) |
+| 599k |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-14BText | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B) |
+| 376k |  | HuggingFaceTB/SmolLM2-1 | Updated19 days ago | [Link](https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B-Instruct) |
+
+## Text-to-3D
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 1.29k | 289 | tencent/Hunyuan3D-1Text-to-3D | UpdatedNov 23, 2024 | [Link](https://huggingface.co/tencent/Hunyuan3D-1) |
+| 7.15k | 219 | openai/shap-eText-to-3D | UpdatedDec 11, 2023 | [Link](https://huggingface.co/openai/shap-e) |
+| 3.45k | 125 | Zhengyi/LLaMA-MeshText-to-3D | UpdatedDec 7, 2024 | [Link](https://huggingface.co/Zhengyi/LLaMA-Mesh) |
+| 235 | 55 | Intel/ldm3d-panoText-to-3D | UpdatedMar 11, 2024 | [Link](https://huggingface.co/Intel/ldm3d-pano) |
+| 150 | 52 | Intel/ldm3dText-to-3D | UpdatedMar 1, 2024 | [Link](https://huggingface.co/Intel/ldm3d) |
+| 486 | 45 | MarcusLoren/MeshGPT-previewText-to-3D | UpdatedJun 8, 2024 | [Link](https://huggingface.co/MarcusLoren/MeshGPT-preview) |
+| 2.13k | 34 | Intel/ldm3d-4cText-to-3D | UpdatedMar 1, 2024 | [Link](https://huggingface.co/Intel/ldm3d-4c) |
+| 4.24k | 28 | bartowski/LLaMA-Mesh-GGUFText-to-3D | UpdatedDec 6, 2024 | [Link](https://huggingface.co/bartowski/LLaMA-Mesh-GGUF) |
+| 176 | 15 | FreedomIntelligence/BlenderLLMText-to-3D | UpdatedDec 23, 2024 | [Link](https://huggingface.co/FreedomIntelligence/BlenderLLM) |
+| 59 | 9 | Intel/ldm3d-srText-to-3D | UpdatedApr 25, 2024 | [Link](https://huggingface.co/Intel/ldm3d-sr) |
+| 53 | 5 | dylanebert/mvdreamText-to-3D | UpdatedApr 19, 2024 | [Link](https://huggingface.co/dylanebert/mvdream) |
+| 103 | 4 | pabloruizponce/in2INText-to-3D | UpdatedJun 29, 2024 | [Link](https://huggingface.co/pabloruizponce/in2IN) |
+| 6 | 1 | jonquimbly/shap-eText-to-3D | UpdatedFeb 29, 2024 | [Link](https://huggingface.co/jonquimbly/shap-e) |
+| 16 | Unknown | Maikou/MichelangeloText-to-3D | UpdatedJan 26, 2024 | [Link](https://huggingface.co/Maikou/Michelangelo) |
+| 692 | Unknown | stabilityai/stable-zero123Text-to-3D | UpdatedJul 10, 2024 | [Link](https://huggingface.co/stabilityai/stable-zero123) |
+| 8 | Unknown | dylanebert/3dlfmText-to-3D | UpdatedJan 16, 2024 | [Link](https://huggingface.co/dylanebert/3dlfm) |
+| 4 | Unknown | seungminh/zero123-pro_v1 | UpdatedJan 26, 2024 | [Link](https://huggingface.co/seungminh/zero123-pro_v1.0) |
+| 119 | Unknown | ashawkey/LGMText-to-3D | UpdatedJun 3, 2024 | [Link](https://huggingface.co/ashawkey/LGM) |
+| 5 | Unknown | yslan/LN3DiffText-to-3D | UpdatedOct 19, 2024 | [Link](https://huggingface.co/yslan/LN3Diff) |
+| 10 | Unknown | wyysf/CraftsManText-to-3D | UpdatedMay 27, 2024 | [Link](https://huggingface.co/wyysf/CraftsMan) |
+| 7 | Unknown | cebas/oneClick_Windows_ImageTo3D_installText-to-3D | UpdatedMay 27, 2024 | [Link](https://huggingface.co/cebas/oneClick_Windows_ImageTo3D_install) |
+| 16 | Unknown | One-2-3-45/codeText-to-3D | UpdatedFeb 26, 2024 | [Link](https://huggingface.co/One-2-3-45/code) |
+| 3 | Unknown | ironjr/LucidDreamerText-to-3D | UpdatedDec 15, 2023 | [Link](https://huggingface.co/ironjr/LucidDreamer) |
+| 5 | Unknown | model-hub/stable-zero123Text-to-3D | UpdatedDec 14, 2023 | [Link](https://huggingface.co/model-hub/stable-zero123) |
+| 5 | Unknown | dylanebert/NeRFillerText-to-3D | UpdatedJan 16, 2024 | [Link](https://huggingface.co/dylanebert/NeRFiller) |
+| 5 | Unknown | dylanebert/RichDreamerText-to-3D | UpdatedJan 16, 2024 | [Link](https://huggingface.co/dylanebert/RichDreamer) |
+| 21 | Unknown | hongfz16/3DTopiaText-to-3D | UpdatedFeb 13, 2024 | [Link](https://huggingface.co/hongfz16/3DTopia) |
+| 2 | Unknown | JCTN/LGMText-to-3D | UpdatedFeb 9, 2024 | [Link](https://huggingface.co/JCTN/LGM) |
+| 9 | Unknown | unity/sentis-alphafold-v1Text-to-3D | UpdatedFeb 23, 2024 | [Link](https://huggingface.co/unity/sentis-alphafold-v1) |
+| 7 | Unknown | hzxie/city-dreamerText-to-3D | UpdatedMar 4, 2024 | [Link](https://huggingface.co/hzxie/city-dreamer) |
+
+## Text-to-Audio
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 3.48k | 602 | riffusion/riffusion-model-v1Text-to-Audio | UpdatedJun 5, 2023 | [Link](https://huggingface.co/riffusion/riffusion-model-v1) |
+| 6.37k | 443 | facebook/musicgen-largeText-to-Audio | UpdatedNov 17, 2023 | [Link](https://huggingface.co/facebook/musicgen-large) |
+| 7.4k | 200 | facebook/musicgen-melodyText-to-Audio | UpdatedApr 24, 2024 | [Link](https://huggingface.co/facebook/musicgen-melody) |
+| 803 | 150 | nateraw/musicgen-songstarter-v0 | UpdatedMay 3, 2024 | [Link](https://huggingface.co/nateraw/musicgen-songstarter-v0.2) |
+| 1.4k | 87 | declare-lab/TangoFluxText-to-Audio | UpdatedJan 22 | [Link](https://huggingface.co/declare-lab/TangoFlux) |
+| 589 | 72 | facebook/musicgen-stereo-largeText-to-Audio | UpdatedMar 6, 2024 | [Link](https://huggingface.co/facebook/musicgen-stereo-large) |
+| 92 | 42 | facebook/musicgen-stereo-melody-largeText-to-Audio | UpdatedApr 24, 2024 | [Link](https://huggingface.co/facebook/musicgen-stereo-melody-large) |
+| 45 | 40 | declare-lab/tangoText-to-Audio | UpdatedDec 17, 2023 | [Link](https://huggingface.co/declare-lab/tango) |
+| 722 | 40 | declare-lab/mustangoText-to-Audio | UpdatedDec 17, 2023 | [Link](https://huggingface.co/declare-lab/mustango) |
+| 586 | 31 | facebook/audio-magnet-mediumText-to-Audio | UpdatedJan 16, 2024 | [Link](https://huggingface.co/facebook/audio-magnet-medium) |
+| 759 | 27 | facebook/musicgen-melody-largeText-to-Audio | UpdatedFeb 21, 2024 | [Link](https://huggingface.co/facebook/musicgen-melody-large) |
+| 285 | 24 | FunAudioLLM/InspireMusic-1 | Updated15 days ago | [Link](https://huggingface.co/FunAudioLLM/InspireMusic-1.5B-Long) |
+| 7.75k | 23 | Xenova/musicgen-smallText-to-Audio | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Xenova/musicgen-small) |
+| 118 | 17 | declare-lab/tango2Text-to-Audio | UpdatedApr 16, 2024 | [Link](https://huggingface.co/declare-lab/tango2) |
+| 150 | 15 | unity/sentis-MusicGenText-to-Audio | UpdatedApr 8, 2024 | [Link](https://huggingface.co/unity/sentis-MusicGen) |
+| 27 | 9 | declare-lab/tango2-fullText-to-Audio | UpdatedDec 29, 2024 | [Link](https://huggingface.co/declare-lab/tango2-full) |
+| 14 | 4 | reach-vb/musicgen-large-fp16-endpointText-to-Audio | UpdatedAug 2, 2023 | [Link](https://huggingface.co/reach-vb/musicgen-large-fp16-endpoint) |
+| 28 | 3 | karlwennerstrom/text-to-musicText-to-Audio | UpdatedMay 3, 2024 | [Link](https://huggingface.co/karlwennerstrom/text-to-music) |
+| 85 | 2 | TenzinGayche/speecht5-tibetan-ttsText-to-Audio | UpdatedAug 17, 2023 | [Link](https://huggingface.co/TenzinGayche/speecht5-tibetan-tts) |
+| 102 | 2 | flavioegoncalves/speecht5_tts_portugueseText-to-Audio | UpdatedJan 23, 2024 | [Link](https://huggingface.co/flavioegoncalves/speecht5_tts_portuguese) |
+| 84 | 2 | carlfeynman/speecht5-finetuned-dutchText-to-Audio | UpdatedMar 21, 2024 | [Link](https://huggingface.co/carlfeynman/speecht5-finetuned-dutch) |
+| 93 | 2 | carlfeynman/speecht5-finetuned-tamilText-to-Audio | UpdatedMar 21, 2024 | [Link](https://huggingface.co/carlfeynman/speecht5-finetuned-tamil) |
+| 34 | 2 | Reyouf/speecht5_tts_ArabicText-to-Audio | UpdatedApr 6, 2024 | [Link](https://huggingface.co/Reyouf/speecht5_tts_Arabic) |
+| 3.2k | 1.49k | 2Noise/ChatTTSText-to-Audio | UpdatedOct 22, 2024 | [Link](https://huggingface.co/2Noise/ChatTTS) |
+| 19.5k | 1.07k | stabilityai/stable-audio-open-1 | UpdatedJul 31, 2024 | [Link](https://huggingface.co/stabilityai/stable-audio-open-1.0) |
+| 15 | 1 | reach-vb/musicgen-small-endpointText-to-Audio | UpdatedJul 27, 2023 | [Link](https://huggingface.co/reach-vb/musicgen-small-endpoint) |
+| 30 | 1 | nagayama0706/music_generation_modelText-to-Audio | UpdatedApr 16, 2024 | [Link](https://huggingface.co/nagayama0706/music_generation_model) |
+| 60.3k |  | facebook/musicgen-smallText-to-Audio | UpdatedNov 17, 2023 | [Link](https://huggingface.co/facebook/musicgen-small) |
+| 24.3k |  | facebook/musicgen-stereo-smallText-to-Audio | UpdatedMar 6, 2024 | [Link](https://huggingface.co/facebook/musicgen-stereo-small) |
+| 1 | Unknown | songboai/SoVITS_liyunlongText-to-Audio | UpdatedApr 12, 2024 | [Link](https://huggingface.co/songboai/SoVITS_liyunlong) |
+
+## Text-to-Image
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 249k | 892 | city96/FLUX | UpdatedAug 18, 2024 | [Link](https://huggingface.co/city96/FLUX.1-dev-gguf) |
+| 8.63k | 644 | ostris/OpenFLUX | UpdatedOct 3, 2024 | [Link](https://huggingface.co/ostris/OpenFLUX.1) |
+| 49.2k | 457 | Shakker-Labs/FLUX | UpdatedAug 29, 2024 | [Link](https://huggingface.co/Shakker-Labs/FLUX.1-dev-ControlNet-Union-Pro) |
+| 39.9k | 449 | alimama-creative/FLUX | UpdatedOct 15, 2024 | [Link](https://huggingface.co/alimama-creative/FLUX.1-Turbo-Alpha) |
+| 26.8k | 386 | ostris/Flex | UpdatedJan 19 | [Link](https://huggingface.co/ostris/Flex.1-alpha) |
+| 8.52k | 350 | fofr/sdxl-emojiText-to-Image | UpdatedJun 27, 2024 | [Link](https://huggingface.co/fofr/sdxl-emoji) |
+| 2.23k | 42 | aoxo/flux | Updatedabout 2 hours ago | [Link](https://huggingface.co/aoxo/flux.1dev-abliteratedv2) |
+| 5.59k | 33 | hashu786/HYVRewardText-to-Image | Updated5 days ago | [Link](https://huggingface.co/hashu786/HYVReward) |
+| 90.4k | 1.31k | xinsir/controlnet-union-sdxl-1 | UpdatedJul 30, 2024 | [Link](https://huggingface.co/xinsir/controlnet-union-sdxl-1.0) |
+| 1.84M |  | black-forest-labs/FLUX | UpdatedAug 16, 2024 | [Link](https://huggingface.co/black-forest-labs/FLUX.1-dev) |
+| 268k |  | stabilityai/stable-diffusion-3 | UpdatedOct 22, 2024 | [Link](https://huggingface.co/stabilityai/stable-diffusion-3.5-large) |
+| 3.52M |  | stabilityai/stable-diffusion-xl-base-1 | UpdatedOct 30, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) |
+| 65.8k |  | strangerzonehf/Flux-Midjourney-Mix2-LoRAText-to-Image | UpdatedNov 27, 2024 | [Link](https://huggingface.co/strangerzonehf/Flux-Midjourney-Mix2-LoRA) |
+| 215k |  | XLabs-AI/flux-RealismLoraText-to-Image | UpdatedAug 22, 2024 | [Link](https://huggingface.co/XLabs-AI/flux-RealismLora) |
+| 208k |  | xey/sldr_flux_nsfw_v2-studioText-to-Image | UpdatedJan 14 | [Link](https://huggingface.co/xey/sldr_flux_nsfw_v2-studio) |
+| 8.94k |  | Alpha-VLLM/Lumina-Image-2 | Updated18 days ago | [Link](https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0) |
+| 53.1k |  | Jovie/MidjourneyText-to-Image | UpdatedJan 7 | [Link](https://huggingface.co/Jovie/Midjourney) |
+| 369 |  | strangerzonehf/Flux-Super-Paint-LoRAText-to-Image | Updated8 days ago | [Link](https://huggingface.co/strangerzonehf/Flux-Super-Paint-LoRA) |
+| 64.5k |  | cagliostrolab/animagine-xl-4 | Updated12 days ago | [Link](https://huggingface.co/cagliostrolab/animagine-xl-4.0) |
+| 113 | Unknown | Liberata/illustrious-xl-v1 | Updated12 days ago | [Link](https://huggingface.co/Liberata/illustrious-xl-v1.0) |
+| 872k |  | CompVis/stable-diffusion-v1-4Text-to-Image | UpdatedAug 23, 2023 | [Link](https://huggingface.co/CompVis/stable-diffusion-v1-4) |
+| 1.38k |  | openfree/flux-lora-korea-palaceText-to-Image | UpdatedDec 7, 2024 | [Link](https://huggingface.co/openfree/flux-lora-korea-palace) |
+| 837k |  | ByteDance/Hyper-SDText-to-Image | UpdatedDec 5, 2024 | [Link](https://huggingface.co/ByteDance/Hyper-SD) |
+| 4.33M |  | stable-diffusion-v1-5/stable-diffusion-v1-5Text-to-Image | UpdatedSep 7, 2024 | [Link](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5) |
+| 17.2k |  | openfree/claude-monetText-to-Image | UpdatedDec 26, 2024 | [Link](https://huggingface.co/openfree/claude-monet) |
+| 162 |  | strangerzonehf/Embroidery-Art-FluxText-to-Image | Updated3 days ago | [Link](https://huggingface.co/strangerzonehf/Embroidery-Art-Flux) |
+| 2.6k |  | seawolf2357/flux-lora-car-rolls-royceText-to-Image | UpdatedSep 17, 2024 | [Link](https://huggingface.co/seawolf2357/flux-lora-car-rolls-royce) |
+
+## Text-to-Speech
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 38.8k | 991 | Zyphra/Zonos-v0 | Updated10 days ago | [Link](https://huggingface.co/Zyphra/Zonos-v0.1-hybrid) |
+| 1.09M | 916 | SWivid/F5-TTSText-to-Speech | UpdatedNov 8, 2024 | [Link](https://huggingface.co/SWivid/F5-TTS) |
+| 155k | 733 | microsoft/speecht5_ttsText-to-Speech | UpdatedNov 8, 2023 | [Link](https://huggingface.co/microsoft/speecht5_tts) |
+| 11.8k | 480 | fishaudio/fish-speech-1 | UpdatedDec 3, 2024 | [Link](https://huggingface.co/fishaudio/fish-speech-1.5) |
+| 8.56k | 455 | HKUSTAudio/Llasa-3BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-3B) |
+| 116k | 255 | myshell-ai/MeloTTS-EnglishText-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/MeloTTS-English) |
+| 27.5k | 194 | suno/bark-smallText-to-Speech | UpdatedNov 10, 2023 | [Link](https://huggingface.co/suno/bark-small) |
+| 1.22k | 141 | stepfun-ai/Step-Audio-TTS-3BText-to-Speech | Updated8 days ago | [Link](https://huggingface.co/stepfun-ai/Step-Audio-TTS-3B) |
+| 19.6k | 127 | onnx-community/Kokoro-82M-ONNXText-to-Speech | Updated17 days ago | [Link](https://huggingface.co/onnx-community/Kokoro-82M-ONNX) |
+| 1.68k | 104 | parler-tts/parler-tts-mini-expressoText-to-Speech | UpdatedMay 21, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-mini-expresso) |
+| 3.52k | 87 | HKUSTAudio/Llasa-1BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-1B) |
+| 2.42k | 77 | FunAudioLLM/CosyVoice2-0 | UpdatedDec 27, 2024 | [Link](https://huggingface.co/FunAudioLLM/CosyVoice2-0.5B) |
+| 2.93k | 65 | capleaf/viXTTSText-to-Speech | UpdatedApr 7, 2024 | [Link](https://huggingface.co/capleaf/viXTTS) |
+| 2.99k | 63 | HKUSTAudio/Llasa-8BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-8B) |
+| 73.1k | 45 | onnx-community/Kokoro-82M-v1 | Updated17 days ago | [Link](https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX) |
+| 152 | 23 | OmarSamir/EGTTS-V0 | Updated27 days ago | [Link](https://huggingface.co/OmarSamir/EGTTS-V0.1) |
+| 943k | 22 | myshell-ai/MeloTTS-KoreanText-to-Speech | UpdatedFeb 29, 2024 | [Link](https://huggingface.co/myshell-ai/MeloTTS-Korean) |
+| 431 | 21 | firstpixel/F5-TTS-pt-brText-to-Speech | Updated13 days ago | [Link](https://huggingface.co/firstpixel/F5-TTS-pt-br) |
+| 1.54k | 19 | HKUSTAudio/Llasa-1B-MultilingualText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-1B-Multilingual) |
+| 73 | 12 | geneing/KokoroText-to-Speech | UpdatedJan 10 | [Link](https://huggingface.co/geneing/Kokoro) |
+| 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
+| 2.36M | 2.41k | coqui/XTTS-v2Text-to-Speech | UpdatedDec 11, 2023 | [Link](https://huggingface.co/coqui/XTTS-v2) |
+| 302 | Unknown | lj1995/GPT-SoVITSText-to-Speech | Updated14 days ago | [Link](https://huggingface.co/lj1995/GPT-SoVITS) |
+| 436 | Unknown | myshell-ai/OpenVoiceText-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoice) |
+| 365 | Unknown | myshell-ai/OpenVoiceV2Text-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoiceV2) |
+| 40.5k |  | suno/barkText-to-Speech | UpdatedOct 4, 2023 | [Link](https://huggingface.co/suno/bark) |
+| 230 | Unknown | WhisperSpeech/WhisperSpeechText-to-Speech | UpdatedSep 8, 2024 | [Link](https://huggingface.co/WhisperSpeech/WhisperSpeech) |
+| 418 | Unknown | gpt-omni/mini-omniText-to-Speech | UpdatedSep 4, 2024 | [Link](https://huggingface.co/gpt-omni/mini-omni) |
+| 6 | Unknown | sinhprous/F5TTS-stabilized-LJSpeechText-to-Speech | UpdatedJan 7 | [Link](https://huggingface.co/sinhprous/F5TTS-stabilized-LJSpeech) |
+
+## Text-to-Video
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 882k | 892 | ByteDance/AnimateDiff-LightningText-to-Video | UpdatedJan 6 | [Link](https://huggingface.co/ByteDance/AnimateDiff-Lightning) |
+| 16.5k | 612 | ali-vilab/text-to-video-ms-1 | UpdatedDec 1, 2023 | [Link](https://huggingface.co/ali-vilab/text-to-video-ms-1.7b) |
+| 23.8k | 473 | cerspense/zeroscope_v2_576wText-to-Video | UpdatedJul 1, 2023 | [Link](https://huggingface.co/cerspense/zeroscope_v2_576w) |
+| 1.17k | 353 | stepfun-ai/stepvideo-t2vText-to-Video | Updated6 days ago | [Link](https://huggingface.co/stepfun-ai/stepvideo-t2v) |
+| 4.43k | 306 | hotshotco/Hotshot-XLText-to-Video | UpdatedOct 11, 2023 | [Link](https://huggingface.co/hotshotco/Hotshot-XL) |
+| 315 | 175 | FastVideo/FastHunyuanText-to-Video | UpdatedJan 8 | [Link](https://huggingface.co/FastVideo/FastHunyuan) |
+| 28k | 169 | ali-vilab/i2vgen-xlText-to-Video | UpdatedFeb 9, 2024 | [Link](https://huggingface.co/ali-vilab/i2vgen-xl) |
+| 30.2k | 141 | city96/HunyuanVideo-ggufText-to-Video | UpdatedDec 17, 2024 | [Link](https://huggingface.co/city96/HunyuanVideo-gguf) |
+| 15.2k | 65 | Skywork/SkyReels-V1-Hunyuan-T2VText-to-Video | Updatedabout 21 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-T2V) |
+| 14.9k | 36 | city96/FastHunyuan-ggufText-to-Video | UpdatedJan 8 | [Link](https://huggingface.co/city96/FastHunyuan-gguf) |
+| 48 | 30 | PAIR/text2video-zero-controlnet-canny-arcaneText-to-Video | UpdatedApr 6, 2023 | [Link](https://huggingface.co/PAIR/text2video-zero-controlnet-canny-arcane) |
+| 8.22k | 26 | Searchium-ai/clip4clip-webvid150kText-to-Video | UpdatedOct 27, 2024 | [Link](https://huggingface.co/Searchium-ai/clip4clip-webvid150k) |
+| 119 | 20 | PAIR/text2video-zero-controlnet-canny-animeText-to-Video | UpdatedApr 6, 2023 | [Link](https://huggingface.co/PAIR/text2video-zero-controlnet-canny-anime) |
+| 3.74k | 17 | calcuis/hyvidText-to-Video | Updated24 days ago | [Link](https://huggingface.co/calcuis/hyvid) |
+| 53 | 11 | lucataco/hunyuan-musubi-lora-heygen-6Text-to-Video | UpdatedJan 13 | [Link](https://huggingface.co/lucataco/hunyuan-musubi-lora-heygen-6) |
+| 638 | 8 | calcuis/mochiText-to-Video | Updated22 days ago | [Link](https://huggingface.co/calcuis/mochi) |
+| 863 | 6 | guoyww/animatediff-motion-adapter-v1-5-3Text-to-Video | UpdatedJul 8, 2024 | [Link](https://huggingface.co/guoyww/animatediff-motion-adapter-v1-5-3) |
+| 69 | 2 | obvious-research/onlyflowText-to-Video | Updated5 days ago | [Link](https://huggingface.co/obvious-research/onlyflow) |
+| 42 | 2 | jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIEText-to-Video | Updated7 days ago | [Link](https://huggingface.co/jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIE) |
+| 10 | 2 | vdo/Hotshot-XLText-to-Video | UpdatedOct 4, 2023 | [Link](https://huggingface.co/vdo/Hotshot-XL) |
+| 7.59k |  | tencent/HunyuanVideoText-to-Video | UpdatedJan 21 | [Link](https://huggingface.co/tencent/HunyuanVideo) |
+| 26.6k |  | genmo/mochi-1-previewText-to-Video | UpdatedDec 18, 2024 | [Link](https://huggingface.co/genmo/mochi-1-preview) |
+| 91.5k |  | THUDM/CogVideoX-5bText-to-Video | UpdatedNov 23, 2024 | [Link](https://huggingface.co/THUDM/CogVideoX-5b) |
+| 41 | Unknown | Alpha-VLLM/Lumina-Video-f24R960Text-to-Video | Updated10 days ago | [Link](https://huggingface.co/Alpha-VLLM/Lumina-Video-f24R960) |
+| 818 | Unknown | rain1011/pyramid-flow-sd3Text-to-Video | UpdatedOct 30, 2024 | [Link](https://huggingface.co/rain1011/pyramid-flow-sd3) |
+| 115 | Unknown | kudzueye/boreal-hl-v1Text-to-Video | Updated14 days ago | [Link](https://huggingface.co/kudzueye/boreal-hl-v1) |
+| 13 | Unknown | FoundationVision/FlashVideoText-to-Video | Updated11 days ago | [Link](https://huggingface.co/FoundationVision/FlashVideo) |
+| 173 | Unknown | CiaraRowles/TemporalDiffText-to-Video | UpdatedSep 30, 2023 | [Link](https://huggingface.co/CiaraRowles/TemporalDiff) |
+| 19 | Unknown | Vchitect/LaVieText-to-Video | UpdatedDec 4, 2023 | [Link](https://huggingface.co/Vchitect/LaVie) |
+| 47 | Unknown | Lightricks/LongAnimateDiffText-to-Video | UpdatedFeb 5, 2024 | [Link](https://huggingface.co/Lightricks/LongAnimateDiff) |
+
+## Text2Text Generation
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 21.6k | 400 | bigscience/T0ppText2Text | UpdatedMar 19, 2024 | [Link](https://huggingface.co/bigscience/T0pp) |
+| 99 | 288 | google/switch-c-2048Text2Text | UpdatedJan 11, 2024 | [Link](https://huggingface.co/google/switch-c-2048) |
+| 20.5k | 216 | Babelscape/rebel-largeText2Text | UpdatedJun 20, 2023 | [Link](https://huggingface.co/Babelscape/rebel-large) |
+| 709k | 102 | google/t5-v1_1-xxlText2Text | UpdatedJan 24, 2023 | [Link](https://huggingface.co/google/t5-v1_1-xxl) |
+| 9.59k | 84 | ystemsrx/Qwen2 | UpdatedOct 6, 2024 | [Link](https://huggingface.co/ystemsrx/Qwen2.5-Sex) |
+| 936 | 24 | Unbabel/gec-t5_smallText2Text | UpdatedSep 27, 2021 | [Link](https://huggingface.co/Unbabel/gec-t5_small) |
+| 45 | 12 | prithivMLmods/Ares-Bart-CnnText2Text | UpdatedMay 13, 2024 | [Link](https://huggingface.co/prithivMLmods/Ares-Bart-Cnn) |
+| 379 | 12 | nakamoto-yama/t5-resume-generationText2Text | UpdatedJul 3, 2024 | [Link](https://huggingface.co/nakamoto-yama/t5-resume-generation) |
+| 565 | 11 | ahmetbagci/bert2bert-turkish-paraphrase-generationText2Text | UpdatedOct 18, 2021 | [Link](https://huggingface.co/ahmetbagci/bert2bert-turkish-paraphrase-generation) |
+| 197 | 8 | KETI-AIR/ke-t5-base-koText2Text | UpdatedSep 18, 2023 | [Link](https://huggingface.co/KETI-AIR/ke-t5-base-ko) |
+| 31 | 1 | Ayham/bert_roberta_summarization_cnn_dailymailText2Text | UpdatedFeb 24, 2022 | [Link](https://huggingface.co/Ayham/bert_roberta_summarization_cnn_dailymail) |
+| 121 | 1 | cnicu/pegasus-xsum-booksumText2Text | UpdatedFeb 26, 2022 | [Link](https://huggingface.co/cnicu/pegasus-xsum-booksum) |
+| 1.6M |  | facebook/m2m100_418MText2Text | UpdatedFeb 29, 2024 | [Link](https://huggingface.co/facebook/m2m100_418M) |
+| 534k |  | google/flan-t5-smallText2Text | UpdatedOct 10, 2023 | [Link](https://huggingface.co/google/flan-t5-small) |
+| 5.44k |  | cssupport/t5-small-awesome-text-to-sqlText2Text | UpdatedAug 29, 2023 | [Link](https://huggingface.co/cssupport/t5-small-awesome-text-to-sql) |
+| 3.98k |  | allenai/led-large-16384-arxivText2Text | UpdatedJan 24, 2023 | [Link](https://huggingface.co/allenai/led-large-16384-arxiv) |
+| 749k |  | facebook/m2m100_1 | UpdatedNov 16, 2023 | [Link](https://huggingface.co/facebook/m2m100_1.2B) |
+| 2.37M |  | google/flan-t5-largeText2Text | UpdatedJul 17, 2023 | [Link](https://huggingface.co/google/flan-t5-large) |
+| 18k |  | humarin/chatgpt_paraphraser_on_T5_baseText2Text | UpdatedAug 1, 2024 | [Link](https://huggingface.co/humarin/chatgpt_paraphraser_on_T5_base) |
+| 1.08k |  | KETI-AIR/ke-t5-baseText2Text | UpdatedSep 18, 2023 | [Link](https://huggingface.co/KETI-AIR/ke-t5-base) |
+| 1.77k |  | Langboat/mengzi-t5-baseText2Text | UpdatedMay 8, 2023 | [Link](https://huggingface.co/Langboat/mengzi-t5-base) |
+| 26.7k |  | Michau/t5-base-en-generate-headlineText2Text | UpdatedJun 23, 2021 | [Link](https://huggingface.co/Michau/t5-base-en-generate-headline) |
+| 23.5k |  | Salesforce/codet5-baseText2Text | UpdatedJan 21 | [Link](https://huggingface.co/Salesforce/codet5-base) |
+| 11.8k |  | Salesforce/codet5-smallText2Text | UpdatedJan 21 | [Link](https://huggingface.co/Salesforce/codet5-small) |
+| 3.12k |  | ai4bharat/IndicBARTText2Text | UpdatedAug 7, 2022 | [Link](https://huggingface.co/ai4bharat/IndicBART) |
+| 74k |  | allenai/led-base-16384Text2Text | UpdatedJan 24, 2023 | [Link](https://huggingface.co/allenai/led-base-16384) |
+| 1.67k |  | allenai/led-large-16384Text2Text | UpdatedJan 24, 2023 | [Link](https://huggingface.co/allenai/led-large-16384) |
+| 31 |  | cammy/distilbart-cnn-12-6-finetuned-weaksup-1000Text2Text | UpdatedFeb 22, 2022 | [Link](https://huggingface.co/cammy/distilbart-cnn-12-6-finetuned-weaksup-1000) |
+| 1.64k |  | cointegrated/rut5-base-multitaskText2Text | UpdatedMar 17, 2023 | [Link](https://huggingface.co/cointegrated/rut5-base-multitask) |
+| 2.26k |  | cointegrated/rut5-base-paraphraserText2Text | UpdatedMar 17, 2023 | [Link](https://huggingface.co/cointegrated/rut5-base-paraphraser) |
+
+## Time Series Forecasting
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 1.88k | 722 | google/timesfm-1 | UpdatedMay 17, 2024 | [Link](https://huggingface.co/google/timesfm-1.0-200m) |
+| 1.81M | 261 | ibm-granite/granite-timeseries-ttm-r1Time | Updated26 days ago | [Link](https://huggingface.co/ibm-granite/granite-timeseries-ttm-r1) |
+| 612k | 134 | amazon/chronos-t5-largeTime | Updated8 days ago | [Link](https://huggingface.co/amazon/chronos-t5-large) |
+| 1.05M | 105 | amazon/chronos-t5-tinyTime | Updated8 days ago | [Link](https://huggingface.co/amazon/chronos-t5-tiny) |
+| 18.7k | 75 | Salesforce/moirai-1 | UpdatedJan 21 | [Link](https://huggingface.co/Salesforce/moirai-1.0-R-large) |
+| 747k | 50 | ibm-granite/granite-timeseries-ttm-r2Time | Updatedabout 9 hours ago | [Link](https://huggingface.co/ibm-granite/granite-timeseries-ttm-r2) |
+| 7.25M | 42 | amazon/chronos-t5-smallTime | Updated8 days ago | [Link](https://huggingface.co/amazon/chronos-t5-small) |
+| 1.03M | 30 | amazon/chronos-bolt-baseTime | Updated8 days ago | [Link](https://huggingface.co/amazon/chronos-bolt-base) |
+| 29.6k | 22 | thuml/timer-base-84mTime | UpdatedJan 11 | [Link](https://huggingface.co/thuml/timer-base-84m) |
+| 41 | 17 | keras-io/timeseries_forecasting_for_weatherTime | UpdatedJul 9, 2024 | [Link](https://huggingface.co/keras-io/timeseries_forecasting_for_weather) |
+| 301k | 17 | amazon/chronos-t5-miniTime | Updated8 days ago | [Link](https://huggingface.co/amazon/chronos-t5-mini) |
+| 501k | 15 | amazon/chronos-bolt-tinyTime | Updated8 days ago | [Link](https://huggingface.co/amazon/chronos-bolt-tiny) |
+| 6.82k | 13 | ibm-granite/granite-timeseries-patchtsmixerTime | UpdatedAug 1, 2024 | [Link](https://huggingface.co/ibm-granite/granite-timeseries-patchtsmixer) |
+| 49 | 12 | keras-io/timeseries_transformer_classificationTime | UpdatedJul 9, 2024 | [Link](https://huggingface.co/keras-io/timeseries_transformer_classification) |
+| 10.9M | 11 | autogluon/chronos-bolt-smallTime | Updated8 days ago | [Link](https://huggingface.co/autogluon/chronos-bolt-small) |
+| 803k | 11 | autogluon/chronos-bolt-tinyTime | Updated8 days ago | [Link](https://huggingface.co/autogluon/chronos-bolt-tiny) |
+| 6.22k | 9 | ibm-granite/granite-timeseries-patchtstTime | UpdatedAug 1, 2024 | [Link](https://huggingface.co/ibm-granite/granite-timeseries-patchtst) |
+| 105k | 7 | Maple728/TimeMoE-200MTime | UpdatedOct 22, 2024 | [Link](https://huggingface.co/Maple728/TimeMoE-200M) |
+| 99.4k | 7 | Salesforce/moirai-moe-1 | UpdatedJan 21 | [Link](https://huggingface.co/Salesforce/moirai-moe-1.0-R-base) |
+| 33.5k | 2 | ibm-research/ttm-research-r2Time | UpdatedNov 12, 2024 | [Link](https://huggingface.co/ibm-research/ttm-research-r2) |
+| 134 | 1 | ChengsenWang/ChatTime-1-7B-ChatTime | UpdatedDec 17, 2024 | [Link](https://huggingface.co/ChengsenWang/ChatTime-1-7B-Chat) |
+| 177 | 1 | nieche/chronos-t5-small-fine-tuned-v1Time | UpdatedDec 20, 2024 | [Link](https://huggingface.co/nieche/chronos-t5-small-fine-tuned-v1) |
+| 19 | 1 | nieche/chronos-bolt-small-fine-tuned-v2Time | UpdatedJan 20 | [Link](https://huggingface.co/nieche/chronos-bolt-small-fine-tuned-v2) |
+| 109 | 1 | ibm-research/patchtst-etth1-pretrainTime | UpdatedNov 14, 2024 | [Link](https://huggingface.co/ibm-research/patchtst-etth1-pretrain) |
+| 122 | Unknown | google/timesfm-2 | UpdatedDec 30, 2024 | [Link](https://huggingface.co/google/timesfm-2.0-500m-pytorch) |
+| 218 | Unknown | time-series-foundation-models/Lag-LlamaTime | UpdatedMay 14, 2024 | [Link](https://huggingface.co/time-series-foundation-models/Lag-Llama) |
+
+## Token Classification
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 68.7k | 98 | urchade/gliner_multi_pii-v1Token | UpdatedApr 20, 2024 | [Link](https://huggingface.co/urchade/gliner_multi_pii-v1) |
+| 25.4k | 74 | numind/NuNER_ZeroToken | Updated22 days ago | [Link](https://huggingface.co/numind/NuNER_Zero) |
+| 172k | 32 | elastic/distilbert-base-uncased-finetuned-conll03-englishToken | UpdatedAug 28, 2023 | [Link](https://huggingface.co/elastic/distilbert-base-uncased-finetuned-conll03-english) |
+| 2.43k | 24 | cmarkea/distilcamembert-base-nerToken | UpdatedOct 26, 2024 | [Link](https://huggingface.co/cmarkea/distilcamembert-base-ner) |
+| 11.1k | 22 | alvaroalon2/biobert_genetic_nerToken | UpdatedMar 17, 2023 | [Link](https://huggingface.co/alvaroalon2/biobert_genetic_ner) |
+| 1.68k | 20 | alvaroalon2/biobert_chemical_nerToken | UpdatedMar 17, 2023 | [Link](https://huggingface.co/alvaroalon2/biobert_chemical_ner) |
+| 12.5k | 16 | gliner-community/gliner_large-v2 | UpdatedJun 18, 2024 | [Link](https://huggingface.co/gliner-community/gliner_large-v2.5) |
+| 15.3k | 12 | FacebookAI/xlm-roberta-large-finetuned-conll03-germanToken | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/FacebookAI/xlm-roberta-large-finetuned-conll03-german) |
+| 281 | 6 | HooshvareLab/bert-fa-base-uncased-ner-peymaToken | UpdatedMay 18, 2021 | [Link](https://huggingface.co/HooshvareLab/bert-fa-base-uncased-ner-peyma) |
+| 551 | 5 | RecordedFuture/Swedish-NERToken | UpdatedMay 24, 2021 | [Link](https://huggingface.co/RecordedFuture/Swedish-NER) |
+| 3.14k | 5 | dumitrescustefan/bert-base-romanian-nerToken | UpdatedJan 24, 2022 | [Link](https://huggingface.co/dumitrescustefan/bert-base-romanian-ner) |
+| 138 | 4 | KBLab/bert-base-swedish-cased-posToken | UpdatedJun 16, 2023 | [Link](https://huggingface.co/KBLab/bert-base-swedish-cased-pos) |
+| 142 | 4 | KBLab/bert-base-swedish-lowermix-reallysimple-nerToken | UpdatedApr 19, 2023 | [Link](https://huggingface.co/KBLab/bert-base-swedish-lowermix-reallysimple-ner) |
+| 7 | 3 | KBLab/swedish-spacy-pipelineToken | UpdatedOct 4, 2021 | [Link](https://huggingface.co/KBLab/swedish-spacy-pipeline) |
+| 377 | 3 | albertvillanova/autonlp-wikiann-entity_extraction-1e67664-1301123Token | UpdatedApr 4, 2023 | [Link](https://huggingface.co/albertvillanova/autonlp-wikiann-entity_extraction-1e67664-1301123) |
+| 168 | 1 | dccuchile/distilbert-base-spanish-uncased-finetuned-nerToken | UpdatedJan 6, 2022 | [Link](https://huggingface.co/dccuchile/distilbert-base-spanish-uncased-finetuned-ner) |
+| 102 | 1 | KBLab/bert-base-swedish-cased-reallysimple-nerToken | UpdatedNov 15, 2022 | [Link](https://huggingface.co/KBLab/bert-base-swedish-cased-reallysimple-ner) |
+| 2.41M |  | dslim/bert-base-NERToken | UpdatedOct 8, 2024 | [Link](https://huggingface.co/dslim/bert-base-NER) |
+| 1.41M |  | dbmdz/bert-large-cased-finetuned-conll03-englishToken | UpdatedSep 6, 2023 | [Link](https://huggingface.co/dbmdz/bert-large-cased-finetuned-conll03-english) |
+| 714k |  | FacebookAI/xlm-roberta-large-finetuned-conll03-englishToken | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/FacebookAI/xlm-roberta-large-finetuned-conll03-english) |
+| 117k |  | Jean-Baptiste/roberta-large-ner-englishToken | UpdatedMar 22, 2023 | [Link](https://huggingface.co/Jean-Baptiste/roberta-large-ner-english) |
+| 2 | Unknown | lots-o/gliner-bi-ko-xlarge-v1Token | Updated2 days ago | [Link](https://huggingface.co/lots-o/gliner-bi-ko-xlarge-v1) |
+| 292k |  | Babelscape/wikineural-multilingual-nerToken | UpdatedMay 23, 2023 | [Link](https://huggingface.co/Babelscape/wikineural-multilingual-ner) |
+| 19k |  | CAMeL-Lab/bert-base-arabic-camelbert-mix-nerToken | UpdatedOct 17, 2021 | [Link](https://huggingface.co/CAMeL-Lab/bert-base-arabic-camelbert-mix-ner) |
+| 204k |  | Davlan/bert-base-multilingual-cased-ner-hrlToken | UpdatedNov 11, 2024 | [Link](https://huggingface.co/Davlan/bert-base-multilingual-cased-ner-hrl) |
+| 158k |  | Jean-Baptiste/camembert-ner-with-datesToken | UpdatedJun 16, 2023 | [Link](https://huggingface.co/Jean-Baptiste/camembert-ner-with-dates) |
+| 168k |  | Jean-Baptiste/camembert-nerToken | UpdatedJun 1, 2023 | [Link](https://huggingface.co/Jean-Baptiste/camembert-ner) |
+| 17.8k |  | akdeniz27/bert-base-turkish-cased-nerToken | UpdatedJun 18, 2024 | [Link](https://huggingface.co/akdeniz27/bert-base-turkish-cased-ner) |
+| 8.4k |  | alvaroalon2/biobert_diseases_nerToken | UpdatedMar 17, 2023 | [Link](https://huggingface.co/alvaroalon2/biobert_diseases_ner) |
+| 160k |  | dslim/bert-large-NERToken | UpdatedOct 8, 2024 | [Link](https://huggingface.co/dslim/bert-large-NER) |
+
+## Translation
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 44.6k | 288 | facebook/nllb-200-3 | UpdatedFeb 11, 2023 | [Link](https://huggingface.co/facebook/nllb-200-3.3B) |
+| 11.5k | 108 | google/madlad400-10b-mtTranslation | UpdatedApr 12, 2024 | [Link](https://huggingface.co/google/madlad400-10b-mt) |
+| 1.13M | 60 | google-t5/t5-11bTranslation | UpdatedJan 2, 2023 | [Link](https://huggingface.co/google-t5/t5-11b) |
+| 361 | 45 | kyutai/hibiki-2b-pytorch-bf16Translation | Updated19 days ago | [Link](https://huggingface.co/kyutai/hibiki-2b-pytorch-bf16) |
+| 740 | 26 | Unbabel/TowerInstruct-13B-v0 | UpdatedMay 8, 2024 | [Link](https://huggingface.co/Unbabel/TowerInstruct-13B-v0.1) |
+| 242 | 18 | ModelSpace/GemmaX2-28-9B-v0 | Updatedabout 14 hours ago | [Link](https://huggingface.co/ModelSpace/GemmaX2-28-9B-v0.1) |
+| 325 | 10 | rudrashah/RLM-hinglish-translatorTranslation | Updated23 days ago | [Link](https://huggingface.co/rudrashah/RLM-hinglish-translator) |
+| 115 | 4 | allegro/multislav-5langTranslation | Updated14 days ago | [Link](https://huggingface.co/allegro/multislav-5lang) |
+| 35 | 3 | SVECTOR-CORPORATION/Akshara-2B-HindiTranslation | Updated14 days ago | [Link](https://huggingface.co/SVECTOR-CORPORATION/Akshara-2B-Hindi) |
+| 31 | 2 | ModelSpace/GemmaX2-28-2B-PretrainTranslation | Updatedabout 14 hours ago | [Link](https://huggingface.co/ModelSpace/GemmaX2-28-2B-Pretrain) |
+| 652 | 1 | Helsinki-NLP/opus-mt-de-arTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-de-ar) |
+| 108 | 1 | Helsinki-NLP/opus-mt-en-biTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-en-bi) |
+| 1.8k |  | ModelSpace/GemmaX2-28-2B-v0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/ModelSpace/GemmaX2-28-2B-v0.1) |
+| 5.39M |  | google-t5/t5-smallTranslation | UpdatedJun 30, 2023 | [Link](https://huggingface.co/google-t5/t5-small) |
+| 421k |  | Helsinki-NLP/opus-mt-zh-enTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-zh-en) |
+| 712k |  | facebook/nllb-200-distilled-600MTranslation | UpdatedFeb 14, 2024 | [Link](https://huggingface.co/facebook/nllb-200-distilled-600M) |
+| 502k |  | Helsinki-NLP/opus-mt-en-zhTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-en-zh) |
+| 36 | Unknown | Unbabel/wmt22-cometkiwi-daTranslation | UpdatedJan 3 | [Link](https://huggingface.co/Unbabel/wmt22-cometkiwi-da) |
+| 2.7M |  | google-t5/t5-baseTranslation | UpdatedFeb 14, 2024 | [Link](https://huggingface.co/google-t5/t5-base) |
+| 219k |  | Helsinki-NLP/opus-mt-en-frTranslation | UpdatedFeb 14, 2024 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-en-fr) |
+| 37.6k |  | Helsinki-NLP/opus-mt-id-enTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-id-en) |
+| 437k |  | Helsinki-NLP/opus-mt-ru-enTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-ru-en) |
+| 197k |  | facebook/mbart-large-50-many-to-many-mmtTranslation | UpdatedSep 28, 2023 | [Link](https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt) |
+| 31 | Unknown | Unbabel/XCOMET-XLTranslation | UpdatedJan 3 | [Link](https://huggingface.co/Unbabel/XCOMET-XL) |
+| 435k |  | google-t5/t5-largeTranslation | UpdatedApr 6, 2023 | [Link](https://huggingface.co/google-t5/t5-large) |
+| 427k |  | Helsinki-NLP/opus-mt-ar-enTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-ar-en) |
+| 3.24k |  | Helsinki-NLP/opus-mt-bn-enTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-bn-en) |
+| 135 |  | Helsinki-NLP/opus-mt-bnt-enTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-bnt-en) |
+| 345k |  | Helsinki-NLP/opus-mt-en-arTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-en-ar) |
+| 146k |  | Helsinki-NLP/opus-mt-en-deTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-en-de) |
+
+## Unconditional Image Generation
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 34.1k | 64 | google/ddpm-cifar10-32Unconditional | UpdatedAug 3, 2023 | [Link](https://huggingface.co/google/ddpm-cifar10-32) |
+| 65.3k | 46 | google/ddpm-celebahq-256Unconditional | UpdatedJul 21, 2022 | [Link](https://huggingface.co/google/ddpm-celebahq-256) |
+| 304 | 42 | CompVis/ldm-celebahq-256Unconditional | UpdatedJul 28, 2022 | [Link](https://huggingface.co/CompVis/ldm-celebahq-256) |
+| 34 | 14 | huggan/crypto-ganUnconditional | UpdatedJul 6, 2024 | [Link](https://huggingface.co/huggan/crypto-gan) |
+| 55 | 6 | huggingnft/cryptopunksUnconditional | UpdatedSep 26, 2022 | [Link](https://huggingface.co/huggingnft/cryptopunks) |
+| 27 | 4 | huggingnft/dooggiesUnconditional | UpdatedApr 25, 2022 | [Link](https://huggingface.co/huggingnft/dooggies) |
+| 65 | 3 | huggingnft/cyberkongzUnconditional | UpdatedJun 18, 2022 | [Link](https://huggingface.co/huggingnft/cyberkongz) |
+| 107 | 3 | ceyda/butterfly_cropped_uniq1K_512Unconditional | UpdatedApr 25, 2022 | [Link](https://huggingface.co/ceyda/butterfly_cropped_uniq1K_512) |
+| 29 | 2 | huggingnft/nftrexUnconditional | UpdatedApr 25, 2022 | [Link](https://huggingface.co/huggingnft/nftrex) |
+| 21 | 2 | huggingnft/cryptoskullsUnconditional | UpdatedApr 25, 2022 | [Link](https://huggingface.co/huggingnft/cryptoskulls) |
+| 51 | 1 | emirkaanozdemr/ddpm-celebahq-finetuned-butterflies-2epochsUnconditional | Updated28 days ago | [Link](https://huggingface.co/emirkaanozdemr/ddpm-celebahq-finetuned-butterflies-2epochs) |
+| 27 | 1 | huggingnft/mini-mutantsUnconditional | UpdatedApr 25, 2022 | [Link](https://huggingface.co/huggingnft/mini-mutants) |
+| 20 | 1 | huggingnft/trippytoadznftUnconditional | UpdatedApr 25, 2022 | [Link](https://huggingface.co/huggingnft/trippytoadznft) |
+| 19 | 1 | huggingnft/etherbearsUnconditional | UpdatedApr 25, 2022 | [Link](https://huggingface.co/huggingnft/etherbears) |
+| 12 | 1 | huggingnft/hapeprimeUnconditional | UpdatedApr 25, 2022 | [Link](https://huggingface.co/huggingnft/hapeprime) |
+| 13 | 1 | huggingnft/alpacadabrazUnconditional | UpdatedJun 7, 2022 | [Link](https://huggingface.co/huggingnft/alpacadabraz) |
+| 3 | Unknown | huggan/stylegan_animeface512Unconditional | UpdatedApr 29, 2022 | [Link](https://huggingface.co/huggan/stylegan_animeface512) |
+| 67 | Unknown | multimodalart/sdxl_perturbed_attention_guidanceUnconditional | UpdatedApr 17, 2024 | [Link](https://huggingface.co/multimodalart/sdxl_perturbed_attention_guidance) |
+| 1 | Unknown | Epiphqny/PARUnconditional | UpdatedJan 2 | [Link](https://huggingface.co/Epiphqny/PAR) |
+| 1 | Unknown | hustvl/lightningdit-xl-imagenet256-64epUnconditional | Updated8 days ago | [Link](https://huggingface.co/hustvl/lightningdit-xl-imagenet256-64ep) |
+| Unknown | Unknown | huggan/fastgan-few-shot-fauvism-still-lifeUnconditional | UpdatedMay 6, 2022 | [Link](https://huggingface.co/huggan/fastgan-few-shot-fauvism-still-life) |
+| 4 | Unknown | huggan/fastgan-few-shot-paintingUnconditional | UpdatedMay 6, 2022 | [Link](https://huggingface.co/huggan/fastgan-few-shot-painting) |
+| 5 | Unknown | huggan/fastgan-few-shot-shellsUnconditional | UpdatedMay 6, 2022 | [Link](https://huggingface.co/huggan/fastgan-few-shot-shells) |
+| Unknown | Unknown | huggan/fastgan-few-shot-auroraUnconditional | UpdatedMay 6, 2022 | [Link](https://huggingface.co/huggan/fastgan-few-shot-aurora) |
+| Unknown | Unknown | huggan/projected_gan_color_fieldUnconditional | UpdatedApr 25, 2022 | [Link](https://huggingface.co/huggan/projected_gan_color_field) |
+| 1 | Unknown | huggan/projected_gan_popartUnconditional | UpdatedApr 25, 2022 | [Link](https://huggingface.co/huggan/projected_gan_popart) |
+| 1 | Unknown | huggan/projected_gan_abstract_expressionismUnconditional | UpdatedApr 25, 2022 | [Link](https://huggingface.co/huggan/projected_gan_abstract_expressionism) |
+| 2 | Unknown | huggan/ArtGANUnconditional | UpdatedApr 25, 2022 | [Link](https://huggingface.co/huggan/ArtGAN) |
+| Unknown | Unknown | huggan/projected_gan_Hana_HanakUnconditional | UpdatedApr 25, 2022 | [Link](https://huggingface.co/huggan/projected_gan_Hana_Hanak) |
+| Unknown | Unknown | huggan/projected_gan_color_field_hanaUnconditional | UpdatedApr 25, 2022 | [Link](https://huggingface.co/huggan/projected_gan_color_field_hana) |
+
+## Video Classification
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 184k | 72 | microsoft/xclip-base-patch32Video | UpdatedFeb 4, 2024 | [Link](https://huggingface.co/microsoft/xclip-base-patch32) |
+| 439k | 40 | MCG-NJU/videomae-baseVideo | UpdatedMar 29, 2024 | [Link](https://huggingface.co/MCG-NJU/videomae-base) |
+| 169k | 35 | MCG-NJU/videomae-base-finetuned-kineticsVideo | UpdatedMar 29, 2024 | [Link](https://huggingface.co/MCG-NJU/videomae-base-finetuned-kinetics) |
+| 247k | 29 | facebook/timesformer-base-finetuned-k400Video | UpdatedJan 2, 2023 | [Link](https://huggingface.co/facebook/timesformer-base-finetuned-k400) |
+| 24k | 29 | google/vivit-b-16x2-kinetics400Video | UpdatedAug 3, 2023 | [Link](https://huggingface.co/google/vivit-b-16x2-kinetics400) |
+| 5.07k | 24 | microsoft/xclip-base-patch16-zero-shotVideo | UpdatedSep 12, 2023 | [Link](https://huggingface.co/microsoft/xclip-base-patch16-zero-shot) |
+| 2.03k | 22 | MCG-NJU/videomae-largeVideo | UpdatedApr 1, 2024 | [Link](https://huggingface.co/MCG-NJU/videomae-large) |
+| 56 | 14 | keras-io/video-classification-cnn-rnnVideo | UpdatedJul 9, 2024 | [Link](https://huggingface.co/keras-io/video-classification-cnn-rnn) |
+| 2.16k | 12 | MCG-NJU/videomae-large-finetuned-kineticsVideo | UpdatedMar 29, 2024 | [Link](https://huggingface.co/MCG-NJU/videomae-large-finetuned-kinetics) |
+| 3.48k | 6 | MCG-NJU/videomae-base-finetuned-ssv2Video | UpdatedApr 22, 2023 | [Link](https://huggingface.co/MCG-NJU/videomae-base-finetuned-ssv2) |
+| 211 | 4 | MCG-NJU/videomae-huge-finetuned-kineticsVideo | UpdatedApr 22, 2023 | [Link](https://huggingface.co/MCG-NJU/videomae-huge-finetuned-kinetics) |
+| 1.96k | 3 | OpenGVLab/VideoMAEv2-BaseVideo | UpdatedJan 14 | [Link](https://huggingface.co/OpenGVLab/VideoMAEv2-Base) |
+| 984 | 3 | MCG-NJU/videomae-base-shortVideo | UpdatedMar 29, 2024 | [Link](https://huggingface.co/MCG-NJU/videomae-base-short) |
+| 94 | 3 | MCG-NJU/videomae-base-short-finetuned-kineticsVideo | UpdatedApr 22, 2023 | [Link](https://huggingface.co/MCG-NJU/videomae-base-short-finetuned-kinetics) |
+| 282 | 3 | microsoft/xclip-base-patch32-16-framesVideo | UpdatedOct 28, 2024 | [Link](https://huggingface.co/microsoft/xclip-base-patch32-16-frames) |
+| 1.11k | 2 | microsoft/xclip-base-patch16Video | UpdatedOct 28, 2024 | [Link](https://huggingface.co/microsoft/xclip-base-patch16) |
+| 38 | 2 | Hibernates/Hibernates-MEA-R2-V0Video | Updated19 days ago | [Link](https://huggingface.co/Hibernates/Hibernates-MEA-R2-V0) |
+| 1.16k | 2 | MCG-NJU/videomae-base-short-ssv2Video | UpdatedApr 22, 2023 | [Link](https://huggingface.co/MCG-NJU/videomae-base-short-ssv2) |
+| 152 | 2 | MCG-NJU/videomae-base-ssv2Video | Updated9 days ago | [Link](https://huggingface.co/MCG-NJU/videomae-base-ssv2) |
+| 21 | 1 | yerx/videomae-base-finetuned-basketball-subset-v3-25epochVideo | UpdatedApr 12, 2023 | [Link](https://huggingface.co/yerx/videomae-base-finetuned-basketball-subset-v3-25epoch) |
+| 13 | 1 | pavitemple/videomae-base-finetuned-Accident-Video-subsetVideo | UpdatedNov 26, 2023 | [Link](https://huggingface.co/pavitemple/videomae-base-finetuned-Accident-Video-subset) |
+| 106 | 1 | aurelio-ai/xclip-base-patch16-zero-shotVideo | UpdatedApr 28, 2024 | [Link](https://huggingface.co/aurelio-ai/xclip-base-patch16-zero-shot) |
+| 66 | 1 | gautamtata/videomae-base-finetuned-kinetics-finetuned-lipsync-subset-1Video | UpdatedDec 20, 2023 | [Link](https://huggingface.co/gautamtata/videomae-base-finetuned-kinetics-finetuned-lipsync-subset-1) |
+| 159 | 1 | ratchy-oak/vivit-b-16x2-kinetics400-finetuned-cctv-surveillanceVideo | UpdatedJun 10, 2024 | [Link](https://huggingface.co/ratchy-oak/vivit-b-16x2-kinetics400-finetuned-cctv-surveillance) |
+| 82 | 1 | MCG-NJU/videomae-base-short-finetuned-ssv2Video | UpdatedAug 3, 2022 | [Link](https://huggingface.co/MCG-NJU/videomae-base-short-finetuned-ssv2) |
+| 89 | Unknown | ElenaRyumina/face_emotion_recognitionVideo | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/ElenaRyumina/face_emotion_recognition) |
+| 3 | Unknown | OpenGVLab/InternVideo2-Stage1-1B-224p-K400Video | UpdatedAug 14, 2024 | [Link](https://huggingface.co/OpenGVLab/InternVideo2-Stage1-1B-224p-K400) |
+| 2 | Unknown | OpenGVLab/UMTVideo | UpdatedAug 17, 2024 | [Link](https://huggingface.co/OpenGVLab/UMT) |
+| 5 | Unknown | Sense-X/uniformer_videoVideo | UpdatedFeb 9, 2022 | [Link](https://huggingface.co/Sense-X/uniformer_video) |
+| 874 | Unknown | microsoft/xclip-base-patch16-16-framesVideo | UpdatedSep 8, 2022 | [Link](https://huggingface.co/microsoft/xclip-base-patch16-16-frames) |
+
+## Video-Text-to-Text
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 8.1k | 86 | THUDM/cogvlm2-llama3-captionVideo-Text-to-Text | UpdatedJan 22 | [Link](https://huggingface.co/THUDM/cogvlm2-llama3-caption) |
+| 83.6k | 73 | lmms-lab/LLaVA-Video-7B-Qwen2Video-Text-to-Text | UpdatedOct 25, 2024 | [Link](https://huggingface.co/lmms-lab/LLaVA-Video-7B-Qwen2) |
+| 414 | 69 | Vision-CAIR/LongVU_Qwen2_7BVideo-Text-to-Text | UpdatedOct 30, 2024 | [Link](https://huggingface.co/Vision-CAIR/LongVU_Qwen2_7B) |
+| 54.2k | 66 | llava-hf/LLaVA-NeXT-Video-7B-hfVideo-Text-to-Text | Updated29 days ago | [Link](https://huggingface.co/llava-hf/LLaVA-NeXT-Video-7B-hf) |
+| 3.81k | 64 | HuggingFaceTB/SmolVLM2-2 | Updated1 day ago | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM2-2.2B-Instruct) |
+| 332 | 50 | GoodiesHere/Apollo-LMMs-Apollo-7B-t32Video-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/GoodiesHere/Apollo-LMMs-Apollo-7B-t32) |
+| 13.4k | 43 | OpenGVLab/InternVideo2_5_Chat_8BVideo-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/OpenGVLab/InternVideo2_5_Chat_8B) |
+| 527 | 43 | lmms-lab/LLaVA-NeXT-Video-7BVideo-Text-to-Text | Updated4 days ago | [Link](https://huggingface.co/lmms-lab/LLaVA-NeXT-Video-7B) |
+| 868 | 35 | VITA-MLLM/VITA-1 | UpdatedJan 16 | [Link](https://huggingface.co/VITA-MLLM/VITA-1.5) |
+| 1.38k | 32 | Neleac/SpaceTimeGPTVideo-Text-to-Text | UpdatedJan 21 | [Link](https://huggingface.co/Neleac/SpaceTimeGPT) |
+| 42 | 29 | mfarre/Video-LLaVA-7B-hf-CinePileVideo-Text-to-Text | UpdatedAug 24, 2024 | [Link](https://huggingface.co/mfarre/Video-LLaVA-7B-hf-CinePile) |
+| 1.24k | 24 | HuggingFaceTB/SmolVLM2-500M-Video-InstructVideo-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM2-500M-Video-Instruct) |
+| 1.48k | 22 | HuggingFaceTB/SmolVLM2-256M-Video-InstructVideo-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM2-256M-Video-Instruct) |
+| 1.44k | 22 | OpenGVLab/InternVideo2-Chat-8BVideo-Text-to-Text | UpdatedOct 10, 2024 | [Link](https://huggingface.co/OpenGVLab/InternVideo2-Chat-8B) |
+| 2.8k | 20 | chenjoya/videollm-online-8b-v1plusVideo-Text-to-Text | UpdatedJul 13, 2024 | [Link](https://huggingface.co/chenjoya/videollm-online-8b-v1plus) |
+| 58.8k | 15 | Chat-UniVi/Chat-UniViVideo-Text-to-Text | UpdatedOct 22, 2024 | [Link](https://huggingface.co/Chat-UniVi/Chat-UniVi) |
+| 413 | 12 | KangarooGroup/kangarooVideo-Text-to-Text | UpdatedNov 13, 2024 | [Link](https://huggingface.co/KangarooGroup/kangaroo) |
+| 72 | 10 | Vision-CAIR/LongVU_Llama3_2_1BVideo-Text-to-Text | UpdatedNov 21, 2024 | [Link](https://huggingface.co/Vision-CAIR/LongVU_Llama3_2_1B) |
+| 327 | 9 | mlx-community/SmolVLM2-500M-Video-Instruct-mlxVideo-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/mlx-community/SmolVLM2-500M-Video-Instruct-mlx) |
+| 65 | 9 | GoodiesHere/Apollo-LMMs-Apollo-1_5B-t32Video-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/GoodiesHere/Apollo-LMMs-Apollo-1_5B-t32) |
+| 708 | 7 | llava-hf/LLaVA-NeXT-Video-34B-hfVideo-Text-to-Text | Updated29 days ago | [Link](https://huggingface.co/llava-hf/LLaVA-NeXT-Video-34B-hf) |
+| 64 | 5 | mlx-community/SmolVLM2-256M-Video-Instruct-mlxVideo-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/mlx-community/SmolVLM2-256M-Video-Instruct-mlx) |
+| 4.66k | 4 | TIGER-Lab/VideoScore-v1 | Updated12 days ago | [Link](https://huggingface.co/TIGER-Lab/VideoScore-v1.1) |
+| 41 | 4 | OpenGVLab/VideoChat-TPOVideo-Text-to-Text | UpdatedJan 2 | [Link](https://huggingface.co/OpenGVLab/VideoChat-TPO) |
+| 496 | 3 | OpenGVLab/InternVL_2_5_HiCo_R16Video-Text-to-Text | Updated12 days ago | [Link](https://huggingface.co/OpenGVLab/InternVL_2_5_HiCo_R16) |
+| 52 | 2 | mlx-community/SmolVLM2-500M-Video-Instruct-mlx-8bit-skip-visionVideo-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/mlx-community/SmolVLM2-500M-Video-Instruct-mlx-8bit-skip-vision) |
+| 26 | 1 | tcm03/LongVidLLaMAVideo-Text-to-Text | UpdatedJan 8 | [Link](https://huggingface.co/tcm03/LongVidLLaMA) |
+| 54 | 1 | ruili0/LongVA-7B-TPOVideo-Text-to-Text | Updated11 days ago | [Link](https://huggingface.co/ruili0/LongVA-7B-TPO) |
+| 191 | 1 | ruili0/LLaVA-Video-7B-Qwen2-TPOVideo-Text-to-Text | Updated11 days ago | [Link](https://huggingface.co/ruili0/LLaVA-Video-7B-Qwen2-TPO) |
+| 210 | 1 | OpenGVLab/InternVL_2_5_HiCo_R64Video-Text-to-Text | Updated12 days ago | [Link](https://huggingface.co/OpenGVLab/InternVL_2_5_HiCo_R64) |
+
+## Visual Document Retrieval
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 28.5k | 423 | vidore/colpaliVisual | Updated19 days ago | [Link](https://huggingface.co/vidore/colpali) |
+| 39.9k | 167 | vidore/colqwen2-v0 | Updated4 days ago | [Link](https://huggingface.co/vidore/colqwen2-v0.1) |
+| 51.6k | 63 | vidore/colqwen2-v1 | Updated4 days ago | [Link](https://huggingface.co/vidore/colqwen2-v1.0) |
+| 36.4k | 47 | vidore/colsmolvlm-v0 | Updated13 days ago | [Link](https://huggingface.co/vidore/colsmolvlm-v0.1) |
+| 29.7k | 23 | vidore/colpali-v1 | Updated19 days ago | [Link](https://huggingface.co/vidore/colpali-v1.3) |
+| 840 | 13 | vidore/colSmol-500MVisual | Updated18 days ago | [Link](https://huggingface.co/vidore/colSmol-500M) |
+| 1.23k | 7 | tsystems/colqwen2-7b-v1 | Updated19 days ago | [Link](https://huggingface.co/tsystems/colqwen2-7b-v1.0) |
+| 1.98k | 7 | vidore/colSmol-256MVisual | Updated18 days ago | [Link](https://huggingface.co/vidore/colSmol-256M) |
+| 1.28k | 6 | vidore/colqwen2 | Updated4 days ago | [Link](https://huggingface.co/vidore/colqwen2.5-v0.2) |
+| 465 | 6 | Metric-AI/ColQwenStella-2b-multilingualVisual | Updated7 days ago | [Link](https://huggingface.co/Metric-AI/ColQwenStella-2b-multilingual) |
+| 329 | 4 | Metric-AI/ColQwen2 | Updated7 days ago | [Link](https://huggingface.co/Metric-AI/ColQwen2.5-3b-multilingual-v1.0) |
+| 645 | 3 | selimc/turkish-colpaliVisual | Updated20 days ago | [Link](https://huggingface.co/selimc/turkish-colpali) |
+| 64 | 1 | yydxlv/colqwen2 | Updated17 days ago | [Link](https://huggingface.co/yydxlv/colqwen2.5-7b-v0.1) |
+| 184 | 1 | yydxlv/colqwen2-7b-v1 | Updated18 days ago | [Link](https://huggingface.co/yydxlv/colqwen2-7b-v1.0) |
+| 4 | Unknown | starlight-ai/colpali-v1 | Updated20 days ago | [Link](https://huggingface.co/starlight-ai/colpali-v1.2-merged-onnx) |
+| Unknown | Unknown | pontino/finetune_colpali_v1_2-vdsid_french-4bitVisual | Updated20 days ago | [Link](https://huggingface.co/pontino/finetune_colpali_v1_2-vdsid_french-4bit) |
+| Unknown | Unknown | amaye15/colqwen2-1 | Updated19 days ago | [Link](https://huggingface.co/amaye15/colqwen2-1.0-alpha-inference) |
+| 20 | Unknown | CATIE-AQ/Colpali_FT_fr_4bitsVisual | Updated13 days ago | [Link](https://huggingface.co/CATIE-AQ/Colpali_FT_fr_4bits) |
+| Unknown | Unknown | LeakyAbstraction/colqwen2-v1 | Updated20 days ago | [Link](https://huggingface.co/LeakyAbstraction/colqwen2-v1.0-lite) |
+| 473 | Unknown | tsystems/colqwen2-2b-v1 | Updated19 days ago | [Link](https://huggingface.co/tsystems/colqwen2-2b-v1.0) |
+
+## Visual Question Answering
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 6.78k | 449 | openbmb/MiniCPM-V-2Visual | UpdatedJan 15 | [Link](https://huggingface.co/openbmb/MiniCPM-V-2) |
+| 9.62k | 292 | google/deplotVisual | UpdatedSep 6, 2023 | [Link](https://huggingface.co/google/deplot) |
+| 608k | 203 | internlm/internlm-xcomposer2d5-7bVisual | UpdatedJul 22, 2024 | [Link](https://huggingface.co/internlm/internlm-xcomposer2d5-7b) |
+| 153k | 151 | openbmb/MiniCPM-VVisual | UpdatedJan 15 | [Link](https://huggingface.co/openbmb/MiniCPM-V) |
+| 1.02k | 73 | internlm/internlm-xcomposer2-4khd-7bVisual | UpdatedApr 18, 2024 | [Link](https://huggingface.co/internlm/internlm-xcomposer2-4khd-7b) |
+| 405 | 71 | openbmb/OmniLMM-12BVisual | UpdatedApr 16, 2024 | [Link](https://huggingface.co/openbmb/OmniLMM-12B) |
+| 13.6k | 71 | openbmb/MiniCPM-Llama3-V-2_5-int4Visual | UpdatedJul 22, 2024 | [Link](https://huggingface.co/openbmb/MiniCPM-Llama3-V-2_5-int4) |
+| 284 | 61 | AI-Safeguard/Ivy-VL-llavaVisual | UpdatedDec 31, 2024 | [Link](https://huggingface.co/AI-Safeguard/Ivy-VL-llava) |
+| 43 | 57 | IDEA-CCNL/Ziya-BLIP2-14B-Visual-v1Visual | UpdatedJun 7, 2023 | [Link](https://huggingface.co/IDEA-CCNL/Ziya-BLIP2-14B-Visual-v1) |
+| 410 | 55 | BAAI/Aquila-VL-2B-llava-qwenVisual | UpdatedNov 25, 2024 | [Link](https://huggingface.co/BAAI/Aquila-VL-2B-llava-qwen) |
+| 1.18k | 40 | DAMO-NLP-SG/VideoLLaMA2-7BVisual | UpdatedAug 13, 2024 | [Link](https://huggingface.co/DAMO-NLP-SG/VideoLLaMA2-7B) |
+| 10.6k | 39 | google/matcha-chartqaVisual | UpdatedJul 22, 2023 | [Link](https://huggingface.co/google/matcha-chartqa) |
+| 14.1k | 36 | DAMO-NLP-SG/VideoLLaMA3-7BVisual | Updated8 days ago | [Link](https://huggingface.co/DAMO-NLP-SG/VideoLLaMA3-7B) |
+| 469 | 36 | google/matcha-chart2text-pewVisual | UpdatedJul 22, 2023 | [Link](https://huggingface.co/google/matcha-chart2text-pew) |
+| 136 | 28 | sdasd112132/Vision-8B-MiniCPM-2_5-Uncensored-and-Detailed-4bitVisual | UpdatedJun 1, 2024 | [Link](https://huggingface.co/sdasd112132/Vision-8B-MiniCPM-2_5-Uncensored-and-Detailed-4bit) |
+| 213 | 24 | google/pix2struct-screen2words-baseVisual | UpdatedMay 19, 2023 | [Link](https://huggingface.co/google/pix2struct-screen2words-base) |
+| 434 | 24 | google/matcha-baseVisual | UpdatedJul 22, 2023 | [Link](https://huggingface.co/google/matcha-base) |
+| 57 | 19 | google/pix2struct-screen2words-largeVisual | UpdatedMay 19, 2023 | [Link](https://huggingface.co/google/pix2struct-screen2words-large) |
+| 245 | 18 | internlm/internlm-xcomposer2-vl-1_8bVisual | UpdatedApr 9, 2024 | [Link](https://huggingface.co/internlm/internlm-xcomposer2-vl-1_8b) |
+| 366 | 11 | RussRobin/SpatialBot-3BVisual | UpdatedSep 10, 2024 | [Link](https://huggingface.co/RussRobin/SpatialBot-3B) |
+| 228 | 10 | google/pix2struct-infographics-vqa-largeVisual | UpdatedMay 19, 2023 | [Link](https://huggingface.co/google/pix2struct-infographics-vqa-large) |
+| 4.21k | 8 | DAMO-NLP-SG/VideoLLaMA3-2BVisual | Updated8 days ago | [Link](https://huggingface.co/DAMO-NLP-SG/VideoLLaMA3-2B) |
+| 2.79k | 5 | mPLUG/mPLUG-Owl3-2B-241014Visual | UpdatedOct 15, 2024 | [Link](https://huggingface.co/mPLUG/mPLUG-Owl3-2B-241014) |
+| 100 | 4 | BUAADreamer/Chinese-LLaVA-Med-7BVisual | UpdatedMay 22, 2024 | [Link](https://huggingface.co/BUAADreamer/Chinese-LLaVA-Med-7B) |
+| 72 | 3 | SakanaAI/TAID-VLM-2BVisual | Updated26 days ago | [Link](https://huggingface.co/SakanaAI/TAID-VLM-2B) |
+| 11 | 2 | UniverseTBD/AstroLLaVA_v2Visual | UpdatedJan 13 | [Link](https://huggingface.co/UniverseTBD/AstroLLaVA_v2) |
+| 1.15k | 2 | mPLUG/mPLUG-Owl3-1B-241014Visual | UpdatedOct 15, 2024 | [Link](https://huggingface.co/mPLUG/mPLUG-Owl3-1B-241014) |
+| 143k |  | dandelin/vilt-b32-finetuned-vqaVisual | UpdatedAug 2, 2022 | [Link](https://huggingface.co/dandelin/vilt-b32-finetuned-vqa) |
+| 778k |  | Salesforce/blip-vqa-baseVisual | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-vqa-base) |
+| 3 | Unknown | koodi-ai/math-llama-2 | UpdatedMar 16, 2024 | [Link](https://huggingface.co/koodi-ai/math-llama-2.5) |
+
+## Voice Activity Detection
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 7.68M | 540 | pyannote/segmentationVoice | UpdatedMay 10, 2024 | [Link](https://huggingface.co/pyannote/segmentation) |
+| 13.7M | 383 | pyannote/segmentation-3 | UpdatedMay 10, 2024 | [Link](https://huggingface.co/pyannote/segmentation-3.0) |
+| 86.1k | 20 | pyannote/brouhahaVoice | UpdatedNov 15, 2022 | [Link](https://huggingface.co/pyannote/brouhaha) |
+| 3 | 16 | julien-c/voice-activity-detectionVoice | UpdatedDec 21, 2020 | [Link](https://huggingface.co/julien-c/voice-activity-detection) |
+| 47 | 16 | philschmid/pyannote-speaker-diarization-endpointVoice | UpdatedNov 22, 2022 | [Link](https://huggingface.co/philschmid/pyannote-speaker-diarization-endpoint) |
+| 79 | 13 | funasr/fsmn-vadVoice | UpdatedFeb 1, 2024 | [Link](https://huggingface.co/funasr/fsmn-vad) |
+| 860 | 8 | philschmid/pyannote-segmentationVoice | UpdatedNov 8, 2022 | [Link](https://huggingface.co/philschmid/pyannote-segmentation) |
+| 200 | 3 | KIFF/pyannote-speaker-diarization-endpointVoice | UpdatedDec 29, 2024 | [Link](https://huggingface.co/KIFF/pyannote-speaker-diarization-endpoint) |
+| 70 | 2 | anilbs/segmentationVoice | UpdatedNov 1, 2022 | [Link](https://huggingface.co/anilbs/segmentation) |
+| 15 | 1 | popcornell/pyannote-segmentation-chime6-mixer6Voice | UpdatedApr 4, 2023 | [Link](https://huggingface.co/popcornell/pyannote-segmentation-chime6-mixer6) |
+| 10 | 1 | BoKnows/vad-endpointVoice | UpdatedFeb 13, 2024 | [Link](https://huggingface.co/BoKnows/vad-endpoint) |
+| 17 | Unknown | funasr/fsmn-vad-onnxVoice | UpdatedMay 9, 2023 | [Link](https://huggingface.co/funasr/fsmn-vad-onnx) |
+| 13 | Unknown | onnx-community/silero-vadVoice | UpdatedDec 15, 2024 | [Link](https://huggingface.co/onnx-community/silero-vad) |
+| 5 | Unknown | deepghs/silero-vad-onnxVoice | UpdatedAug 31, 2024 | [Link](https://huggingface.co/deepghs/silero-vad-onnx) |
+| 1 | Unknown | awacke1/wav2vec2-base-timit-demo-colabVoice | UpdatedJan 3 | [Link](https://huggingface.co/awacke1/wav2vec2-base-timit-demo-colab) |
+| Unknown | Unknown | d4data/Indian-voice-cloningVoice | UpdatedJul 1, 2023 | [Link](https://huggingface.co/d4data/Indian-voice-cloning) |
+| 35 | Unknown | johnislarry/cloned-pyannote-speaker-diarization-endpointVoice | UpdatedApr 20, 2023 | [Link](https://huggingface.co/johnislarry/cloned-pyannote-speaker-diarization-endpoint) |
+| 1 | Unknown | Fuhuaujduu/Fu_hua-Honkai_impact3dVoice | UpdatedJun 9, 2023 | [Link](https://huggingface.co/Fuhuaujduu/Fu_hua-Honkai_impact3d) |
+| Unknown | Unknown | Berndk/AnilerdemcevizciVoice | UpdatedJul 19, 2023 | [Link](https://huggingface.co/Berndk/Anilerdemcevizci) |
+| Unknown | Unknown | sheLpersss7/Asahina-Mafuyu1014Voice | UpdatedJul 24, 2023 | [Link](https://huggingface.co/sheLpersss7/Asahina-Mafuyu1014) |
+| Unknown | Unknown | Baratova/EunilVoice | UpdatedSep 22, 2023 | [Link](https://huggingface.co/Baratova/Eunil) |
+| Unknown | Unknown | thinkerrmode/voice_testVoice | UpdatedSep 29, 2023 | [Link](https://huggingface.co/thinkerrmode/voice_test) |
+| Unknown | Unknown | Polkijann/jann1Voice | UpdatedOct 26, 2023 | [Link](https://huggingface.co/Polkijann/jann1) |
+| 9 | Unknown | yutawatanabe/customhdlrVoice | UpdatedOct 31, 2023 | [Link](https://huggingface.co/yutawatanabe/customhdlr) |
+| Unknown | Unknown | kyriacou2009/TVR-1Voice | UpdatedNov 27, 2023 | [Link](https://huggingface.co/kyriacou2009/TVR-1) |
+| 4 | Unknown | aavvmm/pru1Voice | UpdatedJan 24, 2024 | [Link](https://huggingface.co/aavvmm/pru1) |
+| 53 | Unknown | collinbarnwell/pyannote-segmentation-30Voice | UpdatedOct 4, 2023 | [Link](https://huggingface.co/collinbarnwell/pyannote-segmentation-30) |
+| Unknown | Unknown | sanaweb/speech-to-text-faVoice | UpdatedMar 5, 2024 | [Link](https://huggingface.co/sanaweb/speech-to-text-fa) |
+| 35 | Unknown | kamilakesbi/speaker-segmentation-fine-tuned-callhome-jpnVoice | UpdatedMay 17, 2024 | [Link](https://huggingface.co/kamilakesbi/speaker-segmentation-fine-tuned-callhome-jpn) |
+| 8 | Unknown | kamilakesbi/segmentation_model_pyannoteVoice | UpdatedApr 29, 2024 | [Link](https://huggingface.co/kamilakesbi/segmentation_model_pyannote) |
+
+## Zero-Shot Classification
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 204k | 93 | MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanliZero-Shot | UpdatedApr 11, 2024 | [Link](https://huggingface.co/MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli) |
+| 148k | 32 | cointegrated/rubert-base-cased-nli-threewayZero-Shot | UpdatedApr 5, 2024 | [Link](https://huggingface.co/cointegrated/rubert-base-cased-nli-threeway) |
+| 2.84k | 28 | vicgalle/xlm-roberta-large-xnli-anliZero-Shot | UpdatedApr 11, 2024 | [Link](https://huggingface.co/vicgalle/xlm-roberta-large-xnli-anli) |
+| 110k | 24 | knowledgator/comprehend_it-multilingual-t5-baseZero-Shot | UpdatedJan 27, 2024 | [Link](https://huggingface.co/knowledgator/comprehend_it-multilingual-t5-base) |
+| 208 | 21 | MoritzLaurer/xlm-v-base-mnli-xnliZero-Shot | UpdatedJan 16 | [Link](https://huggingface.co/MoritzLaurer/xlm-v-base-mnli-xnli) |
+| 504 | 13 | knowledgator/gliclass-modern-base-v2 | Updated3 days ago | [Link](https://huggingface.co/knowledgator/gliclass-modern-base-v2.0-init) |
+| 1.43k | 12 | valhalla/distilbart-mnli-12-9Zero-Shot | UpdatedJun 14, 2021 | [Link](https://huggingface.co/valhalla/distilbart-mnli-12-9) |
+| 49.6k | 11 | valhalla/distilbart-mnli-12-6Zero-Shot | UpdatedJun 14, 2021 | [Link](https://huggingface.co/valhalla/distilbart-mnli-12-6) |
+| 359 | 9 | svalabs/gbert-large-zeroshot-nliZero-Shot | UpdatedSep 27, 2024 | [Link](https://huggingface.co/svalabs/gbert-large-zeroshot-nli) |
+| 690 | 9 | symanto/xlm-roberta-base-snli-mnli-anli-xnliZero-Shot | UpdatedFeb 20, 2023 | [Link](https://huggingface.co/symanto/xlm-roberta-base-snli-mnli-anli-xnli) |
+| 79 | 8 | knowledgator/gliclass-modern-large-v2 | Updated3 days ago | [Link](https://huggingface.co/knowledgator/gliclass-modern-large-v2.0-init) |
+| 5.51k | 6 | MoritzLaurer/multilingual-MiniLMv2-L12-mnli-xnliZero-Shot | UpdatedMar 20, 2023 | [Link](https://huggingface.co/MoritzLaurer/multilingual-MiniLMv2-L12-mnli-xnli) |
+| 9 | 2 | sknow-lab/Qwen2 | Updatedabout 4 hours ago | [Link](https://huggingface.co/sknow-lab/Qwen2.5-14B-CIC-SciCite) |
+| 212 | 2 | emrecan/convbert-base-turkish-mc4-cased-allnli_trZero-Shot | UpdatedDec 2, 2021 | [Link](https://huggingface.co/emrecan/convbert-base-turkish-mc4-cased-allnli_tr) |
+| 675 | 2 | asosoft/KuBERT-Central-Kurdish-BERT-ModelZero-Shot | Updated28 days ago | [Link](https://huggingface.co/asosoft/KuBERT-Central-Kurdish-BERT-Model) |
+| 2.74M |  | facebook/bart-large-mnliZero-Shot | UpdatedSep 5, 2023 | [Link](https://huggingface.co/facebook/bart-large-mnli) |
+| 141k |  | joeddav/xlm-roberta-large-xnliZero-Shot | UpdatedOct 16, 2024 | [Link](https://huggingface.co/joeddav/xlm-roberta-large-xnli) |
+| 68.7k |  | MoritzLaurer/deberta-v3-large-zeroshot-v2 | UpdatedApr 11, 2024 | [Link](https://huggingface.co/MoritzLaurer/deberta-v3-large-zeroshot-v2.0) |
+| 620k |  | MoritzLaurer/DeBERTa-v3-base-mnli-fever-anliZero-Shot | UpdatedApr 11, 2024 | [Link](https://huggingface.co/MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli) |
+| 153k |  | MoritzLaurer/mDeBERTa-v3-base-mnli-xnliZero-Shot | UpdatedJan 8, 2024 | [Link](https://huggingface.co/MoritzLaurer/mDeBERTa-v3-base-mnli-xnli) |
+| 155k |  | cross-encoder/nli-deberta-v3-baseZero-Shot | UpdatedDec 12, 2024 | [Link](https://huggingface.co/cross-encoder/nli-deberta-v3-base) |
+| 68.1k |  | MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7Zero-Shot | UpdatedApr 11, 2024 | [Link](https://huggingface.co/MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7) |
+| 20 | Unknown | PaddlePaddle/utc-largeZero-Shot | UpdatedFeb 6, 2023 | [Link](https://huggingface.co/PaddlePaddle/utc-large) |
+| 22.5k |  | sileod/deberta-v3-base-tasksource-nliZero-Shot | UpdatedAug 13, 2024 | [Link](https://huggingface.co/sileod/deberta-v3-base-tasksource-nli) |
+| 1 | Unknown | eisneim/cn-clip_vit-b-16Zero-Shot | UpdatedJul 27, 2023 | [Link](https://huggingface.co/eisneim/cn-clip_vit-b-16) |
+| 426k |  | MoritzLaurer/deberta-v3-base-zeroshot-v1 | UpdatedJun 3, 2024 | [Link](https://huggingface.co/MoritzLaurer/deberta-v3-base-zeroshot-v1.1-all-33) |
+| 11.1k |  | MoritzLaurer/deberta-v3-large-zeroshot-v1 | UpdatedApr 1, 2024 | [Link](https://huggingface.co/MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33) |
+| 9.24k |  | knowledgator/comprehend_it-baseZero-Shot | UpdatedApr 11, 2024 | [Link](https://huggingface.co/knowledgator/comprehend_it-base) |
+| 29.3k |  | tasksource/deberta-small-long-nliZero-Shot | UpdatedAug 28, 2024 | [Link](https://huggingface.co/tasksource/deberta-small-long-nli) |
+
+## Zero-Shot Image Classification
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 12.6k | 391 | zer0int/CLIP-GmP-ViT-L-14Zero-Shot | UpdatedSep 23, 2024 | [Link](https://huggingface.co/zer0int/CLIP-GmP-ViT-L-14) |
+| 885k | 360 | laion/CLIP-ViT-H-14-laion2B-s32B-b79KZero-Shot | UpdatedJan 22 | [Link](https://huggingface.co/laion/CLIP-ViT-H-14-laion2B-s32B-b79K) |
+| 52.2k | 272 | microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224Zero-Shot | UpdatedJan 14 | [Link](https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224) |
+| 80.4k | 191 | jinaai/jina-clip-v2Zero-Shot | UpdatedJan 13 | [Link](https://huggingface.co/jinaai/jina-clip-v2) |
+| 2.59M | 107 | laion/CLIP-ViT-B-32-laion2B-s34B-b79KZero-Shot | UpdatedJan 22 | [Link](https://huggingface.co/laion/CLIP-ViT-B-32-laion2B-s34B-b79K) |
+| 33.2k | 97 | OFA-Sys/chinese-clip-vit-base-patch16Zero-Shot | UpdatedDec 9, 2022 | [Link](https://huggingface.co/OFA-Sys/chinese-clip-vit-base-patch16) |
+| 84.3k | 48 | laion/CLIP-ViT-L-14-laion2B-s32B-b82KZero-Shot | UpdatedJan 16, 2024 | [Link](https://huggingface.co/laion/CLIP-ViT-L-14-laion2B-s32B-b82K) |
+| 35.6k | 44 | vinid/plipZero-Shot | UpdatedMar 31, 2023 | [Link](https://huggingface.co/vinid/plip) |
+| 2.17k | 27 | OFA-Sys/chinese-clip-vit-huge-patch14Zero-Shot | UpdatedDec 9, 2022 | [Link](https://huggingface.co/OFA-Sys/chinese-clip-vit-huge-patch14) |
+| 3.26k | 22 | flax-community/clip-rsicd-v2Zero-Shot | UpdatedApr 24, 2022 | [Link](https://huggingface.co/flax-community/clip-rsicd-v2) |
+| 1.39k | 18 | google/siglip2-base-patch16-224Zero-Shot | Updated4 days ago | [Link](https://huggingface.co/google/siglip2-base-patch16-224) |
+| 172 | 14 | zer0int/LongCLIP-SAE-ViT-L-14Zero-Shot | UpdatedJan 4 | [Link](https://huggingface.co/zer0int/LongCLIP-SAE-ViT-L-14) |
+| 109 | 14 | philschmid/clip-zero-shot-image-classificationZero-Shot | UpdatedJun 2, 2023 | [Link](https://huggingface.co/philschmid/clip-zero-shot-image-classification) |
+| 1.17k | 8 | google/siglip2-so400m-patch16-naflexZero-Shot | Updated4 days ago | [Link](https://huggingface.co/google/siglip2-so400m-patch16-naflex) |
+| 1.52k | 7 | google/siglip2-giant-opt-patch16-384Zero-Shot | Updated4 days ago | [Link](https://huggingface.co/google/siglip2-giant-opt-patch16-384) |
+| 232 | 6 | google/siglip2-large-patch16-512Zero-Shot | Updated4 days ago | [Link](https://huggingface.co/google/siglip2-large-patch16-512) |
+| 3.51k | 5 | google/siglip2-base-patch16-512Zero-Shot | Updated4 days ago | [Link](https://huggingface.co/google/siglip2-base-patch16-512) |
+| 1.34k | 5 | google/siglip2-so400m-patch14-384Zero-Shot | Updated4 days ago | [Link](https://huggingface.co/google/siglip2-so400m-patch14-384) |
+| 2.23k | 5 | Bingsu/clip-vit-base-patch32-koZero-Shot | UpdatedNov 8, 2022 | [Link](https://huggingface.co/Bingsu/clip-vit-base-patch32-ko) |
+| 170 | 3 | google/siglip2-base-patch32-256Zero-Shot | Updated4 days ago | [Link](https://huggingface.co/google/siglip2-base-patch32-256) |
+| 384 | 3 | google/siglip2-base-patch16-256Zero-Shot | Updated4 days ago | [Link](https://huggingface.co/google/siglip2-base-patch16-256) |
+| 167 | 3 | google/siglip2-base-patch16-384Zero-Shot | Updated4 days ago | [Link](https://huggingface.co/google/siglip2-base-patch16-384) |
+| 971 | 3 | google/siglip2-so400m-patch16-512Zero-Shot | Updated4 days ago | [Link](https://huggingface.co/google/siglip2-so400m-patch16-512) |
+| 1.29k | 2 | google/siglip2-base-patch16-naflexZero-Shot | Updated4 days ago | [Link](https://huggingface.co/google/siglip2-base-patch16-naflex) |
+| 14.1M |  | openai/clip-vit-base-patch32Zero-Shot | UpdatedFeb 29, 2024 | [Link](https://huggingface.co/openai/clip-vit-base-patch32) |
+| 43M |  | openai/clip-vit-large-patch14Zero-Shot | UpdatedSep 15, 2023 | [Link](https://huggingface.co/openai/clip-vit-large-patch14) |
+| 6.33M |  | google/siglip-so400m-patch14-384Zero-Shot | UpdatedSep 26, 2024 | [Link](https://huggingface.co/google/siglip-so400m-patch14-384) |
+| 4.54M |  | openai/clip-vit-large-patch14-336Zero-Shot | UpdatedOct 4, 2022 | [Link](https://huggingface.co/openai/clip-vit-large-patch14-336) |
+| 3 | Unknown | google/siglip2-so400m-patch16-512-jaxZero-Shot | Updated4 days ago | [Link](https://huggingface.co/google/siglip2-so400m-patch16-512-jax) |
+| 11 | Unknown | sachin/tiny_clipZero-Shot | UpdatedMay 5, 2024 | [Link](https://huggingface.co/sachin/tiny_clip) |
+
+## Zero-Shot Object Detection
+
+| Downloads | Likes | Model Name | Update Date | Link |
+|:----------|:------|:-----------|:------------|:------|
+| 785k | 125 | google/owlvit-base-patch32Zero-Shot | UpdatedDec 12, 2023 | [Link](https://huggingface.co/google/owlvit-base-patch32) |
+| 2.14M | 90 | google/owlv2-base-patch16-ensembleZero-Shot | UpdatedOct 31, 2024 | [Link](https://huggingface.co/google/owlv2-base-patch16-ensemble) |
+| 782k | 78 | IDEA-Research/grounding-dino-baseZero-Shot | UpdatedMay 12, 2024 | [Link](https://huggingface.co/IDEA-Research/grounding-dino-base) |
+| 766k | 69 | IDEA-Research/grounding-dino-tinyZero-Shot | UpdatedMay 12, 2024 | [Link](https://huggingface.co/IDEA-Research/grounding-dino-tiny) |
+| 52.2k | 25 | google/owlvit-large-patch14Zero-Shot | UpdatedDec 12, 2023 | [Link](https://huggingface.co/google/owlvit-large-patch14) |
+| 70.2k | 24 | google/owlv2-base-patch16Zero-Shot | UpdatedApr 15, 2024 | [Link](https://huggingface.co/google/owlv2-base-patch16) |
+| 335k | 20 | google/owlv2-large-patch14-ensembleZero-Shot | UpdatedOct 31, 2024 | [Link](https://huggingface.co/google/owlv2-large-patch14-ensemble) |
+| 5.25k | 12 | google/owlvit-base-patch16Zero-Shot | UpdatedDec 12, 2023 | [Link](https://huggingface.co/google/owlvit-base-patch16) |
+| 2.49k | 5 | google/owlv2-large-patch14-finetunedZero-Shot | UpdatedDec 12, 2023 | [Link](https://huggingface.co/google/owlv2-large-patch14-finetuned) |
+| 1.29k | 4 | google/owlv2-large-patch14Zero-Shot | UpdatedOct 31, 2024 | [Link](https://huggingface.co/google/owlv2-large-patch14) |
+| 3.61k | 3 | google/owlv2-base-patch16-finetunedZero-Shot | UpdatedOct 31, 2024 | [Link](https://huggingface.co/google/owlv2-base-patch16-finetuned) |
+| 40 | 1 | onnx-community/grounding-dino-tiny-ONNXZero-Shot | UpdatedJan 5 | [Link](https://huggingface.co/onnx-community/grounding-dino-tiny-ONNX) |
+| 51 | 1 | Xenova/owlvit-base-patch32Zero-Shot | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Xenova/owlvit-base-patch32) |
+| 112 | Unknown | hf-tiny-model-private/tiny-random-OwlViTForObjectDetectionZero-Shot | UpdatedMar 29, 2023 | [Link](https://huggingface.co/hf-tiny-model-private/tiny-random-OwlViTForObjectDetection) |
+| 79 | Unknown | juhi7ag/idea-modelZero-Shot | UpdatedJul 28, 2023 | [Link](https://huggingface.co/juhi7ag/idea-model) |
+| 16 | Unknown | Xenova/owlvit-base-patch16Zero-Shot | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Xenova/owlvit-base-patch16) |
+| 12 | Unknown | Xenova/owlvit-large-patch14Zero-Shot | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Xenova/owlvit-large-patch14) |
+| 121 | Unknown | fxmarty/owlvit-tiny-non-contiguous-weightZero-Shot | UpdatedJan 16, 2024 | [Link](https://huggingface.co/fxmarty/owlvit-tiny-non-contiguous-weight) |
+| 19 | Unknown | Xenova/owlv2-base-patch16-ensembleZero-Shot | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Xenova/owlv2-base-patch16-ensemble) |
+| 9 | Unknown | Xenova/owlv2-base-patch16Zero-Shot | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Xenova/owlv2-base-patch16) |
+| 27 | Unknown | Xenova/owlv2-base-patch16-finetunedZero-Shot | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Xenova/owlv2-base-patch16-finetuned) |
+| 94 | Unknown | Thomasboosinger/owlvit-base-patch32Zero-Shot | UpdatedFeb 23, 2024 | [Link](https://huggingface.co/Thomasboosinger/owlvit-base-patch32) |
+| 95 | Unknown | Thomasboosinger/owlv2-base-patch16-ensembleZero-Shot | UpdatedFeb 18, 2024 | [Link](https://huggingface.co/Thomasboosinger/owlv2-base-patch16-ensemble) |
+| 110 | Unknown | Thomasboosinger/owlv2-large-patch14-ensembleZero-Shot | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/Thomasboosinger/owlv2-large-patch14-ensemble) |
+| 110 | Unknown | Thomasboosinger/owlv2-large-patch14-finetunedZero-Shot | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/Thomasboosinger/owlv2-large-patch14-finetuned) |
+| 109 | Unknown | Thomasboosinger/owlv2-large-patch14Zero-Shot | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/Thomasboosinger/owlv2-large-patch14) |
+| 5 | Unknown | solomonpm/my-owlvit-8bitZero-Shot | UpdatedFeb 29, 2024 | [Link](https://huggingface.co/solomonpm/my-owlvit-8bit) |
+| 6 | Unknown | omlab/OmDet-Turbo_tiny_SWIN_TZero-Shot | UpdatedJun 13, 2024 | [Link](https://huggingface.co/omlab/OmDet-Turbo_tiny_SWIN_T) |
+| 6 | Unknown | Gunulhona/owlvit-base-patch32-qint8Zero-Shot | UpdatedApr 4, 2024 | [Link](https://huggingface.co/Gunulhona/owlvit-base-patch32-qint8) |
+| 11 | Unknown | rathi2023/owlvit-base-patch32_FT_cppe5Zero-Shot | UpdatedApr 16, 2024 | [Link](https://huggingface.co/rathi2023/owlvit-base-patch32_FT_cppe5) |
+

@@ -37,11 +37,12 @@ jobs:
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       # 여기 부분에 main.py 코드 전에 daily_arxiv.py 파일을 먼저 실행시킨 후 진행을 하면 12시간마다 db업데이트.
       # ============================================
+      # python daily_huggingface_db_pre.py run --env=${{ env.RUN_ENV }} --power=${{ env.POWER }} 
       - name: Run daily_arxiv.py
         run: |
           python daily_arxiv.py run --env=${{ env.RUN_ENV }} --power=${{ env.POWER }} 
           python daily_arxiv_db.py run --env=${{ env.RUN_ENV }} --power=${{ env.POWER }} 
-          python daily_huggingface_db_pre.py run --env=${{ env.RUN_ENV }} --power=${{ env.POWER }} 
+          
           python recommend_huggingface.py --env=${{ env.RUN_ENV }} --power=${{ env.POWER }} 
           python daily_conference_db.py run --env=${{ env.RUN_ENV }} --power=${{ env.POWER }} 
       # ============================================

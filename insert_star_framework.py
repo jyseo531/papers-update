@@ -4,6 +4,7 @@ import base64
 import time
 from bs4 import BeautifulSoup
 import datetime
+
 class GitHubRepoAnalyzer:
     def __init__(self, repo_url, token=None):
         self.base_url = self.convert_to_api_url(repo_url)
@@ -64,8 +65,12 @@ def update_github_info(db_file, token=None):
     for record_id, repo_url in rows:
         star_crawler = GitHubStarCrawler(repo_url)
         stars = star_crawler.get_star_count()
-        repo_analyzer = GitHubRepoAnalyzer(repo_url, token)
-        framework = repo_analyzer.analyze_repo()
+        if repo_url != "N/A":
+
+            repo_analyzer = GitHubRepoAnalyzer(repo_url, token)
+            framework = repo_analyzer.analyze_repo()
+        else:
+            framework = None
         cursor.execute("UPDATE papers SET star = ?, framework = ? WHERE id = ?", (stars, framework, record_id))
         conn.commit()
         print(f"Updated {repo_url}: {stars} stars, Framework: {framework}")
@@ -73,10 +78,7 @@ def update_github_info(db_file, token=None):
     conn.close()
 
 
-# if __name__ == "__main__":
-#     db_file = "./arxiv_star_test_alltopic_2.db"  #test용
-#     github_token = ""
-#     update_github_info(db_file, github_token)
+
 def db_to_md(conn, md_filename="README.md"):
     """
     SQLite DB 데이터를 읽어 Markdown 파일 생성 (Authors, Last Updated 제외)
@@ -123,7 +125,9 @@ def db_to_md(conn, md_filename="README.md"):
     print(f"Markdown file '{md_filename}' generated successfully.")
 
 if __name__ == "__main__":
-    db_file = "./arxiv_star_test_alltopic.db"  # 데이터베이스 파일 경로
+    db_file = "./arxiv_star_test_2020_star_framework.db"  # 데이터베이스 파일 경로
     conn = sqlite3.connect(db_file)
-    db_to_md(conn, "./arxiv_star_test.md")  # 마크다운 생성
+    #github_token = "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"
+    #update_github_info(db_file, github_token)
+    db_to_md(conn, "./arxiv_star_2020_test.md")  # 마크다운 생성
     conn.close()

@@ -108,9 +108,6 @@ def save_to_db(conn, data):
     print("\n✅ Data successfully saved to the database.")
 
 
-
-
-
 def db_to_md(conn, md_filename="README.md"):
     """
     SQLite DB 데이터를 읽어 Markdown 파일 생성
@@ -158,7 +155,7 @@ def db_to_md(conn, md_filename="README.md"):
 
 
 
-def get_daily_papers(topic: str, query: str = "slam", start_date="20220101"):
+def get_daily_papers(topic: str, query: str = "slam", start_date="20200101"):
     """
     3개월 단위로 arXiv 논문을 가져오며, 한 번에 최대 100개씩 가져온다.
     submittedDate 기준으로 논문을 가져오되, 데이터가 없으면 lastUpdatedDate로 재검색한다.
@@ -287,7 +284,7 @@ def get_daily_papers(topic: str, query: str = "slam", start_date="20220101"):
 
 # 실행 부분
 if __name__ == "__main__":
-    conn = init_db('./arxiv_star_test_alltopic.db')
+    conn = init_db('./arxiv_star_test_2020.db')
     yaml_path = os.path.join("./database", "topic.yml")
     yaml_data = get_yaml_data(yaml_path)
     data_collector = {}
@@ -295,7 +292,7 @@ if __name__ == "__main__":
     for topic in yaml_data.keys():
         for subtopic, keyword in yaml_data[topic].items():
             print(f"\n🚀 Processing Keyword: {subtopic}")
-            data = get_daily_papers(subtopic, query=keyword, start_date="20230101")
+            data = get_daily_papers(subtopic, query=keyword, start_date="20200101")
             if topic not in data_collector:
                 data_collector[topic] = {}
             if data:
@@ -303,7 +300,7 @@ if __name__ == "__main__":
 
     save_to_db(conn, data_collector)
     # Generate Markdown file from database
-    db_to_md(conn, "./arxiv_star_test_alltopic.md")
+    db_to_md(conn, "./arxiv_star_test_2020.md")
     conn.close()
     
     print("\n✅ Data saved to SQLite database.")
