@@ -1,5 +1,5 @@
 # Hugging Face News
-Updated on 2025-02-25
+Updated on 2025-02-26
 
 > Generated from the Hugging Face database.
 
@@ -282,6 +282,14 @@ Updated on 2025-02-25
 | Open-Reasoner-Zero/Open-Reasoner-Zero-32B | Open-Reasoner-Zero/Open-Reasoner-Zero-32B | [Link](https://huggingface.co/Open-Reasoner-Zero/Open-Reasoner-Zero-32B) | mit | None |
 | HuggingFaceTB/SmolVLM2-256M-Video-Instruct | HuggingFaceTB/SmolVLM2-256M-Video-Instruct | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM2-256M-Video-Instruct) | apache-2.0 | video-text-to-text |
 | Qwen/Qwen2.5-VL-72B-Instruct-AWQ | Qwen/Qwen2.5-VL-72B-Instruct-AWQ | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-72B-Instruct-AWQ) | other | image-text-to-text |
-| qihoo360/TinyR1-32B-Preview | qihoo360/TinyR1-32B-Preview | [Link](https://huggingface.co/qihoo360/TinyR1-32B-Preview) | apache-2.0 | None |
+| qihoo360/TinyR1-32B-Preview | qihoo360/TinyR1-32B-Preview | [Link](https://huggingface.co/qihoo360/TinyR1-32B-Preview) | apache-2.0 | text-generation |
 | yandex/YandexGPT-5-Lite-8B-pretrain | yandex/YandexGPT-5-Lite-8B-pretrain | [Link](https://huggingface.co/yandex/YandexGPT-5-Lite-8B-pretrain) | other | None |
-| nvidia/DeepSeek-R1-FP4 | nvidia/DeepSeek-R1-FP4 | [Link](https://huggingface.co/nvidia/DeepSeek-R1-FP4) | Unknown license | None |
+| nvidia/DeepSeek-R1-FP4 | nvidia/DeepSeek-R1-FP4 | [Link](https://huggingface.co/nvidia/DeepSeek-R1-FP4) | mit | None |
+| Wan-AI/Wan2.1-T2V-14B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Wan-AI/Wan2.1-T2V-14B) | apache-2.0 | text-to-video |
+| Wan-AI/Wan2.1-I2V-14B-720P | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Wan-AI/Wan2.1-I2V-14B-720P) | apache-2.0 | image-to-video |
+| allenai/olmOCR-7B-0225-preview | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview) | apache-2.0 | image-text-to-text |
+| Wan-AI/Wan2.1-T2V-1.3B | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Wan-AI/Wan2.1-T2V-1.3B) | apache-2.0 | text-to-video |
+| Wan-AI/Wan2.1-I2V-14B-480P | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Wan-AI/Wan2.1-I2V-14B-480P) | apache-2.0 | image-to-video |
+| microsoft/Magma-8B | http://arxiv.org/abs/2403.00833v1 | [Link](https://huggingface.co/microsoft/Magma-8B) | mit | image-text-to-text |
+| Kijai/WanVideo_comfy | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/Kijai/WanVideo_comfy) | Unknown license | None |
+| convergence-ai/proxy-lite-3b | http://arxiv.org/abs/1401.4826v1 | [Link](https://huggingface.co/convergence-ai/proxy-lite-3b) | cc-by-nc-4.0 | image-text-to-text |
