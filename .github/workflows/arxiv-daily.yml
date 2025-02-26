@@ -44,7 +44,7 @@ jobs:
           python daily_arxiv_db.py run --env=${{ env.RUN_ENV }} --power=${{ env.POWER }} 
           
           python recommend_huggingface.py --env=${{ env.RUN_ENV }} --power=${{ env.POWER }} 
-          python daily_conference_db.py run --env=${{ env.RUN_ENV }} --power=${{ env.POWER }} 
+          
       # ============================================
       # TODO [√] Scaffold 
       # ============================================

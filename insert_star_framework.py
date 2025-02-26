@@ -127,7 +127,7 @@ def db_to_md(conn, md_filename="README.md"):
 if __name__ == "__main__":
     db_file = "./arxiv_star_test_2020_star_framework.db"  # 데이터베이스 파일 경로
     conn = sqlite3.connect(db_file)
-    #github_token = "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"
+    
     #update_github_info(db_file, github_token)
     db_to_md(conn, "./arxiv_star_2020_test.md")  # 마크다운 생성
     conn.close()
