@@ -11,28 +11,28 @@ Updated on 2025-02-26
 | microsoft/phi-4 | [Paper pdf](https://arxiv.org/pdf/2412.08905.pdf) | [HuggingFace](https://huggingface.co/microsoft/phi-4) | mit | text-generation |
 | deepseek-ai/DeepSeek-V3 | [Paper pdf](https://arxiv.org/pdf/2412.19437.pdf) | [HuggingFace](https://huggingface.co/deepseek-ai/DeepSeek-V3) | Unknown license | text-generation |
 | NovaSky-AI/Sky-T1-32B-Preview | [Paper pdf](https://arxiv.org/pdf/2412.09413.pdf) | [HuggingFace](https://huggingface.co/NovaSky-AI/Sky-T1-32B-Preview) | apache-2.0 | text-generation |
-| jinaai/ReaderLM-v2 | [Paper pdf](N/A) | [HuggingFace](https://huggingface.co/jinaai/ReaderLM-v2) | cc-by-nc-4.0 | text-generation |
+| jinaai/ReaderLM-v2 | N/A | [HuggingFace](https://huggingface.co/jinaai/ReaderLM-v2) | cc-by-nc-4.0 | text-generation |
 | MiniMaxAI/MiniMax-VL-01 | [Paper pdf](https://arxiv.org/pdf/2501.08313.pdf) | [HuggingFace](https://huggingface.co/MiniMaxAI/MiniMax-VL-01) | Unknown license | text-generation |
 | internlm/internlm3-8b-instruct | [Paper pdf](https://arxiv.org/pdf/2403.17297.pdf) | [HuggingFace](https://huggingface.co/internlm/internlm3-8b-instruct) | apache-2.0 | text-generation |
-| black-forest-labs/FLUX.1-dev | [Paper pdf](N/A) | [HuggingFace](https://huggingface.co/black-forest-labs/FLUX.1-dev) | other | text-to-image |
-| kyutai/helium-1-preview-2b | [Paper pdf](N/A) | [HuggingFace](https://huggingface.co/kyutai/helium-1-preview-2b) | cc-by-4.0 | text-generation |
-| ostris/Flex.1-alpha | [Paper pdf](N/A) | [HuggingFace](https://huggingface.co/ostris/Flex.1-alpha) | apache-2.0 | text-to-image |
+| black-forest-labs/FLUX.1-dev | N/A | [HuggingFace](https://huggingface.co/black-forest-labs/FLUX.1-dev) | other | text-to-image |
+| kyutai/helium-1-preview-2b | N/A | [HuggingFace](https://huggingface.co/kyutai/helium-1-preview-2b) | cc-by-4.0 | text-generation |
+| ostris/Flex.1-alpha | N/A | [HuggingFace](https://huggingface.co/ostris/Flex.1-alpha) | apache-2.0 | text-to-image |
 | meta-llama/Llama-3.3-70B-Instruct | [Paper pdf](https://arxiv.org/pdf/2204.05149.pdf) | [HuggingFace](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct) | llama3.3 | text-generation |
-| LatitudeGames/Wayfarer-12B | [Paper pdf](N/A) | [HuggingFace](https://huggingface.co/LatitudeGames/Wayfarer-12B) | apache-2.0 | text-generation |
-| vikhyatk/moondream2 | [Paper pdf](N/A) | [HuggingFace](https://huggingface.co/vikhyatk/moondream2) | apache-2.0 | image-text-to-text |
+| LatitudeGames/Wayfarer-12B | N/A | [HuggingFace](https://huggingface.co/LatitudeGames/Wayfarer-12B) | apache-2.0 | text-generation |
+| vikhyatk/moondream2 | N/A | [HuggingFace](https://huggingface.co/vikhyatk/moondream2) | apache-2.0 | image-text-to-text |
 | stabilityai/stable-diffusion-3.5-large | [Paper pdf](https://arxiv.org/pdf/2403.03206.pdf) | [HuggingFace](https://huggingface.co/stabilityai/stable-diffusion-3.5-large) | other | text-to-image |
 | stabilityai/stable-point-aware-3d | [Paper pdf](https://arxiv.org/pdf/2501.04689.pdf) | [HuggingFace](https://huggingface.co/stabilityai/stable-point-aware-3d) | other | image-to-3d |
 | omkarthawakar/LlamaV-o1 | [Paper pdf](https://arxiv.org/pdf/2501.06186.pdf) | [HuggingFace](https://huggingface.co/omkarthawakar/LlamaV-o1) | apache-2.0 | question-answering |
-| OuteAI/OuteTTS-0.3-1B | [Paper pdf](N/A) | [HuggingFace](https://huggingface.co/OuteAI/OuteTTS-0.3-1B) | cc-by-nc-sa-4.0 | text-to-speech |
-| jinaai/reader-lm-1.5b | [Paper pdf](N/A) | [HuggingFace](https://huggingface.co/jinaai/reader-lm-1.5b) | cc-by-nc-4.0 | text-generation |
-| onnx-community/Kokoro-82M-ONNX | [Paper pdf](N/A) | [HuggingFace](https://huggingface.co/onnx-community/Kokoro-82M-ONNX) | apache-2.0 | text-to-speech |
+| OuteAI/OuteTTS-0.3-1B | N/A | [HuggingFace](https://huggingface.co/OuteAI/OuteTTS-0.3-1B) | cc-by-nc-sa-4.0 | text-to-speech |
+| jinaai/reader-lm-1.5b | N/A | [HuggingFace](https://huggingface.co/jinaai/reader-lm-1.5b) | cc-by-nc-4.0 | text-generation |
+| onnx-community/Kokoro-82M-ONNX | N/A | [HuggingFace](https://huggingface.co/onnx-community/Kokoro-82M-ONNX) | apache-2.0 | text-to-speech |
 | jxm/cde-small-v2 | [Paper pdf](https://arxiv.org/pdf/2410.02525.pdf) | [HuggingFace](https://huggingface.co/jxm/cde-small-v2) | Unknown license | feature-extraction |
 | nvidia/Cosmos-1.0-Diffusion-7B-Text2World | [Paper pdf](https://arxiv.org/pdf/2501.03575.pdf) | [HuggingFace](https://huggingface.co/nvidia/Cosmos-1.0-Diffusion-7B-Text2World) | other | None |
 | meta-llama/Llama-3.1-8B-Instruct | [Paper pdf](https://arxiv.org/pdf/2204.05149.pdf) | [HuggingFace](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct) | llama3.1 | text-generation |
 | Qwen/Qwen2.5-Math-PRM-72B | [Paper pdf](https://arxiv.org/pdf/2412.06559.pdf) | [HuggingFace](https://huggingface.co/Qwen/Qwen2.5-Math-PRM-72B) | other | text-classification |
 | openai/whisper-large-v3-turbo | [Paper pdf](https://arxiv.org/pdf/2212.04356.pdf) | [HuggingFace](https://huggingface.co/openai/whisper-large-v3-turbo) | mit | automatic-speech-recognition |
-| lightblue/lb-reranker-0.5B-v1.0 | [Paper pdf](N/A) | [HuggingFace](https://huggingface.co/lightblue/lb-reranker-0.5B-v1.0) | apache-2.0 | text-generation |
-| coqui/XTTS-v2 | [Paper pdf](N/A) | [HuggingFace](https://huggingface.co/coqui/XTTS-v2) | other | text-to-speech |
+| lightblue/lb-reranker-0.5B-v1.0 | N/A | [HuggingFace](https://huggingface.co/lightblue/lb-reranker-0.5B-v1.0) | apache-2.0 | text-generation |
+| coqui/XTTS-v2 | N/A | [HuggingFace](https://huggingface.co/coqui/XTTS-v2) | other | text-to-speech |
 | Qwen/Qwen2.5-Coder-32B-Instruct | [Paper pdf](Qwen/Qwen2.5-Coder-32B-Instruct) | [HuggingFace](https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct) | apache-2.0 | text-generation |
 | unsloth/phi-4-GGUF | [Paper pdf](Phi-4 Technical Report) | [HuggingFace](https://huggingface.co/unsloth/phi-4-GGUF) | mit | text-generation |
 | google/timesfm-2.0-500m-pytorch | [Paper pdf](A decoder-only foundation model for time-series forecasting) | [HuggingFace](https://huggingface.co/google/timesfm-2.0-500m-pytorch) | apache-2.0 | time-series-forecasting |

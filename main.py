@@ -575,7 +575,7 @@ class Scaffold:
         # ---------------------------------------------
 
         # Adding conference_target_path News markdown file ( arxiv-daily/database/db_markdown/merged_conference.md)
-        conference_readme_path = "./database/db_markdown/merged_conference.md"      # 2020 ~ 2024 마크다운파일로 변경
+        conference_readme_path = "./database/db_markdown/merged_conference_2020-2024.md"      # 2020 ~ 2024 마크다운파일로 변경
         conference_target_path = os.path.join(SERVER_PATH_DOCS, "Conference", "conference_news.md")
 
         # Ensure the target directory exists
