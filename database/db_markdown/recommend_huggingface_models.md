@@ -341,6 +341,7 @@ Updated on 2025-02-27
 | 1.37k | 3 | makiart/multilingual-ModernBert-base-previewFill-Mask | Updated9 days ago | [Link](https://huggingface.co/makiart/multilingual-ModernBert-base-preview) |
 | 3 | 3 | sbintuitions/modernbert-ja-310mFill-Mask | Updated7 days ago | [Link](https://huggingface.co/sbintuitions/modernbert-ja-310m) |
 | 6 | 3 | sbintuitions/modernbert-ja-30mFill-Mask | Updated7 days ago | [Link](https://huggingface.co/sbintuitions/modernbert-ja-30m) |
+| 4 | 3 | sbintuitions/modernbert-ja-70mFill-Mask | Updated7 days ago | [Link](https://huggingface.co/sbintuitions/modernbert-ja-70m) |
 | 81.3M |  | google-bert/bert-base-uncasedFill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/google-bert/bert-base-uncased) |
 | 2.09M |  | google-bert/bert-base-chineseFill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/google-bert/bert-base-chinese) |
 | 12.5M |  | google-bert/bert-base-multilingual-casedFill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/google-bert/bert-base-multilingual-cased) |
@@ -465,6 +466,7 @@ Updated on 2025-02-27
 | 101k | 10 | nvidia/MambaVision-B-1KImage | UpdatedJul 25, 2024 | [Link](https://huggingface.co/nvidia/MambaVision-B-1K) |
 | 4.86k | 9 | GoodBaiBai88/M3D-CLIPImage | UpdatedMay 8, 2024 | [Link](https://huggingface.co/GoodBaiBai88/M3D-CLIP) |
 | 5.1k | 8 | facebook/dinov2-with-registers-smallImage | UpdatedDec 23, 2024 | [Link](https://huggingface.co/facebook/dinov2-with-registers-small) |
+| 3.1k | 7 | DAMO-NLP-SG/VL3-SigLIP-NaViTImage | Updated10 days ago | [Link](https://huggingface.co/DAMO-NLP-SG/VL3-SigLIP-NaViT) |
 | 85.8k | 6 | timm/vit_large_patch14_reg4_dinov2 | UpdatedJan 21 | [Link](https://huggingface.co/timm/vit_large_patch14_reg4_dinov2.lvd142m) |
 | 7 | 4 | bioptimus/H-optimus-1Image | Updated4 days ago | [Link](https://huggingface.co/bioptimus/H-optimus-1) |
 | 5.8k | 4 | timm/eva02_base_patch14_224 | UpdatedJan 21 | [Link](https://huggingface.co/timm/eva02_base_patch14_224.mim_in22k) |
@@ -952,6 +954,7 @@ Updated on 2025-02-27
 | 3 | Unknown | ibm-granite/granite-embedding-30m-sparseSentence | Updated1 day ago | [Link](https://huggingface.co/ibm-granite/granite-embedding-30m-sparse) |
 | 4.36M |  | sentence-transformers/all-MiniLM-L12-v2Sentence | UpdatedNov 5, 2024 | [Link](https://huggingface.co/sentence-transformers/all-MiniLM-L12-v2) |
 | 12.7M |  | sentence-transformers/multi-qa-MiniLM-L6-cos-v1Sentence | UpdatedNov 5, 2024 | [Link](https://huggingface.co/sentence-transformers/multi-qa-MiniLM-L6-cos-v1) |
+| 167k |  | sentence-transformers/clip-ViT-B-32-multilingual-v1Sentence | UpdatedNov 5, 2024 | [Link](https://huggingface.co/sentence-transformers/clip-ViT-B-32-multilingual-v1) |
 
 ## Summarization
 
@@ -1137,6 +1140,7 @@ Updated on 2025-02-27
 | 2 | Unknown | RenatoBarreira/BERT-VIText | Updated29 days ago | [Link](https://huggingface.co/RenatoBarreira/BERT-VI) |
 | 1.64M |  | facebook/roberta-hate-speech-dynabench-r4-targetText | UpdatedMar 16, 2023 | [Link](https://huggingface.co/facebook/roberta-hate-speech-dynabench-r4-target) |
 | 8.06k |  | kuro-08/bert-transaction-categorizationText | Updated29 days ago | [Link](https://huggingface.co/kuro-08/bert-transaction-categorization) |
+| 2.6M |  | yiyanghkust/finbert-toneText | UpdatedOct 17, 2022 | [Link](https://huggingface.co/yiyanghkust/finbert-tone) |
 
 ## Text Generation
 
@@ -1280,6 +1284,7 @@ Updated on 2025-02-27
 | 28 |  | strangerzonehf/333-PROText-to-Image | Updated2 days ago | [Link](https://huggingface.co/strangerzonehf/333-PRO) |
 | 38k |  | strangerzonehf/Flux-Super-Realism-LoRAText-to-Image | UpdatedNov 27, 2024 | [Link](https://huggingface.co/strangerzonehf/Flux-Super-Realism-LoRA) |
 | 1.11k | Unknown | h94/IP-AdapterText-to-Image | UpdatedMar 27, 2024 | [Link](https://huggingface.co/h94/IP-Adapter) |
+| 19 |  | strangerzonehf/CMS-3D-ArtText-to-Image | Updated1 day ago | [Link](https://huggingface.co/strangerzonehf/CMS-3D-Art) |
 
 ## Text-to-Speech
 
@@ -1474,6 +1479,7 @@ Updated on 2025-02-27
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
 | 44.6k | 288 | facebook/nllb-200-3 | UpdatedFeb 11, 2023 | [Link](https://huggingface.co/facebook/nllb-200-3.3B) |
+| 688 | 114 | facebook/nllb-moe-54bTranslation | UpdatedSep 4, 2023 | [Link](https://huggingface.co/facebook/nllb-moe-54b) |
 | 11.5k | 108 | google/madlad400-10b-mtTranslation | UpdatedApr 12, 2024 | [Link](https://huggingface.co/google/madlad400-10b-mt) |
 | 1.13M | 60 | google-t5/t5-11bTranslation | UpdatedJan 2, 2023 | [Link](https://huggingface.co/google-t5/t5-11b) |
 | 361 | 45 | kyutai/hibiki-2b-pytorch-bf16Translation | Updated19 days ago | [Link](https://huggingface.co/kyutai/hibiki-2b-pytorch-bf16) |
