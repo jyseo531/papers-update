@@ -197,6 +197,7 @@ Updated on 2025-02-27
 | 23.5k |  | nyrahealth/CrisperWhisperAutomatic | UpdatedDec 19, 2024 | [Link](https://huggingface.co/nyrahealth/CrisperWhisper) |
 | 182 |  | Akashpb13/Hausa_xlsrAutomatic | UpdatedMar 23, 2022 | [Link](https://huggingface.co/Akashpb13/Hausa_xlsr) |
 | 1.26M |  | openai/whisper-largeAutomatic | UpdatedFeb 29, 2024 | [Link](https://huggingface.co/openai/whisper-large) |
+| 4 | Unknown | microsoft/Phi-4-multimodal-instruct-onnxAutomatic | Updatedabout 1 hour ago | [Link](https://huggingface.co/microsoft/Phi-4-multimodal-instruct-onnx) |
 
 ## Depth Estimation
 
@@ -338,6 +339,7 @@ Updated on 2025-02-27
 | 105 | 8 | metga97/Modern-EgyBert-BaseFill-Mask | Updated2 days ago | [Link](https://huggingface.co/metga97/Modern-EgyBert-Base) |
 | 432 | 7 | hfl/minirbt-h288Fill-Mask | UpdatedNov 15, 2022 | [Link](https://huggingface.co/hfl/minirbt-h288) |
 | 1.37k | 3 | makiart/multilingual-ModernBert-base-previewFill-Mask | Updated9 days ago | [Link](https://huggingface.co/makiart/multilingual-ModernBert-base-preview) |
+| 3 | 3 | sbintuitions/modernbert-ja-310mFill-Mask | Updated7 days ago | [Link](https://huggingface.co/sbintuitions/modernbert-ja-310m) |
 | 81.3M |  | google-bert/bert-base-uncasedFill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/google-bert/bert-base-uncased) |
 | 2.09M |  | google-bert/bert-base-chineseFill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/google-bert/bert-base-chinese) |
 | 12.5M |  | google-bert/bert-base-multilingual-casedFill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/google-bert/bert-base-multilingual-cased) |
@@ -495,6 +497,7 @@ Updated on 2025-02-27
 | 1.15k | 2 | openmmlab/upernet-swin-baseImage | UpdatedMay 3, 2023 | [Link](https://huggingface.co/openmmlab/upernet-swin-base) |
 | 581k | 1.72k | briaai/RMBG-1 | UpdatedJan 7 | [Link](https://huggingface.co/briaai/RMBG-1.4) |
 | 842 | 1 | facebook/mask2former-swin-large-cityscapes-instanceImage | UpdatedSep 11, 2023 | [Link](https://huggingface.co/facebook/mask2former-swin-large-cityscapes-instance) |
+| 1.66k | 1 | facebook/mask2former-swin-large-cityscapes-panopticImage | UpdatedSep 7, 2023 | [Link](https://huggingface.co/facebook/mask2former-swin-large-cityscapes-panoptic) |
 | 4.65M |  | mattmdjaga/segformer_b2_clothesImage | UpdatedJun 17, 2024 | [Link](https://huggingface.co/mattmdjaga/segformer_b2_clothes) |
 | 41.3k |  | facebook/detr-resnet-50-panopticImage | UpdatedApr 10, 2024 | [Link](https://huggingface.co/facebook/detr-resnet-50-panoptic) |
 | 97.2k |  | nvidia/segformer-b0-finetuned-ade-512-512Image | UpdatedJan 14, 2024 | [Link](https://huggingface.co/nvidia/segformer-b0-finetuned-ade-512-512) |
@@ -855,6 +858,7 @@ Updated on 2025-02-27
 | 19 | 1 | hishamcse/poca-SoccerTwosReinforcement | UpdatedAug 12, 2024 | [Link](https://huggingface.co/hishamcse/poca-SoccerTwos) |
 | 7 | 1 | hishamcse/mortal-kombat-3-ppo-diambraReinforcement | UpdatedAug 12, 2024 | [Link](https://huggingface.co/hishamcse/mortal-kombat-3-ppo-diambra) |
 | 9 | 1 | afedyanin/ppo-LunarLander-v2Reinforcement | UpdatedJan 18 | [Link](https://huggingface.co/afedyanin/ppo-LunarLander-v2) |
+| 19 | 1 | afedyanin/dqn-SpaceInvadersNoFrameskip-v4Reinforcement | UpdatedJan 19 | [Link](https://huggingface.co/afedyanin/dqn-SpaceInvadersNoFrameskip-v4) |
 | 2 | Unknown | edbeeching/decision_transformer_atariReinforcement | UpdatedFeb 21, 2022 | [Link](https://huggingface.co/edbeeching/decision_transformer_atari) |
 | 7 | Unknown | unity/ML-Agents-WalkerReinforcement | UpdatedJun 22, 2022 | [Link](https://huggingface.co/unity/ML-Agents-Walker) |
 | 25 | Unknown | Cainiao-AI/GreedRLReinforcement | UpdatedMay 4, 2023 | [Link](https://huggingface.co/Cainiao-AI/GreedRL) |
@@ -918,6 +922,7 @@ Updated on 2025-02-27
 | 253 | 67 | NeuML/txtai-wikipediaSentence | Updated14 days ago | [Link](https://huggingface.co/NeuML/txtai-wikipedia) |
 | 8.08k | 59 | antoinelouis/colbert-xmSentence | UpdatedSep 29, 2024 | [Link](https://huggingface.co/antoinelouis/colbert-xm) |
 | 152k | 46 | Alibaba-NLP/gte-reranker-modernbert-baseSentence | UpdatedJan 24 | [Link](https://huggingface.co/Alibaba-NLP/gte-reranker-modernbert-base) |
+| 9.14k | 46 | upskyy/bge-m3-koreanSentence | UpdatedAug 9, 2024 | [Link](https://huggingface.co/upskyy/bge-m3-korean) |
 | 63.9k | 42 | Alibaba-NLP/gme-Qwen2-VL-2B-InstructSentence | UpdatedJan 21 | [Link](https://huggingface.co/Alibaba-NLP/gme-Qwen2-VL-2B-Instruct) |
 | 855k | 38 | emrecan/bert-base-turkish-cased-mean-nli-stsb-trSentence | UpdatedJan 24, 2022 | [Link](https://huggingface.co/emrecan/bert-base-turkish-cased-mean-nli-stsb-tr) |
 | 1.75k | 24 | Alibaba-NLP/gme-Qwen2-VL-7B-InstructSentence | UpdatedJan 21 | [Link](https://huggingface.co/Alibaba-NLP/gme-Qwen2-VL-7B-Instruct) |
@@ -926,6 +931,7 @@ Updated on 2025-02-27
 | 2.04k | 3 | Qodo/Qodo-Embed-1-1 | Updatedabout 14 hours ago | [Link](https://huggingface.co/Qodo/Qodo-Embed-1-1.5B) |
 | 18 | 3 | nickprock/Italian-ModernBERT-base-embed-mmarco-tripletSentence | Updated1 day ago | [Link](https://huggingface.co/nickprock/Italian-ModernBERT-base-embed-mmarco-triplet) |
 | 5 | 3 | nickprock/Italian-ModernBERT-base-embed-mmarco-mnrlSentence | Updated1 day ago | [Link](https://huggingface.co/nickprock/Italian-ModernBERT-base-embed-mmarco-mnrl) |
+| 2 | 3 | facebook/drama-baseSentence | Updated2 days ago | [Link](https://huggingface.co/facebook/drama-base) |
 | 95.8M |  | sentence-transformers/all-MiniLM-L6-v2Sentence | UpdatedNov 1, 2024 | [Link](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) |
 | 2.47M |  | BAAI/bge-m3Sentence | UpdatedJul 3, 2024 | [Link](https://huggingface.co/BAAI/bge-m3) |
 | 32.8M |  | sentence-transformers/all-mpnet-base-v2Sentence | UpdatedNov 5, 2024 | [Link](https://huggingface.co/sentence-transformers/all-mpnet-base-v2) |
@@ -1111,6 +1117,7 @@ Updated on 2025-02-27
 | 13 | 4 | lemon42-ai/ThreatDetect-C-CppText | Updatedabout 13 hours ago | [Link](https://huggingface.co/lemon42-ai/ThreatDetect-C-Cpp) |
 | 538 | 3 | scb10x/typhoon2-safety-previewText | UpdatedDec 20, 2024 | [Link](https://huggingface.co/scb10x/typhoon2-safety-preview) |
 | 43.6k | 2 | r3ddkahili/final-complete-malicious-url-modelText | Updated18 days ago | [Link](https://huggingface.co/r3ddkahili/final-complete-malicious-url-model) |
+| 420 | 2 | yueliu1999/GuardReasoner-3BText | Updated24 days ago | [Link](https://huggingface.co/yueliu1999/GuardReasoner-3B) |
 | 65.8k |  | tabularisai/multilingual-sentiment-analysisText | UpdatedJan 16 | [Link](https://huggingface.co/tabularisai/multilingual-sentiment-analysis) |
 | 1.54M |  | ProsusAI/finbertText | UpdatedMay 23, 2023 | [Link](https://huggingface.co/ProsusAI/finbert) |
 | 2.1M |  | cardiffnlp/twitter-roberta-base-sentiment-latestText | UpdatedMay 28, 2023 | [Link](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest) |
@@ -1128,6 +1135,7 @@ Updated on 2025-02-27
 | 415k |  | Minej/bert-base-personalityText | UpdatedJul 13, 2023 | [Link](https://huggingface.co/Minej/bert-base-personality) |
 | 2 | Unknown | RenatoBarreira/BERT-VIText | Updated29 days ago | [Link](https://huggingface.co/RenatoBarreira/BERT-VI) |
 | 1.64M |  | facebook/roberta-hate-speech-dynabench-r4-targetText | UpdatedMar 16, 2023 | [Link](https://huggingface.co/facebook/roberta-hate-speech-dynabench-r4-target) |
+| 8.06k |  | kuro-08/bert-transaction-categorizationText | Updated29 days ago | [Link](https://huggingface.co/kuro-08/bert-transaction-categorization) |
 
 ## Text Generation
 
@@ -1355,6 +1363,7 @@ Updated on 2025-02-27
 | 99 | 288 | google/switch-c-2048Text2Text | UpdatedJan 11, 2024 | [Link](https://huggingface.co/google/switch-c-2048) |
 | 20.5k | 216 | Babelscape/rebel-largeText2Text | UpdatedJun 20, 2023 | [Link](https://huggingface.co/Babelscape/rebel-large) |
 | 709k | 102 | google/t5-v1_1-xxlText2Text | UpdatedJan 24, 2023 | [Link](https://huggingface.co/google/t5-v1_1-xxl) |
+| 35k | 99 | shibing624/macbert4csc-base-chineseText2Text | UpdatedSep 27, 2024 | [Link](https://huggingface.co/shibing624/macbert4csc-base-chinese) |
 | 9.59k | 84 | ystemsrx/Qwen2 | UpdatedOct 6, 2024 | [Link](https://huggingface.co/ystemsrx/Qwen2.5-Sex) |
 | 2.94M | 43 | Rostlab/prot_t5_xl_uniref50Text2Text | UpdatedJan 31, 2023 | [Link](https://huggingface.co/Rostlab/prot_t5_xl_uniref50) |
 | 936 | 24 | Unbabel/gec-t5_smallText2Text | UpdatedSep 27, 2021 | [Link](https://huggingface.co/Unbabel/gec-t5_small) |
