@@ -78,6 +78,8 @@ def update_github_info(db_file, token=None):
     conn.close()
 
 
+import sqlite3
+import datetime
 
 def db_to_md(conn, md_filename="README.md"):
     """
@@ -101,13 +103,13 @@ def db_to_md(conn, md_filename="README.md"):
                 subtopic_name = subtopic[0]
                 f.write(f"\n### {subtopic_name}\n\n")
 
-                # ✅ 헤더에서 Authors, Last Updated 제거
-                f.write("| Publish Date | Title | PDF | Code | Star | Framework |\n")
-                f.write("|-------------|-------|-----|------|------|---------|\n")
+                # ✅ 헤더에서 Conference 열 추가
+                f.write("| Publish Date | Title | PDF | Code | Star | Code Validity | Conference |\n")
+                f.write("|-------------|-------|-----|------|------|---------|------------|\n")
 
-                # ✅ SQL 쿼리에서 star 내림차순 정렬 추가
+                # ✅ SQL 쿼리에서 Conference 정보 포함
                 cursor.execute("""
-                    SELECT publish_date, title, pdf_url, code_url, star, framework
+                    SELECT publish_date, title, pdf_url, code_url, star, framework, Conference
                     FROM papers
                     WHERE topic=? AND subtopic=?
                     ORDER BY star DESC, publish_date DESC
@@ -115,19 +117,21 @@ def db_to_md(conn, md_filename="README.md"):
 
                 papers = cursor.fetchall()
                 for paper in papers:
-                    publish_date, title, pdf_url, code_url, star, framework = paper
+                    publish_date, title, pdf_url, code_url, star, framework, conference = paper
                     pdf_link = f"[PDF]({pdf_url})" if pdf_url else "N/A"
                     code_link = f"[link]({code_url})" if code_url else "N/A"
-                    f.write(f"| {publish_date} | **{title}** | {pdf_link} | {code_link} | {star} | {framework} |\n")
+                    conference_text = conference if conference else "N/A"  # Conference 값이 없으면 N/A 표시
+
+                    # ✅ Conference 열 추가하여 Markdown 테이블에 삽입
+                    f.write(f"| {publish_date} | **{title}** | {pdf_link} | {code_link} | {star} | {framework} | {conference_text} |\n")
 
                 f.write("\n")
 
     print(f"Markdown file '{md_filename}' generated successfully.")
 
 if __name__ == "__main__":
-    db_file = "./arxiv_star_test_2020_star_framework.db"  # 데이터베이스 파일 경로
+    db_file = "./arxiv_star_test_2020_star_framework_0227.db"  # 데이터베이스 파일 경로
     conn = sqlite3.connect(db_file)
     
-    #update_github_info(db_file, github_token)
-    db_to_md(conn, "./arxiv_star_2020_test.md")  # 마크다운 생성
+    db_to_md(conn, "./arxiv_2020_FINAL.md")  # 마크다운 생성
     conn.close()
