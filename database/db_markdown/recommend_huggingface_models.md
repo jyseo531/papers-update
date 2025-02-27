@@ -324,8 +324,10 @@ Updated on 2025-02-27
 | 726k | 173 | microsoft/mdeberta-v3-baseFill-Mask | UpdatedApr 6, 2023 | [Link](https://huggingface.co/microsoft/mdeberta-v3-base) |
 | 4.76k | 130 | hfl/chinese-macbert-baseFill-Mask | UpdatedMay 19, 2021 | [Link](https://huggingface.co/hfl/chinese-macbert-base) |
 | 221k | 104 | Rostlab/prot_bertFill-Mask | UpdatedNov 16, 2023 | [Link](https://huggingface.co/Rostlab/prot_bert) |
+| 34.4k | 78 | huggingface/CodeBERTa-small-v1Fill-Mask | UpdatedJun 27, 2022 | [Link](https://huggingface.co/huggingface/CodeBERTa-small-v1) |
 | 3.84k | 46 | jackaduma/SecBERTFill-Mask | UpdatedJun 26, 2023 | [Link](https://huggingface.co/jackaduma/SecBERT) |
 | 4.35k | 39 | Twitter/twhin-bert-baseFill-Mask | UpdatedJul 7, 2023 | [Link](https://huggingface.co/Twitter/twhin-bert-base) |
+| 4.33k | 35 | hfl/rbt3Fill-Mask | UpdatedMay 19, 2021 | [Link](https://huggingface.co/hfl/rbt3) |
 | 8.8k | 32 | sbintuitions/modernbert-ja-130mFill-Mask | Updated11 days ago | [Link](https://huggingface.co/sbintuitions/modernbert-ja-130m) |
 | 3.06k | 26 | ckiplab/bert-base-chineseFill-Mask | UpdatedMay 10, 2022 | [Link](https://huggingface.co/ckiplab/bert-base-chinese) |
 | 349k | 19 | m3rg-iitd/matscibertFill-Mask | UpdatedJun 22, 2024 | [Link](https://huggingface.co/m3rg-iitd/matscibert) |
@@ -592,6 +594,7 @@ Updated on 2025-02-27
 | 129k | 550 | yisol/IDM-VTONImage-to-Image | UpdatedApr 22, 2024 | [Link](https://huggingface.co/yisol/IDM-VTON) |
 | 169k | 534 | stabilityai/stable-diffusion-2-inpaintingImage-to-Image | UpdatedJul 5, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-2-inpainting) |
 | 3.02k | 268 | fal/AuraSR-v2Image-to-Image | UpdatedAug 7, 2024 | [Link](https://huggingface.co/fal/AuraSR-v2) |
+| 6.24k | 260 | enhanceaiteam/Flux-Uncensored-V2Image-to-Image | UpdatedOct 11, 2024 | [Link](https://huggingface.co/enhanceaiteam/Flux-Uncensored-V2) |
 | 13.9k | 205 | XLabs-AI/flux-ip-adapter-v2Image-to-Image | UpdatedOct 24, 2024 | [Link](https://huggingface.co/XLabs-AI/flux-ip-adapter-v2) |
 | 8.65k | 135 | lllyasviel/sd-controlnet-openposeImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-openpose) |
 | 14.4k | 124 | Yuanshi/OminiControlImage-to-Image | UpdatedDec 10, 2024 | [Link](https://huggingface.co/Yuanshi/OminiControl) |
@@ -1106,6 +1109,7 @@ Updated on 2025-02-27
 | 37.5k | 122 | mixedbread-ai/mxbai-rerank-large-v1Text | Updated4 days ago | [Link](https://huggingface.co/mixedbread-ai/mxbai-rerank-large-v1) |
 | 390k | 93 | Alibaba-NLP/gte-multilingual-reranker-baseText | UpdatedJan 9 | [Link](https://huggingface.co/Alibaba-NLP/gte-multilingual-reranker-base) |
 | 1.01M | 88 | pysentimiento/robertuito-sentiment-analysisText | UpdatedJul 8, 2024 | [Link](https://huggingface.co/pysentimiento/robertuito-sentiment-analysis) |
+| 25.5k | 53 | uer/roberta-base-finetuned-dianping-chineseText | UpdatedOct 17, 2023 | [Link](https://huggingface.co/uer/roberta-base-finetuned-dianping-chinese) |
 | 7.05k | 50 | BAAI/bge-reranker-v2-minicpm-layerwiseText | UpdatedMar 19, 2024 | [Link](https://huggingface.co/BAAI/bge-reranker-v2-minicpm-layerwise) |
 | 2.1k | 46 | BAAI/bge-reranker-v2 | UpdatedSep 6, 2024 | [Link](https://huggingface.co/BAAI/bge-reranker-v2.5-gemma2-lightweight) |
 | 9.68k | 41 | soleimanian/financial-roberta-large-sentimentText | UpdatedOct 12, 2022 | [Link](https://huggingface.co/soleimanian/financial-roberta-large-sentiment) |
@@ -1141,6 +1145,7 @@ Updated on 2025-02-27
 | 1.64M |  | facebook/roberta-hate-speech-dynabench-r4-targetText | UpdatedMar 16, 2023 | [Link](https://huggingface.co/facebook/roberta-hate-speech-dynabench-r4-target) |
 | 8.06k |  | kuro-08/bert-transaction-categorizationText | Updated29 days ago | [Link](https://huggingface.co/kuro-08/bert-transaction-categorization) |
 | 2.6M |  | yiyanghkust/finbert-toneText | UpdatedOct 17, 2022 | [Link](https://huggingface.co/yiyanghkust/finbert-tone) |
+| 775k |  | j-hartmann/emotion-english-distilroberta-baseText | UpdatedJan 2, 2023 | [Link](https://huggingface.co/j-hartmann/emotion-english-distilroberta-base) |
 
 ## Text Generation
 
@@ -1285,6 +1290,7 @@ Updated on 2025-02-27
 | 38k |  | strangerzonehf/Flux-Super-Realism-LoRAText-to-Image | UpdatedNov 27, 2024 | [Link](https://huggingface.co/strangerzonehf/Flux-Super-Realism-LoRA) |
 | 1.11k | Unknown | h94/IP-AdapterText-to-Image | UpdatedMar 27, 2024 | [Link](https://huggingface.co/h94/IP-Adapter) |
 | 19 |  | strangerzonehf/CMS-3D-ArtText-to-Image | Updated1 day ago | [Link](https://huggingface.co/strangerzonehf/CMS-3D-Art) |
+| 133k |  | ali-vilab/In-Context-LoRAText-to-Image | UpdatedDec 17, 2024 | [Link](https://huggingface.co/ali-vilab/In-Context-LoRA) |
 
 ## Text-to-Speech
 
@@ -1312,6 +1318,7 @@ Updated on 2025-02-27
 | 431 | 21 | firstpixel/F5-TTS-pt-brText-to-Speech | Updated13 days ago | [Link](https://huggingface.co/firstpixel/F5-TTS-pt-br) |
 | 1.54k | 19 | HKUSTAudio/Llasa-1B-MultilingualText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-1B-Multilingual) |
 | 73 | 12 | geneing/KokoroText-to-Speech | UpdatedJan 10 | [Link](https://huggingface.co/geneing/Kokoro) |
+| 27 | 10 | hexgrad/Kokoro-82M-v1 | Updatedabout 7 hours ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M-v1.1-zh) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 2.36M | 2.41k | coqui/XTTS-v2Text-to-Speech | UpdatedDec 11, 2023 | [Link](https://huggingface.co/coqui/XTTS-v2) |
@@ -1480,6 +1487,7 @@ Updated on 2025-02-27
 |:----------|:------|:-----------|:------------|:------|
 | 44.6k | 288 | facebook/nllb-200-3 | UpdatedFeb 11, 2023 | [Link](https://huggingface.co/facebook/nllb-200-3.3B) |
 | 688 | 114 | facebook/nllb-moe-54bTranslation | UpdatedSep 4, 2023 | [Link](https://huggingface.co/facebook/nllb-moe-54b) |
+| 14.8k | 112 | google/madlad400-3b-mtTranslation | UpdatedNov 27, 2023 | [Link](https://huggingface.co/google/madlad400-3b-mt) |
 | 11.5k | 108 | google/madlad400-10b-mtTranslation | UpdatedApr 12, 2024 | [Link](https://huggingface.co/google/madlad400-10b-mt) |
 | 1.13M | 60 | google-t5/t5-11bTranslation | UpdatedJan 2, 2023 | [Link](https://huggingface.co/google-t5/t5-11b) |
 | 361 | 45 | kyutai/hibiki-2b-pytorch-bf16Translation | Updated19 days ago | [Link](https://huggingface.co/kyutai/hibiki-2b-pytorch-bf16) |
@@ -1515,6 +1523,7 @@ Updated on 2025-02-27
 | 161k |  | Helsinki-NLP/opus-mt-en-esTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-en-es) |
 | 83k |  | Helsinki-NLP/opus-mt-en-hiTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-en-hi) |
 | 303k |  | Helsinki-NLP/opus-mt-mul-enTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-mul-en) |
+| 8.49k |  | facebook/nllb-200-1 | UpdatedFeb 11, 2023 | [Link](https://huggingface.co/facebook/nllb-200-1.3B) |
 
 ## Unconditional Image Generation
 
@@ -1611,6 +1620,7 @@ Updated on 2025-02-27
 | 327 | 9 | mlx-community/SmolVLM2-500M-Video-Instruct-mlxVideo-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/mlx-community/SmolVLM2-500M-Video-Instruct-mlx) |
 | 65 | 9 | GoodiesHere/Apollo-LMMs-Apollo-1_5B-t32Video-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/GoodiesHere/Apollo-LMMs-Apollo-1_5B-t32) |
 | 708 | 7 | llava-hf/LLaVA-NeXT-Video-34B-hfVideo-Text-to-Text | Updated29 days ago | [Link](https://huggingface.co/llava-hf/LLaVA-NeXT-Video-34B-hf) |
+| 30 | 7 | Kangheng/Video-UTR-7bVideo-Text-to-Text | Updated12 days ago | [Link](https://huggingface.co/Kangheng/Video-UTR-7b) |
 | 64 | 5 | mlx-community/SmolVLM2-256M-Video-Instruct-mlxVideo-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/mlx-community/SmolVLM2-256M-Video-Instruct-mlx) |
 | 4.66k | 4 | TIGER-Lab/VideoScore-v1 | Updated12 days ago | [Link](https://huggingface.co/TIGER-Lab/VideoScore-v1.1) |
 | 41 | 4 | OpenGVLab/VideoChat-TPOVideo-Text-to-Text | UpdatedJan 2 | [Link](https://huggingface.co/OpenGVLab/VideoChat-TPO) |
@@ -1676,6 +1686,7 @@ Updated on 2025-02-27
 | 228 | 10 | google/pix2struct-infographics-vqa-largeVisual | UpdatedMay 19, 2023 | [Link](https://huggingface.co/google/pix2struct-infographics-vqa-large) |
 | 337 | 9 | nectec/Pathumma-llm-vision-1 | UpdatedOct 25, 2024 | [Link](https://huggingface.co/nectec/Pathumma-llm-vision-1.0.0) |
 | 4.21k | 8 | DAMO-NLP-SG/VideoLLaMA3-2BVisual | Updated8 days ago | [Link](https://huggingface.co/DAMO-NLP-SG/VideoLLaMA3-2B) |
+| 1.53k | 6 | erax-ai/EraX-VL-2B-V1 | UpdatedJan 15 | [Link](https://huggingface.co/erax-ai/EraX-VL-2B-V1.5) |
 | 2.79k | 5 | mPLUG/mPLUG-Owl3-2B-241014Visual | UpdatedOct 15, 2024 | [Link](https://huggingface.co/mPLUG/mPLUG-Owl3-2B-241014) |
 | 100 | 4 | BUAADreamer/Chinese-LLaVA-Med-7BVisual | UpdatedMay 22, 2024 | [Link](https://huggingface.co/BUAADreamer/Chinese-LLaVA-Med-7B) |
 | 72 | 3 | SakanaAI/TAID-VLM-2BVisual | Updated26 days ago | [Link](https://huggingface.co/SakanaAI/TAID-VLM-2B) |
@@ -1764,6 +1775,7 @@ Updated on 2025-02-27
 | 12.6k | 391 | zer0int/CLIP-GmP-ViT-L-14Zero-Shot | UpdatedSep 23, 2024 | [Link](https://huggingface.co/zer0int/CLIP-GmP-ViT-L-14) |
 | 885k | 360 | laion/CLIP-ViT-H-14-laion2B-s32B-b79KZero-Shot | UpdatedJan 22 | [Link](https://huggingface.co/laion/CLIP-ViT-H-14-laion2B-s32B-b79K) |
 | 52.2k | 272 | microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224Zero-Shot | UpdatedJan 14 | [Link](https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224) |
+| 1.24M | 252 | laion/CLIP-ViT-bigG-14-laion2B-39B-b160kZero-Shot | UpdatedJan 22 | [Link](https://huggingface.co/laion/CLIP-ViT-bigG-14-laion2B-39B-b160k) |
 | 80.4k | 191 | jinaai/jina-clip-v2Zero-Shot | UpdatedJan 13 | [Link](https://huggingface.co/jinaai/jina-clip-v2) |
 | 2.59M | 107 | laion/CLIP-ViT-B-32-laion2B-s34B-b79KZero-Shot | UpdatedJan 22 | [Link](https://huggingface.co/laion/CLIP-ViT-B-32-laion2B-s34B-b79K) |
 | 33.2k | 97 | OFA-Sys/chinese-clip-vit-base-patch16Zero-Shot | UpdatedDec 9, 2022 | [Link](https://huggingface.co/OFA-Sys/chinese-clip-vit-base-patch16) |
