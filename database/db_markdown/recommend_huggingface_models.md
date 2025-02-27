@@ -340,6 +340,7 @@ Updated on 2025-02-27
 | 432 | 7 | hfl/minirbt-h288Fill-Mask | UpdatedNov 15, 2022 | [Link](https://huggingface.co/hfl/minirbt-h288) |
 | 1.37k | 3 | makiart/multilingual-ModernBert-base-previewFill-Mask | Updated9 days ago | [Link](https://huggingface.co/makiart/multilingual-ModernBert-base-preview) |
 | 3 | 3 | sbintuitions/modernbert-ja-310mFill-Mask | Updated7 days ago | [Link](https://huggingface.co/sbintuitions/modernbert-ja-310m) |
+| 6 | 3 | sbintuitions/modernbert-ja-30mFill-Mask | Updated7 days ago | [Link](https://huggingface.co/sbintuitions/modernbert-ja-30m) |
 | 81.3M |  | google-bert/bert-base-uncasedFill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/google-bert/bert-base-uncased) |
 | 2.09M |  | google-bert/bert-base-chineseFill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/google-bert/bert-base-chinese) |
 | 12.5M |  | google-bert/bert-base-multilingual-casedFill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/google-bert/bert-base-multilingual-cased) |
