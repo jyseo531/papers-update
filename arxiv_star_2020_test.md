@@ -8,7 +8,7 @@ Updated on 2025-02-26
 
 ### Image Classification
 
-| Publish Date | Title | PDF | Code | Star | Framework |
+| Publish Date | Title | PDF | Code | Star | Code Validity |
 |-------------|-------|-----|------|------|---------|
 | 2022-04-01 | **Proper Reuse of Image Classification Features Improves Object Detection** | [PDF](http://arxiv.org/abs/2204.00484v2) | [link](https://github.com/tensorflow/models) | 77411 | None |
 | 2023-04-06 | **MULLER: Multilayer Laplacian Resizer for Vision** | [PDF](http://arxiv.org/abs/2304.02859v1) | [link](https://github.com/google-research/google-research/tree/master/muller) | 34988 | None |
@@ -2661,7 +2661,7 @@ Updated on 2025-02-26
 
 ### Keypoint Detection
 
-| Publish Date | Title | PDF | Code | Star | Framework |
+| Publish Date | Title | PDF | Code | Star | Code Validity |
 |-------------|-------|-----|------|------|---------|
 | 2021-12-16 | **Masked Feature Prediction for Self-Supervised Visual Pre-Training** | [PDF](http://arxiv.org/abs/2112.09133v2) | [link](https://github.com/facebookresearch/SlowFast) | 6804 | pytorch |
 | 2021-04-01 | **LoFTR: Detector-Free Local Feature Matching with Transformers** | [PDF](http://arxiv.org/abs/2104.00680v1) | [link](https://github.com/zju3dv/LoFTR) | 2430 | pytorch |
@@ -2784,7 +2784,7 @@ Updated on 2025-02-26
 
 ### Image Matching
 
-| Publish Date | Title | PDF | Code | Star | Framework |
+| Publish Date | Title | PDF | Code | Star | Code Validity |
 |-------------|-------|-----|------|------|---------|
 | 2024-06-14 | **Grounding Image Matching in 3D with MASt3R** | [PDF](http://arxiv.org/abs/2406.09756v1) | [link](https://github.com/naver/mast3r) | 1734 | pytorch |
 | 2023-02-10 | **General, Single-shot, Target-less, and Automatic LiDAR-Camera Extrinsic Calibration Toolbox** | [PDF](http://arxiv.org/abs/2302.05094v1) | [link](https://github.com/koide3/direct_visual_lidar_calibration) | 898 | None |
@@ -3030,7 +3030,7 @@ Updated on 2025-02-26
 
 ### Semantic Segmentation
 
-| Publish Date | Title | PDF | Code | Star | Framework |
+| Publish Date | Title | PDF | Code | Star | Code Validity |
 |-------------|-------|-----|------|------|---------|
 | 2022-06-08 | **MobileOne: An Improved One millisecond Mobile Backbone** | [PDF](http://arxiv.org/abs/2206.04040v2) | [link](https://github.com/rwightman/pytorch-image-models) | 33275 | pytorch |
 | 2021-06-24 | **VOLO: Vision Outlooker for Visual Recognition** | [PDF](http://arxiv.org/abs/2106.13112v2) | [link](https://github.com/rwightman/pytorch-image-models) | 33275 | pytorch |
@@ -5464,7 +5464,7 @@ Updated on 2025-02-26
 
 ### Instance Segmentation
 
-| Publish Date | Title | PDF | Code | Star | Framework |
+| Publish Date | Title | PDF | Code | Star | Code Validity |
 |-------------|-------|-----|------|------|---------|
 | 2021-12-17 | **A Simple Single-Scale Vision Transformer for Object Localization and Instance Segmentation** | [PDF](http://arxiv.org/abs/2112.09747v3) | [link](https://github.com/tensorflow/models) | 77411 | None |
 | 2024-03-28 | **DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs** | [PDF](http://arxiv.org/abs/2403.19588v2) | [link](https://github.com/huggingface/pytorch-image-models) | 33276 | pytorch |
@@ -6911,7 +6911,7 @@ Updated on 2025-02-26
 
 ### Object Detection
 
-| Publish Date | Title | PDF | Code | Star | Framework |
+| Publish Date | Title | PDF | Code | Star | Code Validity |
 |-------------|-------|-----|------|------|---------|
 | 2022-12-14 | **RTMDet: An Empirical Study of Designing Real-Time Object Detectors** | [PDF](http://arxiv.org/abs/2212.07784v2) | [link](https://github.com/open-mmlab/mmdetection/tree/3.x/configs/rtmdet) | 30347 | pytorch |
 | 2023-07-25 | **An Investigation into Glomeruli Detection in Kidney H&E and PAS Images using YOLO** | [PDF](http://arxiv.org/abs/2307.13199v1) | [link](https://github.com/AlexeyAB/darknet) | 21923 | None |
@@ -8388,7 +8388,7 @@ Updated on 2025-02-26
 
 ### Object Tracking
 
-| Publish Date | Title | PDF | Code | Star | Framework |
+| Publish Date | Title | PDF | Code | Star | Code Validity |
 |-------------|-------|-----|------|------|---------|
 | 2024-11-18 | **SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory** | [PDF](http://arxiv.org/abs/2411.11922v2) | [link](https://github.com/yangchris11/samurai) | 6542 | None |
 | 2022-08-14 | **AVisT: A Benchmark for Visual Object Tracking in Adverse Visibility** | [PDF](http://arxiv.org/abs/2208.06888v1) | [link](https://github.com/visionml/pytracking) | 3324 | pytorch |
@@ -8537,7 +8537,7 @@ Updated on 2025-02-26
 
 ### 3D Object Detection
 
-| Publish Date | Title | PDF | Code | Star | Framework |
+| Publish Date | Title | PDF | Code | Star | Code Validity |
 |-------------|-------|-----|------|------|---------|
 | 2023-04-03 | **Open-Vocabulary Point-Cloud Object Detection without 3D Annotation** | [PDF](http://arxiv.org/abs/2304.00788v2) | [link](https://github.com/lyhdet/ov-3det) | 89 | pytorch |
 | 2024-07-16 | **PADRe: A Unifying Polynomial Attention Drop-in Replacement for Efficient Vision Transformer** | [PDF](http://arxiv.org/abs/2407.11306v1) | N/A | 0 |  |
@@ -8548,7 +8548,7 @@ Updated on 2025-02-26
 
 ### Point Cloud
 
-| Publish Date | Title | PDF | Code | Star | Framework |
+| Publish Date | Title | PDF | Code | Star | Code Validity |
 |-------------|-------|-----|------|------|---------|
 | 2022-12-16 | **Point-E: A System for Generating 3D Point Clouds from Complex Prompts** | [PDF](http://arxiv.org/abs/2212.08751v1) | [link](https://github.com/openai/point-e) | 6641 | pytorch |
 | 2021-12-01 | **FCAF3D: Fully Convolutional Anchor-Free 3D Object Detection** | [PDF](http://arxiv.org/abs/2112.00322v2) | [link](https://github.com/open-mmlab/mmdetection3d) | 5539 | pytorch |
@@ -10902,7 +10902,7 @@ Updated on 2025-02-26
 
 ### Point Cloud Completion
 
-| Publish Date | Title | PDF | Code | Star | Framework |
+| Publish Date | Title | PDF | Code | Star | Code Validity |
 |-------------|-------|-----|------|------|---------|
 | 2023-01-11 | **AdaPoinTr: Diverse Point Cloud Completion with Adaptive Geometry-Aware Transformers** | [PDF](http://arxiv.org/abs/2301.04545v1) | [link](https://github.com/yuxumin/PoinTr) | 651 | pytorch |
 | 2021-08-19 | **PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers** | [PDF](http://arxiv.org/abs/2108.08839v1) | [link](https://github.com/yuxumin/PoinTr) | 651 | pytorch |
@@ -11038,7 +11038,7 @@ Updated on 2025-02-26
 
 ### Point Cloud Segmentation
 
-| Publish Date | Title | PDF | Code | Star | Framework |
+| Publish Date | Title | PDF | Code | Star | Code Validity |
 |-------------|-------|-----|------|------|---------|
 | 2022-10-11 | **Point Transformer V2: Grouped Vector Attention and Partition-based Pooling** | [PDF](http://arxiv.org/abs/2210.05666v2) | [link](https://github.com/Pointcept/Pointcept) | 1864 | None |
 | 2023-12-01 | **Generalized Robot 3D Vision-Language Model with Fast Rendering and Pre-Training Vision-Language Alignment** | [PDF](http://arxiv.org/abs/2312.00663v2) | [link](https://github.com/maudzung/SFA3D) | 1060 | None |
@@ -11224,7 +11224,7 @@ Updated on 2025-02-26
 
 ### Point Cloud Matching
 
-| Publish Date | Title | PDF | Code | Star | Framework |
+| Publish Date | Title | PDF | Code | Star | Code Validity |
 |-------------|-------|-----|------|------|---------|
 | 2024-07-14 | **GLIM: 3D Range-Inertial Localization and Mapping with GPU-Accelerated Scan Matching Factors** | [PDF](http://arxiv.org/abs/2407.10344v1) | [link](https://github.com/koide3/glim) | 824 | None |
 | 2021-11-24 | **Lepard: Learning partial point cloud matching in rigid and deformable scenes** | [PDF](http://arxiv.org/abs/2111.12591v2) | [link](https://github.com/rabbityl/lepard) | 210 | pytorch |
@@ -11245,7 +11245,7 @@ Updated on 2025-02-26
 
 ### Point Cloud Registration
 
-| Publish Date | Title | PDF | Code | Star | Framework |
+| Publish Date | Title | PDF | Code | Star | Code Validity |
 |-------------|-------|-----|------|------|---------|
 | 2020-01-21 | **TEASER: Fast and Certifiable Point Cloud Registration** | [PDF](http://arxiv.org/abs/2001.07715v2) | [link](https://github.com/MIT-SPARK/TEASER-plusplus) | 1877 | None |
 | 2021-10-01 | **Direct LiDAR Odometry: Fast Localization with Dense Point Clouds** | [PDF](http://arxiv.org/abs/2110.00605v3) | [link](https://github.com/vectr-ucla/direct_lidar_odometry) | 912 | None |
@@ -11583,7 +11583,7 @@ Updated on 2025-02-26
 
 ### Transfer Learning
 
-| Publish Date | Title | PDF | Code | Star | Framework |
+| Publish Date | Title | PDF | Code | Star | Code Validity |
 |-------------|-------|-----|------|------|---------|
 | 2020-03-02 | **Out-of-Distribution Generalization via Risk Extrapolation (REx)** | [PDF](http://arxiv.org/abs/2003.00688v5) | [link](https://github.com/capybaralet/REx_code_release) | 64 | pytorch |
 | 2024-04-10 | **BAMBOO: a predictive and transferable machine learning force field framework for liquid electrolyte development** | [PDF](http://arxiv.org/abs/2404.07181v4) | [link](https://github.com/bytedance/bamboo) | 51 | None |
@@ -11617,7 +11617,7 @@ Updated on 2025-02-26
 
 ### Contrastive Learning
 
-| Publish Date | Title | PDF | Code | Star | Framework |
+| Publish Date | Title | PDF | Code | Star | Code Validity |
 |-------------|-------|-----|------|------|---------|
 | 2021-12-09 | **Contextualized Spatio-Temporal Contrastive Learning with Self-Supervision** | [PDF](http://arxiv.org/abs/2112.05181v2) | [link](https://github.com/tensorflow/models) | 77410 | None |
 | 2022-12-21 | **Beyond Contrastive Learning: A Variational Generative Model for Multilingual Retrieval** | [PDF](http://arxiv.org/abs/2212.10726v2) | [link](https://github.com/google-research/google-research) | 34989 | None |
@@ -14098,7 +14098,7 @@ Updated on 2025-02-26
 
 ### Reinforcement Learning
 
-| Publish Date | Title | PDF | Code | Star | Framework |
+| Publish Date | Title | PDF | Code | Star | Code Validity |
 |-------------|-------|-----|------|------|---------|
 | 2020-06-24 | **RL Unplugged: A Suite of Benchmarks for Offline Reinforcement Learning** | [PDF](http://arxiv.org/abs/2006.13888v4) | [link](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) | 13542 | None |
 | 2020-06-16 | **AWAC: Accelerating Online Reinforcement Learning with Offline Datasets** | [PDF](http://arxiv.org/abs/2006.09359v6) | [link](https://github.com/vitchyr/rlkit) | 2597 | None |
@@ -16957,7 +16957,7 @@ Updated on 2025-02-26
 
 ### Transformer
 
-| Publish Date | Title | PDF | Code | Star | Framework |
+| Publish Date | Title | PDF | Code | Star | Code Validity |
 |-------------|-------|-----|------|------|---------|
 | 2025-02-24 | **Reasoning with Latent Thoughts: On the Power of Looped Transformers** | [PDF](http://arxiv.org/abs/2502.17416v1) | N/A | 0 |  |
 | 2025-02-24 | **X-Dancer: Expressive Music to Human Dance Video Generation** | [PDF](http://arxiv.org/abs/2502.17414v1) | N/A | 0 |  |
@@ -19877,7 +19877,7 @@ Updated on 2025-02-26
 
 ### Vision Transformer
 
-| Publish Date | Title | PDF | Code | Star | Framework |
+| Publish Date | Title | PDF | Code | Star | Code Validity |
 |-------------|-------|-----|------|------|---------|
 | 2024-11-06 | **VQA$^2$: Visual Question Answering for Video Quality Assessment** | [PDF](http://arxiv.org/abs/2411.03795v4) | [link](https://github.com/q-future/visual-question-answering-for-video-quality-assessment) | 0 |  |
 | 2024-06-19 | **Liveness Detection in Computer Vision: Transformer-based Self-Supervised Learning for Face Anti-Spoofing** | [PDF](http://arxiv.org/abs/2406.13860v1) | N/A | 0 |  |
@@ -19894,7 +19894,7 @@ Updated on 2025-02-26
 
 ### Graph Neural Network
 
-| Publish Date | Title | PDF | Code | Star | Framework |
+| Publish Date | Title | PDF | Code | Star | Code Validity |
 |-------------|-------|-----|------|------|---------|
 | 2025-02-24 | **Sustainable Greenhouse Management: A Comparative Analysis of Recurrent and Graph Neural Networks** | [PDF](http://arxiv.org/abs/2502.17371v1) | N/A | 0 |  |
 | 2025-02-24 | **Applications of Large Models in Medicine** | [PDF](http://arxiv.org/abs/2502.17132v1) | N/A | 0 |  |
@@ -22910,7 +22910,7 @@ Updated on 2025-02-26
 
 ### Robotics
 
-| Publish Date | Title | PDF | Code | Star | Framework |
+| Publish Date | Title | PDF | Code | Star | Code Validity |
 |-------------|-------|-----|------|------|---------|
 | 2025-02-24 | **V-HOP: Visuo-Haptic 6D Object Pose Tracking** | [PDF](http://arxiv.org/abs/2502.17434v1) | N/A | 0 |  |
 | 2025-02-24 | **FACTR: Force-Attending Curriculum Training for Contact-Rich Policy Learning** | [PDF](http://arxiv.org/abs/2502.17432v1) | N/A | 0 |  |
@@ -25856,7 +25856,7 @@ Updated on 2025-02-26
 
 ### SLAM
 
-| Publish Date | Title | PDF | Code | Star | Framework |
+| Publish Date | Title | PDF | Code | Star | Code Validity |
 |-------------|-------|-----|------|------|---------|
 | 2025-02-24 | **MegaLoc: One Retrieval to Place Them All** | [PDF](http://arxiv.org/abs/2502.17237v1) | N/A | 0 |  |
 | 2025-02-24 | **SLABIM: A SLAM-BIM Coupled Dataset in HKUST Main Building** | [PDF](http://arxiv.org/abs/2502.16856v1) | N/A | 0 |  |
@@ -27388,7 +27388,7 @@ Updated on 2025-02-26
 
 ### SFM
 
-| Publish Date | Title | PDF | Code | Star | Framework |
+| Publish Date | Title | PDF | Code | Star | Code Validity |
 |-------------|-------|-----|------|------|---------|
 | 2025-02-24 | **Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model** | [PDF](http://arxiv.org/abs/2502.16779v1) | N/A | 0 |  |
 | 2025-02-20 | **CDGS: Confidence-Aware Depth Regularization for 3D Gaussian Splatting** | [PDF](http://arxiv.org/abs/2502.14684v1) | [link](https://github.com/zqlin0521/cdgs-release) | 0 |  |
@@ -27771,7 +27771,7 @@ Updated on 2025-02-26
 
 ### Multi-modal
 
-| Publish Date | Title | PDF | Code | Star | Framework |
+| Publish Date | Title | PDF | Code | Star | Code Validity |
 |-------------|-------|-----|------|------|---------|
 | 2025-02-24 | **Towards Hierarchical Rectified Flow** | [PDF](http://arxiv.org/abs/2502.17436v1) | [link](https://github.com/riccizz/HRF) | 0 |  |
 | 2025-02-24 | **Benchmarking Retrieval-Augmented Generation in Multi-Modal Contexts** | [PDF](http://arxiv.org/abs/2502.17297v1) | N/A | 0 |  |
@@ -30797,7 +30797,7 @@ Updated on 2025-02-26
 
 ### VQA
 
-| Publish Date | Title | PDF | Code | Star | Framework |
+| Publish Date | Title | PDF | Code | Star | Code Validity |
 |-------------|-------|-----|------|------|---------|
 | 2025-02-24 | **Joint Value Estimation and Bidding in Repeated First-Price Auctions** | [PDF](http://arxiv.org/abs/2502.17292v1) | N/A | 0 |  |
 | 2025-02-24 | **A tutorial on optimal dynamic treatment regimes** | [PDF](http://arxiv.org/abs/2502.16988v1) | N/A | 0 |  |
@@ -32800,7 +32800,7 @@ Updated on 2025-02-26
 
 ### Image Caption
 
-| Publish Date | Title | PDF | Code | Star | Framework |
+| Publish Date | Title | PDF | Code | Star | Code Validity |
 |-------------|-------|-----|------|------|---------|
 | 2025-02-23 | **Fine-Grained Video Captioning through Scene Graph Consolidation** | [PDF](http://arxiv.org/abs/2502.16427v1) | N/A | 0 |  |
 | 2025-02-21 | **LongCaptioning: Unlocking the Power of Long Caption Generation in Large Multimodal Models** | [PDF](http://arxiv.org/abs/2502.15393v1) | N/A | 0 |  |
@@ -33143,7 +33143,7 @@ Updated on 2025-02-26
 
 ### Large-Language Model
 
-| Publish Date | Title | PDF | Code | Star | Framework |
+| Publish Date | Title | PDF | Code | Star | Code Validity |
 |-------------|-------|-----|------|------|---------|
 | 2025-02-21 | **Unveiling Reasoning Thresholds in Language Models: Scaling, Fine-Tuning, and Interpretability through Attention Maps** | [PDF](http://arxiv.org/abs/2502.15120v1) | N/A | 0 |  |
 | 2025-02-17 | **A Survey on Bridging EEG Signals and Generative AI: From Image and Text to Beyond** | [PDF](http://arxiv.org/abs/2502.12048v2) | N/A | 0 |  |
