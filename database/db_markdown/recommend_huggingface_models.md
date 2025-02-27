@@ -797,6 +797,7 @@ Updated on 2025-02-27
 | 2.3k |  | nickmuchi/yolos-small-finetuned-license-plate-detectionObject | UpdatedJan 10, 2023 | [Link](https://huggingface.co/nickmuchi/yolos-small-finetuned-license-plate-detection) |
 | 20.2k |  | valentinafeve/yolos-fashionpediaObject | UpdatedMar 10, 2023 | [Link](https://huggingface.co/valentinafeve/yolos-fashionpedia) |
 | 1 | Unknown | kadirnar/SORTObject | UpdatedJan 23, 2023 | [Link](https://huggingface.co/kadirnar/SORT) |
+| 1.33M |  | microsoft/table-transformer-structure-recognitionObject | UpdatedSep 6, 2023 | [Link](https://huggingface.co/microsoft/table-transformer-structure-recognition) |
 
 ## Question Answering
 
@@ -1319,6 +1320,7 @@ Updated on 2025-02-27
 | 1.54k | 19 | HKUSTAudio/Llasa-1B-MultilingualText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-1B-Multilingual) |
 | 73 | 12 | geneing/KokoroText-to-Speech | UpdatedJan 10 | [Link](https://huggingface.co/geneing/Kokoro) |
 | 27 | 10 | hexgrad/Kokoro-82M-v1 | Updatedabout 7 hours ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M-v1.1-zh) |
+| 13 | 6 | ntdgo/ttsviText-to-Speech | UpdatedApr 17, 2024 | [Link](https://huggingface.co/ntdgo/ttsvi) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 2.36M | 2.41k | coqui/XTTS-v2Text-to-Speech | UpdatedDec 11, 2023 | [Link](https://huggingface.co/coqui/XTTS-v2) |
@@ -1330,6 +1332,7 @@ Updated on 2025-02-27
 | 418 | Unknown | gpt-omni/mini-omniText-to-Speech | UpdatedSep 4, 2024 | [Link](https://huggingface.co/gpt-omni/mini-omni) |
 | 6 | Unknown | sinhprous/F5TTS-stabilized-LJSpeechText-to-Speech | UpdatedJan 7 | [Link](https://huggingface.co/sinhprous/F5TTS-stabilized-LJSpeech) |
 | 41 | Unknown | Respair/Tsukasa_SpeechText-to-Speech | Updated12 days ago | [Link](https://huggingface.co/Respair/Tsukasa_Speech) |
+| 3 | Unknown | SparkAudio/Spark-TTS-0 | Updatedabout 4 hours ago | [Link](https://huggingface.co/SparkAudio/Spark-TTS-0.5B) |
 
 ## Text-to-Video
 
