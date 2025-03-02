@@ -179,6 +179,7 @@ Updated on 2025-03-02
 | 1.31k | 15 | aismlv/wav2vec2-large-xlsr-kazakhAutomatic | UpdatedDec 20, 2023 | [Link](https://huggingface.co/aismlv/wav2vec2-large-xlsr-kazakh) |
 | 5.88k | 13 | guillaumekln/faster-whisper-smallAutomatic | UpdatedMay 12, 2023 | [Link](https://huggingface.co/guillaumekln/faster-whisper-small) |
 | 298 | 12 | Akashpb13/xlsr_kurmanji_kurdishAutomatic | UpdatedMar 25, 2023 | [Link](https://huggingface.co/Akashpb13/xlsr_kurmanji_kurdish) |
+| 3.15k | 10 | speechbrain/asr-streaming-conformer-librispeechAutomatic | UpdatedApr 15, 2024 | [Link](https://huggingface.co/speechbrain/asr-streaming-conformer-librispeech) |
 | 1.67k | 9 | dvislobokov/whisper-large-v3-turbo-russianAutomatic | Updated22 days ago | [Link](https://huggingface.co/dvislobokov/whisper-large-v3-turbo-russian) |
 | 665k | 8 | nvidia/parakeet-rnnt-0 | Updated7 days ago | [Link](https://huggingface.co/nvidia/parakeet-rnnt-0.6b) |
 | 206k | 8 | Yehor/w2v-xls-r-ukAutomatic | Updated6 days ago | [Link](https://huggingface.co/Yehor/w2v-xls-r-uk) |
@@ -294,6 +295,7 @@ Updated on 2025-03-02
 | 606k | 205 | BAAI/bge-large-enFeature | UpdatedOct 12, 2023 | [Link](https://huggingface.co/BAAI/bge-large-en) |
 | 156k | 172 | BAAI/bge-multilingual-gemma2Feature | UpdatedJul 31, 2024 | [Link](https://huggingface.co/BAAI/bge-multilingual-gemma2) |
 | 2.9M | 164 | facebook/w2v-bert-2 | UpdatedJan 25, 2024 | [Link](https://huggingface.co/facebook/w2v-bert-2.0) |
+| 179k | 108 | kyutai/mimiFeature | UpdatedSep 18, 2024 | [Link](https://huggingface.co/kyutai/mimi) |
 | 3.56k | 83 | Salesforce/SFR-Embedding-2_RFeature | Updated25 days ago | [Link](https://huggingface.co/Salesforce/SFR-Embedding-2_R) |
 | 376k | 69 | microsoft/wavlm-largeFeature | UpdatedFeb 2, 2022 | [Link](https://huggingface.co/microsoft/wavlm-large) |
 | 8.91k | 68 | rinna/japanese-hubert-baseFeature | UpdatedJul 20, 2024 | [Link](https://huggingface.co/rinna/japanese-hubert-base) |
@@ -433,6 +435,7 @@ Updated on 2025-03-02
 | 222 | 52 | google/cxr-foundationImage | Updated6 days ago | [Link](https://huggingface.co/google/cxr-foundation) |
 | 774k | 38 | AdamCodd/vit-base-nsfw-detectorImage | UpdatedDec 3, 2024 | [Link](https://huggingface.co/AdamCodd/vit-base-nsfw-detector) |
 | 117k | 23 | prithivMLmods/Deep-Fake-Detector-ModelImage | Updated25 days ago | [Link](https://huggingface.co/prithivMLmods/Deep-Fake-Detector-Model) |
+| 1.06k | 15 | dennisjooo/Birds-Classifier-EfficientNetB2Image | UpdatedMay 27, 2024 | [Link](https://huggingface.co/dennisjooo/Birds-Classifier-EfficientNetB2) |
 | 3.18k | 14 | google/efficientnet-b7Image | UpdatedFeb 17, 2023 | [Link](https://huggingface.co/google/efficientnet-b7) |
 | 191 | 11 | prithivMLmods/Deepfake-Detection-Exp-02-21Image | Updated5 days ago | [Link](https://huggingface.co/prithivMLmods/Deepfake-Detection-Exp-02-21) |
 | 300 | 11 | prithivMLmods/Deepfake-Detection-Exp-02-22Image | Updated5 days ago | [Link](https://huggingface.co/prithivMLmods/Deepfake-Detection-Exp-02-22) |
@@ -1061,6 +1064,7 @@ Updated on 2025-03-02
 | 4.45k |  | pszemraj/led-large-book-summarySummarization | UpdatedNov 28, 2023 | [Link](https://huggingface.co/pszemraj/led-large-book-summary) |
 | 23.3k |  | knkarthick/MEETING_SUMMARYSummarization | UpdatedMar 27, 2023 | [Link](https://huggingface.co/knkarthick/MEETING_SUMMARY) |
 | 147 |  | SEBIS/code_trans_t5_small_source_code_summarization_pythonSummarization | UpdatedJun 23, 2021 | [Link](https://huggingface.co/SEBIS/code_trans_t5_small_source_code_summarization_python) |
+| 4.52k |  | pszemraj/long-t5-tglobal-base-16384-book-summarySummarization | UpdatedJan 21 | [Link](https://huggingface.co/pszemraj/long-t5-tglobal-base-16384-book-summary) |
 
 ## Table Question Answering
 
@@ -1246,6 +1250,7 @@ Updated on 2025-03-02
 | 323 | 29 | smirki/UIGEN-T1 | Updated6 days ago | [Link](https://huggingface.co/smirki/UIGEN-T1.1-Qwen-14B) |
 | 513 | 25 | CohereForAI/c4ai-command-r7b-arabic-02-2025Text | Updated2 days ago | [Link](https://huggingface.co/CohereForAI/c4ai-command-r7b-arabic-02-2025) |
 | 3.12k | 25 | ibm-granite/granite-3 | Updated9 days ago | [Link](https://huggingface.co/ibm-granite/granite-3.2-8b-instruct) |
+| 568 | 25 | GSAI-ML/LLaDA-8B-BaseText | Updated3 days ago | [Link](https://huggingface.co/GSAI-ML/LLaDA-8B-Base) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
@@ -1262,6 +1267,7 @@ Updated on 2025-03-02
 | 376k |  | HuggingFaceTB/SmolLM2-1 | Updated19 days ago | [Link](https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B-Instruct) |
 | 367k |  | mistralai/Mistral-7B-v0 | UpdatedJul 24, 2024 | [Link](https://huggingface.co/mistralai/Mistral-7B-v0.1) |
 | 450k |  | deepseek-ai/DeepSeek-R1-Distill-Llama-70BText | Updated6 days ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-70B) |
+| 1.22M |  | meta-llama/Llama-2-7b-chat-hfText | UpdatedApr 17, 2024 | [Link](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf) |
 
 ## Text-to-3D
 
@@ -1380,6 +1386,7 @@ Updated on 2025-03-02
 | 280 |  | fffiloni/deep-blue-v2Text-to-Image | Updated7 days ago | [Link](https://huggingface.co/fffiloni/deep-blue-v2) |
 | 978 |  | prithivMLmods/Ton618-Only-Stickers-Flux-LoRAText-to-Image | UpdatedNov 2, 2024 | [Link](https://huggingface.co/prithivMLmods/Ton618-Only-Stickers-Flux-LoRA) |
 | 24.9k |  | dreamlike-art/dreamlike-photoreal-2 | UpdatedMar 13, 2023 | [Link](https://huggingface.co/dreamlike-art/dreamlike-photoreal-2.0) |
+| 1.15k |  | prithivMLmods/Retro-Pixel-Flux-LoRAText-to-Image | UpdatedNov 10, 2024 | [Link](https://huggingface.co/prithivMLmods/Retro-Pixel-Flux-LoRA) |
 
 ## Text-to-Speech
 
@@ -1415,6 +1422,7 @@ Updated on 2025-03-02
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 1.22k | 3 | CONCREE/Adia_TTSText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/CONCREE/Adia_TTS) |
+| 20 | 3 | mlx-community/Kokoro-82M-bf16Text-to-Speech | Updated2 days ago | [Link](https://huggingface.co/mlx-community/Kokoro-82M-bf16) |
 | 2.36M | 2.41k | coqui/XTTS-v2Text-to-Speech | UpdatedDec 11, 2023 | [Link](https://huggingface.co/coqui/XTTS-v2) |
 | 302 | Unknown | lj1995/GPT-SoVITSText-to-Speech | Updated14 days ago | [Link](https://huggingface.co/lj1995/GPT-SoVITS) |
 | 436 | Unknown | myshell-ai/OpenVoiceText-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoice) |
@@ -1898,6 +1906,7 @@ Updated on 2025-03-02
 | 35.6k | 44 | vinid/plipZero-Shot | UpdatedMar 31, 2023 | [Link](https://huggingface.co/vinid/plip) |
 | 1.18M | 32 | laion/CLIP-ViT-B-16-laion2B-s34B-b88KZero-Shot | UpdatedApr 19, 2023 | [Link](https://huggingface.co/laion/CLIP-ViT-B-16-laion2B-s34B-b88K) |
 | 2.17k | 27 | OFA-Sys/chinese-clip-vit-huge-patch14Zero-Shot | UpdatedDec 9, 2022 | [Link](https://huggingface.co/OFA-Sys/chinese-clip-vit-huge-patch14) |
+| 112k | 25 | kakaobrain/align-baseZero-Shot | UpdatedMar 8, 2023 | [Link](https://huggingface.co/kakaobrain/align-base) |
 | 3.26k | 22 | flax-community/clip-rsicd-v2Zero-Shot | UpdatedApr 24, 2022 | [Link](https://huggingface.co/flax-community/clip-rsicd-v2) |
 | 232k | 19 | laion/CLIP-convnext_large_d_320 | UpdatedJan 22 | [Link](https://huggingface.co/laion/CLIP-convnext_large_d_320.laion2B-s29B-b131K-ft-soup) |
 | 1.39k | 18 | google/siglip2-base-patch16-224Zero-Shot | Updated4 days ago | [Link](https://huggingface.co/google/siglip2-base-patch16-224) |
