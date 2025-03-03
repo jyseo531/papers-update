@@ -172,6 +172,7 @@ Updated on 2025-03-03
 | 1 | 57 | UsefulSensors/moonshineAutomatic | Updated26 days ago | [Link](https://huggingface.co/UsefulSensors/moonshine) |
 | 9.63k | 56 | kotoba-tech/kotoba-whisper-v2 | UpdatedOct 23, 2024 | [Link](https://huggingface.co/kotoba-tech/kotoba-whisper-v2.0) |
 | 3.19k | 51 | onnx-community/whisper-large-v3-turboAutomatic | UpdatedOct 8, 2024 | [Link](https://huggingface.co/onnx-community/whisper-large-v3-turbo) |
+| 7.28k | 49 | antony66/whisper-large-v3-russianAutomatic | UpdatedJul 2, 2024 | [Link](https://huggingface.co/antony66/whisper-large-v3-russian) |
 | 14.1k | 43 | Systran/faster-distil-whisper-large-v3Automatic | UpdatedMar 25, 2024 | [Link](https://huggingface.co/Systran/faster-distil-whisper-large-v3) |
 | 1.54k | 43 | BELLE-2/Belle-whisper-large-v3-turbo-zhAutomatic | UpdatedDec 16, 2024 | [Link](https://huggingface.co/BELLE-2/Belle-whisper-large-v3-turbo-zh) |
 | 214 | 42 | unity/sentis-whisper-tinyAutomatic | UpdatedJan 6 | [Link](https://huggingface.co/unity/sentis-whisper-tiny) |
