@@ -1345,6 +1345,7 @@ Updated on 2025-03-06
 | 374k |  | cross-encoder/ms-marco-MiniLM-L-2-v2Text | UpdatedDec 12, 2024 | [Link](https://huggingface.co/cross-encoder/ms-marco-MiniLM-L-2-v2) |
 | 89.4k |  | microsoft/Multilingual-MiniLM-L12-H384Text | UpdatedAug 10, 2022 | [Link](https://huggingface.co/microsoft/Multilingual-MiniLM-L12-H384) |
 | 37.2k |  | openai-community/roberta-base-openai-detectorText | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/openai-community/roberta-base-openai-detector) |
+| 43.1k |  | KoalaAI/Text-ModerationText | UpdatedJan 31 | [Link](https://huggingface.co/KoalaAI/Text-Moderation) |
 
 ## Text Generation
 
@@ -1624,6 +1625,8 @@ Updated on 2025-03-06
 | 6 | Unknown | city96/Wan2 | Updatedabout 5 hours ago | [Link](https://huggingface.co/city96/Wan2.1-T2V-14B-gguf) |
 | 2 | Unknown | calcuis/wan-ggufText-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/calcuis/wan-gguf) |
 | 3 | Unknown | pandaphd/generative_photographyText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/pandaphd/generative_photography) |
+| 341k |  | Lightricks/LTX-VideoText-to-Video | Updated13 minutes ago | [Link](https://huggingface.co/Lightricks/LTX-Video) |
+| 166 | Unknown | rain1011/pyramid-flow-minifluxText-to-Video | UpdatedNov 13, 2024 | [Link](https://huggingface.co/rain1011/pyramid-flow-miniflux) |
 
 ## Text2Text Generation
 
