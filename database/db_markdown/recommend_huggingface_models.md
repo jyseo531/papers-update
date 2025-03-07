@@ -585,6 +585,7 @@ Updated on 2025-03-07
 | 2.63k | 3 | ikim-uk-essen/BiomedCLIP_ViT_patch16_224Image | UpdatedApr 26, 2024 | [Link](https://huggingface.co/ikim-uk-essen/BiomedCLIP_ViT_patch16_224) |
 | 65 | 2 | facebook/regnet-y-320-seerImage | UpdatedSep 28, 2023 | [Link](https://huggingface.co/facebook/regnet-y-320-seer) |
 | 8 | 2 | bioptimus/H0-miniImage | Updated1 day ago | [Link](https://huggingface.co/bioptimus/H0-mini) |
+| 50.8k | 1 | StanfordAIMI/dinov2-base-xray-224Image | UpdatedFeb 11, 2024 | [Link](https://huggingface.co/StanfordAIMI/dinov2-base-xray-224) |
 | 2 | Unknown | TongkunGuan/TokenOCRImage | Updated1 day ago | [Link](https://huggingface.co/TongkunGuan/TokenOCR) |
 
 ## Image Segmentation
@@ -1157,6 +1158,7 @@ Updated on 2025-03-07
 | 7.07k |  | aspire/acge_text_embeddingSentence | UpdatedOct 23, 2024 | [Link](https://huggingface.co/aspire/acge_text_embedding) |
 | 83.5k |  | ibm-granite/granite-embedding-30m-englishSentence | Updated1 day ago | [Link](https://huggingface.co/ibm-granite/granite-embedding-30m-english) |
 | 471k |  | intfloat/multilingual-e5-baseSentence | Updated18 days ago | [Link](https://huggingface.co/intfloat/multilingual-e5-base) |
+| 4 | Unknown | ruc-ai4math/Lean_State_Search_RandomSentence | Updated21 minutes ago | [Link](https://huggingface.co/ruc-ai4math/Lean_State_Search_Random) |
 
 ## Summarization
 
