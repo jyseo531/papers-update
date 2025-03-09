@@ -255,6 +255,7 @@ Updated on 2025-03-09
 | 101 | 54 | apple/coreml-depth-anything-v2-smallDepth | UpdatedJun 24, 2024 | [Link](https://huggingface.co/apple/coreml-depth-anything-v2-small) |
 | 83.9k | 48 | LiheYoung/depth-anything-large-hfDepth | UpdatedJan 25, 2024 | [Link](https://huggingface.co/LiheYoung/depth-anything-large-hf) |
 | 28 | 35 | apple/coreml-depth-anything-smallDepth | UpdatedJun 13, 2024 | [Link](https://huggingface.co/apple/coreml-depth-anything-small) |
+| 294k | 29 | LiheYoung/depth-anything-small-hfDepth | UpdatedJan 25, 2024 | [Link](https://huggingface.co/LiheYoung/depth-anything-small-hf) |
 | 9.44k | 25 | apple/DepthPro-hfDepth | Updated17 days ago | [Link](https://huggingface.co/apple/DepthPro-hf) |
 | 72.4k | 17 | depth-anything/Depth-Anything-V2-Large-hfDepth | UpdatedJul 5, 2024 | [Link](https://huggingface.co/depth-anything/Depth-Anything-V2-Large-hf) |
 | 250k | 14 | depth-anything/Depth-Anything-V2-Small-hfDepth | UpdatedJul 5, 2024 | [Link](https://huggingface.co/depth-anything/Depth-Anything-V2-Small-hf) |
@@ -385,6 +386,7 @@ Updated on 2025-03-09
 | 221k |  | jinaai/jina-embeddings-v2-base-enFeature | UpdatedJan 6 | [Link](https://huggingface.co/jinaai/jina-embeddings-v2-base-en) |
 | 1.12M |  | T-Systems-onsite/cross-en-de-roberta-sentence-transformerFeature | UpdatedSep 17, 2024 | [Link](https://huggingface.co/T-Systems-onsite/cross-en-de-roberta-sentence-transformer) |
 | 2.66k |  | T-Systems-onsite/german-roberta-sentence-transformer-v2Feature | UpdatedApr 27, 2023 | [Link](https://huggingface.co/T-Systems-onsite/german-roberta-sentence-transformer-v2) |
+| 1.1M |  | dmis-lab/biobert-v1 | UpdatedMay 19, 2021 | [Link](https://huggingface.co/dmis-lab/biobert-v1.1) |
 
 ## Fill-Mask
 
@@ -496,6 +498,7 @@ Updated on 2025-03-09
 | 774k | 38 | AdamCodd/vit-base-nsfw-detectorImage | UpdatedDec 3, 2024 | [Link](https://huggingface.co/AdamCodd/vit-base-nsfw-detector) |
 | 421 | 31 | google/derm-foundationImage | Updated16 days ago | [Link](https://huggingface.co/google/derm-foundation) |
 | 117k | 23 | prithivMLmods/Deep-Fake-Detector-ModelImage | Updated25 days ago | [Link](https://huggingface.co/prithivMLmods/Deep-Fake-Detector-Model) |
+| 172 | 19 | andupets/real-estate-image-classificationImage | UpdatedSep 28, 2022 | [Link](https://huggingface.co/andupets/real-estate-image-classification) |
 | 1.06k | 15 | dennisjooo/Birds-Classifier-EfficientNetB2Image | UpdatedMay 27, 2024 | [Link](https://huggingface.co/dennisjooo/Birds-Classifier-EfficientNetB2) |
 | 3.18k | 14 | google/efficientnet-b7Image | UpdatedFeb 17, 2023 | [Link](https://huggingface.co/google/efficientnet-b7) |
 | 393k | 13 | imfarzanansari/skintelligent-acneImage | UpdatedDec 24, 2023 | [Link](https://huggingface.co/imfarzanansari/skintelligent-acne) |
@@ -662,6 +665,7 @@ Updated on 2025-03-09
 | 820k | 421 | liuhaotian/llava-v1 | UpdatedMay 8, 2024 | [Link](https://huggingface.co/liuhaotian/llava-v1.5-7b) |
 | 112k | 395 | HuggingFaceTB/SmolVLM-InstructImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-Instruct) |
 | 17.9k | 287 | deepseek-ai/deepseek-vl2Image-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2) |
+| 353k | 236 | microsoft/Florence-2-baseImage-Text-to-Text | UpdatedNov 4, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-base) |
 | 38.8k | 163 | stepfun-ai/GOT-OCR-2 | Updated25 days ago | [Link](https://huggingface.co/stepfun-ai/GOT-OCR-2.0-hf) |
 | 39.1k | 159 | HuggingFaceTB/SmolVLM-256M-InstructImage-Text-to-Text | Updated22 days ago | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-256M-Instruct) |
 | 3.21k | 154 | bytedance-research/UI-TARS-7B-SFTImage-Text-to-Text | UpdatedJan 25 | [Link](https://huggingface.co/bytedance-research/UI-TARS-7B-SFT) |
@@ -670,6 +674,7 @@ Updated on 2025-03-09
 | 38.6k | 144 | deepseek-ai/deepseek-vl2-smallImage-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2-small) |
 | 404 | 136 | allenai/olmOCR-7B-0225-previewImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview) |
 | 1.28k | 115 | AIDC-AI/Ovis2-34BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-34B) |
+| 1.15k | 98 | ContactDoctor/Bio-Medical-MultiModal-Llama-3-8B-V1Image-Text-to-Text | UpdatedOct 17, 2024 | [Link](https://huggingface.co/ContactDoctor/Bio-Medical-MultiModal-Llama-3-8B-V1) |
 | 10.9k | 80 | ibm-granite/granite-vision-3 | Updatedabout 7 hours ago | [Link](https://huggingface.co/ibm-granite/granite-vision-3.1-2b-preview) |
 | 1.06k | 71 | AIDC-AI/Ovis2-16BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-16B) |
 | 89 | 69 | CohereForAI/aya-vision-8bImage-Text-to-Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/CohereForAI/aya-vision-8b) |
@@ -1013,6 +1018,7 @@ Updated on 2025-03-09
 | 288 | 11 | wissamantoun/araelectra-base-artydiqaQuestion | UpdatedMar 20, 2023 | [Link](https://huggingface.co/wissamantoun/araelectra-base-artydiqa) |
 | 34.7k | 9 | SmallDoge/Doge-160M-InstructQuestion | Updated4 days ago | [Link](https://huggingface.co/SmallDoge/Doge-160M-Instruct) |
 | 1.27k | 8 | OzgurEnt/OZGURLUK-GPT-LinuxGeneralQuestion | UpdatedDec 16, 2024 | [Link](https://huggingface.co/OzgurEnt/OZGURLUK-GPT-LinuxGeneral) |
+| 16.5k | 8 | Rakib/roberta-base-on-cuadQuestion | UpdatedJan 18, 2023 | [Link](https://huggingface.co/Rakib/roberta-base-on-cuad) |
 | 1.56k | 7 | PlanTL-GOB-ES/roberta-large-bne-sqacQuestion | UpdatedNov 30, 2022 | [Link](https://huggingface.co/PlanTL-GOB-ES/roberta-large-bne-sqac) |
 | 27 | 7 | SajjadAyoubi/xlm-roberta-large-fa-qaQuestion | UpdatedApr 21, 2021 | [Link](https://huggingface.co/SajjadAyoubi/xlm-roberta-large-fa-qa) |
 | 1.79k | 5 | internlm/OREAL-32B-SFTQuestion | Updated1 day ago | [Link](https://huggingface.co/internlm/OREAL-32B-SFT) |
@@ -1067,6 +1073,7 @@ Updated on 2025-03-09
 | 17 | 2 | hishamcse/street-fighter-iii-ppo-diambraReinforcement | UpdatedAug 12, 2024 | [Link](https://huggingface.co/hishamcse/street-fighter-iii-ppo-diambra) |
 | 4 | 2 | dunnolab/VintixReinforcement | Updated1 day ago | [Link](https://huggingface.co/dunnolab/Vintix) |
 | 7 | 2 | PampX/ppo-LunarLander-v2Reinforcement | UpdatedDec 3, 2024 | [Link](https://huggingface.co/PampX/ppo-LunarLander-v2) |
+| 24 | 2 | xwm/SciWorld-MPOReinforcement | Updatedabout 10 hours ago | [Link](https://huggingface.co/xwm/SciWorld-MPO) |
 | 4 | 1 | ThomasSimonini/ppo-AntBulletEnv-v0Reinforcement | UpdatedApr 7, 2022 | [Link](https://huggingface.co/ThomasSimonini/ppo-AntBulletEnv-v0) |
 | 549 | 1 | sb3/sac-Humanoid-v3Reinforcement | UpdatedOct 11, 2022 | [Link](https://huggingface.co/sb3/sac-Humanoid-v3) |
 | 783 | 1 | sb3/dqn-SpaceInvadersNoFrameskip-v4Reinforcement | UpdatedOct 11, 2022 | [Link](https://huggingface.co/sb3/dqn-SpaceInvadersNoFrameskip-v4) |
@@ -1601,6 +1608,7 @@ Updated on 2025-03-09
 | 1.23k |  | ginipick/flux-lora-eric-catText-to-Image | UpdatedDec 2, 2024 | [Link](https://huggingface.co/ginipick/flux-lora-eric-cat) |
 | 29.8k |  | nerijs/pixel-art-xlText-to-Image | UpdatedNov 9, 2023 | [Link](https://huggingface.co/nerijs/pixel-art-xl) |
 | 94 | Unknown | lodestones/ChromaText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/lodestones/Chroma) |
+| 128k |  | ByteDance/SDXL-LightningText-to-Image | UpdatedApr 3, 2024 | [Link](https://huggingface.co/ByteDance/SDXL-Lightning) |
 
 ## Text-to-Speech
 
@@ -1681,6 +1689,7 @@ Updated on 2025-03-09
 | 3.74k | 17 | calcuis/hyvidText-to-Video | Updated24 days ago | [Link](https://huggingface.co/calcuis/hyvid) |
 | 53 | 11 | lucataco/hunyuan-musubi-lora-heygen-6Text-to-Video | UpdatedJan 13 | [Link](https://huggingface.co/lucataco/hunyuan-musubi-lora-heygen-6) |
 | 638 | 8 | calcuis/mochiText-to-Video | Updated22 days ago | [Link](https://huggingface.co/calcuis/mochi) |
+| 123k | 8 | guoyww/animatediff-motion-lora-zoom-inText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-zoom-in) |
 | 863 | 6 | guoyww/animatediff-motion-adapter-v1-5-3Text-to-Video | UpdatedJul 8, 2024 | [Link](https://huggingface.co/guoyww/animatediff-motion-adapter-v1-5-3) |
 | 69 | 2 | obvious-research/onlyflowText-to-Video | Updated5 days ago | [Link](https://huggingface.co/obvious-research/onlyflow) |
 | 42 | 2 | jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIEText-to-Video | Updated7 days ago | [Link](https://huggingface.co/jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIE) |
@@ -1799,6 +1808,7 @@ Updated on 2025-03-09
 
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
+| 13.9k | 114 | urchade/gliner_multi-v2 | UpdatedApr 10, 2024 | [Link](https://huggingface.co/urchade/gliner_multi-v2.1) |
 | 68.7k | 98 | urchade/gliner_multi_pii-v1Token | UpdatedApr 20, 2024 | [Link](https://huggingface.co/urchade/gliner_multi_pii-v1) |
 | 25.4k | 74 | numind/NuNER_ZeroToken | Updated22 days ago | [Link](https://huggingface.co/numind/NuNER_Zero) |
 | 172k | 32 | elastic/distilbert-base-uncased-finetuned-conll03-englishToken | UpdatedAug 28, 2023 | [Link](https://huggingface.co/elastic/distilbert-base-uncased-finetuned-conll03-english) |
