@@ -1447,6 +1447,7 @@ Updated on 2025-03-09
 | 3.12k | 25 | ibm-granite/granite-3 | Updated9 days ago | [Link](https://huggingface.co/ibm-granite/granite-3.2-8b-instruct) |
 | 568 | 25 | GSAI-ML/LLaDA-8B-BaseText | Updated3 days ago | [Link](https://huggingface.co/GSAI-ML/LLaDA-8B-Base) |
 | 239 | 25 | OpenPipe/Deductive-Reasoning-Qwen-32BText | Updated3 days ago | [Link](https://huggingface.co/OpenPipe/Deductive-Reasoning-Qwen-32B) |
+| 443 | 25 | dnotitia/DNA-R1Text | Updated2 days ago | [Link](https://huggingface.co/dnotitia/DNA-R1) |
 | 8.8k | 24 | unsloth/QwQ-32B-GGUFText | Updatedabout 1 hour ago | [Link](https://huggingface.co/unsloth/QwQ-32B-GGUF) |
 | 10.3k | 23 | unsloth/Phi-4-mini-instruct-GGUFText | Updated4 days ago | [Link](https://huggingface.co/unsloth/Phi-4-mini-instruct-GGUF) |
 | 26.8k | 23 | lmstudio-community/QwQ-32B-GGUFText | Updated1 day ago | [Link](https://huggingface.co/lmstudio-community/QwQ-32B-GGUF) |
