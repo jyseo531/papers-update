@@ -503,6 +503,7 @@ Updated on 2025-03-09
 | 3.18k | 14 | google/efficientnet-b7Image | UpdatedFeb 17, 2023 | [Link](https://huggingface.co/google/efficientnet-b7) |
 | 393k | 13 | imfarzanansari/skintelligent-acneImage | UpdatedDec 24, 2023 | [Link](https://huggingface.co/imfarzanansari/skintelligent-acne) |
 | 1.81k | 13 | deepmind/vision-perceiver-learnedImage | UpdatedAug 26, 2024 | [Link](https://huggingface.co/deepmind/vision-perceiver-learned) |
+| 12.5k | 12 | google/vit-large-patch16-384Image | UpdatedJan 28, 2022 | [Link](https://huggingface.co/google/vit-large-patch16-384) |
 | 191 | 11 | prithivMLmods/Deepfake-Detection-Exp-02-21Image | Updated5 days ago | [Link](https://huggingface.co/prithivMLmods/Deepfake-Detection-Exp-02-21) |
 | 300 | 11 | prithivMLmods/Deepfake-Detection-Exp-02-22Image | Updated5 days ago | [Link](https://huggingface.co/prithivMLmods/Deepfake-Detection-Exp-02-22) |
 | 81 | 11 | prithivMLmods/Deep-Fake-Detector-Model-ONNXImage | Updated26 days ago | [Link](https://huggingface.co/prithivMLmods/Deep-Fake-Detector-Model-ONNX) |
@@ -1382,6 +1383,7 @@ Updated on 2025-03-09
 | 23 | 5 | Qwen/Qwen2-Math-RM-72BText | UpdatedSep 18, 2024 | [Link](https://huggingface.co/Qwen/Qwen2-Math-RM-72B) |
 | 33 | 4 | WebOrganizer/TopicClassifierText | Updated5 days ago | [Link](https://huggingface.co/WebOrganizer/TopicClassifier) |
 | 13 | 4 | lemon42-ai/ThreatDetect-C-CppText | Updatedabout 13 hours ago | [Link](https://huggingface.co/lemon42-ai/ThreatDetect-C-Cpp) |
+| 134 | 4 | WebOrganizer/FormatClassifier-NoURLText | Updated18 days ago | [Link](https://huggingface.co/WebOrganizer/FormatClassifier-NoURL) |
 | 538 | 3 | scb10x/typhoon2-safety-previewText | UpdatedDec 20, 2024 | [Link](https://huggingface.co/scb10x/typhoon2-safety-preview) |
 | 219 | 3 | borisn70/bert-43-multilabel-emotion-detectionText | UpdatedApr 15, 2024 | [Link](https://huggingface.co/borisn70/bert-43-multilabel-emotion-detection) |
 | 15 | 3 | hkust-nlp/preselect-fasttext-classifierText | Updatedabout 10 hours ago | [Link](https://huggingface.co/hkust-nlp/preselect-fasttext-classifier) |
@@ -1444,6 +1446,7 @@ Updated on 2025-03-09
 | 513 | 25 | CohereForAI/c4ai-command-r7b-arabic-02-2025Text | Updated2 days ago | [Link](https://huggingface.co/CohereForAI/c4ai-command-r7b-arabic-02-2025) |
 | 3.12k | 25 | ibm-granite/granite-3 | Updated9 days ago | [Link](https://huggingface.co/ibm-granite/granite-3.2-8b-instruct) |
 | 568 | 25 | GSAI-ML/LLaDA-8B-BaseText | Updated3 days ago | [Link](https://huggingface.co/GSAI-ML/LLaDA-8B-Base) |
+| 239 | 25 | OpenPipe/Deductive-Reasoning-Qwen-32BText | Updated3 days ago | [Link](https://huggingface.co/OpenPipe/Deductive-Reasoning-Qwen-32B) |
 | 8.8k | 24 | unsloth/QwQ-32B-GGUFText | Updatedabout 1 hour ago | [Link](https://huggingface.co/unsloth/QwQ-32B-GGUF) |
 | 10.3k | 23 | unsloth/Phi-4-mini-instruct-GGUFText | Updated4 days ago | [Link](https://huggingface.co/unsloth/Phi-4-mini-instruct-GGUF) |
 | 26.8k | 23 | lmstudio-community/QwQ-32B-GGUFText | Updated1 day ago | [Link](https://huggingface.co/lmstudio-community/QwQ-32B-GGUF) |
