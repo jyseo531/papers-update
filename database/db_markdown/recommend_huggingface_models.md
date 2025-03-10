@@ -168,6 +168,7 @@ Updated on 2025-03-10
 | 23 | Unknown | Politrees/RVC_resourcesAudio-to-Audio | Updated23 days ago | [Link](https://huggingface.co/Politrees/RVC_resources) |
 | 2 | Unknown | ASLP-lab/LLaSE-G1Audio-to-Audio | Updated1 day ago | [Link](https://huggingface.co/ASLP-lab/LLaSE-G1) |
 | 16 | Unknown | Blane187/all_public_uvr_modelsAudio-to-Audio | UpdatedAug 5, 2024 | [Link](https://huggingface.co/Blane187/all_public_uvr_models) |
+| 38 | Unknown | Plachta/Seed-VCAudio-to-Audio | UpdatedNov 26, 2024 | [Link](https://huggingface.co/Plachta/Seed-VC) |
 
 ## Automatic Speech Recognition
 
@@ -389,6 +390,7 @@ Updated on 2025-03-10
 | 1.12M |  | T-Systems-onsite/cross-en-de-roberta-sentence-transformerFeature | UpdatedSep 17, 2024 | [Link](https://huggingface.co/T-Systems-onsite/cross-en-de-roberta-sentence-transformer) |
 | 2.66k |  | T-Systems-onsite/german-roberta-sentence-transformer-v2Feature | UpdatedApr 27, 2023 | [Link](https://huggingface.co/T-Systems-onsite/german-roberta-sentence-transformer-v2) |
 | 1.1M |  | dmis-lab/biobert-v1 | UpdatedMay 19, 2021 | [Link](https://huggingface.co/dmis-lab/biobert-v1.1) |
+| 2 | Unknown | retrieva-jp/amber-largeFeature | Updatedabout 16 hours ago | [Link](https://huggingface.co/retrieva-jp/amber-large) |
 
 ## Fill-Mask
 
@@ -498,6 +500,7 @@ Updated on 2025-03-10
 | 674 | 88 | fancyfeast/joytagImage | UpdatedMar 9, 2024 | [Link](https://huggingface.co/fancyfeast/joytag) |
 | 222 | 52 | google/cxr-foundationImage | Updated6 days ago | [Link](https://huggingface.co/google/cxr-foundation) |
 | 774k | 38 | AdamCodd/vit-base-nsfw-detectorImage | UpdatedDec 3, 2024 | [Link](https://huggingface.co/AdamCodd/vit-base-nsfw-detector) |
+| 191 | 34 | google/path-foundationImage | Updated17 days ago | [Link](https://huggingface.co/google/path-foundation) |
 | 421 | 31 | google/derm-foundationImage | Updated16 days ago | [Link](https://huggingface.co/google/derm-foundation) |
 | 117k | 23 | prithivMLmods/Deep-Fake-Detector-ModelImage | Updated25 days ago | [Link](https://huggingface.co/prithivMLmods/Deep-Fake-Detector-Model) |
 | 172 | 19 | andupets/real-estate-image-classificationImage | UpdatedSep 28, 2022 | [Link](https://huggingface.co/andupets/real-estate-image-classification) |
@@ -688,6 +691,7 @@ Updated on 2025-03-10
 | 1.38k | 54 | ByteDance/Sa2VA-8BImage-Text-to-Text | UpdatedJan 14 | [Link](https://huggingface.co/ByteDance/Sa2VA-8B) |
 | 1.27k | 51 | AIDC-AI/Ovis2-8BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-8B) |
 | 848 | 47 | AIDC-AI/Ovis2-2BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-2B) |
+| 79.7k | 47 | Qwen/Qwen2-VL-7BImage-Text-to-Text | UpdatedJan 12 | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B) |
 | 8 | 46 | CohereForAI/aya-vision-32bImage-Text-to-Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/CohereForAI/aya-vision-32b) |
 | 22.7k | 46 | OpenGVLab/InternVL2_5-8B-MPOImage-Text-to-Text | Updated30 days ago | [Link](https://huggingface.co/OpenGVLab/InternVL2_5-8B-MPO) |
 | 2.74k | 45 | OpenGVLab/InternVL2_5-78B-MPOImage-Text-to-Text | UpdatedFeb 5 | [Link](https://huggingface.co/OpenGVLab/InternVL2_5-78B-MPO) |
@@ -1006,6 +1010,7 @@ Updated on 2025-03-10
 | 1.33M |  | microsoft/table-transformer-structure-recognitionObject | UpdatedSep 6, 2023 | [Link](https://huggingface.co/microsoft/table-transformer-structure-recognition) |
 | 88 | Unknown | omoured/YOLOv10-Document-Layout-AnalysisObject | UpdatedAug 5, 2024 | [Link](https://huggingface.co/omoured/YOLOv10-Document-Layout-Analysis) |
 | 4 | Unknown | deepghs/manga109_yoloObject | Updated27 days ago | [Link](https://huggingface.co/deepghs/manga109_yolo) |
+| 4.31k |  | yainage90/fashion-object-detectionObject | UpdatedDec 2, 2024 | [Link](https://huggingface.co/yainage90/fashion-object-detection) |
 
 ## Question Answering
 
@@ -1630,6 +1635,7 @@ Updated on 2025-03-10
 |:----------|:------|:-----------|:------------|:------|
 | 38.8k | 991 | Zyphra/Zonos-v0 | Updated10 days ago | [Link](https://huggingface.co/Zyphra/Zonos-v0.1-hybrid) |
 | 1.09M | 916 | SWivid/F5-TTSText-to-Speech | UpdatedNov 8, 2024 | [Link](https://huggingface.co/SWivid/F5-TTS) |
+| 1.16k | 785 | metavoiceio/metavoice-1B-v0 | UpdatedApr 3, 2024 | [Link](https://huggingface.co/metavoiceio/metavoice-1B-v0.1) |
 | 155k | 733 | microsoft/speecht5_ttsText-to-Speech | UpdatedNov 8, 2023 | [Link](https://huggingface.co/microsoft/speecht5_tts) |
 | 11.8k | 480 | fishaudio/fish-speech-1 | UpdatedDec 3, 2024 | [Link](https://huggingface.co/fishaudio/fish-speech-1.5) |
 | 8.56k | 455 | HKUSTAudio/Llasa-3BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-3B) |

@@ -2,33 +2,33 @@
 ### Semantic Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-02-21**|**VaViM and VaVAM: Autonomous Driving through Video Generative Modeling**|Florent Bartoccioni et.al.|[2502.15672v1](http://arxiv.org/abs/2502.15672v1)|**2025-02-21**|[link](https://github.com/valeoai/VideoActionModel)|
-|**2025-02-21**|**Do Multilingual LLMs Think In English?**|Lisa Schut et.al.|[2502.15603v1](http://arxiv.org/abs/2502.15603v1)|**2025-02-21**|null|
-|**2025-02-21**|**Interpreting and Steering LLMs with Mutual Information-based Explanations on Sparse Autoencoders**|Xuansheng Wu et.al.|[2502.15576v1](http://arxiv.org/abs/2502.15576v1)|**2025-02-21**|null|
-|**2025-02-21**|**DReSD: Dense Retrieval for Speculative Decoding**|Milan Gritta et.al.|[2502.15572v1](http://arxiv.org/abs/2502.15572v1)|**2025-02-21**|null|
-|**2025-02-21**|**Estimating Vehicle Speed on Roadways Using RNNs and Transformers: A Video-based Approach**|Sai Krishna Reddy Mareddy et.al.|[2502.15545v1](http://arxiv.org/abs/2502.15545v1)|**2025-02-21**|null|
-|**2025-02-21**|**Depth-aware Fusion Method based on Image and 4D Radar Spectrum for 3D Object Detection**|Yue Sun et.al.|[2502.15516v1](http://arxiv.org/abs/2502.15516v1)|**2025-02-21**|null|
-|**2025-02-21**|**Confidence-Based Annotation Of Brain Tumours In Ultrasound**|Alistair Weld et.al.|[2502.15484v1](http://arxiv.org/abs/2502.15484v1)|**2025-02-21**|null|
-|**2025-02-21**|**FaultGPT: Industrial Fault Diagnosis Question Answering System by Vision Language Models**|Jiao Chen et.al.|[2502.15481v1](http://arxiv.org/abs/2502.15481v1)|**2025-02-21**|null|
-|**2025-02-21**|**Aligning Task- and Reconstruction-Oriented Communications for Edge Intelligence**|Yufeng Diao et.al.|[2502.15472v1](http://arxiv.org/abs/2502.15472v1)|**2025-02-21**|null|
-|**2025-02-21**|**Mitigating Data Scarcity in Time Series Analysis: A Foundation Model with Series-Symbol Data Generation**|Wenxuan Wang et.al.|[2502.15466v1](http://arxiv.org/abs/2502.15466v1)|**2025-02-21**|null|
-|**2025-02-21**|**LEAP: Enhancing Vision-Based Occupancy Networks with Lightweight Spatio-Temporal Correlation**|Fengcheng Yu et.al.|[2502.15438v1](http://arxiv.org/abs/2502.15438v1)|**2025-02-21**|null|
-|**2025-02-21**|**Adversarial Prompt Evaluation: Systematic Benchmarking of Guardrails Against Prompt Input Attacks on LLMs**|Giulio Zizzo et.al.|[2502.15427v1](http://arxiv.org/abs/2502.15427v1)|**2025-02-21**|null|
-|**2025-02-21**|**Anatomy-Informed Deep Learning and Radiomics for Automated Neurofibroma Segmentation in Whole-Body MRI**|Georgii Kolokolnikov et.al.|[2502.15424v1](http://arxiv.org/abs/2502.15424v1)|**2025-02-21**|null|
-|**2025-02-21**|**Weakly Supervised Video Scene Graph Generation via Natural Language Supervision**|Kibum Kim et.al.|[2502.15370v1](http://arxiv.org/abs/2502.15370v1)|**2025-02-21**|null|
-|**2025-02-21**|**Constructing a Norm for Children's Scientific Drawing: Distribution Features Based on Semantic Similarity of Large Language Models**|Yi Zhang et.al.|[2502.15348v1](http://arxiv.org/abs/2502.15348v1)|**2025-02-21**|null|
-|**2025-02-21**|**Computation Tree Logic Guided Program Repair**|Yu Liu et.al.|[2502.15344v1](http://arxiv.org/abs/2502.15344v1)|**2025-02-21**|null|
-|**2025-02-21**|**Tokenization is Sensitive to Language Variation**|Anna Wegmann et.al.|[2502.15343v1](http://arxiv.org/abs/2502.15343v1)|**2025-02-21**|null|
-|**2025-02-21**|**PFSD: A Multi-Modal Pedestrian-Focus Scene Dataset for Rich Tasks in Semi-Structured Environments**|Yueting Liu et.al.|[2502.15342v2](http://arxiv.org/abs/2502.15342v2)|**2025-02-24**|null|
-|**2025-02-21**|**Perimeter length of the convex hull of Brownian motion in the hyperbolic plane**|Chinmoy Bhattacharjee et.al.|[2502.15340v1](http://arxiv.org/abs/2502.15340v1)|**2025-02-21**|null|
-|**2025-02-21**|**Tight Clusters Make Specialized Experts**|Stefan K. Nielsen et.al.|[2502.15315v1](http://arxiv.org/abs/2502.15315v1)|**2025-02-21**|null|
-|**2025-02-21**|**DynamicGSG: Dynamic 3D Gaussian Scene Graphs for Environment Adaptation**|Luzhou Ge et.al.|[2502.15309v2](http://arxiv.org/abs/2502.15309v2)|**2025-02-24**|[link](https://github.com/geluzhou/dynamic-gsg)|
-|**2025-02-21**|**Multimodal Graph-Based Variational Mixture of Experts Network for Zero-Shot Multimodal Information Extraction**|Baohang Zhou et.al.|[2502.15290v1](http://arxiv.org/abs/2502.15290v1)|**2025-02-21**|null|
-|**2025-02-21**|**Lung-DDPM: Semantic Layout-guided Diffusion Models for Thoracic CT Image Synthesis**|Yifan Jiang et.al.|[2502.15204v1](http://arxiv.org/abs/2502.15204v1)|**2025-02-21**|null|
-|**2025-02-21**|**GNN-Coder: Boosting Semantic Code Retrieval with Combined GNNs and Transformer**|Yufan Ye et.al.|[2502.15202v1](http://arxiv.org/abs/2502.15202v1)|**2025-02-21**|null|
-|**2025-02-21**|**UrbanSAM: Learning Invariance-Inspired Adapters for Segment Anything Models in Urban Construction**|Chenyu Li et.al.|[2502.15199v1](http://arxiv.org/abs/2502.15199v1)|**2025-02-21**|null|
-|**2025-02-21**|**Image Translation-Based Unsupervised Cross-Modality Domain Adaptation for Medical Image Segmentation**|Tao Yang et.al.|[2502.15193v2](http://arxiv.org/abs/2502.15193v2)|**2025-02-24**|null|
-|**2025-02-21**|**Hierarchical Context Transformer for Multi-level Semantic Scene Understanding**|Luoying Hao et.al.|[2502.15184v1](http://arxiv.org/abs/2502.15184v1)|**2025-02-21**|null|
-|**2025-02-21**|**LEDD: Large Language Model-Empowered Data Discovery in Data Lakes**|Qi An et.al.|[2502.15182v1](http://arxiv.org/abs/2502.15182v1)|**2025-02-21**|null|
-|**2025-02-21**|**Enhancing Speech Large Language Models with Prompt-Aware Mixture of Audio Encoders**|Weiqiao Shan et.al.|[2502.15178v1](http://arxiv.org/abs/2502.15178v1)|**2025-02-21**|null|
-|**2025-02-21**|**BP-GPT: Auditory Neural Decoding Using fMRI-prompted LLM**|Xiaoyu Chen et.al.|[2502.15172v1](http://arxiv.org/abs/2502.15172v1)|**2025-02-21**|null|
+|**2025-03-07**|**Task-oriented Uncertainty Collaborative Learning for Label-Efficient Brain Tumor Segmentation**|Zhenxuan Zhang et.al.|[2503.05682v1](http://arxiv.org/abs/2503.05682v1)|**2025-03-07**|null|
+|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639v1](http://arxiv.org/abs/2503.05639v1)|**2025-03-07**|null|
+|**2025-03-07**|**Joint 3D Point Cloud Segmentation using Real-Sim Loop: From Panels to Trees and Branches**|Tian Qiu et.al.|[2503.05630v1](http://arxiv.org/abs/2503.05630v1)|**2025-03-07**|null|
+|**2025-03-07**|**Conformal Prediction for Image Segmentation Using Morphological Prediction Sets**|Luca Mossina et.al.|[2503.05618v1](http://arxiv.org/abs/2503.05618v1)|**2025-03-07**|null|
+|**2025-03-07**|**Anti-Diffusion: Preventing Abuse of Modifications of Diffusion-Based Models**|Zheng Li et.al.|[2503.05595v1](http://arxiv.org/abs/2503.05595v1)|**2025-03-07**|null|
+|**2025-03-07**|**Quantifying the Robustness of Retrieval-Augmented Language Models Against Spurious Features in Grounding Data**|Shiping Yang et.al.|[2503.05587v1](http://arxiv.org/abs/2503.05587v1)|**2025-03-07**|null|
+|**2025-03-07**|**MPTSNet: Integrating Multiscale Periodic Local Patterns and Global Dependencies for Multivariate Time Series Classification**|Yang Mu et.al.|[2503.05582v1](http://arxiv.org/abs/2503.05582v1)|**2025-03-07**|null|
+|**2025-03-07**|**TomatoScanner: phenotyping tomato fruit based on only RGB image**|Xiaobei Zhao et.al.|[2503.05568v1](http://arxiv.org/abs/2503.05568v1)|**2025-03-07**|null|
+|**2025-03-07**|**Evaluating open-source Large Language Models for automated fact-checking**|Nicolo' Fontana et.al.|[2503.05565v1](http://arxiv.org/abs/2503.05565v1)|**2025-03-07**|null|
+|**2025-03-07**|**Synchronization between media followers and political supporters during an election process: towards a real time study**|Rémi Perrier et.al.|[2503.05552v1](http://arxiv.org/abs/2503.05552v1)|**2025-03-07**|null|
+|**2025-03-07**|**Disconnect to Connect: A Data Augmentation Method for Improving Topology Accuracy in Image Segmentation**|Juan Miguel Valverde et.al.|[2503.05541v1](http://arxiv.org/abs/2503.05541v1)|**2025-03-07**|null|
+|**2025-03-07**|**S4M: Segment Anything with 4 Extreme Points**|Adrien Meyer et.al.|[2503.05534v1](http://arxiv.org/abs/2503.05534v1)|**2025-03-07**|null|
+|**2025-03-07**|**State-of-the-Art Stroke Lesion Segmentation at 1/1000th of Parameters**|Alex Fedorov et.al.|[2503.05531v1](http://arxiv.org/abs/2503.05531v1)|**2025-03-07**|null|
+|**2025-03-07**|**Grammar-Based Code Representation: Is It a Worthy Pursuit for LLMs?**|Qingyuan Liang et.al.|[2503.05507v1](http://arxiv.org/abs/2503.05507v1)|**2025-03-07**|null|
+|**2025-03-07**|**Benchmarking LLMs in Recommendation Tasks: A Comparative Evaluation with Conventional Recommenders**|Qijiong Liu et.al.|[2503.05493v1](http://arxiv.org/abs/2503.05493v1)|**2025-03-07**|null|
+|**2025-03-07**|**Bridging the Semantic Gap in Virtual Machine Introspection and Forensic Memory Analysis**|Christofer Fellicious et.al.|[2503.05482v1](http://arxiv.org/abs/2503.05482v1)|**2025-03-07**|null|
+|**2025-03-07**|**Dependent Directed Wiring Diagrams for Composing Instantaneous Systems**|Keri D'Angelo et.al.|[2503.05457v1](http://arxiv.org/abs/2503.05457v1)|**2025-03-07**|null|
+|**2025-03-07**|**Towards Locally Explaining Prediction Behavior via Gradual Interventions and Measuring Property Gradients**|Niklas Penzel et.al.|[2503.05424v1](http://arxiv.org/abs/2503.05424v1)|**2025-03-07**|null|
+|**2025-03-07**|**Semantic Shift Estimation via Dual-Projection and Classifier Reconstruction for Exemplar-Free Class-Incremental Learning**|Run He et.al.|[2503.05423v1](http://arxiv.org/abs/2503.05423v1)|**2025-03-07**|null|
+|**2025-03-07**|**A skeletonization based image segmentation algorithm to isolate slender regions in 3D microstructures**|Vinit Vijay Deshpande et.al.|[2503.05417v1](http://arxiv.org/abs/2503.05417v1)|**2025-03-07**|null|
+|**2025-03-07**|**Leveraging Semantic Type Dependencies for Clinical Named Entity Recognition**|Linh Le et.al.|[2503.05373v1](http://arxiv.org/abs/2503.05373v1)|**2025-03-07**|null|
+|**2025-03-07**|**Multi-Grained Feature Pruning for Video-Based Human Pose Estimation**|Zhigang Wang et.al.|[2503.05365v1](http://arxiv.org/abs/2503.05365v1)|**2025-03-07**|null|
+|**2025-03-07**|**Proof-theoretic Semantics for Classical Propositional Logic with Assertion and Denial**|Alexander V. Gheorghiu et.al.|[2503.05364v1](http://arxiv.org/abs/2503.05364v1)|**2025-03-07**|null|
+|**2025-03-07**|**On an Inferential Semantics for Intuitionistic Sentential Logic**|Alexander V. Gheorghiu et.al.|[2503.05360v1](http://arxiv.org/abs/2503.05360v1)|**2025-03-07**|null|
+|**2025-03-07**|**On the Logical Content of Logic Programs**|Alexader V. Gheorghiu et.al.|[2503.05355v1](http://arxiv.org/abs/2503.05355v1)|**2025-03-07**|null|
+|**2025-03-07**|**Pretext Task Adversarial Learning for Unpaired Low-field to Ultra High-field MRI Synthesis**|Zhenxuan Zhang et.al.|[2503.05339v1](http://arxiv.org/abs/2503.05339v1)|**2025-03-07**|null|
+|**2025-03-07**|**LoRACode: LoRA Adapters for Code Embeddings**|Saumya Chaturvedi et.al.|[2503.05315v1](http://arxiv.org/abs/2503.05315v1)|**2025-03-07**|null|
+|**2025-03-07**|**Escaping Plato's Cave: Towards the Alignment of 3D and Text Latent Spaces**|Souhail Hadgi et.al.|[2503.05283v1](http://arxiv.org/abs/2503.05283v1)|**2025-03-07**|null|
+|**2025-03-07**|**ZOGRASCOPE: A New Benchmark for Property Graphs**|Francesco Cazzaro et.al.|[2503.05268v1](http://arxiv.org/abs/2503.05268v1)|**2025-03-07**|null|
+|**2025-03-07**|**PhiloBERTA: A Transformer-Based Cross-Lingual Analysis of Greek and Latin Lexicons**|Rumi A. Allbert et.al.|[2503.05265v1](http://arxiv.org/abs/2503.05265v1)|**2025-03-07**|null|

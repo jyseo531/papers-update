@@ -2,33 +2,33 @@
 ### 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-02-21**|**AutoTandemML: Active Learning Enhanced Tandem Neural Networks for Inverse Design Problems**|Luka Grbcic et.al.|[2502.15643v1](http://arxiv.org/abs/2502.15643v1)|**2025-02-21**|null|
-|**2025-02-21**|**RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes**|Sicheng Yu et.al.|[2502.15633v1](http://arxiv.org/abs/2502.15633v1)|**2025-02-21**|null|
-|**2025-02-21**|**Polarizations on a triangulated category**|Daigo Ito et.al.|[2502.15621v1](http://arxiv.org/abs/2502.15621v1)|**2025-02-21**|null|
-|**2025-02-21**|**Pick-and-place Manipulation Across Grippers Without Retraining: A Learning-optimization Diffusion Policy Approach**|Xiangtong Yao et.al.|[2502.15613v1](http://arxiv.org/abs/2502.15613v1)|**2025-02-21**|null|
-|**2025-02-21**|**WorldCraft: Photo-Realistic 3D World Creation and Customization via LLM Agents**|Xinhang Liu et.al.|[2502.15601v1](http://arxiv.org/abs/2502.15601v1)|**2025-02-21**|null|
-|**2025-02-21**|**Projective imaging of high-energy nuclei through coherent exclusive vector meson production in electron-ion collisions**|Maci Kesler et.al.|[2502.15596v2](http://arxiv.org/abs/2502.15596v2)|**2025-02-24**|null|
-|**2025-02-21**|**A fast block nonlinear Bregman-Kaczmarz method with averaging for nonlinear sparse signal recovery**|Aqin Xiao et.al.|[2502.15529v1](http://arxiv.org/abs/2502.15529v1)|**2025-02-21**|null|
-|**2025-02-21**|**Depth-aware Fusion Method based on Image and 4D Radar Spectrum for 3D Object Detection**|Yue Sun et.al.|[2502.15516v1](http://arxiv.org/abs/2502.15516v1)|**2025-02-21**|null|
-|**2025-02-21**|**Measuring dark currents in multiple cryogenic SiPMs with sub-pA sensitivity using an automated IV multiplexer**|Lucas Darroch et.al.|[2502.15494v2](http://arxiv.org/abs/2502.15494v2)|**2025-02-24**|null|
-|**2025-02-21**|**Q-PETR: Quant-aware Position Embedding Transformation for Multi-View 3D Object Detection**|Jiangyong Yu et.al.|[2502.15488v1](http://arxiv.org/abs/2502.15488v1)|**2025-02-21**|null|
-|**2025-02-21**|**On Neural BRDFs: A Thorough Comparison of State-of-the-Art Approaches**|Florian Hofherr et.al.|[2502.15480v1](http://arxiv.org/abs/2502.15480v1)|**2025-02-21**|null|
-|**2025-02-21**|**Aligning Task- and Reconstruction-Oriented Communications for Edge Intelligence**|Yufeng Diao et.al.|[2502.15472v1](http://arxiv.org/abs/2502.15472v1)|**2025-02-21**|null|
-|**2025-02-21**|**Game State and Spatio-temporal Action Detection in Soccer using Graph Neural Networks and 3D Convolutional Networks**|Jeremie Ochin et.al.|[2502.15462v1](http://arxiv.org/abs/2502.15462v1)|**2025-02-21**|null|
-|**2025-02-21**|**Black hole solutions in the revised Deser-Woodard nonlocal theory of gravity**|Rocco D'Agostino et.al.|[2502.15460v1](http://arxiv.org/abs/2502.15460v1)|**2025-02-21**|null|
-|**2025-02-21**|**Robust 4D Radar-aided Inertial Navigation for Aerial Vehicles**|Jinwen Zhu et.al.|[2502.15452v1](http://arxiv.org/abs/2502.15452v1)|**2025-02-21**|null|
-|**2025-02-21**|**LEAP: Enhancing Vision-Based Occupancy Networks with Lightweight Spatio-Temporal Correlation**|Fengcheng Yu et.al.|[2502.15438v1](http://arxiv.org/abs/2502.15438v1)|**2025-02-21**|null|
-|**2025-02-21**|**Audio signal interpolation using optimal transportation of spectrograms**|David Valdivia et.al.|[2502.15430v1](http://arxiv.org/abs/2502.15430v1)|**2025-02-21**|null|
-|**2025-02-21**|**Anatomy-Informed Deep Learning and Radiomics for Automated Neurofibroma Segmentation in Whole-Body MRI**|Georgii Kolokolnikov et.al.|[2502.15424v1](http://arxiv.org/abs/2502.15424v1)|**2025-02-21**|null|
-|**2025-02-21**|**Enhancing Vehicle Make and Model Recognition with 3D Attention Modules**|Narges Semiromizadeh et.al.|[2502.15398v1](http://arxiv.org/abs/2502.15398v1)|**2025-02-21**|null|
-|**2025-02-21**|**Super-Resolution for Interferometric Imaging: Model Comparisons and Performance Analysis**|Hasan Berkay Abdioglu et.al.|[2502.15397v1](http://arxiv.org/abs/2502.15397v1)|**2025-02-21**|null|
-|**2025-02-21**|**Simulation Studies of the Effect of SiPM Dark Noise on the Performance of a Highly Granular Crystal ECAL**|Jack Rolph et.al.|[2502.15353v1](http://arxiv.org/abs/2502.15353v1)|**2025-02-21**|null|
-|**2025-02-21**|**Semiparametric Bernstein-von Mises Phenomenon via Isotonized Posterior in Wicksell's problem**|Francesco Gili et.al.|[2502.15352v1](http://arxiv.org/abs/2502.15352v1)|**2025-02-21**|null|
-|**2025-02-21**|**PFSD: A Multi-Modal Pedestrian-Focus Scene Dataset for Rich Tasks in Semi-Structured Environments**|Yueting Liu et.al.|[2502.15342v2](http://arxiv.org/abs/2502.15342v2)|**2025-02-24**|null|
-|**2025-02-21**|**DynamicGSG: Dynamic 3D Gaussian Scene Graphs for Environment Adaptation**|Luzhou Ge et.al.|[2502.15309v2](http://arxiv.org/abs/2502.15309v2)|**2025-02-24**|[link](https://github.com/geluzhou/dynamic-gsg)|
-|**2025-02-21**|**A deep learning-based noise correction method for light-field fluorescence microscopy**|Bohan Qu et.al.|[2502.15259v1](http://arxiv.org/abs/2502.15259v1)|**2025-02-21**|null|
-|**2025-02-21**|**Quantum autoencoders for image classification**|Hinako Asaoka et.al.|[2502.15254v1](http://arxiv.org/abs/2502.15254v1)|**2025-02-21**|null|
-|**2025-02-21**|**SiMHand: Mining Similar Hands for Large-Scale 3D Hand Pose Pre-training**|Nie Lin et.al.|[2502.15251v1](http://arxiv.org/abs/2502.15251v1)|**2025-02-21**|null|
-|**2025-02-21**|**Holographic Joint Communications and Sensing With Cramer-Rao Bounds**|Chandan Kumar Sheemar et.al.|[2502.15248v1](http://arxiv.org/abs/2502.15248v1)|**2025-02-21**|null|
-|**2025-02-21**|**Mass enhancement and metal-nonmetal transition driven by d-f hybridization in perovskites La1-xPrxCuO3**|H. Takahashi et.al.|[2502.15238v1](http://arxiv.org/abs/2502.15238v1)|**2025-02-21**|null|
-|**2025-02-21**|**Lung-DDPM: Semantic Layout-guided Diffusion Models for Thoracic CT Image Synthesis**|Yifan Jiang et.al.|[2502.15204v1](http://arxiv.org/abs/2502.15204v1)|**2025-02-21**|null|
+|**2025-03-07**|**Global dissipative solutions of the 3D Naiver-Stokes and MHD equations**|Alexey Cheskidov et.al.|[2503.05692v1](http://arxiv.org/abs/2503.05692v1)|**2025-03-07**|null|
+|**2025-03-07**|**On a classification problem for a quiver of type $\widetilde{A}_{3}$**|Ivon Dorado et.al.|[2503.05643v1](http://arxiv.org/abs/2503.05643v1)|**2025-03-07**|null|
+|**2025-03-07**|**Joint 3D Point Cloud Segmentation using Real-Sim Loop: From Panels to Trees and Branches**|Tian Qiu et.al.|[2503.05630v1](http://arxiv.org/abs/2503.05630v1)|**2025-03-07**|null|
+|**2025-03-07**|**Ising on $\mathbb{S}^2$ -- The Affine Conjecture**|Richard C. Brower et.al.|[2503.05621v1](http://arxiv.org/abs/2503.05621v1)|**2025-03-07**|null|
+|**2025-03-07**|**The shape of FIREbox galaxies and a potential tension with low-mass disks**|Courtney Klein et.al.|[2503.05612v1](http://arxiv.org/abs/2503.05612v1)|**2025-03-07**|null|
+|**2025-03-07**|**TomatoScanner: phenotyping tomato fruit based on only RGB image**|Xiaobei Zhao et.al.|[2503.05568v1](http://arxiv.org/abs/2503.05568v1)|**2025-03-07**|null|
+|**2025-03-07**|**Disconnect to Connect: A Data Augmentation Method for Improving Topology Accuracy in Image Segmentation**|Juan Miguel Valverde et.al.|[2503.05541v1](http://arxiv.org/abs/2503.05541v1)|**2025-03-07**|null|
+|**2025-03-07**|**Free Your Hands: Lightweight Relightable Turntable Capture Pipeline**|Jiahui Fan et.al.|[2503.05511v1](http://arxiv.org/abs/2503.05511v1)|**2025-03-07**|null|
+|**2025-03-07**|**$t$+$t$ cluster states in $^{6}$He**|W. H. Ma et.al.|[2503.05497v1](http://arxiv.org/abs/2503.05497v1)|**2025-03-07**|null|
+|**2025-03-07**|**FastMap: Fast Queries Initialization Based Vectorized HD Map Reconstruction Framework**|Haotian Hu et.al.|[2503.05492v1](http://arxiv.org/abs/2503.05492v1)|**2025-03-07**|null|
+|**2025-03-07**|**Statistical Deficiency for Task Inclusion Estimation**|Loïc Fosse et.al.|[2503.05491v1](http://arxiv.org/abs/2503.05491v1)|**2025-03-07**|null|
+|**2025-03-07**|**DecoupledGaussian: Object-Scene Decoupling for Physics-Based Interaction**|Miaowei Wang et.al.|[2503.05484v1](http://arxiv.org/abs/2503.05484v1)|**2025-03-07**|null|
+|**2025-03-07**|**Search for Higgs boson exotic decays into Lorentz-boosted light bosons in the four-$τ$ final state at $\sqrt{s}=13$ TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2503.05463v1](http://arxiv.org/abs/2503.05463v1)|**2025-03-07**|null|
+|**2025-03-07**|**PinchCatcher: Enabling Multi-selection for Gaze+Pinch**|Jinwook Kim et.al.|[2503.05456v1](http://arxiv.org/abs/2503.05456v1)|**2025-03-07**|null|
+|**2025-03-07**|**Quantitative Determination of Spatial Resolution and Linearity of Position-Sensitive LG-SiPMs at Sub-Millimeter Scale via Ricean Distribution Fitting**|Aramis Raiola et.al.|[2503.05450v1](http://arxiv.org/abs/2503.05450v1)|**2025-03-07**|null|
+|**2025-03-07**|**$\mathrm{O}$/$\mathrm{SO}$ Gauge Groups, $BC$ Quivers and $O3$ Planes**|Sam Bennett et.al.|[2503.05443v1](http://arxiv.org/abs/2503.05443v1)|**2025-03-07**|null|
+|**2025-03-07**|**LiDAR-enhanced 3D Gaussian Splatting Mapping**|Jian Shen et.al.|[2503.05425v1](http://arxiv.org/abs/2503.05425v1)|**2025-03-07**|null|
+|**2025-03-07**|**Semantic Shift Estimation via Dual-Projection and Classifier Reconstruction for Exemplar-Free Class-Incremental Learning**|Run He et.al.|[2503.05423v1](http://arxiv.org/abs/2503.05423v1)|**2025-03-07**|null|
+|**2025-03-07**|**A skeletonization based image segmentation algorithm to isolate slender regions in 3D microstructures**|Vinit Vijay Deshpande et.al.|[2503.05417v1](http://arxiv.org/abs/2503.05417v1)|**2025-03-07**|null|
+|**2025-03-07**|**Decay of solutions of nonlinear Dirac equations**|Sebastian Herr et.al.|[2503.05410v1](http://arxiv.org/abs/2503.05410v1)|**2025-03-07**|null|
+|**2025-03-07**|**Self-Modeling Robots by Photographing**|Kejun Hu et.al.|[2503.05398v1](http://arxiv.org/abs/2503.05398v1)|**2025-03-07**|null|
+|**2025-03-07**|**CoMoGaussian: Continuous Motion-Aware Gaussian Splatting from Motion-Blurred Images**|Jungho Lee et.al.|[2503.05332v1](http://arxiv.org/abs/2503.05332v1)|**2025-03-07**|null|
+|**2025-03-07**|**Escaping Plato's Cave: Towards the Alignment of 3D and Text Latent Spaces**|Souhail Hadgi et.al.|[2503.05283v1](http://arxiv.org/abs/2503.05283v1)|**2025-03-07**|null|
+|**2025-03-07**|**Evaluation of 3D Terrestrial and Aerial Spectrum Sharing with Massive MIMO Systems**|Achiel Colpaert et.al.|[2503.05279v1](http://arxiv.org/abs/2503.05279v1)|**2025-03-07**|null|
+|**2025-03-07**|**Guaranteeing Out-Of-Distribution Detection in Deep RL via Transition Estimation**|Mohit Prashant et.al.|[2503.05238v1](http://arxiv.org/abs/2503.05238v1)|**2025-03-07**|null|
+|**2025-03-07**|**DiVISe: Direct Visual-Input Speech Synthesis Preserving Speaker Characteristics And Intelligibility**|Yifan Liu et.al.|[2503.05223v1](http://arxiv.org/abs/2503.05223v1)|**2025-03-07**|null|
+|**2025-03-07**|**On reconstructing high derivatives of noisy time-series with confidence intervals**|Mazen Alamir et.al.|[2503.05222v1](http://arxiv.org/abs/2503.05222v1)|**2025-03-07**|null|
+|**2025-03-07**|**Separability Membrane: 3D Active Contour for Point Cloud Surface Reconstruction**|Gulpi Qorik Oktagalu Pratamasunu et.al.|[2503.05217v1](http://arxiv.org/abs/2503.05217v1)|**2025-03-07**|null|
+|**2025-03-07**|**STGA: Selective-Training Gaussian Head Avatars**|Hanzhi Guo et.al.|[2503.05196v1](http://arxiv.org/abs/2503.05196v1)|**2025-03-07**|null|
+|**2025-03-07**|**Memory-augmented Query Reconstruction for LLM-based Knowledge Graph Reasoning**|Mufan Xu et.al.|[2503.05193v1](http://arxiv.org/abs/2503.05193v1)|**2025-03-07**|null|

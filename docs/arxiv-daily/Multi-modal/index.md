@@ -5,4 +5,3 @@
 - [Image Caption](./Image Caption.md)
 - [Text and Image Generation](./Text and Image Generation.md)
 - [Vision-Language](./Vision-Language.md)
-- [Alignment](./Alignment.md)
