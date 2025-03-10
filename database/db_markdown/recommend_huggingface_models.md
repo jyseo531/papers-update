@@ -1701,6 +1701,7 @@ Updated on 2025-03-10
 | 467k |  | facebook/mms-tts-yorText-to-Speech | UpdatedSep 1, 2023 | [Link](https://huggingface.co/facebook/mms-tts-yor) |
 | 5 | Unknown | Banafo/Kroko-ASRText-to-Speech | UpdatedFeb 1 | [Link](https://huggingface.co/Banafo/Kroko-ASR) |
 | 5.88k |  | facebook/mms-tts-vieText-to-Speech | UpdatedSep 1, 2023 | [Link](https://huggingface.co/facebook/mms-tts-vie) |
+| 3 | Unknown | MBZUAI/LLMVoXText-to-Speech | Updated42 minutes ago | [Link](https://huggingface.co/MBZUAI/LLMVoX) |
 
 ## Text-to-Video
 
