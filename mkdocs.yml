@@ -1,25 +1,56 @@
-site_name: kuaicv
+# site_name: kuaicv
+
+# # theme:
+# #   name: material  # 테마 이름
+# #   palette:
+# #     - scheme: default  # 기본 테마
+# #       primary: indigo
+# #       accent: pink
+# #     - scheme: slate  # 다크 모드 테마
+# #       primary: deep-purple
+# #       accent: cyan
+
 
 # theme:
-#   name: material  # 테마 이름
-#   palette:
-#     - scheme: default  # 기본 테마
-#       primary: indigo
-#       accent: pink
-#     - scheme: slate  # 다크 모드 테마
-#       primary: deep-purple
-#       accent: cyan
+#   name: material
+#   custom_dir: overrides
+#   features:
+#     - navigation.indexes
+
+# repo_url: https://github.com/jyseo531/kuaicv
+# site_url: https://jyseo531.github.io/kuaicv
+
+# markdown_extensions:
+#   - def_list
+#   - pymdownx.tasklist:
+#       custom_checkbox: true
+#   - attr_list
+#   - md_in_html
+#   - pymdownx.emoji:
+#       emoji_index: !!python/name:material.extensions.emoji.twemoji
+#       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 
+# plugins:
+#   - search:
+#       lang:
+#         - en
+#         - ja
+
+# extra:
+#   analytics:
+#     provider: google
+#     # property: UA-145083103-1
+
+site_name: arxiv-daily
 theme:
   name: material
   custom_dir: overrides
   features:
     - navigation.indexes
-
-repo_url: https://github.com/jyseo531/kuaicv
-site_url: https://jyseo531.github.io/kuaicv
-
+    - content.tables  # :흰색_확인_표시: 기본 테이블 스타일 적용
+    - content.tables.sort  # :흰색_확인_표시: 기본 테이블 정렬 기능 (헤더 클릭 시 정렬)
+repo_url: https://github.com/chimdungs/arxiv-daily
 markdown_extensions:
   - def_list
   - pymdownx.tasklist:
@@ -29,15 +60,17 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-
-
 plugins:
   - search:
       lang:
         - en
         - ja
-
 extra:
   analytics:
     provider: google
     # property: UA-145083103-1
+extra_javascript:
+  - js/sort.js  # :흰색_확인_표시: Star 또는 Likes 정렬 버튼 기능 추가
+  - js/table-pagination.js  # :흰색_확인_표시: 페이지네이션 기능 추가 (한 페이지당 10개)
+extra_css:
+  - css/table-style.css  # :흰색_확인_표시: 페이지네이션 스타일 적용
