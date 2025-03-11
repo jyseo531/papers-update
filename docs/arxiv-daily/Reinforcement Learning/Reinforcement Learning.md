@@ -2,9 +2,6 @@
 ### Reinforcement Learning
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-10**|**Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning**|Yuxiao Qu et.al.|[2503.07572v1](http://arxiv.org/abs/2503.07572v1)|**2025-03-10**|null|
-|**2025-03-10**|**LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL**|Yingzhe Peng et.al.|[2503.07536v1](http://arxiv.org/abs/2503.07536v1)|**2025-03-10**|null|
-|**2025-03-10**|**VisRL: Intention-Driven Visual Perception via Reinforced Reasoning**|Zhangquan Chen et.al.|[2503.07523v1](http://arxiv.org/abs/2503.07523v1)|**2025-03-10**|null|
 |**2025-03-10**|**Is a Good Foundation Necessary for Efficient Reinforcement Learning? The Computational Role of the Base Model in Exploration**|Dylan J. Foster et.al.|[2503.07453v1](http://arxiv.org/abs/2503.07453v1)|**2025-03-10**|null|
 |**2025-03-10**|**DRESS: Diffusion Reasoning-based Reward Shaping Scheme For Intelligent Networks**|Feiran You et.al.|[2503.07433v1](http://arxiv.org/abs/2503.07433v1)|**2025-03-10**|null|
 |**2025-03-10**|**The Interplay of AI-and-RAN: Dynamic Resource Allocation for Converged 6G Platform**|Syed Danial Ali Shah et.al.|[2503.07420v1](http://arxiv.org/abs/2503.07420v1)|**2025-03-10**|null|
@@ -32,3 +29,6 @@
 |**2025-03-10**|**Reinforcement Learning Based Symbolic Regression for Load Modeling**|Ding Lin et.al.|[2503.06879v1](http://arxiv.org/abs/2503.06879v1)|**2025-03-10**|null|
 |**2025-03-10**|**A2I-Calib: An Anti-noise Active Multi-IMU Spatial-temporal Calibration Framework for Legged Robots**|Chaoran Xiong et.al.|[2503.06844v1](http://arxiv.org/abs/2503.06844v1)|**2025-03-10**|null|
 |**2025-03-10**|**Mitigating Preference Hacking in Policy Optimization with Pessimism**|Dhawal Gupta et.al.|[2503.06810v1](http://arxiv.org/abs/2503.06810v1)|**2025-03-10**|null|
+|**2025-03-09**|**Dr Genre: Reinforcement Learning from Decoupled LLM Feedback for Generic Text Rewriting**|Yufei Li et.al.|[2503.06781v1](http://arxiv.org/abs/2503.06781v1)|**2025-03-09**|null|
+|**2025-03-09**|**Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models**|Wenxuan Huang et.al.|[2503.06749v1](http://arxiv.org/abs/2503.06749v1)|**2025-03-09**|null|
+|**2025-03-09**|**Fully-Decentralized MADDPG with Networked Agents**|Diego Bolliger et.al.|[2503.06747v1](http://arxiv.org/abs/2503.06747v1)|**2025-03-09**|null|

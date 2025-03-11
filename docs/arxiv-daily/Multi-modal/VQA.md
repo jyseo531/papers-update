@@ -2,20 +2,6 @@
 ### VQA
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-10**|**Robusto-1 Dataset: Comparing Humans and VLMs on real out-of-distribution Autonomous Driving VQA from Peru**|Dunant Cusipuma et.al.|[2503.07587v1](http://arxiv.org/abs/2503.07587v1)|**2025-03-10**|null|
-|**2025-03-10**|**Talking to GDELT Through Knowledge Graphs**|Audun Myers et.al.|[2503.07584v1](http://arxiv.org/abs/2503.07584v1)|**2025-03-10**|null|
-|**2025-03-10**|**Neural Combinatorial Optimization via Preference Optimization**|Zijun Liao et.al.|[2503.07580v1](http://arxiv.org/abs/2503.07580v1)|**2025-03-10**|null|
-|**2025-03-10**|**VisBias: Measuring Explicit and Implicit Social Biases in Vision Language Models**|Jen-tse Huang et.al.|[2503.07575v1](http://arxiv.org/abs/2503.07575v1)|**2025-03-10**|null|
-|**2025-03-10**|**Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning**|Yuxiao Qu et.al.|[2503.07572v1](http://arxiv.org/abs/2503.07572v1)|**2025-03-10**|null|
-|**2025-03-10**|**Concentration via Metastable Mixing, with Applications to the Supercritical Exponential Random Graph Model**|Vilas Winstein et.al.|[2503.07571v1](http://arxiv.org/abs/2503.07571v1)|**2025-03-10**|null|
-|**2025-03-10**|**Inductive Moment Matching**|Linqi Zhou et.al.|[2503.07565v1](http://arxiv.org/abs/2503.07565v1)|**2025-03-10**|null|
-|**2025-03-10**|**AutoSpatial: Visual-Language Reasoning for Social Robot Navigation through Efficient Spatial Reasoning Learning**|Yangzhe Kong et.al.|[2503.07557v1](http://arxiv.org/abs/2503.07557v1)|**2025-03-10**|null|
-|**2025-03-10**|**An Empirical Comparison of Cost Functions in Inductive Logic Programming**|Céline Hocquette et.al.|[2503.07554v1](http://arxiv.org/abs/2503.07554v1)|**2025-03-10**|null|
-|**2025-03-10**|**Criteria for a fiberwise Fujiki/Kähler family to be locally Moishezon/projective**|Jian Chen et.al.|[2503.07548v1](http://arxiv.org/abs/2503.07548v1)|**2025-03-10**|null|
-|**2025-03-10**|**Queueing, Predictions, and LLMs: Challenges and Open Problems**|Michael Mitzenmacher et.al.|[2503.07545v1](http://arxiv.org/abs/2503.07545v1)|**2025-03-10**|null|
-|**2025-03-10**|**LBM: Latent Bridge Matching for Fast Image-to-Image Translation**|Clément Chadebec et.al.|[2503.07535v1](http://arxiv.org/abs/2503.07535v1)|**2025-03-10**|null|
-|**2025-03-10**|**Predicted Neutrino Signal Features of Core-Collapse Supernovae**|Lyla Choi et.al.|[2503.07531v1](http://arxiv.org/abs/2503.07531v1)|**2025-03-10**|null|
-|**2025-03-10**|**Sometimes the Model doth Preach: Quantifying Religious Bias in Open LLMs through Demographic Analysis in Asian Nations**|Hari Shankar et.al.|[2503.07510v1](http://arxiv.org/abs/2503.07510v1)|**2025-03-10**|null|
 |**2025-03-10**|**Efficient Membership Inference Attacks by Bayesian Neural Network**|Zhenlong Liu et.al.|[2503.07482v1](http://arxiv.org/abs/2503.07482v1)|**2025-03-10**|null|
 |**2025-03-10**|**VLRMBench: A Comprehensive and Challenging Benchmark for Vision-Language Reward Models**|Jiacheng Ruan et.al.|[2503.07478v1](http://arxiv.org/abs/2503.07478v1)|**2025-03-10**|null|
 |**2025-03-10**|**YOLOE: Real-Time Seeing Anything**|Ao Wang et.al.|[2503.07465v1](http://arxiv.org/abs/2503.07465v1)|**2025-03-10**|[link](https://github.com/THU-MIG/yoloe)|
@@ -32,3 +18,17 @@
 |**2025-03-10**|**Temporal Triplane Transformers as Occupancy World Models**|Haoran Xu et.al.|[2503.07338v1](http://arxiv.org/abs/2503.07338v1)|**2025-03-10**|null|
 |**2025-03-10**|**AI Biases as Asymmetries: A Review to Guide Practice**|Gabriella Waters et.al.|[2503.07326v1](http://arxiv.org/abs/2503.07326v1)|**2025-03-10**|null|
 |**2025-03-10**|**AttenST: A Training-Free Attention-Driven Style Transfer Framework with Pre-Trained Diffusion Models**|Bo Huang et.al.|[2503.07307v1](http://arxiv.org/abs/2503.07307v1)|**2025-03-10**|null|
+|**2025-03-10**|**An Information-Theoretic Approach to Identifying Formulaic Clusters in Textual Data**|Gideon Yoffe et.al.|[2503.07303v1](http://arxiv.org/abs/2503.07303v1)|**2025-03-10**|null|
+|**2025-03-10**|**On average orders of automorphism groups of bilinear maps over finite fields**|Markus Bläser et.al.|[2503.07299v1](http://arxiv.org/abs/2503.07299v1)|**2025-03-10**|null|
+|**2025-03-10**|**On Toeplitz operators on $H^1(\mathbb{C}^+)$**|Carlo Bellavita et.al.|[2503.07281v1](http://arxiv.org/abs/2503.07281v1)|**2025-03-10**|null|
+|**2025-03-10**|**A Systematic Review of ECG Arrhythmia Classification: Adherence to Standards, Fair Evaluation, and Embedded Feasibility**|Guilherme Silva et.al.|[2503.07276v1](http://arxiv.org/abs/2503.07276v1)|**2025-03-10**|null|
+|**2025-03-10**|**Efficient Distillation of Classifier-Free Guidance using Adapters**|Cristian Perez Jensen et.al.|[2503.07274v1](http://arxiv.org/abs/2503.07274v1)|**2025-03-10**|null|
+|**2025-03-10**|**MC-GRU:a Multi-Channel GRU network for generalized nonlinear structural response prediction across structures**|Shan He et.al.|[2503.07258v1](http://arxiv.org/abs/2503.07258v1)|**2025-03-10**|null|
+|**2025-03-10**|**Exploring $Δ$-resonance in neutron stars: implications from astrophysical and nuclear observations**|Vishal Parmar et.al.|[2503.07256v1](http://arxiv.org/abs/2503.07256v1)|**2025-03-10**|null|
+|**2025-03-10**|**Learning and planning for optimal synergistic human-robot coordination in manufacturing contexts**|Samuele Sandrini et.al.|[2503.07238v1](http://arxiv.org/abs/2503.07238v1)|**2025-03-10**|null|
+|**2025-03-10**|**Coreset Spectral Clustering**|Ben Jourdan et.al.|[2503.07227v1](http://arxiv.org/abs/2503.07227v1)|**2025-03-10**|null|
+|**2025-03-10**|**Bag Semantics Query Containment: The CQ vs. UCQ Case and Other Stories**|Jerzy Marcinkowski et.al.|[2503.07219v1](http://arxiv.org/abs/2503.07219v1)|**2025-03-10**|null|
+|**2025-03-10**|**ReelWave: A Multi-Agent Framework Toward Professional Movie Sound Generation**|Zixuan Wang et.al.|[2503.07217v1](http://arxiv.org/abs/2503.07217v1)|**2025-03-10**|null|
+|**2025-03-10**|**FedRand: Enhancing Privacy in Federated Learning with Randomized LoRA Subparameter Updates**|Sangwoo Park et.al.|[2503.07216v1](http://arxiv.org/abs/2503.07216v1)|**2025-03-10**|null|
+|**2025-03-10**|**A Zero-shot Learning Method Based on Large Language Models for Multi-modal Knowledge Graph Embedding**|Bingchen Liu et.al.|[2503.07202v1](http://arxiv.org/abs/2503.07202v1)|**2025-03-10**|null|
+|**2025-03-10**|**How Well Can Differential Privacy Be Audited in One Run?**|Amit Keinan et.al.|[2503.07199v1](http://arxiv.org/abs/2503.07199v1)|**2025-03-10**|null|

@@ -2,15 +2,6 @@
 ### Transformer
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-10**|**Design as Hope: Reimagining Futures for Seemingly Doomed Problems**|JaeWon Kim et.al.|[2503.07586v1](http://arxiv.org/abs/2503.07586v1)|**2025-03-10**|null|
-|**2025-03-10**|**Analyzing Symmetries of Swarms of Mobile Robots Using Equivariant Dynamical Systems**|Raphael Gerlach et.al.|[2503.07576v1](http://arxiv.org/abs/2503.07576v1)|**2025-03-10**|null|
-|**2025-03-10**|**Reconstructing currents from their projections**|Aidan Backus et.al.|[2503.07573v1](http://arxiv.org/abs/2503.07573v1)|**2025-03-10**|null|
-|**2025-03-10**|**$L^p$- Heisenberg--Pauli--Weyl uncertainty inequalities on certain two-step nilpotent Lie groups**|Pritam Ganguly et.al.|[2503.07551v1](http://arxiv.org/abs/2503.07551v1)|**2025-03-10**|null|
-|**2025-03-10**|**Beyond first light: global monitoring for high-energy neutrino astronomy**|Lisa Johanna Schumacher et.al.|[2503.07549v1](http://arxiv.org/abs/2503.07549v1)|**2025-03-10**|null|
-|**2025-03-10**|**Anomaly Equation of the Large U(1) Chiral Symmetry**|Shingo Takeuchi et.al.|[2503.07525v1](http://arxiv.org/abs/2503.07525v1)|**2025-03-10**|null|
-|**2025-03-10**|**FastInstShadow: A Simple Query-Based Model for Instance Shadow Detection**|Takeru Inoue et.al.|[2503.07517v1](http://arxiv.org/abs/2503.07517v1)|**2025-03-10**|null|
-|**2025-03-10**|**Fourier transform of nonlinear images of self-similar measures: quantitative aspects**|Amlan Banaji et.al.|[2503.07508v1](http://arxiv.org/abs/2503.07508v1)|**2025-03-10**|null|
-|**2025-03-10**|**V2Flow: Unifying Visual Tokenization and Large Language Model Vocabularies for Autoregressive Image Generation**|Guiwei Zhang et.al.|[2503.07493v1](http://arxiv.org/abs/2503.07493v1)|**2025-03-10**|null|
 |**2025-03-10**|**Efficient Membership Inference Attacks by Bayesian Neural Network**|Zhenlong Liu et.al.|[2503.07482v1](http://arxiv.org/abs/2503.07482v1)|**2025-03-10**|null|
 |**2025-03-10**|**GenAIReading: Augmenting Human Cognition with Interactive Digital Textbooks Using Large Language Models and Image Generation Models**|Ryugo Morita et.al.|[2503.07463v1](http://arxiv.org/abs/2503.07463v1)|**2025-03-10**|null|
 |**2025-03-10**|**Modeling HIF-ILK Interaction Using Continuous Petri Nets**|Viktor Gilin et.al.|[2503.07451v1](http://arxiv.org/abs/2503.07451v1)|**2025-03-10**|null|
@@ -32,3 +23,12 @@
 |**2025-03-10**|**Synthetic Lung X-ray Generation through Cross-Attention and Affinity Transformation**|Ruochen Pi et.al.|[2503.07209v1](http://arxiv.org/abs/2503.07209v1)|**2025-03-10**|null|
 |**2025-03-10**|**Evaluation of Alignment-Regularity Characteristics in Deformable Image Registration**|Vasiliki Sideri-Lampretsa et.al.|[2503.07185v1](http://arxiv.org/abs/2503.07185v1)|**2025-03-10**|null|
 |**2025-03-10**|**Double ellipsoidal harmonic gravity field models for bilobed bodies: Example of comet 67P/Churyumov-Gerasimenko**|Xuanyu Hu et.al.|[2503.07160v1](http://arxiv.org/abs/2503.07160v1)|**2025-03-10**|null|
+|**2025-03-10**|**PTMs-TSCIL Pre-Trained Models Based Class-Incremental Learning**|Yuanlong Wu et.al.|[2503.07153v1](http://arxiv.org/abs/2503.07153v1)|**2025-03-10**|null|
+|**2025-03-10**|**Controllable 3D Outdoor Scene Generation via Scene Graphs**|Yuheng Liu et.al.|[2503.07152v1](http://arxiv.org/abs/2503.07152v1)|**2025-03-10**|null|
+|**2025-03-10**|**Hierarchical Neuro-Symbolic Decision Transformer**|Ali Baheri et.al.|[2503.07148v1](http://arxiv.org/abs/2503.07148v1)|**2025-03-10**|null|
+|**2025-03-10**|**Exposure Bias Reduction for Enhancing Diffusion Transformer Feature Caching**|Zhen Zou et.al.|[2503.07120v1](http://arxiv.org/abs/2503.07120v1)|**2025-03-10**|null|
+|**2025-03-10**|**PoseLess: Depth-Free Vision-to-Joint Control via Direct Image Mapping with VLM**|Alan Dao et.al.|[2503.07111v1](http://arxiv.org/abs/2503.07111v1)|**2025-03-10**|null|
+|**2025-03-10**|**A LSTM-Transformer Model for pulsation control of pVADs**|Chaoran E et.al.|[2503.07110v1](http://arxiv.org/abs/2503.07110v1)|**2025-03-10**|null|
+|**2025-03-10**|**Global Context Is All You Need for Parallel Efficient Tractography Parcellation**|Valentin von Bornhaupt et.al.|[2503.07104v1](http://arxiv.org/abs/2503.07104v1)|**2025-03-10**|null|
+|**2025-03-10**|**SimROD: A Simple Baseline for Raw Object Detection with Global and Local Enhancements**|Haiyang Xie et.al.|[2503.07101v1](http://arxiv.org/abs/2503.07101v1)|**2025-03-10**|null|
+|**2025-03-10**|**A Novel Ophthalmic Benchmark for Evaluating Multimodal Large Language Models with Fundus Photographs and OCT Images**|Xiaoyi Liang et.al.|[2503.07094v1](http://arxiv.org/abs/2503.07094v1)|**2025-03-10**|null|

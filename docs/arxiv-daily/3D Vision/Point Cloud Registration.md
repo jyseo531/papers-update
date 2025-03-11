@@ -2,12 +2,6 @@
 ### Point Cloud Registration
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-10**|**Slow-fast systems with stochastic resetting**|Paul C Bressloff et.al.|[2503.07585v1](http://arxiv.org/abs/2503.07585v1)|**2025-03-10**|null|
-|**2025-03-10**|**Discovery of a Highly Anisotropic Type-II Ferromagnetic Weyl State Exhibiting a 3D Quantum Hall Effect**|Yingdong Guan et.al.|[2503.07564v1](http://arxiv.org/abs/2503.07564v1)|**2025-03-10**|null|
-|**2025-03-10**|**Core-radius approximation of singular minimizers in nonlinear elasticity**|Marco Bresciani et.al.|[2503.07546v1](http://arxiv.org/abs/2503.07546v1)|**2025-03-10**|null|
-|**2025-03-10**|**Global Portraits of Inflation in Nonsingular Variables**|Laur Järv et.al.|[2503.07544v1](http://arxiv.org/abs/2503.07544v1)|**2025-03-10**|null|
-|**2025-03-10**|**PointVLA: Injecting the 3D World into Vision-Language-Action Models**|Chengmeng Li et.al.|[2503.07511v1](http://arxiv.org/abs/2503.07511v1)|**2025-03-10**|null|
-|**2025-03-10**|**Force Aware Branch Manipulation To Assist Agricultural Tasks**|Madhav Rijal et.al.|[2503.07497v1](http://arxiv.org/abs/2503.07497v1)|**2025-03-10**|null|
 |**2025-03-10**|**Euclid: Early Release Observations -- The Intracluster Light of Abell 2390**|A. Ellien et.al.|[2503.07484v1](http://arxiv.org/abs/2503.07484v1)|**2025-03-10**|null|
 |**2025-03-10**|**Efficient Membership Inference Attacks by Bayesian Neural Network**|Zhenlong Liu et.al.|[2503.07482v1](http://arxiv.org/abs/2503.07482v1)|**2025-03-10**|null|
 |**2025-03-10**|**Trapping and Transport of Inertial Particles in a Taylor-Green Vortex: Effects of Added Mass and History Force**|Prabhash Kumar et.al.|[2503.07480v1](http://arxiv.org/abs/2503.07480v1)|**2025-03-10**|null|
@@ -32,3 +26,9 @@
 |**2025-03-10**|**Materials Map Integrating Experimental and Computational Data through Graph-Based Machine Learning for Enhanced Materials Discovery**|Yusuke Hashimoto et.al.|[2503.07378v1](http://arxiv.org/abs/2503.07378v1)|**2025-03-10**|null|
 |**2025-03-10**|**On the solution and Lagrangian representation of Duffing oscillator with damping**|Amitava Choudhuri et.al.|[2503.07362v1](http://arxiv.org/abs/2503.07362v1)|**2025-03-10**|null|
 |**2025-03-10**|**Optimal Control Selection over the Edge-Cloud Continuum**|Xiyu Gu et.al.|[2503.07349v1](http://arxiv.org/abs/2503.07349v1)|**2025-03-10**|null|
+|**2025-03-10**|**Now you see me! A framework for obtaining class-relevant saliency maps**|Nils Philipp Walter et.al.|[2503.07346v1](http://arxiv.org/abs/2503.07346v1)|**2025-03-10**|null|
+|**2025-03-10**|**Complete the Cycle: Reachability Types with Expressive Cyclic References**|Haotian Deng et.al.|[2503.07328v1](http://arxiv.org/abs/2503.07328v1)|**2025-03-10**|null|
+|**2025-03-10**|**Dynamic Path Navigation for Motion Agents with LLM Reasoning**|Yubo Zhao et.al.|[2503.07323v1](http://arxiv.org/abs/2503.07323v1)|**2025-03-10**|null|
+|**2025-03-10**|**Human Machine Co-Adaptation Model and Its Convergence Analysis**|Steven W. Su et.al.|[2503.07319v1](http://arxiv.org/abs/2503.07319v1)|**2025-03-10**|null|
+|**2025-03-10**|**Data-Driven Calibration Technique for Quantitative Inversion**|Zacharie Idriss et.al.|[2503.07316v1](http://arxiv.org/abs/2503.07316v1)|**2025-03-10**|null|
+|**2025-03-10**|**The influence of missing data mechanisms and simple missing data handling techniques on fairness**|Aeysha Bhatti et.al.|[2503.07313v1](http://arxiv.org/abs/2503.07313v1)|**2025-03-10**|null|

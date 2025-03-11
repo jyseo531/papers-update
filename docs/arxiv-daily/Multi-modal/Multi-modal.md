@@ -2,9 +2,6 @@
 ### Multi-modal
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-10**|**Robusto-1 Dataset: Comparing Humans and VLMs on real out-of-distribution Autonomous Driving VQA from Peru**|Dunant Cusipuma et.al.|[2503.07587v1](http://arxiv.org/abs/2503.07587v1)|**2025-03-10**|null|
-|**2025-03-10**|**LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL**|Yingzhe Peng et.al.|[2503.07536v1](http://arxiv.org/abs/2503.07536v1)|**2025-03-10**|null|
-|**2025-03-10**|**Destination Calculus: A Linear λ-Calculus for Purely Functional Memory Writes**|Thomas Bagrel et.al.|[2503.07489v1](http://arxiv.org/abs/2503.07489v1)|**2025-03-10**|null|
 |**2025-03-10**|**LLaVA-RadZ: Can Multimodal Large Language Models Effectively Tackle Zero-shot Radiology Recognition?**|Bangyan Li et.al.|[2503.07487v1](http://arxiv.org/abs/2503.07487v1)|**2025-03-10**|null|
 |**2025-03-10**|**Anatomy-Aware Conditional Image-Text Retrieval**|Meng Zheng et.al.|[2503.07456v1](http://arxiv.org/abs/2503.07456v1)|**2025-03-10**|null|
 |**2025-03-10**|**Open-Set Gait Recognition from Sparse mmWave Radar Point Clouds**|Riccardo Mazzieri et.al.|[2503.07435v1](http://arxiv.org/abs/2503.07435v1)|**2025-03-10**|null|
@@ -32,3 +29,6 @@
 |**2025-03-10**|**Griffin: Aerial-Ground Cooperative Detection and Tracking Dataset and Benchmark**|Jiahao Wang et.al.|[2503.06983v1](http://arxiv.org/abs/2503.06983v1)|**2025-03-10**|null|
 |**2025-03-10**|**Exploring Multimodal Perception in Large Language Models Through Perceptual Strength Ratings**|Jonghyun Lee et.al.|[2503.06980v1](http://arxiv.org/abs/2503.06980v1)|**2025-03-10**|null|
 |**2025-03-10**|**Asymmetric Visual Semantic Embedding Framework for Efficient Vision-Language Alignment**|Yang Liu et.al.|[2503.06974v1](http://arxiv.org/abs/2503.06974v1)|**2025-03-10**|null|
+|**2025-03-10**|**Motion Anything: Any to Motion Generation**|Zeyu Zhang et.al.|[2503.06955v1](http://arxiv.org/abs/2503.06955v1)|**2025-03-10**|[link](https://github.com/steve-zeyu-zhang/MotionAnything)|
+|**2025-03-10**|**Large Language Model Guided Progressive Feature Alignment for Multimodal UAV Object Detection**|Wentao Wu et.al.|[2503.06948v1](http://arxiv.org/abs/2503.06948v1)|**2025-03-10**|null|
+|**2025-03-10**|**Dynamic Cross-Modal Feature Interaction Network for Hyperspectral and LiDAR Data Classification**|Junyan Lin et.al.|[2503.06945v1](http://arxiv.org/abs/2503.06945v1)|**2025-03-10**|null|
