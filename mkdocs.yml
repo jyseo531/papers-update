@@ -42,7 +42,7 @@
 #     provider: google
 #     # property: UA-145083103-1
 
-site_name: arxiv-daily
+site_name: kuaicv
 theme:
   name: material
   custom_dir: overrides
