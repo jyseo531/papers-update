@@ -2,6 +2,20 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413v1](http://arxiv.org/abs/2503.07413v1)|**2025-03-10**|[link](https://github.com/MacavityT/REF-VLM)|
+|**2025-03-10**|**Fully Unsupervised Annotation of C. Elegans**|Christoph Karg et.al.|[2503.07348v1](http://arxiv.org/abs/2503.07348v1)|**2025-03-10**|null|
+|**2025-03-10**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347v1](http://arxiv.org/abs/2503.07347v1)|**2025-03-10**|null|
+|**2025-03-10**|**Find your Needle: Small Object Image Retrieval via Multi-Object Attention Optimization**|Mihcael Green et.al.|[2503.07038v1](http://arxiv.org/abs/2503.07038v1)|**2025-03-10**|null|
+|**2025-03-10**|**Correlated vibration-solvent and Duschinsky effects on optical spectroscopy**|Zi-Fan Zhu et.al.|[2503.06876v1](http://arxiv.org/abs/2503.06876v1)|**2025-03-10**|null|
+|**2025-03-09**|**StructVPR++: Distill Structural and Semantic Knowledge with Weighting Samples for Visual Place Recognition**|Yanqing Shen et.al.|[2503.06601v1](http://arxiv.org/abs/2503.06601v1)|**2025-03-09**|null|
+|**2025-03-09**|**Hierarchical Multi-Objective Optimization for Precise Performance Design of Closed-Chain Legged Mechanisms**|Long Guo et.al.|[2503.06533v1](http://arxiv.org/abs/2503.06533v1)|**2025-03-09**|null|
+|**2025-03-09**|**TextInPlace: Indoor Visual Place Recognition in Repetitive Structures with Scene Text Spotting and Verification**|Huaqi Tao et.al.|[2503.06501v1](http://arxiv.org/abs/2503.06501v1)|**2025-03-09**|null|
+|**2025-03-08**|**Pretraining Generative Flow Networks with Inexpensive Rewards for Molecular Graph Generation**|Mohit Pandey et.al.|[2503.06337v1](http://arxiv.org/abs/2503.06337v1)|**2025-03-08**|null|
+|**2025-03-08**|**NeuraLoc: Visual Localization in Neural Implicit Map with Dual Complementary Features**|Hongjia Zhai et.al.|[2503.06117v1](http://arxiv.org/abs/2503.06117v1)|**2025-03-08**|null|
+|**2025-03-08**|**ReJSHand: Efficient Real-Time Hand Pose Estimation and Mesh Reconstruction Using Refined Joint and Skeleton Features**|Shan An et.al.|[2503.05995v1](http://arxiv.org/abs/2503.05995v1)|**2025-03-08**|null|
+|**2025-03-07**|**Molecular representations of quantum circuits for quantum machine learning**|Elham Torabian et.al.|[2503.05955v1](http://arxiv.org/abs/2503.05955v1)|**2025-03-07**|null|
+|**2025-03-07**|**Differentiable Rendering-based Pose Estimation for Surgical Robotic Instruments**|Zekai Liang et.al.|[2503.05953v1](http://arxiv.org/abs/2503.05953v1)|**2025-03-07**|null|
+|**2025-03-07**|**Audio-to-Image Encoding for Improved Voice Characteristic Detection Using Deep Convolutional Neural Networks**|Youness Atif et.al.|[2503.05929v1](http://arxiv.org/abs/2503.05929v1)|**2025-03-07**|null|
 |**2025-03-07**|**Automatic determination of quasicrystalline patterns from microscopy images**|Tano Kim Kender et.al.|[2503.05472v1](http://arxiv.org/abs/2503.05472v1)|**2025-03-07**|null|
 |**2025-03-07**|**EDM: Efficient Deep Feature Matching**|Xi Li et.al.|[2503.05122v1](http://arxiv.org/abs/2503.05122v1)|**2025-03-07**|null|
 |**2025-03-06**|**Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**|Benjamin Billot et.al.|[2503.04499v2](http://arxiv.org/abs/2503.04499v2)|**2025-03-07**|null|
@@ -17,18 +31,4 @@
 |**2025-03-04**|**A Novel Streamline-based diffusion MRI Tractography Registration Method with Probabilistic Keypoint Detection**|Junyi Wang et.al.|[2503.02481v1](http://arxiv.org/abs/2503.02481v1)|**2025-03-04**|null|
 |**2025-03-04**|**A Transformer-Based Framework for Greek Sign Language Production using Extended Skeletal Motion Representations**|Chrysa Pratikaki et.al.|[2503.02421v1](http://arxiv.org/abs/2503.02421v1)|**2025-03-04**|null|
 |**2025-03-04**|**Electronic structures of crystalline and amorphous GeSe and GeSbTe compounds using machine learning empirical pseudopotentials**|Sungmo Kang et.al.|[2503.02404v1](http://arxiv.org/abs/2503.02404v1)|**2025-03-04**|null|
-|**2025-03-03**|**Denoising Functional Maps: Diffusion Models for Shape Correspondence**|Aleksei Zhuravlev et.al.|[2503.01845v1](http://arxiv.org/abs/2503.01845v1)|**2025-03-03**|null|
-|**2025-03-03**|**Robust Palm-Vein Recognition Using the MMD Filter: Improving SIFT-Based Feature Matching**|Kaveen Perera et.al.|[2503.01612v1](http://arxiv.org/abs/2503.01612v1)|**2025-03-03**|null|
-|**2025-03-03**|**MLINE-VINS: Robust Monocular Visual-Inertial SLAM With Flow Manhattan and Line Features**|Chao Ye et.al.|[2503.01571v1](http://arxiv.org/abs/2503.01571v1)|**2025-03-03**|[link](https://github.com/lihaoy-ux/mline-vins)|
-|**2025-03-03**|**Pre-training Graph Neural Networks with Structural Fingerprints for Materials Discovery**|Shuyi Jia et.al.|[2503.01227v1](http://arxiv.org/abs/2503.01227v1)|**2025-03-03**|null|
-|**2025-03-03**|**Derivation of Hierarchically Correlated Orbital Functional Theory: The Role of Hypercomplex Orbitals**|Ting Zhang et.al.|[2503.01207v1](http://arxiv.org/abs/2503.01207v1)|**2025-03-03**|null|
-|**2025-03-03**|**AirRoom: Objects Matter in Room Reidentification**|Runmao Yao et.al.|[2503.01130v1](http://arxiv.org/abs/2503.01130v1)|**2025-03-03**|null|
-|**2025-03-03**|**One-Shot Affordance Grounding of Deformable Objects in Egocentric Organizing Scenes**|Wanjun Jia et.al.|[2503.01092v1](http://arxiv.org/abs/2503.01092v1)|**2025-03-03**|[link](https://github.com/dikay1/os-agdo)|
-|**2025-03-02**|**STAR-Edge: Structure-aware Local Spherical Curve Representation for Thin-walled Edge Extraction from Unstructured Point Clouds**|Zikuan Li et.al.|[2503.00801v1](http://arxiv.org/abs/2503.00801v1)|**2025-03-02**|[link](https://github.com/Miraclelzk/STAR-Edge)|
-|**2025-03-02**|**Multi-Cali Anything: Dense Feature Multi-Frame Structure-from-Motion for Large-Scale Camera Array Calibration**|Jinjiang You et.al.|[2503.00737v1](http://arxiv.org/abs/2503.00737v1)|**2025-03-02**|[link](https://github.com/yjjfish/multi-cali-anything)|
-|**2025-03-02**|**One-Shot Gesture Recognition for Underwater Diver-To-Robot Communication**|Rishikesh Joshi et.al.|[2503.00676v1](http://arxiv.org/abs/2503.00676v1)|**2025-03-02**|null|
-|**2025-03-01**|**Autonomous Dissection in Robotic Cholecystectomy**|Ki-Hwan Oh et.al.|[2503.00666v1](http://arxiv.org/abs/2503.00666v1)|**2025-03-01**|null|
-|**2025-02-28**|**ProDapt: Proprioceptive Adaptation using Long-term Memory Diffusion**|Federico Pizarro Bejarano et.al.|[2503.00193v1](http://arxiv.org/abs/2503.00193v1)|**2025-02-28**|[link](https://github.com/federico-pizarrobejarano/prodapt)|
-|**2025-02-28**|**CNSv2: Probabilistic Correspondence Encoded Neural Image Servo**|Anzhe Chen et.al.|[2503.00132v1](http://arxiv.org/abs/2503.00132v1)|**2025-02-28**|null|
-|**2025-02-28**|**ReConForM : Real-time Contact-aware Motion Retargeting for more Diverse Character Morphologies**|Théo Cheynel et.al.|[2502.21207v1](http://arxiv.org/abs/2502.21207v1)|**2025-02-28**|null|
-|**2025-02-28**|**Fast 3D point clouds retrieval for Large-scale 3D Place Recognition**|Chahine-Nicolas Zede et.al.|[2502.21067v1](http://arxiv.org/abs/2502.21067v1)|**2025-02-28**|null|
+|**2025-03-03**|**Illuminant and light direction estimation using Wasserstein distance method**|Selcuk Yazar et.al.|[2503.05802v1](http://arxiv.org/abs/2503.05802v1)|**2025-03-03**|null|

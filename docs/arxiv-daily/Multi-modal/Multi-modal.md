@@ -2,33 +2,33 @@
 ### Multi-modal
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-07**|**FMT:A Multimodal Pneumonia Detection Model Based on Stacking MOE Framework**|Jingyu Xu et.al.|[2503.05626v1](http://arxiv.org/abs/2503.05626v1)|**2025-03-07**|null|
-|**2025-03-07**|**Mol-CADiff: Causality-Aware Autoregressive Diffusion for Molecule Generation**|Md Atik Ahamed et.al.|[2503.05499v1](http://arxiv.org/abs/2503.05499v1)|**2025-03-07**|null|
-|**2025-03-07**|**R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning**|Jiaxing Zhao et.al.|[2503.05379v2](http://arxiv.org/abs/2503.05379v2)|**2025-03-10**|null|
-|**2025-03-07**|**New multimodal similarity measure for image registration via modeling local functional dependence with linear combination of learned basis functions**|Joel Honkamaa et.al.|[2503.05335v1](http://arxiv.org/abs/2503.05335v1)|**2025-03-07**|null|
-|**2025-03-07**|**Robust Multimodal Learning for Ophthalmic Disease Grading via Disentangled Representation**|Xinkun Wang et.al.|[2503.05319v1](http://arxiv.org/abs/2503.05319v1)|**2025-03-07**|null|
-|**2025-03-07**|**Frequency Autoregressive Image Generation with Continuous Tokens**|Hu Yu et.al.|[2503.05305v1](http://arxiv.org/abs/2503.05305v1)|**2025-03-07**|null|
-|**2025-03-07**|**Escaping Plato's Cave: Towards the Alignment of 3D and Text Latent Spaces**|Souhail Hadgi et.al.|[2503.05283v1](http://arxiv.org/abs/2503.05283v1)|**2025-03-07**|null|
-|**2025-03-07**|**Evidential Uncertainty Estimation for Multi-Modal Trajectory Prediction**|Sajad Marvi et.al.|[2503.05274v1](http://arxiv.org/abs/2503.05274v1)|**2025-03-07**|null|
-|**2025-03-07**|**CMMCoT: Enhancing Complex Multi-Image Comprehension via Multi-Modal Chain-of-Thought and Memory Augmentation**|Guanghao Zhang et.al.|[2503.05255v1](http://arxiv.org/abs/2503.05255v1)|**2025-03-07**|null|
-|**2025-03-07**|**MM-StoryAgent: Immersive Narrated Storybook Video Generation with a Multi-Agent Paradigm across Text, Image and Audio**|Xuenan Xu et.al.|[2503.05242v1](http://arxiv.org/abs/2503.05242v1)|**2025-03-07**|null|
-|**2025-03-07**|**Data-Efficient Generalization for Zero-shot Composed Image Retrieval**|Zining Chen et.al.|[2503.05204v1](http://arxiv.org/abs/2503.05204v1)|**2025-03-07**|null|
-|**2025-03-07**|**Partially Supervised Unpaired Multi-Modal Learning for Label-Efficient Medical Image Segmentation**|Lei Zhu et.al.|[2503.05190v1](http://arxiv.org/abs/2503.05190v1)|**2025-03-07**|null|
-|**2025-03-07**|**Narrating the Video: Boosting Text-Video Retrieval via Comprehensive Utilization of Frame-Level Captions**|Chan hur et.al.|[2503.05186v1](http://arxiv.org/abs/2503.05186v1)|**2025-03-07**|null|
-|**2025-03-07**|**FinTMMBench: Benchmarking Temporal-Aware Multi-Modal RAG in Finance**|Fengbin Zhu et.al.|[2503.05185v1](http://arxiv.org/abs/2503.05185v1)|**2025-03-07**|null|
-|**2025-03-07**|**GaussianCAD: Robust Self-Supervised CAD Reconstruction from Three Orthographic Views Using 3D Gaussian Splatting**|Zheng Zhou et.al.|[2503.05161v1](http://arxiv.org/abs/2503.05161v1)|**2025-03-07**|null|
-|**2025-03-07**|**Adaptive-LIO: Enhancing Robustness and Precision through Environmental Adaptation in LiDAR Inertial Odometry**|Chengwei Zhao et.al.|[2503.05077v1](http://arxiv.org/abs/2503.05077v1)|**2025-03-07**|null|
-|**2025-03-06**|**Enhancing Video Music Recommendation with Transformer-Driven Audio-Visual Embeddings**|Shimiao Liu et.al.|[2503.05008v1](http://arxiv.org/abs/2503.05008v1)|**2025-03-06**|null|
-|**2025-03-06**|**LVLM-Compress-Bench: Benchmarking the Broader Impact of Large Vision-Language Model Compression**|Souvik Kundu et.al.|[2503.04982v1](http://arxiv.org/abs/2503.04982v1)|**2025-03-06**|null|
-|**2025-03-06**|**HyDA: Hypernetworks for Test Time Domain Adaptation in Medical Imaging Analysis**|Doron Serebro et.al.|[2503.04979v1](http://arxiv.org/abs/2503.04979v1)|**2025-03-06**|null|
-|**2025-03-06**|**Incentivizing Multi-Tenant Split Federated Learning for Foundation Models at the Network Edge**|Songyuan Li et.al.|[2503.04971v1](http://arxiv.org/abs/2503.04971v1)|**2025-03-06**|null|
-|**2025-03-06**|**INTENT: Trajectory Prediction Framework with Intention-Guided Contrastive Clustering**|Yihong Tang et.al.|[2503.04952v1](http://arxiv.org/abs/2503.04952v1)|**2025-03-06**|null|
-|**2025-03-06**|**MarsLGPR: Mars Rover Localization with Ground Penetrating Radar**|Anja Sheppard et.al.|[2503.04944v1](http://arxiv.org/abs/2503.04944v1)|**2025-03-06**|null|
-|**2025-03-06**|**Iris Style Transfer: Enhancing Iris Recognition with Style Features and Privacy Preservation through Neural Style Transfer**|Mengdi Wang et.al.|[2503.04707v1](http://arxiv.org/abs/2503.04707v1)|**2025-03-06**|null|
-|**2025-03-06**|**Adaptive Prototype Learning for Multimodal Cancer Survival Analysis**|Hong Liu et.al.|[2503.04643v1](http://arxiv.org/abs/2503.04643v1)|**2025-03-06**|null|
-|**2025-03-06**|**Simulating the Real World: A Unified Survey of Multimodal Generative Models**|Yuqi Hu et.al.|[2503.04641v1](http://arxiv.org/abs/2503.04641v1)|**2025-03-06**|null|
-|**2025-03-06**|**Enhancing SAM with Efficient Prompting and Preference Optimization for Semi-supervised Medical Image Segmentation**|Aishik Konwer et.al.|[2503.04639v1](http://arxiv.org/abs/2503.04639v1)|**2025-03-06**|null|
-|**2025-03-06**|**Meshless Super-Resolution of Scattered Data via constrained RBFs and KNN-Driven Densification**|Iacopo Tirelli et.al.|[2503.04630v1](http://arxiv.org/abs/2503.04630v1)|**2025-03-06**|null|
-|**2025-03-06**|**Physical, Empirical, and Conditional Inductive Possibility**|Balazs Gyenis et.al.|[2503.04601v1](http://arxiv.org/abs/2503.04601v1)|**2025-03-06**|null|
-|**2025-03-06**|**A Benchmark for Multi-Lingual Vision-Language Learning in Remote Sensing Image Captioning**|Qing Zhou et.al.|[2503.04592v1](http://arxiv.org/abs/2503.04592v1)|**2025-03-06**|null|
-|**2025-03-06**|**Leveraging Large Language Models to Address Data Scarcity in Machine Learning: Applications in Graphene Synthesis**|Devi Dutta Biswajeet et.al.|[2503.04870v1](http://arxiv.org/abs/2503.04870v1)|**2025-03-06**|null|
+|**2025-03-10**|**Robusto-1 Dataset: Comparing Humans and VLMs on real out-of-distribution Autonomous Driving VQA from Peru**|Dunant Cusipuma et.al.|[2503.07587v1](http://arxiv.org/abs/2503.07587v1)|**2025-03-10**|null|
+|**2025-03-10**|**LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL**|Yingzhe Peng et.al.|[2503.07536v1](http://arxiv.org/abs/2503.07536v1)|**2025-03-10**|null|
+|**2025-03-10**|**Destination Calculus: A Linear λ-Calculus for Purely Functional Memory Writes**|Thomas Bagrel et.al.|[2503.07489v1](http://arxiv.org/abs/2503.07489v1)|**2025-03-10**|null|
+|**2025-03-10**|**LLaVA-RadZ: Can Multimodal Large Language Models Effectively Tackle Zero-shot Radiology Recognition?**|Bangyan Li et.al.|[2503.07487v1](http://arxiv.org/abs/2503.07487v1)|**2025-03-10**|null|
+|**2025-03-10**|**Anatomy-Aware Conditional Image-Text Retrieval**|Meng Zheng et.al.|[2503.07456v1](http://arxiv.org/abs/2503.07456v1)|**2025-03-10**|null|
+|**2025-03-10**|**Open-Set Gait Recognition from Sparse mmWave Radar Point Clouds**|Riccardo Mazzieri et.al.|[2503.07435v1](http://arxiv.org/abs/2503.07435v1)|**2025-03-10**|null|
+|**2025-03-10**|**TimeStep Master: Asymmetrical Mixture of Timestep LoRA Experts for Versatile and Efficient Diffusion Models in Vision**|Shaobin Zhuang et.al.|[2503.07416v1](http://arxiv.org/abs/2503.07416v1)|**2025-03-10**|null|
+|**2025-03-10**|**PersonaBooth: Personalized Text-to-Motion Generation**|Boeun Kim et.al.|[2503.07390v1](http://arxiv.org/abs/2503.07390v1)|**2025-03-10**|null|
+|**2025-03-10**|**Unleashing the Potential of Large Language Models for Text-to-Image Generation through Autoregressive Representation Alignment**|Xing Xie et.al.|[2503.07334v1](http://arxiv.org/abs/2503.07334v1)|**2025-03-10**|null|
+|**2025-03-10**|**Benchmarking Chinese Medical LLMs: A Medbench-based Analysis of Performance Gaps and Hierarchical Optimization Strategies**|Luyi Jiang et.al.|[2503.07306v1](http://arxiv.org/abs/2503.07306v1)|**2025-03-10**|null|
+|**2025-03-10**|**ALLVB: All-in-One Long Video Understanding Benchmark**|Xichen Tan et.al.|[2503.07298v1](http://arxiv.org/abs/2503.07298v1)|**2025-03-10**|null|
+|**2025-03-10**|**Distilling Knowledge into Quantum Vision Transformers for Biomedical Image Classification**|Thomas Boucher et.al.|[2503.07294v1](http://arxiv.org/abs/2503.07294v1)|**2025-03-10**|null|
+|**2025-03-10**|**COMODO: Cross-Modal Video-to-IMU Distillation for Efficient Egocentric Human Activity Recognition**|Baiyu Chen et.al.|[2503.07259v1](http://arxiv.org/abs/2503.07259v1)|**2025-03-10**|[link](https://github.com/Breezelled/COMODO)|
+|**2025-03-10**|**Text-IRSTD: Leveraging Semantic Text to Promote Infrared Small Target Detection in Complex Scenes**|Feng Huang et.al.|[2503.07249v1](http://arxiv.org/abs/2503.07249v1)|**2025-03-10**|null|
+|**2025-03-10**|**A Zero-shot Learning Method Based on Large Language Models for Multi-modal Knowledge Graph Embedding**|Bingchen Liu et.al.|[2503.07202v1](http://arxiv.org/abs/2503.07202v1)|**2025-03-10**|null|
+|**2025-03-10**|**Multi-Modal 3D Mesh Reconstruction from Images and Text**|Melvin Reka et.al.|[2503.07190v1](http://arxiv.org/abs/2503.07190v1)|**2025-03-10**|null|
+|**2025-03-10**|**Ideas in Inference-time Scaling can Benefit Generative Pre-training Algorithms**|Jiaming Song et.al.|[2503.07154v1](http://arxiv.org/abs/2503.07154v1)|**2025-03-10**|null|
+|**2025-03-10**|**Sequential Function-Space Variational Inference via Gaussian Mixture Approximation**|Menghao Waiyan William Zhu et.al.|[2503.07114v1](http://arxiv.org/abs/2503.07114v1)|**2025-03-10**|null|
+|**2025-03-10**|**A Comprehensive Survey on Magnetic Resonance Image Reconstruction**|Xiaoyan Kui et.al.|[2503.07097v1](http://arxiv.org/abs/2503.07097v1)|**2025-03-10**|null|
+|**2025-03-10**|**RS2V-L: Vehicle-Mounted LiDAR Data Generation from Roadside Sensor Observations**|Ruidan Xing et.al.|[2503.07085v1](http://arxiv.org/abs/2503.07085v1)|**2025-03-10**|null|
+|**2025-03-10**|**Linguistic Knowledge Transfer Learning for Speech Enhancement**|Kuo-Hsuan Hung et.al.|[2503.07078v1](http://arxiv.org/abs/2503.07078v1)|**2025-03-10**|null|
+|**2025-03-10**|**XR-VLM: Cross-Relationship Modeling with Multi-part Prompts and Visual Features for Fine-Grained Recognition**|Chuanming Wang et.al.|[2503.07075v1](http://arxiv.org/abs/2503.07075v1)|**2025-03-10**|null|
+|**2025-03-10**|**Recovering Partially Corrupted Major Objects through Tri-modality Based Image Completion**|Yongle Zhang et.al.|[2503.07047v1](http://arxiv.org/abs/2503.07047v1)|**2025-03-10**|null|
+|**2025-03-10**|**Learning a Unified Degradation-aware Representation Model for Multi-modal Image Fusion**|Haolong Ma et.al.|[2503.07033v1](http://arxiv.org/abs/2503.07033v1)|**2025-03-10**|null|
+|**2025-03-10**|**How to Train Your Robots? The Impact of Demonstration Modality on Imitation Learning**|Haozhuo Li et.al.|[2503.07017v1](http://arxiv.org/abs/2503.07017v1)|**2025-03-10**|null|
+|**2025-03-10**|**Vib2Mol: from vibrational spectra to molecular structures-a versatile deep learning model**|Xinyu Lu et.al.|[2503.07014v1](http://arxiv.org/abs/2503.07014v1)|**2025-03-10**|null|
+|**2025-03-10**|**Bridge Frame and Event: Common Spatiotemporal Fusion for High-Dynamic Scene Optical Flow**|Hanyu Zhou et.al.|[2503.06992v1](http://arxiv.org/abs/2503.06992v1)|**2025-03-10**|null|
+|**2025-03-10**|**Griffin: Aerial-Ground Cooperative Detection and Tracking Dataset and Benchmark**|Jiahao Wang et.al.|[2503.06983v1](http://arxiv.org/abs/2503.06983v1)|**2025-03-10**|null|
+|**2025-03-10**|**Exploring Multimodal Perception in Large Language Models Through Perceptual Strength Ratings**|Jonghyun Lee et.al.|[2503.06980v1](http://arxiv.org/abs/2503.06980v1)|**2025-03-10**|null|
+|**2025-03-10**|**Asymmetric Visual Semantic Embedding Framework for Efficient Vision-Language Alignment**|Yang Liu et.al.|[2503.06974v1](http://arxiv.org/abs/2503.06974v1)|**2025-03-10**|null|
