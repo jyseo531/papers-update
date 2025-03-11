@@ -8,7 +8,7 @@
 |**2025-03-07**|**The discovery and characterization of Earth-crossing asteroid 2024 YR$_4$**|Bryce T. Bolin et.al.|[2503.05694v1](http://arxiv.org/abs/2503.05694v1)|**2025-03-07**|null|
 |**2025-03-07**|**Reionization and the Hubble Constant: Correlations in the Cosmic Microwave Background**|Itamar J. Allali et.al.|[2503.05691v1](http://arxiv.org/abs/2503.05691v1)|**2025-03-07**|null|
 |**2025-03-07**|**Epstein curves and holography of the Schwarzian action**|Franco Vargas Pallete et.al.|[2503.05690v1](http://arxiv.org/abs/2503.05690v1)|**2025-03-07**|null|
-|**2025-03-07**|**GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving**|Zebin Xing et.al.|[2503.05689v1](http://arxiv.org/abs/2503.05689v1)|**2025-03-07**|null|
+|**2025-03-07**|**GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving**|Zebin Xing et.al.|[2503.05689v2](http://arxiv.org/abs/2503.05689v2)|**2025-03-10**|null|
 |**2025-03-07**|**Task-oriented Uncertainty Collaborative Learning for Label-Efficient Brain Tumor Segmentation**|Zhenxuan Zhang et.al.|[2503.05682v1](http://arxiv.org/abs/2503.05682v1)|**2025-03-07**|null|
 |**2025-03-07**|**Electric-field sensing with driven-dissipative time crystals in room-temperature Rydberg vapor**|Darmindra Arumugam et.al.|[2503.05677v1](http://arxiv.org/abs/2503.05677v1)|**2025-03-07**|null|
 |**2025-03-07**|**Local unambiguous unidentifiability, entanglement generation, and Hilbert space splitting**|Saronath Halder et.al.|[2503.05673v1](http://arxiv.org/abs/2503.05673v1)|**2025-03-07**|null|

@@ -5,7 +5,7 @@
 |**2025-03-07**|**Multi-Fidelity Policy Gradient Algorithms**|Xinjie Liu et.al.|[2503.05696v1](http://arxiv.org/abs/2503.05696v1)|**2025-03-07**|null|
 |**2025-03-07**|**On Almost Fair and Equitable Allocations of Indivisible Items for Non-monotone Valuations**|Vittorio Bilò et.al.|[2503.05695v1](http://arxiv.org/abs/2503.05695v1)|**2025-03-07**|null|
 |**2025-03-07**|**The discovery and characterization of Earth-crossing asteroid 2024 YR$_4$**|Bryce T. Bolin et.al.|[2503.05694v1](http://arxiv.org/abs/2503.05694v1)|**2025-03-07**|null|
-|**2025-03-07**|**GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving**|Zebin Xing et.al.|[2503.05689v1](http://arxiv.org/abs/2503.05689v1)|**2025-03-07**|null|
+|**2025-03-07**|**GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving**|Zebin Xing et.al.|[2503.05689v2](http://arxiv.org/abs/2503.05689v2)|**2025-03-10**|null|
 |**2025-03-07**|**The latent variable proximal point algorithm for variational problems with inequality constraints**|Jørgen S. Dokken et.al.|[2503.05672v1](http://arxiv.org/abs/2503.05672v1)|**2025-03-07**|null|
 |**2025-03-07**|**On Mitigating Affinity Bias through Bandits with Evolving Biased Feedback**|Matthew Faw et.al.|[2503.05662v1](http://arxiv.org/abs/2503.05662v1)|**2025-03-07**|null|
 |**2025-03-07**|**Topological modes, non-locality and the double copy**|William T. Emond et.al.|[2503.05653v1](http://arxiv.org/abs/2503.05653v1)|**2025-03-07**|null|

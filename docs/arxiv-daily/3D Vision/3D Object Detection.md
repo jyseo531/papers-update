@@ -14,7 +14,7 @@
 |**2025-03-07**|**BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities**|Yunfan Jiang et.al.|[2503.05652v1](http://arxiv.org/abs/2503.05652v1)|**2025-03-07**|null|
 |**2025-03-07**|**Physics-based machine learning framework for predicting NOx emissions from compression ignition engines using on-board diagnostics data**|Harish Panneer Selvam et.al.|[2503.05648v1](http://arxiv.org/abs/2503.05648v1)|**2025-03-07**|null|
 |**2025-03-07**|**BoGrape: Bayesian optimization over graphs with shortest-path encoded**|Yilin Xie et.al.|[2503.05642v1](http://arxiv.org/abs/2503.05642v1)|**2025-03-07**|null|
-|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639v1](http://arxiv.org/abs/2503.05639v1)|**2025-03-07**|null|
+|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639v1](http://arxiv.org/abs/2503.05639v1)|**2025-03-07**|[link](https://github.com/TencentARC/VideoPainter)|
 |**2025-03-07**|**TrajectoryCrafter: Redirecting Camera Trajectory for Monocular Videos via Diffusion Models**|Mark YU et.al.|[2503.05638v1](http://arxiv.org/abs/2503.05638v1)|**2025-03-07**|null|
 |**2025-03-07**|**Joint 3D Point Cloud Segmentation using Real-Sim Loop: From Panels to Trees and Branches**|Tian Qiu et.al.|[2503.05630v1](http://arxiv.org/abs/2503.05630v1)|**2025-03-07**|null|
 |**2025-03-07**|**FMT:A Multimodal Pneumonia Detection Model Based on Stacking MOE Framework**|Jingyu Xu et.al.|[2503.05626v1](http://arxiv.org/abs/2503.05626v1)|**2025-03-07**|null|

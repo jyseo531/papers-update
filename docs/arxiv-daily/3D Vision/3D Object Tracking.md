@@ -12,7 +12,7 @@
 |**2025-03-07**|**dARt Vinci: Egocentric Data Collection for Surgical Robot Learning at Scale**|Yihao Liu et.al.|[2503.05646v1](http://arxiv.org/abs/2503.05646v1)|**2025-03-07**|null|
 |**2025-03-07**|**The Amplitude Modulation Structure of Japanese Infant- and Child-Directed Speech: Longitudinal Data Reveal Universal Acoustic Physical Structures Underpinning Moraic Timing**|Tatsuya Daikoku et.al.|[2503.05645v1](http://arxiv.org/abs/2503.05645v1)|**2025-03-07**|null|
 |**2025-03-07**|**BoGrape: Bayesian optimization over graphs with shortest-path encoded**|Yilin Xie et.al.|[2503.05642v1](http://arxiv.org/abs/2503.05642v1)|**2025-03-07**|null|
-|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639v1](http://arxiv.org/abs/2503.05639v1)|**2025-03-07**|null|
+|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639v1](http://arxiv.org/abs/2503.05639v1)|**2025-03-07**|[link](https://github.com/TencentARC/VideoPainter)|
 |**2025-03-07**|**TrajectoryCrafter: Redirecting Camera Trajectory for Monocular Videos via Diffusion Models**|Mark YU et.al.|[2503.05638v1](http://arxiv.org/abs/2503.05638v1)|**2025-03-07**|null|
 |**2025-03-07**|**Joint 3D Point Cloud Segmentation using Real-Sim Loop: From Panels to Trees and Branches**|Tian Qiu et.al.|[2503.05630v1](http://arxiv.org/abs/2503.05630v1)|**2025-03-07**|null|
 |**2025-03-07**|**Decision-aware training of spatiotemporal forecasting models**|Kyle Heuton et.al.|[2503.05622v1](http://arxiv.org/abs/2503.05622v1)|**2025-03-07**|null|

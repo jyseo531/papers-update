@@ -7,7 +7,7 @@
 |**2025-03-07**|**On Mitigating Affinity Bias through Bandits with Evolving Biased Feedback**|Matthew Faw et.al.|[2503.05662v1](http://arxiv.org/abs/2503.05662v1)|**2025-03-07**|null|
 |**2025-03-07**|**BoGrape: Bayesian optimization over graphs with shortest-path encoded**|Yilin Xie et.al.|[2503.05642v1](http://arxiv.org/abs/2503.05642v1)|**2025-03-07**|null|
 |**2025-03-07**|**Symbolic Mixture-of-Experts: Adaptive Skill-based Routing for Heterogeneous Reasoning**|Justin Chih-Yao Chen et.al.|[2503.05641v1](http://arxiv.org/abs/2503.05641v1)|**2025-03-07**|null|
-|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639v1](http://arxiv.org/abs/2503.05639v1)|**2025-03-07**|null|
+|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639v1](http://arxiv.org/abs/2503.05639v1)|**2025-03-07**|[link](https://github.com/TencentARC/VideoPainter)|
 |**2025-03-07**|**Joint 3D Point Cloud Segmentation using Real-Sim Loop: From Panels to Trees and Branches**|Tian Qiu et.al.|[2503.05630v1](http://arxiv.org/abs/2503.05630v1)|**2025-03-07**|null|
 |**2025-03-07**|**Conformal Prediction for Image Segmentation Using Morphological Prediction Sets**|Luca Mossina et.al.|[2503.05618v1](http://arxiv.org/abs/2503.05618v1)|**2025-03-07**|null|
 |**2025-03-07**|**Time-Optimal $k$-Server**|Fabian Frei et.al.|[2503.05589v1](http://arxiv.org/abs/2503.05589v1)|**2025-03-07**|null|
@@ -15,7 +15,7 @@
 |**2025-03-07**|**TomatoScanner: phenotyping tomato fruit based on only RGB image**|Xiaobei Zhao et.al.|[2503.05568v1](http://arxiv.org/abs/2503.05568v1)|**2025-03-07**|null|
 |**2025-03-07**|**Revitalizing Saturated Benchmarks: A Weighted Metric Approach for Differentiating Large Language Model Performance**|Bryan Etzine et.al.|[2503.05551v1](http://arxiv.org/abs/2503.05551v1)|**2025-03-07**|null|
 |**2025-03-07**|**Disconnect to Connect: A Data Augmentation Method for Improving Topology Accuracy in Image Segmentation**|Juan Miguel Valverde et.al.|[2503.05541v1](http://arxiv.org/abs/2503.05541v1)|**2025-03-07**|null|
-|**2025-03-07**|**Accelerating db-A$^\textbf{*}$ for Kinodynamic Motion Planning Using Diffusion**|Julius Franke et.al.|[2503.05539v1](http://arxiv.org/abs/2503.05539v1)|**2025-03-07**|null|
+|**2025-03-07**|**Accelerating db-A* for Kinodynamic Motion Planning Using Diffusion**|Julius Franke et.al.|[2503.05539v2](http://arxiv.org/abs/2503.05539v2)|**2025-03-10**|null|
 |**2025-03-07**|**S4M: Segment Anything with 4 Extreme Points**|Adrien Meyer et.al.|[2503.05534v1](http://arxiv.org/abs/2503.05534v1)|**2025-03-07**|null|
 |**2025-03-07**|**State-of-the-Art Stroke Lesion Segmentation at 1/1000th of Parameters**|Alex Fedorov et.al.|[2503.05531v1](http://arxiv.org/abs/2503.05531v1)|**2025-03-07**|null|
 |**2025-03-07**|**Linear-MoE: Linear Sequence Modeling Meets Mixture-of-Experts**|Weigao Sun et.al.|[2503.05447v1](http://arxiv.org/abs/2503.05447v1)|**2025-03-07**|null|

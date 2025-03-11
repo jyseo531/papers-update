@@ -12,7 +12,7 @@
 |**2025-03-07**|**Dynamics of disordered quantum systems with two- and three-dimensional tensor networks**|Joseph Tindall et.al.|[2503.05693v1](http://arxiv.org/abs/2503.05693v1)|**2025-03-07**|null|
 |**2025-03-07**|**Reionization and the Hubble Constant: Correlations in the Cosmic Microwave Background**|Itamar J. Allali et.al.|[2503.05691v1](http://arxiv.org/abs/2503.05691v1)|**2025-03-07**|null|
 |**2025-03-07**|**Epstein curves and holography of the Schwarzian action**|Franco Vargas Pallete et.al.|[2503.05690v1](http://arxiv.org/abs/2503.05690v1)|**2025-03-07**|null|
-|**2025-03-07**|**GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving**|Zebin Xing et.al.|[2503.05689v1](http://arxiv.org/abs/2503.05689v1)|**2025-03-07**|null|
+|**2025-03-07**|**GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving**|Zebin Xing et.al.|[2503.05689v2](http://arxiv.org/abs/2503.05689v2)|**2025-03-10**|null|
 |**2025-03-07**|**Boundary stratifications of Hurwitz spaces**|Darragh Glynn et.al.|[2503.05688v1](http://arxiv.org/abs/2503.05688v1)|**2025-03-07**|null|
 |**2025-03-07**|**Quantum gas microscopy of three-flavor Hubbard systems**|Jirayu Mongkolkiattichai et.al.|[2503.05687v1](http://arxiv.org/abs/2503.05687v1)|**2025-03-07**|null|
 |**2025-03-07**|**First order non-instantaneous corrections in collisional kinetic alignment models**|Laura Kanzler et.al.|[2503.05686v1](http://arxiv.org/abs/2503.05686v1)|**2025-03-07**|null|

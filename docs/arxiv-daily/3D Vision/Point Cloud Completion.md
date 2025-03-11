@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-07**|**Quantum State Designs from Minimally Random Quantum Circuits**|Jonathon Riddell et.al.|[2503.05698v1](http://arxiv.org/abs/2503.05698v1)|**2025-03-07**|null|
 |**2025-03-07**|**On Almost Fair and Equitable Allocations of Indivisible Items for Non-monotone Valuations**|Vittorio Bilò et.al.|[2503.05695v1](http://arxiv.org/abs/2503.05695v1)|**2025-03-07**|null|
-|**2025-03-07**|**GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving**|Zebin Xing et.al.|[2503.05689v1](http://arxiv.org/abs/2503.05689v1)|**2025-03-07**|null|
+|**2025-03-07**|**GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving**|Zebin Xing et.al.|[2503.05689v2](http://arxiv.org/abs/2503.05689v2)|**2025-03-10**|null|
 |**2025-03-07**|**Understanding the Limits of Lifelong Knowledge Editing in LLMs**|Lukas Thede et.al.|[2503.05683v1](http://arxiv.org/abs/2503.05683v1)|**2025-03-07**|null|
 |**2025-03-07**|**Local unambiguous unidentifiability, entanglement generation, and Hilbert space splitting**|Saronath Halder et.al.|[2503.05673v1](http://arxiv.org/abs/2503.05673v1)|**2025-03-07**|null|
 |**2025-03-07**|**The latent variable proximal point algorithm for variational problems with inequality constraints**|Jørgen S. Dokken et.al.|[2503.05672v1](http://arxiv.org/abs/2503.05672v1)|**2025-03-07**|null|

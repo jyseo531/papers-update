@@ -7,7 +7,7 @@
 |**2025-03-07**|**Multi-Fidelity Policy Gradient Algorithms**|Xinjie Liu et.al.|[2503.05696v1](http://arxiv.org/abs/2503.05696v1)|**2025-03-07**|null|
 |**2025-03-07**|**The discovery and characterization of Earth-crossing asteroid 2024 YR$_4$**|Bryce T. Bolin et.al.|[2503.05694v1](http://arxiv.org/abs/2503.05694v1)|**2025-03-07**|null|
 |**2025-03-07**|**Reionization and the Hubble Constant: Correlations in the Cosmic Microwave Background**|Itamar J. Allali et.al.|[2503.05691v1](http://arxiv.org/abs/2503.05691v1)|**2025-03-07**|null|
-|**2025-03-07**|**GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving**|Zebin Xing et.al.|[2503.05689v1](http://arxiv.org/abs/2503.05689v1)|**2025-03-07**|null|
+|**2025-03-07**|**GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving**|Zebin Xing et.al.|[2503.05689v2](http://arxiv.org/abs/2503.05689v2)|**2025-03-10**|null|
 |**2025-03-07**|**Quantum gas microscopy of three-flavor Hubbard systems**|Jirayu Mongkolkiattichai et.al.|[2503.05687v1](http://arxiv.org/abs/2503.05687v1)|**2025-03-07**|null|
 |**2025-03-07**|**First order non-instantaneous corrections in collisional kinetic alignment models**|Laura Kanzler et.al.|[2503.05686v1](http://arxiv.org/abs/2503.05686v1)|**2025-03-07**|null|
 |**2025-03-07**|**Fairness-Aware Low-Rank Adaptation Under Demographic Privacy Constraints**|Parameswaran Kamalaruban et.al.|[2503.05684v1](http://arxiv.org/abs/2503.05684v1)|**2025-03-07**|null|
@@ -30,5 +30,5 @@
 |**2025-03-07**|**The Amplitude Modulation Structure of Japanese Infant- and Child-Directed Speech: Longitudinal Data Reveal Universal Acoustic Physical Structures Underpinning Moraic Timing**|Tatsuya Daikoku et.al.|[2503.05645v1](http://arxiv.org/abs/2503.05645v1)|**2025-03-07**|null|
 |**2025-03-07**|**Symbolic Mixture-of-Experts: Adaptive Skill-based Routing for Heterogeneous Reasoning**|Justin Chih-Yao Chen et.al.|[2503.05641v1](http://arxiv.org/abs/2503.05641v1)|**2025-03-07**|null|
 |**2025-03-07**|**A high-throughput ab initio study of elemental segregation and cohesion at ferritic-iron grain boundaries**|Han Lin Mai et.al.|[2503.05640v1](http://arxiv.org/abs/2503.05640v1)|**2025-03-07**|null|
-|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639v1](http://arxiv.org/abs/2503.05639v1)|**2025-03-07**|null|
+|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639v1](http://arxiv.org/abs/2503.05639v1)|**2025-03-07**|[link](https://github.com/TencentARC/VideoPainter)|
 |**2025-03-07**|**TrajectoryCrafter: Redirecting Camera Trajectory for Monocular Videos via Diffusion Models**|Mark YU et.al.|[2503.05638v1](http://arxiv.org/abs/2503.05638v1)|**2025-03-07**|null|

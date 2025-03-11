@@ -14,7 +14,7 @@
 |**2025-03-07**|**InDRiVE: Intrinsic Disagreement based Reinforcement for Vehicle Exploration through Curiosity Driven Generalized World Model**|Feeza Khan Khanzada et.al.|[2503.05573v1](http://arxiv.org/abs/2503.05573v1)|**2025-03-07**|null|
 |**2025-03-07**|**A-SEE2.0: Active-Sensing End-Effector for Robotic Ultrasound Systems with Dense Contact Surface Perception Enabled Probe Orientation Adjustment**|Yernar Zhetpissov et.al.|[2503.05569v1](http://arxiv.org/abs/2503.05569v1)|**2025-03-07**|null|
 |**2025-03-07**|**Riemann$^2$: Learning Riemannian Submanifolds from Riemannian Data**|Leonel Rozo et.al.|[2503.05540v1](http://arxiv.org/abs/2503.05540v1)|**2025-03-07**|null|
-|**2025-03-07**|**Accelerating db-A$^\textbf{*}$ for Kinodynamic Motion Planning Using Diffusion**|Julius Franke et.al.|[2503.05539v1](http://arxiv.org/abs/2503.05539v1)|**2025-03-07**|null|
+|**2025-03-07**|**Accelerating db-A* for Kinodynamic Motion Planning Using Diffusion**|Julius Franke et.al.|[2503.05539v2](http://arxiv.org/abs/2503.05539v2)|**2025-03-10**|null|
 |**2025-03-07**|**Design, Dynamic Modeling and Control of a 2-DOF Robotic Wrist Actuated by Twisted and Coiled Actuators**|Yunsong Zhang et.al.|[2503.05508v1](http://arxiv.org/abs/2503.05508v1)|**2025-03-07**|null|
 |**2025-03-07**|**Adaptive Neural Unscented Kalman Filter**|Amit Levy et.al.|[2503.05490v1](http://arxiv.org/abs/2503.05490v1)|**2025-03-07**|null|
 |**2025-03-07**|**DecoupledGaussian: Object-Scene Decoupling for Physics-Based Interaction**|Miaowei Wang et.al.|[2503.05484v1](http://arxiv.org/abs/2503.05484v1)|**2025-03-07**|null|

@@ -5,12 +5,12 @@
 |**2025-03-07**|**The latent variable proximal point algorithm for variational problems with inequality constraints**|Jørgen S. Dokken et.al.|[2503.05672v1](http://arxiv.org/abs/2503.05672v1)|**2025-03-07**|null|
 |**2025-03-07**|**A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval**|Yu Zhang et.al.|[2503.05659v1](http://arxiv.org/abs/2503.05659v1)|**2025-03-07**|null|
 |**2025-03-07**|**TrajectoryCrafter: Redirecting Camera Trajectory for Monocular Videos via Diffusion Models**|Mark YU et.al.|[2503.05638v1](http://arxiv.org/abs/2503.05638v1)|**2025-03-07**|null|
-|**2025-03-07**|**Strategy Coopetition Explains the Emergence and Transience of In-Context Learning**|Aaditya K. Singh et.al.|[2503.05631v1](http://arxiv.org/abs/2503.05631v1)|**2025-03-07**|null|
+|**2025-03-07**|**Strategy Coopetition Explains the Emergence and Transience of In-Context Learning**|Aaditya K. Singh et.al.|[2503.05631v2](http://arxiv.org/abs/2503.05631v2)|**2025-03-10**|null|
 |**2025-03-07**|**Superintelligence Strategy: Expert Version**|Dan Hendrycks et.al.|[2503.05628v1](http://arxiv.org/abs/2503.05628v1)|**2025-03-07**|null|
 |**2025-03-07**|**FMT:A Multimodal Pneumonia Detection Model Based on Stacking MOE Framework**|Jingyu Xu et.al.|[2503.05626v1](http://arxiv.org/abs/2503.05626v1)|**2025-03-07**|null|
 |**2025-03-07**|**Bridging Classical and Quantum String Matching: A Computational Reformulation of Bit-Parallelism**|Simone Faro et.al.|[2503.05596v1](http://arxiv.org/abs/2503.05596v1)|**2025-03-07**|null|
 |**2025-03-07**|**MPTSNet: Integrating Multiscale Periodic Local Patterns and Global Dependencies for Multivariate Time Series Classification**|Yang Mu et.al.|[2503.05582v1](http://arxiv.org/abs/2503.05582v1)|**2025-03-07**|null|
-|**2025-03-07**|**Comparing regularisation paths of (conjugate) gradient estimators in ridge regression**|Laura Hucker et.al.|[2503.05542v1](http://arxiv.org/abs/2503.05542v1)|**2025-03-07**|null|
+|**2025-03-07**|**Comparing regularisation paths of (conjugate) gradient estimators in ridge regression**|Laura Hucker et.al.|[2503.05542v2](http://arxiv.org/abs/2503.05542v2)|**2025-03-10**|null|
 |**2025-03-07**|**Complete Characterization of Statistical Constraints in Local Realism and Quantum Mechanics via a Unified Geometric Framework**|Ryosuke Nogami et.al.|[2503.05523v1](http://arxiv.org/abs/2503.05523v1)|**2025-03-07**|null|
 |**2025-03-07**|**FastMap: Fast Queries Initialization Based Vectorized HD Map Reconstruction Framework**|Haotian Hu et.al.|[2503.05492v1](http://arxiv.org/abs/2503.05492v1)|**2025-03-07**|null|
 |**2025-03-07**|**KIEval: Evaluation Metric for Document Key Information Extraction**|Minsoo Khang et.al.|[2503.05488v1](http://arxiv.org/abs/2503.05488v1)|**2025-03-07**|null|

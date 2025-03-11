@@ -16,10 +16,10 @@
 |**2025-03-07**|**Physics-based machine learning framework for predicting NOx emissions from compression ignition engines using on-board diagnostics data**|Harish Panneer Selvam et.al.|[2503.05648v1](http://arxiv.org/abs/2503.05648v1)|**2025-03-07**|null|
 |**2025-03-07**|**dARt Vinci: Egocentric Data Collection for Surgical Robot Learning at Scale**|Yihao Liu et.al.|[2503.05646v1](http://arxiv.org/abs/2503.05646v1)|**2025-03-07**|null|
 |**2025-03-07**|**Symbolic Mixture-of-Experts: Adaptive Skill-based Routing for Heterogeneous Reasoning**|Justin Chih-Yao Chen et.al.|[2503.05641v1](http://arxiv.org/abs/2503.05641v1)|**2025-03-07**|null|
-|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639v1](http://arxiv.org/abs/2503.05639v1)|**2025-03-07**|null|
+|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639v1](http://arxiv.org/abs/2503.05639v1)|**2025-03-07**|[link](https://github.com/TencentARC/VideoPainter)|
 |**2025-03-07**|**Distributional Convergence of the Empirical Laplacians with Integral Kernels on Domains with Boundaries**|Bernard Akwei et.al.|[2503.05633v1](http://arxiv.org/abs/2503.05633v1)|**2025-03-07**|null|
 |**2025-03-07**|**A functional approach for curve alignment and shape analysis**|Issam-Ali Moindjié et.al.|[2503.05632v1](http://arxiv.org/abs/2503.05632v1)|**2025-03-07**|null|
-|**2025-03-07**|**Strategy Coopetition Explains the Emergence and Transience of In-Context Learning**|Aaditya K. Singh et.al.|[2503.05631v1](http://arxiv.org/abs/2503.05631v1)|**2025-03-07**|null|
+|**2025-03-07**|**Strategy Coopetition Explains the Emergence and Transience of In-Context Learning**|Aaditya K. Singh et.al.|[2503.05631v2](http://arxiv.org/abs/2503.05631v2)|**2025-03-10**|null|
 |**2025-03-07**|**Joint 3D Point Cloud Segmentation using Real-Sim Loop: From Panels to Trees and Branches**|Tian Qiu et.al.|[2503.05630v1](http://arxiv.org/abs/2503.05630v1)|**2025-03-07**|null|
 |**2025-03-07**|**Exploring FMCW Radars and Feature Maps for Activity Recognition: A Benchmark Study**|Ali Samimi Fard et.al.|[2503.05629v1](http://arxiv.org/abs/2503.05629v1)|**2025-03-07**|null|
 |**2025-03-07**|**FMT:A Multimodal Pneumonia Detection Model Based on Stacking MOE Framework**|Jingyu Xu et.al.|[2503.05626v1](http://arxiv.org/abs/2503.05626v1)|**2025-03-07**|null|

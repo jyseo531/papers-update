@@ -10,7 +10,7 @@
 |**2025-03-07**|**ALMAGAL III. Compact source catalog: Fragmentation statistics and physical evolution of the core population**|A. Coletta et.al.|[2503.05663v1](http://arxiv.org/abs/2503.05663v1)|**2025-03-07**|null|
 |**2025-03-07**|**A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval**|Yu Zhang et.al.|[2503.05659v1](http://arxiv.org/abs/2503.05659v1)|**2025-03-07**|null|
 |**2025-03-07**|**On a classification problem for a quiver of type $\widetilde{A}_{3}$**|Ivon Dorado et.al.|[2503.05643v1](http://arxiv.org/abs/2503.05643v1)|**2025-03-07**|null|
-|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639v1](http://arxiv.org/abs/2503.05639v1)|**2025-03-07**|null|
+|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639v1](http://arxiv.org/abs/2503.05639v1)|**2025-03-07**|[link](https://github.com/TencentARC/VideoPainter)|
 |**2025-03-07**|**Exploring FMCW Radars and Feature Maps for Activity Recognition: A Benchmark Study**|Ali Samimi Fard et.al.|[2503.05629v1](http://arxiv.org/abs/2503.05629v1)|**2025-03-07**|null|
 |**2025-03-07**|**FMT:A Multimodal Pneumonia Detection Model Based on Stacking MOE Framework**|Jingyu Xu et.al.|[2503.05626v1](http://arxiv.org/abs/2503.05626v1)|**2025-03-07**|null|
 |**2025-03-07**|**Learning LLM Preference over Intra-Dialogue Pairs: A Framework for Utterance-level Understandings**|Xuanqing Liu et.al.|[2503.05620v1](http://arxiv.org/abs/2503.05620v1)|**2025-03-07**|null|

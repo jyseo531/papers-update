@@ -10,7 +10,7 @@
 |**2025-03-07**|**Topological modes, non-locality and the double copy**|William T. Emond et.al.|[2503.05653v1](http://arxiv.org/abs/2503.05653v1)|**2025-03-07**|null|
 |**2025-03-07**|**BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities**|Yunfan Jiang et.al.|[2503.05652v1](http://arxiv.org/abs/2503.05652v1)|**2025-03-07**|null|
 |**2025-03-07**|**BoGrape: Bayesian optimization over graphs with shortest-path encoded**|Yilin Xie et.al.|[2503.05642v1](http://arxiv.org/abs/2503.05642v1)|**2025-03-07**|null|
-|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639v1](http://arxiv.org/abs/2503.05639v1)|**2025-03-07**|null|
+|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639v1](http://arxiv.org/abs/2503.05639v1)|**2025-03-07**|[link](https://github.com/TencentARC/VideoPainter)|
 |**2025-03-07**|**Decision-aware training of spatiotemporal forecasting models**|Kyle Heuton et.al.|[2503.05622v1](http://arxiv.org/abs/2503.05622v1)|**2025-03-07**|null|
 |**2025-03-07**|**Learning and generalization of robotic dual-arm manipulation of boxes from demonstrations via Gaussian Mixture Models (GMMs)**|Qian Ying Lee et.al.|[2503.05619v1](http://arxiv.org/abs/2503.05619v1)|**2025-03-07**|null|
 |**2025-03-07**|**Study of environment friendly gas mixtures for the Resistive Plate Chambers of the ATLAS phase-2 upgrade**|Giorgia Proto et.al.|[2503.05615v1](http://arxiv.org/abs/2503.05615v1)|**2025-03-07**|null|

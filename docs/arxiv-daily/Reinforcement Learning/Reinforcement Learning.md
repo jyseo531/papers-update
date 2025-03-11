@@ -12,16 +12,16 @@
 |**2025-03-07**|**Controllable Complementarity: Subjective Preferences in Human-AI Collaboration**|Chase McDonald et.al.|[2503.05455v1](http://arxiv.org/abs/2503.05455v1)|**2025-03-07**|null|
 |**2025-03-07**|**Cybersafety Card Game: Empowering Digital Educators to Teach Cybersafety to Older Adults**|Jacob Camilleri et.al.|[2503.05430v1](http://arxiv.org/abs/2503.05430v1)|**2025-03-07**|null|
 |**2025-03-07**|**Quantitative comparison of power grid reinforcements**|Bálint Hartmann et.al.|[2503.05380v1](http://arxiv.org/abs/2503.05380v1)|**2025-03-07**|null|
-|**2025-03-07**|**R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcing Learning**|Jiaxing Zhao et.al.|[2503.05379v1](http://arxiv.org/abs/2503.05379v1)|**2025-03-07**|null|
+|**2025-03-07**|**R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning**|Jiaxing Zhao et.al.|[2503.05379v2](http://arxiv.org/abs/2503.05379v2)|**2025-03-10**|null|
 |**2025-03-07**|**On an Inferential Semantics for Intuitionistic Sentential Logic**|Alexander V. Gheorghiu et.al.|[2503.05360v1](http://arxiv.org/abs/2503.05360v1)|**2025-03-07**|null|
 |**2025-03-07**|**Adversarial Policy Optimization for Offline Preference-based Reinforcement Learning**|Hyungkyu Kang et.al.|[2503.05306v1](http://arxiv.org/abs/2503.05306v1)|**2025-03-07**|null|
 |**2025-03-07**|**Constrained Reinforcement Learning for the Dynamic Inventory Routing Problem under Stochastic Supply and Demand**|Umur Hasturk et.al.|[2503.05276v1](http://arxiv.org/abs/2503.05276v1)|**2025-03-07**|null|
-|**2025-03-07**|**Mastering Continual Reinforcement Learning through Fine-Grained Sparse Network Allocation and Dormant Neuron Exploration**|Chengqi Zheng et.al.|[2503.05246v1](http://arxiv.org/abs/2503.05246v1)|**2025-03-07**|null|
+|**2025-03-07**|**Mastering Continual Reinforcement Learning through Fine-Grained Sparse Network Allocation and Dormant Neuron Exploration**|Chengqi Zheng et.al.|[2503.05246v2](http://arxiv.org/abs/2503.05246v2)|**2025-03-10**|null|
 |**2025-03-07**|**Guaranteeing Out-Of-Distribution Detection in Deep RL via Transition Estimation**|Mohit Prashant et.al.|[2503.05238v1](http://arxiv.org/abs/2503.05238v1)|**2025-03-07**|null|
 |**2025-03-07**|**Policy Constraint by Only Support Constraint for Offline Reinforcement Learning**|Yunkai Gao et.al.|[2503.05207v1](http://arxiv.org/abs/2503.05207v1)|**2025-03-07**|null|
 |**2025-03-07**|**Vacuum stress between conducting plates: the curved spacetime version**|Borzoo Nazari et.al.|[2503.05148v1](http://arxiv.org/abs/2503.05148v1)|**2025-03-07**|null|
 |**2025-03-07**|**Unity RL Playground: A Versatile Reinforcement Learning Framework for Mobile Robots**|Linqi Ye et.al.|[2503.05146v1](http://arxiv.org/abs/2503.05146v1)|**2025-03-07**|null|
-|**2025-03-07**|**R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model**|Hengguang Zhou et.al.|[2503.05132v1](http://arxiv.org/abs/2503.05132v1)|**2025-03-07**|null|
+|**2025-03-07**|**R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model**|Hengguang Zhou et.al.|[2503.05132v2](http://arxiv.org/abs/2503.05132v2)|**2025-03-10**|null|
 |**2025-03-07**|**Multi-Task Reinforcement Learning Enables Parameter Scaling**|Reginald McLean et.al.|[2503.05126v1](http://arxiv.org/abs/2503.05126v1)|**2025-03-07**|null|
 |**2025-03-07**|**Multi-Robot Collaboration through Reinforcement Learning and Abstract Simulation**|Adam Labiosa et.al.|[2503.05092v1](http://arxiv.org/abs/2503.05092v1)|**2025-03-07**|null|
 |**2025-03-07**|**On a Connection Between Imitation Learning and RLHF**|Teng Xiao et.al.|[2503.05079v1](http://arxiv.org/abs/2503.05079v1)|**2025-03-07**|null|

@@ -23,10 +23,10 @@
 |**2025-03-07**|**STGA: Selective-Training Gaussian Head Avatars**|Hanzhi Guo et.al.|[2503.05196v1](http://arxiv.org/abs/2503.05196v1)|**2025-03-07**|null|
 |**2025-03-07**|**MGSR: 2D/3D Mutual-boosted Gaussian Splatting for High-fidelity Surface Reconstruction under Various Light Conditions**|Qingyuan Zhou et.al.|[2503.05182v1](http://arxiv.org/abs/2503.05182v1)|**2025-03-07**|null|
 |**2025-03-07**|**SplatPose: Geometry-Aware 6-DoF Pose Estimation from Single RGB Image via 3D Gaussian Splatting**|Linqi Yang et.al.|[2503.05174v1](http://arxiv.org/abs/2503.05174v1)|**2025-03-07**|null|
-|**2025-03-07**|**SeeLe: A Unified Acceleration Framework for Real-Time Gaussian Splatting**|Xiaotong Huang et.al.|[2503.05168v1](http://arxiv.org/abs/2503.05168v1)|**2025-03-07**|null|
+|**2025-03-07**|**SeeLe: A Unified Acceleration Framework for Real-Time Gaussian Splatting**|Xiaotong Huang et.al.|[2503.05168v2](http://arxiv.org/abs/2503.05168v2)|**2025-03-10**|null|
 |**2025-03-07**|**EvolvingGS: High-Fidelity Streamable Volumetric Video via Evolving 3D Gaussian Representation**|Chao Zhang et.al.|[2503.05162v1](http://arxiv.org/abs/2503.05162v1)|**2025-03-07**|null|
 |**2025-03-07**|**GaussianCAD: Robust Self-Supervised CAD Reconstruction from Three Orthographic Views Using 3D Gaussian Splatting**|Zheng Zhou et.al.|[2503.05161v1](http://arxiv.org/abs/2503.05161v1)|**2025-03-07**|null|
-|**2025-03-07**|**GSplatVNM: Point-of-View Synthesis for Visual Navigation Models Using Gaussian Splatting**|Kohei Honda et.al.|[2503.05152v1](http://arxiv.org/abs/2503.05152v1)|**2025-03-07**|null|
+|**2025-03-07**|**GSplatVNM: Point-of-View Synthesis for Visual Navigation Models Using Gaussian Splatting**|Kohei Honda et.al.|[2503.05152v2](http://arxiv.org/abs/2503.05152v2)|**2025-03-10**|null|
 |**2025-03-07**|**HexPlane Representation for 3D Semantic Scene Understanding**|Zeren Chen et.al.|[2503.05127v1](http://arxiv.org/abs/2503.05127v1)|**2025-03-07**|null|
 |**2025-03-07**|**Fake It To Make It: Virtual Multiviews to Enhance Monocular Indoor Semantic Scene Completion**|Anith Selvakumar et.al.|[2503.05086v1](http://arxiv.org/abs/2503.05086v1)|**2025-03-07**|null|
 |**2025-03-07**|**Taming Video Diffusion Prior with Scene-Grounding Guidance for 3D Gaussian Splatting from Sparse Inputs**|Yingji Zhong et.al.|[2503.05082v1](http://arxiv.org/abs/2503.05082v1)|**2025-03-07**|null|

@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-07**|**FMT:A Multimodal Pneumonia Detection Model Based on Stacking MOE Framework**|Jingyu Xu et.al.|[2503.05626v1](http://arxiv.org/abs/2503.05626v1)|**2025-03-07**|null|
 |**2025-03-07**|**Mol-CADiff: Causality-Aware Autoregressive Diffusion for Molecule Generation**|Md Atik Ahamed et.al.|[2503.05499v1](http://arxiv.org/abs/2503.05499v1)|**2025-03-07**|null|
-|**2025-03-07**|**R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcing Learning**|Jiaxing Zhao et.al.|[2503.05379v1](http://arxiv.org/abs/2503.05379v1)|**2025-03-07**|null|
+|**2025-03-07**|**R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning**|Jiaxing Zhao et.al.|[2503.05379v2](http://arxiv.org/abs/2503.05379v2)|**2025-03-10**|null|
 |**2025-03-07**|**New multimodal similarity measure for image registration via modeling local functional dependence with linear combination of learned basis functions**|Joel Honkamaa et.al.|[2503.05335v1](http://arxiv.org/abs/2503.05335v1)|**2025-03-07**|null|
 |**2025-03-07**|**Robust Multimodal Learning for Ophthalmic Disease Grading via Disentangled Representation**|Xinkun Wang et.al.|[2503.05319v1](http://arxiv.org/abs/2503.05319v1)|**2025-03-07**|null|
 |**2025-03-07**|**Frequency Autoregressive Image Generation with Continuous Tokens**|Hu Yu et.al.|[2503.05305v1](http://arxiv.org/abs/2503.05305v1)|**2025-03-07**|null|

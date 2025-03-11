@@ -4,13 +4,13 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-07**|**Multi-Fidelity Policy Gradient Algorithms**|Xinjie Liu et.al.|[2503.05696v1](http://arxiv.org/abs/2503.05696v1)|**2025-03-07**|null|
 |**2025-03-07**|**The discovery and characterization of Earth-crossing asteroid 2024 YR$_4$**|Bryce T. Bolin et.al.|[2503.05694v1](http://arxiv.org/abs/2503.05694v1)|**2025-03-07**|null|
-|**2025-03-07**|**GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving**|Zebin Xing et.al.|[2503.05689v1](http://arxiv.org/abs/2503.05689v1)|**2025-03-07**|null|
+|**2025-03-07**|**GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving**|Zebin Xing et.al.|[2503.05689v2](http://arxiv.org/abs/2503.05689v2)|**2025-03-10**|null|
 |**2025-03-07**|**Task-oriented Uncertainty Collaborative Learning for Label-Efficient Brain Tumor Segmentation**|Zhenxuan Zhang et.al.|[2503.05682v1](http://arxiv.org/abs/2503.05682v1)|**2025-03-07**|null|
 |**2025-03-07**|**Electric-field sensing with driven-dissipative time crystals in room-temperature Rydberg vapor**|Darmindra Arumugam et.al.|[2503.05677v1](http://arxiv.org/abs/2503.05677v1)|**2025-03-07**|null|
 |**2025-03-07**|**AIM-Fair: Advancing Algorithmic Fairness via Selectively Fine-Tuning Biased Models with Contextual Synthetic Data**|Zengqun Zhao et.al.|[2503.05665v1](http://arxiv.org/abs/2503.05665v1)|**2025-03-07**|null|
 |**2025-03-07**|**ALMAGAL III. Compact source catalog: Fragmentation statistics and physical evolution of the core population**|A. Coletta et.al.|[2503.05663v1](http://arxiv.org/abs/2503.05663v1)|**2025-03-07**|null|
 |**2025-03-07**|**On Mitigating Affinity Bias through Bandits with Evolving Biased Feedback**|Matthew Faw et.al.|[2503.05662v1](http://arxiv.org/abs/2503.05662v1)|**2025-03-07**|null|
-|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639v1](http://arxiv.org/abs/2503.05639v1)|**2025-03-07**|null|
+|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639v1](http://arxiv.org/abs/2503.05639v1)|**2025-03-07**|[link](https://github.com/TencentARC/VideoPainter)|
 |**2025-03-07**|**Exploring FMCW Radars and Feature Maps for Activity Recognition: A Benchmark Study**|Ali Samimi Fard et.al.|[2503.05629v1](http://arxiv.org/abs/2503.05629v1)|**2025-03-07**|null|
 |**2025-03-07**|**FMT:A Multimodal Pneumonia Detection Model Based on Stacking MOE Framework**|Jingyu Xu et.al.|[2503.05626v1](http://arxiv.org/abs/2503.05626v1)|**2025-03-07**|null|
 |**2025-03-07**|**Conformal Prediction for Image Segmentation Using Morphological Prediction Sets**|Luca Mossina et.al.|[2503.05618v1](http://arxiv.org/abs/2503.05618v1)|**2025-03-07**|null|
