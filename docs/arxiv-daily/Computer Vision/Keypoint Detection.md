@@ -2,6 +2,15 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673v1](http://arxiv.org/abs/2503.08673v1)|**2025-03-11**|null|
+|**2025-03-11**|**MEAT: Multiview Diffusion Model for Human Generation on Megapixels with Mesh Attention**|Yuhan Wang et.al.|[2503.08664v1](http://arxiv.org/abs/2503.08664v1)|**2025-03-11**|null|
+|**2025-03-11**|**SignRep: Enhancing Self-Supervised Sign Representations**|Ryan Wong et.al.|[2503.08529v1](http://arxiv.org/abs/2503.08529v1)|**2025-03-11**|null|
+|**2025-03-11**|**External Knowledge Injection for CLIP-Based Class-Incremental Learning**|Da-Wei Zhou et.al.|[2503.08510v1](http://arxiv.org/abs/2503.08510v1)|**2025-03-11**|null|
+|**2025-03-11**|**High-throughput computation and machine learning modeling of magnetic moments and Mössbauer parameters for Fe-based intermetallics**|Bo Zhao et.al.|[2503.08249v1](http://arxiv.org/abs/2503.08249v1)|**2025-03-11**|null|
+|**2025-03-11**|**HOTFormerLoc: Hierarchical Octree Transformer for Versatile Lidar Place Recognition Across Ground and Aerial Views**|Ethan Griffiths et.al.|[2503.08140v1](http://arxiv.org/abs/2503.08140v1)|**2025-03-11**|null|
+|**2025-03-11**|**BUFFER-X: Towards Zero-Shot Point Cloud Registration in Diverse Scenes**|Minkyun Seo et.al.|[2503.07940v1](http://arxiv.org/abs/2503.07940v1)|**2025-03-11**|null|
+|**2025-03-10**|**Thermodynamics-Inspired High-Entropy Oxide Synthesis**|Saeed S. I. Almishal et.al.|[2503.07865v1](http://arxiv.org/abs/2503.07865v1)|**2025-03-10**|null|
+|**2025-03-10**|**Geometric Retargeting: A Principled, Ultrafast Neural Hand Retargeting Algorithm**|Zhao-Heng Yin et.al.|[2503.07541v1](http://arxiv.org/abs/2503.07541v1)|**2025-03-10**|null|
 |**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413v1](http://arxiv.org/abs/2503.07413v1)|**2025-03-10**|[link](https://github.com/MacavityT/REF-VLM)|
 |**2025-03-10**|**Fully Unsupervised Annotation of C. Elegans**|Christoph Karg et.al.|[2503.07348v1](http://arxiv.org/abs/2503.07348v1)|**2025-03-10**|null|
 |**2025-03-10**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347v2](http://arxiv.org/abs/2503.07347v2)|**2025-03-11**|null|
@@ -23,12 +32,3 @@
 |**2025-03-06**|**Gate-Shift-Pose: Enhancing Action Recognition in Sports with Skeleton Information**|Edoardo Bianchi et.al.|[2503.04470v1](http://arxiv.org/abs/2503.04470v1)|**2025-03-06**|null|
 |**2025-03-05**|**Machine Learning Enhanced Calculation of Quantum-Classical Binding Free Energies**|Moritz Bensberg et.al.|[2503.03955v1](http://arxiv.org/abs/2503.03955v1)|**2025-03-05**|null|
 |**2025-03-05**|**Neural Descriptors: Self-Supervised Learning of Robust Local Surface Descriptors Using Polynomial Patches**|Gal Yona et.al.|[2503.03907v1](http://arxiv.org/abs/2503.03907v1)|**2025-03-05**|null|
-|**2025-03-05**|**Improving 6D Object Pose Estimation of metallic Household and Industry Objects**|Thomas Pöllabauer et.al.|[2503.03655v1](http://arxiv.org/abs/2503.03655v1)|**2025-03-05**|null|
-|**2025-03-05**|**Skeletonisation Scale-Spaces**|Julia Gierke et.al.|[2503.03450v1](http://arxiv.org/abs/2503.03450v1)|**2025-03-05**|null|
-|**2025-03-05**|**Linking quantum mechanical features to structural phase-transformation in inorganic solids**|Prashant Singh et.al.|[2503.03120v1](http://arxiv.org/abs/2503.03120v1)|**2025-03-05**|null|
-|**2025-03-04**|**Bridging VLM and KMP: Enabling Fine-grained robotic manipulation via Semantic Keypoints Representation**|Junjie Zhu et.al.|[2503.02748v1](http://arxiv.org/abs/2503.02748v1)|**2025-03-04**|null|
-|**2025-03-04**|**A dataset-free approach for self-supervised learning of 3D reflectional symmetries**|Isaac Aguirre et.al.|[2503.02660v2](http://arxiv.org/abs/2503.02660v2)|**2025-03-05**|null|
-|**2025-03-04**|**A Novel Streamline-based diffusion MRI Tractography Registration Method with Probabilistic Keypoint Detection**|Junyi Wang et.al.|[2503.02481v1](http://arxiv.org/abs/2503.02481v1)|**2025-03-04**|null|
-|**2025-03-04**|**A Transformer-Based Framework for Greek Sign Language Production using Extended Skeletal Motion Representations**|Chrysa Pratikaki et.al.|[2503.02421v1](http://arxiv.org/abs/2503.02421v1)|**2025-03-04**|null|
-|**2025-03-04**|**Electronic structures of crystalline and amorphous GeSe and GeSbTe compounds using machine learning empirical pseudopotentials**|Sungmo Kang et.al.|[2503.02404v1](http://arxiv.org/abs/2503.02404v1)|**2025-03-04**|null|
-|**2025-03-03**|**Illuminant and light direction estimation using Wasserstein distance method**|Selcuk Yazar et.al.|[2503.05802v1](http://arxiv.org/abs/2503.05802v1)|**2025-03-03**|null|
