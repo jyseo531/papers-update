@@ -2,6 +2,7 @@
 ### Point Cloud Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-10**|**Force Aware Branch Manipulation To Assist Agricultural Tasks**|Madhav Rijal et.al.|[2503.07497v2](http://arxiv.org/abs/2503.07497v2)|**2025-03-11**|null|
 |**2025-03-10**|**Euclid: Early Release Observations -- The Intracluster Light of Abell 2390**|A. Ellien et.al.|[2503.07484v1](http://arxiv.org/abs/2503.07484v1)|**2025-03-10**|null|
 |**2025-03-10**|**Efficient Membership Inference Attacks by Bayesian Neural Network**|Zhenlong Liu et.al.|[2503.07482v1](http://arxiv.org/abs/2503.07482v1)|**2025-03-10**|null|
 |**2025-03-10**|**Trapping and Transport of Inertial Particles in a Taylor-Green Vortex: Effects of Added Mass and History Force**|Prabhash Kumar et.al.|[2503.07480v1](http://arxiv.org/abs/2503.07480v1)|**2025-03-10**|null|
@@ -23,7 +24,7 @@
 |**2025-03-10**|**PER-DPP Sampling Framework and Its Application in Path Planning**|Junzhe Wang et.al.|[2503.07411v1](http://arxiv.org/abs/2503.07411v1)|**2025-03-10**|null|
 |**2025-03-10**|**QBIOL: A quantum bioelectrochemical software based on point stochastic processes**|Simon Grall et.al.|[2503.07394v1](http://arxiv.org/abs/2503.07394v1)|**2025-03-10**|null|
 |**2025-03-10**|**Availability Modeling for Blockchain Provisioning in Private Clouds**|J Dantas et.al.|[2503.07391v1](http://arxiv.org/abs/2503.07391v1)|**2025-03-10**|null|
-|**2025-03-10**|**Materials Map Integrating Experimental and Computational Data through Graph-Based Machine Learning for Enhanced Materials Discovery**|Yusuke Hashimoto et.al.|[2503.07378v1](http://arxiv.org/abs/2503.07378v1)|**2025-03-10**|null|
+|**2025-03-10**|**Materials Map Integrating Experimental and Computational Data through Graph-Based Machine Learning for Enhanced Materials Discovery**|Yusuke Hashimoto et.al.|[2503.07378v2](http://arxiv.org/abs/2503.07378v2)|**2025-03-11**|null|
 |**2025-03-10**|**Probabilistic Segmentation for Robust Field of View Estimation**|R. Spencer Hallyburton et.al.|[2503.07375v1](http://arxiv.org/abs/2503.07375v1)|**2025-03-10**|null|
 |**2025-03-10**|**Skelite: Compact Neural Networks for Efficient Iterative Skeletonization**|Luis D. Reyes Vargas et.al.|[2503.07369v1](http://arxiv.org/abs/2503.07369v1)|**2025-03-10**|null|
 |**2025-03-10**|**On the solution and Lagrangian representation of Duffing oscillator with damping**|Amitava Choudhuri et.al.|[2503.07362v1](http://arxiv.org/abs/2503.07362v1)|**2025-03-10**|null|
@@ -31,4 +32,3 @@
 |**2025-03-10**|**Now you see me! A framework for obtaining class-relevant saliency maps**|Nils Philipp Walter et.al.|[2503.07346v1](http://arxiv.org/abs/2503.07346v1)|**2025-03-10**|null|
 |**2025-03-10**|**Complete the Cycle: Reachability Types with Expressive Cyclic References**|Haotian Deng et.al.|[2503.07328v1](http://arxiv.org/abs/2503.07328v1)|**2025-03-10**|null|
 |**2025-03-10**|**Dynamic Path Navigation for Motion Agents with LLM Reasoning**|Yubo Zhao et.al.|[2503.07323v1](http://arxiv.org/abs/2503.07323v1)|**2025-03-10**|null|
-|**2025-03-10**|**Human Machine Co-Adaptation Model and Its Convergence Analysis**|Steven W. Su et.al.|[2503.07319v1](http://arxiv.org/abs/2503.07319v1)|**2025-03-10**|null|

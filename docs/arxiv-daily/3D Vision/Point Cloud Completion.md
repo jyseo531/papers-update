@@ -2,6 +2,7 @@
 ### Point Cloud Completion
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-10**|**Force Aware Branch Manipulation To Assist Agricultural Tasks**|Madhav Rijal et.al.|[2503.07497v2](http://arxiv.org/abs/2503.07497v2)|**2025-03-11**|null|
 |**2025-03-10**|**Real-Time Monitoring of Multimode Squeezing**|Mahmoud Kalash et.al.|[2503.07486v1](http://arxiv.org/abs/2503.07486v1)|**2025-03-10**|null|
 |**2025-03-10**|**Euclid: Early Release Observations -- The Intracluster Light of Abell 2390**|A. Ellien et.al.|[2503.07484v1](http://arxiv.org/abs/2503.07484v1)|**2025-03-10**|null|
 |**2025-03-10**|**Efficient Membership Inference Attacks by Bayesian Neural Network**|Zhenlong Liu et.al.|[2503.07482v1](http://arxiv.org/abs/2503.07482v1)|**2025-03-10**|null|
@@ -28,7 +29,6 @@
 |**2025-03-10**|**Q-MARL: A quantum-inspired algorithm using neural message passing for large-scale multi-agent reinforcement learning**|Kha Vo et.al.|[2503.07397v1](http://arxiv.org/abs/2503.07397v1)|**2025-03-10**|null|
 |**2025-03-10**|**QBIOL: A quantum bioelectrochemical software based on point stochastic processes**|Simon Grall et.al.|[2503.07394v1](http://arxiv.org/abs/2503.07394v1)|**2025-03-10**|null|
 |**2025-03-10**|**Availability Modeling for Blockchain Provisioning in Private Clouds**|J Dantas et.al.|[2503.07391v1](http://arxiv.org/abs/2503.07391v1)|**2025-03-10**|null|
-|**2025-03-10**|**Materials Map Integrating Experimental and Computational Data through Graph-Based Machine Learning for Enhanced Materials Discovery**|Yusuke Hashimoto et.al.|[2503.07378v1](http://arxiv.org/abs/2503.07378v1)|**2025-03-10**|null|
+|**2025-03-10**|**Materials Map Integrating Experimental and Computational Data through Graph-Based Machine Learning for Enhanced Materials Discovery**|Yusuke Hashimoto et.al.|[2503.07378v2](http://arxiv.org/abs/2503.07378v2)|**2025-03-11**|null|
 |**2025-03-10**|**MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning**|Fanqing Meng et.al.|[2503.07365v1](http://arxiv.org/abs/2503.07365v1)|**2025-03-10**|null|
 |**2025-03-10**|**Geometric realizations of dichotomous ordinal graphs**|Patrizio Angelini et.al.|[2503.07361v1](http://arxiv.org/abs/2503.07361v1)|**2025-03-10**|null|
-|**2025-03-10**|**On the solution and Lagrangian representation of Duffing oscillator with damping**|Amitava Choudhuri et.al.|[2503.07362v1](http://arxiv.org/abs/2503.07362v1)|**2025-03-10**|null|

@@ -29,6 +29,6 @@
 |**2025-03-10**|**Coreset Spectral Clustering**|Ben Jourdan et.al.|[2503.07227v1](http://arxiv.org/abs/2503.07227v1)|**2025-03-10**|null|
 |**2025-03-10**|**Bag Semantics Query Containment: The CQ vs. UCQ Case and Other Stories**|Jerzy Marcinkowski et.al.|[2503.07219v1](http://arxiv.org/abs/2503.07219v1)|**2025-03-10**|null|
 |**2025-03-10**|**ReelWave: A Multi-Agent Framework Toward Professional Movie Sound Generation**|Zixuan Wang et.al.|[2503.07217v1](http://arxiv.org/abs/2503.07217v1)|**2025-03-10**|null|
-|**2025-03-10**|**FedRand: Enhancing Privacy in Federated Learning with Randomized LoRA Subparameter Updates**|Sangwoo Park et.al.|[2503.07216v1](http://arxiv.org/abs/2503.07216v1)|**2025-03-10**|null|
+|**2025-03-10**|**FedRand: Enhancing Privacy in Federated Learning with Randomized LoRA Subparameter Updates**|Sangwoo Park et.al.|[2503.07216v2](http://arxiv.org/abs/2503.07216v2)|**2025-03-11**|null|
 |**2025-03-10**|**A Zero-shot Learning Method Based on Large Language Models for Multi-modal Knowledge Graph Embedding**|Bingchen Liu et.al.|[2503.07202v1](http://arxiv.org/abs/2503.07202v1)|**2025-03-10**|null|
 |**2025-03-10**|**How Well Can Differential Privacy Be Audited in One Run?**|Amit Keinan et.al.|[2503.07199v1](http://arxiv.org/abs/2503.07199v1)|**2025-03-10**|null|

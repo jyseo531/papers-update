@@ -19,7 +19,7 @@
 |**2025-03-10**|**COMODO: Cross-Modal Video-to-IMU Distillation for Efficient Egocentric Human Activity Recognition**|Baiyu Chen et.al.|[2503.07259v1](http://arxiv.org/abs/2503.07259v1)|**2025-03-10**|[link](https://github.com/Breezelled/COMODO)|
 |**2025-03-10**|**Semantic Communications with Computer Vision Sensing for Edge Video Transmission**|Yubo Peng et.al.|[2503.07252v1](http://arxiv.org/abs/2503.07252v1)|**2025-03-10**|null|
 |**2025-03-10**|**AI-Driven Automated Tool for Abdominal CT Body Composition Analysis in Gastrointestinal Cancer Management**|Xinyu Nan et.al.|[2503.07248v1](http://arxiv.org/abs/2503.07248v1)|**2025-03-10**|null|
-|**2025-03-10**|**FedRand: Enhancing Privacy in Federated Learning with Randomized LoRA Subparameter Updates**|Sangwoo Park et.al.|[2503.07216v1](http://arxiv.org/abs/2503.07216v1)|**2025-03-10**|null|
+|**2025-03-10**|**FedRand: Enhancing Privacy in Federated Learning with Randomized LoRA Subparameter Updates**|Sangwoo Park et.al.|[2503.07216v2](http://arxiv.org/abs/2503.07216v2)|**2025-03-11**|null|
 |**2025-03-10**|**Synthetic Lung X-ray Generation through Cross-Attention and Affinity Transformation**|Ruochen Pi et.al.|[2503.07209v1](http://arxiv.org/abs/2503.07209v1)|**2025-03-10**|null|
 |**2025-03-10**|**A Quadratic Vertex Kernel and a Subexponential Algorithm for Subset-FAST**|Satyabrata Jana et.al.|[2503.07208v1](http://arxiv.org/abs/2503.07208v1)|**2025-03-10**|null|
 |**2025-03-10**|**Multi-Modal 3D Mesh Reconstruction from Images and Text**|Melvin Reka et.al.|[2503.07190v1](http://arxiv.org/abs/2503.07190v1)|**2025-03-10**|null|

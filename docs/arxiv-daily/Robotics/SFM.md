@@ -2,6 +2,13 @@
 ### SFM
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-10**|**Force Aware Branch Manipulation To Assist Agricultural Tasks**|Madhav Rijal et.al.|[2503.07497v2](http://arxiv.org/abs/2503.07497v2)|**2025-03-11**|null|
+|**2025-03-10**|**Finite deformations induce friction hysteresis in normal wavy contacts**|M. Ceglie et.al.|[2503.07495v1](http://arxiv.org/abs/2503.07495v1)|**2025-03-10**|null|
+|**2025-03-10**|**V2Flow: Unifying Visual Tokenization and Large Language Model Vocabularies for Autoregressive Image Generation**|Guiwei Zhang et.al.|[2503.07493v1](http://arxiv.org/abs/2503.07493v1)|**2025-03-10**|null|
+|**2025-03-10**|**Blind-Wayfarer: A Minimalist, Probing-Driven Framework for Resilient Navigation in Perception-Degraded Environments**|Yanran Xu et.al.|[2503.07492v1](http://arxiv.org/abs/2503.07492v1)|**2025-03-10**|null|
+|**2025-03-10**|**NeAS: 3D Reconstruction from X-ray Images using Neural Attenuation Surface**|Chengrui Zhu et.al.|[2503.07491v1](http://arxiv.org/abs/2503.07491v1)|**2025-03-10**|null|
+|**2025-03-10**|**First generation 4H-SiC LGAD production and its performance evaluation**|Radek Novotný et.al.|[2503.07490v1](http://arxiv.org/abs/2503.07490v1)|**2025-03-10**|null|
+|**2025-03-10**|**Destination Calculus: A Linear λ-Calculus for Purely Functional Memory Writes**|Thomas Bagrel et.al.|[2503.07489v1](http://arxiv.org/abs/2503.07489v1)|**2025-03-10**|[link](https://github.com/tweag/destination-calculus)|
 |**2025-03-10**|**Euclid: Early Release Observations -- The Intracluster Light of Abell 2390**|A. Ellien et.al.|[2503.07484v1](http://arxiv.org/abs/2503.07484v1)|**2025-03-10**|null|
 |**2025-03-10**|**Learning Physics-Based Full-Body Human Reaching and Grasping from Brief Walking References**|Yitang Li et.al.|[2503.07481v1](http://arxiv.org/abs/2503.07481v1)|**2025-03-10**|null|
 |**2025-03-10**|**Trapping and Transport of Inertial Particles in a Taylor-Green Vortex: Effects of Added Mass and History Force**|Prabhash Kumar et.al.|[2503.07480v1](http://arxiv.org/abs/2503.07480v1)|**2025-03-10**|null|
@@ -25,10 +32,3 @@
 |**2025-03-10**|**Early signs of stuck pipe detection based on Crossformer**|Bo Cao et.al.|[2503.07440v1](http://arxiv.org/abs/2503.07440v1)|**2025-03-10**|null|
 |**2025-03-10**|**Eva: Cost-Efficient Cloud-Based Cluster Scheduling**|Tzu-Tao Chang et.al.|[2503.07437v1](http://arxiv.org/abs/2503.07437v1)|**2025-03-10**|null|
 |**2025-03-10**|**Microscopic Theory of Nonlinear Rheology and Double Yielding in Dense Attractive Glass Forming Colloidal Suspensions**|Anoop Mutneja et.al.|[2503.07436v1](http://arxiv.org/abs/2503.07436v1)|**2025-03-10**|null|
-|**2025-03-10**|**Open-Set Gait Recognition from Sparse mmWave Radar Point Clouds**|Riccardo Mazzieri et.al.|[2503.07435v1](http://arxiv.org/abs/2503.07435v1)|**2025-03-10**|null|
-|**2025-03-10**|**Quadratic quasinormal modes at null infinity on a Schwarzschild spacetime**|Patrick Bourg et.al.|[2503.07432v1](http://arxiv.org/abs/2503.07432v1)|**2025-03-10**|null|
-|**2025-03-10**|**On the completeness and reliability of visual source extraction : an examination of eight thousand data cubes by eye**|Rhys Taylor et.al.|[2503.07430v1](http://arxiv.org/abs/2503.07430v1)|**2025-03-10**|null|
-|**2025-03-10**|**From Text to Visuals: Using LLMs to Generate Math Diagrams with Vector Graphics**|Jaewook Lee et.al.|[2503.07429v1](http://arxiv.org/abs/2503.07429v1)|**2025-03-10**|null|
-|**2025-03-10**|**Floquet-engineered diode performance in a Majorana-quantum dot Josephson junction**|Koustav Roy et.al.|[2503.07428v1](http://arxiv.org/abs/2503.07428v1)|**2025-03-10**|null|
-|**2025-03-10**|**CATPlan: Loss-based Collision Prediction in End-to-End Autonomous Driving**|Ziliang Xiong et.al.|[2503.07425v1](http://arxiv.org/abs/2503.07425v1)|**2025-03-10**|null|
-|**2025-03-10**|**Inorganic Catalyst Efficiency Prediction Based on EAPCR Model: A Deep Learning Solution for Multi-Source Heterogeneous Data**|Zhangdi Liu et.al.|[2503.07424v1](http://arxiv.org/abs/2503.07424v1)|**2025-03-10**|null|

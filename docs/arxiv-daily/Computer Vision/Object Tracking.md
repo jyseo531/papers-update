@@ -2,6 +2,7 @@
 ### Object Tracking
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-10**|**Composition effect in the thermo-mechanical behavior of glasses, and its modelization**|Rene Alvarez-Donado et.al.|[2503.07494v1](http://arxiv.org/abs/2503.07494v1)|**2025-03-10**|null|
 |**2025-03-10**|**Learning Physics-Based Full-Body Human Reaching and Grasping from Brief Walking References**|Yitang Li et.al.|[2503.07481v1](http://arxiv.org/abs/2503.07481v1)|**2025-03-10**|null|
 |**2025-03-10**|**Augmented Carpentry: Computer Vision-assisted Framework for Manual Fabrication**|Andrea Settimi et.al.|[2503.07473v1](http://arxiv.org/abs/2503.07473v1)|**2025-03-10**|null|
 |**2025-03-10**|**A Review on Geometry and Surface Inspection in 3D Concrete Printing**|K. Mawas et.al.|[2503.07472v1](http://arxiv.org/abs/2503.07472v1)|**2025-03-10**|null|
@@ -21,7 +22,7 @@
 |**2025-03-10**|**AffordDexGrasp: Open-set Language-guided Dexterous Grasp with Generalizable-Instructive Affordance**|Yi-Lin Wei et.al.|[2503.07360v1](http://arxiv.org/abs/2503.07360v1)|**2025-03-10**|null|
 |**2025-03-10**|**$\mathcal{H}_\infty$ Loop-shaping for Power Tracking Control of Wind Turbines**|Aaron Grapentin et.al.|[2503.07359v1](http://arxiv.org/abs/2503.07359v1)|**2025-03-10**|null|
 |**2025-03-10**|**Score-informed Music Source Separation: Improving Synthetic-to-real Generalization in Classical Music**|Eetu Tunturi et.al.|[2503.07352v1](http://arxiv.org/abs/2503.07352v1)|**2025-03-10**|null|
-|**2025-03-10**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347v1](http://arxiv.org/abs/2503.07347v1)|**2025-03-10**|null|
+|**2025-03-10**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347v2](http://arxiv.org/abs/2503.07347v2)|**2025-03-11**|null|
 |**2025-03-10**|**Robust a posteriori estimation of probit-lognormal seismic fragility curves via sequential design of experiments and constrained reference prior**|Antoine Van Biesbroeck et.al.|[2503.07343v1](http://arxiv.org/abs/2503.07343v1)|**2025-03-10**|null|
 |**2025-03-10**|**Unleashing the Potential of Large Language Models for Text-to-Image Generation through Autoregressive Representation Alignment**|Xing Xie et.al.|[2503.07334v1](http://arxiv.org/abs/2503.07334v1)|**2025-03-10**|null|
 |**2025-03-10**|**TANGO: A Robust Qubit Mapping Algorithm via Two-Stage Search and Bidirectional Look**|Kang Xu et.al.|[2503.07331v1](http://arxiv.org/abs/2503.07331v1)|**2025-03-10**|null|
@@ -31,4 +32,3 @@
 |**2025-03-10**|**SemEval-2025 Task 11: Bridging the Gap in Text-Based Emotion Detection**|Shamsuddeen Hassan Muhammad et.al.|[2503.07269v1](http://arxiv.org/abs/2503.07269v1)|**2025-03-10**|null|
 |**2025-03-10**|**Customized SAM 2 for Referring Remote Sensing Image Segmentation**|Fu Rong et.al.|[2503.07266v1](http://arxiv.org/abs/2503.07266v1)|**2025-03-10**|null|
 |**2025-03-10**|**Exploring $Δ$-resonance in neutron stars: implications from astrophysical and nuclear observations**|Vishal Parmar et.al.|[2503.07256v1](http://arxiv.org/abs/2503.07256v1)|**2025-03-10**|null|
-|**2025-03-10**|**AnomalyPainter: Vision-Language-Diffusion Synergy for Zero-Shot Realistic and Diverse Industrial Anomaly Synthesis**|Zhangyu Lai et.al.|[2503.07253v1](http://arxiv.org/abs/2503.07253v1)|**2025-03-10**|null|

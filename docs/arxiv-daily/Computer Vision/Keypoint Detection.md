@@ -4,8 +4,8 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413v1](http://arxiv.org/abs/2503.07413v1)|**2025-03-10**|[link](https://github.com/MacavityT/REF-VLM)|
 |**2025-03-10**|**Fully Unsupervised Annotation of C. Elegans**|Christoph Karg et.al.|[2503.07348v1](http://arxiv.org/abs/2503.07348v1)|**2025-03-10**|null|
-|**2025-03-10**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347v1](http://arxiv.org/abs/2503.07347v1)|**2025-03-10**|null|
-|**2025-03-10**|**Find your Needle: Small Object Image Retrieval via Multi-Object Attention Optimization**|Mihcael Green et.al.|[2503.07038v1](http://arxiv.org/abs/2503.07038v1)|**2025-03-10**|null|
+|**2025-03-10**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347v2](http://arxiv.org/abs/2503.07347v2)|**2025-03-11**|null|
+|**2025-03-10**|**Find your Needle: Small Object Image Retrieval via Multi-Object Attention Optimization**|Michael Green et.al.|[2503.07038v1](http://arxiv.org/abs/2503.07038v1)|**2025-03-10**|null|
 |**2025-03-10**|**Correlated vibration-solvent and Duschinsky effects on optical spectroscopy**|Zi-Fan Zhu et.al.|[2503.06876v1](http://arxiv.org/abs/2503.06876v1)|**2025-03-10**|null|
 |**2025-03-09**|**StructVPR++: Distill Structural and Semantic Knowledge with Weighting Samples for Visual Place Recognition**|Yanqing Shen et.al.|[2503.06601v1](http://arxiv.org/abs/2503.06601v1)|**2025-03-09**|null|
 |**2025-03-09**|**Hierarchical Multi-Objective Optimization for Precise Performance Design of Closed-Chain Legged Mechanisms**|Long Guo et.al.|[2503.06533v1](http://arxiv.org/abs/2503.06533v1)|**2025-03-09**|null|
