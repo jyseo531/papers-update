@@ -1253,6 +1253,7 @@ Updated on 2025-03-12
 | 2 | 3 | facebook/drama-baseSentence | Updated2 days ago | [Link](https://huggingface.co/facebook/drama-base) |
 | 6 | 3 | AventIQ-AI/all-MiniLM-L6-v2_course_recommendationSentence | Updated1 day ago | [Link](https://huggingface.co/AventIQ-AI/all-MiniLM-L6-v2_course_recommendation) |
 | 30 | 3 | sergeyzh/rubert-mini-fridaSentence | Updated3 days ago | [Link](https://huggingface.co/sergeyzh/rubert-mini-frida) |
+| 34 | 3 | Omartificial-Intelligence-Space/AraEuroBert-210MSentence | Updatedabout 1 hour ago | [Link](https://huggingface.co/Omartificial-Intelligence-Space/AraEuroBert-210M) |
 | 95.8M |  | sentence-transformers/all-MiniLM-L6-v2Sentence | UpdatedNov 1, 2024 | [Link](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) |
 | 2.47M |  | BAAI/bge-m3Sentence | UpdatedJul 3, 2024 | [Link](https://huggingface.co/BAAI/bge-m3) |
 | 32.8M |  | sentence-transformers/all-mpnet-base-v2Sentence | UpdatedNov 5, 2024 | [Link](https://huggingface.co/sentence-transformers/all-mpnet-base-v2) |
