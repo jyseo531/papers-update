@@ -225,6 +225,7 @@ Updated on 2025-03-13
 | 57.4k | 5 | vitouphy/wav2vec2-xls-r-300m-phonemeAutomatic | UpdatedMay 13, 2023 | [Link](https://huggingface.co/vitouphy/wav2vec2-xls-r-300m-phoneme) |
 | 774 | 4 | nvidia/stt_fr_fastconformer_hybrid_large_pcAutomatic | Updatedabout 24 hours ago | [Link](https://huggingface.co/nvidia/stt_fr_fastconformer_hybrid_large_pc) |
 | 20 | 4 | espnet/owls_4B_180KAutomatic | Updated4 days ago | [Link](https://huggingface.co/espnet/owls_4B_180K) |
+| 674 | 4 | CAYTU/whosper-large-v2Automatic | Updated3 days ago | [Link](https://huggingface.co/CAYTU/whosper-large-v2) |
 | 382 | 3 | suzii/vi-whisper-large-v3-turbo-v1Automatic | UpdatedJan 15 | [Link](https://huggingface.co/suzii/vi-whisper-large-v3-turbo-v1) |
 | 75 | 3 | erenfazlioglu/whisper-small-turkish-tr-bestAutomatic | UpdatedOct 4, 2023 | [Link](https://huggingface.co/erenfazlioglu/whisper-small-turkish-tr-best) |
 | 851 | 3 | ivrit-ai/whisper-large-v3-turboAutomatic | Updated8 days ago | [Link](https://huggingface.co/ivrit-ai/whisper-large-v3-turbo) |
