@@ -2,6 +2,10 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-12**|**Better Together: Unified Motion Capture and 3D Avatar Reconstruction**|Arthur Moreau et.al.|[2503.09293v1](http://arxiv.org/abs/2503.09293v1)|**2025-03-12**|null|
+|**2025-03-12**|**Natural Humanoid Robot Locomotion with Generative Motion Prior**|Haodong Zhang et.al.|[2503.09015v1](http://arxiv.org/abs/2503.09015v1)|**2025-03-12**|null|
+|**2025-03-11**|**PromptGAR: Flexible Promptive Group Activity Recognition**|Zhangyu Jin et.al.|[2503.08933v1](http://arxiv.org/abs/2503.08933v1)|**2025-03-11**|null|
+|**2025-03-11**|**Keypoint Semantic Integration for Improved Feature Matching in Outdoor Agricultural Environments**|Rajitha de Silva et.al.|[2503.08843v1](http://arxiv.org/abs/2503.08843v1)|**2025-03-11**|null|
 |**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673v1](http://arxiv.org/abs/2503.08673v1)|**2025-03-11**|null|
 |**2025-03-11**|**MEAT: Multiview Diffusion Model for Human Generation on Megapixels with Mesh Attention**|Yuhan Wang et.al.|[2503.08664v1](http://arxiv.org/abs/2503.08664v1)|**2025-03-11**|null|
 |**2025-03-11**|**SignRep: Enhancing Self-Supervised Sign Representations**|Ryan Wong et.al.|[2503.08529v1](http://arxiv.org/abs/2503.08529v1)|**2025-03-11**|null|
@@ -28,7 +32,3 @@
 |**2025-03-07**|**Automatic determination of quasicrystalline patterns from microscopy images**|Tano Kim Kender et.al.|[2503.05472v1](http://arxiv.org/abs/2503.05472v1)|**2025-03-07**|null|
 |**2025-03-07**|**EDM: Efficient Deep Feature Matching**|Xi Li et.al.|[2503.05122v1](http://arxiv.org/abs/2503.05122v1)|**2025-03-07**|null|
 |**2025-03-06**|**Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**|Benjamin Billot et.al.|[2503.04499v2](http://arxiv.org/abs/2503.04499v2)|**2025-03-07**|null|
-|**2025-03-06**|**ForestLPR: LiDAR Place Recognition in Forests Attentioning Multiple BEV Density Images**|Yanqing Shen et.al.|[2503.04475v1](http://arxiv.org/abs/2503.04475v1)|**2025-03-06**|null|
-|**2025-03-06**|**Gate-Shift-Pose: Enhancing Action Recognition in Sports with Skeleton Information**|Edoardo Bianchi et.al.|[2503.04470v1](http://arxiv.org/abs/2503.04470v1)|**2025-03-06**|null|
-|**2025-03-05**|**Machine Learning Enhanced Calculation of Quantum-Classical Binding Free Energies**|Moritz Bensberg et.al.|[2503.03955v1](http://arxiv.org/abs/2503.03955v1)|**2025-03-05**|null|
-|**2025-03-05**|**Neural Descriptors: Self-Supervised Learning of Robust Local Surface Descriptors Using Polynomial Patches**|Gal Yona et.al.|[2503.03907v1](http://arxiv.org/abs/2503.03907v1)|**2025-03-05**|null|

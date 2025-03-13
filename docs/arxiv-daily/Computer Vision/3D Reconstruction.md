@@ -2,33 +2,33 @@
 ### 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-11**|**GarmentCrafter: Progressive Novel View Synthesis for Single-View 3D Garment Reconstruction and Editing**|Yuanhao Wang et.al.|[2503.08678v1](http://arxiv.org/abs/2503.08678v1)|**2025-03-11**|null|
-|**2025-03-11**|**Language-Depth Navigated Thermal and Visible Image Fusion**|Jinchang Zhang et.al.|[2503.08676v1](http://arxiv.org/abs/2503.08676v1)|**2025-03-11**|null|
-|**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673v1](http://arxiv.org/abs/2503.08673v1)|**2025-03-11**|null|
-|**2025-03-11**|**MEAT: Multiview Diffusion Model for Human Generation on Megapixels with Mesh Attention**|Yuhan Wang et.al.|[2503.08664v1](http://arxiv.org/abs/2503.08664v1)|**2025-03-11**|null|
-|**2025-03-11**|**GBlobs: Explicit Local Structure via Gaussian Blobs for Improved Cross-Domain LiDAR-based 3D Object Detection**|Dušan Malić et.al.|[2503.08639v1](http://arxiv.org/abs/2503.08639v1)|**2025-03-11**|null|
-|**2025-03-11**|**Birth of magnetized low-mass protostars and circumstellar disks**|Adnan Ali Ahmad et.al.|[2503.08637v1](http://arxiv.org/abs/2503.08637v1)|**2025-03-11**|null|
-|**2025-03-11**|**A Grid Cell-Inspired Structured Vector Algebra for Cognitive Maps**|Sven Krausse et.al.|[2503.08608v1](http://arxiv.org/abs/2503.08608v1)|**2025-03-11**|null|
-|**2025-03-11**|**LiSu: A Dataset and Method for LiDAR Surface Normal Estimation**|Dušan Malić et.al.|[2503.08601v1](http://arxiv.org/abs/2503.08601v1)|**2025-03-11**|null|
-|**2025-03-11**|**X-Field: A Physically Grounded Representation for 3D X-ray Reconstruction**|Feiran Wang et.al.|[2503.08596v1](http://arxiv.org/abs/2503.08596v1)|**2025-03-11**|null|
-|**2025-03-11**|**3D Point Cloud Generation via Autoregressive Up-sampling**|Ziqiao Meng et.al.|[2503.08594v1](http://arxiv.org/abs/2503.08594v1)|**2025-03-11**|null|
-|**2025-03-11**|**High-Quality 3D Head Reconstruction from Any Single Portrait Image**|Jianfu Zhang et.al.|[2503.08516v1](http://arxiv.org/abs/2503.08516v1)|**2025-03-11**|null|
-|**2025-03-11**|**SAS: Segment Any 3D Scene with Integrated 2D Priors**|Zhuoyuan Li et.al.|[2503.08512v1](http://arxiv.org/abs/2503.08512v1)|**2025-03-11**|null|
-|**2025-03-11**|**PCGS: Progressive Compression of 3D Gaussian Splatting**|Yihang Chen et.al.|[2503.08511v1](http://arxiv.org/abs/2503.08511v1)|**2025-03-11**|null|
-|**2025-03-11**|**TT-GaussOcc: Test-Time Compute for Self-Supervised Occupancy Prediction via Spatio-Temporal Gaussian Splatting**|Fengyi Zhang et.al.|[2503.08485v1](http://arxiv.org/abs/2503.08485v1)|**2025-03-11**|null|
-|**2025-03-11**|**GAS-NeRF: Geometry-Aware Stylization of Dynamic Radiance Fields**|Nhat Phuong Anh Vu et.al.|[2503.08483v1](http://arxiv.org/abs/2503.08483v1)|**2025-03-11**|null|
-|**2025-03-11**|**Collaborative Dynamic 3D Scene Graphs for Open-Vocabulary Urban Scene Understanding**|Tim Steinke et.al.|[2503.08474v1](http://arxiv.org/abs/2503.08474v1)|**2025-03-11**|null|
-|**2025-03-11**|**TrackOcc: Camera-based 4D Panoptic Occupancy Tracking**|Zhuoguang Chen et.al.|[2503.08471v1](http://arxiv.org/abs/2503.08471v1)|**2025-03-11**|null|
-|**2025-03-11**|**JiSAM: Alleviate Labeling Burden and Corner Case Problems in Autonomous Driving via Minimal Real-World Data**|Runjian Chen et.al.|[2503.08422v1](http://arxiv.org/abs/2503.08422v1)|**2025-03-11**|null|
-|**2025-03-11**|**Learning to Detect Objects from Multi-Agent LiDAR Scans without Manual Labels**|Qiming Xia et.al.|[2503.08421v1](http://arxiv.org/abs/2503.08421v1)|**2025-03-11**|null|
-|**2025-03-11**|**AnyMoLe: Any Character Motion In-betweening Leveraging Video Diffusion Models**|Kwan Yun et.al.|[2503.08417v1](http://arxiv.org/abs/2503.08417v1)|**2025-03-11**|[link](https://github.com/kwanyun/AnyMoLe)|
-|**2025-03-11**|**Multi-particle-collision simulation of heat transfer in low-dimensional fluids**|Rongxiang Luo et.al.|[2503.08409v1](http://arxiv.org/abs/2503.08409v1)|**2025-03-11**|null|
-|**2025-03-11**|**WildSeg3D: Segment Any 3D Objects in the Wild from 2D Images**|Yansong Guo et.al.|[2503.08407v1](http://arxiv.org/abs/2503.08407v1)|**2025-03-11**|null|
-|**2025-03-11**|**nnInteractive: Redefining 3D Promptable Segmentation**|Fabian Isensee et.al.|[2503.08373v1](http://arxiv.org/abs/2503.08373v1)|**2025-03-11**|null|
-|**2025-03-11**|**3D Medical Imaging Segmentation on Non-Contrast CT**|Canxuan Gang et.al.|[2503.08361v1](http://arxiv.org/abs/2503.08361v1)|**2025-03-11**|null|
-|**2025-03-11**|**Mitigating Ambiguities in 3D Classification with Gaussian Splatting**|Ruiqi Zhang et.al.|[2503.08352v1](http://arxiv.org/abs/2503.08352v1)|**2025-03-11**|null|
-|**2025-03-11**|**Talk2PC: Enhancing 3D Visual Grounding through LiDAR and Radar Point Clouds Fusion for Autonomous Driving**|Runwei Guan et.al.|[2503.08336v1](http://arxiv.org/abs/2503.08336v1)|**2025-03-11**|null|
-|**2025-03-11**|**Navier-Stokes/Allen-Cahn system with moving contact line**|Yinghua Li et.al.|[2503.08334v1](http://arxiv.org/abs/2503.08334v1)|**2025-03-11**|null|
-|**2025-03-11**|**HERO: Human Reaction Generation from Videos**|Chengjun Yu et.al.|[2503.08270v1](http://arxiv.org/abs/2503.08270v1)|**2025-03-11**|null|
-|**2025-03-11**|**HASARD: A Benchmark for Vision-Based Safe Reinforcement Learning in Embodied Agents**|Tristan Tomilin et.al.|[2503.08241v1](http://arxiv.org/abs/2503.08241v1)|**2025-03-11**|null|
-|**2025-03-11**|**HRAvatar: High-Quality and Relightable Gaussian Head Avatar**|Dongbin Zhang et.al.|[2503.08224v1](http://arxiv.org/abs/2503.08224v1)|**2025-03-11**|null|
+|**2025-03-12**|**RewardSDS: Aligning Score Distillation via Reward-Weighted Sampling**|Itay Chachy et.al.|[2503.09601v1](http://arxiv.org/abs/2503.09601v1)|**2025-03-12**|null|
+|**2025-03-12**|**FCaS: Fine-grained Cardiac Image Synthesis based on 3D Template Conditional Diffusion Model**|Jiahao Xia et.al.|[2503.09560v1](http://arxiv.org/abs/2503.09560v1)|**2025-03-12**|null|
+|**2025-03-12**|**Electromyography-Informed Facial Expression Reconstruction for Physiological-Based Synthesis and Analysis**|Tim Büchner et.al.|[2503.09556v1](http://arxiv.org/abs/2503.09556v1)|**2025-03-12**|null|
+|**2025-03-12**|**Using Convolutional Neural Networks to Accelerate 3D Coherent Synchrotron Radiation Computations**|Christopher Leon et.al.|[2503.09551v1](http://arxiv.org/abs/2503.09551v1)|**2025-03-12**|null|
+|**2025-03-12**|**GenHPE: Generative Counterfactuals for 3D Human Pose Estimation with Radio Frequency Signals**|Shuokang Huang et.al.|[2503.09537v1](http://arxiv.org/abs/2503.09537v1)|**2025-03-12**|null|
+|**2025-03-12**|**CombatVLA: An Efficient Vision-Language-Action Model for Combat Tasks in 3D Action Role-Playing Games**|Peng Chen et.al.|[2503.09527v1](http://arxiv.org/abs/2503.09527v1)|**2025-03-12**|null|
+|**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464v1](http://arxiv.org/abs/2503.09464v1)|**2025-03-12**|null|
+|**2025-03-12**|**Effective conductivity of conduit networks with random conductivities**|I. Colecchio et.al.|[2503.09457v1](http://arxiv.org/abs/2503.09457v1)|**2025-03-12**|null|
+|**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447v1](http://arxiv.org/abs/2503.09447v1)|**2025-03-12**|null|
+|**2025-03-12**|**SuperCarver: Texture-Consistent 3D Geometry Super-Resolution for High-Fidelity Surface Detail Generation**|Qijian Zhang et.al.|[2503.09439v1](http://arxiv.org/abs/2503.09439v1)|**2025-03-12**|null|
+|**2025-03-12**|**Efficient Alignment of Unconditioned Action Prior for Language-conditioned Pick and Place in Clutter**|Kechun Xu et.al.|[2503.09423v1](http://arxiv.org/abs/2503.09423v1)|**2025-03-12**|null|
+|**2025-03-12**|**Close-up-GS: Enhancing Close-Up View Synthesis in 3D Gaussian Splatting with Progressive Self-Training**|Jiatong Xia et.al.|[2503.09396v1](http://arxiv.org/abs/2503.09396v1)|**2025-03-12**|null|
+|**2025-03-12**|**GASPACHO: Gaussian Splatting for Controllable Humans and Objects**|Aymen Mir et.al.|[2503.09342v1](http://arxiv.org/abs/2503.09342v1)|**2025-03-12**|null|
+|**2025-03-12**|**Stealthy Patch-Wise Backdoor Attack in 3D Point Cloud via Curvature Awareness**|Yu Feng et.al.|[2503.09336v1](http://arxiv.org/abs/2503.09336v1)|**2025-03-12**|null|
+|**2025-03-12**|**Fourier shape parametrization in covariant density functional theory for nuclear fission**|Zeyu Li et.al.|[2503.09308v1](http://arxiv.org/abs/2503.09308v1)|**2025-03-12**|null|
+|**2025-03-12**|**Better Together: Unified Motion Capture and 3D Avatar Reconstruction**|Arthur Moreau et.al.|[2503.09293v1](http://arxiv.org/abs/2503.09293v1)|**2025-03-12**|null|
+|**2025-03-12**|**Magnetization control problem for the 2D and 3D evolutionary Landau-Lifshitz-Bloch equation**|Sidhartha Patnaik et.al.|[2503.09266v1](http://arxiv.org/abs/2503.09266v1)|**2025-03-12**|null|
+|**2025-03-12**|**Contrasting $c$-axis and in-plane uniaxial stress effects on superconductivity and stripe order in La$_{1.885}$Ba$_{0.115}$CuO$_4$**|S. S. Islam et.al.|[2503.09236v1](http://arxiv.org/abs/2503.09236v1)|**2025-03-12**|null|
+|**2025-03-12**|**A 3d particle visualization system for temperature management**|Benoit Lange et.al.|[2503.09198v1](http://arxiv.org/abs/2503.09198v1)|**2025-03-12**|null|
+|**2025-03-12**|**Long-Term Planning Around Humans in Domestic Environments with 3D Scene Graphs**|Ermanno Bartoli et.al.|[2503.09173v1](http://arxiv.org/abs/2503.09173v1)|**2025-03-12**|null|
+|**2025-03-12**|**WonderVerse: Extendable 3D Scene Generation with Video Generative Models**|Hao Feng et.al.|[2503.09160v1](http://arxiv.org/abs/2503.09160v1)|**2025-03-12**|null|
+|**2025-03-12**|**On the impact of observation error correlations in data assimilation, with application to along-track altimeter data**|Olivier Goux et.al.|[2503.09140v1](http://arxiv.org/abs/2503.09140v1)|**2025-03-12**|null|
+|**2025-03-12**|**Extreme resilience and dissipation in heterogeneous disordered materials**|Jehoon Moon et.al.|[2503.09056v1](http://arxiv.org/abs/2503.09056v1)|**2025-03-12**|null|
+|**2025-03-12**|**The SAMI Galaxy Survey: large-scale environment affects galaxy spin amplitudes and the formation of slow rotators**|Stefania Barsanti et.al.|[2503.09052v1](http://arxiv.org/abs/2503.09052v1)|**2025-03-12**|null|
+|**2025-03-12**|**Motion Blender Gaussian Splatting for Dynamic Reconstruction**|Xinyu Zhang et.al.|[2503.09040v1](http://arxiv.org/abs/2503.09040v1)|**2025-03-12**|null|
+|**2025-03-12**|**Computational Design and Fabrication of Protective Foam**|Tsukasa Fukusato et.al.|[2503.09019v1](http://arxiv.org/abs/2503.09019v1)|**2025-03-12**|null|
+|**2025-03-12**|**HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots**|Qiang Zhang et.al.|[2503.09010v1](http://arxiv.org/abs/2503.09010v1)|**2025-03-12**|null|
+|**2025-03-12**|**Dual-Domain Homogeneous Fusion with Cross-Modal Mamba and Progressive Decoder for 3D Object Detection**|Xuzhong Hu et.al.|[2503.08992v1](http://arxiv.org/abs/2503.08992v1)|**2025-03-12**|null|
+|**2025-03-12**|**Large-scale multifractality and lack of self-similar decay for Burgers and 3D Navier-Stokes turbulence**|Takeshi Matsumoto et.al.|[2503.08983v1](http://arxiv.org/abs/2503.08983v1)|**2025-03-12**|null|
+|**2025-03-11**|**FP3: A 3D Foundation Policy for Robotic Manipulation**|Rujia Yang et.al.|[2503.08950v1](http://arxiv.org/abs/2503.08950v1)|**2025-03-11**|null|

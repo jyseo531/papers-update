@@ -2,33 +2,33 @@
 ### Instance Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-11**|**In Search of the Potentially Hazardous Asteroids in the Taurid Resonant Swarm**|Jasmine Li et.al.|[2503.08670v1](http://arxiv.org/abs/2503.08670v1)|**2025-03-11**|null|
-|**2025-03-11**|**SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating Human Annotator Trajectories**|Muzhi Zhu et.al.|[2503.08625v1](http://arxiv.org/abs/2503.08625v1)|**2025-03-11**|null|
-|**2025-03-11**|**CellStyle: Improved Zero-Shot Cell Segmentation via Style Transfer**|Rüveyda Yilmaz et.al.|[2503.08603v1](http://arxiv.org/abs/2503.08603v1)|**2025-03-11**|null|
-|**2025-03-11**|**MsaMIL-Net: An End-to-End Multi-Scale Aware Multiple Instance Learning Network for Efficient Whole Slide Image Classification**|Jiangping Wen et.al.|[2503.08581v2](http://arxiv.org/abs/2503.08581v2)|**2025-03-12**|null|
-|**2025-03-11**|**Mellow: a small audio language model for reasoning**|Soham Deshmukh et.al.|[2503.08540v1](http://arxiv.org/abs/2503.08540v1)|**2025-03-11**|null|
-|**2025-03-11**|**Bogus Bugs, Duplicates, and Revealing Comments: Data Quality Issues in NPR**|Julian Aron Prenner et.al.|[2503.08532v1](http://arxiv.org/abs/2503.08532v1)|**2025-03-11**|null|
-|**2025-03-11**|**Segmentation-Guided CT Synthesis with Pixel-Wise Conformal Uncertainty Bounds**|David Vallmanya Poch et.al.|[2503.08515v1](http://arxiv.org/abs/2503.08515v1)|**2025-03-11**|null|
-|**2025-03-11**|**SAS: Segment Any 3D Scene with Integrated 2D Priors**|Zhuoyuan Li et.al.|[2503.08512v1](http://arxiv.org/abs/2503.08512v1)|**2025-03-11**|null|
-|**2025-03-11**|**External Knowledge Injection for CLIP-Based Class-Incremental Learning**|Da-Wei Zhou et.al.|[2503.08510v1](http://arxiv.org/abs/2503.08510v1)|**2025-03-11**|null|
-|**2025-03-11**|**Progressive hedging for multi-stage stochastic lot sizing problems with setup carry-over under uncertain demand**|Manuel Schlenkrich et.al.|[2503.08477v1](http://arxiv.org/abs/2503.08477v1)|**2025-03-11**|null|
-|**2025-03-11**|**TrackOcc: Camera-based 4D Panoptic Occupancy Tracking**|Zhuoguang Chen et.al.|[2503.08471v1](http://arxiv.org/abs/2503.08471v1)|**2025-03-11**|null|
-|**2025-03-11**|**Homotopy types of complexes of hyperplanes in quasi-median graphs and applications to right-angled Artin groups**|Carolyn Abbott et.al.|[2503.08411v1](http://arxiv.org/abs/2503.08411v1)|**2025-03-11**|null|
-|**2025-03-11**|**WildSeg3D: Segment Any 3D Objects in the Wild from 2D Images**|Yansong Guo et.al.|[2503.08407v1](http://arxiv.org/abs/2503.08407v1)|**2025-03-11**|null|
-|**2025-03-11**|**A Practically Scalable Approach to the Closest Vector Problem for Sieving via QAOA with Fixed Angles**|Ben Priestley et.al.|[2503.08403v1](http://arxiv.org/abs/2503.08403v1)|**2025-03-11**|[link](https://github.com/BenPrie/qaoa-for-cvp)|
-|**2025-03-11**|**Prototype-Based Multiple Instance Learning for Gigapixel Whole Slide Image Classification**|Susu Sun et.al.|[2503.08384v1](http://arxiv.org/abs/2503.08384v1)|**2025-03-11**|null|
-|**2025-03-11**|**nnInteractive: Redefining 3D Promptable Segmentation**|Fabian Isensee et.al.|[2503.08373v1](http://arxiv.org/abs/2503.08373v1)|**2025-03-11**|null|
-|**2025-03-11**|**3D Medical Imaging Segmentation on Non-Contrast CT**|Canxuan Gang et.al.|[2503.08361v1](http://arxiv.org/abs/2503.08361v1)|**2025-03-11**|null|
-|**2025-03-11**|**DIV-FF: Dynamic Image-Video Feature Fields For Environment Understanding in Egocentric Videos**|Lorenzo Mur-Labadia et.al.|[2503.08344v1](http://arxiv.org/abs/2503.08344v1)|**2025-03-11**|null|
-|**2025-03-11**|**Adding Chocolate to Mint: Mitigating Metric Interference in Machine Translation**|José Pombal et.al.|[2503.08327v1](http://arxiv.org/abs/2503.08327v1)|**2025-03-11**|null|
-|**2025-03-11**|**SegDesicNet: Lightweight Semantic Segmentation in Remote Sensing with Geo-Coordinate Embeddings for Domain Adaptation**|Sachin Verma et.al.|[2503.08290v1](http://arxiv.org/abs/2503.08290v1)|**2025-03-11**|null|
-|**2025-03-11**|**PromptLNet: Region-Adaptive Aesthetic Enhancement via Prompt Guidance in Low-Light Enhancement Net**|Jun Yin et.al.|[2503.08276v1](http://arxiv.org/abs/2503.08276v1)|**2025-03-11**|null|
-|**2025-03-11**|**ExMAG: Learning of Maximally Ancestral Graphs**|Petr Ryšavý et.al.|[2503.08245v1](http://arxiv.org/abs/2503.08245v1)|**2025-03-11**|null|
-|**2025-03-11**|**TSCnet: A Text-driven Semantic-level Controllable Framework for Customized Low-Light Image Enhancement**|Miao Zhang et.al.|[2503.08168v1](http://arxiv.org/abs/2503.08168v1)|**2025-03-11**|null|
-|**2025-03-11**|**Towards Large-scale Chemical Reaction Image Parsing via a Multimodal Large Language Model**|Yufan Chen et.al.|[2503.08156v1](http://arxiv.org/abs/2503.08156v1)|**2025-03-11**|null|
-|**2025-03-11**|**A simple model of quantum walk with a gap in distribution**|Takuya Machida et.al.|[2503.08151v1](http://arxiv.org/abs/2503.08151v1)|**2025-03-11**|null|
-|**2025-03-11**|**Attention to Trajectory: Trajectory-Aware Open-Vocabulary Tracking**|Yunhao Li et.al.|[2503.08145v1](http://arxiv.org/abs/2503.08145v1)|**2025-03-11**|null|
-|**2025-03-11**|**ArticulatedGS: Self-supervised Digital Twin Modeling of Articulated Objects using 3D Gaussian Splatting**|Junfu Guo et.al.|[2503.08135v1](http://arxiv.org/abs/2503.08135v1)|**2025-03-11**|null|
-|**2025-03-11**|**MegaSR: Mining Customized Semantics and Expressive Guidance for Image Super-Resolution**|Xinrui Li et.al.|[2503.08096v1](http://arxiv.org/abs/2503.08096v1)|**2025-03-11**|null|
-|**2025-03-11**|**Denoising via Repainting: an image denoising method using layer wise medical image repainting**|Arghya Pal et.al.|[2503.08094v1](http://arxiv.org/abs/2503.08094v1)|**2025-03-11**|null|
-|**2025-03-11**|**MVGSR: Multi-View Consistency Gaussian Splatting for Robust Surface Reconstruction**|Chenfeng Hou et.al.|[2503.08093v1](http://arxiv.org/abs/2503.08093v1)|**2025-03-11**|null|
+|**2025-03-12**|**Evolution of the Three Spectral Components in the Prompt Emission of GRB 240825A**|Chen-Wei Wang et.al.|[2503.09562v1](http://arxiv.org/abs/2503.09562v1)|**2025-03-12**|null|
+|**2025-03-12**|**FCaS: Fine-grained Cardiac Image Synthesis based on 3D Template Conditional Diffusion Model**|Jiahao Xia et.al.|[2503.09560v1](http://arxiv.org/abs/2503.09560v1)|**2025-03-12**|null|
+|**2025-03-12**|**Evaluating Multi-Instance DNN Inferencing on Multiple Accelerators of an Edge Device**|Mumuksh Tayal et.al.|[2503.09546v1](http://arxiv.org/abs/2503.09546v1)|**2025-03-12**|null|
+|**2025-03-12**|**Large Language Models for Multi-Facility Location Mechanism Design**|Nguyen Thach et.al.|[2503.09533v1](http://arxiv.org/abs/2503.09533v1)|**2025-03-12**|null|
+|**2025-03-12**|**SAEBench: A Comprehensive Benchmark for Sparse Autoencoders in Language Model Interpretability**|Adam Karvonen et.al.|[2503.09532v1](http://arxiv.org/abs/2503.09532v1)|**2025-03-12**|null|
+|**2025-03-12**|**Parameter-Efficient Adaptation of Geospatial Foundation Models through Embedding Deflection**|Romain Thoreau et.al.|[2503.09493v1](http://arxiv.org/abs/2503.09493v1)|**2025-03-12**|null|
+|**2025-03-12**|**SurgicalVLM-Agent: Towards an Interactive AI Co-Pilot for Pituitary Surgery**|Jiayuan Huang et.al.|[2503.09474v1](http://arxiv.org/abs/2503.09474v1)|**2025-03-12**|null|
+|**2025-03-12**|**Beyond 2-approximation for k-Center in Graphs**|Ce Jin et.al.|[2503.09468v1](http://arxiv.org/abs/2503.09468v1)|**2025-03-12**|null|
+|**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464v1](http://arxiv.org/abs/2503.09464v1)|**2025-03-12**|null|
+|**2025-03-12**|**Energy Metrics for Edge Microservice Request Placement Strategies**|Klervie Toczé et.al.|[2503.09450v1](http://arxiv.org/abs/2503.09450v1)|**2025-03-12**|null|
+|**2025-03-12**|**Astrea: A MOE-based Visual Understanding Model with Progressive Alignment**|Xiaoda Yang et.al.|[2503.09445v1](http://arxiv.org/abs/2503.09445v1)|**2025-03-12**|null|
+|**2025-03-12**|**Multiple Speaker Separation from Noisy Sources in Reverberant Rooms using Relative Transfer Matrix**|Wageesha N. Manamperi et.al.|[2503.09412v1](http://arxiv.org/abs/2503.09412v1)|**2025-03-12**|null|
+|**2025-03-12**|**Diff-CL: A Novel Cross Pseudo-Supervision Method for Semi-supervised Medical Image Segmentation**|Xiuzhen Guo et.al.|[2503.09408v1](http://arxiv.org/abs/2503.09408v1)|**2025-03-12**|null|
+|**2025-03-12**|**Adjusted Count Quantification Learning on Graphs**|Clemens Damke et.al.|[2503.09395v1](http://arxiv.org/abs/2503.09395v1)|**2025-03-12**|null|
+|**2025-03-12**|**Post-interactive Multimodal Trajectory Prediction for Autonomous Driving**|Ziyi Huang et.al.|[2503.09366v1](http://arxiv.org/abs/2503.09366v1)|**2025-03-12**|null|
+|**2025-03-12**|**GIGP: A Global Information Interacting and Geometric Priors Focusing Framework for Semi-supervised Medical Image Segmentation**|Lianyuan Yu et.al.|[2503.09355v1](http://arxiv.org/abs/2503.09355v1)|**2025-03-12**|null|
+|**2025-03-12**|**Unified Dense Prediction of Video Diffusion**|Lehan Yang et.al.|[2503.09344v1](http://arxiv.org/abs/2503.09344v1)|**2025-03-12**|null|
+|**2025-03-12**|**NVP-HRI: Zero Shot Natural Voice and Posture-based Human-Robot Interaction via Large Language Model**|Yuzhi Lai et.al.|[2503.09335v1](http://arxiv.org/abs/2503.09335v1)|**2025-03-12**|null|
+|**2025-03-12**|**2HandedAfforder: Learning Precise Actionable Bimanual Affordances from Human Videos**|Marvin Heidinger et.al.|[2503.09320v1](http://arxiv.org/abs/2503.09320v1)|**2025-03-12**|null|
+|**2025-03-12**|**ShuffleGate: An Efficient and Self-Polarizing Feature Selection Method for Large-Scale Deep Models in Industry**|Yihong Huang et.al.|[2503.09315v1](http://arxiv.org/abs/2503.09315v1)|**2025-03-12**|null|
+|**2025-03-12**|**Active Learning Inspired ControlNet Guidance for Augmenting Semantic Segmentation Datasets**|Hannah Kniesel et.al.|[2503.09221v1](http://arxiv.org/abs/2503.09221v1)|**2025-03-12**|null|
+|**2025-03-12**|**Rethinking Prompt-based Debiasing in Large Language Models**|Xinyi Yang et.al.|[2503.09219v1](http://arxiv.org/abs/2503.09219v1)|**2025-03-12**|null|
+|**2025-03-12**|**N2C2: Nearest Neighbor Enhanced Confidence Calibration for Cross-Lingual In-Context Learning**|Jie He et.al.|[2503.09218v1](http://arxiv.org/abs/2503.09218v1)|**2025-03-12**|null|
+|**2025-03-12**|**Periodic orbits in time-dependent planar Stark-Zeeman systems**|Urs Frauenfelder et.al.|[2503.09209v1](http://arxiv.org/abs/2503.09209v1)|**2025-03-12**|null|
+|**2025-03-12**|**Quality Over Quantity? LLM-Based Curation for a Data-Efficient Audio-Video Foundation Model**|Ali Vosoughi et.al.|[2503.09205v1](http://arxiv.org/abs/2503.09205v1)|**2025-03-12**|null|
+|**2025-03-12**|**Learning Appearance and Motion Cues for Panoptic Tracking**|Juana Valeria Hurtado et.al.|[2503.09191v1](http://arxiv.org/abs/2503.09191v1)|**2025-03-12**|null|
+|**2025-03-12**|**Polygonizing Roof Segments from High-Resolution Aerial Images Using Yolov8-Based Edge Detection**|Qipeng Mei et.al.|[2503.09187v1](http://arxiv.org/abs/2503.09187v1)|**2025-03-12**|null|
+|**2025-03-12**|**Incomplete Multi-view Clustering via Diffusion Contrastive Generation**|Yuanyang Zhang et.al.|[2503.09185v1](http://arxiv.org/abs/2503.09185v1)|**2025-03-12**|null|
+|**2025-03-12**|**Dynamic Feature Selection from Variable Feature Sets Using Features of Features**|Katsumi Takahashi et.al.|[2503.09181v1](http://arxiv.org/abs/2503.09181v1)|**2025-03-12**|null|
+|**2025-03-12**|**A novel layered reconstruction framework for longitudinal segmented electromagnetic calorimeter**|J. Fei et.al.|[2503.09163v1](http://arxiv.org/abs/2503.09163v1)|**2025-03-12**|null|
