@@ -2,33 +2,33 @@
 ### 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-12**|**RewardSDS: Aligning Score Distillation via Reward-Weighted Sampling**|Itay Chachy et.al.|[2503.09601v2](http://arxiv.org/abs/2503.09601v2)|**2025-03-13**|null|
-|**2025-03-12**|**FCaS: Fine-grained Cardiac Image Synthesis based on 3D Template Conditional Diffusion Model**|Jiahao Xia et.al.|[2503.09560v1](http://arxiv.org/abs/2503.09560v1)|**2025-03-12**|null|
-|**2025-03-12**|**The R2D2 Deep Neural Network Series for Scalable Non-Cartesian Magnetic Resonance Imaging**|Yiwei Chen et.al.|[2503.09559v2](http://arxiv.org/abs/2503.09559v2)|**2025-03-13**|null|
-|**2025-03-12**|**Electromyography-Informed Facial Expression Reconstruction for Physiological-Based Synthesis and Analysis**|Tim Büchner et.al.|[2503.09556v1](http://arxiv.org/abs/2503.09556v1)|**2025-03-12**|null|
-|**2025-03-12**|**Using Convolutional Neural Networks to Accelerate 3D Coherent Synchrotron Radiation Computations**|Christopher Leon et.al.|[2503.09551v1](http://arxiv.org/abs/2503.09551v1)|**2025-03-12**|null|
-|**2025-03-12**|**GenHPE: Generative Counterfactuals for 3D Human Pose Estimation with Radio Frequency Signals**|Shuokang Huang et.al.|[2503.09537v1](http://arxiv.org/abs/2503.09537v1)|**2025-03-12**|null|
-|**2025-03-12**|**CombatVLA: An Efficient Vision-Language-Action Model for Combat Tasks in 3D Action Role-Playing Games**|Peng Chen et.al.|[2503.09527v1](http://arxiv.org/abs/2503.09527v1)|**2025-03-12**|null|
-|**2025-03-12**|**Towards Robust Multimodal Representation: A Unified Approach with Adaptive Experts and Alignment**|Nazanin Moradinasab et.al.|[2503.09498v1](http://arxiv.org/abs/2503.09498v1)|**2025-03-12**|null|
-|**2025-03-12**|**Learning Spatially Adaptive $\ell_1$-Norms Weights for Convolutional Synthesis Regularization**|Andreas Kofler et.al.|[2503.09483v1](http://arxiv.org/abs/2503.09483v1)|**2025-03-12**|null|
-|**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464v1](http://arxiv.org/abs/2503.09464v1)|**2025-03-12**|null|
-|**2025-03-12**|**Effective conductivity of conduit networks with random conductivities**|I. Colecchio et.al.|[2503.09457v1](http://arxiv.org/abs/2503.09457v1)|**2025-03-12**|null|
-|**2025-03-12**|**SO(3)-Equivariant Neural Networks for Learning Vector Fields on Spheres**|Francesco Ballerin et.al.|[2503.09456v1](http://arxiv.org/abs/2503.09456v1)|**2025-03-12**|null|
-|**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447v1](http://arxiv.org/abs/2503.09447v1)|**2025-03-12**|null|
-|**2025-03-12**|**SuperCarver: Texture-Consistent 3D Geometry Super-Resolution for High-Fidelity Surface Detail Generation**|Qijian Zhang et.al.|[2503.09439v1](http://arxiv.org/abs/2503.09439v1)|**2025-03-12**|null|
-|**2025-03-12**|**Efficient Alignment of Unconditioned Action Prior for Language-conditioned Pick and Place in Clutter**|Kechun Xu et.al.|[2503.09423v1](http://arxiv.org/abs/2503.09423v1)|**2025-03-12**|null|
-|**2025-03-12**|**Efficient dynamic modal load reconstruction using physics-informed Gaussian processes based on frequency-sparse Fourier basis functions**|Gledson Rodrigo Tondo et.al.|[2503.09418v1](http://arxiv.org/abs/2503.09418v1)|**2025-03-12**|null|
-|**2025-03-12**|**Graph-based Full Event Interpretation: a graph neural network for event reconstruction in Belle II**|Merna Abumusabh et.al.|[2503.09401v1](http://arxiv.org/abs/2503.09401v1)|**2025-03-12**|null|
-|**2025-03-12**|**Close-up-GS: Enhancing Close-Up View Synthesis in 3D Gaussian Splatting with Progressive Self-Training**|Jiatong Xia et.al.|[2503.09396v1](http://arxiv.org/abs/2503.09396v1)|**2025-03-12**|null|
-|**2025-03-12**|**Robust Self-Reconfiguration for Fault-Tolerant Control of Modular Aerial Robot Systems**|Rui Huang et.al.|[2503.09376v1](http://arxiv.org/abs/2503.09376v1)|**2025-03-12**|null|
-|**2025-03-12**|**Comprehensive Investigation of Fundamental Mode Profiles in Monolithic Nonplanar Ring Oscillators**|Weitong Fan et.al.|[2503.09346v1](http://arxiv.org/abs/2503.09346v1)|**2025-03-12**|null|
-|**2025-03-12**|**GASPACHO: Gaussian Splatting for Controllable Humans and Objects**|Aymen Mir et.al.|[2503.09342v1](http://arxiv.org/abs/2503.09342v1)|**2025-03-12**|null|
-|**2025-03-12**|**Online multidimensional dictionary learning**|Ferdaous Ait Addi et.al.|[2503.09337v1](http://arxiv.org/abs/2503.09337v1)|**2025-03-12**|null|
-|**2025-03-12**|**Stealthy Patch-Wise Backdoor Attack in 3D Point Cloud via Curvature Awareness**|Yu Feng et.al.|[2503.09336v1](http://arxiv.org/abs/2503.09336v1)|**2025-03-12**|null|
-|**2025-03-12**|**SDD-4DGS: Static-Dynamic Aware Decoupling in Gaussian Splatting for 4D Scene Reconstruction**|Dai Sun et.al.|[2503.09332v1](http://arxiv.org/abs/2503.09332v1)|**2025-03-12**|null|
-|**2025-03-12**|**Fourier shape parametrization in covariant density functional theory for nuclear fission**|Zeyu Li et.al.|[2503.09308v1](http://arxiv.org/abs/2503.09308v1)|**2025-03-12**|null|
-|**2025-03-12**|**Revealing Unintentional Information Leakage in Low-Dimensional Facial Portrait Representations**|Kathleen Anderson et.al.|[2503.09306v1](http://arxiv.org/abs/2503.09306v1)|**2025-03-12**|null|
-|**2025-03-12**|**IQPFR: An Image Quality Prior for Blind Face Restoration and Beyond**|Peng Hu et.al.|[2503.09294v1](http://arxiv.org/abs/2503.09294v1)|**2025-03-12**|null|
-|**2025-03-12**|**Better Together: Unified Motion Capture and 3D Avatar Reconstruction**|Arthur Moreau et.al.|[2503.09293v1](http://arxiv.org/abs/2503.09293v1)|**2025-03-12**|null|
-|**2025-03-12**|**Prompt Inference Attack on Distributed Large Language Model Inference Frameworks**|Xinjian Luo et.al.|[2503.09291v1](http://arxiv.org/abs/2503.09291v1)|**2025-03-12**|null|
-|**2025-03-12**|**Magnetization control problem for the 2D and 3D evolutionary Landau-Lifshitz-Bloch equation**|Sidhartha Patnaik et.al.|[2503.09266v1](http://arxiv.org/abs/2503.09266v1)|**2025-03-12**|null|
+|**2025-03-13**|**V2Edit: Versatile Video Diffusion Editor for Videos and 3D Scenes**|Yanming Zhang et.al.|[2503.10634v1](http://arxiv.org/abs/2503.10634v1)|**2025-03-13**|null|
+|**2025-03-13**|**NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models**|Mert Albaba et.al.|[2503.10626v1](http://arxiv.org/abs/2503.10626v1)|**2025-03-13**|null|
+|**2025-03-13**|**LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds**|Lingteng Qiu et.al.|[2503.10625v1](http://arxiv.org/abs/2503.10625v1)|**2025-03-13**|null|
+|**2025-03-13**|**ETCH: Generalizing Body Fitting to Clothed Humans via Equivariant Tightness**|Boqian Li et.al.|[2503.10624v1](http://arxiv.org/abs/2503.10624v1)|**2025-03-13**|null|
+|**2025-03-13**|**Knot reconstruction of the scalar primordial power spectrum with Planck, ACT, and SPT CMB data**|Antonio Raffaelli et.al.|[2503.10609v1](http://arxiv.org/abs/2503.10609v1)|**2025-03-13**|null|
+|**2025-03-13**|**OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction**|Severin Heidrich et.al.|[2503.10605v1](http://arxiv.org/abs/2503.10605v1)|**2025-03-13**|null|
+|**2025-03-13**|**MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction**|Yingshuang Zou et.al.|[2503.10604v1](http://arxiv.org/abs/2503.10604v1)|**2025-03-13**|null|
+|**2025-03-13**|**GroomLight: Hybrid Inverse Rendering for Relightable Human Hair Appearance Modeling**|Yang Zheng et.al.|[2503.10597v1](http://arxiv.org/abs/2503.10597v1)|**2025-03-13**|null|
+|**2025-03-13**|**Compact Two-Loop QCD Corrections for $Vjj$ Production in Proton Collisions**|Giuseppe De Laurentis et.al.|[2503.10595v1](http://arxiv.org/abs/2503.10595v1)|**2025-03-13**|null|
+|**2025-03-13**|**Long Context Tuning for Video Generation**|Yuwei Guo et.al.|[2503.10589v1](http://arxiv.org/abs/2503.10589v1)|**2025-03-13**|null|
+|**2025-03-13**|**Semantic-Supervised Spatial-Temporal Fusion for LiDAR-based 3D Object Detection**|Chaoqun Wang et.al.|[2503.10579v1](http://arxiv.org/abs/2503.10579v1)|**2025-03-13**|null|
+|**2025-03-13**|**Mathematical and numerical methods for understanding immune cell motion during wound healing**|Giulia Lupi et.al.|[2503.10552v1](http://arxiv.org/abs/2503.10552v1)|**2025-03-13**|null|
+|**2025-03-13**|**Lightweight Models for Emotional Analysis in Video**|Quoc-Tien Nguyen et.al.|[2503.10530v1](http://arxiv.org/abs/2503.10530v1)|**2025-03-13**|null|
+|**2025-03-13**|**PiSA: A Self-Augmented Data Engine and Training Strategy for 3D Understanding with Large Models**|Zilu Guo et.al.|[2503.10529v1](http://arxiv.org/abs/2503.10529v1)|**2025-03-13**|null|
+|**2025-03-13**|**How Should We Evaluate Uncertainty in Accelerated MRI Reconstruction?**|Luca Trautmann et.al.|[2503.10527v1](http://arxiv.org/abs/2503.10527v1)|**2025-03-13**|null|
+|**2025-03-13**|**Energy Reconstruction of Non-fiducial Electron-Positron Events in the DAMPE Experiment Using Convolutional Neural Networks**|Enzo Putti-Garcia et.al.|[2503.10521v1](http://arxiv.org/abs/2503.10521v1)|**2025-03-13**|null|
+|**2025-03-13**|**Representation Learning, Large-Scale 3D Molecular Pretraining, Molecular Property**|Shuqi Lu et.al.|[2503.10489v1](http://arxiv.org/abs/2503.10489v1)|**2025-03-13**|null|
+|**2025-03-13**|**Sediment Concentration Estimation via Multiscale Inverse Problem and Stochastic Homogenization**|Jiwei Li et.al.|[2503.10487v1](http://arxiv.org/abs/2503.10487v1)|**2025-03-13**|null|
+|**2025-03-13**|**Deep Learning based discovery of Integrable Systems**|Shailesh Lal et.al.|[2503.10469v1](http://arxiv.org/abs/2503.10469v1)|**2025-03-13**|null|
+|**2025-03-13**|**Flow-NeRF: Joint Learning of Geometry, Poses, and Dense Flow within Unified Neural Representations**|Xunzhi Zheng et.al.|[2503.10464v1](http://arxiv.org/abs/2503.10464v1)|**2025-03-13**|null|
+|**2025-03-13**|**Background processes in Higgs decay to Z gamma**|Aliaksei Kachanovich et.al.|[2503.10444v1](http://arxiv.org/abs/2503.10444v1)|**2025-03-13**|null|
+|**2025-03-13**|**4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models**|Wanhua Li et.al.|[2503.10437v1](http://arxiv.org/abs/2503.10437v1)|**2025-03-13**|null|
+|**2025-03-13**|**Towards Constraint-Based Adaptive Hypergraph Learning for Solving Vehicle Routing: An End-to-End Solution**|Zhenwei Wang et.al.|[2503.10421v1](http://arxiv.org/abs/2503.10421v1)|**2025-03-13**|null|
+|**2025-03-13**|**Protostellar Outflows at the EarliesT Stages (POETS). VII. Circumstellar gas kinematics traced by water masers inside the HC HII region NGC7538 IRS1**|Luca Moscadelli et.al.|[2503.10415v1](http://arxiv.org/abs/2503.10415v1)|**2025-03-13**|null|
+|**2025-03-13**|**RoCo-Sim: Enhancing Roadside Collaborative Perception through Foreground Simulation**|Yuwen Du et.al.|[2503.10410v1](http://arxiv.org/abs/2503.10410v1)|**2025-03-13**|null|
+|**2025-03-13**|**Hyper3D: Efficient 3D Representation via Hybrid Triplane and Octree Feature for Enhanced 3D Shape Variational Auto-Encoders**|Jingyu Guo et.al.|[2503.10403v1](http://arxiv.org/abs/2503.10403v1)|**2025-03-13**|null|
+|**2025-03-13**|**Reexamining Circular Dichroism in Photoemission From a Topological Insulator**|Ittai Sidilkover et.al.|[2503.10388v1](http://arxiv.org/abs/2503.10388v1)|**2025-03-13**|null|
+|**2025-03-13**|**Position Reconstruction in the DEAP-3600 Dark Matter Search Experiment**|The DEAP Collaboration et.al.|[2503.10383v1](http://arxiv.org/abs/2503.10383v1)|**2025-03-13**|null|
+|**2025-03-13**|**3D non-LTE Ca II line formation in metal-poor FGK stars. I. Abundance corrections, radial velocity corrections, and synthetic spectra**|Cis Lagae et.al.|[2503.10378v1](http://arxiv.org/abs/2503.10378v1)|**2025-03-13**|null|
+|**2025-03-13**|**Piece it Together: Part-Based Concepting with IP-Priors**|Elad Richardson et.al.|[2503.10365v1](http://arxiv.org/abs/2503.10365v1)|**2025-03-13**|null|

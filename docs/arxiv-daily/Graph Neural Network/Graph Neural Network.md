@@ -2,33 +2,33 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-12**|**Parsing the Language of Expression: Enhancing Symbolic Regression with Domain-Aware Symbolic Priors**|Sikai Huang et.al.|[2503.09592v1](http://arxiv.org/abs/2503.09592v1)|**2025-03-12**|null|
-|**2025-03-12**|**Edge isoperimetry of lattices**|Cameron Strachan et.al.|[2503.09591v1](http://arxiv.org/abs/2503.09591v1)|**2025-03-12**|null|
-|**2025-03-12**|**Hierarchical community detection benchmark for heterogeneous inter-community connectivity**|Brendan Cross et.al.|[2503.09585v1](http://arxiv.org/abs/2503.09585v1)|**2025-03-12**|null|
-|**2025-03-12**|**Permutation-based Strategies for Labeled Chip-Firing on $k$-ary Trees**|Ryota Inagaki et.al.|[2503.09577v1](http://arxiv.org/abs/2503.09577v1)|**2025-03-12**|null|
-|**2025-03-12**|**Biological Multi-Layer and Single Cell Network-Based Multiomics Models - a Review**|Marcello Barylli et.al.|[2503.09568v1](http://arxiv.org/abs/2503.09568v1)|**2025-03-12**|null|
-|**2025-03-12**|**Global Convergence and Rich Feature Learning in $L$-Layer Infinite-Width Neural Networks under $μ$P Parametrization**|Zixiang Chen et.al.|[2503.09565v1](http://arxiv.org/abs/2503.09565v1)|**2025-03-12**|null|
-|**2025-03-12**|**Evolution of Adaptive Force Chains in Reconfigurable Granular Metamaterials**|Sven Witthaus et.al.|[2503.09564v1](http://arxiv.org/abs/2503.09564v1)|**2025-03-12**|null|
-|**2025-03-12**|**The R2D2 Deep Neural Network Series for Scalable Non-Cartesian Magnetic Resonance Imaging**|Yiwei Chen et.al.|[2503.09559v2](http://arxiv.org/abs/2503.09559v2)|**2025-03-13**|null|
-|**2025-03-12**|**The Topological form is the Pfaffian form**|Paul-Hermann Balduf et.al.|[2503.09558v1](http://arxiv.org/abs/2503.09558v1)|**2025-03-12**|null|
-|**2025-03-12**|**Electromyography-Informed Facial Expression Reconstruction for Physiological-Based Synthesis and Analysis**|Tim Büchner et.al.|[2503.09556v1](http://arxiv.org/abs/2503.09556v1)|**2025-03-12**|null|
-|**2025-03-12**|**Using Convolutional Neural Networks to Accelerate 3D Coherent Synchrotron Radiation Computations**|Christopher Leon et.al.|[2503.09551v1](http://arxiv.org/abs/2503.09551v1)|**2025-03-12**|null|
-|**2025-03-12**|**Evaluating Multi-Instance DNN Inferencing on Multiple Accelerators of an Edge Device**|Mumuksh Tayal et.al.|[2503.09546v1](http://arxiv.org/abs/2503.09546v1)|**2025-03-12**|null|
-|**2025-03-12**|**Quantum position verification in one shot: parallel repetition of the $f$-BB84 and $f$-routing protocols**|Llorenç Escolà-Farràs et.al.|[2503.09544v1](http://arxiv.org/abs/2503.09544v1)|**2025-03-12**|null|
-|**2025-03-12**|**Neural Network-Based Change Point Detection for Large-Scale Time-Evolving Data**|Jialiang Geng et.al.|[2503.09541v1](http://arxiv.org/abs/2503.09541v1)|**2025-03-12**|null|
-|**2025-03-12**|**Spectral properties of a disordered insulating lattice under nonlinear electric field**|Kunal Mozumdar et.al.|[2503.09539v1](http://arxiv.org/abs/2503.09539v1)|**2025-03-12**|null|
-|**2025-03-12**|**Evaluating Visual Explanations of Attention Maps for Transformer-based Medical Imaging**|Minjae Chung et.al.|[2503.09535v1](http://arxiv.org/abs/2503.09535v1)|**2025-03-12**|null|
-|**2025-03-12**|**Analysis of a Spotify Collaboration Network for Small-World Properties**|Raquel Ana Magalhães Bush et.al.|[2503.09526v1](http://arxiv.org/abs/2503.09526v1)|**2025-03-12**|null|
-|**2025-03-12**|**The Capacity of Modern Hopfield Networks under the Data Manifold Hypothesis**|Beatrice Achilli et.al.|[2503.09518v1](http://arxiv.org/abs/2503.09518v1)|**2025-03-12**|null|
-|**2025-03-12**|**CM-Diff: A Single Generative Network for Bidirectional Cross-Modality Translation Diffusion Model Between Infrared and Visible Images**|Bin Hu et.al.|[2503.09514v1](http://arxiv.org/abs/2503.09514v1)|**2025-03-12**|null|
-|**2025-03-12**|**RESTRAIN: Reinforcement Learning-Based Secure Framework for Trigger-Action IoT Environment**|Md Morshed Alam et.al.|[2503.09513v1](http://arxiv.org/abs/2503.09513v1)|**2025-03-12**|null|
-|**2025-03-12**|**ViM-VQ: Efficient Post-Training Vector Quantization for Visual Mamba**|Juncan Deng et.al.|[2503.09509v1](http://arxiv.org/abs/2503.09509v1)|**2025-03-12**|null|
-|**2025-03-12**|**Learning Cascade Ranking as One Network**|Yunli Wang et.al.|[2503.09492v1](http://arxiv.org/abs/2503.09492v1)|**2025-03-12**|null|
-|**2025-03-12**|**DAMM-Diffusion: Learning Divergence-Aware Multi-Modal Diffusion Model for Nanoparticles Distribution Prediction**|Junjie Zhou et.al.|[2503.09491v1](http://arxiv.org/abs/2503.09491v1)|**2025-03-12**|null|
-|**2025-03-12**|**A quantitative way to e-positivity of trees**|Ethan Y. H. Li et.al.|[2503.09484v1](http://arxiv.org/abs/2503.09484v1)|**2025-03-12**|null|
-|**2025-03-12**|**Exploring the boundary of quantum network states from inside out**|Xiang Zhou et.al.|[2503.09480v1](http://arxiv.org/abs/2503.09480v1)|**2025-03-12**|null|
-|**2025-03-12**|**Neural reservoir control of a soft bio-hybrid arm**|Noel Naughton et.al.|[2503.09477v1](http://arxiv.org/abs/2503.09477v1)|**2025-03-12**|null|
-|**2025-03-12**|**No quantum advantage without classical communication: fundamental limitations of quantum networks**|Justus Neumann et.al.|[2503.09473v1](http://arxiv.org/abs/2503.09473v1)|**2025-03-12**|null|
-|**2025-03-12**|**Beyond 2-approximation for k-Center in Graphs**|Ce Jin et.al.|[2503.09468v1](http://arxiv.org/abs/2503.09468v1)|**2025-03-12**|null|
-|**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464v1](http://arxiv.org/abs/2503.09464v1)|**2025-03-12**|null|
-|**2025-03-12**|**Star decompositions and independent sets in random regular graphs**|Viktor Harangi et.al.|[2503.09458v1](http://arxiv.org/abs/2503.09458v1)|**2025-03-12**|null|
+|**2025-03-13**|**Charting and Navigating Hugging Face's Model Atlas**|Eliahu Horwitz et.al.|[2503.10633v1](http://arxiv.org/abs/2503.10633v1)|**2025-03-13**|null|
+|**2025-03-13**|**Kolmogorov-Arnold Attention: Is Learnable Attention Better For Vision Transformers?**|Subhajit Maity et.al.|[2503.10632v1](http://arxiv.org/abs/2503.10632v1)|**2025-03-13**|null|
+|**2025-03-13**|**UniGoal: Towards Universal Zero-shot Goal-oriented Navigation**|Hang Yin et.al.|[2503.10630v1](http://arxiv.org/abs/2503.10630v1)|**2025-03-13**|null|
+|**2025-03-13**|**Transformers without Normalization**|Jiachen Zhu et.al.|[2503.10622v1](http://arxiv.org/abs/2503.10622v1)|**2025-03-13**|null|
+|**2025-03-13**|**CoSTA$\ast$: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing**|Advait Gupta et.al.|[2503.10613v1](http://arxiv.org/abs/2503.10613v1)|**2025-03-13**|[link](https://github.com/tianyi-lab/CoSTAR)|
+|**2025-03-13**|**Searching for strong lensing by late-type galaxies in UNIONS**|J. A. Acevedo Barroso et.al.|[2503.10610v1](http://arxiv.org/abs/2503.10610v1)|**2025-03-13**|null|
+|**2025-03-13**|**Dual-Stage Cross-Modal Network with Dynamic Feature Fusion for Emotional Mimicry Intensity Estimation**|Jun Yu et.al.|[2503.10603v1](http://arxiv.org/abs/2503.10603v1)|**2025-03-13**|null|
+|**2025-03-13**|**GroomLight: Hybrid Inverse Rendering for Relightable Human Hair Appearance Modeling**|Yang Zheng et.al.|[2503.10597v1](http://arxiv.org/abs/2503.10597v1)|**2025-03-13**|null|
+|**2025-03-13**|**Poly-MgNet: Polynomial Building Blocks in Multigrid-Inspired ResNets**|Antonia van Betteray et.al.|[2503.10594v1](http://arxiv.org/abs/2503.10594v1)|**2025-03-13**|null|
+|**2025-03-13**|**The Spectral Bias of Shallow Neural Network Learning is Shaped by the Choice of Non-linearity**|Justin Sahs et.al.|[2503.10587v1](http://arxiv.org/abs/2503.10587v1)|**2025-03-13**|null|
+|**2025-03-13**|**Sample and Map from a Single Convex Potential: Generation using Conjugate Moment Measures**|Nina Vesseron et.al.|[2503.10576v1](http://arxiv.org/abs/2503.10576v1)|**2025-03-13**|null|
+|**2025-03-13**|**Low-Rank Matrix Regression via Least-Angle Regression**|Mingzhou Yin et.al.|[2503.10569v1](http://arxiv.org/abs/2503.10569v1)|**2025-03-13**|null|
+|**2025-03-13**|**References to unbiased sources increase the helpfulness of community fact-checks**|Kirill Solovev et.al.|[2503.10560v1](http://arxiv.org/abs/2503.10560v1)|**2025-03-13**|null|
+|**2025-03-13**|**Nut digraphs**|Nino Bašić et.al.|[2503.10548v1](http://arxiv.org/abs/2503.10548v1)|**2025-03-13**|null|
+|**2025-03-13**|**Learning Interpretable Logic Rules from Deep Vision Models**|Chuqin Geng et.al.|[2503.10547v1](http://arxiv.org/abs/2503.10547v1)|**2025-03-13**|null|
+|**2025-03-13**|**KUDA: Keypoints to Unify Dynamics Learning and Visual Prompting for Open-Vocabulary Robotic Manipulation**|Zixian Liu et.al.|[2503.10546v1](http://arxiv.org/abs/2503.10546v1)|**2025-03-13**|null|
+|**2025-03-13**|**DP-GPL: Differentially Private Graph Prompt Learning**|Jing Xu et.al.|[2503.10544v1](http://arxiv.org/abs/2503.10544v1)|**2025-03-13**|null|
+|**2025-03-13**|**A large multi-agent system with noise both in position and control**|Giuseppe D'Onofrio et.al.|[2503.10543v1](http://arxiv.org/abs/2503.10543v1)|**2025-03-13**|null|
+|**2025-03-13**|**Language Models, Graph Searching, and Supervision Adulteration: When More Supervision is Less and How to Make More More**|Arvid Frydenlund et.al.|[2503.10542v1](http://arxiv.org/abs/2503.10542v1)|**2025-03-13**|null|
+|**2025-03-13**|**Towards Transitive-free Digraphs**|Ankit Abhinav et.al.|[2503.10541v1](http://arxiv.org/abs/2503.10541v1)|**2025-03-13**|null|
+|**2025-03-13**|**Period-Luminosity Relations for Galactic Type II Cepheids in the Sloan bands**|W. Narloch et.al.|[2503.10532v1](http://arxiv.org/abs/2503.10532v1)|**2025-03-13**|null|
+|**2025-03-13**|**Efficient Precoding in XL-MIMO-AFDM System**|Jun Zhu et.al.|[2503.10525v1](http://arxiv.org/abs/2503.10525v1)|**2025-03-13**|null|
+|**2025-03-13**|**Interactive Multimodal Fusion with Temporal Modeling**|Jun Yu et.al.|[2503.10523v1](http://arxiv.org/abs/2503.10523v1)|**2025-03-13**|null|
+|**2025-03-13**|**Energy Reconstruction of Non-fiducial Electron-Positron Events in the DAMPE Experiment Using Convolutional Neural Networks**|Enzo Putti-Garcia et.al.|[2503.10521v1](http://arxiv.org/abs/2503.10521v1)|**2025-03-13**|null|
+|**2025-03-13**|**Concurrent Scheduling of High-Level Parallel Programs on Multi-GPU Systems**|Fabian Knorr et.al.|[2503.10516v1](http://arxiv.org/abs/2503.10516v1)|**2025-03-13**|null|
+|**2025-03-13**|**SySLLM: Generating Synthesized Policy Summaries for Reinforcement Learning Agents Using Large Language Models**|Sahar Admoni et.al.|[2503.10509v1](http://arxiv.org/abs/2503.10509v1)|**2025-03-13**|null|
+|**2025-03-13**|**The Second Phase Transition of the Contact Process on a Random Regular Graph**|John Fernley et.al.|[2503.10499v1](http://arxiv.org/abs/2503.10499v1)|**2025-03-13**|null|
+|**2025-03-13**|**Explainable Bayesian deep learning through input-skip Latent Binary Bayesian Neural Networks**|Eirik Høyheim et.al.|[2503.10496v1](http://arxiv.org/abs/2503.10496v1)|**2025-03-13**|[link](https://github.com/eirihoyh/ISLaB-LBBNN)|
+|**2025-03-13**|**Representation Learning, Large-Scale 3D Molecular Pretraining, Molecular Property**|Shuqi Lu et.al.|[2503.10489v1](http://arxiv.org/abs/2503.10489v1)|**2025-03-13**|null|
+|**2025-03-13**|**Grokking as an entanglement transition in tensor network machine learning**|Domenico Pomarico et.al.|[2503.10483v1](http://arxiv.org/abs/2503.10483v1)|**2025-03-13**|null|

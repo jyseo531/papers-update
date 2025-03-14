@@ -2,33 +2,33 @@
 ### 3D Object Tracking
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-12**|**RewardSDS: Aligning Score Distillation via Reward-Weighted Sampling**|Itay Chachy et.al.|[2503.09601v2](http://arxiv.org/abs/2503.09601v2)|**2025-03-13**|null|
-|**2025-03-12**|**MoC: Mixtures of Text Chunking Learners for Retrieval-Augmented Generation System**|Jihao Zhao et.al.|[2503.09600v1](http://arxiv.org/abs/2503.09600v1)|**2025-03-12**|null|
-|**2025-03-12**|**PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop**|Chenyu Li et.al.|[2503.09595v1](http://arxiv.org/abs/2503.09595v1)|**2025-03-12**|null|
-|**2025-03-12**|**Fair Federated Medical Image Classification Against Quality Shift via Inter-Client Progressive State Matching**|Nannan Wu et.al.|[2503.09587v1](http://arxiv.org/abs/2503.09587v1)|**2025-03-12**|null|
-|**2025-03-12**|**Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks**|Lutfi Eren Erdogan et.al.|[2503.09572v1](http://arxiv.org/abs/2503.09572v1)|**2025-03-12**|null|
-|**2025-03-12**|**FCaS: Fine-grained Cardiac Image Synthesis based on 3D Template Conditional Diffusion Model**|Jiahao Xia et.al.|[2503.09560v1](http://arxiv.org/abs/2503.09560v1)|**2025-03-12**|null|
-|**2025-03-12**|**Electromyography-Informed Facial Expression Reconstruction for Physiological-Based Synthesis and Analysis**|Tim Büchner et.al.|[2503.09556v1](http://arxiv.org/abs/2503.09556v1)|**2025-03-12**|null|
-|**2025-03-12**|**Using Convolutional Neural Networks to Accelerate 3D Coherent Synchrotron Radiation Computations**|Christopher Leon et.al.|[2503.09551v1](http://arxiv.org/abs/2503.09551v1)|**2025-03-12**|null|
-|**2025-03-12**|**Properties of Contracting Massive Protostellar Cores**|L. E. Pirogov et.al.|[2503.09547v1](http://arxiv.org/abs/2503.09547v1)|**2025-03-12**|null|
-|**2025-03-12**|**GenHPE: Generative Counterfactuals for 3D Human Pose Estimation with Radio Frequency Signals**|Shuokang Huang et.al.|[2503.09537v1](http://arxiv.org/abs/2503.09537v1)|**2025-03-12**|null|
-|**2025-03-12**|**CombatVLA: An Efficient Vision-Language-Action Model for Combat Tasks in 3D Action Role-Playing Games**|Peng Chen et.al.|[2503.09527v1](http://arxiv.org/abs/2503.09527v1)|**2025-03-12**|null|
-|**2025-03-12**|**TRACE: Real-Time Multimodal Common Ground Tracking in Situated Collaborative Dialogues**|Hannah VanderHoeven et.al.|[2503.09511v1](http://arxiv.org/abs/2503.09511v1)|**2025-03-12**|null|
-|**2025-03-12**|**Bounding the Optimal Performance of Online Randomized Primal-Dual Methods**|Pan Xu et.al.|[2503.09508v2](http://arxiv.org/abs/2503.09508v2)|**2025-03-13**|null|
-|**2025-03-12**|**ReMA: Learning to Meta-think for LLMs with Multi-Agent Reinforcement Learning**|Ziyu Wan et.al.|[2503.09501v1](http://arxiv.org/abs/2503.09501v1)|**2025-03-12**|null|
-|**2025-03-12**|**Calibration of Solid State Nuclear Track Detectors for Rare Event Searches**|M. Kalliokoski et.al.|[2503.09495v1](http://arxiv.org/abs/2503.09495v1)|**2025-03-12**|null|
-|**2025-03-12**|**Learning Cascade Ranking as One Network**|Yunli Wang et.al.|[2503.09492v1](http://arxiv.org/abs/2503.09492v1)|**2025-03-12**|null|
-|**2025-03-12**|**Sequential Quadratic Optimization for Solving Expectation Equality Constrained Stochastic Optimization Problems**|Haoming Shen et.al.|[2503.09490v1](http://arxiv.org/abs/2503.09490v1)|**2025-03-12**|null|
-|**2025-03-12**|**One-point large deviations of the directed landscape geodesic**|Daniel Spivak et.al.|[2503.09486v1](http://arxiv.org/abs/2503.09486v1)|**2025-03-12**|null|
-|**2025-03-12**|**A Multi-objective Sequential Quadratic Programming Algorithm Based on Low-order Smooth Penalty Function**|Zanyang Kong et.al.|[2503.09476v1](http://arxiv.org/abs/2503.09476v1)|**2025-03-12**|null|
-|**2025-03-12**|**SurgicalVLM-Agent: Towards an Interactive AI Co-Pilot for Pituitary Surgery**|Jiayuan Huang et.al.|[2503.09474v1](http://arxiv.org/abs/2503.09474v1)|**2025-03-12**|null|
-|**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464v1](http://arxiv.org/abs/2503.09464v1)|**2025-03-12**|null|
-|**2025-03-12**|**Automatic Association of Quality Requirements and Quantifiable Metrics for Cloud Security Certification**|John Bianchi et.al.|[2503.09460v1](http://arxiv.org/abs/2503.09460v1)|**2025-03-12**|null|
-|**2025-03-12**|**Effective conductivity of conduit networks with random conductivities**|I. Colecchio et.al.|[2503.09457v1](http://arxiv.org/abs/2503.09457v1)|**2025-03-12**|null|
-|**2025-03-12**|**Energy Metrics for Edge Microservice Request Placement Strategies**|Klervie Toczé et.al.|[2503.09450v1](http://arxiv.org/abs/2503.09450v1)|**2025-03-12**|null|
-|**2025-03-12**|**Fast computation of the TGOSPA metric for multiple target tracking via unbalanced optimal transport**|Viktor Nevelius Wernholm et.al.|[2503.09449v1](http://arxiv.org/abs/2503.09449v1)|**2025-03-12**|null|
-|**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447v1](http://arxiv.org/abs/2503.09447v1)|**2025-03-12**|null|
-|**2025-03-12**|**SuperCarver: Texture-Consistent 3D Geometry Super-Resolution for High-Fidelity Surface Detail Generation**|Qijian Zhang et.al.|[2503.09439v1](http://arxiv.org/abs/2503.09439v1)|**2025-03-12**|null|
-|**2025-03-12**|**A convex reformulation for speed planning of a vehicle under the travel time and energy consumption objectives**|Stefano Ardizzoni et.al.|[2503.09424v1](http://arxiv.org/abs/2503.09424v1)|**2025-03-12**|null|
-|**2025-03-12**|**Efficient Alignment of Unconditioned Action Prior for Language-conditioned Pick and Place in Clutter**|Kechun Xu et.al.|[2503.09423v1](http://arxiv.org/abs/2503.09423v1)|**2025-03-12**|null|
-|**2025-03-12**|**OpenVidVRD: Open-Vocabulary Video Visual Relation Detection via Prompt-Driven Semantic Space Alignment**|Qi Liu et.al.|[2503.09416v1](http://arxiv.org/abs/2503.09416v1)|**2025-03-12**|null|
+|**2025-03-13**|**V2Edit: Versatile Video Diffusion Editor for Videos and 3D Scenes**|Yanming Zhang et.al.|[2503.10634v1](http://arxiv.org/abs/2503.10634v1)|**2025-03-13**|null|
+|**2025-03-13**|**A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1**|Zhaoyi Li et.al.|[2503.10635v1](http://arxiv.org/abs/2503.10635v1)|**2025-03-13**|null|
+|**2025-03-13**|**UniGoal: Towards Universal Zero-shot Goal-oriented Navigation**|Hang Yin et.al.|[2503.10630v1](http://arxiv.org/abs/2503.10630v1)|**2025-03-13**|null|
+|**2025-03-13**|**NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models**|Mert Albaba et.al.|[2503.10626v1](http://arxiv.org/abs/2503.10626v1)|**2025-03-13**|null|
+|**2025-03-13**|**LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds**|Lingteng Qiu et.al.|[2503.10625v1](http://arxiv.org/abs/2503.10625v1)|**2025-03-13**|null|
+|**2025-03-13**|**ETCH: Generalizing Body Fitting to Clothed Humans via Equivariant Tightness**|Boqian Li et.al.|[2503.10624v1](http://arxiv.org/abs/2503.10624v1)|**2025-03-13**|null|
+|**2025-03-13**|**Siege: Autonomous Multi-Turn Jailbreaking of Large Language Models with Tree Search**|Andy Zhou et.al.|[2503.10619v1](http://arxiv.org/abs/2503.10619v1)|**2025-03-13**|null|
+|**2025-03-13**|**OVTR: End-to-End Open-Vocabulary Multiple Object Tracking with Transformer**|Jinyang Li et.al.|[2503.10616v1](http://arxiv.org/abs/2503.10616v1)|**2025-03-13**|null|
+|**2025-03-13**|**OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction**|Severin Heidrich et.al.|[2503.10605v1](http://arxiv.org/abs/2503.10605v1)|**2025-03-13**|null|
+|**2025-03-13**|**MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction**|Yingshuang Zou et.al.|[2503.10604v1](http://arxiv.org/abs/2503.10604v1)|**2025-03-13**|null|
+|**2025-03-13**|**TruthPrInt: Mitigating LVLM Object Hallucination Via Latent Truthful-Guided Pre-Intervention**|Jinhao Duan et.al.|[2503.10602v1](http://arxiv.org/abs/2503.10602v1)|**2025-03-13**|null|
+|**2025-03-13**|**GroundingSuite: Measuring Complex Multi-Granular Pixel Grounding**|Rui Hu et.al.|[2503.10596v1](http://arxiv.org/abs/2503.10596v1)|**2025-03-13**|null|
+|**2025-03-13**|**Long Context Tuning for Video Generation**|Yuwei Guo et.al.|[2503.10589v1](http://arxiv.org/abs/2503.10589v1)|**2025-03-13**|null|
+|**2025-03-13**|**Semantic-Supervised Spatial-Temporal Fusion for LiDAR-based 3D Object Detection**|Chaoqun Wang et.al.|[2503.10579v1](http://arxiv.org/abs/2503.10579v1)|**2025-03-13**|null|
+|**2025-03-13**|**Representation Theorems for Convex Expectations and Semigroups on Path Space**|David Criens et.al.|[2503.10572v1](http://arxiv.org/abs/2503.10572v1)|**2025-03-13**|null|
+|**2025-03-13**|**Apparent teleportation of indistinguishable particles**|Marek Gazdzicki et.al.|[2503.10565v1](http://arxiv.org/abs/2503.10565v1)|**2025-03-13**|null|
+|**2025-03-13**|**Towards Safe Path Tracking Using the Simplex Architecture**|Georg Jäger et.al.|[2503.10559v1](http://arxiv.org/abs/2503.10559v1)|**2025-03-13**|null|
+|**2025-03-13**|**A high-speed heterogeneous lithium tantalate silicon photonics platform**|Margot Niels et.al.|[2503.10557v1](http://arxiv.org/abs/2503.10557v1)|**2025-03-13**|null|
+|**2025-03-13**|**NuExo: A Wearable Exoskeleton Covering all Upper Limb ROM for Outdoor Data Collection and Teleoperation of Humanoid Robots**|Rui Zhong et.al.|[2503.10554v1](http://arxiv.org/abs/2503.10554v1)|**2025-03-13**|null|
+|**2025-03-13**|**KUDA: Keypoints to Unify Dynamics Learning and Visual Prompting for Open-Vocabulary Robotic Manipulation**|Zixian Liu et.al.|[2503.10546v1](http://arxiv.org/abs/2503.10546v1)|**2025-03-13**|null|
+|**2025-03-13**|**A Unified Dual Consensus Approach to Distributed Optimization with Globally-Coupled Constraints**|Zixuan Liu et.al.|[2503.10534v1](http://arxiv.org/abs/2503.10534v1)|**2025-03-13**|null|
+|**2025-03-13**|**Lightweight Models for Emotional Analysis in Video**|Quoc-Tien Nguyen et.al.|[2503.10530v1](http://arxiv.org/abs/2503.10530v1)|**2025-03-13**|null|
+|**2025-03-13**|**PiSA: A Self-Augmented Data Engine and Training Strategy for 3D Understanding with Large Models**|Zilu Guo et.al.|[2503.10529v1](http://arxiv.org/abs/2503.10529v1)|**2025-03-13**|null|
+|**2025-03-13**|**SySLLM: Generating Synthesized Policy Summaries for Reinforcement Learning Agents Using Large Language Models**|Sahar Admoni et.al.|[2503.10509v1](http://arxiv.org/abs/2503.10509v1)|**2025-03-13**|null|
+|**2025-03-13**|**Hoi2Anomaly: An Explainable Anomaly Detection Approach Guided by Human-Object Interaction**|Yuhan Wang et.al.|[2503.10508v1](http://arxiv.org/abs/2503.10508v1)|**2025-03-13**|null|
+|**2025-03-13**|**Characterization of porous nanoparticles using the lattice Boltzmann method for fluid flow**|Wagner Gomes Rodrigues Junior et.al.|[2503.10502v1](http://arxiv.org/abs/2503.10502v1)|**2025-03-13**|null|
+|**2025-03-13**|**OmniSTVG: Toward Spatio-Temporal Omni-Object Video Grounding**|Jiali Yao et.al.|[2503.10500v1](http://arxiv.org/abs/2503.10500v1)|**2025-03-13**|null|
+|**2025-03-13**|**Representation Learning, Large-Scale 3D Molecular Pretraining, Molecular Property**|Shuqi Lu et.al.|[2503.10489v1](http://arxiv.org/abs/2503.10489v1)|**2025-03-13**|null|
+|**2025-03-13**|**Learning Robotic Policy with Imagined Transition: Mitigating the Trade-off between Robustness and Optimality**|Wei Xiao et.al.|[2503.10484v1](http://arxiv.org/abs/2503.10484v1)|**2025-03-13**|null|
+|**2025-03-13**|**Rotatable Antennas for Integrated Sensing and Communications**|Chao Zhou et.al.|[2503.10472v1](http://arxiv.org/abs/2503.10472v1)|**2025-03-13**|null|

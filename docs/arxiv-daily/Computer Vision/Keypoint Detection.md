@@ -2,6 +2,14 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-13**|**KUDA: Keypoints to Unify Dynamics Learning and Visual Prompting for Open-Vocabulary Robotic Manipulation**|Zixian Liu et.al.|[2503.10546v1](http://arxiv.org/abs/2503.10546v1)|**2025-03-13**|null|
+|**2025-03-13**|**Consistent multi-animal pose estimation in cattle using dynamic Kalman filter based tracking**|Maarten Perneel et.al.|[2503.10450v1](http://arxiv.org/abs/2503.10450v1)|**2025-03-13**|null|
+|**2025-03-13**|**HSEmotion Team at ABAW-8 Competition: Audiovisual Ambivalence/Hesitancy, Emotional Mimicry Intensity and Facial Expression Recognition**|Andrey V. Savchenko et.al.|[2503.10399v1](http://arxiv.org/abs/2503.10399v1)|**2025-03-13**|null|
+|**2025-03-13**|**SVIP: Semantically Contextualized Visual Patches for Zero-Shot Learning**|Zhi Chen et.al.|[2503.10252v1](http://arxiv.org/abs/2503.10252v1)|**2025-03-13**|null|
+|**2025-03-13**|**Uncertainty-aware Long-tailed Weights Model the Utility of Pseudo-labels for Semi-supervised Learning**|Jiaqi Wu et.al.|[2503.09974v1](http://arxiv.org/abs/2503.09974v1)|**2025-03-13**|null|
+|**2025-03-12**|**New perspectives on Density-Matrix Embedding Theory**|Alicia Negre et.al.|[2503.09881v1](http://arxiv.org/abs/2503.09881v1)|**2025-03-12**|null|
+|**2025-03-12**|**Leveraging Semantic Attribute Binding for Free-Lunch Color Control in Diffusion Models**|Héctor Laria et.al.|[2503.09864v1](http://arxiv.org/abs/2503.09864v1)|**2025-03-12**|null|
+|**2025-03-12**|**Bidirectional Learned Facial Animation Codec for Low Bitrate Talking Head Videos**|Riku Takahashi et.al.|[2503.09787v1](http://arxiv.org/abs/2503.09787v1)|**2025-03-12**|null|
 |**2025-03-12**|**Better Together: Unified Motion Capture and 3D Avatar Reconstruction**|Arthur Moreau et.al.|[2503.09293v1](http://arxiv.org/abs/2503.09293v1)|**2025-03-12**|null|
 |**2025-03-12**|**Natural Humanoid Robot Locomotion with Generative Motion Prior**|Haodong Zhang et.al.|[2503.09015v1](http://arxiv.org/abs/2503.09015v1)|**2025-03-12**|null|
 |**2025-03-11**|**PromptGAR: Flexible Promptive Group Activity Recognition**|Zhangyu Jin et.al.|[2503.08933v1](http://arxiv.org/abs/2503.08933v1)|**2025-03-11**|null|
@@ -24,11 +32,3 @@
 |**2025-03-09**|**Hierarchical Multi-Objective Optimization for Precise Performance Design of Closed-Chain Legged Mechanisms**|Long Guo et.al.|[2503.06533v1](http://arxiv.org/abs/2503.06533v1)|**2025-03-09**|null|
 |**2025-03-09**|**TextInPlace: Indoor Visual Place Recognition in Repetitive Structures with Scene Text Spotting and Verification**|Huaqi Tao et.al.|[2503.06501v1](http://arxiv.org/abs/2503.06501v1)|**2025-03-09**|null|
 |**2025-03-08**|**Pretraining Generative Flow Networks with Inexpensive Rewards for Molecular Graph Generation**|Mohit Pandey et.al.|[2503.06337v1](http://arxiv.org/abs/2503.06337v1)|**2025-03-08**|null|
-|**2025-03-08**|**NeuraLoc: Visual Localization in Neural Implicit Map with Dual Complementary Features**|Hongjia Zhai et.al.|[2503.06117v1](http://arxiv.org/abs/2503.06117v1)|**2025-03-08**|null|
-|**2025-03-08**|**ReJSHand: Efficient Real-Time Hand Pose Estimation and Mesh Reconstruction Using Refined Joint and Skeleton Features**|Shan An et.al.|[2503.05995v1](http://arxiv.org/abs/2503.05995v1)|**2025-03-08**|null|
-|**2025-03-07**|**Molecular representations of quantum circuits for quantum machine learning**|Elham Torabian et.al.|[2503.05955v1](http://arxiv.org/abs/2503.05955v1)|**2025-03-07**|null|
-|**2025-03-07**|**Differentiable Rendering-based Pose Estimation for Surgical Robotic Instruments**|Zekai Liang et.al.|[2503.05953v1](http://arxiv.org/abs/2503.05953v1)|**2025-03-07**|null|
-|**2025-03-07**|**Audio-to-Image Encoding for Improved Voice Characteristic Detection Using Deep Convolutional Neural Networks**|Youness Atif et.al.|[2503.05929v1](http://arxiv.org/abs/2503.05929v1)|**2025-03-07**|null|
-|**2025-03-07**|**Automatic determination of quasicrystalline patterns from microscopy images**|Tano Kim Kender et.al.|[2503.05472v1](http://arxiv.org/abs/2503.05472v1)|**2025-03-07**|null|
-|**2025-03-07**|**EDM: Efficient Deep Feature Matching**|Xi Li et.al.|[2503.05122v1](http://arxiv.org/abs/2503.05122v1)|**2025-03-07**|null|
-|**2025-03-06**|**Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**|Benjamin Billot et.al.|[2503.04499v2](http://arxiv.org/abs/2503.04499v2)|**2025-03-07**|null|

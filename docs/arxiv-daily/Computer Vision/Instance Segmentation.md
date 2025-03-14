@@ -2,33 +2,33 @@
 ### Instance Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-12**|**Evolution of the Three Spectral Components in the Prompt Emission of GRB 240825A**|Chen-Wei Wang et.al.|[2503.09562v1](http://arxiv.org/abs/2503.09562v1)|**2025-03-12**|null|
-|**2025-03-12**|**FCaS: Fine-grained Cardiac Image Synthesis based on 3D Template Conditional Diffusion Model**|Jiahao Xia et.al.|[2503.09560v1](http://arxiv.org/abs/2503.09560v1)|**2025-03-12**|null|
-|**2025-03-12**|**Evaluating Multi-Instance DNN Inferencing on Multiple Accelerators of an Edge Device**|Mumuksh Tayal et.al.|[2503.09546v1](http://arxiv.org/abs/2503.09546v1)|**2025-03-12**|null|
-|**2025-03-12**|**Large Language Models for Multi-Facility Location Mechanism Design**|Nguyen Thach et.al.|[2503.09533v2](http://arxiv.org/abs/2503.09533v2)|**2025-03-13**|null|
-|**2025-03-12**|**SAEBench: A Comprehensive Benchmark for Sparse Autoencoders in Language Model Interpretability**|Adam Karvonen et.al.|[2503.09532v2](http://arxiv.org/abs/2503.09532v2)|**2025-03-13**|null|
-|**2025-03-12**|**Parameter-Efficient Adaptation of Geospatial Foundation Models through Embedding Deflection**|Romain Thoreau et.al.|[2503.09493v1](http://arxiv.org/abs/2503.09493v1)|**2025-03-12**|null|
-|**2025-03-12**|**SurgicalVLM-Agent: Towards an Interactive AI Co-Pilot for Pituitary Surgery**|Jiayuan Huang et.al.|[2503.09474v1](http://arxiv.org/abs/2503.09474v1)|**2025-03-12**|null|
-|**2025-03-12**|**Beyond 2-approximation for k-Center in Graphs**|Ce Jin et.al.|[2503.09468v1](http://arxiv.org/abs/2503.09468v1)|**2025-03-12**|null|
-|**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464v1](http://arxiv.org/abs/2503.09464v1)|**2025-03-12**|null|
-|**2025-03-12**|**Energy Metrics for Edge Microservice Request Placement Strategies**|Klervie Toczé et.al.|[2503.09450v1](http://arxiv.org/abs/2503.09450v1)|**2025-03-12**|null|
-|**2025-03-12**|**Astrea: A MOE-based Visual Understanding Model with Progressive Alignment**|Xiaoda Yang et.al.|[2503.09445v1](http://arxiv.org/abs/2503.09445v1)|**2025-03-12**|null|
-|**2025-03-12**|**Multiple Speaker Separation from Noisy Sources in Reverberant Rooms using Relative Transfer Matrix**|Wageesha N. Manamperi et.al.|[2503.09412v1](http://arxiv.org/abs/2503.09412v1)|**2025-03-12**|null|
-|**2025-03-12**|**Diff-CL: A Novel Cross Pseudo-Supervision Method for Semi-supervised Medical Image Segmentation**|Xiuzhen Guo et.al.|[2503.09408v1](http://arxiv.org/abs/2503.09408v1)|**2025-03-12**|null|
-|**2025-03-12**|**Adjusted Count Quantification Learning on Graphs**|Clemens Damke et.al.|[2503.09395v1](http://arxiv.org/abs/2503.09395v1)|**2025-03-12**|null|
-|**2025-03-12**|**Post-interactive Multimodal Trajectory Prediction for Autonomous Driving**|Ziyi Huang et.al.|[2503.09366v1](http://arxiv.org/abs/2503.09366v1)|**2025-03-12**|null|
-|**2025-03-12**|**GIGP: A Global Information Interacting and Geometric Priors Focusing Framework for Semi-supervised Medical Image Segmentation**|Lianyuan Yu et.al.|[2503.09355v1](http://arxiv.org/abs/2503.09355v1)|**2025-03-12**|null|
-|**2025-03-12**|**Unified Dense Prediction of Video Diffusion**|Lehan Yang et.al.|[2503.09344v1](http://arxiv.org/abs/2503.09344v1)|**2025-03-12**|null|
-|**2025-03-12**|**NVP-HRI: Zero Shot Natural Voice and Posture-based Human-Robot Interaction via Large Language Model**|Yuzhi Lai et.al.|[2503.09335v1](http://arxiv.org/abs/2503.09335v1)|**2025-03-12**|null|
-|**2025-03-12**|**2HandedAfforder: Learning Precise Actionable Bimanual Affordances from Human Videos**|Marvin Heidinger et.al.|[2503.09320v2](http://arxiv.org/abs/2503.09320v2)|**2025-03-13**|null|
-|**2025-03-12**|**ShuffleGate: An Efficient and Self-Polarizing Feature Selection Method for Large-Scale Deep Models in Industry**|Yihong Huang et.al.|[2503.09315v1](http://arxiv.org/abs/2503.09315v1)|**2025-03-12**|null|
-|**2025-03-12**|**Active Learning Inspired ControlNet Guidance for Augmenting Semantic Segmentation Datasets**|Hannah Kniesel et.al.|[2503.09221v1](http://arxiv.org/abs/2503.09221v1)|**2025-03-12**|null|
-|**2025-03-12**|**Rethinking Prompt-based Debiasing in Large Language Models**|Xinyi Yang et.al.|[2503.09219v1](http://arxiv.org/abs/2503.09219v1)|**2025-03-12**|null|
-|**2025-03-12**|**N2C2: Nearest Neighbor Enhanced Confidence Calibration for Cross-Lingual In-Context Learning**|Jie He et.al.|[2503.09218v1](http://arxiv.org/abs/2503.09218v1)|**2025-03-12**|null|
-|**2025-03-12**|**Periodic orbits in time-dependent planar Stark-Zeeman systems**|Urs Frauenfelder et.al.|[2503.09209v1](http://arxiv.org/abs/2503.09209v1)|**2025-03-12**|null|
-|**2025-03-12**|**Quality Over Quantity? LLM-Based Curation for a Data-Efficient Audio-Video Foundation Model**|Ali Vosoughi et.al.|[2503.09205v1](http://arxiv.org/abs/2503.09205v1)|**2025-03-12**|null|
-|**2025-03-12**|**Learning Appearance and Motion Cues for Panoptic Tracking**|Juana Valeria Hurtado et.al.|[2503.09191v1](http://arxiv.org/abs/2503.09191v1)|**2025-03-12**|null|
-|**2025-03-12**|**Polygonizing Roof Segments from High-Resolution Aerial Images Using Yolov8-Based Edge Detection**|Qipeng Mei et.al.|[2503.09187v1](http://arxiv.org/abs/2503.09187v1)|**2025-03-12**|null|
-|**2025-03-12**|**Incomplete Multi-view Clustering via Diffusion Contrastive Generation**|Yuanyang Zhang et.al.|[2503.09185v1](http://arxiv.org/abs/2503.09185v1)|**2025-03-12**|null|
-|**2025-03-12**|**Dynamic Feature Selection from Variable Feature Sets Using Features of Features**|Katsumi Takahashi et.al.|[2503.09181v1](http://arxiv.org/abs/2503.09181v1)|**2025-03-12**|null|
-|**2025-03-12**|**A novel layered reconstruction framework for longitudinal segmented electromagnetic calorimeter**|J. Fei et.al.|[2503.09163v1](http://arxiv.org/abs/2503.09163v1)|**2025-03-12**|null|
+|**2025-03-13**|**UniGoal: Towards Universal Zero-shot Goal-oriented Navigation**|Hang Yin et.al.|[2503.10630v1](http://arxiv.org/abs/2503.10630v1)|**2025-03-13**|null|
+|**2025-03-13**|**SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems**|Ziyu Guo et.al.|[2503.10627v1](http://arxiv.org/abs/2503.10627v1)|**2025-03-13**|null|
+|**2025-03-13**|**NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models**|Mert Albaba et.al.|[2503.10626v1](http://arxiv.org/abs/2503.10626v1)|**2025-03-13**|null|
+|**2025-03-13**|**GroundingSuite: Measuring Complex Multi-Granular Pixel Grounding**|Rui Hu et.al.|[2503.10596v1](http://arxiv.org/abs/2503.10596v1)|**2025-03-13**|null|
+|**2025-03-13**|**How Should We Evaluate Uncertainty in Accelerated MRI Reconstruction?**|Luca Trautmann et.al.|[2503.10527v1](http://arxiv.org/abs/2503.10527v1)|**2025-03-13**|null|
+|**2025-03-13**|**Extreme Learning Machines for Attention-based Multiple Instance Learning in Whole-Slide Image Classification**|Rajiv Krishnakumar et.al.|[2503.10510v1](http://arxiv.org/abs/2503.10510v1)|**2025-03-13**|null|
+|**2025-03-13**|**Source-primed Multi-turn Conversation Helps Large Language Models Translate Documents**|Hanxu Hu et.al.|[2503.10494v1](http://arxiv.org/abs/2503.10494v1)|**2025-03-13**|null|
+|**2025-03-13**|**Siamese Foundation Models for Crystal Structure Prediction**|Liming Wu et.al.|[2503.10471v1](http://arxiv.org/abs/2503.10471v1)|**2025-03-13**|null|
+|**2025-03-13**|**Hyperbolic Banach spaces I -- Directed completion of partial orders**|Nicola Gigli et.al.|[2503.10467v1](http://arxiv.org/abs/2503.10467v1)|**2025-03-13**|null|
+|**2025-03-13**|**Category Prompt Mamba Network for Nuclei Segmentation and Classification**|Ye Zhang et.al.|[2503.10422v1](http://arxiv.org/abs/2503.10422v1)|**2025-03-13**|null|
+|**2025-03-13**|**RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing**|Fengxiang Wang et.al.|[2503.10392v1](http://arxiv.org/abs/2503.10392v1)|**2025-03-13**|null|
+|**2025-03-13**|**A Multimodal Fusion Model Leveraging MLP Mixer and Handcrafted Features-based Deep Learning Networks for Facial Palsy Detection**|Heng Yim Nicole Oo et.al.|[2503.10371v1](http://arxiv.org/abs/2503.10371v1)|**2025-03-13**|null|
+|**2025-03-13**|**OSMa-Bench: Evaluating Open Semantic Mapping Under Varying Lighting Conditions**|Maxim Popov et.al.|[2503.10331v1](http://arxiv.org/abs/2503.10331v1)|**2025-03-13**|null|
+|**2025-03-13**|**Eye on the Target: Eye Tracking Meets Rodent Tracking**|Emil Mededovic et.al.|[2503.10305v1](http://arxiv.org/abs/2503.10305v1)|**2025-03-13**|null|
+|**2025-03-13**|**Unveiling the Invisible: Reasoning Complex Occlusions Amodally with AURA**|Zhixuan Li et.al.|[2503.10225v1](http://arxiv.org/abs/2503.10225v1)|**2025-03-13**|null|
+|**2025-03-13**|**TARS: Traffic-Aware Radar Scene Flow Estimation**|Jialong Wu et.al.|[2503.10210v1](http://arxiv.org/abs/2503.10210v1)|**2025-03-13**|null|
+|**2025-03-13**|**A Spectral Projected Gradient Method for Computational Protein Design problem**|Yukai Zheng et.al.|[2503.10203v1](http://arxiv.org/abs/2503.10203v1)|**2025-03-13**|null|
+|**2025-03-13**|**LVAgent: Long Video Understanding by Multi-Round Dynamical Collaboration of MLLM Agents**|Boyu Chen et.al.|[2503.10200v1](http://arxiv.org/abs/2503.10200v1)|**2025-03-13**|null|
+|**2025-03-13**|**A filtered Lie splitting method for the Zakharov system with low regularity estimates**|Lun Ji et.al.|[2503.10196v1](http://arxiv.org/abs/2503.10196v1)|**2025-03-13**|null|
+|**2025-03-13**|**A Hierarchical Semantic Distillation Framework for Open-Vocabulary Object Detection**|Shenghao Fu et.al.|[2503.10152v1](http://arxiv.org/abs/2503.10152v1)|**2025-03-13**|null|
+|**2025-03-13**|**Towards Manufacturing-Friendly Shapes in Discrete Topology Optimization**|Vojtech Neuman et.al.|[2503.10133v1](http://arxiv.org/abs/2503.10133v1)|**2025-03-13**|null|
+|**2025-03-13**|**Deep Learning-Based Direct Leaf Area Estimation using Two RGBD Datasets for Model Development**|Namal Jayasuriya et.al.|[2503.10129v1](http://arxiv.org/abs/2503.10129v1)|**2025-03-13**|null|
+|**2025-03-13**|**StepMathAgent: A Step-Wise Agent for Evaluating Mathematical Processes through Tree-of-Error**|Shu-Xun Yang et.al.|[2503.10105v1](http://arxiv.org/abs/2503.10105v1)|**2025-03-13**|null|
+|**2025-03-13**|**Semantic Synergy: Unlocking Policy Insights and Learning Pathways Through Advanced Skill Mapping**|Phoebe Koundouri et.al.|[2503.10094v1](http://arxiv.org/abs/2503.10094v1)|**2025-03-13**|null|
+|**2025-03-13**|**Image Quality Assessment: From Human to Machine Preference**|Chunyi Li et.al.|[2503.10078v1](http://arxiv.org/abs/2503.10078v1)|**2025-03-13**|null|
+|**2025-03-13**|**Parallelizing Multi-objective A* Search**|Saman Ahmadi et.al.|[2503.10075v1](http://arxiv.org/abs/2503.10075v1)|**2025-03-13**|null|
+|**2025-03-13**|**AI-assisted Early Detection of Pancreatic Ductal Adenocarcinoma on Contrast-enhanced CT**|Han Liu et.al.|[2503.10068v1](http://arxiv.org/abs/2503.10068v1)|**2025-03-13**|null|
+|**2025-03-13**|**Using Context to Improve Word Segmentation**|Stephanie Hu et.al.|[2503.10023v1](http://arxiv.org/abs/2503.10023v1)|**2025-03-13**|null|
+|**2025-03-13**|**Tantalizing Evidence of Reionization Relics in the eBOSS DR16 Ly$\boldsymbolα$ Forest Correlations: a Preference for Early Reionization**|Yifan Zheng et.al.|[2503.09971v1](http://arxiv.org/abs/2503.09971v1)|**2025-03-13**|null|
+|**2025-03-13**|**Reference-Free 3D Reconstruction of Brain Dissection Photographs with Machine Learning**|Lin Tian et.al.|[2503.09963v1](http://arxiv.org/abs/2503.09963v1)|**2025-03-13**|null|
