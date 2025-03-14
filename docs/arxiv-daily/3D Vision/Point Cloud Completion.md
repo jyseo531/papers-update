@@ -9,7 +9,7 @@
 |**2025-03-12**|**Global Convergence and Rich Feature Learning in $L$-Layer Infinite-Width Neural Networks under $μ$P Parametrization**|Zixiang Chen et.al.|[2503.09565v1](http://arxiv.org/abs/2503.09565v1)|**2025-03-12**|null|
 |**2025-03-12**|**Evolution of Adaptive Force Chains in Reconfigurable Granular Metamaterials**|Sven Witthaus et.al.|[2503.09564v1](http://arxiv.org/abs/2503.09564v1)|**2025-03-12**|null|
 |**2025-03-12**|**Equivalence of Quantum Approximate Optimization Algorithm and Linear-Time Quantum Annealing for the Sherrington-Kirkpatrick Model**|Sami Boulebnane et.al.|[2503.09563v1](http://arxiv.org/abs/2503.09563v1)|**2025-03-12**|null|
-|**2025-03-12**|**A note on Erdős matrices and Marcus--Ree inequality**|Aman Kushwaha et.al.|[2503.09542v1](http://arxiv.org/abs/2503.09542v1)|**2025-03-12**|null|
+|**2025-03-12**|**A note on Erdős matrices and Marcus$\unicode{x2013}$Ree inequality**|Aman Kushwaha et.al.|[2503.09542v2](http://arxiv.org/abs/2503.09542v2)|**2025-03-13**|null|
 |**2025-03-12**|**Neural Network-Based Change Point Detection for Large-Scale Time-Evolving Data**|Jialiang Geng et.al.|[2503.09541v1](http://arxiv.org/abs/2503.09541v1)|**2025-03-12**|null|
 |**2025-03-12**|**Two distinct quantum critical behaviors in the doped two-dimensional periodic Anderson model**|M. Kitatani et.al.|[2503.09529v1](http://arxiv.org/abs/2503.09529v1)|**2025-03-12**|null|
 |**2025-03-12**|**Pressure-induced strange metal phase in a metallic kagome ferromagnet**|Bin Shen et.al.|[2503.09524v1](http://arxiv.org/abs/2503.09524v1)|**2025-03-12**|null|

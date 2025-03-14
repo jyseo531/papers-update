@@ -29,6 +29,6 @@
 |**2025-03-12**|**Imaging neutron radiation-induced defects in single-crystal chemical vapor deposition diamond at the atomic level**|Jialiang Zhang et.al.|[2503.09420v1](http://arxiv.org/abs/2503.09420v1)|**2025-03-12**|null|
 |**2025-03-12**|**Efficient dynamic modal load reconstruction using physics-informed Gaussian processes based on frequency-sparse Fourier basis functions**|Gledson Rodrigo Tondo et.al.|[2503.09418v1](http://arxiv.org/abs/2503.09418v1)|**2025-03-12**|null|
 |**2025-03-12**|**ForAug: Recombining Foregrounds and Backgrounds to Improve Vision Transformer Training with Bias Mitigation**|Tobias Christian Nauen et.al.|[2503.09399v1](http://arxiv.org/abs/2503.09399v1)|**2025-03-12**|null|
-|**2025-03-12**|**Canonical equilibrium of mean-field $O(n)$~models in presence of random fields**|Soumya Kanti Pal et.al.|[2503.09389v1](http://arxiv.org/abs/2503.09389v1)|**2025-03-12**|null|
+|**2025-03-12**|**Canonical equilibrium of mean-field $O(n)$~models in presence of random fields**|Soumya Kanti Pal et.al.|[2503.09389v2](http://arxiv.org/abs/2503.09389v2)|**2025-03-13**|null|
 |**2025-03-12**|**Quantum Computing and Cybersecurity Education: A Novel Curriculum for Enhancing Graduate STEM Learning**|Suryansh Upadhyay et.al.|[2503.09375v1](http://arxiv.org/abs/2503.09375v1)|**2025-03-12**|null|
 |**2025-03-12**|**On non-planar ABJM anomalous dimensions from M2 branes in AdS$_{4}\times S^{7}/\mathbb{Z}_{k}$**|Matteo Beccaria et.al.|[2503.09360v1](http://arxiv.org/abs/2503.09360v1)|**2025-03-12**|null|

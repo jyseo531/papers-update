@@ -13,7 +13,7 @@
 |**2025-03-11**|**High-throughput computation and machine learning modeling of magnetic moments and Mössbauer parameters for Fe-based intermetallics**|Bo Zhao et.al.|[2503.08249v2](http://arxiv.org/abs/2503.08249v2)|**2025-03-12**|null|
 |**2025-03-11**|**HOTFormerLoc: Hierarchical Octree Transformer for Versatile Lidar Place Recognition Across Ground and Aerial Views**|Ethan Griffiths et.al.|[2503.08140v1](http://arxiv.org/abs/2503.08140v1)|**2025-03-11**|null|
 |**2025-03-11**|**BUFFER-X: Towards Zero-Shot Point Cloud Registration in Diverse Scenes**|Minkyun Seo et.al.|[2503.07940v1](http://arxiv.org/abs/2503.07940v1)|**2025-03-11**|null|
-|**2025-03-10**|**Thermodynamics-Inspired High-Entropy Oxide Synthesis**|Saeed S. I. Almishal et.al.|[2503.07865v1](http://arxiv.org/abs/2503.07865v1)|**2025-03-10**|null|
+|**2025-03-10**|**Thermodynamics-Inspired High-Entropy Oxide Synthesis**|Saeed S. I. Almishal et.al.|[2503.07865v2](http://arxiv.org/abs/2503.07865v2)|**2025-03-12**|null|
 |**2025-03-10**|**Geometric Retargeting: A Principled, Ultrafast Neural Hand Retargeting Algorithm**|Zhao-Heng Yin et.al.|[2503.07541v1](http://arxiv.org/abs/2503.07541v1)|**2025-03-10**|null|
 |**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413v1](http://arxiv.org/abs/2503.07413v1)|**2025-03-10**|[link](https://github.com/MacavityT/REF-VLM)|
 |**2025-03-10**|**Fully Unsupervised Annotation of C. Elegans**|Christoph Karg et.al.|[2503.07348v1](http://arxiv.org/abs/2503.07348v1)|**2025-03-10**|null|

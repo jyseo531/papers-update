@@ -2,7 +2,7 @@
 ### 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-12**|**RewardSDS: Aligning Score Distillation via Reward-Weighted Sampling**|Itay Chachy et.al.|[2503.09601v1](http://arxiv.org/abs/2503.09601v1)|**2025-03-12**|null|
+|**2025-03-12**|**RewardSDS: Aligning Score Distillation via Reward-Weighted Sampling**|Itay Chachy et.al.|[2503.09601v2](http://arxiv.org/abs/2503.09601v2)|**2025-03-13**|null|
 |**2025-03-12**|**FCaS: Fine-grained Cardiac Image Synthesis based on 3D Template Conditional Diffusion Model**|Jiahao Xia et.al.|[2503.09560v1](http://arxiv.org/abs/2503.09560v1)|**2025-03-12**|null|
 |**2025-03-12**|**Electromyography-Informed Facial Expression Reconstruction for Physiological-Based Synthesis and Analysis**|Tim Büchner et.al.|[2503.09556v1](http://arxiv.org/abs/2503.09556v1)|**2025-03-12**|null|
 |**2025-03-12**|**Using Convolutional Neural Networks to Accelerate 3D Coherent Synchrotron Radiation Computations**|Christopher Leon et.al.|[2503.09551v1](http://arxiv.org/abs/2503.09551v1)|**2025-03-12**|null|
@@ -22,13 +22,13 @@
 |**2025-03-12**|**Contrasting $c$-axis and in-plane uniaxial stress effects on superconductivity and stripe order in La$_{1.885}$Ba$_{0.115}$CuO$_4$**|S. S. Islam et.al.|[2503.09236v1](http://arxiv.org/abs/2503.09236v1)|**2025-03-12**|null|
 |**2025-03-12**|**A 3d particle visualization system for temperature management**|Benoit Lange et.al.|[2503.09198v1](http://arxiv.org/abs/2503.09198v1)|**2025-03-12**|null|
 |**2025-03-12**|**Long-Term Planning Around Humans in Domestic Environments with 3D Scene Graphs**|Ermanno Bartoli et.al.|[2503.09173v1](http://arxiv.org/abs/2503.09173v1)|**2025-03-12**|null|
-|**2025-03-12**|**WonderVerse: Extendable 3D Scene Generation with Video Generative Models**|Hao Feng et.al.|[2503.09160v1](http://arxiv.org/abs/2503.09160v1)|**2025-03-12**|null|
+|**2025-03-12**|**WonderVerse: Extendable 3D Scene Generation with Video Generative Models**|Hao Feng et.al.|[2503.09160v2](http://arxiv.org/abs/2503.09160v2)|**2025-03-13**|null|
 |**2025-03-12**|**On the impact of observation error correlations in data assimilation, with application to along-track altimeter data**|Olivier Goux et.al.|[2503.09140v1](http://arxiv.org/abs/2503.09140v1)|**2025-03-12**|null|
 |**2025-03-12**|**Extreme resilience and dissipation in heterogeneous disordered materials**|Jehoon Moon et.al.|[2503.09056v1](http://arxiv.org/abs/2503.09056v1)|**2025-03-12**|null|
 |**2025-03-12**|**The SAMI Galaxy Survey: large-scale environment affects galaxy spin amplitudes and the formation of slow rotators**|Stefania Barsanti et.al.|[2503.09052v1](http://arxiv.org/abs/2503.09052v1)|**2025-03-12**|null|
 |**2025-03-12**|**Motion Blender Gaussian Splatting for Dynamic Reconstruction**|Xinyu Zhang et.al.|[2503.09040v1](http://arxiv.org/abs/2503.09040v1)|**2025-03-12**|null|
 |**2025-03-12**|**Computational Design and Fabrication of Protective Foam**|Tsukasa Fukusato et.al.|[2503.09019v1](http://arxiv.org/abs/2503.09019v1)|**2025-03-12**|null|
-|**2025-03-12**|**HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots**|Qiang Zhang et.al.|[2503.09010v1](http://arxiv.org/abs/2503.09010v1)|**2025-03-12**|null|
+|**2025-03-12**|**HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots**|Qiang Zhang et.al.|[2503.09010v2](http://arxiv.org/abs/2503.09010v2)|**2025-03-13**|null|
 |**2025-03-12**|**Dual-Domain Homogeneous Fusion with Cross-Modal Mamba and Progressive Decoder for 3D Object Detection**|Xuzhong Hu et.al.|[2503.08992v1](http://arxiv.org/abs/2503.08992v1)|**2025-03-12**|null|
 |**2025-03-12**|**Large-scale multifractality and lack of self-similar decay for Burgers and 3D Navier-Stokes turbulence**|Takeshi Matsumoto et.al.|[2503.08983v1](http://arxiv.org/abs/2503.08983v1)|**2025-03-12**|null|
 |**2025-03-11**|**FP3: A 3D Foundation Policy for Robotic Manipulation**|Rujia Yang et.al.|[2503.08950v1](http://arxiv.org/abs/2503.08950v1)|**2025-03-11**|null|

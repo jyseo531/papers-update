@@ -8,7 +8,7 @@
 |**2025-03-12**|**Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks**|Lutfi Eren Erdogan et.al.|[2503.09572v1](http://arxiv.org/abs/2503.09572v1)|**2025-03-12**|null|
 |**2025-03-12**|**Properties of Contracting Massive Protostellar Cores**|L. E. Pirogov et.al.|[2503.09547v1](http://arxiv.org/abs/2503.09547v1)|**2025-03-12**|null|
 |**2025-03-12**|**TRACE: Real-Time Multimodal Common Ground Tracking in Situated Collaborative Dialogues**|Hannah VanderHoeven et.al.|[2503.09511v1](http://arxiv.org/abs/2503.09511v1)|**2025-03-12**|null|
-|**2025-03-12**|**Bounding the Optimal Performance of Online Randomized Primal-Dual Methods**|Pan Xu et.al.|[2503.09508v1](http://arxiv.org/abs/2503.09508v1)|**2025-03-12**|null|
+|**2025-03-12**|**Bounding the Optimal Performance of Online Randomized Primal-Dual Methods**|Pan Xu et.al.|[2503.09508v2](http://arxiv.org/abs/2503.09508v2)|**2025-03-13**|null|
 |**2025-03-12**|**ReMA: Learning to Meta-think for LLMs with Multi-Agent Reinforcement Learning**|Ziyu Wan et.al.|[2503.09501v1](http://arxiv.org/abs/2503.09501v1)|**2025-03-12**|null|
 |**2025-03-12**|**Calibration of Solid State Nuclear Track Detectors for Rare Event Searches**|M. Kalliokoski et.al.|[2503.09495v1](http://arxiv.org/abs/2503.09495v1)|**2025-03-12**|null|
 |**2025-03-12**|**Learning Cascade Ranking as One Network**|Yunli Wang et.al.|[2503.09492v1](http://arxiv.org/abs/2503.09492v1)|**2025-03-12**|null|
@@ -26,7 +26,7 @@
 |**2025-03-12**|**Close-up-GS: Enhancing Close-Up View Synthesis in 3D Gaussian Splatting with Progressive Self-Training**|Jiatong Xia et.al.|[2503.09396v1](http://arxiv.org/abs/2503.09396v1)|**2025-03-12**|null|
 |**2025-03-12**|**Diagnostic Systems in the Muon $g-2$ experiment at Fermilab**|Matteo Sorbara et.al.|[2503.09392v1](http://arxiv.org/abs/2503.09392v1)|**2025-03-12**|null|
 |**2025-03-12**|**Scalar Quasinormal Modes of Rotating Regular Black Holes**|Fech Scen Khoo et.al.|[2503.09390v1](http://arxiv.org/abs/2503.09390v1)|**2025-03-12**|null|
-|**2025-03-12**|**PCLA: A Framework for Testing Autonomous Agents in the CARLA Simulator**|Masoud Jamshidiyan Tehrani et.al.|[2503.09385v1](http://arxiv.org/abs/2503.09385v1)|**2025-03-12**|null|
+|**2025-03-12**|**PCLA: A Framework for Testing Autonomous Agents in the CARLA Simulator**|Masoud Jamshidiyan Tehrani et.al.|[2503.09385v2](http://arxiv.org/abs/2503.09385v2)|**2025-03-13**|null|
 |**2025-03-12**|**Robust Self-Reconfiguration for Fault-Tolerant Control of Modular Aerial Robot Systems**|Rui Huang et.al.|[2503.09376v1](http://arxiv.org/abs/2503.09376v1)|**2025-03-12**|null|
 |**2025-03-12**|**Deep Learning for Climate Action: Computer Vision Analysis of Visual Narratives on X**|Katharina Prasse et.al.|[2503.09361v1](http://arxiv.org/abs/2503.09361v1)|**2025-03-12**|null|
 |**2025-03-12**|**Fully-Synthetic Training for Visual Quality Inspection in Automotive Production**|Christoph Huber et.al.|[2503.09354v1](http://arxiv.org/abs/2503.09354v1)|**2025-03-12**|null|

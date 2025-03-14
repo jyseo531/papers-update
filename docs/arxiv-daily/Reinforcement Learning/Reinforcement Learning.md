@@ -16,7 +16,7 @@
 |**2025-03-12**|**MarineGym: A High-Performance Reinforcement Learning Platform for Underwater Robotics**|Shuguang Chu et.al.|[2503.09203v1](http://arxiv.org/abs/2503.09203v1)|**2025-03-12**|null|
 |**2025-03-12**|**Is LLMs Hallucination Usable? LLM-based Negative Reasoning for Fake News Detection**|Chaowei Zhang et.al.|[2503.09153v1](http://arxiv.org/abs/2503.09153v1)|**2025-03-12**|null|
 |**2025-03-12**|**Memory-enhanced Retrieval Augmentation for Long Video Understanding**|Huaying Yuan et.al.|[2503.09149v1](http://arxiv.org/abs/2503.09149v1)|**2025-03-12**|null|
-|**2025-03-12**|**Training Hybrid Deep Quantum Neural Network for Reinforced Learning Efficiently**|Jie Luo et.al.|[2503.09119v1](http://arxiv.org/abs/2503.09119v1)|**2025-03-12**|null|
+|**2025-03-12**|**Training Hybrid Deep Quantum Neural Network for Reinforced Learning Efficiently**|Jie Luo et.al.|[2503.09119v2](http://arxiv.org/abs/2503.09119v2)|**2025-03-13**|null|
 |**2025-03-12**|**Data-Driven Inverse Optimal Control for Continuous-Time Nonlinear Systems**|Hamed Jabbari Asl et.al.|[2503.09090v1](http://arxiv.org/abs/2503.09090v1)|**2025-03-12**|null|
 |**2025-03-12**|**Impact of Multi-Platform Social Media Strategy on Sales in E-Commerce**|Xiaoning Wang et.al.|[2503.09083v1](http://arxiv.org/abs/2503.09083v1)|**2025-03-12**|null|
 |**2025-03-12**|**Adaptive Temperature Based on Logits Correlation in Knowledge Distillation**|Kazuhiro Matsuyama et.al.|[2503.09030v1](http://arxiv.org/abs/2503.09030v1)|**2025-03-12**|null|
