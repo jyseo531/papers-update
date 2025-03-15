@@ -28,7 +28,7 @@
 |**2025-03-13**|**Semantic Synergy: Unlocking Policy Insights and Learning Pathways Through Advanced Skill Mapping**|Phoebe Koundouri et.al.|[2503.10094v1](http://arxiv.org/abs/2503.10094v1)|**2025-03-13**|null|
 |**2025-03-13**|**Image Quality Assessment: From Human to Machine Preference**|Chunyi Li et.al.|[2503.10078v1](http://arxiv.org/abs/2503.10078v1)|**2025-03-13**|null|
 |**2025-03-13**|**Parallelizing Multi-objective A* Search**|Saman Ahmadi et.al.|[2503.10075v1](http://arxiv.org/abs/2503.10075v1)|**2025-03-13**|null|
-|**2025-03-13**|**AI-assisted Early Detection of Pancreatic Ductal Adenocarcinoma on Contrast-enhanced CT**|Han Liu et.al.|[2503.10068v1](http://arxiv.org/abs/2503.10068v1)|**2025-03-13**|null|
+|**2025-03-13**|**AI-assisted Early Detection of Pancreatic Ductal Adenocarcinoma on Contrast-enhanced CT**|Han Liu et.al.|[2503.10068v1](http://arxiv.org/abs/2503.10068v1)|**2025-03-13**|[link](https://github.com/han-liu/PDAC_Detection)|
 |**2025-03-13**|**Using Context to Improve Word Segmentation**|Stephanie Hu et.al.|[2503.10023v1](http://arxiv.org/abs/2503.10023v1)|**2025-03-13**|null|
 |**2025-03-13**|**Tantalizing Evidence of Reionization Relics in the eBOSS DR16 Ly$\boldsymbolα$ Forest Correlations: a Preference for Early Reionization**|Yifan Zheng et.al.|[2503.09971v1](http://arxiv.org/abs/2503.09971v1)|**2025-03-13**|null|
 |**2025-03-13**|**Reference-Free 3D Reconstruction of Brain Dissection Photographs with Machine Learning**|Lin Tian et.al.|[2503.09963v1](http://arxiv.org/abs/2503.09963v1)|**2025-03-13**|null|
