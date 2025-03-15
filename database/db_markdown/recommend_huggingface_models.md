@@ -963,6 +963,7 @@ Updated on 2025-03-15
 | 244 | 2 | calcuis/hyvid-i2v-ggufImage-to-Video | Updatedabout 17 hours ago | [Link](https://huggingface.co/calcuis/hyvid-i2v-gguf) |
 | 136 | 2 | city96/LTX-Video-0 | Updated1 day ago | [Link](https://huggingface.co/city96/LTX-Video-0.9.5-gguf) |
 | 15 | 2 | Remade-AI/MuscleImage-to-Video | Updatedabout 13 hours ago | [Link](https://huggingface.co/Remade-AI/Muscle) |
+| 26 | 2 | Remade-AI/BabyImage-to-Video | Updatedabout 11 hours ago | [Link](https://huggingface.co/Remade-AI/Baby) |
 | 696 | Unknown | stabilityai/sv3dImage-to-Video | UpdatedJul 10, 2024 | [Link](https://huggingface.co/stabilityai/sv3d) |
 | 1 | Unknown | Latinos/TH3BULLImage-to-Video | UpdatedDec 20, 2023 | [Link](https://huggingface.co/Latinos/TH3BULL) |
 | 11 | Unknown | zyand/animate-anything-v1 | UpdatedDec 22, 2023 | [Link](https://huggingface.co/zyand/animate-anything-v1.02) |
@@ -1143,6 +1144,7 @@ Updated on 2025-03-15
 | 13 | 2 | zijiechen156/DeepSeek-R1-Medical-CoTQuestion | Updated2 days ago | [Link](https://huggingface.co/zijiechen156/DeepSeek-R1-Medical-CoT) |
 | 98 | 2 | akdeniz27/deberta-v2-xlarge-cuadQuestion | UpdatedMay 4, 2023 | [Link](https://huggingface.co/akdeniz27/deberta-v2-xlarge-cuad) |
 | 27 | 2 | InduwaraR/qwen-ai-research-qa-q4_k_m | Updatedabout 7 hours ago | [Link](https://huggingface.co/InduwaraR/qwen-ai-research-qa-q4_k_m.gguf) |
+| 18 | 2 | TIGER-Lab/MAmmoTH-VL2Question | Updated1 day ago | [Link](https://huggingface.co/TIGER-Lab/MAmmoTH-VL2) |
 | 133 | 1 | chieunq/xlm-r-base-uit-viquadQuestion | UpdatedDec 13, 2022 | [Link](https://huggingface.co/chieunq/xlm-r-base-uit-viquad) |
 | 4.98k |  | Intel/dynamic_tinybertQuestion | UpdatedMar 22, 2024 | [Link](https://huggingface.co/Intel/dynamic_tinybert) |
 | 170k |  | google-bert/bert-large-uncased-whole-word-masking-finetuned-squadQuestion | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/google-bert/bert-large-uncased-whole-word-masking-finetuned-squad) |
@@ -1503,6 +1505,7 @@ Updated on 2025-03-15
 | 6.11k | 40 | MoritzLaurer/ModernBERT-large-zeroshot-v2 | UpdatedJan 16 | [Link](https://huggingface.co/MoritzLaurer/ModernBERT-large-zeroshot-v2.0) |
 | 568 | 37 | thu-coai/roberta-base-coldText | UpdatedMar 16, 2023 | [Link](https://huggingface.co/thu-coai/roberta-base-cold) |
 | 4.58k | 30 | Skywork/Skywork-Reward-Gemma-2-27B-v0 | UpdatedOct 25, 2024 | [Link](https://huggingface.co/Skywork/Skywork-Reward-Gemma-2-27B-v0.2) |
+| 35 | 26 | HuggingFaceTB/python-edu-scorerText | UpdatedJul 16, 2024 | [Link](https://huggingface.co/HuggingFaceTB/python-edu-scorer) |
 | 903 | 24 | yiyanghkust/finbert-tone-chineseText | UpdatedFeb 6, 2024 | [Link](https://huggingface.co/yiyanghkust/finbert-tone-chinese) |
 | 1.33k | 24 | mrm8488/deberta-v3-ft-financial-news-sentiment-analysisText | UpdatedJan 21, 2024 | [Link](https://huggingface.co/mrm8488/deberta-v3-ft-financial-news-sentiment-analysis) |
 | 10.1k | 22 | bucketresearch/politicalBiasBERTText | UpdatedJul 13, 2023 | [Link](https://huggingface.co/bucketresearch/politicalBiasBERT) |
@@ -1528,6 +1531,7 @@ Updated on 2025-03-15
 | 538 | 3 | scb10x/typhoon2-safety-previewText | UpdatedDec 20, 2024 | [Link](https://huggingface.co/scb10x/typhoon2-safety-preview) |
 | 219 | 3 | borisn70/bert-43-multilabel-emotion-detectionText | UpdatedApr 15, 2024 | [Link](https://huggingface.co/borisn70/bert-43-multilabel-emotion-detection) |
 | 15 | 3 | hkust-nlp/preselect-fasttext-classifierText | Updatedabout 10 hours ago | [Link](https://huggingface.co/hkust-nlp/preselect-fasttext-classifier) |
+| 14.5k | 3 | AC/MiniLM-L12-H384-uncased_Nvidia-Aegis-AI-SafetyText | UpdatedJun 25, 2024 | [Link](https://huggingface.co/AC/MiniLM-L12-H384-uncased_Nvidia-Aegis-AI-Safety) |
 | 43.6k | 2 | r3ddkahili/final-complete-malicious-url-modelText | Updated18 days ago | [Link](https://huggingface.co/r3ddkahili/final-complete-malicious-url-model) |
 | 420 | 2 | yueliu1999/GuardReasoner-3BText | Updated24 days ago | [Link](https://huggingface.co/yueliu1999/GuardReasoner-3B) |
 | 17 | 2 | AICodexLab/answerdotai-ModernBERT-base-ai-detectorText | Updated6 days ago | [Link](https://huggingface.co/AICodexLab/answerdotai-ModernBERT-base-ai-detector) |
@@ -1610,6 +1614,7 @@ Updated on 2025-03-15
 | 443 | 25 | dnotitia/DNA-R1Text | Updated2 days ago | [Link](https://huggingface.co/dnotitia/DNA-R1) |
 | 1.28k | 25 | NousResearch/DeepHermes-3-Mistral-24B-PreviewText | Updatedabout 10 hours ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Mistral-24B-Preview) |
 | 1.46k | 25 | trashpanda-org/QwQ-32B-Snowdrop-v0Text | Updated1 day ago | [Link](https://huggingface.co/trashpanda-org/QwQ-32B-Snowdrop-v0) |
+| 457 | 25 | secemp9/TraceBack-12bText | Updated1 day ago | [Link](https://huggingface.co/secemp9/TraceBack-12b) |
 | 8.8k | 24 | unsloth/QwQ-32B-GGUFText | Updatedabout 1 hour ago | [Link](https://huggingface.co/unsloth/QwQ-32B-GGUF) |
 | 10.3k | 23 | unsloth/Phi-4-mini-instruct-GGUFText | Updated4 days ago | [Link](https://huggingface.co/unsloth/Phi-4-mini-instruct-GGUF) |
 | 26.8k | 23 | lmstudio-community/QwQ-32B-GGUFText | Updated1 day ago | [Link](https://huggingface.co/lmstudio-community/QwQ-32B-GGUF) |
@@ -1901,6 +1906,8 @@ Updated on 2025-03-15
 | 341k |  | Lightricks/LTX-VideoText-to-Video | Updated13 minutes ago | [Link](https://huggingface.co/Lightricks/LTX-Video) |
 | 166 | Unknown | rain1011/pyramid-flow-minifluxText-to-Video | UpdatedNov 13, 2024 | [Link](https://huggingface.co/rain1011/pyramid-flow-miniflux) |
 | 127 | Unknown | TMElyralab/MuseVText-to-Video | UpdatedApr 1, 2024 | [Link](https://huggingface.co/TMElyralab/MuseV) |
+| 37 | Unknown | hpcai-tech/Open-Sora-v2Text-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/hpcai-tech/Open-Sora-v2) |
+| 28 | Unknown | BestWishYsh/MagicTimeText-to-Video | UpdatedDec 3, 2024 | [Link](https://huggingface.co/BestWishYsh/MagicTime) |
 
 ## Text2Text Generation
 
