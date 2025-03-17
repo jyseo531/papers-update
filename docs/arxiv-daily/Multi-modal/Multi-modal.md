@@ -2,33 +2,33 @@
 ### Multi-modal
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-14**|**SmolDocling: An ultra-compact vision-language model for end-to-end multi-modal document conversion**|Ahmed Nassar et.al.|[2503.11576v1](http://arxiv.org/abs/2503.11576v1)|**2025-03-14**|null|
+|**2025-03-14**|**Multimodal nonlinear acoustics in two- and three-dimensional curved ducts**|Freddie Jensen et.al.|[2503.11536v1](http://arxiv.org/abs/2503.11536v1)|**2025-03-14**|null|
+|**2025-03-14**|**Exploring Typographic Visual Prompts Injection Threats in Cross-Modality Generation Models**|Hao Cheng et.al.|[2503.11519v1](http://arxiv.org/abs/2503.11519v1)|**2025-03-14**|null|
+|**2025-03-14**|**Cognitive Disentanglement for Referring Multi-Object Tracking**|Shaofeng Liang et.al.|[2503.11496v1](http://arxiv.org/abs/2503.11496v1)|**2025-03-14**|null|
+|**2025-03-14**|**MTV-Inpaint: Multi-Task Long Video Inpainting**|Shiyuan Yang et.al.|[2503.11412v1](http://arxiv.org/abs/2503.11412v1)|**2025-03-14**|null|
+|**2025-03-14**|**LuSeg: Efficient Negative and Positive Obstacles Segmentation via Contrast-Driven Multi-Modal Feature Fusion on the Lunar**|Shuaifeng Jiao et.al.|[2503.11409v1](http://arxiv.org/abs/2503.11409v1)|**2025-03-14**|null|
+|**2025-03-14**|**A Framework for a Capability-driven Evaluation of Scenario Understanding for Multimodal Large Language Models in Autonomous Driving**|Tin Stribor Sohn et.al.|[2503.11400v1](http://arxiv.org/abs/2503.11400v1)|**2025-03-14**|null|
+|**2025-03-14**|**Cornstarch: Distributed Multimodal Training Must Be Multimodality-Aware**|Insu Jang et.al.|[2503.11367v1](http://arxiv.org/abs/2503.11367v1)|**2025-03-14**|null|
+|**2025-03-14**|**PARIC: Probabilistic Attention Regularization for Language Guided Image Classification from Pre-trained Vison Language Models**|Mayank Nautiyal et.al.|[2503.11360v1](http://arxiv.org/abs/2503.11360v1)|**2025-03-14**|null|
+|**2025-03-14**|**Road Rage Reasoning with Vision-language Models (VLMs): Task Definition and Evaluation Dataset**|Yibing Weng et.al.|[2503.11342v1](http://arxiv.org/abs/2503.11342v1)|**2025-03-14**|null|
+|**2025-03-14**|**BriLLM: Brain-inspired Large Language Model**|Hai Zhao et.al.|[2503.11299v1](http://arxiv.org/abs/2503.11299v1)|**2025-03-14**|null|
+|**2025-03-14**|**OPTIMUS: Predicting Multivariate Outcomes in Alzheimer's Disease Using Multi-modal Data amidst Missing Values**|Christelle Schneuwly Diaz et.al.|[2503.11282v1](http://arxiv.org/abs/2503.11282v1)|**2025-03-14**|null|
+|**2025-03-14**|**Breaking Shallow Limits: Task-Driven Pixel Fusion for Gap-free RGBT Tracking**|Andong Lu et.al.|[2503.11247v1](http://arxiv.org/abs/2503.11247v1)|**2025-03-14**|null|
+|**2025-03-14**|**L2RSI: Cross-view LiDAR-based Place Recognition for Large-scale Urban Scenes via Remote Sensing Imagery**|Ziwei Shi et.al.|[2503.11245v1](http://arxiv.org/abs/2503.11245v1)|**2025-03-14**|null|
+|**2025-03-14**|**Towards General Multimodal Visual Tracking**|Andong Lu et.al.|[2503.11218v1](http://arxiv.org/abs/2503.11218v1)|**2025-03-14**|null|
+|**2025-03-14**|**Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering**|Gang Li et.al.|[2503.11197v1](http://arxiv.org/abs/2503.11197v1)|**2025-03-14**|[link](https://huggingface.co/mispeech/r1-aqa)|
+|**2025-03-14**|**Cross-Modal Learning for Music-to-Music-Video Description Generation**|Zhuoyuan Mao et.al.|[2503.11190v1](http://arxiv.org/abs/2503.11190v1)|**2025-03-14**|null|
+|**2025-03-14**|**Multimodal-Aware Fusion Network for Referring Remote Sensing Image Segmentation**|Leideng Shi et.al.|[2503.11183v1](http://arxiv.org/abs/2503.11183v1)|**2025-03-14**|[link](https://github.com/Roaxy/MAFN)|
+|**2025-03-14**|**Aerial Vision-and-Language Navigation with Grid-based View Selection and Map Construction**|Ganlong Zhao et.al.|[2503.11091v1](http://arxiv.org/abs/2503.11091v1)|**2025-03-14**|null|
+|**2025-03-14**|**MAVFlow: Preserving Paralinguistic Elements with Conditional Flow Matching for Zero-Shot AV2AV Multilingual Translation**|Sungwoo Cho et.al.|[2503.11026v1](http://arxiv.org/abs/2503.11026v1)|**2025-03-14**|null|
+|**2025-03-14**|**Observation-Graph Interaction and Key-Detail Guidance for Vision and Language Navigation**|Yifan Xie et.al.|[2503.11006v1](http://arxiv.org/abs/2503.11006v1)|**2025-03-14**|null|
+|**2025-03-14**|**RONA: Pragmatically Diverse Image Captioning with Coherence Relations**|Aashish Anantha Ramakrishnan et.al.|[2503.10997v1](http://arxiv.org/abs/2503.10997v1)|**2025-03-14**|null|
+|**2025-03-13**|**ChatGPT Encounters Morphing Attack Detection: Zero-Shot MAD with Multi-Modal Large Language Models and General Vision Models**|Haoyu Zhang et.al.|[2503.10937v1](http://arxiv.org/abs/2503.10937v1)|**2025-03-13**|null|
+|**2025-03-13**|**Chat-TS: Enhancing Multi-Modal Reasoning Over Time-Series and Natural Language Data**|Paul Quinlan et.al.|[2503.10883v1](http://arxiv.org/abs/2503.10883v1)|**2025-03-13**|null|
+|**2025-03-13**|**Panopticon: Advancing Any-Sensor Foundation Models for Earth Observation**|Leonard Waldmann et.al.|[2503.10845v1](http://arxiv.org/abs/2503.10845v1)|**2025-03-13**|null|
+|**2025-03-13**|**Thermal Capacity Mapping of Cryogenic Platforms for Quantum Computers**|Scott A. Manifold et.al.|[2503.10775v1](http://arxiv.org/abs/2503.10775v1)|**2025-03-13**|null|
+|**2025-03-13**|**FlowTok: Flowing Seamlessly Across Text and Image Tokens**|Ju He et.al.|[2503.10772v1](http://arxiv.org/abs/2503.10772v1)|**2025-03-13**|null|
 |**2025-03-13**|**SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems**|Ziyu Guo et.al.|[2503.10627v1](http://arxiv.org/abs/2503.10627v1)|**2025-03-13**|null|
 |**2025-03-13**|**From TOWER to SPIRE: Adding the Speech Modality to a Text-Only LLM**|Kshitij Ambilduke et.al.|[2503.10620v1](http://arxiv.org/abs/2503.10620v1)|**2025-03-13**|null|
-|**2025-03-13**|**OVTR: End-to-End Open-Vocabulary Multiple Object Tracking with Transformer**|Jinyang Li et.al.|[2503.10616v1](http://arxiv.org/abs/2503.10616v1)|**2025-03-13**|null|
-|**2025-03-13**|**R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization**|Yi Yang et.al.|[2503.10615v1](http://arxiv.org/abs/2503.10615v1)|**2025-03-13**|[link](https://github.com/Fancy-MLLM/R1-onevision)|
-|**2025-03-13**|**CoSTA$\ast$: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing**|Advait Gupta et.al.|[2503.10613v1](http://arxiv.org/abs/2503.10613v1)|**2025-03-13**|[link](https://github.com/tianyi-lab/CoSTAR)|
-|**2025-03-13**|**MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction**|Yingshuang Zou et.al.|[2503.10604v1](http://arxiv.org/abs/2503.10604v1)|**2025-03-13**|null|
-|**2025-03-13**|**Dual-Stage Cross-Modal Network with Dynamic Feature Fusion for Emotional Mimicry Intensity Estimation**|Jun Yu et.al.|[2503.10603v2](http://arxiv.org/abs/2503.10603v2)|**2025-03-14**|null|
-|**2025-03-13**|**GroundingSuite: Measuring Complex Multi-Granular Pixel Grounding**|Rui Hu et.al.|[2503.10596v1](http://arxiv.org/abs/2503.10596v1)|**2025-03-13**|[link](https://github.com/hustvl/groundingsuite)|
-|**2025-03-13**|**NuExo: A Wearable Exoskeleton Covering all Upper Limb ROM for Outdoor Data Collection and Teleoperation of Humanoid Robots**|Rui Zhong et.al.|[2503.10554v1](http://arxiv.org/abs/2503.10554v1)|**2025-03-13**|null|
-|**2025-03-13**|**PiSA: A Self-Augmented Data Engine and Training Strategy for 3D Understanding with Large Models**|Zilu Guo et.al.|[2503.10529v1](http://arxiv.org/abs/2503.10529v1)|**2025-03-13**|null|
-|**2025-03-13**|**NeighborRetr: Balancing Hub Centrality in Cross-Modal Retrieval**|Zengrong Lin et.al.|[2503.10526v1](http://arxiv.org/abs/2503.10526v1)|**2025-03-13**|[link](https://github.com/zzezze/neighborretr)|
-|**2025-03-13**|**Interactive Multimodal Fusion with Temporal Modeling**|Jun Yu et.al.|[2503.10523v1](http://arxiv.org/abs/2503.10523v1)|**2025-03-13**|null|
-|**2025-03-13**|**AudioX: Diffusion Transformer for Anything-to-Audio Generation**|Zeyue Tian et.al.|[2503.10522v1](http://arxiv.org/abs/2503.10522v1)|**2025-03-13**|null|
-|**2025-03-13**|**Hoi2Anomaly: An Explainable Anomaly Detection Approach Guided by Human-Object Interaction**|Yuhan Wang et.al.|[2503.10508v1](http://arxiv.org/abs/2503.10508v1)|**2025-03-13**|null|
-|**2025-03-13**|**Finetuning Generative Trajectory Model with Reinforcement Learning from Human Feedback**|Derun Li et.al.|[2503.10434v1](http://arxiv.org/abs/2503.10434v1)|**2025-03-13**|null|
-|**2025-03-13**|**BeamLLM: Vision-Empowered mmWave Beam Prediction with Large Language Models**|Can Zheng et.al.|[2503.10432v1](http://arxiv.org/abs/2503.10432v1)|**2025-03-13**|null|
-|**2025-03-13**|**RealGeneral: Unifying Visual Generation via Temporal In-Context Learning with Video Models**|Yijing Lin et.al.|[2503.10406v1](http://arxiv.org/abs/2503.10406v1)|**2025-03-13**|null|
-|**2025-03-13**|**Probabilistic Forecasting via Autoregressive Flow Matching**|Ahmed El-Gazzar et.al.|[2503.10375v1](http://arxiv.org/abs/2503.10375v1)|**2025-03-13**|null|
-|**2025-03-13**|**A Multimodal Fusion Model Leveraging MLP Mixer and Handcrafted Features-based Deep Learning Networks for Facial Palsy Detection**|Heng Yim Nicole Oo et.al.|[2503.10371v1](http://arxiv.org/abs/2503.10371v1)|**2025-03-13**|null|
-|**2025-03-13**|**Generative Binary Memory: Pseudo-Replay Class-Incremental Learning on Binarized Embeddings**|Yanis Basso-Bert et.al.|[2503.10333v1](http://arxiv.org/abs/2503.10333v1)|**2025-03-13**|null|
-|**2025-03-13**|**IDEA: Inverted Text with Cooperative Deformable Aggregation for Multi-modal Object Re-Identification**|Yuhao Wang et.al.|[2503.10324v1](http://arxiv.org/abs/2503.10324v1)|**2025-03-13**|null|
-|**2025-03-13**|**Towards Fast, Memory-based and Data-Efficient Vision-Language Policy**|Haoxuan Li et.al.|[2503.10322v1](http://arxiv.org/abs/2503.10322v1)|**2025-03-13**|null|
-|**2025-03-13**|**A Multi-Modal Federated Learning Framework for Remote Sensing Image Classification**|Barış Büyüktaş et.al.|[2503.10262v1](http://arxiv.org/abs/2503.10262v1)|**2025-03-13**|null|
-|**2025-03-13**|**Unveiling the Invisible: Reasoning Complex Occlusions Amodally with AURA**|Zhixuan Li et.al.|[2503.10225v1](http://arxiv.org/abs/2503.10225v1)|**2025-03-13**|null|
-|**2025-03-13**|**Adaptive Inner Speech-Text Alignment for LLM-based Speech Translation**|Henglyu Liu et.al.|[2503.10211v1](http://arxiv.org/abs/2503.10211v1)|**2025-03-13**|null|
-|**2025-03-13**|**ST-FlowNet: An Efficient Spiking Neural Network for Event-Based Optical Flow Estimation**|Hongze Sun et.al.|[2503.10195v1](http://arxiv.org/abs/2503.10195v1)|**2025-03-13**|null|
-|**2025-03-13**|**Uniform Lyndon interpolation for the pure logic of necessitation with a modal reduction principle**|Yuta Sato et.al.|[2503.10176v1](http://arxiv.org/abs/2503.10176v1)|**2025-03-13**|null|
-|**2025-03-13**|**Dream-IF: Dynamic Relative EnhAnceMent for Image Fusion**|Xingxin Xu et.al.|[2503.10109v1](http://arxiv.org/abs/2503.10109v1)|**2025-03-13**|null|
-|**2025-03-13**|**G$^{2}$SF-MIAD: Geometry-Guided Score Fusion for Multimodal Industrial Anomaly Detection**|Chengyu Tao et.al.|[2503.10091v1](http://arxiv.org/abs/2503.10091v1)|**2025-03-13**|null|
-|**2025-03-13**|**SmartWay: Enhanced Waypoint Prediction and Backtracking for Zero-Shot Vision-and-Language Navigation**|Xiangyu Shi et.al.|[2503.10069v1](http://arxiv.org/abs/2503.10069v1)|**2025-03-13**|null|
+|**2025-03-13**|**Unifying 2D and 3D Vision-Language Understanding**|Ayush Jain et.al.|[2503.10745v1](http://arxiv.org/abs/2503.10745v1)|**2025-03-13**|null|

@@ -117,6 +117,7 @@ Updated on 2025-03-17
 | 234k | 6 | fixie-ai/ultravox-v0_3-llama-3_2-1bAudio-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/fixie-ai/ultravox-v0_3-llama-3_2-1b) |
 | 116 | 4 | fixie-ai/ultravox-v0_4-llama-3_1-70bAudio-Text-to-Text | Updated17 days ago | [Link](https://huggingface.co/fixie-ai/ultravox-v0_4-llama-3_1-70b) |
 | 23 | 4 | FreedomIntelligence/SoundwaveAudio-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/FreedomIntelligence/Soundwave) |
+| 65 | 3 | SeaLLMs/SeaLLMs-Audio-7BAudio-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/SeaLLMs/SeaLLMs-Audio-7B) |
 | 231 | 1 | homebrewltd/Speechless-llama3 | UpdatedDec 30, 2024 | [Link](https://huggingface.co/homebrewltd/Speechless-llama3.2-v0.1) |
 | 19 | 1 | Felguk/Felguk-omni-v0Audio-Text-to-Text | UpdatedJan 19 | [Link](https://huggingface.co/Felguk/Felguk-omni-v0) |
 | 31 | 1 | homebrewltd/mini-Ichigo-llama3 | UpdatedNov 19, 2024 | [Link](https://huggingface.co/homebrewltd/mini-Ichigo-llama3.2-3B-s-base) |
@@ -148,6 +149,7 @@ Updated on 2025-03-17
 | 113 | 8 | dog/kanyeAudio-to-Audio | UpdatedApr 25, 2023 | [Link](https://huggingface.co/dog/kanye) |
 | 1.18k | 7 | speechbrain/sepformer-libri3mixAudio-to-Audio | UpdatedFeb 25, 2024 | [Link](https://huggingface.co/speechbrain/sepformer-libri3mix) |
 | 365 | 6 | speechbrain/sepformer-wsj03mixAudio-to-Audio | UpdatedFeb 20, 2024 | [Link](https://huggingface.co/speechbrain/sepformer-wsj03mix) |
+| 8 | 6 | facebook/textless_sm_cs_enAudio-to-Audio | UpdatedOct 16, 2022 | [Link](https://huggingface.co/facebook/textless_sm_cs_en) |
 | 35 | 4 | slprl/slamAudio-to-Audio | Updatedabout 12 hours ago | [Link](https://huggingface.co/slprl/slam) |
 | 1.38k | 3 | sail-rvc/Hatsune_Miku__RVC_v2_Audio-to-Audio | UpdatedJul 14, 2023 | [Link](https://huggingface.co/sail-rvc/Hatsune_Miku__RVC_v2_) |
 | 15 | 3 | slprl/slam_scaledAudio-to-Audio | Updatedabout 13 hours ago | [Link](https://huggingface.co/slprl/slam_scaled) |
@@ -477,6 +479,7 @@ Updated on 2025-03-17
 | 33 | 14 | EuroBERT/EuroBERT-2 | Updatedabout 5 hours ago | [Link](https://huggingface.co/EuroBERT/EuroBERT-2.1B) |
 | 788 | 13 | adsabs/astroBERTFill-Mask | UpdatedNov 14, 2024 | [Link](https://huggingface.co/adsabs/astroBERT) |
 | 850 | 11 | prithivMLmods/Spam-Bert-UncasedFill-Mask | UpdatedDec 25, 2024 | [Link](https://huggingface.co/prithivMLmods/Spam-Bert-Uncased) |
+| 304 | 11 | launch/POLITICSFill-Mask | UpdatedOct 6, 2023 | [Link](https://huggingface.co/launch/POLITICS) |
 | 83 | 10 | prithivMLmods/Betelgeuse-bert-base-uncasedFill-Mask | UpdatedMay 15, 2024 | [Link](https://huggingface.co/prithivMLmods/Betelgeuse-bert-base-uncased) |
 | 84 | 10 | prithivMLmods/Betelgeuse-bert-base-uncased-ONNXFill-Mask | Updatedabout 1 month ago | [Link](https://huggingface.co/prithivMLmods/Betelgeuse-bert-base-uncased-ONNX) |
 | 18.7k | 10 | albert/albert-base-v1Fill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/albert/albert-base-v1) |
@@ -630,6 +633,7 @@ Updated on 2025-03-17
 | 3 | Unknown | prithivMLmods/AI-vs-Deepfake-vs-Real-v2 | Updatedabout 3 hours ago | [Link](https://huggingface.co/prithivMLmods/AI-vs-Deepfake-vs-Real-v2.0) |
 | 3 | Unknown | prithivMLmods/Bird-Species-Classifier-526Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/prithivMLmods/Bird-Species-Classifier-526) |
 | 60.8k |  | LukeJacob2023/nsfw-image-detectorImage | UpdatedDec 28, 2024 | [Link](https://huggingface.co/LukeJacob2023/nsfw-image-detector) |
+| 729k |  | apple/mobilevit-smallImage | Updated21 days ago | [Link](https://huggingface.co/apple/mobilevit-small) |
 
 ## Image Feature Extraction
 
@@ -775,6 +779,7 @@ Updated on 2025-03-17
 | 280 | 24 | google/paligemma2-28b-mix-448Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-28b-mix-448) |
 | 3.71k | 19 | google/paligemma2-10b-mix-448Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-10b-mix-448) |
 | 1.49k | 17 | google/paligemma2-3b-mix-224Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-3b-mix-224) |
+| 247 | 17 | ds4sd/SmolDocling-256M-previewImage-Text-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/ds4sd/SmolDocling-256M-preview) |
 | 14 | 15 | Sony/AKI-4B-phi-3 | Updated2 days ago | [Link](https://huggingface.co/Sony/AKI-4B-phi-3.5-mini) |
 | 296 | 14 | Fancy-MLLM/R1-Onevision-7BImage-Text-to-Text | Updatedabout 12 hours ago | [Link](https://huggingface.co/Fancy-MLLM/R1-Onevision-7B) |
 | 80 | 14 | google/gemma-3-27b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-pt) |
@@ -826,6 +831,7 @@ Updated on 2025-03-17
 | 130 | 11 | craftsman3d/craftsmanImage-to-3D | UpdatedNov 25, 2024 | [Link](https://huggingface.co/craftsman3d/craftsman) |
 | 26 | 10 | cocktailpeanut/sf3dImage-to-3D | UpdatedAug 1, 2024 | [Link](https://huggingface.co/cocktailpeanut/sf3d) |
 | 141 | 7 | TencentARC/NVComposerImage-to-3D | UpdatedDec 16, 2024 | [Link](https://huggingface.co/TencentARC/NVComposer) |
+| 522 | 7 | facebook/VGGT-1BImage-to-3D | Updated28 minutes ago | [Link](https://huggingface.co/facebook/VGGT-1B) |
 | 13 | 6 | zxhezexin/openlrm-small-obj-1 | UpdatedJan 9, 2024 | [Link](https://huggingface.co/zxhezexin/openlrm-small-obj-1.0) |
 | 35 | Unknown | Peng-Wang/ImageDreamImage-to-3D | UpdatedApr 5, 2024 | [Link](https://huggingface.co/Peng-Wang/ImageDream) |
 | 43 | Unknown | FrozenBurning/SceneDreamerImage-to-3D | UpdatedNov 30, 2023 | [Link](https://huggingface.co/FrozenBurning/SceneDreamer) |
@@ -902,6 +908,7 @@ Updated on 2025-03-17
 | 4 | Unknown | prs-eth/thera-edsr-plusImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/prs-eth/thera-edsr-plus) |
 | 2 | Unknown | prs-eth/thera-edsr-airImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/prs-eth/thera-edsr-air) |
 | 2 | Unknown | prs-eth/thera-rdn-proImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/prs-eth/thera-rdn-pro) |
+| 48 | Unknown | AIRI-Institute/HairFastGANImage-to-Image | UpdatedMay 24, 2024 | [Link](https://huggingface.co/AIRI-Institute/HairFastGAN) |
 
 ## Image-to-Text
 
@@ -925,8 +932,10 @@ Updated on 2025-03-17
 | 24.7k | 7 | Riksarkivet/trocr-base-handwritten-hist-swe-2Image-to-Text | Updated11 days ago | [Link](https://huggingface.co/Riksarkivet/trocr-base-handwritten-hist-swe-2) |
 | 299 | 3 | cnmoro/nano-image-captioningImage-to-Text | Updatedabout 1 month ago | [Link](https://huggingface.co/cnmoro/nano-image-captioning) |
 | 45 | 3 | braintacles/brainblipImage-to-Text | UpdatedJun 27, 2024 | [Link](https://huggingface.co/braintacles/brainblip) |
+| 55 | 3 | sbintuitions/sarashina2-vision-8bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-8b) |
 | 51 | 2 | microsoft/git-base-msrvtt-qaImage-to-Text | UpdatedApr 4, 2024 | [Link](https://huggingface.co/microsoft/git-base-msrvtt-qa) |
 | 32 | 2 | baseplate/vit-gpt2-image-captioningImage-to-Text | UpdatedApr 5, 2023 | [Link](https://huggingface.co/baseplate/vit-gpt2-image-captioning) |
+| 38 | 2 | sbintuitions/sarashina2-vision-14bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-14b) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -975,8 +984,10 @@ Updated on 2025-03-17
 | 427 | 27 | BestWishYsh/ConsisID-previewImage-to-Video | UpdatedJan 19 | [Link](https://huggingface.co/BestWishYsh/ConsisID-preview) |
 | 259 | 24 | alibaba-pai/CogVideoX-Fun-5b-InPImage-to-Video | UpdatedSep 23, 2024 | [Link](https://huggingface.co/alibaba-pai/CogVideoX-Fun-5b-InP) |
 | 2 | 11 | Yhmeng1106/anidocImage-to-Video | UpdatedDec 21, 2024 | [Link](https://huggingface.co/Yhmeng1106/anidoc) |
+| 7 | 11 | stepfun-ai/stepvideo-ti2vImage-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/stepfun-ai/stepvideo-ti2v) |
 | 635 | 10 | calcuis/cosmosImage-to-Video | Updated29 days ago | [Link](https://huggingface.co/calcuis/cosmos) |
 | 16 | 5 | chenguolin/sv3d-diffusersImage-to-Video | UpdatedOct 16, 2024 | [Link](https://huggingface.co/chenguolin/sv3d-diffusers) |
+| 1 | 5 | DropletX/DropletVideo-5BImage-to-Video | Updated6 days ago | [Link](https://huggingface.co/DropletX/DropletVideo-5B) |
 | 792 | 3 | city96/HunyuanVideo-I2V-ggufImage-to-Video | Updatedabout 15 hours ago | [Link](https://huggingface.co/city96/HunyuanVideo-I2V-gguf) |
 | 14 | 3 | Remade-AI/WarriorImage-to-Video | Updatedabout 23 hours ago | [Link](https://huggingface.co/Remade-AI/Warrior) |
 | 20 | 3 | Remade-AI/PaintingImage-to-Video | Updatedabout 23 hours ago | [Link](https://huggingface.co/Remade-AI/Painting) |
@@ -1322,6 +1333,7 @@ Updated on 2025-03-17
 | 30 | 3 | sergeyzh/rubert-mini-fridaSentence | Updated3 days ago | [Link](https://huggingface.co/sergeyzh/rubert-mini-frida) |
 | 34 | 3 | Omartificial-Intelligence-Space/AraEuroBert-210MSentence | Updatedabout 1 hour ago | [Link](https://huggingface.co/Omartificial-Intelligence-Space/AraEuroBert-210M) |
 | 20 | 3 | cl-nagoya/ruri-base-v2Sentence | Updated2 days ago | [Link](https://huggingface.co/cl-nagoya/ruri-base-v2) |
+| 50 | 3 | cl-nagoya/ruri-small-v2Sentence | Updatedabout 22 hours ago | [Link](https://huggingface.co/cl-nagoya/ruri-small-v2) |
 | 95.8M |  | sentence-transformers/all-MiniLM-L6-v2Sentence | UpdatedNov 1, 2024 | [Link](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) |
 | 2.47M |  | BAAI/bge-m3Sentence | UpdatedJul 3, 2024 | [Link](https://huggingface.co/BAAI/bge-m3) |
 | 32.8M |  | sentence-transformers/all-mpnet-base-v2Sentence | UpdatedNov 5, 2024 | [Link](https://huggingface.co/sentence-transformers/all-mpnet-base-v2) |
@@ -1352,6 +1364,7 @@ Updated on 2025-03-17
 | 2.09M |  | intfloat/multilingual-e5-smallSentence | Updated24 days ago | [Link](https://huggingface.co/intfloat/multilingual-e5-small) |
 | 1.72M |  | sentence-transformers/multi-qa-mpnet-base-dot-v1Sentence | UpdatedNov 5, 2024 | [Link](https://huggingface.co/sentence-transformers/multi-qa-mpnet-base-dot-v1) |
 | 4.18M |  | thenlper/gte-smallSentence | UpdatedNov 16, 2024 | [Link](https://huggingface.co/thenlper/gte-small) |
+| 49.2k |  | thenlper/gte-large-zhSentence | UpdatedFeb 5, 2024 | [Link](https://huggingface.co/thenlper/gte-large-zh) |
 
 ## Summarization
 
@@ -1642,8 +1655,10 @@ Updated on 2025-03-17
 | 457 | 25 | secemp9/TraceBack-12bText | Updated1 day ago | [Link](https://huggingface.co/secemp9/TraceBack-12b) |
 | 8.8k | 24 | unsloth/QwQ-32B-GGUFText | Updatedabout 1 hour ago | [Link](https://huggingface.co/unsloth/QwQ-32B-GGUF) |
 | 90.1k | 24 | allenai/OLMo-2-0325-32BText | Updated3 days ago | [Link](https://huggingface.co/allenai/OLMo-2-0325-32B) |
+| 722 | 24 | qihoo360/Light-R1-14B-DSText | Updatedabout 9 hours ago | [Link](https://huggingface.co/qihoo360/Light-R1-14B-DS) |
 | 10.3k | 23 | unsloth/Phi-4-mini-instruct-GGUFText | Updated4 days ago | [Link](https://huggingface.co/unsloth/Phi-4-mini-instruct-GGUF) |
 | 26.8k | 23 | lmstudio-community/QwQ-32B-GGUFText | Updated1 day ago | [Link](https://huggingface.co/lmstudio-community/QwQ-32B-GGUF) |
+| 1.47k | 23 | NousResearch/DeepHermes-3-Llama-3-3B-PreviewText | Updated4 days ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-3B-Preview) |
 | 34 | 21 | ai21labs/AI21-Jamba-Mini-1 | Updatedabout 13 hours ago | [Link](https://huggingface.co/ai21labs/AI21-Jamba-Mini-1.6) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
@@ -1730,6 +1745,7 @@ Updated on 2025-03-17
 | 14 | 4 | reach-vb/musicgen-large-fp16-endpointText-to-Audio | UpdatedAug 2, 2023 | [Link](https://huggingface.co/reach-vb/musicgen-large-fp16-endpoint) |
 | 28 | 3 | karlwennerstrom/text-to-musicText-to-Audio | UpdatedMay 3, 2024 | [Link](https://huggingface.co/karlwennerstrom/text-to-music) |
 | 2.88k | 3 | espnet/fastspeech2_conformerText-to-Audio | UpdatedOct 6, 2023 | [Link](https://huggingface.co/espnet/fastspeech2_conformer) |
+| 71 | 3 | KandirResearch/CiSiMiText-to-Audio | Updatedabout 11 hours ago | [Link](https://huggingface.co/KandirResearch/CiSiMi) |
 | 85 | 2 | TenzinGayche/speecht5-tibetan-ttsText-to-Audio | UpdatedAug 17, 2023 | [Link](https://huggingface.co/TenzinGayche/speecht5-tibetan-tts) |
 | 102 | 2 | flavioegoncalves/speecht5_tts_portugueseText-to-Audio | UpdatedJan 23, 2024 | [Link](https://huggingface.co/flavioegoncalves/speecht5_tts_portuguese) |
 | 84 | 2 | carlfeynman/speecht5-finetuned-dutchText-to-Audio | UpdatedMar 21, 2024 | [Link](https://huggingface.co/carlfeynman/speecht5-finetuned-dutch) |
@@ -1823,6 +1839,7 @@ Updated on 2025-03-17
 | 232 |  | seawolf2357/flux-lora-military-artillery-k9Text-to-Image | UpdatedSep 17, 2024 | [Link](https://huggingface.co/seawolf2357/flux-lora-military-artillery-k9) |
 | 21 | Unknown | benjamin-paine/steamboat-willie-14bText-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/benjamin-paine/steamboat-willie-14b) |
 | 3.78k |  | seawolf2357/hanbokText-to-Image | UpdatedOct 16, 2024 | [Link](https://huggingface.co/seawolf2357/hanbok) |
+| 156 |  | seawolf2357/ntowerText-to-Image | UpdatedOct 16, 2024 | [Link](https://huggingface.co/seawolf2357/ntower) |
 
 ## Text-to-Speech
 
@@ -1849,6 +1866,7 @@ Updated on 2025-03-17
 | 2.99k | 63 | HKUSTAudio/Llasa-8BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-8B) |
 | 73.1k | 45 | onnx-community/Kokoro-82M-v1 | Updated17 days ago | [Link](https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX) |
 | 2.04k | 37 | kakao-enterprise/vits-ljsText-to-Speech | UpdatedSep 7, 2023 | [Link](https://huggingface.co/kakao-enterprise/vits-ljs) |
+| 3.72k | 29 | parler-tts/parler-tts-mini-multilingual-v1 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-mini-multilingual-v1.1) |
 | 1.2k | 27 | saheedniyi/YarnGPTText-to-Speech | UpdatedJan 29 | [Link](https://huggingface.co/saheedniyi/YarnGPT) |
 | 152 | 23 | OmarSamir/EGTTS-V0 | Updated27 days ago | [Link](https://huggingface.co/OmarSamir/EGTTS-V0.1) |
 | 943k | 22 | myshell-ai/MeloTTS-KoreanText-to-Speech | UpdatedFeb 29, 2024 | [Link](https://huggingface.co/myshell-ai/MeloTTS-Korean) |
@@ -1962,7 +1980,9 @@ Updated on 2025-03-17
 | 565 | 11 | ahmetbagci/bert2bert-turkish-paraphrase-generationText2Text | UpdatedOct 18, 2021 | [Link](https://huggingface.co/ahmetbagci/bert2bert-turkish-paraphrase-generation) |
 | 1.81k | 11 | allenai/unifiedqa-t5-baseText2Text | UpdatedJan 24, 2023 | [Link](https://huggingface.co/allenai/unifiedqa-t5-base) |
 | 197 | 8 | KETI-AIR/ke-t5-base-koText2Text | UpdatedSep 18, 2023 | [Link](https://huggingface.co/KETI-AIR/ke-t5-base-ko) |
+| 7 | 5 | mispeech/r1-aqaText2Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/mispeech/r1-aqa) |
 | 3 | 2 | XeTute/TypoRP-0 | Updatedabout 2 hours ago | [Link](https://huggingface.co/XeTute/TypoRP-0.5B) |
+| 5 | 2 | XeTute/TypoRPV2-2BText2Text | Updatedabout 16 hours ago | [Link](https://huggingface.co/XeTute/TypoRPV2-2B) |
 | 31 | 1 | Ayham/bert_roberta_summarization_cnn_dailymailText2Text | UpdatedFeb 24, 2022 | [Link](https://huggingface.co/Ayham/bert_roberta_summarization_cnn_dailymail) |
 | 121 | 1 | cnicu/pegasus-xsum-booksumText2Text | UpdatedFeb 26, 2022 | [Link](https://huggingface.co/cnicu/pegasus-xsum-booksum) |
 | 393k | 1.23k | google/flan-t5-xxlText2Text | UpdatedJul 27, 2023 | [Link](https://huggingface.co/google/flan-t5-xxl) |
@@ -2378,6 +2398,7 @@ Updated on 2025-03-17
 | 70 | 2 | anilbs/segmentationVoice | UpdatedNov 1, 2022 | [Link](https://huggingface.co/anilbs/segmentation) |
 | 15 | 1 | popcornell/pyannote-segmentation-chime6-mixer6Voice | UpdatedApr 4, 2023 | [Link](https://huggingface.co/popcornell/pyannote-segmentation-chime6-mixer6) |
 | 10 | 1 | BoKnows/vad-endpointVoice | UpdatedFeb 13, 2024 | [Link](https://huggingface.co/BoKnows/vad-endpoint) |
+| 11 | 1 | pyannoteAI/speaker-diarization-precisionVoice | Updated3 days ago | [Link](https://huggingface.co/pyannoteAI/speaker-diarization-precision) |
 | 17 | Unknown | funasr/fsmn-vad-onnxVoice | UpdatedMay 9, 2023 | [Link](https://huggingface.co/funasr/fsmn-vad-onnx) |
 | 13 | Unknown | onnx-community/silero-vadVoice | UpdatedDec 15, 2024 | [Link](https://huggingface.co/onnx-community/silero-vad) |
 | 5 | Unknown | deepghs/silero-vad-onnxVoice | UpdatedAug 31, 2024 | [Link](https://huggingface.co/deepghs/silero-vad-onnx) |

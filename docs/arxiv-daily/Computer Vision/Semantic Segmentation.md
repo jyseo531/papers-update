@@ -2,33 +2,33 @@
 ### Semantic Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-13**|**GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing**|Rongyao Fang et.al.|[2503.10639v1](http://arxiv.org/abs/2503.10639v1)|**2025-03-13**|[link](https://github.com/rongyaofang/got)|
-|**2025-03-13**|**A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1**|Zhaoyi Li et.al.|[2503.10635v1](http://arxiv.org/abs/2503.10635v1)|**2025-03-13**|[link](https://github.com/vila-lab/m-attack)|
-|**2025-03-13**|**NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models**|Mert Albaba et.al.|[2503.10626v1](http://arxiv.org/abs/2503.10626v1)|**2025-03-13**|null|
-|**2025-03-13**|**MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction**|Yingshuang Zou et.al.|[2503.10604v1](http://arxiv.org/abs/2503.10604v1)|**2025-03-13**|null|
-|**2025-03-13**|**GroundingSuite: Measuring Complex Multi-Granular Pixel Grounding**|Rui Hu et.al.|[2503.10596v1](http://arxiv.org/abs/2503.10596v1)|**2025-03-13**|[link](https://github.com/hustvl/groundingsuite)|
-|**2025-03-13**|**Semantic-Supervised Spatial-Temporal Fusion for LiDAR-based 3D Object Detection**|Chaoqun Wang et.al.|[2503.10579v1](http://arxiv.org/abs/2503.10579v1)|**2025-03-13**|null|
-|**2025-03-13**|**Learning Interpretable Logic Rules from Deep Vision Models**|Chuqin Geng et.al.|[2503.10547v1](http://arxiv.org/abs/2503.10547v1)|**2025-03-13**|null|
-|**2025-03-13**|**Lightweight Models for Emotional Analysis in Video**|Quoc-Tien Nguyen et.al.|[2503.10530v1](http://arxiv.org/abs/2503.10530v1)|**2025-03-13**|null|
-|**2025-03-13**|**PiSA: A Self-Augmented Data Engine and Training Strategy for 3D Understanding with Large Models**|Zilu Guo et.al.|[2503.10529v1](http://arxiv.org/abs/2503.10529v1)|**2025-03-13**|null|
-|**2025-03-13**|**How Should We Evaluate Uncertainty in Accelerated MRI Reconstruction?**|Luca Trautmann et.al.|[2503.10527v1](http://arxiv.org/abs/2503.10527v1)|**2025-03-13**|null|
-|**2025-03-13**|**NeighborRetr: Balancing Hub Centrality in Cross-Modal Retrieval**|Zengrong Lin et.al.|[2503.10526v1](http://arxiv.org/abs/2503.10526v1)|**2025-03-13**|[link](https://github.com/zzezze/neighborretr)|
-|**2025-03-13**|**Hoi2Anomaly: An Explainable Anomaly Detection Approach Guided by Human-Object Interaction**|Yuhan Wang et.al.|[2503.10508v1](http://arxiv.org/abs/2503.10508v1)|**2025-03-13**|null|
-|**2025-03-13**|**Source-primed Multi-turn Conversation Helps Large Language Models Translate Documents**|Hanxu Hu et.al.|[2503.10494v1](http://arxiv.org/abs/2503.10494v1)|**2025-03-13**|null|
-|**2025-03-13**|**Sentiment Analysis in SemEval: A Review of Sentiment Identification Approaches**|Bousselham El Haddaoui et.al.|[2503.10457v1](http://arxiv.org/abs/2503.10457v1)|**2025-03-13**|null|
-|**2025-03-13**|**4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models**|Wanhua Li et.al.|[2503.10437v1](http://arxiv.org/abs/2503.10437v1)|**2025-03-13**|null|
-|**2025-03-13**|**BeamLLM: Vision-Empowered mmWave Beam Prediction with Large Language Models**|Can Zheng et.al.|[2503.10432v1](http://arxiv.org/abs/2503.10432v1)|**2025-03-13**|null|
-|**2025-03-13**|**Category Prompt Mamba Network for Nuclei Segmentation and Classification**|Ye Zhang et.al.|[2503.10422v2](http://arxiv.org/abs/2503.10422v2)|**2025-03-14**|null|
-|**2025-03-13**|**An Architectural View Type for Elasticity Modeling and Simulation -- The Slingshot Approach**|Floriment Klinaku et.al.|[2503.10407v1](http://arxiv.org/abs/2503.10407v1)|**2025-03-13**|null|
-|**2025-03-13**|**RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing**|Fengxiang Wang et.al.|[2503.10392v1](http://arxiv.org/abs/2503.10392v1)|**2025-03-13**|[link](https://github.com/mililab/roma)|
-|**2025-03-13**|**An Algebraic Foundation for Knowledge Graph Construction (Extended Version)**|Sitt Min Oo et.al.|[2503.10385v1](http://arxiv.org/abs/2503.10385v1)|**2025-03-13**|null|
-|**2025-03-13**|**A Multimodal Fusion Model Leveraging MLP Mixer and Handcrafted Features-based Deep Learning Networks for Facial Palsy Detection**|Heng Yim Nicole Oo et.al.|[2503.10371v1](http://arxiv.org/abs/2503.10371v1)|**2025-03-13**|null|
-|**2025-03-13**|**OSMa-Bench: Evaluating Open Semantic Mapping Under Varying Lighting Conditions**|Maxim Popov et.al.|[2503.10331v1](http://arxiv.org/abs/2503.10331v1)|**2025-03-13**|null|
-|**2025-03-13**|**IDEA: Inverted Text with Cooperative Deformable Aggregation for Multi-modal Object Re-Identification**|Yuhao Wang et.al.|[2503.10324v1](http://arxiv.org/abs/2503.10324v1)|**2025-03-13**|null|
-|**2025-03-13**|**Capturing Semantic Flow of ML-based Systems**|Shin Yoo et.al.|[2503.10310v1](http://arxiv.org/abs/2503.10310v1)|**2025-03-13**|null|
-|**2025-03-13**|**Eye on the Target: Eye Tracking Meets Rodent Tracking**|Emil Mededovic et.al.|[2503.10305v1](http://arxiv.org/abs/2503.10305v1)|**2025-03-13**|null|
-|**2025-03-13**|**MACS: Multi-source Audio-to-image Generation with Contextual Significance and Semantic Alignment**|Hao Zhou et.al.|[2503.10287v1](http://arxiv.org/abs/2503.10287v1)|**2025-03-13**|null|
-|**2025-03-13**|**SVIP: Semantically Contextualized Visual Patches for Zero-Shot Learning**|Zhi Chen et.al.|[2503.10252v1](http://arxiv.org/abs/2503.10252v1)|**2025-03-13**|null|
-|**2025-03-13**|**Interpretable Image Classification via Non-parametric Part Prototype Learning**|Zhijie Zhu et.al.|[2503.10247v1](http://arxiv.org/abs/2503.10247v1)|**2025-03-13**|null|
-|**2025-03-13**|**Unveiling the Invisible: Reasoning Complex Occlusions Amodally with AURA**|Zhixuan Li et.al.|[2503.10225v1](http://arxiv.org/abs/2503.10225v1)|**2025-03-13**|null|
-|**2025-03-13**|**Adaptive Inner Speech-Text Alignment for LLM-based Speech Translation**|Henglyu Liu et.al.|[2503.10211v1](http://arxiv.org/abs/2503.10211v1)|**2025-03-13**|null|
+|**2025-03-14**|**ASMA-Tune: Unlocking LLMs' Assembly Code Comprehension via Structural-Semantic Instruction Tuning**|Xinyi Wang et.al.|[2503.11617v1](http://arxiv.org/abs/2503.11617v1)|**2025-03-14**|null|
+|**2025-03-14**|**Pathology Image Compression with Pre-trained Autoencoders**|Srikar Yellapragada et.al.|[2503.11591v1](http://arxiv.org/abs/2503.11591v1)|**2025-03-14**|null|
+|**2025-03-14**|**Broaden your SCOPE! Efficient Multi-turn Conversation Planning for LLMs using Semantic Space**|Zhiliang Chen et.al.|[2503.11586v1](http://arxiv.org/abs/2503.11586v1)|**2025-03-14**|null|
+|**2025-03-14**|**mobilityDCAT-AP: a Metadata Specification for Enhanced Cross-border Mobility Data Sharing**|Mario Scrocca et.al.|[2503.11535v1](http://arxiv.org/abs/2503.11535v1)|**2025-03-14**|null|
+|**2025-03-14**|**Bottom-up Iterative Anomalous Diffusion Detector (BI-ADD)**|Junwoo Park et.al.|[2503.11529v1](http://arxiv.org/abs/2503.11529v1)|**2025-03-14**|null|
+|**2025-03-14**|**Exploring Typographic Visual Prompts Injection Threats in Cross-Modality Generation Models**|Hao Cheng et.al.|[2503.11519v1](http://arxiv.org/abs/2503.11519v1)|**2025-03-14**|null|
+|**2025-03-14**|**HiTVideo: Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models**|Ziqin Zhou et.al.|[2503.11513v1](http://arxiv.org/abs/2503.11513v1)|**2025-03-14**|null|
+|**2025-03-14**|**Alzheimer's Disease Classification Using Retinal OCT: TransnetOCT and Swin Transformer Models**|Siva Manohar Reddy Kesu et.al.|[2503.11511v1](http://arxiv.org/abs/2503.11511v1)|**2025-03-14**|null|
+|**2025-03-14**|**Cloud2BIM: An open-source automatic pipeline for efficient conversion of large-scale point clouds into IFC format**|Slávek Zbirovský et.al.|[2503.11498v1](http://arxiv.org/abs/2503.11498v1)|**2025-03-14**|null|
+|**2025-03-14**|**Cognitive Disentanglement for Referring Multi-Object Tracking**|Shaofeng Liang et.al.|[2503.11496v1](http://arxiv.org/abs/2503.11496v1)|**2025-03-14**|null|
+|**2025-03-14**|**COIN: Confidence Score-Guided Distillation for Annotation-Free Cell Segmentation**|Sanghyun Jo et.al.|[2503.11439v1](http://arxiv.org/abs/2503.11439v1)|**2025-03-14**|null|
+|**2025-03-14**|**LuSeg: Efficient Negative and Positive Obstacles Segmentation via Contrast-Driven Multi-Modal Feature Fusion on the Lunar**|Shuaifeng Jiao et.al.|[2503.11409v1](http://arxiv.org/abs/2503.11409v1)|**2025-03-14**|null|
+|**2025-03-14**|**Towards A Correct Usage of Cryptography in Semantic Watermarks for Diffusion Models**|Jonas Thietke et.al.|[2503.11404v1](http://arxiv.org/abs/2503.11404v1)|**2025-03-14**|null|
+|**2025-03-14**|**A Framework for a Capability-driven Evaluation of Scenario Understanding for Multimodal Large Language Models in Autonomous Driving**|Tin Stribor Sohn et.al.|[2503.11400v1](http://arxiv.org/abs/2503.11400v1)|**2025-03-14**|null|
+|**2025-03-14**|**Watch and Learn: Leveraging Expert Knowledge and Language for Surgical Video Understanding**|David Gastager et.al.|[2503.11392v1](http://arxiv.org/abs/2503.11392v1)|**2025-03-14**|null|
+|**2025-03-14**|**EgoSplat: Open-Vocabulary Egocentric Scene Understanding with Language Embedded 3D Gaussian Splatting**|Di Li et.al.|[2503.11345v1](http://arxiv.org/abs/2503.11345v1)|**2025-03-14**|null|
+|**2025-03-14**|**APLA: A Simple Adaptation Method for Vision Transformers**|Moein Sorkhei et.al.|[2503.11335v1](http://arxiv.org/abs/2503.11335v1)|**2025-03-14**|null|
+|**2025-03-14**|**EmoAgent: Multi-Agent Collaboration of Plan, Edit, and Critic, for Affective Image Manipulation**|Qi Mao et.al.|[2503.11290v1](http://arxiv.org/abs/2503.11290v1)|**2025-03-14**|null|
+|**2025-03-14**|**Elimination of annotation dependencies in validation for Modern JSON Schema**|Lyes Attouche et.al.|[2503.11288v1](http://arxiv.org/abs/2503.11288v1)|**2025-03-14**|null|
+|**2025-03-14**|**AI and Deep Learning for Automated Segmentation and Quantitative Measurement of Spinal Structures in MRI**|Praveen Shastry et.al.|[2503.11281v1](http://arxiv.org/abs/2503.11281v1)|**2025-03-14**|null|
+|**2025-03-14**|**High-Dimensional Interlingual Representations of Large Language Models**|Bryan Wilie et.al.|[2503.11280v1](http://arxiv.org/abs/2503.11280v1)|**2025-03-14**|null|
+|**2025-03-14**|**CyclePose -- Leveraging Cycle-Consistency for Annotation-Free Nuclei Segmentation in Fluorescence Microscopy**|Jonas Utz et.al.|[2503.11266v1](http://arxiv.org/abs/2503.11266v1)|**2025-03-14**|null|
+|**2025-03-14**|**L2RSI: Cross-view LiDAR-based Place Recognition for Large-scale Urban Scenes via Remote Sensing Imagery**|Ziwei Shi et.al.|[2503.11245v1](http://arxiv.org/abs/2503.11245v1)|**2025-03-14**|null|
+|**2025-03-14**|**NF-SLAM: Effective, Normalizing Flow-supported Neural Field representations for object-level visual SLAM in automotive applications**|Li Cui et.al.|[2503.11199v1](http://arxiv.org/abs/2503.11199v1)|**2025-03-14**|null|
+|**2025-03-14**|**FastVID: Dynamic Density Pruning for Fast Video Large Language Models**|Leqi Shen et.al.|[2503.11187v1](http://arxiv.org/abs/2503.11187v1)|**2025-03-14**|null|
+|**2025-03-14**|**Align in Depth: Defending Jailbreak Attacks via Progressive Answer Detoxification**|Yingjie Zhang et.al.|[2503.11185v1](http://arxiv.org/abs/2503.11185v1)|**2025-03-14**|null|
+|**2025-03-14**|**Multimodal-Aware Fusion Network for Referring Remote Sensing Image Segmentation**|Leideng Shi et.al.|[2503.11183v1](http://arxiv.org/abs/2503.11183v1)|**2025-03-14**|[link](https://github.com/Roaxy/MAFN)|
+|**2025-03-14**|**Neurons: Emulating the Human Visual Cortex Improves Fidelity and Interpretability in fMRI-to-Video Reconstruction**|Haonan Wang et.al.|[2503.11167v1](http://arxiv.org/abs/2503.11167v1)|**2025-03-14**|null|
+|**2025-03-14**|**Don't Take Things Out of Context: Attention Intervention for Enhancing Chain-of-Thought Reasoning in Large Language Models**|Shaotian Yan et.al.|[2503.11154v1](http://arxiv.org/abs/2503.11154v1)|**2025-03-14**|null|
+|**2025-03-14**|**Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM**|Neng Wang et.al.|[2503.11145v1](http://arxiv.org/abs/2503.11145v1)|**2025-03-14**|null|

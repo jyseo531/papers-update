@@ -2,33 +2,33 @@
 ### 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-13**|**V2Edit: Versatile Video Diffusion Editor for Videos and 3D Scenes**|Yanming Zhang et.al.|[2503.10634v1](http://arxiv.org/abs/2503.10634v1)|**2025-03-13**|null|
-|**2025-03-13**|**NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models**|Mert Albaba et.al.|[2503.10626v1](http://arxiv.org/abs/2503.10626v1)|**2025-03-13**|null|
-|**2025-03-13**|**LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds**|Lingteng Qiu et.al.|[2503.10625v1](http://arxiv.org/abs/2503.10625v1)|**2025-03-13**|null|
-|**2025-03-13**|**ETCH: Generalizing Body Fitting to Clothed Humans via Equivariant Tightness**|Boqian Li et.al.|[2503.10624v1](http://arxiv.org/abs/2503.10624v1)|**2025-03-13**|[link](https://github.com/boqian-li/ETCH)|
-|**2025-03-13**|**OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction**|Severin Heidrich et.al.|[2503.10605v1](http://arxiv.org/abs/2503.10605v1)|**2025-03-13**|[link](https://github.com/ika-rwth-aachen/occuq)|
-|**2025-03-13**|**MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction**|Yingshuang Zou et.al.|[2503.10604v1](http://arxiv.org/abs/2503.10604v1)|**2025-03-13**|null|
-|**2025-03-13**|**Long Context Tuning for Video Generation**|Yuwei Guo et.al.|[2503.10589v1](http://arxiv.org/abs/2503.10589v1)|**2025-03-13**|null|
-|**2025-03-13**|**Semantic-Supervised Spatial-Temporal Fusion for LiDAR-based 3D Object Detection**|Chaoqun Wang et.al.|[2503.10579v1](http://arxiv.org/abs/2503.10579v1)|**2025-03-13**|null|
-|**2025-03-13**|**Lightweight Models for Emotional Analysis in Video**|Quoc-Tien Nguyen et.al.|[2503.10530v1](http://arxiv.org/abs/2503.10530v1)|**2025-03-13**|null|
-|**2025-03-13**|**PiSA: A Self-Augmented Data Engine and Training Strategy for 3D Understanding with Large Models**|Zilu Guo et.al.|[2503.10529v1](http://arxiv.org/abs/2503.10529v1)|**2025-03-13**|null|
-|**2025-03-13**|**Representation Learning, Large-Scale 3D Molecular Pretraining, Molecular Property**|Shuqi Lu et.al.|[2503.10489v1](http://arxiv.org/abs/2503.10489v1)|**2025-03-13**|null|
-|**2025-03-13**|**4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models**|Wanhua Li et.al.|[2503.10437v1](http://arxiv.org/abs/2503.10437v1)|**2025-03-13**|null|
-|**2025-03-13**|**Protostellar Outflows at the EarliesT Stages (POETS). VII. Circumstellar gas kinematics traced by water masers inside the HC HII region NGC7538 IRS1**|Luca Moscadelli et.al.|[2503.10415v1](http://arxiv.org/abs/2503.10415v1)|**2025-03-13**|null|
-|**2025-03-13**|**RoCo-Sim: Enhancing Roadside Collaborative Perception through Foreground Simulation**|Yuwen Du et.al.|[2503.10410v1](http://arxiv.org/abs/2503.10410v1)|**2025-03-13**|[link](https://github.com/duyuwen-duen/roco-sim)|
-|**2025-03-13**|**Hyper3D: Efficient 3D Representation via Hybrid Triplane and Octree Feature for Enhanced 3D Shape Variational Auto-Encoders**|Jingyu Guo et.al.|[2503.10403v1](http://arxiv.org/abs/2503.10403v1)|**2025-03-13**|null|
-|**2025-03-13**|**Reexamining Circular Dichroism in Photoemission From a Topological Insulator**|Ittai Sidilkover et.al.|[2503.10388v2](http://arxiv.org/abs/2503.10388v2)|**2025-03-14**|null|
-|**2025-03-13**|**3D non-LTE Ca II line formation in metal-poor FGK stars. I. Abundance corrections, radial velocity corrections, and synthetic spectra**|Cis Lagae et.al.|[2503.10378v1](http://arxiv.org/abs/2503.10378v1)|**2025-03-13**|null|
-|**2025-03-13**|**DreamInsert: Zero-Shot Image-to-Video Object Insertion from A Single Image**|Qi Zhao et.al.|[2503.10342v1](http://arxiv.org/abs/2503.10342v1)|**2025-03-13**|null|
-|**2025-03-13**|**OSMa-Bench: Evaluating Open Semantic Mapping Under Varying Lighting Conditions**|Maxim Popov et.al.|[2503.10331v1](http://arxiv.org/abs/2503.10331v1)|**2025-03-13**|null|
-|**2025-03-13**|**A Comparison of Calcium Sources for Ion-Trap Loading via Laser Ablation**|Daisy R H Smith et.al.|[2503.10329v1](http://arxiv.org/abs/2503.10329v1)|**2025-03-13**|null|
-|**2025-03-13**|**Pushing the Boundary of Quantum Advantage in Hard Combinatorial Optimization with Probabilistic Computers**|Shuvro Chowdhury et.al.|[2503.10302v1](http://arxiv.org/abs/2503.10302v1)|**2025-03-13**|null|
-|**2025-03-13**|**Analysis of linear Boussinesq-type models coupled with static interfaces**|José Galaz et.al.|[2503.10300v1](http://arxiv.org/abs/2503.10300v1)|**2025-03-13**|null|
-|**2025-03-13**|**MaterialMVP: Illumination-Invariant Material Generation via Multi-view PBR Diffusion**|Zebin He et.al.|[2503.10289v1](http://arxiv.org/abs/2503.10289v1)|**2025-03-13**|null|
-|**2025-03-13**|**VicaSplat: A Single Run is All You Need for 3D Gaussian Splatting and Camera Estimation from Unposed Video Frames**|Zhiqi Li et.al.|[2503.10286v1](http://arxiv.org/abs/2503.10286v1)|**2025-03-13**|null|
-|**2025-03-13**|**ROODI: Reconstructing Occluded Objects with Denoising Inpainters**|Yeonjin Chang et.al.|[2503.10256v1](http://arxiv.org/abs/2503.10256v1)|**2025-03-13**|null|
-|**2025-03-13**|**PRISM: Preference Refinement via Implicit Scene Modeling for 3D Vision-Language Preference-Based Reinforcement Learning**|Yirong Sun et.al.|[2503.10177v1](http://arxiv.org/abs/2503.10177v1)|**2025-03-13**|null|
-|**2025-03-13**|**3D Student Splatting and Scooping**|Jialin Zhu et.al.|[2503.10148v1](http://arxiv.org/abs/2503.10148v1)|**2025-03-13**|[link](https://github.com/realcrane/student-splating-scooping)|
-|**2025-03-13**|**GaussHDR: High Dynamic Range Gaussian Splatting via Learning Unified 3D and 2D Local Tone Mapping**|Jinfeng Liu et.al.|[2503.10143v1](http://arxiv.org/abs/2503.10143v1)|**2025-03-13**|null|
-|**2025-03-13**|**Mapless Collision-Free Flight via MPC using Dual KD-Trees in Cluttered Environments**|Linzuo Zhang et.al.|[2503.10141v1](http://arxiv.org/abs/2503.10141v1)|**2025-03-13**|null|
-|**2025-03-13**|**Deep Learning-Based Direct Leaf Area Estimation using Two RGBD Datasets for Model Development**|Namal Jayasuriya et.al.|[2503.10129v1](http://arxiv.org/abs/2503.10129v1)|**2025-03-13**|null|
+|**2025-03-14**|**Bring Your Rear Cameras for Egocentric 3D Human Pose Estimation**|Hiroyasu Akada et.al.|[2503.11652v1](http://arxiv.org/abs/2503.11652v1)|**2025-03-14**|null|
+|**2025-03-14**|**VGGT: Visual Geometry Grounded Transformer**|Jianyuan Wang et.al.|[2503.11651v1](http://arxiv.org/abs/2503.11651v1)|**2025-03-14**|null|
+|**2025-03-14**|**The waves-in-space Purcell effect for superconducting qubits**|Param Patel et.al.|[2503.11644v1](http://arxiv.org/abs/2503.11644v1)|**2025-03-14**|null|
+|**2025-03-14**|**Advancing 3D Gaussian Splatting Editing with Complementary and Consensus Information**|Xuanqi Zhang et.al.|[2503.11601v1](http://arxiv.org/abs/2503.11601v1)|**2025-03-14**|null|
+|**2025-03-14**|**FLASHμ: Fast Localizing And Sizing of Holographic Microparticles**|Ayush Paliwal et.al.|[2503.11538v1](http://arxiv.org/abs/2503.11538v1)|**2025-03-14**|null|
+|**2025-03-14**|**HiTVideo: Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models**|Ziqin Zhou et.al.|[2503.11513v1](http://arxiv.org/abs/2503.11513v1)|**2025-03-14**|null|
+|**2025-03-14**|**MRS-CWC: A Weakly Constrained Multi-Robot System with Controllable Constraint Stiffness for Mobility and Navigation in Unknown 3D Rough Environments**|Runze Xiao et.al.|[2503.11461v1](http://arxiv.org/abs/2503.11461v1)|**2025-03-14**|null|
+|**2025-03-14**|**A Neural Network Architecture Based on Attention Gate Mechanism for 3D Magnetotelluric Forward Modeling**|Xin Zhong et.al.|[2503.11408v1](http://arxiv.org/abs/2503.11408v1)|**2025-03-14**|null|
+|**2025-03-14**|**Data-constrained 3D MHD Simulation of a Spiral Jet Caused by an Unstable Flux Rope Embedded in Fan-spine Configuration**|Z. F. Li et.al.|[2503.11380v1](http://arxiv.org/abs/2503.11380v1)|**2025-03-14**|null|
+|**2025-03-14**|**EMoTive: Event-guided Trajectory Modeling for 3D Motion Estimation**|Zengyu Wan et.al.|[2503.11371v1](http://arxiv.org/abs/2503.11371v1)|**2025-03-14**|null|
+|**2025-03-14**|**PBR3DGen: A VLM-guided Mesh Generation with High-quality PBR Texture**|Xiaokang Wei et.al.|[2503.11368v1](http://arxiv.org/abs/2503.11368v1)|**2025-03-14**|null|
+|**2025-03-14**|**Confinement controls bacterial spreading at all scales**|Renaud Baillou et.al.|[2503.11364v1](http://arxiv.org/abs/2503.11364v1)|**2025-03-14**|null|
+|**2025-03-14**|**Predictive study of non-axisymmetric neutral beam ion loss on the upgraded KSTAR plasma-facing components**|Taeuk Moon et.al.|[2503.11353v1](http://arxiv.org/abs/2503.11353v1)|**2025-03-14**|null|
+|**2025-03-14**|**EgoSplat: Open-Vocabulary Egocentric Scene Understanding with Language Embedded 3D Gaussian Splatting**|Di Li et.al.|[2503.11345v1](http://arxiv.org/abs/2503.11345v1)|**2025-03-14**|null|
+|**2025-03-14**|**1D fluids with repulsive nearest-neighbour interactions: Low-temperature anomalies**|Igor Travěnec et.al.|[2503.11310v1](http://arxiv.org/abs/2503.11310v1)|**2025-03-14**|null|
+|**2025-03-14**|**L2RSI: Cross-view LiDAR-based Place Recognition for Large-scale Urban Scenes via Remote Sensing Imagery**|Ziwei Shi et.al.|[2503.11245v1](http://arxiv.org/abs/2503.11245v1)|**2025-03-14**|null|
+|**2025-03-14**|**Growth Laws and Universality in 2-TIPS: Microscopic and Coarse grained approach**|Nayana Venkatareddy et.al.|[2503.11243v1](http://arxiv.org/abs/2503.11243v1)|**2025-03-14**|null|
+|**2025-03-14**|**NF-SLAM: Effective, Normalizing Flow-supported Neural Field representations for object-level visual SLAM in automotive applications**|Li Cui et.al.|[2503.11199v1](http://arxiv.org/abs/2503.11199v1)|**2025-03-14**|null|
+|**2025-03-14**|**Online Test-time Adaptation for 3D Human Pose Estimation: A Practical Perspective with Estimated 2D Poses**|Qiuxia Lin et.al.|[2503.11194v1](http://arxiv.org/abs/2503.11194v1)|**2025-03-14**|null|
+|**2025-03-14**|**Uncertainty-Aware Normal-Guided Gaussian Splatting for Surface Reconstruction from Sparse Image Sequences**|Zhen Tan et.al.|[2503.11172v1](http://arxiv.org/abs/2503.11172v1)|**2025-03-14**|null|
+|**2025-03-14**|**GaussianIP: Identity-Preserving Realistic 3D Human Generation via Human-Centric Diffusion Prior**|Zichen Tang et.al.|[2503.11143v1](http://arxiv.org/abs/2503.11143v1)|**2025-03-14**|null|
+|**2025-03-14**|**DriveGEN: Generalized and Robust 3D Detection in Driving via Controllable Text-to-Image Diffusion Generation**|Hongbin Lin et.al.|[2503.11122v1](http://arxiv.org/abs/2503.11122v1)|**2025-03-14**|null|
+|**2025-03-14**|**Beyond the Destination: A Novel Benchmark for Exploration-Aware Embodied Question Answering**|Kaixuan Jiang et.al.|[2503.11117v1](http://arxiv.org/abs/2503.11117v1)|**2025-03-14**|null|
+|**2025-03-14**|**Advancing Electronics Manufacturing Using Dynamically Programmable Micro-Transfer Printing System**|Qinhua Guo et.al.|[2503.11109v1](http://arxiv.org/abs/2503.11109v1)|**2025-03-14**|null|
+|**2025-03-14**|**Open3DVQA: A Benchmark for Comprehensive Spatial Reasoning with Multimodal Large Language Model in Open Space**|Weichen Zhan et.al.|[2503.11094v1](http://arxiv.org/abs/2503.11094v1)|**2025-03-14**|null|
+|**2025-03-14**|**OmniDiff: A Comprehensive Benchmark for Fine-grained Image Difference Captioning**|Yuan Liu et.al.|[2503.11093v1](http://arxiv.org/abs/2503.11093v1)|**2025-03-14**|null|
+|**2025-03-14**|**Aerial Vision-and-Language Navigation with Grid-based View Selection and Map Construction**|Ganlong Zhao et.al.|[2503.11091v1](http://arxiv.org/abs/2503.11091v1)|**2025-03-14**|null|
+|**2025-03-14**|**Dust Clumping in Outer Protoplanetary Disks: the Interplay Among Four Instabilities**|Pinghui Huang et.al.|[2503.11076v1](http://arxiv.org/abs/2503.11076v1)|**2025-03-14**|null|
+|**2025-03-14**|**Low-cost Real-world Implementation of the Swing-up Pendulum for Deep Reinforcement Learning Experiments**|Peter Böhm et.al.|[2503.11065v1](http://arxiv.org/abs/2503.11065v1)|**2025-03-14**|null|
+|**2025-03-14**|**Magnetoconductivity due to electron-electron interaction in a non-Galilean--invariant Fermi liquid**|Tatia Kiliptari et.al.|[2503.11063v1](http://arxiv.org/abs/2503.11063v1)|**2025-03-14**|null|

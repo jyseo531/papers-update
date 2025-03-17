@@ -2,6 +2,11 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-14**|**RASA: Replace Anyone, Say Anything -- A Training-Free Framework for Audio-Driven and Universal Portrait Video Editing**|Tianrui Pan et.al.|[2503.11571v1](http://arxiv.org/abs/2503.11571v1)|**2025-03-14**|null|
+|**2025-03-14**|**Enhancing Hand Palm Motion Gesture Recognition by Eliminating Reference Frame Bias via Frame-Invariant Similarity Measures**|Arno Verduyn et.al.|[2503.11352v1](http://arxiv.org/abs/2503.11352v1)|**2025-03-14**|null|
+|**2025-03-14**|**Solubility and dissociation of ionic liquids in epoxides and cyclic carbonate by molecular dynamics simulation**|Sergio Dorado-Alfaro et.al.|[2503.11257v1](http://arxiv.org/abs/2503.11257v1)|**2025-03-14**|null|
+|**2025-03-14**|**NF-SLAM: Effective, Normalizing Flow-supported Neural Field representations for object-level visual SLAM in automotive applications**|Li Cui et.al.|[2503.11199v1](http://arxiv.org/abs/2503.11199v1)|**2025-03-14**|null|
+|**2025-03-13**|**Clothes-Changing Person Re-identification Based On Skeleton Dynamics**|Asaf Joseph et.al.|[2503.10759v1](http://arxiv.org/abs/2503.10759v1)|**2025-03-13**|null|
 |**2025-03-13**|**KUDA: Keypoints to Unify Dynamics Learning and Visual Prompting for Open-Vocabulary Robotic Manipulation**|Zixian Liu et.al.|[2503.10546v1](http://arxiv.org/abs/2503.10546v1)|**2025-03-13**|null|
 |**2025-03-13**|**Consistent multi-animal pose estimation in cattle using dynamic Kalman filter based tracking**|Maarten Perneel et.al.|[2503.10450v1](http://arxiv.org/abs/2503.10450v1)|**2025-03-13**|null|
 |**2025-03-13**|**HSEmotion Team at ABAW-8 Competition: Audiovisual Ambivalence/Hesitancy, Emotional Mimicry Intensity and Facial Expression Recognition**|Andrey V. Savchenko et.al.|[2503.10399v1](http://arxiv.org/abs/2503.10399v1)|**2025-03-13**|null|
@@ -27,8 +32,3 @@
 |**2025-03-10**|**Fully Unsupervised Annotation of C. Elegans**|Christoph Karg et.al.|[2503.07348v1](http://arxiv.org/abs/2503.07348v1)|**2025-03-10**|null|
 |**2025-03-10**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347v2](http://arxiv.org/abs/2503.07347v2)|**2025-03-11**|[link](https://github.com/parskatt/dad)|
 |**2025-03-10**|**Find your Needle: Small Object Image Retrieval via Multi-Object Attention Optimization**|Michael Green et.al.|[2503.07038v1](http://arxiv.org/abs/2503.07038v1)|**2025-03-10**|null|
-|**2025-03-10**|**Correlated vibration-solvent and Duschinsky effects on optical spectroscopy**|Zi-Fan Zhu et.al.|[2503.06876v1](http://arxiv.org/abs/2503.06876v1)|**2025-03-10**|null|
-|**2025-03-09**|**StructVPR++: Distill Structural and Semantic Knowledge with Weighting Samples for Visual Place Recognition**|Yanqing Shen et.al.|[2503.06601v1](http://arxiv.org/abs/2503.06601v1)|**2025-03-09**|[link](https://github.com/syqlyx/StructVPR)|
-|**2025-03-09**|**Hierarchical Multi-Objective Optimization for Precise Performance Design of Closed-Chain Legged Mechanisms**|Long Guo et.al.|[2503.06533v1](http://arxiv.org/abs/2503.06533v1)|**2025-03-09**|null|
-|**2025-03-09**|**TextInPlace: Indoor Visual Place Recognition in Repetitive Structures with Scene Text Spotting and Verification**|Huaqi Tao et.al.|[2503.06501v1](http://arxiv.org/abs/2503.06501v1)|**2025-03-09**|null|
-|**2025-03-08**|**Pretraining Generative Flow Networks with Inexpensive Rewards for Molecular Graph Generation**|Mohit Pandey et.al.|[2503.06337v1](http://arxiv.org/abs/2503.06337v1)|**2025-03-08**|null|

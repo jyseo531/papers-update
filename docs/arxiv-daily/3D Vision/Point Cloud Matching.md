@@ -2,33 +2,33 @@
 ### Point Cloud Matching
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-13**|**Studying Classifier(-Free) Guidance From a Classifier-Centric Perspective**|Xiaoming Zhao et.al.|[2503.10638v1](http://arxiv.org/abs/2503.10638v1)|**2025-03-13**|null|
-|**2025-03-13**|**The Curse of Conditions: Analyzing and Improving Optimal Transport for Conditional Flow-Based Generation**|Ho Kei Cheng et.al.|[2503.10636v2](http://arxiv.org/abs/2503.10636v2)|**2025-03-14**|[link](https://github.com/hkchengrex/C2OT)|
-|**2025-03-13**|**UniGoal: Towards Universal Zero-shot Goal-oriented Navigation**|Hang Yin et.al.|[2503.10630v1](http://arxiv.org/abs/2503.10630v1)|**2025-03-13**|null|
-|**2025-03-13**|**ETCH: Generalizing Body Fitting to Clothed Humans via Equivariant Tightness**|Boqian Li et.al.|[2503.10624v1](http://arxiv.org/abs/2503.10624v1)|**2025-03-13**|[link](https://github.com/boqian-li/ETCH)|
-|**2025-03-13**|**Transformers without Normalization**|Jiachen Zhu et.al.|[2503.10622v1](http://arxiv.org/abs/2503.10622v1)|**2025-03-13**|null|
-|**2025-03-13**|**MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction**|Yingshuang Zou et.al.|[2503.10604v1](http://arxiv.org/abs/2503.10604v1)|**2025-03-13**|null|
-|**2025-03-13**|**Compact Two-Loop QCD Corrections for $Vjj$ Production in Proton Collisions**|Giuseppe De Laurentis et.al.|[2503.10595v1](http://arxiv.org/abs/2503.10595v1)|**2025-03-13**|[link](https://gitlab.com/five-point-amplitudes/FivePointAmplitudes-cpp)|
-|**2025-03-13**|**Poly-MgNet: Polynomial Building Blocks in Multigrid-Inspired ResNets**|Antonia van Betteray et.al.|[2503.10594v1](http://arxiv.org/abs/2503.10594v1)|**2025-03-13**|null|
-|**2025-03-13**|**Experimental factoring integers using fixed-point-QAOA with a trapped-ion quantum processor**|Ilia V. Zalivako et.al.|[2503.10588v1](http://arxiv.org/abs/2503.10588v1)|**2025-03-13**|null|
-|**2025-03-13**|**Holographic study of shear viscosity and butterfly velocity for magnetic field-driven quantum criticality**|Jun-Kun Zhao et.al.|[2503.10584v1](http://arxiv.org/abs/2503.10584v1)|**2025-03-13**|null|
-|**2025-03-13**|**VisualWebInstruct: Scaling up Multimodal Instruction Data through Web Search**|Yiming Jia et.al.|[2503.10582v1](http://arxiv.org/abs/2503.10582v1)|**2025-03-13**|null|
-|**2025-03-13**|**Simulating charging characteristics of lithium iron phosphate by electro-ionic optimization on a quantum annealer**|Tobias Binninger et.al.|[2503.10581v1](http://arxiv.org/abs/2503.10581v1)|**2025-03-13**|null|
-|**2025-03-13**|**Semantic-Supervised Spatial-Temporal Fusion for LiDAR-based 3D Object Detection**|Chaoqun Wang et.al.|[2503.10579v1](http://arxiv.org/abs/2503.10579v1)|**2025-03-13**|null|
-|**2025-03-13**|**Velocity trapping in the lifted TASEP and the true self-avoiding random walk**|Brune Massoulié et.al.|[2503.10575v1](http://arxiv.org/abs/2503.10575v1)|**2025-03-13**|null|
-|**2025-03-13**|**A high-speed heterogeneous lithium tantalate silicon photonics platform**|Margot Niels et.al.|[2503.10557v2](http://arxiv.org/abs/2503.10557v2)|**2025-03-14**|null|
-|**2025-03-13**|**Multiplicative chaos measure for multiplicative functions: the $L^1$-regime**|Ofir Gorodetsky et.al.|[2503.10555v1](http://arxiv.org/abs/2503.10555v1)|**2025-03-13**|null|
-|**2025-03-13**|**From Linear to Spline-Based Classification:Developing and Enhancing SMPA for Noisy Non-Linear Datasets**|Vatsal Srivastava et.al.|[2503.10545v1](http://arxiv.org/abs/2503.10545v1)|**2025-03-13**|null|
-|**2025-03-13**|**DP-GPL: Differentially Private Graph Prompt Learning**|Jing Xu et.al.|[2503.10544v1](http://arxiv.org/abs/2503.10544v1)|**2025-03-13**|null|
-|**2025-03-13**|**GBSVR: Granular Ball Support Vector Regression**|Reshma Rastogi et.al.|[2503.10539v1](http://arxiv.org/abs/2503.10539v1)|**2025-03-13**|null|
-|**2025-03-13**|**Structured Preconditioners in Adaptive Optimization: A Unified Analysis**|Shuo Xie et.al.|[2503.10537v1](http://arxiv.org/abs/2503.10537v1)|**2025-03-13**|null|
-|**2025-03-13**|**PiSA: A Self-Augmented Data Engine and Training Strategy for 3D Understanding with Large Models**|Zilu Guo et.al.|[2503.10529v1](http://arxiv.org/abs/2503.10529v1)|**2025-03-13**|null|
-|**2025-03-13**|**On the computation of the vanishing locus of a finitely presented functor**|Sebastian Posur et.al.|[2503.10524v1](http://arxiv.org/abs/2503.10524v1)|**2025-03-13**|null|
-|**2025-03-13**|**AudioX: Diffusion Transformer for Anything-to-Audio Generation**|Zeyue Tian et.al.|[2503.10522v1](http://arxiv.org/abs/2503.10522v1)|**2025-03-13**|null|
-|**2025-03-13**|**CountPath: Automating Fragment Counting in Digital Pathology**|Ana Beatriz Vieira et.al.|[2503.10520v1](http://arxiv.org/abs/2503.10520v1)|**2025-03-13**|null|
-|**2025-03-13**|**SySLLM: Generating Synthesized Policy Summaries for Reinforcement Learning Agents Using Large Language Models**|Sahar Admoni et.al.|[2503.10509v1](http://arxiv.org/abs/2503.10509v1)|**2025-03-13**|null|
-|**2025-03-13**|**Hoi2Anomaly: An Explainable Anomaly Detection Approach Guided by Human-Object Interaction**|Yuhan Wang et.al.|[2503.10508v1](http://arxiv.org/abs/2503.10508v1)|**2025-03-13**|null|
-|**2025-03-13**|**Theory of the two-photon Franz-Keldysh effect and electric-field-induced bichromatic coherent control**|J. K. Wahlstrand et.al.|[2503.10490v1](http://arxiv.org/abs/2503.10490v1)|**2025-03-13**|null|
-|**2025-03-13**|**Representation Learning, Large-Scale 3D Molecular Pretraining, Molecular Property**|Shuqi Lu et.al.|[2503.10489v1](http://arxiv.org/abs/2503.10489v1)|**2025-03-13**|null|
-|**2025-03-13**|**Projective curves and weak second-order logic**|Alessandro Berarducci et.al.|[2503.10473v2](http://arxiv.org/abs/2503.10473v2)|**2025-03-14**|null|
-|**2025-03-13**|**Hyperbolic Banach spaces I -- Directed completion of partial orders**|Nicola Gigli et.al.|[2503.10467v1](http://arxiv.org/abs/2503.10467v1)|**2025-03-13**|null|
+|**2025-03-14**|**VGGT: Visual Geometry Grounded Transformer**|Jianyuan Wang et.al.|[2503.11651v1](http://arxiv.org/abs/2503.11651v1)|**2025-03-14**|null|
+|**2025-03-14**|**Translating Between the Common Haar Random State Model and the Unitary Model**|Eli Goldin et.al.|[2503.11634v1](http://arxiv.org/abs/2503.11634v1)|**2025-03-14**|null|
+|**2025-03-14**|**TreeMeshGPT: Artistic Mesh Generation with Autoregressive Tree Sequencing**|Stefan Lionar et.al.|[2503.11629v1](http://arxiv.org/abs/2503.11629v1)|**2025-03-14**|null|
+|**2025-03-14**|**Neutrinos as a new tool to characterise the Milky Way Centre**|Paul C. W. Lai et.al.|[2503.11625v1](http://arxiv.org/abs/2503.11625v1)|**2025-03-14**|null|
+|**2025-03-14**|**Euclid preparation. BAO analysis of photometric galaxy clustering in configuration space**|Euclid Collaboration et.al.|[2503.11621v1](http://arxiv.org/abs/2503.11621v1)|**2025-03-14**|null|
+|**2025-03-14**|**From Denoising Score Matching to Langevin Sampling: A Fine-Grained Error Analysis in the Gaussian Setting**|Samuel Hurault et.al.|[2503.11615v1](http://arxiv.org/abs/2503.11615v1)|**2025-03-14**|null|
+|**2025-03-14**|**Rethinking Few-Shot Adaptation of Vision-Language Models in Two Stages**|Matteo Farina et.al.|[2503.11609v1](http://arxiv.org/abs/2503.11609v1)|**2025-03-14**|null|
+|**2025-03-14**|**Nodal superconducting gap structure and topological surface states of UTe$_2$**|Hans Christiansen et.al.|[2503.11603v1](http://arxiv.org/abs/2503.11603v1)|**2025-03-14**|null|
+|**2025-03-14**|**Thermodynamics of the Hubbard Model on the Bethe Lattice**|Jia-Lin Chen et.al.|[2503.11598v1](http://arxiv.org/abs/2503.11598v1)|**2025-03-14**|[link](https://github.com/chenjl517/ThermalBetheLattice)|
+|**2025-03-14**|**Quantum geometry and low-frequency optical conductivity of topological nodal planes**|Raymond Wiedmann et.al.|[2503.11589v1](http://arxiv.org/abs/2503.11589v1)|**2025-03-14**|null|
+|**2025-03-14**|**Nonlinear optical metasurfaces empowered by bound-states in the continuum**|Ji Tong Wang et.al.|[2503.11581v1](http://arxiv.org/abs/2503.11581v1)|**2025-03-14**|null|
+|**2025-03-14**|**Synthesizing Access Control Policies using Large Language Models**|Adarsh Vatsa et.al.|[2503.11573v1](http://arxiv.org/abs/2503.11573v1)|**2025-03-14**|null|
+|**2025-03-14**|**Goal-oriented Spectrum Sharing: Trading Edge Inference Power for Data Streaming Performance**|Mattia Merluzzi et.al.|[2503.11552v1](http://arxiv.org/abs/2503.11552v1)|**2025-03-14**|null|
+|**2025-03-14**|**Dynamics of a coupled nonlocal PDE-ODE system with spatial memory: well-posedness, stability, and bifurcation analysis**|Yurij Salmaniw et.al.|[2503.11550v1](http://arxiv.org/abs/2503.11550v1)|**2025-03-14**|null|
+|**2025-03-14**|**Inconsistency of point particle's dynamics on higher-spin backgrounds**|Vyacheslav Ivanovskiy et.al.|[2503.11546v1](http://arxiv.org/abs/2503.11546v1)|**2025-03-14**|null|
+|**2025-03-14**|**2024 California Community Earth Models for Seismic Hazard Assessments Workshop Report**|Brad T. Aagaard et.al.|[2503.11545v1](http://arxiv.org/abs/2503.11545v1)|**2025-03-14**|null|
+|**2025-03-14**|**Data-Driven Construction of Age-Structured Contact Networks**|Luke Murray Kearney et.al.|[2503.11527v1](http://arxiv.org/abs/2503.11527v1)|**2025-03-14**|null|
+|**2025-03-14**|**Superconvergent Discontinuous Galerkin Method for the Scalar Teukolsky Equation on Hyperboloidal Domains: Efficient Waveform and Self-Force Computation**|Manas Vishal et.al.|[2503.11523v1](http://arxiv.org/abs/2503.11523v1)|**2025-03-14**|null|
+|**2025-03-14**|**Coronal bright point statistics II. Magnetic polarities and mini loops**|I. Kraus et.al.|[2503.11521v1](http://arxiv.org/abs/2503.11521v1)|**2025-03-14**|null|
+|**2025-03-14**|**TikZero: Zero-Shot Text-Guided Graphics Program Synthesis**|Jonas Belouadi et.al.|[2503.11509v1](http://arxiv.org/abs/2503.11509v1)|**2025-03-14**|null|
+|**2025-03-14**|**Quantum algorithms for simulating systems coupled to bosonic modes using a hybrid resonator-qubit quantum computer**|Juha Leppäkangas et.al.|[2503.11507v1](http://arxiv.org/abs/2503.11507v1)|**2025-03-14**|null|
+|**2025-03-14**|**Real-time edge dynamics of non-Hermitian lattices**|Tian-Hua Yang et.al.|[2503.11505v1](http://arxiv.org/abs/2503.11505v1)|**2025-03-14**|null|
+|**2025-03-14**|**Cloud2BIM: An open-source automatic pipeline for efficient conversion of large-scale point clouds into IFC format**|Slávek Zbirovský et.al.|[2503.11498v1](http://arxiv.org/abs/2503.11498v1)|**2025-03-14**|null|
+|**2025-03-14**|**An automated geometric space curve approach for designing dynamically corrected gates**|Evangelos Piliouras et.al.|[2503.11492v1](http://arxiv.org/abs/2503.11492v1)|**2025-03-14**|null|
+|**2025-03-14**|**Matching Lagrangian and Hamiltonian Simulations in (2+1)-dimensional U(1) Gauge Theory**|C. F. Groß et.al.|[2503.11480v1](http://arxiv.org/abs/2503.11480v1)|**2025-03-14**|null|
+|**2025-03-14**|**Factors affecting power in stepped wedge trials when the treatment effect varies with time**|Avi Kenny et.al.|[2503.11472v1](http://arxiv.org/abs/2503.11472v1)|**2025-03-14**|null|
+|**2025-03-14**|**Scalable Global Solution Techniques for High-Dimensional Models in Dynare**|Aryan Eftekhari et.al.|[2503.11464v1](http://arxiv.org/abs/2503.11464v1)|**2025-03-14**|null|
+|**2025-03-14**|**ARCAS: Adaptive Runtime System for Chiplet-Aware Scheduling**|Alessandro Fogli et.al.|[2503.11460v1](http://arxiv.org/abs/2503.11460v1)|**2025-03-14**|null|
+|**2025-03-14**|**The Road to Hybrid Quantum Programs: Characterizing the Evolution from Classical to Hybrid Quantum Software**|Vincenzo De Maio et.al.|[2503.11450v1](http://arxiv.org/abs/2503.11450v1)|**2025-03-14**|null|
+|**2025-03-14**|**Controllable Antiferromagnetic-Ferromagnetic phase transition in monolayer MnPSe3 via atomic adsorption of Li, O, and F**|Dong Liu et.al.|[2503.11442v1](http://arxiv.org/abs/2503.11442v1)|**2025-03-14**|null|

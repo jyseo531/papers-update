@@ -2,33 +2,33 @@
 ### Image Matching
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-13**|**Studying Classifier(-Free) Guidance From a Classifier-Centric Perspective**|Xiaoming Zhao et.al.|[2503.10638v1](http://arxiv.org/abs/2503.10638v1)|**2025-03-13**|null|
-|**2025-03-13**|**GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing**|Rongyao Fang et.al.|[2503.10639v1](http://arxiv.org/abs/2503.10639v1)|**2025-03-13**|[link](https://github.com/rongyaofang/got)|
-|**2025-03-13**|**The Curse of Conditions: Analyzing and Improving Optimal Transport for Conditional Flow-Based Generation**|Ho Kei Cheng et.al.|[2503.10636v2](http://arxiv.org/abs/2503.10636v2)|**2025-03-14**|[link](https://github.com/hkchengrex/C2OT)|
-|**2025-03-13**|**A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1**|Zhaoyi Li et.al.|[2503.10635v1](http://arxiv.org/abs/2503.10635v1)|**2025-03-13**|[link](https://github.com/vila-lab/m-attack)|
-|**2025-03-13**|**UniGoal: Towards Universal Zero-shot Goal-oriented Navigation**|Hang Yin et.al.|[2503.10630v1](http://arxiv.org/abs/2503.10630v1)|**2025-03-13**|null|
-|**2025-03-13**|**Hierarchical Self-Supervised Adversarial Training for Robust Vision Models in Histopathology**|Hashmat Shadab Malik et.al.|[2503.10629v1](http://arxiv.org/abs/2503.10629v1)|**2025-03-13**|[link](https://github.com/hashmatshadab/hsat)|
-|**2025-03-13**|**LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds**|Lingteng Qiu et.al.|[2503.10625v1](http://arxiv.org/abs/2503.10625v1)|**2025-03-13**|null|
-|**2025-03-13**|**Transformers without Normalization**|Jiachen Zhu et.al.|[2503.10622v1](http://arxiv.org/abs/2503.10622v1)|**2025-03-13**|null|
-|**2025-03-13**|**From TOWER to SPIRE: Adding the Speech Modality to a Text-Only LLM**|Kshitij Ambilduke et.al.|[2503.10620v1](http://arxiv.org/abs/2503.10620v1)|**2025-03-13**|null|
-|**2025-03-13**|**DiT-Air: Revisiting the Efficiency of Diffusion Model Architecture Design in Text to Image Generation**|Chen Chen et.al.|[2503.10618v1](http://arxiv.org/abs/2503.10618v1)|**2025-03-13**|null|
-|**2025-03-13**|**R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization**|Yi Yang et.al.|[2503.10615v1](http://arxiv.org/abs/2503.10615v1)|**2025-03-13**|[link](https://github.com/Fancy-MLLM/R1-onevision)|
-|**2025-03-13**|**ConsisLoRA: Enhancing Content and Style Consistency for LoRA-based Style Transfer**|Bolin Chen et.al.|[2503.10614v1](http://arxiv.org/abs/2503.10614v1)|**2025-03-13**|null|
-|**2025-03-13**|**CoSTA$\ast$: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing**|Advait Gupta et.al.|[2503.10613v1](http://arxiv.org/abs/2503.10613v1)|**2025-03-13**|[link](https://github.com/tianyi-lab/CoSTAR)|
-|**2025-03-13**|**Characterization of geodesic completeness for landmark space**|Karen Habermann et.al.|[2503.10611v1](http://arxiv.org/abs/2503.10611v1)|**2025-03-13**|null|
-|**2025-03-13**|**GroomLight: Hybrid Inverse Rendering for Relightable Human Hair Appearance Modeling**|Yang Zheng et.al.|[2503.10597v1](http://arxiv.org/abs/2503.10597v1)|**2025-03-13**|null|
-|**2025-03-13**|**GroundingSuite: Measuring Complex Multi-Granular Pixel Grounding**|Rui Hu et.al.|[2503.10596v1](http://arxiv.org/abs/2503.10596v1)|**2025-03-13**|[link](https://github.com/hustvl/groundingsuite)|
-|**2025-03-13**|**Compact Two-Loop QCD Corrections for $Vjj$ Production in Proton Collisions**|Giuseppe De Laurentis et.al.|[2503.10595v1](http://arxiv.org/abs/2503.10595v1)|**2025-03-13**|[link](https://gitlab.com/five-point-amplitudes/FivePointAmplitudes-cpp)|
-|**2025-03-13**|**VisualWebInstruct: Scaling up Multimodal Instruction Data through Web Search**|Yiming Jia et.al.|[2503.10582v1](http://arxiv.org/abs/2503.10582v1)|**2025-03-13**|null|
-|**2025-03-13**|**Autoregressive Image Generation with Randomized Parallel Decoding**|Haopeng Li et.al.|[2503.10568v1](http://arxiv.org/abs/2503.10568v1)|**2025-03-13**|null|
-|**2025-03-13**|**MASQUE: A Text-Guided Diffusion-Based Framework for Localized and Customized Adversarial Makeup**|Youngjin Kwon et.al.|[2503.10549v1](http://arxiv.org/abs/2503.10549v1)|**2025-03-13**|null|
-|**2025-03-13**|**Learning Interpretable Logic Rules from Deep Vision Models**|Chuqin Geng et.al.|[2503.10547v1](http://arxiv.org/abs/2503.10547v1)|**2025-03-13**|null|
-|**2025-03-13**|**KUDA: Keypoints to Unify Dynamics Learning and Visual Prompting for Open-Vocabulary Robotic Manipulation**|Zixian Liu et.al.|[2503.10546v1](http://arxiv.org/abs/2503.10546v1)|**2025-03-13**|null|
-|**2025-03-13**|**The middle-aged pulsar PSR J1741-2054 and its bow-shock nebula in far ultraviolet**|Vadim Abramkin et.al.|[2503.10540v1](http://arxiv.org/abs/2503.10540v1)|**2025-03-13**|null|
-|**2025-03-13**|**Structured Preconditioners in Adaptive Optimization: A Unified Analysis**|Shuo Xie et.al.|[2503.10537v1](http://arxiv.org/abs/2503.10537v1)|**2025-03-13**|null|
-|**2025-03-13**|**Lightweight Models for Emotional Analysis in Video**|Quoc-Tien Nguyen et.al.|[2503.10530v1](http://arxiv.org/abs/2503.10530v1)|**2025-03-13**|null|
-|**2025-03-13**|**How Should We Evaluate Uncertainty in Accelerated MRI Reconstruction?**|Luca Trautmann et.al.|[2503.10527v1](http://arxiv.org/abs/2503.10527v1)|**2025-03-13**|null|
-|**2025-03-13**|**Interactive Multimodal Fusion with Temporal Modeling**|Jun Yu et.al.|[2503.10523v1](http://arxiv.org/abs/2503.10523v1)|**2025-03-13**|null|
-|**2025-03-13**|**AudioX: Diffusion Transformer for Anything-to-Audio Generation**|Zeyue Tian et.al.|[2503.10522v1](http://arxiv.org/abs/2503.10522v1)|**2025-03-13**|null|
-|**2025-03-13**|**CountPath: Automating Fragment Counting in Digital Pathology**|Ana Beatriz Vieira et.al.|[2503.10520v1](http://arxiv.org/abs/2503.10520v1)|**2025-03-13**|null|
-|**2025-03-13**|**Extreme Learning Machines for Attention-based Multiple Instance Learning in Whole-Slide Image Classification**|Rajiv Krishnakumar et.al.|[2503.10510v1](http://arxiv.org/abs/2503.10510v1)|**2025-03-13**|null|
+|**2025-03-14**|**VGGT: Visual Geometry Grounded Transformer**|Jianyuan Wang et.al.|[2503.11651v1](http://arxiv.org/abs/2503.11651v1)|**2025-03-14**|null|
+|**2025-03-14**|**ReCamMaster: Camera-Controlled Generative Rendering from A Single Video**|Jianhong Bai et.al.|[2503.11647v1](http://arxiv.org/abs/2503.11647v1)|**2025-03-14**|null|
+|**2025-03-14**|**Enhancing Deep Learning Based Structured Illumination Microscopy Reconstruction with Light Field Awareness**|Long-Kun Shan et.al.|[2503.11640v1](http://arxiv.org/abs/2503.11640v1)|**2025-03-14**|null|
+|**2025-03-14**|**Seeing and Seeing Through the Glass: Real and Synthetic Data for Multi-Layer Depth Estimation**|Hongyu Wen et.al.|[2503.11633v1](http://arxiv.org/abs/2503.11633v1)|**2025-03-14**|null|
+|**2025-03-14**|**Tit-for-Tat: Safeguarding Large Vision-Language Models Against Jailbreak Attacks via Adversarial Defense**|Shuyang Hao et.al.|[2503.11619v1](http://arxiv.org/abs/2503.11619v1)|**2025-03-14**|null|
+|**2025-03-14**|**From Denoising Score Matching to Langevin Sampling: A Fine-Grained Error Analysis in the Gaussian Setting**|Samuel Hurault et.al.|[2503.11615v1](http://arxiv.org/abs/2503.11615v1)|**2025-03-14**|null|
+|**2025-03-14**|**Rethinking Few-Shot Adaptation of Vision-Language Models in Two Stages**|Matteo Farina et.al.|[2503.11609v1](http://arxiv.org/abs/2503.11609v1)|**2025-03-14**|null|
+|**2025-03-14**|**Advancing 3D Gaussian Splatting Editing with Complementary and Consensus Information**|Xuanqi Zhang et.al.|[2503.11601v1](http://arxiv.org/abs/2503.11601v1)|**2025-03-14**|null|
+|**2025-03-14**|**Microlensing Constraints on the Stellar and Planetary Mass Functions**|Jennifer C. Yee et.al.|[2503.11597v1](http://arxiv.org/abs/2503.11597v1)|**2025-03-14**|null|
+|**2025-03-14**|**Pathology Image Compression with Pre-trained Autoencoders**|Srikar Yellapragada et.al.|[2503.11591v1](http://arxiv.org/abs/2503.11591v1)|**2025-03-14**|null|
+|**2025-03-14**|**Generalization performance of neural mapping schemes for the space-time interpolation of satellite-derived ocean colour datasets**|Thi Thuy Nga Nguyen et.al.|[2503.11588v1](http://arxiv.org/abs/2503.11588v1)|**2025-03-14**|null|
+|**2025-03-14**|**Image Reconstruction from an Elastically Distorted Scan**|Adrian Lopez et.al.|[2503.11584v1](http://arxiv.org/abs/2503.11584v1)|**2025-03-14**|null|
+|**2025-03-14**|**Nonlinear optical metasurfaces empowered by bound-states in the continuum**|Ji Tong Wang et.al.|[2503.11581v1](http://arxiv.org/abs/2503.11581v1)|**2025-03-14**|null|
+|**2025-03-14**|**Additive Manufacturing for Advanced Quantum Technologies**|F. Wang et.al.|[2503.11570v1](http://arxiv.org/abs/2503.11570v1)|**2025-03-14**|null|
+|**2025-03-14**|**Disentangled Object-Centric Image Representation for Robotic Manipulation**|David Emukpere et.al.|[2503.11565v1](http://arxiv.org/abs/2503.11565v1)|**2025-03-14**|null|
+|**2025-03-14**|**FLASHμ: Fast Localizing And Sizing of Holographic Microparticles**|Ayush Paliwal et.al.|[2503.11538v1](http://arxiv.org/abs/2503.11538v1)|**2025-03-14**|null|
+|**2025-03-14**|**Observation-only learning of neural mapping schemes for gappy satellite-derived ocean colour parameters**|Clément Dorffer et.al.|[2503.11532v1](http://arxiv.org/abs/2503.11532v1)|**2025-03-14**|null|
+|**2025-03-14**|**Data-Driven Construction of Age-Structured Contact Networks**|Luke Murray Kearney et.al.|[2503.11527v1](http://arxiv.org/abs/2503.11527v1)|**2025-03-14**|null|
+|**2025-03-14**|**Coronal bright point statistics II. Magnetic polarities and mini loops**|I. Kraus et.al.|[2503.11521v1](http://arxiv.org/abs/2503.11521v1)|**2025-03-14**|null|
+|**2025-03-14**|**Exploring Typographic Visual Prompts Injection Threats in Cross-Modality Generation Models**|Hao Cheng et.al.|[2503.11519v1](http://arxiv.org/abs/2503.11519v1)|**2025-03-14**|null|
+|**2025-03-14**|**Alzheimer's Disease Classification Using Retinal OCT: TransnetOCT and Swin Transformer Models**|Siva Manohar Reddy Kesu et.al.|[2503.11511v1](http://arxiv.org/abs/2503.11511v1)|**2025-03-14**|null|
+|**2025-03-14**|**TikZero: Zero-Shot Text-Guided Graphics Program Synthesis**|Jonas Belouadi et.al.|[2503.11509v1](http://arxiv.org/abs/2503.11509v1)|**2025-03-14**|null|
+|**2025-03-14**|**T2I-FineEval: Fine-Grained Compositional Metric for Text-to-Image Evaluation**|Seyed Mohammad Hadi Hosseini et.al.|[2503.11481v1](http://arxiv.org/abs/2503.11481v1)|**2025-03-14**|null|
+|**2025-03-14**|**Matching Lagrangian and Hamiltonian Simulations in (2+1)-dimensional U(1) Gauge Theory**|C. F. Groß et.al.|[2503.11480v1](http://arxiv.org/abs/2503.11480v1)|**2025-03-14**|null|
+|**2025-03-14**|**Remote Photoplethysmography in Real-World and Extreme Lighting Scenarios**|Hang Shao et.al.|[2503.11465v1](http://arxiv.org/abs/2503.11465v1)|**2025-03-14**|null|
+|**2025-03-14**|**Moving Plasma Structures and Possible Driving Mechanisms of Solar Microflares Observed with High-Resolution Coronal Imaging**|Qingmei Wang et.al.|[2503.11459v1](http://arxiv.org/abs/2503.11459v1)|**2025-03-14**|null|
+|**2025-03-14**|**COIN: Confidence Score-Guided Distillation for Annotation-Free Cell Segmentation**|Sanghyun Jo et.al.|[2503.11439v1](http://arxiv.org/abs/2503.11439v1)|**2025-03-14**|null|
+|**2025-03-14**|**AQUA-SLAM: Tightly-Coupled Underwater Acoustic-Visual-Inertial SLAM with Sensor Calibration**|Shida Xu et.al.|[2503.11420v1](http://arxiv.org/abs/2503.11420v1)|**2025-03-14**|null|
+|**2025-03-14**|**MTV-Inpaint: Multi-Task Long Video Inpainting**|Shiyuan Yang et.al.|[2503.11412v1](http://arxiv.org/abs/2503.11412v1)|**2025-03-14**|null|
+|**2025-03-14**|**A Neural Network Architecture Based on Attention Gate Mechanism for 3D Magnetotelluric Forward Modeling**|Xin Zhong et.al.|[2503.11408v1](http://arxiv.org/abs/2503.11408v1)|**2025-03-14**|null|
