@@ -811,6 +811,7 @@ Updated on 2025-03-17
 | 14 | Unknown | unsloth/gemma-3-12b-it-GGUFImage-Text-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/unsloth/gemma-3-12b-it-GGUF) |
 | 14 | Unknown | bartowski/google_gemma-3-27b-it-GGUFImage-Text-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/bartowski/google_gemma-3-27b-it-GGUF) |
 | 11 | Unknown | bartowski/google_gemma-3-12b-it-GGUFImage-Text-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/bartowski/google_gemma-3-12b-it-GGUF) |
+| 10 | Unknown | mlabonne/gemma-3-27b-it-abliteratedImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-abliterated) |
 
 ## Image-to-3D
 
@@ -1575,6 +1576,7 @@ Updated on 2025-03-17
 | 36 | 2 | Aratako/Japanese-Novel-Reward-sarashina2 | Updated7 days ago | [Link](https://huggingface.co/Aratako/Japanese-Novel-Reward-sarashina2.1-1b) |
 | 41 | 2 | TheBlueScrubs/ModernBERT-base-TBSText | Updatedabout 12 hours ago | [Link](https://huggingface.co/TheBlueScrubs/ModernBERT-base-TBS) |
 | 190 | 2 | yaxili96/FactCG-DeBERTa-v3-LargeText | Updated22 days ago | [Link](https://huggingface.co/yaxili96/FactCG-DeBERTa-v3-Large) |
+| 34.3k | 2 | Johnson8187/Chinese-Emotion-SmallText | UpdatedDec 18, 2024 | [Link](https://huggingface.co/Johnson8187/Chinese-Emotion-Small) |
 | 65.8k |  | tabularisai/multilingual-sentiment-analysisText | UpdatedJan 16 | [Link](https://huggingface.co/tabularisai/multilingual-sentiment-analysis) |
 | 1.54M |  | ProsusAI/finbertText | UpdatedMay 23, 2023 | [Link](https://huggingface.co/ProsusAI/finbert) |
 | 2.1M |  | cardiffnlp/twitter-roberta-base-sentiment-latestText | UpdatedMay 28, 2023 | [Link](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest) |
