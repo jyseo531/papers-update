@@ -15,9 +15,9 @@
 |**2025-03-11**|**PromptGAR: Flexible Promptive Group Activity Recognition**|Zhangyu Jin et.al.|[2503.08933v1](http://arxiv.org/abs/2503.08933v1)|**2025-03-11**|null|
 |**2025-03-11**|**Keypoint Semantic Integration for Improved Feature Matching in Outdoor Agricultural Environments**|Rajitha de Silva et.al.|[2503.08843v1](http://arxiv.org/abs/2503.08843v1)|**2025-03-11**|null|
 |**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673v1](http://arxiv.org/abs/2503.08673v1)|**2025-03-11**|null|
-|**2025-03-11**|**MEAT: Multiview Diffusion Model for Human Generation on Megapixels with Mesh Attention**|Yuhan Wang et.al.|[2503.08664v1](http://arxiv.org/abs/2503.08664v1)|**2025-03-11**|null|
+|**2025-03-11**|**MEAT: Multiview Diffusion Model for Human Generation on Megapixels with Mesh Attention**|Yuhan Wang et.al.|[2503.08664v1](http://arxiv.org/abs/2503.08664v1)|**2025-03-11**|[link](https://github.com/johannwyh/meat)|
 |**2025-03-11**|**SignRep: Enhancing Self-Supervised Sign Representations**|Ryan Wong et.al.|[2503.08529v1](http://arxiv.org/abs/2503.08529v1)|**2025-03-11**|null|
-|**2025-03-11**|**External Knowledge Injection for CLIP-Based Class-Incremental Learning**|Da-Wei Zhou et.al.|[2503.08510v1](http://arxiv.org/abs/2503.08510v1)|**2025-03-11**|[link](https://github.com/g-u-n/pycil)|
+|**2025-03-11**|**External Knowledge Injection for CLIP-Based Class-Incremental Learning**|Da-Wei Zhou et.al.|[2503.08510v1](http://arxiv.org/abs/2503.08510v1)|**2025-03-11**|[link](https://github.com/renaisscode/engine)|
 |**2025-03-11**|**High-throughput computation and machine learning modeling of magnetic moments and Mössbauer parameters for Fe-based intermetallics**|Bo Zhao et.al.|[2503.08249v2](http://arxiv.org/abs/2503.08249v2)|**2025-03-12**|null|
 |**2025-03-11**|**HOTFormerLoc: Hierarchical Octree Transformer for Versatile Lidar Place Recognition Across Ground and Aerial Views**|Ethan Griffiths et.al.|[2503.08140v1](http://arxiv.org/abs/2503.08140v1)|**2025-03-11**|null|
 |**2025-03-11**|**BUFFER-X: Towards Zero-Shot Point Cloud Registration in Diverse Scenes**|Minkyun Seo et.al.|[2503.07940v1](http://arxiv.org/abs/2503.07940v1)|**2025-03-11**|[link](https://github.com/mit-spark/buffer-x)|

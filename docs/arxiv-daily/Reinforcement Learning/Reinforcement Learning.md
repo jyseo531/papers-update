@@ -4,13 +4,13 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-13**|**HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model**|Jiaming Liu et.al.|[2503.10631v1](http://arxiv.org/abs/2503.10631v1)|**2025-03-13**|null|
 |**2025-03-13**|**NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models**|Mert Albaba et.al.|[2503.10626v1](http://arxiv.org/abs/2503.10626v1)|**2025-03-13**|null|
-|**2025-03-13**|**R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization**|Yi Yang et.al.|[2503.10615v1](http://arxiv.org/abs/2503.10615v1)|**2025-03-13**|null|
+|**2025-03-13**|**R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization**|Yi Yang et.al.|[2503.10615v1](http://arxiv.org/abs/2503.10615v1)|**2025-03-13**|[link](https://github.com/Fancy-MLLM/R1-onevision)|
 |**2025-03-13**|**The Lagrangian Method for Solving Constrained Markov Games**|Soham Das et.al.|[2503.10561v1](http://arxiv.org/abs/2503.10561v1)|**2025-03-13**|null|
 |**2025-03-13**|**Towards Safe Path Tracking Using the Simplex Architecture**|Georg Jäger et.al.|[2503.10559v1](http://arxiv.org/abs/2503.10559v1)|**2025-03-13**|null|
 |**2025-03-13**|**SySLLM: Generating Synthesized Policy Summaries for Reinforcement Learning Agents Using Large Language Models**|Sahar Admoni et.al.|[2503.10509v1](http://arxiv.org/abs/2503.10509v1)|**2025-03-13**|null|
 |**2025-03-13**|**Learning Robotic Policy with Imagined Transition: Mitigating the Trade-off between Robustness and Optimality**|Wei Xiao et.al.|[2503.10484v1](http://arxiv.org/abs/2503.10484v1)|**2025-03-13**|null|
 |**2025-03-13**|**SortingEnv: An Extendable RL-Environment for an Industrial Sorting Process**|Tom Maus et.al.|[2503.10466v1](http://arxiv.org/abs/2503.10466v1)|**2025-03-13**|null|
-|**2025-03-13**|**Light-R1: Curriculum SFT, DPO and RL for Long COT from Scratch and Beyond**|Liang Wen et.al.|[2503.10460v1](http://arxiv.org/abs/2503.10460v1)|**2025-03-13**|null|
+|**2025-03-13**|**Light-R1: Curriculum SFT, DPO and RL for Long COT from Scratch and Beyond**|Liang Wen et.al.|[2503.10460v1](http://arxiv.org/abs/2503.10460v1)|**2025-03-13**|[link](https://github.com/qihoo360/light-r1)|
 |**2025-03-13**|**Finetuning Generative Trajectory Model with Reinforcement Learning from Human Feedback**|Derun Li et.al.|[2503.10434v1](http://arxiv.org/abs/2503.10434v1)|**2025-03-13**|null|
 |**2025-03-13**|**Towards Constraint-Based Adaptive Hypergraph Learning for Solving Vehicle Routing: An End-to-End Solution**|Zhenwei Wang et.al.|[2503.10421v1](http://arxiv.org/abs/2503.10421v1)|**2025-03-13**|null|
 |**2025-03-13**|**A nonlinear real time capable motion cueing algorithm based on deep reinforcement learning**|Hendrik Scheidel et.al.|[2503.10419v1](http://arxiv.org/abs/2503.10419v1)|**2025-03-13**|null|
@@ -29,6 +29,6 @@
 |**2025-03-13**|**Representation-based Reward Modeling for Efficient Safety Alignment of Large Language Model**|Qiyuan Deng et.al.|[2503.10093v1](http://arxiv.org/abs/2503.10093v1)|**2025-03-13**|null|
 |**2025-03-13**|**Impact of buckypaper on the mechanical properties and failure modes of composites**|Kartik Tripathi et.al.|[2503.10073v1](http://arxiv.org/abs/2503.10073v1)|**2025-03-13**|null|
 |**2025-03-13**|**Enhancing Multi-Agent Systems via Reinforcement Learning with LLM-based Planner and Graph-based Policy**|Ziqi Jia et.al.|[2503.10049v1](http://arxiv.org/abs/2503.10049v1)|**2025-03-13**|null|
-|**2025-03-13**|**Model-Agnostic Knowledge Guided Correction for Improved Neural Surrogate Rollout**|Bharat Srikishan et.al.|[2503.10048v1](http://arxiv.org/abs/2503.10048v1)|**2025-03-13**|null|
+|**2025-03-13**|**Model-Agnostic Knowledge Guided Correction for Improved Neural Surrogate Rollout**|Bharat Srikishan et.al.|[2503.10048v2](http://arxiv.org/abs/2503.10048v2)|**2025-03-14**|[link](https://github.com/scailab/hyper)|
 |**2025-03-13**|**ES-Parkour: Advanced Robot Parkour with Bio-inspired Event Camera and Spiking Neural Network**|Qiang Zhang et.al.|[2503.09985v1](http://arxiv.org/abs/2503.09985v1)|**2025-03-13**|null|
 |**2025-03-13**|**Accuracy of Discretely Sampled Stochastic Policies in Continuous-time Reinforcement Learning**|Yanwei Jia et.al.|[2503.09981v1](http://arxiv.org/abs/2503.09981v1)|**2025-03-13**|null|
