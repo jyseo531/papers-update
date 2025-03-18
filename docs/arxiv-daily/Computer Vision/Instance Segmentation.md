@@ -4,12 +4,12 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-14**|**Supervised Distributed Computing**|John Augustine et.al.|[2503.11600v1](http://arxiv.org/abs/2503.11600v1)|**2025-03-14**|null|
 |**2025-03-14**|**Pathology Image Compression with Pre-trained Autoencoders**|Srikar Yellapragada et.al.|[2503.11591v1](http://arxiv.org/abs/2503.11591v1)|**2025-03-14**|null|
-|**2025-03-14**|**Bottom-up Iterative Anomalous Diffusion Detector (BI-ADD)**|Junwoo Park et.al.|[2503.11529v1](http://arxiv.org/abs/2503.11529v1)|**2025-03-14**|null|
+|**2025-03-14**|**Bottom-up Iterative Anomalous Diffusion Detector (BI-ADD)**|Junwoo Park et.al.|[2503.11529v1](http://arxiv.org/abs/2503.11529v1)|**2025-03-14**|[link](https://github.com/JunwooParkSaribu/BI_ADD)|
 |**2025-03-14**|**Alzheimer's Disease Classification Using Retinal OCT: TransnetOCT and Swin Transformer Models**|Siva Manohar Reddy Kesu et.al.|[2503.11511v1](http://arxiv.org/abs/2503.11511v1)|**2025-03-14**|null|
 |**2025-03-14**|**Cloud2BIM: An open-source automatic pipeline for efficient conversion of large-scale point clouds into IFC format**|Slávek Zbirovský et.al.|[2503.11498v1](http://arxiv.org/abs/2503.11498v1)|**2025-03-14**|null|
 |**2025-03-14**|**Bridging wire and gate cutting with ZX-calculus**|Marco Schumann et.al.|[2503.11494v1](http://arxiv.org/abs/2503.11494v1)|**2025-03-14**|null|
-|**2025-03-14**|**Scenario Reduction for Distributionally Robust Optimization**|Kevin-Martin Aigner et.al.|[2503.11484v1](http://arxiv.org/abs/2503.11484v1)|**2025-03-14**|null|
-|**2025-03-14**|**COIN: Confidence Score-Guided Distillation for Annotation-Free Cell Segmentation**|Sanghyun Jo et.al.|[2503.11439v1](http://arxiv.org/abs/2503.11439v1)|**2025-03-14**|null|
+|**2025-03-14**|**Scenario Reduction for Distributionally Robust Optimization**|Kevin-Martin Aigner et.al.|[2503.11484v2](http://arxiv.org/abs/2503.11484v2)|**2025-03-17**|null|
+|**2025-03-14**|**COIN: Confidence Score-Guided Distillation for Annotation-Free Cell Segmentation**|Sanghyun Jo et.al.|[2503.11439v2](http://arxiv.org/abs/2503.11439v2)|**2025-03-17**|null|
 |**2025-03-14**|**Preference Elicitation for Multi-objective Combinatorial Optimization with Active Learning and Maximum Likelihood Estimation**|Marianne Defresne et.al.|[2503.11435v1](http://arxiv.org/abs/2503.11435v1)|**2025-03-14**|null|
 |**2025-03-14**|**LuSeg: Efficient Negative and Positive Obstacles Segmentation via Contrast-Driven Multi-Modal Feature Fusion on the Lunar**|Shuaifeng Jiao et.al.|[2503.11409v1](http://arxiv.org/abs/2503.11409v1)|**2025-03-14**|null|
 |**2025-03-14**|**Cost-effectiveness of climate regulations depends on non-climate benefits**|Nick Loris et.al.|[2503.11406v1](http://arxiv.org/abs/2503.11406v1)|**2025-03-14**|null|

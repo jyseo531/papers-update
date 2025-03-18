@@ -31,4 +31,4 @@
 |**2025-03-14**|**On continuity of Chatterjee's rank correlation and related dependence measures**|Jonathan Ansari et.al.|[2503.11390v1](http://arxiv.org/abs/2503.11390v1)|**2025-03-14**|null|
 |**2025-03-14**|**Advancing the Database of Cross-Linguistic Colexifications with New Workflows and Data**|Annika Tjuka et.al.|[2503.11377v1](http://arxiv.org/abs/2503.11377v1)|**2025-03-14**|null|
 |**2025-03-14**|**Difference-in-Differences Meets Synthetic Control: Doubly Robust Identification and Estimation**|Yixiao Sun et.al.|[2503.11375v1](http://arxiv.org/abs/2503.11375v1)|**2025-03-14**|null|
-|**2025-03-14**|**EMoTive: Event-guided Trajectory Modeling for 3D Motion Estimation**|Zengyu Wan et.al.|[2503.11371v1](http://arxiv.org/abs/2503.11371v1)|**2025-03-14**|null|
+|**2025-03-14**|**EMoTive: Event-guided Trajectory Modeling for 3D Motion Estimation**|Zengyu Wan et.al.|[2503.11371v2](http://arxiv.org/abs/2503.11371v2)|**2025-03-17**|null|

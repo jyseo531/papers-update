@@ -24,7 +24,7 @@
 |**2025-03-14**|**T2I-FineEval: Fine-Grained Compositional Metric for Text-to-Image Evaluation**|Seyed Mohammad Hadi Hosseini et.al.|[2503.11481v1](http://arxiv.org/abs/2503.11481v1)|**2025-03-14**|null|
 |**2025-03-14**|**Remote Photoplethysmography in Real-World and Extreme Lighting Scenarios**|Hang Shao et.al.|[2503.11465v1](http://arxiv.org/abs/2503.11465v1)|**2025-03-14**|null|
 |**2025-03-14**|**Moving Plasma Structures and Possible Driving Mechanisms of Solar Microflares Observed with High-Resolution Coronal Imaging**|Qingmei Wang et.al.|[2503.11459v1](http://arxiv.org/abs/2503.11459v1)|**2025-03-14**|null|
-|**2025-03-14**|**COIN: Confidence Score-Guided Distillation for Annotation-Free Cell Segmentation**|Sanghyun Jo et.al.|[2503.11439v1](http://arxiv.org/abs/2503.11439v1)|**2025-03-14**|null|
+|**2025-03-14**|**COIN: Confidence Score-Guided Distillation for Annotation-Free Cell Segmentation**|Sanghyun Jo et.al.|[2503.11439v2](http://arxiv.org/abs/2503.11439v2)|**2025-03-17**|null|
 |**2025-03-14**|**AQUA-SLAM: Tightly-Coupled Underwater Acoustic-Visual-Inertial SLAM with Sensor Calibration**|Shida Xu et.al.|[2503.11420v1](http://arxiv.org/abs/2503.11420v1)|**2025-03-14**|null|
 |**2025-03-14**|**MTV-Inpaint: Multi-Task Long Video Inpainting**|Shiyuan Yang et.al.|[2503.11412v1](http://arxiv.org/abs/2503.11412v1)|**2025-03-14**|null|
 |**2025-03-14**|**A Neural Network Architecture Based on Attention Gate Mechanism for 3D Magnetotelluric Forward Modeling**|Xin Zhong et.al.|[2503.11408v1](http://arxiv.org/abs/2503.11408v1)|**2025-03-14**|null|

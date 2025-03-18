@@ -20,7 +20,7 @@
 |**2025-03-14**|**BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model**|Ziyue Wang et.al.|[2503.11372v1](http://arxiv.org/abs/2503.11372v1)|**2025-03-14**|null|
 |**2025-03-14**|**Enhancing Hand Palm Motion Gesture Recognition by Eliminating Reference Frame Bias via Frame-Invariant Similarity Measures**|Arno Verduyn et.al.|[2503.11352v1](http://arxiv.org/abs/2503.11352v1)|**2025-03-14**|null|
 |**2025-03-14**|**Six-DoF Stewart Platform Motion Simulator Control using Switchable Model Predictive Control**|Jiangwei Zhao et.al.|[2503.11300v1](http://arxiv.org/abs/2503.11300v1)|**2025-03-14**|null|
-|**2025-03-14**|**Prof. Robot: Differentiable Robot Rendering Without Static and Self-Collisions**|Quanyuan Ruan et.al.|[2503.11269v1](http://arxiv.org/abs/2503.11269v1)|**2025-03-14**|null|
+|**2025-03-14**|**Prof. Robot: Differentiable Robot Rendering Without Static and Self-Collisions**|Quanyuan Ruan et.al.|[2503.11269v2](http://arxiv.org/abs/2503.11269v2)|**2025-03-17**|null|
 |**2025-03-14**|**Ergodic exploration of dynamic distribution**|Luka Lanča et.al.|[2503.11235v1](http://arxiv.org/abs/2503.11235v1)|**2025-03-14**|null|
 |**2025-03-14**|**GAIPAT -Dataset on Human Gaze and Actions for Intent Prediction in Assembly Tasks**|Maxence Grand et.al.|[2503.11186v1](http://arxiv.org/abs/2503.11186v1)|**2025-03-14**|null|
 |**2025-03-14**|**Hand Over or Place On The Table? A Study On Robotic Object Delivery When The Recipient Is Occupied**|Thieu Long Phan et.al.|[2503.11177v1](http://arxiv.org/abs/2503.11177v1)|**2025-03-14**|null|

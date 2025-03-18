@@ -17,7 +17,7 @@
 |**2025-03-14**|**Breaking Shallow Limits: Task-Driven Pixel Fusion for Gap-free RGBT Tracking**|Andong Lu et.al.|[2503.11247v1](http://arxiv.org/abs/2503.11247v1)|**2025-03-14**|null|
 |**2025-03-14**|**L2RSI: Cross-view LiDAR-based Place Recognition for Large-scale Urban Scenes via Remote Sensing Imagery**|Ziwei Shi et.al.|[2503.11245v1](http://arxiv.org/abs/2503.11245v1)|**2025-03-14**|null|
 |**2025-03-14**|**Towards General Multimodal Visual Tracking**|Andong Lu et.al.|[2503.11218v1](http://arxiv.org/abs/2503.11218v1)|**2025-03-14**|null|
-|**2025-03-14**|**Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering**|Gang Li et.al.|[2503.11197v1](http://arxiv.org/abs/2503.11197v1)|**2025-03-14**|[link](https://huggingface.co/mispeech/r1-aqa)|
+|**2025-03-14**|**Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering**|Gang Li et.al.|[2503.11197v2](http://arxiv.org/abs/2503.11197v2)|**2025-03-17**|[link](https://huggingface.co/mispeech/r1-aqa)|
 |**2025-03-14**|**Cross-Modal Learning for Music-to-Music-Video Description Generation**|Zhuoyuan Mao et.al.|[2503.11190v1](http://arxiv.org/abs/2503.11190v1)|**2025-03-14**|null|
 |**2025-03-14**|**Multimodal-Aware Fusion Network for Referring Remote Sensing Image Segmentation**|Leideng Shi et.al.|[2503.11183v1](http://arxiv.org/abs/2503.11183v1)|**2025-03-14**|[link](https://github.com/Roaxy/MAFN)|
 |**2025-03-14**|**Aerial Vision-and-Language Navigation with Grid-based View Selection and Map Construction**|Ganlong Zhao et.al.|[2503.11091v1](http://arxiv.org/abs/2503.11091v1)|**2025-03-14**|null|

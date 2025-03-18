@@ -19,7 +19,7 @@
 |**2025-03-14**|**A Neural Network Architecture Based on Attention Gate Mechanism for 3D Magnetotelluric Forward Modeling**|Xin Zhong et.al.|[2503.11408v1](http://arxiv.org/abs/2503.11408v1)|**2025-03-14**|null|
 |**2025-03-14**|**Unfitted hybrid high-order methods stabilized by polynomial extension for elliptic interface problems**|Erik Burman et.al.|[2503.11397v1](http://arxiv.org/abs/2503.11397v1)|**2025-03-14**|null|
 |**2025-03-14**|**Data-constrained 3D MHD Simulation of a Spiral Jet Caused by an Unstable Flux Rope Embedded in Fan-spine Configuration**|Z. F. Li et.al.|[2503.11380v1](http://arxiv.org/abs/2503.11380v1)|**2025-03-14**|null|
-|**2025-03-14**|**EMoTive: Event-guided Trajectory Modeling for 3D Motion Estimation**|Zengyu Wan et.al.|[2503.11371v1](http://arxiv.org/abs/2503.11371v1)|**2025-03-14**|null|
+|**2025-03-14**|**EMoTive: Event-guided Trajectory Modeling for 3D Motion Estimation**|Zengyu Wan et.al.|[2503.11371v2](http://arxiv.org/abs/2503.11371v2)|**2025-03-17**|null|
 |**2025-03-14**|**PBR3DGen: A VLM-guided Mesh Generation with High-quality PBR Texture**|Xiaokang Wei et.al.|[2503.11368v1](http://arxiv.org/abs/2503.11368v1)|**2025-03-14**|null|
 |**2025-03-14**|**Confinement controls bacterial spreading at all scales**|Renaud Baillou et.al.|[2503.11364v1](http://arxiv.org/abs/2503.11364v1)|**2025-03-14**|null|
 |**2025-03-14**|**Predictive study of non-axisymmetric neutral beam ion loss on the upgraded KSTAR plasma-facing components**|Taeuk Moon et.al.|[2503.11353v1](http://arxiv.org/abs/2503.11353v1)|**2025-03-14**|null|

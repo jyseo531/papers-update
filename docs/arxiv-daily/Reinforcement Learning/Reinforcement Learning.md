@@ -14,7 +14,7 @@
 |**2025-03-14**|**Learning to reset in target search problems**|Gorka Muñoz-Gil et.al.|[2503.11330v1](http://arxiv.org/abs/2503.11330v1)|**2025-03-14**|null|
 |**2025-03-14**|**Exploring Competitive and Collusive Behaviors in Algorithmic Pricing with Deep Reinforcement Learning**|Shidi Deng et.al.|[2503.11270v1](http://arxiv.org/abs/2503.11270v1)|**2025-03-14**|null|
 |**2025-03-14**|**Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards**|Zijing Hu et.al.|[2503.11240v1](http://arxiv.org/abs/2503.11240v1)|**2025-03-14**|null|
-|**2025-03-14**|**Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering**|Gang Li et.al.|[2503.11197v1](http://arxiv.org/abs/2503.11197v1)|**2025-03-14**|[link](https://huggingface.co/mispeech/r1-aqa)|
+|**2025-03-14**|**Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering**|Gang Li et.al.|[2503.11197v2](http://arxiv.org/abs/2503.11197v2)|**2025-03-17**|[link](https://huggingface.co/mispeech/r1-aqa)|
 |**2025-03-14**|**Low-cost Real-world Implementation of the Swing-up Pendulum for Deep Reinforcement Learning Experiments**|Peter Böhm et.al.|[2503.11065v1](http://arxiv.org/abs/2503.11065v1)|**2025-03-14**|null|
 |**2025-03-14**|**Training Directional Locomotion for Quadrupedal Low-Cost Robotic Systems via Deep Reinforcement Learning**|Peter Böhm et.al.|[2503.11059v1](http://arxiv.org/abs/2503.11059v1)|**2025-03-14**|null|
 |**2025-03-14**|**Residual Policy Gradient: A Reward View of KL-regularized Objective**|Pengcheng Wang et.al.|[2503.11019v1](http://arxiv.org/abs/2503.11019v1)|**2025-03-14**|null|
@@ -26,7 +26,7 @@
 |**2025-03-13**|**H2-MARL: Multi-Agent Reinforcement Learning for Pareto Optimality in Hospital Capacity Strain and Human Mobility during Epidemic**|Xueting Luo et.al.|[2503.10907v1](http://arxiv.org/abs/2503.10907v1)|**2025-03-13**|null|
 |**2025-03-13**|**Rotated Bitboards in FUSc# and Reinforcement Learning in Computer Chess and Beyond**|Johannes Buchner et.al.|[2503.10822v1](http://arxiv.org/abs/2503.10822v1)|**2025-03-13**|null|
 |**2025-03-13**|**Data Caricatures: On the Representation of African American Language in Pretraining Corpora**|Nicholas Deas et.al.|[2503.10789v1](http://arxiv.org/abs/2503.10789v1)|**2025-03-13**|null|
-|**2025-03-13**|**HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model**|Jiaming Liu et.al.|[2503.10631v1](http://arxiv.org/abs/2503.10631v1)|**2025-03-13**|null|
+|**2025-03-13**|**HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model**|Jiaming Liu et.al.|[2503.10631v2](http://arxiv.org/abs/2503.10631v2)|**2025-03-17**|null|
 |**2025-03-13**|**NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models**|Mert Albaba et.al.|[2503.10626v1](http://arxiv.org/abs/2503.10626v1)|**2025-03-13**|null|
 |**2025-03-13**|**R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization**|Yi Yang et.al.|[2503.10615v1](http://arxiv.org/abs/2503.10615v1)|**2025-03-13**|[link](https://github.com/Fancy-MLLM/R1-onevision)|
 |**2025-03-13**|**The Lagrangian Method for Solving Constrained Markov Games**|Soham Das et.al.|[2503.10561v1](http://arxiv.org/abs/2503.10561v1)|**2025-03-13**|null|
