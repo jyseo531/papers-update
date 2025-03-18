@@ -642,6 +642,7 @@ Updated on 2025-03-18
 | 3 | Unknown | prithivMLmods/Bird-Species-Classifier-526Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/prithivMLmods/Bird-Species-Classifier-526) |
 | 60.8k |  | LukeJacob2023/nsfw-image-detectorImage | UpdatedDec 28, 2024 | [Link](https://huggingface.co/LukeJacob2023/nsfw-image-detector) |
 | 729k |  | apple/mobilevit-smallImage | Updated21 days ago | [Link](https://huggingface.co/apple/mobilevit-small) |
+| 268k |  | Marqo/nsfw-image-detection-384Image | UpdatedNov 27, 2024 | [Link](https://huggingface.co/Marqo/nsfw-image-detection-384) |
 
 ## Image Feature Extraction
 
