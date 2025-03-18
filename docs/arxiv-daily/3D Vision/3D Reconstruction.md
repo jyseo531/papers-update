@@ -2,33 +2,33 @@
 ### 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-14**|**Bring Your Rear Cameras for Egocentric 3D Human Pose Estimation**|Hiroyasu Akada et.al.|[2503.11652v1](http://arxiv.org/abs/2503.11652v1)|**2025-03-14**|null|
-|**2025-03-14**|**VGGT: Visual Geometry Grounded Transformer**|Jianyuan Wang et.al.|[2503.11651v1](http://arxiv.org/abs/2503.11651v1)|**2025-03-14**|null|
-|**2025-03-14**|**The waves-in-space Purcell effect for superconducting qubits**|Param Patel et.al.|[2503.11644v1](http://arxiv.org/abs/2503.11644v1)|**2025-03-14**|null|
-|**2025-03-14**|**Enhancing Deep Learning Based Structured Illumination Microscopy Reconstruction with Light Field Awareness**|Long-Kun Shan et.al.|[2503.11640v1](http://arxiv.org/abs/2503.11640v1)|**2025-03-14**|null|
-|**2025-03-14**|**Advancing 3D Gaussian Splatting Editing with Complementary and Consensus Information**|Xuanqi Zhang et.al.|[2503.11601v1](http://arxiv.org/abs/2503.11601v1)|**2025-03-14**|null|
-|**2025-03-14**|**Pathology Image Compression with Pre-trained Autoencoders**|Srikar Yellapragada et.al.|[2503.11591v1](http://arxiv.org/abs/2503.11591v1)|**2025-03-14**|null|
-|**2025-03-14**|**Image Reconstruction from an Elastically Distorted Scan**|Adrian Lopez et.al.|[2503.11584v1](http://arxiv.org/abs/2503.11584v1)|**2025-03-14**|null|
-|**2025-03-14**|**FLASHμ: Fast Localizing And Sizing of Holographic Microparticles**|Ayush Paliwal et.al.|[2503.11538v1](http://arxiv.org/abs/2503.11538v1)|**2025-03-14**|null|
-|**2025-03-14**|**Observation-only learning of neural mapping schemes for gappy satellite-derived ocean colour parameters**|Clément Dorffer et.al.|[2503.11532v1](http://arxiv.org/abs/2503.11532v1)|**2025-03-14**|null|
-|**2025-03-14**|**HiTVideo: Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models**|Ziqin Zhou et.al.|[2503.11513v1](http://arxiv.org/abs/2503.11513v1)|**2025-03-14**|null|
-|**2025-03-14**|**Cloud2BIM: An open-source automatic pipeline for efficient conversion of large-scale point clouds into IFC format**|Slávek Zbirovský et.al.|[2503.11498v1](http://arxiv.org/abs/2503.11498v1)|**2025-03-14**|null|
-|**2025-03-14**|**Holographic Description of Bulk Wave Packets in AdS$_4$/CFT$_3$**|Norihiro Tanahashi et.al.|[2503.11485v1](http://arxiv.org/abs/2503.11485v1)|**2025-03-14**|null|
-|**2025-03-14**|**Remote Photoplethysmography in Real-World and Extreme Lighting Scenarios**|Hang Shao et.al.|[2503.11465v1](http://arxiv.org/abs/2503.11465v1)|**2025-03-14**|null|
-|**2025-03-14**|**MRS-CWC: A Weakly Constrained Multi-Robot System with Controllable Constraint Stiffness for Mobility and Navigation in Unknown 3D Rough Environments**|Runze Xiao et.al.|[2503.11461v1](http://arxiv.org/abs/2503.11461v1)|**2025-03-14**|null|
-|**2025-03-14**|**A Neural Network Architecture Based on Attention Gate Mechanism for 3D Magnetotelluric Forward Modeling**|Xin Zhong et.al.|[2503.11408v1](http://arxiv.org/abs/2503.11408v1)|**2025-03-14**|null|
-|**2025-03-14**|**Unfitted hybrid high-order methods stabilized by polynomial extension for elliptic interface problems**|Erik Burman et.al.|[2503.11397v1](http://arxiv.org/abs/2503.11397v1)|**2025-03-14**|null|
-|**2025-03-14**|**Data-constrained 3D MHD Simulation of a Spiral Jet Caused by an Unstable Flux Rope Embedded in Fan-spine Configuration**|Z. F. Li et.al.|[2503.11380v1](http://arxiv.org/abs/2503.11380v1)|**2025-03-14**|null|
-|**2025-03-14**|**EMoTive: Event-guided Trajectory Modeling for 3D Motion Estimation**|Zengyu Wan et.al.|[2503.11371v2](http://arxiv.org/abs/2503.11371v2)|**2025-03-17**|null|
-|**2025-03-14**|**PBR3DGen: A VLM-guided Mesh Generation with High-quality PBR Texture**|Xiaokang Wei et.al.|[2503.11368v1](http://arxiv.org/abs/2503.11368v1)|**2025-03-14**|null|
-|**2025-03-14**|**Confinement controls bacterial spreading at all scales**|Renaud Baillou et.al.|[2503.11364v1](http://arxiv.org/abs/2503.11364v1)|**2025-03-14**|null|
-|**2025-03-14**|**Predictive study of non-axisymmetric neutral beam ion loss on the upgraded KSTAR plasma-facing components**|Taeuk Moon et.al.|[2503.11353v1](http://arxiv.org/abs/2503.11353v1)|**2025-03-14**|null|
-|**2025-03-14**|**Integrating Dynamical Systems Modeling with Spatiotemporal scRNA-seq Data Analysis**|Zhenyi Zhang et.al.|[2503.11347v1](http://arxiv.org/abs/2503.11347v1)|**2025-03-14**|null|
-|**2025-03-14**|**EgoSplat: Open-Vocabulary Egocentric Scene Understanding with Language Embedded 3D Gaussian Splatting**|Di Li et.al.|[2503.11345v1](http://arxiv.org/abs/2503.11345v1)|**2025-03-14**|null|
-|**2025-03-14**|**TransiT: Transient Transformer for Non-line-of-sight Videography**|Ruiqian Li et.al.|[2503.11328v1](http://arxiv.org/abs/2503.11328v1)|**2025-03-14**|null|
-|**2025-03-14**|**Leveraging Diffusion Knowledge for Generative Image Compression with Fractal Frequency-Aware Band Learning**|Lingyu Zhu et.al.|[2503.11321v1](http://arxiv.org/abs/2503.11321v1)|**2025-03-14**|null|
-|**2025-03-14**|**Realization of a Pre-Sample Photonic-based Free-Electron Modulator in Ultrafast Transmission Electron Microscopes**|Beatrice Matilde Ferrari et.al.|[2503.11313v1](http://arxiv.org/abs/2503.11313v1)|**2025-03-14**|null|
-|**2025-03-14**|**1D fluids with repulsive nearest-neighbour interactions: Low-temperature anomalies**|Igor Travěnec et.al.|[2503.11310v1](http://arxiv.org/abs/2503.11310v1)|**2025-03-14**|null|
-|**2025-03-14**|**AI-Assisted Object Condensation Clustering for Calorimeter Shower Reconstruction at CLAS12**|Gregory Matousek et.al.|[2503.11277v1](http://arxiv.org/abs/2503.11277v1)|**2025-03-14**|null|
-|**2025-03-14**|**On the origin of bulk-related anisotropies in surface optical spectra**|Max Großmann et.al.|[2503.11253v1](http://arxiv.org/abs/2503.11253v1)|**2025-03-14**|null|
-|**2025-03-14**|**L2RSI: Cross-view LiDAR-based Place Recognition for Large-scale Urban Scenes via Remote Sensing Imagery**|Ziwei Shi et.al.|[2503.11245v1](http://arxiv.org/abs/2503.11245v1)|**2025-03-14**|null|
+|**2025-03-17**|**Measuring and unbiasing the BAO shift in the Lyman-Alpha forest with AbacusSummit**|Boryana Hadzhiyska et.al.|[2503.13442v1](http://arxiv.org/abs/2503.13442v1)|**2025-03-17**|null|
+|**2025-03-17**|**Amodal3R: Amodal 3D Reconstruction from Occluded 2D Images**|Tianhao Wu et.al.|[2503.13439v1](http://arxiv.org/abs/2503.13439v1)|**2025-03-17**|null|
+|**2025-03-17**|**WideRange4D: Enabling High-Quality 4D Reconstruction with Wide-Range Movements and Scenes**|Ling Yang et.al.|[2503.13435v1](http://arxiv.org/abs/2503.13435v1)|**2025-03-17**|null|
+|**2025-03-17**|**Escaping Plato's Cave: Robust Conceptual Reasoning through Interpretable 3D Neural Object Volumes**|Nhi Pham et.al.|[2503.13429v1](http://arxiv.org/abs/2503.13429v1)|**2025-03-17**|null|
+|**2025-03-17**|**Spacetime Structure of Regular Accelerating Black Hole Pair in General Relativity**|M. M. Akbar et.al.|[2503.13420v1](http://arxiv.org/abs/2503.13420v1)|**2025-03-17**|null|
+|**2025-03-17**|**U2AD: Uncertainty-based Unsupervised Anomaly Detection Framework for Detecting T2 Hyperintensity in MRI Spinal Cord**|Qi Zhang et.al.|[2503.13400v1](http://arxiv.org/abs/2503.13400v1)|**2025-03-17**|null|
+|**2025-03-17**|**SyncDiff: Diffusion-based Talking Head Synthesis with Bottlenecked Temporal Visual Prior for Improved Synchronization**|Xulin Fan et.al.|[2503.13371v1](http://arxiv.org/abs/2503.13371v1)|**2025-03-17**|null|
+|**2025-03-17**|**Agents Play Thousands of 3D Video Games**|Zhongwen Xu et.al.|[2503.13356v1](http://arxiv.org/abs/2503.13356v1)|**2025-03-17**|null|
+|**2025-03-17**|**On matching galaxy number densities to reconstruct galaxy evolutionary tracks**|Aldo Rodriguez-Puebla et.al.|[2503.13348v1](http://arxiv.org/abs/2503.13348v1)|**2025-03-17**|null|
+|**2025-03-17**|**TriDF: Triplane-Accelerated Density Fields for Few-Shot Remote Sensing Novel View Synthesis**|Jiaming Kang et.al.|[2503.13347v1](http://arxiv.org/abs/2503.13347v1)|**2025-03-17**|null|
+|**2025-03-17**|**3D morphology formation in a mixture of three differently averse components**|Emilio N. M. Cirillo et.al.|[2503.13338v1](http://arxiv.org/abs/2503.13338v1)|**2025-03-17**|null|
+|**2025-03-17**|**PERC: a suite of software tools for the curation of cryoEM data with application to simulation, modelling and machine learning**|Beatriz Costa-Gomes et.al.|[2503.13329v1](http://arxiv.org/abs/2503.13329v1)|**2025-03-17**|null|
+|**2025-03-17**|**Generative AI for Software Architecture. Applications, Trends, Challenges, and Future Directions**|Matteo Esposito et.al.|[2503.13310v1](http://arxiv.org/abs/2503.13310v1)|**2025-03-17**|null|
+|**2025-03-17**|**UniHOPE: A Unified Approach for Hand-Only and Hand-Object Pose Estimation**|Yinqiao Wang et.al.|[2503.13303v1](http://arxiv.org/abs/2503.13303v1)|**2025-03-17**|null|
+|**2025-03-17**|**Bayesian identification of material parameters in viscoelastic structures as an inverse problem in a semigroup setting**|Rebecca Rothermel et.al.|[2503.13284v1](http://arxiv.org/abs/2503.13284v1)|**2025-03-17**|null|
+|**2025-03-17**|**Detection of RS Oph with LST-1 and modelling of its HE/VHE gamma-ray emission**|CTA-LST Project et.al.|[2503.13283v1](http://arxiv.org/abs/2503.13283v1)|**2025-03-17**|null|
+|**2025-03-17**|**Generative Gaussian Splatting: Generating 3D Scenes with Video Diffusion Priors**|Katja Schwarz et.al.|[2503.13272v1](http://arxiv.org/abs/2503.13272v1)|**2025-03-17**|null|
+|**2025-03-17**|**FlexWorld: Progressively Expanding 3D Scenes for Flexiable-View Synthesis**|Luxi Chen et.al.|[2503.13265v1](http://arxiv.org/abs/2503.13265v1)|**2025-03-17**|null|
+|**2025-03-17**|**Digital Beamforming Enhanced Radar Odometry**|Jingqi Jiang et.al.|[2503.13252v1](http://arxiv.org/abs/2503.13252v1)|**2025-03-17**|null|
+|**2025-03-17**|**UV$_6$Sn$_6$: a new kagome material with unusual $5f$ magnetism**|S. M. Thomas et.al.|[2503.13245v1](http://arxiv.org/abs/2503.13245v1)|**2025-03-17**|null|
+|**2025-03-17**|**Sampling Innovation-Based Adaptive Compressive Sensing**|Zhifu Tian et.al.|[2503.13241v1](http://arxiv.org/abs/2503.13241v1)|**2025-03-17**|null|
+|**2025-03-17**|**MedLoRD: A Medical Low-Resource Diffusion Model for High-Resolution 3D CT Image Synthesis**|Marvin Seyfarth et.al.|[2503.13211v1](http://arxiv.org/abs/2503.13211v1)|**2025-03-17**|null|
+|**2025-03-17**|**High-resolution computed tomography of two-dimensional beam profile using dual-axis rotating wire**|Rin Ota et.al.|[2503.13209v1](http://arxiv.org/abs/2503.13209v1)|**2025-03-17**|null|
+|**2025-03-17**|**New Liouville type theorems for 3D steady incompressible MHD equations and Hall-MHD equations**|Zhibing Zhang et.al.|[2503.13202v1](http://arxiv.org/abs/2503.13202v1)|**2025-03-17**|null|
+|**2025-03-17**|**Reconstructing the dark energy density in light of DESI BAO observations**|Maria Berti et.al.|[2503.13198v1](http://arxiv.org/abs/2503.13198v1)|**2025-03-17**|null|
+|**2025-03-17**|**Deep Learning Advancements in Anomaly Detection: A Comprehensive Survey**|Haoqi Huang et.al.|[2503.13195v1](http://arxiv.org/abs/2503.13195v1)|**2025-03-17**|null|
+|**2025-03-17**|**3D Hierarchical Panoptic Segmentation in Real Orchard Environments Across Different Sensors**|Matteo Sodano et.al.|[2503.13188v1](http://arxiv.org/abs/2503.13188v1)|**2025-03-17**|null|
+|**2025-03-17**|**3DAxisPrompt: Promoting the 3D Grounding and Reasoning in GPT-4o**|Dingning Liu et.al.|[2503.13185v1](http://arxiv.org/abs/2503.13185v1)|**2025-03-17**|null|
+|**2025-03-17**|**A super-resolution reconstruction method for lightweight building images based on an expanding feature modulation network**|Yi Zhang et.al.|[2503.13179v1](http://arxiv.org/abs/2503.13179v1)|**2025-03-17**|null|
+|**2025-03-17**|**DeGauss: Dynamic-Static Decomposition with Gaussian Splatting for Distractor-free 3D Reconstruction**|Rui Wang et.al.|[2503.13176v1](http://arxiv.org/abs/2503.13176v1)|**2025-03-17**|null|

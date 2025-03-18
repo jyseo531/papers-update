@@ -2,6 +2,17 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-17**|**STEP: Simultaneous Tracking and Estimation of Pose for Animals and Humans**|Shashikant Verma et.al.|[2503.13344v1](http://arxiv.org/abs/2503.13344v1)|**2025-03-17**|null|
+|**2025-03-17**|**Free-form language-based robotic reasoning and grasping**|Runyu Jiao et.al.|[2503.13082v1](http://arxiv.org/abs/2503.13082v1)|**2025-03-17**|null|
+|**2025-03-17**|**Deep Neural Network-Based Voltage Prediction for Alkali-Metal-Ion Battery Materials**|Sk Mujaffar Hossain et.al.|[2503.13067v1](http://arxiv.org/abs/2503.13067v1)|**2025-03-17**|null|
+|**2025-03-17**|**Uncertainty-Aware Knowledge Distillation for Compact and Efficient 6DoF Pose Estimation**|Nassim Ali Ousalah et.al.|[2503.13053v1](http://arxiv.org/abs/2503.13053v1)|**2025-03-17**|null|
+|**2025-03-17**|**Unlock Pose Diversity: Accurate and Efficient Implicit Keypoint-based Spatiotemporal Diffusion for Audio-driven Talking Portrait**|Chaolong Yang et.al.|[2503.12963v1](http://arxiv.org/abs/2503.12963v1)|**2025-03-17**|null|
+|**2025-03-17**|**MT-PCR: Leveraging Modality Transformation for Large-Scale Point Cloud Registration with Limited Overlap**|Yilong Wu et.al.|[2503.12833v1](http://arxiv.org/abs/2503.12833v1)|**2025-03-17**|null|
+|**2025-03-17**|**ProtoDepth: Unsupervised Continual Depth Completion with Prototypes**|Patrick Rim et.al.|[2503.12745v1](http://arxiv.org/abs/2503.12745v1)|**2025-03-17**|null|
+|**2025-03-16**|**TBHubbard: tight-binding and extended Hubbard model database for metal-organic frameworks**|Pamela C. Carvalho et.al.|[2503.12554v1](http://arxiv.org/abs/2503.12554v1)|**2025-03-16**|null|
+|**2025-03-16**|**Histogram Transporter: Learning Rotation-Equivariant Orientation Histograms for High-Precision Robotic Kitting**|Jiadong Zhou et.al.|[2503.12541v1](http://arxiv.org/abs/2503.12541v1)|**2025-03-16**|null|
+|**2025-03-16**|**Deepfake Detection with Optimized Hybrid Model: EAR Biometric Descriptor via Improved RCNN**|Ruchika Sharma et.al.|[2503.12381v1](http://arxiv.org/abs/2503.12381v1)|**2025-03-16**|null|
+|**2025-03-15**|**Leveraging Motion Information for Better Self-Supervised Video Correspondence Learning**|Zihan Zhoua et.al.|[2503.12026v1](http://arxiv.org/abs/2503.12026v1)|**2025-03-15**|null|
 |**2025-03-14**|**RASA: Replace Anyone, Say Anything -- A Training-Free Framework for Audio-Driven and Universal Portrait Video Editing**|Tianrui Pan et.al.|[2503.11571v1](http://arxiv.org/abs/2503.11571v1)|**2025-03-14**|null|
 |**2025-03-14**|**Enhancing Hand Palm Motion Gesture Recognition by Eliminating Reference Frame Bias via Frame-Invariant Similarity Measures**|Arno Verduyn et.al.|[2503.11352v1](http://arxiv.org/abs/2503.11352v1)|**2025-03-14**|null|
 |**2025-03-14**|**Solubility and dissociation of ionic liquids in epoxides and cyclic carbonate by molecular dynamics simulation**|Sergio Dorado-Alfaro et.al.|[2503.11257v1](http://arxiv.org/abs/2503.11257v1)|**2025-03-14**|null|
@@ -21,14 +32,3 @@
 |**2025-03-11**|**Keypoint Semantic Integration for Improved Feature Matching in Outdoor Agricultural Environments**|Rajitha de Silva et.al.|[2503.08843v1](http://arxiv.org/abs/2503.08843v1)|**2025-03-11**|null|
 |**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673v1](http://arxiv.org/abs/2503.08673v1)|**2025-03-11**|null|
 |**2025-03-11**|**MEAT: Multiview Diffusion Model for Human Generation on Megapixels with Mesh Attention**|Yuhan Wang et.al.|[2503.08664v1](http://arxiv.org/abs/2503.08664v1)|**2025-03-11**|[link](https://github.com/johannwyh/meat)|
-|**2025-03-11**|**SignRep: Enhancing Self-Supervised Sign Representations**|Ryan Wong et.al.|[2503.08529v1](http://arxiv.org/abs/2503.08529v1)|**2025-03-11**|null|
-|**2025-03-11**|**External Knowledge Injection for CLIP-Based Class-Incremental Learning**|Da-Wei Zhou et.al.|[2503.08510v1](http://arxiv.org/abs/2503.08510v1)|**2025-03-11**|[link](https://github.com/renaisscode/engine)|
-|**2025-03-11**|**High-throughput computation and machine learning modeling of magnetic moments and Mössbauer parameters for Fe-based intermetallics**|Bo Zhao et.al.|[2503.08249v2](http://arxiv.org/abs/2503.08249v2)|**2025-03-12**|null|
-|**2025-03-11**|**HOTFormerLoc: Hierarchical Octree Transformer for Versatile Lidar Place Recognition Across Ground and Aerial Views**|Ethan Griffiths et.al.|[2503.08140v1](http://arxiv.org/abs/2503.08140v1)|**2025-03-11**|null|
-|**2025-03-11**|**BUFFER-X: Towards Zero-Shot Point Cloud Registration in Diverse Scenes**|Minkyun Seo et.al.|[2503.07940v1](http://arxiv.org/abs/2503.07940v1)|**2025-03-11**|[link](https://github.com/mit-spark/buffer-x)|
-|**2025-03-10**|**Thermodynamics-Inspired High-Entropy Oxide Synthesis**|Saeed S. I. Almishal et.al.|[2503.07865v2](http://arxiv.org/abs/2503.07865v2)|**2025-03-12**|null|
-|**2025-03-10**|**Geometric Retargeting: A Principled, Ultrafast Neural Hand Retargeting Algorithm**|Zhao-Heng Yin et.al.|[2503.07541v1](http://arxiv.org/abs/2503.07541v1)|**2025-03-10**|null|
-|**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413v1](http://arxiv.org/abs/2503.07413v1)|**2025-03-10**|[link](https://github.com/MacavityT/REF-VLM)|
-|**2025-03-10**|**Fully Unsupervised Annotation of C. Elegans**|Christoph Karg et.al.|[2503.07348v1](http://arxiv.org/abs/2503.07348v1)|**2025-03-10**|null|
-|**2025-03-10**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347v2](http://arxiv.org/abs/2503.07347v2)|**2025-03-11**|[link](https://github.com/parskatt/dad)|
-|**2025-03-10**|**Find your Needle: Small Object Image Retrieval via Multi-Object Attention Optimization**|Michael Green et.al.|[2503.07038v1](http://arxiv.org/abs/2503.07038v1)|**2025-03-10**|null|

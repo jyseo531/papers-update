@@ -2,33 +2,33 @@
 ### Robotics
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-14**|**Centaur: Robust End-to-End Autonomous Driving with Test-Time Training**|Chonghao Sima et.al.|[2503.11650v1](http://arxiv.org/abs/2503.11650v1)|**2025-03-14**|null|
-|**2025-03-14**|**Adversarial Data Collection: Human-Collaborative Perturbations for Efficient and Robust Robotic Imitation Learning**|Siyuan Huang et.al.|[2503.11646v1](http://arxiv.org/abs/2503.11646v1)|**2025-03-14**|null|
-|**2025-03-14**|**Disentangled Object-Centric Image Representation for Robotic Manipulation**|David Emukpere et.al.|[2503.11565v1](http://arxiv.org/abs/2503.11565v1)|**2025-03-14**|null|
-|**2025-03-14**|**Vectorable Thrust Control for Multimodal Locomotion of Quadruped Robot SPIDAR**|Moju Zhao et.al.|[2503.11551v1](http://arxiv.org/abs/2503.11551v1)|**2025-03-14**|null|
-|**2025-03-14**|**Multi-robot coordination for connectivity recovery after unpredictable environment changes**|Yaroslav Marchukov et.al.|[2503.11520v1](http://arxiv.org/abs/2503.11520v1)|**2025-03-14**|null|
-|**2025-03-14**|**Multi-agent coordination for on-demand data gathering with periodic information upload**|Yaroslav Marchukov et.al.|[2503.11504v1](http://arxiv.org/abs/2503.11504v1)|**2025-03-14**|null|
-|**2025-03-14**|**Unicorn: A Universal and Collaborative Reinforcement Learning Approach Towards Generalizable Network-Wide Traffic Signal Control**|Yifeng Zhang et.al.|[2503.11488v1](http://arxiv.org/abs/2503.11488v1)|**2025-03-14**|null|
-|**2025-03-14**|**Exo-muscle: A semi-rigid assistive device for the knee**|Yifang Zhang et.al.|[2503.11474v1](http://arxiv.org/abs/2503.11474v1)|**2025-03-14**|null|
-|**2025-03-14**|**Dynamic Obstacle Avoidance with Bounded Rationality Adversarial Reinforcement Learning**|Jose-Luis Holgado-Alvarez et.al.|[2503.11467v1](http://arxiv.org/abs/2503.11467v1)|**2025-03-14**|null|
-|**2025-03-14**|**MRS-CWC: A Weakly Constrained Multi-Robot System with Controllable Constraint Stiffness for Mobility and Navigation in Unknown 3D Rough Environments**|Runze Xiao et.al.|[2503.11461v1](http://arxiv.org/abs/2503.11461v1)|**2025-03-14**|null|
-|**2025-03-14**|**Adaptive Torque Control of Exoskeletons under Spasticity Conditions via Reinforcement Learning**|Andrés Chavarrías et.al.|[2503.11433v1](http://arxiv.org/abs/2503.11433v1)|**2025-03-14**|null|
-|**2025-03-14**|**TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation**|Hongxiang Zhao et.al.|[2503.11423v1](http://arxiv.org/abs/2503.11423v1)|**2025-03-14**|null|
-|**2025-03-14**|**AQUA-SLAM: Tightly-Coupled Underwater Acoustic-Visual-Inertial SLAM with Sensor Calibration**|Shida Xu et.al.|[2503.11420v1](http://arxiv.org/abs/2503.11420v1)|**2025-03-14**|null|
-|**2025-03-14**|**LuSeg: Efficient Negative and Positive Obstacles Segmentation via Contrast-Driven Multi-Modal Feature Fusion on the Lunar**|Shuaifeng Jiao et.al.|[2503.11409v1](http://arxiv.org/abs/2503.11409v1)|**2025-03-14**|null|
-|**2025-03-14**|**A Framework for a Capability-driven Evaluation of Scenario Understanding for Multimodal Large Language Models in Autonomous Driving**|Tin Stribor Sohn et.al.|[2503.11400v1](http://arxiv.org/abs/2503.11400v1)|**2025-03-14**|null|
-|**2025-03-14**|**BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model**|Ziyue Wang et.al.|[2503.11372v1](http://arxiv.org/abs/2503.11372v1)|**2025-03-14**|null|
-|**2025-03-14**|**Enhancing Hand Palm Motion Gesture Recognition by Eliminating Reference Frame Bias via Frame-Invariant Similarity Measures**|Arno Verduyn et.al.|[2503.11352v1](http://arxiv.org/abs/2503.11352v1)|**2025-03-14**|null|
-|**2025-03-14**|**Six-DoF Stewart Platform Motion Simulator Control using Switchable Model Predictive Control**|Jiangwei Zhao et.al.|[2503.11300v1](http://arxiv.org/abs/2503.11300v1)|**2025-03-14**|null|
-|**2025-03-14**|**Prof. Robot: Differentiable Robot Rendering Without Static and Self-Collisions**|Quanyuan Ruan et.al.|[2503.11269v2](http://arxiv.org/abs/2503.11269v2)|**2025-03-17**|null|
-|**2025-03-14**|**Ergodic exploration of dynamic distribution**|Luka Lanča et.al.|[2503.11235v1](http://arxiv.org/abs/2503.11235v1)|**2025-03-14**|null|
-|**2025-03-14**|**GAIPAT -Dataset on Human Gaze and Actions for Intent Prediction in Assembly Tasks**|Maxence Grand et.al.|[2503.11186v1](http://arxiv.org/abs/2503.11186v1)|**2025-03-14**|null|
-|**2025-03-14**|**Hand Over or Place On The Table? A Study On Robotic Object Delivery When The Recipient Is Occupied**|Thieu Long Phan et.al.|[2503.11177v1](http://arxiv.org/abs/2503.11177v1)|**2025-03-14**|null|
-|**2025-03-14**|**A Benchmarking Study of Vision-based Robotic Grasping Algorithms**|Bharath K Rameshbabu et.al.|[2503.11163v1](http://arxiv.org/abs/2503.11163v1)|**2025-03-14**|null|
-|**2025-03-14**|**Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM**|Neng Wang et.al.|[2503.11145v1](http://arxiv.org/abs/2503.11145v1)|**2025-03-14**|null|
-|**2025-03-14**|**Flow-Aware Navigation of Magnetic Micro-Robots in Complex Fluids via PINN-Based Prediction**|Yongyi Jia et.al.|[2503.11124v1](http://arxiv.org/abs/2503.11124v1)|**2025-03-14**|null|
-|**2025-03-14**|**A Novel Decomposed Feature-Oriented Framework for Open-Set Semantic Segmentation on LiDAR Data**|Wenbang Deng et.al.|[2503.11097v1](http://arxiv.org/abs/2503.11097v1)|**2025-03-14**|null|
-|**2025-03-14**|**EmbodiedVSR: Dynamic Scene Graph-Guided Chain-of-Thought Reasoning for Visual Spatial Tasks**|Yi Zhang et.al.|[2503.11089v1](http://arxiv.org/abs/2503.11089v1)|**2025-03-14**|null|
-|**2025-03-14**|**GP-enhanced Autonomous Drifting Framework using ADMM-based iLQR**|Yangyang Xie et.al.|[2503.11083v1](http://arxiv.org/abs/2503.11083v1)|**2025-03-14**|null|
-|**2025-03-14**|**MoMa-Kitchen: A 100K+ Benchmark for Affordance-Grounded Last-Mile Navigation in Mobile Manipulation**|Pingrui Zhang et.al.|[2503.11081v1](http://arxiv.org/abs/2503.11081v1)|**2025-03-14**|null|
-|**2025-03-14**|**A High-Speed Time-Optimal Trajectory Generation Strategy via a Two-layer Planning Model**|Haotian Tan et.al.|[2503.11072v1](http://arxiv.org/abs/2503.11072v1)|**2025-03-14**|null|
+|**2025-03-17**|**MoManipVLA: Transferring Vision-language-action Models for General Mobile Manipulation**|Zhenyu Wu et.al.|[2503.13446v1](http://arxiv.org/abs/2503.13446v1)|**2025-03-17**|null|
+|**2025-03-17**|**Humanoid Policy ~ Human Policy**|Ri-Zhao Qiu et.al.|[2503.13441v1](http://arxiv.org/abs/2503.13441v1)|**2025-03-17**|null|
+|**2025-03-17**|**AugMapNet: Improving Spatial Latent Structure via BEV Grid Augmentation for Enhanced Vectorized Online HD Map Construction**|Thomas Monninger et.al.|[2503.13430v1](http://arxiv.org/abs/2503.13430v1)|**2025-03-17**|null|
+|**2025-03-17**|**FLEX: A Framework for Learning Robot-Agnostic Force-based Skills Involving Sustained Contact Object Manipulation**|Shijie Fang et.al.|[2503.13418v1](http://arxiv.org/abs/2503.13418v1)|**2025-03-17**|null|
+|**2025-03-17**|**Artificial Spacetimes for Reactive Control of Resource-Limited Robots**|William H. Reinhardt et.al.|[2503.13355v1](http://arxiv.org/abs/2503.13355v1)|**2025-03-17**|null|
+|**2025-03-17**|**Digital Beamforming Enhanced Radar Odometry**|Jingqi Jiang et.al.|[2503.13252v1](http://arxiv.org/abs/2503.13252v1)|**2025-03-17**|null|
+|**2025-03-17**|**MindEye-OmniAssist: A Gaze-Driven LLM-Enhanced Assistive Robot System for Implicit Intention Recognition and Task Execution**|Zejia Zhang et.al.|[2503.13250v1](http://arxiv.org/abs/2503.13250v1)|**2025-03-17**|null|
+|**2025-03-17**|**Robust Decision-Making Via Free Energy Minimization**|Allahkaram Shafiei et.al.|[2503.13223v1](http://arxiv.org/abs/2503.13223v1)|**2025-03-17**|null|
+|**2025-03-17**|**Dense Policy: Bidirectional Autoregressive Learning of Actions**|Yue Su et.al.|[2503.13217v1](http://arxiv.org/abs/2503.13217v1)|**2025-03-17**|null|
+|**2025-03-17**|**3D Hierarchical Panoptic Segmentation in Real Orchard Environments Across Different Sensors**|Matteo Sodano et.al.|[2503.13188v1](http://arxiv.org/abs/2503.13188v1)|**2025-03-17**|null|
+|**2025-03-17**|**HybridGen: VLM-Guided Hybrid Planning for Scalable Data Generation of Imitation Learning**|Wensheng Wang et.al.|[2503.13171v1](http://arxiv.org/abs/2503.13171v1)|**2025-03-17**|null|
+|**2025-03-17**|**Efficient Imitation Under Misspecification**|Nicolas Espinosa-Dice et.al.|[2503.13162v1](http://arxiv.org/abs/2503.13162v1)|**2025-03-17**|null|
+|**2025-03-17**|**Rapid and Inexpensive Inertia Tensor Estimation from a Single Object Throw**|Till M. Blaha et.al.|[2503.13137v1](http://arxiv.org/abs/2503.13137v1)|**2025-03-17**|null|
+|**2025-03-17**|**MIXPINN: Mixed-Material Simulations by Physics-Informed Neural Network**|Xintian Yuan et.al.|[2503.13123v1](http://arxiv.org/abs/2503.13123v1)|**2025-03-17**|null|
+|**2025-03-17**|**LIVEPOINT: Fully Decentralized, Safe, Deadlock-Free Multi-Robot Control in Cluttered Environments with High-Dimensional Inputs**|Jeffrey Chen et.al.|[2503.13098v1](http://arxiv.org/abs/2503.13098v1)|**2025-03-17**|null|
+|**2025-03-17**|**Multi-Platform Teach-and-Repeat Navigation by Visual Place Recognition Based on Deep-Learned Local Features**|Václav Truhlařík et.al.|[2503.13090v1](http://arxiv.org/abs/2503.13090v1)|**2025-03-17**|null|
+|**2025-03-17**|**Free-form language-based robotic reasoning and grasping**|Runyu Jiao et.al.|[2503.13082v1](http://arxiv.org/abs/2503.13082v1)|**2025-03-17**|null|
+|**2025-03-17**|**Vision-based automatic fruit counting with UAV**|Hubert Szolc et.al.|[2503.13080v1](http://arxiv.org/abs/2503.13080v1)|**2025-03-17**|null|
+|**2025-03-17**|**Mitigating Cross-Modal Distraction and Ensuring Geometric Feasibility via Affordance-Guided, Self-Consistent MLLMs for Food Preparation Task Planning**|Yu-Hong Shen et.al.|[2503.13055v1](http://arxiv.org/abs/2503.13055v1)|**2025-03-17**|null|
+|**2025-03-17**|**Uncertainty-Aware Knowledge Distillation for Compact and Efficient 6DoF Pose Estimation**|Nassim Ali Ousalah et.al.|[2503.13053v1](http://arxiv.org/abs/2503.13053v1)|**2025-03-17**|null|
+|**2025-03-17**|**Robot Skin with Touch and Bend Sensing using Electrical Impedance Tomography**|Haofeng Chen et.al.|[2503.13048v1](http://arxiv.org/abs/2503.13048v1)|**2025-03-17**|null|
+|**2025-03-17**|**Large-area Tomographic Tactile Skin with Air Pressure Sensing for Improved Force Estimation**|Haofeng Chen et.al.|[2503.13036v1](http://arxiv.org/abs/2503.13036v1)|**2025-03-17**|null|
+|**2025-03-17**|**TA-GNN: Physics Inspired Time-Agnostic Graph Neural Network for Finger Motion Prediction**|Tinghui Li et.al.|[2503.13034v1](http://arxiv.org/abs/2503.13034v1)|**2025-03-17**|null|
+|**2025-03-17**|**Real-Time Multi-Object Tracking using YOLOv8 and SORT on a SoC FPGA**|Michal Danilowicz et.al.|[2503.13023v1](http://arxiv.org/abs/2503.13023v1)|**2025-03-17**|null|
+|**2025-03-17**|**Sensorless Remote Center of Motion Misalignment Estimation**|Hao Yang et.al.|[2503.13011v1](http://arxiv.org/abs/2503.13011v1)|**2025-03-17**|null|
+|**2025-03-17**|**Robot Policy Transfer with Online Demonstrations: An Active Reinforcement Learning Approach**|Muhan Hou et.al.|[2503.12993v1](http://arxiv.org/abs/2503.12993v1)|**2025-03-17**|null|
+|**2025-03-17**|**Exploring 3D Activity Reasoning and Planning: From Implicit Human Intentions to Route-Aware Planning**|Xueying Jiang et.al.|[2503.12974v1](http://arxiv.org/abs/2503.12974v1)|**2025-03-17**|null|
+|**2025-03-17**|**OptiPMB: Enhancing 3D Multi-Object Tracking with Optimized Poisson Multi-Bernoulli Filtering**|Guanhua Ding et.al.|[2503.12968v1](http://arxiv.org/abs/2503.12968v1)|**2025-03-17**|null|
+|**2025-03-17**|**Frame-wise Conditioning Adaptation for Fine-Tuning Diffusion Models in Text-to-Video Prediction**|Zheyuan Liu et.al.|[2503.12953v1](http://arxiv.org/abs/2503.12953v1)|**2025-03-17**|null|
+|**2025-03-17**|**Efficient Action-Constrained Reinforcement Learning via Acceptance-Rejection Method and Augmented MDPs**|Wei Hung et.al.|[2503.12932v1](http://arxiv.org/abs/2503.12932v1)|**2025-03-17**|null|

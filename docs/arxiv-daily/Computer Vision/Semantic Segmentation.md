@@ -2,33 +2,33 @@
 ### Semantic Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-14**|**ASMA-Tune: Unlocking LLMs' Assembly Code Comprehension via Structural-Semantic Instruction Tuning**|Xinyi Wang et.al.|[2503.11617v1](http://arxiv.org/abs/2503.11617v1)|**2025-03-14**|null|
-|**2025-03-14**|**Pathology Image Compression with Pre-trained Autoencoders**|Srikar Yellapragada et.al.|[2503.11591v1](http://arxiv.org/abs/2503.11591v1)|**2025-03-14**|null|
-|**2025-03-14**|**Broaden your SCOPE! Efficient Multi-turn Conversation Planning for LLMs using Semantic Space**|Zhiliang Chen et.al.|[2503.11586v1](http://arxiv.org/abs/2503.11586v1)|**2025-03-14**|null|
-|**2025-03-14**|**mobilityDCAT-AP: a Metadata Specification for Enhanced Cross-border Mobility Data Sharing**|Mario Scrocca et.al.|[2503.11535v1](http://arxiv.org/abs/2503.11535v1)|**2025-03-14**|null|
-|**2025-03-14**|**Bottom-up Iterative Anomalous Diffusion Detector (BI-ADD)**|Junwoo Park et.al.|[2503.11529v1](http://arxiv.org/abs/2503.11529v1)|**2025-03-14**|[link](https://github.com/JunwooParkSaribu/BI_ADD)|
-|**2025-03-14**|**Exploring Typographic Visual Prompts Injection Threats in Cross-Modality Generation Models**|Hao Cheng et.al.|[2503.11519v1](http://arxiv.org/abs/2503.11519v1)|**2025-03-14**|null|
-|**2025-03-14**|**HiTVideo: Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models**|Ziqin Zhou et.al.|[2503.11513v1](http://arxiv.org/abs/2503.11513v1)|**2025-03-14**|null|
-|**2025-03-14**|**Alzheimer's Disease Classification Using Retinal OCT: TransnetOCT and Swin Transformer Models**|Siva Manohar Reddy Kesu et.al.|[2503.11511v1](http://arxiv.org/abs/2503.11511v1)|**2025-03-14**|null|
-|**2025-03-14**|**Cloud2BIM: An open-source automatic pipeline for efficient conversion of large-scale point clouds into IFC format**|Slávek Zbirovský et.al.|[2503.11498v1](http://arxiv.org/abs/2503.11498v1)|**2025-03-14**|null|
-|**2025-03-14**|**Cognitive Disentanglement for Referring Multi-Object Tracking**|Shaofeng Liang et.al.|[2503.11496v1](http://arxiv.org/abs/2503.11496v1)|**2025-03-14**|null|
-|**2025-03-14**|**COIN: Confidence Score-Guided Distillation for Annotation-Free Cell Segmentation**|Sanghyun Jo et.al.|[2503.11439v2](http://arxiv.org/abs/2503.11439v2)|**2025-03-17**|null|
-|**2025-03-14**|**LuSeg: Efficient Negative and Positive Obstacles Segmentation via Contrast-Driven Multi-Modal Feature Fusion on the Lunar**|Shuaifeng Jiao et.al.|[2503.11409v1](http://arxiv.org/abs/2503.11409v1)|**2025-03-14**|null|
-|**2025-03-14**|**Towards A Correct Usage of Cryptography in Semantic Watermarks for Diffusion Models**|Jonas Thietke et.al.|[2503.11404v1](http://arxiv.org/abs/2503.11404v1)|**2025-03-14**|null|
-|**2025-03-14**|**A Framework for a Capability-driven Evaluation of Scenario Understanding for Multimodal Large Language Models in Autonomous Driving**|Tin Stribor Sohn et.al.|[2503.11400v1](http://arxiv.org/abs/2503.11400v1)|**2025-03-14**|null|
-|**2025-03-14**|**Watch and Learn: Leveraging Expert Knowledge and Language for Surgical Video Understanding**|David Gastager et.al.|[2503.11392v1](http://arxiv.org/abs/2503.11392v1)|**2025-03-14**|null|
-|**2025-03-14**|**EgoSplat: Open-Vocabulary Egocentric Scene Understanding with Language Embedded 3D Gaussian Splatting**|Di Li et.al.|[2503.11345v1](http://arxiv.org/abs/2503.11345v1)|**2025-03-14**|null|
-|**2025-03-14**|**APLA: A Simple Adaptation Method for Vision Transformers**|Moein Sorkhei et.al.|[2503.11335v1](http://arxiv.org/abs/2503.11335v1)|**2025-03-14**|null|
-|**2025-03-14**|**EmoAgent: Multi-Agent Collaboration of Plan, Edit, and Critic, for Affective Image Manipulation**|Qi Mao et.al.|[2503.11290v1](http://arxiv.org/abs/2503.11290v1)|**2025-03-14**|null|
-|**2025-03-14**|**Elimination of annotation dependencies in validation for Modern JSON Schema**|Lyes Attouche et.al.|[2503.11288v1](http://arxiv.org/abs/2503.11288v1)|**2025-03-14**|null|
-|**2025-03-14**|**AI and Deep Learning for Automated Segmentation and Quantitative Measurement of Spinal Structures in MRI**|Praveen Shastry et.al.|[2503.11281v1](http://arxiv.org/abs/2503.11281v1)|**2025-03-14**|null|
-|**2025-03-14**|**High-Dimensional Interlingual Representations of Large Language Models**|Bryan Wilie et.al.|[2503.11280v1](http://arxiv.org/abs/2503.11280v1)|**2025-03-14**|null|
-|**2025-03-14**|**CyclePose -- Leveraging Cycle-Consistency for Annotation-Free Nuclei Segmentation in Fluorescence Microscopy**|Jonas Utz et.al.|[2503.11266v1](http://arxiv.org/abs/2503.11266v1)|**2025-03-14**|null|
-|**2025-03-14**|**L2RSI: Cross-view LiDAR-based Place Recognition for Large-scale Urban Scenes via Remote Sensing Imagery**|Ziwei Shi et.al.|[2503.11245v1](http://arxiv.org/abs/2503.11245v1)|**2025-03-14**|null|
-|**2025-03-14**|**NF-SLAM: Effective, Normalizing Flow-supported Neural Field representations for object-level visual SLAM in automotive applications**|Li Cui et.al.|[2503.11199v1](http://arxiv.org/abs/2503.11199v1)|**2025-03-14**|null|
-|**2025-03-14**|**FastVID: Dynamic Density Pruning for Fast Video Large Language Models**|Leqi Shen et.al.|[2503.11187v1](http://arxiv.org/abs/2503.11187v1)|**2025-03-14**|null|
-|**2025-03-14**|**Align in Depth: Defending Jailbreak Attacks via Progressive Answer Detoxification**|Yingjie Zhang et.al.|[2503.11185v1](http://arxiv.org/abs/2503.11185v1)|**2025-03-14**|null|
-|**2025-03-14**|**Multimodal-Aware Fusion Network for Referring Remote Sensing Image Segmentation**|Leideng Shi et.al.|[2503.11183v1](http://arxiv.org/abs/2503.11183v1)|**2025-03-14**|[link](https://github.com/Roaxy/MAFN)|
-|**2025-03-14**|**Neurons: Emulating the Human Visual Cortex Improves Fidelity and Interpretability in fMRI-to-Video Reconstruction**|Haonan Wang et.al.|[2503.11167v1](http://arxiv.org/abs/2503.11167v1)|**2025-03-14**|null|
-|**2025-03-14**|**Don't Take Things Out of Context: Attention Intervention for Enhancing Chain-of-Thought Reasoning in Large Language Models**|Shaotian Yan et.al.|[2503.11154v1](http://arxiv.org/abs/2503.11154v1)|**2025-03-14**|null|
-|**2025-03-14**|**Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM**|Neng Wang et.al.|[2503.11145v1](http://arxiv.org/abs/2503.11145v1)|**2025-03-14**|null|
+|**2025-03-17**|**BlobCtrl: A Unified and Flexible Framework for Element-level Image Generation and Editing**|Yaowei Li et.al.|[2503.13434v1](http://arxiv.org/abs/2503.13434v1)|**2025-03-17**|null|
+|**2025-03-17**|**SuperBPE: Space Travel for Language Models**|Alisa Liu et.al.|[2503.13423v1](http://arxiv.org/abs/2503.13423v1)|**2025-03-17**|null|
+|**2025-03-17**|**U2AD: Uncertainty-based Unsupervised Anomaly Detection Framework for Detecting T2 Hyperintensity in MRI Spinal Cord**|Qi Zhang et.al.|[2503.13400v1](http://arxiv.org/abs/2503.13400v1)|**2025-03-17**|null|
+|**2025-03-17**|**Assessment of spectral phases of non-Hermitian quantum systems through complex and singular values**|Mahaveer Prasad et.al.|[2503.13387v1](http://arxiv.org/abs/2503.13387v1)|**2025-03-17**|null|
+|**2025-03-17**|**Scale Efficient Training for Large Datasets**|Qing Zhou et.al.|[2503.13385v1](http://arxiv.org/abs/2503.13385v1)|**2025-03-17**|null|
+|**2025-03-17**|**TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM**|Ye Wang et.al.|[2503.13377v1](http://arxiv.org/abs/2503.13377v1)|**2025-03-17**|null|
+|**2025-03-17**|**Effects of Intrinsic Flame Instabilities on Nitrogen Oxide Formation in Laminar Premixed Ammonia/Hydrogen/Air Flames**|Terence Lehmann et.al.|[2503.13370v1](http://arxiv.org/abs/2503.13370v1)|**2025-03-17**|null|
+|**2025-03-17**|**Edit Transfer: Learning Image Editing via Vision In-Context Relations**|Lan Chen et.al.|[2503.13327v1](http://arxiv.org/abs/2503.13327v1)|**2025-03-17**|null|
+|**2025-03-17**|**Integrating AI for Human-Centric Breast Cancer Diagnostics: A Multi-Scale and Multi-View Swin Transformer Framework**|Farnoush Bayatmakou et.al.|[2503.13309v1](http://arxiv.org/abs/2503.13309v1)|**2025-03-17**|null|
+|**2025-03-17**|**Computation Mechanism Behind LLM Position Generalization**|Chi Han et.al.|[2503.13305v1](http://arxiv.org/abs/2503.13305v1)|**2025-03-17**|null|
+|**2025-03-17**|**Progressive Human Motion Generation Based on Text and Few Motion Frames**|Ling-An Zeng et.al.|[2503.13300v1](http://arxiv.org/abs/2503.13300v1)|**2025-03-17**|null|
+|**2025-03-17**|**Quantitative Image-Based Validation Framework for Assessing Global Coronal Magnetic Field Models**|Christopher E. Rura et.al.|[2503.13292v1](http://arxiv.org/abs/2503.13292v1)|**2025-03-17**|null|
+|**2025-03-17**|**Anatomically and Metabolically Informed Diffusion for Unified Denoising and Segmentation in Low-Count PET Imaging**|Menghua Xia et.al.|[2503.13257v1](http://arxiv.org/abs/2503.13257v1)|**2025-03-17**|null|
+|**2025-03-17**|**Highly Efficient Direct Analytics on Semantic-aware Time Series Data Compression**|Guoyou Sun et.al.|[2503.13246v1](http://arxiv.org/abs/2503.13246v1)|**2025-03-17**|null|
+|**2025-03-17**|**HoloGest: Decoupled Diffusion and Motion Priors for Generating Holisticly Expressive Co-speech Gestures**|Yongkang Cheng et.al.|[2503.13229v1](http://arxiv.org/abs/2503.13229v1)|**2025-03-17**|null|
+|**2025-03-17**|**MedLoRD: A Medical Low-Resource Diffusion Model for High-Resolution 3D CT Image Synthesis**|Marvin Seyfarth et.al.|[2503.13211v1](http://arxiv.org/abs/2503.13211v1)|**2025-03-17**|null|
+|**2025-03-17**|**Clustering is back: Reaching state-of-the-art LiDAR instance segmentation without training**|Corentin Sautier et.al.|[2503.13203v1](http://arxiv.org/abs/2503.13203v1)|**2025-03-17**|null|
+|**2025-03-17**|**3D Hierarchical Panoptic Segmentation in Real Orchard Environments Across Different Sensors**|Matteo Sodano et.al.|[2503.13188v1](http://arxiv.org/abs/2503.13188v1)|**2025-03-17**|null|
+|**2025-03-17**|**3DAxisPrompt: Promoting the 3D Grounding and Reasoning in GPT-4o**|Dingning Liu et.al.|[2503.13185v1](http://arxiv.org/abs/2503.13185v1)|**2025-03-17**|null|
+|**2025-03-17**|**HybridGen: VLM-Guided Hybrid Planning for Scalable Data Generation of Imitation Learning**|Wensheng Wang et.al.|[2503.13171v1](http://arxiv.org/abs/2503.13171v1)|**2025-03-17**|null|
+|**2025-03-17**|**Language-guided Open-world Video Anomaly Detection**|Zihao Liu et.al.|[2503.13160v1](http://arxiv.org/abs/2503.13160v1)|**2025-03-17**|null|
+|**2025-03-17**|**Logic-in-Frames: Dynamic Keyframe Search via Visual Semantic-Logical Verification for Long Video Understanding**|Weiyu Guo et.al.|[2503.13139v1](http://arxiv.org/abs/2503.13139v1)|**2025-03-17**|null|
+|**2025-03-17**|**ChainHOI: Joint-based Kinematic Chain Modeling for Human-Object Interaction Generation**|Ling-An Zeng et.al.|[2503.13130v1](http://arxiv.org/abs/2503.13130v1)|**2025-03-17**|null|
+|**2025-03-17**|**Lifting the Veil on Visual Information Flow in MLLMs: Unlocking Pathways to Faster Inference**|Hao Yin et.al.|[2503.13108v1](http://arxiv.org/abs/2503.13108v1)|**2025-03-17**|[link](https://github.com/ustc-hyin/HiMAP)|
+|**2025-03-17**|**Localized Dynamic Mode Decomposition with Temporally Adaptive Partitioning**|Qiuqi Li et.al.|[2503.13093v1](http://arxiv.org/abs/2503.13093v1)|**2025-03-17**|null|
+|**2025-03-17**|**DehazeMamba: SAR-guided Optical Remote Sensing Image Dehazing with Adaptive State Space Model**|Zhicheng Zhao et.al.|[2503.13073v1](http://arxiv.org/abs/2503.13073v1)|**2025-03-17**|null|
+|**2025-03-17**|**On reflected isotropic stable processes**|Loïc Béthencourt et.al.|[2503.13071v1](http://arxiv.org/abs/2503.13071v1)|**2025-03-17**|null|
+|**2025-03-17**|**Large-area Tomographic Tactile Skin with Air Pressure Sensing for Improved Force Estimation**|Haofeng Chen et.al.|[2503.13036v1](http://arxiv.org/abs/2503.13036v1)|**2025-03-17**|null|
+|**2025-03-17**|**HiMTok: Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model**|Tao Wang et.al.|[2503.13026v1](http://arxiv.org/abs/2503.13026v1)|**2025-03-17**|null|
+|**2025-03-17**|**Test-Time Domain Generalization via Universe Learning: A Multi-Graph Matching Approach for Medical Image Segmentation**|Xingguo Lv et.al.|[2503.13012v1](http://arxiv.org/abs/2503.13012v1)|**2025-03-17**|null|

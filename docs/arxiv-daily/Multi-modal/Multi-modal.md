@@ -2,33 +2,33 @@
 ### Multi-modal
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-14**|**SmolDocling: An ultra-compact vision-language model for end-to-end multi-modal document conversion**|Ahmed Nassar et.al.|[2503.11576v1](http://arxiv.org/abs/2503.11576v1)|**2025-03-14**|null|
-|**2025-03-14**|**Multimodal nonlinear acoustics in two- and three-dimensional curved ducts**|Freddie Jensen et.al.|[2503.11536v1](http://arxiv.org/abs/2503.11536v1)|**2025-03-14**|null|
-|**2025-03-14**|**Exploring Typographic Visual Prompts Injection Threats in Cross-Modality Generation Models**|Hao Cheng et.al.|[2503.11519v1](http://arxiv.org/abs/2503.11519v1)|**2025-03-14**|null|
-|**2025-03-14**|**Cognitive Disentanglement for Referring Multi-Object Tracking**|Shaofeng Liang et.al.|[2503.11496v1](http://arxiv.org/abs/2503.11496v1)|**2025-03-14**|null|
-|**2025-03-14**|**MTV-Inpaint: Multi-Task Long Video Inpainting**|Shiyuan Yang et.al.|[2503.11412v1](http://arxiv.org/abs/2503.11412v1)|**2025-03-14**|null|
-|**2025-03-14**|**LuSeg: Efficient Negative and Positive Obstacles Segmentation via Contrast-Driven Multi-Modal Feature Fusion on the Lunar**|Shuaifeng Jiao et.al.|[2503.11409v1](http://arxiv.org/abs/2503.11409v1)|**2025-03-14**|null|
-|**2025-03-14**|**A Framework for a Capability-driven Evaluation of Scenario Understanding for Multimodal Large Language Models in Autonomous Driving**|Tin Stribor Sohn et.al.|[2503.11400v1](http://arxiv.org/abs/2503.11400v1)|**2025-03-14**|null|
-|**2025-03-14**|**Cornstarch: Distributed Multimodal Training Must Be Multimodality-Aware**|Insu Jang et.al.|[2503.11367v1](http://arxiv.org/abs/2503.11367v1)|**2025-03-14**|null|
-|**2025-03-14**|**PARIC: Probabilistic Attention Regularization for Language Guided Image Classification from Pre-trained Vison Language Models**|Mayank Nautiyal et.al.|[2503.11360v1](http://arxiv.org/abs/2503.11360v1)|**2025-03-14**|null|
-|**2025-03-14**|**Road Rage Reasoning with Vision-language Models (VLMs): Task Definition and Evaluation Dataset**|Yibing Weng et.al.|[2503.11342v1](http://arxiv.org/abs/2503.11342v1)|**2025-03-14**|null|
-|**2025-03-14**|**BriLLM: Brain-inspired Large Language Model**|Hai Zhao et.al.|[2503.11299v1](http://arxiv.org/abs/2503.11299v1)|**2025-03-14**|null|
-|**2025-03-14**|**OPTIMUS: Predicting Multivariate Outcomes in Alzheimer's Disease Using Multi-modal Data amidst Missing Values**|Christelle Schneuwly Diaz et.al.|[2503.11282v1](http://arxiv.org/abs/2503.11282v1)|**2025-03-14**|null|
-|**2025-03-14**|**Breaking Shallow Limits: Task-Driven Pixel Fusion for Gap-free RGBT Tracking**|Andong Lu et.al.|[2503.11247v1](http://arxiv.org/abs/2503.11247v1)|**2025-03-14**|null|
-|**2025-03-14**|**L2RSI: Cross-view LiDAR-based Place Recognition for Large-scale Urban Scenes via Remote Sensing Imagery**|Ziwei Shi et.al.|[2503.11245v1](http://arxiv.org/abs/2503.11245v1)|**2025-03-14**|null|
-|**2025-03-14**|**Towards General Multimodal Visual Tracking**|Andong Lu et.al.|[2503.11218v1](http://arxiv.org/abs/2503.11218v1)|**2025-03-14**|null|
-|**2025-03-14**|**Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering**|Gang Li et.al.|[2503.11197v2](http://arxiv.org/abs/2503.11197v2)|**2025-03-17**|[link](https://huggingface.co/mispeech/r1-aqa)|
-|**2025-03-14**|**Cross-Modal Learning for Music-to-Music-Video Description Generation**|Zhuoyuan Mao et.al.|[2503.11190v1](http://arxiv.org/abs/2503.11190v1)|**2025-03-14**|null|
-|**2025-03-14**|**Multimodal-Aware Fusion Network for Referring Remote Sensing Image Segmentation**|Leideng Shi et.al.|[2503.11183v1](http://arxiv.org/abs/2503.11183v1)|**2025-03-14**|[link](https://github.com/Roaxy/MAFN)|
-|**2025-03-14**|**Aerial Vision-and-Language Navigation with Grid-based View Selection and Map Construction**|Ganlong Zhao et.al.|[2503.11091v1](http://arxiv.org/abs/2503.11091v1)|**2025-03-14**|null|
-|**2025-03-14**|**MAVFlow: Preserving Paralinguistic Elements with Conditional Flow Matching for Zero-Shot AV2AV Multilingual Translation**|Sungwoo Cho et.al.|[2503.11026v1](http://arxiv.org/abs/2503.11026v1)|**2025-03-14**|null|
-|**2025-03-14**|**Observation-Graph Interaction and Key-Detail Guidance for Vision and Language Navigation**|Yifan Xie et.al.|[2503.11006v1](http://arxiv.org/abs/2503.11006v1)|**2025-03-14**|null|
-|**2025-03-14**|**RONA: Pragmatically Diverse Image Captioning with Coherence Relations**|Aashish Anantha Ramakrishnan et.al.|[2503.10997v1](http://arxiv.org/abs/2503.10997v1)|**2025-03-14**|null|
-|**2025-03-13**|**ChatGPT Encounters Morphing Attack Detection: Zero-Shot MAD with Multi-Modal Large Language Models and General Vision Models**|Haoyu Zhang et.al.|[2503.10937v1](http://arxiv.org/abs/2503.10937v1)|**2025-03-13**|null|
-|**2025-03-13**|**Chat-TS: Enhancing Multi-Modal Reasoning Over Time-Series and Natural Language Data**|Paul Quinlan et.al.|[2503.10883v1](http://arxiv.org/abs/2503.10883v1)|**2025-03-13**|null|
-|**2025-03-13**|**Panopticon: Advancing Any-Sensor Foundation Models for Earth Observation**|Leonard Waldmann et.al.|[2503.10845v1](http://arxiv.org/abs/2503.10845v1)|**2025-03-13**|null|
-|**2025-03-13**|**Thermal Capacity Mapping of Cryogenic Platforms for Quantum Computers**|Scott A. Manifold et.al.|[2503.10775v1](http://arxiv.org/abs/2503.10775v1)|**2025-03-13**|null|
-|**2025-03-13**|**FlowTok: Flowing Seamlessly Across Text and Image Tokens**|Ju He et.al.|[2503.10772v1](http://arxiv.org/abs/2503.10772v1)|**2025-03-13**|null|
-|**2025-03-13**|**SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems**|Ziyu Guo et.al.|[2503.10627v1](http://arxiv.org/abs/2503.10627v1)|**2025-03-13**|null|
-|**2025-03-13**|**From TOWER to SPIRE: Adding the Speech Modality to a Text-Only LLM**|Kshitij Ambilduke et.al.|[2503.10620v1](http://arxiv.org/abs/2503.10620v1)|**2025-03-13**|null|
-|**2025-03-13**|**Unifying 2D and 3D Vision-Language Understanding**|Ayush Jain et.al.|[2503.10745v1](http://arxiv.org/abs/2503.10745v1)|**2025-03-13**|null|
+|**2025-03-17**|**VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning**|Ye Liu et.al.|[2503.13444v1](http://arxiv.org/abs/2503.13444v1)|**2025-03-17**|null|
+|**2025-03-17**|**MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research**|James Burgess et.al.|[2503.13399v1](http://arxiv.org/abs/2503.13399v1)|**2025-03-17**|null|
+|**2025-03-17**|**Cream of the Crop: Harvesting Rich, Scalable and Transferable Multi-Modal Data for Instruction Fine-Tuning**|Mengyao Lyu et.al.|[2503.13383v1](http://arxiv.org/abs/2503.13383v1)|**2025-03-17**|null|
+|**2025-03-17**|**Mitigating Visual Forgetting via Take-along Visual Conditioning for Multi-modal Long CoT Reasoning**|Hai-Long Sun et.al.|[2503.13360v1](http://arxiv.org/abs/2503.13360v1)|**2025-03-17**|null|
+|**2025-03-17**|**ProDiF: Protecting Domain-Invariant Features to Secure Pre-Trained Models Against Extraction**|Tong Zhou et.al.|[2503.13224v1](http://arxiv.org/abs/2503.13224v1)|**2025-03-17**|null|
+|**2025-03-17**|**MedLoRD: A Medical Low-Resource Diffusion Model for High-Resolution 3D CT Image Synthesis**|Marvin Seyfarth et.al.|[2503.13211v1](http://arxiv.org/abs/2503.13211v1)|**2025-03-17**|null|
+|**2025-03-17**|**Triad: Empowering LMM-based Anomaly Detection with Vision Expert-guided Visual Tokenizer and Manufacturing Process**|Yuanze Li et.al.|[2503.13184v1](http://arxiv.org/abs/2503.13184v1)|**2025-03-17**|null|
+|**2025-03-17**|**Examining the Effects of Immersive and Non-Immersive Presenter Modalities on Engagement and Social Interaction in Co-located Augmented Presentations**|Matt Gottsacker et.al.|[2503.13174v1](http://arxiv.org/abs/2503.13174v1)|**2025-03-17**|null|
+|**2025-03-17**|**Lifting the Veil on Visual Information Flow in MLLMs: Unlocking Pathways to Faster Inference**|Hao Yin et.al.|[2503.13108v1](http://arxiv.org/abs/2503.13108v1)|**2025-03-17**|[link](https://github.com/ustc-hyin/HiMAP)|
+|**2025-03-17**|**ClearSight: Visual Signal Enhancement for Object Hallucination Mitigation in Multimodal Large language Models**|Hao Yin et.al.|[2503.13107v1](http://arxiv.org/abs/2503.13107v1)|**2025-03-17**|[link](https://github.com/ustc-hyin/ClearSight)|
+|**2025-03-17**|**Super-resolution Radial Fluctuations Enables Polarization-resolved Nonlinear Optical Nanoscopy**|MacAulay Harvey et.al.|[2503.13106v1](http://arxiv.org/abs/2503.13106v1)|**2025-03-17**|null|
+|**2025-03-17**|**Combined impact of grey and superficial white matter abnormalities: implications for epilepsy surgery**|Csaba Kozma et.al.|[2503.13097v1](http://arxiv.org/abs/2503.13097v1)|**2025-03-17**|null|
+|**2025-03-17**|**DehazeMamba: SAR-guided Optical Remote Sensing Image Dehazing with Adaptive State Space Model**|Zhicheng Zhao et.al.|[2503.13073v1](http://arxiv.org/abs/2503.13073v1)|**2025-03-17**|null|
+|**2025-03-17**|**Mitigating Cross-Modal Distraction and Ensuring Geometric Feasibility via Affordance-Guided, Self-Consistent MLLMs for Food Preparation Task Planning**|Yu-Hong Shen et.al.|[2503.13055v1](http://arxiv.org/abs/2503.13055v1)|**2025-03-17**|null|
+|**2025-03-17**|**Large-area Tomographic Tactile Skin with Air Pressure Sensing for Improved Force Estimation**|Haofeng Chen et.al.|[2503.13036v1](http://arxiv.org/abs/2503.13036v1)|**2025-03-17**|null|
+|**2025-03-17**|**Concept-as-Tree: Synthetic Data is All You Need for VLM Personalization**|Ruichuan An et.al.|[2503.12999v1](http://arxiv.org/abs/2503.12999v1)|**2025-03-17**|null|
+|**2025-03-17**|**Conversation-Based Multimodal Abuse Detection Through Text and Graph Embeddings**|Noé Cecillon et.al.|[2503.12994v1](http://arxiv.org/abs/2503.12994v1)|**2025-03-17**|null|
+|**2025-03-17**|**Aligning Vision to Language: Text-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning**|Junming Liu et.al.|[2503.12972v1](http://arxiv.org/abs/2503.12972v1)|**2025-03-17**|null|
+|**2025-03-17**|**Normative implications**|Andrea De Domenico et.al.|[2503.12965v1](http://arxiv.org/abs/2503.12965v1)|**2025-03-17**|null|
+|**2025-03-17**|**MMLNB: Multi-Modal Learning for Neuroblastoma Subtyping Classification Assisted with Textual Description Generation**|Huangwei Chen et.al.|[2503.12927v1](http://arxiv.org/abs/2503.12927v1)|**2025-03-17**|null|
+|**2025-03-17**|**Efficient Multimodal 3D Object Detector via Instance-Level Contrastive Distillation**|Zhuoqun Su et.al.|[2503.12914v1](http://arxiv.org/abs/2503.12914v1)|**2025-03-17**|null|
+|**2025-03-17**|**Pose as a Modality: A Psychology-Inspired Network for Personality Recognition with a New Multimodal Dataset**|Bin Tang et.al.|[2503.12912v1](http://arxiv.org/abs/2503.12912v1)|**2025-03-17**|null|
+|**2025-03-17**|**UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks**|Yuanbin Qian et.al.|[2503.12905v1](http://arxiv.org/abs/2503.12905v1)|**2025-03-17**|null|
+|**2025-03-17**|**SCAP: Transductive Test-Time Adaptation via Supportive Clique-based Attribute Prompting**|Chenyu Zhang et.al.|[2503.12866v1](http://arxiv.org/abs/2503.12866v1)|**2025-03-17**|null|
+|**2025-03-17**|**Robust Audio-Visual Segmentation via Audio-Guided Visual Convergent Alignment**|Chen Liu et.al.|[2503.12847v1](http://arxiv.org/abs/2503.12847v1)|**2025-03-17**|null|
+|**2025-03-17**|**Towards Scalable Foundation Model for Multi-modal and Hyperspectral Geospatial Data**|Haozhe Si et.al.|[2503.12843v1](http://arxiv.org/abs/2503.12843v1)|**2025-03-17**|null|
+|**2025-03-17**|**MT-PCR: Leveraging Modality Transformation for Large-Scale Point Cloud Registration with Limited Overlap**|Yilong Wu et.al.|[2503.12833v1](http://arxiv.org/abs/2503.12833v1)|**2025-03-17**|null|
+|**2025-03-17**|**NuPlanQA: A Large-Scale Dataset and Benchmark for Multi-View Driving Scene Understanding in Multi-Modal Large Language Models**|Sung-Yeon Park et.al.|[2503.12772v1](http://arxiv.org/abs/2503.12772v1)|**2025-03-17**|null|
+|**2025-03-17**|**ViSpeak: Visual Instruction Feedback in Streaming Videos**|Shenghao Fu et.al.|[2503.12769v1](http://arxiv.org/abs/2503.12769v1)|**2025-03-17**|null|
+|**2025-03-17**|**NeckCheck: Predicting Neck Strain using Head Tracker Sensors**|Bhawana Chhaglani et.al.|[2503.12762v1](http://arxiv.org/abs/2503.12762v1)|**2025-03-17**|null|

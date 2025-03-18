@@ -2,33 +2,33 @@
 ### 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-14**|**Bring Your Rear Cameras for Egocentric 3D Human Pose Estimation**|Hiroyasu Akada et.al.|[2503.11652v1](http://arxiv.org/abs/2503.11652v1)|**2025-03-14**|null|
-|**2025-03-14**|**VGGT: Visual Geometry Grounded Transformer**|Jianyuan Wang et.al.|[2503.11651v1](http://arxiv.org/abs/2503.11651v1)|**2025-03-14**|null|
-|**2025-03-14**|**The waves-in-space Purcell effect for superconducting qubits**|Param Patel et.al.|[2503.11644v1](http://arxiv.org/abs/2503.11644v1)|**2025-03-14**|null|
-|**2025-03-14**|**Advancing 3D Gaussian Splatting Editing with Complementary and Consensus Information**|Xuanqi Zhang et.al.|[2503.11601v1](http://arxiv.org/abs/2503.11601v1)|**2025-03-14**|null|
-|**2025-03-14**|**FLASHμ: Fast Localizing And Sizing of Holographic Microparticles**|Ayush Paliwal et.al.|[2503.11538v1](http://arxiv.org/abs/2503.11538v1)|**2025-03-14**|null|
-|**2025-03-14**|**HiTVideo: Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models**|Ziqin Zhou et.al.|[2503.11513v1](http://arxiv.org/abs/2503.11513v1)|**2025-03-14**|null|
-|**2025-03-14**|**MRS-CWC: A Weakly Constrained Multi-Robot System with Controllable Constraint Stiffness for Mobility and Navigation in Unknown 3D Rough Environments**|Runze Xiao et.al.|[2503.11461v1](http://arxiv.org/abs/2503.11461v1)|**2025-03-14**|null|
-|**2025-03-14**|**A Neural Network Architecture Based on Attention Gate Mechanism for 3D Magnetotelluric Forward Modeling**|Xin Zhong et.al.|[2503.11408v1](http://arxiv.org/abs/2503.11408v1)|**2025-03-14**|null|
-|**2025-03-14**|**Data-constrained 3D MHD Simulation of a Spiral Jet Caused by an Unstable Flux Rope Embedded in Fan-spine Configuration**|Z. F. Li et.al.|[2503.11380v1](http://arxiv.org/abs/2503.11380v1)|**2025-03-14**|null|
-|**2025-03-14**|**EMoTive: Event-guided Trajectory Modeling for 3D Motion Estimation**|Zengyu Wan et.al.|[2503.11371v2](http://arxiv.org/abs/2503.11371v2)|**2025-03-17**|null|
-|**2025-03-14**|**PBR3DGen: A VLM-guided Mesh Generation with High-quality PBR Texture**|Xiaokang Wei et.al.|[2503.11368v1](http://arxiv.org/abs/2503.11368v1)|**2025-03-14**|null|
-|**2025-03-14**|**Confinement controls bacterial spreading at all scales**|Renaud Baillou et.al.|[2503.11364v1](http://arxiv.org/abs/2503.11364v1)|**2025-03-14**|null|
-|**2025-03-14**|**Predictive study of non-axisymmetric neutral beam ion loss on the upgraded KSTAR plasma-facing components**|Taeuk Moon et.al.|[2503.11353v1](http://arxiv.org/abs/2503.11353v1)|**2025-03-14**|null|
-|**2025-03-14**|**EgoSplat: Open-Vocabulary Egocentric Scene Understanding with Language Embedded 3D Gaussian Splatting**|Di Li et.al.|[2503.11345v1](http://arxiv.org/abs/2503.11345v1)|**2025-03-14**|null|
-|**2025-03-14**|**1D fluids with repulsive nearest-neighbour interactions: Low-temperature anomalies**|Igor Travěnec et.al.|[2503.11310v1](http://arxiv.org/abs/2503.11310v1)|**2025-03-14**|null|
-|**2025-03-14**|**L2RSI: Cross-view LiDAR-based Place Recognition for Large-scale Urban Scenes via Remote Sensing Imagery**|Ziwei Shi et.al.|[2503.11245v1](http://arxiv.org/abs/2503.11245v1)|**2025-03-14**|null|
-|**2025-03-14**|**Growth Laws and Universality in 2-TIPS: Microscopic and Coarse grained approach**|Nayana Venkatareddy et.al.|[2503.11243v1](http://arxiv.org/abs/2503.11243v1)|**2025-03-14**|null|
-|**2025-03-14**|**NF-SLAM: Effective, Normalizing Flow-supported Neural Field representations for object-level visual SLAM in automotive applications**|Li Cui et.al.|[2503.11199v1](http://arxiv.org/abs/2503.11199v1)|**2025-03-14**|null|
-|**2025-03-14**|**Online Test-time Adaptation for 3D Human Pose Estimation: A Practical Perspective with Estimated 2D Poses**|Qiuxia Lin et.al.|[2503.11194v1](http://arxiv.org/abs/2503.11194v1)|**2025-03-14**|null|
-|**2025-03-14**|**Uncertainty-Aware Normal-Guided Gaussian Splatting for Surface Reconstruction from Sparse Image Sequences**|Zhen Tan et.al.|[2503.11172v1](http://arxiv.org/abs/2503.11172v1)|**2025-03-14**|null|
-|**2025-03-14**|**GaussianIP: Identity-Preserving Realistic 3D Human Generation via Human-Centric Diffusion Prior**|Zichen Tang et.al.|[2503.11143v1](http://arxiv.org/abs/2503.11143v1)|**2025-03-14**|null|
-|**2025-03-14**|**DriveGEN: Generalized and Robust 3D Detection in Driving via Controllable Text-to-Image Diffusion Generation**|Hongbin Lin et.al.|[2503.11122v1](http://arxiv.org/abs/2503.11122v1)|**2025-03-14**|null|
-|**2025-03-14**|**Beyond the Destination: A Novel Benchmark for Exploration-Aware Embodied Question Answering**|Kaixuan Jiang et.al.|[2503.11117v1](http://arxiv.org/abs/2503.11117v1)|**2025-03-14**|null|
-|**2025-03-14**|**Advancing Electronics Manufacturing Using Dynamically Programmable Micro-Transfer Printing System**|Qinhua Guo et.al.|[2503.11109v1](http://arxiv.org/abs/2503.11109v1)|**2025-03-14**|null|
-|**2025-03-14**|**Open3DVQA: A Benchmark for Comprehensive Spatial Reasoning with Multimodal Large Language Model in Open Space**|Weichen Zhan et.al.|[2503.11094v1](http://arxiv.org/abs/2503.11094v1)|**2025-03-14**|null|
-|**2025-03-14**|**OmniDiff: A Comprehensive Benchmark for Fine-grained Image Difference Captioning**|Yuan Liu et.al.|[2503.11093v1](http://arxiv.org/abs/2503.11093v1)|**2025-03-14**|null|
-|**2025-03-14**|**Aerial Vision-and-Language Navigation with Grid-based View Selection and Map Construction**|Ganlong Zhao et.al.|[2503.11091v1](http://arxiv.org/abs/2503.11091v1)|**2025-03-14**|null|
-|**2025-03-14**|**Dust Clumping in Outer Protoplanetary Disks: the Interplay Among Four Instabilities**|Pinghui Huang et.al.|[2503.11076v1](http://arxiv.org/abs/2503.11076v1)|**2025-03-14**|null|
-|**2025-03-14**|**Low-cost Real-world Implementation of the Swing-up Pendulum for Deep Reinforcement Learning Experiments**|Peter Böhm et.al.|[2503.11065v1](http://arxiv.org/abs/2503.11065v1)|**2025-03-14**|null|
-|**2025-03-14**|**Magnetoconductivity due to electron-electron interaction in a non-Galilean--invariant Fermi liquid**|Tatia Kiliptari et.al.|[2503.11063v1](http://arxiv.org/abs/2503.11063v1)|**2025-03-14**|null|
+|**2025-03-17**|**Measuring and unbiasing the BAO shift in the Lyman-Alpha forest with AbacusSummit**|Boryana Hadzhiyska et.al.|[2503.13442v1](http://arxiv.org/abs/2503.13442v1)|**2025-03-17**|null|
+|**2025-03-17**|**Amodal3R: Amodal 3D Reconstruction from Occluded 2D Images**|Tianhao Wu et.al.|[2503.13439v1](http://arxiv.org/abs/2503.13439v1)|**2025-03-17**|null|
+|**2025-03-17**|**WideRange4D: Enabling High-Quality 4D Reconstruction with Wide-Range Movements and Scenes**|Ling Yang et.al.|[2503.13435v1](http://arxiv.org/abs/2503.13435v1)|**2025-03-17**|null|
+|**2025-03-17**|**Escaping Plato's Cave: Robust Conceptual Reasoning through Interpretable 3D Neural Object Volumes**|Nhi Pham et.al.|[2503.13429v1](http://arxiv.org/abs/2503.13429v1)|**2025-03-17**|null|
+|**2025-03-17**|**Spacetime Structure of Regular Accelerating Black Hole Pair in General Relativity**|M. M. Akbar et.al.|[2503.13420v1](http://arxiv.org/abs/2503.13420v1)|**2025-03-17**|null|
+|**2025-03-17**|**Agents Play Thousands of 3D Video Games**|Zhongwen Xu et.al.|[2503.13356v1](http://arxiv.org/abs/2503.13356v1)|**2025-03-17**|null|
+|**2025-03-17**|**TriDF: Triplane-Accelerated Density Fields for Few-Shot Remote Sensing Novel View Synthesis**|Jiaming Kang et.al.|[2503.13347v1](http://arxiv.org/abs/2503.13347v1)|**2025-03-17**|null|
+|**2025-03-17**|**3D morphology formation in a mixture of three differently averse components**|Emilio N. M. Cirillo et.al.|[2503.13338v1](http://arxiv.org/abs/2503.13338v1)|**2025-03-17**|null|
+|**2025-03-17**|**UniHOPE: A Unified Approach for Hand-Only and Hand-Object Pose Estimation**|Yinqiao Wang et.al.|[2503.13303v1](http://arxiv.org/abs/2503.13303v1)|**2025-03-17**|null|
+|**2025-03-17**|**Generative Gaussian Splatting: Generating 3D Scenes with Video Diffusion Priors**|Katja Schwarz et.al.|[2503.13272v1](http://arxiv.org/abs/2503.13272v1)|**2025-03-17**|null|
+|**2025-03-17**|**FlexWorld: Progressively Expanding 3D Scenes for Flexiable-View Synthesis**|Luxi Chen et.al.|[2503.13265v1](http://arxiv.org/abs/2503.13265v1)|**2025-03-17**|null|
+|**2025-03-17**|**Digital Beamforming Enhanced Radar Odometry**|Jingqi Jiang et.al.|[2503.13252v1](http://arxiv.org/abs/2503.13252v1)|**2025-03-17**|null|
+|**2025-03-17**|**UV$_6$Sn$_6$: a new kagome material with unusual $5f$ magnetism**|S. M. Thomas et.al.|[2503.13245v1](http://arxiv.org/abs/2503.13245v1)|**2025-03-17**|null|
+|**2025-03-17**|**MedLoRD: A Medical Low-Resource Diffusion Model for High-Resolution 3D CT Image Synthesis**|Marvin Seyfarth et.al.|[2503.13211v1](http://arxiv.org/abs/2503.13211v1)|**2025-03-17**|null|
+|**2025-03-17**|**New Liouville type theorems for 3D steady incompressible MHD equations and Hall-MHD equations**|Zhibing Zhang et.al.|[2503.13202v1](http://arxiv.org/abs/2503.13202v1)|**2025-03-17**|null|
+|**2025-03-17**|**3D Hierarchical Panoptic Segmentation in Real Orchard Environments Across Different Sensors**|Matteo Sodano et.al.|[2503.13188v1](http://arxiv.org/abs/2503.13188v1)|**2025-03-17**|null|
+|**2025-03-17**|**3DAxisPrompt: Promoting the 3D Grounding and Reasoning in GPT-4o**|Dingning Liu et.al.|[2503.13185v1](http://arxiv.org/abs/2503.13185v1)|**2025-03-17**|null|
+|**2025-03-17**|**DeGauss: Dynamic-Static Decomposition with Gaussian Splatting for Distractor-free 3D Reconstruction**|Rui Wang et.al.|[2503.13176v1](http://arxiv.org/abs/2503.13176v1)|**2025-03-17**|null|
+|**2025-03-17**|**Error analysis of the Strang splitting for the 3D semilinear wave equation with finite-energy data**|Maximilian Ruff et.al.|[2503.13126v1](http://arxiv.org/abs/2503.13126v1)|**2025-03-17**|null|
+|**2025-03-17**|**3D Human Interaction Generation: A Survey**|Siyuan Fan et.al.|[2503.13120v1](http://arxiv.org/abs/2503.13120v1)|**2025-03-17**|null|
+|**2025-03-17**|**MM-Spatial: Exploring 3D Spatial Understanding in Multimodal LLMs**|Erik Daxberger et.al.|[2503.13111v1](http://arxiv.org/abs/2503.13111v1)|**2025-03-17**|null|
+|**2025-03-17**|**Gaussian On-the-Fly Splatting: A Progressive Framework for Robust Near Real-Time 3DGS Optimization**|Yiwei Xu et.al.|[2503.13086v1](http://arxiv.org/abs/2503.13086v1)|**2025-03-17**|null|
+|**2025-03-17**|**Beyond Role-Based Surgical Domain Modeling: Generalizable Re-Identification in the Operating Room**|Tony Danjun Wang et.al.|[2503.13028v1](http://arxiv.org/abs/2503.13028v1)|**2025-03-17**|null|
+|**2025-03-17**|**PoseSyn: Synthesizing Diverse 3D Pose Data from In-the-Wild 2D Data**|ChangHee Yang et.al.|[2503.13025v1](http://arxiv.org/abs/2503.13025v1)|**2025-03-17**|null|
+|**2025-03-17**|**TFDM: Time-Variant Frequency-Based Point Cloud Diffusion with Mamba**|Jiaxu Liu et.al.|[2503.13004v1](http://arxiv.org/abs/2503.13004v1)|**2025-03-17**|null|
+|**2025-03-17**|**SparseAlign: A Fully Sparse Framework for Cooperative Object Detection**|Yunshuang Yuan et.al.|[2503.12982v1](http://arxiv.org/abs/2503.12982v1)|**2025-03-17**|null|
+|**2025-03-17**|**Exploring 3D Activity Reasoning and Planning: From Implicit Human Intentions to Route-Aware Planning**|Xueying Jiang et.al.|[2503.12974v1](http://arxiv.org/abs/2503.12974v1)|**2025-03-17**|null|
+|**2025-03-17**|**OptiPMB: Enhancing 3D Multi-Object Tracking with Optimized Poisson Multi-Bernoulli Filtering**|Guanhua Ding et.al.|[2503.12968v1](http://arxiv.org/abs/2503.12968v1)|**2025-03-17**|null|
+|**2025-03-17**|**Unlock Pose Diversity: Accurate and Efficient Implicit Keypoint-based Spatiotemporal Diffusion for Audio-driven Talking Portrait**|Chaolong Yang et.al.|[2503.12963v1](http://arxiv.org/abs/2503.12963v1)|**2025-03-17**|null|
+|**2025-03-17**|**HIS-GPT: Towards 3D Human-In-Scene Multimodal Understanding**|Jiahe Zhao et.al.|[2503.12955v1](http://arxiv.org/abs/2503.12955v1)|**2025-03-17**|null|
