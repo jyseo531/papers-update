@@ -2,33 +2,33 @@
 ### Multi-modal
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-17**|**VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning**|Ye Liu et.al.|[2503.13444v1](http://arxiv.org/abs/2503.13444v1)|**2025-03-17**|null|
-|**2025-03-17**|**MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research**|James Burgess et.al.|[2503.13399v1](http://arxiv.org/abs/2503.13399v1)|**2025-03-17**|null|
-|**2025-03-17**|**Cream of the Crop: Harvesting Rich, Scalable and Transferable Multi-Modal Data for Instruction Fine-Tuning**|Mengyao Lyu et.al.|[2503.13383v1](http://arxiv.org/abs/2503.13383v1)|**2025-03-17**|null|
-|**2025-03-17**|**Mitigating Visual Forgetting via Take-along Visual Conditioning for Multi-modal Long CoT Reasoning**|Hai-Long Sun et.al.|[2503.13360v1](http://arxiv.org/abs/2503.13360v1)|**2025-03-17**|null|
-|**2025-03-17**|**ProDiF: Protecting Domain-Invariant Features to Secure Pre-Trained Models Against Extraction**|Tong Zhou et.al.|[2503.13224v1](http://arxiv.org/abs/2503.13224v1)|**2025-03-17**|null|
-|**2025-03-17**|**MedLoRD: A Medical Low-Resource Diffusion Model for High-Resolution 3D CT Image Synthesis**|Marvin Seyfarth et.al.|[2503.13211v1](http://arxiv.org/abs/2503.13211v1)|**2025-03-17**|null|
-|**2025-03-17**|**Triad: Empowering LMM-based Anomaly Detection with Vision Expert-guided Visual Tokenizer and Manufacturing Process**|Yuanze Li et.al.|[2503.13184v1](http://arxiv.org/abs/2503.13184v1)|**2025-03-17**|null|
-|**2025-03-17**|**Examining the Effects of Immersive and Non-Immersive Presenter Modalities on Engagement and Social Interaction in Co-located Augmented Presentations**|Matt Gottsacker et.al.|[2503.13174v1](http://arxiv.org/abs/2503.13174v1)|**2025-03-17**|null|
-|**2025-03-17**|**Lifting the Veil on Visual Information Flow in MLLMs: Unlocking Pathways to Faster Inference**|Hao Yin et.al.|[2503.13108v1](http://arxiv.org/abs/2503.13108v1)|**2025-03-17**|[link](https://github.com/ustc-hyin/HiMAP)|
-|**2025-03-17**|**ClearSight: Visual Signal Enhancement for Object Hallucination Mitigation in Multimodal Large language Models**|Hao Yin et.al.|[2503.13107v1](http://arxiv.org/abs/2503.13107v1)|**2025-03-17**|[link](https://github.com/ustc-hyin/ClearSight)|
-|**2025-03-17**|**Super-resolution Radial Fluctuations Enables Polarization-resolved Nonlinear Optical Nanoscopy**|MacAulay Harvey et.al.|[2503.13106v1](http://arxiv.org/abs/2503.13106v1)|**2025-03-17**|null|
-|**2025-03-17**|**Combined impact of grey and superficial white matter abnormalities: implications for epilepsy surgery**|Csaba Kozma et.al.|[2503.13097v1](http://arxiv.org/abs/2503.13097v1)|**2025-03-17**|null|
-|**2025-03-17**|**DehazeMamba: SAR-guided Optical Remote Sensing Image Dehazing with Adaptive State Space Model**|Zhicheng Zhao et.al.|[2503.13073v1](http://arxiv.org/abs/2503.13073v1)|**2025-03-17**|null|
-|**2025-03-17**|**Mitigating Cross-Modal Distraction and Ensuring Geometric Feasibility via Affordance-Guided, Self-Consistent MLLMs for Food Preparation Task Planning**|Yu-Hong Shen et.al.|[2503.13055v1](http://arxiv.org/abs/2503.13055v1)|**2025-03-17**|null|
-|**2025-03-17**|**Large-area Tomographic Tactile Skin with Air Pressure Sensing for Improved Force Estimation**|Haofeng Chen et.al.|[2503.13036v1](http://arxiv.org/abs/2503.13036v1)|**2025-03-17**|null|
-|**2025-03-17**|**Concept-as-Tree: Synthetic Data is All You Need for VLM Personalization**|Ruichuan An et.al.|[2503.12999v1](http://arxiv.org/abs/2503.12999v1)|**2025-03-17**|null|
-|**2025-03-17**|**Conversation-Based Multimodal Abuse Detection Through Text and Graph Embeddings**|Noé Cecillon et.al.|[2503.12994v1](http://arxiv.org/abs/2503.12994v1)|**2025-03-17**|null|
-|**2025-03-17**|**Aligning Vision to Language: Text-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning**|Junming Liu et.al.|[2503.12972v1](http://arxiv.org/abs/2503.12972v1)|**2025-03-17**|null|
-|**2025-03-17**|**Normative implications**|Andrea De Domenico et.al.|[2503.12965v1](http://arxiv.org/abs/2503.12965v1)|**2025-03-17**|null|
-|**2025-03-17**|**MMLNB: Multi-Modal Learning for Neuroblastoma Subtyping Classification Assisted with Textual Description Generation**|Huangwei Chen et.al.|[2503.12927v1](http://arxiv.org/abs/2503.12927v1)|**2025-03-17**|null|
-|**2025-03-17**|**Efficient Multimodal 3D Object Detector via Instance-Level Contrastive Distillation**|Zhuoqun Su et.al.|[2503.12914v1](http://arxiv.org/abs/2503.12914v1)|**2025-03-17**|null|
-|**2025-03-17**|**Pose as a Modality: A Psychology-Inspired Network for Personality Recognition with a New Multimodal Dataset**|Bin Tang et.al.|[2503.12912v1](http://arxiv.org/abs/2503.12912v1)|**2025-03-17**|null|
-|**2025-03-17**|**UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks**|Yuanbin Qian et.al.|[2503.12905v1](http://arxiv.org/abs/2503.12905v1)|**2025-03-17**|null|
-|**2025-03-17**|**SCAP: Transductive Test-Time Adaptation via Supportive Clique-based Attribute Prompting**|Chenyu Zhang et.al.|[2503.12866v1](http://arxiv.org/abs/2503.12866v1)|**2025-03-17**|null|
-|**2025-03-17**|**Robust Audio-Visual Segmentation via Audio-Guided Visual Convergent Alignment**|Chen Liu et.al.|[2503.12847v1](http://arxiv.org/abs/2503.12847v1)|**2025-03-17**|null|
-|**2025-03-17**|**Towards Scalable Foundation Model for Multi-modal and Hyperspectral Geospatial Data**|Haozhe Si et.al.|[2503.12843v2](http://arxiv.org/abs/2503.12843v2)|**2025-03-18**|null|
-|**2025-03-17**|**MT-PCR: Leveraging Modality Transformation for Large-Scale Point Cloud Registration with Limited Overlap**|Yilong Wu et.al.|[2503.12833v1](http://arxiv.org/abs/2503.12833v1)|**2025-03-17**|null|
-|**2025-03-17**|**NuPlanQA: A Large-Scale Dataset and Benchmark for Multi-View Driving Scene Understanding in Multi-Modal Large Language Models**|Sung-Yeon Park et.al.|[2503.12772v1](http://arxiv.org/abs/2503.12772v1)|**2025-03-17**|null|
-|**2025-03-17**|**ViSpeak: Visual Instruction Feedback in Streaming Videos**|Shenghao Fu et.al.|[2503.12769v1](http://arxiv.org/abs/2503.12769v1)|**2025-03-17**|null|
-|**2025-03-17**|**NeckCheck: Predicting Neck Strain using Head Tracker Sensors**|Bhawana Chhaglani et.al.|[2503.12762v1](http://arxiv.org/abs/2503.12762v1)|**2025-03-17**|null|
+|**2025-03-18**|**The Power of Context: How Multimodality Improves Image Super-Resolution**|Kangfu Mei et.al.|[2503.14503v1](http://arxiv.org/abs/2503.14503v1)|**2025-03-18**|null|
+|**2025-03-18**|**Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control**|NVIDIA et.al.|[2503.14492v1](http://arxiv.org/abs/2503.14492v1)|**2025-03-18**|null|
+|**2025-03-18**|**Weakly Supervised Spatial Implicit Neural Representation Learning for 3D MRI-Ultrasound Deformable Image Registration in HDR Prostate Brachytherapy**|Jing Wang et.al.|[2503.14395v1](http://arxiv.org/abs/2503.14395v1)|**2025-03-18**|null|
+|**2025-03-18**|**Advancing Medical Representation Learning Through High-Quality Data**|Negin Baghbanzadeh et.al.|[2503.14377v1](http://arxiv.org/abs/2503.14377v1)|**2025-03-18**|null|
+|**2025-03-18**|**ImViD: Immersive Volumetric Videos for Enhanced VR Engagement**|Zhengxian Yang et.al.|[2503.14359v1](http://arxiv.org/abs/2503.14359v1)|**2025-03-18**|null|
+|**2025-03-18**|**RoMedFormer: A Rotary-Embedding Transformer Foundation Model for 3D Genito-Pelvic Structure Segmentation in MRI and CT**|Yuheng Li et.al.|[2503.14304v1](http://arxiv.org/abs/2503.14304v1)|**2025-03-18**|null|
+|**2025-03-18**|**Recursive Self-Similarity in Deep Weight Spaces of Neural Architectures: A Fractal and Coarse Geometry Perspective**|Ambarish Moharil et.al.|[2503.14298v1](http://arxiv.org/abs/2503.14298v1)|**2025-03-18**|null|
+|**2025-03-18**|**How does Bike Absence Influence Mode Shifts Among Dockless Bike-Sharing Users? Evidence From Nanjing, China**|Hongjun Cui et.al.|[2503.14265v1](http://arxiv.org/abs/2503.14265v1)|**2025-03-18**|null|
+|**2025-03-18**|**Predicting Cardiopulmonary Exercise Testing Outcomes in Congenital Heart Disease Through Multi-modal Data Integration and Geometric Learning**|Muhammet Alkan et.al.|[2503.14239v1](http://arxiv.org/abs/2503.14239v1)|**2025-03-18**|null|
+|**2025-03-18**|**Towards Harmless Multimodal Assistants with Blind Preference Optimization**|Yongqi Li et.al.|[2503.14189v1](http://arxiv.org/abs/2503.14189v1)|**2025-03-18**|null|
+|**2025-03-18**|**AdaST: Dynamically Adapting Encoder States in the Decoder for End-to-End Speech-to-Text Translation**|Wuwei Huang et.al.|[2503.14185v1](http://arxiv.org/abs/2503.14185v1)|**2025-03-18**|null|
+|**2025-03-18**|**EIAD: Explainable Industrial Anomaly Detection Via Multi-Modal Large Language Models**|Zongyun Zhang et.al.|[2503.14162v1](http://arxiv.org/abs/2503.14162v1)|**2025-03-18**|null|
+|**2025-03-18**|**Marten: Visual Question Answering with Mask Generation for Multi-modal Document Understanding**|Zining Wang et.al.|[2503.14140v1](http://arxiv.org/abs/2503.14140v1)|**2025-03-18**|null|
+|**2025-03-18**|**Deep Reinforcement Learning-based Video-Haptic Radio Resource Slicing in Tactile Internet**|Georgios Kokkinis et.al.|[2503.14066v1](http://arxiv.org/abs/2503.14066v1)|**2025-03-18**|null|
+|**2025-03-18**|**MAG: Multi-Modal Aligned Autoregressive Co-Speech Gesture Generation without Vector Quantization**|Binjie Liu et.al.|[2503.14040v1](http://arxiv.org/abs/2503.14040v1)|**2025-03-18**|null|
+|**2025-03-18**|**Synthetic Data Generation Using Large Language Models: Advances in Text and Code**|Mihai Nadas et.al.|[2503.14023v1](http://arxiv.org/abs/2503.14023v1)|**2025-03-18**|null|
+|**2025-03-18**|**MP-GUI: Modality Perception with MLLMs for GUI Understanding**|Ziwei Wang et.al.|[2503.14021v1](http://arxiv.org/abs/2503.14021v1)|**2025-03-18**|null|
+|**2025-03-18**|**A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**|Huy-Hoang Bui et.al.|[2503.13982v1](http://arxiv.org/abs/2503.13982v1)|**2025-03-18**|null|
+|**2025-03-18**|**MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding**|Siwei Han et.al.|[2503.13964v1](http://arxiv.org/abs/2503.13964v1)|**2025-03-18**|null|
+|**2025-03-18**|**Survey of Adversarial Robustness in Multimodal Large Language Models**|Chengze Jiang et.al.|[2503.13962v1](http://arxiv.org/abs/2503.13962v1)|**2025-03-18**|null|
+|**2025-03-18**|**FrustumFusionNets: A Three-Dimensional Object Detection Network Based on Tractor Road Scene**|Lili Yang et.al.|[2503.13951v1](http://arxiv.org/abs/2503.13951v1)|**2025-03-18**|null|
+|**2025-03-18**|**Multi-Modal Self-Supervised Semantic Communication**|Hang Zhao et.al.|[2503.13940v1](http://arxiv.org/abs/2503.13940v1)|**2025-03-18**|null|
+|**2025-03-18**|**Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models**|Yuxiang Lai et.al.|[2503.13939v1](http://arxiv.org/abs/2503.13939v1)|**2025-03-18**|null|
+|**2025-03-18**|**Evaluating Global Geo-alignment for Precision Learned Autonomous Vehicle Localization using Aerial Data**|Yi Yang et.al.|[2503.13896v1](http://arxiv.org/abs/2503.13896v1)|**2025-03-18**|null|
+|**2025-03-18**|**HySurvPred: Multimodal Hyperbolic Embedding with Angle-Aware Hierarchical Contrastive Learning and Uncertainty Constraints for Survival Prediction**|Jiaqi Yang et.al.|[2503.13862v1](http://arxiv.org/abs/2503.13862v1)|**2025-03-18**|null|
+|**2025-03-18**|**SALAD: Skeleton-aware Latent Diffusion for Text-driven Motion Generation and Editing**|Seokhyeon Hong et.al.|[2503.13836v1](http://arxiv.org/abs/2503.13836v1)|**2025-03-18**|null|
+|**2025-03-18**|**See-Saw Modality Balance: See Gradient, and Sew Impaired Vision-Language Balance to Mitigate Dominant Modality Bias**|JuneHyoung Kwon et.al.|[2503.13834v1](http://arxiv.org/abs/2503.13834v1)|**2025-03-18**|null|
+|**2025-03-18**|**Organ-aware Multi-scale Medical Image Segmentation Using Text Prompt Engineering**|Wenjie Zhang et.al.|[2503.13806v1](http://arxiv.org/abs/2503.13806v1)|**2025-03-18**|null|
+|**2025-03-17**|**Towards Scalable Modeling of Compressed Videos for Efficient Action Recognition**|Shristi Das Biswas et.al.|[2503.13724v1](http://arxiv.org/abs/2503.13724v1)|**2025-03-17**|null|
+|**2025-03-17**|**Resonance-free Fabry-Pérot cavity via unrestricted orbital-angular-momentum ladder-up**|Shaghayegh Yaraghi et.al.|[2503.13712v1](http://arxiv.org/abs/2503.13712v1)|**2025-03-17**|null|

@@ -2,7 +2,13 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-18**|**Consumer-grade EEG-based Eye Tracking**|Tiago Vasconcelos Afonso et.al.|[2503.14322v1](http://arxiv.org/abs/2503.14322v1)|**2025-03-18**|null|
+|**2025-03-18**|**PC-Talk: Precise Facial Animation Control for Audio-Driven Talking Face Generation**|Baiqin Wang et.al.|[2503.14295v1](http://arxiv.org/abs/2503.14295v1)|**2025-03-18**|null|
+|**2025-03-18**|**Opportunities and Challenges in Unsupervised Learning: The Case of Aqueous Electrolyte Solutions**|Giulia Sormani et.al.|[2503.14197v1](http://arxiv.org/abs/2503.14197v1)|**2025-03-18**|null|
+|**2025-03-18**|**A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**|Huy-Hoang Bui et.al.|[2503.13982v1](http://arxiv.org/abs/2503.13982v1)|**2025-03-18**|null|
+|**2025-03-17**|**Neural Edge Histogram Descriptors for Underwater Acoustic Target Recognition**|Atharva Agashe et.al.|[2503.13763v1](http://arxiv.org/abs/2503.13763v1)|**2025-03-17**|null|
 |**2025-03-17**|**STEP: Simultaneous Tracking and Estimation of Pose for Animals and Humans**|Shashikant Verma et.al.|[2503.13344v1](http://arxiv.org/abs/2503.13344v1)|**2025-03-17**|null|
+|**2025-03-17**|**ASMR: Adaptive Skeleton-Mesh Rigging and Skinning via 2D Generative Prior**|Seokhyeon Hong et.al.|[2503.13579v1](http://arxiv.org/abs/2503.13579v1)|**2025-03-17**|null|
 |**2025-03-17**|**Free-form language-based robotic reasoning and grasping**|Runyu Jiao et.al.|[2503.13082v1](http://arxiv.org/abs/2503.13082v1)|**2025-03-17**|null|
 |**2025-03-17**|**Deep Neural Network-Based Voltage Prediction for Alkali-Metal-Ion Battery Materials**|Sk Mujaffar Hossain et.al.|[2503.13067v1](http://arxiv.org/abs/2503.13067v1)|**2025-03-17**|null|
 |**2025-03-17**|**Uncertainty-Aware Knowledge Distillation for Compact and Efficient 6DoF Pose Estimation**|Nassim Ali Ousalah et.al.|[2503.13053v1](http://arxiv.org/abs/2503.13053v1)|**2025-03-17**|null|
@@ -26,9 +32,3 @@
 |**2025-03-12**|**New perspectives on Density-Matrix Embedding Theory**|Alicia Negre et.al.|[2503.09881v1](http://arxiv.org/abs/2503.09881v1)|**2025-03-12**|null|
 |**2025-03-12**|**Leveraging Semantic Attribute Binding for Free-Lunch Color Control in Diffusion Models**|Héctor Laria et.al.|[2503.09864v1](http://arxiv.org/abs/2503.09864v1)|**2025-03-12**|null|
 |**2025-03-12**|**Bidirectional Learned Facial Animation Codec for Low Bitrate Talking Head Videos**|Riku Takahashi et.al.|[2503.09787v1](http://arxiv.org/abs/2503.09787v1)|**2025-03-12**|null|
-|**2025-03-12**|**Better Together: Unified Motion Capture and 3D Avatar Reconstruction**|Arthur Moreau et.al.|[2503.09293v1](http://arxiv.org/abs/2503.09293v1)|**2025-03-12**|null|
-|**2025-03-12**|**Natural Humanoid Robot Locomotion with Generative Motion Prior**|Haodong Zhang et.al.|[2503.09015v1](http://arxiv.org/abs/2503.09015v1)|**2025-03-12**|null|
-|**2025-03-11**|**PromptGAR: Flexible Promptive Group Activity Recognition**|Zhangyu Jin et.al.|[2503.08933v1](http://arxiv.org/abs/2503.08933v1)|**2025-03-11**|null|
-|**2025-03-11**|**Keypoint Semantic Integration for Improved Feature Matching in Outdoor Agricultural Environments**|Rajitha de Silva et.al.|[2503.08843v1](http://arxiv.org/abs/2503.08843v1)|**2025-03-11**|null|
-|**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673v1](http://arxiv.org/abs/2503.08673v1)|**2025-03-11**|null|
-|**2025-03-11**|**MEAT: Multiview Diffusion Model for Human Generation on Megapixels with Mesh Attention**|Yuhan Wang et.al.|[2503.08664v1](http://arxiv.org/abs/2503.08664v1)|**2025-03-11**|[link](https://github.com/johannwyh/meat)|
