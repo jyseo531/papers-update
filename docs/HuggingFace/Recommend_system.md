@@ -233,6 +233,7 @@ Updated on 2025-03-19
 | 301 | 9 | speechbrain/asr-conformer-largescaleasrAutomatic | Updated24 days ago | [Link](https://huggingface.co/speechbrain/asr-conformer-largescaleasr) |
 | 665k | 8 | nvidia/parakeet-rnnt-0 | Updated7 days ago | [Link](https://huggingface.co/nvidia/parakeet-rnnt-0.6b) |
 | 206k | 8 | Yehor/w2v-xls-r-ukAutomatic | Updated6 days ago | [Link](https://huggingface.co/Yehor/w2v-xls-r-uk) |
+| 188 | 7 | efwkjn/whisper-ja-anime-v0 | UpdatedDec 16, 2024 | [Link](https://huggingface.co/efwkjn/whisper-ja-anime-v0.1) |
 | 123 | 6 | onnx-community/whisper-large-v3-turbo_timestampedAutomatic | UpdatedOct 8, 2024 | [Link](https://huggingface.co/onnx-community/whisper-large-v3-turbo_timestamped) |
 | 117 | 6 | selimc/whisper-large-v3-turbo-turkishAutomatic | Updatedabout 5 hours ago | [Link](https://huggingface.co/selimc/whisper-large-v3-turbo-turkish) |
 | 25 | 5 | DrishtiSharma/whisper-large-v2-hausaAutomatic | UpdatedDec 21, 2022 | [Link](https://huggingface.co/DrishtiSharma/whisper-large-v2-hausa) |
@@ -1398,6 +1399,7 @@ Updated on 2025-03-19
 | 207k |  | intfloat/e5-small-v2Sentence | Updated29 days ago | [Link](https://huggingface.co/intfloat/e5-small-v2) |
 | 4 | Unknown | AITeamVN/Vietnamese_EmbeddingSentence | Updated4 minutes ago | [Link](https://huggingface.co/AITeamVN/Vietnamese_Embedding) |
 | 403k |  | intfloat/e5-base-v2Sentence | Updatedabout 1 month ago | [Link](https://huggingface.co/intfloat/e5-base-v2) |
+| 61.7k |  | TaylorAI/gte-tinySentence | UpdatedOct 7, 2023 | [Link](https://huggingface.co/TaylorAI/gte-tiny) |
 
 ## Summarization
 
