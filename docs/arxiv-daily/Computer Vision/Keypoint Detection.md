@@ -19,7 +19,7 @@
 |**2025-03-14**|**NF-SLAM: Effective, Normalizing Flow-supported Neural Field representations for object-level visual SLAM in automotive applications**|Li Cui et.al.|[2503.11199v1](http://arxiv.org/abs/2503.11199v1)|**2025-03-14**|null|
 |**2025-03-13**|**Clothes-Changing Person Re-identification Based On Skeleton Dynamics**|Asaf Joseph et.al.|[2503.10759v1](http://arxiv.org/abs/2503.10759v1)|**2025-03-13**|null|
 |**2025-03-13**|**KUDA: Keypoints to Unify Dynamics Learning and Visual Prompting for Open-Vocabulary Robotic Manipulation**|Zixian Liu et.al.|[2503.10546v1](http://arxiv.org/abs/2503.10546v1)|**2025-03-13**|null|
-|**2025-03-13**|**Consistent multi-animal pose estimation in cattle using dynamic Kalman filter based tracking**|Maarten Perneel et.al.|[2503.10450v1](http://arxiv.org/abs/2503.10450v1)|**2025-03-13**|null|
+|**2025-03-13**|**Consistent multi-animal pose estimation in cattle using dynamic Kalman filter based tracking**|Maarten Perneel et.al.|[2503.10450v1](http://arxiv.org/abs/2503.10450v1)|**2025-03-13**|[link](https://github.com/mperneel/Kantool)|
 |**2025-03-13**|**HSEmotion Team at ABAW-8 Competition: Audiovisual Ambivalence/Hesitancy, Emotional Mimicry Intensity and Facial Expression Recognition**|Andrey V. Savchenko et.al.|[2503.10399v1](http://arxiv.org/abs/2503.10399v1)|**2025-03-13**|null|
 |**2025-03-13**|**SVIP: Semantically Contextualized Visual Patches for Zero-Shot Learning**|Zhi Chen et.al.|[2503.10252v1](http://arxiv.org/abs/2503.10252v1)|**2025-03-13**|null|
 |**2025-03-13**|**Uncertainty-aware Long-tailed Weights Model the Utility of Pseudo-labels for Semi-supervised Learning**|Jiaqi Wu et.al.|[2503.09974v1](http://arxiv.org/abs/2503.09974v1)|**2025-03-13**|null|

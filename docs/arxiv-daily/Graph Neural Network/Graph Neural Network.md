@@ -21,7 +21,7 @@
 |**2025-03-17**|**One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation**|Daniil Selikhanovych et.al.|[2503.13358v1](http://arxiv.org/abs/2503.13358v1)|**2025-03-17**|null|
 |**2025-03-17**|**Agents Play Thousands of 3D Video Games**|Zhongwen Xu et.al.|[2503.13356v1](http://arxiv.org/abs/2503.13356v1)|**2025-03-17**|null|
 |**2025-03-17**|**Parameter-free structure-texture image decomposition by unrolling**|Laura Girometti et.al.|[2503.13354v1](http://arxiv.org/abs/2503.13354v1)|**2025-03-17**|null|
-|**2025-03-17**|**Strain Problems got you in a Twist? Try StrainRelief: A Quantum-Accurate Tool for Ligand Strain Calculations**|Ewan R. S. Wallace et.al.|[2503.13352v1](http://arxiv.org/abs/2503.13352v1)|**2025-03-17**|[link](https://github.com/prescient-design/StrainRelief)|
+|**2025-03-17**|**Strain Problems got you in a Twist? Try StrainRelief: A Quantum-Accurate Tool for Ligand Strain Calculations**|Ewan R. S. Wallace et.al.|[2503.13352v1](http://arxiv.org/abs/2503.13352v1)|**2025-03-17**|null|
 |**2025-03-17**|**Valid Text-to-SQL Generation with Unification-based DeepStochLog**|Ying Jiao et.al.|[2503.13342v1](http://arxiv.org/abs/2503.13342v1)|**2025-03-17**|[link](https://github.com/ML-KULeuven/deepstochlog-lm)|
 |**2025-03-17**|**The Scarf complex of squarefree powers, symbolic powers of edge ideals, and cover ideals of graphs**|Trung Chau et.al.|[2503.13337v1](http://arxiv.org/abs/2503.13337v1)|**2025-03-17**|null|
 |**2025-03-17**|**Parameter Invariance Analysis of Moment Equations Using Dulmage-Mendelsohn Decomposition**|Akito Igarashi et.al.|[2503.13336v1](http://arxiv.org/abs/2503.13336v1)|**2025-03-17**|null|

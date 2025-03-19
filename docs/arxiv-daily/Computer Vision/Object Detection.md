@@ -17,7 +17,7 @@
 |**2025-03-17**|**STEP: Simultaneous Tracking and Estimation of Pose for Animals and Humans**|Shashikant Verma et.al.|[2503.13344v1](http://arxiv.org/abs/2503.13344v1)|**2025-03-17**|null|
 |**2025-03-17**|**Solar System objects observed with TESS -- Early Data Release 2: I. Spin-shape recovery potential of multi-epoch TESS observations**|Nóra Takács et.al.|[2503.13332v1](http://arxiv.org/abs/2503.13332v1)|**2025-03-17**|null|
 |**2025-03-17**|**UniHOPE: A Unified Approach for Hand-Only and Hand-Object Pose Estimation**|Yinqiao Wang et.al.|[2503.13303v1](http://arxiv.org/abs/2503.13303v1)|**2025-03-17**|null|
-|**2025-03-17**|**Discovery of a Glueball-like particle X(2370) at BESIII**|Yanping Huang et.al.|[2503.13286v1](http://arxiv.org/abs/2503.13286v1)|**2025-03-17**|null|
+|**2025-03-17**|**Discovery of a Glueball-like particle X(2370) at BESIII**|Yanping Huang et.al.|[2503.13286v2](http://arxiv.org/abs/2503.13286v2)|**2025-03-18**|null|
 |**2025-03-17**|**Mass-Dependent Radial Distribution of Single and Binary Stars in the Pleiades and their Dynamical Implications**|Rongrong Liu et.al.|[2503.13280v1](http://arxiv.org/abs/2503.13280v1)|**2025-03-17**|null|
 |**2025-03-17**|**Artificial Intelligence-Driven Prognostic Classification of COVID-19 Using Chest X-rays: A Deep Learning Approach**|Alfred Simbun et.al.|[2503.13277v1](http://arxiv.org/abs/2503.13277v1)|**2025-03-17**|null|
 |**2025-03-17**|**Don't Judge Before You CLIP: A Unified Approach for Perceptual Tasks**|Amit Zalcher et.al.|[2503.13260v1](http://arxiv.org/abs/2503.13260v1)|**2025-03-17**|null|

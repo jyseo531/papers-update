@@ -24,7 +24,7 @@
 |**2025-03-17**|**Correlation uncertainty: a decision-theoretic approach**|Gerrit Bauch et.al.|[2503.13416v1](http://arxiv.org/abs/2503.13416v1)|**2025-03-17**|null|
 |**2025-03-17**|**A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**|Weiqiang Jin et.al.|[2503.13415v1](http://arxiv.org/abs/2503.13415v1)|**2025-03-17**|null|
 |**2025-03-17**|**Reward Adaptation Via Q-Manipulation**|Kevin Vora et.al.|[2503.13414v1](http://arxiv.org/abs/2503.13414v1)|**2025-03-17**|null|
-|**2025-03-17**|**DLPO: Towards a Robust, Efficient, and Generalizable Prompt Optimization Framework from a Deep-Learning Perspective**|Dengyun Peng et.al.|[2503.13413v1](http://arxiv.org/abs/2503.13413v1)|**2025-03-17**|null|
+|**2025-03-17**|**DLPO: Towards a Robust, Efficient, and Generalizable Prompt Optimization Framework from a Deep-Learning Perspective**|Dengyun Peng et.al.|[2503.13413v2](http://arxiv.org/abs/2503.13413v2)|**2025-03-18**|null|
 |**2025-03-17**|**Convex elements and deep level Deligne-Lusztig varieties**|Alexander B. Ivanov et.al.|[2503.13412v1](http://arxiv.org/abs/2503.13412v1)|**2025-03-17**|null|
 |**2025-03-17**|**A $(1+ε)$-Approximation for Ultrametric Embedding in Subquadratic Time**|Gabriel Bathie et.al.|[2503.13409v1](http://arxiv.org/abs/2503.13409v1)|**2025-03-17**|null|
 |**2025-03-17**|**Toward Generative 6G Simulation: An Experimental Multi-Agent LLM and ns-3 Integration**|Farhad Rezazadeh et.al.|[2503.13402v1](http://arxiv.org/abs/2503.13402v1)|**2025-03-17**|null|

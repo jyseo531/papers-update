@@ -7,7 +7,7 @@
 |**2025-03-17**|**DPC: Dual-Prompt Collaboration for Tuning Vision-Language Models**|Haoyang Li et.al.|[2503.13443v1](http://arxiv.org/abs/2503.13443v1)|**2025-03-17**|null|
 |**2025-03-17**|**Humanoid Policy ~ Human Policy**|Ri-Zhao Qiu et.al.|[2503.13441v1](http://arxiv.org/abs/2503.13441v1)|**2025-03-17**|null|
 |**2025-03-17**|**Amodal3R: Amodal 3D Reconstruction from Occluded 2D Images**|Tianhao Wu et.al.|[2503.13439v1](http://arxiv.org/abs/2503.13439v1)|**2025-03-17**|null|
-|**2025-03-17**|**MaTVLM: Hybrid Mamba-Transformer for Efficient Vision-Language Modeling**|Yingyue Li et.al.|[2503.13440v1](http://arxiv.org/abs/2503.13440v1)|**2025-03-17**|[link](https://github.com/hustvl/MaTVLM)|
+|**2025-03-17**|**MaTVLM: Hybrid Mamba-Transformer for Efficient Vision-Language Modeling**|Yingyue Li et.al.|[2503.13440v2](http://arxiv.org/abs/2503.13440v2)|**2025-03-18**|[link](https://github.com/hustvl/MaTVLM)|
 |**2025-03-17**|**Unified Autoregressive Visual Generation and Understanding with Continuous Tokens**|Lijie Fan et.al.|[2503.13436v1](http://arxiv.org/abs/2503.13436v1)|**2025-03-17**|null|
 |**2025-03-17**|**WideRange4D: Enabling High-Quality 4D Reconstruction with Wide-Range Movements and Scenes**|Ling Yang et.al.|[2503.13435v1](http://arxiv.org/abs/2503.13435v1)|**2025-03-17**|null|
 |**2025-03-17**|**BlobCtrl: A Unified and Flexible Framework for Element-level Image Generation and Editing**|Yaowei Li et.al.|[2503.13434v1](http://arxiv.org/abs/2503.13434v1)|**2025-03-17**|null|
@@ -20,7 +20,7 @@
 |**2025-03-17**|**SuperBPE: Space Travel for Language Models**|Alisa Liu et.al.|[2503.13423v1](http://arxiv.org/abs/2503.13423v1)|**2025-03-17**|null|
 |**2025-03-17**|**U2AD: Uncertainty-based Unsupervised Anomaly Detection Framework for Detecting T2 Hyperintensity in MRI Spinal Cord**|Qi Zhang et.al.|[2503.13400v1](http://arxiv.org/abs/2503.13400v1)|**2025-03-17**|null|
 |**2025-03-17**|**MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research**|James Burgess et.al.|[2503.13399v1](http://arxiv.org/abs/2503.13399v1)|**2025-03-17**|null|
-|**2025-03-17**|**A mathematical model for a universal digital quantum computer with an application to the Grover-Rudolph algorithm**|Antonio Falcó et.al.|[2503.13388v1](http://arxiv.org/abs/2503.13388v1)|**2025-03-17**|null|
+|**2025-03-17**|**A mathematical model for a universal digital quantum computer with an application to the Grover-Rudolph algorithm**|Antonio Falcó et.al.|[2503.13388v2](http://arxiv.org/abs/2503.13388v2)|**2025-03-18**|null|
 |**2025-03-17**|**Scale Efficient Training for Large Datasets**|Qing Zhou et.al.|[2503.13385v1](http://arxiv.org/abs/2503.13385v1)|**2025-03-17**|null|
 |**2025-03-17**|**Cream of the Crop: Harvesting Rich, Scalable and Transferable Multi-Modal Data for Instruction Fine-Tuning**|Mengyao Lyu et.al.|[2503.13383v1](http://arxiv.org/abs/2503.13383v1)|**2025-03-17**|null|
 |**2025-03-17**|**TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM**|Ye Wang et.al.|[2503.13377v1](http://arxiv.org/abs/2503.13377v1)|**2025-03-17**|null|

@@ -19,7 +19,7 @@
 |**2025-03-17**|**Joint Antenna Position and Transmit Power Optimization for Pinching Antenna-Assisted ISAC Systems**|Yunhui Qin et.al.|[2503.12872v1](http://arxiv.org/abs/2503.12872v1)|**2025-03-17**|null|
 |**2025-03-17**|**Enhancing LLM Reasoning with Iterative DPO: A Comprehensive Empirical Investigation**|Songjun Tu et.al.|[2503.12854v1](http://arxiv.org/abs/2503.12854v1)|**2025-03-17**|null|
 |**2025-03-17**|**Cross-Layer Security for Semantic Communications: Metrics and Optimization**|Lingyi Wang et.al.|[2503.12818v1](http://arxiv.org/abs/2503.12818v1)|**2025-03-17**|null|
-|**2025-03-17**|**DeepPerception: Advancing R1-like Cognitive Visual Perception in MLLMs for Knowledge-Intensive Visual Grounding**|Xinyu Ma et.al.|[2503.12797v1](http://arxiv.org/abs/2503.12797v1)|**2025-03-17**|null|
+|**2025-03-17**|**DeepPerception: Advancing R1-like Cognitive Visual Perception in MLLMs for Knowledge-Intensive Visual Grounding**|Xinyu Ma et.al.|[2503.12797v2](http://arxiv.org/abs/2503.12797v2)|**2025-03-18**|null|
 |**2025-03-17**|**A Reinforcement Learning-Driven Transformer GAN for Molecular Generation**|Chen Li et.al.|[2503.12796v1](http://arxiv.org/abs/2503.12796v1)|**2025-03-17**|null|
 |**2025-03-17**|**Analyzing sequential activity and travel decisions with interpretable deep inverse reinforcement learning**|Yuebing Liang et.al.|[2503.12761v1](http://arxiv.org/abs/2503.12761v1)|**2025-03-17**|null|
 |**2025-03-17**|**RAG-RL: Advancing Retrieval-Augmented Generation via RL and Curriculum Learning**|Jerry Huang et.al.|[2503.12759v1](http://arxiv.org/abs/2503.12759v1)|**2025-03-17**|null|

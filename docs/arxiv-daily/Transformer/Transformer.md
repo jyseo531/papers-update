@@ -3,12 +3,12 @@
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-17**|**Humanoid Policy ~ Human Policy**|Ri-Zhao Qiu et.al.|[2503.13441v1](http://arxiv.org/abs/2503.13441v1)|**2025-03-17**|null|
-|**2025-03-17**|**MaTVLM: Hybrid Mamba-Transformer for Efficient Vision-Language Modeling**|Yingyue Li et.al.|[2503.13440v1](http://arxiv.org/abs/2503.13440v1)|**2025-03-17**|[link](https://github.com/hustvl/MaTVLM)|
+|**2025-03-17**|**MaTVLM: Hybrid Mamba-Transformer for Efficient Vision-Language Modeling**|Yingyue Li et.al.|[2503.13440v2](http://arxiv.org/abs/2503.13440v2)|**2025-03-18**|[link](https://github.com/hustvl/MaTVLM)|
 |**2025-03-17**|**Measuring In-Context Computation Complexity via Hidden State Prediction**|Vincent Herrmann et.al.|[2503.13431v1](http://arxiv.org/abs/2503.13431v1)|**2025-03-17**|null|
 |**2025-03-17**|**xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference**|Maximilian Beck et.al.|[2503.13427v1](http://arxiv.org/abs/2503.13427v1)|**2025-03-17**|null|
 |**2025-03-17**|**SuperBPE: Space Travel for Language Models**|Alisa Liu et.al.|[2503.13423v1](http://arxiv.org/abs/2503.13423v1)|**2025-03-17**|null|
 |**2025-03-17**|**U2AD: Uncertainty-based Unsupervised Anomaly Detection Framework for Detecting T2 Hyperintensity in MRI Spinal Cord**|Qi Zhang et.al.|[2503.13400v1](http://arxiv.org/abs/2503.13400v1)|**2025-03-17**|null|
-|**2025-03-17**|**A mathematical model for a universal digital quantum computer with an application to the Grover-Rudolph algorithm**|Antonio Falcó et.al.|[2503.13388v1](http://arxiv.org/abs/2503.13388v1)|**2025-03-17**|null|
+|**2025-03-17**|**A mathematical model for a universal digital quantum computer with an application to the Grover-Rudolph algorithm**|Antonio Falcó et.al.|[2503.13388v2](http://arxiv.org/abs/2503.13388v2)|**2025-03-18**|null|
 |**2025-03-17**|**Scale Efficient Training for Large Datasets**|Qing Zhou et.al.|[2503.13385v1](http://arxiv.org/abs/2503.13385v1)|**2025-03-17**|null|
 |**2025-03-17**|**Agents Play Thousands of 3D Video Games**|Zhongwen Xu et.al.|[2503.13356v1](http://arxiv.org/abs/2503.13356v1)|**2025-03-17**|null|
 |**2025-03-17**|**STEP: Simultaneous Tracking and Estimation of Pose for Animals and Humans**|Shashikant Verma et.al.|[2503.13344v1](http://arxiv.org/abs/2503.13344v1)|**2025-03-17**|null|

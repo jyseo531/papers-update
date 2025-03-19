@@ -10,7 +10,7 @@
 |**2025-03-17**|**Humanoid Policy ~ Human Policy**|Ri-Zhao Qiu et.al.|[2503.13441v1](http://arxiv.org/abs/2503.13441v1)|**2025-03-17**|null|
 |**2025-03-17**|**Measuring and unbiasing the BAO shift in the Lyman-Alpha forest with AbacusSummit**|Boryana Hadzhiyska et.al.|[2503.13442v1](http://arxiv.org/abs/2503.13442v1)|**2025-03-17**|null|
 |**2025-03-17**|**Amodal3R: Amodal 3D Reconstruction from Occluded 2D Images**|Tianhao Wu et.al.|[2503.13439v1](http://arxiv.org/abs/2503.13439v1)|**2025-03-17**|null|
-|**2025-03-17**|**MaTVLM: Hybrid Mamba-Transformer for Efficient Vision-Language Modeling**|Yingyue Li et.al.|[2503.13440v1](http://arxiv.org/abs/2503.13440v1)|**2025-03-17**|[link](https://github.com/hustvl/MaTVLM)|
+|**2025-03-17**|**MaTVLM: Hybrid Mamba-Transformer for Efficient Vision-Language Modeling**|Yingyue Li et.al.|[2503.13440v2](http://arxiv.org/abs/2503.13440v2)|**2025-03-18**|[link](https://github.com/hustvl/MaTVLM)|
 |**2025-03-17**|**Deep Belief Markov Models for POMDP Inference**|Giacomo Arcieri et.al.|[2503.13438v1](http://arxiv.org/abs/2503.13438v1)|**2025-03-17**|null|
 |**2025-03-17**|**Unified Autoregressive Visual Generation and Understanding with Continuous Tokens**|Lijie Fan et.al.|[2503.13436v1](http://arxiv.org/abs/2503.13436v1)|**2025-03-17**|null|
 |**2025-03-17**|**BlobCtrl: A Unified and Flexible Framework for Element-level Image Generation and Editing**|Yaowei Li et.al.|[2503.13434v1](http://arxiv.org/abs/2503.13434v1)|**2025-03-17**|null|
@@ -30,5 +30,5 @@
 |**2025-03-17**|**Correlation uncertainty: a decision-theoretic approach**|Gerrit Bauch et.al.|[2503.13416v1](http://arxiv.org/abs/2503.13416v1)|**2025-03-17**|null|
 |**2025-03-17**|**A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**|Weiqiang Jin et.al.|[2503.13415v1](http://arxiv.org/abs/2503.13415v1)|**2025-03-17**|null|
 |**2025-03-17**|**Reward Adaptation Via Q-Manipulation**|Kevin Vora et.al.|[2503.13414v1](http://arxiv.org/abs/2503.13414v1)|**2025-03-17**|null|
-|**2025-03-17**|**DLPO: Towards a Robust, Efficient, and Generalizable Prompt Optimization Framework from a Deep-Learning Perspective**|Dengyun Peng et.al.|[2503.13413v1](http://arxiv.org/abs/2503.13413v1)|**2025-03-17**|null|
+|**2025-03-17**|**DLPO: Towards a Robust, Efficient, and Generalizable Prompt Optimization Framework from a Deep-Learning Perspective**|Dengyun Peng et.al.|[2503.13413v2](http://arxiv.org/abs/2503.13413v2)|**2025-03-18**|null|
 |**2025-03-17**|**Mixed spin-boson coupling for qubit readout with suppressed residual shot-noise dephasing**|Jinlun Hu et.al.|[2503.13411v1](http://arxiv.org/abs/2503.13411v1)|**2025-03-17**|null|

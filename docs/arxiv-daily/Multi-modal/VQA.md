@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-17**|**MetaScale: Test-Time Scaling with Evolving Meta-Thoughts**|Qin Liu et.al.|[2503.13447v1](http://arxiv.org/abs/2503.13447v1)|**2025-03-17**|null|
 |**2025-03-17**|**VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning**|Ye Liu et.al.|[2503.13444v1](http://arxiv.org/abs/2503.13444v1)|**2025-03-17**|null|
-|**2025-03-17**|**MaTVLM: Hybrid Mamba-Transformer for Efficient Vision-Language Modeling**|Yingyue Li et.al.|[2503.13440v1](http://arxiv.org/abs/2503.13440v1)|**2025-03-17**|[link](https://github.com/hustvl/MaTVLM)|
+|**2025-03-17**|**MaTVLM: Hybrid Mamba-Transformer for Efficient Vision-Language Modeling**|Yingyue Li et.al.|[2503.13440v2](http://arxiv.org/abs/2503.13440v2)|**2025-03-18**|[link](https://github.com/hustvl/MaTVLM)|
 |**2025-03-17**|**Deep Belief Markov Models for POMDP Inference**|Giacomo Arcieri et.al.|[2503.13438v1](http://arxiv.org/abs/2503.13438v1)|**2025-03-17**|null|
 |**2025-03-17**|**Unified Autoregressive Visual Generation and Understanding with Continuous Tokens**|Lijie Fan et.al.|[2503.13436v1](http://arxiv.org/abs/2503.13436v1)|**2025-03-17**|null|
 |**2025-03-17**|**xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference**|Maximilian Beck et.al.|[2503.13427v1](http://arxiv.org/abs/2503.13427v1)|**2025-03-17**|null|

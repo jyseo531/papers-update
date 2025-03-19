@@ -27,7 +27,7 @@
 |**2025-03-17**|**UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks**|Yuanbin Qian et.al.|[2503.12905v1](http://arxiv.org/abs/2503.12905v1)|**2025-03-17**|null|
 |**2025-03-17**|**SCAP: Transductive Test-Time Adaptation via Supportive Clique-based Attribute Prompting**|Chenyu Zhang et.al.|[2503.12866v1](http://arxiv.org/abs/2503.12866v1)|**2025-03-17**|null|
 |**2025-03-17**|**Robust Audio-Visual Segmentation via Audio-Guided Visual Convergent Alignment**|Chen Liu et.al.|[2503.12847v1](http://arxiv.org/abs/2503.12847v1)|**2025-03-17**|null|
-|**2025-03-17**|**Towards Scalable Foundation Model for Multi-modal and Hyperspectral Geospatial Data**|Haozhe Si et.al.|[2503.12843v1](http://arxiv.org/abs/2503.12843v1)|**2025-03-17**|null|
+|**2025-03-17**|**Towards Scalable Foundation Model for Multi-modal and Hyperspectral Geospatial Data**|Haozhe Si et.al.|[2503.12843v2](http://arxiv.org/abs/2503.12843v2)|**2025-03-18**|null|
 |**2025-03-17**|**MT-PCR: Leveraging Modality Transformation for Large-Scale Point Cloud Registration with Limited Overlap**|Yilong Wu et.al.|[2503.12833v1](http://arxiv.org/abs/2503.12833v1)|**2025-03-17**|null|
 |**2025-03-17**|**NuPlanQA: A Large-Scale Dataset and Benchmark for Multi-View Driving Scene Understanding in Multi-Modal Large Language Models**|Sung-Yeon Park et.al.|[2503.12772v1](http://arxiv.org/abs/2503.12772v1)|**2025-03-17**|null|
 |**2025-03-17**|**ViSpeak: Visual Instruction Feedback in Streaming Videos**|Shenghao Fu et.al.|[2503.12769v1](http://arxiv.org/abs/2503.12769v1)|**2025-03-17**|null|
