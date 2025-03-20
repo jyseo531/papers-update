@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-03-19
+Updated on 2025-03-20
 
 > Generated from the Hugging Face database.
 
@@ -401,6 +401,7 @@ Updated on 2025-03-19
 | 151 | 6 | LennartKeller/longformer-gottbert-base-8192-aw512Feature | UpdatedAug 1, 2024 | [Link](https://huggingface.co/LennartKeller/longformer-gottbert-base-8192-aw512) |
 | 349 | 5 | AI4Protein/Prime_690MFeature | UpdatedOct 21, 2024 | [Link](https://huggingface.co/AI4Protein/Prime_690M) |
 | 34 | 5 | Omartificial-Intelligence-Space/AraEuroBert-210MFeature | Updatedabout 12 hours ago | [Link](https://huggingface.co/Omartificial-Intelligence-Space/AraEuroBert-210M) |
+| 474k | 5 | descript/dac_44khzFeature | UpdatedOct 11, 2024 | [Link](https://huggingface.co/descript/dac_44khz) |
 | 7.99k | 4 | OrcaDB/cde-small-v1Feature | UpdatedJan 2 | [Link](https://huggingface.co/OrcaDB/cde-small-v1) |
 | 13 | 4 | voidful/Llama-Typhoon-8B-R1Feature | Updated1 day ago | [Link](https://huggingface.co/voidful/Llama-Typhoon-8B-R1) |
 | 347 | 4 | DeepChem/SmilesTokenizer_PubChem_1MFeature | UpdatedMay 31, 2021 | [Link](https://huggingface.co/DeepChem/SmilesTokenizer_PubChem_1M) |
@@ -413,6 +414,7 @@ Updated on 2025-03-19
 | 41 | 2 | selfconstruct3d/AttackGroup-MPNETFeature | Updatedabout 3 hours ago | [Link](https://huggingface.co/selfconstruct3d/AttackGroup-MPNET) |
 | 1.68k | 2 | VPLabs/SearchMap_PreviewFeature | Updated6 days ago | [Link](https://huggingface.co/VPLabs/SearchMap_Preview) |
 | 11 | 2 | Emova-ollm/emova_speech_tokenizer_hfFeature | Updated4 days ago | [Link](https://huggingface.co/Emova-ollm/emova_speech_tokenizer_hf) |
+| 9 | 2 | Emova-ollm/emova-qwen-2-5-72b-hfFeature | Updated6 days ago | [Link](https://huggingface.co/Emova-ollm/emova-qwen-2-5-72b-hf) |
 | 538k |  | intfloat/multilingual-e5-large-instructFeature | Updated8 days ago | [Link](https://huggingface.co/intfloat/multilingual-e5-large-instruct) |
 | 2.28M |  | intfloat/multilingual-e5-largeFeature | Updated8 days ago | [Link](https://huggingface.co/intfloat/multilingual-e5-large) |
 | 590k |  | BAAI/bge-large-zh-v1 | UpdatedApr 2, 2024 | [Link](https://huggingface.co/BAAI/bge-large-zh-v1.5) |
@@ -668,6 +670,7 @@ Updated on 2025-03-19
 | 1.04M | 41 | microsoft/rad-dinoImage | Updated14 days ago | [Link](https://huggingface.co/microsoft/rad-dino) |
 | 19.4k | 39 | bioptimus/H-optimus-0Image | UpdatedAug 2, 2024 | [Link](https://huggingface.co/bioptimus/H-optimus-0) |
 | 226k | 34 | facebook/dinov2-giantImage | UpdatedSep 6, 2023 | [Link](https://huggingface.co/facebook/dinov2-giant) |
+| 6.65k | 31 | OpenGVLab/InternViT-6B-448px-V2_5Image | UpdatedDec 9, 2024 | [Link](https://huggingface.co/OpenGVLab/InternViT-6B-448px-V2_5) |
 | 3.86k | 30 | nvidia/MambaVision-T-1KImage | UpdatedJul 25, 2024 | [Link](https://huggingface.co/nvidia/MambaVision-T-1K) |
 | 5.13k | 28 | MahmoodLab/TITANImage | UpdatedDec 3, 2024 | [Link](https://huggingface.co/MahmoodLab/TITAN) |
 | 1.69M | 27 | facebook/dinov2-smallImage | UpdatedSep 6, 2023 | [Link](https://huggingface.co/facebook/dinov2-small) |
@@ -799,6 +802,8 @@ Updated on 2025-03-19
 | 296 | 14 | Fancy-MLLM/R1-Onevision-7BImage-Text-to-Text | Updatedabout 12 hours ago | [Link](https://huggingface.co/Fancy-MLLM/R1-Onevision-7B) |
 | 80 | 14 | google/gemma-3-27b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-pt) |
 | 582 | 13 | google/gemma-3-4b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-4b-pt) |
+| 4.2k | 13 | mlabonne/gemma-3-12b-it-abliterated-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-12b-it-abliterated-GGUF) |
+| 225 | 12 | ds4sd/SmolDocling-256M-preview-mlx-bf16Image-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/ds4sd/SmolDocling-256M-preview-mlx-bf16) |
 | 918 | 11 | mlabonne/gemma-3-27b-it-abliterated-GGUFImage-Text-to-Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-abliterated-GGUF) |
 | 185 | 10 | prithivMLmods/Tokenized-OCRImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/prithivMLmods/Tokenized-OCR) |
 | 25 | 10 | prithivMLmods/Qwen2-VL-OCR2-2B-InstructImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/Qwen2-VL-OCR2-2B-Instruct) |
@@ -1518,6 +1523,7 @@ Updated on 2025-03-19
 | 2 | Unknown | scikit-learn/tabular-playgroundTabular | UpdatedDec 1, 2022 | [Link](https://huggingface.co/scikit-learn/tabular-playground) |
 | Unknown | Unknown | demo-org/tabular-playgroundTabular | UpdatedAug 30, 2022 | [Link](https://huggingface.co/demo-org/tabular-playground) |
 | Unknown | Unknown | vendorabc/modelhubexampleTabular | UpdatedAug 30, 2022 | [Link](https://huggingface.co/vendorabc/modelhubexample) |
+| 1 | Unknown | Jensen-holm/NiglTabular | UpdatedMar 17, 2024 | [Link](https://huggingface.co/Jensen-holm/Nigl) |
 
 ## Tabular Regression
 
@@ -1609,6 +1615,7 @@ Updated on 2025-03-19
 | 14.5k | 3 | AC/MiniLM-L12-H384-uncased_Nvidia-Aegis-AI-SafetyText | UpdatedJun 25, 2024 | [Link](https://huggingface.co/AC/MiniLM-L12-H384-uncased_Nvidia-Aegis-AI-Safety) |
 | 98 | 3 | kaixkhazaki/turkish-sentimentText | UpdatedJan 15 | [Link](https://huggingface.co/kaixkhazaki/turkish-sentiment) |
 | 109 | 3 | michaelfeil/mxbai-rerank-base-v2-seqText | Updated1 day ago | [Link](https://huggingface.co/michaelfeil/mxbai-rerank-base-v2-seq) |
+| 58 | 3 | desklib/ai-text-detector-academic-v1 | Updated7 days ago | [Link](https://huggingface.co/desklib/ai-text-detector-academic-v1.01) |
 | 43.6k | 2 | r3ddkahili/final-complete-malicious-url-modelText | Updated18 days ago | [Link](https://huggingface.co/r3ddkahili/final-complete-malicious-url-model) |
 | 420 | 2 | yueliu1999/GuardReasoner-3BText | Updated24 days ago | [Link](https://huggingface.co/yueliu1999/GuardReasoner-3B) |
 | 17 | 2 | AICodexLab/answerdotai-ModernBERT-base-ai-detectorText | Updated6 days ago | [Link](https://huggingface.co/AICodexLab/answerdotai-ModernBERT-base-ai-detector) |
@@ -1650,6 +1657,8 @@ Updated on 2025-03-19
 | 2 | Unknown | riple-saanvi/FastText-news-categorizationText | Updated5 days ago | [Link](https://huggingface.co/riple-saanvi/FastText-news-categorization) |
 | 30.8k |  | StephanAkkerman/FinTwitBERT-sentimentText | UpdatedFeb 21, 2024 | [Link](https://huggingface.co/StephanAkkerman/FinTwitBERT-sentiment) |
 | 62.3k |  | kk08/CryptoBERTText | UpdatedDec 15, 2024 | [Link](https://huggingface.co/kk08/CryptoBERT) |
+| 798k |  | lxyuan/distilbert-base-multilingual-cased-sentiments-studentText | Updated17 days ago | [Link](https://huggingface.co/lxyuan/distilbert-base-multilingual-cased-sentiments-student) |
+| 20.5k |  | joeddav/distilbert-base-uncased-go-emotions-studentText | UpdatedFeb 19, 2021 | [Link](https://huggingface.co/joeddav/distilbert-base-uncased-go-emotions-student) |
 
 ## Text Generation
 
@@ -1894,6 +1903,7 @@ Updated on 2025-03-19
 | 156 |  | seawolf2357/ntowerText-to-Image | UpdatedOct 16, 2024 | [Link](https://huggingface.co/seawolf2357/ntower) |
 | 242 |  | openfree/korea-president-yoonText-to-Image | UpdatedJan 19 | [Link](https://huggingface.co/openfree/korea-president-yoon) |
 | 143 |  | glif-loradex-trainer/angrypenguin_claudeText-to-Image | Updated6 days ago | [Link](https://huggingface.co/glif-loradex-trainer/angrypenguin_claude) |
+| 223 |  | openfree/president-k-djText-to-Image | UpdatedFeb 6 | [Link](https://huggingface.co/openfree/president-k-dj) |
 
 ## Text-to-Speech
 
@@ -1916,6 +1926,7 @@ Updated on 2025-03-19
 | 1.68k | 104 | parler-tts/parler-tts-mini-expressoText-to-Speech | UpdatedMay 21, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-mini-expresso) |
 | 3.52k | 87 | HKUSTAudio/Llasa-1BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-1B) |
 | 2.42k | 77 | FunAudioLLM/CosyVoice2-0 | UpdatedDec 27, 2024 | [Link](https://huggingface.co/FunAudioLLM/CosyVoice2-0.5B) |
+| 162 | 72 | canopylabs/orpheus-3b-0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/canopylabs/orpheus-3b-0.1-ft) |
 | 2.93k | 65 | capleaf/viXTTSText-to-Speech | UpdatedApr 7, 2024 | [Link](https://huggingface.co/capleaf/viXTTS) |
 | 2.99k | 63 | HKUSTAudio/Llasa-8BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-8B) |
 | 73.1k | 45 | onnx-community/Kokoro-82M-v1 | Updated17 days ago | [Link](https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX) |
@@ -1979,6 +1990,7 @@ Updated on 2025-03-19
 | 30.2k | 141 | city96/HunyuanVideo-ggufText-to-Video | UpdatedDec 17, 2024 | [Link](https://huggingface.co/city96/HunyuanVideo-gguf) |
 | 15.2k | 65 | Skywork/SkyReels-V1-Hunyuan-T2VText-to-Video | Updatedabout 21 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-T2V) |
 | 12.7k | 48 | calcuis/hunyuan-ggufText-to-Video | UpdatedDec 21, 2024 | [Link](https://huggingface.co/calcuis/hunyuan-gguf) |
+| 15.7k | 46 | calcuis/ltxv-ggufText-to-Video | Updated2 days ago | [Link](https://huggingface.co/calcuis/ltxv-gguf) |
 | 14.9k | 36 | city96/FastHunyuan-ggufText-to-Video | UpdatedJan 8 | [Link](https://huggingface.co/city96/FastHunyuan-gguf) |
 | 48 | 30 | PAIR/text2video-zero-controlnet-canny-arcaneText-to-Video | UpdatedApr 6, 2023 | [Link](https://huggingface.co/PAIR/text2video-zero-controlnet-canny-arcane) |
 | 8.22k | 26 | Searchium-ai/clip4clip-webvid150kText-to-Video | UpdatedOct 27, 2024 | [Link](https://huggingface.co/Searchium-ai/clip4clip-webvid150k) |
@@ -2629,4 +2641,5 @@ Updated on 2025-03-19
 | 6 | Unknown | omlab/OmDet-Turbo_tiny_SWIN_TZero-Shot | UpdatedJun 13, 2024 | [Link](https://huggingface.co/omlab/OmDet-Turbo_tiny_SWIN_T) |
 | 6 | Unknown | Gunulhona/owlvit-base-patch32-qint8Zero-Shot | UpdatedApr 4, 2024 | [Link](https://huggingface.co/Gunulhona/owlvit-base-patch32-qint8) |
 | 11 | Unknown | rathi2023/owlvit-base-patch32_FT_cppe5Zero-Shot | UpdatedApr 16, 2024 | [Link](https://huggingface.co/rathi2023/owlvit-base-patch32_FT_cppe5) |
+| 1 | Unknown | Blueway/inference-endpoint-for-omdet-turbo-swin-tiny-hfZero-Shot | Updatedabout 9 hours ago | [Link](https://huggingface.co/Blueway/inference-endpoint-for-omdet-turbo-swin-tiny-hf) |
 
