@@ -50,7 +50,7 @@ theme:
     - navigation.indexes
     - content.tables  # :흰색_확인_표시: 기본 테이블 스타일 적용
     - content.tables.sort  # :흰색_확인_표시: 기본 테이블 정렬 기능 (헤더 클릭 시 정렬)
-repo_url: https://github.com/chimdungs/arxiv-daily
+repo_url: https://github.com/jyseo531/arxiv-daily
 markdown_extensions:
   - def_list
   - pymdownx.tasklist:
@@ -72,5 +72,7 @@ extra:
 extra_javascript:
   - js/sort.js  # :흰색_확인_표시: Star 또는 Likes 정렬 버튼 기능 추가
   - js/table-pagination.js  # :흰색_확인_표시: 페이지네이션 기능 추가 (한 페이지당 10개)
+  - js/infinite_scroll.js
+
 extra_css:
   - css/table-style.css  # :흰색_확인_표시: 페이지네이션 스타일 적용
