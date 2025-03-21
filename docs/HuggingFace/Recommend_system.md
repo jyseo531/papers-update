@@ -1854,6 +1854,7 @@ Updated on 2025-03-21
 | 2.88k | 3 | espnet/fastspeech2_conformerText-to-Audio | UpdatedOct 6, 2023 | [Link](https://huggingface.co/espnet/fastspeech2_conformer) |
 | 71 | 3 | KandirResearch/CiSiMiText-to-Audio | Updatedabout 11 hours ago | [Link](https://huggingface.co/KandirResearch/CiSiMi) |
 | 71 | 3 | KandirResearch/CiSiMi-v0 | Updatedabout 8 hours ago | [Link](https://huggingface.co/KandirResearch/CiSiMi-v0.1) |
+| 155 | 3 | truong-xuan-linh/speecht5-multilingual-voiceclone-speechbrainText-to-Audio | UpdatedJan 19, 2024 | [Link](https://huggingface.co/truong-xuan-linh/speecht5-multilingual-voiceclone-speechbrain) |
 | 85 | 2 | TenzinGayche/speecht5-tibetan-ttsText-to-Audio | UpdatedAug 17, 2023 | [Link](https://huggingface.co/TenzinGayche/speecht5-tibetan-tts) |
 | 102 | 2 | flavioegoncalves/speecht5_tts_portugueseText-to-Audio | UpdatedJan 23, 2024 | [Link](https://huggingface.co/flavioegoncalves/speecht5_tts_portuguese) |
 | 84 | 2 | carlfeynman/speecht5-finetuned-dutchText-to-Audio | UpdatedMar 21, 2024 | [Link](https://huggingface.co/carlfeynman/speecht5-finetuned-dutch) |
