@@ -10,7 +10,7 @@
 |**2025-03-19**|**What Makes a Reward Model a Good Teacher? An Optimization Perspective**|Noam Razin et.al.|[2503.15477v1](http://arxiv.org/abs/2503.15477v1)|**2025-03-19**|null|
 |**2025-03-19**|**Toward task-driven satellite image super-resolution**|Maciej Ziaja et.al.|[2503.15474v1](http://arxiv.org/abs/2503.15474v1)|**2025-03-19**|null|
 |**2025-03-19**|**EgoDTM: Towards 3D-Aware Egocentric Video-Language Pretraining**|Boshen Xu et.al.|[2503.15470v1](http://arxiv.org/abs/2503.15470v1)|**2025-03-19**|null|
-|**2025-03-19**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469v1](http://arxiv.org/abs/2503.15469v1)|**2025-03-19**|[link](https://github.com/Bearisbug/Bi-Elman)|
+|**2025-03-19**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469v2](http://arxiv.org/abs/2503.15469v2)|**2025-03-20**|[link](https://github.com/Bearisbug/Bi-Elman)|
 |**2025-03-19**|**Di$\mathtt{[M]}$O: Distilling Masked Diffusion Models into One-step Generator**|Yuanzhi Zhu et.al.|[2503.15457v1](http://arxiv.org/abs/2503.15457v1)|**2025-03-19**|null|
 |**2025-03-19**|**Temporal Encoding Strategies for Energy Time Series Prediction**|Aayam Bansal et.al.|[2503.15456v1](http://arxiv.org/abs/2503.15456v1)|**2025-03-19**|null|
 |**2025-03-19**|**Reducing Communication Overhead in Federated Learning for Network Anomaly Detection with Adaptive Client Selection**|William Marfo et.al.|[2503.15448v1](http://arxiv.org/abs/2503.15448v1)|**2025-03-19**|null|

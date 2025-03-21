@@ -2,15 +2,15 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-19**|**Distilling 3D distinctive local descriptors for 6D pose estimation**|Amir Hamza et.al.|[2503.15106v1](http://arxiv.org/abs/2503.15106v1)|**2025-03-19**|null|
+|**2025-03-19**|**Distilling 3D distinctive local descriptors for 6D pose estimation**|Amir Hamza et.al.|[2503.15106v2](http://arxiv.org/abs/2503.15106v2)|**2025-03-20**|null|
 |**2025-03-19**|**Intelligent Spatial Perception by Building Hierarchical 3D Scene Graphs for Indoor Scenarios with the Help of LLMs**|Yao Cheng et.al.|[2503.15091v1](http://arxiv.org/abs/2503.15091v1)|**2025-03-19**|null|
 |**2025-03-19**|**Body-Hand Modality Expertized Networks with Cross-attention for Fine-grained Skeleton Action Recognition**|Seungyeon Cho et.al.|[2503.14960v1](http://arxiv.org/abs/2503.14960v1)|**2025-03-19**|null|
 |**2025-03-18**|**Consumer-grade EEG-based Eye Tracking**|Tiago Vasconcelos Afonso et.al.|[2503.14322v1](http://arxiv.org/abs/2503.14322v1)|**2025-03-18**|null|
-|**2025-03-18**|**PC-Talk: Precise Facial Animation Control for Audio-Driven Talking Face Generation**|Baiqin Wang et.al.|[2503.14295v1](http://arxiv.org/abs/2503.14295v1)|**2025-03-18**|null|
+|**2025-03-18**|**PC-Talk: Precise Facial Animation Control for Audio-Driven Talking Face Generation**|Baiqin Wang et.al.|[2503.14295v2](http://arxiv.org/abs/2503.14295v2)|**2025-03-20**|null|
 |**2025-03-18**|**Opportunities and Challenges in Unsupervised Learning: The Case of Aqueous Electrolyte Solutions**|Giulia Sormani et.al.|[2503.14197v1](http://arxiv.org/abs/2503.14197v1)|**2025-03-18**|null|
 |**2025-03-18**|**A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**|Huy-Hoang Bui et.al.|[2503.13982v1](http://arxiv.org/abs/2503.13982v1)|**2025-03-18**|[link](https://github.com/ais-lab/a-score)|
 |**2025-03-17**|**Neural Edge Histogram Descriptors for Underwater Acoustic Target Recognition**|Atharva Agashe et.al.|[2503.13763v1](http://arxiv.org/abs/2503.13763v1)|**2025-03-17**|null|
-|**2025-03-17**|**STEP: Simultaneous Tracking and Estimation of Pose for Animals and Humans**|Shashikant Verma et.al.|[2503.13344v1](http://arxiv.org/abs/2503.13344v1)|**2025-03-17**|null|
+|**2025-03-17**|**STEP: Simultaneous Tracking and Estimation of Pose for Animals and Humans**|Shashikant Verma et.al.|[2503.13344v2](http://arxiv.org/abs/2503.13344v2)|**2025-03-20**|null|
 |**2025-03-17**|**ASMR: Adaptive Skeleton-Mesh Rigging and Skinning via 2D Generative Prior**|Seokhyeon Hong et.al.|[2503.13579v1](http://arxiv.org/abs/2503.13579v1)|**2025-03-17**|null|
 |**2025-03-17**|**Free-form language-based robotic reasoning and grasping**|Runyu Jiao et.al.|[2503.13082v1](http://arxiv.org/abs/2503.13082v1)|**2025-03-17**|null|
 |**2025-03-17**|**Deep Neural Network-Based Voltage Prediction for Alkali-Metal-Ion Battery Materials**|Sk Mujaffar Hossain et.al.|[2503.13067v1](http://arxiv.org/abs/2503.13067v1)|**2025-03-17**|null|

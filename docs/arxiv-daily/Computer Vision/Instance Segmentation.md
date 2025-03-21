@@ -3,13 +3,13 @@
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-19**|**Value Profiles for Encoding Human Variation**|Taylor Sorensen et.al.|[2503.15484v1](http://arxiv.org/abs/2503.15484v1)|**2025-03-19**|null|
-|**2025-03-19**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469v1](http://arxiv.org/abs/2503.15469v1)|**2025-03-19**|[link](https://github.com/Bearisbug/Bi-Elman)|
+|**2025-03-19**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469v2](http://arxiv.org/abs/2503.15469v2)|**2025-03-20**|[link](https://github.com/Bearisbug/Bi-Elman)|
 |**2025-03-19**|**Provably optimal exact gate synthesis from a discrete gate set**|Élie Gouzien et.al.|[2503.15452v1](http://arxiv.org/abs/2503.15452v1)|**2025-03-19**|null|
 |**2025-03-19**|**Turbulent power: a discriminator between sheaths and CMEs**|Deep Ghuge et.al.|[2503.15430v1](http://arxiv.org/abs/2503.15430v1)|**2025-03-19**|null|
 |**2025-03-19**|**Federated Continual 3D Segmentation With Single-round Communication**|Can Peng et.al.|[2503.15414v1](http://arxiv.org/abs/2503.15414v1)|**2025-03-19**|null|
 |**2025-03-19**|**FedSCA: Federated Tuning with Similarity-guided Collaborative Aggregation for Heterogeneous Medical Image Segmentation**|Yumin Zhang et.al.|[2503.15390v1](http://arxiv.org/abs/2503.15390v1)|**2025-03-19**|null|
 |**2025-03-19**|**Data-driven Azimuthal RHEED construction for in-situ crystal growth characterization**|Abdourahman Khaireh-Walieh et.al.|[2503.15339v1](http://arxiv.org/abs/2503.15339v1)|**2025-03-19**|null|
-|**2025-03-19**|**Euclid Quick Data Release (Q1): From images to multiwavelength catalogues: the Euclid MERge Processing Function**|Euclid Collaboration et.al.|[2503.15305v1](http://arxiv.org/abs/2503.15305v1)|**2025-03-19**|null|
+|**2025-03-19**|**Euclid Quick Data Release (Q1): From images to multiwavelength catalogues: the Euclid MERge Processing Function**|Euclid Collaboration et.al.|[2503.15305v2](http://arxiv.org/abs/2503.15305v2)|**2025-03-20**|null|
 |**2025-03-19**|**Euclid Quick Data Release (Q1): VIS processing and data products**|Euclid Collaboration et.al.|[2503.15303v1](http://arxiv.org/abs/2503.15303v1)|**2025-03-19**|null|
 |**2025-03-19**|**SUM Parts: Benchmarking Part-Level Semantic Segmentation of Urban Meshes**|Weixiao Gao et.al.|[2503.15300v1](http://arxiv.org/abs/2503.15300v1)|**2025-03-19**|null|
 |**2025-03-19**|**MAMM-Refine: A Recipe for Improving Faithfulness in Generation with Multi-Agent Collaboration**|David Wan et.al.|[2503.15272v1](http://arxiv.org/abs/2503.15272v1)|**2025-03-19**|null|
@@ -19,7 +19,7 @@
 |**2025-03-19**|**Controlled Diagonal Catalyst Improves the Efficiency of Quantum Annealing**|Tomohiro Hattori et.al.|[2503.15244v1](http://arxiv.org/abs/2503.15244v1)|**2025-03-19**|null|
 |**2025-03-19**|**3D Occupancy Prediction with Low-Resolution Queries via Prototype-aware View Transformation**|Gyeongrok Oh et.al.|[2503.15185v1](http://arxiv.org/abs/2503.15185v1)|**2025-03-19**|null|
 |**2025-03-19**|**Text-Derived Relational Graph-Enhanced Network for Skeleton-Based Action Segmentation**|Haoyu Ji et.al.|[2503.15126v1](http://arxiv.org/abs/2503.15126v1)|**2025-03-19**|null|
-|**2025-03-19**|**GIVEPose: Gradual Intra-class Variation Elimination for RGB-based Category-Level Object Pose Estimation**|Zinqin Huang et.al.|[2503.15110v1](http://arxiv.org/abs/2503.15110v1)|**2025-03-19**|null|
+|**2025-03-19**|**GIVEPose: Gradual Intra-class Variation Elimination for RGB-based Category-Level Object Pose Estimation**|Zinqin Huang et.al.|[2503.15110v2](http://arxiv.org/abs/2503.15110v2)|**2025-03-20**|null|
 |**2025-03-19**|**A Novel Quantity for Probing Matter Perturbations Below the Fresnel Scale in Gravitational Lensing of Gravitational Waves**|So Tanaka et.al.|[2503.15066v1](http://arxiv.org/abs/2503.15066v1)|**2025-03-19**|null|
 |**2025-03-19**|**Semantic Segmentation of Transparent and Opaque Drinking Glasses with the Help of Zero-shot Learning**|Annalena Blänsdorf et.al.|[2503.15004v1](http://arxiv.org/abs/2503.15004v1)|**2025-03-19**|null|
 |**2025-03-19**|**Radial flow component of Sun's high frequency retrograde inertial waves**|Chris S. Hanson et.al.|[2503.14995v1](http://arxiv.org/abs/2503.14995v1)|**2025-03-19**|null|

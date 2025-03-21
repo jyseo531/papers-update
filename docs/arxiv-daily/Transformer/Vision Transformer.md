@@ -6,7 +6,7 @@
 |**2025-03-19**|**Cube: A Roblox View of 3D Intelligence**|Foundation AI Team et.al.|[2503.15475v1](http://arxiv.org/abs/2503.15475v1)|**2025-03-19**|null|
 |**2025-03-19**|**Toward task-driven satellite image super-resolution**|Maciej Ziaja et.al.|[2503.15474v1](http://arxiv.org/abs/2503.15474v1)|**2025-03-19**|null|
 |**2025-03-19**|**EgoDTM: Towards 3D-Aware Egocentric Video-Language Pretraining**|Boshen Xu et.al.|[2503.15470v1](http://arxiv.org/abs/2503.15470v1)|**2025-03-19**|null|
-|**2025-03-19**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469v1](http://arxiv.org/abs/2503.15469v1)|**2025-03-19**|[link](https://github.com/Bearisbug/Bi-Elman)|
+|**2025-03-19**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469v2](http://arxiv.org/abs/2503.15469v2)|**2025-03-20**|[link](https://github.com/Bearisbug/Bi-Elman)|
 |**2025-03-19**|**FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transformers**|Ruichen Chen et.al.|[2503.15465v1](http://arxiv.org/abs/2503.15465v1)|**2025-03-19**|null|
 |**2025-03-19**|**The 200 Gbps Challenge: Imagining HL-LHC analysis facilities**|Alexander Held et.al.|[2503.15464v1](http://arxiv.org/abs/2503.15464v1)|**2025-03-19**|null|
 |**2025-03-19**|**pyTTN: An Open Source Toolbox for Open and Closed System Quantum Dynamics Simulations Using Tree Tensor Networks**|Lachlan P Lindoy et.al.|[2503.15460v1](http://arxiv.org/abs/2503.15460v1)|**2025-03-19**|[link](https://gitlab.npl.co.uk/qsm/pyttn/)|

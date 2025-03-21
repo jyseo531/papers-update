@@ -22,7 +22,7 @@
 |**2025-03-19**|**SUM Parts: Benchmarking Part-Level Semantic Segmentation of Urban Meshes**|Weixiao Gao et.al.|[2503.15300v1](http://arxiv.org/abs/2503.15300v1)|**2025-03-19**|null|
 |**2025-03-19**|**EdgeRegNet: Edge Feature-based Multimodal Registration Network between Images and LiDAR Point Clouds**|Yuanchao Yue et.al.|[2503.15284v1](http://arxiv.org/abs/2503.15284v1)|**2025-03-19**|null|
 |**2025-03-19**|**DeepMesh: Auto-Regressive Artist-mesh Creation with Reinforcement Learning**|Ruowen Zhao et.al.|[2503.15265v1](http://arxiv.org/abs/2503.15265v1)|**2025-03-19**|null|
-|**2025-03-19**|**Classification of Electron and Muon Neutrino Events for the ESS$ν$SB Near Water Cherenkov Detector using Graph Neural Networks**|J. Aguilar et.al.|[2503.15247v1](http://arxiv.org/abs/2503.15247v1)|**2025-03-19**|null|
+|**2025-03-19**|**Classification of Electron and Muon Neutrino Events for the ESS$ν$SB Near Water Cherenkov Detector using Graph Neural Networks**|J. Aguilar et.al.|[2503.15247v2](http://arxiv.org/abs/2503.15247v2)|**2025-03-20**|null|
 |**2025-03-19**|**GO-N3RDet: Geometry Optimized NeRF-enhanced 3D Object Detector**|Zechuan Li et.al.|[2503.15211v1](http://arxiv.org/abs/2503.15211v1)|**2025-03-19**|null|
 |**2025-03-19**|**Convergence analysis of SPH method on irregular particle distributions for the Poisson equation**|Zhonghua Qiao et.al.|[2503.15188v1](http://arxiv.org/abs/2503.15188v1)|**2025-03-19**|null|
 |**2025-03-19**|**3D Occupancy Prediction with Low-Resolution Queries via Prototype-aware View Transformation**|Gyeongrok Oh et.al.|[2503.15185v1](http://arxiv.org/abs/2503.15185v1)|**2025-03-19**|null|
@@ -30,5 +30,5 @@
 |**2025-03-19**|**Volumetric Reconstruction From Partial Views for Task-Oriented Grasping**|Fujian Yan et.al.|[2503.15167v1](http://arxiv.org/abs/2503.15167v1)|**2025-03-19**|null|
 |**2025-03-19**|**Improving PET scanner time-of-flight resolution using additional prompt photon**|Lech Raczynski et.al.|[2503.15153v1](http://arxiv.org/abs/2503.15153v1)|**2025-03-19**|null|
 |**2025-03-19**|**Object-Centric Pretraining via Target Encoder Bootstrapping**|Nikola Đukić et.al.|[2503.15141v1](http://arxiv.org/abs/2503.15141v1)|**2025-03-19**|null|
-|**2025-03-19**|**Distilling 3D distinctive local descriptors for 6D pose estimation**|Amir Hamza et.al.|[2503.15106v1](http://arxiv.org/abs/2503.15106v1)|**2025-03-19**|null|
+|**2025-03-19**|**Distilling 3D distinctive local descriptors for 6D pose estimation**|Amir Hamza et.al.|[2503.15106v2](http://arxiv.org/abs/2503.15106v2)|**2025-03-20**|null|
 |**2025-03-19**|**Exploring the Perspectives of Social VR-Aware Non-Parent Adults and Parents on Children's Use of Social Virtual Reality**|Cristina Fiani et.al.|[2503.15100v1](http://arxiv.org/abs/2503.15100v1)|**2025-03-19**|null|

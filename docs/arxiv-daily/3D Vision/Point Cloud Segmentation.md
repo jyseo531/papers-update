@@ -5,7 +5,7 @@
 |**2025-03-19**|**Fast Two-photon Microscopy by Neuroimaging with Oblong Random Acquisition (NORA)**|Esther Whang et.al.|[2503.15487v1](http://arxiv.org/abs/2503.15487v1)|**2025-03-19**|null|
 |**2025-03-19**|**Emergent coding phases and hardware-tailored quantum codes**|Gaurav Gyawali et.al.|[2503.15483v1](http://arxiv.org/abs/2503.15483v1)|**2025-03-19**|null|
 |**2025-03-19**|**Natural Quantization of Neural Networks**|Richard Barney et.al.|[2503.15482v1](http://arxiv.org/abs/2503.15482v1)|**2025-03-19**|null|
-|**2025-03-19**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469v1](http://arxiv.org/abs/2503.15469v1)|**2025-03-19**|[link](https://github.com/Bearisbug/Bi-Elman)|
+|**2025-03-19**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469v2](http://arxiv.org/abs/2503.15469v2)|**2025-03-20**|[link](https://github.com/Bearisbug/Bi-Elman)|
 |**2025-03-19**|**FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transformers**|Ruichen Chen et.al.|[2503.15465v1](http://arxiv.org/abs/2503.15465v1)|**2025-03-19**|null|
 |**2025-03-19**|**Turbulent power: a discriminator between sheaths and CMEs**|Deep Ghuge et.al.|[2503.15430v1](http://arxiv.org/abs/2503.15430v1)|**2025-03-19**|null|
 |**2025-03-19**|**Federated Continual 3D Segmentation With Single-round Communication**|Can Peng et.al.|[2503.15414v1](http://arxiv.org/abs/2503.15414v1)|**2025-03-19**|null|
@@ -30,5 +30,5 @@
 |**2025-03-19**|**Euclid Quick Data Release (Q1) -- First Euclid statistical study of galaxy mergers and their connection to active galactic nuclei**|Euclid Collaboration et.al.|[2503.15317v1](http://arxiv.org/abs/2503.15317v1)|**2025-03-19**|null|
 |**2025-03-19**|**Euclid Quick Data Release (Q1). Optical and near-infrared identification and classification of point-like X-ray selected sources**|Euclid Collaboration et.al.|[2503.15316v1](http://arxiv.org/abs/2503.15316v1)|**2025-03-19**|null|
 |**2025-03-19**|**Euclid Quick Data Release (Q1), A first look at the fraction of bars in massive galaxies at $z<1$**|Euclid Collaboration et.al.|[2503.15311v1](http://arxiv.org/abs/2503.15311v1)|**2025-03-19**|null|
-|**2025-03-19**|**Euclid Quick Data Release (Q1): From images to multiwavelength catalogues: the Euclid MERge Processing Function**|Euclid Collaboration et.al.|[2503.15305v1](http://arxiv.org/abs/2503.15305v1)|**2025-03-19**|null|
+|**2025-03-19**|**Euclid Quick Data Release (Q1): From images to multiwavelength catalogues: the Euclid MERge Processing Function**|Euclid Collaboration et.al.|[2503.15305v2](http://arxiv.org/abs/2503.15305v2)|**2025-03-20**|null|
 |**2025-03-19**|**Euclid Quick Data Release (Q1). NIR processing and data products**|Euclid Collaboration et.al.|[2503.15304v1](http://arxiv.org/abs/2503.15304v1)|**2025-03-19**|null|

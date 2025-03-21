@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-19**|**Fast Two-photon Microscopy by Neuroimaging with Oblong Random Acquisition (NORA)**|Esther Whang et.al.|[2503.15487v1](http://arxiv.org/abs/2503.15487v1)|**2025-03-19**|null|
 |**2025-03-19**|**Natural Quantization of Neural Networks**|Richard Barney et.al.|[2503.15482v1](http://arxiv.org/abs/2503.15482v1)|**2025-03-19**|null|
-|**2025-03-19**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469v1](http://arxiv.org/abs/2503.15469v1)|**2025-03-19**|[link](https://github.com/Bearisbug/Bi-Elman)|
+|**2025-03-19**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469v2](http://arxiv.org/abs/2503.15469v2)|**2025-03-20**|[link](https://github.com/Bearisbug/Bi-Elman)|
 |**2025-03-19**|**FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transformers**|Ruichen Chen et.al.|[2503.15465v1](http://arxiv.org/abs/2503.15465v1)|**2025-03-19**|null|
 |**2025-03-19**|**Low Cost C-ITS Stations Using Raspberry Pi and the Open Source Software OScar**|L. Farina et.al.|[2503.15461v1](http://arxiv.org/abs/2503.15461v1)|**2025-03-19**|null|
 |**2025-03-19**|**pyTTN: An Open Source Toolbox for Open and Closed System Quantum Dynamics Simulations Using Tree Tensor Networks**|Lachlan P Lindoy et.al.|[2503.15460v1](http://arxiv.org/abs/2503.15460v1)|**2025-03-19**|[link](https://gitlab.npl.co.uk/qsm/pyttn/)|

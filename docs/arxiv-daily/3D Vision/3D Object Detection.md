@@ -8,7 +8,7 @@
 |**2025-03-19**|**What Makes a Reward Model a Good Teacher? An Optimization Perspective**|Noam Razin et.al.|[2503.15477v1](http://arxiv.org/abs/2503.15477v1)|**2025-03-19**|null|
 |**2025-03-19**|**Cube: A Roblox View of 3D Intelligence**|Foundation AI Team et.al.|[2503.15475v1](http://arxiv.org/abs/2503.15475v1)|**2025-03-19**|null|
 |**2025-03-19**|**EgoDTM: Towards 3D-Aware Egocentric Video-Language Pretraining**|Boshen Xu et.al.|[2503.15470v1](http://arxiv.org/abs/2503.15470v1)|**2025-03-19**|null|
-|**2025-03-19**|**Bright Sungrazing Comets in a Great Historical Controversy and Prospects for Their Appearance in the Near Future**|Zdenek Sekanina et.al.|[2503.15467v1](http://arxiv.org/abs/2503.15467v1)|**2025-03-19**|null|
+|**2025-03-19**|**Bright Sungrazing Comets in a Great Historical Controversy and Prospects for Their Appearance in the Near Future**|Zdenek Sekanina et.al.|[2503.15467v2](http://arxiv.org/abs/2503.15467v2)|**2025-03-20**|null|
 |**2025-03-19**|**Supercell environments using GridRad-Severe and the HRRR: Addressing discrepancies between prior tornado datasets**|Brice Coffer et.al.|[2503.15466v1](http://arxiv.org/abs/2503.15466v1)|**2025-03-19**|null|
 |**2025-03-19**|**A Precision Trial Case Study for Heterogeneous Treatment Effects in Obstructive Sleep Apnea**|Lara Maleyeff et.al.|[2503.15455v1](http://arxiv.org/abs/2503.15455v1)|**2025-03-19**|null|
 |**2025-03-19**|**Reducing Communication Overhead in Federated Learning for Network Anomaly Detection with Adaptive Client Selection**|William Marfo et.al.|[2503.15448v1](http://arxiv.org/abs/2503.15448v1)|**2025-03-19**|null|

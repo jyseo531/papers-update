@@ -2,7 +2,7 @@
 ### Transformer
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-19**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469v1](http://arxiv.org/abs/2503.15469v1)|**2025-03-19**|[link](https://github.com/Bearisbug/Bi-Elman)|
+|**2025-03-19**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469v2](http://arxiv.org/abs/2503.15469v2)|**2025-03-20**|[link](https://github.com/Bearisbug/Bi-Elman)|
 |**2025-03-19**|**FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transformers**|Ruichen Chen et.al.|[2503.15465v1](http://arxiv.org/abs/2503.15465v1)|**2025-03-19**|null|
 |**2025-03-19**|**pyTTN: An Open Source Toolbox for Open and Closed System Quantum Dynamics Simulations Using Tree Tensor Networks**|Lachlan P Lindoy et.al.|[2503.15460v1](http://arxiv.org/abs/2503.15460v1)|**2025-03-19**|[link](https://gitlab.npl.co.uk/qsm/pyttn/)|
 |**2025-03-19**|**Provably optimal exact gate synthesis from a discrete gate set**|Élie Gouzien et.al.|[2503.15452v1](http://arxiv.org/abs/2503.15452v1)|**2025-03-19**|null|
@@ -24,7 +24,7 @@
 |**2025-03-19**|**DCA: Dividing and Conquering Amnesia in Incremental Object Detection**|Aoting Zhang et.al.|[2503.15295v1](http://arxiv.org/abs/2503.15295v1)|**2025-03-19**|null|
 |**2025-03-19**|**Test-Time Backdoor Detection for Object Detection Models**|Hangtao Zhang et.al.|[2503.15293v1](http://arxiv.org/abs/2503.15293v1)|**2025-03-19**|null|
 |**2025-03-19**|**A Sigma Point-based Low Complexity Algorithm for Multipath-based SLAM in MIMO Systems**|Anna Masiero et.al.|[2503.15286v1](http://arxiv.org/abs/2503.15286v1)|**2025-03-19**|null|
-|**2025-03-19**|**Symplectic integration of guiding-center equations in canonical coordinates for general toroidal fields**|Christopher G. Albert et.al.|[2503.15278v1](http://arxiv.org/abs/2503.15278v1)|**2025-03-19**|null|
+|**2025-03-19**|**Symplectic integration of guiding-center equations in canonical coordinates for general toroidal fields**|Christopher G. Albert et.al.|[2503.15278v2](http://arxiv.org/abs/2503.15278v2)|**2025-03-20**|null|
 |**2025-03-19**|**Brunovsky Riccati Recursion for Linear Model Predictive Control**|Shaohui Yang et.al.|[2503.15271v1](http://arxiv.org/abs/2503.15271v1)|**2025-03-19**|null|
 |**2025-03-19**|**Automating Comment Generation for Smart Contract from Bytecode**|Jianhang Xiang et.al.|[2503.15270v1](http://arxiv.org/abs/2503.15270v1)|**2025-03-19**|null|
 |**2025-03-19**|**Sig2text, a Vision-language model for Non-cooperative Radar Signal Parsing**|Hancong Feng KaiLI Jiang Bin tang et.al.|[2503.15213v1](http://arxiv.org/abs/2503.15213v1)|**2025-03-19**|null|

@@ -6,7 +6,7 @@
 |**2025-03-19**|**Friction-Scaled Vibrotactile Feedback for Real-Time Slip Detection in Manipulation using Robotic Sixth Finger**|Naqash Afzal et.al.|[2503.15447v1](http://arxiv.org/abs/2503.15447v1)|**2025-03-19**|null|
 |**2025-03-19**|**CCDP: Composition of Conditional Diffusion Policies with Guided Sampling**|Amirreza Razmjoo et.al.|[2503.15386v1](http://arxiv.org/abs/2503.15386v1)|**2025-03-19**|null|
 |**2025-03-19**|**Geometrically-Aware One-Shot Skill Transfer of Category-Level Objects**|Cristiana de Farias et.al.|[2503.15371v1](http://arxiv.org/abs/2503.15371v1)|**2025-03-19**|null|
-|**2025-03-19**|**Tangles: Unpacking Extended Collision Experiences with Soma Trajectories**|Steve Benford et.al.|[2503.15370v1](http://arxiv.org/abs/2503.15370v1)|**2025-03-19**|null|
+|**2025-03-19**|**Tangles: Unpacking Extended Collision Experiences with Soma Trajectories**|Steve Benford et.al.|[2503.15370v2](http://arxiv.org/abs/2503.15370v2)|**2025-03-20**|null|
 |**2025-03-19**|**Online Imitation Learning for Manipulation via Decaying Relative Correction through Teleoperation**|Cheng Pan et.al.|[2503.15368v1](http://arxiv.org/abs/2503.15368v1)|**2025-03-19**|null|
 |**2025-03-19**|**Reinforcement Learning for Robust Athletic Intelligence: Lessons from the 2nd 'AI Olympics with RealAIGym' Competition**|Felix Wiebe et.al.|[2503.15290v1](http://arxiv.org/abs/2503.15290v1)|**2025-03-19**|null|
 |**2025-03-19**|**EdgeRegNet: Edge Feature-based Multimodal Registration Network between Images and LiDAR Point Clouds**|Yuanchao Yue et.al.|[2503.15284v1](http://arxiv.org/abs/2503.15284v1)|**2025-03-19**|null|

@@ -15,7 +15,7 @@
 |**2025-03-19**|**DeepMesh: Auto-Regressive Artist-mesh Creation with Reinforcement Learning**|Ruowen Zhao et.al.|[2503.15265v1](http://arxiv.org/abs/2503.15265v1)|**2025-03-19**|null|
 |**2025-03-19**|**GO-N3RDet: Geometry Optimized NeRF-enhanced 3D Object Detector**|Zechuan Li et.al.|[2503.15211v1](http://arxiv.org/abs/2503.15211v1)|**2025-03-19**|null|
 |**2025-03-19**|**3D Occupancy Prediction with Low-Resolution Queries via Prototype-aware View Transformation**|Gyeongrok Oh et.al.|[2503.15185v1](http://arxiv.org/abs/2503.15185v1)|**2025-03-19**|null|
-|**2025-03-19**|**Distilling 3D distinctive local descriptors for 6D pose estimation**|Amir Hamza et.al.|[2503.15106v1](http://arxiv.org/abs/2503.15106v1)|**2025-03-19**|null|
+|**2025-03-19**|**Distilling 3D distinctive local descriptors for 6D pose estimation**|Amir Hamza et.al.|[2503.15106v2](http://arxiv.org/abs/2503.15106v2)|**2025-03-20**|null|
 |**2025-03-19**|**Exploring the Perspectives of Social VR-Aware Non-Parent Adults and Parents on Children's Use of Social Virtual Reality**|Cristina Fiani et.al.|[2503.15100v1](http://arxiv.org/abs/2503.15100v1)|**2025-03-19**|null|
 |**2025-03-19**|**Intelligent Spatial Perception by Building Hierarchical 3D Scene Graphs for Indoor Scenarios with the Help of LLMs**|Yao Cheng et.al.|[2503.15091v1](http://arxiv.org/abs/2503.15091v1)|**2025-03-19**|null|
 |**2025-03-19**|**An Investigation of Beam Density on LiDAR Object Detection Performance**|Christoph Griesbacher et.al.|[2503.15087v1](http://arxiv.org/abs/2503.15087v1)|**2025-03-19**|null|

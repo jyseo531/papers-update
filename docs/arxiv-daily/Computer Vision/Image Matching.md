@@ -7,7 +7,7 @@
 |**2025-03-19**|**SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks**|Yifei Zhou et.al.|[2503.15478v1](http://arxiv.org/abs/2503.15478v1)|**2025-03-19**|null|
 |**2025-03-19**|**Cube: A Roblox View of 3D Intelligence**|Foundation AI Team et.al.|[2503.15475v1](http://arxiv.org/abs/2503.15475v1)|**2025-03-19**|null|
 |**2025-03-19**|**Toward task-driven satellite image super-resolution**|Maciej Ziaja et.al.|[2503.15474v1](http://arxiv.org/abs/2503.15474v1)|**2025-03-19**|null|
-|**2025-03-19**|**Bright Sungrazing Comets in a Great Historical Controversy and Prospects for Their Appearance in the Near Future**|Zdenek Sekanina et.al.|[2503.15467v1](http://arxiv.org/abs/2503.15467v1)|**2025-03-19**|null|
+|**2025-03-19**|**Bright Sungrazing Comets in a Great Historical Controversy and Prospects for Their Appearance in the Near Future**|Zdenek Sekanina et.al.|[2503.15467v2](http://arxiv.org/abs/2503.15467v2)|**2025-03-20**|null|
 |**2025-03-19**|**FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transformers**|Ruichen Chen et.al.|[2503.15465v1](http://arxiv.org/abs/2503.15465v1)|**2025-03-19**|null|
 |**2025-03-19**|**Fast simulation of soft x-ray near-edge spectra using a relativistic state-interaction approach: Application to closed-shell transition metal complexes**|Sarah Pak et.al.|[2503.15462v1](http://arxiv.org/abs/2503.15462v1)|**2025-03-19**|null|
 |**2025-03-19**|**Di$\mathtt{[M]}$O: Distilling Masked Diffusion Models into One-step Generator**|Yuanzhi Zhu et.al.|[2503.15457v1](http://arxiv.org/abs/2503.15457v1)|**2025-03-19**|null|

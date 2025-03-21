@@ -7,7 +7,7 @@
 |**2025-03-19**|**Cube: A Roblox View of 3D Intelligence**|Foundation AI Team et.al.|[2503.15475v1](http://arxiv.org/abs/2503.15475v1)|**2025-03-19**|null|
 |**2025-03-19**|**Toward task-driven satellite image super-resolution**|Maciej Ziaja et.al.|[2503.15474v1](http://arxiv.org/abs/2503.15474v1)|**2025-03-19**|null|
 |**2025-03-19**|**EgoDTM: Towards 3D-Aware Egocentric Video-Language Pretraining**|Boshen Xu et.al.|[2503.15470v1](http://arxiv.org/abs/2503.15470v1)|**2025-03-19**|null|
-|**2025-03-19**|**Bright Sungrazing Comets in a Great Historical Controversy and Prospects for Their Appearance in the Near Future**|Zdenek Sekanina et.al.|[2503.15467v1](http://arxiv.org/abs/2503.15467v1)|**2025-03-19**|null|
+|**2025-03-19**|**Bright Sungrazing Comets in a Great Historical Controversy and Prospects for Their Appearance in the Near Future**|Zdenek Sekanina et.al.|[2503.15467v2](http://arxiv.org/abs/2503.15467v2)|**2025-03-20**|null|
 |**2025-03-19**|**FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transformers**|Ruichen Chen et.al.|[2503.15465v1](http://arxiv.org/abs/2503.15465v1)|**2025-03-19**|null|
 |**2025-03-19**|**Di$\mathtt{[M]}$O: Distilling Masked Diffusion Models into One-step Generator**|Yuanzhi Zhu et.al.|[2503.15457v1](http://arxiv.org/abs/2503.15457v1)|**2025-03-19**|null|
 |**2025-03-19**|**Visual Position Prompt for MLLM based Visual Grounding**|Wei Tang et.al.|[2503.15426v1](http://arxiv.org/abs/2503.15426v1)|**2025-03-19**|null|
@@ -29,6 +29,6 @@
 |**2025-03-19**|**Euclid: Quick Data Release (Q1) -- Photometric studies of known transients**|C. Duffy et.al.|[2503.15334v1](http://arxiv.org/abs/2503.15334v1)|**2025-03-19**|null|
 |**2025-03-19**|**Euclid Quick Data Release (Q1). Galaxy shapes and alignments in the cosmic web**|Euclid Collaboration et.al.|[2503.15333v1](http://arxiv.org/abs/2503.15333v1)|**2025-03-19**|null|
 |**2025-03-19**|**Euclid Quick Data Release (Q1). The role of cosmic connectivity in shaping galaxy clusters**|Euclid Collaboration et.al.|[2503.15332v1](http://arxiv.org/abs/2503.15332v1)|**2025-03-19**|null|
-|**2025-03-19**|**Combined Euclid and Spitzer galaxy density catalogues at $z$>1.3 and detection of significant Euclid passive galaxy overdensities in Spitzer overdense regions**|Euclid Collaboration et.al.|[2503.15331v1](http://arxiv.org/abs/2503.15331v1)|**2025-03-19**|null|
+|**2025-03-19**|**Euclid Quick Data Release (Q1). Combined Euclid and Spitzer galaxy density catalogues at $z>$ 1.3 and detection of significant Euclid passive galaxy overdensities in Spitzer overdense regions**|Euclid Collaboration et.al.|[2503.15331v2](http://arxiv.org/abs/2503.15331v2)|**2025-03-20**|null|
 |**2025-03-19**|**Euclid Quick Data Release (Q1). The first catalogue of strong-lensing galaxy clusters**|Euclid Collaboration et.al.|[2503.15330v1](http://arxiv.org/abs/2503.15330v1)|**2025-03-19**|null|
 |**2025-03-19**|**Euclid Quick Data Release (Q1). LEMON -- Lens Modelling with Neural networks. Automated and fast modelling of Euclid gravitational lenses with a singular isothermal ellipsoid mass profile**|Euclid Collaboration et.al.|[2503.15329v1](http://arxiv.org/abs/2503.15329v1)|**2025-03-19**|null|
