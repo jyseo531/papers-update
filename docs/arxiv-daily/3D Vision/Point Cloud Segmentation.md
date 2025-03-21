@@ -2,33 +2,33 @@
 ### Point Cloud Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-19**|**Fast Two-photon Microscopy by Neuroimaging with Oblong Random Acquisition (NORA)**|Esther Whang et.al.|[2503.15487v1](http://arxiv.org/abs/2503.15487v1)|**2025-03-19**|null|
-|**2025-03-19**|**Emergent coding phases and hardware-tailored quantum codes**|Gaurav Gyawali et.al.|[2503.15483v1](http://arxiv.org/abs/2503.15483v1)|**2025-03-19**|null|
-|**2025-03-19**|**Natural Quantization of Neural Networks**|Richard Barney et.al.|[2503.15482v1](http://arxiv.org/abs/2503.15482v1)|**2025-03-19**|null|
-|**2025-03-19**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469v2](http://arxiv.org/abs/2503.15469v2)|**2025-03-20**|[link](https://github.com/Bearisbug/Bi-Elman)|
-|**2025-03-19**|**FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transformers**|Ruichen Chen et.al.|[2503.15465v1](http://arxiv.org/abs/2503.15465v1)|**2025-03-19**|null|
-|**2025-03-19**|**Turbulent power: a discriminator between sheaths and CMEs**|Deep Ghuge et.al.|[2503.15430v1](http://arxiv.org/abs/2503.15430v1)|**2025-03-19**|null|
-|**2025-03-19**|**Federated Continual 3D Segmentation With Single-round Communication**|Can Peng et.al.|[2503.15414v1](http://arxiv.org/abs/2503.15414v1)|**2025-03-19**|null|
-|**2025-03-19**|**Weakly nonlinear analysis of particle-laden Rayleigh-Bénard convection**|Thota Srinivas et.al.|[2503.15411v1](http://arxiv.org/abs/2503.15411v1)|**2025-03-19**|null|
-|**2025-03-19**|**Contemplating a Lightweight Communication Interface for Asynchronous Many-Task Systems**|Jiakun Yan et.al.|[2503.15400v1](http://arxiv.org/abs/2503.15400v1)|**2025-03-19**|null|
-|**2025-03-19**|**Modeling crystal defects using defect-informed neural networks**|Ziduo Yang et.al.|[2503.15391v1](http://arxiv.org/abs/2503.15391v1)|**2025-03-19**|null|
-|**2025-03-19**|**FedSCA: Federated Tuning with Similarity-guided Collaborative Aggregation for Heterogeneous Medical Image Segmentation**|Yumin Zhang et.al.|[2503.15390v1](http://arxiv.org/abs/2503.15390v1)|**2025-03-19**|null|
-|**2025-03-19**|**Energy-efficient Merging of Connected and Automated Vehicles using Control Barrier Functions**|Shreshta Rajakumar Deshpande et.al.|[2503.15379v1](http://arxiv.org/abs/2503.15379v1)|**2025-03-19**|null|
-|**2025-03-19**|**Probabilistic Flexibility Aggregation of DERs for Ancillary Services Provision**|Matthieu Jacobs et.al.|[2503.15378v1](http://arxiv.org/abs/2503.15378v1)|**2025-03-19**|null|
-|**2025-03-19**|**Genomic data processing with GenomeFlow**|Junseok Park et.al.|[2503.15377v1](http://arxiv.org/abs/2503.15377v1)|**2025-03-19**|null|
-|**2025-03-19**|**Well-Posedness of Contact Discontinuity Solutions and Vanishing Pressure Limit for the Aw-Rascle Traffic Flow Model**|Zijie Deng et.al.|[2503.15375v1](http://arxiv.org/abs/2503.15375v1)|**2025-03-19**|null|
-|**2025-03-19**|**Blocked Cholesky factorization updates of the Riccati recursion using hyperbolic Householder transformations**|Pieter Pas et.al.|[2503.15372v1](http://arxiv.org/abs/2503.15372v1)|**2025-03-19**|[link](https://github.com/kul-optec/hyhound)|
-|**2025-03-19**|**The importance of being empty: a spectral approach to Hopfield neural networks with diluted examples**|Elena Agliari et.al.|[2503.15353v1](http://arxiv.org/abs/2503.15353v1)|**2025-03-19**|null|
-|**2025-03-19**|**Leveraging Perfect Multimodal Alignment and Gaussian Assumptions for Cross-modal Transfer**|Abhi Kamboj et.al.|[2503.15352v1](http://arxiv.org/abs/2503.15352v1)|**2025-03-19**|null|
-|**2025-03-19**|**Playing against a stationary opponent**|Julien Grand-Clément et.al.|[2503.15346v1](http://arxiv.org/abs/2503.15346v1)|**2025-03-19**|null|
-|**2025-03-19**|**Higher order tacnodes in a free fermionic model**|Andrea Maroncelli et.al.|[2503.15344v1](http://arxiv.org/abs/2503.15344v1)|**2025-03-19**|null|
-|**2025-03-19**|**Uncertainty-Guided Chain-of-Thought for Code Generation with LLMs**|Yuqi Zhu et.al.|[2503.15341v1](http://arxiv.org/abs/2503.15341v1)|**2025-03-19**|null|
-|**2025-03-19**|**Sedimentation and shear-induced dynamics of spheroids in fluids with spatial viscosity variations**|Arjun Sharma et.al.|[2503.15340v1](http://arxiv.org/abs/2503.15340v1)|**2025-03-19**|null|
-|**2025-03-19**|**Data-driven Azimuthal RHEED construction for in-situ crystal growth characterization**|Abdourahman Khaireh-Walieh et.al.|[2503.15339v1](http://arxiv.org/abs/2503.15339v1)|**2025-03-19**|null|
-|**2025-03-19**|**Euclid Quick Data Release (Q1). LEMON -- Lens Modelling with Neural networks. Automated and fast modelling of Euclid gravitational lenses with a singular isothermal ellipsoid mass profile**|Euclid Collaboration et.al.|[2503.15329v1](http://arxiv.org/abs/2503.15329v1)|**2025-03-19**|null|
-|**2025-03-19**|**Euclid Quick Data Release (Q1). First Euclid statistical study of the active galactic nuclei contribution fraction**|Euclid Collaboration et.al.|[2503.15318v1](http://arxiv.org/abs/2503.15318v1)|**2025-03-19**|null|
-|**2025-03-19**|**Euclid Quick Data Release (Q1) -- First Euclid statistical study of galaxy mergers and their connection to active galactic nuclei**|Euclid Collaboration et.al.|[2503.15317v1](http://arxiv.org/abs/2503.15317v1)|**2025-03-19**|null|
-|**2025-03-19**|**Euclid Quick Data Release (Q1). Optical and near-infrared identification and classification of point-like X-ray selected sources**|Euclid Collaboration et.al.|[2503.15316v1](http://arxiv.org/abs/2503.15316v1)|**2025-03-19**|null|
-|**2025-03-19**|**Euclid Quick Data Release (Q1), A first look at the fraction of bars in massive galaxies at $z<1$**|Euclid Collaboration et.al.|[2503.15311v1](http://arxiv.org/abs/2503.15311v1)|**2025-03-19**|null|
-|**2025-03-19**|**Euclid Quick Data Release (Q1): From images to multiwavelength catalogues: the Euclid MERge Processing Function**|Euclid Collaboration et.al.|[2503.15305v2](http://arxiv.org/abs/2503.15305v2)|**2025-03-20**|null|
-|**2025-03-19**|**Euclid Quick Data Release (Q1). NIR processing and data products**|Euclid Collaboration et.al.|[2503.15304v1](http://arxiv.org/abs/2503.15304v1)|**2025-03-19**|null|
+|**2025-03-20**|**Sonata: Self-Supervised Learning of Reliable Point Representations**|Xiaoyang Wu et.al.|[2503.16429v1](http://arxiv.org/abs/2503.16429v1)|**2025-03-20**|null|
+|**2025-03-20**|**Computing Lindahl Equilibrium for Public Goods with and without Funding Caps**|Christian Kroer et.al.|[2503.16414v1](http://arxiv.org/abs/2503.16414v1)|**2025-03-20**|null|
+|**2025-03-20**|**Acceptance dependence of factorial cumulants, long-range correlations, and the antiproton puzzle**|Adam Bzdak et.al.|[2503.16405v1](http://arxiv.org/abs/2503.16405v1)|**2025-03-20**|null|
+|**2025-03-20**|**Do Visual Imaginations Improve Vision-and-Language Navigation Agents?**|Akhil Perincherry et.al.|[2503.16394v1](http://arxiv.org/abs/2503.16394v1)|**2025-03-20**|null|
+|**2025-03-20**|**Graph of Effort: Quantifying Risk of AI Usage for Vulnerability Assessment**|Anket Mehra et.al.|[2503.16392v1](http://arxiv.org/abs/2503.16392v1)|**2025-03-20**|null|
+|**2025-03-20**|**Phonons in Electron Crystals with Berry Curvature**|Junkai Dong et.al.|[2503.16390v1](http://arxiv.org/abs/2503.16390v1)|**2025-03-20**|null|
+|**2025-03-20**|**Attentional Triple-Encoder Network in Spatiospectral Domains for Medical Image Segmentation**|Kristin Qi et.al.|[2503.16389v1](http://arxiv.org/abs/2503.16389v1)|**2025-03-20**|null|
+|**2025-03-20**|**Deconstructing Long Chain-of-Thought: A Structured Reasoning Optimization Framework for Long CoT Distillation**|Yijia Luo et.al.|[2503.16385v1](http://arxiv.org/abs/2503.16385v1)|**2025-03-20**|null|
+|**2025-03-20**|**Panoptic-CUDAL Technical Report: Rural Australia Point Cloud Dataset in Rainy Conditions**|Tzu-Yun Tseng et.al.|[2503.16378v1](http://arxiv.org/abs/2503.16378v1)|**2025-03-20**|null|
+|**2025-03-20**|**Counting $SL(2,\mathbb{C})$ connections on Seifert-fibered spaces**|Juan Muñoz-Echániz et.al.|[2503.16370v1](http://arxiv.org/abs/2503.16370v1)|**2025-03-20**|null|
+|**2025-03-20**|**Global well-posedness for the Navier-Stokes system in new critical mixed-norm Besov spaces**|Leithold L. Aurazo-Alvarez et.al.|[2503.16362v1](http://arxiv.org/abs/2503.16362v1)|**2025-03-20**|null|
+|**2025-03-20**|**Principal Actions on Topological Quivers and Associated Operator Dynamics**|Matthew Gillespie et.al.|[2503.16352v1](http://arxiv.org/abs/2503.16352v1)|**2025-03-20**|null|
+|**2025-03-20**|**Palatable Conceptions of Disembodied Being: Terra Incognita in the Space of Possible Minds**|Murray Shanahan et.al.|[2503.16348v1](http://arxiv.org/abs/2503.16348v1)|**2025-03-20**|null|
+|**2025-03-20**|**An algebraic characterization of linearity for additive maps preserving orthogonality**|Lei Li et.al.|[2503.16341v1](http://arxiv.org/abs/2503.16341v1)|**2025-03-20**|null|
+|**2025-03-20**|**A Dataset of Performance Measurements and Alerts from Mozilla (Data Artifact)**|Mohamed Bilel Besbes et.al.|[2503.16332v1](http://arxiv.org/abs/2503.16332v1)|**2025-03-20**|null|
+|**2025-03-20**|**NeuralFoil: An Airfoil Aerodynamics Analysis Tool Using Physics-Informed Machine Learning**|Peter Sharpe et.al.|[2503.16323v1](http://arxiv.org/abs/2503.16323v1)|**2025-03-20**|[link](https://github.com/peterdsharpe/neuralfoil)|
+|**2025-03-20**|**Dynamic Point Maps: A Versatile Representation for Dynamic 3D Reconstruction**|Edgar Sucar et.al.|[2503.16318v1](http://arxiv.org/abs/2503.16318v1)|**2025-03-20**|null|
+|**2025-03-20**|**Localized Heating and Dynamics of the Solar Corona due to a Symbiosis of Waves and Reconnection**|A. K. Srivastava et.al.|[2503.16300v1](http://arxiv.org/abs/2503.16300v1)|**2025-03-20**|null|
+|**2025-03-20**|**Surface quasigeostrophic turbulence: The refined study of an active scalar**|Nicolas Valade et.al.|[2503.16294v1](http://arxiv.org/abs/2503.16294v1)|**2025-03-20**|null|
+|**2025-03-20**|**Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model**|Zhaochong An et.al.|[2503.16282v1](http://arxiv.org/abs/2503.16282v1)|**2025-03-20**|null|
+|**2025-03-20**|**Evaluation of Torque Ripple and Tooth Forces of a Skewed PMSM by 2D and 3D FE Simulations**|Karsten Müller et.al.|[2503.16279v1](http://arxiv.org/abs/2503.16279v1)|**2025-03-20**|null|
+|**2025-03-20**|**Kinetomagnetism and Altermagnetism**|Sang-Wook Cheong et.al.|[2503.16277v1](http://arxiv.org/abs/2503.16277v1)|**2025-03-20**|null|
+|**2025-03-20**|**From Head to Tail: Efficient Black-box Model Inversion Attack via Long-tailed Learning**|Ziang Li et.al.|[2503.16266v1](http://arxiv.org/abs/2503.16266v1)|**2025-03-20**|null|
+|**2025-03-20**|**From Monocular Vision to Autonomous Action: Guiding Tumor Resection via 3D Reconstruction**|Ayberk Acar et.al.|[2503.16263v1](http://arxiv.org/abs/2503.16263v1)|**2025-03-20**|null|
+|**2025-03-20**|**M2N2V2: Multi-Modal Unsupervised and Training-free Interactive Segmentation**|Markus Karmann et.al.|[2503.16254v1](http://arxiv.org/abs/2503.16254v1)|**2025-03-20**|null|
+|**2025-03-20**|**Contractibility of spaces of positive scalar curvature metrics with symmetry**|Christian Baer et.al.|[2503.16232v1](http://arxiv.org/abs/2503.16232v1)|**2025-03-20**|null|
+|**2025-03-20**|**Mutation and the Gabriel spectrum**|Michal Hrbek et.al.|[2503.16226v1](http://arxiv.org/abs/2503.16226v1)|**2025-03-20**|null|
+|**2025-03-20**|**Efficient Bayesian Computation Using Plug-and-Play Priors for Poisson Inverse Problems**|Teresa Klatzer et.al.|[2503.16222v1](http://arxiv.org/abs/2503.16222v1)|**2025-03-20**|null|
+|**2025-03-20**|**Enhanced quantum sensing in time-modulated non-Hermitian systems**|Qi-Cheng Wu et.al.|[2503.16217v1](http://arxiv.org/abs/2503.16217v1)|**2025-03-20**|null|
+|**2025-03-20**|**MathFusion: Enhancing Mathematic Problem-solving of LLM through Instruction Fusion**|Qizhi Pei et.al.|[2503.16212v1](http://arxiv.org/abs/2503.16212v1)|**2025-03-20**|null|

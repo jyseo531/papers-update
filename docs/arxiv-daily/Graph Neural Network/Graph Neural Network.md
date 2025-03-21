@@ -2,33 +2,33 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-19**|**Fast Two-photon Microscopy by Neuroimaging with Oblong Random Acquisition (NORA)**|Esther Whang et.al.|[2503.15487v1](http://arxiv.org/abs/2503.15487v1)|**2025-03-19**|null|
-|**2025-03-19**|**Natural Quantization of Neural Networks**|Richard Barney et.al.|[2503.15482v1](http://arxiv.org/abs/2503.15482v1)|**2025-03-19**|null|
-|**2025-03-19**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469v2](http://arxiv.org/abs/2503.15469v2)|**2025-03-20**|[link](https://github.com/Bearisbug/Bi-Elman)|
-|**2025-03-19**|**FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transformers**|Ruichen Chen et.al.|[2503.15465v1](http://arxiv.org/abs/2503.15465v1)|**2025-03-19**|null|
-|**2025-03-19**|**Low Cost C-ITS Stations Using Raspberry Pi and the Open Source Software OScar**|L. Farina et.al.|[2503.15461v1](http://arxiv.org/abs/2503.15461v1)|**2025-03-19**|null|
-|**2025-03-19**|**pyTTN: An Open Source Toolbox for Open and Closed System Quantum Dynamics Simulations Using Tree Tensor Networks**|Lachlan P Lindoy et.al.|[2503.15460v1](http://arxiv.org/abs/2503.15460v1)|**2025-03-19**|[link](https://gitlab.npl.co.uk/qsm/pyttn/)|
-|**2025-03-19**|**Quasi-convex Splittings of Acylindrical Graphs of Locally Finite-Height Groups**|William D. Cohen et.al.|[2503.15459v1](http://arxiv.org/abs/2503.15459v1)|**2025-03-19**|null|
-|**2025-03-19**|**Characterization of locally most split reliable graphs**|Pablo Romero et.al.|[2503.15453v1](http://arxiv.org/abs/2503.15453v1)|**2025-03-19**|null|
-|**2025-03-19**|**Reducing Communication Overhead in Federated Learning for Network Anomaly Detection with Adaptive Client Selection**|William Marfo et.al.|[2503.15448v1](http://arxiv.org/abs/2503.15448v1)|**2025-03-19**|null|
-|**2025-03-19**|**A discontinuity-capturing neural network with categorical embedding and its application to anisotropic elliptic interface problems**|Wei-Fan Hu et.al.|[2503.15441v1](http://arxiv.org/abs/2503.15441v1)|**2025-03-19**|null|
-|**2025-03-19**|**Optimum Network Slicing for Ultra-reliable Low Latency Communication (URLLC) Services in Campus Networks**|Iulisloi Zacarias et.al.|[2503.15429v1](http://arxiv.org/abs/2503.15429v1)|**2025-03-19**|null|
-|**2025-03-19**|**Direct comparison of stochastic driven nonlinear dynamical systems for combinatorial optimizations**|Junpeng Hou et.al.|[2503.15427v1](http://arxiv.org/abs/2503.15427v1)|**2025-03-19**|null|
-|**2025-03-19**|**The diverse and fair structures of growth with scale-free saturations**|Alain Govaert et.al.|[2503.15424v1](http://arxiv.org/abs/2503.15424v1)|**2025-03-19**|null|
-|**2025-03-19**|**LIFT: Latent Implicit Functions for Task- and Data-Agnostic Encoding**|Amirhossein Kazerouni et.al.|[2503.15420v1](http://arxiv.org/abs/2503.15420v1)|**2025-03-19**|null|
-|**2025-03-19**|**Automated Processing of eXplainable Artificial Intelligence Outputs in Deep Learning Models for Fault Diagnostics of Large Infrastructures**|Giovanni Floreale et.al.|[2503.15415v1](http://arxiv.org/abs/2503.15415v1)|**2025-03-19**|null|
-|**2025-03-19**|**HQNN-FSP: A Hybrid Classical-Quantum Neural Network for Regression-Based Financial Stock Market Prediction**|Prashant Kumar Choudhary et.al.|[2503.15403v1](http://arxiv.org/abs/2503.15403v1)|**2025-03-19**|null|
-|**2025-03-19**|**Towards efficient keyword spotting using spike-based time difference encoders**|Alejandro Pequeño-Zurro et.al.|[2503.15402v1](http://arxiv.org/abs/2503.15402v1)|**2025-03-19**|null|
-|**2025-03-19**|**Online Matching under KIID: Enhanced Competitive Analysis through Ordinary Differential Equation Systems**|Pan Xu et.al.|[2503.15399v1](http://arxiv.org/abs/2503.15399v1)|**2025-03-19**|null|
-|**2025-03-19**|**Advancing MG Energy Management: A Rolling Horizon Optimization Framework for Three-Phase Unbalanced Networks Integrating Convex Formulations**|Pablo Cortés et.al.|[2503.15394v1](http://arxiv.org/abs/2503.15394v1)|**2025-03-19**|null|
-|**2025-03-19**|**Modeling crystal defects using defect-informed neural networks**|Ziduo Yang et.al.|[2503.15391v1](http://arxiv.org/abs/2503.15391v1)|**2025-03-19**|null|
-|**2025-03-19**|**Revealing the proton slingshot mechanism in solid acid electrolytes through machine learning molecular dynamics**|Menghang Wang et.al.|[2503.15389v1](http://arxiv.org/abs/2503.15389v1)|**2025-03-19**|null|
-|**2025-03-19**|**Material Decomposition in Photon-Counting Computed Tomography with Diffusion Models: Comparative Study and Hybridization with Variational Regularizers**|Corentin Vazia et.al.|[2503.15383v1](http://arxiv.org/abs/2503.15383v1)|**2025-03-19**|null|
-|**2025-03-19**|**Probabilistic Flexibility Aggregation of DERs for Ancillary Services Provision**|Matthieu Jacobs et.al.|[2503.15378v1](http://arxiv.org/abs/2503.15378v1)|**2025-03-19**|null|
-|**2025-03-19**|**EfficientLLaVA:Generalizable Auto-Pruning for Large Vision-language Models**|Yinan Liang et.al.|[2503.15369v1](http://arxiv.org/abs/2503.15369v1)|**2025-03-19**|null|
-|**2025-03-19**|**Nonlinear Optimal Guidance for Impact Time Control with Field-of-View Constraint**|Fangmin Lu et.al.|[2503.15362v1](http://arxiv.org/abs/2503.15362v1)|**2025-03-19**|null|
-|**2025-03-19**|**Lyapunov-Based Graph Neural Networks for Adaptive Control of Multi-Agent Systems**|Brandon C. Fallin et.al.|[2503.15360v1](http://arxiv.org/abs/2503.15360v1)|**2025-03-19**|null|
-|**2025-03-19**|**Experimental Validation of Distributed Dispatching of Multiple Active Distribution Networks Using the ADMM**|Matthieu Jacobs et.al.|[2503.15356v1](http://arxiv.org/abs/2503.15356v1)|**2025-03-19**|null|
-|**2025-03-19**|**The importance of being empty: a spectral approach to Hopfield neural networks with diluted examples**|Elena Agliari et.al.|[2503.15353v1](http://arxiv.org/abs/2503.15353v1)|**2025-03-19**|null|
-|**2025-03-19**|**Data-driven Azimuthal RHEED construction for in-situ crystal growth characterization**|Abdourahman Khaireh-Walieh et.al.|[2503.15339v1](http://arxiv.org/abs/2503.15339v1)|**2025-03-19**|null|
-|**2025-03-19**|**Automated Functional Decomposition for Hybrid Zonotope Over-approximations with Application to LSTM Networks**|Jonah J. Glunt et.al.|[2503.15336v1](http://arxiv.org/abs/2503.15336v1)|**2025-03-19**|null|
+|**2025-03-20**|**Deep Feynman-Kac Methods for High-dimensional Semilinear Parabolic Equations: Revisit**|Xiaotao Zheng et.al.|[2503.16407v1](http://arxiv.org/abs/2503.16407v1)|**2025-03-20**|null|
+|**2025-03-20**|**Series-parallel graphs and hypercube degeneracy**|Daniel G. Zhu et.al.|[2503.16404v1](http://arxiv.org/abs/2503.16404v1)|**2025-03-20**|null|
+|**2025-03-20**|**The global convergence time of stochastic gradient descent in non-convex landscapes: Sharp estimates via large deviations**|Waïss Azizian et.al.|[2503.16398v1](http://arxiv.org/abs/2503.16398v1)|**2025-03-20**|null|
+|**2025-03-20**|**SV4D 2.0: Enhancing Spatio-Temporal Consistency in Multi-View Video Diffusion for High-Quality 4D Generation**|Chun-Han Yao et.al.|[2503.16396v1](http://arxiv.org/abs/2503.16396v1)|**2025-03-20**|null|
+|**2025-03-20**|**Graph of Effort: Quantifying Risk of AI Usage for Vulnerability Assessment**|Anket Mehra et.al.|[2503.16392v1](http://arxiv.org/abs/2503.16392v1)|**2025-03-20**|null|
+|**2025-03-20**|**Attentional Triple-Encoder Network in Spatiospectral Domains for Medical Image Segmentation**|Kristin Qi et.al.|[2503.16389v1](http://arxiv.org/abs/2503.16389v1)|**2025-03-20**|null|
+|**2025-03-20**|**On Decomposability of Virtual Artin Groups**|Federica Gavazzi et.al.|[2503.16386v1](http://arxiv.org/abs/2503.16386v1)|**2025-03-20**|null|
+|**2025-03-20**|**Sparse Nonparametric Contextual Bandits**|Hamish Flynn et.al.|[2503.16382v1](http://arxiv.org/abs/2503.16382v1)|**2025-03-20**|null|
+|**2025-03-20**|**LaPIG: Cross-Modal Generation of Paired Thermal and Visible Facial Images**|Leyang Wang et.al.|[2503.16376v1](http://arxiv.org/abs/2503.16376v1)|**2025-03-20**|null|
+|**2025-03-20**|**Neural Networks: According to the Principles of Grassmann Algebra**|Z. Zarezadeh et.al.|[2503.16364v1](http://arxiv.org/abs/2503.16364v1)|**2025-03-20**|null|
+|**2025-03-20**|**Enhancing variational quantum algorithms by balancing training on classical and quantum hardware**|Rahul Bhowmick et.al.|[2503.16361v1](http://arxiv.org/abs/2503.16361v1)|**2025-03-20**|null|
+|**2025-03-20**|**CaKE: Circuit-aware Editing Enables Generalizable Knowledge Learners**|Yunzhi Yao et.al.|[2503.16356v1](http://arxiv.org/abs/2503.16356v1)|**2025-03-20**|null|
+|**2025-03-20**|**Principal Actions on Topological Quivers and Associated Operator Dynamics**|Matthew Gillespie et.al.|[2503.16352v1](http://arxiv.org/abs/2503.16352v1)|**2025-03-20**|null|
+|**2025-03-20**|**Lyra: An Efficient and Expressive Subquadratic Architecture for Modeling Biological Sequences**|Krithik Ramesh et.al.|[2503.16351v1](http://arxiv.org/abs/2503.16351v1)|**2025-03-20**|null|
+|**2025-03-20**|**An Evaluation Tool for Backbone Extraction Techniques in Weighted Complex Networks**|Ali Yassin et.al.|[2503.16350v1](http://arxiv.org/abs/2503.16350v1)|**2025-03-20**|null|
+|**2025-03-20**|**Ion-Exchange Doping of Semiconducting Single-Walled Carbon Nanotubes**|Angus Hawkey et.al.|[2503.16347v1](http://arxiv.org/abs/2503.16347v1)|**2025-03-20**|null|
+|**2025-03-20**|**A Scalable and Robust Compilation Framework for Emitter-Photonic Graph State**|Xiangyu Ren et.al.|[2503.16346v1](http://arxiv.org/abs/2503.16346v1)|**2025-03-20**|null|
+|**2025-03-20**|**HiQ-Lip: The First Quantum-Classical Hierarchical Method for Global Lipschitz Constant Estimation of ReLU Networks**|Haoqi He et.al.|[2503.16342v1](http://arxiv.org/abs/2503.16342v1)|**2025-03-20**|null|
+|**2025-03-20**|**Nonlinear action prediction models reveal multi-timescale locomotor control**|Wei-Chen Wang et.al.|[2503.16340v1](http://arxiv.org/abs/2503.16340v1)|**2025-03-20**|null|
+|**2025-03-20**|**Gaussian Graph Network: Learning Efficient and Generalizable Gaussian Representations from Multi-view Images**|Shengjun Zhang et.al.|[2503.16338v1](http://arxiv.org/abs/2503.16338v1)|**2025-03-20**|null|
+|**2025-03-20**|**A parallel algorithm for the odd two-face shortest k-disjoint path problem**|Srijan Chakraborty et.al.|[2503.16336v1](http://arxiv.org/abs/2503.16336v1)|**2025-03-20**|null|
+|**2025-03-20**|**Bandgap-Dependent Doping of Semiconducting Carbon Nanotube Networks by Proton-Coupled Electron Transfer for Stable Thermoelectrics**|Angus Hawkey et.al.|[2503.16333v1](http://arxiv.org/abs/2503.16333v1)|**2025-03-20**|null|
+|**2025-03-20**|**Dynamic Point Maps: A Versatile Representation for Dynamic 3D Reconstruction**|Edgar Sucar et.al.|[2503.16318v1](http://arxiv.org/abs/2503.16318v1)|**2025-03-20**|null|
+|**2025-03-20**|**On the Cone Effect in the Learning Dynamics**|Zhanpeng Zhou et.al.|[2503.16316v1](http://arxiv.org/abs/2503.16316v1)|**2025-03-20**|null|
+|**2025-03-20**|**Can Real-to-Sim Approaches Capture Dynamic Fabric Behavior for Robotic Fabric Manipulation?**|Yingdong Ru et.al.|[2503.16310v1](http://arxiv.org/abs/2503.16310v1)|**2025-03-20**|null|
+|**2025-03-20**|**Rapid patient-specific neural networks for intraoperative X-ray to volume registration**|Vivek Gopalakrishnan et.al.|[2503.16309v1](http://arxiv.org/abs/2503.16309v1)|**2025-03-20**|null|
+|**2025-03-20**|**Extraction of Bend-Resolved Modal Basis in Deformed Multimode Fiber**|Lubomir Skvarenina et.al.|[2503.16303v1](http://arxiv.org/abs/2503.16303v1)|**2025-03-20**|null|
+|**2025-03-20**|**Unleashing Vecset Diffusion Model for Fast Shape Generation**|Zeqiang Lai et.al.|[2503.16302v1](http://arxiv.org/abs/2503.16302v1)|**2025-03-20**|null|
+|**2025-03-20**|**Log-Concavity of the Grothendieck Classes of Banana Graphs and Clasped Necklaces**|Stephanie Chen et.al.|[2503.16296v1](http://arxiv.org/abs/2503.16296v1)|**2025-03-20**|null|
+|**2025-03-20**|**Diffusion-augmented Graph Contrastive Learning for Collaborative Filter**|Fan Huang et.al.|[2503.16290v1](http://arxiv.org/abs/2503.16290v1)|**2025-03-20**|null|

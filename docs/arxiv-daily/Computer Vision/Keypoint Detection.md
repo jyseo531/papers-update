@@ -2,6 +2,10 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-20**|**SceneMI: Motion In-betweening for Modeling Human-Scene Interactions**|Inwoo Hwang et.al.|[2503.16289v1](http://arxiv.org/abs/2503.16289v1)|**2025-03-20**|null|
+|**2025-03-20**|**MapGlue: Multimodal Remote Sensing Image Matching**|Peihao Wu et.al.|[2503.16185v1](http://arxiv.org/abs/2503.16185v1)|**2025-03-20**|null|
+|**2025-03-20**|**Learning 3D Scene Analogies with Neural Contextual Scene Maps**|Junho Kim et.al.|[2503.15897v1](http://arxiv.org/abs/2503.15897v1)|**2025-03-20**|null|
+|**2025-03-19**|**How to Train Your Dragon: Automatic Diffusion-Based Rigging for Characters with Diverse Topologies**|Zeqi Gu et.al.|[2503.15586v1](http://arxiv.org/abs/2503.15586v1)|**2025-03-19**|null|
 |**2025-03-19**|**Distilling 3D distinctive local descriptors for 6D pose estimation**|Amir Hamza et.al.|[2503.15106v2](http://arxiv.org/abs/2503.15106v2)|**2025-03-20**|null|
 |**2025-03-19**|**Intelligent Spatial Perception by Building Hierarchical 3D Scene Graphs for Indoor Scenarios with the Help of LLMs**|Yao Cheng et.al.|[2503.15091v1](http://arxiv.org/abs/2503.15091v1)|**2025-03-19**|null|
 |**2025-03-19**|**Body-Hand Modality Expertized Networks with Cross-attention for Fine-grained Skeleton Action Recognition**|Seungyeon Cho et.al.|[2503.14960v1](http://arxiv.org/abs/2503.14960v1)|**2025-03-19**|null|
@@ -28,7 +32,3 @@
 |**2025-03-14**|**NF-SLAM: Effective, Normalizing Flow-supported Neural Field representations for object-level visual SLAM in automotive applications**|Li Cui et.al.|[2503.11199v1](http://arxiv.org/abs/2503.11199v1)|**2025-03-14**|null|
 |**2025-03-13**|**Clothes-Changing Person Re-identification Based On Skeleton Dynamics**|Asaf Joseph et.al.|[2503.10759v1](http://arxiv.org/abs/2503.10759v1)|**2025-03-13**|null|
 |**2025-03-13**|**KUDA: Keypoints to Unify Dynamics Learning and Visual Prompting for Open-Vocabulary Robotic Manipulation**|Zixian Liu et.al.|[2503.10546v1](http://arxiv.org/abs/2503.10546v1)|**2025-03-13**|null|
-|**2025-03-13**|**Consistent multi-animal pose estimation in cattle using dynamic Kalman filter based tracking**|Maarten Perneel et.al.|[2503.10450v1](http://arxiv.org/abs/2503.10450v1)|**2025-03-13**|[link](https://github.com/mperneel/Kantool)|
-|**2025-03-13**|**HSEmotion Team at ABAW-8 Competition: Audiovisual Ambivalence/Hesitancy, Emotional Mimicry Intensity and Facial Expression Recognition**|Andrey V. Savchenko et.al.|[2503.10399v1](http://arxiv.org/abs/2503.10399v1)|**2025-03-13**|null|
-|**2025-03-13**|**SVIP: Semantically Contextualized Visual Patches for Zero-Shot Learning**|Zhi Chen et.al.|[2503.10252v1](http://arxiv.org/abs/2503.10252v1)|**2025-03-13**|null|
-|**2025-03-13**|**Uncertainty-aware Long-tailed Weights Model the Utility of Pseudo-labels for Semi-supervised Learning**|Jiaqi Wu et.al.|[2503.09974v1](http://arxiv.org/abs/2503.09974v1)|**2025-03-13**|null|

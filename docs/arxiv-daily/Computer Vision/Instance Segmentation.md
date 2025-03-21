@@ -2,33 +2,33 @@
 ### Instance Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-19**|**Value Profiles for Encoding Human Variation**|Taylor Sorensen et.al.|[2503.15484v1](http://arxiv.org/abs/2503.15484v1)|**2025-03-19**|null|
-|**2025-03-19**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469v2](http://arxiv.org/abs/2503.15469v2)|**2025-03-20**|[link](https://github.com/Bearisbug/Bi-Elman)|
-|**2025-03-19**|**Provably optimal exact gate synthesis from a discrete gate set**|Élie Gouzien et.al.|[2503.15452v1](http://arxiv.org/abs/2503.15452v1)|**2025-03-19**|null|
-|**2025-03-19**|**Turbulent power: a discriminator between sheaths and CMEs**|Deep Ghuge et.al.|[2503.15430v1](http://arxiv.org/abs/2503.15430v1)|**2025-03-19**|null|
-|**2025-03-19**|**Federated Continual 3D Segmentation With Single-round Communication**|Can Peng et.al.|[2503.15414v1](http://arxiv.org/abs/2503.15414v1)|**2025-03-19**|null|
-|**2025-03-19**|**FedSCA: Federated Tuning with Similarity-guided Collaborative Aggregation for Heterogeneous Medical Image Segmentation**|Yumin Zhang et.al.|[2503.15390v1](http://arxiv.org/abs/2503.15390v1)|**2025-03-19**|null|
-|**2025-03-19**|**Data-driven Azimuthal RHEED construction for in-situ crystal growth characterization**|Abdourahman Khaireh-Walieh et.al.|[2503.15339v1](http://arxiv.org/abs/2503.15339v1)|**2025-03-19**|null|
-|**2025-03-19**|**Euclid Quick Data Release (Q1): From images to multiwavelength catalogues: the Euclid MERge Processing Function**|Euclid Collaboration et.al.|[2503.15305v2](http://arxiv.org/abs/2503.15305v2)|**2025-03-20**|null|
-|**2025-03-19**|**Euclid Quick Data Release (Q1): VIS processing and data products**|Euclid Collaboration et.al.|[2503.15303v1](http://arxiv.org/abs/2503.15303v1)|**2025-03-19**|null|
-|**2025-03-19**|**SUM Parts: Benchmarking Part-Level Semantic Segmentation of Urban Meshes**|Weixiao Gao et.al.|[2503.15300v1](http://arxiv.org/abs/2503.15300v1)|**2025-03-19**|null|
-|**2025-03-19**|**MAMM-Refine: A Recipe for Improving Faithfulness in Generation with Multi-Agent Collaboration**|David Wan et.al.|[2503.15272v1](http://arxiv.org/abs/2503.15272v1)|**2025-03-19**|null|
-|**2025-03-19**|**Strong correlation between $H$-linear magnetoresistance and strange metal in FeSe superconductor**|Xinyue Wang et.al.|[2503.15266v1](http://arxiv.org/abs/2503.15266v1)|**2025-03-19**|null|
-|**2025-03-19**|**LEGION: Learning to Ground and Explain for Synthetic Image Detection**|Hengrui Kang et.al.|[2503.15264v1](http://arxiv.org/abs/2503.15264v1)|**2025-03-19**|null|
-|**2025-03-19**|**DEPT: Deep Extreme Point Tracing for Ultrasound Image Segmentation**|Lei Shi et.al.|[2503.15260v1](http://arxiv.org/abs/2503.15260v1)|**2025-03-19**|null|
-|**2025-03-19**|**Controlled Diagonal Catalyst Improves the Efficiency of Quantum Annealing**|Tomohiro Hattori et.al.|[2503.15244v1](http://arxiv.org/abs/2503.15244v1)|**2025-03-19**|null|
-|**2025-03-19**|**3D Occupancy Prediction with Low-Resolution Queries via Prototype-aware View Transformation**|Gyeongrok Oh et.al.|[2503.15185v1](http://arxiv.org/abs/2503.15185v1)|**2025-03-19**|null|
-|**2025-03-19**|**Text-Derived Relational Graph-Enhanced Network for Skeleton-Based Action Segmentation**|Haoyu Ji et.al.|[2503.15126v1](http://arxiv.org/abs/2503.15126v1)|**2025-03-19**|null|
-|**2025-03-19**|**GIVEPose: Gradual Intra-class Variation Elimination for RGB-based Category-Level Object Pose Estimation**|Zinqin Huang et.al.|[2503.15110v2](http://arxiv.org/abs/2503.15110v2)|**2025-03-20**|null|
-|**2025-03-19**|**A Novel Quantity for Probing Matter Perturbations Below the Fresnel Scale in Gravitational Lensing of Gravitational Waves**|So Tanaka et.al.|[2503.15066v1](http://arxiv.org/abs/2503.15066v1)|**2025-03-19**|null|
-|**2025-03-19**|**Semantic Segmentation of Transparent and Opaque Drinking Glasses with the Help of Zero-shot Learning**|Annalena Blänsdorf et.al.|[2503.15004v1](http://arxiv.org/abs/2503.15004v1)|**2025-03-19**|null|
-|**2025-03-19**|**Radial flow component of Sun's high frequency retrograde inertial waves**|Chris S. Hanson et.al.|[2503.14995v1](http://arxiv.org/abs/2503.14995v1)|**2025-03-19**|null|
-|**2025-03-19**|**Semi-KAN: KAN Provides an Effective Representation for Semi-Supervised Learning in Medical Image Segmentation**|Zanting Ye et.al.|[2503.14983v1](http://arxiv.org/abs/2503.14983v1)|**2025-03-19**|null|
-|**2025-03-19**|**One-Shot Medical Video Object Segmentation via Temporal Contrastive Memory Networks**|Yaxiong Chen et.al.|[2503.14979v1](http://arxiv.org/abs/2503.14979v1)|**2025-03-19**|null|
-|**2025-03-19**|**Behaviour Discovery and Attribution for Explainable Reinforcement Learning**|Rishav Rishav et.al.|[2503.14973v1](http://arxiv.org/abs/2503.14973v1)|**2025-03-19**|null|
-|**2025-03-19**|**Mitigating the Double-Reallocation Issue for IPv6 Lightweight Tunnel Encapsulations in the Linux Kernel**|J. Iurman et.al.|[2503.14959v1](http://arxiv.org/abs/2503.14959v1)|**2025-03-19**|null|
-|**2025-03-19**|**Reducing Annotation Burden: Exploiting Image Knowledge for Few-Shot Medical Video Object Segmentation via Spatiotemporal Consistency Relearning**|Zixuan Zheng et.al.|[2503.14958v1](http://arxiv.org/abs/2503.14958v1)|**2025-03-19**|null|
-|**2025-03-19**|**Depth-Aware Range Image-Based Model for Point Cloud Segmentation**|Bike Chen et.al.|[2503.14955v1](http://arxiv.org/abs/2503.14955v1)|**2025-03-19**|null|
-|**2025-03-19**|**USAM-Net: A U-Net-based Network for Improved Stereo Correspondence and Scene Depth Estimation using Features from a Pre-trained Image Segmentation network**|Joseph Emmanuel DL Dayo et.al.|[2503.14950v1](http://arxiv.org/abs/2503.14950v1)|**2025-03-19**|null|
-|**2025-03-19**|**Deep Polycuboid Fitting for Compact 3D Representation of Indoor Scenes**|Gahye Lee et.al.|[2503.14912v1](http://arxiv.org/abs/2503.14912v1)|**2025-03-19**|null|
-|**2025-03-19**|**POSTA: A Go-to Framework for Customized Artistic Poster Generation**|Haoyu Chen et.al.|[2503.14908v1](http://arxiv.org/abs/2503.14908v1)|**2025-03-19**|null|
+|**2025-03-20**|**DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding**|Keyan Chen et.al.|[2503.16426v1](http://arxiv.org/abs/2503.16426v1)|**2025-03-20**|[link](https://github.com/KyanChen/DynamicVis)|
+|**2025-03-20**|**Do Visual Imaginations Improve Vision-and-Language Navigation Agents?**|Akhil Perincherry et.al.|[2503.16394v1](http://arxiv.org/abs/2503.16394v1)|**2025-03-20**|null|
+|**2025-03-20**|**Attentional Triple-Encoder Network in Spatiospectral Domains for Medical Image Segmentation**|Kristin Qi et.al.|[2503.16389v1](http://arxiv.org/abs/2503.16389v1)|**2025-03-20**|null|
+|**2025-03-20**|**Deconstructing Long Chain-of-Thought: A Structured Reasoning Optimization Framework for Long CoT Distillation**|Yijia Luo et.al.|[2503.16385v1](http://arxiv.org/abs/2503.16385v1)|**2025-03-20**|null|
+|**2025-03-20**|**Panoptic-CUDAL Technical Report: Rural Australia Point Cloud Dataset in Rainy Conditions**|Tzu-Yun Tseng et.al.|[2503.16378v1](http://arxiv.org/abs/2503.16378v1)|**2025-03-20**|null|
+|**2025-03-20**|**Global well-posedness for the Navier-Stokes system in new critical mixed-norm Besov spaces**|Leithold L. Aurazo-Alvarez et.al.|[2503.16362v1](http://arxiv.org/abs/2503.16362v1)|**2025-03-20**|null|
+|**2025-03-20**|**Dynamic Point Maps: A Versatile Representation for Dynamic 3D Reconstruction**|Edgar Sucar et.al.|[2503.16318v1](http://arxiv.org/abs/2503.16318v1)|**2025-03-20**|null|
+|**2025-03-20**|**Active Learning For Repairable Hardware Systems With Partial Coverage**|Michael Potter et.al.|[2503.16315v1](http://arxiv.org/abs/2503.16315v1)|**2025-03-20**|null|
+|**2025-03-20**|**PSA-MIL: A Probabilistic Spatial Attention-Based Multiple Instance Learning for Whole Slide Image Classification**|Sharon Peled et.al.|[2503.16284v1](http://arxiv.org/abs/2503.16284v1)|**2025-03-20**|null|
+|**2025-03-20**|**Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model**|Zhaochong An et.al.|[2503.16282v1](http://arxiv.org/abs/2503.16282v1)|**2025-03-20**|null|
+|**2025-03-20**|**Evaluation of Torque Ripple and Tooth Forces of a Skewed PMSM by 2D and 3D FE Simulations**|Karsten Müller et.al.|[2503.16279v1](http://arxiv.org/abs/2503.16279v1)|**2025-03-20**|null|
+|**2025-03-20**|**From Monocular Vision to Autonomous Action: Guiding Tumor Resection via 3D Reconstruction**|Ayberk Acar et.al.|[2503.16263v1](http://arxiv.org/abs/2503.16263v1)|**2025-03-20**|null|
+|**2025-03-20**|**Quantum metrology of a structured reservoir**|Youssef Aiache et.al.|[2503.16261v1](http://arxiv.org/abs/2503.16261v1)|**2025-03-20**|null|
+|**2025-03-20**|**M2N2V2: Multi-Modal Unsupervised and Training-free Interactive Segmentation**|Markus Karmann et.al.|[2503.16254v1](http://arxiv.org/abs/2503.16254v1)|**2025-03-20**|null|
+|**2025-03-20**|**3D radio data visualisation in open science platforms for next-generation observatories**|I. Labadie-García et.al.|[2503.16237v1](http://arxiv.org/abs/2503.16237v1)|**2025-03-20**|null|
+|**2025-03-20**|**The role of absorption and scattering in shaping ice bands. Spatially-resolved spectroscopy of protoplanetary disks**|Laurine Martinien et.al.|[2503.16223v1](http://arxiv.org/abs/2503.16223v1)|**2025-03-20**|null|
+|**2025-03-20**|**MathFusion: Enhancing Mathematic Problem-solving of LLM through Instruction Fusion**|Qizhi Pei et.al.|[2503.16212v1](http://arxiv.org/abs/2503.16212v1)|**2025-03-20**|null|
+|**2025-03-20**|**Instance optimal function recovery -- samples, decoders and asymptotic performance**|Moritz Moeller et.al.|[2503.16209v1](http://arxiv.org/abs/2503.16209v1)|**2025-03-20**|null|
+|**2025-03-20**|**Some new Betti numbers of ideals generated by n+1 generic forms in n variables**|Ralf Fröberg et.al.|[2503.16155v1](http://arxiv.org/abs/2503.16155v1)|**2025-03-20**|null|
+|**2025-03-20**|**Selective Complementary Feature Fusion and Modal Feature Compression Interaction for Brain Tumor Segmentation**|Dong Chen et.al.|[2503.16149v1](http://arxiv.org/abs/2503.16149v1)|**2025-03-20**|null|
+|**2025-03-20**|**Controllable Segmentation-Based Text-Guided Style Editing**|Jingwen Li et.al.|[2503.16129v1](http://arxiv.org/abs/2503.16129v1)|**2025-03-20**|null|
+|**2025-03-20**|**Probabilistic Prompt Distribution Learning for Animal Pose Estimation**|Jiyong Rao et.al.|[2503.16120v1](http://arxiv.org/abs/2503.16120v1)|**2025-03-20**|null|
+|**2025-03-20**|**Elastic displacements and viscous hydrodynamic flows in wedge-shaped geometries featuring a straight edge: Green's functions for forces oriented parallel to the edge**|Abdallah Daddi-Moussa-Ider et.al.|[2503.16116v1](http://arxiv.org/abs/2503.16116v1)|**2025-03-20**|null|
+|**2025-03-20**|**Hyperspectral Imaging for Identifying Foreign Objects on Pork Belly**|Gabriela Ghimpeteanu et.al.|[2503.16086v1](http://arxiv.org/abs/2503.16086v1)|**2025-03-20**|null|
+|**2025-03-20**|**SALT: Singular Value Adaptation with Low-Rank Transformation**|Abdelrahman Elsayed et.al.|[2503.16055v1](http://arxiv.org/abs/2503.16055v1)|**2025-03-20**|null|
+|**2025-03-20**|**A Linear Programming Approach to the Super-Stable Roommates Problem**|Naoyuki Kamiyama et.al.|[2503.16052v1](http://arxiv.org/abs/2503.16052v1)|**2025-03-20**|null|
+|**2025-03-20**|**Closer to Ground Truth: Realistic Shape and Appearance Labeled Data Generation for Unsupervised Underwater Image Segmentation**|Andrei Jelea et.al.|[2503.16051v1](http://arxiv.org/abs/2503.16051v1)|**2025-03-20**|null|
+|**2025-03-20**|**Agentic Keyframe Search for Video Question Answering**|Sunqi Fan et.al.|[2503.16032v1](http://arxiv.org/abs/2503.16032v1)|**2025-03-20**|null|
+|**2025-03-20**|**Deceptive Humor: A Synthetic Multilingual Benchmark Dataset for Bridging Fabricated Claims with Humorous Content**|Sai Kartheek Reddy Kasu et.al.|[2503.16031v1](http://arxiv.org/abs/2503.16031v1)|**2025-03-20**|null|
+|**2025-03-20**|**CausalCLIPSeg: Unlocking CLIP's Potential in Referring Medical Image Segmentation with Causal Intervention**|Yaxiong Chen et.al.|[2503.15949v1](http://arxiv.org/abs/2503.15949v1)|**2025-03-20**|null|
