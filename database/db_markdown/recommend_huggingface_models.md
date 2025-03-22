@@ -489,6 +489,7 @@ Updated on 2025-03-22
 | 8.26k | 33 | GerMedBERT/medbert-512Fill-Mask | UpdatedMar 27, 2023 | [Link](https://huggingface.co/GerMedBERT/medbert-512) |
 | 8.8k | 32 | sbintuitions/modernbert-ja-130mFill-Mask | Updated11 days ago | [Link](https://huggingface.co/sbintuitions/modernbert-ja-130m) |
 | 4.87k | 31 | mental/mental-bert-base-uncasedFill-Mask | UpdatedFeb 27, 2023 | [Link](https://huggingface.co/mental/mental-bert-base-uncased) |
+| 75.8k | 29 | aubmindlab/bert-base-arabertv2Fill-Mask | UpdatedAug 3, 2023 | [Link](https://huggingface.co/aubmindlab/bert-base-arabertv2) |
 | 3.06k | 26 | ckiplab/bert-base-chineseFill-Mask | UpdatedMay 10, 2022 | [Link](https://huggingface.co/ckiplab/bert-base-chinese) |
 | 17 | 23 | chandar-lab/NeoBERTFill-Mask | Updatedabout 6 hours ago | [Link](https://huggingface.co/chandar-lab/NeoBERT) |
 | 882 | 23 | StanfordAIMI/RadBERTFill-Mask | UpdatedNov 19, 2022 | [Link](https://huggingface.co/StanfordAIMI/RadBERT) |
