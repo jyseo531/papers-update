@@ -156,6 +156,7 @@ Updated on 2025-03-22
 | 1.72k | 9 | patriotyk/vocos-mel-hifigan-compat-44100khzAudio-to-Audio | UpdatedAug 19, 2024 | [Link](https://huggingface.co/patriotyk/vocos-mel-hifigan-compat-44100khz) |
 | 113 | 8 | dog/kanyeAudio-to-Audio | UpdatedApr 25, 2023 | [Link](https://huggingface.co/dog/kanye) |
 | 1.18k | 7 | speechbrain/sepformer-libri3mixAudio-to-Audio | UpdatedFeb 25, 2024 | [Link](https://huggingface.co/speechbrain/sepformer-libri3mix) |
+| 4.01k | 7 | sail-rvc/Donald_Trump__RVC_v2_Audio-to-Audio | UpdatedJul 14, 2023 | [Link](https://huggingface.co/sail-rvc/Donald_Trump__RVC_v2_) |
 | 365 | 6 | speechbrain/sepformer-wsj03mixAudio-to-Audio | UpdatedFeb 20, 2024 | [Link](https://huggingface.co/speechbrain/sepformer-wsj03mix) |
 | 8 | 6 | facebook/textless_sm_cs_enAudio-to-Audio | UpdatedOct 16, 2022 | [Link](https://huggingface.co/facebook/textless_sm_cs_en) |
 | 35 | 4 | slprl/slamAudio-to-Audio | Updatedabout 12 hours ago | [Link](https://huggingface.co/slprl/slam) |
@@ -246,6 +247,7 @@ Updated on 2025-03-22
 | 774 | 4 | nvidia/stt_fr_fastconformer_hybrid_large_pcAutomatic | Updatedabout 24 hours ago | [Link](https://huggingface.co/nvidia/stt_fr_fastconformer_hybrid_large_pc) |
 | 20 | 4 | espnet/owls_4B_180KAutomatic | Updated4 days ago | [Link](https://huggingface.co/espnet/owls_4B_180K) |
 | 674 | 4 | CAYTU/whosper-large-v2Automatic | Updated3 days ago | [Link](https://huggingface.co/CAYTU/whosper-large-v2) |
+| 155 | 4 | Na0s/Medical-Whisper-Large-v3Automatic | UpdatedOct 6, 2024 | [Link](https://huggingface.co/Na0s/Medical-Whisper-Large-v3) |
 | 382 | 3 | suzii/vi-whisper-large-v3-turbo-v1Automatic | UpdatedJan 15 | [Link](https://huggingface.co/suzii/vi-whisper-large-v3-turbo-v1) |
 | 75 | 3 | erenfazlioglu/whisper-small-turkish-tr-bestAutomatic | UpdatedOct 4, 2023 | [Link](https://huggingface.co/erenfazlioglu/whisper-small-turkish-tr-best) |
 | 851 | 3 | ivrit-ai/whisper-large-v3-turboAutomatic | Updated8 days ago | [Link](https://huggingface.co/ivrit-ai/whisper-large-v3-turbo) |
@@ -1044,6 +1046,7 @@ Updated on 2025-03-22
 | 169 | 3 | Remade-AI/AssassinImage-to-Video | Updated3 days ago | [Link](https://huggingface.co/Remade-AI/Assassin) |
 | 10 | 3 | Remade-AI/Fus-Ro-DahImage-to-Video | Updated1 day ago | [Link](https://huggingface.co/Remade-AI/Fus-Ro-Dah) |
 | 6 | 3 | Remade-AI/Robot-Face-RevealImage-to-Video | Updated1 day ago | [Link](https://huggingface.co/Remade-AI/Robot-Face-Reveal) |
+| 69 | 3 | Remade-AI/Super-SaiyanImage-to-Video | Updated1 day ago | [Link](https://huggingface.co/Remade-AI/Super-Saiyan) |
 | 600k | 2.91k | stabilityai/stable-video-diffusion-img2vid-xtImage-to-Video | UpdatedJul 10, 2024 | [Link](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt) |
 | 244 | 2 | calcuis/hyvid-i2v-ggufImage-to-Video | Updatedabout 17 hours ago | [Link](https://huggingface.co/calcuis/hyvid-i2v-gguf) |
 | 136 | 2 | city96/LTX-Video-0 | Updated1 day ago | [Link](https://huggingface.co/city96/LTX-Video-0.9.5-gguf) |
@@ -2015,6 +2018,7 @@ Updated on 2025-03-22
 | 143 | 3 | ajd12342/parler-tts-mini-v1-paraspeechcapsText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/ajd12342/parler-tts-mini-v1-paraspeechcaps) |
 | 238 | 3 | ai4bharat/IndicF5Text-to-Speech | Updated2 days ago | [Link](https://huggingface.co/ai4bharat/IndicF5) |
 | 24 | 3 | mlx-community/csm-1bText-to-Speech | Updatedabout 15 hours ago | [Link](https://huggingface.co/mlx-community/csm-1b) |
+| 101 | 3 | lex-au/Orpheus-3b-FT-Q8_0 | Updatedabout 18 hours ago | [Link](https://huggingface.co/lex-au/Orpheus-3b-FT-Q8_0.gguf) |
 | 2.36M | 2.41k | coqui/XTTS-v2Text-to-Speech | UpdatedDec 11, 2023 | [Link](https://huggingface.co/coqui/XTTS-v2) |
 | 302 | Unknown | lj1995/GPT-SoVITSText-to-Speech | Updated14 days ago | [Link](https://huggingface.co/lj1995/GPT-SoVITS) |
 | 436 | Unknown | myshell-ai/OpenVoiceText-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoice) |
@@ -2163,6 +2167,7 @@ Updated on 2025-03-22
 | 2.83k |  | allenai/t5-small-squad2-question-generationText2Text | UpdatedJan 24, 2023 | [Link](https://huggingface.co/allenai/t5-small-squad2-question-generation) |
 | 1.46M |  | google/byt5-smallText2Text | UpdatedJan 24, 2023 | [Link](https://huggingface.co/google/byt5-small) |
 | 2 | Unknown | XeTute/TypoRPV3-2BText2Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/XeTute/TypoRPV3-2B) |
+| 1.11M |  | google/flan-t5-baseText2Text | UpdatedJul 17, 2023 | [Link](https://huggingface.co/google/flan-t5-base) |
 
 ## Time Series Forecasting
 

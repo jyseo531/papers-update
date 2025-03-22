@@ -6,7 +6,7 @@
 |**2025-03-20**|**Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation**|Yuqing Wang et.al.|[2503.16430v1](http://arxiv.org/abs/2503.16430v1)|**2025-03-20**|null|
 |**2025-03-20**|**XAttention: Block Sparse Attention with Antidiagonal Scoring**|Ruyi Xu et.al.|[2503.16428v1](http://arxiv.org/abs/2503.16428v1)|**2025-03-20**|null|
 |**2025-03-20**|**DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding**|Keyan Chen et.al.|[2503.16426v1](http://arxiv.org/abs/2503.16426v1)|**2025-03-20**|[link](https://github.com/KyanChen/DynamicVis)|
-|**2025-03-20**|**Tokenize Image as a Set**|Zigang Geng et.al.|[2503.16425v1](http://arxiv.org/abs/2503.16425v1)|**2025-03-20**|null|
+|**2025-03-20**|**Tokenize Image as a Set**|Zigang Geng et.al.|[2503.16425v1](http://arxiv.org/abs/2503.16425v1)|**2025-03-20**|[link](https://github.com/Gengzigang/TokenSet)|
 |**2025-03-20**|**Bézier Splatting for Fast and Differentiable Vector Graphics**|Xi Liu et.al.|[2503.16424v1](http://arxiv.org/abs/2503.16424v1)|**2025-03-20**|null|
 |**2025-03-20**|**GAEA: A Geolocation Aware Conversational Model**|Ron Campos et.al.|[2503.16423v1](http://arxiv.org/abs/2503.16423v1)|**2025-03-20**|null|
 |**2025-03-20**|**1000+ FPS 4D Gaussian Splatting for Dynamic Scene Rendering**|Yuheng Yuan et.al.|[2503.16422v1](http://arxiv.org/abs/2503.16422v1)|**2025-03-20**|null|

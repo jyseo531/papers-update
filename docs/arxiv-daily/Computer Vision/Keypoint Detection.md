@@ -9,7 +9,7 @@
 |**2025-03-19**|**Distilling 3D distinctive local descriptors for 6D pose estimation**|Amir Hamza et.al.|[2503.15106v2](http://arxiv.org/abs/2503.15106v2)|**2025-03-20**|null|
 |**2025-03-19**|**Intelligent Spatial Perception by Building Hierarchical 3D Scene Graphs for Indoor Scenarios with the Help of LLMs**|Yao Cheng et.al.|[2503.15091v1](http://arxiv.org/abs/2503.15091v1)|**2025-03-19**|null|
 |**2025-03-19**|**Body-Hand Modality Expertized Networks with Cross-attention for Fine-grained Skeleton Action Recognition**|Seungyeon Cho et.al.|[2503.14960v1](http://arxiv.org/abs/2503.14960v1)|**2025-03-19**|null|
-|**2025-03-18**|**Consumer-grade EEG-based Eye Tracking**|Tiago Vasconcelos Afonso et.al.|[2503.14322v1](http://arxiv.org/abs/2503.14322v1)|**2025-03-18**|null|
+|**2025-03-18**|**Consumer-grade EEG-based Eye Tracking**|Tiago Vasconcelos Afonso et.al.|[2503.14322v1](http://arxiv.org/abs/2503.14322v1)|**2025-03-18**|[link](https://github.com/FlorianHeinrichs/eeg_eye_tracking)|
 |**2025-03-18**|**PC-Talk: Precise Facial Animation Control for Audio-Driven Talking Face Generation**|Baiqin Wang et.al.|[2503.14295v2](http://arxiv.org/abs/2503.14295v2)|**2025-03-20**|null|
 |**2025-03-18**|**Opportunities and Challenges in Unsupervised Learning: The Case of Aqueous Electrolyte Solutions**|Giulia Sormani et.al.|[2503.14197v1](http://arxiv.org/abs/2503.14197v1)|**2025-03-18**|null|
 |**2025-03-18**|**A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**|Huy-Hoang Bui et.al.|[2503.13982v1](http://arxiv.org/abs/2503.13982v1)|**2025-03-18**|[link](https://github.com/ais-lab/a-score)|
