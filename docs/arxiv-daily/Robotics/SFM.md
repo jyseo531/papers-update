@@ -2,7 +2,7 @@
 ### SFM
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-20**|**Sonata: Self-Supervised Learning of Reliable Point Representations**|Xiaoyang Wu et.al.|[2503.16429v1](http://arxiv.org/abs/2503.16429v1)|**2025-03-20**|null|
+|**2025-03-20**|**Sonata: Self-Supervised Learning of Reliable Point Representations**|Xiaoyang Wu et.al.|[2503.16429v1](http://arxiv.org/abs/2503.16429v1)|**2025-03-20**|[link](https://github.com/facebookresearch/sonata)|
 |**2025-03-20**|**Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation**|Yuqing Wang et.al.|[2503.16430v1](http://arxiv.org/abs/2503.16430v1)|**2025-03-20**|null|
 |**2025-03-20**|**XAttention: Block Sparse Attention with Antidiagonal Scoring**|Ruyi Xu et.al.|[2503.16428v1](http://arxiv.org/abs/2503.16428v1)|**2025-03-20**|null|
 |**2025-03-20**|**DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding**|Keyan Chen et.al.|[2503.16426v1](http://arxiv.org/abs/2503.16426v1)|**2025-03-20**|[link](https://github.com/KyanChen/DynamicVis)|
@@ -27,7 +27,7 @@
 |**2025-03-20**|**Deconstructing Long Chain-of-Thought: A Structured Reasoning Optimization Framework for Long CoT Distillation**|Yijia Luo et.al.|[2503.16385v1](http://arxiv.org/abs/2503.16385v1)|**2025-03-20**|null|
 |**2025-03-20**|**Quantum Characterization, Verification, and Validation**|Robin Blume-Kohout et.al.|[2503.16383v1](http://arxiv.org/abs/2503.16383v1)|**2025-03-20**|null|
 |**2025-03-20**|**The impact of baryons on the sparsity of simulated galaxy clusters from The Three Hundred Project**|P. S. Corasaniti et.al.|[2503.16379v1](http://arxiv.org/abs/2503.16379v1)|**2025-03-20**|null|
-|**2025-03-20**|**NuiScene: Exploring Efficient Generation of Unbounded Outdoor Scenes**|Han-Hung Lee et.al.|[2503.16375v1](http://arxiv.org/abs/2503.16375v1)|**2025-03-20**|null|
+|**2025-03-20**|**NuiScene: Exploring Efficient Generation of Unbounded Outdoor Scenes**|Han-Hung Lee et.al.|[2503.16375v1](http://arxiv.org/abs/2503.16375v1)|**2025-03-20**|[link](https://github.com/3dlg-hcvc/NuiScene)|
 |**2025-03-20**|**Heat transfer and mixing in initiated Chemical Vapor Deposition analyzed by in-situ gas composition sensing**|Simon Shindler et.al.|[2503.16373v1](http://arxiv.org/abs/2503.16373v1)|**2025-03-20**|null|
 |**2025-03-20**|**The role of spin-isospin symmetries in nuclear beta-decays**|Simone Salvatore Li Muli et.al.|[2503.16372v1](http://arxiv.org/abs/2503.16372v1)|**2025-03-20**|null|
 |**2025-03-20**|**Counting $SL(2,\mathbb{C})$ connections on Seifert-fibered spaces**|Juan Muñoz-Echániz et.al.|[2503.16370v1](http://arxiv.org/abs/2503.16370v1)|**2025-03-20**|null|

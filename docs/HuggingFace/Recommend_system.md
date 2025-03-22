@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-03-21
+Updated on 2025-03-22
 
 > Generated from the Hugging Face database.
 
@@ -765,6 +765,7 @@ Updated on 2025-03-21
 | 2 | Unknown | imageomics/BGNN-trait-segmentationImage | UpdatedDec 13, 2023 | [Link](https://huggingface.co/imageomics/BGNN-trait-segmentation) |
 | 109k |  | nvidia/segformer-b5-finetuned-cityscapes-1024-1024Image | UpdatedAug 9, 2022 | [Link](https://huggingface.co/nvidia/segformer-b5-finetuned-cityscapes-1024-1024) |
 | 80.3k |  | facebook/mask2former-swin-large-ade-semanticImage | UpdatedSep 11, 2023 | [Link](https://huggingface.co/facebook/mask2former-swin-large-ade-semantic) |
+| 2 | Unknown | bwittmann/vesselFMImage | Updatedabout 16 hours ago | [Link](https://huggingface.co/bwittmann/vesselFM) |
 
 ## Image-Text-to-Text
 
@@ -1041,6 +1042,8 @@ Updated on 2025-03-21
 | 14 | 3 | Remade-AI/WarriorImage-to-Video | Updatedabout 23 hours ago | [Link](https://huggingface.co/Remade-AI/Warrior) |
 | 20 | 3 | Remade-AI/PaintingImage-to-Video | Updatedabout 23 hours ago | [Link](https://huggingface.co/Remade-AI/Painting) |
 | 169 | 3 | Remade-AI/AssassinImage-to-Video | Updated3 days ago | [Link](https://huggingface.co/Remade-AI/Assassin) |
+| 10 | 3 | Remade-AI/Fus-Ro-DahImage-to-Video | Updated1 day ago | [Link](https://huggingface.co/Remade-AI/Fus-Ro-Dah) |
+| 6 | 3 | Remade-AI/Robot-Face-RevealImage-to-Video | Updated1 day ago | [Link](https://huggingface.co/Remade-AI/Robot-Face-Reveal) |
 | 600k | 2.91k | stabilityai/stable-video-diffusion-img2vid-xtImage-to-Video | UpdatedJul 10, 2024 | [Link](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt) |
 | 244 | 2 | calcuis/hyvid-i2v-ggufImage-to-Video | Updatedabout 17 hours ago | [Link](https://huggingface.co/calcuis/hyvid-i2v-gguf) |
 | 136 | 2 | city96/LTX-Video-0 | Updated1 day ago | [Link](https://huggingface.co/city96/LTX-Video-0.9.5-gguf) |
@@ -1070,6 +1073,7 @@ Updated on 2025-03-21
 | 2 | Unknown | Remade-AI/BrideImage-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/Remade-AI/Bride) |
 | 2 | Unknown | Remade-AI/PuppyImage-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/Remade-AI/Puppy) |
 | 4 | Unknown | quanhaol/MagicMotionImage-to-Video | Updated3 minutes ago | [Link](https://huggingface.co/quanhaol/MagicMotion) |
+| 3 | Unknown | ChaolongYang/KDTalkerImage-to-Video | Updated1 day ago | [Link](https://huggingface.co/ChaolongYang/KDTalker) |
 
 ## Keypoint Detection
 
@@ -1336,6 +1340,9 @@ Updated on 2025-03-21
 | 321 | 1 | lerobot/act_aloha_sim_insertion_humanRobotics | Updated6 days ago | [Link](https://huggingface.co/lerobot/act_aloha_sim_insertion_human) |
 | 15 | 1 | HaronW/EmbodiedAgentRobotics | Updated10 days ago | [Link](https://huggingface.co/HaronW/EmbodiedAgent) |
 | 104 | 1 | Fanbin/STEVE-R1-7B-SFTRobotics | Updated2 days ago | [Link](https://huggingface.co/Fanbin/STEVE-R1-7B-SFT) |
+| 9 | 1 | mbreuss/flower_calvin_abcdRobotics | Updated5 days ago | [Link](https://huggingface.co/mbreuss/flower_calvin_abcd) |
+| 4 | 1 | mbreuss/flower_calvin_abcRobotics | Updated5 days ago | [Link](https://huggingface.co/mbreuss/flower_calvin_abc) |
+| 9 | 1 | mbreuss/flower_calvin_dRobotics | Updated5 days ago | [Link](https://huggingface.co/mbreuss/flower_calvin_d) |
 | 80 | Unknown | physical-intelligence/fastRobotics | UpdatedJan 16 | [Link](https://huggingface.co/physical-intelligence/fast) |
 | 2 | Unknown | sirbrentmichaelskoda/Auto-GBT-Dream-Team-ModelRobotics | UpdatedJun 7, 2023 | [Link](https://huggingface.co/sirbrentmichaelskoda/Auto-GBT-Dream-Team-Model) |
 | 5 | Unknown | USC-GVL/UH-1Robotics | UpdatedDec 19, 2024 | [Link](https://huggingface.co/USC-GVL/UH-1) |
@@ -1646,6 +1653,7 @@ Updated on 2025-03-21
 | 98 | 3 | kaixkhazaki/turkish-sentimentText | UpdatedJan 15 | [Link](https://huggingface.co/kaixkhazaki/turkish-sentiment) |
 | 109 | 3 | michaelfeil/mxbai-rerank-base-v2-seqText | Updated1 day ago | [Link](https://huggingface.co/michaelfeil/mxbai-rerank-base-v2-seq) |
 | 58 | 3 | desklib/ai-text-detector-academic-v1 | Updated7 days ago | [Link](https://huggingface.co/desklib/ai-text-detector-academic-v1.01) |
+| 47 | 3 | AdityaSai1234/t5-finetuned-financeText | Updated3 days ago | [Link](https://huggingface.co/AdityaSai1234/t5-finetuned-finance) |
 | 43.6k | 2 | r3ddkahili/final-complete-malicious-url-modelText | Updated18 days ago | [Link](https://huggingface.co/r3ddkahili/final-complete-malicious-url-model) |
 | 420 | 2 | yueliu1999/GuardReasoner-3BText | Updated24 days ago | [Link](https://huggingface.co/yueliu1999/GuardReasoner-3B) |
 | 17 | 2 | AICodexLab/answerdotai-ModernBERT-base-ai-detectorText | Updated6 days ago | [Link](https://huggingface.co/AICodexLab/answerdotai-ModernBERT-base-ai-detector) |
@@ -1690,6 +1698,8 @@ Updated on 2025-03-21
 | 798k |  | lxyuan/distilbert-base-multilingual-cased-sentiments-studentText | Updated17 days ago | [Link](https://huggingface.co/lxyuan/distilbert-base-multilingual-cased-sentiments-student) |
 | 20.5k |  | joeddav/distilbert-base-uncased-go-emotions-studentText | UpdatedFeb 19, 2021 | [Link](https://huggingface.co/joeddav/distilbert-base-uncased-go-emotions-student) |
 | 11.7k |  | seara/rubert-base-cased-russian-sentimentText | UpdatedOct 29, 2024 | [Link](https://huggingface.co/seara/rubert-base-cased-russian-sentiment) |
+| 155k |  | bhadresh-savani/distilbert-base-uncased-emotionText | UpdatedAug 14, 2024 | [Link](https://huggingface.co/bhadresh-savani/distilbert-base-uncased-emotion) |
+| 827k |  | michellejieli/emotion_text_classifierText | UpdatedMay 3, 2023 | [Link](https://huggingface.co/michellejieli/emotion_text_classifier) |
 
 ## Text Generation
 
@@ -2061,6 +2071,7 @@ Updated on 2025-03-21
 | 68 | 2 | calcuis/ltxv0 | Updatedabout 18 hours ago | [Link](https://huggingface.co/calcuis/ltxv0.9.5-gguf) |
 | 19 | 2 | finetrainers/Wan2 | Updated4 days ago | [Link](https://huggingface.co/finetrainers/Wan2.1-T2V-1.3B-3dgs-v0) |
 | 783 | 2 | calcuis/wan-1 | Updated2 days ago | [Link](https://huggingface.co/calcuis/wan-1.3b-gguf) |
+| 9 | 2 | Remade-AI/TsunamiText-to-Video | Updated1 day ago | [Link](https://huggingface.co/Remade-AI/Tsunami) |
 | 7.59k |  | tencent/HunyuanVideoText-to-Video | UpdatedJan 21 | [Link](https://huggingface.co/tencent/HunyuanVideo) |
 | 26.6k |  | genmo/mochi-1-previewText-to-Video | UpdatedDec 18, 2024 | [Link](https://huggingface.co/genmo/mochi-1-preview) |
 | 91.5k |  | THUDM/CogVideoX-5bText-to-Video | UpdatedNov 23, 2024 | [Link](https://huggingface.co/THUDM/CogVideoX-5b) |
@@ -2202,6 +2213,7 @@ Updated on 2025-03-21
 | 11.1k | 22 | alvaroalon2/biobert_genetic_nerToken | UpdatedMar 17, 2023 | [Link](https://huggingface.co/alvaroalon2/biobert_genetic_ner) |
 | 1.68k | 20 | alvaroalon2/biobert_chemical_nerToken | UpdatedMar 17, 2023 | [Link](https://huggingface.co/alvaroalon2/biobert_chemical_ner) |
 | 5.53k | 19 | Leo97/KoELECTRA-small-v3-modu-nerToken | UpdatedApr 7, 2023 | [Link](https://huggingface.co/Leo97/KoELECTRA-small-v3-modu-ner) |
+| 12.7k | 18 | Isotonic/deberta-v3-base_finetuned_ai4privacy_v2Token | UpdatedSep 13, 2024 | [Link](https://huggingface.co/Isotonic/deberta-v3-base_finetuned_ai4privacy_v2) |
 | 12.5k | 16 | gliner-community/gliner_large-v2 | UpdatedJun 18, 2024 | [Link](https://huggingface.co/gliner-community/gliner_large-v2.5) |
 | 424 | 15 | turkish-nlp-suite/tr_core_news_trfToken | UpdatedJan 6 | [Link](https://huggingface.co/turkish-nlp-suite/tr_core_news_trf) |
 | 116k | 13 | cahya/bert-base-indonesian-NERToken | UpdatedNov 3, 2023 | [Link](https://huggingface.co/cahya/bert-base-indonesian-NER) |

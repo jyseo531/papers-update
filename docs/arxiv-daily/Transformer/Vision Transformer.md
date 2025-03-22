@@ -2,7 +2,7 @@
 ### Vision Transformer
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-20**|**Sonata: Self-Supervised Learning of Reliable Point Representations**|Xiaoyang Wu et.al.|[2503.16429v1](http://arxiv.org/abs/2503.16429v1)|**2025-03-20**|null|
+|**2025-03-20**|**Sonata: Self-Supervised Learning of Reliable Point Representations**|Xiaoyang Wu et.al.|[2503.16429v1](http://arxiv.org/abs/2503.16429v1)|**2025-03-20**|[link](https://github.com/facebookresearch/sonata)|
 |**2025-03-20**|**Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation**|Yuqing Wang et.al.|[2503.16430v1](http://arxiv.org/abs/2503.16430v1)|**2025-03-20**|null|
 |**2025-03-20**|**XAttention: Block Sparse Attention with Antidiagonal Scoring**|Ruyi Xu et.al.|[2503.16428v1](http://arxiv.org/abs/2503.16428v1)|**2025-03-20**|null|
 |**2025-03-20**|**DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding**|Keyan Chen et.al.|[2503.16426v1](http://arxiv.org/abs/2503.16426v1)|**2025-03-20**|[link](https://github.com/KyanChen/DynamicVis)|
@@ -25,7 +25,7 @@
 |**2025-03-20**|**Attentional Triple-Encoder Network in Spatiospectral Domains for Medical Image Segmentation**|Kristin Qi et.al.|[2503.16389v1](http://arxiv.org/abs/2503.16389v1)|**2025-03-20**|null|
 |**2025-03-20**|**Panoptic-CUDAL Technical Report: Rural Australia Point Cloud Dataset in Rainy Conditions**|Tzu-Yun Tseng et.al.|[2503.16378v1](http://arxiv.org/abs/2503.16378v1)|**2025-03-20**|null|
 |**2025-03-20**|**LaPIG: Cross-Modal Generation of Paired Thermal and Visible Facial Images**|Leyang Wang et.al.|[2503.16376v1](http://arxiv.org/abs/2503.16376v1)|**2025-03-20**|null|
-|**2025-03-20**|**NuiScene: Exploring Efficient Generation of Unbounded Outdoor Scenes**|Han-Hung Lee et.al.|[2503.16375v1](http://arxiv.org/abs/2503.16375v1)|**2025-03-20**|null|
+|**2025-03-20**|**NuiScene: Exploring Efficient Generation of Unbounded Outdoor Scenes**|Han-Hung Lee et.al.|[2503.16375v1](http://arxiv.org/abs/2503.16375v1)|**2025-03-20**|[link](https://github.com/3dlg-hcvc/NuiScene)|
 |**2025-03-20**|**Fluctuation Relations associated to an arbitrary bijection in path space**|Raphael Chetrite et.al.|[2503.16369v1](http://arxiv.org/abs/2503.16369v1)|**2025-03-20**|null|
 |**2025-03-20**|**Dynamic Metasurface-Backed Luneburg Lens for Multiplexed Backscatter Communication**|Samuel Kim et.al.|[2503.16366v1](http://arxiv.org/abs/2503.16366v1)|**2025-03-20**|null|
 |**2025-03-20**|**JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse**|Muyao Li et.al.|[2503.16365v1](http://arxiv.org/abs/2503.16365v1)|**2025-03-20**|null|
