@@ -419,6 +419,7 @@ Updated on 2025-03-23
 | 58 | 3 | Emova-ollm/emova-qwen-2-5-7b-hfFeature | Updated3 days ago | [Link](https://huggingface.co/Emova-ollm/emova-qwen-2-5-7b-hf) |
 | 6 | 3 | Emova-ollm/emova-qwen-2-5-3b-hfFeature | Updated3 days ago | [Link](https://huggingface.co/Emova-ollm/emova-qwen-2-5-3b-hf) |
 | 113 | 3 | 5CD-AI/Vintern-3B-R-betaFeature | Updatedabout 4 hours ago | [Link](https://huggingface.co/5CD-AI/Vintern-3B-R-beta) |
+| 200 | 3 | wi-lab/lwmFeature | Updated6 days ago | [Link](https://huggingface.co/wi-lab/lwm) |
 | 203 | 2 | BounharAbdelaziz/Morocco-Darija-Sentence-Embedding-v0 | Updated4 days ago | [Link](https://huggingface.co/BounharAbdelaziz/Morocco-Darija-Sentence-Embedding-v0.1) |
 | 41 | 2 | selfconstruct3d/AttackGroup-MPNETFeature | Updatedabout 3 hours ago | [Link](https://huggingface.co/selfconstruct3d/AttackGroup-MPNET) |
 | 1.68k | 2 | VPLabs/SearchMap_PreviewFeature | Updated6 days ago | [Link](https://huggingface.co/VPLabs/SearchMap_Preview) |
@@ -485,6 +486,7 @@ Updated on 2025-03-23
 | 10.6k | 41 | cointegrated/rubert-tinyFill-Mask | UpdatedFeb 9, 2024 | [Link](https://huggingface.co/cointegrated/rubert-tiny) |
 | 4.35k | 39 | Twitter/twhin-bert-baseFill-Mask | UpdatedJul 7, 2023 | [Link](https://huggingface.co/Twitter/twhin-bert-base) |
 | 22.5k | 38 | nomic-ai/nomic-bert-2048Fill-Mask | Updated7 days ago | [Link](https://huggingface.co/nomic-ai/nomic-bert-2048) |
+| 6.22k | 37 | InstaDeepAI/nucleotide-transformer-2 | UpdatedJul 22, 2024 | [Link](https://huggingface.co/InstaDeepAI/nucleotide-transformer-2.5b-multi-species) |
 | 4.33k | 35 | hfl/rbt3Fill-Mask | UpdatedMay 19, 2021 | [Link](https://huggingface.co/hfl/rbt3) |
 | 24.6k | 35 | HooshvareLab/bert-base-parsbert-uncasedFill-Mask | UpdatedMay 18, 2021 | [Link](https://huggingface.co/HooshvareLab/bert-base-parsbert-uncased) |
 | 8.26k | 33 | GerMedBERT/medbert-512Fill-Mask | UpdatedMar 27, 2023 | [Link](https://huggingface.co/GerMedBERT/medbert-512) |
@@ -586,6 +588,7 @@ Updated on 2025-03-23
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
 | 674 | 88 | fancyfeast/joytagImage | UpdatedMar 9, 2024 | [Link](https://huggingface.co/fancyfeast/joytag) |
+| 1.29M | 75 | microsoft/beit-base-patch16-224-pt22k-ft22kImage | UpdatedFeb 27, 2023 | [Link](https://huggingface.co/microsoft/beit-base-patch16-224-pt22k-ft22k) |
 | 222 | 52 | google/cxr-foundationImage | Updated6 days ago | [Link](https://huggingface.co/google/cxr-foundation) |
 | 774k | 38 | AdamCodd/vit-base-nsfw-detectorImage | UpdatedDec 3, 2024 | [Link](https://huggingface.co/AdamCodd/vit-base-nsfw-detector) |
 | 191 | 34 | google/path-foundationImage | Updated17 days ago | [Link](https://huggingface.co/google/path-foundation) |
@@ -1829,6 +1832,7 @@ Updated on 2025-03-23
 | 103 | 4 | pabloruizponce/in2INText-to-3D | UpdatedJun 29, 2024 | [Link](https://huggingface.co/pabloruizponce/in2IN) |
 | 6 | 1 | jonquimbly/shap-eText-to-3D | UpdatedFeb 29, 2024 | [Link](https://huggingface.co/jonquimbly/shap-e) |
 | 1 | 1 | alexgusevski/LLaMA-Mesh-mlxText-to-3D | Updated1 day ago | [Link](https://huggingface.co/alexgusevski/LLaMA-Mesh-mlx) |
+| 48 | 1 | hellork/BlenderLLM-IQ3_XXS-GGUFText-to-3D | UpdatedFeb 2 | [Link](https://huggingface.co/hellork/BlenderLLM-IQ3_XXS-GGUF) |
 | 16 | Unknown | Maikou/MichelangeloText-to-3D | UpdatedJan 26, 2024 | [Link](https://huggingface.co/Maikou/Michelangelo) |
 | 692 | Unknown | stabilityai/stable-zero123Text-to-3D | UpdatedJul 10, 2024 | [Link](https://huggingface.co/stabilityai/stable-zero123) |
 | 8 | Unknown | dylanebert/3dlfmText-to-3D | UpdatedJan 16, 2024 | [Link](https://huggingface.co/dylanebert/3dlfm) |
@@ -2086,6 +2090,7 @@ Updated on 2025-03-23
 | 19 | 2 | finetrainers/Wan2 | Updated4 days ago | [Link](https://huggingface.co/finetrainers/Wan2.1-T2V-1.3B-3dgs-v0) |
 | 783 | 2 | calcuis/wan-1 | Updated2 days ago | [Link](https://huggingface.co/calcuis/wan-1.3b-gguf) |
 | 9 | 2 | Remade-AI/TsunamiText-to-Video | Updated1 day ago | [Link](https://huggingface.co/Remade-AI/Tsunami) |
+| 47 | 2 | Remade-AI/Zoom-CallText-to-Video | Updated3 days ago | [Link](https://huggingface.co/Remade-AI/Zoom-Call) |
 | 7.59k |  | tencent/HunyuanVideoText-to-Video | UpdatedJan 21 | [Link](https://huggingface.co/tencent/HunyuanVideo) |
 | 26.6k |  | genmo/mochi-1-previewText-to-Video | UpdatedDec 18, 2024 | [Link](https://huggingface.co/genmo/mochi-1-preview) |
 | 91.5k |  | THUDM/CogVideoX-5bText-to-Video | UpdatedNov 23, 2024 | [Link](https://huggingface.co/THUDM/CogVideoX-5b) |
@@ -2205,6 +2210,7 @@ Updated on 2025-03-23
 | 6.22k | 9 | ibm-granite/granite-timeseries-patchtstTime | UpdatedAug 1, 2024 | [Link](https://huggingface.co/ibm-granite/granite-timeseries-patchtst) |
 | 105k | 7 | Maple728/TimeMoE-200MTime | UpdatedOct 22, 2024 | [Link](https://huggingface.co/Maple728/TimeMoE-200M) |
 | 99.4k | 7 | Salesforce/moirai-moe-1 | UpdatedJan 21 | [Link](https://huggingface.co/Salesforce/moirai-moe-1.0-R-base) |
+| 34.2k | 5 | autogluon/chronos-t5-miniTime | UpdatedFeb 17 | [Link](https://huggingface.co/autogluon/chronos-t5-mini) |
 | 85 | 4 | ChengsenWang/ChatTime-1-7B-BaseTime | UpdatedDec 17, 2024 | [Link](https://huggingface.co/ChengsenWang/ChatTime-1-7B-Base) |
 | 33.5k | 2 | ibm-research/ttm-research-r2Time | UpdatedNov 12, 2024 | [Link](https://huggingface.co/ibm-research/ttm-research-r2) |
 | 134 | 1 | ChengsenWang/ChatTime-1-7B-ChatTime | UpdatedDec 17, 2024 | [Link](https://huggingface.co/ChengsenWang/ChatTime-1-7B-Chat) |
