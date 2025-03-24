@@ -1477,6 +1477,7 @@ Updated on 2025-03-24
 | 4 | Unknown | AITeamVN/Vietnamese_EmbeddingSentence | Updated4 minutes ago | [Link](https://huggingface.co/AITeamVN/Vietnamese_Embedding) |
 | 403k |  | intfloat/e5-base-v2Sentence | Updatedabout 1 month ago | [Link](https://huggingface.co/intfloat/e5-base-v2) |
 | 61.7k |  | TaylorAI/gte-tinySentence | UpdatedOct 7, 2023 | [Link](https://huggingface.co/TaylorAI/gte-tiny) |
+| 6.92M |  | sentence-transformers/paraphrase-MiniLM-L6-v2Sentence | Updated18 days ago | [Link](https://huggingface.co/sentence-transformers/paraphrase-MiniLM-L6-v2) |
 
 ## Summarization
 
