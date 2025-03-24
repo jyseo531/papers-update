@@ -2,7 +2,7 @@
 ### Point Cloud Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-20**|**Sonata: Self-Supervised Learning of Reliable Point Representations**|Xiaoyang Wu et.al.|[2503.16429v1](http://arxiv.org/abs/2503.16429v1)|**2025-03-20**|[link](https://github.com/facebookresearch/sonata)|
+|**2025-03-20**|**Sonata: Self-Supervised Learning of Reliable Point Representations**|Xiaoyang Wu et.al.|[2503.16429v1](http://arxiv.org/abs/2503.16429v1)|**2025-03-20**|[link](https://github.com/Pointcept/Pointcept)|
 |**2025-03-20**|**Computing Lindahl Equilibrium for Public Goods with and without Funding Caps**|Christian Kroer et.al.|[2503.16414v1](http://arxiv.org/abs/2503.16414v1)|**2025-03-20**|null|
 |**2025-03-20**|**Acceptance dependence of factorial cumulants, long-range correlations, and the antiproton puzzle**|Adam Bzdak et.al.|[2503.16405v1](http://arxiv.org/abs/2503.16405v1)|**2025-03-20**|null|
 |**2025-03-20**|**Do Visual Imaginations Improve Vision-and-Language Navigation Agents?**|Akhil Perincherry et.al.|[2503.16394v1](http://arxiv.org/abs/2503.16394v1)|**2025-03-20**|null|
@@ -30,5 +30,5 @@
 |**2025-03-20**|**Contractibility of spaces of positive scalar curvature metrics with symmetry**|Christian Baer et.al.|[2503.16232v1](http://arxiv.org/abs/2503.16232v1)|**2025-03-20**|null|
 |**2025-03-20**|**Mutation and the Gabriel spectrum**|Michal Hrbek et.al.|[2503.16226v1](http://arxiv.org/abs/2503.16226v1)|**2025-03-20**|null|
 |**2025-03-20**|**Efficient Bayesian Computation Using Plug-and-Play Priors for Poisson Inverse Problems**|Teresa Klatzer et.al.|[2503.16222v1](http://arxiv.org/abs/2503.16222v1)|**2025-03-20**|null|
-|**2025-03-20**|**Enhanced quantum sensing in time-modulated non-Hermitian systems**|Qi-Cheng Wu et.al.|[2503.16217v1](http://arxiv.org/abs/2503.16217v1)|**2025-03-20**|null|
+|**2025-03-20**|**Enhanced quantum sensing in time-modulated non-Hermitian systems**|Qi-Cheng Wu et.al.|[2503.16217v2](http://arxiv.org/abs/2503.16217v2)|**2025-03-21**|null|
 |**2025-03-20**|**MathFusion: Enhancing Mathematic Problem-solving of LLM through Instruction Fusion**|Qizhi Pei et.al.|[2503.16212v1](http://arxiv.org/abs/2503.16212v1)|**2025-03-20**|null|
