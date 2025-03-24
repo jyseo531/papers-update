@@ -2,33 +2,33 @@
 ### 3D Object Tracking
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-20**|**Sonata: Self-Supervised Learning of Reliable Point Representations**|Xiaoyang Wu et.al.|[2503.16429v1](http://arxiv.org/abs/2503.16429v1)|**2025-03-20**|[link](https://github.com/Pointcept/Pointcept)|
-|**2025-03-20**|**DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding**|Keyan Chen et.al.|[2503.16426v1](http://arxiv.org/abs/2503.16426v1)|**2025-03-20**|[link](https://github.com/KyanChen/DynamicVis)|
-|**2025-03-20**|**Bézier Splatting for Fast and Differentiable Vector Graphics**|Xi Liu et.al.|[2503.16424v1](http://arxiv.org/abs/2503.16424v1)|**2025-03-20**|null|
-|**2025-03-20**|**MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance**|Quanhao Li et.al.|[2503.16421v1](http://arxiv.org/abs/2503.16421v1)|**2025-03-20**|null|
-|**2025-03-20**|**SynCity: Training-Free Generation of 3D Worlds**|Paul Engstler et.al.|[2503.16420v1](http://arxiv.org/abs/2503.16420v1)|**2025-03-20**|null|
-|**2025-03-20**|**DreamTexture: Shape from Virtual Texture with Analysis by Augmentation**|Ananta R. Bhattarai et.al.|[2503.16412v1](http://arxiv.org/abs/2503.16412v1)|**2025-03-20**|null|
-|**2025-03-20**|**M3: 3D-Spatial MultiModal Memory**|Xueyan Zou et.al.|[2503.16413v1](http://arxiv.org/abs/2503.16413v1)|**2025-03-20**|null|
-|**2025-03-20**|**VerbDiff: Text-Only Diffusion Models with Enhanced Interaction Awareness**|SeungJu Cha et.al.|[2503.16406v1](http://arxiv.org/abs/2503.16406v1)|**2025-03-20**|null|
-|**2025-03-20**|**ScalingNoise: Scaling Inference-Time Search for Generating Infinite Videos**|Haolin Yang et.al.|[2503.16400v1](http://arxiv.org/abs/2503.16400v1)|**2025-03-20**|null|
-|**2025-03-20**|**SA-Occ: Satellite-Assisted 3D Occupancy Prediction in Real World**|Chen Chen et.al.|[2503.16399v1](http://arxiv.org/abs/2503.16399v1)|**2025-03-20**|null|
-|**2025-03-20**|**SV4D 2.0: Enhancing Spatio-Temporal Consistency in Multi-View Video Diffusion for High-Quality 4D Generation**|Chun-Han Yao et.al.|[2503.16396v2](http://arxiv.org/abs/2503.16396v2)|**2025-03-21**|null|
-|**2025-03-20**|**Graph of Effort: Quantifying Risk of AI Usage for Vulnerability Assessment**|Anket Mehra et.al.|[2503.16392v1](http://arxiv.org/abs/2503.16392v1)|**2025-03-20**|null|
-|**2025-03-20**|**Panoptic-CUDAL Technical Report: Rural Australia Point Cloud Dataset in Rainy Conditions**|Tzu-Yun Tseng et.al.|[2503.16378v1](http://arxiv.org/abs/2503.16378v1)|**2025-03-20**|null|
-|**2025-03-20**|**A "cubist" decomposition of the Handel-Mosher axis bundle and the conjugacy problem for $\mathrm{Out}(F_r)$**|Catherine Eva Pfaff et.al.|[2503.16360v1](http://arxiv.org/abs/2503.16360v1)|**2025-03-20**|null|
-|**2025-03-20**|**On the spatial distribution of luminous blue variables in the M33 galaxy**|A. Kostenkov et.al.|[2503.16349v1](http://arxiv.org/abs/2503.16349v1)|**2025-03-20**|null|
-|**2025-03-20**|**Gaussian Graph Network: Learning Efficient and Generalizable Gaussian Representations from Multi-view Images**|Shengjun Zhang et.al.|[2503.16338v1](http://arxiv.org/abs/2503.16338v1)|**2025-03-20**|null|
-|**2025-03-20**|**Protoplanetary cores drove chondrule formation**|Mohamad Ali-Dib et.al.|[2503.16325v1](http://arxiv.org/abs/2503.16325v1)|**2025-03-20**|null|
-|**2025-03-20**|**Dynamic Point Maps: A Versatile Representation for Dynamic 3D Reconstruction**|Edgar Sucar et.al.|[2503.16318v1](http://arxiv.org/abs/2503.16318v1)|**2025-03-20**|null|
-|**2025-03-20**|**Rapid patient-specific neural networks for intraoperative X-ray to volume registration**|Vivek Gopalakrishnan et.al.|[2503.16309v1](http://arxiv.org/abs/2503.16309v1)|**2025-03-20**|null|
-|**2025-03-20**|**Unleashing Vecset Diffusion Model for Fast Shape Generation**|Zeqiang Lai et.al.|[2503.16302v1](http://arxiv.org/abs/2503.16302v1)|**2025-03-20**|null|
-|**2025-03-20**|**Surface quasigeostrophic turbulence: The refined study of an active scalar**|Nicolas Valade et.al.|[2503.16294v1](http://arxiv.org/abs/2503.16294v1)|**2025-03-20**|null|
-|**2025-03-20**|**SceneMI: Motion In-betweening for Modeling Human-Scene Interactions**|Inwoo Hwang et.al.|[2503.16289v1](http://arxiv.org/abs/2503.16289v1)|**2025-03-20**|null|
-|**2025-03-20**|**Overview of Variable Rate Coding in JPEG AI**|Panqi Jia et.al.|[2503.16288v1](http://arxiv.org/abs/2503.16288v1)|**2025-03-20**|null|
-|**2025-03-20**|**Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model**|Zhaochong An et.al.|[2503.16282v1](http://arxiv.org/abs/2503.16282v1)|**2025-03-20**|null|
-|**2025-03-20**|**Evaluation of Torque Ripple and Tooth Forces of a Skewed PMSM by 2D and 3D FE Simulations**|Karsten Müller et.al.|[2503.16279v1](http://arxiv.org/abs/2503.16279v1)|**2025-03-20**|null|
-|**2025-03-20**|**Uni-3DAR: Unified 3D Generation and Understanding via Autoregression on Compressed Spatial Tokens**|Shuqi Lu et.al.|[2503.16278v2](http://arxiv.org/abs/2503.16278v2)|**2025-03-21**|null|
-|**2025-03-20**|**From Monocular Vision to Autonomous Action: Guiding Tumor Resection via 3D Reconstruction**|Ayberk Acar et.al.|[2503.16263v1](http://arxiv.org/abs/2503.16263v1)|**2025-03-20**|null|
-|**2025-03-20**|**Quantum metrology of a structured reservoir**|Youssef Aiache et.al.|[2503.16261v1](http://arxiv.org/abs/2503.16261v1)|**2025-03-20**|null|
-|**2025-03-20**|**RESFL: An Uncertainty-Aware Framework for Responsible Federated Learning by Balancing Privacy, Fairness and Utility in Autonomous Vehicles**|Dawood Wasif et.al.|[2503.16251v1](http://arxiv.org/abs/2503.16251v1)|**2025-03-20**|null|
-|**2025-03-20**|**3D radio data visualisation in open science platforms for next-generation observatories**|I. Labadie-García et.al.|[2503.16237v1](http://arxiv.org/abs/2503.16237v1)|**2025-03-20**|null|
+|**2025-03-21**|**Decouple and Track: Benchmarking and Improving Video Diffusion Transformers for Motion Transfer**|Qingyu Shi et.al.|[2503.17350v1](http://arxiv.org/abs/2503.17350v1)|**2025-03-21**|null|
+|**2025-03-21**|**Beyond Semantics: Rediscovering Spatial Awareness in Vision-Language Models**|Jianing Qi et.al.|[2503.17349v1](http://arxiv.org/abs/2503.17349v1)|**2025-03-21**|null|
+|**2025-03-21**|**Abundances of refractory ions in Beta Pictoris exocomets**|T. Vrignaud et.al.|[2503.17346v1](http://arxiv.org/abs/2503.17346v1)|**2025-03-21**|null|
+|**2025-03-21**|**The impact of the Galactic bar and the Large Magellanic Cloud on hypervelocity star trajectories**|Isabella Armstrong et.al.|[2503.17344v1](http://arxiv.org/abs/2503.17344v1)|**2025-03-21**|null|
+|**2025-03-21**|**Core Components of Emotional Impulsivity: A Mouse-Cursor Tracking Study**|Anton Leontyev et.al.|[2503.17328v1](http://arxiv.org/abs/2503.17328v1)|**2025-03-21**|null|
+|**2025-03-21**|**Lattice Materials with Topological States Optimized On-Demand**|Pegah Azizi et.al.|[2503.17320v1](http://arxiv.org/abs/2503.17320v1)|**2025-03-21**|null|
+|**2025-03-21**|**Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors**|Wonbong Jang et.al.|[2503.17316v1](http://arxiv.org/abs/2503.17316v1)|**2025-03-21**|null|
+|**2025-03-21**|**Preference-Guided Diffusion for Multi-Objective Offline Optimization**|Yashas Annadani et.al.|[2503.17299v1](http://arxiv.org/abs/2503.17299v1)|**2025-03-21**|null|
+|**2025-03-21**|**Cross-Band Modulation Design for Hybrid RF-Optical Systems**|Thrassos K. Oikonomou et.al.|[2503.17296v1](http://arxiv.org/abs/2503.17296v1)|**2025-03-21**|null|
+|**2025-03-21**|**3D Neural Operator-Based Flow Surrogates around 3D geometries: Signed Distance Functions and Derivative Constraints**|Ali Rabeh et.al.|[2503.17289v1](http://arxiv.org/abs/2503.17289v1)|**2025-03-21**|null|
+|**2025-03-21**|**Offline Model-Based Optimization: Comprehensive Review**|Minsu Kim et.al.|[2503.17286v1](http://arxiv.org/abs/2503.17286v1)|**2025-03-21**|null|
+|**2025-03-21**|**An Iterative Feedback Mechanism for Improving Natural Language Class Descriptions in Open-Vocabulary Object Detection**|Louis Y. Kim et.al.|[2503.17285v1](http://arxiv.org/abs/2503.17285v1)|**2025-03-21**|null|
+|**2025-03-21**|**Composable Uncertainty in Symmetric Monoidal Categories for Design Problems**|Marius Furter et.al.|[2503.17274v1](http://arxiv.org/abs/2503.17274v1)|**2025-03-21**|null|
+|**2025-03-21**|**The Energy Barrier of Precritical Nuclei in Hard Spheres is Consistent with Predictions**|Lars Kürten et.al.|[2503.17270v1](http://arxiv.org/abs/2503.17270v1)|**2025-03-21**|null|
+|**2025-03-21**|**Dimensional reduction of dynamical systems on graphons**|Bisna Mary Eldo et.al.|[2503.17268v1](http://arxiv.org/abs/2503.17268v1)|**2025-03-21**|null|
+|**2025-03-21**|**Contact process for the spread of knowledge**|Nicolas Lanchier et.al.|[2503.17260v1](http://arxiv.org/abs/2503.17260v1)|**2025-03-21**|null|
+|**2025-03-21**|**On the manifest link between Terzan 5 and the Galactic bulge**|L. Origlia et.al.|[2503.17258v1](http://arxiv.org/abs/2503.17258v1)|**2025-03-21**|null|
+|**2025-03-21**|**Integrated Subset Selection and Bandwidth Estimation Algorithm for Geographically Weighted Regression**|Hyunwoo Lee et.al.|[2503.17253v1](http://arxiv.org/abs/2503.17253v1)|**2025-03-21**|null|
+|**2025-03-21**|**Breaking the Symmetries of Indistinguishable Objects**|Ozgur Akgun et.al.|[2503.17251v1](http://arxiv.org/abs/2503.17251v1)|**2025-03-21**|null|
+|**2025-03-21**|**Einstein's Cat -- A Thought Experiment Against Anti-Relativist Claims**|Val G. Rousseau et.al.|[2503.17248v1](http://arxiv.org/abs/2503.17248v1)|**2025-03-21**|null|
+|**2025-03-21**|**Strong Baseline: Multi-UAV Tracking via YOLOv12 with BoT-SORT-ReID**|Yu-Hsi Chen et.al.|[2503.17237v1](http://arxiv.org/abs/2503.17237v1)|**2025-03-21**|null|
+|**2025-03-21**|**Performance of the ALICE Inner Tracking System 2**|Nicolo' Valle et.al.|[2503.17233v1](http://arxiv.org/abs/2503.17233v1)|**2025-03-21**|null|
+|**2025-03-21**|**Tensor Cross Interpolation of Purities in Quantum Many-Body Systems**|Dmytro Kolisnyk et.al.|[2503.17230v1](http://arxiv.org/abs/2503.17230v1)|**2025-03-21**|null|
+|**2025-03-21**|**Leveraging Text-to-Image Generation for Handling Spurious Correlation**|Aryan Yazdan Parast et.al.|[2503.17226v1](http://arxiv.org/abs/2503.17226v1)|**2025-03-21**|null|
+|**2025-03-21**|**Celestial sunflowers -- Survival of rings around small planetary bodies under solar radiation pressure**|Zs. Regaly et.al.|[2503.17218v1](http://arxiv.org/abs/2503.17218v1)|**2025-03-21**|null|
+|**2025-03-21**|**A Deep Learning Framework for Visual Attention Prediction and Analysis of News Interfaces**|Matthew Kenely et.al.|[2503.17212v1](http://arxiv.org/abs/2503.17212v1)|**2025-03-21**|null|
+|**2025-03-21**|**Hamiltonian Chaos: From Galactic Dynamics to Plasma Physics**|Henok Tenaw Moges et.al.|[2503.17208v1](http://arxiv.org/abs/2503.17208v1)|**2025-03-21**|null|
+|**2025-03-21**|**FreeUV: Ground-Truth-Free Realistic Facial UV Texture Recovery via Cross-Assembly Inference Strategy**|Xingchao Yang et.al.|[2503.17197v1](http://arxiv.org/abs/2503.17197v1)|**2025-03-21**|null|
+|**2025-03-21**|**Colloidal Pivots Enable Brownian Metamaterials and Machines**|Julio Melio et.al.|[2503.17196v1](http://arxiv.org/abs/2503.17196v1)|**2025-03-21**|null|
+|**2025-03-21**|**Employing Continuous Integration inspired workflows for benchmarking of scientific software -- a use case on numerical cut cell quadrature**|Teoman Toprak et.al.|[2503.17192v1](http://arxiv.org/abs/2503.17192v1)|**2025-03-21**|null|

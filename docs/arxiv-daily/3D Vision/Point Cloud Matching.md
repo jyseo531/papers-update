@@ -2,33 +2,33 @@
 ### Point Cloud Matching
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-20**|**Sonata: Self-Supervised Learning of Reliable Point Representations**|Xiaoyang Wu et.al.|[2503.16429v1](http://arxiv.org/abs/2503.16429v1)|**2025-03-20**|[link](https://github.com/Pointcept/Pointcept)|
-|**2025-03-20**|**Computing Lindahl Equilibrium for Public Goods with and without Funding Caps**|Christian Kroer et.al.|[2503.16414v1](http://arxiv.org/abs/2503.16414v1)|**2025-03-20**|null|
-|**2025-03-20**|**Acceptance dependence of factorial cumulants, long-range correlations, and the antiproton puzzle**|Adam Bzdak et.al.|[2503.16405v1](http://arxiv.org/abs/2503.16405v1)|**2025-03-20**|null|
-|**2025-03-20**|**The Emperor's New Clothes in Benchmarking? A Rigorous Examination of Mitigation Strategies for LLM Benchmark Data Contamination**|Yifan Sun et.al.|[2503.16402v1](http://arxiv.org/abs/2503.16402v1)|**2025-03-20**|null|
-|**2025-03-20**|**Exploring the Hidden Reasoning Process of Large Language Models by Misleading Them**|Guanyu Chen et.al.|[2503.16401v1](http://arxiv.org/abs/2503.16401v1)|**2025-03-20**|null|
-|**2025-03-20**|**The global convergence time of stochastic gradient descent in non-convex landscapes: Sharp estimates via large deviations**|Waïss Azizian et.al.|[2503.16398v1](http://arxiv.org/abs/2503.16398v1)|**2025-03-20**|null|
-|**2025-03-20**|**Scale-wise Distillation of Diffusion Models**|Nikita Starodubcev et.al.|[2503.16397v1](http://arxiv.org/abs/2503.16397v1)|**2025-03-20**|null|
-|**2025-03-20**|**Do Visual Imaginations Improve Vision-and-Language Navigation Agents?**|Akhil Perincherry et.al.|[2503.16394v1](http://arxiv.org/abs/2503.16394v1)|**2025-03-20**|null|
-|**2025-03-20**|**Graph of Effort: Quantifying Risk of AI Usage for Vulnerability Assessment**|Anket Mehra et.al.|[2503.16392v1](http://arxiv.org/abs/2503.16392v1)|**2025-03-20**|null|
-|**2025-03-20**|**Phonons in Electron Crystals with Berry Curvature**|Junkai Dong et.al.|[2503.16390v1](http://arxiv.org/abs/2503.16390v1)|**2025-03-20**|null|
-|**2025-03-20**|**Sparse Nonparametric Contextual Bandits**|Hamish Flynn et.al.|[2503.16382v1](http://arxiv.org/abs/2503.16382v1)|**2025-03-20**|null|
-|**2025-03-20**|**Panoptic-CUDAL Technical Report: Rural Australia Point Cloud Dataset in Rainy Conditions**|Tzu-Yun Tseng et.al.|[2503.16378v1](http://arxiv.org/abs/2503.16378v1)|**2025-03-20**|null|
-|**2025-03-20**|**Heat transfer and mixing in initiated Chemical Vapor Deposition analyzed by in-situ gas composition sensing**|Simon Shindler et.al.|[2503.16373v1](http://arxiv.org/abs/2503.16373v1)|**2025-03-20**|null|
-|**2025-03-20**|**Counting $SL(2,\mathbb{C})$ connections on Seifert-fibered spaces**|Juan Muñoz-Echániz et.al.|[2503.16370v1](http://arxiv.org/abs/2503.16370v1)|**2025-03-20**|null|
-|**2025-03-20**|**Probabilistic Quantum SVM Training on Ising Machine**|Haoqi He et.al.|[2503.16363v1](http://arxiv.org/abs/2503.16363v1)|**2025-03-20**|null|
-|**2025-03-20**|**Global well-posedness for the Navier-Stokes system in new critical mixed-norm Besov spaces**|Leithold L. Aurazo-Alvarez et.al.|[2503.16362v1](http://arxiv.org/abs/2503.16362v1)|**2025-03-20**|null|
-|**2025-03-20**|**Principal Actions on Topological Quivers and Associated Operator Dynamics**|Matthew Gillespie et.al.|[2503.16352v1](http://arxiv.org/abs/2503.16352v1)|**2025-03-20**|null|
-|**2025-03-20**|**Palatable Conceptions of Disembodied Being: Terra Incognita in the Space of Possible Minds**|Murray Shanahan et.al.|[2503.16348v1](http://arxiv.org/abs/2503.16348v1)|**2025-03-20**|null|
-|**2025-03-20**|**An algebraic characterization of linearity for additive maps preserving orthogonality**|Lei Li et.al.|[2503.16341v1](http://arxiv.org/abs/2503.16341v1)|**2025-03-20**|null|
-|**2025-03-20**|**Optimal Complexity in Byzantine-Robust Distributed Stochastic Optimization with Data Heterogeneity**|Qiankun Shi et.al.|[2503.16337v1](http://arxiv.org/abs/2503.16337v1)|**2025-03-20**|null|
-|**2025-03-20**|**A Dataset of Performance Measurements and Alerts from Mozilla (Data Artifact)**|Mohamed Bilel Besbes et.al.|[2503.16332v1](http://arxiv.org/abs/2503.16332v1)|**2025-03-20**|null|
-|**2025-03-20**|**NeuralFoil: An Airfoil Aerodynamics Analysis Tool Using Physics-Informed Machine Learning**|Peter Sharpe et.al.|[2503.16323v1](http://arxiv.org/abs/2503.16323v1)|**2025-03-20**|[link](https://github.com/peterdsharpe/neuralfoil)|
-|**2025-03-20**|**Issue2Test: Generating Reproducing Test Cases from Issue Reports**|Noor Nashid et.al.|[2503.16320v1](http://arxiv.org/abs/2503.16320v1)|**2025-03-20**|null|
-|**2025-03-20**|**Dynamic Point Maps: A Versatile Representation for Dynamic 3D Reconstruction**|Edgar Sucar et.al.|[2503.16318v1](http://arxiv.org/abs/2503.16318v1)|**2025-03-20**|null|
-|**2025-03-20**|**Localized Heating and Dynamics of the Solar Corona due to a Symbiosis of Waves and Reconnection**|A. K. Srivastava et.al.|[2503.16300v1](http://arxiv.org/abs/2503.16300v1)|**2025-03-20**|null|
-|**2025-03-20**|**Photonic Negative Differential Thermal Conductance Enabled by NIS Junctions**|M. Pioldi et.al.|[2503.16295v1](http://arxiv.org/abs/2503.16295v1)|**2025-03-20**|null|
-|**2025-03-20**|**Surface quasigeostrophic turbulence: The refined study of an active scalar**|Nicolas Valade et.al.|[2503.16294v1](http://arxiv.org/abs/2503.16294v1)|**2025-03-20**|null|
-|**2025-03-20**|**Overview of Variable Rate Coding in JPEG AI**|Panqi Jia et.al.|[2503.16288v1](http://arxiv.org/abs/2503.16288v1)|**2025-03-20**|null|
-|**2025-03-20**|**Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model**|Zhaochong An et.al.|[2503.16282v1](http://arxiv.org/abs/2503.16282v1)|**2025-03-20**|null|
-|**2025-03-20**|**Evaluation of Torque Ripple and Tooth Forces of a Skewed PMSM by 2D and 3D FE Simulations**|Karsten Müller et.al.|[2503.16279v1](http://arxiv.org/abs/2503.16279v1)|**2025-03-20**|null|
+|**2025-03-21**|**Gumbel-Softmax Flow Matching with Straight-Through Guidance for Controllable Biological Sequence Generation**|Sophia Tang et.al.|[2503.17361v1](http://arxiv.org/abs/2503.17361v1)|**2025-03-21**|null|
+|**2025-03-21**|**Fast Convex Optimization with Quantum Gradient Methods**|Brandon Augustino et.al.|[2503.17356v1](http://arxiv.org/abs/2503.17356v1)|**2025-03-21**|null|
+|**2025-03-21**|**The impact of the Galactic bar and the Large Magellanic Cloud on hypervelocity star trajectories**|Isabella Armstrong et.al.|[2503.17344v1](http://arxiv.org/abs/2503.17344v1)|**2025-03-21**|null|
+|**2025-03-21**|**Capturing Individual Human Preferences with Reward Features**|André Barreto et.al.|[2503.17338v1](http://arxiv.org/abs/2503.17338v1)|**2025-03-21**|null|
+|**2025-03-21**|**Predicting Potential Customer Support Needs and Optimizing Search Ranking in a Two-Sided Marketplace**|Do-kyum Kim et.al.|[2503.17329v1](http://arxiv.org/abs/2503.17329v1)|**2025-03-21**|null|
+|**2025-03-21**|**Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors**|Wonbong Jang et.al.|[2503.17316v1](http://arxiv.org/abs/2503.17316v1)|**2025-03-21**|null|
+|**2025-03-21**|**Quasiconformal Maps between Bowditch Boundaries of Relatively Hyperbolic Groups**|Rana Sardar et.al.|[2503.17312v1](http://arxiv.org/abs/2503.17312v1)|**2025-03-21**|null|
+|**2025-03-21**|**On Quantum Perceptron Learning via Quantum Search**|Xiaoyu Sun et.al.|[2503.17308v1](http://arxiv.org/abs/2503.17308v1)|**2025-03-21**|null|
+|**2025-03-21**|**Coarsening in the Persistent Voter Model: analytical results**|R. G. de Almeida et.al.|[2503.17295v1](http://arxiv.org/abs/2503.17295v1)|**2025-03-21**|null|
+|**2025-03-21**|**The Energy Barrier of Precritical Nuclei in Hard Spheres is Consistent with Predictions**|Lars Kürten et.al.|[2503.17270v1](http://arxiv.org/abs/2503.17270v1)|**2025-03-21**|null|
+|**2025-03-21**|**On the manifest link between Terzan 5 and the Galactic bulge**|L. Origlia et.al.|[2503.17258v1](http://arxiv.org/abs/2503.17258v1)|**2025-03-21**|null|
+|**2025-03-21**|**Integrated Subset Selection and Bandwidth Estimation Algorithm for Geographically Weighted Regression**|Hyunwoo Lee et.al.|[2503.17253v1](http://arxiv.org/abs/2503.17253v1)|**2025-03-21**|null|
+|**2025-03-21**|**Performance of the ALICE Inner Tracking System 2**|Nicolo' Valle et.al.|[2503.17233v1](http://arxiv.org/abs/2503.17233v1)|**2025-03-21**|null|
+|**2025-03-21**|**Enhanced shot noise in graphene quantum point contacts with electrostatic reconstruction**|M. Garg et.al.|[2503.17209v1](http://arxiv.org/abs/2503.17209v1)|**2025-03-21**|null|
+|**2025-03-21**|**Towards Carbon Footprint-Aware Recommender Systems for Greener Item Recommendation**|Raoul Kalisvaart et.al.|[2503.17201v1](http://arxiv.org/abs/2503.17201v1)|**2025-03-21**|null|
+|**2025-03-21**|**Exploring the secondary peaks of autocorrelation in black hole flare movies**|Zhenyu Zhang et.al.|[2503.17200v1](http://arxiv.org/abs/2503.17200v1)|**2025-03-21**|null|
+|**2025-03-21**|**Colloidal Pivots Enable Brownian Metamaterials and Machines**|Julio Melio et.al.|[2503.17196v1](http://arxiv.org/abs/2503.17196v1)|**2025-03-21**|null|
+|**2025-03-21**|**Radar-Guided Polynomial Fitting for Metric Depth Estimation**|Patrick Rim et.al.|[2503.17182v1](http://arxiv.org/abs/2503.17182v1)|**2025-03-21**|null|
+|**2025-03-21**|**On high discrepancy $1$-factorizations of complete graphs**|Jiangdong Ai et.al.|[2503.17176v1](http://arxiv.org/abs/2503.17176v1)|**2025-03-21**|null|
+|**2025-03-21**|**Robustness of deep learning classification to adversarial input on GPUs: asynchronous parallel accumulation is a source of vulnerability**|Sanjif Shanmugavelu et.al.|[2503.17173v1](http://arxiv.org/abs/2503.17173v1)|**2025-03-21**|null|
+|**2025-03-21**|**Hi-ALPS -- An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving**|Alexandra Arzberger et.al.|[2503.17168v1](http://arxiv.org/abs/2503.17168v1)|**2025-03-21**|null|
+|**2025-03-21**|**Leading-order deflection of particles by a moving Schwarzschild lens with a two-dimensional velocity**|Xuan Wang et.al.|[2503.17164v1](http://arxiv.org/abs/2503.17164v1)|**2025-03-21**|null|
+|**2025-03-21**|**Enhancing Steering Estimation with Semantic-Aware GNNs**|Fouad Makiyeh et.al.|[2503.17153v1](http://arxiv.org/abs/2503.17153v1)|**2025-03-21**|null|
+|**2025-03-21**|**Melnick 39 is a very massive intermediate-period colliding-wind binary**|A. M. T. Pollock et.al.|[2503.17150v1](http://arxiv.org/abs/2503.17150v1)|**2025-03-21**|null|
+|**2025-03-21**|**Tidal Amplitudes in the Magellanic Cloud Population of Heartbeat Stars**|Morgan MacLeod et.al.|[2503.17133v1](http://arxiv.org/abs/2503.17133v1)|**2025-03-21**|null|
+|**2025-03-21**|**High-throughput study of kagome compounds in the AV3Sb5 family**|Thalis H. B. da Silva et.al.|[2503.17124v1](http://arxiv.org/abs/2503.17124v1)|**2025-03-21**|null|
+|**2025-03-21**|**Multi-orbital effects on superconductivity in kagome metals: Parquet renormalization group analysis**|Jae-Ho Han et.al.|[2503.17121v1](http://arxiv.org/abs/2503.17121v1)|**2025-03-21**|null|
+|**2025-03-21**|**The CASTLE 2024 Dataset: Advancing the Art of Multimodal Understanding**|Luca Rossetto et.al.|[2503.17116v1](http://arxiv.org/abs/2503.17116v1)|**2025-03-21**|null|
+|**2025-03-21**|**GAA-TSO: Geometry-Aware Assisted Depth Completion for Transparent and Specular Objects**|Yizhe Liu et.al.|[2503.17106v1](http://arxiv.org/abs/2503.17106v1)|**2025-03-21**|null|
+|**2025-03-21**|**Social Optimization in Noncooperative Games under Central Regulation**|Kaixin Du et.al.|[2503.17100v1](http://arxiv.org/abs/2503.17100v1)|**2025-03-21**|null|

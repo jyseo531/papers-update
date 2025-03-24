@@ -2,33 +2,33 @@
 ### Object Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-20**|**DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding**|Keyan Chen et.al.|[2503.16426v1](http://arxiv.org/abs/2503.16426v1)|**2025-03-20**|[link](https://github.com/KyanChen/DynamicVis)|
-|**2025-03-20**|**Bézier Splatting for Fast and Differentiable Vector Graphics**|Xi Liu et.al.|[2503.16424v1](http://arxiv.org/abs/2503.16424v1)|**2025-03-20**|null|
-|**2025-03-20**|**MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance**|Quanhao Li et.al.|[2503.16421v1](http://arxiv.org/abs/2503.16421v1)|**2025-03-20**|null|
-|**2025-03-20**|**SynCity: Training-Free Generation of 3D Worlds**|Paul Engstler et.al.|[2503.16420v1](http://arxiv.org/abs/2503.16420v1)|**2025-03-20**|null|
-|**2025-03-20**|**DreamTexture: Shape from Virtual Texture with Analysis by Augmentation**|Ananta R. Bhattarai et.al.|[2503.16412v1](http://arxiv.org/abs/2503.16412v1)|**2025-03-20**|null|
-|**2025-03-20**|**VerbDiff: Text-Only Diffusion Models with Enhanced Interaction Awareness**|SeungJu Cha et.al.|[2503.16406v1](http://arxiv.org/abs/2503.16406v1)|**2025-03-20**|null|
-|**2025-03-20**|**ScalingNoise: Scaling Inference-Time Search for Generating Infinite Videos**|Haolin Yang et.al.|[2503.16400v1](http://arxiv.org/abs/2503.16400v1)|**2025-03-20**|null|
-|**2025-03-20**|**On the spatial distribution of luminous blue variables in the M33 galaxy**|A. Kostenkov et.al.|[2503.16349v1](http://arxiv.org/abs/2503.16349v1)|**2025-03-20**|null|
-|**2025-03-20**|**Velocity Map Imaging Spectrometer Optimized for Reduction of Background from Scattered UV Light**|Nicolas Ladda et.al.|[2503.16339v1](http://arxiv.org/abs/2503.16339v1)|**2025-03-20**|null|
-|**2025-03-20**|**Protoplanetary cores drove chondrule formation**|Mohamad Ali-Dib et.al.|[2503.16325v1](http://arxiv.org/abs/2503.16325v1)|**2025-03-20**|null|
-|**2025-03-20**|**Dynamic Point Maps: A Versatile Representation for Dynamic 3D Reconstruction**|Edgar Sucar et.al.|[2503.16318v1](http://arxiv.org/abs/2503.16318v1)|**2025-03-20**|null|
-|**2025-03-20**|**Lepton number violating/conserving heavy baryons four-body decays, in presence of two almost degenerated heavy neutrinos**|Fabiola Fortuna et.al.|[2503.16293v1](http://arxiv.org/abs/2503.16293v1)|**2025-03-20**|null|
-|**2025-03-20**|**Overview of Variable Rate Coding in JPEG AI**|Panqi Jia et.al.|[2503.16288v1](http://arxiv.org/abs/2503.16288v1)|**2025-03-20**|null|
-|**2025-03-20**|**The First Model-Independent Chromatic Microlensing Search: No Evidence in the Gravitational Wave Catalog of LIGO-Virgo-KAGRA**|Aniruddha Chakraborty et.al.|[2503.16281v1](http://arxiv.org/abs/2503.16281v1)|**2025-03-20**|null|
-|**2025-03-20**|**Coherent radiation in axially oriented industrial-grade tungsten crystals: A viable path for an innovative γ-rays and positron sources**|N. Canale et.al.|[2503.16269v1](http://arxiv.org/abs/2503.16269v1)|**2025-03-20**|null|
-|**2025-03-20**|**Quantum metrology of a structured reservoir**|Youssef Aiache et.al.|[2503.16261v1](http://arxiv.org/abs/2503.16261v1)|**2025-03-20**|null|
-|**2025-03-20**|**RESFL: An Uncertainty-Aware Framework for Responsible Federated Learning by Balancing Privacy, Fairness and Utility in Autonomous Vehicles**|Dawood Wasif et.al.|[2503.16251v1](http://arxiv.org/abs/2503.16251v1)|**2025-03-20**|null|
-|**2025-03-20**|**Mutation and the Gabriel spectrum**|Michal Hrbek et.al.|[2503.16226v1](http://arxiv.org/abs/2503.16226v1)|**2025-03-20**|null|
-|**2025-03-20**|**Characterization of Random Telegraph Noise in an H2RG X-ray Hybrid CMOS Detector**|William A. Bevidas Jr. et.al.|[2503.16221v1](http://arxiv.org/abs/2503.16221v1)|**2025-03-20**|null|
-|**2025-03-20**|**Temporal Score Analysis for Understanding and Correcting Diffusion Artifacts**|Yu Cao et.al.|[2503.16218v1](http://arxiv.org/abs/2503.16218v1)|**2025-03-20**|null|
-|**2025-03-20**|**Dispersion is (Almost) Optimal under (A)synchrony**|Ajay D. Kshemkalyani et.al.|[2503.16216v1](http://arxiv.org/abs/2503.16216v1)|**2025-03-20**|null|
-|**2025-03-20**|**Quantum Metrology of Newton's Constant with Levitated Mechanical Systems**|Francis J. Headley et.al.|[2503.16215v1](http://arxiv.org/abs/2503.16215v1)|**2025-03-20**|null|
-|**2025-03-20**|**Search for heavy neutral leptons in decays of W bosons using leptonic and semi-leptonic displaced vertices in $\sqrt{s} = 13$ TeV $pp$ collisions with the ATLAS detector**|ATLAS Collaboration et.al.|[2503.16213v1](http://arxiv.org/abs/2503.16213v1)|**2025-03-20**|null|
-|**2025-03-20**|**MapGlue: Multimodal Remote Sensing Image Matching**|Peihao Wu et.al.|[2503.16185v1](http://arxiv.org/abs/2503.16185v1)|**2025-03-20**|null|
-|**2025-03-20**|**Advancing Tumor Budding Detection with Fourier Ptychography Microscopy**|Yiyan Su et.al.|[2503.16170v1](http://arxiv.org/abs/2503.16170v1)|**2025-03-20**|null|
-|**2025-03-20**|**FreeFlux: Understanding and Exploiting Layer-Specific Roles in RoPE-Based MMDiT for Versatile Image Editing**|Tianyi Wei et.al.|[2503.16153v1](http://arxiv.org/abs/2503.16153v1)|**2025-03-20**|null|
-|**2025-03-20**|**Uncertainty Meets Diversity: A Comprehensive Active Learning Framework for Indoor 3D Object Detection**|Jiangyi Wang et.al.|[2503.16125v1](http://arxiv.org/abs/2503.16125v1)|**2025-03-20**|null|
-|**2025-03-20**|**Effects of tau-neutrino detection on non-standard interactions at DUNE with a short discussion on the nature of neutrino mixing**|Xin Yue Yu et.al.|[2503.16124v1](http://arxiv.org/abs/2503.16124v1)|**2025-03-20**|null|
-|**2025-03-20**|**Distributed Learning over Arbitrary Topology: Linear Speed-Up with Polynomial Transient Time**|Runze You et.al.|[2503.16123v1](http://arxiv.org/abs/2503.16123v1)|**2025-03-20**|null|
-|**2025-03-20**|**Improving Discriminator Guidance in Diffusion Models**|Alexandre Verine et.al.|[2503.16117v1](http://arxiv.org/abs/2503.16117v1)|**2025-03-20**|null|
+|**2025-03-21**|**Beyond Semantics: Rediscovering Spatial Awareness in Vision-Language Models**|Jianing Qi et.al.|[2503.17349v1](http://arxiv.org/abs/2503.17349v1)|**2025-03-21**|null|
+|**2025-03-21**|**Abundances of refractory ions in Beta Pictoris exocomets**|T. Vrignaud et.al.|[2503.17346v1](http://arxiv.org/abs/2503.17346v1)|**2025-03-21**|null|
+|**2025-03-21**|**Superconducting properties of commercially available solders for low-field applications**|C. Hickman et.al.|[2503.17345v1](http://arxiv.org/abs/2503.17345v1)|**2025-03-21**|null|
+|**2025-03-21**|**Lattice Materials with Topological States Optimized On-Demand**|Pegah Azizi et.al.|[2503.17320v1](http://arxiv.org/abs/2503.17320v1)|**2025-03-21**|null|
+|**2025-03-21**|**Preference-Guided Diffusion for Multi-Objective Offline Optimization**|Yashas Annadani et.al.|[2503.17299v1](http://arxiv.org/abs/2503.17299v1)|**2025-03-21**|null|
+|**2025-03-21**|**3D Neural Operator-Based Flow Surrogates around 3D geometries: Signed Distance Functions and Derivative Constraints**|Ali Rabeh et.al.|[2503.17289v1](http://arxiv.org/abs/2503.17289v1)|**2025-03-21**|null|
+|**2025-03-21**|**Offline Model-Based Optimization: Comprehensive Review**|Minsu Kim et.al.|[2503.17286v1](http://arxiv.org/abs/2503.17286v1)|**2025-03-21**|null|
+|**2025-03-21**|**An Iterative Feedback Mechanism for Improving Natural Language Class Descriptions in Open-Vocabulary Object Detection**|Louis Y. Kim et.al.|[2503.17285v1](http://arxiv.org/abs/2503.17285v1)|**2025-03-21**|null|
+|**2025-03-21**|**Composable Uncertainty in Symmetric Monoidal Categories for Design Problems**|Marius Furter et.al.|[2503.17274v1](http://arxiv.org/abs/2503.17274v1)|**2025-03-21**|null|
+|**2025-03-21**|**Dimensional reduction of dynamical systems on graphons**|Bisna Mary Eldo et.al.|[2503.17268v1](http://arxiv.org/abs/2503.17268v1)|**2025-03-21**|null|
+|**2025-03-21**|**Contact process for the spread of knowledge**|Nicolas Lanchier et.al.|[2503.17260v1](http://arxiv.org/abs/2503.17260v1)|**2025-03-21**|null|
+|**2025-03-21**|**Search for a new pseudoscalar decaying into a pair of bottom and antibottom quarks in top-associated production in $\sqrt{s}$=13 TeV proton-proton collisions with the ATLAS detector**|ATLAS Collaboration et.al.|[2503.17254v1](http://arxiv.org/abs/2503.17254v1)|**2025-03-21**|null|
+|**2025-03-21**|**Integrated Subset Selection and Bandwidth Estimation Algorithm for Geographically Weighted Regression**|Hyunwoo Lee et.al.|[2503.17253v1](http://arxiv.org/abs/2503.17253v1)|**2025-03-21**|null|
+|**2025-03-21**|**Breaking the Symmetries of Indistinguishable Objects**|Ozgur Akgun et.al.|[2503.17251v1](http://arxiv.org/abs/2503.17251v1)|**2025-03-21**|null|
+|**2025-03-21**|**Einstein's Cat -- A Thought Experiment Against Anti-Relativist Claims**|Val G. Rousseau et.al.|[2503.17248v1](http://arxiv.org/abs/2503.17248v1)|**2025-03-21**|null|
+|**2025-03-21**|**Infinite-fold Quantum Advantage in Classical Correlation Sensing**|Janis Nötzel et.al.|[2503.17235v1](http://arxiv.org/abs/2503.17235v1)|**2025-03-21**|null|
+|**2025-03-21**|**Performance of the ALICE Inner Tracking System 2**|Nicolo' Valle et.al.|[2503.17233v1](http://arxiv.org/abs/2503.17233v1)|**2025-03-21**|null|
+|**2025-03-21**|**Tensor Cross Interpolation of Purities in Quantum Many-Body Systems**|Dmytro Kolisnyk et.al.|[2503.17230v1](http://arxiv.org/abs/2503.17230v1)|**2025-03-21**|null|
+|**2025-03-21**|**Leveraging Text-to-Image Generation for Handling Spurious Correlation**|Aryan Yazdan Parast et.al.|[2503.17226v1](http://arxiv.org/abs/2503.17226v1)|**2025-03-21**|null|
+|**2025-03-21**|**Celestial sunflowers -- Survival of rings around small planetary bodies under solar radiation pressure**|Zs. Regaly et.al.|[2503.17218v1](http://arxiv.org/abs/2503.17218v1)|**2025-03-21**|null|
+|**2025-03-21**|**PP-DocLayout: A Unified Document Layout Detection Model to Accelerate Large-Scale Data Construction**|Ting Sun et.al.|[2503.17213v1](http://arxiv.org/abs/2503.17213v1)|**2025-03-21**|null|
+|**2025-03-21**|**A Deep Learning Framework for Visual Attention Prediction and Analysis of News Interfaces**|Matthew Kenely et.al.|[2503.17212v1](http://arxiv.org/abs/2503.17212v1)|**2025-03-21**|null|
+|**2025-03-21**|**FreeUV: Ground-Truth-Free Realistic Facial UV Texture Recovery via Cross-Assembly Inference Strategy**|Xingchao Yang et.al.|[2503.17197v1](http://arxiv.org/abs/2503.17197v1)|**2025-03-21**|null|
+|**2025-03-21**|**Colloidal Pivots Enable Brownian Metamaterials and Machines**|Julio Melio et.al.|[2503.17196v1](http://arxiv.org/abs/2503.17196v1)|**2025-03-21**|null|
+|**2025-03-21**|**Bayesian optimisation of poloidal field coil positions in tokamaks**|Timothy Nunn et.al.|[2503.17189v1](http://arxiv.org/abs/2503.17189v1)|**2025-03-21**|null|
+|**2025-03-21**|**Searches for direct slepton production in the compressed-mass corridor in $\sqrt{s}=13$ TeV $pp$ collisions with the ATLAS detector**|ATLAS Collaboration et.al.|[2503.17186v1](http://arxiv.org/abs/2503.17186v1)|**2025-03-21**|null|
+|**2025-03-21**|**Radar-Guided Polynomial Fitting for Metric Depth Estimation**|Patrick Rim et.al.|[2503.17182v1](http://arxiv.org/abs/2503.17182v1)|**2025-03-21**|null|
+|**2025-03-21**|**Chlorine abundances in star-forming regions of the local Universe**|M. Orte-García et.al.|[2503.17180v1](http://arxiv.org/abs/2503.17180v1)|**2025-03-21**|null|
+|**2025-03-21**|**Which2comm: An Efficient Collaborative Perception Framework for 3D Object Detection**|Duanrui Yu et.al.|[2503.17175v1](http://arxiv.org/abs/2503.17175v1)|**2025-03-21**|null|
+|**2025-03-21**|**High-energy chirped nanosecond pulsed laser system for particle diagnostics and manipulation**|Stefan Karatodorov et.al.|[2503.17169v1](http://arxiv.org/abs/2503.17169v1)|**2025-03-21**|null|
