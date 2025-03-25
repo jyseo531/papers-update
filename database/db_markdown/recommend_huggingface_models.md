@@ -653,6 +653,7 @@ Updated on 2025-03-25
 | 14 | 2 | prithivMLmods/Deepfake-Quality-Classifier-SigLIP2Image | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/Deepfake-Quality-Classifier-SigLIP2) |
 | 8 | 2 | prithivMLmods/Deepfake-Quality-Classifier2-SigLIP2Image | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/Deepfake-Quality-Classifier2-SigLIP2) |
 | 403 | 2 | microsoft/beit-large-patch16-224-pt22kImage | UpdatedMay 8, 2023 | [Link](https://huggingface.co/microsoft/beit-large-patch16-224-pt22k) |
+| 3 | 2 | prithivMLmods/Fashion-Mnist-SigLIP2Image | Updatedabout 24 hours ago | [Link](https://huggingface.co/prithivMLmods/Fashion-Mnist-SigLIP2) |
 | 60.6M |  | Falconsai/nsfw_image_detectionImage | UpdatedDec 6, 2023 | [Link](https://huggingface.co/Falconsai/nsfw_image_detection) |
 | 45.8M |  | microsoft/resnet-50Image | UpdatedFeb 13, 2024 | [Link](https://huggingface.co/microsoft/resnet-50) |
 | 6.01M |  | google/vit-base-patch16-224Image | UpdatedSep 5, 2023 | [Link](https://huggingface.co/google/vit-base-patch16-224) |
