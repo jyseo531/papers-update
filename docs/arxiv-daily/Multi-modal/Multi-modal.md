@@ -2,33 +2,33 @@
 ### Multi-modal
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-21**|**NdLinear Is All You Need for Representation Learning**|Alex Reneau et.al.|[2503.17353v1](http://arxiv.org/abs/2503.17353v1)|**2025-03-21**|null|
-|**2025-03-21**|**Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors**|Wonbong Jang et.al.|[2503.17316v1](http://arxiv.org/abs/2503.17316v1)|**2025-03-21**|null|
-|**2025-03-21**|**Cross-Modal Interactive Perception Network with Mamba for Lung Tumor Segmentation in PET-CT Images**|Jie Mei et.al.|[2503.17261v1](http://arxiv.org/abs/2503.17261v1)|**2025-03-21**|null|
-|**2025-03-21**|**Not Only Text: Exploring Compositionality of Visual Representations in Vision-Language Models**|Davide Berasi et.al.|[2503.17142v1](http://arxiv.org/abs/2503.17142v1)|**2025-03-21**|null|
-|**2025-03-21**|**Adiabatic Fine-Tuning of Neural Quantum States Enables Detection of Phase Transitions in Weight Space**|Vinicius Hernandes et.al.|[2503.17140v1](http://arxiv.org/abs/2503.17140v1)|**2025-03-21**|null|
-|**2025-03-21**|**Structure Is Not Enough: Leveraging Behavior for Neural Network Weight Reconstruction**|Léo Meynent et.al.|[2503.17138v1](http://arxiv.org/abs/2503.17138v1)|**2025-03-21**|[link](https://github.com/HSG-AIML/ICLR_WSL_2025-Structure_is_not_enough)|
-|**2025-03-21**|**GAA-TSO: Geometry-Aware Assisted Depth Completion for Transparent and Specular Objects**|Yizhe Liu et.al.|[2503.17106v1](http://arxiv.org/abs/2503.17106v1)|**2025-03-21**|null|
-|**2025-03-21**|**Multi-modal Multi-platform Person Re-Identification: Benchmark and Method**|Ruiyang Ha et.al.|[2503.17096v2](http://arxiv.org/abs/2503.17096v2)|**2025-03-24**|null|
-|**2025-03-21**|**Seeing What Matters: Empowering CLIP with Patch Generation-to-Selection**|Gensheng Pei et.al.|[2503.17080v1](http://arxiv.org/abs/2503.17080v1)|**2025-03-21**|null|
-|**2025-03-21**|**Exploring psychophysiological methods for human-robot collaboration in construction**|Saika Wong et.al.|[2503.17078v1](http://arxiv.org/abs/2503.17078v1)|**2025-03-21**|null|
-|**2025-03-21**|**Superpowering Open-Vocabulary Object Detectors for X-ray Vision**|Pablo Garcia-Fernandez et.al.|[2503.17071v1](http://arxiv.org/abs/2503.17071v1)|**2025-03-21**|null|
-|**2025-03-21**|**Symbolic Audio Classification via Modal Decision Tree Learning**|Enrico Marzano et.al.|[2503.17018v1](http://arxiv.org/abs/2503.17018v1)|**2025-03-21**|null|
-|**2025-03-21**|**Targetless 6DoF Calibration of LiDAR and 2D Scanning Radar Based on Cylindrical Occupancy**|Weimin Wang et.al.|[2503.17002v1](http://arxiv.org/abs/2503.17002v1)|**2025-03-21**|null|
-|**2025-03-21**|**Real-Time Diffusion Policies for Games: Enhancing Consistency Policies with Q-Ensembles**|Ruoqi Zhang et.al.|[2503.16978v1](http://arxiv.org/abs/2503.16978v1)|**2025-03-21**|null|
-|**2025-03-21**|**From Faces to Voices: Learning Hierarchical Representations for High-quality Video-to-Speech**|Ji-Hoon Kim et.al.|[2503.16956v1](http://arxiv.org/abs/2503.16956v1)|**2025-03-21**|null|
-|**2025-03-21**|**PE-CLIP: A Parameter-Efficient Fine-Tuning of Vision Language Models for Dynamic Facial Expression Recognition**|Ibtissam Saadi et.al.|[2503.16945v1](http://arxiv.org/abs/2503.16945v1)|**2025-03-21**|null|
-|**2025-03-21**|**MAPS: A Multi-Agent Framework Based on Big Seven Personality and Socratic Guidance for Multimodal Scientific Problem Solving**|Jian Zhang et.al.|[2503.16905v1](http://arxiv.org/abs/2503.16905v1)|**2025-03-21**|null|
-|**2025-03-21**|**MTBench: A Multimodal Time Series Benchmark for Temporal Reasoning and Question Answering**|Jialin Chen et.al.|[2503.16858v1](http://arxiv.org/abs/2503.16858v1)|**2025-03-21**|null|
-|**2025-03-21**|**LoRASculpt: Sculpting LoRA for Harmonizing General and Specialized Knowledge in Multimodal Large Language Models**|Jian Liang et.al.|[2503.16843v1](http://arxiv.org/abs/2503.16843v1)|**2025-03-21**|null|
-|**2025-03-21**|**When Tom Eats Kimchi: Evaluating Cultural Bias of Multimodal Large Language Models in Cultural Mixture Contexts**|Jun Seong Kim et.al.|[2503.16826v1](http://arxiv.org/abs/2503.16826v1)|**2025-03-21**|null|
-|**2025-03-21**|**Multi-View Orthogonal Projection Regression with Application in Multi-omics integration**|Zongrui Dai et.al.|[2503.16807v1](http://arxiv.org/abs/2503.16807v1)|**2025-03-21**|null|
-|**2025-03-21**|**Opening and closing a bandgap via alternating softening and hardening nonlinearities**|Weijian Jiao et.al.|[2503.16802v1](http://arxiv.org/abs/2503.16802v1)|**2025-03-21**|null|
-|**2025-03-21**|**Auto-Regressive Diffusion for Generating 3D Human-Object Interactions**|Zichen Geng et.al.|[2503.16801v1](http://arxiv.org/abs/2503.16801v1)|**2025-03-21**|null|
-|**2025-03-20**|**EDiT: Efficient Diffusion Transformers with Linear Compressed Attention**|Philipp Becker et.al.|[2503.16726v1](http://arxiv.org/abs/2503.16726v1)|**2025-03-20**|null|
-|**2025-03-20**|**Cross-Modal and Uncertainty-Aware Agglomeration for Open-Vocabulary 3D Scene Understanding**|Jinlong Li et.al.|[2503.16707v1](http://arxiv.org/abs/2503.16707v1)|**2025-03-20**|null|
-|**2025-03-20**|**GAIR: Improving Multimodal Geo-Foundation Model with Geo-Aligned Implicit Representations**|Zeping Liu et.al.|[2503.16683v1](http://arxiv.org/abs/2503.16683v1)|**2025-03-20**|null|
-|**2025-03-20**|**Do Visual Imaginations Improve Vision-and-Language Navigation Agents?**|Akhil Perincherry et.al.|[2503.16394v1](http://arxiv.org/abs/2503.16394v1)|**2025-03-20**|null|
-|**2025-03-20**|**LaPIG: Cross-Modal Generation of Paired Thermal and Visible Facial Images**|Leyang Wang et.al.|[2503.16376v1](http://arxiv.org/abs/2503.16376v1)|**2025-03-20**|null|
-|**2025-03-20**|**Deep learning framework for action prediction reveals multi-timescale locomotor control**|Wei-Chen Wang et.al.|[2503.16340v2](http://arxiv.org/abs/2503.16340v2)|**2025-03-22**|null|
-|**2025-03-20**|**Structured-Noise Masked Modeling for Video, Audio and Beyond**|Aritra Bhowmik et.al.|[2503.16311v1](http://arxiv.org/abs/2503.16311v1)|**2025-03-20**|null|
+|**2025-03-24**|**SyncVP: Joint Diffusion for Synchronous Multi-Modal Video Prediction**|Enrico Pallotta et.al.|[2503.18933v1](http://arxiv.org/abs/2503.18933v1)|**2025-03-24**|null|
+|**2025-03-24**|**Video SimpleQA: Towards Factuality Evaluation in Large Video Language Models**|Meng Cao et.al.|[2503.18923v1](http://arxiv.org/abs/2503.18923v1)|**2025-03-24**|null|
+|**2025-03-24**|**Seeing Speech and Sound: Distinguishing and Locating Audios in Visual Scenes**|Hyeonggon Ryu et.al.|[2503.18880v1](http://arxiv.org/abs/2503.18880v1)|**2025-03-24**|null|
+|**2025-03-24**|**MODIS: Multi-Omics Data Integration for Small and Unpaired Datasets**|Daniel Lepe-Soltero et.al.|[2503.18856v1](http://arxiv.org/abs/2503.18856v1)|**2025-03-24**|null|
+|**2025-03-24**|**Enhanced OoD Detection through Cross-Modal Alignment of Multi-Modal Representations**|Jeonghyeon Kim et.al.|[2503.18817v1](http://arxiv.org/abs/2503.18817v1)|**2025-03-24**|null|
+|**2025-03-24**|**Intuitionistic modal logics: new and simpler decidability proofs for FIK and LIK**|Philippe Balbiani et.al.|[2503.18714v1](http://arxiv.org/abs/2503.18714v1)|**2025-03-24**|null|
+|**2025-03-24**|**LLaVAction: evaluating and training multi-modal large language models for action recognition**|Shaokai Ye et.al.|[2503.18712v1](http://arxiv.org/abs/2503.18712v1)|**2025-03-24**|null|
+|**2025-03-24**|**Commander-GPT: Fully Unleashing the Sarcasm Detection Capability of Multi-Modal Large Language Models**|Yazhou Zhang et.al.|[2503.18681v1](http://arxiv.org/abs/2503.18681v1)|**2025-03-24**|null|
+|**2025-03-24**|**ArchSeek: Retrieving Architectural Case Studies Using Vision-Language Models**|Danrui Li et.al.|[2503.18680v1](http://arxiv.org/abs/2503.18680v1)|**2025-03-24**|null|
+|**2025-03-24**|**OCCO: LVM-guided Infrared and Visible Image Fusion Framework based on Object-aware and Contextual COntrastive Learning**|Hui Li et.al.|[2503.18635v1](http://arxiv.org/abs/2503.18635v1)|**2025-03-24**|null|
+|**2025-03-24**|**Dig2DIG: Dig into Diffusion Information Gains for Image Fusion**|Bing Cao et.al.|[2503.18627v1](http://arxiv.org/abs/2503.18627v1)|**2025-03-24**|null|
+|**2025-03-24**|**Training-Free Personalization via Retrieval and Reasoning on Fingerprints**|Deepayan Das et.al.|[2503.18623v1](http://arxiv.org/abs/2503.18623v1)|**2025-03-24**|null|
+|**2025-03-24**|**Matrix Pencil-Based Analysis of Multirate Simulation Schemes**|Liya Huang et.al.|[2503.18605v1](http://arxiv.org/abs/2503.18605v1)|**2025-03-24**|null|
+|**2025-03-24**|**Adaptive Unimodal Regulation for Balanced Multimodal Information Acquisition**|Chengxiang Huang et.al.|[2503.18595v1](http://arxiv.org/abs/2503.18595v1)|**2025-03-24**|null|
+|**2025-03-24**|**Unified Uncertainty-Aware Diffusion for Multi-Agent Trajectory Modeling**|Guillem Capellera et.al.|[2503.18589v1](http://arxiv.org/abs/2503.18589v1)|**2025-03-24**|null|
+|**2025-03-24**|**HiRes-FusedMIM: A High-Resolution RGB-DSM Pre-trained Model for Building-Level Remote Sensing Applications**|Guneet Mutreja et.al.|[2503.18540v1](http://arxiv.org/abs/2503.18540v1)|**2025-03-24**|null|
+|**2025-03-24**|**MAGIC-VQA: Multimodal And Grounded Inference with Commonsense Knowledge for Visual Question Answering**|Shuo Yang et.al.|[2503.18491v1](http://arxiv.org/abs/2503.18491v1)|**2025-03-24**|null|
+|**2025-03-24**|**PM4Bench: A Parallel Multilingual Multi-Modal Multi-task Benchmark for Large Vision Language Model**|Junyuan Gao et.al.|[2503.18484v1](http://arxiv.org/abs/2503.18484v1)|**2025-03-24**|null|
+|**2025-03-24**|**Benchmarking Multi-modal Semantic Segmentation under Sensor Failures: Missing and Noisy Modality Robustness**|Chenfei Liao et.al.|[2503.18445v1](http://arxiv.org/abs/2503.18445v1)|**2025-03-24**|null|
+|**2025-03-24**|**A Simple yet Effective Layout Token in Large Language Models for Document Understanding**|Zhaoqing Zhu et.al.|[2503.18434v1](http://arxiv.org/abs/2503.18434v1)|**2025-03-24**|null|
+|**2025-03-24**|**Knowledge Graph Enhanced Generative Multi-modal Models for Class-Incremental Learning**|Xusheng Cao et.al.|[2503.18403v1](http://arxiv.org/abs/2503.18403v1)|**2025-03-24**|null|
+|**2025-03-24**|**PDDM: Pseudo Depth Diffusion Model for RGB-PD Semantic Segmentation Based in Complex Indoor Scenes**|Xinhua Xu et.al.|[2503.18393v1](http://arxiv.org/abs/2503.18393v1)|**2025-03-24**|null|
+|**2025-03-24**|**Exploring State Space Model in Wavelet Domain: An Infrared and Visible Image Fusion Network via Wavelet Transform and State Space Model**|Tianpei Zhang et.al.|[2503.18378v1](http://arxiv.org/abs/2503.18378v1)|**2025-03-24**|null|
+|**2025-03-24**|**Towards Training-free Anomaly Detection with Vision and Language Foundation Models**|Jinjin Zhang et.al.|[2503.18325v1](http://arxiv.org/abs/2503.18325v1)|**2025-03-24**|null|
+|**2025-03-24**|**Bridging Writing Manner Gap in Visual Instruction Tuning by Creating LLM-aligned Instructions**|Dong Jing et.al.|[2503.18320v1](http://arxiv.org/abs/2503.18320v1)|**2025-03-24**|null|
+|**2025-03-24**|**NMPC-based Unified Posture Manipulation and Thrust Vectoring for Fault Recovery**|Adarsh Salagame et.al.|[2503.18307v1](http://arxiv.org/abs/2503.18307v1)|**2025-03-24**|null|
+|**2025-03-24**|**Ground Penetrating Radar-Assisted Multimodal Robot Odometry Using Subsurface Feature Matrix**|Haifeng Li et.al.|[2503.18301v1](http://arxiv.org/abs/2503.18301v1)|**2025-03-24**|null|
+|**2025-03-24**|**Surgical Action Planning with Large Language Models**|Mengya Xu et.al.|[2503.18296v1](http://arxiv.org/abs/2503.18296v1)|**2025-03-24**|null|
+|**2025-03-24**|**ZECO: ZeroFusion Guided 3D MRI Conditional Generation**|Feiran Wang et.al.|[2503.18246v1](http://arxiv.org/abs/2503.18246v1)|**2025-03-24**|null|
+|**2025-03-23**|**PG-SAM: Prior-Guided SAM with Medical for Multi-organ Segmentation**|Yiheng Zhong et.al.|[2503.18227v1](http://arxiv.org/abs/2503.18227v1)|**2025-03-23**|null|

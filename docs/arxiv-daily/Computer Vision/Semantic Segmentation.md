@@ -2,33 +2,33 @@
 ### Semantic Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-21**|**Beyond Semantics: Rediscovering Spatial Awareness in Vision-Language Models**|Jianing Qi et.al.|[2503.17349v1](http://arxiv.org/abs/2503.17349v1)|**2025-03-21**|null|
-|**2025-03-21**|**QITE: Assembly-Level, Cross-Platform Testing of Quantum Computing Platforms**|Matteo Paltenghi et.al.|[2503.17322v1](http://arxiv.org/abs/2503.17322v1)|**2025-03-21**|null|
-|**2025-03-21**|**FastCuRL: Curriculum Reinforcement Learning with Progressive Context Extension for Efficient Training R1-like Reasoning Models**|Mingyang Song et.al.|[2503.17287v1](http://arxiv.org/abs/2503.17287v1)|**2025-03-21**|[link](https://github.com/nick7nlp/FastCuRL)|
-|**2025-03-21**|**CASE -- Condition-Aware Sentence Embeddings for Conditional Semantic Textual Similarity Measurement**|Gaifan Zhang et.al.|[2503.17279v1](http://arxiv.org/abs/2503.17279v1)|**2025-03-21**|null|
-|**2025-03-21**|**Vision Transformer Based Semantic Communications for Next Generation Wireless Networks**|Muhammad Ahmed Mohsin et.al.|[2503.17275v1](http://arxiv.org/abs/2503.17275v1)|**2025-03-21**|null|
-|**2025-03-21**|**Cross-Modal Interactive Perception Network with Mamba for Lung Tumor Segmentation in PET-CT Images**|Jie Mei et.al.|[2503.17261v1](http://arxiv.org/abs/2503.17261v1)|**2025-03-21**|null|
-|**2025-03-21**|**Leveraging Text-to-Image Generation for Handling Spurious Correlation**|Aryan Yazdan Parast et.al.|[2503.17226v1](http://arxiv.org/abs/2503.17226v1)|**2025-03-21**|null|
-|**2025-03-21**|**A Deep Learning Framework for Visual Attention Prediction and Analysis of News Interfaces**|Matthew Kenely et.al.|[2503.17212v1](http://arxiv.org/abs/2503.17212v1)|**2025-03-21**|null|
-|**2025-03-21**|**A Language Anchor-Guided Method for Robust Noisy Domain Generalization**|Zilin Dai et.al.|[2503.17211v1](http://arxiv.org/abs/2503.17211v1)|**2025-03-21**|null|
-|**2025-03-21**|**Which2comm: An Efficient Collaborative Perception Framework for 3D Object Detection**|Duanrui Yu et.al.|[2503.17175v1](http://arxiv.org/abs/2503.17175v1)|**2025-03-21**|null|
-|**2025-03-21**|**Ubiquitous order known as chaos**|Igor V. Ovchinnikov et.al.|[2503.17157v1](http://arxiv.org/abs/2503.17157v1)|**2025-03-21**|null|
-|**2025-03-21**|**Enhancing Steering Estimation with Semantic-Aware GNNs**|Fouad Makiyeh et.al.|[2503.17153v1](http://arxiv.org/abs/2503.17153v1)|**2025-03-21**|null|
-|**2025-03-21**|**Seismotectonics and Slip Behavior of a Submarine Plate Boundary Fault from Seismicity Repeaters and Tomography using a high-resolution earthquake catalog from machine learning**|D. Lange et.al.|[2503.17148v1](http://arxiv.org/abs/2503.17148v1)|**2025-03-21**|null|
-|**2025-03-21**|**Temporal-Guided Spiking Neural Networks for Event-Based Human Action Recognition**|Siyuan Yang et.al.|[2503.17132v1](http://arxiv.org/abs/2503.17132v1)|**2025-03-21**|null|
-|**2025-03-21**|**FFaceNeRF: Few-shot Face Editing in Neural Radiance Fields**|Kwan Yun et.al.|[2503.17095v1](http://arxiv.org/abs/2503.17095v1)|**2025-03-21**|[link](https://github.com/kwanyun/FFaceNeRF)|
-|**2025-03-21**|**Does a Rising Tide Lift All Boats? Bias Mitigation for AI-based CMR Segmentation**|Tiarna Lee et.al.|[2503.17089v1](http://arxiv.org/abs/2503.17089v1)|**2025-03-21**|null|
-|**2025-03-21**|**Seeing What Matters: Empowering CLIP with Patch Generation-to-Selection**|Gensheng Pei et.al.|[2503.17080v1](http://arxiv.org/abs/2503.17080v1)|**2025-03-21**|null|
-|**2025-03-21**|**Semi-supervised Cervical Segmentation on Ultrasound by A Dual Framework for Neural Networks**|Fangyijie Wang et.al.|[2503.17057v1](http://arxiv.org/abs/2503.17057v1)|**2025-03-21**|null|
-|**2025-03-21**|**Scoring, Remember, and Reference: Catching Camouflaged Objects in Videos**|Yuang Feng et.al.|[2503.17050v1](http://arxiv.org/abs/2503.17050v1)|**2025-03-21**|null|
-|**2025-03-21**|**ExCap3D: Expressive 3D Scene Understanding via Object Captioning with Varying Detail**|Chandan Yeshwanth et.al.|[2503.17044v1](http://arxiv.org/abs/2503.17044v1)|**2025-03-21**|null|
-|**2025-03-21**|**Problem Framing in the AI era: a new model**|Matteo Tuveri et.al.|[2503.17040v1](http://arxiv.org/abs/2503.17040v1)|**2025-03-21**|null|
-|**2025-03-21**|**An Attentive Representative Sample Selection Strategy Combined with Balanced Batch Training for Skin Lesion Segmentation**|Stephen Lloyd-Brown et.al.|[2503.17034v1](http://arxiv.org/abs/2503.17034v1)|**2025-03-21**|null|
-|**2025-03-21**|**Autonomous Exploration-Based Precise Mapping for Mobile Robots through Stepwise and Consistent Motions**|Muhua Zhang et.al.|[2503.17005v1](http://arxiv.org/abs/2503.17005v1)|**2025-03-21**|null|
-|**2025-03-21**|**Text2Model: Generating dynamic chemical reactor models using large language models (LLMs)**|Sophia Rupprecht et.al.|[2503.17004v1](http://arxiv.org/abs/2503.17004v1)|**2025-03-21**|null|
-|**2025-03-21**|**Steady Progress Beats Stagnation: Mutual Aid of Foundation and Conventional Models in Mixed Domain Semi-Supervised Medical Image Segmentation**|Qinghe Ma et.al.|[2503.16997v1](http://arxiv.org/abs/2503.16997v1)|**2025-03-21**|null|
-|**2025-03-21**|**High Accuracy Pulmonary Vessel Segmentation for Contrast and Non-contrast CT Images and Its Clinical Evaluation**|Ying Ming et.al.|[2503.16988v1](http://arxiv.org/abs/2503.16988v1)|**2025-03-21**|null|
-|**2025-03-21**|**Enabling Versatile Controls for Video Diffusion Models**|Xu Zhang et.al.|[2503.16983v1](http://arxiv.org/abs/2503.16983v1)|**2025-03-21**|null|
-|**2025-03-21**|**GeoT: Geometry-guided Instance-dependent Transition Matrix for Semi-supervised Tooth Point Cloud Segmentation**|Weihao Yu et.al.|[2503.16976v1](http://arxiv.org/abs/2503.16976v1)|**2025-03-21**|null|
-|**2025-03-21**|**DroneSplat: 3D Gaussian Splatting for Robust 3D Reconstruction from In-the-Wild Drone Imagery**|Jiadong Tang et.al.|[2503.16964v1](http://arxiv.org/abs/2503.16964v1)|**2025-03-21**|null|
-|**2025-03-21**|**Center-guided Classifier for Semantic Segmentation of Remote Sensing Images**|Wei Zhang et.al.|[2503.16963v1](http://arxiv.org/abs/2503.16963v1)|**2025-03-21**|null|
+|**2025-03-24**|**Target-Aware Video Diffusion Models**|Taeksoo Kim et.al.|[2503.18950v1](http://arxiv.org/abs/2503.18950v1)|**2025-03-24**|null|
+|**2025-03-24**|**Tuning-Free Amodal Segmentation via the Occlusion-Free Bias of Inpainting Models**|Jae Joong Lee et.al.|[2503.18947v1](http://arxiv.org/abs/2503.18947v1)|**2025-03-24**|null|
+|**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944v1](http://arxiv.org/abs/2503.18944v1)|**2025-03-24**|null|
+|**2025-03-24**|**SyncVP: Joint Diffusion for Synchronous Multi-Modal Video Prediction**|Enrico Pallotta et.al.|[2503.18933v1](http://arxiv.org/abs/2503.18933v1)|**2025-03-24**|null|
+|**2025-03-24**|**CoMP: Continual Multimodal Pre-training for Vision Foundation Models**|Yitong Chen et.al.|[2503.18931v1](http://arxiv.org/abs/2503.18931v1)|**2025-03-24**|[link](https://github.com/SliMM-X/CoMP-MM)|
+|**2025-03-24**|**Seeing Speech and Sound: Distinguishing and Locating Audios in Visual Scenes**|Hyeonggon Ryu et.al.|[2503.18880v1](http://arxiv.org/abs/2503.18880v1)|**2025-03-24**|null|
+|**2025-03-24**|**A semantic communication-based workload-adjustable transceiver for wireless AI-generated content (AIGC) delivery**|Runze Cheng et.al.|[2503.18874v1](http://arxiv.org/abs/2503.18874v1)|**2025-03-24**|null|
+|**2025-03-24**|**Exploring the Integration of Key-Value Attention Into Pure and Hybrid Transformers for Semantic Segmentation**|DeShin Hwa et.al.|[2503.18862v1](http://arxiv.org/abs/2503.18862v1)|**2025-03-24**|null|
+|**2025-03-24**|**Self-Organizing Graph Reasoning Evolves into a Critical State for Continuous Discovery Through Structural-Semantic Dynamics**|Markus J. Buehler et.al.|[2503.18852v1](http://arxiv.org/abs/2503.18852v1)|**2025-03-24**|null|
+|**2025-03-24**|**Learning to segment anatomy and lesions from disparately labeled sources in brain MRI**|Meva Himmetoglu et.al.|[2503.18840v1](http://arxiv.org/abs/2503.18840v1)|**2025-03-24**|null|
+|**2025-03-24**|**Enhanced OoD Detection through Cross-Modal Alignment of Multi-Modal Representations**|Jeonghyeon Kim et.al.|[2503.18817v1](http://arxiv.org/abs/2503.18817v1)|**2025-03-24**|null|
+|**2025-03-24**|**Change3D: Revisiting Change Detection and Captioning from A Video Modeling Perspective**|Duowang Zhu et.al.|[2503.18803v1](http://arxiv.org/abs/2503.18803v1)|**2025-03-24**|null|
+|**2025-03-24**|**LGI-DETR: Local-Global Interaction for UAV Object Detection**|Zifa Chen et.al.|[2503.18785v1](http://arxiv.org/abs/2503.18785v1)|**2025-03-24**|null|
+|**2025-03-24**|**Frequency Dynamic Convolution for Dense Image Prediction**|Linwei Chen et.al.|[2503.18783v1](http://arxiv.org/abs/2503.18783v1)|**2025-03-24**|null|
+|**2025-03-24**|**AlphaSpace: Enabling Robotic Actions through Semantic Tokenization and Symbolic Reasoning**|Alan Dao et.al.|[2503.18769v1](http://arxiv.org/abs/2503.18769v1)|**2025-03-24**|null|
+|**2025-03-24**|**EgoSurgery-HTS: A Dataset for Egocentric Hand-Tool Segmentation in Open Surgery Videos**|Nathan Darjana et.al.|[2503.18755v1](http://arxiv.org/abs/2503.18755v1)|**2025-03-24**|null|
+|**2025-03-24**|**Construction Identification and Disambiguation Using BERT: A Case Study of NPN**|Wesley Scivetti et.al.|[2503.18751v1](http://arxiv.org/abs/2503.18751v1)|**2025-03-24**|null|
+|**2025-03-24**|**Linguistics-aware Masked Image Modeling for Self-supervised Scene Text Recognition**|Yifei Zhang et.al.|[2503.18746v1](http://arxiv.org/abs/2503.18746v1)|**2025-03-24**|null|
+|**2025-03-24**|**RoboEngine: Plug-and-Play Robot Data Augmentation with Semantic Robot Segmentation and Background Generation**|Chengbo Yuan et.al.|[2503.18738v1](http://arxiv.org/abs/2503.18738v1)|**2025-03-24**|null|
+|**2025-03-24**|**FG$^2$: Fine-Grained Cross-View Localization by Fine-Grained Feature Matching**|Zimin Xia et.al.|[2503.18725v1](http://arxiv.org/abs/2503.18725v1)|**2025-03-24**|null|
+|**2025-03-24**|**LLaVAction: evaluating and training multi-modal large language models for action recognition**|Shaokai Ye et.al.|[2503.18712v1](http://arxiv.org/abs/2503.18712v1)|**2025-03-24**|null|
+|**2025-03-24**|**OCRT: Boosting Foundation Models in the Open World with Object-Concept-Relation Triad**|Luyao Tang et.al.|[2503.18695v1](http://arxiv.org/abs/2503.18695v1)|**2025-03-24**|null|
+|**2025-03-24**|**A Comprehensive Review on Hashtag Recommendation: From Traditional to Deep Learning and Beyond**|Shubhi Bansal et.al.|[2503.18669v1](http://arxiv.org/abs/2503.18669v1)|**2025-03-24**|null|
+|**2025-03-24**|**Limiting on ALP-photon Coupling through GRB221009A**|Tong Chen et.al.|[2503.18653v1](http://arxiv.org/abs/2503.18653v1)|**2025-03-24**|null|
+|**2025-03-24**|**From Fragment to One Piece: A Survey on AI-Driven Graphic Design**|Xingxing Zou et.al.|[2503.18641v1](http://arxiv.org/abs/2503.18641v1)|**2025-03-24**|null|
+|**2025-03-24**|**OCCO: LVM-guided Infrared and Visible Image Fusion Framework based on Object-aware and Contextual COntrastive Learning**|Hui Li et.al.|[2503.18635v1](http://arxiv.org/abs/2503.18635v1)|**2025-03-24**|null|
+|**2025-03-24**|**Towards Human-Understandable Multi-Dimensional Concept Discovery**|Arne Grobrügge et.al.|[2503.18629v1](http://arxiv.org/abs/2503.18629v1)|**2025-03-24**|null|
+|**2025-03-24**|**Training-Free Personalization via Retrieval and Reasoning on Fingerprints**|Deepayan Das et.al.|[2503.18623v1](http://arxiv.org/abs/2503.18623v1)|**2025-03-24**|null|
+|**2025-03-24**|**LinkAlign: Scalable Schema Linking for Real-World Large-Scale Multi-Database Text-to-SQL**|Yihan Wang et.al.|[2503.18596v1](http://arxiv.org/abs/2503.18596v1)|**2025-03-24**|[link](https://github.com/Satissss/LinkAlign)|
+|**2025-03-24**|**ATARS: An Aerial Traffic Atomic Activity Recognition and Temporal Segmentation Dataset**|Zihao Chen et.al.|[2503.18553v1](http://arxiv.org/abs/2503.18553v1)|**2025-03-24**|null|
