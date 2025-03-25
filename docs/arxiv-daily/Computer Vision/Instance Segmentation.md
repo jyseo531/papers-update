@@ -17,7 +17,7 @@
 |**2025-03-21**|**Temporal-Guided Spiking Neural Networks for Event-Based Human Action Recognition**|Siyuan Yang et.al.|[2503.17132v1](http://arxiv.org/abs/2503.17132v1)|**2025-03-21**|null|
 |**2025-03-21**|**Modifying Large Language Model Post-Training for Diverse Creative Writing**|John Joon Young Chung et.al.|[2503.17126v1](http://arxiv.org/abs/2503.17126v1)|**2025-03-21**|null|
 |**2025-03-21**|**A Digital Machine Learning Algorithm Simulating Spiking Neural Network CoLaNET**|Mikhail Kiselev et.al.|[2503.17111v1](http://arxiv.org/abs/2503.17111v1)|**2025-03-21**|null|
-|**2025-03-21**|**Multi-modal Multi-platform Person Re-Identification: Benchmark and Method**|Ruiyang Ha et.al.|[2503.17096v1](http://arxiv.org/abs/2503.17096v1)|**2025-03-21**|null|
+|**2025-03-21**|**Multi-modal Multi-platform Person Re-Identification: Benchmark and Method**|Ruiyang Ha et.al.|[2503.17096v2](http://arxiv.org/abs/2503.17096v2)|**2025-03-24**|null|
 |**2025-03-21**|**FFaceNeRF: Few-shot Face Editing in Neural Radiance Fields**|Kwan Yun et.al.|[2503.17095v1](http://arxiv.org/abs/2503.17095v1)|**2025-03-21**|[link](https://github.com/kwanyun/FFaceNeRF)|
 |**2025-03-21**|**Does a Rising Tide Lift All Boats? Bias Mitigation for AI-based CMR Segmentation**|Tiarna Lee et.al.|[2503.17089v1](http://arxiv.org/abs/2503.17089v1)|**2025-03-21**|null|
 |**2025-03-21**|**ATHENA: An In-vehicle CAN Intrusion Detection Framework Based on Physical Characteristics of Vehicle Systems**|Kai Wang et.al.|[2503.17067v1](http://arxiv.org/abs/2503.17067v1)|**2025-03-21**|null|

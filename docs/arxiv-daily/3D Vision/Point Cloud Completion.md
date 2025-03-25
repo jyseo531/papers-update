@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-21**|**HCAST: Human-Calibrated Autonomy Software Tasks**|David Rein et.al.|[2503.17354v1](http://arxiv.org/abs/2503.17354v1)|**2025-03-21**|null|
 |**2025-03-21**|**The impact of the Galactic bar and the Large Magellanic Cloud on hypervelocity star trajectories**|Isabella Armstrong et.al.|[2503.17344v1](http://arxiv.org/abs/2503.17344v1)|**2025-03-21**|null|
-|**2025-03-21**|**On almost Gallai colourings in complete graphs**|Alexandr Grebennikov et.al.|[2503.17334v1](http://arxiv.org/abs/2503.17334v1)|**2025-03-21**|null|
+|**2025-03-21**|**On almost Gallai colourings in complete graphs**|Alexandr Grebennikov et.al.|[2503.17334v2](http://arxiv.org/abs/2503.17334v2)|**2025-03-24**|null|
 |**2025-03-21**|**Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors**|Wonbong Jang et.al.|[2503.17316v1](http://arxiv.org/abs/2503.17316v1)|**2025-03-21**|null|
 |**2025-03-21**|**Quasiconformal Maps between Bowditch Boundaries of Relatively Hyperbolic Groups**|Rana Sardar et.al.|[2503.17312v1](http://arxiv.org/abs/2503.17312v1)|**2025-03-21**|null|
 |**2025-03-21**|**On Quantum Perceptron Learning via Quantum Search**|Xiaoyu Sun et.al.|[2503.17308v1](http://arxiv.org/abs/2503.17308v1)|**2025-03-21**|null|
@@ -13,7 +13,7 @@
 |**2025-03-21**|**Finite group gauge theory on graphs and gravity-like modes**|Shahn Majid et.al.|[2503.17301v1](http://arxiv.org/abs/2503.17301v1)|**2025-03-21**|null|
 |**2025-03-21**|**Coarsening in the Persistent Voter Model: analytical results**|R. G. de Almeida et.al.|[2503.17295v1](http://arxiv.org/abs/2503.17295v1)|**2025-03-21**|null|
 |**2025-03-21**|**FastCuRL: Curriculum Reinforcement Learning with Progressive Context Extension for Efficient Training R1-like Reasoning Models**|Mingyang Song et.al.|[2503.17287v1](http://arxiv.org/abs/2503.17287v1)|**2025-03-21**|[link](https://github.com/nick7nlp/FastCuRL)|
-|**2025-03-21**|**The Energy Barrier of Precritical Nuclei in Hard Spheres is Consistent with Predictions**|Lars Kürten et.al.|[2503.17270v1](http://arxiv.org/abs/2503.17270v1)|**2025-03-21**|null|
+|**2025-03-21**|**The Energy Barrier of Precritical Nuclei in Hard Spheres is Consistent with Predictions**|Lars Kürten et.al.|[2503.17270v2](http://arxiv.org/abs/2503.17270v2)|**2025-03-24**|null|
 |**2025-03-21**|**On the manifest link between Terzan 5 and the Galactic bulge**|L. Origlia et.al.|[2503.17258v1](http://arxiv.org/abs/2503.17258v1)|**2025-03-21**|null|
 |**2025-03-21**|**Integrated Subset Selection and Bandwidth Estimation Algorithm for Geographically Weighted Regression**|Hyunwoo Lee et.al.|[2503.17253v1](http://arxiv.org/abs/2503.17253v1)|**2025-03-21**|null|
 |**2025-03-21**|**Breaking the Symmetries of Indistinguishable Objects**|Ozgur Akgun et.al.|[2503.17251v1](http://arxiv.org/abs/2503.17251v1)|**2025-03-21**|null|

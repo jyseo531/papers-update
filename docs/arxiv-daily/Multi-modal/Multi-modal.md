@@ -9,7 +9,7 @@
 |**2025-03-21**|**Adiabatic Fine-Tuning of Neural Quantum States Enables Detection of Phase Transitions in Weight Space**|Vinicius Hernandes et.al.|[2503.17140v1](http://arxiv.org/abs/2503.17140v1)|**2025-03-21**|null|
 |**2025-03-21**|**Structure Is Not Enough: Leveraging Behavior for Neural Network Weight Reconstruction**|Léo Meynent et.al.|[2503.17138v1](http://arxiv.org/abs/2503.17138v1)|**2025-03-21**|[link](https://github.com/HSG-AIML/ICLR_WSL_2025-Structure_is_not_enough)|
 |**2025-03-21**|**GAA-TSO: Geometry-Aware Assisted Depth Completion for Transparent and Specular Objects**|Yizhe Liu et.al.|[2503.17106v1](http://arxiv.org/abs/2503.17106v1)|**2025-03-21**|null|
-|**2025-03-21**|**Multi-modal Multi-platform Person Re-Identification: Benchmark and Method**|Ruiyang Ha et.al.|[2503.17096v1](http://arxiv.org/abs/2503.17096v1)|**2025-03-21**|null|
+|**2025-03-21**|**Multi-modal Multi-platform Person Re-Identification: Benchmark and Method**|Ruiyang Ha et.al.|[2503.17096v2](http://arxiv.org/abs/2503.17096v2)|**2025-03-24**|null|
 |**2025-03-21**|**Seeing What Matters: Empowering CLIP with Patch Generation-to-Selection**|Gensheng Pei et.al.|[2503.17080v1](http://arxiv.org/abs/2503.17080v1)|**2025-03-21**|null|
 |**2025-03-21**|**Exploring psychophysiological methods for human-robot collaboration in construction**|Saika Wong et.al.|[2503.17078v1](http://arxiv.org/abs/2503.17078v1)|**2025-03-21**|null|
 |**2025-03-21**|**Superpowering Open-Vocabulary Object Detectors for X-ray Vision**|Pablo Garcia-Fernandez et.al.|[2503.17071v1](http://arxiv.org/abs/2503.17071v1)|**2025-03-21**|null|
@@ -30,5 +30,5 @@
 |**2025-03-20**|**GAIR: Improving Multimodal Geo-Foundation Model with Geo-Aligned Implicit Representations**|Zeping Liu et.al.|[2503.16683v1](http://arxiv.org/abs/2503.16683v1)|**2025-03-20**|null|
 |**2025-03-20**|**Do Visual Imaginations Improve Vision-and-Language Navigation Agents?**|Akhil Perincherry et.al.|[2503.16394v1](http://arxiv.org/abs/2503.16394v1)|**2025-03-20**|null|
 |**2025-03-20**|**LaPIG: Cross-Modal Generation of Paired Thermal and Visible Facial Images**|Leyang Wang et.al.|[2503.16376v1](http://arxiv.org/abs/2503.16376v1)|**2025-03-20**|null|
-|**2025-03-20**|**Nonlinear action prediction models reveal multi-timescale locomotor control**|Wei-Chen Wang et.al.|[2503.16340v1](http://arxiv.org/abs/2503.16340v1)|**2025-03-20**|null|
+|**2025-03-20**|**Deep learning framework for action prediction reveals multi-timescale locomotor control**|Wei-Chen Wang et.al.|[2503.16340v2](http://arxiv.org/abs/2503.16340v2)|**2025-03-22**|null|
 |**2025-03-20**|**Structured-Noise Masked Modeling for Video, Audio and Beyond**|Aritra Bhowmik et.al.|[2503.16311v1](http://arxiv.org/abs/2503.16311v1)|**2025-03-20**|null|

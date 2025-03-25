@@ -6,7 +6,7 @@
 |**2025-03-21**|**Capturing Individual Human Preferences with Reward Features**|André Barreto et.al.|[2503.17338v1](http://arxiv.org/abs/2503.17338v1)|**2025-03-21**|null|
 |**2025-03-21**|**FastCuRL: Curriculum Reinforcement Learning with Progressive Context Extension for Efficient Training R1-like Reasoning Models**|Mingyang Song et.al.|[2503.17287v1](http://arxiv.org/abs/2503.17287v1)|**2025-03-21**|[link](https://github.com/nick7nlp/FastCuRL)|
 |**2025-03-21**|**Curriculum RL meets Monte Carlo Planning: Optimization of a Real World Container Management Problem**|Abhijeet Pendyala et.al.|[2503.17194v1](http://arxiv.org/abs/2503.17194v1)|**2025-03-21**|null|
-|**2025-03-21**|**Leveraging Language Models for Out-of-Distribution Recovery in Reinforcement Learning**|Chan Kim et.al.|[2503.17125v1](http://arxiv.org/abs/2503.17125v1)|**2025-03-21**|null|
+|**2025-03-21**|**LaMOuR: Leveraging Language Models for Out-of-Distribution Recovery in Reinforcement Learning**|Chan Kim et.al.|[2503.17125v2](http://arxiv.org/abs/2503.17125v2)|**2025-03-24**|null|
 |**2025-03-21**|**Neural-Guided Equation Discovery**|Jannis Brugger et.al.|[2503.16953v1](http://arxiv.org/abs/2503.16953v1)|**2025-03-21**|null|
 |**2025-03-21**|**A New Segment Routing method with Swap Node Selection Strategy Based on Deep Reinforcement Learning for Software Defined Network**|Miao Ye et.al.|[2503.16914v1](http://arxiv.org/abs/2503.16914v1)|**2025-03-21**|null|
 |**2025-03-21**|**Federated Digital Twin Construction via Distributed Sensing: A Game-Theoretic Online Optimization with Overlapping Coalitions**|Ruoyang Chen et.al.|[2503.16823v1](http://arxiv.org/abs/2503.16823v1)|**2025-03-21**|null|
@@ -17,7 +17,7 @@
 |**2025-03-20**|**ATOM: A Framework of Detecting Query-Based Model Extraction Attacks for Graph Neural Networks**|Zhan Cheng et.al.|[2503.16693v1](http://arxiv.org/abs/2503.16693v1)|**2025-03-20**|null|
 |**2025-03-20**|**Whenever, Wherever: Towards Orchestrating Crowd Simulations with Spatio-Temporal Spawn Dynamics**|Thomas Kreutz et.al.|[2503.16639v1](http://arxiv.org/abs/2503.16639v1)|**2025-03-20**|null|
 |**2025-03-20**|**Utilizing Reinforcement Learning for Bottom-Up part-wise Reconstruction of 2D Wire-Frame Projections**|Julian Ziegler et.al.|[2503.16629v1](http://arxiv.org/abs/2503.16629v1)|**2025-03-20**|null|
-|**2025-03-20**|**Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models**|Yang Sui et.al.|[2503.16419v1](http://arxiv.org/abs/2503.16419v1)|**2025-03-20**|[link](https://github.com/eclipsess/awesome-efficient-reasoning-llms)|
+|**2025-03-20**|**Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models**|Yang Sui et.al.|[2503.16419v2](http://arxiv.org/abs/2503.16419v2)|**2025-03-23**|[link](https://github.com/eclipsess/awesome-efficient-reasoning-llms)|
 |**2025-03-20**|**Do Visual Imaginations Improve Vision-and-Language Navigation Agents?**|Akhil Perincherry et.al.|[2503.16394v1](http://arxiv.org/abs/2503.16394v1)|**2025-03-20**|null|
 |**2025-03-20**|**Reinforcement Learning-based Heuristics to Guide Domain-Independent Dynamic Programming**|Minori Narita et.al.|[2503.16371v1](http://arxiv.org/abs/2503.16371v1)|**2025-03-20**|[link](https://github.com/minori5214/rl-guided-didp)|
 |**2025-03-20**|**Fin-R1: A Large Language Model for Financial Reasoning through Reinforcement Learning**|Zhaowei Liu et.al.|[2503.16252v2](http://arxiv.org/abs/2503.16252v2)|**2025-03-21**|null|

@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-21**|**NdLinear Is All You Need for Representation Learning**|Alex Reneau et.al.|[2503.17353v1](http://arxiv.org/abs/2503.17353v1)|**2025-03-21**|null|
 |**2025-03-21**|**Commercial Dishes Can Be My Ladder: Sustainable and Collaborative Data Offloading in LEO Satellite Networks**|Yi Ching Chou et.al.|[2503.17343v1](http://arxiv.org/abs/2503.17343v1)|**2025-03-21**|null|
-|**2025-03-21**|**On almost Gallai colourings in complete graphs**|Alexandr Grebennikov et.al.|[2503.17334v1](http://arxiv.org/abs/2503.17334v1)|**2025-03-21**|null|
+|**2025-03-21**|**On almost Gallai colourings in complete graphs**|Alexandr Grebennikov et.al.|[2503.17334v2](http://arxiv.org/abs/2503.17334v2)|**2025-03-24**|null|
 |**2025-03-21**|**Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors**|Wonbong Jang et.al.|[2503.17316v1](http://arxiv.org/abs/2503.17316v1)|**2025-03-21**|null|
 |**2025-03-21**|**Throughput Maximizing Takeoff Scheduling for eVTOL Vehicles in On-Demand Urban Air Mobility Systems**|Milad Pooladsanj et.al.|[2503.17313v1](http://arxiv.org/abs/2503.17313v1)|**2025-03-21**|null|
 |**2025-03-21**|**Finite group gauge theory on graphs and gravity-like modes**|Shahn Majid et.al.|[2503.17301v1](http://arxiv.org/abs/2503.17301v1)|**2025-03-21**|null|

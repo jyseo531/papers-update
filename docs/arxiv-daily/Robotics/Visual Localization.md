@@ -10,7 +10,7 @@
 |**2025-03-21**|**Not Only Text: Exploring Compositionality of Visual Representations in Vision-Language Models**|Davide Berasi et.al.|[2503.17142v1](http://arxiv.org/abs/2503.17142v1)|**2025-03-21**|null|
 |**2025-03-21**|**Temporal-Guided Spiking Neural Networks for Event-Based Human Action Recognition**|Siyuan Yang et.al.|[2503.17132v1](http://arxiv.org/abs/2503.17132v1)|**2025-03-21**|null|
 |**2025-03-21**|**The CASTLE 2024 Dataset: Advancing the Art of Multimodal Understanding**|Luca Rossetto et.al.|[2503.17116v1](http://arxiv.org/abs/2503.17116v1)|**2025-03-21**|null|
-|**2025-03-21**|**Multi-modal Multi-platform Person Re-Identification: Benchmark and Method**|Ruiyang Ha et.al.|[2503.17096v1](http://arxiv.org/abs/2503.17096v1)|**2025-03-21**|null|
+|**2025-03-21**|**Multi-modal Multi-platform Person Re-Identification: Benchmark and Method**|Ruiyang Ha et.al.|[2503.17096v2](http://arxiv.org/abs/2503.17096v2)|**2025-03-24**|null|
 |**2025-03-21**|**ColabSfM: Collaborative Structure-from-Motion by Point Cloud Registration**|Johan Edstedt et.al.|[2503.17093v1](http://arxiv.org/abs/2503.17093v1)|**2025-03-21**|null|
 |**2025-03-21**|**RAW-Adapter: Adapting Pre-trained Visual Model to Camera RAW Images and A Benchmark**|Ziteng Cui et.al.|[2503.17027v1](http://arxiv.org/abs/2503.17027v1)|**2025-03-21**|null|
 |**2025-03-21**|**SGFormer: Satellite-Ground Fusion for 3D Semantic Scene Completion**|Xiyue Guo et.al.|[2503.16825v1](http://arxiv.org/abs/2503.16825v1)|**2025-03-21**|null|
@@ -18,7 +18,7 @@
 |**2025-03-20**|**Digitally Prototype Your Eye Tracker: Simulating Hardware Performance using 3D Synthetic Data**|Esther Y. H. Lin et.al.|[2503.16742v1](http://arxiv.org/abs/2503.16742v1)|**2025-03-20**|null|
 |**2025-03-20**|**4D Gaussian Splatting SLAM**|Yanyan Li et.al.|[2503.16710v1](http://arxiv.org/abs/2503.16710v1)|**2025-03-20**|null|
 |**2025-03-20**|**Euclid: Star clusters in IC 342, NGC 2403, and Holmberg II**|S. S. Larsen et.al.|[2503.16637v1](http://arxiv.org/abs/2503.16637v1)|**2025-03-20**|null|
-|**2025-03-20**|**UniK3D: Universal Camera Monocular 3D Estimation**|Luigi Piccinelli et.al.|[2503.16591v1](http://arxiv.org/abs/2503.16591v1)|**2025-03-20**|null|
+|**2025-03-20**|**UniK3D: Universal Camera Monocular 3D Estimation**|Luigi Piccinelli et.al.|[2503.16591v1](http://arxiv.org/abs/2503.16591v1)|**2025-03-20**|[link](https://github.com/lpiccinelli-eth/UniK3D)|
 |**2025-03-20**|**Panoptic-CUDAL Technical Report: Rural Australia Point Cloud Dataset in Rainy Conditions**|Tzu-Yun Tseng et.al.|[2503.16378v1](http://arxiv.org/abs/2503.16378v1)|**2025-03-20**|null|
 |**2025-03-20**|**Euclid: Early Release Observations -- Interplay between dwarf galaxies and their globular clusters in the Perseus galaxy cluster**|T. Saifollahi et.al.|[2503.16367v1](http://arxiv.org/abs/2503.16367v1)|**2025-03-20**|null|
 |**2025-03-20**|**Dynamic Point Maps: A Versatile Representation for Dynamic 3D Reconstruction**|Edgar Sucar et.al.|[2503.16318v1](http://arxiv.org/abs/2503.16318v1)|**2025-03-20**|null|

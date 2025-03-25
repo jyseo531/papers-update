@@ -27,8 +27,8 @@
 |**2025-03-21**|**FreeUV: Ground-Truth-Free Realistic Facial UV Texture Recovery via Cross-Assembly Inference Strategy**|Xingchao Yang et.al.|[2503.17197v1](http://arxiv.org/abs/2503.17197v1)|**2025-03-21**|null|
 |**2025-03-21**|**MSCA-Net:Multi-Scale Context Aggregation Network for Infrared Small Target Detection**|Xiaojin Lu et.al.|[2503.17193v1](http://arxiv.org/abs/2503.17193v1)|**2025-03-21**|null|
 |**2025-03-21**|**Generative adversarial framework to calibrate excursion set models for the 3D morphology of all-solid-state battery cathodes**|Orkun Furat et.al.|[2503.17171v1](http://arxiv.org/abs/2503.17171v1)|**2025-03-21**|null|
-|**2025-03-21**|**CoRLD: Contrastive Representation Learning Of Deformable Shapes In Images**|Tonmoy Hossain ana Miaomiao Zhang et.al.|[2503.17162v1](http://arxiv.org/abs/2503.17162v1)|**2025-03-21**|null|
+|**2025-03-21**|**CoRLD: Contrastive Representation Learning Of Deformable Shapes In Images**|Tonmoy Hossain et.al.|[2503.17162v2](http://arxiv.org/abs/2503.17162v2)|**2025-03-24**|null|
 |**2025-03-21**|**D2C: Unlocking the Potential of Continuous Autoregressive Image Generation with Discrete Tokens**|Panpan Wang et.al.|[2503.17155v1](http://arxiv.org/abs/2503.17155v1)|**2025-03-21**|null|
 |**2025-03-21**|**Enhancing Steering Estimation with Semantic-Aware GNNs**|Fouad Makiyeh et.al.|[2503.17153v1](http://arxiv.org/abs/2503.17153v1)|**2025-03-21**|null|
 |**2025-03-21**|**Not Only Text: Exploring Compositionality of Visual Representations in Vision-Language Models**|Davide Berasi et.al.|[2503.17142v1](http://arxiv.org/abs/2503.17142v1)|**2025-03-21**|null|
-|**2025-03-21**|**Leveraging Language Models for Out-of-Distribution Recovery in Reinforcement Learning**|Chan Kim et.al.|[2503.17125v1](http://arxiv.org/abs/2503.17125v1)|**2025-03-21**|null|
+|**2025-03-21**|**LaMOuR: Leveraging Language Models for Out-of-Distribution Recovery in Reinforcement Learning**|Chan Kim et.al.|[2503.17125v2](http://arxiv.org/abs/2503.17125v2)|**2025-03-24**|null|

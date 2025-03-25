@@ -6,7 +6,7 @@
 |**2025-03-21**|**LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language**|Kun Chu et.al.|[2503.17309v1](http://arxiv.org/abs/2503.17309v1)|**2025-03-21**|null|
 |**2025-03-21**|**Control the Soft Robot Arm with its Physical Twin**|Qinghua Guan et.al.|[2503.17227v1](http://arxiv.org/abs/2503.17227v1)|**2025-03-21**|null|
 |**2025-03-21**|**Colloidal Pivots Enable Brownian Metamaterials and Machines**|Julio Melio et.al.|[2503.17196v1](http://arxiv.org/abs/2503.17196v1)|**2025-03-21**|null|
-|**2025-03-21**|**Leveraging Language Models for Out-of-Distribution Recovery in Reinforcement Learning**|Chan Kim et.al.|[2503.17125v1](http://arxiv.org/abs/2503.17125v1)|**2025-03-21**|null|
+|**2025-03-21**|**LaMOuR: Leveraging Language Models for Out-of-Distribution Recovery in Reinforcement Learning**|Chan Kim et.al.|[2503.17125v2](http://arxiv.org/abs/2503.17125v2)|**2025-03-24**|null|
 |**2025-03-21**|**GAA-TSO: Geometry-Aware Assisted Depth Completion for Transparent and Specular Objects**|Yizhe Liu et.al.|[2503.17106v1](http://arxiv.org/abs/2503.17106v1)|**2025-03-21**|null|
 |**2025-03-21**|**Exploring psychophysiological methods for human-robot collaboration in construction**|Saika Wong et.al.|[2503.17078v1](http://arxiv.org/abs/2503.17078v1)|**2025-03-21**|null|
 |**2025-03-21**|**Replay4NCL: An Efficient Memory Replay-based Methodology for Neuromorphic Continual Learning in Embedded AI Systems**|Mishal Fatima Minhas et.al.|[2503.17061v1](http://arxiv.org/abs/2503.17061v1)|**2025-03-21**|null|

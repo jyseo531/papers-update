@@ -11,7 +11,7 @@
 |**2025-03-21**|**Image as an IMU: Estimating Camera Motion from a Single Motion-Blurred Image**|Jerred Chen et.al.|[2503.17358v1](http://arxiv.org/abs/2503.17358v1)|**2025-03-21**|null|
 |**2025-03-21**|**Filtered Rayleigh-Ritz is all you need**|Ryan Abbott et.al.|[2503.17357v1](http://arxiv.org/abs/2503.17357v1)|**2025-03-21**|null|
 |**2025-03-21**|**Fast Convex Optimization with Quantum Gradient Methods**|Brandon Augustino et.al.|[2503.17356v1](http://arxiv.org/abs/2503.17356v1)|**2025-03-21**|null|
-|**2025-03-21**|**Glivenko-Cantelli for $f$-divergence**|Haoming Wang et.al.|[2503.17355v1](http://arxiv.org/abs/2503.17355v1)|**2025-03-21**|null|
+|**2025-03-21**|**Glivenko-Cantelli for $f$-divergence**|Haoming Wang et.al.|[2503.17355v2](http://arxiv.org/abs/2503.17355v2)|**2025-03-24**|null|
 |**2025-03-21**|**HCAST: Human-Calibrated Autonomy Software Tasks**|David Rein et.al.|[2503.17354v1](http://arxiv.org/abs/2503.17354v1)|**2025-03-21**|null|
 |**2025-03-21**|**NdLinear Is All You Need for Representation Learning**|Alex Reneau et.al.|[2503.17353v1](http://arxiv.org/abs/2503.17353v1)|**2025-03-21**|null|
 |**2025-03-21**|**OpenVLThinker: An Early Exploration to Complex Vision-Language Reasoning via Iterative Self-Improvement**|Yihe Deng et.al.|[2503.17352v1](http://arxiv.org/abs/2503.17352v1)|**2025-03-21**|null|

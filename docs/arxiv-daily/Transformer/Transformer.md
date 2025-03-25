@@ -21,7 +21,7 @@
 |**2025-03-21**|**Halton Scheduler For Masked Generative Image Transformer**|Victor Besnier et.al.|[2503.17076v1](http://arxiv.org/abs/2503.17076v1)|**2025-03-21**|null|
 |**2025-03-21**|**Zero-Shot Styled Text Image Generation, but Make It Autoregressive**|Vittorio Pippi et.al.|[2503.17074v1](http://arxiv.org/abs/2503.17074v1)|**2025-03-21**|null|
 |**2025-03-21**|**Exploring the Efficacy of Partial Denoising Using Bit Plane Slicing for Enhanced Fracture Identification: A Comparative Study of Deep Learning-Based Approaches and Handcrafted Feature Extraction Techniques**|Snigdha Paul et.al.|[2503.17030v1](http://arxiv.org/abs/2503.17030v1)|**2025-03-21**|null|
-|**2025-03-21**|**An Energy-Adaptive Elastic Equivariant Transformer Framework for Protein Structure Representation**|Zhongyue Zhang et.al.|[2503.16996v1](http://arxiv.org/abs/2503.16996v1)|**2025-03-21**|null|
+|**2025-03-21**|**An Energy-Adaptive Elastic Equivariant Transformer Framework for Protein Structure Representation**|Zhongyue Zhang et.al.|[2503.16996v2](http://arxiv.org/abs/2503.16996v2)|**2025-03-24**|null|
 |**2025-03-21**|**STFTCodec: High-Fidelity Audio Compression through Time-Frequency Domain Representation**|Tao Feng et.al.|[2503.16989v1](http://arxiv.org/abs/2503.16989v1)|**2025-03-21**|null|
 |**2025-03-21**|**From Faces to Voices: Learning Hierarchical Representations for High-quality Video-to-Speech**|Ji-Hoon Kim et.al.|[2503.16956v1](http://arxiv.org/abs/2503.16956v1)|**2025-03-21**|null|
 |**2025-03-21**|**Observation of charge-parity symmetry breaking in baryon decays**|LHCb collaboration et.al.|[2503.16954v1](http://arxiv.org/abs/2503.16954v1)|**2025-03-21**|null|
