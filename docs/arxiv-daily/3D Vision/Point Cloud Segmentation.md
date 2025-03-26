@@ -5,7 +5,7 @@
 |**2025-03-24**|**Target-Aware Video Diffusion Models**|Taeksoo Kim et.al.|[2503.18950v1](http://arxiv.org/abs/2503.18950v1)|**2025-03-24**|null|
 |**2025-03-24**|**Almost device-independent calibration beyond Born's rule: Bell tests for cross-talk detection**|Gelo Noel M. Tabia et.al.|[2503.18949v1](http://arxiv.org/abs/2503.18949v1)|**2025-03-24**|null|
 |**2025-03-24**|**Tuning-Free Amodal Segmentation via the Occlusion-Free Bias of Inpainting Models**|Jae Joong Lee et.al.|[2503.18947v1](http://arxiv.org/abs/2503.18947v1)|**2025-03-24**|null|
-|**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944v1](http://arxiv.org/abs/2503.18944v1)|**2025-03-24**|null|
+|**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944v1](http://arxiv.org/abs/2503.18944v1)|**2025-03-24**|[link](https://github.com/VisualComputingInstitute/DITR)|
 |**2025-03-24**|**Training-free Diffusion Acceleration with Bottleneck Sampling**|Ye Tian et.al.|[2503.18940v1](http://arxiv.org/abs/2503.18940v1)|**2025-03-24**|null|
 |**2025-03-24**|**CoMP: Continual Multimodal Pre-training for Vision Foundation Models**|Yitong Chen et.al.|[2503.18931v1](http://arxiv.org/abs/2503.18931v1)|**2025-03-24**|[link](https://github.com/SliMM-X/CoMP-MM)|
 |**2025-03-24**|**Interpreting Cosmic Birefringence and DESI Data with Evolving Axion in $Λ$CDM**|Shota Nakagawa et.al.|[2503.18924v1](http://arxiv.org/abs/2503.18924v1)|**2025-03-24**|null|
@@ -20,13 +20,13 @@
 |**2025-03-24**|**Exploring the Integration of Key-Value Attention Into Pure and Hybrid Transformers for Semantic Segmentation**|DeShin Hwa et.al.|[2503.18862v1](http://arxiv.org/abs/2503.18862v1)|**2025-03-24**|null|
 |**2025-03-24**|**Secure Edge Computing Reference Architecture for Data-driven Structural Health Monitoring: Lessons Learned from Implementation and Benchmarking**|Sheikh Muhammad Farjad et.al.|[2503.18857v1](http://arxiv.org/abs/2503.18857v1)|**2025-03-24**|null|
 |**2025-03-24**|**Three Kinds of AI Ethics**|Emanuele Ratti et.al.|[2503.18842v1](http://arxiv.org/abs/2503.18842v1)|**2025-03-24**|null|
-|**2025-03-24**|**Learning to segment anatomy and lesions from disparately labeled sources in brain MRI**|Meva Himmetoglu et.al.|[2503.18840v1](http://arxiv.org/abs/2503.18840v1)|**2025-03-24**|null|
+|**2025-03-24**|**Learning to segment anatomy and lesions from disparately labeled sources in brain MRI**|Meva Himmetoglu et.al.|[2503.18840v2](http://arxiv.org/abs/2503.18840v2)|**2025-03-25**|null|
 |**2025-03-24**|**Generalized relativistic second-order dissipative hydrodynamics: coupling different rank tensors**|Arus Harutyunyan et.al.|[2503.18839v1](http://arxiv.org/abs/2503.18839v1)|**2025-03-24**|null|
 |**2025-03-24**|**Scatterless interferences: Delay of laminar-to-turbulent flow transition by a lattice of subsurface phonons**|Mahmoud I. Hussein et.al.|[2503.18835v1](http://arxiv.org/abs/2503.18835v1)|**2025-03-24**|null|
 |**2025-03-24**|**Pseudopotentials that move: From inertia to electromagnetism**|Massimiliano Stengel et.al.|[2503.18811v1](http://arxiv.org/abs/2503.18811v1)|**2025-03-24**|null|
 |**2025-03-24**|**Benign landscapes for synchronization on spheres via normalized Laplacian matrices**|Andrew D. McRae et.al.|[2503.18801v1](http://arxiv.org/abs/2503.18801v1)|**2025-03-24**|null|
 |**2025-03-24**|**NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting**|Yulong Zheng et.al.|[2503.18794v1](http://arxiv.org/abs/2503.18794v1)|**2025-03-24**|null|
-|**2025-03-24**|**Frequency Dynamic Convolution for Dense Image Prediction**|Linwei Chen et.al.|[2503.18783v1](http://arxiv.org/abs/2503.18783v1)|**2025-03-24**|null|
+|**2025-03-24**|**Frequency Dynamic Convolution for Dense Image Prediction**|Linwei Chen et.al.|[2503.18783v2](http://arxiv.org/abs/2503.18783v2)|**2025-03-25**|null|
 |**2025-03-24**|**Asymptotics of the quantization problem on metric measure spaces**|Ata Deniz Aydin et.al.|[2503.18779v1](http://arxiv.org/abs/2503.18779v1)|**2025-03-24**|null|
 |**2025-03-24**|**Correlation functions for non-conformal D$p$-brane holography**|Nikolay Bobev et.al.|[2503.18770v1](http://arxiv.org/abs/2503.18770v1)|**2025-03-24**|null|
 |**2025-03-24**|**Good Keypoints for the Two-View Geometry Estimation Problem**|Konstantin Pakulev et.al.|[2503.18767v1](http://arxiv.org/abs/2503.18767v1)|**2025-03-24**|null|

@@ -4,17 +4,17 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-24**|**Target-Aware Video Diffusion Models**|Taeksoo Kim et.al.|[2503.18950v1](http://arxiv.org/abs/2503.18950v1)|**2025-03-24**|null|
 |**2025-03-24**|**Tuning-Free Amodal Segmentation via the Occlusion-Free Bias of Inpainting Models**|Jae Joong Lee et.al.|[2503.18947v1](http://arxiv.org/abs/2503.18947v1)|**2025-03-24**|null|
-|**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944v1](http://arxiv.org/abs/2503.18944v1)|**2025-03-24**|null|
+|**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944v1](http://arxiv.org/abs/2503.18944v1)|**2025-03-24**|[link](https://github.com/VisualComputingInstitute/DITR)|
 |**2025-03-24**|**CoMP: Continual Multimodal Pre-training for Vision Foundation Models**|Yitong Chen et.al.|[2503.18931v1](http://arxiv.org/abs/2503.18931v1)|**2025-03-24**|[link](https://github.com/SliMM-X/CoMP-MM)|
 |**2025-03-24**|**Entropic Analysis of Time Series through Kernel Density Estimation**|Audun Myers et.al.|[2503.18916v1](http://arxiv.org/abs/2503.18916v1)|**2025-03-24**|null|
 |**2025-03-24**|**SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild**|Weihao Zeng et.al.|[2503.18892v1](http://arxiv.org/abs/2503.18892v1)|**2025-03-24**|null|
 |**2025-03-24**|**Seeing Speech and Sound: Distinguishing and Locating Audios in Visual Scenes**|Hyeonggon Ryu et.al.|[2503.18880v1](http://arxiv.org/abs/2503.18880v1)|**2025-03-24**|null|
 |**2025-03-24**|**Exploring the Integration of Key-Value Attention Into Pure and Hybrid Transformers for Semantic Segmentation**|DeShin Hwa et.al.|[2503.18862v1](http://arxiv.org/abs/2503.18862v1)|**2025-03-24**|null|
-|**2025-03-24**|**Learning to segment anatomy and lesions from disparately labeled sources in brain MRI**|Meva Himmetoglu et.al.|[2503.18840v1](http://arxiv.org/abs/2503.18840v1)|**2025-03-24**|null|
+|**2025-03-24**|**Learning to segment anatomy and lesions from disparately labeled sources in brain MRI**|Meva Himmetoglu et.al.|[2503.18840v2](http://arxiv.org/abs/2503.18840v2)|**2025-03-25**|null|
 |**2025-03-24**|**Interpretable and Fair Mechanisms for Abstaining Classifiers**|Daphne Lenders et.al.|[2503.18826v1](http://arxiv.org/abs/2503.18826v1)|**2025-03-24**|null|
 |**2025-03-24**|**CRCL: Causal Representation Consistency Learning for Anomaly Detection in Surveillance Videos**|Yang Liu et.al.|[2503.18808v1](http://arxiv.org/abs/2503.18808v1)|**2025-03-24**|null|
 |**2025-03-24**|**Local wind speed forecasting at short time horizons relying on both Numerical Weather Prediction and observations from surrounding station**|Roberta Baggio et.al.|[2503.18797v1](http://arxiv.org/abs/2503.18797v1)|**2025-03-24**|null|
-|**2025-03-24**|**Frequency Dynamic Convolution for Dense Image Prediction**|Linwei Chen et.al.|[2503.18783v1](http://arxiv.org/abs/2503.18783v1)|**2025-03-24**|null|
+|**2025-03-24**|**Frequency Dynamic Convolution for Dense Image Prediction**|Linwei Chen et.al.|[2503.18783v2](http://arxiv.org/abs/2503.18783v2)|**2025-03-25**|null|
 |**2025-03-24**|**EgoSurgery-HTS: A Dataset for Egocentric Hand-Tool Segmentation in Open Surgery Videos**|Nathan Darjana et.al.|[2503.18755v1](http://arxiv.org/abs/2503.18755v1)|**2025-03-24**|null|
 |**2025-03-24**|**Construction Identification and Disambiguation Using BERT: A Case Study of NPN**|Wesley Scivetti et.al.|[2503.18751v1](http://arxiv.org/abs/2503.18751v1)|**2025-03-24**|null|
 |**2025-03-24**|**RoboEngine: Plug-and-Play Robot Data Augmentation with Semantic Robot Segmentation and Background Generation**|Chengbo Yuan et.al.|[2503.18738v1](http://arxiv.org/abs/2503.18738v1)|**2025-03-24**|null|

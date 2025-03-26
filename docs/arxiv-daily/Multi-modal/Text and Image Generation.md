@@ -7,8 +7,8 @@
 |**2025-03-24**|**Equivariant Image Modeling**|Ruixiao Dong et.al.|[2503.18948v1](http://arxiv.org/abs/2503.18948v1)|**2025-03-24**|[link](https://github.com/drx-code/EquivariantModeling)|
 |**2025-03-24**|**Tuning-Free Amodal Segmentation via the Occlusion-Free Bias of Inpainting Models**|Jae Joong Lee et.al.|[2503.18947v1](http://arxiv.org/abs/2503.18947v1)|**2025-03-24**|null|
 |**2025-03-24**|**In-plane magnetic field-induced orbital FFLO superconductivity in twisted WSe$_2$ homobilayers**|Jihang Zhu et.al.|[2503.18946v1](http://arxiv.org/abs/2503.18946v1)|**2025-03-24**|null|
-|**2025-03-24**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945v1](http://arxiv.org/abs/2503.18945v1)|**2025-03-24**|null|
-|**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944v1](http://arxiv.org/abs/2503.18944v1)|**2025-03-24**|null|
+|**2025-03-24**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945v2](http://arxiv.org/abs/2503.18945v2)|**2025-03-25**|null|
+|**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944v1](http://arxiv.org/abs/2503.18944v1)|**2025-03-24**|[link](https://github.com/VisualComputingInstitute/DITR)|
 |**2025-03-24**|**SlowFast-LLaVA-1.5: A Family of Token-Efficient Video Large Language Models for Long-Form Video Understanding**|Mingze Xu et.al.|[2503.18943v1](http://arxiv.org/abs/2503.18943v1)|**2025-03-24**|null|
 |**2025-03-24**|**Video-T1: Test-Time Scaling for Video Generation**|Fangfu Liu et.al.|[2503.18942v1](http://arxiv.org/abs/2503.18942v1)|**2025-03-24**|null|
 |**2025-03-24**|**Exploring Training and Inference Scaling Laws in Generative Retrieval**|Hongru Cai et.al.|[2503.18941v1](http://arxiv.org/abs/2503.18941v1)|**2025-03-24**|null|

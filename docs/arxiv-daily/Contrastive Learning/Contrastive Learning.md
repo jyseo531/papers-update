@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-24**|**Equivariant Image Modeling**|Ruixiao Dong et.al.|[2503.18948v1](http://arxiv.org/abs/2503.18948v1)|**2025-03-24**|[link](https://github.com/drx-code/EquivariantModeling)|
 |**2025-03-24**|**Tuning-Free Amodal Segmentation via the Occlusion-Free Bias of Inpainting Models**|Jae Joong Lee et.al.|[2503.18947v1](http://arxiv.org/abs/2503.18947v1)|**2025-03-24**|null|
-|**2025-03-24**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945v1](http://arxiv.org/abs/2503.18945v1)|**2025-03-24**|null|
+|**2025-03-24**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945v2](http://arxiv.org/abs/2503.18945v2)|**2025-03-25**|null|
 |**2025-03-24**|**Exploring Training and Inference Scaling Laws in Generative Retrieval**|Hongru Cai et.al.|[2503.18941v1](http://arxiv.org/abs/2503.18941v1)|**2025-03-24**|null|
 |**2025-03-24**|**AdaWorld: Learning Adaptable World Models with Latent Actions**|Shenyuan Gao et.al.|[2503.18938v1](http://arxiv.org/abs/2503.18938v1)|**2025-03-24**|null|
 |**2025-03-24**|**Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training**|Brian R. Bartoldson et.al.|[2503.18929v1](http://arxiv.org/abs/2503.18929v1)|**2025-03-24**|null|
@@ -22,9 +22,9 @@
 |**2025-03-24**|**Seeing Speech and Sound: Distinguishing and Locating Audios in Visual Scenes**|Hyeonggon Ryu et.al.|[2503.18880v1](http://arxiv.org/abs/2503.18880v1)|**2025-03-24**|null|
 |**2025-03-24**|**I Have Covered All the Bases Here: Interpreting Reasoning Features in Large Language Models via Sparse Autoencoders**|Andrey Galichin et.al.|[2503.18878v1](http://arxiv.org/abs/2503.18878v1)|**2025-03-24**|null|
 |**2025-03-24**|**A semantic communication-based workload-adjustable transceiver for wireless AI-generated content (AIGC) delivery**|Runze Cheng et.al.|[2503.18874v1](http://arxiv.org/abs/2503.18874v1)|**2025-03-24**|null|
-|**2025-03-24**|**Bootstrapped Model Predictive Control**|Yuhang Wang et.al.|[2503.18871v1](http://arxiv.org/abs/2503.18871v1)|**2025-03-24**|null|
+|**2025-03-24**|**Bootstrapped Model Predictive Control**|Yuhang Wang et.al.|[2503.18871v1](http://arxiv.org/abs/2503.18871v1)|**2025-03-24**|[link](https://github.com/wertyuilife2/bmpc)|
 |**2025-03-24**|**Reasoning to Learn from Latent Thoughts**|Yangjun Ruan et.al.|[2503.18866v1](http://arxiv.org/abs/2503.18866v1)|**2025-03-24**|null|
-|**2025-03-24**|**Structuring Scientific Innovation: A Framework for Modeling and Discovering Impactful Knowledge Combinations**|Junlan Chen et.al.|[2503.18865v1](http://arxiv.org/abs/2503.18865v1)|**2025-03-24**|null|
+|**2025-03-24**|**Structuring Scientific Innovation: A Framework for Modeling and Discovering Impactful Knowledge Combinations**|Junlan Chen et.al.|[2503.18865v2](http://arxiv.org/abs/2503.18865v2)|**2025-03-25**|null|
 |**2025-03-24**|**Exploring the Integration of Key-Value Attention Into Pure and Hybrid Transformers for Semantic Segmentation**|DeShin Hwa et.al.|[2503.18862v1](http://arxiv.org/abs/2503.18862v1)|**2025-03-24**|null|
 |**2025-03-24**|**Secure Edge Computing Reference Architecture for Data-driven Structural Health Monitoring: Lessons Learned from Implementation and Benchmarking**|Sheikh Muhammad Farjad et.al.|[2503.18857v1](http://arxiv.org/abs/2503.18857v1)|**2025-03-24**|null|
 |**2025-03-24**|**MODIS: Multi-Omics Data Integration for Small and Unpaired Datasets**|Daniel Lepe-Soltero et.al.|[2503.18856v1](http://arxiv.org/abs/2503.18856v1)|**2025-03-24**|null|

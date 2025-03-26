@@ -2,7 +2,7 @@
 ### VQA
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944v1](http://arxiv.org/abs/2503.18944v1)|**2025-03-24**|null|
+|**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944v1](http://arxiv.org/abs/2503.18944v1)|**2025-03-24**|[link](https://github.com/VisualComputingInstitute/DITR)|
 |**2025-03-24**|**Video-T1: Test-Time Scaling for Video Generation**|Fangfu Liu et.al.|[2503.18942v1](http://arxiv.org/abs/2503.18942v1)|**2025-03-24**|null|
 |**2025-03-24**|**Exploring Training and Inference Scaling Laws in Generative Retrieval**|Hongru Cai et.al.|[2503.18941v1](http://arxiv.org/abs/2503.18941v1)|**2025-03-24**|null|
 |**2025-03-24**|**Training-free Diffusion Acceleration with Bottleneck Sampling**|Ye Tian et.al.|[2503.18940v1](http://arxiv.org/abs/2503.18940v1)|**2025-03-24**|null|
@@ -20,9 +20,9 @@
 |**2025-03-24**|**Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design**|Rui Xie et.al.|[2503.18869v1](http://arxiv.org/abs/2503.18869v1)|**2025-03-24**|null|
 |**2025-03-24**|**Reasoning to Learn from Latent Thoughts**|Yangjun Ruan et.al.|[2503.18866v1](http://arxiv.org/abs/2503.18866v1)|**2025-03-24**|null|
 |**2025-03-24**|**Exploring the Integration of Key-Value Attention Into Pure and Hybrid Transformers for Semantic Segmentation**|DeShin Hwa et.al.|[2503.18862v1](http://arxiv.org/abs/2503.18862v1)|**2025-03-24**|null|
-|**2025-03-24**|**MC-LLaVA: Multi-Concept Personalized Vision-Language Model**|Ruichuan An et.al.|[2503.18854v1](http://arxiv.org/abs/2503.18854v1)|**2025-03-24**|null|
+|**2025-03-24**|**MC-LLaVA: Multi-Concept Personalized Vision-Language Model**|Ruichuan An et.al.|[2503.18854v2](http://arxiv.org/abs/2503.18854v2)|**2025-03-25**|null|
 |**2025-03-24**|**Three Kinds of AI Ethics**|Emanuele Ratti et.al.|[2503.18842v1](http://arxiv.org/abs/2503.18842v1)|**2025-03-24**|null|
-|**2025-03-24**|**Learning to segment anatomy and lesions from disparately labeled sources in brain MRI**|Meva Himmetoglu et.al.|[2503.18840v1](http://arxiv.org/abs/2503.18840v1)|**2025-03-24**|null|
+|**2025-03-24**|**Learning to segment anatomy and lesions from disparately labeled sources in brain MRI**|Meva Himmetoglu et.al.|[2503.18840v2](http://arxiv.org/abs/2503.18840v2)|**2025-03-25**|null|
 |**2025-03-24**|**Dual-domain Multi-path Self-supervised Diffusion Model for Accelerated MRI Reconstruction**|Yuxuan Zhang et.al.|[2503.18836v1](http://arxiv.org/abs/2503.18836v1)|**2025-03-24**|null|
 |**2025-03-24**|**Understanding the Impact of Domain Term Explanation on Duplicate Bug Report Detection**|Usmi Mukherjee et.al.|[2503.18832v1](http://arxiv.org/abs/2503.18832v1)|**2025-03-24**|null|
 |**2025-03-24**|**An improved central limit theorem for the empirical sliced Wasserstein distance**|David Rodríguez-Vítores et.al.|[2503.18831v1](http://arxiv.org/abs/2503.18831v1)|**2025-03-24**|null|

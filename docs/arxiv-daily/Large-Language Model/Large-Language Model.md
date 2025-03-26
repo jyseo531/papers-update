@@ -6,8 +6,8 @@
 |**2025-03-24**|**Almost device-independent calibration beyond Born's rule: Bell tests for cross-talk detection**|Gelo Noel M. Tabia et.al.|[2503.18949v1](http://arxiv.org/abs/2503.18949v1)|**2025-03-24**|null|
 |**2025-03-24**|**Equivariant Image Modeling**|Ruixiao Dong et.al.|[2503.18948v1](http://arxiv.org/abs/2503.18948v1)|**2025-03-24**|[link](https://github.com/drx-code/EquivariantModeling)|
 |**2025-03-24**|**Tuning-Free Amodal Segmentation via the Occlusion-Free Bias of Inpainting Models**|Jae Joong Lee et.al.|[2503.18947v1](http://arxiv.org/abs/2503.18947v1)|**2025-03-24**|null|
-|**2025-03-24**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945v1](http://arxiv.org/abs/2503.18945v1)|**2025-03-24**|null|
-|**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944v1](http://arxiv.org/abs/2503.18944v1)|**2025-03-24**|null|
+|**2025-03-24**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945v2](http://arxiv.org/abs/2503.18945v2)|**2025-03-25**|null|
+|**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944v1](http://arxiv.org/abs/2503.18944v1)|**2025-03-24**|[link](https://github.com/VisualComputingInstitute/DITR)|
 |**2025-03-24**|**SlowFast-LLaVA-1.5: A Family of Token-Efficient Video Large Language Models for Long-Form Video Understanding**|Mingze Xu et.al.|[2503.18943v1](http://arxiv.org/abs/2503.18943v1)|**2025-03-24**|null|
 |**2025-03-24**|**Video-T1: Test-Time Scaling for Video Generation**|Fangfu Liu et.al.|[2503.18942v1](http://arxiv.org/abs/2503.18942v1)|**2025-03-24**|null|
 |**2025-03-24**|**Exploring Training and Inference Scaling Laws in Generative Retrieval**|Hongru Cai et.al.|[2503.18941v1](http://arxiv.org/abs/2503.18941v1)|**2025-03-24**|null|
@@ -28,7 +28,7 @@
 |**2025-03-24**|**Regularity of vectorial minimizers for non-uniformly elliptic anisotropic integrals**|Pasquale Ambrosio et.al.|[2503.18917v1](http://arxiv.org/abs/2503.18917v1)|**2025-03-24**|null|
 |**2025-03-24**|**Entropic Analysis of Time Series through Kernel Density Estimation**|Audun Myers et.al.|[2503.18916v1](http://arxiv.org/abs/2503.18916v1)|**2025-03-24**|null|
 |**2025-03-24**|**Signal Propagation in RIS-Aided 5G Systems**|Adam Samorzewski et.al.|[2503.18915v1](http://arxiv.org/abs/2503.18915v1)|**2025-03-24**|null|
-|**2025-03-24**|**Coincidence measurement of two-photon double ionization of argon through an autoionizing resonance**|Sebastian Hell et.al.|[2503.18913v1](http://arxiv.org/abs/2503.18913v1)|**2025-03-24**|null|
+|**2025-03-24**|**Coincidence measurement of two-photon double ionization of argon through an autoionizing resonance**|Sebastian Hell et.al.|[2503.18913v2](http://arxiv.org/abs/2503.18913v2)|**2025-03-25**|null|
 |**2025-03-24**|**Causal Links Between Anthropogenic Emissions and Air Pollution Dynamics in Delhi**|Sourish Das et.al.|[2503.18912v1](http://arxiv.org/abs/2503.18912v1)|**2025-03-24**|null|
 |**2025-03-24**|**Multi-Physics Inverse Design of Varifocal Optical Devices using Data-Driven Surrogates and Differential Modeling**|Zeqing Jin et.al.|[2503.18911v1](http://arxiv.org/abs/2503.18911v1)|**2025-03-24**|null|
 |**2025-03-24**|**FFN Fusion: Rethinking Sequential Computation in Large Language Models**|Akhiad Bercovich et.al.|[2503.18908v1](http://arxiv.org/abs/2503.18908v1)|**2025-03-24**|null|

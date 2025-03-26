@@ -13,7 +13,7 @@
 |**2025-03-24**|**Towards Responsible AI Music: an Investigation of Trustworthy Features for Creative Systems**|Jacopo de Berardinis et.al.|[2503.18814v1](http://arxiv.org/abs/2503.18814v1)|**2025-03-24**|null|
 |**2025-03-24**|**SKDU at De-Factify 4.0: Vision Transformer with Data Augmentation for AI-Generated Image Detection**|Shrikant Malviya et.al.|[2503.18812v1](http://arxiv.org/abs/2503.18812v1)|**2025-03-24**|null|
 |**2025-03-24**|**REALM: A Dataset of Real-World LLM Use Cases**|Jingwen Cheng et.al.|[2503.18792v1](http://arxiv.org/abs/2503.18792v1)|**2025-03-24**|null|
-|**2025-03-24**|**Frequency Dynamic Convolution for Dense Image Prediction**|Linwei Chen et.al.|[2503.18783v1](http://arxiv.org/abs/2503.18783v1)|**2025-03-24**|null|
+|**2025-03-24**|**Frequency Dynamic Convolution for Dense Image Prediction**|Linwei Chen et.al.|[2503.18783v2](http://arxiv.org/abs/2503.18783v2)|**2025-03-25**|null|
 |**2025-03-24**|**A geometrically inspired constitutive framework for damage and intrinsic self-healing of elastomers**|Sanhita Das et.al.|[2503.18771v1](http://arxiv.org/abs/2503.18771v1)|**2025-03-24**|null|
 |**2025-03-24**|**Transformer-based Ranking Approaches for Keyword Queries over Relational Databases**|Paulo Martins et.al.|[2503.18768v1](http://arxiv.org/abs/2503.18768v1)|**2025-03-24**|null|
 |**2025-03-24**|**Mechanistic Interpretability of Fine-Tuned Vision Transformers on Distorted Images: Decoding Attention Head Behavior for Transparent and Trustworthy AI**|Nooshin Bahador et.al.|[2503.18762v1](http://arxiv.org/abs/2503.18762v1)|**2025-03-24**|null|
@@ -26,8 +26,8 @@
 |**2025-03-24**|**Revisiting Automatic Data Curation for Vision Foundation Models in Digital Pathology**|Boqi Chen et.al.|[2503.18709v1](http://arxiv.org/abs/2503.18709v1)|**2025-03-24**|null|
 |**2025-03-24**|**Perpetuities with light tails and the local dependence measure**|Julia Le Bihan et.al.|[2503.18697v1](http://arxiv.org/abs/2503.18697v1)|**2025-03-24**|null|
 |**2025-03-24**|**SynchroStore: A Cost-Based Fine-Grained Incremental Compaction for Hybrid Workloads**|Yinan Zhang et.al.|[2503.18688v1](http://arxiv.org/abs/2503.18688v1)|**2025-03-24**|null|
-|**2025-03-24**|**A Comprehensive Review on Hashtag Recommendation: From Traditional to Deep Learning and Beyond**|Shubhi Bansal et.al.|[2503.18669v1](http://arxiv.org/abs/2503.18669v1)|**2025-03-24**|null|
-|**2025-03-24**|**Efficient Distributed Algorithms for Shape Reduction via Reconfigurable Circuits**|Nada Almalki et.al.|[2503.18663v1](http://arxiv.org/abs/2503.18663v1)|**2025-03-24**|null|
+|**2025-03-24**|**A Comprehensive Review on Hashtag Recommendation: From Traditional to Deep Learning and Beyond**|Shubhi Bansal et.al.|[2503.18669v2](http://arxiv.org/abs/2503.18669v2)|**2025-03-25**|null|
+|**2025-03-24**|**Efficient Distributed Algorithms for Shape Reduction via Reconfigurable Circuits**|Nada Almalki et.al.|[2503.18663v2](http://arxiv.org/abs/2503.18663v2)|**2025-03-25**|null|
 |**2025-03-24**|**ZeroLM: Data-Free Transformer Architecture Search for Language Models**|Zhen-Song Chen et.al.|[2503.18646v1](http://arxiv.org/abs/2503.18646v1)|**2025-03-24**|null|
 |**2025-03-24**|**Scaling Laws for Emulation of Stellar Spectra**|Tomasz Różański et.al.|[2503.18617v1](http://arxiv.org/abs/2503.18617v1)|**2025-03-24**|null|
 |**2025-03-24**|**Electronic structure of CeCo$_{1-x}$Fe$_x$Ge$_3$ studied by X-ray photoelectron spectroscopy and first-principles calculations**|P. Skokowski et.al.|[2503.18598v1](http://arxiv.org/abs/2503.18598v1)|**2025-03-24**|null|

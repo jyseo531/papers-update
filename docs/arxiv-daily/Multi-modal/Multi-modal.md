@@ -9,7 +9,7 @@
 |**2025-03-24**|**Enhanced OoD Detection through Cross-Modal Alignment of Multi-Modal Representations**|Jeonghyeon Kim et.al.|[2503.18817v1](http://arxiv.org/abs/2503.18817v1)|**2025-03-24**|null|
 |**2025-03-24**|**Intuitionistic modal logics: new and simpler decidability proofs for FIK and LIK**|Philippe Balbiani et.al.|[2503.18714v1](http://arxiv.org/abs/2503.18714v1)|**2025-03-24**|null|
 |**2025-03-24**|**LLaVAction: evaluating and training multi-modal large language models for action recognition**|Shaokai Ye et.al.|[2503.18712v1](http://arxiv.org/abs/2503.18712v1)|**2025-03-24**|null|
-|**2025-03-24**|**Commander-GPT: Fully Unleashing the Sarcasm Detection Capability of Multi-Modal Large Language Models**|Yazhou Zhang et.al.|[2503.18681v1](http://arxiv.org/abs/2503.18681v1)|**2025-03-24**|null|
+|**2025-03-24**|**Commander-GPT: Fully Unleashing the Sarcasm Detection Capability of Multi-Modal Large Language Models**|Yazhou Zhang et.al.|[2503.18681v2](http://arxiv.org/abs/2503.18681v2)|**2025-03-25**|null|
 |**2025-03-24**|**ArchSeek: Retrieving Architectural Case Studies Using Vision-Language Models**|Danrui Li et.al.|[2503.18680v1](http://arxiv.org/abs/2503.18680v1)|**2025-03-24**|null|
 |**2025-03-24**|**OCCO: LVM-guided Infrared and Visible Image Fusion Framework based on Object-aware and Contextual COntrastive Learning**|Hui Li et.al.|[2503.18635v1](http://arxiv.org/abs/2503.18635v1)|**2025-03-24**|null|
 |**2025-03-24**|**Dig2DIG: Dig into Diffusion Information Gains for Image Fusion**|Bing Cao et.al.|[2503.18627v1](http://arxiv.org/abs/2503.18627v1)|**2025-03-24**|null|
@@ -31,4 +31,4 @@
 |**2025-03-24**|**Ground Penetrating Radar-Assisted Multimodal Robot Odometry Using Subsurface Feature Matrix**|Haifeng Li et.al.|[2503.18301v1](http://arxiv.org/abs/2503.18301v1)|**2025-03-24**|null|
 |**2025-03-24**|**Surgical Action Planning with Large Language Models**|Mengya Xu et.al.|[2503.18296v1](http://arxiv.org/abs/2503.18296v1)|**2025-03-24**|null|
 |**2025-03-24**|**ZECO: ZeroFusion Guided 3D MRI Conditional Generation**|Feiran Wang et.al.|[2503.18246v1](http://arxiv.org/abs/2503.18246v1)|**2025-03-24**|null|
-|**2025-03-23**|**PG-SAM: Prior-Guided SAM with Medical for Multi-organ Segmentation**|Yiheng Zhong et.al.|[2503.18227v1](http://arxiv.org/abs/2503.18227v1)|**2025-03-23**|null|
+|**2025-03-23**|**PG-SAM: Prior-Guided SAM with Medical for Multi-organ Segmentation**|Yiheng Zhong et.al.|[2503.18227v2](http://arxiv.org/abs/2503.18227v2)|**2025-03-25**|null|

@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-24**|**Target-Aware Video Diffusion Models**|Taeksoo Kim et.al.|[2503.18950v1](http://arxiv.org/abs/2503.18950v1)|**2025-03-24**|null|
 |**2025-03-24**|**Equivariant Image Modeling**|Ruixiao Dong et.al.|[2503.18948v1](http://arxiv.org/abs/2503.18948v1)|**2025-03-24**|[link](https://github.com/drx-code/EquivariantModeling)|
-|**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944v1](http://arxiv.org/abs/2503.18944v1)|**2025-03-24**|null|
+|**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944v1](http://arxiv.org/abs/2503.18944v1)|**2025-03-24**|[link](https://github.com/VisualComputingInstitute/DITR)|
 |**2025-03-24**|**SlowFast-LLaVA-1.5: A Family of Token-Efficient Video Large Language Models for Long-Form Video Understanding**|Mingze Xu et.al.|[2503.18943v1](http://arxiv.org/abs/2503.18943v1)|**2025-03-24**|null|
 |**2025-03-24**|**Training-free Diffusion Acceleration with Bottleneck Sampling**|Ye Tian et.al.|[2503.18940v1](http://arxiv.org/abs/2503.18940v1)|**2025-03-24**|null|
 |**2025-03-24**|**A Brill-Noether Theorem for (toric) surfaces**|Alessio Cela et.al.|[2503.18905v1](http://arxiv.org/abs/2503.18905v1)|**2025-03-24**|null|
@@ -14,11 +14,11 @@
 |**2025-03-24**|**Efficient Self-Supervised Adaptation for Medical Image Analysis**|Moein Sorkhei et.al.|[2503.18873v1](http://arxiv.org/abs/2503.18873v1)|**2025-03-24**|null|
 |**2025-03-24**|**Curriculum Coarse-to-Fine Selection for High-IPC Dataset Distillation**|Yanda Chen et.al.|[2503.18872v1](http://arxiv.org/abs/2503.18872v1)|**2025-03-24**|null|
 |**2025-03-24**|**Exploring the Integration of Key-Value Attention Into Pure and Hybrid Transformers for Semantic Segmentation**|DeShin Hwa et.al.|[2503.18862v1](http://arxiv.org/abs/2503.18862v1)|**2025-03-24**|null|
-|**2025-03-24**|**HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation**|Zunnan Xu et.al.|[2503.18860v1](http://arxiv.org/abs/2503.18860v1)|**2025-03-24**|null|
-|**2025-03-24**|**MC-LLaVA: Multi-Concept Personalized Vision-Language Model**|Ruichuan An et.al.|[2503.18854v1](http://arxiv.org/abs/2503.18854v1)|**2025-03-24**|null|
+|**2025-03-24**|**HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation**|Zunnan Xu et.al.|[2503.18860v2](http://arxiv.org/abs/2503.18860v2)|**2025-03-25**|null|
+|**2025-03-24**|**MC-LLaVA: Multi-Concept Personalized Vision-Language Model**|Ruichuan An et.al.|[2503.18854v2](http://arxiv.org/abs/2503.18854v2)|**2025-03-25**|null|
 |**2025-03-24**|**3DSwapping: Texture Swapping For 3D Object From Single Reference Image**|Xiao Cao et.al.|[2503.18853v1](http://arxiv.org/abs/2503.18853v1)|**2025-03-24**|null|
 |**2025-03-24**|**Convolutional neural network approach to ion Coulomb crystal image analysis**|James Allsopp et.al.|[2503.18846v1](http://arxiv.org/abs/2503.18846v1)|**2025-03-24**|null|
-|**2025-03-24**|**Learning to segment anatomy and lesions from disparately labeled sources in brain MRI**|Meva Himmetoglu et.al.|[2503.18840v1](http://arxiv.org/abs/2503.18840v1)|**2025-03-24**|null|
+|**2025-03-24**|**Learning to segment anatomy and lesions from disparately labeled sources in brain MRI**|Meva Himmetoglu et.al.|[2503.18840v2](http://arxiv.org/abs/2503.18840v2)|**2025-03-25**|null|
 |**2025-03-24**|**A benchmark companion at the hydrogen-burning limit imaged in the core cluster of the Fornax-Horologium association**|Pengyu Liu et.al.|[2503.18838v1](http://arxiv.org/abs/2503.18838v1)|**2025-03-24**|null|
 |**2025-03-24**|**Dual-domain Multi-path Self-supervised Diffusion Model for Accelerated MRI Reconstruction**|Yuxuan Zhang et.al.|[2503.18836v1](http://arxiv.org/abs/2503.18836v1)|**2025-03-24**|null|
 |**2025-03-24**|**Enhanced OoD Detection through Cross-Modal Alignment of Multi-Modal Representations**|Jeonghyeon Kim et.al.|[2503.18817v1](http://arxiv.org/abs/2503.18817v1)|**2025-03-24**|null|
@@ -31,4 +31,4 @@
 |**2025-03-24**|**The PHANGS-HST-Halpha Survey: Warm Ionized Gas Physics at High Angular resolution in Nearby GalaxieS with the Hubble Space Telescope**|Rupali Chandar et.al.|[2503.18791v1](http://arxiv.org/abs/2503.18791v1)|**2025-03-24**|null|
 |**2025-03-24**|**Blind structured illumination microscopy via generalized Richardson-Lucy method**|Valentina Capalbo et.al.|[2503.18786v1](http://arxiv.org/abs/2503.18786v1)|**2025-03-24**|null|
 |**2025-03-24**|**LGI-DETR: Local-Global Interaction for UAV Object Detection**|Zifa Chen et.al.|[2503.18785v1](http://arxiv.org/abs/2503.18785v1)|**2025-03-24**|null|
-|**2025-03-24**|**Frequency Dynamic Convolution for Dense Image Prediction**|Linwei Chen et.al.|[2503.18783v1](http://arxiv.org/abs/2503.18783v1)|**2025-03-24**|null|
+|**2025-03-24**|**Frequency Dynamic Convolution for Dense Image Prediction**|Linwei Chen et.al.|[2503.18783v2](http://arxiv.org/abs/2503.18783v2)|**2025-03-25**|null|

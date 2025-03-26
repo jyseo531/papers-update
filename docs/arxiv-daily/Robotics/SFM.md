@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-24**|**Target-Aware Video Diffusion Models**|Taeksoo Kim et.al.|[2503.18950v1](http://arxiv.org/abs/2503.18950v1)|**2025-03-24**|null|
 |**2025-03-24**|**Almost device-independent calibration beyond Born's rule: Bell tests for cross-talk detection**|Gelo Noel M. Tabia et.al.|[2503.18949v1](http://arxiv.org/abs/2503.18949v1)|**2025-03-24**|null|
-|**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944v1](http://arxiv.org/abs/2503.18944v1)|**2025-03-24**|null|
+|**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944v1](http://arxiv.org/abs/2503.18944v1)|**2025-03-24**|[link](https://github.com/VisualComputingInstitute/DITR)|
 |**2025-03-24**|**SlowFast-LLaVA-1.5: A Family of Token-Efficient Video Large Language Models for Long-Form Video Understanding**|Mingze Xu et.al.|[2503.18943v1](http://arxiv.org/abs/2503.18943v1)|**2025-03-24**|null|
 |**2025-03-24**|**Video-T1: Test-Time Scaling for Video Generation**|Fangfu Liu et.al.|[2503.18942v1](http://arxiv.org/abs/2503.18942v1)|**2025-03-24**|null|
 |**2025-03-24**|**Exploring Training and Inference Scaling Laws in Generative Retrieval**|Hongru Cai et.al.|[2503.18941v1](http://arxiv.org/abs/2503.18941v1)|**2025-03-24**|null|
@@ -24,7 +24,7 @@
 |**2025-03-24**|**An infinite-dimensional character coincidence between Lie algebras of type B and BC**|Steven V Sam et.al.|[2503.18918v1](http://arxiv.org/abs/2503.18918v1)|**2025-03-24**|null|
 |**2025-03-24**|**Entropic Analysis of Time Series through Kernel Density Estimation**|Audun Myers et.al.|[2503.18916v1](http://arxiv.org/abs/2503.18916v1)|**2025-03-24**|null|
 |**2025-03-24**|**Autonomous Generation of Sub-goals for Lifelong Learning in Robots**|Emanuel Fallas Hernández et.al.|[2503.18914v1](http://arxiv.org/abs/2503.18914v1)|**2025-03-24**|null|
-|**2025-03-24**|**Coincidence measurement of two-photon double ionization of argon through an autoionizing resonance**|Sebastian Hell et.al.|[2503.18913v1](http://arxiv.org/abs/2503.18913v1)|**2025-03-24**|null|
+|**2025-03-24**|**Coincidence measurement of two-photon double ionization of argon through an autoionizing resonance**|Sebastian Hell et.al.|[2503.18913v2](http://arxiv.org/abs/2503.18913v2)|**2025-03-25**|null|
 |**2025-03-24**|**Causal Links Between Anthropogenic Emissions and Air Pollution Dynamics in Delhi**|Sourish Das et.al.|[2503.18912v1](http://arxiv.org/abs/2503.18912v1)|**2025-03-24**|null|
 |**2025-03-24**|**FFN Fusion: Rethinking Sequential Computation in Large Language Models**|Akhiad Bercovich et.al.|[2503.18908v1](http://arxiv.org/abs/2503.18908v1)|**2025-03-24**|null|
 |**2025-03-24**|**Entropy of a restricted primitive model electrolyte using a mean electrostatic potential approach**|S. Lamperski et.al.|[2503.18907v1](http://arxiv.org/abs/2503.18907v1)|**2025-03-24**|null|

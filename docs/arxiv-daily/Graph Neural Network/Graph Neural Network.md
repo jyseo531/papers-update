@@ -13,7 +13,7 @@
 |**2025-03-24**|**AgentDropout: Dynamic Agent Elimination for Token-Efficient and High-Performance LLM-Based Multi-Agent Collaboration**|Zhexuan Wang et.al.|[2503.18891v1](http://arxiv.org/abs/2503.18891v1)|**2025-03-24**|null|
 |**2025-03-24**|**I Have Covered All the Bases Here: Interpreting Reasoning Features in Large Language Models via Sparse Autoencoders**|Andrey Galichin et.al.|[2503.18878v1](http://arxiv.org/abs/2503.18878v1)|**2025-03-24**|null|
 |**2025-03-24**|**A semantic communication-based workload-adjustable transceiver for wireless AI-generated content (AIGC) delivery**|Runze Cheng et.al.|[2503.18874v1](http://arxiv.org/abs/2503.18874v1)|**2025-03-24**|null|
-|**2025-03-24**|**Bootstrapped Model Predictive Control**|Yuhang Wang et.al.|[2503.18871v1](http://arxiv.org/abs/2503.18871v1)|**2025-03-24**|null|
+|**2025-03-24**|**Bootstrapped Model Predictive Control**|Yuhang Wang et.al.|[2503.18871v1](http://arxiv.org/abs/2503.18871v1)|**2025-03-24**|[link](https://github.com/wertyuilife2/bmpc)|
 |**2025-03-24**|**The Graph Geometric Control Condition**|Kaïs Ammari et.al.|[2503.18864v1](http://arxiv.org/abs/2503.18864v1)|**2025-03-24**|null|
 |**2025-03-24**|**An End-to-End GSM/SMS Encrypted Approach for Smartphone Employing Advanced Encryption Standard(AES)**|Wasim Abbas et.al.|[2503.18859v1](http://arxiv.org/abs/2503.18859v1)|**2025-03-24**|[link](https://github.com/wasim-abbas/Secure-msgs-App)|
 |**2025-03-24**|**Dynamics of Insect Paraintelligence: How a Mindless Colony of Ants Meaningfully Moves a Beetle**|Eldar Knar et.al.|[2503.18858v1](http://arxiv.org/abs/2503.18858v1)|**2025-03-24**|null|

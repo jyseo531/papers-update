@@ -4,8 +4,8 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-24**|**Target-Aware Video Diffusion Models**|Taeksoo Kim et.al.|[2503.18950v1](http://arxiv.org/abs/2503.18950v1)|**2025-03-24**|null|
 |**2025-03-24**|**Tuning-Free Amodal Segmentation via the Occlusion-Free Bias of Inpainting Models**|Jae Joong Lee et.al.|[2503.18947v1](http://arxiv.org/abs/2503.18947v1)|**2025-03-24**|null|
-|**2025-03-24**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945v1](http://arxiv.org/abs/2503.18945v1)|**2025-03-24**|null|
-|**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944v1](http://arxiv.org/abs/2503.18944v1)|**2025-03-24**|null|
+|**2025-03-24**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945v2](http://arxiv.org/abs/2503.18945v2)|**2025-03-25**|null|
+|**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944v1](http://arxiv.org/abs/2503.18944v1)|**2025-03-24**|[link](https://github.com/VisualComputingInstitute/DITR)|
 |**2025-03-24**|**Online 3D Scene Reconstruction Using Neural Object Priors**|Thomas Chabal et.al.|[2503.18897v1](http://arxiv.org/abs/2503.18897v1)|**2025-03-24**|null|
 |**2025-03-24**|**3DSwapping: Texture Swapping For 3D Object From Single Reference Image**|Xiao Cao et.al.|[2503.18853v1](http://arxiv.org/abs/2503.18853v1)|**2025-03-24**|null|
 |**2025-03-24**|**Dual-domain Multi-path Self-supervised Diffusion Model for Accelerated MRI Reconstruction**|Yuxuan Zhang et.al.|[2503.18836v1](http://arxiv.org/abs/2503.18836v1)|**2025-03-24**|null|
@@ -22,7 +22,7 @@
 |**2025-03-24**|**Convergence study of ambipolar diffusion in realistic simulations of magneto-convection**|E. Khomenko et.al.|[2503.18686v1](http://arxiv.org/abs/2503.18686v1)|**2025-03-24**|null|
 |**2025-03-24**|**Hardware-Rasterized Ray-Based Gaussian Splatting**|Samuel Rota Bulò et.al.|[2503.18682v1](http://arxiv.org/abs/2503.18682v1)|**2025-03-24**|null|
 |**2025-03-24**|**NullSwap: Proactive Identity Cloaking Against Deepfake Face Swapping**|Tianyi Wang et.al.|[2503.18678v1](http://arxiv.org/abs/2503.18678v1)|**2025-03-24**|null|
-|**2025-03-24**|**Any6D: Model-free 6D Pose Estimation of Novel Objects**|Taeyeop Lee et.al.|[2503.18673v1](http://arxiv.org/abs/2503.18673v1)|**2025-03-24**|null|
+|**2025-03-24**|**Any6D: Model-free 6D Pose Estimation of Novel Objects**|Taeyeop Lee et.al.|[2503.18673v2](http://arxiv.org/abs/2503.18673v2)|**2025-03-25**|null|
 |**2025-03-24**|**Structure-Aware Correspondence Learning for Relative Pose Estimation**|Yihan Chen et.al.|[2503.18671v1](http://arxiv.org/abs/2503.18671v1)|**2025-03-24**|null|
 |**2025-03-24**|**LLGS: Unsupervised Gaussian Splatting for Image Enhancement and Reconstruction in Pure Dark Environment**|Haoran Wang et.al.|[2503.18640v1](http://arxiv.org/abs/2503.18640v1)|**2025-03-24**|null|
 |**2025-03-24**|**Reading Decisions from Gaze Direction during Graphics Turing Test of Gait Animation**|Benjamin Knopp et.al.|[2503.18619v1](http://arxiv.org/abs/2503.18619v1)|**2025-03-24**|null|
