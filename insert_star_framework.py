@@ -130,7 +130,7 @@ def db_to_md(conn, md_filename="README.md"):
     print(f"Markdown file '{md_filename}' generated successfully.")
 
 if __name__ == "__main__":
-    db_file = "./arxiv_star_test_2020_star_framework_0227.db"  # 데이터베이스 파일 경로
+    db_file = "./arxiv_star_2014.db"  # 데이터베이스 파일 경로
     conn = sqlite3.connect(db_file)
     
     db_to_md(conn, "./arxiv_2020_FINAL.md")  # 마크다운 생성

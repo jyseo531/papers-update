@@ -1,0 +1,294 @@
+title,authors,pdf_link,code_url,conference_name
+Smoothed Dilated Convolutions for Improved Dense Prediction,Zhengyang Wang ; Shuiwang Ji,,,KDD 2018
+Discovering Non-Redundant K-means Clusterings in Optimal Subspaces,Dominik Mautz ; Wei Ye ; Claudia Plant ; Christian B,,,KDD 2018
+Trajectory-driven Influential Billboard Placement,Ping Zhang ; Zhifeng Bao ; Yuchen Li ; Guoliang Li ; Yipeng Zhang ; Zhiyong Peng,,,KDD 2018
+Multi-Type Itemset Embedding for Learning Behavior Success,Daheng Wang ; Meng Jiang ; Qingkai Zeng ; Zachary Eberhart ; Nitesh Chawla,,,KDD 2018
+STAMP: Short-Term Attention/Memory Priority Model for Session-based Recommendation,Qiao Liu ; Yifu Zeng ; Refuoe Mokhosi ; Haibin Zhang,,,KDD 2018
+Calibrated Multi-Task Learning,Feiping Nie ; Zhanxuan Hu ; Xuelong Li,,,KDD 2018
+Unlearn What You Have Learned: Adaptive Crowd Teaching with Exponentially Decayed Memory Learners,Yao Zhou ; Arun Reddy Nelakurthi ; Jingrui He,,,KDD 2018
+Interactive Paths Embedding for Semantic Proximity Search on Heterogeneous Graphs,Zemin Liu ; Vincent W. Zheng ; Zhou Zhao ; Zhao Li ; Hongxia Yang ; Minghui Wu ; Jing Ying,,,KDD 2018
+Scalable Active Learning by Approximated Error Reduction,Weijie Fu ; Meng Wang ; Shijie Hao ; Xindong Wu,,,KDD 2018
+R2SDH: Robust Rotated Supervised Discrete Hashing,Jie Gui ; Ping Li,,,KDD 2018
+Learning Adversarial Networks for Semi-Supervised Text Classification via Policy Gradient,Yan Li ; Jieping Ye,,,KDD 2018
+Multi-view Adversarially Learned Inference for Cross-domain Joint Distribution Matching,Changying Du ; Changde Du ; Xingyu Xie ; Chen Zhang ; Hao Wang,,,KDD 2018
+Disturbance Grassmann Kernels for Subspace-Based Learning,Junyuan Hong ; Huanhuan Chen ; Feng Lin,,,KDD 2018
+Finding Similar Exercises with a Unified Semantic Representation,Qi Liu ; Zai Huang ; Zhenya Huang ; Chuanren Liu ; Enhong Chen ; Yu Su ; Guoping Hu,,,KDD 2018
+Supervised Reinforcement Learning with Recurrent Neural Network for Dynamic Treatment Recommendation,Lu Wang ; Wei Zhang ; Xiaofeng He ; Hongyuan Zha,,,KDD 2018
+Transcribing Content from Structural Images with Spotlight Mechanism,Yu Yin ; Zhenya Huang ; Enhong Chen ; Qi Liu ; Fuzheng Zhang ; Xing Xie ; Guoping Hu,,,KDD 2018
+StockAssIstant: A Stock AI Assistant for Reliability Modeling of Stock Comments,Chen Zhang ; Hao Wang ; Changying Du ; Yijun Wang ; Can Chen ; Hongzhi Yin,,,KDD 2018
+Leveraging Meta-path based Context for Top N recommendation with Co-attention mechanism,Binbin Hu ; Chuan Shi ; Xin Zhao ; Philip S. Yu,,,KDD 2018
+Subspace Network: Deep Multi-Task Censored Regression for Modeling Neurodegenerative Diseases,Mengying Sun ; Inci M. Baytas ; Liang Zhan ; Zhangyang Wang ; Jiayu Zhou,,,KDD 2018
+Learning Dynamics of Decision Boundaries without Additional Labeled Data,Atsutoshi Kumagai ; Tomoharu Iwata,,,KDD 2018
+Arbitrary-Order Proximity Preserved Network Embedding,Ziwei Zhang ; Peng Cui ; Xiao Wang ; Jian Pei ; Xuanrong Yao ; Wenwu Zhu,,,KDD 2018
+Scalable k-Means Clustering via Lightweight Coresets,Olivier Bachem ; Mario Lucic ; Andreas Krause,,,KDD 2018
+Voxel Deconvolutional Networks for 3D Brain Image Labeling,Yongjun Chen ; Hongyang Gao ; Lei Cai ; Min Shi ; Dinggang Shen ; Shuiwang Ji,,,KDD 2018
+Count-Min: Optimal Estimation and Tight Error Bounds using Empirical Error Distributions,Daniel Ting,,,KDD 2018
+Metric Learning from Probabilistic Labels,Mengdi Huai ; Chenglin Miao ; Yaliang Li ; Qiuling Suo ; Lu Su ; Aidong Zhang,,,KDD 2018
+TextTruth: An Unsupervised Approach to Discover Trustworthy Information from Multi-Sourced Text Data,Hengtong Zhang ; Yaliang Li ; Fenglong Ma ; Jing Gao ; Lu Su,,,KDD 2018
+HeavyGuardian: Separate and Guard Hot Items in Data Streams,Tong Yang ; Junzhi Gong ; Haowei Zhang ; Lei Zou ; Lei Shi ; Xiaoming Li,,,KDD 2018
+Can Who-Edits-What Predict Edit Survival?,"Ali Batuhan Yardim ; Victor Kristof , Lucas Maystre , Matthias Grossglauser",,,KDD 2018
+Graph Classification using Structural Attention,John Boaz Lee ; Ryan Rossi ; Xiangnan Kong,,,KDD 2018
+Opinion Dynamics with Varying Susceptibility to Persuasion,Rediet Abebe ; Jon Kleinberg ; David Parkes ; Charalampos Tsourkakis,,,KDD 2018
+Efficient Attribute Recommendation with Probabilistic Guarantee,Chi Wang ; Kaushik Chakrabarti,,,KDD 2018
+You Are How You Drive: Peer and Temporal-Aware Representation Learning for Driving Behavior Analysis,Pengyang Wang ; Yanjie Fu ; Jiawei Zhang ; Pengfei Wang ; Yu Zheng ; Charu Aggarwal,,,KDD 2018
+Simultaneous Urban Region Function Discovery and Popularity Estimation Via an Infinite Urbanization,Bang Zhang ; Lelin Zhang ; Ting Guo ; Yang Wang ; Fang Chen,,,KDD 2018
+MiSoSouP: Mining Interesting Subgroups with Sampling and Pseudodimension,Matteo Riondato ; Fabio Vandin,,,KDD 2018
+NetLSD: Hearing the Shape of a Graph,Anton Tsitsulin ; Davide Mottin ; Panagiotis Karras ; Alexander Bronstein ; Emmanuel Müller,,,KDD 2018
+Efficient Large-Scale Fleet Management via Multi-Agent Deep Reinforcement Learning,Kaixiang Lin ; Renyu Zhao ; Zhe Xu ; Jiayu Zhou,,,KDD 2018
+A Dual Markov Chain Topic Model for Dynamic Environments,Ayan Acharya ; Joydeep Ghosh ; Mingyuan Zhou,,,KDD 2018
+An Efficient Two-Layer Mechanism for Privacy-Preserving Truth Discovery,Yaliang Li ; Chenglin Miao ; Lu Su ; Jing Gao ; Qi Li ; Bolin Ding ; Zhan Qin ; Kui Ren,,,KDD 2018
+SUSTain: Scalable Unsupervised Scoring for Tensors and its Application to Phenotyping,Ioakeim Perros ; Evangelos Papalexakis ; Haesun Park ; Richard Vuduc ; Xiaowei Yan ; Christopher Defilippi ; Walter F. Stewart ; Jimeng Sun,,,KDD 2018
+Learning Deep Network Representations with Adversarially Regularized Autoencoders,Wenchao Yu ; Cheng Zheng ; Wei Cheng ; Charu Aggarwal ; Dongjin Song ; Bo Zong ; Haifeng Chen ; Wei Wang,,,KDD 2018
+FASTEN: Fast Sylvester Equation Solver for Graph Mining,Boxin Du ; Hanghang Tong,,,KDD 2018
+TINET: Learning Invariant Networks via Knowledge Transfer,Chen Luo ; Zhengzhang Chen ; Lu-An Tang ; Anshumali Shrivastava ; Zhichun Li ; Haifeng Chen ; Jieping Ye,,,KDD 2018
+Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts,Jiaqi Ma ; Zhe Zhao ; Xinyang Yi ; Jilin Chen ; Lichan Hong ; Ed Chi,,,KDD 2018
+Towards Mitigating the Class-Imbalance Problem for Partial Label Learning,Jing Wang ; Min-Ling Zhang,,,KDD 2018
+Exploring the Urban Region-of-Interest through the Analysis of Online Map Search Queries,Ying Sun ; Hengshu Zhu ; Fuzhen Zhuang ; Jingjing Gu ; Qing He,,,KDD 2018
+Complex Object Classification: A Multi-Modal Multi-Instance Multi-Label Deep Network with Optimal Tr,Yang Yang ; Yi-Feng Wu ; De-Chuan Zhan ; Zhi-Bin Liu ; Yuan Jiang,,,KDD 2018
+New Robust Metric Learning Model Using Maximum Correntropy Criterion,Jie Xu ; Lei Luo ; Cheng Deng ; Heng Huang,,,KDD 2018
+TruePIE: Discovering Reliable Patterns in Pattern-Based Information Extraction,Qi Li ; Meng Jiang ; Xikun Zhang ; Meng Qu ; Timothy Hanratty ; Jing Gao ; Jiawei Han,,,KDD 2018
+Network Connectivity Optimization: Fundamental Limits and Effective Algorithms,Chen Chen ; Ruiyue Peng ; Lei Ying ; Hanghang Tong,,,KDD 2018
+Risk Prediction on Electronic Healthcare Records with Prior Medical Knowledge,Fenglong Ma ; Jing Gao ; Qiuling Suo ; Quanzeng You ; Jing Zhou ; Aidong Zhang,,,KDD 2018
+Ranking Distillation: Learning Compact Ranking Models With High Performance for Recommender System,Jiaxi Tang ; Ke Wang,,,KDD 2018
+xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems,Jianxun Lian ; Xiaohuan Zhou ; Fuzheng Zhang ; Zhongxia Chen ; Xing Xie ; Guangzhong Sun,,,KDD 2018
+NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks,Wenchao Yu ; Wei Cheng ; Charu Aggarwal ; Kai Zhang ; Haifeng Chen ; Wei Wang,,,KDD 2018
+Cost-Effective Training of Deep CNNs with Active Model Adaptation,Sheng-Jun Huang ; Jia-Wei Zhao ; Zhao-Yang Liu,,,KDD 2018
+Adversarial Detection with Model Interpretation,Ninghao Liu ; Hongxia Yang ; Xia Hu,,,KDD 2018
+Offline Evaluation of Ranking Policies with Click Models,Shuai Li ; Yasin Abbasi-Yadkori ; Branislav Kveton ; S. Muthukrishnan ; Vishwa Vinay ; Zheng Wen,,,KDD 2018
+REST: A Reference-based Framework for Spatio-temporal Trajectory Compression,Yan Zhao ; Shuo Shang ; Yu Wang ; Bolong Zheng ; Quoc Viet Hung Nguyen ; Kai Zheng,,,KDD 2018
+Efficient Similar Region Search with Deep Metric Learning,Yiding Liu ; Kaiqi Zhao ; Gao Cong,,,KDD 2018
+High-order Proximity Preserving Information Network Hashing,Defu Lian ; Kai Zheng ; Vincent W. Zheng ; Yong Ge ; Longbing Cao ; Ivor W. Tsang ; Xing Xie,,,KDD 2018
+Decoupled Learning for Factorial Marked Temporal Point Processes,Weichang Wu ; Junchi Yan ; Xiaokang Yang ; Hongyuan Zha,,,KDD 2018
+R-VQA: Learning Visual Relation Facts with Semantic Attention for Visual Question Answering,Pan Lu ; Lei Ji ; Wei Zhang ; Nan Duan ; Ming Zhou ; Jianyong Wang,,,KDD 2018
+Multi-label Learning with Highly Incomplete Data via Collaborative Embedding,Yufei Han ; Yun Shen ; Guolei Sun ); Xiangliang Zhang ),,,KDD 2018
+Spectral Clustering of Large-scale Data by Directly Solving Normalized Cut,Xiaojun Chen ; Weijun Hong ; Feiping Nie ; Dan He ; Min Yang ; Joshua Z. Huang,,,KDD 2018
+SpotLight: Detecting Anomalies in Streaming Graphs,Dhivya Eswaran ; Christos Faloutsos ; Sudipto Guha ; Nina Mishra,,,KDD 2018
+Learning Representations of Ultrahigh-dimensional Data for Random Distance-based Outlier Detection,Guansong Pang ; Longbing Cao ; Ling Chen ; Huan Liu,,,KDD 2018
+Dynamic Embeddings for User Profiling in Twitter,Shangsong Liang ; Xiangliang Zhang ; Zhaochun Ren ; Evangelos Kanoulas,,,KDD 2018
+A Unified Approach to Quantifying Algorithmic Unfairness: Measuring Individual & Group Unfairness vi,Till Speicher ; Hoda Heidari ; Nina Grgic-Hlaca ; Krishna P. Gummadi ; Adish Singla ; Adrian Weller ; Muhammad Bilal Zafar,,,KDD 2018
+Multiview Clustering via Adaptively Weighted Procrustes,Feiping Nie ; Lai Tian ; Xuelong Li,,,KDD 2018
+Deep Variational Network Embedding in Wasserstein Space,Dingyuan Zhu ; Peng Cui ; Daixin Wang ; Wenwu Zhu,,,KDD 2018
+Geographical Hidden Markov Tree for Flood Extent Mapping,Miao Xie ; Zhe Jiang ; Arpan Man Sainju,,,KDD 2018
+Embedding Temporal Network via Neighborhood Formation,Yuan Zuo ; Guannan Liu ; Hao Lin ; Jia Guo ; Xiaoqian Hu ; Junjie Wu,,,KDD 2018
+Algorithms for Hiring and Outsourcing in the Online Labor Market,Aris Anagnostopoulos ; Carlos Castillo ; Adriano Fazzone ; Stefano Leonardi ; Evimaria Terzi,,,KDD 2018
+"Data Diff: Interpretable, Executable Summaries of Changes in Distributions for Data Wrangling",Charles Sutton ; Timothy Hobson ; James Geddes ; Rich Caruana,,,KDD 2018
+Hierarchical Taxonomy Aware Network Embedding,Jianxin Ma ; Peng Cui ; Xiao Wang ; Wenwu Zhu,,,KDD 2018
+Exact and Consistent Interpretation for Piecewise Linear Neural Networks: A Closed Form Solution,Lingyang Chu ; Xia Hu ; Juhua Hu ; Lanjun Wang ; Jian Pei,,,KDD 2018
+TaxoGen: Constructing Topical Concept Taxonomy by Adaptive Term Embedding and Clustering,Chao Zhang ; Fangbo Tao ; Xiusi Chen ; Jiaming Shen ; Meng Jiang ; Brian Sadler ; Michelle Vanni ; Jiawei Han,,,KDD 2018
+Deep Recursive Network Embedding with Regular Equivalence,Ke Tu ; Peng Cui ; Xiao Wang ; Philip S. Yu ; Wenwu Zhu,,,KDD 2018
+PCA by Determinant Optimization has no Spurious Local Optima,Raphael Hauser ; Armin Eftekhari ; Heinrich Matzinger,,,KDD 2018
+Concepts-Bridges: Uncovering Conceptual Bridges Based on Biomedical Concept Evolution,Kishlay Jha ; Guangxu Xun ; Yaqing Wang ; Vishrawas Gopalakrishnan ; Aidong Zhang,,,KDD 2018
+Learning and Interpreting Complex Distributions in Empirical Data,Chengxi Zang ; Peng Cui ; Wenwu Zhu,,,KDD 2018
+Concentrated Differentially Private Gradient Descent with Adaptive per-Iteration Privacy Budget,Jaewoo Lee ; Daniel Kifer,,,KDD 2018
+Adversarial Attacks on Neural Networks for Graph Data,Daniel Zügner ; Amir Akbarnejad ; Stephan Günnemann,,,KDD 2018
+Optimal Distributed Submodular Optimization via Sketching,Mohammadhossein Bateni ; Hossein Esfandiari ; Vahab Mirrokni,,,KDD 2018
+Stable Prediction across Unknown Environments,Kun Kuang ; Peng Cui ; Susan Athey ; Ruoxuan Xiong ; Bo Li,,,KDD 2018
+Feedback-Guided Anomaly Discovery via Online Optimization,Md Amran Siddiqui ; Alan Fern ; Thomas Dietterich ; Ryan Wright ; Alec Theriault ; David Archer,,,KDD 2018
+Active Feature Acquisition with Supervised Matrix Completion,Sheng-Jun Huang ; Miao Xu ; Ming-Kun Xie ; Masashi Sugiyama ; Gang Niu ; Songcan Chen,,,KDD 2018
+Node Similarity with q-Grams for Real-World Labeled Networks,Roberto Grossi ; Alessio Conte ; Gaspare Ferraro ; Andrea Marino ; Kunihiko Sadakane ; Takeaki Uno,,,KDD 2018
+Multi-Pointer Co-Attention Networks for Recommendation,Yi Tay ; Anh Tuan Luu ; Siu Cheung Hui,,,KDD 2018
+Scalable Spectral Clustering Using Random Binning Features,Lingfei Wu ; Pin-Yu Chen ; Ian En-Hsu Yen ; Fangli Xu ; Yinglong Xia ; Charu Aggarwal,,,KDD 2018
+Model-based Clustering of Short Text Streams,Jianhua Yin ; Daren Chao ; Zhongkun Liu ; Wei Zhang ; Xiaohui Yu ; Jianyong Wang,,,KDD 2018
+A Treatment Engine by Predicting Next-Period Prescriptions,Bo Jin ; Haoyu Yang ; Leilei Sun ; Chuanren Liu ; Yue Qu ; Jianing Tong,,,KDD 2018
+IntelliLight: a Reinforcement Learning Approach for Intelligent Traffic Light Control,Hua Wei ; Guanjie Zheng ; Huaxiu Yao ; Zhenhui Li,,,KDD 2018
+Towards Explanation of DNN-based Prediction with Guided Feature Inversion,Mengnan Du ; Ninghao Liu ; Qingquan Song ; Xia Hu,,,KDD 2018
+Sequences of Sets,Austin Benson ; Ravi Kumar ; Andrew Tomkins,,,KDD 2018
+Multi-Round Influence Maximization,Lichao Sun ; Weiran Huang ; Philip Yu ; Wei Chen,,,KDD 2018
+Generalized Score Functions for Causal Discovery,Biwei Huang ; Kun Zhang ; Yizhu Lin ; Bernhard Scho?lkopf ; Clark Glymour,,,KDD 2018
+XiaoIce Band: A Melody and Arrangement Generation Framework for Pop Music,Hongyuan Zhu ; Qi Liu ; Nicholas Jing Yuan ; Chuan Qin ; Jiawei Li ; Kun Zhang ; Guang Zhou ; Furu Wei ; Yuanchun Xu ; Enhong Chen,,,KDD 2018
+Deep r-th Root Rank Supervised Joint Binary Embedding for Multivariate Time Series Retrieval,Dongjin Song ; Ning Xia ; Wei Cheng ; Haifeng Chen ; Dacheng Tao,,,KDD 2018
+FAHES: A Robust Disguised Missing Values Detector,Mourad Ouzzani ; Nan Tang ; Ahmed Elmagarmid ; Raul Castro Fernandez ; Abdulhakim A. Qahtan,,,KDD 2018
+Dynamic Bike Reposition: A Spatio-Temporal Reinforcement Learning Approach,Yexin Li ; Yu Zheng ; Qiang Yang,,,KDD 2018
+Multi-User Mobile Sequential Recommendation: An Efficient Parallel Computing Paradigm,Zeyang Ye ; Lihao Zhang ; Keli Xiao ; Wenjun Zhou ; Yong Ge ; Yuefan Deng,,,KDD 2018
+Local Latent Space Models for Top-N Recommendation,Evangelia Christakopoulou ; George Karypis,,,KDD 2018
+Investor-Imitator: A Framework for Trading Knowledge Extraction,Yi Ding ; Weiqing Liu ; Jiang Bian ; Daoqiang Zhang ; Tie-Yan Liu,,,KDD 2018
+Discrete Ranking-based Matrix Factorization with Self-Paced Learning,Yan Zhang ; Haoyu Wang ; Defu Lian ; Ivor W. Tsang ; Hongzhi Yin ; Guowu Yang,,,KDD 2018
+LARC: Learning Activity-Regularized overlapping Communities across Time,Alexander Gorovits ; Ekta Gujral ; Evangelos Papalexakis ; Petko Bogdanov,,,KDD 2018
+EvoGraph: An Effective and Efficient Graph Upscaling Method for Preserving Graph Properties,Himchan Park ; Min-Soo Kim,,,KDD 2018
+Training Big Random Forests with Little Resources,Fabian Gieseke ; Christian Igel,,,KDD 2018
+Large-Scale Learnable Graph Convolutional Networks,Hongyang Gao ; Zhengyang Wang ; Shuiwang Ji,,,KDD 2018
+Online Adaptive Asymmetric Active Learning for Budgeted Imbalanced Data,Yifan Zhang ; Peilin Zhao ; Jiezhang Cao ; Wenye Ma ; Junzhou Huang ; Qingyao Wu ; Mingkui Tan,,,KDD 2018
+Multi-Label Inference for Crowdsourcing,Jing Zhang ; Xindong Wu,,,KDD 2018
+Deep Adversarial Learning for Multi-Modality Missing Data Completion,Lei Cai ; Zhengyang Wang ; Hongyang Gao ; Dinggang Shen ; Shuiwang Ji,,,KDD 2018
+SPARC: Self-Paced Network Representation for Few-Shot Rare Category Characterization,Dawei Zhou ; Jingrui He ; Hongxia Yang ; Wei Fan,,,KDD 2018
+Towards Evolutionary Compression,Yunhe Wang ; Chang Xu ; Jiayan Qiu ; Chao Xu ; Dacheng Tao,,,KDD 2018
+Accurate and Fast Asymmetric Locality-Sensitive Hashing Scheme for Maximum Inner Product Search,Qiang Huang ; Guihong Ma ; Jianlin Feng ; Qiong Fang ; Anthony K. H. Tung,,,KDD 2018
+Parsing to Programs: A Framework for Situated QA,Mrinmaya Sachan ; Eric P. Xing,,,KDD 2018
+Dual Memory Neural Computer for Asynchronous Two-view Sequential Learning,Hung Le ; Truyen Tran ; Svetha Venkatesh,,,KDD 2018
+Automated Local Regression Discontinuity Design Discovery,William Herlands ; Edward McFowland Iii ; Andrew Wilson ; Daniel Neill,,,KDD 2018
+PME: Projected Metric Embedding on Heterogeneous Networks for Link Prediction,Hongxu Chen ; Hongzhi Yin ; Weiqing Wang ; Hao Wang ; Quoc Viet Hung Nguyen ; Xue Li,,,KDD 2018
+Content to Node: Self-translation Network Embedding,Jie Liu ; Zhicheng He ; Lai Wei ; Yalou Huang,,,KDD 2018
+Isolation Kernel and Its Effect on SVM,Kai Ming Ting ; Yue Zhu ; Zhi-Hua Zhou,,,KDD 2018
+Variable Selection and Task Grouping for Multi-Task Learning,Junyong Jeong ; Chi-Hyuck Jun,,,KDD 2018
+Are your data gathered?,Alban Siffer ; Pierre-Alain Fouque ; Alexandre Termier ; Christine Largou,,,KDD 2018
+Quantifying Uncertainty in Discrete-Continuous and Skewed Data with Bayesian Deep Learning,Thomas Vandal ; Evan Kodra ; Jennifer Dy ; Sangram Ganguly ; Ramakrishna Nemani ; Auroop Ganguly,,,KDD 2018
+Efficient Mining of the Most Significant Patterns with Permutation Testing,Leonardo Pellegrina ; Fabio Vandin,,,KDD 2018
+On Interpretation of Network Embedding via Taxonomy Induction,Ninghao Liu ; Xiao Huang ; Jundong Li ; Xia Hu,,,KDD 2018
+Neural Memory Streaming Recommender Networks with Adversarial Training,Qinyong Wang ; Hongzhi Yin ; Zhiting Hu ; Defu Lian ; Hao Wang ; Zi Huang,,,KDD 2018
+Extremely Fast Decision Tree,Chaitanya Manapragada ; Geoffrey Webb ; Mahsa Salehi,,,KDD 2018
+Easing Embedding Learning by Comprehensive Transcription of Heterogeneous Information Networks,Yu Shi ; Qi Zhu ; Fang Guo ; Chao Zhang ; Jiawei Han,,,KDD 2018
+On the Generative Discovery of Structured Medical Knowledge,Chenwei Zhang ; Yaliang Li ; Nan Du ; Wei Fan ; Philip S. Yu,,,KDD 2018
+Accelerated Equivalence Structure Extraction via Pairwise Incremental Search,Seiya Satoh ; Yoshinobu Takahashi ; Hiroshi Yamakawa,,,KDD 2018
+Unlocking the Value of Privacy: Trading Aggregate Statistics over Private Correlated Data,Chaoyue Niu ; Zhenzhe Zheng ; Fan Wu ; Shaojie Tang ; Xiaofeng Gao ; Guihai Chen,,,KDD 2018
+Learning from History and Present: Next-item Recommendation via Discriminatively Exploiting User Beh,Zhi Li ; Hongke Zhao ; Qi Liu ; Zhenya Huang ; Tao Mei ; Enhong Chen,,,KDD 2018
+Robust Bayesian Kernel Machine via Stein Variational Gradient Descent for Big Data,Khanh Nguyen ; Trung Le ; Tu Dinh Nguyen ; Dinh Phung ; Geo?rey Webb,,,KDD 2018
+Recurrent Binary Embedding for GPU-Enabled Exhaustive Retrieval from Billion-Scale Semantic Vectors,Ying Shan ; Jian Jiao ; Jie Zhu ; Jc Mao,,,KDD 2018
+DILOF: Effective and Memory Efficient Local Outlier Detection in Data Streams,"Gyoung S. Na ); Donghyun Kim ,); Hwanjo Yu ,)",,,KDD 2018
+Learning Structural Node Embeddings via Diffusion Wavelets,Claire Donnat ; Marinka Zitnik ; David Hallac ; Jure Leskovec,,,KDD 2018
+Transfer Learning via Feature Isomorphism Discovery,Shimin Di ; Jingshu Peng ; Yanyan Shen ; Lei Chen,,,KDD 2018
+Demand-Aware Charger Planning for Electric Vehicle Sharing,Bowen Du ; Yongxin Tong ; Zimu Zhou ; Qian Tao ; Wenjun Zhou,,,KDD 2018
+Multi-task Representation Learning for Travel Time Estimation,Yaguang Li ; Kun Fu ; Zheng Wang ; Cyrus Shahabi ; Jieping Ye ; Yan Liu,,,KDD 2018
+Safe Triplet Screening for Distance Metric Learning,Tomoki Yoshida ; Ichiro Takeuchi ; Masayuki Karasuyama,,,KDD 2018
+Self-Paced Network Embedding,Hongchang Gao ; Heng Huang,,,KDD 2018
+Sketched Follow-The-Regularized-Leader for Online Factorization Machine,Luo Luo ; Wenpeng Zhang ; Zhihua Zhang ; Wenwu Zhu ; Tong Zhang ; Jian Pei,,,KDD 2018
+Coupled Context Modeling for Deep Chit-Chat: Towards Conversations between Human and Computer,Rui Yan ; Dongyan Zhao,,,KDD 2018
+Learning-to-Ask: Knowledge Acquisition via 20 Questions,Yihong Chen ; Bei Chen ; Xuguang Duan ; Jian-Guang Lou ; Yue Wang ; Wenwu Zhu ; Yong Cao,,,KDD 2018
+Multi-Cast Attention Networks,Yi Tay ; Anh Tuan Luu ; Siu Cheung Hui,,,KDD 2018
+Context-aware Academic Collaborator Recommendation,Zheng Liu ; Xing Xie ; Lei Chen,,,KDD 2018
+RAIM: Recurrent Attentive and Intensive Modeling of Multimodal Continuous Patient Monitoring Data,Yanbo Xu ; Siddharth Biswal ; Shriprasad Deshpande ; Kevin Maher ; Jimeng Sun,,,KDD 2018
+Route Recommendations for Idle Taxi Drivers: Find Me the Shortest Route to a Customer!,Nandani Garg ; Sayan Ranu,,,KDD 2018
+Hyperparameter Importance Across Datasets,Jan N. van Rijn ; Frank Hutter,,,KDD 2018
+Classifying and Counting with Recurrent Contexts,Denis Dos Reis (University of S,,,KDD 2018
+Multilevel Wavelet Decomposition Network for Interpretable Time Series Analysis,Jingyuan Wang ; Ze Wang ; Jianfeng Li ; Junjie Wu,,,KDD 2018
+Active Opinion Maximization in Social Networks,Xinyue Liu ; Xiangnan Kong ; Philip Yu,,,KDD 2018
+Identifying Sources and Sinks in the Presence of Multiple Agents with Gaussian Process Vector Calcul,Adam Derek Cobb ; Richard Everett ; Andrew Markham ; Stephen Roberts,,,KDD 2018
+Deep Censored Learning of the Winning Price in the Real Time Bidding,Wush Chi-Hsuan Wu ; Mi-Yen Yeh ; Ming-Syan Chen,,,KDD 2018
+Optimizing cluster-based randomized experiments under monotonicity,Jean Pouget-Abadie ; David Parkes ; Vahab Mirrokni ; Edoardo M. Airoldi,,,KDD 2018
+Learning Credible Models,Jiaxuan Wang ; Jeeheh Oh ; Haozhu Wang ; Jenna Wiens,,,KDD 2018
+Explanation Mining: Post Hoc Interpretability of Latent Factor Models for Recommendation Systems,Georgina Peake ; Jun Wang,,,KDD 2018
+Quantifying and minimizing risk of conflict in social networks,Xi Chen ; Jefrey Lijffijt ; Tijl De Bie,,,KDD 2018
+A Distributed Quasi-Newton Algorithm for Empirical Risk Minimization with Nonsmooth Regularization,Ching-Pei Lee ; Cong Han Lim ; Stephen Wright,,,KDD 2018
+DeepInf: Social Influence Prediction with Deep Learning,Jiezhong Qiu ; Jian Tang ); Hao Ma ; Yuxiao Dong ; Kuansan Wang ; Jie Tang,,,KDD 2018
+An Iterative Global Structure-Assisted Labeled Network Aligner,Abdurrahman Yaşar  and Umit V. Catalyurek,,,KDD 2018
+Discovering Models from Structural and Behavioral Brain Imaging Data,Zilong Bai ; Buyue Qian ; Ian Davidson,,,KDD 2018
+On Discrimination Discovery and Removal in Ranked Data using Causal Graph,Yongkai Wu ; Lu Zhang ; Xintao Wu,,,KDD 2018
+Fairness of Exposure in Rankings,Ashudeep Singh ; Thorsten Joachims,,,KDD 2018
+BagMinHash - Minwise Hashing Algorithm for Weighted Sets,Otmar Ertl,,,KDD 2018
+Enhancing Predictive Modeling of Nested Spatial Data through Group-Level Feature Disaggregation,Boyang Liu ; Pang-Ning Tan ; Jiayu Zhou,,,KDD 2018
+New Incremental Learning Algorithm for  Semi-Supervised  Support Vector Machine,Bin Gu ; Xiao-Tong Yuan ; Songcan Chen ; Heng Huang,,,KDD 2018
+D2K: Scalable Community Detection in Massive Networks via Small-Diameter k-Plexes,Alessio Conte ; Tiziano De Matteis ; Daniele De Sensi ; Roberto Grossi ; Andrea Marino ; Luca Versari,,,KDD 2018
+Butterfly Counting in Bipartite Networks,Seyed-Vahid Sanei-Mehri ; Ahmet Erdem Sariyuce ; Srikanta Tirthapura,,,KDD 2018
+An Empirical Evaluation of Sketching for Numerical Linear Algebra,Yogesh Dahiya ; Dimitris Konomis ; David P. Woodruff,,,KDD 2018
+Deep Multi-Output Forecasting: Learning to Accurately Predict Blood Glucose Trajectories,Ian Fox ; Lynn Ang ; Mamta Jaiswal ; Rodica Pop-Busui ; Jenna Wiens,,,KDD 2018
+Active Search of Connections for Case Building and Combating Human Trafficking,Reihaneh Rabbany ; David Bayani ; Artur Dubrawski,,,KDD 2018
+Not Just Privacy: Improving Performance of Private Deep Learning in Mobile Cloud,Ji Wang ; Jianguo Zhang ; Weidong Bao ; Xiaomin Zhu ; Bokai Cao ; Philip S. Yu,,,KDD 2018
+xStream: Outlier Detection in Feature-Evolving Data Streams,Emaad Ahmed Manzoor ; Hemank Lamba ; Leman Akoglu,,,KDD 2018
+Semi-Supervised Generative Adversarial Network for Gene Expression Inference,Kamran Ghasedi ; Xiaoqian Wang ; Heng Huang,,,KDD 2018
+HiExpan: Task-Guided Taxonomy Construction by Hierarchical Tree Expansion,Jiaming Shen ; Zeqiu Wu ; Dongming Lei ; Chao Zhang ; Xiang Ren ; Michelle T. Vanni ; Brain M. Sadler ; Jiawei Han,,,KDD 2018
+Prediction-time Efficient Classification Using Feature Computational Dependencies,Liang Zhao ; Amir Alipour-Fanid ; Martin Slawski ; Kai Zeng,,,KDD 2018
+Approximating the Spectrum of a Graph,David Cohen-Steiner ; Weihao Kong ; Christian Sohler ; Gregory Valiant,,,KDD 2018
+When Sentiment Analysis Meets Social Network: A Holistic User Behavior Modeling in Opinionated Data,Lin Gong ; Hongning Wang,,,KDD 2018
+Latent variable time-varying network inference,Federico Tomasi ; Veronica Tozzo ; Saverio Salzo ; Alessandro Verri,,,KDD 2018
+Stablizing Reinforcement Learning in Dynamic Environment with Application to Online Recommendation,Shi-Yong Chen ; Yang Yu ; Qing Da ; Jun Tan ; Hai-Kuan Huang ; Hai-Hong Tang,,,KDD 2018
+I Know You’ll Be Back: Interpretable New User Clustering and Churn Prediction on a Mobile Social App,Carl Yang ; Xiaolin Shi ; Jie Luo ; Jiawei Han,,,KDD 2018
+PrePeP – A Tool for the Identification and Characterization of Pan Assay Interference Compounds,Maksim Koptelov ; Albrecht Zimmermann ; Pascal Bonnet ; Ronan Bureau ; Bruno Crémilleux,,,KDD 2018
+Large-Scale Order Dispatch in On-Demand Ride-Sharing Platforms: A Learning and Planning Approach,Zhe Xu ; Zhixin Li ; Qingwen Guan ; Dingshui Zhang ; Qiang Li ; Junxiao Nan ; Chunyang Liu ; Wei Bian ; Jieping Ye,,,KDD 2018
+WattHome: Identifying Energy-Inefficient Homes at City-scale,Srinivasan Iyengar ; Stephen Lee ; David Irwin ; Prashant Shenoy ; Benjamin Weil,,,KDD 2018
+Perceive Your Users in Depth: Learning Universal User Representations from Multiple E-commerce Tasks,Yabo Ni ; Dan Ou ; Shichen Liu ; Xiang Li ; Wenwu Ou ; Anxiang Zeng ; Luo Si,,,KDD 2018
+E-tail product return prediction via hypergraph-based local graph cut,Jianbo Li ; Jingrui He ; Yada Zhu,,,KDD 2018
+Customized Regression Model for Airbnb Dynamic Pricing,Peng Ye ; Julian Qian ; Jieying Chen ; Chen-Hung Wu ; Yitong Zhou ; Spencer De Mars ; Frank Yang ; Li Zhang,,,KDD 2018
+TATC: Predicting Alzheimer’s Disease with Actigraphy Data,Jia Li ; Yu Rong ; Helen Meng ; Zhihui Lu ; Timothy Kwok ; Hong Cheng,,,KDD 2018
+Automatic Discovery of Tactics in Spatio-Temporal Soccer Match Data,Tom Decroos ; Jan Van Haaren ; Jesse Davis,,,KDD 2018
+Corpus Conversion Service: A machine learning platform to ingest documents at scale.,Peter W J Staar ; Michele Dolfi ; Christoph Auer ; Costas Bekas,,,KDD 2018
+Using Machine Learning to Assess the Risk of and Prevent Water Main Breaks,Avishek Kumar ; Syed Ali Asad Rizvi ; Benjamin Brooks ; Ali Vanderveld ; Kevin Hayes Wilson ; Chad Kenney ; Adria Finch ; Andrew Maxwell ; Sam Edelstein ; Joe Zuckerbraun ; Rayid Ghani,,,KDD 2018
+Using Rule-Based Labels for Weak Supervised Learning: A ChemNet for Transferable Chemical Property P,Garrett Goh ; Charles Siegel ; Abhinav Vishnu ; Nathan Hodas,,,KDD 2018
+OpenTag: Open Attribute Value Extraction from Product Profiles,Guineng Zheng ; Subhabrata Mukherjee ; Xin Luna Dong ; Feifei Li,,,KDD 2018
+Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding,Kyle Hundman ; Valentino Constantinou ; Christopher Laporte ; Ian Colwell ; Tom Soderstrom,,,KDD 2018
+Online Parameter Selection for Web-based Ranking Problems,Deepak Agarwal ; Kinjal Basu ; Souvik Ghosh ; Ying Xuan ; Yang Yang ; Liang Zhang,,,KDD 2018
+Rare Query Expansion Through Generative Adversarial Networks in Search Advertising,Mu-Chu Lee ; Bin Gao ; Ruofei Zhang,,,KDD 2018
+Learning and Transferring IDs Representation in E-commerce,Kui Zhao ; Yuechuan Li ; Zhaoqian Shuai ; Cheng Yang,,,KDD 2018
+Collaborative Deep Metric Learning for Video Understanding,Joonseok Lee ; Sami Abu-El-Haija ; Balakrishnan Varadarajan ; Paul Natsev,,,KDD 2018
+"Name Disambiguation in AMiner: Clustering, Maintenance, and Human in the Loop",Yutao Zhang ; Fanjin Zhang ; Peiran Yao ; Jie Tang,,,KDD 2018
+False Discovery Rate Controlled Heterogeneous Treatment Effect Detection for Online Controlled Exper,Yuxiang Xie ; Nanyu Chen ; Xiaolin Shi,,,KDD 2018
+Rosetta: Large scale system for text detection and recognition in images,Fedor Borisyuk ; Albert Gordo ; Viswanath Sivakumar,,,KDD 2018
+Estimating Glaucomatous Visual Sensitivity from Retinal Thickness by Using Pattern-Based Regularizat,Hiroki Sugiura ; Taichi Kiwaki ; Siamak Yousefi ; Hiroshi Murata ; Ryo Asaoka ; Kenji Yamanishi,,,KDD 2018
+Explaining Aviation Safety Incidents Using Deep Temporal Multiple Instance Learning,Vijay Manikandan Janakiraman,,,KDD 2018
+Towards station-level demand prediction for effective rebalancing in bike-sharing systems,Pierre Hulot ; Daniel Aloise ; Sanjay Jena,,,KDD 2018
+Du-Parking: Spatio-Temporal Big Data Tells You Realtime Parking Availability,Yuecheng Rong ; Zhimian Xu ; Ruibo Yan ; Xu Ma,,,KDD 2018
+Near real-time optimization of activity-based notifications,Yan Gao ; Viral Gupta ; Jinyun Yan ; Changji Shi ; Zhongen Tao ; Pj Xiao ; Curtis Wang ; Shipeng Yu ; Romer Rosales ; Ajith Muralidharan ; Shaunak Chatterjee,,,KDD 2018
+Accelerating Prototype-Based Drug Discovery using Conditional Diversity Networks,Shahar Harel ; Kira Radinsky,,,KDD 2018
+Releasing eHealth Analytics into the Wild: Lessons Learnt from the SPHERE Project,Tom Diethe ; Mike Holmes ; Meelis Kull ; Miquel Perello Nieto ; Kacper Sokol ; Hao Song ; Emma Tonkin ; Niall Twomey ; Peter Flach,,,KDD 2018
+Real-time Personalization using Embeddings for Search Ranking at Airbnb,Mihajlo Grbovic ; Haibin Cheng,,,KDD 2018
+Detecting Illegal Vehicle Parking Events using Sharing Bikes’ Trajectories,Tianfu He ; Jie Bao ; Ruiyuan Li ; Sijie Ruan ; Yanhua Li ); Chao Tian ; Yu Zheng,,,KDD 2018
+Graph Convolutional Neural Networks for Web-Scale Recommender Systems,Rex Ying ; Ruining He ; Kaifeng Chen ; Pong Eksombatchai ; William L. Hamilton ; Jure Leskovec,,,KDD 2018
+Audience Size Forecasting: Fast and Smart Budget Planning for Media Buyers,Yeming Shi ; Claudia Perlich ; Rod Hook,,,KDD 2018
+Q&R: A Two-Stage Approach Toward Interactive Recommendation,Konstantina Christakopoulou ; Alex Beutel ; Rui Li ; Sagar Jain ; Ed H. Chi,,,KDD 2018
+"ActiveRemediation: The Search for Lead Pipes in Flint, Michigan",Jacob Abernethy ; Alex Chojnacki ; Arya Farahi ; Eric Schwartz ; Jared Webb,,,KDD 2018
+Winner’s Curse: Bias Estimation for Total Effects of Features in Online Controlled Experiments,Minyong Lee ; Milan Shen,,,KDD 2018
+Detection of Apathy in Alzheimer Patients by Analysing Visual Scanning Behaviour with RNNs,Jonathan Chung ; Sarah A. Chau ; Nathan Herrmann ; Krista L. Lanctôt ; Moshe Eizenman,,,KDD 2018
+A Dynamic Pipeline for Spatio-Temporal Fire Risk Prediction,Bhavkaran Singh Walia ; Qianyi Hu ; Jeffrey Chen ; Fangyan Chen ; Jessica Lee ; Nathan Kuo ; Palak Narang ; Jason Batts ; Geoffrey Arnold ; Michael Madaio,,,KDD 2018
+Optimization of a SSP’s Header Bidding Strategy using Thompson Sampling,"Grégoire Jauvion , Nicolas Grislain , Pascal Dkengne Sielenou , Aurélien Garivier , and Sébastien Gerchinovitz",,,KDD 2018
+Applying the Delta method in metric analytics: A practical guide with novel ideas,Alex Deng ; Ulf Knoblich ; Jiannan Lu,,,KDD 2018
+Where Will Dockless Shared Bikes be Stacked?—- Parking Hotspots Detection in a New City,Zhaoyang Liu ; Yanyan Shen ; Yanmin Zhu,,,KDD 2018
+Visual Search at Alibaba,Yanhao Zhang ; Pan Pan ; Yun Zheng ; Kang Zhao ; Yingya Zhang ; Xiaofeng Ren ; Rong Jin,,,KDD 2018
+Deep Distributed Fusion Network for Air Quality Prediction,Xiuwen Yi ; Junbo Zhang ; Zhaoyuan Wang ; Tianrui Li ; Yu Zheng,,,KDD 2018
+Deep Interest Network for Click-Through Rate Prediction,Guorui Zhou ; Xiaoqiang Zhu ; Chengru Song ; Kun Gai ; Ying Fan ; Han Zhu ; Xiao Ma ; Yanghui Yan ; Junqi Jin ; Han Li,,,KDD 2018
+Learning Tree-based Deep Model for Recommender Systems,Han Zhu ; Xiang Li ; Pengye Zhang ; Guozheng Li ; Jie He ; Han Li ; Kun Gai,,,KDD 2018
+An Extensible Event Extraction System With Cross-Media Event Resolution,Fabio Petroni ; Natraj Raman ; Timothy Nugent ; Armineh Nourbakhsh ; Zarko Panic ; Sameena Shah ; Jochen L. Leidner,,,KDD 2018
+Dynamic Pricing under Competition on Online Marketplaces: A Data-Driven Approach,Rainer Schlosser ; Martin Boissier,,,KDD 2018
+PittGrub: A Frustration-Free System to Reduce Food Waste by Notifying Hungry College Students,Mark Silvis ; Anthony Sicilia ; Alexandros Labrinidis,,,KDD 2018
+Autotune: A Derivative-free Optimization Framework for Hyperparameter Tuning,Patrick Koch ; Oleg Golovidov ; Steven Gardner ; Brett Wujek ; Joshua Griffin ; Yan Xu,,,KDD 2018
+Improving Box Office Result Predictions for Movies Using Consumer-Centric Models,"Rui Paulo Ruhrländer, Martin Boissier, Matthias Uflacker",,,KDD 2018
+State space models for forecasting water quality variables: An application in aquaculture prawn farm,Joel Dabrowski ; Ashfaqur Rahman ; Andrew George ; Stuart Arnold ; John McCulloch,,,KDD 2018
+Lessons Learned from Developing and Deploying a Large-Scale Employer Name Normalization System for O,Qiaoling Liu ; Josh Chao ; Thomas Mahoney ; Chris Min ; Faizan Javed ; Alan Chern ; Valentin Jijkoun,,,KDD 2018
+Web-Scale Responsive Visual Search at Bing,Houdong Hu ; Yan Wang ; Linjun Yang ; Pavel Komlev ; Li Huang ; Xi Stephen Chen ; Jiapei Huang ; Ye Wu ; Meenaz Merchant ; Arun Sacheti,,,KDD 2018
+Distributed Collaborative Hashing and Its Applications in Ant Financial,Chaochao Chen ; Ziqi Liu ; Peilin Zhao ; Longfei Li ; Jun Zhou ; Xiaolong Li,,,KDD 2018
+"Reinforcement Learning to Rank in E-Commerce Search Engine: Formalization, Analysis, and Application",Yujing Hu ; Qing Da ; Anxiang Zeng ; Yang Yu ; Yinghui Xu,,,KDD 2018
+Next-Step Suggestions for Modern Interactive Data Analysis Platforms,Amit Somech ; Tova Milo,,,KDD 2018
+COTA: Improving the Speed and Accuracy of Customer Support through Ranking and Deep Networks,Piero Molino ; Huaixiu Zheng ; Yi-Chia Wang,,,KDD 2018
+Device Graphing by Example,Keith Funkhouser ; Matthew Malloy ; Enis Ceyhun Alp ; Phillip Poon ; Paul Barford,,,KDD 2018
+Multimodal Sentiment Analysis To Explore the Structure of Emotions,Anthony Hu ; Seth Flaxman,,,KDD 2018
+SDREGION: fast spotting of changing communities in biological networks,Serene W.H. Wong ; Chiara Pastrello ; Max Kotlyar ; Christos Faloutsos ; Igor Jurisica,,,KDD 2018
+RapidScorer: Fast Tree Ensemble Evaluation by Maximizing Compactness in Data Level Parallelization,Ting Ye ; Hucheng Zhou ; Will Zou ; Bin Gao ; Ruofei Zhang,,,KDD 2018
+A real-time framework for detecting efficiency regressions in a globally distributed codebase,Martin Valdez-Vivas ; Caner Gocmen ; Andrii Korotkov ; Ethan Fang ; Kapil Goenka ; Sherry Chen,,,KDD 2018
+Gotcha - Sly Malware! Scorpion: A Metagraph2vec Based Malware Detection System,Yujie Fan ; Shifu Hou ; Yiming Zhang ; Yanfang Ye ; Melih Abdulhayoglu,,,KDD 2018
+Career Transitions and Trajectories: A Case Study in Computing,Tara Safavi ; Maryam Davoodi ; Danai Koutra,,,KDD 2018
+Fatigue Prediction in Outdoor Runners Via Machine Learning and Sensor Fusion,"Tim Op De Beéck, Wannes Meert, Kurt Schütte, Benedicte Vanwanseele, Jesse Davis",,,KDD 2018
+Inferring Metapopulation Propagation Network for Intra-city Epidemic Control and Prevention,Jingyuan Wang ; Xiaojian Wang ; Junjie Wu,,,KDD 2018
+"BigIN4: Instant, Interactive Insight Identification for Multi-Dimensional Big Data",Qingwei Lin ; Weichen Ke ; Jian-Guang Lou ; Hongyu Zhang ; Kaixin Sui ; Yong Xu ; Ziyi Zhou ; Bo Qiao ; Dongmei Zhang,,,KDD 2018
+Managing Computer-Assisted Detection System Based on Transfer Learning with Negative Transfer Inhibi,Issei Sato ; Yukihiro Nomura ; Shouhei Hanaoka ; Soichiro Miki ; Naoto Hayashi ; Osamu Abe ; Yoshitaka Masutani,,,KDD 2018
+Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba,Jizhe Wang ; Pipei Huang ; Huan Zhao ; Zhibo Zhang ; Binqiang Zhao ; Dik Lun Lee,,,KDD 2018
+Multi-Task Learning with Neural Networks for Voice Query Understanding on an Entertainment Platform,Jinfeng Rao ; Ferhan Ture ; Jimmy Lin,,,KDD 2018
+A Data-Driven Three-Layer Algorithm for Split Delivery Vehicle Routing Problem with 3D Container Loa,Xijun Li ; Mingxuan Yuan ; Di Chen ; Jianguo Yao ; Jia Zeng,,,KDD 2018
+Predicting Estimated Time of Arrival for Commercial Flights,Samet Ayhan ; Pablo Costas ; Hanan Samet,,,KDD 2018
+"SQR: Balancing Speed, Quality and Risk in Online Experiments",Ya Xu ; Weitao Duan ; Shaochen Huang,,,KDD 2018
+Optimal Allocation of Real-Time-Bidding And Direct Campaigns,Gre?goire Jauvion ; Nicolas Grislain,,,KDD 2018
+Tax fraud detection for under-reporting declarations using an unsupervised machine learning approach,Daniel de Roux ; Boris P,,,KDD 2018
+Dynamic Recommendations for Sequential Hiring Decisions in Online Labor Markets,Marios Kokkodis,,,KDD 2018
+Assessing Candidate Preference through Web Browsing History,Giovanni Comarela (Universidade Federal de Vi,,,KDD 2018
+Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning,Xiangyu Zhao ; Liang Zhang ; Zhuoye Ding ; Long Xia ; Jiliang Tang ; Dawei Yin,,,KDD 2018
+Product characterisation towards personalisation: Learning attributes from unstructured data to reco,Angelo Cardoso ; Fabio Daolio ; Sa,,,KDD 2018
+A Scalable Solution for Rule-Based Part-of-Speech Tagging on Novel Hardware Accelerators,Elaheh Sadredini ; Deyuan Guo ; Chunkun Bo ; Reza Rahimi ; Hongning Wang ; Kevin Skadron,,,KDD 2018
+Buy It Again: Modeling Repeat Purchase Recommendations,Rahul Bhagat ; Srevatsan Muralidharan ; Alex Lobzhanidze ; Shankar Vishwanath,,,KDD 2018
+Adaptive Paywall Mechanism for Digital News Media,Heidar Davoudi ; Aijun An ; Morteza Zihayat ; Gordon Edall,,,KDD 2018
+Deep Sequence Learning with Auxiliary Information for Traffic Prediction,Binbing Liao ; Jingqing Zhang ; Chao Wu ; Douglas McIlwraith ; Tong Chen ; Shengwen Yang ; Yike Guo ; Fei Wu,,,KDD 2018
+Scalable Query N-Gram Embedding for Improving Matching and Relevance in Sponsored Search,Xiao Bai ; Erik Ordentlich ; Yuanyuan Zhang ; Andy Feng ; Adwait Ratnaparkhi ; Reena Somvanshi ; Aldi Tjahjadi,,,KDD 2018
+Scalable Optimization for Embedding Highly-Dynamic and Recency-Sensitive Data,Xumin Chen ; Peng Cui ; Shiqiang Yang,,,KDD 2018
+Pangloss: Fast Entity Linking in Noisy Text Environments,Michael Conover ; Scott Blackburn ; Matthew Hayes ; Pete Skomoroch ; Sam Shah,,,KDD 2018
+Learning to Estimate the Travel Time,Zheng Wang ; Kun Fu ; Jieping Ye,,,KDD 2018
+Anatomy of a Privacy-Safe Large-Scale Information Extraction System Over Email,Ying Sheng ; Sandeep Tata ; James B. Wendt ; Jing Xie ; Qi Zhao ; Marc Najork,,,KDD 2018
+Exploring Student Check-In Behavior for Improved Point-of-Interest Prediction,Mengyue Hang ; Ian Pytlarz ; Jennifer Neville,,,KDD 2018
+EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection,Yaqing Wang ; Fenglong Ma ; Zhiwei Jin ; Ye Yuan ; Guangxu Xun ; Kishlay Jha ; Lu Su ; Jing Gao,,,KDD 2018
+Interpretable Representation Learning for Healthcare via Capturing Disease Progression through Time,Tian Bai ; Shanshan Zhang ; Brian Egleston ; Slobodan Vucetic,,,KDD 2018
+Notification Volume Control and Optimization System at Pinterest,Bo Zhao ; Koichiro Narita ; Burkay Orten ; John Egan,,,KDD 2018
+Deep Learning for Practical Image Recognition: Case Study on Kaggle Competitions,Xulei Yang ; Zeng Zeng ; Sin Teo ; Li Wang ; Vijay Chandrasekhar ; Steven Hoi,,,KDD 2018
+Identify Susceptible Locations in Medical Records via Adversarial Attacks on Deep Predictive Models,Mengying Sun ; Fengyi Tang ; Jinfeng Yi ; Fei Wang ; Jiayu Zhou,,,KDD 2018
+"Shield: Fast, Practical Defense and Vaccination for Deep Learning using JPEG Compression",Nilaksh Das ; Madhuri Shanbhogue ; Shang-Tse Chen ; Fred Hohman ; Siwei Li ; Li Chen ; Michael E. Kounavis ; Duen Horng Chau,,,KDD 2018
+Deploying Machine Learning Models for Public Policy: A Framework,Klaus Ackermann ; Joe Walsh ; Adolfo De Una?nue ; Hareem Naveed ; Andrea Navarrete Rivera ; Sun-Joo Lee ; Jason Bennett ; Michael Defoe ; Crystal Cody ; Lauren Haynes ; Rayid Ghani,,,KDD 2018
+Detection of Paroxysmal Atrial Fibrillation using Attention based Bidirectional Recurrent Neural Net,Supreeth Prajwal Shashikumar ; Amit Shah ; Gari Clifford ; Shamim Nemati,,,KDD 2018
+Active Deep Learning To Tune Down the Noise in Labels,Karan Samel ; Xu Miao,,,KDD 2018
+Resolving Abstract Anaphora in Conversational Assistants using a Hierarchically-stacked RNN,Prerna Khurana ; Puneet Agarwal ; Gautam Shroff ; Lovekesh Vig,https://www.kdd.org/kdd2018/accepted-papers/view/resolving-pdftract-anaphora-in-conversational-assistants-using-a-hierarchic,,KDD 2018
+Mobile access record resolution on large-scale identifier-linkage graphs,Shen Xin ; Weizhao Xian ; Martin Ester ; Hongxia Yang ; Zhongyao Wang ; Jiajun Bu ; Can Wang,,,KDD 2018
+Towards Knowledge Discovery from the Vatican Secret Archives. In Codice Ratio,Donatella Firmani ; Marco Maiorino ; Paolo Merialdo (Universit,,,KDD 2018
+Deep Reinforcement Learning for Sponsored Search Real-time Bidding,Jun Zhao ; Guang Qiu ; Ziyu Guan ; Wei Zhao ; Xiaofei He,,,KDD 2018
+How LinkedIn Economic Graph Bonds Information and Product: Applications in LinkedIn Salary,Xi Chen ; Yiqun Liu ; Liang Zhang ; Krishnaram Kenthapadi,,,KDD 2018
+Hetero-ConvLSTM: A Deep Learning Approach to Traffic Accident Prediction on Heterogeneous Spatio-Tem,Zhuoning Yuan ; Xun Zhou ; Tianbao Yang,,,KDD 2018
+Automated Audience Segmentation Using Reputation Signals,"Maria Daltayanni , Ali Dasdan , Luca de Alfaro",,,KDD 2018
+Infrastructure Quality Assessment in Africa using Satellite Imagery and Deep Learning,Barak Oshri ; Annie Hu ; Peter Adelson ; Xiao Chen ; Pascaline Dupas ; Jeremy Weinstein ; Marshall Burke ; David Lobell ; Stefano Ermon,,,KDD 2018
+NGUARD: A Game Bot Detection Framework for NetEase MMORPGs,Jianrong Tao ; Jiarong Xu ; Linxia Gong ; Yifu Li ; Changjie Fan ; Zhou Zhao,,,KDD 2018
+Rotation-Blended CNNs on a New Open Dataset for Tropical Cyclone Image-to-intensity Regression,Boyo Chen ; Buofu Chen ; Hsuan-Tien Lin,,,KDD 2018
+Accelerating Large-Scale Data Analysis by Offloading to High-Performance Computing Libraries using A,Alex Gittens ; Kai Rothauge ; Shusen Wang ; Michael Mahoney ; Lisa Gerhardt ; Prabhat ; Jey Kottalam ; Michael Ringenburg ; Kristyn Maschhoff,,,KDD 2018
+MIX: Multi-Channel Information Crossing for Text Matching,Haolan Chen ; Fred X. Han ; Di Niu ; Dong Liu ; Kunfeng Lai ; Chenglin Wu ; Yu Xu,,,KDD 2018
+Discovering latent patterns of urban cultural interactions in WeChat for modern city planning,Xiao Zhou ; Anastasios Noulas ; Cecilia Mascolo ; Zhongxiang Zhao,,,KDD 2018
+Learning Tasks for Multitask Learning: Heterogenous Patient Populations in the ICU,Harini Suresh ; Jen Gong ; John Guttag,,,KDD 2018
+StepDeep: A Novel Spatial-temporal Mobility Event Prediction Framework based on Deep Neural Network,Bilong Shen ; Xiaodan Liang ; Yufeng Ouyang ; Miaofeng Liu ; Weimin Zheng ; Kathleen Carley,,,KDD 2018

@@ -1,0 +1,125 @@
+title,authors,pdf_link,code_url,conference_name
+"Multi-­‐Domain  Multi-­‐Task  Rehearsal  for  Lifelong  Learning  Fan  Lyu,  Shuai  Wang,  Wei  Feng,  Zihan  Ye,  Fuyuan  Hu,  Song  Wang    26","1  AAAI-­‐21  Accepted  Papers  —  Main  Technical  Track    Main  Track  (The  list  of  accepted  appers  for  the  Special  Track  on  AI  for  Social  Impact  appears  at  the  end  of  this  document,  beginning  on  page  121.)    4",,,AAAI 2021
+"Interpretable  Embedding  Procedure  Knowledge  Transfer  via  Stacked  Principal  Component  Analysis  and  Graph  Neural  Network  Seunghyun  Lee,  Byung  Cheol  Song    83",2    80,,,AAAI 2021
+"Comprehension  and  Knowledge  Pavel  Naumov,  Kevin  Ros    149",3    147,,,AAAI 2021
+"Rain  Streak  Removal  via  Dual  Graph  Convolutional  Network  Xueyang  Fu,  Qi  Qi,  Yurui  Zhu,  Xinghao  Ding,  Zheng-­‐Jun  Zha    233",4    228,,,AAAI 2021
+"Optimizing  Information  Theory  Based  Bitwise  Bottlenecks  for  Efficient  Mixed-­‐Precision  Activation  Quantization  Xichuan  Zhou,  Kui  Liu,  Cong  Shi,  Haijun  Liu,  Ji  Liu    299","5  Mengying  Fu,  Tianning  Yuan,  Fang  Wan,  Songcen  Xu,  Qixiang  Ye    296",,,AAAI 2021
+"Dual  Quaternion  Knowledge  Graph  Embeddings  Zongsheng  Cao,  Qianqian  Xu,  Zhiyong  Yang,  Xiaochun  Cao,  Qingming  Huang    397",6  393,,,AAAI 2021
+FedRec++,7    444,,,AAAI 2021
+"Learning  Intact  Features  by  Erasing-­‐Inpainting  for  Few-­‐Shot  Classification  Junjie  Li,  Zilei  Wang,  Xiaoming  Hu    542","8  Xi  Ai,  Bin  Fang    540",,,AAAI 2021
+"Sparse  Single  Sweep  LiDAR  Point  Cloud  Segmentation  via  Learning  Contextual  Shape  Priors  from  Scene  Completion  Xu  Yan,  Jiantao  Gao,  Jie  Li,  Ruimao  Zhang,  Zhen  Li,  Rui  Huang,  Shuguang  Cui    606",9  605,,,AAAI 2021
+Justicia,"10  Julien  Grand  Clement,  Christian  Kroer    678",,,AAAI 2021
+LREN,11  766,,,AAAI 2021
+SPIN,"12  Ting  Gan,  Keqi  Han,  Hao  Huang,  Shi  Ying,  Yunjun  Gao,  Zongpeng  Li    861",,,AAAI 2021
+"Enhanced  Audio  Tagging  via  Multi-­‐  to  Single-­‐Modal  Teacher-­‐Student  Mutual  Learning  Yifang  Yin,  Harsh  Shrivastava,  Ying  Zhang,  Zhenguang  Liu,  Rajiv  Ratn  Shah,  Roger  Zimmermann    932",13  920,,,AAAI 2021
+"Confidence-­‐Aware  Non-­‐Repetitive  Multimodal  Transformers  for  TextCaps  Zhaokai  Wang,  Renda  Bao,  Qi  Wu,  Si  Liu    1041",14    1029,,,AAAI 2021
+Deep  Verifier  Networks,15  1079,,,AAAI 2021
+CompFeat,16    1143,,,AAAI 2021
+TDAF,"17  Zhigang  Li,  Yinlin  Hu,  Mathieu  Salzmann,  Xiangyang  Ji    1250",,,AAAI 2021
+HR-­‐Depth,"18  Alessandro  Artale,  Jean  Jung,  Andrea  Mazzullo,  Ana  Ozaki,  Frank  Wolter    1315",,,AAAI 2021
+Efficient  Object-­‐Level  Visual  Context  Modeling  for  Multimodal  Machine  Translation,19    1370,,,AAAI 2021
+"Simple  or  Complex?  Learning  to  Predict  Readability  of  Bengali  Texts  Susmoy  Chakraborty,  Mir  Tafseer  Nayeem,  Wasi  U  Ahmad    1434",20  1432,,,AAAI 2021
+MVFNet,"21  Seonhoon  Kim,  Seohyeong  Jeong,  Eunbyul  Kim,  Inho  Kang,  Nojun  Kwak    1523",,,AAAI 2021
+GradingNet,22  1612,,,AAAI 2021
+Ranking  Sets  of  Defeasible  Elements  in  Preferential  Approaches  to  Structured  Argumentation,23  1657,,,AAAI 2021
+"Natural  Language  Inference  in  Context  -­‐  Investigating  Contextual  Reasoning  over  Long  Texts  Hanmeng  Liu,  Leyang  Cui,  Jian  Liu,  Yue  Zhang    1808",24  1807,,,AAAI 2021
+DAST,25    1909,,,AAAI 2021
+"Coupled  Layer-­‐Wise  Graph  Convolution  for  Transportation  Demand  Prediction  Junchen  Ye,  Leilei  Sun,  Bowen  Du,  Yanjie  Fu,  Hui  Xiong    2005",26    2002,,,AAAI 2021
+"Combining  Reinforcement  Learning  with  Lin-­‐Kernighan-­‐Helsgaun  Algorithm  for  the  Traveling  Salesman  Problem  Jiongzhi  Zheng,  Kun  He,  Jianrong  Zhou,  Yan  Jin,  Chumin  Li    2105",27  2088,,,AAAI 2021
+PC-­‐HMR,28  2164,,,AAAI 2021
+"Better  Bounds  on  the  Adaptivity  Gap  of  Influence  Maximization  under  Full-­‐Adoption  Feedback  Gianlorenzo  D'Angelo,  Debashmita  Poddar,  Cosimo  Vinci    2240","29  Zhongxuan  Cai,  Minglong  Li,  Wanrong  Huang,  Wenjing  Yang    2239",,,AAAI 2021
+"On  the  Complexity  of  Finding  Justifications  for  Collective  Decisions  Arthur  Boixel,  Ronald  de  Haan    2308",30    2303,,,AAAI 2021
+"Learning  with  Group  Noise  Qizhou  Wang,  Jiangchao  Yao,  Chen  Gong,  Tongliang  Liu,  Mingming  Gong,  Hongxia  Yang,  Bo  Han    2377",31  2372,,,AAAI 2021
+"Modeling  Voters  in  Multi-­‐Winner  Approval  Voting  Jaelle  Scheuerman,  Jason  Harman,  Nicholas  Mattei,  Brent  Venable    2453",32  2450,,,AAAI 2021
+"Accelerated  Combinatorial  Search  for  Outlier  Detection  with  Provable  Bound  on  Sub-­‐Optimality  Guihong  Wan,  Haim  Schweitzer    2584","33  Gengwei  Zhang,  Yiming  Gao,  Hang  Xu,  Hao  Zhang,  Zhenguo  Li,  Xiaodan  Liang    2583",,,AAAI 2021
+"Learning  Geometry-­‐Disentangled  Representation  for  Complementary  Understanding  of  3D  Object  Point  Cloud  Mutian  Xu,  Junhao  Zhang,  Zhipeng  Zhou,  Mingye  Xu,  Xiaojuan  Qi,  Yu  Qiao    2662",34  2650,,,AAAI 2021
+Quantification  of  Resource  Production  Incompleteness  Yakoub  Salhi    2750,"35  Matt  Chapman-­‐Rounds,  Umang  Bhatt,  Erik  Pazos,  Marc-­‐Andre  Schulz,  Konstantinos  Georgatzis    2742",,,AAAI 2021
+Semi-­‐Supervised  Node  Classification  on  Graphs,36  2805,,,AAAI 2021
+"The  Complexity  Landscape  of  Claim-­‐Augmented  Argumentation  Frameworks  Wolfgang  Dvorak,  Alexander  Greßler,  Anna  Rapberger,  Stefan  Woltran    2885",37  2881,,,AAAI 2021
+"Semi-­‐Supervised  Sequence  Classification  through  Change  Point  Detection  Nauman  Ahad,  Mark  Davenport    2969",38    2967,,,AAAI 2021
+"Depth  Privileged  Object  Detection  in  Indoor  Scenes  via  Deformation  Hallucination  Zhijie  Zhang,  Yan  Liu,  Junjie  Chen,  Li  Niu,  Liqing  Zhang    3021",39    3018,,,AAAI 2021
+"Learning  Omni-­‐Frequency  Region-­‐Adaptive  Representations  for  Real  Image  Super-­‐Resolution  Xin  Li,  Xin  Jin,  Tao  Yu,  Simeng  Sun,  Yingxue  Pang,  Zhizheng  Zhang,  Zhibo  Chen    3090",40  3085,,,AAAI 2021
+"Adaptive  Prior-­‐Dependent  Correction  Enhanced  Reinforcement  Learning  for  Natural  Language  Generation  Wei  Cheng,  Ziyan  Luo,  Qiyue  Yin    3196",41  3193,,,AAAI 2021
+"On-­‐the-­‐Fly  Synthesis  for  LTL  over  Finite  Traces  Shengping  Xiao,  Jianwen  Li,  Shufang  Zhu,  Yingying  Shi,  Geguang  Pu,  Moshe  Vardi    3268",42    3263,,,AAAI 2021
+"Uncertainty-­‐Aware  Multi-­‐View  Representation  Learning  Yu  Geng,  Zongbo  Han,  Changqing  Zhang,  Qinghua  Hu    3370","43  Tiancai  Wang,  Tong  Yang,  Jiale  Cao,  Xiangyu  Zhang    3365",,,AAAI 2021
+"Deep  Mutual  Information  Maximin  for  Cross-­‐Modal  Clustering  Yiqiao  Mao,  Xiaoqiang  Yan,  Qiang  Guo,  Yangdong  Ye    3447",44    3446,,,AAAI 2021
+"Budget  Feasible  Mechanisms  over  Graphs  Xiang  Liu,  Weiwei  Wu,  Minming  Li,  Wanyuan  Wang    3530",45    3527,,,AAAI 2021
+"Exploiting  Diverse  Characteristics  and  Adversarial  Ambivalence  for  Domain  Adaptive  Segmentation  Bowen  Cai,  Huan  Fu,  Rongfei  Jia,  Binqiang  Zhao,  Hua  Li,  Yinghui  Xu    3649",46  3648,,,AAAI 2021
+"Hierarchical  Coherence  Modeling  for  Document  Quality  Assessment  Dongliang  Liao,  Jin  Xu,  Gongfu  Li,  Yiru  Wang    3708","47  Zihao  Fu,  Wai  Lam,  Anthony  Man-­‐Cho  So,  Bei  Shi    3697",,,AAAI 2021
+"Fairness,  Semi-­‐Supervised  Learning,  and  More",48    3769,,,AAAI 2021
+"Sample-­‐Specific  Output  Constraints  for  Neural  Networks  Mathis  Brosowsky,  Florian  Keck,  Olaf  Dünkel,  Marius  Zöllner    3843",49  3840,,,AAAI 2021
+"Scalable  and  Safe  Multi-­‐Agent  Motion  Planning  with  Nonlinear  Dynamics  and  Bounded  Disturbances  Jingkai  Chen,  Jiaoyang  Li,  Chuchu  Fan,  Brian  C  Williams    3955","50  Doyup  Lee,  Yeongjae  Cheon,  Wook-­‐Shin  Han    3952",,,AAAI 2021
+"Train  a  One-­‐Million-­‐Way  Instance  Classifier  for  Unsupervised  Visual  Representation  Learning  Yu  Liu,  Lianghua  Huang,  Pan  Pan,  Bin  Wang,  Yinghui  Xu,  Rong  Jin    4093",51  4067,,,AAAI 2021
+"Unsupervised  3D  Learning  for  Shape  Analysis  via  Multiresolution  Instance  Discrimination  Peng-­‐Shuai  Wang,  Yuqi  Yang,  Qianfang  Zou,  Zhirong  Wu,  Yang  Liu,  Xin  Tong    4220",52    4214,,,AAAI 2021
+Algebra  of  Modular  Systems,53  4293,,,AAAI 2021
+"Interpreting  Deep  Neural  Networks  with  Relative  Sectional  Propagation  by  Analyzing  Comparative  Gradients  and  Hostile  Activations  Woo  Jeoung  Nam,  Jaesik  Choi,  Seong-­‐Whan  Lee    4355",54  4349,,,AAAI 2021
+"Alternative  Baselines  for  Low-­‐Shot  3D  Medical  Image  Segmentation-­‐-­‐-­‐An  Atlas  Perspective  Shuxin  Wang,  Shilei  Cao,  Dong  Wei,  Cong  Xie,  Kai  Ma,  Liansheng  Wang,  Deyu  Meng,  Yefeng  Zheng    4492","55  Qingyang  Wu,  Lei  Li,  Zhou  Yu    4491",,,AAAI 2021
+"Progressive  Multi-­‐Task  Learning  with  Controlled  information  Flow  for  Joint  Entity  and  Relation  Extraction  Kai  Sun,  Richong  Zhang,  Samuel  A.  Mensah,  Yongyi  Mao,  Xudong  Liu    4620",56  4619,,,AAAI 2021
+MASKER,"57  Joel  Veness,  Tor  Lattimore,  David  Budden,  Avishkar  Bhoopchand,  Christopher  Mattern,  Agnieszka  Grabska-­‐Barwinska,  Eren  Sezener,  Jianan  Wang,  Peter  Toth,  Simon  Schmitt,  Marcus  Hutter    4726",,,AAAI 2021
+"Progression  Heuristics  for  Planning  with  Probabilistic  LTL  Constraints  Ian  Mallett,  Sylvie  Thiebaux,  Felipe  Trevizan    4893","58  Huan  Li,  Ping  Wei,  Ping  Hu    4876",,,AAAI 2021
+Signaling  in  Bayesian  Network  Congestion  Games,59    4968,,,AAAI 2021
+How  Do  We  Move,"60  Haotian  Fu,  Hongyao  Tang,  Jianye  Hao,  Chen  Chen,  Xidong  Feng,  Dong  Li,  Wulong  Liu    5009",,,AAAI 2021
+"Graph  Neural  Network-­‐Based  Anomaly  Detection  in  Multivariate  Time  Series  Ailin  Deng,  Bryan  Hooi    5077","61  Huong  Ha,  Sunil  Gupta,  Santu  Rana,  Svetha  Venkatesh    5076",,,AAAI 2021
+"Commonsense  Knowledge  Aware  Concept  Selection  for  Diverse  and  Informative  Visual  Storytelling  Hong  Chen,  Yifei  Huang,  Hiroya  Takamura,  Hideki  Nakayama    5116",62  5111,,,AAAI 2021
+"Parameterized  Complexity  of  Small  Decision  Tree  Learning  Sebastian  Ordyniak,  Stefan  Szeider    5186",63    5178,,,AAAI 2021
+"Joint-­‐Label  Learning  by  Dual  Augmentation  for  Time  Series  Classification  Qianli  Ma,  Zhenjing  Zheng,  Jiawei  Zheng,  Sen  Li,  Wanqing  Zhuang,  Garrison  Cottrell    5278",64  5277,,,AAAI 2021
+Queue-­‐Learning,65  5334,,,AAAI 2021
+"Learning  an  Effective  Context-­‐Response  Matching  Model  with  Self-­‐Supervised  Tasks  for  Retrieval-­‐Based  Dialogues  Ruijian  Xu,  Chongyang  Tao,  Daxin  Jiang,  Xueliang  Zhao,  Dongyan  Zhao,  Rui  Yan    5421",66    5417,,,AAAI 2021
+Deep  Conservation,67  5518,,,AAAI 2021
+Knowledge-­‐Base  Degrees  of  Inconsistency,68  5620,,,AAAI 2021
+"Saturated  Post-­‐Hoc  Optimization  for  Classical  Planning  Jendrik  Seipp,  Thomas  Keller,  Malte  Helmert    5696","69  Guile  Wu,  Shaogang  Gong    5695",,,AAAI 2021
+"Almost  Linear  Time  Density  Level  Set  Estimation  via  DBSCAN  Hossein  Esfandiari,  Vahab  Mirrokni,  Peilin  Zhong    5772",70    5771,,,AAAI 2021
+"Variational  Disentanglement  for  Rare  Event  Modeling  Zidi  Xiu,  Chenyang  Tao,  Michael  Gao,  Connor  Davis,  Benjamin  Goldstein,  Ricardo  Henao    5889",71  5870,,,AAAI 2021
+Reinforced  Imitative  Graph  Representation  Learning  for  Mobile  User  Profiling,72  5948,,,AAAI 2021
+"Neighborhood  Consensus  Networks  for  Unsupervised  Multi-­‐View  Outlier  Detection  Li  Cheng,  Yijie  Wang,  Xinwang  Liu    6049",73  6033,,,AAAI 2021
+ADAHESSIAN,74    6162,,,AAAI 2021
+StrokeGAN,"75  Yongxiu  Xu,  Heyan  Huang,  Chong  Feng,  Yue  Hu    6293",,,AAAI 2021
+"Improved  Penalty  Method  via  Doubly  Stochastic  Gradients  for  Bilevel  Hyperparameter  Optimization  Wanli  Shi,  Bin  Gu    6374",76    6366,,,AAAI 2021
+"Temporal  Pyramid  Network  for  Pedestrian  Trajectory  Prediction  with  Multi-­‐Supervision  Rongqin  Liang,  Yuanman  Li,  Xia  Li,  Yi  Tang,  Jiantao  Zhou,  Wenbin  Zou    6471",77    6469,,,AAAI 2021
+"Learning  Game-­‐Theoretic  Models  of  Multiagent  Trajectories  Using  Implicit  Layers  Philipp  Geiger,  Christoph-­‐Nikolas  Straehle    6611","78  Shaobo  Li,  Xiaoguang  Li,  Lifeng  Shang,  Xin  Jiang,  Qun  Liu,  Chengjie  Sun,  Zhenzhou  Ji,  Bingquan  Liu    6610",,,AAAI 2021
+MetaAugment,79  6716,,,AAAI 2021
+Towards  Consumer  Loan  Fraud  Detection,"80  Liang  Hou,  Zehuan  Yuan,  Lei  Huang,  Huawei  Shen,  Xueqi  Cheng,  Changhu  Wang    6859",,,AAAI 2021
+Learning  from  History,81  6939,,,AAAI 2021
+Nyströmformer,82  7030,,,AAAI 2021
+"Online  Search  with  Maximum  Clearance  Spyros  Angelopoulos,  Malachi  L  Voss    7152","83  Kang  Zhao,  Sida  Huang,  Pan  Pan,  Yinghan  Li,  Yingya  Zhang,  Zhenyu  Gu,  Yinghui  Xu    7147",,,AAAI 2021
+"Cross-­‐Oilfield  Reservoir  Classification  via  Multi-­‐Scale  Sensor  Knowledge  Transfer  Zhi  Li,  Zhefeng  Wang,  Zhicheng  Wei,  Xiangguang  Zhou,  Yijun  Wang,  Baoxing  Huai,  Qi  Liu,  Nicholas  Jing  Yuan,  Renbin  Gong,  Enhong  Chen    7260",84  7257,,,AAAI 2021
+"A  Multivariate  Complexity  Analysis  of  the  Material  Consumption  Scheduling  Problem  Matthias  Bentert,  Robert  Bredereck,  Péter  Györgyi,  Andrzej  Kaczmarczyk,  Rolf  Niedermeier    7391","85  Benjamin  Elder,  Matthew  Arnold,  Anupama  Murthi,  Jiri  Navratil    7381",,,AAAI 2021
+SCAN,86  7498,,,AAAI 2021
+"Towards  Fully  Automated  Manga  Translation  Ryota  Hinami,  Shonosuke  Ishiwatari,  Kazuhiko  Yasuda,  Yusuke  Matsui    7574",87  7572,,,AAAI 2021
+"Power  in  Liquid  Democracy  Yuzhe  Zhang,  Grossi  Davide    7710","88  Deborah  Weighill,  Marouen  Ben  Guebila,  Camila  Lopes-­‐Ramos,  Kimberly  Glass,  John  Quackenbush,  John  H  Platig,  Rebekka  Burkholz    7700",,,AAAI 2021
+"A  Hybrid  Attention  Mechanism  for  Weakly-­‐Supervised  Temporal  Action  Localization  Ashraful  Islam,  Chengjiang  Long,  Richard  Radke    7769",89    7767,,,AAAI 2021
+Differentially  Private  and  Fair  Deep  Learning,90    7868,,,AAAI 2021
+"Sample  Efficient  Reinforcement  Learning  with  REINFORCE  Junzi  Zhang,  Jongho  Kim,  Brendan  O'Donoghue,  Stephen  Boyd    7954","91  Tony  Gracious,  Shubham  Gupta,  Arun  Kanthali,  Rui  Castro,  Ambedkar  Dukkipati    7952",,,AAAI 2021
+"Robust  Finite-­‐State  Controllers  for  Uncertain  POMDPs  Murat  Cubuktepe,  Nils  Jansen,  Sebastian  Junges,  Ahmadreza  Marandi,  Marnix  Suilen,  Ufuk  Topcu    8069",92    8042,,,AAAI 2021
+SMART,"93  Arun  Das,  Jeffrey  R  Mock,  Yufei  Huang,  Edward  J  Golob,  Peyman  Najafirad    8166",,,AAAI 2021
+"Bayesian  Persuasion  under  Ex  Ante  and  Ex  Post  Constraints  Yakov  Babichenko,  Inbal  Talgam-­‐Cohen,  Konstantin  Zabarnyi    8265",94    8253,,,AAAI 2021
+"Adversarial  Partial  Multi-­‐Label  Learning  with  Label  Disambiguation  Yan  Yan,  Yuhong  Guo    8365","95  Anilesh  K  Krishnaswamy,  Haoming  Li,  David  Rein,  Hanrui  Zhang,  Vincent  Conitzer    8358",,,AAAI 2021
+StatEcoNet,96    8452,,,AAAI 2021
+"Hybrid-­‐Order  Stochastic  Block  Model  Xunxun  Wu,  Chang-­‐Dong  Wang,  Pengfei  Jiao    8542",97    8541,,,AAAI 2021
+"Sequential  Attacks  on  Kalman  Filter-­‐Based  Forward  Collision  Warning  Systems  Yuzhe  Ma,  Jon  A  Sharp,  Ruizhe  Wang,  Earlence  Fernandes,  Xiaojin  Zhu    8617","98  Danilo  Vasconcellos  Vargas,  Toshitake  Asabuki    8615",,,AAAI 2021
+Embracing  Domain  Differences  in  Fake  News,99  8716,,,AAAI 2021
+DeHiB,"100  Dustin  Morrill,  Ryan  D'Orazio,  Reca  Sarfati,  Marc  Lanctot,  James  R  Wright,  Amy  R  Greenwald,  Michael  Bowling    8903",,,AAAI 2021
+"Differentially  Private  Link  Prediction  with  Protected  Connections  Abir  De,  Soumen  Chakrabarti    9028","101  Syed  Zawad,  Ahsan  Ali,  Pin-­‐Yu  Chen,  Ali  Anwar,  Yi  Zhou,  Nathalie  Baracaldo,  Yuan  Tian,  Feng  Yan    9018",,,AAAI 2021
+"Exploiting  Learnable  Joint  Groups  for  Hand  Pose  Estimation  Moran  Li,  Yuan  Gao,  Nong  Sang    9134","102  Long  Chen,  Wenbo  Ma,  Jun  Xiao,  Hanwang  Zhang,  Shih-­‐Fu  Chang    9108",,,AAAI 2021
+"Visualization  of  Supervised  and  Self-­‐Supervised  Neural  Networks  via  Attribution  Guided  Factorization  Shir  Gur,  Ameen  Ali,  Lior  Wolf    9241",103    9225,,,AAAI 2021
+"Loop  Estimator  for  Discounted  Values  in  Markov  Reward  Processes  Falcon  Dai,  Matthew  Walter    9354",104    9350,,,AAAI 2021
+"Randomized  Generation  of  Adversary-­‐Aware  Fake  Knowledge  Graphs  to  Combat  Intellectual  Property  Theft  Snow  Kang,  Cristian  Molinaro,  Andrea  Pugliese,  V.  S.  Subrahmanian    9486",105    9475,,,AAAI 2021
+"Using  Hindsight  to  Anchor  Past  Knowledge  in  Continual  Learning  Arslan  Chaudhry,  Albert  Gordo,  Puneet  Dokania,  Philip  Torr,  David  Lopez-­‐Paz    9702",106  9700,,,AAAI 2021
+"Self-­‐Supervised  Self  Supervision  by  Combining  Deep  Learning  and  Probabilistic  Logic  Hunter  Lang,  Hoifung  Poon    9746","107  Yichao  Zhou,  Yu  Yan,  Rujun  Han,  J.  Harry  Caufield,  Kai-­‐Wei  Chang,  Yizhou  Sun,  Peipei  Ping,  Wei  Wang    9743",,,AAAI 2021
+"Federated  Block  Coordinate  Descent  Scheme  for  Learning  Global  and  Personalized  Models  Ruiyuan  Wu,  Anna  Scaglione,  Hoi-­‐To  Wai,  Nurullah  Karakoc,  Kari  Hreinsson,  Wing-­‐Kin  Ma    9807","108  Mingi  Ji,  Byeongho  Heo,  Sungrae  Park    9798",,,AAAI 2021
+"Consecutive  Decoding  for  Speech-­‐to-­‐Text  Translation  Qianqian  Q  Dong,  Mingxuan  Wang,  Hao  Zhou,  Shuang  Xu,  Bo  Xu,  Lei  Li    9856",109  9845,,,AAAI 2021
+"Ordinal  Historical  Dependence  in  Graphical  Event  Models  with  Tree  Representations  Debarun  Bhattacharjya,  Tian  Gao,  Dharmashankar  Subramanian    9893","110  John  Chen,  Benjamin  Coleman,  Anshumali  Shrivastava    9891",,,AAAI 2021
+"Explaining  Neural  Matrix  Factorization  with  Gradient  Rollback  Carolin  Lawrence,  Timo  Sztyler,  Mathias  Niepert    9940",111  9938,,,AAAI 2021
+Curriculum  Labeling,112  9979,,,AAAI 2021
+"Decentralized  Policy  Gradient  Descent  Ascent  for  Safe  Multi-­‐Agent  Reinforcement  Learning  Songtao  Lu,  Kaiqing  Zhang,  Tianyi  Chen,  Tamer  Basar,  Lior  Horesh    10016","113  Tabish  Rashid,  Cheng  Zhang,  Kamil  Ciosek    10014",,,AAAI 2021
+"Predicting  Livelihood  Indicators  from  Community-­‐Generated  Street-­‐Level  Imagery  Jihyeon  Lee,  Dylan  J  Grosz,  Burak  Uzkent,  Sicheng  Zeng,  Marshall  Burke,  David  Lobell,  Stefano  Ermon    10060",114  10056,,,AAAI 2021
+"Estimating  the  Number  of  Induced  Subgraphs  from  Incomplete  Data  and  Neighborhood  Queries  Dimitris  Fotakis,  Thanasis  Pittas,  Stratis  Skoulakis    10105",115  10103,,,AAAI 2021
+"Open  Domain  Dialogue  Generation  with  Latent  Images  Ze  Yang,  Wei  Wu,  Huang  Hu,  Can  Xu,  Wei  Wang,  Zhoujun  Li    10141",116  10138,,,AAAI 2021
+"Multilingual  Transfer  Learning  for  QA  Using  Translation  as  Data  Augmentation  Mihaela  Bornea,  Lin  Pan,  Sara  Rosenthal,  Radu  Florian,  Avi  Sil    10180",117    10177,,,AAAI 2021
+"Paragraph-­‐Level  Commonsense  Transformers  with  Recurrent  Memory  Saadia  Gabriel,  Chandra  Bhagavatula,  Vered  Shwartz,  Ronan  Le  Bras,  Maxwell  Forbes,  Yejin  Choi    10228",118    10224,,,AAAI 2021
+Model-­‐Free  Online  Learning  in  Unknown  Sequential  Decision  Making  Problems  and  Games  Gabriele  Farina    10288,119    10284,,,AAAI 2021
+Tune-­‐In,"120  Kei  Takemura,  Shinji  Ito,  Daisuke  Hatano,  Hanna  Sumita,  Takuro  Fukunaga,  Naonori  Kakimura,  Ken-­‐ichi  Kawarabayashi    10331",,,AAAI 2021
+Abusive  Language  Detection  in  Heterogeneous  Contexts,121  Special  Track  on  AI  for  Social  Impact    843,,,AAAI 2021
+"Graph  Learning  for  Inverse  Landscape  Genetics  Prathamesh  Dharangutte,  Christopher  Musco    4304","122  Kobi  Gal,  Guy  Shani,  Avi  Segal,  Darlene  Cavalier,  Daniel  Ben  Zaken    3849",,,AAAI 2021
+"Prediction  of  Landfall  Intensity,  Location,  and  Time  of  a  Tropical  Cyclone  Sandeep  Kumar,  Koushik  Biswas,  Ashish  Kumar  Pandey    8076","123  Barak  Itkin,  Lior  Wolf,  Nachum  Dershowitz    7578",,,AAAI 2021
+HateXplain,124    9414,,,AAAI 2021

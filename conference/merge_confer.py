@@ -3,7 +3,7 @@ from glob import glob
 
 # :one: 병합할 DB 파일들을 찾기
 db_files = glob("*.db")  # 현재 디렉토리에서 .db 확장자 파일 찾기
-output_db = "merged_database.db"  # 병합될 최종 DB 파일명
+output_db = "final_merged_database.db"  # 병합될 최종 DB 파일명
 table_name = "Conference"  # 병합할 테이블 이름 (테이블 구조가 동일해야 함)
 
 def initialize_output_db():

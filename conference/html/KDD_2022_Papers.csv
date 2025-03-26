@@ -1,0 +1,14 @@
+title,authors,pdf_link,code_url,conference_name
+Flexible Interpretability through Optimizable Counterfactual Explanations for Tree Ensembles,"Ana Lucic, Harle Oosterhuis, Hinda Haned, Maarten de Rijke",,,KDD 2022
+Evaluating Off-Policy Evaluation: Sensitivity and Robustness,"Yuta Saito, Takuma Udagawa, Haruka Kiyohara, Kazuki Mogi, Yusuke Narita, Kei Tateno",,,KDD 2022
+Representational Harms in Image Tagging,"Jared Katzman, Solon Barocas, Su Lin Blodgett, Kristen Laird, Morgan Klaus Scheuerman, Hanna Wallach",,,KDD 2022
+Independent Ethical Assessment of Text Classification Models: A Hate Speech Detection Case Study,"Amitoj Singh, Jingshu Chen, Lihao Zhang, Amin Rasekh, Ilana Golbin, Anand Rao",,,KDD 2022
+Intersectional Bias in Causal Language Models,"Liam Magee, Lida Ghahremanlou, Karen Soldatic, Shanthi Robertson",,,KDD 2022
+Enabling Flexible Downstream Fairness With Geometric Repair,"Jessica Dai, Kweku Kwegyir-Aggrey, Keegan Hines, John Dickerson",,,KDD 2022
+Identifying Biased Subgroups in Ranking and Classification,"Eliana Pastor, Luca de Alfaro, Elena Baralis",,,KDD 2022
+Evaluating Gender Bias in Hindi-English Machine Translation,"Gauri Gupta, Krithika Ramesh, Sanjay Singh",,,KDD 2022
+Fairness for Text Classification Tasks with Identity Information Data Augmentation Methods,"Mohit Wadhwa, Mohan Bhambhani, Ashvini Jindal, Uma Sawant, Ram Madhavan",,,KDD 2022
+PCACE: A Statistical Approach to Ranking Neurons for CNN Interpretability,"Silvia Casacuberta, Esra Suel, Seth Flaxman",,,KDD 2022
+"An Empirical Study of Accuracy, Fairness, Explainability, Distributional Robustness, and Adversarial Robustness","Moninder Singh, Gevorg Ghalachyan, Kush Varshney, Reginald Bryant",,,KDD 2022
+Measurement as governance in and for responsible AI,Abigail Jacobs,,,KDD 2022
+Monitoring fairness in machine learning models that predict patient mortality in the ICU,"Tempest van Schaik, Xinggang Liu, Louis Atallah, Omar Badawi",,,KDD 2022

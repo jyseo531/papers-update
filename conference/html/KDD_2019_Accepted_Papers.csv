@@ -1,0 +1,322 @@
+title,authors,pdf_link,code_url,conference_name
+A free energy based approach for distance metric learning,Sho Inaba ; Carl Fakhry ; Rahul Kulkarni ; Kourosh Zarringhalam ;,,,KDD 2019
+A Hierarchical Career-Path-Aware Neural Network for Job Mobility Prediction,Qingxin Meng ; Hengshu Zhu ; Keli Xiao ; Le Zhang ; Hui Xiong ;,,,KDD 2019
+A Memory-Efficient Sketch Method for Estimating High Similarities in Streaming Sets,Pinghui Wang ; Yiyan Qi ; Yuanming Zhang ; Chenxu Wang ; Qiaozhu Zhai ; Xiaohong Guan ; John C.S. Lui ;,http://arxiv.org/pdf/1905.08977v1,,KDD 2019
+A Minimax Game for Instance based Selective Transfer Learning,Bo Wang ; Minghui Qiu ; Xisen Wang ; Yaliang Li ; Yu Gong ; Xiaoyi Zeng ; Jun Huang ; Bo Zheng ; Deng Cai ; Jingren Zhou ;,,,KDD 2019
+A Multiscale Scan Statistic for Adaptive Submatrix Localization,Yuchao Liu ; Ery Arias-Castro ;,http://arxiv.org/pdf/1906.08884v1,,KDD 2019
+A permutation approach to assess confounding in machine learning applications for digital health,Elias Chaibub Neto ; Abhishek Pratap ; Thanneer Perumal ; Meghasyam Tummalacherla ; Brian Bot ; Lara Mangravite ; Larsson Omberg ;,,,KDD 2019
+A Representation Learning Framework for Property Graphs,Yifan Hou ; Hongzhi Chen ; Changji Li ; James Cheng ; Ming-Chang Yang ;,,,KDD 2019
+Adaptive Deep Models for Incremental Learning: Considering Capacity Scalability and Sustainability,Yang Yang ; Da-Wei Zhou ; De-Chuan Zhan ; Hui Xiong ; Yuan Jiang ;,,,KDD 2019
+Adaptive Graph Guided Disambiguation for Partial Label Learning,Dengbao Wang ; Li Li ; Min-Ling Zhang ;,,,KDD 2019
+Adaptive Unsupervised Feature Selection on Attributed Networks,Jundong Li ; Ruocheng Guo ; Chenghao Liu ; Huan Liu ;,,,KDD 2019
+Adaptive-Halting Policy Network for Early Classification,Thomas Hartvigsen ; Cansu Sen ; Xiangnan Kong ; Elke Rundensteiner ;,,,KDD 2019
+Adversarial Learning on Heterogeneous Information Networks,Binbin Hu ; Yuan Fang ; Chuan Shi ;,,,KDD 2019
+Adversarial Substructured Representation Learning for Mobile User Profiling,Pengyang Wang ; Yanjie Fu ; Xiaolin Li ; Hui Xiong ;,,,KDD 2019
+Adversarial Variational Embedding for Robust Semi-supervised Learning,Xiang Zhang ; Lina Yao ; Feng Yuan ;,,,KDD 2019
+Adversarially Robust Submodular Maximization under Knapsack Constraints,Dmitrii Avdiukhin ; Slobodan Mitrovic ; Grigory Yaroslavtsev ; Samson Zhou ;,http://arxiv.org/pdf/1905.02367v1,,KDD 2019
+An Visual Dialog Augmented Interactive Recommender System,Tong Yu ; Yilin Shen ; Hongxia Jin ;,,,KDD 2019
+Assessing The Factual Accuracy of Generated Text,Vinay Rao ; Ben Goodrich ; Peter Liu ; Mohammad Saleh ;,http://arxiv.org/pdf/1905.13322v1,,KDD 2019
+AtSNE: Efficient and Robust Visualization on GPU through Hierarchical Optimization,Cong Fu ; Yonghui Zhang ; Deng Cai ; Xiang Ren ;,,,KDD 2019
+Attribute-Driven Backbone Discovery,Hanchao Ma ; Sheng Guan ; Yinghui Wu ;,,,KDD 2019
+Auditing Data Provenance in Text-Generation Models,Congzheng Song ; Vitaly Shmatikov ;,http://arxiv.org/pdf/1811.00513v2,,KDD 2019
+Automating Feature Subspace Exploration via Multi-Agent Reinforcement Learning,Kunpeng Liu ; Yanjie Fu ; Pengfei Wang ; Le Wu ; Rui Bo ; Xiaolin Li ;,,,KDD 2019
+AutoNRL: Hyperparameter Optimization for Massive Network Representation Learning,Ke Tu ; Jianxin Ma ; Peng Cui ; Jian Pei ; Wenwu Zhu ;,,,KDD 2019
+Axiomatic Interpretability for Multiclass Additive Models,Xuezhou Zhang ; Sarah Tan ; Paul Koch ; Yin Lou ; Urszula Chajewska ; Rich Caruana ;,http://arxiv.org/pdf/1810.09092v2,,KDD 2019
+Beyond Personalization: Social Content Recommendation for Creator Equality and Consumer Satisfaction,Wenyi Xiao ; Huan Zhao ; Haojie Pan ; Yangqiu Song ; Vincent W. Zheng ; Qiang Yang ;,http://arxiv.org/pdf/1905.11900v3,,KDD 2019
+Certifiable Robustness and Robust Training for Graph Convolutional Networks,Daniel Zügner ; Stephan Günnemann ;,http://arxiv.org/pdf/1906.12269v1,,KDD 2019
+Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks,Wei-Lin Chiang ; Xuanqing Liu ; Si Si ; Yang Li ; Samy Bengio ; Cho-Jui Hsieh ;,,,KDD 2019
+Clustering without Over-Representation,Sara Ahmadian ; Alessandro Epasto ; Ravi Kumar ; Mohammad Mahdian ;,,,KDD 2019
+Co-Prediction of Multiple Transportation Demands Based on Deep Spatio-Temporal Neural Network,Junchen Ye ; Leilei Sun ; Bowen Du ; Yanjie Fu ; Xinran Tong ; Hui Xiong ;,,,KDD 2019
+Conditional Random Field Enhanced Graph Convolutional Neural Networks,Hongchang Gao ; Jian Pei ; Heng Huang ;,,,KDD 2019
+Contextual Fact Ranking and Its Applications in Table Synthesis and Compression,Silu Huang ; Jialu Liu ; Flip Korn ; Xuezhi Wang ; You Wu ; Dale Markowitz ; Cong Yu ;,,,KDD 2019
+Contrastive antichains in hierarchies,Anes Bendimerad ; Jefrey Lijffijt ; Marc Plantevit ; Celine Robardet ; Tijl De Bie ;,,,KDD 2019
+Coresets for Minimum Enclosing Balls over Sliding Windows,Yanhao Wang ; Yuchen Li ; Kian-Lee Tan ;,http://arxiv.org/pdf/1905.03718v2,,KDD 2019
+CoSTCo: A Nonlinear Sparse Tensor Completion Model,Hanpeng Liu ; Yaguang Li ; Michael Tsang ; Yan Liu ;,,,KDD 2019
+Coupled Variational Recurrent Collaborative Filtering,Qingquan Song ; Shiyu Chang ; Xia Hu ;,http://arxiv.org/pdf/1906.04386v1,,KDD 2019
+DAML: Dual Attention Mutual Learning between Ratings and Reviews for Item Recommendation,Donghua Liu ; Jing Li ; Bo Du ; Jun Chang ; Rong Gao ;,,,KDD 2019
+Deep Anomaly Detection with Deviation Networks,Guansong Pang ; Chunhua Shen ; Anton van den Hengel ;,,,KDD 2019
+Deep Landscape Forecasting for Real-time Bidding Advertising,Kan Ren ; Jiarui Qin ; Lei Zheng ; Zhengyu Yang ; Weinan Zhang ; Yong Yu ;,http://arxiv.org/pdf/1905.03028v2,,KDD 2019
+Deep Learning Alternating Direction Method of Multipliers,Junxiang Wang ; Fuxun Yu ; Xiang Chen ; Liang Zhao ;,,,KDD 2019
+Deep Mixture Point Processes: Spatio-temporal Event Prediction with Rich Contextual Information,Maya Okawa ; Tomoharu Iwata ; Takeshi Kurashima ; Yusuke Tanaka ; Hiroyuki Toda ; Naonori Ueda ;,http://arxiv.org/pdf/1906.08952v1,,KDD 2019
+DeepGBM: A Deep Learning Framework Distilled by GBDT for Online Prediction Tasks,Guolin Ke ; Zhenhui Xu ; Jia Zhang ; Jiang Bian ; Tie-Yan Liu ;,,,KDD 2019
+dEFEND: Explainable Fake News Detection,Kai Shu ; Limeng Cui ; Suhang Wang ; Dongwon Lee ; Huan Liu ;,,,KDD 2019
+DEMO-Net: Degree-specific Graph Neural Networks for Node and Graph Classification,Jun Wu ; Jingrui He ; Jiejun Xu ;,http://arxiv.org/pdf/1906.02319v1,,KDD 2019
+Disambiguation Enabled Linear Discriminant Analysis for Partial Label Dimensionality Reduction,Jing-Han Wu ; Min-Ling Zhang ;,,,KDD 2019
+Discovering Unexpected Local Nonlinear Interactions in Scientific Black-box Models,Michael Doron ; Idan Segev ; Dafna Shahaf ;,,,KDD 2019
+Dual Averaging Method for Online Graph-structured Sparsity,Baojian Zhou ; Feng Chen ; Yiming Ying ;,http://arxiv.org/pdf/1905.10714v1,,KDD 2019
+Dual Sequential Prediction Models Linking Sequential Recommendation and Information Dissemination,Qitian Wu ; Yirui Gao ; Xiaofeng Gao ; Paul Weng ; Guihai Chen ;,,,KDD 2019
+Dynamic Modeling and Forecasting of Time-evolving Data Streams,Yasuko Matsubara ; Yasushi Sakurai ;,,,KDD 2019
+Dynamical Origins of Distribution Functions,Chengxi Zang ; Peng Cui ; Wenwu Zhu ; Fei Wang ;,,,KDD 2019
+Edit Similarity Joins Using Local Hash Minima,Haoyu Zhang ; Qin Zhang ;,,,KDD 2019
+EdMot: An Edge Enhancement Approach for Motif-aware Community Detection,Peizhen Li ; Ling Huang ; Chang-Dong Wang ; Jianhuang Lai ;,,,KDD 2019
+Effective and Efficient Reuse of Past Travel Behavior for Route Recommendation,Lisi Chen ; Shuo Shang ; Christian S. Jensen ; Bin Yao ; Zhiwei Zhang ; Ling Shao ;,,,KDD 2019
+Effective and Efficient Sports Play Retrieval with Deep Representation Learning,Zheng Wang ; Cheng Long ; Gao Cong ; Ce Ju ;,,,KDD 2019
+Efficient and Effective Express via Contextual Cooperative Reinforcement Learning,Yexin Li ; Yu Zheng ; Qiang Yang ;,,,KDD 2019
+Efficient Global String Kernel with Random Features: Beyond Counting Substructures,Lingfei Wu ; Ian En-Hsu Yen ; Siyu Huo ; Liang Zhao ; Kun Xu ; Liang Ma ; Shouling Ji ; Charu Aggarwal ;,,,KDD 2019
+Efficient Maximum Clique Computation over Large Sparse Graphs,Lijun Chang ;,,,KDD 2019
+Empirical Entropy Approximation via Subsampling: Theory and Application,Chi Wang ; Bailu Ding ;,,,KDD 2019
+Empowering A* Search Algorithms with Neural Networks for Personalized Route Recommendation,Jingyuan Wang ; Ning Wu ; Xin Zhao ; Fanzhang Peng ; Xin Lin ;,,,KDD 2019
+End-to-end Modeling of High-order Relations in Knowledge Graph for Recommendation,Xiang Wang ; Xiangnan He ; Yixin Cao ; Meng Liu ; Tat-Seng Chua ;,,,KDD 2019
+Enhancing Collaborative Filtering with Generative Augmentation,Qinyong Wang ; Hongzhi Yin ; Hao Wang ; Quoc Viet Hung Nguyen ; Zi Huang ; Lizhen Cui ;,,,KDD 2019
+Enhancing Domain Word Embedding via Latent Semantic Imputation,Shibo Yao ; Dantong Yu ; Keli Xiao ;,http://arxiv.org/pdf/1905.08900v1,,KDD 2019
+Environment Reconstruction with Hidden Confounders for Reinforcement Learning based Recommendation,Wenjie Shang ; Yang Yu ; Qingyang Li ; Zhiwei Qin ; Yiping Meng ; Jieping Ye ;,,,KDD 2019
+EpiDeep: Exploiting Embeddings for Epidemic Forecasting,Bijaya Adhikari ; Xinfeng Xu ; Naren Ramakrishnan ; B. Aditya Prakash ;,,,KDD 2019
+Estimating Graphlet Statistics via Lifting,Dmitry Shemetov ; James Sharpnack ; Kirill Paramonov ;,http://arxiv.org/pdf/1802.08736v1,,KDD 2019
+Estimating Node Importance in Knowledge Graphs Using Graph Neural Networks,Namyong Park ; Andrey Kan ; Xin Luna Dong ; Tong Zhao ; Christos Faloutsos ;,http://arxiv.org/pdf/1905.08865v2,,KDD 2019
+Estimating Personalized Preferences Through Meta-Learning for User Cold-Start Recommendation,Hoyeop Lee ; Jinbae Im ; Seongwon Jang ; Hyunsouk Cho ; Sehee Chung ;,,,KDD 2019
+ET-Lasso: A New Efficient Tuning of Lasso-type Regularization for High-Dimensional Data,Songshan Yang ; Jiawei Wen ; Xiang Zhan ; Daniel Kifer ;,,,KDD 2019
+Exact-K Recommendation via Maximal Clique Optimization,Yu Gong ; Yu Zhu ; Lu Duan ; Qingwen Liu ; Ziyu Guan ; Fei Sun ; Wenwu Ou ; Kenny Zhu ;,http://arxiv.org/pdf/1905.07089v1,,KDD 2019
+Exploiting Cognitive Structure for Adaptive Learning,Qi Liu ; Shiwei Tong ; Chuanren Liu ; Hongke Zhao ; Enhong Chen ; Haiping Ma ; Shijin Wang ;,http://arxiv.org/pdf/1905.12470v1,,KDD 2019
+Factorization Bandits for Online Influence Maximization,Qingyun Wu ; Zhige Li ; Huazheng Wang ; Wei Chen ; Hongning Wang ;,http://arxiv.org/pdf/1906.03737v1,,KDD 2019
+Fast and Accurate Anomaly Detection in Dynamic Graphs with a Two-Pronged Approach,Minji Yoon ; Bryan Hooi ; Kijung Shin ; Christos Faloutsos ;,,,KDD 2019
+Fates of Microscopic Social Ecosystems: Keep Alive or Dead?,Haoyang Li ; Peng Cui ; Chengxi Zang ; Tianyang Zhang ; Wenwu Zhu ; Yishi Lin ;,,,KDD 2019
+Fighting Opinion Control in Social Networks via Link Recommendation,Victor Amelkin ; Ambuj Singh ;,,,KDD 2019
+Figuring out the User in a Few Steps: Bayesian Multifidelity Active Search with Cokriging,Nikita Klyuchnikov ; Davide Mottin ; Georgia Koutrika ; Emmanuel Müller ; Panagiotis Karras ;,,,KDD 2019
+Focused Context Balancing for Robust Offline Policy Evaluation,Hao Zou ; Kun Kuang ; Boqi Chen ; Peng Cui ; Peixuan Chen ;,,,KDD 2019
+GCN-MF: Disease-Gene Association Identification By Graph Convolutional Networks and Matrix Factorzation,Peng Han ; Peng Yang ; Peilin Zhao ; Shuo Shang ; Yong Liu ; Jiayu Zhou ; Xin Gao ; Panos Kalnis ;,,,KDD 2019
+Gradient-based Hierarchical Clustering using Continuous Representations of Trees in Hyperbolic Space,Nicholas Monath ; Manzil Zaheer ; Daniel Silva ; Andrew McCallum ; Amr Amhed ;,,,KDD 2019
+Graph Convolutional Networks with EigenPooling,Yao Ma ; Suhang Wang ; Charu Aggarwal ; Jiliang Tang ;,http://arxiv.org/pdf/1904.13107v2,,KDD 2019
+Graph Recurrent Networks with Attributed Random Walks,Xiao Huang ; Qingquan Song ; Yuening Li ; Xia Hu ;,,,KDD 2019
+Graph Representation Learning via Hard and Channel-Wise Attention Networks,Hongyang Gao ; Shuiwang Ji ;,,,KDD 2019
+Graph Transformation Policy Network for Chemical Reaction Prediction,Kien Do ; Truyen Tran ; Svetha Venkatesh ;,http://arxiv.org/pdf/1812.09441v1,,KDD 2019
+Graph-based Semi-Supervised & Active Learning for Edge Flows,Junteng Jia ; Michael Schaub ; Santiago Segarra ; Austin Benson ;,http://arxiv.org/pdf/1905.07451v1,,KDD 2019
+HATS: A Hierarchical Sequence-Attention Framework for Inductive Set-of-Sets Embeddings,Changping Meng ; Jiasen Yang ; Bruno Ribeiro ; Jennifer Neville ;,,,KDD 2019
+HetGNN: Heterogeneous Graph Neural Network,Chuxu Zhang ; Dongjin Song ; Chao Huang ; Ananthram Swami ; Nitesh V. Chawla ;,,,KDD 2019
+Hidden Markov Contour Tree: A Spatial Structured Model for Hydrological Applications,Zhe Jiang ; Arpan Man Sainju ;,,,KDD 2019
+Hidden POI Ranking with Spatial Crowdsourcing,Yue Cui ; Liwei Deng ; Yan Zhao ; Vicent Zheng ; Bin Yao ; Kai Zheng ;,,,KDD 2019
+Hierarchical Gating Networks for Sequential Recommendation,Chen Ma ; Peng Kang ; Xue Liu ;,,,KDD 2019
+Hierarchical Multi-Task Word Embedding Learning for Medical Synonym Prediction,Hongliang Fei ; Shulong Tan ; Ping Li ;,,,KDD 2019
+Hypothesis Generation From Text Based On Co-Evolution Of Biomedical Concepts,Kishlay Jha ; Guangxu Xun ; Yaqing Wang ; Aidong Zhang ;,,,KDD 2019
+Identifiability of Cause and Effect using Regularized Regression,Alexander Marx ; Jilles Vreeken ;,,,KDD 2019
+Improving the quality of explanations with local embedding perturbations,Yunzhe Jia ; James Bailey ; Kotagiri Ramamohanarao ; Christopher Leckie ; Michael E. Houle ;,,,KDD 2019
+Incorporating Interpretability into Latent Factor Models via Fast Influence Analysis,Weiyu Cheng ; Yanyan Shen ; Linpeng Huang ; Yanmin Zhu ;,,,KDD 2019
+Individualized Indicator for All: Stock-wise Technical Indicator Optimization with Stock Embedding,Zhige Li ; Derek Yang ; Li Zhao ; Jiang Bian ; Tao Qin ; Tie-Yan Liu ;,,,KDD 2019
+Interpretable and Steerable Sequence Learning via Prototypes,Yao Ming ; Panpan Xu ; Huamin Qu ; Liu Ren ;,,,KDD 2019
+"Interpretable Neural Network-based Classification of Limited, Noisy Brain Data",Yujun Yan ; Jiong Zhu ; Marlena Duda ; Eric Solarz ; Chandra Sripada ; Danai Koutra ;,,,KDD 2019
+Interview Choice Reveals Your Preference on the Market:To Improve Job-Resume Matching through Profiling Memories,Rui Yan ; Ran Le ; Yang Song ; Tao Zhang ; Xiangliang Zhang ; Dongyan Zhao ;,,,KDD 2019
+Investigating Cognitive Effects in Session-level Search User Satisfaction,Mengyang Liu ; Jiaxin Mao ; Yiqun Liu ; Min Zhang ; Shaoping Ma ;,,,KDD 2019
+Is a Single Vector Enough? Exploring Node Polysemy for Network Embedding,Ninghao Liu ; Qiaoyu Tan ; Yuening Li ; Hongxia Yang ; Jingren Zhou ; Xia Hu ;,http://arxiv.org/pdf/1905.10668v1,,KDD 2019
+Isolation Set-Kernel and Its Application to Multi-Instance Learning,Bi-Cun Xu ; Kai Ming Ting ; Zhi-Hua Zhou ;,,,KDD 2019
+K-Multiple-Means: A Multiple-Means Clustering Method with Specified K Clusters,Feiping Nie ; Cheng-Long Wang ; Xuelong Li ;,,,KDD 2019
+Knowledge Graph Convolutional Networks for Recommender Systems with Label Smoothness Regularization,Hongwei Wang ; Fuzheng Zhang ; Mengdi Zhang ; Jure Leskovec ; Miao Zhao ; Wenjie Li ; Zhongyuan Wang ;,,,KDD 2019
+Latent Network Summarization,Di Jin ; Ryan Rossi ; Danai Koutra ; Eunyee Koh ; Sungchul Kim ; Anup Rao ;,,,KDD 2019
+Learning Class-Conditional GANs with Active Sampling,Ming-Kun Xie ; Sheng-Jun Huang ;,,,KDD 2019
+Learning Dynamic Context Graphs for Predicting Social Events,Songgaojun Deng ; Huzefa Rangwala ; Yue Ning ;,,,KDD 2019
+Learning from Incomplete and Inaccurate Supervision,Zhen-Yu Zhang ; Peng Zhao ; Yuan Jiang ; Zhi-Hua Zhou ;,,,KDD 2019
+Learning Interpretable Metric between Graphs: Convex Formulation and Computation with Graph Mining,Tomoki Yoshida ; Ichiro Takeuchi ; Masayuki Karasuyama ;,,,KDD 2019
+Learning Network-to-Network Model for Content-rich Network Embedding,Zhicheng He ; Jie Liu ; Na Li ; Yalou Huang ;,,,KDD 2019
+Link Prediction with Signed Latent Factors in Signed Social Networks,Pinghua Xu ; Wenbin Hu ; Jia Wu ; Bo Du ;,,,KDD 2019
+Log2Intent: Towards Interpretable User Modeling via Recurrent Semantics Memory Unit,Zhiqiang Tao ; Sheng Li ; Zhaowen Wang ; Chen Fang ; Longqi Yang ; Handong Zhao ; Yun Fu ;,,,KDD 2019
+MCNE: An End-to-End Framework for Learning Multiple Conditional Network Representations of Social Network,Hao Wang ; Tong Xu ; Qi Liu ; Defu Lian ; Enhong Chen ; Dongfang Du ; Han Wu ; Wen Su ;,http://arxiv.org/pdf/1905.11013v1,,KDD 2019
+Mining Algorithm Roadmap in Scientific Publications,Hanwen Zha ; Wenhu Chen ; Keqian Li ; Xifeng Yan ;,,,KDD 2019
+Modeling Dwell Time Engagement on Visual Multimedia,Hemank Lamba ; Neil Shah ;,,,KDD 2019
+Modeling Extreme Events in Time Series Prediction,Daizong Ding ; Mi Zhang ; Xudong Pan ; Min Yang ; Xiangnan He ;,,,KDD 2019
+Multi-Relational Classification via Bayesian Ranked Non-Linear Embeddings,"Ahmed Rashed ,  Institute of Computer Science, University of Hildesheim); Josif Grabocka ,  Institute of Computer Science, University of Hildesheim); Lars Schmidt-Thieme ,  Institute of Computer Science, University of Hildesheim);",,,KDD 2019
+Multi-task Recurrent Neural Network and Higher-order Markov Random Fields for Stock Price   Prediction,Chang Li ; Dongjin Song ; Dacheng Tao ;,,,KDD 2019
+Multiple Relational Attention Network for Multi-task Learning,Jiejie Zhao ; Bowen Du ; Leilei Sun ; Fuzhen Zhuang ; Weifeng Lv ; Hui Xiong ;,,,KDD 2019
+Network Density of States,Kun Dong ; Austin Benson ; David Bindel ;,,,KDD 2019
+NodeSketch: Highly-Efficient Graph Embeddings via Recursive Sketching,Dingqi Yang ; Paolo Rosso ; Bin Li ; Philippe Cudre-Mauroux ;,,,KDD 2019
+OBOE: Collaborative Filtering for AutoML Model Selection,Chengrun Yang ; Yuji Akimoto ; Dae Won Kim ; Madeleine Udell ;,http://arxiv.org/pdf/1808.03233v2,,KDD 2019
+Off-policy Learning for Multiple Loggers,Li He ; Long Xia ; Wei Zeng ; Zhi-Ming Ma ; Yihong Zhao ; Dawei Yin ;,,,KDD 2019
+On Dynamic Network Models and Application to Causal Impact,Yu-Chia Chen ; Avleen S. Bijral ; Juan Lavista Ferres ;,,,KDD 2019
+Optimizing Impression Counts for Outdoor Advertising,Yipeng Zhang ; Yuchen Li ; Zhifeng Bao ; Songsong Mo ; Ping Zhang ;,,,KDD 2019
+Optimizing Peer Learning in Online Groups with Affinities,Mohammadreza Esfandiari ; Dong Wei ; Sihem Amer-Yahia ; Senjuti Basu Roy ;,,,KDD 2019
+Origin-Destination Matrix Prediction via Graph Convolution: A New Perspective of Passenger Demand Modeling,Yuandong Wang ; Hongzhi Yin ; Hongxu Chen ; Tianyu Wo ; Jie Xu ; Kai Zheng ;,,,KDD 2019
+Pairwise Comparisons with Flexible Time-Dynamics,Lucas Maystre ; Victor Kristof ; Matthias Grossglauser ;,http://arxiv.org/pdf/1903.07746v2,,KDD 2019
+Paper Matching with Local Fairness Constraints,Ari Kobren ; Barna Saha ; Andrew McCallum ;,http://arxiv.org/pdf/1905.11924v1,,KDD 2019
+PerDREP: Personalized Drug Eﬀectiveness Prediction from Longitudinal Observational Data,Sanjoy Dey ; Ping Zhang ; Daby Sow ; Kenney Ng ;,,,KDD 2019
+Predicting Embedding Trajectories for Temporal Interaction Networks,Srijan Kumar ; Xikun Zhang ; Jure Leskovec ;,,,KDD 2019
+Predicting Path Failure In Time-Evolving Graphs,Jia Li ; Zhichao Han ; Hong Cheng ; Jiao Su ; Pengyun Wang ; Jianfeng Zhang ; Lujia Pan ;,http://arxiv.org/pdf/1905.03994v2,,KDD 2019
+PressLight: Learning Max Pressure Control for Signalized Intersections in Arterial Network,Hua Wei ; Chacha Chen ; Guanjie Zheng ; Kan Wu ; Vikash Gayah ; Kai Xu ; Zhenhui Jessie Li ;,,,KDD 2019
+PrivPy: General and Scalable Privacy-Preserving Data Mining,Yi Li ; Wei Xu ;,,,KDD 2019
+ProGAN: Network Embedding via Proximity Generative Adversarial Network,Hongchang Gao ; Jian Pei ; Heng Huang ;,,,KDD 2019
+Quantifying Long Range Dependence in Language and User Behavior to improve RNNs,Francois Belletti ; Minmin Chen ; Ed Chi ;,http://arxiv.org/pdf/1905.09414v1,,KDD 2019
+QuesNet: A Unified Representation for Heterogeneous Test Questions,Yu Yin ; Qi Liu ; Zhenya Huang ; Enhong Chen ; Wei Tong ; Shijin Wang ; Yu Su ;,http://arxiv.org/pdf/1905.10949v1,,KDD 2019
+Regularized regression for hierarchical forecasting without unbiasdness conditions,Souhaib Ben Taieb ; Bonsoo Koo ;,,,KDD 2019
+Relation Extraction via Domain-aware Transfer Learning,Shimin Di ; Yanyan Shen ; Lei Chen ;,,,KDD 2019
+Representation Learning for Attributed Multiplex Heterogeneous Network,Yukuo Cen ; Xu Zou ; Jianwei Zhang ; Hongxia Yang ; Jingren Zhou ; Jie Tang ;,http://arxiv.org/pdf/1905.01669v2,,KDD 2019
+Retaining Privileged Information for Multi-Task Learning,Fengyi Tang ; Cao Xiao ; Fei Wang ; Jiayu Zhou ; Li-Wei Lehman ;,,,KDD 2019
+Revisiting kd-tree for Nearest Neighbor Search,Parikshit Ram ; Kaushik Sinha ;,,,KDD 2019
+Riker: Mining Rich Keyword Representations for Interpretable Product Question Answering,Jie Zhao ; Ziyu Guan ; Huan Sun ;,,,KDD 2019
+Robust Graph Convolutional Networks Against Adversarial Attacks,Dingyuan Zhu ; Ziwei Zhang ; Peng Cui ; Wenwu Zhu ;,,,KDD 2019
+Robust Task Grouping with Representative Tasks for Clustered Multi-Task Learning,Yaqiang Yao ; Jie Cao ; Huanhuan Chen ;,,,KDD 2019
+Scalable Global Alignment Graph Kernel Using Random Features: From Node Embedding to Graph Embedding,Lingfei Wu ; Ian En-Hsu Yen ; Zhen Zhang ; Kun Xu ; Liang Zhao ; Xi Peng ; Yinglong Xia ; Charu Aggarwal ;,,,KDD 2019
+Scalable Graph Embeddings via Sparse Transpose Proximities,Yuan Yin ; Zhewei Wei ;,http://arxiv.org/pdf/1905.07245v1,,KDD 2019
+Scalable Hierarchical Clustering via Tree Grafting,Nicholas Monath ; Ari Kobren ; Akshay Krishnamurthy ; Michael Glass ; Andrew Mccallum ;,,,KDD 2019
+Scaling Multi-Armed Bandit Algorithms,Edouard Fouché ; Junpei Komiyama ; Klemens Böhm ;,,,KDD 2019
+Scaling Multinomial Logistic Regression via Hybrid Parallelism,Parameswaran Raman ; Sriram Srinivasan ; Shin Matsushima ; Xinhua Zhang ; Hyokun Yun ; Vishwanathan S.V.N. ;,,,KDD 2019
+Separated Trust Regions Policy Optimization Method,Luobao Zou ; Zhiwei Zhuang ; Yin Cheng ; Xuechun Wang ; Weidong Zhang ;,,,KDD 2019
+Sequential Anomaly Detection using Inverse Reinforcement Learning,Min-Hwan Oh ; Garud Iyengar ;,,,KDD 2019
+Sets2Sets: Learning from Sequential Sets with Neural Networks,Haoji Hu ; Xiangnan He ;,,,KDD 2019
+Sherlock: A Deep Learning Approach to Semantic Data Type Detection,Madelon Hulsebos ; Kevin Hu ; Michiel Bakker ; Emanuel Zgraggen ; Arvind Satyanarayan ; Tim Kraska ; Çağatay Demiralp ; César Hidalgo ;,http://arxiv.org/pdf/1905.10688v1,,KDD 2019
+Significance of Patterns in Data Visualisations,Rafael Savvides ; Andreas Henelius ; Emilia Oikarinen ; Kai Puolamäki ;,,,KDD 2019
+Social Recommendation with Optimal Limited Attention,Xin Wang ; Wenwu Zhu ; Chenghao Liu ;,,,KDD 2019
+SPuManTE: Significant Pattern Mining with Unconditional Testing,Leonardo Pellegrina ; Matteo Riondato ; Fabio Vandin ;,,,KDD 2019
+Stability and Generalization of Graph Convolutional Neural Networks,Saurabh Verma ; Zhi-Li Zhang ;,http://arxiv.org/pdf/1905.01004v2,,KDD 2019
+State-Sharing Sparse Hidden Markov Models for Personalized Sequences,Hongzhi Shi ; Chao Zhang ; Quanming Yao ; Yong Li ; Funing Sun ; Depeng Jin ;,,,KDD 2019
+Streaming Adaptation of Deep Forecasting Models using Adaptive Recurrent Units,Prathamesh Deshpande ; Sunita Sarawagi ;,http://arxiv.org/pdf/1906.09926v1,,KDD 2019
+Streaming Session-based Recommendation,Lei Guo ; Hongzhi Yin ; Qinyong Wang ; Tong Chen ; Alexander Zhou ; Nguyen Quoc Viet Hung ;,,,KDD 2019
+SurfCon: Synonym Discovery on Privacy-Aware Clinical Data,Zhen Wang ; Xiang Yue ; Soheil Moosavinasab ; Yungui Huang ; Simon Lin ; Huan Sun ;,http://arxiv.org/pdf/1906.09285v1,,KDD 2019
+Tackle Balancing Constraint for Incremental Semi-Supervised Support Vector Learning,Shuyang Yu ; Bin Gu ; Kunpeng Ning ; Haiyan Chen ; Jian Pei ; Heng Huang ;,,,KDD 2019
+Task-Adversarial Co-Generative Nets,Pei Yang ; Qi Tan ; Hanghang Tong ; Jingrui He ;,,,KDD 2019
+Tensorized Determinantal Point Processes for Recommendation,Romain Warlop ; Jérémie Mary ; Mike Gartrell ;,,,KDD 2019
+Testing Dynamic Incentive Compatibility in Display Ad Auctions,Yuan Deng ; Sébastien Lahaie ;,,,KDD 2019
+The Impact of Person-Organization Fit on Talent Management: A Structure-Aware Convolutional Neural Network Approach,Ying Sun ; Fuzhen Zhuang ; Hengshu Zhu ; Xin Song ; Qing He ; Hui Xiong ;,,,KDD 2019
+The Role of “Condition”: A Novel Scientific Knowledge Graph Representation and Construction Model,Tianwen Jiang ; Tong Zhao ; Bing Qin ; Ting Liu ; Nitesh Chawla ; Meng Jiang ;,,,KDD 2019
+Three-Dimensional Stable Matching Problem for Spatial Crowdsourcing Platforms,Boyang Li ; Yurong Cheng ; Ye Yuan ; Guoren Wang ; Lei Chen ;,,,KDD 2019
+Time Critic Policy Gradient Methods for Traffic Signal Control in Complex and Congested Scenarios,Stefano Giovanni Rizzo ; Giovanna Vantini ; Sanjay Chawla ;,,,KDD 2019
+Towards Robust and Discriminative Sequential Data Learning: When and How to Perform Adversarial Training?,Xiaowei Jia ; Sheng Li ; Handong Zhao ; Sungchul Kim ; Vipin Kumar ;,,,KDD 2019
+Training and Meta-Training Binary Neural Networks with Quantum Computing,Abdulah Fawaz ; Sebastien Piat ; Paul Klein ; Simone Severini ; Peter Mountney ;,,,KDD 2019
+TUBE: Embedding Behavior Outcomes for Predicting Success,Daheng Wang ; Tianwen Jiang ; Nitesh Chawla ; Meng Jiang ;,,,KDD 2019
+Uncovering Pattern Formation of Information Flow,Chengxi Zang ; Peng Cui ; Chaoming Song ; Wenwu Zhu ; Fei Wang ;,,,KDD 2019
+Unifying Inter-region Autocorrelation and Intra-region Structures for Spatial Embedding via Collective Adversarial Learning,Yunchao Zhang ; Pengyang Wang ; Xiaolin Li ; Yu Zheng ; Yanjie Fu ;,,,KDD 2019
+Universal Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts,Junheng Hao ; Muhao Chen ; Wenchao Yu ; Yizhou Sun ; Wei Wang ;,,,KDD 2019
+Urban Traffic Prediction from Spatio-Temporal Data using Deep Meta Learning,Zheyi Pan ; Yuxuan Liang ; Weifeng Wang ; Yong Yu ; Yu Zheng ; Junbo Zhang ;,,,KDD 2019
+λOpt: Learn to Regularize Recommender Models in Finer Levels,Yihong Chen ; Bei Chen ; Xiangnan He ; Chen Gao ; Yong Li ; Jian-Guang Lou ; Yue Wang ;,,,KDD 2019
+150 successful Machine Learning models: 6 lessons learned at Booking.com,"Pablo Estevez, Themistoklis Mavridis and Lucas Bernardi",,,KDD 2019
+A Collaborative Learning Framework to Tag Refinement for Points of Interest,"Jingbo Zhou, Shan Gou, Renjun Hu, Dongxiang Zhang, Jin Xu, Xuehui Wu, Airong Jiang and Hui Xiong",,,KDD 2019
+A Data-Driven Approach for Multi-level Packing Problems in Manufacturing Industry,"Lei Chen, Xialiang Tong, Mingxuan Yuan, Jia Zeng and Lei Chen",,,KDD 2019
+A Deep Generative Approach to Search Extrapolation and Recommendation,"Fred.X Han, Di Niu, Haolan Chen, Kunfeng Lai, Yancheng He and Yu Xu",,,KDD 2019
+A Deep Value-network Based Approach for Multi-Driver Order Dispatching,"Xiaocheng Tang, Zhiwei Qin, Fan Zhang, Zhaodong Wang, Zhe Xu, Yintai Ma, Hongtu Zhu and Jieping Ye",,,KDD 2019
+A Generalized Framework for Population Based Training,"Ang Li, Ola Spyra, Sagi Perel, Valentin Dalibard, Max Jaderberg, Chenjie Gu, David Budden, Tim Harley and Pramod Gupta",,,KDD 2019
+A Robust Framework for Accelerated Outcome-driven Risk Factor Identification from EHR,Prithwish Chakraborty and Faisal Farooq,,,KDD 2019
+A Severity Score for Retinopathy of Prematurity,"Peng Tian, Yuan Guo, Jayashree Kalpathy-Cramer, Susan Ostmo, J. Peter Campbell, Michael F. Chiang, Jennifer Dy, Deniz Erdogmus and Stratis Ioannidis",,,KDD 2019
+A Unified Framework for Marketing Budget Allocation,"Kui Zhao, Junhao Hua, Ling Yan, Qi Zhang, Huan Xu and Cheng Yang",http://arxiv.org/pdf/1902.01128v3,,KDD 2019
+A User-Centered Concept Mining System for Query and Document Understanding at Tencent,"Bang Liu, Weidong Guo, Di Niu, Chaoyue Wang, Shunnan Xu, Jinghong Lin, Kunfeng Lai and Yu Xu",http://arxiv.org/pdf/1905.08487v1,,KDD 2019
+AccuAir: Winning Solution to Air Quality Prediction for KDD Cup 2018,"Zhipeng Luo, Jianqiang Huang, Ke Hu, Xue Li and Peng Zhang",,,KDD 2019
+Actions Speak Louder Than Goals: Valuing Player Actions in Soccer,"Tom Decroos, Lotte Bransen, Jan Van Haaren and Jesse Davis",http://arxiv.org/pdf/1802.07127v1,,KDD 2019
+Active Deep Learning for Activity Recognition with Context Aware Annotator Selection,H M Sajjad Hossain and Nirmalya Roy,,,KDD 2019
+Adversarial Matching of Dark Net Market Vendor Accounts,"Xiao Hui Tai, Kyle Soska and Nicolas Christin",,,KDD 2019
+AiAds: Automated and Intelligent Advertising System for Sponsored Search,Xiao Yang,,,KDD 2019
+AKUPM: Attention-Enhanced Knowledge-Aware User Preference Model for Recommendation,"Xiaoli Tang, Tengyun Wang, Haizhi Yang and Hengjie Song",,,KDD 2019
+AlphaStock: Buying Winners and Selling Losers in Deep,"Jingyuan Wang, Yang Zhang, Ke Tang, Junjie Wu and Zhang Xiong",,,KDD 2019
+Ambulatory Atrial Fibrillation Monitoring Using Wearable Photoplethysmography with Deep Learning,"Maxime Voisin, Yichen Shen, Alireza Aliamiri, Anand Avati, Awni Hannun and Andrew Ng",http://arxiv.org/pdf/1811.07774v2,,KDD 2019
+Annotating Videos at YouTube Scale,"Seong Jae Hwang, Joonseok Lee, Balakrishnan Varadarajan, Ariel Gordon, Zheng Xu and Apostol Natsev",,,KDD 2019
+Anomaly Detection for an E-commerce Pricing System,"Jagdish Ramakrishnan, Elham Shaabani, Chao Li and Mátyás Sustik",http://arxiv.org/pdf/1902.09566v5,,KDD 2019
+Applying Deep Learning To Airbnb Search,"Malay Haldar, Mustafa Abdool, Prashant Ramanathan, Tao Xu, Shulin Yang, Huizhong Duan, Qing Zhang, Nick Barrow-Williams, Bradley C. Turnbull, Brendan M. Collins and Thomas Legrand",http://arxiv.org/pdf/1810.09591v2,,KDD 2019
+Auto-Keras: An Efficient Neural Architecture Search System,"Haifeng Jin, Qingquan Song and Xia Hu",http://arxiv.org/pdf/1806.10282v3,,KDD 2019
+AutoCross: Automatic Feature Crossing for Tabular Data in Real-World Applications,"Luo Yuanfei, Mengshuo Wang, Hao Zhou, Quanming Yao, Wei-Wei Tu, Yuqiang Chen, Qiang Yang and Wenyuan Dai",http://arxiv.org/pdf/1904.12857v1,,KDD 2019
+Automatic Dialogue Summary Generation for Customer Service,"Chunyi Liu, Peng Wang, Jiang Xu, Zang Li and Jieping Ye",,,KDD 2019
+Bid Optimization by Multivariable Control in Display Advertising,"Xun Yang, Yasong Li, Hao Wang, Di Wu, Qing Tan, Jian Xu and Kun Gai",http://arxiv.org/pdf/1905.10928v1,,KDD 2019
+Blending  Noisy Social Media Signals with Traditional Movement Variables to Predict Forced Migration,"Lisa Singh, Laila Wahedi, Yanchen Wang, Yifang Wei, Christo Kirov, Susan Martin, Katharine Donato, Yaguang Liu and Kornraphop Kawintiranon",,,KDD 2019
+Buying or Browsing? : Predicting Real-time Purchasing Intent using Attention-based Deep Network with Multiple Behavior,"Long Guo, Lifeng Hua, Rongfei Jia, Binqiang Zhao, Xiaobo Wang and Bin Cui",,,KDD 2019
+Carousel Ads Optimization in Yahoo Gemini Native,"Oren Somekh, Michal Aharon, Avi Shahar, Assaf Singer, Boris Trayvas, Hadas Vogel and Dobri Dobrev",,,KDD 2019
+Chainer: a Deep Learning Framework for  Accelerating the Research Cycle,"Seiya Tokui, Ryosuke Okuta, Takuya Akiba, Yusuke Niitani, Toru Ogawa, Shunta Saito, Shuji Suzuki, Kota Uenishi, Brian Vogel and Hiroyuki Yamazaki Vincent",,,KDD 2019
+Characterizing and Detecting Malicious Accounts inPrivacy-Centric Mobile Social Networks: A Case Study,"Zenghua Xia, Chang Liu, Neil Gong, Qi Li, Yong Cui and Dawn Song",,,KDD 2019
+Characterizing and Forecasting User Engagement with In-App Action Graphs: A Case Study of Snapchat,"Yozen Liu, Xiaolin Shi, Lucas Pierce and Xiang Ren",,,KDD 2019
+Combining Decision Trees and Neural Networks forLearning-to-Rank in Personal Search,"Pan Li, Zhen Qin, Xuanhui Wang and Donald Metzler",,,KDD 2019
+Community Detection on Large Complex Attribute Network,"Zhe Chen, Aixin Sun and Xiaokui Xiao",,,KDD 2019
+Constructing High Precision Knowledge Bases with Subjective and Factual Attributes,"Ari Kobren, Pablo Bario, Oksana Yakhnenko, Johann Hibschman and Ian Langmore",http://arxiv.org/pdf/1905.12807v2,,KDD 2019
+Context by Proxy: Identifying Contextual Anomalies Using an Output Proxy,"Jan-Philipp Schulze, Artur Mrowca, Elizabeth Ren, Hans-Andrea Loeliger and Konstantin Böttinger",,,KDD 2019
+Conversion Prediction Using Multi-task Conditional Attention Networks to Support the Creation of Effective Ad Creatives,"Shunsuke Kitada, Hitoshi Iyatomi and Yoshifumi Seki",,,KDD 2019
+Deep Semantic Product Search,"Vihan Lakshman, Vijai Mohan, Priyanka Nigam, Yiwei Song, Weitian Ding, Ankit Shingavi, Choon Hui Teo, Hao Gu and Bing Yin",,,KDD 2019
+Deep Spatio-Temporal Neural Networks for Click-Through Rate Prediction,"Wentao Ouyang, Xiuwu Zhang, Li Li, Heng Zou, Xin Xing, Zhaojie Liu and Yanlong Du",,,KDD 2019
+Deep Uncertainty Quantification: A Machine Learning Approach for Weather Forecasting,"Bin Wang, Jie Lu, Zheng Yan, Huaishao Luo, Tianrui Li, Yu Zheng and Guangquan Zhang",http://arxiv.org/pdf/1812.09467v3,,KDD 2019
+DeepHoops: Evaluating Micro-Actions in Basketball Using Deep Feature Representations of Spatio-Temporal Data,"Anthony Sicilia, Konstantinos Pelechrinis and Kirk Goldsberry",,,KDD 2019
+DeepRoof: A Data-driven Approach For Solar Potential Estimation Using Rooftop Imagery,"Stephen Lee, Srinivasan Iyengar, Menghong Feng, Prashant Shenoy and Subhransu Maji",,,KDD 2019
+DeepUrbanEvent: A System for Predicting Citywide Crowd Dynamics at Big Events,"Renhe Jiang, Xuan Song, Dou Huang, Xiaoya Song, Tianqi Xia, Zekun Cai, Zhaonan Wang, Kyoung-Sook Kim and Ryosuke Shibasaki",,,KDD 2019
+Detecting Anomalies in Space using Multivariate Convolutional LSTM with Mixtures of Probabilistic PCA,"Simon Woo, Shahroz Tariq, Sangyup Lee, Youjin Shin, Myeong Shin Lee, Okchul Jung and Daewon Chung",,,KDD 2019
+Detection of Review Abuse via Semi-Supervised Binary Multi-Target Tensor Decomposition,"Anil Yelundur, Vineet Chaoji and Bamdev Mishra",http://arxiv.org/pdf/1905.06246v2,,KDD 2019
+Developing Measures of Cognitive Impairment in the Real World from Consumer-Grade Multimodal Sensor Streams,"Richard Chen, Filip Jankovic, Nikki Marinsek, Luca Foschini, Lampros Kourtis, Alessio Signorini, Melissa Pugh, Jie Shen, Roy Yaari, Vera Maljkovic, Marc Sunga, Han Hee Song, Hyun Joon Jung, Belle Tseng and Andrew Trister",,,KDD 2019
+Diagnosing Sample Ratio Mismatch in Online Controlled Experiments: A Taxonomy and Rules of Thumb for Practitioners,"Aleksander Fabijan, Jayant Gupchup, Somit Gupta, Jeff Omhover, Wen Quin, Lukas Vermeer and Pavel Dmitriev",,,KDD 2019
+DuerQuiz: A Personalized Question Recommender System for Intelligent Job Interview,"Chuan Qin, Hengshu Zhu, Chen Zhu, Tong Xu, Fuzhen Zhuang, Chao Ma, Jingshuai Zhang and Hui Xiong",,,KDD 2019
+Dynamic Pricing for Airline Ancillaries with Customer Context,"Naman Shukla, Arinbjörn Kolbeinsson, Ken Otwell, Lavanya Marla and Kartik Yellepeddi",http://arxiv.org/pdf/1902.02236v1,,KDD 2019
+E.T.-RNN: Applying Deep Learning to Credit Loan Applications,"Alexander Tuzhilin, Dmitri Babaev, Dmitri Umerenkov and Maxim Savchenko",,,KDD 2019
+Enabling Onboard Detection of Events of Scientific Interest for the Europa Clipper Spacecraft,"Kiri Wagstaff, Gary Doran, Ashley Davies, Saadat Anwar, Srija Chakraborty, Marissa Cameron, Ingrid Daubar and Cynthia Phillips",,,KDD 2019
+Estimating Cellular Goals from High-Dimensional Biological Data,"Laurence Yang, Michael A. Saunders, Jean-Christophe Lachance, Bernhard O. Palsson and José Bento",http://arxiv.org/pdf/1807.04245v4,,KDD 2019
+Fairness in Recommendation Ranking through Pairwise Comparisons,"Alex Beutel, Jilin Chen, Tulsee Doshi, Hai Qian, Li Wei, Yi Wu, Lukasz Heldt, Zhe Zhao, Lichan Hong, Ed H. Chi and Cristos Goodrow",http://arxiv.org/pdf/1903.00780v1,,KDD 2019
+Fairness-Aware Ranking in Search & Recommendation Systems with Application to LinkedIn Talent Search,"Sahin Geyik, Stuart Ambler and Krishnaram Kenthapadi",,,KDD 2019
+FDML: A Collaborative Machine Learning Framework for Distributed Features,"Yaochen Hu, Di Niu, Jianming Yang and Shengping Zhou",,,KDD 2019
+Feedback Shaping: A Modeling Approach to Nurture Content Creation,"Ye Tu, Chun Lo, Yiping Yuan and Shaunak Chatterjee",,,KDD 2019
+Finding Users Who Act Alike: Transfer Learning for Expanding Advertiser Audiences,Stephanie Dewet and Jiafan Ou,,,KDD 2019
+FoodAI: Food Image Recognition via Deep Learning for Smart Food Logging,"Doyen Sahoo, Hao Wang, Shu Ke, Xiongwei Wu, Hung Le, Palakorn Achananuparp, Ee-Peng Lim and Steven Hoi",,,KDD 2019
+Generating Better Search Engine Text Advertisements with Deep Reinforcement Learning,"John Hughes, Keng-Hao Chang and Ruofei Zhang",,,KDD 2019
+Glaucoma Progression Prediction Using Retinal Thickness via Latent Space Linear Regression,"Yuhui Zheng, Linchuan Xu, Taichi Kiwaki, Jing Wang, Hiroshi Murata, Ryo Asaoka and Kenji Yamanishi",,,KDD 2019
+Gmail Smart Compose: Real-Time Assisted Writing,"Mia Xu Chen, Benjamin N Lee, Gagan Bansal, Yuan Cao, Shuyuan Zhang, Justin Lu, Jackie Tsay, Yinan Wang, Andrew M. Dai, Zhifeng Chen, Timothy Sohn and Yonghui Wu",http://arxiv.org/pdf/1906.00080v1,,KDD 2019
+Hard to Park? Estimating Parking Difficulty at Scale,"Andrew Tomkins, Ravi Kumar, Neha Arora, James Cook, Ivan Kuznetsov, Yechen Li, Huai-Jen Liang, Andrew Miller, Iveel Tsogsuren and Yi Wang",,,KDD 2019
+How to Invest my Time: Lessons from  HITL Entity Extraction,"Shanshan Zhang, Lihong He, Eduard Dragut and Slobodan Vucetic",,,KDD 2019
+Hydra: A Personalized and Context-Aware Multi-Modal Transportation Recommendation System,"Hao Liu, Yongxin Tong, Panpan Zhang, Xinjiang Lu, Jianguo Duan and Hui Xiong",,,KDD 2019
+Improving Subseasonal Forecasting in the Western U.S. with Machine Learning,"Jessica Hwang, Paulo Orenstein, Judah Cohen, Karl Pfeiffer and Lester Mackey",http://arxiv.org/pdf/1809.07394v3,,KDD 2019
+Infer Implicit Contexts in Real-time Online-to-Offline Recommendation,"Xichen Ding, Jie Tang, Tracy Liu, Cheng Xu, Yaping Zhang, Feng Shi, Qixia Jiang and Dan Shen",,,KDD 2019
+IntentGC: a Scalable Graph Convolution Framework Fusing Heterogeneous Information for Recommendation,"Jun Zhao, Zhou Zhou, Ziyu Guan, Wei Zhao, Ning Wei, Guang Qiu and Xiaofei He",,,KDD 2019
+Internal Promotion Optimization,"Rupesh Gupta, Guangde Chen and Shipeng Yu",,,KDD 2019
+Investigate Transitions into Drug Addiction through Text Mining of Reddit Data,"John Lu, Sumati Sridhar, Ritika Pandey, Mohammad Hasan and George Mohler",,,KDD 2019
+Investment Behaviors Can Tell What Inside: Exploring Stock Intrinsic Properties for Stock Trend Prediction,"Chi Chen, Li Zhao, Jiang Bian, Chunxiao Xing and Tie-Yan Liu",,,KDD 2019
+IRNet: A General Purpose Deep Residual Regression Framework For Materials Discovery,"Dipendra Jha, Logan Ward, Zijiang Yang, Christopher Wolverton, Ian Foster, Wei-Keng Liao, Alok Choudhary and Ankit Agrawal",,,KDD 2019
+Large-scale User Visits Understanding and Forecasting with Deep Spatial-Temporal Tensor Factorization Framework,"Xiaoyang Ma, Lan Zhang, Lan Xu, Zhicheng Liu, Ge Chen, Zhili Xiao, Yang Wang and Zhengtao Wu",,,KDD 2019
+Learning a Unified Embedding for Visual Search at Pinterest,"Andrew Zhai, Hao-Yu Wu, Eric Tzeng, Dong Huk Park and Charles Rosenberg",,,KDD 2019
+Learning Sleep Quality from Daily Logs,"Sungkyu Park, Cheng-Te Li, Sungwon Han, Cheng Hsu, Sang Won Lee and Meeyoung Cha",,,KDD 2019
+Learning to Prescribe Interventions for Tuberculosis Patients using Digital Adherence Data,"Jackson Killian, Bryan Wilder, Amit Sharma, Vinod Choudhary, Bistra Dilkina and Milind Tambe",,,KDD 2019
+LightNet: A Dual Spatiotemporal Encoder Network Model for Lightning Prediction,"Yangli-Ao Geng, Qingyong Li, Tianyang Lin, Lei Jiang, Liangtao Xu, Dong Zheng, Wen Yao, Yijun Zhang and Weitao Lyu",,,KDD 2019
+Machine Learning at Microsoft with ML.NET,"Zeeshan Ahmed, Saeed Amizadeh, Mikhail Bilenko, Rogan Carr, Wei-Sheng Chin, Yael Dekel, Xavier Dupre, Vadim Eksarevskiy, Senja Filipi, Tom Finley, Abhishek Goswami, Monte Hoover, Scott Inglis, Matteo Interlandi, Najeeb Kazmi, Gleb Krivosheev, Pete Luferenko, Ivan Matantsev, Sergiy Matusevych, Shahab Moradi, Gani Nazirov, Justin Ormont, Gal Oshri, Artidoro Pagnoni, Jignesh Parmar, Prabhat Roy, Zeeshan Siddiqui, Markus Weimer, Shauheen Zahirazami and Yiwen Zhu",,,KDD 2019
+Mathematical Notions vs. Human Perception of Fairness: A Descriptive Approach to Fairness for Machine Learning,"Megha Srivastava, Hoda Heidari and Andreas Krause",http://arxiv.org/pdf/1902.04783v1,,KDD 2019
+MediaRank: Compuational Ranking of Online News Sources,Junting Ye and Steven Skiena,,,KDD 2019
+Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation,"Shaohua Fan, Junxiong Zhu, Xiaotian Han, Chuan Shi, Linmei Hu, Biyu Ma and Yongliang Li",,,KDD 2019
+MetaPred: Meta-Learning for Clinical Risk Prediction with Limited Patient Electronic Health Records,"Xi Zhang, Andy Tang, Hiroko Dodge, Jiayu Zhou and Fei Wang",http://arxiv.org/pdf/1905.03218v1,,KDD 2019
+MOBIUS: Towards the Next Generation of Query-Ad Matching in Baidu's Sponsored Search,"Miao Fan, Jiacheng Guo, Shuai Zhu, Shuo Miao, Mingming Sun and Ping Li",,,KDD 2019
+MSURU: Large Scale E-commerce Image Classification With Weakly Supervised Search Data,"Yina Tang, Fedor Borisyuk, Siddarth Malreddy, Yixuan Li, Yiqun Liu and Sergey Kirshner",,,KDD 2019
+Multi-Horizon Time Series Forecasting with Temporal Attention Learning,"Chenyou Fan, Yuze Zhang, Yi Pan, Xiaoyue Li, Chi Zhang, Rong Yuan, Di Wu, Wensheng Wang, Jian Pei and Heng Huang",,,KDD 2019
+MVAN: Multi-view Attention Networks for Real Money Trading Detection in Online Games,"Jianrong Tao, Jianshi Lin, Shize Zhang, Sha Zhao, Runze Wu, Changjie Fan and Peng Cui",,,KDD 2019
+Naranjo Question Answering using End-to-End Multi-task Learning Model,"Bhanu Pratap Singh Rawat, Fei Li and Hong Yu",,,KDD 2019
+Nonparametric Mixture of Sparse Regressions on Spatio-Temporal Data -- An Application to Climate Prediction,"Yumin Liu, Junxiang Chen, Auroop Ganguly and Jennifer Dy",,,KDD 2019
+Nostalgin: Extracting 3D City Models from Historical Image Data,"Amol Kapoor, Hunter Larco and Raimondas Kiveris",http://arxiv.org/pdf/1905.01772v1,,KDD 2019
+NPA: Neural News Recommendation with Personalized Attention,"Chuhan Wu, Fangzhao Wu, Mingxiao An, Jianqiang Huang, Yongfeng Huang and Xing Xie",,,KDD 2019
+OAG: Toward Linking Large-scale Heterogeneous Entity Graphs,"Fanjin Zhang, Xiao Liu, Jie Tang, Yuxiao Dong, Peiran Yao, Jie Zhang, Xiaotao Gu, Yan Wang, Bin Shao, Rui Li and Kuansan Wang",,,KDD 2019
+OCC: A Smart Reply System for Efficient In-App Communications,"Yue Weng, Huaixiu Zheng, Franziska Bell and Gokhan Tur",,,KDD 2019
+Online Amnestic DTW to allow Real-Time Golden Batch Monitoring,"Chin-Chia Michael Yeh, Yan Zhu, Hoang Anh Dau, Amirali Darvishzadeh, Mikhail Noskov and Eamonn Keogh",,,KDD 2019
+Online Purchase Prediction via Multi-Scale Modeling of Behavior Dynamics,"Chao Huang, Xian Wu, Xuchao Zhang, Chuxu Zhang, Jiashu Zhao, Dawei Yin and Nitesh Chawla",,,KDD 2019
+Optuna: A Next-generation Hyperparameter Optimization Framework,"Takuya Akiba, Shotaro Sano, Toshihiko Yanase, Takeru Ohta and Masanori Koyama",,,KDD 2019
+Personalized Attraction Enhanced Sponsored Search with Multi-task Learning,"Wei Zhao, Boxuan Zhang, Beidou Wang, Ziyu Guan, Wanxian Guan, Guang Qiu, Wei Ning, Jiming Chen and Hongmin Liu",,,KDD 2019
+Personalized Purchase Prediction of Market Baskets with Wasserstein-Based Sequence Matching,Mathias Kraus and Stefan Feuerriegel,http://arxiv.org/pdf/1905.13131v2,,KDD 2019
+PinText: A Multitask Text Embedding System in Pinterest,Jinfeng Zhuang and Yu Liu,,,KDD 2019
+POG: Personalized Outfit Generation for Fashion Recommendation at Alibaba iFashion,"Wen Chen, Pipei Huang, Jiaming Xu, Xin Guo, Cheng Guo, Fei Sun, Chao Li, Andreas Pfadler, Huan Zhao and Binqiang Zhao",http://arxiv.org/pdf/1905.01866v3,,KDD 2019
+Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction,"Qi Pi, Weijie Bian, Guorui Zhou, Xiaoqiang Zhu and Kun Gai",http://arxiv.org/pdf/1905.09248v3,,KDD 2019
+Precipitation nowcasting with satellite imagery,"Vadim Lebedev, Vladimir Ivashkin, Irina Rudenko, Alexander Ganshin, Ivan Bushmarinov, Alexander Molchanov, Sergey Ovcharenko, Ruslan Grokhovetskiy and Dmitry Solomentsev",,,KDD 2019
+Predicting Different Types of Conversions with Multi-Task Learning in Online Advertising,"Junwei Pan, Yizhi Mao, Alfonso Lobos Ruiz, Yu Sun and Aaron Flores",,,KDD 2019
+Predicting Economic Development using Geolocated Wikipedia Articles,"Evan Sheehan, Chenlin Meng, Matthew Tan, Burak Uzkent, Neal Jean, David Lobell, Marshall Burke and Stefano Ermon",http://arxiv.org/pdf/1905.01627v2,,KDD 2019
+Predicting Evacuation Decisions using Representations of Individuals' Pre-Disaster Web Search Behavior,"Takahiro Yabe, Kota Tsubouchi, Toru Shimizu, Yoshihide Sekimoto and Satish Ukkusuri",http://arxiv.org/pdf/1906.07770v1,,KDD 2019
+Probabilistic Latent Variable Modeling for Assessing Behavioral Influences on Well-Being,Ehimwenma Nosakhare and Rosalind Picard,,,KDD 2019
+Pythia: AI assisted code completion system,"Alexey Svyatkovskiy, Ying Zhao, Shengyu Fu and Neel Sundaresan",,,KDD 2019
+"Raise to speak: an accurate, low-power detector for activating voice assistants on smartwatches","Shiwen Zhao, Brandt Westing, Shawn Scully, Heri Nieto, Roman Holenstein, Minwoo Jeong, Krishna Sridhar, Brandon Newendorp, Mike Bastian, Sethu Raman, Tim Paek, Kevin Lynch and Carlos Guestrin",,,KDD 2019
+Randomized Experimental Design via Geographic Clustering,"David Rolnick, Kevin Aydin, Jean Pouget-Abadie, Shahab Kamali, Vahab Mirrokni and Amir Najmi",http://arxiv.org/pdf/1611.03780v2,,KDD 2019
+Ranking in Genealogy: Search Results Fusion at Ancestry,"Peng Jiang, Yingrui Yang, Gann Bierner, Fengjie Alex Li, Ruhan Wang and Azadeh Moghtaderi",http://arxiv.org/pdf/1903.00099v1,,KDD 2019
+Real-time Attention Based Look-alike Model for Recommender System,"Yudan Liu, Kaikai Ge, Xu Zhang and Leyu Lin",,,KDD 2019
+Real-time Event Detection on Social Data Streams,"Mateusz Fedoryszak, Brent Frederick, Vijay Rajaram and Changtao Zhong",,,KDD 2019
+Real-time On-Device Troubleshooting Recommendation for Smartphones,"Keiichi Ochiai, Kohei Senkawa, Naoki Yamamoto, Yuya Tanaka and Yusuke Fukazawa",,,KDD 2019
+Real-World Product Deployment of Adaptive Push Notification Scheduling on Smartphones,"Tadashi Okoshi, Kota Tsubouchi and Hideyuki Tokuda",,,KDD 2019
+Recurrent Neural Networks for Stochastic Control in Real-Time Bidding,"Nicolas Grislain, Nicolas Perrin and Antoine Thabault",,,KDD 2019
+Reinforcement Learning to Optimize Long-term User Engagement in Recommender Systems,"Lixin Zou, Long Xia, Zhuoye Ding, Song Jiaxing, Weidong Liu and Dawei Yin",http://arxiv.org/pdf/1902.05570v3,,KDD 2019
+Reserve Price Failure Rate Prediction with Header Bidding in Display Advertising,"Achir Kalra, Chong Wang, Cristian Borcea and Yi Chen",,,KDD 2019
+Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network,"Ya Su, Youjian Zhao, Chenhao Niu, Rong Liu, Wei Sun and Dan Pei",,,KDD 2019
+Robust Gaussian Process Regression for Real-Time High Precision GPS Signal Enhancement,"Ming Lin, Xiaomin Song, Qi Qian, Hao Li, Liang Sun, Shenghuo Zhu and Rong Jin",http://arxiv.org/pdf/1906.01095v1,,KDD 2019
+Sample Adaptive Multiple Kernel Learning for Failure Prediction of Railway Points,"Zhibin Li, Jian Zhang, Qiang Wu, Yongshun Gong, Jinfeng Yi and Christina Kirsch",http://arxiv.org/pdf/1907.01162v1,,KDD 2019
+Seasonal-adjustment based feature selection method for predicting epidemic with large-scale search engine logs,Quang Thien Tran and Jun Sakuma,,,KDD 2019
+Seeker: Real-Time Interactive Search,"Ari Biswas, Thai Pham, Michael Vogelsong, Benjamin Snyder and Houssam Nassif",,,KDD 2019
+Sequence Multi-task Learning to Forecast Mental Wellbeing from Sparse Self-reported Data,"Dimitris Spathis, Sandra Servia Rodríguez, Katayoun Farrahi, Cecilia Mascolo and Jason Rentfrow",,,KDD 2019
+Sequential Scenario-Specific Meta Learner for Online Recommendation,"Zhengxiao Du, Xiaowei Wang, Hongxia Yang, Jingren Zhou and Jie Tang",http://arxiv.org/pdf/1906.00391v1,,KDD 2019
+Short and Long-term Pattern Discovery Over Large-Scale Geo-Spatiotemporal Data,"Sobhan Moosavi, Mohammad Hossein Samavatian, Arnab Nandi, Srinivasan Parthasarathy and Rajiv Ramnath",http://arxiv.org/pdf/1902.06792v2,,KDD 2019
+Shrinkage Estimators in Online Experiments,"Drew Dimmery, Eytan Bakshy and Jasjeet Sekhon",http://arxiv.org/pdf/1904.12918v1,,KDD 2019
+Smart Roles: Inferring Professional Roles in Email Networks,"Di Jin, Mark Heimann, Tara Safavi, Mengdi Wang, Wei Lee, Lindsay Snider and Danai Koutra",,,KDD 2019
+SMOILE: A Shopper Marketing Optimization and Inverse Learning Engine,"Abhilash Reddy Chenreddy, Parshan Pakiman, Selvaprabu Nadarajah, Ranganathan Chandrasekaran and Rick Abens",,,KDD 2019
+Social Skill Validation at LinkedIn,"Xiao Yan, Jaewon Yang, Mikhail Obukhov, Lin Zhu, Joey Bai, Shiqi Wu and Qi He",,,KDD 2019
+Structured Noise Detection: Application on Well Test Pressure Derivative Data,"Farhan Asif Chowdhury, Satomi Suzuki and Abdullah Mueen",,,KDD 2019
+Temporal Probabilistic Profiles for Sepsis Prediction in the ICU,"Eitam Sheetrit, Nir Nissim, Denis Klimov and Yuval Shahar",,,KDD 2019
+TF-Ranking: Scalable TensorFlow Library for Learning-to-Rank,"Rama Kumar Pasumarthi, Sebastian Bruch, Xuanhui Wang, Cheng Li, Michael Bendersky, Marc Najork, Jan Pfeifer, Nadav Golbandi, Rohan Anil and Stephan Wolf",,,KDD 2019
+The Error is the Feature: How to Forecast Lightning using a Model Prediction Error,"Christian Schön, Jens Dittrich and Richard Müller",,,KDD 2019
+The Identification and Estimation of Direct and Indirect Effects in Online A/B Tests through Causal Mediation Analysis,Xuan Yin and Liangjie Hong,,,KDD 2019
+The Secret Lives of Names? Name Embeddings from Social Media,Junting Ye and Steven Skiena,http://arxiv.org/pdf/1905.04799v1,,KDD 2019
+Time-Series Anomaly Detection Service at Microsoft,"Hansheng Ren, Bixiong Xu, Yujing Wang, Chao Yi, Congrui Huang, Tony Xing, Xiaoyu Kou, Mao Yang and Jie Tong",http://arxiv.org/pdf/1906.03821v1,,KDD 2019
+Topic-Enhanced Memory Networks for Personalised Point-of-Interest Recommendation,"Xiao Zhou, Cecilia Mascolo and Zhongxiang Zhao",http://arxiv.org/pdf/1905.13127v1,,KDD 2019
+Towards Identifying Impacted Users in Cellular Services,Shobha Venkataraman and Jia Wang,,,KDD 2019
+Towards Knowledge-Based Personalized Product Description Generation in E-commerce,"Qibin Chen, Junyang Lin, Yichang Zhang, Hongxia Yang, Jingren Zhou and Jie Tang",http://arxiv.org/pdf/1903.12457v3,,KDD 2019
+Towards sustainable dairy management - a machine learning enhanced method for estrus detection,"Kevin Fauvel, Véronique Masson, Élisa Fromont, Philippe Faverdin and Alexandre Termier",,,KDD 2019
+TrajGuard: A Comprehensive Trajectory Copyright Protection Scheme,"Zheyi Pan, Jie Bao, Weinan Zhang, Yong Yu and Yu Zheng",,,KDD 2019
+TV Advertisement Scheduling by Learning Expert Intentions,"Yasuhisa Suzuki, Wemer Wee and Itaru Nishioka",,,KDD 2019
+Two-Sided Fairness for Repeated Matchings in Two-Sided Markets: A Case Study of a Ride-Hailing Platform,"Tom Sühr, Asia J. Biega, Meike Zehlike, Krishna P. Gummadi and Abhijnan Chakraborty",,,KDD 2019
+Uncovering the Co-driven Mechanism of Social and Content Links in User Churn Phenomena,"Yunfei Lu, Linyun Yu, Peng Cui, Chengxi Zang, Renzhe Xu, Yihao Liu, Lei Li and Wenwu Zhu",,,KDD 2019
+Understanding Consumer Journey using Attention based Recurrent Neural Networks,"Yichao Zhou, Shaunak Mishra, Jelena Gligorijevic, Tarun Bhatia and Narayan Bhamidipati",,,KDD 2019
+Understanding the Role of Style in E-commerce Shopping,"Hao Jiang, Aakash Sabharwal, Adam Henderson, Diane Hu and Liangjie Hong",,,KDD 2019
+Unsupervised Clinical Language Translation,"Wei-Hung Weng, Yu-An Chung and Peter Szolovits",http://arxiv.org/pdf/1902.01177v2,,KDD 2019
+UrbanFM: Inferring Fine-Grained Urban Flows,"Yuxuan Liang, Kun Ouyang, Lin Jing, Sijie Ruan, Ye Liu, Junbo Zhang, David Rosenblum and Yu Zheng",,,KDD 2019
+Using Twitter to Predict When Vulnerabilities will be Exploited,"Haipeng Chen, Rui Liu, Noseong Park and V.S. Subrahmanian",,,KDD 2019
+Whole Page Optimization with Global Constraints,"Weicong Ding, Dinesh Govindaraj and S V N Vishwanathan",,,KDD 2019
