@@ -2,33 +2,33 @@
 ### 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-24**|**Target-Aware Video Diffusion Models**|Taeksoo Kim et.al.|[2503.18950v1](http://arxiv.org/abs/2503.18950v1)|**2025-03-24**|null|
-|**2025-03-24**|**Tuning-Free Amodal Segmentation via the Occlusion-Free Bias of Inpainting Models**|Jae Joong Lee et.al.|[2503.18947v1](http://arxiv.org/abs/2503.18947v1)|**2025-03-24**|null|
-|**2025-03-24**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945v2](http://arxiv.org/abs/2503.18945v2)|**2025-03-25**|null|
-|**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944v1](http://arxiv.org/abs/2503.18944v1)|**2025-03-24**|[link](https://github.com/VisualComputingInstitute/DITR)|
-|**2025-03-24**|**Online 3D Scene Reconstruction Using Neural Object Priors**|Thomas Chabal et.al.|[2503.18897v1](http://arxiv.org/abs/2503.18897v1)|**2025-03-24**|null|
-|**2025-03-24**|**3DSwapping: Texture Swapping For 3D Object From Single Reference Image**|Xiao Cao et.al.|[2503.18853v1](http://arxiv.org/abs/2503.18853v1)|**2025-03-24**|null|
-|**2025-03-24**|**Dual-domain Multi-path Self-supervised Diffusion Model for Accelerated MRI Reconstruction**|Yuxuan Zhang et.al.|[2503.18836v1](http://arxiv.org/abs/2503.18836v1)|**2025-03-24**|null|
-|**2025-03-24**|**NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting**|Yulong Zheng et.al.|[2503.18794v1](http://arxiv.org/abs/2503.18794v1)|**2025-03-24**|null|
-|**2025-03-24**|**AlphaSpace: Enabling Robotic Actions through Semantic Tokenization and Symbolic Reasoning**|Alan Dao et.al.|[2503.18769v1](http://arxiv.org/abs/2503.18769v1)|**2025-03-24**|null|
-|**2025-03-24**|**Self-Supervised Learning based on Transformed Image Reconstruction for Equivariance-Coherent Feature Representation**|Qin Wang et.al.|[2503.18753v1](http://arxiv.org/abs/2503.18753v1)|**2025-03-24**|null|
-|**2025-03-24**|**Linguistics-aware Masked Image Modeling for Self-supervised Scene Text Recognition**|Yifei Zhang et.al.|[2503.18746v1](http://arxiv.org/abs/2503.18746v1)|**2025-03-24**|null|
-|**2025-03-24**|**Large deformation and collapse analysis of re-entrant auxetic and hexagonal honeycomb lattice structures subjected to tension and compression**|Sima Farshbaf et.al.|[2503.18736v1](http://arxiv.org/abs/2503.18736v1)|**2025-03-24**|null|
-|**2025-03-24**|**FG$^2$: Fine-Grained Cross-View Localization by Fine-Grained Feature Matching**|Zimin Xia et.al.|[2503.18725v1](http://arxiv.org/abs/2503.18725v1)|**2025-03-24**|null|
-|**2025-03-24**|**GS-Marker: Generalizable and Robust Watermarking for 3D Gaussian Splatting**|Lijiang Li et.al.|[2503.18718v1](http://arxiv.org/abs/2503.18718v1)|**2025-03-24**|null|
-|**2025-03-24**|**Benchmarking Burst Super-Resolution for Polarization Images: Noise Dataset and Analysis**|Inseung Hwang et.al.|[2503.18705v1](http://arxiv.org/abs/2503.18705v1)|**2025-03-24**|null|
-|**2025-03-24**|**Channel Consistency Prior and Self-Reconstruction Strategy Based Unsupervised Image Deraining**|Guanglu Dong et.al.|[2503.18703v1](http://arxiv.org/abs/2503.18703v1)|**2025-03-24**|null|
-|**2025-03-24**|**Maximum Bound Principle and Bound Preserving ETD schemes for a Phase-Field Model of Tumor Growth with Extracellular Matrix Degradation**|Qiumei Huang et.al.|[2503.18699v1](http://arxiv.org/abs/2503.18699v1)|**2025-03-24**|null|
-|**2025-03-24**|**Convergence study of ambipolar diffusion in realistic simulations of magneto-convection**|E. Khomenko et.al.|[2503.18686v1](http://arxiv.org/abs/2503.18686v1)|**2025-03-24**|null|
-|**2025-03-24**|**Hardware-Rasterized Ray-Based Gaussian Splatting**|Samuel Rota Bulò et.al.|[2503.18682v1](http://arxiv.org/abs/2503.18682v1)|**2025-03-24**|null|
-|**2025-03-24**|**NullSwap: Proactive Identity Cloaking Against Deepfake Face Swapping**|Tianyi Wang et.al.|[2503.18678v1](http://arxiv.org/abs/2503.18678v1)|**2025-03-24**|null|
-|**2025-03-24**|**Any6D: Model-free 6D Pose Estimation of Novel Objects**|Taeyeop Lee et.al.|[2503.18673v2](http://arxiv.org/abs/2503.18673v2)|**2025-03-25**|null|
-|**2025-03-24**|**Structure-Aware Correspondence Learning for Relative Pose Estimation**|Yihan Chen et.al.|[2503.18671v1](http://arxiv.org/abs/2503.18671v1)|**2025-03-24**|null|
-|**2025-03-24**|**LLGS: Unsupervised Gaussian Splatting for Image Enhancement and Reconstruction in Pure Dark Environment**|Haoran Wang et.al.|[2503.18640v1](http://arxiv.org/abs/2503.18640v1)|**2025-03-24**|null|
-|**2025-03-24**|**Reading Decisions from Gaze Direction during Graphics Turing Test of Gait Animation**|Benjamin Knopp et.al.|[2503.18619v1](http://arxiv.org/abs/2503.18619v1)|**2025-03-24**|null|
-|**2025-03-24**|**Double radio relics and radio halo in the high redshift galaxy cluster El Gordo with the Upgraded GMRT**|R. Kale et.al.|[2503.18613v1](http://arxiv.org/abs/2503.18613v1)|**2025-03-24**|null|
-|**2025-03-24**|**Adventurer: Exploration with BiGAN for Deep Reinforcement Learning**|Yongshuai Liu et.al.|[2503.18612v1](http://arxiv.org/abs/2503.18612v1)|**2025-03-24**|null|
-|**2025-03-24**|**Redshift Distributions of Fast Radio Bursts Inferred Using Clustering in Dispersion Measure Space**|Hui Peng et.al.|[2503.18604v1](http://arxiv.org/abs/2503.18604v1)|**2025-03-24**|null|
-|**2025-03-24**|**Electronic structure of CeCo$_{1-x}$Fe$_x$Ge$_3$ studied by X-ray photoelectron spectroscopy and first-principles calculations**|P. Skokowski et.al.|[2503.18598v1](http://arxiv.org/abs/2503.18598v1)|**2025-03-24**|null|
-|**2025-03-24**|**RLCAD: Reinforcement Learning Training Gym for Revolution Involved CAD Command Sequence Generation**|Xiaolong Yin et.al.|[2503.18549v1](http://arxiv.org/abs/2503.18549v1)|**2025-03-24**|null|
-|**2025-03-24**|**HiRes-FusedMIM: A High-Resolution RGB-DSM Pre-trained Model for Building-Level Remote Sensing Applications**|Guneet Mutreja et.al.|[2503.18540v1](http://arxiv.org/abs/2503.18540v1)|**2025-03-24**|null|
+|**2025-03-25**|**PartRM: Modeling Part-Level Dynamics with Large Cross-State Reconstruction Model**|Mingju Gao et.al.|[2503.19913v1](http://arxiv.org/abs/2503.19913v1)|**2025-03-25**|null|
+|**2025-03-25**|**Learning 3D Object Spatial Relationships from Pre-trained 2D Diffusion Models**|Sangwon Beak et.al.|[2503.19914v1](http://arxiv.org/abs/2503.19914v1)|**2025-03-25**|null|
+|**2025-03-25**|**SuperFlow++: Enhanced Spatiotemporal Consistency for Cross-Modal Data Pretraining**|Xiang Xu et.al.|[2503.19912v1](http://arxiv.org/abs/2503.19912v1)|**2025-03-25**|null|
+|**2025-03-25**|**Tracktention: Leveraging Point Tracking to Attend Videos Faster and Better**|Zihang Lai et.al.|[2503.19904v1](http://arxiv.org/abs/2503.19904v1)|**2025-03-25**|null|
+|**2025-03-25**|**Visuo-Tactile Object Pose Estimation for a Multi-Finger Robot Hand with Low-Resolution In-Hand Tactile Sensing**|Lukas Mack et.al.|[2503.19893v1](http://arxiv.org/abs/2503.19893v1)|**2025-03-25**|null|
+|**2025-03-25**|**Observability of linear systems on the Heisenberg Lie group**|Thiago Matheus Cavalheiro et.al.|[2503.19890v1](http://arxiv.org/abs/2503.19890v1)|**2025-03-25**|null|
+|**2025-03-25**|**A Multi-Agent Framework Integrating Large Language Models and Generative AI for Accelerated Metamaterial Design**|Jie Tian et.al.|[2503.19889v1](http://arxiv.org/abs/2503.19889v1)|**2025-03-25**|null|
+|**2025-03-25**|**Distorting the Top Resonance with Effective Interactions**|Felix Egle et.al.|[2503.19841v1](http://arxiv.org/abs/2503.19841v1)|**2025-03-25**|null|
+|**2025-03-25**|**AudCast: Audio-Driven Human Video Generation by Cascaded Diffusion Transformers**|Jiazhi Guan et.al.|[2503.19824v1](http://arxiv.org/abs/2503.19824v1)|**2025-03-25**|null|
+|**2025-03-25**|**Machine Learning and Data-Driven Methods in Computational Surface and Interface Science**|Lukas Hörmann et.al.|[2503.19814v1](http://arxiv.org/abs/2503.19814v1)|**2025-03-25**|null|
+|**2025-03-25**|**PAVE: Patching and Adapting Video Large Language Models**|Zhuoming Liu et.al.|[2503.19794v1](http://arxiv.org/abs/2503.19794v1)|**2025-03-25**|null|
+|**2025-03-25**|**In the Blink of an Eye: Instant Game Map Editing using a Generative-AI Smart Brush**|Vitaly Gnatyuk et.al.|[2503.19793v1](http://arxiv.org/abs/2503.19793v1)|**2025-03-25**|null|
+|**2025-03-25**|**Adaptive refinement in defeaturing problems via an equilibrated flux a posteriori error estimator**|Annalisa Buffa et.al.|[2503.19784v1](http://arxiv.org/abs/2503.19784v1)|**2025-03-25**|null|
+|**2025-03-25**|**Resilient Sensor Fusion under Adverse Sensor Failures via Multi-Modal Expert Fusion**|Konyul Park et.al.|[2503.19776v1](http://arxiv.org/abs/2503.19776v1)|**2025-03-25**|null|
+|**2025-03-25**|**Prospects and Opportunities with an upgraded FASER Neutrino Detector during the HL-LHC era: Input to the EPPSU**|FASER Collaboration et.al.|[2503.19775v1](http://arxiv.org/abs/2503.19775v1)|**2025-03-25**|null|
+|**2025-03-25**|**OpenLex3D: A New Evaluation Benchmark for Open-Vocabulary 3D Scene Representations**|Christina Kassab et.al.|[2503.19764v1](http://arxiv.org/abs/2503.19764v1)|**2025-03-25**|null|
+|**2025-03-25**|**Magic teleportation with generalized lattice surgery**|Yifei Wang et.al.|[2503.19758v1](http://arxiv.org/abs/2503.19758v1)|**2025-03-25**|null|
+|**2025-03-25**|**A Survey on Event-driven 3D Reconstruction: Development under Different Categories**|Chuanzhi Xu et.al.|[2503.19753v1](http://arxiv.org/abs/2503.19753v1)|**2025-03-25**|null|
+|**2025-03-25**|**Stellar-wind feedback and magnetic fields around young compact star clusters: 3D MHD simulations**|Lucia Härer et.al.|[2503.19745v1](http://arxiv.org/abs/2503.19745v1)|**2025-03-25**|null|
+|**2025-03-25**|**GRN+: A Simplified Generative Reinforcement Network for Tissue Layer Analysis in 3D Ultrasound Images for Chronic Low-back Pain**|Zixue Zeng et.al.|[2503.19736v1](http://arxiv.org/abs/2503.19736v1)|**2025-03-25**|null|
+|**2025-03-25**|**EventMamba: Enhancing Spatio-Temporal Locality with State Space Models for Event-Based Video Reconstruction**|Chengjie Ge et.al.|[2503.19721v1](http://arxiv.org/abs/2503.19721v1)|**2025-03-25**|null|
+|**2025-03-25**|**Invertible Koopman neural operator for data-driven modeling of partial differential equations**|Yuhong Jin et.al.|[2503.19717v1](http://arxiv.org/abs/2503.19717v1)|**2025-03-25**|null|
+|**2025-03-25**|**Decoupled Dynamics Framework with Neural Fields for 3D Spatio-temporal Prediction of Vehicle Collisions**|Sanghyuk Kim et.al.|[2503.19712v1](http://arxiv.org/abs/2503.19712v1)|**2025-03-25**|null|
+|**2025-03-25**|**Data-efficient rapid prediction of urban airflow and temperature fields for complex building geometries**|Shaoxiang Qin et.al.|[2503.19708v1](http://arxiv.org/abs/2503.19708v1)|**2025-03-25**|null|
+|**2025-03-25**|**High-Quality Spatial Reconstruction and Orthoimage Generation Using Efficient 2D Gaussian Splatting**|Qian Wang et.al.|[2503.19703v1](http://arxiv.org/abs/2503.19703v1)|**2025-03-25**|null|
+|**2025-03-25**|**Three-dimensional variational data assimilation of separated flows using time-averaged experimental data**|Uttam Cadambi Padmanaban et.al.|[2503.19689v1](http://arxiv.org/abs/2503.19689v1)|**2025-03-25**|null|
+|**2025-03-25**|**MultimodalStudio: A Heterogeneous Sensor Dataset and Framework for Neural Rendering across Multiple Imaging Modalities**|Federico Lincetto et.al.|[2503.19673v1](http://arxiv.org/abs/2503.19673v1)|**2025-03-25**|null|
+|**2025-03-25**|**Homogenized harmonic balance finite element method for nonlinear eddy current simulations of fast corrector magnets**|Jan-Magnus Christmann et.al.|[2503.19657v1](http://arxiv.org/abs/2503.19657v1)|**2025-03-25**|null|
+|**2025-03-25**|**Recover from Horcrux: A Spectrogram Augmentation Method for Cardiac Feature Monitoring from Radar Signal Components**|Yuanyuan Zhang et.al.|[2503.19649v1](http://arxiv.org/abs/2503.19649v1)|**2025-03-25**|null|
+|**2025-03-25**|**Perception-Enhanced Multitask Multimodal Semantic Communication for UAV-Assisted Integrated Sensing and Communication System**|Ziji Guo et.al.|[2503.19594v1](http://arxiv.org/abs/2503.19594v1)|**2025-03-25**|null|

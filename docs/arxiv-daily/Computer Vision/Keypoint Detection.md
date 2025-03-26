@@ -2,6 +2,11 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-25**|**Towards Online Multi-Modal Social Interaction Understanding**|Xinpeng Li et.al.|[2503.19851v1](http://arxiv.org/abs/2503.19851v1)|**2025-03-25**|null|
+|**2025-03-25**|**Unpaired Object-Level SAR-to-Optical Image Translation for Aircraft with Keypoints-Guided Diffusion Models**|Ruixi You et.al.|[2503.19798v1](http://arxiv.org/abs/2503.19798v1)|**2025-03-25**|null|
+|**2025-03-25**|**MM-LINS: a Multi-Map LiDAR-Inertial System for Over-Degenerate Environments**|Yongxin Ma et.al.|[2503.19506v1](http://arxiv.org/abs/2503.19506v1)|**2025-03-25**|[link](https://github.com/lian-yue0515/MM-LINS)|
+|**2025-03-25**|**Multiscale Feature Importance-based Bit Allocation for End-to-End Feature Coding for Machines**|Junle Liu et.al.|[2503.19278v1](http://arxiv.org/abs/2503.19278v1)|**2025-03-25**|null|
+|**2025-03-24**|**Stochastic ecohydrological perspective on semi-distributed rainfall-runoff dynamics**|Mark S. Bartlett et.al.|[2503.19220v1](http://arxiv.org/abs/2503.19220v1)|**2025-03-24**|null|
 |**2025-03-24**|**Stochastic modeling of particle structures in spray fluidized bed agglomeration using methods from machine learning**|Lukas Fuchs et.al.|[2503.18882v1](http://arxiv.org/abs/2503.18882v1)|**2025-03-24**|null|
 |**2025-03-24**|**Good Keypoints for the Two-View Geometry Estimation Problem**|Konstantin Pakulev et.al.|[2503.18767v1](http://arxiv.org/abs/2503.18767v1)|**2025-03-24**|null|
 |**2025-03-24**|**Structure-Aware Correspondence Learning for Relative Pose Estimation**|Yihan Chen et.al.|[2503.18671v1](http://arxiv.org/abs/2503.18671v1)|**2025-03-24**|null|
@@ -16,7 +21,7 @@
 |**2025-03-21**|**Stereological 3D modeling of nano-scale catalyst particles using TEM projections**|Lukas Fuchs et.al.|[2503.17437v1](http://arxiv.org/abs/2503.17437v1)|**2025-03-21**|null|
 |**2025-03-21**|**A Comparative Analysis of Image Descriptors for Histopathological Classification of Gastric Cancer**|Marco Usai et.al.|[2503.17105v1](http://arxiv.org/abs/2503.17105v1)|**2025-03-21**|null|
 |**2025-03-21**|**Superpowering Open-Vocabulary Object Detectors for X-ray Vision**|Pablo Garcia-Fernandez et.al.|[2503.17071v1](http://arxiv.org/abs/2503.17071v1)|**2025-03-21**|null|
-|**2025-03-21**|**Enabling Versatile Controls for Video Diffusion Models**|Xu Zhang et.al.|[2503.16983v1](http://arxiv.org/abs/2503.16983v1)|**2025-03-21**|null|
+|**2025-03-21**|**Enabling Versatile Controls for Video Diffusion Models**|Xu Zhang et.al.|[2503.16983v1](http://arxiv.org/abs/2503.16983v1)|**2025-03-21**|[link](https://github.com/PaddlePaddle/PaddleMIX)|
 |**2025-03-21**|**Multi-property directed generative design of inorganic materials through Wyckoff-augmented transfer learning**|Shuya Yamazaki et.al.|[2503.16784v1](http://arxiv.org/abs/2503.16784v1)|**2025-03-21**|null|
 |**2025-03-20**|**SceneMI: Motion In-betweening for Modeling Human-Scene Interactions**|Inwoo Hwang et.al.|[2503.16289v1](http://arxiv.org/abs/2503.16289v1)|**2025-03-20**|null|
 |**2025-03-20**|**MapGlue: Multimodal Remote Sensing Image Matching**|Peihao Wu et.al.|[2503.16185v1](http://arxiv.org/abs/2503.16185v1)|**2025-03-20**|[link](https://github.com/peihaowu/mapglue)|
@@ -27,8 +32,3 @@
 |**2025-03-19**|**Body-Hand Modality Expertized Networks with Cross-attention for Fine-grained Skeleton Action Recognition**|Seungyeon Cho et.al.|[2503.14960v2](http://arxiv.org/abs/2503.14960v2)|**2025-03-21**|null|
 |**2025-03-18**|**Consumer-grade EEG-based Eye Tracking**|Tiago Vasconcelos Afonso et.al.|[2503.14322v1](http://arxiv.org/abs/2503.14322v1)|**2025-03-18**|[link](https://github.com/FlorianHeinrichs/eeg_eye_tracking)|
 |**2025-03-18**|**PC-Talk: Precise Facial Animation Control for Audio-Driven Talking Face Generation**|Baiqin Wang et.al.|[2503.14295v2](http://arxiv.org/abs/2503.14295v2)|**2025-03-20**|null|
-|**2025-03-18**|**Opportunities and Challenges in Unsupervised Learning: The Case of Aqueous Electrolyte Solutions**|Giulia Sormani et.al.|[2503.14197v1](http://arxiv.org/abs/2503.14197v1)|**2025-03-18**|null|
-|**2025-03-18**|**A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**|Huy-Hoang Bui et.al.|[2503.13982v1](http://arxiv.org/abs/2503.13982v1)|**2025-03-18**|[link](https://github.com/ais-lab/a-score)|
-|**2025-03-17**|**Neural Edge Histogram Descriptors for Underwater Acoustic Target Recognition**|Atharva Agashe et.al.|[2503.13763v1](http://arxiv.org/abs/2503.13763v1)|**2025-03-17**|null|
-|**2025-03-17**|**STEP: Simultaneous Tracking and Estimation of Pose for Animals and Humans**|Shashikant Verma et.al.|[2503.13344v2](http://arxiv.org/abs/2503.13344v2)|**2025-03-20**|[link](https://github.com/shash29-dev/STEP)|
-|**2025-03-17**|**ASMR: Adaptive Skeleton-Mesh Rigging and Skinning via 2D Generative Prior**|Seokhyeon Hong et.al.|[2503.13579v1](http://arxiv.org/abs/2503.13579v1)|**2025-03-17**|null|
