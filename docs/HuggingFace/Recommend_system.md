@@ -565,6 +565,7 @@ Updated on 2025-03-26
 | 21.8k |  | ai-forever/ruRoberta-largeFill-Mask | UpdatedNov 3, 2023 | [Link](https://huggingface.co/ai-forever/ruRoberta-large) |
 | 432k |  | vinai/phobert-baseFill-Mask | UpdatedAug 20, 2024 | [Link](https://huggingface.co/vinai/phobert-base) |
 | 1.87k |  | google-bert/bert-large-cased-whole-word-maskingFill-Mask | UpdatedApr 10, 2024 | [Link](https://huggingface.co/google-bert/bert-large-cased-whole-word-masking) |
+| 1.3k |  | recobo/agriculture-bert-uncasedFill-Mask | UpdatedOct 8, 2021 | [Link](https://huggingface.co/recobo/agriculture-bert-uncased) |
 
 ## Graph Machine Learning
 
