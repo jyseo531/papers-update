@@ -2253,6 +2253,7 @@ Updated on 2025-03-27
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
 | 3.12k | 633 | CohereForAI/aya-101Text2Text | UpdatedMar 31, 2024 | [Link](https://huggingface.co/CohereForAI/aya-101) |
+| 320k | 486 | google/flan-t5-xlText2Text | UpdatedNov 28, 2023 | [Link](https://huggingface.co/google/flan-t5-xl) |
 | 21.6k | 400 | bigscience/T0ppText2Text | UpdatedMar 19, 2024 | [Link](https://huggingface.co/bigscience/T0pp) |
 | 99 | 288 | google/switch-c-2048Text2Text | UpdatedJan 11, 2024 | [Link](https://huggingface.co/google/switch-c-2048) |
 | 20.5k | 216 | Babelscape/rebel-largeText2Text | UpdatedJun 20, 2023 | [Link](https://huggingface.co/Babelscape/rebel-large) |
