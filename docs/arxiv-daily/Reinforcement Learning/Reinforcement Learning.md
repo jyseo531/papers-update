@@ -2,33 +2,33 @@
 ### Reinforcement Learning
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-26**|**Understanding R1-Zero-Like Training: A Critical Perspective**|Zichen Liu et.al.|[2503.20783v1](http://arxiv.org/abs/2503.20783v1)|**2025-03-26**|null|
+|**2025-03-26**|**Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning**|Huajie Tan et.al.|[2503.20752v1](http://arxiv.org/abs/2503.20752v1)|**2025-03-26**|null|
+|**2025-03-26**|**Technical Note: Continuum Theory of Mixture for Three-phase Thermomechanical Model of Fiber-reinforced Aerogel Composites**|Pratyush Kumar Singh et.al.|[2503.20713v1](http://arxiv.org/abs/2503.20713v1)|**2025-03-26**|null|
+|**2025-03-26**|**MMMORRF: Multimodal Multilingual Modularized Reciprocal Rank Fusion**|Saron Samuel et.al.|[2503.20698v1](http://arxiv.org/abs/2503.20698v1)|**2025-03-26**|null|
+|**2025-03-26**|**Graph-Enhanced Model-Free Reinforcement Learning Agents for Efficient Power Grid Topological Control**|Eloy Anguiano Batanero et.al.|[2503.20688v1](http://arxiv.org/abs/2503.20688v1)|**2025-03-26**|null|
+|**2025-03-26**|**Flip Learning: Weakly Supervised Erase to Segment Nodules in Breast Ultrasound**|Yuhao Huang et.al.|[2503.20685v1](http://arxiv.org/abs/2503.20685v1)|**2025-03-26**|null|
+|**2025-03-26**|**Unlocking Efficient Long-to-Short LLM Reasoning with Model Merging**|Han Wu et.al.|[2503.20641v1](http://arxiv.org/abs/2503.20641v1)|**2025-03-26**|null|
+|**2025-03-26**|**State-Aware Perturbation Optimization for Robust Deep Reinforcement Learning**|Zongyuan Zhang et.al.|[2503.20613v1](http://arxiv.org/abs/2503.20613v1)|**2025-03-26**|null|
+|**2025-03-26**|**Optimizing Case-Based Reasoning System for Functional Test Script Generation with Large Language Models**|Siyuan Guo et.al.|[2503.20576v1](http://arxiv.org/abs/2503.20576v1)|**2025-03-26**|null|
+|**2025-03-26**|**Harmonia: A Multi-Agent Reinforcement Learning Approach to Data Placement and Migration in Hybrid Storage Systems**|Rakesh Nadig et.al.|[2503.20507v1](http://arxiv.org/abs/2503.20507v1)|**2025-03-26**|null|
+|**2025-03-26**|**Dissecting and Mitigating Diffusion Bias via Mechanistic Interpretability**|Yingdong Shi et.al.|[2503.20483v1](http://arxiv.org/abs/2503.20483v1)|**2025-03-26**|null|
+|**2025-03-26**|**Pedagogy of Teaching Pointers in the C Programming Language using Graph Transformations**|Adwoa Donyina et.al.|[2503.20469v1](http://arxiv.org/abs/2503.20469v1)|**2025-03-26**|null|
+|**2025-03-26**|**Multi-agent Uncertainty-Aware Pessimistic Model-Based Reinforcement Learning for Connected Autonomous Vehicles**|Ruoqi Wen et.al.|[2503.20462v1](http://arxiv.org/abs/2503.20462v1)|**2025-03-26**|null|
+|**2025-03-26**|**The Crucial Role of Problem Formulation in Real-World Reinforcement Learning**|Georg Schäfer et.al.|[2503.20442v1](http://arxiv.org/abs/2503.20442v1)|**2025-03-26**|null|
+|**2025-03-26**|**Perspective-Shifted Neuro-Symbolic World Models: A Framework for Socially-Aware Robot Navigation**|Kevin Alcedo et.al.|[2503.20425v1](http://arxiv.org/abs/2503.20425v1)|**2025-03-26**|null|
+|**2025-03-26**|**FastFT: Accelerating Reinforced Feature Transformation via Advanced Exploration Strategies**|Tianqi He et.al.|[2503.20394v1](http://arxiv.org/abs/2503.20394v1)|**2025-03-26**|null|
+|**2025-03-26**|**Magnetic Field Dynamics and Energy Dissipation of Relativistic Magnetohydrodynamics in Relativistic Heavy-Ion Collisions**|Huang-Jing Zheng et.al.|[2503.20307v1](http://arxiv.org/abs/2503.20307v1)|**2025-03-26**|null|
+|**2025-03-26**|**Model-Based Offline Reinforcement Learning with Adversarial Data Augmentation**|Hongye Cao et.al.|[2503.20285v1](http://arxiv.org/abs/2503.20285v1)|**2025-03-26**|null|
+|**2025-03-26**|**Dynamics of Algorithmic Content Amplification on TikTok**|Fabian Baumann et.al.|[2503.20231v1](http://arxiv.org/abs/2503.20231v1)|**2025-03-26**|null|
+|**2025-03-26**|**Learning Adaptive Dexterous Grasping from Single Demonstrations**|Liangzhi Shi et.al.|[2503.20208v1](http://arxiv.org/abs/2503.20208v1)|**2025-03-26**|null|
+|**2025-03-26**|**Generalized Phase Pressure Control Enhanced Reinforcement Learning for Traffic Signal Control**|Xiao-Cheng Liao et.al.|[2503.20205v1](http://arxiv.org/abs/2503.20205v1)|**2025-03-26**|null|
+|**2025-03-26**|**Offline Reinforcement Learning with Discrete Diffusion Skills**|RuiXi Qiao et.al.|[2503.20176v1](http://arxiv.org/abs/2503.20176v1)|**2025-03-26**|null|
+|**2025-03-26**|**Look Before Leap: Look-Ahead Planning with Uncertainty in Reinforcement Learning**|Yongshuai Liu et.al.|[2503.20139v1](http://arxiv.org/abs/2503.20139v1)|**2025-03-26**|null|
+|**2025-03-26**|**Synthesizing world models for bilevel planning**|Zergham Ahmed et.al.|[2503.20124v1](http://arxiv.org/abs/2503.20124v1)|**2025-03-26**|null|
+|**2025-03-25**|**Abstracting Geo-specific Terrains to Scale Up Reinforcement Learning**|Volkan Ustun et.al.|[2503.20078v1](http://arxiv.org/abs/2503.20078v1)|**2025-03-25**|null|
+|**2025-03-25**|**$π$/4 phase shift in the angular magnetoresistance of infinite layer nickelates**|Yoav Mairovich et.al.|[2503.20070v1](http://arxiv.org/abs/2503.20070v1)|**2025-03-25**|null|
+|**2025-03-25**|**Unsupervised Learning for Quadratic Assignment**|Yimeng Min et.al.|[2503.20001v1](http://arxiv.org/abs/2503.20001v1)|**2025-03-25**|null|
 |**2025-03-25**|**Early Career Researcher Input to the European Strategy for Particle Physics Update: White Paper**|Jan-Hendrik Arling et.al.|[2503.19862v1](http://arxiv.org/abs/2503.19862v1)|**2025-03-25**|null|
 |**2025-03-25**|**Think Twice: Enhancing LLM Reasoning by Scaling Multi-round Test-time Thinking**|Xiaoyu Tian et.al.|[2503.19855v1](http://arxiv.org/abs/2503.19855v1)|**2025-03-25**|null|
 |**2025-03-25**|**Nordic perspective on System Integrity Protection Schemes in relation to capacity allocation**|Gabriel Malmer et.al.|[2503.19827v1](http://arxiv.org/abs/2503.19827v1)|**2025-03-25**|null|
-|**2025-03-25**|**Probabilistic combination of loads in topology optimization designs via cumulative damage criteria**|Luis Irastorza-Valera et.al.|[2503.19807v1](http://arxiv.org/abs/2503.19807v1)|**2025-03-25**|null|
-|**2025-03-25**|**GRN+: A Simplified Generative Reinforcement Network for Tissue Layer Analysis in 3D Ultrasound Images for Chronic Low-back Pain**|Zixue Zeng et.al.|[2503.19736v1](http://arxiv.org/abs/2503.19736v1)|**2025-03-25**|null|
-|**2025-03-25**|**Optimal Path Planning and Cost Minimization for a Drone Delivery System Via Model Predictive Control**|Muhammad Al-Zafar Khan et.al.|[2503.19699v1](http://arxiv.org/abs/2503.19699v1)|**2025-03-25**|null|
-|**2025-03-25**|**Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection**|Bo Leng et.al.|[2503.19690v1](http://arxiv.org/abs/2503.19690v1)|**2025-03-25**|null|
-|**2025-03-25**|**Learning to chain-of-thought with Jensen's evidence lower bound**|Yunhao Tang et.al.|[2503.19618v1](http://arxiv.org/abs/2503.19618v1)|**2025-03-25**|null|
-|**2025-03-25**|**RL-finetuning LLMs from on- and off-policy data with a single algorithm**|Yunhao Tang et.al.|[2503.19612v1](http://arxiv.org/abs/2503.19612v1)|**2025-03-25**|null|
-|**2025-03-25**|**Optimizing Language Models for Inference Time Objectives using Reinforcement Learning**|Yunhao Tang et.al.|[2503.19595v1](http://arxiv.org/abs/2503.19595v1)|**2025-03-25**|null|
-|**2025-03-25**|**One Framework to Rule Them All: Unifying RL-Based and RL-Free Methods in RLHF**|Xin Cai et.al.|[2503.19523v2](http://arxiv.org/abs/2503.19523v2)|**2025-03-26**|null|
-|**2025-03-25**|**ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning**|Mingyang Chen et.al.|[2503.19470v1](http://arxiv.org/abs/2503.19470v1)|**2025-03-25**|null|
-|**2025-03-25**|**Multi-Agent Deep Reinforcement Learning for Safe Autonomous Driving with RICS-Assisted MEC**|Xueyao Zhang et.al.|[2503.19418v1](http://arxiv.org/abs/2503.19418v1)|**2025-03-25**|null|
-|**2025-03-25**|**NeoRL-2: Near Real-World Benchmarks for Offline Reinforcement Learning with Extended Realistic Scenarios**|Songyi Gao et.al.|[2503.19267v1](http://arxiv.org/abs/2503.19267v1)|**2025-03-25**|null|
-|**2025-03-24**|**Continual Reinforcement Learning for HVAC Systems Control: Integrating Hypernetworks and Transfer Learning**|Gautham Udayakumar Bekal et.al.|[2503.19212v1](http://arxiv.org/abs/2503.19212v1)|**2025-03-24**|null|
-|**2025-03-24**|**A Shared Low-Rank Adaptation Approach to Personalized RLHF**|Renpu Liu et.al.|[2503.19201v1](http://arxiv.org/abs/2503.19201v1)|**2025-03-24**|null|
-|**2025-03-24**|**Mining-Gym: A Configurable RL Benchmarking Environment for Truck Dispatch Scheduling**|Chayan Banerjee et.al.|[2503.19195v1](http://arxiv.org/abs/2503.19195v1)|**2025-03-24**|null|
-|**2025-03-24**|**Evaluating Bias in LLMs for Job-Resume Matching: Gender, Race, and Education**|Hayate Iso et.al.|[2503.19182v1](http://arxiv.org/abs/2503.19182v1)|**2025-03-24**|null|
-|**2025-03-24**|**Bounding fidelity in quantum feedback control: Theory and applications to Dicke state preparation**|Eoin O'Connor et.al.|[2503.19151v1](http://arxiv.org/abs/2503.19151v1)|**2025-03-24**|null|
-|**2025-03-24**|**Evolutionary Policy Optimization**|Jianren Wang et.al.|[2503.19037v1](http://arxiv.org/abs/2503.19037v1)|**2025-03-24**|null|
-|**2025-03-24**|**Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training**|Brian R. Bartoldson et.al.|[2503.18929v1](http://arxiv.org/abs/2503.18929v1)|**2025-03-24**|null|
-|**2025-03-24**|**Black hole solutions in Cotton gravity coupled to nonlinear electrodynamics**|Ednaldo L. B. Junior et.al.|[2503.19008v1](http://arxiv.org/abs/2503.19008v1)|**2025-03-24**|null|
-|**2025-03-24**|**SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild**|Weihao Zeng et.al.|[2503.18892v1](http://arxiv.org/abs/2503.18892v1)|**2025-03-24**|null|
-|**2025-03-24**|**3DSwapping: Texture Swapping For 3D Object From Single Reference Image**|Xiao Cao et.al.|[2503.18853v1](http://arxiv.org/abs/2503.18853v1)|**2025-03-24**|null|
-|**2025-03-24**|**Self-Organizing Graph Reasoning Evolves into a Critical State for Continuous Discovery Through Structural-Semantic Dynamics**|Markus J. Buehler et.al.|[2503.18852v1](http://arxiv.org/abs/2503.18852v1)|**2025-03-24**|null|
-|**2025-03-24**|**Learning Multi-Robot Coordination through Locality-Based Factorized Multi-Agent Actor-Critic Algorithm**|Chak Lam Shek et.al.|[2503.18816v1](http://arxiv.org/abs/2503.18816v1)|**2025-03-24**|null|
-|**2025-03-24**|**Option Discovery Using LLM-guided Semantic Hierarchical Reinforcement Learning**|Chak Lam Shek et.al.|[2503.19007v1](http://arxiv.org/abs/2503.19007v1)|**2025-03-24**|null|
-|**2025-03-24**|**Sample-Efficient Reinforcement Learning of Koopman eNMPC**|Daniel Mayfrank et.al.|[2503.18787v1](http://arxiv.org/abs/2503.18787v1)|**2025-03-24**|null|
-|**2025-03-24**|**Simulation-Driven Balancing of Competitive Game Levels with Reinforcement Learning**|Florian Rupp et.al.|[2503.18748v1](http://arxiv.org/abs/2503.18748v1)|**2025-03-24**|null|
-|**2025-03-24**|**FF-SRL: High Performance GPU-Based Surgical Simulation For Robot Learning**|Diego Dall'Alba et.al.|[2503.18616v1](http://arxiv.org/abs/2503.18616v1)|**2025-03-24**|null|

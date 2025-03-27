@@ -2,33 +2,33 @@
 ### Point Cloud Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-25**|**SuperFlow++: Enhanced Spatiotemporal Consistency for Cross-Modal Data Pretraining**|Xiang Xu et.al.|[2503.19912v1](http://arxiv.org/abs/2503.19912v1)|**2025-03-25**|null|
-|**2025-03-25**|**Helmet streamer influence on the evolution of magnetic flux ropes**|M. Cécere et.al.|[2503.19905v1](http://arxiv.org/abs/2503.19905v1)|**2025-03-25**|null|
-|**2025-03-25**|**Tracktention: Leveraging Point Tracking to Attend Videos Faster and Better**|Zihang Lai et.al.|[2503.19904v1](http://arxiv.org/abs/2503.19904v1)|**2025-03-25**|null|
-|**2025-03-25**|**Non-minimally coupled gravity constraints from DESI DR2 data**|Jiaming Pan et.al.|[2503.19898v1](http://arxiv.org/abs/2503.19898v1)|**2025-03-25**|null|
-|**2025-03-25**|**Mask$^2$DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation**|Tianhao Qi et.al.|[2503.19881v1](http://arxiv.org/abs/2503.19881v1)|**2025-03-25**|null|
-|**2025-03-25**|**Unpaired Translation of Chest X-ray Images for Lung Opacity Diagnosis via Adaptive Activation Masks and Cross-Domain Alignment**|Junzhi Ning et.al.|[2503.19860v1](http://arxiv.org/abs/2503.19860v1)|**2025-03-25**|null|
-|**2025-03-25**|**Comparing the Run-time Behavior of Modern PDES Engines on Alternative Hardware Architectures**|Romolo Marotta et.al.|[2503.19857v1](http://arxiv.org/abs/2503.19857v1)|**2025-03-25**|null|
-|**2025-03-25**|**$T\overline{T}$ and the black hole interior**|Shadi Ali Ahmad et.al.|[2503.19854v1](http://arxiv.org/abs/2503.19854v1)|**2025-03-25**|null|
-|**2025-03-25**|**Ab-initio simulation of excited-state potential energy surfaces with transferable deep quantum Monte Carlo**|Zeno Schätzle et.al.|[2503.19847v1](http://arxiv.org/abs/2503.19847v1)|**2025-03-25**|null|
-|**2025-03-25**|**A Comparative Analysis of Word Segmentation, Part-of-Speech Tagging, and Named Entity Recognition for Historical Chinese Sources, 1900-1950**|Zhao Fang et.al.|[2503.19844v1](http://arxiv.org/abs/2503.19844v1)|**2025-03-25**|null|
-|**2025-03-25**|**Ultrafast decoupling of polarization and strain in ferroelectric BaTiO$_3$**|Le Phuong Hoang et.al.|[2503.19808v1](http://arxiv.org/abs/2503.19808v1)|**2025-03-25**|null|
-|**2025-03-25**|**SeLIP: Similarity Enhanced Contrastive Language Image Pretraining for Multi-modal Head MRI**|Zhiyang Liu et.al.|[2503.19801v1](http://arxiv.org/abs/2503.19801v1)|**2025-03-25**|null|
-|**2025-03-25**|**The cross-correlation between soft X-rays and galaxies A new benchmark for galaxy evolution models**|Johan Comparat et.al.|[2503.19796v1](http://arxiv.org/abs/2503.19796v1)|**2025-03-25**|null|
-|**2025-03-25**|**Many antipodes implies many neighbors**|Stefan Steinerberger et.al.|[2503.19792v1](http://arxiv.org/abs/2503.19792v1)|**2025-03-25**|null|
-|**2025-03-25**|**On rational double points over nonclosed fields**|Christian Liedtke et.al.|[2503.19787v1](http://arxiv.org/abs/2503.19787v1)|**2025-03-25**|null|
-|**2025-03-25**|**LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation**|Vladan Stojnić et.al.|[2503.19777v1](http://arxiv.org/abs/2503.19777v1)|**2025-03-25**|null|
-|**2025-03-25**|**BiPrompt-SAM: Enhancing Image Segmentation via Explicit Selection between Point and Text Prompts**|Suzhe Xu et.al.|[2503.19769v1](http://arxiv.org/abs/2503.19769v1)|**2025-03-25**|null|
-|**2025-03-25**|**A Managed Tokens Service for Securely Keeping and Distributing Grid Tokens**|Shreyas Bhat et.al.|[2503.19768v1](http://arxiv.org/abs/2503.19768v1)|**2025-03-25**|null|
-|**2025-03-25**|**OpenLex3D: A New Evaluation Benchmark for Open-Vocabulary 3D Scene Representations**|Christina Kassab et.al.|[2503.19764v1](http://arxiv.org/abs/2503.19764v1)|**2025-03-25**|null|
-|**2025-03-25**|**Emergent Pair Density Wave Order Across a Lifshitz Transition**|Luhang Yang et.al.|[2503.19761v1](http://arxiv.org/abs/2503.19761v1)|**2025-03-25**|null|
-|**2025-03-25**|**Precision holography of AdS$_5$ bubbling geometries**|David Turton et.al.|[2503.19760v1](http://arxiv.org/abs/2503.19760v1)|**2025-03-25**|null|
-|**2025-03-25**|**Fundamentals of heterodyne wave mixing spectroscopy: a tutorial**|Daniel Groll et.al.|[2503.19750v1](http://arxiv.org/abs/2503.19750v1)|**2025-03-25**|null|
-|**2025-03-25**|**Stellar-wind feedback and magnetic fields around young compact star clusters: 3D MHD simulations**|Lucia Härer et.al.|[2503.19745v1](http://arxiv.org/abs/2503.19745v1)|**2025-03-25**|null|
-|**2025-03-25**|**GRN+: A Simplified Generative Reinforcement Network for Tissue Layer Analysis in 3D Ultrasound Images for Chronic Low-back Pain**|Zixue Zeng et.al.|[2503.19736v1](http://arxiv.org/abs/2503.19736v1)|**2025-03-25**|null|
-|**2025-03-25**|**InterSliceBoost: Identifying Tissue Layers in Three-dimensional Ultrasound Images for Chronic Lower Back Pain (cLBP) Assessment**|Zixue Zeng et.al.|[2503.19735v1](http://arxiv.org/abs/2503.19735v1)|**2025-03-25**|null|
-|**2025-03-25**|**PCM : Picard Consistency Model for Fast Parallel Sampling of Diffusion Models**|Junhyuk So et.al.|[2503.19731v1](http://arxiv.org/abs/2503.19731v1)|**2025-03-25**|null|
-|**2025-03-25**|**CamSAM2: Segment Anything Accurately in Camouflaged Videos**|Yuli Zhou et.al.|[2503.19730v2](http://arxiv.org/abs/2503.19730v2)|**2025-03-26**|null|
-|**2025-03-25**|**Roots of real-valued zero mean maps: Compositions of linear functionals and equivariant maps**|Francesca Cantor et.al.|[2503.19729v1](http://arxiv.org/abs/2503.19729v1)|**2025-03-25**|null|
-|**2025-03-25**|**Defects and Impurity Properties of VN precipitates in ARAFM Steels: Modelling using a Universal Machine Learning Potential and Experimental Validation**|R. S. Stroud et.al.|[2503.19720v1](http://arxiv.org/abs/2503.19720v1)|**2025-03-25**|null|
-|**2025-03-25**|**QuCOOP: A Versatile Framework for Solving Composite and Binary-Parametrised Problems on Quantum Annealers**|Natacha Kuete Meli et.al.|[2503.19718v1](http://arxiv.org/abs/2503.19718v1)|**2025-03-25**|null|
+|**2025-03-26**|**Free4D: Tuning-free 4D Scene Generation with Spatial-Temporal Consistency**|Tianqi Liu et.al.|[2503.20785v1](http://arxiv.org/abs/2503.20785v1)|**2025-03-26**|null|
+|**2025-03-26**|**Feature4X: Bridging Any Monocular Video to 4D Agentic AI with Versatile Gaussian Feature Fields**|Shijie Zhou et.al.|[2503.20776v1](http://arxiv.org/abs/2503.20776v1)|**2025-03-26**|null|
+|**2025-03-26**|**Explaining the UV to X-ray correlation in AGN within the framework of X-ray illumination of accretion discs**|E. Kammoun et.al.|[2503.20770v1](http://arxiv.org/abs/2503.20770v1)|**2025-03-26**|null|
+|**2025-03-26**|**Optimal Scaling Laws for Efficiency Gains in a Theoretical Transformer-Augmented Sectional MoE Framework**|Soham Sane et.al.|[2503.20750v1](http://arxiv.org/abs/2503.20750v1)|**2025-03-26**|null|
+|**2025-03-26**|**Topology of The Polar Vortex and Montana Weather**|Joshua Dorrington et.al.|[2503.20743v1](http://arxiv.org/abs/2503.20743v1)|**2025-03-26**|null|
+|**2025-03-26**|**SChanger: Change Detection from a Semantic Change and Spatial Consistency Perspective**|Ziyu Zhou et.al.|[2503.20734v1](http://arxiv.org/abs/2503.20734v1)|**2025-03-26**|null|
+|**2025-03-26**|**A weakly-supervised deep learning model for fast localisation and delineation of the skeleton, internal organs, and spinal canal on Whole-Body Diffusion-Weighted MRI (WB-DWI)**|A. Candito et.al.|[2503.20722v1](http://arxiv.org/abs/2503.20722v1)|**2025-03-26**|null|
+|**2025-03-26**|**Imprints of Stellar Feedback on Magnetic Fields in the Iris Nebula NGC 7023**|Ekta Sharma et.al.|[2503.20721v1](http://arxiv.org/abs/2503.20721v1)|**2025-03-26**|null|
+|**2025-03-26**|**Fluctuation-dissipation of the Kuramoto model on fruit-fly connectomes**|Géza Ódor et.al.|[2503.20708v1](http://arxiv.org/abs/2503.20708v1)|**2025-03-26**|null|
+|**2025-03-26**|**Quantum decoherence in the Caldeira-Leggett model by the real-time path integral on a computer**|Jun Nishimura et.al.|[2503.20699v1](http://arxiv.org/abs/2503.20699v1)|**2025-03-26**|null|
+|**2025-03-26**|**Toward Dynamic Control of Tendon-Driven Continuum Robots using Clarke Transform**|Christian Muhmann et.al.|[2503.20693v1](http://arxiv.org/abs/2503.20693v1)|**2025-03-26**|null|
+|**2025-03-26**|**Flip Learning: Weakly Supervised Erase to Segment Nodules in Breast Ultrasound**|Yuhao Huang et.al.|[2503.20685v1](http://arxiv.org/abs/2503.20685v1)|**2025-03-26**|null|
+|**2025-03-26**|**GLRD: Global-Local Collaborative Reason and Debate with PSL for 3D Open-Vocabulary Detection**|Xingyu Peng et.al.|[2503.20682v1](http://arxiv.org/abs/2503.20682v1)|**2025-03-26**|null|
+|**2025-03-26**|**Curves on Hirzebruch Surfaces and Stability**|Alessio Cela et.al.|[2503.20677v1](http://arxiv.org/abs/2503.20677v1)|**2025-03-26**|null|
+|**2025-03-26**|**(Dis)continuous buckling transition in elastic shell mediated by contact**|Takara Abe et.al.|[2503.20670v1](http://arxiv.org/abs/2503.20670v1)|**2025-03-26**|null|
+|**2025-03-26**|**Large Structural VARs with Multiple Sign and Ranking Restrictions**|Joshua Chan et.al.|[2503.20668v1](http://arxiv.org/abs/2503.20668v1)|**2025-03-26**|null|
+|**2025-03-26**|**Coverages and Grothendieck Toposes**|Emilio Minichiello et.al.|[2503.20664v1](http://arxiv.org/abs/2503.20664v1)|**2025-03-26**|null|
+|**2025-03-26**|**Probabilistic Forecasting for Network Resource Analysis in Integrated Terrestrial and Non-Terrestrial Networks**|Cristian J. Vaca-Rubio et.al.|[2503.20658v1](http://arxiv.org/abs/2503.20658v1)|**2025-03-26**|null|
+|**2025-03-26**|**Imitating Radiological Scrolling: A Global-Local Attention Model for 3D Chest CT Volumes Multi-Label Anomaly Classification**|Theo Di Piazza et.al.|[2503.20652v1](http://arxiv.org/abs/2503.20652v1)|**2025-03-26**|null|
+|**2025-03-26**|**Evolution of robust cell differentiation mechanisms under epigenetic feedback**|Davey Plugers et.al.|[2503.20651v1](http://arxiv.org/abs/2503.20651v1)|**2025-03-26**|null|
+|**2025-03-26**|**MMGen: Unified Multi-modal Image Generation and Understanding in One Go**|Jiepeng Wang et.al.|[2503.20644v1](http://arxiv.org/abs/2503.20644v1)|**2025-03-26**|null|
+|**2025-03-26**|**Mathematical Models for Self-Adaptive Response to Cancer Dynamics**|Christian Kuehn et.al.|[2503.20632v1](http://arxiv.org/abs/2503.20632v1)|**2025-03-26**|null|
+|**2025-03-26**|**Combination theorems for Wise's power alternative**|Mark Hagen et.al.|[2503.20620v1](http://arxiv.org/abs/2503.20620v1)|**2025-03-26**|null|
+|**2025-03-26**|**Impact of Network-Controlled Repeaters in Integrated Sensing and Communication Systems**|Henrik Åkesson et.al.|[2503.20617v1](http://arxiv.org/abs/2503.20617v1)|**2025-03-26**|null|
+|**2025-03-26**|**Projection-based curve pattern search for black-box optimization over smooth convex sets**|Xiaoxi Jia et.al.|[2503.20616v1](http://arxiv.org/abs/2503.20616v1)|**2025-03-26**|null|
+|**2025-03-26**|**Uniformly Expanding Full Branch Maps With a Wild Attracting Point**|Rubio Gunawan et.al.|[2503.20608v1](http://arxiv.org/abs/2503.20608v1)|**2025-03-26**|null|
+|**2025-03-26**|**Dual-Issue Execution of Mixed Integer and Floating-Point Workloads on Energy-Efficient In-Order RISC-V Cores**|Luca Colagrande et.al.|[2503.20590v1](http://arxiv.org/abs/2503.20590v1)|**2025-03-26**|null|
+|**2025-03-26**|**Exploring Robustness of Cortical Morphometry in the presence of white matter lesions, using Diffusion Models for Lesion Filling**|Vinzenz Uhr et.al.|[2503.20571v1](http://arxiv.org/abs/2503.20571v1)|**2025-03-26**|null|
+|**2025-03-26**|**Contact Lie systems on Riemannian and Lorentzian spaces: from scaling symmetries to curvature-dependent reductions**|Rutwig Campoamor-Stursberg et.al.|[2503.20558v1](http://arxiv.org/abs/2503.20558v1)|**2025-03-26**|null|
+|**2025-03-26**|**Spectral evolution of the narrow emission line components in optical during the 2022 nova eruption of U Scorpii**|Katsuki Muraoka et.al.|[2503.20559v1](http://arxiv.org/abs/2503.20559v1)|**2025-03-26**|null|
