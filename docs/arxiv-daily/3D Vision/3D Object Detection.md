@@ -26,7 +26,7 @@
 |**2025-03-25**|**SemEval-2025 Task 9: The Food Hazard Detection Challenge**|Korbinian Randl et.al.|[2503.19800v1](http://arxiv.org/abs/2503.19800v1)|**2025-03-25**|null|
 |**2025-03-25**|**Unpaired Object-Level SAR-to-Optical Image Translation for Aircraft with Keypoints-Guided Diffusion Models**|Ruixi You et.al.|[2503.19798v1](http://arxiv.org/abs/2503.19798v1)|**2025-03-25**|null|
 |**2025-03-25**|**PAVE: Patching and Adapting Video Large Language Models**|Zhuoming Liu et.al.|[2503.19794v1](http://arxiv.org/abs/2503.19794v1)|**2025-03-25**|null|
-|**2025-03-25**|**In the Blink of an Eye: Instant Game Map Editing using a Generative-AI Smart Brush**|Vitaly Gnatyuk et.al.|[2503.19793v1](http://arxiv.org/abs/2503.19793v1)|**2025-03-25**|null|
+|**2025-03-25**|**In the Blink of an Eye: Instant Game Map Editing using a Generative-AI Smart Brush**|Vitaly Gnatyuk et.al.|[2503.19793v2](http://arxiv.org/abs/2503.19793v2)|**2025-03-26**|null|
 |**2025-03-25**|**A comparative study of calibration techniques for finite strain elastoplasticity: Numerically-exact sensitivities for FEMU and VFM**|Sanjeev Kumar et.al.|[2503.19782v1](http://arxiv.org/abs/2503.19782v1)|**2025-03-25**|null|
 |**2025-03-25**|**Resilient Sensor Fusion under Adverse Sensor Failures via Multi-Modal Expert Fusion**|Konyul Park et.al.|[2503.19776v1](http://arxiv.org/abs/2503.19776v1)|**2025-03-25**|null|
 |**2025-03-25**|**Prospects and Opportunities with an upgraded FASER Neutrino Detector during the HL-LHC era: Input to the EPPSU**|FASER Collaboration et.al.|[2503.19775v1](http://arxiv.org/abs/2503.19775v1)|**2025-03-25**|null|

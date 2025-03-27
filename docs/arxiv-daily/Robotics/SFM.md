@@ -7,8 +7,8 @@
 |**2025-03-25**|**PartRM: Modeling Part-Level Dynamics with Large Cross-State Reconstruction Model**|Mingju Gao et.al.|[2503.19913v1](http://arxiv.org/abs/2503.19913v1)|**2025-03-25**|null|
 |**2025-03-25**|**Learning 3D Object Spatial Relationships from Pre-trained 2D Diffusion Models**|Sangwon Beak et.al.|[2503.19914v1](http://arxiv.org/abs/2503.19914v1)|**2025-03-25**|null|
 |**2025-03-25**|**SuperFlow++: Enhanced Spatiotemporal Consistency for Cross-Modal Data Pretraining**|Xiang Xu et.al.|[2503.19912v1](http://arxiv.org/abs/2503.19912v1)|**2025-03-25**|null|
-|**2025-03-25**|**CoLLM: A Large Language Model for Composed Image Retrieval**|Chuong Huynh et.al.|[2503.19910v1](http://arxiv.org/abs/2503.19910v1)|**2025-03-25**|null|
-|**2025-03-25**|**AvatarArtist: Open-Domain 4D Avatarization**|Hongyu Liu et.al.|[2503.19906v1](http://arxiv.org/abs/2503.19906v1)|**2025-03-25**|null|
+|**2025-03-25**|**CoLLM: A Large Language Model for Composed Image Retrieval**|Chuong Huynh et.al.|[2503.19910v1](http://arxiv.org/abs/2503.19910v1)|**2025-03-25**|[link](https://github.com/hmchuong/CoLLM)|
+|**2025-03-25**|**AvatarArtist: Open-Domain 4D Avatarization**|Hongyu Liu et.al.|[2503.19906v2](http://arxiv.org/abs/2503.19906v2)|**2025-03-26**|null|
 |**2025-03-25**|**Helmet streamer influence on the evolution of magnetic flux ropes**|M. Cécere et.al.|[2503.19905v1](http://arxiv.org/abs/2503.19905v1)|**2025-03-25**|null|
 |**2025-03-25**|**Tracktention: Leveraging Point Tracking to Attend Videos Faster and Better**|Zihang Lai et.al.|[2503.19904v1](http://arxiv.org/abs/2503.19904v1)|**2025-03-25**|null|
 |**2025-03-25**|**ICE: Intrinsic Concept Extraction from a Single Image via Diffusion Models**|Fernando Julio Cendra et.al.|[2503.19902v1](http://arxiv.org/abs/2503.19902v1)|**2025-03-25**|null|

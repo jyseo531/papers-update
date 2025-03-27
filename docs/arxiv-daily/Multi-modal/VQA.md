@@ -20,7 +20,7 @@
 |**2025-03-25**|**Mind the Gap: Benchmarking Spatial Reasoning in Vision-Language Models**|Ilias Stogiannidis et.al.|[2503.19707v1](http://arxiv.org/abs/2503.19707v1)|**2025-03-25**|null|
 |**2025-03-25**|**Spectral classification of young stars using conditional invertible neural networks II. Application to Trumpler 14 in Carina**|Da Eun Kang et.al.|[2503.19697v1](http://arxiv.org/abs/2503.19697v1)|**2025-03-25**|null|
 |**2025-03-25**|**Hierarchical Loop Stabilization in Periodically Driven Elastic Networks**|Purba Chatterjee et.al.|[2503.19681v1](http://arxiv.org/abs/2503.19681v1)|**2025-03-25**|null|
-|**2025-03-25**|**Towards Efficient Training of Graph Neural Networks: A Multiscale Approach**|Eshed Gal et.al.|[2503.19666v1](http://arxiv.org/abs/2503.19666v1)|**2025-03-25**|null|
+|**2025-03-25**|**Towards Efficient Training of Graph Neural Networks: A Multiscale Approach**|Eshed Gal et.al.|[2503.19666v2](http://arxiv.org/abs/2503.19666v2)|**2025-03-26**|null|
 |**2025-03-25**|**BiblioPage: A Dataset of Scanned Title Pages for Bibliographic Metadata Extraction**|Jan Kohút et.al.|[2503.19658v1](http://arxiv.org/abs/2503.19658v1)|**2025-03-25**|null|
 |**2025-03-25**|**RGB-Th-Bench: A Dense benchmark for Visual-Thermal Understanding of Vision Language Models**|Mehdi Moshtaghi et.al.|[2503.19654v1](http://arxiv.org/abs/2503.19654v1)|**2025-03-25**|null|
 |**2025-03-25**|**Enhancing Graphical Lasso: A Robust Scheme for Non-Stationary Mean Data**|Samuel Rey et.al.|[2503.19651v1](http://arxiv.org/abs/2503.19651v1)|**2025-03-25**|null|

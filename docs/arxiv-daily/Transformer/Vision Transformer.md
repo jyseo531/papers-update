@@ -6,9 +6,9 @@
 |**2025-03-25**|**PartRM: Modeling Part-Level Dynamics with Large Cross-State Reconstruction Model**|Mingju Gao et.al.|[2503.19913v1](http://arxiv.org/abs/2503.19913v1)|**2025-03-25**|null|
 |**2025-03-25**|**Learning 3D Object Spatial Relationships from Pre-trained 2D Diffusion Models**|Sangwon Beak et.al.|[2503.19914v1](http://arxiv.org/abs/2503.19914v1)|**2025-03-25**|null|
 |**2025-03-25**|**SuperFlow++: Enhanced Spatiotemporal Consistency for Cross-Modal Data Pretraining**|Xiang Xu et.al.|[2503.19912v1](http://arxiv.org/abs/2503.19912v1)|**2025-03-25**|null|
-|**2025-03-25**|**CoLLM: A Large Language Model for Composed Image Retrieval**|Chuong Huynh et.al.|[2503.19910v1](http://arxiv.org/abs/2503.19910v1)|**2025-03-25**|null|
+|**2025-03-25**|**CoLLM: A Large Language Model for Composed Image Retrieval**|Chuong Huynh et.al.|[2503.19910v1](http://arxiv.org/abs/2503.19910v1)|**2025-03-25**|[link](https://github.com/hmchuong/CoLLM)|
 |**2025-03-25**|**FullDiT: Multi-Task Video Generative Foundation Model with Full Attention**|Xuan Ju et.al.|[2503.19907v1](http://arxiv.org/abs/2503.19907v1)|**2025-03-25**|null|
-|**2025-03-25**|**AvatarArtist: Open-Domain 4D Avatarization**|Hongyu Liu et.al.|[2503.19906v1](http://arxiv.org/abs/2503.19906v1)|**2025-03-25**|null|
+|**2025-03-25**|**AvatarArtist: Open-Domain 4D Avatarization**|Hongyu Liu et.al.|[2503.19906v2](http://arxiv.org/abs/2503.19906v2)|**2025-03-26**|null|
 |**2025-03-25**|**Tracktention: Leveraging Point Tracking to Attend Videos Faster and Better**|Zihang Lai et.al.|[2503.19904v1](http://arxiv.org/abs/2503.19904v1)|**2025-03-25**|null|
 |**2025-03-25**|**Scaling Vision Pre-Training to 4K Resolution**|Baifeng Shi et.al.|[2503.19903v1](http://arxiv.org/abs/2503.19903v1)|**2025-03-25**|null|
 |**2025-03-25**|**ICE: Intrinsic Concept Extraction from a Single Image via Diffusion Models**|Fernando Julio Cendra et.al.|[2503.19902v1](http://arxiv.org/abs/2503.19902v1)|**2025-03-25**|null|
@@ -22,7 +22,7 @@
 |**2025-03-25**|**Unpaired Translation of Chest X-ray Images for Lung Opacity Diagnosis via Adaptive Activation Masks and Cross-Domain Alignment**|Junzhi Ning et.al.|[2503.19860v1](http://arxiv.org/abs/2503.19860v1)|**2025-03-25**|null|
 |**2025-03-25**|**FALCONEye: Finding Answers and Localizing Content in ONE-hour-long videos with multi-modal LLMs**|Carlos Plou et.al.|[2503.19850v1](http://arxiv.org/abs/2503.19850v1)|**2025-03-25**|null|
 |**2025-03-25**|**Towards Online Multi-Modal Social Interaction Understanding**|Xinpeng Li et.al.|[2503.19851v1](http://arxiv.org/abs/2503.19851v1)|**2025-03-25**|null|
-|**2025-03-25**|**Attention IoU: Examining Biases in CelebA using Attention Maps**|Aaron Serianni et.al.|[2503.19846v1](http://arxiv.org/abs/2503.19846v1)|**2025-03-25**|[link](https://github.com/aaronserianni/attention-iou)|
+|**2025-03-25**|**Attention IoU: Examining Biases in CelebA using Attention Maps**|Aaron Serianni et.al.|[2503.19846v2](http://arxiv.org/abs/2503.19846v2)|**2025-03-26**|[link](https://github.com/aaronserianni/attention-iou)|
 |**2025-03-25**|**FireEdit: Fine-grained Instruction-based Image Editing via Region-aware Vision Language Model**|Jun Zhou et.al.|[2503.19839v1](http://arxiv.org/abs/2503.19839v1)|**2025-03-25**|null|
 |**2025-03-25**|**Material Interpretation and Constructive Analysis of Maximal Ideals in $\mathbb{Z}[X]$**|Franziskus Wiesnet et.al.|[2503.19833v1](http://arxiv.org/abs/2503.19833v1)|**2025-03-25**|null|
 |**2025-03-25**|**Single-band Triangular Lattice Hubbard Model with Tunable Anisotropy from Twisted Diamond Homobilayers**|Wen Sun et.al.|[2503.19829v1](http://arxiv.org/abs/2503.19829v1)|**2025-03-25**|null|

@@ -13,13 +13,13 @@
 |**2025-03-25**|**AudCast: Audio-Driven Human Video Generation by Cascaded Diffusion Transformers**|Jiazhi Guan et.al.|[2503.19824v1](http://arxiv.org/abs/2503.19824v1)|**2025-03-25**|null|
 |**2025-03-25**|**Machine Learning and Data-Driven Methods in Computational Surface and Interface Science**|Lukas Hörmann et.al.|[2503.19814v1](http://arxiv.org/abs/2503.19814v1)|**2025-03-25**|null|
 |**2025-03-25**|**PAVE: Patching and Adapting Video Large Language Models**|Zhuoming Liu et.al.|[2503.19794v1](http://arxiv.org/abs/2503.19794v1)|**2025-03-25**|null|
-|**2025-03-25**|**In the Blink of an Eye: Instant Game Map Editing using a Generative-AI Smart Brush**|Vitaly Gnatyuk et.al.|[2503.19793v1](http://arxiv.org/abs/2503.19793v1)|**2025-03-25**|null|
+|**2025-03-25**|**In the Blink of an Eye: Instant Game Map Editing using a Generative-AI Smart Brush**|Vitaly Gnatyuk et.al.|[2503.19793v2](http://arxiv.org/abs/2503.19793v2)|**2025-03-26**|null|
 |**2025-03-25**|**Adaptive refinement in defeaturing problems via an equilibrated flux a posteriori error estimator**|Annalisa Buffa et.al.|[2503.19784v1](http://arxiv.org/abs/2503.19784v1)|**2025-03-25**|null|
 |**2025-03-25**|**Resilient Sensor Fusion under Adverse Sensor Failures via Multi-Modal Expert Fusion**|Konyul Park et.al.|[2503.19776v1](http://arxiv.org/abs/2503.19776v1)|**2025-03-25**|null|
 |**2025-03-25**|**Prospects and Opportunities with an upgraded FASER Neutrino Detector during the HL-LHC era: Input to the EPPSU**|FASER Collaboration et.al.|[2503.19775v1](http://arxiv.org/abs/2503.19775v1)|**2025-03-25**|null|
 |**2025-03-25**|**OpenLex3D: A New Evaluation Benchmark for Open-Vocabulary 3D Scene Representations**|Christina Kassab et.al.|[2503.19764v1](http://arxiv.org/abs/2503.19764v1)|**2025-03-25**|null|
 |**2025-03-25**|**Magic teleportation with generalized lattice surgery**|Yifei Wang et.al.|[2503.19758v1](http://arxiv.org/abs/2503.19758v1)|**2025-03-25**|null|
-|**2025-03-25**|**A Survey on Event-driven 3D Reconstruction: Development under Different Categories**|Chuanzhi Xu et.al.|[2503.19753v1](http://arxiv.org/abs/2503.19753v1)|**2025-03-25**|null|
+|**2025-03-25**|**A Survey on Event-driven 3D Reconstruction: Development under Different Categories**|Chuanzhi Xu et.al.|[2503.19753v2](http://arxiv.org/abs/2503.19753v2)|**2025-03-26**|null|
 |**2025-03-25**|**Stellar-wind feedback and magnetic fields around young compact star clusters: 3D MHD simulations**|Lucia Härer et.al.|[2503.19745v1](http://arxiv.org/abs/2503.19745v1)|**2025-03-25**|null|
 |**2025-03-25**|**GRN+: A Simplified Generative Reinforcement Network for Tissue Layer Analysis in 3D Ultrasound Images for Chronic Low-back Pain**|Zixue Zeng et.al.|[2503.19736v1](http://arxiv.org/abs/2503.19736v1)|**2025-03-25**|null|
 |**2025-03-25**|**EventMamba: Enhancing Spatio-Temporal Locality with State Space Models for Event-Based Video Reconstruction**|Chengjie Ge et.al.|[2503.19721v1](http://arxiv.org/abs/2503.19721v1)|**2025-03-25**|null|

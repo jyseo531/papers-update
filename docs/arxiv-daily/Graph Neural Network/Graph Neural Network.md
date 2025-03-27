@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-25**|**Real-time all-optical signal equalisation with silicon photonic recurrent neural networks**|Ruben Van Assche et.al.|[2503.19911v1](http://arxiv.org/abs/2503.19911v1)|**2025-03-25**|null|
-|**2025-03-25**|**AvatarArtist: Open-Domain 4D Avatarization**|Hongyu Liu et.al.|[2503.19906v1](http://arxiv.org/abs/2503.19906v1)|**2025-03-25**|null|
+|**2025-03-25**|**AvatarArtist: Open-Domain 4D Avatarization**|Hongyu Liu et.al.|[2503.19906v2](http://arxiv.org/abs/2503.19906v2)|**2025-03-26**|null|
 |**2025-03-25**|**Visuo-Tactile Object Pose Estimation for a Multi-Finger Robot Hand with Low-Resolution In-Hand Tactile Sensing**|Lukas Mack et.al.|[2503.19893v1](http://arxiv.org/abs/2503.19893v1)|**2025-03-25**|null|
 |**2025-03-25**|**RCC-PFL: Robust Client Clustering under Noisy Labels in Personalized Federated Learning**|Abdulmoneam Ali et.al.|[2503.19886v1](http://arxiv.org/abs/2503.19886v1)|**2025-03-25**|null|
 |**2025-03-25**|**Dynamics of Structured Complex-Valued Hopfield Neural Networks**|Rama Murthy Garimella et.al.|[2503.19885v1](http://arxiv.org/abs/2503.19885v1)|**2025-03-25**|null|
@@ -27,7 +27,7 @@
 |**2025-03-25**|**Probing Rate-Dependent Liquid Shear Viscosity Using Combined Machine Learning and Non-Equilibrium Molecular Dynamics**|Hongyu Gao et.al.|[2503.19805v1](http://arxiv.org/abs/2503.19805v1)|**2025-03-25**|null|
 |**2025-03-25**|**Outsourcing an Information Operation: A Complete Dataset of Tenet Media's Podcasts on Rumble**|Laura Kurek et.al.|[2503.19802v1](http://arxiv.org/abs/2503.19802v1)|**2025-03-25**|null|
 |**2025-03-25**|**Plasticity Encoding and Mapping during Elementary Loading for Accelerated Mechanical Properties Prediction**|Mathieu Calvat et.al.|[2503.19799v1](http://arxiv.org/abs/2503.19799v1)|**2025-03-25**|null|
-|**2025-03-25**|**In the Blink of an Eye: Instant Game Map Editing using a Generative-AI Smart Brush**|Vitaly Gnatyuk et.al.|[2503.19793v1](http://arxiv.org/abs/2503.19793v1)|**2025-03-25**|null|
+|**2025-03-25**|**In the Blink of an Eye: Instant Game Map Editing using a Generative-AI Smart Brush**|Vitaly Gnatyuk et.al.|[2503.19793v2](http://arxiv.org/abs/2503.19793v2)|**2025-03-26**|null|
 |**2025-03-25**|**On the Equivalence of Synchronization Definitions in the Kuramoto Flow: A Unified Approach**|Ting-Yang Hsiao et.al.|[2503.19781v1](http://arxiv.org/abs/2503.19781v1)|**2025-03-25**|null|
 |**2025-03-25**|**PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch**|Abhishek Ghosh et.al.|[2503.19779v1](http://arxiv.org/abs/2503.19779v1)|**2025-03-25**|null|
 |**2025-03-25**|**BiPrompt-SAM: Enhancing Image Segmentation via Explicit Selection between Point and Text Prompts**|Suzhe Xu et.al.|[2503.19769v1](http://arxiv.org/abs/2503.19769v1)|**2025-03-25**|null|

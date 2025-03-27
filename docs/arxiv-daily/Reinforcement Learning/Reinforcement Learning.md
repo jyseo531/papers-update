@@ -12,7 +12,7 @@
 |**2025-03-25**|**Learning to chain-of-thought with Jensen's evidence lower bound**|Yunhao Tang et.al.|[2503.19618v1](http://arxiv.org/abs/2503.19618v1)|**2025-03-25**|null|
 |**2025-03-25**|**RL-finetuning LLMs from on- and off-policy data with a single algorithm**|Yunhao Tang et.al.|[2503.19612v1](http://arxiv.org/abs/2503.19612v1)|**2025-03-25**|null|
 |**2025-03-25**|**Optimizing Language Models for Inference Time Objectives using Reinforcement Learning**|Yunhao Tang et.al.|[2503.19595v1](http://arxiv.org/abs/2503.19595v1)|**2025-03-25**|null|
-|**2025-03-25**|**One Framework to Rule Them All: Unifying RL-Based and RL-Free Methods in RLHF**|Xin Cai et.al.|[2503.19523v1](http://arxiv.org/abs/2503.19523v1)|**2025-03-25**|null|
+|**2025-03-25**|**One Framework to Rule Them All: Unifying RL-Based and RL-Free Methods in RLHF**|Xin Cai et.al.|[2503.19523v2](http://arxiv.org/abs/2503.19523v2)|**2025-03-26**|null|
 |**2025-03-25**|**ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning**|Mingyang Chen et.al.|[2503.19470v1](http://arxiv.org/abs/2503.19470v1)|**2025-03-25**|null|
 |**2025-03-25**|**Multi-Agent Deep Reinforcement Learning for Safe Autonomous Driving with RICS-Assisted MEC**|Xueyao Zhang et.al.|[2503.19418v1](http://arxiv.org/abs/2503.19418v1)|**2025-03-25**|null|
 |**2025-03-25**|**NeoRL-2: Near Real-World Benchmarks for Offline Reinforcement Learning with Extended Realistic Scenarios**|Songyi Gao et.al.|[2503.19267v1](http://arxiv.org/abs/2503.19267v1)|**2025-03-25**|null|

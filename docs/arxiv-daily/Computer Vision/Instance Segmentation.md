@@ -16,7 +16,7 @@
 |**2025-03-25**|**GRN+: A Simplified Generative Reinforcement Network for Tissue Layer Analysis in 3D Ultrasound Images for Chronic Low-back Pain**|Zixue Zeng et.al.|[2503.19736v1](http://arxiv.org/abs/2503.19736v1)|**2025-03-25**|null|
 |**2025-03-25**|**InterSliceBoost: Identifying Tissue Layers in Three-dimensional Ultrasound Images for Chronic Lower Back Pain (cLBP) Assessment**|Zixue Zeng et.al.|[2503.19735v1](http://arxiv.org/abs/2503.19735v1)|**2025-03-25**|null|
 |**2025-03-25**|**How to RETIRE Tabular Data in Favor of Discrete Digital Signal Representation**|Paweł Zyblewski et.al.|[2503.19733v1](http://arxiv.org/abs/2503.19733v1)|**2025-03-25**|null|
-|**2025-03-25**|**CamSAM2: Segment Anything Accurately in Camouflaged Videos**|Yuli Zhou et.al.|[2503.19730v1](http://arxiv.org/abs/2503.19730v1)|**2025-03-25**|null|
+|**2025-03-25**|**CamSAM2: Segment Anything Accurately in Camouflaged Videos**|Yuli Zhou et.al.|[2503.19730v2](http://arxiv.org/abs/2503.19730v2)|**2025-03-26**|null|
 |**2025-03-25**|**On What Depends the Robustness of Multi-source Models to Missing Data in Earth Observation?**|Francisco Mena et.al.|[2503.19719v1](http://arxiv.org/abs/2503.19719v1)|**2025-03-25**|null|
 |**2025-03-25**|**QuCOOP: A Versatile Framework for Solving Composite and Binary-Parametrised Problems on Quantum Annealers**|Natacha Kuete Meli et.al.|[2503.19718v1](http://arxiv.org/abs/2503.19718v1)|**2025-03-25**|null|
 |**2025-03-25**|**Optimization of MedSAM model based on bounding box adaptive perturbation algorithm**|Boyi Li et.al.|[2503.19700v1](http://arxiv.org/abs/2503.19700v1)|**2025-03-25**|null|
@@ -26,7 +26,7 @@
 |**2025-03-25**|**CoSimGen: Controllable Diffusion Model for Simultaneous Image and Mask Generation**|Rupak Bose et.al.|[2503.19661v1](http://arxiv.org/abs/2503.19661v1)|**2025-03-25**|null|
 |**2025-03-25**|**Show or Tell? Effectively prompting Vision-Language Models for semantic segmentation**|Niccolo Avogaro et.al.|[2503.19647v1](http://arxiv.org/abs/2503.19647v1)|**2025-03-25**|null|
 |**2025-03-25**|**Prompt-Guided Dual-Path UNet with Mamba for Medical Image Segmentation**|Shaolei Zhang et.al.|[2503.19589v1](http://arxiv.org/abs/2503.19589v1)|**2025-03-25**|null|
-|**2025-03-25**|**Scaling Laws of Synthetic Data for Language Models**|Zeyu Qin et.al.|[2503.19551v1](http://arxiv.org/abs/2503.19551v1)|**2025-03-25**|null|
+|**2025-03-25**|**Scaling Laws of Synthetic Data for Language Models**|Zeyu Qin et.al.|[2503.19551v2](http://arxiv.org/abs/2503.19551v2)|**2025-03-26**|null|
 |**2025-03-25**|**Tiling artifacts and trade-offs of feature normalization in the segmentation of large biological images**|Elena Buglakova et.al.|[2503.19545v1](http://arxiv.org/abs/2503.19545v1)|**2025-03-25**|null|
 |**2025-03-25**|**The Design of Monopoly Information Broker**|Junjie Chen et.al.|[2503.19539v1](http://arxiv.org/abs/2503.19539v1)|**2025-03-25**|null|
 |**2025-03-25**|**A comparison between best-fit eccentricity definitions and the standardized definition of eccentricity**|Nicolas Chartier et.al.|[2503.19538v1](http://arxiv.org/abs/2503.19538v1)|**2025-03-25**|null|

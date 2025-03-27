@@ -26,7 +26,7 @@
 |**2025-03-25**|**Optimizing Photonic Structures with Large Language Model Driven Algorithm Discovery**|Haoran Yin et.al.|[2503.19742v1](http://arxiv.org/abs/2503.19742v1)|**2025-03-25**|null|
 |**2025-03-25**|**GRN+: A Simplified Generative Reinforcement Network for Tissue Layer Analysis in 3D Ultrasound Images for Chronic Low-back Pain**|Zixue Zeng et.al.|[2503.19736v1](http://arxiv.org/abs/2503.19736v1)|**2025-03-25**|null|
 |**2025-03-25**|**PCM : Picard Consistency Model for Fast Parallel Sampling of Diffusion Models**|Junhyuk So et.al.|[2503.19731v1](http://arxiv.org/abs/2503.19731v1)|**2025-03-25**|null|
-|**2025-03-25**|**CamSAM2: Segment Anything Accurately in Camouflaged Videos**|Yuli Zhou et.al.|[2503.19730v1](http://arxiv.org/abs/2503.19730v1)|**2025-03-25**|null|
+|**2025-03-25**|**CamSAM2: Segment Anything Accurately in Camouflaged Videos**|Yuli Zhou et.al.|[2503.19730v2](http://arxiv.org/abs/2503.19730v2)|**2025-03-26**|null|
 |**2025-03-25**|**Roots of real-valued zero mean maps: Compositions of linear functionals and equivariant maps**|Francesca Cantor et.al.|[2503.19729v1](http://arxiv.org/abs/2503.19729v1)|**2025-03-25**|null|
 |**2025-03-25**|**Defects and Impurity Properties of VN precipitates in ARAFM Steels: Modelling using a Universal Machine Learning Potential and Experimental Validation**|R. S. Stroud et.al.|[2503.19720v1](http://arxiv.org/abs/2503.19720v1)|**2025-03-25**|null|
 |**2025-03-25**|**QuCOOP: A Versatile Framework for Solving Composite and Binary-Parametrised Problems on Quantum Annealers**|Natacha Kuete Meli et.al.|[2503.19718v1](http://arxiv.org/abs/2503.19718v1)|**2025-03-25**|null|

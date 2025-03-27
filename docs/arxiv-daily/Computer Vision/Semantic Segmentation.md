@@ -20,7 +20,7 @@
 |**2025-03-25**|**ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation**|Haoyu Fu et.al.|[2503.19755v1](http://arxiv.org/abs/2503.19755v1)|**2025-03-25**|null|
 |**2025-03-25**|**GRN+: A Simplified Generative Reinforcement Network for Tissue Layer Analysis in 3D Ultrasound Images for Chronic Low-back Pain**|Zixue Zeng et.al.|[2503.19736v1](http://arxiv.org/abs/2503.19736v1)|**2025-03-25**|null|
 |**2025-03-25**|**InterSliceBoost: Identifying Tissue Layers in Three-dimensional Ultrasound Images for Chronic Lower Back Pain (cLBP) Assessment**|Zixue Zeng et.al.|[2503.19735v1](http://arxiv.org/abs/2503.19735v1)|**2025-03-25**|null|
-|**2025-03-25**|**CamSAM2: Segment Anything Accurately in Camouflaged Videos**|Yuli Zhou et.al.|[2503.19730v1](http://arxiv.org/abs/2503.19730v1)|**2025-03-25**|null|
+|**2025-03-25**|**CamSAM2: Segment Anything Accurately in Camouflaged Videos**|Yuli Zhou et.al.|[2503.19730v2](http://arxiv.org/abs/2503.19730v2)|**2025-03-26**|null|
 |**2025-03-25**|**Semi-SD: Semi-Supervised Metric Depth Estimation via Surrounding Cameras for Autonomous Driving**|Yusen Xie et.al.|[2503.19713v1](http://arxiv.org/abs/2503.19713v1)|**2025-03-25**|null|
 |**2025-03-25**|**Mind the Gap: Benchmarking Spatial Reasoning in Vision-Language Models**|Ilias Stogiannidis et.al.|[2503.19707v1](http://arxiv.org/abs/2503.19707v1)|**2025-03-25**|null|
 |**2025-03-25**|**Optimization of MedSAM model based on bounding box adaptive perturbation algorithm**|Boyi Li et.al.|[2503.19700v1](http://arxiv.org/abs/2503.19700v1)|**2025-03-25**|null|

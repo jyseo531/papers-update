@@ -28,7 +28,7 @@
 |**2025-03-25**|**OpenLex3D: A New Evaluation Benchmark for Open-Vocabulary 3D Scene Representations**|Christina Kassab et.al.|[2503.19764v1](http://arxiv.org/abs/2503.19764v1)|**2025-03-25**|null|
 |**2025-03-25**|**No-prior Bayesian inference reIMagined: probabilistic approximations of inferential models**|Ryan Martin et.al.|[2503.19748v1](http://arxiv.org/abs/2503.19748v1)|**2025-03-25**|null|
 |**2025-03-25**|**Stellar-wind feedback and magnetic fields around young compact star clusters: 3D MHD simulations**|Lucia Härer et.al.|[2503.19745v1](http://arxiv.org/abs/2503.19745v1)|**2025-03-25**|null|
-|**2025-03-25**|**CamSAM2: Segment Anything Accurately in Camouflaged Videos**|Yuli Zhou et.al.|[2503.19730v1](http://arxiv.org/abs/2503.19730v1)|**2025-03-25**|null|
+|**2025-03-25**|**CamSAM2: Segment Anything Accurately in Camouflaged Videos**|Yuli Zhou et.al.|[2503.19730v2](http://arxiv.org/abs/2503.19730v2)|**2025-03-26**|null|
 |**2025-03-25**|**QuCOOP: A Versatile Framework for Solving Composite and Binary-Parametrised Problems on Quantum Annealers**|Natacha Kuete Meli et.al.|[2503.19718v1](http://arxiv.org/abs/2503.19718v1)|**2025-03-25**|null|
 |**2025-03-25**|**Writing as a testbed for open ended agents**|Sian Gooding et.al.|[2503.19711v1](http://arxiv.org/abs/2503.19711v1)|**2025-03-25**|null|
 |**2025-03-25**|**Mind the Gap: Benchmarking Spatial Reasoning in Vision-Language Models**|Ilias Stogiannidis et.al.|[2503.19707v1](http://arxiv.org/abs/2503.19707v1)|**2025-03-25**|null|
