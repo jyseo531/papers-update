@@ -7,7 +7,7 @@
 |**2025-03-26**|**Reliable algorithm selection for machine learning-guided design**|Clara Fannjiang et.al.|[2503.20767v1](http://arxiv.org/abs/2503.20767v1)|**2025-03-26**|null|
 |**2025-03-26**|**Flying Vines: Design, Modeling, and Control of a Soft Aerial Robotic Arm**|Rianna Jitosho et.al.|[2503.20754v1](http://arxiv.org/abs/2503.20754v1)|**2025-03-26**|null|
 |**2025-03-26**|**The Role of Computational Modeling in Enhancing Thermal Safety During Cardiac Ablation**|Leila Seidabadi et.al.|[2503.20751v1](http://arxiv.org/abs/2503.20751v1)|**2025-03-26**|null|
-|**2025-03-26**|**Beyond Believability: Accurate Human Behavior Simulation with Fine-Tuned LLMs**|Yuxuan Lu et.al.|[2503.20749v1](http://arxiv.org/abs/2503.20749v1)|**2025-03-26**|null|
+|**2025-03-26**|**Beyond Believability: Accurate Human Behavior Simulation with Fine-Tuned LLMs**|Yuxuan Lu et.al.|[2503.20749v2](http://arxiv.org/abs/2503.20749v2)|**2025-03-27**|null|
 |**2025-03-26**|**PhysGen3D: Crafting a Miniature Interactive World from a Single Image**|Boyuan Chen et.al.|[2503.20746v1](http://arxiv.org/abs/2503.20746v1)|**2025-03-26**|null|
 |**2025-03-26**|**MATHGLANCE: Multimodal Large Language Models Do Not Know Where to Look in Mathematical Diagrams**|Yanpeng Sun et.al.|[2503.20745v1](http://arxiv.org/abs/2503.20745v1)|**2025-03-26**|null|
 |**2025-03-26**|**Emotion Detection and Music Recommendation System**|Swetha Kambham et.al.|[2503.20739v1](http://arxiv.org/abs/2503.20739v1)|**2025-03-26**|null|
@@ -20,7 +20,7 @@
 |**2025-03-26**|**Orthosymplectic Donaldson-Thomas theory**|Chenjing Bu et.al.|[2503.20667v1](http://arxiv.org/abs/2503.20667v1)|**2025-03-26**|null|
 |**2025-03-26**|**AutoRad-Lung: A Radiomic-Guided Prompting Autoregressive Vision-Language Model for Lung Nodule Malignancy Prediction**|Sadaf Khademi et.al.|[2503.20662v1](http://arxiv.org/abs/2503.20662v1)|**2025-03-26**|null|
 |**2025-03-26**|**ARMO: Autoregressive Rigging for Multi-Category Objects**|Mingze Sun et.al.|[2503.20663v1](http://arxiv.org/abs/2503.20663v1)|**2025-03-26**|null|
-|**2025-03-26**|**Immersive and Wearable Thermal Rendering for Augmented Reality**|Alexandra Watkins et.al.|[2503.20646v1](http://arxiv.org/abs/2503.20646v1)|**2025-03-26**|null|
+|**2025-03-26**|**Immersive and Wearable Thermal Rendering for Augmented Reality**|Alexandra Watkins et.al.|[2503.20646v2](http://arxiv.org/abs/2503.20646v2)|**2025-03-27**|null|
 |**2025-03-26**|**Tracking the topology of neural manifolds across populations**|Iris H. R. Yoon et.al.|[2503.20629v1](http://arxiv.org/abs/2503.20629v1)|**2025-03-26**|null|
 |**2025-03-26**|**SaViD: Spectravista Aesthetic Vision Integration for Robust and Discerning 3D Object Detection in Challenging Environments**|Tanmoy Dam et.al.|[2503.20614v1](http://arxiv.org/abs/2503.20614v1)|**2025-03-26**|null|
 |**2025-03-26**|**State-Aware Perturbation Optimization for Robust Deep Reinforcement Learning**|Zongyuan Zhang et.al.|[2503.20613v1](http://arxiv.org/abs/2503.20613v1)|**2025-03-26**|null|

@@ -14,13 +14,13 @@
 |**2025-03-26**|**Fluctuation-dissipation of the Kuramoto model on fruit-fly connectomes**|Géza Ódor et.al.|[2503.20708v1](http://arxiv.org/abs/2503.20708v1)|**2025-03-26**|null|
 |**2025-03-26**|**Quantum decoherence in the Caldeira-Leggett model by the real-time path integral on a computer**|Jun Nishimura et.al.|[2503.20699v1](http://arxiv.org/abs/2503.20699v1)|**2025-03-26**|null|
 |**2025-03-26**|**GLRD: Global-Local Collaborative Reason and Debate with PSL for 3D Open-Vocabulary Detection**|Xingyu Peng et.al.|[2503.20682v1](http://arxiv.org/abs/2503.20682v1)|**2025-03-26**|null|
-|**2025-03-26**|**Curves on Hirzebruch Surfaces and Stability**|Alessio Cela et.al.|[2503.20677v1](http://arxiv.org/abs/2503.20677v1)|**2025-03-26**|null|
+|**2025-03-26**|**Curves on Hirzebruch Surfaces and Semistability**|Alessio Cela et.al.|[2503.20677v2](http://arxiv.org/abs/2503.20677v2)|**2025-03-27**|null|
 |**2025-03-26**|**(Dis)continuous buckling transition in elastic shell mediated by contact**|Takara Abe et.al.|[2503.20670v1](http://arxiv.org/abs/2503.20670v1)|**2025-03-26**|null|
 |**2025-03-26**|**Large Structural VARs with Multiple Sign and Ranking Restrictions**|Joshua Chan et.al.|[2503.20668v1](http://arxiv.org/abs/2503.20668v1)|**2025-03-26**|null|
 |**2025-03-26**|**Coverages and Grothendieck Toposes**|Emilio Minichiello et.al.|[2503.20664v1](http://arxiv.org/abs/2503.20664v1)|**2025-03-26**|null|
 |**2025-03-26**|**Probabilistic Forecasting for Network Resource Analysis in Integrated Terrestrial and Non-Terrestrial Networks**|Cristian J. Vaca-Rubio et.al.|[2503.20658v1](http://arxiv.org/abs/2503.20658v1)|**2025-03-26**|null|
 |**2025-03-26**|**Evolution of robust cell differentiation mechanisms under epigenetic feedback**|Davey Plugers et.al.|[2503.20651v1](http://arxiv.org/abs/2503.20651v1)|**2025-03-26**|null|
-|**2025-03-26**|**Immersive and Wearable Thermal Rendering for Augmented Reality**|Alexandra Watkins et.al.|[2503.20646v1](http://arxiv.org/abs/2503.20646v1)|**2025-03-26**|null|
+|**2025-03-26**|**Immersive and Wearable Thermal Rendering for Augmented Reality**|Alexandra Watkins et.al.|[2503.20646v2](http://arxiv.org/abs/2503.20646v2)|**2025-03-27**|null|
 |**2025-03-26**|**Mathematical Models for Self-Adaptive Response to Cancer Dynamics**|Christian Kuehn et.al.|[2503.20632v1](http://arxiv.org/abs/2503.20632v1)|**2025-03-26**|null|
 |**2025-03-26**|**Robust Flower Cluster Matching Using The Unscented Transform**|Andy Chu et.al.|[2503.20631v1](http://arxiv.org/abs/2503.20631v1)|**2025-03-26**|null|
 |**2025-03-26**|**Tracking the topology of neural manifolds across populations**|Iris H. R. Yoon et.al.|[2503.20629v1](http://arxiv.org/abs/2503.20629v1)|**2025-03-26**|null|

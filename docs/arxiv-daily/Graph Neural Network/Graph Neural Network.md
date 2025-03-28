@@ -20,7 +20,7 @@
 |**2025-03-26**|**Probabilistic Forecasting for Network Resource Analysis in Integrated Terrestrial and Non-Terrestrial Networks**|Cristian J. Vaca-Rubio et.al.|[2503.20658v1](http://arxiv.org/abs/2503.20658v1)|**2025-03-26**|null|
 |**2025-03-26**|**The Dirichlet problem for the prescribed curvature equations in Minkowski space**|Bin Wang et.al.|[2503.20656v1](http://arxiv.org/abs/2503.20656v1)|**2025-03-26**|null|
 |**2025-03-26**|**AccidentSim: Generating Physically Realistic Vehicle Collision Videos from Real-World Accident Reports**|Xiangwen Zhang et.al.|[2503.20654v1](http://arxiv.org/abs/2503.20654v1)|**2025-03-26**|null|
-|**2025-03-26**|**Imitating Radiological Scrolling: A Global-Local Attention Model for 3D Chest CT Volumes Multi-Label Anomaly Classification**|Theo Di Piazza et.al.|[2503.20652v1](http://arxiv.org/abs/2503.20652v1)|**2025-03-26**|null|
+|**2025-03-26**|**Imitating Radiological Scrolling: A Global-Local Attention Model for 3D Chest CT Volumes Multi-Label Anomaly Classification**|Theo Di Piazza et.al.|[2503.20652v2](http://arxiv.org/abs/2503.20652v2)|**2025-03-27**|null|
 |**2025-03-26**|**Evolution of robust cell differentiation mechanisms under epigenetic feedback**|Davey Plugers et.al.|[2503.20651v1](http://arxiv.org/abs/2503.20651v1)|**2025-03-26**|null|
 |**2025-03-26**|**The core software and simulation activities for data analysis at the Pierre Auger Observatory**|Eva Santos et.al.|[2503.20650v1](http://arxiv.org/abs/2503.20650v1)|**2025-03-26**|null|
 |**2025-03-26**|**Representation Improvement in Latent Space for Search-Based Testing of Autonomous Robotic Systems**|Dmytro Humeniuk et.al.|[2503.20642v1](http://arxiv.org/abs/2503.20642v1)|**2025-03-26**|null|

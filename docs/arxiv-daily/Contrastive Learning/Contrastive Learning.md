@@ -7,12 +7,12 @@
 |**2025-03-26**|**Zero-Shot Audio-Visual Editing via Cross-Modal Delta Denoising**|Yan-Bo Lin et.al.|[2503.20782v1](http://arxiv.org/abs/2503.20782v1)|**2025-03-26**|null|
 |**2025-03-26**|**PGC: Physics-Based Gaussian Cloth from a Single Pose**|Michelle Guo et.al.|[2503.20779v1](http://arxiv.org/abs/2503.20779v1)|**2025-03-26**|null|
 |**2025-03-26**|**Disentangled Source-Free Personalization for Facial Expression Recognition with Neutral Target Data**|Masoumeh Sharafi et.al.|[2503.20771v1](http://arxiv.org/abs/2503.20771v1)|**2025-03-26**|null|
-|**2025-03-26**|**An Empirical Study of the Impact of Federated Learning on Machine Learning Model Accuracy**|Haotian Yang et.al.|[2503.20768v1](http://arxiv.org/abs/2503.20768v1)|**2025-03-26**|null|
+|**2025-03-26**|**An Empirical Study of the Impact of Federated Learning on Machine Learning Model Accuracy**|Haotian Yang et.al.|[2503.20768v2](http://arxiv.org/abs/2503.20768v2)|**2025-03-27**|null|
 |**2025-03-26**|**Reliable algorithm selection for machine learning-guided design**|Clara Fannjiang et.al.|[2503.20767v1](http://arxiv.org/abs/2503.20767v1)|**2025-03-26**|null|
 |**2025-03-26**|**High-Precision Ab Initio Radius Calculations of Boron Isotopes**|Tobias Wolfgruber et.al.|[2503.20764v1](http://arxiv.org/abs/2503.20764v1)|**2025-03-26**|null|
 |**2025-03-26**|**ASGO: Adaptive Structured Gradient Optimization**|Kang An et.al.|[2503.20762v1](http://arxiv.org/abs/2503.20762v1)|**2025-03-26**|null|
 |**2025-03-26**|**ADS-Edit: A Multimodal Knowledge Editing Dataset for Autonomous Driving Systems**|Chenxi Wang et.al.|[2503.20756v1](http://arxiv.org/abs/2503.20756v1)|**2025-03-26**|null|
-|**2025-03-26**|**Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning**|Huajie Tan et.al.|[2503.20752v1](http://arxiv.org/abs/2503.20752v1)|**2025-03-26**|null|
+|**2025-03-26**|**Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning**|Huajie Tan et.al.|[2503.20752v2](http://arxiv.org/abs/2503.20752v2)|**2025-03-27**|null|
 |**2025-03-26**|**Optimal Scaling Laws for Efficiency Gains in a Theoretical Transformer-Augmented Sectional MoE Framework**|Soham Sane et.al.|[2503.20750v1](http://arxiv.org/abs/2503.20750v1)|**2025-03-26**|null|
 |**2025-03-26**|**UniSTD: Towards Unified Spatio-Temporal Learning across Diverse Disciplines**|Chen Tang et.al.|[2503.20748v1](http://arxiv.org/abs/2503.20748v1)|**2025-03-26**|null|
 |**2025-03-26**|**Quantum Neural Network Restatement of Markov Jump Process**|Z. Zarezadeh et.al.|[2503.20742v1](http://arxiv.org/abs/2503.20742v1)|**2025-03-26**|null|
@@ -29,6 +29,6 @@
 |**2025-03-26**|**Semantic Communications via Features Identification**|Federico Francesco Luigi Mariani et.al.|[2503.20720v1](http://arxiv.org/abs/2503.20720v1)|**2025-03-26**|null|
 |**2025-03-26**|**Learning Straight Flows by Learning Curved Interpolants**|Shiv Shankar et.al.|[2503.20719v1](http://arxiv.org/abs/2503.20719v1)|**2025-03-26**|null|
 |**2025-03-26**|**Convergence Theory of Flexible ALADIN for Distributed Optimization**|Xu Du et.al.|[2503.20716v1](http://arxiv.org/abs/2503.20716v1)|**2025-03-26**|null|
-|**2025-03-26**|**Demand Estimation with Text and Image Data**|Giovanni Compiani et.al.|[2503.20711v1](http://arxiv.org/abs/2503.20711v1)|**2025-03-26**|null|
+|**2025-03-26**|**Demand Estimation with Text and Image Data**|Giovanni Compiani et.al.|[2503.20711v2](http://arxiv.org/abs/2503.20711v2)|**2025-03-27**|null|
 |**2025-03-26**|**Insights from Game Theory into the Impact of Smart Balancing on Power System Stability**|Johannes Lips et.al.|[2503.20706v1](http://arxiv.org/abs/2503.20706v1)|**2025-03-26**|null|
 |**2025-03-26**|**Data-driven Distributionally Robust Control Based on Sinkhorn Ambiguity Sets**|Riccardo Cescon et.al.|[2503.20703v1](http://arxiv.org/abs/2503.20703v1)|**2025-03-26**|null|

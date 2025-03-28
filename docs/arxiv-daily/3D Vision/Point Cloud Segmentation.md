@@ -13,14 +13,14 @@
 |**2025-03-26**|**Fluctuation-dissipation of the Kuramoto model on fruit-fly connectomes**|Géza Ódor et.al.|[2503.20708v1](http://arxiv.org/abs/2503.20708v1)|**2025-03-26**|null|
 |**2025-03-26**|**Quantum decoherence in the Caldeira-Leggett model by the real-time path integral on a computer**|Jun Nishimura et.al.|[2503.20699v1](http://arxiv.org/abs/2503.20699v1)|**2025-03-26**|null|
 |**2025-03-26**|**Toward Dynamic Control of Tendon-Driven Continuum Robots using Clarke Transform**|Christian Muhmann et.al.|[2503.20693v1](http://arxiv.org/abs/2503.20693v1)|**2025-03-26**|null|
-|**2025-03-26**|**Flip Learning: Weakly Supervised Erase to Segment Nodules in Breast Ultrasound**|Yuhao Huang et.al.|[2503.20685v1](http://arxiv.org/abs/2503.20685v1)|**2025-03-26**|null|
+|**2025-03-26**|**Flip Learning: Weakly Supervised Erase to Segment Nodules in Breast Ultrasound**|Yuhao Huang et.al.|[2503.20685v2](http://arxiv.org/abs/2503.20685v2)|**2025-03-27**|null|
 |**2025-03-26**|**GLRD: Global-Local Collaborative Reason and Debate with PSL for 3D Open-Vocabulary Detection**|Xingyu Peng et.al.|[2503.20682v1](http://arxiv.org/abs/2503.20682v1)|**2025-03-26**|null|
-|**2025-03-26**|**Curves on Hirzebruch Surfaces and Stability**|Alessio Cela et.al.|[2503.20677v1](http://arxiv.org/abs/2503.20677v1)|**2025-03-26**|null|
+|**2025-03-26**|**Curves on Hirzebruch Surfaces and Semistability**|Alessio Cela et.al.|[2503.20677v2](http://arxiv.org/abs/2503.20677v2)|**2025-03-27**|null|
 |**2025-03-26**|**(Dis)continuous buckling transition in elastic shell mediated by contact**|Takara Abe et.al.|[2503.20670v1](http://arxiv.org/abs/2503.20670v1)|**2025-03-26**|null|
 |**2025-03-26**|**Large Structural VARs with Multiple Sign and Ranking Restrictions**|Joshua Chan et.al.|[2503.20668v1](http://arxiv.org/abs/2503.20668v1)|**2025-03-26**|null|
 |**2025-03-26**|**Coverages and Grothendieck Toposes**|Emilio Minichiello et.al.|[2503.20664v1](http://arxiv.org/abs/2503.20664v1)|**2025-03-26**|null|
 |**2025-03-26**|**Probabilistic Forecasting for Network Resource Analysis in Integrated Terrestrial and Non-Terrestrial Networks**|Cristian J. Vaca-Rubio et.al.|[2503.20658v1](http://arxiv.org/abs/2503.20658v1)|**2025-03-26**|null|
-|**2025-03-26**|**Imitating Radiological Scrolling: A Global-Local Attention Model for 3D Chest CT Volumes Multi-Label Anomaly Classification**|Theo Di Piazza et.al.|[2503.20652v1](http://arxiv.org/abs/2503.20652v1)|**2025-03-26**|null|
+|**2025-03-26**|**Imitating Radiological Scrolling: A Global-Local Attention Model for 3D Chest CT Volumes Multi-Label Anomaly Classification**|Theo Di Piazza et.al.|[2503.20652v2](http://arxiv.org/abs/2503.20652v2)|**2025-03-27**|null|
 |**2025-03-26**|**Evolution of robust cell differentiation mechanisms under epigenetic feedback**|Davey Plugers et.al.|[2503.20651v1](http://arxiv.org/abs/2503.20651v1)|**2025-03-26**|null|
 |**2025-03-26**|**MMGen: Unified Multi-modal Image Generation and Understanding in One Go**|Jiepeng Wang et.al.|[2503.20644v1](http://arxiv.org/abs/2503.20644v1)|**2025-03-26**|null|
 |**2025-03-26**|**Mathematical Models for Self-Adaptive Response to Cancer Dynamics**|Christian Kuehn et.al.|[2503.20632v1](http://arxiv.org/abs/2503.20632v1)|**2025-03-26**|null|

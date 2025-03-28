@@ -8,7 +8,7 @@
 |**2025-03-26**|**CyberDiver: an untethered robotic impactor for water-entry experiments**|John T. Antolik et.al.|[2503.20702v1](http://arxiv.org/abs/2503.20702v1)|**2025-03-26**|null|
 |**2025-03-26**|**Toward Dynamic Control of Tendon-Driven Continuum Robots using Clarke Transform**|Christian Muhmann et.al.|[2503.20693v1](http://arxiv.org/abs/2503.20693v1)|**2025-03-26**|null|
 |**2025-03-26**|**(Dis)continuous buckling transition in elastic shell mediated by contact**|Takara Abe et.al.|[2503.20670v1](http://arxiv.org/abs/2503.20670v1)|**2025-03-26**|null|
-|**2025-03-26**|**Immersive and Wearable Thermal Rendering for Augmented Reality**|Alexandra Watkins et.al.|[2503.20646v1](http://arxiv.org/abs/2503.20646v1)|**2025-03-26**|null|
+|**2025-03-26**|**Immersive and Wearable Thermal Rendering for Augmented Reality**|Alexandra Watkins et.al.|[2503.20646v2](http://arxiv.org/abs/2503.20646v2)|**2025-03-27**|null|
 |**2025-03-26**|**Representation Improvement in Latent Space for Search-Based Testing of Autonomous Robotic Systems**|Dmytro Humeniuk et.al.|[2503.20642v1](http://arxiv.org/abs/2503.20642v1)|**2025-03-26**|null|
 |**2025-03-26**|**Robust Flower Cluster Matching Using The Unscented Transform**|Andy Chu et.al.|[2503.20631v1](http://arxiv.org/abs/2503.20631v1)|**2025-03-26**|null|
 |**2025-03-26**|**State-Aware Perturbation Optimization for Robust Deep Reinforcement Learning**|Zongyuan Zhang et.al.|[2503.20613v1](http://arxiv.org/abs/2503.20613v1)|**2025-03-26**|null|
@@ -20,7 +20,7 @@
 |**2025-03-26**|**Perspective-Shifted Neuro-Symbolic World Models: A Framework for Socially-Aware Robot Navigation**|Kevin Alcedo et.al.|[2503.20425v1](http://arxiv.org/abs/2503.20425v1)|**2025-03-26**|null|
 |**2025-03-26**|**MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation**|Rongyu Zhang et.al.|[2503.20384v1](http://arxiv.org/abs/2503.20384v1)|**2025-03-26**|null|
 |**2025-03-26**|**CTS-CBS: A New Approach for Multi-Agent Collaborative Task Sequencing and Path Finding**|Junkai Jiang et.al.|[2503.20324v1](http://arxiv.org/abs/2503.20324v1)|**2025-03-26**|null|
-|**2025-03-26**|**Bridging Evolutionary Multiobjective Optimization and GPU Acceleration via Tensorization**|Zhenyu Liang et.al.|[2503.20286v1](http://arxiv.org/abs/2503.20286v1)|**2025-03-26**|null|
+|**2025-03-26**|**Bridging Evolutionary Multiobjective Optimization and GPU Acceleration via Tensorization**|Zhenyu Liang et.al.|[2503.20286v2](http://arxiv.org/abs/2503.20286v2)|**2025-03-27**|null|
 |**2025-03-26**|**Turning Circle-based Control Barrier Function for Efficient Collision Avoidance of Nonholonomic Vehicles**|Changyu Lee et.al.|[2503.20280v1](http://arxiv.org/abs/2503.20280v1)|**2025-03-26**|null|
 |**2025-03-26**|**LGR: LLM-Guided Ranking of Frontiers for Object Goal Navigation**|Mitsuaki Uno et.al.|[2503.20241v1](http://arxiv.org/abs/2503.20241v1)|**2025-03-26**|null|
 |**2025-03-26**|**A Virtual Fencing Framework for Safe and Efficient Collaborative Robotics**|Vineela Reddy Pippera Badguna et.al.|[2503.20237v1](http://arxiv.org/abs/2503.20237v1)|**2025-03-26**|null|

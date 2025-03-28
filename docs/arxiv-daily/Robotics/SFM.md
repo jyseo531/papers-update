@@ -23,7 +23,7 @@
 |**2025-03-26**|**Boundary Time Crystals Induced by Local Dissipation and Long-Range Interactions**|Zhuqing Wang et.al.|[2503.20761v1](http://arxiv.org/abs/2503.20761v1)|**2025-03-26**|null|
 |**2025-03-26**|**MCTS-RAG: Enhancing Retrieval-Augmented Generation with Monte Carlo Tree Search**|Yunhai Hu et.al.|[2503.20757v1](http://arxiv.org/abs/2503.20757v1)|**2025-03-26**|null|
 |**2025-03-26**|**Flying Vines: Design, Modeling, and Control of a Soft Aerial Robotic Arm**|Rianna Jitosho et.al.|[2503.20754v1](http://arxiv.org/abs/2503.20754v1)|**2025-03-26**|null|
-|**2025-03-26**|**Beyond Believability: Accurate Human Behavior Simulation with Fine-Tuned LLMs**|Yuxuan Lu et.al.|[2503.20749v1](http://arxiv.org/abs/2503.20749v1)|**2025-03-26**|null|
+|**2025-03-26**|**Beyond Believability: Accurate Human Behavior Simulation with Fine-Tuned LLMs**|Yuxuan Lu et.al.|[2503.20749v2](http://arxiv.org/abs/2503.20749v2)|**2025-03-27**|null|
 |**2025-03-26**|**PhysGen3D: Crafting a Miniature Interactive World from a Single Image**|Boyuan Chen et.al.|[2503.20746v1](http://arxiv.org/abs/2503.20746v1)|**2025-03-26**|null|
 |**2025-03-26**|**Quantum Neural Network Restatement of Markov Jump Process**|Z. Zarezadeh et.al.|[2503.20742v1](http://arxiv.org/abs/2503.20742v1)|**2025-03-26**|null|
 |**2025-03-26**|**Emotion Detection and Music Recommendation System**|Swetha Kambham et.al.|[2503.20739v1](http://arxiv.org/abs/2503.20739v1)|**2025-03-26**|null|

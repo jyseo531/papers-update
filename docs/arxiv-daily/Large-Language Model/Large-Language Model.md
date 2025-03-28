@@ -15,8 +15,8 @@
 |**2025-03-26**|**PUREPath-B: A Tessellated Bayesian Model for Recovering CMB B-modes over Large Angular Scales of the Sky**|Vipin Sudevan et.al.|[2503.20774v1](http://arxiv.org/abs/2503.20774v1)|**2025-03-26**|null|
 |**2025-03-26**|**Disentangled Source-Free Personalization for Facial Expression Recognition with Neutral Target Data**|Masoumeh Sharafi et.al.|[2503.20771v1](http://arxiv.org/abs/2503.20771v1)|**2025-03-26**|null|
 |**2025-03-26**|**Explaining the UV to X-ray correlation in AGN within the framework of X-ray illumination of accretion discs**|E. Kammoun et.al.|[2503.20770v1](http://arxiv.org/abs/2503.20770v1)|**2025-03-26**|null|
-|**2025-03-26**|**Inferring Treatment Effects in Large Panels by Uncovering Latent Similarities**|Ben Deaner et.al.|[2503.20769v1](http://arxiv.org/abs/2503.20769v1)|**2025-03-26**|null|
-|**2025-03-26**|**An Empirical Study of the Impact of Federated Learning on Machine Learning Model Accuracy**|Haotian Yang et.al.|[2503.20768v1](http://arxiv.org/abs/2503.20768v1)|**2025-03-26**|null|
+|**2025-03-26**|**Inferring Treatment Effects in Large Panels by Uncovering Latent Similarities**|Ben Deaner et.al.|[2503.20769v2](http://arxiv.org/abs/2503.20769v2)|**2025-03-27**|null|
+|**2025-03-26**|**An Empirical Study of the Impact of Federated Learning on Machine Learning Model Accuracy**|Haotian Yang et.al.|[2503.20768v2](http://arxiv.org/abs/2503.20768v2)|**2025-03-27**|null|
 |**2025-03-26**|**Reliable algorithm selection for machine learning-guided design**|Clara Fannjiang et.al.|[2503.20767v1](http://arxiv.org/abs/2503.20767v1)|**2025-03-26**|null|
 |**2025-03-26**|**Can the speed of sound of quark-gluon plasma be measured from the multiplicity and mean $p_T$ of ultracentral heavy-ion collisions?**|Lorenzo Gavassino et.al.|[2503.20765v1](http://arxiv.org/abs/2503.20765v1)|**2025-03-26**|null|
 |**2025-03-26**|**High-Precision Ab Initio Radius Calculations of Boron Isotopes**|Tobias Wolfgruber et.al.|[2503.20764v1](http://arxiv.org/abs/2503.20764v1)|**2025-03-26**|null|
@@ -26,9 +26,9 @@
 |**2025-03-26**|**ADS-Edit: A Multimodal Knowledge Editing Dataset for Autonomous Driving Systems**|Chenxi Wang et.al.|[2503.20756v1](http://arxiv.org/abs/2503.20756v1)|**2025-03-26**|null|
 |**2025-03-26**|**Flying Vines: Design, Modeling, and Control of a Soft Aerial Robotic Arm**|Rianna Jitosho et.al.|[2503.20754v1](http://arxiv.org/abs/2503.20754v1)|**2025-03-26**|null|
 |**2025-03-26**|**Stabilizing Neural Likelihood Ratio Estimation**|Fernando Torales Acosta et.al.|[2503.20753v1](http://arxiv.org/abs/2503.20753v1)|**2025-03-26**|null|
-|**2025-03-26**|**Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning**|Huajie Tan et.al.|[2503.20752v1](http://arxiv.org/abs/2503.20752v1)|**2025-03-26**|null|
+|**2025-03-26**|**Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning**|Huajie Tan et.al.|[2503.20752v2](http://arxiv.org/abs/2503.20752v2)|**2025-03-27**|null|
 |**2025-03-26**|**The Role of Computational Modeling in Enhancing Thermal Safety During Cardiac Ablation**|Leila Seidabadi et.al.|[2503.20751v1](http://arxiv.org/abs/2503.20751v1)|**2025-03-26**|null|
 |**2025-03-26**|**Optimal Scaling Laws for Efficiency Gains in a Theoretical Transformer-Augmented Sectional MoE Framework**|Soham Sane et.al.|[2503.20750v1](http://arxiv.org/abs/2503.20750v1)|**2025-03-26**|null|
-|**2025-03-26**|**Beyond Believability: Accurate Human Behavior Simulation with Fine-Tuned LLMs**|Yuxuan Lu et.al.|[2503.20749v1](http://arxiv.org/abs/2503.20749v1)|**2025-03-26**|null|
+|**2025-03-26**|**Beyond Believability: Accurate Human Behavior Simulation with Fine-Tuned LLMs**|Yuxuan Lu et.al.|[2503.20749v2](http://arxiv.org/abs/2503.20749v2)|**2025-03-27**|null|
 |**2025-03-26**|**UniSTD: Towards Unified Spatio-Temporal Learning across Diverse Disciplines**|Chen Tang et.al.|[2503.20748v1](http://arxiv.org/abs/2503.20748v1)|**2025-03-26**|null|
 |**2025-03-26**|**PhysGen3D: Crafting a Miniature Interactive World from a Single Image**|Boyuan Chen et.al.|[2503.20746v1](http://arxiv.org/abs/2503.20746v1)|**2025-03-26**|null|

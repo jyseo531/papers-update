@@ -12,14 +12,14 @@
 |**2025-03-26**|**Vision as LoRA**|Han Wang et.al.|[2503.20680v1](http://arxiv.org/abs/2503.20680v1)|**2025-03-26**|null|
 |**2025-03-26**|**Asset price movement prediction using empirical mode decomposition and Gaussian mixture models**|Gabriel R. Palma et.al.|[2503.20678v1](http://arxiv.org/abs/2503.20678v1)|**2025-03-26**|null|
 |**2025-03-26**|**UWarp: A Whole Slide Image Registration Pipeline to Characterize Scanner-Induced Local Domain Shift**|Antoine Schieb et.al.|[2503.20653v1](http://arxiv.org/abs/2503.20653v1)|**2025-03-26**|null|
-|**2025-03-26**|**Imitating Radiological Scrolling: A Global-Local Attention Model for 3D Chest CT Volumes Multi-Label Anomaly Classification**|Theo Di Piazza et.al.|[2503.20652v1](http://arxiv.org/abs/2503.20652v1)|**2025-03-26**|null|
+|**2025-03-26**|**Imitating Radiological Scrolling: A Global-Local Attention Model for 3D Chest CT Volumes Multi-Label Anomaly Classification**|Theo Di Piazza et.al.|[2503.20652v2](http://arxiv.org/abs/2503.20652v2)|**2025-03-27**|null|
 |**2025-03-26**|**MMGen: Unified Multi-modal Image Generation and Understanding in One Go**|Jiepeng Wang et.al.|[2503.20644v1](http://arxiv.org/abs/2503.20644v1)|**2025-03-26**|null|
 |**2025-03-26**|**Robust Flower Cluster Matching Using The Unscented Transform**|Andy Chu et.al.|[2503.20631v1](http://arxiv.org/abs/2503.20631v1)|**2025-03-26**|null|
 |**2025-03-26**|**IAP: Improving Continual Learning of Vision-Language Models via Instance-Aware Prompting**|Hao Fu et.al.|[2503.20612v1](http://arxiv.org/abs/2503.20612v1)|**2025-03-26**|null|
 |**2025-03-26**|**Tropical function fields, finite generation, and faithful tropicalization**|Omid Amini et.al.|[2503.20611v1](http://arxiv.org/abs/2503.20611v1)|**2025-03-26**|null|
 |**2025-03-26**|**On computing the zeros of a class of Sobolev orthogonal polynomials**|Nicola Mastronardi et.al.|[2503.20567v1](http://arxiv.org/abs/2503.20567v1)|**2025-03-26**|null|
 |**2025-03-26**|**A Theoretical Framework for Prompt Engineering: Approximating Smooth Functions with Transformer Prompts**|Ryumei Nakada et.al.|[2503.20561v1](http://arxiv.org/abs/2503.20561v1)|**2025-03-26**|null|
-|**2025-03-26**|**MAR-3D: Progressive Masked Auto-regressor for High-Resolution 3D Generation**|Jinnan Chen et.al.|[2503.20519v1](http://arxiv.org/abs/2503.20519v1)|**2025-03-26**|null|
+|**2025-03-26**|**MAR-3D: Progressive Masked Auto-regressor for High-Resolution 3D Generation**|Jinnan Chen et.al.|[2503.20519v2](http://arxiv.org/abs/2503.20519v2)|**2025-03-27**|null|
 |**2025-03-26**|**Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications**|Mahya Nikouei et.al.|[2503.20516v1](http://arxiv.org/abs/2503.20516v1)|**2025-03-26**|null|
 |**2025-03-26**|**Vision-Amplified Semantic Entropy for Hallucination Detection in Medical Visual Question Answering**|Zehui Liao et.al.|[2503.20504v1](http://arxiv.org/abs/2503.20504v1)|**2025-03-26**|null|
 |**2025-03-26**|**Rotational Metric: A Solution to Einstein's Clock-Rate Problem and Its Magnetospheric Applications**|Z. Zhang et.al.|[2503.20501v1](http://arxiv.org/abs/2503.20501v1)|**2025-03-26**|null|

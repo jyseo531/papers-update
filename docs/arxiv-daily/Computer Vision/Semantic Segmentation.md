@@ -11,10 +11,10 @@
 |**2025-03-26**|**A weakly-supervised deep learning model for fast localisation and delineation of the skeleton, internal organs, and spinal canal on Whole-Body Diffusion-Weighted MRI (WB-DWI)**|A. Candito et.al.|[2503.20722v1](http://arxiv.org/abs/2503.20722v1)|**2025-03-26**|null|
 |**2025-03-26**|**Semantic Communications via Features Identification**|Federico Francesco Luigi Mariani et.al.|[2503.20720v1](http://arxiv.org/abs/2503.20720v1)|**2025-03-26**|null|
 |**2025-03-26**|**Toward Dynamic Control of Tendon-Driven Continuum Robots using Clarke Transform**|Christian Muhmann et.al.|[2503.20693v1](http://arxiv.org/abs/2503.20693v1)|**2025-03-26**|null|
-|**2025-03-26**|**Flip Learning: Weakly Supervised Erase to Segment Nodules in Breast Ultrasound**|Yuhao Huang et.al.|[2503.20685v1](http://arxiv.org/abs/2503.20685v1)|**2025-03-26**|null|
+|**2025-03-26**|**Flip Learning: Weakly Supervised Erase to Segment Nodules in Breast Ultrasound**|Yuhao Huang et.al.|[2503.20685v2](http://arxiv.org/abs/2503.20685v2)|**2025-03-27**|null|
 |**2025-03-26**|**Inductive Link Prediction on N-ary Relational Facts via Semantic Hypergraph Reasoning**|Gongzhu Yin et.al.|[2503.20676v1](http://arxiv.org/abs/2503.20676v1)|**2025-03-26**|null|
 |**2025-03-26**|**Probabilistic Forecasting for Network Resource Analysis in Integrated Terrestrial and Non-Terrestrial Networks**|Cristian J. Vaca-Rubio et.al.|[2503.20658v1](http://arxiv.org/abs/2503.20658v1)|**2025-03-26**|null|
-|**2025-03-26**|**Imitating Radiological Scrolling: A Global-Local Attention Model for 3D Chest CT Volumes Multi-Label Anomaly Classification**|Theo Di Piazza et.al.|[2503.20652v1](http://arxiv.org/abs/2503.20652v1)|**2025-03-26**|null|
+|**2025-03-26**|**Imitating Radiological Scrolling: A Global-Local Attention Model for 3D Chest CT Volumes Multi-Label Anomaly Classification**|Theo Di Piazza et.al.|[2503.20652v2](http://arxiv.org/abs/2503.20652v2)|**2025-03-27**|null|
 |**2025-03-26**|**MMGen: Unified Multi-modal Image Generation and Understanding in One Go**|Jiepeng Wang et.al.|[2503.20644v1](http://arxiv.org/abs/2503.20644v1)|**2025-03-26**|null|
 |**2025-03-26**|**Diffusion Counterfactuals for Image Regressors**|Trung Duc Ha et.al.|[2503.20595v1](http://arxiv.org/abs/2503.20595v1)|**2025-03-26**|null|
 |**2025-03-26**|**RED2Hunt: an Actionable Framework for Cleaning Operational Databases with Surrogate Keys**|Mathilde Marcy et.al.|[2503.20593v1](http://arxiv.org/abs/2503.20593v1)|**2025-03-26**|null|

@@ -15,7 +15,7 @@
 |**2025-03-26**|**Quantum group origins of edge states in double-scaled SYK**|Andreas Belaey et.al.|[2503.20691v1](http://arxiv.org/abs/2503.20691v1)|**2025-03-26**|null|
 |**2025-03-26**|**Precise Static Identification of Ethereum Storage Variables**|Sifis Lagouvardos et.al.|[2503.20690v1](http://arxiv.org/abs/2503.20690v1)|**2025-03-26**|null|
 |**2025-03-26**|**GLRD: Global-Local Collaborative Reason and Debate with PSL for 3D Open-Vocabulary Detection**|Xingyu Peng et.al.|[2503.20682v1](http://arxiv.org/abs/2503.20682v1)|**2025-03-26**|null|
-|**2025-03-26**|**Curves on Hirzebruch Surfaces and Stability**|Alessio Cela et.al.|[2503.20677v1](http://arxiv.org/abs/2503.20677v1)|**2025-03-26**|null|
+|**2025-03-26**|**Curves on Hirzebruch Surfaces and Semistability**|Alessio Cela et.al.|[2503.20677v2](http://arxiv.org/abs/2503.20677v2)|**2025-03-27**|null|
 |**2025-03-26**|**(Dis)continuous buckling transition in elastic shell mediated by contact**|Takara Abe et.al.|[2503.20670v1](http://arxiv.org/abs/2503.20670v1)|**2025-03-26**|null|
 |**2025-03-26**|**Large Structural VARs with Multiple Sign and Ranking Restrictions**|Joshua Chan et.al.|[2503.20668v1](http://arxiv.org/abs/2503.20668v1)|**2025-03-26**|null|
 |**2025-03-26**|**Coverages and Grothendieck Toposes**|Emilio Minichiello et.al.|[2503.20664v1](http://arxiv.org/abs/2503.20664v1)|**2025-03-26**|null|
