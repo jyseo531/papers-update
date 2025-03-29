@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-27**|**StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion**|Ziyu Guo et.al.|[2503.21775v1](http://arxiv.org/abs/2503.21775v1)|**2025-03-27**|null|
-|**2025-03-27**|**A Unified Image-Dense Annotation Generation Model for Underwater Scenes**|Hongkai Lin et.al.|[2503.21771v1](http://arxiv.org/abs/2503.21771v1)|**2025-03-27**|null|
+|**2025-03-27**|**A Unified Image-Dense Annotation Generation Model for Underwater Scenes**|Hongkai Lin et.al.|[2503.21771v1](http://arxiv.org/abs/2503.21771v1)|**2025-03-27**|[link](https://github.com/hongklin/tide)|
 |**2025-03-27**|**Lumina-Image 2.0: A Unified and Efficient Image Generative Framework**|Qi Qin et.al.|[2503.21758v1](http://arxiv.org/abs/2503.21758v1)|**2025-03-27**|null|
 |**2025-03-27**|**Enhancing Underwater Navigation through Cross-Correlation-Aware Deep INS/DVL Fusion**|Nadav Cohen et.al.|[2503.21727v1](http://arxiv.org/abs/2503.21727v1)|**2025-03-27**|null|
 |**2025-03-27**|**MAVERIX: Multimodal Audio-Visual Evaluation Reasoning IndeX**|Liuyue Xie et.al.|[2503.21699v1](http://arxiv.org/abs/2503.21699v1)|**2025-03-27**|null|
@@ -18,10 +18,10 @@
 |**2025-03-27**|**Graph-to-Vision: Multi-graph Understanding and Reasoning using Vision-Language Models**|Ruizhou Li et.al.|[2503.21435v1](http://arxiv.org/abs/2503.21435v1)|**2025-03-27**|null|
 |**2025-03-27**|**Multimodal surface defect detection from wooden logs for sawing optimization**|Bořek Reich et.al.|[2503.21367v1](http://arxiv.org/abs/2503.21367v1)|**2025-03-27**|null|
 |**2025-03-27**|**ClimbingCap: Multi-Modal Dataset and Method for Rock Climbing in World Coordinate**|Ming Yan et.al.|[2503.21268v1](http://arxiv.org/abs/2503.21268v1)|**2025-03-27**|null|
-|**2025-03-27**|**Vision-to-Music Generation: A Survey**|Zhaokai Wang et.al.|[2503.21254v1](http://arxiv.org/abs/2503.21254v1)|**2025-03-27**|null|
+|**2025-03-27**|**Vision-to-Music Generation: A Survey**|Zhaokai Wang et.al.|[2503.21254v1](http://arxiv.org/abs/2503.21254v1)|**2025-03-27**|[link](https://github.com/wzk1015/awesome-vision-to-music-generation)|
 |**2025-03-27**|**FakeReasoning: Towards Generalizable Forgery Detection and Reasoning**|Yueying Gao et.al.|[2503.21210v1](http://arxiv.org/abs/2503.21210v1)|**2025-03-27**|null|
 |**2025-03-27**|**Leveraging LLMs with Iterative Loop Structure for Enhanced Social Intelligence in Video Question Answering**|Erika Mori et.al.|[2503.21190v1](http://arxiv.org/abs/2503.21190v1)|**2025-03-27**|null|
-|**2025-03-27**|**DGSUnet: An Improved Unet Model with DINO-Guided SAM2 for Multi-Scale Feature Collaboration**|Yimin Xu et.al.|[2503.21187v1](http://arxiv.org/abs/2503.21187v1)|**2025-03-27**|null|
+|**2025-03-27**|**DGSUnet: An Improved Unet Model with DINO-Guided SAM2 for Multi-Scale Feature Collaboration**|Yimin Xu et.al.|[2503.21187v1](http://arxiv.org/abs/2503.21187v1)|**2025-03-27**|[link](https://github.com/cheneyxuyimin/sam2dino-seg)|
 |**2025-03-27**|**Unveiling the Potential of Superexpressive Networks in Implicit Neural Representations**|Uvini Balasuriya Mudiyanselage et.al.|[2503.21166v1](http://arxiv.org/abs/2503.21166v1)|**2025-03-27**|null|
 |**2025-03-27**|**AdaMHF: Adaptive Multimodal Hierarchical Fusion for Survival Prediction**|Shuaiyu Zhang et.al.|[2503.21124v1](http://arxiv.org/abs/2503.21124v1)|**2025-03-27**|null|
 |**2025-03-26**|**Two for the Price of One: Integrating Large Language Models to Learn Biophysical Interactions**|Joseph D. Clark et.al.|[2503.21017v1](http://arxiv.org/abs/2503.21017v1)|**2025-03-26**|null|

@@ -2,7 +2,7 @@
 ### Reinforcement Learning
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-27**|**Video-R1: Reinforcing Video Reasoning in MLLMs**|Kaituo Feng et.al.|[2503.21776v1](http://arxiv.org/abs/2503.21776v1)|**2025-03-27**|null|
+|**2025-03-27**|**Video-R1: Reinforcing Video Reasoning in MLLMs**|Kaituo Feng et.al.|[2503.21776v1](http://arxiv.org/abs/2503.21776v1)|**2025-03-27**|[link](https://github.com/tulerfeng/video-r1)|
 |**2025-03-27**|**ReaRAG: Knowledge-guided Reasoning Enhances Factuality of Large Reasoning Models with Iterative Retrieval Augmented Generation**|Zhicheng Lee et.al.|[2503.21729v1](http://arxiv.org/abs/2503.21729v1)|**2025-03-27**|null|
 |**2025-03-27**|**Collab: Controlled Decoding using Mixture of Agents for LLM Alignment**|Souradip Chakraborty et.al.|[2503.21720v1](http://arxiv.org/abs/2503.21720v1)|**2025-03-27**|null|
 |**2025-03-27**|**LLM-Gomoku: A Large Language Model-Based System for Strategic Gomoku with Self-Play and Reinforcement Learning**|Hui Wang et.al.|[2503.21683v1](http://arxiv.org/abs/2503.21683v1)|**2025-03-27**|null|
@@ -14,7 +14,7 @@
 |**2025-03-27**|**On Learning-Based Traffic Monitoring With a Swarm of Drones**|Marko Maljkovic et.al.|[2503.21433v1](http://arxiv.org/abs/2503.21433v1)|**2025-03-27**|null|
 |**2025-03-27**|**AcL: Action Learner for Fault-Tolerant Quadruped Locomotion Control**|Tianyu Xu et.al.|[2503.21401v1](http://arxiv.org/abs/2503.21401v1)|**2025-03-27**|null|
 |**2025-03-27**|**Controlling Large Language Model with Latent Actions**|Chengxing Jia et.al.|[2503.21383v1](http://arxiv.org/abs/2503.21383v1)|**2025-03-27**|null|
-|**2025-03-27**|**Reinforced Model Merging**|Jiaqi Han et.al.|[2503.21272v1](http://arxiv.org/abs/2503.21272v1)|**2025-03-27**|null|
+|**2025-03-27**|**Reinforced Model Merging**|Jiaqi Han et.al.|[2503.21272v1](http://arxiv.org/abs/2503.21272v1)|**2025-03-27**|[link](https://github.com/wudihjq/reinforced-model-merging)|
 |**2025-03-27**|**Robust Quantum Control using Reinforcement Learning from Demonstration**|Shengyong Li et.al.|[2503.21085v1](http://arxiv.org/abs/2503.21085v1)|**2025-03-27**|null|
 |**2025-03-26**|**World Model Agents with Change-Based Intrinsic Motivation**|Jeremias Ferrao et.al.|[2503.21047v1](http://arxiv.org/abs/2503.21047v1)|**2025-03-26**|null|
 |**2025-03-26**|**AllReduce Scheduling with Hierarchical Deep Reinforcement Learning**|Yufan Wei et.al.|[2503.21013v1](http://arxiv.org/abs/2503.21013v1)|**2025-03-26**|null|

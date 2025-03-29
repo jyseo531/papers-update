@@ -9,8 +9,8 @@
 |**2025-03-27**|**3DGen-Bench: Comprehensive Benchmark Suite for 3D Generative Models**|Yuhan Zhang et.al.|[2503.21745v1](http://arxiv.org/abs/2503.21745v1)|**2025-03-27**|null|
 |**2025-03-27**|**SparseFlex: High-Resolution and Arbitrary-Topology 3D Shape Modeling**|Xianglong He et.al.|[2503.21732v1](http://arxiv.org/abs/2503.21732v1)|**2025-03-27**|null|
 |**2025-03-27**|**OccRobNet : Occlusion Robust Network for Accurate 3D Interacting Hand-Object Pose Estimation**|Mallika Garg et.al.|[2503.21723v1](http://arxiv.org/abs/2503.21723v1)|**2025-03-27**|null|
-|**2025-03-27**|**Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data**|Zhiyuan Ma et.al.|[2503.21694v1](http://arxiv.org/abs/2503.21694v1)|**2025-03-27**|null|
-|**2025-03-27**|**A Comprehensive Benchmark for RNA 3D Structure-Function Modeling**|Luis Wyss et.al.|[2503.21681v1](http://arxiv.org/abs/2503.21681v1)|**2025-03-27**|null|
+|**2025-03-27**|**Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data**|Zhiyuan Ma et.al.|[2503.21694v1](http://arxiv.org/abs/2503.21694v1)|**2025-03-27**|[link](https://github.com/theericma/triplaneturbo)|
+|**2025-03-27**|**A Comprehensive Benchmark for RNA 3D Structure-Function Modeling**|Luis Wyss et.al.|[2503.21681v1](http://arxiv.org/abs/2503.21681v1)|**2025-03-27**|[link](https://github.com/cgoliver/rnaglib)|
 |**2025-03-27**|**Electronic structure dimensionality of the quantum-critical ferromagnet YbNi$_4$P$_2$**|J. Dai et.al.|[2503.21662v1](http://arxiv.org/abs/2503.21662v1)|**2025-03-27**|null|
 |**2025-03-27**|**Numerical proof-of-concept of a photon, proton, and positron laser-driven source with nanostructured targets**|Marta Galbiati et.al.|[2503.21630v1](http://arxiv.org/abs/2503.21630v1)|**2025-03-27**|null|
 |**2025-03-27**|**AlignDiff: Learning Physically-Grounded Camera Alignment via Diffusion**|Liuyue Xie et.al.|[2503.21581v1](http://arxiv.org/abs/2503.21581v1)|**2025-03-27**|null|
@@ -19,7 +19,7 @@
 |**2025-03-27**|**ICG-MVSNet: Learning Intra-view and Cross-view Relationships for Guidance in Multi-View Stereo**|Yuxi Hu et.al.|[2503.21525v1](http://arxiv.org/abs/2503.21525v1)|**2025-03-27**|null|
 |**2025-03-27**|**F-INR: Functional Tensor Decomposition for Implicit Neural Representations**|Sai Karthikeya Vemuri et.al.|[2503.21507v1](http://arxiv.org/abs/2503.21507v1)|**2025-03-27**|null|
 |**2025-03-27**|**3D MHD simulations of runaway pulsars in core collapse supernova remnants**|D. M. A. Meyer et.al.|[2503.21492v1](http://arxiv.org/abs/2503.21492v1)|**2025-03-27**|null|
-|**2025-03-27**|**Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving**|Lucas Nunes et.al.|[2503.21449v1](http://arxiv.org/abs/2503.21449v1)|**2025-03-27**|null|
+|**2025-03-27**|**Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving**|Lucas Nunes et.al.|[2503.21449v1](http://arxiv.org/abs/2503.21449v1)|**2025-03-27**|[link](https://github.com/prbonn/3diss)|
 |**2025-03-27**|**STAMICS: Splat, Track And Map with Integrated Consistency and Semantics for Dense RGB-D SLAM**|Yongxu Wang et.al.|[2503.21425v1](http://arxiv.org/abs/2503.21425v1)|**2025-03-27**|null|
 |**2025-03-27**|**LandMarkSystem Technical Report**|Zhenxiang Ma et.al.|[2503.21364v1](http://arxiv.org/abs/2503.21364v1)|**2025-03-27**|null|
 |**2025-03-27**|**Tailoring non-collinear magnetism and 3d $-$ 4f exchange interactions in RVO$_3$ epitaxial thin films**|O. Copie et.al.|[2503.21327v1](http://arxiv.org/abs/2503.21327v1)|**2025-03-27**|null|

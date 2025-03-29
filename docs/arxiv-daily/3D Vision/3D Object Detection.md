@@ -8,7 +8,7 @@
 |**2025-03-27**|**Stable-SCore: A Stable Registration-based Framework for 3D Shape Correspondence**|Haolin Liu et.al.|[2503.21766v1](http://arxiv.org/abs/2503.21766v1)|**2025-03-27**|null|
 |**2025-03-27**|**Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video**|David Yifan Yao et.al.|[2503.21761v1](http://arxiv.org/abs/2503.21761v1)|**2025-03-27**|null|
 |**2025-03-27**|**Fwd2Bot: LVLM Visual Token Compression with Double Forward Bottleneck**|Adrian Bulat et.al.|[2503.21757v1](http://arxiv.org/abs/2503.21757v1)|**2025-03-27**|null|
-|**2025-03-27**|**VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness**|Dian Zheng et.al.|[2503.21755v1](http://arxiv.org/abs/2503.21755v1)|**2025-03-27**|null|
+|**2025-03-27**|**VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness**|Dian Zheng et.al.|[2503.21755v1](http://arxiv.org/abs/2503.21755v1)|**2025-03-27**|[link](https://github.com/vchitect/vbench)|
 |**2025-03-27**|**Quantum enhanced parameter estimation with monitored quantum nonequilibrium systems using inefficient photo detection**|Albert Cabot et.al.|[2503.21753v1](http://arxiv.org/abs/2503.21753v1)|**2025-03-27**|null|
 |**2025-03-27**|**Reconstructing Humans with a Biomechanically Accurate Skeleton**|Yan Xia et.al.|[2503.21751v1](http://arxiv.org/abs/2503.21751v1)|**2025-03-27**|null|
 |**2025-03-27**|**CTRL-O: Language-Controllable Object-Centric Visual Representation Learning**|Aniket Didolkar et.al.|[2503.21747v1](http://arxiv.org/abs/2503.21747v1)|**2025-03-27**|null|
@@ -23,9 +23,9 @@
 |**2025-03-27**|**CLAIMCHECK: How Grounded are LLM Critiques of Scientific Papers?**|Jiefu Ou et.al.|[2503.21717v1](http://arxiv.org/abs/2503.21717v1)|**2025-03-27**|null|
 |**2025-03-27**|**Dynamics of Star Cluster Formation: The Effects of Ongoing Star Formation and Stellar Feedback**|Jeremy Karam et.al.|[2503.21716v1](http://arxiv.org/abs/2503.21716v1)|**2025-03-27**|null|
 |**2025-03-27**|**Flashlights: Prospects for constraining the Initial Mass Function around cosmic noon with caustic-crossing events**|Ashish Kumar Meena et.al.|[2503.21706v1](http://arxiv.org/abs/2503.21706v1)|**2025-03-27**|null|
-|**2025-03-27**|**Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data**|Zhiyuan Ma et.al.|[2503.21694v1](http://arxiv.org/abs/2503.21694v1)|**2025-03-27**|null|
+|**2025-03-27**|**Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data**|Zhiyuan Ma et.al.|[2503.21694v1](http://arxiv.org/abs/2503.21694v1)|**2025-03-27**|[link](https://github.com/theericma/triplaneturbo)|
 |**2025-03-27**|**CMED: A Child Micro-Expression Dataset**|Nikin~Matharaarachchi et.al.|[2503.21690v1](http://arxiv.org/abs/2503.21690v1)|**2025-03-27**|null|
-|**2025-03-27**|**A Comprehensive Benchmark for RNA 3D Structure-Function Modeling**|Luis Wyss et.al.|[2503.21681v1](http://arxiv.org/abs/2503.21681v1)|**2025-03-27**|null|
+|**2025-03-27**|**A Comprehensive Benchmark for RNA 3D Structure-Function Modeling**|Luis Wyss et.al.|[2503.21681v1](http://arxiv.org/abs/2503.21681v1)|**2025-03-27**|[link](https://github.com/cgoliver/rnaglib)|
 |**2025-03-27**|**JiraiBench: A Bilingual Benchmark for Evaluating Large Language Models' Detection of Human Self-Destructive Behavior Content in Jirai Community**|Yunze Xiao et.al.|[2503.21679v1](http://arxiv.org/abs/2503.21679v1)|**2025-03-27**|null|
 |**2025-03-27**|**A tale of two goals: leveraging sequentiality in multi-goal scenarios**|Olivier Serris et.al.|[2503.21677v1](http://arxiv.org/abs/2503.21677v1)|**2025-03-27**|null|
 |**2025-03-27**|**Intelligent IoT Attack Detection Design via ODLLM with Feature Ranking-based Knowledge Base**|Satvik Verma et.al.|[2503.21674v1](http://arxiv.org/abs/2503.21674v1)|**2025-03-27**|null|

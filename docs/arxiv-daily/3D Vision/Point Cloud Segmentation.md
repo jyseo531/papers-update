@@ -2,16 +2,16 @@
 ### Point Cloud Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-27**|**Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation**|Reza Qorbani et.al.|[2503.21780v1](http://arxiv.org/abs/2503.21780v1)|**2025-03-27**|null|
-|**2025-03-27**|**Mobile-VideoGPT: Fast and Accurate Video Understanding Language Model**|Abdelrahman Shaker et.al.|[2503.21782v1](http://arxiv.org/abs/2503.21782v1)|**2025-03-27**|null|
-|**2025-03-27**|**A Unified Image-Dense Annotation Generation Model for Underwater Scenes**|Hongkai Lin et.al.|[2503.21771v1](http://arxiv.org/abs/2503.21771v1)|**2025-03-27**|null|
+|**2025-03-27**|**Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation**|Reza Qorbani et.al.|[2503.21780v1](http://arxiv.org/abs/2503.21780v1)|**2025-03-27**|[link](https://github.com/rezaqorbani/semla)|
+|**2025-03-27**|**Mobile-VideoGPT: Fast and Accurate Video Understanding Language Model**|Abdelrahman Shaker et.al.|[2503.21782v1](http://arxiv.org/abs/2503.21782v1)|**2025-03-27**|[link](https://github.com/amshaker/mobile-videogpt)|
+|**2025-03-27**|**A Unified Image-Dense Annotation Generation Model for Underwater Scenes**|Hongkai Lin et.al.|[2503.21771v1](http://arxiv.org/abs/2503.21771v1)|**2025-03-27**|[link](https://github.com/hongklin/tide)|
 |**2025-03-27**|**Visual Jenga: Discovering Object Dependencies via Counterfactual Inpainting**|Anand Bhattad et.al.|[2503.21770v1](http://arxiv.org/abs/2503.21770v1)|**2025-03-27**|null|
 |**2025-03-27**|**Semantic Consistent Language Gaussian Splatting for Point-Level Open-vocabulary Querying**|Hairong Yin et.al.|[2503.21767v1](http://arxiv.org/abs/2503.21767v1)|**2025-03-27**|null|
 |**2025-03-27**|**Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video**|David Yifan Yao et.al.|[2503.21761v1](http://arxiv.org/abs/2503.21761v1)|**2025-03-27**|null|
 |**2025-03-27**|**High-intensity Voronoi percolation on manifolds**|Tillmann Bühler et.al.|[2503.21737v1](http://arxiv.org/abs/2503.21737v1)|**2025-03-27**|null|
 |**2025-03-27**|**Local Primordial non-Gaussian Bias from Time Evolution**|James M. Sullivan et.al.|[2503.21736v1](http://arxiv.org/abs/2503.21736v1)|**2025-03-27**|null|
 |**2025-03-27**|**Dynamics of Star Cluster Formation: The Effects of Ongoing Star Formation and Stellar Feedback**|Jeremy Karam et.al.|[2503.21716v1](http://arxiv.org/abs/2503.21716v1)|**2025-03-27**|null|
-|**2025-03-27**|**As easy as PIE: understanding when pruning causes language models to disagree**|Pietro Tropeano et.al.|[2503.21714v1](http://arxiv.org/abs/2503.21714v1)|**2025-03-27**|null|
+|**2025-03-27**|**As easy as PIE: understanding when pruning causes language models to disagree**|Pietro Tropeano et.al.|[2503.21714v1](http://arxiv.org/abs/2503.21714v1)|**2025-03-27**|[link](https://github.com/pietrotrope/aseasyaspie)|
 |**2025-03-27**|**Redefining Network Topology in Complex Systems: Merging Centrality Metrics, Spectral Theory, and Diffusion Dynamics**|Arsh Jha et.al.|[2503.21709v1](http://arxiv.org/abs/2503.21709v1)|**2025-03-27**|null|
 |**2025-03-27**|**Elementwise Layer Normalization**|Felix Stollenwerk et.al.|[2503.21708v1](http://arxiv.org/abs/2503.21708v1)|**2025-03-27**|null|
 |**2025-03-27**|**Heterostructure Effects on the Magnetocrystalline Anisotropy Energy of MnN**|Robert A. Lawrence et.al.|[2503.21707v1](http://arxiv.org/abs/2503.21707v1)|**2025-03-27**|null|

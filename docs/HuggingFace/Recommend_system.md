@@ -173,6 +173,7 @@ Updated on 2025-03-29
 | 11 | 4 | sail-rvc/Gawr_Gura__Hololive_EN__RVC_v1Audio-to-Audio | UpdatedJul 14, 2023 | [Link](https://huggingface.co/sail-rvc/Gawr_Gura__Hololive_EN__RVC_v1) |
 | 1.38k | 3 | sail-rvc/Hatsune_Miku__RVC_v2_Audio-to-Audio | UpdatedJul 14, 2023 | [Link](https://huggingface.co/sail-rvc/Hatsune_Miku__RVC_v2_) |
 | 15 | 3 | slprl/slam_scaledAudio-to-Audio | Updatedabout 13 hours ago | [Link](https://huggingface.co/slprl/slam_scaled) |
+| 2.88k | 2 | sail-rvc/ShrekAudio-to-Audio | UpdatedJul 14, 2023 | [Link](https://huggingface.co/sail-rvc/Shrek) |
 | 6 | 1 | sail-rvc/Guibel_Reviews__RVC_-_500_Epochs_Audio-to-Audio | UpdatedJul 14, 2023 | [Link](https://huggingface.co/sail-rvc/Guibel_Reviews__RVC_-_500_Epochs_) |
 | 9 | 1 | sail-rvc/Hu-Tao_e3000Audio-to-Audio | UpdatedJul 14, 2023 | [Link](https://huggingface.co/sail-rvc/Hu-Tao_e3000) |
 | 1 | 1 | sail-rvc/MafumafuAudio-to-Audio | UpdatedJul 14, 2023 | [Link](https://huggingface.co/sail-rvc/Mafumafu) |
@@ -239,6 +240,7 @@ Updated on 2025-03-29
 | 2.03k | 24 | KBLab/kb-whisper-largeAutomatic | Updatedabout 6 hours ago | [Link](https://huggingface.co/KBLab/kb-whisper-large) |
 | 41 | 24 | nvidia/stt_en_fastconformer_transducer_xlargeAutomatic | Updated17 days ago | [Link](https://huggingface.co/nvidia/stt_en_fastconformer_transducer_xlarge) |
 | 13.4k | 23 | nvidia/parakeet-tdt_ctc-110mAutomatic | Updated7 days ago | [Link](https://huggingface.co/nvidia/parakeet-tdt_ctc-110m) |
+| 4.32k | 17 | onnx-community/whisper-baseAutomatic | UpdatedOct 8, 2024 | [Link](https://huggingface.co/onnx-community/whisper-base) |
 | 10.4k | 16 | r-f/wav2vec-english-speech-emotion-recognitionAutomatic | UpdatedJan 2 | [Link](https://huggingface.co/r-f/wav2vec-english-speech-emotion-recognition) |
 | 133 | 16 | seastar105/whisper-medium-ko-zerothAutomatic | UpdatedFeb 9, 2023 | [Link](https://huggingface.co/seastar105/whisper-medium-ko-zeroth) |
 | 1.31k | 15 | aismlv/wav2vec2-large-xlsr-kazakhAutomatic | UpdatedDec 20, 2023 | [Link](https://huggingface.co/aismlv/wav2vec2-large-xlsr-kazakh) |
@@ -1139,6 +1141,7 @@ Updated on 2025-03-29
 | 15 | 2 | Remade-AI/MuscleImage-to-Video | Updatedabout 13 hours ago | [Link](https://huggingface.co/Remade-AI/Muscle) |
 | 26 | 2 | Remade-AI/BabyImage-to-Video | Updatedabout 11 hours ago | [Link](https://huggingface.co/Remade-AI/Baby) |
 | 738 | 2 | hunyuanvideo-community/HunyuanVideo-I2VImage-to-Video | Updated8 days ago | [Link](https://huggingface.co/hunyuanvideo-community/HunyuanVideo-I2V) |
+| 60 | 2 | Remade-AI/ExplodeImage-to-Video | Updated1 day ago | [Link](https://huggingface.co/Remade-AI/Explode) |
 | 696 | Unknown | stabilityai/sv3dImage-to-Video | UpdatedJul 10, 2024 | [Link](https://huggingface.co/stabilityai/sv3d) |
 | 1 | Unknown | Latinos/TH3BULLImage-to-Video | UpdatedDec 20, 2023 | [Link](https://huggingface.co/Latinos/TH3BULL) |
 | 11 | Unknown | zyand/animate-anything-v1 | UpdatedDec 22, 2023 | [Link](https://huggingface.co/zyand/animate-anything-v1.02) |
@@ -1245,6 +1248,7 @@ Updated on 2025-03-29
 | 23 | Unknown | merve/sam-finetunedMask | UpdatedJul 11, 2023 | [Link](https://huggingface.co/merve/sam-finetuned) |
 | 12 | Unknown | ahishamm/skinsam_largeMask | UpdatedJul 11, 2023 | [Link](https://huggingface.co/ahishamm/skinsam_large) |
 | 1 | Unknown | jackqwertyuio/llama3 | Updated6 minutes ago | [Link](https://huggingface.co/jackqwertyuio/llama3.2-vision-11b-lorra) |
+| 1 | Unknown | ly17/SAM-VMNetMask | Updatedabout 10 hours ago | [Link](https://huggingface.co/ly17/SAM-VMNet) |
 
 ## Object Detection
 
@@ -1835,6 +1839,7 @@ Updated on 2025-03-29
 | 12.9k |  | OpenAssistant/reward-model-deberta-v3-large-v2Text | UpdatedFeb 1, 2023 | [Link](https://huggingface.co/OpenAssistant/reward-model-deberta-v3-large-v2) |
 | 1.02M |  | mixedbread-ai/mxbai-rerank-base-v1Text | Updated14 days ago | [Link](https://huggingface.co/mixedbread-ai/mxbai-rerank-base-v1) |
 | 4.7k |  | MilaNLProc/xlm-emo-tText | UpdatedMar 27, 2023 | [Link](https://huggingface.co/MilaNLProc/xlm-emo-t) |
+| 868 |  | yuchuantian/AIGC_detector_zhv2Text | UpdatedDec 28, 2023 | [Link](https://huggingface.co/yuchuantian/AIGC_detector_zhv2) |
 
 ## Text Generation
 
@@ -1906,6 +1911,7 @@ Updated on 2025-03-29
 | 26.8k | 23 | lmstudio-community/QwQ-32B-GGUFText | Updated1 day ago | [Link](https://huggingface.co/lmstudio-community/QwQ-32B-GGUF) |
 | 1.47k | 23 | NousResearch/DeepHermes-3-Llama-3-3B-PreviewText | Updated4 days ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-3B-Preview) |
 | 34 | 21 | ai21labs/AI21-Jamba-Mini-1 | Updatedabout 13 hours ago | [Link](https://huggingface.co/ai21labs/AI21-Jamba-Mini-1.6) |
+| 14.1k | 19 | alamios/Mistral-Small-3 | Updated10 days ago | [Link](https://huggingface.co/alamios/Mistral-Small-3.1-DRAFT-0.5B) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
@@ -2143,6 +2149,11 @@ Updated on 2025-03-29
 | 122 |  | codermert/bahar2_fluxxxxText-to-Image | Updated14 days ago | [Link](https://huggingface.co/codermert/bahar2_fluxxxx) |
 | 10 | Unknown | PYY2001/BizGenText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/PYY2001/BizGen) |
 | 5.58k |  | nitrosocke/Ghibli-DiffusionText-to-Image | UpdatedAug 3, 2023 | [Link](https://huggingface.co/nitrosocke/Ghibli-Diffusion) |
+| 1 |  | openfree/flux-chatgpt-ghibli-loraText-to-Image | Updatedabout 24 hours ago | [Link](https://huggingface.co/openfree/flux-chatgpt-ghibli-lora) |
+| 7 |  | openfree/boris-yeltsinText-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/openfree/boris-yeltsin) |
+| 8 |  | openfree/voice-crown-necklaceText-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/openfree/voice-crown-necklace) |
+| 18 |  | openfree/string-sandalText-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/openfree/string-sandal) |
+| 12 |  | openfree/morgensternText-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/openfree/morgenstern) |
 
 ## Text-to-Speech
 
@@ -2676,6 +2687,7 @@ Updated on 2025-03-29
 | 496 | 3 | OpenGVLab/InternVL_2_5_HiCo_R16Video-Text-to-Text | Updated12 days ago | [Link](https://huggingface.co/OpenGVLab/InternVL_2_5_HiCo_R16) |
 | 3 | 3 | TIGER-Lab/Vamba-Qwen2-VL-7BVideo-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/TIGER-Lab/Vamba-Qwen2-VL-7B) |
 | 52 | 2 | mlx-community/SmolVLM2-500M-Video-Instruct-mlx-8bit-skip-visionVideo-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/mlx-community/SmolVLM2-500M-Video-Instruct-mlx-8bit-skip-vision) |
+| 17 | 2 | Video-R1/Video-R1-7BVideo-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/Video-R1/Video-R1-7B) |
 | 26 | 1 | tcm03/LongVidLLaMAVideo-Text-to-Text | UpdatedJan 8 | [Link](https://huggingface.co/tcm03/LongVidLLaMA) |
 | 54 | 1 | ruili0/LongVA-7B-TPOVideo-Text-to-Text | Updated11 days ago | [Link](https://huggingface.co/ruili0/LongVA-7B-TPO) |
 | 191 | 1 | ruili0/LLaVA-Video-7B-Qwen2-TPOVideo-Text-to-Text | Updated11 days ago | [Link](https://huggingface.co/ruili0/LLaVA-Video-7B-Qwen2-TPO) |

@@ -9,7 +9,7 @@
 |**2025-03-27**|**Cooking Task Planning using LLM and Verified by Graph Network**|Ryunosuke Takebayashi et.al.|[2503.21564v1](http://arxiv.org/abs/2503.21564v1)|**2025-03-27**|null|
 |**2025-03-27**|**Combining Graph Attention Networks and Distributed Optimization for Multi-Robot Mixed-Integer Convex Programming**|Viet-Anh Le et.al.|[2503.21548v1](http://arxiv.org/abs/2503.21548v1)|**2025-03-27**|null|
 |**2025-03-27**|**Data-Driven Contact-Aware Control Method for Real-Time Deformable Tool Manipulation: A Case Study in the Environmental Swabbing**|Siavash Mahmoudi et.al.|[2503.21491v1](http://arxiv.org/abs/2503.21491v1)|**2025-03-27**|null|
-|**2025-03-27**|**Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving**|Lucas Nunes et.al.|[2503.21449v1](http://arxiv.org/abs/2503.21449v1)|**2025-03-27**|null|
+|**2025-03-27**|**Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving**|Lucas Nunes et.al.|[2503.21449v1](http://arxiv.org/abs/2503.21449v1)|**2025-03-27**|[link](https://github.com/prbonn/3diss)|
 |**2025-03-27**|**STAMICS: Splat, Track And Map with Integrated Consistency and Semantics for Dense RGB-D SLAM**|Yongxu Wang et.al.|[2503.21425v1](http://arxiv.org/abs/2503.21425v1)|**2025-03-27**|null|
 |**2025-03-27**|**Neuro-Symbolic Imitation Learning: Discovering Symbolic Abstractions for Skill Learning**|Leon Keller et.al.|[2503.21406v1](http://arxiv.org/abs/2503.21406v1)|**2025-03-27**|null|
 |**2025-03-27**|**AcL: Action Learner for Fault-Tolerant Quadruped Locomotion Control**|Tianyu Xu et.al.|[2503.21401v1](http://arxiv.org/abs/2503.21401v1)|**2025-03-27**|null|

@@ -2,8 +2,8 @@
 ### Instance Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-27**|**Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation**|Reza Qorbani et.al.|[2503.21780v1](http://arxiv.org/abs/2503.21780v1)|**2025-03-27**|null|
-|**2025-03-27**|**A Unified Image-Dense Annotation Generation Model for Underwater Scenes**|Hongkai Lin et.al.|[2503.21771v1](http://arxiv.org/abs/2503.21771v1)|**2025-03-27**|null|
+|**2025-03-27**|**Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation**|Reza Qorbani et.al.|[2503.21780v1](http://arxiv.org/abs/2503.21780v1)|**2025-03-27**|[link](https://github.com/rezaqorbani/semla)|
+|**2025-03-27**|**A Unified Image-Dense Annotation Generation Model for Underwater Scenes**|Hongkai Lin et.al.|[2503.21771v1](http://arxiv.org/abs/2503.21771v1)|**2025-03-27**|[link](https://github.com/hongklin/tide)|
 |**2025-03-27**|**Semantic Consistent Language Gaussian Splatting for Point-Level Open-vocabulary Querying**|Hairong Yin et.al.|[2503.21767v1](http://arxiv.org/abs/2503.21767v1)|**2025-03-27**|null|
 |**2025-03-27**|**Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video**|David Yifan Yao et.al.|[2503.21761v1](http://arxiv.org/abs/2503.21761v1)|**2025-03-27**|null|
 |**2025-03-27**|**A Unified Framework for Diffusion Bridge Problems: Flow Matching and Schrödinger Matching into One**|Minyoung Kim et.al.|[2503.21756v1](http://arxiv.org/abs/2503.21756v1)|**2025-03-27**|null|
@@ -21,7 +21,7 @@
 |**2025-03-27**|**Critical Iterative Denoising: A Discrete Generative Model Applied to Graphs**|Yoann Boget et.al.|[2503.21592v1](http://arxiv.org/abs/2503.21592v1)|**2025-03-27**|null|
 |**2025-03-27**|**Bosonic quantum error correction with microwave cavities for quantum repeaters**|S. Siddardha Chelluri et.al.|[2503.21569v1](http://arxiv.org/abs/2503.21569v1)|**2025-03-27**|null|
 |**2025-03-27**|**On the conductor of a family of Frey hyperelliptic curves**|Pedro-José Cazorla García et.al.|[2503.21568v1](http://arxiv.org/abs/2503.21568v1)|**2025-03-27**|null|
-|**2025-03-27**|**Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving**|Lucas Nunes et.al.|[2503.21449v1](http://arxiv.org/abs/2503.21449v1)|**2025-03-27**|null|
+|**2025-03-27**|**Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving**|Lucas Nunes et.al.|[2503.21449v1](http://arxiv.org/abs/2503.21449v1)|**2025-03-27**|[link](https://github.com/prbonn/3diss)|
 |**2025-03-27**|**Sparse Bayesian Learning for Label Efficiency in Cardiac Real-Time MRI**|Felix Terhag et.al.|[2503.21443v1](http://arxiv.org/abs/2503.21443v1)|**2025-03-27**|null|
 |**2025-03-27**|**On the Maiorana-McFarland Class Extensions**|Nikolay Kolomeec et.al.|[2503.21440v1](http://arxiv.org/abs/2503.21440v1)|**2025-03-27**|null|
 |**2025-03-27**|**Dual-Task Learning for Dead Tree Detection and Segmentation with Hybrid Self-Attention U-Nets in Aerial Imagery**|Anis Ur Rahman et.al.|[2503.21438v1](http://arxiv.org/abs/2503.21438v1)|**2025-03-27**|null|
