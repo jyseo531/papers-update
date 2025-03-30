@@ -1458,6 +1458,7 @@ Updated on 2025-03-30
 | 367 | 6 | rail-berkeley/octo-small-1 | UpdatedMay 21, 2024 | [Link](https://huggingface.co/rail-berkeley/octo-small-1.5) |
 | 52 | 5 | homebrewltd/Poseless-3BRobotics | Updatedabout 5 hours ago | [Link](https://huggingface.co/homebrewltd/Poseless-3B) |
 | 9 | 4 | mbreuss/MoDE_PretrainedRobotics | UpdatedDec 19, 2024 | [Link](https://huggingface.co/mbreuss/MoDE_Pretrained) |
+| 29 | 3 | AdamLucek/act_koch_blockRobotics | UpdatedSep 22, 2024 | [Link](https://huggingface.co/AdamLucek/act_koch_block) |
 | 65 | 2 | CogACT/CogACT-LargeRobotics | UpdatedDec 4, 2024 | [Link](https://huggingface.co/CogACT/CogACT-Large) |
 | 15 | 2 | mbreuss/MoDE_CALVIN_ABCDRobotics | UpdatedDec 19, 2024 | [Link](https://huggingface.co/mbreuss/MoDE_CALVIN_ABCD) |
 | 102 | 2 | CogACT/CogACT-SmallRobotics | UpdatedDec 4, 2024 | [Link](https://huggingface.co/CogACT/CogACT-Small) |
