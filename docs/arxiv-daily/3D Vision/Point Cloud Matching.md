@@ -13,7 +13,7 @@
 |**2025-03-27**|**Dynamics of Star Cluster Formation: The Effects of Ongoing Star Formation and Stellar Feedback**|Jeremy Karam et.al.|[2503.21716v1](http://arxiv.org/abs/2503.21716v1)|**2025-03-27**|null|
 |**2025-03-27**|**As easy as PIE: understanding when pruning causes language models to disagree**|Pietro Tropeano et.al.|[2503.21714v1](http://arxiv.org/abs/2503.21714v1)|**2025-03-27**|[link](https://github.com/pietrotrope/aseasyaspie)|
 |**2025-03-27**|**Redefining Network Topology in Complex Systems: Merging Centrality Metrics, Spectral Theory, and Diffusion Dynamics**|Arsh Jha et.al.|[2503.21709v1](http://arxiv.org/abs/2503.21709v1)|**2025-03-27**|null|
-|**2025-03-27**|**Elementwise Layer Normalization**|Felix Stollenwerk et.al.|[2503.21708v1](http://arxiv.org/abs/2503.21708v1)|**2025-03-27**|null|
+|**2025-03-27**|**Elementwise Layer Normalization**|Felix Stollenwerk et.al.|[2503.21708v1](http://arxiv.org/abs/2503.21708v1)|**2025-03-27**|[link](https://github.com/flxst/ELN)|
 |**2025-03-27**|**Heterostructure Effects on the Magnetocrystalline Anisotropy Energy of MnN**|Robert A. Lawrence et.al.|[2503.21707v1](http://arxiv.org/abs/2503.21707v1)|**2025-03-27**|null|
 |**2025-03-27**|**Machine Learning Assisted Modeling of Amorphous TiO$_2$-Doped GeO$_2$ for Advanced LIGO Mirror Coatings**|Jun Jiang et.al.|[2503.21701v1](http://arxiv.org/abs/2503.21701v1)|**2025-03-27**|null|
 |**2025-03-27**|**Normalized solutions of one-dimensional defocusing NLS equations with nonlinear point interactions**|Daniele Barbera et.al.|[2503.21700v1](http://arxiv.org/abs/2503.21700v1)|**2025-03-27**|null|

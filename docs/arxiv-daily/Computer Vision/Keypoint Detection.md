@@ -11,7 +11,7 @@
 |**2025-03-26**|**Incremental Object Keypoint Learning**|Mingfu Liang et.al.|[2503.20248v1](http://arxiv.org/abs/2503.20248v1)|**2025-03-26**|null|
 |**2025-03-26**|**Multimodal Image Matching based on Frequency-domain Information of Local Energy Response**|Meng Yang et.al.|[2503.20827v1](http://arxiv.org/abs/2503.20827v1)|**2025-03-26**|null|
 |**2025-03-25**|**The Great Rift in Physics**|Tim Maudlin et.al.|[2503.20067v1](http://arxiv.org/abs/2503.20067v1)|**2025-03-25**|null|
-|**2025-03-25**|**Towards Online Multi-Modal Social Interaction Understanding**|Xinpeng Li et.al.|[2503.19851v1](http://arxiv.org/abs/2503.19851v1)|**2025-03-25**|null|
+|**2025-03-25**|**Towards Online Multi-Modal Social Interaction Understanding**|Xinpeng Li et.al.|[2503.19851v1](http://arxiv.org/abs/2503.19851v1)|**2025-03-25**|[link](https://github.com/sampson-lee/onlinemmsi)|
 |**2025-03-25**|**Unpaired Object-Level SAR-to-Optical Image Translation for Aircraft with Keypoints-Guided Diffusion Models**|Ruixi You et.al.|[2503.19798v1](http://arxiv.org/abs/2503.19798v1)|**2025-03-25**|null|
 |**2025-03-25**|**MM-LINS: a Multi-Map LiDAR-Inertial System for Over-Degenerate Environments**|Yongxin Ma et.al.|[2503.19506v1](http://arxiv.org/abs/2503.19506v1)|**2025-03-25**|[link](https://github.com/lian-yue0515/MM-LINS)|
 |**2025-03-25**|**Multiscale Feature Importance-based Bit Allocation for End-to-End Feature Coding for Machines**|Junle Liu et.al.|[2503.19278v1](http://arxiv.org/abs/2503.19278v1)|**2025-03-25**|null|

@@ -19,7 +19,7 @@
 |**2025-03-27**|**Towards Intelligent Control of MeV Energy Electrons and Protons from kHz Repetition Rate Ultra-Intense Laser Plasma Interactions**|Nathaniel Tamminga et.al.|[2503.21726v1](http://arxiv.org/abs/2503.21726v1)|**2025-03-27**|null|
 |**2025-03-27**|**Energy Minimization for Participatory Federated Learning in IoT Analyzed via Game Theory**|Alessandro Buratto et.al.|[2503.21722v1](http://arxiv.org/abs/2503.21722v1)|**2025-03-27**|null|
 |**2025-03-27**|**Collab: Controlled Decoding using Mixture of Agents for LLM Alignment**|Souradip Chakraborty et.al.|[2503.21720v1](http://arxiv.org/abs/2503.21720v1)|**2025-03-27**|null|
-|**2025-03-27**|**Elementwise Layer Normalization**|Felix Stollenwerk et.al.|[2503.21708v1](http://arxiv.org/abs/2503.21708v1)|**2025-03-27**|null|
+|**2025-03-27**|**Elementwise Layer Normalization**|Felix Stollenwerk et.al.|[2503.21708v1](http://arxiv.org/abs/2503.21708v1)|**2025-03-27**|[link](https://github.com/flxst/ELN)|
 |**2025-03-27**|**Heterostructure Effects on the Magnetocrystalline Anisotropy Energy of MnN**|Robert A. Lawrence et.al.|[2503.21707v1](http://arxiv.org/abs/2503.21707v1)|**2025-03-27**|null|
 |**2025-03-27**|**SoK: Towards Reproducibility for Software Packages in Scripting Language Ecosystems**|Timo Pohl et.al.|[2503.21705v1](http://arxiv.org/abs/2503.21705v1)|**2025-03-27**|null|
 |**2025-03-27**|**Learning to Represent Individual Differences for Choice Decision Making**|Yan-Ying Chen et.al.|[2503.21704v1](http://arxiv.org/abs/2503.21704v1)|**2025-03-27**|null|
