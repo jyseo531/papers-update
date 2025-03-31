@@ -12,7 +12,7 @@
 |**2025-03-27**|**A Deep Reinforcement Learning-based Approach for Adaptive Handover Protocols**|Johannes Voigt et.al.|[2503.21601v1](http://arxiv.org/abs/2503.21601v1)|**2025-03-27**|null|
 |**2025-03-27**|**DATA-WA: Demand-based Adaptive Task Assignment with Dynamic Worker Availability Windows**|Jinwen Chen et.al.|[2503.21458v1](http://arxiv.org/abs/2503.21458v1)|**2025-03-27**|null|
 |**2025-03-27**|**On Learning-Based Traffic Monitoring With a Swarm of Drones**|Marko Maljkovic et.al.|[2503.21433v1](http://arxiv.org/abs/2503.21433v1)|**2025-03-27**|null|
-|**2025-03-27**|**AcL: Action Learner for Fault-Tolerant Quadruped Locomotion Control**|Tianyu Xu et.al.|[2503.21401v1](http://arxiv.org/abs/2503.21401v1)|**2025-03-27**|null|
+|**2025-03-27**|**AcL: Action Learner for Fault-Tolerant Quadruped Locomotion Control**|Tianyu Xu et.al.|[2503.21401v2](http://arxiv.org/abs/2503.21401v2)|**2025-03-28**|null|
 |**2025-03-27**|**Controlling Large Language Model with Latent Actions**|Chengxing Jia et.al.|[2503.21383v1](http://arxiv.org/abs/2503.21383v1)|**2025-03-27**|null|
 |**2025-03-27**|**Reinforced Model Merging**|Jiaqi Han et.al.|[2503.21272v1](http://arxiv.org/abs/2503.21272v1)|**2025-03-27**|[link](https://github.com/wudihjq/reinforced-model-merging)|
 |**2025-03-27**|**Robust Quantum Control using Reinforcement Learning from Demonstration**|Shengyong Li et.al.|[2503.21085v1](http://arxiv.org/abs/2503.21085v1)|**2025-03-27**|null|
@@ -23,7 +23,7 @@
 |**2025-03-26**|**Understanding R1-Zero-Like Training: A Critical Perspective**|Zichen Liu et.al.|[2503.20783v1](http://arxiv.org/abs/2503.20783v1)|**2025-03-26**|[link](https://github.com/sail-sg/understand-r1-zero)|
 |**2025-03-26**|**Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning**|Huajie Tan et.al.|[2503.20752v2](http://arxiv.org/abs/2503.20752v2)|**2025-03-27**|null|
 |**2025-03-26**|**Technical Note: Continuum Theory of Mixture for Three-phase Thermomechanical Model of Fiber-reinforced Aerogel Composites**|Pratyush Kumar Singh et.al.|[2503.20713v1](http://arxiv.org/abs/2503.20713v1)|**2025-03-26**|null|
-|**2025-03-26**|**MMMORRF: Multimodal Multilingual Modularized Reciprocal Rank Fusion**|Saron Samuel et.al.|[2503.20698v1](http://arxiv.org/abs/2503.20698v1)|**2025-03-26**|null|
+|**2025-03-26**|**MMMORRF: Multimodal Multilingual Modularized Reciprocal Rank Fusion**|Saron Samuel et.al.|[2503.20698v2](http://arxiv.org/abs/2503.20698v2)|**2025-03-27**|null|
 |**2025-03-26**|**Graph-Enhanced Model-Free Reinforcement Learning Agents for Efficient Power Grid Topological Control**|Eloy Anguiano Batanero et.al.|[2503.20688v1](http://arxiv.org/abs/2503.20688v1)|**2025-03-26**|null|
 |**2025-03-26**|**Flip Learning: Weakly Supervised Erase to Segment Nodules in Breast Ultrasound**|Yuhao Huang et.al.|[2503.20685v2](http://arxiv.org/abs/2503.20685v2)|**2025-03-27**|null|
 |**2025-03-26**|**Unlocking Efficient Long-to-Short LLM Reasoning with Model Merging**|Han Wu et.al.|[2503.20641v1](http://arxiv.org/abs/2503.20641v1)|**2025-03-26**|[link](https://github.com/hahahawu/long-to-short-via-model-merging)|

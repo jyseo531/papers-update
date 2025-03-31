@@ -21,7 +21,7 @@
 |**2025-03-27**|**3D MHD simulations of runaway pulsars in core collapse supernova remnants**|D. M. A. Meyer et.al.|[2503.21492v1](http://arxiv.org/abs/2503.21492v1)|**2025-03-27**|null|
 |**2025-03-27**|**Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving**|Lucas Nunes et.al.|[2503.21449v1](http://arxiv.org/abs/2503.21449v1)|**2025-03-27**|[link](https://github.com/prbonn/3diss)|
 |**2025-03-27**|**STAMICS: Splat, Track And Map with Integrated Consistency and Semantics for Dense RGB-D SLAM**|Yongxu Wang et.al.|[2503.21425v1](http://arxiv.org/abs/2503.21425v1)|**2025-03-27**|null|
-|**2025-03-27**|**LandMarkSystem Technical Report**|Zhenxiang Ma et.al.|[2503.21364v1](http://arxiv.org/abs/2503.21364v1)|**2025-03-27**|null|
+|**2025-03-27**|**LandMarkSystem Technical Report**|Zhenxiang Ma et.al.|[2503.21364v2](http://arxiv.org/abs/2503.21364v2)|**2025-03-28**|null|
 |**2025-03-27**|**Tailoring non-collinear magnetism and 3d $-$ 4f exchange interactions in RVO$_3$ epitaxial thin films**|O. Copie et.al.|[2503.21327v1](http://arxiv.org/abs/2503.21327v1)|**2025-03-27**|null|
 |**2025-03-27**|**Surface guided analysis of breast changes during post-operative radiotherapy by using a functional map framework**|Pierre Galmiche et.al.|[2503.21317v1](http://arxiv.org/abs/2503.21317v1)|**2025-03-27**|null|
 |**2025-03-27**|**HORT: Monocular Hand-held Objects Reconstruction with Transformers**|Zerui Chen et.al.|[2503.21313v1](http://arxiv.org/abs/2503.21313v1)|**2025-03-27**|null|

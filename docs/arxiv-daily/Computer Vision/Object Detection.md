@@ -26,9 +26,9 @@
 |**2025-03-27**|**How to Constrain the Stochastic Gravitational Wave Background with Multi-Frequency Detections**|Eleanor Gleave et.al.|[2503.21508v1](http://arxiv.org/abs/2503.21508v1)|**2025-03-27**|null|
 |**2025-03-27**|**Adaptive Resampling with Bootstrap for Noisy Multi-Objective Optimization Problems**|Timo Budszuhn et.al.|[2503.21495v1](http://arxiv.org/abs/2503.21495v1)|**2025-03-27**|null|
 |**2025-03-27**|**Data-Driven Contact-Aware Control Method for Real-Time Deformable Tool Manipulation: A Case Study in the Environmental Swabbing**|Siavash Mahmoudi et.al.|[2503.21491v1](http://arxiv.org/abs/2503.21491v1)|**2025-03-27**|null|
-|**2025-03-27**|**The Procedural Content Generation Benchmark: An Open-source Testbed for Generative Challenges in Games**|Ahmed Khalifa et.al.|[2503.21474v1](http://arxiv.org/abs/2503.21474v1)|**2025-03-27**|null|
+|**2025-03-27**|**The Procedural Content Generation Benchmark: An Open-source Testbed for Generative Challenges in Games**|Ahmed Khalifa et.al.|[2503.21474v2](http://arxiv.org/abs/2503.21474v2)|**2025-03-28**|[link](https://github.com/amidos2006/benchmark_experiments)|
 |**2025-03-27**|**Retinal Fundus Multi-Disease Image Classification using Hybrid CNN-Transformer-Ensemble Architectures**|Deependra Singh et.al.|[2503.21465v1](http://arxiv.org/abs/2503.21465v1)|**2025-03-27**|null|
 |**2025-03-27**|**ParaFlow: fast calorimeter simulations parameterized in upstream material configurations**|Johannes Erdmann et.al.|[2503.21461v1](http://arxiv.org/abs/2503.21461v1)|**2025-03-27**|null|
 |**2025-03-27**|**HORIZON: a Classification and Comparison Framework for Pricing-driven Feature Toggling**|Alejandro García-Fernández et.al.|[2503.21448v1](http://arxiv.org/abs/2503.21448v1)|**2025-03-27**|null|
 |**2025-03-27**|**STAMICS: Splat, Track And Map with Integrated Consistency and Semantics for Dense RGB-D SLAM**|Yongxu Wang et.al.|[2503.21425v1](http://arxiv.org/abs/2503.21425v1)|**2025-03-27**|null|
-|**2025-03-27**|**Improving the Detection of Gravitational-Wave Signals in Real Time**|Arthur Tolley et.al.|[2503.21417v1](http://arxiv.org/abs/2503.21417v1)|**2025-03-27**|null|
+|**2025-03-27**|**Improving the Detection of Gravitational-Wave Signals in Real Time**|Arthur Tolley et.al.|[2503.21417v2](http://arxiv.org/abs/2503.21417v2)|**2025-03-28**|null|

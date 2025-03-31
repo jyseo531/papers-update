@@ -21,7 +21,7 @@
 |**2025-03-27**|**FusionSegReID: Advancing Person Re-Identification with Multimodal Retrieval and Precise Segmentation**|Jincheng Yan et.al.|[2503.21595v1](http://arxiv.org/abs/2503.21595v1)|**2025-03-27**|null|
 |**2025-03-27**|**AlignDiff: Learning Physically-Grounded Camera Alignment via Diffusion**|Liuyue Xie et.al.|[2503.21581v1](http://arxiv.org/abs/2503.21581v1)|**2025-03-27**|null|
 |**2025-03-27**|**Bosonic quantum error correction with microwave cavities for quantum repeaters**|S. Siddardha Chelluri et.al.|[2503.21569v1](http://arxiv.org/abs/2503.21569v1)|**2025-03-27**|null|
-|**2025-03-27**|**LOCATEdit: Graph Laplacian Optimized Cross Attention for Localized Text-Guided Image Editing**|Achint Soni et.al.|[2503.21541v1](http://arxiv.org/abs/2503.21541v1)|**2025-03-27**|[link](https://github.com/locatedit/locatedit)|
+|**2025-03-27**|**LOCATEdit: Graph Laplacian Optimized Cross Attention for Localized Text-Guided Image Editing**|Achint Soni et.al.|[2503.21541v2](http://arxiv.org/abs/2503.21541v2)|**2025-03-28**|[link](https://github.com/locatedit/locatedit)|
 |**2025-03-27**|**MONO2REST: Identifying and Exposing Microservices: a Reusable RESTification Approach**|Matthéo Lecrivain et.al.|[2503.21522v1](http://arxiv.org/abs/2503.21522v1)|**2025-03-27**|null|
 |**2025-03-27**|**OCEP: An Ontology-Based Complex Event Processing Framework for Healthcare Decision Support in Big Data Analytics**|Ritesh Chandra et.al.|[2503.21453v1](http://arxiv.org/abs/2503.21453v1)|**2025-03-27**|null|
 |**2025-03-27**|**Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving**|Lucas Nunes et.al.|[2503.21449v1](http://arxiv.org/abs/2503.21449v1)|**2025-03-27**|[link](https://github.com/prbonn/3diss)|

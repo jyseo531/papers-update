@@ -13,7 +13,7 @@
 |**2025-03-27**|**Leveraging Language Models for Analyzing Longitudinal Experiential Data in Education**|Ahatsham Hayat et.al.|[2503.21617v1](http://arxiv.org/abs/2503.21617v1)|**2025-03-27**|null|
 |**2025-03-27**|**FusionSegReID: Advancing Person Re-Identification with Multimodal Retrieval and Precise Segmentation**|Jincheng Yan et.al.|[2503.21595v1](http://arxiv.org/abs/2503.21595v1)|**2025-03-27**|null|
 |**2025-03-27**|**Keyword-Oriented Multimodal Modeling for Euphemism Identification**|Yuxue Hu et.al.|[2503.21504v1](http://arxiv.org/abs/2503.21504v1)|**2025-03-27**|[link](https://github.com/DHZ68/KOM-EI)|
-|**2025-03-27**|**OmniVox: Zero-Shot Emotion Recognition with Omni-LLMs**|John Murzaku et.al.|[2503.21480v1](http://arxiv.org/abs/2503.21480v1)|**2025-03-27**|null|
+|**2025-03-27**|**OmniVox: Zero-Shot Emotion Recognition with Omni-LLMs**|John Murzaku et.al.|[2503.21480v2](http://arxiv.org/abs/2503.21480v2)|**2025-03-28**|null|
 |**2025-03-27**|**CMADiff: Cross-Modal Aligned Diffusion for Controllable Protein Generation**|Changjian Zhou et.al.|[2503.21450v1](http://arxiv.org/abs/2503.21450v1)|**2025-03-27**|null|
 |**2025-03-27**|**Graph-to-Vision: Multi-graph Understanding and Reasoning using Vision-Language Models**|Ruizhou Li et.al.|[2503.21435v1](http://arxiv.org/abs/2503.21435v1)|**2025-03-27**|null|
 |**2025-03-27**|**Multimodal surface defect detection from wooden logs for sawing optimization**|Bořek Reich et.al.|[2503.21367v1](http://arxiv.org/abs/2503.21367v1)|**2025-03-27**|null|

@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-03-30
+Updated on 2025-03-31
 
 > Generated from the Hugging Face database.
 
@@ -267,6 +267,7 @@ Updated on 2025-03-30
 | 20 | 4 | espnet/owls_4B_180KAutomatic | Updated4 days ago | [Link](https://huggingface.co/espnet/owls_4B_180K) |
 | 674 | 4 | CAYTU/whosper-large-v2Automatic | Updated3 days ago | [Link](https://huggingface.co/CAYTU/whosper-large-v2) |
 | 155 | 4 | Na0s/Medical-Whisper-Large-v3Automatic | UpdatedOct 6, 2024 | [Link](https://huggingface.co/Na0s/Medical-Whisper-Large-v3) |
+| 207 | 4 | junnei/gemma-3-4b-it-speechAutomatic | Updatedabout 10 hours ago | [Link](https://huggingface.co/junnei/gemma-3-4b-it-speech) |
 | 382 | 3 | suzii/vi-whisper-large-v3-turbo-v1Automatic | UpdatedJan 15 | [Link](https://huggingface.co/suzii/vi-whisper-large-v3-turbo-v1) |
 | 75 | 3 | erenfazlioglu/whisper-small-turkish-tr-bestAutomatic | UpdatedOct 4, 2023 | [Link](https://huggingface.co/erenfazlioglu/whisper-small-turkish-tr-best) |
 | 851 | 3 | ivrit-ai/whisper-large-v3-turboAutomatic | Updated8 days ago | [Link](https://huggingface.co/ivrit-ai/whisper-large-v3-turbo) |
@@ -778,6 +779,7 @@ Updated on 2025-03-30
 | 2 | Unknown | nvidia/MambaVision-L2-512-21KImage | Updatedabout 5 hours ago | [Link](https://huggingface.co/nvidia/MambaVision-L2-512-21K) |
 | 2 | Unknown | nvidia/MambaVision-L3-512-21KImage | Updatedabout 5 hours ago | [Link](https://huggingface.co/nvidia/MambaVision-L3-512-21K) |
 | 2 | Unknown | nvidia/MambaVision-L3-256-21KImage | Updatedabout 5 hours ago | [Link](https://huggingface.co/nvidia/MambaVision-L3-256-21K) |
+| 4 | Unknown | msj9817/GenHancerImage | Updatedabout 6 hours ago | [Link](https://huggingface.co/msj9817/GenHancer) |
 
 ## Image Segmentation
 
@@ -1139,6 +1141,7 @@ Updated on 2025-03-30
 | 2 | 11 | Yhmeng1106/anidocImage-to-Video | UpdatedDec 21, 2024 | [Link](https://huggingface.co/Yhmeng1106/anidoc) |
 | 7 | 11 | stepfun-ai/stepvideo-ti2vImage-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/stepfun-ai/stepvideo-ti2v) |
 | 635 | 10 | calcuis/cosmosImage-to-Video | Updated29 days ago | [Link](https://huggingface.co/calcuis/cosmos) |
+| 10.7k | 6 | kiwhansong/DFoTImage-to-Video | UpdatedFeb 11 | [Link](https://huggingface.co/kiwhansong/DFoT) |
 | 16 | 5 | chenguolin/sv3d-diffusersImage-to-Video | UpdatedOct 16, 2024 | [Link](https://huggingface.co/chenguolin/sv3d-diffusers) |
 | 1 | 5 | DropletX/DropletVideo-5BImage-to-Video | Updated6 days ago | [Link](https://huggingface.co/DropletX/DropletVideo-5B) |
 | 792 | 3 | city96/HunyuanVideo-I2V-ggufImage-to-Video | Updatedabout 15 hours ago | [Link](https://huggingface.co/city96/HunyuanVideo-I2V-gguf) |
@@ -1595,6 +1598,7 @@ Updated on 2025-03-30
 | 79 | 12 | SEBIS/code_trans_t5_base_code_documentation_generation_pythonSummarization | UpdatedJun 23, 2021 | [Link](https://huggingface.co/SEBIS/code_trans_t5_base_code_documentation_generation_python) |
 | 856 | 11 | T-Systems-onsite/mt5-small-sum-de-en-v2Summarization | UpdatedApr 7, 2024 | [Link](https://huggingface.co/T-Systems-onsite/mt5-small-sum-de-en-v2) |
 | 1.06k | 10 | patrickvonplaten/bert2bert_cnn_daily_mailSummarization | UpdatedJun 25, 2022 | [Link](https://huggingface.co/patrickvonplaten/bert2bert_cnn_daily_mail) |
+| 911 | 10 | ml6team/mt5-small-german-finetune-mlsumSummarization | UpdatedJan 28, 2021 | [Link](https://huggingface.co/ml6team/mt5-small-german-finetune-mlsum) |
 | 1.88k | 9 | deutsche-telekom/mt5-small-sum-de-mit-v1Summarization | UpdatedMay 18, 2023 | [Link](https://huggingface.co/deutsche-telekom/mt5-small-sum-de-mit-v1) |
 | 64 | 5 | HooshvareLab/pn-summary-b2b-sharedSummarization | UpdatedJun 8, 2021 | [Link](https://huggingface.co/HooshvareLab/pn-summary-b2b-shared) |
 | 637 | 3 | HooshvareLab/pn-summary-mt5-baseSummarization | UpdatedMay 5, 2021 | [Link](https://huggingface.co/HooshvareLab/pn-summary-mt5-base) |
@@ -1859,6 +1863,7 @@ Updated on 2025-03-30
 | 1.02M |  | mixedbread-ai/mxbai-rerank-base-v1Text | Updated14 days ago | [Link](https://huggingface.co/mixedbread-ai/mxbai-rerank-base-v1) |
 | 4.7k |  | MilaNLProc/xlm-emo-tText | UpdatedMar 27, 2023 | [Link](https://huggingface.co/MilaNLProc/xlm-emo-t) |
 | 868 |  | yuchuantian/AIGC_detector_zhv2Text | UpdatedDec 28, 2023 | [Link](https://huggingface.co/yuchuantian/AIGC_detector_zhv2) |
+| 8.45k |  | arpanghoshal/EmoRoBERTaText | UpdatedSep 11, 2024 | [Link](https://huggingface.co/arpanghoshal/EmoRoBERTa) |
 
 ## Text Generation
 
@@ -1931,6 +1936,7 @@ Updated on 2025-03-30
 | 26.8k | 23 | lmstudio-community/QwQ-32B-GGUFText | Updated1 day ago | [Link](https://huggingface.co/lmstudio-community/QwQ-32B-GGUF) |
 | 1.47k | 23 | NousResearch/DeepHermes-3-Llama-3-3B-PreviewText | Updated4 days ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-3B-Preview) |
 | 34 | 21 | ai21labs/AI21-Jamba-Mini-1 | Updatedabout 13 hours ago | [Link](https://huggingface.co/ai21labs/AI21-Jamba-Mini-1.6) |
+| 335 | 20 | google/txgemma-27b-chatText | Updated2 days ago | [Link](https://huggingface.co/google/txgemma-27b-chat) |
 | 14.1k | 19 | alamios/Mistral-Small-3 | Updated10 days ago | [Link](https://huggingface.co/alamios/Mistral-Small-3.1-DRAFT-0.5B) |
 | 578k | 6.11k | meta-llama/Meta-Llama-3-8BText | UpdatedSep 27, 2024 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
@@ -2182,6 +2188,8 @@ Updated on 2025-03-30
 | 12 |  | openfree/morgensternText-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/openfree/morgenstern) |
 | 85 |  | codermert/baharrr_fluxxxText-to-Image | Updated25 days ago | [Link](https://huggingface.co/codermert/baharrr_fluxxx) |
 | 20 | Unknown | Shakker-Labs/AWPortraitCN2Text-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/Shakker-Labs/AWPortraitCN2) |
+| 1.37k |  | strangerzonehf/Flux-Ghibli-Art-LoRAText-to-Image | UpdatedDec 6, 2024 | [Link](https://huggingface.co/strangerzonehf/Flux-Ghibli-Art-LoRA) |
+| 682 |  | KappaNeuro/studio-ghibli-styleText-to-Image | UpdatedSep 14, 2023 | [Link](https://huggingface.co/KappaNeuro/studio-ghibli-style) |
 
 ## Text-to-Speech
 

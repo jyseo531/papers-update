@@ -12,7 +12,7 @@
 |**2025-03-27**|**Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving**|Lucas Nunes et.al.|[2503.21449v1](http://arxiv.org/abs/2503.21449v1)|**2025-03-27**|[link](https://github.com/prbonn/3diss)|
 |**2025-03-27**|**STAMICS: Splat, Track And Map with Integrated Consistency and Semantics for Dense RGB-D SLAM**|Yongxu Wang et.al.|[2503.21425v1](http://arxiv.org/abs/2503.21425v1)|**2025-03-27**|null|
 |**2025-03-27**|**Neuro-Symbolic Imitation Learning: Discovering Symbolic Abstractions for Skill Learning**|Leon Keller et.al.|[2503.21406v1](http://arxiv.org/abs/2503.21406v1)|**2025-03-27**|null|
-|**2025-03-27**|**AcL: Action Learner for Fault-Tolerant Quadruped Locomotion Control**|Tianyu Xu et.al.|[2503.21401v1](http://arxiv.org/abs/2503.21401v1)|**2025-03-27**|null|
+|**2025-03-27**|**AcL: Action Learner for Fault-Tolerant Quadruped Locomotion Control**|Tianyu Xu et.al.|[2503.21401v2](http://arxiv.org/abs/2503.21401v2)|**2025-03-28**|null|
 |**2025-03-27**|**Forces and symmetry breaking of a living meso-swimmer**|Rafael A. Lara et.al.|[2503.21396v1](http://arxiv.org/abs/2503.21396v1)|**2025-03-27**|null|
 |**2025-03-27**|**A Data-Driven Method for INS/DVL Alignment**|Guy Damari et.al.|[2503.21350v1](http://arxiv.org/abs/2503.21350v1)|**2025-03-27**|null|
 |**2025-03-27**|**UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation**|Yehui Shen et.al.|[2503.21338v1](http://arxiv.org/abs/2503.21338v1)|**2025-03-27**|null|
