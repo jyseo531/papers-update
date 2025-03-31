@@ -1468,6 +1468,7 @@ Updated on 2025-03-31
 | 65 | 2 | CogACT/CogACT-LargeRobotics | UpdatedDec 4, 2024 | [Link](https://huggingface.co/CogACT/CogACT-Large) |
 | 15 | 2 | mbreuss/MoDE_CALVIN_ABCDRobotics | UpdatedDec 19, 2024 | [Link](https://huggingface.co/mbreuss/MoDE_CALVIN_ABCD) |
 | 102 | 2 | CogACT/CogACT-SmallRobotics | UpdatedDec 4, 2024 | [Link](https://huggingface.co/CogACT/CogACT-Small) |
+| 41 | 2 | Menlo/AlphaSpace-1 | Updated1 day ago | [Link](https://huggingface.co/Menlo/AlphaSpace-1.5B) |
 | 12 | 1 | mbreuss/MoDE_CALVIN_ABC_3Robotics | UpdatedDec 19, 2024 | [Link](https://huggingface.co/mbreuss/MoDE_CALVIN_ABC_3) |
 | 8 | 1 | mbreuss/MoDE_CALVIN_ABC_1Robotics | UpdatedDec 19, 2024 | [Link](https://huggingface.co/mbreuss/MoDE_CALVIN_ABC_1) |
 | 2 | 1 | shadyy/ARIA-7b-v0 | UpdatedDec 5, 2023 | [Link](https://huggingface.co/shadyy/ARIA-7b-v0.1) |
