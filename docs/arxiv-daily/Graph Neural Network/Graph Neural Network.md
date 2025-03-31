@@ -2,33 +2,33 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-27**|**HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM**|Ziren Gong et.al.|[2503.21778v1](http://arxiv.org/abs/2503.21778v1)|**2025-03-27**|null|
-|**2025-03-27**|**Emergent Non-Markovian Gain in Open Quantum Systems**|H. Z. Shen et.al.|[2503.21739v1](http://arxiv.org/abs/2503.21739v1)|**2025-03-27**|null|
-|**2025-03-27**|**High-intensity Voronoi percolation on manifolds**|Tillmann Bühler et.al.|[2503.21737v1](http://arxiv.org/abs/2503.21737v1)|**2025-03-27**|null|
-|**2025-03-27**|**Fully dynamic biconnectivity in $\tilde{\mathcal{O}}(\log^2 n)$ time**|Jacob Holm et.al.|[2503.21733v1](http://arxiv.org/abs/2503.21733v1)|**2025-03-27**|null|
-|**2025-03-27**|**Enhancing Underwater Navigation through Cross-Correlation-Aware Deep INS/DVL Fusion**|Nadav Cohen et.al.|[2503.21727v1](http://arxiv.org/abs/2503.21727v1)|**2025-03-27**|null|
-|**2025-03-27**|**OccRobNet : Occlusion Robust Network for Accurate 3D Interacting Hand-Object Pose Estimation**|Mallika Garg et.al.|[2503.21723v1](http://arxiv.org/abs/2503.21723v1)|**2025-03-27**|null|
-|**2025-03-27**|**Energy Minimization for Participatory Federated Learning in IoT Analyzed via Game Theory**|Alessandro Buratto et.al.|[2503.21722v1](http://arxiv.org/abs/2503.21722v1)|**2025-03-27**|null|
-|**2025-03-27**|**Enhancing Repository-Level Software Repair via Repository-Aware Knowledge Graphs**|Boyang Yang et.al.|[2503.21710v1](http://arxiv.org/abs/2503.21710v1)|**2025-03-27**|null|
-|**2025-03-27**|**Redefining Network Topology in Complex Systems: Merging Centrality Metrics, Spectral Theory, and Diffusion Dynamics**|Arsh Jha et.al.|[2503.21709v1](http://arxiv.org/abs/2503.21709v1)|**2025-03-27**|null|
-|**2025-03-27**|**Machine Learning Assisted Modeling of Amorphous TiO$_2$-Doped GeO$_2$ for Advanced LIGO Mirror Coatings**|Jun Jiang et.al.|[2503.21701v1](http://arxiv.org/abs/2503.21701v1)|**2025-03-27**|null|
-|**2025-03-27**|**Place Capability Graphs: A General-Purpose Model of Rust's Ownership and Borrowing Guarantees**|Zachary Grannan et.al.|[2503.21691v1](http://arxiv.org/abs/2503.21691v1)|**2025-03-27**|null|
-|**2025-03-27**|**Solvability of N-level Systems under the Rotating Wave Approximation (RWA) and Dipole Selection Rules**|Phoenix M. M. Paing et.al.|[2503.21689v1](http://arxiv.org/abs/2503.21689v1)|**2025-03-27**|null|
-|**2025-03-27**|**A Comprehensive Benchmark for RNA 3D Structure-Function Modeling**|Luis Wyss et.al.|[2503.21681v1](http://arxiv.org/abs/2503.21681v1)|**2025-03-27**|[link](https://github.com/cgoliver/rnaglib)|
-|**2025-03-27**|**A tale of two goals: leveraging sequentiality in multi-goal scenarios**|Olivier Serris et.al.|[2503.21677v1](http://arxiv.org/abs/2503.21677v1)|**2025-03-27**|null|
-|**2025-03-27**|**How do language models learn facts? Dynamics, curricula and hallucinations**|Nicolas Zucchet et.al.|[2503.21676v1](http://arxiv.org/abs/2503.21676v1)|**2025-03-27**|null|
-|**2025-03-27**|**Intelligent IoT Attack Detection Design via ODLLM with Feature Ranking-based Knowledge Base**|Satvik Verma et.al.|[2503.21674v1](http://arxiv.org/abs/2503.21674v1)|**2025-03-27**|[link](https://github.com/claudwq/Intelligent-IoT-Attack-Detection-Design-via-LLM-with-Feature-Ranking-Based-Knowledge-Base-Design)|
-|**2025-03-27**|**Model Assembly Learning with Heterogeneous Layer Weight Merging**|Yi-Kai Zhang et.al.|[2503.21657v1](http://arxiv.org/abs/2503.21657v1)|**2025-03-27**|null|
-|**2025-03-27**|**Output-sensitive approximate counting via a measure-bounded hyperedge oracle, or: How asymmetry helps estimate $k$-clique counts faster**|Keren Censor-Hillel et.al.|[2503.21655v1](http://arxiv.org/abs/2503.21655v1)|**2025-03-27**|null|
-|**2025-03-27**|**Data-Driven Extreme Response Estimation**|Samuel J. Edwards et.al.|[2503.21638v1](http://arxiv.org/abs/2503.21638v1)|**2025-03-27**|null|
-|**2025-03-27**|**KRAFT -- A Knowledge-Graph-Based Resource Allocation Framework**|Leon Bein et.al.|[2503.21636v1](http://arxiv.org/abs/2503.21636v1)|**2025-03-27**|null|
-|**2025-03-27**|**Static and Repeated Cooperative Games for the Optimization of the AoI in IoT Networks**|David Emanuele Corrado Raphael Catania et.al.|[2503.21633v1](http://arxiv.org/abs/2503.21633v1)|**2025-03-27**|null|
-|**2025-03-27**|**Intrinsic Limitation of Conductivity in Depolymerized Sodium-ion Glassy Networks**|Léo Legrand et.al.|[2503.21624v1](http://arxiv.org/abs/2503.21624v1)|**2025-03-27**|null|
-|**2025-03-27**|**RIS-Measurements for Codebook Design**|Paweł Hatka et.al.|[2503.21623v1](http://arxiv.org/abs/2503.21623v1)|**2025-03-27**|null|
-|**2025-03-27**|**Nonlinear Multiple Response Regression and Learning of Latent Spaces**|Ye Tian et.al.|[2503.21608v1](http://arxiv.org/abs/2503.21608v1)|**2025-03-27**|null|
-|**2025-03-27**|**Renormalization group analysis of noisy neural field**|Jie Zang et.al.|[2503.21605v1](http://arxiv.org/abs/2503.21605v1)|**2025-03-27**|null|
-|**2025-03-27**|**All-Optical High-speed Programmable Nonlinear Activation Functions using a Fabry-Perot Laser**|Mladen Banović et.al.|[2503.21603v1](http://arxiv.org/abs/2503.21603v1)|**2025-03-27**|null|
-|**2025-03-27**|**A Deep Reinforcement Learning-based Approach for Adaptive Handover Protocols**|Johannes Voigt et.al.|[2503.21601v1](http://arxiv.org/abs/2503.21601v1)|**2025-03-27**|null|
-|**2025-03-27**|**Leveraging Line-of-Sight Propagation for Near-Field Beamfocusing in Cell-Free Networks**|Georgios Mylonopoulos et.al.|[2503.21599v1](http://arxiv.org/abs/2503.21599v1)|**2025-03-27**|null|
-|**2025-03-27**|**Critical Iterative Denoising: A Discrete Generative Model Applied to Graphs**|Yoann Boget et.al.|[2503.21592v1](http://arxiv.org/abs/2503.21592v1)|**2025-03-27**|null|
-|**2025-03-27**|**Generalizable Implicit Neural Representations via Parameterized Latent Dynamics for Baroclinic Ocean Forecasting**|Guang Zhao et.al.|[2503.21588v1](http://arxiv.org/abs/2503.21588v1)|**2025-03-27**|null|
+|**2025-03-28**|**Light Tree Covers, Routing, and Path-Reporting Oracles via Spanning Tree Covers in Doubling Graphs**|Hsien-Chih Chang et.al.|[2503.22669v1](http://arxiv.org/abs/2503.22669v1)|**2025-03-28**|null|
+|**2025-03-28**|**NetSSM: Multi-Flow and State-Aware Network Trace Generation using State-Space Models**|Andrew Chu et.al.|[2503.22663v1](http://arxiv.org/abs/2503.22663v1)|**2025-03-28**|null|
+|**2025-03-28**|**Verifying Nonlinear Neural Feedback Systems using Polyhedral Enclosures**|Samuel I. Akinwande et.al.|[2503.22660v1](http://arxiv.org/abs/2503.22660v1)|**2025-03-28**|null|
+|**2025-03-28**|**Evaluation of Machine-generated Biomedical Images via A Tally-based Similarity Measure**|Frank J. Brooks et.al.|[2503.22658v1](http://arxiv.org/abs/2503.22658v1)|**2025-03-28**|null|
+|**2025-03-28**|**dolphin: A fully automated forward modeling pipeline powered by artificial intelligence for galaxy-scale strong lenses**|Anowar J. Shajib et.al.|[2503.22657v1](http://arxiv.org/abs/2503.22657v1)|**2025-03-28**|[link](https://github.com/ajshajib/dolphin)|
+|**2025-03-28**|**Tropical Bisectors and Carlini-Wagner Attacks**|Gillian Grindstaff et.al.|[2503.22653v1](http://arxiv.org/abs/2503.22653v1)|**2025-03-28**|null|
+|**2025-03-28**|**Hiding Latencies in Network-Based Image Loading for Deep Learning**|Francesco Versaci et.al.|[2503.22643v1](http://arxiv.org/abs/2503.22643v1)|**2025-03-28**|null|
+|**2025-03-28**|**The moment polytope of matrix multiplication is not maximal**|Maxim van den Berg et.al.|[2503.22633v1](http://arxiv.org/abs/2503.22633v1)|**2025-03-28**|null|
+|**2025-03-28**|**A Unified Approach for Estimating Various Treatment Effects in Causal Inference**|Kuan-Hsun Wu et.al.|[2503.22616v1](http://arxiv.org/abs/2503.22616v1)|**2025-03-28**|null|
+|**2025-03-28**|**Randomized $\tilde{O}(m\sqrt{n})$ Bellman-Ford from Fineman and the Boilermakers**|Satish Rao et.al.|[2503.22613v1](http://arxiv.org/abs/2503.22613v1)|**2025-03-28**|null|
+|**2025-03-28**|**Audio-Plane: Audio Factorization Plane Gaussian Splatting for Real-Time Talking Head Synthesis**|Shuai Shen et.al.|[2503.22605v1](http://arxiv.org/abs/2503.22605v1)|**2025-03-28**|null|
+|**2025-03-28**|**Enhanced Variational Quantum Kolmogorov-Arnold Network**|Hikaru Wakaura et.al.|[2503.22604v1](http://arxiv.org/abs/2503.22604v1)|**2025-03-28**|null|
+|**2025-03-28**|**Neural Identification of Feedback-Stabilized Nonlinear Systems**|Mahrokh G. Boroujeni et.al.|[2503.22601v1](http://arxiv.org/abs/2503.22601v1)|**2025-03-28**|null|
+|**2025-03-28**|**Generative Latent Neural PDE Solver using Flow Matching**|Zijie Li et.al.|[2503.22600v1](http://arxiv.org/abs/2503.22600v1)|**2025-03-28**|null|
+|**2025-03-28**|**Do Researchers Benefit Career-wise from Involvement in International Policy Guideline Development?**|Yuta Tomokiyo et.al.|[2503.22584v1](http://arxiv.org/abs/2503.22584v1)|**2025-03-28**|null|
+|**2025-03-28**|**Beyond Vanilla Fine-Tuning: Leveraging Multistage, Multilingual, and Domain-Specific Methods for Low-Resource Machine Translation**|Sarubi Thillainathan et.al.|[2503.22582v1](http://arxiv.org/abs/2503.22582v1)|**2025-03-28**|null|
+|**2025-03-28**|**On the Mistaken Assumption of Interchangeable Deep Reinforcement Learning Implementations**|Rajdeep Singh Hundal et.al.|[2503.22575v1](http://arxiv.org/abs/2503.22575v1)|**2025-03-28**|null|
+|**2025-03-28**|**Variational quantum-neural hybrid imaginary time evolution**|Hiroki Kuji et.al.|[2503.22570v1](http://arxiv.org/abs/2503.22570v1)|**2025-03-28**|null|
+|**2025-03-28**|**Comparing Methods for Bias Mitigation in Graph Neural Networks**|Barbara Hoffmann et.al.|[2503.22569v1](http://arxiv.org/abs/2503.22569v1)|**2025-03-28**|null|
+|**2025-03-28**|**Benchmarking Ultra-Low-Power $μ$NPUs**|Josh Millar et.al.|[2503.22567v1](http://arxiv.org/abs/2503.22567v1)|**2025-03-28**|null|
+|**2025-03-28**|**RELD: Regularization by Latent Diffusion Models for Image Restoration**|Pasquale Cascarano et.al.|[2503.22563v1](http://arxiv.org/abs/2503.22563v1)|**2025-03-28**|null|
+|**2025-03-28**|**Road-Width-Aware Network Optimisation for Bike Lane Planning**|Riccardo Basilone et.al.|[2503.22550v1](http://arxiv.org/abs/2503.22550v1)|**2025-03-28**|null|
+|**2025-03-28**|**SafeCast: Risk-Responsive Motion Forecasting for Autonomous Vehicles**|Haicheng Liao et.al.|[2503.22541v1](http://arxiv.org/abs/2503.22541v1)|**2025-03-28**|null|
+|**2025-03-28**|**Scaling limit for the random walk on critical lattice trees**|Gérard Ben Arous et.al.|[2503.22538v1](http://arxiv.org/abs/2503.22538v1)|**2025-03-28**|null|
+|**2025-03-28**|**Two-phase pore-network model for evaporation-driven salt precipitation -- representation and analysis of pore-scale processes**|Theresa Schollenberger et.al.|[2503.22533v1](http://arxiv.org/abs/2503.22533v1)|**2025-03-28**|null|
+|**2025-03-28**|**Deterministic Medical Image Translation via High-fidelity Brownian Bridges**|Qisheng He et.al.|[2503.22531v1](http://arxiv.org/abs/2503.22531v1)|**2025-03-28**|null|
+|**2025-03-28**|**MixFunn: A Neural Network for Differential Equations with Improved Generalization and Interpretability**|Tiago de Souza Farias et.al.|[2503.22528v1](http://arxiv.org/abs/2503.22528v1)|**2025-03-28**|null|
+|**2025-03-28**|**Multi-stage model predictive control for slug flow crystallizers using uncertainty-aware surrogate models**|Collin R. Johnson et.al.|[2503.22520v1](http://arxiv.org/abs/2503.22520v1)|**2025-03-28**|null|
+|**2025-03-28**|**A limit theorem for the total progeny distribution of multi-type branching processes**|Jochem Hoogendijk et.al.|[2503.22518v1](http://arxiv.org/abs/2503.22518v1)|**2025-03-28**|null|
+|**2025-03-28**|**Improving Low-Resource Retrieval Effectiveness using Zero-Shot Linguistic Similarity Transfer**|Andreas Chari et.al.|[2503.22508v1](http://arxiv.org/abs/2503.22508v1)|**2025-03-28**|null|

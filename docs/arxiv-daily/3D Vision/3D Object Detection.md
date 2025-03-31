@@ -2,33 +2,33 @@
 ### 3D Object Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-27**|**Simulating quantum circuits with restricted quantum computers**|Christophe Piveteau et.al.|[2503.21773v1](http://arxiv.org/abs/2503.21773v1)|**2025-03-27**|null|
-|**2025-03-27**|**Visual Jenga: Discovering Object Dependencies via Counterfactual Inpainting**|Anand Bhattad et.al.|[2503.21770v1](http://arxiv.org/abs/2503.21770v1)|**2025-03-27**|null|
-|**2025-03-27**|**Semantic Consistent Language Gaussian Splatting for Point-Level Open-vocabulary Querying**|Hairong Yin et.al.|[2503.21767v1](http://arxiv.org/abs/2503.21767v1)|**2025-03-27**|null|
-|**2025-03-27**|**Stable-SCore: A Stable Registration-based Framework for 3D Shape Correspondence**|Haolin Liu et.al.|[2503.21766v1](http://arxiv.org/abs/2503.21766v1)|**2025-03-27**|null|
-|**2025-03-27**|**Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video**|David Yifan Yao et.al.|[2503.21761v1](http://arxiv.org/abs/2503.21761v1)|**2025-03-27**|null|
-|**2025-03-27**|**Fwd2Bot: LVLM Visual Token Compression with Double Forward Bottleneck**|Adrian Bulat et.al.|[2503.21757v1](http://arxiv.org/abs/2503.21757v1)|**2025-03-27**|null|
-|**2025-03-27**|**VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness**|Dian Zheng et.al.|[2503.21755v1](http://arxiv.org/abs/2503.21755v1)|**2025-03-27**|[link](https://github.com/vchitect/vbench)|
-|**2025-03-27**|**Quantum enhanced parameter estimation with monitored quantum nonequilibrium systems using inefficient photo detection**|Albert Cabot et.al.|[2503.21753v1](http://arxiv.org/abs/2503.21753v1)|**2025-03-27**|null|
-|**2025-03-27**|**Reconstructing Humans with a Biomechanically Accurate Skeleton**|Yan Xia et.al.|[2503.21751v1](http://arxiv.org/abs/2503.21751v1)|**2025-03-27**|null|
-|**2025-03-27**|**CTRL-O: Language-Controllable Object-Centric Visual Representation Learning**|Aniket Didolkar et.al.|[2503.21747v1](http://arxiv.org/abs/2503.21747v1)|**2025-03-27**|null|
-|**2025-03-27**|**3DGen-Bench: Comprehensive Benchmark Suite for 3D Generative Models**|Yuhan Zhang et.al.|[2503.21745v1](http://arxiv.org/abs/2503.21745v1)|**2025-03-27**|null|
-|**2025-03-27**|**Expectation for the MeV Gamma-Ray Emission from Pair-Instability Supernovae**|Ryo Sawada et.al.|[2503.21744v1](http://arxiv.org/abs/2503.21744v1)|**2025-03-27**|null|
-|**2025-03-27**|**Three-Dimensional Stacking as a Line Intensity Mapping Statistic**|D. A. Dunne et.al.|[2503.21743v1](http://arxiv.org/abs/2503.21743v1)|**2025-03-27**|null|
-|**2025-03-27**|**Transitioning to Memory Burden: Detectable Small Primordial Black Holes as Dark Matter**|Gia Dvali et.al.|[2503.21740v1](http://arxiv.org/abs/2503.21740v1)|**2025-03-27**|null|
-|**2025-03-27**|**SparseFlex: High-Resolution and Arbitrary-Topology 3D Shape Modeling**|Xianglong He et.al.|[2503.21732v1](http://arxiv.org/abs/2503.21732v1)|**2025-03-27**|null|
-|**2025-03-27**|**Near field imaging of local interference in radio interferometric data: Impact on the redshifted 21-cm power spectrum**|S. Munshi et.al.|[2503.21728v1](http://arxiv.org/abs/2503.21728v1)|**2025-03-27**|null|
-|**2025-03-27**|**OccRobNet : Occlusion Robust Network for Accurate 3D Interacting Hand-Object Pose Estimation**|Mallika Garg et.al.|[2503.21723v1](http://arxiv.org/abs/2503.21723v1)|**2025-03-27**|null|
-|**2025-03-27**|**Energy Minimization for Participatory Federated Learning in IoT Analyzed via Game Theory**|Alessandro Buratto et.al.|[2503.21722v1](http://arxiv.org/abs/2503.21722v1)|**2025-03-27**|null|
-|**2025-03-27**|**CLAIMCHECK: How Grounded are LLM Critiques of Scientific Papers?**|Jiefu Ou et.al.|[2503.21717v1](http://arxiv.org/abs/2503.21717v1)|**2025-03-27**|null|
-|**2025-03-27**|**Dynamics of Star Cluster Formation: The Effects of Ongoing Star Formation and Stellar Feedback**|Jeremy Karam et.al.|[2503.21716v1](http://arxiv.org/abs/2503.21716v1)|**2025-03-27**|null|
-|**2025-03-27**|**Flashlights: Prospects for constraining the Initial Mass Function around cosmic noon with caustic-crossing events**|Ashish Kumar Meena et.al.|[2503.21706v1](http://arxiv.org/abs/2503.21706v1)|**2025-03-27**|null|
-|**2025-03-27**|**Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data**|Zhiyuan Ma et.al.|[2503.21694v1](http://arxiv.org/abs/2503.21694v1)|**2025-03-27**|[link](https://github.com/theericma/triplaneturbo)|
-|**2025-03-27**|**CMED: A Child Micro-Expression Dataset**|Nikin~Matharaarachchi et.al.|[2503.21690v1](http://arxiv.org/abs/2503.21690v1)|**2025-03-27**|null|
-|**2025-03-27**|**A Comprehensive Benchmark for RNA 3D Structure-Function Modeling**|Luis Wyss et.al.|[2503.21681v1](http://arxiv.org/abs/2503.21681v1)|**2025-03-27**|[link](https://github.com/cgoliver/rnaglib)|
-|**2025-03-27**|**JiraiBench: A Bilingual Benchmark for Evaluating Large Language Models' Detection of Human Self-Destructive Behavior Content in Jirai Community**|Yunze Xiao et.al.|[2503.21679v1](http://arxiv.org/abs/2503.21679v1)|**2025-03-27**|null|
-|**2025-03-27**|**A tale of two goals: leveraging sequentiality in multi-goal scenarios**|Olivier Serris et.al.|[2503.21677v1](http://arxiv.org/abs/2503.21677v1)|**2025-03-27**|null|
-|**2025-03-27**|**Intelligent IoT Attack Detection Design via ODLLM with Feature Ranking-based Knowledge Base**|Satvik Verma et.al.|[2503.21674v1](http://arxiv.org/abs/2503.21674v1)|**2025-03-27**|[link](https://github.com/claudwq/Intelligent-IoT-Attack-Detection-Design-via-LLM-with-Feature-Ranking-Based-Knowledge-Base-Design)|
-|**2025-03-27**|**Cognitive Science-Inspired Evaluation of Core Capabilities for Object Understanding in AI**|Danaja Rutar et.al.|[2503.21668v1](http://arxiv.org/abs/2503.21668v1)|**2025-03-27**|null|
-|**2025-03-27**|**Electronic structure dimensionality of the quantum-critical ferromagnet YbNi$_4$P$_2$**|J. Dai et.al.|[2503.21662v1](http://arxiv.org/abs/2503.21662v1)|**2025-03-27**|null|
-|**2025-03-27**|**Output-sensitive approximate counting via a measure-bounded hyperedge oracle, or: How asymmetry helps estimate $k$-clique counts faster**|Keren Censor-Hillel et.al.|[2503.21655v1](http://arxiv.org/abs/2503.21655v1)|**2025-03-27**|null|
+|**2025-03-28**|**DSO: Aligning 3D Generators with Simulation Feedback for Physical Soundness**|Ruining Li et.al.|[2503.22677v1](http://arxiv.org/abs/2503.22677v1)|**2025-03-28**|null|
+|**2025-03-28**|**TranSplat: Lighting-Consistent Cross-Scene Object Transfer with 3D Gaussian Splatting**|Boyang et.al.|[2503.22676v1](http://arxiv.org/abs/2503.22676v1)|**2025-03-28**|null|
+|**2025-03-28**|**Exploring the Effectiveness of Multi-stage Fine-tuning for Cross-encoder Re-rankers**|Francesca Pezzuti et.al.|[2503.22672v1](http://arxiv.org/abs/2503.22672v1)|**2025-03-28**|[link](https://github.com/fpezzuti/multistage-finetuning)|
+|**2025-03-28**|**Toward single-photon detection with superconducting niobium diselenide nanowires**|Pietro Metuh et.al.|[2503.22670v1](http://arxiv.org/abs/2503.22670v1)|**2025-03-28**|null|
+|**2025-03-28**|**Understanding Co-speech Gestures in-the-wild**|Sindhu B Hegde et.al.|[2503.22668v1](http://arxiv.org/abs/2503.22668v1)|**2025-03-28**|null|
+|**2025-03-28**|**The very high X-ray polarisation of accreting black hole IGRJ17091-3624 in the hard state**|Melissa Ewing et.al.|[2503.22665v1](http://arxiv.org/abs/2503.22665v1)|**2025-03-28**|null|
+|**2025-03-28**|**NetSSM: Multi-Flow and State-Aware Network Trace Generation using State-Space Models**|Andrew Chu et.al.|[2503.22663v1](http://arxiv.org/abs/2503.22663v1)|**2025-03-28**|null|
+|**2025-03-28**|**On the effects of parameters on galaxy properties in CAMELS and the predictability of $Ω_{\rm m}$**|Gabriella Contardo et.al.|[2503.22654v1](http://arxiv.org/abs/2503.22654v1)|**2025-03-28**|null|
+|**2025-03-28**|**Diffraction around caustics in gravitational wave lensing**|Jose María Ezquiaga et.al.|[2503.22648v1](http://arxiv.org/abs/2503.22648v1)|**2025-03-28**|null|
+|**2025-03-28**|**Deep learning-enabled prediction of surgical errors during cataract surgery: from simulation to real-world application**|Maxime Faure et.al.|[2503.22647v1](http://arxiv.org/abs/2503.22647v1)|**2025-03-28**|null|
+|**2025-03-28**|**QuCheck: A Property-based Testing Framework for Quantum Programs in Qiskit**|Gabriel Pontolillo et.al.|[2503.22641v1](http://arxiv.org/abs/2503.22641v1)|**2025-03-28**|null|
+|**2025-03-28**|**Revealing the loss mechanisms of a 3D superconducting microwave cavity for use in a dark matter search**|J. C. Esmenda et.al.|[2503.22637v1](http://arxiv.org/abs/2503.22637v1)|**2025-03-28**|null|
+|**2025-03-28**|**The BLOBs: Enigmatic Diffuse Ionized Gas Structures in a Cluster of Galaxies near Cosmic Noon**|C. Maier et.al.|[2503.22628v1](http://arxiv.org/abs/2503.22628v1)|**2025-03-28**|null|
+|**2025-03-28**|**Lagrangian multiforms and dispersionless integrable systems**|Evgeny V. Ferapontov et.al.|[2503.22615v1](http://arxiv.org/abs/2503.22615v1)|**2025-03-28**|null|
+|**2025-03-28**|**Comment on "Solvent-Induced Negative Energetic Elasticity in a Lattice Polymer Chain''**|L. K. R. Duarte et.al.|[2503.22614v1](http://arxiv.org/abs/2503.22614v1)|**2025-03-28**|null|
+|**2025-03-28**|**Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users**|Antonia Karamolegkou et.al.|[2503.22610v1](http://arxiv.org/abs/2503.22610v1)|**2025-03-28**|null|
+|**2025-03-28**|**Clouds and Hazes in GJ 1214b's Metal-Rich Atmosphere**|Isaac Malsky et.al.|[2503.22608v1](http://arxiv.org/abs/2503.22608v1)|**2025-03-28**|null|
+|**2025-03-28**|**Next-Best-Trajectory Planning of Robot Manipulators for Effective Observation and Exploration**|Heiko Renz et.al.|[2503.22588v1](http://arxiv.org/abs/2503.22588v1)|**2025-03-28**|null|
+|**2025-03-28**|**Historical Ink: Exploring Large Language Models for Irony Detection in 19th-Century Spanish**|Kevin Cohen et.al.|[2503.22585v1](http://arxiv.org/abs/2503.22585v1)|**2025-03-28**|[link](https://github.com/historicalink/ironydetection)|
+|**2025-03-28**|**Deducing Cardiorespiratory Motion of Cardiac Substructures Using a Novel 5D-MRI Workflow for Radiotherapy**|Chase Ruff et.al.|[2503.22578v1](http://arxiv.org/abs/2503.22578v1)|**2025-03-28**|null|
+|**2025-03-28**|**On the Mistaken Assumption of Interchangeable Deep Reinforcement Learning Implementations**|Rajdeep Singh Hundal et.al.|[2503.22575v1](http://arxiv.org/abs/2503.22575v1)|**2025-03-28**|null|
+|**2025-03-28**|**Benchmarking Ultra-Low-Power $μ$NPUs**|Josh Millar et.al.|[2503.22567v1](http://arxiv.org/abs/2503.22567v1)|**2025-03-28**|null|
+|**2025-03-28**|**Leveraging partial coherence in interferometric microscopy to enhance nanoparticle detection sensitivity and throughput**|Chiara Lombardo et.al.|[2503.22565v1](http://arxiv.org/abs/2503.22565v1)|**2025-03-28**|null|
+|**2025-03-28**|**Euclid Quick Data Release (Q1) Ultracool dwarfs in the Euclid Deep Field North**|A. Mohandasan et.al.|[2503.22559v1](http://arxiv.org/abs/2503.22559v1)|**2025-03-28**|null|
+|**2025-03-28**|**3D Heterogeneous Integration of Silicon Nitride and Aluminum Nitride on Sapphire toward Ultra-wideband Photonics Integrated Circuits**|Liang Zhang et.al.|[2503.22544v1](http://arxiv.org/abs/2503.22544v1)|**2025-03-28**|null|
+|**2025-03-28**|**LIM: Large Interpolator Model for Dynamic Reconstruction**|Remy Sabathier et.al.|[2503.22537v1](http://arxiv.org/abs/2503.22537v1)|**2025-03-28**|null|
+|**2025-03-28**|**Topological optical skyrmion transfer to matter**|Chirantan Mitra et.al.|[2503.22534v1](http://arxiv.org/abs/2503.22534v1)|**2025-03-28**|null|
+|**2025-03-28**|**AnnoPage Dataset: Dataset of Non-Textual Elements in Documents with Fine-Grained Categorization**|Martin Kišš et.al.|[2503.22526v1](http://arxiv.org/abs/2503.22526v1)|**2025-03-28**|null|
+|**2025-03-28**|**CaII and H$α$ flaring M dwarfs detected with multi-filter photometry**|P. Mas-Buitrago et.al.|[2503.22525v1](http://arxiv.org/abs/2503.22525v1)|**2025-03-28**|null|
+|**2025-03-28**|**Distributed Freeze Tag: a Sustainable Solution to Discover and Wake-up a Robot Swarm**|Cyril Gavoille et.al.|[2503.22521v1](http://arxiv.org/abs/2503.22521v1)|**2025-03-28**|null|

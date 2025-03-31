@@ -2,33 +2,33 @@
 ### Instance Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-27**|**Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation**|Reza Qorbani et.al.|[2503.21780v1](http://arxiv.org/abs/2503.21780v1)|**2025-03-27**|[link](https://github.com/rezaqorbani/semla)|
-|**2025-03-27**|**A Unified Image-Dense Annotation Generation Model for Underwater Scenes**|Hongkai Lin et.al.|[2503.21771v1](http://arxiv.org/abs/2503.21771v1)|**2025-03-27**|[link](https://github.com/hongklin/tide)|
-|**2025-03-27**|**Semantic Consistent Language Gaussian Splatting for Point-Level Open-vocabulary Querying**|Hairong Yin et.al.|[2503.21767v1](http://arxiv.org/abs/2503.21767v1)|**2025-03-27**|null|
-|**2025-03-27**|**Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video**|David Yifan Yao et.al.|[2503.21761v1](http://arxiv.org/abs/2503.21761v1)|**2025-03-27**|null|
-|**2025-03-27**|**A Unified Framework for Diffusion Bridge Problems: Flow Matching and Schrödinger Matching into One**|Minyoung Kim et.al.|[2503.21756v1](http://arxiv.org/abs/2503.21756v1)|**2025-03-27**|null|
-|**2025-03-27**|**CTRL-O: Language-Controllable Object-Centric Visual Representation Learning**|Aniket Didolkar et.al.|[2503.21747v1](http://arxiv.org/abs/2503.21747v1)|**2025-03-27**|null|
-|**2025-03-27**|**AMA-SAM: Adversarial Multi-Domain Alignment of Segment Anything Model for High-Fidelity Histology Nuclei Segmentation**|Jiahe Qian et.al.|[2503.21695v1](http://arxiv.org/abs/2503.21695v1)|**2025-03-27**|null|
-|**2025-03-27**|**A tale of two goals: leveraging sequentiality in multi-goal scenarios**|Olivier Serris et.al.|[2503.21677v1](http://arxiv.org/abs/2503.21677v1)|**2025-03-27**|null|
-|**2025-03-27**|**COMI-LINGUA: Expert Annotated Large-Scale Dataset for Multitask NLP in Hindi-English Code-Mixing**|Rajvee Sheth et.al.|[2503.21670v1](http://arxiv.org/abs/2503.21670v1)|**2025-03-27**|null|
-|**2025-03-27**|**InteractionMap: Improving Online Vectorized HDMap Construction with Interaction**|Kuang Wu et.al.|[2503.21659v1](http://arxiv.org/abs/2503.21659v1)|**2025-03-27**|null|
-|**2025-03-27**|**Output-sensitive approximate counting via a measure-bounded hyperedge oracle, or: How asymmetry helps estimate $k$-clique counts faster**|Keren Censor-Hillel et.al.|[2503.21655v1](http://arxiv.org/abs/2503.21655v1)|**2025-03-27**|null|
-|**2025-03-27**|**Towards the tropicalization of reductive groups**|Desmond Coles et.al.|[2503.21654v1](http://arxiv.org/abs/2503.21654v1)|**2025-03-27**|null|
-|**2025-03-27**|**Penalty decomposition derivative free method for the minimization of partially separable functions over a convex feasible set**|Francesco Cecere et.al.|[2503.21631v1](http://arxiv.org/abs/2503.21631v1)|**2025-03-27**|null|
-|**2025-03-27**|**The MVTec AD 2 Dataset: Advanced Scenarios for Unsupervised Anomaly Detection**|Lars Heckler-Kram et.al.|[2503.21622v1](http://arxiv.org/abs/2503.21622v1)|**2025-03-27**|null|
-|**2025-03-27**|**Prompt, Divide, and Conquer: Bypassing Large Language Model Safety Filters via Segmented and Distributed Prompt Processing**|Johan Wahréus et.al.|[2503.21598v1](http://arxiv.org/abs/2503.21598v1)|**2025-03-27**|null|
-|**2025-03-27**|**FusionSegReID: Advancing Person Re-Identification with Multimodal Retrieval and Precise Segmentation**|Jincheng Yan et.al.|[2503.21595v1](http://arxiv.org/abs/2503.21595v1)|**2025-03-27**|null|
-|**2025-03-27**|**Critical Iterative Denoising: A Discrete Generative Model Applied to Graphs**|Yoann Boget et.al.|[2503.21592v1](http://arxiv.org/abs/2503.21592v1)|**2025-03-27**|null|
-|**2025-03-27**|**Bosonic quantum error correction with microwave cavities for quantum repeaters**|S. Siddardha Chelluri et.al.|[2503.21569v1](http://arxiv.org/abs/2503.21569v1)|**2025-03-27**|null|
-|**2025-03-27**|**On the conductor of a family of Frey hyperelliptic curves**|Pedro-José Cazorla García et.al.|[2503.21568v1](http://arxiv.org/abs/2503.21568v1)|**2025-03-27**|null|
-|**2025-03-27**|**Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving**|Lucas Nunes et.al.|[2503.21449v1](http://arxiv.org/abs/2503.21449v1)|**2025-03-27**|[link](https://github.com/prbonn/3diss)|
-|**2025-03-27**|**Sparse Bayesian Learning for Label Efficiency in Cardiac Real-Time MRI**|Felix Terhag et.al.|[2503.21443v1](http://arxiv.org/abs/2503.21443v1)|**2025-03-27**|null|
-|**2025-03-27**|**On the Maiorana-McFarland Class Extensions**|Nikolay Kolomeec et.al.|[2503.21440v1](http://arxiv.org/abs/2503.21440v1)|**2025-03-27**|null|
-|**2025-03-27**|**Dual-Task Learning for Dead Tree Detection and Segmentation with Hybrid Self-Attention U-Nets in Aerial Imagery**|Anis Ur Rahman et.al.|[2503.21438v1](http://arxiv.org/abs/2503.21438v1)|**2025-03-27**|null|
-|**2025-03-27**|**Beyond asymptotic scaling: Comparing functional quantum linear solvers**|Andreea-Iulia Lefterovici et.al.|[2503.21420v1](http://arxiv.org/abs/2503.21420v1)|**2025-03-27**|null|
-|**2025-03-27**|**Asymmetric accretion through a streamer onto the pre-stellar core H-MM1**|Spandan Choudhury et.al.|[2503.21370v1](http://arxiv.org/abs/2503.21370v1)|**2025-03-27**|null|
-|**2025-03-27**|**DuckSegmentation: A segmentation model based on the AnYue Hemp Duck Dataset**|Ling Feng et.al.|[2503.21323v1](http://arxiv.org/abs/2503.21323v1)|**2025-03-27**|null|
-|**2025-03-27**|**Euclid Quick Data Release (Q1). The Euclid view on Planck galaxy protocluster candidates: towards a probe of the highest sites of star formation at cosmic noon**|Euclid Collaboration et.al.|[2503.21304v1](http://arxiv.org/abs/2503.21304v1)|**2025-03-27**|null|
-|**2025-03-27**|**Delving Deep into Semantic Relation Distillation**|Zhaoyi Yan et.al.|[2503.21269v1](http://arxiv.org/abs/2503.21269v1)|**2025-03-27**|null|
-|**2025-03-27**|**vGamba: Attentive State Space Bottleneck for efficient Long-range Dependencies in Visual Recognition**|Yunusa Haruna et.al.|[2503.21262v1](http://arxiv.org/abs/2503.21262v1)|**2025-03-27**|[link](https://github.com/yunusa2k2/vGamba)|
-|**2025-03-27**|**A Quantum Constraint Generation Framework for Binary Linear Programs**|András Czégel et.al.|[2503.21222v1](http://arxiv.org/abs/2503.21222v1)|**2025-03-27**|null|
+|**2025-03-28**|**TranSplat: Lighting-Consistent Cross-Scene Object Transfer with 3D Gaussian Splatting**|Boyang et.al.|[2503.22676v1](http://arxiv.org/abs/2503.22676v1)|**2025-03-28**|null|
+|**2025-03-28**|**Tropical Bisectors and Carlini-Wagner Attacks**|Gillian Grindstaff et.al.|[2503.22653v1](http://arxiv.org/abs/2503.22653v1)|**2025-03-28**|null|
+|**2025-03-28**|**KEVS: Enhancing Segmentation of Visceral Adipose Tissue in Pre-Cystectomy CT with Gaussian Kernel Density Estimation**|Thomas Boucher et.al.|[2503.22592v1](http://arxiv.org/abs/2503.22592v1)|**2025-03-28**|null|
+|**2025-03-28**|**Accelerated VQE: Parameter Recycling for Similar Recurring Problem Instances**|Tobias Rohe et.al.|[2503.22590v1](http://arxiv.org/abs/2503.22590v1)|**2025-03-28**|null|
+|**2025-03-28**|**LLM-enabled Instance Model Generation**|Fengjunjie Pan et.al.|[2503.22587v1](http://arxiv.org/abs/2503.22587v1)|**2025-03-28**|null|
+|**2025-03-28**|**MO-CTranS: A unified multi-organ segmentation model learning from multiple heterogeneously labelled datasets**|Zhendi Gong et.al.|[2503.22557v1](http://arxiv.org/abs/2503.22557v1)|**2025-03-28**|[link](https://github.com/naisops/mo-ctrans)|
+|**2025-03-28**|**Assessing Foundation Models for Sea Ice Type Segmentation in Sentinel-1 SAR Imagery**|Samira Alkaee Taleghan et.al.|[2503.22516v1](http://arxiv.org/abs/2503.22516v1)|**2025-03-28**|null|
+|**2025-03-28**|**Generalized parameter-space metrics for continuous gravitational-wave searches**|P. B. Covas et.al.|[2503.22504v1](http://arxiv.org/abs/2503.22504v1)|**2025-03-28**|null|
+|**2025-03-28**|**Multiplicity and net-electric charge fluctuations in central Ar+Sc interactions at 13A, 19A, 30A, 40A, 75A, and 150A GeV/c beam momenta measured by NA61/SHINE at the CERN SPS**|NA61/SHINE Collaboration et.al.|[2503.22484v1](http://arxiv.org/abs/2503.22484v1)|**2025-03-28**|null|
+|**2025-03-28**|**SemAlign3D: Semantic Correspondence between RGB-Images through Aligning 3D Object-Class Representations**|Krispin Wandel et.al.|[2503.22462v1](http://arxiv.org/abs/2503.22462v1)|**2025-03-28**|null|
+|**2025-03-28**|**Comparison between neural network clustering, hierarchical clustering and k-means clustering: Applications using fluidic lenses**|Graciana Puentes et.al.|[2503.22448v1](http://arxiv.org/abs/2503.22448v1)|**2025-03-28**|null|
+|**2025-03-28**|**Numerical optimization of aviation decarbonization scenarios: balancing traffic and emissions with maturing energy carriers and aircraft technology**|Ian Costa-Alves et.al.|[2503.22435v1](http://arxiv.org/abs/2503.22435v1)|**2025-03-28**|null|
+|**2025-03-28**|**Instance-Level Data-Use Auditing of Visual ML Models**|Zonghao Huang et.al.|[2503.22413v1](http://arxiv.org/abs/2503.22413v1)|**2025-03-28**|null|
+|**2025-03-28**|**Avoiding convergence stagnation in a quantum circuit evolutionary framework through an adaptive cost function**|Bruno Oziel Fernandez et.al.|[2503.22404v1](http://arxiv.org/abs/2503.22404v1)|**2025-03-28**|null|
+|**2025-03-28**|**Data Quality Matters: Quantifying Image Quality Impact on Machine Learning Performance**|Christian Steinhauser et.al.|[2503.22375v1](http://arxiv.org/abs/2503.22375v1)|**2025-03-28**|null|
+|**2025-03-28**|**A quantum search method for quadratic and multidimensional knapsack problems**|Sören Wilkening et.al.|[2503.22325v1](http://arxiv.org/abs/2503.22325v1)|**2025-03-28**|null|
+|**2025-03-28**|**A Dataset for Semantic Segmentation in the Presence of Unknowns**|Zakaria Laskar et.al.|[2503.22309v1](http://arxiv.org/abs/2503.22309v1)|**2025-03-28**|null|
+|**2025-03-28**|**Service-the-Longest-Queue Among d Choices Policy for Quantum Entanglement Switching**|Guo Xian Yau et.al.|[2503.22292v1](http://arxiv.org/abs/2503.22292v1)|**2025-03-28**|null|
+|**2025-03-28**|**RUNA: Object-level Out-of-Distribution Detection via Regional Uncertainty Alignment of Multimodal Representations**|Bin Zhang et.al.|[2503.22285v1](http://arxiv.org/abs/2503.22285v1)|**2025-03-28**|null|
+|**2025-03-28**|**Efficient Epistemic Uncertainty Estimation in Cerebrovascular Segmentation**|Omini Rathore et.al.|[2503.22271v1](http://arxiv.org/abs/2503.22271v1)|**2025-03-28**|null|
+|**2025-03-28**|**Segment Any Motion in Videos**|Nan Huang et.al.|[2503.22268v1](http://arxiv.org/abs/2503.22268v1)|**2025-03-28**|null|
+|**2025-03-28**|**SCHNet: SAM Marries CLIP for Human Parsing**|Kunliang Liu et.al.|[2503.22237v1](http://arxiv.org/abs/2503.22237v1)|**2025-03-28**|null|
+|**2025-03-28**|**CAT: A GPU-Accelerated FHE Framework with Its Application to High-Precision Private Dataset Query**|Qirui Li et.al.|[2503.22227v1](http://arxiv.org/abs/2503.22227v1)|**2025-03-28**|[link](https://github.com/Rayman96/CAT)|
+|**2025-03-28**|**ABC-GS: Alignment-Based Controllable Style Transfer for 3D Gaussian Splatting**|Wenjie Liu et.al.|[2503.22218v1](http://arxiv.org/abs/2503.22218v1)|**2025-03-28**|null|
+|**2025-03-28**|**Data-Free Universal Attack by Exploiting the Intrinsic Vulnerability of Deep Models**|YangTian Yan et.al.|[2503.22205v1](http://arxiv.org/abs/2503.22205v1)|**2025-03-28**|null|
+|**2025-03-28**|**Segment then Splat: A Unified Approach for 3D Open-Vocabulary Segmentation based on Gaussian Splatting**|Yiren Lu et.al.|[2503.22204v1](http://arxiv.org/abs/2503.22204v1)|**2025-03-28**|null|
+|**2025-03-28**|**Synergistic Bleeding Region and Point Detection in Surgical Videos**|Jialun Pei et.al.|[2503.22174v1](http://arxiv.org/abs/2503.22174v1)|**2025-03-28**|null|
+|**2025-03-28**|**Concept-Aware LoRA for Domain-Aligned Segmentation Dataset Generation**|Minho Park et.al.|[2503.22172v1](http://arxiv.org/abs/2503.22172v1)|**2025-03-28**|null|
+|**2025-03-28**|**EgoToM: Benchmarking Theory of Mind Reasoning from Egocentric Videos**|Yuxuan Li et.al.|[2503.22152v1](http://arxiv.org/abs/2503.22152v1)|**2025-03-28**|[link](https://github.com/facebookresearch/egotom)|
+|**2025-03-28**|**Beyond Background Shift: Rethinking Instance Replay in Continual Semantic Segmentation**|Hongmei Yin et.al.|[2503.22136v1](http://arxiv.org/abs/2503.22136v1)|**2025-03-28**|null|

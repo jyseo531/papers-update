@@ -2,33 +2,33 @@
 ### SFM
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-27**|**Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation**|Reza Qorbani et.al.|[2503.21780v1](http://arxiv.org/abs/2503.21780v1)|**2025-03-27**|[link](https://github.com/rezaqorbani/semla)|
-|**2025-03-27**|**VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models**|Chi-Pin Huang et.al.|[2503.21781v1](http://arxiv.org/abs/2503.21781v1)|**2025-03-27**|null|
-|**2025-03-27**|**X$^{2}$-Gaussian: 4D Radiative Gaussian Splatting for Continuous-time Tomographic Reconstruction**|Weihao Yu et.al.|[2503.21779v1](http://arxiv.org/abs/2503.21779v1)|**2025-03-27**|null|
-|**2025-03-27**|**Test-Time Visual In-Context Tuning**|Jiahao Xie et.al.|[2503.21777v1](http://arxiv.org/abs/2503.21777v1)|**2025-03-27**|[link](https://github.com/jiahao000/vict)|
-|**2025-03-27**|**Optimal Stepsize for Diffusion Sampling**|Jianning Pei et.al.|[2503.21774v1](http://arxiv.org/abs/2503.21774v1)|**2025-03-27**|[link](https://github.com/bebebe666/optimalsteps)|
-|**2025-03-27**|**StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion**|Ziyu Guo et.al.|[2503.21775v1](http://arxiv.org/abs/2503.21775v1)|**2025-03-27**|null|
-|**2025-03-27**|**Simulating quantum circuits with restricted quantum computers**|Christophe Piveteau et.al.|[2503.21773v1](http://arxiv.org/abs/2503.21773v1)|**2025-03-27**|null|
-|**2025-03-27**|**Visual Jenga: Discovering Object Dependencies via Counterfactual Inpainting**|Anand Bhattad et.al.|[2503.21770v1](http://arxiv.org/abs/2503.21770v1)|**2025-03-27**|null|
-|**2025-03-27**|**Kondo-lattice phenomenology of twisted bilayer WSe$_2$ from compact molecular orbitals of topological bands**|Fang Xie et.al.|[2503.21769v1](http://arxiv.org/abs/2503.21769v1)|**2025-03-27**|null|
-|**2025-03-27**|**Semantic Consistent Language Gaussian Splatting for Point-Level Open-vocabulary Querying**|Hairong Yin et.al.|[2503.21767v1](http://arxiv.org/abs/2503.21767v1)|**2025-03-27**|null|
-|**2025-03-27**|**Exploring the Evolution of Physics Cognition in Video Generation: A Survey**|Minghui Lin et.al.|[2503.21765v1](http://arxiv.org/abs/2503.21765v1)|**2025-03-27**|[link](https://github.com/minnie-lin/awesome-physics-cognition-based-video-generation)|
-|**2025-03-27**|**On the open TS/ST correspondence**|Matijn François et.al.|[2503.21762v1](http://arxiv.org/abs/2503.21762v1)|**2025-03-27**|null|
-|**2025-03-27**|**Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video**|David Yifan Yao et.al.|[2503.21761v1](http://arxiv.org/abs/2503.21761v1)|**2025-03-27**|null|
-|**2025-03-27**|**Large Scale Structure and the Cosmic Web**|Rita Tojeiro et.al.|[2503.21759v1](http://arxiv.org/abs/2503.21759v1)|**2025-03-27**|null|
-|**2025-03-27**|**VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness**|Dian Zheng et.al.|[2503.21755v1](http://arxiv.org/abs/2503.21755v1)|**2025-03-27**|[link](https://github.com/vchitect/vbench)|
-|**2025-03-27**|**Quantum enhanced parameter estimation with monitored quantum nonequilibrium systems using inefficient photo detection**|Albert Cabot et.al.|[2503.21753v1](http://arxiv.org/abs/2503.21753v1)|**2025-03-27**|null|
-|**2025-03-27**|**Reconstructing Humans with a Biomechanically Accurate Skeleton**|Yan Xia et.al.|[2503.21751v1](http://arxiv.org/abs/2503.21751v1)|**2025-03-27**|null|
-|**2025-03-27**|**Extracting energy via bosonic Gaussian operations**|Frank Ernesto Quintela Rodriguez et.al.|[2503.21748v1](http://arxiv.org/abs/2503.21748v1)|**2025-03-27**|null|
-|**2025-03-27**|**CTRL-O: Language-Controllable Object-Centric Visual Representation Learning**|Aniket Didolkar et.al.|[2503.21747v1](http://arxiv.org/abs/2503.21747v1)|**2025-03-27**|null|
-|**2025-03-27**|**Effects of dissipation on phase diagram and bosonic excitations in the quark-meson model**|Johannes V. Roth et.al.|[2503.21746v1](http://arxiv.org/abs/2503.21746v1)|**2025-03-27**|null|
-|**2025-03-27**|**3DGen-Bench: Comprehensive Benchmark Suite for 3D Generative Models**|Yuhan Zhang et.al.|[2503.21745v1](http://arxiv.org/abs/2503.21745v1)|**2025-03-27**|null|
-|**2025-03-27**|**Expectation for the MeV Gamma-Ray Emission from Pair-Instability Supernovae**|Ryo Sawada et.al.|[2503.21744v1](http://arxiv.org/abs/2503.21744v1)|**2025-03-27**|null|
-|**2025-03-27**|**Three-Dimensional Stacking as a Line Intensity Mapping Statistic**|D. A. Dunne et.al.|[2503.21743v1](http://arxiv.org/abs/2503.21743v1)|**2025-03-27**|null|
-|**2025-03-27**|**Transitioning to Memory Burden: Detectable Small Primordial Black Holes as Dark Matter**|Gia Dvali et.al.|[2503.21740v1](http://arxiv.org/abs/2503.21740v1)|**2025-03-27**|null|
-|**2025-03-27**|**Emergent Non-Markovian Gain in Open Quantum Systems**|H. Z. Shen et.al.|[2503.21739v1](http://arxiv.org/abs/2503.21739v1)|**2025-03-27**|null|
-|**2025-03-27**|**Local Primordial non-Gaussian Bias from Time Evolution**|James M. Sullivan et.al.|[2503.21736v1](http://arxiv.org/abs/2503.21736v1)|**2025-03-27**|null|
-|**2025-03-27**|**GateLens: A Reasoning-Enhanced LLM Agent for Automotive Software Release Analytics**|Arsham Gholamzadeh Khoee et.al.|[2503.21735v1](http://arxiv.org/abs/2503.21735v1)|**2025-03-27**|null|
-|**2025-03-27**|**Structure and Melting of Fe, MgO, SiO2, and MgSiO3 in Planets: Database, Inversion, and Phase Diagram**|Junjie Dong et.al.|[2503.21734v1](http://arxiv.org/abs/2503.21734v1)|**2025-03-27**|null|
-|**2025-03-27**|**Fully dynamic biconnectivity in $\tilde{\mathcal{O}}(\log^2 n)$ time**|Jacob Holm et.al.|[2503.21733v1](http://arxiv.org/abs/2503.21733v1)|**2025-03-27**|null|
-|**2025-03-27**|**SparseFlex: High-Resolution and Arbitrary-Topology 3D Shape Modeling**|Xianglong He et.al.|[2503.21732v1](http://arxiv.org/abs/2503.21732v1)|**2025-03-27**|null|
+|**2025-03-28**|**DSO: Aligning 3D Generators with Simulation Feedback for Physical Soundness**|Ruining Li et.al.|[2503.22677v1](http://arxiv.org/abs/2503.22677v1)|**2025-03-28**|null|
+|**2025-03-28**|**Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions**|Mohammad Almansoori et.al.|[2503.22678v1](http://arxiv.org/abs/2503.22678v1)|**2025-03-28**|null|
+|**2025-03-28**|**TranSplat: Lighting-Consistent Cross-Scene Object Transfer with 3D Gaussian Splatting**|Boyang et.al.|[2503.22676v1](http://arxiv.org/abs/2503.22676v1)|**2025-03-28**|null|
+|**2025-03-28**|**Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation**|Jiakai Tang et.al.|[2503.22675v1](http://arxiv.org/abs/2503.22675v1)|**2025-03-28**|null|
+|**2025-03-28**|**QuestBench: Can LLMs ask the right question to acquire information in reasoning tasks?**|Belinda Z. Li et.al.|[2503.22674v1](http://arxiv.org/abs/2503.22674v1)|**2025-03-28**|null|
+|**2025-03-28**|**Non-Archimedean Hilbert geometry and degenerations of real Hilbert geometries**|Xenia Flamm et.al.|[2503.22671v1](http://arxiv.org/abs/2503.22671v1)|**2025-03-28**|null|
+|**2025-03-28**|**Understanding Co-speech Gestures in-the-wild**|Sindhu B Hegde et.al.|[2503.22668v1](http://arxiv.org/abs/2503.22668v1)|**2025-03-28**|null|
+|**2025-03-28**|**NetSSM: Multi-Flow and State-Aware Network Trace Generation using State-Space Models**|Andrew Chu et.al.|[2503.22663v1](http://arxiv.org/abs/2503.22663v1)|**2025-03-28**|null|
+|**2025-03-28**|**Non-linear and non-empirical double hybrid density functional**|Danish Khan et.al.|[2503.22661v1](http://arxiv.org/abs/2503.22661v1)|**2025-03-28**|null|
+|**2025-03-28**|**Differential equation quantum solvers: engineering measurements to reduce cost**|Annie Paine et.al.|[2503.22656v1](http://arxiv.org/abs/2503.22656v1)|**2025-03-28**|null|
+|**2025-03-28**|**Unicorn: Text-Only Data Synthesis for Vision Language Model Training**|Xiaomin Yu et.al.|[2503.22655v1](http://arxiv.org/abs/2503.22655v1)|**2025-03-28**|[link](https://github.com/yu-xm/unicorn)|
+|**2025-03-28**|**On the effects of parameters on galaxy properties in CAMELS and the predictability of $Ω_{\rm m}$**|Gabriella Contardo et.al.|[2503.22654v1](http://arxiv.org/abs/2503.22654v1)|**2025-03-28**|null|
+|**2025-03-28**|**Explicit non-free tensors**|Maxim van den Berg et.al.|[2503.22650v1](http://arxiv.org/abs/2503.22650v1)|**2025-03-28**|null|
+|**2025-03-28**|**Stochastic reduced-order Koopman model for turbulent flows**|Tianyi Chu et.al.|[2503.22649v1](http://arxiv.org/abs/2503.22649v1)|**2025-03-28**|null|
+|**2025-03-28**|**Diffraction around caustics in gravitational wave lensing**|Jose María Ezquiaga et.al.|[2503.22648v1](http://arxiv.org/abs/2503.22648v1)|**2025-03-28**|null|
+|**2025-03-28**|**Deep learning-enabled prediction of surgical errors during cataract surgery: from simulation to real-world application**|Maxime Faure et.al.|[2503.22647v1](http://arxiv.org/abs/2503.22647v1)|**2025-03-28**|null|
+|**2025-03-28**|**Finding Unknown Unknowns using Cyber-Physical System Simulators (Extended Report)**|Semaan Douglas Wehbe et.al.|[2503.22646v1](http://arxiv.org/abs/2503.22646v1)|**2025-03-28**|null|
+|**2025-03-28**|**A Performance Analysis of Task Scheduling for UQ Workflows on HPC Systems**|Chung Ming Loi et.al.|[2503.22645v1](http://arxiv.org/abs/2503.22645v1)|**2025-03-28**|null|
+|**2025-03-28**|**Streaming quantum state purification for general mixed states**|Daniel Grier et.al.|[2503.22644v1](http://arxiv.org/abs/2503.22644v1)|**2025-03-28**|null|
+|**2025-03-28**|**Evaluation of a Novel Quantitative Multiparametric MR Sequence for Radiation Therapy Treatment Response Assessment**|Yuhao Yan et.al.|[2503.22640v1](http://arxiv.org/abs/2503.22640v1)|**2025-03-28**|null|
+|**2025-03-28**|**QuCheck: A Property-based Testing Framework for Quantum Programs in Qiskit**|Gabriel Pontolillo et.al.|[2503.22641v1](http://arxiv.org/abs/2503.22641v1)|**2025-03-28**|null|
+|**2025-03-28**|**Revealing the loss mechanisms of a 3D superconducting microwave cavity for use in a dark matter search**|J. C. Esmenda et.al.|[2503.22637v1](http://arxiv.org/abs/2503.22637v1)|**2025-03-28**|null|
+|**2025-03-28**|**Precision Tests in $b\to s\ell^+\ell^-$ ($\ell=e,μ$) at FCC-ee**|Marzia Bordone et.al.|[2503.22635v1](http://arxiv.org/abs/2503.22635v1)|**2025-03-28**|null|
+|**2025-03-28**|**Empirical Analysis of Sim-and-Real Cotraining Of Diffusion Policies For Planar Pushing from Pixels**|Adam Wei et.al.|[2503.22634v1](http://arxiv.org/abs/2503.22634v1)|**2025-03-28**|null|
+|**2025-03-28**|**The moment polytope of matrix multiplication is not maximal**|Maxim van den Berg et.al.|[2503.22633v1](http://arxiv.org/abs/2503.22633v1)|**2025-03-28**|null|
+|**2025-03-28**|**Accelerating a restarted Krylov method for matrix functions with randomization**|Nicolas L. Guidotti et.al.|[2503.22631v1](http://arxiv.org/abs/2503.22631v1)|**2025-03-28**|null|
+|**2025-03-28**|**Sentiment Classification of Thai Central Bank Press Releases Using Supervised Learning**|Stefano Grassi et.al.|[2503.22629v1](http://arxiv.org/abs/2503.22629v1)|**2025-03-28**|null|
+|**2025-03-28**|**Shadow and gravitational lensing produced by the nonlinear accretion of a scalar field onto a black hole**|J. C. Acevedo-Muñoz et.al.|[2503.22624v1](http://arxiv.org/abs/2503.22624v1)|**2025-03-28**|null|
+|**2025-03-28**|**Giant Spin Pumping at Polymer/Ferromagnet Interfaces for Hybrid Spintronic Devices**|Shiva Gaur et.al.|[2503.22623v1](http://arxiv.org/abs/2503.22623v1)|**2025-03-28**|null|
+|**2025-03-28**|**Zero4D: Training-Free 4D Video Generation From Single Video Using Off-the-Shelf Video Diffusion Model**|Jangho Park et.al.|[2503.22622v1](http://arxiv.org/abs/2503.22622v1)|**2025-03-28**|null|

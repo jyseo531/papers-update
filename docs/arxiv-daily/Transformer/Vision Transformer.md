@@ -2,33 +2,33 @@
 ### Vision Transformer
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-27**|**Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation**|Reza Qorbani et.al.|[2503.21780v1](http://arxiv.org/abs/2503.21780v1)|**2025-03-27**|[link](https://github.com/rezaqorbani/semla)|
-|**2025-03-27**|**VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models**|Chi-Pin Huang et.al.|[2503.21781v1](http://arxiv.org/abs/2503.21781v1)|**2025-03-27**|null|
-|**2025-03-27**|**Mobile-VideoGPT: Fast and Accurate Video Understanding Language Model**|Abdelrahman Shaker et.al.|[2503.21782v1](http://arxiv.org/abs/2503.21782v1)|**2025-03-27**|[link](https://github.com/amshaker/mobile-videogpt)|
-|**2025-03-27**|**X$^{2}$-Gaussian: 4D Radiative Gaussian Splatting for Continuous-time Tomographic Reconstruction**|Weihao Yu et.al.|[2503.21779v1](http://arxiv.org/abs/2503.21779v1)|**2025-03-27**|null|
-|**2025-03-27**|**HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM**|Ziren Gong et.al.|[2503.21778v1](http://arxiv.org/abs/2503.21778v1)|**2025-03-27**|null|
-|**2025-03-27**|**Test-Time Visual In-Context Tuning**|Jiahao Xie et.al.|[2503.21777v1](http://arxiv.org/abs/2503.21777v1)|**2025-03-27**|[link](https://github.com/jiahao000/vict)|
-|**2025-03-27**|**Video-R1: Reinforcing Video Reasoning in MLLMs**|Kaituo Feng et.al.|[2503.21776v1](http://arxiv.org/abs/2503.21776v1)|**2025-03-27**|[link](https://github.com/tulerfeng/video-r1)|
-|**2025-03-27**|**Optimal Stepsize for Diffusion Sampling**|Jianning Pei et.al.|[2503.21774v1](http://arxiv.org/abs/2503.21774v1)|**2025-03-27**|[link](https://github.com/bebebe666/optimalsteps)|
-|**2025-03-27**|**StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion**|Ziyu Guo et.al.|[2503.21775v1](http://arxiv.org/abs/2503.21775v1)|**2025-03-27**|null|
-|**2025-03-27**|**LOCORE: Image Re-ranking with Long-Context Sequence Modeling**|Zilin Xiao et.al.|[2503.21772v1](http://arxiv.org/abs/2503.21772v1)|**2025-03-27**|null|
-|**2025-03-27**|**A Unified Image-Dense Annotation Generation Model for Underwater Scenes**|Hongkai Lin et.al.|[2503.21771v1](http://arxiv.org/abs/2503.21771v1)|**2025-03-27**|[link](https://github.com/hongklin/tide)|
-|**2025-03-27**|**Visual Jenga: Discovering Object Dependencies via Counterfactual Inpainting**|Anand Bhattad et.al.|[2503.21770v1](http://arxiv.org/abs/2503.21770v1)|**2025-03-27**|null|
-|**2025-03-27**|**Semantic Consistent Language Gaussian Splatting for Point-Level Open-vocabulary Querying**|Hairong Yin et.al.|[2503.21767v1](http://arxiv.org/abs/2503.21767v1)|**2025-03-27**|null|
-|**2025-03-27**|**Stable-SCore: A Stable Registration-based Framework for 3D Shape Correspondence**|Haolin Liu et.al.|[2503.21766v1](http://arxiv.org/abs/2503.21766v1)|**2025-03-27**|null|
-|**2025-03-27**|**Exploring the Evolution of Physics Cognition in Video Generation: A Survey**|Minghui Lin et.al.|[2503.21765v1](http://arxiv.org/abs/2503.21765v1)|**2025-03-27**|[link](https://github.com/minnie-lin/awesome-physics-cognition-based-video-generation)|
-|**2025-03-27**|**Identification and estimation of treatment effects in a linear factor model with fixed number of time periods**|Koki Fusejima et.al.|[2503.21763v1](http://arxiv.org/abs/2503.21763v1)|**2025-03-27**|null|
-|**2025-03-27**|**Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video**|David Yifan Yao et.al.|[2503.21761v1](http://arxiv.org/abs/2503.21761v1)|**2025-03-27**|null|
-|**2025-03-27**|**Fwd2Bot: LVLM Visual Token Compression with Double Forward Bottleneck**|Adrian Bulat et.al.|[2503.21757v1](http://arxiv.org/abs/2503.21757v1)|**2025-03-27**|null|
-|**2025-03-27**|**Lumina-Image 2.0: A Unified and Efficient Image Generative Framework**|Qi Qin et.al.|[2503.21758v1](http://arxiv.org/abs/2503.21758v1)|**2025-03-27**|[link](https://github.com/alpha-vllm/lumina-image-2.0)|
-|**2025-03-27**|**VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness**|Dian Zheng et.al.|[2503.21755v1](http://arxiv.org/abs/2503.21755v1)|**2025-03-27**|[link](https://github.com/vchitect/vbench)|
-|**2025-03-27**|**Reconstructing Humans with a Biomechanically Accurate Skeleton**|Yan Xia et.al.|[2503.21751v1](http://arxiv.org/abs/2503.21751v1)|**2025-03-27**|null|
-|**2025-03-27**|**LeX-Art: Rethinking Text Generation via Scalable High-Quality Data Synthesis**|Shitian Zhao et.al.|[2503.21749v1](http://arxiv.org/abs/2503.21749v1)|**2025-03-27**|null|
-|**2025-03-27**|**CTRL-O: Language-Controllable Object-Centric Visual Representation Learning**|Aniket Didolkar et.al.|[2503.21747v1](http://arxiv.org/abs/2503.21747v1)|**2025-03-27**|null|
-|**2025-03-27**|**3DGen-Bench: Comprehensive Benchmark Suite for 3D Generative Models**|Yuhan Zhang et.al.|[2503.21745v1](http://arxiv.org/abs/2503.21745v1)|**2025-03-27**|null|
-|**2025-03-27**|**SparseFlex: High-Resolution and Arbitrary-Topology 3D Shape Modeling**|Xianglong He et.al.|[2503.21732v1](http://arxiv.org/abs/2503.21732v1)|**2025-03-27**|null|
-|**2025-03-27**|**OccRobNet : Occlusion Robust Network for Accurate 3D Interacting Hand-Object Pose Estimation**|Mallika Garg et.al.|[2503.21723v1](http://arxiv.org/abs/2503.21723v1)|**2025-03-27**|null|
-|**2025-03-27**|**Evaluating Text-to-Image Synthesis with a Conditional Fréchet Distance**|Jaywon Koo et.al.|[2503.21721v1](http://arxiv.org/abs/2503.21721v1)|**2025-03-27**|null|
-|**2025-03-27**|**Elementwise Layer Normalization**|Felix Stollenwerk et.al.|[2503.21708v1](http://arxiv.org/abs/2503.21708v1)|**2025-03-27**|[link](https://github.com/flxst/ELN)|
-|**2025-03-27**|**Enabling Robust Exoplanet Atmospheric Retrievals with Gaussian Processes**|Yoav Rotman et.al.|[2503.21702v1](http://arxiv.org/abs/2503.21702v1)|**2025-03-27**|null|
-|**2025-03-27**|**MAVERIX: Multimodal Audio-Visual Evaluation Reasoning IndeX**|Liuyue Xie et.al.|[2503.21699v1](http://arxiv.org/abs/2503.21699v1)|**2025-03-27**|null|
+|**2025-03-28**|**Q-Insight: Understanding Image Quality via Visual Reinforcement Learning**|Weiqi Li et.al.|[2503.22679v1](http://arxiv.org/abs/2503.22679v1)|**2025-03-28**|[link](https://github.com/lwq20020127/q-insight)|
+|**2025-03-28**|**DSO: Aligning 3D Generators with Simulation Feedback for Physical Soundness**|Ruining Li et.al.|[2503.22677v1](http://arxiv.org/abs/2503.22677v1)|**2025-03-28**|null|
+|**2025-03-28**|**TranSplat: Lighting-Consistent Cross-Scene Object Transfer with 3D Gaussian Splatting**|Boyang et.al.|[2503.22676v1](http://arxiv.org/abs/2503.22676v1)|**2025-03-28**|null|
+|**2025-03-28**|**Understanding Co-speech Gestures in-the-wild**|Sindhu B Hegde et.al.|[2503.22668v1](http://arxiv.org/abs/2503.22668v1)|**2025-03-28**|null|
+|**2025-03-28**|**NetSSM: Multi-Flow and State-Aware Network Trace Generation using State-Space Models**|Andrew Chu et.al.|[2503.22663v1](http://arxiv.org/abs/2503.22663v1)|**2025-03-28**|null|
+|**2025-03-28**|**Evaluation of Machine-generated Biomedical Images via A Tally-based Similarity Measure**|Frank J. Brooks et.al.|[2503.22658v1](http://arxiv.org/abs/2503.22658v1)|**2025-03-28**|null|
+|**2025-03-28**|**Unicorn: Text-Only Data Synthesis for Vision Language Model Training**|Xiaomin Yu et.al.|[2503.22655v1](http://arxiv.org/abs/2503.22655v1)|**2025-03-28**|[link](https://github.com/yu-xm/unicorn)|
+|**2025-03-28**|**Physics-informed gauge theories**|Friederike Ihssen et.al.|[2503.22638v1](http://arxiv.org/abs/2503.22638v1)|**2025-03-28**|null|
+|**2025-03-28**|**Zero4D: Training-Free 4D Video Generation From Single Video Using Off-the-Shelf Video Diffusion Model**|Jangho Park et.al.|[2503.22622v1](http://arxiv.org/abs/2503.22622v1)|**2025-03-28**|null|
+|**2025-03-28**|**Audio-Plane: Audio Factorization Plane Gaussian Splatting for Real-Time Talking Head Synthesis**|Shuai Shen et.al.|[2503.22605v1](http://arxiv.org/abs/2503.22605v1)|**2025-03-28**|null|
+|**2025-03-28**|**KEVS: Enhancing Segmentation of Visceral Adipose Tissue in Pre-Cystectomy CT with Gaussian Kernel Density Estimation**|Thomas Boucher et.al.|[2503.22592v1](http://arxiv.org/abs/2503.22592v1)|**2025-03-28**|null|
+|**2025-03-28**|**Transforming Siliconization into Slippery Liquid-like Coatings**|Hernán Barrio-Zhang et.al.|[2503.22591v1](http://arxiv.org/abs/2503.22591v1)|**2025-03-28**|null|
+|**2025-03-28**|**Using AI to Summarize US Presidential Campaign TV Advertisement Videos, 1952-2012**|Adam Breuer et.al.|[2503.22589v1](http://arxiv.org/abs/2503.22589v1)|**2025-03-28**|null|
+|**2025-03-28**|**LLM-enabled Instance Model Generation**|Fengjunjie Pan et.al.|[2503.22587v1](http://arxiv.org/abs/2503.22587v1)|**2025-03-28**|null|
+|**2025-03-28**|**Next-Best-Trajectory Planning of Robot Manipulators for Effective Observation and Exploration**|Heiko Renz et.al.|[2503.22588v1](http://arxiv.org/abs/2503.22588v1)|**2025-03-28**|null|
+|**2025-03-28**|**Two-dimensional electronic spectroscopy in the condensed phase using equivariant transformer accelerated molecular dynamics simulations**|Joseph Kelly et.al.|[2503.22583v1](http://arxiv.org/abs/2503.22583v1)|**2025-03-28**|null|
+|**2025-03-28**|**Breaking Language Barriers in Visual Language Models via Multilingual Textual Regularization**|Iñigo Pikabea et.al.|[2503.22577v1](http://arxiv.org/abs/2503.22577v1)|**2025-03-28**|null|
+|**2025-03-28**|**RELD: Regularization by Latent Diffusion Models for Image Restoration**|Pasquale Cascarano et.al.|[2503.22563v1](http://arxiv.org/abs/2503.22563v1)|**2025-03-28**|null|
+|**2025-03-28**|**Image Decomposition with G-norm Weighted by Total Symmetric Variation**|Roy Y. He et.al.|[2503.22560v1](http://arxiv.org/abs/2503.22560v1)|**2025-03-28**|null|
+|**2025-03-28**|**MO-CTranS: A unified multi-organ segmentation model learning from multiple heterogeneously labelled datasets**|Zhendi Gong et.al.|[2503.22557v1](http://arxiv.org/abs/2503.22557v1)|**2025-03-28**|[link](https://github.com/naisops/mo-ctrans)|
+|**2025-03-28**|**Bridging the Dimensional Chasm: Uncover Layer-wise Dimensional Reduction in Transformers through Token Correlation**|Zhuo-Yang Song et.al.|[2503.22547v1](http://arxiv.org/abs/2503.22547v1)|**2025-03-28**|null|
+|**2025-03-28**|**LIM: Large Interpolator Model for Dynamic Reconstruction**|Remy Sabathier et.al.|[2503.22537v1](http://arxiv.org/abs/2503.22537v1)|**2025-03-28**|null|
+|**2025-03-28**|**Deterministic Medical Image Translation via High-fidelity Brownian Bridges**|Qisheng He et.al.|[2503.22531v1](http://arxiv.org/abs/2503.22531v1)|**2025-03-28**|null|
+|**2025-03-28**|**MixFunn: A Neural Network for Differential Equations with Improved Generalization and Interpretability**|Tiago de Souza Farias et.al.|[2503.22528v1](http://arxiv.org/abs/2503.22528v1)|**2025-03-28**|null|
+|**2025-03-28**|**AnnoPage Dataset: Dataset of Non-Textual Elements in Documents with Fine-Grained Categorization**|Martin Kišš et.al.|[2503.22526v1](http://arxiv.org/abs/2503.22526v1)|**2025-03-28**|null|
+|**2025-03-28**|**Exploiting Mixture-of-Experts Redundancy Unlocks Multimodal Generative Abilities**|Raman Dutt et.al.|[2503.22517v1](http://arxiv.org/abs/2503.22517v1)|**2025-03-28**|null|
+|**2025-03-28**|**Masked Self-Supervised Pre-Training for Text Recognition Transformers on Large-Scale Datasets**|Martin Kišš et.al.|[2503.22513v1](http://arxiv.org/abs/2503.22513v1)|**2025-03-28**|null|
+|**2025-03-28**|**Cross-Technology Generalization in Synthesized Speech Detection: Evaluating AST Models with Modern Voice Generators**|Andrew Ustinov et.al.|[2503.22503v1](http://arxiv.org/abs/2503.22503v1)|**2025-03-28**|[link](https://github.com/admin-anteihk/papers)|
+|**2025-03-28**|**Learnable cut flow**|Jing Li et.al.|[2503.22498v1](http://arxiv.org/abs/2503.22498v1)|**2025-03-28**|null|
+|**2025-03-28**|**Scenario Dreamer: Vectorized Latent Diffusion for Generating Driving Simulation Environments**|Luke Rowe et.al.|[2503.22496v1](http://arxiv.org/abs/2503.22496v1)|**2025-03-28**|null|

@@ -2,6 +2,9 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-28**|**Quantitative characterization of hydrophobic agglomeration at different mixing intensities using a copula-based probabilistic modeling approach**|Niklas Eiermann et.al.|[2503.22422v1](http://arxiv.org/abs/2503.22422v1)|**2025-03-28**|null|
+|**2025-03-27**|**NeuroLIP: Interpretable and Fair Cross-Modal Alignment of fMRI and Phenotypic Text**|Yanting Yang et.al.|[2503.21964v1](http://arxiv.org/abs/2503.21964v1)|**2025-03-27**|null|
+|**2025-03-27**|**Flexible Moment-Invariant Bases from Irreducible Tensors**|Roxana Bujack et.al.|[2503.21939v1](http://arxiv.org/abs/2503.21939v1)|**2025-03-27**|null|
 |**2025-03-27**|**LOCORE: Image Re-ranking with Long-Context Sequence Modeling**|Zilin Xiao et.al.|[2503.21772v1](http://arxiv.org/abs/2503.21772v1)|**2025-03-27**|null|
 |**2025-03-27**|**Statistical learning of structure-property relationships for transport in porous media, using hybrid AI modeling**|Somayeh Hosseinhashemi et.al.|[2503.21560v1](http://arxiv.org/abs/2503.21560v1)|**2025-03-27**|null|
 |**2025-03-27**|**Recurrent Feature Mining and Keypoint Mixup Padding for Category-Agnostic Pose Estimation**|Junjie Chen et.al.|[2503.21140v1](http://arxiv.org/abs/2503.21140v1)|**2025-03-27**|[link](https://github.com/chenbys/fmmp)|
@@ -29,6 +32,3 @@
 |**2025-03-21**|**A Topological Data Analysis Framework for Quantifying Necrosis in Glioblastomas**|Francisco Tellez et.al.|[2503.17331v1](http://arxiv.org/abs/2503.17331v1)|**2025-03-21**|[link](https://github.com/fjtellez/TDA-IF-REPO)|
 |**2025-03-21**|**Stereological 3D modeling of nano-scale catalyst particles using TEM projections**|Lukas Fuchs et.al.|[2503.17437v1](http://arxiv.org/abs/2503.17437v1)|**2025-03-21**|null|
 |**2025-03-21**|**A Comparative Analysis of Image Descriptors for Histopathological Classification of Gastric Cancer**|Marco Usai et.al.|[2503.17105v1](http://arxiv.org/abs/2503.17105v1)|**2025-03-21**|null|
-|**2025-03-21**|**Superpowering Open-Vocabulary Object Detectors for X-ray Vision**|Pablo Garcia-Fernandez et.al.|[2503.17071v1](http://arxiv.org/abs/2503.17071v1)|**2025-03-21**|null|
-|**2025-03-21**|**Enabling Versatile Controls for Video Diffusion Models**|Xu Zhang et.al.|[2503.16983v1](http://arxiv.org/abs/2503.16983v1)|**2025-03-21**|[link](https://github.com/PaddlePaddle/PaddleMIX)|
-|**2025-03-21**|**Multi-property directed generative design of inorganic materials through Wyckoff-augmented transfer learning**|Shuya Yamazaki et.al.|[2503.16784v1](http://arxiv.org/abs/2503.16784v1)|**2025-03-21**|null|
