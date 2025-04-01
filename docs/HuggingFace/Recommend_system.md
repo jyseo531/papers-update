@@ -310,6 +310,7 @@ Updated on 2025-04-01
 | 60 |  | distil-whisper/distil-large-v3 | Updatedabout 18 hours ago | [Link](https://huggingface.co/distil-whisper/distil-large-v3.5) |
 | 8.66k |  | nguyenvulebinh/wav2vec2-base-vietnamese-250hAutomatic | UpdatedNov 4, 2021 | [Link](https://huggingface.co/nguyenvulebinh/wav2vec2-base-vietnamese-250h) |
 | 6.16k |  | vinai/PhoWhisper-largeAutomatic | UpdatedNov 12, 2024 | [Link](https://huggingface.co/vinai/PhoWhisper-large) |
+| 373 |  | omarxadel/hubert-large-arabic-egyptianAutomatic | UpdatedMar 19, 2023 | [Link](https://huggingface.co/omarxadel/hubert-large-arabic-egyptian) |
 
 ## Depth Estimation
 
