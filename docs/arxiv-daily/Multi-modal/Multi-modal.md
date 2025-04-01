@@ -2,33 +2,33 @@
 ### Multi-modal
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-03-28**|**Q-Insight: Understanding Image Quality via Visual Reinforcement Learning**|Weiqi Li et.al.|[2503.22679v1](http://arxiv.org/abs/2503.22679v1)|**2025-03-28**|[link](https://github.com/lwq20020127/q-insight)|
-|**2025-03-28**|**Understanding Co-speech Gestures in-the-wild**|Sindhu B Hegde et.al.|[2503.22668v1](http://arxiv.org/abs/2503.22668v1)|**2025-03-28**|null|
-|**2025-03-28**|**Unicorn: Text-Only Data Synthesis for Vision Language Model Training**|Xiaomin Yu et.al.|[2503.22655v1](http://arxiv.org/abs/2503.22655v1)|**2025-03-28**|[link](https://github.com/yu-xm/unicorn)|
-|**2025-03-28**|**Leveraging partial coherence in interferometric microscopy to enhance nanoparticle detection sensitivity and throughput**|Chiara Lombardo et.al.|[2503.22565v2](http://arxiv.org/abs/2503.22565v2)|**2025-03-31**|null|
-|**2025-03-28**|**Deterministic Medical Image Translation via High-fidelity Brownian Bridges**|Qisheng He et.al.|[2503.22531v1](http://arxiv.org/abs/2503.22531v1)|**2025-03-28**|null|
-|**2025-03-28**|**Exploiting Mixture-of-Experts Redundancy Unlocks Multimodal Generative Abilities**|Raman Dutt et.al.|[2503.22517v1](http://arxiv.org/abs/2503.22517v1)|**2025-03-28**|null|
-|**2025-03-28**|**Automated UX Insights from User Research Videos by Integrating Facial Emotion and Text Sentiment**|Simran Kaur Ghatoray et.al.|[2503.22510v1](http://arxiv.org/abs/2503.22510v1)|**2025-03-28**|null|
-|**2025-03-28**|**A Multi-Objective Simultaneous Routing, Facility Location and Allocation Model for Earthquake Emergency Logistics**|Sakineh Khodadadi et.al.|[2503.22487v1](http://arxiv.org/abs/2503.22487v1)|**2025-03-28**|null|
-|**2025-03-28**|**NuGrounding: A Multi-View 3D Visual Grounding Framework in Autonomous Driving**|Fuhao Li et.al.|[2503.22436v1](http://arxiv.org/abs/2503.22436v1)|**2025-03-28**|null|
-|**2025-03-28**|**DeepAudio-V1:Towards Multi-Modal Multi-Stage End-to-End Video to Speech and Audio Generation**|Haomin Zhang et.al.|[2503.22265v1](http://arxiv.org/abs/2503.22265v1)|**2025-03-28**|null|
-|**2025-03-28**|**Diffusion at Absolute Zero: Langevin Sampling using Successive Moreau Envelopes**|Andreas Habring et.al.|[2503.22258v1](http://arxiv.org/abs/2503.22258v1)|**2025-03-28**|null|
-|**2025-03-28**|**Pneumatic Multi-mode Silicone Actuator with Pressure, Vibration, and Cold Thermal Feedback**|Mohammad Shadman Hashem et.al.|[2503.22247v1](http://arxiv.org/abs/2503.22247v1)|**2025-03-28**|null|
-|**2025-03-28**|**Agent-Centric Personalized Multiple Clustering with Multi-Modal LLMs**|Ziye Chen et.al.|[2503.22241v2](http://arxiv.org/abs/2503.22241v2)|**2025-03-31**|null|
-|**2025-03-28**|**DeepSound-V1: Start to Think Step-by-Step in the Audio Generation from Videos**|Yunming Liang et.al.|[2503.22208v1](http://arxiv.org/abs/2503.22208v1)|**2025-03-28**|null|
-|**2025-03-28**|**Multi-modal Knowledge Distillation-based Human Trajectory Forecasting**|Jaewoo Jeong et.al.|[2503.22201v1](http://arxiv.org/abs/2503.22201v1)|**2025-03-28**|null|
-|**2025-03-28**|**Enhance Generation Quality of Flow Matching V2A Model via Multi-Step CoT-Like Guidance and Combined Preference Optimization**|Haomin Zhang et.al.|[2503.22200v1](http://arxiv.org/abs/2503.22200v1)|**2025-03-28**|null|
-|**2025-03-28**|**Extremely Simple Out-of-distribution Detection for Audio-visual Generalized Zero-shot Learning**|Yang Liu et.al.|[2503.22197v1](http://arxiv.org/abs/2503.22197v1)|**2025-03-28**|null|
-|**2025-03-28**|**Enhancing Dance-to-Music Generation via Negative Conditioning Latent Diffusion Model**|Changchang Sun et.al.|[2503.22138v1](http://arxiv.org/abs/2503.22138v1)|**2025-03-28**|null|
-|**2025-03-28**|**Multimodal Machine Learning for Real Estate Appraisal: A Comprehensive Survey**|Chenya Huang et.al.|[2503.22119v1](http://arxiv.org/abs/2503.22119v1)|**2025-03-28**|null|
-|**2025-03-28**|**M2D2: Exploring General-purpose Audio-Language Representations Beyond CLAP**|Daisuke Niizumi et.al.|[2503.22104v1](http://arxiv.org/abs/2503.22104v1)|**2025-03-28**|null|
-|**2025-03-28**|**A Survey on Remote Sensing Foundation Models: From Vision to Multimodality**|Ziyue Huang et.al.|[2503.22081v1](http://arxiv.org/abs/2503.22081v1)|**2025-03-28**|null|
-|**2025-03-28**|**A Semantic-Enhanced Heterogeneous Graph Learning Method for Flexible Objects Recognition**|Kunshan Yang et.al.|[2503.22079v1](http://arxiv.org/abs/2503.22079v1)|**2025-03-28**|null|
-|**2025-03-28**|**Multi-Task Semantic Communications via Large Models**|Wanli Ni et.al.|[2503.22064v1](http://arxiv.org/abs/2503.22064v1)|**2025-03-28**|null|
-|**2025-03-28**|**Arch-LLM: Taming LLMs for Neural Architecture Generation via Unsupervised Discrete Representation Learning**|Deshani Geethika Poddenige et.al.|[2503.22063v1](http://arxiv.org/abs/2503.22063v1)|**2025-03-28**|null|
-|**2025-03-28**|**Deep Depth Estimation from Thermal Image: Dataset, Benchmark, and Challenges**|Ukcheol Shin et.al.|[2503.22060v1](http://arxiv.org/abs/2503.22060v1)|**2025-03-28**|null|
-|**2025-03-27**|**NeuroLIP: Interpretable and Fair Cross-Modal Alignment of fMRI and Phenotypic Text**|Yanting Yang et.al.|[2503.21964v1](http://arxiv.org/abs/2503.21964v1)|**2025-03-27**|null|
-|**2025-03-27**|**StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion**|Ziyu Guo et.al.|[2503.21775v1](http://arxiv.org/abs/2503.21775v1)|**2025-03-27**|null|
-|**2025-03-27**|**A Unified Image-Dense Annotation Generation Model for Underwater Scenes**|Hongkai Lin et.al.|[2503.21771v1](http://arxiv.org/abs/2503.21771v1)|**2025-03-27**|[link](https://github.com/hongklin/tide)|
-|**2025-03-27**|**Lumina-Image 2.0: A Unified and Efficient Image Generative Framework**|Qi Qin et.al.|[2503.21758v1](http://arxiv.org/abs/2503.21758v1)|**2025-03-27**|[link](https://github.com/alpha-vllm/lumina-image-2.0)|
-|**2025-03-27**|**Enhancing Underwater Navigation through Cross-Correlation-Aware Deep INS/DVL Fusion**|Nadav Cohen et.al.|[2503.21727v1](http://arxiv.org/abs/2503.21727v1)|**2025-03-27**|null|
+|**2025-03-31**|**Pre-training with 3D Synthetic Data: Learning 3D Point Cloud Instance Segmentation from 3D Synthetic Scenes**|Daichi Otsuka et.al.|[2503.24229v1](http://arxiv.org/abs/2503.24229v1)|**2025-03-31**|null|
+|**2025-03-31**|**CIBR: Cross-modal Information Bottleneck Regularization for Robust CLIP Generalization**|Yingrui Ji et.al.|[2503.24182v1](http://arxiv.org/abs/2503.24182v1)|**2025-03-31**|null|
+|**2025-03-31**|**Predicting Targeted Therapy Resistance in Non-Small Cell Lung Cancer Using Multimodal Machine Learning**|Peiying Hua et.al.|[2503.24165v1](http://arxiv.org/abs/2503.24165v1)|**2025-03-31**|null|
+|**2025-03-31**|**It's a (Blind) Match! Towards Vision-Language Correspondence without Parallel Data**|Dominik Schnaus et.al.|[2503.24129v1](http://arxiv.org/abs/2503.24129v1)|**2025-03-31**|null|
+|**2025-03-31**|**IMPACT: A Generic Semantic Loss for Multimodal Medical Image Registration**|Valentin Boussot et.al.|[2503.24121v1](http://arxiv.org/abs/2503.24121v1)|**2025-03-31**|null|
+|**2025-03-31**|**A Complete Epistemic Temporal Logic for Intelligent Agent**|Zining Cao et.al.|[2503.24078v1](http://arxiv.org/abs/2503.24078v1)|**2025-03-31**|null|
+|**2025-03-31**|**COSMO: Combination of Selective Memorization for Low-cost Vision-and-Language Navigation**|Siqi Zhang et.al.|[2503.24065v1](http://arxiv.org/abs/2503.24065v1)|**2025-03-31**|null|
+|**2025-03-31**|**Crossmodal Knowledge Distillation with WordNet-Relaxed Text Embeddings for Robust Image Classification**|Chenqi Guo et.al.|[2503.24017v1](http://arxiv.org/abs/2503.24017v1)|**2025-03-31**|null|
+|**2025-03-31**|**AirCache: Activating Inter-modal Relevancy KV Cache Compression for Efficient Large Vision-Language Model Inference**|Kai Huang et.al.|[2503.23956v1](http://arxiv.org/abs/2503.23956v1)|**2025-03-31**|null|
+|**2025-03-31**|**AMB-FHE: Adaptive Multi-biometric Fusion with Fully Homomorphic Encryption**|Florian Bayer et.al.|[2503.23949v1](http://arxiv.org/abs/2503.23949v1)|**2025-03-31**|null|
+|**2025-03-31**|**PupiNet: Seamless OCT-OCTA Interconversion Through Wavelet-Driven and Multi-Scale Attention Mechanisms**|Renzhi Tian et.al.|[2503.23933v1](http://arxiv.org/abs/2503.23933v1)|**2025-03-31**|null|
+|**2025-03-31**|**Droplet breakup morphologies and the resultant size distribution in an opposed-flow airstream at different Weber numbers**|Shubham Chakraborty et.al.|[2503.23910v1](http://arxiv.org/abs/2503.23910v1)|**2025-03-31**|null|
+|**2025-03-31**|**HumanAesExpert: Advancing a Multi-Modality Foundation Model for Human Image Aesthetic Assessment**|Zhichao Liao et.al.|[2503.23907v1](http://arxiv.org/abs/2503.23907v1)|**2025-03-31**|null|
+|**2025-03-31**|**OrchMLLM: Orchestrate Multimodal Data with Batch Post-Balancing to Accelerate Multimodal Large Language Model Training**|Yijie Zheng et.al.|[2503.23830v1](http://arxiv.org/abs/2503.23830v1)|**2025-03-31**|null|
+|**2025-03-31**|**Towards a cognitive architecture to enable natural language interaction in co-constructive task learning**|Manuel Scheibl et.al.|[2503.23760v1](http://arxiv.org/abs/2503.23760v1)|**2025-03-31**|null|
+|**2025-03-31**|**StrokeFusion: Vector Sketch Generation via Joint Stroke-UDF Encoding and Latent Sequence Diffusion**|Jin Zhou et.al.|[2503.23752v1](http://arxiv.org/abs/2503.23752v1)|**2025-03-31**|null|
+|**2025-03-31**|**Unimodal-driven Distillation in Multimodal Emotion Recognition with Dynamic Fusion**|Jiagen Li et.al.|[2503.23721v1](http://arxiv.org/abs/2503.23721v1)|**2025-03-31**|null|
+|**2025-03-31**|**3D Dental Model Segmentation with Geometrical Boundary Preserving**|Shufan Xi et.al.|[2503.23702v1](http://arxiv.org/abs/2503.23702v1)|**2025-03-31**|null|
+|**2025-03-31**|**DeepDubber-V1: Towards High Quality and Dialogue, Narration, Monologue Adaptive Movie Dubbing Via Multi-Modal Chain-of-Thoughts Reasoning Guidance**|Junjie Zheng et.al.|[2503.23660v1](http://arxiv.org/abs/2503.23660v1)|**2025-03-31**|null|
+|**2025-03-30**|**BiPVL-Seg: Bidirectional Progressive Vision-Language Fusion with Global-Local Alignment for Medical Image Segmentation**|Rafi Ibn Sultan et.al.|[2503.23534v1](http://arxiv.org/abs/2503.23534v1)|**2025-03-30**|null|
+|**2025-03-30**|**Federated Self-Supervised Learning for One-Shot Cross-Modal and Cross-Imaging Technique Segmentation**|Siladittya Manna et.al.|[2503.23507v1](http://arxiv.org/abs/2503.23507v1)|**2025-03-30**|null|
+|**2025-03-30**|**Hackathons for biophysics education: simulating the cytoskeleton**|Yoav G. Pollack et.al.|[2503.23492v1](http://arxiv.org/abs/2503.23492v1)|**2025-03-30**|null|
+|**2025-03-30**|**OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model**|Xingcheng Zhou et.al.|[2503.23463v1](http://arxiv.org/abs/2503.23463v1)|**2025-03-30**|null|
+|**2025-03-30**|**CADFormer: Fine-Grained Cross-modal Alignment and Decoding Transformer for Referring Remote Sensing Image Segmentation**|Maofu Liu et.al.|[2503.23456v1](http://arxiv.org/abs/2503.23456v1)|**2025-03-30**|null|
+|**2025-03-30**|**Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision**|Hanlin Cai et.al.|[2503.23446v1](http://arxiv.org/abs/2503.23446v1)|**2025-03-30**|null|
+|**2025-03-30**|**COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation**|Fanding Huang et.al.|[2503.23388v1](http://arxiv.org/abs/2503.23388v1)|**2025-03-30**|[link](https://github.com/hf618/cosmic)|
+|**2025-03-30**|**VideoFusion: A Spatio-Temporal Collaborative Network for Mutli-modal Video Fusion and Restoration**|Linfeng Tang et.al.|[2503.23359v1](http://arxiv.org/abs/2503.23359v1)|**2025-03-30**|null|
+|**2025-03-30**|**DSPFusion: Image Fusion via Degradation and Semantic Dual-Prior Guidance**|Linfeng Tang et.al.|[2503.23355v1](http://arxiv.org/abs/2503.23355v1)|**2025-03-30**|null|
+|**2025-03-30**|**Beyond Unimodal Boundaries: Generative Recommendation with Multimodal Semantics**|Jing Zhu et.al.|[2503.23333v1](http://arxiv.org/abs/2503.23333v1)|**2025-03-30**|null|
+|**2025-03-30**|**Improved Ear Verification with Vision Transformers and Overlapping Patches**|Deeksha Arun et.al.|[2503.23275v1](http://arxiv.org/abs/2503.23275v1)|**2025-03-30**|null|
