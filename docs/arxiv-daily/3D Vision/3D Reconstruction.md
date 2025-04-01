@@ -12,7 +12,7 @@
 |**2025-03-28**|**Clouds and Hazes in GJ 1214b's Metal-Rich Atmosphere**|Isaac Malsky et.al.|[2503.22608v1](http://arxiv.org/abs/2503.22608v1)|**2025-03-28**|null|
 |**2025-03-28**|**Quantum Entropy-Driven Modifications to Holographic Dark Energy in $f(G,T)$ Gravity**|Giuseppe Gaetano Luciano et.al.|[2503.22609v1](http://arxiv.org/abs/2503.22609v1)|**2025-03-28**|null|
 |**2025-03-28**|**Next-Best-Trajectory Planning of Robot Manipulators for Effective Observation and Exploration**|Heiko Renz et.al.|[2503.22588v1](http://arxiv.org/abs/2503.22588v1)|**2025-03-28**|null|
-|**2025-03-28**|**Deducing Cardiorespiratory Motion of Cardiac Substructures Using a Novel 5D-MRI Workflow for Radiotherapy**|Chase Ruff et.al.|[2503.22578v1](http://arxiv.org/abs/2503.22578v1)|**2025-03-28**|null|
+|**2025-03-28**|**Deducing Cardiorespiratory Motion of Cardiac Substructures Using a Novel 5D-MRI Workflow for Radiotherapy**|Chase Ruff et.al.|[2503.22578v2](http://arxiv.org/abs/2503.22578v2)|**2025-03-31**|null|
 |**2025-03-28**|**On the Mistaken Assumption of Interchangeable Deep Reinforcement Learning Implementations**|Rajdeep Singh Hundal et.al.|[2503.22575v1](http://arxiv.org/abs/2503.22575v1)|**2025-03-28**|null|
 |**2025-03-28**|**Tracing the Heliospheric Magnetic Field via Anisotropic Radio-Wave Scattering**|Daniel L. Clarkson et.al.|[2503.22553v1](http://arxiv.org/abs/2503.22553v1)|**2025-03-28**|null|
 |**2025-03-28**|**3D Heterogeneous Integration of Silicon Nitride and Aluminum Nitride on Sapphire toward Ultra-wideband Photonics Integrated Circuits**|Liang Zhang et.al.|[2503.22544v1](http://arxiv.org/abs/2503.22544v1)|**2025-03-28**|null|
@@ -24,7 +24,7 @@
 |**2025-03-28**|**High-Dimensional Encoding Computational Imaging**|YongKang Yan et.al.|[2503.22460v1](http://arxiv.org/abs/2503.22460v1)|**2025-03-28**|null|
 |**2025-03-28**|**A high order multigrid-preconditioned immersed interface solver for the Poisson equation with boundary and interface conditions**|James Gabbard et.al.|[2503.22455v1](http://arxiv.org/abs/2503.22455v1)|**2025-03-28**|null|
 |**2025-03-28**|**Comparison between neural network clustering, hierarchical clustering and k-means clustering: Applications using fluidic lenses**|Graciana Puentes et.al.|[2503.22448v1](http://arxiv.org/abs/2503.22448v1)|**2025-03-28**|null|
-|**2025-03-28**|**EndoLRMGS: Complete Endoscopic Scene Reconstruction combining Large Reconstruction Modelling and Gaussian Splatting**|Xu Wang et.al.|[2503.22437v1](http://arxiv.org/abs/2503.22437v1)|**2025-03-28**|null|
+|**2025-03-28**|**EndoLRMGS: Complete Endoscopic Scene Reconstruction combining Large Reconstruction Modelling and Gaussian Splatting**|Xu Wang et.al.|[2503.22437v1](http://arxiv.org/abs/2503.22437v1)|**2025-03-28**|[link](https://github.com/michaelwanggo/endolrmgs)|
 |**2025-03-28**|**NuGrounding: A Multi-View 3D Visual Grounding Framework in Autonomous Driving**|Fuhao Li et.al.|[2503.22436v1](http://arxiv.org/abs/2503.22436v1)|**2025-03-28**|null|
 |**2025-03-28**|**Collapse and Collision Aware Grasping for Cluttered Shelf Picking**|Abhinav Pathak et.al.|[2503.22427v1](http://arxiv.org/abs/2503.22427v1)|**2025-03-28**|null|
 |**2025-03-28**|**Magnetic Resonance Particle Tracking**|Mathieu Suter et.al.|[2503.22425v1](http://arxiv.org/abs/2503.22425v1)|**2025-03-28**|null|

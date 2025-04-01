@@ -14,7 +14,7 @@
 |**2025-03-28**|**Terahertz frequency-domain 4x4 Mueller matrix ellipsometer instrument designed for high-frequency magnetic resonance measurements**|Viktor Rindert et.al.|[2503.22500v1](http://arxiv.org/abs/2503.22500v1)|**2025-03-28**|null|
 |**2025-03-28**|**SemAlign3D: Semantic Correspondence between RGB-Images through Aligning 3D Object-Class Representations**|Krispin Wandel et.al.|[2503.22462v1](http://arxiv.org/abs/2503.22462v1)|**2025-03-28**|null|
 |**2025-03-28**|**A high order multigrid-preconditioned immersed interface solver for the Poisson equation with boundary and interface conditions**|James Gabbard et.al.|[2503.22455v1](http://arxiv.org/abs/2503.22455v1)|**2025-03-28**|null|
-|**2025-03-28**|**EndoLRMGS: Complete Endoscopic Scene Reconstruction combining Large Reconstruction Modelling and Gaussian Splatting**|Xu Wang et.al.|[2503.22437v1](http://arxiv.org/abs/2503.22437v1)|**2025-03-28**|null|
+|**2025-03-28**|**EndoLRMGS: Complete Endoscopic Scene Reconstruction combining Large Reconstruction Modelling and Gaussian Splatting**|Xu Wang et.al.|[2503.22437v1](http://arxiv.org/abs/2503.22437v1)|**2025-03-28**|[link](https://github.com/michaelwanggo/endolrmgs)|
 |**2025-03-28**|**NuGrounding: A Multi-View 3D Visual Grounding Framework in Autonomous Driving**|Fuhao Li et.al.|[2503.22436v1](http://arxiv.org/abs/2503.22436v1)|**2025-03-28**|null|
 |**2025-03-28**|**Collapse and Collision Aware Grasping for Cluttered Shelf Picking**|Abhinav Pathak et.al.|[2503.22427v1](http://arxiv.org/abs/2503.22427v1)|**2025-03-28**|null|
 |**2025-03-28**|**Magnetic Resonance Particle Tracking**|Mathieu Suter et.al.|[2503.22425v1](http://arxiv.org/abs/2503.22425v1)|**2025-03-28**|null|
@@ -29,6 +29,6 @@
 |**2025-03-28**|**Data-driven modeling of fluid flow around rotating structures with graph neural networks**|Rui Gao et.al.|[2503.22252v1](http://arxiv.org/abs/2503.22252v1)|**2025-03-28**|null|
 |**2025-03-28**|**FLAM: Foundation Model-Based Body Stabilization for Humanoid Locomotion and Manipulation**|Xianqi Zhang et.al.|[2503.22249v1](http://arxiv.org/abs/2503.22249v1)|**2025-03-28**|null|
 |**2025-03-28**|**Pneumatic Multi-mode Silicone Actuator with Pressure, Vibration, and Cold Thermal Feedback**|Mohammad Shadman Hashem et.al.|[2503.22247v1](http://arxiv.org/abs/2503.22247v1)|**2025-03-28**|null|
-|**2025-03-28**|**Hi3DGen: High-fidelity 3D Geometry Generation from Images via Normal Bridging**|Chongjie Ye et.al.|[2503.22236v1](http://arxiv.org/abs/2503.22236v1)|**2025-03-28**|null|
+|**2025-03-28**|**Hi3DGen: High-fidelity 3D Geometry Generation from Images via Normal Bridging**|Chongjie Ye et.al.|[2503.22236v2](http://arxiv.org/abs/2503.22236v2)|**2025-03-31**|null|
 |**2025-03-28**|**CoGen: 3D Consistent Video Generation via Adaptive Conditioning for Autonomous Driving**|Yishen Ji et.al.|[2503.22231v1](http://arxiv.org/abs/2503.22231v1)|**2025-03-28**|null|
 |**2025-03-28**|**Follow Your Motion: A Generic Temporal Consistency Portrait Editing Framework with Trajectory Guidance**|Haijie Yang et.al.|[2503.22225v1](http://arxiv.org/abs/2503.22225v1)|**2025-03-28**|null|

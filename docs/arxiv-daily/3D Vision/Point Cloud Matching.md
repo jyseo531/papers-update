@@ -21,14 +21,14 @@
 |**2025-03-28**|**Integrable Corners in the Space of Gukov-Witten Surface Defect**|Adam Chalabi et.al.|[2503.22598v1](http://arxiv.org/abs/2503.22598v1)|**2025-03-28**|null|
 |**2025-03-28**|**Reinforcement Learning for Machine Learning Model Deployment: Evaluating Multi-Armed Bandits in ML Ops Environments**|S. Aaron McClendon et.al.|[2503.22595v1](http://arxiv.org/abs/2503.22595v1)|**2025-03-28**|null|
 |**2025-03-28**|**Accelerated VQE: Parameter Recycling for Similar Recurring Problem Instances**|Tobias Rohe et.al.|[2503.22590v1](http://arxiv.org/abs/2503.22590v1)|**2025-03-28**|null|
-|**2025-03-28**|**Using AI to Summarize US Presidential Campaign TV Advertisement Videos, 1952-2012**|Adam Breuer et.al.|[2503.22589v1](http://arxiv.org/abs/2503.22589v1)|**2025-03-28**|null|
+|**2025-03-28**|**Using AI to Summarize US Presidential Campaign TV Advertisement Videos, 1952-2012**|Adam Breuer et.al.|[2503.22589v1](http://arxiv.org/abs/2503.22589v1)|**2025-03-28**|[link](https://github.com/adambreuer/ai-summarizevid)|
 |**2025-03-28**|**Next-Best-Trajectory Planning of Robot Manipulators for Effective Observation and Exploration**|Heiko Renz et.al.|[2503.22588v1](http://arxiv.org/abs/2503.22588v1)|**2025-03-28**|null|
 |**2025-03-28**|**Do Researchers Benefit Career-wise from Involvement in International Policy Guideline Development?**|Yuta Tomokiyo et.al.|[2503.22584v1](http://arxiv.org/abs/2503.22584v1)|**2025-03-28**|null|
 |**2025-03-28**|**Helly-type theorems for monotone properties of boxes**|Nóra Frankl et.al.|[2503.22571v1](http://arxiv.org/abs/2503.22571v1)|**2025-03-28**|null|
 |**2025-03-28**|**Benchmarking Ultra-Low-Power $μ$NPUs**|Josh Millar et.al.|[2503.22567v1](http://arxiv.org/abs/2503.22567v1)|**2025-03-28**|null|
-|**2025-03-28**|**Leveraging partial coherence in interferometric microscopy to enhance nanoparticle detection sensitivity and throughput**|Chiara Lombardo et.al.|[2503.22565v1](http://arxiv.org/abs/2503.22565v1)|**2025-03-28**|null|
+|**2025-03-28**|**Leveraging partial coherence in interferometric microscopy to enhance nanoparticle detection sensitivity and throughput**|Chiara Lombardo et.al.|[2503.22565v2](http://arxiv.org/abs/2503.22565v2)|**2025-03-31**|null|
 |**2025-03-28**|**Euclid Quick Data Release (Q1) Ultracool dwarfs in the Euclid Deep Field North**|A. Mohandasan et.al.|[2503.22559v1](http://arxiv.org/abs/2503.22559v1)|**2025-03-28**|null|
-|**2025-03-28**|**Algorithmic analysis of systems with affine input and polynomial state**|Lorenzo Clemente et.al.|[2503.22558v1](http://arxiv.org/abs/2503.22558v1)|**2025-03-28**|null|
+|**2025-03-28**|**Algorithmic analysis of systems with affine input and polynomial state**|Lorenzo Clemente et.al.|[2503.22558v2](http://arxiv.org/abs/2503.22558v2)|**2025-03-31**|null|
 |**2025-03-28**|**Tracing the Heliospheric Magnetic Field via Anisotropic Radio-Wave Scattering**|Daniel L. Clarkson et.al.|[2503.22553v1](http://arxiv.org/abs/2503.22553v1)|**2025-03-28**|null|
 |**2025-03-28**|**Approximate stationarity in disjunctive optimization: concepts, qualification conditions, and application to MPCCs**|Isabella Käming et.al.|[2503.22551v1](http://arxiv.org/abs/2503.22551v1)|**2025-03-28**|null|
 |**2025-03-28**|**Curvature-based energy spectra revealing flow regime changes in Rayleigh-Bénard convection**|Michael Mommert et.al.|[2503.22545v1](http://arxiv.org/abs/2503.22545v1)|**2025-03-28**|null|

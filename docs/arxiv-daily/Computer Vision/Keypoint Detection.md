@@ -5,7 +5,7 @@
 |**2025-03-28**|**Quantitative characterization of hydrophobic agglomeration at different mixing intensities using a copula-based probabilistic modeling approach**|Niklas Eiermann et.al.|[2503.22422v1](http://arxiv.org/abs/2503.22422v1)|**2025-03-28**|null|
 |**2025-03-27**|**NeuroLIP: Interpretable and Fair Cross-Modal Alignment of fMRI and Phenotypic Text**|Yanting Yang et.al.|[2503.21964v1](http://arxiv.org/abs/2503.21964v1)|**2025-03-27**|null|
 |**2025-03-27**|**Flexible Moment-Invariant Bases from Irreducible Tensors**|Roxana Bujack et.al.|[2503.21939v1](http://arxiv.org/abs/2503.21939v1)|**2025-03-27**|null|
-|**2025-03-27**|**LOCORE: Image Re-ranking with Long-Context Sequence Modeling**|Zilin Xiao et.al.|[2503.21772v1](http://arxiv.org/abs/2503.21772v1)|**2025-03-27**|null|
+|**2025-03-27**|**LOCORE: Image Re-ranking with Long-Context Sequence Modeling**|Zilin Xiao et.al.|[2503.21772v1](http://arxiv.org/abs/2503.21772v1)|**2025-03-27**|[link](https://github.com/MrZilinXiao/LongContextReranker)|
 |**2025-03-27**|**Statistical learning of structure-property relationships for transport in porous media, using hybrid AI modeling**|Somayeh Hosseinhashemi et.al.|[2503.21560v1](http://arxiv.org/abs/2503.21560v1)|**2025-03-27**|null|
 |**2025-03-27**|**Recurrent Feature Mining and Keypoint Mixup Padding for Category-Agnostic Pose Estimation**|Junjie Chen et.al.|[2503.21140v1](http://arxiv.org/abs/2503.21140v1)|**2025-03-27**|[link](https://github.com/chenbys/fmmp)|
 |**2025-03-26**|**ReverBERT: A State Space Model for Efficient Text-Driven Speech Style Transfer**|Michael Brown et.al.|[2503.20992v1](http://arxiv.org/abs/2503.20992v1)|**2025-03-26**|null|

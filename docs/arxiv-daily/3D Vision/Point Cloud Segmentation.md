@@ -24,7 +24,7 @@
 |**2025-03-28**|**Next-Best-Trajectory Planning of Robot Manipulators for Effective Observation and Exploration**|Heiko Renz et.al.|[2503.22588v1](http://arxiv.org/abs/2503.22588v1)|**2025-03-28**|null|
 |**2025-03-28**|**Helly-type theorems for monotone properties of boxes**|Nóra Frankl et.al.|[2503.22571v1](http://arxiv.org/abs/2503.22571v1)|**2025-03-28**|null|
 |**2025-03-28**|**Benchmarking Ultra-Low-Power $μ$NPUs**|Josh Millar et.al.|[2503.22567v1](http://arxiv.org/abs/2503.22567v1)|**2025-03-28**|null|
-|**2025-03-28**|**Algorithmic analysis of systems with affine input and polynomial state**|Lorenzo Clemente et.al.|[2503.22558v1](http://arxiv.org/abs/2503.22558v1)|**2025-03-28**|null|
+|**2025-03-28**|**Algorithmic analysis of systems with affine input and polynomial state**|Lorenzo Clemente et.al.|[2503.22558v2](http://arxiv.org/abs/2503.22558v2)|**2025-03-31**|null|
 |**2025-03-28**|**MO-CTranS: A unified multi-organ segmentation model learning from multiple heterogeneously labelled datasets**|Zhendi Gong et.al.|[2503.22557v1](http://arxiv.org/abs/2503.22557v1)|**2025-03-28**|[link](https://github.com/naisops/mo-ctrans)|
 |**2025-03-28**|**Tracing the Heliospheric Magnetic Field via Anisotropic Radio-Wave Scattering**|Daniel L. Clarkson et.al.|[2503.22553v1](http://arxiv.org/abs/2503.22553v1)|**2025-03-28**|null|
 |**2025-03-28**|**Approximate stationarity in disjunctive optimization: concepts, qualification conditions, and application to MPCCs**|Isabella Käming et.al.|[2503.22551v1](http://arxiv.org/abs/2503.22551v1)|**2025-03-28**|null|

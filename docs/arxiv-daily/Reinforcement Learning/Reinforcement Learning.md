@@ -10,13 +10,13 @@
 |**2025-03-28**|**Probabilistic Uncertain Reward Model: A Natural Generalization of Bradley-Terry Reward Model**|Wangtao Sun et.al.|[2503.22480v1](http://arxiv.org/abs/2503.22480v1)|**2025-03-28**|null|
 |**2025-03-28**|**Enhanced superconductivity in LaRu3Si2 by chemical pressure tuning of kagome flat bands**|Ryo Misawa et.al.|[2503.22477v1](http://arxiv.org/abs/2503.22477v1)|**2025-03-28**|null|
 |**2025-03-28**|**Control of Humanoid Robots with Parallel Mechanisms using Kinematic Actuation Models**|Victor Lutz et.al.|[2503.22459v1](http://arxiv.org/abs/2503.22459v1)|**2025-03-28**|null|
-|**2025-03-28**|**Entropy-guided sequence weighting for efficient exploration in RL-based LLM fine-tuning**|Abdullah Vanlioglu et.al.|[2503.22456v1](http://arxiv.org/abs/2503.22456v1)|**2025-03-28**|null|
+|**2025-03-28**|**Entropy-guided sequence weighting for efficient exploration in RL-based LLM fine-tuning**|Abdullah Vanlioglu et.al.|[2503.22456v2](http://arxiv.org/abs/2503.22456v2)|**2025-03-31**|null|
 |**2025-03-28**|**Reinforcement learning for efficient and robust multi-setpoint and multi-trajectory tracking in bioprocesses**|Sebastián Espinel-Ríos et.al.|[2503.22409v1](http://arxiv.org/abs/2503.22409v1)|**2025-03-28**|null|
 |**2025-03-28**|**AH-GS: Augmented 3D Gaussian Splatting for High-Frequency Detail Representation**|Chenyang Xu et.al.|[2503.22324v1](http://arxiv.org/abs/2503.22324v1)|**2025-03-28**|null|
 |**2025-03-28**|**FLAM: Foundation Model-Based Body Stabilization for Humanoid Locomotion and Manipulation**|Xianqi Zhang et.al.|[2503.22249v1](http://arxiv.org/abs/2503.22249v1)|**2025-03-28**|null|
 |**2025-03-28**|**CRLLK: Constrained Reinforcement Learning for Lane Keeping in Autonomous Driving**|Xinwei Gao et.al.|[2503.22248v1](http://arxiv.org/abs/2503.22248v1)|**2025-03-28**|null|
 |**2025-03-28**|**Analysis of On-policy Policy Gradient Methods under the Distribution Mismatch**|Weizhen Wang et.al.|[2503.22244v1](http://arxiv.org/abs/2503.22244v1)|**2025-03-28**|null|
-|**2025-03-28**|**Exploring Data Scaling Trends and Effects in Reinforcement Learning from Human Feedback**|Wei Shen et.al.|[2503.22230v1](http://arxiv.org/abs/2503.22230v1)|**2025-03-28**|null|
+|**2025-03-28**|**Exploring Data Scaling Trends and Effects in Reinforcement Learning from Human Feedback**|Wei Shen et.al.|[2503.22230v2](http://arxiv.org/abs/2503.22230v2)|**2025-03-31**|null|
 |**2025-03-28**|**Cooperative Hybrid Multi-Agent Pathfinding Based on Shared Exploration Maps**|Ning Liu et.al.|[2503.22162v1](http://arxiv.org/abs/2503.22162v1)|**2025-03-28**|null|
 |**2025-03-28**|**Sharpe Ratio-Guided Active Learning for Preference Optimization in RLHF**|Syrine Belakaria et.al.|[2503.22137v1](http://arxiv.org/abs/2503.22137v1)|**2025-03-28**|null|
 |**2025-03-27**|**Evaluating Eye Tracking and Electroencephalography as Indicator for Selective Exposure During Online News Reading**|Thomas Krämer et.al.|[2503.22018v1](http://arxiv.org/abs/2503.22018v1)|**2025-03-27**|null|

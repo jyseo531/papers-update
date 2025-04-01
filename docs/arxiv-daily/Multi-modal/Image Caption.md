@@ -15,9 +15,9 @@
 |**2025-03-28**|**Using Machine Learning for Lunar Mineralogy-I: Hyperspectral Imaging of Volcanic Samples**|Fatemeh Fazel Hesar et.al.|[2503.22617v1](http://arxiv.org/abs/2503.22617v1)|**2025-03-28**|null|
 |**2025-03-28**|**Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users**|Antonia Karamolegkou et.al.|[2503.22610v1](http://arxiv.org/abs/2503.22610v1)|**2025-03-28**|null|
 |**2025-03-28**|**KEVS: Enhancing Segmentation of Visceral Adipose Tissue in Pre-Cystectomy CT with Gaussian Kernel Density Estimation**|Thomas Boucher et.al.|[2503.22592v1](http://arxiv.org/abs/2503.22592v1)|**2025-03-28**|null|
-|**2025-03-28**|**Deducing Cardiorespiratory Motion of Cardiac Substructures Using a Novel 5D-MRI Workflow for Radiotherapy**|Chase Ruff et.al.|[2503.22578v1](http://arxiv.org/abs/2503.22578v1)|**2025-03-28**|null|
+|**2025-03-28**|**Deducing Cardiorespiratory Motion of Cardiac Substructures Using a Novel 5D-MRI Workflow for Radiotherapy**|Chase Ruff et.al.|[2503.22578v2](http://arxiv.org/abs/2503.22578v2)|**2025-03-31**|null|
 |**2025-03-28**|**Breaking Language Barriers in Visual Language Models via Multilingual Textual Regularization**|Iñigo Pikabea et.al.|[2503.22577v1](http://arxiv.org/abs/2503.22577v1)|**2025-03-28**|null|
-|**2025-03-28**|**Leveraging partial coherence in interferometric microscopy to enhance nanoparticle detection sensitivity and throughput**|Chiara Lombardo et.al.|[2503.22565v1](http://arxiv.org/abs/2503.22565v1)|**2025-03-28**|null|
+|**2025-03-28**|**Leveraging partial coherence in interferometric microscopy to enhance nanoparticle detection sensitivity and throughput**|Chiara Lombardo et.al.|[2503.22565v2](http://arxiv.org/abs/2503.22565v2)|**2025-03-31**|null|
 |**2025-03-28**|**RELD: Regularization by Latent Diffusion Models for Image Restoration**|Pasquale Cascarano et.al.|[2503.22563v1](http://arxiv.org/abs/2503.22563v1)|**2025-03-28**|null|
 |**2025-03-28**|**Image Decomposition with G-norm Weighted by Total Symmetric Variation**|Roy Y. He et.al.|[2503.22560v1](http://arxiv.org/abs/2503.22560v1)|**2025-03-28**|null|
 |**2025-03-28**|**MO-CTranS: A unified multi-organ segmentation model learning from multiple heterogeneously labelled datasets**|Zhendi Gong et.al.|[2503.22557v1](http://arxiv.org/abs/2503.22557v1)|**2025-03-28**|[link](https://github.com/naisops/mo-ctrans)|

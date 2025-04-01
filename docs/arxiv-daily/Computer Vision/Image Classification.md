@@ -19,9 +19,9 @@
 |**2025-03-28**|**KEVS: Enhancing Segmentation of Visceral Adipose Tissue in Pre-Cystectomy CT with Gaussian Kernel Density Estimation**|Thomas Boucher et.al.|[2503.22592v1](http://arxiv.org/abs/2503.22592v1)|**2025-03-28**|null|
 |**2025-03-28**|**Historical Ink: Exploring Large Language Models for Irony Detection in 19th-Century Spanish**|Kevin Cohen et.al.|[2503.22585v1](http://arxiv.org/abs/2503.22585v1)|**2025-03-28**|[link](https://github.com/historicalink/ironydetection)|
 |**2025-03-28**|**Optimal treatment regimes for the net benefit of a treatment**|François Petit et.al.|[2503.22580v1](http://arxiv.org/abs/2503.22580v1)|**2025-03-28**|null|
-|**2025-03-28**|**Deducing Cardiorespiratory Motion of Cardiac Substructures Using a Novel 5D-MRI Workflow for Radiotherapy**|Chase Ruff et.al.|[2503.22578v1](http://arxiv.org/abs/2503.22578v1)|**2025-03-28**|null|
+|**2025-03-28**|**Deducing Cardiorespiratory Motion of Cardiac Substructures Using a Novel 5D-MRI Workflow for Radiotherapy**|Chase Ruff et.al.|[2503.22578v2](http://arxiv.org/abs/2503.22578v2)|**2025-03-31**|null|
 |**2025-03-28**|**Breaking Language Barriers in Visual Language Models via Multilingual Textual Regularization**|Iñigo Pikabea et.al.|[2503.22577v1](http://arxiv.org/abs/2503.22577v1)|**2025-03-28**|null|
-|**2025-03-28**|**Leveraging partial coherence in interferometric microscopy to enhance nanoparticle detection sensitivity and throughput**|Chiara Lombardo et.al.|[2503.22565v1](http://arxiv.org/abs/2503.22565v1)|**2025-03-28**|null|
+|**2025-03-28**|**Leveraging partial coherence in interferometric microscopy to enhance nanoparticle detection sensitivity and throughput**|Chiara Lombardo et.al.|[2503.22565v2](http://arxiv.org/abs/2503.22565v2)|**2025-03-31**|null|
 |**2025-03-28**|**RELD: Regularization by Latent Diffusion Models for Image Restoration**|Pasquale Cascarano et.al.|[2503.22563v1](http://arxiv.org/abs/2503.22563v1)|**2025-03-28**|null|
 |**2025-03-28**|**Niyama : Breaking the Silos of LLM Inference Serving**|Kanishk Goel et.al.|[2503.22562v1](http://arxiv.org/abs/2503.22562v1)|**2025-03-28**|null|
 |**2025-03-28**|**Image Decomposition with G-norm Weighted by Total Symmetric Variation**|Roy Y. He et.al.|[2503.22560v1](http://arxiv.org/abs/2503.22560v1)|**2025-03-28**|null|
