@@ -20,7 +20,7 @@
 |**2025-03-31**|**Asymptotically distribution-free goodness-of-fit testing for point processes**|Justin Baars et.al.|[2503.24197v1](http://arxiv.org/abs/2503.24197v1)|**2025-03-31**|null|
 |**2025-03-31**|**NeuRaLaTeX: A machine learning library written in pure LaTeX**|James A. D. Gardner et.al.|[2503.24187v1](http://arxiv.org/abs/2503.24187v1)|**2025-03-31**|null|
 |**2025-03-31**|**Density wave order with antiphase feature associated with the pseudogap in cuprate superconductor Bi2+xSr2-xCuO6+delta**|Zhaohui Wang et.al.|[2503.24177v1](http://arxiv.org/abs/2503.24177v1)|**2025-03-31**|null|
-|**2025-03-31**|**Hamiltonian Dynamics Learning: A Scalable Approach to Quantum Process Characterization**|Yusen Wu et.al.|[2503.24171v1](http://arxiv.org/abs/2503.24171v1)|**2025-03-31**|null|
+|**2025-03-31**|**Hamiltonian Dynamics Learning: A Scalable Approach to Quantum Process Characterization**|Yusen Wu et.al.|[2503.24171v2](http://arxiv.org/abs/2503.24171v2)|**2025-04-01**|null|
 |**2025-03-31**|**Foundation Models For Seismic Data Processing: An Extensive Review**|Fabian Fuchs et.al.|[2503.24166v1](http://arxiv.org/abs/2503.24166v1)|**2025-03-31**|[link](https://codeberg.org/fuchsfa/foundation-models-seismic-processing)|
 |**2025-03-31**|**SVLA: A Unified Speech-Vision-Language Assistant with Multimodal Reasoning and Speech Generation**|Ngoc Dung Huynh et.al.|[2503.24164v1](http://arxiv.org/abs/2503.24164v1)|**2025-03-31**|null|
 |**2025-03-31**|**PixelCAM: Pixel Class Activation Mapping for Histology Image Classification and ROI Localization**|Alexis Guichemerre et.al.|[2503.24135v1](http://arxiv.org/abs/2503.24135v1)|**2025-03-31**|[link](https://github.com/alexisguichemerrecode/pixelcam)|
@@ -28,7 +28,7 @@
 |**2025-03-31**|**From Colors to Classes: Emergence of Concepts in Vision Transformers**|Teresa Dorszewski et.al.|[2503.24071v1](http://arxiv.org/abs/2503.24071v1)|**2025-03-31**|[link](https://github.com/teresa-sc/concepts_in_vits)|
 |**2025-03-31**|**TransMamba: Flexibly Switching between Transformer and Mamba**|Yixing Li et.al.|[2503.24067v1](http://arxiv.org/abs/2503.24067v1)|**2025-03-31**|null|
 |**2025-03-31**|**COSMO: Combination of Selective Memorization for Low-cost Vision-and-Language Navigation**|Siqi Zhang et.al.|[2503.24065v1](http://arxiv.org/abs/2503.24065v1)|**2025-03-31**|null|
-|**2025-03-31**|**A Deep Learning Framework for the Electronic Structure of Water: Towards a Universal Model**|Xinyuan Liang et.al.|[2503.24050v1](http://arxiv.org/abs/2503.24050v1)|**2025-03-31**|null|
+|**2025-03-31**|**A Deep Learning Framework for the Electronic Structure of Water: Towards a Universal Model**|Xinyuan Liang et.al.|[2503.24050v2](http://arxiv.org/abs/2503.24050v2)|**2025-04-01**|null|
 |**2025-03-31**|**An ANN-Enhanced Approach for Flatness-Based Constrained Control of Nonlinear Systems**|Huu-Thinh Do et.al.|[2503.24031v1](http://arxiv.org/abs/2503.24031v1)|**2025-03-31**|null|
 |**2025-03-31**|**On inequalities involving the spherical operator transforms**|Fuad Kittaneh et.al.|[2503.24015v1](http://arxiv.org/abs/2503.24015v1)|**2025-03-31**|null|
 |**2025-03-31**|**Learning 3D-Gaussian Simulators from RGB Videos**|Mikel Zhobro et.al.|[2503.24009v1](http://arxiv.org/abs/2503.24009v1)|**2025-03-31**|null|

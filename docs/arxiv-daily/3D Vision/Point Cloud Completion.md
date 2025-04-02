@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-31**|**Easi3R: Estimating Disentangled Motion from DUSt3R Without Training**|Xingyu Chen et.al.|[2503.24391v1](http://arxiv.org/abs/2503.24391v1)|**2025-03-31**|[link](https://github.com/inception3d/easi3r)|
 |**2025-03-31**|**How interacting Bose gases scatter light**|Konstantinos Konstantinou et.al.|[2503.24386v1](http://arxiv.org/abs/2503.24386v1)|**2025-03-31**|null|
-|**2025-03-31**|**Transverse orbital angular momentum: setting the record straight**|N. Tripathi et.al.|[2503.24375v1](http://arxiv.org/abs/2503.24375v1)|**2025-03-31**|null|
+|**2025-03-31**|**Transverse orbital angular momentum: setting the record straight**|N. Tripathi et.al.|[2503.24375v2](http://arxiv.org/abs/2503.24375v2)|**2025-04-01**|null|
 |**2025-03-31**|**A criterion on the free energy for log-Sobolev inequalities in mean-field particle systems**|R. Bauerschmidt et.al.|[2503.24372v1](http://arxiv.org/abs/2503.24372v1)|**2025-03-31**|null|
 |**2025-03-31**|**CMS Token Transition**|Brian Bockelman et.al.|[2503.24352v1](http://arxiv.org/abs/2503.24352v1)|**2025-03-31**|null|
 |**2025-03-31**|**On the unitarity and modularity of ribbon tensor categories associated with affine Lie algebras**|Daria Rudneva et.al.|[2503.24348v1](http://arxiv.org/abs/2503.24348v1)|**2025-03-31**|null|

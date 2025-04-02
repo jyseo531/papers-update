@@ -18,7 +18,7 @@
 |**2025-03-31**|**Point Tracking in Surgery--The 2024 Surgical Tattoos in Infrared (STIR) Challenge**|Adam Schmidt et.al.|[2503.24306v1](http://arxiv.org/abs/2503.24306v1)|**2025-03-31**|[link](https://github.com/athaddius/stirmetrics)|
 |**2025-03-31**|**Is analogy enough to draw novel adjective-noun inferences?**|Hayley Ross et.al.|[2503.24293v1](http://arxiv.org/abs/2503.24293v1)|**2025-03-31**|null|
 |**2025-03-31**|**BOWIE-ALIGN: Sub-stellar metallicity and carbon depletion in the aligned TrES-4b with JWST NIRSpec transmission spectroscopy**|Annabella Meech et.al.|[2503.24280v1](http://arxiv.org/abs/2503.24280v1)|**2025-03-31**|null|
-|**2025-03-31**|**Visual Acoustic Fields**|Yuelei Li et.al.|[2503.24270v1](http://arxiv.org/abs/2503.24270v1)|**2025-03-31**|null|
+|**2025-03-31**|**Visual Acoustic Fields**|Yuelei Li et.al.|[2503.24270v2](http://arxiv.org/abs/2503.24270v2)|**2025-04-01**|null|
 |**2025-03-31**|**EP240414a: Off-axis View of a Jet-Cocoon System from an Expanded Progenitor Star**|Jian-He Zheng et.al.|[2503.24266v1](http://arxiv.org/abs/2503.24266v1)|**2025-03-31**|null|
 |**2025-03-31**|**Enhancing Large Language Models (LLMs) for Telecommunications using Knowledge Graphs and Retrieval-Augmented Generation**|Dun Yuan et.al.|[2503.24245v1](http://arxiv.org/abs/2503.24245v1)|**2025-03-31**|null|
 |**2025-03-31**|**Orlando's flask: detection of a lost-and-found valley on the Moon**|Vito Squicciarini et.al.|[2503.24242v1](http://arxiv.org/abs/2503.24242v1)|**2025-03-31**|null|
@@ -28,7 +28,7 @@
 |**2025-03-31**|**Text2Tracks: Prompt-based Music Recommendation via Generative Retrieval**|Enrico Palumbo et.al.|[2503.24193v1](http://arxiv.org/abs/2503.24193v1)|**2025-03-31**|null|
 |**2025-03-31**|**Navi-plus: Managing Ambiguous GUI Navigation Tasks with Follow-up**|Ziming Cheng et.al.|[2503.24180v1](http://arxiv.org/abs/2503.24180v1)|**2025-03-31**|null|
 |**2025-03-31**|**SVLA: A Unified Speech-Vision-Language Assistant with Multimodal Reasoning and Speech Generation**|Ngoc Dung Huynh et.al.|[2503.24164v1](http://arxiv.org/abs/2503.24164v1)|**2025-03-31**|null|
-|**2025-03-31**|**A Comparative Study of Scanpath Models in Graph-Based Visualization**|Angela Lopez-Cardona et.al.|[2503.24160v1](http://arxiv.org/abs/2503.24160v1)|**2025-03-31**|null|
+|**2025-03-31**|**A Comparative Study of Scanpath Models in Graph-Based Visualization**|Angela Lopez-Cardona et.al.|[2503.24160v2](http://arxiv.org/abs/2503.24160v2)|**2025-04-01**|null|
 |**2025-03-31**|**Compression Metadata-assisted RoI Extraction and Adaptive Inference for Efficient Video Analytics**|Chengzhi Wang et.al.|[2503.24127v1](http://arxiv.org/abs/2503.24127v1)|**2025-03-31**|null|
 |**2025-03-31**|**CTSketch: Compositional Tensor Sketching for Scalable Neurosymbolic Learning**|Seewon Choi et.al.|[2503.24123v1](http://arxiv.org/abs/2503.24123v1)|**2025-03-31**|null|
 |**2025-03-31**|**A Complete Epistemic Temporal Logic for Intelligent Agent**|Zining Cao et.al.|[2503.24078v1](http://arxiv.org/abs/2503.24078v1)|**2025-03-31**|null|

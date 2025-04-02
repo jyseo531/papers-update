@@ -17,7 +17,7 @@
 |**2025-03-31**|**ERUPT: Efficient Rendering with Unposed Patch Transformer**|Maxim V. Shugaev et.al.|[2503.24374v1](http://arxiv.org/abs/2503.24374v1)|**2025-03-31**|null|
 |**2025-03-31**|**A criterion on the free energy for log-Sobolev inequalities in mean-field particle systems**|R. Bauerschmidt et.al.|[2503.24372v1](http://arxiv.org/abs/2503.24372v1)|**2025-03-31**|null|
 |**2025-03-31**|**Query and Conquer: Execution-Guided SQL Generation**|Łukasz Borchmann et.al.|[2503.24364v1](http://arxiv.org/abs/2503.24364v1)|**2025-03-31**|null|
-|**2025-03-31**|**Topological Phase Transition and Geometrical Frustration in Fourier Photonic Simulator**|Yuxuan Sun et.al.|[2503.24363v1](http://arxiv.org/abs/2503.24363v1)|**2025-03-31**|null|
+|**2025-03-31**|**Topological Phase Transition and Geometrical Frustration in Fourier Photonic Simulator**|Yuxuan Sun et.al.|[2503.24363v2](http://arxiv.org/abs/2503.24363v2)|**2025-04-01**|null|
 |**2025-03-31**|**Quench dynamics via recursion method and dynamical quantum phase transitions**|Ilya Shirokov et.al.|[2503.24362v1](http://arxiv.org/abs/2503.24362v1)|**2025-03-31**|null|
 |**2025-03-31**|**Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation**|Abhiram Maddukuri et.al.|[2503.24361v1](http://arxiv.org/abs/2503.24361v1)|**2025-03-31**|null|
 |**2025-03-31**|**Unique Decay Modes and Signatures of pNGB scalars in $SU(5)/SO(5)$ Composite Higgs Model**|Nilanjana Kumar et.al.|[2503.24360v1](http://arxiv.org/abs/2503.24360v1)|**2025-03-31**|null|

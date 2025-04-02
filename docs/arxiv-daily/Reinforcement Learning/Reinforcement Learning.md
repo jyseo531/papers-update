@@ -18,7 +18,7 @@
 |**2025-03-31**|**A Reactive Framework for Whole-Body Motion Planning of Mobile Manipulators Combining Reinforcement Learning and SDF-Constrained Quadratic Programmi**|Chenyu Zhang et.al.|[2503.23975v1](http://arxiv.org/abs/2503.23975v1)|**2025-03-31**|null|
 |**2025-03-31**|**Noise-based reward-modulated learning**|Jesús García Fernández et.al.|[2503.23972v1](http://arxiv.org/abs/2503.23972v1)|**2025-03-31**|null|
 |**2025-03-31**|**MAER-Nav: Bidirectional Motion Learning Through Mirror-Augmented Experience Replay for Robot Navigation**|Shanze Wang et.al.|[2503.23908v1](http://arxiv.org/abs/2503.23908v1)|**2025-03-31**|null|
-|**2025-03-31**|**Expanding RL with Verifiable Rewards Across Diverse Domains**|Yi Su et.al.|[2503.23829v1](http://arxiv.org/abs/2503.23829v1)|**2025-03-31**|null|
+|**2025-03-31**|**Crossing the Reward Bridge: Expanding RL with Verifiable Rewards Across Diverse Domains**|Yi Su et.al.|[2503.23829v2](http://arxiv.org/abs/2503.23829v2)|**2025-04-01**|null|
 |**2025-03-31**|**Accelerating High-Efficiency Organic Photovoltaic Discovery via Pretrained Graph Neural Networks and Generative Reinforcement Learning**|Jiangjie Qiu et.al.|[2503.23766v1](http://arxiv.org/abs/2503.23766v1)|**2025-03-31**|null|
 |**2025-03-31**|**ElimPCL: Eliminating Noise Accumulation with Progressive Curriculum Labeling for Source-Free Domain Adaptation**|Jie Cheng et.al.|[2503.23712v1](http://arxiv.org/abs/2503.23712v1)|**2025-03-31**|null|
 |**2025-03-31**|**Multi-Agent Deep Reinforcement Learning for Optimized Multi-UAV Coverage and Power-Efficient UE Connectivity**|Xuli Cai et.al.|[2503.23669v1](http://arxiv.org/abs/2503.23669v1)|**2025-03-31**|null|

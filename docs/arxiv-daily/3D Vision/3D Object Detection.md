@@ -7,7 +7,7 @@
 |**2025-03-31**|**SU-YOLO: Spiking Neural Network for Efficient Underwater Object Detection**|Chenyang Li et.al.|[2503.24389v1](http://arxiv.org/abs/2503.24389v1)|**2025-03-31**|[link](https://github.com/lwxfight/snn-underwater)|
 |**2025-03-31**|**Consistent Subject Generation via Contrastive Instantiated Concepts**|Lee Hsin-Ying et.al.|[2503.24387v1](http://arxiv.org/abs/2503.24387v1)|**2025-03-31**|null|
 |**2025-03-31**|**Free360: Layered Gaussian Splatting for Unbounded 360-Degree View Synthesis from Extremely Sparse and Unposed Views**|Chong Bao et.al.|[2503.24382v1](http://arxiv.org/abs/2503.24382v1)|**2025-03-31**|null|
-|**2025-03-31**|**Transverse orbital angular momentum: setting the record straight**|N. Tripathi et.al.|[2503.24375v1](http://arxiv.org/abs/2503.24375v1)|**2025-03-31**|null|
+|**2025-03-31**|**Transverse orbital angular momentum: setting the record straight**|N. Tripathi et.al.|[2503.24375v2](http://arxiv.org/abs/2503.24375v2)|**2025-04-01**|null|
 |**2025-03-31**|**Policy Gradient for LQR with Domain Randomization**|Tesshu Fujinami et.al.|[2503.24371v1](http://arxiv.org/abs/2503.24371v1)|**2025-03-31**|null|
 |**2025-03-31**|**StochasticSplats: Stochastic Rasterization for Sorting-Free 3D Gaussian Splatting**|Shakiba Kheradmand et.al.|[2503.24366v1](http://arxiv.org/abs/2503.24366v1)|**2025-03-31**|null|
 |**2025-03-31**|**Which LIME should I trust? Concepts, Challenges, and Solutions**|Patrick Knab et.al.|[2503.24365v1](http://arxiv.org/abs/2503.24365v1)|**2025-03-31**|null|
@@ -23,7 +23,7 @@
 |**2025-03-31**|**Value of Information-based Deceptive Path Planning Under Adversarial Interventions**|Wesley A. Suttle et.al.|[2503.24284v1](http://arxiv.org/abs/2503.24284v1)|**2025-03-31**|null|
 |**2025-03-31**|**BOWIE-ALIGN: Sub-stellar metallicity and carbon depletion in the aligned TrES-4b with JWST NIRSpec transmission spectroscopy**|Annabella Meech et.al.|[2503.24280v1](http://arxiv.org/abs/2503.24280v1)|**2025-03-31**|null|
 |**2025-03-31**|**AutoEval: Autonomous Evaluation of Generalist Robot Manipulation Policies in the Real World**|Zhiyuan Zhou et.al.|[2503.24278v1](http://arxiv.org/abs/2503.24278v1)|**2025-03-31**|[link](https://github.com/zhouzypaul/auto_eval)|
-|**2025-03-31**|**Visual Acoustic Fields**|Yuelei Li et.al.|[2503.24270v1](http://arxiv.org/abs/2503.24270v1)|**2025-03-31**|null|
+|**2025-03-31**|**Visual Acoustic Fields**|Yuelei Li et.al.|[2503.24270v2](http://arxiv.org/abs/2503.24270v2)|**2025-04-01**|null|
 |**2025-03-31**|**A direct detection method of galaxy intrinsic ellipticity-gravitational shear correlation in non-linear regimes using self-calibration**|Avijit Bera et.al.|[2503.24269v1](http://arxiv.org/abs/2503.24269v1)|**2025-03-31**|null|
 |**2025-03-31**|**FakeScope: Large Multimodal Expert Model for Transparent AI-Generated Image Forensics**|Yixuan Li et.al.|[2503.24267v1](http://arxiv.org/abs/2503.24267v1)|**2025-03-31**|null|
 |**2025-03-31**|**Extended signatures and link concordance**|David Cimasoni et.al.|[2503.24264v1](http://arxiv.org/abs/2503.24264v1)|**2025-03-31**|null|

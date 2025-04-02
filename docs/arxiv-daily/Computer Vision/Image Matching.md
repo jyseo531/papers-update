@@ -15,7 +15,7 @@
 |**2025-03-31**|**Single-Shot Matrix-Matrix Multiplication Optical Tensor Processor for Deep Learning**|Chao Luan et.al.|[2503.24356v1](http://arxiv.org/abs/2503.24356v1)|**2025-03-31**|null|
 |**2025-03-31**|**PathOrchestra: A Comprehensive Foundation Model for Computational Pathology with Over 100 Diverse Clinical-Grade Tasks**|Fang Yan et.al.|[2503.24345v1](http://arxiv.org/abs/2503.24345v1)|**2025-03-31**|null|
 |**2025-03-31**|**Linear Reweighted Regularization Algorithms for Graph Matching Problem**|Rongxuan Li et.al.|[2503.24329v1](http://arxiv.org/abs/2503.24329v1)|**2025-03-31**|null|
-|**2025-03-31**|**Self-Supervised Pretraining for Aerial Road Extraction**|Rupert Polley et.al.|[2503.24326v1](http://arxiv.org/abs/2503.24326v1)|**2025-03-31**|null|
+|**2025-03-31**|**Self-Supervised Pretraining for Aerial Road Extraction**|Rupert Polley et.al.|[2503.24326v2](http://arxiv.org/abs/2503.24326v2)|**2025-04-01**|null|
 |**2025-03-31**|**NoProp: Training Neural Networks without Back-propagation or Forward-propagation**|Qinyu Li et.al.|[2503.24322v1](http://arxiv.org/abs/2503.24322v1)|**2025-03-31**|null|
 |**2025-03-31**|**Structure and Fragmentation Scale of a Massive Star-Forming Filament in NGC6334: High-Resolution Mid-Infrared Absorption Imaging with JWST**|Philippe André et.al.|[2503.24316v1](http://arxiv.org/abs/2503.24316v1)|**2025-03-31**|null|
 |**2025-03-31**|**ALMA Band 3 Selection of Ultra-high Redshift Dropouts: The final challenge to ΛCDM**|C. Lovell et.al.|[2503.24312v1](http://arxiv.org/abs/2503.24312v1)|**2025-03-31**|null|
@@ -24,7 +24,7 @@
 |**2025-03-31**|**Non-classical optimization through complex media**|Baptiste Courme et.al.|[2503.24283v1](http://arxiv.org/abs/2503.24283v1)|**2025-03-31**|null|
 |**2025-03-31**|**Style Quantization for Data-Efficient GAN Training**|Jian Wang et.al.|[2503.24282v1](http://arxiv.org/abs/2503.24282v1)|**2025-03-31**|null|
 |**2025-03-31**|**Enhancing Image Resolution of Solar Magnetograms: A Latent Diffusion Model Approach**|Francesco Pio Ramunno et.al.|[2503.24271v1](http://arxiv.org/abs/2503.24271v1)|**2025-03-31**|null|
-|**2025-03-31**|**Visual Acoustic Fields**|Yuelei Li et.al.|[2503.24270v1](http://arxiv.org/abs/2503.24270v1)|**2025-03-31**|null|
+|**2025-03-31**|**Visual Acoustic Fields**|Yuelei Li et.al.|[2503.24270v2](http://arxiv.org/abs/2503.24270v2)|**2025-04-01**|null|
 |**2025-03-31**|**FakeScope: Large Multimodal Expert Model for Transparent AI-Generated Image Forensics**|Yixuan Li et.al.|[2503.24267v1](http://arxiv.org/abs/2503.24267v1)|**2025-03-31**|null|
 |**2025-03-31**|**Extended signatures and link concordance**|David Cimasoni et.al.|[2503.24264v1](http://arxiv.org/abs/2503.24264v1)|**2025-03-31**|null|
 |**2025-03-31**|**Beyond a Single Mode: GAN Ensembles for Diverse Medical Data Generation**|Lorenzo Tronchin et.al.|[2503.24258v1](http://arxiv.org/abs/2503.24258v1)|**2025-03-31**|null|

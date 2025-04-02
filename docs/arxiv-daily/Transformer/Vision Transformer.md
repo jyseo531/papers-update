@@ -20,7 +20,7 @@
 |**2025-03-31**|**PathOrchestra: A Comprehensive Foundation Model for Computational Pathology with Over 100 Diverse Clinical-Grade Tasks**|Fang Yan et.al.|[2503.24345v1](http://arxiv.org/abs/2503.24345v1)|**2025-03-31**|null|
 |**2025-03-31**|**Spontaneous Emission from Electronic Metastable Resonance States**|Amir Sivan et.al.|[2503.24338v1](http://arxiv.org/abs/2503.24338v1)|**2025-03-31**|null|
 |**2025-03-31**|**Linear Reweighted Regularization Algorithms for Graph Matching Problem**|Rongxuan Li et.al.|[2503.24329v1](http://arxiv.org/abs/2503.24329v1)|**2025-03-31**|null|
-|**2025-03-31**|**Self-Supervised Pretraining for Aerial Road Extraction**|Rupert Polley et.al.|[2503.24326v1](http://arxiv.org/abs/2503.24326v1)|**2025-03-31**|null|
+|**2025-03-31**|**Self-Supervised Pretraining for Aerial Road Extraction**|Rupert Polley et.al.|[2503.24326v2](http://arxiv.org/abs/2503.24326v2)|**2025-04-01**|null|
 |**2025-03-31**|**Can Test-Time Scaling Improve World Foundation Model?**|Wenyan Cong et.al.|[2503.24320v1](http://arxiv.org/abs/2503.24320v1)|**2025-03-31**|null|
 |**2025-03-31**|**Point Tracking in Surgery--The 2024 Surgical Tattoos in Infrared (STIR) Challenge**|Adam Schmidt et.al.|[2503.24306v1](http://arxiv.org/abs/2503.24306v1)|**2025-03-31**|[link](https://github.com/athaddius/stirmetrics)|
 |**2025-03-31**|**Synergy of Doob Transformation and Montroll Defect Theory for Random Walks in External Potentials**|Stanislav Burov et.al.|[2503.24302v1](http://arxiv.org/abs/2503.24302v1)|**2025-03-31**|null|
@@ -29,6 +29,6 @@
 |**2025-03-31**|**Pyrometheus: Symbolic abstractions for XPU and automatically differentiated computation of combustion kinetics and thermodynamics**|Esteban Cisneros-Garibay et.al.|[2503.24286v1](http://arxiv.org/abs/2503.24286v1)|**2025-03-31**|[link](https://github.com/pyrometheus/pyrometheus)|
 |**2025-03-31**|**Style Quantization for Data-Efficient GAN Training**|Jian Wang et.al.|[2503.24282v1](http://arxiv.org/abs/2503.24282v1)|**2025-03-31**|null|
 |**2025-03-31**|**Learning Velocity and Acceleration: Self-Supervised Motion Consistency for Pedestrian Trajectory Prediction**|Yizhou Huang et.al.|[2503.24272v1](http://arxiv.org/abs/2503.24272v1)|**2025-03-31**|null|
-|**2025-03-31**|**Visual Acoustic Fields**|Yuelei Li et.al.|[2503.24270v1](http://arxiv.org/abs/2503.24270v1)|**2025-03-31**|null|
+|**2025-03-31**|**Visual Acoustic Fields**|Yuelei Li et.al.|[2503.24270v2](http://arxiv.org/abs/2503.24270v2)|**2025-04-01**|null|
 |**2025-03-31**|**FakeScope: Large Multimodal Expert Model for Transparent AI-Generated Image Forensics**|Yixuan Li et.al.|[2503.24267v1](http://arxiv.org/abs/2503.24267v1)|**2025-03-31**|null|
 |**2025-03-31**|**Beyond a Single Mode: GAN Ensembles for Diverse Medical Data Generation**|Lorenzo Tronchin et.al.|[2503.24258v1](http://arxiv.org/abs/2503.24258v1)|**2025-03-31**|null|

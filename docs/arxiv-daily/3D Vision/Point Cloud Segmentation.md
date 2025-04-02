@@ -3,11 +3,11 @@
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-31**|**Easi3R: Estimating Disentangled Motion from DUSt3R Without Training**|Xingyu Chen et.al.|[2503.24391v1](http://arxiv.org/abs/2503.24391v1)|**2025-03-31**|[link](https://github.com/inception3d/easi3r)|
-|**2025-03-31**|**Transverse orbital angular momentum: setting the record straight**|N. Tripathi et.al.|[2503.24375v1](http://arxiv.org/abs/2503.24375v1)|**2025-03-31**|null|
+|**2025-03-31**|**Transverse orbital angular momentum: setting the record straight**|N. Tripathi et.al.|[2503.24375v2](http://arxiv.org/abs/2503.24375v2)|**2025-04-01**|null|
 |**2025-03-31**|**A criterion on the free energy for log-Sobolev inequalities in mean-field particle systems**|R. Bauerschmidt et.al.|[2503.24372v1](http://arxiv.org/abs/2503.24372v1)|**2025-03-31**|null|
 |**2025-03-31**|**Adapting Vision Foundation Models for Real-time Ultrasound Image Segmentation**|Xiaoran Zhang et.al.|[2503.24368v1](http://arxiv.org/abs/2503.24368v1)|**2025-03-31**|null|
 |**2025-03-31**|**Critical quantum metrology using non-Hermitian spin model with RT-symmetry**|Keshav Das Agarwal et.al.|[2503.24331v1](http://arxiv.org/abs/2503.24331v1)|**2025-03-31**|null|
-|**2025-03-31**|**Self-Supervised Pretraining for Aerial Road Extraction**|Rupert Polley et.al.|[2503.24326v1](http://arxiv.org/abs/2503.24326v1)|**2025-03-31**|null|
+|**2025-03-31**|**Self-Supervised Pretraining for Aerial Road Extraction**|Rupert Polley et.al.|[2503.24326v2](http://arxiv.org/abs/2503.24326v2)|**2025-04-01**|null|
 |**2025-03-31**|**Structure and Fragmentation Scale of a Massive Star-Forming Filament in NGC6334: High-Resolution Mid-Infrared Absorption Imaging with JWST**|Philippe André et.al.|[2503.24316v1](http://arxiv.org/abs/2503.24316v1)|**2025-03-31**|null|
 |**2025-03-31**|**Point Tracking in Surgery--The 2024 Surgical Tattoos in Infrared (STIR) Challenge**|Adam Schmidt et.al.|[2503.24306v1](http://arxiv.org/abs/2503.24306v1)|**2025-03-31**|[link](https://github.com/athaddius/stirmetrics)|
 |**2025-03-31**|**Style Quantization for Data-Efficient GAN Training**|Jian Wang et.al.|[2503.24282v1](http://arxiv.org/abs/2503.24282v1)|**2025-03-31**|null|
