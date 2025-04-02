@@ -184,6 +184,7 @@ Updated on 2025-04-02
 | 5 | 1 | sail-rvc/SpongebobAudio-to-Audio | UpdatedJul 14, 2023 | [Link](https://huggingface.co/sail-rvc/Spongebob) |
 | 5.52k | 1 | sail-rvc/Lana_Del_Rey_e1000_s13000Audio-to-Audio | UpdatedJul 14, 2023 | [Link](https://huggingface.co/sail-rvc/Lana_Del_Rey_e1000_s13000) |
 | 7 | 1 | sail-rvc/KORONEAudio-to-Audio | UpdatedJul 14, 2023 | [Link](https://huggingface.co/sail-rvc/KORONE) |
+| 24 | 1 | lichenda/wsj0_2mix_skim_small_causalAudio-to-Audio | UpdatedMay 17, 2023 | [Link](https://huggingface.co/lichenda/wsj0_2mix_skim_small_causal) |
 | 1.36k |  | speechbrain/sepformer-whamAudio-to-Audio | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/speechbrain/sepformer-wham) |
 | 16.8k |  | speechbrain/sepformer-wham16k-enhancementAudio-to-Audio | UpdatedFeb 25, 2024 | [Link](https://huggingface.co/speechbrain/sepformer-wham16k-enhancement) |
 | 11 | Unknown | Wanlau/RVC_BanGDreamAudio-to-Audio | Updated2 days ago | [Link](https://huggingface.co/Wanlau/RVC_BanGDream) |
@@ -1523,6 +1524,7 @@ Updated on 2025-04-02
 | Unknown | Unknown | pleasefill/mesoloRobotics | UpdatedFeb 2, 2024 | [Link](https://huggingface.co/pleasefill/mesolo) |
 | 1 | Unknown | Fanqi-Lin/Task-ModelsRobotics | UpdatedNov 13, 2024 | [Link](https://huggingface.co/Fanqi-Lin/Task-Models) |
 | 1 | Unknown | 2toINF/UniActRobotics | Updatedabout 10 hours ago | [Link](https://huggingface.co/2toINF/UniAct) |
+| 2 | Unknown | lianganimation/TokenHSIRobotics | Updatedabout 11 hours ago | [Link](https://huggingface.co/lianganimation/TokenHSI) |
 
 ## Sentence Similarity
 
@@ -2252,6 +2254,7 @@ Updated on 2025-04-02
 | 682 |  | KappaNeuro/studio-ghibli-styleText-to-Image | UpdatedSep 14, 2023 | [Link](https://huggingface.co/KappaNeuro/studio-ghibli-style) |
 | 118 |  | codermert/ezel2_fluxxText-to-Image | Updated21 days ago | [Link](https://huggingface.co/codermert/ezel2_fluxx) |
 | 169 |  | codermert/ozgeee3_fluxxxText-to-Image | Updated8 days ago | [Link](https://huggingface.co/codermert/ozgeee3_fluxxx) |
+| 1.12k |  | alvarobartt/ghibli-characters-flux-loraText-to-Image | UpdatedNov 19, 2024 | [Link](https://huggingface.co/alvarobartt/ghibli-characters-flux-lora) |
 
 ## Text-to-Speech
 
