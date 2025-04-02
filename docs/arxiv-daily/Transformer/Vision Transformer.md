@@ -3,6 +3,7 @@
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-31**|**Easi3R: Estimating Disentangled Motion from DUSt3R Without Training**|Xingyu Chen et.al.|[2503.24391v1](http://arxiv.org/abs/2503.24391v1)|**2025-03-31**|[link](https://github.com/inception3d/easi3r)|
+|**2025-03-31**|**RIG: Synergizing Reasoning and Imagination in End-to-End Generalist Policy**|Zhonghan Zhao et.al.|[2503.24388v1](http://arxiv.org/abs/2503.24388v1)|**2025-03-31**|null|
 |**2025-03-31**|**SU-YOLO: Spiking Neural Network for Efficient Underwater Object Detection**|Chenyang Li et.al.|[2503.24389v1](http://arxiv.org/abs/2503.24389v1)|**2025-03-31**|[link](https://github.com/lwxfight/snn-underwater)|
 |**2025-03-31**|**Consistent Subject Generation via Contrastive Instantiated Concepts**|Lee Hsin-Ying et.al.|[2503.24387v1](http://arxiv.org/abs/2503.24387v1)|**2025-03-31**|null|
 |**2025-03-31**|**Free360: Layered Gaussian Splatting for Unbounded 360-Degree View Synthesis from Extremely Sparse and Unposed Views**|Chong Bao et.al.|[2503.24382v1](http://arxiv.org/abs/2503.24382v1)|**2025-03-31**|null|
@@ -31,4 +32,3 @@
 |**2025-03-31**|**Learning Velocity and Acceleration: Self-Supervised Motion Consistency for Pedestrian Trajectory Prediction**|Yizhou Huang et.al.|[2503.24272v1](http://arxiv.org/abs/2503.24272v1)|**2025-03-31**|null|
 |**2025-03-31**|**Visual Acoustic Fields**|Yuelei Li et.al.|[2503.24270v2](http://arxiv.org/abs/2503.24270v2)|**2025-04-01**|null|
 |**2025-03-31**|**FakeScope: Large Multimodal Expert Model for Transparent AI-Generated Image Forensics**|Yixuan Li et.al.|[2503.24267v1](http://arxiv.org/abs/2503.24267v1)|**2025-03-31**|null|
-|**2025-03-31**|**Beyond a Single Mode: GAN Ensembles for Diverse Medical Data Generation**|Lorenzo Tronchin et.al.|[2503.24258v1](http://arxiv.org/abs/2503.24258v1)|**2025-03-31**|null|

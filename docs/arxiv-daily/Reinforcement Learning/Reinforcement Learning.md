@@ -15,6 +15,7 @@
 |**2025-03-31**|**Level the Level: Balancing Game Levels for Asymmetric Player Archetypes With Reinforcement Learning**|Florian Rupp et.al.|[2503.24099v1](http://arxiv.org/abs/2503.24099v1)|**2025-03-31**|null|
 |**2025-03-31**|**HACTS: a Human-As-Copilot Teleoperation System for Robot Learning**|Zhiyuan Xu et.al.|[2503.24070v1](http://arxiv.org/abs/2503.24070v1)|**2025-03-31**|null|
 |**2025-03-31**|**Impact of Amplitude and Phase Damping Noise on Quantum Reinforcement Learning: Challenges and Opportunities**|María Laura Olivera-Atencio et.al.|[2503.24069v1](http://arxiv.org/abs/2503.24069v1)|**2025-03-31**|null|
+|**2025-03-31**|**A Quantum Energy Inequality for a Non-commutative QFT**|Harald Grosse et.al.|[2503.24068v2](http://arxiv.org/abs/2503.24068v2)|**2025-04-01**|null|
 |**2025-03-31**|**A Reactive Framework for Whole-Body Motion Planning of Mobile Manipulators Combining Reinforcement Learning and SDF-Constrained Quadratic Programmi**|Chenyu Zhang et.al.|[2503.23975v1](http://arxiv.org/abs/2503.23975v1)|**2025-03-31**|null|
 |**2025-03-31**|**Noise-based reward-modulated learning**|Jesús García Fernández et.al.|[2503.23972v1](http://arxiv.org/abs/2503.23972v1)|**2025-03-31**|null|
 |**2025-03-31**|**MAER-Nav: Bidirectional Motion Learning Through Mirror-Augmented Experience Replay for Robot Navigation**|Shanze Wang et.al.|[2503.23908v1](http://arxiv.org/abs/2503.23908v1)|**2025-03-31**|null|
@@ -31,4 +32,3 @@
 |**2025-03-30**|**BiPVL-Seg: Bidirectional Progressive Vision-Language Fusion with Global-Local Alignment for Medical Image Segmentation**|Rafi Ibn Sultan et.al.|[2503.23534v1](http://arxiv.org/abs/2503.23534v1)|**2025-03-30**|null|
 |**2025-03-30**|**Federated Self-Supervised Learning for One-Shot Cross-Modal and Cross-Imaging Technique Segmentation**|Siladittya Manna et.al.|[2503.23507v1](http://arxiv.org/abs/2503.23507v1)|**2025-03-30**|null|
 |**2025-03-30**|**Benchmarking Systematic Relational Reasoning with Large Language and Reasoning Models**|Irtaza Khalid et.al.|[2503.23487v1](http://arxiv.org/abs/2503.23487v1)|**2025-03-30**|null|
-|**2025-03-30**|**A Systematic Decade Review of Trip Route Planning with Travel Time Estimation based on User Preferences and Behavior**|Nikil Jayasuriya et.al.|[2503.23486v1](http://arxiv.org/abs/2503.23486v1)|**2025-03-30**|null|
