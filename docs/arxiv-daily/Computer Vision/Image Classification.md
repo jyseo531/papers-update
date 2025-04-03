@@ -24,11 +24,11 @@
 |**2025-03-31**|**Order Matters: On Parameter-Efficient Image-to-Video Probing for Recognizing Nearly Symmetric Actions**|Thinesh Thiyakesan Ponbagavathi et.al.|[2503.24298v1](http://arxiv.org/abs/2503.24298v1)|**2025-03-31**|null|
 |**2025-03-31**|**Non-classical optimization through complex media**|Baptiste Courme et.al.|[2503.24283v1](http://arxiv.org/abs/2503.24283v1)|**2025-03-31**|null|
 |**2025-03-31**|**Style Quantization for Data-Efficient GAN Training**|Jian Wang et.al.|[2503.24282v1](http://arxiv.org/abs/2503.24282v1)|**2025-03-31**|null|
-|**2025-03-31**|**Enhancing Image Resolution of Solar Magnetograms: A Latent Diffusion Model Approach**|Francesco Pio Ramunno et.al.|[2503.24271v1](http://arxiv.org/abs/2503.24271v1)|**2025-03-31**|null|
+|**2025-03-31**|**Enhancing Image Resolution of Solar Magnetograms: A Latent Diffusion Model Approach**|Francesco Pio Ramunno et.al.|[2503.24271v1](http://arxiv.org/abs/2503.24271v1)|**2025-03-31**|[link](https://github.com/fpramunno/ldm_superresolution)|
 |**2025-03-31**|**Visual Acoustic Fields**|Yuelei Li et.al.|[2503.24270v2](http://arxiv.org/abs/2503.24270v2)|**2025-04-01**|null|
 |**2025-03-31**|**FakeScope: Large Multimodal Expert Model for Transparent AI-Generated Image Forensics**|Yixuan Li et.al.|[2503.24267v1](http://arxiv.org/abs/2503.24267v1)|**2025-03-31**|null|
 |**2025-03-31**|**Extended signatures and link concordance**|David Cimasoni et.al.|[2503.24264v1](http://arxiv.org/abs/2503.24264v1)|**2025-03-31**|null|
-|**2025-03-31**|**Beyond a Single Mode: GAN Ensembles for Diverse Medical Data Generation**|Lorenzo Tronchin et.al.|[2503.24258v1](http://arxiv.org/abs/2503.24258v1)|**2025-03-31**|null|
+|**2025-03-31**|**Beyond a Single Mode: GAN Ensembles for Diverse Medical Data Generation**|Lorenzo Tronchin et.al.|[2503.24258v1](http://arxiv.org/abs/2503.24258v1)|**2025-03-31**|[link](https://github.com/ltronchin/gan-ensembles)|
 |**2025-03-31**|**Optimizing PCA for Health and Care Research: A Reliable Approach to Component Selection**|Nuwan Weeraratne et.al.|[2503.24248v1](http://arxiv.org/abs/2503.24248v1)|**2025-03-31**|null|
 |**2025-03-31**|**Orlando's flask: detection of a lost-and-found valley on the Moon**|Vito Squicciarini et.al.|[2503.24242v1](http://arxiv.org/abs/2503.24242v1)|**2025-03-31**|null|
 |**2025-03-31**|**Pre-training with 3D Synthetic Data: Learning 3D Point Cloud Instance Segmentation from 3D Synthetic Scenes**|Daichi Otsuka et.al.|[2503.24229v1](http://arxiv.org/abs/2503.24229v1)|**2025-03-31**|null|

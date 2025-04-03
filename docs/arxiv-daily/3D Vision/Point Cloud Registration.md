@@ -20,7 +20,7 @@
 |**2025-03-31**|**Traffic Engineering in Large-scale Networks with Generalizable Graph Neural Networks**|Fangtong Zhou et.al.|[2503.24203v1](http://arxiv.org/abs/2503.24203v1)|**2025-03-31**|null|
 |**2025-03-31**|**Asymptotically distribution-free goodness-of-fit testing for point processes**|Justin Baars et.al.|[2503.24197v1](http://arxiv.org/abs/2503.24197v1)|**2025-03-31**|null|
 |**2025-03-31**|**Quantum superalgebras and the free-fermionic Yang-Baxter equation**|Ben Brubaker et.al.|[2503.24189v1](http://arxiv.org/abs/2503.24189v1)|**2025-03-31**|null|
-|**2025-03-31**|**NeuRaLaTeX: A machine learning library written in pure LaTeX**|James A. D. Gardner et.al.|[2503.24187v1](http://arxiv.org/abs/2503.24187v1)|**2025-03-31**|null|
+|**2025-03-31**|**NeuRaLaTeX: A machine learning library written in pure LaTeX**|James A. D. Gardner et.al.|[2503.24187v2](http://arxiv.org/abs/2503.24187v2)|**2025-04-02**|null|
 |**2025-03-31**|**Low-energy electron microscopy as a tool for analysis of self-assembled molecular layers on surfaces**|Jan Čechal et.al.|[2503.24174v1](http://arxiv.org/abs/2503.24174v1)|**2025-03-31**|null|
 |**2025-03-31**|**LLM4FS: Leveraging Large Language Models for Feature Selection and How to Improve It**|Jianhao Li et.al.|[2503.24157v1](http://arxiv.org/abs/2503.24157v1)|**2025-03-31**|null|
 |**2025-03-31**|**The Influence of an Adjoint Mismatch on the Primal-Dual Douglas-Rachford Method**|Emanuele Naldi et.al.|[2503.24141v1](http://arxiv.org/abs/2503.24141v1)|**2025-03-31**|null|
@@ -31,4 +31,4 @@
 |**2025-03-31**|**Constructing Chayet-Garibaldi algebras from affine vertex algebras (including the 3876-dimensional algebra for $E_8$)**|Tom De Medts et.al.|[2503.24103v1](http://arxiv.org/abs/2503.24103v1)|**2025-03-31**|null|
 |**2025-03-31**|**Fuzzing-based Mutation Testing of C/C++ CPS**|Jaekwon Lee et.al.|[2503.24100v1](http://arxiv.org/abs/2503.24100v1)|**2025-03-31**|null|
 |**2025-03-31**|**Systematic Search for FFPs in KMTNet Full-Frame Images. I. Photometry Pipeline**|Qiyue Qian et.al.|[2503.24097v1](http://arxiv.org/abs/2503.24097v1)|**2025-03-31**|null|
-|**2025-03-31**|**Controlled Latent Diffusion Models for 3D Porous Media Reconstruction**|Danilo Naiff et.al.|[2503.24083v1](http://arxiv.org/abs/2503.24083v1)|**2025-03-31**|null|
+|**2025-03-31**|**Controlled Latent Diffusion Models for 3D Porous Media Reconstruction**|Danilo Naiff et.al.|[2503.24083v1](http://arxiv.org/abs/2503.24083v1)|**2025-03-31**|[link](https://github.com/Lacadame/PoreGen)|

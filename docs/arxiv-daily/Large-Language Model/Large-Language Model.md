@@ -24,7 +24,7 @@
 |**2025-03-31**|**Which LIME should I trust? Concepts, Challenges, and Solutions**|Patrick Knab et.al.|[2503.24365v1](http://arxiv.org/abs/2503.24365v1)|**2025-03-31**|null|
 |**2025-03-31**|**Query and Conquer: Execution-Guided SQL Generation**|Łukasz Borchmann et.al.|[2503.24364v1](http://arxiv.org/abs/2503.24364v1)|**2025-03-31**|null|
 |**2025-03-31**|**Topological Phase Transition and Geometrical Frustration in Fourier Photonic Simulator**|Yuxuan Sun et.al.|[2503.24363v2](http://arxiv.org/abs/2503.24363v2)|**2025-04-01**|null|
-|**2025-03-31**|**Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation**|Abhiram Maddukuri et.al.|[2503.24361v1](http://arxiv.org/abs/2503.24361v1)|**2025-03-31**|null|
+|**2025-03-31**|**Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation**|Abhiram Maddukuri et.al.|[2503.24361v2](http://arxiv.org/abs/2503.24361v2)|**2025-04-02**|null|
 |**2025-03-31**|**Unique Decay Modes and Signatures of pNGB scalars in $SU(5)/SO(5)$ Composite Higgs Model**|Nilanjana Kumar et.al.|[2503.24360v1](http://arxiv.org/abs/2503.24360v1)|**2025-03-31**|null|
 |**2025-03-31**|**Unveiling the Fast Acceleration of AGN-Driven Winds at Kiloparsec Scales**|Cosimo Marconcini et.al.|[2503.24359v1](http://arxiv.org/abs/2503.24359v1)|**2025-03-31**|null|
 |**2025-03-31**|**SQuat: Subspace-orthogonal KV Cache Quantization**|Hao Wang et.al.|[2503.24358v1](http://arxiv.org/abs/2503.24358v1)|**2025-03-31**|null|

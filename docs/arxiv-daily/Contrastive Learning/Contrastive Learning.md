@@ -14,7 +14,7 @@
 |**2025-03-31**|**The structure and topology of an amorphous metal-organic framework**|Thomas C. Nicholas et.al.|[2503.24367v1](http://arxiv.org/abs/2503.24367v1)|**2025-03-31**|null|
 |**2025-03-31**|**Which LIME should I trust? Concepts, Challenges, and Solutions**|Patrick Knab et.al.|[2503.24365v1](http://arxiv.org/abs/2503.24365v1)|**2025-03-31**|null|
 |**2025-03-31**|**Topological Phase Transition and Geometrical Frustration in Fourier Photonic Simulator**|Yuxuan Sun et.al.|[2503.24363v2](http://arxiv.org/abs/2503.24363v2)|**2025-04-01**|null|
-|**2025-03-31**|**Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation**|Abhiram Maddukuri et.al.|[2503.24361v1](http://arxiv.org/abs/2503.24361v1)|**2025-03-31**|null|
+|**2025-03-31**|**Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation**|Abhiram Maddukuri et.al.|[2503.24361v2](http://arxiv.org/abs/2503.24361v2)|**2025-04-02**|null|
 |**2025-03-31**|**SQuat: Subspace-orthogonal KV Cache Quantization**|Hao Wang et.al.|[2503.24358v1](http://arxiv.org/abs/2503.24358v1)|**2025-03-31**|null|
 |**2025-03-31**|**Single-Shot Matrix-Matrix Multiplication Optical Tensor Processor for Deep Learning**|Chao Luan et.al.|[2503.24356v1](http://arxiv.org/abs/2503.24356v1)|**2025-03-31**|null|
 |**2025-03-31**|**ORAL: Prompting Your Large-Scale LoRAs via Conditional Recurrent Diffusion**|Rana Muhammad Shahroz Khan et.al.|[2503.24354v1](http://arxiv.org/abs/2503.24354v1)|**2025-03-31**|null|

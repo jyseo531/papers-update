@@ -25,7 +25,7 @@
 |**2025-03-31**|**Double-jump phase transition for the reverse Littlewood--Offord problem**|Lawrence Hollom et.al.|[2503.24202v1](http://arxiv.org/abs/2503.24202v1)|**2025-03-31**|null|
 |**2025-03-31**|**An elementary question of Erdős and Graham**|Norbert Hegyvári et.al.|[2503.24201v1](http://arxiv.org/abs/2503.24201v1)|**2025-03-31**|null|
 |**2025-03-31**|**TwT: Thinking without Tokens by Habitual Reasoning Distillation with Multi-Teachers' Guidance**|Jingxian Xu et.al.|[2503.24198v1](http://arxiv.org/abs/2503.24198v1)|**2025-03-31**|null|
-|**2025-03-31**|**Text2Tracks: Prompt-based Music Recommendation via Generative Retrieval**|Enrico Palumbo et.al.|[2503.24193v1](http://arxiv.org/abs/2503.24193v1)|**2025-03-31**|null|
+|**2025-03-31**|**Text2Tracks: Prompt-based Music Recommendation via Generative Retrieval**|Enrico Palumbo et.al.|[2503.24193v2](http://arxiv.org/abs/2503.24193v2)|**2025-04-02**|null|
 |**2025-03-31**|**Navi-plus: Managing Ambiguous GUI Navigation Tasks with Follow-up**|Ziming Cheng et.al.|[2503.24180v1](http://arxiv.org/abs/2503.24180v1)|**2025-03-31**|null|
 |**2025-03-31**|**SVLA: A Unified Speech-Vision-Language Assistant with Multimodal Reasoning and Speech Generation**|Ngoc Dung Huynh et.al.|[2503.24164v1](http://arxiv.org/abs/2503.24164v1)|**2025-03-31**|null|
 |**2025-03-31**|**A Comparative Study of Scanpath Models in Graph-Based Visualization**|Angela Lopez-Cardona et.al.|[2503.24160v2](http://arxiv.org/abs/2503.24160v2)|**2025-04-01**|null|

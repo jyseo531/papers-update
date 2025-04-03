@@ -28,7 +28,7 @@
 |**2025-03-31**|**Brazilian input to the European Strategy for Particle Physics Update**|U. de Freitas Carneiro da Graça et.al.|[2503.24295v1](http://arxiv.org/abs/2503.24295v1)|**2025-03-31**|null|
 |**2025-03-31**|**Cylindrical boundary induced current in the cosmic string spacetime**|E. R. Bezerra de Mello et.al.|[2503.24281v1](http://arxiv.org/abs/2503.24281v1)|**2025-03-31**|null|
 |**2025-03-31**|**AutoEval: Autonomous Evaluation of Generalist Robot Manipulation Policies in the Real World**|Zhiyuan Zhou et.al.|[2503.24278v1](http://arxiv.org/abs/2503.24278v1)|**2025-03-31**|[link](https://github.com/zhouzypaul/auto_eval)|
-|**2025-03-31**|**Enhancing Image Resolution of Solar Magnetograms: A Latent Diffusion Model Approach**|Francesco Pio Ramunno et.al.|[2503.24271v1](http://arxiv.org/abs/2503.24271v1)|**2025-03-31**|null|
+|**2025-03-31**|**Enhancing Image Resolution of Solar Magnetograms: A Latent Diffusion Model Approach**|Francesco Pio Ramunno et.al.|[2503.24271v1](http://arxiv.org/abs/2503.24271v1)|**2025-03-31**|[link](https://github.com/fpramunno/ldm_superresolution)|
 |**2025-03-31**|**Advances in Continual Graph Learning for Anti-Money Laundering Systems: A Comprehensive Review**|Bruno Deprez et.al.|[2503.24259v1](http://arxiv.org/abs/2503.24259v1)|**2025-03-31**|null|
-|**2025-03-31**|**Beyond a Single Mode: GAN Ensembles for Diverse Medical Data Generation**|Lorenzo Tronchin et.al.|[2503.24258v1](http://arxiv.org/abs/2503.24258v1)|**2025-03-31**|null|
+|**2025-03-31**|**Beyond a Single Mode: GAN Ensembles for Diverse Medical Data Generation**|Lorenzo Tronchin et.al.|[2503.24258v1](http://arxiv.org/abs/2503.24258v1)|**2025-03-31**|[link](https://github.com/ltronchin/gan-ensembles)|
 |**2025-03-31**|**Deep Learning-Based Data Fusion of 6G Sensing and Inertial Information for Target Positioning: Experimental Validation**|Karthik Muthineni et.al.|[2503.24253v1](http://arxiv.org/abs/2503.24253v1)|**2025-03-31**|null|

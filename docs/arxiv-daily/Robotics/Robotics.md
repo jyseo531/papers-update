@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-03-31**|**UniOcc: A Unified Benchmark for Occupancy Forecasting and Prediction in Autonomous Driving**|Yuping Wang et.al.|[2503.24381v1](http://arxiv.org/abs/2503.24381v1)|**2025-03-31**|[link](https://github.com/tasl-lab/uniocc)|
-|**2025-03-31**|**Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation**|Abhiram Maddukuri et.al.|[2503.24361v1](http://arxiv.org/abs/2503.24361v1)|**2025-03-31**|null|
+|**2025-03-31**|**Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation**|Abhiram Maddukuri et.al.|[2503.24361v2](http://arxiv.org/abs/2503.24361v2)|**2025-04-02**|null|
 |**2025-03-31**|**Pro-Routing: Proactive Routing of Autonomous Multi-Capacity Robots for Pickup-and-Delivery Tasks**|Daniel Garces et.al.|[2503.24325v1](http://arxiv.org/abs/2503.24325v1)|**2025-03-31**|null|
 |**2025-03-31**|**Can Test-Time Scaling Improve World Foundation Model?**|Wenyan Cong et.al.|[2503.24320v1](http://arxiv.org/abs/2503.24320v1)|**2025-03-31**|null|
 |**2025-03-31**|**AutoEval: Autonomous Evaluation of Generalist Robot Manipulation Policies in the Real World**|Zhiyuan Zhou et.al.|[2503.24278v1](http://arxiv.org/abs/2503.24278v1)|**2025-03-31**|[link](https://github.com/zhouzypaul/auto_eval)|
@@ -22,7 +22,7 @@
 |**2025-03-31**|**A Benchmark for Vision-Centric HD Mapping by V2I Systems**|Miao Fan et.al.|[2503.23963v1](http://arxiv.org/abs/2503.23963v1)|**2025-03-31**|null|
 |**2025-03-31**|**MAER-Nav: Bidirectional Motion Learning Through Mirror-Augmented Experience Replay for Robot Navigation**|Shanze Wang et.al.|[2503.23908v1](http://arxiv.org/abs/2503.23908v1)|**2025-03-31**|null|
 |**2025-03-31**|**Less is More: Contextual Sampling for Nonlinear Data-Enabled Predictive Control**|Julius Beerwerth et.al.|[2503.23890v1](http://arxiv.org/abs/2503.23890v1)|**2025-03-31**|null|
-|**2025-03-31**|**ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos**|Junyao Shi et.al.|[2503.23877v1](http://arxiv.org/abs/2503.23877v1)|**2025-03-31**|null|
+|**2025-03-31**|**ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos**|Junyao Shi et.al.|[2503.23877v1](http://arxiv.org/abs/2503.23877v1)|**2025-03-31**|[link](https://github.com/everloom-129/rekep)|
 |**2025-03-31**|**GenSwarm: Scalable Multi-Robot Code-Policy Generation and Deployment via Language Models**|Wenkang Ji et.al.|[2503.23875v1](http://arxiv.org/abs/2503.23875v1)|**2025-03-31**|[link](https://github.com/windylab/genswarm)|
 |**2025-03-31**|**Disambiguate Gripper State in Grasp-Based Tasks: Pseudo-Tactile as Feedback Enables Pure Simulation Learning**|Yifei Yang et.al.|[2503.23835v1](http://arxiv.org/abs/2503.23835v1)|**2025-03-31**|null|
 |**2025-03-31**|**Trajectory Planning for Automated Driving using Target Funnels**|Benjamin Bogenberger et.al.|[2503.23795v1](http://arxiv.org/abs/2503.23795v1)|**2025-03-31**|null|

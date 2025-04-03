@@ -20,7 +20,7 @@
 |**2025-03-31**|**It's a (Blind) Match! Towards Vision-Language Correspondence without Parallel Data**|Dominik Schnaus et.al.|[2503.24129v1](http://arxiv.org/abs/2503.24129v1)|**2025-03-31**|null|
 |**2025-03-31**|**IMPACT: A Generic Semantic Loss for Multimodal Medical Image Registration**|Valentin Boussot et.al.|[2503.24121v1](http://arxiv.org/abs/2503.24121v1)|**2025-03-31**|null|
 |**2025-03-31**|**Multi-Task Learning for Extracting Menstrual Characteristics from Clinical Notes**|Anna Shopova et.al.|[2503.24116v1](http://arxiv.org/abs/2503.24116v1)|**2025-03-31**|null|
-|**2025-03-31**|**TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**|Zhiming Ma et.al.|[2503.24115v2](http://arxiv.org/abs/2503.24115v2)|**2025-04-01**|null|
+|**2025-03-31**|**TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**|Zhiming Ma et.al.|[2503.24115v3](http://arxiv.org/abs/2503.24115v3)|**2025-04-02**|null|
 |**2025-03-31**|**PolypSegTrack: Unified Foundation Model for Colonoscopy Video Analysis**|Anwesa Choudhuri et.al.|[2503.24108v1](http://arxiv.org/abs/2503.24108v1)|**2025-03-31**|null|
 |**2025-03-31**|**Level the Level: Balancing Game Levels for Asymmetric Player Archetypes With Reinforcement Learning**|Florian Rupp et.al.|[2503.24099v1](http://arxiv.org/abs/2503.24099v1)|**2025-03-31**|null|
 |**2025-03-31**|**Bi-Level Route Optimization and Path Planning with Hazard Exploration**|Jimin Choi et.al.|[2503.24044v1](http://arxiv.org/abs/2503.24044v1)|**2025-03-31**|null|

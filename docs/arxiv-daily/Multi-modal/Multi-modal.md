@@ -21,7 +21,7 @@
 |**2025-03-31**|**Unimodal-driven Distillation in Multimodal Emotion Recognition with Dynamic Fusion**|Jiagen Li et.al.|[2503.23721v1](http://arxiv.org/abs/2503.23721v1)|**2025-03-31**|null|
 |**2025-03-31**|**3D Dental Model Segmentation with Geometrical Boundary Preserving**|Shufan Xi et.al.|[2503.23702v1](http://arxiv.org/abs/2503.23702v1)|**2025-03-31**|null|
 |**2025-03-31**|**DeepDubber-V1: Towards High Quality and Dialogue, Narration, Monologue Adaptive Movie Dubbing Via Multi-Modal Chain-of-Thoughts Reasoning Guidance**|Junjie Zheng et.al.|[2503.23660v1](http://arxiv.org/abs/2503.23660v1)|**2025-03-31**|null|
-|**2025-03-30**|**BiPVL-Seg: Bidirectional Progressive Vision-Language Fusion with Global-Local Alignment for Medical Image Segmentation**|Rafi Ibn Sultan et.al.|[2503.23534v1](http://arxiv.org/abs/2503.23534v1)|**2025-03-30**|null|
+|**2025-03-30**|**BiPVL-Seg: Bidirectional Progressive Vision-Language Fusion with Global-Local Alignment for Medical Image Segmentation**|Rafi Ibn Sultan et.al.|[2503.23534v1](http://arxiv.org/abs/2503.23534v1)|**2025-03-30**|[link](https://github.com/rafiibnsultan/bipvl-seg)|
 |**2025-03-30**|**Federated Self-Supervised Learning for One-Shot Cross-Modal and Cross-Imaging Technique Segmentation**|Siladittya Manna et.al.|[2503.23507v1](http://arxiv.org/abs/2503.23507v1)|**2025-03-30**|null|
 |**2025-03-30**|**Hackathons for biophysics education: simulating the cytoskeleton**|Yoav G. Pollack et.al.|[2503.23492v1](http://arxiv.org/abs/2503.23492v1)|**2025-03-30**|null|
 |**2025-03-30**|**OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model**|Xingcheng Zhou et.al.|[2503.23463v1](http://arxiv.org/abs/2503.23463v1)|**2025-03-30**|null|

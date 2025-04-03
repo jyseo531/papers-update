@@ -22,7 +22,7 @@
 |**2025-03-31**|**Traffic Engineering in Large-scale Networks with Generalizable Graph Neural Networks**|Fangtong Zhou et.al.|[2503.24203v1](http://arxiv.org/abs/2503.24203v1)|**2025-03-31**|null|
 |**2025-03-31**|**Asymptotically distribution-free goodness-of-fit testing for point processes**|Justin Baars et.al.|[2503.24197v1](http://arxiv.org/abs/2503.24197v1)|**2025-03-31**|null|
 |**2025-03-31**|**Quantum superalgebras and the free-fermionic Yang-Baxter equation**|Ben Brubaker et.al.|[2503.24189v1](http://arxiv.org/abs/2503.24189v1)|**2025-03-31**|null|
-|**2025-03-31**|**NeuRaLaTeX: A machine learning library written in pure LaTeX**|James A. D. Gardner et.al.|[2503.24187v1](http://arxiv.org/abs/2503.24187v1)|**2025-03-31**|null|
+|**2025-03-31**|**NeuRaLaTeX: A machine learning library written in pure LaTeX**|James A. D. Gardner et.al.|[2503.24187v2](http://arxiv.org/abs/2503.24187v2)|**2025-04-02**|null|
 |**2025-03-31**|**Low-energy electron microscopy as a tool for analysis of self-assembled molecular layers on surfaces**|Jan Čechal et.al.|[2503.24174v1](http://arxiv.org/abs/2503.24174v1)|**2025-03-31**|null|
 |**2025-03-31**|**LLM4FS: Leveraging Large Language Models for Feature Selection and How to Improve It**|Jianhao Li et.al.|[2503.24157v1](http://arxiv.org/abs/2503.24157v1)|**2025-03-31**|null|
 |**2025-03-31**|**Enhancing Traffic Safety with AI and 6G: Latency Requirements and Real-Time Threat Detection**|Kurt Horvath et.al.|[2503.24143v1](http://arxiv.org/abs/2503.24143v1)|**2025-03-31**|null|

@@ -12,17 +12,17 @@
 |**2025-03-31**|**Style Quantization for Data-Efficient GAN Training**|Jian Wang et.al.|[2503.24282v1](http://arxiv.org/abs/2503.24282v1)|**2025-03-31**|null|
 |**2025-03-31**|**Spatio-temporal Prediction of Fine-Grained Origin-Destination Matrices with Applications in Ridesharing**|Run Yang et.al.|[2503.24237v1](http://arxiv.org/abs/2503.24237v1)|**2025-03-31**|null|
 |**2025-03-31**|**Pre-training with 3D Synthetic Data: Learning 3D Point Cloud Instance Segmentation from 3D Synthetic Scenes**|Daichi Otsuka et.al.|[2503.24229v1](http://arxiv.org/abs/2503.24229v1)|**2025-03-31**|null|
-|**2025-03-31**|**Text2Tracks: Prompt-based Music Recommendation via Generative Retrieval**|Enrico Palumbo et.al.|[2503.24193v1](http://arxiv.org/abs/2503.24193v1)|**2025-03-31**|null|
+|**2025-03-31**|**Text2Tracks: Prompt-based Music Recommendation via Generative Retrieval**|Enrico Palumbo et.al.|[2503.24193v2](http://arxiv.org/abs/2503.24193v2)|**2025-04-02**|null|
 |**2025-03-31**|**CIBR: Cross-modal Information Bottleneck Regularization for Robust CLIP Generalization**|Yingrui Ji et.al.|[2503.24182v1](http://arxiv.org/abs/2503.24182v1)|**2025-03-31**|null|
 |**2025-03-31**|**Enhancing Traffic Safety with AI and 6G: Latency Requirements and Real-Time Threat Detection**|Kurt Horvath et.al.|[2503.24143v1](http://arxiv.org/abs/2503.24143v1)|**2025-03-31**|null|
 |**2025-03-31**|**AI-Assisted Colonoscopy: Polyp Detection and Segmentation using Foundation Models**|Uxue Delaquintana-Aramendi et.al.|[2503.24138v1](http://arxiv.org/abs/2503.24138v1)|**2025-03-31**|[link](https://github.com/udelaqui/foundation_models_for_polyp_detection_segmentation)|
 |**2025-03-31**|**It's a (Blind) Match! Towards Vision-Language Correspondence without Parallel Data**|Dominik Schnaus et.al.|[2503.24129v1](http://arxiv.org/abs/2503.24129v1)|**2025-03-31**|null|
 |**2025-03-31**|**IMPACT: A Generic Semantic Loss for Multimodal Medical Image Registration**|Valentin Boussot et.al.|[2503.24121v1](http://arxiv.org/abs/2503.24121v1)|**2025-03-31**|null|
 |**2025-03-31**|**Multi-Task Learning for Extracting Menstrual Characteristics from Clinical Notes**|Anna Shopova et.al.|[2503.24116v1](http://arxiv.org/abs/2503.24116v1)|**2025-03-31**|null|
-|**2025-03-31**|**TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**|Zhiming Ma et.al.|[2503.24115v2](http://arxiv.org/abs/2503.24115v2)|**2025-04-01**|null|
+|**2025-03-31**|**TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**|Zhiming Ma et.al.|[2503.24115v3](http://arxiv.org/abs/2503.24115v3)|**2025-04-02**|null|
 |**2025-03-31**|**PolypSegTrack: Unified Foundation Model for Colonoscopy Video Analysis**|Anwesa Choudhuri et.al.|[2503.24108v1](http://arxiv.org/abs/2503.24108v1)|**2025-03-31**|null|
 |**2025-03-31**|**Bi-Level Route Optimization and Path Planning with Hazard Exploration**|Jimin Choi et.al.|[2503.24044v1](http://arxiv.org/abs/2503.24044v1)|**2025-03-31**|null|
-|**2025-03-31**|**Crossing Boundaries: Leveraging Semantic Divergences to Explore Cultural Novelty in Cooking Recipes**|Florian Carichon et.al.|[2503.24027v1](http://arxiv.org/abs/2503.24027v1)|**2025-03-31**|null|
+|**2025-03-31**|**Crossing Boundaries: Leveraging Semantic Divergences to Explore Cultural Novelty in Cooking Recipes**|Florian Carichon et.al.|[2503.24027v1](http://arxiv.org/abs/2503.24027v1)|**2025-03-31**|[link](https://github.com/fcarichon/Cultural_Novelty)|
 |**2025-03-31**|**Crossmodal Knowledge Distillation with WordNet-Relaxed Text Embeddings for Robust Image Classification**|Chenqi Guo et.al.|[2503.24017v1](http://arxiv.org/abs/2503.24017v1)|**2025-03-31**|null|
 |**2025-03-31**|**You Cannot Feed Two Birds with One Score: the Accuracy-Naturalness Tradeoff in Translation**|Gergely Flamich et.al.|[2503.24013v2](http://arxiv.org/abs/2503.24013v2)|**2025-04-01**|null|
 |**2025-03-31**|**SALT: A Flexible Semi-Automatic Labeling Tool for General LiDAR Point Clouds with Cross-Scene Adaptability and 4D Consistency**|Yanbo Wang et.al.|[2503.23980v1](http://arxiv.org/abs/2503.23980v1)|**2025-03-31**|[link](https://github.com/Cavendish518/SALT)|

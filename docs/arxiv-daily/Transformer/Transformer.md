@@ -18,7 +18,7 @@
 |**2025-03-31**|**Synthetic News Generation for Fake News Classification**|Abdul Sittar et.al.|[2503.24206v1](http://arxiv.org/abs/2503.24206v1)|**2025-03-31**|null|
 |**2025-03-31**|**Traffic Engineering in Large-scale Networks with Generalizable Graph Neural Networks**|Fangtong Zhou et.al.|[2503.24203v1](http://arxiv.org/abs/2503.24203v1)|**2025-03-31**|null|
 |**2025-03-31**|**Asymptotically distribution-free goodness-of-fit testing for point processes**|Justin Baars et.al.|[2503.24197v1](http://arxiv.org/abs/2503.24197v1)|**2025-03-31**|null|
-|**2025-03-31**|**NeuRaLaTeX: A machine learning library written in pure LaTeX**|James A. D. Gardner et.al.|[2503.24187v1](http://arxiv.org/abs/2503.24187v1)|**2025-03-31**|null|
+|**2025-03-31**|**NeuRaLaTeX: A machine learning library written in pure LaTeX**|James A. D. Gardner et.al.|[2503.24187v2](http://arxiv.org/abs/2503.24187v2)|**2025-04-02**|null|
 |**2025-03-31**|**Density wave order with antiphase feature associated with the pseudogap in cuprate superconductor Bi2+xSr2-xCuO6+delta**|Zhaohui Wang et.al.|[2503.24177v1](http://arxiv.org/abs/2503.24177v1)|**2025-03-31**|null|
 |**2025-03-31**|**Hamiltonian Dynamics Learning: A Scalable Approach to Quantum Process Characterization**|Yusen Wu et.al.|[2503.24171v2](http://arxiv.org/abs/2503.24171v2)|**2025-04-01**|null|
 |**2025-03-31**|**Foundation Models For Seismic Data Processing: An Extensive Review**|Fabian Fuchs et.al.|[2503.24166v1](http://arxiv.org/abs/2503.24166v1)|**2025-03-31**|[link](https://codeberg.org/fuchsfa/foundation-models-seismic-processing)|
