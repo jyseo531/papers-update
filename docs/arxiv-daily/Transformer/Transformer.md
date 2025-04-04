@@ -2,33 +2,33 @@
 ### Transformer
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-02**|**Diffusion-Guided Gaussian Splatting for Large-Scale Unconstrained 3D Reconstruction and Novel View Synthesis**|Niluthpol Chowdhury Mithun et.al.|[2504.01960v1](http://arxiv.org/abs/2504.01960v1)|**2025-04-02**|null|
-|**2025-04-02**|**Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting**|Shu-Wei Lu et.al.|[2504.01957v2](http://arxiv.org/abs/2504.01957v2)|**2025-04-03**|null|
-|**2025-04-02**|**Deep Representation Learning for Unsupervised Clustering of Myocardial Fiber Trajectories in Cardiac Diffusion Tensor Imaging**|Mohini Anand et.al.|[2504.01953v1](http://arxiv.org/abs/2504.01953v1)|**2025-04-02**|null|
-|**2025-04-02**|**Laboratory evaluation of a wearable instrumented headband for rotational head kinematics measurement**|Anu Tripathi et.al.|[2504.01939v1](http://arxiv.org/abs/2504.01939v1)|**2025-04-02**|null|
-|**2025-04-02**|**Fermionic Averaged Circuit Eigenvalue Sampling**|Adrian Chapman et.al.|[2504.01936v1](http://arxiv.org/abs/2504.01936v1)|**2025-04-02**|null|
-|**2025-04-02**|**A thorough benchmark of automatic text classification: From traditional approaches to large language models**|Washington Cunha et.al.|[2504.01930v1](http://arxiv.org/abs/2504.01930v1)|**2025-04-02**|null|
-|**2025-04-02**|**Is the Reversal Curse a Binding Problem? Uncovering Limitations of Transformers from a Basic Generalization Failure**|Boshi Wang et.al.|[2504.01928v1](http://arxiv.org/abs/2504.01928v1)|**2025-04-02**|null|
-|**2025-04-02**|**Composition Design of Shape Memory Ceramics based on Gaussian Processes**|Ashutosh Pandey et.al.|[2504.01896v1](http://arxiv.org/abs/2504.01896v1)|**2025-04-02**|null|
-|**2025-04-02**|**Synchro-curvature description of γ-ray light curves and spectra of pulsars: concurrent fitting**|Daniel Íñiguez-Pascual et.al.|[2504.01892v1](http://arxiv.org/abs/2504.01892v1)|**2025-04-02**|null|
-|**2025-04-02**|**Architect Your Landscape Approach (AYLA) for Optimizations in Deep Learning**|Ben Keslaki et.al.|[2504.01875v1](http://arxiv.org/abs/2504.01875v1)|**2025-04-02**|null|
-|**2025-04-02**|**From Code Generation to Software Testing: AI Copilot with Context-Based RAG**|Yuchen Wang et.al.|[2504.01866v1](http://arxiv.org/abs/2504.01866v1)|**2025-04-02**|null|
-|**2025-04-02**|**A method to derive material-specific spin-bath model descriptions of materials displaying prevalent spin physics (for simulation on NISQ devices)**|Benedikt M. Schoenauer et.al.|[2504.01859v1](http://arxiv.org/abs/2504.01859v1)|**2025-04-02**|null|
-|**2025-04-02**|**An Approach to Technical AGI Safety and Security**|Rohin Shah et.al.|[2504.01849v1](http://arxiv.org/abs/2504.01849v1)|**2025-04-02**|null|
-|**2025-04-02**|**Prompting Medical Vision-Language Models to Mitigate Diagnosis Bias by Generating Realistic Dermoscopic Images**|Nusrat Munia et.al.|[2504.01838v1](http://arxiv.org/abs/2504.01838v1)|**2025-04-02**|null|
-|**2025-04-02**|**Quantum Meets SAR: A Novel Range-Doppler Algorithm for Next-Gen Earth Observation**|Khalil Al Salahat et.al.|[2504.01832v1](http://arxiv.org/abs/2504.01832v1)|**2025-04-02**|null|
-|**2025-04-02**|**Shape Theory via the Atiyah--Molino Reconstruction and Deformations**|Noémie C. Combe et.al.|[2504.01831v1](http://arxiv.org/abs/2504.01831v1)|**2025-04-02**|null|
-|**2025-04-02**|**Quattro: Transformer-Accelerated Iterative Linear Quadratic Regulator Framework for Fast Trajectory Optimization**|Yue Wang et.al.|[2504.01806v1](http://arxiv.org/abs/2504.01806v1)|**2025-04-02**|null|
-|**2025-04-02**|**UniViTAR: Unified Vision Transformer with Native Resolution**|Limeng Qiao et.al.|[2504.01792v1](http://arxiv.org/abs/2504.01792v1)|**2025-04-02**|null|
-|**2025-04-02**|**Triangular rogue clusters associated with multiple roots of Adler--Moser polynomials in integrable systems**|Bo Yang et.al.|[2504.01777v1](http://arxiv.org/abs/2504.01777v1)|**2025-04-02**|null|
-|**2025-04-02**|**Dual-stream Transformer-GCN Model with Contextualized Representations Learning for Monocular 3D Human Pose Estimation**|Mingrui Ye et.al.|[2504.01764v1](http://arxiv.org/abs/2504.01764v1)|**2025-04-02**|null|
-|**2025-04-02**|**Universal inverse Radon transforms: Inhomogeneity, angular restrictions and boundary**|I. V. Anikin et.al.|[2504.01744v1](http://arxiv.org/abs/2504.01744v1)|**2025-04-02**|null|
-|**2025-04-02**|**Understanding Cross-Model Perceptual Invariances Through Ensemble Metamers**|Lukas Boehm et.al.|[2504.01739v1](http://arxiv.org/abs/2504.01739v1)|**2025-04-02**|null|
-|**2025-04-02**|**DreamActor-M1: Holistic, Expressive and Robust Human Image Animation with Hybrid Guidance**|Yuxuan Luo et.al.|[2504.01724v2](http://arxiv.org/abs/2504.01724v2)|**2025-04-03**|null|
-|**2025-04-02**|**TransforMerger: Transformer-based Voice-Gesture Fusion for Robust Human-Robot Communication**|Petr Vanc et.al.|[2504.01708v1](http://arxiv.org/abs/2504.01708v1)|**2025-04-02**|null|
-|**2025-04-02**|**InfiniteICL: Breaking the Limit of Context Window Size via Long Short-term Memory Transformation**|Bowen Cao et.al.|[2504.01707v2](http://arxiv.org/abs/2504.01707v2)|**2025-04-03**|null|
-|**2025-04-02**|**Token Pruning in Audio Transformers: Optimizing Performance and Decoding Patch Importance**|Taehan Lee et.al.|[2504.01690v1](http://arxiv.org/abs/2504.01690v1)|**2025-04-02**|null|
-|**2025-04-02**|**Classification of the minimal-mass blowup solutions to the two dimensional focusing cubic nonlinear Schrödinger system**|Xing Cheng et.al.|[2504.01674v1](http://arxiv.org/abs/2504.01674v1)|**2025-04-02**|null|
-|**2025-04-02**|**Bridge 2D-3D: Uncertainty-aware Hierarchical Registration Network with Domain Alignment**|Zhixin Cheng et.al.|[2504.01641v1](http://arxiv.org/abs/2504.01641v1)|**2025-04-02**|null|
-|**2025-04-02**|**Benchmarking the Spatial Robustness of DNNs via Natural and Adversarial Localized Corruptions**|Giulia Marchiori Pietrosanti et.al.|[2504.01632v1](http://arxiv.org/abs/2504.01632v1)|**2025-04-02**|null|
-|**2025-04-02**|**On the performance of the Euler-Maruyama scheme for multidimensional SDEs with discontinuous drift coefficient**|Thomas Müller-Gronbach et.al.|[2504.01630v1](http://arxiv.org/abs/2504.01630v1)|**2025-04-02**|null|
+|**2025-04-03**|**On Vanishing Variance in Transformer Length Generalization**|Ruining Li et.al.|[2504.02827v1](http://arxiv.org/abs/2504.02827v1)|**2025-04-03**|null|
+|**2025-04-03**|**GMR-Conv: An Efficient Rotation and Reflection Equivariant Convolution Kernel Using Gaussian Mixture Rings**|Yuexi Du et.al.|[2504.02819v1](http://arxiv.org/abs/2504.02819v1)|**2025-04-03**|null|
+|**2025-04-03**|**Efficient Autoregressive Shape Generation via Octree-Based Adaptive Tokenization**|Kangle Deng et.al.|[2504.02817v1](http://arxiv.org/abs/2504.02817v1)|**2025-04-03**|null|
+|**2025-04-03**|**Spline-based Transformers**|Prashanth Chandran et.al.|[2504.02797v1](http://arxiv.org/abs/2504.02797v1)|**2025-04-03**|null|
+|**2025-04-03**|**A Framework for Situating Innovations, Opportunities, and Challenges in Advancing Vertical Systems with Large AI Models**|Gaurav Verma et.al.|[2504.02793v1](http://arxiv.org/abs/2504.02793v1)|**2025-04-03**|null|
+|**2025-04-03**|**Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets**|Chuning Zhu et.al.|[2504.02792v1](http://arxiv.org/abs/2504.02792v1)|**2025-04-03**|null|
+|**2025-04-03**|**CanonNet: Canonical Ordering and Curvature Learning for Point Cloud Analysis**|Benjy Friedmann et.al.|[2504.02763v1](http://arxiv.org/abs/2504.02763v1)|**2025-04-03**|null|
+|**2025-04-03**|**GEOPARD: Geometric Pretraining for Articulation Prediction in 3D Shapes**|Pradyumn Goyal et.al.|[2504.02747v1](http://arxiv.org/abs/2504.02747v1)|**2025-04-03**|null|
+|**2025-04-03**|**A Complete Classification of Fourier Summation Formulas on the real line**|Felipe Gonçalves et.al.|[2504.02741v1](http://arxiv.org/abs/2504.02741v1)|**2025-04-03**|null|
+|**2025-04-03**|**Pushing the Limit of PPG Sensing in Sedentary Conditions by Addressing Poor Skin-sensor Contact**|Manh Pham Hung et.al.|[2504.02735v1](http://arxiv.org/abs/2504.02735v1)|**2025-04-03**|null|
+|**2025-04-03**|**Why do LLMs attend to the first token?**|Federico Barbero et.al.|[2504.02732v1](http://arxiv.org/abs/2504.02732v1)|**2025-04-03**|null|
+|**2025-04-03**|**HQViT: Hybrid Quantum Vision Transformer for Image Classification**|Hui Zhang et.al.|[2504.02730v1](http://arxiv.org/abs/2504.02730v1)|**2025-04-03**|null|
+|**2025-04-03**|**Autonomous Human-Robot Interaction via Operator Imitation**|Sammy Christen et.al.|[2504.02724v1](http://arxiv.org/abs/2504.02724v1)|**2025-04-03**|null|
+|**2025-04-03**|**Learning quantum Gibbs states locally and efficiently**|Chi-Fang Chen et.al.|[2504.02706v1](http://arxiv.org/abs/2504.02706v1)|**2025-04-03**|null|
+|**2025-04-03**|**GPTQv2: Efficient Finetuning-Free Quantization for Asymmetric Calibration**|Yuhang Li et.al.|[2504.02692v1](http://arxiv.org/abs/2504.02692v1)|**2025-04-03**|null|
+|**2025-04-03**|**Limitations of Religious Data and the Importance of the Target Domain: Towards Machine Translation for Guinea-Bissau Creole**|Jacqueline Rowe et.al.|[2504.02674v1](http://arxiv.org/abs/2504.02674v1)|**2025-04-03**|null|
+|**2025-04-03**|**Complete Classification of the Symmetry Group of $L_p$-Minkowski Problem on the Sphere**|Huan-Jie Chen et.al.|[2504.02661v1](http://arxiv.org/abs/2504.02661v1)|**2025-04-03**|null|
+|**2025-04-03**|**RoSMM: A Robust and Secure Multi-Modal Watermarking Framework for Diffusion Models**|ZhongLi Fang et.al.|[2504.02640v1](http://arxiv.org/abs/2504.02640v1)|**2025-04-03**|null|
+|**2025-04-03**|**The FCC integrated programme: a physics manifesto**|Alain Blondel et.al.|[2504.02634v1](http://arxiv.org/abs/2504.02634v1)|**2025-04-03**|null|
+|**2025-04-03**|**A Scalable Synthesis Algorithm for Reversible Functions**|Moein Sarvaghad-Moghaddam et.al.|[2504.02632v1](http://arxiv.org/abs/2504.02632v1)|**2025-04-03**|null|
+|**2025-04-03**|**Grammar-based Ordinary Differential Equation Discovery**|Karin L. Yu et.al.|[2504.02630v1](http://arxiv.org/abs/2504.02630v1)|**2025-04-03**|null|
+|**2025-04-03**|**Towards Computation- and Communication-efficient Computational Pathology**|Chu Han et.al.|[2504.02628v1](http://arxiv.org/abs/2504.02628v1)|**2025-04-03**|null|
+|**2025-04-03**|**Exploring undercurrents of learning tensions in an LLM-enhanced landscape: A student-centered qualitative perspective on LLM vs Search**|Rahul R. Divekar et.al.|[2504.02622v1](http://arxiv.org/abs/2504.02622v1)|**2025-04-03**|null|
+|**2025-04-03**|**PicoPose: Progressive Pixel-to-Pixel Correspondence Learning for Novel Object Pose Estimation**|Lihua Liu et.al.|[2504.02617v1](http://arxiv.org/abs/2504.02617v1)|**2025-04-03**|null|
+|**2025-04-03**|**A Hybrid Similarity-Aware Graph Neural Network with Transformer for Node Classification**|Aman Singh et.al.|[2504.02615v1](http://arxiv.org/abs/2504.02615v1)|**2025-04-03**|null|
+|**2025-04-03**|**Learning Geometrically-Informed Lyapunov Functions with Deep Diffeomorphic RBF Networks**|Samuel Tesfazgi et.al.|[2504.02607v1](http://arxiv.org/abs/2504.02607v1)|**2025-04-03**|null|
+|**2025-04-03**|**Graphs are everywhere -- Psst! In Music Recommendation too**|Bharani Jayakumar et.al.|[2504.02598v1](http://arxiv.org/abs/2504.02598v1)|**2025-04-03**|null|
+|**2025-04-03**|**Deep learning for music generation. Four approaches and their comparative evaluation**|Razvan Paroiu et.al.|[2504.02586v1](http://arxiv.org/abs/2504.02586v1)|**2025-04-03**|null|
+|**2025-04-03**|**Derivation of the Landau-Zener formula via functional equations**|Chen Sun et.al.|[2504.02576v1](http://arxiv.org/abs/2504.02576v1)|**2025-04-03**|null|
+|**2025-04-03**|**Exploring Individual Factors in the Adoption of LLMs for Specific Software Engineering Tasks**|Stefano Lambiase et.al.|[2504.02553v1](http://arxiv.org/abs/2504.02553v1)|**2025-04-03**|null|

@@ -2,33 +2,33 @@
 ### Instance Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-02**|**Scene-Centric Unsupervised Panoptic Segmentation**|Oliver Hahn et.al.|[2504.01955v1](http://arxiv.org/abs/2504.01955v1)|**2025-04-02**|null|
-|**2025-04-02**|**Towards Unified Referring Expression Segmentation Across Omni-Level Visual Target Granularities**|Jing Liu et.al.|[2504.01954v1](http://arxiv.org/abs/2504.01954v1)|**2025-04-02**|null|
-|**2025-04-02**|**Critical Thinking: Which Kinds of Complexity Govern Optimal Reasoning Length?**|Celine Lee et.al.|[2504.01935v1](http://arxiv.org/abs/2504.01935v1)|**2025-04-02**|null|
-|**2025-04-02**|**Is Less Really More? Fake News Detection with Limited Information**|Zhaoyang Cao et.al.|[2504.01922v1](http://arxiv.org/abs/2504.01922v1)|**2025-04-02**|[link](https://github.com/kappakant/SLIM)|
-|**2025-04-02**|**Recovery Reductions in the Random Noise Model via Group Theory: Insights into NP-Complete and Fine-Grained Problems**|Tejas Nareddy et.al.|[2504.01899v1](http://arxiv.org/abs/2504.01899v1)|**2025-04-02**|null|
-|**2025-04-02**|**DISINFOX: an open-source threat exchange platform serving intelligence on disinformation and influence operations**|Felipe Sánchez González et.al.|[2504.01803v1](http://arxiv.org/abs/2504.01803v1)|**2025-04-02**|null|
-|**2025-04-02**|**Time-optimal single-scalar control on a qubit of unitary dynamics**|Chungwei Lin et.al.|[2504.01785v1](http://arxiv.org/abs/2504.01785v1)|**2025-04-02**|null|
-|**2025-04-02**|**CLaP -- State Detection from Time Series**|Arik Ermshaus et.al.|[2504.01783v1](http://arxiv.org/abs/2504.01783v1)|**2025-04-02**|null|
-|**2025-04-02**|**Shared-Memory Hierarchical Process Mapping**|Christian Schulz et.al.|[2504.01726v1](http://arxiv.org/abs/2504.01726v1)|**2025-04-02**|null|
-|**2025-04-02**|**Iterative Interpolation Schedules for Quantum Approximate Optimization Algorithm**|Anuj Apte et.al.|[2504.01694v1](http://arxiv.org/abs/2504.01694v1)|**2025-04-02**|null|
-|**2025-04-02**|**Segmentation variability and radiomics stability for predicting Triple-Negative Breast Cancer subtype using Magnetic Resonance Imaging**|Isabella Cama et.al.|[2504.01692v1](http://arxiv.org/abs/2504.01692v1)|**2025-04-02**|null|
-|**2025-04-02**|**Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation**|Junjie Chen et.al.|[2504.01668v1](http://arxiv.org/abs/2504.01668v1)|**2025-04-02**|null|
-|**2025-04-02**|**Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks**|Haosheng Li et.al.|[2504.01659v2](http://arxiv.org/abs/2504.01659v2)|**2025-04-03**|null|
-|**2025-04-02**|**Q-Adapt: Adapting LMM for Visual Quality Assessment with Progressive Instruction Tuning**|Yiting Lu et.al.|[2504.01655v1](http://arxiv.org/abs/2504.01655v1)|**2025-04-02**|null|
-|**2025-04-02**|**ProtoGuard-guided PROPEL: Class-Aware Prototype Enhancement and Progressive Labeling for Incremental 3D Point Cloud Segmentation**|Haosheng Li et.al.|[2504.01648v1](http://arxiv.org/abs/2504.01648v1)|**2025-04-02**|null|
-|**2025-04-02**|**Dataset and Methodology for Material Identification and virtual s-SNOM Using AFM Phase Approach Curves**|Stefan R. Anton et.al.|[2504.01636v1](http://arxiv.org/abs/2504.01636v1)|**2025-04-02**|null|
-|**2025-04-02**|**Benchmarking the Spatial Robustness of DNNs via Natural and Adversarial Localized Corruptions**|Giulia Marchiori Pietrosanti et.al.|[2504.01632v1](http://arxiv.org/abs/2504.01632v1)|**2025-04-02**|null|
-|**2025-04-02**|**The Mini-SiTian Array: the mini-SiTian Realtime Image Processing pipeline (STRIP)**|Hongrui Gu et.al.|[2504.01609v1](http://arxiv.org/abs/2504.01609v1)|**2025-04-02**|null|
-|**2025-04-02**|**SpikeSift: A Computationally Efficient and Drift-Resilient Spike Sorting Algorithm**|Vasileios Georgiadis et.al.|[2504.01604v1](http://arxiv.org/abs/2504.01604v1)|**2025-04-02**|null|
-|**2025-04-02**|**A topology-preserving three-stage framework for fully-connected coronary artery extraction**|Yuehui Qiu et.al.|[2504.01597v1](http://arxiv.org/abs/2504.01597v1)|**2025-04-02**|null|
-|**2025-04-02**|**Instance Migration Diffusion for Nuclear Instance Segmentation in Pathology**|Lirui Qi et.al.|[2504.01577v1](http://arxiv.org/abs/2504.01577v1)|**2025-04-02**|null|
-|**2025-04-02**|**Quantum Computing for Optimizing Aircraft Loading**|Ananth Kaushik et.al.|[2504.01567v1](http://arxiv.org/abs/2504.01567v1)|**2025-04-02**|null|
-|**2025-04-02**|**STPNet: Scale-aware Text Prompt Network for Medical Image Segmentation**|Dandan Shan et.al.|[2504.01561v1](http://arxiv.org/abs/2504.01561v1)|**2025-04-02**|null|
-|**2025-04-02**|**Optimizing Package Delivery with Quantum Annealers: Addressing Time-Windows and Simultaneous Pickup and Delivery**|Eneko Osaba et.al.|[2504.01560v1](http://arxiv.org/abs/2504.01560v1)|**2025-04-02**|null|
-|**2025-04-02**|**Bhakti: A Lightweight Vector Database Management System for Endowing Large Language Models with Semantic Search Capabilities and Memory**|Zihao Wu et.al.|[2504.01553v1](http://arxiv.org/abs/2504.01553v1)|**2025-04-02**|null|
-|**2025-04-02**|**Semi-Supervised Biomedical Image Segmentation via Diffusion Models and Teacher-Student Co-Training**|Luca Ciampi et.al.|[2504.01547v1](http://arxiv.org/abs/2504.01547v1)|**2025-04-02**|null|
-|**2025-04-02**|**Local Computation Algorithms for Knapsack: impossibility results, and how to avoid them**|Clément L. Canonne et.al.|[2504.01543v1](http://arxiv.org/abs/2504.01543v1)|**2025-04-02**|null|
-|**2025-04-02**|**From Smør-re-brød to Subwords: Training LLMs on Danish, One Morpheme at a Time**|Mikkel Wildner Kildeberg et.al.|[2504.01540v1](http://arxiv.org/abs/2504.01540v1)|**2025-04-02**|null|
-|**2025-04-02**|**Beyond Nearest Neighbor Interpolation in Data Augmentation**|Olivier Rukundo et.al.|[2504.01527v1](http://arxiv.org/abs/2504.01527v1)|**2025-04-02**|null|
-|**2025-04-02**|**Chain of Correction for Full-text Speech Recognition with Large Language Models**|Zhiyuan Tang et.al.|[2504.01519v1](http://arxiv.org/abs/2504.01519v1)|**2025-04-02**|null|
+|**2025-04-03**|**GMR-Conv: An Efficient Rotation and Reflection Equivariant Convolution Kernel Using Gaussian Mixture Rings**|Yuexi Du et.al.|[2504.02819v1](http://arxiv.org/abs/2504.02819v1)|**2025-04-03**|null|
+|**2025-04-03**|**A Framework for Situating Innovations, Opportunities, and Challenges in Advancing Vertical Systems with Large AI Models**|Gaurav Verma et.al.|[2504.02793v1](http://arxiv.org/abs/2504.02793v1)|**2025-04-03**|null|
+|**2025-04-03**|**High Chern numbers and topological flat bands in high-field polarized Kitaev magnets on the star lattice**|Zixuan Zou et.al.|[2504.02684v1](http://arxiv.org/abs/2504.02684v1)|**2025-04-03**|null|
+|**2025-04-03**|**Two-Stage nnU-Net for Automatic Multi-class Bi-Atrial Segmentation from LGE-MRIs**|Y. On et.al.|[2504.02668v1](http://arxiv.org/abs/2504.02668v1)|**2025-04-03**|null|
+|**2025-04-03**|**How humans evaluate AI systems for person detection in automatic train operation: Not all misses are alike**|Romy Müller et.al.|[2504.02664v1](http://arxiv.org/abs/2504.02664v1)|**2025-04-03**|null|
+|**2025-04-03**|**The early universe is $\textit{ACT}$-ing $\textit{warm}$**|Arjun Berera et.al.|[2504.02655v1](http://arxiv.org/abs/2504.02655v1)|**2025-04-03**|null|
+|**2025-04-03**|**Adaptive Frequency Enhancement Network for Remote Sensing Image Semantic Segmentation**|Feng Gao et.al.|[2504.02647v1](http://arxiv.org/abs/2504.02647v1)|**2025-04-03**|null|
+|**2025-04-03**|**Solving the Paint Shop Problem with Flexible Management of Multi-Lane Buffers Using Reinforcement Learning and Action Masking**|Mirko Stappert et.al.|[2504.02644v1](http://arxiv.org/abs/2504.02644v1)|**2025-04-03**|null|
+|**2025-04-03**|**Instance-Optimal Imprecise Convex Hull**|Sarita de Berg et.al.|[2504.02611v1](http://arxiv.org/abs/2504.02611v1)|**2025-04-03**|null|
+|**2025-04-03**|**Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving**|Daoguang Zan et.al.|[2504.02605v1](http://arxiv.org/abs/2504.02605v1)|**2025-04-03**|null|
+|**2025-04-03**|**Rip Current Segmentation: A Novel Benchmark and YOLOv8 Baseline Results**|Andrei Dumitriu et.al.|[2504.02558v1](http://arxiv.org/abs/2504.02558v1)|**2025-04-03**|null|
+|**2025-04-03**|**Enhanced Permeability Estimation in Microporous Rocks Using a Hybrid Macropore-Darcy Approach**|Dmytro Petrovskyy et.al.|[2504.02550v1](http://arxiv.org/abs/2504.02550v1)|**2025-04-03**|null|
+|**2025-04-03**|**Delineate Anything: Resolution-Agnostic Field Boundary Delineation on Satellite Imagery**|Mykola Lavreniuk et.al.|[2504.02534v1](http://arxiv.org/abs/2504.02534v1)|**2025-04-03**|null|
+|**2025-04-03**|**SelfMedHPM: Self Pre-training With Hard Patches Mining Masked Autoencoders For Medical Image Segmentation**|Yunhao Lv et.al.|[2504.02524v1](http://arxiv.org/abs/2504.02524v1)|**2025-04-03**|null|
+|**2025-04-03**|**Towards Generalizing Temporal Action Segmentation to Unseen Views**|Emad Bahrami et.al.|[2504.02512v1](http://arxiv.org/abs/2504.02512v1)|**2025-04-03**|null|
+|**2025-04-03**|**MG-MotionLLM: A Unified Framework for Motion Comprehension and Generation across Multiple Granularities**|Bizhu Wu et.al.|[2504.02478v1](http://arxiv.org/abs/2504.02478v1)|**2025-04-03**|null|
+|**2025-04-03**|**Semantic segmentation of forest stands using deep learning**|Håkon Næss Sandum et.al.|[2504.02471v1](http://arxiv.org/abs/2504.02471v1)|**2025-04-03**|null|
+|**2025-04-03**|**A Physics-Informed Meta-Learning Framework for the Continuous Solution of Parametric PDEs on Arbitrary Geometries**|Reza Najian Asl et.al.|[2504.02459v1](http://arxiv.org/abs/2504.02459v1)|**2025-04-03**|null|
+|**2025-04-03**|**Taylor Series-Inspired Local Structure Fitting Network for Few-shot Point Cloud Semantic Segmentation**|Changshuo Wang et.al.|[2504.02454v1](http://arxiv.org/abs/2504.02454v1)|**2025-04-03**|null|
+|**2025-04-03**|**Youthful perspectives on sustainability: Examining pro-environmental behaviors in tourism through latent class cluster analysis**|Riccardo Gianluigi Serio et.al.|[2504.02442v1](http://arxiv.org/abs/2504.02442v1)|**2025-04-03**|null|
+|**2025-04-03**|**On learning racing policies with reinforcement learning**|Grzegorz Czechmanowski et.al.|[2504.02420v1](http://arxiv.org/abs/2504.02420v1)|**2025-04-03**|null|
+|**2025-04-03**|**Marine Saliency Segmenter: Object-Focused Conditional Diffusion with Region-Level Semantic Knowledge Distillation**|Laibin Chang et.al.|[2504.02391v1](http://arxiv.org/abs/2504.02391v1)|**2025-04-03**|null|
+|**2025-04-03**|**Reinforcement Learning for Solving the Pricing Problem in Column Generation: Applications to Vehicle Routing**|Abdo Abouelrous et.al.|[2504.02383v1](http://arxiv.org/abs/2504.02383v1)|**2025-04-03**|null|
+|**2025-04-03**|**Benchmark of Segmentation Techniques for Pelvic Fracture in CT and X-ray: Summary of the PENGWIN 2024 Challenge**|Yudi Sang et.al.|[2504.02382v1](http://arxiv.org/abs/2504.02382v1)|**2025-04-03**|null|
+|**2025-04-03**|**Agglomerating Large Vision Encoders via Distillation for VFSS Segmentation**|Chengxi Zeng et.al.|[2504.02351v1](http://arxiv.org/abs/2504.02351v1)|**2025-04-03**|null|
+|**2025-04-03**|**Evaluating and Enhancing Segmentation Model Robustness with Metamorphic Testing**|Seif Mzoughi et.al.|[2504.02335v1](http://arxiv.org/abs/2504.02335v1)|**2025-04-03**|null|
+|**2025-04-03**|**In situ and real-time ultrafast spectroscopy of photoinduced reactions in perovskite nanomaterials**|Gi Rim Han et.al.|[2504.02331v1](http://arxiv.org/abs/2504.02331v1)|**2025-04-03**|null|
+|**2025-04-03**|**SPACE: SPike-Aware Consistency Enhancement for Test-Time Adaptation in Spiking Neural Networks**|Xinyu Luo et.al.|[2504.02298v1](http://arxiv.org/abs/2504.02298v1)|**2025-04-03**|null|
+|**2025-04-03**|**Exceedance and force of centrality for functional data**|Poorbita Kundu et.al.|[2504.02296v1](http://arxiv.org/abs/2504.02296v1)|**2025-04-03**|null|
+|**2025-04-03**|**Re-thinking Temporal Search for Long-Form Video Understanding**|Jinhui Ye et.al.|[2504.02259v1](http://arxiv.org/abs/2504.02259v1)|**2025-04-03**|null|

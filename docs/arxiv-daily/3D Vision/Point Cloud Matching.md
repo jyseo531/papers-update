@@ -2,33 +2,33 @@
 ### Point Cloud Matching
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-02**|**Scene-Centric Unsupervised Panoptic Segmentation**|Oliver Hahn et.al.|[2504.01955v1](http://arxiv.org/abs/2504.01955v1)|**2025-04-02**|null|
-|**2025-04-02**|**Towards Unified Referring Expression Segmentation Across Omni-Level Visual Target Granularities**|Jing Liu et.al.|[2504.01954v1](http://arxiv.org/abs/2504.01954v1)|**2025-04-02**|null|
-|**2025-04-02**|**Nucleon scattering from lattice QCD**|Colin Morningstar et.al.|[2504.01950v1](http://arxiv.org/abs/2504.01950v1)|**2025-04-02**|null|
-|**2025-04-02**|**Graphon games and an idealized limit of large network games**|Motoki Otsuka et.al.|[2504.01944v1](http://arxiv.org/abs/2504.01944v1)|**2025-04-02**|null|
-|**2025-04-02**|**Strengthening Multi-Robot Systems for SAR: Co-Designing Robotics and Communication Towards 6G**|Juan Bravo-Arrabal et.al.|[2504.01940v1](http://arxiv.org/abs/2504.01940v1)|**2025-04-02**|null|
-|**2025-04-02**|**A Unified Approach to Analysis and Design of Denoising Markov Models**|Yinuo Ren et.al.|[2504.01938v1](http://arxiv.org/abs/2504.01938v1)|**2025-04-02**|null|
-|**2025-04-02**|**Semidefinite lower bounds for covering codes**|Dion Gijswijt et.al.|[2504.01932v1](http://arxiv.org/abs/2504.01932v1)|**2025-04-02**|null|
-|**2025-04-02**|**Overcoming Deceptiveness in Fitness Optimization with Unsupervised Quality-Diversity**|Lisa Coiffard et.al.|[2504.01915v1](http://arxiv.org/abs/2504.01915v1)|**2025-04-02**|null|
-|**2025-04-02**|**Recovery Reductions in the Random Noise Model via Group Theory: Insights into NP-Complete and Fine-Grained Problems**|Tejas Nareddy et.al.|[2504.01899v1](http://arxiv.org/abs/2504.01899v1)|**2025-04-02**|null|
-|**2025-04-02**|**Synchro-curvature description of γ-ray light curves and spectra of pulsars: concurrent fitting**|Daniel Íñiguez-Pascual et.al.|[2504.01892v1](http://arxiv.org/abs/2504.01892v1)|**2025-04-02**|null|
-|**2025-04-02**|**Observing Spatial Charge and Spin Correlations in a Strongly-Interacting Fermi Gas**|Cyprien Daix et.al.|[2504.01885v1](http://arxiv.org/abs/2504.01885v1)|**2025-04-02**|null|
-|**2025-04-02**|**CO-DEFEND: Continuous Decentralized Federated Learning for Secure DoH-Based Threat Detection**|Diego Cajaraville-Aboy et.al.|[2504.01882v1](http://arxiv.org/abs/2504.01882v1)|**2025-04-02**|null|
-|**2025-04-02**|**Architect Your Landscape Approach (AYLA) for Optimizations in Deep Learning**|Ben Keslaki et.al.|[2504.01875v1](http://arxiv.org/abs/2504.01875v1)|**2025-04-02**|null|
-|**2025-04-02**|**CoMatcher: Multi-View Collaborative Feature Matching**|Jintao Zhang et.al.|[2504.01872v1](http://arxiv.org/abs/2504.01872v1)|**2025-04-02**|null|
-|**2025-04-02**|**Corner-Grasp: Multi-Action Grasp Detection and Active Gripper Adaptation for Grasping in Cluttered Environments**|Yeong Gwang Son et.al.|[2504.01861v1](http://arxiv.org/abs/2504.01861v1)|**2025-04-02**|null|
-|**2025-04-02**|**Lower Bounds for Leader Election and Collective Coin Flipping, Revisited**|Eshan Chattopadhyay et.al.|[2504.01856v1](http://arxiv.org/abs/2504.01856v1)|**2025-04-02**|null|
-|**2025-04-02**|**Many neighbors little entanglement: A curious scaling in the variable-range extended Ising model**|Harikrishnan K J et.al.|[2504.01846v1](http://arxiv.org/abs/2504.01846v1)|**2025-04-02**|null|
-|**2025-04-02**|**Dust environment of long-period comet C/2023 A3 (Tsuchinshan-ATLAS)**|Fernando Moreno et.al.|[2504.01845v1](http://arxiv.org/abs/2504.01845v1)|**2025-04-02**|null|
-|**2025-04-02**|**Non-collocated vibration absorption using delayed resonator for spectral and spacial tuning -- analysis and experimental validation**|Matěj Kuře et.al.|[2504.01812v1](http://arxiv.org/abs/2504.01812v1)|**2025-04-02**|null|
-|**2025-04-02**|**Detector Response to Gravitational Wave Polarizations in Gravitational Quantum Field Theory**|Cong Xu et.al.|[2504.01809v1](http://arxiv.org/abs/2504.01809v1)|**2025-04-02**|null|
-|**2025-04-02**|**US National Input to the European Strategy Update for Particle Physics**|André de Gouvêa et.al.|[2504.01804v1](http://arxiv.org/abs/2504.01804v1)|**2025-04-02**|null|
-|**2025-04-02**|**Distributed Triangle Detection is Hard in Few Rounds**|Sepehr Assadi et.al.|[2504.01802v1](http://arxiv.org/abs/2504.01802v1)|**2025-04-02**|null|
-|**2025-04-02**|**A New Approach to the Nonparametric Behrens-Fisher Problem with Compatible Confidence Intervals**|Stephen Schüürhuis et.al.|[2504.01796v1](http://arxiv.org/abs/2504.01796v1)|**2025-04-02**|null|
-|**2025-04-02**|**$\mathbf{γ^{(*)} + N(940)\frac{1}{2}^+ \to N(1520)\frac{3}{2}^{-}}$ helicity amplitudes and transition form factors**|Luis Albino et.al.|[2504.01770v1](http://arxiv.org/abs/2504.01770v1)|**2025-04-02**|null|
-|**2025-04-02**|**Dual-stream Transformer-GCN Model with Contextualized Representations Learning for Monocular 3D Human Pose Estimation**|Mingrui Ye et.al.|[2504.01764v1](http://arxiv.org/abs/2504.01764v1)|**2025-04-02**|null|
-|**2025-04-02**|**KD$^{2}$M: An unifying framework for feature knowledge distillation**|Eduardo Fernandes Montesuma et.al.|[2504.01757v1](http://arxiv.org/abs/2504.01757v1)|**2025-04-02**|null|
-|**2025-04-02**|**FIORD: A Fisheye Indoor-Outdoor Dataset with LIDAR Ground Truth for 3D Scene Reconstruction and Benchmarking**|Ulas Gunes et.al.|[2504.01732v1](http://arxiv.org/abs/2504.01732v1)|**2025-04-02**|null|
-|**2025-04-02**|**Brillouin-enhanced four-wave mixing with optical chiral states**|Xinglin Zeng et.al.|[2504.01725v1](http://arxiv.org/abs/2504.01725v1)|**2025-04-02**|null|
-|**2025-04-02**|**An Adaptive Proximal Inexact Gradient Framework and Its Application to Per-Antenna Constrained Joint Beamforming and Compression Design**|Xilai Fan et.al.|[2504.01721v1](http://arxiv.org/abs/2504.01721v1)|**2025-04-02**|null|
-|**2025-04-02**|**A two-player voting game in Euclidean space**|Stelios Stylianou et.al.|[2504.01713v1](http://arxiv.org/abs/2504.01713v1)|**2025-04-02**|null|
+|**2025-04-03**|**Observation of non-Hermitian dislocation bound states and dislocation skin effects**|Jia-Xin Zhong et.al.|[2504.02824v1](http://arxiv.org/abs/2504.02824v1)|**2025-04-03**|null|
+|**2025-04-03**|**GMR-Conv: An Efficient Rotation and Reflection Equivariant Convolution Kernel Using Gaussian Mixture Rings**|Yuexi Du et.al.|[2504.02819v1](http://arxiv.org/abs/2504.02819v1)|**2025-04-03**|null|
+|**2025-04-03**|**Universal Log-Optimality for General Classes of e-processes and Sequential Hypothesis Tests**|Ian Waudby-Smith et.al.|[2504.02818v1](http://arxiv.org/abs/2504.02818v1)|**2025-04-03**|null|
+|**2025-04-03**|**Convergence of the Markovian iteration for coupled FBSDEs via a differentiation approach**|Zhipeng Huang et.al.|[2504.02814v1](http://arxiv.org/abs/2504.02814v1)|**2025-04-03**|null|
+|**2025-04-03**|**Spline-based Transformers**|Prashanth Chandran et.al.|[2504.02797v1](http://arxiv.org/abs/2504.02797v1)|**2025-04-03**|null|
+|**2025-04-03**|**A 3D view of dwarf galaxies with Gaia and VLT/FLAMES II. The Sextans dwarf spheroidal**|Eline Tolstoy et.al.|[2504.02787v1](http://arxiv.org/abs/2504.02787v1)|**2025-04-03**|null|
+|**2025-04-03**|**Beating full state tomography for unentangled spectrum estimation**|Angelos Pelecanos et.al.|[2504.02785v1](http://arxiv.org/abs/2504.02785v1)|**2025-04-03**|null|
+|**2025-04-03**|**Non-linear elasticity effects and stratification in brushes of branched polyelectrolytes**|Inna O. Lebedeva et.al.|[2504.02783v1](http://arxiv.org/abs/2504.02783v1)|**2025-04-03**|null|
+|**2025-04-03**|**Multi-Head Adaptive Graph Convolution Network for Sparse Point Cloud-Based Human Activity Recognition**|Vincent Gbouna Zakka et.al.|[2504.02778v1](http://arxiv.org/abs/2504.02778v1)|**2025-04-03**|[link](https://github.com/Gbouna/MAK-GCN)|
+|**2025-04-03**|**Sharp connectivity bounds for the vacant set of random interlacements**|Subhajit Goswami et.al.|[2504.02777v1](http://arxiv.org/abs/2504.02777v1)|**2025-04-03**|null|
+|**2025-04-03**|**Component-wise Krasnosel'skii type fixed point theorem in product spaces and applications**|Laura M Fernández-Pardo et.al.|[2504.02774v1](http://arxiv.org/abs/2504.02774v1)|**2025-04-03**|null|
+|**2025-04-03**|**On Dual Mechanisms Limiting Density in the Negative Triangularity Tokamak**|R. Hong et.al.|[2504.02773v1](http://arxiv.org/abs/2504.02773v1)|**2025-04-03**|null|
+|**2025-04-03**|**How Deep Do Large Language Models Internalize Scientific Literature and Citation Practices?**|Andres Algaba et.al.|[2504.02767v1](http://arxiv.org/abs/2504.02767v1)|**2025-04-03**|null|
+|**2025-04-03**|**CanonNet: Canonical Ordering and Curvature Learning for Point Cloud Analysis**|Benjy Friedmann et.al.|[2504.02763v1](http://arxiv.org/abs/2504.02763v1)|**2025-04-03**|null|
+|**2025-04-03**|**A Geometric Framework for Stochastic Iterations**|Patrick L. Combettes et.al.|[2504.02761v1](http://arxiv.org/abs/2504.02761v1)|**2025-04-03**|null|
+|**2025-04-03**|**Topological groupoids with involution and real algebraic stacks**|Emiliano Ambrosi et.al.|[2504.02760v1](http://arxiv.org/abs/2504.02760v1)|**2025-04-03**|null|
+|**2025-04-03**|**Investigation of the influence of electrostatic excitation on instabilities and electron transport in ExB plasma configurations**|Maryam Reza et.al.|[2504.02750v1](http://arxiv.org/abs/2504.02750v1)|**2025-04-03**|null|
+|**2025-04-03**|**Bacon-Shor Board Games**|M. Sohaib Alam et.al.|[2504.02749v1](http://arxiv.org/abs/2504.02749v1)|**2025-04-03**|null|
+|**2025-04-03**|**Is the CMB revealing signs of pre-inflationary physics?**|Suddhasattwa Brahma et.al.|[2504.02746v1](http://arxiv.org/abs/2504.02746v1)|**2025-04-03**|null|
+|**2025-04-03**|**Faster Mixing of the Jerrum-Sinclair Chain**|Xiaoyu Chen et.al.|[2504.02740v1](http://arxiv.org/abs/2504.02740v1)|**2025-04-03**|null|
+|**2025-04-03**|**Monitored Fluctuating Hydrodynamics**|Sarang Gopalakrishnan et.al.|[2504.02734v1](http://arxiv.org/abs/2504.02734v1)|**2025-04-03**|null|
+|**2025-04-03**|**Phase transitions for interacting particle systems on random graphs**|Benedetta Bertoli et.al.|[2504.02721v1](http://arxiv.org/abs/2504.02721v1)|**2025-04-03**|null|
+|**2025-04-03**|**Impact of a Blockchain-based Universal Basic Income Pilot: The case of Circles UBI currency**|Alessandro Longo et.al.|[2504.02714v1](http://arxiv.org/abs/2504.02714v1)|**2025-04-03**|null|
+|**2025-04-03**|**Web3DB: Web 3.0 RDBMS for Individual Data Ownership**|Shankha Shubhra Mukherjee et.al.|[2504.02713v1](http://arxiv.org/abs/2504.02713v1)|**2025-04-03**|null|
+|**2025-04-03**|**Anisotropy analysis of bamboo and tooth using 4-angle polarization micro-spectroscopy**|Meguya Ryu et.al.|[2504.02711v1](http://arxiv.org/abs/2504.02711v1)|**2025-04-03**|null|
+|**2025-04-03**|**Critical Scaling of the Quantum Wasserstein Distance**|Gonzalo Camacho et.al.|[2504.02709v1](http://arxiv.org/abs/2504.02709v1)|**2025-04-03**|null|
+|**2025-04-03**|**Centroidal Voronoi Tessellations as Electrostatic Equilibria: A Generalized Thomson Problem in Convex Domains**|Zachary Mullaghy et.al.|[2504.02700v1](http://arxiv.org/abs/2504.02700v1)|**2025-04-03**|null|
+|**2025-04-03**|**GPTQv2: Efficient Finetuning-Free Quantization for Asymmetric Calibration**|Yuhang Li et.al.|[2504.02692v1](http://arxiv.org/abs/2504.02692v1)|**2025-04-03**|null|
+|**2025-04-03**|**Planar Laser-Induced Fluorescence system for Space and Phase-resolved Ion Velocity Distribution Function Measurements**|Sung Hyun Son et.al.|[2504.02690v1](http://arxiv.org/abs/2504.02690v1)|**2025-04-03**|null|
+|**2025-04-03**|**High Chern numbers and topological flat bands in high-field polarized Kitaev magnets on the star lattice**|Zixuan Zou et.al.|[2504.02684v1](http://arxiv.org/abs/2504.02684v1)|**2025-04-03**|null|

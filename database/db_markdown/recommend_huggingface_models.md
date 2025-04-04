@@ -557,6 +557,7 @@ Updated on 2025-04-04
 | 4.3k | 20 | albert/albert-xxlarge-v2Fill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/albert/albert-xxlarge-v2) |
 | 349k | 19 | m3rg-iitd/matscibertFill-Mask | UpdatedJun 22, 2024 | [Link](https://huggingface.co/m3rg-iitd/matscibert) |
 | 13.7k | 19 | albert/albert-large-v2Fill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/albert/albert-large-v2) |
+| 219k | 18 | DeepChem/ChemBERTa-77M-MLMFill-Mask | UpdatedJan 20, 2022 | [Link](https://huggingface.co/DeepChem/ChemBERTa-77M-MLM) |
 | 7.23k | 17 | deepvk/RuModernBERT-baseFill-Mask | Updated6 days ago | [Link](https://huggingface.co/deepvk/RuModernBERT-base) |
 | 3.47k | 16 | answerdotai/ModernBERT-Large-InstructFill-Mask | Updated21 days ago | [Link](https://huggingface.co/answerdotai/ModernBERT-Large-Instruct) |
 | 2.46k | 16 | ChatterjeeLab/PepMLM-650MFill-Mask | UpdatedJul 29, 2024 | [Link](https://huggingface.co/ChatterjeeLab/PepMLM-650M) |
@@ -587,6 +588,7 @@ Updated on 2025-04-04
 | 115 | 2 | metinovadilet/KyrgyzBertFill-Mask | Updated10 days ago | [Link](https://huggingface.co/metinovadilet/KyrgyzBert) |
 | 11 | 2 | HiTZ/BERnaT-baseFill-Mask | Updated9 days ago | [Link](https://huggingface.co/HiTZ/BERnaT-base) |
 | 8 | 2 | opensearch-project/opensearch-neural-sparse-encoding-doc-v3-distillFill-Mask | Updatedabout 7 hours ago | [Link](https://huggingface.co/opensearch-project/opensearch-neural-sparse-encoding-doc-v3-distill) |
+| 38.1k | 2 | google-bert/bert-base-cased-finetuned-mrpcFill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/google-bert/bert-base-cased-finetuned-mrpc) |
 | 81.3M |  | google-bert/bert-base-uncasedFill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/google-bert/bert-base-uncased) |
 | 2.09M |  | google-bert/bert-base-chineseFill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/google-bert/bert-base-chinese) |
 | 12.5M |  | google-bert/bert-base-multilingual-casedFill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/google-bert/bert-base-multilingual-cased) |
@@ -650,6 +652,7 @@ Updated on 2025-04-04
 | Unknown | Unknown | jonruida/SpotifyGraph | UpdatedMay 14, 2024 | [Link](https://huggingface.co/jonruida/Spotify) |
 | 54 | Unknown | DaizeDong/GraphsGPT-1W-CGraph | UpdatedMay 27, 2024 | [Link](https://huggingface.co/DaizeDong/GraphsGPT-1W-C) |
 | 1 | Unknown | ibm-research/materials | Updatedabout 7 hours ago | [Link](https://huggingface.co/ibm-research/materials.pos-egnn) |
+| 1 | Unknown | SlappAI/SingularityGraph | UpdatedNov 28, 2024 | [Link](https://huggingface.co/SlappAI/Singularity) |
 
 ## Image Classification
 
@@ -938,6 +941,7 @@ Updated on 2025-04-04
 | 918 | 11 | mlabonne/gemma-3-27b-it-abliterated-GGUFImage-Text-to-Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-abliterated-GGUF) |
 | 4.38k | 11 | bartowski/mlabonne_gemma-3-27b-it-abliterated-GGUFImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/bartowski/mlabonne_gemma-3-27b-it-abliterated-GGUF) |
 | 862 | 11 | mlabonne/gemma-3-4b-it-abliteratedImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-4b-it-abliterated) |
+| 151 | 11 | google/gemma-3-27b-pt-qat-q4_0-ggufImage-Text-to-Text | Updatedabout 18 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-pt-qat-q4_0-gguf) |
 | 185 | 10 | prithivMLmods/Tokenized-OCRImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/prithivMLmods/Tokenized-OCR) |
 | 25 | 10 | prithivMLmods/Qwen2-VL-OCR2-2B-InstructImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/Qwen2-VL-OCR2-2B-Instruct) |
 | 9 | 10 | google/gemma-3-12b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-12b-pt) |
@@ -1060,6 +1064,7 @@ Updated on 2025-04-04
 | 10.1k | 17 | Stable-X/yoso-delight-v0-4-baseImage-to-Image | UpdatedSep 26, 2024 | [Link](https://huggingface.co/Stable-X/yoso-delight-v0-4-base) |
 | 37.8k | 16 | caidas/swin2SR-realworld-sr-x4-64-bsrgan-psnrImage-to-Image | UpdatedJan 21, 2023 | [Link](https://huggingface.co/caidas/swin2SR-realworld-sr-x4-64-bsrgan-psnr) |
 | 1.03k | 11 | xiaozaa/cat-tryoff-fluxImage-to-Image | UpdatedDec 6, 2024 | [Link](https://huggingface.co/xiaozaa/cat-tryoff-flux) |
+| 11 | 9 | keras-io/conditional-ganImage-to-Image | UpdatedJul 5, 2024 | [Link](https://huggingface.co/keras-io/conditional-gan) |
 | 1.74k | 7 | xiaozaa/catvton-flux-betaImage-to-Image | UpdatedJan 16 | [Link](https://huggingface.co/xiaozaa/catvton-flux-beta) |
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 67 | 2 | SherryXTChen/InstructCLIP-InstructPix2PixImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/SherryXTChen/InstructCLIP-InstructPix2Pix) |
@@ -1235,6 +1240,7 @@ Updated on 2025-04-04
 | 3 | Unknown | AetherWorldModel/AetherV1Image-to-Video | Updatedabout 9 hours ago | [Link](https://huggingface.co/AetherWorldModel/AetherV1) |
 | 3 | Unknown | Remade-AI/kissingImage-to-Video | Updatedabout 18 hours ago | [Link](https://huggingface.co/Remade-AI/kissing) |
 | 3 | Unknown | Remade-AI/LaughingImage-to-Video | Updatedabout 17 hours ago | [Link](https://huggingface.co/Remade-AI/Laughing) |
+| 195 | Unknown | wangfuyun/AnimateLCM-SVD-xtImage-to-Video | UpdatedFeb 27, 2024 | [Link](https://huggingface.co/wangfuyun/AnimateLCM-SVD-xt) |
 
 ## Keypoint Detection
 
@@ -1519,6 +1525,7 @@ Updated on 2025-04-04
 | 15 | 2 | mbreuss/MoDE_CALVIN_ABCDRobotics | UpdatedDec 19, 2024 | [Link](https://huggingface.co/mbreuss/MoDE_CALVIN_ABCD) |
 | 102 | 2 | CogACT/CogACT-SmallRobotics | UpdatedDec 4, 2024 | [Link](https://huggingface.co/CogACT/CogACT-Small) |
 | 41 | 2 | Menlo/AlphaSpace-1 | Updated1 day ago | [Link](https://huggingface.co/Menlo/AlphaSpace-1.5B) |
+| 55 | 2 | lerobot/pi0fast_baseRobotics | Updated4 days ago | [Link](https://huggingface.co/lerobot/pi0fast_base) |
 | 12 | 1 | mbreuss/MoDE_CALVIN_ABC_3Robotics | UpdatedDec 19, 2024 | [Link](https://huggingface.co/mbreuss/MoDE_CALVIN_ABC_3) |
 | 8 | 1 | mbreuss/MoDE_CALVIN_ABC_1Robotics | UpdatedDec 19, 2024 | [Link](https://huggingface.co/mbreuss/MoDE_CALVIN_ABC_1) |
 | 2 | 1 | shadyy/ARIA-7b-v0 | UpdatedDec 5, 2023 | [Link](https://huggingface.co/shadyy/ARIA-7b-v0.1) |
@@ -1773,6 +1780,7 @@ Updated on 2025-04-04
 | Unknown | Unknown | vendorabc/modelhubexampleTabular | UpdatedAug 30, 2022 | [Link](https://huggingface.co/vendorabc/modelhubexample) |
 | 1 | Unknown | Jensen-holm/NiglTabular | UpdatedMar 17, 2024 | [Link](https://huggingface.co/Jensen-holm/Nigl) |
 | 1 | Unknown | emp-admin/headache-predictor-plTabular | Updatedabout 13 hours ago | [Link](https://huggingface.co/emp-admin/headache-predictor-pl) |
+| 1 | Unknown | tommytracx/DeepBoreAITabular | Updated40 minutes ago | [Link](https://huggingface.co/tommytracx/DeepBoreAI) |
 
 ## Tabular Regression
 
@@ -2614,6 +2622,9 @@ Updated on 2025-04-04
 | 274 | 3 | ai4privacy/llama-ai4privacy-english-anonymiser-openpiiToken | Updatedabout 2 hours ago | [Link](https://huggingface.co/ai4privacy/llama-ai4privacy-english-anonymiser-openpii) |
 | 132 | 3 | ai4privacy/llama-ai4privacy-multilingual-categorical-anonymiser-openpiiToken | Updatedabout 4 hours ago | [Link](https://huggingface.co/ai4privacy/llama-ai4privacy-multilingual-categorical-anonymiser-openpii) |
 | 109 | 2 | ai4privacy/llama-ai4privacy-multilingual-anonymiser-openpiiToken | Updated1 day ago | [Link](https://huggingface.co/ai4privacy/llama-ai4privacy-multilingual-anonymiser-openpii) |
+| 11 | 2 | Ihor/gliner-biomed-small-v1 | Updatedabout 24 hours ago | [Link](https://huggingface.co/Ihor/gliner-biomed-small-v1.0) |
+| 19 | 2 | Ihor/gliner-biomed-base-v1 | Updatedabout 6 hours ago | [Link](https://huggingface.co/Ihor/gliner-biomed-base-v1.0) |
+| 11 | 2 | Ihor/gliner-biomed-bi-small-v1 | Updatedabout 6 hours ago | [Link](https://huggingface.co/Ihor/gliner-biomed-bi-small-v1.0) |
 | 168 | 1 | dccuchile/distilbert-base-spanish-uncased-finetuned-nerToken | UpdatedJan 6, 2022 | [Link](https://huggingface.co/dccuchile/distilbert-base-spanish-uncased-finetuned-ner) |
 | 102 | 1 | KBLab/bert-base-swedish-cased-reallysimple-nerToken | UpdatedNov 15, 2022 | [Link](https://huggingface.co/KBLab/bert-base-swedish-cased-reallysimple-ner) |
 | 22 | 1 | KoichiYasuoka/roberta-base-japanese-char-luw-uposToken | UpdatedAug 20, 2024 | [Link](https://huggingface.co/KoichiYasuoka/roberta-base-japanese-char-luw-upos) |
