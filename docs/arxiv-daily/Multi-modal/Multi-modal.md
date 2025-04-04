@@ -10,12 +10,12 @@
 |**2025-04-02**|**Spatial-R1: Enhancing MLLMs in Video Spatial Reasoning**|Kun Ouyang et.al.|[2504.01805v1](http://arxiv.org/abs/2504.01805v1)|**2025-04-02**|null|
 |**2025-04-02**|**UniViTAR: Unified Vision Transformer with Native Resolution**|Limeng Qiao et.al.|[2504.01792v1](http://arxiv.org/abs/2504.01792v1)|**2025-04-02**|null|
 |**2025-04-02**|**Leveraging Embedding Techniques in Multimodal Machine Learning for Mental Illness Assessment**|Abdelrahaman A. Hassan et.al.|[2504.01767v1](http://arxiv.org/abs/2504.01767v1)|**2025-04-02**|null|
-|**2025-04-02**|**AI-Driven Framework for Multi-Service Multi-Modal Devices in NextG ORAN Systems**|Mrityunjoy Gain et.al.|[2504.01730v1](http://arxiv.org/abs/2504.01730v1)|**2025-04-02**|null|
+|**2025-04-02**|**AI-Driven Framework for Multi-Service Multi-Modal Devices in NextG ORAN Systems**|Mrityunjoy Gain et.al.|[2504.01730v2](http://arxiv.org/abs/2504.01730v2)|**2025-04-03**|null|
 |**2025-04-02**|**TransforMerger: Transformer-based Voice-Gesture Fusion for Robust Human-Robot Communication**|Petr Vanc et.al.|[2504.01708v1](http://arxiv.org/abs/2504.01708v1)|**2025-04-02**|null|
 |**2025-04-02**|**Q-Adapt: Adapting LMM for Visual Quality Assessment with Progressive Instruction Tuning**|Yiting Lu et.al.|[2504.01655v1](http://arxiv.org/abs/2504.01655v1)|**2025-04-02**|null|
 |**2025-04-02**|**Propagation of space-time optical vortices in multimode fibers**|Spencer W. Jolly et.al.|[2504.01643v1](http://arxiv.org/abs/2504.01643v1)|**2025-04-02**|null|
 |**2025-04-02**|**Bridge 2D-3D: Uncertainty-aware Hierarchical Registration Network with Domain Alignment**|Zhixin Cheng et.al.|[2504.01641v1](http://arxiv.org/abs/2504.01641v1)|**2025-04-02**|null|
-|**2025-04-02**|**Leveraging Modality Tags for Enhanced Cross-Modal Video Retrieval**|Adriano Fragomeni et.al.|[2504.01591v1](http://arxiv.org/abs/2504.01591v1)|**2025-04-02**|null|
+|**2025-04-02**|**Leveraging Modality Tags for Enhanced Cross-Modal Video Retrieval**|Adriano Fragomeni et.al.|[2504.01591v2](http://arxiv.org/abs/2504.01591v2)|**2025-04-03**|null|
 |**2025-04-02**|**Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models**|Zhaochen Wang et.al.|[2504.01589v1](http://arxiv.org/abs/2504.01589v1)|**2025-04-02**|null|
 |**2025-04-02**|**STPNet: Scale-aware Text Prompt Network for Medical Image Segmentation**|Dandan Shan et.al.|[2504.01561v1](http://arxiv.org/abs/2504.01561v1)|**2025-04-02**|null|
 |**2025-04-02**|**Semi-Supervised Biomedical Image Segmentation via Diffusion Models and Teacher-Student Co-Training**|Luca Ciampi et.al.|[2504.01547v1](http://arxiv.org/abs/2504.01547v1)|**2025-04-02**|null|

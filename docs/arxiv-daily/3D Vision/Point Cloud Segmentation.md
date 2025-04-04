@@ -31,4 +31,4 @@
 |**2025-04-02**|**Singularity-free cosmology from interactions in the dark sector**|Molly Burkmar et.al.|[2504.01683v1](http://arxiv.org/abs/2504.01683v1)|**2025-04-02**|null|
 |**2025-04-02**|**Introduction to dimensional reduction of fermions**|Joel Hutchinson et.al.|[2504.01670v1](http://arxiv.org/abs/2504.01670v1)|**2025-04-02**|null|
 |**2025-04-02**|**Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation**|Junjie Chen et.al.|[2504.01668v1](http://arxiv.org/abs/2504.01668v1)|**2025-04-02**|null|
-|**2025-04-02**|**Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks**|Haosheng Li et.al.|[2504.01659v1](http://arxiv.org/abs/2504.01659v1)|**2025-04-02**|null|
+|**2025-04-02**|**Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks**|Haosheng Li et.al.|[2504.01659v2](http://arxiv.org/abs/2504.01659v2)|**2025-04-03**|null|

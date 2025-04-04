@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-04-03
+Updated on 2025-04-04
 
 > Generated from the Hugging Face database.
 
@@ -910,6 +910,7 @@ Updated on 2025-04-03
 | 6 | 40 | convergence-ai/proxy-lite-3bImage-Text-to-Text | Updatedabout 15 hours ago | [Link](https://huggingface.co/convergence-ai/proxy-lite-3b) |
 | 12.4k | 38 | zhibinlan/LLaVE-2BImage-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/zhibinlan/LLaVE-2B) |
 | 3.51k | 37 | HuggingFaceTB/SmolVLM2-500M-Video-InstructImage-Text-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM2-500M-Video-Instruct) |
+| 23 | 35 | google/gemma-3-27b-it-qat-q4_0-ggufImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-it-qat-q4_0-gguf) |
 | 4.01k | 31 | google/paligemma2-3b-mix-448Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-3b-mix-448) |
 | 2.75k | 29 | HuggingFaceTB/SmolVLM2-256M-Video-InstructImage-Text-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM2-256M-Video-Instruct) |
 | 26 | 28 | VIDraft/Gemma-3-R1984-12BImage-Text-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/VIDraft/Gemma-3-R1984-12B) |
@@ -919,8 +920,11 @@ Updated on 2025-04-03
 | 4 | 26 | openfree/Gemma-3-R1984-27B-Q6_K-GGUFImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/openfree/Gemma-3-R1984-27B-Q6_K-GGUF) |
 | 3 | 26 | openfree/Mistral-Small-3 | Updatedabout 8 hours ago | [Link](https://huggingface.co/openfree/Mistral-Small-3.1-24B-Instruct-2503-Q8_0-GGUF) |
 | 10 | 25 | openfree/Gemma-3-R1984-27B-Q4_K_M-GGUFImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/openfree/Gemma-3-R1984-27B-Q4_K_M-GGUF) |
+| 66 | 25 | google/gemma-3-4b-it-qat-q4_0-ggufImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/google/gemma-3-4b-it-qat-q4_0-gguf) |
 | 280 | 24 | google/paligemma2-28b-mix-448Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-28b-mix-448) |
 | 9 | 21 | Skywork/Skywork-R1V-38BImage-Text-to-Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/Skywork/Skywork-R1V-38B) |
+| 29 | 21 | google/gemma-3-12b-it-qat-q4_0-ggufImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/google/gemma-3-12b-it-qat-q4_0-gguf) |
+| 4 | 20 | Tesslate/Synthia-S1-27bImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/Tesslate/Synthia-S1-27b) |
 | 3.71k | 19 | google/paligemma2-10b-mix-448Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-10b-mix-448) |
 | 1.49k | 17 | google/paligemma2-3b-mix-224Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-3b-mix-224) |
 | 247 | 17 | ds4sd/SmolDocling-256M-previewImage-Text-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/ds4sd/SmolDocling-256M-preview) |
@@ -1485,6 +1489,7 @@ Updated on 2025-04-03
 | 3 | Unknown | sgoodfriend/ppo-Microrts-selfplay-unet-decayReinforcement | UpdatedApr 23, 2023 | [Link](https://huggingface.co/sgoodfriend/ppo-Microrts-selfplay-unet-decay) |
 | 2 | Unknown | Weidong-Huang/SafeDreamerReinforcement | UpdatedApr 8, 2024 | [Link](https://huggingface.co/Weidong-Huang/SafeDreamer) |
 | 1 | Unknown | sgoodfriend/ppo-CartPole-v1Reinforcement | UpdatedApr 15, 2023 | [Link](https://huggingface.co/sgoodfriend/ppo-CartPole-v1) |
+| 14 | Unknown | nicklashansen/tdmpc2Reinforcement | UpdatedOct 26, 2023 | [Link](https://huggingface.co/nicklashansen/tdmpc2) |
 
 ## Robotics
 
@@ -1642,6 +1647,7 @@ Updated on 2025-04-03
 | 1.94M |  | sentence-transformers/bert-base-nli-mean-tokensSentence | Updated21 days ago | [Link](https://huggingface.co/sentence-transformers/bert-base-nli-mean-tokens) |
 | 1.15M |  | sentence-transformers/distiluse-base-multilingual-cased-v1Sentence | Updated26 days ago | [Link](https://huggingface.co/sentence-transformers/distiluse-base-multilingual-cased-v1) |
 | 2.87k |  | TechWolf/JobBERT-v2Sentence | Updatedabout 24 hours ago | [Link](https://huggingface.co/TechWolf/JobBERT-v2) |
+| 35.9k |  | Snowflake/snowflake-arctic-embed-lSentence | UpdatedDec 19, 2024 | [Link](https://huggingface.co/Snowflake/snowflake-arctic-embed-l) |
 
 ## Summarization
 
@@ -1861,6 +1867,7 @@ Updated on 2025-04-03
 | 935 | 5 | dragonkue/bge-reranker-v2-m3-koText | Updated10 days ago | [Link](https://huggingface.co/dragonkue/bge-reranker-v2-m3-ko) |
 | 2.53k | 5 | gpustack/jina-reranker-v2-base-multilingual-GGUFText | UpdatedJan 14 | [Link](https://huggingface.co/gpustack/jina-reranker-v2-base-multilingual-GGUF) |
 | 13.6k | 5 | WebOrganizer/FormatClassifierText | UpdatedFeb 19 | [Link](https://huggingface.co/WebOrganizer/FormatClassifier) |
+| 3 | 5 | oumi-ai/HallOumi-8B-classifierText | Updated1 day ago | [Link](https://huggingface.co/oumi-ai/HallOumi-8B-classifier) |
 | 33 | 4 | WebOrganizer/TopicClassifierText | Updated5 days ago | [Link](https://huggingface.co/WebOrganizer/TopicClassifier) |
 | 13 | 4 | lemon42-ai/ThreatDetect-C-CppText | Updatedabout 13 hours ago | [Link](https://huggingface.co/lemon42-ai/ThreatDetect-C-Cpp) |
 | 134 | 4 | WebOrganizer/FormatClassifier-NoURLText | Updated18 days ago | [Link](https://huggingface.co/WebOrganizer/FormatClassifier-NoURL) |
@@ -2362,6 +2369,7 @@ Updated on 2025-04-03
 | 4 | Unknown | ByteDance/MegaTTS3Text-to-Speech | Updatedabout 5 hours ago | [Link](https://huggingface.co/ByteDance/MegaTTS3) |
 | 5 | Unknown | erax-ai/EraX-Smile-Female-F5-V1 | Updated1 minute ago | [Link](https://huggingface.co/erax-ai/EraX-Smile-Female-F5-V1.0) |
 | 8 | Unknown | NeuML/kokoro-int8-onnxText-to-Speech | Updated11 days ago | [Link](https://huggingface.co/NeuML/kokoro-int8-onnx) |
+| 180 | Unknown | facebook/seamless-expressiveText-to-Speech | UpdatedJan 4, 2024 | [Link](https://huggingface.co/facebook/seamless-expressive) |
 
 ## Text-to-Video
 
@@ -2439,6 +2447,7 @@ Updated on 2025-04-03
 | 11 | Unknown | aejion/AccVideoText-to-Video | Updatedabout 11 hours ago | [Link](https://huggingface.co/aejion/AccVideo) |
 | 2 | Unknown | xilanhua12138/Wan2 | Updated3 days ago | [Link](https://huggingface.co/xilanhua12138/Wan2.1-T2V-1.3B-Reward) |
 | 3 | Unknown | Ubicomb/MDL-1 | Updatedabout 9 hours ago | [Link](https://huggingface.co/Ubicomb/MDL-1.0) |
+| 18 | Unknown | YueMafighting/FollowYourPose_v1Text-to-Video | Updated4 days ago | [Link](https://huggingface.co/YueMafighting/FollowYourPose_v1) |
 
 ## Text2Text Generation
 

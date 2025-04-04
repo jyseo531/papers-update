@@ -13,7 +13,7 @@
 |**2025-04-02**|**Quattro: Transformer-Accelerated Iterative Linear Quadratic Regulator Framework for Fast Trajectory Optimization**|Yue Wang et.al.|[2504.01806v1](http://arxiv.org/abs/2504.01806v1)|**2025-04-02**|null|
 |**2025-04-02**|**Motility and rotation of multi-timescale microswimmers in linear background flows**|Eamonn A. Gaffney et.al.|[2504.01800v1](http://arxiv.org/abs/2504.01800v1)|**2025-04-02**|null|
 |**2025-04-02**|**SOLAQUA: SINTEF Ocean Large Aquaculture Robotics Dataset**|Sveinung Johan Ohrem et.al.|[2504.01790v1](http://arxiv.org/abs/2504.01790v1)|**2025-04-02**|null|
-|**2025-04-02**|**Beyond Non-Expert Demonstrations: Outcome-Driven Action Constraint for Offline Reinforcement Learning**|Ke Jiang et.al.|[2504.01719v1](http://arxiv.org/abs/2504.01719v1)|**2025-04-02**|null|
+|**2025-04-02**|**Beyond Non-Expert Demonstrations: Outcome-Driven Action Constraint for Offline Reinforcement Learning**|Ke Jiang et.al.|[2504.01719v2](http://arxiv.org/abs/2504.01719v2)|**2025-04-03**|null|
 |**2025-04-02**|**TransforMerger: Transformer-based Voice-Gesture Fusion for Robust Human-Robot Communication**|Petr Vanc et.al.|[2504.01708v1](http://arxiv.org/abs/2504.01708v1)|**2025-04-02**|null|
 |**2025-04-02**|**Reasoning LLMs for User-Aware Multimodal Conversational Agents**|Hamed Rahimi et.al.|[2504.01700v1](http://arxiv.org/abs/2504.01700v1)|**2025-04-02**|null|
 |**2025-04-02**|**Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation**|Junjie Chen et.al.|[2504.01668v1](http://arxiv.org/abs/2504.01668v1)|**2025-04-02**|null|

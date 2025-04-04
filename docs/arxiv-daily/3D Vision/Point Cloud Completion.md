@@ -18,7 +18,7 @@
 |**2025-04-02**|**Dust environment of long-period comet C/2023 A3 (Tsuchinshan-ATLAS)**|Fernando Moreno et.al.|[2504.01845v1](http://arxiv.org/abs/2504.01845v1)|**2025-04-02**|null|
 |**2025-04-02**|**Cramér--Rao Inequalities for Several Generalized Fisher Information**|Hao Wu et.al.|[2504.01837v1](http://arxiv.org/abs/2504.01837v1)|**2025-04-02**|null|
 |**2025-04-02**|**Autonomous optical navigation for DESTINY+: Enhancing misalignment robustness in flyby observations with a rotating telescope**|Takayuki Hosonuma et.al.|[2504.01835v1](http://arxiv.org/abs/2504.01835v1)|**2025-04-02**|null|
-|**2025-04-02**|**Is Lorentz invariance violation found?**|Giorgio Galanti et.al.|[2504.01830v1](http://arxiv.org/abs/2504.01830v1)|**2025-04-02**|null|
+|**2025-04-02**|**Is Lorentz invariance violation found?**|Giorgio Galanti et.al.|[2504.01830v2](http://arxiv.org/abs/2504.01830v2)|**2025-04-03**|null|
 |**2025-04-02**|**Multiplexed Control at Scale for Electrode Arrays in Trapped-Ion Quantum Processors**|Ryutaro Ohira et.al.|[2504.01815v1](http://arxiv.org/abs/2504.01815v1)|**2025-04-02**|null|
 |**2025-04-02**|**Non-collocated vibration absorption using delayed resonator for spectral and spacial tuning -- analysis and experimental validation**|Matěj Kuře et.al.|[2504.01812v1](http://arxiv.org/abs/2504.01812v1)|**2025-04-02**|null|
 |**2025-04-02**|**Detector Response to Gravitational Wave Polarizations in Gravitational Quantum Field Theory**|Cong Xu et.al.|[2504.01809v1](http://arxiv.org/abs/2504.01809v1)|**2025-04-02**|null|

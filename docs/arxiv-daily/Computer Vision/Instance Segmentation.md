@@ -14,7 +14,7 @@
 |**2025-04-02**|**Iterative Interpolation Schedules for Quantum Approximate Optimization Algorithm**|Anuj Apte et.al.|[2504.01694v1](http://arxiv.org/abs/2504.01694v1)|**2025-04-02**|null|
 |**2025-04-02**|**Segmentation variability and radiomics stability for predicting Triple-Negative Breast Cancer subtype using Magnetic Resonance Imaging**|Isabella Cama et.al.|[2504.01692v1](http://arxiv.org/abs/2504.01692v1)|**2025-04-02**|null|
 |**2025-04-02**|**Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation**|Junjie Chen et.al.|[2504.01668v1](http://arxiv.org/abs/2504.01668v1)|**2025-04-02**|null|
-|**2025-04-02**|**Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks**|Haosheng Li et.al.|[2504.01659v1](http://arxiv.org/abs/2504.01659v1)|**2025-04-02**|null|
+|**2025-04-02**|**Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks**|Haosheng Li et.al.|[2504.01659v2](http://arxiv.org/abs/2504.01659v2)|**2025-04-03**|null|
 |**2025-04-02**|**Q-Adapt: Adapting LMM for Visual Quality Assessment with Progressive Instruction Tuning**|Yiting Lu et.al.|[2504.01655v1](http://arxiv.org/abs/2504.01655v1)|**2025-04-02**|null|
 |**2025-04-02**|**ProtoGuard-guided PROPEL: Class-Aware Prototype Enhancement and Progressive Labeling for Incremental 3D Point Cloud Segmentation**|Haosheng Li et.al.|[2504.01648v1](http://arxiv.org/abs/2504.01648v1)|**2025-04-02**|null|
 |**2025-04-02**|**Dataset and Methodology for Material Identification and virtual s-SNOM Using AFM Phase Approach Curves**|Stefan R. Anton et.al.|[2504.01636v1](http://arxiv.org/abs/2504.01636v1)|**2025-04-02**|null|
