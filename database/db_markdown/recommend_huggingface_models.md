@@ -457,6 +457,7 @@ Updated on 2025-04-05
 | 474k | 5 | descript/dac_44khzFeature | UpdatedOct 11, 2024 | [Link](https://huggingface.co/descript/dac_44khz) |
 | 6 | 5 | omar07ibrahim/Nllb_az_testFeature | UpdatedJan 4, 2024 | [Link](https://huggingface.co/omar07ibrahim/Nllb_az_test) |
 | 10 | 5 | omar07ibrahim/NLLB_azFeature | UpdatedJan 4, 2024 | [Link](https://huggingface.co/omar07ibrahim/NLLB_az) |
+| 91 | 5 | Dream-org/Dream-v0-Instruct-7BFeature | Updatedabout 3 hours ago | [Link](https://huggingface.co/Dream-org/Dream-v0-Instruct-7B) |
 | 7.99k | 4 | OrcaDB/cde-small-v1Feature | UpdatedJan 2 | [Link](https://huggingface.co/OrcaDB/cde-small-v1) |
 | 13 | 4 | voidful/Llama-Typhoon-8B-R1Feature | Updated1 day ago | [Link](https://huggingface.co/voidful/Llama-Typhoon-8B-R1) |
 | 347 | 4 | DeepChem/SmilesTokenizer_PubChem_1MFeature | UpdatedMay 31, 2021 | [Link](https://huggingface.co/DeepChem/SmilesTokenizer_PubChem_1M) |
@@ -750,6 +751,7 @@ Updated on 2025-04-05
 | 1.84k |  | julien-c/hotdog-not-hotdogImage | UpdatedSep 5, 2022 | [Link](https://huggingface.co/julien-c/hotdog-not-hotdog) |
 | 2 | Unknown | prithivMLmods/Age-Classification-SigLIP2Image | Updatedabout 19 hours ago | [Link](https://huggingface.co/prithivMLmods/Age-Classification-SigLIP2) |
 | 228k |  | microsoft/swin-base-patch4-window7-224Image | UpdatedSep 10, 2023 | [Link](https://huggingface.co/microsoft/swin-base-patch4-window7-224) |
+| 2.55k |  | linkanjarad/mobilenet_v2_1 | UpdatedApr 26, 2023 | [Link](https://huggingface.co/linkanjarad/mobilenet_v2_1.0_224-plant-disease-identification) |
 
 ## Image Feature Extraction
 
@@ -1036,6 +1038,7 @@ Updated on 2025-04-05
 | 15 | Unknown | 3DAIGC/LHMImage-to-3D | Updatedabout 5 hours ago | [Link](https://huggingface.co/3DAIGC/LHM) |
 | 3 | Unknown | VAST-AI/TripoSFImage-to-3D | Updatedabout 9 hours ago | [Link](https://huggingface.co/VAST-AI/TripoSF) |
 | 8 | Unknown | Yuyang-z/genxdImage-to-3D | Updatedabout 4 hours ago | [Link](https://huggingface.co/Yuyang-z/genxd) |
+| 4 | Unknown | hbyang/Hi3DImage-to-3D | UpdatedSep 29, 2024 | [Link](https://huggingface.co/hbyang/Hi3D) |
 
 ## Image-to-Image
 
@@ -2075,6 +2078,7 @@ Updated on 2025-04-05
 | 6.01k | 31 | mixedbread-ai/mxbai-rerank-base-v2Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/mixedbread-ai/mxbai-rerank-base-v2) |
 | 221k | 20 | cross-encoder/ms-marco-TinyBERT-L2-v2Text | Updatedabout 2 hours ago | [Link](https://huggingface.co/cross-encoder/ms-marco-TinyBERT-L2-v2) |
 | 73.9k | 17 | cross-encoder/ms-marco-TinyBERT-L2Text | Updatedabout 2 hours ago | [Link](https://huggingface.co/cross-encoder/ms-marco-TinyBERT-L2) |
+| 560 | 13 | hotchpotch/japanese-bge-reranker-v2-m3-v1Text | Updated3 days ago | [Link](https://huggingface.co/hotchpotch/japanese-bge-reranker-v2-m3-v1) |
 | 1.43k | 12 | naver/provence-reranker-debertav3-v1Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/naver/provence-reranker-debertav3-v1) |
 | 359k | 11 | cross-encoder/ms-marco-MiniLM-L2-v2Text | Updatedabout 2 hours ago | [Link](https://huggingface.co/cross-encoder/ms-marco-MiniLM-L2-v2) |
 | 10.3k | 11 | cross-encoder/msmarco-MiniLM-L6-en-de-v1Text | Updatedabout 2 hours ago | [Link](https://huggingface.co/cross-encoder/msmarco-MiniLM-L6-en-de-v1) |
@@ -2204,6 +2208,7 @@ Updated on 2025-04-05
 | 14 | Unknown | Sony/soundctmText-to-Audio | UpdatedJun 5, 2024 | [Link](https://huggingface.co/Sony/soundctm) |
 | 11 | Unknown | AIGC-Audio/Make-An-Audio-3Text-to-Audio | UpdatedJul 8, 2024 | [Link](https://huggingface.co/AIGC-Audio/Make-An-Audio-3) |
 | 1 | Unknown | audo/Lumina-T2MusicText-to-Audio | UpdatedJun 16, 2024 | [Link](https://huggingface.co/audo/Lumina-T2Music) |
+| 2 | Unknown | suayptalha/SpeechT5-EliseText-to-Audio | Updated4 minutes ago | [Link](https://huggingface.co/suayptalha/SpeechT5-Elise) |
 
 ## Text-to-Image
 
@@ -2916,6 +2921,8 @@ Updated on 2025-04-05
 | 64 | 1 | yydxlv/colqwen2 | Updated17 days ago | [Link](https://huggingface.co/yydxlv/colqwen2.5-7b-v0.1) |
 | 184 | 1 | yydxlv/colqwen2-7b-v1 | Updated18 days ago | [Link](https://huggingface.co/yydxlv/colqwen2-7b-v1.0) |
 | 13 | 1 | tsystems/colqwen2 | Updated2 days ago | [Link](https://huggingface.co/tsystems/colqwen2.5-3b-multilingual-v1.0) |
+| 26 | 1 | zackriya/diagram2graph-adaptersVisual | Updatedabout 3 hours ago | [Link](https://huggingface.co/zackriya/diagram2graph-adapters) |
+| 28 | 1 | zackriya/diagram2graphVisual | Updatedabout 3 hours ago | [Link](https://huggingface.co/zackriya/diagram2graph) |
 | 4 | Unknown | starlight-ai/colpali-v1 | Updated20 days ago | [Link](https://huggingface.co/starlight-ai/colpali-v1.2-merged-onnx) |
 | Unknown | Unknown | pontino/finetune_colpali_v1_2-vdsid_french-4bitVisual | Updated20 days ago | [Link](https://huggingface.co/pontino/finetune_colpali_v1_2-vdsid_french-4bit) |
 | Unknown | Unknown | amaye15/colqwen2-1 | Updated19 days ago | [Link](https://huggingface.co/amaye15/colqwen2-1.0-alpha-inference) |
