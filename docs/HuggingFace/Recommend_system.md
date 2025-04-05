@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-04-04
+Updated on 2025-04-05
 
 > Generated from the Hugging Face database.
 
@@ -272,6 +272,7 @@ Updated on 2025-04-04
 | 674 | 4 | CAYTU/whosper-large-v2Automatic | Updated3 days ago | [Link](https://huggingface.co/CAYTU/whosper-large-v2) |
 | 155 | 4 | Na0s/Medical-Whisper-Large-v3Automatic | UpdatedOct 6, 2024 | [Link](https://huggingface.co/Na0s/Medical-Whisper-Large-v3) |
 | 207 | 4 | junnei/gemma-3-4b-it-speechAutomatic | Updatedabout 10 hours ago | [Link](https://huggingface.co/junnei/gemma-3-4b-it-speech) |
+| 131 | 4 | ibm-granite/granite-speech-3 | Updated1 day ago | [Link](https://huggingface.co/ibm-granite/granite-speech-3.2-8b) |
 | 382 | 3 | suzii/vi-whisper-large-v3-turbo-v1Automatic | UpdatedJan 15 | [Link](https://huggingface.co/suzii/vi-whisper-large-v3-turbo-v1) |
 | 75 | 3 | erenfazlioglu/whisper-small-turkish-tr-bestAutomatic | UpdatedOct 4, 2023 | [Link](https://huggingface.co/erenfazlioglu/whisper-small-turkish-tr-best) |
 | 851 | 3 | ivrit-ai/whisper-large-v3-turboAutomatic | Updated8 days ago | [Link](https://huggingface.co/ivrit-ai/whisper-large-v3-turbo) |
@@ -515,6 +516,7 @@ Updated on 2025-04-04
 | 105k |  | jinaai/jina-embeddings-v2-base-zhFeature | UpdatedJan 6 | [Link](https://huggingface.co/jinaai/jina-embeddings-v2-base-zh) |
 | 2.19M |  | cambridgeltl/SapBERT-from-PubMedBERT-fulltextFeature | UpdatedJun 14, 2023 | [Link](https://huggingface.co/cambridgeltl/SapBERT-from-PubMedBERT-fulltext) |
 | 2.99M |  | facebook/bart-baseFeature | UpdatedNov 16, 2022 | [Link](https://huggingface.co/facebook/bart-base) |
+| 85.3k |  | jinaai/jina-embeddings-v2-base-deFeature | UpdatedJan 6 | [Link](https://huggingface.co/jinaai/jina-embeddings-v2-base-de) |
 
 ## Fill-Mask
 
@@ -769,6 +771,7 @@ Updated on 2025-04-04
 | 1.04M | 41 | microsoft/rad-dinoImage | Updated14 days ago | [Link](https://huggingface.co/microsoft/rad-dino) |
 | 19.4k | 39 | bioptimus/H-optimus-0Image | UpdatedAug 2, 2024 | [Link](https://huggingface.co/bioptimus/H-optimus-0) |
 | 226k | 34 | facebook/dinov2-giantImage | UpdatedSep 6, 2023 | [Link](https://huggingface.co/facebook/dinov2-giant) |
+| 504 | 34 | nvidia/RADIOImage | UpdatedDec 10, 2024 | [Link](https://huggingface.co/nvidia/RADIO) |
 | 6.65k | 31 | OpenGVLab/InternViT-6B-448px-V2_5Image | UpdatedDec 9, 2024 | [Link](https://huggingface.co/OpenGVLab/InternViT-6B-448px-V2_5) |
 | 3.86k | 30 | nvidia/MambaVision-T-1KImage | UpdatedJul 25, 2024 | [Link](https://huggingface.co/nvidia/MambaVision-T-1K) |
 | 5.13k | 28 | MahmoodLab/TITANImage | UpdatedDec 3, 2024 | [Link](https://huggingface.co/MahmoodLab/TITAN) |
@@ -942,6 +945,7 @@ Updated on 2025-04-04
 | 4.38k | 11 | bartowski/mlabonne_gemma-3-27b-it-abliterated-GGUFImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/bartowski/mlabonne_gemma-3-27b-it-abliterated-GGUF) |
 | 862 | 11 | mlabonne/gemma-3-4b-it-abliteratedImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-4b-it-abliterated) |
 | 151 | 11 | google/gemma-3-27b-pt-qat-q4_0-ggufImage-Text-to-Text | Updatedabout 18 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-pt-qat-q4_0-gguf) |
+| 128 | 11 | google/gemma-3-4b-pt-qat-q4_0-ggufImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/google/gemma-3-4b-pt-qat-q4_0-gguf) |
 | 185 | 10 | prithivMLmods/Tokenized-OCRImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/prithivMLmods/Tokenized-OCR) |
 | 25 | 10 | prithivMLmods/Qwen2-VL-OCR2-2B-InstructImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/Qwen2-VL-OCR2-2B-Instruct) |
 | 9 | 10 | google/gemma-3-12b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-12b-pt) |
@@ -977,6 +981,7 @@ Updated on 2025-04-04
 | 11 | Unknown | bartowski/google_gemma-3-12b-it-GGUFImage-Text-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/bartowski/google_gemma-3-12b-it-GGUF) |
 | 10 | Unknown | mlabonne/gemma-3-27b-it-abliteratedImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-abliterated) |
 | 26 | Unknown | openfree/Qwen2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/openfree/Qwen2.5-VL-32B-Instruct-Q8_0-GGUF) |
+| 33 | Unknown | reducto/RolmOCRImage-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/reducto/RolmOCR) |
 
 ## Image-to-3D
 
@@ -1859,6 +1864,7 @@ Updated on 2025-04-04
 | 5.49k | 11 | gpustack/bge-reranker-v2-m3-GGUFText | UpdatedSep 29, 2024 | [Link](https://huggingface.co/gpustack/bge-reranker-v2-m3-GGUF) |
 | 26.7k | 11 | HuggingFaceTB/finemath-classifierText | UpdatedDec 19, 2024 | [Link](https://huggingface.co/HuggingFaceTB/finemath-classifier) |
 | 57.4k | 11 | classla/multilingual-IPTC-news-topic-classifierText | UpdatedFeb 25 | [Link](https://huggingface.co/classla/multilingual-IPTC-news-topic-classifier) |
+| 2.38k | 11 | Ray2333/GRM-Llama3 | UpdatedFeb 5 | [Link](https://huggingface.co/Ray2333/GRM-Llama3.2-3B-rewardmodel-ft) |
 | 482 | 10 | upskyy/ko-reranker-8kText | UpdatedAug 17, 2024 | [Link](https://huggingface.co/upskyy/ko-reranker-8k) |
 | 115 | 10 | prithivMLmods/PRM-Math-7B-ReasonerText | UpdatedJan 19 | [Link](https://huggingface.co/prithivMLmods/PRM-Math-7B-Reasoner) |
 | 13.2k | 10 | SuperAnnotate/ai-detectorText | UpdatedDec 17, 2024 | [Link](https://huggingface.co/SuperAnnotate/ai-detector) |
@@ -2025,7 +2031,9 @@ Updated on 2025-04-04
 | 335 | 20 | google/txgemma-27b-chatText | Updated2 days ago | [Link](https://huggingface.co/google/txgemma-27b-chat) |
 | 473 | 20 | google/txgemma-9b-chatText | Updated4 days ago | [Link](https://huggingface.co/google/txgemma-9b-chat) |
 | 14.1k | 19 | alamios/Mistral-Small-3 | Updated10 days ago | [Link](https://huggingface.co/alamios/Mistral-Small-3.1-DRAFT-0.5B) |
+| 358 | 19 | all-hands/openhands-lm-7b-v0 | Updated1 day ago | [Link](https://huggingface.co/all-hands/openhands-lm-7b-v0.1) |
 | 969 | 18 | bartowski/all-hands_openhands-lm-32b-v0 | Updated2 days ago | [Link](https://huggingface.co/bartowski/all-hands_openhands-lm-32b-v0.1-GGUF) |
+| 60 | 17 | open-thoughts/OpenThinker2-32BText | Updated1 day ago | [Link](https://huggingface.co/open-thoughts/OpenThinker2-32B) |
 | 578k | 6.11k | meta-llama/Meta-Llama-3-8BText | UpdatedSep 27, 2024 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
@@ -2944,6 +2952,7 @@ Updated on 2025-04-04
 | 57 | 19 | google/pix2struct-screen2words-largeVisual | UpdatedMay 19, 2023 | [Link](https://huggingface.co/google/pix2struct-screen2words-large) |
 | 245 | 18 | internlm/internlm-xcomposer2-vl-1_8bVisual | UpdatedApr 9, 2024 | [Link](https://huggingface.co/internlm/internlm-xcomposer2-vl-1_8b) |
 | 1.4k | 15 | DAMO-NLP-SG/VideoLLaMA2 | UpdatedOct 25, 2024 | [Link](https://huggingface.co/DAMO-NLP-SG/VideoLLaMA2.1-7B-AV) |
+| 738 | 15 | DAMO-NLP-SG/VideoLLaMA2-7B-16FVisual | UpdatedAug 13, 2024 | [Link](https://huggingface.co/DAMO-NLP-SG/VideoLLaMA2-7B-16F) |
 | 366 | 11 | RussRobin/SpatialBot-3BVisual | UpdatedSep 10, 2024 | [Link](https://huggingface.co/RussRobin/SpatialBot-3B) |
 | 228 | 10 | google/pix2struct-infographics-vqa-largeVisual | UpdatedMay 19, 2023 | [Link](https://huggingface.co/google/pix2struct-infographics-vqa-large) |
 | 783 | 10 | mPLUG/mPLUG-Owl3-7B-241101Visual | UpdatedNov 26, 2024 | [Link](https://huggingface.co/mPLUG/mPLUG-Owl3-7B-241101) |
