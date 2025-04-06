@@ -222,6 +222,7 @@ Updated on 2025-04-06
 | 250k | 105 | deepdml/faster-whisper-large-v3-turbo-ct2Automatic | UpdatedOct 27, 2024 | [Link](https://huggingface.co/deepdml/faster-whisper-large-v3-turbo-ct2) |
 | 5.58M | 97 | jonatasgrosman/wav2vec2-large-xlsr-53-chinese-zh-cnAutomatic | UpdatedDec 14, 2022 | [Link](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-chinese-zh-cn) |
 | 124k | 88 | nvidia/parakeet-tdt-1 | Updated21 days ago | [Link](https://huggingface.co/nvidia/parakeet-tdt-1.1b) |
+| 224 | 76 | jonatasgrosman/whisper-large-zh-cv11Automatic | UpdatedDec 22, 2022 | [Link](https://huggingface.co/jonatasgrosman/whisper-large-zh-cv11) |
 | 2k | 73 | alvanlii/whisper-small-cantoneseAutomatic | UpdatedNov 12, 2024 | [Link](https://huggingface.co/alvanlii/whisper-small-cantonese) |
 | 9.03k | 66 | primeline/whisper-large-v3-germanAutomatic | UpdatedDec 3, 2024 | [Link](https://huggingface.co/primeline/whisper-large-v3-german) |
 | 18 | 65 | microsoft/Phi-4-multimodal-instructAutomatic | Updatedabout 1 hour ago | [Link](https://huggingface.co/microsoft/Phi-4-multimodal-instruct) |
@@ -240,6 +241,7 @@ Updated on 2025-04-06
 | 3.9k | 29 | primeline/whisper-large-v3-turbo-germanAutomatic | UpdatedDec 3, 2024 | [Link](https://huggingface.co/primeline/whisper-large-v3-turbo-german) |
 | 7.94k | 26 | UsefulSensors/moonshine-baseAutomatic | Updated27 days ago | [Link](https://huggingface.co/UsefulSensors/moonshine-base) |
 | 234k | 26 | Systran/faster-whisper-mediumAutomatic | UpdatedNov 23, 2023 | [Link](https://huggingface.co/Systran/faster-whisper-medium) |
+| 1.27k | 26 | bofenghuang/whisper-large-v3-frenchAutomatic | UpdatedFeb 5, 2024 | [Link](https://huggingface.co/bofenghuang/whisper-large-v3-french) |
 | 2.03k | 24 | KBLab/kb-whisper-largeAutomatic | Updatedabout 6 hours ago | [Link](https://huggingface.co/KBLab/kb-whisper-large) |
 | 41 | 24 | nvidia/stt_en_fastconformer_transducer_xlargeAutomatic | Updated17 days ago | [Link](https://huggingface.co/nvidia/stt_en_fastconformer_transducer_xlarge) |
 | 13.4k | 23 | nvidia/parakeet-tdt_ctc-110mAutomatic | Updated7 days ago | [Link](https://huggingface.co/nvidia/parakeet-tdt_ctc-110m) |
@@ -620,6 +622,7 @@ Updated on 2025-04-06
 | 2 | Unknown | IIC/RigoBERTa-ClinicalFill-Mask | UpdatedJan 16 | [Link](https://huggingface.co/IIC/RigoBERTa-Clinical) |
 | 1.15M |  | google-bert/bert-large-uncasedFill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/google-bert/bert-large-uncased) |
 | 491k |  | distilbert/distilbert-base-casedFill-Mask | UpdatedMay 6, 2024 | [Link](https://huggingface.co/distilbert/distilbert-base-cased) |
+| 4.23M |  | yikuan8/Clinical-LongformerFill-Mask | UpdatedJan 24, 2023 | [Link](https://huggingface.co/yikuan8/Clinical-Longformer) |
 
 ## Graph Machine Learning
 
@@ -712,6 +715,7 @@ Updated on 2025-04-06
 | 3.98k | 5 | MBZUAI/swiftformer-xsImage | UpdatedDec 12, 2023 | [Link](https://huggingface.co/MBZUAI/swiftformer-xs) |
 | 157M | 4 | timm/mobilenetv3_small_100 | UpdatedJan 21 | [Link](https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k) |
 | 24 | 4 | carlosaguayo/cats_vs_dogsImage | UpdatedJan 13, 2022 | [Link](https://huggingface.co/carlosaguayo/cats_vs_dogs) |
+| 34 | 4 | Ateeqq/ai-vs-human-image-detectorImage | Updatedabout 3 hours ago | [Link](https://huggingface.co/Ateeqq/ai-vs-human-image-detector) |
 | 11 | 3 | dglownia/MobileNetV3Large-Bird-Classification-KaggleImage | UpdatedMar 9, 2023 | [Link](https://huggingface.co/dglownia/MobileNetV3Large-Bird-Classification-Kaggle) |
 | 3.9k | 3 | facebook/convnext-large-224-22k-1kImage | UpdatedNov 21, 2023 | [Link](https://huggingface.co/facebook/convnext-large-224-22k-1k) |
 | 3 | 3 | prithivMLmods/Gym-Workout-Classifier-SigLIP2Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/prithivMLmods/Gym-Workout-Classifier-SigLIP2) |
@@ -928,8 +932,10 @@ Updated on 2025-04-06
 | 12.4k | 38 | zhibinlan/LLaVE-2BImage-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/zhibinlan/LLaVE-2B) |
 | 3.51k | 37 | HuggingFaceTB/SmolVLM2-500M-Video-InstructImage-Text-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM2-500M-Video-Instruct) |
 | 23 | 35 | google/gemma-3-27b-it-qat-q4_0-ggufImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-it-qat-q4_0-gguf) |
+| 1.51k | 35 | unsloth/Llama-4-Scout-17B-16E-Instruct-unsloth-bnb-4bitImage-Text-to-Text | Updatedabout 2 hours ago | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct-unsloth-bnb-4bit) |
 | 4.01k | 31 | google/paligemma2-3b-mix-448Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-3b-mix-448) |
 | 2.75k | 29 | HuggingFaceTB/SmolVLM2-256M-Video-InstructImage-Text-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM2-256M-Video-Instruct) |
+| 2.28k | 29 | unsloth/Llama-4-Scout-17B-16E-InstructImage-Text-to-Text | Updatedabout 12 hours ago | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct) |
 | 26 | 28 | VIDraft/Gemma-3-R1984-12BImage-Text-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/VIDraft/Gemma-3-R1984-12B) |
 | 36 | 28 | meta-llama/Llama-4-Maverick-17B-128EImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E) |
 | 5 | 27 | openfree/Gemma-3-R1984-12B-Q8_0-GGUFImage-Text-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/openfree/Gemma-3-R1984-12B-Q8_0-GGUF) |
@@ -1049,6 +1055,7 @@ Updated on 2025-04-06
 | 3 | Unknown | VAST-AI/TripoSFImage-to-3D | Updatedabout 9 hours ago | [Link](https://huggingface.co/VAST-AI/TripoSF) |
 | 8 | Unknown | Yuyang-z/genxdImage-to-3D | Updatedabout 4 hours ago | [Link](https://huggingface.co/Yuyang-z/genxd) |
 | 4 | Unknown | hbyang/Hi3DImage-to-3D | UpdatedSep 29, 2024 | [Link](https://huggingface.co/hbyang/Hi3D) |
+| 8 | Unknown | facebook/VGGSfMImage-to-3D | UpdatedOct 17, 2024 | [Link](https://huggingface.co/facebook/VGGSfM) |
 
 ## Image-to-Image
 
@@ -2052,6 +2059,7 @@ Updated on 2025-04-06
 | 969 | 18 | bartowski/all-hands_openhands-lm-32b-v0 | Updated2 days ago | [Link](https://huggingface.co/bartowski/all-hands_openhands-lm-32b-v0.1-GGUF) |
 | 60 | 17 | open-thoughts/OpenThinker2-32BText | Updated1 day ago | [Link](https://huggingface.co/open-thoughts/OpenThinker2-32B) |
 | 938 | 16 | ubergarm/DeepSeek-V3-0324-GGUFText | Updated3 days ago | [Link](https://huggingface.co/ubergarm/DeepSeek-V3-0324-GGUF) |
+| 2.09k | 16 | google/gemma-3-1b-it-qat-q4_0-ggufText | Updated3 days ago | [Link](https://huggingface.co/google/gemma-3-1b-it-qat-q4_0-gguf) |
 | 578k | 6.11k | meta-llama/Meta-Llama-3-8BText | UpdatedSep 27, 2024 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |

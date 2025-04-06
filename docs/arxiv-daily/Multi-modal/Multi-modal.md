@@ -28,7 +28,7 @@
 |**2025-04-02**|**Image Difference Grounding with Natural Language**|Wenxuan Wang et.al.|[2504.01952v1](http://arxiv.org/abs/2504.01952v1)|**2025-04-02**|null|
 |**2025-04-02**|**Review, Refine, Repeat: Understanding Iterative Decoding of AI Agents with Dynamic Evaluation and Selection**|Souradip Chakraborty et.al.|[2504.01931v1](http://arxiv.org/abs/2504.01931v1)|**2025-04-02**|null|
 |**2025-04-02**|**Is Less Really More? Fake News Detection with Limited Information**|Zhaoyang Cao et.al.|[2504.01922v1](http://arxiv.org/abs/2504.01922v1)|**2025-04-02**|[link](https://github.com/kappakant/SLIM)|
-|**2025-04-02**|**FineLIP: Extending CLIP's Reach via Fine-Grained Alignment with Longer Text Inputs**|Mothilal Asokan et.al.|[2504.01916v1](http://arxiv.org/abs/2504.01916v1)|**2025-04-02**|null|
+|**2025-04-02**|**FineLIP: Extending CLIP's Reach via Fine-Grained Alignment with Longer Text Inputs**|Mothilal Asokan et.al.|[2504.01916v1](http://arxiv.org/abs/2504.01916v1)|**2025-04-02**|[link](https://github.com/tiiuae/FineLIP)|
 |**2025-04-02**|**Multi-fidelity Parameter Estimation Using Conditional Diffusion Models**|Caroline Tatsuoka et.al.|[2504.01894v1](http://arxiv.org/abs/2504.01894v1)|**2025-04-02**|null|
-|**2025-04-02**|**Spatial-R1: Enhancing MLLMs in Video Spatial Reasoning**|Kun Ouyang et.al.|[2504.01805v1](http://arxiv.org/abs/2504.01805v1)|**2025-04-02**|null|
+|**2025-04-02**|**Spatial-R1: Enhancing MLLMs in Video Spatial Reasoning**|Kun Ouyang et.al.|[2504.01805v1](http://arxiv.org/abs/2504.01805v1)|**2025-04-02**|[link](https://github.com/ouyangkun10/spatial-r1)|
 |**2025-04-02**|**UniViTAR: Unified Vision Transformer with Native Resolution**|Limeng Qiao et.al.|[2504.01792v1](http://arxiv.org/abs/2504.01792v1)|**2025-04-02**|null|
