@@ -11,7 +11,7 @@
 |**2025-04-03**|**Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving**|Daoguang Zan et.al.|[2504.02605v1](http://arxiv.org/abs/2504.02605v1)|**2025-04-03**|null|
 |**2025-04-03**|**Regulating Spatial Fairness in a Tripartite Micromobility Sharing System via Reinforcement Learning**|Matteo Cederle et.al.|[2504.02597v1](http://arxiv.org/abs/2504.02597v1)|**2025-04-03**|null|
 |**2025-04-03**|**LexPam: Legal Procedure Awareness-Guided Mathematical Reasoning**|Kepu Zhang et.al.|[2504.02590v1](http://arxiv.org/abs/2504.02590v1)|**2025-04-03**|null|
-|**2025-04-03**|**Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme**|Yan Ma et.al.|[2504.02587v1](http://arxiv.org/abs/2504.02587v1)|**2025-04-03**|null|
+|**2025-04-03**|**Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme**|Yan Ma et.al.|[2504.02587v2](http://arxiv.org/abs/2504.02587v2)|**2025-04-04**|null|
 |**2025-04-03**|**MAD: A Magnitude And Direction Policy Parametrization for Stability Constrained Reinforcement Learning**|Luca Furieri et.al.|[2504.02565v1](http://arxiv.org/abs/2504.02565v1)|**2025-04-03**|null|
 |**2025-04-03**|**GPG: A Simple and Strong Reinforcement Learning Baseline for Model Reasoning**|Xiangxiang Chu et.al.|[2504.02546v1](http://arxiv.org/abs/2504.02546v1)|**2025-04-03**|null|
 |**2025-04-03**|**Probabilistic Pontryagin's Maximum Principle for Continuous-Time Model-Based Reinforcement Learning**|David Leeftink et.al.|[2504.02543v1](http://arxiv.org/abs/2504.02543v1)|**2025-04-03**|null|

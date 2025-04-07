@@ -15,7 +15,7 @@
 |**2025-04-03**|**MegaMath: Pushing the Limits of Open Math Corpora**|Fan Zhou et.al.|[2504.02807v1](http://arxiv.org/abs/2504.02807v1)|**2025-04-03**|null|
 |**2025-04-03**|**The M31-M33 Interaction: Impact on M31's Center of Mass Motion and Satellite Orbits**|Ekta Patel et.al.|[2504.02805v1](http://arxiv.org/abs/2504.02805v1)|**2025-04-03**|null|
 |**2025-04-03**|**F-ViTA: Foundation Model Guided Visible to Thermal Translation**|Jay N. Paranjape et.al.|[2504.02801v1](http://arxiv.org/abs/2504.02801v1)|**2025-04-03**|null|
-|**2025-04-03**|**A Survey of Large Language Models in Mental Health Disorder Detection on Social Media**|Zhuohan Ge et.al.|[2504.02800v1](http://arxiv.org/abs/2504.02800v1)|**2025-04-03**|null|
+|**2025-04-03**|**A Survey of Large Language Models in Mental Health Disorder Detection on Social Media**|Zhuohan Ge et.al.|[2504.02800v2](http://arxiv.org/abs/2504.02800v2)|**2025-04-04**|null|
 |**2025-04-03**|**Systematic Evaluation of Large Vision-Language Models for Surgical Artificial Intelligence**|Anita Rau et.al.|[2504.02799v1](http://arxiv.org/abs/2504.02799v1)|**2025-04-03**|null|
 |**2025-04-03**|**North+Lone Star Supernova Host Survey I: Local Host-Galaxy H$α$ Surface Brightness and the Hubble Residuals of Type Ia Supernovae**|Ann M. Isaacs et.al.|[2504.02798v1](http://arxiv.org/abs/2504.02798v1)|**2025-04-03**|null|
 |**2025-04-03**|**Spline-based Transformers**|Prashanth Chandran et.al.|[2504.02797v1](http://arxiv.org/abs/2504.02797v1)|**2025-04-03**|null|

@@ -15,7 +15,7 @@
 |**2025-04-03**|**Stability of acoustic streaming jets**|Bjarne Vincent et.al.|[2504.02756v1](http://arxiv.org/abs/2504.02756v1)|**2025-04-03**|null|
 |**2025-04-03**|**GEOPARD: Geometric Pretraining for Articulation Prediction in 3D Shapes**|Pradyumn Goyal et.al.|[2504.02747v1](http://arxiv.org/abs/2504.02747v1)|**2025-04-03**|null|
 |**2025-04-03**|**Sequential Binary Hypothesis Testing with Competing Agents under Information Asymmetry**|Aneesh Raghavan et.al.|[2504.02743v1](http://arxiv.org/abs/2504.02743v1)|**2025-04-03**|null|
-|**2025-04-03**|**Why do LLMs attend to the first token?**|Federico Barbero et.al.|[2504.02732v1](http://arxiv.org/abs/2504.02732v1)|**2025-04-03**|null|
+|**2025-04-03**|**Why do LLMs attend to the first token?**|Federico Barbero et.al.|[2504.02732v2](http://arxiv.org/abs/2504.02732v2)|**2025-04-04**|null|
 |**2025-04-03**|**ERPO: Advancing Safety Alignment via Ex-Ante Reasoning Preference Optimization**|Kehua Feng et.al.|[2504.02725v1](http://arxiv.org/abs/2504.02725v1)|**2025-04-03**|null|
 |**2025-04-03**|**On the topology of real algebraic stacks**|Emiliano Ambrosi et.al.|[2504.02720v1](http://arxiv.org/abs/2504.02720v1)|**2025-04-03**|null|
 |**2025-04-03**|**Equality of tropical rank and dimension for tropical linear series**|Omid Amini et.al.|[2504.02715v1](http://arxiv.org/abs/2504.02715v1)|**2025-04-03**|null|
@@ -26,7 +26,7 @@
 |**2025-04-03**|**Spectropolarimetry for Discerning Geometry and Structure in Circumstellar Media of Hot Massive Stars**|Richard Ignace et.al.|[2504.02659v1](http://arxiv.org/abs/2504.02659v1)|**2025-04-03**|null|
 |**2025-04-03**|**MiLo: Efficient Quantized MoE Inference with Mixture of Low-Rank Compensators**|Beichen Huang et.al.|[2504.02658v1](http://arxiv.org/abs/2504.02658v1)|**2025-04-03**|null|
 |**2025-04-03**|**Investigating Simple Drawings of $K_n$ using SAT**|Helena Bergold et.al.|[2504.02650v1](http://arxiv.org/abs/2504.02650v1)|**2025-04-03**|null|
-|**2025-04-03**|**Controlled Social Learning: Altruism vs. Bias**|Raghu Arghal et.al.|[2504.02648v1](http://arxiv.org/abs/2504.02648v1)|**2025-04-03**|null|
+|**2025-04-03**|**Controlled Social Learning: Altruism vs. Bias**|Raghu Arghal et.al.|[2504.02648v2](http://arxiv.org/abs/2504.02648v2)|**2025-04-04**|null|
 |**2025-04-03**|**Continuous two-valued discrete-time dynamical systems and actions of two-valued groups**|Konstantin M. Posadskiy et.al.|[2504.02635v1](http://arxiv.org/abs/2504.02635v1)|**2025-04-03**|null|
 |**2025-04-03**|**The FCC integrated programme: a physics manifesto**|Alain Blondel et.al.|[2504.02634v1](http://arxiv.org/abs/2504.02634v1)|**2025-04-03**|null|
 |**2025-04-03**|**Grammar-based Ordinary Differential Equation Discovery**|Karin L. Yu et.al.|[2504.02630v1](http://arxiv.org/abs/2504.02630v1)|**2025-04-03**|null|

@@ -29,6 +29,6 @@
 |**2025-04-03**|**PicoPose: Progressive Pixel-to-Pixel Correspondence Learning for Novel Object Pose Estimation**|Lihua Liu et.al.|[2504.02617v1](http://arxiv.org/abs/2504.02617v1)|**2025-04-03**|null|
 |**2025-04-03**|**UAV-Assisted 5G Networks: Mobility-Aware 3D Trajectory Optimization and Resource Allocation for Dynamic Environments**|Asad Mahmood et.al.|[2504.02613v1](http://arxiv.org/abs/2504.02613v1)|**2025-04-03**|null|
 |**2025-04-03**|**Fine-Tuning Visual Autoregressive Models for Subject-Driven Generation**|Jiwoo Chung et.al.|[2504.02612v1](http://arxiv.org/abs/2504.02612v1)|**2025-04-03**|null|
-|**2025-04-03**|**Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme**|Yan Ma et.al.|[2504.02587v1](http://arxiv.org/abs/2504.02587v1)|**2025-04-03**|null|
+|**2025-04-03**|**Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme**|Yan Ma et.al.|[2504.02587v2](http://arxiv.org/abs/2504.02587v2)|**2025-04-04**|null|
 |**2025-04-03**|**Deep learning for music generation. Four approaches and their comparative evaluation**|Razvan Paroiu et.al.|[2504.02586v1](http://arxiv.org/abs/2504.02586v1)|**2025-04-03**|null|
 |**2025-04-03**|**Rip Current Segmentation: A Novel Benchmark and YOLOv8 Baseline Results**|Andrei Dumitriu et.al.|[2504.02558v1](http://arxiv.org/abs/2504.02558v1)|**2025-04-03**|null|

@@ -31,4 +31,4 @@
 |**2025-04-03**|**Beyond Discretization: A Continuous-Time Framework for Event Generation in Neuromorphic Pixels**|Aaron J. Hendrickson et.al.|[2504.02803v1](http://arxiv.org/abs/2504.02803v1)|**2025-04-03**|null|
 |**2025-04-03**|**Complex Heavy Quarkonium Potential in an Anisotropic Collisional Quark-Gluon Plasma**|Manas Debnath et.al.|[2504.02802v1](http://arxiv.org/abs/2504.02802v1)|**2025-04-03**|null|
 |**2025-04-03**|**F-ViTA: Foundation Model Guided Visible to Thermal Translation**|Jay N. Paranjape et.al.|[2504.02801v1](http://arxiv.org/abs/2504.02801v1)|**2025-04-03**|null|
-|**2025-04-03**|**A Survey of Large Language Models in Mental Health Disorder Detection on Social Media**|Zhuohan Ge et.al.|[2504.02800v1](http://arxiv.org/abs/2504.02800v1)|**2025-04-03**|null|
+|**2025-04-03**|**A Survey of Large Language Models in Mental Health Disorder Detection on Social Media**|Zhuohan Ge et.al.|[2504.02800v2](http://arxiv.org/abs/2504.02800v2)|**2025-04-04**|null|

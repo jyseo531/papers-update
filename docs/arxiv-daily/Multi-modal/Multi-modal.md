@@ -9,7 +9,7 @@
 |**2025-04-03**|**SCMPPI: Supervised Contrastive Multimodal Framework for Predicting Protein-Protein Interactions**|Shengrui XU et.al.|[2504.02698v1](http://arxiv.org/abs/2504.02698v1)|**2025-04-03**|null|
 |**2025-04-03**|**RoSMM: A Robust and Secure Multi-Modal Watermarking Framework for Diffusion Models**|ZhongLi Fang et.al.|[2504.02640v1](http://arxiv.org/abs/2504.02640v1)|**2025-04-03**|null|
 |**2025-04-03**|**Reasoning Inconsistencies and How to Mitigate Them in Deep Learning**|Erik Arakelyan et.al.|[2504.02577v1](http://arxiv.org/abs/2504.02577v1)|**2025-04-03**|null|
-|**2025-04-03**|**Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation**|Fa-Ting Hong et.al.|[2504.02542v1](http://arxiv.org/abs/2504.02542v1)|**2025-04-03**|null|
+|**2025-04-03**|**Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation**|Fa-Ting Hong et.al.|[2504.02542v2](http://arxiv.org/abs/2504.02542v2)|**2025-04-04**|null|
 |**2025-04-03**|**Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision**|Xiaofeng Han et.al.|[2504.02477v1](http://arxiv.org/abs/2504.02477v1)|**2025-04-03**|null|
 |**2025-04-03**|**OmniTalker: Real-Time Text-Driven Talking Head Generation with In-Context Audio-Visual Style Replication**|Zhongjian Wang et.al.|[2504.02433v1](http://arxiv.org/abs/2504.02433v1)|**2025-04-03**|null|
 |**2025-04-03**|**X-Capture: An Open-Source Portable Device for Multi-Sensory Learning**|Samuel Clarke et.al.|[2504.02318v1](http://arxiv.org/abs/2504.02318v1)|**2025-04-03**|null|

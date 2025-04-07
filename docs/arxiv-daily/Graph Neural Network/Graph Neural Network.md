@@ -18,7 +18,7 @@
 |**2025-04-03**|**Learning dynamics on the picosecond timescale in a superconducting synapse structure**|Ken Segall et.al.|[2504.02754v1](http://arxiv.org/abs/2504.02754v1)|**2025-04-03**|null|
 |**2025-04-03**|**Atrial constitutive neural networks**|Mathias Peirlinck et.al.|[2504.02748v1](http://arxiv.org/abs/2504.02748v1)|**2025-04-03**|null|
 |**2025-04-03**|**Faster Mixing of the Jerrum-Sinclair Chain**|Xiaoyu Chen et.al.|[2504.02740v1](http://arxiv.org/abs/2504.02740v1)|**2025-04-03**|null|
-|**2025-04-03**|**RBR4DNN: Requirements-based Testing of Neural Networks**|Nusrat Jahan Mozumder et.al.|[2504.02737v1](http://arxiv.org/abs/2504.02737v1)|**2025-04-03**|null|
+|**2025-04-03**|**RBT4DNN: Requirements-based Testing of Neural Networks**|Nusrat Jahan Mozumder et.al.|[2504.02737v2](http://arxiv.org/abs/2504.02737v2)|**2025-04-04**|null|
 |**2025-04-03**|**Monitored Fluctuating Hydrodynamics**|Sarang Gopalakrishnan et.al.|[2504.02734v1](http://arxiv.org/abs/2504.02734v1)|**2025-04-03**|null|
 |**2025-04-03**|**HQViT: Hybrid Quantum Vision Transformer for Image Classification**|Hui Zhang et.al.|[2504.02730v1](http://arxiv.org/abs/2504.02730v1)|**2025-04-03**|null|
 |**2025-04-03**|**Dynamic Directional Routing of Freight in the Physical Internet**|Sahrish Jaleel Shaikh et.al.|[2504.02722v1](http://arxiv.org/abs/2504.02722v1)|**2025-04-03**|null|

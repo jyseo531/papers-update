@@ -29,6 +29,6 @@
 |**2025-04-03**|**Anisotropy analysis of bamboo and tooth using 4-angle polarization micro-spectroscopy**|Meguya Ryu et.al.|[2504.02711v1](http://arxiv.org/abs/2504.02711v1)|**2025-04-03**|null|
 |**2025-04-03**|**Critical Scaling of the Quantum Wasserstein Distance**|Gonzalo Camacho et.al.|[2504.02709v1](http://arxiv.org/abs/2504.02709v1)|**2025-04-03**|null|
 |**2025-04-03**|**Centroidal Voronoi Tessellations as Electrostatic Equilibria: A Generalized Thomson Problem in Convex Domains**|Zachary Mullaghy et.al.|[2504.02700v1](http://arxiv.org/abs/2504.02700v1)|**2025-04-03**|null|
-|**2025-04-03**|**GPTQv2: Efficient Finetuning-Free Quantization for Asymmetric Calibration**|Yuhang Li et.al.|[2504.02692v1](http://arxiv.org/abs/2504.02692v1)|**2025-04-03**|null|
+|**2025-04-03**|**GPTQv2: Efficient Finetuning-Free Quantization for Asymmetric Calibration**|Yuhang Li et.al.|[2504.02692v2](http://arxiv.org/abs/2504.02692v2)|**2025-04-04**|null|
 |**2025-04-03**|**Planar Laser-Induced Fluorescence system for Space and Phase-resolved Ion Velocity Distribution Function Measurements**|Sung Hyun Son et.al.|[2504.02690v1](http://arxiv.org/abs/2504.02690v1)|**2025-04-03**|null|
 |**2025-04-03**|**High Chern numbers and topological flat bands in high-field polarized Kitaev magnets on the star lattice**|Zixuan Zou et.al.|[2504.02684v1](http://arxiv.org/abs/2504.02684v1)|**2025-04-03**|null|
