@@ -793,6 +793,7 @@ Updated on 2025-04-07
 | 3.54k | 48 | apple/aimv2-large-patch14-224Image | Updated3 days ago | [Link](https://huggingface.co/apple/aimv2-large-patch14-224) |
 | 1.04M | 41 | microsoft/rad-dinoImage | Updated14 days ago | [Link](https://huggingface.co/microsoft/rad-dino) |
 | 19.4k | 39 | bioptimus/H-optimus-0Image | UpdatedAug 2, 2024 | [Link](https://huggingface.co/bioptimus/H-optimus-0) |
+| 1.22k | 37 | OpenGVLab/InternVL-14B-224pxImage | UpdatedDec 9, 2024 | [Link](https://huggingface.co/OpenGVLab/InternVL-14B-224px) |
 | 226k | 34 | facebook/dinov2-giantImage | UpdatedSep 6, 2023 | [Link](https://huggingface.co/facebook/dinov2-giant) |
 | 504 | 34 | nvidia/RADIOImage | UpdatedDec 10, 2024 | [Link](https://huggingface.co/nvidia/RADIO) |
 | 6.65k | 31 | OpenGVLab/InternViT-6B-448px-V2_5Image | UpdatedDec 9, 2024 | [Link](https://huggingface.co/OpenGVLab/InternViT-6B-448px-V2_5) |
@@ -857,6 +858,7 @@ Updated on 2025-04-07
 | 5.73k | 10 | shi-labs/oneformer_ade20k_dinat_largeImage | UpdatedAug 30, 2023 | [Link](https://huggingface.co/shi-labs/oneformer_ade20k_dinat_large) |
 | 48 | 9 | SerdarHelli/Segmentation-of-Teeth-in-Panoramic-X-ray-Image-Using-U-NetImage | UpdatedJun 29, 2022 | [Link](https://huggingface.co/SerdarHelli/Segmentation-of-Teeth-in-Panoramic-X-ray-Image-Using-U-Net) |
 | 3.06k | 8 | Intel/dpt-large-adeImage | UpdatedMar 25, 2024 | [Link](https://huggingface.co/Intel/dpt-large-ade) |
+| 3.03k | 8 | google/deeplabv3_mobilenet_v2_1 | UpdatedNov 10, 2022 | [Link](https://huggingface.co/google/deeplabv3_mobilenet_v2_1.0_513) |
 | 46.1k | 7 | ZhengPeng7/BiRefNet-portraitImage | Updatedabout 19 hours ago | [Link](https://huggingface.co/ZhengPeng7/BiRefNet-portrait) |
 | 4.92k | 7 | nvidia/segformer-b0-finetuned-cityscapes-1024-1024Image | UpdatedAug 8, 2022 | [Link](https://huggingface.co/nvidia/segformer-b0-finetuned-cityscapes-1024-1024) |
 | 71 | 7 | finloop/yolov8s-seg-solar-panelsImage | UpdatedJul 23, 2023 | [Link](https://huggingface.co/finloop/yolov8s-seg-solar-panels) |
@@ -1225,6 +1227,7 @@ Updated on 2025-04-07
 | 7 | 11 | stepfun-ai/stepvideo-ti2vImage-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/stepfun-ai/stepvideo-ti2v) |
 | 635 | 10 | calcuis/cosmosImage-to-Video | Updated29 days ago | [Link](https://huggingface.co/calcuis/cosmos) |
 | 10.7k | 6 | kiwhansong/DFoTImage-to-Video | UpdatedFeb 11 | [Link](https://huggingface.co/kiwhansong/DFoT) |
+| 387 | 6 | weights/stable-video-diffusion-img2vid-xt-1-1Image-to-Video | UpdatedApr 12, 2024 | [Link](https://huggingface.co/weights/stable-video-diffusion-img2vid-xt-1-1) |
 | 16 | 5 | chenguolin/sv3d-diffusersImage-to-Video | UpdatedOct 16, 2024 | [Link](https://huggingface.co/chenguolin/sv3d-diffusers) |
 | 1 | 5 | DropletX/DropletVideo-5BImage-to-Video | Updated6 days ago | [Link](https://huggingface.co/DropletX/DropletVideo-5B) |
 | 792 | 3 | city96/HunyuanVideo-I2V-ggufImage-to-Video | Updatedabout 15 hours ago | [Link](https://huggingface.co/city96/HunyuanVideo-I2V-gguf) |
@@ -1946,6 +1949,7 @@ Updated on 2025-04-07
 | 18 | 2 | iceman2434/xlm-roberta-base-fake-news-detection-tlText | UpdatedOct 21, 2024 | [Link](https://huggingface.co/iceman2434/xlm-roberta-base-fake-news-detection-tl) |
 | 48 | 2 | AlexTANG-JX/Tarot_Question_DetectorText | Updated21 days ago | [Link](https://huggingface.co/AlexTANG-JX/Tarot_Question_Detector) |
 | 145 | 2 | boltuix/bert-liteText | Updatedabout 5 hours ago | [Link](https://huggingface.co/boltuix/bert-lite) |
+| 9 | 2 | TEEN-D/TD-HallOumi-3BText | Updated3 days ago | [Link](https://huggingface.co/TEEN-D/TD-HallOumi-3B) |
 | 65.8k |  | tabularisai/multilingual-sentiment-analysisText | UpdatedJan 16 | [Link](https://huggingface.co/tabularisai/multilingual-sentiment-analysis) |
 | 1.54M |  | ProsusAI/finbertText | UpdatedMay 23, 2023 | [Link](https://huggingface.co/ProsusAI/finbert) |
 | 2.1M |  | cardiffnlp/twitter-roberta-base-sentiment-latestText | UpdatedMay 28, 2023 | [Link](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest) |
@@ -2386,6 +2390,7 @@ Updated on 2025-04-07
 | 431 | 21 | firstpixel/F5-TTS-pt-brText-to-Speech | Updated13 days ago | [Link](https://huggingface.co/firstpixel/F5-TTS-pt-br) |
 | 1.54k | 19 | HKUSTAudio/Llasa-1B-MultilingualText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-1B-Multilingual) |
 | 2.61k | 14 | SPRINGLab/F5-Hindi-24KHzText-to-Speech | UpdatedJan 1 | [Link](https://huggingface.co/SPRINGLab/F5-Hindi-24KHz) |
+| 6 | 13 | OuteAI/Llama-OuteTTS-1 | Updatedabout 2 hours ago | [Link](https://huggingface.co/OuteAI/Llama-OuteTTS-1.0-1B) |
 | 73 | 12 | geneing/KokoroText-to-Speech | UpdatedJan 10 | [Link](https://huggingface.co/geneing/Kokoro) |
 | 109 | 11 | NeuroDonu/RU-XTTS-DonuModelText-to-Speech | UpdatedMay 1, 2024 | [Link](https://huggingface.co/NeuroDonu/RU-XTTS-DonuModel) |
 | 27 | 10 | hexgrad/Kokoro-82M-v1 | Updatedabout 7 hours ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M-v1.1-zh) |
@@ -2560,6 +2565,7 @@ Updated on 2025-04-07
 | 32 | 2 | stanfordnlp/mrt5-smallText2Text | Updated1 day ago | [Link](https://huggingface.co/stanfordnlp/mrt5-small) |
 | 43 | 2 | stanfordnlp/mrt5-largeText2Text | Updated1 day ago | [Link](https://huggingface.co/stanfordnlp/mrt5-large) |
 | 8 | 2 | Hamzah-Asadullah/GenericRPV2-4BText2Text | Updated2 days ago | [Link](https://huggingface.co/Hamzah-Asadullah/GenericRPV2-4B) |
+| 46 | 2 | neo4j/text-to-cypher-Gemma-3-27B-Instruct-2025 | Updated4 days ago | [Link](https://huggingface.co/neo4j/text-to-cypher-Gemma-3-27B-Instruct-2025.04.0) |
 | 31 | 1 | Ayham/bert_roberta_summarization_cnn_dailymailText2Text | UpdatedFeb 24, 2022 | [Link](https://huggingface.co/Ayham/bert_roberta_summarization_cnn_dailymail) |
 | 121 | 1 | cnicu/pegasus-xsum-booksumText2Text | UpdatedFeb 26, 2022 | [Link](https://huggingface.co/cnicu/pegasus-xsum-booksum) |
 | 393k | 1.23k | google/flan-t5-xxlText2Text | UpdatedJul 27, 2023 | [Link](https://huggingface.co/google/flan-t5-xxl) |
