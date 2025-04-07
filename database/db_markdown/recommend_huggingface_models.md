@@ -23,6 +23,7 @@ Updated on 2025-04-07
 | 621 | 16 | EPFL-VILAB/4M-7_B_CC12MAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-7_B_CC12M) |
 | 470 | 15 | showlab/show-oAny-to-Any | UpdatedAug 27, 2024 | [Link](https://huggingface.co/showlab/show-o) |
 | 1.03k | 14 | onnx-community/Janus-1 | UpdatedNov 28, 2024 | [Link](https://huggingface.co/onnx-community/Janus-1.3B-ONNX) |
+| 23 | 9 | Alpha-VLLM/Lumina-mGPT-7B-1024Any-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-1024) |
 | 612 | 7 | internlm/internlm-xcomposer2d5-7b-rewardAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/internlm/internlm-xcomposer2d5-7b-reward) |
 | 16 | 7 | FunAGI/Qwen2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/FunAGI/Qwen2.5-Omni-7B-GPTQ-4bit) |
 | 1.15k | 6 | EPFL-VILAB/4M-21_BAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-21_B) |
@@ -107,6 +108,7 @@ Updated on 2025-04-07
 | 4 | Unknown | 2DIPW/VPR_zhvoice_EcapaTdnnAudio | UpdatedJun 7, 2023 | [Link](https://huggingface.co/2DIPW/VPR_zhvoice_EcapaTdnn) |
 | 5 | Unknown | TalTechNLP/voxlingua107-xls-r-300m-wav2vecAudio | UpdatedApr 19, 2022 | [Link](https://huggingface.co/TalTechNLP/voxlingua107-xls-r-300m-wav2vec) |
 | 2 | Unknown | ATDI-Group/AST_finetuned_SIGIDwikiAudio | Updated5 days ago | [Link](https://huggingface.co/ATDI-Group/AST_finetuned_SIGIDwiki) |
+| 1.02k |  | dima806/music_genres_classificationAudio | UpdatedOct 19, 2024 | [Link](https://huggingface.co/dima806/music_genres_classification) |
 
 ## Audio-Text-to-Text
 
@@ -320,6 +322,7 @@ Updated on 2025-04-07
 | 8.66k |  | nguyenvulebinh/wav2vec2-base-vietnamese-250hAutomatic | UpdatedNov 4, 2021 | [Link](https://huggingface.co/nguyenvulebinh/wav2vec2-base-vietnamese-250h) |
 | 6.16k |  | vinai/PhoWhisper-largeAutomatic | UpdatedNov 12, 2024 | [Link](https://huggingface.co/vinai/PhoWhisper-large) |
 | 373 |  | omarxadel/hubert-large-arabic-egyptianAutomatic | UpdatedMar 19, 2023 | [Link](https://huggingface.co/omarxadel/hubert-large-arabic-egyptian) |
+| 33.1k |  | distil-whisper/distil-large-v2Automatic | UpdatedMar 6 | [Link](https://huggingface.co/distil-whisper/distil-large-v2) |
 
 ## Depth Estimation
 
@@ -596,6 +599,7 @@ Updated on 2025-04-07
 | 206 | 3 | opensearch-project/opensearch-neural-sparse-encoding-multilingual-v1Fill-Mask | Updated17 days ago | [Link](https://huggingface.co/opensearch-project/opensearch-neural-sparse-encoding-multilingual-v1) |
 | 4.25k | 3 | kuleshov-group/bd3lm-owt-block_size16Fill-Mask | Updated3 days ago | [Link](https://huggingface.co/kuleshov-group/bd3lm-owt-block_size16) |
 | 26k | 3 | google-bert/bert-base-german-dbmdz-uncasedFill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/google-bert/bert-base-german-dbmdz-uncased) |
+| 53 | 3 | Simonlee711/Clinical_ModernBERTFill-Mask | Updatedabout 9 hours ago | [Link](https://huggingface.co/Simonlee711/Clinical_ModernBERT) |
 | 258 | 2 | NAMAA-Space/AraModernBert-Base-V1 | Updated1 day ago | [Link](https://huggingface.co/NAMAA-Space/AraModernBert-Base-V1.0) |
 | 115 | 2 | metinovadilet/KyrgyzBertFill-Mask | Updated10 days ago | [Link](https://huggingface.co/metinovadilet/KyrgyzBert) |
 | 11 | 2 | HiTZ/BERnaT-baseFill-Mask | Updated9 days ago | [Link](https://huggingface.co/HiTZ/BERnaT-base) |
@@ -733,6 +737,7 @@ Updated on 2025-04-07
 | 3 | 2 | prithivMLmods/Fashion-Mnist-SigLIP2Image | Updatedabout 24 hours ago | [Link](https://huggingface.co/prithivMLmods/Fashion-Mnist-SigLIP2) |
 | 5 | 2 | prithivMLmods/Mature-Content-DetectionImage | Updatedabout 10 hours ago | [Link](https://huggingface.co/prithivMLmods/Mature-Content-Detection) |
 | 2 | 2 | prithivMLmods/Mirage-Photo-ClassifierImage | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/Mirage-Photo-Classifier) |
+| 1 | 2 | prithivMLmods/Food-101-93MImage | Updated2 days ago | [Link](https://huggingface.co/prithivMLmods/Food-101-93M) |
 | 60.6M |  | Falconsai/nsfw_image_detectionImage | UpdatedDec 6, 2023 | [Link](https://huggingface.co/Falconsai/nsfw_image_detection) |
 | 45.8M |  | microsoft/resnet-50Image | UpdatedFeb 13, 2024 | [Link](https://huggingface.co/microsoft/resnet-50) |
 | 6.01M |  | google/vit-base-patch16-224Image | UpdatedSep 5, 2023 | [Link](https://huggingface.co/google/vit-base-patch16-224) |
@@ -766,6 +771,8 @@ Updated on 2025-04-07
 | 2 | Unknown | prithivMLmods/Age-Classification-SigLIP2Image | Updatedabout 19 hours ago | [Link](https://huggingface.co/prithivMLmods/Age-Classification-SigLIP2) |
 | 228k |  | microsoft/swin-base-patch4-window7-224Image | UpdatedSep 10, 2023 | [Link](https://huggingface.co/microsoft/swin-base-patch4-window7-224) |
 | 2.55k |  | linkanjarad/mobilenet_v2_1 | UpdatedApr 26, 2023 | [Link](https://huggingface.co/linkanjarad/mobilenet_v2_1.0_224-plant-disease-identification) |
+| 2 | Unknown | prithivMLmods/Geometric-Shapes-ClassificationImage | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/Geometric-Shapes-Classification) |
+| 2 | Unknown | prithivMLmods/Human-Action-RecognitionImage | Updated14 minutes ago | [Link](https://huggingface.co/prithivMLmods/Human-Action-Recognition) |
 
 ## Image Feature Extraction
 
@@ -1131,6 +1138,7 @@ Updated on 2025-04-07
 | 16 | Unknown | fotographerai/zenctrl_toolsImage-to-Image | Updated32 minutes ago | [Link](https://huggingface.co/fotographerai/zenctrl_tools) |
 | 21 | Unknown | akiyamasho/AnimeBackgroundGAN-MiyazakiImage-to-Image | UpdatedApr 5, 2022 | [Link](https://huggingface.co/akiyamasho/AnimeBackgroundGAN-Miyazaki) |
 | 4 | Unknown | XiangZ/hit-srImage-to-Image | Updated10 days ago | [Link](https://huggingface.co/XiangZ/hit-sr) |
+| 2 | Unknown | kshitij3188/PHOENIX-patent-retrievalImage-to-Image | Updated37 minutes ago | [Link](https://huggingface.co/kshitij3188/PHOENIX-patent-retrieval) |
 
 ## Image-to-Text
 
@@ -1273,6 +1281,7 @@ Updated on 2025-04-07
 | 3 | Unknown | Remade-AI/kissingImage-to-Video | Updatedabout 18 hours ago | [Link](https://huggingface.co/Remade-AI/kissing) |
 | 3 | Unknown | Remade-AI/LaughingImage-to-Video | Updatedabout 17 hours ago | [Link](https://huggingface.co/Remade-AI/Laughing) |
 | 195 | Unknown | wangfuyun/AnimateLCM-SVD-xtImage-to-Video | UpdatedFeb 27, 2024 | [Link](https://huggingface.co/wangfuyun/AnimateLCM-SVD-xt) |
+| 2 | Unknown | ighoshsubho/Wan-I2V-LoRA-KissImage-to-Video | Updated15 days ago | [Link](https://huggingface.co/ighoshsubho/Wan-I2V-LoRA-Kiss) |
 
 ## Keypoint Detection
 
@@ -1936,6 +1945,7 @@ Updated on 2025-04-07
 | 34.3k | 2 | Johnson8187/Chinese-Emotion-SmallText | UpdatedDec 18, 2024 | [Link](https://huggingface.co/Johnson8187/Chinese-Emotion-Small) |
 | 18 | 2 | iceman2434/xlm-roberta-base-fake-news-detection-tlText | UpdatedOct 21, 2024 | [Link](https://huggingface.co/iceman2434/xlm-roberta-base-fake-news-detection-tl) |
 | 48 | 2 | AlexTANG-JX/Tarot_Question_DetectorText | Updated21 days ago | [Link](https://huggingface.co/AlexTANG-JX/Tarot_Question_Detector) |
+| 145 | 2 | boltuix/bert-liteText | Updatedabout 5 hours ago | [Link](https://huggingface.co/boltuix/bert-lite) |
 | 65.8k |  | tabularisai/multilingual-sentiment-analysisText | UpdatedJan 16 | [Link](https://huggingface.co/tabularisai/multilingual-sentiment-analysis) |
 | 1.54M |  | ProsusAI/finbertText | UpdatedMay 23, 2023 | [Link](https://huggingface.co/ProsusAI/finbert) |
 | 2.1M |  | cardiffnlp/twitter-roberta-base-sentiment-latestText | UpdatedMay 28, 2023 | [Link](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest) |
@@ -2110,6 +2120,7 @@ Updated on 2025-04-07
 | 6.01k | 31 | mixedbread-ai/mxbai-rerank-base-v2Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/mixedbread-ai/mxbai-rerank-base-v2) |
 | 221k | 20 | cross-encoder/ms-marco-TinyBERT-L2-v2Text | Updatedabout 2 hours ago | [Link](https://huggingface.co/cross-encoder/ms-marco-TinyBERT-L2-v2) |
 | 73.9k | 17 | cross-encoder/ms-marco-TinyBERT-L2Text | Updatedabout 2 hours ago | [Link](https://huggingface.co/cross-encoder/ms-marco-TinyBERT-L2) |
+| 6.57k | 14 | hotchpotch/japanese-reranker-cross-encoder-large-v1Text | Updated4 days ago | [Link](https://huggingface.co/hotchpotch/japanese-reranker-cross-encoder-large-v1) |
 | 560 | 13 | hotchpotch/japanese-bge-reranker-v2-m3-v1Text | Updated3 days ago | [Link](https://huggingface.co/hotchpotch/japanese-bge-reranker-v2-m3-v1) |
 | 1.43k | 12 | naver/provence-reranker-debertav3-v1Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/naver/provence-reranker-debertav3-v1) |
 | 359k | 11 | cross-encoder/ms-marco-MiniLM-L2-v2Text | Updatedabout 2 hours ago | [Link](https://huggingface.co/cross-encoder/ms-marco-MiniLM-L2-v2) |

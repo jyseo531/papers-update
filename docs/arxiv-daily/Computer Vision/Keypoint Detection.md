@@ -2,11 +2,15 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-04**|**Robot Localization Using a Learned Keypoint Detector and Descriptor with a Floor Camera and a Feature Rich Industrial Floor**|Piet Brömmel et.al.|[2504.03249v1](http://arxiv.org/abs/2504.03249v1)|**2025-04-04**|null|
+|**2025-04-04**|**Explain with Visual Keypoints Like a Real Mentor! A Benchmark for Multimodal Solution Explanation**|Jaewoo Park et.al.|[2504.03197v1](http://arxiv.org/abs/2504.03197v1)|**2025-04-04**|null|
 |**2025-04-03**|**CanonNet: Canonical Ordering and Curvature Learning for Point Cloud Analysis**|Benjy Friedmann et.al.|[2504.02763v1](http://arxiv.org/abs/2504.02763v1)|**2025-04-03**|null|
 |**2025-04-03**|**RAFFLE: Active learning accelerated interface structure prediction**|Ned Thaddeus Taylor et.al.|[2504.02528v1](http://arxiv.org/abs/2504.02528v1)|**2025-04-03**|null|
 |**2025-04-02**|**A novel gesture interaction control method for rehabilitation lower extremity exoskeleton**|Shuang Qiu et.al.|[2504.01888v1](http://arxiv.org/abs/2504.01888v1)|**2025-04-02**|null|
 |**2025-04-02**|**A computational framework for evaluating tire-asphalt hysteretic friction including pavement roughness**|Ivana Ban et.al.|[2504.01511v1](http://arxiv.org/abs/2504.01511v1)|**2025-04-02**|null|
 |**2025-04-02**|**ForestVO: Enhancing Visual Odometry in Forest Environments through ForestGlue**|Thomas Pritchard et.al.|[2504.01261v1](http://arxiv.org/abs/2504.01261v1)|**2025-04-02**|[link](https://github.com/aerialroboticsgroup/forest-vo)|
+|**2025-04-01**|**TheBlueScrubs-v1, a comprehensive curated medical dataset derived from the internet**|Luis Felipe et.al.|[2504.02874v1](http://arxiv.org/abs/2504.02874v1)|**2025-04-01**|null|
+|**2025-04-01**|**OpenFACADES: An Open Framework for Architectural Caption and Attribute Data Enrichment via Street View Imagery**|Xiucheng Liang et.al.|[2504.02866v1](http://arxiv.org/abs/2504.02866v1)|**2025-04-01**|null|
 |**2025-03-31**|**A machine learning platform for development of low flammability polymers**|Duy Nhat Phan et.al.|[2504.00223v1](http://arxiv.org/abs/2504.00223v1)|**2025-03-31**|null|
 |**2025-03-31**|**Leveraging Diffusion Model and Image Foundation Model for Improved Correspondence Matching in Coronary Angiography**|Lin Zhao et.al.|[2504.00191v1](http://arxiv.org/abs/2504.00191v1)|**2025-03-31**|null|
 |**2025-03-31**|**SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection**|Yannick Burkhardt et.al.|[2504.00139v1](http://arxiv.org/abs/2504.00139v1)|**2025-03-31**|null|
@@ -28,7 +32,3 @@
 |**2025-03-26**|**Robust Flower Cluster Matching Using The Unscented Transform**|Andy Chu et.al.|[2503.20631v1](http://arxiv.org/abs/2503.20631v1)|**2025-03-26**|null|
 |**2025-03-26**|**Structure Identification of NDS with Descriptor Subsystems under Asynchronous, Non-Uniform, and Slow-Rate Sampling**|Yunxiang Ma et.al.|[2503.20319v1](http://arxiv.org/abs/2503.20319v1)|**2025-03-26**|null|
 |**2025-03-26**|**Incremental Object Keypoint Learning**|Mingfu Liang et.al.|[2503.20248v1](http://arxiv.org/abs/2503.20248v1)|**2025-03-26**|null|
-|**2025-03-26**|**Multimodal Image Matching based on Frequency-domain Information of Local Energy Response**|Meng Yang et.al.|[2503.20827v1](http://arxiv.org/abs/2503.20827v1)|**2025-03-26**|null|
-|**2025-03-25**|**The Great Rift in Physics**|Tim Maudlin et.al.|[2503.20067v1](http://arxiv.org/abs/2503.20067v1)|**2025-03-25**|null|
-|**2025-03-25**|**Towards Online Multi-Modal Social Interaction Understanding**|Xinpeng Li et.al.|[2503.19851v1](http://arxiv.org/abs/2503.19851v1)|**2025-03-25**|[link](https://github.com/sampson-lee/onlinemmsi)|
-|**2025-03-25**|**Unpaired Object-Level SAR-to-Optical Image Translation for Aircraft with Keypoints-Guided Diffusion Models**|Ruixi You et.al.|[2503.19798v1](http://arxiv.org/abs/2503.19798v1)|**2025-03-25**|null|

@@ -2,33 +2,33 @@
 ### Object Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-03**|**Excitation of the Glashow resonance without neutrino beams**|I. Alikhanov et.al.|[2504.02820v1](http://arxiv.org/abs/2504.02820v1)|**2025-04-03**|null|
-|**2025-04-03**|**BOP Challenge 2024 on Model-Based and Model-Free 6D Object Pose Estimation**|Van Nguyen Nguyen et.al.|[2504.02812v1](http://arxiv.org/abs/2504.02812v1)|**2025-04-03**|null|
-|**2025-04-03**|**F-ViTA: Foundation Model Guided Visible to Thermal Translation**|Jay N. Paranjape et.al.|[2504.02801v1](http://arxiv.org/abs/2504.02801v1)|**2025-04-03**|null|
-|**2025-04-03**|**On Composable and Parametric Uncertainty in Systems Co-Design**|Yujun Huang et.al.|[2504.02766v1](http://arxiv.org/abs/2504.02766v1)|**2025-04-03**|null|
-|**2025-04-03**|**Bacon-Shor Board Games**|M. Sohaib Alam et.al.|[2504.02749v1](http://arxiv.org/abs/2504.02749v1)|**2025-04-03**|null|
-|**2025-04-03**|**On deformations of Azumaya algebras with quadratic pair**|Eoin Mackall et.al.|[2504.02728v1](http://arxiv.org/abs/2504.02728v1)|**2025-04-03**|null|
-|**2025-04-03**|**Anisotropy analysis of bamboo and tooth using 4-angle polarization micro-spectroscopy**|Meguya Ryu et.al.|[2504.02711v1](http://arxiv.org/abs/2504.02711v1)|**2025-04-03**|null|
-|**2025-04-03**|**Responsible Development of Offensive AI**|Ryan Marinelli et.al.|[2504.02701v1](http://arxiv.org/abs/2504.02701v1)|**2025-04-03**|null|
-|**2025-04-03**|**Plasmon-interband hybridization and anomalous production of hot electrons in aluminum nanoantennas**|Jérôme Martin et.al.|[2504.02689v1](http://arxiv.org/abs/2504.02689v1)|**2025-04-03**|null|
-|**2025-04-03**|**STOOD-X methodology: using statistical nonparametric test for OOD Detection Large-Scale datasets enhanced with explainability**|Iván Sevillano-García et.al.|[2504.02685v1](http://arxiv.org/abs/2504.02685v1)|**2025-04-03**|null|
-|**2025-04-03**|**A Set-Theoretic Robust Control Approach for Linear Quadratic Games with Unknown Counterparts**|Francesco Bianchin et.al.|[2504.02679v1](http://arxiv.org/abs/2504.02679v1)|**2025-04-03**|null|
-|**2025-04-03**|**Spectropolarimetry for Discerning Geometry and Structure in Circumstellar Media of Hot Massive Stars**|Richard Ignace et.al.|[2504.02659v1](http://arxiv.org/abs/2504.02659v1)|**2025-04-03**|null|
-|**2025-04-03**|**Adaptive Frequency Enhancement Network for Remote Sensing Image Semantic Segmentation**|Feng Gao et.al.|[2504.02647v1](http://arxiv.org/abs/2504.02647v1)|**2025-04-03**|null|
-|**2025-04-03**|**Solving the Paint Shop Problem with Flexible Management of Multi-Lane Buffers Using Reinforcement Learning and Action Masking**|Mirko Stappert et.al.|[2504.02644v1](http://arxiv.org/abs/2504.02644v1)|**2025-04-03**|null|
-|**2025-04-03**|**Characterization of nuclear breakup as a function of hard-scattering kinematics using dijets measured by ATLAS in $p$+Pb collisions**|ATLAS Collaboration et.al.|[2504.02638v1](http://arxiv.org/abs/2504.02638v1)|**2025-04-03**|null|
-|**2025-04-03**|**The FCC integrated programme: a physics manifesto**|Alain Blondel et.al.|[2504.02634v1](http://arxiv.org/abs/2504.02634v1)|**2025-04-03**|null|
-|**2025-04-03**|**PicoPose: Progressive Pixel-to-Pixel Correspondence Learning for Novel Object Pose Estimation**|Lihua Liu et.al.|[2504.02617v1](http://arxiv.org/abs/2504.02617v1)|**2025-04-03**|null|
-|**2025-04-03**|**Input to the European Strategy for Particle Physics: Strong-Field Quantum Electrodynamics**|G. Sarri et.al.|[2504.02608v1](http://arxiv.org/abs/2504.02608v1)|**2025-04-03**|null|
-|**2025-04-03**|**Technical Overview of Recent Developments in Small Modular Reactors in the United States**|Yifan Sun et.al.|[2504.02599v1](http://arxiv.org/abs/2504.02599v1)|**2025-04-03**|null|
-|**2025-04-03**|**Time resolution limits in silicon sensors from Landau fluctuations and electronics noise**|Werner Riegler et.al.|[2504.02570v1](http://arxiv.org/abs/2504.02570v1)|**2025-04-03**|null|
-|**2025-04-03**|**Rip Current Segmentation: A Novel Benchmark and YOLOv8 Baseline Results**|Andrei Dumitriu et.al.|[2504.02558v1](http://arxiv.org/abs/2504.02558v1)|**2025-04-03**|null|
-|**2025-04-03**|**A smooth multi-group Gaussian Mixture Model for cellwise robust covariance estimation**|Patricia Puchhammer et.al.|[2504.02547v1](http://arxiv.org/abs/2504.02547v1)|**2025-04-03**|null|
-|**2025-04-03**|**GPG: A Simple and Strong Reinforcement Learning Baseline for Model Reasoning**|Xiangxiang Chu et.al.|[2504.02546v1](http://arxiv.org/abs/2504.02546v1)|**2025-04-03**|null|
-|**2025-04-03**|**Blockchain and Distributed Ledger Technologies for Cyberthreat Intelligence Sharing**|Asadullah Tariq et.al.|[2504.02537v1](http://arxiv.org/abs/2504.02537v1)|**2025-04-03**|null|
-|**2025-04-03**|**Data-Driven Object Tracking: Integrating Modular Neural Networks into a Kalman Framework**|Christian Alexander Holz et.al.|[2504.02519v1](http://arxiv.org/abs/2504.02519v1)|**2025-04-03**|null|
-|**2025-04-03**|**Group-based Distinctive Image Captioning with Memory Difference Encoding and Attention**|Jiuniu Wang et.al.|[2504.02496v1](http://arxiv.org/abs/2504.02496v1)|**2025-04-03**|null|
-|**2025-04-03**|**Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision**|Xiaofeng Han et.al.|[2504.02477v1](http://arxiv.org/abs/2504.02477v1)|**2025-04-03**|null|
-|**2025-04-03**|**Adaptive path planning for efficient object search by UAVs in agricultural fields**|Rick van Essen et.al.|[2504.02473v1](http://arxiv.org/abs/2504.02473v1)|**2025-04-03**|null|
-|**2025-04-03**|**Polarimetry imprints of exotic compact objects: solitonic boson stars**|João Luís Rosa et.al.|[2504.02472v1](http://arxiv.org/abs/2504.02472v1)|**2025-04-03**|null|
-|**2025-04-03**|**RASP: Revisiting 3D Anamorphic Art for Shadow-Guided Packing of Irregular Objects**|Soumyaratna Debnath et.al.|[2504.02465v1](http://arxiv.org/abs/2504.02465v1)|**2025-04-03**|null|
+|**2025-04-04**|**Towards data analysis with diagrammatics**|Tobias Kühn et.al.|[2504.03631v1](http://arxiv.org/abs/2504.03631v1)|**2025-04-04**|null|
+|**2025-04-04**|**Dual Averaging With Non-Strongly-Convex Prox-Functions: New Analysis and Algorithm**|Renbo Zhao et.al.|[2504.03613v1](http://arxiv.org/abs/2504.03613v1)|**2025-04-04**|null|
+|**2025-04-04**|**Constant Rate Isometric Embeddings of Hamming Metric into Edit Metric**|Sudatta Bhattacharya et.al.|[2504.03605v1](http://arxiv.org/abs/2504.03605v1)|**2025-04-04**|null|
+|**2025-04-04**|**Real-is-Sim: Bridging the Sim-to-Real Gap with a Dynamic Digital Twin for Real-World Robot Policy Evaluation**|Jad Abou-Chakra et.al.|[2504.03597v1](http://arxiv.org/abs/2504.03597v1)|**2025-04-04**|null|
+|**2025-04-04**|**A Lower Bound on Conservative Elementary Object Systems Coverability**|Francesco Di Cosmo et.al.|[2504.03591v1](http://arxiv.org/abs/2504.03591v1)|**2025-04-04**|null|
+|**2025-04-04**|**AutoSSVH: Exploring Automated Frame Sampling for Efficient Self-Supervised Video Hashing**|Niu Lian et.al.|[2504.03587v1](http://arxiv.org/abs/2504.03587v1)|**2025-04-04**|[link](https://github.com/EliSpectre/CVPR25-AutoSSVH)|
+|**2025-04-04**|**Heterogeneous Resource Allocation for Ensuring End-to-End Quality of Service in Multi-hop Integrated Access and Backhaul Network**|Shuaifeng Zhang et.al.|[2504.03576v1](http://arxiv.org/abs/2504.03576v1)|**2025-04-04**|null|
+|**2025-04-04**|**Characterizing planetary systems with SPIRou: Detection of a sub-Neptune in a 6 day period orbit around the M dwarf Gl 410**|A. Carmona et.al.|[2504.03572v1](http://arxiv.org/abs/2504.03572v1)|**2025-04-04**|null|
+|**2025-04-04**|**PF3Det: A Prompted Foundation Feature Assisted Visual LiDAR 3D Detector**|Kaidong Li et.al.|[2504.03563v1](http://arxiv.org/abs/2504.03563v1)|**2025-04-04**|null|
+|**2025-04-04**|**Stochastic Optimization with Optimal Importance Sampling**|Liviu Aolaritei et.al.|[2504.03560v1](http://arxiv.org/abs/2504.03560v1)|**2025-04-04**|null|
+|**2025-04-04**|**Constraints on dark matter boosted by supernova shock within the effective field theory framework from the CDEX-10 experiment**|J. Z. Wang et.al.|[2504.03559v1](http://arxiv.org/abs/2504.03559v1)|**2025-04-04**|null|
+|**2025-04-04**|**Finding a Shortest Curve that Separates Few Objects from Many**|Therese Biedl et.al.|[2504.03558v1](http://arxiv.org/abs/2504.03558v1)|**2025-04-04**|null|
+|**2025-04-04**|**One Way of Parameter-based Calculation and Comparison of Sensitivities in $0νββ$ Experiments**|X. Yu et.al.|[2504.03548v1](http://arxiv.org/abs/2504.03548v1)|**2025-04-04**|null|
+|**2025-04-04**|**Clustering analysis of Fermi-LAT unidentified point sources**|Giovanni Cozzolongo et.al.|[2504.03543v1](http://arxiv.org/abs/2504.03543v1)|**2025-04-04**|null|
+|**2025-04-04**|**Wave-particle duality of gravitational radiation**|Hudson A. Loughlin et.al.|[2504.03527v1](http://arxiv.org/abs/2504.03527v1)|**2025-04-04**|null|
+|**2025-04-04**|**Dexterous Manipulation through Imitation Learning: A Survey**|Shan An et.al.|[2504.03515v1](http://arxiv.org/abs/2504.03515v1)|**2025-04-04**|null|
+|**2025-04-04**|**Local Search for Clustering in Almost-linear Time**|Shaofeng H. -C. Jiang et.al.|[2504.03513v1](http://arxiv.org/abs/2504.03513v1)|**2025-04-04**|null|
+|**2025-04-04**|**Low rock mass fraction within trans-Neptunian objects inferred from the spin-orbit evolution of Orcus-Vanth and Salacia-Actaea**|Sota Arakawa et.al.|[2504.03508v1](http://arxiv.org/abs/2504.03508v1)|**2025-04-04**|null|
+|**2025-04-04**|**Hierarchical Knowledge Structuring for Effective Federated Learning in Heterogeneous Environments**|Wai Fong Tam et.al.|[2504.03505v1](http://arxiv.org/abs/2504.03505v1)|**2025-04-04**|null|
+|**2025-04-04**|**Learning Dual-Arm Coordination for Grasping Large Flat Objects**|Yongliang Wang et.al.|[2504.03500v1](http://arxiv.org/abs/2504.03500v1)|**2025-04-04**|null|
+|**2025-04-04**|**Investigating irradiation effects and space charge sign inversion in n-type Low Gain Avalanche Detectors**|Veronika Kraus et.al.|[2504.03462v1](http://arxiv.org/abs/2504.03462v1)|**2025-04-04**|null|
+|**2025-04-04**|**ZFusion: An Effective Fuser of Camera and 4D Radar for 3D Object Perception in Autonomous Driving**|Sheng Yang et.al.|[2504.03438v1](http://arxiv.org/abs/2504.03438v1)|**2025-04-04**|null|
+|**2025-04-04**|**Numerical simulation of atmospheric transport and dispersion of Phakopsora pachyrhizi urediniospores in South America using the state of Paraná-Brazil as a model**|Eduardo Oliveira Belinelli et.al.|[2504.03433v1](http://arxiv.org/abs/2504.03433v1)|**2025-04-04**|null|
+|**2025-04-04**|**XXL-HSC: Host properties of X-ray detected AGNs in XXL clusters**|E. Drigga et.al.|[2504.03422v1](http://arxiv.org/abs/2504.03422v1)|**2025-04-04**|null|
+|**2025-04-04**|**BitHEP -- The Limits of Low-Precision ML in HEP**|Claudius Krause et.al.|[2504.03387v1](http://arxiv.org/abs/2504.03387v1)|**2025-04-04**|null|
+|**2025-04-04**|**Point Cloud Objective Quality: Benchmarking Features and Quality Evaluation**|Joao Prazeres et.al.|[2504.03381v1](http://arxiv.org/abs/2504.03381v1)|**2025-04-04**|null|
+|**2025-04-04**|**MultiClear: Multimodal Soft Exoskeleton Glove for Transparent Object Grasping Assistance**|Chen Hu et.al.|[2504.03379v1](http://arxiv.org/abs/2504.03379v1)|**2025-04-04**|null|
+|**2025-04-04**|**Point Cloud-based Grasping for Soft Hand Exoskeleton**|Chen Hu et.al.|[2504.03369v1](http://arxiv.org/abs/2504.03369v1)|**2025-04-04**|null|
+|**2025-04-04**|**Infrared bubble recognition in the Milky Way and beyond using deep learning**|Shimpei Nishimoto et.al.|[2504.03367v1](http://arxiv.org/abs/2504.03367v1)|**2025-04-04**|null|
+|**2025-04-04**|**Data Augmentation of Time-Series Data in Human Movement Biomechanics: A Scoping Review**|Christina Halmich et.al.|[2504.03334v1](http://arxiv.org/abs/2504.03334v1)|**2025-04-04**|null|
