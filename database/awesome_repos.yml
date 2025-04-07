@@ -1,4 +1,5 @@
 repositories:
+  - https://github.com/luo-junyu/Awesome-Agent-Papers.git
   - https://github.com/Hannibal046/Awesome-LLM.git
   - https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models.git
   - https://github.com/bluestyle97/awesome-3d-reconstruction-papers.git

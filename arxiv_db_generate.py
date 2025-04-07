@@ -166,7 +166,7 @@ def get_daily_papers(topic: str, query: str = "slam", start_date="20200101"):
     current_year = int(start_date[:4])
     current_month = int(start_date[4:6])
     #today = datetime.datetime.now().strftime("%Y%m%d")  # 오늘 날짜
-    today = "20191231" # 2019년까지
+    today = "20171231" # 2019년까지
     end_year = int(today[:4])  # 올해 연도
 
     while current_year <= end_year:
@@ -285,7 +285,7 @@ def get_daily_papers(topic: str, query: str = "slam", start_date="20200101"):
 
 # 실행 부분
 if __name__ == "__main__":
-    conn = init_db('./arxiv_star_test_2014.db')
+    conn = init_db('./arxiv_star_2017_7.db')
     yaml_path = os.path.join("./database", "topic.yml")
     yaml_data = get_yaml_data(yaml_path)
     data_collector = {}
@@ -293,13 +293,13 @@ if __name__ == "__main__":
     for topic in yaml_data.keys():
         for subtopic, keyword in yaml_data[topic].items():
             print(f"\n🚀 Processing Keyword: {subtopic}")
-            data = get_daily_papers(subtopic, query=keyword, start_date="20140101")
+            data = get_daily_papers(subtopic, query=keyword, start_date="20170101")
             if topic not in data_collector:
                 data_collector[topic] = {}
             if data:
                 data_collector[topic].update(data)
 
-        save_to_db(conn, data_collector)
+            save_to_db(conn, data_collector)
     # Generate Markdown file from database
     # db_to_md(conn, "./arxiv_2010_2019_star_framework.md")
     conn.close()
