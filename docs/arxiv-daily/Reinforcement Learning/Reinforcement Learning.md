@@ -2,33 +2,33 @@
 ### Reinforcement Learning
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-04**|**Align to Structure: Aligning Large Language Models with Structural Information**|Zae Myung Kim et.al.|[2504.03622v1](http://arxiv.org/abs/2504.03622v1)|**2025-04-04**|null|
-|**2025-04-04**|**Optimization of a Triangular Delaunay Mesh Generator using Reinforcement Learning**|Will Thacher et.al.|[2504.03610v1](http://arxiv.org/abs/2504.03610v1)|**2025-04-04**|null|
-|**2025-04-04**|**Dexterous Manipulation through Imitation Learning: A Survey**|Shan An et.al.|[2504.03515v1](http://arxiv.org/abs/2504.03515v1)|**2025-04-04**|null|
-|**2025-04-04**|**Learning Dual-Arm Coordination for Grasping Large Flat Objects**|Yongliang Wang et.al.|[2504.03500v1](http://arxiv.org/abs/2504.03500v1)|**2025-04-04**|null|
-|**2025-04-04**|**Influence of cellular mechano-calcium feedback in numerical models of cardiac electromechanics**|Irena Radišić et.al.|[2504.03447v1](http://arxiv.org/abs/2504.03447v1)|**2025-04-04**|null|
-|**2025-04-04**|**Numerical simulation of atmospheric transport and dispersion of Phakopsora pachyrhizi urediniospores in South America using the state of Paraná-Brazil as a model**|Eduardo Oliveira Belinelli et.al.|[2504.03433v1](http://arxiv.org/abs/2504.03433v1)|**2025-04-04**|null|
-|**2025-04-04**|**Optimizing Quantum Circuits via ZX Diagrams using Reinforcement Learning and Graph Neural Networks**|Alexander Mattick et.al.|[2504.03429v1](http://arxiv.org/abs/2504.03429v1)|**2025-04-04**|null|
-|**2025-04-04**|**DML-RAM: Deep Multimodal Learning Framework for Robotic Arm Manipulation using Pre-trained Models**|Sathish Kumar et.al.|[2504.03423v1](http://arxiv.org/abs/2504.03423v1)|**2025-04-04**|null|
-|**2025-04-04**|**Autonomous state-space segmentation for Deep-RL sparse reward scenarios**|Gianluca Maselli et.al.|[2504.03420v1](http://arxiv.org/abs/2504.03420v1)|**2025-04-04**|null|
-|**2025-04-04**|**Capturing Small-Scale Reionization Physics: A Sub-Grid Model for Photon Sinks with SCRIPT**|Tirthankar Roy Choudhury et.al.|[2504.03384v1](http://arxiv.org/abs/2504.03384v1)|**2025-04-04**|null|
-|**2025-04-04**|**Online Difficulty Filtering for Reasoning Oriented Reinforcement Learning**|Sanghwan Bae et.al.|[2504.03380v1](http://arxiv.org/abs/2504.03380v1)|**2025-04-04**|null|
-|**2025-04-04**|**Verification of Autonomous Neural Car Control with KeYmaera X**|Enguerrand Prebet et.al.|[2504.03272v1](http://arxiv.org/abs/2504.03272v1)|**2025-04-04**|null|
-|**2025-04-04**|**Enhancing Personalized Multi-Turn Dialogue with Curiosity Reward**|Yanming Wan et.al.|[2504.03206v1](http://arxiv.org/abs/2504.03206v1)|**2025-04-04**|null|
-|**2025-04-04**|**Learning Natural Language Constraints for Safe Reinforcement Learning of Language Agents**|Jaymari Chua et.al.|[2504.03185v1](http://arxiv.org/abs/2504.03185v1)|**2025-04-04**|null|
-|**2025-04-04**|**Enhanced Penalty-based Bidirectional Reinforcement Learning Algorithms**|Sai Gana Sandeep Pula et.al.|[2504.03163v1](http://arxiv.org/abs/2504.03163v1)|**2025-04-04**|null|
-|**2025-04-04**|**DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments**|Yuxiang Zheng et.al.|[2504.03160v2](http://arxiv.org/abs/2504.03160v2)|**2025-04-07**|null|
-|**2025-04-04**|**MORAL: A Multimodal Reinforcement Learning Framework for Decision Making in Autonomous Laboratories**|Natalie Tirabassi et.al.|[2504.03153v1](http://arxiv.org/abs/2504.03153v1)|**2025-04-04**|null|
-|**2025-04-03**|**Safety Modulation: Enhancing Safety in Reinforcement Learning through Cost-Modulated Rewards**|Hanping Zhang et.al.|[2504.03040v1](http://arxiv.org/abs/2504.03040v1)|**2025-04-03**|null|
-|**2025-04-03**|**Low Rank Factorizations are Indirect Encodings for Deep Neuroevolution**|Jack Garbus et.al.|[2504.03037v1](http://arxiv.org/abs/2504.03037v1)|**2025-04-03**|null|
-|**2025-04-03**|**Deep Reinforcement Learning via Object-Centric Attention**|Jannis Blüml et.al.|[2504.03024v1](http://arxiv.org/abs/2504.03024v1)|**2025-04-03**|[link](https://github.com/VanillaWhey/OCAtariWrappers)|
-|**2025-04-03**|**Anomaly Detection in Time Series Data Using Reinforcement Learning, Variational Autoencoder, and Active Learning**|Bahareh Golchin et.al.|[2504.02999v1](http://arxiv.org/abs/2504.02999v1)|**2025-04-03**|null|
-|**2025-04-03**|**Improving log-based anomaly detection through learned adaptive filter**|Yiyuan Xiong et.al.|[2504.02994v1](http://arxiv.org/abs/2504.02994v1)|**2025-04-03**|null|
-|**2025-04-03**|**VARGPT-v1.1: Improve Visual Autoregressive Large Unified Model via Iterative Instruction Tuning and Reinforcement Learning**|Xianwei Zhuang et.al.|[2504.02949v1](http://arxiv.org/abs/2504.02949v1)|**2025-04-03**|null|
-|**2025-04-03**|**How Deep Do Large Language Models Internalize Scientific Literature and Citation Practices?**|Andres Algaba et.al.|[2504.02767v1](http://arxiv.org/abs/2504.02767v1)|**2025-04-03**|null|
-|**2025-04-03**|**A Numerically Efficient Method to Enhance Model Predictive Control Performance with a Reinforcement Learning Policy**|Andrea Ghezzi et.al.|[2504.02710v1](http://arxiv.org/abs/2504.02710v1)|**2025-04-03**|null|
-|**2025-04-03**|**Handover and SINR-Aware Path Optimization in 5G-UAV mmWave Communication using DRL**|Achilles Kiwanuka Machumilane et.al.|[2504.02688v1](http://arxiv.org/abs/2504.02688v1)|**2025-04-03**|null|
-|**2025-04-03**|**Integrating Human Knowledge Through Action Masking in Reinforcement Learning for Operations Research**|Mirko Stappert et.al.|[2504.02662v1](http://arxiv.org/abs/2504.02662v1)|**2025-04-03**|null|
-|**2025-04-03**|**SymDQN: Symbolic Knowledge and Reasoning in Neural Network-based Reinforcement Learning**|Ivo Amador et.al.|[2504.02654v1](http://arxiv.org/abs/2504.02654v1)|**2025-04-03**|null|
-|**2025-04-03**|**Solving the Paint Shop Problem with Flexible Management of Multi-Lane Buffers Using Reinforcement Learning and Action Masking**|Mirko Stappert et.al.|[2504.02644v1](http://arxiv.org/abs/2504.02644v1)|**2025-04-03**|null|
-|**2025-04-03**|**Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving**|Daoguang Zan et.al.|[2504.02605v1](http://arxiv.org/abs/2504.02605v1)|**2025-04-03**|null|
+|**2025-04-07**|**RobustDexGrasp: Robust Dexterous Grasping of General Objects from Single-view Perception**|Hui Zhang et.al.|[2504.05287v1](http://arxiv.org/abs/2504.05287v1)|**2025-04-07**|null|
+|**2025-04-07**|**Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization**|Zeqin Yu et.al.|[2504.05224v1](http://arxiv.org/abs/2504.05224v1)|**2025-04-07**|null|
+|**2025-04-07**|**Exploiting individual differences to bootstrap communication**|Richard A. Blythe et.al.|[2504.05211v1](http://arxiv.org/abs/2504.05211v1)|**2025-04-07**|null|
+|**2025-04-07**|**Concise Reasoning via Reinforcement Learning**|Mehdi Fatemi et.al.|[2504.05185v1](http://arxiv.org/abs/2504.05185v1)|**2025-04-07**|null|
+|**2025-04-07**|**Lightweight and Direct Document Relevance Optimization for Generative Information Retrieval**|Kidist Amde Mekonnen et.al.|[2504.05181v1](http://arxiv.org/abs/2504.05181v1)|**2025-04-07**|[link](https://github.com/kidist-amde/ddro)|
+|**2025-04-07**|**RLBayes: a Bayesian Network Structure Learning Algorithm via Reinforcement Learning-Based Search Strategy**|Mingcan Wang et.al.|[2504.05167v1](http://arxiv.org/abs/2504.05167v1)|**2025-04-07**|null|
+|**2025-04-07**|**A Reinforcement Learning Method for Environments with Stochastic Variables: Post-Decision Proximal Policy Optimization with Dual Critic Networks**|Leonardo Kanashiro Felizardo et.al.|[2504.05150v1](http://arxiv.org/abs/2504.05150v1)|**2025-04-07**|null|
+|**2025-04-07**|**Query Smarter, Trust Better? Exploring Search Behaviours for Verifying News Accuracy**|David Elsweiler et.al.|[2504.05146v1](http://arxiv.org/abs/2504.05146v1)|**2025-04-07**|null|
+|**2025-04-07**|**VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks**|YuYue et.al.|[2504.05118v1](http://arxiv.org/abs/2504.05118v1)|**2025-04-07**|null|
+|**2025-04-07**|**Algorithm Discovery With LLMs: Evolutionary Search Meets Reinforcement Learning**|Anja Surina et.al.|[2504.05108v1](http://arxiv.org/abs/2504.05108v1)|**2025-04-07**|null|
+|**2025-04-07**|**LDGNet: A Lightweight Difference Guiding Network for Remote Sensing Change Detection**|Chenfeng Xu et.al.|[2504.05062v1](http://arxiv.org/abs/2504.05062v1)|**2025-04-07**|null|
+|**2025-04-07**|**Attention-Augmented Inverse Reinforcement Learning with Graph Convolutions for Multi-Agent Task Allocation**|Huilin Yin et.al.|[2504.05045v1](http://arxiv.org/abs/2504.05045v1)|**2025-04-07**|null|
+|**2025-04-07**|**Joint Pedestrian and Vehicle Traffic Optimization in Urban Environments using Reinforcement Learning**|Bibek Poudel et.al.|[2504.05018v1](http://arxiv.org/abs/2504.05018v1)|**2025-04-07**|null|
+|**2025-04-07**|**Quasi-periodic sub-structure of RRAT J1913+1330**|Zhenfan Tang et.al.|[2504.04985v1](http://arxiv.org/abs/2504.04985v1)|**2025-04-07**|null|
+|**2025-04-07**|**Ensuring Safety in an Uncertain Environment: Constrained MDPs via Stochastic Thresholds**|Qian Zuo et.al.|[2504.04973v1](http://arxiv.org/abs/2504.04973v1)|**2025-04-07**|null|
+|**2025-04-07**|**A Unified Pairwise Framework for RLHF: Bridging Generative Reward Modeling and Policy Optimization**|Wenyuan Xu et.al.|[2504.04950v1](http://arxiv.org/abs/2504.04950v1)|**2025-04-07**|null|
+|**2025-04-07**|**Age-of-information minimization under energy harvesting and non-stationary environment**|Akanksha Jaiswal et.al.|[2504.04916v1](http://arxiv.org/abs/2504.04916v1)|**2025-04-07**|null|
+|**2025-04-07**|**Weak-for-Strong: Training Weak Meta-Agent to Harness Strong Executors**|Fan Nie et.al.|[2504.04785v1](http://arxiv.org/abs/2504.04785v1)|**2025-04-07**|null|
+|**2025-04-07**|**Playing Non-Embedded Card-Based Games with Reinforcement Learning**|Tianyang Wu et.al.|[2504.04783v1](http://arxiv.org/abs/2504.04783v1)|**2025-04-07**|null|
+|**2025-04-07**|**OCC-MLLM-CoT-Alpha: Towards Multi-stage Occlusion Recognition Based on Large Language Models via 3D-Aware Supervision and Chain-of-Thoughts Guidance**|Chaoyi Wang et.al.|[2504.04781v1](http://arxiv.org/abs/2504.04781v1)|**2025-04-07**|null|
+|**2025-04-07**|**Multi-Agent Deep Reinforcement Learning for Multiple Anesthetics Collaborative Control**|Huijie Li et.al.|[2504.04765v1](http://arxiv.org/abs/2504.04765v1)|**2025-04-07**|null|
+|**2025-04-07**|**Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use**|Anna Goldie et.al.|[2504.04736v1](http://arxiv.org/abs/2504.04736v1)|**2025-04-07**|null|
+|**2025-04-07**|**Beyond Single-Turn: A Survey on Multi-Turn Interactions with Large Language Models**|Yubo Li et.al.|[2504.04717v1](http://arxiv.org/abs/2504.04717v1)|**2025-04-07**|null|
+|**2025-04-07**|**R2Vul: Learning to Reason about Software Vulnerabilities with Reinforcement Learning and Structured Reasoning Distillation**|Martin Weyssow et.al.|[2504.04699v1](http://arxiv.org/abs/2504.04699v1)|**2025-04-07**|null|
+|**2025-04-07**|**Large-Scale Mixed-Traffic and Intersection Control using Multi-agent Reinforcement Learning**|Songyang Liu et.al.|[2504.04691v1](http://arxiv.org/abs/2504.04691v1)|**2025-04-07**|null|
+|**2025-04-07**|**HypRL: Reinforcement Learning of Control Policies for Hyperproperties**|Tzu-Han Hsu et.al.|[2504.04675v1](http://arxiv.org/abs/2504.04675v1)|**2025-04-07**|null|
+|**2025-04-07**|**ACE-RLHF: Automated Code Evaluation and Socratic Feedback Generation Tool using Large Language Models and Reinforcement Learning with Human Feedback**|Tasnia Rahman et.al.|[2504.04657v1](http://arxiv.org/abs/2504.04657v1)|**2025-04-07**|null|
+|**2025-04-06**|**Joint Optimization of Handoff and Video Rate in LEO Satellite Networks**|Kyoungjun Park et.al.|[2504.04586v1](http://arxiv.org/abs/2504.04586v1)|**2025-04-06**|null|
+|**2025-04-06**|**Trust Region Preference Approximation: A simple and stable reinforcement learning algorithm for LLM reasoning**|Xuerui Su et.al.|[2504.04524v1](http://arxiv.org/abs/2504.04524v1)|**2025-04-06**|null|
+|**2025-04-06**|**AI2STOW: End-to-End Deep Reinforcement Learning to Construct Master Stowage Plans under Demand Uncertainty**|Jaike Van Twiller et.al.|[2504.04469v1](http://arxiv.org/abs/2504.04469v1)|**2025-04-06**|null|

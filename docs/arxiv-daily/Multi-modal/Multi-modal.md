@@ -2,33 +2,33 @@
 ### Multi-modal
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-04**|**MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models**|Wulin Xie et.al.|[2504.03641v1](http://arxiv.org/abs/2504.03641v1)|**2025-04-04**|null|
-|**2025-04-04**|**Multimodal Diffusion Bridge with Attention-Based SAR Fusion for Satellite Image Cloud Removal**|Yuyang Hu et.al.|[2504.03607v1](http://arxiv.org/abs/2504.03607v1)|**2025-04-04**|null|
-|**2025-04-04**|**MedSAM2: Segment Anything in 3D Medical Images and Videos**|Jun Ma et.al.|[2504.03600v1](http://arxiv.org/abs/2504.03600v1)|**2025-04-04**|null|
-|**2025-04-04**|**AdaViT: Adaptive Vision Transformer for Flexible Pretrain and Finetune with Variable 3D Medical Image Modalities**|Badhan Kumar Das et.al.|[2504.03589v1](http://arxiv.org/abs/2504.03589v1)|**2025-04-04**|null|
-|**2025-04-04**|**PF3Det: A Prompted Foundation Feature Assisted Visual LiDAR 3D Detector**|Kaidong Li et.al.|[2504.03563v1](http://arxiv.org/abs/2504.03563v1)|**2025-04-04**|null|
-|**2025-04-04**|**A framework for computing upper bounds in passive learning settings**|Benjamin Bordais et.al.|[2504.03517v1](http://arxiv.org/abs/2504.03517v1)|**2025-04-04**|null|
-|**2025-04-04**|**Complete First-Order Game Logic**|Noah Abou El Wafa et.al.|[2504.03495v1](http://arxiv.org/abs/2504.03495v1)|**2025-04-04**|null|
-|**2025-04-04**|**Probabilistic Machine Learning for Noisy Labels in Earth Observation**|Spyros Kondylatos et.al.|[2504.03478v1](http://arxiv.org/abs/2504.03478v1)|**2025-04-04**|null|
-|**2025-04-04**|**ATM-Net: Anatomy-Aware Text-Guided Multi-Modal Fusion for Fine-Grained Lumbar Spine Segmentation**|Sheng Lian et.al.|[2504.03476v1](http://arxiv.org/abs/2504.03476v1)|**2025-04-04**|null|
-|**2025-04-04**|**Multi-encoder nnU-Net outperforms Transformer models with self-supervised pretraining**|Seyedeh Sahar Taheri Otaghsara et.al.|[2504.03474v1](http://arxiv.org/abs/2504.03474v1)|**2025-04-04**|null|
-|**2025-04-04**|**Physics-informed 4D X-ray image reconstruction from ultra-sparse spatiotemporal data**|Zisheng Yao et.al.|[2504.03469v1](http://arxiv.org/abs/2504.03469v1)|**2025-04-04**|null|
-|**2025-04-04**|**ZFusion: An Effective Fuser of Camera and 4D Radar for 3D Object Perception in Autonomous Driving**|Sheng Yang et.al.|[2504.03438v2](http://arxiv.org/abs/2504.03438v2)|**2025-04-07**|null|
-|**2025-04-04**|**Complete design of a fully integrated graphene-based compact plasmon coupler for the infrared**|Aswani Natarajan et.al.|[2504.03403v1](http://arxiv.org/abs/2504.03403v1)|**2025-04-04**|null|
-|**2025-04-04**|**MultiClear: Multimodal Soft Exoskeleton Glove for Transparent Object Grasping Assistance**|Chen Hu et.al.|[2504.03379v1](http://arxiv.org/abs/2504.03379v1)|**2025-04-04**|null|
-|**2025-04-04**|**FLAIRBrainSeg: Fine-grained brain segmentation using FLAIR MRI only**|Edern Le Bot et.al.|[2504.03376v1](http://arxiv.org/abs/2504.03376v1)|**2025-04-04**|null|
-|**2025-04-04**|**Controllability Analysis of Multi-Modal Acoustic Particle Manipulation in One-Dimensional Standing Waves**|Dongjun Wu et.al.|[2504.03296v1](http://arxiv.org/abs/2504.03296v1)|**2025-04-04**|null|
-|**2025-04-04**|**RWKVTTS: Yet another TTS based on RWKV-7**|Lin yueyu et.al.|[2504.03289v1](http://arxiv.org/abs/2504.03289v1)|**2025-04-04**|null|
-|**2025-04-04**|**SARLANG-1M: A Benchmark for Vision-Language Modeling in SAR Image Understanding**|Yimin Wei et.al.|[2504.03254v1](http://arxiv.org/abs/2504.03254v1)|**2025-04-04**|null|
-|**2025-04-04**|**Unlocking Neural Transparency: Jacobian Maps for Explainable AI in Alzheimer's Detection**|Yasmine Mustafa et.al.|[2504.03230v1](http://arxiv.org/abs/2504.03230v1)|**2025-04-04**|null|
-|**2025-04-04**|**Learning Sparse Disentangled Representations for Multimodal Exclusion Retrieval**|Prachi et.al.|[2504.03184v1](http://arxiv.org/abs/2504.03184v1)|**2025-04-04**|null|
-|**2025-04-04**|**MIMRS: A Survey on Masked Image Modeling in Remote Sensing**|Shabnam Choudhury et.al.|[2504.03181v2](http://arxiv.org/abs/2504.03181v2)|**2025-04-07**|null|
-|**2025-04-04**|**Multi-lingual Multi-turn Automated Red Teaming for LLMs**|Abhishek Singhania et.al.|[2504.03174v1](http://arxiv.org/abs/2504.03174v1)|**2025-04-04**|null|
-|**2025-04-04**|**REJEPA: A Novel Joint-Embedding Predictive Architecture for Efficient Remote Sensing Image Retrieval**|Shabnam Choudhury et.al.|[2504.03169v1](http://arxiv.org/abs/2504.03169v1)|**2025-04-04**|null|
-|**2025-04-04**|**RingMoE: Mixture-of-Modality-Experts Multi-Modal Foundation Models for Universal Remote Sensing Image Interpretation**|Hanbo Bi et.al.|[2504.03166v1](http://arxiv.org/abs/2504.03166v1)|**2025-04-04**|null|
-|**2025-04-04**|**Why Reasoning Matters? A Survey of Advancements in Multimodal Reasoning (v1)**|Jing Bi et.al.|[2504.03151v1](http://arxiv.org/abs/2504.03151v1)|**2025-04-04**|null|
-|**2025-04-04**|**Hierarchical Modeling for Medical Visual Question Answering with Cross-Attention Fusion**|Junkai Zhang et.al.|[2504.03135v1](http://arxiv.org/abs/2504.03135v1)|**2025-04-04**|null|
-|**2025-04-04**|**Symbiotic AI: Augmenting Human Cognition from PCs to Cars**|Riccardo Bovo et.al.|[2504.03105v1](http://arxiv.org/abs/2504.03105v1)|**2025-04-04**|null|
-|**2025-04-03**|**First-Order Modal Logic via Logical Categories**|Silvio Ghilardi et.al.|[2504.02985v1](http://arxiv.org/abs/2504.02985v1)|**2025-04-03**|null|
-|**2025-04-03**|**Galerkin reduced order model for two-dimensional Rayleigh-Bénard convection**|Enrique Flores-Montoya et.al.|[2504.02961v1](http://arxiv.org/abs/2504.02961v1)|**2025-04-03**|null|
-|**2025-04-03**|**Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing**|Xiangyu Zhao et.al.|[2504.02826v1](http://arxiv.org/abs/2504.02826v1)|**2025-04-03**|null|
+|**2025-04-07**|**Gaussian Mixture Flow Matching Models**|Hansheng Chen et.al.|[2504.05304v1](http://arxiv.org/abs/2504.05304v1)|**2025-04-07**|null|
+|**2025-04-07**|**Using Physiological Measures, Gaze, and Facial Expressions to Model Human Trust in a Robot Partner**|Haley N. Green et.al.|[2504.05291v1](http://arxiv.org/abs/2504.05291v1)|**2025-04-07**|null|
+|**2025-04-07**|**Resource-Efficient Beam Prediction in mmWave Communications with Multimodal Realistic Simulation Framework**|Yu Min Park et.al.|[2504.05187v1](http://arxiv.org/abs/2504.05187v1)|**2025-04-07**|null|
+|**2025-04-07**|**BRIDGES: Bridging Graph Modality and Large Language Models within EDA Tasks**|Wei Li et.al.|[2504.05180v1](http://arxiv.org/abs/2504.05180v1)|**2025-04-07**|null|
+|**2025-04-07**|**SSLFusion: Scale & Space Aligned Latent Fusion Model for Multimodal 3D Object Detection**|Bonan Ding et.al.|[2504.05170v1](http://arxiv.org/abs/2504.05170v1)|**2025-04-07**|null|
+|**2025-04-07**|**Leveraging Label Potential for Enhanced Multimodal Emotion Recognition**|Xuechun Shao et.al.|[2504.05158v1](http://arxiv.org/abs/2504.05158v1)|**2025-04-07**|null|
+|**2025-04-07**|**TDFANet: Encoding Sequential 4D Radar Point Clouds Using Trajectory-Guided Deformable Feature Aggregation for Place Recognition**|Shouyi Lu et.al.|[2504.05103v1](http://arxiv.org/abs/2504.05103v1)|**2025-04-07**|null|
+|**2025-04-07**|**Topological links and knots of speckled light mediated by coherence singularities**|Zhuoyi Wang et.al.|[2504.05088v1](http://arxiv.org/abs/2504.05088v1)|**2025-04-07**|null|
+|**2025-04-07**|**RS-RAG: Bridging Remote Sensing Imagery and Comprehensive Knowledge with a Multi-Modal Dataset and Retrieval-Augmented Generation Model**|Congcong Wen et.al.|[2504.04988v1](http://arxiv.org/abs/2504.04988v1)|**2025-04-07**|null|
+|**2025-04-07**|**A High-Force Gripper with Embedded Multimodal Sensing for Powerful and Perception Driven Grasping**|Edoardo Del Bianco et.al.|[2504.04970v1](http://arxiv.org/abs/2504.04970v1)|**2025-04-07**|null|
+|**2025-04-07**|**Nonparametric modal regression with missing response observations**|Ana Pérez-González et.al.|[2504.04914v1](http://arxiv.org/abs/2504.04914v1)|**2025-04-07**|null|
+|**2025-04-07**|**Video-Bench: Human-Aligned Video Generation Benchmark**|Hui Han et.al.|[2504.04907v1](http://arxiv.org/abs/2504.04907v1)|**2025-04-07**|null|
+|**2025-04-07**|**SUEDE:Shared Unified Experts for Physical-Digital Face Attack Detection Enhancement**|Zuying Xie et.al.|[2504.04818v1](http://arxiv.org/abs/2504.04818v1)|**2025-04-07**|null|
+|**2025-04-07**|**TabRep: Training Tabular Diffusion Models with a Simple and Effective Continuous Representation**|Jacob Si et.al.|[2504.04798v1](http://arxiv.org/abs/2504.04798v1)|**2025-04-07**|null|
+|**2025-04-07**|**Addressing the Curse of Scenario and Task Generalization in AI-6G: A Multi-Modal Paradigm**|Tianyu Jiao et.al.|[2504.04797v1](http://arxiv.org/abs/2504.04797v1)|**2025-04-07**|null|
+|**2025-04-07**|**Multimodal Agricultural Agent Architecture (MA3): A New Paradigm for Intelligent Agricultural Decision-Making**|Zhuoning Xu et.al.|[2504.04789v1](http://arxiv.org/abs/2504.04789v1)|**2025-04-07**|null|
+|**2025-04-07**|**OCC-MLLM-CoT-Alpha: Towards Multi-stage Occlusion Recognition Based on Large Language Models via 3D-Aware Supervision and Chain-of-Thoughts Guidance**|Chaoyi Wang et.al.|[2504.04781v1](http://arxiv.org/abs/2504.04781v1)|**2025-04-07**|null|
+|**2025-04-07**|**Bidirectional Hierarchical Protein Multi-Modal Representation Learning**|Xuefeng Liu et.al.|[2504.04770v1](http://arxiv.org/abs/2504.04770v1)|**2025-04-07**|null|
+|**2025-04-07**|**Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions**|He Zhu et.al.|[2504.04744v1](http://arxiv.org/abs/2504.04744v1)|**2025-04-07**|null|
+|**2025-04-07**|**TC-MGC: Text-Conditioned Multi-Grained Contrastive Learning for Text-Video Retrieval**|Xiaolun Jing et.al.|[2504.04707v1](http://arxiv.org/abs/2504.04707v1)|**2025-04-07**|null|
+|**2025-04-07**|**LEO-MINI: An Efficient Multimodal Large Language Model using Conditional Token Reduction and Mixture of Multi-Modal Experts**|Yimu Wang et.al.|[2504.04653v1](http://arxiv.org/abs/2504.04653v1)|**2025-04-07**|null|
+|**2025-04-06**|**M2IV: Towards Efficient and Fine-grained Multimodal In-Context Learning in Large Vision-Language Models**|Yanshu Li et.al.|[2504.04633v1](http://arxiv.org/abs/2504.04633v1)|**2025-04-06**|null|
+|**2025-04-06**|**Systematic Literature Review on Vehicular Collaborative Perception -- A Computer Vision Perspective**|Lei Wan et.al.|[2504.04631v1](http://arxiv.org/abs/2504.04631v1)|**2025-04-06**|null|
+|**2025-04-06**|**Foundation Models for Software Engineering of Cyber-Physical Systems: the Road Ahead**|Chengjie Lu et.al.|[2504.04630v1](http://arxiv.org/abs/2504.04630v1)|**2025-04-06**|null|
+|**2025-04-06**|**Diffusion-Based Approximate MPC: Fast and Consistent Imitation of Multi-Modal Action Distributions**|Pau Marquez Julbe et.al.|[2504.04603v1](http://arxiv.org/abs/2504.04603v1)|**2025-04-06**|null|
+|**2025-04-06**|**Multimodal Lengthy Videos Retrieval Framework and Evaluation Metric**|Mohamed Eltahir et.al.|[2504.04572v1](http://arxiv.org/abs/2504.04572v1)|**2025-04-06**|null|
+|**2025-04-06**|**The Point, the Vision and the Text: Does Point Cloud Boost Spatial Reasoning of Large Language Models?**|Weichen Zhang et.al.|[2504.04540v1](http://arxiv.org/abs/2504.04540v1)|**2025-04-06**|null|
+|**2025-04-06**|**AVadCLIP: Audio-Visual Collaboration for Robust Video Anomaly Detection**|Peng Wu et.al.|[2504.04495v1](http://arxiv.org/abs/2504.04495v1)|**2025-04-06**|null|
+|**2025-04-06**|**Domain Generalization for Face Anti-spoofing via Content-aware Composite Prompt Engineering**|Jiabao Guo et.al.|[2504.04470v1](http://arxiv.org/abs/2504.04470v1)|**2025-04-06**|null|
+|**2025-04-06**|**COHESION: Composite Graph Convolutional Network with Dual-Stage Fusion for Multimodal Recommendation**|Jinfeng Xu et.al.|[2504.04452v1](http://arxiv.org/abs/2504.04452v1)|**2025-04-06**|null|

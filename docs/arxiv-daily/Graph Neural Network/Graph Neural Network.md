@@ -2,33 +2,33 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-04**|**An Algebraic Geometry Approach to Viewing Graph Solvability**|Federica Arrigoni et.al.|[2504.03637v1](http://arxiv.org/abs/2504.03637v1)|**2025-04-04**|null|
-|**2025-04-04**|**The Spectrum of Gravitational Waves from Annihilating Domain Walls**|Alessio Notari et.al.|[2504.03636v1](http://arxiv.org/abs/2504.03636v1)|**2025-04-04**|null|
-|**2025-04-04**|**Do Larger Language Models Imply Better Reasoning? A Pretraining Scaling Law for Reasoning**|Xinyi Wang et.al.|[2504.03635v1](http://arxiv.org/abs/2504.03635v1)|**2025-04-04**|null|
-|**2025-04-04**|**Towards data analysis with diagrammatics**|Tobias Kühn et.al.|[2504.03631v1](http://arxiv.org/abs/2504.03631v1)|**2025-04-04**|null|
-|**2025-04-04**|**Reciprocity-Aware Convolutional Neural Networks for Map-Based Path Loss Prediction**|Ryan G. Dempsey et.al.|[2504.03625v1](http://arxiv.org/abs/2504.03625v1)|**2025-04-04**|null|
-|**2025-04-04**|**Higgsing Transitions from Topological Field Theory & Non-Invertible Symmetry in Chern-Simons Matter Theories**|Clay Cordova et.al.|[2504.03614v1](http://arxiv.org/abs/2504.03614v1)|**2025-04-04**|null|
-|**2025-04-04**|**Optimization of a Triangular Delaunay Mesh Generator using Reinforcement Learning**|Will Thacher et.al.|[2504.03610v1](http://arxiv.org/abs/2504.03610v1)|**2025-04-04**|null|
-|**2025-04-04**|**CAMINO: Cloud-native Autonomous Management and Intent-based Orchestrator**|Konstantinos Antonakoglou et.al.|[2504.03586v1](http://arxiv.org/abs/2504.03586v1)|**2025-04-04**|null|
-|**2025-04-04**|**Variational Quantum Self-Organizing Map**|Amol Deshmukh et.al.|[2504.03584v1](http://arxiv.org/abs/2504.03584v1)|**2025-04-04**|null|
-|**2025-04-04**|**Scalable Hypergraph Structure Learning with Diverse Smoothness Priors**|Benjamin T. Brown et.al.|[2504.03583v1](http://arxiv.org/abs/2504.03583v1)|**2025-04-04**|null|
-|**2025-04-04**|**Heterogeneous Resource Allocation for Ensuring End-to-End Quality of Service in Multi-hop Integrated Access and Backhaul Network**|Shuaifeng Zhang et.al.|[2504.03576v1](http://arxiv.org/abs/2504.03576v1)|**2025-04-04**|null|
-|**2025-04-04**|**Lambda/6 Suspended Patch Antenna**|Luca Giangrande et.al.|[2504.03567v2](http://arxiv.org/abs/2504.03567v2)|**2025-04-07**|null|
-|**2025-04-04**|**Nonlinear spectral graph theory**|Piero Deidda et.al.|[2504.03566v1](http://arxiv.org/abs/2504.03566v1)|**2025-04-04**|null|
-|**2025-04-04**|**Large plastic deformation of voids in crystals**|Jalal Smiri et.al.|[2504.03565v1](http://arxiv.org/abs/2504.03565v1)|**2025-04-04**|null|
-|**2025-04-04**|**Finding a Shortest Curve that Separates Few Objects from Many**|Therese Biedl et.al.|[2504.03558v1](http://arxiv.org/abs/2504.03558v1)|**2025-04-04**|null|
-|**2025-04-04**|**On the existence of Nehari ground states for the Nonlinear Schrödinger Equation on Discrete Graphs**|Setenay Akduman et.al.|[2504.03552v1](http://arxiv.org/abs/2504.03552v1)|**2025-04-04**|null|
-|**2025-04-04**|**Dense Neural Network Based Arrhythmia Classification on Low-cost and Low-compute Micro-controller**|Md Abu Obaida Zishan et.al.|[2504.03531v1](http://arxiv.org/abs/2504.03531v1)|**2025-04-04**|null|
-|**2025-04-04**|**Undefinability of Approximation of 2-to-2 Games**|Anuj Dawar et.al.|[2504.03523v1](http://arxiv.org/abs/2504.03523v1)|**2025-04-04**|null|
-|**2025-04-04**|**Dynamic Training Enhances Machine Learning Potentials for Long-Lasting Molecular Dynamics**|Ivan Žugec et.al.|[2504.03521v1](http://arxiv.org/abs/2504.03521v1)|**2025-04-04**|null|
-|**2025-04-04**|**Local Search for Clustering in Almost-linear Time**|Shaofeng H. -C. Jiang et.al.|[2504.03513v1](http://arxiv.org/abs/2504.03513v1)|**2025-04-04**|null|
-|**2025-04-04**|**Hierarchical Knowledge Structuring for Effective Federated Learning in Heterogeneous Environments**|Wai Fong Tam et.al.|[2504.03505v1](http://arxiv.org/abs/2504.03505v1)|**2025-04-04**|null|
-|**2025-04-04**|**Optimistic Learning for Communication Networks**|George Iosifidis et.al.|[2504.03499v1](http://arxiv.org/abs/2504.03499v1)|**2025-04-04**|null|
-|**2025-04-04**|**Hybrid Real- and Complex-valued Neural Network Architecture**|Alex Young et.al.|[2504.03497v1](http://arxiv.org/abs/2504.03497v1)|**2025-04-04**|null|
-|**2025-04-04**|**Tracking and Distinguishing Slime Mold Solutions to the Traveling Salesman Problem through Synchronized Amplification in the Non-Equilibrium Steady State**|Suyash Bajpai et.al.|[2504.03492v1](http://arxiv.org/abs/2504.03492v1)|**2025-04-04**|null|
-|**2025-04-04**|**BUFF: Bayesian Uncertainty Guided Diffusion Probabilistic Model for Single Image Super-Resolution**|Zihao He et.al.|[2504.03490v1](http://arxiv.org/abs/2504.03490v1)|**2025-04-04**|null|
-|**2025-04-04**|**The Vaccination Game on Networks**|Kausutua Tjikundi et.al.|[2504.03489v1](http://arxiv.org/abs/2504.03489v1)|**2025-04-04**|null|
-|**2025-04-04**|**Gaussian Process Tilted Nonparametric Density Estimation using Fisher Divergence Score Matching**|John Paisley et.al.|[2504.03485v1](http://arxiv.org/abs/2504.03485v1)|**2025-04-04**|null|
-|**2025-04-04**|**Discovering Partially Known Ordinary Differential Equations: a Case Study on the Chemical Kinetics of Cellulose Degradation**|Federica Bragone et.al.|[2504.03484v1](http://arxiv.org/abs/2504.03484v1)|**2025-04-04**|null|
-|**2025-04-04**|**Online Traffic Density Estimation using Physics-Informed Neural Networks**|Dennis Wilkman et.al.|[2504.03483v1](http://arxiv.org/abs/2504.03483v1)|**2025-04-04**|null|
-|**2025-04-04**|**An all-fibred, telecom technology compatible, room temperature, single-photon source**|Nathan Lecaron et.al.|[2504.03475v1](http://arxiv.org/abs/2504.03475v1)|**2025-04-04**|null|
+|**2025-04-07**|**One-Minute Video Generation with Test-Time Training**|Karan Dalal et.al.|[2504.05298v1](http://arxiv.org/abs/2504.05298v1)|**2025-04-07**|null|
+|**2025-04-07**|**UK APAP R-matrix electron-impact excitation cross-sections for modelling laboratory and astrophysical plasma**|G. Del Zanna et.al.|[2504.05286v1](http://arxiv.org/abs/2504.05286v1)|**2025-04-07**|null|
+|**2025-04-07**|**Estimation of Heat Transfer Coefficient in Heat Exchangers from closed-loop data using Neural Networks**|Ramachandran Anantharaman et.al.|[2504.05282v1](http://arxiv.org/abs/2504.05282v1)|**2025-04-07**|null|
+|**2025-04-07**|**On canonical sandpile actions of embedded graphs**|Lilla Tóthmérész et.al.|[2504.05275v1](http://arxiv.org/abs/2504.05275v1)|**2025-04-07**|null|
+|**2025-04-07**|**PINNverse: Accurate parameter estimation in differential equations from noisy data with constrained physics-informed neural networks**|Marius Almanstötter et.al.|[2504.05248v1](http://arxiv.org/abs/2504.05248v1)|**2025-04-07**|null|
+|**2025-04-07**|**Embedded Federated Feature Selection with Dynamic Sparse Training: Balancing Accuracy-Cost Tradeoffs**|Afsaneh Mahanipour et.al.|[2504.05245v1](http://arxiv.org/abs/2504.05245v1)|**2025-04-07**|null|
+|**2025-04-07**|**IAEmu: Learning Galaxy Intrinsic Alignment Correlations**|Sneh Pandya et.al.|[2504.05235v1](http://arxiv.org/abs/2504.05235v1)|**2025-04-07**|null|
+|**2025-04-07**|**Security Risks in Vision-Based Beam Prediction: From Spatial Proxy Attacks to Feature Refinement**|Avi Deb Raha et.al.|[2504.05222v1](http://arxiv.org/abs/2504.05222v1)|**2025-04-07**|null|
+|**2025-04-07**|**Quasinormal modes and absorption cross-section of a Bardeen black hole surrounded by perfect fluid dark matter in four dimensions**|Angel Rincon et.al.|[2504.05215v1](http://arxiv.org/abs/2504.05215v1)|**2025-04-07**|null|
+|**2025-04-07**|**Post-Training Language Models for Continual Relation Extraction**|Sefika Efeoglu et.al.|[2504.05214v1](http://arxiv.org/abs/2504.05214v1)|**2025-04-07**|null|
+|**2025-04-07**|**Bayesian estimation of causal effects from observational categorical data**|Vera Kvisgaard et.al.|[2504.05198v1](http://arxiv.org/abs/2504.05198v1)|**2025-04-07**|null|
+|**2025-04-07**|**P2Mark: Plug-and-play Parameter-intrinsic Watermarking for Neural Speech Generation**|Yong Ren et.al.|[2504.05197v1](http://arxiv.org/abs/2504.05197v1)|**2025-04-07**|null|
+|**2025-04-07**|**Universal Lymph Node Detection in Multiparametric MRI with Selective Augmentation**|Tejas Sudharshan Mathai et.al.|[2504.05196v1](http://arxiv.org/abs/2504.05196v1)|**2025-04-07**|null|
+|**2025-04-07**|**A general framework for quasi-isometries in symbolic dynamics beyond groups**|Sebastián Barbieri et.al.|[2504.05194v1](http://arxiv.org/abs/2504.05194v1)|**2025-04-07**|null|
+|**2025-04-07**|**Maximum Shortest Path Interdiction Problem by Upgrading Nodes on Trees under Unit Cost**|Qiao Zhang et.al.|[2504.05190v1](http://arxiv.org/abs/2504.05190v1)|**2025-04-07**|null|
+|**2025-04-07**|**Resource-Efficient Beam Prediction in mmWave Communications with Multimodal Realistic Simulation Framework**|Yu Min Park et.al.|[2504.05187v1](http://arxiv.org/abs/2504.05187v1)|**2025-04-07**|null|
+|**2025-04-07**|**Utility-aware Social Network Anonymization using Genetic Algorithms**|Samuel Bonello et.al.|[2504.05183v1](http://arxiv.org/abs/2504.05183v1)|**2025-04-07**|null|
+|**2025-04-07**|**Lightweight and Direct Document Relevance Optimization for Generative Information Retrieval**|Kidist Amde Mekonnen et.al.|[2504.05181v1](http://arxiv.org/abs/2504.05181v1)|**2025-04-07**|[link](https://github.com/kidist-amde/ddro)|
+|**2025-04-07**|**BRIDGES: Bridging Graph Modality and Large Language Models within EDA Tasks**|Wei Li et.al.|[2504.05180v1](http://arxiv.org/abs/2504.05180v1)|**2025-04-07**|null|
+|**2025-04-07**|**Cellular Network Design for UAV Corridors via Data-driven High-dimensional Bayesian Optimization**|Mohamed Benzaghta et.al.|[2504.05176v1](http://arxiv.org/abs/2504.05176v1)|**2025-04-07**|null|
+|**2025-04-07**|**PRDTs: Composable Knowledge-Based Consensus Protocols with Replicated Data Types**|Julian Haas et.al.|[2504.05173v1](http://arxiv.org/abs/2504.05173v1)|**2025-04-07**|null|
+|**2025-04-07**|**Attention-Based Multi-Scale Temporal Fusion Network for Uncertain-Mode Fault Diagnosis in Multimode Processes**|Guangqiang Li et.al.|[2504.05172v1](http://arxiv.org/abs/2504.05172v1)|**2025-04-07**|null|
+|**2025-04-07**|**SSLFusion: Scale & Space Aligned Latent Fusion Model for Multimodal 3D Object Detection**|Bonan Ding et.al.|[2504.05170v1](http://arxiv.org/abs/2504.05170v1)|**2025-04-07**|null|
+|**2025-04-07**|**Modeling Micro-Doppler Signature of Multi-Propeller Drones in Distributed ISAC**|Heraldo Cesar Alves Costa et.al.|[2504.05168v1](http://arxiv.org/abs/2504.05168v1)|**2025-04-07**|null|
+|**2025-04-07**|**RLBayes: a Bayesian Network Structure Learning Algorithm via Reinforcement Learning-Based Search Strategy**|Mingcan Wang et.al.|[2504.05167v1](http://arxiv.org/abs/2504.05167v1)|**2025-04-07**|null|
+|**2025-04-07**|**Evaluating Knowledge Graph Based Retrieval Augmented Generation Methods under Knowledge Incompleteness**|Dongzhuoran Zhou et.al.|[2504.05163v1](http://arxiv.org/abs/2504.05163v1)|**2025-04-07**|null|
+|**2025-04-07**|**SparsyFed: Sparse Adaptive Federated Training**|Adriano Guastella et.al.|[2504.05153v1](http://arxiv.org/abs/2504.05153v1)|**2025-04-07**|null|
+|**2025-04-07**|**A Reinforcement Learning Method for Environments with Stochastic Variables: Post-Decision Proximal Policy Optimization with Dual Critic Networks**|Leonardo Kanashiro Felizardo et.al.|[2504.05150v1](http://arxiv.org/abs/2504.05150v1)|**2025-04-07**|null|
+|**2025-04-07**|**Taming Double-Spending in Offline Payments with Reputation-Weighted Loan Networks**|Nektarios Evangelou et.al.|[2504.05143v1](http://arxiv.org/abs/2504.05143v1)|**2025-04-07**|null|
+|**2025-04-07**|**Discrete-to-continuum limits of semilinear stochastic evolution equations in Banach spaces**|Yves van Gennip et.al.|[2504.05142v1](http://arxiv.org/abs/2504.05142v1)|**2025-04-07**|null|
