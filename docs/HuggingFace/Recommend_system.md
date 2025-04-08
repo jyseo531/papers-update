@@ -257,6 +257,7 @@ Updated on 2025-04-08
 | 298 | 12 | Akashpb13/xlsr_kurmanji_kurdishAutomatic | UpdatedMar 25, 2023 | [Link](https://huggingface.co/Akashpb13/xlsr_kurmanji_kurdish) |
 | 2.33k | 12 | argmaxinc/whisperkit-proAutomatic | UpdatedJan 13 | [Link](https://huggingface.co/argmaxinc/whisperkit-pro) |
 | 3.53k | 12 | MERaLiON/MERaLiON-AudioLLM-Whisper-SEA-LIONAutomatic | Updated3 days ago | [Link](https://huggingface.co/MERaLiON/MERaLiON-AudioLLM-Whisper-SEA-LION) |
+| 6.1M | 12 | jonatasgrosman/wav2vec2-large-xlsr-53-dutchAutomatic | UpdatedDec 14, 2022 | [Link](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-dutch) |
 | 419 | 11 | FireRedTeam/FireRedASR-LLM-LAutomatic | Updated13 days ago | [Link](https://huggingface.co/FireRedTeam/FireRedASR-LLM-L) |
 | 37 | 11 | DataoceanAI/dolphin-smallAutomatic | Updated6 days ago | [Link](https://huggingface.co/DataoceanAI/dolphin-small) |
 | 3.15k | 10 | speechbrain/asr-streaming-conformer-librispeechAutomatic | UpdatedApr 15, 2024 | [Link](https://huggingface.co/speechbrain/asr-streaming-conformer-librispeech) |
@@ -1948,6 +1949,7 @@ Updated on 2025-04-08
 | 58 | 3 | desklib/ai-text-detector-academic-v1 | Updated7 days ago | [Link](https://huggingface.co/desklib/ai-text-detector-academic-v1.01) |
 | 47 | 3 | AdityaSai1234/t5-finetuned-financeText | Updated3 days ago | [Link](https://huggingface.co/AdityaSai1234/t5-finetuned-finance) |
 | 64 | 3 | oxyapi/albert-moderation-001Text | Updated4 days ago | [Link](https://huggingface.co/oxyapi/albert-moderation-001) |
+| 48 | 3 | jinaai/jina-reranker-m0Text | Updated10 minutes ago | [Link](https://huggingface.co/jinaai/jina-reranker-m0) |
 | 43.6k | 2 | r3ddkahili/final-complete-malicious-url-modelText | Updated18 days ago | [Link](https://huggingface.co/r3ddkahili/final-complete-malicious-url-model) |
 | 420 | 2 | yueliu1999/GuardReasoner-3BText | Updated24 days ago | [Link](https://huggingface.co/yueliu1999/GuardReasoner-3B) |
 | 17 | 2 | AICodexLab/answerdotai-ModernBERT-base-ai-detectorText | Updated6 days ago | [Link](https://huggingface.co/AICodexLab/answerdotai-ModernBERT-base-ai-detector) |
