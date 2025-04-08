@@ -17,7 +17,7 @@
 |**2025-04-04**|**Enhancing Personalized Multi-Turn Dialogue with Curiosity Reward**|Yanming Wan et.al.|[2504.03206v1](http://arxiv.org/abs/2504.03206v1)|**2025-04-04**|null|
 |**2025-04-04**|**Learning Natural Language Constraints for Safe Reinforcement Learning of Language Agents**|Jaymari Chua et.al.|[2504.03185v1](http://arxiv.org/abs/2504.03185v1)|**2025-04-04**|null|
 |**2025-04-04**|**Enhanced Penalty-based Bidirectional Reinforcement Learning Algorithms**|Sai Gana Sandeep Pula et.al.|[2504.03163v1](http://arxiv.org/abs/2504.03163v1)|**2025-04-04**|null|
-|**2025-04-04**|**DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments**|Yuxiang Zheng et.al.|[2504.03160v1](http://arxiv.org/abs/2504.03160v1)|**2025-04-04**|null|
+|**2025-04-04**|**DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments**|Yuxiang Zheng et.al.|[2504.03160v2](http://arxiv.org/abs/2504.03160v2)|**2025-04-07**|null|
 |**2025-04-04**|**MORAL: A Multimodal Reinforcement Learning Framework for Decision Making in Autonomous Laboratories**|Natalie Tirabassi et.al.|[2504.03153v1](http://arxiv.org/abs/2504.03153v1)|**2025-04-04**|null|
 |**2025-04-03**|**Safety Modulation: Enhancing Safety in Reinforcement Learning through Cost-Modulated Rewards**|Hanping Zhang et.al.|[2504.03040v1](http://arxiv.org/abs/2504.03040v1)|**2025-04-03**|null|
 |**2025-04-03**|**Low Rank Factorizations are Indirect Encodings for Deep Neuroevolution**|Jack Garbus et.al.|[2504.03037v1](http://arxiv.org/abs/2504.03037v1)|**2025-04-03**|null|

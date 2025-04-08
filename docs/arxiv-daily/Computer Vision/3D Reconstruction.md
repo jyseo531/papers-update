@@ -10,7 +10,7 @@
 |**2025-04-04**|**Electromagnetic homogenization of particulate composite materials comprising spheroids and truncated spheroids with orientational distribution**|Héctor M. Iga-Buitrón et.al.|[2504.03530v1](http://arxiv.org/abs/2504.03530v1)|**2025-04-04**|null|
 |**2025-04-04**|**Quenching through the QCD chiral phase transition**|Adrien Florio et.al.|[2504.03514v1](http://arxiv.org/abs/2504.03514v1)|**2025-04-04**|null|
 |**2025-04-04**|**D-Garment: Physics-Conditioned Latent Diffusion for Dynamic Garment Deformations**|Antoine Dumoulin et.al.|[2504.03468v1](http://arxiv.org/abs/2504.03468v1)|**2025-04-04**|null|
-|**2025-04-04**|**ZFusion: An Effective Fuser of Camera and 4D Radar for 3D Object Perception in Autonomous Driving**|Sheng Yang et.al.|[2504.03438v1](http://arxiv.org/abs/2504.03438v1)|**2025-04-04**|null|
+|**2025-04-04**|**ZFusion: An Effective Fuser of Camera and 4D Radar for 3D Object Perception in Autonomous Driving**|Sheng Yang et.al.|[2504.03438v2](http://arxiv.org/abs/2504.03438v2)|**2025-04-07**|null|
 |**2025-04-04**|**NeRFlex: Resource-aware Real-time High-quality Rendering of Complex Scenes on Mobile Devices**|Zhe Wang et.al.|[2504.03415v1](http://arxiv.org/abs/2504.03415v1)|**2025-04-04**|null|
 |**2025-04-04**|**Error estimates of an exponential wave integrator for the nonlinear Schrödinger equation with singular potential**|Weizhu Bao et.al.|[2504.03346v1](http://arxiv.org/abs/2504.03346v1)|**2025-04-04**|null|
 |**2025-04-04**|**Evolution of interacting coronal mass ejections driving the great geomagnetic storm on 10 May 2024**|Soumyaranjan Khuntia et.al.|[2504.03335v1](http://arxiv.org/abs/2504.03335v1)|**2025-04-04**|null|
@@ -18,7 +18,7 @@
 |**2025-04-04**|**Unlocking Neural Transparency: Jacobian Maps for Explainable AI in Alzheimer's Detection**|Yasmine Mustafa et.al.|[2504.03230v1](http://arxiv.org/abs/2504.03230v1)|**2025-04-04**|null|
 |**2025-04-04**|**Enhanced hot electron generation from liquid jets in moderate intensity laser-plasma interactions**|Ratul Sabui et.al.|[2504.03217v1](http://arxiv.org/abs/2504.03217v1)|**2025-04-04**|null|
 |**2025-04-04**|**Endo3R: Unified Online Reconstruction from Dynamic Monocular Endoscopic Video**|Jiaxin Guo et.al.|[2504.03198v1](http://arxiv.org/abs/2504.03198v1)|**2025-04-04**|null|
-|**2025-04-04**|**NuScenes-SpatialQA: A Spatial Understanding and Reasoning Benchmark for Vision-Language Models in Autonomous Driving**|Kexin Tian et.al.|[2504.03164v1](http://arxiv.org/abs/2504.03164v1)|**2025-04-04**|null|
+|**2025-04-04**|**NuScenes-SpatialQA: A Spatial Understanding and Reasoning Benchmark for Vision-Language Models in Autonomous Driving**|Kexin Tian et.al.|[2504.03164v2](http://arxiv.org/abs/2504.03164v2)|**2025-04-07**|null|
 |**2025-04-04**|**Joint Retrieval of Cloud properties using Attention-based Deep Learning Models**|Zahid Hassan Tushar et.al.|[2504.03133v1](http://arxiv.org/abs/2504.03133v1)|**2025-04-04**|null|
 |**2025-04-04**|**GraphSeg: Segmented 3D Representations via Graph Edge Addition and Contraction**|Haozhan Tang et.al.|[2504.03129v1](http://arxiv.org/abs/2504.03129v1)|**2025-04-04**|null|
 |**2025-04-04**|**Dispersion-Engineered Compact Twisted Metasurfaces Enabling 3D Frequency-Reconfigurable Holography**|Cheng Pang et.al.|[2504.03115v1](http://arxiv.org/abs/2504.03115v1)|**2025-04-04**|null|

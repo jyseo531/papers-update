@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-04-07
+Updated on 2025-04-08
 
 > Generated from the Hugging Face database.
 
@@ -432,6 +432,7 @@ Updated on 2025-04-07
 | 5.74k | 88 | DMetaSoul/Dmeta-embedding-zhFeature | UpdatedApr 8, 2024 | [Link](https://huggingface.co/DMetaSoul/Dmeta-embedding-zh) |
 | 3.56k | 83 | Salesforce/SFR-Embedding-2_RFeature | Updated25 days ago | [Link](https://huggingface.co/Salesforce/SFR-Embedding-2_R) |
 | 307k | 83 | Supabase/gte-smallFeature | UpdatedMar 18, 2024 | [Link](https://huggingface.co/Supabase/gte-small) |
+| 18.1k | 80 | utter-project/mHuBERT-147Feature | UpdatedDec 19, 2024 | [Link](https://huggingface.co/utter-project/mHuBERT-147) |
 | 3.88k | 78 | jxm/cde-small-v2Feature | UpdatedFeb 3 | [Link](https://huggingface.co/jxm/cde-small-v2) |
 | 376k | 69 | microsoft/wavlm-largeFeature | UpdatedFeb 2, 2022 | [Link](https://huggingface.co/microsoft/wavlm-large) |
 | 8.91k | 68 | rinna/japanese-hubert-baseFeature | UpdatedJul 20, 2024 | [Link](https://huggingface.co/rinna/japanese-hubert-base) |
@@ -2001,6 +2002,7 @@ Updated on 2025-04-07
 | 8.45k |  | arpanghoshal/EmoRoBERTaText | UpdatedSep 11, 2024 | [Link](https://huggingface.co/arpanghoshal/EmoRoBERTa) |
 | 188k |  | siebert/sentiment-roberta-large-englishText | UpdatedJun 11, 2024 | [Link](https://huggingface.co/siebert/sentiment-roberta-large-english) |
 | 94.8k |  | seara/rubert-tiny2-russian-sentimentText | UpdatedOct 29, 2024 | [Link](https://huggingface.co/seara/rubert-tiny2-russian-sentiment) |
+| 313k |  | finiteautomata/bertweet-base-sentiment-analysisText | UpdatedFeb 17, 2023 | [Link](https://huggingface.co/finiteautomata/bertweet-base-sentiment-analysis) |
 
 ## Text Generation
 
@@ -2274,6 +2276,7 @@ Updated on 2025-04-07
 | 2.23k | 42 | aoxo/flux | Updatedabout 2 hours ago | [Link](https://huggingface.co/aoxo/flux.1dev-abliteratedv2) |
 | 5.59k | 33 | hashu786/HYVRewardText-to-Image | Updated5 days ago | [Link](https://huggingface.co/hashu786/HYVReward) |
 | 5.26k | 20 | mit-han-lab/svdq-int4-flux | Updated22 days ago | [Link](https://huggingface.co/mit-han-lab/svdq-int4-flux.1-dev) |
+| 2 | 20 | HiDream-ai/HiDream-I1-FullText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/HiDream-ai/HiDream-I1-Full) |
 |  | 13 | aaronaftab/mirage-ghibliText-to-Image | Updatedabout 14 hours ago | [Link](https://huggingface.co/aaronaftab/mirage-ghibli) |
 | 116 | 11 | Efficient-Large-Model/SANA1 | Updatedabout 6 hours ago | [Link](https://huggingface.co/Efficient-Large-Model/SANA1.5_4.8B_1024px) |
 |  | 10 | strangerzonehf/Real-ClaymationText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/strangerzonehf/Real-Claymation) |
@@ -2444,6 +2447,9 @@ Updated on 2025-04-07
 | 5 | Unknown | erax-ai/EraX-Smile-Female-F5-V1 | Updated1 minute ago | [Link](https://huggingface.co/erax-ai/EraX-Smile-Female-F5-V1.0) |
 | 8 | Unknown | NeuML/kokoro-int8-onnxText-to-Speech | Updated11 days ago | [Link](https://huggingface.co/NeuML/kokoro-int8-onnx) |
 | 180 | Unknown | facebook/seamless-expressiveText-to-Speech | UpdatedJan 4, 2024 | [Link](https://huggingface.co/facebook/seamless-expressive) |
+| 4 | Unknown | SebastianBodza/Kartoffel_Orpheus-3B_german_synthetic-v0 | Updated1 day ago | [Link](https://huggingface.co/SebastianBodza/Kartoffel_Orpheus-3B_german_synthetic-v0.1) |
+| 2.31k |  | espnet/kan-bayashi_ljspeech_vitsText-to-Speech | UpdatedOct 23, 2021 | [Link](https://huggingface.co/espnet/kan-bayashi_ljspeech_vits) |
+| 4.79k |  | speechbrain/tts-tacotron2-ljspeechText-to-Speech | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/speechbrain/tts-tacotron2-ljspeech) |
 
 ## Text-to-Video
 
@@ -2544,6 +2550,7 @@ Updated on 2025-04-07
 | 9.69k | 24 | google/t5-efficient-tinyText2Text | UpdatedJan 24, 2023 | [Link](https://huggingface.co/google/t5-efficient-tiny) |
 | 11.6k | 23 | google/umt5-smallText2Text | UpdatedJul 6, 2023 | [Link](https://huggingface.co/google/umt5-small) |
 | 298 | 22 | google/umt5-xxlText2Text | UpdatedJul 3, 2023 | [Link](https://huggingface.co/google/umt5-xxl) |
+| 99 | 15 | bond005/FRED-T5-large-instruct-v0 | UpdatedOct 8, 2024 | [Link](https://huggingface.co/bond005/FRED-T5-large-instruct-v0.1) |
 | 45 | 12 | prithivMLmods/Ares-Bart-CnnText2Text | UpdatedMay 13, 2024 | [Link](https://huggingface.co/prithivMLmods/Ares-Bart-Cnn) |
 | 379 | 12 | nakamoto-yama/t5-resume-generationText2Text | UpdatedJul 3, 2024 | [Link](https://huggingface.co/nakamoto-yama/t5-resume-generation) |
 | 46 | 12 | SicariusSicariiStuff/Oni_Mitsubishi_12BText2Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/SicariusSicariiStuff/Oni_Mitsubishi_12B) |
@@ -2612,6 +2619,7 @@ Updated on 2025-04-07
 | 123k |  | google/mt5-baseText2Text | UpdatedJan 24, 2023 | [Link](https://huggingface.co/google/mt5-base) |
 | 2 | Unknown | Hamzah-Asadullah/GenericRPV2-7BText2Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/Hamzah-Asadullah/GenericRPV2-7B) |
 | 25.5k |  | facebook/mbart-large-50-one-to-many-mmtText2Text | UpdatedMar 28, 2023 | [Link](https://huggingface.co/facebook/mbart-large-50-one-to-many-mmt) |
+| 4 | Unknown | VOICEVOX/kanalizerText2Text | Updated9 days ago | [Link](https://huggingface.co/VOICEVOX/kanalizer) |
 
 ## Time Series Forecasting
 
@@ -2798,6 +2806,7 @@ Updated on 2025-04-07
 | 110 |  | Helsinki-NLP/opus-mt-en-rwTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-en-rw) |
 | 31.1k |  | Helsinki-NLP/opus-mt-th-enTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-th-en) |
 | 2.5k |  | Helsinki-NLP/opus-mt-en-urTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-en-ur) |
+| 21.3k |  | Helsinki-NLP/opus-mt-tc-big-en-frTranslation | UpdatedOct 10, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-tc-big-en-fr) |
 
 ## Unconditional Image Generation
 
@@ -3034,6 +3043,7 @@ Updated on 2025-04-07
 | 33 | 2 | RhapsodyAI/qwen_vl_guidanceVisual | UpdatedAug 13, 2024 | [Link](https://huggingface.co/RhapsodyAI/qwen_vl_guidance) |
 | 12 | 2 | VLM-Reasoner/LMM-R1-MGT-PerceReasonVisual | Updated4 days ago | [Link](https://huggingface.co/VLM-Reasoner/LMM-R1-MGT-PerceReason) |
 | 7 | 2 | LZXzju/Qwen2 | Updated2 days ago | [Link](https://huggingface.co/LZXzju/Qwen2.5-VL-3B-UI-R1) |
+| 10 | 2 | TIGER-Lab/MM-Thinker-72BVisual | Updatedabout 12 hours ago | [Link](https://huggingface.co/TIGER-Lab/MM-Thinker-72B) |
 | 96 | 1 | dineshcr7/med-VQA-1Visual | UpdatedOct 28, 2023 | [Link](https://huggingface.co/dineshcr7/med-VQA-1) |
 | 143k |  | dandelin/vilt-b32-finetuned-vqaVisual | UpdatedAug 2, 2022 | [Link](https://huggingface.co/dandelin/vilt-b32-finetuned-vqa) |
 | 778k |  | Salesforce/blip-vqa-baseVisual | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-vqa-base) |
