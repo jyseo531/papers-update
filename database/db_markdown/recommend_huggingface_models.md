@@ -2111,6 +2111,7 @@ Updated on 2025-04-09
 | 1.47k | 23 | NousResearch/DeepHermes-3-Llama-3-3B-PreviewText | Updated4 days ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-3B-Preview) |
 | 44 | 22 | deepcogito/cogito-v1-preview-llama-3BText | Updatedabout 12 hours ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-llama-3B) |
 | 34 | 21 | ai21labs/AI21-Jamba-Mini-1 | Updatedabout 13 hours ago | [Link](https://huggingface.co/ai21labs/AI21-Jamba-Mini-1.6) |
+| 7.93k | 21 | lmstudio-community/Llama-4-Scout-17B-16E-Instruct-GGUFText | Updated1 day ago | [Link](https://huggingface.co/lmstudio-community/Llama-4-Scout-17B-16E-Instruct-GGUF) |
 | 335 | 20 | google/txgemma-27b-chatText | Updated2 days ago | [Link](https://huggingface.co/google/txgemma-27b-chat) |
 | 473 | 20 | google/txgemma-9b-chatText | Updated4 days ago | [Link](https://huggingface.co/google/txgemma-9b-chat) |
 | 14.1k | 19 | alamios/Mistral-Small-3 | Updated10 days ago | [Link](https://huggingface.co/alamios/Mistral-Small-3.1-DRAFT-0.5B) |
