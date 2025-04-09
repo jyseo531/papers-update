@@ -22,7 +22,7 @@
 |**2025-04-07**|**Lightweight and Direct Document Relevance Optimization for Generative Information Retrieval**|Kidist Amde Mekonnen et.al.|[2504.05181v1](http://arxiv.org/abs/2504.05181v1)|**2025-04-07**|[link](https://github.com/kidist-amde/ddro)|
 |**2025-04-07**|**BRIDGES: Bridging Graph Modality and Large Language Models within EDA Tasks**|Wei Li et.al.|[2504.05180v1](http://arxiv.org/abs/2504.05180v1)|**2025-04-07**|null|
 |**2025-04-07**|**Cellular Network Design for UAV Corridors via Data-driven High-dimensional Bayesian Optimization**|Mohamed Benzaghta et.al.|[2504.05176v1](http://arxiv.org/abs/2504.05176v1)|**2025-04-07**|null|
-|**2025-04-07**|**PRDTs: Composable Knowledge-Based Consensus Protocols with Replicated Data Types**|Julian Haas et.al.|[2504.05173v1](http://arxiv.org/abs/2504.05173v1)|**2025-04-07**|null|
+|**2025-04-07**|**PRDTs: Composable Knowledge-Based Consensus Protocols with Replicated Data Types**|Julian Haas et.al.|[2504.05173v2](http://arxiv.org/abs/2504.05173v2)|**2025-04-08**|null|
 |**2025-04-07**|**Attention-Based Multi-Scale Temporal Fusion Network for Uncertain-Mode Fault Diagnosis in Multimode Processes**|Guangqiang Li et.al.|[2504.05172v1](http://arxiv.org/abs/2504.05172v1)|**2025-04-07**|null|
 |**2025-04-07**|**SSLFusion: Scale & Space Aligned Latent Fusion Model for Multimodal 3D Object Detection**|Bonan Ding et.al.|[2504.05170v1](http://arxiv.org/abs/2504.05170v1)|**2025-04-07**|null|
 |**2025-04-07**|**Modeling Micro-Doppler Signature of Multi-Propeller Drones in Distributed ISAC**|Heraldo Cesar Alves Costa et.al.|[2504.05168v1](http://arxiv.org/abs/2504.05168v1)|**2025-04-07**|null|

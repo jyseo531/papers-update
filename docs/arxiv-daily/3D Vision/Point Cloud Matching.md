@@ -17,7 +17,7 @@
 |**2025-04-07**|**Precision DIS thrust predictions for HERA and EIC**|June-Haak Ee et.al.|[2504.05234v1](http://arxiv.org/abs/2504.05234v1)|**2025-04-07**|null|
 |**2025-04-07**|**Formation of Near-surface Atmospheric Inversion and Surface Inversion in Hothouse Climates**|Jiachen Liu et.al.|[2504.05233v1](http://arxiv.org/abs/2504.05233v1)|**2025-04-07**|null|
 |**2025-04-07**|**Discovery of the 7-ring PAH Cyanocoronene (C$_{24}$H$_{11}$CN) in GOTHAM Observations of TMC-1**|Gabi Wenzel et.al.|[2504.05232v1](http://arxiv.org/abs/2504.05232v1)|**2025-04-07**|null|
-|**2025-04-07**|**Leveraging LLMs for Utility-Focused Annotation: Reducing Manual Effort for Retrieval and RAG**|Hengran Zhang et.al.|[2504.05220v1](http://arxiv.org/abs/2504.05220v1)|**2025-04-07**|null|
+|**2025-04-07**|**Leveraging LLMs for Utility-Focused Annotation: Reducing Manual Effort for Retrieval and RAG**|Hengran Zhang et.al.|[2504.05220v2](http://arxiv.org/abs/2504.05220v2)|**2025-04-08**|null|
 |**2025-04-07**|**Infinitely Divisible Noise for Differential Privacy: Nearly Optimal Error in the High $\varepsilon$ Regime**|Charlie Harrison et.al.|[2504.05202v1](http://arxiv.org/abs/2504.05202v1)|**2025-04-07**|null|
 |**2025-04-07**|**Affine hypersurfaces and superintegrable systems**|Vicente Cortés et.al.|[2504.05200v1](http://arxiv.org/abs/2504.05200v1)|**2025-04-07**|null|
 |**2025-04-07**|**Equivalence Theorems and Double-Copy Structure in Scattering Amplitudes of Massive Kaluza-Klein States with Matter Interactions**|Kezhu Guo et.al.|[2504.05199v1](http://arxiv.org/abs/2504.05199v1)|**2025-04-07**|null|

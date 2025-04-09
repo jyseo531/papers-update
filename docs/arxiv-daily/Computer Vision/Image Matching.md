@@ -23,7 +23,7 @@
 |**2025-04-07**|**Vision-Language Model Predictive Control for Manipulation Planning and Trajectory Generation**|Jiaming Chen et.al.|[2504.05225v1](http://arxiv.org/abs/2504.05225v1)|**2025-04-07**|null|
 |**2025-04-07**|**Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization**|Zeqin Yu et.al.|[2504.05224v1](http://arxiv.org/abs/2504.05224v1)|**2025-04-07**|null|
 |**2025-04-07**|**Security Risks in Vision-Based Beam Prediction: From Spatial Proxy Attacks to Feature Refinement**|Avi Deb Raha et.al.|[2504.05222v1](http://arxiv.org/abs/2504.05222v1)|**2025-04-07**|null|
-|**2025-04-07**|**Leveraging LLMs for Utility-Focused Annotation: Reducing Manual Effort for Retrieval and RAG**|Hengran Zhang et.al.|[2504.05220v1](http://arxiv.org/abs/2504.05220v1)|**2025-04-07**|null|
+|**2025-04-07**|**Leveraging LLMs for Utility-Focused Annotation: Reducing Manual Effort for Retrieval and RAG**|Hengran Zhang et.al.|[2504.05220v2](http://arxiv.org/abs/2504.05220v2)|**2025-04-08**|null|
 |**2025-04-07**|**An ensemble deep learning approach to detect tumors on Mohs micrographic surgery slides**|Abdurrahim Yilmaz et.al.|[2504.05219v1](http://arxiv.org/abs/2504.05219v1)|**2025-04-07**|null|
 |**2025-04-07**|**Correcting Class Imbalances with Self-Training for Improved Universal Lesion Detection and Tagging**|Alexander Shieh et.al.|[2504.05207v1](http://arxiv.org/abs/2504.05207v1)|**2025-04-07**|null|
 |**2025-04-07**|**Infinitely Divisible Noise for Differential Privacy: Nearly Optimal Error in the High $\varepsilon$ Regime**|Charlie Harrison et.al.|[2504.05202v1](http://arxiv.org/abs/2504.05202v1)|**2025-04-07**|null|

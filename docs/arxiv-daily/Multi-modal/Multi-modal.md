@@ -15,7 +15,7 @@
 |**2025-04-07**|**Nonparametric modal regression with missing response observations**|Ana Pérez-González et.al.|[2504.04914v1](http://arxiv.org/abs/2504.04914v1)|**2025-04-07**|null|
 |**2025-04-07**|**Video-Bench: Human-Aligned Video Generation Benchmark**|Hui Han et.al.|[2504.04907v1](http://arxiv.org/abs/2504.04907v1)|**2025-04-07**|null|
 |**2025-04-07**|**SUEDE:Shared Unified Experts for Physical-Digital Face Attack Detection Enhancement**|Zuying Xie et.al.|[2504.04818v1](http://arxiv.org/abs/2504.04818v1)|**2025-04-07**|null|
-|**2025-04-07**|**TabRep: Training Tabular Diffusion Models with a Simple and Effective Continuous Representation**|Jacob Si et.al.|[2504.04798v1](http://arxiv.org/abs/2504.04798v1)|**2025-04-07**|null|
+|**2025-04-07**|**TabRep: a Simple and Effective Continuous Representation for Training Tabular Diffusion Models**|Jacob Si et.al.|[2504.04798v2](http://arxiv.org/abs/2504.04798v2)|**2025-04-08**|null|
 |**2025-04-07**|**Addressing the Curse of Scenario and Task Generalization in AI-6G: A Multi-Modal Paradigm**|Tianyu Jiao et.al.|[2504.04797v1](http://arxiv.org/abs/2504.04797v1)|**2025-04-07**|null|
 |**2025-04-07**|**Multimodal Agricultural Agent Architecture (MA3): A New Paradigm for Intelligent Agricultural Decision-Making**|Zhuoning Xu et.al.|[2504.04789v1](http://arxiv.org/abs/2504.04789v1)|**2025-04-07**|null|
 |**2025-04-07**|**OCC-MLLM-CoT-Alpha: Towards Multi-stage Occlusion Recognition Based on Large Language Models via 3D-Aware Supervision and Chain-of-Thoughts Guidance**|Chaoyi Wang et.al.|[2504.04781v1](http://arxiv.org/abs/2504.04781v1)|**2025-04-07**|null|

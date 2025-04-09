@@ -28,7 +28,7 @@
 |**2025-04-07**|**CADCrafter: Generating Computer-Aided Design Models from Unconstrained Images**|Cheng Chen et.al.|[2504.04753v1](http://arxiv.org/abs/2504.04753v1)|**2025-04-07**|null|
 |**2025-04-07**|**Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions**|He Zhu et.al.|[2504.04744v1](http://arxiv.org/abs/2504.04744v1)|**2025-04-07**|null|
 |**2025-04-07**|**Inverse++: Vision-Centric 3D Semantic Occupancy Prediction Assisted with 3D Object Detection**|Zhenxing Ming et.al.|[2504.04732v1](http://arxiv.org/abs/2504.04732v1)|**2025-04-07**|null|
-|**2025-04-07**|**DFormerv2: Geometry Self-Attention for RGBD Semantic Segmentation**|Bo-Wen Yin et.al.|[2504.04701v1](http://arxiv.org/abs/2504.04701v1)|**2025-04-07**|null|
+|**2025-04-07**|**DFormerv2: Geometry Self-Attention for RGBD Semantic Segmentation**|Bo-Wen Yin et.al.|[2504.04701v1](http://arxiv.org/abs/2504.04701v1)|**2025-04-07**|[link](https://github.com/VCIP-RGBD/DFormer)|
 |**2025-04-07**|**DeclutterNeRF: Generative-Free 3D Scene Recovery for Occlusion Removal**|Wanzhou Liu et.al.|[2504.04679v1](http://arxiv.org/abs/2504.04679v1)|**2025-04-07**|null|
 |**2025-04-07**|**3DM-WeConvene: Learned Image Compression with 3D Multi-Level Wavelet-Domain Convolution and Entropy Model**|Haisheng Fu et.al.|[2504.04658v1](http://arxiv.org/abs/2504.04658v1)|**2025-04-07**|null|
 |**2025-04-07**|**EquiCPI: SE(3)-Equivariant Geometric Deep Learning for Structure-Aware Prediction of Compound-Protein Interactions**|Ngoc-Quang Nguyen et.al.|[2504.04654v1](http://arxiv.org/abs/2504.04654v1)|**2025-04-07**|null|

@@ -22,7 +22,7 @@
 |**2025-04-07**|**Explaining Low Perception Model Competency with High-Competency Counterfactuals**|Sara Pohland et.al.|[2504.05254v1](http://arxiv.org/abs/2504.05254v1)|**2025-04-07**|null|
 |**2025-04-07**|**Adversarial KA**|Sviatoslav Dzhenzher et.al.|[2504.05255v1](http://arxiv.org/abs/2504.05255v1)|**2025-04-07**|null|
 |**2025-04-07**|**Contour Integration Underlies Human-Like Vision**|Ben Lonnqvist et.al.|[2504.05253v1](http://arxiv.org/abs/2504.05253v1)|**2025-04-07**|null|
-|**2025-04-07**|**PEAKS: Selecting Key Training Examples Incrementally via Prediction Error Anchored by Kernel Similarity**|Mustafa Burak Gurbuz et.al.|[2504.05250v1](http://arxiv.org/abs/2504.05250v1)|**2025-04-07**|null|
+|**2025-04-07**|**PEAKS: Selecting Key Training Examples Incrementally via Prediction Error Anchored by Kernel Similarity**|Mustafa Burak Gurbuz et.al.|[2504.05250v2](http://arxiv.org/abs/2504.05250v2)|**2025-04-08**|null|
 |**2025-04-07**|**Texture2LoD3: Enabling LoD3 Building Reconstruction With Panoramic Images**|Wenzhao Tang et.al.|[2504.05249v1](http://arxiv.org/abs/2504.05249v1)|**2025-04-07**|null|
 |**2025-04-07**|**PINNverse: Accurate parameter estimation in differential equations from noisy data with constrained physics-informed neural networks**|Marius Almanstötter et.al.|[2504.05248v1](http://arxiv.org/abs/2504.05248v1)|**2025-04-07**|null|
 |**2025-04-07**|**Embedded Federated Feature Selection with Dynamic Sparse Training: Balancing Accuracy-Cost Tradeoffs**|Afsaneh Mahanipour et.al.|[2504.05245v1](http://arxiv.org/abs/2504.05245v1)|**2025-04-07**|null|

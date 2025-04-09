@@ -26,7 +26,7 @@
 |**2025-04-07**|**Discrete-to-continuum limits of semilinear stochastic evolution equations in Banach spaces**|Yves van Gennip et.al.|[2504.05142v1](http://arxiv.org/abs/2504.05142v1)|**2025-04-07**|null|
 |**2025-04-07**|**Information Geometry of Exponentiated Gradient: Convergence beyond L-Smoothness**|Yara Elshiaty et.al.|[2504.05136v1](http://arxiv.org/abs/2504.05136v1)|**2025-04-07**|null|
 |**2025-04-07**|**Transitivity of the pure Hurwitz classes of quadratic post-critically finite polynomials**|Yvon Verberne et.al.|[2504.05127v1](http://arxiv.org/abs/2504.05127v1)|**2025-04-07**|null|
-|**2025-04-07**|**VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks**|YuYue et.al.|[2504.05118v1](http://arxiv.org/abs/2504.05118v1)|**2025-04-07**|null|
+|**2025-04-07**|**VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks**|Yu Yue et.al.|[2504.05118v2](http://arxiv.org/abs/2504.05118v2)|**2025-04-08**|null|
 |**2025-04-07**|**Inertia-induced scaling and criticality in martensites**|Oğuz Umut Salman et.al.|[2504.05115v1](http://arxiv.org/abs/2504.05115v1)|**2025-04-07**|null|
 |**2025-04-07**|**Inverse Mixed Integer Optimization: An Interior Point Perspective**|Samir Elhedhli et.al.|[2504.05109v1](http://arxiv.org/abs/2504.05109v1)|**2025-04-07**|null|
 |**2025-04-07**|**TDFANet: Encoding Sequential 4D Radar Point Clouds Using Trajectory-Guided Deformable Feature Aggregation for Place Recognition**|Shouyi Lu et.al.|[2504.05103v1](http://arxiv.org/abs/2504.05103v1)|**2025-04-07**|null|

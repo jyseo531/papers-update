@@ -23,7 +23,7 @@
 |**2025-04-07**|**Leveraging Label Potential for Enhanced Multimodal Emotion Recognition**|Xuechun Shao et.al.|[2504.05158v1](http://arxiv.org/abs/2504.05158v1)|**2025-04-07**|null|
 |**2025-04-07**|**A Reinforcement Learning Method for Environments with Stochastic Variables: Post-Decision Proximal Policy Optimization with Dual Critic Networks**|Leonardo Kanashiro Felizardo et.al.|[2504.05150v1](http://arxiv.org/abs/2504.05150v1)|**2025-04-07**|null|
 |**2025-04-07**|**EffOWT: Transfer Visual Language Models to Open-World Tracking Efficiently and Effectively**|Bingyang Wang et.al.|[2504.05141v1](http://arxiv.org/abs/2504.05141v1)|**2025-04-07**|null|
-|**2025-04-07**|**From Sound Workflow Nets to LTL$_f$ Declarative Specifications by Casting Three Spells**|Luca Barbaro et.al.|[2504.05114v1](http://arxiv.org/abs/2504.05114v1)|**2025-04-07**|null|
+|**2025-04-07**|**From Sound Workflow Nets to LTLf Declarative Specifications by Casting Three Spells**|Luca Barbaro et.al.|[2504.05114v2](http://arxiv.org/abs/2504.05114v2)|**2025-04-08**|null|
 |**2025-04-07**|**Inverse Mixed Integer Optimization: An Interior Point Perspective**|Samir Elhedhli et.al.|[2504.05109v1](http://arxiv.org/abs/2504.05109v1)|**2025-04-07**|null|
 |**2025-04-07**|**Safe and Efficient Coexistence of Autonomous Vehicles with Human-Driven Traffic at Signalized Intersections**|Filippos N. Tzortzoglou et.al.|[2504.05101v1](http://arxiv.org/abs/2504.05101v1)|**2025-04-07**|null|
 |**2025-04-07**|**Non-Smooth Multi-objective Controller Synthesis for Test-Mass Actuation in Gravitational-Wave Detectors**|Sander K. Sijtsma et.al.|[2504.05100v1](http://arxiv.org/abs/2504.05100v1)|**2025-04-07**|null|

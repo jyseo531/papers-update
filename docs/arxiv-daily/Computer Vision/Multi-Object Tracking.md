@@ -31,4 +31,4 @@
 |**2025-04-07**|**Leveraging Label Potential for Enhanced Multimodal Emotion Recognition**|Xuechun Shao et.al.|[2504.05158v1](http://arxiv.org/abs/2504.05158v1)|**2025-04-07**|null|
 |**2025-04-07**|**A Reinforcement Learning Method for Environments with Stochastic Variables: Post-Decision Proximal Policy Optimization with Dual Critic Networks**|Leonardo Kanashiro Felizardo et.al.|[2504.05150v1](http://arxiv.org/abs/2504.05150v1)|**2025-04-07**|null|
 |**2025-04-07**|**EffOWT: Transfer Visual Language Models to Open-World Tracking Efficiently and Effectively**|Bingyang Wang et.al.|[2504.05141v1](http://arxiv.org/abs/2504.05141v1)|**2025-04-07**|null|
-|**2025-04-07**|**From Sound Workflow Nets to LTL$_f$ Declarative Specifications by Casting Three Spells**|Luca Barbaro et.al.|[2504.05114v1](http://arxiv.org/abs/2504.05114v1)|**2025-04-07**|null|
+|**2025-04-07**|**From Sound Workflow Nets to LTLf Declarative Specifications by Casting Three Spells**|Luca Barbaro et.al.|[2504.05114v2](http://arxiv.org/abs/2504.05114v2)|**2025-04-08**|null|

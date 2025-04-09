@@ -26,7 +26,7 @@
 |**2025-04-07**|**One Quantizer is Enough: Toward a Lightweight Audio Codec**|Linwei Zhai et.al.|[2504.04949v1](http://arxiv.org/abs/2504.04949v1)|**2025-04-07**|null|
 |**2025-04-07**|**Scalable chip-based 3D ion traps**|Elena Jordan et.al.|[2504.04946v1](http://arxiv.org/abs/2504.04946v1)|**2025-04-07**|null|
 |**2025-04-07**|**The Kratos Framework for Heterogeneous Astrophysical Simulations: Ray Tracing, Reacting Flow and Thermochemistry**|Lile Wang et.al.|[2504.04941v1](http://arxiv.org/abs/2504.04941v1)|**2025-04-07**|null|
-|**2025-04-07**|**Inter-event Interval Microscopy for Event Cameras**|Changqing Su et.al.|[2504.04924v1](http://arxiv.org/abs/2504.04924v1)|**2025-04-07**|null|
+|**2025-04-07**|**Inter-event Interval Microscopy for Event Cameras**|Changqing Su et.al.|[2504.04924v2](http://arxiv.org/abs/2504.04924v2)|**2025-04-08**|null|
 |**2025-04-07**|**IterMask3D: Unsupervised Anomaly Detection and Segmentation with Test-Time Iterative Mask Refinement in 3D Brain MR**|Ziyun Liang et.al.|[2504.04911v1](http://arxiv.org/abs/2504.04911v1)|**2025-04-07**|null|
 |**2025-04-07**|**Null geodesics around a magnetized Kiselev black hole**|Vitalie Lungu et.al.|[2504.04905v1](http://arxiv.org/abs/2504.04905v1)|**2025-04-07**|null|
 |**2025-04-07**|**SLIDE: Automated Identification and Quantification of Grain Boundary Sliding and Opening in 3D**|C. J. A. Mornout et.al.|[2504.04898v1](http://arxiv.org/abs/2504.04898v1)|**2025-04-07**|null|

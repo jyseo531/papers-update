@@ -17,7 +17,7 @@
 |**2025-04-07**|**AsyReC: A Multimodal Graph-based Framework for Spatio-Temporal Asymmetric Dyadic Relationship Classification**|Wang Tang et.al.|[2504.05030v1](http://arxiv.org/abs/2504.05030v1)|**2025-04-07**|null|
 |**2025-04-07**|**Finding large $k$-colorable induced subgraphs in (bull, chair)-free and (bull,E)-free graphs**|Nadzieja Hodur et.al.|[2504.04984v1](http://arxiv.org/abs/2504.04984v1)|**2025-04-07**|null|
 |**2025-04-07**|**GOTHAM: Graph Class Incremental Learning Framework under Weak Supervision**|Aditya Hemant Shahane et.al.|[2504.04954v1](http://arxiv.org/abs/2504.04954v1)|**2025-04-07**|null|
-|**2025-04-07**|**Initial Error Tolerant Distributed Mean Field Control under Partial and Discrete Information**|Yuxin Jin et.al.|[2504.04938v1](http://arxiv.org/abs/2504.04938v1)|**2025-04-07**|null|
+|**2025-04-07**|**Initial Error Tolerant Distributed Mean Field Control under Partial and Discrete Information**|Yuxin Jin et.al.|[2504.04938v2](http://arxiv.org/abs/2504.04938v2)|**2025-04-08**|null|
 |**2025-04-07**|**How Is Generative AI Used for Persona Development?: A Systematic Review of 52 Research Articles**|Danial Amin et.al.|[2504.04927v1](http://arxiv.org/abs/2504.04927v1)|**2025-04-07**|null|
 |**2025-04-07**|**IterMask3D: Unsupervised Anomaly Detection and Segmentation with Test-Time Iterative Mask Refinement in 3D Brain MR**|Ziyun Liang et.al.|[2504.04911v1](http://arxiv.org/abs/2504.04911v1)|**2025-04-07**|null|
 |**2025-04-07**|**AlgOS: Algorithm Operating System**|Llewyn Salt et.al.|[2504.04909v1](http://arxiv.org/abs/2504.04909v1)|**2025-04-07**|null|

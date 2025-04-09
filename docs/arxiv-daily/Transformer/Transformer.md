@@ -23,12 +23,12 @@
 |**2025-04-07**|**Radio frequency single electron transmission spectroscopy of a semiconductor Si/SiGe quantum dot**|I. Fattal et.al.|[2504.05016v1](http://arxiv.org/abs/2504.05016v1)|**2025-04-07**|null|
 |**2025-04-07**|**Wavelet Policy: Imitation Policy Learning in Frequency Domain with Wavelet Transforms**|Changchuan Yang et.al.|[2504.04991v1](http://arxiv.org/abs/2504.04991v1)|**2025-04-07**|null|
 |**2025-04-07**|**Transforming Future Data Center Operations and Management via Physical AI**|Zhiwei Cao et.al.|[2504.04982v1](http://arxiv.org/abs/2504.04982v1)|**2025-04-07**|null|
-|**2025-04-07**|**REWIND: Real-Time Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning**|Jihyun Lee et.al.|[2504.04956v1](http://arxiv.org/abs/2504.04956v1)|**2025-04-07**|null|
+|**2025-04-07**|**REWIND: Real-Time Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning**|Jihyun Lee et.al.|[2504.04956v2](http://arxiv.org/abs/2504.04956v2)|**2025-04-08**|null|
 |**2025-04-07**|**One Quantizer is Enough: Toward a Lightweight Audio Codec**|Linwei Zhai et.al.|[2504.04949v1](http://arxiv.org/abs/2504.04949v1)|**2025-04-07**|null|
 |**2025-04-07**|**A Llama walks into the 'Bar': Efficient Supervised Fine-Tuning for Legal Reasoning in the Multi-state Bar Exam**|Rean Fernandes et.al.|[2504.04945v1](http://arxiv.org/abs/2504.04945v1)|**2025-04-07**|null|
 |**2025-04-07**|**RCCFormer: A Robust Crowd Counting Network Based on Transformer**|Peng Liu et.al.|[2504.04935v1](http://arxiv.org/abs/2504.04935v1)|**2025-04-07**|null|
 |**2025-04-07**|**Boosting Relational Deep Learning with Pretrained Tabular Models**|Veronica Lachi et.al.|[2504.04934v1](http://arxiv.org/abs/2504.04934v1)|**2025-04-07**|null|
-|**2025-04-07**|**Inter-event Interval Microscopy for Event Cameras**|Changqing Su et.al.|[2504.04924v1](http://arxiv.org/abs/2504.04924v1)|**2025-04-07**|null|
+|**2025-04-07**|**Inter-event Interval Microscopy for Event Cameras**|Changqing Su et.al.|[2504.04924v2](http://arxiv.org/abs/2504.04924v2)|**2025-04-08**|null|
 |**2025-04-07**|**A kinetic CMA diagram**|Zilong Li et.al.|[2504.04904v1](http://arxiv.org/abs/2504.04904v1)|**2025-04-07**|null|
-|**2025-04-07**|**Lumina-OmniLV: A Unified Multimodal Framework for General Low-Level Vision**|Yuandong Pu et.al.|[2504.04903v1](http://arxiv.org/abs/2504.04903v1)|**2025-04-07**|null|
+|**2025-04-07**|**Lumina-OmniLV: A Unified Multimodal Framework for General Low-Level Vision**|Yuandong Pu et.al.|[2504.04903v2](http://arxiv.org/abs/2504.04903v2)|**2025-04-08**|null|
 |**2025-04-07**|**Achieving precision in measuring birefringence characteristics of a periodically-poled Lithium Niobate waveguide**|Stefan Kazmaier et.al.|[2504.04899v1](http://arxiv.org/abs/2504.04899v1)|**2025-04-07**|null|

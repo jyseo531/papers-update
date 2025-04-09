@@ -12,7 +12,7 @@
 |**2025-04-07**|**Do PhD-level LLMs Truly Grasp Elementary Addition? Probing Rule Learning vs. Memorization in Large Language Models**|Yang Yan et.al.|[2504.05262v1](http://arxiv.org/abs/2504.05262v1)|**2025-04-07**|null|
 |**2025-04-07**|**Learning to Reason Over Time: Timeline Self-Reflection for Improved Temporal Reasoning in Language Models**|Adrián Bazaga et.al.|[2504.05258v1](http://arxiv.org/abs/2504.05258v1)|**2025-04-07**|null|
 |**2025-04-07**|**Adversarial KA**|Sviatoslav Dzhenzher et.al.|[2504.05255v1](http://arxiv.org/abs/2504.05255v1)|**2025-04-07**|null|
-|**2025-04-07**|**PEAKS: Selecting Key Training Examples Incrementally via Prediction Error Anchored by Kernel Similarity**|Mustafa Burak Gurbuz et.al.|[2504.05250v1](http://arxiv.org/abs/2504.05250v1)|**2025-04-07**|null|
+|**2025-04-07**|**PEAKS: Selecting Key Training Examples Incrementally via Prediction Error Anchored by Kernel Similarity**|Mustafa Burak Gurbuz et.al.|[2504.05250v2](http://arxiv.org/abs/2504.05250v2)|**2025-04-08**|null|
 |**2025-04-07**|**PINNverse: Accurate parameter estimation in differential equations from noisy data with constrained physics-informed neural networks**|Marius Almanstötter et.al.|[2504.05248v1](http://arxiv.org/abs/2504.05248v1)|**2025-04-07**|null|
 |**2025-04-07**|**Behind the Spotlight: A systematic assessment of outshining using NIRCam medium-bands in the JADES Origins Field**|Thomas Harvey et.al.|[2504.05244v1](http://arxiv.org/abs/2504.05244v1)|**2025-04-07**|null|
 |**2025-04-07**|**Bayesian local clustering of age-period mortality surfaces across multiple countries**|Giovanni Romanò et.al.|[2504.05240v1](http://arxiv.org/abs/2504.05240v1)|**2025-04-07**|null|
