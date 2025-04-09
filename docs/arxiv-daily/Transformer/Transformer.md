@@ -2,33 +2,33 @@
 ### Transformer
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-07**|**CREA: A Collaborative Multi-Agent Framework for Creative Content Generation with Diffusion Models**|Kavana Venkatesh et.al.|[2504.05306v1](http://arxiv.org/abs/2504.05306v1)|**2025-04-07**|null|
-|**2025-04-07**|**One-Minute Video Generation with Test-Time Training**|Karan Dalal et.al.|[2504.05298v1](http://arxiv.org/abs/2504.05298v1)|**2025-04-07**|null|
-|**2025-04-07**|**Discovery of the 7-ring PAH Cyanocoronene (C$_{24}$H$_{11}$CN) in GOTHAM Observations of TMC-1**|Gabi Wenzel et.al.|[2504.05232v1](http://arxiv.org/abs/2504.05232v1)|**2025-04-07**|null|
-|**2025-04-07**|**Mapping biodiversity at very-high resolution in Europe**|César Leblanc et.al.|[2504.05231v1](http://arxiv.org/abs/2504.05231v1)|**2025-04-07**|null|
-|**2025-04-07**|**The Hörmander--Bernhardsson extremal function**|Andriy Bondarenko et.al.|[2504.05205v1](http://arxiv.org/abs/2504.05205v1)|**2025-04-07**|null|
-|**2025-04-07**|**Infinitely Divisible Noise for Differential Privacy: Nearly Optimal Error in the High $\varepsilon$ Regime**|Charlie Harrison et.al.|[2504.05202v1](http://arxiv.org/abs/2504.05202v1)|**2025-04-07**|null|
-|**2025-04-07**|**Influence of pore-confined water on the thermal expansion of a zinc-based metal-organic framework**|Nina Strasser et.al.|[2504.05189v1](http://arxiv.org/abs/2504.05189v1)|**2025-04-07**|null|
-|**2025-04-07**|**A Fast Multiplication Algorithm and RLWE-PLWE Equivalence for the Maximal Real Subfield of the $2^r p^s$-th Cyclotomic Field**|Wilmar Bolaños et.al.|[2504.05159v1](http://arxiv.org/abs/2504.05159v1)|**2025-04-07**|null|
-|**2025-04-07**|**Fast Convolutions on $\mathbb{Z}^2\backslash SE(2)$ via Radial Translational Dependence and Classical FFT**|Arash Ghaani Farashahi et.al.|[2504.05149v1](http://arxiv.org/abs/2504.05149v1)|**2025-04-07**|null|
-|**2025-04-07**|**Pr$εε$mpt: Sanitizing Sensitive Prompts for LLMs**|Amrita Roy Chowdhury et.al.|[2504.05147v1](http://arxiv.org/abs/2504.05147v1)|**2025-04-07**|null|
-|**2025-04-07**|**EffOWT: Transfer Visual Language Models to Open-World Tracking Efficiently and Effectively**|Bingyang Wang et.al.|[2504.05141v1](http://arxiv.org/abs/2504.05141v1)|**2025-04-07**|null|
-|**2025-04-07**|**AI for Climate Finance: Agentic Retrieval and Multi-Step Reasoning for Early Warning System Investments**|Saeid Ario Vaghefi et.al.|[2504.05104v1](http://arxiv.org/abs/2504.05104v1)|**2025-04-07**|null|
-|**2025-04-07**|**Transforming Ridesharing: Harnessing Role Flexibility and HOV Integration for Enhanced Mobility Solutions**|Fatemeh Amerehi et.al.|[2504.05077v1](http://arxiv.org/abs/2504.05077v1)|**2025-04-07**|null|
-|**2025-04-07**|**"Security for Everyone" in Finite Blocklength IRS-aided Systems With Perfect and Imperfect CSI**|Monir Abughalwa et.al.|[2504.05067v1](http://arxiv.org/abs/2504.05067v1)|**2025-04-07**|null|
-|**2025-04-07**|**MIAT: Maneuver-Intention-Aware Transformer for Spatio-Temporal Trajectory Prediction**|Chandra Raskoti et.al.|[2504.05059v1](http://arxiv.org/abs/2504.05059v1)|**2025-04-07**|null|
-|**2025-04-07**|**Hybrid Nitsche for distributed computing**|Tom Gustafsson et.al.|[2504.05036v1](http://arxiv.org/abs/2504.05036v1)|**2025-04-07**|null|
-|**2025-04-07**|**Solving the fully nonlinear Monge-Ampère equation using the Legendre-Kolmogorov-Arnold Network method**|Bingcheng Hu et.al.|[2504.05022v1](http://arxiv.org/abs/2504.05022v1)|**2025-04-07**|null|
-|**2025-04-07**|**Batch Aggregation: An Approach to Enhance Text Classification with Correlated Augmented Data**|Charco Hui et.al.|[2504.05020v1](http://arxiv.org/abs/2504.05020v1)|**2025-04-07**|null|
-|**2025-04-07**|**Radio frequency single electron transmission spectroscopy of a semiconductor Si/SiGe quantum dot**|I. Fattal et.al.|[2504.05016v1](http://arxiv.org/abs/2504.05016v1)|**2025-04-07**|null|
-|**2025-04-07**|**Wavelet Policy: Imitation Policy Learning in Frequency Domain with Wavelet Transforms**|Changchuan Yang et.al.|[2504.04991v1](http://arxiv.org/abs/2504.04991v1)|**2025-04-07**|null|
-|**2025-04-07**|**Transforming Future Data Center Operations and Management via Physical AI**|Zhiwei Cao et.al.|[2504.04982v1](http://arxiv.org/abs/2504.04982v1)|**2025-04-07**|null|
-|**2025-04-07**|**REWIND: Real-Time Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning**|Jihyun Lee et.al.|[2504.04956v2](http://arxiv.org/abs/2504.04956v2)|**2025-04-08**|null|
-|**2025-04-07**|**One Quantizer is Enough: Toward a Lightweight Audio Codec**|Linwei Zhai et.al.|[2504.04949v1](http://arxiv.org/abs/2504.04949v1)|**2025-04-07**|null|
-|**2025-04-07**|**A Llama walks into the 'Bar': Efficient Supervised Fine-Tuning for Legal Reasoning in the Multi-state Bar Exam**|Rean Fernandes et.al.|[2504.04945v1](http://arxiv.org/abs/2504.04945v1)|**2025-04-07**|null|
-|**2025-04-07**|**RCCFormer: A Robust Crowd Counting Network Based on Transformer**|Peng Liu et.al.|[2504.04935v1](http://arxiv.org/abs/2504.04935v1)|**2025-04-07**|null|
-|**2025-04-07**|**Boosting Relational Deep Learning with Pretrained Tabular Models**|Veronica Lachi et.al.|[2504.04934v1](http://arxiv.org/abs/2504.04934v1)|**2025-04-07**|null|
-|**2025-04-07**|**Inter-event Interval Microscopy for Event Cameras**|Changqing Su et.al.|[2504.04924v2](http://arxiv.org/abs/2504.04924v2)|**2025-04-08**|null|
-|**2025-04-07**|**A kinetic CMA diagram**|Zilong Li et.al.|[2504.04904v1](http://arxiv.org/abs/2504.04904v1)|**2025-04-07**|null|
-|**2025-04-07**|**Lumina-OmniLV: A Unified Multimodal Framework for General Low-Level Vision**|Yuandong Pu et.al.|[2504.04903v2](http://arxiv.org/abs/2504.04903v2)|**2025-04-08**|null|
-|**2025-04-07**|**Achieving precision in measuring birefringence characteristics of a periodically-poled Lithium Niobate waveguide**|Stefan Kazmaier et.al.|[2504.04899v1](http://arxiv.org/abs/2504.04899v1)|**2025-04-07**|null|
+|**2025-04-08**|**Realization and Calibration of Continuously Parameterized Two-Qubit Gates on a Trapped-Ion Quantum Processor**|Christopher G. Yale et.al.|[2504.06259v1](http://arxiv.org/abs/2504.06259v1)|**2025-04-08**|null|
+|**2025-04-08**|**Solving General QUBOs with Warm-Start QAOA via a Reduction to Max-Cut**|Bikrant Bhattachayra et.al.|[2504.06253v1](http://arxiv.org/abs/2504.06253v1)|**2025-04-08**|null|
+|**2025-04-08**|**Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation**|Xiaoxing Hu et.al.|[2504.06220v1](http://arxiv.org/abs/2504.06220v1)|**2025-04-08**|null|
+|**2025-04-08**|**NNN: Next-Generation Neural Networks for Marketing Mix Modeling**|Thomas Mulc et.al.|[2504.06212v1](http://arxiv.org/abs/2504.06212v1)|**2025-04-08**|null|
+|**2025-04-08**|**HRMedSeg: Unlocking High-resolution Medical Image segmentation via Memory-efficient Attention Modeling**|Qing Xu et.al.|[2504.06205v1](http://arxiv.org/abs/2504.06205v1)|**2025-04-08**|[link](https://github.com/xq141839/HRMedSeg)|
+|**2025-04-08**|**WoundAmbit: Bridging State-of-the-Art Semantic Segmentation and Real-World Wound Care**|Vanessa Borst et.al.|[2504.06185v1](http://arxiv.org/abs/2504.06185v1)|**2025-04-08**|null|
+|**2025-04-08**|**Monotonicity of functionals associated to product measures via their Fourier transform and applications**|Andreas Malliaris et.al.|[2504.06172v1](http://arxiv.org/abs/2504.06172v1)|**2025-04-08**|null|
+|**2025-04-08**|**Functional Itô-formula and Taylor expansions for non-anticipative maps of càdlàg rough paths**|Christa Cuchiero et.al.|[2504.06164v1](http://arxiv.org/abs/2504.06164v1)|**2025-04-08**|null|
+|**2025-04-08**|**Rethinking the Nested U-Net Approach: Enhancing Biomarker Segmentation with Attention Mechanisms and Multiscale Feature Fusion**|Saad Wazir et.al.|[2504.06158v1](http://arxiv.org/abs/2504.06158v1)|**2025-04-08**|[link](https://github.com/saadwazir/ReN-UNet)|
+|**2025-04-08**|**ARLO: A Tailorable Approach for Transforming Natural Language Software Requirements into Architecture using LLMs**|Tooraj Helmi et.al.|[2504.06143v1](http://arxiv.org/abs/2504.06143v1)|**2025-04-08**|null|
+|**2025-04-08**|**A Multimedia Analytics Model for the Foundation Model Era**|Marcel Worring et.al.|[2504.06138v1](http://arxiv.org/abs/2504.06138v1)|**2025-04-08**|null|
+|**2025-04-08**|**Hyperbolic Category Discovery**|Yuanpei Liu et.al.|[2504.06120v1](http://arxiv.org/abs/2504.06120v1)|**2025-04-08**|null|
+|**2025-04-08**|**MCAT: Visual Query-Based Localization of Standard Anatomical Clips in Fetal Ultrasound Videos Using Multi-Tier Class-Aware Token Transformer**|Divyanshu Mishra et.al.|[2504.06088v1](http://arxiv.org/abs/2504.06088v1)|**2025-04-08**|null|
+|**2025-04-08**|**Multi-Sense Embeddings for Language Models and Knowledge Distillation**|Qitong Wang et.al.|[2504.06036v1](http://arxiv.org/abs/2504.06036v1)|**2025-04-08**|null|
+|**2025-04-08**|**3D evolution of protein networks and lipid globules in heat-treated egg yolk**|Felix Wittwer et.al.|[2504.06032v1](http://arxiv.org/abs/2504.06032v1)|**2025-04-08**|null|
+|**2025-04-08**|**Llama-3-Nanda-10B-Chat: An Open Generative Large Language Model for Hindi**|Monojit Choudhury et.al.|[2504.06011v1](http://arxiv.org/abs/2504.06011v1)|**2025-04-08**|null|
+|**2025-04-08**|**Modular Soft Wearable Glove for Real-Time Gesture Recognition and Dynamic 3D Shape Reconstruction**|Huazhi Dong et.al.|[2504.05983v1](http://arxiv.org/abs/2504.05983v1)|**2025-04-08**|null|
+|**2025-04-08**|**Arbitrary polarization retarders and polarization controllers, constructed from sequences of half-wave and quarter-wave plates**|Hayk L. Gevorgyan et.al.|[2504.05981v1](http://arxiv.org/abs/2504.05981v1)|**2025-04-08**|null|
+|**2025-04-08**|**AVP-AP: Self-supervised Automatic View Positioning in 3D cardiac CT via Atlas Prompting**|Xiaolin Fan et.al.|[2504.05966v1](http://arxiv.org/abs/2504.05966v1)|**2025-04-08**|null|
+|**2025-04-08**|**Generalized Parameter Lifting: Finer Abstractions for Parametric Markov Chains**|Linus Heck et.al.|[2504.05965v1](http://arxiv.org/abs/2504.05965v1)|**2025-04-08**|null|
+|**2025-04-08**|**Representing Normative Regulations in OWL DL for Automated Compliance Checking Supported by Text Annotation**|Ildar Baimuratov et.al.|[2504.05951v1](http://arxiv.org/abs/2504.05951v1)|**2025-04-08**|null|
+|**2025-04-08**|**Evaluation of the impact of expert knowledge: How decision support scores impact the effectiveness of automatic knowledge-driven feature engineering (aKDFE)**|Olof Björneld et.al.|[2504.05928v1](http://arxiv.org/abs/2504.05928v1)|**2025-04-08**|null|
+|**2025-04-08**|**Balancing long- and short-term dynamics for the modeling of saliency in videos**|Theodor Wulff et.al.|[2504.05913v1](http://arxiv.org/abs/2504.05913v1)|**2025-04-08**|null|
+|**2025-04-08**|**Financial resilience of agricultural and food production companies in Spain: A compositional cluster analysis of the impact of the Ukraine-Russia war (2021-2023)**|Mike Hernandez Romero et.al.|[2504.05912v1](http://arxiv.org/abs/2504.05912v1)|**2025-04-08**|null|
+|**2025-04-08**|**A note on the stability of self-similar blow-up solutions for superconformal semilinear wave equations**|Jie Liu et.al.|[2504.05911v1](http://arxiv.org/abs/2504.05911v1)|**2025-04-08**|null|
+|**2025-04-08**|**UVG-VPC: Voxelized Point Cloud Dataset for Visual Volumetric Video-based Coding**|Guillaume Gautier et.al.|[2504.05888v1](http://arxiv.org/abs/2504.05888v1)|**2025-04-08**|null|
+|**2025-04-08**|**The off-shell one- and two-loop box recovered from intersection theory**|Burkhard Eden et.al.|[2504.05843v1](http://arxiv.org/abs/2504.05843v1)|**2025-04-08**|null|
+|**2025-04-08**|**Unimodular Waveform Design for Integrated Sensing and Communication MIMO System via Manifold Optimization**|Jiangtao Wang et.al.|[2504.05829v1](http://arxiv.org/abs/2504.05829v1)|**2025-04-08**|null|
+|**2025-04-08**|**Federated Unlearning Made Practical: Seamless Integration via Negated Pseudo-Gradients**|Alessio Mora et.al.|[2504.05822v1](http://arxiv.org/abs/2504.05822v1)|**2025-04-08**|null|
+|**2025-04-08**|**Video Flow as Time Series: Discovering Temporal Consistency and Variability for VideoQA**|Zijie Song et.al.|[2504.05783v1](http://arxiv.org/abs/2504.05783v1)|**2025-04-08**|null|

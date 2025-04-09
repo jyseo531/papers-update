@@ -2,6 +2,8 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-08**|**Maternal and Fetal Health Status Assessment by Using Machine Learning on Optical 3D Body Scans**|Ruting Cheng et.al.|[2504.05627v1](http://arxiv.org/abs/2504.05627v1)|**2025-04-08**|null|
+|**2025-04-07**|**Towards Efficient Real-Time Video Motion Transfer via Generative Time Series Modeling**|Tasmiah Haque et.al.|[2504.05537v1](http://arxiv.org/abs/2504.05537v1)|**2025-04-07**|null|
 |**2025-04-07**|**Understanding and Design of Interstitial Oxygen Conductors**|Jun Meng et.al.|[2504.04896v1](http://arxiv.org/abs/2504.04896v1)|**2025-04-07**|null|
 |**2025-04-07**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834v1](http://arxiv.org/abs/2504.04834v1)|**2025-04-07**|null|
 |**2025-04-07**|**SMF: Template-free and Rig-free Animation Transfer using Kinetic Codes**|Sanjeev Muralikrishnan et.al.|[2504.04831v1](http://arxiv.org/abs/2504.04831v1)|**2025-04-07**|null|
@@ -30,5 +32,3 @@
 |**2025-03-28**|**Quantitative characterization of hydrophobic agglomeration at different mixing intensities using a copula-based probabilistic modeling approach**|Niklas Eiermann et.al.|[2503.22422v1](http://arxiv.org/abs/2503.22422v1)|**2025-03-28**|null|
 |**2025-03-27**|**NeuroLIP: Interpretable and Fair Cross-Modal Alignment of fMRI and Phenotypic Text**|Yanting Yang et.al.|[2503.21964v1](http://arxiv.org/abs/2503.21964v1)|**2025-03-27**|null|
 |**2025-03-27**|**Flexible Moment-Invariant Bases from Irreducible Tensors**|Roxana Bujack et.al.|[2503.21939v2](http://arxiv.org/abs/2503.21939v2)|**2025-04-03**|null|
-|**2025-03-27**|**LOCORE: Image Re-ranking with Long-Context Sequence Modeling**|Zilin Xiao et.al.|[2503.21772v1](http://arxiv.org/abs/2503.21772v1)|**2025-03-27**|[link](https://github.com/MrZilinXiao/LongContextReranker)|
-|**2025-03-27**|**Statistical learning of structure-property relationships for transport in porous media, using hybrid AI modeling**|Somayeh Hosseinhashemi et.al.|[2503.21560v1](http://arxiv.org/abs/2503.21560v1)|**2025-03-27**|null|

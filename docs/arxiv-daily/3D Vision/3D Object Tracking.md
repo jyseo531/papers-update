@@ -2,33 +2,33 @@
 ### 3D Object Tracking
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-07**|**URECA: Unique Region Caption Anything**|Sangbeom Lim et.al.|[2504.05305v1](http://arxiv.org/abs/2504.05305v1)|**2025-04-07**|null|
-|**2025-04-07**|**InteractVLM: 3D Interaction Reasoning from 2D Foundational Models**|Sai Kumar Dwivedi et.al.|[2504.05303v1](http://arxiv.org/abs/2504.05303v1)|**2025-04-07**|null|
-|**2025-04-07**|**S^4M: Boosting Semi-Supervised Instance Segmentation with SAM**|Heeji Yoon et.al.|[2504.05301v1](http://arxiv.org/abs/2504.05301v1)|**2025-04-07**|null|
-|**2025-04-07**|**Let it Snow! Animating Static Gaussian Scenes With Dynamic Weather Effects**|Gal Fiebelman et.al.|[2504.05296v1](http://arxiv.org/abs/2504.05296v1)|**2025-04-07**|null|
-|**2025-04-07**|**A BLE and UWB Beacon-Assist Framework for Multiuser Augmented Reality Synchronization Across Multiple Devices in Shared Environments**|Maitree Hirunteeyakul et.al.|[2504.05293v1](http://arxiv.org/abs/2504.05293v1)|**2025-04-07**|null|
-|**2025-04-07**|**Using Physiological Measures, Gaze, and Facial Expressions to Model Human Trust in a Robot Partner**|Haley N. Green et.al.|[2504.05291v1](http://arxiv.org/abs/2504.05291v1)|**2025-04-07**|null|
-|**2025-04-07**|**RobustDexGrasp: Robust Dexterous Grasping of General Objects from Single-view Perception**|Hui Zhang et.al.|[2504.05287v1](http://arxiv.org/abs/2504.05287v1)|**2025-04-07**|null|
-|**2025-04-07**|**Decoding the variability in the star-formation histories of z ~ 0.8 galaxies**|Jenny T. Wan et.al.|[2504.05281v1](http://arxiv.org/abs/2504.05281v1)|**2025-04-07**|null|
-|**2025-04-07**|**Non-local charges from perturbed defects via SymTFT in 2d CFT**|Federico Ambrosino et.al.|[2504.05277v1](http://arxiv.org/abs/2504.05277v1)|**2025-04-07**|null|
-|**2025-04-07**|**AnomalousNet: A Hybrid Approach with Attention U-Nets and Change Point Detection for Accurate Characterization of Anomalous Diffusion in Video Data**|Yusef Ahsini et.al.|[2504.05271v1](http://arxiv.org/abs/2504.05271v1)|**2025-04-07**|null|
-|**2025-04-07**|**From Sparse Signal to Smooth Motion: Real-Time Motion Generation with Rolling Prediction Models**|German Barquero et.al.|[2504.05265v1](http://arxiv.org/abs/2504.05265v1)|**2025-04-07**|null|
-|**2025-04-07**|**Contour Integration Underlies Human-Like Vision**|Ben Lonnqvist et.al.|[2504.05253v1](http://arxiv.org/abs/2504.05253v1)|**2025-04-07**|null|
-|**2025-04-07**|**Texture2LoD3: Enabling LoD3 Building Reconstruction With Panoramic Images**|Wenzhao Tang et.al.|[2504.05249v1](http://arxiv.org/abs/2504.05249v1)|**2025-04-07**|null|
-|**2025-04-07**|**Formation of Near-surface Atmospheric Inversion and Surface Inversion in Hothouse Climates**|Jiachen Liu et.al.|[2504.05233v1](http://arxiv.org/abs/2504.05233v1)|**2025-04-07**|null|
-|**2025-04-07**|**Discovery of the 7-ring PAH Cyanocoronene (C$_{24}$H$_{11}$CN) in GOTHAM Observations of TMC-1**|Gabi Wenzel et.al.|[2504.05232v1](http://arxiv.org/abs/2504.05232v1)|**2025-04-07**|null|
-|**2025-04-07**|**An ensemble deep learning approach to detect tumors on Mohs micrographic surgery slides**|Abdurrahim Yilmaz et.al.|[2504.05219v1](http://arxiv.org/abs/2504.05219v1)|**2025-04-07**|null|
-|**2025-04-07**|**Hybrid machine learning data assimilation for marine biogeochemistry**|Ieuan Higgs et.al.|[2504.05218v1](http://arxiv.org/abs/2504.05218v1)|**2025-04-07**|null|
-|**2025-04-07**|**Correcting Class Imbalances with Self-Training for Improved Universal Lesion Detection and Tagging**|Alexander Shieh et.al.|[2504.05207v1](http://arxiv.org/abs/2504.05207v1)|**2025-04-07**|null|
-|**2025-04-07**|**3D Universal Lesion Detection and Tagging in CT with Self-Training**|Jared Frazier et.al.|[2504.05201v1](http://arxiv.org/abs/2504.05201v1)|**2025-04-07**|null|
-|**2025-04-07**|**CHIME/FRB Outriggers: Design Overview**|The CHIME/FRB Collaboration et.al.|[2504.05192v1](http://arxiv.org/abs/2504.05192v1)|**2025-04-07**|null|
-|**2025-04-07**|**Resource-Efficient Beam Prediction in mmWave Communications with Multimodal Realistic Simulation Framework**|Yu Min Park et.al.|[2504.05187v1](http://arxiv.org/abs/2504.05187v1)|**2025-04-07**|null|
-|**2025-04-07**|**Utility-aware Social Network Anonymization using Genetic Algorithms**|Samuel Bonello et.al.|[2504.05183v1](http://arxiv.org/abs/2504.05183v1)|**2025-04-07**|null|
-|**2025-04-07**|**Lightweight and Direct Document Relevance Optimization for Generative Information Retrieval**|Kidist Amde Mekonnen et.al.|[2504.05181v1](http://arxiv.org/abs/2504.05181v1)|**2025-04-07**|[link](https://github.com/kidist-amde/ddro)|
-|**2025-04-07**|**The 1st Solution for 4th PVUW MeViS Challenge: Unleashing the Potential of Large Multimodal Models for Referring Video Segmentation**|Hao Fang et.al.|[2504.05178v1](http://arxiv.org/abs/2504.05178v1)|**2025-04-07**|null|
-|**2025-04-07**|**Cellular Network Design for UAV Corridors via Data-driven High-dimensional Bayesian Optimization**|Mohamed Benzaghta et.al.|[2504.05176v1](http://arxiv.org/abs/2504.05176v1)|**2025-04-07**|null|
-|**2025-04-07**|**SSLFusion: Scale & Space Aligned Latent Fusion Model for Multimodal 3D Object Detection**|Bonan Ding et.al.|[2504.05170v1](http://arxiv.org/abs/2504.05170v1)|**2025-04-07**|null|
-|**2025-04-07**|**Leveraging Label Potential for Enhanced Multimodal Emotion Recognition**|Xuechun Shao et.al.|[2504.05158v1](http://arxiv.org/abs/2504.05158v1)|**2025-04-07**|null|
-|**2025-04-07**|**PanoDreamer: Consistent Text to 360-Degree Scene Generation**|Zhexiao Xiong et.al.|[2504.05152v1](http://arxiv.org/abs/2504.05152v1)|**2025-04-07**|null|
-|**2025-04-07**|**A Reinforcement Learning Method for Environments with Stochastic Variables: Post-Decision Proximal Policy Optimization with Dual Critic Networks**|Leonardo Kanashiro Felizardo et.al.|[2504.05150v1](http://arxiv.org/abs/2504.05150v1)|**2025-04-07**|null|
-|**2025-04-07**|**Discrete-to-continuum limits of semilinear stochastic evolution equations in Banach spaces**|Yves van Gennip et.al.|[2504.05142v1](http://arxiv.org/abs/2504.05142v1)|**2025-04-07**|null|
+|**2025-04-08**|**D^2USt3R: Enhancing 3D Reconstruction with 4D Pointmaps for Dynamic Scenes**|Jisang Han et.al.|[2504.06264v1](http://arxiv.org/abs/2504.06264v1)|**2025-04-08**|null|
+|**2025-04-08**|**Transfer between Modalities with MetaQueries**|Xichen Pan et.al.|[2504.06256v1](http://arxiv.org/abs/2504.06256v1)|**2025-04-08**|null|
+|**2025-04-08**|**The Resolved Structure of a Low Metallicity Photodissociation Region**|Ilyse Y. Clark et.al.|[2504.06247v1](http://arxiv.org/abs/2504.06247v1)|**2025-04-08**|null|
+|**2025-04-08**|**Dictionary-free Koopman Predictive Control for Autonomous Vehicles in Mixed Traffic**|Xu Shang et.al.|[2504.06240v1](http://arxiv.org/abs/2504.06240v1)|**2025-04-08**|null|
+|**2025-04-08**|**Decentralized Federated Domain Generalization with Style Sharing: A Formal Modeling and Convergence Analysis**|Shahryar Zehtabi et.al.|[2504.06235v1](http://arxiv.org/abs/2504.06235v1)|**2025-04-08**|null|
+|**2025-04-08**|**SOFIA/upGREAT imaging spectroscopy of the [C II] 158 um fine structure line toward the Sgr A region in the Galactic center**|A. I. Harris et.al.|[2504.06228v1](http://arxiv.org/abs/2504.06228v1)|**2025-04-08**|null|
+|**2025-04-08**|**Encoder-Decoder Gemma: Improving the Quality-Efficiency Trade-Off via Adaptation**|Biao Zhang et.al.|[2504.06225v1](http://arxiv.org/abs/2504.06225v1)|**2025-04-08**|null|
+|**2025-04-08**|**Role of mechanical effects on the excitation spectra of microwave-dressed Rydberg states in a cold atomic cloud**|H. Failache et.al.|[2504.06218v1](http://arxiv.org/abs/2504.06218v1)|**2025-04-08**|null|
+|**2025-04-08**|**HiMoR: Monocular Deformable Gaussian Reconstruction with Hierarchical Motion Representation**|Yiming Liang et.al.|[2504.06210v1](http://arxiv.org/abs/2504.06210v1)|**2025-04-08**|null|
+|**2025-04-08**|**Factorizing Defects from Generalized Pinning Fields**|Fedor K. Popov et.al.|[2504.06203v1](http://arxiv.org/abs/2504.06203v1)|**2025-04-08**|null|
+|**2025-04-08**|**WoundAmbit: Bridging State-of-the-Art Semantic Segmentation and Real-World Wound Care**|Vanessa Borst et.al.|[2504.06185v1](http://arxiv.org/abs/2504.06185v1)|**2025-04-08**|null|
+|**2025-04-08**|**Flash Sculptor: Modular 3D Worlds from Objects**|Yujia Hu et.al.|[2504.06178v1](http://arxiv.org/abs/2504.06178v1)|**2025-04-08**|null|
+|**2025-04-08**|**A Self-Supervised Framework for Space Object Behaviour Characterisation**|Ian Groves et.al.|[2504.06176v1](http://arxiv.org/abs/2504.06176v1)|**2025-04-08**|null|
+|**2025-04-08**|**On Soft Clustering For Correlation Estimators: Model Uncertainty, Differentiability, and Surrogates**|Edward Berman et.al.|[2504.06174v1](http://arxiv.org/abs/2504.06174v1)|**2025-04-08**|null|
+|**2025-04-08**|**Investigating Embedded Structures and Gas Kinematics in the IRDC Hosting Bubble N59-North**|A. K. Maity et.al.|[2504.06170v1](http://arxiv.org/abs/2504.06170v1)|**2025-04-08**|null|
+|**2025-04-08**|**Enhancing Primary Teacher Training through Academic Portfolios in Advanced Mathematics Courses**|Carlos Rojas Bruna et.al.|[2504.06159v1](http://arxiv.org/abs/2504.06159v1)|**2025-04-08**|null|
+|**2025-04-08**|**V-MAGE: A Game Evaluation Framework for Assessing Visual-Centric Capabilities in Multimodal Large Language Models**|Xiangxi Zheng et.al.|[2504.06148v1](http://arxiv.org/abs/2504.06148v1)|**2025-04-08**|null|
+|**2025-04-08**|**A Training-Free Style-aligned Image Generation with Scale-wise Autoregressive Model**|Jihun Park et.al.|[2504.06144v1](http://arxiv.org/abs/2504.06144v1)|**2025-04-08**|null|
+|**2025-04-08**|**Non-local Boxes**|Philippe Lamontagne et.al.|[2504.06139v1](http://arxiv.org/abs/2504.06139v1)|**2025-04-08**|null|
+|**2025-04-08**|**Stochastic numerical approximation for nonlinear Fokker-Planck equations with singular kernels**|Nicoleta Cazacu et.al.|[2504.06132v1](http://arxiv.org/abs/2504.06132v1)|**2025-04-08**|null|
+|**2025-04-08**|**Optimal classification with outcome performativity**|Elizabeth Maggie Penn et.al.|[2504.06127v1](http://arxiv.org/abs/2504.06127v1)|**2025-04-08**|null|
+|**2025-04-08**|**Safe Interaction via Monte Carlo Linear-Quadratic Games**|Benjamin A. Christie et.al.|[2504.06124v1](http://arxiv.org/abs/2504.06124v1)|**2025-04-08**|null|
+|**2025-04-08**|**Leveraging Axis-Aligned Subspaces for High-Dimensional Bayesian Optimization with Group Testing**|Erik Hellsten et.al.|[2504.06111v1](http://arxiv.org/abs/2504.06111v1)|**2025-04-08**|null|
+|**2025-04-08**|**On the Dynamics of Mating Preferences in Genetic Programming**|José Maria Simões et.al.|[2504.06110v1](http://arxiv.org/abs/2504.06110v1)|**2025-04-08**|null|
+|**2025-04-08**|**Towards Varroa destructor mite detection using a narrow spectra illumination**|Samuel Bielik et.al.|[2504.06099v1](http://arxiv.org/abs/2504.06099v1)|**2025-04-08**|null|
+|**2025-04-08**|**Extremely asymmetric bipolar magnetic field of the Bp star HD 57372**|Oleg Kochukhov et.al.|[2504.06098v1](http://arxiv.org/abs/2504.06098v1)|**2025-04-08**|null|
+|**2025-04-08**|**MAPLE: Encoding Dexterous Robotic Manipulation Priors Learned From Egocentric Videos**|Alexey Gavryushin et.al.|[2504.06084v1](http://arxiv.org/abs/2504.06084v1)|**2025-04-08**|null|
+|**2025-04-08**|**Security Analysis of Thumbnail-Preserving Image Encryption and a New Framework**|Dong Xie et.al.|[2504.06083v1](http://arxiv.org/abs/2504.06083v1)|**2025-04-08**|null|
+|**2025-04-08**|**Carbon, Cost and Capacity: Multi-objective Charging of Electric Buses**|Leoni Winschermann et.al.|[2504.06078v1](http://arxiv.org/abs/2504.06078v1)|**2025-04-08**|null|
+|**2025-04-08**|**GPU-accelerated Evolutionary Many-objective Optimization Using Tensorized NSGA-III**|Hao Li et.al.|[2504.06067v1](http://arxiv.org/abs/2504.06067v1)|**2025-04-08**|null|

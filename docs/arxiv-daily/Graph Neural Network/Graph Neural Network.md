@@ -2,33 +2,33 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-07**|**One-Minute Video Generation with Test-Time Training**|Karan Dalal et.al.|[2504.05298v1](http://arxiv.org/abs/2504.05298v1)|**2025-04-07**|null|
-|**2025-04-07**|**UK APAP R-matrix electron-impact excitation cross-sections for modelling laboratory and astrophysical plasma**|G. Del Zanna et.al.|[2504.05286v1](http://arxiv.org/abs/2504.05286v1)|**2025-04-07**|null|
-|**2025-04-07**|**Estimation of Heat Transfer Coefficient in Heat Exchangers from closed-loop data using Neural Networks**|Ramachandran Anantharaman et.al.|[2504.05282v1](http://arxiv.org/abs/2504.05282v1)|**2025-04-07**|null|
-|**2025-04-07**|**On canonical sandpile actions of embedded graphs**|Lilla Tóthmérész et.al.|[2504.05275v1](http://arxiv.org/abs/2504.05275v1)|**2025-04-07**|null|
-|**2025-04-07**|**PINNverse: Accurate parameter estimation in differential equations from noisy data with constrained physics-informed neural networks**|Marius Almanstötter et.al.|[2504.05248v1](http://arxiv.org/abs/2504.05248v1)|**2025-04-07**|null|
-|**2025-04-07**|**Embedded Federated Feature Selection with Dynamic Sparse Training: Balancing Accuracy-Cost Tradeoffs**|Afsaneh Mahanipour et.al.|[2504.05245v1](http://arxiv.org/abs/2504.05245v1)|**2025-04-07**|null|
-|**2025-04-07**|**IAEmu: Learning Galaxy Intrinsic Alignment Correlations**|Sneh Pandya et.al.|[2504.05235v1](http://arxiv.org/abs/2504.05235v1)|**2025-04-07**|null|
-|**2025-04-07**|**Security Risks in Vision-Based Beam Prediction: From Spatial Proxy Attacks to Feature Refinement**|Avi Deb Raha et.al.|[2504.05222v1](http://arxiv.org/abs/2504.05222v1)|**2025-04-07**|null|
-|**2025-04-07**|**Quasinormal modes and absorption cross-section of a Bardeen black hole surrounded by perfect fluid dark matter in four dimensions**|Angel Rincon et.al.|[2504.05215v1](http://arxiv.org/abs/2504.05215v1)|**2025-04-07**|null|
-|**2025-04-07**|**Post-Training Language Models for Continual Relation Extraction**|Sefika Efeoglu et.al.|[2504.05214v1](http://arxiv.org/abs/2504.05214v1)|**2025-04-07**|null|
-|**2025-04-07**|**Bayesian estimation of causal effects from observational categorical data**|Vera Kvisgaard et.al.|[2504.05198v1](http://arxiv.org/abs/2504.05198v1)|**2025-04-07**|null|
-|**2025-04-07**|**P2Mark: Plug-and-play Parameter-intrinsic Watermarking for Neural Speech Generation**|Yong Ren et.al.|[2504.05197v1](http://arxiv.org/abs/2504.05197v1)|**2025-04-07**|null|
-|**2025-04-07**|**Universal Lymph Node Detection in Multiparametric MRI with Selective Augmentation**|Tejas Sudharshan Mathai et.al.|[2504.05196v1](http://arxiv.org/abs/2504.05196v1)|**2025-04-07**|null|
-|**2025-04-07**|**A general framework for quasi-isometries in symbolic dynamics beyond groups**|Sebastián Barbieri et.al.|[2504.05194v1](http://arxiv.org/abs/2504.05194v1)|**2025-04-07**|null|
-|**2025-04-07**|**Maximum Shortest Path Interdiction Problem by Upgrading Nodes on Trees under Unit Cost**|Qiao Zhang et.al.|[2504.05190v1](http://arxiv.org/abs/2504.05190v1)|**2025-04-07**|null|
-|**2025-04-07**|**Resource-Efficient Beam Prediction in mmWave Communications with Multimodal Realistic Simulation Framework**|Yu Min Park et.al.|[2504.05187v1](http://arxiv.org/abs/2504.05187v1)|**2025-04-07**|null|
-|**2025-04-07**|**Utility-aware Social Network Anonymization using Genetic Algorithms**|Samuel Bonello et.al.|[2504.05183v1](http://arxiv.org/abs/2504.05183v1)|**2025-04-07**|null|
-|**2025-04-07**|**Lightweight and Direct Document Relevance Optimization for Generative Information Retrieval**|Kidist Amde Mekonnen et.al.|[2504.05181v1](http://arxiv.org/abs/2504.05181v1)|**2025-04-07**|[link](https://github.com/kidist-amde/ddro)|
-|**2025-04-07**|**BRIDGES: Bridging Graph Modality and Large Language Models within EDA Tasks**|Wei Li et.al.|[2504.05180v1](http://arxiv.org/abs/2504.05180v1)|**2025-04-07**|null|
-|**2025-04-07**|**Cellular Network Design for UAV Corridors via Data-driven High-dimensional Bayesian Optimization**|Mohamed Benzaghta et.al.|[2504.05176v1](http://arxiv.org/abs/2504.05176v1)|**2025-04-07**|null|
-|**2025-04-07**|**PRDTs: Composable Knowledge-Based Consensus Protocols with Replicated Data Types**|Julian Haas et.al.|[2504.05173v2](http://arxiv.org/abs/2504.05173v2)|**2025-04-08**|null|
-|**2025-04-07**|**Attention-Based Multi-Scale Temporal Fusion Network for Uncertain-Mode Fault Diagnosis in Multimode Processes**|Guangqiang Li et.al.|[2504.05172v1](http://arxiv.org/abs/2504.05172v1)|**2025-04-07**|null|
-|**2025-04-07**|**SSLFusion: Scale & Space Aligned Latent Fusion Model for Multimodal 3D Object Detection**|Bonan Ding et.al.|[2504.05170v1](http://arxiv.org/abs/2504.05170v1)|**2025-04-07**|null|
-|**2025-04-07**|**Modeling Micro-Doppler Signature of Multi-Propeller Drones in Distributed ISAC**|Heraldo Cesar Alves Costa et.al.|[2504.05168v1](http://arxiv.org/abs/2504.05168v1)|**2025-04-07**|null|
-|**2025-04-07**|**RLBayes: a Bayesian Network Structure Learning Algorithm via Reinforcement Learning-Based Search Strategy**|Mingcan Wang et.al.|[2504.05167v1](http://arxiv.org/abs/2504.05167v1)|**2025-04-07**|null|
-|**2025-04-07**|**Evaluating Knowledge Graph Based Retrieval Augmented Generation Methods under Knowledge Incompleteness**|Dongzhuoran Zhou et.al.|[2504.05163v1](http://arxiv.org/abs/2504.05163v1)|**2025-04-07**|null|
-|**2025-04-07**|**SparsyFed: Sparse Adaptive Federated Training**|Adriano Guastella et.al.|[2504.05153v1](http://arxiv.org/abs/2504.05153v1)|**2025-04-07**|null|
-|**2025-04-07**|**A Reinforcement Learning Method for Environments with Stochastic Variables: Post-Decision Proximal Policy Optimization with Dual Critic Networks**|Leonardo Kanashiro Felizardo et.al.|[2504.05150v1](http://arxiv.org/abs/2504.05150v1)|**2025-04-07**|null|
-|**2025-04-07**|**Taming Double-Spending in Offline Payments with Reputation-Weighted Loan Networks**|Nektarios Evangelou et.al.|[2504.05143v1](http://arxiv.org/abs/2504.05143v1)|**2025-04-07**|null|
-|**2025-04-07**|**Discrete-to-continuum limits of semilinear stochastic evolution equations in Banach spaces**|Yves van Gennip et.al.|[2504.05142v1](http://arxiv.org/abs/2504.05142v1)|**2025-04-07**|null|
+|**2025-04-08**|**PainNet: Statistical Relation Network with Episode-Based Training for Pain Estimation**|Mina Bishay et.al.|[2504.06257v1](http://arxiv.org/abs/2504.06257v1)|**2025-04-08**|null|
+|**2025-04-08**|**Diagrammatic expansion for the mutual-information rate in the realm of limited statistics**|Tobias Kühn et.al.|[2504.06255v1](http://arxiv.org/abs/2504.06255v1)|**2025-04-08**|null|
+|**2025-04-08**|**Fractal and Regular Geometry of Deep Neural Networks**|Simmaco Di Lillo et.al.|[2504.06250v1](http://arxiv.org/abs/2504.06250v1)|**2025-04-08**|null|
+|**2025-04-08**|**Kuramoto meets Koopman: Constants of motion, symmetries, and network motifs**|Vincent Thibeault et.al.|[2504.06248v1](http://arxiv.org/abs/2504.06248v1)|**2025-04-08**|null|
+|**2025-04-08**|**Addressing Relative Degree Issues in Control Barrier Function Synthesis with Physics-Informed Neural Networks**|Lukas Brunke et.al.|[2504.06242v1](http://arxiv.org/abs/2504.06242v1)|**2025-04-08**|null|
+|**2025-04-08**|**A Case for Network-wide Orchestration of Host-based Intrusion Detection and Response**|Mark Timmons et.al.|[2504.06241v1](http://arxiv.org/abs/2504.06241v1)|**2025-04-08**|null|
+|**2025-04-08**|**Decentralized Federated Domain Generalization with Style Sharing: A Formal Modeling and Convergence Analysis**|Shahryar Zehtabi et.al.|[2504.06235v1](http://arxiv.org/abs/2504.06235v1)|**2025-04-08**|null|
+|**2025-04-08**|**Orb-v3: atomistic simulation at scale**|Benjamin Rhodes et.al.|[2504.06231v1](http://arxiv.org/abs/2504.06231v1)|**2025-04-08**|null|
+|**2025-04-08**|**Continuous-variable spatio-spectral quantum networks in nonlinear photonic lattices**|Natalia Costas et.al.|[2504.06229v1](http://arxiv.org/abs/2504.06229v1)|**2025-04-08**|null|
+|**2025-04-08**|**Toric ideals of graphs minimally generated by a Gröbner basis**|Ignacio García-Marco et.al.|[2504.06216v1](http://arxiv.org/abs/2504.06216v1)|**2025-04-08**|null|
+|**2025-04-08**|**NNN: Next-Generation Neural Networks for Marketing Mix Modeling**|Thomas Mulc et.al.|[2504.06212v1](http://arxiv.org/abs/2504.06212v1)|**2025-04-08**|null|
+|**2025-04-08**|**Resting State Functional Connectivity Patterns Associate with Alcohol Use Disorder Characteristics: Insights from the Triple Network Model**|Daniel Guerrero et.al.|[2504.06199v1](http://arxiv.org/abs/2504.06199v1)|**2025-04-08**|null|
+|**2025-04-08**|**Heuristic Methods are Good Teachers to Distill MLPs for Graph Link Prediction**|Zongyue Qin et.al.|[2504.06193v1](http://arxiv.org/abs/2504.06193v1)|**2025-04-08**|null|
+|**2025-04-08**|**Efficient algorithms to solve atom reconfiguration problems. III. The bird and batching algorithms and other parallel implementations on GPUs**|Fouad Afiouni et.al.|[2504.06182v1](http://arxiv.org/abs/2504.06182v1)|**2025-04-08**|null|
+|**2025-04-08**|**Plug and Play Distributed Control of Clustered Energy Hub Networks**|Varsha Behrunani et.al.|[2504.06179v1](http://arxiv.org/abs/2504.06179v1)|**2025-04-08**|null|
+|**2025-04-08**|**Hydroxide Mobility in Aqueous Systems: Ab Initio Accuracy with Millisecond Timescales**|Jonas Hänseroth et.al.|[2504.06177v1](http://arxiv.org/abs/2504.06177v1)|**2025-04-08**|null|
+|**2025-04-08**|**Multi-Modality Sensing in mmWave Beamforming for Connected Vehicles Using Deep Learning**|Muhammad Baqer Mollah et.al.|[2504.06173v1](http://arxiv.org/abs/2504.06173v1)|**2025-04-08**|[link](https://github.com/mbaqer/V2X-mmWave-Beamforming)|
+|**2025-04-08**|**Linear Regulator-Based Synchronization of Positive Multi-Agent Systems**|Alba Gurpegui et.al.|[2504.06169v1](http://arxiv.org/abs/2504.06169v1)|**2025-04-08**|null|
+|**2025-04-08**|**Real-Time Pitch/F0 Detection Using Spectrogram Images and Convolutional Neural Networks**|Xufang Zhao et.al.|[2504.06165v1](http://arxiv.org/abs/2504.06165v1)|**2025-04-08**|null|
+|**2025-04-08**|**Navigating the Rabbit Hole: Emergent Biases in LLM-Generated Attack Narratives Targeting Mental Health Groups**|Rijul Magu et.al.|[2504.06160v1](http://arxiv.org/abs/2504.06160v1)|**2025-04-08**|null|
+|**2025-04-08**|**Hall Effect Thruster Forecasting using a Topological Approach for Data Assimilation**|Max M. Chumley et.al.|[2504.06157v1](http://arxiv.org/abs/2504.06157v1)|**2025-04-08**|null|
+|**2025-04-08**|**A Large-Scale Analysis on Contextual Self-Supervised Video Representation Learning**|Akash Kumar et.al.|[2504.06153v1](http://arxiv.org/abs/2504.06153v1)|**2025-04-08**|null|
+|**2025-04-08**|**Decentralizing AI Memory: SHIMI, a Semantic Hierarchical Memory Index for Scalable Agent Reasoning**|Tooraj Helmi et.al.|[2504.06135v1](http://arxiv.org/abs/2504.06135v1)|**2025-04-08**|null|
+|**2025-04-08**|**SpikeStream: Accelerating Spiking Neural Network Inference on RISC-V Clusters with Sparse Computation Extensions**|Simone Manoni et.al.|[2504.06134v1](http://arxiv.org/abs/2504.06134v1)|**2025-04-08**|null|
+|**2025-04-08**|**FaceCloak: Learning to Protect Face Templates**|Sudipta Banerjee et.al.|[2504.06131v1](http://arxiv.org/abs/2504.06131v1)|**2025-04-08**|null|
+|**2025-04-08**|**Knowledge Graph Completion with Relation-Aware Anchor Enhancement**|Duanyang Yuan et.al.|[2504.06129v1](http://arxiv.org/abs/2504.06129v1)|**2025-04-08**|null|
+|**2025-04-08**|**Accelerating Vehicle Routing via AI-Initialized Genetic Algorithms**|Ido Greenberg et.al.|[2504.06126v1](http://arxiv.org/abs/2504.06126v1)|**2025-04-08**|null|
+|**2025-04-08**|**Robo-taxi Fleet Coordination at Scale via Reinforcement Learning**|Luigi Tresca et.al.|[2504.06125v1](http://arxiv.org/abs/2504.06125v1)|**2025-04-08**|null|
+|**2025-04-08**|**A Robust Real-Time Lane Detection Method with Fog-Enhanced Feature Fusion for Foggy Conditions**|Ronghui Zhang et.al.|[2504.06121v1](http://arxiv.org/abs/2504.06121v1)|**2025-04-08**|null|
+|**2025-04-08**|**Hyperbolic Category Discovery**|Yuanpei Liu et.al.|[2504.06120v1](http://arxiv.org/abs/2504.06120v1)|**2025-04-08**|null|

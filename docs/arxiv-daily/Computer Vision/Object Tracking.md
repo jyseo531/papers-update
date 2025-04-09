@@ -2,33 +2,33 @@
 ### Object Tracking
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-07**|**URECA: Unique Region Caption Anything**|Sangbeom Lim et.al.|[2504.05305v1](http://arxiv.org/abs/2504.05305v1)|**2025-04-07**|null|
-|**2025-04-07**|**InteractVLM: 3D Interaction Reasoning from 2D Foundational Models**|Sai Kumar Dwivedi et.al.|[2504.05303v1](http://arxiv.org/abs/2504.05303v1)|**2025-04-07**|null|
-|**2025-04-07**|**S^4M: Boosting Semi-Supervised Instance Segmentation with SAM**|Heeji Yoon et.al.|[2504.05301v1](http://arxiv.org/abs/2504.05301v1)|**2025-04-07**|null|
-|**2025-04-07**|**Let it Snow! Animating Static Gaussian Scenes With Dynamic Weather Effects**|Gal Fiebelman et.al.|[2504.05296v1](http://arxiv.org/abs/2504.05296v1)|**2025-04-07**|null|
-|**2025-04-07**|**Using Physiological Measures, Gaze, and Facial Expressions to Model Human Trust in a Robot Partner**|Haley N. Green et.al.|[2504.05291v1](http://arxiv.org/abs/2504.05291v1)|**2025-04-07**|null|
-|**2025-04-07**|**RobustDexGrasp: Robust Dexterous Grasping of General Objects from Single-view Perception**|Hui Zhang et.al.|[2504.05287v1](http://arxiv.org/abs/2504.05287v1)|**2025-04-07**|null|
-|**2025-04-07**|**Decoding the variability in the star-formation histories of z ~ 0.8 galaxies**|Jenny T. Wan et.al.|[2504.05281v1](http://arxiv.org/abs/2504.05281v1)|**2025-04-07**|null|
-|**2025-04-07**|**AnomalousNet: A Hybrid Approach with Attention U-Nets and Change Point Detection for Accurate Characterization of Anomalous Diffusion in Video Data**|Yusef Ahsini et.al.|[2504.05271v1](http://arxiv.org/abs/2504.05271v1)|**2025-04-07**|null|
-|**2025-04-07**|**From Sparse Signal to Smooth Motion: Real-Time Motion Generation with Rolling Prediction Models**|German Barquero et.al.|[2504.05265v1](http://arxiv.org/abs/2504.05265v1)|**2025-04-07**|null|
-|**2025-04-07**|**Contour Integration Underlies Human-Like Vision**|Ben Lonnqvist et.al.|[2504.05253v1](http://arxiv.org/abs/2504.05253v1)|**2025-04-07**|null|
-|**2025-04-07**|**Texture2LoD3: Enabling LoD3 Building Reconstruction With Panoramic Images**|Wenzhao Tang et.al.|[2504.05249v1](http://arxiv.org/abs/2504.05249v1)|**2025-04-07**|null|
-|**2025-04-07**|**An ensemble deep learning approach to detect tumors on Mohs micrographic surgery slides**|Abdurrahim Yilmaz et.al.|[2504.05219v1](http://arxiv.org/abs/2504.05219v1)|**2025-04-07**|null|
-|**2025-04-07**|**Correcting Class Imbalances with Self-Training for Improved Universal Lesion Detection and Tagging**|Alexander Shieh et.al.|[2504.05207v1](http://arxiv.org/abs/2504.05207v1)|**2025-04-07**|null|
-|**2025-04-07**|**CHIME/FRB Outriggers: Design Overview**|The CHIME/FRB Collaboration et.al.|[2504.05192v1](http://arxiv.org/abs/2504.05192v1)|**2025-04-07**|null|
-|**2025-04-07**|**Resource-Efficient Beam Prediction in mmWave Communications with Multimodal Realistic Simulation Framework**|Yu Min Park et.al.|[2504.05187v1](http://arxiv.org/abs/2504.05187v1)|**2025-04-07**|null|
-|**2025-04-07**|**Utility-aware Social Network Anonymization using Genetic Algorithms**|Samuel Bonello et.al.|[2504.05183v1](http://arxiv.org/abs/2504.05183v1)|**2025-04-07**|null|
-|**2025-04-07**|**Lightweight and Direct Document Relevance Optimization for Generative Information Retrieval**|Kidist Amde Mekonnen et.al.|[2504.05181v1](http://arxiv.org/abs/2504.05181v1)|**2025-04-07**|[link](https://github.com/kidist-amde/ddro)|
-|**2025-04-07**|**The 1st Solution for 4th PVUW MeViS Challenge: Unleashing the Potential of Large Multimodal Models for Referring Video Segmentation**|Hao Fang et.al.|[2504.05178v1](http://arxiv.org/abs/2504.05178v1)|**2025-04-07**|null|
-|**2025-04-07**|**Cellular Network Design for UAV Corridors via Data-driven High-dimensional Bayesian Optimization**|Mohamed Benzaghta et.al.|[2504.05176v1](http://arxiv.org/abs/2504.05176v1)|**2025-04-07**|null|
-|**2025-04-07**|**SSLFusion: Scale & Space Aligned Latent Fusion Model for Multimodal 3D Object Detection**|Bonan Ding et.al.|[2504.05170v1](http://arxiv.org/abs/2504.05170v1)|**2025-04-07**|null|
-|**2025-04-07**|**Leveraging Label Potential for Enhanced Multimodal Emotion Recognition**|Xuechun Shao et.al.|[2504.05158v1](http://arxiv.org/abs/2504.05158v1)|**2025-04-07**|null|
-|**2025-04-07**|**A Reinforcement Learning Method for Environments with Stochastic Variables: Post-Decision Proximal Policy Optimization with Dual Critic Networks**|Leonardo Kanashiro Felizardo et.al.|[2504.05150v1](http://arxiv.org/abs/2504.05150v1)|**2025-04-07**|null|
-|**2025-04-07**|**EffOWT: Transfer Visual Language Models to Open-World Tracking Efficiently and Effectively**|Bingyang Wang et.al.|[2504.05141v1](http://arxiv.org/abs/2504.05141v1)|**2025-04-07**|null|
-|**2025-04-07**|**From Sound Workflow Nets to LTLf Declarative Specifications by Casting Three Spells**|Luca Barbaro et.al.|[2504.05114v2](http://arxiv.org/abs/2504.05114v2)|**2025-04-08**|null|
-|**2025-04-07**|**Theory of quantum-enhanced interferometry with general Markovian light sources**|Erfan Abbasgholinejad et.al.|[2504.05111v1](http://arxiv.org/abs/2504.05111v1)|**2025-04-07**|null|
-|**2025-04-07**|**Inverse Mixed Integer Optimization: An Interior Point Perspective**|Samir Elhedhli et.al.|[2504.05109v1](http://arxiv.org/abs/2504.05109v1)|**2025-04-07**|null|
-|**2025-04-07**|**AI for Climate Finance: Agentic Retrieval and Multi-Step Reasoning for Early Warning System Investments**|Saeid Ario Vaghefi et.al.|[2504.05104v1](http://arxiv.org/abs/2504.05104v1)|**2025-04-07**|null|
-|**2025-04-07**|**Safe and Efficient Coexistence of Autonomous Vehicles with Human-Driven Traffic at Signalized Intersections**|Filippos N. Tzortzoglou et.al.|[2504.05101v1](http://arxiv.org/abs/2504.05101v1)|**2025-04-07**|null|
-|**2025-04-07**|**Non-Smooth Multi-objective Controller Synthesis for Test-Mass Actuation in Gravitational-Wave Detectors**|Sander K. Sijtsma et.al.|[2504.05100v1](http://arxiv.org/abs/2504.05100v1)|**2025-04-07**|null|
-|**2025-04-07**|**AI-Driven Tactical Communications and Networking for Defense: A Survey and Emerging Trends**|Victor Monzon Baeza et.al.|[2504.05071v1](http://arxiv.org/abs/2504.05071v1)|**2025-04-07**|null|
+|**2025-04-08**|**D^2USt3R: Enhancing 3D Reconstruction with 4D Pointmaps for Dynamic Scenes**|Jisang Han et.al.|[2504.06264v1](http://arxiv.org/abs/2504.06264v1)|**2025-04-08**|null|
+|**2025-04-08**|**Transfer between Modalities with MetaQueries**|Xichen Pan et.al.|[2504.06256v1](http://arxiv.org/abs/2504.06256v1)|**2025-04-08**|null|
+|**2025-04-08**|**Dictionary-free Koopman Predictive Control for Autonomous Vehicles in Mixed Traffic**|Xu Shang et.al.|[2504.06240v1](http://arxiv.org/abs/2504.06240v1)|**2025-04-08**|null|
+|**2025-04-08**|**Decentralized Federated Domain Generalization with Style Sharing: A Formal Modeling and Convergence Analysis**|Shahryar Zehtabi et.al.|[2504.06235v1](http://arxiv.org/abs/2504.06235v1)|**2025-04-08**|null|
+|**2025-04-08**|**Encoder-Decoder Gemma: Improving the Quality-Efficiency Trade-Off via Adaptation**|Biao Zhang et.al.|[2504.06225v1](http://arxiv.org/abs/2504.06225v1)|**2025-04-08**|null|
+|**2025-04-08**|**WoundAmbit: Bridging State-of-the-Art Semantic Segmentation and Real-World Wound Care**|Vanessa Borst et.al.|[2504.06185v1](http://arxiv.org/abs/2504.06185v1)|**2025-04-08**|null|
+|**2025-04-08**|**Flash Sculptor: Modular 3D Worlds from Objects**|Yujia Hu et.al.|[2504.06178v1](http://arxiv.org/abs/2504.06178v1)|**2025-04-08**|null|
+|**2025-04-08**|**A Self-Supervised Framework for Space Object Behaviour Characterisation**|Ian Groves et.al.|[2504.06176v1](http://arxiv.org/abs/2504.06176v1)|**2025-04-08**|null|
+|**2025-04-08**|**On Soft Clustering For Correlation Estimators: Model Uncertainty, Differentiability, and Surrogates**|Edward Berman et.al.|[2504.06174v1](http://arxiv.org/abs/2504.06174v1)|**2025-04-08**|null|
+|**2025-04-08**|**Enhancing Primary Teacher Training through Academic Portfolios in Advanced Mathematics Courses**|Carlos Rojas Bruna et.al.|[2504.06159v1](http://arxiv.org/abs/2504.06159v1)|**2025-04-08**|null|
+|**2025-04-08**|**V-MAGE: A Game Evaluation Framework for Assessing Visual-Centric Capabilities in Multimodal Large Language Models**|Xiangxi Zheng et.al.|[2504.06148v1](http://arxiv.org/abs/2504.06148v1)|**2025-04-08**|null|
+|**2025-04-08**|**A Training-Free Style-aligned Image Generation with Scale-wise Autoregressive Model**|Jihun Park et.al.|[2504.06144v1](http://arxiv.org/abs/2504.06144v1)|**2025-04-08**|null|
+|**2025-04-08**|**Non-local Boxes**|Philippe Lamontagne et.al.|[2504.06139v1](http://arxiv.org/abs/2504.06139v1)|**2025-04-08**|null|
+|**2025-04-08**|**Stochastic numerical approximation for nonlinear Fokker-Planck equations with singular kernels**|Nicoleta Cazacu et.al.|[2504.06132v1](http://arxiv.org/abs/2504.06132v1)|**2025-04-08**|null|
+|**2025-04-08**|**Optimal classification with outcome performativity**|Elizabeth Maggie Penn et.al.|[2504.06127v1](http://arxiv.org/abs/2504.06127v1)|**2025-04-08**|null|
+|**2025-04-08**|**Safe Interaction via Monte Carlo Linear-Quadratic Games**|Benjamin A. Christie et.al.|[2504.06124v1](http://arxiv.org/abs/2504.06124v1)|**2025-04-08**|null|
+|**2025-04-08**|**Leveraging Axis-Aligned Subspaces for High-Dimensional Bayesian Optimization with Group Testing**|Erik Hellsten et.al.|[2504.06111v1](http://arxiv.org/abs/2504.06111v1)|**2025-04-08**|null|
+|**2025-04-08**|**On the Dynamics of Mating Preferences in Genetic Programming**|José Maria Simões et.al.|[2504.06110v1](http://arxiv.org/abs/2504.06110v1)|**2025-04-08**|null|
+|**2025-04-08**|**Towards Varroa destructor mite detection using a narrow spectra illumination**|Samuel Bielik et.al.|[2504.06099v1](http://arxiv.org/abs/2504.06099v1)|**2025-04-08**|null|
+|**2025-04-08**|**Extremely asymmetric bipolar magnetic field of the Bp star HD 57372**|Oleg Kochukhov et.al.|[2504.06098v1](http://arxiv.org/abs/2504.06098v1)|**2025-04-08**|null|
+|**2025-04-08**|**MAPLE: Encoding Dexterous Robotic Manipulation Priors Learned From Egocentric Videos**|Alexey Gavryushin et.al.|[2504.06084v1](http://arxiv.org/abs/2504.06084v1)|**2025-04-08**|null|
+|**2025-04-08**|**Carbon, Cost and Capacity: Multi-objective Charging of Electric Buses**|Leoni Winschermann et.al.|[2504.06078v1](http://arxiv.org/abs/2504.06078v1)|**2025-04-08**|null|
+|**2025-04-08**|**GPU-accelerated Evolutionary Many-objective Optimization Using Tensorized NSGA-III**|Hao Li et.al.|[2504.06067v1](http://arxiv.org/abs/2504.06067v1)|**2025-04-08**|null|
+|**2025-04-08**|**Categorical matrix factorizations and monomorphism categories**|Jonas Frank et.al.|[2504.06052v1](http://arxiv.org/abs/2504.06052v1)|**2025-04-08**|null|
+|**2025-04-08**|**Rhythmic neuromorphic control of a pendulum: A hybrid systems analysis**|E. Petri et.al.|[2504.06046v1](http://arxiv.org/abs/2504.06046v1)|**2025-04-08**|null|
+|**2025-04-08**|**A deep search for Complex Organic Molecules toward the protoplanetary disk of V883 Ori**|Abubakar M. A. Fadul et.al.|[2504.06005v1](http://arxiv.org/abs/2504.06005v1)|**2025-04-08**|null|
+|**2025-04-08**|**Optical and X-ray timing analysis of the 2018-2020 outburst and rebrightening of the black-hole transient MAXI J1820+070**|M. Fiori et.al.|[2504.06001v1](http://arxiv.org/abs/2504.06001v1)|**2025-04-08**|null|
+|**2025-04-08**|**Odd-parity ground state in dilute Yu-Shiba-Rusinov dimers and chains**|Lisa M. Rütten et.al.|[2504.06000v1](http://arxiv.org/abs/2504.06000v1)|**2025-04-08**|null|
+|**2025-04-08**|**Strong Evidence That Abiogenesis Is a Rapid Process on Earth Analogs**|David Kipping et.al.|[2504.05993v1](http://arxiv.org/abs/2504.05993v1)|**2025-04-08**|null|
+|**2025-04-08**|**Learning-enhanced electronic skin for tactile sensing on deformable surface based on electrical impedance tomography**|Huazhi Dong et.al.|[2504.05987v1](http://arxiv.org/abs/2504.05987v1)|**2025-04-08**|null|

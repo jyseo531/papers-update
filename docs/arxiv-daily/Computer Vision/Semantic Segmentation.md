@@ -2,33 +2,33 @@
 ### Semantic Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-07**|**CREA: A Collaborative Multi-Agent Framework for Creative Content Generation with Diffusion Models**|Kavana Venkatesh et.al.|[2504.05306v1](http://arxiv.org/abs/2504.05306v1)|**2025-04-07**|null|
-|**2025-04-07**|**URECA: Unique Region Caption Anything**|Sangbeom Lim et.al.|[2504.05305v1](http://arxiv.org/abs/2504.05305v1)|**2025-04-07**|null|
-|**2025-04-07**|**InteractVLM: 3D Interaction Reasoning from 2D Foundational Models**|Sai Kumar Dwivedi et.al.|[2504.05303v1](http://arxiv.org/abs/2504.05303v1)|**2025-04-07**|null|
-|**2025-04-07**|**S^4M: Boosting Semi-Supervised Instance Segmentation with SAM**|Heeji Yoon et.al.|[2504.05301v1](http://arxiv.org/abs/2504.05301v1)|**2025-04-07**|null|
-|**2025-04-07**|**Dion: A Communication-Efficient Optimizer for Large Models**|Kwangjun Ahn et.al.|[2504.05295v1](http://arxiv.org/abs/2504.05295v1)|**2025-04-07**|null|
-|**2025-04-07**|**The challenge of uncertainty quantification of large language models in medicine**|Zahra Atf et.al.|[2504.05278v1](http://arxiv.org/abs/2504.05278v1)|**2025-04-07**|null|
-|**2025-04-07**|**Enhancing LLM-Based Short Answer Grading with Retrieval-Augmented Generation**|Yucheng Chu et.al.|[2504.05276v1](http://arxiv.org/abs/2504.05276v1)|**2025-04-07**|null|
-|**2025-04-07**|**Texture2LoD3: Enabling LoD3 Building Reconstruction With Panoramic Images**|Wenzhao Tang et.al.|[2504.05249v1](http://arxiv.org/abs/2504.05249v1)|**2025-04-07**|null|
-|**2025-04-07**|**Proposing TAGbank as a Corpus of Tree-Adjoining Grammar Derivations**|Jungyeul Park et.al.|[2504.05226v1](http://arxiv.org/abs/2504.05226v1)|**2025-04-07**|null|
-|**2025-04-07**|**An ensemble deep learning approach to detect tumors on Mohs micrographic surgery slides**|Abdurrahim Yilmaz et.al.|[2504.05219v1](http://arxiv.org/abs/2504.05219v1)|**2025-04-07**|null|
-|**2025-04-07**|**LLM-Alignment Live-Streaming Recommendation**|Yueyang Liu et.al.|[2504.05217v1](http://arxiv.org/abs/2504.05217v1)|**2025-04-07**|null|
-|**2025-04-07**|**Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling**|Hengran Zhang et.al.|[2504.05216v1](http://arxiv.org/abs/2504.05216v1)|**2025-04-07**|null|
-|**2025-04-07**|**MSA-UNet3+: Multi-Scale Attention UNet3+ with New Supervised Prototypical Contrastive Loss for Coronary DSA Image Segmentation**|Rayan Merghani Ahmed et.al.|[2504.05184v1](http://arxiv.org/abs/2504.05184v1)|**2025-04-07**|null|
-|**2025-04-07**|**The 1st Solution for 4th PVUW MeViS Challenge: Unleashing the Potential of Large Multimodal Models for Referring Video Segmentation**|Hao Fang et.al.|[2504.05178v1](http://arxiv.org/abs/2504.05178v1)|**2025-04-07**|null|
-|**2025-04-07**|**BoxSeg: Quality-Aware and Peer-Assisted Learning for Box-supervised Instance Segmentation**|Jinxiang Lai et.al.|[2504.05137v1](http://arxiv.org/abs/2504.05137v1)|**2025-04-07**|null|
-|**2025-04-07**|**Balancing Robustness and Efficiency in Embedded DNNs Through Activation Function Selection**|Jon Gutiérrez Zaballa et.al.|[2504.05119v1](http://arxiv.org/abs/2504.05119v1)|**2025-04-07**|null|
-|**2025-04-07**|**Decentralized Semantic Federated Learning for Real-Time Public Safety Tasks: Challenges, Methods, and Directions**|Baosheng Li et.al.|[2504.05107v1](http://arxiv.org/abs/2504.05107v1)|**2025-04-07**|null|
-|**2025-04-07**|**Speech-to-Trajectory: Learning Human-Like Verbal Guidance for Robot Motion**|Eran Beeri Bamani et.al.|[2504.05084v1](http://arxiv.org/abs/2504.05084v1)|**2025-04-07**|null|
-|**2025-04-07**|**LDGNet: A Lightweight Difference Guiding Network for Remote Sensing Change Detection**|Chenfeng Xu et.al.|[2504.05062v1](http://arxiv.org/abs/2504.05062v1)|**2025-04-07**|null|
-|**2025-04-07**|**Revealing the Intrinsic Ethical Vulnerability of Aligned Large Language Models**|Jiawei Lian et.al.|[2504.05050v1](http://arxiv.org/abs/2504.05050v1)|**2025-04-07**|null|
-|**2025-04-07**|**CMaP-SAM: Contraction Mapping Prior for SAM-driven Few-shot Segmentation**|Shuai Chen et.al.|[2504.05049v1](http://arxiv.org/abs/2504.05049v1)|**2025-04-07**|null|
-|**2025-04-07**|**Segmented Trajectory Optimization for Autonomous Parking in Unstructured Environments**|Hang Yu et.al.|[2504.05041v1](http://arxiv.org/abs/2504.05041v1)|**2025-04-07**|null|
-|**2025-04-07**|**CloSE: A Compact Shape- and Orientation-Agnostic Cloth State Representation**|Jay Kamat et.al.|[2504.05033v1](http://arxiv.org/abs/2504.05033v1)|**2025-04-07**|null|
-|**2025-04-07**|**AsyReC: A Multimodal Graph-based Framework for Spatio-Temporal Asymmetric Dyadic Relationship Classification**|Wang Tang et.al.|[2504.05030v1](http://arxiv.org/abs/2504.05030v1)|**2025-04-07**|null|
-|**2025-04-07**|**SmartBugBert: BERT-Enhanced Vulnerability Detection for Smart Contract Bytecode**|Jiuyang Bu et.al.|[2504.05002v1](http://arxiv.org/abs/2504.05002v1)|**2025-04-07**|null|
-|**2025-04-07**|**RS-RAG: Bridging Remote Sensing Imagery and Comprehensive Knowledge with a Multi-Modal Dataset and Retrieval-Augmented Generation Model**|Congcong Wen et.al.|[2504.04988v1](http://arxiv.org/abs/2504.04988v1)|**2025-04-07**|null|
-|**2025-04-07**|**DiCoTTA: Domain-invariant Learning for Continual Test-time Adaptation**|Sohyun Lee et.al.|[2504.04981v1](http://arxiv.org/abs/2504.04981v1)|**2025-04-07**|null|
-|**2025-04-07**|**Low-Rate Semantic Communication with Codebook-based Conditional Generative Models**|Kailang Ye et.al.|[2504.04977v1](http://arxiv.org/abs/2504.04977v1)|**2025-04-07**|null|
-|**2025-04-07**|**Using AI to Help in the Semantic Lexical Database to Evaluate Ideas**|Pedro Chávez Barrios et.al.|[2504.04967v1](http://arxiv.org/abs/2504.04967v1)|**2025-04-07**|null|
-|**2025-04-07**|**A refined operational semantics for FreeCHR**|Sascha Rechenberger et.al.|[2504.04962v1](http://arxiv.org/abs/2504.04962v1)|**2025-04-07**|null|
+|**2025-04-08**|**SOFIA/upGREAT imaging spectroscopy of the [C II] 158 um fine structure line toward the Sgr A region in the Galactic center**|A. I. Harris et.al.|[2504.06228v1](http://arxiv.org/abs/2504.06228v1)|**2025-04-08**|null|
+|**2025-04-08**|**LExT: Towards Evaluating Trustworthiness of Natural Language Explanations**|Krithi Shailya et.al.|[2504.06227v1](http://arxiv.org/abs/2504.06227v1)|**2025-04-08**|null|
+|**2025-04-08**|**Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation**|Xiaoxing Hu et.al.|[2504.06220v1](http://arxiv.org/abs/2504.06220v1)|**2025-04-08**|null|
+|**2025-04-08**|**HRMedSeg: Unlocking High-resolution Medical Image segmentation via Memory-efficient Attention Modeling**|Qing Xu et.al.|[2504.06205v1](http://arxiv.org/abs/2504.06205v1)|**2025-04-08**|[link](https://github.com/xq141839/HRMedSeg)|
+|**2025-04-08**|**WoundAmbit: Bridging State-of-the-Art Semantic Segmentation and Real-World Wound Care**|Vanessa Borst et.al.|[2504.06185v1](http://arxiv.org/abs/2504.06185v1)|**2025-04-08**|null|
+|**2025-04-08**|**Rethinking the Nested U-Net Approach: Enhancing Biomarker Segmentation with Attention Mechanisms and Multiscale Feature Fusion**|Saad Wazir et.al.|[2504.06158v1](http://arxiv.org/abs/2504.06158v1)|**2025-04-08**|[link](https://github.com/saadwazir/ReN-UNet)|
+|**2025-04-08**|**Decentralizing AI Memory: SHIMI, a Semantic Hierarchical Memory Index for Scalable Agent Reasoning**|Tooraj Helmi et.al.|[2504.06135v1](http://arxiv.org/abs/2504.06135v1)|**2025-04-08**|null|
+|**2025-04-08**|**Knowledge Graph Completion with Relation-Aware Anchor Enhancement**|Duanyang Yuan et.al.|[2504.06129v1](http://arxiv.org/abs/2504.06129v1)|**2025-04-08**|null|
+|**2025-04-08**|**Towards Varroa destructor mite detection using a narrow spectra illumination**|Samuel Bielik et.al.|[2504.06099v1](http://arxiv.org/abs/2504.06099v1)|**2025-04-08**|null|
+|**2025-04-08**|**CamContextI2V: Context-aware Controllable Video Generation**|Luis Denninger et.al.|[2504.06022v1](http://arxiv.org/abs/2504.06022v1)|**2025-04-08**|null|
+|**2025-04-08**|**econSG: Efficient and Multi-view Consistent Open-Vocabulary 3D Semantic Gaussians**|Can Zhang et.al.|[2504.06003v1](http://arxiv.org/abs/2504.06003v1)|**2025-04-08**|null|
+|**2025-04-08**|**Diffusion Based Ambiguous Image Segmentation**|Jakob Lønborg Christensen et.al.|[2504.05977v1](http://arxiv.org/abs/2504.05977v1)|**2025-04-08**|null|
+|**2025-04-08**|**AVP-AP: Self-supervised Automatic View Positioning in 3D cardiac CT via Atlas Prompting**|Xiaolin Fan et.al.|[2504.05966v1](http://arxiv.org/abs/2504.05966v1)|**2025-04-08**|null|
+|**2025-04-08**|**Fair Resource Allocation in UAV-based Semantic Communication System with Fluid Antenna**|Liang Siyun et.al.|[2504.05955v1](http://arxiv.org/abs/2504.05955v1)|**2025-04-08**|null|
+|**2025-04-08**|**Intrinsic Saliency Guided Trunk-Collateral Network for Unsupervised Video Object Segmentation**|Xiangyu Zheng et.al.|[2504.05904v1](http://arxiv.org/abs/2504.05904v1)|**2025-04-08**|null|
+|**2025-04-08**|**Turin3D: Evaluating Adaptation Strategies under Label Scarcity in Urban LiDAR Segmentation with Semi-Supervised Techniques**|Luca Barco et.al.|[2504.05882v1](http://arxiv.org/abs/2504.05882v1)|**2025-04-08**|null|
+|**2025-04-08**|**KAN-SAM: Kolmogorov-Arnold Network Guided Segment Anything Model for RGB-T Salient Object Detection**|Xingyuan Li et.al.|[2504.05878v1](http://arxiv.org/abs/2504.05878v1)|**2025-04-08**|null|
+|**2025-04-08**|**Enhancing Coreference Resolution with Pretrained Language Models: Bridging the Gap Between Syntax and Semantics**|Xingzu Liu et.al.|[2504.05855v1](http://arxiv.org/abs/2504.05855v1)|**2025-04-08**|null|
+|**2025-04-08**|**Federated Unlearning Made Practical: Seamless Integration via Negated Pseudo-Gradients**|Alessio Mora et.al.|[2504.05822v1](http://arxiv.org/abs/2504.05822v1)|**2025-04-08**|null|
+|**2025-04-08**|**Right Question is Already Half the Answer: Fully Unsupervised LLM Reasoning Incentivization**|Qingyang Zhang et.al.|[2504.05812v1](http://arxiv.org/abs/2504.05812v1)|**2025-04-08**|null|
+|**2025-04-08**|**PaMi-VDPO: Mitigating Video Hallucinations by Prompt-Aware Multi-Instance Video Preference Learning**|Xinpeng Ding et.al.|[2504.05810v1](http://arxiv.org/abs/2504.05810v1)|**2025-04-08**|null|
+|**2025-04-08**|**DefMamba: Deformable Visual State Space Model**|Leiye Liu et.al.|[2504.05794v1](http://arxiv.org/abs/2504.05794v1)|**2025-04-08**|null|
+|**2025-04-08**|**A structure-preserving LDG discretization of the Fisher-Kolmogorov equation for modeling neurodegenerative diseases**|Paola F. Antonietti et.al.|[2504.05784v1](http://arxiv.org/abs/2504.05784v1)|**2025-04-08**|null|
+|**2025-04-08**|**Transferable Mask Transformer: Cross-domain Semantic Segmentation with Region-adaptive Transferability Estimation**|Enming Zhang et.al.|[2504.05774v1](http://arxiv.org/abs/2504.05774v1)|**2025-04-08**|null|
+|**2025-04-08**|**A Lightweight Multi-Module Fusion Approach for Korean Character Recognition**|Inho Jake Park et.al.|[2504.05770v1](http://arxiv.org/abs/2504.05770v1)|**2025-04-08**|null|
+|**2025-04-08**|**InvNeRF-Seg: Fine-Tuning a Pre-Trained NeRF for 3D Object Segmentation**|Jiangsan Zhao et.al.|[2504.05751v1](http://arxiv.org/abs/2504.05751v1)|**2025-04-08**|null|
+|**2025-04-08**|**DDT: Decoupled Diffusion Transformer**|Shuai Wang et.al.|[2504.05741v1](http://arxiv.org/abs/2504.05741v1)|**2025-04-08**|null|
+|**2025-04-08**|**Unified Generative Search and Recommendation**|Teng Shi et.al.|[2504.05730v1](http://arxiv.org/abs/2504.05730v1)|**2025-04-08**|null|
+|**2025-04-08**|**How I Learned to Stop Worrying and Love ChatGPT**|Piotr Przymus et.al.|[2504.05712v1](http://arxiv.org/abs/2504.05712v1)|**2025-04-08**|null|
+|**2025-04-08**|**Pose-Aware Weakly-Supervised Action Segmentation**|Seth Z. Zhao et.al.|[2504.05700v1](http://arxiv.org/abs/2504.05700v1)|**2025-04-08**|null|

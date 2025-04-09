@@ -2,33 +2,33 @@
 ### Robotics
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-07**|**Ionomeric extracellular matrices for dynamic soft robotic tissue engineering devices through protein sulfonation**|Matthew K Burgess et.al.|[2504.05302v1](http://arxiv.org/abs/2504.05302v1)|**2025-04-07**|null|
-|**2025-04-07**|**Using Physiological Measures, Gaze, and Facial Expressions to Model Human Trust in a Robot Partner**|Haley N. Green et.al.|[2504.05291v1](http://arxiv.org/abs/2504.05291v1)|**2025-04-07**|null|
-|**2025-04-07**|**RobustDexGrasp: Robust Dexterous Grasping of General Objects from Single-view Perception**|Hui Zhang et.al.|[2504.05287v1](http://arxiv.org/abs/2504.05287v1)|**2025-04-07**|null|
-|**2025-04-07**|**Vision-Language Model Predictive Control for Manipulation Planning and Trajectory Generation**|Jiaming Chen et.al.|[2504.05225v1](http://arxiv.org/abs/2504.05225v1)|**2025-04-07**|null|
-|**2025-04-07**|**Reducing the Communication of Distributed Model Predictive Control: Autoencoders and Formation Control**|Torben Schiz et.al.|[2504.05223v1](http://arxiv.org/abs/2504.05223v1)|**2025-04-07**|null|
-|**2025-04-07**|**Stereo-LiDAR Fusion by Semi-Global Matching With Discrete Disparity-Matching Cost and Semidensification**|Yasuhiro Yao et.al.|[2504.05148v1](http://arxiv.org/abs/2504.05148v1)|**2025-04-07**|[link](https://github.com/yshry/libSGM_lidar)|
-|**2025-04-07**|**TDFANet: Encoding Sequential 4D Radar Point Clouds Using Trajectory-Guided Deformable Feature Aggregation for Place Recognition**|Shouyi Lu et.al.|[2504.05103v1](http://arxiv.org/abs/2504.05103v1)|**2025-04-07**|null|
-|**2025-04-07**|**Speech-to-Trajectory: Learning Human-Like Verbal Guidance for Robot Motion**|Eran Beeri Bamani et.al.|[2504.05084v1](http://arxiv.org/abs/2504.05084v1)|**2025-04-07**|null|
-|**2025-04-07**|**MotionPRO: Exploring the Role of Pressure in Human MoCap and Beyond**|Shenghao Ren et.al.|[2504.05046v1](http://arxiv.org/abs/2504.05046v1)|**2025-04-07**|null|
-|**2025-04-07**|**Attention-Augmented Inverse Reinforcement Learning with Graph Convolutions for Multi-Agent Task Allocation**|Huilin Yin et.al.|[2504.05045v2](http://arxiv.org/abs/2504.05045v2)|**2025-04-08**|null|
-|**2025-04-07**|**Segmented Trajectory Optimization for Autonomous Parking in Unstructured Environments**|Hang Yu et.al.|[2504.05041v1](http://arxiv.org/abs/2504.05041v1)|**2025-04-07**|null|
-|**2025-04-07**|**CloSE: A Compact Shape- and Orientation-Agnostic Cloth State Representation**|Jay Kamat et.al.|[2504.05033v1](http://arxiv.org/abs/2504.05033v1)|**2025-04-07**|null|
-|**2025-04-07**|**CONCERT: a Modular Reconfigurable Robot for Construction**|Luca Rossini et.al.|[2504.04998v1](http://arxiv.org/abs/2504.04998v1)|**2025-04-07**|null|
-|**2025-04-07**|**Wavelet Policy: Imitation Policy Learning in Frequency Domain with Wavelet Transforms**|Changchuan Yang et.al.|[2504.04991v1](http://arxiv.org/abs/2504.04991v1)|**2025-04-07**|null|
-|**2025-04-07**|**A High-Force Gripper with Embedded Multimodal Sensing for Powerful and Perception Driven Grasping**|Edoardo Del Bianco et.al.|[2504.04970v1](http://arxiv.org/abs/2504.04970v1)|**2025-04-07**|null|
-|**2025-04-07**|**A Taxonomy of Self-Handover**|Naoki Wake et.al.|[2504.04939v2](http://arxiv.org/abs/2504.04939v2)|**2025-04-08**|null|
-|**2025-04-07**|**Constrained Gaussian Process Motion Planning via Stein Variational Newton Inference**|Jiayun Li et.al.|[2504.04936v1](http://arxiv.org/abs/2504.04936v1)|**2025-04-07**|null|
-|**2025-04-07**|**On Scenario Formalisms for Automated Driving**|Christian Neurohr et.al.|[2504.04868v1](http://arxiv.org/abs/2504.04868v1)|**2025-04-07**|null|
-|**2025-04-07**|**GAMDTP: Dynamic Trajectory Prediction with Graph Attention Mamba Network**|Yunxiang Liu et.al.|[2504.04862v1](http://arxiv.org/abs/2504.04862v1)|**2025-04-07**|null|
-|**2025-04-07**|**Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM**|Zhicong Sun et.al.|[2504.04844v1](http://arxiv.org/abs/2504.04844v1)|**2025-04-07**|null|
-|**2025-04-07**|**Embodied Perception for Test-time Grasping Detection Adaptation with Knowledge Infusion**|Jin Liu et.al.|[2504.04795v1](http://arxiv.org/abs/2504.04795v1)|**2025-04-07**|null|
-|**2025-04-07**|**Playing Non-Embedded Card-Based Games with Reinforcement Learning**|Tianyang Wu et.al.|[2504.04783v1](http://arxiv.org/abs/2504.04783v1)|**2025-04-07**|null|
-|**2025-04-07**|**BayesCPF: Enabling Collective Perception in Robot Swarms with Degrading Sensors**|Khai Yi Chin et.al.|[2504.04774v1](http://arxiv.org/abs/2504.04774v1)|**2025-04-07**|[link](https://github.com/khaiyichin/sensor-degradation-filter)|
-|**2025-04-07**|**Feedback-Enhanced Hallucination-Resistant Vision-Language Model for Real-Time Scene Understanding**|Zahir Alsulaimawi et.al.|[2504.04772v1](http://arxiv.org/abs/2504.04772v1)|**2025-04-07**|null|
-|**2025-04-07**|**Extended URDF: Accounting for parallel mechanism in robot description**|Virgile Batto et.al.|[2504.04767v1](http://arxiv.org/abs/2504.04767v1)|**2025-04-07**|null|
-|**2025-04-07**|**Continuous Locomotive Crowd Behavior Generation**|Inhwan Bae et.al.|[2504.04756v1](http://arxiv.org/abs/2504.04756v1)|**2025-04-07**|null|
-|**2025-04-07**|**Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions**|He Zhu et.al.|[2504.04744v1](http://arxiv.org/abs/2504.04744v1)|**2025-04-07**|null|
-|**2025-04-07**|**Inverse++: Vision-Centric 3D Semantic Occupancy Prediction Assisted with 3D Object Detection**|Zhenxing Ming et.al.|[2504.04732v1](http://arxiv.org/abs/2504.04732v1)|**2025-04-07**|null|
-|**2025-04-07**|**Large-Scale Mixed-Traffic and Intersection Control using Multi-agent Reinforcement Learning**|Songyang Liu et.al.|[2504.04691v1](http://arxiv.org/abs/2504.04691v1)|**2025-04-07**|null|
-|**2025-04-06**|**Modeling, Translation, and Analysis of Different examples using Simulink, Stateflow, SpaceEx, and FlowStar**|Yogesh Gajula et.al.|[2504.04638v1](http://arxiv.org/abs/2504.04638v1)|**2025-04-06**|null|
+|**2025-04-08**|**Underwater Robotic Simulators Review for Autonomous System Development**|Sara Aldhaheri et.al.|[2504.06245v1](http://arxiv.org/abs/2504.06245v1)|**2025-04-08**|null|
+|**2025-04-08**|**Addressing Relative Degree Issues in Control Barrier Function Synthesis with Physics-Informed Neural Networks**|Lukas Brunke et.al.|[2504.06242v1](http://arxiv.org/abs/2504.06242v1)|**2025-04-08**|null|
+|**2025-04-08**|**Accessible and Pedagogically-Grounded Explainability for Human-Robot Interaction: A Framework Based on UDL and Symbolic Interfaces**|Francisco J. Rodríguez Lera et.al.|[2504.06189v1](http://arxiv.org/abs/2504.06189v1)|**2025-04-08**|null|
+|**2025-04-08**|**Signaling Human Intentions to Service Robots: Understanding the Use of Social Cues during In-Person Conversations**|Hanfang Lyu et.al.|[2504.06167v1](http://arxiv.org/abs/2504.06167v1)|**2025-04-08**|null|
+|**2025-04-08**|**ViTaMIn: Learning Contact-Rich Tasks Through Robot-Free Visuo-Tactile Manipulation Interface**|Fangchen Liu et.al.|[2504.06156v1](http://arxiv.org/abs/2504.06156v1)|**2025-04-08**|null|
+|**2025-04-08**|**Exploring Adversarial Obstacle Attacks in Search-based Path Planning for Autonomous Mobile Robots**|Adrian Szvoren et.al.|[2504.06154v1](http://arxiv.org/abs/2504.06154v1)|**2025-04-08**|null|
+|**2025-04-08**|**Safe Interaction via Monte Carlo Linear-Quadratic Games**|Benjamin A. Christie et.al.|[2504.06124v1](http://arxiv.org/abs/2504.06124v1)|**2025-04-08**|null|
+|**2025-04-08**|**Computing for Community-Based Economies: A Sociotechnical Ecosystem for Democratic, Egalitarian and Sustainable Futures**|Kwame Porter Robinson et.al.|[2504.06114v1](http://arxiv.org/abs/2504.06114v1)|**2025-04-08**|null|
+|**2025-04-08**|**A ROS2-based software library for inverse dynamics computation**|Vincenzo Petrone et.al.|[2504.06106v1](http://arxiv.org/abs/2504.06106v1)|**2025-04-08**|null|
+|**2025-04-08**|**Uncertainty-Aware Hybrid Machine Learning in Virtual Sensors for Vehicle Sideslip Angle Estimation**|Abinav Kalyanasundaram et.al.|[2504.06105v1](http://arxiv.org/abs/2504.06105v1)|**2025-04-08**|null|
+|**2025-04-08**|**Real-Time LaCAM**|Runzhe Liang et.al.|[2504.06091v1](http://arxiv.org/abs/2504.06091v1)|**2025-04-08**|null|
+|**2025-04-08**|**MAPLE: Encoding Dexterous Robotic Manipulation Priors Learned From Egocentric Videos**|Alexey Gavryushin et.al.|[2504.06084v1](http://arxiv.org/abs/2504.06084v1)|**2025-04-08**|null|
+|**2025-04-08**|**GPU-accelerated Evolutionary Many-objective Optimization Using Tensorized NSGA-III**|Hao Li et.al.|[2504.06067v1](http://arxiv.org/abs/2504.06067v1)|**2025-04-08**|null|
+|**2025-04-08**|**Robust Statistics vs. Machine Learning vs. Bayesian Inference: Insights into Handling Faulty GNSS Measurements in Field Robotics**|Haoming Zhang et.al.|[2504.06015v1](http://arxiv.org/abs/2504.06015v1)|**2025-04-08**|null|
+|**2025-04-08**|**Learning-enhanced electronic skin for tactile sensing on deformable surface based on electrical impedance tomography**|Huazhi Dong et.al.|[2504.05987v1](http://arxiv.org/abs/2504.05987v1)|**2025-04-08**|null|
+|**2025-04-08**|**Adaptive RISE Control for Dual-Arm Unmanned Aerial Manipulator Systems with Deep Neural Networks**|Yang Wang et.al.|[2504.05985v1](http://arxiv.org/abs/2504.05985v1)|**2025-04-08**|null|
+|**2025-04-08**|**Modular Soft Wearable Glove for Real-Time Gesture Recognition and Dynamic 3D Shape Reconstruction**|Huazhi Dong et.al.|[2504.05983v1](http://arxiv.org/abs/2504.05983v1)|**2025-04-08**|null|
+|**2025-04-08**|**A Corrector-aided Look-ahead Distance-based Guidance for Reference Path Following with an Efficient Midcourse Guidance Strategy**|Reva Dhillon et.al.|[2504.05975v1](http://arxiv.org/abs/2504.05975v1)|**2025-04-08**|null|
+|**2025-04-08**|**Collision-free landing of multiple UAVs on moving ground vehicles using time-varying control barrier functions**|Viswa Narayanan Sankaranarayanan et.al.|[2504.05939v1](http://arxiv.org/abs/2504.05939v1)|**2025-04-08**|null|
+|**2025-04-08**|**Accelerated Reeds-Shepp and Under-Specified Reeds-Shepp Algorithms for Mobile Robot Path Planning**|Ibrahim Ibrahim et.al.|[2504.05921v1](http://arxiv.org/abs/2504.05921v1)|**2025-04-08**|null|
+|**2025-04-08**|**Deep RL-based Autonomous Navigation of Micro Aerial Vehicles (MAVs) in a complex GPS-denied Indoor Environment**|Amit Kumar Singh et.al.|[2504.05918v1](http://arxiv.org/abs/2504.05918v1)|**2025-04-08**|null|
+|**2025-04-08**|**Jointly-optimized Trajectory Generation and Camera Control for 3D Coverage Planning**|Savvas Papaioannou et.al.|[2504.05887v1](http://arxiv.org/abs/2504.05887v1)|**2025-04-08**|null|
+|**2025-04-08**|**Rolling Horizon Coverage Control with Collaborative Autonomous Agents**|Savvas Papaioannou et.al.|[2504.05883v1](http://arxiv.org/abs/2504.05883v1)|**2025-04-08**|null|
+|**2025-04-08**|**Channel State Information Analysis for Jamming Attack Detection in Static and Dynamic UAV Networks -- An Experimental Study**|Pavlo Mykytyn et.al.|[2504.05832v1](http://arxiv.org/abs/2504.05832v1)|**2025-04-08**|null|
+|**2025-04-08**|**How to Enable LLM with 3D Capacity? A Survey of Spatial Reasoning in LLM**|Jirong Zha et.al.|[2504.05786v1](http://arxiv.org/abs/2504.05786v1)|**2025-04-08**|null|
+|**2025-04-08**|**When Less Is More: A Sparse Facial Motion Structure For Listening Motion Learning**|Tri Tung Nguyen Nguyen et.al.|[2504.05748v1](http://arxiv.org/abs/2504.05748v1)|**2025-04-08**|null|
+|**2025-04-08**|**SAP-CoPE: Social-Aware Planning using Cooperative Pose Estimation with Infrastructure Sensor Nodes**|Minghao Ning et.al.|[2504.05727v1](http://arxiv.org/abs/2504.05727v1)|**2025-04-08**|[link](https://github.com/HopeYless/SAP-CoPE-Project)|
+|**2025-04-08**|**Experimental Evaluation of Precise Placement of the Hollow Object with Asymmetric Pivot Manipulation**|Jinseong Park et.al.|[2504.05665v1](http://arxiv.org/abs/2504.05665v1)|**2025-04-08**|null|
+|**2025-04-08**|**PTRL: Prior Transfer Deep Reinforcement Learning for Legged Robots Locomotion**|Haodong Huang et.al.|[2504.05629v1](http://arxiv.org/abs/2504.05629v1)|**2025-04-08**|null|
+|**2025-04-08**|**Model-Agnostic Policy Explanations with Large Language Models**|Zhang Xi-Jia et.al.|[2504.05625v1](http://arxiv.org/abs/2504.05625v1)|**2025-04-08**|null|

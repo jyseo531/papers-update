@@ -2,33 +2,33 @@
 ### 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-07**|**InteractVLM: 3D Interaction Reasoning from 2D Foundational Models**|Sai Kumar Dwivedi et.al.|[2504.05303v1](http://arxiv.org/abs/2504.05303v1)|**2025-04-07**|null|
-|**2025-04-07**|**Let it Snow! Animating Static Gaussian Scenes With Dynamic Weather Effects**|Gal Fiebelman et.al.|[2504.05296v1](http://arxiv.org/abs/2504.05296v1)|**2025-04-07**|null|
-|**2025-04-07**|**Non-local charges from perturbed defects via SymTFT in 2d CFT**|Federico Ambrosino et.al.|[2504.05277v1](http://arxiv.org/abs/2504.05277v1)|**2025-04-07**|null|
-|**2025-04-07**|**Texture2LoD3: Enabling LoD3 Building Reconstruction With Panoramic Images**|Wenzhao Tang et.al.|[2504.05249v1](http://arxiv.org/abs/2504.05249v1)|**2025-04-07**|null|
-|**2025-04-07**|**Hybrid machine learning data assimilation for marine biogeochemistry**|Ieuan Higgs et.al.|[2504.05218v1](http://arxiv.org/abs/2504.05218v1)|**2025-04-07**|null|
-|**2025-04-07**|**3D Universal Lesion Detection and Tagging in CT with Self-Training**|Jared Frazier et.al.|[2504.05201v1](http://arxiv.org/abs/2504.05201v1)|**2025-04-07**|null|
-|**2025-04-07**|**Cellular Network Design for UAV Corridors via Data-driven High-dimensional Bayesian Optimization**|Mohamed Benzaghta et.al.|[2504.05176v1](http://arxiv.org/abs/2504.05176v1)|**2025-04-07**|null|
-|**2025-04-07**|**SSLFusion: Scale & Space Aligned Latent Fusion Model for Multimodal 3D Object Detection**|Bonan Ding et.al.|[2504.05170v1](http://arxiv.org/abs/2504.05170v1)|**2025-04-07**|null|
-|**2025-04-07**|**PanoDreamer: Consistent Text to 360-Degree Scene Generation**|Zhexiao Xiong et.al.|[2504.05152v1](http://arxiv.org/abs/2504.05152v1)|**2025-04-07**|null|
-|**2025-04-07**|**Oscillatory flows in three-dimensional deformable microchannels**|Anxu Huang et.al.|[2504.05132v1](http://arxiv.org/abs/2504.05132v1)|**2025-04-07**|null|
-|**2025-04-07**|**TDFANet: Encoding Sequential 4D Radar Point Clouds Using Trajectory-Guided Deformable Feature Aggregation for Place Recognition**|Shouyi Lu et.al.|[2504.05103v1](http://arxiv.org/abs/2504.05103v1)|**2025-04-07**|null|
-|**2025-04-07**|**PvNeXt: Rethinking Network Design and Temporal Motion for Point Cloud Video Recognition**|Jie Wang et.al.|[2504.05075v1](http://arxiv.org/abs/2504.05075v1)|**2025-04-07**|null|
-|**2025-04-07**|**MotionPRO: Exploring the Role of Pressure in Human MoCap and Beyond**|Shenghao Ren et.al.|[2504.05046v1](http://arxiv.org/abs/2504.05046v1)|**2025-04-07**|null|
-|**2025-04-07**|**Joint BS Deployment and Power Optimization for Minimum EMF Exposure with RL in Real-World Based Urban Scenario**|Xueyun Long et.al.|[2504.05017v1](http://arxiv.org/abs/2504.05017v1)|**2025-04-07**|null|
-|**2025-04-07**|**Scalable chip-based 3D ion traps**|Elena Jordan et.al.|[2504.04946v1](http://arxiv.org/abs/2504.04946v1)|**2025-04-07**|null|
-|**2025-04-07**|**IterMask3D: Unsupervised Anomaly Detection and Segmentation with Test-Time Iterative Mask Refinement in 3D Brain MR**|Ziyun Liang et.al.|[2504.04911v1](http://arxiv.org/abs/2504.04911v1)|**2025-04-07**|null|
-|**2025-04-07**|**Null geodesics around a magnetized Kiselev black hole**|Vitalie Lungu et.al.|[2504.04905v1](http://arxiv.org/abs/2504.04905v1)|**2025-04-07**|null|
-|**2025-04-07**|**SLIDE: Automated Identification and Quantification of Grain Boundary Sliding and Opening in 3D**|C. J. A. Mornout et.al.|[2504.04898v1](http://arxiv.org/abs/2504.04898v1)|**2025-04-07**|null|
-|**2025-04-07**|**Analysis and Computation of Geodesic Distances on Reductive Homogeneous Spaces**|Remco Duits et.al.|[2504.04878v1](http://arxiv.org/abs/2504.04878v1)|**2025-04-07**|null|
-|**2025-04-07**|**3D Gaussian Particle Approximation of VDB Datasets: A Study for Scientific Visualization**|Isha Sharma et.al.|[2504.04857v1](http://arxiv.org/abs/2504.04857v1)|**2025-04-07**|null|
-|**2025-04-07**|**Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM**|Zhicong Sun et.al.|[2504.04844v1](http://arxiv.org/abs/2504.04844v1)|**2025-04-07**|null|
-|**2025-04-07**|**OCC-MLLM-CoT-Alpha: Towards Multi-stage Occlusion Recognition Based on Large Language Models via 3D-Aware Supervision and Chain-of-Thoughts Guidance**|Chaoyi Wang et.al.|[2504.04781v1](http://arxiv.org/abs/2504.04781v1)|**2025-04-07**|null|
-|**2025-04-07**|**Bidirectional Hierarchical Protein Multi-Modal Representation Learning**|Xuefeng Liu et.al.|[2504.04770v1](http://arxiv.org/abs/2504.04770v1)|**2025-04-07**|null|
-|**2025-04-07**|**CADCrafter: Generating Computer-Aided Design Models from Unconstrained Images**|Cheng Chen et.al.|[2504.04753v1](http://arxiv.org/abs/2504.04753v1)|**2025-04-07**|null|
-|**2025-04-07**|**Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions**|He Zhu et.al.|[2504.04744v1](http://arxiv.org/abs/2504.04744v1)|**2025-04-07**|null|
-|**2025-04-07**|**Inverse++: Vision-Centric 3D Semantic Occupancy Prediction Assisted with 3D Object Detection**|Zhenxing Ming et.al.|[2504.04732v1](http://arxiv.org/abs/2504.04732v1)|**2025-04-07**|null|
-|**2025-04-07**|**DFormerv2: Geometry Self-Attention for RGBD Semantic Segmentation**|Bo-Wen Yin et.al.|[2504.04701v1](http://arxiv.org/abs/2504.04701v1)|**2025-04-07**|[link](https://github.com/VCIP-RGBD/DFormer)|
-|**2025-04-07**|**DeclutterNeRF: Generative-Free 3D Scene Recovery for Occlusion Removal**|Wanzhou Liu et.al.|[2504.04679v1](http://arxiv.org/abs/2504.04679v1)|**2025-04-07**|null|
-|**2025-04-07**|**3DM-WeConvene: Learned Image Compression with 3D Multi-Level Wavelet-Domain Convolution and Entropy Model**|Haisheng Fu et.al.|[2504.04658v1](http://arxiv.org/abs/2504.04658v1)|**2025-04-07**|null|
-|**2025-04-07**|**EquiCPI: SE(3)-Equivariant Geometric Deep Learning for Structure-Aware Prediction of Compound-Protein Interactions**|Ngoc-Quang Nguyen et.al.|[2504.04654v1](http://arxiv.org/abs/2504.04654v1)|**2025-04-07**|null|
+|**2025-04-08**|**D^2USt3R: Enhancing 3D Reconstruction with 4D Pointmaps for Dynamic Scenes**|Jisang Han et.al.|[2504.06264v1](http://arxiv.org/abs/2504.06264v1)|**2025-04-08**|null|
+|**2025-04-08**|**HiMoR: Monocular Deformable Gaussian Reconstruction with Hierarchical Motion Representation**|Yiming Liang et.al.|[2504.06210v1](http://arxiv.org/abs/2504.06210v1)|**2025-04-08**|null|
+|**2025-04-08**|**Factorizing Defects from Generalized Pinning Fields**|Fedor K. Popov et.al.|[2504.06203v1](http://arxiv.org/abs/2504.06203v1)|**2025-04-08**|null|
+|**2025-04-08**|**Flash Sculptor: Modular 3D Worlds from Objects**|Yujia Hu et.al.|[2504.06178v1](http://arxiv.org/abs/2504.06178v1)|**2025-04-08**|null|
+|**2025-04-08**|**3D evolution of protein networks and lipid globules in heat-treated egg yolk**|Felix Wittwer et.al.|[2504.06032v1](http://arxiv.org/abs/2504.06032v1)|**2025-04-08**|null|
+|**2025-04-08**|**CamContextI2V: Context-aware Controllable Video Generation**|Luis Denninger et.al.|[2504.06022v1](http://arxiv.org/abs/2504.06022v1)|**2025-04-08**|null|
+|**2025-04-08**|**econSG: Efficient and Multi-view Consistent Open-Vocabulary 3D Semantic Gaussians**|Can Zhang et.al.|[2504.06003v1](http://arxiv.org/abs/2504.06003v1)|**2025-04-08**|null|
+|**2025-04-08**|**Under-Sampled High-Dimensional Data Recovery via Symbiotic Multi-Prior Tensor Reconstruction**|Jie Yang et.al.|[2504.05992v1](http://arxiv.org/abs/2504.05992v1)|**2025-04-08**|null|
+|**2025-04-08**|**Modular Soft Wearable Glove for Real-Time Gesture Recognition and Dynamic 3D Shape Reconstruction**|Huazhi Dong et.al.|[2504.05983v1](http://arxiv.org/abs/2504.05983v1)|**2025-04-08**|null|
+|**2025-04-08**|**An Empirical Study of GPT-4o Image Generation Capabilities**|Sixiang Chen et.al.|[2504.05979v1](http://arxiv.org/abs/2504.05979v1)|**2025-04-08**|null|
+|**2025-04-08**|**AVP-AP: Self-supervised Automatic View Positioning in 3D cardiac CT via Atlas Prompting**|Xiaolin Fan et.al.|[2504.05966v1](http://arxiv.org/abs/2504.05966v1)|**2025-04-08**|null|
+|**2025-04-08**|**Deep RL-based Autonomous Navigation of Micro Aerial Vehicles (MAVs) in a complex GPS-denied Indoor Environment**|Amit Kumar Singh et.al.|[2504.05918v1](http://arxiv.org/abs/2504.05918v1)|**2025-04-08**|null|
+|**2025-04-08**|**PRIMEDrive-CoT: A Precognitive Chain-of-Thought Framework for Uncertainty-Aware Object Interaction in Driving Scene Scenario**|Sriram Mandalika et.al.|[2504.05908v1](http://arxiv.org/abs/2504.05908v1)|**2025-04-08**|null|
+|**2025-04-08**|**UVG-VPC: Voxelized Point Cloud Dataset for Visual Volumetric Video-based Coding**|Guillaume Gautier et.al.|[2504.05888v1](http://arxiv.org/abs/2504.05888v1)|**2025-04-08**|null|
+|**2025-04-08**|**Jointly-optimized Trajectory Generation and Camera Control for 3D Coverage Planning**|Savvas Papaioannou et.al.|[2504.05887v1](http://arxiv.org/abs/2504.05887v1)|**2025-04-08**|null|
+|**2025-04-08**|**Rolling Horizon Coverage Control with Collaborative Autonomous Agents**|Savvas Papaioannou et.al.|[2504.05883v1](http://arxiv.org/abs/2504.05883v1)|**2025-04-08**|null|
+|**2025-04-08**|**Turin3D: Evaluating Adaptation Strategies under Label Scarcity in Urban LiDAR Segmentation with Semi-Supervised Techniques**|Luca Barco et.al.|[2504.05882v1](http://arxiv.org/abs/2504.05882v1)|**2025-04-08**|null|
+|**2025-04-08**|**Fast Sphericity and Roundness approximation in 2D and 3D using Local Thickness**|Pawel Tomasz Pieta et.al.|[2504.05808v1](http://arxiv.org/abs/2504.05808v1)|**2025-04-08**|null|
+|**2025-04-08**|**Space-averaged non-equilibrium Green's function approach for quantum transport in 3D**|Vahid Mosallanejad et.al.|[2504.05788v1](http://arxiv.org/abs/2504.05788v1)|**2025-04-08**|null|
+|**2025-04-08**|**How to Enable LLM with 3D Capacity? A Survey of Spatial Reasoning in LLM**|Jirong Zha et.al.|[2504.05786v1](http://arxiv.org/abs/2504.05786v1)|**2025-04-08**|null|
+|**2025-04-08**|**Kronecker scaling of tensors with applications to arithmetic circuits and algorithms**|Andreas Björklund et.al.|[2504.05772v1](http://arxiv.org/abs/2504.05772v1)|**2025-04-08**|null|
+|**2025-04-08**|**InvNeRF-Seg: Fine-Tuning a Pre-Trained NeRF for 3D Object Segmentation**|Jiangsan Zhao et.al.|[2504.05751v1](http://arxiv.org/abs/2504.05751v1)|**2025-04-08**|null|
+|**2025-04-08**|**Micro-splatting: Maximizing Isotropic Constraints for Refined Optimization in 3D Gaussian Splatting**|Jee Won Lee et.al.|[2504.05740v1](http://arxiv.org/abs/2504.05740v1)|**2025-04-08**|null|
+|**2025-04-08**|**SAP-CoPE: Social-Aware Planning using Cooperative Pose Estimation with Infrastructure Sensor Nodes**|Minghao Ning et.al.|[2504.05727v1](http://arxiv.org/abs/2504.05727v1)|**2025-04-08**|[link](https://github.com/HopeYless/SAP-CoPE-Project)|
+|**2025-04-08**|**QEMesh: Employing A Quadric Error Metrics-Based Representation for Mesh Generation**|Jiaqi Li et.al.|[2504.05720v1](http://arxiv.org/abs/2504.05720v1)|**2025-04-08**|null|
+|**2025-04-08**|**POMATO: Marrying Pointmap Matching with Temporal Motion for Dynamic 3D Reconstruction**|Songyan Zhang et.al.|[2504.05692v1](http://arxiv.org/abs/2504.05692v1)|**2025-04-08**|null|
+|**2025-04-08**|**POD: Predictive Object Detection with Single-Frame FMCW LiDAR Point Cloud**|Yining Shi et.al.|[2504.05649v1](http://arxiv.org/abs/2504.05649v1)|**2025-04-08**|null|
+|**2025-04-08**|**A Multi-Modal AI System for Screening Mammography: Integrating 2D and 3D Imaging to Improve Breast Cancer Detection in a Prospective Clinical Study**|Jungkyu Park et.al.|[2504.05636v1](http://arxiv.org/abs/2504.05636v1)|**2025-04-08**|null|
+|**2025-04-08**|**Maternal and Fetal Health Status Assessment by Using Machine Learning on Optical 3D Body Scans**|Ruting Cheng et.al.|[2504.05627v1](http://arxiv.org/abs/2504.05627v1)|**2025-04-08**|null|
+|**2025-04-08**|**PyTopo3D: A Python Framework for 3D SIMP-based Topology Optimization**|Jihoon Kim et.al.|[2504.05604v1](http://arxiv.org/abs/2504.05604v1)|**2025-04-08**|null|
