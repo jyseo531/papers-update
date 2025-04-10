@@ -7,7 +7,7 @@
 |**2025-04-08**|**Diagrammatic expansion for the mutual-information rate in the realm of limited statistics**|Tobias Kühn et.al.|[2504.06255v1](http://arxiv.org/abs/2504.06255v1)|**2025-04-08**|null|
 |**2025-04-08**|**HiFlow: Training-free High-Resolution Image Generation with Flow-Aligned Guidance**|Jiazi Bu et.al.|[2504.06232v1](http://arxiv.org/abs/2504.06232v1)|**2025-04-08**|null|
 |**2025-04-08**|**SOFIA/upGREAT imaging spectroscopy of the [C II] 158 um fine structure line toward the Sgr A region in the Galactic center**|A. I. Harris et.al.|[2504.06228v1](http://arxiv.org/abs/2504.06228v1)|**2025-04-08**|null|
-|**2025-04-08**|**Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation**|Xiaoxing Hu et.al.|[2504.06220v1](http://arxiv.org/abs/2504.06220v1)|**2025-04-08**|null|
+|**2025-04-08**|**Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation**|Xiaoxing Hu et.al.|[2504.06220v2](http://arxiv.org/abs/2504.06220v2)|**2025-04-09**|null|
 |**2025-04-08**|**An experimental survey and Perspective View on Meta-Learning for Automated Algorithms Selection and Parametrization**|Moncef Garouani et.al.|[2504.06207v1](http://arxiv.org/abs/2504.06207v1)|**2025-04-08**|null|
 |**2025-04-08**|**HRMedSeg: Unlocking High-resolution Medical Image segmentation via Memory-efficient Attention Modeling**|Qing Xu et.al.|[2504.06205v1](http://arxiv.org/abs/2504.06205v1)|**2025-04-08**|[link](https://github.com/xq141839/HRMedSeg)|
 |**2025-04-08**|**Positive 3-braids, Khovanov homology and Garside theory**|Álvaro Del Valle Vílchez et.al.|[2504.06194v1](http://arxiv.org/abs/2504.06194v1)|**2025-04-08**|null|
@@ -31,4 +31,4 @@
 |**2025-04-08**|**OSDM-MReg: Multimodal Image Registration based One Step Diffusion Model**|Xiaochen Wei et.al.|[2504.06027v1](http://arxiv.org/abs/2504.06027v1)|**2025-04-08**|null|
 |**2025-04-08**|**CamContextI2V: Context-aware Controllable Video Generation**|Luis Denninger et.al.|[2504.06022v1](http://arxiv.org/abs/2504.06022v1)|**2025-04-08**|null|
 |**2025-04-08**|**Memory-Modular Classification: Learning to Generalize with Memory Replacement**|Dahyun Kang et.al.|[2504.06021v1](http://arxiv.org/abs/2504.06021v1)|**2025-04-08**|null|
-|**2025-04-08**|**CAI: An Open, Bug Bounty-Ready Cybersecurity AI**|Víctor Mayoral-Vilches et.al.|[2504.06017v1](http://arxiv.org/abs/2504.06017v1)|**2025-04-08**|null|
+|**2025-04-08**|**CAI: An Open, Bug Bounty-Ready Cybersecurity AI**|Víctor Mayoral-Vilches et.al.|[2504.06017v2](http://arxiv.org/abs/2504.06017v2)|**2025-04-09**|null|

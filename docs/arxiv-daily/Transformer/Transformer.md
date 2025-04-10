@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-04-08**|**Realization and Calibration of Continuously Parameterized Two-Qubit Gates on a Trapped-Ion Quantum Processor**|Christopher G. Yale et.al.|[2504.06259v1](http://arxiv.org/abs/2504.06259v1)|**2025-04-08**|null|
 |**2025-04-08**|**Solving General QUBOs with Warm-Start QAOA via a Reduction to Max-Cut**|Bikrant Bhattachayra et.al.|[2504.06253v1](http://arxiv.org/abs/2504.06253v1)|**2025-04-08**|null|
-|**2025-04-08**|**Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation**|Xiaoxing Hu et.al.|[2504.06220v1](http://arxiv.org/abs/2504.06220v1)|**2025-04-08**|null|
+|**2025-04-08**|**Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation**|Xiaoxing Hu et.al.|[2504.06220v2](http://arxiv.org/abs/2504.06220v2)|**2025-04-09**|null|
 |**2025-04-08**|**NNN: Next-Generation Neural Networks for Marketing Mix Modeling**|Thomas Mulc et.al.|[2504.06212v1](http://arxiv.org/abs/2504.06212v1)|**2025-04-08**|null|
 |**2025-04-08**|**HRMedSeg: Unlocking High-resolution Medical Image segmentation via Memory-efficient Attention Modeling**|Qing Xu et.al.|[2504.06205v1](http://arxiv.org/abs/2504.06205v1)|**2025-04-08**|[link](https://github.com/xq141839/HRMedSeg)|
 |**2025-04-08**|**WoundAmbit: Bridging State-of-the-Art Semantic Segmentation and Real-World Wound Care**|Vanessa Borst et.al.|[2504.06185v1](http://arxiv.org/abs/2504.06185v1)|**2025-04-08**|null|

@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-04-08**|**GOLLuM: Gaussian Process Optimized LLMs -- Reframing LLM Finetuning through Bayesian Optimization**|Bojana Ranković et.al.|[2504.06265v1](http://arxiv.org/abs/2504.06265v1)|**2025-04-08**|null|
-|**2025-04-08**|**Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**|Gleb Rodionov et.al.|[2504.06261v1](http://arxiv.org/abs/2504.06261v1)|**2025-04-08**|null|
+|**2025-04-08**|**Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**|Gleb Rodionov et.al.|[2504.06261v2](http://arxiv.org/abs/2504.06261v2)|**2025-04-09**|null|
 |**2025-04-08**|**Transfer between Modalities with MetaQueries**|Xichen Pan et.al.|[2504.06256v1](http://arxiv.org/abs/2504.06256v1)|**2025-04-08**|null|
 |**2025-04-08**|**Fractal and Regular Geometry of Deep Neural Networks**|Simmaco Di Lillo et.al.|[2504.06250v1](http://arxiv.org/abs/2504.06250v1)|**2025-04-08**|null|
 |**2025-04-08**|**Electronic Structure Guided Inverse Design Using Generative Models**|Shuyi Jia et.al.|[2504.06249v1](http://arxiv.org/abs/2504.06249v1)|**2025-04-08**|null|
@@ -26,7 +26,7 @@
 |**2025-04-08**|**A Self-Supervised Framework for Space Object Behaviour Characterisation**|Ian Groves et.al.|[2504.06176v1](http://arxiv.org/abs/2504.06176v1)|**2025-04-08**|null|
 |**2025-04-08**|**Multi-Modality Sensing in mmWave Beamforming for Connected Vehicles Using Deep Learning**|Muhammad Baqer Mollah et.al.|[2504.06173v1](http://arxiv.org/abs/2504.06173v1)|**2025-04-08**|[link](https://github.com/mbaqer/V2X-mmWave-Beamforming)|
 |**2025-04-08**|**Assessing how hyperparameters impact Large Language Models' sarcasm detection performance**|Montgomery Gole et.al.|[2504.06166v1](http://arxiv.org/abs/2504.06166v1)|**2025-04-08**|null|
-|**2025-04-08**|**Navigating the Rabbit Hole: Emergent Biases in LLM-Generated Attack Narratives Targeting Mental Health Groups**|Rijul Magu et.al.|[2504.06160v1](http://arxiv.org/abs/2504.06160v1)|**2025-04-08**|null|
+|**2025-04-08**|**Navigating the Rabbit Hole: Emergent Biases in LLM-Generated Attack Narratives Targeting Mental Health Groups**|Rijul Magu et.al.|[2504.06160v2](http://arxiv.org/abs/2504.06160v2)|**2025-04-09**|null|
 |**2025-04-08**|**Enhancing Primary Teacher Training through Academic Portfolios in Advanced Mathematics Courses**|Carlos Rojas Bruna et.al.|[2504.06159v1](http://arxiv.org/abs/2504.06159v1)|**2025-04-08**|null|
 |**2025-04-08**|**Rethinking the Nested U-Net Approach: Enhancing Biomarker Segmentation with Attention Mechanisms and Multiscale Feature Fusion**|Saad Wazir et.al.|[2504.06158v1](http://arxiv.org/abs/2504.06158v1)|**2025-04-08**|[link](https://github.com/saadwazir/ReN-UNet)|
 |**2025-04-08**|**Hall Effect Thruster Forecasting using a Topological Approach for Data Assimilation**|Max M. Chumley et.al.|[2504.06157v1](http://arxiv.org/abs/2504.06157v1)|**2025-04-08**|null|

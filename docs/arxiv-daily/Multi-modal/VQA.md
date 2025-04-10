@@ -5,7 +5,7 @@
 |**2025-04-08**|**Constraining the [CII] luminosity function from the power spectrum of line intensity maps at redshift 3.6**|Elena Marcuzzo et.al.|[2504.06266v1](http://arxiv.org/abs/2504.06266v1)|**2025-04-08**|null|
 |**2025-04-08**|**Prethermalization of light and matter in cavity-coupled Rydberg arrays**|Aleksandr N. Mikheev et.al.|[2504.06267v1](http://arxiv.org/abs/2504.06267v1)|**2025-04-08**|null|
 |**2025-04-08**|**Paraxial fluids of light**|Quentin Glorieux et.al.|[2504.06262v1](http://arxiv.org/abs/2504.06262v1)|**2025-04-08**|null|
-|**2025-04-08**|**Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**|Gleb Rodionov et.al.|[2504.06261v1](http://arxiv.org/abs/2504.06261v1)|**2025-04-08**|null|
+|**2025-04-08**|**Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**|Gleb Rodionov et.al.|[2504.06261v2](http://arxiv.org/abs/2504.06261v2)|**2025-04-09**|null|
 |**2025-04-08**|**Decentralized Federated Domain Generalization with Style Sharing: A Formal Modeling and Convergence Analysis**|Shahryar Zehtabi et.al.|[2504.06235v1](http://arxiv.org/abs/2504.06235v1)|**2025-04-08**|null|
 |**2025-04-08**|**On the homology of special unitary groups over polynomial rings**|Claudio Bravo et.al.|[2504.06233v1](http://arxiv.org/abs/2504.06233v1)|**2025-04-08**|null|
 |**2025-04-08**|**Encoder-Decoder Gemma: Improving the Quality-Efficiency Trade-Off via Adaptation**|Biao Zhang et.al.|[2504.06225v1](http://arxiv.org/abs/2504.06225v1)|**2025-04-08**|null|
@@ -23,7 +23,7 @@
 |**2025-04-08**|**FaceCloak: Learning to Protect Face Templates**|Sudipta Banerjee et.al.|[2504.06131v1](http://arxiv.org/abs/2504.06131v1)|**2025-04-08**|null|
 |**2025-04-08**|**Characterizing direct and indirect causal effects when outcomes are dependent due to treatment spillover and outcome spillover**|Subhankar Bhadra et.al.|[2504.06108v1](http://arxiv.org/abs/2504.06108v1)|**2025-04-08**|null|
 |**2025-04-08**|**Semilinear Heat Equations in Morse-Transue Spaces and Nonlinearities of Rapid Growth**|Yohei Fujishima et.al.|[2504.06104v1](http://arxiv.org/abs/2504.06104v1)|**2025-04-08**|null|
-|**2025-04-08**|**Symbol Frequencies in Surjective Cellular Automata**|Benjamin Hellouin de Menibus et.al.|[2504.06058v1](http://arxiv.org/abs/2504.06058v1)|**2025-04-08**|null|
+|**2025-04-08**|**Symbol Frequencies in Surjective Cellular Automata**|Benjamin Hellouin de Menibus et.al.|[2504.06058v2](http://arxiv.org/abs/2504.06058v2)|**2025-04-09**|null|
 |**2025-04-08**|**Trust-Region Twisted Policy Improvement**|Joery A. de Vries et.al.|[2504.06048v1](http://arxiv.org/abs/2504.06048v1)|**2025-04-08**|null|
 |**2025-04-08**|**Enhanced Anomaly Detection for Capsule Endoscopy Using Ensemble Learning Strategies**|Julia Werner et.al.|[2504.06039v1](http://arxiv.org/abs/2504.06039v1)|**2025-04-08**|null|
 |**2025-04-08**|**Multi-Sense Embeddings for Language Models and Knowledge Distillation**|Qitong Wang et.al.|[2504.06036v1](http://arxiv.org/abs/2504.06036v1)|**2025-04-08**|null|

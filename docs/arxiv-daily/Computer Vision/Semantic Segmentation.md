@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-04-08**|**SOFIA/upGREAT imaging spectroscopy of the [C II] 158 um fine structure line toward the Sgr A region in the Galactic center**|A. I. Harris et.al.|[2504.06228v1](http://arxiv.org/abs/2504.06228v1)|**2025-04-08**|null|
 |**2025-04-08**|**LExT: Towards Evaluating Trustworthiness of Natural Language Explanations**|Krithi Shailya et.al.|[2504.06227v1](http://arxiv.org/abs/2504.06227v1)|**2025-04-08**|null|
-|**2025-04-08**|**Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation**|Xiaoxing Hu et.al.|[2504.06220v1](http://arxiv.org/abs/2504.06220v1)|**2025-04-08**|null|
+|**2025-04-08**|**Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation**|Xiaoxing Hu et.al.|[2504.06220v2](http://arxiv.org/abs/2504.06220v2)|**2025-04-09**|null|
 |**2025-04-08**|**HRMedSeg: Unlocking High-resolution Medical Image segmentation via Memory-efficient Attention Modeling**|Qing Xu et.al.|[2504.06205v1](http://arxiv.org/abs/2504.06205v1)|**2025-04-08**|[link](https://github.com/xq141839/HRMedSeg)|
 |**2025-04-08**|**WoundAmbit: Bridging State-of-the-Art Semantic Segmentation and Real-World Wound Care**|Vanessa Borst et.al.|[2504.06185v1](http://arxiv.org/abs/2504.06185v1)|**2025-04-08**|null|
 |**2025-04-08**|**Rethinking the Nested U-Net Approach: Enhancing Biomarker Segmentation with Attention Mechanisms and Multiscale Feature Fusion**|Saad Wazir et.al.|[2504.06158v1](http://arxiv.org/abs/2504.06158v1)|**2025-04-08**|[link](https://github.com/saadwazir/ReN-UNet)|
@@ -28,7 +28,7 @@
 |**2025-04-08**|**Transferable Mask Transformer: Cross-domain Semantic Segmentation with Region-adaptive Transferability Estimation**|Enming Zhang et.al.|[2504.05774v1](http://arxiv.org/abs/2504.05774v1)|**2025-04-08**|null|
 |**2025-04-08**|**A Lightweight Multi-Module Fusion Approach for Korean Character Recognition**|Inho Jake Park et.al.|[2504.05770v1](http://arxiv.org/abs/2504.05770v1)|**2025-04-08**|null|
 |**2025-04-08**|**InvNeRF-Seg: Fine-Tuning a Pre-Trained NeRF for 3D Object Segmentation**|Jiangsan Zhao et.al.|[2504.05751v1](http://arxiv.org/abs/2504.05751v1)|**2025-04-08**|null|
-|**2025-04-08**|**DDT: Decoupled Diffusion Transformer**|Shuai Wang et.al.|[2504.05741v1](http://arxiv.org/abs/2504.05741v1)|**2025-04-08**|null|
+|**2025-04-08**|**DDT: Decoupled Diffusion Transformer**|Shuai Wang et.al.|[2504.05741v2](http://arxiv.org/abs/2504.05741v2)|**2025-04-09**|null|
 |**2025-04-08**|**Unified Generative Search and Recommendation**|Teng Shi et.al.|[2504.05730v1](http://arxiv.org/abs/2504.05730v1)|**2025-04-08**|null|
 |**2025-04-08**|**How I Learned to Stop Worrying and Love ChatGPT**|Piotr Przymus et.al.|[2504.05712v1](http://arxiv.org/abs/2504.05712v1)|**2025-04-08**|null|
 |**2025-04-08**|**Pose-Aware Weakly-Supervised Action Segmentation**|Seth Z. Zhao et.al.|[2504.05700v1](http://arxiv.org/abs/2504.05700v1)|**2025-04-08**|null|

@@ -21,7 +21,7 @@
 |**2025-04-08**|**Multi-Modality Sensing in mmWave Beamforming for Connected Vehicles Using Deep Learning**|Muhammad Baqer Mollah et.al.|[2504.06173v1](http://arxiv.org/abs/2504.06173v1)|**2025-04-08**|[link](https://github.com/mbaqer/V2X-mmWave-Beamforming)|
 |**2025-04-08**|**Linear Regulator-Based Synchronization of Positive Multi-Agent Systems**|Alba Gurpegui et.al.|[2504.06169v1](http://arxiv.org/abs/2504.06169v1)|**2025-04-08**|null|
 |**2025-04-08**|**Real-Time Pitch/F0 Detection Using Spectrogram Images and Convolutional Neural Networks**|Xufang Zhao et.al.|[2504.06165v1](http://arxiv.org/abs/2504.06165v1)|**2025-04-08**|null|
-|**2025-04-08**|**Navigating the Rabbit Hole: Emergent Biases in LLM-Generated Attack Narratives Targeting Mental Health Groups**|Rijul Magu et.al.|[2504.06160v1](http://arxiv.org/abs/2504.06160v1)|**2025-04-08**|null|
+|**2025-04-08**|**Navigating the Rabbit Hole: Emergent Biases in LLM-Generated Attack Narratives Targeting Mental Health Groups**|Rijul Magu et.al.|[2504.06160v2](http://arxiv.org/abs/2504.06160v2)|**2025-04-09**|null|
 |**2025-04-08**|**Hall Effect Thruster Forecasting using a Topological Approach for Data Assimilation**|Max M. Chumley et.al.|[2504.06157v1](http://arxiv.org/abs/2504.06157v1)|**2025-04-08**|null|
 |**2025-04-08**|**A Large-Scale Analysis on Contextual Self-Supervised Video Representation Learning**|Akash Kumar et.al.|[2504.06153v1](http://arxiv.org/abs/2504.06153v1)|**2025-04-08**|null|
 |**2025-04-08**|**Decentralizing AI Memory: SHIMI, a Semantic Hierarchical Memory Index for Scalable Agent Reasoning**|Tooraj Helmi et.al.|[2504.06135v1](http://arxiv.org/abs/2504.06135v1)|**2025-04-08**|null|
@@ -29,6 +29,6 @@
 |**2025-04-08**|**FaceCloak: Learning to Protect Face Templates**|Sudipta Banerjee et.al.|[2504.06131v1](http://arxiv.org/abs/2504.06131v1)|**2025-04-08**|null|
 |**2025-04-08**|**Knowledge Graph Completion with Relation-Aware Anchor Enhancement**|Duanyang Yuan et.al.|[2504.06129v1](http://arxiv.org/abs/2504.06129v1)|**2025-04-08**|null|
 |**2025-04-08**|**Accelerating Vehicle Routing via AI-Initialized Genetic Algorithms**|Ido Greenberg et.al.|[2504.06126v1](http://arxiv.org/abs/2504.06126v1)|**2025-04-08**|null|
-|**2025-04-08**|**Robo-taxi Fleet Coordination at Scale via Reinforcement Learning**|Luigi Tresca et.al.|[2504.06125v1](http://arxiv.org/abs/2504.06125v1)|**2025-04-08**|null|
+|**2025-04-08**|**Robo-taxi Fleet Coordination at Scale via Reinforcement Learning**|Luigi Tresca et.al.|[2504.06125v2](http://arxiv.org/abs/2504.06125v2)|**2025-04-09**|null|
 |**2025-04-08**|**A Robust Real-Time Lane Detection Method with Fog-Enhanced Feature Fusion for Foggy Conditions**|Ronghui Zhang et.al.|[2504.06121v1](http://arxiv.org/abs/2504.06121v1)|**2025-04-08**|null|
 |**2025-04-08**|**Hyperbolic Category Discovery**|Yuanpei Liu et.al.|[2504.06120v1](http://arxiv.org/abs/2504.06120v1)|**2025-04-08**|null|

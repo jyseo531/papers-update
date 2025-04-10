@@ -10,7 +10,7 @@
 |**2025-04-08**|**Solving General QUBOs with Warm-Start QAOA via a Reduction to Max-Cut**|Bikrant Bhattachayra et.al.|[2504.06253v1](http://arxiv.org/abs/2504.06253v1)|**2025-04-08**|null|
 |**2025-04-08**|**Monitoring Viewer Attention During Online Ads**|Mina Bishay et.al.|[2504.06237v1](http://arxiv.org/abs/2504.06237v1)|**2025-04-08**|null|
 |**2025-04-08**|**HiFlow: Training-free High-Resolution Image Generation with Flow-Aligned Guidance**|Jiazi Bu et.al.|[2504.06232v1](http://arxiv.org/abs/2504.06232v1)|**2025-04-08**|null|
-|**2025-04-08**|**Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation**|Xiaoxing Hu et.al.|[2504.06220v1](http://arxiv.org/abs/2504.06220v1)|**2025-04-08**|null|
+|**2025-04-08**|**Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation**|Xiaoxing Hu et.al.|[2504.06220v2](http://arxiv.org/abs/2504.06220v2)|**2025-04-09**|null|
 |**2025-04-08**|**NNN: Next-Generation Neural Networks for Marketing Mix Modeling**|Thomas Mulc et.al.|[2504.06212v1](http://arxiv.org/abs/2504.06212v1)|**2025-04-08**|null|
 |**2025-04-08**|**HiMoR: Monocular Deformable Gaussian Reconstruction with Hierarchical Motion Representation**|Yiming Liang et.al.|[2504.06210v1](http://arxiv.org/abs/2504.06210v1)|**2025-04-08**|null|
 |**2025-04-08**|**HRMedSeg: Unlocking High-resolution Medical Image segmentation via Memory-efficient Attention Modeling**|Qing Xu et.al.|[2504.06205v1](http://arxiv.org/abs/2504.06205v1)|**2025-04-08**|[link](https://github.com/xq141839/HRMedSeg)|

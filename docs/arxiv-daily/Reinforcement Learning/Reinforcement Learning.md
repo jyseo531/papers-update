@@ -6,8 +6,8 @@
 |**2025-04-08**|**Adversarial Training of Reward Models**|Alexander Bukharin et.al.|[2504.06141v1](http://arxiv.org/abs/2504.06141v1)|**2025-04-08**|null|
 |**2025-04-08**|**A Multimedia Analytics Model for the Foundation Model Era**|Marcel Worring et.al.|[2504.06138v1](http://arxiv.org/abs/2504.06138v1)|**2025-04-08**|null|
 |**2025-04-08**|**Accelerating Vehicle Routing via AI-Initialized Genetic Algorithms**|Ido Greenberg et.al.|[2504.06126v1](http://arxiv.org/abs/2504.06126v1)|**2025-04-08**|null|
-|**2025-04-08**|**Robo-taxi Fleet Coordination at Scale via Reinforcement Learning**|Luigi Tresca et.al.|[2504.06125v1](http://arxiv.org/abs/2504.06125v1)|**2025-04-08**|null|
-|**2025-04-08**|**Leanabell-Prover: Posttraining Scaling in Formal Reasoning**|Jingyuan Zhang et.al.|[2504.06122v1](http://arxiv.org/abs/2504.06122v1)|**2025-04-08**|null|
+|**2025-04-08**|**Robo-taxi Fleet Coordination at Scale via Reinforcement Learning**|Luigi Tresca et.al.|[2504.06125v2](http://arxiv.org/abs/2504.06125v2)|**2025-04-09**|null|
+|**2025-04-08**|**Leanabell-Prover: Posttraining Scaling in Formal Reasoning**|Jingyuan Zhang et.al.|[2504.06122v2](http://arxiv.org/abs/2504.06122v2)|**2025-04-09**|null|
 |**2025-04-08**|**Co-evolution of cooperation and resource allocation in the advantageous environment-based spatial multi-game using adaptive control**|Chengbin Sun et.al.|[2504.06112v1](http://arxiv.org/abs/2504.06112v1)|**2025-04-08**|null|
 |**2025-04-08**|**On the Dynamics of Mating Preferences in Genetic Programming**|José Maria Simões et.al.|[2504.06110v1](http://arxiv.org/abs/2504.06110v1)|**2025-04-08**|null|
 |**2025-04-08**|**Trust-Region Twisted Policy Improvement**|Joery A. de Vries et.al.|[2504.06048v1](http://arxiv.org/abs/2504.06048v1)|**2025-04-08**|null|

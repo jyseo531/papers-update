@@ -12,7 +12,7 @@
 |**2025-04-08**|**Human Activity Recognition using RGB-Event based Sensors: A Multi-modal Heat Conduction Model and A Benchmark Dataset**|Shiao Wang et.al.|[2504.05830v1](http://arxiv.org/abs/2504.05830v1)|**2025-04-08**|null|
 |**2025-04-08**|**SE4Lip: Speech-Lip Encoder for Talking Head Synthesis to Solve Phoneme-Viseme Alignment Ambiguity**|Yihuan Huang et.al.|[2504.05803v1](http://arxiv.org/abs/2504.05803v1)|**2025-04-08**|null|
 |**2025-04-08**|**Storybooth: Training-free Multi-Subject Consistency for Improved Visual Storytelling**|Jaskirat Singh et.al.|[2504.05800v1](http://arxiv.org/abs/2504.05800v1)|**2025-04-08**|null|
-|**2025-04-08**|**Robust Fusion Controller: Degradation-aware Image Fusion with Fine-grained Language Instructions**|Hao Zhang et.al.|[2504.05795v1](http://arxiv.org/abs/2504.05795v1)|**2025-04-08**|null|
+|**2025-04-08**|**Robust Fusion Controller: Degradation-aware Image Fusion with Fine-grained Language Instructions**|Hao Zhang et.al.|[2504.05795v2](http://arxiv.org/abs/2504.05795v2)|**2025-04-09**|null|
 |**2025-04-08**|**How to Enable LLM with 3D Capacity? A Survey of Spatial Reasoning in LLM**|Jirong Zha et.al.|[2504.05786v1](http://arxiv.org/abs/2504.05786v1)|**2025-04-08**|null|
 |**2025-04-08**|**When Less Is More: A Sparse Facial Motion Structure For Listening Motion Learning**|Tri Tung Nguyen Nguyen et.al.|[2504.05748v1](http://arxiv.org/abs/2504.05748v1)|**2025-04-08**|null|
 |**2025-04-08**|**VC-LLM: Automated Advertisement Video Creation from Raw Footage using Multi-modal LLMs**|Dongjun Qian et.al.|[2504.05673v1](http://arxiv.org/abs/2504.05673v1)|**2025-04-08**|null|

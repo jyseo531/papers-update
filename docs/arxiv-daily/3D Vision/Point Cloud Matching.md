@@ -28,7 +28,7 @@
 |**2025-04-08**|**Geometric Bipartite Matching Based Exact Algorithms for Server Problems**|Sharath Raghvendra et.al.|[2504.06079v1](http://arxiv.org/abs/2504.06079v1)|**2025-04-08**|null|
 |**2025-04-08**|**Black hole quasinormal mode resonances**|Yiqiu Yang et.al.|[2504.06072v1](http://arxiv.org/abs/2504.06072v1)|**2025-04-08**|null|
 |**2025-04-08**|**Physics-Constrained Neural Network for Metasurface Optical Response Prediction**|Hanieh Masoudian Saadabad et.al.|[2504.06069v1](http://arxiv.org/abs/2504.06069v1)|**2025-04-08**|null|
-|**2025-04-08**|**Symbol Frequencies in Surjective Cellular Automata**|Benjamin Hellouin de Menibus et.al.|[2504.06058v1](http://arxiv.org/abs/2504.06058v1)|**2025-04-08**|null|
+|**2025-04-08**|**Symbol Frequencies in Surjective Cellular Automata**|Benjamin Hellouin de Menibus et.al.|[2504.06058v2](http://arxiv.org/abs/2504.06058v2)|**2025-04-09**|null|
 |**2025-04-08**|**A data-driven convergence booster for accelerating and stabilizing pseudo time-stepping**|Xukun Wang et.al.|[2504.06051v1](http://arxiv.org/abs/2504.06051v1)|**2025-04-08**|null|
 |**2025-04-08**|**An Adaptive Algorithm for Bilevel Optimization on Riemannian Manifolds**|Xu Shi et.al.|[2504.06042v1](http://arxiv.org/abs/2504.06042v1)|**2025-04-08**|null|
 |**2025-04-08**|**Unimodular Waveform Design that Minimizes PSL of Ambiguity Function over A Continuous Doppler Frequency Shift Region of Interest**|Weiting Lin et.al.|[2504.06038v1](http://arxiv.org/abs/2504.06038v1)|**2025-04-08**|null|
