@@ -2,33 +2,33 @@
 ### Robotics
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-10**|**Echo: An Open-Source, Low-Cost Teleoperation System with Force Feedback for Dataset Collection in Robot Learning**|Artem Bazhenov et.al.|[2504.07939v1](http://arxiv.org/abs/2504.07939v1)|**2025-04-10**|null|
+|**2025-04-10**|**Fast Adaptation with Behavioral Foundation Models**|Harshit Sikchi et.al.|[2504.07896v1](http://arxiv.org/abs/2504.07896v1)|**2025-04-10**|null|
+|**2025-04-10**|**Experimental Analysis of Quadcopter Drone Hover Constraints for Localization Improvements**|Uthman Olawoye et.al.|[2504.07843v1](http://arxiv.org/abs/2504.07843v1)|**2025-04-10**|null|
+|**2025-04-10**|**Cable Optimization and Drag Estimation for Tether-Powered Multirotor UAVs**|Max Beffert et.al.|[2504.07802v1](http://arxiv.org/abs/2504.07802v1)|**2025-04-10**|null|
+|**2025-04-10**|**TOCALib: Optimal control library with interpolation for bimanual manipulation and obstacles avoidance**|Yulia Danik et.al.|[2504.07708v1](http://arxiv.org/abs/2504.07708v1)|**2025-04-10**|null|
+|**2025-04-10**|**Transformer-Based Robust Underwater Inertial Navigation in Prolonged Doppler Velocity Log Outages**|Zeev Yampolsky et.al.|[2504.07697v1](http://arxiv.org/abs/2504.07697v1)|**2025-04-10**|null|
+|**2025-04-10**|**Sim-to-Real Transfer in Reinforcement Learning for Maneuver Control of a Variable-Pitch MAV**|Zhikun Wang et.al.|[2504.07694v1](http://arxiv.org/abs/2504.07694v1)|**2025-04-10**|null|
+|**2025-04-10**|**Localization Meets Uncertainty: Uncertainty-Aware Multi-Modal Localization**|Hye-Min Won et.al.|[2504.07677v1](http://arxiv.org/abs/2504.07677v1)|**2025-04-10**|null|
+|**2025-04-10**|**UWB Anchor Based Localization of a Planetary Rover**|Andreas Nüchter et.al.|[2504.07658v1](http://arxiv.org/abs/2504.07658v1)|**2025-04-10**|null|
+|**2025-04-10**|**Joint Travel Route Optimization Framework for Platooning**|Akif Adas et.al.|[2504.07623v1](http://arxiv.org/abs/2504.07623v1)|**2025-04-10**|null|
+|**2025-04-10**|**Learning Long Short-Term Intention within Human Daily Behaviors**|Zhe Sun et.al.|[2504.07597v1](http://arxiv.org/abs/2504.07597v1)|**2025-04-10**|null|
+|**2025-04-10**|**Efficient Swept Volume-Based Trajectory Generation for Arbitrary-Shaped Ground Robot Navigation**|Yisheng Li et.al.|[2504.07554v1](http://arxiv.org/abs/2504.07554v1)|**2025-04-10**|null|
+|**2025-04-10**|**Drive in Corridors: Enhancing the Safety of End-to-end Autonomous Driving via Corridor Learning and Planning**|Zhiwei Zhang et.al.|[2504.07507v1](http://arxiv.org/abs/2504.07507v1)|**2025-04-10**|null|
+|**2025-04-10**|**Personalized and Demand-Based Education Concept: Practical Tools for Control Engineers**|Balint Varga et.al.|[2504.07466v1](http://arxiv.org/abs/2504.07466v1)|**2025-04-10**|null|
+|**2025-04-10**|**ThermoStereoRT: Thermal Stereo Matching in Real Time via Knowledge Distillation and Attention-based Refinement**|Anning Hu et.al.|[2504.07418v1](http://arxiv.org/abs/2504.07418v1)|**2025-04-10**|null|
+|**2025-04-10**|**Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction**|Junyi Ma et.al.|[2504.07375v1](http://arxiv.org/abs/2504.07375v1)|**2025-04-10**|null|
+|**2025-04-09**|**Adaptive Vision-Guided Robotic Arm Control for Precision Pruning in Dynamic Orchard Environments**|Dawood Ahmed et.al.|[2504.07309v1](http://arxiv.org/abs/2504.07309v1)|**2025-04-09**|null|
+|**2025-04-09**|**Data-Enabled Neighboring Extremal: Case Study on Model-Free Trajectory Tracking for Robotic Arm**|Amin Vahidi-Moghaddam et.al.|[2504.07292v1](http://arxiv.org/abs/2504.07292v1)|**2025-04-09**|null|
+|**2025-04-09**|**Bridging Deep Reinforcement Learning and Motion Planning for Model-Free Navigation in Cluttered Environments**|Licheng Luo et.al.|[2504.07283v1](http://arxiv.org/abs/2504.07283v1)|**2025-04-09**|null|
+|**2025-04-09**|**Expectations, Explanations, and Embodiment: Attempts at Robot Failure Recovery**|Elmira Yadollahi et.al.|[2504.07266v1](http://arxiv.org/abs/2504.07266v1)|**2025-04-09**|null|
+|**2025-04-09**|**Analysis of the Unscented Transform for Cooperative Localization with Ranging-Only Information**|Uthman Olawoye et.al.|[2504.07242v1](http://arxiv.org/abs/2504.07242v1)|**2025-04-09**|null|
+|**2025-04-09**|**A Pointcloud Registration Framework for Relocalization in Subterranean Environments**|David Akhihiero et.al.|[2504.07231v1](http://arxiv.org/abs/2504.07231v1)|**2025-04-09**|null|
 |**2025-04-09**|**Neural Motion Simulator: Pushing the Limit of World Models in Reinforcement Learning**|Chenjie Hao et.al.|[2504.07095v1](http://arxiv.org/abs/2504.07095v1)|**2025-04-09**|null|
 |**2025-04-09**|**FlashDepth: Real-time Streaming Video Depth Estimation at 2K Resolution**|Gene Chou et.al.|[2504.07093v1](http://arxiv.org/abs/2504.07093v1)|**2025-04-09**|null|
+|**2025-04-09**|**Multi-Object Tracking for Collision Avoidance Using Multiple Cameras in Open RAN Networks**|Jordi Serra et.al.|[2504.07163v1](http://arxiv.org/abs/2504.07163v1)|**2025-04-09**|null|
 |**2025-04-09**|**UAV Position Estimation using a LiDAR-based 3D Object Detection Method**|Uthman Olawoye et.al.|[2504.07028v1](http://arxiv.org/abs/2504.07028v1)|**2025-04-09**|null|
 |**2025-04-09**|**Leveraging GCN-based Action Recognition for Teleoperation in Daily Activity Assistance**|Thomas M. Kwok et.al.|[2504.07001v1](http://arxiv.org/abs/2504.07001v1)|**2025-04-09**|null|
 |**2025-04-09**|**RayFronts: Open-Set Semantic Ray Frontiers for Online Scene Understanding and Exploration**|Omar Alama et.al.|[2504.06994v1](http://arxiv.org/abs/2504.06994v1)|**2025-04-09**|null|
 |**2025-04-09**|**Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation**|Yu Qi et.al.|[2504.06961v1](http://arxiv.org/abs/2504.06961v1)|**2025-04-09**|null|
 |**2025-04-09**|**GraspClutter6D: A Large-scale Real-world Dataset for Robust Perception and Grasping in Cluttered Scenes**|Seunghyeok Back et.al.|[2504.06866v1](http://arxiv.org/abs/2504.06866v1)|**2025-04-09**|null|
-|**2025-04-09**|**Developing Modular Grasping and Manipulation Pipeline Infrastructure to Streamline Performance Benchmarking**|Brian Flynn et.al.|[2504.06819v1](http://arxiv.org/abs/2504.06819v1)|**2025-04-09**|null|
-|**2025-04-09**|**Towards Efficient Roadside LiDAR Deployment: A Fast Surrogate Metric Based on Entropy-Guided Visibility**|Yuze Jiang et.al.|[2504.06772v1](http://arxiv.org/abs/2504.06772v1)|**2025-04-09**|null|
-|**2025-04-09**|**Adaptive Human-Robot Collaborative Missions using Hybrid Task Planning**|Gricel Vázquez et.al.|[2504.06746v1](http://arxiv.org/abs/2504.06746v1)|**2025-04-09**|null|
-|**2025-04-09**|**Interactive Expressive Motion Generation Using Dynamic Movement Primitives**|Till Hielscher et.al.|[2504.06735v1](http://arxiv.org/abs/2504.06735v1)|**2025-04-09**|null|
-|**2025-04-09**|**Learning global control of underactuated systems with Model-Based Reinforcement Learning**|Niccolò Turcato et.al.|[2504.06721v1](http://arxiv.org/abs/2504.06721v1)|**2025-04-09**|null|
-|**2025-04-09**|**Ice-Breakers, Turn-Takers and Fun-Makers: Exploring Robots for Groups with Teenagers**|Sarah Gillet et.al.|[2504.06718v1](http://arxiv.org/abs/2504.06718v1)|**2025-04-09**|null|
-|**2025-04-09**|**GSta: Efficient Training Scheme with Siestaed Gaussians for Monocular 3D Scene Reconstruction**|Anil Armagan et.al.|[2504.06716v1](http://arxiv.org/abs/2504.06716v1)|**2025-04-09**|null|
-|**2025-04-09**|**SDHN: Skewness-Driven Hypergraph Networks for Enhanced Localized Multi-Robot Coordination**|Delin Zhao et.al.|[2504.06684v1](http://arxiv.org/abs/2504.06684v1)|**2025-04-09**|null|
-|**2025-04-09**|**Setup-Invariant Augmented Reality for Teaching by Demonstration with Surgical Robots**|Alexandre Banks et.al.|[2504.06677v1](http://arxiv.org/abs/2504.06677v1)|**2025-04-09**|null|
-|**2025-04-09**|**Dynamic Residual Safe Reinforcement Learning for Multi-Agent Safety-Critical Scenarios Decision-Making**|Kaifeng Wang et.al.|[2504.06670v1](http://arxiv.org/abs/2504.06670v1)|**2025-04-09**|null|
-|**2025-04-09**|**RAMBO: RL-augmented Model-based Optimal Control for Whole-body Loco-manipulation**|Jin Cheng et.al.|[2504.06662v1](http://arxiv.org/abs/2504.06662v1)|**2025-04-09**|null|
-|**2025-04-09**|**Domain-Conditioned Scene Graphs for State-Grounded Task Planning**|Jonas Herzog et.al.|[2504.06661v1](http://arxiv.org/abs/2504.06661v1)|**2025-04-09**|null|
-|**2025-04-09**|**Collision avoidance from monocular vision trained with novel view synthesis**|Valentin Tordjman--Levavasseur et.al.|[2504.06651v1](http://arxiv.org/abs/2504.06651v1)|**2025-04-09**|null|
-|**2025-04-09**|**Design and use of devices to assist movement of the upper limb: review of the literature**|Charlotte Le Goff et.al.|[2504.06640v1](http://arxiv.org/abs/2504.06640v1)|**2025-04-09**|null|
-|**2025-04-09**|**Overcoming Dynamic Environments: A Hybrid Approach to Motion Planning for Manipulators**|Ho Minh Quang Ngo et.al.|[2504.06596v1](http://arxiv.org/abs/2504.06596v1)|**2025-04-09**|null|
-|**2025-04-09**|**A Multi-Modal Interaction Framework for Efficient Human-Robot Collaborative Shelf Picking**|Abhinav Pathak et.al.|[2504.06593v1](http://arxiv.org/abs/2504.06593v1)|**2025-04-09**|null|
-|**2025-04-09**|**Sim-to-Real of Humanoid Locomotion Policies via Joint Torque Space Perturbation Injection**|Woohyun Cha et.al.|[2504.06585v1](http://arxiv.org/abs/2504.06585v1)|**2025-04-09**|null|
-|**2025-04-09**|**CAFE-AD: Cross-Scenario Adaptive Feature Enhancement for Trajectory Planning in Autonomous Driving**|Junrui Zhang et.al.|[2504.06584v1](http://arxiv.org/abs/2504.06584v1)|**2025-04-09**|null|
-|**2025-04-09**|**ASHiTA: Automatic Scene-grounded HIerarchical Task Analysis**|Yun Chang et.al.|[2504.06553v2](http://arxiv.org/abs/2504.06553v2)|**2025-04-10**|null|
-|**2025-04-09**|**OPAL: Encoding Causal Understanding of Physical Systems for Robot Learning**|Daniel Tcheurekdjian et.al.|[2504.06538v1](http://arxiv.org/abs/2504.06538v1)|**2025-04-09**|null|
-|**2025-04-09**|**Controller Distillation Reduces Fragile Brain-Body Co-Adaptation and Enables Migrations in MAP-Elites**|Alican Mertan et.al.|[2504.06523v1](http://arxiv.org/abs/2504.06523v1)|**2025-04-09**|null|
-|**2025-04-09**|**Safe Navigation in Uncertain Crowded Environments Using Risk Adaptive CVaR Barrier Functions**|Xinyi Wang et.al.|[2504.06513v1](http://arxiv.org/abs/2504.06513v1)|**2025-04-09**|null|
-|**2025-04-09**|**Data-driven Fuzzy Control for Time-Optimal Aggressive Trajectory Following**|August Phelps et.al.|[2504.06500v1](http://arxiv.org/abs/2504.06500v1)|**2025-04-09**|null|

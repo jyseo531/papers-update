@@ -2,33 +2,33 @@
 ### Point Cloud Matching
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-09**|**Nonhermitian topological zero modes at smooth domain walls: Exact solutions**|Pasquale Marra et.al.|[2504.07098v1](http://arxiv.org/abs/2504.07098v1)|**2025-04-09**|null|
-|**2025-04-09**|**OLMoTrace: Tracing Language Model Outputs Back to Trillions of Training Tokens**|Jiacheng Liu et.al.|[2504.07096v1](http://arxiv.org/abs/2504.07096v1)|**2025-04-09**|null|
-|**2025-04-09**|**Computing Canonical Averages with Quantum and Classical Optimizers: Thermodynamic Reweighting for QUBO Models of Physical Systems**|Francesco Slongo et.al.|[2504.07094v1](http://arxiv.org/abs/2504.07094v1)|**2025-04-09**|null|
-|**2025-04-09**|**A geometric ensemble method for Bayesian inference**|Andrey A Popov et.al.|[2504.07084v1](http://arxiv.org/abs/2504.07084v1)|**2025-04-09**|null|
-|**2025-04-09**|**Self-Steering Language Models**|Gabriel Grand et.al.|[2504.07081v1](http://arxiv.org/abs/2504.07081v1)|**2025-04-09**|null|
-|**2025-04-09**|**New empirical mass-loss recipe for UV radiation line-driven winds of hot stars across various metallicities**|D. Pauli et.al.|[2504.07073v1](http://arxiv.org/abs/2504.07073v1)|**2025-04-09**|null|
-|**2025-04-09**|**Enhancing Downstream Analysis in Genome Sequencing: Species Classification While Basecalling**|Riselda Kodra et.al.|[2504.07065v1](http://arxiv.org/abs/2504.07065v1)|**2025-04-09**|null|
-|**2025-04-09**|**Teaching pathology foundation models to accurately predict gene expression with parameter efficient knowledge transfer**|Shi Pan et.al.|[2504.07061v1](http://arxiv.org/abs/2504.07061v1)|**2025-04-09**|null|
-|**2025-04-09**|**Substantial Diel Changes of Cloud Adjustments to Aerosols in Ship-tracks**|Tianle Yuan et.al.|[2504.07057v1](http://arxiv.org/abs/2504.07057v1)|**2025-04-09**|null|
-|**2025-04-09**|**A Unified Agentic Framework for Evaluating Conditional Image Generation**|Jifang Wang et.al.|[2504.07046v1](http://arxiv.org/abs/2504.07046v1)|**2025-04-09**|null|
-|**2025-04-09**|**Buffer Centering for bittide Synchronization via Frame Rotation**|Sanjay Lall et.al.|[2504.07044v1](http://arxiv.org/abs/2504.07044v1)|**2025-04-09**|null|
-|**2025-04-09**|**BIA Transmission in Rate Splitting-based Optical Wireless Networks**|Ahmad Adnan Qidan et.al.|[2504.07043v1](http://arxiv.org/abs/2504.07043v1)|**2025-04-09**|null|
-|**2025-04-09**|**Efficient Storage Integrity in Adversarial Settings**|Quinn Burke et.al.|[2504.07041v1](http://arxiv.org/abs/2504.07041v1)|**2025-04-09**|null|
-|**2025-04-09**|**UAV Position Estimation using a LiDAR-based 3D Object Detection Method**|Uthman Olawoye et.al.|[2504.07028v1](http://arxiv.org/abs/2504.07028v1)|**2025-04-09**|null|
-|**2025-04-09**|**Computably discrete represented spaces**|Eike Neumann et.al.|[2504.07020v1](http://arxiv.org/abs/2504.07020v1)|**2025-04-09**|null|
-|**2025-04-09**|**Non-Hermitian Numerical Renormalization Group: Solution of the non-Hermitian Kondo model**|Phillip C. Burke et.al.|[2504.07019v1](http://arxiv.org/abs/2504.07019v1)|**2025-04-09**|null|
-|**2025-04-09**|**Bulk metric reconstruction from entanglement data via minimal surface area variations**|Niko Jokela et.al.|[2504.07016v1](http://arxiv.org/abs/2504.07016v1)|**2025-04-09**|null|
-|**2025-04-09**|**Fermi surface as a quantum critical manifold: gaplessness, order parameter, and scaling in $d$-dimensions**|Gennady Y. Chitov et.al.|[2504.07014v1](http://arxiv.org/abs/2504.07014v1)|**2025-04-09**|null|
-|**2025-04-09**|**DeCoMa: Detecting and Purifying Code Dataset Watermarks through Dual Channel Code Abstraction**|Yuan Xiao et.al.|[2504.07002v1](http://arxiv.org/abs/2504.07002v1)|**2025-04-09**|null|
-|**2025-04-09**|**Extremal Planar Matchings of Inhomogenous Random Bipartite Graphs**|Ghurumuruhan Ganesan et.al.|[2504.06999v1](http://arxiv.org/abs/2504.06999v1)|**2025-04-09**|null|
-|**2025-04-09**|**Dissimilar Batch Decompositions of Random Datasets**|Ghurumuruhan Ganesan et.al.|[2504.06991v1](http://arxiv.org/abs/2504.06991v1)|**2025-04-09**|null|
-|**2025-04-09**|**Existence and order of the self--binding transition in non--local non--linear Schrödinger equations**|Norihisa Ikoma et.al.|[2504.06988v1](http://arxiv.org/abs/2504.06988v1)|**2025-04-09**|null|
-|**2025-04-09**|**Coreset Strikes Back: Improved Parameterized Approximation Schemes for (Constrained) k-Median/Means**|Sujoy Bhore et.al.|[2504.06980v1](http://arxiv.org/abs/2504.06980v1)|**2025-04-09**|null|
-|**2025-04-09**|**Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting**|Daiwei Zhang et.al.|[2504.06978v1](http://arxiv.org/abs/2504.06978v1)|**2025-04-09**|null|
-|**2025-04-09**|**Probing dipolar interactions between Rydberg atoms and ultracold polar molecules**|Lingbang Zhu et.al.|[2504.06977v1](http://arxiv.org/abs/2504.06977v1)|**2025-04-09**|null|
-|**2025-04-09**|**Extinction rates for nonradial solutions to the Stefan problem**|Gabriele Fioravanti et.al.|[2504.06971v1](http://arxiv.org/abs/2504.06971v1)|**2025-04-09**|null|
-|**2025-04-09**|**Higher-Order Color Voronoi Diagrams and the Colorful Clarkson-Shor Framework**|Sang Won Bae et.al.|[2504.06960v1](http://arxiv.org/abs/2504.06960v1)|**2025-04-09**|null|
-|**2025-04-09**|**How does the supercritical GMC converge?**|Federico Bertacco et.al.|[2504.06956v1](http://arxiv.org/abs/2504.06956v1)|**2025-04-09**|null|
-|**2025-04-09**|**Generic deformation channels for critical Fermi surfaces including the impact of collisions**|Kazi Ranjibul Islam et.al.|[2504.06945v1](http://arxiv.org/abs/2504.06945v1)|**2025-04-09**|null|
-|**2025-04-09**|**Density Approximation of Affine Jump Diffusions via Closed-Form Moment Matching**|Yan-Feng Wu et.al.|[2504.06942v1](http://arxiv.org/abs/2504.06942v1)|**2025-04-09**|null|
+|**2025-04-10**|**Cat, Rat, Meow: On the Alignment of Language Model and Human Term-Similarity Judgments**|Lorenz Linhardt et.al.|[2504.07965v1](http://arxiv.org/abs/2504.07965v1)|**2025-04-10**|null|
+|**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961v1](http://arxiv.org/abs/2504.07961v1)|**2025-04-10**|null|
+|**2025-04-10**|**BoxDreamer: Dreaming Box Corners for Generalizable Object Pose Estimation**|Yuanhong Yu et.al.|[2504.07955v1](http://arxiv.org/abs/2504.07955v1)|**2025-04-10**|null|
+|**2025-04-10**|**Activating high-power parametric oscillation in photonic-crystal resonators**|Grant M. Brodnik et.al.|[2504.07947v1](http://arxiv.org/abs/2504.07947v1)|**2025-04-10**|null|
+|**2025-04-10**|**Characteristic function-based tests for spatial randomness**|Yiran Zeng et.al.|[2504.07946v1](http://arxiv.org/abs/2504.07946v1)|**2025-04-10**|null|
+|**2025-04-10**|**Echo: An Open-Source, Low-Cost Teleoperation System with Force Feedback for Dataset Collection in Robot Learning**|Artem Bazhenov et.al.|[2504.07939v1](http://arxiv.org/abs/2504.07939v1)|**2025-04-10**|null|
+|**2025-04-10**|**Geometric and Dosimetric Validation of Deformable Image Registration for Prostate MR-guided Adaptive Radiotherapy**|Victor N. Malkov et.al.|[2504.07933v1](http://arxiv.org/abs/2504.07933v1)|**2025-04-10**|null|
+|**2025-04-10**|**Zero-Shot Low-dose CT Denoising via Sinogram Flicking**|Yongyi Shi et.al.|[2504.07927v1](http://arxiv.org/abs/2504.07927v1)|**2025-04-10**|null|
+|**2025-04-10**|**Detecting changes in space-varying parameters of local Poisson point processes**|Nicoletta D'Angelo et.al.|[2504.07915v1](http://arxiv.org/abs/2504.07915v1)|**2025-04-10**|null|
+|**2025-04-10**|**Hodge Laplacians and Hodge Diffusion Maps**|Alvaro Almeida Gomez et.al.|[2504.07910v1](http://arxiv.org/abs/2504.07910v1)|**2025-04-10**|null|
+|**2025-04-10**|**Porting an LLM based Application from ChatGPT to an On-Premise Environment**|Teemu Paloniemi et.al.|[2504.07907v1](http://arxiv.org/abs/2504.07907v1)|**2025-04-10**|null|
+|**2025-04-10**|**Temporal Tensors and Quantum Shortcut Dynamics in a Supermaze of Multidimensional Time**|Koffka Khan et.al.|[2504.07900v1](http://arxiv.org/abs/2504.07900v1)|**2025-04-10**|null|
+|**2025-04-10**|**DiverseFlow: Sample-Efficient Diverse Mode Coverage in Flows**|Mashrur M. Morshed et.al.|[2504.07894v1](http://arxiv.org/abs/2504.07894v1)|**2025-04-10**|null|
+|**2025-04-10**|**Phonon fluctuation diagnostics: Origin of charge order in AV$_3$Sb$_5$ kagome metals**|Stefan Enzner et.al.|[2504.07883v1](http://arxiv.org/abs/2504.07883v1)|**2025-04-10**|null|
+|**2025-04-10**|**Token Level Routing Inference System for Edge Devices**|Jianshu She et.al.|[2504.07878v1](http://arxiv.org/abs/2504.07878v1)|**2025-04-10**|null|
+|**2025-04-10**|**Gauge and parametrization dependence of Quantum Einstein Gravity within the Proper Time flow**|Alfio Bonanno et.al.|[2504.07877v1](http://arxiv.org/abs/2504.07877v1)|**2025-04-10**|null|
+|**2025-04-10**|**QubitHammer Attacks: Qubit Flipping Attacks in Multi-tenant Superconducting Quantum Computers**|Yizhuo Tan et.al.|[2504.07875v1](http://arxiv.org/abs/2504.07875v1)|**2025-04-10**|null|
+|**2025-04-10**|**SAMJAM: Zero-Shot Video Scene Graph Generation for Egocentric Kitchen Videos**|Joshua Li et.al.|[2504.07867v1](http://arxiv.org/abs/2504.07867v1)|**2025-04-10**|null|
+|**2025-04-10**|**Resummation of Universal Tails in Gravitational Waveforms**|Mikhail M. Ivanov et.al.|[2504.07862v1](http://arxiv.org/abs/2504.07862v1)|**2025-04-10**|null|
+|**2025-04-10**|**$B$ meson semileptonic decays from lattice QCD**|Alejandro Vaquero Aviles-Casco et.al.|[2504.07857v1](http://arxiv.org/abs/2504.07857v1)|**2025-04-10**|null|
+|**2025-04-10**|**V2V3D: View-to-View Denoised 3D Reconstruction for Light-Field Microscopy**|Jiayin Zhao et.al.|[2504.07853v1](http://arxiv.org/abs/2504.07853v1)|**2025-04-10**|null|
+|**2025-04-10**|**Non-equilibrium dynamics of long-range field configurations in the Proca theory and the counterexample to the law of periodic charge oscillations**|Bogdan Damski et.al.|[2504.07846v1](http://arxiv.org/abs/2504.07846v1)|**2025-04-10**|null|
+|**2025-04-10**|**Pychop: Emulating Low-Precision Arithmetic in Numerical Methods and Neural Networks**|Erin Carson et.al.|[2504.07835v1](http://arxiv.org/abs/2504.07835v1)|**2025-04-10**|null|
+|**2025-04-10**|**A character theoretic formula for base size II**|Coen del Valle et.al.|[2504.07832v1](http://arxiv.org/abs/2504.07832v1)|**2025-04-10**|null|
+|**2025-04-10**|**Go Figure: Transparency in neuroscience images preserves context and clarifies interpretation**|Paul A. Taylor et.al.|[2504.07824v1](http://arxiv.org/abs/2504.07824v1)|**2025-04-10**|null|
+|**2025-04-10**|**A new look into the atmospheric composition of WASP-39 b**|Sushuang Ma et.al.|[2504.07823v1](http://arxiv.org/abs/2504.07823v1)|**2025-04-10**|null|
+|**2025-04-10**|**Estimating entanglement monotones of non-pure spin-squeezed states**|Julia Mathé et.al.|[2504.07814v1](http://arxiv.org/abs/2504.07814v1)|**2025-04-10**|null|
+|**2025-04-10**|**P2Object: Single Point Supervised Object Detection and Instance Segmentation**|Pengfei Chen et.al.|[2504.07813v1](http://arxiv.org/abs/2504.07813v1)|**2025-04-10**|null|
+|**2025-04-10**|**Event-Triggered Source Seeking Control for Nonholonomic Systems**|Victor Hugo Pereira Rodrigues et.al.|[2504.07797v1](http://arxiv.org/abs/2504.07797v1)|**2025-04-10**|null|
+|**2025-04-10**|**Adaptive Detection of Fast Moving Celestial Objects Using a Mixture of Experts and Physical-Inspired Neural Network**|Peng Jia et.al.|[2504.07777v1](http://arxiv.org/abs/2504.07777v1)|**2025-04-10**|null|

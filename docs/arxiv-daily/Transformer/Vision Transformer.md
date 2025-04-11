@@ -2,33 +2,33 @@
 ### Vision Transformer
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-09**|**Neural Motion Simulator: Pushing the Limit of World Models in Reinforcement Learning**|Chenjie Hao et.al.|[2504.07095v1](http://arxiv.org/abs/2504.07095v1)|**2025-04-09**|null|
-|**2025-04-09**|**FlashDepth: Real-time Streaming Video Depth Estimation at 2K Resolution**|Gene Chou et.al.|[2504.07093v1](http://arxiv.org/abs/2504.07093v1)|**2025-04-09**|null|
-|**2025-04-09**|**Are We Done with Object-Centric Learning?**|Alexander Rubinstein et.al.|[2504.07092v1](http://arxiv.org/abs/2504.07092v1)|**2025-04-09**|null|
-|**2025-04-09**|**OmniCaptioner: One Captioner to Rule Them All**|Yiting Lu et.al.|[2504.07089v1](http://arxiv.org/abs/2504.07089v1)|**2025-04-09**|null|
-|**2025-04-09**|**GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography**|Mengchen Zhang et.al.|[2504.07083v2](http://arxiv.org/abs/2504.07083v2)|**2025-04-10**|null|
-|**2025-04-09**|**SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills**|Boyuan Zheng et.al.|[2504.07079v1](http://arxiv.org/abs/2504.07079v1)|**2025-04-09**|null|
-|**2025-04-09**|**Detecting AI-generated Artwork**|Meien Li et.al.|[2504.07078v1](http://arxiv.org/abs/2504.07078v1)|**2025-04-09**|null|
-|**2025-04-09**|**Kaleidoscope: In-language Exams for Massively Multilingual Vision Evaluation**|Israfel Salazar et.al.|[2504.07072v1](http://arxiv.org/abs/2504.07072v1)|**2025-04-09**|null|
-|**2025-04-09**|**Teaching pathology foundation models to accurately predict gene expression with parameter efficient knowledge transfer**|Shi Pan et.al.|[2504.07061v1](http://arxiv.org/abs/2504.07061v1)|**2025-04-09**|null|
-|**2025-04-09**|**Generalized Semantic Contrastive Learning via Embedding Side Information for Few-Shot Object Detection**|Ruoyu Chen et.al.|[2504.07060v1](http://arxiv.org/abs/2504.07060v1)|**2025-04-09**|null|
-|**2025-04-09**|**$Π$-NeSy: A Possibilistic Neuro-Symbolic Approach**|Ismaïl Baaj et.al.|[2504.07055v1](http://arxiv.org/abs/2504.07055v1)|**2025-04-09**|null|
-|**2025-04-09**|**A Unified Agentic Framework for Evaluating Conditional Image Generation**|Jifang Wang et.al.|[2504.07046v1](http://arxiv.org/abs/2504.07046v1)|**2025-04-09**|null|
-|**2025-04-09**|**Distilling Textual Priors from LLM to Efficient Image Fusion**|Ran Zhang et.al.|[2504.07029v1](http://arxiv.org/abs/2504.07029v1)|**2025-04-09**|null|
-|**2025-04-09**|**Glossy Object Reconstruction with Cost-effective Polarized Acquisition**|Bojian Wu et.al.|[2504.07025v1](http://arxiv.org/abs/2504.07025v1)|**2025-04-09**|null|
-|**2025-04-09**|**LLM-IFT: LLM-Powered Information Flow Tracking for Secure Hardware**|Nowfel Mashnoor et.al.|[2504.07015v1](http://arxiv.org/abs/2504.07015v1)|**2025-04-09**|null|
-|**2025-04-09**|**FAME: Introducing Fuzzy Additive Models for Explainable AI**|Omer Bahadir Gokmen et.al.|[2504.07011v1](http://arxiv.org/abs/2504.07011v1)|**2025-04-09**|null|
-|**2025-04-09**|**Latent Diffusion U-Net Representations Contain Positional Embeddings and Anomalies**|Jonas Loos et.al.|[2504.07008v1](http://arxiv.org/abs/2504.07008v1)|**2025-04-09**|[link](https://github.com/JonasLoos/sd-representation-anomalies)|
-|**2025-04-09**|**RayFronts: Open-Set Semantic Ray Frontiers for Online Scene Understanding and Exploration**|Omar Alama et.al.|[2504.06994v1](http://arxiv.org/abs/2504.06994v1)|**2025-04-09**|null|
-|**2025-04-09**|**SIGMAN:Scaling 3D Human Gaussian Generation with Millions of Assets**|Yuhang Yang et.al.|[2504.06982v1](http://arxiv.org/abs/2504.06982v1)|**2025-04-09**|null|
-|**2025-04-09**|**Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting**|Daiwei Zhang et.al.|[2504.06978v1](http://arxiv.org/abs/2504.06978v1)|**2025-04-09**|null|
-|**2025-04-09**|**Framelets and Wavelets with Mixed Dilation Factors**|Ran Lu et.al.|[2504.06974v1](http://arxiv.org/abs/2504.06974v1)|**2025-04-09**|null|
-|**2025-04-09**|**Towards LLMs Robustness to Changes in Prompt Format Styles**|Lilian Ngweta et.al.|[2504.06969v1](http://arxiv.org/abs/2504.06969v1)|**2025-04-09**|null|
-|**2025-04-09**|**A Deep Single Image Rectification Approach for Pan-Tilt-Zoom Cameras**|Teng Xiao et.al.|[2504.06965v1](http://arxiv.org/abs/2504.06965v1)|**2025-04-09**|null|
-|**2025-04-09**|**Efficient Self-Supervised Learning for Earth Observation via Dynamic Dataset Curation**|Thomas Kerdreux et.al.|[2504.06962v1](http://arxiv.org/abs/2504.06962v1)|**2025-04-09**|null|
-|**2025-04-09**|**Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation**|Yu Qi et.al.|[2504.06961v1](http://arxiv.org/abs/2504.06961v1)|**2025-04-09**|null|
-|**2025-04-09**|**VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning**|Xinhao Li et.al.|[2504.06958v2](http://arxiv.org/abs/2504.06958v2)|**2025-04-10**|null|
-|**2025-04-09**|**A Comparison of Deep Learning Methods for Cell Detection in Digital Cytology**|Marco Acerbis et.al.|[2504.06957v1](http://arxiv.org/abs/2504.06957v1)|**2025-04-09**|null|
-|**2025-04-09**|**PathSegDiff: Pathology Segmentation using Diffusion model representations**|Sachin Kumar Danisetty et.al.|[2504.06950v1](http://arxiv.org/abs/2504.06950v1)|**2025-04-09**|null|
-|**2025-04-09**|**Adaptive Computation Pruning for the Forgetting Transformer**|Zhixuan Lin et.al.|[2504.06949v1](http://arxiv.org/abs/2504.06949v1)|**2025-04-09**|null|
-|**2025-04-09**|**Beyond Tools: Generative AI as Epistemic Infrastructure in Education**|Bodong Chen et.al.|[2504.06928v1](http://arxiv.org/abs/2504.06928v1)|**2025-04-09**|null|
+|**2025-04-10**|**PixelFlow: Pixel-Space Generative Models with Flow**|Shoufa Chen et.al.|[2504.07963v1](http://arxiv.org/abs/2504.07963v1)|**2025-04-10**|null|
+|**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961v1](http://arxiv.org/abs/2504.07961v1)|**2025-04-10**|null|
+|**2025-04-10**|**GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation**|Lang Lin et.al.|[2504.07962v1](http://arxiv.org/abs/2504.07962v1)|**2025-04-10**|null|
+|**2025-04-10**|**VisualCloze: A Universal Image Generation Framework via Visual In-Context Learning**|Zhong-Yu Li et.al.|[2504.07960v1](http://arxiv.org/abs/2504.07960v1)|**2025-04-10**|null|
+|**2025-04-10**|**CCMNet: Leveraging Calibrated Color Correction Matrices for Cross-Camera Color Constancy**|Dongyoung Kim et.al.|[2504.07959v1](http://arxiv.org/abs/2504.07959v1)|**2025-04-10**|null|
+|**2025-04-10**|**Detect Anything 3D in the Wild**|Hanxue Zhang et.al.|[2504.07958v1](http://arxiv.org/abs/2504.07958v1)|**2025-04-10**|null|
+|**2025-04-10**|**MM-IFEngine: Towards Multimodal Instruction Following**|Shengyuan Ding et.al.|[2504.07957v1](http://arxiv.org/abs/2504.07957v1)|**2025-04-10**|null|
+|**2025-04-10**|**VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning**|Yukun Qi et.al.|[2504.07956v1](http://arxiv.org/abs/2504.07956v1)|**2025-04-10**|null|
+|**2025-04-10**|**BoxDreamer: Dreaming Box Corners for Generalizable Object Pose Estimation**|Yuanhong Yu et.al.|[2504.07955v1](http://arxiv.org/abs/2504.07955v1)|**2025-04-10**|null|
+|**2025-04-10**|**Perception-R1: Pioneering Perception Policy with Reinforcement Learning**|En Yu et.al.|[2504.07954v1](http://arxiv.org/abs/2504.07954v1)|**2025-04-10**|null|
+|**2025-04-10**|**Scaling Laws for Native Multimodal Models Scaling Laws for Native Multimodal Models**|Mustafa Shukor et.al.|[2504.07951v1](http://arxiv.org/abs/2504.07951v1)|**2025-04-10**|null|
+|**2025-04-10**|**InteractAvatar: Modeling Hand-Face Interaction in Photorealistic Avatars with Deformable Gaussians**|Kefan Chen et.al.|[2504.07949v1](http://arxiv.org/abs/2504.07949v1)|**2025-04-10**|null|
+|**2025-04-10**|**GenEAva: Generating Cartoon Avatars with Fine-Grained Facial Expressions from Realistic Diffusion-based Faces**|Hao Yu et.al.|[2504.07945v1](http://arxiv.org/abs/2504.07945v1)|**2025-04-10**|null|
+|**2025-04-10**|**HoloPart: Generative 3D Part Amodal Segmentation**|Yunhan Yang et.al.|[2504.07943v1](http://arxiv.org/abs/2504.07943v1)|**2025-04-10**|null|
+|**2025-04-10**|**MARS: a Multimodal Alignment and Ranking System for Few-Shot Segmentation**|Nico Catalano et.al.|[2504.07942v1](http://arxiv.org/abs/2504.07942v1)|**2025-04-10**|null|
+|**2025-04-10**|**Beyond the Frame: Generating 360° Panoramic Videos from Perspective Videos**|Rundong Luo et.al.|[2504.07940v1](http://arxiv.org/abs/2504.07940v1)|**2025-04-10**|null|
+|**2025-04-10**|**SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement**|Xiyao Wang et.al.|[2504.07934v1](http://arxiv.org/abs/2504.07934v1)|**2025-04-10**|null|
+|**2025-04-10**|**Market-Based Portfolio Selection**|Victor Olkhov et.al.|[2504.07929v1](http://arxiv.org/abs/2504.07929v1)|**2025-04-10**|null|
+|**2025-04-10**|**Riemann zeros and the KKR determinant**|Zongrui Pei et.al.|[2504.07928v1](http://arxiv.org/abs/2504.07928v1)|**2025-04-10**|null|
+|**2025-04-10**|**Zero-Shot Low-dose CT Denoising via Sinogram Flicking**|Yongyi Shi et.al.|[2504.07927v1](http://arxiv.org/abs/2504.07927v1)|**2025-04-10**|null|
+|**2025-04-10**|**From Winter Storm Thermodynamics to Wind Gust Extremes: Discovering Interpretable Equations from Data**|Frederick Iat-Hin Tam et.al.|[2504.07905v1](http://arxiv.org/abs/2504.07905v1)|**2025-04-10**|null|
+|**2025-04-10**|**The Efficacy of Semantics-Preserving Transformations in Self-Supervised Learning for Medical Ultrasound**|Blake VanBerlo et.al.|[2504.07904v1](http://arxiv.org/abs/2504.07904v1)|**2025-04-10**|null|
+|**2025-04-10**|**An LLM-Driven Multi-Agent Debate System for Mendelian Diseases**|Xinyang Zhou et.al.|[2504.07881v1](http://arxiv.org/abs/2504.07881v1)|**2025-04-10**|null|
+|**2025-04-10**|**SAMJAM: Zero-Shot Video Scene Graph Generation for Egocentric Kitchen Videos**|Joshua Li et.al.|[2504.07867v1](http://arxiv.org/abs/2504.07867v1)|**2025-04-10**|null|
+|**2025-04-10**|**Pangu Ultra: Pushing the Limits of Dense Large Language Models on Ascend NPUs**|Yichun Yin et.al.|[2504.07866v1](http://arxiv.org/abs/2504.07866v1)|**2025-04-10**|null|
+|**2025-04-10**|**V2V3D: View-to-View Denoised 3D Reconstruction for Light-Field Microscopy**|Jiayin Zhao et.al.|[2504.07853v1](http://arxiv.org/abs/2504.07853v1)|**2025-04-10**|null|
+|**2025-04-10**|**Experimental Analysis of Quadcopter Drone Hover Constraints for Localization Improvements**|Uthman Olawoye et.al.|[2504.07843v1](http://arxiv.org/abs/2504.07843v1)|**2025-04-10**|null|
+|**2025-04-10**|**Understanding Learner-LLM Chatbot Interactions and the Impact of Prompting Guidelines**|Cansu Koyuturk et.al.|[2504.07840v1](http://arxiv.org/abs/2504.07840v1)|**2025-04-10**|null|
+|**2025-04-10**|**Deep Learning-based Intrusion Detection Systems: A Survey**|Zhiwei Xu et.al.|[2504.07839v1](http://arxiv.org/abs/2504.07839v1)|**2025-04-10**|null|
+|**2025-04-10**|**AerialVG: A Challenging Benchmark for Aerial Visual Grounding by Exploring Positional Relations**|Junli Liu et.al.|[2504.07836v1](http://arxiv.org/abs/2504.07836v1)|**2025-04-10**|null|

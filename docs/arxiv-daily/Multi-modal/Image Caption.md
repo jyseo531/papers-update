@@ -2,33 +2,33 @@
 ### Image Caption
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-09**|**FlashDepth: Real-time Streaming Video Depth Estimation at 2K Resolution**|Gene Chou et.al.|[2504.07093v1](http://arxiv.org/abs/2504.07093v1)|**2025-04-09**|null|
-|**2025-04-09**|**OmniCaptioner: One Captioner to Rule Them All**|Yiting Lu et.al.|[2504.07089v1](http://arxiv.org/abs/2504.07089v1)|**2025-04-09**|null|
-|**2025-04-09**|**GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography**|Mengchen Zhang et.al.|[2504.07083v2](http://arxiv.org/abs/2504.07083v2)|**2025-04-10**|null|
-|**2025-04-09**|**The Lyman-alpha and Continuum Origins Survey II: the uneventful journey of escaping Ly$α$ and ionizing radiation through the neutral ISM and CGM of galaxies**|A. Saldana-Lopez et.al.|[2504.07074v1](http://arxiv.org/abs/2504.07074v1)|**2025-04-09**|null|
-|**2025-04-09**|**ASASSN-14dx: A cataclysmic variable harbouring a massive pulsating white dwarf**|Pasi Hakala et.al.|[2504.07071v1](http://arxiv.org/abs/2504.07071v1)|**2025-04-09**|null|
-|**2025-04-09**|**Teaching pathology foundation models to accurately predict gene expression with parameter efficient knowledge transfer**|Shi Pan et.al.|[2504.07061v1](http://arxiv.org/abs/2504.07061v1)|**2025-04-09**|null|
-|**2025-04-09**|**Substantial Diel Changes of Cloud Adjustments to Aerosols in Ship-tracks**|Tianle Yuan et.al.|[2504.07057v1](http://arxiv.org/abs/2504.07057v1)|**2025-04-09**|null|
-|**2025-04-09**|**The Lyman-alpha and Continuum Origins Survey I: Survey description and Ly$α$ imaging**|Alexandra Le Reste et.al.|[2504.07056v1](http://arxiv.org/abs/2504.07056v1)|**2025-04-09**|null|
-|**2025-04-09**|**Revisiting X-ray polarization of the shell of Cassiopeia A using spectropolarimetric analysis**|Alessandra Mercuri et.al.|[2504.07051v1](http://arxiv.org/abs/2504.07051v1)|**2025-04-09**|null|
-|**2025-04-09**|**A Unified Agentic Framework for Evaluating Conditional Image Generation**|Jifang Wang et.al.|[2504.07046v1](http://arxiv.org/abs/2504.07046v1)|**2025-04-09**|null|
-|**2025-04-09**|**A Uniform Framework for Handling Position Constraints in String Solving (Technical Report)**|Yu-Fang Chen et.al.|[2504.07033v2](http://arxiv.org/abs/2504.07033v2)|**2025-04-10**|null|
-|**2025-04-09**|**Distilling Textual Priors from LLM to Efficient Image Fusion**|Ran Zhang et.al.|[2504.07029v1](http://arxiv.org/abs/2504.07029v1)|**2025-04-09**|null|
-|**2025-04-09**|**Glossy Object Reconstruction with Cost-effective Polarized Acquisition**|Bojian Wu et.al.|[2504.07025v1](http://arxiv.org/abs/2504.07025v1)|**2025-04-09**|null|
-|**2025-04-09**|**Latent Diffusion U-Net Representations Contain Positional Embeddings and Anomalies**|Jonas Loos et.al.|[2504.07008v1](http://arxiv.org/abs/2504.07008v1)|**2025-04-09**|[link](https://github.com/JonasLoos/sd-representation-anomalies)|
-|**2025-04-09**|**RayFronts: Open-Set Semantic Ray Frontiers for Online Scene Understanding and Exploration**|Omar Alama et.al.|[2504.06994v1](http://arxiv.org/abs/2504.06994v1)|**2025-04-09**|null|
-|**2025-04-09**|**SIGMAN:Scaling 3D Human Gaussian Generation with Millions of Assets**|Yuhang Yang et.al.|[2504.06982v1](http://arxiv.org/abs/2504.06982v1)|**2025-04-09**|null|
-|**2025-04-09**|**Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting**|Daiwei Zhang et.al.|[2504.06978v1](http://arxiv.org/abs/2504.06978v1)|**2025-04-09**|null|
-|**2025-04-09**|**Framelets and Wavelets with Mixed Dilation Factors**|Ran Lu et.al.|[2504.06974v1](http://arxiv.org/abs/2504.06974v1)|**2025-04-09**|null|
-|**2025-04-09**|**A Deep Single Image Rectification Approach for Pan-Tilt-Zoom Cameras**|Teng Xiao et.al.|[2504.06965v1](http://arxiv.org/abs/2504.06965v1)|**2025-04-09**|null|
-|**2025-04-09**|**Temporal dynamics of GHz acoustic waves in chipscale phononic integrated circuits**|A. Fahad Malik et.al.|[2504.06959v1](http://arxiv.org/abs/2504.06959v1)|**2025-04-09**|null|
-|**2025-04-09**|**VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning**|Xinhao Li et.al.|[2504.06958v2](http://arxiv.org/abs/2504.06958v2)|**2025-04-10**|null|
-|**2025-04-09**|**A Comparison of Deep Learning Methods for Cell Detection in Digital Cytology**|Marco Acerbis et.al.|[2504.06957v1](http://arxiv.org/abs/2504.06957v1)|**2025-04-09**|null|
-|**2025-04-09**|**PathSegDiff: Pathology Segmentation using Diffusion model representations**|Sachin Kumar Danisetty et.al.|[2504.06950v1](http://arxiv.org/abs/2504.06950v1)|**2025-04-09**|null|
-|**2025-04-09**|**Are Vision-Language Models Ready for Dietary Assessment? Exploring the Next Frontier in AI-Powered Food Image Recognition**|Sergio Romero-Tapiador et.al.|[2504.06925v1](http://arxiv.org/abs/2504.06925v1)|**2025-04-09**|null|
-|**2025-04-09**|**Longitudinal Assessment of Lung Lesion Burden in CT**|Tejas Sudharshan Mathai et.al.|[2504.06924v1](http://arxiv.org/abs/2504.06924v1)|**2025-04-09**|null|
-|**2025-04-09**|**Leveraging Anatomical Priors for Automated Pancreas Segmentation on Abdominal CT**|Anisa V. Prasad et.al.|[2504.06921v1](http://arxiv.org/abs/2504.06921v1)|**2025-04-09**|null|
-|**2025-04-09**|**S-EO: A Large-Scale Dataset for Geometry-Aware Shadow Detection in Remote Sensing Applications**|Masquil Elías et.al.|[2504.06920v1](http://arxiv.org/abs/2504.06920v1)|**2025-04-09**|null|
-|**2025-04-09**|**UKBOB: One Billion MRI Labeled Masks for Generalizable 3D Medical Image Segmentation**|Emmanuelle Bourigault et.al.|[2504.06908v1](http://arxiv.org/abs/2504.06908v1)|**2025-04-09**|null|
-|**2025-04-09**|**MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs**|Jiawei Mao et.al.|[2504.06897v1](http://arxiv.org/abs/2504.06897v1)|**2025-04-09**|null|
-|**2025-04-09**|**ColorizeDiffusion v2: Enhancing Reference-based Sketch Colorization Through Separating Utilities**|Dingkun Yan et.al.|[2504.06895v1](http://arxiv.org/abs/2504.06895v1)|**2025-04-09**|[link](https://github.com/tellurion-kanata/colorizediffusion)|
+|**2025-04-10**|**PixelFlow: Pixel-Space Generative Models with Flow**|Shoufa Chen et.al.|[2504.07963v1](http://arxiv.org/abs/2504.07963v1)|**2025-04-10**|null|
+|**2025-04-10**|**VisualCloze: A Universal Image Generation Framework via Visual In-Context Learning**|Zhong-Yu Li et.al.|[2504.07960v1](http://arxiv.org/abs/2504.07960v1)|**2025-04-10**|null|
+|**2025-04-10**|**CCMNet: Leveraging Calibrated Color Correction Matrices for Cross-Camera Color Constancy**|Dongyoung Kim et.al.|[2504.07959v1](http://arxiv.org/abs/2504.07959v1)|**2025-04-10**|null|
+|**2025-04-10**|**MM-IFEngine: Towards Multimodal Instruction Following**|Shengyuan Ding et.al.|[2504.07957v1](http://arxiv.org/abs/2504.07957v1)|**2025-04-10**|null|
+|**2025-04-10**|**Scaling Laws for Native Multimodal Models Scaling Laws for Native Multimodal Models**|Mustafa Shukor et.al.|[2504.07951v1](http://arxiv.org/abs/2504.07951v1)|**2025-04-10**|null|
+|**2025-04-10**|**GenEAva: Generating Cartoon Avatars with Fine-Grained Facial Expressions from Realistic Diffusion-based Faces**|Hao Yu et.al.|[2504.07945v1](http://arxiv.org/abs/2504.07945v1)|**2025-04-10**|null|
+|**2025-04-10**|**MARS: a Multimodal Alignment and Ranking System for Few-Shot Segmentation**|Nico Catalano et.al.|[2504.07942v1](http://arxiv.org/abs/2504.07942v1)|**2025-04-10**|null|
+|**2025-04-10**|**Geometric and Dosimetric Validation of Deformable Image Registration for Prostate MR-guided Adaptive Radiotherapy**|Victor N. Malkov et.al.|[2504.07933v1](http://arxiv.org/abs/2504.07933v1)|**2025-04-10**|null|
+|**2025-04-10**|**Zero-Shot Low-dose CT Denoising via Sinogram Flicking**|Yongyi Shi et.al.|[2504.07927v1](http://arxiv.org/abs/2504.07927v1)|**2025-04-10**|null|
+|**2025-04-10**|**Optimal Control For Anti-Abeta Treatment in Alzheimer's Disease using a Reaction-Diffusion Model**|Wenrui Hao et.al.|[2504.07913v1](http://arxiv.org/abs/2504.07913v1)|**2025-04-10**|null|
+|**2025-04-10**|**The Efficacy of Semantics-Preserving Transformations in Self-Supervised Learning for Medical Ultrasound**|Blake VanBerlo et.al.|[2504.07904v1](http://arxiv.org/abs/2504.07904v1)|**2025-04-10**|null|
+|**2025-04-10**|**DiverseFlow: Sample-Efficient Diverse Mode Coverage in Flows**|Mashrur M. Morshed et.al.|[2504.07894v1](http://arxiv.org/abs/2504.07894v1)|**2025-04-10**|null|
+|**2025-04-10**|**Towards Sustainable Creativity Support: An Exploratory Study on Prompt Based Image Generation**|Daniel Hove Paludan et.al.|[2504.07879v1](http://arxiv.org/abs/2504.07879v1)|**2025-04-10**|null|
+|**2025-04-10**|**V2V3D: View-to-View Denoised 3D Reconstruction for Light-Field Microscopy**|Jiayin Zhao et.al.|[2504.07853v1](http://arxiv.org/abs/2504.07853v1)|**2025-04-10**|null|
+|**2025-04-10**|**A Spectral Gap Absorption Principle**|Yuval Gorfine et.al.|[2504.07845v1](http://arxiv.org/abs/2504.07845v1)|**2025-04-10**|null|
+|**2025-04-10**|**AerialVG: A Challenging Benchmark for Aerial Visual Grounding by Exploring Positional Relations**|Junli Liu et.al.|[2504.07836v1](http://arxiv.org/abs/2504.07836v1)|**2025-04-10**|null|
+|**2025-04-10**|**Pychop: Emulating Low-Precision Arithmetic in Numerical Methods and Neural Networks**|Erin Carson et.al.|[2504.07835v1](http://arxiv.org/abs/2504.07835v1)|**2025-04-10**|null|
+|**2025-04-10**|**HarmonySeg: Tubular Structure Segmentation with Deep-Shallow Feature Fusion and Growth-Suppression Balanced Loss**|Yi Huang et.al.|[2504.07827v1](http://arxiv.org/abs/2504.07827v1)|**2025-04-10**|null|
+|**2025-04-10**|**Go Figure: Transparency in neuroscience images preserves context and clarifies interpretation**|Paul A. Taylor et.al.|[2504.07824v1](http://arxiv.org/abs/2504.07824v1)|**2025-04-10**|null|
+|**2025-04-10**|**P2Object: Single Point Supervised Object Detection and Instance Segmentation**|Pengfei Chen et.al.|[2504.07813v1](http://arxiv.org/abs/2504.07813v1)|**2025-04-10**|null|
+|**2025-04-10**|**Nonlocal Retinex-Based Variational Model and its Deep Unfolding Twin for Low-Light Image Enhancement**|Daniel Torres et.al.|[2504.07810v1](http://arxiv.org/abs/2504.07810v1)|**2025-04-10**|null|
+|**2025-04-10**|**Revisiting Likelihood-Based Out-of-Distribution Detection by Modeling Representations**|Yifan Ding et.al.|[2504.07793v1](http://arxiv.org/abs/2504.07793v1)|**2025-04-10**|null|
+|**2025-04-10**|**Adaptive Detection of Fast Moving Celestial Objects Using a Mixture of Experts and Physical-Inspired Neural Network**|Peng Jia et.al.|[2504.07777v1](http://arxiv.org/abs/2504.07777v1)|**2025-04-10**|null|
+|**2025-04-10**|**Focal Cortical Dysplasia Type II Detection Using Cross Modality Transfer Learning and Grad-CAM in 3D-CNNs for MRI Analysis**|Lorenzo Lasagni et.al.|[2504.07775v1](http://arxiv.org/abs/2504.07775v1)|**2025-04-10**|null|
+|**2025-04-10**|**Exploring a Patch-Wise Approach for Privacy-Preserving Fake ID Detection**|Javier Muñoz-Haro et.al.|[2504.07761v1](http://arxiv.org/abs/2504.07761v1)|**2025-04-10**|null|
+|**2025-04-10**|**PRAD: Periapical Radiograph Analysis Dataset and Benchmark Model Development**|Zhenhuan Zhou et.al.|[2504.07760v1](http://arxiv.org/abs/2504.07760v1)|**2025-04-10**|null|
+|**2025-04-10**|**PIDSR:ComplementaryPolarizedImageDemosaicingandSuper-Resolution**|Shuangfan Zhou et.al.|[2504.07758v1](http://arxiv.org/abs/2504.07758v1)|**2025-04-10**|null|
+|**2025-04-10**|**Virtual-mask Informed Prior for Sparse-view Dual-Energy CT Reconstruction**|Zini Chen et.al.|[2504.07753v1](http://arxiv.org/abs/2504.07753v1)|**2025-04-10**|null|
+|**2025-04-10**|**Versatile ultrafast single-shot imaging**|Alisson Rodrigues de Paula et.al.|[2504.07748v1](http://arxiv.org/abs/2504.07748v1)|**2025-04-10**|null|
+|**2025-04-10**|**Thermodynamics of Reissner-nordstorm black bounce black hole**|Feba C Joy et.al.|[2504.07730v1](http://arxiv.org/abs/2504.07730v1)|**2025-04-10**|null|

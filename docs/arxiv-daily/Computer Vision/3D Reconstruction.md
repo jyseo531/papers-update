@@ -2,6 +2,27 @@
 ### 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961v1](http://arxiv.org/abs/2504.07961v1)|**2025-04-10**|null|
+|**2025-04-10**|**Detect Anything 3D in the Wild**|Hanxue Zhang et.al.|[2504.07958v1](http://arxiv.org/abs/2504.07958v1)|**2025-04-10**|null|
+|**2025-04-10**|**BoxDreamer: Dreaming Box Corners for Generalizable Object Pose Estimation**|Yuanhong Yu et.al.|[2504.07955v1](http://arxiv.org/abs/2504.07955v1)|**2025-04-10**|null|
+|**2025-04-10**|**InteractAvatar: Modeling Hand-Face Interaction in Photorealistic Avatars with Deformable Gaussians**|Kefan Chen et.al.|[2504.07949v1](http://arxiv.org/abs/2504.07949v1)|**2025-04-10**|null|
+|**2025-04-10**|**HoloPart: Generative 3D Part Amodal Segmentation**|Yunhan Yang et.al.|[2504.07943v1](http://arxiv.org/abs/2504.07943v1)|**2025-04-10**|null|
+|**2025-04-10**|**V2V3D: View-to-View Denoised 3D Reconstruction for Light-Field Microscopy**|Jiayin Zhao et.al.|[2504.07853v1](http://arxiv.org/abs/2504.07853v1)|**2025-04-10**|null|
+|**2025-04-10**|**HarmonySeg: Tubular Structure Segmentation with Deep-Shallow Feature Fusion and Growth-Suppression Balanced Loss**|Yi Huang et.al.|[2504.07827v1](http://arxiv.org/abs/2504.07827v1)|**2025-04-10**|null|
+|**2025-04-10**|**Focal Cortical Dysplasia Type II Detection Using Cross Modality Transfer Learning and Grad-CAM in 3D-CNNs for MRI Analysis**|Lorenzo Lasagni et.al.|[2504.07775v1](http://arxiv.org/abs/2504.07775v1)|**2025-04-10**|null|
+|**2025-04-10**|**CTSR: Cartesian tensor-based sparse regression for data-driven discovery of high-dimensional invariant governing equations**|Boqian Zhang et.al.|[2504.07618v1](http://arxiv.org/abs/2504.07618v1)|**2025-04-10**|null|
+|**2025-04-10**|**Convexity Helps Iterated Search in 3D**|Peyman Afshani et.al.|[2504.07545v1](http://arxiv.org/abs/2504.07545v1)|**2025-04-10**|null|
+|**2025-04-10**|**DGOcc: Depth-aware Global Query-based Network for Monocular 3D Occupancy Prediction**|Xu Zhao et.al.|[2504.07524v1](http://arxiv.org/abs/2504.07524v1)|**2025-04-10**|null|
+|**2025-04-10**|**Laboratory Three-dimensional X-ray Micro-beam Laue Diffraction**|Yubin Zhang et.al.|[2504.07452v1](http://arxiv.org/abs/2504.07452v1)|**2025-04-10**|null|
+|**2025-04-10**|**ThermoStereoRT: Thermal Stereo Matching in Real Time via Knowledge Distillation and Attention-based Refinement**|Anning Hu et.al.|[2504.07418v1](http://arxiv.org/abs/2504.07418v1)|**2025-04-10**|null|
+|**2025-04-10**|**Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction**|Junyi Ma et.al.|[2504.07375v1](http://arxiv.org/abs/2504.07375v1)|**2025-04-10**|null|
+|**2025-04-10**|**Ultrahigh room-temperature hole conductivity in a perovskite cuprate with vanishing electron-correlation**|Meng Wang et.al.|[2504.07369v1](http://arxiv.org/abs/2504.07369v1)|**2025-04-10**|null|
+|**2025-04-10**|**View-Dependent Uncertainty Estimation of 3D Gaussian Splatting**|Chenyu Han et.al.|[2504.07370v1](http://arxiv.org/abs/2504.07370v1)|**2025-04-10**|null|
+|**2025-04-09**|**DLTPose: 6DoF Pose Estimation From Accurate Dense Surface Point Estimates**|Akash Jadhav et.al.|[2504.07335v1](http://arxiv.org/abs/2504.07335v1)|**2025-04-09**|null|
+|**2025-04-09**|**Objaverse++: Curated 3D Object Dataset with Quality Annotations**|Chendi Lin et.al.|[2504.07334v1](http://arxiv.org/abs/2504.07334v1)|**2025-04-09**|null|
+|**2025-04-09**|**Adaptive Vision-Guided Robotic Arm Control for Precision Pruning in Dynamic Orchard Environments**|Dawood Ahmed et.al.|[2504.07309v1](http://arxiv.org/abs/2504.07309v1)|**2025-04-09**|null|
+|**2025-04-09**|**The dynamical role of optical phonons and sub-lattice screening in a solid-state ion conductor**|Kim H. Pham et.al.|[2504.07249v1](http://arxiv.org/abs/2504.07249v1)|**2025-04-09**|null|
+|**2025-04-09**|**A Pointcloud Registration Framework for Relocalization in Subterranean Environments**|David Akhihiero et.al.|[2504.07231v1](http://arxiv.org/abs/2504.07231v1)|**2025-04-09**|null|
 |**2025-04-09**|**Spin state of iron in I-42d-type Mg2SiO4 at ultra-high pressures**|Tianqi Wan et.al.|[2504.07067v1](http://arxiv.org/abs/2504.07067v1)|**2025-04-09**|null|
 |**2025-04-09**|**UAV Position Estimation using a LiDAR-based 3D Object Detection Method**|Uthman Olawoye et.al.|[2504.07028v1](http://arxiv.org/abs/2504.07028v1)|**2025-04-09**|null|
 |**2025-04-09**|**Glossy Object Reconstruction with Cost-effective Polarized Acquisition**|Bojian Wu et.al.|[2504.07025v1](http://arxiv.org/abs/2504.07025v1)|**2025-04-09**|null|
@@ -11,24 +32,3 @@
 |**2025-04-09**|**Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation**|Yu Qi et.al.|[2504.06961v1](http://arxiv.org/abs/2504.06961v1)|**2025-04-09**|null|
 |**2025-04-09**|**Temporal dynamics of GHz acoustic waves in chipscale phononic integrated circuits**|A. Fahad Malik et.al.|[2504.06959v1](http://arxiv.org/abs/2504.06959v1)|**2025-04-09**|null|
 |**2025-04-09**|**Longitudinal Assessment of Lung Lesion Burden in CT**|Tejas Sudharshan Mathai et.al.|[2504.06924v1](http://arxiv.org/abs/2504.06924v1)|**2025-04-09**|null|
-|**2025-04-09**|**Leveraging Anatomical Priors for Automated Pancreas Segmentation on Abdominal CT**|Anisa V. Prasad et.al.|[2504.06921v1](http://arxiv.org/abs/2504.06921v1)|**2025-04-09**|null|
-|**2025-04-09**|**S-EO: A Large-Scale Dataset for Geometry-Aware Shadow Detection in Remote Sensing Applications**|Masquil Elías et.al.|[2504.06920v1](http://arxiv.org/abs/2504.06920v1)|**2025-04-09**|null|
-|**2025-04-09**|**UKBOB: One Billion MRI Labeled Masks for Generalizable 3D Medical Image Segmentation**|Emmanuelle Bourigault et.al.|[2504.06908v1](http://arxiv.org/abs/2504.06908v1)|**2025-04-09**|null|
-|**2025-04-09**|**MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs**|Jiawei Mao et.al.|[2504.06897v1](http://arxiv.org/abs/2504.06897v1)|**2025-04-09**|null|
-|**2025-04-09**|**IAAO: Interactive Affordance Learning for Articulated Objects in 3D Environments**|Can Zhang et.al.|[2504.06827v1](http://arxiv.org/abs/2504.06827v1)|**2025-04-09**|null|
-|**2025-04-09**|**SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering**|Hanxiao Sun et.al.|[2504.06815v1](http://arxiv.org/abs/2504.06815v1)|**2025-04-09**|null|
-|**2025-04-09**|**MonoPlace3D: Learning 3D-Aware Object Placement for 3D Monocular Detection**|Rishubh Parihar et.al.|[2504.06801v2](http://arxiv.org/abs/2504.06801v2)|**2025-04-10**|null|
-|**2025-04-09**|**Hybrid machine learning models based on physical patterns to accelerate CFD simulations: a short guide on autoregressive models**|Arindam Sengupta et.al.|[2504.06774v1](http://arxiv.org/abs/2504.06774v1)|**2025-04-09**|null|
-|**2025-04-09**|**Data-Driven RANS Closures Using a Relative Importance Term Analysis Based Classifier for 2D and 3D Separated Flows**|Tyler Buchanan et.al.|[2504.06758v1](http://arxiv.org/abs/2504.06758v1)|**2025-04-09**|null|
-|**2025-04-09**|**Compass Control: Multi Object Orientation Control for Text-to-Image Generation**|Rishubh Parihar et.al.|[2504.06752v2](http://arxiv.org/abs/2504.06752v2)|**2025-04-10**|null|
-|**2025-04-09**|**Visualisation of a multidimensional point cloud as a 3D swarm of avatars**|Leszek Luchowski et.al.|[2504.06751v1](http://arxiv.org/abs/2504.06751v1)|**2025-04-09**|null|
-|**2025-04-09**|**nnLandmark: A Self-Configuring Method for 3D Medical Landmark Detection**|Alexandra Ertl et.al.|[2504.06742v2](http://arxiv.org/abs/2504.06742v2)|**2025-04-10**|null|
-|**2025-04-09**|**Timing the Escape of a Caged Electron**|Connor Fields et.al.|[2504.06733v1](http://arxiv.org/abs/2504.06733v1)|**2025-04-09**|null|
-|**2025-04-09**|**Masked Scene Modeling: Narrowing the Gap Between Supervised and Self-Supervised Learning in 3D Scene Understanding**|Pedro Hermosilla et.al.|[2504.06719v1](http://arxiv.org/abs/2504.06719v1)|**2025-04-09**|null|
-|**2025-04-09**|**GSta: Efficient Training Scheme with Siestaed Gaussians for Monocular 3D Scene Reconstruction**|Anil Armagan et.al.|[2504.06716v1](http://arxiv.org/abs/2504.06716v1)|**2025-04-09**|null|
-|**2025-04-09**|**Robust and Noise-resilient Long-Term Prediction of Spatiotemporal Data Using Variational Mode Graph Neural Networks with 3D Attention**|Osama Ahmad et.al.|[2504.06660v1](http://arxiv.org/abs/2504.06660v1)|**2025-04-09**|null|
-|**2025-04-09**|**Uni-PrevPredMap: Extending PrevPredMap to a Unified Framework of Prior-Informed Modeling for Online Vectorized HD Map Construction**|Nan Peng et.al.|[2504.06647v2](http://arxiv.org/abs/2504.06647v2)|**2025-04-10**|null|
-|**2025-04-09**|**HGMamba: Enhancing 3D Human Pose Estimation with a HyperGCN-Mamba Network**|Hu Cui et.al.|[2504.06638v1](http://arxiv.org/abs/2504.06638v1)|**2025-04-09**|null|
-|**2025-04-09**|**FACT: Multinomial Misalignment Classification for Point Cloud Registration**|Ludvig Dillén et.al.|[2504.06627v1](http://arxiv.org/abs/2504.06627v1)|**2025-04-09**|null|
-|**2025-04-09**|**Human-like compositional learning of visually-grounded concepts using synthetic environments**|Zijun Lin et.al.|[2504.06618v1](http://arxiv.org/abs/2504.06618v1)|**2025-04-09**|null|
-|**2025-04-09**|**Image registration of 2D optical thin sections in a 3D porous medium: Application to a Berea sandstone digital rock image**|Jaehong Chung et.al.|[2504.06604v1](http://arxiv.org/abs/2504.06604v1)|**2025-04-09**|null|
