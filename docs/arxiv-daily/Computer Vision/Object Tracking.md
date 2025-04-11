@@ -15,7 +15,7 @@
 |**2025-04-09**|**Coreset Strikes Back: Improved Parameterized Approximation Schemes for (Constrained) k-Median/Means**|Sujoy Bhore et.al.|[2504.06980v1](http://arxiv.org/abs/2504.06980v1)|**2025-04-09**|null|
 |**2025-04-09**|**Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation**|Yu Qi et.al.|[2504.06961v1](http://arxiv.org/abs/2504.06961v1)|**2025-04-09**|null|
 |**2025-04-09**|**Higher-Order Color Voronoi Diagrams and the Colorful Clarkson-Shor Framework**|Sang Won Bae et.al.|[2504.06960v1](http://arxiv.org/abs/2504.06960v1)|**2025-04-09**|null|
-|**2025-04-09**|**VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning**|Xinhao Li et.al.|[2504.06958v1](http://arxiv.org/abs/2504.06958v1)|**2025-04-09**|null|
+|**2025-04-09**|**VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning**|Xinhao Li et.al.|[2504.06958v2](http://arxiv.org/abs/2504.06958v2)|**2025-04-10**|null|
 |**2025-04-09**|**Longitudinal Assessment of Lung Lesion Burden in CT**|Tejas Sudharshan Mathai et.al.|[2504.06924v1](http://arxiv.org/abs/2504.06924v1)|**2025-04-09**|null|
 |**2025-04-09**|**Controlling a Social Network of Individuals with Coevolving Actions and Opinions**|Roberta Raineri et.al.|[2504.06913v1](http://arxiv.org/abs/2504.06913v1)|**2025-04-09**|null|
 |**2025-04-09**|**Climate impacts of equatorial superrotation**|Tim Marino et.al.|[2504.06909v1](http://arxiv.org/abs/2504.06909v1)|**2025-04-09**|null|
@@ -28,7 +28,7 @@
 |**2025-04-09**|**Long-period double-lined eclipsing binaries: the system V454 Aur with the secondary eclipse caused by the occultation of the hotter component**|Kniazev Alexei et.al.|[2504.06826v1](http://arxiv.org/abs/2504.06826v1)|**2025-04-09**|null|
 |**2025-04-09**|**How do Copilot Suggestions Impact Developers' Frustration and Productivity?**|Emanuela Guglielmi et.al.|[2504.06808v1](http://arxiv.org/abs/2504.06808v1)|**2025-04-09**|null|
 |**2025-04-09**|**Robust Classification with Noisy Labels Based on Posterior Maximization**|Nicola Novello et.al.|[2504.06805v1](http://arxiv.org/abs/2504.06805v1)|**2025-04-09**|null|
-|**2025-04-09**|**MonoPlace3D: Learning 3D-Aware Object Placement for 3D Monocular Detection**|Rishubh Parihar et.al.|[2504.06801v1](http://arxiv.org/abs/2504.06801v1)|**2025-04-09**|null|
+|**2025-04-09**|**MonoPlace3D: Learning 3D-Aware Object Placement for 3D Monocular Detection**|Rishubh Parihar et.al.|[2504.06801v2](http://arxiv.org/abs/2504.06801v2)|**2025-04-10**|null|
 |**2025-04-09**|**Learning in Spiking Neural Networks with a Calcium-based Hebbian Rule for Spike-timing-dependent Plasticity**|Willian Soares Girão et.al.|[2504.06796v1](http://arxiv.org/abs/2504.06796v1)|**2025-04-09**|null|
 |**2025-04-09**|**Probabilistic Grading and Classification System for End-of-Life Building Components Toward Circular Economy Loop**|Yiping Meng et.al.|[2504.06782v1](http://arxiv.org/abs/2504.06782v1)|**2025-04-09**|null|
 |**2025-04-09**|**CHIME: A Compressive Framework for Holistic Interest Modeling**|Yong Bai et.al.|[2504.06780v1](http://arxiv.org/abs/2504.06780v1)|**2025-04-09**|null|

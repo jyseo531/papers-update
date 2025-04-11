@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-04-10
+Updated on 2025-04-11
 
 > Generated from the Hugging Face database.
 
@@ -31,6 +31,7 @@ Updated on 2025-04-10
 | 2.67k | 5 | Junfeng5/Liquid_V1_7BAny-to-Any | Updated8 days ago | [Link](https://huggingface.co/Junfeng5/Liquid_V1_7B) |
 | 481k | 3.11k | deepseek-ai/Janus-Pro-7BAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-7B) |
 | 78 | 3 | VARGPT-family/VARGPT_LLaVA-v1Any-to-Any | UpdatedJan 23 | [Link](https://huggingface.co/VARGPT-family/VARGPT_LLaVA-v1) |
+| 2 | 3 | impactframes/Janus-1 | UpdatedOct 19, 2024 | [Link](https://huggingface.co/impactframes/Janus-1.3B) |
 | 47 | 2 | PKU-Alignment/AnyRewardModelAny-to-Any | UpdatedDec 28, 2024 | [Link](https://huggingface.co/PKU-Alignment/AnyRewardModel) |
 | 585 | 2 | wnma3mz/Janus-Pro-1B-4bitAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/wnma3mz/Janus-Pro-1B-4bit) |
 | 3 | 2 | lintw/HealthGPT-XL32Any-to-Any | Updatedabout 18 hours ago | [Link](https://huggingface.co/lintw/HealthGPT-XL32) |
@@ -428,6 +429,7 @@ Updated on 2025-04-10
 | 187k | 492 | intfloat/e5-mistral-7b-instructFeature | UpdatedApr 23, 2024 | [Link](https://huggingface.co/intfloat/e5-mistral-7b-instruct) |
 | 358k | 384 | nvidia/NV-Embed-v2Feature | Updated1 day ago | [Link](https://huggingface.co/nvidia/NV-Embed-v2) |
 | 43.6k | 266 | Salesforce/SFR-Embedding-MistralFeature | Updated20 days ago | [Link](https://huggingface.co/Salesforce/SFR-Embedding-Mistral) |
+| 1.15M | 242 | jinaai/jina-clip-v1Feature | UpdatedJan 6 | [Link](https://huggingface.co/jinaai/jina-clip-v1) |
 | 606k | 205 | BAAI/bge-large-enFeature | UpdatedOct 12, 2023 | [Link](https://huggingface.co/BAAI/bge-large-en) |
 | 156k | 172 | BAAI/bge-multilingual-gemma2Feature | UpdatedJul 31, 2024 | [Link](https://huggingface.co/BAAI/bge-multilingual-gemma2) |
 | 2.9M | 164 | facebook/w2v-bert-2 | UpdatedJan 25, 2024 | [Link](https://huggingface.co/facebook/w2v-bert-2.0) |
@@ -453,6 +455,7 @@ Updated on 2025-04-10
 | 6.93k | 34 | microsoft/BiomedVLP-BioViL-TFeature | UpdatedOct 31, 2024 | [Link](https://huggingface.co/microsoft/BiomedVLP-BioViL-T) |
 | 3.29k | 33 | WillHeld/DiVA-llama-3-v0-8bFeature | UpdatedDec 19, 2024 | [Link](https://huggingface.co/WillHeld/DiVA-llama-3-v0-8b) |
 | 22.2k | 31 | facebook/encodec_48khzFeature | UpdatedSep 6, 2023 | [Link](https://huggingface.co/facebook/encodec_48khz) |
+| 2.95M | 31 | microsoft/wavlm-base-plusFeature | UpdatedDec 22, 2021 | [Link](https://huggingface.co/microsoft/wavlm-base-plus) |
 | 16.1k | 29 | Salesforce/SFR-Embedding-Code-2B_RFeature | Updatedabout 1 month ago | [Link](https://huggingface.co/Salesforce/SFR-Embedding-Code-2B_R) |
 | 4.92k | 29 | microsoft/BiomedNLP-KRISSBERT-PubMed-UMLS-ELFeature | UpdatedMay 25, 2022 | [Link](https://huggingface.co/microsoft/BiomedNLP-KRISSBERT-PubMed-UMLS-EL) |
 | 1.04k | 28 | Xenova/bge-m3Feature | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Xenova/bge-m3) |
@@ -1757,6 +1760,7 @@ Updated on 2025-04-10
 | 856 | 11 | T-Systems-onsite/mt5-small-sum-de-en-v2Summarization | UpdatedApr 7, 2024 | [Link](https://huggingface.co/T-Systems-onsite/mt5-small-sum-de-en-v2) |
 | 1.06k | 10 | patrickvonplaten/bert2bert_cnn_daily_mailSummarization | UpdatedJun 25, 2022 | [Link](https://huggingface.co/patrickvonplaten/bert2bert_cnn_daily_mail) |
 | 911 | 10 | ml6team/mt5-small-german-finetune-mlsumSummarization | UpdatedJan 28, 2021 | [Link](https://huggingface.co/ml6team/mt5-small-german-finetune-mlsum) |
+| 452 | 10 | Shahm/bart-germanSummarization | UpdatedAug 29, 2023 | [Link](https://huggingface.co/Shahm/bart-german) |
 | 1.88k | 9 | deutsche-telekom/mt5-small-sum-de-mit-v1Summarization | UpdatedMay 18, 2023 | [Link](https://huggingface.co/deutsche-telekom/mt5-small-sum-de-mit-v1) |
 | 64 | 5 | HooshvareLab/pn-summary-b2b-sharedSummarization | UpdatedJun 8, 2021 | [Link](https://huggingface.co/HooshvareLab/pn-summary-b2b-shared) |
 | 637 | 3 | HooshvareLab/pn-summary-mt5-baseSummarization | UpdatedMay 5, 2021 | [Link](https://huggingface.co/HooshvareLab/pn-summary-mt5-base) |
@@ -1965,6 +1969,7 @@ Updated on 2025-04-10
 | 2.53k | 5 | gpustack/jina-reranker-v2-base-multilingual-GGUFText | UpdatedJan 14 | [Link](https://huggingface.co/gpustack/jina-reranker-v2-base-multilingual-GGUF) |
 | 13.6k | 5 | WebOrganizer/FormatClassifierText | UpdatedFeb 19 | [Link](https://huggingface.co/WebOrganizer/FormatClassifier) |
 | 3 | 5 | oumi-ai/HallOumi-8B-classifierText | Updated1 day ago | [Link](https://huggingface.co/oumi-ai/HallOumi-8B-classifier) |
+| 131 | 5 | ESGBERT/EnvironmentalBERT-biodiversityText | UpdatedJan 14, 2024 | [Link](https://huggingface.co/ESGBERT/EnvironmentalBERT-biodiversity) |
 | 33 | 4 | WebOrganizer/TopicClassifierText | Updated5 days ago | [Link](https://huggingface.co/WebOrganizer/TopicClassifier) |
 | 13 | 4 | lemon42-ai/ThreatDetect-C-CppText | Updatedabout 13 hours ago | [Link](https://huggingface.co/lemon42-ai/ThreatDetect-C-Cpp) |
 | 134 | 4 | WebOrganizer/FormatClassifier-NoURLText | Updated18 days ago | [Link](https://huggingface.co/WebOrganizer/FormatClassifier-NoURL) |
@@ -2210,6 +2215,8 @@ Updated on 2025-04-10
 | 503 | 1 | sdadas/polish-reranker-base-ranknetText | Updatedabout 11 hours ago | [Link](https://huggingface.co/sdadas/polish-reranker-base-ranknet) |
 | 2 | 1 | axotion/polish-reranker-base-ranknetText | Updatedabout 5 hours ago | [Link](https://huggingface.co/axotion/polish-reranker-base-ranknet) |
 | 969 | 1 | Mungert/mxbai-rerank-large-v2-GGUFText | Updatedabout 10 hours ago | [Link](https://huggingface.co/Mungert/mxbai-rerank-large-v2-GGUF) |
+| 26 | 1 | ALJIACHI/Mizan-Rerank-v1Text | Updated8 days ago | [Link](https://huggingface.co/ALJIACHI/Mizan-Rerank-v1) |
+| 31 | 1 | yjoonjang/preranker-v1Text | Updated2 days ago | [Link](https://huggingface.co/yjoonjang/preranker-v1) |
 | Unknown | Unknown | tomaarsen/reranker-msmarco-v1 | Updated18 minutes ago | [Link](https://huggingface.co/tomaarsen/reranker-msmarco-v1.1-MiniLM-L12-H384-uncased-plistmle-seeded) |
 | 7 | Unknown | tomaarsen/reranker-ModernBERT-base-gooaq-lambdaText | Updatedabout 11 hours ago | [Link](https://huggingface.co/tomaarsen/reranker-ModernBERT-base-gooaq-lambda) |
 | Unknown | Unknown | tomaarsen/reranker-ModernBERT-base-gooaq-bce-soft-negsText | Updatedabout 11 hours ago | [Link](https://huggingface.co/tomaarsen/reranker-ModernBERT-base-gooaq-bce-soft-negs) |
@@ -2644,6 +2651,7 @@ Updated on 2025-04-10
 | 43 | 2 | stanfordnlp/mrt5-largeText2Text | Updated1 day ago | [Link](https://huggingface.co/stanfordnlp/mrt5-large) |
 | 8 | 2 | Hamzah-Asadullah/GenericRPV2-4BText2Text | Updated2 days ago | [Link](https://huggingface.co/Hamzah-Asadullah/GenericRPV2-4B) |
 | 46 | 2 | neo4j/text-to-cypher-Gemma-3-27B-Instruct-2025 | Updated4 days ago | [Link](https://huggingface.co/neo4j/text-to-cypher-Gemma-3-27B-Instruct-2025.04.0) |
+| 160 | 2 | neo4j/text-to-cypher-Gemma-3-4B-Instruct-2025 | Updated8 days ago | [Link](https://huggingface.co/neo4j/text-to-cypher-Gemma-3-4B-Instruct-2025.04.0) |
 | 31 | 1 | Ayham/bert_roberta_summarization_cnn_dailymailText2Text | UpdatedFeb 24, 2022 | [Link](https://huggingface.co/Ayham/bert_roberta_summarization_cnn_dailymail) |
 | 121 | 1 | cnicu/pegasus-xsum-booksumText2Text | UpdatedFeb 26, 2022 | [Link](https://huggingface.co/cnicu/pegasus-xsum-booksum) |
 | 393k | 1.23k | google/flan-t5-xxlText2Text | UpdatedJul 27, 2023 | [Link](https://huggingface.co/google/flan-t5-xxl) |
@@ -3308,6 +3316,7 @@ Updated on 2025-04-10
 | 51 | 1 | Xenova/owlvit-base-patch32Zero-Shot | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Xenova/owlvit-base-patch32) |
 | 48 | 1 | jameslahm/yoloe-11l-segZero-Shot | Updated12 days ago | [Link](https://huggingface.co/jameslahm/yoloe-11l-seg) |
 | 774 | 1 | jameslahm/yoloe-v8l-segZero-Shot | Updated13 days ago | [Link](https://huggingface.co/jameslahm/yoloe-v8l-seg) |
+| 55 | 1 | fushh7/llmdet_swin_large_hfZero-Shot | Updated3 days ago | [Link](https://huggingface.co/fushh7/llmdet_swin_large_hf) |
 | 112 | Unknown | hf-tiny-model-private/tiny-random-OwlViTForObjectDetectionZero-Shot | UpdatedMar 29, 2023 | [Link](https://huggingface.co/hf-tiny-model-private/tiny-random-OwlViTForObjectDetection) |
 | 79 | Unknown | juhi7ag/idea-modelZero-Shot | UpdatedJul 28, 2023 | [Link](https://huggingface.co/juhi7ag/idea-model) |
 | 16 | Unknown | Xenova/owlvit-base-patch16Zero-Shot | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Xenova/owlvit-base-patch16) |
@@ -3326,4 +3335,5 @@ Updated on 2025-04-10
 | 6 | Unknown | Gunulhona/owlvit-base-patch32-qint8Zero-Shot | UpdatedApr 4, 2024 | [Link](https://huggingface.co/Gunulhona/owlvit-base-patch32-qint8) |
 | 11 | Unknown | rathi2023/owlvit-base-patch32_FT_cppe5Zero-Shot | UpdatedApr 16, 2024 | [Link](https://huggingface.co/rathi2023/owlvit-base-patch32_FT_cppe5) |
 | 1 | Unknown | Blueway/inference-endpoint-for-omdet-turbo-swin-tiny-hfZero-Shot | Updatedabout 9 hours ago | [Link](https://huggingface.co/Blueway/inference-endpoint-for-omdet-turbo-swin-tiny-hf) |
+| 4 | Unknown | fushh7/LLMDetZero-Shot | Updated4 days ago | [Link](https://huggingface.co/fushh7/LLMDet) |
 

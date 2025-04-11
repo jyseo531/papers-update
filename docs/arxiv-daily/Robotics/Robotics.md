@@ -27,7 +27,7 @@
 |**2025-04-09**|**A Multi-Modal Interaction Framework for Efficient Human-Robot Collaborative Shelf Picking**|Abhinav Pathak et.al.|[2504.06593v1](http://arxiv.org/abs/2504.06593v1)|**2025-04-09**|null|
 |**2025-04-09**|**Sim-to-Real of Humanoid Locomotion Policies via Joint Torque Space Perturbation Injection**|Woohyun Cha et.al.|[2504.06585v1](http://arxiv.org/abs/2504.06585v1)|**2025-04-09**|null|
 |**2025-04-09**|**CAFE-AD: Cross-Scenario Adaptive Feature Enhancement for Trajectory Planning in Autonomous Driving**|Junrui Zhang et.al.|[2504.06584v1](http://arxiv.org/abs/2504.06584v1)|**2025-04-09**|null|
-|**2025-04-09**|**ASHiTA: Automatic Scene-grounded HIerarchical Task Analysis**|Yun Chang et.al.|[2504.06553v1](http://arxiv.org/abs/2504.06553v1)|**2025-04-09**|null|
+|**2025-04-09**|**ASHiTA: Automatic Scene-grounded HIerarchical Task Analysis**|Yun Chang et.al.|[2504.06553v2](http://arxiv.org/abs/2504.06553v2)|**2025-04-10**|null|
 |**2025-04-09**|**OPAL: Encoding Causal Understanding of Physical Systems for Robot Learning**|Daniel Tcheurekdjian et.al.|[2504.06538v1](http://arxiv.org/abs/2504.06538v1)|**2025-04-09**|null|
 |**2025-04-09**|**Controller Distillation Reduces Fragile Brain-Body Co-Adaptation and Enables Migrations in MAP-Elites**|Alican Mertan et.al.|[2504.06523v1](http://arxiv.org/abs/2504.06523v1)|**2025-04-09**|null|
 |**2025-04-09**|**Safe Navigation in Uncertain Crowded Environments Using Risk Adaptive CVaR Barrier Functions**|Xinyi Wang et.al.|[2504.06513v1](http://arxiv.org/abs/2504.06513v1)|**2025-04-09**|null|

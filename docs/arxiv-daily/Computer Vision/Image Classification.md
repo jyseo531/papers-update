@@ -17,7 +17,7 @@
 |**2025-04-09**|**Revisiting X-ray polarization of the shell of Cassiopeia A using spectropolarimetric analysis**|Alessandra Mercuri et.al.|[2504.07051v1](http://arxiv.org/abs/2504.07051v1)|**2025-04-09**|null|
 |**2025-04-09**|**A Unified Agentic Framework for Evaluating Conditional Image Generation**|Jifang Wang et.al.|[2504.07046v1](http://arxiv.org/abs/2504.07046v1)|**2025-04-09**|null|
 |**2025-04-09**|**Classification results for totally real surfaces of nearly Kähler $\mathbb{C}P^3$**|Michaël Liefsoens et.al.|[2504.07035v1](http://arxiv.org/abs/2504.07035v1)|**2025-04-09**|null|
-|**2025-04-09**|**A Uniform Framework for Handling Position Constraints in String Solving (Technical Report)**|Yu-Fang Chen et.al.|[2504.07033v1](http://arxiv.org/abs/2504.07033v1)|**2025-04-09**|null|
+|**2025-04-09**|**A Uniform Framework for Handling Position Constraints in String Solving (Technical Report)**|Yu-Fang Chen et.al.|[2504.07033v2](http://arxiv.org/abs/2504.07033v2)|**2025-04-10**|null|
 |**2025-04-09**|**Distilling Textual Priors from LLM to Efficient Image Fusion**|Ran Zhang et.al.|[2504.07029v1](http://arxiv.org/abs/2504.07029v1)|**2025-04-09**|null|
 |**2025-04-09**|**Glossy Object Reconstruction with Cost-effective Polarized Acquisition**|Bojian Wu et.al.|[2504.07025v1](http://arxiv.org/abs/2504.07025v1)|**2025-04-09**|null|
 |**2025-04-09**|**Latent Diffusion U-Net Representations Contain Positional Embeddings and Anomalies**|Jonas Loos et.al.|[2504.07008v1](http://arxiv.org/abs/2504.07008v1)|**2025-04-09**|[link](https://github.com/JonasLoos/sd-representation-anomalies)|
@@ -28,7 +28,7 @@
 |**2025-04-09**|**Framelets and Wavelets with Mixed Dilation Factors**|Ran Lu et.al.|[2504.06974v1](http://arxiv.org/abs/2504.06974v1)|**2025-04-09**|null|
 |**2025-04-09**|**A Deep Single Image Rectification Approach for Pan-Tilt-Zoom Cameras**|Teng Xiao et.al.|[2504.06965v1](http://arxiv.org/abs/2504.06965v1)|**2025-04-09**|null|
 |**2025-04-09**|**Temporal dynamics of GHz acoustic waves in chipscale phononic integrated circuits**|A. Fahad Malik et.al.|[2504.06959v1](http://arxiv.org/abs/2504.06959v1)|**2025-04-09**|null|
-|**2025-04-09**|**VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning**|Xinhao Li et.al.|[2504.06958v1](http://arxiv.org/abs/2504.06958v1)|**2025-04-09**|null|
+|**2025-04-09**|**VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning**|Xinhao Li et.al.|[2504.06958v2](http://arxiv.org/abs/2504.06958v2)|**2025-04-10**|null|
 |**2025-04-09**|**A Comparison of Deep Learning Methods for Cell Detection in Digital Cytology**|Marco Acerbis et.al.|[2504.06957v1](http://arxiv.org/abs/2504.06957v1)|**2025-04-09**|null|
 |**2025-04-09**|**PathSegDiff: Pathology Segmentation using Diffusion model representations**|Sachin Kumar Danisetty et.al.|[2504.06950v1](http://arxiv.org/abs/2504.06950v1)|**2025-04-09**|null|
 |**2025-04-09**|**Minimal rational graphs admitting a QHD smoothing**|Márton Beke et.al.|[2504.06929v1](http://arxiv.org/abs/2504.06929v1)|**2025-04-09**|null|

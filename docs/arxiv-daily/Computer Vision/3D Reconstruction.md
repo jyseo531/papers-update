@@ -17,17 +17,17 @@
 |**2025-04-09**|**MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs**|Jiawei Mao et.al.|[2504.06897v1](http://arxiv.org/abs/2504.06897v1)|**2025-04-09**|null|
 |**2025-04-09**|**IAAO: Interactive Affordance Learning for Articulated Objects in 3D Environments**|Can Zhang et.al.|[2504.06827v1](http://arxiv.org/abs/2504.06827v1)|**2025-04-09**|null|
 |**2025-04-09**|**SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering**|Hanxiao Sun et.al.|[2504.06815v1](http://arxiv.org/abs/2504.06815v1)|**2025-04-09**|null|
-|**2025-04-09**|**MonoPlace3D: Learning 3D-Aware Object Placement for 3D Monocular Detection**|Rishubh Parihar et.al.|[2504.06801v1](http://arxiv.org/abs/2504.06801v1)|**2025-04-09**|null|
+|**2025-04-09**|**MonoPlace3D: Learning 3D-Aware Object Placement for 3D Monocular Detection**|Rishubh Parihar et.al.|[2504.06801v2](http://arxiv.org/abs/2504.06801v2)|**2025-04-10**|null|
 |**2025-04-09**|**Hybrid machine learning models based on physical patterns to accelerate CFD simulations: a short guide on autoregressive models**|Arindam Sengupta et.al.|[2504.06774v1](http://arxiv.org/abs/2504.06774v1)|**2025-04-09**|null|
 |**2025-04-09**|**Data-Driven RANS Closures Using a Relative Importance Term Analysis Based Classifier for 2D and 3D Separated Flows**|Tyler Buchanan et.al.|[2504.06758v1](http://arxiv.org/abs/2504.06758v1)|**2025-04-09**|null|
-|**2025-04-09**|**Compass Control: Multi Object Orientation Control for Text-to-Image Generation**|Rishbuh Parihar et.al.|[2504.06752v1](http://arxiv.org/abs/2504.06752v1)|**2025-04-09**|null|
+|**2025-04-09**|**Compass Control: Multi Object Orientation Control for Text-to-Image Generation**|Rishubh Parihar et.al.|[2504.06752v2](http://arxiv.org/abs/2504.06752v2)|**2025-04-10**|null|
 |**2025-04-09**|**Visualisation of a multidimensional point cloud as a 3D swarm of avatars**|Leszek Luchowski et.al.|[2504.06751v1](http://arxiv.org/abs/2504.06751v1)|**2025-04-09**|null|
-|**2025-04-09**|**nnLandmark: A Self-Configuring Method for 3D Medical Landmark Detection**|Alexandra Ertl et.al.|[2504.06742v1](http://arxiv.org/abs/2504.06742v1)|**2025-04-09**|null|
+|**2025-04-09**|**nnLandmark: A Self-Configuring Method for 3D Medical Landmark Detection**|Alexandra Ertl et.al.|[2504.06742v2](http://arxiv.org/abs/2504.06742v2)|**2025-04-10**|null|
 |**2025-04-09**|**Timing the Escape of a Caged Electron**|Connor Fields et.al.|[2504.06733v1](http://arxiv.org/abs/2504.06733v1)|**2025-04-09**|null|
 |**2025-04-09**|**Masked Scene Modeling: Narrowing the Gap Between Supervised and Self-Supervised Learning in 3D Scene Understanding**|Pedro Hermosilla et.al.|[2504.06719v1](http://arxiv.org/abs/2504.06719v1)|**2025-04-09**|null|
 |**2025-04-09**|**GSta: Efficient Training Scheme with Siestaed Gaussians for Monocular 3D Scene Reconstruction**|Anil Armagan et.al.|[2504.06716v1](http://arxiv.org/abs/2504.06716v1)|**2025-04-09**|null|
 |**2025-04-09**|**Robust and Noise-resilient Long-Term Prediction of Spatiotemporal Data Using Variational Mode Graph Neural Networks with 3D Attention**|Osama Ahmad et.al.|[2504.06660v1](http://arxiv.org/abs/2504.06660v1)|**2025-04-09**|null|
-|**2025-04-09**|**Uni-PrevPredMap: Extending PrevPredMap to a Unified Framework of Prior-Informed Modeling for Online Vectorized HD Map Construction**|Nan Peng et.al.|[2504.06647v1](http://arxiv.org/abs/2504.06647v1)|**2025-04-09**|null|
+|**2025-04-09**|**Uni-PrevPredMap: Extending PrevPredMap to a Unified Framework of Prior-Informed Modeling for Online Vectorized HD Map Construction**|Nan Peng et.al.|[2504.06647v2](http://arxiv.org/abs/2504.06647v2)|**2025-04-10**|null|
 |**2025-04-09**|**HGMamba: Enhancing 3D Human Pose Estimation with a HyperGCN-Mamba Network**|Hu Cui et.al.|[2504.06638v1](http://arxiv.org/abs/2504.06638v1)|**2025-04-09**|null|
 |**2025-04-09**|**FACT: Multinomial Misalignment Classification for Point Cloud Registration**|Ludvig Dillén et.al.|[2504.06627v1](http://arxiv.org/abs/2504.06627v1)|**2025-04-09**|null|
 |**2025-04-09**|**Human-like compositional learning of visually-grounded concepts using synthetic environments**|Zijun Lin et.al.|[2504.06618v1](http://arxiv.org/abs/2504.06618v1)|**2025-04-09**|null|

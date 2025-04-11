@@ -2,12 +2,12 @@
 ### Visual Localization
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-09**|**GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography**|Mengchen Zhang et.al.|[2504.07083v1](http://arxiv.org/abs/2504.07083v1)|**2025-04-09**|null|
+|**2025-04-09**|**GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography**|Mengchen Zhang et.al.|[2504.07083v2](http://arxiv.org/abs/2504.07083v2)|**2025-04-10**|null|
 |**2025-04-09**|**Glossy Object Reconstruction with Cost-effective Polarized Acquisition**|Bojian Wu et.al.|[2504.07025v1](http://arxiv.org/abs/2504.07025v1)|**2025-04-09**|null|
 |**2025-04-09**|**A Deep Single Image Rectification Approach for Pan-Tilt-Zoom Cameras**|Teng Xiao et.al.|[2504.06965v1](http://arxiv.org/abs/2504.06965v1)|**2025-04-09**|null|
 |**2025-04-09**|**GraspClutter6D: A Large-scale Real-world Dataset for Robust Perception and Grasping in Cluttered Scenes**|Seunghyeok Back et.al.|[2504.06866v1](http://arxiv.org/abs/2504.06866v1)|**2025-04-09**|null|
 |**2025-04-09**|**MovSAM: A Single-image Moving Object Segmentation Framework Based on Deep Thinking**|Chang Nie et.al.|[2504.06863v1](http://arxiv.org/abs/2504.06863v1)|**2025-04-09**|null|
-|**2025-04-09**|**Large-Scale (Semi-)Automated Security Assessment of Consumer IoT Devices -- A Roadmap**|Pascal Schöttle et.al.|[2504.06712v1](http://arxiv.org/abs/2504.06712v1)|**2025-04-09**|null|
+|**2025-04-09**|**Large-Scale (Semi-)Automated Security Assessment of Consumer IoT Devices -- A Roadmap**|Pascal Schöttle et.al.|[2504.06712v2](http://arxiv.org/abs/2504.06712v2)|**2025-04-10**|null|
 |**2025-04-09**|**TSP-OCS: A Time-Series Prediction for Optimal Camera Selection in Multi-Viewpoint Surgical Video Analysis**|Xinyu Liu et.al.|[2504.06527v1](http://arxiv.org/abs/2504.06527v1)|**2025-04-09**|null|
 |**2025-04-08**|**Implementation of a Zed 2i Stereo Camera for High-Frequency Shoreline Change and Coastal Elevation Monitoring**|José A. Pilartes-Congo et.al.|[2504.06464v1](http://arxiv.org/abs/2504.06464v1)|**2025-04-08**|null|
 |**2025-04-08**|**From Broadcast to Minimap: Achieving State-of-the-Art SoccerNet Game State Reconstruction**|Vladimir Golovkin et.al.|[2504.06357v1](http://arxiv.org/abs/2504.06357v1)|**2025-04-08**|null|

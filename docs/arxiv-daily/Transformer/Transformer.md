@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-04-09**|**Neural Motion Simulator: Pushing the Limit of World Models in Reinforcement Learning**|Chenjie Hao et.al.|[2504.07095v1](http://arxiv.org/abs/2504.07095v1)|**2025-04-09**|null|
 |**2025-04-09**|**OmniCaptioner: One Captioner to Rule Them All**|Yiting Lu et.al.|[2504.07089v1](http://arxiv.org/abs/2504.07089v1)|**2025-04-09**|null|
-|**2025-04-09**|**GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography**|Mengchen Zhang et.al.|[2504.07083v1](http://arxiv.org/abs/2504.07083v1)|**2025-04-09**|null|
+|**2025-04-09**|**GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography**|Mengchen Zhang et.al.|[2504.07083v2](http://arxiv.org/abs/2504.07083v2)|**2025-04-10**|null|
 |**2025-04-09**|**$Π$-NeSy: A Possibilistic Neuro-Symbolic Approach**|Ismaïl Baaj et.al.|[2504.07055v1](http://arxiv.org/abs/2504.07055v1)|**2025-04-09**|null|
 |**2025-04-09**|**LLM-IFT: LLM-Powered Information Flow Tracking for Secure Hardware**|Nowfel Mashnoor et.al.|[2504.07015v1](http://arxiv.org/abs/2504.07015v1)|**2025-04-09**|null|
 |**2025-04-09**|**FAME: Introducing Fuzzy Additive Models for Explainable AI**|Omer Bahadir Gokmen et.al.|[2504.07011v1](http://arxiv.org/abs/2504.07011v1)|**2025-04-09**|null|
@@ -22,10 +22,10 @@
 |**2025-04-09**|**EDIT: Enhancing Vision Transformers by Mitigating Attention Sink through an Encoder-Decoder Architecture**|Wenfeng Feng et.al.|[2504.06738v1](http://arxiv.org/abs/2504.06738v1)|**2025-04-09**|null|
 |**2025-04-09**|**Masked Scene Modeling: Narrowing the Gap Between Supervised and Self-Supervised Learning in 3D Scene Understanding**|Pedro Hermosilla et.al.|[2504.06719v1](http://arxiv.org/abs/2504.06719v1)|**2025-04-09**|null|
 |**2025-04-09**|**CAT: Circular-Convolutional Attention for Sub-Quadratic Transformers**|Yoshihiro Yamada et.al.|[2504.06704v1](http://arxiv.org/abs/2504.06704v1)|**2025-04-09**|null|
-|**2025-04-09**|**Emergent Metric from Wavelet-transformed Quantum Field Theory**|Šimon Vedl et.al.|[2504.06698v1](http://arxiv.org/abs/2504.06698v1)|**2025-04-09**|null|
+|**2025-04-09**|**Emergent metric from wavelet-transformed quantum field theory**|Šimon Vedl et.al.|[2504.06698v2](http://arxiv.org/abs/2504.06698v2)|**2025-04-10**|null|
 |**2025-04-09**|**Kerr enhanced optomechanical entanglement via reservoir design**|Yan Li et.al.|[2504.06696v1](http://arxiv.org/abs/2504.06696v1)|**2025-04-09**|null|
 |**2025-04-09**|**Semiclassical concentration estimates for Berezin-Toeplitz quasimodes for regular energies**|Nathan Réguer et.al.|[2504.06648v1](http://arxiv.org/abs/2504.06648v1)|**2025-04-09**|null|
-|**2025-04-09**|**AMAD: AutoMasked Attention for Unsupervised Multivariate Time Series Anomaly Detection**|Tiange Huang et.al.|[2504.06643v1](http://arxiv.org/abs/2504.06643v1)|**2025-04-09**|null|
+|**2025-04-09**|**AMAD: AutoMasked Attention for Unsupervised Multivariate Time Series Anomaly Detection**|Tiange Huang et.al.|[2504.06643v2](http://arxiv.org/abs/2504.06643v2)|**2025-04-10**|null|
 |**2025-04-09**|**Crafting Query-Aware Selective Attention for Single Image Super-Resolution**|Junyoung Kim et.al.|[2504.06634v1](http://arxiv.org/abs/2504.06634v1)|**2025-04-09**|null|
 |**2025-04-09**|**The Method for Storing Patterns in Neural Networks-Memorization and Recall of QR code Patterns-**|Hiroshi Inazawa et.al.|[2504.06631v1](http://arxiv.org/abs/2504.06631v1)|**2025-04-09**|null|
 |**2025-04-09**|**Rethinking LayerNorm in Image Restoration Transformers**|MinKyu Lee et.al.|[2504.06629v1](http://arxiv.org/abs/2504.06629v1)|**2025-04-09**|null|

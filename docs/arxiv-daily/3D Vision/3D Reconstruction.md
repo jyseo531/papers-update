@@ -23,12 +23,12 @@
 |**2025-04-09**|**Machine Learning-Assisted Unfolding for Neutrino Cross-section Measurements**|Roger G. Huang et.al.|[2504.06857v1](http://arxiv.org/abs/2504.06857v1)|**2025-04-09**|null|
 |**2025-04-09**|**IAAO: Interactive Affordance Learning for Articulated Objects in 3D Environments**|Can Zhang et.al.|[2504.06827v1](http://arxiv.org/abs/2504.06827v1)|**2025-04-09**|null|
 |**2025-04-09**|**SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering**|Hanxiao Sun et.al.|[2504.06815v1](http://arxiv.org/abs/2504.06815v1)|**2025-04-09**|null|
-|**2025-04-09**|**MonoPlace3D: Learning 3D-Aware Object Placement for 3D Monocular Detection**|Rishubh Parihar et.al.|[2504.06801v1](http://arxiv.org/abs/2504.06801v1)|**2025-04-09**|null|
+|**2025-04-09**|**MonoPlace3D: Learning 3D-Aware Object Placement for 3D Monocular Detection**|Rishubh Parihar et.al.|[2504.06801v2](http://arxiv.org/abs/2504.06801v2)|**2025-04-10**|null|
 |**2025-04-09**|**Modified gravity realizations of quintom dark energy after DESI DR2**|Yuhang Yang et.al.|[2504.06784v1](http://arxiv.org/abs/2504.06784v1)|**2025-04-09**|null|
 |**2025-04-09**|**Organization of Historical Oceanic Overturnings on Cross-Sphere Climate Signals**|Yingjing Jiang et.al.|[2504.06783v1](http://arxiv.org/abs/2504.06783v1)|**2025-04-09**|null|
 |**2025-04-09**|**End2end-ALARA: Approaching the ALARA Law in CT Imaging with End-to-end Learning**|Xi Tao et.al.|[2504.06777v1](http://arxiv.org/abs/2504.06777v1)|**2025-04-09**|null|
 |**2025-04-09**|**Hybrid machine learning models based on physical patterns to accelerate CFD simulations: a short guide on autoregressive models**|Arindam Sengupta et.al.|[2504.06774v1](http://arxiv.org/abs/2504.06774v1)|**2025-04-09**|null|
 |**2025-04-09**|**Data-Driven RANS Closures Using a Relative Importance Term Analysis Based Classifier for 2D and 3D Separated Flows**|Tyler Buchanan et.al.|[2504.06758v1](http://arxiv.org/abs/2504.06758v1)|**2025-04-09**|null|
 |**2025-04-09**|**FANeRV: Frequency Separation and Augmentation based Neural Representation for Video**|Li Yu et.al.|[2504.06755v1](http://arxiv.org/abs/2504.06755v1)|**2025-04-09**|null|
-|**2025-04-09**|**Compass Control: Multi Object Orientation Control for Text-to-Image Generation**|Rishbuh Parihar et.al.|[2504.06752v1](http://arxiv.org/abs/2504.06752v1)|**2025-04-09**|null|
+|**2025-04-09**|**Compass Control: Multi Object Orientation Control for Text-to-Image Generation**|Rishubh Parihar et.al.|[2504.06752v2](http://arxiv.org/abs/2504.06752v2)|**2025-04-10**|null|
 |**2025-04-09**|**Visualisation of a multidimensional point cloud as a 3D swarm of avatars**|Leszek Luchowski et.al.|[2504.06751v1](http://arxiv.org/abs/2504.06751v1)|**2025-04-09**|null|
