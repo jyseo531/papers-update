@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-04-12
+Updated on 2025-04-13
 
 > Generated from the Hugging Face database.
 
@@ -653,6 +653,7 @@ Updated on 2025-04-12
 | 4.23M |  | yikuan8/Clinical-LongformerFill-Mask | UpdatedJan 24, 2023 | [Link](https://huggingface.co/yikuan8/Clinical-Longformer) |
 | 631k |  | facebook/esm2_t33_650M_UR50DFill-Mask | UpdatedMar 21, 2023 | [Link](https://huggingface.co/facebook/esm2_t33_650M_UR50D) |
 | 2 | Unknown | almanach/moderncamembert-baseFill-Mask | Updatedabout 12 hours ago | [Link](https://huggingface.co/almanach/moderncamembert-base) |
+| 13.3k |  | google/muril-base-casedFill-Mask | UpdatedJun 10, 2022 | [Link](https://huggingface.co/google/muril-base-cased) |
 
 ## Graph Machine Learning
 
@@ -738,6 +739,7 @@ Updated on 2025-04-12
 | 65 | 7 | enzostvs/hair-colorImage | UpdatedNov 17, 2023 | [Link](https://huggingface.co/enzostvs/hair-color) |
 | 65.5M | 6 | dima806/fairface_age_image_detectionImage | UpdatedDec 15, 2024 | [Link](https://huggingface.co/dima806/fairface_age_image_detection) |
 | 215 | 6 | dima806/traffic_sign_detectionImage | UpdatedOct 19, 2024 | [Link](https://huggingface.co/dima806/traffic_sign_detection) |
+| 1.01k | 6 | microsoft/swin-large-patch4-window12-384-in22kImage | UpdatedMay 16, 2022 | [Link](https://huggingface.co/microsoft/swin-large-patch4-window12-384-in22k) |
 | 1.97k | 5 | timm/vit_mediumd_patch16_reg4_gap_384 | UpdatedJan 21 | [Link](https://huggingface.co/timm/vit_mediumd_patch16_reg4_gap_384.sbb2_e200_in12k_ft_in1k) |
 | 1.12k | 5 | akahana/vit-base-cats-vs-dogsImage | UpdatedSep 19, 2023 | [Link](https://huggingface.co/akahana/vit-base-cats-vs-dogs) |
 | 45 | 5 | espejelomar/fastai-pet-breeds-classificationImage | UpdatedOct 12, 2021 | [Link](https://huggingface.co/espejelomar/fastai-pet-breeds-classification) |
@@ -1008,6 +1010,7 @@ Updated on 2025-04-12
 | 10.7k | 13 | unsloth/Llama-4-Maverick-17B-128E-Instruct-GGUFImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/unsloth/Llama-4-Maverick-17B-128E-Instruct-GGUF) |
 | 140 | 13 | OpenGVLab/InternVL3-8BImage-Text-to-Text | Updated38 minutes ago | [Link](https://huggingface.co/OpenGVLab/InternVL3-8B) |
 | 74 | 13 | OpenGVLab/InternVL3-1BImage-Text-to-Text | Updated39 minutes ago | [Link](https://huggingface.co/OpenGVLab/InternVL3-1B) |
+| 50 | 13 | OpenGVLab/InternVL3-38BImage-Text-to-Text | Updatedabout 15 hours ago | [Link](https://huggingface.co/OpenGVLab/InternVL3-38B) |
 | 225 | 12 | ds4sd/SmolDocling-256M-preview-mlx-bf16Image-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/ds4sd/SmolDocling-256M-preview-mlx-bf16) |
 | 918 | 11 | mlabonne/gemma-3-27b-it-abliterated-GGUFImage-Text-to-Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-abliterated-GGUF) |
 | 4.38k | 11 | bartowski/mlabonne_gemma-3-27b-it-abliterated-GGUFImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/bartowski/mlabonne_gemma-3-27b-it-abliterated-GGUF) |
@@ -1810,6 +1813,7 @@ Updated on 2025-04-12
 | 718 |  | ainize/kobart-newsSummarization | UpdatedJun 29, 2021 | [Link](https://huggingface.co/ainize/kobart-news) |
 | 1.07M |  | sshleifer/distilbart-cnn-12-6Summarization | UpdatedJun 14, 2021 | [Link](https://huggingface.co/sshleifer/distilbart-cnn-12-6) |
 | 13.9k |  | lidiya/bart-large-xsum-samsumSummarization | UpdatedMar 16, 2023 | [Link](https://huggingface.co/lidiya/bart-large-xsum-samsum) |
+| 40 |  | deep-learning-analytics/wikihow-t5-smallSummarization | UpdatedSep 9, 2020 | [Link](https://huggingface.co/deep-learning-analytics/wikihow-t5-small) |
 
 ## Table Question Answering
 
@@ -1955,6 +1959,8 @@ Updated on 2025-04-12
 | 903 | 24 | yiyanghkust/finbert-tone-chineseText | UpdatedFeb 6, 2024 | [Link](https://huggingface.co/yiyanghkust/finbert-tone-chinese) |
 | 1.33k | 24 | mrm8488/deberta-v3-ft-financial-news-sentiment-analysisText | UpdatedJan 21, 2024 | [Link](https://huggingface.co/mrm8488/deberta-v3-ft-financial-news-sentiment-analysis) |
 | 10.1k | 22 | bucketresearch/politicalBiasBERTText | UpdatedJul 13, 2023 | [Link](https://huggingface.co/bucketresearch/politicalBiasBERT) |
+| 1.72M | 19 | microsoft/deberta-xlarge-mnliText | UpdatedJun 27, 2022 | [Link](https://huggingface.co/microsoft/deberta-xlarge-mnli) |
+| 585 | 19 | infly/INF-ORM-Llama3 | Updated11 days ago | [Link](https://huggingface.co/infly/INF-ORM-Llama3.1-70B) |
 | 22.8k | 18 | MilaNLProc/feel-it-italian-emotionText | UpdatedAug 15, 2022 | [Link](https://huggingface.co/MilaNLProc/feel-it-italian-emotion) |
 | 1.05k | 15 | FreedomIntelligence/medical_o1_verifier_3BText | UpdatedDec 30, 2024 | [Link](https://huggingface.co/FreedomIntelligence/medical_o1_verifier_3B) |
 | 4.78k | 15 | katanemo/Arch-GuardText | UpdatedJan 15 | [Link](https://huggingface.co/katanemo/Arch-Guard) |
@@ -2813,6 +2819,7 @@ Updated on 2025-04-12
 | 11 | 2 | Ihor/gliner-biomed-small-v1 | Updatedabout 24 hours ago | [Link](https://huggingface.co/Ihor/gliner-biomed-small-v1.0) |
 | 19 | 2 | Ihor/gliner-biomed-base-v1 | Updatedabout 6 hours ago | [Link](https://huggingface.co/Ihor/gliner-biomed-base-v1.0) |
 | 11 | 2 | Ihor/gliner-biomed-bi-small-v1 | Updatedabout 6 hours ago | [Link](https://huggingface.co/Ihor/gliner-biomed-bi-small-v1.0) |
+| 52 | 2 | mirth/chonky_distilbert_base_uncased_1Token | Updated3 days ago | [Link](https://huggingface.co/mirth/chonky_distilbert_base_uncased_1) |
 | 168 | 1 | dccuchile/distilbert-base-spanish-uncased-finetuned-nerToken | UpdatedJan 6, 2022 | [Link](https://huggingface.co/dccuchile/distilbert-base-spanish-uncased-finetuned-ner) |
 | 102 | 1 | KBLab/bert-base-swedish-cased-reallysimple-nerToken | UpdatedNov 15, 2022 | [Link](https://huggingface.co/KBLab/bert-base-swedish-cased-reallysimple-ner) |
 | 22 | 1 | KoichiYasuoka/roberta-base-japanese-char-luw-uposToken | UpdatedAug 20, 2024 | [Link](https://huggingface.co/KoichiYasuoka/roberta-base-japanese-char-luw-upos) |
@@ -2840,6 +2847,7 @@ Updated on 2025-04-12
 | 61.9k |  | microsoft/llmlingua-2-xlm-roberta-large-meetingbankToken | UpdatedJan 8 | [Link](https://huggingface.co/microsoft/llmlingua-2-xlm-roberta-large-meetingbank) |
 | 2 | Unknown | iceman2434/roberta-tagalog-base-ft-udpos213-top5langrandomToken | UpdatedJun 30, 2024 | [Link](https://huggingface.co/iceman2434/roberta-tagalog-base-ft-udpos213-top5langrandom) |
 | 3 | Unknown | Ihor/gliner-biomed-large-v1 | Updatedabout 1 hour ago | [Link](https://huggingface.co/Ihor/gliner-biomed-large-v1.0) |
+| 3.26k |  | kontur-ai/sbert_punc_case_ruToken | UpdatedMar 22, 2024 | [Link](https://huggingface.co/kontur-ai/sbert_punc_case_ru) |
 
 ## Translation
 
