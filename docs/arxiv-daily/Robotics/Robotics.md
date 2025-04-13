@@ -17,7 +17,7 @@
 |**2025-04-10**|**Drive in Corridors: Enhancing the Safety of End-to-end Autonomous Driving via Corridor Learning and Planning**|Zhiwei Zhang et.al.|[2504.07507v1](http://arxiv.org/abs/2504.07507v1)|**2025-04-10**|null|
 |**2025-04-10**|**Personalized and Demand-Based Education Concept: Practical Tools for Control Engineers**|Balint Varga et.al.|[2504.07466v1](http://arxiv.org/abs/2504.07466v1)|**2025-04-10**|null|
 |**2025-04-10**|**ThermoStereoRT: Thermal Stereo Matching in Real Time via Knowledge Distillation and Attention-based Refinement**|Anning Hu et.al.|[2504.07418v1](http://arxiv.org/abs/2504.07418v1)|**2025-04-10**|null|
-|**2025-04-10**|**Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction**|Junyi Ma et.al.|[2504.07375v1](http://arxiv.org/abs/2504.07375v1)|**2025-04-10**|null|
+|**2025-04-10**|**Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction**|Junyi Ma et.al.|[2504.07375v1](http://arxiv.org/abs/2504.07375v1)|**2025-04-10**|[link](https://github.com/irmvlab/mmtwin)|
 |**2025-04-09**|**Adaptive Vision-Guided Robotic Arm Control for Precision Pruning in Dynamic Orchard Environments**|Dawood Ahmed et.al.|[2504.07309v1](http://arxiv.org/abs/2504.07309v1)|**2025-04-09**|null|
 |**2025-04-09**|**Data-Enabled Neighboring Extremal: Case Study on Model-Free Trajectory Tracking for Robotic Arm**|Amin Vahidi-Moghaddam et.al.|[2504.07292v1](http://arxiv.org/abs/2504.07292v1)|**2025-04-09**|null|
 |**2025-04-09**|**Bridging Deep Reinforcement Learning and Motion Planning for Model-Free Navigation in Cluttered Environments**|Licheng Luo et.al.|[2504.07283v1](http://arxiv.org/abs/2504.07283v1)|**2025-04-09**|null|

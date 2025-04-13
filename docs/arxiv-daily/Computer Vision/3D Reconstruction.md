@@ -15,7 +15,7 @@
 |**2025-04-10**|**DGOcc: Depth-aware Global Query-based Network for Monocular 3D Occupancy Prediction**|Xu Zhao et.al.|[2504.07524v1](http://arxiv.org/abs/2504.07524v1)|**2025-04-10**|null|
 |**2025-04-10**|**Laboratory Three-dimensional X-ray Micro-beam Laue Diffraction**|Yubin Zhang et.al.|[2504.07452v1](http://arxiv.org/abs/2504.07452v1)|**2025-04-10**|null|
 |**2025-04-10**|**ThermoStereoRT: Thermal Stereo Matching in Real Time via Knowledge Distillation and Attention-based Refinement**|Anning Hu et.al.|[2504.07418v1](http://arxiv.org/abs/2504.07418v1)|**2025-04-10**|null|
-|**2025-04-10**|**Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction**|Junyi Ma et.al.|[2504.07375v1](http://arxiv.org/abs/2504.07375v1)|**2025-04-10**|null|
+|**2025-04-10**|**Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction**|Junyi Ma et.al.|[2504.07375v1](http://arxiv.org/abs/2504.07375v1)|**2025-04-10**|[link](https://github.com/irmvlab/mmtwin)|
 |**2025-04-10**|**Ultrahigh room-temperature hole conductivity in a perovskite cuprate with vanishing electron-correlation**|Meng Wang et.al.|[2504.07369v1](http://arxiv.org/abs/2504.07369v1)|**2025-04-10**|null|
 |**2025-04-10**|**View-Dependent Uncertainty Estimation of 3D Gaussian Splatting**|Chenyu Han et.al.|[2504.07370v1](http://arxiv.org/abs/2504.07370v1)|**2025-04-10**|null|
 |**2025-04-09**|**DLTPose: 6DoF Pose Estimation From Accurate Dense Surface Point Estimates**|Akash Jadhav et.al.|[2504.07335v1](http://arxiv.org/abs/2504.07335v1)|**2025-04-09**|null|
