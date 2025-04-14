@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-04-13
+Updated on 2025-04-14
 
 > Generated from the Hugging Face database.
 
@@ -282,6 +282,7 @@ Updated on 2025-04-13
 | 155 | 4 | Na0s/Medical-Whisper-Large-v3Automatic | UpdatedOct 6, 2024 | [Link](https://huggingface.co/Na0s/Medical-Whisper-Large-v3) |
 | 207 | 4 | junnei/gemma-3-4b-it-speechAutomatic | Updatedabout 10 hours ago | [Link](https://huggingface.co/junnei/gemma-3-4b-it-speech) |
 | 131 | 4 | ibm-granite/granite-speech-3 | Updated1 day ago | [Link](https://huggingface.co/ibm-granite/granite-speech-3.2-8b) |
+| 362 | 4 | khleeloo/whisper-large-v3-cantoneseAutomatic | UpdatedFeb 6 | [Link](https://huggingface.co/khleeloo/whisper-large-v3-cantonese) |
 | 382 | 3 | suzii/vi-whisper-large-v3-turbo-v1Automatic | UpdatedJan 15 | [Link](https://huggingface.co/suzii/vi-whisper-large-v3-turbo-v1) |
 | 75 | 3 | erenfazlioglu/whisper-small-turkish-tr-bestAutomatic | UpdatedOct 4, 2023 | [Link](https://huggingface.co/erenfazlioglu/whisper-small-turkish-tr-best) |
 | 851 | 3 | ivrit-ai/whisper-large-v3-turboAutomatic | Updated8 days ago | [Link](https://huggingface.co/ivrit-ai/whisper-large-v3-turbo) |
@@ -1012,6 +1013,7 @@ Updated on 2025-04-13
 | 140 | 13 | OpenGVLab/InternVL3-8BImage-Text-to-Text | Updated38 minutes ago | [Link](https://huggingface.co/OpenGVLab/InternVL3-8B) |
 | 74 | 13 | OpenGVLab/InternVL3-1BImage-Text-to-Text | Updated39 minutes ago | [Link](https://huggingface.co/OpenGVLab/InternVL3-1B) |
 | 50 | 13 | OpenGVLab/InternVL3-38BImage-Text-to-Text | Updatedabout 15 hours ago | [Link](https://huggingface.co/OpenGVLab/InternVL3-38B) |
+| 102 | 13 | OpenGVLab/InternVL3-9BImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/OpenGVLab/InternVL3-9B) |
 | 225 | 12 | ds4sd/SmolDocling-256M-preview-mlx-bf16Image-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/ds4sd/SmolDocling-256M-preview-mlx-bf16) |
 | 918 | 11 | mlabonne/gemma-3-27b-it-abliterated-GGUFImage-Text-to-Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-abliterated-GGUF) |
 | 4.38k | 11 | bartowski/mlabonne_gemma-3-27b-it-abliterated-GGUFImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/bartowski/mlabonne_gemma-3-27b-it-abliterated-GGUF) |
@@ -1638,6 +1640,7 @@ Updated on 2025-04-13
 | 4 | 1 | mbreuss/flower_calvin_abcRobotics | Updated5 days ago | [Link](https://huggingface.co/mbreuss/flower_calvin_abc) |
 | 9 | 1 | mbreuss/flower_calvin_dRobotics | Updated5 days ago | [Link](https://huggingface.co/mbreuss/flower_calvin_d) |
 | 47 | 1 | jadechoghari/dot_pusht_keypoints_bestRobotics | UpdatedFeb 17 | [Link](https://huggingface.co/jadechoghari/dot_pusht_keypoints_best) |
+| 22.6k | 1 | jimyoung6709/DRPRobotics | UpdatedJan 3 | [Link](https://huggingface.co/jimyoung6709/DRP) |
 | 80 | Unknown | physical-intelligence/fastRobotics | UpdatedJan 16 | [Link](https://huggingface.co/physical-intelligence/fast) |
 | 2 | Unknown | sirbrentmichaelskoda/Auto-GBT-Dream-Team-ModelRobotics | UpdatedJun 7, 2023 | [Link](https://huggingface.co/sirbrentmichaelskoda/Auto-GBT-Dream-Team-Model) |
 | 5 | Unknown | USC-GVL/UH-1Robotics | UpdatedDec 19, 2024 | [Link](https://huggingface.co/USC-GVL/UH-1) |
@@ -1873,6 +1876,7 @@ Updated on 2025-04-13
 | 18 | 1 | abhishek/autotrain-iris-xgboostTabular | UpdatedJul 5, 2022 | [Link](https://huggingface.co/abhishek/autotrain-iris-xgboost) |
 | 70 | 1 | imodels/figs-compas-recidivismTabular | UpdatedAug 13, 2022 | [Link](https://huggingface.co/imodels/figs-compas-recidivism) |
 | 3 | 1 | oloberin/oloberTabular | UpdatedOct 3, 2024 | [Link](https://huggingface.co/oloberin/olober) |
+| 10 | 1 | SnowFlash383935/DigitalEduTransformersTabular | Updatedabout 7 hours ago | [Link](https://huggingface.co/SnowFlash383935/DigitalEduTransformers) |
 | 10 | Unknown | templates/tabular-classificationTabular | UpdatedJul 26, 2022 | [Link](https://huggingface.co/templates/tabular-classification) |
 | 1 | Unknown | mindwrapped/collaborative-filtering-movielens-copyTabular | UpdatedAug 4, 2022 | [Link](https://huggingface.co/mindwrapped/collaborative-filtering-movielens-copy) |
 | 20 | Unknown | abhishek/autotrain-iris-logistic-regressionTabular | UpdatedJul 5, 2022 | [Link](https://huggingface.co/abhishek/autotrain-iris-logistic-regression) |
@@ -2519,6 +2523,7 @@ Updated on 2025-04-13
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
 | 19 | 4 | canopylabs/3b-de-ft-research_releaseText-to-Speech | Updatedabout 23 hours ago | [Link](https://huggingface.co/canopylabs/3b-de-ft-research_release) |
 | 42 | 4 | canopylabs/3b-es_it-ft-research_releaseText-to-Speech | Updatedabout 23 hours ago | [Link](https://huggingface.co/canopylabs/3b-es_it-ft-research_release) |
+| 493 | 4 | canopylabs/3b-ko-ft-research_releaseText-to-Speech | Updated5 days ago | [Link](https://huggingface.co/canopylabs/3b-ko-ft-research_release) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 1.22k | 3 | CONCREE/Adia_TTSText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/CONCREE/Adia_TTS) |
@@ -3361,6 +3366,7 @@ Updated on 2025-04-13
 | 2.49k | 5 | google/owlv2-large-patch14-finetunedZero-Shot | UpdatedDec 12, 2023 | [Link](https://huggingface.co/google/owlv2-large-patch14-finetuned) |
 | 1.29k | 4 | google/owlv2-large-patch14Zero-Shot | UpdatedOct 31, 2024 | [Link](https://huggingface.co/google/owlv2-large-patch14) |
 | 3.61k | 3 | google/owlv2-base-patch16-finetunedZero-Shot | UpdatedOct 31, 2024 | [Link](https://huggingface.co/google/owlv2-base-patch16-finetuned) |
+| 531 | 3 | omlab/VLM-R1-Qwen2 | Updatedabout 2 hours ago | [Link](https://huggingface.co/omlab/VLM-R1-Qwen2.5VL-3B-OVD-0321) |
 | 40 | 1 | onnx-community/grounding-dino-tiny-ONNXZero-Shot | UpdatedJan 5 | [Link](https://huggingface.co/onnx-community/grounding-dino-tiny-ONNX) |
 | 51 | 1 | Xenova/owlvit-base-patch32Zero-Shot | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Xenova/owlvit-base-patch32) |
 | 48 | 1 | jameslahm/yoloe-11l-segZero-Shot | Updated12 days ago | [Link](https://huggingface.co/jameslahm/yoloe-11l-seg) |
