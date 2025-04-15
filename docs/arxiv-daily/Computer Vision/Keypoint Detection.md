@@ -2,6 +2,9 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-14**|**Benchmarking 3D Human Pose Estimation Models Under Occlusions**|Filipa Lino et.al.|[2504.10350v1](http://arxiv.org/abs/2504.10350v1)|**2025-04-14**|null|
+|**2025-04-14**|**KeyMPs: One-Shot Vision-Language Guided Motion Generation by Sequencing DMPs for Occlusion-Rich Tasks**|Edgar Anarossi et.al.|[2504.10011v1](http://arxiv.org/abs/2504.10011v1)|**2025-04-14**|null|
+|**2025-04-12**|**Beyond Degradation Conditions: All-in-One Image Restoration via HOG Transformers**|Jiawei Wu et.al.|[2504.09377v1](http://arxiv.org/abs/2504.09377v1)|**2025-04-12**|null|
 |**2025-04-11**|**MBE-ARI: A Multimodal Dataset Mapping Bi-directional Engagement in Animal-Robot Interaction**|Ian Noronha et.al.|[2504.08646v1](http://arxiv.org/abs/2504.08646v1)|**2025-04-11**|null|
 |**2025-04-11**|**Accelerating Multi-Objective Collaborative Optimization of Doped Thermoelectric Materials via Artificial Intelligence**|Yuxuan Zeng et.al.|[2504.08258v1](http://arxiv.org/abs/2504.08258v1)|**2025-04-11**|null|
 |**2025-04-11**|**Stereophotoclinometry Revisited**|Travis Driver et.al.|[2504.08252v1](http://arxiv.org/abs/2504.08252v1)|**2025-04-11**|null|
@@ -29,6 +32,3 @@
 |**2025-04-02**|**ForestVO: Enhancing Visual Odometry in Forest Environments through ForestGlue**|Thomas Pritchard et.al.|[2504.01261v1](http://arxiv.org/abs/2504.01261v1)|**2025-04-02**|[link](https://github.com/aerialroboticsgroup/forest-vo)|
 |**2025-04-01**|**TheBlueScrubs-v1, a comprehensive curated medical dataset derived from the internet**|Luis Felipe et.al.|[2504.02874v1](http://arxiv.org/abs/2504.02874v1)|**2025-04-01**|null|
 |**2025-04-01**|**OpenFACADES: An Open Framework for Architectural Caption and Attribute Data Enrichment via Street View Imagery**|Xiucheng Liang et.al.|[2504.02866v1](http://arxiv.org/abs/2504.02866v1)|**2025-04-01**|[link](https://github.com/seshing/openfacades)|
-|**2025-03-31**|**A machine learning platform for development of low flammability polymers**|Duy Nhat Phan et.al.|[2504.00223v1](http://arxiv.org/abs/2504.00223v1)|**2025-03-31**|null|
-|**2025-03-31**|**Leveraging Diffusion Model and Image Foundation Model for Improved Correspondence Matching in Coronary Angiography**|Lin Zhao et.al.|[2504.00191v1](http://arxiv.org/abs/2504.00191v1)|**2025-03-31**|null|
-|**2025-03-31**|**SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection**|Yannick Burkhardt et.al.|[2504.00139v1](http://arxiv.org/abs/2504.00139v1)|**2025-03-31**|null|

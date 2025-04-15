@@ -2,33 +2,33 @@
 ### Transfer Learning
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-11**|**GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for Autoregressive Image Generation**|Tianwei Xiong et.al.|[2504.08736v1](http://arxiv.org/abs/2504.08736v1)|**2025-04-11**|null|
-|**2025-04-11**|**Quantum Large Language Model Fine-Tuning**|Sang Hyub Kim et.al.|[2504.08732v1](http://arxiv.org/abs/2504.08732v1)|**2025-04-11**|null|
-|**2025-04-11**|**Dimension reduction for derivative-informed operator learning: An analysis of approximation errors**|Dingcheng Luo et.al.|[2504.08730v1](http://arxiv.org/abs/2504.08730v1)|**2025-04-11**|null|
-|**2025-04-11**|**Steering CLIP's vision transformer with sparse autoencoders**|Sonia Joseph et.al.|[2504.08729v1](http://arxiv.org/abs/2504.08729v1)|**2025-04-11**|null|
-|**2025-04-11**|**End-to-End Demonstration of Quantum Generative Adversarial Networks for Steel Microstructure Image Augmentation on a Trapped-Ion Quantum Computer**|Samwel Sekwao et.al.|[2504.08728v1](http://arxiv.org/abs/2504.08728v1)|**2025-04-11**|null|
-|**2025-04-11**|**Visual Chronicles: Using Multimodal LLMs to Analyze Massive Collections of Images**|Boyang Deng et.al.|[2504.08727v1](http://arxiv.org/abs/2504.08727v1)|**2025-04-11**|null|
-|**2025-04-11**|**DocAgent: A Multi-Agent System for Automated Code Documentation Generation**|Dayu Yang et.al.|[2504.08725v1](http://arxiv.org/abs/2504.08725v1)|**2025-04-11**|null|
-|**2025-04-11**|**Deriving the Gradients of Some Popular Optimal Transport Algorithms**|Fangzhou Xie et.al.|[2504.08722v1](http://arxiv.org/abs/2504.08722v1)|**2025-04-11**|null|
-|**2025-04-11**|**Surrogate-based optimization of system architectures subject to hidden constraints**|Jasper Bussemaker et.al.|[2504.08721v1](http://arxiv.org/abs/2504.08721v1)|**2025-04-11**|null|
-|**2025-04-11**|**Generating Fine Details of Entity Interactions**|Xinyi Gu et.al.|[2504.08714v1](http://arxiv.org/abs/2504.08714v1)|**2025-04-11**|null|
-|**2025-04-11**|**ProtoECGNet: Case-Based Interpretable Deep Learning for Multi-Label ECG Classification with Contrastive Learning**|Sahil Sethi et.al.|[2504.08713v1](http://arxiv.org/abs/2504.08713v1)|**2025-04-11**|null|
-|**2025-04-11**|**Beyond Black-Box Predictions: Identifying Marginal Feature Effects in Tabular Transformer Networks**|Anton Thielmann et.al.|[2504.08712v1](http://arxiv.org/abs/2504.08712v1)|**2025-04-11**|null|
-|**2025-04-11**|**Two-body currents at finite momentum transfer and applications to M1 transitions**|C. Brase et.al.|[2504.08711v1](http://arxiv.org/abs/2504.08711v1)|**2025-04-11**|null|
-|**2025-04-11**|**Decomposition of Sparse Amplitude Permutation Gates with Application to Preparation of Sparse Clustered Quantum States**|Igor Gaidai et.al.|[2504.08705v1](http://arxiv.org/abs/2504.08705v1)|**2025-04-11**|null|
-|**2025-04-11**|**Offline Reinforcement Learning using Human-Aligned Reward Labeling for Autonomous Emergency Braking in Occluded Pedestrian Crossing**|Vinal Asodia et.al.|[2504.08704v1](http://arxiv.org/abs/2504.08704v1)|**2025-04-11**|null|
-|**2025-04-11**|**Preparation and coherent manipulation of toroidal moments in molecules**|Kieran Hymas et.al.|[2504.08701v1](http://arxiv.org/abs/2504.08701v1)|**2025-04-11**|null|
-|**2025-04-11**|**Large Language Models as Span Annotators**|Zdeněk Kasner et.al.|[2504.08697v1](http://arxiv.org/abs/2504.08697v1)|**2025-04-11**|null|
-|**2025-04-11**|**SeaView: Software Engineering Agent Visual Interface for Enhanced Workflow**|Timothy Bula et.al.|[2504.08696v1](http://arxiv.org/abs/2504.08696v1)|**2025-04-11**|null|
-|**2025-04-11**|**Ising machine by dimensional collapse of nonlinear polarization oscillators**|Salvatore Chiavazzo et.al.|[2504.08695v1](http://arxiv.org/abs/2504.08695v1)|**2025-04-11**|null|
-|**2025-04-11**|**Pobogot -- An Open-Hardware Open-Source Low Cost Robot for Swarm Robotics**|Alessia Loi et.al.|[2504.08686v1](http://arxiv.org/abs/2504.08686v1)|**2025-04-11**|null|
-|**2025-04-11**|**Bayesian optimization for mixed variables using an adaptive dimension reduction process: applications to aircraft design**|Paul Saves et.al.|[2504.08682v1](http://arxiv.org/abs/2504.08682v1)|**2025-04-11**|null|
-|**2025-04-11**|**From "Worse is Better" to Better: Lessons from a Mixed Methods Study of Ansible's Challenges**|Carolina Carreira et.al.|[2504.08678v1](http://arxiv.org/abs/2504.08678v1)|**2025-04-11**|null|
-|**2025-04-11**|**Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasoning**|Fangzhi Xu et.al.|[2504.08672v1](http://arxiv.org/abs/2504.08672v1)|**2025-04-11**|null|
-|**2025-04-11**|**Regularized infill criteria for multi-objective Bayesian optimization with application to aircraft design**|Robin Grapin et.al.|[2504.08671v1](http://arxiv.org/abs/2504.08671v1)|**2025-04-11**|null|
-|**2025-04-11**|**Designing Child-Friendly AI Interfaces: Six Developmentally-Appropriate Design Insights from Analysing Disney Animation**|Nomisha Kurian et.al.|[2504.08670v1](http://arxiv.org/abs/2504.08670v1)|**2025-04-11**|null|
-|**2025-04-11**|**Channel Estimation by Infinite Width Convolutional Networks**|Mohammed Mallik et.al.|[2504.08660v1](http://arxiv.org/abs/2504.08660v1)|**2025-04-11**|null|
-|**2025-04-11**|**Application of machine learning models to predict the relationship between air pollution, ecosystem degradation, and health disparities and lung cancer in Vietnam**|Ngoc Hong Tran et.al.|[2504.08651v1](http://arxiv.org/abs/2504.08651v1)|**2025-04-11**|null|
-|**2025-04-11**|**Reinforcement Learning-Driven Plant-Wide Refinery Planning Using Model Decomposition**|Zhouchang Li et.al.|[2504.08642v1](http://arxiv.org/abs/2504.08642v1)|**2025-04-11**|null|
-|**2025-04-11**|**Transformer Learns Optimal Variable Selection in Group-Sparse Classification**|Chenyang Zhang et.al.|[2504.08638v1](http://arxiv.org/abs/2504.08638v1)|**2025-04-11**|null|
-|**2025-04-11**|**Latent Diffusion Autoencoders: Toward Efficient and Meaningful Unsupervised Representation Learning in Medical Imaging**|Gabriele Lozupone et.al.|[2504.08635v1](http://arxiv.org/abs/2504.08635v1)|**2025-04-11**|[link](https://github.com/GabrieleLozupone/LDAE)|
+|**2025-04-14**|**FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation**|Yasser Benigmim et.al.|[2504.10487v1](http://arxiv.org/abs/2504.10487v1)|**2025-04-14**|null|
+|**2025-04-14**|**Decoupled Diffusion Sparks Adaptive Scene Generation**|Yunsong Zhou et.al.|[2504.10485v1](http://arxiv.org/abs/2504.10485v1)|**2025-04-14**|null|
+|**2025-04-14**|**REPA-E: Unlocking VAE for End-to-End Tuning with Latent Diffusion Transformers**|Xingjian Leng et.al.|[2504.10483v1](http://arxiv.org/abs/2504.10483v1)|**2025-04-14**|null|
+|**2025-04-14**|**Weight Ensembling Improves Reasoning in Language Models**|Xingyu Dang et.al.|[2504.10478v1](http://arxiv.org/abs/2504.10478v1)|**2025-04-14**|null|
+|**2025-04-14**|**Donor-Acceptor Pairs near Silicon Carbide surfaces**|Anil Bilgin et.al.|[2504.10476v1](http://arxiv.org/abs/2504.10476v1)|**2025-04-14**|null|
+|**2025-04-14**|**Co-optimizing Physical Reconfiguration Parameters and Controllers for an Origami-inspired Reconfigurable Manipulator**|Zhe Chen et.al.|[2504.10474v1](http://arxiv.org/abs/2504.10474v1)|**2025-04-14**|null|
+|**2025-04-14**|**Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding**|Tao Zhang et.al.|[2504.10465v1](http://arxiv.org/abs/2504.10465v1)|**2025-04-14**|null|
+|**2025-04-14**|**The Scalability of Simplicity: Empirical Analysis of Vision-Language Learning with a Single Transformer**|Weixian Lei et.al.|[2504.10462v1](http://arxiv.org/abs/2504.10462v1)|**2025-04-14**|null|
+|**2025-04-14**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Xiaobo Xia et.al.|[2504.10458v1](http://arxiv.org/abs/2504.10458v1)|**2025-04-14**|null|
+|**2025-04-14**|**Privacy-Preserving Distributed Link Predictions Among Peers in Online Classrooms Using Federated Learning**|Anurata Prabha Hridi et.al.|[2504.10456v1](http://arxiv.org/abs/2504.10456v1)|**2025-04-14**|null|
+|**2025-04-14**|**Anchors no more: Using peculiar velocities to constrain $H_0$ and the primordial Universe without calibrators**|Davide Piras et.al.|[2504.10453v1](http://arxiv.org/abs/2504.10453v1)|**2025-04-14**|null|
+|**2025-04-14**|**Integrating Vision and Location with Transformers: A Multimodal Deep Learning Framework for Medical Wound Analysis**|Ramin Mousa et.al.|[2504.10452v1](http://arxiv.org/abs/2504.10452v1)|**2025-04-14**|null|
+|**2025-04-14**|**M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models**|Junxiong Wang et.al.|[2504.10449v1](http://arxiv.org/abs/2504.10449v1)|**2025-04-14**|null|
+|**2025-04-14**|**RealWebAssist: A Benchmark for Long-Horizon Web Assistance with Real-World Users**|Suyu Ye et.al.|[2504.10445v1](http://arxiv.org/abs/2504.10445v1)|**2025-04-14**|null|
+|**2025-04-14**|**Multimodal Long Video Modeling Based on Temporal Dynamic Context**|Haoran Hao et.al.|[2504.10443v1](http://arxiv.org/abs/2504.10443v1)|**2025-04-14**|null|
+|**2025-04-14**|**Invariance Matters: Empowering Social Recommendation via Graph Invariant Learning**|Yonghui Yang et.al.|[2504.10432v1](http://arxiv.org/abs/2504.10432v1)|**2025-04-14**|null|
+|**2025-04-14**|**Learning with Positive and Imperfect Unlabeled Data**|Jane H. Lee et.al.|[2504.10428v1](http://arxiv.org/abs/2504.10428v1)|**2025-04-14**|null|
+|**2025-04-14**|**Foundation models for electronic health records: representation dynamics and transferability**|Michael C. Burkhart et.al.|[2504.10422v1](http://arxiv.org/abs/2504.10422v1)|**2025-04-14**|null|
+|**2025-04-14**|**LLM-SRBench: A New Benchmark for Scientific Equation Discovery with Large Language Models**|Parshin Shojaee et.al.|[2504.10415v1](http://arxiv.org/abs/2504.10415v1)|**2025-04-14**|[link](https://github.com/deep-symbolic-mathematics/llm-srbench)|
+|**2025-04-14**|**AI-Driven Code Refactoring: Using Graph Neural Networks to Enhance Software Maintainability**|Gopichand Bandarupalli et.al.|[2504.10412v1](http://arxiv.org/abs/2504.10412v1)|**2025-04-14**|null|
+|**2025-04-14**|**GPS: Distilling Compact Memories via Grid-based Patch Sampling for Efficient Online Class-Incremental Learning**|Mingchuan Ma et.al.|[2504.10409v1](http://arxiv.org/abs/2504.10409v1)|**2025-04-14**|null|
+|**2025-04-14**|**Satellite Federated Fine-Tuning for Foundation Models in Space Computing Power Networks**|Yan zhu et.al.|[2504.10403v1](http://arxiv.org/abs/2504.10403v1)|**2025-04-14**|null|
+|**2025-04-14**|**Can LLMs Assist Expert Elicitation for Probabilistic Causal Modeling?**|Olha Shaposhnyk et.al.|[2504.10397v1](http://arxiv.org/abs/2504.10397v1)|**2025-04-14**|null|
+|**2025-04-14**|**Better Coherence, Better Height: Fusing Physical Models and Deep Learning for Forest Height Estimation from Interferometric SAR Data**|Ragini Bal Mahesh et.al.|[2504.10395v1](http://arxiv.org/abs/2504.10395v1)|**2025-04-14**|null|
+|**2025-04-14**|**Teacher Motion Priors: Enhancing Robot Locomotion over Challenging Terrain**|Fangcheng Jin et.al.|[2504.10390v1](http://arxiv.org/abs/2504.10390v1)|**2025-04-14**|null|
+|**2025-04-14**|**Inferring genotype-phenotype maps using attention models**|Krishna Rijal et.al.|[2504.10388v1](http://arxiv.org/abs/2504.10388v1)|**2025-04-14**|null|
+|**2025-04-14**|**PG-DPIR: An efficient plug-and-play method for high-count Poisson-Gaussian inverse problems**|Maud Biquard et.al.|[2504.10375v1](http://arxiv.org/abs/2504.10375v1)|**2025-04-14**|null|
+|**2025-04-14**|**Ctrl-Z: Controlling AI Agents via Resampling**|Aryan Bhatt et.al.|[2504.10374v1](http://arxiv.org/abs/2504.10374v1)|**2025-04-14**|null|
+|**2025-04-14**|**DUE: A Deep Learning Framework and Library for Modeling Unknown Equations**|Junfeng Chen et.al.|[2504.10373v1](http://arxiv.org/abs/2504.10373v1)|**2025-04-14**|null|
+|**2025-04-14**|**Brain-Machine Interfaces & Information Retrieval Challenges and Opportunities**|Yashar Moshfeghi et.al.|[2504.10371v1](http://arxiv.org/abs/2504.10371v1)|**2025-04-14**|null|

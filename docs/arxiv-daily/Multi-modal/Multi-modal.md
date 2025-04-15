@@ -2,33 +2,33 @@
 ### Multi-modal
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-11**|**Voice Interaction With Conversational AI Could Facilitate Thoughtful Reflection and Substantive Revision in Writing**|Jiho Kim et.al.|[2504.08687v1](http://arxiv.org/abs/2504.08687v1)|**2025-04-11**|null|
-|**2025-04-11**|**Constructing Witnesses for Lower Bounds on Behavioural Distances**|Ruben Turkenburg et.al.|[2504.08639v1](http://arxiv.org/abs/2504.08639v1)|**2025-04-11**|null|
-|**2025-04-11**|**Knowledge Distillation for Multimodal Egocentric Action Recognition Robust to Missing Modalities**|Maria Santos-Villafranca et.al.|[2504.08578v1](http://arxiv.org/abs/2504.08578v1)|**2025-04-11**|null|
-|**2025-04-11**|**COP-GEN-Beta: Unified Generative Modelling of COPernicus Imagery Thumbnails**|Miguel Espinosa et.al.|[2504.08548v1](http://arxiv.org/abs/2504.08548v1)|**2025-04-11**|null|
-|**2025-04-11**|**A Complete Formal Specification and Verification of the BESW software control system of the Maeslant Storm Surge Barrier**|Adrian Beers et.al.|[2504.08518v1](http://arxiv.org/abs/2504.08518v1)|**2025-04-11**|null|
-|**2025-04-11**|**Dark Haptics: Exploring Manipulative Haptic Design in Mobile User Interfaces**|Chenge Tang et.al.|[2504.08471v1](http://arxiv.org/abs/2504.08471v1)|**2025-04-11**|null|
-|**2025-04-11**|**Ego4o: Egocentric Human Motion Capture and Understanding from Multi-Modal Input**|Jian Wang et.al.|[2504.08449v1](http://arxiv.org/abs/2504.08449v1)|**2025-04-11**|null|
-|**2025-04-11**|**Speech Command + Speech Emotion: Exploring Emotional Speech Commands as a Compound and Playful Modality**|Ilhan Aslan et.al.|[2504.08440v1](http://arxiv.org/abs/2504.08440v1)|**2025-04-11**|null|
-|**2025-04-11**|**Diffusion Models for Robotic Manipulation: A Survey**|Rosa Wolf et.al.|[2504.08438v1](http://arxiv.org/abs/2504.08438v1)|**2025-04-11**|null|
-|**2025-04-11**|**The Composite Visual-Laser Navigation Method Applied in Indoor Poultry Farming Environments**|Jiafan Lu et.al.|[2504.08431v1](http://arxiv.org/abs/2504.08431v1)|**2025-04-11**|null|
-|**2025-04-11**|**CMIP-CIL: A Cross-Modal Benchmark for Image-Point Class Incremental Learning**|Chao Qi et.al.|[2504.08422v1](http://arxiv.org/abs/2504.08422v1)|**2025-04-11**|null|
-|**2025-04-11**|**VLMT: Vision-Language Multimodal Transformer for Multimodal Multi-hop Question Answering**|Qi Zhi Lim et.al.|[2504.08269v1](http://arxiv.org/abs/2504.08269v1)|**2025-04-11**|null|
-|**2025-04-11**|**Knowledge Distillation for Underwater Feature Extraction and Matching via GAN-synthesized Images**|Jinghe Yang et.al.|[2504.08253v1](http://arxiv.org/abs/2504.08253v1)|**2025-04-11**|null|
-|**2025-04-11**|**General Theory of Coupled Characteristic Mode: An Eigen Subspace Approach**|Rakesh Sinha et.al.|[2504.08251v1](http://arxiv.org/abs/2504.08251v1)|**2025-04-11**|null|
-|**2025-04-11**|**InSPE: Rapid Evaluation of Heterogeneous Multi-Modal Infrastructure Sensor Placement**|Zhaoliang Zheng et.al.|[2504.08240v1](http://arxiv.org/abs/2504.08240v1)|**2025-04-11**|null|
-|**2025-04-11**|**F$^3$Set: Towards Analyzing Fast, Frequent, and Fine-grained Events from Videos**|Zhaoyu Liu et.al.|[2504.08222v1](http://arxiv.org/abs/2504.08222v1)|**2025-04-11**|null|
-|**2025-04-11**|**Neural Encoding and Decoding at Scale**|Yizi Zhang et.al.|[2504.08201v2](http://arxiv.org/abs/2504.08201v2)|**2025-04-14**|null|
-|**2025-04-11**|**SynthFM: Training Modality-agnostic Foundation Models for Medical Image Segmentation without Real Medical Data**|Sourya Sengupta et.al.|[2504.08177v1](http://arxiv.org/abs/2504.08177v1)|**2025-04-11**|null|
-|**2025-04-10**|**Quantum-assured magnetic navigation achieves positioning accuracy better than a strategic-grade INS in airborne and ground-based field trials**|Murat Muradoglu et.al.|[2504.08167v1](http://arxiv.org/abs/2504.08167v1)|**2025-04-10**|null|
-|**2025-04-10**|**Orchestrating Agents and Data for Enterprise: A Blueprint Architecture for Compound AI**|Eser Kandogan et.al.|[2504.08148v1](http://arxiv.org/abs/2504.08148v1)|**2025-04-10**|null|
-|**2025-04-10**|**Impact of Language Guidance: A Reproducibility Study**|Cherish Puniani et.al.|[2504.08140v1](http://arxiv.org/abs/2504.08140v1)|**2025-04-10**|null|
-|**2025-04-10**|**Twist-structures isomorphic to modal Nelson lattices**|Paula Menchón et.al.|[2504.08109v1](http://arxiv.org/abs/2504.08109v1)|**2025-04-10**|null|
-|**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961v1](http://arxiv.org/abs/2504.07961v1)|**2025-04-10**|null|
-|**2025-04-10**|**GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation**|Lang Lin et.al.|[2504.07962v1](http://arxiv.org/abs/2504.07962v1)|**2025-04-10**|null|
-|**2025-04-10**|**MM-IFEngine: Towards Multimodal Instruction Following**|Shengyuan Ding et.al.|[2504.07957v1](http://arxiv.org/abs/2504.07957v1)|**2025-04-10**|[link](https://github.com/syuan03/mm-ifengine)|
-|**2025-04-10**|**Scaling Laws for Native Multimodal Models**|Mustafa Shukor et.al.|[2504.07951v2](http://arxiv.org/abs/2504.07951v2)|**2025-04-11**|null|
-|**2025-04-10**|**Open Datasets for Grid Modeling and Visualization: An Alberta Power Network Case**|Ben Cheng et.al.|[2504.07870v1](http://arxiv.org/abs/2504.07870v1)|**2025-04-10**|[link](https://github.com/bencheng2/carbondistributionmap)|
-|**2025-04-10**|**MuSaRoNews: A Multidomain, Multimodal Satire Dataset from Romanian News Articles**|Răzvan-Alexandru Smădu et.al.|[2504.07826v1](http://arxiv.org/abs/2504.07826v1)|**2025-04-10**|null|
-|**2025-04-10**|**Focal Cortical Dysplasia Type II Detection Using Cross Modality Transfer Learning and Grad-CAM in 3D-CNNs for MRI Analysis**|Lorenzo Lasagni et.al.|[2504.07775v1](http://arxiv.org/abs/2504.07775v1)|**2025-04-10**|null|
-|**2025-04-10**|**PRAD: Periapical Radiograph Analysis Dataset and Benchmark Model Development**|Zhenhuan Zhou et.al.|[2504.07760v1](http://arxiv.org/abs/2504.07760v1)|**2025-04-10**|null|
+|**2025-04-14**|**InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models**|Jinguo Zhu et.al.|[2504.10479v1](http://arxiv.org/abs/2504.10479v1)|**2025-04-14**|null|
+|**2025-04-14**|**Art3D: Training-Free 3D Generation from Flat-Colored Illustration**|Xiaoyan Cong et.al.|[2504.10466v1](http://arxiv.org/abs/2504.10466v1)|**2025-04-14**|null|
+|**2025-04-14**|**The Scalability of Simplicity: Empirical Analysis of Vision-Language Learning with a Single Transformer**|Weixian Lei et.al.|[2504.10462v1](http://arxiv.org/abs/2504.10462v1)|**2025-04-14**|null|
+|**2025-04-14**|**Multimodal Long Video Modeling Based on Temporal Dynamic Context**|Haoran Hao et.al.|[2504.10443v1](http://arxiv.org/abs/2504.10443v1)|**2025-04-14**|null|
+|**2025-04-14**|**Multimodal Representation Learning Techniques for Comprehensive Facial State Analysis**|Kaiwen Zheng et.al.|[2504.10351v1](http://arxiv.org/abs/2504.10351v1)|**2025-04-14**|null|
+|**2025-04-14**|**CROSSAN: Towards Efficient and Effective Adaptation of Multiple Multimodal Foundation Models for Sequential Recommendation**|Junchen Fu et.al.|[2504.10307v1](http://arxiv.org/abs/2504.10307v1)|**2025-04-14**|null|
+|**2025-04-14**|**From translations to non-collapsing logic combinations**|João Rasga et.al.|[2504.10287v1](http://arxiv.org/abs/2504.10287v1)|**2025-04-14**|null|
+|**2025-04-14**|**Look-to-Touch: A Vision-Enhanced Proximity and Tactile Sensor for Distance and Geometry Perception in Robotic Manipulation**|Yueshi Dong et.al.|[2504.10280v1](http://arxiv.org/abs/2504.10280v1)|**2025-04-14**|null|
+|**2025-04-14**|**Change Your Perspective, Widen Your Worldview! Societally Beneficial Perceptual Filter Bubbles in Personalized Reality**|Jannis Strecker et.al.|[2504.10271v1](http://arxiv.org/abs/2504.10271v1)|**2025-04-14**|null|
+|**2025-04-14**|**XY-Cut++: Advanced Layout Ordering via Hierarchical Mask Mechanism on a Novel Benchmark**|Shuai Liu et.al.|[2504.10258v1](http://arxiv.org/abs/2504.10258v1)|**2025-04-14**|null|
+|**2025-04-14**|**A Model Zoo of Vision Transformers**|Damian Falk et.al.|[2504.10231v1](http://arxiv.org/abs/2504.10231v1)|**2025-04-14**|null|
+|**2025-04-14**|**The Future of MLLM Prompting is Adaptive: A Comprehensive Experimental Evaluation of Prompt Engineering Methods for Robust Multimodal Performance**|Anwesha Mohanty et.al.|[2504.10179v1](http://arxiv.org/abs/2504.10179v1)|**2025-04-14**|null|
+|**2025-04-14**|**Fact-Checking with Contextual Narratives: Leveraging Retrieval-Augmented LLMs for Social Media Analysis**|Arka Ujjal Dey et.al.|[2504.10166v1](http://arxiv.org/abs/2504.10166v1)|**2025-04-14**|null|
+|**2025-04-14**|**Negate or Embrace: On How Misalignment Shapes Multimodal Representation Learning**|Yichao Cai et.al.|[2504.10143v1](http://arxiv.org/abs/2504.10143v1)|**2025-04-14**|null|
+|**2025-04-14**|**The Impact of Model Zoo Size and Composition on Weight Space Learning**|Damian Falk et.al.|[2504.10141v1](http://arxiv.org/abs/2504.10141v1)|**2025-04-14**|null|
+|**2025-04-14**|**Breaking the Data Barrier -- Building GUI Agents Through Task Generalization**|Junlei Zhang et.al.|[2504.10127v1](http://arxiv.org/abs/2504.10127v1)|**2025-04-14**|null|
+|**2025-04-14**|**M2S-RoAD: Multi-Modal Semantic Segmentation for Road Damage Using Camera and LiDAR Data**|Tzu-Yun Tseng et.al.|[2504.10123v1](http://arxiv.org/abs/2504.10123v1)|**2025-04-14**|null|
+|**2025-04-14**|**AGO: Adaptive Grounding for Open World 3D Occupancy Prediction**|Peizheng Li et.al.|[2504.10117v1](http://arxiv.org/abs/2504.10117v1)|**2025-04-14**|null|
+|**2025-04-14**|**Global and Local Mamba Network for Multi-Modality Medical Image Super-Resolution**|Zexin Ji et.al.|[2504.10105v1](http://arxiv.org/abs/2504.10105v1)|**2025-04-14**|null|
+|**2025-04-14**|**UP-Person: Unified Parameter-Efficient Transfer Learning for Text-based Person Retrieval**|Yating Liu et.al.|[2504.10084v1](http://arxiv.org/abs/2504.10084v1)|**2025-04-14**|null|
+|**2025-04-14**|**MMKB-RAG: A Multi-Modal Knowledge-Based Retrieval-Augmented Generation Framework**|Zihan Ling et.al.|[2504.10074v1](http://arxiv.org/abs/2504.10074v1)|**2025-04-14**|null|
+|**2025-04-14**|**DTFSal: Audio-Visual Dynamic Token Fusion for Video Saliency Prediction**|Kiana Hoshanfar et.al.|[2504.10070v1](http://arxiv.org/abs/2504.10070v1)|**2025-04-14**|null|
+|**2025-04-14**|**Summarization of Multimodal Presentations with Vision-Language Models: Study of the Effect of Modalities and Structure**|Théo Gigant et.al.|[2504.10049v1](http://arxiv.org/abs/2504.10049v1)|**2025-04-14**|null|
+|**2025-04-14**|**DataMosaic: Explainable and Verifiable Multi-Modal Data Analytics through Extract-Reason-Verify**|Zhengxuan Zhang et.al.|[2504.10036v1](http://arxiv.org/abs/2504.10036v1)|**2025-04-14**|null|
+|**2025-04-14**|**RGB-Event based Pedestrian Attribute Recognition: A Benchmark Dataset and An Asymmetric RWKV Fusion Framework**|Xiao Wang et.al.|[2504.10018v1](http://arxiv.org/abs/2504.10018v1)|**2025-04-14**|null|
+|**2025-04-14**|**Air Quality Prediction with A Meteorology-Guided Modality-Decoupled Spatio-Temporal Network**|Hang Yin et.al.|[2504.10014v1](http://arxiv.org/abs/2504.10014v1)|**2025-04-14**|null|
+|**2025-04-14**|**Do We Really Need Curated Malicious Data for Safety Alignment in Multi-modal Large Language Models?**|Yanbo Wang et.al.|[2504.10000v1](http://arxiv.org/abs/2504.10000v1)|**2025-04-14**|null|
+|**2025-04-14**|**AimTS: Augmented Series and Image Contrastive Learning for Time Series Classification**|Yuxuan Chen et.al.|[2504.09993v1](http://arxiv.org/abs/2504.09993v1)|**2025-04-14**|null|
+|**2025-04-14**|**Enhancing Multi-task Learning Capability of Medical Generalist Foundation Model via Image-centric Multi-annotation Data**|Xun Zhu et.al.|[2504.09967v1](http://arxiv.org/abs/2504.09967v1)|**2025-04-14**|null|
+|**2025-04-14**|**VR MRI Training for Adolescents: A Comparative Study of Gamified VR, Passive VR, 360 Video, and Traditional Educational Video**|Yue Yang et.al.|[2504.09955v1](http://arxiv.org/abs/2504.09955v1)|**2025-04-14**|null|
