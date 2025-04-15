@@ -22,13 +22,13 @@
 |**2025-04-11**|**Enhancing knowledge retention for continual learning with domain-specific adapters and features gating**|Mohamed Abbas Hedjazi et.al.|[2504.08613v1](http://arxiv.org/abs/2504.08613v1)|**2025-04-11**|null|
 |**2025-04-11**|**A Survey of Machine Learning Models and Datasets for the Multi-label Classification of Textual Hate Speech in English**|Julian Bäumler et.al.|[2504.08609v1](http://arxiv.org/abs/2504.08609v1)|**2025-04-11**|null|
 |**2025-04-11**|**SQL-R1: Training Natural Language to SQL Reasoning Model By Reinforcement Learning**|Peixian Ma et.al.|[2504.08600v1](http://arxiv.org/abs/2504.08600v1)|**2025-04-11**|null|
-|**2025-04-11**|**Hands-On: Segmenting Individual Signs from Continuous Sequences**|Low Jian He et.al.|[2504.08593v1](http://arxiv.org/abs/2504.08593v1)|**2025-04-11**|null|
+|**2025-04-11**|**Hands-On: Segmenting Individual Signs from Continuous Sequences**|Low Jian He et.al.|[2504.08593v2](http://arxiv.org/abs/2504.08593v2)|**2025-04-14**|null|
 |**2025-04-11**|**ZipIR: Latent Pyramid Diffusion Transformer for High-Resolution Image Restoration**|Yongsheng Yu et.al.|[2504.08591v1](http://arxiv.org/abs/2504.08591v1)|**2025-04-11**|null|
 |**2025-04-11**|**Hardware, Algorithms, and Applications of the Neuromorphic Vision Sensor: a Review**|Claudio Cimarelli et.al.|[2504.08588v1](http://arxiv.org/abs/2504.08588v1)|**2025-04-11**|null|
 |**2025-04-11**|**Ready, Bid, Go! On-Demand Delivery Using Fleets of Drones with Unknown, Heterogeneous Energy Storage Constraints**|Mohamed S. Talamali et.al.|[2504.08585v1](http://arxiv.org/abs/2504.08585v1)|**2025-04-11**|null|
 |**2025-04-11**|**Boosting multi-demographic federated learning for chest x-ray analysis using general-purpose self-supervised representations**|Mahshad Lotfinia et.al.|[2504.08584v1](http://arxiv.org/abs/2504.08584v1)|**2025-04-11**|null|
 |**2025-04-11**|**New Insights into Refractive Indices and Birefringence of Undoped and MgO-Doped Lithium Niobate Crystals at High Temperatures**|Nina Hong et.al.|[2504.08582v1](http://arxiv.org/abs/2504.08582v1)|**2025-04-11**|null|
 |**2025-04-11**|**Analysis of the Unscented Transform Controller for Systems with Bounded Nonlinearities**|Siddharth A. Dinkar et.al.|[2504.08579v1](http://arxiv.org/abs/2504.08579v1)|**2025-04-11**|null|
-|**2025-04-11**|**Morgan's mixed Hodge structures on $p$-filiform Lie algebras and low-dimensional nilpotent Lie algebras**|Taito Shimoji et.al.|[2504.08571v1](http://arxiv.org/abs/2504.08571v1)|**2025-04-11**|null|
+|**2025-04-11**|**Morgan's mixed Hodge structures on $p$-filiform Lie algebras and low-dimensional nilpotent Lie algebras**|Taito Shimoji et.al.|[2504.08571v2](http://arxiv.org/abs/2504.08571v2)|**2025-04-14**|null|
 |**2025-04-11**|**Control of atomic reconstruction and quasi-1D excitons in strain-engineered moiré heterostructures**|Shen Zhao et.al.|[2504.08556v1](http://arxiv.org/abs/2504.08556v1)|**2025-04-11**|null|
 |**2025-04-11**|**COP-GEN-Beta: Unified Generative Modelling of COPernicus Imagery Thumbnails**|Miguel Espinosa et.al.|[2504.08548v1](http://arxiv.org/abs/2504.08548v1)|**2025-04-11**|null|

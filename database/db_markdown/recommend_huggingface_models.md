@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-04-14
+Updated on 2025-04-15
 
 > Generated from the Hugging Face database.
 
@@ -146,6 +146,7 @@ Updated on 2025-04-14
 | 508 | 1 | mradermacher/Ichigo-llama3 | UpdatedDec 15, 2024 | [Link](https://huggingface.co/mradermacher/Ichigo-llama3.1-s-instruct-v0.4-GGUF) |
 | 16 | 1 | FriendliAI/ultravox-v0_3Audio-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/FriendliAI/ultravox-v0_3) |
 | 12 | 1 | Menlo/mini-Ichigo-llama3 | UpdatedNov 19, 2024 | [Link](https://huggingface.co/Menlo/mini-Ichigo-llama3.2-3B-s-base) |
+| 108 | 1 | FriendliAI/ultravox-v0_5-llama-3_1-8bAudio-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/FriendliAI/ultravox-v0_5-llama-3_1-8b) |
 | 115k |  | Qwen/Qwen2-Audio-7B-InstructAudio-Text-to-Text | UpdatedJan 12 | [Link](https://huggingface.co/Qwen/Qwen2-Audio-7B-Instruct) |
 | 2 | Unknown | Flex-Data/bm-v1Audio-Text-to-Text | UpdatedDec 4, 2024 | [Link](https://huggingface.co/Flex-Data/bm-v1) |
 | 1 | Unknown | beita6969/DeepSeek-R1-Distill-Qwen-32B-MedicalAudio-Text-to-Text | Updatedabout 17 hours ago | [Link](https://huggingface.co/beita6969/DeepSeek-R1-Distill-Qwen-32B-Medical) |
@@ -294,6 +295,7 @@ Updated on 2025-04-14
 | 31 | 3 | jacktol/whisper-medium | UpdatedOct 9, 2024 | [Link](https://huggingface.co/jacktol/whisper-medium.en-fine-tuned-for-ATC-faster-whisper) |
 | 6 | 3 | neurlang/ipa-whisper-baseAutomatic | Updated3 days ago | [Link](https://huggingface.co/neurlang/ipa-whisper-base) |
 | 389 | 2 | KBLab/kb-whisper-mediumAutomatic | Updatedabout 21 hours ago | [Link](https://huggingface.co/KBLab/kb-whisper-medium) |
+| 52 | 2 | hackergeek98/whisper-fa-tinyyyAutomatic | Updated22 days ago | [Link](https://huggingface.co/hackergeek98/whisper-fa-tinyyy) |
 | 9.97M |  | openai/whisper-large-v3-turboAutomatic | UpdatedOct 4, 2024 | [Link](https://huggingface.co/openai/whisper-large-v3-turbo) |
 | 3.78M |  | openai/whisper-large-v3Automatic | UpdatedAug 12, 2024 | [Link](https://huggingface.co/openai/whisper-large-v3) |
 | 908 | Unknown | ggerganov/whisper | UpdatedOct 29, 2024 | [Link](https://huggingface.co/ggerganov/whisper.cpp) |
@@ -741,6 +743,7 @@ Updated on 2025-04-14
 | 4 | 8 | strangerguardhf/Deepfake-Detector-ModelImage | Updated2 days ago | [Link](https://huggingface.co/strangerguardhf/Deepfake-Detector-Model) |
 | 520 | 8 | RavenOnur/Sign-LanguageImage | UpdatedJan 1, 2023 | [Link](https://huggingface.co/RavenOnur/Sign-Language) |
 | 4 | 8 | prithivMLmods/Deepfake-Quality-Assess-Siglip2Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/prithivMLmods/Deepfake-Quality-Assess-Siglip2) |
+| 31k | 8 | facebook/deit-tiny-patch16-224Image | UpdatedJul 13, 2022 | [Link](https://huggingface.co/facebook/deit-tiny-patch16-224) |
 | 65 | 7 | enzostvs/hair-colorImage | UpdatedNov 17, 2023 | [Link](https://huggingface.co/enzostvs/hair-color) |
 | 65.5M | 6 | dima806/fairface_age_image_detectionImage | UpdatedDec 15, 2024 | [Link](https://huggingface.co/dima806/fairface_age_image_detection) |
 | 215 | 6 | dima806/traffic_sign_detectionImage | UpdatedOct 19, 2024 | [Link](https://huggingface.co/dima806/traffic_sign_detection) |
@@ -1701,6 +1704,7 @@ Updated on 2025-04-14
 | 11.6k | 9 | ibm-granite/granite-embedding-125m-englishSentence | Updated1 day ago | [Link](https://huggingface.co/ibm-granite/granite-embedding-125m-english) |
 | 1.93k | 8 | BlackKakapo/stsb-xlm-r-multilingual-roSentence | UpdatedOct 31, 2024 | [Link](https://huggingface.co/BlackKakapo/stsb-xlm-r-multilingual-ro) |
 | 2.12k | 8 | jinaai/jina-embedding-b-en-v1Sentence | UpdatedJan 6 | [Link](https://huggingface.co/jinaai/jina-embedding-b-en-v1) |
+| 15 | 8 | cl-nagoya/ruri-v3-310mSentence | Updatedabout 10 hours ago | [Link](https://huggingface.co/cl-nagoya/ruri-v3-310m) |
 | 21 | 7 | facebook/drama-1bSentence | Updated4 days ago | [Link](https://huggingface.co/facebook/drama-1b) |
 | 4.36k | 7 | Casual-Autopsy/snowflake-arctic-embed-l-v2 | UpdatedFeb 6 | [Link](https://huggingface.co/Casual-Autopsy/snowflake-arctic-embed-l-v2.0-gguf) |
 | 13 | 6 | dragonkue/snowflake-arctic-embed-l-v2 | Updatedabout 15 hours ago | [Link](https://huggingface.co/dragonkue/snowflake-arctic-embed-l-v2.0-ko) |
@@ -2095,6 +2099,7 @@ Updated on 2025-04-14
 | 761 |  | AkshatSurolia/ICD-10-Code-PredictionText | UpdatedMay 5, 2023 | [Link](https://huggingface.co/AkshatSurolia/ICD-10-Code-Prediction) |
 | 2 | Unknown | fzn0x/bert-spam-classification-modelText | Updatedabout 11 hours ago | [Link](https://huggingface.co/fzn0x/bert-spam-classification-model) |
 | 26.6k |  | CAMeL-Lab/bert-base-arabic-camelbert-da-sentimentText | UpdatedOct 17, 2021 | [Link](https://huggingface.co/CAMeL-Lab/bert-base-arabic-camelbert-da-sentiment) |
+| 2.78k |  | Hate-speech-CNERG/bert-base-uncased-hatexplainText | UpdatedMay 25, 2021 | [Link](https://huggingface.co/Hate-speech-CNERG/bert-base-uncased-hatexplain) |
 
 ## Text Generation
 
@@ -2222,6 +2227,9 @@ Updated on 2025-04-14
 | 25 | Unknown | openfree/Llama-3_3-Nemotron-Super-49B-v1-Q6_K-GGUFText | Updatedabout 8 hours ago | [Link](https://huggingface.co/openfree/Llama-3_3-Nemotron-Super-49B-v1-Q6_K-GGUF) |
 | 80 | Unknown | agentica-org/DeepCoder-14B-PreviewText | Updatedabout 6 hours ago | [Link](https://huggingface.co/agentica-org/DeepCoder-14B-Preview) |
 | 1.1M |  | meta-llama/Meta-Llama-3-8B-InstructText | UpdatedSep 27, 2024 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) |
+| 41 | Unknown | THUDM/GLM-Z1-32B-0414Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/THUDM/GLM-Z1-32B-0414) |
+| 35 | Unknown | THUDM/GLM-4-32B-0414Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/THUDM/GLM-4-32B-0414) |
+| 31 | Unknown | THUDM/GLM-Z1-Rumination-32B-0414Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/THUDM/GLM-Z1-Rumination-32B-0414) |
 
 ## Text Ranking
 
@@ -2255,6 +2263,7 @@ Updated on 2025-04-14
 | 3.55k | 3 | cross-encoder/qnli-electra-baseText | Updatedabout 2 hours ago | [Link](https://huggingface.co/cross-encoder/qnli-electra-base) |
 | 36.9k | 3 | cross-encoder/stsb-TinyBERT-L4Text | Updatedabout 2 hours ago | [Link](https://huggingface.co/cross-encoder/stsb-TinyBERT-L4) |
 | 59 | 3 | upskyy/ko-rerankerText | Updated3 days ago | [Link](https://huggingface.co/upskyy/ko-reranker) |
+| 4 | 2 | cl-nagoya/ruri-v3-reranker-310mText | Updatedabout 2 hours ago | [Link](https://huggingface.co/cl-nagoya/ruri-v3-reranker-310m) |
 | 70 | 1 | tomaarsen/reranker-NeoBERT-gooaq-bceText | Updatedabout 11 hours ago | [Link](https://huggingface.co/tomaarsen/reranker-NeoBERT-gooaq-bce) |
 | 8 | 1 | tomaarsen/reranker-msmarco-ModernBERT-base-lambdalossText | Updatedabout 9 hours ago | [Link](https://huggingface.co/tomaarsen/reranker-msmarco-ModernBERT-base-lambdaloss) |
 | 10 | 1 | tomaarsen/reranker-msmarco-MiniLM-L12-H384-uncased-lambdalossText | Updatedabout 9 hours ago | [Link](https://huggingface.co/tomaarsen/reranker-msmarco-MiniLM-L12-H384-uncased-lambdaloss) |
@@ -2404,6 +2413,7 @@ Updated on 2025-04-14
 |  | 9 | ART-Release/ART_v1 | Updatedabout 23 hours ago | [Link](https://huggingface.co/ART-Release/ART_v1.0) |
 | 9 | 9 | motimalu/wan-flat-color-v2Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/motimalu/wan-flat-color-v2) |
 | 11 | 9 | ShoufaChen/PixelFlow-Text2ImageText-to-Image | Updatedabout 19 hours ago | [Link](https://huggingface.co/ShoufaChen/PixelFlow-Text2Image) |
+| 8.2k | 9 | azaneko/HiDream-I1-Dev-nf4Text-to-Image | Updated6 days ago | [Link](https://huggingface.co/azaneko/HiDream-I1-Dev-nf4) |
 | 215 | 8 | tensorart/stable-diffusion-3 | Updated8 minutes ago | [Link](https://huggingface.co/tensorart/stable-diffusion-3.5-large-TurboX) |
 | 1.69k | 7 | silveroxides/Chroma-GGUFText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/silveroxides/Chroma-GGUF) |
 | 2 | 2.77k | CompVis/stable-diffusion-v-1-4-originalText-to-Image | UpdatedNov 9, 2022 | [Link](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original) |
@@ -3060,6 +3070,7 @@ Updated on 2025-04-14
 | 178 | 1 | sokaina55/videomae-base-finetuned-kinetics-finetuned-ssl-sign-language-recognitionVideo | UpdatedFeb 22, 2024 | [Link](https://huggingface.co/sokaina55/videomae-base-finetuned-kinetics-finetuned-ssl-sign-language-recognition) |
 | 198 | 1 | ihsanahakiim/videomae-base-finetuned-signlanguageVideo | UpdatedMar 2 | [Link](https://huggingface.co/ihsanahakiim/videomae-base-finetuned-signlanguage) |
 | 437 | 1 | ihsanahakiim/videomae-base-finetuned-signlanguage-last-3Video | Updated28 days ago | [Link](https://huggingface.co/ihsanahakiim/videomae-base-finetuned-signlanguage-last-3) |
+| 21 | 1 | yadvender12/videomae-base-finetuned-kinetics-finetuned-fall-detectVideo | UpdatedMar 21, 2024 | [Link](https://huggingface.co/yadvender12/videomae-base-finetuned-kinetics-finetuned-fall-detect) |
 | 89 | Unknown | ElenaRyumina/face_emotion_recognitionVideo | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/ElenaRyumina/face_emotion_recognition) |
 | 3 | Unknown | OpenGVLab/InternVideo2-Stage1-1B-224p-K400Video | UpdatedAug 14, 2024 | [Link](https://huggingface.co/OpenGVLab/InternVideo2-Stage1-1B-224p-K400) |
 | 2 | Unknown | OpenGVLab/UMTVideo | UpdatedAug 17, 2024 | [Link](https://huggingface.co/OpenGVLab/UMT) |

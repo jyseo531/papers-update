@@ -26,7 +26,7 @@
 |**2025-04-11**|**Neural Fidelity Calibration for Informative Sim-to-Real Adaptation**|Youwei Yu et.al.|[2504.08604v1](http://arxiv.org/abs/2504.08604v1)|**2025-04-11**|null|
 |**2025-04-11**|**On Background Bias of Post-Hoc Concept Embeddings in Computer Vision DNNs**|Gesina Schwalbe et.al.|[2504.08602v1](http://arxiv.org/abs/2504.08602v1)|**2025-04-11**|null|
 |**2025-04-11**|**Graph Coloring via Quantum Optimization on a Rydberg-Qudit Atom Array**|Toonyawat Angkhanawin et.al.|[2504.08598v1](http://arxiv.org/abs/2504.08598v1)|**2025-04-11**|null|
-|**2025-04-11**|**Altermagnetism Without Crystal Symmetry**|Peru d'Ornellas et.al.|[2504.08597v1](http://arxiv.org/abs/2504.08597v1)|**2025-04-11**|null|
+|**2025-04-11**|**Altermagnetism Without Crystal Symmetry**|Peru d'Ornellas et.al.|[2504.08597v2](http://arxiv.org/abs/2504.08597v2)|**2025-04-14**|null|
 |**2025-04-11**|**Graph shadows and edge-regular graphs**|Jared DeLeo et.al.|[2504.08587v1](http://arxiv.org/abs/2504.08587v1)|**2025-04-11**|null|
 |**2025-04-11**|**On the Asymptotics of the Connectivity Probability of Erdos-Renyi Graphs**|B. Chinyaev et.al.|[2504.08576v1](http://arxiv.org/abs/2504.08576v1)|**2025-04-11**|null|
 |**2025-04-11**|**Distributed Uplink Joint Transmission for 6G Communication**|Kumar Sai Bondada et.al.|[2504.08567v1](http://arxiv.org/abs/2504.08567v1)|**2025-04-11**|null|

@@ -12,7 +12,7 @@
 |**2025-04-11**|**Latent Diffusion Autoencoders: Toward Efficient and Meaningful Unsupervised Representation Learning in Medical Imaging**|Gabriele Lozupone et.al.|[2504.08635v1](http://arxiv.org/abs/2504.08635v1)|**2025-04-11**|[link](https://github.com/GabrieleLozupone/LDAE)|
 |**2025-04-11**|**FindAnything: Open-Vocabulary and Object-Centric Mapping for Robot Exploration in Any Environment**|Sebastián Barbas Laina et.al.|[2504.08603v1](http://arxiv.org/abs/2504.08603v1)|**2025-04-11**|null|
 |**2025-04-11**|**On Background Bias of Post-Hoc Concept Embeddings in Computer Vision DNNs**|Gesina Schwalbe et.al.|[2504.08602v1](http://arxiv.org/abs/2504.08602v1)|**2025-04-11**|null|
-|**2025-04-11**|**Hands-On: Segmenting Individual Signs from Continuous Sequences**|Low Jian He et.al.|[2504.08593v1](http://arxiv.org/abs/2504.08593v1)|**2025-04-11**|null|
+|**2025-04-11**|**Hands-On: Segmenting Individual Signs from Continuous Sequences**|Low Jian He et.al.|[2504.08593v2](http://arxiv.org/abs/2504.08593v2)|**2025-04-14**|null|
 |**2025-04-11**|**ZipIR: Latent Pyramid Diffusion Transformer for High-Resolution Image Restoration**|Yongsheng Yu et.al.|[2504.08591v1](http://arxiv.org/abs/2504.08591v1)|**2025-04-11**|null|
 |**2025-04-11**|**FMLGS: Fast Multilevel Language Embedded Gaussians for Part-level Interactive Agents**|Xin Tan et.al.|[2504.08581v1](http://arxiv.org/abs/2504.08581v1)|**2025-04-11**|null|
 |**2025-04-11**|**On the problem of recovery of Sturm--Liouville operator with two frozen arguments**|Maria Kuznetsova et.al.|[2504.08561v1](http://arxiv.org/abs/2504.08561v1)|**2025-04-11**|null|

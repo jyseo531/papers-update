@@ -12,7 +12,7 @@
 |**2025-04-11**|**Holley--Stroock uniqueness method for the $\varphi^4_2$ dynamics**|Roland Bauerschmidt et.al.|[2504.08606v1](http://arxiv.org/abs/2504.08606v1)|**2025-04-11**|null|
 |**2025-04-11**|**FindAnything: Open-Vocabulary and Object-Centric Mapping for Robot Exploration in Any Environment**|Sebastián Barbas Laina et.al.|[2504.08603v1](http://arxiv.org/abs/2504.08603v1)|**2025-04-11**|null|
 |**2025-04-11**|**On Background Bias of Post-Hoc Concept Embeddings in Computer Vision DNNs**|Gesina Schwalbe et.al.|[2504.08602v1](http://arxiv.org/abs/2504.08602v1)|**2025-04-11**|null|
-|**2025-04-11**|**Hands-On: Segmenting Individual Signs from Continuous Sequences**|Low Jian He et.al.|[2504.08593v1](http://arxiv.org/abs/2504.08593v1)|**2025-04-11**|null|
+|**2025-04-11**|**Hands-On: Segmenting Individual Signs from Continuous Sequences**|Low Jian He et.al.|[2504.08593v2](http://arxiv.org/abs/2504.08593v2)|**2025-04-14**|null|
 |**2025-04-11**|**FMLGS: Fast Multilevel Language Embedded Gaussians for Part-level Interactive Agents**|Xin Tan et.al.|[2504.08581v1](http://arxiv.org/abs/2504.08581v1)|**2025-04-11**|null|
 |**2025-04-11**|**On the problem of recovery of Sturm--Liouville operator with two frozen arguments**|Maria Kuznetsova et.al.|[2504.08561v1](http://arxiv.org/abs/2504.08561v1)|**2025-04-11**|null|
 |**2025-04-11**|**Shadow Erosion and Nighttime Adaptability for Camera-Based Automated Driving Applications**|Mohamed Sabry et.al.|[2504.08551v1](http://arxiv.org/abs/2504.08551v1)|**2025-04-11**|null|

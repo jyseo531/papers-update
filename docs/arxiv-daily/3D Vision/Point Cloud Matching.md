@@ -21,7 +21,7 @@
 |**2025-04-11**|**Probabilistic mapping between multiparticle production variables and the depth of maximum in proton-induced extensive air showers**|Lorenzo Cazon et.al.|[2504.08610v1](http://arxiv.org/abs/2504.08610v1)|**2025-04-11**|null|
 |**2025-04-11**|**Frequency-bin interferometry for reconstructing electric fields with low intensity**|Abhinandan Bhattacharjee et.al.|[2504.08607v1](http://arxiv.org/abs/2504.08607v1)|**2025-04-11**|null|
 |**2025-04-11**|**Quantum memory in spontaneous emission processes**|Mei Yu et.al.|[2504.08605v1](http://arxiv.org/abs/2504.08605v1)|**2025-04-11**|null|
-|**2025-04-11**|**Altermagnetism Without Crystal Symmetry**|Peru d'Ornellas et.al.|[2504.08597v1](http://arxiv.org/abs/2504.08597v1)|**2025-04-11**|null|
+|**2025-04-11**|**Altermagnetism Without Crystal Symmetry**|Peru d'Ornellas et.al.|[2504.08597v2](http://arxiv.org/abs/2504.08597v2)|**2025-04-14**|null|
 |**2025-04-11**|**Control Co-Design Under Uncertainty for Offshore Wind Farms: Optimizing Grid Integration, Energy Storage, and Market Participation**|Himanshu Sharma et.al.|[2504.08555v1](http://arxiv.org/abs/2504.08555v1)|**2025-04-11**|null|
 |**2025-04-11**|**UoB-NLP at SemEval-2025 Task 11: Leveraging Adapters for Multilingual and Cross-Lingual Emotion Detection**|Frances Laureano De Leon et.al.|[2504.08543v1](http://arxiv.org/abs/2504.08543v1)|**2025-04-11**|null|
 |**2025-04-11**|**Integrated ensemble of BERT- and features-based models for authorship attribution in Japanese literary works**|Taisei Kanda et.al.|[2504.08527v1](http://arxiv.org/abs/2504.08527v1)|**2025-04-11**|null|

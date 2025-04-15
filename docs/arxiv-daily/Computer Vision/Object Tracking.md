@@ -25,7 +25,7 @@
 |**2025-04-11**|**Explainability and Continual Learning meet Federated Learning at the Network Edge**|Thomas Tsouparopoulos et.al.|[2504.08536v1](http://arxiv.org/abs/2504.08536v1)|**2025-04-11**|null|
 |**2025-04-11**|**Genetic Algorithm Design Exploration for On-Device Training on FPGAs**|Alaa Mazouz et.al.|[2504.08534v1](http://arxiv.org/abs/2504.08534v1)|**2025-04-11**|null|
 |**2025-04-11**|**Embodied Image Captioning: Self-supervised Learning Agents for Spatially Coherent Image Descriptions**|Tommaso Galliena et.al.|[2504.08531v1](http://arxiv.org/abs/2504.08531v1)|**2025-04-11**|null|
-|**2025-04-11**|**Task Memory Engine (TME): Enhancing State Awareness for Multi-Step LLM Agent Tasks**|Ye Ye et.al.|[2504.08525v1](http://arxiv.org/abs/2504.08525v1)|**2025-04-11**|null|
+|**2025-04-11**|**Task Memory Engine (TME): A Structured Memory Framework with Graph-Aware Extensions for Multi-Step LLM Agent Tasks**|Ye Ye et.al.|[2504.08525v2](http://arxiv.org/abs/2504.08525v2)|**2025-04-14**|null|
 |**2025-04-11**|**Measure Theory of Conditionally Independent Random Function Evaluation**|Felix Benning et.al.|[2504.08513v1](http://arxiv.org/abs/2504.08513v1)|**2025-04-11**|null|
 |**2025-04-11**|**Controlled stochastic processes for simulated annealing**|Vincent Molin et.al.|[2504.08506v1](http://arxiv.org/abs/2504.08506v1)|**2025-04-11**|null|
 |**2025-04-11**|**Perverse schobers of Coxeter type $\mathbb{A}$**|Tobias Dyckerhoff et.al.|[2504.08496v1](http://arxiv.org/abs/2504.08496v1)|**2025-04-11**|null|

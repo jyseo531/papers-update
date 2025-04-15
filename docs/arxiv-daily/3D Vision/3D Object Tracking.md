@@ -24,7 +24,7 @@
 |**2025-04-11**|**Optimal selection of the most informative nodes for a noisy DeGroot model with stubborn agents**|Roberta Raineri et.al.|[2504.08622v1](http://arxiv.org/abs/2504.08622v1)|**2025-04-11**|null|
 |**2025-04-11**|**Tactile sensing enables vertical obstacle negotiation for elongate many-legged robots**|Juntao He et.al.|[2504.08615v1](http://arxiv.org/abs/2504.08615v1)|**2025-04-11**|null|
 |**2025-04-11**|**FindAnything: Open-Vocabulary and Object-Centric Mapping for Robot Exploration in Any Environment**|Sebastián Barbas Laina et.al.|[2504.08603v1](http://arxiv.org/abs/2504.08603v1)|**2025-04-11**|null|
-|**2025-04-11**|**Hands-On: Segmenting Individual Signs from Continuous Sequences**|Low Jian He et.al.|[2504.08593v1](http://arxiv.org/abs/2504.08593v1)|**2025-04-11**|null|
+|**2025-04-11**|**Hands-On: Segmenting Individual Signs from Continuous Sequences**|Low Jian He et.al.|[2504.08593v2](http://arxiv.org/abs/2504.08593v2)|**2025-04-14**|null|
 |**2025-04-11**|**Hardware, Algorithms, and Applications of the Neuromorphic Vision Sensor: a Review**|Claudio Cimarelli et.al.|[2504.08588v1](http://arxiv.org/abs/2504.08588v1)|**2025-04-11**|null|
 |**2025-04-11**|**FMLGS: Fast Multilevel Language Embedded Gaussians for Part-level Interactive Agents**|Xin Tan et.al.|[2504.08581v1](http://arxiv.org/abs/2504.08581v1)|**2025-04-11**|null|
 |**2025-04-11**|**Analysis of the Unscented Transform Controller for Systems with Bounded Nonlinearities**|Siddharth A. Dinkar et.al.|[2504.08579v1](http://arxiv.org/abs/2504.08579v1)|**2025-04-11**|null|

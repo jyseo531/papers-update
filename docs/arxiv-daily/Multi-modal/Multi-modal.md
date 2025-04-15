@@ -18,7 +18,7 @@
 |**2025-04-11**|**General Theory of Coupled Characteristic Mode: An Eigen Subspace Approach**|Rakesh Sinha et.al.|[2504.08251v1](http://arxiv.org/abs/2504.08251v1)|**2025-04-11**|null|
 |**2025-04-11**|**InSPE: Rapid Evaluation of Heterogeneous Multi-Modal Infrastructure Sensor Placement**|Zhaoliang Zheng et.al.|[2504.08240v1](http://arxiv.org/abs/2504.08240v1)|**2025-04-11**|null|
 |**2025-04-11**|**F$^3$Set: Towards Analyzing Fast, Frequent, and Fine-grained Events from Videos**|Zhaoyu Liu et.al.|[2504.08222v1](http://arxiv.org/abs/2504.08222v1)|**2025-04-11**|null|
-|**2025-04-11**|**Neural Encoding and Decoding at Scale**|Yizi Zhang et.al.|[2504.08201v1](http://arxiv.org/abs/2504.08201v1)|**2025-04-11**|null|
+|**2025-04-11**|**Neural Encoding and Decoding at Scale**|Yizi Zhang et.al.|[2504.08201v2](http://arxiv.org/abs/2504.08201v2)|**2025-04-14**|null|
 |**2025-04-11**|**SynthFM: Training Modality-agnostic Foundation Models for Medical Image Segmentation without Real Medical Data**|Sourya Sengupta et.al.|[2504.08177v1](http://arxiv.org/abs/2504.08177v1)|**2025-04-11**|null|
 |**2025-04-10**|**Quantum-assured magnetic navigation achieves positioning accuracy better than a strategic-grade INS in airborne and ground-based field trials**|Murat Muradoglu et.al.|[2504.08167v1](http://arxiv.org/abs/2504.08167v1)|**2025-04-10**|null|
 |**2025-04-10**|**Orchestrating Agents and Data for Enterprise: A Blueprint Architecture for Compound AI**|Eser Kandogan et.al.|[2504.08148v1](http://arxiv.org/abs/2504.08148v1)|**2025-04-10**|null|

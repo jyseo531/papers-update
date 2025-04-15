@@ -24,11 +24,11 @@
 |**2025-04-11**|**Probabilistic mapping between multiparticle production variables and the depth of maximum in proton-induced extensive air showers**|Lorenzo Cazon et.al.|[2504.08610v1](http://arxiv.org/abs/2504.08610v1)|**2025-04-11**|null|
 |**2025-04-11**|**Frequency-bin interferometry for reconstructing electric fields with low intensity**|Abhinandan Bhattacharjee et.al.|[2504.08607v1](http://arxiv.org/abs/2504.08607v1)|**2025-04-11**|null|
 |**2025-04-11**|**Quantum memory in spontaneous emission processes**|Mei Yu et.al.|[2504.08605v1](http://arxiv.org/abs/2504.08605v1)|**2025-04-11**|null|
-|**2025-04-11**|**Altermagnetism Without Crystal Symmetry**|Peru d'Ornellas et.al.|[2504.08597v1](http://arxiv.org/abs/2504.08597v1)|**2025-04-11**|null|
-|**2025-04-11**|**Prophecies all the Way: Game-based Model-Checking for HyperQPTL beyond $\forall^*\exists^*$**|Sarah Winter et.al.|[2504.08575v1](http://arxiv.org/abs/2504.08575v1)|**2025-04-11**|null|
+|**2025-04-11**|**Altermagnetism Without Crystal Symmetry**|Peru d'Ornellas et.al.|[2504.08597v2](http://arxiv.org/abs/2504.08597v2)|**2025-04-14**|null|
+|**2025-04-11**|**Prophecies all the Way: Game-based Model-Checking for HyperQPTL beyond $\forall^*\exists^*$**|Sarah Winter et.al.|[2504.08575v2](http://arxiv.org/abs/2504.08575v2)|**2025-04-14**|null|
 |**2025-04-11**|**Localized plasmonic meron-antimeron pairs in doubly degenerate orbitals**|Jie Yang et.al.|[2504.08558v1](http://arxiv.org/abs/2504.08558v1)|**2025-04-11**|null|
 |**2025-04-11**|**Control Co-Design Under Uncertainty for Offshore Wind Farms: Optimizing Grid Integration, Energy Storage, and Market Participation**|Himanshu Sharma et.al.|[2504.08555v1](http://arxiv.org/abs/2504.08555v1)|**2025-04-11**|null|
 |**2025-04-11**|**On the Bossel-Daners inequality for the p-Laplacian on complete Riemannian manifolds**|Daguang Chen et.al.|[2504.08538v1](http://arxiv.org/abs/2504.08538v1)|**2025-04-11**|null|
 |**2025-04-11**|**Integrated ensemble of BERT- and features-based models for authorship attribution in Japanese literary works**|Taisei Kanda et.al.|[2504.08527v1](http://arxiv.org/abs/2504.08527v1)|**2025-04-11**|null|
-|**2025-04-11**|**Task Memory Engine (TME): Enhancing State Awareness for Multi-Step LLM Agent Tasks**|Ye Ye et.al.|[2504.08525v1](http://arxiv.org/abs/2504.08525v1)|**2025-04-11**|null|
+|**2025-04-11**|**Task Memory Engine (TME): A Structured Memory Framework with Graph-Aware Extensions for Multi-Step LLM Agent Tasks**|Ye Ye et.al.|[2504.08525v2](http://arxiv.org/abs/2504.08525v2)|**2025-04-14**|null|
 |**2025-04-11**|**Sunward Flows in the Magnetosheath Associated with Magnetic Pressure Gradient and Magnetosheath Expansion**|H. Madanian et.al.|[2504.08521v1](http://arxiv.org/abs/2504.08521v1)|**2025-04-11**|null|
