@@ -335,6 +335,7 @@ Updated on 2025-04-16
 | 33.1k |  | distil-whisper/distil-large-v2Automatic | UpdatedMar 6 | [Link](https://huggingface.co/distil-whisper/distil-large-v2) |
 | 23.1k |  | openai/whisper-small | UpdatedJan 22, 2024 | [Link](https://huggingface.co/openai/whisper-small.en) |
 | 100 |  | Nuwaisir/Quran_speech_recognizerAutomatic | UpdatedAug 20, 2022 | [Link](https://huggingface.co/Nuwaisir/Quran_speech_recognizer) |
+| 3 | Unknown | qualcomm/Whisper-Small-V2Automatic | Updated7 days ago | [Link](https://huggingface.co/qualcomm/Whisper-Small-V2) |
 
 ## Depth Estimation
 
@@ -778,6 +779,7 @@ Updated on 2025-04-16
 | 1 | 2 | prithivMLmods/Food-101-93MImage | Updated2 days ago | [Link](https://huggingface.co/prithivMLmods/Food-101-93M) |
 | 20 | 2 | sabari15/ViT-base16-fine-tuned-crop-disease-modelImage | Updated33 minutes ago | [Link](https://huggingface.co/sabari15/ViT-base16-fine-tuned-crop-disease-model) |
 | 4 | 2 | prithivMLmods/Fashion-Product-UsageImage | Updated4 days ago | [Link](https://huggingface.co/prithivMLmods/Fashion-Product-Usage) |
+| 4 | 2 | prithivMLmods/Fashion-Product-subCategoryImage | Updated5 days ago | [Link](https://huggingface.co/prithivMLmods/Fashion-Product-subCategory) |
 | 1.55k | 1 | microsoft/swin-small-patch4-window7-224Image | UpdatedMay 16, 2022 | [Link](https://huggingface.co/microsoft/swin-small-patch4-window7-224) |
 | 60.6M |  | Falconsai/nsfw_image_detectionImage | UpdatedDec 6, 2023 | [Link](https://huggingface.co/Falconsai/nsfw_image_detection) |
 | 45.8M |  | microsoft/resnet-50Image | UpdatedFeb 13, 2024 | [Link](https://huggingface.co/microsoft/resnet-50) |
@@ -1035,6 +1037,7 @@ Updated on 2025-04-16
 | 151 | 11 | google/gemma-3-27b-pt-qat-q4_0-ggufImage-Text-to-Text | Updatedabout 18 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-pt-qat-q4_0-gguf) |
 | 128 | 11 | google/gemma-3-4b-pt-qat-q4_0-ggufImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/google/gemma-3-4b-pt-qat-q4_0-gguf) |
 | 1.97k | 11 | unsloth/Llama-4-Scout-17B-16E-Instruct-unslothImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct-unsloth) |
+| 2.04k | 11 | OpenGVLab/InternVL3-2BImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/OpenGVLab/InternVL3-2B) |
 | 185 | 10 | prithivMLmods/Tokenized-OCRImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/prithivMLmods/Tokenized-OCR) |
 | 25 | 10 | prithivMLmods/Qwen2-VL-OCR2-2B-InstructImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/Qwen2-VL-OCR2-2B-Instruct) |
 | 9 | 10 | google/gemma-3-12b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-12b-pt) |
@@ -1142,6 +1145,7 @@ Updated on 2025-04-16
 | 169k | 534 | stabilityai/stable-diffusion-2-inpaintingImage-to-Image | UpdatedJul 5, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-2-inpainting) |
 | 3.02k | 268 | fal/AuraSR-v2Image-to-Image | UpdatedAug 7, 2024 | [Link](https://huggingface.co/fal/AuraSR-v2) |
 | 6.24k | 260 | enhanceaiteam/Flux-Uncensored-V2Image-to-Image | UpdatedOct 11, 2024 | [Link](https://huggingface.co/enhanceaiteam/Flux-Uncensored-V2) |
+| 51.7k | 241 | DionTimmer/controlnet_qrcode-control_v1p_sd15Image-to-Image | UpdatedJun 15, 2023 | [Link](https://huggingface.co/DionTimmer/controlnet_qrcode-control_v1p_sd15) |
 | 13.9k | 205 | XLabs-AI/flux-ip-adapter-v2Image-to-Image | UpdatedOct 24, 2024 | [Link](https://huggingface.co/XLabs-AI/flux-ip-adapter-v2) |
 | 1 | 167 | InstantX/InstantIRImage-to-Image | UpdatedNov 7, 2024 | [Link](https://huggingface.co/InstantX/InstantIR) |
 | 8.65k | 135 | lllyasviel/sd-controlnet-openposeImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-openpose) |
@@ -1220,6 +1224,7 @@ Updated on 2025-04-16
 | 290 | 26 | paragon-AI/blip2-image-to-textImage-to-Text | UpdatedJun 24, 2023 | [Link](https://huggingface.co/paragon-AI/blip2-image-to-text) |
 | 7.18k | 25 | ddobokki/ko-trocrImage-to-Text | UpdatedOct 22, 2024 | [Link](https://huggingface.co/ddobokki/ko-trocr) |
 | 4.54k | 23 | raxtemur/trocr-base-ruImage-to-Text | UpdatedMay 29, 2024 | [Link](https://huggingface.co/raxtemur/trocr-base-ru) |
+| 376 | 19 | to-be/donut-base-finetuned-invoicesImage-to-Text | UpdatedMar 3, 2023 | [Link](https://huggingface.co/to-be/donut-base-finetuned-invoices) |
 | 225 | 15 | DunnBC22/trocr-base-handwritten-OCR-handwriting_recognition_v2Image-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-base-handwritten-OCR-handwriting_recognition_v2) |
 | 658 | 11 | prithivMLmods/Florence-2-VLM-Doc-VQAImage-to-Text | UpdatedOct 26, 2024 | [Link](https://huggingface.co/prithivMLmods/Florence-2-VLM-Doc-VQA) |
 | 68 | 10 | Flova/omr_transformerImage-to-Text | UpdatedOct 5, 2023 | [Link](https://huggingface.co/Flova/omr_transformer) |
@@ -1494,6 +1499,7 @@ Updated on 2025-04-16
 | 224 | Unknown | StephanST/WALDO30Object | UpdatedOct 9, 2024 | [Link](https://huggingface.co/StephanST/WALDO30) |
 | 2 | Unknown | biglam/medieval-manuscript-yolov11Object | Updatedabout 10 hours ago | [Link](https://huggingface.co/biglam/medieval-manuscript-yolov11) |
 | 2 | Unknown | wjbmattingly/european-art-yolov11Object | Updatedabout 16 hours ago | [Link](https://huggingface.co/wjbmattingly/european-art-yolov11) |
+| 3 | Unknown | jparedesDS/cs2-yolov10sObject | Updated5 days ago | [Link](https://huggingface.co/jparedesDS/cs2-yolov10s) |
 
 ## Question Answering
 
@@ -1534,6 +1540,7 @@ Updated on 2025-04-16
 | 27 | 2 | InduwaraR/qwen-ai-research-qa-q4_k_m | Updatedabout 7 hours ago | [Link](https://huggingface.co/InduwaraR/qwen-ai-research-qa-q4_k_m.gguf) |
 | 18 | 2 | TIGER-Lab/MAmmoTH-VL2Question | Updated1 day ago | [Link](https://huggingface.co/TIGER-Lab/MAmmoTH-VL2) |
 | 19 | 2 | DISLab/Gen-8B-R2Question | Updatedabout 3 hours ago | [Link](https://huggingface.co/DISLab/Gen-8B-R2) |
+| 41 | 2 | TIGER-Lab/general-verifierQuestion | Updatedabout 19 hours ago | [Link](https://huggingface.co/TIGER-Lab/general-verifier) |
 | 133 | 1 | chieunq/xlm-r-base-uit-viquadQuestion | UpdatedDec 13, 2022 | [Link](https://huggingface.co/chieunq/xlm-r-base-uit-viquad) |
 | 127 | 1 | FuriouslyAsleep/markuplm-large-finetuned-qaQuestion | UpdatedFeb 10, 2022 | [Link](https://huggingface.co/FuriouslyAsleep/markuplm-large-finetuned-qa) |
 | 4.98k |  | Intel/dynamic_tinybertQuestion | UpdatedMar 22, 2024 | [Link](https://huggingface.co/Intel/dynamic_tinybert) |
@@ -2008,6 +2015,7 @@ Updated on 2025-04-16
 | 13.2k | 10 | SuperAnnotate/ai-detectorText | UpdatedDec 17, 2024 | [Link](https://huggingface.co/SuperAnnotate/ai-detector) |
 | 1.7k | 10 | tokyotech-llm/edu-classifierText | UpdatedJan 30 | [Link](https://huggingface.co/tokyotech-llm/edu-classifier) |
 | 5.47k | 10 | LxzGordon/URM-LLaMa-3 | UpdatedFeb 21 | [Link](https://huggingface.co/LxzGordon/URM-LLaMa-3.1-8B) |
+| 460 | 10 | Nasserelsaman/microsoft-finetuned-personalityText | UpdatedDec 11, 2024 | [Link](https://huggingface.co/Nasserelsaman/microsoft-finetuned-personality) |
 | 59 | 8 | AlicanKiraz0/SenecaLLM_x_Qwen2 | Updated28 days ago | [Link](https://huggingface.co/AlicanKiraz0/SenecaLLM_x_Qwen2.5-7B-CyberSecurity-Q8_0-GGUF) |
 | 1.37k | 7 | Intel/polite-guardText | Updated1 day ago | [Link](https://huggingface.co/Intel/polite-guard) |
 | 552 | 7 | RussianNLP/ruRoBERTa-large-rucolaText | UpdatedAug 30, 2022 | [Link](https://huggingface.co/RussianNLP/ruRoBERTa-large-rucola) |
@@ -2192,6 +2200,7 @@ Updated on 2025-04-16
 | 869 | 24 | bartowski/agentica-org_DeepCoder-14B-Preview-GGUFText | Updated1 day ago | [Link](https://huggingface.co/bartowski/agentica-org_DeepCoder-14B-Preview-GGUF) |
 | 15.7k | 24 | bartowski/meta-llama_Llama-4-Scout-17B-16E-Instruct-GGUFText | Updated3 days ago | [Link](https://huggingface.co/bartowski/meta-llama_Llama-4-Scout-17B-16E-Instruct-GGUF) |
 | 87 | 24 | ServiceNow-AI/Apriel-5B-BaseText | Updated4 days ago | [Link](https://huggingface.co/ServiceNow-AI/Apriel-5B-Base) |
+| 2.29k | 24 | nvidia/Nemotron-H-8B-Base-8KText | Updatedabout 20 hours ago | [Link](https://huggingface.co/nvidia/Nemotron-H-8B-Base-8K) |
 | 10.3k | 23 | unsloth/Phi-4-mini-instruct-GGUFText | Updated4 days ago | [Link](https://huggingface.co/unsloth/Phi-4-mini-instruct-GGUF) |
 | 26.8k | 23 | lmstudio-community/QwQ-32B-GGUFText | Updated1 day ago | [Link](https://huggingface.co/lmstudio-community/QwQ-32B-GGUF) |
 | 1.47k | 23 | NousResearch/DeepHermes-3-Llama-3-3B-PreviewText | Updated4 days ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-3B-Preview) |
@@ -2424,6 +2433,7 @@ Updated on 2025-04-16
 | 4 | 13 | fumeisama/drawatoon-v1Text-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/fumeisama/drawatoon-v1) |
 | 116 | 11 | Efficient-Large-Model/SANA1 | Updatedabout 6 hours ago | [Link](https://huggingface.co/Efficient-Large-Model/SANA1.5_4.8B_1024px) |
 | 687 | 11 | azaneko/HiDream-I1-Full-nf4Text-to-Image | Updated3 days ago | [Link](https://huggingface.co/azaneko/HiDream-I1-Full-nf4) |
+| 945 | 11 | calcuis/hidream-ggufText-to-Image | Updated20 minutes ago | [Link](https://huggingface.co/calcuis/hidream-gguf) |
 |  | 10 | strangerzonehf/Real-ClaymationText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/strangerzonehf/Real-Claymation) |
 | 17 | 10 | zhang0jhon/flux_waveletText-to-Image | Updated5 days ago | [Link](https://huggingface.co/zhang0jhon/flux_wavelet) |
 |  | 9 | ART-Release/ART_v1 | Updatedabout 23 hours ago | [Link](https://huggingface.co/ART-Release/ART_v1.0) |
@@ -3220,6 +3230,7 @@ Updated on 2025-04-16
 | 118 | 6 | DAMO-NLP-SG/VideoLLaMA2-7B-BaseVisual | UpdatedAug 13, 2024 | [Link](https://huggingface.co/DAMO-NLP-SG/VideoLLaMA2-7B-Base) |
 | 2.79k | 5 | mPLUG/mPLUG-Owl3-2B-241014Visual | UpdatedOct 15, 2024 | [Link](https://huggingface.co/mPLUG/mPLUG-Owl3-2B-241014) |
 | 100 | 4 | BUAADreamer/Chinese-LLaVA-Med-7BVisual | UpdatedMay 22, 2024 | [Link](https://huggingface.co/BUAADreamer/Chinese-LLaVA-Med-7B) |
+| 125 | 4 | TIGER-Lab/VL-Rethinker-7BVisual | Updated1 day ago | [Link](https://huggingface.co/TIGER-Lab/VL-Rethinker-7B) |
 | 72 | 3 | SakanaAI/TAID-VLM-2BVisual | Updated26 days ago | [Link](https://huggingface.co/SakanaAI/TAID-VLM-2B) |
 | 11 | 2 | UniverseTBD/AstroLLaVA_v2Visual | UpdatedJan 13 | [Link](https://huggingface.co/UniverseTBD/AstroLLaVA_v2) |
 | 1.15k | 2 | mPLUG/mPLUG-Owl3-1B-241014Visual | UpdatedOct 15, 2024 | [Link](https://huggingface.co/mPLUG/mPLUG-Owl3-1B-241014) |

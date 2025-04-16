@@ -2,33 +2,33 @@
 ### Transformer
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-14**|**REPA-E: Unlocking VAE for End-to-End Tuning with Latent Diffusion Transformers**|Xingjian Leng et.al.|[2504.10483v1](http://arxiv.org/abs/2504.10483v1)|**2025-04-14**|null|
-|**2025-04-14**|**Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding**|Tao Zhang et.al.|[2504.10465v1](http://arxiv.org/abs/2504.10465v1)|**2025-04-14**|null|
-|**2025-04-14**|**The Scalability of Simplicity: Empirical Analysis of Vision-Language Learning with a Single Transformer**|Weixian Lei et.al.|[2504.10462v1](http://arxiv.org/abs/2504.10462v1)|**2025-04-14**|null|
-|**2025-04-14**|**The stellar decomposition of Gaussian quantum states**|Arsalan Motamedi et.al.|[2504.10455v1](http://arxiv.org/abs/2504.10455v1)|**2025-04-14**|null|
-|**2025-04-14**|**Dynamical systems approach to Cold and Warm Inflation within slow-roll and beyond**|Sandip Biswas et.al.|[2504.10454v1](http://arxiv.org/abs/2504.10454v1)|**2025-04-14**|null|
-|**2025-04-14**|**Integrating Vision and Location with Transformers: A Multimodal Deep Learning Framework for Medical Wound Analysis**|Ramin Mousa et.al.|[2504.10452v1](http://arxiv.org/abs/2504.10452v1)|**2025-04-14**|null|
-|**2025-04-14**|**M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models**|Junxiong Wang et.al.|[2504.10449v1](http://arxiv.org/abs/2504.10449v1)|**2025-04-14**|null|
-|**2025-04-14**|**Multimodal Long Video Modeling Based on Temporal Dynamic Context**|Haoran Hao et.al.|[2504.10443v1](http://arxiv.org/abs/2504.10443v1)|**2025-04-14**|null|
-|**2025-04-14**|**Streaming Democratized: Ease Across the Latency Spectrum with Delayed View Semantics and Snowflake Dynamic Tables**|Daniel Sotolongo et.al.|[2504.10438v1](http://arxiv.org/abs/2504.10438v1)|**2025-04-14**|null|
-|**2025-04-14**|**MonoDiff9D: Monocular Category-Level 9D Object Pose Estimation via Diffusion Model**|Jian Liu et.al.|[2504.10433v1](http://arxiv.org/abs/2504.10433v1)|**2025-04-14**|null|
-|**2025-04-14**|**Spectral Mode Enhancement in Coherent-harmonic Dual-comb Spectroscopy Enables Exceeding 300-fold Averaging Time Reduction**|Wei Long et.al.|[2504.10426v1](http://arxiv.org/abs/2504.10426v1)|**2025-04-14**|null|
-|**2025-04-14**|**CliniChat: A Multi-Source Knowledge-Driven Framework for Clinical Interview Dialogue Reconstruction and Evaluation**|Jing Chen et.al.|[2504.10418v1](http://arxiv.org/abs/2504.10418v1)|**2025-04-14**|null|
-|**2025-04-14**|**LLM-SRBench: A New Benchmark for Scientific Equation Discovery with Large Language Models**|Parshin Shojaee et.al.|[2504.10415v1](http://arxiv.org/abs/2504.10415v1)|**2025-04-14**|[link](https://github.com/deep-symbolic-mathematics/llm-srbench)|
-|**2025-04-14**|**AI-Driven Code Refactoring: Using Graph Neural Networks to Enhance Software Maintainability**|Gopichand Bandarupalli et.al.|[2504.10412v1](http://arxiv.org/abs/2504.10412v1)|**2025-04-14**|null|
-|**2025-04-14**|**FPGA-Optimized Hardware Accelerator for Fast Fourier Transform and Singular Value Decomposition in AI**|Hong Ding et.al.|[2504.10411v1](http://arxiv.org/abs/2504.10411v1)|**2025-04-14**|null|
-|**2025-04-14**|**A monotonicity formula for a semilinear fractional parabolic equation**|Ignacio Bustamante et.al.|[2504.10383v1](http://arxiv.org/abs/2504.10383v1)|**2025-04-14**|null|
-|**2025-04-14**|**DUE: A Deep Learning Framework and Library for Modeling Unknown Equations**|Junfeng Chen et.al.|[2504.10373v1](http://arxiv.org/abs/2504.10373v1)|**2025-04-14**|null|
-|**2025-04-14**|**Brain-Machine Interfaces & Information Retrieval Challenges and Opportunities**|Yashar Moshfeghi et.al.|[2504.10371v1](http://arxiv.org/abs/2504.10371v1)|**2025-04-14**|null|
-|**2025-04-14**|**Patch and Shuffle: A Preprocessing Technique for Texture Classification in Autonomous Cementitious Fabrication**|Jeremiah Giordani et.al.|[2504.10353v1](http://arxiv.org/abs/2504.10353v1)|**2025-04-14**|null|
-|**2025-04-14**|**Forecasting from Clinical Textual Time Series: Adaptations of the Encoder and Decoder Language Model Families**|Shahriar Noroozizadeh et.al.|[2504.10340v1](http://arxiv.org/abs/2504.10340v1)|**2025-04-14**|null|
-|**2025-04-14**|**Analysis of Attention in Video Diffusion Transformers**|Yuxin Wen et.al.|[2504.10317v1](http://arxiv.org/abs/2504.10317v1)|**2025-04-14**|null|
-|**2025-04-14**|**Extended-BMS Anomalies and Flat Space Holography**|Laurent Baulieu et.al.|[2504.10304v1](http://arxiv.org/abs/2504.10304v1)|**2025-04-14**|null|
-|**2025-04-14**|**Three-body problem for nuclear physics**|Emile Meoto et.al.|[2504.10301v1](http://arxiv.org/abs/2504.10301v1)|**2025-04-14**|null|
-|**2025-04-14**|**Zero-shot Autonomous Microscopy for Scalable and Intelligent Characterization of 2D Materials**|Jingyun Yang et.al.|[2504.10281v1](http://arxiv.org/abs/2504.10281v1)|**2025-04-14**|null|
-|**2025-04-14**|**LMFormer: Lane based Motion Prediction Transformer**|Harsh Yadav et.al.|[2504.10275v1](http://arxiv.org/abs/2504.10275v1)|**2025-04-14**|null|
-|**2025-04-14**|**When Technologies Are Not Enough: Understanding How Domestic Workers Employ (and Avoid) Online Technologies in Their Work Practices**|Mariana Fernandez-Espinosa et.al.|[2504.10265v1](http://arxiv.org/abs/2504.10265v1)|**2025-04-14**|null|
-|**2025-04-14**|**Spectral estimation for high-dimensional linear processes**|Jamshid Namdari et.al.|[2504.10257v1](http://arxiv.org/abs/2504.10257v1)|**2025-04-14**|null|
-|**2025-04-14**|**Compressible fluids excited by space-dependent transport noise**|D. Breit et.al.|[2504.10256v1](http://arxiv.org/abs/2504.10256v1)|**2025-04-14**|null|
-|**2025-04-14**|**Dissipation-Induced Threshold on Integrability Footprints**|Rodrigo M. C. Pereira et.al.|[2504.10255v1](http://arxiv.org/abs/2504.10255v1)|**2025-04-14**|null|
-|**2025-04-14**|**CAT: A Conditional Adaptation Tailor for Efficient and Effective Instance-Specific Pansharpening on Real-World Data**|Tianyu Xin et.al.|[2504.10242v1](http://arxiv.org/abs/2504.10242v1)|**2025-04-14**|null|
+|**2025-04-15**|**Mamba-Based Ensemble learning for White Blood Cell Classification**|Lewis Clifton et.al.|[2504.11438v1](http://arxiv.org/abs/2504.11438v1)|**2025-04-15**|null|
+|**2025-04-15**|**Leveraging Point Transformers for Detecting Anatomical Landmarks in Digital Dentistry**|Tibor Kubík et.al.|[2504.11418v1](http://arxiv.org/abs/2504.11418v1)|**2025-04-15**|null|
+|**2025-04-15**|**Deep Learning-based Bathymetry Retrieval without In-situ Depths using Remote Sensing Imagery and SfM-MVS DSMs with Data Gaps**|Panagiotis Agrafiotis et.al.|[2504.11416v1](http://arxiv.org/abs/2504.11416v1)|**2025-04-15**|null|
+|**2025-04-15**|**Ring Artifacts Correction Based on Global-Local Features Interaction Guidance in the Projection Domain**|Yunze Liu et.al.|[2504.11375v1](http://arxiv.org/abs/2504.11375v1)|**2025-04-15**|null|
+|**2025-04-15**|**A Decade of Wheat Mapping for Lebanon**|Hasan Wehbi et.al.|[2504.11366v1](http://arxiv.org/abs/2504.11366v1)|**2025-04-15**|null|
+|**2025-04-15**|**Transformer-Based Model for Cold Start Mitigation in FaaS Architecture**|Alexandre Savi Fayam Mbala Mouen et.al.|[2504.11338v1](http://arxiv.org/abs/2504.11338v1)|**2025-04-15**|null|
+|**2025-04-15**|**Subset-Contrastive Multi-Omics Network Embedding**|Pedro Henrique da Costa Avelar et.al.|[2504.11321v1](http://arxiv.org/abs/2504.11321v1)|**2025-04-15**|null|
+|**2025-04-15**|**Autoregressive Distillation of Diffusion Transformers**|Yeongmin Kim et.al.|[2504.11295v1](http://arxiv.org/abs/2504.11295v1)|**2025-04-15**|null|
+|**2025-04-15**|**Transforming Resonance Fluorescence into Maximally Entangled Photon Pairs Using Minimal Resources**|Xin-Xin Hu et.al.|[2504.11294v1](http://arxiv.org/abs/2504.11294v1)|**2025-04-15**|null|
+|**2025-04-15**|**UniAnimate-DiT: Human Image Animation with Large-Scale Video Diffusion Transformer**|Xiang Wang et.al.|[2504.11289v1](http://arxiv.org/abs/2504.11289v1)|**2025-04-15**|null|
+|**2025-04-15**|**Efficient Medical Image Restoration via Reliability Guided Learning in Frequency Domain**|Pengcheng Zheng et.al.|[2504.11286v1](http://arxiv.org/abs/2504.11286v1)|**2025-04-15**|null|
+|**2025-04-15**|**Invention, Innovation, and Commercialisation in British Biophysics**|Jack Shepherd et.al.|[2504.11276v1](http://arxiv.org/abs/2504.11276v1)|**2025-04-15**|null|
+|**2025-04-15**|**Rank-based transfer learning for high-dimensional survival data with application to sepsis data**|Nan Qiao et.al.|[2504.11270v1](http://arxiv.org/abs/2504.11270v1)|**2025-04-15**|null|
+|**2025-04-15**|**DeepSelective: Feature Gating and Representation Matching for Interpretable Clinical Prediction**|Ruochi Zhang et.al.|[2504.11264v1](http://arxiv.org/abs/2504.11264v1)|**2025-04-15**|null|
+|**2025-04-15**|**VEXP: A Low-Cost RISC-V ISA Extension for Accelerated Softmax Computation in Transformers**|Run Wang et.al.|[2504.11227v1](http://arxiv.org/abs/2504.11227v1)|**2025-04-15**|null|
+|**2025-04-15**|**Braiding vineyards**|Erin Chambers et.al.|[2504.11203v1](http://arxiv.org/abs/2504.11203v1)|**2025-04-15**|null|
+|**2025-04-15**|**Standard bubbles (and other Möbius-flat partitions) on model spaces are stable**|Emanuel Milman et.al.|[2504.11185v1](http://arxiv.org/abs/2504.11185v1)|**2025-04-15**|null|
+|**2025-04-15**|**A Quantum-Inspired Algorithm for Wave Simulation Using Tensor Networks**|Kevin Lively et.al.|[2504.11181v1](http://arxiv.org/abs/2504.11181v1)|**2025-04-15**|null|
+|**2025-04-15**|**A Unified Hardware Accelerator for Fast Fourier Transform and Number Theoretic Transform**|Rishabh Shrivastava et.al.|[2504.11124v1](http://arxiv.org/abs/2504.11124v1)|**2025-04-15**|null|
+|**2025-04-15**|**Continuous Aperture Array (CAPA)-Based Secure Wireless Communications**|Jingjing Zhao et.al.|[2504.11114v1](http://arxiv.org/abs/2504.11114v1)|**2025-04-15**|null|
+|**2025-04-15**|**Uncertainty modeling method for wind and solar power output in building integrated energy systems under continuous anomalous weather**|Deyi Shao et.al.|[2504.11100v1](http://arxiv.org/abs/2504.11100v1)|**2025-04-15**|null|
+|**2025-04-15**|**TD-Suite: All Batteries Included Framework for Technical Debt Classification**|Karthik Shivashankar et.al.|[2504.11085v1](http://arxiv.org/abs/2504.11085v1)|**2025-04-15**|null|
+|**2025-04-15**|**Change State Space Models for Remote Sensing Change Detection**|Elman Ghazaei et.al.|[2504.11080v1](http://arxiv.org/abs/2504.11080v1)|**2025-04-15**|null|
+|**2025-04-15**|**Avoshifts, Unishifts and Nondeterministic Cellular Automata**|Ville Salo et.al.|[2504.11071v1](http://arxiv.org/abs/2504.11071v1)|**2025-04-15**|null|
+|**2025-04-15**|**Morphing-based Compression for Data-centric ML Pipelines**|Sebastian Baunsgaard et.al.|[2504.11067v1](http://arxiv.org/abs/2504.11067v1)|**2025-04-15**|null|
+|**2025-04-15**|**QualiTagger: Automating software quality detection in issue trackers**|Karthik Shivashankar et.al.|[2504.11053v1](http://arxiv.org/abs/2504.11053v1)|**2025-04-15**|null|
+|**2025-04-15**|**Leveraging LLMs and attention-mechanism for automatic annotation of historical maps**|Yunshuang Yuan et.al.|[2504.11050v1](http://arxiv.org/abs/2504.11050v1)|**2025-04-15**|null|
+|**2025-04-15**|**Easy3D: A Simple Yet Effective Method for 3D Interactive Segmentation**|Andrea Simonelli et.al.|[2504.11024v1](http://arxiv.org/abs/2504.11024v1)|**2025-04-15**|null|
+|**2025-04-15**|**Structure and dynamics of open-shell nuclei from spherical coupled-cluster theory**|Francesco Marino et.al.|[2504.11012v1](http://arxiv.org/abs/2504.11012v1)|**2025-04-15**|null|
+|**2025-04-15**|**Self-Supervised Enhancement of Forward-Looking Sonar Images: Bridging Cross-Modal Degradation Gaps through Feature Space Transformation and Multi-Frame Fusion**|Zhisheng Zhang et.al.|[2504.10974v1](http://arxiv.org/abs/2504.10974v1)|**2025-04-15**|null|
