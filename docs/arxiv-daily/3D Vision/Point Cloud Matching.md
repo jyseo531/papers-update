@@ -1,34 +1,15 @@
+# Point Cloud Matching
 
-### Point Cloud Matching
-|Publish Date|Title|Authors|PDF|Last Updated|Code|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-14**|**Generalized Symmetries of Non-SUSY and Discrete Torsion String Backgrounds**|Noah Braeger et.al.|[2504.10484v1](http://arxiv.org/abs/2504.10484v1)|**2025-04-14**|null|
-|**2025-04-14**|**Rotatable Antenna-Enabled Secure Wireless Communication**|Liang Dai et.al.|[2504.10473v1](http://arxiv.org/abs/2504.10473v1)|**2025-04-14**|null|
-|**2025-04-14**|**False and genuine decoherence in the early universe: a local observer and time-averaged observables**|Fumiya Sano et.al.|[2504.10472v1](http://arxiv.org/abs/2504.10472v1)|**2025-04-14**|null|
-|**2025-04-14**|**MIEB: Massive Image Embedding Benchmark**|Chenghao Xiao et.al.|[2504.10471v1](http://arxiv.org/abs/2504.10471v1)|**2025-04-14**|null|
-|**2025-04-14**|**Quantum Barcodes: Persistent Homology for Quantum Phase Transitions**|Khyathi Komalan et.al.|[2504.10468v1](http://arxiv.org/abs/2504.10468v1)|**2025-04-14**|null|
-|**2025-04-14**|**Privacy-Preserving Distributed Link Predictions Among Peers in Online Classrooms Using Federated Learning**|Anurata Prabha Hridi et.al.|[2504.10456v1](http://arxiv.org/abs/2504.10456v1)|**2025-04-14**|null|
-|**2025-04-14**|**M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models**|Junxiong Wang et.al.|[2504.10449v1](http://arxiv.org/abs/2504.10449v1)|**2025-04-14**|null|
-|**2025-04-14**|**Model Order Reduction of Linear Systems via $(γ,δ)$-Similarity**|Shivam Bajaj et.al.|[2504.10437v1](http://arxiv.org/abs/2504.10437v1)|**2025-04-14**|null|
-|**2025-04-14**|**Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing**|Taihang Hu et.al.|[2504.10434v1](http://arxiv.org/abs/2504.10434v1)|**2025-04-14**|null|
-|**2025-04-14**|**MonoDiff9D: Monocular Category-Level 9D Object Pose Estimation via Diffusion Model**|Jian Liu et.al.|[2504.10433v1](http://arxiv.org/abs/2504.10433v1)|**2025-04-14**|null|
-|**2025-04-14**|**Region Based SLAM-Aware Exploration: Efficient and Robust Autonomous Mapping Strategy That Can Scale**|Megha Maheshwari et.al.|[2504.10416v1](http://arxiv.org/abs/2504.10416v1)|**2025-04-14**|null|
-|**2025-04-14**|**A discrete model for surface configuration spaces**|Nicholas Wawrykow et.al.|[2504.10406v1](http://arxiv.org/abs/2504.10406v1)|**2025-04-14**|null|
-|**2025-04-14**|**Towards Low-Latency Event-based Obstacle Avoidance on a FPGA-Drone**|Pietro Bonazzi et.al.|[2504.10400v1](http://arxiv.org/abs/2504.10400v1)|**2025-04-14**|null|
-|**2025-04-14**|**Unique Decoding of Reed-Solomon and Related Codes for Semi-Adversarial Errors**|Joshua Brakensiek et.al.|[2504.10399v1](http://arxiv.org/abs/2504.10399v1)|**2025-04-14**|null|
-|**2025-04-14**|**Spin-Orbital Intertwined Topological Superconductivity in a Class of Correlated Noncentrosymmetric Materials**|Lichuang Wang et.al.|[2504.10392v1](http://arxiv.org/abs/2504.10392v1)|**2025-04-14**|null|
-|**2025-04-14**|**Cosmogenic Neutrino Point Source and KM3-230213A**|Qinyuan Zhang et.al.|[2504.10378v1](http://arxiv.org/abs/2504.10378v1)|**2025-04-14**|null|
-|**2025-04-14**|**Reactive power flow optimization in AC drive systems**|Sanjay Chandrasekaran et.al.|[2504.10360v1](http://arxiv.org/abs/2504.10360v1)|**2025-04-14**|null|
-|**2025-04-14**|**DICE: A Framework for Dimensional and Contextual Evaluation of Language Models**|Aryan Shrivastava et.al.|[2504.10359v1](http://arxiv.org/abs/2504.10359v1)|**2025-04-14**|null|
-|**2025-04-14**|**MultiLoKo: a multilingual local knowledge benchmark for LLMs spanning 31 languages**|Dieuwke Hupkes et.al.|[2504.10356v1](http://arxiv.org/abs/2504.10356v1)|**2025-04-14**|null|
-|**2025-04-14**|**Comment on "Consequences of the single-pair measurement of the Bell parameter"**|Justo Pastor Lambare et.al.|[2504.10341v1](http://arxiv.org/abs/2504.10341v1)|**2025-04-14**|null|
-|**2025-04-14**|**MIPS is a Maxwell fluid with an extended and non-monotonic crossover**|José Martín-Roca et.al.|[2504.10332v1](http://arxiv.org/abs/2504.10332v1)|**2025-04-14**|null|
-|**2025-04-14**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331v1](http://arxiv.org/abs/2504.10331v1)|**2025-04-14**|null|
-|**2025-04-14**|**Modular invariant gluon-graviton scattering in AdS at one loop**|Shai M. Chester et.al.|[2504.10319v1](http://arxiv.org/abs/2504.10319v1)|**2025-04-14**|null|
-|**2025-04-14**|**AutoStyle-TTS: Retrieval-Augmented Generation based Automatic Style Matching Text-to-Speech Synthesis**|Dan Luo et.al.|[2504.10309v1](http://arxiv.org/abs/2504.10309v1)|**2025-04-14**|null|
-|**2025-04-14**|**Nonnegativity of signomials with Newton simplex over convex sets**|Jonas Ellwanger et.al.|[2504.10302v1](http://arxiv.org/abs/2504.10302v1)|**2025-04-14**|null|
-|**2025-04-14**|**Gravity-induced emergence of the Fermi scale in quantum quadratic gravity**|Mohammad Mehrafarin et.al.|[2504.10293v1](http://arxiv.org/abs/2504.10293v1)|**2025-04-14**|null|
-|**2025-04-14**|**Electron-Phonon Coupling Mediated by Fröhlich Interaction in Rb2SnBr6 Perovskite**|C. C. S. Soares et.al.|[2504.10292v1](http://arxiv.org/abs/2504.10292v1)|**2025-04-14**|null|
-|**2025-04-14**|**Towards a Flat Space Carrollian Hologram from AdS$_4$/CFT$_3$**|Arthur Lipstein et.al.|[2504.10291v1](http://arxiv.org/abs/2504.10291v1)|**2025-04-14**|null|
-|**2025-04-14**|**From translations to non-collapsing logic combinations**|João Rasga et.al.|[2504.10287v1](http://arxiv.org/abs/2504.10287v1)|**2025-04-14**|null|
-|**2025-04-14**|**$α$-Flow: A Unified Framework for Continuous-State Discrete Flow Matching Models**|Chaoran Cheng et.al.|[2504.10283v1](http://arxiv.org/abs/2504.10283v1)|**2025-04-14**|null|
+| Publish Date | Title | Authors | PDF | Code |
+|-------------|----------------|-------------|------|------|
+|**2024-12-18**|**4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching**|Fernando Amodeo et.al.|[2412.13639v1](http://arxiv.org/abs/2412.13639v1)|**[link](https://github.com/robotics-upo/gaussian-rio)**|
+|**2024-09-20**|**Localized Gaussians as Self-Attention Weights for Point Clouds Correspondence**|Alessandro Riva et.al.|[2409.13291v1](http://arxiv.org/abs/2409.13291v1)|null|
+|**2024-08-16**|**DV-Matcher: Deformation-based Non-Rigid Point Cloud Matching Guided by Pre-trained Visual Features**|Zhangquan Chen et.al.|[2408.08568v2](http://arxiv.org/abs/2408.08568v2)|null|
+|**2024-07-15**|**3D Geometric Shape Assembly via Efficient Point Cloud Matching**|Nahyuk Lee et.al.|[2407.10542v1](http://arxiv.org/abs/2407.10542v1)|**[link](https://github.com/NahyukLEE/pmtr)**|
+|**2024-07-14**|**GLIM: 3D Range-Inertial Localization and Mapping with GPU-Accelerated Scan Matching Factors**|Kenji Koide et.al.|[2407.10344v1](http://arxiv.org/abs/2407.10344v1)|**[link](https://github.com/koide3/glim)**|
+|**2024-02-27**|**Coupled Laplacian Eigenmaps for Locally-Aware 3D Rigid Point Cloud Matching**|Matteo Bastico et.al.|[2402.17372v2](http://arxiv.org/abs/2402.17372v2)|**[link](https://github.com/matteo-bastico/couplap)**|
+|**2023-12-27**|**Learnable Chamfer Distance for Point Cloud Reconstruction**|Tianxin Huang et.al.|[2312.16582v1](http://arxiv.org/abs/2312.16582v1)|**[link](https://github.com/tianxinhuang/lcdnet)**|
+|**2023-12-20**|**D3Former: Jointly Learning Repeatable Dense Detectors and Feature-enhanced Descriptors via Saliency-guided Transformer**|Junjie Gao et.al.|[2312.12970v1](http://arxiv.org/abs/2312.12970v1)|null|
+|**2023-11-08**|**Non-Rigid Shape Registration via Deep Functional Maps Prior**|Puhua Jiang et.al.|[2311.04494v1](http://arxiv.org/abs/2311.04494v1)|null|
+|**2023-09-25**|**SuPerPM: A Large Deformation-Robust Surgical Perception Framework Based on Deep Point Matching Learned from Physical Constrained Simulation Data**|Shan Lin et.al.|[2309.13863v2](http://arxiv.org/abs/2309.13863v2)|null|
+

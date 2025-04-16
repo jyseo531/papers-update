@@ -6,7 +6,7 @@
 |**2025-04-14**|**Target Pebbling in Trees**|Matheus Adauto et.al.|[2504.10460v1](http://arxiv.org/abs/2504.10460v1)|**2025-04-14**|null|
 |**2025-04-14**|**Privacy-Preserving Distributed Link Predictions Among Peers in Online Classrooms Using Federated Learning**|Anurata Prabha Hridi et.al.|[2504.10456v1](http://arxiv.org/abs/2504.10456v1)|**2025-04-14**|null|
 |**2025-04-14**|**Evolution equations on co-evolving graphs: long-time behaviour and the graph continuity equation**|José Antonio Carrillo et.al.|[2504.10446v1](http://arxiv.org/abs/2504.10446v1)|**2025-04-14**|null|
-|**2025-04-14**|**Maximum entropy modeling of Optimal Transport: the sub-optimality regime and the transition from dense to sparse networks**|Lorenzo Buffa et.al.|[2504.10444v1](http://arxiv.org/abs/2504.10444v1)|**2025-04-14**|null|
+|**2025-04-14**|**Maximum entropy modeling of Optimal Transport: the sub-optimality regime and the transition from dense to sparse networks**|Lorenzo Buffa et.al.|[2504.10444v2](http://arxiv.org/abs/2504.10444v2)|**2025-04-15**|null|
 |**2025-04-14**|**Capacities of highly Markovian divisible quantum channels**|Satvik Singh et.al.|[2504.10436v1](http://arxiv.org/abs/2504.10436v1)|**2025-04-14**|null|
 |**2025-04-14**|**Invariance Matters: Empowering Social Recommendation via Graph Invariant Learning**|Yonghui Yang et.al.|[2504.10432v1](http://arxiv.org/abs/2504.10432v1)|**2025-04-14**|null|
 |**2025-04-14**|**Region Based SLAM-Aware Exploration: Efficient and Robust Autonomous Mapping Strategy That Can Scale**|Megha Maheshwari et.al.|[2504.10416v1](http://arxiv.org/abs/2504.10416v1)|**2025-04-14**|null|

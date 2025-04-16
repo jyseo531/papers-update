@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-04-14**|**Art3D: Training-Free 3D Generation from Flat-Colored Illustration**|Xiaoyan Cong et.al.|[2504.10466v1](http://arxiv.org/abs/2504.10466v1)|**2025-04-14**|null|
-|**2025-04-14**|**Maximum entropy modeling of Optimal Transport: the sub-optimality regime and the transition from dense to sparse networks**|Lorenzo Buffa et.al.|[2504.10444v1](http://arxiv.org/abs/2504.10444v1)|**2025-04-14**|null|
+|**2025-04-14**|**Maximum entropy modeling of Optimal Transport: the sub-optimality regime and the transition from dense to sparse networks**|Lorenzo Buffa et.al.|[2504.10444v2](http://arxiv.org/abs/2504.10444v2)|**2025-04-15**|null|
 |**2025-04-14**|**HybridCollab: Unifying In-Person and Remote Collaboration for Cardiovascular Surgical Planning in Mobile Augmented Reality**|Pratham Darrpan Mehta et.al.|[2504.10440v1](http://arxiv.org/abs/2504.10440v1)|**2025-04-14**|null|
 |**2025-04-14**|**Overcoming light scattering with high optical nonlinearity**|Pawel Szczypkowski et.al.|[2504.10423v1](http://arxiv.org/abs/2504.10423v1)|**2025-04-14**|null|
 |**2025-04-14**|**CliniChat: A Multi-Source Knowledge-Driven Framework for Clinical Interview Dialogue Reconstruction and Evaluation**|Jing Chen et.al.|[2504.10418v1](http://arxiv.org/abs/2504.10418v1)|**2025-04-14**|null|
@@ -13,7 +13,7 @@
 |**2025-04-14**|**Benchmarking 3D Human Pose Estimation Models Under Occlusions**|Filipa Lino et.al.|[2504.10350v1](http://arxiv.org/abs/2504.10350v1)|**2025-04-14**|null|
 |**2025-04-14**|**Improving diffusion modeling in all-solid-state lithium batteries: a novel approach for grain boundary effects**|Lena Scholz et.al.|[2504.10348v1](http://arxiv.org/abs/2504.10348v1)|**2025-04-14**|null|
 |**2025-04-14**|**ALMTokenizer: A Low-bitrate and Semantic-rich Audio Codec Tokenizer for Audio Language Modeling**|Dongchao Yang et.al.|[2504.10344v1](http://arxiv.org/abs/2504.10344v1)|**2025-04-14**|null|
-|**2025-04-14**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331v1](http://arxiv.org/abs/2504.10331v1)|**2025-04-14**|null|
+|**2025-04-14**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331v2](http://arxiv.org/abs/2504.10331v2)|**2025-04-15**|null|
 |**2025-04-14**|**Can genomic analysis actually estimate past population size?**|Janeesh K. Bansal et.al.|[2504.10330v1](http://arxiv.org/abs/2504.10330v1)|**2025-04-14**|null|
 |**2025-04-14**|**ESCT3D: Efficient and Selectively Controllable Text-Driven 3D Content Generation with Gaussian Splatting**|Huiqi Wu et.al.|[2504.10316v1](http://arxiv.org/abs/2504.10316v1)|**2025-04-14**|null|
 |**2025-04-14**|**Existence of Nonequilibrium Glasses in the Degenerate Stealthy Hyperuniform Ground-State Manifold**|Salvatore Torquato et.al.|[2504.10310v1](http://arxiv.org/abs/2504.10310v1)|**2025-04-14**|null|

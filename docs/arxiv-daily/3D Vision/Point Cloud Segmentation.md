@@ -3,8 +3,8 @@
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-04-14**|**FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation**|Yasser Benigmim et.al.|[2504.10487v1](http://arxiv.org/abs/2504.10487v1)|**2025-04-14**|null|
-|**2025-04-14**|**Rotatable Antenna-Enabled Secure Wireless Communication**|Liang Dai et.al.|[2504.10473v1](http://arxiv.org/abs/2504.10473v1)|**2025-04-14**|null|
-|**2025-04-14**|**False and genuine decoherence in the early universe: a local observer and time-averaged observables**|Fumiya Sano et.al.|[2504.10472v1](http://arxiv.org/abs/2504.10472v1)|**2025-04-14**|null|
+|**2025-04-14**|**Rotatable Antenna-Enabled Secure Wireless Communication**|Liang Dai et.al.|[2504.10473v2](http://arxiv.org/abs/2504.10473v2)|**2025-04-15**|null|
+|**2025-04-14**|**False and genuine decoherence in the early universe: a local observer and time-averaged observables**|Fumiya Sano et.al.|[2504.10472v2](http://arxiv.org/abs/2504.10472v2)|**2025-04-15**|null|
 |**2025-04-14**|**Quantum Barcodes: Persistent Homology for Quantum Phase Transitions**|Khyathi Komalan et.al.|[2504.10468v1](http://arxiv.org/abs/2504.10468v1)|**2025-04-14**|null|
 |**2025-04-14**|**Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding**|Tao Zhang et.al.|[2504.10465v1](http://arxiv.org/abs/2504.10465v1)|**2025-04-14**|null|
 |**2025-04-14**|**The Scalability of Simplicity: Empirical Analysis of Vision-Language Learning with a Single Transformer**|Weixian Lei et.al.|[2504.10462v1](http://arxiv.org/abs/2504.10462v1)|**2025-04-14**|null|
@@ -19,13 +19,13 @@
 |**2025-04-14**|**Cosmogenic Neutrino Point Source and KM3-230213A**|Qinyuan Zhang et.al.|[2504.10378v1](http://arxiv.org/abs/2504.10378v1)|**2025-04-14**|null|
 |**2025-04-14**|**Reactive power flow optimization in AC drive systems**|Sanjay Chandrasekaran et.al.|[2504.10360v1](http://arxiv.org/abs/2504.10360v1)|**2025-04-14**|null|
 |**2025-04-14**|**DICE: A Framework for Dimensional and Contextual Evaluation of Language Models**|Aryan Shrivastava et.al.|[2504.10359v1](http://arxiv.org/abs/2504.10359v1)|**2025-04-14**|null|
-|**2025-04-14**|**MultiLoKo: a multilingual local knowledge benchmark for LLMs spanning 31 languages**|Dieuwke Hupkes et.al.|[2504.10356v1](http://arxiv.org/abs/2504.10356v1)|**2025-04-14**|null|
+|**2025-04-14**|**MultiLoKo: a multilingual local knowledge benchmark for LLMs spanning 31 languages**|Dieuwke Hupkes et.al.|[2504.10356v2](http://arxiv.org/abs/2504.10356v2)|**2025-04-15**|null|
 |**2025-04-14**|**Patch and Shuffle: A Preprocessing Technique for Texture Classification in Autonomous Cementitious Fabrication**|Jeremiah Giordani et.al.|[2504.10353v1](http://arxiv.org/abs/2504.10353v1)|**2025-04-14**|null|
 |**2025-04-14**|**Comment on "Consequences of the single-pair measurement of the Bell parameter"**|Justo Pastor Lambare et.al.|[2504.10341v1](http://arxiv.org/abs/2504.10341v1)|**2025-04-14**|null|
 |**2025-04-14**|**Classifying Copy Number Variations Using State Space Modeling of Targeted Sequencing Data: A Case Study in Thalassemia**|Austin Talbot et.al.|[2504.10338v1](http://arxiv.org/abs/2504.10338v1)|**2025-04-14**|null|
 |**2025-04-14**|**MorphTok: Morphologically Grounded Tokenization for Indian Languages**|Maharaj Brahma et.al.|[2504.10335v1](http://arxiv.org/abs/2504.10335v1)|**2025-04-14**|null|
 |**2025-04-14**|**MIPS is a Maxwell fluid with an extended and non-monotonic crossover**|José Martín-Roca et.al.|[2504.10332v1](http://arxiv.org/abs/2504.10332v1)|**2025-04-14**|null|
-|**2025-04-14**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331v1](http://arxiv.org/abs/2504.10331v1)|**2025-04-14**|null|
+|**2025-04-14**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331v2](http://arxiv.org/abs/2504.10331v2)|**2025-04-15**|null|
 |**2025-04-14**|**SlowFastVAD: Video Anomaly Detection via Integrating Simple Detector and RAG-Enhanced Vision-Language Model**|Zongcan Ding et.al.|[2504.10320v1](http://arxiv.org/abs/2504.10320v1)|**2025-04-14**|null|
 |**2025-04-14**|**Search for Kink Events in Variable Fermi-LAT Blazars**|P. Peñil et.al.|[2504.10308v1](http://arxiv.org/abs/2504.10308v1)|**2025-04-14**|null|
 |**2025-04-14**|**Nonnegativity of signomials with Newton simplex over convex sets**|Jonas Ellwanger et.al.|[2504.10302v1](http://arxiv.org/abs/2504.10302v1)|**2025-04-14**|null|

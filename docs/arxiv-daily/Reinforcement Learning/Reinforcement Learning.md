@@ -2,9 +2,9 @@
 ### Reinforcement Learning
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-14**|**Weight Ensembling Improves Reasoning in Language Models**|Xingyu Dang et.al.|[2504.10478v1](http://arxiv.org/abs/2504.10478v1)|**2025-04-14**|null|
+|**2025-04-14**|**Weight Ensembling Improves Reasoning in Language Models**|Xingyu Dang et.al.|[2504.10478v2](http://arxiv.org/abs/2504.10478v2)|**2025-04-15**|null|
 |**2025-04-14**|**Co-optimizing Physical Reconfiguration Parameters and Controllers for an Origami-inspired Reconfigurable Manipulator**|Zhe Chen et.al.|[2504.10474v1](http://arxiv.org/abs/2504.10474v1)|**2025-04-14**|null|
-|**2025-04-14**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Xiaobo Xia et.al.|[2504.10458v1](http://arxiv.org/abs/2504.10458v1)|**2025-04-14**|null|
+|**2025-04-14**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Xiaobo Xia et.al.|[2504.10458v2](http://arxiv.org/abs/2504.10458v2)|**2025-04-15**|null|
 |**2025-04-14**|**The Communication and Computation Trade-off in Wireless Semantic Communications**|Xuyang Chen et.al.|[2504.10357v1](http://arxiv.org/abs/2504.10357v1)|**2025-04-14**|null|
 |**2025-04-14**|**Heimdall: test-time scaling on the generative verification**|Wenlei Shi et.al.|[2504.10337v1](http://arxiv.org/abs/2504.10337v1)|**2025-04-14**|null|
 |**2025-04-14**|**InstructEngine: Instruction-driven Text-to-Image Alignment**|Xingyu Lu et.al.|[2504.10329v1](http://arxiv.org/abs/2504.10329v1)|**2025-04-14**|null|

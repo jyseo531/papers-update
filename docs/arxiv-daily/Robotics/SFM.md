@@ -7,11 +7,11 @@
 |**2025-04-14**|**Decoupled Diffusion Sparks Adaptive Scene Generation**|Yunsong Zhou et.al.|[2504.10485v1](http://arxiv.org/abs/2504.10485v1)|**2025-04-14**|null|
 |**2025-04-14**|**Generalized Symmetries of Non-SUSY and Discrete Torsion String Backgrounds**|Noah Braeger et.al.|[2504.10484v1](http://arxiv.org/abs/2504.10484v1)|**2025-04-14**|null|
 |**2025-04-14**|**xVerify: Efficient Answer Verifier for Reasoning Model Evaluations**|Ding Chen et.al.|[2504.10481v1](http://arxiv.org/abs/2504.10481v1)|**2025-04-14**|null|
-|**2025-04-14**|**InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models**|Jinguo Zhu et.al.|[2504.10479v1](http://arxiv.org/abs/2504.10479v1)|**2025-04-14**|null|
+|**2025-04-14**|**InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models**|Jinguo Zhu et.al.|[2504.10479v2](http://arxiv.org/abs/2504.10479v2)|**2025-04-15**|null|
 |**2025-04-14**|**Probing Long-Range Forces in Neutrino Oscillations at the ESSnuSB Experiment**|ESSnuSB et.al.|[2504.10480v1](http://arxiv.org/abs/2504.10480v1)|**2025-04-14**|null|
 |**2025-04-14**|**Co-optimizing Physical Reconfiguration Parameters and Controllers for an Origami-inspired Reconfigurable Manipulator**|Zhe Chen et.al.|[2504.10474v1](http://arxiv.org/abs/2504.10474v1)|**2025-04-14**|null|
-|**2025-04-14**|**Rotatable Antenna-Enabled Secure Wireless Communication**|Liang Dai et.al.|[2504.10473v1](http://arxiv.org/abs/2504.10473v1)|**2025-04-14**|null|
-|**2025-04-14**|**False and genuine decoherence in the early universe: a local observer and time-averaged observables**|Fumiya Sano et.al.|[2504.10472v1](http://arxiv.org/abs/2504.10472v1)|**2025-04-14**|null|
+|**2025-04-14**|**Rotatable Antenna-Enabled Secure Wireless Communication**|Liang Dai et.al.|[2504.10473v2](http://arxiv.org/abs/2504.10473v2)|**2025-04-15**|null|
+|**2025-04-14**|**False and genuine decoherence in the early universe: a local observer and time-averaged observables**|Fumiya Sano et.al.|[2504.10472v2](http://arxiv.org/abs/2504.10472v2)|**2025-04-15**|null|
 |**2025-04-14**|**Bounds as blueprints: towards optimal and accelerated photonic inverse design**|Pengning Chao et.al.|[2504.10469v1](http://arxiv.org/abs/2504.10469v1)|**2025-04-14**|null|
 |**2025-04-14**|**De-excitation of $K$-shell hollow atoms with $12 \le Z \le 20$: transition rates and branching ratios**|Karol Kozioł et.al.|[2504.10467v1](http://arxiv.org/abs/2504.10467v1)|**2025-04-14**|null|
 |**2025-04-14**|**Art3D: Training-Free 3D Generation from Flat-Colored Illustration**|Xiaoyan Cong et.al.|[2504.10466v1](http://arxiv.org/abs/2504.10466v1)|**2025-04-14**|null|
@@ -27,8 +27,8 @@
 |**2025-04-14**|**M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models**|Junxiong Wang et.al.|[2504.10449v1](http://arxiv.org/abs/2504.10449v1)|**2025-04-14**|null|
 |**2025-04-14**|**Quantum geometry from the Moyal product: quantum kinetic equation and non-linear response**|Takamori Park et.al.|[2504.10447v1](http://arxiv.org/abs/2504.10447v1)|**2025-04-14**|null|
 |**2025-04-14**|**RealWebAssist: A Benchmark for Long-Horizon Web Assistance with Real-World Users**|Suyu Ye et.al.|[2504.10445v1](http://arxiv.org/abs/2504.10445v1)|**2025-04-14**|null|
-|**2025-04-14**|**Maximum entropy modeling of Optimal Transport: the sub-optimality regime and the transition from dense to sparse networks**|Lorenzo Buffa et.al.|[2504.10444v1](http://arxiv.org/abs/2504.10444v1)|**2025-04-14**|null|
+|**2025-04-14**|**Maximum entropy modeling of Optimal Transport: the sub-optimality regime and the transition from dense to sparse networks**|Lorenzo Buffa et.al.|[2504.10444v2](http://arxiv.org/abs/2504.10444v2)|**2025-04-15**|null|
 |**2025-04-14**|**Multimodal Long Video Modeling Based on Temporal Dynamic Context**|Haoran Hao et.al.|[2504.10443v1](http://arxiv.org/abs/2504.10443v1)|**2025-04-14**|null|
 |**2025-04-14**|**Streaming Democratized: Ease Across the Latency Spectrum with Delayed View Semantics and Snowflake Dynamic Tables**|Daniel Sotolongo et.al.|[2504.10438v1](http://arxiv.org/abs/2504.10438v1)|**2025-04-14**|null|
 |**2025-04-14**|**Model Order Reduction of Linear Systems via $(γ,δ)$-Similarity**|Shivam Bajaj et.al.|[2504.10437v1](http://arxiv.org/abs/2504.10437v1)|**2025-04-14**|null|
-|**2025-04-14**|**What metric to optimize for suppressing instability in a Vlasov-Poisson system?**|Martin Guerra et.al.|[2504.10435v1](http://arxiv.org/abs/2504.10435v1)|**2025-04-14**|null|
+|**2025-04-14**|**What metric to optimize for suppressing instability in a Vlasov-Poisson system?**|Martin Guerra et.al.|[2504.10435v2](http://arxiv.org/abs/2504.10435v2)|**2025-04-15**|null|

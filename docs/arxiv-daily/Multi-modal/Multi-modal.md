@@ -2,7 +2,7 @@
 ### Multi-modal
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-14**|**InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models**|Jinguo Zhu et.al.|[2504.10479v1](http://arxiv.org/abs/2504.10479v1)|**2025-04-14**|null|
+|**2025-04-14**|**InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models**|Jinguo Zhu et.al.|[2504.10479v2](http://arxiv.org/abs/2504.10479v2)|**2025-04-15**|null|
 |**2025-04-14**|**Art3D: Training-Free 3D Generation from Flat-Colored Illustration**|Xiaoyan Cong et.al.|[2504.10466v1](http://arxiv.org/abs/2504.10466v1)|**2025-04-14**|null|
 |**2025-04-14**|**The Scalability of Simplicity: Empirical Analysis of Vision-Language Learning with a Single Transformer**|Weixian Lei et.al.|[2504.10462v1](http://arxiv.org/abs/2504.10462v1)|**2025-04-14**|null|
 |**2025-04-14**|**Multimodal Long Video Modeling Based on Temporal Dynamic Context**|Haoran Hao et.al.|[2504.10443v1](http://arxiv.org/abs/2504.10443v1)|**2025-04-14**|null|
@@ -17,12 +17,12 @@
 |**2025-04-14**|**Fact-Checking with Contextual Narratives: Leveraging Retrieval-Augmented LLMs for Social Media Analysis**|Arka Ujjal Dey et.al.|[2504.10166v1](http://arxiv.org/abs/2504.10166v1)|**2025-04-14**|null|
 |**2025-04-14**|**Negate or Embrace: On How Misalignment Shapes Multimodal Representation Learning**|Yichao Cai et.al.|[2504.10143v1](http://arxiv.org/abs/2504.10143v1)|**2025-04-14**|null|
 |**2025-04-14**|**The Impact of Model Zoo Size and Composition on Weight Space Learning**|Damian Falk et.al.|[2504.10141v1](http://arxiv.org/abs/2504.10141v1)|**2025-04-14**|null|
-|**2025-04-14**|**Breaking the Data Barrier -- Building GUI Agents Through Task Generalization**|Junlei Zhang et.al.|[2504.10127v1](http://arxiv.org/abs/2504.10127v1)|**2025-04-14**|null|
+|**2025-04-14**|**Breaking the Data Barrier -- Building GUI Agents Through Task Generalization**|Junlei Zhang et.al.|[2504.10127v2](http://arxiv.org/abs/2504.10127v2)|**2025-04-15**|null|
 |**2025-04-14**|**M2S-RoAD: Multi-Modal Semantic Segmentation for Road Damage Using Camera and LiDAR Data**|Tzu-Yun Tseng et.al.|[2504.10123v1](http://arxiv.org/abs/2504.10123v1)|**2025-04-14**|null|
 |**2025-04-14**|**AGO: Adaptive Grounding for Open World 3D Occupancy Prediction**|Peizheng Li et.al.|[2504.10117v1](http://arxiv.org/abs/2504.10117v1)|**2025-04-14**|null|
 |**2025-04-14**|**Global and Local Mamba Network for Multi-Modality Medical Image Super-Resolution**|Zexin Ji et.al.|[2504.10105v1](http://arxiv.org/abs/2504.10105v1)|**2025-04-14**|null|
 |**2025-04-14**|**UP-Person: Unified Parameter-Efficient Transfer Learning for Text-based Person Retrieval**|Yating Liu et.al.|[2504.10084v1](http://arxiv.org/abs/2504.10084v1)|**2025-04-14**|null|
-|**2025-04-14**|**MMKB-RAG: A Multi-Modal Knowledge-Based Retrieval-Augmented Generation Framework**|Zihan Ling et.al.|[2504.10074v1](http://arxiv.org/abs/2504.10074v1)|**2025-04-14**|null|
+|**2025-04-14**|**MMKB-RAG: A Multi-Modal Knowledge-Based Retrieval-Augmented Generation Framework**|Zihan Ling et.al.|[2504.10074v2](http://arxiv.org/abs/2504.10074v2)|**2025-04-15**|null|
 |**2025-04-14**|**DTFSal: Audio-Visual Dynamic Token Fusion for Video Saliency Prediction**|Kiana Hoshanfar et.al.|[2504.10070v1](http://arxiv.org/abs/2504.10070v1)|**2025-04-14**|null|
 |**2025-04-14**|**Summarization of Multimodal Presentations with Vision-Language Models: Study of the Effect of Modalities and Structure**|Théo Gigant et.al.|[2504.10049v1](http://arxiv.org/abs/2504.10049v1)|**2025-04-14**|null|
 |**2025-04-14**|**DataMosaic: Explainable and Verifiable Multi-Modal Data Analytics through Extract-Reason-Verify**|Zhengxuan Zhang et.al.|[2504.10036v1](http://arxiv.org/abs/2504.10036v1)|**2025-04-14**|null|

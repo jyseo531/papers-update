@@ -11,21 +11,21 @@
 |**2025-04-14**|**Minimizing Functions of Age of Incorrect Information for Remote Estimation**|Ismail Cosandal et.al.|[2504.10451v1](http://arxiv.org/abs/2504.10451v1)|**2025-04-14**|null|
 |**2025-04-14**|**RealWebAssist: A Benchmark for Long-Horizon Web Assistance with Real-World Users**|Suyu Ye et.al.|[2504.10445v1](http://arxiv.org/abs/2504.10445v1)|**2025-04-14**|null|
 |**2025-04-14**|**HybridCollab: Unifying In-Person and Remote Collaboration for Cardiovascular Surgical Planning in Mobile Augmented Reality**|Pratham Darrpan Mehta et.al.|[2504.10440v1](http://arxiv.org/abs/2504.10440v1)|**2025-04-14**|null|
-|**2025-04-14**|**What metric to optimize for suppressing instability in a Vlasov-Poisson system?**|Martin Guerra et.al.|[2504.10435v1](http://arxiv.org/abs/2504.10435v1)|**2025-04-14**|null|
+|**2025-04-14**|**What metric to optimize for suppressing instability in a Vlasov-Poisson system?**|Martin Guerra et.al.|[2504.10435v2](http://arxiv.org/abs/2504.10435v2)|**2025-04-15**|null|
 |**2025-04-14**|**Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing**|Taihang Hu et.al.|[2504.10434v1](http://arxiv.org/abs/2504.10434v1)|**2025-04-14**|null|
 |**2025-04-14**|**MonoDiff9D: Monocular Category-Level 9D Object Pose Estimation via Diffusion Model**|Jian Liu et.al.|[2504.10433v1](http://arxiv.org/abs/2504.10433v1)|**2025-04-14**|null|
 |**2025-04-14**|**Can We Edit LLMs for Long-Tail Biomedical Knowledge?**|Xinhao Yi et.al.|[2504.10421v1](http://arxiv.org/abs/2504.10421v1)|**2025-04-14**|null|
 |**2025-04-14**|**HUMOTO: A 4D Dataset of Mocap Human Object Interactions**|Jiaxin Lu et.al.|[2504.10414v1](http://arxiv.org/abs/2504.10414v1)|**2025-04-14**|null|
 |**2025-04-14**|**Framing Perception: Exploring Camera Induced Objectification in Cinema**|Parth Maradia et.al.|[2504.10404v1](http://arxiv.org/abs/2504.10404v1)|**2025-04-14**|null|
 |**2025-04-14**|**Can LLMs Assist Expert Elicitation for Probabilistic Causal Modeling?**|Olha Shaposhnyk et.al.|[2504.10397v1](http://arxiv.org/abs/2504.10397v1)|**2025-04-14**|null|
-|**2025-04-14**|**Diversity-Fair Online Selection**|Ming Hu et.al.|[2504.10389v1](http://arxiv.org/abs/2504.10389v1)|**2025-04-14**|null|
+|**2025-04-14**|**Diversity-Fair Online Selection**|Ming Hu et.al.|[2504.10389v2](http://arxiv.org/abs/2504.10389v2)|**2025-04-15**|null|
 |**2025-04-14**|**Cosmological zoom-in simulation of fuzzy dark matter down to z = 0: tidal evolution of subhaloes in a Milky Way-sized halo**|Hei Yin Jowett Chan et.al.|[2504.10387v1](http://arxiv.org/abs/2504.10387v1)|**2025-04-14**|null|
 |**2025-04-14**|**Reactive power flow optimization in AC drive systems**|Sanjay Chandrasekaran et.al.|[2504.10360v1](http://arxiv.org/abs/2504.10360v1)|**2025-04-14**|null|
 |**2025-04-14**|**Benchmarking 3D Human Pose Estimation Models Under Occlusions**|Filipa Lino et.al.|[2504.10350v1](http://arxiv.org/abs/2504.10350v1)|**2025-04-14**|null|
 |**2025-04-14**|**Improving diffusion modeling in all-solid-state lithium batteries: a novel approach for grain boundary effects**|Lena Scholz et.al.|[2504.10348v1](http://arxiv.org/abs/2504.10348v1)|**2025-04-14**|null|
 |**2025-04-14**|**Gyroscopically stabilized quantum spin rotors**|Vanessa Wachter et.al.|[2504.10339v1](http://arxiv.org/abs/2504.10339v1)|**2025-04-14**|null|
 |**2025-04-14**|**Flying Hand: End-Effector-Centric Framework for Versatile Aerial Manipulation Teleoperation and Policy Learning**|Guanqi He et.al.|[2504.10334v1](http://arxiv.org/abs/2504.10334v1)|**2025-04-14**|null|
-|**2025-04-14**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331v1](http://arxiv.org/abs/2504.10331v1)|**2025-04-14**|null|
+|**2025-04-14**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331v2](http://arxiv.org/abs/2504.10331v2)|**2025-04-15**|null|
 |**2025-04-14**|**AlayaDB: The Data Foundation for Efficient and Effective Long-context LLM Inference**|Yangshen Deng et.al.|[2504.10326v1](http://arxiv.org/abs/2504.10326v1)|**2025-04-14**|null|
 |**2025-04-14**|**Rayleigh-Bénard-Marangoni convection in binary fluids - Effect of miscibility on oscillatory mode**|Anubhav Dubey et.al.|[2504.10324v1](http://arxiv.org/abs/2504.10324v1)|**2025-04-14**|null|
 |**2025-04-14**|**ESCT3D: Efficient and Selectively Controllable Text-Driven 3D Content Generation with Gaussian Splatting**|Huiqi Wu et.al.|[2504.10316v1](http://arxiv.org/abs/2504.10316v1)|**2025-04-14**|null|

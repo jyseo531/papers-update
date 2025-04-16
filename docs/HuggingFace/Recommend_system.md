@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-04-15
+Updated on 2025-04-16
 
 > Generated from the Hugging Face database.
 
@@ -148,6 +148,7 @@ Updated on 2025-04-15
 | 16 | 1 | FriendliAI/ultravox-v0_3Audio-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/FriendliAI/ultravox-v0_3) |
 | 12 | 1 | Menlo/mini-Ichigo-llama3 | UpdatedNov 19, 2024 | [Link](https://huggingface.co/Menlo/mini-Ichigo-llama3.2-3B-s-base) |
 | 108 | 1 | FriendliAI/ultravox-v0_5-llama-3_1-8bAudio-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/FriendliAI/ultravox-v0_5-llama-3_1-8b) |
+| 49 | 1 | onnx-community/ultravox-v0_5-llama-3_2-1b-ONNXAudio-Text-to-Text | Updated15 days ago | [Link](https://huggingface.co/onnx-community/ultravox-v0_5-llama-3_2-1b-ONNX) |
 | 115k |  | Qwen/Qwen2-Audio-7B-InstructAudio-Text-to-Text | UpdatedJan 12 | [Link](https://huggingface.co/Qwen/Qwen2-Audio-7B-Instruct) |
 | 2 | Unknown | Flex-Data/bm-v1Audio-Text-to-Text | UpdatedDec 4, 2024 | [Link](https://huggingface.co/Flex-Data/bm-v1) |
 | 1 | Unknown | beita6969/DeepSeek-R1-Distill-Qwen-32B-MedicalAudio-Text-to-Text | Updatedabout 17 hours ago | [Link](https://huggingface.co/beita6969/DeepSeek-R1-Distill-Qwen-32B-Medical) |
@@ -550,6 +551,7 @@ Updated on 2025-04-15
 | 2.99M |  | facebook/bart-baseFeature | UpdatedNov 16, 2022 | [Link](https://huggingface.co/facebook/bart-base) |
 | 85.3k |  | jinaai/jina-embeddings-v2-base-deFeature | UpdatedJan 6 | [Link](https://huggingface.co/jinaai/jina-embeddings-v2-base-de) |
 | 8.58k |  | nlpai-lab/KoE5Feature | UpdatedDec 23, 2024 | [Link](https://huggingface.co/nlpai-lab/KoE5) |
+| 2 | Unknown | Eviation/DistillT5Feature | Updated4 days ago | [Link](https://huggingface.co/Eviation/DistillT5) |
 
 ## Fill-Mask
 
@@ -775,6 +777,7 @@ Updated on 2025-04-15
 | 2 | 2 | prithivMLmods/Mirage-Photo-ClassifierImage | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/Mirage-Photo-Classifier) |
 | 1 | 2 | prithivMLmods/Food-101-93MImage | Updated2 days ago | [Link](https://huggingface.co/prithivMLmods/Food-101-93M) |
 | 20 | 2 | sabari15/ViT-base16-fine-tuned-crop-disease-modelImage | Updated33 minutes ago | [Link](https://huggingface.co/sabari15/ViT-base16-fine-tuned-crop-disease-model) |
+| 4 | 2 | prithivMLmods/Fashion-Product-UsageImage | Updated4 days ago | [Link](https://huggingface.co/prithivMLmods/Fashion-Product-Usage) |
 | 1.55k | 1 | microsoft/swin-small-patch4-window7-224Image | UpdatedMay 16, 2022 | [Link](https://huggingface.co/microsoft/swin-small-patch4-window7-224) |
 | 60.6M |  | Falconsai/nsfw_image_detectionImage | UpdatedDec 6, 2023 | [Link](https://huggingface.co/Falconsai/nsfw_image_detection) |
 | 45.8M |  | microsoft/resnet-50Image | UpdatedFeb 13, 2024 | [Link](https://huggingface.co/microsoft/resnet-50) |
@@ -2178,6 +2181,7 @@ Updated on 2025-04-15
 | 1.46k | 25 | trashpanda-org/QwQ-32B-Snowdrop-v0Text | Updated1 day ago | [Link](https://huggingface.co/trashpanda-org/QwQ-32B-Snowdrop-v0) |
 | 457 | 25 | secemp9/TraceBack-12bText | Updated1 day ago | [Link](https://huggingface.co/secemp9/TraceBack-12b) |
 | 335 | 25 | mlx-community/DeepSeek-V3-0324-4bitText | Updated2 days ago | [Link](https://huggingface.co/mlx-community/DeepSeek-V3-0324-4bit) |
+| 217 | 25 | THUDM/GLM-Z1-9B-0414Text | Updated1 day ago | [Link](https://huggingface.co/THUDM/GLM-Z1-9B-0414) |
 | 8.8k | 24 | unsloth/QwQ-32B-GGUFText | Updatedabout 1 hour ago | [Link](https://huggingface.co/unsloth/QwQ-32B-GGUF) |
 | 90.1k | 24 | allenai/OLMo-2-0325-32BText | Updated3 days ago | [Link](https://huggingface.co/allenai/OLMo-2-0325-32B) |
 | 722 | 24 | qihoo360/Light-R1-14B-DSText | Updatedabout 9 hours ago | [Link](https://huggingface.co/qihoo360/Light-R1-14B-DS) |
@@ -2240,6 +2244,7 @@ Updated on 2025-04-15
 | 41 | Unknown | THUDM/GLM-Z1-32B-0414Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/THUDM/GLM-Z1-32B-0414) |
 | 35 | Unknown | THUDM/GLM-4-32B-0414Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/THUDM/GLM-4-32B-0414) |
 | 31 | Unknown | THUDM/GLM-Z1-Rumination-32B-0414Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/THUDM/GLM-Z1-Rumination-32B-0414) |
+| 54 | Unknown | microsoft/bitnet-b1 | Updatedabout 11 hours ago | [Link](https://huggingface.co/microsoft/bitnet-b1.58-2B-4T) |
 
 ## Text Ranking
 
@@ -2539,6 +2544,7 @@ Updated on 2025-04-15
 | 2.61k | 14 | SPRINGLab/F5-Hindi-24KHzText-to-Speech | UpdatedJan 1 | [Link](https://huggingface.co/SPRINGLab/F5-Hindi-24KHz) |
 | 6 | 13 | OuteAI/Llama-OuteTTS-1 | Updatedabout 2 hours ago | [Link](https://huggingface.co/OuteAI/Llama-OuteTTS-1.0-1B) |
 | 73 | 12 | geneing/KokoroText-to-Speech | UpdatedJan 10 | [Link](https://huggingface.co/geneing/Kokoro) |
+| 125 | 12 | Kamtera/persian-tts-female-vitsText-to-Speech | UpdatedMar 19, 2023 | [Link](https://huggingface.co/Kamtera/persian-tts-female-vits) |
 | 109 | 11 | NeuroDonu/RU-XTTS-DonuModelText-to-Speech | UpdatedMay 1, 2024 | [Link](https://huggingface.co/NeuroDonu/RU-XTTS-DonuModel) |
 | 27 | 10 | hexgrad/Kokoro-82M-v1 | Updatedabout 7 hours ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M-v1.1-zh) |
 | 879 | 10 | FunAudioLLM/CosyVoice-300M-SFTText-to-Speech | UpdatedDec 27, 2024 | [Link](https://huggingface.co/FunAudioLLM/CosyVoice-300M-SFT) |
@@ -2839,6 +2845,7 @@ Updated on 2025-04-15
 | 5.53k | 19 | Leo97/KoELECTRA-small-v3-modu-nerToken | UpdatedApr 7, 2023 | [Link](https://huggingface.co/Leo97/KoELECTRA-small-v3-modu-ner) |
 | 12.7k | 18 | Isotonic/deberta-v3-base_finetuned_ai4privacy_v2Token | UpdatedSep 13, 2024 | [Link](https://huggingface.co/Isotonic/deberta-v3-base_finetuned_ai4privacy_v2) |
 | 12.5k | 16 | gliner-community/gliner_large-v2 | UpdatedJun 18, 2024 | [Link](https://huggingface.co/gliner-community/gliner_large-v2.5) |
+| 99.9k | 16 | ckiplab/bert-base-chinese-wsToken | UpdatedMay 10, 2022 | [Link](https://huggingface.co/ckiplab/bert-base-chinese-ws) |
 | 424 | 15 | turkish-nlp-suite/tr_core_news_trfToken | UpdatedJan 6 | [Link](https://huggingface.co/turkish-nlp-suite/tr_core_news_trf) |
 | 116k | 13 | cahya/bert-base-indonesian-NERToken | UpdatedNov 3, 2023 | [Link](https://huggingface.co/cahya/bert-base-indonesian-NER) |
 | 15.3k | 12 | FacebookAI/xlm-roberta-large-finetuned-conll03-germanToken | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/FacebookAI/xlm-roberta-large-finetuned-conll03-german) |
@@ -2870,6 +2877,7 @@ Updated on 2025-04-15
 | 168 | 1 | dccuchile/distilbert-base-spanish-uncased-finetuned-nerToken | UpdatedJan 6, 2022 | [Link](https://huggingface.co/dccuchile/distilbert-base-spanish-uncased-finetuned-ner) |
 | 102 | 1 | KBLab/bert-base-swedish-cased-reallysimple-nerToken | UpdatedNov 15, 2022 | [Link](https://huggingface.co/KBLab/bert-base-swedish-cased-reallysimple-ner) |
 | 22 | 1 | KoichiYasuoka/roberta-base-japanese-char-luw-uposToken | UpdatedAug 20, 2024 | [Link](https://huggingface.co/KoichiYasuoka/roberta-base-japanese-char-luw-upos) |
+| 9 | 1 | dccuchile/bert-base-spanish-wwm-uncased-finetuned-nerToken | UpdatedDec 28, 2021 | [Link](https://huggingface.co/dccuchile/bert-base-spanish-wwm-uncased-finetuned-ner) |
 | 2.41M |  | dslim/bert-base-NERToken | UpdatedOct 8, 2024 | [Link](https://huggingface.co/dslim/bert-base-NER) |
 | 1.41M |  | dbmdz/bert-large-cased-finetuned-conll03-englishToken | UpdatedSep 6, 2023 | [Link](https://huggingface.co/dbmdz/bert-large-cased-finetuned-conll03-english) |
 | 714k |  | FacebookAI/xlm-roberta-large-finetuned-conll03-englishToken | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/FacebookAI/xlm-roberta-large-finetuned-conll03-english) |
