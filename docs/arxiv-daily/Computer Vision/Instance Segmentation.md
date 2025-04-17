@@ -19,16 +19,16 @@
 |**2025-04-15**|**Nondeterministic Polynomial-time Problem Challenge: An Ever-Scaling Reasoning Benchmark for LLMs**|Chang Yang et.al.|[2504.11239v1](http://arxiv.org/abs/2504.11239v1)|**2025-04-15**|null|
 |**2025-04-15**|**CAP-Net: A Unified Network for 6D Pose and Size Estimation of Categorical Articulated Parts from a Single RGB-D Image**|Jingshun Huang et.al.|[2504.11230v1](http://arxiv.org/abs/2504.11230v1)|**2025-04-15**|null|
 |**2025-04-15**|**A new approach to stochastic McKean-Vlasov limits with low-regularity coefficients**|Robert Alexander Crowell et.al.|[2504.11228v1](http://arxiv.org/abs/2504.11228v1)|**2025-04-15**|null|
-|**2025-04-15**|**3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**|Zeming wei et.al.|[2504.11218v1](http://arxiv.org/abs/2504.11218v1)|**2025-04-15**|null|
+|**2025-04-15**|**3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**|Zeming Wei et.al.|[2504.11218v2](http://arxiv.org/abs/2504.11218v2)|**2025-04-16**|null|
 |**2025-04-15**|**Semi-asymptotic bounds for moderate deviations of suprema of Gaussian polynomials**|Michel Weber et.al.|[2504.11198v1](http://arxiv.org/abs/2504.11198v1)|**2025-04-15**|null|
 |**2025-04-15**|**MuSeD: A Multimodal Spanish Dataset for Sexism Detection in Social Media Videos**|Laura De Grazia et.al.|[2504.11169v1](http://arxiv.org/abs/2504.11169v1)|**2025-04-15**|null|
-|**2025-04-15**|**Bypassing Prompt Injection and Jailbreak Detection in LLM Guardrails**|William Hackett et.al.|[2504.11168v1](http://arxiv.org/abs/2504.11168v1)|**2025-04-15**|null|
+|**2025-04-15**|**Bypassing Prompt Injection and Jailbreak Detection in LLM Guardrails**|William Hackett et.al.|[2504.11168v2](http://arxiv.org/abs/2504.11168v2)|**2025-04-16**|null|
 |**2025-04-15**|**TSAL: Few-shot Text Segmentation Based on Attribute Learning**|Chenming Li et.al.|[2504.11164v1](http://arxiv.org/abs/2504.11164v1)|**2025-04-15**|null|
 |**2025-04-15**|**Taming Consistency Distillation for Accelerated Human Image Animation**|Xiang Wang et.al.|[2504.11143v1](http://arxiv.org/abs/2504.11143v1)|**2025-04-15**|null|
 |**2025-04-15**|**K-means Enhanced Density Gradient Analysis for Urban and Transport Metrics Using Multi-Modal Satellite Imagery**|P. Tomkiewicz et.al.|[2504.11128v1](http://arxiv.org/abs/2504.11128v1)|**2025-04-15**|null|
 |**2025-04-15**|**S$^2$Teacher: Step-by-step Teacher for Sparsely Annotated Oriented Object Detection**|Yu Lin et.al.|[2504.11111v1](http://arxiv.org/abs/2504.11111v1)|**2025-04-15**|null|
 |**2025-04-15**|**Fine-Tuning Large Language Models on Quantum Optimization Problems for Circuit Generation**|Linus Jern et.al.|[2504.11109v1](http://arxiv.org/abs/2504.11109v1)|**2025-04-15**|null|
-|**2025-04-15**|**Consensus Entropy: Harnessing Multi-VLM Agreement for Self-Verifying and Self-Improving OCR**|Yulong Zhang et.al.|[2504.11101v1](http://arxiv.org/abs/2504.11101v1)|**2025-04-15**|null|
+|**2025-04-15**|**Consensus Entropy: Harnessing Multi-VLM Agreement for Self-Verifying and Self-Improving OCR**|Yulong Zhang et.al.|[2504.11101v2](http://arxiv.org/abs/2504.11101v2)|**2025-04-16**|null|
 |**2025-04-15**|**FreeDOM: Online Dynamic Object Removal Framework for Static Map Construction Based on Conservative Free Space Estimation**|Chen Li et.al.|[2504.11073v1](http://arxiv.org/abs/2504.11073v1)|**2025-04-15**|null|
 |**2025-04-15**|**Quantifying Group Fairness in Community Detection**|Elze de Vink et.al.|[2504.11059v1](http://arxiv.org/abs/2504.11059v1)|**2025-04-15**|null|
 |**2025-04-15**|**LazyReview A Dataset for Uncovering Lazy Thinking in NLP Peer Reviews**|Sukannya Purkayastha et.al.|[2504.11042v1](http://arxiv.org/abs/2504.11042v1)|**2025-04-15**|null|

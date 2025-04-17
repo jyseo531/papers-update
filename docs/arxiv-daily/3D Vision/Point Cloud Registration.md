@@ -29,6 +29,6 @@
 |**2025-04-15**|**CAP-Net: A Unified Network for 6D Pose and Size Estimation of Categorical Articulated Parts from a Single RGB-D Image**|Jingshun Huang et.al.|[2504.11230v1](http://arxiv.org/abs/2504.11230v1)|**2025-04-15**|null|
 |**2025-04-15**|**A new approach to stochastic McKean-Vlasov limits with low-regularity coefficients**|Robert Alexander Crowell et.al.|[2504.11228v1](http://arxiv.org/abs/2504.11228v1)|**2025-04-15**|null|
 |**2025-04-15**|**VEXP: A Low-Cost RISC-V ISA Extension for Accelerated Softmax Computation in Transformers**|Run Wang et.al.|[2504.11227v1](http://arxiv.org/abs/2504.11227v1)|**2025-04-15**|null|
-|**2025-04-15**|**3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**|Zeming wei et.al.|[2504.11218v1](http://arxiv.org/abs/2504.11218v1)|**2025-04-15**|null|
+|**2025-04-15**|**3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**|Zeming Wei et.al.|[2504.11218v2](http://arxiv.org/abs/2504.11218v2)|**2025-04-16**|null|
 |**2025-04-15**|**SDFs from Unoriented Point Clouds using Neural Variational Heat Distances**|Samuel Weidemaier et.al.|[2504.11212v1](http://arxiv.org/abs/2504.11212v1)|**2025-04-15**|null|
 |**2025-04-15**|**Investigation of optimal transfers to retrograde co-orbital orbits in the Earth-Moon system**|G. A. Carita et.al.|[2504.11206v1](http://arxiv.org/abs/2504.11206v1)|**2025-04-15**|null|

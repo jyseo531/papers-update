@@ -27,7 +27,7 @@
 |**2025-04-15**|**CAP-Net: A Unified Network for 6D Pose and Size Estimation of Categorical Articulated Parts from a Single RGB-D Image**|Jingshun Huang et.al.|[2504.11230v1](http://arxiv.org/abs/2504.11230v1)|**2025-04-15**|null|
 |**2025-04-15**|**The Forward-Forward Algorithm: Characterizing Training Behavior**|Reece Adamson et.al.|[2504.11229v1](http://arxiv.org/abs/2504.11229v1)|**2025-04-15**|null|
 |**2025-04-15**|**Directed First-Order Logic**|Andrea Laretto et.al.|[2504.11225v1](http://arxiv.org/abs/2504.11225v1)|**2025-04-15**|null|
-|**2025-04-15**|**3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**|Zeming wei et.al.|[2504.11218v1](http://arxiv.org/abs/2504.11218v1)|**2025-04-15**|null|
+|**2025-04-15**|**3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**|Zeming Wei et.al.|[2504.11218v2](http://arxiv.org/abs/2504.11218v2)|**2025-04-16**|null|
 |**2025-04-15**|**On deformations of AdS$_3$ solutions, supersymmetry and $G$-structures**|Anayeli Ramirez et.al.|[2504.11207v1](http://arxiv.org/abs/2504.11207v1)|**2025-04-15**|null|
 |**2025-04-15**|**Braiding vineyards**|Erin Chambers et.al.|[2504.11203v1](http://arxiv.org/abs/2504.11203v1)|**2025-04-15**|null|
 |**2025-04-15**|**Focal Split: Untethered Snapshot Depth from Differential Defocus**|Junjie Luo et.al.|[2504.11202v1](http://arxiv.org/abs/2504.11202v1)|**2025-04-15**|null|

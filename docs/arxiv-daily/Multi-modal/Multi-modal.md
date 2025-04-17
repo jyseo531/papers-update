@@ -4,13 +4,13 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-04-15**|**Aligning Generative Denoising with Discriminative Objectives Unleashes Diffusion for Visual Perception**|Ziqi Pang et.al.|[2504.11457v1](http://arxiv.org/abs/2504.11457v1)|**2025-04-15**|null|
 |**2025-04-15**|**PARTFIELD: Learning 3D Feature Fields for Part Segmentation and Beyond**|Minghua Liu et.al.|[2504.11451v1](http://arxiv.org/abs/2504.11451v1)|**2025-04-15**|null|
-|**2025-04-15**|**DeepWheel: Generating a 3D Synthetic Wheel Dataset for Design and Performance Evaluation**|Soyoung Yoo et.al.|[2504.11347v1](http://arxiv.org/abs/2504.11347v1)|**2025-04-15**|null|
-|**2025-04-15**|**Seedream 3.0 Technical Report**|Yu Gao et.al.|[2504.11346v1](http://arxiv.org/abs/2504.11346v1)|**2025-04-15**|null|
+|**2025-04-15**|**DeepWheel: Generating a 3D Synthetic Wheel Dataset for Design and Performance Evaluation**|Soyoung Yoo et.al.|[2504.11347v2](http://arxiv.org/abs/2504.11347v2)|**2025-04-16**|null|
+|**2025-04-15**|**Seedream 3.0 Technical Report**|Yu Gao et.al.|[2504.11346v2](http://arxiv.org/abs/2504.11346v2)|**2025-04-16**|null|
 |**2025-04-15**|**From Symmetry to Supersymmetry to Supergravity**|Elena Castellani et.al.|[2504.11311v1](http://arxiv.org/abs/2504.11311v1)|**2025-04-15**|null|
-|**2025-04-15**|**Automated Python Translation**|Joshua Otten et.al.|[2504.11290v1](http://arxiv.org/abs/2504.11290v1)|**2025-04-15**|null|
+|**2025-04-15**|**Automated Python Translation**|Joshua Otten et.al.|[2504.11290v2](http://arxiv.org/abs/2504.11290v2)|**2025-04-16**|null|
 |**2025-04-15**|**Enhanced Small Target Detection via Multi-Modal Fusion and Attention Mechanisms: A YOLOv5 Approach**|Xiaoxiao Ma et.al.|[2504.11262v1](http://arxiv.org/abs/2504.11262v1)|**2025-04-15**|null|
 |**2025-04-15**|**Leveraging multimodal explanatory annotations for video interpretation with Modality Specific Dataset**|Elisa Ancarani et.al.|[2504.11232v1](http://arxiv.org/abs/2504.11232v1)|**2025-04-15**|null|
-|**2025-04-15**|**3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**|Zeming wei et.al.|[2504.11218v1](http://arxiv.org/abs/2504.11218v1)|**2025-04-15**|null|
+|**2025-04-15**|**3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**|Zeming Wei et.al.|[2504.11218v2](http://arxiv.org/abs/2504.11218v2)|**2025-04-16**|null|
 |**2025-04-15**|**Video Summarization with Large Language Models**|Min Jung Lee et.al.|[2504.11199v1](http://arxiv.org/abs/2504.11199v1)|**2025-04-15**|null|
 |**2025-04-15**|**Clinically Interpretable Survival Risk Stratification in Head and Neck Cancer Using Bayesian Networks and Markov Blankets**|Keyur D. Shah et.al.|[2504.11188v1](http://arxiv.org/abs/2504.11188v1)|**2025-04-15**|null|
 |**2025-04-15**|**TerraMesh: A Planetary Mosaic of Multimodal Earth Observation Data**|Benedikt Blumenstiel et.al.|[2504.11172v1](http://arxiv.org/abs/2504.11172v1)|**2025-04-15**|null|
@@ -22,10 +22,10 @@
 |**2025-04-15**|**TMCIR: Token Merge Benefits Composed Image Retrieval**|Chaoyang Wang et.al.|[2504.10995v1](http://arxiv.org/abs/2504.10995v1)|**2025-04-15**|null|
 |**2025-04-15**|**DMPT: Decoupled Modality-aware Prompt Tuning for Multi-modal Object Re-identification**|Minghui Lin et.al.|[2504.10985v1](http://arxiv.org/abs/2504.10985v1)|**2025-04-15**|null|
 |**2025-04-15**|**AgentPolyp: Accurate Polyp Segmentation via Image Enhancement Agent**|Pu Wang et.al.|[2504.10978v1](http://arxiv.org/abs/2504.10978v1)|**2025-04-15**|null|
-|**2025-04-15**|**Self-Supervised Enhancement of Forward-Looking Sonar Images: Bridging Cross-Modal Degradation Gaps through Feature Space Transformation and Multi-Frame Fusion**|Zhisheng Zhang et.al.|[2504.10974v1](http://arxiv.org/abs/2504.10974v1)|**2025-04-15**|null|
+|**2025-04-15**|**Self-Supervised Enhancement of Forward-Looking Sonar Images: Bridging Cross-Modal Degradation Gaps through Feature Space Transformation and Multi-Frame Fusion**|Zhisheng Zhang et.al.|[2504.10974v2](http://arxiv.org/abs/2504.10974v2)|**2025-04-16**|null|
 |**2025-04-15**|**RF Sensing Security and Malicious Exploitation: A Comprehensive Survey**|Mingda Han et.al.|[2504.10969v1](http://arxiv.org/abs/2504.10969v1)|**2025-04-15**|null|
 |**2025-04-15**|**MSCRS: Multi-modal Semantic Graph Prompt Learning Framework for Conversational Recommender Systems**|Yibiao Wei et.al.|[2504.10921v1](http://arxiv.org/abs/2504.10921v1)|**2025-04-15**|null|
-|**2025-04-15**|**Fine-Grained Rib Fracture Diagnosis with Hyperbolic Embeddings: A Detailed Annotation Framework and Multi-Label Classification Model**|Shripad Pate et.al.|[2504.10889v1](http://arxiv.org/abs/2504.10889v1)|**2025-04-15**|null|
+|**2025-04-15**|**Fine-Grained Rib Fracture Diagnosis with Hyperbolic Embeddings: A Detailed Annotation Framework and Multi-Label Classification Model**|Shripad Pate et.al.|[2504.10889v2](http://arxiv.org/abs/2504.10889v2)|**2025-04-16**|null|
 |**2025-04-15**|**CDUPatch: Color-Driven Universal Adversarial Patch Attack for Dual-Modal Visible-Infrared Detectors**|Jiahuan Long et.al.|[2504.10888v1](http://arxiv.org/abs/2504.10888v1)|**2025-04-15**|null|
 |**2025-04-15**|**OmniVDiff: Omni Controllable Video Diffusion for Generation and Understanding**|Dianbing Xi et.al.|[2504.10825v1](http://arxiv.org/abs/2504.10825v1)|**2025-04-15**|null|
 |**2025-04-15**|**FHBench: Towards Efficient and Personalized Federated Learning for Multimodal Healthcare**|Penghao Wang et.al.|[2504.10817v1](http://arxiv.org/abs/2504.10817v1)|**2025-04-15**|null|

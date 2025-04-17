@@ -16,7 +16,7 @@
 |**2025-04-15**|**From Gaze to Insight: Bridging Human Visual Attention and Vision Language Model Explanation for Weakly-Supervised Medical Image Segmentation**|Jingkun Chen et.al.|[2504.11368v1](http://arxiv.org/abs/2504.11368v1)|**2025-04-15**|null|
 |**2025-04-15**|**A Decade of Wheat Mapping for Lebanon**|Hasan Wehbi et.al.|[2504.11366v1](http://arxiv.org/abs/2504.11366v1)|**2025-04-15**|null|
 |**2025-04-15**|**DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks**|Yupei Liu et.al.|[2504.11358v1](http://arxiv.org/abs/2504.11358v1)|**2025-04-15**|null|
-|**2025-04-15**|**Seedream 3.0 Technical Report**|Yu Gao et.al.|[2504.11346v1](http://arxiv.org/abs/2504.11346v1)|**2025-04-15**|null|
+|**2025-04-15**|**Seedream 3.0 Technical Report**|Yu Gao et.al.|[2504.11346v2](http://arxiv.org/abs/2504.11346v2)|**2025-04-16**|null|
 |**2025-04-15**|**REWARD CONSISTENCY: Improving Multi-Objective Alignment from a Data-Centric Perspective**|Zhihao Xu et.al.|[2504.11337v1](http://arxiv.org/abs/2504.11337v1)|**2025-04-15**|null|
 |**2025-04-15**|**Code Reborn AI-Driven Legacy Systems Modernization from COBOL to Java**|Gopichand Bandarupalli et.al.|[2504.11335v1](http://arxiv.org/abs/2504.11335v1)|**2025-04-15**|null|
 |**2025-04-15**|**PVUW 2025 Challenge Report: Advances in Pixel-level Understanding of Complex Videos in the Wild**|Henghui Ding et.al.|[2504.11326v1](http://arxiv.org/abs/2504.11326v1)|**2025-04-15**|null|

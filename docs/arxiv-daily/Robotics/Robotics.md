@@ -9,15 +9,15 @@
 |**2025-04-15**|**Next-Future: Sample-Efficient Policy Learning for Robotic-Arm Tasks**|Fikrican Özgür et.al.|[2504.11247v1](http://arxiv.org/abs/2504.11247v1)|**2025-04-15**|null|
 |**2025-04-15**|**CAP-Net: A Unified Network for 6D Pose and Size Estimation of Categorical Articulated Parts from a Single RGB-D Image**|Jingshun Huang et.al.|[2504.11230v1](http://arxiv.org/abs/2504.11230v1)|**2025-04-15**|null|
 |**2025-04-15**|**Mutual Understanding between People and Systems via Neurosymbolic AI and Knowledge Graphs**|Irene Celino et.al.|[2504.11200v1](http://arxiv.org/abs/2504.11200v1)|**2025-04-15**|null|
-|**2025-04-15**|**A Real-time Anomaly Detection Method for Robots based on a Flexible and Sparse Latent Space**|Taewook Kang et.al.|[2504.11170v1](http://arxiv.org/abs/2504.11170v1)|**2025-04-15**|null|
+|**2025-04-15**|**A Real-time Anomaly Detection Method for Robots based on a Flexible and Sparse Latent Space**|Taewook Kang et.al.|[2504.11170v2](http://arxiv.org/abs/2504.11170v2)|**2025-04-16**|null|
 |**2025-04-15**|**The Robotability Score: Enabling Harmonious Robot Navigation on Urban Streets**|Matt Franchi et.al.|[2504.11163v1](http://arxiv.org/abs/2504.11163v1)|**2025-04-15**|null|
 |**2025-04-15**|**FreeDOM: Online Dynamic Object Removal Framework for Static Map Construction Based on Conservative Free Space Estimation**|Chen Li et.al.|[2504.11073v1](http://arxiv.org/abs/2504.11073v1)|**2025-04-15**|null|
 |**2025-04-15**|**A Multi-UAV Formation Obstacle Avoidance Method Combined Improved Simulated Annealing and Adaptive Artificial Potential Field**|Bo Ma et.al.|[2504.11064v1](http://arxiv.org/abs/2504.11064v1)|**2025-04-15**|null|
 |**2025-04-15**|**Neural Control Barrier Functions from Physics Informed Neural Networks**|Shreenabh Agrawal et.al.|[2504.11045v1](http://arxiv.org/abs/2504.11045v1)|**2025-04-15**|null|
 |**2025-04-15**|**Acquisition of high-quality images for camera calibration in robotics applications via speech prompts**|Timm Linder et.al.|[2504.11031v1](http://arxiv.org/abs/2504.11031v1)|**2025-04-15**|null|
 |**2025-04-15**|**Easy3D: A Simple Yet Effective Method for 3D Interactive Segmentation**|Andrea Simonelli et.al.|[2504.11024v1](http://arxiv.org/abs/2504.11024v1)|**2025-04-15**|null|
-|**2025-04-15**|**GATE3D: Generalized Attention-based Task-synergized Estimation in 3D***|Eunsoo Im et.al.|[2504.11014v1](http://arxiv.org/abs/2504.11014v1)|**2025-04-15**|null|
-|**2025-04-15**|**$π$-MPPI: A Projection-based Model Predictive Path Integral Scheme for Smooth Optimal Control of Fixed-Wing Aerial Vehicles**|Edvin Martin Andrejev et.al.|[2504.10962v1](http://arxiv.org/abs/2504.10962v1)|**2025-04-15**|null|
+|**2025-04-15**|**GATE3D: Generalized Attention-based Task-synergized Estimation in 3D***|Eunsoo Im et.al.|[2504.11014v2](http://arxiv.org/abs/2504.11014v2)|**2025-04-16**|null|
+|**2025-04-15**|**$π$-MPPI: A Projection-based Model Predictive Path Integral Scheme for Smooth Optimal Control of Fixed-Wing Aerial Vehicles**|Edvin Martin Andrejev et.al.|[2504.10962v2](http://arxiv.org/abs/2504.10962v2)|**2025-04-16**|null|
 |**2025-04-15**|**A Sublinear Algorithm for Path Feasibility Among Rectangular Obstacles**|Alex Fan et.al.|[2504.10859v1](http://arxiv.org/abs/2504.10859v1)|**2025-04-15**|null|
 |**2025-04-15**|**ZeroGrasp: Zero-Shot Shape Reconstruction Enabled Robotic Grasping**|Shun Iwase et.al.|[2504.10857v1](http://arxiv.org/abs/2504.10857v1)|**2025-04-15**|null|
 |**2025-04-15**|**Hallucination-Aware Generative Pretrained Transformer for Cooperative Aerial Mobility Control**|Hyojun Ahn et.al.|[2504.10831v1](http://arxiv.org/abs/2504.10831v1)|**2025-04-15**|null|

@@ -27,7 +27,7 @@
 |**2025-04-15**|**CAP-Net: A Unified Network for 6D Pose and Size Estimation of Categorical Articulated Parts from a Single RGB-D Image**|Jingshun Huang et.al.|[2504.11230v1](http://arxiv.org/abs/2504.11230v1)|**2025-04-15**|null|
 |**2025-04-15**|**The Forward-Forward Algorithm: Characterizing Training Behavior**|Reece Adamson et.al.|[2504.11229v1](http://arxiv.org/abs/2504.11229v1)|**2025-04-15**|null|
 |**2025-04-15**|**Test of lepton flavor universality with measurements of $R(D^{+})$ and $R(D^{*+})$ using semileptonic $B$ tagging at the Belle II experiment**|Belle II Collaboration et.al.|[2504.11220v1](http://arxiv.org/abs/2504.11220v1)|**2025-04-15**|null|
-|**2025-04-15**|**3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**|Zeming wei et.al.|[2504.11218v1](http://arxiv.org/abs/2504.11218v1)|**2025-04-15**|null|
+|**2025-04-15**|**3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**|Zeming Wei et.al.|[2504.11218v2](http://arxiv.org/abs/2504.11218v2)|**2025-04-16**|null|
 |**2025-04-15**|**The CMS Barrel Timing Layer: test beam confirmation of module timing performance**|F. Addesa et.al.|[2504.11209v1](http://arxiv.org/abs/2504.11209v1)|**2025-04-15**|null|
 |**2025-04-15**|**Braiding vineyards**|Erin Chambers et.al.|[2504.11203v1](http://arxiv.org/abs/2504.11203v1)|**2025-04-15**|null|
 |**2025-04-15**|**Focal Split: Untethered Snapshot Depth from Differential Defocus**|Junjie Luo et.al.|[2504.11202v1](http://arxiv.org/abs/2504.11202v1)|**2025-04-15**|null|

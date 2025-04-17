@@ -15,7 +15,7 @@
 |**2025-04-15**|**Breaking a Long-Standing Barrier: 2-$\varepsilon$ Approximation for Steiner Forest**|Ali Ahmadi et.al.|[2504.11398v1](http://arxiv.org/abs/2504.11398v1)|**2025-04-15**|null|
 |**2025-04-15**|**MLPs and KANs for data-driven learning in physical problems: A performance comparison**|Raghav Pant et.al.|[2504.11397v1](http://arxiv.org/abs/2504.11397v1)|**2025-04-15**|null|
 |**2025-04-15**|**Trajectory Encoding Temporal Graph Networks**|Jiafeng Xiong et.al.|[2504.11386v1](http://arxiv.org/abs/2504.11386v1)|**2025-04-15**|null|
-|**2025-04-15**|**Accelerating Multiscale Modeling with Hybrid Solvers: Coupling FEM and Neural Operators with Domain Decomposition**|Wei Wanga et.al.|[2504.11383v1](http://arxiv.org/abs/2504.11383v1)|**2025-04-15**|null|
+|**2025-04-15**|**Accelerating Multiscale Modeling with Hybrid Solvers: Coupling FEM and Neural Operators with Domain Decomposition**|Wei Wang et.al.|[2504.11383v2](http://arxiv.org/abs/2504.11383v2)|**2025-04-16**|null|
 |**2025-04-15**|**A Winner-Takes-All Mechanism for Event Generation**|Yongkang Huo et.al.|[2504.11374v1](http://arxiv.org/abs/2504.11374v1)|**2025-04-15**|null|
 |**2025-04-15**|**Network Alignment**|Rui Tang et.al.|[2504.11367v1](http://arxiv.org/abs/2504.11367v1)|**2025-04-15**|null|
 |**2025-04-15**|**Dimension preserving set-valued approximation and decomposition via metric sum**|Ekta Agrawal et.al.|[2504.11356v1](http://arxiv.org/abs/2504.11356v1)|**2025-04-15**|null|

@@ -31,4 +31,4 @@
 |**2025-04-15**|**Leveraging LLMs and attention-mechanism for automatic annotation of historical maps**|Yunshuang Yuan et.al.|[2504.11050v1](http://arxiv.org/abs/2504.11050v1)|**2025-04-15**|null|
 |**2025-04-15**|**Easy3D: A Simple Yet Effective Method for 3D Interactive Segmentation**|Andrea Simonelli et.al.|[2504.11024v1](http://arxiv.org/abs/2504.11024v1)|**2025-04-15**|null|
 |**2025-04-15**|**Structure and dynamics of open-shell nuclei from spherical coupled-cluster theory**|Francesco Marino et.al.|[2504.11012v1](http://arxiv.org/abs/2504.11012v1)|**2025-04-15**|null|
-|**2025-04-15**|**Self-Supervised Enhancement of Forward-Looking Sonar Images: Bridging Cross-Modal Degradation Gaps through Feature Space Transformation and Multi-Frame Fusion**|Zhisheng Zhang et.al.|[2504.10974v1](http://arxiv.org/abs/2504.10974v1)|**2025-04-15**|null|
+|**2025-04-15**|**Self-Supervised Enhancement of Forward-Looking Sonar Images: Bridging Cross-Modal Degradation Gaps through Feature Space Transformation and Multi-Frame Fusion**|Zhisheng Zhang et.al.|[2504.10974v2](http://arxiv.org/abs/2504.10974v2)|**2025-04-16**|null|

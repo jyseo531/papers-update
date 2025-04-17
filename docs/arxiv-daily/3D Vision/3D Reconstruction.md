@@ -2,16 +2,16 @@
 ### 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-15**|**Elucidating the Design Space of Multimodal Protein Language Models**|Cheng-Yen et.al.|[2504.11454v1](http://arxiv.org/abs/2504.11454v1)|**2025-04-15**|null|
+|**2025-04-15**|**Elucidating the Design Space of Multimodal Protein Language Models**|Cheng-Yen Hsieh et.al.|[2504.11454v2](http://arxiv.org/abs/2504.11454v2)|**2025-04-16**|null|
 |**2025-04-15**|**PARTFIELD: Learning 3D Feature Fields for Part Segmentation and Beyond**|Minghua Liu et.al.|[2504.11451v1](http://arxiv.org/abs/2504.11451v1)|**2025-04-15**|null|
-|**2025-04-15**|**Diffusion Distillation With Direct Preference Optimization For Efficient 3D LiDAR Scene Completion**|An Zhaol et.al.|[2504.11447v1](http://arxiv.org/abs/2504.11447v1)|**2025-04-15**|null|
-|**2025-04-15**|**Pixel-level modelling of group-scale strong lens CASSOWARY 19**|Hengkai Ding et.al.|[2504.11445v1](http://arxiv.org/abs/2504.11445v1)|**2025-04-15**|null|
+|**2025-04-15**|**Diffusion Distillation With Direct Preference Optimization For Efficient 3D LiDAR Scene Completion**|An Zhao et.al.|[2504.11447v2](http://arxiv.org/abs/2504.11447v2)|**2025-04-16**|null|
+|**2025-04-15**|**Pixel-level modelling of group-scale strong lens CASSOWARY 19**|Hengkai Ding et.al.|[2504.11445v2](http://arxiv.org/abs/2504.11445v2)|**2025-04-16**|null|
 |**2025-04-15**|**Robust Containment Queries over Collections of Trimmed NURBS Surfaces via Generalized Winding Numbers**|Jacob Spainhour et.al.|[2504.11435v1](http://arxiv.org/abs/2504.11435v1)|**2025-04-15**|null|
 |**2025-04-15**|**Deep Learning-based Bathymetry Retrieval without In-situ Depths using Remote Sensing Imagery and SfM-MVS DSMs with Data Gaps**|Panagiotis Agrafiotis et.al.|[2504.11416v1](http://arxiv.org/abs/2504.11416v1)|**2025-04-15**|null|
 |**2025-04-15**|**Solving the Phase Problem of Diffraction: X-ray Standing Waves Imaging on Bismuthene/SiC(0001)**|Niclas Tilgner et.al.|[2504.11413v1](http://arxiv.org/abs/2504.11413v1)|**2025-04-15**|null|
 |**2025-04-15**|**Five dimensional rotating and Quintessence black hole and their shadows**|Milko Estrada et.al.|[2504.11408v1](http://arxiv.org/abs/2504.11408v1)|**2025-04-15**|null|
 |**2025-04-15**|**Explicit and Implicit Representations in AI-based 3D Reconstruction for Radiology: A systematic literature review**|Yuezhe Yang et.al.|[2504.11349v1](http://arxiv.org/abs/2504.11349v1)|**2025-04-15**|null|
-|**2025-04-15**|**DeepWheel: Generating a 3D Synthetic Wheel Dataset for Design and Performance Evaluation**|Soyoung Yoo et.al.|[2504.11347v1](http://arxiv.org/abs/2504.11347v1)|**2025-04-15**|null|
+|**2025-04-15**|**DeepWheel: Generating a 3D Synthetic Wheel Dataset for Design and Performance Evaluation**|Soyoung Yoo et.al.|[2504.11347v2](http://arxiv.org/abs/2504.11347v2)|**2025-04-16**|null|
 |**2025-04-15**|**Implicit dual time-stepping positivity-preserving entropy-stable schemes for the compressible Navier-Stokes equations**|Mohammed Sayyari et.al.|[2504.11333v1](http://arxiv.org/abs/2504.11333v1)|**2025-04-15**|null|
 |**2025-04-15**|**Crystal nucleation and growth in high-entropy alloys revealed by atomic electron tomography**|Yakun Yuan et.al.|[2504.11325v1](http://arxiv.org/abs/2504.11325v1)|**2025-04-15**|null|
 |**2025-04-15**|**Fast detection and reconstruction of merging Massive Black Hole Binary signals**|Senwen Deng et.al.|[2504.11322v1](http://arxiv.org/abs/2504.11322v1)|**2025-04-15**|null|
@@ -21,7 +21,7 @@
 |**2025-04-15**|**Reconstructing Fine-Grained Network Data using Autoencoder Architectures with Domain Knowledge Penalties**|Mark Cheung et.al.|[2504.11255v1](http://arxiv.org/abs/2504.11255v1)|**2025-04-15**|null|
 |**2025-04-15**|**Guided Wave-Based Structural Awareness Under Varying Operating States via Manifold Representations**|Yiming Fan et.al.|[2504.11235v1](http://arxiv.org/abs/2504.11235v1)|**2025-04-15**|null|
 |**2025-04-15**|**Test of lepton flavor universality with measurements of $R(D^{+})$ and $R(D^{*+})$ using semileptonic $B$ tagging at the Belle II experiment**|Belle II Collaboration et.al.|[2504.11220v1](http://arxiv.org/abs/2504.11220v1)|**2025-04-15**|null|
-|**2025-04-15**|**3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**|Zeming wei et.al.|[2504.11218v1](http://arxiv.org/abs/2504.11218v1)|**2025-04-15**|null|
+|**2025-04-15**|**3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**|Zeming Wei et.al.|[2504.11218v2](http://arxiv.org/abs/2504.11218v2)|**2025-04-16**|null|
 |**2025-04-15**|**SDFs from Unoriented Point Clouds using Neural Variational Heat Distances**|Samuel Weidemaier et.al.|[2504.11212v1](http://arxiv.org/abs/2504.11212v1)|**2025-04-15**|null|
 |**2025-04-15**|**Low-Rank SPIKE Framework for Solving Large Sparse Linear Systems with Applications**|Braegan S. Spring et.al.|[2504.11167v1](http://arxiv.org/abs/2504.11167v1)|**2025-04-15**|null|
 |**2025-04-15**|**DMAGaze: Gaze Estimation Based on Feature Disentanglement and Multi-Scale Attention**|Haohan Chen et.al.|[2504.11160v1](http://arxiv.org/abs/2504.11160v1)|**2025-04-15**|null|
