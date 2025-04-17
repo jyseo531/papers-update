@@ -667,6 +667,7 @@ Updated on 2025-04-17
 | 2 | Unknown | almanach/moderncamembert-baseFill-Mask | Updatedabout 12 hours ago | [Link](https://huggingface.co/almanach/moderncamembert-base) |
 | 13.3k |  | google/muril-base-casedFill-Mask | UpdatedJun 10, 2022 | [Link](https://huggingface.co/google/muril-base-cased) |
 | 2 | Unknown | almanach/moderncamembert-cv2-baseFill-Mask | Updated3 days ago | [Link](https://huggingface.co/almanach/moderncamembert-cv2-base) |
+| 2 | Unknown | slupart/splade-disco-human-mistralFill-Mask | Updated16 minutes ago | [Link](https://huggingface.co/slupart/splade-disco-human-mistral) |
 
 ## Graph Machine Learning
 
@@ -864,6 +865,7 @@ Updated on 2025-04-17
 | 4.86k | 9 | GoodBaiBai88/M3D-CLIPImage | UpdatedMay 8, 2024 | [Link](https://huggingface.co/GoodBaiBai88/M3D-CLIP) |
 | 5.1k | 8 | facebook/dinov2-with-registers-smallImage | UpdatedDec 23, 2024 | [Link](https://huggingface.co/facebook/dinov2-with-registers-small) |
 | 3.1k | 7 | DAMO-NLP-SG/VL3-SigLIP-NaViTImage | Updated10 days ago | [Link](https://huggingface.co/DAMO-NLP-SG/VL3-SigLIP-NaViT) |
+| 37 | 7 | moonshotai/MoonViT-SO-400MImage | Updated24 minutes ago | [Link](https://huggingface.co/moonshotai/MoonViT-SO-400M) |
 | 85.8k | 6 | timm/vit_large_patch14_reg4_dinov2 | UpdatedJan 21 | [Link](https://huggingface.co/timm/vit_large_patch14_reg4_dinov2.lvd142m) |
 | 226 | 6 | nvidia/C-RADIOv2-BImage | Updatedabout 10 hours ago | [Link](https://huggingface.co/nvidia/C-RADIOv2-B) |
 | 29.5k | 5 | timm/vit_base_patch16_224 | UpdatedJan 21 | [Link](https://huggingface.co/timm/vit_base_patch16_224.dino) |
