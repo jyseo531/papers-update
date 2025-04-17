@@ -2,33 +2,33 @@
 ### VQA
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-15**|**SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL**|Junke Wang et.al.|[2504.11455v1](http://arxiv.org/abs/2504.11455v1)|**2025-04-15**|null|
-|**2025-04-15**|**PARTFIELD: Learning 3D Feature Fields for Part Segmentation and Beyond**|Minghua Liu et.al.|[2504.11451v1](http://arxiv.org/abs/2504.11451v1)|**2025-04-15**|null|
-|**2025-04-15**|**eXplainable AI for data driven control: an inverse optimal control approach**|Federico Porcari et.al.|[2504.11446v1](http://arxiv.org/abs/2504.11446v1)|**2025-04-15**|null|
-|**2025-04-15**|**ADT: Tuning Diffusion Models with Adversarial Supervision**|Dazhong Shen et.al.|[2504.11423v1](http://arxiv.org/abs/2504.11423v1)|**2025-04-15**|null|
-|**2025-04-15**|**Efficient Hybrid Language Model Compression through Group-Aware SSM Pruning**|Ali Taghibakhshi et.al.|[2504.11409v1](http://arxiv.org/abs/2504.11409v1)|**2025-04-15**|null|
-|**2025-04-15**|**MLPs and KANs for data-driven learning in physical problems: A performance comparison**|Raghav Pant et.al.|[2504.11397v1](http://arxiv.org/abs/2504.11397v1)|**2025-04-15**|null|
-|**2025-04-15**|**Overrings of half-factorial orders**|Jason Boynton et.al.|[2504.11394v1](http://arxiv.org/abs/2504.11394v1)|**2025-04-15**|null|
-|**2025-04-15**|**DataDecide: How to Predict Best Pretraining Data with Small Experiments**|Ian Magnusson et.al.|[2504.11393v1](http://arxiv.org/abs/2504.11393v1)|**2025-04-15**|null|
-|**2025-04-15**|**VideoPanda: Video Panoramic Diffusion with Multi-view Attention**|Kevin Xie et.al.|[2504.11389v1](http://arxiv.org/abs/2504.11389v1)|**2025-04-15**|null|
-|**2025-04-15**|**RankAlign: A Ranking View of the Generator-Validator Gap in Large Language Models**|Juan Diego Rodriguez et.al.|[2504.11381v1](http://arxiv.org/abs/2504.11381v1)|**2025-04-15**|null|
-|**2025-04-15**|**Cancer-Myth: Evaluating AI Chatbot on Patient Questions with False Presuppositions**|Wang Bill Zhu et.al.|[2504.11373v1](http://arxiv.org/abs/2504.11373v1)|**2025-04-15**|null|
-|**2025-04-15**|**Teaching Large Language Models to Reason through Learning and Forgetting**|Tianwei Ni et.al.|[2504.11364v1](http://arxiv.org/abs/2504.11364v1)|**2025-04-15**|null|
-|**2025-04-15**|**Circuit metaconstruction in logspace for Rice-like complexity lower bounds in ANs and SGRs**|Aliénor Goubault-Larrecq et.al.|[2504.11348v1](http://arxiv.org/abs/2504.11348v1)|**2025-04-15**|null|
-|**2025-04-15**|**Looking beyond the next token**|Abitha Thankaraj et.al.|[2504.11336v1](http://arxiv.org/abs/2504.11336v1)|**2025-04-15**|null|
-|**2025-04-15**|**Decorrelation in Complex Wave Scattering**|Qihang Zhang et.al.|[2504.11330v1](http://arxiv.org/abs/2504.11330v1)|**2025-04-15**|null|
-|**2025-04-15**|**Hunting for Maxwell's Demon in the Wild**|Johan du Buisson et.al.|[2504.11329v1](http://arxiv.org/abs/2504.11329v1)|**2025-04-15**|null|
-|**2025-04-15**|**Optimizing LLM Inference: Fluid-Guided Online Scheduling with Memory Constraints**|Ruicheng Ao et.al.|[2504.11320v1](http://arxiv.org/abs/2504.11320v1)|**2025-04-15**|null|
-|**2025-04-15**|**Mildly-Interacting Fermionic Unitaries are Efficiently Learnable**|Vishnu Iyer et.al.|[2504.11318v1](http://arxiv.org/abs/2504.11318v1)|**2025-04-15**|null|
-|**2025-04-15**|**Uncertainty Estimation for Trust Attribution to Speed-of-Sound Reconstruction with Variational Networks**|Sonia Laguna et.al.|[2504.11307v1](http://arxiv.org/abs/2504.11307v1)|**2025-04-15**|null|
-|**2025-04-15**|**UniAnimate-DiT: Human Image Animation with Large-Scale Video Diffusion Transformer**|Xiang Wang et.al.|[2504.11289v1](http://arxiv.org/abs/2504.11289v1)|**2025-04-15**|null|
-|**2025-04-15**|**Efficient Medical Image Restoration via Reliability Guided Learning in Frequency Domain**|Pengcheng Zheng et.al.|[2504.11286v1](http://arxiv.org/abs/2504.11286v1)|**2025-04-15**|null|
-|**2025-04-15**|**The Obvious Invisible Threat: LLM-Powered GUI Agents' Vulnerability to Fine-Print Injections**|Chaoran Chen et.al.|[2504.11281v1](http://arxiv.org/abs/2504.11281v1)|**2025-04-15**|null|
-|**2025-04-15**|**Simulation-based inference for stochastic nonlinear mixed-effects models with applications in systems biology**|Henrik Häggström et.al.|[2504.11279v1](http://arxiv.org/abs/2504.11279v1)|**2025-04-15**|null|
-|**2025-04-15**|**Towards dimensions and granularity in a unified workflow and data provenance framework**|Tanja Auge et.al.|[2504.11278v1](http://arxiv.org/abs/2504.11278v1)|**2025-04-15**|null|
-|**2025-04-15**|**From Misleading Queries to Accurate Answers: A Three-Stage Fine-Tuning Method for LLMs**|Guocong Li et.al.|[2504.11277v1](http://arxiv.org/abs/2504.11277v1)|**2025-04-15**|null|
-|**2025-04-15**|**Invention, Innovation, and Commercialisation in British Biophysics**|Jack Shepherd et.al.|[2504.11276v1](http://arxiv.org/abs/2504.11276v1)|**2025-04-15**|null|
-|**2025-04-15**|**Distillation-Supervised Convolutional Low-Rank Adaptation for Efficient Image Super-Resolution**|Xinning Chai et.al.|[2504.11271v1](http://arxiv.org/abs/2504.11271v1)|**2025-04-15**|null|
-|**2025-04-15**|**Minimax asymptotics**|Mika Meitz et.al.|[2504.11269v1](http://arxiv.org/abs/2504.11269v1)|**2025-04-15**|null|
-|**2025-04-15**|**Cryo-em images are intrinsically low dimensional**|Luke Evans et.al.|[2504.11249v1](http://arxiv.org/abs/2504.11249v1)|**2025-04-15**|null|
-|**2025-04-15**|**Towards Automated Safety Requirements Derivation Using Agent-based RAG**|Balahari Vignesh Balu et.al.|[2504.11243v1](http://arxiv.org/abs/2504.11243v1)|**2025-04-15**|null|
+|**2025-04-16**|**Exceptional times when bigeodesics exist in dynamical last passage percolation**|Manan Bhatia et.al.|[2504.12293v1](http://arxiv.org/abs/2504.12293v1)|**2025-04-16**|null|
+|**2025-04-16**|**BitNet b1.58 2B4T Technical Report**|Shuming Ma et.al.|[2504.12285v1](http://arxiv.org/abs/2504.12285v1)|**2025-04-16**|null|
+|**2025-04-16**|**A Near-Optimal Kernel for a Coloring Problem**|Ishay Haviv et.al.|[2504.12281v1](http://arxiv.org/abs/2504.12281v1)|**2025-04-16**|null|
+|**2025-04-16**|**Dysarthria Normalization via Local Lie Group Transformations for Robust ASR**|Mikhail Osipov et.al.|[2504.12279v1](http://arxiv.org/abs/2504.12279v1)|**2025-04-16**|null|
+|**2025-04-16**|**HLS-Eval: A Benchmark and Framework for Evaluating LLMs on High-Level Synthesis Design Tasks**|Stefan Abi-Karam et.al.|[2504.12268v1](http://arxiv.org/abs/2504.12268v1)|**2025-04-16**|null|
+|**2025-04-16**|**New Constraints on DMS and DMDS in the Atmosphere of K2-18 b from JWST MIRI**|Nikku Madhusudhan et.al.|[2504.12267v1](http://arxiv.org/abs/2504.12267v1)|**2025-04-16**|null|
+|**2025-04-16**|**Semiparametric Dynamic Copula Models for Portfolio Optimization**|Savita Pareek et.al.|[2504.12266v1](http://arxiv.org/abs/2504.12266v1)|**2025-04-16**|null|
+|**2025-04-16**|**Towards Learning to Complete Anything in Lidar**|Ayca Takmaz et.al.|[2504.12264v1](http://arxiv.org/abs/2504.12264v1)|**2025-04-16**|null|
+|**2025-04-16**|**Cobra: Efficient Line Art COlorization with BRoAder References**|Junhao Zhuang et.al.|[2504.12240v1](http://arxiv.org/abs/2504.12240v1)|**2025-04-16**|null|
+|**2025-04-16**|**Hardness of observing strong-to-weak symmetry breaking**|Xiaozhou Feng et.al.|[2504.12233v1](http://arxiv.org/abs/2504.12233v1)|**2025-04-16**|null|
+|**2025-04-16**|**Accountable Liveness**|Andrew Lewis-Pye et.al.|[2504.12218v1](http://arxiv.org/abs/2504.12218v1)|**2025-04-16**|null|
+|**2025-04-16**|**Idempotent compatible maps and discrete integrable systems on the triangular lattice**|Pavlos Kassotakis et.al.|[2504.12212v1](http://arxiv.org/abs/2504.12212v1)|**2025-04-16**|null|
+|**2025-04-16**|**Creating benchmarkable components to measure the quality ofAI-enhanced developer tools**|Elise Paradis et.al.|[2504.12211v1](http://arxiv.org/abs/2504.12211v1)|**2025-04-16**|null|
+|**2025-04-16**|**SALAD: Improving Robustness and Generalization through Contrastive Learning with Structure-Aware and LLM-Driven Augmented Data**|Suyoung Bae et.al.|[2504.12185v1](http://arxiv.org/abs/2504.12185v1)|**2025-04-16**|null|
+|**2025-04-16**|**Trusting CHATGPT: how minor tweaks in the prompts lead to major differences in sentiment classification**|Jaime E. Cuellar et.al.|[2504.12180v1](http://arxiv.org/abs/2504.12180v1)|**2025-04-16**|null|
+|**2025-04-16**|**Energy Cascades in Driven Granular Liquids : A new Universality Class? I : Model and Symmetries**|O. Coquand et.al.|[2504.12166v1](http://arxiv.org/abs/2504.12166v1)|**2025-04-16**|null|
+|**2025-04-16**|**What is a monoid?**|Paul Blain Levy et.al.|[2504.12158v1](http://arxiv.org/abs/2504.12158v1)|**2025-04-16**|null|
+|**2025-04-16**|**Deep Generative Models for Bayesian Inference on High-Rate Sensor Data: Applications in Automotive Radar and Medical Imaging**|Tristan S. W. Stevens et.al.|[2504.12154v1](http://arxiv.org/abs/2504.12154v1)|**2025-04-16**|null|
+|**2025-04-16**|**Overlapping Error Correction Codes on Two-Dimensional Structures**|Andrew Rafael Fritsch et.al.|[2504.12142v1](http://arxiv.org/abs/2504.12142v1)|**2025-04-16**|null|
+|**2025-04-16**|**Multilingual Contextualization of Large Language Models for Document-Level Machine Translation**|Miguel Moura Ramos et.al.|[2504.12140v1](http://arxiv.org/abs/2504.12140v1)|**2025-04-16**|null|
+|**2025-04-16**|**Efficient Contrastive Decoding with Probabilistic Hallucination Detection - Mitigating Hallucinations in Large Vision Language Models -**|Laura Fieback et.al.|[2504.12137v1](http://arxiv.org/abs/2504.12137v1)|**2025-04-16**|null|
+|**2025-04-16**|**Clarifying Ambiguities: on the Role of Ambiguity Types in Prompting Methods for Clarification Generation**|Anfu Tang et.al.|[2504.12113v1](http://arxiv.org/abs/2504.12113v1)|**2025-04-16**|null|
+|**2025-04-16**|**Towards LLM Agents for Earth Observation**|Chia Hsiang Kao et.al.|[2504.12110v1](http://arxiv.org/abs/2504.12110v1)|**2025-04-16**|null|
+|**2025-04-16**|**Gauging Overprecision in LLMs: An Empirical Study**|Adil Bahaj et.al.|[2504.12098v1](http://arxiv.org/abs/2504.12098v1)|**2025-04-16**|null|
+|**2025-04-16**|**Semiparametric Causal Discovery and Inference with Invalid Instruments**|Jing Zou et.al.|[2504.12085v1](http://arxiv.org/abs/2504.12085v1)|**2025-04-16**|null|
+|**2025-04-16**|**Self-alignment of Large Video Language Models with Refined Regularized Preference Optimization**|Pritam Sarkar et.al.|[2504.12083v1](http://arxiv.org/abs/2504.12083v1)|**2025-04-16**|null|
+|**2025-04-16**|**Coincident onset of charge order and pseudogap in a homogeneous high-temperature superconductor**|D. Betto et.al.|[2504.12077v1](http://arxiv.org/abs/2504.12077v1)|**2025-04-16**|null|
+|**2025-04-16**|**Bayesian dynamic borrowing considering semantic similarity between outcomes for disproportionality analysis in FAERS**|François Haguinet et.al.|[2504.12052v1](http://arxiv.org/abs/2504.12052v1)|**2025-04-16**|null|
+|**2025-04-16**|**Neumaier graphs from cyclotomy with small coherent rank**|Gary R. W. Greaves et.al.|[2504.12026v1](http://arxiv.org/abs/2504.12026v1)|**2025-04-16**|null|
+|**2025-04-16**|**Instruction-augmented Multimodal Alignment for Image-Text and Element Matching**|Xinli Yue et.al.|[2504.12018v1](http://arxiv.org/abs/2504.12018v1)|**2025-04-16**|null|

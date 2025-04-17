@@ -2,10 +2,15 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-16**|**Suppression of composition g-modes in chemically-equilibrating warm neutron stars**|Tianqi Zhao et.al.|[2504.12230v1](http://arxiv.org/abs/2504.12230v1)|**2025-04-16**|null|
+|**2025-04-16**|**Flow Intelligence: Robust Feature Matching via Temporal Signature Correlation**|Jie Wang et.al.|[2504.11949v1](http://arxiv.org/abs/2504.11949v1)|**2025-04-16**|null|
+|**2025-04-16**|**Learning Physics-Informed Color-Aware Transforms for Low-Light Image Enhancement**|Xingxing Yang et.al.|[2504.11896v1](http://arxiv.org/abs/2504.11896v1)|**2025-04-16**|null|
+|**2025-04-15**|**Reconstructions and Dynamics of $β$-Lithium Thiophosphate Surfaces**|Hanna Türk et.al.|[2504.11553v1](http://arxiv.org/abs/2504.11553v1)|**2025-04-15**|null|
 |**2025-04-15**|**Visual Re-Ranking with Non-Visual Side Information**|Gustav Hanning et.al.|[2504.11134v1](http://arxiv.org/abs/2504.11134v1)|**2025-04-15**|null|
 |**2025-04-15**|**UKDM: Underwater keypoint detection and matching using underwater image enhancement techniques**|Pedro Diaz-Garcia et.al.|[2504.11063v1](http://arxiv.org/abs/2504.11063v1)|**2025-04-15**|null|
 |**2025-04-15**|**Acquisition of high-quality images for camera calibration in robotics applications via speech prompts**|Timm Linder et.al.|[2504.11031v1](http://arxiv.org/abs/2504.11031v1)|**2025-04-15**|null|
 |**2025-04-15**|**Embedding Radiomics into Vision Transformers for Multimodal Medical Image Classification**|Zhenyu Yang et.al.|[2504.10916v1](http://arxiv.org/abs/2504.10916v1)|**2025-04-15**|null|
+|**2025-04-14**|**Probabilistic Task Parameterization of Tool-Tissue Interaction via Sparse Landmarks Tracking in Robotic Surgery**|Yiting Wang et.al.|[2504.11495v1](http://arxiv.org/abs/2504.11495v1)|**2025-04-14**|null|
 |**2025-04-14**|**Diffusion Limit of a Generally Distributed, Overloaded, Multiclass, Multi-server Random Order of Service Queue with Reneging, Obtained without State Space Collapse**|Eva H Loeser et.al.|[2504.10633v1](http://arxiv.org/abs/2504.10633v1)|**2025-04-14**|null|
 |**2025-04-14**|**Benchmarking 3D Human Pose Estimation Models Under Occlusions**|Filipa Lino et.al.|[2504.10350v1](http://arxiv.org/abs/2504.10350v1)|**2025-04-14**|null|
 |**2025-04-14**|**KeyMPs: One-Shot Vision-Language Guided Motion Generation by Sequencing DMPs for Occlusion-Rich Tasks**|Edgar Anarossi et.al.|[2504.10011v1](http://arxiv.org/abs/2504.10011v1)|**2025-04-14**|null|
@@ -27,8 +32,3 @@
 |**2025-04-07**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834v2](http://arxiv.org/abs/2504.04834v2)|**2025-04-10**|[link](https://github.com/stilcrad/denseaffine)|
 |**2025-04-07**|**SMF: Template-free and Rig-free Animation Transfer using Kinetic Codes**|Sanjeev Muralikrishnan et.al.|[2504.04831v1](http://arxiv.org/abs/2504.04831v1)|**2025-04-07**|null|
 |**2025-04-04**|**Predicting energy of the quantum system from one- and two- electron integrals using Deep Learning**|Valerii Chuiko et.al.|[2504.03849v1](http://arxiv.org/abs/2504.03849v1)|**2025-04-04**|null|
-|**2025-04-04**|**From Keypoints to Realism: A Realistic and Accurate Virtual Try-on Network from 2D Images**|Maliheh Toozandehjani et.al.|[2504.03807v1](http://arxiv.org/abs/2504.03807v1)|**2025-04-04**|null|
-|**2025-04-04**|**Robot Localization Using a Learned Keypoint Detector and Descriptor with a Floor Camera and a Feature Rich Industrial Floor**|Piet Brömmel et.al.|[2504.03249v1](http://arxiv.org/abs/2504.03249v1)|**2025-04-04**|null|
-|**2025-04-04**|**Explain with Visual Keypoints Like a Real Mentor! A Benchmark for Multimodal Solution Explanation**|Jaewoo Park et.al.|[2504.03197v2](http://arxiv.org/abs/2504.03197v2)|**2025-04-07**|null|
-|**2025-04-03**|**CanonNet: Canonical Ordering and Curvature Learning for Point Cloud Analysis**|Benjy Friedmann et.al.|[2504.02763v1](http://arxiv.org/abs/2504.02763v1)|**2025-04-03**|null|
-|**2025-04-03**|**RAFFLE: Active learning accelerated interface structure prediction**|Ned Thaddeus Taylor et.al.|[2504.02528v1](http://arxiv.org/abs/2504.02528v1)|**2025-04-03**|[link](https://github.com/exequantcode/raffle)|

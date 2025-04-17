@@ -2,6 +2,26 @@
 ### Reinforcement Learning
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-16**|**Dzyaloshinskii-Moriya Interaction and Dipole-Exchange Curvature Effects on the Spin-Wave Spectra of Magnetic Nanotubes**|B. Mimica-Figari et.al.|[2504.12219v1](http://arxiv.org/abs/2504.12219v1)|**2025-04-16**|null|
+|**2025-04-16**|**d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning**|Siyan Zhao et.al.|[2504.12216v1](http://arxiv.org/abs/2504.12216v1)|**2025-04-16**|null|
+|**2025-04-16**|**Elastic wave propagation in magneto-active fibre composites**|Harold Berjamin et.al.|[2504.12176v1](http://arxiv.org/abs/2504.12176v1)|**2025-04-16**|null|
+|**2025-04-16**|**Reasoning-Based AI for Startup Evaluation (R.A.I.S.E.): A Memory-Augmented, Multi-Step Decision Framework**|Jack Preuveneers et.al.|[2504.12090v1](http://arxiv.org/abs/2504.12090v1)|**2025-04-16**|null|
+|**2025-04-16**|**pix2pockets: Shot Suggestions in 8-Ball Pool from a Single Image in the Wild**|Jonas Myhre Schiøtt et.al.|[2504.12045v1](http://arxiv.org/abs/2504.12045v1)|**2025-04-16**|null|
+|**2025-04-16**|**Evolutionary Reinforcement Learning for Interpretable Decision-Making in Supply Chain Management**|Stefano Genetti et.al.|[2504.12023v1](http://arxiv.org/abs/2504.12023v1)|**2025-04-16**|null|
+|**2025-04-16**|**Control of Rayleigh-Bénard Convection: Effectiveness of Reinforcement Learning in the Turbulent Regime**|Thorben Markmann et.al.|[2504.12000v1](http://arxiv.org/abs/2504.12000v1)|**2025-04-16**|null|
+|**2025-04-16**|**A Computationally Efficient Algorithm for Infinite-Horizon Average-Reward Linear MDPs**|Kihyuk Hong et.al.|[2504.11997v1](http://arxiv.org/abs/2504.11997v1)|**2025-04-16**|null|
+|**2025-04-16**|**Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions**|Yifei Dong et.al.|[2504.11967v1](http://arxiv.org/abs/2504.11967v1)|**2025-04-16**|null|
+|**2025-04-16**|**R-Meshfusion: Reinforcement Learning Powered Sparse-View Mesh Reconstruction with Diffusion Priors**|Haoyang Wang et.al.|[2504.11946v1](http://arxiv.org/abs/2504.11946v1)|**2025-04-16**|null|
+|**2025-04-16**|**VIPO: Value Function Inconsistency Penalized Offline Reinforcement Learning**|Xuyang Chen et.al.|[2504.11944v1](http://arxiv.org/abs/2504.11944v1)|**2025-04-16**|null|
+|**2025-04-16**|**A Graph-Based Reinforcement Learning Approach with Frontier Potential Based Reward for Safe Cluttered Environment Exploration**|Gabriele Calzolari et.al.|[2504.11907v1](http://arxiv.org/abs/2504.11907v1)|**2025-04-16**|null|
+|**2025-04-16**|**Factor-MCLS: Multi-agent learning system with reward factor matrix and multi-critic framework for dynamic portfolio optimization**|Ruoyu Sun et.al.|[2504.11874v1](http://arxiv.org/abs/2504.11874v1)|**2025-04-16**|null|
+|**2025-04-16**|**Steerable rolling of a 1-DoF robot using an internal pendulum**|Christopher Y. Xu et.al.|[2504.11748v1](http://arxiv.org/abs/2504.11748v1)|**2025-04-16**|null|
+|**2025-04-16**|**Hardware Co-Designed Optimal Control for Programmable Atomic Quantum Processors via Reinforcement Learning**|Qian Ding et.al.|[2504.11737v1](http://arxiv.org/abs/2504.11737v1)|**2025-04-16**|null|
+|**2025-04-15**|**Data driven approach towards more efficient Newton-Raphson power flow calculation for distribution grids**|Shengyuan Yan et.al.|[2504.11650v1](http://arxiv.org/abs/2504.11650v1)|**2025-04-15**|[link](https://github.com/yanshengyuan/Data-driven-approach-towards-more-efficient-Newton-Raphson-power-flow-calculation)|
+|**2025-04-15**|**Achieving Tighter Finite-Time Rates for Heterogeneous Federated Stochastic Approximation under Markovian Sampling**|Feng Zhu et.al.|[2504.11645v1](http://arxiv.org/abs/2504.11645v1)|**2025-04-15**|null|
+|**2025-04-15**|**Dueling Deep Reinforcement Learning for Financial Time Series**|Bruno Giorgio et.al.|[2504.11601v1](http://arxiv.org/abs/2504.11601v1)|**2025-04-15**|null|
+|**2025-04-15**|**Multi-Agent Reinforcement Learning for Decentralized Reservoir Management via Murmuration Intelligence**|Heming Fu et.al.|[2504.11569v1](http://arxiv.org/abs/2504.11569v1)|**2025-04-15**|null|
+|**2025-04-15**|**ReTool: Reinforcement Learning for Strategic Tool Use in LLMs**|Jiazhan Feng et.al.|[2504.11536v1](http://arxiv.org/abs/2504.11536v1)|**2025-04-15**|null|
 |**2025-04-15**|**DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning**|Zhiwei He et.al.|[2504.11456v1](http://arxiv.org/abs/2504.11456v1)|**2025-04-15**|null|
 |**2025-04-15**|**A Clean Slate for Offline Reinforcement Learning**|Matthew Thomas Jackson et.al.|[2504.11453v1](http://arxiv.org/abs/2504.11453v1)|**2025-04-15**|null|
 |**2025-04-15**|**Reinforcing Compositional Retrieval: Retrieving Step-by-Step for Composing Informative Contexts**|Quanyu Long et.al.|[2504.11420v1](http://arxiv.org/abs/2504.11420v1)|**2025-04-15**|null|
@@ -12,23 +32,3 @@
 |**2025-04-15**|**Multi-Agent Reinforcement Learning for Greenhouse Gas Offset Credit Markets**|Liam Welsh et.al.|[2504.11258v1](http://arxiv.org/abs/2504.11258v1)|**2025-04-15**|null|
 |**2025-04-15**|**A Rollout-Based Algorithm and Reward Function for Efficient Resource Allocation in Business Processes**|Jeroen Middelhuis et.al.|[2504.11250v1](http://arxiv.org/abs/2504.11250v1)|**2025-04-15**|null|
 |**2025-04-15**|**Next-Future: Sample-Efficient Policy Learning for Robotic-Arm Tasks**|Fikrican Özgür et.al.|[2504.11247v1](http://arxiv.org/abs/2504.11247v1)|**2025-04-15**|null|
-|**2025-04-15**|**Revealing Covert Attention by Analyzing Human and Reinforcement Learning Agent Gameplay**|Henrik Krauss et.al.|[2504.11118v1](http://arxiv.org/abs/2504.11118v1)|**2025-04-15**|null|
-|**2025-04-15**|**Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models**|Andrea Tirinzoni et.al.|[2504.11054v1](http://arxiv.org/abs/2504.11054v1)|**2025-04-15**|null|
-|**2025-04-15**|**A PyTorch-Compatible Spike Encoding Framework for Energy-Efficient Neuromorphic Applications**|Alexandru Vasilache et.al.|[2504.11026v1](http://arxiv.org/abs/2504.11026v1)|**2025-04-15**|null|
-|**2025-04-15**|**ReZero: Enhancing LLM search ability by trying one-more-time**|Alan Dao et.al.|[2504.11001v1](http://arxiv.org/abs/2504.11001v1)|**2025-04-15**|null|
-|**2025-04-15**|**AgentPolyp: Accurate Polyp Segmentation via Image Enhancement Agent**|Pu Wang et.al.|[2504.10978v1](http://arxiv.org/abs/2504.10978v1)|**2025-04-15**|null|
-|**2025-04-15**|**Efficient Reasoning Models: A Survey**|Sicheng Feng et.al.|[2504.10903v1](http://arxiv.org/abs/2504.10903v1)|**2025-04-15**|null|
-|**2025-04-15**|**Hallucination-Aware Generative Pretrained Transformer for Cooperative Aerial Mobility Control**|Hyojun Ahn et.al.|[2504.10831v1](http://arxiv.org/abs/2504.10831v1)|**2025-04-15**|null|
-|**2025-04-15**|**Name of Thrones: Evaluating How LLMs Rank Student Names, Race, and Gender in Status Hierarchies**|Annabella Sakunkoo et.al.|[2504.10797v1](http://arxiv.org/abs/2504.10797v1)|**2025-04-15**|null|
-|**2025-04-14**|**CleanMAP: Distilling Multimodal LLMs for Confidence-Driven Crowdsourced HD Map Updates**|Ankit Kumar Shaw et.al.|[2504.10738v1](http://arxiv.org/abs/2504.10738v1)|**2025-04-14**|null|
-|**2025-04-14**|**EMAFusion: A Self-Optimizing System for Seamless LLM Selection and Integration**|Soham Shah et.al.|[2504.10681v1](http://arxiv.org/abs/2504.10681v1)|**2025-04-14**|null|
-|**2025-04-14**|**Achieving Optimal Tissue Repair Through MARL with Reward Shaping and Curriculum Learning**|Muhammad Al-Zafar Khan et.al.|[2504.10677v1](http://arxiv.org/abs/2504.10677v1)|**2025-04-14**|null|
-|**2025-04-14**|**Better Estimation of the KL Divergence Between Language Models**|Afra Amini et.al.|[2504.10637v1](http://arxiv.org/abs/2504.10637v1)|**2025-04-14**|null|
-|**2025-04-14**|**Weight Ensembling Improves Reasoning in Language Models**|Xingyu Dang et.al.|[2504.10478v2](http://arxiv.org/abs/2504.10478v2)|**2025-04-15**|null|
-|**2025-04-14**|**Co-optimizing Physical Reconfiguration Parameters and Controllers for an Origami-inspired Reconfigurable Manipulator**|Zhe Chen et.al.|[2504.10474v1](http://arxiv.org/abs/2504.10474v1)|**2025-04-14**|null|
-|**2025-04-14**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Xiaobo Xia et.al.|[2504.10458v2](http://arxiv.org/abs/2504.10458v2)|**2025-04-15**|null|
-|**2025-04-14**|**The Communication and Computation Trade-off in Wireless Semantic Communications**|Xuyang Chen et.al.|[2504.10357v1](http://arxiv.org/abs/2504.10357v1)|**2025-04-14**|null|
-|**2025-04-14**|**Heimdall: test-time scaling on the generative verification**|Wenlei Shi et.al.|[2504.10337v2](http://arxiv.org/abs/2504.10337v2)|**2025-04-16**|null|
-|**2025-04-14**|**InstructEngine: Instruction-driven Text-to-Image Alignment**|Xingyu Lu et.al.|[2504.10329v1](http://arxiv.org/abs/2504.10329v1)|**2025-04-14**|null|
-|**2025-04-14**|**Vision based driving agent for race car simulation environments**|Gergely Bári et.al.|[2504.10266v1](http://arxiv.org/abs/2504.10266v1)|**2025-04-14**|null|
-|**2025-04-14**|**Adaptive Sensor Steering Strategy Using Deep Reinforcement Learning for Dynamic Data Acquisition in Digital Twins**|Collins O. Ogbodo et.al.|[2504.10248v1](http://arxiv.org/abs/2504.10248v1)|**2025-04-14**|null|

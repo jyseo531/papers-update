@@ -2,33 +2,33 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-15**|**Optimal Hardness of Online Algorithms for Large Independent Sets**|David Gamarnik et.al.|[2504.11450v1](http://arxiv.org/abs/2504.11450v1)|**2025-04-15**|null|
-|**2025-04-15**|**Predicting Wave Dynamics using Deep Learning with Multistep Integration Inspired Attention and Physics-Based Loss Decomposition**|Indu Kant Deo et.al.|[2504.11433v1](http://arxiv.org/abs/2504.11433v1)|**2025-04-15**|null|
-|**2025-04-15**|**Masculine Defaults via Gendered Discourse in Podcasts and Large Language Models**|Maria Teleki et.al.|[2504.11431v1](http://arxiv.org/abs/2504.11431v1)|**2025-04-15**|null|
-|**2025-04-15**|**ADT: Tuning Diffusion Models with Adversarial Supervision**|Dazhong Shen et.al.|[2504.11423v1](http://arxiv.org/abs/2504.11423v1)|**2025-04-15**|null|
-|**2025-04-15**|**HeatSense: Intelligent Thermal Anomaly Detection for Securing NoC-Enabled MPSoCs**|Mahdi Hasanzadeh et.al.|[2504.11421v1](http://arxiv.org/abs/2504.11421v1)|**2025-04-15**|null|
-|**2025-04-15**|**Embodied World Models Emerge from Navigational Task in Open-Ended Environments**|Li Jin et.al.|[2504.11419v1](http://arxiv.org/abs/2504.11419v1)|**2025-04-15**|null|
-|**2025-04-15**|**Leveraging Point Transformers for Detecting Anatomical Landmarks in Digital Dentistry**|Tibor Kubík et.al.|[2504.11418v1](http://arxiv.org/abs/2504.11418v1)|**2025-04-15**|null|
-|**2025-04-15**|**Robustness and sex differences in skin cancer detection: logistic regression vs CNNs**|Nikolette Pedersen et.al.|[2504.11415v1](http://arxiv.org/abs/2504.11415v1)|**2025-04-15**|null|
-|**2025-04-15**|**Multi-level Cellular Automata for FLIM networks**|Felipe Crispim Salvagnini et.al.|[2504.11406v1](http://arxiv.org/abs/2504.11406v1)|**2025-04-15**|null|
-|**2025-04-15**|**Assessing Tensor Network Quantum Emulators for Hamiltonian Simulation of Pharmaceutical Molecules: Challenges and Limitations in Drug Discovery Applications**|Marek Kowalik et.al.|[2504.11399v1](http://arxiv.org/abs/2504.11399v1)|**2025-04-15**|null|
-|**2025-04-15**|**Breaking a Long-Standing Barrier: 2-$\varepsilon$ Approximation for Steiner Forest**|Ali Ahmadi et.al.|[2504.11398v1](http://arxiv.org/abs/2504.11398v1)|**2025-04-15**|null|
-|**2025-04-15**|**MLPs and KANs for data-driven learning in physical problems: A performance comparison**|Raghav Pant et.al.|[2504.11397v1](http://arxiv.org/abs/2504.11397v1)|**2025-04-15**|null|
-|**2025-04-15**|**Trajectory Encoding Temporal Graph Networks**|Jiafeng Xiong et.al.|[2504.11386v1](http://arxiv.org/abs/2504.11386v1)|**2025-04-15**|null|
-|**2025-04-15**|**Accelerating Multiscale Modeling with Hybrid Solvers: Coupling FEM and Neural Operators with Domain Decomposition**|Wei Wang et.al.|[2504.11383v2](http://arxiv.org/abs/2504.11383v2)|**2025-04-16**|null|
-|**2025-04-15**|**A Winner-Takes-All Mechanism for Event Generation**|Yongkang Huo et.al.|[2504.11374v1](http://arxiv.org/abs/2504.11374v1)|**2025-04-15**|null|
-|**2025-04-15**|**Network Alignment**|Rui Tang et.al.|[2504.11367v1](http://arxiv.org/abs/2504.11367v1)|**2025-04-15**|null|
-|**2025-04-15**|**Dimension preserving set-valued approximation and decomposition via metric sum**|Ekta Agrawal et.al.|[2504.11356v1](http://arxiv.org/abs/2504.11356v1)|**2025-04-15**|null|
-|**2025-04-15**|**Neural Networks for on-chip Model Predictive Control: a Method to Build Optimized Training Datasets and its application to Type-1 Diabetes**|Alberto Castillo et.al.|[2504.11355v1](http://arxiv.org/abs/2504.11355v1)|**2025-04-15**|null|
-|**2025-04-15**|**Kimina-Prover Preview: Towards Large Formal Reasoning Models with Reinforcement Learning**|Haiming Wang et.al.|[2504.11354v1](http://arxiv.org/abs/2504.11354v1)|**2025-04-15**|null|
-|**2025-04-15**|**Explicit and Implicit Representations in AI-based 3D Reconstruction for Radiology: A systematic literature review**|Yuezhe Yang et.al.|[2504.11349v1](http://arxiv.org/abs/2504.11349v1)|**2025-04-15**|null|
-|**2025-04-15**|**Circuit metaconstruction in logspace for Rice-like complexity lower bounds in ANs and SGRs**|Aliénor Goubault-Larrecq et.al.|[2504.11348v1](http://arxiv.org/abs/2504.11348v1)|**2025-04-15**|null|
-|**2025-04-15**|**Erzeugunsgrad, VC-Dimension and Neural Networks with rational activation function**|Luis Miguel Pardo et.al.|[2504.11345v1](http://arxiv.org/abs/2504.11345v1)|**2025-04-15**|null|
-|**2025-04-15**|**Williams' conjecture holds for graphs of Gelfand-Kirillov dimension three**|Tran Quang Do et.al.|[2504.11342v1](http://arxiv.org/abs/2504.11342v1)|**2025-04-15**|null|
-|**2025-04-15**|**Evaluating DAO Sustainability and Longevity Through On-Chain Governance Metrics**|Silvio Meneguzzo et.al.|[2504.11341v1](http://arxiv.org/abs/2504.11341v1)|**2025-04-15**|null|
-|**2025-04-15**|**Organisation and dynamics of individual DNA segments in topologically complex genomes**|Saminathan Ramakrishnan et.al.|[2504.11340v1](http://arxiv.org/abs/2504.11340v1)|**2025-04-15**|null|
-|**2025-04-15**|**A Mathematical Framework of Semantic Communication based on Category Theory**|Shuheng Hua et.al.|[2504.11334v1](http://arxiv.org/abs/2504.11334v1)|**2025-04-15**|null|
-|**2025-04-15**|**Crystal nucleation and growth in high-entropy alloys revealed by atomic electron tomography**|Yakun Yuan et.al.|[2504.11325v1](http://arxiv.org/abs/2504.11325v1)|**2025-04-15**|null|
-|**2025-04-15**|**Domain wall evolution beyond quartic potentials: The Sine-Gordon and Christ-Lee potentials**|R. Heilemann et.al.|[2504.11323v1](http://arxiv.org/abs/2504.11323v1)|**2025-04-15**|null|
-|**2025-04-15**|**Subset-Contrastive Multi-Omics Network Embedding**|Pedro Henrique da Costa Avelar et.al.|[2504.11321v1](http://arxiv.org/abs/2504.11321v1)|**2025-04-15**|null|
-|**2025-04-15**|**Big Brother is Watching: Proactive Deepfake Detection via Learnable Hidden Face**|Hongbo Li et.al.|[2504.11309v1](http://arxiv.org/abs/2504.11309v1)|**2025-04-15**|null|
+|**2025-04-16**|**Optimal flock formation induced by agent heterogeneity**|Arthur N. Montanari et.al.|[2504.12297v1](http://arxiv.org/abs/2504.12297v1)|**2025-04-16**|null|
+|**2025-04-16**|**SHeaP: Self-Supervised Head Geometry Predictor Learned via 2D Gaussians**|Liam Schoneveld et.al.|[2504.12292v1](http://arxiv.org/abs/2504.12292v1)|**2025-04-16**|null|
+|**2025-04-16**|**A Near-Optimal Kernel for a Coloring Problem**|Ishay Haviv et.al.|[2504.12281v1](http://arxiv.org/abs/2504.12281v1)|**2025-04-16**|null|
+|**2025-04-16**|**Dysarthria Normalization via Local Lie Group Transformations for Robust ASR**|Mikhail Osipov et.al.|[2504.12279v1](http://arxiv.org/abs/2504.12279v1)|**2025-04-16**|null|
+|**2025-04-16**|**The Tenth NTIRE 2025 Image Denoising Challenge Report**|Lei Sun et.al.|[2504.12276v1](http://arxiv.org/abs/2504.12276v1)|**2025-04-16**|null|
+|**2025-04-16**|**Kernels for Storage Capacity and Dual Index Coding**|Ishay Haviv et.al.|[2504.12274v1](http://arxiv.org/abs/2504.12274v1)|**2025-04-16**|null|
+|**2025-04-16**|**Beyond Reconstruction: A Physics Based Neural Deferred Shader for Photo-realistic Rendering**|Zhuo He et.al.|[2504.12273v1](http://arxiv.org/abs/2504.12273v1)|**2025-04-16**|null|
+|**2025-04-16**|**SEROAISE: Advancing ROA Estimation for ReLU and PWA Dynamics through Estimating Certified Invariant Sets**|Pouya Samanipour et.al.|[2504.12269v1](http://arxiv.org/abs/2504.12269v1)|**2025-04-16**|null|
+|**2025-04-16**|**Correlation Ratio for Unsupervised Learning of Multi-modal Deformable Registration**|Xiaojian Chen et.al.|[2504.12265v1](http://arxiv.org/abs/2504.12265v1)|**2025-04-16**|null|
+|**2025-04-16**|**SCENT: Robust Spatiotemporal Learning for Continuous Scientific Data via Scalable Conditioned Neural Fields**|David Keetae Park et.al.|[2504.12262v1](http://arxiv.org/abs/2504.12262v1)|**2025-04-16**|null|
+|**2025-04-16**|**Experimental Analysis of Multipath Characteristics in Indoor Distributed Massive MIMO Channels**|Yingjie Xu et.al.|[2504.12258v1](http://arxiv.org/abs/2504.12258v1)|**2025-04-16**|null|
+|**2025-04-16**|**Comparative Evaluation of Radiomics and Deep Learning Models for Disease Detection in Chest Radiography**|Zhijin He et.al.|[2504.12249v1](http://arxiv.org/abs/2504.12249v1)|**2025-04-16**|null|
+|**2025-04-16**|**Mobile Distributed MIMO (MD-MIMO) for NextG: Mobility Meets Cooperation in Distributed Arrays**|Karim A. Said et.al.|[2504.12244v1](http://arxiv.org/abs/2504.12244v1)|**2025-04-16**|null|
+|**2025-04-16**|**MOS: Towards Effective Smart Contract Vulnerability Detection through Mixture-of-Experts Tuning of Large Language Models**|Hang Yuan et.al.|[2504.12234v1](http://arxiv.org/abs/2504.12234v1)|**2025-04-16**|null|
+|**2025-04-16**|**Burgers equation on networks: Metric graph based approach**|K. K. Sabirov et.al.|[2504.12232v1](http://arxiv.org/abs/2504.12232v1)|**2025-04-16**|null|
+|**2025-04-16**|**Coding-Prior Guided Diffusion Network for Video Deblurring**|Yike Liu et.al.|[2504.12222v1](http://arxiv.org/abs/2504.12222v1)|**2025-04-16**|null|
+|**2025-04-16**|**Accountable Liveness**|Andrew Lewis-Pye et.al.|[2504.12218v1](http://arxiv.org/abs/2504.12218v1)|**2025-04-16**|null|
+|**2025-04-16**|**Idempotent compatible maps and discrete integrable systems on the triangular lattice**|Pavlos Kassotakis et.al.|[2504.12212v1](http://arxiv.org/abs/2504.12212v1)|**2025-04-16**|null|
+|**2025-04-16**|**Communication Optimization for Decentralized Learning atop Bandwidth-limited Edge Networks**|Tingyang Sun et.al.|[2504.12210v1](http://arxiv.org/abs/2504.12210v1)|**2025-04-16**|null|
+|**2025-04-16**|**Towards Realistic Low-Light Image Enhancement via ISP Driven Data Modeling**|Zhihua Wang et.al.|[2504.12204v1](http://arxiv.org/abs/2504.12204v1)|**2025-04-16**|null|
+|**2025-04-16**|**Beyond Patches: Mining Interpretable Part-Prototypes for Explainable AI**|Mahdi Alehdaghi et.al.|[2504.12197v1](http://arxiv.org/abs/2504.12197v1)|**2025-04-16**|null|
+|**2025-04-16**|**The Optimal Condition Number for ReLU Function**|Yu Xia et.al.|[2504.12194v1](http://arxiv.org/abs/2504.12194v1)|**2025-04-16**|null|
+|**2025-04-16**|**Leave-One-Out Stable Conformal Prediction**|Kiljae Lee et.al.|[2504.12189v1](http://arxiv.org/abs/2504.12189v1)|**2025-04-16**|null|
+|**2025-04-16**|**Nonequilibrium physics of brain dynamics**|Ramón Nartallo-Kaluarachchi et.al.|[2504.12188v1](http://arxiv.org/abs/2504.12188v1)|**2025-04-16**|null|
+|**2025-04-16**|**What Do Large Language Models Know? Tacit Knowledge as a Potential Causal-Explanatory Structure**|Céline Budding et.al.|[2504.12187v1](http://arxiv.org/abs/2504.12187v1)|**2025-04-16**|null|
+|**2025-04-16**|**Towards asteroseismology of neutron stars with physics-informed neural networks**|Dimitra Tseneklidou et.al.|[2504.12183v1](http://arxiv.org/abs/2504.12183v1)|**2025-04-16**|null|
+|**2025-04-16**|**Search for additional scalar bosons within the Inert Doublet Model in a final state with two leptons at the FCC-ee**|Anubha Bal et.al.|[2504.12178v1](http://arxiv.org/abs/2504.12178v1)|**2025-04-16**|null|
+|**2025-04-16**|**Approximation Bounds for Transformer Networks with Application to Regression**|Yuling Jiao et.al.|[2504.12175v1](http://arxiv.org/abs/2504.12175v1)|**2025-04-16**|null|
+|**2025-04-16**|**Towards a General-Purpose Zero-Shot Synthetic Low-Light Image and Video Pipeline**|Joanne Lin et.al.|[2504.12169v1](http://arxiv.org/abs/2504.12169v1)|**2025-04-16**|null|
+|**2025-04-16**|**RADLER: Radar Object Detection Leveraging Semantic 3D City Models and Self-Supervised Radar-Image Learning**|Yuan Luo et.al.|[2504.12167v1](http://arxiv.org/abs/2504.12167v1)|**2025-04-16**|null|

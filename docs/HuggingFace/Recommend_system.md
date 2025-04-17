@@ -149,6 +149,7 @@ Updated on 2025-04-17
 | 12 | 1 | Menlo/mini-Ichigo-llama3 | UpdatedNov 19, 2024 | [Link](https://huggingface.co/Menlo/mini-Ichigo-llama3.2-3B-s-base) |
 | 108 | 1 | FriendliAI/ultravox-v0_5-llama-3_1-8bAudio-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/FriendliAI/ultravox-v0_5-llama-3_1-8b) |
 | 49 | 1 | onnx-community/ultravox-v0_5-llama-3_2-1b-ONNXAudio-Text-to-Text | Updated15 days ago | [Link](https://huggingface.co/onnx-community/ultravox-v0_5-llama-3_2-1b-ONNX) |
+| 4 | 1 | EastBrook/Qwen2 | Updated3 days ago | [Link](https://huggingface.co/EastBrook/Qwen2.5-14B-SeamlessV2) |
 | 115k |  | Qwen/Qwen2-Audio-7B-InstructAudio-Text-to-Text | UpdatedJan 12 | [Link](https://huggingface.co/Qwen/Qwen2-Audio-7B-Instruct) |
 | 2 | Unknown | Flex-Data/bm-v1Audio-Text-to-Text | UpdatedDec 4, 2024 | [Link](https://huggingface.co/Flex-Data/bm-v1) |
 | 1 | Unknown | beita6969/DeepSeek-R1-Distill-Qwen-32B-MedicalAudio-Text-to-Text | Updatedabout 17 hours ago | [Link](https://huggingface.co/beita6969/DeepSeek-R1-Distill-Qwen-32B-Medical) |
@@ -888,6 +889,7 @@ Updated on 2025-04-17
 | 4 | Unknown | msj9817/GenHancerImage | Updatedabout 6 hours ago | [Link](https://huggingface.co/msj9817/GenHancer) |
 | 3 | Unknown | JingtaoLi/HyperFreeImage | Updatedabout 1 hour ago | [Link](https://huggingface.co/JingtaoLi/HyperFree) |
 | 3 | Unknown | wangyi111/Copernicus-FMImage | Updated3 days ago | [Link](https://huggingface.co/wangyi111/Copernicus-FM) |
+| 1 | Unknown | Nehc/vqgan_imagenet_f16_1024Image | UpdatedMar 2, 2024 | [Link](https://huggingface.co/Nehc/vqgan_imagenet_f16_1024) |
 
 ## Image Segmentation
 
@@ -1211,6 +1213,7 @@ Updated on 2025-04-17
 | 2 | Unknown | kshitij3188/PHOENIX-patent-retrievalImage-to-Image | Updated37 minutes ago | [Link](https://huggingface.co/kshitij3188/PHOENIX-patent-retrieval) |
 | 9 | Unknown | Kim2091/ClearRealityV1Image-to-Image | UpdatedDec 8, 2024 | [Link](https://huggingface.co/Kim2091/ClearRealityV1) |
 | 3 | Unknown | VisualCloze/VisualClozeImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/VisualCloze/VisualCloze) |
+| 3 | Unknown | JunhaoZhuang/CobraImage-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/JunhaoZhuang/Cobra) |
 
 ## Image-to-Text
 
@@ -1724,6 +1727,7 @@ Updated on 2025-04-17
 | 23k | 19 | Lajavaness/bilingual-embedding-largeSentence | UpdatedAug 6, 2024 | [Link](https://huggingface.co/Lajavaness/bilingual-embedding-large) |
 | 629k | 15 | sentence-transformers/use-cmlm-multilingualSentence | Updated18 days ago | [Link](https://huggingface.co/sentence-transformers/use-cmlm-multilingual) |
 | 3.01k | 11 | ibm-granite/granite-embedding-107m-multilingualSentence | Updatedabout 11 hours ago | [Link](https://huggingface.co/ibm-granite/granite-embedding-107m-multilingual) |
+| 28 | 11 | pfnet/plamo-embedding-1bSentence | Updatedabout 10 hours ago | [Link](https://huggingface.co/pfnet/plamo-embedding-1b) |
 | 11.6k | 9 | ibm-granite/granite-embedding-125m-englishSentence | Updated1 day ago | [Link](https://huggingface.co/ibm-granite/granite-embedding-125m-english) |
 | 1.93k | 8 | BlackKakapo/stsb-xlm-r-multilingual-roSentence | UpdatedOct 31, 2024 | [Link](https://huggingface.co/BlackKakapo/stsb-xlm-r-multilingual-ro) |
 | 2.12k | 8 | jinaai/jina-embedding-b-en-v1Sentence | UpdatedJan 6 | [Link](https://huggingface.co/jinaai/jina-embedding-b-en-v1) |
@@ -1802,6 +1806,8 @@ Updated on 2025-04-17
 | 3 | Unknown | nickprock/ModernBERT-base-ita-embed-mnrlSentence | Updatedabout 17 hours ago | [Link](https://huggingface.co/nickprock/ModernBERT-base-ita-embed-mnrl) |
 | 3 | Unknown | TencentBAC/Conan-embedding-v2Sentence | Updatedabout 2 hours ago | [Link](https://huggingface.co/TencentBAC/Conan-embedding-v2) |
 | 5.72k |  | AI-Growth-Lab/PatentSBERTaSentence | UpdatedFeb 16, 2023 | [Link](https://huggingface.co/AI-Growth-Lab/PatentSBERTa) |
+| 35 | Unknown | sentence-transformers/static-retrieval-mrl-en-v1Sentence | UpdatedJan 17 | [Link](https://huggingface.co/sentence-transformers/static-retrieval-mrl-en-v1) |
+| 23 | Unknown | hotchpotch/static-embedding-japaneseSentence | UpdatedFeb 7 | [Link](https://huggingface.co/hotchpotch/static-embedding-japanese) |
 
 ## Summarization
 
@@ -2066,6 +2072,7 @@ Updated on 2025-04-17
 | 145 | 2 | boltuix/bert-liteText | Updatedabout 5 hours ago | [Link](https://huggingface.co/boltuix/bert-lite) |
 | 9 | 2 | TEEN-D/TD-HallOumi-3BText | Updated3 days ago | [Link](https://huggingface.co/TEEN-D/TD-HallOumi-3B) |
 | 7 | 2 | logicalqubit/deberta-v3-large-news-classifierText | Updatedabout 9 hours ago | [Link](https://huggingface.co/logicalqubit/deberta-v3-large-news-classifier) |
+| 17 | 2 | testsavantai/prompt-injection-defender-large-v0Text | UpdatedNov 28, 2024 | [Link](https://huggingface.co/testsavantai/prompt-injection-defender-large-v0) |
 | 24 | 1 | DTAI-KULeuven/mbert-corona-tweets-belgium-topicsText | UpdatedAug 25, 2022 | [Link](https://huggingface.co/DTAI-KULeuven/mbert-corona-tweets-belgium-topics) |
 | 65.8k |  | tabularisai/multilingual-sentiment-analysisText | UpdatedJan 16 | [Link](https://huggingface.co/tabularisai/multilingual-sentiment-analysis) |
 | 1.54M |  | ProsusAI/finbertText | UpdatedMay 23, 2023 | [Link](https://huggingface.co/ProsusAI/finbert) |
@@ -2164,6 +2171,7 @@ Updated on 2025-04-17
 | 125 | 37 | microsoft/Phi-4-mini-instructText | Updatedabout 2 hours ago | [Link](https://huggingface.co/microsoft/Phi-4-mini-instruct) |
 | 3.68k | 35 | arcee-ai/Arcee-Maestro-7B-PreviewText | Updated4 days ago | [Link](https://huggingface.co/arcee-ai/Arcee-Maestro-7B-Preview) |
 | 2.14k | 35 | google/gemma-3-1b-ptText | Updatedabout 17 hours ago | [Link](https://huggingface.co/google/gemma-3-1b-pt) |
+| 1.6k | 35 | Menlo/ReZero-v0 | Updatedabout 3 hours ago | [Link](https://huggingface.co/Menlo/ReZero-v0.1-llama-3.2-3b-it-grpo-250404) |
 | 4.1k | 34 | bartowski/mistralai_Mistral-Small-3 | Updatedabout 18 hours ago | [Link](https://huggingface.co/bartowski/mistralai_Mistral-Small-3.1-24B-Instruct-2503-GGUF) |
 | 566 | 33 | deepcogito/cogito-v1-preview-qwen-14BText | Updated1 day ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-qwen-14B) |
 | 5.81k | 32 | trillionlabs/Trillion-7B-previewText | Updatedabout 3 hours ago | [Link](https://huggingface.co/trillionlabs/Trillion-7B-preview) |
@@ -2437,6 +2445,7 @@ Updated on 2025-04-17
 | 66 | 16 | HiDream-ai/HiDream-I1-FastText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/HiDream-ai/HiDream-I1-Fast) |
 |  | 13 | aaronaftab/mirage-ghibliText-to-Image | Updatedabout 14 hours ago | [Link](https://huggingface.co/aaronaftab/mirage-ghibli) |
 | 4 | 13 | fumeisama/drawatoon-v1Text-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/fumeisama/drawatoon-v1) |
+| 2.1k | 13 | city96/HiDream-I1-Full-ggufText-to-Image | Updated1 day ago | [Link](https://huggingface.co/city96/HiDream-I1-Full-gguf) |
 | 217 | 12 | city96/HiDream-I1-Dev-ggufText-to-Image | Updated1 day ago | [Link](https://huggingface.co/city96/HiDream-I1-Dev-gguf) |
 | 116 | 11 | Efficient-Large-Model/SANA1 | Updatedabout 6 hours ago | [Link](https://huggingface.co/Efficient-Large-Model/SANA1.5_4.8B_1024px) |
 | 687 | 11 | azaneko/HiDream-I1-Full-nf4Text-to-Image | Updated3 days ago | [Link](https://huggingface.co/azaneko/HiDream-I1-Full-nf4) |
@@ -2594,6 +2603,7 @@ Updated on 2025-04-17
 | 31 | 3 | prithivMLmods/Llama-3B-Mono-CeyliaText-to-Speech | Updated6 days ago | [Link](https://huggingface.co/prithivMLmods/Llama-3B-Mono-Ceylia) |
 | 110 | 3 | ewigeki/speecht5_tts_common_voice_ukText-to-Speech | UpdatedNov 14, 2024 | [Link](https://huggingface.co/ewigeki/speecht5_tts_common_voice_uk) |
 | 123 | 3 | SebastianBodza/Kartoffel_Orpheus-3B_german_natural-v0 | Updatedabout 19 hours ago | [Link](https://huggingface.co/SebastianBodza/Kartoffel_Orpheus-3B_german_natural-v0.1) |
+| 197 | 3 | canopylabs/3b-ko-pretrain-research_releaseText-to-Speech | Updated6 days ago | [Link](https://huggingface.co/canopylabs/3b-ko-pretrain-research_release) |
 | 2.36M | 2.41k | coqui/XTTS-v2Text-to-Speech | UpdatedDec 11, 2023 | [Link](https://huggingface.co/coqui/XTTS-v2) |
 | 302 | Unknown | lj1995/GPT-SoVITSText-to-Speech | Updated14 days ago | [Link](https://huggingface.co/lj1995/GPT-SoVITS) |
 | 436 | Unknown | myshell-ai/OpenVoiceText-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoice) |
