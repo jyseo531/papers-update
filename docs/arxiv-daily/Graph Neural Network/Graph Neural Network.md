@@ -24,7 +24,7 @@
 |**2025-04-16**|**Towards Realistic Low-Light Image Enhancement via ISP Driven Data Modeling**|Zhihua Wang et.al.|[2504.12204v1](http://arxiv.org/abs/2504.12204v1)|**2025-04-16**|null|
 |**2025-04-16**|**Beyond Patches: Mining Interpretable Part-Prototypes for Explainable AI**|Mahdi Alehdaghi et.al.|[2504.12197v1](http://arxiv.org/abs/2504.12197v1)|**2025-04-16**|null|
 |**2025-04-16**|**The Optimal Condition Number for ReLU Function**|Yu Xia et.al.|[2504.12194v1](http://arxiv.org/abs/2504.12194v1)|**2025-04-16**|null|
-|**2025-04-16**|**Leave-One-Out Stable Conformal Prediction**|Kiljae Lee et.al.|[2504.12189v1](http://arxiv.org/abs/2504.12189v1)|**2025-04-16**|null|
+|**2025-04-16**|**Leave-One-Out Stable Conformal Prediction**|Kiljae Lee et.al.|[2504.12189v1](http://arxiv.org/abs/2504.12189v1)|**2025-04-16**|[link](https://github.com/KiljaeL/LOO-StabCP)|
 |**2025-04-16**|**Nonequilibrium physics of brain dynamics**|Ramón Nartallo-Kaluarachchi et.al.|[2504.12188v1](http://arxiv.org/abs/2504.12188v1)|**2025-04-16**|null|
 |**2025-04-16**|**What Do Large Language Models Know? Tacit Knowledge as a Potential Causal-Explanatory Structure**|Céline Budding et.al.|[2504.12187v1](http://arxiv.org/abs/2504.12187v1)|**2025-04-16**|null|
 |**2025-04-16**|**Towards asteroseismology of neutron stars with physics-informed neural networks**|Dimitra Tseneklidou et.al.|[2504.12183v1](http://arxiv.org/abs/2504.12183v1)|**2025-04-16**|null|

@@ -10,7 +10,7 @@
 |**2025-04-16**|**Evolutionary Reinforcement Learning for Interpretable Decision-Making in Supply Chain Management**|Stefano Genetti et.al.|[2504.12023v1](http://arxiv.org/abs/2504.12023v1)|**2025-04-16**|null|
 |**2025-04-16**|**Control of Rayleigh-Bénard Convection: Effectiveness of Reinforcement Learning in the Turbulent Regime**|Thorben Markmann et.al.|[2504.12000v1](http://arxiv.org/abs/2504.12000v1)|**2025-04-16**|null|
 |**2025-04-16**|**A Computationally Efficient Algorithm for Infinite-Horizon Average-Reward Linear MDPs**|Kihyuk Hong et.al.|[2504.11997v1](http://arxiv.org/abs/2504.11997v1)|**2025-04-16**|null|
-|**2025-04-16**|**Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions**|Yifei Dong et.al.|[2504.11967v1](http://arxiv.org/abs/2504.11967v1)|**2025-04-16**|null|
+|**2025-04-16**|**Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions**|Yifei Dong et.al.|[2504.11967v2](http://arxiv.org/abs/2504.11967v2)|**2025-04-17**|null|
 |**2025-04-16**|**R-Meshfusion: Reinforcement Learning Powered Sparse-View Mesh Reconstruction with Diffusion Priors**|Haoyang Wang et.al.|[2504.11946v1](http://arxiv.org/abs/2504.11946v1)|**2025-04-16**|null|
 |**2025-04-16**|**VIPO: Value Function Inconsistency Penalized Offline Reinforcement Learning**|Xuyang Chen et.al.|[2504.11944v1](http://arxiv.org/abs/2504.11944v1)|**2025-04-16**|null|
 |**2025-04-16**|**A Graph-Based Reinforcement Learning Approach with Frontier Potential Based Reward for Safe Cluttered Environment Exploration**|Gabriele Calzolari et.al.|[2504.11907v1](http://arxiv.org/abs/2504.11907v1)|**2025-04-16**|null|
@@ -21,7 +21,7 @@
 |**2025-04-15**|**Achieving Tighter Finite-Time Rates for Heterogeneous Federated Stochastic Approximation under Markovian Sampling**|Feng Zhu et.al.|[2504.11645v1](http://arxiv.org/abs/2504.11645v1)|**2025-04-15**|null|
 |**2025-04-15**|**Dueling Deep Reinforcement Learning for Financial Time Series**|Bruno Giorgio et.al.|[2504.11601v1](http://arxiv.org/abs/2504.11601v1)|**2025-04-15**|null|
 |**2025-04-15**|**Multi-Agent Reinforcement Learning for Decentralized Reservoir Management via Murmuration Intelligence**|Heming Fu et.al.|[2504.11569v1](http://arxiv.org/abs/2504.11569v1)|**2025-04-15**|null|
-|**2025-04-15**|**ReTool: Reinforcement Learning for Strategic Tool Use in LLMs**|Jiazhan Feng et.al.|[2504.11536v1](http://arxiv.org/abs/2504.11536v1)|**2025-04-15**|null|
+|**2025-04-15**|**ReTool: Reinforcement Learning for Strategic Tool Use in LLMs**|Jiazhan Feng et.al.|[2504.11536v2](http://arxiv.org/abs/2504.11536v2)|**2025-04-17**|null|
 |**2025-04-15**|**DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning**|Zhiwei He et.al.|[2504.11456v1](http://arxiv.org/abs/2504.11456v1)|**2025-04-15**|null|
 |**2025-04-15**|**A Clean Slate for Offline Reinforcement Learning**|Matthew Thomas Jackson et.al.|[2504.11453v1](http://arxiv.org/abs/2504.11453v1)|**2025-04-15**|null|
 |**2025-04-15**|**Reinforcing Compositional Retrieval: Retrieving Step-by-Step for Composing Informative Contexts**|Quanyu Long et.al.|[2504.11420v1](http://arxiv.org/abs/2504.11420v1)|**2025-04-15**|null|

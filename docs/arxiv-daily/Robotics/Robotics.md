@@ -8,11 +8,11 @@
 |**2025-04-16**|**GripMap: An Efficient, Spatially Resolved Constraint Framework for Offline and Online Trajectory Planning in Autonomous Racing**|Frederik Werner et.al.|[2504.12115v1](http://arxiv.org/abs/2504.12115v1)|**2025-04-16**|null|
 |**2025-04-16**|**An Extended Generalized Prandtl-Ishlinskii Hysteresis Model for I2RIS Robot**|Yiyao Yue et.al.|[2504.12114v1](http://arxiv.org/abs/2504.12114v1)|**2025-04-16**|null|
 |**2025-04-16**|**Self-Supervised Traversability Learning with Online Prototype Adaptation for Off-Road Autonomous Driving**|Yafeng Bu et.al.|[2504.12109v1](http://arxiv.org/abs/2504.12109v1)|**2025-04-16**|null|
-|**2025-04-16**|**Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions**|Yifei Dong et.al.|[2504.11967v1](http://arxiv.org/abs/2504.11967v1)|**2025-04-16**|null|
+|**2025-04-16**|**Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions**|Yifei Dong et.al.|[2504.11967v2](http://arxiv.org/abs/2504.11967v2)|**2025-04-17**|null|
 |**2025-04-16**|**Exploring Video-Based Driver Activity Recognition under Noisy Labels**|Linjuan Fan et.al.|[2504.11966v1](http://arxiv.org/abs/2504.11966v1)|**2025-04-16**|null|
 |**2025-04-16**|**Flow Intelligence: Robust Feature Matching via Temporal Signature Correlation**|Jie Wang et.al.|[2504.11949v1](http://arxiv.org/abs/2504.11949v1)|**2025-04-16**|null|
 |**2025-04-16**|**A Graph-Based Reinforcement Learning Approach with Frontier Potential Based Reward for Safe Cluttered Environment Exploration**|Gabriele Calzolari et.al.|[2504.11907v1](http://arxiv.org/abs/2504.11907v1)|**2025-04-16**|null|
-|**2025-04-16**|**Causality-enhanced Decision-Making for Autonomous Mobile Robots in Dynamic Environments**|Luca Castri et.al.|[2504.11901v1](http://arxiv.org/abs/2504.11901v1)|**2025-04-16**|null|
+|**2025-04-16**|**Causality-enhanced Decision-Making for Autonomous Mobile Robots in Dynamic Environments**|Luca Castri et.al.|[2504.11901v2](http://arxiv.org/abs/2504.11901v2)|**2025-04-17**|null|
 |**2025-04-16**|**CAGS: Open-Vocabulary 3D Scene Understanding with Context-Aware Gaussian Splatting**|Wei Sun et.al.|[2504.11893v1](http://arxiv.org/abs/2504.11893v1)|**2025-04-16**|null|
 |**2025-04-16**|**Real-Time Shape Estimation of Tensegrity Structures Using Strut Inclination Angles**|Tufail Ahmad Bhat et.al.|[2504.11868v1](http://arxiv.org/abs/2504.11868v1)|**2025-04-16**|null|
 |**2025-04-16**|**Towards Forceful Robotic Foundation Models: a Literature Survey**|William Xie et.al.|[2504.11827v1](http://arxiv.org/abs/2504.11827v1)|**2025-04-16**|null|
@@ -21,7 +21,7 @@
 |**2025-04-16**|**GrabS: Generative Embodied Agent for 3D Object Segmentation without Scene Supervision**|Zihui Zhang et.al.|[2504.11754v1](http://arxiv.org/abs/2504.11754v1)|**2025-04-16**|null|
 |**2025-04-16**|**Steerable rolling of a 1-DoF robot using an internal pendulum**|Christopher Y. Xu et.al.|[2504.11748v1](http://arxiv.org/abs/2504.11748v1)|**2025-04-16**|null|
 |**2025-04-16**|**Inversion of biological strategies in engineering technology: in case underwater soft robot**|Siqing Chen et.al.|[2504.11722v1](http://arxiv.org/abs/2504.11722v1)|**2025-04-16**|null|
-|**2025-04-16**|**Safety with Agency: Human-Centered Safety Filter with Application to AI-Assisted Motorsports**|Donggeon David Oh et.al.|[2504.11717v1](http://arxiv.org/abs/2504.11717v1)|**2025-04-16**|null|
+|**2025-04-16**|**Safety with Agency: Human-Centered Safety Filter with Application to AI-Assisted Motorsports**|Donggeon David Oh et.al.|[2504.11717v2](http://arxiv.org/abs/2504.11717v2)|**2025-04-17**|null|
 |**2025-04-16**|**An Online Adaptation Method for Robust Depth Estimation and Visual Odometry in the Open World**|Xingwu Ji et.al.|[2504.11698v1](http://arxiv.org/abs/2504.11698v1)|**2025-04-16**|null|
 |**2025-04-16**|**DM-OSVP++: One-Shot View Planning Using 3D Diffusion Models for Active RGB-Based Object Reconstruction**|Sicong Pan et.al.|[2504.11674v1](http://arxiv.org/abs/2504.11674v1)|**2025-04-16**|null|
 |**2025-04-15**|**Linearity, Time Invariance, and Passivity of a Novice Person in Human Teleoperation**|David Black et.al.|[2504.11653v1](http://arxiv.org/abs/2504.11653v1)|**2025-04-15**|null|

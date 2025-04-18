@@ -11,7 +11,7 @@
 |**2025-04-16**|**Self-alignment of Large Video Language Models with Refined Regularized Preference Optimization**|Pritam Sarkar et.al.|[2504.12083v1](http://arxiv.org/abs/2504.12083v1)|**2025-04-16**|null|
 |**2025-04-16**|**LO2: Microservice API Anomaly Dataset of Logs and Metrics**|Alexander Bakhtin et.al.|[2504.12067v1](http://arxiv.org/abs/2504.12067v1)|**2025-04-16**|null|
 |**2025-04-16**|**FedEPA: Enhancing Personalization and Modality Alignment in Multimodal Federated Learning**|Yu Zhang et.al.|[2504.12025v1](http://arxiv.org/abs/2504.12025v1)|**2025-04-16**|null|
-|**2025-04-16**|**Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions**|Yifei Dong et.al.|[2504.11967v1](http://arxiv.org/abs/2504.11967v1)|**2025-04-16**|null|
+|**2025-04-16**|**Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions**|Yifei Dong et.al.|[2504.11967v2](http://arxiv.org/abs/2504.11967v2)|**2025-04-17**|null|
 |**2025-04-16**|**A Koopman Operator Approach to Data-Driven Control of Semilinear Parabolic Systems**|Joachim Deutscher et.al.|[2504.11959v1](http://arxiv.org/abs/2504.11959v1)|**2025-04-16**|null|
 |**2025-04-16**|**Flow Intelligence: Robust Feature Matching via Temporal Signature Correlation**|Jie Wang et.al.|[2504.11949v1](http://arxiv.org/abs/2504.11949v1)|**2025-04-16**|null|
 |**2025-04-16**|**Search is All You Need for Few-shot Anomaly Detection**|Qishan Wang et.al.|[2504.11895v1](http://arxiv.org/abs/2504.11895v1)|**2025-04-16**|null|
@@ -19,7 +19,7 @@
 |**2025-04-16**|**TextDiffSeg: Text-guided Latent Diffusion Model for 3d Medical Images Segmentation**|Kangbo Ma et.al.|[2504.11825v1](http://arxiv.org/abs/2504.11825v1)|**2025-04-16**|null|
 |**2025-04-16**|**Efficient and Adaptive Simultaneous Speech Translation with Fully Unidirectional Architecture**|Biao Fu et.al.|[2504.11809v1](http://arxiv.org/abs/2504.11809v1)|**2025-04-16**|null|
 |**2025-04-16**|**Multimodal Spatio-temporal Graph Learning for Alignment-free RGBT Video Object Detection**|Qishun Wang et.al.|[2504.11779v1](http://arxiv.org/abs/2504.11779v1)|**2025-04-16**|null|
-|**2025-04-16**|**DVLTA-VQA: Decoupled Vision-Language Modeling with Text-Guided Adaptation for Blind Video Quality Assessment**|Li Yu et.al.|[2504.11733v1](http://arxiv.org/abs/2504.11733v1)|**2025-04-16**|null|
+|**2025-04-16**|**DVLTA-VQA: Decoupled Vision-Language Modeling with Text-Guided Adaptation for Blind Video Quality Assessment**|Li Yu et.al.|[2504.11733v2](http://arxiv.org/abs/2504.11733v2)|**2025-04-17**|null|
 |**2025-04-16**|**Towards Safe Synthetic Image Generation On the Web: A Multimodal Robust NSFW Defense and Million Scale Dataset**|Muhammad Shahid Muneer et.al.|[2504.11707v1](http://arxiv.org/abs/2504.11707v1)|**2025-04-16**|null|
 |**2025-04-16**|**Interpreting the Linear Structure of Vision-language Model Embedding Spaces**|Isabel Papadimitriou et.al.|[2504.11695v1](http://arxiv.org/abs/2504.11695v1)|**2025-04-16**|null|
 |**2025-04-15**|**Generalized probabilistic canonical correlation analysis for multi-modal data integration with full or partial observations**|Tianjian Yang et.al.|[2504.11610v1](http://arxiv.org/abs/2504.11610v1)|**2025-04-15**|null|

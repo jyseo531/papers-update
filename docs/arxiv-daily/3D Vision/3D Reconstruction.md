@@ -22,7 +22,7 @@
 |**2025-04-16**|**Generative Deep Learning Framework for Inverse Design of Fuels**|Kiran K. Yalamanchi et.al.|[2504.12075v1](http://arxiv.org/abs/2504.12075v1)|**2025-04-16**|null|
 |**2025-04-16**|**Resonant x-ray scattering study of charge-density wave correlations in YBa$_{2}$Cu$_{3}$O$_{6+x}$ under uniaxial stress**|S. Nakata et.al.|[2504.12050v1](http://arxiv.org/abs/2504.12050v1)|**2025-04-16**|null|
 |**2025-04-16**|**Balancing Graph Embedding Smoothness in Self-Supervised Learning via Information-Theoretic Decomposition**|Heesoo Jung et.al.|[2504.12011v1](http://arxiv.org/abs/2504.12011v1)|**2025-04-16**|null|
-|**2025-04-16**|**Dual-Energy Cone-Beam CT Using Two Orthogonal Projection Views: A Phantom Study**|Junbo Peng et.al.|[2504.12010v1](http://arxiv.org/abs/2504.12010v1)|**2025-04-16**|null|
+|**2025-04-16**|**Dual-Energy Cone-Beam CT Using Two Orthogonal Projection Views: A Phantom Study**|Junbo Peng et.al.|[2504.12010v2](http://arxiv.org/abs/2504.12010v2)|**2025-04-17**|null|
 |**2025-04-16**|**A Complex-valued SAR Foundation Model Based on Physically Inspired Representation Learning**|Mengyu Wang et.al.|[2504.11999v1](http://arxiv.org/abs/2504.11999v1)|**2025-04-16**|null|
 |**2025-04-16**|**Epstein zeta method for many-body lattice sums**|Andreas A. Buchheit et.al.|[2504.11989v1](http://arxiv.org/abs/2504.11989v1)|**2025-04-16**|null|
 |**2025-04-16**|**Characterizing physical and logical errors in a transversal CNOT via cycle error reconstruction**|Nicholas Fazio et.al.|[2504.11980v1](http://arxiv.org/abs/2504.11980v1)|**2025-04-16**|null|

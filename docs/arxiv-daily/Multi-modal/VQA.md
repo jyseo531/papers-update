@@ -29,6 +29,6 @@
 |**2025-04-16**|**Semiparametric Causal Discovery and Inference with Invalid Instruments**|Jing Zou et.al.|[2504.12085v1](http://arxiv.org/abs/2504.12085v1)|**2025-04-16**|null|
 |**2025-04-16**|**Self-alignment of Large Video Language Models with Refined Regularized Preference Optimization**|Pritam Sarkar et.al.|[2504.12083v1](http://arxiv.org/abs/2504.12083v1)|**2025-04-16**|null|
 |**2025-04-16**|**Coincident onset of charge order and pseudogap in a homogeneous high-temperature superconductor**|D. Betto et.al.|[2504.12077v1](http://arxiv.org/abs/2504.12077v1)|**2025-04-16**|null|
-|**2025-04-16**|**Bayesian dynamic borrowing considering semantic similarity between outcomes for disproportionality analysis in FAERS**|François Haguinet et.al.|[2504.12052v1](http://arxiv.org/abs/2504.12052v1)|**2025-04-16**|null|
+|**2025-04-16**|**Bayesian dynamic borrowing considering semantic similarity between outcomes for disproportionality analysis in FAERS**|François Haguinet et.al.|[2504.12052v2](http://arxiv.org/abs/2504.12052v2)|**2025-04-17**|null|
 |**2025-04-16**|**Neumaier graphs from cyclotomy with small coherent rank**|Gary R. W. Greaves et.al.|[2504.12026v1](http://arxiv.org/abs/2504.12026v1)|**2025-04-16**|null|
 |**2025-04-16**|**Instruction-augmented Multimodal Alignment for Image-Text and Element Matching**|Xinli Yue et.al.|[2504.12018v1](http://arxiv.org/abs/2504.12018v1)|**2025-04-16**|null|

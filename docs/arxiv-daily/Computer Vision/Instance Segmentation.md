@@ -12,7 +12,7 @@
 |**2025-04-16**|**Weakly Semi-supervised Whole Slide Image Classification by Two-level Cross Consistency Supervision**|Linhao Qu et.al.|[2504.12132v1](http://arxiv.org/abs/2504.12132v1)|**2025-04-16**|null|
 |**2025-04-16**|**Remote sensing colour image semantic segmentation of trails created by large herbivorous Mammals**|Jose Francisco Diez-Pastor et.al.|[2504.12121v1](http://arxiv.org/abs/2504.12121v1)|**2025-04-16**|null|
 |**2025-04-16**|**Max-Cut graph-driven quantum circuit design for planar spin glasses**|Seyed Ehsan Ghasempouri et.al.|[2504.12096v1](http://arxiv.org/abs/2504.12096v1)|**2025-04-16**|null|
-|**2025-04-16**|**DC-SAM: In-Context Segment Anything in Images and Videos via Dual Consistency**|Mengshi Qi et.al.|[2504.12080v1](http://arxiv.org/abs/2504.12080v1)|**2025-04-16**|null|
+|**2025-04-16**|**DC-SAM: In-Context Segment Anything in Images and Videos via Dual Consistency**|Mengshi Qi et.al.|[2504.12080v2](http://arxiv.org/abs/2504.12080v2)|**2025-04-17**|null|
 |**2025-04-16**|**Single-shot Star-convex Polygon-based Instance Segmentation for Spatially-correlated Biomedical Objects**|Trina De et.al.|[2504.12078v1](http://arxiv.org/abs/2504.12078v1)|**2025-04-16**|null|
 |**2025-04-16**|**pix2pockets: Shot Suggestions in 8-Ball Pool from a Single Image in the Wild**|Jonas Myhre Schiøtt et.al.|[2504.12045v1](http://arxiv.org/abs/2504.12045v1)|**2025-04-16**|null|
 |**2025-04-16**|**Active Human Feedback Collection via Neural Contextual Dueling Bandits**|Arun Verma et.al.|[2504.12016v1](http://arxiv.org/abs/2504.12016v1)|**2025-04-16**|null|
