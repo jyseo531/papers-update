@@ -27,7 +27,7 @@
 |**2025-04-17**|**Hopf Exceptional Points**|Tsuneya Yoshida et.al.|[2504.13012v1](http://arxiv.org/abs/2504.13012v1)|**2025-04-17**|null|
 |**2025-04-17**|**Two-loop Feynman integrals for leading colour $t\bar{t}W$ production at hadron colliders**|Matteo Becchetti et.al.|[2504.13011v1](http://arxiv.org/abs/2504.13011v1)|**2025-04-17**|null|
 |**2025-04-17**|**Time-Varying Spectrum of the Random String**|Lorenzo Galleani et.al.|[2504.12995v1](http://arxiv.org/abs/2504.12995v1)|**2025-04-17**|null|
-|**2025-04-17**|**A Phenomenological Approach to Analyzing User Queries in IT Systems Using Heidegger's Fundamental Ontology**|Maksim Vishnevskiy et.al.|[2504.12977v1](http://arxiv.org/abs/2504.12977v1)|**2025-04-17**|null|
+|**2025-04-17**|**A Phenomenological Approach to Analyzing User Queries in IT Systems Using Heidegger's Fundamental Ontology**|Maksim Vishnevskiy et.al.|[2504.12977v1](http://arxiv.org/abs/2504.12977v1)|**2025-04-17**|[link](https://zenodo.org/record/15241370)|
 |**2025-04-17**|**Vision and Language Integration for Domain Generalization**|Yanmei Wang et.al.|[2504.12966v1](http://arxiv.org/abs/2504.12966v1)|**2025-04-17**|null|
 |**2025-04-17**|**Phenomenology of Inverse Seesaw Using $S_3$ Modular Symmetry**|Mitesh Kumar Behera et.al.|[2504.12954v1](http://arxiv.org/abs/2504.12954v1)|**2025-04-17**|null|
 |**2025-04-17**|**Tensor-monopole-induced topological boundary effects in four-dimensional acoustic metamaterials**|Qingyang Mo et.al.|[2504.12950v1](http://arxiv.org/abs/2504.12950v1)|**2025-04-17**|null|

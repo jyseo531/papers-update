@@ -1371,6 +1371,7 @@ Updated on 2025-04-18
 | 195 | Unknown | wangfuyun/AnimateLCM-SVD-xtImage-to-Video | UpdatedFeb 27, 2024 | [Link](https://huggingface.co/wangfuyun/AnimateLCM-SVD-xt) |
 | 2 | Unknown | ighoshsubho/Wan-I2V-LoRA-KissImage-to-Video | Updated15 days ago | [Link](https://huggingface.co/ighoshsubho/Wan-I2V-LoRA-Kiss) |
 | 1 | Unknown | Miguel46/Swap_faceImage-to-Video | UpdatedJun 28, 2024 | [Link](https://huggingface.co/Miguel46/Swap_face) |
+| 2 | Unknown | ZheWang123/UniAnimate-DiTImage-to-Video | Updated1 day ago | [Link](https://huggingface.co/ZheWang123/UniAnimate-DiT) |
 
 ## Keypoint Detection
 
