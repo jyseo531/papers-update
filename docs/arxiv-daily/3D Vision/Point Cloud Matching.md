@@ -2,33 +2,33 @@
 ### Point Cloud Matching
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-16**|**Adapting a World Model for Trajectory Following in a 3D Game**|Marko Tot et.al.|[2504.12299v1](http://arxiv.org/abs/2504.12299v1)|**2025-04-16**|null|
-|**2025-04-16**|**SHeaP: Self-Supervised Head Geometry Predictor Learned via 2D Gaussians**|Liam Schoneveld et.al.|[2504.12292v1](http://arxiv.org/abs/2504.12292v1)|**2025-04-16**|null|
-|**2025-04-16**|**A finite Carrollian critical point**|Jordan Cotler et.al.|[2504.12289v1](http://arxiv.org/abs/2504.12289v1)|**2025-04-16**|null|
-|**2025-04-16**|**Trend Filtered Mixture of Experts for Automated Gating of High-Frequency Flow Cytometry Data**|Sangwon Hyun et.al.|[2504.12287v1](http://arxiv.org/abs/2504.12287v1)|**2025-04-16**|null|
-|**2025-04-16**|**How Do I Do That? Synthesizing 3D Hand Motion and Contacts for Everyday Interactions**|Aditya Prakash et.al.|[2504.12284v1](http://arxiv.org/abs/2504.12284v1)|**2025-04-16**|null|
-|**2025-04-16**|**Dysarthria Normalization via Local Lie Group Transformations for Robust ASR**|Mikhail Osipov et.al.|[2504.12279v1](http://arxiv.org/abs/2504.12279v1)|**2025-04-16**|null|
-|**2025-04-16**|**The rank evolution of block bidiagonal matrices over finite fields**|András Mészáros et.al.|[2504.12275v1](http://arxiv.org/abs/2504.12275v1)|**2025-04-16**|null|
-|**2025-04-16**|**A complete theory of the Clifford commutant**|Lennart Bittel et.al.|[2504.12263v1](http://arxiv.org/abs/2504.12263v1)|**2025-04-16**|null|
-|**2025-04-16**|**Exceptional deficiency of non-Hermitian systems: high-dimensional coalescence and dynamics**|Zhen Li et.al.|[2504.12238v1](http://arxiv.org/abs/2504.12238v1)|**2025-04-16**|null|
-|**2025-04-16**|**MOS: Towards Effective Smart Contract Vulnerability Detection through Mixture-of-Experts Tuning of Large Language Models**|Hang Yuan et.al.|[2504.12234v1](http://arxiv.org/abs/2504.12234v1)|**2025-04-16**|null|
-|**2025-04-16**|**zkVC: Fast Zero-Knowledge Proof for Private and Verifiable Computing**|Yancheng Zhang et.al.|[2504.12217v1](http://arxiv.org/abs/2504.12217v1)|**2025-04-16**|null|
-|**2025-04-16**|**CoMotion: Concurrent Multi-person 3D Motion**|Alejandro Newell et.al.|[2504.12186v1](http://arxiv.org/abs/2504.12186v1)|**2025-04-16**|null|
-|**2025-04-16**|**Domains, Information Frames, and Their Logic**|Dieter Spreen et.al.|[2504.12182v1](http://arxiv.org/abs/2504.12182v1)|**2025-04-16**|null|
-|**2025-04-16**|**Approximation Bounds for Transformer Networks with Application to Regression**|Yuling Jiao et.al.|[2504.12175v1](http://arxiv.org/abs/2504.12175v1)|**2025-04-16**|null|
-|**2025-04-16**|**On the counting function of cubic function fields**|Victor Ahlquist et.al.|[2504.12160v1](http://arxiv.org/abs/2504.12160v1)|**2025-04-16**|null|
-|**2025-04-16**|**PINNs for Solving Unsteady Maxwell's Equations: Convergence Issues and Comparative Assessment with Compact Schemes**|Gal G. Shaviner et.al.|[2504.12144v1](http://arxiv.org/abs/2504.12144v1)|**2025-04-16**|null|
-|**2025-04-16**|**Equidistribution of CM points on Shimura Curves and ternary theta series**|Francesco Maria Saettone et.al.|[2504.12131v1](http://arxiv.org/abs/2504.12131v1)|**2025-04-16**|null|
-|**2025-04-16**|**A Diffusion-Based Framework for Terrain-Aware Remote Sensing Image Reconstruction**|Zhenyu Yu et.al.|[2504.12112v1](http://arxiv.org/abs/2504.12112v1)|**2025-04-16**|null|
-|**2025-04-16**|**Generalized Visual Relation Detection with Diffusion Models**|Kaifeng Gao et.al.|[2504.12100v1](http://arxiv.org/abs/2504.12100v1)|**2025-04-16**|null|
-|**2025-04-16**|**Activity-Induced Near-Infrared Variability at 29P/Schwassmann-Wachmann 1, 2017-2022**|Theodore Kareta et.al.|[2504.12097v1](http://arxiv.org/abs/2504.12097v1)|**2025-04-16**|null|
-|**2025-04-16**|**Green's functions of the fractional Laplacian on a square -- boundary considerations and applications to the Lévy flight narrow capture problem**|Justin C. Tzou et.al.|[2504.12084v1](http://arxiv.org/abs/2504.12084v1)|**2025-04-16**|null|
-|**2025-04-16**|**Massive Star Clusters in the Semi-Analytical Galaxy Formation Model L-Galaxies 2020**|Nils Hoyer et.al.|[2504.12079v1](http://arxiv.org/abs/2504.12079v1)|**2025-04-16**|null|
-|**2025-04-16**|**Time Advance in PT-Symmetric Quantum Mechanics and Negative Time Delay**|Philip D. Mannheim et.al.|[2504.12068v1](http://arxiv.org/abs/2504.12068v1)|**2025-04-16**|null|
-|**2025-04-16**|**Modular-Cam: Modular Dynamic Camera-view Video Generation with LLM**|Zirui Pan et.al.|[2504.12048v1](http://arxiv.org/abs/2504.12048v1)|**2025-04-16**|null|
-|**2025-04-16**|**Non-local Wasserstein Geometry, Gradient Flows, and Functional Inequalities for Stationary Point Processes**|Martin Huesmann et.al.|[2504.12047v1](http://arxiv.org/abs/2504.12047v1)|**2025-04-16**|null|
-|**2025-04-16**|**Anatomy of the simplest renormalon**|Marcos Marino et.al.|[2504.12044v1](http://arxiv.org/abs/2504.12044v1)|**2025-04-16**|null|
-|**2025-04-16**|**Fluctuation induced network patterns in active matter with spatially correlated noise**|Sebastian Fehlinger et.al.|[2504.12041v1](http://arxiv.org/abs/2504.12041v1)|**2025-04-16**|null|
-|**2025-04-16**|**RadMamba: Efficient Human Activity Recognition through Radar-based Micro-Doppler-Oriented Mamba State-Space Model**|Yizhuo Wu et.al.|[2504.12039v1](http://arxiv.org/abs/2504.12039v1)|**2025-04-16**|null|
-|**2025-04-16**|**Periodic Potential for Point Defects in a 2D Hexagonal Colloidal Lattice**|Huang Xicheng et.al.|[2504.12038v1](http://arxiv.org/abs/2504.12038v1)|**2025-04-16**|null|
-|**2025-04-16**|**Combining Declarative and Linear Programming for Application Management in the Cloud-Edge Continuum**|Jacopo Massa et.al.|[2504.12032v1](http://arxiv.org/abs/2504.12032v1)|**2025-04-16**|null|
+|**2025-04-17**|**Aligning Constraint Generation with Design Intent in Parametric CAD**|Evan Casey et.al.|[2504.13178v1](http://arxiv.org/abs/2504.13178v1)|**2025-04-17**|null|
+|**2025-04-17**|**Quantum algorithm for solving nonlinear differential equations based on physics-informed effective Hamiltonians**|Hsin-Yu Wu et.al.|[2504.13174v1](http://arxiv.org/abs/2504.13174v1)|**2025-04-17**|null|
+|**2025-04-17**|**SemCORE: A Semantic-Enhanced Generative Cross-Modal Retrieval Framework with MLLMs**|Haoxuan Li et.al.|[2504.13172v1](http://arxiv.org/abs/2504.13172v1)|**2025-04-17**|null|
+|**2025-04-17**|**Testing for dice control at craps**|Stewart N. Ethier et.al.|[2504.13158v1](http://arxiv.org/abs/2504.13158v1)|**2025-04-17**|null|
+|**2025-04-17**|**AerialMegaDepth: Learning Aerial-Ground Reconstruction and View Synthesis**|Khiem Vuong et.al.|[2504.13157v1](http://arxiv.org/abs/2504.13157v1)|**2025-04-17**|null|
+|**2025-04-17**|**St4RTrack: Simultaneous 4D Reconstruction and Tracking in the World**|Haiwen Feng et.al.|[2504.13152v1](http://arxiv.org/abs/2504.13152v1)|**2025-04-17**|null|
+|**2025-04-17**|**Extending the Mott-Gurney law to one-dimensional nonplanar diodes using point transformations**|Allen L. Garner et.al.|[2504.13138v1](http://arxiv.org/abs/2504.13138v1)|**2025-04-17**|null|
+|**2025-04-17**|**Probing CP-Violating Neutral Triple Gauge Couplings at Electron-Positron Colliders**|John Ellis et.al.|[2504.13135v1](http://arxiv.org/abs/2504.13135v1)|**2025-04-17**|null|
+|**2025-04-17**|**Probing and Inducing Combinational Creativity in Vision-Language Models**|Yongqian Peng et.al.|[2504.13120v1](http://arxiv.org/abs/2504.13120v1)|**2025-04-17**|null|
+|**2025-04-17**|**CEERS: Forging the First Dust Grains in the Universe? A Population of Galaxies with spectroscopically-derived Extremely Low Dust Attenuation (GELDA) at 4.0<z<11.4**|Denis Burgarella et.al.|[2504.13118v1](http://arxiv.org/abs/2504.13118v1)|**2025-04-17**|null|
+|**2025-04-17**|**UniEdit-Flow: Unleashing Inversion and Editing in the Era of Flow Models**|Guanlong Jiao et.al.|[2504.13109v1](http://arxiv.org/abs/2504.13109v1)|**2025-04-17**|null|
+|**2025-04-17**|**Intersection of non-degenerate Hermitian variety and cubic hypersurface**|Subrata Manna et.al.|[2504.13106v1](http://arxiv.org/abs/2504.13106v1)|**2025-04-17**|null|
+|**2025-04-17**|**The RESOLVE and ECO G3 Initiative: Drivers of HI Content and X-ray Emission in Galaxy Groups**|Zackary L. Hutchens et.al.|[2504.13103v1](http://arxiv.org/abs/2504.13103v1)|**2025-04-17**|null|
+|**2025-04-17**|**Kato-Kuzumaki's properties for function fields over higher local fields**|Felipe Gambardella et.al.|[2504.13100v1](http://arxiv.org/abs/2504.13100v1)|**2025-04-17**|null|
+|**2025-04-17**|**A lattice point counting approach for the study of the number of self-avoiding walks on $\mathbb{Z}^{d}$**|Youssef Lazar et.al.|[2504.13093v1](http://arxiv.org/abs/2504.13093v1)|**2025-04-17**|null|
+|**2025-04-17**|**Combination and interpretation of differential Higgs boson production cross sections in proton-proton collisions at $\sqrt{s}$ = 13 TeV**|CMS Collaboration et.al.|[2504.13081v1](http://arxiv.org/abs/2504.13081v1)|**2025-04-17**|null|
+|**2025-04-17**|**Instability and stress fluctuations of a probe driven through a worm-like micellar fluid**|Abhishek Ghadai et.al.|[2504.13080v1](http://arxiv.org/abs/2504.13080v1)|**2025-04-17**|null|
+|**2025-04-17**|**Retrieval-Augmented Generation with Conflicting Evidence**|Han Wang et.al.|[2504.13079v1](http://arxiv.org/abs/2504.13079v1)|**2025-04-17**|null|
+|**2025-04-17**|**Variance-Reduced Fast Operator Splitting Methods for Stochastic Generalized Equations**|Quoc Tran-Dinh et.al.|[2504.13046v1](http://arxiv.org/abs/2504.13046v1)|**2025-04-17**|null|
+|**2025-04-17**|**Evidence for sulfur chemistry in the atmosphere of the warm sub-Neptune TOI-270 d**|Lukas Felix et.al.|[2504.13039v1](http://arxiv.org/abs/2504.13039v1)|**2025-04-17**|null|
+|**2025-04-17**|**Riemannian Patch Assignment Gradient Flows**|Daniel Gonzalez-Alvarado et.al.|[2504.13024v1](http://arxiv.org/abs/2504.13024v1)|**2025-04-17**|null|
+|**2025-04-17**|**Hierarchical Feature Learning for Medical Point Clouds via State Space Model**|Guoqing Zhang et.al.|[2504.13015v1](http://arxiv.org/abs/2504.13015v1)|**2025-04-17**|null|
+|**2025-04-17**|**Hopf Exceptional Points**|Tsuneya Yoshida et.al.|[2504.13012v1](http://arxiv.org/abs/2504.13012v1)|**2025-04-17**|null|
+|**2025-04-17**|**Phenomenology of Inverse Seesaw Using $S_3$ Modular Symmetry**|Mitesh Kumar Behera et.al.|[2504.12954v1](http://arxiv.org/abs/2504.12954v1)|**2025-04-17**|null|
+|**2025-04-17**|**Tensor-monopole-induced topological boundary effects in four-dimensional acoustic metamaterials**|Qingyang Mo et.al.|[2504.12950v1](http://arxiv.org/abs/2504.12950v1)|**2025-04-17**|null|
+|**2025-04-17**|**RL-PINNs: Reinforcement Learning-Driven Adaptive Sampling for Efficient Training of PINNs**|Zhenao Song et.al.|[2504.12949v1](http://arxiv.org/abs/2504.12949v1)|**2025-04-17**|null|
+|**2025-04-17**|**Dynamical relationship between CAR algebras and determinantal point processes: point processes at finite temperature and stochastically positive KMS systems**|Ryosuke Sato et.al.|[2504.12935v1](http://arxiv.org/abs/2504.12935v1)|**2025-04-17**|null|
+|**2025-04-17**|**Eigenvalue distribution in gaps of the essential spectrum of the Bochner-Schrödinger operator**|Yuri A. Kordyukov et.al.|[2504.12928v1](http://arxiv.org/abs/2504.12928v1)|**2025-04-17**|null|
+|**2025-04-17**|**Exact Learning Dynamics of In-Context Learning in Linear Transformers and Its Application to Non-Linear Transformers**|Nischal Mainali et.al.|[2504.12916v1](http://arxiv.org/abs/2504.12916v1)|**2025-04-17**|null|
+|**2025-04-17**|**Real-time High-fidelity Gaussian Human Avatars with Position-based Interpolation of Spatially Distributed MLPs**|Youyi Zhan et.al.|[2504.12909v1](http://arxiv.org/abs/2504.12909v1)|**2025-04-17**|null|

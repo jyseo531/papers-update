@@ -2,33 +2,33 @@
 ### Image Classification
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-16**|**SHeaP: Self-Supervised Head Geometry Predictor Learned via 2D Gaussians**|Liam Schoneveld et.al.|[2504.12292v1](http://arxiv.org/abs/2504.12292v1)|**2025-04-16**|null|
-|**2025-04-16**|**The Tenth NTIRE 2025 Image Denoising Challenge Report**|Lei Sun et.al.|[2504.12276v1](http://arxiv.org/abs/2504.12276v1)|**2025-04-16**|null|
-|**2025-04-16**|**Beyond Reconstruction: A Physics Based Neural Deferred Shader for Photo-realistic Rendering**|Zhuo He et.al.|[2504.12273v1](http://arxiv.org/abs/2504.12273v1)|**2025-04-16**|null|
-|**2025-04-16**|**Correlation Ratio for Unsupervised Learning of Multi-modal Deformable Registration**|Xiaojian Chen et.al.|[2504.12265v1](http://arxiv.org/abs/2504.12265v1)|**2025-04-16**|null|
-|**2025-04-16**|**FLIP Reasoning Challenge**|Andreas Plesner et.al.|[2504.12256v1](http://arxiv.org/abs/2504.12256v1)|**2025-04-16**|null|
-|**2025-04-16**|**Human Aligned Compression for Robust Models**|Samuel Räber et.al.|[2504.12255v1](http://arxiv.org/abs/2504.12255v1)|**2025-04-16**|null|
-|**2025-04-16**|**Comparative Evaluation of Radiomics and Deep Learning Models for Disease Detection in Chest Radiography**|Zhijin He et.al.|[2504.12249v1](http://arxiv.org/abs/2504.12249v1)|**2025-04-16**|null|
-|**2025-04-16**|**SIDME: Self-supervised Image Demoiréing via Masked Encoder-Decoder Reconstruction**|Xia Wang et.al.|[2504.12245v1](http://arxiv.org/abs/2504.12245v1)|**2025-04-16**|null|
-|**2025-04-16**|**Cobra: Efficient Line Art COlorization with BRoAder References**|Junhao Zhuang et.al.|[2504.12240v1](http://arxiv.org/abs/2504.12240v1)|**2025-04-16**|null|
-|**2025-04-16**|**Stereoscopic Cylindrical Screen (SCS) Projection**|Lim Ngian Xin Terry et.al.|[2504.12237v1](http://arxiv.org/abs/2504.12237v1)|**2025-04-16**|null|
-|**2025-04-16**|**Narrowband Imaging of a z=3.24 Protocluster: Insights from [O III] Emitting Galaxies**|Ke Shi et.al.|[2504.12225v1](http://arxiv.org/abs/2504.12225v1)|**2025-04-16**|null|
-|**2025-04-16**|**Finite GK-dimensional pre-Nichols algebras and quasi-quantum groups**|Yuping Yang et.al.|[2504.12206v1](http://arxiv.org/abs/2504.12206v1)|**2025-04-16**|null|
-|**2025-04-16**|**Towards Realistic Low-Light Image Enhancement via ISP Driven Data Modeling**|Zhihua Wang et.al.|[2504.12204v1](http://arxiv.org/abs/2504.12204v1)|**2025-04-16**|null|
-|**2025-04-16**|**Modality-Independent Explainable Detection of Inaccurate Organ Segmentations Using Denoising Autoencoders**|Levente Lippenszky et.al.|[2504.12203v1](http://arxiv.org/abs/2504.12203v1)|**2025-04-16**|null|
-|**2025-04-16**|**Monotonicity formulas for minimal submanifolds involving Möbius transformations**|Doanh Pham et.al.|[2504.12199v1](http://arxiv.org/abs/2504.12199v1)|**2025-04-16**|null|
-|**2025-04-16**|**Beyond Patches: Mining Interpretable Part-Prototypes for Explainable AI**|Mahdi Alehdaghi et.al.|[2504.12197v1](http://arxiv.org/abs/2504.12197v1)|**2025-04-16**|null|
-|**2025-04-16**|**CoMotion: Concurrent Multi-person 3D Motion**|Alejandro Newell et.al.|[2504.12186v1](http://arxiv.org/abs/2504.12186v1)|**2025-04-16**|null|
-|**2025-04-16**|**SALAD: Improving Robustness and Generalization through Contrastive Learning with Structure-Aware and LLM-Driven Augmented Data**|Suyoung Bae et.al.|[2504.12185v1](http://arxiv.org/abs/2504.12185v1)|**2025-04-16**|null|
-|**2025-04-16**|**Trusting CHATGPT: how minor tweaks in the prompts lead to major differences in sentiment classification**|Jaime E. Cuellar et.al.|[2504.12180v1](http://arxiv.org/abs/2504.12180v1)|**2025-04-16**|null|
-|**2025-04-16**|**Poem Meter Classification of Recited Arabic Poetry: Integrating High-Resource Systems for a Low-Resource Task**|Maged S. Al-Shaibani et.al.|[2504.12172v1](http://arxiv.org/abs/2504.12172v1)|**2025-04-16**|null|
-|**2025-04-16**|**Towards a General-Purpose Zero-Shot Synthetic Low-Light Image and Video Pipeline**|Joanne Lin et.al.|[2504.12169v1](http://arxiv.org/abs/2504.12169v1)|**2025-04-16**|null|
-|**2025-04-16**|**RADLER: Radar Object Detection Leveraging Semantic 3D City Models and Self-Supervised Radar-Image Learning**|Yuan Luo et.al.|[2504.12167v1](http://arxiv.org/abs/2504.12167v1)|**2025-04-16**|null|
-|**2025-04-16**|**Predictive Multiplicity in Survival Models: A Method for Quantifying Model Uncertainty in Predictive Maintenance Applications**|Mustafa Cavus et.al.|[2504.12156v1](http://arxiv.org/abs/2504.12156v1)|**2025-04-16**|null|
-|**2025-04-16**|**Deep Generative Models for Bayesian Inference on High-Rate Sensor Data: Applications in Automotive Radar and Medical Imaging**|Tristan S. W. Stevens et.al.|[2504.12154v1](http://arxiv.org/abs/2504.12154v1)|**2025-04-16**|null|
-|**2025-04-16**|**Coherent EUV scatterometry of 2D periodic structure profiles with mathematically optimal experimental design**|Clay Klein et.al.|[2504.12133v1](http://arxiv.org/abs/2504.12133v1)|**2025-04-16**|null|
-|**2025-04-16**|**Weakly Semi-supervised Whole Slide Image Classification by Two-level Cross Consistency Supervision**|Linhao Qu et.al.|[2504.12132v1](http://arxiv.org/abs/2504.12132v1)|**2025-04-16**|null|
-|**2025-04-16**|**Anti-Aesthetics: Protecting Facial Privacy against Customized Text-to-Image Synthesis**|Songping Wang et.al.|[2504.12129v1](http://arxiv.org/abs/2504.12129v1)|**2025-04-16**|null|
-|**2025-04-16**|**Remote sensing colour image semantic segmentation of trails created by large herbivorous Mammals**|Jose Francisco Diez-Pastor et.al.|[2504.12121v1](http://arxiv.org/abs/2504.12121v1)|**2025-04-16**|null|
-|**2025-04-16**|**A Diffusion-Based Framework for Terrain-Aware Remote Sensing Image Reconstruction**|Zhenyu Yu et.al.|[2504.12112v1](http://arxiv.org/abs/2504.12112v1)|**2025-04-16**|null|
-|**2025-04-16**|**Logits DeConfusion with CLIP for Few-Shot Learning**|Shuo Li et.al.|[2504.12104v1](http://arxiv.org/abs/2504.12104v1)|**2025-04-16**|null|
+|**2025-04-17**|**Perception Encoder: The best visual embeddings are not at the output of the network**|Daniel Bolya et.al.|[2504.13181v1](http://arxiv.org/abs/2504.13181v1)|**2025-04-17**|null|
+|**2025-04-17**|**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**|Jang Hyun Cho et.al.|[2504.13180v1](http://arxiv.org/abs/2504.13180v1)|**2025-04-17**|null|
+|**2025-04-17**|**Single-Shot Shape and Reflectance with Spatial Polarization Multiplexing**|Tomoki Ichikawa et.al.|[2504.13177v1](http://arxiv.org/abs/2504.13177v1)|**2025-04-17**|null|
+|**2025-04-17**|**Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation**|Sizhe Yang et.al.|[2504.13175v1](http://arxiv.org/abs/2504.13175v1)|**2025-04-17**|null|
+|**2025-04-17**|**SemCORE: A Semantic-Enhanced Generative Cross-Modal Retrieval Framework with MLLMs**|Haoxuan Li et.al.|[2504.13172v1](http://arxiv.org/abs/2504.13172v1)|**2025-04-17**|null|
+|**2025-04-17**|**Experimental Verification of Electron-Photon Entanglement**|Alexander Preimesberger et.al.|[2504.13163v1](http://arxiv.org/abs/2504.13163v1)|**2025-04-17**|null|
+|**2025-04-17**|**Personalized Text-to-Image Generation with Auto-Regressive Models**|Kaiyue Sun et.al.|[2504.13162v1](http://arxiv.org/abs/2504.13162v1)|**2025-04-17**|null|
+|**2025-04-17**|**AerialMegaDepth: Learning Aerial-Ground Reconstruction and View Synthesis**|Khiem Vuong et.al.|[2504.13157v1](http://arxiv.org/abs/2504.13157v1)|**2025-04-17**|null|
+|**2025-04-17**|**Readable Twins of Unreadable Models**|Krzysztof Pancerz et.al.|[2504.13150v1](http://arxiv.org/abs/2504.13150v1)|**2025-04-17**|null|
+|**2025-04-17**|**Long Range Navigator (LRN): Extending robot planning horizons beyond metric maps**|Matt Schmittle et.al.|[2504.13149v1](http://arxiv.org/abs/2504.13149v1)|**2025-04-17**|null|
+|**2025-04-17**|**$\texttt{Complex-Edit}$: CoT-Like Instruction Generation for Complexity-Controllable Image Editing Benchmark**|Siwei Yang et.al.|[2504.13143v1](http://arxiv.org/abs/2504.13143v1)|**2025-04-17**|null|
+|**2025-04-17**|**PCBEAR: Pose Concept Bottleneck for Explainable Action Recognition**|Jongseo Lee et.al.|[2504.13140v1](http://arxiv.org/abs/2504.13140v1)|**2025-04-17**|null|
+|**2025-04-17**|**NTIRE 2025 Challenge on Short-form UGC Video Quality Assessment and Enhancement: Methods and Results**|Xin Li et.al.|[2504.13131v1](http://arxiv.org/abs/2504.13131v1)|**2025-04-17**|null|
+|**2025-04-17**|**Science-T2I: Addressing Scientific Illusions in Image Synthesis**|Jialuo Li et.al.|[2504.13129v1](http://arxiv.org/abs/2504.13129v1)|**2025-04-17**|null|
+|**2025-04-17**|**Spatial Confidence Regions for Excursion Sets with False Discovery Rate Control**|Howon Ryu et.al.|[2504.13124v1](http://arxiv.org/abs/2504.13124v1)|**2025-04-17**|null|
+|**2025-04-17**|**Low-hallucination Synthetic Captions for Large-Scale Vision-Language Model Pre-training**|Xinsong Zhang et.al.|[2504.13123v1](http://arxiv.org/abs/2504.13123v1)|**2025-04-17**|null|
+|**2025-04-17**|**Predicting BVD Re-emergence in Irish Cattle From Highly Imbalanced Herd-Level Data Using Machine Learning Algorithms**|Niamh Mimnagh et.al.|[2504.13116v1](http://arxiv.org/abs/2504.13116v1)|**2025-04-17**|null|
+|**2025-04-17**|**Hadamard product in deep learning: Introduction, Advances and Challenges**|Grigorios G Chrysos et.al.|[2504.13112v1](http://arxiv.org/abs/2504.13112v1)|**2025-04-17**|null|
+|**2025-04-17**|**Uncertainty-Aware Trajectory Prediction via Rule-Regularized Heteroscedastic Deep Classification**|Kumar Manas et.al.|[2504.13111v1](http://arxiv.org/abs/2504.13111v1)|**2025-04-17**|null|
+|**2025-04-17**|**UniEdit-Flow: Unleashing Inversion and Editing in the Era of Flow Models**|Guanlong Jiao et.al.|[2504.13109v1](http://arxiv.org/abs/2504.13109v1)|**2025-04-17**|null|
+|**2025-04-17**|**A Multi-task Learning Balanced Attention Convolutional Neural Network Model for Few-shot Underwater Acoustic Target Recognition**|Wei Huang et.al.|[2504.13102v1](http://arxiv.org/abs/2504.13102v1)|**2025-04-17**|null|
+|**2025-04-17**|**Kato-Kuzumaki's properties for function fields over higher local fields**|Felipe Gambardella et.al.|[2504.13100v1](http://arxiv.org/abs/2504.13100v1)|**2025-04-17**|null|
+|**2025-04-17**|**RF-DETR Object Detection vs YOLOv12 : A Study of Transformer-based and CNN-based Architectures for Single-Class and Multi-Class Greenfruit Detection in Complex Orchard Environments Under Label Ambiguity**|Ranjan Sapkota et.al.|[2504.13099v1](http://arxiv.org/abs/2504.13099v1)|**2025-04-17**|null|
+|**2025-04-17**|**Symmetry classification and invariant solutions of the classical geometric mean reversion process**|Jin Zhang et.al.|[2504.13094v1](http://arxiv.org/abs/2504.13094v1)|**2025-04-17**|null|
+|**2025-04-17**|**Instability and stress fluctuations of a probe driven through a worm-like micellar fluid**|Abhishek Ghadai et.al.|[2504.13080v1](http://arxiv.org/abs/2504.13080v1)|**2025-04-17**|null|
+|**2025-04-17**|**Enhancing Person-to-Person Virtual Try-On with Multi-Garment Virtual Try-Off**|Riza Velioglu et.al.|[2504.13078v1](http://arxiv.org/abs/2504.13078v1)|**2025-04-17**|null|
+|**2025-04-17**|**HiScene: Creating Hierarchical 3D Scenes with Isometric View Generation**|Wenqi Dong et.al.|[2504.13072v1](http://arxiv.org/abs/2504.13072v1)|**2025-04-17**|null|
+|**2025-04-17**|**Early Accessibility: Automating Alt-Text Generation for UI Icons During App Development**|Sabrina Haque et.al.|[2504.13069v1](http://arxiv.org/abs/2504.13069v1)|**2025-04-17**|null|
+|**2025-04-17**|**Accuracy is Not Agreement: Expert-Aligned Evaluation of Crash Narrative Classification Models**|Sudesh Ramesh Bhagat et.al.|[2504.13068v1](http://arxiv.org/abs/2504.13068v1)|**2025-04-17**|null|
+|**2025-04-17**|**EchoWorld: Learning Motion-Aware World Models for Echocardiography Probe Guidance**|Yang Yue et.al.|[2504.13065v1](http://arxiv.org/abs/2504.13065v1)|**2025-04-17**|[link](https://github.com/LeapLabTHU/EchoWorld)|

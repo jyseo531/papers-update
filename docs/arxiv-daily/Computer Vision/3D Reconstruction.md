@@ -2,33 +2,33 @@
 ### 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-16**|**Adapting a World Model for Trajectory Following in a 3D Game**|Marko Tot et.al.|[2504.12299v1](http://arxiv.org/abs/2504.12299v1)|**2025-04-16**|null|
-|**2025-04-16**|**SHeaP: Self-Supervised Head Geometry Predictor Learned via 2D Gaussians**|Liam Schoneveld et.al.|[2504.12292v1](http://arxiv.org/abs/2504.12292v1)|**2025-04-16**|null|
-|**2025-04-16**|**How Do I Do That? Synthesizing 3D Hand Motion and Contacts for Everyday Interactions**|Aditya Prakash et.al.|[2504.12284v1](http://arxiv.org/abs/2504.12284v1)|**2025-04-16**|null|
-|**2025-04-16**|**Wormholes with Ends of the World**|Diandian Wang et.al.|[2504.12278v1](http://arxiv.org/abs/2504.12278v1)|**2025-04-16**|null|
-|**2025-04-16**|**Towards Learning to Complete Anything in Lidar**|Ayca Takmaz et.al.|[2504.12264v1](http://arxiv.org/abs/2504.12264v1)|**2025-04-16**|null|
-|**2025-04-16**|**Stereoscopic Cylindrical Screen (SCS) Projection**|Lim Ngian Xin Terry et.al.|[2504.12237v1](http://arxiv.org/abs/2504.12237v1)|**2025-04-16**|null|
-|**2025-04-16**|**Finite time blowup for Keller-Segel equation with logistic damping in three dimensions**|Jiaqi Liu et.al.|[2504.12231v1](http://arxiv.org/abs/2504.12231v1)|**2025-04-16**|null|
-|**2025-04-16**|**Magnetically driven outflows in 3D common-envelope evolution of massive stars**|Marco Vetter et.al.|[2504.12213v1](http://arxiv.org/abs/2504.12213v1)|**2025-04-16**|null|
-|**2025-04-16**|**CoMotion: Concurrent Multi-person 3D Motion**|Alejandro Newell et.al.|[2504.12186v1](http://arxiv.org/abs/2504.12186v1)|**2025-04-16**|null|
-|**2025-04-16**|**RADLER: Radar Object Detection Leveraging Semantic 3D City Models and Self-Supervised Radar-Image Learning**|Yuan Luo et.al.|[2504.12167v1](http://arxiv.org/abs/2504.12167v1)|**2025-04-16**|null|
-|**2025-04-16**|**The CAM Model: An in vivo Testbed for Molecular Communication Systems**|Fardad Vakilipoor et.al.|[2504.12123v1](http://arxiv.org/abs/2504.12123v1)|**2025-04-16**|null|
-|**2025-04-16**|**Resonant x-ray scattering study of charge-density wave correlations in YBa$_{2}$Cu$_{3}$O$_{6+x}$ under uniaxial stress**|S. Nakata et.al.|[2504.12050v1](http://arxiv.org/abs/2504.12050v1)|**2025-04-16**|null|
-|**2025-04-16**|**Epstein zeta method for many-body lattice sums**|Andreas A. Buchheit et.al.|[2504.11989v1](http://arxiv.org/abs/2504.11989v1)|**2025-04-16**|null|
-|**2025-04-16**|**R-Meshfusion: Reinforcement Learning Powered Sparse-View Mesh Reconstruction with Diffusion Priors**|Haoyang Wang et.al.|[2504.11946v1](http://arxiv.org/abs/2504.11946v1)|**2025-04-16**|null|
-|**2025-04-16**|**Mind2Matter: Creating 3D Models from EEG Signals**|Xia Deng et.al.|[2504.11936v1](http://arxiv.org/abs/2504.11936v1)|**2025-04-16**|null|
-|**2025-04-16**|**CAGS: Open-Vocabulary 3D Scene Understanding with Context-Aware Gaussian Splatting**|Wei Sun et.al.|[2504.11893v1](http://arxiv.org/abs/2504.11893v1)|**2025-04-16**|null|
-|**2025-04-16**|**Detection of wave activity within a realistic 3D MHD quiet sun simulation**|George Cherry et.al.|[2504.11886v1](http://arxiv.org/abs/2504.11886v1)|**2025-04-16**|null|
-|**2025-04-16**|**Synthetic Data for Blood Vessel Network Extraction**|Joël Mathys et.al.|[2504.11858v1](http://arxiv.org/abs/2504.11858v1)|**2025-04-16**|null|
-|**2025-04-16**|**TextDiffSeg: Text-guided Latent Diffusion Model for 3d Medical Images Segmentation**|Kangbo Ma et.al.|[2504.11825v1](http://arxiv.org/abs/2504.11825v1)|**2025-04-16**|null|
-|**2025-04-16**|**Ultra-fast and accurate multimode waveguide design based on dataset-based eigenmode expansion method**|Jaesung Song et.al.|[2504.11801v1](http://arxiv.org/abs/2504.11801v1)|**2025-04-16**|null|
-|**2025-04-16**|**Extended Short- and Long-Range Mesh Learning for Fast and Generalized Garment Simulation**|Aoran Liu et.al.|[2504.11763v1](http://arxiv.org/abs/2504.11763v1)|**2025-04-16**|null|
-|**2025-04-16**|**GrabS: Generative Embodied Agent for 3D Object Segmentation without Scene Supervision**|Zihui Zhang et.al.|[2504.11754v1](http://arxiv.org/abs/2504.11754v1)|**2025-04-16**|null|
-|**2025-04-16**|**Recent Advance in 3D Object and Scene Generation: A Survey**|Xiang Tang et.al.|[2504.11734v1](http://arxiv.org/abs/2504.11734v1)|**2025-04-16**|null|
-|**2025-04-16**|**DM-OSVP++: One-Shot View Planning Using 3D Diffusion Models for Active RGB-Based Object Reconstruction**|Sicong Pan et.al.|[2504.11674v1](http://arxiv.org/abs/2504.11674v1)|**2025-04-16**|null|
-|**2025-04-15**|**3D full-GR simulations of magnetorotational core-collapse supernovae on GPUs: A systematic study of rotation rates and magnetic fields**|Swapnil Shankar et.al.|[2504.11537v1](http://arxiv.org/abs/2504.11537v1)|**2025-04-15**|null|
-|**2025-04-15**|**Elucidating the Design Space of Multimodal Protein Language Models**|Cheng-Yen Hsieh et.al.|[2504.11454v2](http://arxiv.org/abs/2504.11454v2)|**2025-04-16**|null|
-|**2025-04-15**|**PARTFIELD: Learning 3D Feature Fields for Part Segmentation and Beyond**|Minghua Liu et.al.|[2504.11451v1](http://arxiv.org/abs/2504.11451v1)|**2025-04-15**|null|
-|**2025-04-15**|**Diffusion Distillation With Direct Preference Optimization For Efficient 3D LiDAR Scene Completion**|An Zhao et.al.|[2504.11447v2](http://arxiv.org/abs/2504.11447v2)|**2025-04-16**|null|
-|**2025-04-15**|**Robust Containment Queries over Collections of Trimmed NURBS Surfaces via Generalized Winding Numbers**|Jacob Spainhour et.al.|[2504.11435v1](http://arxiv.org/abs/2504.11435v1)|**2025-04-15**|null|
-|**2025-04-15**|**Deep Learning-based Bathymetry Retrieval without In-situ Depths using Remote Sensing Imagery and SfM-MVS DSMs with Data Gaps**|Panagiotis Agrafiotis et.al.|[2504.11416v1](http://arxiv.org/abs/2504.11416v1)|**2025-04-15**|null|
+|**2025-04-17**|**Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation**|Sizhe Yang et.al.|[2504.13175v1](http://arxiv.org/abs/2504.13175v1)|**2025-04-17**|null|
+|**2025-04-17**|**ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos**|Zetong Zhang et.al.|[2504.13167v1](http://arxiv.org/abs/2504.13167v1)|**2025-04-17**|null|
+|**2025-04-17**|**RUKA: Rethinking the Design of Humanoid Hands with Learning**|Anya Zorin et.al.|[2504.13165v1](http://arxiv.org/abs/2504.13165v1)|**2025-04-17**|null|
+|**2025-04-17**|**Digital Twin Generation from Visual Data: A Survey**|Andrew Melnik et.al.|[2504.13159v1](http://arxiv.org/abs/2504.13159v1)|**2025-04-17**|null|
+|**2025-04-17**|**AerialMegaDepth: Learning Aerial-Ground Reconstruction and View Synthesis**|Khiem Vuong et.al.|[2504.13157v1](http://arxiv.org/abs/2504.13157v1)|**2025-04-17**|null|
+|**2025-04-17**|**Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs**|Shaohui Dai et.al.|[2504.13153v1](http://arxiv.org/abs/2504.13153v1)|**2025-04-17**|null|
+|**2025-04-17**|**St4RTrack: Simultaneous 4D Reconstruction and Tracking in the World**|Haiwen Feng et.al.|[2504.13152v1](http://arxiv.org/abs/2504.13152v1)|**2025-04-17**|null|
+|**2025-04-17**|**A hybrid U-Net and Fourier neural operator framework for the large-eddy simulation of turbulent flows over periodic hills**|Yunpeng Wang et.al.|[2504.13126v1](http://arxiv.org/abs/2504.13126v1)|**2025-04-17**|null|
+|**2025-04-17**|**HiScene: Creating Hierarchical 3D Scenes with Isometric View Generation**|Wenqi Dong et.al.|[2504.13072v1](http://arxiv.org/abs/2504.13072v1)|**2025-04-17**|null|
+|**2025-04-17**|**RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins**|Yao Mu et.al.|[2504.13059v1](http://arxiv.org/abs/2504.13059v1)|**2025-04-17**|null|
+|**2025-04-17**|**Expert Kernel Generation Network Driven by Contextual Mapping for Hyperspectral Image Classification**|Guandong Li et.al.|[2504.13045v1](http://arxiv.org/abs/2504.13045v1)|**2025-04-17**|null|
+|**2025-04-17**|**CompGS++: Compressed Gaussian Splatting for Static and Dynamic Scene Representation**|Xiangrui Liu et.al.|[2504.13022v1](http://arxiv.org/abs/2504.13022v1)|**2025-04-17**|null|
+|**2025-04-17**|**GSAC: Leveraging Gaussian Splatting for Photorealistic Avatar Creation with Unity Integration**|Rendong Zhang et.al.|[2504.12999v1](http://arxiv.org/abs/2504.12999v1)|**2025-04-17**|null|
+|**2025-04-17**|**X-ray linear dichroic orientation tomography: reconstruction of nanoscale three-dimensional orientation fields**|Andreas Apseros et.al.|[2504.12978v1](http://arxiv.org/abs/2504.12978v1)|**2025-04-17**|null|
+|**2025-04-17**|**Rethinking Temporal Fusion with a Unified Gradient Descent View for 3D Semantic Occupancy Prediction**|Dubing Chen et.al.|[2504.12959v1](http://arxiv.org/abs/2504.12959v1)|**2025-04-17**|null|
+|**2025-04-17**|**Tensor-monopole-induced topological boundary effects in four-dimensional acoustic metamaterials**|Qingyang Mo et.al.|[2504.12950v1](http://arxiv.org/abs/2504.12950v1)|**2025-04-17**|null|
+|**2025-04-17**|**Prospects for Detecting Signs of Life on Exoplanets in the JWST Era**|Sara Seager et.al.|[2504.12946v1](http://arxiv.org/abs/2504.12946v1)|**2025-04-17**|null|
+|**2025-04-17**|**Performance of the advanced gamma-ray trigger system for the High Energy Cosmic Radiation Detection (HERD) facility**|Keerthana Rajan Lathika et.al.|[2504.12930v1](http://arxiv.org/abs/2504.12930v1)|**2025-04-17**|null|
+|**2025-04-17**|**Second-order Optimization of Gaussian Splats with Importance Sampling**|Hamza Pehlivan et.al.|[2504.12905v1](http://arxiv.org/abs/2504.12905v1)|**2025-04-17**|null|
+|**2025-04-17**|**Computer-Aided Design of Personalized Occlusal Positioning Splints Using Multimodal 3D Data**|Agnieszka Anna Tomaka et.al.|[2504.12868v1](http://arxiv.org/abs/2504.12868v1)|**2025-04-17**|null|
+|**2025-04-17**|**3D-PNAS: 3D Industrial Surface Anomaly Synthesis with Perlin Noise**|Yifeng Cheng et.al.|[2504.12856v1](http://arxiv.org/abs/2504.12856v1)|**2025-04-17**|null|
+|**2025-04-17**|**Particle-based Simulation of an Air-Breathing Electric Propulsion System**|Pietro Parodi et.al.|[2504.12829v1](http://arxiv.org/abs/2504.12829v1)|**2025-04-17**|null|
+|**2025-04-17**|**TwoSquared: 4D Generation from 2D Image Pairs**|Lu Sang et.al.|[2504.12825v1](http://arxiv.org/abs/2504.12825v1)|**2025-04-17**|null|
+|**2025-04-17**|**AAA-Gaussians: Anti-Aliased and Artifact-Free 3D Gaussian Rendering**|Michael Steiner et.al.|[2504.12811v1](http://arxiv.org/abs/2504.12811v1)|**2025-04-17**|null|
+|**2025-04-17**|**CAGE-GS: High-fidelity Cage Based 3D Gaussian Splatting Deformation**|Yifei Tong et.al.|[2504.12800v1](http://arxiv.org/abs/2504.12800v1)|**2025-04-17**|null|
+|**2025-04-17**|**TSGS: Improving Gaussian Splatting for Transparent Surface Reconstruction via Normal and De-lighting Priors**|Mingwei Li et.al.|[2504.12799v1](http://arxiv.org/abs/2504.12799v1)|**2025-04-17**|null|
+|**2025-04-17**|**Supporting Urban Low-Altitude Economy: Channel Gain Map Inference Based on 3D Conditional GAN**|Yonghao Wang et.al.|[2504.12794v1](http://arxiv.org/abs/2504.12794v1)|**2025-04-17**|null|
+|**2025-04-17**|**ARAP-GS: Drag-driven As-Rigid-As-Possible 3D Gaussian Splatting Editing with Diffusion Prior**|Xiao Han et.al.|[2504.12788v1](http://arxiv.org/abs/2504.12788v1)|**2025-04-17**|null|
+|**2025-04-17**|**Tailoring Electromagnetic Fields in RF Cavities**|Laurence Wroe et.al.|[2504.12780v1](http://arxiv.org/abs/2504.12780v1)|**2025-04-17**|null|
+|**2025-04-17**|**3D MHD wave propagation and energy transport in a simulated solar vortex**|Samuel Skirvin et.al.|[2504.12745v1](http://arxiv.org/abs/2504.12745v1)|**2025-04-17**|null|

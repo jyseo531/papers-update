@@ -2,33 +2,33 @@
 ### Object Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-16**|**Exceptional times when bigeodesics exist in dynamical last passage percolation**|Manan Bhatia et.al.|[2504.12293v1](http://arxiv.org/abs/2504.12293v1)|**2025-04-16**|null|
-|**2025-04-16**|**How Do I Do That? Synthesizing 3D Hand Motion and Contacts for Everyday Interactions**|Aditya Prakash et.al.|[2504.12284v1](http://arxiv.org/abs/2504.12284v1)|**2025-04-16**|null|
-|**2025-04-16**|**The Tenth NTIRE 2025 Image Denoising Challenge Report**|Lei Sun et.al.|[2504.12276v1](http://arxiv.org/abs/2504.12276v1)|**2025-04-16**|null|
-|**2025-04-16**|**Towards Learning to Complete Anything in Lidar**|Ayca Takmaz et.al.|[2504.12264v1](http://arxiv.org/abs/2504.12264v1)|**2025-04-16**|null|
-|**2025-04-16**|**QSHS: An Axion Dark Matter Resonant Search Apparatus**|A. Alsulami et.al.|[2504.12257v1](http://arxiv.org/abs/2504.12257v1)|**2025-04-16**|null|
-|**2025-04-16**|**Stability conditions on K3 surfaces via mass of spherical objects**|Kohei Kikuta et.al.|[2504.12253v1](http://arxiv.org/abs/2504.12253v1)|**2025-04-16**|null|
-|**2025-04-16**|**SIDME: Self-supervised Image Demoiréing via Masked Encoder-Decoder Reconstruction**|Xia Wang et.al.|[2504.12245v1](http://arxiv.org/abs/2504.12245v1)|**2025-04-16**|null|
-|**2025-04-16**|**Cobra: Efficient Line Art COlorization with BRoAder References**|Junhao Zhuang et.al.|[2504.12240v1](http://arxiv.org/abs/2504.12240v1)|**2025-04-16**|null|
-|**2025-04-16**|**MOS: Towards Effective Smart Contract Vulnerability Detection through Mixture-of-Experts Tuning of Large Language Models**|Hang Yuan et.al.|[2504.12234v1](http://arxiv.org/abs/2504.12234v1)|**2025-04-16**|null|
-|**2025-04-16**|**Watermarking Needs Input Repetition Masking**|David Khachaturov et.al.|[2504.12229v1](http://arxiv.org/abs/2504.12229v1)|**2025-04-16**|null|
-|**2025-04-16**|**Interacting Object-Enabled Clustering and Characterization of Distributed MIMO Channels**|Yingjie Xu et.al.|[2504.12220v1](http://arxiv.org/abs/2504.12220v1)|**2025-04-16**|null|
-|**2025-04-16**|**Search for additional scalar bosons within the Inert Doublet Model in a final state with two leptons at the FCC-ee**|Anubha Bal et.al.|[2504.12178v1](http://arxiv.org/abs/2504.12178v1)|**2025-04-16**|null|
-|**2025-04-16**|**Towards a General-Purpose Zero-Shot Synthetic Low-Light Image and Video Pipeline**|Joanne Lin et.al.|[2504.12169v1](http://arxiv.org/abs/2504.12169v1)|**2025-04-16**|null|
-|**2025-04-16**|**A simple algorithm for the simple bilevel programming (SBP) problem**|Stephan Dempe et.al.|[2504.12168v1](http://arxiv.org/abs/2504.12168v1)|**2025-04-16**|null|
-|**2025-04-16**|**RADLER: Radar Object Detection Leveraging Semantic 3D City Models and Self-Supervised Radar-Image Learning**|Yuan Luo et.al.|[2504.12167v1](http://arxiv.org/abs/2504.12167v1)|**2025-04-16**|null|
-|**2025-04-16**|**On a category of chains of modules whose endomorphism rings have at most $2n$ maximal ideals**|Federico Campanini et.al.|[2504.12155v1](http://arxiv.org/abs/2504.12155v1)|**2025-04-16**|null|
-|**2025-04-16**|**Metric-Solver: Sliding Anchored Metric Depth Estimation from a Single Image**|Tao Wen et.al.|[2504.12103v1](http://arxiv.org/abs/2504.12103v1)|**2025-04-16**|null|
-|**2025-04-16**|**Generalized Visual Relation Detection with Diffusion Models**|Kaifeng Gao et.al.|[2504.12100v1](http://arxiv.org/abs/2504.12100v1)|**2025-04-16**|null|
-|**2025-04-16**|**Activity-Induced Near-Infrared Variability at 29P/Schwassmann-Wachmann 1, 2017-2022**|Theodore Kareta et.al.|[2504.12097v1](http://arxiv.org/abs/2504.12097v1)|**2025-04-16**|null|
-|**2025-04-16**|**DC-SAM: In-Context Segment Anything in Images and Videos via Dual Consistency**|Mengshi Qi et.al.|[2504.12080v2](http://arxiv.org/abs/2504.12080v2)|**2025-04-17**|null|
-|**2025-04-16**|**Massive Star Clusters in the Semi-Analytical Galaxy Formation Model L-Galaxies 2020**|Nils Hoyer et.al.|[2504.12079v1](http://arxiv.org/abs/2504.12079v1)|**2025-04-16**|null|
-|**2025-04-16**|**Single-shot Star-convex Polygon-based Instance Segmentation for Spatially-correlated Biomedical Objects**|Trina De et.al.|[2504.12078v1](http://arxiv.org/abs/2504.12078v1)|**2025-04-16**|null|
-|**2025-04-16**|**Observational properties of regular black holes in Asymptotic Safety**|Abdybek Urmanov et.al.|[2504.12072v1](http://arxiv.org/abs/2504.12072v1)|**2025-04-16**|null|
-|**2025-04-16**|**Causality, localisation, and universality of monitored quantum walks with long-range hopping**|Sayan Roy et.al.|[2504.12053v1](http://arxiv.org/abs/2504.12053v1)|**2025-04-16**|null|
-|**2025-04-16**|**pix2pockets: Shot Suggestions in 8-Ball Pool from a Single Image in the Wild**|Jonas Myhre Schiøtt et.al.|[2504.12045v1](http://arxiv.org/abs/2504.12045v1)|**2025-04-16**|null|
-|**2025-04-16**|**Object Placement for Anything**|Bingjie Gao et.al.|[2504.12029v1](http://arxiv.org/abs/2504.12029v1)|**2025-04-16**|null|
-|**2025-04-16**|**Hardness and Approximation Schemes for Discrete Packing and Domination**|Raghunath Reddy Madireddy et.al.|[2504.12022v1](http://arxiv.org/abs/2504.12022v1)|**2025-04-16**|null|
-|**2025-04-16**|**MixSignGraph: A Sign Sequence is Worth Mixed Graphs of Nodes**|Shiwei Gan et.al.|[2504.12020v1](http://arxiv.org/abs/2504.12020v1)|**2025-04-16**|null|
-|**2025-04-16**|**Purposefully Induced Psychosis (PIP): Embracing Hallucination as Imagination in Large Language Models**|Kris Pilcher et.al.|[2504.12012v1](http://arxiv.org/abs/2504.12012v1)|**2025-04-16**|null|
-|**2025-04-16**|**Balancing Graph Embedding Smoothness in Self-Supervised Learning via Information-Theoretic Decomposition**|Heesoo Jung et.al.|[2504.12011v1](http://arxiv.org/abs/2504.12011v1)|**2025-04-16**|null|
+|**2025-04-17**|**Perception Encoder: The best visual embeddings are not at the output of the network**|Daniel Bolya et.al.|[2504.13181v1](http://arxiv.org/abs/2504.13181v1)|**2025-04-17**|null|
+|**2025-04-17**|**ViTa-Zero: Zero-shot Visuotactile Object 6D Pose Estimation**|Hongyu Li et.al.|[2504.13179v1](http://arxiv.org/abs/2504.13179v1)|**2025-04-17**|null|
+|**2025-04-17**|**Single-Shot Shape and Reflectance with Spatial Polarization Multiplexing**|Tomoki Ichikawa et.al.|[2504.13177v1](http://arxiv.org/abs/2504.13177v1)|**2025-04-17**|null|
+|**2025-04-17**|**Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation**|Sizhe Yang et.al.|[2504.13175v1](http://arxiv.org/abs/2504.13175v1)|**2025-04-17**|null|
+|**2025-04-17**|**It's All Connected: A Journey Through Test-Time Memorization, Attentional Bias, Retention, and Online Optimization**|Ali Behrouz et.al.|[2504.13173v1](http://arxiv.org/abs/2504.13173v1)|**2025-04-17**|null|
+|**2025-04-17**|**Generate, but Verify: Reducing Hallucination in Vision-Language Models with Retrospective Resampling**|Tsung-Han Wu et.al.|[2504.13169v1](http://arxiv.org/abs/2504.13169v1)|**2025-04-17**|null|
+|**2025-04-17**|**Gravitational wave anisotropies from axion inflation**|Sofia P. Corbà et.al.|[2504.13156v1](http://arxiv.org/abs/2504.13156v1)|**2025-04-17**|null|
+|**2025-04-17**|**Readable Twins of Unreadable Models**|Krzysztof Pancerz et.al.|[2504.13150v1](http://arxiv.org/abs/2504.13150v1)|**2025-04-17**|null|
+|**2025-04-17**|**NTIRE 2025 Challenge on Short-form UGC Video Quality Assessment and Enhancement: Methods and Results**|Xin Li et.al.|[2504.13131v1](http://arxiv.org/abs/2504.13131v1)|**2025-04-17**|null|
+|**2025-04-17**|**VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models**|Haojian Huang et.al.|[2504.13122v1](http://arxiv.org/abs/2504.13122v1)|**2025-04-17**|null|
+|**2025-04-17**|**Object-Driven Narrative in AR: A Scenario-Metaphor Framework with VLM Integration**|Yusi Sun et.al.|[2504.13119v1](http://arxiv.org/abs/2504.13119v1)|**2025-04-17**|null|
+|**2025-04-17**|**RF-DETR Object Detection vs YOLOv12 : A Study of Transformer-based and CNN-based Architectures for Single-Class and Multi-Class Greenfruit Detection in Complex Orchard Environments Under Label Ambiguity**|Ranjan Sapkota et.al.|[2504.13099v1](http://arxiv.org/abs/2504.13099v1)|**2025-04-17**|null|
+|**2025-04-17**|**Irradiation Studies of the Resistive AC-coupled Silicon Detector (RSD/AC-LGAD)**|Umut Elicabuk et.al.|[2504.13098v1](http://arxiv.org/abs/2504.13098v1)|**2025-04-17**|null|
+|**2025-04-17**|**Combination and interpretation of differential Higgs boson production cross sections in proton-proton collisions at $\sqrt{s}$ = 13 TeV**|CMS Collaboration et.al.|[2504.13081v1](http://arxiv.org/abs/2504.13081v1)|**2025-04-17**|null|
+|**2025-04-17**|**Effective Dual-Region Augmentation for Reduced Reliance on Large Amounts of Labeled Data**|Prasanna Reddy Pulakurthi et.al.|[2504.13077v1](http://arxiv.org/abs/2504.13077v1)|**2025-04-17**|[link](https://github.com/PrasannaPulakurthi/Foreground-Background-Augmentation)|
+|**2025-04-17**|**HiScene: Creating Hierarchical 3D Scenes with Isometric View Generation**|Wenqi Dong et.al.|[2504.13072v1](http://arxiv.org/abs/2504.13072v1)|**2025-04-17**|null|
+|**2025-04-17**|**RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins**|Yao Mu et.al.|[2504.13059v1](http://arxiv.org/abs/2504.13059v1)|**2025-04-17**|null|
+|**2025-04-17**|**Design Topological Materials by Reinforcement Fine-Tuned Generative Model**|Haosheng Xu et.al.|[2504.13048v1](http://arxiv.org/abs/2504.13048v1)|**2025-04-17**|null|
+|**2025-04-17**|**Expert Kernel Generation Network Driven by Contextual Mapping for Hyperspectral Image Classification**|Guandong Li et.al.|[2504.13045v1](http://arxiv.org/abs/2504.13045v1)|**2025-04-17**|null|
+|**2025-04-17**|**Prototypes are Balanced Units for Efficient and Effective Partially Relevant Video Retrieval**|WonJun Moon et.al.|[2504.13035v1](http://arxiv.org/abs/2504.13035v1)|**2025-04-17**|null|
+|**2025-04-17**|**High-Density Ultracold Neutron Source for Low-Energy Particle Physics Experiments**|Skyler Degenkolb et.al.|[2504.13030v1](http://arxiv.org/abs/2504.13030v1)|**2025-04-17**|null|
+|**2025-04-17**|**TTRD3: Texture Transfer Residual Denoising Dual Diffusion Model for Remote Sensing Image Super-Resolution**|Yide Liu et.al.|[2504.13026v1](http://arxiv.org/abs/2504.13026v1)|**2025-04-17**|null|
+|**2025-04-17**|**Detecting light dark matter with prompt-delayed events in neutrino experiments**|Feiran Lin et.al.|[2504.13007v1](http://arxiv.org/abs/2504.13007v1)|**2025-04-17**|null|
+|**2025-04-17**|**Reconstruction and Performance Evaluation of FASER's Emulsion Detector at the LHC**|FASER Collaboration et.al.|[2504.13008v1](http://arxiv.org/abs/2504.13008v1)|**2025-04-17**|null|
+|**2025-04-17**|**Automated Generation of Commit Messages in Software Repositories**|Varun Kumar Palakodeti et.al.|[2504.12998v1](http://arxiv.org/abs/2504.12998v1)|**2025-04-17**|null|
+|**2025-04-17**|**New Frontiers in Muon-Spin Spectroscopy Using Si-Pixel Detectors**|Heiko Augustin et.al.|[2504.12993v1](http://arxiv.org/abs/2504.12993v1)|**2025-04-17**|null|
+|**2025-04-17**|**Adaptive Modeling of Correlated Noise in Space-Based Gravitational Wave Detectors**|Ya-Nan Li et.al.|[2504.12983v1](http://arxiv.org/abs/2504.12983v1)|**2025-04-17**|null|
+|**2025-04-17**|**Input to the ESPPU 2026 update: Searching for millicharged particles with the FORMOSA experiment at the CERN LHC**|Matthew Citron et.al.|[2504.12973v1](http://arxiv.org/abs/2504.12973v1)|**2025-04-17**|null|
+|**2025-04-17**|**Transferrable Surrogates in Expressive Neural Architecture Search Spaces**|Shiwen Qin et.al.|[2504.12971v1](http://arxiv.org/abs/2504.12971v1)|**2025-04-17**|null|
+|**2025-04-17**|**Lessons from commissioning of the cryogenic system for the Short-Baseline Neutrino Detector at Fermilab**|Frederick Schwartz et.al.|[2504.12969v1](http://arxiv.org/abs/2504.12969v1)|**2025-04-17**|null|

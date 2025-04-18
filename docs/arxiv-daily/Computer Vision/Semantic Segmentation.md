@@ -2,33 +2,33 @@
 ### Semantic Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-16**|**Towards Learning to Complete Anything in Lidar**|Ayca Takmaz et.al.|[2504.12264v1](http://arxiv.org/abs/2504.12264v1)|**2025-04-16**|null|
-|**2025-04-16**|**VGDFR: Diffusion-based Video Generation with Dynamic Latent Frame Rate**|Zhihang Yuan et.al.|[2504.12259v1](http://arxiv.org/abs/2504.12259v1)|**2025-04-16**|null|
-|**2025-04-16**|**Human Aligned Compression for Robust Models**|Samuel Räber et.al.|[2504.12255v1](http://arxiv.org/abs/2504.12255v1)|**2025-04-16**|null|
-|**2025-04-16**|**AnomalyGen: An Automated Semantic Log Sequence Generation Framework with LLM for Anomaly Detection**|Xinyu Li et.al.|[2504.12250v1](http://arxiv.org/abs/2504.12250v1)|**2025-04-16**|null|
-|**2025-04-16**|**Uncertainty-Guided Coarse-to-Fine Tumor Segmentation with Anatomy-Aware Post-Processing**|Ilkin Sevgi Isler et.al.|[2504.12215v1](http://arxiv.org/abs/2504.12215v1)|**2025-04-16**|null|
-|**2025-04-16**|**Modality-Independent Explainable Detection of Inaccurate Organ Segmentations Using Denoising Autoencoders**|Levente Lippenszky et.al.|[2504.12203v1](http://arxiv.org/abs/2504.12203v1)|**2025-04-16**|null|
-|**2025-04-16**|**Beyond Patches: Mining Interpretable Part-Prototypes for Explainable AI**|Mahdi Alehdaghi et.al.|[2504.12197v1](http://arxiv.org/abs/2504.12197v1)|**2025-04-16**|null|
-|**2025-04-16**|**Validating and monitoring bibliographic and citation data in OpenCitations collections**|Ivan Heibi et.al.|[2504.12195v1](http://arxiv.org/abs/2504.12195v1)|**2025-04-16**|null|
-|**2025-04-16**|**What Do Large Language Models Know? Tacit Knowledge as a Potential Causal-Explanatory Structure**|Céline Budding et.al.|[2504.12187v1](http://arxiv.org/abs/2504.12187v1)|**2025-04-16**|null|
-|**2025-04-16**|**RADLER: Radar Object Detection Leveraging Semantic 3D City Models and Self-Supervised Radar-Image Learning**|Yuan Luo et.al.|[2504.12167v1](http://arxiv.org/abs/2504.12167v1)|**2025-04-16**|null|
-|**2025-04-16**|**FocusedAD: Character-centric Movie Audio Description**|Xiaojun Ye et.al.|[2504.12157v1](http://arxiv.org/abs/2504.12157v1)|**2025-04-16**|null|
-|**2025-04-16**|**An Algebraic Extension of Intuitionistic Linear Logic: The $L_!^S$-Calculus and Its Categorical Model**|Alejandro Díaz-Caro et.al.|[2504.12128v1](http://arxiv.org/abs/2504.12128v1)|**2025-04-16**|null|
-|**2025-04-16**|**Remote sensing colour image semantic segmentation of trails created by large herbivorous Mammals**|Jose Francisco Diez-Pastor et.al.|[2504.12121v1](http://arxiv.org/abs/2504.12121v1)|**2025-04-16**|null|
-|**2025-04-16**|**Generalized Visual Relation Detection with Diffusion Models**|Kaifeng Gao et.al.|[2504.12100v1](http://arxiv.org/abs/2504.12100v1)|**2025-04-16**|null|
-|**2025-04-16**|**DC-SAM: In-Context Segment Anything in Images and Videos via Dual Consistency**|Mengshi Qi et.al.|[2504.12080v2](http://arxiv.org/abs/2504.12080v2)|**2025-04-17**|null|
-|**2025-04-16**|**Single-shot Star-convex Polygon-based Instance Segmentation for Spatially-correlated Biomedical Objects**|Trina De et.al.|[2504.12078v1](http://arxiv.org/abs/2504.12078v1)|**2025-04-16**|null|
-|**2025-04-16**|**ProvSQL: A General System for Keeping Track of the Provenance and Probability of Data**|Aryak Sen et.al.|[2504.12058v1](http://arxiv.org/abs/2504.12058v1)|**2025-04-16**|null|
-|**2025-04-16**|**Bayesian dynamic borrowing considering semantic similarity between outcomes for disproportionality analysis in FAERS**|François Haguinet et.al.|[2504.12052v2](http://arxiv.org/abs/2504.12052v2)|**2025-04-17**|null|
-|**2025-04-16**|**Modular-Cam: Modular Dynamic Camera-view Video Generation with LLM**|Zirui Pan et.al.|[2504.12048v1](http://arxiv.org/abs/2504.12048v1)|**2025-04-16**|null|
-|**2025-04-16**|**pix2pockets: Shot Suggestions in 8-Ball Pool from a Single Image in the Wild**|Jonas Myhre Schiøtt et.al.|[2504.12045v1](http://arxiv.org/abs/2504.12045v1)|**2025-04-16**|null|
-|**2025-04-16**|**OpDiffer: LLM-Assisted Opcode-Level Differential Testing of Ethereum Virtual Machine**|Jie Ma et.al.|[2504.12034v1](http://arxiv.org/abs/2504.12034v1)|**2025-04-16**|null|
-|**2025-04-16**|**Instruction-augmented Multimodal Alignment for Image-Text and Element Matching**|Xinli Yue et.al.|[2504.12018v1](http://arxiv.org/abs/2504.12018v1)|**2025-04-16**|null|
-|**2025-04-16**|**SemEval-2025 Task 3: Mu-SHROOM, the Multilingual Shared Task on Hallucinations and Related Observable Overgeneration Mistakes**|Raúl Vázquez et.al.|[2504.11975v1](http://arxiv.org/abs/2504.11975v1)|**2025-04-16**|null|
-|**2025-04-16**|**Mind2Matter: Creating 3D Models from EEG Signals**|Xia Deng et.al.|[2504.11936v1](http://arxiv.org/abs/2504.11936v1)|**2025-04-16**|null|
-|**2025-04-16**|**Beyond Words: Augmenting Discriminative Richness via Diffusions in Unsupervised Prompt Learning**|Hairui Ren et.al.|[2504.11930v1](http://arxiv.org/abs/2504.11930v1)|**2025-04-16**|null|
-|**2025-04-16**|**SemDiff: Generating Natural Unrestricted Adversarial Examples via Semantic Attributes Optimization in Diffusion Models**|Zeyu Dai et.al.|[2504.11923v1](http://arxiv.org/abs/2504.11923v1)|**2025-04-16**|null|
-|**2025-04-16**|**Zooming In on Fakes: A Novel Dataset for Localized AI-Generated Image Detection with Forgery Amplification Approach**|Lvpan Cai et.al.|[2504.11922v1](http://arxiv.org/abs/2504.11922v1)|**2025-04-16**|null|
-|**2025-04-16**|**A Novel Splitter Design for RSMA Networks**|Sawaira Rafaqat Ali et.al.|[2504.11905v1](http://arxiv.org/abs/2504.11905v1)|**2025-04-16**|null|
-|**2025-04-16**|**CAGS: Open-Vocabulary 3D Scene Understanding with Context-Aware Gaussian Splatting**|Wei Sun et.al.|[2504.11893v1](http://arxiv.org/abs/2504.11893v1)|**2025-04-16**|null|
-|**2025-04-16**|**Transferable Deployment of Semantic Edge Inference Systems via Unsupervised Domain Adaption**|Weiqiang Jiao et.al.|[2504.11873v1](http://arxiv.org/abs/2504.11873v1)|**2025-04-16**|null|
+|**2025-04-17**|**SemCORE: A Semantic-Enhanced Generative Cross-Modal Retrieval Framework with MLLMs**|Haoxuan Li et.al.|[2504.13172v1](http://arxiv.org/abs/2504.13172v1)|**2025-04-17**|null|
+|**2025-04-17**|**CLIMB: CLustering-based Iterative Data Mixture Bootstrapping for Language Model Pre-training**|Shizhe Diao et.al.|[2504.13161v1](http://arxiv.org/abs/2504.13161v1)|**2025-04-17**|null|
+|**2025-04-17**|**Digital Twin Generation from Visual Data: A Survey**|Andrew Melnik et.al.|[2504.13159v1](http://arxiv.org/abs/2504.13159v1)|**2025-04-17**|null|
+|**2025-04-17**|**Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs**|Shaohui Dai et.al.|[2504.13153v1](http://arxiv.org/abs/2504.13153v1)|**2025-04-17**|null|
+|**2025-04-17**|**Syntactic and Semantic Control of Large Language Models via Sequential Monte Carlo**|João Loula et.al.|[2504.13139v1](http://arxiv.org/abs/2504.13139v1)|**2025-04-17**|null|
+|**2025-04-17**|**VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models**|Haojian Huang et.al.|[2504.13122v1](http://arxiv.org/abs/2504.13122v1)|**2025-04-17**|null|
+|**2025-04-17**|**Probing and Inducing Combinational Creativity in Vision-Language Models**|Yongqian Peng et.al.|[2504.13120v1](http://arxiv.org/abs/2504.13120v1)|**2025-04-17**|null|
+|**2025-04-17**|**Object-Driven Narrative in AR: A Scenario-Metaphor Framework with VLM Integration**|Yusi Sun et.al.|[2504.13119v1](http://arxiv.org/abs/2504.13119v1)|**2025-04-17**|null|
+|**2025-04-17**|**Aspect-Based Summarization with Self-Aspect Retrieval Enhanced Generation**|Yichao Feng et.al.|[2504.13054v1](http://arxiv.org/abs/2504.13054v1)|**2025-04-17**|null|
+|**2025-04-17**|**GraphAttack: Exploiting Representational Blindspots in LLM Safety Mechanisms**|Sinan He et.al.|[2504.13052v1](http://arxiv.org/abs/2504.13052v1)|**2025-04-17**|null|
+|**2025-04-17**|**Towards Cardiac MRI Foundation Models: Comprehensive Visual-Tabular Representations for Whole-Heart Assessment and Beyond**|Yundi Zhang et.al.|[2504.13037v1](http://arxiv.org/abs/2504.13037v1)|**2025-04-17**|null|
+|**2025-04-17**|**TTRD3: Texture Transfer Residual Denoising Dual Diffusion Model for Remote Sensing Image Super-Resolution**|Yide Liu et.al.|[2504.13026v1](http://arxiv.org/abs/2504.13026v1)|**2025-04-17**|null|
+|**2025-04-17**|**Hierarchical Feature Learning for Medical Point Clouds via State Space Model**|Guoqing Zhang et.al.|[2504.13015v1](http://arxiv.org/abs/2504.13015v1)|**2025-04-17**|null|
+|**2025-04-17**|**All-in-One Transferring Image Compression from Human Perception to Multi-Machine Perception**|Jiancheng Zhao et.al.|[2504.12997v1](http://arxiv.org/abs/2504.12997v1)|**2025-04-17**|null|
+|**2025-04-17**|**SHA256 at SemEval-2025 Task 4: Selective Amnesia -- Constrained Unlearning for Large Language Models via Knowledge Isolation**|Saransh Agrawal et.al.|[2504.12996v1](http://arxiv.org/abs/2504.12996v1)|**2025-04-17**|null|
+|**2025-04-17**|**Vision and Language Integration for Domain Generalization**|Yanmei Wang et.al.|[2504.12966v1](http://arxiv.org/abs/2504.12966v1)|**2025-04-17**|null|
+|**2025-04-17**|**Rethinking Temporal Fusion with a Unified Gradient Descent View for 3D Semantic Occupancy Prediction**|Dubing Chen et.al.|[2504.12959v1](http://arxiv.org/abs/2504.12959v1)|**2025-04-17**|null|
+|**2025-04-17**|**Efficient Masked Image Compression with Position-Indexed Self-Attention**|Chengjie Dai et.al.|[2504.12923v1](http://arxiv.org/abs/2504.12923v1)|**2025-04-17**|null|
+|**2025-04-17**|**OntoPortal-Astro, a Semantic Artefact Catalogue for Astronomy**|Baptiste Cecconi et.al.|[2504.12897v1](http://arxiv.org/abs/2504.12897v1)|**2025-04-17**|null|
+|**2025-04-17**|**High-Fidelity Image Inpainting with Multimodal Guided GAN Inversion**|Libo Zhang et.al.|[2504.12844v1](http://arxiv.org/abs/2504.12844v1)|**2025-04-17**|null|
+|**2025-04-17**|**Image-Editing Specialists: An RLAIF Approach for Diffusion Models**|Elior Benarous et.al.|[2504.12833v1](http://arxiv.org/abs/2504.12833v1)|**2025-04-17**|null|
+|**2025-04-17**|**Hybrid Dense-UNet201 Optimization for Pap Smear Image Segmentation Using Spider Monkey Optimization**|Ach Khozaimi et.al.|[2504.12807v1](http://arxiv.org/abs/2504.12807v1)|**2025-04-17**|null|
+|**2025-04-17**|**A Survey on Cross-Modal Interaction Between Music and Multimodal Data**|Sifei Li et.al.|[2504.12796v1](http://arxiv.org/abs/2504.12796v1)|**2025-04-17**|null|
+|**2025-04-17**|**Distributed Intelligent Sensing and Communications for 6G: Architecture and Use Cases**|Kyriakos Stylianopoulos et.al.|[2504.12765v1](http://arxiv.org/abs/2504.12765v1)|**2025-04-17**|null|
+|**2025-04-17**|**Stronger, Steadier & Superior: Geometric Consistency in Depth VFM Forges Domain Generalized Semantic Segmentation**|Siyu Chen et.al.|[2504.12753v1](http://arxiv.org/abs/2504.12753v1)|**2025-04-17**|null|
+|**2025-04-17**|**TUMLS: Trustful Fully Unsupervised Multi-Level Segmentation for Whole Slide Images of Histology**|Walid Rehamnia et.al.|[2504.12718v1](http://arxiv.org/abs/2504.12718v1)|**2025-04-17**|null|
+|**2025-04-17**|**Self-Supervised Pre-training with Combined Datasets for 3D Perception in Autonomous Driving**|Shumin Wang et.al.|[2504.12709v1](http://arxiv.org/abs/2504.12709v1)|**2025-04-17**|null|
+|**2025-04-17**|**SmartFreeEdit: Mask-Free Spatial-Aware Image Editing with Complex Instruction Understanding**|Qianqian Sun et.al.|[2504.12704v1](http://arxiv.org/abs/2504.12704v1)|**2025-04-17**|null|
+|**2025-04-17**|**SAM-Based Building Change Detection with Distribution-Aware Fourier Adaptation and Edge-Constrained Warping**|Yun-Cheng Li et.al.|[2504.12619v1](http://arxiv.org/abs/2504.12619v1)|**2025-04-17**|null|
+|**2025-04-17**|**Robo-SGG: Exploiting Layout-Oriented Normalization and Restitution for Robust Scene Graph Generation**|Changsheng Lv et.al.|[2504.12606v1](http://arxiv.org/abs/2504.12606v1)|**2025-04-17**|null|
