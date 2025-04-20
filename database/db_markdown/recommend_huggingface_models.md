@@ -454,6 +454,7 @@ Updated on 2025-04-20
 | 156k | 172 | BAAI/bge-multilingual-gemma2Feature | UpdatedJul 31, 2024 | [Link](https://huggingface.co/BAAI/bge-multilingual-gemma2) |
 | 2.9M | 164 | facebook/w2v-bert-2 | UpdatedJan 25, 2024 | [Link](https://huggingface.co/facebook/w2v-bert-2.0) |
 | 24.8k | 125 | BAAI/bge-en-iclFeature | UpdatedJan 15 | [Link](https://huggingface.co/BAAI/bge-en-icl) |
+| 34.8k | 122 | BAAI/llm-embedderFeature | UpdatedNov 14, 2023 | [Link](https://huggingface.co/BAAI/llm-embedder) |
 | 179k | 108 | kyutai/mimiFeature | UpdatedSep 18, 2024 | [Link](https://huggingface.co/kyutai/mimi) |
 | 5.74k | 88 | DMetaSoul/Dmeta-embedding-zhFeature | UpdatedApr 8, 2024 | [Link](https://huggingface.co/DMetaSoul/Dmeta-embedding-zh) |
 | 3.56k | 83 | Salesforce/SFR-Embedding-2_RFeature | Updated25 days ago | [Link](https://huggingface.co/Salesforce/SFR-Embedding-2_R) |
@@ -486,6 +487,7 @@ Updated on 2025-04-20
 | 3.19k | 21 | Salesforce/SFR-Embedding-Code-400M_RFeature | UpdatedJan 24 | [Link](https://huggingface.co/Salesforce/SFR-Embedding-Code-400M_R) |
 | 163 | 19 | hustcw/clap-asmFeature | UpdatedMar 4, 2024 | [Link](https://huggingface.co/hustcw/clap-asm) |
 | 215 | 16 | skit-ai/speechllm-2BFeature | UpdatedJun 25, 2024 | [Link](https://huggingface.co/skit-ai/speechllm-2B) |
+| 19.3k | 16 | heydariAI/persian-embeddingsFeature | UpdatedMar 6 | [Link](https://huggingface.co/heydariAI/persian-embeddings) |
 | 8 | 10 | infgrad/dewey_en_betaFeature | Updatedabout 3 hours ago | [Link](https://huggingface.co/infgrad/dewey_en_beta) |
 | 550 | 10 | nvidia/C-RADIOFeature | UpdatedDec 18, 2024 | [Link](https://huggingface.co/nvidia/C-RADIO) |
 | 24 | 8 | THUMedInfo/GENIE_zh_7bFeature | Updated14 days ago | [Link](https://huggingface.co/THUMedInfo/GENIE_zh_7b) |
@@ -737,6 +739,7 @@ Updated on 2025-04-20
 | 2.34M | 19 | WinKawaks/vit-tiny-patch16-224Image | UpdatedMar 30, 2023 | [Link](https://huggingface.co/WinKawaks/vit-tiny-patch16-224) |
 | 212k | 16 | google/vit-large-patch32-384Image | UpdatedJan 28, 2022 | [Link](https://huggingface.co/google/vit-large-patch32-384) |
 | 1.06k | 15 | dennisjooo/Birds-Classifier-EfficientNetB2Image | UpdatedMay 27, 2024 | [Link](https://huggingface.co/dennisjooo/Birds-Classifier-EfficientNetB2) |
+| 7.77k | 15 | mo-thecreator/vit-Facial-Expression-RecognitionImage | UpdatedMay 31, 2024 | [Link](https://huggingface.co/mo-thecreator/vit-Facial-Expression-Recognition) |
 | 3.18k | 14 | google/efficientnet-b7Image | UpdatedFeb 17, 2023 | [Link](https://huggingface.co/google/efficientnet-b7) |
 | 393k | 13 | imfarzanansari/skintelligent-acneImage | UpdatedDec 24, 2023 | [Link](https://huggingface.co/imfarzanansari/skintelligent-acne) |
 | 1.81k | 13 | deepmind/vision-perceiver-learnedImage | UpdatedAug 26, 2024 | [Link](https://huggingface.co/deepmind/vision-perceiver-learned) |
@@ -935,8 +938,10 @@ Updated on 2025-04-20
 | 2.13k | 6 | keremberke/yolov8m-building-segmentationImage | UpdatedFeb 22, 2023 | [Link](https://huggingface.co/keremberke/yolov8m-building-segmentation) |
 | 1.07k | 5 | keremberke/yolov8n-pcb-defect-segmentationImage | UpdatedFeb 22, 2023 | [Link](https://huggingface.co/keremberke/yolov8n-pcb-defect-segmentation) |
 | 8.02k | 5 | facebook/mask2former-swin-small-coco-instanceImage | UpdatedSep 7, 2023 | [Link](https://huggingface.co/facebook/mask2former-swin-small-coco-instance) |
+| 302 | 4 | onnx-community/mediapipe_selfie_segmentationImage | UpdatedMar 7 | [Link](https://huggingface.co/onnx-community/mediapipe_selfie_segmentation) |
 | 3.94k | 3 | facebook/mask2former-swin-tiny-cityscapes-semanticImage | UpdatedSep 11, 2023 | [Link](https://huggingface.co/facebook/mask2former-swin-tiny-cityscapes-semantic) |
 | 2.24M | 3 | shi-labs/oneformer_coco_swin_largeImage | UpdatedJan 19, 2023 | [Link](https://huggingface.co/shi-labs/oneformer_coco_swin_large) |
+| 106 | 3 | onnx-community/ormbg-ONNXImage | UpdatedMar 7 | [Link](https://huggingface.co/onnx-community/ormbg-ONNX) |
 | 7.28k | 2 | facebook/mask2former-swin-small-cityscapes-semanticImage | UpdatedSep 11, 2023 | [Link](https://huggingface.co/facebook/mask2former-swin-small-cityscapes-semantic) |
 | 1.15k | 2 | openmmlab/upernet-swin-baseImage | UpdatedMay 3, 2023 | [Link](https://huggingface.co/openmmlab/upernet-swin-base) |
 | 787 | 2 | keremberke/yolov8s-building-segmentationImage | UpdatedFeb 22, 2023 | [Link](https://huggingface.co/keremberke/yolov8s-building-segmentation) |
@@ -2250,6 +2255,7 @@ Updated on 2025-04-20
 | 26.8k | 23 | lmstudio-community/QwQ-32B-GGUFText | Updated1 day ago | [Link](https://huggingface.co/lmstudio-community/QwQ-32B-GGUF) |
 | 1.47k | 23 | NousResearch/DeepHermes-3-Llama-3-3B-PreviewText | Updated4 days ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-3B-Preview) |
 | 156 | 23 | THUDM/GLM-4-9B-0414Text | Updatedabout 21 hours ago | [Link](https://huggingface.co/THUDM/GLM-4-9B-0414) |
+| 5 | 23 | fantos/QwQ-32B-bnb-4bitText | UpdatedMar 20 | [Link](https://huggingface.co/fantos/QwQ-32B-bnb-4bit) |
 | 44 | 22 | deepcogito/cogito-v1-preview-llama-3BText | Updatedabout 12 hours ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-llama-3B) |
 | 34 | 21 | ai21labs/AI21-Jamba-Mini-1 | Updatedabout 13 hours ago | [Link](https://huggingface.co/ai21labs/AI21-Jamba-Mini-1.6) |
 | 7.93k | 21 | lmstudio-community/Llama-4-Scout-17B-16E-Instruct-GGUFText | Updated1 day ago | [Link](https://huggingface.co/lmstudio-community/Llama-4-Scout-17B-16E-Instruct-GGUF) |
@@ -2597,6 +2603,7 @@ Updated on 2025-04-20
 | 2.99k | 63 | HKUSTAudio/Llasa-8BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-8B) |
 | 38.3k | 48 | SWivid/E2-TTSText-to-Speech | UpdatedMar 12 | [Link](https://huggingface.co/SWivid/E2-TTS) |
 | 73.1k | 45 | onnx-community/Kokoro-82M-v1 | Updated17 days ago | [Link](https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX) |
+| 5.2k | 39 | speechbrain/tts-hifigan-ljspeechText-to-Speech | UpdatedFeb 25, 2024 | [Link](https://huggingface.co/speechbrain/tts-hifigan-ljspeech) |
 | 2.04k | 37 | kakao-enterprise/vits-ljsText-to-Speech | UpdatedSep 7, 2023 | [Link](https://huggingface.co/kakao-enterprise/vits-ljs) |
 | 3.72k | 29 | parler-tts/parler-tts-mini-multilingual-v1 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-mini-multilingual-v1.1) |
 | 1.2k | 27 | saheedniyi/YarnGPTText-to-Speech | UpdatedJan 29 | [Link](https://huggingface.co/saheedniyi/YarnGPT) |
