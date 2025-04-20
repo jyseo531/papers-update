@@ -18,7 +18,7 @@
 |**2025-04-17**|**Taccel: Scaling Up Vision-based Tactile Robotics via High-performance GPU Simulation**|Yuyang Li et.al.|[2504.12908v1](http://arxiv.org/abs/2504.12908v1)|**2025-04-17**|[link](https://github.com/Taccel-Simulator/Taccel)|
 |**2025-04-17**|**3D-PNAS: 3D Industrial Surface Anomaly Synthesis with Perlin Noise**|Yifeng Cheng et.al.|[2504.12856v1](http://arxiv.org/abs/2504.12856v1)|**2025-04-17**|null|
 |**2025-04-17**|**Versatile, Robust, and Explosive Locomotion with Rigid and Articulated Compliant Quadrupeds**|Jiatao Ding et.al.|[2504.12854v1](http://arxiv.org/abs/2504.12854v1)|**2025-04-17**|null|
-|**2025-04-17**|**Image-Editing Specialists: An RLAIF Approach for Diffusion Models**|Elior Benarous et.al.|[2504.12833v1](http://arxiv.org/abs/2504.12833v1)|**2025-04-17**|null|
+|**2025-04-17**|**Image-Editing Specialists: An RLAIF Approach for Diffusion Models**|Elior Benarous et.al.|[2504.12833v1](http://arxiv.org/abs/2504.12833v1)|**2025-04-17**|[link](https://github.com/ebenarous/editspecialists)|
 |**2025-04-17**|**UncAD: Towards Safe End-to-end Autonomous Driving via Online Map Uncertainty**|Pengxuan Yang et.al.|[2504.12826v1](http://arxiv.org/abs/2504.12826v1)|**2025-04-17**|null|
 |**2025-04-17**|**Explainable Scene Understanding with Qualitative Representations and Graph Neural Networks**|Nassim Belmecheri et.al.|[2504.12817v1](http://arxiv.org/abs/2504.12817v1)|**2025-04-17**|null|
 |**2025-04-17**|**Approaching Current Challenges in Developing a Software Stack for Fully Autonomous Driving**|Simon Sagmeister et.al.|[2504.12813v1](http://arxiv.org/abs/2504.12813v1)|**2025-04-17**|null|

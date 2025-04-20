@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-04-19
+Updated on 2025-04-20
 
 > Generated from the Hugging Face database.
 
@@ -250,6 +250,7 @@ Updated on 2025-04-19
 | 214 | 42 | unity/sentis-whisper-tinyAutomatic | UpdatedJan 6 | [Link](https://huggingface.co/unity/sentis-whisper-tiny) |
 | 53.1k | 33 | facebook/wav2vec2-lv-60-espeak-cv-ftAutomatic | UpdatedOct 31, 2023 | [Link](https://huggingface.co/facebook/wav2vec2-lv-60-espeak-cv-ft) |
 | 602 | 33 | FireRedTeam/FireRedASR-AED-LAutomatic | Updated7 days ago | [Link](https://huggingface.co/FireRedTeam/FireRedASR-AED-L) |
+| 148 | 32 | pyannote/speaker-segmentationAutomatic | UpdatedMay 10, 2024 | [Link](https://huggingface.co/pyannote/speaker-segmentation) |
 | 231 | 30 | efficient-nlp/teochew-whisper-mediumAutomatic | UpdatedFeb 2, 2024 | [Link](https://huggingface.co/efficient-nlp/teochew-whisper-medium) |
 | 3.9k | 29 | primeline/whisper-large-v3-turbo-germanAutomatic | UpdatedDec 3, 2024 | [Link](https://huggingface.co/primeline/whisper-large-v3-turbo-german) |
 | 7.94k | 26 | UsefulSensors/moonshine-baseAutomatic | Updated27 days ago | [Link](https://huggingface.co/UsefulSensors/moonshine-base) |
@@ -1054,6 +1055,7 @@ Updated on 2025-04-19
 | 102 | 13 | OpenGVLab/InternVL3-9BImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/OpenGVLab/InternVL3-9B) |
 | 225 | 12 | ds4sd/SmolDocling-256M-preview-mlx-bf16Image-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/ds4sd/SmolDocling-256M-preview-mlx-bf16) |
 | 1.94k | 12 | bartowski/google_gemma-3-27b-it-qat-GGUFImage-Text-to-Text | Updatedabout 19 hours ago | [Link](https://huggingface.co/bartowski/google_gemma-3-27b-it-qat-GGUF) |
+| 856 | 12 | bartowski/google_gemma-3-12b-it-qat-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/bartowski/google_gemma-3-12b-it-qat-GGUF) |
 | 918 | 11 | mlabonne/gemma-3-27b-it-abliterated-GGUFImage-Text-to-Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-abliterated-GGUF) |
 | 4.38k | 11 | bartowski/mlabonne_gemma-3-27b-it-abliterated-GGUFImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/bartowski/mlabonne_gemma-3-27b-it-abliterated-GGUF) |
 | 862 | 11 | mlabonne/gemma-3-4b-it-abliteratedImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-4b-it-abliterated) |
@@ -2188,6 +2190,7 @@ Updated on 2025-04-19
 | 1.45k | 50 | ALLaM-AI/ALLaM-7B-Instruct-previewText | Updated8 days ago | [Link](https://huggingface.co/ALLaM-AI/ALLaM-7B-Instruct-preview) |
 | 39 | 47 | open-r1/OlympicCoder-32BText | Updatedabout 17 hours ago | [Link](https://huggingface.co/open-r1/OlympicCoder-32B) |
 | 415 | 46 | LGAI-EXAONE/EXAONE-Deep-2 | Updated4 minutes ago | [Link](https://huggingface.co/LGAI-EXAONE/EXAONE-Deep-2.4B) |
+| 151 | 46 | bytedance-research/ChatTS-14BText | Updated2 days ago | [Link](https://huggingface.co/bytedance-research/ChatTS-14B) |
 | 2.08k | 45 | google/gemma-3-1b-itText | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-1b-it) |
 | 170 | 44 | open-r1/OlympicCoder-7BText | Updatedabout 5 hours ago | [Link](https://huggingface.co/open-r1/OlympicCoder-7B) |
 | 3.37k | 42 | Qwen/QwQ-32B-AWQText | Updatedabout 3 hours ago | [Link](https://huggingface.co/Qwen/QwQ-32B-AWQ) |
@@ -2481,6 +2484,7 @@ Updated on 2025-04-19
 | 116 | 11 | Efficient-Large-Model/SANA1 | Updatedabout 6 hours ago | [Link](https://huggingface.co/Efficient-Large-Model/SANA1.5_4.8B_1024px) |
 | 687 | 11 | azaneko/HiDream-I1-Full-nf4Text-to-Image | Updated3 days ago | [Link](https://huggingface.co/azaneko/HiDream-I1-Full-nf4) |
 | 945 | 11 | calcuis/hidream-ggufText-to-Image | Updated20 minutes ago | [Link](https://huggingface.co/calcuis/hidream-gguf) |
+| 69 | 11 | MCG-NJU/DMMText-to-Image | Updatedabout 24 hours ago | [Link](https://huggingface.co/MCG-NJU/DMM) |
 |  | 10 | strangerzonehf/Real-ClaymationText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/strangerzonehf/Real-Claymation) |
 | 17 | 10 | zhang0jhon/flux_waveletText-to-Image | Updated5 days ago | [Link](https://huggingface.co/zhang0jhon/flux_wavelet) |
 | 36 | 10 | codermert/ozgeefinalText-to-Image | Updated6 days ago | [Link](https://huggingface.co/codermert/ozgeefinal) |
@@ -2997,6 +3001,7 @@ Updated on 2025-04-19
 | 5 | 11 | erax-ai/EraX-Translator-V1 | Updated15 minutes ago | [Link](https://huggingface.co/erax-ai/EraX-Translator-V1.0) |
 | 325 | 10 | rudrashah/RLM-hinglish-translatorTranslation | Updated23 days ago | [Link](https://huggingface.co/rudrashah/RLM-hinglish-translator) |
 | 164 | 5 | webbigdata/gemma-2-2b-jpn-it-translateTranslation | UpdatedOct 22, 2024 | [Link](https://huggingface.co/webbigdata/gemma-2-2b-jpn-it-translate) |
+| 115 | 5 | lmg-anon/vntl-llama3-8b-v2-ggufTranslation | UpdatedJan 2 | [Link](https://huggingface.co/lmg-anon/vntl-llama3-8b-v2-gguf) |
 | 115 | 4 | allegro/multislav-5langTranslation | Updated14 days ago | [Link](https://huggingface.co/allegro/multislav-5lang) |
 | 35 | 3 | SVECTOR-CORPORATION/Akshara-2B-HindiTranslation | Updated14 days ago | [Link](https://huggingface.co/SVECTOR-CORPORATION/Akshara-2B-Hindi) |
 | 4.62k | 3 | Helsinki-NLP/opus-mt-en-elTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-en-el) |

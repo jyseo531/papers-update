@@ -7,7 +7,7 @@
 |**2025-04-17**|**RUKA: Rethinking the Design of Humanoid Hands with Learning**|Anya Zorin et.al.|[2504.13165v1](http://arxiv.org/abs/2504.13165v1)|**2025-04-17**|null|
 |**2025-04-17**|**Digital Twin Generation from Visual Data: A Survey**|Andrew Melnik et.al.|[2504.13159v1](http://arxiv.org/abs/2504.13159v1)|**2025-04-17**|null|
 |**2025-04-17**|**AerialMegaDepth: Learning Aerial-Ground Reconstruction and View Synthesis**|Khiem Vuong et.al.|[2504.13157v1](http://arxiv.org/abs/2504.13157v1)|**2025-04-17**|null|
-|**2025-04-17**|**Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs**|Shaohui Dai et.al.|[2504.13153v1](http://arxiv.org/abs/2504.13153v1)|**2025-04-17**|null|
+|**2025-04-17**|**Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs**|Shaohui Dai et.al.|[2504.13153v1](http://arxiv.org/abs/2504.13153v1)|**2025-04-17**|[link](https://github.com/atrovast/thgs)|
 |**2025-04-17**|**St4RTrack: Simultaneous 4D Reconstruction and Tracking in the World**|Haiwen Feng et.al.|[2504.13152v1](http://arxiv.org/abs/2504.13152v1)|**2025-04-17**|null|
 |**2025-04-17**|**A hybrid U-Net and Fourier neural operator framework for the large-eddy simulation of turbulent flows over periodic hills**|Yunpeng Wang et.al.|[2504.13126v1](http://arxiv.org/abs/2504.13126v1)|**2025-04-17**|null|
 |**2025-04-17**|**HiScene: Creating Hierarchical 3D Scenes with Isometric View Generation**|Wenqi Dong et.al.|[2504.13072v1](http://arxiv.org/abs/2504.13072v1)|**2025-04-17**|null|
@@ -16,7 +16,7 @@
 |**2025-04-17**|**CompGS++: Compressed Gaussian Splatting for Static and Dynamic Scene Representation**|Xiangrui Liu et.al.|[2504.13022v1](http://arxiv.org/abs/2504.13022v1)|**2025-04-17**|null|
 |**2025-04-17**|**GSAC: Leveraging Gaussian Splatting for Photorealistic Avatar Creation with Unity Integration**|Rendong Zhang et.al.|[2504.12999v1](http://arxiv.org/abs/2504.12999v1)|**2025-04-17**|null|
 |**2025-04-17**|**X-ray linear dichroic orientation tomography: reconstruction of nanoscale three-dimensional orientation fields**|Andreas Apseros et.al.|[2504.12978v1](http://arxiv.org/abs/2504.12978v1)|**2025-04-17**|null|
-|**2025-04-17**|**Rethinking Temporal Fusion with a Unified Gradient Descent View for 3D Semantic Occupancy Prediction**|Dubing Chen et.al.|[2504.12959v1](http://arxiv.org/abs/2504.12959v1)|**2025-04-17**|null|
+|**2025-04-17**|**Rethinking Temporal Fusion with a Unified Gradient Descent View for 3D Semantic Occupancy Prediction**|Dubing Chen et.al.|[2504.12959v1](http://arxiv.org/abs/2504.12959v1)|**2025-04-17**|[link](https://github.com/cdb342/gdfusion)|
 |**2025-04-17**|**Tensor-monopole-induced topological boundary effects in four-dimensional acoustic metamaterials**|Qingyang Mo et.al.|[2504.12950v1](http://arxiv.org/abs/2504.12950v1)|**2025-04-17**|null|
 |**2025-04-17**|**Prospects for Detecting Signs of Life on Exoplanets in the JWST Era**|Sara Seager et.al.|[2504.12946v1](http://arxiv.org/abs/2504.12946v1)|**2025-04-17**|null|
 |**2025-04-17**|**Performance of the advanced gamma-ray trigger system for the High Energy Cosmic Radiation Detection (HERD) facility**|Keerthana Rajan Lathika et.al.|[2504.12930v1](http://arxiv.org/abs/2504.12930v1)|**2025-04-17**|null|
