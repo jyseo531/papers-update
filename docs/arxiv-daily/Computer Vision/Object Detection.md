@@ -30,5 +30,5 @@
 |**2025-04-17**|**New Frontiers in Muon-Spin Spectroscopy Using Si-Pixel Detectors**|Heiko Augustin et.al.|[2504.12993v1](http://arxiv.org/abs/2504.12993v1)|**2025-04-17**|null|
 |**2025-04-17**|**Adaptive Modeling of Correlated Noise in Space-Based Gravitational Wave Detectors**|Ya-Nan Li et.al.|[2504.12983v1](http://arxiv.org/abs/2504.12983v1)|**2025-04-17**|null|
 |**2025-04-17**|**Input to the ESPPU 2026 update: Searching for millicharged particles with the FORMOSA experiment at the CERN LHC**|Matthew Citron et.al.|[2504.12973v1](http://arxiv.org/abs/2504.12973v1)|**2025-04-17**|null|
-|**2025-04-17**|**Transferrable Surrogates in Expressive Neural Architecture Search Spaces**|Shiwen Qin et.al.|[2504.12971v1](http://arxiv.org/abs/2504.12971v1)|**2025-04-17**|null|
-|**2025-04-17**|**Lessons from commissioning of the cryogenic system for the Short-Baseline Neutrino Detector at Fermilab**|Frederick Schwartz et.al.|[2504.12969v1](http://arxiv.org/abs/2504.12969v1)|**2025-04-17**|null|
+|**2025-04-17**|**Transferrable Surrogates in Expressive Neural Architecture Search Spaces**|Shiwen Qin et.al.|[2504.12971v2](http://arxiv.org/abs/2504.12971v2)|**2025-04-18**|null|
+|**2025-04-17**|**Lessons from commissioning of the cryogenic system for the Short-Baseline Neutrino Detector at Fermilab**|Frederick Schwartz et.al.|[2504.12969v2](http://arxiv.org/abs/2504.12969v2)|**2025-04-18**|null|

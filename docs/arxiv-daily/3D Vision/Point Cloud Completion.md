@@ -21,7 +21,7 @@
 |**2025-04-17**|**Radiative properties of a nonsingular black hole: Hawking radiation and gray-body factor**|Asier Alonso-Bardaji et.al.|[2504.13050v1](http://arxiv.org/abs/2504.13050v1)|**2025-04-17**|null|
 |**2025-04-17**|**Variance-Reduced Fast Operator Splitting Methods for Stochastic Generalized Equations**|Quoc Tran-Dinh et.al.|[2504.13046v1](http://arxiv.org/abs/2504.13046v1)|**2025-04-17**|null|
 |**2025-04-17**|**Evidence for sulfur chemistry in the atmosphere of the warm sub-Neptune TOI-270 d**|Lukas Felix et.al.|[2504.13039v1](http://arxiv.org/abs/2504.13039v1)|**2025-04-17**|null|
-|**2025-04-17**|**Towards Cardiac MRI Foundation Models: Comprehensive Visual-Tabular Representations for Whole-Heart Assessment and Beyond**|Yundi Zhang et.al.|[2504.13037v1](http://arxiv.org/abs/2504.13037v1)|**2025-04-17**|null|
+|**2025-04-17**|**Towards Cardiac MRI Foundation Models: Comprehensive Visual-Tabular Representations for Whole-Heart Assessment and Beyond**|Yundi Zhang et.al.|[2504.13037v2](http://arxiv.org/abs/2504.13037v2)|**2025-04-18**|null|
 |**2025-04-17**|**Riemannian Patch Assignment Gradient Flows**|Daniel Gonzalez-Alvarado et.al.|[2504.13024v1](http://arxiv.org/abs/2504.13024v1)|**2025-04-17**|null|
 |**2025-04-17**|**Hierarchical Feature Learning for Medical Point Clouds via State Space Model**|Guoqing Zhang et.al.|[2504.13015v1](http://arxiv.org/abs/2504.13015v1)|**2025-04-17**|[link](https://github.com/wlsdzyzl/flemme)|
 |**2025-04-17**|**Hopf Exceptional Points**|Tsuneya Yoshida et.al.|[2504.13012v1](http://arxiv.org/abs/2504.13012v1)|**2025-04-17**|null|

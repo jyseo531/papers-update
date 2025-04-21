@@ -25,7 +25,7 @@
 |**2025-04-17**|**Eigenvalue distribution in gaps of the essential spectrum of the Bochner-Schrödinger operator**|Yuri A. Kordyukov et.al.|[2504.12928v1](http://arxiv.org/abs/2504.12928v1)|**2025-04-17**|null|
 |**2025-04-17**|**Exact Learning Dynamics of In-Context Learning in Linear Transformers and Its Application to Non-Linear Transformers**|Nischal Mainali et.al.|[2504.12916v1](http://arxiv.org/abs/2504.12916v1)|**2025-04-17**|null|
 |**2025-04-17**|**Real-time High-fidelity Gaussian Human Avatars with Position-based Interpolation of Spatially Distributed MLPs**|Youyi Zhan et.al.|[2504.12909v1](http://arxiv.org/abs/2504.12909v1)|**2025-04-17**|null|
-|**2025-04-17**|**De-jittering Ariel: an optimized algorithm**|Andrea Bocchieri et.al.|[2504.12907v1](http://arxiv.org/abs/2504.12907v1)|**2025-04-17**|null|
+|**2025-04-17**|**De-jittering Ariel: an optimized algorithm**|Andrea Bocchieri et.al.|[2504.12907v2](http://arxiv.org/abs/2504.12907v2)|**2025-04-18**|null|
 |**2025-04-17**|**Control of blow-up profiles for the mass-critical focusing nonlinear Schrödinger equation on bounded domains**|Ludovick Gagnon et.al.|[2504.12901v1](http://arxiv.org/abs/2504.12901v1)|**2025-04-17**|null|
 |**2025-04-17**|**Photoinduced magnetic phase transitions in the cubic Kondo-lattice model**|Ryo Hamano et.al.|[2504.12881v1](http://arxiv.org/abs/2504.12881v1)|**2025-04-17**|null|
 |**2025-04-17**|**SC3EF: A Joint Self-Correlation and Cross-Correspondence Estimation Framework for Visible and Thermal Image Registration**|Xi Tong et.al.|[2504.12869v1](http://arxiv.org/abs/2504.12869v1)|**2025-04-17**|null|

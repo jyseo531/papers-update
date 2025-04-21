@@ -18,7 +18,7 @@
 |**2025-04-17**|**Aspect-Based Summarization with Self-Aspect Retrieval Enhanced Generation**|Yichao Feng et.al.|[2504.13054v1](http://arxiv.org/abs/2504.13054v1)|**2025-04-17**|null|
 |**2025-04-17**|**Variance-Reduced Fast Operator Splitting Methods for Stochastic Generalized Equations**|Quoc Tran-Dinh et.al.|[2504.13046v1](http://arxiv.org/abs/2504.13046v1)|**2025-04-17**|null|
 |**2025-04-17**|**Evidence for sulfur chemistry in the atmosphere of the warm sub-Neptune TOI-270 d**|Lukas Felix et.al.|[2504.13039v1](http://arxiv.org/abs/2504.13039v1)|**2025-04-17**|null|
-|**2025-04-17**|**Towards Cardiac MRI Foundation Models: Comprehensive Visual-Tabular Representations for Whole-Heart Assessment and Beyond**|Yundi Zhang et.al.|[2504.13037v1](http://arxiv.org/abs/2504.13037v1)|**2025-04-17**|null|
+|**2025-04-17**|**Towards Cardiac MRI Foundation Models: Comprehensive Visual-Tabular Representations for Whole-Heart Assessment and Beyond**|Yundi Zhang et.al.|[2504.13037v2](http://arxiv.org/abs/2504.13037v2)|**2025-04-18**|null|
 |**2025-04-17**|**Riemannian Patch Assignment Gradient Flows**|Daniel Gonzalez-Alvarado et.al.|[2504.13024v1](http://arxiv.org/abs/2504.13024v1)|**2025-04-17**|null|
 |**2025-04-17**|**Hierarchical Feature Learning for Medical Point Clouds via State Space Model**|Guoqing Zhang et.al.|[2504.13015v1](http://arxiv.org/abs/2504.13015v1)|**2025-04-17**|[link](https://github.com/wlsdzyzl/flemme)|
 |**2025-04-17**|**Hopf Exceptional Points**|Tsuneya Yoshida et.al.|[2504.13012v1](http://arxiv.org/abs/2504.13012v1)|**2025-04-17**|null|
@@ -29,6 +29,6 @@
 |**2025-04-17**|**Eigenvalue distribution in gaps of the essential spectrum of the Bochner-Schrödinger operator**|Yuri A. Kordyukov et.al.|[2504.12928v1](http://arxiv.org/abs/2504.12928v1)|**2025-04-17**|null|
 |**2025-04-17**|**Exact Learning Dynamics of In-Context Learning in Linear Transformers and Its Application to Non-Linear Transformers**|Nischal Mainali et.al.|[2504.12916v1](http://arxiv.org/abs/2504.12916v1)|**2025-04-17**|null|
 |**2025-04-17**|**Real-time High-fidelity Gaussian Human Avatars with Position-based Interpolation of Spatially Distributed MLPs**|Youyi Zhan et.al.|[2504.12909v1](http://arxiv.org/abs/2504.12909v1)|**2025-04-17**|null|
-|**2025-04-17**|**De-jittering Ariel: an optimized algorithm**|Andrea Bocchieri et.al.|[2504.12907v1](http://arxiv.org/abs/2504.12907v1)|**2025-04-17**|null|
+|**2025-04-17**|**De-jittering Ariel: an optimized algorithm**|Andrea Bocchieri et.al.|[2504.12907v2](http://arxiv.org/abs/2504.12907v2)|**2025-04-18**|null|
 |**2025-04-17**|**Control of blow-up profiles for the mass-critical focusing nonlinear Schrödinger equation on bounded domains**|Ludovick Gagnon et.al.|[2504.12901v1](http://arxiv.org/abs/2504.12901v1)|**2025-04-17**|null|
 |**2025-04-17**|**Photoinduced magnetic phase transitions in the cubic Kondo-lattice model**|Ryo Hamano et.al.|[2504.12881v1](http://arxiv.org/abs/2504.12881v1)|**2025-04-17**|null|
