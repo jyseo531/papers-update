@@ -1246,6 +1246,7 @@ Updated on 2025-04-21
 | 9 | Unknown | Kim2091/ClearRealityV1Image-to-Image | UpdatedDec 8, 2024 | [Link](https://huggingface.co/Kim2091/ClearRealityV1) |
 | 3 | Unknown | VisualCloze/VisualClozeImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/VisualCloze/VisualCloze) |
 | 3 | Unknown | JunhaoZhuang/CobraImage-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/JunhaoZhuang/Cobra) |
+| 4 | Unknown | Guaishou74851/AdcSRImage-to-Image | Updated16 days ago | [Link](https://huggingface.co/Guaishou74851/AdcSR) |
 
 ## Image-to-Text
 
