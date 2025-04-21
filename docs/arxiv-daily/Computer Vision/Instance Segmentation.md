@@ -2,33 +2,33 @@
 ### Instance Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-17**|**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**|Jang Hyun Cho et.al.|[2504.13180v1](http://arxiv.org/abs/2504.13180v1)|**2025-04-17**|null|
-|**2025-04-17**|**It's All Connected: A Journey Through Test-Time Memorization, Attentional Bias, Retention, and Online Optimization**|Ali Behrouz et.al.|[2504.13173v1](http://arxiv.org/abs/2504.13173v1)|**2025-04-17**|null|
-|**2025-04-17**|**CLIMB: CLustering-based Iterative Data Mixture Bootstrapping for Language Model Pre-training**|Shizhe Diao et.al.|[2504.13161v1](http://arxiv.org/abs/2504.13161v1)|**2025-04-17**|null|
-|**2025-04-17**|**Digital Twin Generation from Visual Data: A Survey**|Andrew Melnik et.al.|[2504.13159v1](http://arxiv.org/abs/2504.13159v1)|**2025-04-17**|null|
-|**2025-04-17**|**Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs**|Shaohui Dai et.al.|[2504.13153v1](http://arxiv.org/abs/2504.13153v1)|**2025-04-17**|[link](https://github.com/atrovast/thgs)|
-|**2025-04-17**|**VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models**|Haojian Huang et.al.|[2504.13122v1](http://arxiv.org/abs/2504.13122v1)|**2025-04-17**|[link](https://github.com/haroldchen19/vistadpo)|
-|**2025-04-17**|**HiScene: Creating Hierarchical 3D Scenes with Isometric View Generation**|Wenqi Dong et.al.|[2504.13072v1](http://arxiv.org/abs/2504.13072v1)|**2025-04-17**|null|
-|**2025-04-17**|**An exact approach for the multi-depot electric vehicle scheduling problem**|Xenia Haslinger et.al.|[2504.13063v1](http://arxiv.org/abs/2504.13063v1)|**2025-04-17**|null|
-|**2025-04-17**|**Aspect-Based Summarization with Self-Aspect Retrieval Enhanced Generation**|Yichao Feng et.al.|[2504.13054v1](http://arxiv.org/abs/2504.13054v1)|**2025-04-17**|null|
-|**2025-04-17**|**Variance-Reduced Fast Operator Splitting Methods for Stochastic Generalized Equations**|Quoc Tran-Dinh et.al.|[2504.13046v1](http://arxiv.org/abs/2504.13046v1)|**2025-04-17**|null|
-|**2025-04-17**|**Towards Cardiac MRI Foundation Models: Comprehensive Visual-Tabular Representations for Whole-Heart Assessment and Beyond**|Yundi Zhang et.al.|[2504.13037v2](http://arxiv.org/abs/2504.13037v2)|**2025-04-18**|null|
-|**2025-04-17**|**Hierarchical Feature Learning for Medical Point Clouds via State Space Model**|Guoqing Zhang et.al.|[2504.13015v1](http://arxiv.org/abs/2504.13015v1)|**2025-04-17**|[link](https://github.com/wlsdzyzl/flemme)|
-|**2025-04-17**|**Why Ask One When You Can Ask $k$? Two-Stage Learning-to-Defer to a Set of Experts**|Yannis Montreuil et.al.|[2504.12988v1](http://arxiv.org/abs/2504.12988v1)|**2025-04-17**|null|
-|**2025-04-17**|**Homomorphisms with semilocal endomorphism rings between modules**|Federico Campanini et.al.|[2504.12874v1](http://arxiv.org/abs/2504.12874v1)|**2025-04-17**|null|
-|**2025-04-17**|**DashChat: Interactive Authoring of Industrial Dashboard Design Prototypes through Conversation with LLM-Powered Agents**|S. Shen et.al.|[2504.12865v1](http://arxiv.org/abs/2504.12865v1)|**2025-04-17**|null|
-|**2025-04-17**|**iHHO-SMOTe: A Cleansed Approach for Handling Outliers and Reducing Noise to Improve Imbalanced Data Classification**|Khaled SH. Raslan et.al.|[2504.12850v1](http://arxiv.org/abs/2504.12850v1)|**2025-04-17**|null|
-|**2025-04-17**|**High-Fidelity Image Inpainting with Multimodal Guided GAN Inversion**|Libo Zhang et.al.|[2504.12844v1](http://arxiv.org/abs/2504.12844v1)|**2025-04-17**|null|
-|**2025-04-17**|**Trading Prophets: How to Trade Multiple Stocks Optimally**|Surbhi Rajput et.al.|[2504.12823v1](http://arxiv.org/abs/2504.12823v1)|**2025-04-17**|null|
-|**2025-04-17**|**Hybrid Dense-UNet201 Optimization for Pap Smear Image Segmentation Using Spider Monkey Optimization**|Ach Khozaimi et.al.|[2504.12807v1](http://arxiv.org/abs/2504.12807v1)|**2025-04-17**|null|
-|**2025-04-17**|**Open Loop Layout Optimization: Feasible Path Planning and Exact Door-to-Door Distance Calculation**|Seyed Mahdi Shavarani et.al.|[2504.12792v1](http://arxiv.org/abs/2504.12792v1)|**2025-04-17**|null|
-|**2025-04-17**|**Falcon: Advancing Asynchronous BFT Consensus for Lower Latency and Enhanced Throughput**|Xiaohai Dai et.al.|[2504.12766v1](http://arxiv.org/abs/2504.12766v1)|**2025-04-17**|[link](https://github.com/cgcl-codes/falcon)|
-|**2025-04-17**|**Stronger, Steadier & Superior: Geometric Consistency in Depth VFM Forges Domain Generalized Semantic Segmentation**|Siyu Chen et.al.|[2504.12753v1](http://arxiv.org/abs/2504.12753v1)|**2025-04-17**|[link](https://github.com/anonymouse-xzrptkvyqc/depthforge)|
-|**2025-04-17**|**Dead Gate Elimination**|Yanbin Chen et.al.|[2504.12729v1](http://arxiv.org/abs/2504.12729v1)|**2025-04-17**|null|
-|**2025-04-17**|**TUMLS: Trustful Fully Unsupervised Multi-Level Segmentation for Whole Slide Images of Histology**|Walid Rehamnia et.al.|[2504.12718v1](http://arxiv.org/abs/2504.12718v1)|**2025-04-17**|null|
-|**2025-04-17**|**Self-Supervised Pre-training with Combined Datasets for 3D Perception in Autonomous Driving**|Shumin Wang et.al.|[2504.12709v1](http://arxiv.org/abs/2504.12709v1)|**2025-04-17**|null|
-|**2025-04-17**|**SmartFreeEdit: Mask-Free Spatial-Aware Image Editing with Complex Instruction Understanding**|Qianqian Sun et.al.|[2504.12704v1](http://arxiv.org/abs/2504.12704v1)|**2025-04-17**|null|
-|**2025-04-17**|**Transferring linearly fixed QAOA angles: performance and real device results**|Ryo Sakai et.al.|[2504.12632v1](http://arxiv.org/abs/2504.12632v1)|**2025-04-17**|null|
-|**2025-04-17**|**Sampling-based Quantum Optimization Algorithm with Quantum Relaxation**|Hiromichi Matsuyama et.al.|[2504.12629v1](http://arxiv.org/abs/2504.12629v1)|**2025-04-17**|null|
-|**2025-04-17**|**SAM-Based Building Change Detection with Distribution-Aware Fourier Adaptation and Edge-Constrained Warping**|Yun-Cheng Li et.al.|[2504.12619v1](http://arxiv.org/abs/2504.12619v1)|**2025-04-17**|null|
-|**2025-04-17**|**Robo-SGG: Exploiting Layout-Oriented Normalization and Restitution for Robust Scene Graph Generation**|Changsheng Lv et.al.|[2504.12606v1](http://arxiv.org/abs/2504.12606v1)|**2025-04-17**|null|
+|**2025-04-18**|**MIG: Automatic Data Selection for Instruction Tuning by Maximizing Information Gain in Semantic Space**|Yicheng Chen et.al.|[2504.13835v1](http://arxiv.org/abs/2504.13835v1)|**2025-04-18**|null|
+|**2025-04-18**|**CheXWorld: Exploring Image World Modeling for Radiograph Representation Learning**|Yang Yue et.al.|[2504.13820v1](http://arxiv.org/abs/2504.13820v1)|**2025-04-18**|[link](https://github.com/LeapLabTHU/CheXWorld)|
+|**2025-04-18**|**Imitation Learning with Precisely Labeled Human Demonstrations**|Yilong Song et.al.|[2504.13803v1](http://arxiv.org/abs/2504.13803v1)|**2025-04-18**|null|
+|**2025-04-18**|**The Binary and Ternary Quantization Can Improve Feature Discrimination**|Weizhi Lu et.al.|[2504.13792v1](http://arxiv.org/abs/2504.13792v1)|**2025-04-18**|null|
+|**2025-04-18**|**DAM-Net: Domain Adaptation Network with Micro-Labeled Fine-Tuning for Change Detection**|Hongjia Chen et.al.|[2504.13748v1](http://arxiv.org/abs/2504.13748v1)|**2025-04-18**|null|
+|**2025-04-18**|**$O(p \log d)$ Subgraph Isomorphism using Stigmergic Swarming Agents**|H. Van Dyke Parunak et.al.|[2504.13722v1](http://arxiv.org/abs/2504.13722v1)|**2025-04-18**|null|
+|**2025-04-18**|**Few-Shot Referring Video Single- and Multi-Object Segmentation via Cross-Modal Affinity with Instance Sequence Matching**|Heng Liu et.al.|[2504.13710v1](http://arxiv.org/abs/2504.13710v1)|**2025-04-18**|null|
+|**2025-04-18**|**Stability of flocking in the reciprocal two-species Vicsek model: Effects of relative population, motility, and noise**|Aditya Kumar Dutta et.al.|[2504.13709v1](http://arxiv.org/abs/2504.13709v1)|**2025-04-18**|null|
+|**2025-04-18**|**Enhancing Pothole Detection and Characterization: Integrated Segmentation and Depth Estimation in Road Anomaly Systems**|Uthman Baroudi et.al.|[2504.13648v1](http://arxiv.org/abs/2504.13648v1)|**2025-04-18**|null|
+|**2025-04-18**|**Efficient Parameter Adaptation for Multi-Modal Medical Image Segmentation and Prognosis**|Numan Saeed et.al.|[2504.13645v1](http://arxiv.org/abs/2504.13645v1)|**2025-04-18**|null|
+|**2025-04-18**|**Remedy: Learning Machine Translation Evaluation from Human Preferences with Reward Modeling**|Shaomu Tan et.al.|[2504.13630v1](http://arxiv.org/abs/2504.13630v1)|**2025-04-18**|null|
+|**2025-04-18**|**Thought Manipulation: External Thought Can Be Efficient for Large Reasoning Models**|Yule Liu et.al.|[2504.13626v1](http://arxiv.org/abs/2504.13626v1)|**2025-04-18**|null|
+|**2025-04-18**|**A new thermodynamic function for binary mixtures: the co-molar volume**|Kristian Polanco Olsen et.al.|[2504.13602v1](http://arxiv.org/abs/2504.13602v1)|**2025-04-18**|null|
+|**2025-04-18**|**ViG3D-UNet: Volumetric Vascular Connectivity-Aware Segmentation via 3D Vision Graph Representation**|Bowen Liu et.al.|[2504.13599v1](http://arxiv.org/abs/2504.13599v1)|**2025-04-18**|null|
+|**2025-04-18**|**FocusNet: Transformer-enhanced Polyp Segmentation with Local and Pooling Attention**|Jun Zeng et.al.|[2504.13597v1](http://arxiv.org/abs/2504.13597v1)|**2025-04-18**|null|
+|**2025-04-18**|**HDBFormer: Efficient RGB-D Semantic Segmentation with A Heterogeneous Dual-Branch Framework**|Shuobin Wei et.al.|[2504.13579v1](http://arxiv.org/abs/2504.13579v1)|**2025-04-18**|null|
+|**2025-04-18**|**Zero-Shot Industrial Anomaly Segmentation with Image-Aware Prompt Generation**|SoYoung Park et.al.|[2504.13560v1](http://arxiv.org/abs/2504.13560v1)|**2025-04-18**|null|
+|**2025-04-18**|**A Novel Hybrid Approach for Retinal Vessel Segmentation with Dynamic Long-Range Dependency and Multi-Scale Retinal Edge Fusion Enhancement**|Yihao Ouyang et.al.|[2504.13553v1](http://arxiv.org/abs/2504.13553v1)|**2025-04-18**|null|
+|**2025-04-18**|**Energy Minimization in Fluid Flow through Tubes and Networks of Various Geometries**|Taha Sochi et.al.|[2504.13546v1](http://arxiv.org/abs/2504.13546v1)|**2025-04-18**|null|
+|**2025-04-18**|**MusFlow: Multimodal Music Generation via Conditional Flow Matching**|Jiahao Song et.al.|[2504.13535v1](http://arxiv.org/abs/2504.13535v1)|**2025-04-18**|null|
+|**2025-04-18**|**An asymptotic preserving scheme for the quantum Liouville-BGK equation**|Romain Duboscq et.al.|[2504.13487v1](http://arxiv.org/abs/2504.13487v1)|**2025-04-18**|null|
+|**2025-04-18**|**Chain-of-Thought Textual Reasoning for Few-shot Temporal Action Localization**|Hongwei Ji et.al.|[2504.13460v1](http://arxiv.org/abs/2504.13460v1)|**2025-04-18**|null|
+|**2025-04-18**|**Learning from Noisy Pseudo-labels for All-Weather Land Cover Mapping**|Wang Liu et.al.|[2504.13458v1](http://arxiv.org/abs/2504.13458v1)|**2025-04-18**|null|
+|**2025-04-18**|**Ascribe New Dimensions to Scientific Data Visualization with VR**|Daniela Ushizima et.al.|[2504.13448v1](http://arxiv.org/abs/2504.13448v1)|**2025-04-18**|null|
+|**2025-04-18**|**SatelliteCalculator: A Multi-Task Vision Foundation Model for Quantitative Remote Sensing Inversion**|Zhenyu Yu et.al.|[2504.13442v1](http://arxiv.org/abs/2504.13442v1)|**2025-04-18**|null|
+|**2025-04-18**|**Temporal Propagation of Asymmetric Feature Pyramid for Surgical Scene Segmentation**|Cheng Yuan et.al.|[2504.13440v1](http://arxiv.org/abs/2504.13440v1)|**2025-04-18**|null|
+|**2025-04-18**|**HSACNet: Hierarchical Scale-Aware Consistency Regularized Semi-Supervised Change Detection**|Qi'ao Xu et.al.|[2504.13428v1](http://arxiv.org/abs/2504.13428v1)|**2025-04-18**|null|
+|**2025-04-18**|**DADU: Dual Attention-based Deep Supervised UNet for Automated Semantic Segmentation of Cardiac Images**|Racheal Mukisa et.al.|[2504.13415v1](http://arxiv.org/abs/2504.13415v1)|**2025-04-18**|null|
+|**2025-04-18**|**LoRA-Based Continual Learning with Constraints on Critical Parameter Changes**|Shimou Ling et.al.|[2504.13407v1](http://arxiv.org/abs/2504.13407v1)|**2025-04-18**|null|
+|**2025-04-18**|**CytoFM: The first cytology foundation model**|Vedrana Ivezić et.al.|[2504.13402v1](http://arxiv.org/abs/2504.13402v1)|**2025-04-18**|null|

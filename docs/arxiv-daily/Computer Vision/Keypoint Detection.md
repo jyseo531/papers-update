@@ -2,9 +2,11 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-18**|**PV-VLM: A Multimodal Vision-Language Approach Incorporating Sky Images for Intra-Hour Photovoltaic Power Forecasting**|Huapeng Lin et.al.|[2504.13624v1](http://arxiv.org/abs/2504.13624v1)|**2025-04-18**|null|
 |**2025-04-16**|**Suppression of composition g-modes in chemically-equilibrating warm neutron stars**|Tianqi Zhao et.al.|[2504.12230v1](http://arxiv.org/abs/2504.12230v1)|**2025-04-16**|null|
 |**2025-04-16**|**Flow Intelligence: Robust Feature Matching via Temporal Signature Correlation**|Jie Wang et.al.|[2504.11949v1](http://arxiv.org/abs/2504.11949v1)|**2025-04-16**|null|
 |**2025-04-16**|**Learning Physics-Informed Color-Aware Transforms for Low-Light Image Enhancement**|Xingxing Yang et.al.|[2504.11896v1](http://arxiv.org/abs/2504.11896v1)|**2025-04-16**|null|
+|**2025-04-15**|**EDGS: Eliminating Densification for Efficient Convergence of 3DGS**|Dmytro Kotovenko et.al.|[2504.13204v1](http://arxiv.org/abs/2504.13204v1)|**2025-04-15**|null|
 |**2025-04-15**|**Reconstructions and Dynamics of $β$-Lithium Thiophosphate Surfaces**|Hanna Türk et.al.|[2504.11553v1](http://arxiv.org/abs/2504.11553v1)|**2025-04-15**|null|
 |**2025-04-15**|**Visual Re-Ranking with Non-Visual Side Information**|Gustav Hanning et.al.|[2504.11134v1](http://arxiv.org/abs/2504.11134v1)|**2025-04-15**|[link](https://github.com/ghanning/gcsa)|
 |**2025-04-15**|**UKDM: Underwater keypoint detection and matching using underwater image enhancement techniques**|Pedro Diaz-Garcia et.al.|[2504.11063v1](http://arxiv.org/abs/2504.11063v1)|**2025-04-15**|null|
@@ -30,5 +32,3 @@
 |**2025-04-07**|**Towards Efficient Real-Time Video Motion Transfer via Generative Time Series Modeling**|Tasmiah Haque et.al.|[2504.05537v1](http://arxiv.org/abs/2504.05537v1)|**2025-04-07**|null|
 |**2025-04-07**|**Understanding and Design of Interstitial Oxygen Conductors**|Jun Meng et.al.|[2504.04896v1](http://arxiv.org/abs/2504.04896v1)|**2025-04-07**|null|
 |**2025-04-07**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834v2](http://arxiv.org/abs/2504.04834v2)|**2025-04-10**|[link](https://github.com/stilcrad/denseaffine)|
-|**2025-04-07**|**SMF: Template-free and Rig-free Animation Transfer using Kinetic Codes**|Sanjeev Muralikrishnan et.al.|[2504.04831v1](http://arxiv.org/abs/2504.04831v1)|**2025-04-07**|null|
-|**2025-04-04**|**Predicting energy of the quantum system from one- and two- electron integrals using Deep Learning**|Valerii Chuiko et.al.|[2504.03849v1](http://arxiv.org/abs/2504.03849v1)|**2025-04-04**|null|

@@ -2,33 +2,33 @@
 ### Point Cloud Registration
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-17**|**Aligning Constraint Generation with Design Intent in Parametric CAD**|Evan Casey et.al.|[2504.13178v1](http://arxiv.org/abs/2504.13178v1)|**2025-04-17**|null|
-|**2025-04-17**|**Quantum algorithm for solving nonlinear differential equations based on physics-informed effective Hamiltonians**|Hsin-Yu Wu et.al.|[2504.13174v1](http://arxiv.org/abs/2504.13174v1)|**2025-04-17**|null|
-|**2025-04-17**|**SemCORE: A Semantic-Enhanced Generative Cross-Modal Retrieval Framework with MLLMs**|Haoxuan Li et.al.|[2504.13172v1](http://arxiv.org/abs/2504.13172v1)|**2025-04-17**|null|
-|**2025-04-17**|**Testing for dice control at craps**|Stewart N. Ethier et.al.|[2504.13158v1](http://arxiv.org/abs/2504.13158v1)|**2025-04-17**|null|
-|**2025-04-17**|**AerialMegaDepth: Learning Aerial-Ground Reconstruction and View Synthesis**|Khiem Vuong et.al.|[2504.13157v1](http://arxiv.org/abs/2504.13157v1)|**2025-04-17**|null|
-|**2025-04-17**|**St4RTrack: Simultaneous 4D Reconstruction and Tracking in the World**|Haiwen Feng et.al.|[2504.13152v1](http://arxiv.org/abs/2504.13152v1)|**2025-04-17**|null|
-|**2025-04-17**|**Extending the Mott-Gurney law to one-dimensional nonplanar diodes using point transformations**|Allen L. Garner et.al.|[2504.13138v1](http://arxiv.org/abs/2504.13138v1)|**2025-04-17**|null|
-|**2025-04-17**|**CEERS: Forging the First Dust Grains in the Universe? A Population of Galaxies with spectroscopically-derived Extremely Low Dust Attenuation (GELDA) at 4.0<z<11.4**|Denis Burgarella et.al.|[2504.13118v1](http://arxiv.org/abs/2504.13118v1)|**2025-04-17**|null|
-|**2025-04-17**|**Intersection of non-degenerate Hermitian variety and cubic hypersurface**|Subrata Manna et.al.|[2504.13106v1](http://arxiv.org/abs/2504.13106v1)|**2025-04-17**|null|
-|**2025-04-17**|**Kato-Kuzumaki's properties for function fields over higher local fields**|Felipe Gambardella et.al.|[2504.13100v1](http://arxiv.org/abs/2504.13100v1)|**2025-04-17**|null|
-|**2025-04-17**|**A lattice point counting approach for the study of the number of self-avoiding walks on $\mathbb{Z}^{d}$**|Youssef Lazar et.al.|[2504.13093v1](http://arxiv.org/abs/2504.13093v1)|**2025-04-17**|null|
-|**2025-04-17**|**Variance-Reduced Fast Operator Splitting Methods for Stochastic Generalized Equations**|Quoc Tran-Dinh et.al.|[2504.13046v1](http://arxiv.org/abs/2504.13046v1)|**2025-04-17**|null|
-|**2025-04-17**|**Evidence for sulfur chemistry in the atmosphere of the warm sub-Neptune TOI-270 d**|Lukas Felix et.al.|[2504.13039v1](http://arxiv.org/abs/2504.13039v1)|**2025-04-17**|null|
-|**2025-04-17**|**Riemannian Patch Assignment Gradient Flows**|Daniel Gonzalez-Alvarado et.al.|[2504.13024v1](http://arxiv.org/abs/2504.13024v1)|**2025-04-17**|null|
-|**2025-04-17**|**Hierarchical Feature Learning for Medical Point Clouds via State Space Model**|Guoqing Zhang et.al.|[2504.13015v1](http://arxiv.org/abs/2504.13015v1)|**2025-04-17**|[link](https://github.com/wlsdzyzl/flemme)|
-|**2025-04-17**|**Hopf Exceptional Points**|Tsuneya Yoshida et.al.|[2504.13012v1](http://arxiv.org/abs/2504.13012v1)|**2025-04-17**|null|
-|**2025-04-17**|**Phenomenology of Inverse Seesaw Using $S_3$ Modular Symmetry**|Mitesh Kumar Behera et.al.|[2504.12954v1](http://arxiv.org/abs/2504.12954v1)|**2025-04-17**|null|
-|**2025-04-17**|**Tensor-monopole-induced topological boundary effects in four-dimensional acoustic metamaterials**|Qingyang Mo et.al.|[2504.12950v1](http://arxiv.org/abs/2504.12950v1)|**2025-04-17**|null|
-|**2025-04-17**|**RL-PINNs: Reinforcement Learning-Driven Adaptive Sampling for Efficient Training of PINNs**|Zhenao Song et.al.|[2504.12949v1](http://arxiv.org/abs/2504.12949v1)|**2025-04-17**|null|
-|**2025-04-17**|**Dynamical relationship between CAR algebras and determinantal point processes: point processes at finite temperature and stochastically positive KMS systems**|Ryosuke Sato et.al.|[2504.12935v1](http://arxiv.org/abs/2504.12935v1)|**2025-04-17**|null|
-|**2025-04-17**|**Eigenvalue distribution in gaps of the essential spectrum of the Bochner-Schrödinger operator**|Yuri A. Kordyukov et.al.|[2504.12928v1](http://arxiv.org/abs/2504.12928v1)|**2025-04-17**|null|
-|**2025-04-17**|**Exact Learning Dynamics of In-Context Learning in Linear Transformers and Its Application to Non-Linear Transformers**|Nischal Mainali et.al.|[2504.12916v1](http://arxiv.org/abs/2504.12916v1)|**2025-04-17**|null|
-|**2025-04-17**|**Real-time High-fidelity Gaussian Human Avatars with Position-based Interpolation of Spatially Distributed MLPs**|Youyi Zhan et.al.|[2504.12909v1](http://arxiv.org/abs/2504.12909v1)|**2025-04-17**|null|
-|**2025-04-17**|**De-jittering Ariel: an optimized algorithm**|Andrea Bocchieri et.al.|[2504.12907v2](http://arxiv.org/abs/2504.12907v2)|**2025-04-18**|null|
-|**2025-04-17**|**Control of blow-up profiles for the mass-critical focusing nonlinear Schrödinger equation on bounded domains**|Ludovick Gagnon et.al.|[2504.12901v1](http://arxiv.org/abs/2504.12901v1)|**2025-04-17**|null|
-|**2025-04-17**|**Photoinduced magnetic phase transitions in the cubic Kondo-lattice model**|Ryo Hamano et.al.|[2504.12881v1](http://arxiv.org/abs/2504.12881v1)|**2025-04-17**|null|
-|**2025-04-17**|**SC3EF: A Joint Self-Correlation and Cross-Correspondence Estimation Framework for Visible and Thermal Image Registration**|Xi Tong et.al.|[2504.12869v1](http://arxiv.org/abs/2504.12869v1)|**2025-04-17**|null|
-|**2025-04-17**|**Computer-Aided Design of Personalized Occlusal Positioning Splints Using Multimodal 3D Data**|Agnieszka Anna Tomaka et.al.|[2504.12868v1](http://arxiv.org/abs/2504.12868v1)|**2025-04-17**|null|
-|**2025-04-17**|**Intersections of random chords of a circle**|Cynthia Bortolotto et.al.|[2504.12866v1](http://arxiv.org/abs/2504.12866v1)|**2025-04-17**|null|
-|**2025-04-17**|**3D-PNAS: 3D Industrial Surface Anomaly Synthesis with Perlin Noise**|Yifeng Cheng et.al.|[2504.12856v1](http://arxiv.org/abs/2504.12856v1)|**2025-04-17**|null|
+|**2025-04-18**|**Limiting spectral laws for sparse random circulant matrices**|Adrian Beker et.al.|[2504.13833v1](http://arxiv.org/abs/2504.13833v1)|**2025-04-18**|null|
+|**2025-04-18**|**Ordered Yao graphs: maximum degree, edge numbers, and clique numbers**|Péter Ágoston et.al.|[2504.13819v1](http://arxiv.org/abs/2504.13819v1)|**2025-04-18**|null|
+|**2025-04-18**|**Cops and Robbers for Graphs on Surfaces with Crossings**|Prosenjit Bose et.al.|[2504.13813v1](http://arxiv.org/abs/2504.13813v1)|**2025-04-18**|null|
+|**2025-04-18**|**Disentangling the Effects of Temperature, Clouds, and Gravity on K I doublet in L dwarfs**|Alexandra J. Baldelli et.al.|[2504.13810v1](http://arxiv.org/abs/2504.13810v1)|**2025-04-18**|null|
+|**2025-04-18**|**Imitation Learning with Precisely Labeled Human Demonstrations**|Yilong Song et.al.|[2504.13803v1](http://arxiv.org/abs/2504.13803v1)|**2025-04-18**|null|
+|**2025-04-18**|**Accurate Point Defect Energy Levels from Non-Empirical Screened Range-Separated Hybrid Functionals: the Case of Native Vacancies in ZnO**|Sijia Ke et.al.|[2504.13799v1](http://arxiv.org/abs/2504.13799v1)|**2025-04-18**|null|
+|**2025-04-18**|**ChatNekoHacker: Real-Time Fan Engagement with Conversational Agents**|Takuya Sera et.al.|[2504.13793v1](http://arxiv.org/abs/2504.13793v1)|**2025-04-18**|null|
+|**2025-04-18**|**RefComp: A Reference-guided Unified Framework for Unpaired Point Cloud Completion**|Yixuan Yang et.al.|[2504.13788v1](http://arxiv.org/abs/2504.13788v1)|**2025-04-18**|null|
+|**2025-04-18**|**The complexity of reachability problems in strongly connected finite automata**|Stefan Kiefer et.al.|[2504.13784v1](http://arxiv.org/abs/2504.13784v1)|**2025-04-18**|null|
+|**2025-04-18**|**Emergent chiral toplogical point gaps in a non-Hermitian quasiperiodic Su-Schrieffer-Heeger model**|Zhi-Bin Liang et.al.|[2504.13770v1](http://arxiv.org/abs/2504.13770v1)|**2025-04-18**|null|
+|**2025-04-18**|**Access control for Data Spaces**|Nikos Fotiou et.al.|[2504.13767v1](http://arxiv.org/abs/2504.13767v1)|**2025-04-18**|null|
+|**2025-04-18**|**An eco-epidemiological model with prey-taxis and slow diffusion: Global existence, boundedness and novel dynamics**|Ranjit Kumar Upadhyay et.al.|[2504.13764v1](http://arxiv.org/abs/2504.13764v1)|**2025-04-18**|null|
+|**2025-04-18**|**Gevrey class regularity for steady-state incompressible Navier-Stokes equations in parametric domains and related models**|Alexey Chernov et.al.|[2504.13753v1](http://arxiv.org/abs/2504.13753v1)|**2025-04-18**|null|
+|**2025-04-18**|**Generating new coordination compounds via multireference simulations, genetic algorithms and machine learning: the case of Co(II) molecular magnets**|Lion Frangoulis et.al.|[2504.13749v1](http://arxiv.org/abs/2504.13749v1)|**2025-04-18**|null|
+|**2025-04-18**|**High Energy String Theory and the Celestial Sphere**|Xavier Kervyn et.al.|[2504.13738v1](http://arxiv.org/abs/2504.13738v1)|**2025-04-18**|null|
+|**2025-04-18**|**LimitNet: Progressive, Content-Aware Image Offloading for Extremely Weak Devices & Networks**|Ali Hojjat et.al.|[2504.13736v1](http://arxiv.org/abs/2504.13736v1)|**2025-04-18**|null|
+|**2025-04-18**|**Molecular Clouds at the Edge of the Galaxy I. Variation of CO J=2-1/1-0 Line Ratio**|C. S. Luo et.al.|[2504.13732v1](http://arxiv.org/abs/2504.13732v1)|**2025-04-18**|null|
+|**2025-04-18**|**Quantum Fisher Information and the Curvature of Entanglement**|Zain H. Saleem et.al.|[2504.13729v1](http://arxiv.org/abs/2504.13729v1)|**2025-04-18**|null|
+|**2025-04-18**|**Isotropic and anisotropic spin-dependent transport in epitaxial Fe$_3$Si**|Nozomi Soya et.al.|[2504.13721v1](http://arxiv.org/abs/2504.13721v1)|**2025-04-18**|null|
+|**2025-04-18**|**The relativity of color perception**|Michel Berthier et.al.|[2504.13720v1](http://arxiv.org/abs/2504.13720v1)|**2025-04-18**|null|
+|**2025-04-18**|**Radio-Frequency Pseudo-Null Induced by Light in an Ion Trap**|Daun Chung et.al.|[2504.13699v1](http://arxiv.org/abs/2504.13699v1)|**2025-04-18**|null|
+|**2025-04-18**|**A microlocal Cauchy problem through a crossing point of Hamiltonian flows**|Kenta Higuchi et.al.|[2504.13693v1](http://arxiv.org/abs/2504.13693v1)|**2025-04-18**|null|
+|**2025-04-18**|**Laboratory rotational spectra of cyanocyclohexane and its siblings (1- and 4-cyanocyclohexene) using a compact CP-FTMW spectrometer for interstellar detection**|Gabi Wenzel et.al.|[2504.13686v1](http://arxiv.org/abs/2504.13686v1)|**2025-04-18**|null|
+|**2025-04-18**|**Narrow light beams with linear polarization in a Kerr medium**|Victor P. Ruban et.al.|[2504.13681v1](http://arxiv.org/abs/2504.13681v1)|**2025-04-18**|null|
+|**2025-04-18**|**MIRI-JWST mid-infrared direct imaging of the debris disk of HD106906**|Daniel Rouan et.al.|[2504.13679v1](http://arxiv.org/abs/2504.13679v1)|**2025-04-18**|null|
+|**2025-04-18**|**On symmetricity of orthogonality in function spaces and space of operators on Banach spaces**|Shamim Sohel et.al.|[2504.13663v1](http://arxiv.org/abs/2504.13663v1)|**2025-04-18**|null|
+|**2025-04-18**|**Fermi surface evolution in Weyl semimetal t-PtBi$_2$ probed by transverse transport properties**|F. Caglieris et.al.|[2504.13661v1](http://arxiv.org/abs/2504.13661v1)|**2025-04-18**|null|
+|**2025-04-18**|**SRGAJ230631.0+155633: an extremely X-ray luminous, heavily obscured, radio-loud quasar at z=0.44 discovered by SRG/ART-XC**|Grigory Uskov et.al.|[2504.13658v1](http://arxiv.org/abs/2504.13658v1)|**2025-04-18**|null|
+|**2025-04-18**|**Analytic approaches to anisotropic holographic superfluids in asymptotically hyperscaing viloation geometry**|Gitae Kim et.al.|[2504.13635v1](http://arxiv.org/abs/2504.13635v1)|**2025-04-18**|null|
+|**2025-04-18**|**Behaviors of Gauss curvatures and mean curvatures of Lightcone framed surfaces in the Lorentz-Minkowski 3-space**|Chang Xu et.al.|[2504.13628v1](http://arxiv.org/abs/2504.13628v1)|**2025-04-18**|null|

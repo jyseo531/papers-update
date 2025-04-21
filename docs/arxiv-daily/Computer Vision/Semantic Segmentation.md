@@ -2,33 +2,33 @@
 ### Semantic Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-17**|**SemCORE: A Semantic-Enhanced Generative Cross-Modal Retrieval Framework with MLLMs**|Haoxuan Li et.al.|[2504.13172v1](http://arxiv.org/abs/2504.13172v1)|**2025-04-17**|null|
-|**2025-04-17**|**CLIMB: CLustering-based Iterative Data Mixture Bootstrapping for Language Model Pre-training**|Shizhe Diao et.al.|[2504.13161v1](http://arxiv.org/abs/2504.13161v1)|**2025-04-17**|null|
-|**2025-04-17**|**Digital Twin Generation from Visual Data: A Survey**|Andrew Melnik et.al.|[2504.13159v1](http://arxiv.org/abs/2504.13159v1)|**2025-04-17**|null|
-|**2025-04-17**|**Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs**|Shaohui Dai et.al.|[2504.13153v1](http://arxiv.org/abs/2504.13153v1)|**2025-04-17**|[link](https://github.com/atrovast/thgs)|
-|**2025-04-17**|**Syntactic and Semantic Control of Large Language Models via Sequential Monte Carlo**|João Loula et.al.|[2504.13139v1](http://arxiv.org/abs/2504.13139v1)|**2025-04-17**|null|
-|**2025-04-17**|**VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models**|Haojian Huang et.al.|[2504.13122v1](http://arxiv.org/abs/2504.13122v1)|**2025-04-17**|[link](https://github.com/haroldchen19/vistadpo)|
-|**2025-04-17**|**Probing and Inducing Combinational Creativity in Vision-Language Models**|Yongqian Peng et.al.|[2504.13120v1](http://arxiv.org/abs/2504.13120v1)|**2025-04-17**|null|
-|**2025-04-17**|**Object-Driven Narrative in AR: A Scenario-Metaphor Framework with VLM Integration**|Yusi Sun et.al.|[2504.13119v1](http://arxiv.org/abs/2504.13119v1)|**2025-04-17**|null|
-|**2025-04-17**|**Aspect-Based Summarization with Self-Aspect Retrieval Enhanced Generation**|Yichao Feng et.al.|[2504.13054v1](http://arxiv.org/abs/2504.13054v1)|**2025-04-17**|null|
-|**2025-04-17**|**GraphAttack: Exploiting Representational Blindspots in LLM Safety Mechanisms**|Sinan He et.al.|[2504.13052v1](http://arxiv.org/abs/2504.13052v1)|**2025-04-17**|null|
-|**2025-04-17**|**Towards Cardiac MRI Foundation Models: Comprehensive Visual-Tabular Representations for Whole-Heart Assessment and Beyond**|Yundi Zhang et.al.|[2504.13037v2](http://arxiv.org/abs/2504.13037v2)|**2025-04-18**|null|
-|**2025-04-17**|**TTRD3: Texture Transfer Residual Denoising Dual Diffusion Model for Remote Sensing Image Super-Resolution**|Yide Liu et.al.|[2504.13026v1](http://arxiv.org/abs/2504.13026v1)|**2025-04-17**|[link](https://github.com/led-666/ttrd3)|
-|**2025-04-17**|**Hierarchical Feature Learning for Medical Point Clouds via State Space Model**|Guoqing Zhang et.al.|[2504.13015v1](http://arxiv.org/abs/2504.13015v1)|**2025-04-17**|[link](https://github.com/wlsdzyzl/flemme)|
-|**2025-04-17**|**All-in-One Transferring Image Compression from Human Perception to Multi-Machine Perception**|Jiancheng Zhao et.al.|[2504.12997v1](http://arxiv.org/abs/2504.12997v1)|**2025-04-17**|null|
-|**2025-04-17**|**SHA256 at SemEval-2025 Task 4: Selective Amnesia -- Constrained Unlearning for Large Language Models via Knowledge Isolation**|Saransh Agrawal et.al.|[2504.12996v1](http://arxiv.org/abs/2504.12996v1)|**2025-04-17**|null|
-|**2025-04-17**|**Vision and Language Integration for Domain Generalization**|Yanmei Wang et.al.|[2504.12966v1](http://arxiv.org/abs/2504.12966v1)|**2025-04-17**|null|
-|**2025-04-17**|**Rethinking Temporal Fusion with a Unified Gradient Descent View for 3D Semantic Occupancy Prediction**|Dubing Chen et.al.|[2504.12959v2](http://arxiv.org/abs/2504.12959v2)|**2025-04-18**|[link](https://github.com/cdb342/gdfusion)|
-|**2025-04-17**|**Efficient Masked Image Compression with Position-Indexed Self-Attention**|Chengjie Dai et.al.|[2504.12923v1](http://arxiv.org/abs/2504.12923v1)|**2025-04-17**|null|
-|**2025-04-17**|**OntoPortal-Astro, a Semantic Artefact Catalogue for Astronomy**|Baptiste Cecconi et.al.|[2504.12897v1](http://arxiv.org/abs/2504.12897v1)|**2025-04-17**|null|
-|**2025-04-17**|**High-Fidelity Image Inpainting with Multimodal Guided GAN Inversion**|Libo Zhang et.al.|[2504.12844v1](http://arxiv.org/abs/2504.12844v1)|**2025-04-17**|null|
-|**2025-04-17**|**Image-Editing Specialists: An RLAIF Approach for Diffusion Models**|Elior Benarous et.al.|[2504.12833v1](http://arxiv.org/abs/2504.12833v1)|**2025-04-17**|[link](https://github.com/ebenarous/editspecialists)|
-|**2025-04-17**|**Hybrid Dense-UNet201 Optimization for Pap Smear Image Segmentation Using Spider Monkey Optimization**|Ach Khozaimi et.al.|[2504.12807v1](http://arxiv.org/abs/2504.12807v1)|**2025-04-17**|null|
-|**2025-04-17**|**A Survey on Cross-Modal Interaction Between Music and Multimodal Data**|Sifei Li et.al.|[2504.12796v1](http://arxiv.org/abs/2504.12796v1)|**2025-04-17**|null|
-|**2025-04-17**|**Distributed Intelligent Sensing and Communications for 6G: Architecture and Use Cases**|Kyriakos Stylianopoulos et.al.|[2504.12765v1](http://arxiv.org/abs/2504.12765v1)|**2025-04-17**|null|
-|**2025-04-17**|**Stronger, Steadier & Superior: Geometric Consistency in Depth VFM Forges Domain Generalized Semantic Segmentation**|Siyu Chen et.al.|[2504.12753v1](http://arxiv.org/abs/2504.12753v1)|**2025-04-17**|[link](https://github.com/anonymouse-xzrptkvyqc/depthforge)|
-|**2025-04-17**|**TUMLS: Trustful Fully Unsupervised Multi-Level Segmentation for Whole Slide Images of Histology**|Walid Rehamnia et.al.|[2504.12718v1](http://arxiv.org/abs/2504.12718v1)|**2025-04-17**|null|
-|**2025-04-17**|**Self-Supervised Pre-training with Combined Datasets for 3D Perception in Autonomous Driving**|Shumin Wang et.al.|[2504.12709v1](http://arxiv.org/abs/2504.12709v1)|**2025-04-17**|null|
-|**2025-04-17**|**SmartFreeEdit: Mask-Free Spatial-Aware Image Editing with Complex Instruction Understanding**|Qianqian Sun et.al.|[2504.12704v1](http://arxiv.org/abs/2504.12704v1)|**2025-04-17**|null|
-|**2025-04-17**|**SAM-Based Building Change Detection with Distribution-Aware Fourier Adaptation and Edge-Constrained Warping**|Yun-Cheng Li et.al.|[2504.12619v1](http://arxiv.org/abs/2504.12619v1)|**2025-04-17**|null|
-|**2025-04-17**|**Robo-SGG: Exploiting Layout-Oriented Normalization and Restitution for Robust Scene Graph Generation**|Changsheng Lv et.al.|[2504.12606v1](http://arxiv.org/abs/2504.12606v1)|**2025-04-17**|null|
+|**2025-04-18**|**MIG: Automatic Data Selection for Instruction Tuning by Maximizing Information Gain in Semantic Space**|Yicheng Chen et.al.|[2504.13835v1](http://arxiv.org/abs/2504.13835v1)|**2025-04-18**|null|
+|**2025-04-18**|**Science Hierarchography: Hierarchical Organization of Science Literature**|Muhan Gao et.al.|[2504.13834v1](http://arxiv.org/abs/2504.13834v1)|**2025-04-18**|null|
+|**2025-04-18**|**Quantum Contextuality for Contextual Word Embeddings**|Karl Svozil et.al.|[2504.13824v1](http://arxiv.org/abs/2504.13824v1)|**2025-04-18**|null|
+|**2025-04-18**|**CheXWorld: Exploring Image World Modeling for Radiograph Representation Learning**|Yang Yue et.al.|[2504.13820v1](http://arxiv.org/abs/2504.13820v1)|**2025-04-18**|[link](https://github.com/LeapLabTHU/CheXWorld)|
+|**2025-04-18**|**Imitation Learning with Precisely Labeled Human Demonstrations**|Yilong Song et.al.|[2504.13803v1](http://arxiv.org/abs/2504.13803v1)|**2025-04-18**|null|
+|**2025-04-18**|**BadApex: Backdoor Attack Based on Adaptive Optimization Mechanism of Black-box Large Language Models**|Zhengxian Wu et.al.|[2504.13775v1](http://arxiv.org/abs/2504.13775v1)|**2025-04-18**|null|
+|**2025-04-18**|**Access control for Data Spaces**|Nikos Fotiou et.al.|[2504.13767v1](http://arxiv.org/abs/2504.13767v1)|**2025-04-18**|null|
+|**2025-04-18**|**DAM-Net: Domain Adaptation Network with Micro-Labeled Fine-Tuning for Change Detection**|Hongjia Chen et.al.|[2504.13748v1](http://arxiv.org/abs/2504.13748v1)|**2025-04-18**|null|
+|**2025-04-18**|**MLEP: Multi-granularity Local Entropy Patterns for Universal AI-generated Image Detection**|Lin Yuan et.al.|[2504.13726v1](http://arxiv.org/abs/2504.13726v1)|**2025-04-18**|null|
+|**2025-04-18**|**Few-Shot Referring Video Single- and Multi-Object Segmentation via Cross-Modal Affinity with Instance Sequence Matching**|Heng Liu et.al.|[2504.13710v1](http://arxiv.org/abs/2504.13710v1)|**2025-04-18**|null|
+|**2025-04-18**|**Beyond Stereotypes: Exploring How Minority College Students Experience Stigma on Reddit**|Chaeeun Han et.al.|[2504.13674v1](http://arxiv.org/abs/2504.13674v1)|**2025-04-18**|null|
+|**2025-04-18**|**Enhancing Pothole Detection and Characterization: Integrated Segmentation and Depth Estimation in Road Anomaly Systems**|Uthman Baroudi et.al.|[2504.13648v1](http://arxiv.org/abs/2504.13648v1)|**2025-04-18**|null|
+|**2025-04-18**|**Efficient Parameter Adaptation for Multi-Modal Medical Image Segmentation and Prognosis**|Numan Saeed et.al.|[2504.13645v1](http://arxiv.org/abs/2504.13645v1)|**2025-04-18**|null|
+|**2025-04-18**|**Multi-modal Knowledge Graph Generation with Semantics-enriched Prompts**|Yajing Xu et.al.|[2504.13631v1](http://arxiv.org/abs/2504.13631v1)|**2025-04-18**|null|
+|**2025-04-18**|**Remedy: Learning Machine Translation Evaluation from Human Preferences with Reward Modeling**|Shaomu Tan et.al.|[2504.13630v1](http://arxiv.org/abs/2504.13630v1)|**2025-04-18**|null|
+|**2025-04-18**|**PV-VLM: A Multimodal Vision-Language Approach Incorporating Sky Images for Intra-Hour Photovoltaic Power Forecasting**|Huapeng Lin et.al.|[2504.13624v1](http://arxiv.org/abs/2504.13624v1)|**2025-04-18**|null|
+|**2025-04-18**|**Long-context Non-factoid Question Answering in Indic Languages**|Ritwik Mishra et.al.|[2504.13615v1](http://arxiv.org/abs/2504.13615v1)|**2025-04-18**|null|
+|**2025-04-18**|**ViG3D-UNet: Volumetric Vascular Connectivity-Aware Segmentation via 3D Vision Graph Representation**|Bowen Liu et.al.|[2504.13599v1](http://arxiv.org/abs/2504.13599v1)|**2025-04-18**|null|
+|**2025-04-18**|**FocusNet: Transformer-enhanced Polyp Segmentation with Local and Pooling Attention**|Jun Zeng et.al.|[2504.13597v1](http://arxiv.org/abs/2504.13597v1)|**2025-04-18**|null|
+|**2025-04-18**|**LMPOcc: 3D Semantic Occupancy Prediction Utilizing Long-Term Memory Prior from Historical Traversals**|Shanshuai Yuan et.al.|[2504.13596v1](http://arxiv.org/abs/2504.13596v1)|**2025-04-18**|null|
+|**2025-04-18**|**HDBFormer: Efficient RGB-D Semantic Segmentation with A Heterogeneous Dual-Branch Framework**|Shuobin Wei et.al.|[2504.13579v1](http://arxiv.org/abs/2504.13579v1)|**2025-04-18**|null|
+|**2025-04-18**|**WeatherGen: A Unified Diverse Weather Generator for LiDAR Point Clouds via Spider Mamba Diffusion**|Yang Wu et.al.|[2504.13561v1](http://arxiv.org/abs/2504.13561v1)|**2025-04-18**|null|
+|**2025-04-18**|**Zero-Shot Industrial Anomaly Segmentation with Image-Aware Prompt Generation**|SoYoung Park et.al.|[2504.13560v1](http://arxiv.org/abs/2504.13560v1)|**2025-04-18**|null|
+|**2025-04-18**|**A Novel Hybrid Approach for Retinal Vessel Segmentation with Dynamic Long-Range Dependency and Multi-Scale Retinal Edge Fusion Enhancement**|Yihao Ouyang et.al.|[2504.13553v1](http://arxiv.org/abs/2504.13553v1)|**2025-04-18**|null|
+|**2025-04-18**|**Beyond One-Hot Labels: Semantic Mixing for Model Calibration**|Haoyang Luo et.al.|[2504.13548v1](http://arxiv.org/abs/2504.13548v1)|**2025-04-18**|null|
+|**2025-04-18**|**MusFlow: Multimodal Music Generation via Conditional Flow Matching**|Jiahao Song et.al.|[2504.13535v1](http://arxiv.org/abs/2504.13535v1)|**2025-04-18**|null|
+|**2025-04-18**|**Large Language Models for Validating Network Protocol Parsers**|Mingwei Zheng et.al.|[2504.13515v1](http://arxiv.org/abs/2504.13515v1)|**2025-04-18**|null|
+|**2025-04-18**|**HMPE:HeatMap Embedding for Efficient Transformer-Based Small Object Detection**|YangChen Zeng et.al.|[2504.13469v1](http://arxiv.org/abs/2504.13469v1)|**2025-04-18**|null|
+|**2025-04-18**|**An Addendum to NeBula: Towards Extending TEAM CoSTAR's Solution to Larger Scale Environments**|Ali Agha et.al.|[2504.13461v1](http://arxiv.org/abs/2504.13461v1)|**2025-04-18**|null|
+|**2025-04-18**|**Chain-of-Thought Textual Reasoning for Few-shot Temporal Action Localization**|Hongwei Ji et.al.|[2504.13460v1](http://arxiv.org/abs/2504.13460v1)|**2025-04-18**|null|

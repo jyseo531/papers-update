@@ -2,33 +2,33 @@
 ### Vision Transformer
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-17**|**Perception Encoder: The best visual embeddings are not at the output of the network**|Daniel Bolya et.al.|[2504.13181v1](http://arxiv.org/abs/2504.13181v1)|**2025-04-17**|null|
-|**2025-04-17**|**ViTa-Zero: Zero-shot Visuotactile Object 6D Pose Estimation**|Hongyu Li et.al.|[2504.13179v1](http://arxiv.org/abs/2504.13179v1)|**2025-04-17**|null|
-|**2025-04-17**|**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**|Jang Hyun Cho et.al.|[2504.13180v1](http://arxiv.org/abs/2504.13180v1)|**2025-04-17**|null|
-|**2025-04-17**|**Single-Shot Shape and Reflectance with Spatial Polarization Multiplexing**|Tomoki Ichikawa et.al.|[2504.13177v1](http://arxiv.org/abs/2504.13177v1)|**2025-04-17**|null|
-|**2025-04-17**|**IMAGGarment-1: Fine-Grained Garment Generation for Controllable Fashion Design**|Fei Shen et.al.|[2504.13176v1](http://arxiv.org/abs/2504.13176v1)|**2025-04-17**|[link](https://github.com/muzishen/imaggarment-1)|
-|**2025-04-17**|**Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation**|Sizhe Yang et.al.|[2504.13175v1](http://arxiv.org/abs/2504.13175v1)|**2025-04-17**|null|
-|**2025-04-17**|**It's All Connected: A Journey Through Test-Time Memorization, Attentional Bias, Retention, and Online Optimization**|Ali Behrouz et.al.|[2504.13173v1](http://arxiv.org/abs/2504.13173v1)|**2025-04-17**|null|
-|**2025-04-17**|**Quantum algorithm for solving nonlinear differential equations based on physics-informed effective Hamiltonians**|Hsin-Yu Wu et.al.|[2504.13174v1](http://arxiv.org/abs/2504.13174v1)|**2025-04-17**|null|
-|**2025-04-17**|**Generate, but Verify: Reducing Hallucination in Vision-Language Models with Retrospective Resampling**|Tsung-Han Wu et.al.|[2504.13169v1](http://arxiv.org/abs/2504.13169v1)|**2025-04-17**|[link](https://github.com/tsunghan-wu/reverse_vlm)|
-|**2025-04-17**|**ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos**|Zetong Zhang et.al.|[2504.13167v2](http://arxiv.org/abs/2504.13167v2)|**2025-04-18**|null|
-|**2025-04-17**|**Personalized Text-to-Image Generation with Auto-Regressive Models**|Kaiyue Sun et.al.|[2504.13162v1](http://arxiv.org/abs/2504.13162v1)|**2025-04-17**|[link](https://github.com/kaiyuesun98/t2i-personalization-with-ar)|
-|**2025-04-17**|**Digital Twin Generation from Visual Data: A Survey**|Andrew Melnik et.al.|[2504.13159v1](http://arxiv.org/abs/2504.13159v1)|**2025-04-17**|null|
-|**2025-04-17**|**AerialMegaDepth: Learning Aerial-Ground Reconstruction and View Synthesis**|Khiem Vuong et.al.|[2504.13157v1](http://arxiv.org/abs/2504.13157v1)|**2025-04-17**|null|
-|**2025-04-17**|**Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs**|Shaohui Dai et.al.|[2504.13153v1](http://arxiv.org/abs/2504.13153v1)|**2025-04-17**|[link](https://github.com/atrovast/thgs)|
-|**2025-04-17**|**St4RTrack: Simultaneous 4D Reconstruction and Tracking in the World**|Haiwen Feng et.al.|[2504.13152v1](http://arxiv.org/abs/2504.13152v1)|**2025-04-17**|null|
-|**2025-04-17**|**Readable Twins of Unreadable Models**|Krzysztof Pancerz et.al.|[2504.13150v1](http://arxiv.org/abs/2504.13150v1)|**2025-04-17**|null|
-|**2025-04-17**|**$\texttt{Complex-Edit}$: CoT-Like Instruction Generation for Complexity-Controllable Image Editing Benchmark**|Siwei Yang et.al.|[2504.13143v1](http://arxiv.org/abs/2504.13143v1)|**2025-04-17**|null|
-|**2025-04-17**|**PCBEAR: Pose Concept Bottleneck for Explainable Action Recognition**|Jongseo Lee et.al.|[2504.13140v1](http://arxiv.org/abs/2504.13140v1)|**2025-04-17**|null|
-|**2025-04-17**|**Extending the Mott-Gurney law to one-dimensional nonplanar diodes using point transformations**|Allen L. Garner et.al.|[2504.13138v1](http://arxiv.org/abs/2504.13138v1)|**2025-04-17**|null|
-|**2025-04-17**|**NTIRE 2025 Challenge on Short-form UGC Video Quality Assessment and Enhancement: Methods and Results**|Xin Li et.al.|[2504.13131v1](http://arxiv.org/abs/2504.13131v1)|**2025-04-17**|[link](https://github.com/lixinustc/kvqe-challenge-cvpr-ntire2025)|
-|**2025-04-17**|**Science-T2I: Addressing Scientific Illusions in Image Synthesis**|Jialuo Li et.al.|[2504.13129v1](http://arxiv.org/abs/2504.13129v1)|**2025-04-17**|null|
-|**2025-04-17**|**Low-hallucination Synthetic Captions for Large-Scale Vision-Language Model Pre-training**|Xinsong Zhang et.al.|[2504.13123v1](http://arxiv.org/abs/2504.13123v1)|**2025-04-17**|null|
-|**2025-04-17**|**VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models**|Haojian Huang et.al.|[2504.13122v1](http://arxiv.org/abs/2504.13122v1)|**2025-04-17**|[link](https://github.com/haroldchen19/vistadpo)|
-|**2025-04-17**|**Probing and Inducing Combinational Creativity in Vision-Language Models**|Yongqian Peng et.al.|[2504.13120v1](http://arxiv.org/abs/2504.13120v1)|**2025-04-17**|null|
-|**2025-04-17**|**Object-Driven Narrative in AR: A Scenario-Metaphor Framework with VLM Integration**|Yusi Sun et.al.|[2504.13119v1](http://arxiv.org/abs/2504.13119v1)|**2025-04-17**|null|
-|**2025-04-17**|**Supersymmetric Poisson and Poisson-supersymmetric sigma models**|Thomas Basile et.al.|[2504.13114v1](http://arxiv.org/abs/2504.13114v1)|**2025-04-17**|null|
-|**2025-04-17**|**UniEdit-Flow: Unleashing Inversion and Editing in the Era of Flow Models**|Guanlong Jiao et.al.|[2504.13109v1](http://arxiv.org/abs/2504.13109v1)|**2025-04-17**|null|
-|**2025-04-17**|**RF-DETR Object Detection vs YOLOv12 : A Study of Transformer-based and CNN-based Architectures for Single-Class and Multi-Class Greenfruit Detection in Complex Orchard Environments Under Label Ambiguity**|Ranjan Sapkota et.al.|[2504.13099v1](http://arxiv.org/abs/2504.13099v1)|**2025-04-17**|null|
-|**2025-04-17**|**EventVAD: Training-Free Event-Aware Video Anomaly Detection**|Yihua Shao et.al.|[2504.13092v1](http://arxiv.org/abs/2504.13092v1)|**2025-04-17**|null|
-|**2025-04-17**|**Proca theory of four-dimensional regularized Gauss-Bonnet gravity and black holes with primary hair**|Christos Charmousis et.al.|[2504.13084v1](http://arxiv.org/abs/2504.13084v1)|**2025-04-17**|null|
+|**2025-04-18**|**Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?**|Yang Yue et.al.|[2504.13837v1](http://arxiv.org/abs/2504.13837v1)|**2025-04-18**|null|
+|**2025-04-18**|**Outlier-Robust Multi-Model Fitting on Quantum Annealers**|Saurabh Pandey et.al.|[2504.13836v1](http://arxiv.org/abs/2504.13836v1)|**2025-04-18**|null|
+|**2025-04-18**|**CheXWorld: Exploring Image World Modeling for Radiograph Representation Learning**|Yang Yue et.al.|[2504.13820v1](http://arxiv.org/abs/2504.13820v1)|**2025-04-18**|[link](https://github.com/LeapLabTHU/CheXWorld)|
+|**2025-04-18**|**DiffOG: Differentiable Policy Trajectory Optimization with Generalizability**|Zhengtong Xu et.al.|[2504.13807v1](http://arxiv.org/abs/2504.13807v1)|**2025-04-18**|null|
+|**2025-04-18**|**Transformer Encoder and Multi-features Time2Vec for Financial Prediction**|Nguyen Kim Hai Bui et.al.|[2504.13801v1](http://arxiv.org/abs/2504.13801v1)|**2025-04-18**|null|
+|**2025-04-18**|**Collective Learning Mechanism based Optimal Transport Generative Adversarial Network for Non-parallel Voice Conversion**|Sandipan Dhar et.al.|[2504.13791v1](http://arxiv.org/abs/2504.13791v1)|**2025-04-18**|null|
+|**2025-04-18**|**RefComp: A Reference-guided Unified Framework for Unpaired Point Cloud Completion**|Yixuan Yang et.al.|[2504.13788v1](http://arxiv.org/abs/2504.13788v1)|**2025-04-18**|null|
+|**2025-04-18**|**Probabilistic Stability Guarantees for Feature Attributions**|Helen Jin et.al.|[2504.13787v1](http://arxiv.org/abs/2504.13787v1)|**2025-04-18**|null|
+|**2025-04-18**|**Learning Through Retrospection: Improving Trajectory Prediction for Automated Driving with Error Feedback**|Steffen Hagedorn et.al.|[2504.13785v1](http://arxiv.org/abs/2504.13785v1)|**2025-04-18**|null|
+|**2025-04-18**|**Internal noise in hardware deep and recurrent neural networks helps with learning**|Ivan Kolesnikov et.al.|[2504.13778v1](http://arxiv.org/abs/2504.13778v1)|**2025-04-18**|null|
+|**2025-04-18**|**Fighting Fires from Space: Leveraging Vision Transformers for Enhanced Wildfire Detection and Characterization**|Aman Agarwal et.al.|[2504.13776v1](http://arxiv.org/abs/2504.13776v1)|**2025-04-18**|null|
+|**2025-04-18**|**Picosecond synchronization of mode-locked lasers for metropolitan-scale quantum networks**|Cory Nunn et.al.|[2504.13773v1](http://arxiv.org/abs/2504.13773v1)|**2025-04-18**|null|
+|**2025-04-18**|**Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems**|Vinay Sharma et.al.|[2504.13768v1](http://arxiv.org/abs/2504.13768v1)|**2025-04-18**|null|
+|**2025-04-18**|**Decoding Vision Transformers: the Diffusion Steering Lens**|Ryota Takatsuki et.al.|[2504.13763v1](http://arxiv.org/abs/2504.13763v1)|**2025-04-18**|null|
+|**2025-04-18**|**Fragile Watermarking for Image Certification Using Deep Steganographic Embedding**|Davide Ghiani et.al.|[2504.13759v1](http://arxiv.org/abs/2504.13759v1)|**2025-04-18**|null|
+|**2025-04-18**|**Towards Accurate and Interpretable Neuroblastoma Diagnosis via Contrastive Multi-scale Pathological Image Analysis**|Zhu Zhu et.al.|[2504.13754v1](http://arxiv.org/abs/2504.13754v1)|**2025-04-18**|null|
+|**2025-04-18**|**DAM-Net: Domain Adaptation Network with Micro-Labeled Fine-Tuning for Change Detection**|Hongjia Chen et.al.|[2504.13748v1](http://arxiv.org/abs/2504.13748v1)|**2025-04-18**|null|
+|**2025-04-18**|**ESPLoRA: Enhanced Spatial Precision with Low-Rank Adaption in Text-to-Image Diffusion Models for High-Definition Synthesis**|Andrea Rigo et.al.|[2504.13745v1](http://arxiv.org/abs/2504.13745v1)|**2025-04-18**|null|
+|**2025-04-18**|**LimitNet: Progressive, Content-Aware Image Offloading for Extremely Weak Devices & Networks**|Ali Hojjat et.al.|[2504.13736v1](http://arxiv.org/abs/2504.13736v1)|**2025-04-18**|null|
+|**2025-04-18**|**Orientation and mobility test in virtual reality, a tool for quantitative assessment of functional vision: dataset and evaluation in healthy subjects**|Yujie Huang et.al.|[2504.13735v1](http://arxiv.org/abs/2504.13735v1)|**2025-04-18**|null|
+|**2025-04-18**|**MLEP: Multi-granularity Local Entropy Patterns for Universal AI-generated Image Detection**|Lin Yuan et.al.|[2504.13726v1](http://arxiv.org/abs/2504.13726v1)|**2025-04-18**|null|
+|**2025-04-18**|**The relativity of color perception**|Michel Berthier et.al.|[2504.13720v1](http://arxiv.org/abs/2504.13720v1)|**2025-04-18**|null|
+|**2025-04-18**|**Human-aligned Deep Learning: Explainability, Causality, and Biological Inspiration**|Gianluca Carloni et.al.|[2504.13717v1](http://arxiv.org/abs/2504.13717v1)|**2025-04-18**|null|
+|**2025-04-18**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713v1](http://arxiv.org/abs/2504.13713v1)|**2025-04-18**|[link](https://github.com/samuel-cerezo/SLAM-Render)|
+|**2025-04-18**|**Theoretical and computational investigations of superposed interacting affine and more complex processes**|Hidekazu Yoshioka et.al.|[2504.13712v1](http://arxiv.org/abs/2504.13712v1)|**2025-04-18**|null|
+|**2025-04-18**|**Few-Shot Referring Video Single- and Multi-Object Segmentation via Cross-Modal Affinity with Instance Sequence Matching**|Heng Liu et.al.|[2504.13710v1](http://arxiv.org/abs/2504.13710v1)|**2025-04-18**|null|
+|**2025-04-18**|**Consensus-aware Contrastive Learning for Group Recommendation**|Soyoung Kim et.al.|[2504.13703v1](http://arxiv.org/abs/2504.13703v1)|**2025-04-18**|null|
+|**2025-04-18**|**Green Robotic Mixed Reality with Gaussian Splatting**|Chenxuan Liu et.al.|[2504.13697v1](http://arxiv.org/abs/2504.13697v1)|**2025-04-18**|null|
+|**2025-04-18**|**Zebrafish Counting Using Event Stream Data**|Qianghua Chen et.al.|[2504.13692v1](http://arxiv.org/abs/2504.13692v1)|**2025-04-18**|null|
+|**2025-04-18**|**Analysing the Robustness of Vision-Language-Models to Common Corruptions**|Muhammad Usama et.al.|[2504.13690v1](http://arxiv.org/abs/2504.13690v1)|**2025-04-18**|null|

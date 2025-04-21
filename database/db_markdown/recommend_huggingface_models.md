@@ -345,6 +345,7 @@ Updated on 2025-04-21
 | 100 |  | Nuwaisir/Quran_speech_recognizerAutomatic | UpdatedAug 20, 2022 | [Link](https://huggingface.co/Nuwaisir/Quran_speech_recognizer) |
 | 3 | Unknown | qualcomm/Whisper-Small-V2Automatic | Updated7 days ago | [Link](https://huggingface.co/qualcomm/Whisper-Small-V2) |
 | 13 | Unknown | nvidia/stt_ar_fastconformer_hybrid_large_pcd_v1 | UpdatedFeb 18 | [Link](https://huggingface.co/nvidia/stt_ar_fastconformer_hybrid_large_pcd_v1.0) |
+| 24 | Unknown | alphacep/vosk-model-ruAutomatic | Updated2 days ago | [Link](https://huggingface.co/alphacep/vosk-model-ru) |
 
 ## Depth Estimation
 
@@ -613,6 +614,7 @@ Updated on 2025-04-21
 | 14.8k | 21 | tbs17/MathBERTFill-Mask | UpdatedAug 5, 2021 | [Link](https://huggingface.co/tbs17/MathBERT) |
 | 4.3k | 20 | albert/albert-xxlarge-v2Fill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/albert/albert-xxlarge-v2) |
 | 3.1M | 20 | facebook/esm2_t36_3B_UR50DFill-Mask | UpdatedDec 1, 2022 | [Link](https://huggingface.co/facebook/esm2_t36_3B_UR50D) |
+| 15.4k | 20 | google-bert/bert-large-uncased-whole-word-maskingFill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/google-bert/bert-large-uncased-whole-word-masking) |
 | 349k | 19 | m3rg-iitd/matscibertFill-Mask | UpdatedJun 22, 2024 | [Link](https://huggingface.co/m3rg-iitd/matscibert) |
 | 13.7k | 19 | albert/albert-large-v2Fill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/albert/albert-large-v2) |
 | 219k | 18 | DeepChem/ChemBERTa-77M-MLMFill-Mask | UpdatedJan 20, 2022 | [Link](https://huggingface.co/DeepChem/ChemBERTa-77M-MLM) |
@@ -1209,6 +1211,7 @@ Updated on 2025-04-21
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 67 | 2 | SherryXTChen/InstructCLIP-InstructPix2PixImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/SherryXTChen/InstructCLIP-InstructPix2Pix) |
 | 17 | 2 | SherryXTChen/Instruct-CLIPImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/SherryXTChen/Instruct-CLIP) |
+| 76 | 2 | VisualCloze/VisualClozePipeline-384Image-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/VisualCloze/VisualClozePipeline-384) |
 | 12 | 1 | Jorgvt/CycleGAN_GTA_REALImage-to-Image | UpdatedJul 11, 2024 | [Link](https://huggingface.co/Jorgvt/CycleGAN_GTA_REAL) |
 | 1.54M |  | stabilityai/stable-diffusion-xl-refiner-1 | UpdatedSep 25, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0) |
 | 76.7k |  | timbrooks/instruct-pix2pixImage-to-Image | UpdatedJul 5, 2023 | [Link](https://huggingface.co/timbrooks/instruct-pix2pix) |
@@ -1331,6 +1334,7 @@ Updated on 2025-04-21
 | 2 | 11 | Yhmeng1106/anidocImage-to-Video | UpdatedDec 21, 2024 | [Link](https://huggingface.co/Yhmeng1106/anidoc) |
 | 7 | 11 | stepfun-ai/stepvideo-ti2vImage-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/stepfun-ai/stepvideo-ti2v) |
 | 635 | 10 | calcuis/cosmosImage-to-Video | Updated29 days ago | [Link](https://huggingface.co/calcuis/cosmos) |
+| 16 | 10 | Skywork/SkyReels-V2-I2V-14B-540PImage-to-Video | Updatedabout 8 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-I2V-14B-540P) |
 | 10.7k | 6 | kiwhansong/DFoTImage-to-Video | UpdatedFeb 11 | [Link](https://huggingface.co/kiwhansong/DFoT) |
 | 387 | 6 | weights/stable-video-diffusion-img2vid-xt-1-1Image-to-Video | UpdatedApr 12, 2024 | [Link](https://huggingface.co/weights/stable-video-diffusion-img2vid-xt-1-1) |
 | 16 | 5 | chenguolin/sv3d-diffusersImage-to-Video | UpdatedOct 16, 2024 | [Link](https://huggingface.co/chenguolin/sv3d-diffusers) |
@@ -1392,6 +1396,7 @@ Updated on 2025-04-21
 | 2 | Unknown | ighoshsubho/Wan-I2V-LoRA-KissImage-to-Video | Updated15 days ago | [Link](https://huggingface.co/ighoshsubho/Wan-I2V-LoRA-Kiss) |
 | 1 | Unknown | Miguel46/Swap_faceImage-to-Video | UpdatedJun 28, 2024 | [Link](https://huggingface.co/Miguel46/Swap_face) |
 | 2 | Unknown | ZheWang123/UniAnimate-DiTImage-to-Video | Updated1 day ago | [Link](https://huggingface.co/ZheWang123/UniAnimate-DiT) |
+| 2 | Unknown | sand-ai/MAGI-1Image-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/sand-ai/MAGI-1) |
 
 ## Keypoint Detection
 
@@ -2960,6 +2965,7 @@ Updated on 2025-04-21
 | 52 | 2 | mirth/chonky_distilbert_base_uncased_1Token | Updated3 days ago | [Link](https://huggingface.co/mirth/chonky_distilbert_base_uncased_1) |
 | 4 | 2 | NAMAA-Space/gliner_arabic-v2 | Updatedabout 5 hours ago | [Link](https://huggingface.co/NAMAA-Space/gliner_arabic-v2.1) |
 | 17 | 2 | KoichiYasuoka/bert-base-vietnamese-ud-goeswithToken | UpdatedJan 28 | [Link](https://huggingface.co/KoichiYasuoka/bert-base-vietnamese-ud-goeswith) |
+| 437k | 2 | cahya/NusaBert-ner-v1 | Updated4 days ago | [Link](https://huggingface.co/cahya/NusaBert-ner-v1.3) |
 | 168 | 1 | dccuchile/distilbert-base-spanish-uncased-finetuned-nerToken | UpdatedJan 6, 2022 | [Link](https://huggingface.co/dccuchile/distilbert-base-spanish-uncased-finetuned-ner) |
 | 102 | 1 | KBLab/bert-base-swedish-cased-reallysimple-nerToken | UpdatedNov 15, 2022 | [Link](https://huggingface.co/KBLab/bert-base-swedish-cased-reallysimple-ner) |
 | 22 | 1 | KoichiYasuoka/roberta-base-japanese-char-luw-uposToken | UpdatedAug 20, 2024 | [Link](https://huggingface.co/KoichiYasuoka/roberta-base-japanese-char-luw-upos) |
@@ -3325,6 +3331,7 @@ Updated on 2025-04-21
 | 7 | 2 | LZXzju/Qwen2 | Updated2 days ago | [Link](https://huggingface.co/LZXzju/Qwen2.5-VL-3B-UI-R1) |
 | 10 | 2 | TIGER-Lab/MM-Thinker-72BVisual | Updatedabout 12 hours ago | [Link](https://huggingface.co/TIGER-Lab/MM-Thinker-72B) |
 | 18 | 2 | TIGER-Lab/VL-Rethinker-72BVisual | Updated3 days ago | [Link](https://huggingface.co/TIGER-Lab/VL-Rethinker-72B) |
+| 92 | 2 | trillionlabs/Trillion-LLaVA-7BVisual | Updatedabout 18 hours ago | [Link](https://huggingface.co/trillionlabs/Trillion-LLaVA-7B) |
 | 96 | 1 | dineshcr7/med-VQA-1Visual | UpdatedOct 28, 2023 | [Link](https://huggingface.co/dineshcr7/med-VQA-1) |
 | 143k |  | dandelin/vilt-b32-finetuned-vqaVisual | UpdatedAug 2, 2022 | [Link](https://huggingface.co/dandelin/vilt-b32-finetuned-vqa) |
 | 778k |  | Salesforce/blip-vqa-baseVisual | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-vqa-base) |

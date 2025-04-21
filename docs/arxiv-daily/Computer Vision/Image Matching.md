@@ -2,33 +2,33 @@
 ### Image Matching
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-17**|**Perception Encoder: The best visual embeddings are not at the output of the network**|Daniel Bolya et.al.|[2504.13181v1](http://arxiv.org/abs/2504.13181v1)|**2025-04-17**|null|
-|**2025-04-17**|**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**|Jang Hyun Cho et.al.|[2504.13180v1](http://arxiv.org/abs/2504.13180v1)|**2025-04-17**|null|
-|**2025-04-17**|**Single-Shot Shape and Reflectance with Spatial Polarization Multiplexing**|Tomoki Ichikawa et.al.|[2504.13177v1](http://arxiv.org/abs/2504.13177v1)|**2025-04-17**|null|
-|**2025-04-17**|**Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation**|Sizhe Yang et.al.|[2504.13175v1](http://arxiv.org/abs/2504.13175v1)|**2025-04-17**|null|
-|**2025-04-17**|**SemCORE: A Semantic-Enhanced Generative Cross-Modal Retrieval Framework with MLLMs**|Haoxuan Li et.al.|[2504.13172v1](http://arxiv.org/abs/2504.13172v1)|**2025-04-17**|null|
-|**2025-04-17**|**Experimental Verification of Electron-Photon Entanglement**|Alexander Preimesberger et.al.|[2504.13163v1](http://arxiv.org/abs/2504.13163v1)|**2025-04-17**|null|
-|**2025-04-17**|**Personalized Text-to-Image Generation with Auto-Regressive Models**|Kaiyue Sun et.al.|[2504.13162v1](http://arxiv.org/abs/2504.13162v1)|**2025-04-17**|[link](https://github.com/kaiyuesun98/t2i-personalization-with-ar)|
-|**2025-04-17**|**AerialMegaDepth: Learning Aerial-Ground Reconstruction and View Synthesis**|Khiem Vuong et.al.|[2504.13157v1](http://arxiv.org/abs/2504.13157v1)|**2025-04-17**|null|
-|**2025-04-17**|**Readable Twins of Unreadable Models**|Krzysztof Pancerz et.al.|[2504.13150v1](http://arxiv.org/abs/2504.13150v1)|**2025-04-17**|null|
-|**2025-04-17**|**Long Range Navigator (LRN): Extending robot planning horizons beyond metric maps**|Matt Schmittle et.al.|[2504.13149v1](http://arxiv.org/abs/2504.13149v1)|**2025-04-17**|null|
-|**2025-04-17**|**$\texttt{Complex-Edit}$: CoT-Like Instruction Generation for Complexity-Controllable Image Editing Benchmark**|Siwei Yang et.al.|[2504.13143v1](http://arxiv.org/abs/2504.13143v1)|**2025-04-17**|null|
-|**2025-04-17**|**Probing CP-Violating Neutral Triple Gauge Couplings at Electron-Positron Colliders**|John Ellis et.al.|[2504.13135v1](http://arxiv.org/abs/2504.13135v1)|**2025-04-17**|null|
-|**2025-04-17**|**NTIRE 2025 Challenge on Short-form UGC Video Quality Assessment and Enhancement: Methods and Results**|Xin Li et.al.|[2504.13131v1](http://arxiv.org/abs/2504.13131v1)|**2025-04-17**|[link](https://github.com/lixinustc/kvqe-challenge-cvpr-ntire2025)|
-|**2025-04-17**|**Science-T2I: Addressing Scientific Illusions in Image Synthesis**|Jialuo Li et.al.|[2504.13129v1](http://arxiv.org/abs/2504.13129v1)|**2025-04-17**|null|
-|**2025-04-17**|**Spatial Confidence Regions for Excursion Sets with False Discovery Rate Control**|Howon Ryu et.al.|[2504.13124v1](http://arxiv.org/abs/2504.13124v1)|**2025-04-17**|null|
-|**2025-04-17**|**Low-hallucination Synthetic Captions for Large-Scale Vision-Language Model Pre-training**|Xinsong Zhang et.al.|[2504.13123v1](http://arxiv.org/abs/2504.13123v1)|**2025-04-17**|null|
-|**2025-04-17**|**Probing and Inducing Combinational Creativity in Vision-Language Models**|Yongqian Peng et.al.|[2504.13120v1](http://arxiv.org/abs/2504.13120v1)|**2025-04-17**|null|
-|**2025-04-17**|**CEERS: Forging the First Dust Grains in the Universe? A Population of Galaxies with spectroscopically-derived Extremely Low Dust Attenuation (GELDA) at 4.0<z<11.4**|Denis Burgarella et.al.|[2504.13118v1](http://arxiv.org/abs/2504.13118v1)|**2025-04-17**|null|
-|**2025-04-17**|**Hadamard product in deep learning: Introduction, Advances and Challenges**|Grigorios G Chrysos et.al.|[2504.13112v1](http://arxiv.org/abs/2504.13112v1)|**2025-04-17**|null|
-|**2025-04-17**|**UniEdit-Flow: Unleashing Inversion and Editing in the Era of Flow Models**|Guanlong Jiao et.al.|[2504.13109v1](http://arxiv.org/abs/2504.13109v1)|**2025-04-17**|null|
-|**2025-04-17**|**The RESOLVE and ECO G3 Initiative: Drivers of HI Content and X-ray Emission in Galaxy Groups**|Zackary L. Hutchens et.al.|[2504.13103v1](http://arxiv.org/abs/2504.13103v1)|**2025-04-17**|null|
-|**2025-04-17**|**Kato-Kuzumaki's properties for function fields over higher local fields**|Felipe Gambardella et.al.|[2504.13100v1](http://arxiv.org/abs/2504.13100v1)|**2025-04-17**|null|
-|**2025-04-17**|**Combination and interpretation of differential Higgs boson production cross sections in proton-proton collisions at $\sqrt{s}$ = 13 TeV**|CMS Collaboration et.al.|[2504.13081v1](http://arxiv.org/abs/2504.13081v1)|**2025-04-17**|null|
-|**2025-04-17**|**Instability and stress fluctuations of a probe driven through a worm-like micellar fluid**|Abhishek Ghadai et.al.|[2504.13080v1](http://arxiv.org/abs/2504.13080v1)|**2025-04-17**|null|
-|**2025-04-17**|**Retrieval-Augmented Generation with Conflicting Evidence**|Han Wang et.al.|[2504.13079v1](http://arxiv.org/abs/2504.13079v1)|**2025-04-17**|[link](https://github.com/hannight/ramdocs)|
-|**2025-04-17**|**Enhancing Person-to-Person Virtual Try-On with Multi-Garment Virtual Try-Off**|Riza Velioglu et.al.|[2504.13078v1](http://arxiv.org/abs/2504.13078v1)|**2025-04-17**|[link](https://github.com/rizavelioglu/tryoffdiff)|
-|**2025-04-17**|**HiScene: Creating Hierarchical 3D Scenes with Isometric View Generation**|Wenqi Dong et.al.|[2504.13072v1](http://arxiv.org/abs/2504.13072v1)|**2025-04-17**|null|
-|**2025-04-17**|**Early Accessibility: Automating Alt-Text Generation for UI Icons During App Development**|Sabrina Haque et.al.|[2504.13069v1](http://arxiv.org/abs/2504.13069v1)|**2025-04-17**|null|
-|**2025-04-17**|**EchoWorld: Learning Motion-Aware World Models for Echocardiography Probe Guidance**|Yang Yue et.al.|[2504.13065v1](http://arxiv.org/abs/2504.13065v1)|**2025-04-17**|[link](https://github.com/LeapLabTHU/EchoWorld)|
-|**2025-04-17**|**Seeing Beyond Dark-Field RGB Capabilities: Deep Spectral Extrapolation of Ultrasmall Plasmonic Nanogaps**|Mohammadrahim Kazemzadeh et.al.|[2504.13062v1](http://arxiv.org/abs/2504.13062v1)|**2025-04-17**|null|
+|**2025-04-18**|**Outlier-Robust Multi-Model Fitting on Quantum Annealers**|Saurabh Pandey et.al.|[2504.13836v1](http://arxiv.org/abs/2504.13836v1)|**2025-04-18**|null|
+|**2025-04-18**|**Feature Alignment and Representation Transfer in Knowledge Distillation for Large Language Models**|Junjie Yang et.al.|[2504.13825v1](http://arxiv.org/abs/2504.13825v1)|**2025-04-18**|null|
+|**2025-04-18**|**CheXWorld: Exploring Image World Modeling for Radiograph Representation Learning**|Yang Yue et.al.|[2504.13820v1](http://arxiv.org/abs/2504.13820v1)|**2025-04-18**|[link](https://github.com/LeapLabTHU/CheXWorld)|
+|**2025-04-18**|**The Binary and Ternary Quantization Can Improve Feature Discrimination**|Weizhi Lu et.al.|[2504.13792v1](http://arxiv.org/abs/2504.13792v1)|**2025-04-18**|null|
+|**2025-04-18**|**Collective Learning Mechanism based Optimal Transport Generative Adversarial Network for Non-parallel Voice Conversion**|Sandipan Dhar et.al.|[2504.13791v1](http://arxiv.org/abs/2504.13791v1)|**2025-04-18**|null|
+|**2025-04-18**|**Fighting Fires from Space: Leveraging Vision Transformers for Enhanced Wildfire Detection and Characterization**|Aman Agarwal et.al.|[2504.13776v1](http://arxiv.org/abs/2504.13776v1)|**2025-04-18**|null|
+|**2025-04-18**|**Decoding Vision Transformers: the Diffusion Steering Lens**|Ryota Takatsuki et.al.|[2504.13763v1](http://arxiv.org/abs/2504.13763v1)|**2025-04-18**|null|
+|**2025-04-18**|**Fragile Watermarking for Image Certification Using Deep Steganographic Embedding**|Davide Ghiani et.al.|[2504.13759v1](http://arxiv.org/abs/2504.13759v1)|**2025-04-18**|null|
+|**2025-04-18**|**Towards Accurate and Interpretable Neuroblastoma Diagnosis via Contrastive Multi-scale Pathological Image Analysis**|Zhu Zhu et.al.|[2504.13754v1](http://arxiv.org/abs/2504.13754v1)|**2025-04-18**|null|
+|**2025-04-18**|**ESPLoRA: Enhanced Spatial Precision with Low-Rank Adaption in Text-to-Image Diffusion Models for High-Definition Synthesis**|Andrea Rigo et.al.|[2504.13745v1](http://arxiv.org/abs/2504.13745v1)|**2025-04-18**|null|
+|**2025-04-18**|**LimitNet: Progressive, Content-Aware Image Offloading for Extremely Weak Devices & Networks**|Ali Hojjat et.al.|[2504.13736v1](http://arxiv.org/abs/2504.13736v1)|**2025-04-18**|null|
+|**2025-04-18**|**Systematic Bernoulli Generator Matrix Codes**|Yixin Wang et.al.|[2504.13731v1](http://arxiv.org/abs/2504.13731v1)|**2025-04-18**|null|
+|**2025-04-18**|**MLEP: Multi-granularity Local Entropy Patterns for Universal AI-generated Image Detection**|Lin Yuan et.al.|[2504.13726v1](http://arxiv.org/abs/2504.13726v1)|**2025-04-18**|null|
+|**2025-04-18**|**$O(p \log d)$ Subgraph Isomorphism using Stigmergic Swarming Agents**|H. Van Dyke Parunak et.al.|[2504.13722v1](http://arxiv.org/abs/2504.13722v1)|**2025-04-18**|null|
+|**2025-04-18**|**The relativity of color perception**|Michel Berthier et.al.|[2504.13720v1](http://arxiv.org/abs/2504.13720v1)|**2025-04-18**|null|
+|**2025-04-18**|**Human-aligned Deep Learning: Explainability, Causality, and Biological Inspiration**|Gianluca Carloni et.al.|[2504.13717v1](http://arxiv.org/abs/2504.13717v1)|**2025-04-18**|null|
+|**2025-04-18**|**Few-Shot Referring Video Single- and Multi-Object Segmentation via Cross-Modal Affinity with Instance Sequence Matching**|Heng Liu et.al.|[2504.13710v1](http://arxiv.org/abs/2504.13710v1)|**2025-04-18**|null|
+|**2025-04-18**|**Green Robotic Mixed Reality with Gaussian Splatting**|Chenxuan Liu et.al.|[2504.13697v1](http://arxiv.org/abs/2504.13697v1)|**2025-04-18**|null|
+|**2025-04-18**|**Zebrafish Counting Using Event Stream Data**|Qianghua Chen et.al.|[2504.13692v1](http://arxiv.org/abs/2504.13692v1)|**2025-04-18**|null|
+|**2025-04-18**|**Analysing the Robustness of Vision-Language-Models to Common Corruptions**|Muhammad Usama et.al.|[2504.13690v1](http://arxiv.org/abs/2504.13690v1)|**2025-04-18**|null|
+|**2025-04-18**|**AnyTSR: Any-Scale Thermal Super-Resolution for UAV**|Mengyuan Li et.al.|[2504.13682v1](http://arxiv.org/abs/2504.13682v1)|**2025-04-18**|null|
+|**2025-04-18**|**Detecting Intermediate-mass Black Holes Using Quasar Microlensing**|Zihao Wu et.al.|[2504.13680v1](http://arxiv.org/abs/2504.13680v1)|**2025-04-18**|null|
+|**2025-04-18**|**MIRI-JWST mid-infrared direct imaging of the debris disk of HD106906**|Daniel Rouan et.al.|[2504.13679v1](http://arxiv.org/abs/2504.13679v1)|**2025-04-18**|null|
+|**2025-04-18**|**Enhancing Pothole Detection and Characterization: Integrated Segmentation and Depth Estimation in Road Anomaly Systems**|Uthman Baroudi et.al.|[2504.13648v1](http://arxiv.org/abs/2504.13648v1)|**2025-04-18**|null|
+|**2025-04-18**|**Efficient Parameter Adaptation for Multi-Modal Medical Image Segmentation and Prognosis**|Numan Saeed et.al.|[2504.13645v1](http://arxiv.org/abs/2504.13645v1)|**2025-04-18**|null|
+|**2025-04-18**|**DenSe-AdViT: A novel Vision Transformer for Dense SAR Object Detection**|Yang Zhang et.al.|[2504.13638v1](http://arxiv.org/abs/2504.13638v1)|**2025-04-18**|null|
+|**2025-04-18**|**Multi-modal Knowledge Graph Generation with Semantics-enriched Prompts**|Yajing Xu et.al.|[2504.13631v1](http://arxiv.org/abs/2504.13631v1)|**2025-04-18**|null|
+|**2025-04-18**|**PV-VLM: A Multimodal Vision-Language Approach Incorporating Sky Images for Intra-Hour Photovoltaic Power Forecasting**|Huapeng Lin et.al.|[2504.13624v1](http://arxiv.org/abs/2504.13624v1)|**2025-04-18**|null|
+|**2025-04-18**|**SupResDiffGAN a new approach for the Super-Resolution task**|Dawid Kopeć et.al.|[2504.13622v1](http://arxiv.org/abs/2504.13622v1)|**2025-04-18**|null|
+|**2025-04-18**|**Visual Intention Grounding for Egocentric Assistants**|Pengzhan Sun et.al.|[2504.13621v1](http://arxiv.org/abs/2504.13621v1)|**2025-04-18**|null|

@@ -2,33 +2,33 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-17**|**Perception Encoder: The best visual embeddings are not at the output of the network**|Daniel Bolya et.al.|[2504.13181v1](http://arxiv.org/abs/2504.13181v1)|**2025-04-17**|null|
-|**2025-04-17**|**It's All Connected: A Journey Through Test-Time Memorization, Attentional Bias, Retention, and Online Optimization**|Ali Behrouz et.al.|[2504.13173v1](http://arxiv.org/abs/2504.13173v1)|**2025-04-17**|null|
-|**2025-04-17**|**A New Semidefinite Relaxation for Linear and Piecewise-Affine Optimal Control with Time Scaling**|Lujie Yang et.al.|[2504.13170v1](http://arxiv.org/abs/2504.13170v1)|**2025-04-17**|null|
-|**2025-04-17**|**ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos**|Zetong Zhang et.al.|[2504.13167v2](http://arxiv.org/abs/2504.13167v2)|**2025-04-18**|null|
-|**2025-04-17**|**Minute-long quantum coherence enabled by electrical depletion of magnetic noise**|Cyrus Zeledon et.al.|[2504.13164v1](http://arxiv.org/abs/2504.13164v1)|**2025-04-17**|null|
-|**2025-04-17**|**Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs**|Shaohui Dai et.al.|[2504.13153v1](http://arxiv.org/abs/2504.13153v1)|**2025-04-17**|[link](https://github.com/atrovast/thgs)|
-|**2025-04-17**|**MIB: A Mechanistic Interpretability Benchmark**|Aaron Mueller et.al.|[2504.13151v1](http://arxiv.org/abs/2504.13151v1)|**2025-04-17**|null|
-|**2025-04-17**|**Complexity at Scale: A Quantitative Analysis of an Alibaba Microservice Deployment**|Giles Winchester et.al.|[2504.13141v1](http://arxiv.org/abs/2504.13141v1)|**2025-04-17**|null|
-|**2025-04-17**|**Integral formulas for hypersurfaces in cones and related questions**|Filomena Pacella et.al.|[2504.13137v1](http://arxiv.org/abs/2504.13137v1)|**2025-04-17**|null|
-|**2025-04-17**|**A hybrid U-Net and Fourier neural operator framework for the large-eddy simulation of turbulent flows over periodic hills**|Yunpeng Wang et.al.|[2504.13126v1](http://arxiv.org/abs/2504.13126v1)|**2025-04-17**|null|
-|**2025-04-17**|**Propagation of Chaos in One-hidden-layer Neural Networks beyond Logarithmic Time**|Margalit Glasgow et.al.|[2504.13110v1](http://arxiv.org/abs/2504.13110v1)|**2025-04-17**|null|
-|**2025-04-17**|**A Bad Example for Jain's Iterative Rounding Theorem for the Cover Small Cuts Problem**|Miles Simmons et.al.|[2504.13105v1](http://arxiv.org/abs/2504.13105v1)|**2025-04-17**|null|
-|**2025-04-17**|**A Multi-task Learning Balanced Attention Convolutional Neural Network Model for Few-shot Underwater Acoustic Target Recognition**|Wei Huang et.al.|[2504.13102v1](http://arxiv.org/abs/2504.13102v1)|**2025-04-17**|null|
-|**2025-04-17**|**EventVAD: Training-Free Event-Aware Video Anomaly Detection**|Yihua Shao et.al.|[2504.13092v1](http://arxiv.org/abs/2504.13092v1)|**2025-04-17**|null|
-|**2025-04-17**|**The $h$-vectors of toric ideals of odd cycle compositions revisited**|Kieran Bhaskara et.al.|[2504.13087v1](http://arxiv.org/abs/2504.13087v1)|**2025-04-17**|null|
-|**2025-04-17**|**Many-body cages: disorder-free glassiness from flat bands in Fock space, and many-body Rabi oscillations**|Tom Ben-Ami et.al.|[2504.13086v1](http://arxiv.org/abs/2504.13086v1)|**2025-04-17**|null|
-|**2025-04-17**|**Tackling Social Bias against the Poor: A Dataset and Taxonomy on Aporophobia**|Georgina Curto et.al.|[2504.13085v1](http://arxiv.org/abs/2504.13085v1)|**2025-04-17**|null|
-|**2025-04-17**|**An exact approach for the multi-depot electric vehicle scheduling problem**|Xenia Haslinger et.al.|[2504.13063v1](http://arxiv.org/abs/2504.13063v1)|**2025-04-17**|null|
-|**2025-04-17**|**Seeing Beyond Dark-Field RGB Capabilities: Deep Spectral Extrapolation of Ultrasmall Plasmonic Nanogaps**|Mohammadrahim Kazemzadeh et.al.|[2504.13062v1](http://arxiv.org/abs/2504.13062v1)|**2025-04-17**|null|
-|**2025-04-17**|**GraphAttack: Exploiting Representational Blindspots in LLM Safety Mechanisms**|Sinan He et.al.|[2504.13052v1](http://arxiv.org/abs/2504.13052v1)|**2025-04-17**|null|
-|**2025-04-17**|**Multi-modal single-cell foundation models via dynamic token adaptation**|Wenmin Zhao et.al.|[2504.13049v1](http://arxiv.org/abs/2504.13049v1)|**2025-04-17**|null|
-|**2025-04-17**|**Expert Kernel Generation Network Driven by Contextual Mapping for Hyperspectral Image Classification**|Guandong Li et.al.|[2504.13045v1](http://arxiv.org/abs/2504.13045v1)|**2025-04-17**|null|
-|**2025-04-17**|**Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes**|John Blue et.al.|[2504.13043v1](http://arxiv.org/abs/2504.13043v1)|**2025-04-17**|null|
-|**2025-04-17**|**Event-Enhanced Blurry Video Super-Resolution**|Dachun Kai et.al.|[2504.13042v2](http://arxiv.org/abs/2504.13042v2)|**2025-04-18**|[link](https://github.com/dachunkai/ev-deblurvsr)|
-|**2025-04-17**|**Quantum-gas microscopy of the Bose-glass phase**|Lennart Koehn et.al.|[2504.13040v1](http://arxiv.org/abs/2504.13040v1)|**2025-04-17**|null|
-|**2025-04-17**|**Inference-friendly Graph Compression for Graph Neural Networks**|Yangxin Fan et.al.|[2504.13034v1](http://arxiv.org/abs/2504.13034v1)|**2025-04-17**|null|
-|**2025-04-17**|**InstructRAG: Leveraging Retrieval-Augmented Generation on Instruction Graphs for LLM-Based Task Planning**|Zheng Wang et.al.|[2504.13032v1](http://arxiv.org/abs/2504.13032v1)|**2025-04-17**|null|
-|**2025-04-17**|**Degrees of Freedom of Holographic MIMO -- Fundamental Theory and Analytical Methods**|Juan Carlos Ruiz-Sicilia et.al.|[2504.13031v1](http://arxiv.org/abs/2504.13031v1)|**2025-04-17**|null|
-|**2025-04-17**|**Riemannian Patch Assignment Gradient Flows**|Daniel Gonzalez-Alvarado et.al.|[2504.13024v1](http://arxiv.org/abs/2504.13024v1)|**2025-04-17**|null|
-|**2025-04-17**|**Pose and Facial Expression Transfer by using StyleGAN**|Petr Jahoda et.al.|[2504.13021v1](http://arxiv.org/abs/2504.13021v1)|**2025-04-17**|null|
+|**2025-04-18**|**MIG: Automatic Data Selection for Instruction Tuning by Maximizing Information Gain in Semantic Space**|Yicheng Chen et.al.|[2504.13835v1](http://arxiv.org/abs/2504.13835v1)|**2025-04-18**|null|
+|**2025-04-18**|**Science Hierarchography: Hierarchical Organization of Science Literature**|Muhan Gao et.al.|[2504.13834v1](http://arxiv.org/abs/2504.13834v1)|**2025-04-18**|null|
+|**2025-04-18**|**Free Inhomogeneous Wreath Product of Compact Quantum Groups**|Josse van Dobben de Bruyn et.al.|[2504.13826v1](http://arxiv.org/abs/2504.13826v1)|**2025-04-18**|null|
+|**2025-04-18**|**Parameter-Efficient Continual Fine-Tuning: A Survey**|Eric Nuertey Coleman et.al.|[2504.13822v1](http://arxiv.org/abs/2504.13822v1)|**2025-04-18**|null|
+|**2025-04-18**|**Ordered Yao graphs: maximum degree, edge numbers, and clique numbers**|Péter Ágoston et.al.|[2504.13819v1](http://arxiv.org/abs/2504.13819v1)|**2025-04-18**|null|
+|**2025-04-18**|**Cops and Robbers for Graphs on Surfaces with Crossings**|Prosenjit Bose et.al.|[2504.13813v1](http://arxiv.org/abs/2504.13813v1)|**2025-04-18**|null|
+|**2025-04-18**|**Synaptic Spine Head Morphodynamics from Graph Grammar Rules for Actin Dynamics**|Matthew Hur et.al.|[2504.13812v1](http://arxiv.org/abs/2504.13812v1)|**2025-04-18**|null|
+|**2025-04-18**|**Noncommutative properties of 0-hyperbolic graphs**|Amaury Freslon et.al.|[2504.13808v1](http://arxiv.org/abs/2504.13808v1)|**2025-04-18**|null|
+|**2025-04-18**|**DiffOG: Differentiable Policy Trajectory Optimization with Generalizability**|Zhengtong Xu et.al.|[2504.13807v1](http://arxiv.org/abs/2504.13807v1)|**2025-04-18**|null|
+|**2025-04-18**|**Transformer Encoder and Multi-features Time2Vec for Financial Prediction**|Nguyen Kim Hai Bui et.al.|[2504.13801v1](http://arxiv.org/abs/2504.13801v1)|**2025-04-18**|null|
+|**2025-04-18**|**Meta-Learning and Knowledge Discovery based Physics-Informed Neural Network for Remaining Useful Life Prediction**|Yu Wang et.al.|[2504.13797v1](http://arxiv.org/abs/2504.13797v1)|**2025-04-18**|null|
+|**2025-04-18**|**Active Learning of Symbolic NetKAT Automata**|Mark Moeller et.al.|[2504.13794v1](http://arxiv.org/abs/2504.13794v1)|**2025-04-18**|null|
+|**2025-04-18**|**Collective Learning Mechanism based Optimal Transport Generative Adversarial Network for Non-parallel Voice Conversion**|Sandipan Dhar et.al.|[2504.13791v1](http://arxiv.org/abs/2504.13791v1)|**2025-04-18**|null|
+|**2025-04-18**|**On the Relationship Between Robustness and Expressivity of Graph Neural Networks**|Lorenz Kummer et.al.|[2504.13786v1](http://arxiv.org/abs/2504.13786v1)|**2025-04-18**|null|
+|**2025-04-18**|**Internal noise in hardware deep and recurrent neural networks helps with learning**|Ivan Kolesnikov et.al.|[2504.13778v1](http://arxiv.org/abs/2504.13778v1)|**2025-04-18**|null|
+|**2025-04-18**|**Fighting Fires from Space: Leveraging Vision Transformers for Enhanced Wildfire Detection and Characterization**|Aman Agarwal et.al.|[2504.13776v1](http://arxiv.org/abs/2504.13776v1)|**2025-04-18**|null|
+|**2025-04-18**|**Picosecond synchronization of mode-locked lasers for metropolitan-scale quantum networks**|Cory Nunn et.al.|[2504.13773v1](http://arxiv.org/abs/2504.13773v1)|**2025-04-18**|null|
+|**2025-04-18**|**Bake Two Cakes with One Oven: RL for Defusing Popularity Bias and Cold-start in Third-Party Library Recommendations**|Minh Hoang Vuong et.al.|[2504.13772v1](http://arxiv.org/abs/2504.13772v1)|**2025-04-18**|null|
+|**2025-04-18**|**Emergent chiral toplogical point gaps in a non-Hermitian quasiperiodic Su-Schrieffer-Heeger model**|Zhi-Bin Liang et.al.|[2504.13770v1](http://arxiv.org/abs/2504.13770v1)|**2025-04-18**|null|
+|**2025-04-18**|**Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems**|Vinay Sharma et.al.|[2504.13768v1](http://arxiv.org/abs/2504.13768v1)|**2025-04-18**|null|
+|**2025-04-18**|**Access control for Data Spaces**|Nikos Fotiou et.al.|[2504.13767v1](http://arxiv.org/abs/2504.13767v1)|**2025-04-18**|null|
+|**2025-04-18**|**Realizing string breaking dynamics in a $Z_2$ lattice gauge theory on quantum hardware**|Constantia Alexandrou et.al.|[2504.13760v1](http://arxiv.org/abs/2504.13760v1)|**2025-04-18**|null|
+|**2025-04-18**|**Robust Distributed Arrays: Provably Secure Networking for Data Availability Sampling**|Dankrad Feist et.al.|[2504.13757v1](http://arxiv.org/abs/2504.13757v1)|**2025-04-18**|null|
+|**2025-04-18**|**Towards Accurate and Interpretable Neuroblastoma Diagnosis via Contrastive Multi-scale Pathological Image Analysis**|Zhu Zhu et.al.|[2504.13754v1](http://arxiv.org/abs/2504.13754v1)|**2025-04-18**|null|
+|**2025-04-18**|**Generating new coordination compounds via multireference simulations, genetic algorithms and machine learning: the case of Co(II) molecular magnets**|Lion Frangoulis et.al.|[2504.13749v1](http://arxiv.org/abs/2504.13749v1)|**2025-04-18**|null|
+|**2025-04-18**|**DAM-Net: Domain Adaptation Network with Micro-Labeled Fine-Tuning for Change Detection**|Hongjia Chen et.al.|[2504.13748v1](http://arxiv.org/abs/2504.13748v1)|**2025-04-18**|null|
+|**2025-04-18**|**ESPLoRA: Enhanced Spatial Precision with Low-Rank Adaption in Text-to-Image Diffusion Models for High-Definition Synthesis**|Andrea Rigo et.al.|[2504.13745v1](http://arxiv.org/abs/2504.13745v1)|**2025-04-18**|null|
+|**2025-04-18**|**LimitNet: Progressive, Content-Aware Image Offloading for Extremely Weak Devices & Networks**|Ali Hojjat et.al.|[2504.13736v1](http://arxiv.org/abs/2504.13736v1)|**2025-04-18**|null|
+|**2025-04-18**|**Sensitivity analysis enlightens effects of connectivity in a Neural Mass Model under Control-Target mode**|Anaïs Vallet et.al.|[2504.13728v1](http://arxiv.org/abs/2504.13728v1)|**2025-04-18**|null|
+|**2025-04-18**|**High-dimensional dynamics in low-dimensional networks**|Yue Wan et.al.|[2504.13727v1](http://arxiv.org/abs/2504.13727v1)|**2025-04-18**|null|
