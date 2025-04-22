@@ -24,7 +24,7 @@
 |**2025-04-20**|**TAPIP3D: Tracking Any Point in Persistent 3D Geometry**|Bowei Zhang et.al.|[2504.14717v1](http://arxiv.org/abs/2504.14717v1)|**2025-04-20**|[link](https://github.com/zbw001/tapip3d)|
 |**2025-04-20**|**Black Hole Survival Guide: Searching for Stars in the Galactic Center That Endure Partial Tidal Disruption**|Rewa Clark Bush et.al.|[2504.14705v1](http://arxiv.org/abs/2504.14705v1)|**2025-04-20**|null|
 |**2025-04-20**|**IXGS-Intraoperative 3D Reconstruction from Sparse, Arbitrarily Posed Real X-rays**|Sascha Jecklin et.al.|[2504.14699v1](http://arxiv.org/abs/2504.14699v1)|**2025-04-20**|null|
-|**2025-04-20**|**Seurat: From Moving Points to Depth**|Seokju Cho et.al.|[2504.14687v1](http://arxiv.org/abs/2504.14687v1)|**2025-04-20**|null|
+|**2025-04-20**|**Seurat: From Moving Points to Depth**|Seokju Cho et.al.|[2504.14687v1](http://arxiv.org/abs/2504.14687v1)|**2025-04-20**|[link](https://github.com/cvlab-kaist/seurat)|
 |**2025-04-20**|**A Complete and Bounded-Suboptimal Algorithm for a Moving Target Traveling Salesman Problem with Obstacles in 3D**|Anoop Bhat et.al.|[2504.14680v1](http://arxiv.org/abs/2504.14680v1)|**2025-04-20**|null|
 |**2025-04-20**|**NVSMask3D: Hard Visual Prompting with Camera Pose Interpolation for 3D Open Vocabulary Instance Segmentation**|Junyuan Fang et.al.|[2504.14638v1](http://arxiv.org/abs/2504.14638v1)|**2025-04-20**|null|
 |**2025-04-20**|**VM-BHINet:Vision Mamba Bimanual Hand Interaction Network for 3D Interacting Hand Mesh Recovery From a Single RGB Image**|Han Bi et.al.|[2504.14618v1](http://arxiv.org/abs/2504.14618v1)|**2025-04-20**|null|

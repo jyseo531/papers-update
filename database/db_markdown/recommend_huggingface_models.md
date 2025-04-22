@@ -1139,6 +1139,7 @@ Updated on 2025-04-22
 | 2.04k | 17 | Junyi42/MonST3R_PO-TA-S-W_ViTLarge_BaseDecoder_512_dptImage-to-3D | UpdatedOct 30, 2024 | [Link](https://huggingface.co/Junyi42/MonST3R_PO-TA-S-W_ViTLarge_BaseDecoder_512_dpt) |
 | 531 | 15 | Yiwen-ntu/MeshAnythingV2Image-to-3D | UpdatedAug 11, 2024 | [Link](https://huggingface.co/Yiwen-ntu/MeshAnythingV2) |
 | 6 | 14 | heye0507/LucidFusionImage-to-3D | UpdatedNov 7, 2024 | [Link](https://huggingface.co/heye0507/LucidFusion) |
+| 204 | 14 | Yiwen-ntu/MeshAnythingImage-to-3D | UpdatedJul 9, 2024 | [Link](https://huggingface.co/Yiwen-ntu/MeshAnything) |
 | 38.5k | 12 | naver/DUSt3R_ViTLarge_BaseDecoder_512_dptImage-to-3D | UpdatedJul 12, 2024 | [Link](https://huggingface.co/naver/DUSt3R_ViTLarge_BaseDecoder_512_dpt) |
 | 130 | 11 | craftsman3d/craftsmanImage-to-3D | UpdatedNov 25, 2024 | [Link](https://huggingface.co/craftsman3d/craftsman) |
 | 26 | 10 | cocktailpeanut/sf3dImage-to-3D | UpdatedAug 1, 2024 | [Link](https://huggingface.co/cocktailpeanut/sf3d) |
