@@ -9,12 +9,12 @@
 |**2025-04-18**|**ESPLoRA: Enhanced Spatial Precision with Low-Rank Adaption in Text-to-Image Diffusion Models for High-Definition Synthesis**|Andrea Rigo et.al.|[2504.13745v1](http://arxiv.org/abs/2504.13745v1)|**2025-04-18**|null|
 |**2025-04-18**|**Inverse Inference on Cooperative Control of Networked Dynamical Systems**|Yushan Li et.al.|[2504.13701v1](http://arxiv.org/abs/2504.13701v1)|**2025-04-18**|null|
 |**2025-04-18**|**Effect of micromagnetorotation on a micropolar magnetohydrodynamic blood flow in a 3D stenosed artery**|Kyriaki-Evangelia Aslani et.al.|[2504.13678v1](http://arxiv.org/abs/2504.13678v1)|**2025-04-18**|null|
-|**2025-04-18**|**Lightweight LiDAR-Camera 3D Dynamic Object Detection and Multi-Class Trajectory Prediction**|Yushen He et.al.|[2504.13647v1](http://arxiv.org/abs/2504.13647v1)|**2025-04-18**|null|
+|**2025-04-18**|**Lightweight LiDAR-Camera 3D Dynamic Object Detection and Multi-Class Trajectory Prediction**|Yushen He et.al.|[2504.13647v1](http://arxiv.org/abs/2504.13647v1)|**2025-04-18**|[link](https://github.com/tosshero/ros_packages)|
 |**2025-04-18**|**ViG3D-UNet: Volumetric Vascular Connectivity-Aware Segmentation via 3D Vision Graph Representation**|Bowen Liu et.al.|[2504.13599v1](http://arxiv.org/abs/2504.13599v1)|**2025-04-18**|null|
 |**2025-04-18**|**LMPOcc: 3D Semantic Occupancy Prediction Utilizing Long-Term Memory Prior from Historical Traversals**|Shanshuai Yuan et.al.|[2504.13596v1](http://arxiv.org/abs/2504.13596v1)|**2025-04-18**|null|
 |**2025-04-18**|**KAN or MLP? Point Cloud Shows the Way Forward**|Yan Shi et.al.|[2504.13593v1](http://arxiv.org/abs/2504.13593v1)|**2025-04-18**|null|
 |**2025-04-18**|**HAECcity: Open-Vocabulary Scene Understanding of City-Scale Point Clouds with Superpoint Graph Clustering**|Alexander Rusnak et.al.|[2504.13590v1](http://arxiv.org/abs/2504.13590v1)|**2025-04-18**|null|
-|**2025-04-18**|**Leveraging Automatic CAD Annotations for Supervised Learning in 3D Scene Understanding**|Yuchen Rao et.al.|[2504.13580v1](http://arxiv.org/abs/2504.13580v1)|**2025-04-18**|null|
+|**2025-04-18**|**Leveraging Automatic CAD Annotations for Supervised Learning in 3D Scene Understanding**|Yuchen Rao et.al.|[2504.13580v1](http://arxiv.org/abs/2504.13580v1)|**2025-04-18**|[link](https://github.com/stefan-ainetter/SCANnotatepp)|
 |**2025-04-18**|**Integrated Super-resolution Sensing and Symbiotic Communication with 3D Sparse MIMO for Low-Altitude UAV Swarm**|Jingran Xu et.al.|[2504.13570v1](http://arxiv.org/abs/2504.13570v1)|**2025-04-18**|null|
 |**2025-04-18**|**WeatherGen: A Unified Diverse Weather Generator for LiDAR Point Clouds via Spider Mamba Diffusion**|Yang Wu et.al.|[2504.13561v1](http://arxiv.org/abs/2504.13561v1)|**2025-04-18**|null|
 |**2025-04-18**|**EG-Gaussian: Epipolar Geometry and Graph Network Enhanced 3D Gaussian Splatting**|Beizhen Zhao et.al.|[2504.13540v1](http://arxiv.org/abs/2504.13540v1)|**2025-04-18**|null|

@@ -6,13 +6,13 @@
 |**2025-04-18**|**Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?**|Yang Yue et.al.|[2504.13837v1](http://arxiv.org/abs/2504.13837v1)|**2025-04-18**|null|
 |**2025-04-18**|**Outlier-Robust Multi-Model Fitting on Quantum Annealers**|Saurabh Pandey et.al.|[2504.13836v1](http://arxiv.org/abs/2504.13836v1)|**2025-04-18**|null|
 |**2025-04-18**|**MIG: Automatic Data Selection for Instruction Tuning by Maximizing Information Gain in Semantic Space**|Yicheng Chen et.al.|[2504.13835v1](http://arxiv.org/abs/2504.13835v1)|**2025-04-18**|null|
-|**2025-04-18**|**Science Hierarchography: Hierarchical Organization of Science Literature**|Muhan Gao et.al.|[2504.13834v1](http://arxiv.org/abs/2504.13834v1)|**2025-04-18**|null|
+|**2025-04-18**|**Science Hierarchography: Hierarchical Organization of Science Literature**|Muhan Gao et.al.|[2504.13834v1](http://arxiv.org/abs/2504.13834v1)|**2025-04-18**|[link](https://github.com/jhu-clsp/science-hierarchography)|
 |**2025-04-18**|**Limiting spectral laws for sparse random circulant matrices**|Adrian Beker et.al.|[2504.13833v1](http://arxiv.org/abs/2504.13833v1)|**2025-04-18**|null|
 |**2025-04-18**|**Strict increase in the number of normally hyperbolic limit tori in 3D polynomial vector fields**|Lucas Queiroz Arakaki et.al.|[2504.13832v1](http://arxiv.org/abs/2504.13832v1)|**2025-04-18**|null|
-|**2025-04-18**|**On Refined Vogel's universality**|Liudmila Bishler et.al.|[2504.13831v1](http://arxiv.org/abs/2504.13831v1)|**2025-04-18**|null|
+|**2025-04-18**|**On Refined Vogel's universality**|Liudmila Bishler et.al.|[2504.13831v2](http://arxiv.org/abs/2504.13831v2)|**2025-04-21**|null|
 |**2025-04-18**|**Nonlocal Coherent Optical Nonlinearities of a Macroscopic Quantum System**|Albert Liu et.al.|[2504.13830v1](http://arxiv.org/abs/2504.13830v1)|**2025-04-18**|null|
 |**2025-04-18**|**Quasi-Keplerian parametrization for compact binaries on hyperbolic orbits in scalar-tensor theories at second post-Newtonian order**|Davide Usseglio et.al.|[2504.13829v1](http://arxiv.org/abs/2504.13829v1)|**2025-04-18**|null|
-|**2025-04-18**|**Generative AI Act II: Test Time Scaling Drives Cognition Engineering**|Shijie Xia et.al.|[2504.13828v1](http://arxiv.org/abs/2504.13828v1)|**2025-04-18**|null|
+|**2025-04-18**|**Generative AI Act II: Test Time Scaling Drives Cognition Engineering**|Shijie Xia et.al.|[2504.13828v2](http://arxiv.org/abs/2504.13828v2)|**2025-04-21**|[link](https://github.com/gair-nlp/cognition-engineering)|
 |**2025-04-18**|**Extracting the chiral anomaly from $e^+e^-\to 3π$**|Martin Hoferichter et.al.|[2504.13827v1](http://arxiv.org/abs/2504.13827v1)|**2025-04-18**|null|
 |**2025-04-18**|**Free Inhomogeneous Wreath Product of Compact Quantum Groups**|Josse van Dobben de Bruyn et.al.|[2504.13826v1](http://arxiv.org/abs/2504.13826v1)|**2025-04-18**|null|
 |**2025-04-18**|**Feature Alignment and Representation Transfer in Knowledge Distillation for Large Language Models**|Junjie Yang et.al.|[2504.13825v1](http://arxiv.org/abs/2504.13825v1)|**2025-04-18**|null|

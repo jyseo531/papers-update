@@ -25,10 +25,10 @@
 |**2025-04-18**|**Molecular Clouds at the Edge of the Galaxy I. Variation of CO J=2-1/1-0 Line Ratio**|C. S. Luo et.al.|[2504.13732v1](http://arxiv.org/abs/2504.13732v1)|**2025-04-18**|null|
 |**2025-04-18**|**MLEP: Multi-granularity Local Entropy Patterns for Universal AI-generated Image Detection**|Lin Yuan et.al.|[2504.13726v1](http://arxiv.org/abs/2504.13726v1)|**2025-04-18**|null|
 |**2025-04-18**|**Human-aligned Deep Learning: Explainability, Causality, and Biological Inspiration**|Gianluca Carloni et.al.|[2504.13717v1](http://arxiv.org/abs/2504.13717v1)|**2025-04-18**|null|
-|**2025-04-18**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713v1](http://arxiv.org/abs/2504.13713v1)|**2025-04-18**|[link](https://github.com/samuel-cerezo/SLAM-Render)|
+|**2025-04-18**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713v2](http://arxiv.org/abs/2504.13713v2)|**2025-04-21**|[link](https://github.com/samuel-cerezo/SLAM-Render)|
 |**2025-04-18**|**Self-Mixing Laser Interferometry: In Search of an Ambient Noise-Resilient Alternative to Acoustic Sensing**|Remko Proesmans et.al.|[2504.13711v1](http://arxiv.org/abs/2504.13711v1)|**2025-04-18**|null|
 |**2025-04-18**|**Few-Shot Referring Video Single- and Multi-Object Segmentation via Cross-Modal Affinity with Instance Sequence Matching**|Heng Liu et.al.|[2504.13710v1](http://arxiv.org/abs/2504.13710v1)|**2025-04-18**|null|
 |**2025-04-18**|**Deriving the Energy Function of Non-repeaters from CHIME/FRB Baseband Data**|Wenqi Ma et.al.|[2504.13705v1](http://arxiv.org/abs/2504.13705v1)|**2025-04-18**|null|
 |**2025-04-18**|**Consensus-aware Contrastive Learning for Group Recommendation**|Soyoung Kim et.al.|[2504.13703v1](http://arxiv.org/abs/2504.13703v1)|**2025-04-18**|null|
 |**2025-04-18**|**Inverse Inference on Cooperative Control of Networked Dynamical Systems**|Yushan Li et.al.|[2504.13701v1](http://arxiv.org/abs/2504.13701v1)|**2025-04-18**|null|
-|**2025-04-18**|**Analysing the Robustness of Vision-Language-Models to Common Corruptions**|Muhammad Usama et.al.|[2504.13690v1](http://arxiv.org/abs/2504.13690v1)|**2025-04-18**|null|
+|**2025-04-18**|**Analysing the Robustness of Vision-Language-Models to Common Corruptions**|Muhammad Usama et.al.|[2504.13690v2](http://arxiv.org/abs/2504.13690v2)|**2025-04-21**|null|

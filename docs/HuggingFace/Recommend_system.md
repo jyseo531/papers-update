@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-04-21
+Updated on 2025-04-22
 
 > Generated from the Hugging Face database.
 
@@ -617,6 +617,7 @@ Updated on 2025-04-21
 | 15.4k | 20 | google-bert/bert-large-uncased-whole-word-maskingFill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/google-bert/bert-large-uncased-whole-word-masking) |
 | 349k | 19 | m3rg-iitd/matscibertFill-Mask | UpdatedJun 22, 2024 | [Link](https://huggingface.co/m3rg-iitd/matscibert) |
 | 13.7k | 19 | albert/albert-large-v2Fill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/albert/albert-large-v2) |
+| 21k | 19 | facebook/esm2_t48_15B_UR50DFill-Mask | UpdatedDec 1, 2022 | [Link](https://huggingface.co/facebook/esm2_t48_15B_UR50D) |
 | 219k | 18 | DeepChem/ChemBERTa-77M-MLMFill-Mask | UpdatedJan 20, 2022 | [Link](https://huggingface.co/DeepChem/ChemBERTa-77M-MLM) |
 | 1.35k | 18 | dlicari/Italian-Legal-BERTFill-Mask | UpdatedAug 28, 2023 | [Link](https://huggingface.co/dlicari/Italian-Legal-BERT) |
 | 7.23k | 17 | deepvk/RuModernBERT-baseFill-Mask | Updated6 days ago | [Link](https://huggingface.co/deepvk/RuModernBERT-base) |
@@ -865,6 +866,7 @@ Updated on 2025-04-21
 | 1.22k | 37 | OpenGVLab/InternVL-14B-224pxImage | UpdatedDec 9, 2024 | [Link](https://huggingface.co/OpenGVLab/InternVL-14B-224px) |
 | 226k | 34 | facebook/dinov2-giantImage | UpdatedSep 6, 2023 | [Link](https://huggingface.co/facebook/dinov2-giant) |
 | 504 | 34 | nvidia/RADIOImage | UpdatedDec 10, 2024 | [Link](https://huggingface.co/nvidia/RADIO) |
+| 22.4k | 32 | OpenGVLab/InternViT-300M-448px-V2_5Image | UpdatedDec 9, 2024 | [Link](https://huggingface.co/OpenGVLab/InternViT-300M-448px-V2_5) |
 | 6.65k | 31 | OpenGVLab/InternViT-6B-448px-V2_5Image | UpdatedDec 9, 2024 | [Link](https://huggingface.co/OpenGVLab/InternViT-6B-448px-V2_5) |
 | 3.86k | 30 | nvidia/MambaVision-T-1KImage | UpdatedJul 25, 2024 | [Link](https://huggingface.co/nvidia/MambaVision-T-1K) |
 | 5.13k | 28 | MahmoodLab/TITANImage | UpdatedDec 3, 2024 | [Link](https://huggingface.co/MahmoodLab/TITAN) |
@@ -2267,6 +2269,7 @@ Updated on 2025-04-21
 | 156 | 23 | THUDM/GLM-4-9B-0414Text | Updatedabout 21 hours ago | [Link](https://huggingface.co/THUDM/GLM-4-9B-0414) |
 | 5 | 23 | fantos/QwQ-32B-bnb-4bitText | UpdatedMar 20 | [Link](https://huggingface.co/fantos/QwQ-32B-bnb-4bit) |
 | 44 | 22 | deepcogito/cogito-v1-preview-llama-3BText | Updatedabout 12 hours ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-llama-3B) |
+| 10.2k | 22 | bartowski/THUDM_GLM-4-32B-0414-GGUFText | Updated6 days ago | [Link](https://huggingface.co/bartowski/THUDM_GLM-4-32B-0414-GGUF) |
 | 34 | 21 | ai21labs/AI21-Jamba-Mini-1 | Updatedabout 13 hours ago | [Link](https://huggingface.co/ai21labs/AI21-Jamba-Mini-1.6) |
 | 7.93k | 21 | lmstudio-community/Llama-4-Scout-17B-16E-Instruct-GGUFText | Updated1 day ago | [Link](https://huggingface.co/lmstudio-community/Llama-4-Scout-17B-16E-Instruct-GGUF) |
 | 275 | 21 | ServiceNow-AI/Apriel-5B-InstructText | Updated3 days ago | [Link](https://huggingface.co/ServiceNow-AI/Apriel-5B-Instruct) |
@@ -2598,6 +2601,7 @@ Updated on 2025-04-21
 | 11.8k | 480 | fishaudio/fish-speech-1 | UpdatedDec 3, 2024 | [Link](https://huggingface.co/fishaudio/fish-speech-1.5) |
 | 8.56k | 455 | HKUSTAudio/Llasa-3BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-3B) |
 | 199 | 451 | CAMB-AI/MARS5-TTSText-to-Speech | UpdatedJul 5, 2024 | [Link](https://huggingface.co/CAMB-AI/MARS5-TTS) |
+| 5.64k | 352 | parler-tts/parler_tts_mini_v0 | UpdatedApr 30, 2024 | [Link](https://huggingface.co/parler-tts/parler_tts_mini_v0.1) |
 | 171 | 276 | amphion/MaskGCTText-to-Speech | UpdatedDec 22, 2024 | [Link](https://huggingface.co/amphion/MaskGCT) |
 | 116k | 255 | myshell-ai/MeloTTS-EnglishText-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/MeloTTS-English) |
 | 19.5k | 241 | parler-tts/parler-tts-large-v1Text-to-Speech | UpdatedNov 22, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-large-v1) |
@@ -2927,6 +2931,7 @@ Updated on 2025-04-21
 | 17.1k | 51 | urchade/gliner_large-v2Token | UpdatedJul 12, 2024 | [Link](https://huggingface.co/urchade/gliner_large-v2) |
 | 6.57k | 42 | knowledgator/modern-gliner-bi-large-v1 | Updated27 days ago | [Link](https://huggingface.co/knowledgator/modern-gliner-bi-large-v1.0) |
 | 172k | 32 | elastic/distilbert-base-uncased-finetuned-conll03-englishToken | UpdatedAug 28, 2023 | [Link](https://huggingface.co/elastic/distilbert-base-uncased-finetuned-conll03-english) |
+| 24.3k | 30 | flair/pos-englishToken | UpdatedApr 10, 2023 | [Link](https://huggingface.co/flair/pos-english) |
 | 2.43k | 24 | cmarkea/distilcamembert-base-nerToken | UpdatedOct 26, 2024 | [Link](https://huggingface.co/cmarkea/distilcamembert-base-ner) |
 | 11.1k | 22 | alvaroalon2/biobert_genetic_nerToken | UpdatedMar 17, 2023 | [Link](https://huggingface.co/alvaroalon2/biobert_genetic_ner) |
 | 2.12k | 21 | flair/ner-german-legalToken | UpdatedJul 19, 2024 | [Link](https://huggingface.co/flair/ner-german-legal) |
@@ -3333,6 +3338,7 @@ Updated on 2025-04-21
 | 10 | 2 | TIGER-Lab/MM-Thinker-72BVisual | Updatedabout 12 hours ago | [Link](https://huggingface.co/TIGER-Lab/MM-Thinker-72B) |
 | 18 | 2 | TIGER-Lab/VL-Rethinker-72BVisual | Updated3 days ago | [Link](https://huggingface.co/TIGER-Lab/VL-Rethinker-72B) |
 | 92 | 2 | trillionlabs/Trillion-LLaVA-7BVisual | Updatedabout 18 hours ago | [Link](https://huggingface.co/trillionlabs/Trillion-LLaVA-7B) |
+| 1 | 2 | ritzzai/GUI-R1Visual | Updatedabout 10 hours ago | [Link](https://huggingface.co/ritzzai/GUI-R1) |
 | 96 | 1 | dineshcr7/med-VQA-1Visual | UpdatedOct 28, 2023 | [Link](https://huggingface.co/dineshcr7/med-VQA-1) |
 | 143k |  | dandelin/vilt-b32-finetuned-vqaVisual | UpdatedAug 2, 2022 | [Link](https://huggingface.co/dandelin/vilt-b32-finetuned-vqa) |
 | 778k |  | Salesforce/blip-vqa-baseVisual | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-vqa-base) |
