@@ -3440,6 +3440,7 @@ Updated on 2025-04-23
 | 631 | 10 | mlburnham/Political_DEBATE_large_v1 | UpdatedDec 13, 2024 | [Link](https://huggingface.co/mlburnham/Political_DEBATE_large_v1.0) |
 | 359 | 9 | svalabs/gbert-large-zeroshot-nliZero-Shot | UpdatedSep 27, 2024 | [Link](https://huggingface.co/svalabs/gbert-large-zeroshot-nli) |
 | 690 | 9 | symanto/xlm-roberta-base-snli-mnli-anli-xnliZero-Shot | UpdatedFeb 20, 2023 | [Link](https://huggingface.co/symanto/xlm-roberta-base-snli-mnli-anli-xnli) |
+| 11k | 9 | cross-encoder/nli-MiniLM2-L6-H768Zero-Shot | Updated8 days ago | [Link](https://huggingface.co/cross-encoder/nli-MiniLM2-L6-H768) |
 | 79 | 8 | knowledgator/gliclass-modern-large-v2 | Updated3 days ago | [Link](https://huggingface.co/knowledgator/gliclass-modern-large-v2.0-init) |
 | 2.24k | 7 | pongjin/roberta_with_kornliZero-Shot | UpdatedJun 22, 2023 | [Link](https://huggingface.co/pongjin/roberta_with_kornli) |
 | 5.51k | 6 | MoritzLaurer/multilingual-MiniLMv2-L12-mnli-xnliZero-Shot | UpdatedMar 20, 2023 | [Link](https://huggingface.co/MoritzLaurer/multilingual-MiniLMv2-L12-mnli-xnli) |
