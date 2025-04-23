@@ -9,7 +9,7 @@
 |**2025-04-21**|**Shape-Guided Clothing Warping for Virtual Try-On**|Xiaoyu Han et.al.|[2504.15232v1](http://arxiv.org/abs/2504.15232v1)|**2025-04-21**|[link](https://github.com/xyhanhit/scw-vton)|
 |**2025-04-21**|**Zero-Shot, But at What Cost? Unveiling the Hidden Overhead of MILS's LLM-CLIP Framework for Image Captioning**|Yassir Benhammou et.al.|[2504.15199v1](http://arxiv.org/abs/2504.15199v1)|**2025-04-21**|null|
 |**2025-04-21**|**Automated Measurement of Eczema Severity with Self-Supervised Learning**|Neelesh Kumar et.al.|[2504.15193v1](http://arxiv.org/abs/2504.15193v1)|**2025-04-21**|null|
-|**2025-04-21**|**LACE: Controlled Image Prompting and Iterative Refinement with GenAI for Professional Visual Art Creators**|Yenkai Huang et.al.|[2504.15189v1](http://arxiv.org/abs/2504.15189v1)|**2025-04-21**|null|
+|**2025-04-21**|**LACE: Controlled Image Prompting and Iterative Refinement with GenAI for Professional Visual Art Creators**|Yenkai Huang et.al.|[2504.15189v2](http://arxiv.org/abs/2504.15189v2)|**2025-04-22**|null|
 |**2025-04-21**|**Tiger200K: Manually Curated High Visual Quality Video Dataset from UGC Platform**|Xianpan Zhou et.al.|[2504.15182v1](http://arxiv.org/abs/2504.15182v1)|**2025-04-21**|null|
 |**2025-04-21**|**FaceCraft4D: Animated 3D Facial Avatar Generation from a Single Image**|Fei Yin et.al.|[2504.15179v1](http://arxiv.org/abs/2504.15179v1)|**2025-04-21**|null|
 |**2025-04-21**|**DSPO: Direct Semantic Preference Optimization for Real-World Image Super-Resolution**|Miaomiao Cai et.al.|[2504.15176v1](http://arxiv.org/abs/2504.15176v1)|**2025-04-21**|null|
@@ -26,7 +26,7 @@
 |**2025-04-21**|**A triple-branch network for latent fingerprint enhancement guided by orientation fields and minutiae**|Yurun Wang et.al.|[2504.15105v1](http://arxiv.org/abs/2504.15105v1)|**2025-04-21**|null|
 |**2025-04-21**|**Muon Imaging of Hydrotreatment Towers**|Rafael Armando Martínez-Rivero et.al.|[2504.15103v1](http://arxiv.org/abs/2504.15103v1)|**2025-04-21**|null|
 |**2025-04-21**|**Application of Sensitivity Analysis Methods for Studying Neural Network Models**|Jiaxuan Miao et.al.|[2504.15100v1](http://arxiv.org/abs/2504.15100v1)|**2025-04-21**|null|
-|**2025-04-21**|**VistaDepth: Frequency Modulation With Bias Reweighting For Enhanced Long-Range Depth Estimation**|Mingxia Zhan et.al.|[2504.15095v1](http://arxiv.org/abs/2504.15095v1)|**2025-04-21**|null|
+|**2025-04-21**|**VistaDepth: Frequency Modulation With Bias Reweighting For Enhanced Long-Range Depth Estimation**|Mingxia Zhan et.al.|[2504.15095v2](http://arxiv.org/abs/2504.15095v2)|**2025-04-22**|null|
 |**2025-04-21**|**Hierarchical Attention Fusion of Visual and Textual Representations for Cross-Domain Sequential Recommendation**|Wangyu Wu et.al.|[2504.15085v1](http://arxiv.org/abs/2504.15085v1)|**2025-04-21**|null|
 |**2025-04-21**|**Data-constrained Magnetohydrodynamic Simulation of a Filament Eruption in a Decaying Active Region 13079 on a Global Scale**|Yihua Li et.al.|[2504.15069v1](http://arxiv.org/abs/2504.15069v1)|**2025-04-21**|null|
 |**2025-04-21**|**OPO: Making Decision-Focused Data Acquisition Decisions**|Egon Peršak et.al.|[2504.15062v1](http://arxiv.org/abs/2504.15062v1)|**2025-04-21**|null|

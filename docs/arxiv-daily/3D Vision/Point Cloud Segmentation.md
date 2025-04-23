@@ -25,10 +25,10 @@
 |**2025-04-21**|**Aria-MIDI: A Dataset of Piano MIDI Files for Symbolic Music Modeling**|Louis Bradshaw et.al.|[2504.15071v1](http://arxiv.org/abs/2504.15071v1)|**2025-04-21**|null|
 |**2025-04-21**|**Automated discovery and optimization of autonomous quantum error correction codes for a general open quantum system**|Sahel Ashhab et.al.|[2504.15070v1](http://arxiv.org/abs/2504.15070v1)|**2025-04-21**|null|
 |**2025-04-21**|**OPO: Making Decision-Focused Data Acquisition Decisions**|Egon Peršak et.al.|[2504.15062v1](http://arxiv.org/abs/2504.15062v1)|**2025-04-21**|null|
-|**2025-04-21**|**One Dimensional Asymptotic Plateau Problem in $n$-Dimensional Asymptotically Conical Manifolds**|Jiayin Liu et.al.|[2504.15058v1](http://arxiv.org/abs/2504.15058v1)|**2025-04-21**|null|
+|**2025-04-21**|**One Dimensional Asymptotic Plateau Problem in $n$-Dimensional Asymptotically Conical Manifolds**|Jiayin Liu et.al.|[2504.15058v2](http://arxiv.org/abs/2504.15058v2)|**2025-04-22**|null|
 |**2025-04-21**|**Structure-guided Diffusion Transformer for Low-Light Image Enhancement**|Xiangchen Yin et.al.|[2504.15054v1](http://arxiv.org/abs/2504.15054v1)|**2025-04-21**|null|
 |**2025-04-21**|**Potential Vibrational Modes Tied to Diffuse Interstellar Bands**|Daniel Majaess et.al.|[2504.15050v1](http://arxiv.org/abs/2504.15050v1)|**2025-04-21**|null|
 |**2025-04-21**|**Period-luminosity and period-luminosity-metallicity relation for $δ$ Scuti Stars**|Yan-qi Liu et.al.|[2504.15045v1](http://arxiv.org/abs/2504.15045v1)|**2025-04-21**|null|
-|**2025-04-21**|**Direct Search Algorithm for Clock Skew Compensation Immune to Floating-Point Precision Loss**|Kyeong Soo Kim et.al.|[2504.15039v1](http://arxiv.org/abs/2504.15039v1)|**2025-04-21**|null|
+|**2025-04-21**|**Direct Search Algorithm for Clock Skew Compensation Immune to Floating-Point Precision Loss**|Kyeong Soo Kim et.al.|[2504.15039v2](http://arxiv.org/abs/2504.15039v2)|**2025-04-22**|null|
 |**2025-04-21**|**Is Intelligence the Right Direction in New OS Scheduling for Multiple Resources in Cloud Environments?**|Xinglei Dou et.al.|[2504.15021v1](http://arxiv.org/abs/2504.15021v1)|**2025-04-21**|null|
 |**2025-04-21**|**The Schouten-Nijenhuis bracket in infinite dimensions**|Peter W. Michor et.al.|[2504.15010v1](http://arxiv.org/abs/2504.15010v1)|**2025-04-21**|null|

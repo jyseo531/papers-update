@@ -21,11 +21,11 @@
 |**2025-04-21**|**High-Precision and Wafer-Scale Transfer Lithography of Commercial Photoresists via Reversible Adhesion for Sustainable Microfabrication on Diverse Substrates**|Qinhua Guo et.al.|[2504.15078v1](http://arxiv.org/abs/2504.15078v1)|**2025-04-21**|null|
 |**2025-04-21**|**The orientation dynamics of a massive ellipsoid in simple shear flow**|Giridar Vishwanathan et.al.|[2504.15074v1](http://arxiv.org/abs/2504.15074v1)|**2025-04-21**|null|
 |**2025-04-21**|**Automated discovery and optimization of autonomous quantum error correction codes for a general open quantum system**|Sahel Ashhab et.al.|[2504.15070v1](http://arxiv.org/abs/2504.15070v1)|**2025-04-21**|null|
-|**2025-04-21**|**One Dimensional Asymptotic Plateau Problem in $n$-Dimensional Asymptotically Conical Manifolds**|Jiayin Liu et.al.|[2504.15058v1](http://arxiv.org/abs/2504.15058v1)|**2025-04-21**|null|
+|**2025-04-21**|**One Dimensional Asymptotic Plateau Problem in $n$-Dimensional Asymptotically Conical Manifolds**|Jiayin Liu et.al.|[2504.15058v2](http://arxiv.org/abs/2504.15058v2)|**2025-04-22**|null|
 |**2025-04-21**|**Structure-guided Diffusion Transformer for Low-Light Image Enhancement**|Xiangchen Yin et.al.|[2504.15054v1](http://arxiv.org/abs/2504.15054v1)|**2025-04-21**|null|
 |**2025-04-21**|**Potential Vibrational Modes Tied to Diffuse Interstellar Bands**|Daniel Majaess et.al.|[2504.15050v1](http://arxiv.org/abs/2504.15050v1)|**2025-04-21**|null|
 |**2025-04-21**|**Period-luminosity and period-luminosity-metallicity relation for $δ$ Scuti Stars**|Yan-qi Liu et.al.|[2504.15045v1](http://arxiv.org/abs/2504.15045v1)|**2025-04-21**|null|
-|**2025-04-21**|**Direct Search Algorithm for Clock Skew Compensation Immune to Floating-Point Precision Loss**|Kyeong Soo Kim et.al.|[2504.15039v1](http://arxiv.org/abs/2504.15039v1)|**2025-04-21**|null|
+|**2025-04-21**|**Direct Search Algorithm for Clock Skew Compensation Immune to Floating-Point Precision Loss**|Kyeong Soo Kim et.al.|[2504.15039v2](http://arxiv.org/abs/2504.15039v2)|**2025-04-22**|null|
 |**2025-04-21**|**Is Intelligence the Right Direction in New OS Scheduling for Multiple Resources in Cloud Environments?**|Xinglei Dou et.al.|[2504.15021v1](http://arxiv.org/abs/2504.15021v1)|**2025-04-21**|null|
 |**2025-04-21**|**The Schouten-Nijenhuis bracket in infinite dimensions**|Peter W. Michor et.al.|[2504.15010v1](http://arxiv.org/abs/2504.15010v1)|**2025-04-21**|null|
 |**2025-04-21**|**Dual Utilization of Perturbation for Stream Data Publication under Local Differential Privacy**|Rong Du et.al.|[2504.14993v1](http://arxiv.org/abs/2504.14993v1)|**2025-04-21**|null|

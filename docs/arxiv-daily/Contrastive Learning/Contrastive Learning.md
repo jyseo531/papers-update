@@ -23,7 +23,7 @@
 |**2025-04-21**|**A Deep Learning Framework for Sequence Mining with Bidirectional LSTM and Multi-Scale Attention**|Tao Yang et.al.|[2504.15223v1](http://arxiv.org/abs/2504.15223v1)|**2025-04-21**|null|
 |**2025-04-21**|**Fully Bayesian Approaches to Topics over Time**|Julián Cendrero et.al.|[2504.15220v1](http://arxiv.org/abs/2504.15220v1)|**2025-04-21**|null|
 |**2025-04-21**|**DRAGON: Distributional Rewards Optimize Diffusion Generative Models**|Yatong Bai et.al.|[2504.15217v1](http://arxiv.org/abs/2504.15217v1)|**2025-04-21**|null|
-|**2025-04-21**|**Histogram-based Parameter-efficient Tuning for Passive Sonar Classification**|Amirmohammad Mohammadi et.al.|[2504.15214v1](http://arxiv.org/abs/2504.15214v1)|**2025-04-21**|null|
+|**2025-04-21**|**Histogram-based Parameter-efficient Tuning for Passive Sonar Classification**|Amirmohammad Mohammadi et.al.|[2504.15214v2](http://arxiv.org/abs/2504.15214v2)|**2025-04-22**|null|
 |**2025-04-21**|**A universal threshold for geometric embeddings of trees**|Dylan J. Altschuler et.al.|[2504.15212v1](http://arxiv.org/abs/2504.15212v1)|**2025-04-21**|null|
 |**2025-04-21**|**Position: Bayesian Statistics Facilitates Stakeholder Participation in Evaluation of Generative AI**|Yanan Long et.al.|[2504.15211v1](http://arxiv.org/abs/2504.15211v1)|**2025-04-21**|null|
 |**2025-04-21**|**Integrating Symbolic Execution into the Fine-Tuning of Code-Generating LLMs**|Marina Sakharova et.al.|[2504.15210v1](http://arxiv.org/abs/2504.15210v1)|**2025-04-21**|null|

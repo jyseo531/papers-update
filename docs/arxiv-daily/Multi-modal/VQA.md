@@ -29,6 +29,6 @@
 |**2025-04-21**|**Linear Item-Item Model with Neural Knowledge for Session-based Recommendation**|Minjin Choi et.al.|[2504.15057v1](http://arxiv.org/abs/2504.15057v1)|**2025-04-21**|null|
 |**2025-04-21**|**Structure-guided Diffusion Transformer for Low-Light Image Enhancement**|Xiangchen Yin et.al.|[2504.15054v1](http://arxiv.org/abs/2504.15054v1)|**2025-04-21**|null|
 |**2025-04-21**|**One pathogen does not an epidemic make: A review of interacting contagions, diseases, beliefs, and stories**|Laurent Hébert-Dufresne et.al.|[2504.15053v1](http://arxiv.org/abs/2504.15053v1)|**2025-04-21**|null|
-|**2025-04-21**|**Text-to-Decision Agent: Learning Generalist Policies from Natural Language Supervision**|Shilin Zhang et.al.|[2504.15046v1](http://arxiv.org/abs/2504.15046v1)|**2025-04-21**|null|
+|**2025-04-21**|**Text-to-Decision Agent: Learning Generalist Policies from Natural Language Supervision**|Shilin Zhang et.al.|[2504.15046v2](http://arxiv.org/abs/2504.15046v2)|**2025-04-22**|null|
 |**2025-04-21**|**Beyond Terabit/s Integrated Neuromorphic Photonic Processor for DSP-Free Optical Interconnects**|Benshan Wang et.al.|[2504.15044v1](http://arxiv.org/abs/2504.15044v1)|**2025-04-21**|null|
 |**2025-04-21**|**Bayesian Sensing for Time-Varying Channels in ISAC Systems**|Xueyang Wang et.al.|[2504.15042v1](http://arxiv.org/abs/2504.15042v1)|**2025-04-21**|null|

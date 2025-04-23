@@ -12,7 +12,7 @@
 |**2025-04-21**|**A Review on Privacy in DAG-Based DLTs**|Mayank Raikwar et.al.|[2504.15233v1](http://arxiv.org/abs/2504.15233v1)|**2025-04-21**|null|
 |**2025-04-21**|**Shape-Guided Clothing Warping for Virtual Try-On**|Xiaoyu Han et.al.|[2504.15232v1](http://arxiv.org/abs/2504.15232v1)|**2025-04-21**|[link](https://github.com/xyhanhit/scw-vton)|
 |**2025-04-21**|**An experimental study of the influence of anonymous information on social media users**|Boleslaw K. Szymanski et.al.|[2504.15215v1](http://arxiv.org/abs/2504.15215v1)|**2025-04-21**|null|
-|**2025-04-21**|**Histogram-based Parameter-efficient Tuning for Passive Sonar Classification**|Amirmohammad Mohammadi et.al.|[2504.15214v1](http://arxiv.org/abs/2504.15214v1)|**2025-04-21**|null|
+|**2025-04-21**|**Histogram-based Parameter-efficient Tuning for Passive Sonar Classification**|Amirmohammad Mohammadi et.al.|[2504.15214v2](http://arxiv.org/abs/2504.15214v2)|**2025-04-22**|null|
 |**2025-04-21**|**Community detection in hypergraphs through hyperedge percolation**|Bianka Kovács et.al.|[2504.15213v1](http://arxiv.org/abs/2504.15213v1)|**2025-04-21**|null|
 |**2025-04-21**|**A universal threshold for geometric embeddings of trees**|Dylan J. Altschuler et.al.|[2504.15212v1](http://arxiv.org/abs/2504.15212v1)|**2025-04-21**|null|
 |**2025-04-21**|**On robust toric ideals of weighted oriented graphs**|Ramakrishna Nanduri et.al.|[2504.15200v1](http://arxiv.org/abs/2504.15200v1)|**2025-04-21**|null|

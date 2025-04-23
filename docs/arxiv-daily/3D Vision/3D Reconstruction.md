@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-04-21**|**StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**|Cailin Zhuang et.al.|[2504.15281v1](http://arxiv.org/abs/2504.15281v1)|**2025-04-21**|null|
 |**2025-04-21**|**Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs**|Chun-Hsiao Yeh et.al.|[2504.15280v1](http://arxiv.org/abs/2504.15280v1)|**2025-04-21**|null|
-|**2025-04-21**|**DRAWER: Digital Reconstruction and Articulation With Environment Realism**|Hongchi Xia et.al.|[2504.15278v1](http://arxiv.org/abs/2504.15278v1)|**2025-04-21**|null|
+|**2025-04-21**|**DRAWER: Digital Reconstruction and Articulation With Environment Realism**|Hongchi Xia et.al.|[2504.15278v2](http://arxiv.org/abs/2504.15278v2)|**2025-04-22**|null|
 |**2025-04-21**|**Diffusion Bridge Models for 3D Medical Image Translation**|Shaorong Zhang et.al.|[2504.15267v1](http://arxiv.org/abs/2504.15267v1)|**2025-04-21**|null|
 |**2025-04-21**|**Revealing the 3D Cosmic Web through Gravitationally Constrained Neural Fields**|Brandon Zhao et.al.|[2504.15262v1](http://arxiv.org/abs/2504.15262v1)|**2025-04-21**|null|
 |**2025-04-21**|**Bringing Diversity from Diffusion Models to Semantic-Guided Face Asset Generation**|Yunxuan Cai et.al.|[2504.15259v1](http://arxiv.org/abs/2504.15259v1)|**2025-04-21**|null|
@@ -17,7 +17,7 @@
 |**2025-04-21**|**Reconstructing the redshift evolution of Type Ia supernovae absolute magnitude**|Rodrigo von Marttens et.al.|[2504.15127v1](http://arxiv.org/abs/2504.15127v1)|**2025-04-21**|null|
 |**2025-04-21**|**MoBGS: Motion Deblurring Dynamic 3D Gaussian Splatting for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2504.15122v1](http://arxiv.org/abs/2504.15122v1)|**2025-04-21**|null|
 |**2025-04-21**|**Muon Imaging of Hydrotreatment Towers**|Rafael Armando Martínez-Rivero et.al.|[2504.15103v1](http://arxiv.org/abs/2504.15103v1)|**2025-04-21**|null|
-|**2025-04-21**|**VistaDepth: Frequency Modulation With Bias Reweighting For Enhanced Long-Range Depth Estimation**|Mingxia Zhan et.al.|[2504.15095v1](http://arxiv.org/abs/2504.15095v1)|**2025-04-21**|null|
+|**2025-04-21**|**VistaDepth: Frequency Modulation With Bias Reweighting For Enhanced Long-Range Depth Estimation**|Mingxia Zhan et.al.|[2504.15095v2](http://arxiv.org/abs/2504.15095v2)|**2025-04-22**|null|
 |**2025-04-21**|**Robust Planning and Control of Omnidirectional MRAVs for Aerial Communications in Wireless Networks**|Giuseppe Silano et.al.|[2504.15089v1](http://arxiv.org/abs/2504.15089v1)|**2025-04-21**|null|
 |**2025-04-21**|**Data-constrained Magnetohydrodynamic Simulation of a Filament Eruption in a Decaying Active Region 13079 on a Global Scale**|Yihua Li et.al.|[2504.15069v1](http://arxiv.org/abs/2504.15069v1)|**2025-04-21**|null|
 |**2025-04-21**|**ScanEdit: Hierarchically-Guided Functional 3D Scan Editing**|Mohamed el amine Boudjoghra et.al.|[2504.15049v1](http://arxiv.org/abs/2504.15049v1)|**2025-04-21**|null|

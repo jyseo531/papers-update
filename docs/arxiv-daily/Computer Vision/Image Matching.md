@@ -15,7 +15,7 @@
 |**2025-04-21**|**Zero-Shot, But at What Cost? Unveiling the Hidden Overhead of MILS's LLM-CLIP Framework for Image Captioning**|Yassir Benhammou et.al.|[2504.15199v1](http://arxiv.org/abs/2504.15199v1)|**2025-04-21**|null|
 |**2025-04-21**|**Extended mean-field theories for networks of real neurons**|Luca Di Carlo et.al.|[2504.15197v1](http://arxiv.org/abs/2504.15197v1)|**2025-04-21**|null|
 |**2025-04-21**|**Automated Measurement of Eczema Severity with Self-Supervised Learning**|Neelesh Kumar et.al.|[2504.15193v1](http://arxiv.org/abs/2504.15193v1)|**2025-04-21**|null|
-|**2025-04-21**|**LACE: Controlled Image Prompting and Iterative Refinement with GenAI for Professional Visual Art Creators**|Yenkai Huang et.al.|[2504.15189v1](http://arxiv.org/abs/2504.15189v1)|**2025-04-21**|null|
+|**2025-04-21**|**LACE: Controlled Image Prompting and Iterative Refinement with GenAI for Professional Visual Art Creators**|Yenkai Huang et.al.|[2504.15189v2](http://arxiv.org/abs/2504.15189v2)|**2025-04-22**|null|
 |**2025-04-21**|**FaceCraft4D: Animated 3D Facial Avatar Generation from a Single Image**|Fei Yin et.al.|[2504.15179v1](http://arxiv.org/abs/2504.15179v1)|**2025-04-21**|null|
 |**2025-04-21**|**DSPO: Direct Semantic Preference Optimization for Real-World Image Super-Resolution**|Miaomiao Cai et.al.|[2504.15176v1](http://arxiv.org/abs/2504.15176v1)|**2025-04-21**|null|
 |**2025-04-21**|**HSANET: A Hybrid Self-Cross Attention Network For Remote Sensing Change Detection**|Chengxi Han et.al.|[2504.15170v1](http://arxiv.org/abs/2504.15170v1)|**2025-04-21**|[link](https://github.com/chengxihan/hsanet)|

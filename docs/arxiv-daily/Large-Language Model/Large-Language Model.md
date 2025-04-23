@@ -5,7 +5,7 @@
 |**2025-04-21**|**Simultaneously Modelling Dusty Star Forming Galaxies and Massive Quiescents: A Calibration Framework for Galaxy Formation Models**|Pablo Araya-Araya et.al.|[2504.15283v1](http://arxiv.org/abs/2504.15283v1)|**2025-04-21**|null|
 |**2025-04-21**|**VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models**|Weiye Xu et.al.|[2504.15279v1](http://arxiv.org/abs/2504.15279v1)|**2025-04-21**|null|
 |**2025-04-21**|**Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs**|Chun-Hsiao Yeh et.al.|[2504.15280v1](http://arxiv.org/abs/2504.15280v1)|**2025-04-21**|null|
-|**2025-04-21**|**DRAWER: Digital Reconstruction and Articulation With Environment Realism**|Hongchi Xia et.al.|[2504.15278v1](http://arxiv.org/abs/2504.15278v1)|**2025-04-21**|null|
+|**2025-04-21**|**DRAWER: Digital Reconstruction and Articulation With Environment Realism**|Hongchi Xia et.al.|[2504.15278v2](http://arxiv.org/abs/2504.15278v2)|**2025-04-22**|null|
 |**2025-04-21**|**Stop Summation: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning**|Jie Cheng et.al.|[2504.15275v1](http://arxiv.org/abs/2504.15275v1)|**2025-04-21**|[link](https://github.com/cjreinforce/pure)|
 |**2025-04-21**|**Improved Algorithms for Quantum MaxCut via Partially Entangled Matchings**|Anuj Apte et.al.|[2504.15276v1](http://arxiv.org/abs/2504.15276v1)|**2025-04-21**|null|
 |**2025-04-21**|**Is Dynamical Dark Energy Necessary? DESI BAO and Modified Recombination**|Seyed Hamidreza Mirpoorian et.al.|[2504.15274v1](http://arxiv.org/abs/2504.15274v1)|**2025-04-21**|null|

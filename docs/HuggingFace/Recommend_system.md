@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-04-22
+Updated on 2025-04-23
 
 > Generated from the Hugging Face database.
 
@@ -232,6 +232,7 @@ Updated on 2025-04-22
 | 740k | 340 | Systran/faster-whisper-large-v3Automatic | UpdatedNov 23, 2023 | [Link](https://huggingface.co/Systran/faster-whisper-large-v3) |
 | 131k | 196 | guillaumekln/faster-whisper-large-v2Automatic | UpdatedMay 12, 2023 | [Link](https://huggingface.co/guillaumekln/faster-whisper-large-v2) |
 | 189k | 130 | facebook/mms-1b-allAutomatic | UpdatedJun 15, 2023 | [Link](https://huggingface.co/facebook/mms-1b-all) |
+| 7 | 124 | espnet/xeusAutomatic | UpdatedAug 3, 2024 | [Link](https://huggingface.co/espnet/xeus) |
 | 227k | 110 | argmaxinc/whisperkit-coremlAutomatic | Updated23 days ago | [Link](https://huggingface.co/argmaxinc/whisperkit-coreml) |
 | 250k | 105 | deepdml/faster-whisper-large-v3-turbo-ct2Automatic | UpdatedOct 27, 2024 | [Link](https://huggingface.co/deepdml/faster-whisper-large-v3-turbo-ct2) |
 | 5.58M | 97 | jonatasgrosman/wav2vec2-large-xlsr-53-chinese-zh-cnAutomatic | UpdatedDec 14, 2022 | [Link](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-chinese-zh-cn) |
@@ -264,6 +265,7 @@ Updated on 2025-04-22
 | 10.4k | 16 | r-f/wav2vec-english-speech-emotion-recognitionAutomatic | UpdatedJan 2 | [Link](https://huggingface.co/r-f/wav2vec-english-speech-emotion-recognition) |
 | 133 | 16 | seastar105/whisper-medium-ko-zerothAutomatic | UpdatedFeb 9, 2023 | [Link](https://huggingface.co/seastar105/whisper-medium-ko-zeroth) |
 | 1.31k | 15 | aismlv/wav2vec2-large-xlsr-kazakhAutomatic | UpdatedDec 20, 2023 | [Link](https://huggingface.co/aismlv/wav2vec2-large-xlsr-kazakh) |
+| 198 | 15 | primeline/distil-whisper-large-v3-germanAutomatic | UpdatedDec 3, 2024 | [Link](https://huggingface.co/primeline/distil-whisper-large-v3-german) |
 | 5.88k | 13 | guillaumekln/faster-whisper-smallAutomatic | UpdatedMay 12, 2023 | [Link](https://huggingface.co/guillaumekln/faster-whisper-small) |
 | 298 | 12 | Akashpb13/xlsr_kurmanji_kurdishAutomatic | UpdatedMar 25, 2023 | [Link](https://huggingface.co/Akashpb13/xlsr_kurmanji_kurdish) |
 | 2.33k | 12 | argmaxinc/whisperkit-proAutomatic | UpdatedJan 13 | [Link](https://huggingface.co/argmaxinc/whisperkit-pro) |
@@ -627,6 +629,7 @@ Updated on 2025-04-22
 | 2.46k | 16 | ChatterjeeLab/PepMLM-650MFill-Mask | UpdatedJul 29, 2024 | [Link](https://huggingface.co/ChatterjeeLab/PepMLM-650M) |
 | 285 | 16 | EuroBERT/EuroBERT-210mFill-Mask | Updatedabout 5 hours ago | [Link](https://huggingface.co/EuroBERT/EuroBERT-210m) |
 | 2.89k | 15 | CAMeL-Lab/bert-base-arabic-camelbert-mixFill-Mask | UpdatedSep 14, 2021 | [Link](https://huggingface.co/CAMeL-Lab/bert-base-arabic-camelbert-mix) |
+| 639 | 15 | markusbayer/CySecBERTFill-Mask | UpdatedOct 28, 2024 | [Link](https://huggingface.co/markusbayer/CySecBERT) |
 | 241 | 14 | neavo/modern_bert_multilingualFill-Mask | Updated7 days ago | [Link](https://huggingface.co/neavo/modern_bert_multilingual) |
 | 869k | 14 | facebook/esm2_t12_35M_UR50DFill-Mask | UpdatedMar 21, 2023 | [Link](https://huggingface.co/facebook/esm2_t12_35M_UR50D) |
 | 33 | 14 | EuroBERT/EuroBERT-2 | Updatedabout 5 hours ago | [Link](https://huggingface.co/EuroBERT/EuroBERT-2.1B) |
@@ -911,6 +914,7 @@ Updated on 2025-04-22
 | 129 | 2 | kaiko-ai/midnightImage | Updatedabout 13 hours ago | [Link](https://huggingface.co/kaiko-ai/midnight) |
 | 50.8k | 1 | StanfordAIMI/dinov2-base-xray-224Image | UpdatedFeb 11, 2024 | [Link](https://huggingface.co/StanfordAIMI/dinov2-base-xray-224) |
 | 213 | 1 | iamrizwan077/detr-finetuned-road-signs-v1Image | UpdatedMay 5, 2024 | [Link](https://huggingface.co/iamrizwan077/detr-finetuned-road-signs-v1) |
+| 9.54k | 1 | timm/vit_base_patch8_224 | UpdatedJan 21 | [Link](https://huggingface.co/timm/vit_base_patch8_224.dino) |
 | 2 | Unknown | TongkunGuan/TokenOCRImage | Updated1 day ago | [Link](https://huggingface.co/TongkunGuan/TokenOCR) |
 | 2 | Unknown | nvidia/MambaVision-L-21KImage | Updatedabout 5 hours ago | [Link](https://huggingface.co/nvidia/MambaVision-L-21K) |
 | 2 | Unknown | nvidia/MambaVision-L2-512-21KImage | Updatedabout 5 hours ago | [Link](https://huggingface.co/nvidia/MambaVision-L2-512-21K) |
@@ -1273,6 +1277,7 @@ Updated on 2025-04-22
 | 4.54k | 23 | raxtemur/trocr-base-ruImage-to-Text | UpdatedMay 29, 2024 | [Link](https://huggingface.co/raxtemur/trocr-base-ru) |
 | 376 | 19 | to-be/donut-base-finetuned-invoicesImage-to-Text | UpdatedMar 3, 2023 | [Link](https://huggingface.co/to-be/donut-base-finetuned-invoices) |
 | 225 | 15 | DunnBC22/trocr-base-handwritten-OCR-handwriting_recognition_v2Image-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-base-handwritten-OCR-handwriting_recognition_v2) |
+| 1.31k | 15 | microsoft/git-largeImage-to-Text | UpdatedFeb 8, 2023 | [Link](https://huggingface.co/microsoft/git-large) |
 | 658 | 11 | prithivMLmods/Florence-2-VLM-Doc-VQAImage-to-Text | UpdatedOct 26, 2024 | [Link](https://huggingface.co/prithivMLmods/Florence-2-VLM-Doc-VQA) |
 | 68 | 10 | Flova/omr_transformerImage-to-Text | UpdatedOct 5, 2023 | [Link](https://huggingface.co/Flova/omr_transformer) |
 | 475 | 9 | DunnBC22/trocr-base-printed_license_plates_ocrImage-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-base-printed_license_plates_ocr) |
@@ -1778,6 +1783,7 @@ Updated on 2025-04-22
 | 15 | 8 | cl-nagoya/ruri-v3-310mSentence | Updatedabout 10 hours ago | [Link](https://huggingface.co/cl-nagoya/ruri-v3-310m) |
 | 21 | 7 | facebook/drama-1bSentence | Updated4 days ago | [Link](https://huggingface.co/facebook/drama-1b) |
 | 4.36k | 7 | Casual-Autopsy/snowflake-arctic-embed-l-v2 | UpdatedFeb 6 | [Link](https://huggingface.co/Casual-Autopsy/snowflake-arctic-embed-l-v2.0-gguf) |
+| 7.97k | 7 | manu/bge-m3-custom-frSentence | UpdatedApr 11, 2024 | [Link](https://huggingface.co/manu/bge-m3-custom-fr) |
 | 13 | 6 | dragonkue/snowflake-arctic-embed-l-v2 | Updatedabout 15 hours ago | [Link](https://huggingface.co/dragonkue/snowflake-arctic-embed-l-v2.0-ko) |
 | 3.15k | 6 | infly/inf-retriever-v1-1 | Updated23 days ago | [Link](https://huggingface.co/infly/inf-retriever-v1-1.5b) |
 | 891 | 5 | DiTy/bi-encoder-russian-msmarcoSentence | UpdatedAug 2, 2024 | [Link](https://huggingface.co/DiTy/bi-encoder-russian-msmarco) |
@@ -2191,6 +2197,7 @@ Updated on 2025-04-22
 | 894k | 486 | deepseek-ai/DeepSeek-R1-Distill-Qwen-7BText | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B) |
 |  | 356 | Qwen/QwQ-32BText | Updatedabout 8 hours ago | [Link](https://huggingface.co/Qwen/QwQ-32B) |
 | 6.51k | 262 | NousResearch/DeepHermes-3-Llama-3-8B-PreviewText | Updated6 days ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview) |
+| 427 | 204 | microsoft/MAI-DS-R1Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/microsoft/MAI-DS-R1) |
 | 11.7k | 196 | smirki/UIGEN-T1-Qwen-7bText | Updated5 days ago | [Link](https://huggingface.co/smirki/UIGEN-T1-Qwen-7b) |
 | 77 | 159 | manycore-research/SpatialLM-Llama-1BText | Updated4 days ago | [Link](https://huggingface.co/manycore-research/SpatialLM-Llama-1B) |
 | 2.25k | 153 | open-thoughts/OpenThinker-32BText | Updated11 days ago | [Link](https://huggingface.co/open-thoughts/OpenThinker-32B) |
@@ -2287,6 +2294,7 @@ Updated on 2025-04-22
 | 256 | 18 | Trendyol/Trendyol-LLM-7B-chat-v4 | Updated3 days ago | [Link](https://huggingface.co/Trendyol/Trendyol-LLM-7B-chat-v4.1.0) |
 | 1.11k | 18 | bartowski/Zyphra_ZR1-1 | Updated1 day ago | [Link](https://huggingface.co/bartowski/Zyphra_ZR1-1.5B-GGUF) |
 | 60 | 17 | open-thoughts/OpenThinker2-32BText | Updated1 day ago | [Link](https://huggingface.co/open-thoughts/OpenThinker2-32B) |
+| 274 | 17 | microsoft/MAI-DS-R1-FP8Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/microsoft/MAI-DS-R1-FP8) |
 | 938 | 16 | ubergarm/DeepSeek-V3-0324-GGUFText | Updated3 days ago | [Link](https://huggingface.co/ubergarm/DeepSeek-V3-0324-GGUF) |
 | 2.09k | 16 | google/gemma-3-1b-it-qat-q4_0-ggufText | Updated3 days ago | [Link](https://huggingface.co/google/gemma-3-1b-it-qat-q4_0-gguf) |
 | 578k | 6.11k | meta-llama/Meta-Llama-3-8BText | UpdatedSep 27, 2024 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) |
@@ -2605,6 +2613,7 @@ Updated on 2025-04-22
 | 1.16k | 785 | metavoiceio/metavoice-1B-v0 | UpdatedApr 3, 2024 | [Link](https://huggingface.co/metavoiceio/metavoice-1B-v0.1) |
 | 155k | 733 | microsoft/speecht5_ttsText-to-Speech | UpdatedNov 8, 2023 | [Link](https://huggingface.co/microsoft/speecht5_tts) |
 | 11.8k | 480 | fishaudio/fish-speech-1 | UpdatedDec 3, 2024 | [Link](https://huggingface.co/fishaudio/fish-speech-1.5) |
+| 5.67k | 478 | nari-labs/Dia-1 | Updatedabout 9 hours ago | [Link](https://huggingface.co/nari-labs/Dia-1.6B) |
 | 8.56k | 455 | HKUSTAudio/Llasa-3BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-3B) |
 | 199 | 451 | CAMB-AI/MARS5-TTSText-to-Speech | UpdatedJul 5, 2024 | [Link](https://huggingface.co/CAMB-AI/MARS5-TTS) |
 | 5.64k | 352 | parler-tts/parler_tts_mini_v0 | UpdatedApr 30, 2024 | [Link](https://huggingface.co/parler-tts/parler_tts_mini_v0.1) |
@@ -2626,6 +2635,7 @@ Updated on 2025-04-22
 | 73.1k | 45 | onnx-community/Kokoro-82M-v1 | Updated17 days ago | [Link](https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX) |
 | 5.2k | 39 | speechbrain/tts-hifigan-ljspeechText-to-Speech | UpdatedFeb 25, 2024 | [Link](https://huggingface.co/speechbrain/tts-hifigan-ljspeech) |
 | 2.04k | 37 | kakao-enterprise/vits-ljsText-to-Speech | UpdatedSep 7, 2023 | [Link](https://huggingface.co/kakao-enterprise/vits-ljs) |
+| 25 | 31 | amphion/VevoText-to-Speech | Updated10 days ago | [Link](https://huggingface.co/amphion/Vevo) |
 | 3.72k | 29 | parler-tts/parler-tts-mini-multilingual-v1 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-mini-multilingual-v1.1) |
 | 1.2k | 27 | saheedniyi/YarnGPTText-to-Speech | UpdatedJan 29 | [Link](https://huggingface.co/saheedniyi/YarnGPT) |
 | 152 | 23 | OmarSamir/EGTTS-V0 | Updated27 days ago | [Link](https://huggingface.co/OmarSamir/EGTTS-V0.1) |

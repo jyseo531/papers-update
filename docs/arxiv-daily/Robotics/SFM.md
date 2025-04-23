@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-04-21**|**VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models**|Weiye Xu et.al.|[2504.15279v1](http://arxiv.org/abs/2504.15279v1)|**2025-04-21**|null|
 |**2025-04-21**|**Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs**|Chun-Hsiao Yeh et.al.|[2504.15280v1](http://arxiv.org/abs/2504.15280v1)|**2025-04-21**|null|
-|**2025-04-21**|**DRAWER: Digital Reconstruction and Articulation With Environment Realism**|Hongchi Xia et.al.|[2504.15278v1](http://arxiv.org/abs/2504.15278v1)|**2025-04-21**|null|
+|**2025-04-21**|**DRAWER: Digital Reconstruction and Articulation With Environment Realism**|Hongchi Xia et.al.|[2504.15278v2](http://arxiv.org/abs/2504.15278v2)|**2025-04-22**|null|
 |**2025-04-21**|**Superheavy dark matter from the natural inflation in light of the highest-energy astroparticle events**|Kohta Murase et.al.|[2504.15272v1](http://arxiv.org/abs/2504.15272v1)|**2025-04-21**|null|
 |**2025-04-21**|**An LMM for Efficient Video Understanding via Reinforced Compression of Video Cubes**|Ji Qi et.al.|[2504.15270v1](http://arxiv.org/abs/2504.15270v1)|**2025-04-21**|null|
 |**2025-04-21**|**Diffusion Bridge Models for 3D Medical Image Translation**|Shaorong Zhang et.al.|[2504.15267v1](http://arxiv.org/abs/2504.15267v1)|**2025-04-21**|null|
@@ -19,7 +19,7 @@
 |**2025-04-21**|**Population Models for Star Formation Timescales in Early Galaxies: The First Step Towards Solving Outshining in Star Formation History Inference**|Bingjie Wang et.al.|[2504.15255v1](http://arxiv.org/abs/2504.15255v1)|**2025-04-21**|null|
 |**2025-04-21**|**CRUST-Bench: A Comprehensive Benchmark for C-to-safe-Rust Transpilation**|Anirudh Khatry et.al.|[2504.15254v1](http://arxiv.org/abs/2504.15254v1)|**2025-04-21**|[link](https://github.com/anirudhkhatry/crust-bench)|
 |**2025-04-21**|**Tracer dynamics in an interacting active bath: fluctuations and energy partition**|Ritwick Sarkar et.al.|[2504.15250v1](http://arxiv.org/abs/2504.15250v1)|**2025-04-21**|null|
-|**2025-04-21**|**Searching for Compact Obscured Nuclei in Compton Thick AGN**|Makoto A. Johnstone et.al.|[2504.15248v1](http://arxiv.org/abs/2504.15248v1)|**2025-04-21**|null|
+|**2025-04-21**|**Searching for Compact Obscured Nuclei in Compton Thick AGN**|Makoto A. Johnstone et.al.|[2504.15248v2](http://arxiv.org/abs/2504.15248v2)|**2025-04-22**|null|
 |**2025-04-21**|**Probing the octupole deformation of $^{238}$U in high-energy nuclear collisions**|Chunjian Zhang et.al.|[2504.15245v1](http://arxiv.org/abs/2504.15245v1)|**2025-04-21**|null|
 |**2025-04-21**|**Coronal Gas in Magellanic-Analog Dwarfs: Insights from the \textsc{HESTIA} Simulations**|Robin Chisholm et.al.|[2504.15237v1](http://arxiv.org/abs/2504.15237v1)|**2025-04-21**|null|
 |**2025-04-21**|**Rydberg Atoms in a Ladder Geometry: Quench Dynamics and Floquet Engineering**|Mainak Pal et.al.|[2504.15230v1](http://arxiv.org/abs/2504.15230v1)|**2025-04-21**|null|

@@ -19,11 +19,11 @@
 |**2025-04-21**|**The phase diagram of CeRh$_{2}$As$_{2}$ for out-of-plane magnetic field**|P. Khanenko et.al.|[2504.15112v1](http://arxiv.org/abs/2504.15112v1)|**2025-04-21**|null|
 |**2025-04-21**|**The orientation dynamics of a massive ellipsoid in simple shear flow**|Giridar Vishwanathan et.al.|[2504.15074v1](http://arxiv.org/abs/2504.15074v1)|**2025-04-21**|null|
 |**2025-04-21**|**Automated discovery and optimization of autonomous quantum error correction codes for a general open quantum system**|Sahel Ashhab et.al.|[2504.15070v1](http://arxiv.org/abs/2504.15070v1)|**2025-04-21**|null|
-|**2025-04-21**|**One Dimensional Asymptotic Plateau Problem in $n$-Dimensional Asymptotically Conical Manifolds**|Jiayin Liu et.al.|[2504.15058v1](http://arxiv.org/abs/2504.15058v1)|**2025-04-21**|null|
+|**2025-04-21**|**One Dimensional Asymptotic Plateau Problem in $n$-Dimensional Asymptotically Conical Manifolds**|Jiayin Liu et.al.|[2504.15058v2](http://arxiv.org/abs/2504.15058v2)|**2025-04-22**|null|
 |**2025-04-21**|**Structure-guided Diffusion Transformer for Low-Light Image Enhancement**|Xiangchen Yin et.al.|[2504.15054v1](http://arxiv.org/abs/2504.15054v1)|**2025-04-21**|null|
 |**2025-04-21**|**Potential Vibrational Modes Tied to Diffuse Interstellar Bands**|Daniel Majaess et.al.|[2504.15050v1](http://arxiv.org/abs/2504.15050v1)|**2025-04-21**|null|
 |**2025-04-21**|**Period-luminosity and period-luminosity-metallicity relation for $δ$ Scuti Stars**|Yan-qi Liu et.al.|[2504.15045v1](http://arxiv.org/abs/2504.15045v1)|**2025-04-21**|null|
-|**2025-04-21**|**Direct Search Algorithm for Clock Skew Compensation Immune to Floating-Point Precision Loss**|Kyeong Soo Kim et.al.|[2504.15039v1](http://arxiv.org/abs/2504.15039v1)|**2025-04-21**|null|
+|**2025-04-21**|**Direct Search Algorithm for Clock Skew Compensation Immune to Floating-Point Precision Loss**|Kyeong Soo Kim et.al.|[2504.15039v2](http://arxiv.org/abs/2504.15039v2)|**2025-04-22**|null|
 |**2025-04-21**|**Is Intelligence the Right Direction in New OS Scheduling for Multiple Resources in Cloud Environments?**|Xinglei Dou et.al.|[2504.15021v1](http://arxiv.org/abs/2504.15021v1)|**2025-04-21**|null|
 |**2025-04-21**|**The Schouten-Nijenhuis bracket in infinite dimensions**|Peter W. Michor et.al.|[2504.15010v1](http://arxiv.org/abs/2504.15010v1)|**2025-04-21**|null|
 |**2025-04-21**|**Dual Utilization of Perturbation for Stream Data Publication under Local Differential Privacy**|Rong Du et.al.|[2504.14993v1](http://arxiv.org/abs/2504.14993v1)|**2025-04-21**|null|
@@ -31,4 +31,4 @@
 |**2025-04-21**|**Identify hadron anomalous couplings at colliders**|Chao-Qiang Geng et.al.|[2504.14979v1](http://arxiv.org/abs/2504.14979v1)|**2025-04-21**|null|
 |**2025-04-21**|**PIV-FlowDiffuser:Transfer-learning-based denoising diffusion models for PIV**|Qianyu Zhu et.al.|[2504.14952v1](http://arxiv.org/abs/2504.14952v1)|**2025-04-21**|[link](https://github.com/zhu-qianyu/piv-flowdiffuser)|
 |**2025-04-21**|**Symmetry-Preserving Architecture for Multi-NUMA Environments (SPANE): A Deep Reinforcement Learning Approach for Dynamic VM Scheduling**|Tin Ping Chan et.al.|[2504.14946v1](http://arxiv.org/abs/2504.14946v1)|**2025-04-21**|null|
-|**2025-04-21**|**Learning to Reason under Off-Policy Guidance**|Jianhao Yan et.al.|[2504.14945v1](http://arxiv.org/abs/2504.14945v1)|**2025-04-21**|null|
+|**2025-04-21**|**Learning to Reason under Off-Policy Guidance**|Jianhao Yan et.al.|[2504.14945v2](http://arxiv.org/abs/2504.14945v2)|**2025-04-22**|null|

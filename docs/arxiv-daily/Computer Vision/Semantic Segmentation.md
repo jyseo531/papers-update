@@ -16,7 +16,7 @@
 |**2025-04-21**|**Empowering AI to Generate Better AI Code: Guided Generation of Deep Learning Projects with LLMs**|Chen Xie et.al.|[2504.15080v1](http://arxiv.org/abs/2504.15080v1)|**2025-04-21**|null|
 |**2025-04-21**|**Aria-MIDI: A Dataset of Piano MIDI Files for Symbolic Music Modeling**|Louis Bradshaw et.al.|[2504.15071v1](http://arxiv.org/abs/2504.15071v1)|**2025-04-21**|null|
 |**2025-04-21**|**OPO: Making Decision-Focused Data Acquisition Decisions**|Egon Peršak et.al.|[2504.15062v1](http://arxiv.org/abs/2504.15062v1)|**2025-04-21**|null|
-|**2025-04-21**|**Text-to-Decision Agent: Learning Generalist Policies from Natural Language Supervision**|Shilin Zhang et.al.|[2504.15046v1](http://arxiv.org/abs/2504.15046v1)|**2025-04-21**|null|
+|**2025-04-21**|**Text-to-Decision Agent: Learning Generalist Policies from Natural Language Supervision**|Shilin Zhang et.al.|[2504.15046v2](http://arxiv.org/abs/2504.15046v2)|**2025-04-22**|null|
 |**2025-04-21**|**Stay Hungry, Stay Foolish: On the Extended Reading Articles Generation with LLMs**|Yow-Fu Liou et.al.|[2504.15013v1](http://arxiv.org/abs/2504.15013v1)|**2025-04-21**|null|
 |**2025-04-21**|**Benchmarking Large Vision-Language Models on Fine-Grained Image Tasks: A Comprehensive Evaluation**|Hong-Tao Yu et.al.|[2504.14988v1](http://arxiv.org/abs/2504.14988v1)|**2025-04-21**|[link](https://github.com/seu-vipgroup/fg-bmk)|
 |**2025-04-21**|**Cyc3D: Fine-grained Controllable 3D Generation via Cycle Consistency Regularization**|Hongbin Xu et.al.|[2504.14975v1](http://arxiv.org/abs/2504.14975v1)|**2025-04-21**|null|

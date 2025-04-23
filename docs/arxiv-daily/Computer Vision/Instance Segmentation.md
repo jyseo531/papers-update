@@ -15,7 +15,7 @@
 |**2025-04-21**|**Aria-MIDI: A Dataset of Piano MIDI Files for Symbolic Music Modeling**|Louis Bradshaw et.al.|[2504.15071v1](http://arxiv.org/abs/2504.15071v1)|**2025-04-21**|null|
 |**2025-04-21**|**OPO: Making Decision-Focused Data Acquisition Decisions**|Egon Peršak et.al.|[2504.15062v1](http://arxiv.org/abs/2504.15062v1)|**2025-04-21**|null|
 |**2025-04-21**|**ScanEdit: Hierarchically-Guided Functional 3D Scan Editing**|Mohamed el amine Boudjoghra et.al.|[2504.15049v1](http://arxiv.org/abs/2504.15049v1)|**2025-04-21**|null|
-|**2025-04-21**|**Distribution-aware Forgetting Compensation for Exemplar-Free Lifelong Person Re-identification**|Shiben Liu et.al.|[2504.15041v1](http://arxiv.org/abs/2504.15041v1)|**2025-04-21**|[link](https://github.com/LiuShiBen/DAFC)|
+|**2025-04-21**|**Distribution-aware Forgetting Compensation for Exemplar-Free Lifelong Person Re-identification**|Shiben Liu et.al.|[2504.15041v2](http://arxiv.org/abs/2504.15041v2)|**2025-04-22**|[link](https://github.com/LiuShiBen/DAFC)|
 |**2025-04-21**|**Learning Compositional Transferability of Time Series for Source-Free Domain Adaptation**|Hankang Sun et.al.|[2504.14994v1](http://arxiv.org/abs/2504.14994v1)|**2025-04-21**|null|
 |**2025-04-21**|**Parallel Kac's Walk Generates PRU**|Chuhan Lu et.al.|[2504.14957v1](http://arxiv.org/abs/2504.14957v1)|**2025-04-21**|null|
 |**2025-04-21**|**TWIG: Two-Step Image Generation using Segmentation Masks in Diffusion Models**|Mazharul Islam Rakib et.al.|[2504.14933v1](http://arxiv.org/abs/2504.14933v1)|**2025-04-21**|null|

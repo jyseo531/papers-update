@@ -17,7 +17,7 @@
 |**2025-04-21**|**Energy-Efficient Irregular RIS-aided UAV-Assisted Optimization: A Deep Reinforcement Learning Approach**|Mahmoud M. Salim et.al.|[2504.15031v1](http://arxiv.org/abs/2504.15031v1)|**2025-04-21**|null|
 |**2025-04-21**|**Dynamic Legged Ball Manipulation on Rugged Terrains with Hierarchical Reinforcement Learning**|Dongjie Zhu et.al.|[2504.14989v1](http://arxiv.org/abs/2504.14989v1)|**2025-04-21**|null|
 |**2025-04-21**|**Symmetry-Preserving Architecture for Multi-NUMA Environments (SPANE): A Deep Reinforcement Learning Approach for Dynamic VM Scheduling**|Tin Ping Chan et.al.|[2504.14946v1](http://arxiv.org/abs/2504.14946v1)|**2025-04-21**|null|
-|**2025-04-21**|**Learning to Reason under Off-Policy Guidance**|Jianhao Yan et.al.|[2504.14945v1](http://arxiv.org/abs/2504.14945v1)|**2025-04-21**|null|
+|**2025-04-21**|**Learning to Reason under Off-Policy Guidance**|Jianhao Yan et.al.|[2504.14945v2](http://arxiv.org/abs/2504.14945v2)|**2025-04-22**|null|
 |**2025-04-21**|**Expected Free Energy-based Planning as Variational Inference**|Bert de Vries et.al.|[2504.14898v1](http://arxiv.org/abs/2504.14898v1)|**2025-04-21**|null|
 |**2025-04-21**|**Never too Cocky to Cooperate: An FIM and RL-based USV-AUV Collaborative System for Underwater Tasks in Extreme Sea Conditions**|Jingzehua Xu et.al.|[2504.14894v1](http://arxiv.org/abs/2504.14894v1)|**2025-04-21**|null|
 |**2025-04-21**|**OTC: Optimal Tool Calls via Reinforcement Learning**|Hongru Wang et.al.|[2504.14870v1](http://arxiv.org/abs/2504.14870v1)|**2025-04-21**|null|

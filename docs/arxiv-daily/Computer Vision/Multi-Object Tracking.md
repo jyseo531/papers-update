@@ -9,13 +9,13 @@
 |**2025-04-21**|**Interpretable Locomotion Prediction in Construction Using a Memory-Driven LLM Agent With Chain-of-Thought Reasoning**|Ehsan Ahmadi et.al.|[2504.15263v1](http://arxiv.org/abs/2504.15263v1)|**2025-04-21**|null|
 |**2025-04-21**|**Leveraging Language Models for Automated Patient Record Linkage**|Mohammad Beheshti et.al.|[2504.15261v1](http://arxiv.org/abs/2504.15261v1)|**2025-04-21**|null|
 |**2025-04-21**|**SuoiAI: Building a Dataset for Aquatic Invertebrates in Vietnam**|Tue Vo et.al.|[2504.15252v1](http://arxiv.org/abs/2504.15252v1)|**2025-04-21**|null|
-|**2025-04-21**|**Searching for Compact Obscured Nuclei in Compton Thick AGN**|Makoto A. Johnstone et.al.|[2504.15248v1](http://arxiv.org/abs/2504.15248v1)|**2025-04-21**|null|
+|**2025-04-21**|**Searching for Compact Obscured Nuclei in Compton Thick AGN**|Makoto A. Johnstone et.al.|[2504.15248v2](http://arxiv.org/abs/2504.15248v2)|**2025-04-22**|null|
 |**2025-04-21**|**Single-loop Algorithms for Stochastic Non-convex Optimization with Weakly-Convex Constraints**|Ming Yang et.al.|[2504.15243v1](http://arxiv.org/abs/2504.15243v1)|**2025-04-21**|null|
 |**2025-04-21**|**Integrating Symbolic Execution into the Fine-Tuning of Code-Generating LLMs**|Marina Sakharova et.al.|[2504.15210v1](http://arxiv.org/abs/2504.15210v1)|**2025-04-21**|null|
 |**2025-04-21**|**Compute-Optimal LLMs Provably Generalize Better With Scale**|Marc Finzi et.al.|[2504.15208v1](http://arxiv.org/abs/2504.15208v1)|**2025-04-21**|null|
 |**2025-04-21**|**Support Evaluation for the TREC 2024 RAG Track: Comparing Human versus LLM Judges**|Nandan Thakur et.al.|[2504.15205v1](http://arxiv.org/abs/2504.15205v1)|**2025-04-21**|null|
 |**2025-04-21**|**Fully Adaptive Stepsizes: Which System Benefit More -- Centralized or Decentralized?**|Diyako Ghaderyan et.al.|[2504.15196v1](http://arxiv.org/abs/2504.15196v1)|**2025-04-21**|null|
-|**2025-04-21**|**LACE: Controlled Image Prompting and Iterative Refinement with GenAI for Professional Visual Art Creators**|Yenkai Huang et.al.|[2504.15189v1](http://arxiv.org/abs/2504.15189v1)|**2025-04-21**|null|
+|**2025-04-21**|**LACE: Controlled Image Prompting and Iterative Refinement with GenAI for Professional Visual Art Creators**|Yenkai Huang et.al.|[2504.15189v2](http://arxiv.org/abs/2504.15189v2)|**2025-04-22**|null|
 |**2025-04-21**|**Tiger200K: Manually Curated High Visual Quality Video Dataset from UGC Platform**|Xianpan Zhou et.al.|[2504.15182v1](http://arxiv.org/abs/2504.15182v1)|**2025-04-21**|null|
 |**2025-04-21**|**Reaction-diffusion approximation of nonlocal interactions in high-dimensional Euclidean space**|Hiroshi Ishii et.al.|[2504.15180v1](http://arxiv.org/abs/2504.15180v1)|**2025-04-21**|null|
 |**2025-04-21**|**An $rp$-adaptive method for accurate resolution of shock-dominated viscous flow based on implicit shock tracking**|Huijing Dong et.al.|[2504.15177v1](http://arxiv.org/abs/2504.15177v1)|**2025-04-21**|null|

@@ -26,7 +26,7 @@
 |**2025-04-21**|**Insert Anything: Image Insertion via In-Context Editing in DiT**|Wensong Song et.al.|[2504.15009v1](http://arxiv.org/abs/2504.15009v1)|**2025-04-21**|null|
 |**2025-04-21**|**Distributed Cognition for AI-supported Remote Operations: Challenges and Research Directions**|Rune Møberg Jacobsen et.al.|[2504.14996v1](http://arxiv.org/abs/2504.14996v1)|**2025-04-21**|null|
 |**2025-04-21**|**Efficient Pretraining Length Scaling**|Bohong Wu et.al.|[2504.14992v1](http://arxiv.org/abs/2504.14992v1)|**2025-04-21**|null|
-|**2025-04-21**|**Ultra-diffuse galaxies in the EAGLE simulation**|Haonan Zheng et.al.|[2504.14973v1](http://arxiv.org/abs/2504.14973v1)|**2025-04-21**|null|
+|**2025-04-21**|**Ultra-diffuse galaxies in the EAGLE simulation**|Haonan Zheng et.al.|[2504.14973v2](http://arxiv.org/abs/2504.14973v2)|**2025-04-22**|null|
 |**2025-04-21**|**MoE Parallel Folding: Heterogeneous Parallelism Mappings for Efficient Large-Scale MoE Model Training with Megatron Core**|Dennis Liu et.al.|[2504.14960v1](http://arxiv.org/abs/2504.14960v1)|**2025-04-21**|null|
 |**2025-04-21**|**Fast Adversarial Training with Weak-to-Strong Spatial-Temporal Consistency in the Frequency Domain on Videos**|Songping Wang et.al.|[2504.14921v1](http://arxiv.org/abs/2504.14921v1)|**2025-04-21**|null|
 |**2025-04-21**|**Zero Day Malware Detection with Alpha: Fast DBI with Transformer Models for Real World Application**|Matthew Gaber et.al.|[2504.14886v1](http://arxiv.org/abs/2504.14886v1)|**2025-04-21**|null|

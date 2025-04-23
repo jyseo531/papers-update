@@ -12,7 +12,7 @@
 |**2025-04-21**|**Bringing Diversity from Diffusion Models to Semantic-Guided Face Asset Generation**|Yunxuan Cai et.al.|[2504.15259v1](http://arxiv.org/abs/2504.15259v1)|**2025-04-21**|null|
 |**2025-04-21**|**Impulsive pattern recognition of a myoelectric hand via Dynamic Time Warping**|Mustafa Can Kadilar et.al.|[2504.15256v1](http://arxiv.org/abs/2504.15256v1)|**2025-04-21**|null|
 |**2025-04-21**|**SuoiAI: Building a Dataset for Aquatic Invertebrates in Vietnam**|Tue Vo et.al.|[2504.15252v1](http://arxiv.org/abs/2504.15252v1)|**2025-04-21**|null|
-|**2025-04-21**|**Searching for Compact Obscured Nuclei in Compton Thick AGN**|Makoto A. Johnstone et.al.|[2504.15248v1](http://arxiv.org/abs/2504.15248v1)|**2025-04-21**|null|
+|**2025-04-21**|**Searching for Compact Obscured Nuclei in Compton Thick AGN**|Makoto A. Johnstone et.al.|[2504.15248v2](http://arxiv.org/abs/2504.15248v2)|**2025-04-22**|null|
 |**2025-04-21**|**Lance: Efficient Random Access in Columnar Storage through Adaptive Structural Encodings**|Weston Pace et.al.|[2504.15247v1](http://arxiv.org/abs/2504.15247v1)|**2025-04-21**|null|
 |**2025-04-21**|**Single-loop Algorithms for Stochastic Non-convex Optimization with Weakly-Convex Constraints**|Ming Yang et.al.|[2504.15243v1](http://arxiv.org/abs/2504.15243v1)|**2025-04-21**|null|
 |**2025-04-21**|**MR. Guard: Multilingual Reasoning Guardrail using Curriculum Learning**|Yahan Yang et.al.|[2504.15241v1](http://arxiv.org/abs/2504.15241v1)|**2025-04-21**|null|
