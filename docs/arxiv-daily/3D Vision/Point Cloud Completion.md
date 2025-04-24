@@ -28,7 +28,7 @@
 |**2025-04-22**|**Differentiable graph neural network simulator for forward and inverse modeling of multi-layered slope system with multiple material properties**|Yongjin Choi et.al.|[2504.15938v1](http://arxiv.org/abs/2504.15938v1)|**2025-04-22**|null|
 |**2025-04-22**|**Intermediate modular curves with infinitely many quartic points**|Maarten Derickx et.al.|[2504.15937v1](http://arxiv.org/abs/2504.15937v1)|**2025-04-22**|null|
 |**2025-04-22**|**New Recipe for Semi-supervised Community Detection: Clique Annealing under Crystallization Kinetics**|Ling Cheng et.al.|[2504.15927v1](http://arxiv.org/abs/2504.15927v1)|**2025-04-22**|null|
-|**2025-04-22**|**Ask2Loc: Learning to Locate Instructional Visual Answers by Asking Questions**|Chang Zong et.al.|[2504.15918v1](http://arxiv.org/abs/2504.15918v1)|**2025-04-22**|null|
+|**2025-04-22**|**Ask2Loc: Learning to Locate Instructional Visual Answers by Asking Questions**|Chang Zong et.al.|[2504.15918v2](http://arxiv.org/abs/2504.15918v2)|**2025-04-23**|null|
 |**2025-04-22**|**Towards Test Generation from Task Description for Mobile Testing with Multi-modal Reasoning**|Hieu Huynh et.al.|[2504.15917v1](http://arxiv.org/abs/2504.15917v1)|**2025-04-22**|null|
-|**2025-04-22**|**On meromorphic solutions of Fermat type delay-differential equations with two exponential terms**|Xuxu Xiang et.al.|[2504.15907v1](http://arxiv.org/abs/2504.15907v1)|**2025-04-22**|null|
+|**2025-04-22**|**On meromorphic solutions of Fermat type delay-differential equations with two exponential terms**|Xuxu Xiang et.al.|[2504.15907v2](http://arxiv.org/abs/2504.15907v2)|**2025-04-23**|null|
 |**2025-04-22**|**Dimensional Uplift in Conformal Field Theories**|Ferdinando Gliozzi et.al.|[2504.15904v1](http://arxiv.org/abs/2504.15904v1)|**2025-04-22**|null|

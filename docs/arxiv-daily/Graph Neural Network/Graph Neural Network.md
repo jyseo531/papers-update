@@ -12,11 +12,11 @@
 |**2025-04-22**|**LLMs meet Federated Learning for Scalable and Secure IoT Management**|Yazan Otoum et.al.|[2504.16032v1](http://arxiv.org/abs/2504.16032v1)|**2025-04-22**|null|
 |**2025-04-22**|**VR-based Intervention for Perspective Change: A Case to Investigate Virtual Materiality**|Ali Arya et.al.|[2504.16031v1](http://arxiv.org/abs/2504.16031v1)|**2025-04-22**|null|
 |**2025-04-22**|**Hessian Riemannian Flow For Multi-Population Wardrop Equilibrium**|Tigran Bakaryan et.al.|[2504.16028v1](http://arxiv.org/abs/2504.16028v1)|**2025-04-22**|null|
-|**2025-04-22**|**AlphaGrad: Non-Linear Gradient Normalization Optimizer**|Soham Sane et.al.|[2504.16020v1](http://arxiv.org/abs/2504.16020v1)|**2025-04-22**|null|
+|**2025-04-22**|**AlphaGrad: Non-Linear Gradient Normalization Optimizer**|Soham Sane et.al.|[2504.16020v2](http://arxiv.org/abs/2504.16020v2)|**2025-04-23**|null|
 |**2025-04-22**|**Engineered complete intersections: eliminating variables and understanding topology**|Alexander Esterov et.al.|[2504.16018v1](http://arxiv.org/abs/2504.16018v1)|**2025-04-22**|null|
 |**2025-04-22**|**From observed transitions to hidden paths in Markov networks**|Alexander M. Maier et.al.|[2504.16015v1](http://arxiv.org/abs/2504.16015v1)|**2025-04-22**|null|
 |**2025-04-22**|**The Formation of Production Networks: How Supply Chains Arise from Simple Learning with Minimal Information**|Tuong Manh Vu et.al.|[2504.16010v1](http://arxiv.org/abs/2504.16010v1)|**2025-04-22**|null|
-|**2025-04-22**|**CAPO: Cost-Aware Prompt Optimization**|Tom Zehle et.al.|[2504.16005v1](http://arxiv.org/abs/2504.16005v1)|**2025-04-22**|[link](https://github.com/finitearth/capo)|
+|**2025-04-22**|**CAPO: Cost-Aware Prompt Optimization**|Tom Zehle et.al.|[2504.16005v2](http://arxiv.org/abs/2504.16005v2)|**2025-04-23**|[link](https://github.com/finitearth/capo)|
 |**2025-04-22**|**MVQA: Mamba with Unified Sampling for Efficient Video Quality Assessment**|Yachun Mi et.al.|[2504.16003v1](http://arxiv.org/abs/2504.16003v1)|**2025-04-22**|null|
 |**2025-04-22**|**The Excess Zero Graph of a Coxeter Group**|Sarah Hart et.al.|[2504.15994v1](http://arxiv.org/abs/2504.15994v1)|**2025-04-22**|null|
 |**2025-04-22**|**Benchmarking machine learning models for predicting aerofoil performance**|Oliver Summerell et.al.|[2504.15993v1](http://arxiv.org/abs/2504.15993v1)|**2025-04-22**|null|

@@ -12,7 +12,7 @@
 |**2025-04-22**|**Boosting Generative Image Modeling via Joint Image-Feature Synthesis**|Theodoros Kouzelis et.al.|[2504.16064v1](http://arxiv.org/abs/2504.16064v1)|**2025-04-22**|null|
 |**2025-04-22**|**Honey, I Shrunk the Language Model: Impact of Knowledge Distillation Methods on Performance and Explainability**|Daniel Hendriks et.al.|[2504.16056v1](http://arxiv.org/abs/2504.16056v1)|**2025-04-22**|null|
 |**2025-04-22**|**$π_{0.5}$: a Vision-Language-Action Model with Open-World Generalization**|Physical Intelligence et.al.|[2504.16054v1](http://arxiv.org/abs/2504.16054v1)|**2025-04-22**|null|
-|**2025-04-22**|**Certified Mitigation of Worst-Case LLM Copyright Infringement**|Jingyu Zhang et.al.|[2504.16046v1](http://arxiv.org/abs/2504.16046v1)|**2025-04-22**|null|
+|**2025-04-22**|**Certified Mitigation of Worst-Case LLM Copyright Infringement**|Jingyu Zhang et.al.|[2504.16046v2](http://arxiv.org/abs/2504.16046v2)|**2025-04-23**|null|
 |**2025-04-22**|**VR-based Intervention for Perspective Change: A Case to Investigate Virtual Materiality**|Ali Arya et.al.|[2504.16031v1](http://arxiv.org/abs/2504.16031v1)|**2025-04-22**|null|
 |**2025-04-22**|**From observed transitions to hidden paths in Markov networks**|Alexander M. Maier et.al.|[2504.16015v1](http://arxiv.org/abs/2504.16015v1)|**2025-04-22**|null|
 |**2025-04-22**|**How Private is Your Attention? Bridging Privacy with In-Context Learning**|Soham Bonnerjee et.al.|[2504.16000v1](http://arxiv.org/abs/2504.16000v1)|**2025-04-22**|null|
@@ -26,7 +26,7 @@
 |**2025-04-22**|**Benchmarking the Reproducibility of Brain MRI Segmentation Across Scanners and Time**|Ekaterina Kondrateva et.al.|[2504.15931v1](http://arxiv.org/abs/2504.15931v1)|**2025-04-22**|null|
 |**2025-04-22**|**Bayesian sample size calculations for external validation studies of risk prediction models**|Mohsen Sadatsafavi et.al.|[2504.15923v1](http://arxiv.org/abs/2504.15923v1)|**2025-04-22**|null|
 |**2025-04-22**|**ScaleGNN: Towards Scalable Graph Neural Networks via Adaptive High-order Neighboring Feature Fusion**|Xiang Li et.al.|[2504.15920v1](http://arxiv.org/abs/2504.15920v1)|**2025-04-22**|null|
-|**2025-04-22**|**Ask2Loc: Learning to Locate Instructional Visual Answers by Asking Questions**|Chang Zong et.al.|[2504.15918v1](http://arxiv.org/abs/2504.15918v1)|**2025-04-22**|null|
+|**2025-04-22**|**Ask2Loc: Learning to Locate Instructional Visual Answers by Asking Questions**|Chang Zong et.al.|[2504.15918v2](http://arxiv.org/abs/2504.15918v2)|**2025-04-23**|null|
 |**2025-04-22**|**GraphEdge: Dynamic Graph Partition and Task Scheduling for GNNs Computing in Edge Network**|Wenjing Xiao et.al.|[2504.15905v1](http://arxiv.org/abs/2504.15905v1)|**2025-04-22**|null|
 |**2025-04-22**|**Leveraging differentiable programming in the inverse problem of neutron stars**|Thibeau Wouters et.al.|[2504.15893v1](http://arxiv.org/abs/2504.15893v1)|**2025-04-22**|null|
 |**2025-04-22**|**Real-fluid behavior in rapid compression machines: Does it matter?**|Mingrui Wang et.al.|[2504.15887v1](http://arxiv.org/abs/2504.15887v1)|**2025-04-22**|null|

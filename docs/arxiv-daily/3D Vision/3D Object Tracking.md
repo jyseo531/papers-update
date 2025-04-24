@@ -20,14 +20,14 @@
 |**2025-04-22**|**Wilson lines with endpoints in 3d CFT**|Nabil Iqbal et.al.|[2504.16017v1](http://arxiv.org/abs/2504.16017v1)|**2025-04-22**|null|
 |**2025-04-22**|**Efficient Temporal Consistency in Diffusion-Based Video Editing with Adaptor Modules: A Theoretical Framework**|Xinyuan Song et.al.|[2504.16016v1](http://arxiv.org/abs/2504.16016v1)|**2025-04-22**|null|
 |**2025-04-22**|**Methods for Recognizing Nested Terms**|Igor Rozhkov et.al.|[2504.16007v1](http://arxiv.org/abs/2504.16007v1)|**2025-04-22**|null|
-|**2025-04-22**|**CAPO: Cost-Aware Prompt Optimization**|Tom Zehle et.al.|[2504.16005v1](http://arxiv.org/abs/2504.16005v1)|**2025-04-22**|[link](https://github.com/finitearth/capo)|
+|**2025-04-22**|**CAPO: Cost-Aware Prompt Optimization**|Tom Zehle et.al.|[2504.16005v2](http://arxiv.org/abs/2504.16005v2)|**2025-04-23**|[link](https://github.com/finitearth/capo)|
 |**2025-04-22**|**Approximation of Invariant Solutions to the Nonlinear Filtration Equation by Modified Pade Approximants**|Sergii Skurativskyi et.al.|[2504.16001v1](http://arxiv.org/abs/2504.16001v1)|**2025-04-22**|null|
 |**2025-04-22**|**Small-scale dynamic phenomena associated with interacting fan-spine topologies: quiet-Sun Ellerman bombs, UV brightenings, and chromospheric inverted-Y-shaped jets**|Aditi Bhatnagar et.al.|[2504.15996v1](http://arxiv.org/abs/2504.15996v1)|**2025-04-22**|null|
 |**2025-04-22**|**Neuroadaptive Haptics: Comparing Reinforcement Learning from Explicit Ratings and Neural Signals for Adaptive XR Systems**|Lukas Gehrke et.al.|[2504.15984v1](http://arxiv.org/abs/2504.15984v1)|**2025-04-22**|null|
 |**2025-04-22**|**The effects of transport processes on the bulk composition of the first generation of planetesimals interior to the water iceline**|Mark Oosterloo et.al.|[2504.15982v1](http://arxiv.org/abs/2504.15982v1)|**2025-04-22**|null|
 |**2025-04-22**|**Efficient Discovery of Motif Transition Process for Large-Scale Temporal Graphs**|Zhiyuan Zheng et.al.|[2504.15979v1](http://arxiv.org/abs/2504.15979v1)|**2025-04-22**|null|
 |**2025-04-22**|**Bug Destiny Prediction in Large Open-Source Software Repositories through Sentiment Analysis and BERT Topic Modeling**|Sophie C. Pope et.al.|[2504.15972v1](http://arxiv.org/abs/2504.15972v1)|**2025-04-22**|null|
-|**2025-04-22**|**From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs**|Yaxiong Wu et.al.|[2504.15965v1](http://arxiv.org/abs/2504.15965v1)|**2025-04-22**|null|
+|**2025-04-22**|**From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs**|Yaxiong Wu et.al.|[2504.15965v2](http://arxiv.org/abs/2504.15965v2)|**2025-04-23**|null|
 |**2025-04-22**|**The Value Problem for Multiple-Environment MDPs with Parity Objective**|Krishnendu Chatterjee et.al.|[2504.15960v1](http://arxiv.org/abs/2504.15960v1)|**2025-04-22**|null|
 |**2025-04-22**|**Monocular inspection of spacecraft under illumination constraints and avoidance regions**|Tochukwu Elijah Ogri et.al.|[2504.15954v1](http://arxiv.org/abs/2504.15954v1)|**2025-04-22**|null|
 |**2025-04-22**|**Infrared and X-ray emission of a supernova remnant in a clumpy medium**|S. Yu. Dedikov et.al.|[2504.15940v1](http://arxiv.org/abs/2504.15940v1)|**2025-04-22**|null|

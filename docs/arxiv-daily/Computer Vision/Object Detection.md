@@ -13,10 +13,10 @@
 |**2025-04-22**|**VR-based Intervention for Perspective Change: A Case to Investigate Virtual Materiality**|Ali Arya et.al.|[2504.16031v1](http://arxiv.org/abs/2504.16031v1)|**2025-04-22**|null|
 |**2025-04-22**|**Engineered complete intersections: eliminating variables and understanding topology**|Alexander Esterov et.al.|[2504.16018v1](http://arxiv.org/abs/2504.16018v1)|**2025-04-22**|null|
 |**2025-04-22**|**Efficient Temporal Consistency in Diffusion-Based Video Editing with Adaptor Modules: A Theoretical Framework**|Xinyuan Song et.al.|[2504.16016v1](http://arxiv.org/abs/2504.16016v1)|**2025-04-22**|null|
-|**2025-04-22**|**CAPO: Cost-Aware Prompt Optimization**|Tom Zehle et.al.|[2504.16005v1](http://arxiv.org/abs/2504.16005v1)|**2025-04-22**|[link](https://github.com/finitearth/capo)|
+|**2025-04-22**|**CAPO: Cost-Aware Prompt Optimization**|Tom Zehle et.al.|[2504.16005v2](http://arxiv.org/abs/2504.16005v2)|**2025-04-23**|[link](https://github.com/finitearth/capo)|
 |**2025-04-22**|**Neuroadaptive Haptics: Comparing Reinforcement Learning from Explicit Ratings and Neural Signals for Adaptive XR Systems**|Lukas Gehrke et.al.|[2504.15984v1](http://arxiv.org/abs/2504.15984v1)|**2025-04-22**|null|
 |**2025-04-22**|**Bug Destiny Prediction in Large Open-Source Software Repositories through Sentiment Analysis and BERT Topic Modeling**|Sophie C. Pope et.al.|[2504.15972v1](http://arxiv.org/abs/2504.15972v1)|**2025-04-22**|null|
-|**2025-04-22**|**From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs**|Yaxiong Wu et.al.|[2504.15965v1](http://arxiv.org/abs/2504.15965v1)|**2025-04-22**|null|
+|**2025-04-22**|**From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs**|Yaxiong Wu et.al.|[2504.15965v2](http://arxiv.org/abs/2504.15965v2)|**2025-04-23**|null|
 |**2025-04-22**|**The Value Problem for Multiple-Environment MDPs with Parity Objective**|Krishnendu Chatterjee et.al.|[2504.15960v1](http://arxiv.org/abs/2504.15960v1)|**2025-04-22**|null|
 |**2025-04-22**|**Monocular inspection of spacecraft under illumination constraints and avoidance regions**|Tochukwu Elijah Ogri et.al.|[2504.15954v1](http://arxiv.org/abs/2504.15954v1)|**2025-04-22**|null|
 |**2025-04-22**|**Detector of microwave photon pairs based on a Josephson photomultiplier**|E. V. Stolyarov et.al.|[2504.15950v1](http://arxiv.org/abs/2504.15950v1)|**2025-04-22**|null|
@@ -30,5 +30,5 @@
 |**2025-04-22**|**Identifying eclipsing binary stars with TESS data based on a new hybrid deep learning model**|Ying Shan et.al.|[2504.15875v1](http://arxiv.org/abs/2504.15875v1)|**2025-04-22**|null|
 |**2025-04-22**|**Positive-tone Nanolithography of Antimony Trisulfide with Femtosecond Laser Wet-etching**|Abhrodeep Dey et.al.|[2504.15858v1](http://arxiv.org/abs/2504.15858v1)|**2025-04-22**|null|
 |**2025-04-22**|**Eccentric or circular? A reanalysis of binary black hole gravitational wave events for orbital eccentricity signatures**|Maria de Lluc Planas et.al.|[2504.15833v1](http://arxiv.org/abs/2504.15833v1)|**2025-04-22**|null|
-|**2025-04-22**|**KOMPASS: the new cold neutron triple-axis-spectrometer specialized for polarization analysis**|D. Gorkova et.al.|[2504.15811v1](http://arxiv.org/abs/2504.15811v1)|**2025-04-22**|null|
+|**2025-04-22**|**KOMPASS: the new cold neutron triple-axis-spectrometer specialized for polarization analysis**|D. Gorkov et.al.|[2504.15811v2](http://arxiv.org/abs/2504.15811v2)|**2025-04-23**|null|
 |**2025-04-22**|**Locating and Mitigating Gradient Conflicts in Point Cloud Domain Adaptation via Saliency Map Skewness**|Jiaqi Tang et.al.|[2504.15796v1](http://arxiv.org/abs/2504.15796v1)|**2025-04-22**|null|

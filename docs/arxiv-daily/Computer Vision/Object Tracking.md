@@ -13,12 +13,12 @@
 |**2025-04-22**|**Engineered complete intersections: eliminating variables and understanding topology**|Alexander Esterov et.al.|[2504.16018v1](http://arxiv.org/abs/2504.16018v1)|**2025-04-22**|null|
 |**2025-04-22**|**Efficient Temporal Consistency in Diffusion-Based Video Editing with Adaptor Modules: A Theoretical Framework**|Xinyuan Song et.al.|[2504.16016v1](http://arxiv.org/abs/2504.16016v1)|**2025-04-22**|null|
 |**2025-04-22**|**Methods for Recognizing Nested Terms**|Igor Rozhkov et.al.|[2504.16007v1](http://arxiv.org/abs/2504.16007v1)|**2025-04-22**|null|
-|**2025-04-22**|**CAPO: Cost-Aware Prompt Optimization**|Tom Zehle et.al.|[2504.16005v1](http://arxiv.org/abs/2504.16005v1)|**2025-04-22**|[link](https://github.com/finitearth/capo)|
+|**2025-04-22**|**CAPO: Cost-Aware Prompt Optimization**|Tom Zehle et.al.|[2504.16005v2](http://arxiv.org/abs/2504.16005v2)|**2025-04-23**|[link](https://github.com/finitearth/capo)|
 |**2025-04-22**|**Neuroadaptive Haptics: Comparing Reinforcement Learning from Explicit Ratings and Neural Signals for Adaptive XR Systems**|Lukas Gehrke et.al.|[2504.15984v1](http://arxiv.org/abs/2504.15984v1)|**2025-04-22**|null|
 |**2025-04-22**|**The effects of transport processes on the bulk composition of the first generation of planetesimals interior to the water iceline**|Mark Oosterloo et.al.|[2504.15982v1](http://arxiv.org/abs/2504.15982v1)|**2025-04-22**|null|
 |**2025-04-22**|**Efficient Discovery of Motif Transition Process for Large-Scale Temporal Graphs**|Zhiyuan Zheng et.al.|[2504.15979v1](http://arxiv.org/abs/2504.15979v1)|**2025-04-22**|null|
 |**2025-04-22**|**Bug Destiny Prediction in Large Open-Source Software Repositories through Sentiment Analysis and BERT Topic Modeling**|Sophie C. Pope et.al.|[2504.15972v1](http://arxiv.org/abs/2504.15972v1)|**2025-04-22**|null|
-|**2025-04-22**|**From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs**|Yaxiong Wu et.al.|[2504.15965v1](http://arxiv.org/abs/2504.15965v1)|**2025-04-22**|null|
+|**2025-04-22**|**From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs**|Yaxiong Wu et.al.|[2504.15965v2](http://arxiv.org/abs/2504.15965v2)|**2025-04-23**|null|
 |**2025-04-22**|**The Value Problem for Multiple-Environment MDPs with Parity Objective**|Krishnendu Chatterjee et.al.|[2504.15960v1](http://arxiv.org/abs/2504.15960v1)|**2025-04-22**|null|
 |**2025-04-22**|**Monocular inspection of spacecraft under illumination constraints and avoidance regions**|Tochukwu Elijah Ogri et.al.|[2504.15954v1](http://arxiv.org/abs/2504.15954v1)|**2025-04-22**|null|
 |**2025-04-22**|**An effectful object calculus**|Francesco Dagnino et.al.|[2504.15936v1](http://arxiv.org/abs/2504.15936v1)|**2025-04-22**|null|
@@ -28,7 +28,7 @@
 |**2025-04-22**|**MS-Occ: Multi-Stage LiDAR-Camera Fusion for 3D Semantic Occupancy Prediction**|Zhiqiang Wei et.al.|[2504.15888v1](http://arxiv.org/abs/2504.15888v1)|**2025-04-22**|null|
 |**2025-04-22**|**Beyond Attention: Investigating the Threshold Where Objective Robot Exclusion Becomes Subjective**|Clarissa Sabrina Arlinghaus et.al.|[2504.15886v1](http://arxiv.org/abs/2504.15886v1)|**2025-04-22**|null|
 |**2025-04-22**|**Identifying eclipsing binary stars with TESS data based on a new hybrid deep learning model**|Ying Shan et.al.|[2504.15875v1](http://arxiv.org/abs/2504.15875v1)|**2025-04-22**|null|
-|**2025-04-22**|**Fast Higher-Order Interpolation and Restriction in ExaHyPE Avoiding Non-physical Reflections**|Timothy Stokes et.al.|[2504.15814v1](http://arxiv.org/abs/2504.15814v1)|**2025-04-22**|null|
+|**2025-04-22**|**Fast Higher-Order Interpolation and Restriction in ExaHyPE Avoiding Non-physical Reflections**|Timothy Stokes et.al.|[2504.15814v2](http://arxiv.org/abs/2504.15814v2)|**2025-04-23**|null|
 |**2025-04-22**|**Locating and Mitigating Gradient Conflicts in Point Cloud Domain Adaptation via Saliency Map Skewness**|Jiaqi Tang et.al.|[2504.15796v1](http://arxiv.org/abs/2504.15796v1)|**2025-04-22**|null|
 |**2025-04-22**|**SAGA: Semantic-Aware Gray color Augmentation for Visible-to-Thermal Domain Adaptation across Multi-View Drone and Ground-Based Vision Systems**|Manjunath D et.al.|[2504.15728v1](http://arxiv.org/abs/2504.15728v1)|**2025-04-22**|null|
 |**2025-04-22**|**On some classes of non-commutative dimonoids**|Volodymyr Gavrylkiv et.al.|[2504.15727v1](http://arxiv.org/abs/2504.15727v1)|**2025-04-22**|null|

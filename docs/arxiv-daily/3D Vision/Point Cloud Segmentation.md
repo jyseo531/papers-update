@@ -8,7 +8,7 @@
 |**2025-04-22**|**Manin's conjecture for the chordal cubic fourfold**|Ulrich Derenthal et.al.|[2504.16051v1](http://arxiv.org/abs/2504.16051v1)|**2025-04-22**|null|
 |**2025-04-22**|**PRIME: Fast Primal-Dual Feedback Optimization for Markets with Application to Optimal Power Flow**|Nicholas Julian Behr et.al.|[2504.16048v1](http://arxiv.org/abs/2504.16048v1)|**2025-04-22**|null|
 |**2025-04-22**|**Evaluating Vision Language Models (VLMs) for Radiology: A Comprehensive Analysis**|Frank Li et.al.|[2504.16047v1](http://arxiv.org/abs/2504.16047v1)|**2025-04-22**|null|
-|**2025-04-22**|**Certified Mitigation of Worst-Case LLM Copyright Infringement**|Jingyu Zhang et.al.|[2504.16046v1](http://arxiv.org/abs/2504.16046v1)|**2025-04-22**|null|
+|**2025-04-22**|**Certified Mitigation of Worst-Case LLM Copyright Infringement**|Jingyu Zhang et.al.|[2504.16046v2](http://arxiv.org/abs/2504.16046v2)|**2025-04-23**|null|
 |**2025-04-22**|**The Global Phase Space of the Three-Vortex Interaction System**|Atul Anurag et.al.|[2504.16038v1](http://arxiv.org/abs/2504.16038v1)|**2025-04-22**|null|
 |**2025-04-22**|**LLMs meet Federated Learning for Scalable and Secure IoT Management**|Yazan Otoum et.al.|[2504.16032v1](http://arxiv.org/abs/2504.16032v1)|**2025-04-22**|null|
 |**2025-04-22**|**Hessian Riemannian Flow For Multi-Population Wardrop Equilibrium**|Tigran Bakaryan et.al.|[2504.16028v1](http://arxiv.org/abs/2504.16028v1)|**2025-04-22**|null|
@@ -31,4 +31,4 @@
 |**2025-04-22**|**Intermediate modular curves with infinitely many quartic points**|Maarten Derickx et.al.|[2504.15937v1](http://arxiv.org/abs/2504.15937v1)|**2025-04-22**|null|
 |**2025-04-22**|**Benchmarking the Reproducibility of Brain MRI Segmentation Across Scanners and Time**|Ekaterina Kondrateva et.al.|[2504.15931v1](http://arxiv.org/abs/2504.15931v1)|**2025-04-22**|null|
 |**2025-04-22**|**ViSMaP: Unsupervised Hour-long Video Summarisation by Meta-Prompting**|Jian Hu et.al.|[2504.15921v1](http://arxiv.org/abs/2504.15921v1)|**2025-04-22**|null|
-|**2025-04-22**|**Ask2Loc: Learning to Locate Instructional Visual Answers by Asking Questions**|Chang Zong et.al.|[2504.15918v1](http://arxiv.org/abs/2504.15918v1)|**2025-04-22**|null|
+|**2025-04-22**|**Ask2Loc: Learning to Locate Instructional Visual Answers by Asking Questions**|Chang Zong et.al.|[2504.15918v2](http://arxiv.org/abs/2504.15918v2)|**2025-04-23**|null|

@@ -11,7 +11,7 @@
 |**2025-04-22**|**Visual Place Cell Encoding: A Computational Model for Spatial Representation and Cognitive Mapping**|Chance J. Hamilton et.al.|[2504.15953v1](http://arxiv.org/abs/2504.15953v1)|**2025-04-22**|null|
 |**2025-04-22**|**RaSCL: Radar to Satellite Crossview Localization**|Blerim Abdullai et.al.|[2504.15899v1](http://arxiv.org/abs/2504.15899v1)|**2025-04-22**|null|
 |**2025-04-22**|**Beyond Attention: Investigating the Threshold Where Objective Robot Exclusion Becomes Subjective**|Clarissa Sabrina Arlinghaus et.al.|[2504.15886v1](http://arxiv.org/abs/2504.15886v1)|**2025-04-22**|null|
-|**2025-04-22**|**Bidirectional Task-Motion Planning Based on Hierarchical Reinforcement Learning for Strategic Confrontation**|Qizhen Wu Lei Chen et.al.|[2504.15876v1](http://arxiv.org/abs/2504.15876v1)|**2025-04-22**|null|
+|**2025-04-22**|**Bidirectional Task-Motion Planning Based on Hierarchical Reinforcement Learning for Strategic Confrontation**|Qizhen Wu et.al.|[2504.15876v2](http://arxiv.org/abs/2504.15876v2)|**2025-04-23**|null|
 |**2025-04-22**|**An Extended Horizon Tactical Decision-Making for Automated Driving Based on Monte Carlo Tree Search**|Karim Essalmi et.al.|[2504.15869v1](http://arxiv.org/abs/2504.15869v1)|**2025-04-22**|null|
 |**2025-04-22**|**DERD-Net: Learning Depth from Event-based Ray Densities**|Diego de Oliveira Hitzges et.al.|[2504.15863v1](http://arxiv.org/abs/2504.15863v1)|**2025-04-22**|null|
 |**2025-04-22**|**Embedded Safe Reactive Navigation for Multirotors Systems using Control Barrier Functions**|Nazar Misyats et.al.|[2504.15850v1](http://arxiv.org/abs/2504.15850v1)|**2025-04-22**|null|

@@ -18,7 +18,7 @@
 |**2025-04-22**|**Reconstruction of three-dimensional fluid stress field via photoelasticity using physics-informed convolutional encoder-decoder**|Daichi Igarashi et.al.|[2504.15952v1](http://arxiv.org/abs/2504.15952v1)|**2025-04-22**|null|
 |**2025-04-22**|**Understanding the Role of Covariates in Numerical Reconstructions of Real-World Vehicle-to-Pedestrian Collisions**|Natalia Lindgren et.al.|[2504.15951v1](http://arxiv.org/abs/2504.15951v1)|**2025-04-22**|null|
 |**2025-04-22**|**Infrared and X-ray emission of a supernova remnant in a clumpy medium**|S. Yu. Dedikov et.al.|[2504.15940v1](http://arxiv.org/abs/2504.15940v1)|**2025-04-22**|null|
-|**2025-04-22**|**Ask2Loc: Learning to Locate Instructional Visual Answers by Asking Questions**|Chang Zong et.al.|[2504.15918v1](http://arxiv.org/abs/2504.15918v1)|**2025-04-22**|null|
+|**2025-04-22**|**Ask2Loc: Learning to Locate Instructional Visual Answers by Asking Questions**|Chang Zong et.al.|[2504.15918v2](http://arxiv.org/abs/2504.15918v2)|**2025-04-23**|null|
 |**2025-04-22**|**MS-Occ: Multi-Stage LiDAR-Camera Fusion for 3D Semantic Occupancy Prediction**|Zhiqiang Wei et.al.|[2504.15888v1](http://arxiv.org/abs/2504.15888v1)|**2025-04-22**|null|
 |**2025-04-22**|**3D Printing of Invariant Manifolds in Dynamical Systems**|Patrick R. Bishop et.al.|[2504.15884v1](http://arxiv.org/abs/2504.15884v1)|**2025-04-22**|null|
 |**2025-04-22**|**Measurement of the time-integrated $CP$ asymmetry in $D^0 \to K^0_{\rm S} K^0_{\rm S}$ decays using opposite-side flavor tagging at Belle and Belle II**|Belle et.al.|[2504.15881v1](http://arxiv.org/abs/2504.15881v1)|**2025-04-22**|null|
