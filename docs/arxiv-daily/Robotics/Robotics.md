@@ -2,33 +2,33 @@
 ### Robotics
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-23**|**Latent Diffusion Planning for Imitation Learning**|Amber Xie et.al.|[2504.16925v1](http://arxiv.org/abs/2504.16925v1)|**2025-04-23**|null|
+|**2025-04-23**|**Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving**|Jacob Levy et.al.|[2504.16923v1](http://arxiv.org/abs/2504.16923v1)|**2025-04-23**|null|
+|**2025-04-23**|**Zero-shot Sim-to-Real Transfer for Reinforcement Learning-based Visual Servoing of Soft Continuum Arms**|Hsin-Jung Yang et.al.|[2504.16916v1](http://arxiv.org/abs/2504.16916v1)|**2025-04-23**|null|
+|**2025-04-23**|**MorphoNavi: Aerial-Ground Robot Navigation with Object Oriented Mapping in Digital Twin**|Sausar Karaf et.al.|[2504.16914v1](http://arxiv.org/abs/2504.16914v1)|**2025-04-23**|null|
+|**2025-04-23**|**Physically Consistent Humanoid Loco-Manipulation using Latent Diffusion Models**|Ilyass Taouil et.al.|[2504.16843v1](http://arxiv.org/abs/2504.16843v1)|**2025-04-23**|null|
+|**2025-04-23**|**Graph2Nav: 3D Object-Relation Graph Generation to Robot Navigation**|Tixiao Shan et.al.|[2504.16782v1](http://arxiv.org/abs/2504.16782v1)|**2025-04-23**|null|
+|**2025-04-23**|**MOSAIC: A Skill-Centric Algorithmic Framework for Long-Horizon Manipulation Planning**|Itamar Mishani et.al.|[2504.16738v1](http://arxiv.org/abs/2504.16738v1)|**2025-04-23**|null|
+|**2025-04-23**|**DYNUS: Uncertainty-aware Trajectory Planner in Dynamic Unknown Environments**|Kota Kondo et.al.|[2504.16734v1](http://arxiv.org/abs/2504.16734v1)|**2025-04-23**|null|
+|**2025-04-23**|**PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation**|Wenxuan Li et.al.|[2504.16693v1](http://arxiv.org/abs/2504.16693v1)|**2025-04-23**|null|
+|**2025-04-23**|**Offline Robotic World Model: Learning Robotic Policies without a Physics Simulator**|Chenhao Li et.al.|[2504.16680v1](http://arxiv.org/abs/2504.16680v1)|**2025-04-23**|null|
+|**2025-04-23**|**PP-Tac: Paper Picking Using Tactile Feedback in Dexterous Robotic Hands**|Pei Lin et.al.|[2504.16649v1](http://arxiv.org/abs/2504.16649v1)|**2025-04-23**|null|
+|**2025-04-23**|**HERB: Human-augmented Efficient Reinforcement learning for Bin-packing**|Gojko Perovic et.al.|[2504.16595v1](http://arxiv.org/abs/2504.16595v1)|**2025-04-23**|null|
+|**2025-04-23**|**Self-organized fractal architectures driven by motility-dependent chemotactic feedback**|Subhashree Subhrasmita Khuntia et.al.|[2504.16539v1](http://arxiv.org/abs/2504.16539v1)|**2025-04-23**|null|
+|**2025-04-23**|**The Dodecacopter: a Versatile Multirotor System of Dodecahedron-Shaped Modules**|Kévin Garanger et.al.|[2504.16475v1](http://arxiv.org/abs/2504.16475v1)|**2025-04-23**|null|
+|**2025-04-23**|**ManipDreamer: Boosting Robotic Manipulation World Model with Action Tree and Visual Guidance**|Ying Li et.al.|[2504.16464v1](http://arxiv.org/abs/2504.16464v1)|**2025-04-23**|null|
+|**2025-04-23**|**Insect-Computer Hybrid Speaker: Speaker using Chirp of the Cicada Controlled by Electrical Muscle Stimulation**|Yuga Tsukuda et.al.|[2504.16459v1](http://arxiv.org/abs/2504.16459v1)|**2025-04-23**|null|
+|**2025-04-23**|**Long Exposure Localization in Darkness Using Consumer Cameras**|Michael Milford et.al.|[2504.16406v1](http://arxiv.org/abs/2504.16406v1)|**2025-04-23**|null|
+|**2025-04-23**|**Fast and Modular Whole-Body Lagrangian Dynamics of Legged Robots with Changing Morphology**|Sahand Farghdani et.al.|[2504.16383v1](http://arxiv.org/abs/2504.16383v1)|**2025-04-23**|null|
+|**2025-04-23**|**SILM: A Subjective Intent Based Low-Latency Framework for Multiple Traffic Participants Joint Trajectory Prediction**|Qu Weiming et.al.|[2504.16377v1](http://arxiv.org/abs/2504.16377v1)|**2025-04-23**|null|
+|**2025-04-23**|**DPGP: A Hybrid 2D-3D Dual Path Potential Ghost Probe Zone Prediction Framework for Safe Autonomous Driving**|Weiming Qu et.al.|[2504.16374v1](http://arxiv.org/abs/2504.16374v1)|**2025-04-23**|null|
+|**2025-04-23**|**Fast Online Adaptive Neural MPC via Meta-Learning**|Yu Mei et.al.|[2504.16369v1](http://arxiv.org/abs/2504.16369v1)|**2025-04-23**|null|
+|**2025-04-23**|**Road Similarity-Based BEV-Satellite Image Matching for UGV Localization**|Zhenping Sun et.al.|[2504.16346v1](http://arxiv.org/abs/2504.16346v1)|**2025-04-23**|null|
+|**2025-04-23**|**Eigendecomposition Parameterization of Penalty Matrices for Enhanced Control Design: Aerospace Applications**|Nicholas P. Nurre et.al.|[2504.16328v1](http://arxiv.org/abs/2504.16328v1)|**2025-04-23**|null|
+|**2025-04-22**|**PCF-Grasp: Converting Point Completion to Geometry Feature to Enhance 6-DoF Grasp**|Yaofeng Cheng et.al.|[2504.16320v1](http://arxiv.org/abs/2504.16320v1)|**2025-04-22**|null|
+|**2025-04-22**|**Vision Controlled Orthotic Hand Exoskeleton**|Connor Blais et.al.|[2504.16319v1](http://arxiv.org/abs/2504.16319v1)|**2025-04-22**|null|
+|**2025-04-22**|**Mass-Adaptive Admittance Control for Robotic Manipulators**|Hossein Gholampour et.al.|[2504.16224v1](http://arxiv.org/abs/2504.16224v1)|**2025-04-22**|null|
+|**2025-04-22**|**Measuring Uncertainty in Shape Completion to Improve Grasp Quality**|Nuno Ferreira Duarte et.al.|[2504.16183v1](http://arxiv.org/abs/2504.16183v1)|**2025-04-22**|null|
 |**2025-04-22**|**ForesightNav: Learning Scene Imagination for Efficient Exploration**|Hardik Shah et.al.|[2504.16062v1](http://arxiv.org/abs/2504.16062v1)|**2025-04-22**|null|
 |**2025-04-22**|**SAR4SLPs: An Asynchronous Survey of Speech-Language Pathologists' Perspectives on Socially Assistive Robots**|Denielle Oliva et.al.|[2504.16055v1](http://arxiv.org/abs/2504.16055v1)|**2025-04-22**|null|
 |**2025-04-22**|**$π_{0.5}$: a Vision-Language-Action Model with Open-World Generalization**|Physical Intelligence et.al.|[2504.16054v1](http://arxiv.org/abs/2504.16054v1)|**2025-04-22**|null|
-|**2025-04-22**|**Adaptive Fault-tolerant Control of Underwater Vehicles with Thruster Failures**|Haolin Liu et.al.|[2504.16037v1](http://arxiv.org/abs/2504.16037v1)|**2025-04-22**|null|
-|**2025-04-22**|**ad-trait: A Fast and Flexible Automatic Differentiation Library in Rust**|Chen Liang et.al.|[2504.15976v1](http://arxiv.org/abs/2504.15976v1)|**2025-04-22**|null|
-|**2025-04-22**|**Blimp-based Crime Scene Analysis**|Martin Cooney et.al.|[2504.15962v1](http://arxiv.org/abs/2504.15962v1)|**2025-04-22**|null|
-|**2025-04-22**|**Visual Place Cell Encoding: A Computational Model for Spatial Representation and Cognitive Mapping**|Chance J. Hamilton et.al.|[2504.15953v1](http://arxiv.org/abs/2504.15953v1)|**2025-04-22**|null|
-|**2025-04-22**|**RaSCL: Radar to Satellite Crossview Localization**|Blerim Abdullai et.al.|[2504.15899v1](http://arxiv.org/abs/2504.15899v1)|**2025-04-22**|null|
-|**2025-04-22**|**Beyond Attention: Investigating the Threshold Where Objective Robot Exclusion Becomes Subjective**|Clarissa Sabrina Arlinghaus et.al.|[2504.15886v1](http://arxiv.org/abs/2504.15886v1)|**2025-04-22**|null|
-|**2025-04-22**|**Bidirectional Task-Motion Planning Based on Hierarchical Reinforcement Learning for Strategic Confrontation**|Qizhen Wu et.al.|[2504.15876v2](http://arxiv.org/abs/2504.15876v2)|**2025-04-23**|null|
-|**2025-04-22**|**An Extended Horizon Tactical Decision-Making for Automated Driving Based on Monte Carlo Tree Search**|Karim Essalmi et.al.|[2504.15869v1](http://arxiv.org/abs/2504.15869v1)|**2025-04-22**|null|
-|**2025-04-22**|**DERD-Net: Learning Depth from Event-based Ray Densities**|Diego de Oliveira Hitzges et.al.|[2504.15863v1](http://arxiv.org/abs/2504.15863v1)|**2025-04-22**|null|
-|**2025-04-22**|**Embedded Safe Reactive Navigation for Multirotors Systems using Control Barrier Functions**|Nazar Misyats et.al.|[2504.15850v1](http://arxiv.org/abs/2504.15850v1)|**2025-04-22**|null|
-|**2025-04-22**|**Pose Optimization for Autonomous Driving Datasets using Neural Rendering Models**|Quentin Herau et.al.|[2504.15776v1](http://arxiv.org/abs/2504.15776v1)|**2025-04-22**|null|
-|**2025-04-22**|**Dynamic Intent Queries for Motion Transformer-based Trajectory Prediction**|Tobias Demmler et.al.|[2504.15766v1](http://arxiv.org/abs/2504.15766v1)|**2025-04-22**|null|
-|**2025-04-22**|**CaRoSaC: A Reinforcement Learning-Based Kinematic Control of Cable-Driven Parallel Robots by Addressing Cable Sag through Simulation**|Rohit Dhakate et.al.|[2504.15740v1](http://arxiv.org/abs/2504.15740v1)|**2025-04-22**|null|
-|**2025-04-22**|**Autonomous Control of Redundant Hydraulic Manipulator Using Reinforcement Learning with Action Feedback**|Rohit Dhakate et.al.|[2504.15714v1](http://arxiv.org/abs/2504.15714v1)|**2025-04-22**|null|
-|**2025-04-22**|**Symbolic Runtime Verification and Adaptive Decision-Making for Robot-Assisted Dressing**|Yasmin Rafiq et.al.|[2504.15666v1](http://arxiv.org/abs/2504.15666v1)|**2025-04-22**|null|
-|**2025-04-22**|**A Vision-Enabled Prosthetic Hand for Children with Upper Limb Disabilities**|Md Abdul Baset Sarker et.al.|[2504.15654v1](http://arxiv.org/abs/2504.15654v1)|**2025-04-22**|null|
-|**2025-04-22**|**Multimodal Perception for Goal-oriented Navigation: A Survey**|I-Tak Ieong et.al.|[2504.15643v1](http://arxiv.org/abs/2504.15643v1)|**2025-04-22**|null|
-|**2025-04-22**|**An ACO-MPC Framework for Energy-Efficient and Collision-Free Path Planning in Autonomous Maritime Navigation**|Yaoze Liu et.al.|[2504.15611v1](http://arxiv.org/abs/2504.15611v1)|**2025-04-22**|null|
-|**2025-04-22**|**Research on Navigation Methods Based on LLMs**|Anlong Zhang et.al.|[2504.15600v1](http://arxiv.org/abs/2504.15600v1)|**2025-04-22**|null|
-|**2025-04-22**|**Grasping Deformable Objects via Reinforcement Learning with Cross-Modal Attention to Visuo-Tactile Inputs**|Yonghyun Lee et.al.|[2504.15595v1](http://arxiv.org/abs/2504.15595v1)|**2025-04-22**|null|
-|**2025-04-22**|**Minimization of Curve Length through Energy Minimization using Finite Difference and Numerical Integration in Real Coordinate Space**|Akira Kitaoka et.al.|[2504.15566v1](http://arxiv.org/abs/2504.15566v1)|**2025-04-22**|null|
-|**2025-04-22**|**SPECI: Skill Prompts based Hierarchical Continual Imitation Learning for Robot Manipulation**|Jingkai Xu et.al.|[2504.15561v1](http://arxiv.org/abs/2504.15561v1)|**2025-04-22**|null|
-|**2025-04-22**|**RiskNet: Interaction-Aware Risk Forecasting for Autonomous Driving in Long-Tail Scenarios**|Qichao Liu et.al.|[2504.15541v1](http://arxiv.org/abs/2504.15541v1)|**2025-04-22**|null|
-|**2025-04-22**|**VibeCheck: Using Active Acoustic Tactile Sensing for Contact-Rich Manipulation**|Kaidi Zhang et.al.|[2504.15535v1](http://arxiv.org/abs/2504.15535v1)|**2025-04-22**|null|
-|**2025-04-22**|**Few-Shot Vision-Language Action-Incremental Policy Learning**|Mingchen Song et.al.|[2504.15517v1](http://arxiv.org/abs/2504.15517v1)|**2025-04-22**|null|
-|**2025-04-21**|**LAPP: Large Language Model Feedback for Preference-Driven Reinforcement Learning**|Pingcheng Jian et.al.|[2504.15472v1](http://arxiv.org/abs/2504.15472v1)|**2025-04-21**|null|
-|**2025-04-21**|**Improving Human-AI Coordination through Adversarial Training and Generative Models**|Paresh Chaudhary et.al.|[2504.15457v1](http://arxiv.org/abs/2504.15457v1)|**2025-04-21**|null|
