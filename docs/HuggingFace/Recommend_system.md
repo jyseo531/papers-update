@@ -432,6 +432,7 @@ Updated on 2025-04-24
 | 23 | 1 | pardeepSF/layoutlm-vqaDocument | UpdatedOct 18, 2022 | [Link](https://huggingface.co/pardeepSF/layoutlm-vqa) |
 | 47 | 1 | YuukiAsuna/VieTable-donut-docvqa-demoDocument | UpdatedOct 31, 2024 | [Link](https://huggingface.co/YuukiAsuna/VieTable-donut-docvqa-demo) |
 | 170 | 1 | 2KKLabs/Kaleidoscope_large_v1Document | UpdatedFeb 24 | [Link](https://huggingface.co/2KKLabs/Kaleidoscope_large_v1) |
+| 46 | 1 | lakshya-rawat/document-qa-modelDocument | Updated9 minutes ago | [Link](https://huggingface.co/lakshya-rawat/document-qa-model) |
 | 14.4k |  | naver-clova-ix/donut-base-finetuned-docvqaDocument | UpdatedMar 9, 2024 | [Link](https://huggingface.co/naver-clova-ix/donut-base-finetuned-docvqa) |
 | 54.2k |  | impira/layoutlm-document-qaDocument | UpdatedMar 18, 2023 | [Link](https://huggingface.co/impira/layoutlm-document-qa) |
 | 7.73k |  | impira/layoutlm-invoicesDocument | UpdatedMar 25, 2023 | [Link](https://huggingface.co/impira/layoutlm-invoices) |
@@ -651,6 +652,7 @@ Updated on 2025-04-24
 | 18.7k | 10 | albert/albert-base-v1Fill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/albert/albert-base-v1) |
 | 27 | 10 | EuroBERT/EuroBERT-610mFill-Mask | Updatedabout 5 hours ago | [Link](https://huggingface.co/EuroBERT/EuroBERT-610m) |
 | 14k | 10 | Synthyra/ESMplusplus_smallFill-Mask | Updated3 days ago | [Link](https://huggingface.co/Synthyra/ESMplusplus_small) |
+| 1.45k | 10 | AI-Sweden-Models/roberta-large-1160kFill-Mask | UpdatedApr 20, 2024 | [Link](https://huggingface.co/AI-Sweden-Models/roberta-large-1160k) |
 | 5.68k | 8 | deepvk/RuModernBERT-smallFill-Mask | Updated6 days ago | [Link](https://huggingface.co/deepvk/RuModernBERT-small) |
 | 105 | 8 | metga97/Modern-EgyBert-BaseFill-Mask | Updated2 days ago | [Link](https://huggingface.co/metga97/Modern-EgyBert-Base) |
 | 432 | 7 | hfl/minirbt-h288Fill-Mask | UpdatedNov 15, 2022 | [Link](https://huggingface.co/hfl/minirbt-h288) |
