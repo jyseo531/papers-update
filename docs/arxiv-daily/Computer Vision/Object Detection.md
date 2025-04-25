@@ -23,7 +23,7 @@
 |**2025-04-23**|**Gaussian Splatting is an Effective Data Generator for 3D Object Detection**|Farhad G. Zanjani et.al.|[2504.16740v1](http://arxiv.org/abs/2504.16740v1)|**2025-04-23**|null|
 |**2025-04-23**|**Prompt-Tuning SAM: From Generalist to Specialist with only 2048 Parameters and 16 Training Images**|Tristan Piater et.al.|[2504.16739v1](http://arxiv.org/abs/2504.16739v1)|**2025-04-23**|null|
 |**2025-04-23**|**Identification of quasars variable over long time scales from infrared surveys. Ensemble variability and structure function properties**|E. A. Zaharieva et.al.|[2504.16733v1](http://arxiv.org/abs/2504.16733v1)|**2025-04-23**|null|
-|**2025-04-23**|**V$^2$R-Bench: Holistically Evaluating LVLM Robustness to Fundamental Visual Variations**|Zhiyuan Fan et.al.|[2504.16727v1](http://arxiv.org/abs/2504.16727v1)|**2025-04-23**|null|
+|**2025-04-23**|**V$^2$R-Bench: Holistically Evaluating LVLM Robustness to Fundamental Visual Variations**|Zhiyuan Fan et.al.|[2504.16727v2](http://arxiv.org/abs/2504.16727v2)|**2025-04-24**|null|
 |**2025-04-23**|**Higher-order photon rings of an ultracompact object and their interferometric pattern**|Yuan-Xing Gao et.al.|[2504.16719v1](http://arxiv.org/abs/2504.16719v1)|**2025-04-23**|null|
 |**2025-04-23**|**Modeling of Experimentally Observed Two-Dimensional Precursor Solitons in a Dusty Plasma by the forced Kadomtsev-Petviashvili Equation**|Ajaz Mir et.al.|[2504.16715v1](http://arxiv.org/abs/2504.16715v1)|**2025-04-23**|null|
 |**2025-04-23**|**Representation Learning via Non-Contrastive Mutual Information**|Zhaohan Daniel Guo et.al.|[2504.16667v1](http://arxiv.org/abs/2504.16667v1)|**2025-04-23**|null|
@@ -31,4 +31,4 @@
 |**2025-04-23**|**MHD Simulations Preliminarily Predict The Habitability and Radio Emission of TRAPPIST-1e**|BoRui Wang et.al.|[2504.16662v1](http://arxiv.org/abs/2504.16662v1)|**2025-04-23**|null|
 |**2025-04-23**|**International Comparisons: Multilateral Indices and Nonparametric Welfare Bounds**|Hubert Wu et.al.|[2504.16654v1](http://arxiv.org/abs/2504.16654v1)|**2025-04-23**|null|
 |**2025-04-23**|**PP-Tac: Paper Picking Using Tactile Feedback in Dexterous Robotic Hands**|Pei Lin et.al.|[2504.16649v1](http://arxiv.org/abs/2504.16649v1)|**2025-04-23**|null|
-|**2025-04-23**|**Pareto-optimality of pulses for robust population transfer in a ladder-type qutrit**|John J. McCord et.al.|[2504.16646v1](http://arxiv.org/abs/2504.16646v1)|**2025-04-23**|null|
+|**2025-04-23**|**Pareto-optimality of pulses for robust population transfer in a ladder-type qutrit**|John J. McCord et.al.|[2504.16646v2](http://arxiv.org/abs/2504.16646v2)|**2025-04-24**|null|

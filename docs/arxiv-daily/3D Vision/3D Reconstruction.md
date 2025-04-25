@@ -14,8 +14,8 @@
 |**2025-04-23**|**Online model learning with data-assimilated reservoir computers**|Andrea Nóvoa et.al.|[2504.16767v1](http://arxiv.org/abs/2504.16767v1)|**2025-04-23**|null|
 |**2025-04-23**|**The Interplay of Single Ion Anisotropy and Magnetic 3d-4f Interactions in V$^{\rm III}_2$Ln$^{\rm III}_2$ Butterfly Complexes**|J. Arneth et.al.|[2504.16758v1](http://arxiv.org/abs/2504.16758v1)|**2025-04-23**|null|
 |**2025-04-23**|**Gaussian Splatting is an Effective Data Generator for 3D Object Detection**|Farhad G. Zanjani et.al.|[2504.16740v1](http://arxiv.org/abs/2504.16740v1)|**2025-04-23**|null|
-|**2025-04-23**|**DYNUS: Uncertainty-aware Trajectory Planner in Dynamic Unknown Environments**|Kota Kondo et.al.|[2504.16734v1](http://arxiv.org/abs/2504.16734v1)|**2025-04-23**|null|
-|**2025-04-23**|**QED corrections to meson masses**|Joshua Swaim et.al.|[2504.16702v1](http://arxiv.org/abs/2504.16702v1)|**2025-04-23**|null|
+|**2025-04-23**|**DYNUS: Uncertainty-aware Trajectory Planner in Dynamic Unknown Environments**|Kota Kondo et.al.|[2504.16734v2](http://arxiv.org/abs/2504.16734v2)|**2025-04-24**|null|
+|**2025-04-23**|**QED corrections to meson masses**|Joshua Swaim et.al.|[2504.16702v2](http://arxiv.org/abs/2504.16702v2)|**2025-04-24**|null|
 |**2025-04-23**|**PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation**|Wenxuan Li et.al.|[2504.16693v1](http://arxiv.org/abs/2504.16693v1)|**2025-04-23**|null|
 |**2025-04-23**|**Non-uniqueness of (Stochastic) Lagrangian Trajectories for Euler Equations**|Huaxiang Lü et.al.|[2504.16687v1](http://arxiv.org/abs/2504.16687v1)|**2025-04-23**|null|
 |**2025-04-23**|**On the origin of long-term modulation in the Sun's magnetic activity cycle**|Chitradeep Saha et.al.|[2504.16681v1](http://arxiv.org/abs/2504.16681v1)|**2025-04-23**|null|
@@ -27,7 +27,7 @@
 |**2025-04-23**|**HUG: Hierarchical Urban Gaussian Splatting with Block-Based Reconstruction**|Zhongtao Wang et.al.|[2504.16606v1](http://arxiv.org/abs/2504.16606v1)|**2025-04-23**|null|
 |**2025-04-23**|**3D-1D modelling of cranial plate heating induced by low or medium frequency magnetic fields**|Alessandro Arduino et.al.|[2504.16600v1](http://arxiv.org/abs/2504.16600v1)|**2025-04-23**|null|
 |**2025-04-23**|**HERB: Human-augmented Efficient Reinforcement learning for Bin-packing**|Gojko Perovic et.al.|[2504.16595v1](http://arxiv.org/abs/2504.16595v1)|**2025-04-23**|null|
-|**2025-04-23**|**More on genuine multi-entropy and holography**|Norihiro Iizuka et.al.|[2504.16589v1](http://arxiv.org/abs/2504.16589v1)|**2025-04-23**|null|
+|**2025-04-23**|**More on genuine multi-entropy and holography**|Norihiro Iizuka et.al.|[2504.16589v2](http://arxiv.org/abs/2504.16589v2)|**2025-04-24**|null|
 |**2025-04-23**|**Beyond Anonymization: Object Scrubbing for Privacy-Preserving 2D and 3D Vision Tasks**|Murat Bilgehan Ertan et.al.|[2504.16557v1](http://arxiv.org/abs/2504.16557v1)|**2025-04-23**|null|
 |**2025-04-23**|**ToF-Splatting: Dense SLAM using Sparse Time-of-Flight Depth and Multi-Frame Integration**|Andrea Conti et.al.|[2504.16545v1](http://arxiv.org/abs/2504.16545v1)|**2025-04-23**|null|
 |**2025-04-23**|**PRaDA: Projective Radial Distortion Averaging**|Daniil Sinitsyn et.al.|[2504.16499v1](http://arxiv.org/abs/2504.16499v1)|**2025-04-23**|null|

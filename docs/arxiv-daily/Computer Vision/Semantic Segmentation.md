@@ -29,6 +29,6 @@
 |**2025-04-23**|**T-VEC: A Telecom-Specific Vectorization Model with Enhanced Semantic Understanding via Deep Triplet Loss Fine-Tuning**|Vignesh Ethiraj et.al.|[2504.16460v1](http://arxiv.org/abs/2504.16460v1)|**2025-04-23**|null|
 |**2025-04-23**|**EMRModel: A Large Language Model for Extracting Medical Consultation Dialogues into Structured Medical Records**|Shuguang Zhao et.al.|[2504.16448v1](http://arxiv.org/abs/2504.16448v1)|**2025-04-23**|null|
 |**2025-04-23**|**SoCov: Semi-Orthogonal Parametric Pooling of Covariance Matrix for Speaker Recognition**|Rongjin Li et.al.|[2504.16441v1](http://arxiv.org/abs/2504.16441v1)|**2025-04-23**|null|
-|**2025-04-23**|**Can Large Language Models Help Multimodal Language Analysis? MMLA: A Comprehensive Benchmark**|Hanlei Zhang et.al.|[2504.16427v1](http://arxiv.org/abs/2504.16427v1)|**2025-04-23**|null|
+|**2025-04-23**|**Can Large Language Models Help Multimodal Language Analysis? MMLA: A Comprehensive Benchmark**|Hanlei Zhang et.al.|[2504.16427v2](http://arxiv.org/abs/2504.16427v2)|**2025-04-24**|null|
 |**2025-04-23**|**Out-of-the-Box Conditional Text Embeddings from Large Language Models**|Kosuke Yamada et.al.|[2504.16411v1](http://arxiv.org/abs/2504.16411v1)|**2025-04-23**|null|
 |**2025-04-23**|**SplitReason: Learning To Offload Reasoning**|Yash Akhauri et.al.|[2504.16379v1](http://arxiv.org/abs/2504.16379v1)|**2025-04-23**|null|

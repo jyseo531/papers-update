@@ -11,7 +11,7 @@
 |**2025-04-23**|**Graph2Nav: 3D Object-Relation Graph Generation to Robot Navigation**|Tixiao Shan et.al.|[2504.16782v1](http://arxiv.org/abs/2504.16782v1)|**2025-04-23**|null|
 |**2025-04-23**|**The Interplay of Single Ion Anisotropy and Magnetic 3d-4f Interactions in V$^{\rm III}_2$Ln$^{\rm III}_2$ Butterfly Complexes**|J. Arneth et.al.|[2504.16758v1](http://arxiv.org/abs/2504.16758v1)|**2025-04-23**|null|
 |**2025-04-23**|**Gaussian Splatting is an Effective Data Generator for 3D Object Detection**|Farhad G. Zanjani et.al.|[2504.16740v1](http://arxiv.org/abs/2504.16740v1)|**2025-04-23**|null|
-|**2025-04-23**|**DYNUS: Uncertainty-aware Trajectory Planner in Dynamic Unknown Environments**|Kota Kondo et.al.|[2504.16734v1](http://arxiv.org/abs/2504.16734v1)|**2025-04-23**|null|
+|**2025-04-23**|**DYNUS: Uncertainty-aware Trajectory Planner in Dynamic Unknown Environments**|Kota Kondo et.al.|[2504.16734v2](http://arxiv.org/abs/2504.16734v2)|**2025-04-24**|null|
 |**2025-04-23**|**PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation**|Wenxuan Li et.al.|[2504.16693v1](http://arxiv.org/abs/2504.16693v1)|**2025-04-23**|null|
 |**2025-04-23**|**Non-uniqueness of (Stochastic) Lagrangian Trajectories for Euler Equations**|Huaxiang Lü et.al.|[2504.16687v1](http://arxiv.org/abs/2504.16687v1)|**2025-04-23**|null|
 |**2025-04-23**|**Small Alfvén Number Limit for the Global-in-time Solutions of Incompressible MHD Equations with General Initial Data**|Yuan Cai et.al.|[2504.16650v1](http://arxiv.org/abs/2504.16650v1)|**2025-04-23**|null|

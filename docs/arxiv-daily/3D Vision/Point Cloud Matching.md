@@ -11,7 +11,7 @@
 |**2025-04-23**|**A first encounter with exceptional points in a quantum model**|C. A. Downing et.al.|[2504.16888v1](http://arxiv.org/abs/2504.16888v1)|**2025-04-23**|null|
 |**2025-04-23**|**Exploring zero-shot structure-based protein fitness prediction**|Arnav Sharma et.al.|[2504.16886v1](http://arxiv.org/abs/2504.16886v1)|**2025-04-23**|null|
 |**2025-04-23**|**New Primal-Dual Algorithm for Convex Problems**|Shuning Liu et.al.|[2504.16876v1](http://arxiv.org/abs/2504.16876v1)|**2025-04-23**|null|
-|**2025-04-23**|**Exploring How LLMs Capture and Represent Domain-Specific Knowledge**|Mirian Hipolito Garcia et.al.|[2504.16871v1](http://arxiv.org/abs/2504.16871v1)|**2025-04-23**|null|
+|**2025-04-23**|**Exploring How LLMs Capture and Represent Domain-Specific Knowledge**|Mirian Hipolito Garcia et.al.|[2504.16871v2](http://arxiv.org/abs/2504.16871v2)|**2025-04-24**|null|
 |**2025-04-23**|**High-Quality Cloud-Free Optical Image Synthesis Using Multi-Temporal SAR and Contaminated Optical Data**|Chenxi Duan et.al.|[2504.16870v1](http://arxiv.org/abs/2504.16870v1)|**2025-04-23**|null|
 |**2025-04-23**|**An Adaptive ML Framework for Power Converter Monitoring via Federated Transfer Learning**|Panagiotis Kakosimos et.al.|[2504.16866v1](http://arxiv.org/abs/2504.16866v1)|**2025-04-23**|null|
 |**2025-04-23**|**General method for solving nonlinear optical scattering problems using fix point iterations**|Per Kristen Jakobsen et.al.|[2504.16865v1](http://arxiv.org/abs/2504.16865v1)|**2025-04-23**|null|

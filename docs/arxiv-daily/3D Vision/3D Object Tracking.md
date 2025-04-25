@@ -29,6 +29,6 @@
 |**2025-04-23**|**Adversarial Knapsack for Sequential Competitive Resource Allocation**|Omkar Thakoor et.al.|[2504.16752v1](http://arxiv.org/abs/2504.16752v1)|**2025-04-23**|null|
 |**2025-04-23**|**Gaussian Splatting is an Effective Data Generator for 3D Object Detection**|Farhad G. Zanjani et.al.|[2504.16740v1](http://arxiv.org/abs/2504.16740v1)|**2025-04-23**|null|
 |**2025-04-23**|**Prompt-Tuning SAM: From Generalist to Specialist with only 2048 Parameters and 16 Training Images**|Tristan Piater et.al.|[2504.16739v1](http://arxiv.org/abs/2504.16739v1)|**2025-04-23**|null|
-|**2025-04-23**|**DYNUS: Uncertainty-aware Trajectory Planner in Dynamic Unknown Environments**|Kota Kondo et.al.|[2504.16734v1](http://arxiv.org/abs/2504.16734v1)|**2025-04-23**|null|
+|**2025-04-23**|**DYNUS: Uncertainty-aware Trajectory Planner in Dynamic Unknown Environments**|Kota Kondo et.al.|[2504.16734v2](http://arxiv.org/abs/2504.16734v2)|**2025-04-24**|null|
 |**2025-04-23**|**Identification of quasars variable over long time scales from infrared surveys. Ensemble variability and structure function properties**|E. A. Zaharieva et.al.|[2504.16733v1](http://arxiv.org/abs/2504.16733v1)|**2025-04-23**|null|
-|**2025-04-23**|**V$^2$R-Bench: Holistically Evaluating LVLM Robustness to Fundamental Visual Variations**|Zhiyuan Fan et.al.|[2504.16727v1](http://arxiv.org/abs/2504.16727v1)|**2025-04-23**|null|
+|**2025-04-23**|**V$^2$R-Bench: Holistically Evaluating LVLM Robustness to Fundamental Visual Variations**|Zhiyuan Fan et.al.|[2504.16727v2](http://arxiv.org/abs/2504.16727v2)|**2025-04-24**|null|

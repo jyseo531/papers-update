@@ -31,4 +31,4 @@
 |**2025-04-23**|**Deep photonic reservoir computer for nonlinear equalization of 16-level quadrature amplitude modulation signals**|Rui-Qian Li et.al.|[2504.16769v1](http://arxiv.org/abs/2504.16769v1)|**2025-04-23**|null|
 |**2025-04-23**|**Noise-Tolerant Coreset-Based Class Incremental Continual Learning**|Edison Mucllari et.al.|[2504.16763v1](http://arxiv.org/abs/2504.16763v1)|**2025-04-23**|null|
 |**2025-04-23**|**Tri-FusionNet: Enhancing Image Description Generation with Transformer-based Fusion Network and Dual Attention Mechanism**|Lakshita Agarwal et.al.|[2504.16761v1](http://arxiv.org/abs/2504.16761v1)|**2025-04-23**|null|
-|**2025-04-23**|**Simple Graph Contrastive Learning via Fractional-order Neural Diffusion Networks**|Yanan Zhao et.al.|[2504.16748v1](http://arxiv.org/abs/2504.16748v1)|**2025-04-23**|null|
+|**2025-04-23**|**Simple Graph Contrastive Learning via Fractional-order Neural Diffusion Networks**|Yanan Zhao et.al.|[2504.16748v2](http://arxiv.org/abs/2504.16748v2)|**2025-04-24**|null|
