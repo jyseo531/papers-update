@@ -2,33 +2,33 @@
 ### 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-23**|**Zero-shot Sim-to-Real Transfer for Reinforcement Learning-based Visual Servoing of Soft Continuum Arms**|Hsin-Jung Yang et.al.|[2504.16916v1](http://arxiv.org/abs/2504.16916v1)|**2025-04-23**|null|
-|**2025-04-23**|**An Accelerated Camera 3DMA Framework for Efficient Urban GNSS Multipath Estimation**|Shiyao Lv et.al.|[2504.16906v1](http://arxiv.org/abs/2504.16906v1)|**2025-04-23**|null|
-|**2025-04-23**|**Exploring zero-shot structure-based protein fitness prediction**|Arnav Sharma et.al.|[2504.16886v1](http://arxiv.org/abs/2504.16886v1)|**2025-04-23**|null|
-|**2025-04-23**|**A LOFAR-style reconstruction of cosmic-ray air showers with SKA-Low**|A. Corstanje et.al.|[2504.16873v1](http://arxiv.org/abs/2504.16873v1)|**2025-04-23**|null|
-|**2025-04-23**|**A Low-Cost Photogrammetry System for 3D Plant Modeling and Phenotyping**|Joe Hrzich et.al.|[2504.16840v1](http://arxiv.org/abs/2504.16840v1)|**2025-04-23**|null|
-|**2025-04-23**|**Energy Variational Modeling and Numerical Simulation of Open Membranes in Stokes Flow**|Han Zhou et.al.|[2504.16823v1](http://arxiv.org/abs/2504.16823v1)|**2025-04-23**|null|
-|**2025-04-23**|**4D Multimodal Co-attention Fusion Network with Latent Contrastive Alignment for Alzheimer's Diagnosis**|Yuxiang Wei et.al.|[2504.16798v1](http://arxiv.org/abs/2504.16798v1)|**2025-04-23**|null|
-|**2025-04-23**|**The extended adjoint state and nonlinearity in correlation-based passive imaging**|Tram Thi Ngoc Nguyen et.al.|[2504.16797v1](http://arxiv.org/abs/2504.16797v1)|**2025-04-23**|null|
-|**2025-04-23**|**Graph2Nav: 3D Object-Relation Graph Generation to Robot Navigation**|Tixiao Shan et.al.|[2504.16782v1](http://arxiv.org/abs/2504.16782v1)|**2025-04-23**|null|
-|**2025-04-23**|**Online model learning with data-assimilated reservoir computers**|Andrea Nóvoa et.al.|[2504.16767v1](http://arxiv.org/abs/2504.16767v1)|**2025-04-23**|null|
-|**2025-04-23**|**The Interplay of Single Ion Anisotropy and Magnetic 3d-4f Interactions in V$^{\rm III}_2$Ln$^{\rm III}_2$ Butterfly Complexes**|J. Arneth et.al.|[2504.16758v1](http://arxiv.org/abs/2504.16758v1)|**2025-04-23**|null|
-|**2025-04-23**|**Gaussian Splatting is an Effective Data Generator for 3D Object Detection**|Farhad G. Zanjani et.al.|[2504.16740v1](http://arxiv.org/abs/2504.16740v1)|**2025-04-23**|null|
-|**2025-04-23**|**DYNUS: Uncertainty-aware Trajectory Planner in Dynamic Unknown Environments**|Kota Kondo et.al.|[2504.16734v2](http://arxiv.org/abs/2504.16734v2)|**2025-04-24**|null|
-|**2025-04-23**|**QED corrections to meson masses**|Joshua Swaim et.al.|[2504.16702v2](http://arxiv.org/abs/2504.16702v2)|**2025-04-24**|null|
-|**2025-04-23**|**PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation**|Wenxuan Li et.al.|[2504.16693v1](http://arxiv.org/abs/2504.16693v1)|**2025-04-23**|null|
-|**2025-04-23**|**Non-uniqueness of (Stochastic) Lagrangian Trajectories for Euler Equations**|Huaxiang Lü et.al.|[2504.16687v1](http://arxiv.org/abs/2504.16687v1)|**2025-04-23**|null|
-|**2025-04-23**|**On the origin of long-term modulation in the Sun's magnetic activity cycle**|Chitradeep Saha et.al.|[2504.16681v1](http://arxiv.org/abs/2504.16681v1)|**2025-04-23**|null|
-|**2025-04-23**|**A Novel Sparse Sum and Difference Co-Array With Low Redundancy and Enhanced DOF for Non-Circular Signals**|Si Wang et.al.|[2504.16675v1](http://arxiv.org/abs/2504.16675v1)|**2025-04-23**|null|
-|**2025-04-23**|**Small Alfvén Number Limit for the Global-in-time Solutions of Incompressible MHD Equations with General Initial Data**|Yuan Cai et.al.|[2504.16650v1](http://arxiv.org/abs/2504.16650v1)|**2025-04-23**|null|
-|**2025-04-23**|**UAV-Mounted IRS (UMI) in the Presence of Hovering Fluctuations: 3D Pattern Characterization and Performance Analysis**|Mohammad Javad Zakavi et.al.|[2504.16613v1](http://arxiv.org/abs/2504.16613v1)|**2025-04-23**|null|
-|**2025-04-23**|**Federated EndoViT: Pretraining Vision Transformers via Federated Learning on Endoscopic Image Collections**|Max Kirchner et.al.|[2504.16612v1](http://arxiv.org/abs/2504.16612v1)|**2025-04-23**|null|
-|**2025-04-23**|**A hybrid high-order method for the biharmonic problem**|Yizhou Liang et.al.|[2504.16608v1](http://arxiv.org/abs/2504.16608v1)|**2025-04-23**|null|
-|**2025-04-23**|**HUG: Hierarchical Urban Gaussian Splatting with Block-Based Reconstruction**|Zhongtao Wang et.al.|[2504.16606v1](http://arxiv.org/abs/2504.16606v1)|**2025-04-23**|null|
-|**2025-04-23**|**3D-1D modelling of cranial plate heating induced by low or medium frequency magnetic fields**|Alessandro Arduino et.al.|[2504.16600v1](http://arxiv.org/abs/2504.16600v1)|**2025-04-23**|null|
-|**2025-04-23**|**HERB: Human-augmented Efficient Reinforcement learning for Bin-packing**|Gojko Perovic et.al.|[2504.16595v1](http://arxiv.org/abs/2504.16595v1)|**2025-04-23**|null|
-|**2025-04-23**|**More on genuine multi-entropy and holography**|Norihiro Iizuka et.al.|[2504.16589v2](http://arxiv.org/abs/2504.16589v2)|**2025-04-24**|null|
-|**2025-04-23**|**Beyond Anonymization: Object Scrubbing for Privacy-Preserving 2D and 3D Vision Tasks**|Murat Bilgehan Ertan et.al.|[2504.16557v1](http://arxiv.org/abs/2504.16557v1)|**2025-04-23**|null|
-|**2025-04-23**|**ToF-Splatting: Dense SLAM using Sparse Time-of-Flight Depth and Multi-Frame Integration**|Andrea Conti et.al.|[2504.16545v1](http://arxiv.org/abs/2504.16545v1)|**2025-04-23**|null|
-|**2025-04-23**|**PRaDA: Projective Radial Distortion Averaging**|Daniil Sinitsyn et.al.|[2504.16499v1](http://arxiv.org/abs/2504.16499v1)|**2025-04-23**|null|
-|**2025-04-23**|**Cross Paradigm Representation and Alignment Transformer for Image Deraining**|Shun Zou et.al.|[2504.16455v1](http://arxiv.org/abs/2504.16455v1)|**2025-04-23**|null|
+|**2025-04-24**|**The Fourth Monocular Depth Estimation Challenge**|Anton Obukhov et.al.|[2504.17787v1](http://arxiv.org/abs/2504.17787v1)|**2025-04-24**|null|
+|**2025-04-24**|**First study of neutrino angle reconstruction using quasielastic-like interactions in MicroBooNE**|MicroBooNE collaboration et.al.|[2504.17758v1](http://arxiv.org/abs/2504.17758v1)|**2025-04-24**|null|
+|**2025-04-24**|**Nearby open clusters with tidal features: golden sample selection and 3D structure**|Ming Xu et.al.|[2504.17744v1](http://arxiv.org/abs/2504.17744v1)|**2025-04-24**|null|
+|**2025-04-24**|**Fully-Mixed Virtual Element Method for the Biot Problem**|Michele Botti et.al.|[2504.17729v1](http://arxiv.org/abs/2504.17729v1)|**2025-04-24**|null|
+|**2025-04-24**|**CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos**|Shucheng Gong et.al.|[2504.17728v1](http://arxiv.org/abs/2504.17728v1)|**2025-04-24**|null|
+|**2025-04-24**|**Operational experience and performance of the Silicon Vertex Detector after the first long shutdown of Belle II**|K. Ravindran et.al.|[2504.17715v1](http://arxiv.org/abs/2504.17715v1)|**2025-04-24**|null|
+|**2025-04-24**|**Generative Fields: Uncovering Hierarchical Feature Control for StyleGAN via Inverted Receptive Fields**|Zhuo He et.al.|[2504.17712v1](http://arxiv.org/abs/2504.17712v1)|**2025-04-24**|null|
+|**2025-04-24**|**PICO: Reconstructing 3D People In Contact with Objects**|Alpár Cseke et.al.|[2504.17695v1](http://arxiv.org/abs/2504.17695v1)|**2025-04-24**|null|
+|**2025-04-24**|**DiMeR: Disentangled Mesh Reconstruction Model**|Lutao Jiang et.al.|[2504.17670v1](http://arxiv.org/abs/2504.17670v1)|**2025-04-24**|null|
+|**2025-04-24**|**Insights from Analytical Theory of Eccentric Circumbinary Disks**|Marcela Grcic et.al.|[2504.17658v1](http://arxiv.org/abs/2504.17658v1)|**2025-04-24**|null|
+|**2025-04-24**|**polyGen: A Learning Framework for Atomic-level Polymer Structure Generation**|Ayush Jain et.al.|[2504.17656v1](http://arxiv.org/abs/2504.17656v1)|**2025-04-24**|null|
+|**2025-04-24**|**A Guide to Structureless Visual Localization**|Vojtech Panek et.al.|[2504.17636v1](http://arxiv.org/abs/2504.17636v1)|**2025-04-24**|null|
+|**2025-04-24**|**Likelihood-Free Variational Autoencoders**|Chen Xu et.al.|[2504.17622v1](http://arxiv.org/abs/2504.17622v1)|**2025-04-24**|null|
+|**2025-04-24**|**Bolt: Clothing Virtual Characters at Scale**|Jonathan Leaf et.al.|[2504.17614v1](http://arxiv.org/abs/2504.17614v1)|**2025-04-24**|null|
+|**2025-04-24**|**Model Choice Matters for Age Inference on the Red Giant Branch**|Leslie M. Morales et.al.|[2504.17600v1](http://arxiv.org/abs/2504.17600v1)|**2025-04-24**|null|
+|**2025-04-24**|**The NewEra model grid**|Peter H. Hauschildt et.al.|[2504.17597v1](http://arxiv.org/abs/2504.17597v1)|**2025-04-24**|null|
+|**2025-04-24**|**Occlusion-Aware Self-Supervised Monocular Depth Estimation for Weak-Texture Endoscopic Images**|Zebo Huang et.al.|[2504.17582v1](http://arxiv.org/abs/2504.17582v1)|**2025-04-24**|null|
+|**2025-04-24**|**A compact laser-plasma source for high-repetition-rate bi-modal X-ray and electron imaging**|Angana Mondal et.al.|[2504.17560v1](http://arxiv.org/abs/2504.17560v1)|**2025-04-24**|null|
+|**2025-04-24**|**When Gaussian Meets Surfel: Ultra-fast High-fidelity Radiance Field Rendering**|Keyang Ye et.al.|[2504.17545v1](http://arxiv.org/abs/2504.17545v1)|**2025-04-24**|null|
+|**2025-04-24**|**ESDiff: Encoding Strategy-inspired Diffusion Model with Few-shot Learning for Color Image Inpainting**|Junyan Zhang et.al.|[2504.17524v1](http://arxiv.org/abs/2504.17524v1)|**2025-04-24**|null|
+|**2025-04-24**|**Tailored minimal reservoir computing: on the bidirectional connection between nonlinearities in the reservoir and in data**|Davide Prosperino et.al.|[2504.17503v1](http://arxiv.org/abs/2504.17503v1)|**2025-04-24**|null|
+|**2025-04-24**|**Surface morphology and thickness variation estimation of zeolites via electron ptychography**|Enci Zhang et.al.|[2504.17501v1](http://arxiv.org/abs/2504.17501v1)|**2025-04-24**|null|
+|**2025-04-24**|**Reconstructions of electron-temperature profiles from EUROfusion Pedestal Database using turbulence models and machine learning**|L. -P. Turica et.al.|[2504.17486v1](http://arxiv.org/abs/2504.17486v1)|**2025-04-24**|null|
+|**2025-04-24**|**Wolves in the Repository: A Software Engineering Analysis of the XZ Utils Supply Chain Attack**|Piotr Przymus et.al.|[2504.17473v1](http://arxiv.org/abs/2504.17473v1)|**2025-04-24**|null|
+|**2025-04-24**|**Thermodynamics and Holographic RG Flow in 3D C-metric**|Shaohua Xue et.al.|[2504.17456v1](http://arxiv.org/abs/2504.17456v1)|**2025-04-24**|null|
+|**2025-04-24**|**Predict-Optimize-Distill: A Self-Improving Cycle for 4D Object Understanding**|Mingxuan Wu et.al.|[2504.17441v1](http://arxiv.org/abs/2504.17441v1)|**2025-04-24**|null|
+|**2025-04-24**|**3DV-TON: Textured 3D-Guided Consistent Video Try-on via Diffusion Models**|Min Wei et.al.|[2504.17414v1](http://arxiv.org/abs/2504.17414v1)|**2025-04-24**|null|
+|**2025-04-24**|**Bias-Eliminated PnP for Stereo Visual Odometry: Provably Consistent and Large-Scale Localization**|Guangyang Zeng et.al.|[2504.17410v1](http://arxiv.org/abs/2504.17410v1)|**2025-04-24**|null|
+|**2025-04-24**|**An Inverse Source Problem for Semilinear Stochastic Hyperbolic Equations**|Qi Lü et.al.|[2504.17398v1](http://arxiv.org/abs/2504.17398v1)|**2025-04-24**|null|
+|**2025-04-24**|**Deep Reparameterization for Full Waveform Inversion: Architecture Benchmarking, Robust Inversion, and Multiphysics Extension**|Feng Liu et.al.|[2504.17375v1](http://arxiv.org/abs/2504.17375v1)|**2025-04-24**|null|

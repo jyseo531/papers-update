@@ -2,33 +2,33 @@
 ### Instance Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-23**|**Texture: Structured Exploration of Text Datasets**|Will Epperson et.al.|[2504.16898v1](http://arxiv.org/abs/2504.16898v1)|**2025-04-23**|null|
-|**2025-04-23**|**Common Functional Decompositions Can Mis-attribute Differences in Outcomes Between Populations**|Manuel Quintero et.al.|[2504.16864v1](http://arxiv.org/abs/2504.16864v1)|**2025-04-23**|null|
-|**2025-04-23**|**A self-avoiding curve associated with sums of digits**|Francis Oger et.al.|[2504.16793v1](http://arxiv.org/abs/2504.16793v1)|**2025-04-23**|null|
-|**2025-04-23**|**Noise-Tolerant Coreset-Based Class Incremental Continual Learning**|Edison Mucllari et.al.|[2504.16763v1](http://arxiv.org/abs/2504.16763v1)|**2025-04-23**|null|
-|**2025-04-23**|**QAOA-PCA: Enhancing Efficiency in the Quantum Approximate Optimization Algorithm via Principal Component Analysis**|Owain Parry et.al.|[2504.16755v1](http://arxiv.org/abs/2504.16755v1)|**2025-04-23**|null|
-|**2025-04-23**|**Traffic-Oblivious Multi-Commodity Flow Network Design**|Markus Chimani et.al.|[2504.16744v1](http://arxiv.org/abs/2504.16744v1)|**2025-04-23**|null|
-|**2025-04-23**|**Prompt-Tuning SAM: From Generalist to Specialist with only 2048 Parameters and 16 Training Images**|Tristan Piater et.al.|[2504.16739v1](http://arxiv.org/abs/2504.16739v1)|**2025-04-23**|null|
-|**2025-04-23**|**Spectrum of cones of non-reduced plane curves with ordinary singularities**|Morihiko Saito et.al.|[2504.16721v1](http://arxiv.org/abs/2504.16721v1)|**2025-04-23**|null|
-|**2025-04-23**|**From Theory to Practice: Engineering Approximation Algorithms for Dynamic Orientation**|Ernestine Großmann et.al.|[2504.16720v1](http://arxiv.org/abs/2504.16720v1)|**2025-04-23**|null|
-|**2025-04-23**|**SemanticSugarBeets: A Multi-Task Framework and Dataset for Inspecting Harvest and Storage Characteristics of Sugar Beets**|Gerardus Croonen et.al.|[2504.16684v1](http://arxiv.org/abs/2504.16684v1)|**2025-04-23**|null|
-|**2025-04-23**|**A Time Series Dataset of NIR Spectra and RGB and NIR-HSI Images of the Barley Germination Process**|Ole-Christian Galbo Engstrøm et.al.|[2504.16658v1](http://arxiv.org/abs/2504.16658v1)|**2025-04-23**|null|
-|**2025-04-23**|**Federated EndoViT: Pretraining Vision Transformers via Federated Learning on Endoscopic Image Collections**|Max Kirchner et.al.|[2504.16612v1](http://arxiv.org/abs/2504.16612v1)|**2025-04-23**|null|
-|**2025-04-23**|**Path Matters: Industrial Data Meet Quantum Optimization**|Lukas Schmidbauer et.al.|[2504.16607v1](http://arxiv.org/abs/2504.16607v1)|**2025-04-23**|null|
-|**2025-04-23**|**Phase stabilization of In2Se3 by disordered Ni intercalation and its enhanced thermoelectrical performance**|Zengguang Shi et.al.|[2504.16605v1](http://arxiv.org/abs/2504.16605v1)|**2025-04-23**|null|
-|**2025-04-23**|**JEPA for RL: Investigating Joint-Embedding Predictive Architectures for Reinforcement Learning**|Tristan Kenneweg et.al.|[2504.16591v1](http://arxiv.org/abs/2504.16591v1)|**2025-04-23**|null|
-|**2025-04-23**|**SAIP-Net: Enhancing Remote Sensing Image Segmentation via Spectral Adaptive Information Propagation**|Zhongtao Wang et.al.|[2504.16564v1](http://arxiv.org/abs/2504.16564v1)|**2025-04-23**|null|
-|**2025-04-23**|**Beyond Anonymization: Object Scrubbing for Privacy-Preserving 2D and 3D Vision Tasks**|Murat Bilgehan Ertan et.al.|[2504.16557v1](http://arxiv.org/abs/2504.16557v1)|**2025-04-23**|null|
-|**2025-04-23**|**Generalized vector equilibrium problems with pairs of bifunctions and some applications**|Hung Bui The et.al.|[2504.16497v1](http://arxiv.org/abs/2504.16497v1)|**2025-04-23**|null|
-|**2025-04-23**|**On Developers' Self-Declaration of AI-Generated Code: An Analysis of Practices**|Syed Mohammad Kashif et.al.|[2504.16485v1](http://arxiv.org/abs/2504.16485v1)|**2025-04-23**|null|
-|**2025-04-23**|**RGB-D Video Object Segmentation via Enhanced Multi-store Feature Memory**|Boyue Xu et.al.|[2504.16471v1](http://arxiv.org/abs/2504.16471v1)|**2025-04-23**|null|
-|**2025-04-23**|**SoCov: Semi-Orthogonal Parametric Pooling of Covariance Matrix for Speaker Recognition**|Rongjin Li et.al.|[2504.16441v1](http://arxiv.org/abs/2504.16441v1)|**2025-04-23**|null|
-|**2025-04-23**|**Fully Scalable MPC Algorithms for Euclidean k-Center**|Artur Czumaj et.al.|[2504.16382v1](http://arxiv.org/abs/2504.16382v1)|**2025-04-23**|null|
-|**2025-04-23**|**SplitReason: Learning To Offload Reasoning**|Yash Akhauri et.al.|[2504.16379v1](http://arxiv.org/abs/2504.16379v1)|**2025-04-23**|null|
-|**2025-04-23**|**Property-Preserving Hashing for $\ell_1$-Distance Predicates: Applications to Countering Adversarial Input Attacks**|Hassan Asghar et.al.|[2504.16355v1](http://arxiv.org/abs/2504.16355v1)|**2025-04-23**|null|
-|**2025-04-23**|**QAOA-GPT: Efficient Generation of Adaptive and Regular Quantum Approximate Optimization Algorithm Circuits**|Ilya Tyagin et.al.|[2504.16350v1](http://arxiv.org/abs/2504.16350v1)|**2025-04-23**|null|
-|**2025-04-22**|**SignX: The Foundation Model for Sign Recognition**|Sen Fang et.al.|[2504.16315v1](http://arxiv.org/abs/2504.16315v1)|**2025-04-22**|null|
-|**2025-04-22**|**The Paradox of Poetic Intent in Back-Translation: Evaluating the Quality of Large Language Models in Chinese Translation**|Li Weigang et.al.|[2504.16286v1](http://arxiv.org/abs/2504.16286v1)|**2025-04-22**|null|
-|**2025-04-22**|**Affect Models Have Weak Generalizability to Atypical Speech**|Jaya Narain et.al.|[2504.16283v1](http://arxiv.org/abs/2504.16283v1)|**2025-04-22**|null|
-|**2025-04-22**|**Comprehensive Evaluation of Quantitative Measurements from Automated Deep Segmentations of PSMA PET/CT Images**|Obed Korshie Dzikunu et.al.|[2504.16237v1](http://arxiv.org/abs/2504.16237v1)|**2025-04-22**|null|
-|**2025-04-22**|**A Theory of Spectral CSP Sparsification**|Sanjeev Khanna et.al.|[2504.16206v1](http://arxiv.org/abs/2504.16206v1)|**2025-04-22**|null|
+|**2025-04-24**|**On the Degree Automatability of Sum-of-Squares Proofs**|Alex Bortolotti et.al.|[2504.17756v1](http://arxiv.org/abs/2504.17756v1)|**2025-04-24**|null|
+|**2025-04-24**|**Interpretable Early Detection of Parkinson's Disease through Speech Analysis**|Lorenzo Simone et.al.|[2504.17739v1](http://arxiv.org/abs/2504.17739v1)|**2025-04-24**|null|
+|**2025-04-24**|**Conformal Segmentation in Industrial Surface Defect Detection with Statistical Guarantees**|Cheng Shen et.al.|[2504.17721v1](http://arxiv.org/abs/2504.17721v1)|**2025-04-24**|null|
+|**2025-04-24**|**Pushing the frontiers of subexponential FPT time for Feedback Vertex Set**|Gaétan Berthe et.al.|[2504.17708v1](http://arxiv.org/abs/2504.17708v1)|**2025-04-24**|null|
+|**2025-04-24**|**A Systematic Study on the Design of Odd-Sized Highly Nonlinear Boolean Functions via Evolutionary Algorithms**|Claude Carlet et.al.|[2504.17666v1](http://arxiv.org/abs/2504.17666v1)|**2025-04-24**|null|
+|**2025-04-24**|**CLIPSE -- a minimalistic CLIP-based image search engine for research**|Steve Göring et.al.|[2504.17643v1](http://arxiv.org/abs/2504.17643v1)|**2025-04-24**|null|
+|**2025-04-24**|**A general framework for finding diverse solutions via network flow and its applications**|Yuni Iwamasa et.al.|[2504.17633v1](http://arxiv.org/abs/2504.17633v1)|**2025-04-24**|null|
+|**2025-04-24**|**Beyond Labels: Zero-Shot Diabetic Foot Ulcer Wound Segmentation with Self-attention Diffusion Models and the Potential for Text-Guided Customization**|Abderrachid Hamrani et.al.|[2504.17628v1](http://arxiv.org/abs/2504.17628v1)|**2025-04-24**|null|
+|**2025-04-24**|**Linear-Time Multilevel Graph Partitioning via Edge Sparsification**|Lars Gottesbüren et.al.|[2504.17615v1](http://arxiv.org/abs/2504.17615v1)|**2025-04-24**|null|
+|**2025-04-24**|**Occlusion-Aware Self-Supervised Monocular Depth Estimation for Weak-Texture Endoscopic Images**|Zebo Huang et.al.|[2504.17582v1](http://arxiv.org/abs/2504.17582v1)|**2025-04-24**|null|
+|**2025-04-24**|**Knapsack with compactness: a semidefinite approach**|Hubert Villuendas et.al.|[2504.17543v1](http://arxiv.org/abs/2504.17543v1)|**2025-04-24**|null|
+|**2025-04-24**|**Hollow polytopes with many vertices**|Srinivas Arun et.al.|[2504.17530v1](http://arxiv.org/abs/2504.17530v1)|**2025-04-24**|null|
+|**2025-04-24**|**Mamba-Sea: A Mamba-based Framework with Global-to-Local Sequence Augmentation for Generalizable Medical Image Segmentation**|Zihan Cheng et.al.|[2504.17515v1](http://arxiv.org/abs/2504.17515v1)|**2025-04-24**|null|
+|**2025-04-24**|**Goal-Oriented Time-Series Forecasting: Foundation Framework Design**|Luca-Andrei Fechete et.al.|[2504.17493v1](http://arxiv.org/abs/2504.17493v1)|**2025-04-24**|null|
+|**2025-04-24**|**A decision support system for optimised industrial water management**|Stavros Vatikiotis et.al.|[2504.17469v1](http://arxiv.org/abs/2504.17469v1)|**2025-04-24**|null|
+|**2025-04-24**|**Detection and Characterization of Quasi-Periodic Oscillations in Seyfert Galaxy NGC 4151**|Yan Yongkang et.al.|[2504.17436v1](http://arxiv.org/abs/2504.17436v1)|**2025-04-24**|null|
+|**2025-04-24**|**Breaking the Modality Barrier: Universal Embedding Learning with Multimodal LLMs**|Tiancheng Gu et.al.|[2504.17432v1](http://arxiv.org/abs/2504.17432v1)|**2025-04-24**|null|
+|**2025-04-24**|**Edge-weighted Online Stochastic Matching Under Jaillet-Lu LP**|Shuyi Yan et.al.|[2504.17392v1](http://arxiv.org/abs/2504.17392v1)|**2025-04-24**|null|
+|**2025-04-24**|**Mach-Zehnder atom interferometry with non-interacting trapped Bose Einstein condensates**|Tommaso Petrucciani et.al.|[2504.17391v1](http://arxiv.org/abs/2504.17391v1)|**2025-04-24**|null|
+|**2025-04-24**|**Subtrajectory Clustering and Coverage Maximization in Cubic Time, or Better**|Jacobus Conradi et.al.|[2504.17381v1](http://arxiv.org/abs/2504.17381v1)|**2025-04-24**|null|
+|**2025-04-24**|**A Spatially-Aware Multiple Instance Learning Framework for Digital Pathology**|Hassan Keshvarikhojasteh et.al.|[2504.17379v1](http://arxiv.org/abs/2504.17379v1)|**2025-04-24**|null|
+|**2025-04-24**|**Simple Universally Optimal Dijkstra**|Ivor van der Hoog et.al.|[2504.17327v1](http://arxiv.org/abs/2504.17327v1)|**2025-04-24**|null|
+|**2025-04-24**|**CoheMark: A Novel Sentence-Level Watermark for Enhanced Text Quality**|Junyan Zhang et.al.|[2504.17309v1](http://arxiv.org/abs/2504.17309v1)|**2025-04-24**|null|
+|**2025-04-24**|**Advanced Segmentation of Diabetic Retinopathy Lesions Using DeepLabv3+**|Meher Boulaabi et.al.|[2504.17306v1](http://arxiv.org/abs/2504.17306v1)|**2025-04-24**|null|
+|**2025-04-24**|**You Are What You Bought: Generating Customer Personas for E-commerce Applications**|Yimin Shi et.al.|[2504.17304v1](http://arxiv.org/abs/2504.17304v1)|**2025-04-24**|null|
+|**2025-04-24**|**The Ultimate Cookbook for Invisible Poison: Crafting Subtle Clean-Label Text Backdoors with Style Attributes**|Wencong You et.al.|[2504.17300v1](http://arxiv.org/abs/2504.17300v1)|**2025-04-24**|null|
+|**2025-04-24**|**3D Deep-learning-based Segmentation of Human Skin Sweat Glands and Their 3D Morphological Response to Temperature Variations**|Shaoyu Pei et.al.|[2504.17255v1](http://arxiv.org/abs/2504.17255v1)|**2025-04-24**|null|
+|**2025-04-24**|**MCAF: Efficient Agent-based Video Understanding Framework through Multimodal Coarse-to-Fine Attention Focusing**|Shiwen Cao et.al.|[2504.17213v1](http://arxiv.org/abs/2504.17213v1)|**2025-04-24**|null|
+|**2025-04-24**|**Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation**|Phillip Y. Lee et.al.|[2504.17207v1](http://arxiv.org/abs/2504.17207v1)|**2025-04-24**|null|
+|**2025-04-24**|**A Double-Norm Aggregated Tensor Latent Factorization Model for Temporal-Aware Traffic Speed Imputation**|Jiawen Hou et.al.|[2504.17196v1](http://arxiv.org/abs/2504.17196v1)|**2025-04-24**|null|

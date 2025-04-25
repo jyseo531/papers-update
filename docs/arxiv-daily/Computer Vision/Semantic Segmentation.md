@@ -2,33 +2,33 @@
 ### Semantic Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-23**|**BadVideo: Stealthy Backdoor Attack against Text-to-Video Generation**|Ruotong Wang et.al.|[2504.16907v1](http://arxiv.org/abs/2504.16907v1)|**2025-04-23**|null|
-|**2025-04-23**|**Emo Pillars: Knowledge Distillation to Support Fine-Grained Context-Aware and Context-Less Emotion Classification**|Alexander Shvets et.al.|[2504.16856v1](http://arxiv.org/abs/2504.16856v1)|**2025-04-23**|null|
-|**2025-04-23**|**A self-avoiding curve associated with sums of digits**|Francis Oger et.al.|[2504.16793v1](http://arxiv.org/abs/2504.16793v1)|**2025-04-23**|null|
-|**2025-04-23**|**Graph2Nav: 3D Object-Relation Graph Generation to Robot Navigation**|Tixiao Shan et.al.|[2504.16782v1](http://arxiv.org/abs/2504.16782v1)|**2025-04-23**|null|
-|**2025-04-23**|**HEMA : A Hippocampus-Inspired Extended Memory Architecture for Long-Context AI Conversations**|Kwangseob Ahn et.al.|[2504.16754v1](http://arxiv.org/abs/2504.16754v1)|**2025-04-23**|null|
-|**2025-04-23**|**Prompt-Tuning SAM: From Generalist to Specialist with only 2048 Parameters and 16 Training Images**|Tristan Piater et.al.|[2504.16739v1](http://arxiv.org/abs/2504.16739v1)|**2025-04-23**|null|
-|**2025-04-23**|**PMG: Progressive Motion Generation via Sparse Anchor Postures Curriculum Learning**|Yingjie Xi et.al.|[2504.16722v1](http://arxiv.org/abs/2504.16722v1)|**2025-04-23**|null|
-|**2025-04-23**|**SemanticSugarBeets: A Multi-Task Framework and Dataset for Inspecting Harvest and Storage Characteristics of Sugar Beets**|Gerardus Croonen et.al.|[2504.16684v1](http://arxiv.org/abs/2504.16684v1)|**2025-04-23**|null|
-|**2025-04-23**|**A Diff-Attention Aware State Space Fusion Model for Remote Sensing Classification**|Wenping Ma et.al.|[2504.16665v1](http://arxiv.org/abs/2504.16665v1)|**2025-04-23**|null|
-|**2025-04-23**|**A Time Series Dataset of NIR Spectra and RGB and NIR-HSI Images of the Barley Germination Process**|Ole-Christian Galbo Engstrøm et.al.|[2504.16658v1](http://arxiv.org/abs/2504.16658v1)|**2025-04-23**|null|
-|**2025-04-23**|**Cognitive Silicon: An Architectural Blueprint for Post-Industrial Computing Systems**|Christoforus Yoga Haryanto et.al.|[2504.16622v1](http://arxiv.org/abs/2504.16622v1)|**2025-04-23**|null|
-|**2025-04-23**|**Federated EndoViT: Pretraining Vision Transformers via Federated Learning on Endoscopic Image Collections**|Max Kirchner et.al.|[2504.16612v1](http://arxiv.org/abs/2504.16612v1)|**2025-04-23**|null|
-|**2025-04-23**|**Information Leakage of Sentence Embeddings via Generative Embedding Inversion Attacks**|Antonios Tragoudaras et.al.|[2504.16609v1](http://arxiv.org/abs/2504.16609v1)|**2025-04-23**|null|
-|**2025-04-23**|**JEPA for RL: Investigating Joint-Embedding Predictive Architectures for Reinforcement Learning**|Tristan Kenneweg et.al.|[2504.16591v1](http://arxiv.org/abs/2504.16591v1)|**2025-04-23**|null|
-|**2025-04-23**|**MMHCL: Multi-Modal Hypergraph Contrastive Learning for Recommendation**|Xu Guo et.al.|[2504.16576v1](http://arxiv.org/abs/2504.16576v1)|**2025-04-23**|null|
-|**2025-04-23**|**PIS: Linking Importance Sampling and Attention Mechanisms for Efficient Prompt Compression**|Lizhe Chen et.al.|[2504.16574v1](http://arxiv.org/abs/2504.16574v1)|**2025-04-23**|null|
-|**2025-04-23**|**SAIP-Net: Enhancing Remote Sensing Image Segmentation via Spectral Adaptive Information Propagation**|Zhongtao Wang et.al.|[2504.16564v1](http://arxiv.org/abs/2504.16564v1)|**2025-04-23**|null|
-|**2025-04-23**|**Beyond Anonymization: Object Scrubbing for Privacy-Preserving 2D and 3D Vision Tasks**|Murat Bilgehan Ertan et.al.|[2504.16557v1](http://arxiv.org/abs/2504.16557v1)|**2025-04-23**|null|
-|**2025-04-23**|**Think Hierarchically, Act Dynamically: Hierarchical Multi-modal Fusion and Reasoning for Vision-and-Language Navigation**|Junrong Yue et.al.|[2504.16516v1](http://arxiv.org/abs/2504.16516v1)|**2025-04-23**|null|
-|**2025-04-23**|**Intelligent Depression Prevention via LLM-Based Dialogue Analysis: Overcoming the Limitations of Scale-Dependent Diagnosis through Precise Emotional Pattern Recognition**|Zhenguang Zhong et.al.|[2504.16504v1](http://arxiv.org/abs/2504.16504v1)|**2025-04-23**|null|
-|**2025-04-23**|**Generalized vector equilibrium problems with pairs of bifunctions and some applications**|Hung Bui The et.al.|[2504.16497v1](http://arxiv.org/abs/2504.16497v1)|**2025-04-23**|null|
-|**2025-04-23**|**RGB-D Video Object Segmentation via Enhanced Multi-store Feature Memory**|Boyue Xu et.al.|[2504.16471v1](http://arxiv.org/abs/2504.16471v1)|**2025-04-23**|null|
-|**2025-04-23**|**MTSGL: Multi-Task Structure Guided Learning for Robust and Interpretable SAR Aircraft Recognition**|Qishan He et.al.|[2504.16467v1](http://arxiv.org/abs/2504.16467v1)|**2025-04-23**|null|
-|**2025-04-23**|**ManipDreamer: Boosting Robotic Manipulation World Model with Action Tree and Visual Guidance**|Ying Li et.al.|[2504.16464v1](http://arxiv.org/abs/2504.16464v1)|**2025-04-23**|null|
-|**2025-04-23**|**T-VEC: A Telecom-Specific Vectorization Model with Enhanced Semantic Understanding via Deep Triplet Loss Fine-Tuning**|Vignesh Ethiraj et.al.|[2504.16460v1](http://arxiv.org/abs/2504.16460v1)|**2025-04-23**|null|
-|**2025-04-23**|**EMRModel: A Large Language Model for Extracting Medical Consultation Dialogues into Structured Medical Records**|Shuguang Zhao et.al.|[2504.16448v1](http://arxiv.org/abs/2504.16448v1)|**2025-04-23**|null|
-|**2025-04-23**|**SoCov: Semi-Orthogonal Parametric Pooling of Covariance Matrix for Speaker Recognition**|Rongjin Li et.al.|[2504.16441v1](http://arxiv.org/abs/2504.16441v1)|**2025-04-23**|null|
-|**2025-04-23**|**Can Large Language Models Help Multimodal Language Analysis? MMLA: A Comprehensive Benchmark**|Hanlei Zhang et.al.|[2504.16427v2](http://arxiv.org/abs/2504.16427v2)|**2025-04-24**|null|
-|**2025-04-23**|**Out-of-the-Box Conditional Text Embeddings from Large Language Models**|Kosuke Yamada et.al.|[2504.16411v1](http://arxiv.org/abs/2504.16411v1)|**2025-04-23**|null|
-|**2025-04-23**|**SplitReason: Learning To Offload Reasoning**|Yash Akhauri et.al.|[2504.16379v1](http://arxiv.org/abs/2504.16379v1)|**2025-04-23**|null|
+|**2025-04-24**|**Replay to Remember: Retaining Domain Knowledge in Streaming Language Models**|Sneh Pillai et.al.|[2504.17780v1](http://arxiv.org/abs/2504.17780v1)|**2025-04-24**|null|
+|**2025-04-24**|**Interpretable Early Detection of Parkinson's Disease through Speech Analysis**|Lorenzo Simone et.al.|[2504.17739v1](http://arxiv.org/abs/2504.17739v1)|**2025-04-24**|null|
+|**2025-04-24**|**Conformal Segmentation in Industrial Surface Defect Detection with Statistical Guarantees**|Cheng Shen et.al.|[2504.17721v1](http://arxiv.org/abs/2504.17721v1)|**2025-04-24**|null|
+|**2025-04-24**|**Pushing the frontiers of subexponential FPT time for Feedback Vertex Set**|Gaétan Berthe et.al.|[2504.17708v1](http://arxiv.org/abs/2504.17708v1)|**2025-04-24**|null|
+|**2025-04-24**|**Quadratic Interest Network for Multimodal Click-Through Rate Prediction**|Honghao Li et.al.|[2504.17699v1](http://arxiv.org/abs/2504.17699v1)|**2025-04-24**|null|
+|**2025-04-24**|**Portability of Optimizations from SC to TSO**|Akshay Gopalakrishnan et.al.|[2504.17646v1](http://arxiv.org/abs/2504.17646v1)|**2025-04-24**|null|
+|**2025-04-24**|**Beyond Labels: Zero-Shot Diabetic Foot Ulcer Wound Segmentation with Self-attention Diffusion Models and the Potential for Text-Guided Customization**|Abderrachid Hamrani et.al.|[2504.17628v1](http://arxiv.org/abs/2504.17628v1)|**2025-04-24**|null|
+|**2025-04-24**|**Occlusion-Aware Self-Supervised Monocular Depth Estimation for Weak-Texture Endoscopic Images**|Zebo Huang et.al.|[2504.17582v1](http://arxiv.org/abs/2504.17582v1)|**2025-04-24**|null|
+|**2025-04-24**|**RAGAT-Mind: A Multi-Granular Modeling Approach for Rumor Detection Based on MindSpore**|Zhenkai Qin et.al.|[2504.17574v1](http://arxiv.org/abs/2504.17574v1)|**2025-04-24**|null|
+|**2025-04-24**|**When Does Metadata Conditioning (NOT) Work for Language Model Pre-Training? A Study with Context-Free Grammars**|Rei Higuchi et.al.|[2504.17562v1](http://arxiv.org/abs/2504.17562v1)|**2025-04-24**|null|
+|**2025-04-24**|**Hollow polytopes with many vertices**|Srinivas Arun et.al.|[2504.17530v1](http://arxiv.org/abs/2504.17530v1)|**2025-04-24**|null|
+|**2025-04-24**|**IRA: Adaptive Interest-aware Representation and Alignment for Personalized Multi-interest Retrieval**|Youngjune Lee et.al.|[2504.17529v1](http://arxiv.org/abs/2504.17529v1)|**2025-04-24**|null|
+|**2025-04-24**|**Text-to-Image Alignment in Denoising-Based Models through Step Selection**|Paul Grimal et.al.|[2504.17525v1](http://arxiv.org/abs/2504.17525v1)|**2025-04-24**|null|
+|**2025-04-24**|**Replication and Exploration of Generative Retrieval over Dynamic Corpora**|Zhen Zhang et.al.|[2504.17519v1](http://arxiv.org/abs/2504.17519v1)|**2025-04-24**|null|
+|**2025-04-24**|**Mamba-Sea: A Mamba-based Framework with Global-to-Local Sequence Augmentation for Generalizable Medical Image Segmentation**|Zihan Cheng et.al.|[2504.17515v1](http://arxiv.org/abs/2504.17515v1)|**2025-04-24**|null|
+|**2025-04-24**|**Goal-Oriented Time-Series Forecasting: Foundation Framework Design**|Luca-Andrei Fechete et.al.|[2504.17493v1](http://arxiv.org/abs/2504.17493v1)|**2025-04-24**|null|
+|**2025-04-24**|**Detection and Characterization of Quasi-Periodic Oscillations in Seyfert Galaxy NGC 4151**|Yan Yongkang et.al.|[2504.17436v1](http://arxiv.org/abs/2504.17436v1)|**2025-04-24**|null|
+|**2025-04-24**|**Towards Leveraging Large Language Model Summaries for Topic Modeling in Source Code**|Michele Carissimi et.al.|[2504.17426v1](http://arxiv.org/abs/2504.17426v1)|**2025-04-24**|null|
+|**2025-04-24**|**SDVPT: Semantic-Driven Visual Prompt Tuning for Open-World Object Counting**|Yiming Zhao et.al.|[2504.17395v1](http://arxiv.org/abs/2504.17395v1)|**2025-04-24**|null|
+|**2025-04-24**|**Subtrajectory Clustering and Coverage Maximization in Cubic Time, or Better**|Jacobus Conradi et.al.|[2504.17381v1](http://arxiv.org/abs/2504.17381v1)|**2025-04-24**|null|
+|**2025-04-24**|**TimeSoccer: An End-to-End Multimodal Large Language Model for Soccer Commentary Generation**|Ling You et.al.|[2504.17365v1](http://arxiv.org/abs/2504.17365v1)|**2025-04-24**|null|
+|**2025-04-24**|**Comprehend, Divide, and Conquer: Feature Subspace Exploration via Multi-Agent Hierarchical Reinforcement Learning**|Weiliang Zhang et.al.|[2504.17356v1](http://arxiv.org/abs/2504.17356v1)|**2025-04-24**|null|
+|**2025-04-24**|**First-order store and visibility in name-passing calculi**|Daniel Hirschkoff et.al.|[2504.17350v1](http://arxiv.org/abs/2504.17350v1)|**2025-04-24**|null|
+|**2025-04-24**|**DRC: Enhancing Personalized Image Generation via Disentangled Representation Composition**|Yiyan Xu et.al.|[2504.17349v1](http://arxiv.org/abs/2504.17349v1)|**2025-04-24**|null|
+|**2025-04-24**|**Operational Semantics for Crystality: A Smart Contract Language for Parallel EVMs**|Ziyun Xu et.al.|[2504.17336v1](http://arxiv.org/abs/2504.17336v1)|**2025-04-24**|null|
+|**2025-04-24**|**CoheMark: A Novel Sentence-Level Watermark for Enhanced Text Quality**|Junyan Zhang et.al.|[2504.17309v1](http://arxiv.org/abs/2504.17309v1)|**2025-04-24**|null|
+|**2025-04-24**|**Advanced Segmentation of Diabetic Retinopathy Lesions Using DeepLabv3+**|Meher Boulaabi et.al.|[2504.17306v1](http://arxiv.org/abs/2504.17306v1)|**2025-04-24**|null|
+|**2025-04-24**|**You Are What You Bought: Generating Customer Personas for E-commerce Applications**|Yimin Shi et.al.|[2504.17304v1](http://arxiv.org/abs/2504.17304v1)|**2025-04-24**|null|
+|**2025-04-24**|**Towards Generalized and Training-Free Text-Guided Semantic Manipulation**|Yu Hong et.al.|[2504.17269v1](http://arxiv.org/abs/2504.17269v1)|**2025-04-24**|null|
+|**2025-04-24**|**MV-Crafter: An Intelligent System for Music-guided Video Generation**|Chuer Chen et.al.|[2504.17267v1](http://arxiv.org/abs/2504.17267v1)|**2025-04-24**|null|

@@ -2,33 +2,33 @@
 ### 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-24**|**The Fourth Monocular Depth Estimation Challenge**|Anton Obukhov et.al.|[2504.17787v1](http://arxiv.org/abs/2504.17787v1)|**2025-04-24**|null|
+|**2025-04-24**|**Nearby open clusters with tidal features: golden sample selection and 3D structure**|Ming Xu et.al.|[2504.17744v1](http://arxiv.org/abs/2504.17744v1)|**2025-04-24**|null|
+|**2025-04-24**|**Fully-Mixed Virtual Element Method for the Biot Problem**|Michele Botti et.al.|[2504.17729v1](http://arxiv.org/abs/2504.17729v1)|**2025-04-24**|null|
+|**2025-04-24**|**CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos**|Shucheng Gong et.al.|[2504.17728v1](http://arxiv.org/abs/2504.17728v1)|**2025-04-24**|null|
+|**2025-04-24**|**PICO: Reconstructing 3D People In Contact with Objects**|Alpár Cseke et.al.|[2504.17695v1](http://arxiv.org/abs/2504.17695v1)|**2025-04-24**|null|
+|**2025-04-24**|**DiMeR: Disentangled Mesh Reconstruction Model**|Lutao Jiang et.al.|[2504.17670v1](http://arxiv.org/abs/2504.17670v1)|**2025-04-24**|null|
+|**2025-04-24**|**Insights from Analytical Theory of Eccentric Circumbinary Disks**|Marcela Grcic et.al.|[2504.17658v1](http://arxiv.org/abs/2504.17658v1)|**2025-04-24**|null|
+|**2025-04-24**|**polyGen: A Learning Framework for Atomic-level Polymer Structure Generation**|Ayush Jain et.al.|[2504.17656v1](http://arxiv.org/abs/2504.17656v1)|**2025-04-24**|null|
+|**2025-04-24**|**A Guide to Structureless Visual Localization**|Vojtech Panek et.al.|[2504.17636v1](http://arxiv.org/abs/2504.17636v1)|**2025-04-24**|null|
+|**2025-04-24**|**Bolt: Clothing Virtual Characters at Scale**|Jonathan Leaf et.al.|[2504.17614v1](http://arxiv.org/abs/2504.17614v1)|**2025-04-24**|null|
+|**2025-04-24**|**The NewEra model grid**|Peter H. Hauschildt et.al.|[2504.17597v1](http://arxiv.org/abs/2504.17597v1)|**2025-04-24**|null|
+|**2025-04-24**|**When Gaussian Meets Surfel: Ultra-fast High-fidelity Radiance Field Rendering**|Keyang Ye et.al.|[2504.17545v1](http://arxiv.org/abs/2504.17545v1)|**2025-04-24**|null|
+|**2025-04-24**|**Thermodynamics and Holographic RG Flow in 3D C-metric**|Shaohua Xue et.al.|[2504.17456v1](http://arxiv.org/abs/2504.17456v1)|**2025-04-24**|null|
+|**2025-04-24**|**Predict-Optimize-Distill: A Self-Improving Cycle for 4D Object Understanding**|Mingxuan Wu et.al.|[2504.17441v1](http://arxiv.org/abs/2504.17441v1)|**2025-04-24**|null|
+|**2025-04-24**|**3DV-TON: Textured 3D-Guided Consistent Video Try-on via Diffusion Models**|Min Wei et.al.|[2504.17414v1](http://arxiv.org/abs/2504.17414v1)|**2025-04-24**|null|
+|**2025-04-24**|**Bias-Eliminated PnP for Stereo Visual Odometry: Provably Consistent and Large-Scale Localization**|Guangyang Zeng et.al.|[2504.17410v1](http://arxiv.org/abs/2504.17410v1)|**2025-04-24**|null|
+|**2025-04-24**|**Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset**|Oussema Dhaouadi et.al.|[2504.17371v1](http://arxiv.org/abs/2504.17371v1)|**2025-04-24**|null|
+|**2025-04-24**|**Physics-based super-resolved simulation of 3D elastic wave propagation adopting scalable Diffusion Transformer**|Hugo Gabrielidis et.al.|[2504.17308v1](http://arxiv.org/abs/2504.17308v1)|**2025-04-24**|null|
+|**2025-04-24**|**Incompressible and fast rotation limits for 3D compressible rotating Euler system with general initial data**|Mikihiro Fujii et.al.|[2504.17290v1](http://arxiv.org/abs/2504.17290v1)|**2025-04-24**|null|
+|**2025-04-24**|**Some remarks on Liouville type theorems for the 3D steady tropical climate model**|Yanyan Dong et.al.|[2504.17285v1](http://arxiv.org/abs/2504.17285v1)|**2025-04-24**|null|
+|**2025-04-24**|**3D Deep-learning-based Segmentation of Human Skin Sweat Glands and Their 3D Morphological Response to Temperature Variations**|Shaoyu Pei et.al.|[2504.17255v1](http://arxiv.org/abs/2504.17255v1)|**2025-04-24**|null|
+|**2025-04-24**|**Demonstrating Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot**|Yufeng Chi et.al.|[2504.17249v1](http://arxiv.org/abs/2504.17249v1)|**2025-04-24**|null|
+|**2025-04-24**|**Range Image-Based Implicit Neural Compression for LiDAR Point Clouds**|Akihiro Kuwabara et.al.|[2504.17229v1](http://arxiv.org/abs/2504.17229v1)|**2025-04-24**|null|
+|**2025-04-23**|**Global stability for compressible isentropic Navier-Stokes equations in 3D bounded domains with Navier-slip boundary conditions**|Yang Liu et.al.|[2504.17136v1](http://arxiv.org/abs/2504.17136v1)|**2025-04-23**|null|
+|**2025-04-23**|**Physiological neural representation for personalised tracer kinetic parameter estimation from dynamic PET**|Kartikay Tehlan et.al.|[2504.17122v1](http://arxiv.org/abs/2504.17122v1)|**2025-04-23**|null|
+|**2025-04-23**|**Towards understanding stellar variability at the sub m/s level: Isolating granulation signals in synthetic spectral lines**|Ginger Frame et.al.|[2504.17011v1](http://arxiv.org/abs/2504.17011v1)|**2025-04-23**|null|
 |**2025-04-23**|**Zero-shot Sim-to-Real Transfer for Reinforcement Learning-based Visual Servoing of Soft Continuum Arms**|Hsin-Jung Yang et.al.|[2504.16916v1](http://arxiv.org/abs/2504.16916v1)|**2025-04-23**|null|
 |**2025-04-23**|**An Accelerated Camera 3DMA Framework for Efficient Urban GNSS Multipath Estimation**|Shiyao Lv et.al.|[2504.16906v1](http://arxiv.org/abs/2504.16906v1)|**2025-04-23**|null|
 |**2025-04-23**|**Exploring zero-shot structure-based protein fitness prediction**|Arnav Sharma et.al.|[2504.16886v1](http://arxiv.org/abs/2504.16886v1)|**2025-04-23**|null|
 |**2025-04-23**|**A Low-Cost Photogrammetry System for 3D Plant Modeling and Phenotyping**|Joe Hrzich et.al.|[2504.16840v1](http://arxiv.org/abs/2504.16840v1)|**2025-04-23**|null|
-|**2025-04-23**|**Energy Variational Modeling and Numerical Simulation of Open Membranes in Stokes Flow**|Han Zhou et.al.|[2504.16823v1](http://arxiv.org/abs/2504.16823v1)|**2025-04-23**|null|
-|**2025-04-23**|**4D Multimodal Co-attention Fusion Network with Latent Contrastive Alignment for Alzheimer's Diagnosis**|Yuxiang Wei et.al.|[2504.16798v1](http://arxiv.org/abs/2504.16798v1)|**2025-04-23**|null|
-|**2025-04-23**|**Graph2Nav: 3D Object-Relation Graph Generation to Robot Navigation**|Tixiao Shan et.al.|[2504.16782v1](http://arxiv.org/abs/2504.16782v1)|**2025-04-23**|null|
-|**2025-04-23**|**The Interplay of Single Ion Anisotropy and Magnetic 3d-4f Interactions in V$^{\rm III}_2$Ln$^{\rm III}_2$ Butterfly Complexes**|J. Arneth et.al.|[2504.16758v1](http://arxiv.org/abs/2504.16758v1)|**2025-04-23**|null|
-|**2025-04-23**|**Gaussian Splatting is an Effective Data Generator for 3D Object Detection**|Farhad G. Zanjani et.al.|[2504.16740v1](http://arxiv.org/abs/2504.16740v1)|**2025-04-23**|null|
-|**2025-04-23**|**DYNUS: Uncertainty-aware Trajectory Planner in Dynamic Unknown Environments**|Kota Kondo et.al.|[2504.16734v2](http://arxiv.org/abs/2504.16734v2)|**2025-04-24**|null|
-|**2025-04-23**|**PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation**|Wenxuan Li et.al.|[2504.16693v1](http://arxiv.org/abs/2504.16693v1)|**2025-04-23**|null|
-|**2025-04-23**|**Non-uniqueness of (Stochastic) Lagrangian Trajectories for Euler Equations**|Huaxiang Lü et.al.|[2504.16687v1](http://arxiv.org/abs/2504.16687v1)|**2025-04-23**|null|
-|**2025-04-23**|**Small Alfvén Number Limit for the Global-in-time Solutions of Incompressible MHD Equations with General Initial Data**|Yuan Cai et.al.|[2504.16650v1](http://arxiv.org/abs/2504.16650v1)|**2025-04-23**|null|
-|**2025-04-23**|**UAV-Mounted IRS (UMI) in the Presence of Hovering Fluctuations: 3D Pattern Characterization and Performance Analysis**|Mohammad Javad Zakavi et.al.|[2504.16613v1](http://arxiv.org/abs/2504.16613v1)|**2025-04-23**|null|
-|**2025-04-23**|**A hybrid high-order method for the biharmonic problem**|Yizhou Liang et.al.|[2504.16608v1](http://arxiv.org/abs/2504.16608v1)|**2025-04-23**|null|
-|**2025-04-23**|**HUG: Hierarchical Urban Gaussian Splatting with Block-Based Reconstruction**|Zhongtao Wang et.al.|[2504.16606v1](http://arxiv.org/abs/2504.16606v1)|**2025-04-23**|null|
-|**2025-04-23**|**3D-1D modelling of cranial plate heating induced by low or medium frequency magnetic fields**|Alessandro Arduino et.al.|[2504.16600v1](http://arxiv.org/abs/2504.16600v1)|**2025-04-23**|null|
-|**2025-04-23**|**HERB: Human-augmented Efficient Reinforcement learning for Bin-packing**|Gojko Perovic et.al.|[2504.16595v1](http://arxiv.org/abs/2504.16595v1)|**2025-04-23**|null|
-|**2025-04-23**|**Beyond Anonymization: Object Scrubbing for Privacy-Preserving 2D and 3D Vision Tasks**|Murat Bilgehan Ertan et.al.|[2504.16557v1](http://arxiv.org/abs/2504.16557v1)|**2025-04-23**|null|
-|**2025-04-23**|**ToF-Splatting: Dense SLAM using Sparse Time-of-Flight Depth and Multi-Frame Integration**|Andrea Conti et.al.|[2504.16545v1](http://arxiv.org/abs/2504.16545v1)|**2025-04-23**|null|
-|**2025-04-23**|**PRaDA: Projective Radial Distortion Averaging**|Daniil Sinitsyn et.al.|[2504.16499v1](http://arxiv.org/abs/2504.16499v1)|**2025-04-23**|null|
-|**2025-04-23**|**Assessing the Feasibility of Internet-Sourced Video for Automatic Cattle Lameness Detection**|Md Fahimuzzman Sohan et.al.|[2504.16404v1](http://arxiv.org/abs/2504.16404v1)|**2025-04-23**|null|
-|**2025-04-23**|**Stability threshold of Couette flow for 3D Boussinesq system in Sobolev spaces**|Shikun Cui et.al.|[2504.16401v1](http://arxiv.org/abs/2504.16401v1)|**2025-04-23**|null|
-|**2025-04-23**|**SaENeRF: Suppressing Artifacts in Event-based Neural Radiance Fields**|Yuanjian Wang et.al.|[2504.16389v1](http://arxiv.org/abs/2504.16389v1)|**2025-04-23**|null|
-|**2025-04-23**|**DPGP: A Hybrid 2D-3D Dual Path Potential Ghost Probe Zone Prediction Framework for Safe Autonomous Driving**|Weiming Qu et.al.|[2504.16374v1](http://arxiv.org/abs/2504.16374v1)|**2025-04-23**|null|
-|**2025-04-23**|**Revisiting Radar Camera Alignment by Contrastive Learning for 3D Object Detection**|Linhua Kong et.al.|[2504.16368v1](http://arxiv.org/abs/2504.16368v1)|**2025-04-23**|null|
-|**2025-04-23**|**Real-time Bayesian inference at extreme scale: A digital twin for tsunami early warning applied to the Cascadia subduction zone**|Stefan Henneking et.al.|[2504.16344v1](http://arxiv.org/abs/2504.16344v1)|**2025-04-23**|null|
-|**2025-04-23**|**Helically symmetric solution of 3D Euler equations with vorticity and its free boundary**|Lili Du et.al.|[2504.16340v1](http://arxiv.org/abs/2504.16340v1)|**2025-04-23**|null|
-|**2025-04-23**|**Terahertz field effect in a two-dimensional semiconductor MoS2**|Tomoki Hiraoka et.al.|[2504.16333v1](http://arxiv.org/abs/2504.16333v1)|**2025-04-23**|null|
-|**2025-04-23**|**PhaseT3M: 3D Imaging at 1.6 Å Resolution via Electron Cryo-Tomography with Nonlinear Phase Retrieval**|Juhyeok Lee et.al.|[2504.16332v1](http://arxiv.org/abs/2504.16332v1)|**2025-04-23**|null|
