@@ -651,6 +651,7 @@ Updated on 2025-04-26
 | 788 | 13 | adsabs/astroBERTFill-Mask | UpdatedNov 14, 2024 | [Link](https://huggingface.co/adsabs/astroBERT) |
 | 850 | 11 | prithivMLmods/Spam-Bert-UncasedFill-Mask | UpdatedDec 25, 2024 | [Link](https://huggingface.co/prithivMLmods/Spam-Bert-Uncased) |
 | 304 | 11 | launch/POLITICSFill-Mask | UpdatedOct 6, 2023 | [Link](https://huggingface.co/launch/POLITICS) |
+| 2.25k | 11 | albert/albert-xlarge-v2Fill-Mask | UpdatedApr 10, 2024 | [Link](https://huggingface.co/albert/albert-xlarge-v2) |
 | 83 | 10 | prithivMLmods/Betelgeuse-bert-base-uncasedFill-Mask | UpdatedMay 15, 2024 | [Link](https://huggingface.co/prithivMLmods/Betelgeuse-bert-base-uncased) |
 | 84 | 10 | prithivMLmods/Betelgeuse-bert-base-uncased-ONNXFill-Mask | Updatedabout 1 month ago | [Link](https://huggingface.co/prithivMLmods/Betelgeuse-bert-base-uncased-ONNX) |
 | 18.7k | 10 | albert/albert-base-v1Fill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/albert/albert-base-v1) |
@@ -934,6 +935,7 @@ Updated on 2025-04-26
 | 65 | 2 | facebook/regnet-y-320-seerImage | UpdatedSep 28, 2023 | [Link](https://huggingface.co/facebook/regnet-y-320-seer) |
 | 8 | 2 | bioptimus/H0-miniImage | Updated1 day ago | [Link](https://huggingface.co/bioptimus/H0-mini) |
 | 129 | 2 | kaiko-ai/midnightImage | Updatedabout 13 hours ago | [Link](https://huggingface.co/kaiko-ai/midnight) |
+| 46 | 2 | facebook/webssl-dino7b-full8b-224Image | Updated2 days ago | [Link](https://huggingface.co/facebook/webssl-dino7b-full8b-224) |
 | 50.8k | 1 | StanfordAIMI/dinov2-base-xray-224Image | UpdatedFeb 11, 2024 | [Link](https://huggingface.co/StanfordAIMI/dinov2-base-xray-224) |
 | 213 | 1 | iamrizwan077/detr-finetuned-road-signs-v1Image | UpdatedMay 5, 2024 | [Link](https://huggingface.co/iamrizwan077/detr-finetuned-road-signs-v1) |
 | 9.54k | 1 | timm/vit_base_patch8_224 | UpdatedJan 21 | [Link](https://huggingface.co/timm/vit_base_patch8_224.dino) |
@@ -1129,6 +1131,8 @@ Updated on 2025-04-26
 | 725 | 8 | Mungert/gemma-3-4b-it-ggufImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/Mungert/gemma-3-4b-it-gguf) |
 | 18.6k | 8 | lmstudio-community/gemma-3-4b-it-GGUFImage-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/lmstudio-community/gemma-3-4b-it-GGUF) |
 | 99 | 8 | huihui-ai/gemma-3-12b-it-abliteratedImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/huihui-ai/gemma-3-12b-it-abliterated) |
+| 28 | 8 | Skywork/Skywork-VL-Reward-7BImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/Skywork/Skywork-VL-Reward-7B) |
+| 42 | 8 | ginipick/Gemma-3-R1984-4BImage-Text-to-Text | Updated4 days ago | [Link](https://huggingface.co/ginipick/Gemma-3-R1984-4B) |
 | 160 | 6 | MIL-UT/Asagi-14BImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/MIL-UT/Asagi-14B) |
 | 168 | 5 | MBZUAI/AINImage-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/MBZUAI/AIN) |
 | 2.72k | 1.62k | microsoft/OmniParserImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/microsoft/OmniParser) |
