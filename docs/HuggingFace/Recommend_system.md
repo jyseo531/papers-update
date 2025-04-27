@@ -506,6 +506,7 @@ Updated on 2025-04-27
 | 587k | 24 | indobenchmark/indobert-base-p1Feature | UpdatedMay 19, 2021 | [Link](https://huggingface.co/indobenchmark/indobert-base-p1) |
 | 3.19k | 21 | Salesforce/SFR-Embedding-Code-400M_RFeature | UpdatedJan 24 | [Link](https://huggingface.co/Salesforce/SFR-Embedding-Code-400M_R) |
 | 163 | 19 | hustcw/clap-asmFeature | UpdatedMar 4, 2024 | [Link](https://huggingface.co/hustcw/clap-asm) |
+| 151k | 19 | ibm-research/MoLFormer-XL-both-10pctFeature | UpdatedMar 31, 2024 | [Link](https://huggingface.co/ibm-research/MoLFormer-XL-both-10pct) |
 | 215 | 16 | skit-ai/speechllm-2BFeature | UpdatedJun 25, 2024 | [Link](https://huggingface.co/skit-ai/speechllm-2B) |
 | 19.3k | 16 | heydariAI/persian-embeddingsFeature | UpdatedMar 6 | [Link](https://huggingface.co/heydariAI/persian-embeddings) |
 | 8 | 10 | infgrad/dewey_en_betaFeature | Updatedabout 3 hours ago | [Link](https://huggingface.co/infgrad/dewey_en_beta) |
@@ -2281,6 +2282,7 @@ Updated on 2025-04-27
 | 170 | 44 | open-r1/OlympicCoder-7BText | Updatedabout 5 hours ago | [Link](https://huggingface.co/open-r1/OlympicCoder-7B) |
 | 3.37k | 42 | Qwen/QwQ-32B-AWQText | Updatedabout 3 hours ago | [Link](https://huggingface.co/Qwen/QwQ-32B-AWQ) |
 | 796 | 41 | inclusionAI/Ling-liteText | Updated1 day ago | [Link](https://huggingface.co/inclusionAI/Ling-lite) |
+| 75 | 41 | tngtech/DeepSeek-R1T-ChimeraText | Updatedabout 1 hour ago | [Link](https://huggingface.co/tngtech/DeepSeek-R1T-Chimera) |
 | 227 | 38 | LGAI-EXAONE/EXAONE-Deep-7 | Updated4 minutes ago | [Link](https://huggingface.co/LGAI-EXAONE/EXAONE-Deep-7.8B) |
 | 9.86k | 38 | starvector/starvector-1b-im2svgText | Updated2 days ago | [Link](https://huggingface.co/starvector/starvector-1b-im2svg) |
 | 278 | 38 | deepcogito/cogito-v1-preview-qwen-32BText | Updated1 day ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-qwen-32B) |
@@ -2678,6 +2680,7 @@ Updated on 2025-04-27
 | 26 |  | codermert/busra_fluxxText-to-Image | UpdatedFeb 24 | [Link](https://huggingface.co/codermert/busra_fluxx) |
 | 17 | Unknown | bytedance-research/UNOText-to-Image | Updated5 days ago | [Link](https://huggingface.co/bytedance-research/UNO) |
 | 9 |  | openfree/myt-flux-fantasyText-to-Image | Updated4 days ago | [Link](https://huggingface.co/openfree/myt-flux-fantasy) |
+| 117 |  | codermert/yesim_fluxxxText-to-Image | Updated5 days ago | [Link](https://huggingface.co/codermert/yesim_fluxxx) |
 
 ## Text-to-Speech
 
@@ -2919,6 +2922,7 @@ Updated on 2025-04-27
 | 875 | 5 | teapotai/teapotllmText2Text | Updated37 minutes ago | [Link](https://huggingface.co/teapotai/teapotllm) |
 | 16 | 5 | Savtale/User-Intention-RecognitionText2Text | UpdatedDec 6, 2024 | [Link](https://huggingface.co/Savtale/User-Intention-Recognition) |
 | 110 | 5 | ai-forever/sage-v1 | UpdatedNov 19, 2024 | [Link](https://huggingface.co/ai-forever/sage-v1.1.0) |
+| 119 | 5 | Ahmad/parsT5-baseText2Text | UpdatedNov 3, 2021 | [Link](https://huggingface.co/Ahmad/parsT5-base) |
 | 173 | 3 | castorini/t5-base-canardText2Text | UpdatedJun 23, 2021 | [Link](https://huggingface.co/castorini/t5-base-canard) |
 | 148 | 3 | mradermacher/teapotllm-GGUFText2Text | UpdatedJan 24 | [Link](https://huggingface.co/mradermacher/teapotllm-GGUF) |
 | 7 | 3 | Hamzah-Asadullah/NarrowMaid-8BText2Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/Hamzah-Asadullah/NarrowMaid-8B) |
@@ -3080,6 +3084,7 @@ Updated on 2025-04-27
 | 437k | 2 | cahya/NusaBert-ner-v1 | Updated4 days ago | [Link](https://huggingface.co/cahya/NusaBert-ner-v1.3) |
 | 43 | 2 | AI-Enthusiast11/pii-entity-extractorToken | Updatedabout 5 hours ago | [Link](https://huggingface.co/AI-Enthusiast11/pii-entity-extractor) |
 | 52 | 2 | Ishan0612/biobert-ner-diseaseToken | Updatedabout 13 hours ago | [Link](https://huggingface.co/Ishan0612/biobert-ner-disease) |
+| 10 | 2 | Ishan0612/biobert-ner-disease-ncbiToken | Updatedabout 8 hours ago | [Link](https://huggingface.co/Ishan0612/biobert-ner-disease-ncbi) |
 | 168 | 1 | dccuchile/distilbert-base-spanish-uncased-finetuned-nerToken | UpdatedJan 6, 2022 | [Link](https://huggingface.co/dccuchile/distilbert-base-spanish-uncased-finetuned-ner) |
 | 102 | 1 | KBLab/bert-base-swedish-cased-reallysimple-nerToken | UpdatedNov 15, 2022 | [Link](https://huggingface.co/KBLab/bert-base-swedish-cased-reallysimple-ner) |
 | 22 | 1 | KoichiYasuoka/roberta-base-japanese-char-luw-uposToken | UpdatedAug 20, 2024 | [Link](https://huggingface.co/KoichiYasuoka/roberta-base-japanese-char-luw-upos) |
@@ -3129,6 +3134,7 @@ Updated on 2025-04-27
 | 411k | 46 | google-t5/t5-3bTranslation | UpdatedJan 29, 2024 | [Link](https://huggingface.co/google-t5/t5-3b) |
 | 361 | 45 | kyutai/hibiki-2b-pytorch-bf16Translation | Updated19 days ago | [Link](https://huggingface.co/kyutai/hibiki-2b-pytorch-bf16) |
 | 1.19M | 43 | Helsinki-NLP/opus-mt-fr-enTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-fr-en) |
+| 640 | 35 | utrobinmv/t5_translate_en_ru_zh_large_1024_v2Translation | UpdatedNov 4, 2024 | [Link](https://huggingface.co/utrobinmv/t5_translate_en_ru_zh_large_1024_v2) |
 | 2.21k | 33 | Unbabel/TowerInstruct-7B-v0 | UpdatedSep 9, 2024 | [Link](https://huggingface.co/Unbabel/TowerInstruct-7B-v0.2) |
 | 5.97k | 31 | Unbabel/wmt22-comet-daTranslation | UpdatedFeb 26 | [Link](https://huggingface.co/Unbabel/wmt22-comet-da) |
 | 740 | 26 | Unbabel/TowerInstruct-13B-v0 | UpdatedMay 8, 2024 | [Link](https://huggingface.co/Unbabel/TowerInstruct-13B-v0.1) |
@@ -3355,6 +3361,7 @@ Updated on 2025-04-27
 | 17 | 2 | Video-R1/Video-R1-7BVideo-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/Video-R1/Video-R1-7B) |
 | 360 | 2 | OpenGVLab/VideoChat-R1_7BVideo-Text-to-Text | Updated4 days ago | [Link](https://huggingface.co/OpenGVLab/VideoChat-R1_7B) |
 | 32 | 2 | Zhang199/TinyLLaVA-Video-R1Video-Text-to-Text | Updated4 days ago | [Link](https://huggingface.co/Zhang199/TinyLLaVA-Video-R1) |
+| 23 | 2 | Fr0zencr4nE/Cockatiel-13BVideo-Text-to-Text | UpdatedMar 18 | [Link](https://huggingface.co/Fr0zencr4nE/Cockatiel-13B) |
 | 26 | 1 | tcm03/LongVidLLaMAVideo-Text-to-Text | UpdatedJan 8 | [Link](https://huggingface.co/tcm03/LongVidLLaMA) |
 | 54 | 1 | ruili0/LongVA-7B-TPOVideo-Text-to-Text | Updated11 days ago | [Link](https://huggingface.co/ruili0/LongVA-7B-TPO) |
 | 191 | 1 | ruili0/LLaVA-Video-7B-Qwen2-TPOVideo-Text-to-Text | Updated11 days ago | [Link](https://huggingface.co/ruili0/LLaVA-Video-7B-Qwen2-TPO) |
