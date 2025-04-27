@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-04-26
+Updated on 2025-04-27
 
 > Generated from the Hugging Face database.
 
@@ -228,6 +228,7 @@ Updated on 2025-04-26
 | 7 | Unknown | DavidBrowne17/MuchiAudio-to-Audio | Updatedabout 3 hours ago | [Link](https://huggingface.co/DavidBrowne17/Muchi) |
 | 18 | Unknown | 0x3e9/0x3e9_RVC_modelsAudio-to-Audio | UpdatedFeb 3, 2024 | [Link](https://huggingface.co/0x3e9/0x3e9_RVC_models) |
 | 5 | Unknown | asif00/Kokoro-ConversationalAudio-to-Audio | UpdatedFeb 3 | [Link](https://huggingface.co/asif00/Kokoro-Conversational) |
+| 6 | Unknown | Greenoguy/HigurashiRVCModelsAudio-to-Audio | UpdatedDec 12, 2023 | [Link](https://huggingface.co/Greenoguy/HigurashiRVCModels) |
 
 ## Automatic Speech Recognition
 
@@ -662,6 +663,7 @@ Updated on 2025-04-26
 | 105 | 8 | metga97/Modern-EgyBert-BaseFill-Mask | Updated2 days ago | [Link](https://huggingface.co/metga97/Modern-EgyBert-Base) |
 | 432 | 7 | hfl/minirbt-h288Fill-Mask | UpdatedNov 15, 2022 | [Link](https://huggingface.co/hfl/minirbt-h288) |
 | 8.49k | 4 | multimolecule/rnabertFill-Mask | UpdatedDec 16, 2024 | [Link](https://huggingface.co/multimolecule/rnabert) |
+| 103 | 4 | stjiris/bert-large-portuguese-cased-legal-mlmFill-Mask | UpdatedJan 20 | [Link](https://huggingface.co/stjiris/bert-large-portuguese-cased-legal-mlm) |
 | 1.37k | 3 | makiart/multilingual-ModernBert-base-previewFill-Mask | Updated9 days ago | [Link](https://huggingface.co/makiart/multilingual-ModernBert-base-preview) |
 | 3 | 3 | sbintuitions/modernbert-ja-310mFill-Mask | Updated7 days ago | [Link](https://huggingface.co/sbintuitions/modernbert-ja-310m) |
 | 6 | 3 | sbintuitions/modernbert-ja-30mFill-Mask | Updated7 days ago | [Link](https://huggingface.co/sbintuitions/modernbert-ja-30m) |
@@ -1075,6 +1077,7 @@ Updated on 2025-04-26
 | 3 | 26 | openfree/Gemma-3-R1984-27B-Q8_0-GGUFImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/openfree/Gemma-3-R1984-27B-Q8_0-GGUF) |
 | 4 | 26 | openfree/Gemma-3-R1984-27B-Q6_K-GGUFImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/openfree/Gemma-3-R1984-27B-Q6_K-GGUF) |
 | 3 | 26 | openfree/Mistral-Small-3 | Updatedabout 8 hours ago | [Link](https://huggingface.co/openfree/Mistral-Small-3.1-24B-Instruct-2503-Q8_0-GGUF) |
+| 190 | 26 | facebook/Perception-LM-8BImage-Text-to-Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/facebook/Perception-LM-8B) |
 | 10 | 25 | openfree/Gemma-3-R1984-27B-Q4_K_M-GGUFImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/openfree/Gemma-3-R1984-27B-Q4_K_M-GGUF) |
 | 66 | 25 | google/gemma-3-4b-it-qat-q4_0-ggufImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/google/gemma-3-4b-it-qat-q4_0-gguf) |
 | 280 | 24 | google/paligemma2-28b-mix-448Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-28b-mix-448) |
@@ -1452,6 +1455,7 @@ Updated on 2025-04-26
 | 2 | Unknown | ZheWang123/UniAnimate-DiTImage-to-Video | Updated1 day ago | [Link](https://huggingface.co/ZheWang123/UniAnimate-DiT) |
 | 2 | Unknown | sand-ai/MAGI-1Image-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/sand-ai/MAGI-1) |
 | 2 | Unknown | wsbagnsv1/SkyReels-V2-I2V-14B-540P-GGUFImage-to-Video | Updatedabout 4 hours ago | [Link](https://huggingface.co/wsbagnsv1/SkyReels-V2-I2V-14B-540P-GGUF) |
+| 2 | Unknown | wsbagnsv1/SkyReels-V2-I2V-1 | Updatedabout 5 hours ago | [Link](https://huggingface.co/wsbagnsv1/SkyReels-V2-I2V-1.3B-540P-GGUF) |
 
 ## Keypoint Detection
 
@@ -3075,6 +3079,7 @@ Updated on 2025-04-26
 | 17 | 2 | KoichiYasuoka/bert-base-vietnamese-ud-goeswithToken | UpdatedJan 28 | [Link](https://huggingface.co/KoichiYasuoka/bert-base-vietnamese-ud-goeswith) |
 | 437k | 2 | cahya/NusaBert-ner-v1 | Updated4 days ago | [Link](https://huggingface.co/cahya/NusaBert-ner-v1.3) |
 | 43 | 2 | AI-Enthusiast11/pii-entity-extractorToken | Updatedabout 5 hours ago | [Link](https://huggingface.co/AI-Enthusiast11/pii-entity-extractor) |
+| 52 | 2 | Ishan0612/biobert-ner-diseaseToken | Updatedabout 13 hours ago | [Link](https://huggingface.co/Ishan0612/biobert-ner-disease) |
 | 168 | 1 | dccuchile/distilbert-base-spanish-uncased-finetuned-nerToken | UpdatedJan 6, 2022 | [Link](https://huggingface.co/dccuchile/distilbert-base-spanish-uncased-finetuned-ner) |
 | 102 | 1 | KBLab/bert-base-swedish-cased-reallysimple-nerToken | UpdatedNov 15, 2022 | [Link](https://huggingface.co/KBLab/bert-base-swedish-cased-reallysimple-ner) |
 | 22 | 1 | KoichiYasuoka/roberta-base-japanese-char-luw-uposToken | UpdatedAug 20, 2024 | [Link](https://huggingface.co/KoichiYasuoka/roberta-base-japanese-char-luw-upos) |
@@ -3106,6 +3111,7 @@ Updated on 2025-04-26
 | 3 | Unknown | Ihor/gliner-biomed-large-v1 | Updatedabout 1 hour ago | [Link](https://huggingface.co/Ihor/gliner-biomed-large-v1.0) |
 | 3.26k |  | kontur-ai/sbert_punc_case_ruToken | UpdatedMar 22, 2024 | [Link](https://huggingface.co/kontur-ai/sbert_punc_case_ru) |
 | 5 | Unknown | all-hands/openhands-critic-32b-exp-20250417Token | Updatedabout 12 hours ago | [Link](https://huggingface.co/all-hands/openhands-critic-32b-exp-20250417) |
+| 2 | Unknown | mirth/chonky_modernbert_large_1Token | Updatedabout 7 hours ago | [Link](https://huggingface.co/mirth/chonky_modernbert_large_1) |
 
 ## Translation
 
