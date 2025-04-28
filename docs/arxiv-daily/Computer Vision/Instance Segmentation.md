@@ -12,7 +12,7 @@
 |**2025-04-24**|**Beyond Labels: Zero-Shot Diabetic Foot Ulcer Wound Segmentation with Self-attention Diffusion Models and the Potential for Text-Guided Customization**|Abderrachid Hamrani et.al.|[2504.17628v1](http://arxiv.org/abs/2504.17628v1)|**2025-04-24**|null|
 |**2025-04-24**|**Linear-Time Multilevel Graph Partitioning via Edge Sparsification**|Lars Gottesbüren et.al.|[2504.17615v1](http://arxiv.org/abs/2504.17615v1)|**2025-04-24**|null|
 |**2025-04-24**|**Occlusion-Aware Self-Supervised Monocular Depth Estimation for Weak-Texture Endoscopic Images**|Zebo Huang et.al.|[2504.17582v1](http://arxiv.org/abs/2504.17582v1)|**2025-04-24**|null|
-|**2025-04-24**|**Knapsack with compactness: a semidefinite approach**|Hubert Villuendas et.al.|[2504.17543v1](http://arxiv.org/abs/2504.17543v1)|**2025-04-24**|null|
+|**2025-04-24**|**Knapsack with compactness: a semidefinite approach**|Hubert Villuendas et.al.|[2504.17543v2](http://arxiv.org/abs/2504.17543v2)|**2025-04-25**|null|
 |**2025-04-24**|**Hollow polytopes with many vertices**|Srinivas Arun et.al.|[2504.17530v1](http://arxiv.org/abs/2504.17530v1)|**2025-04-24**|null|
 |**2025-04-24**|**Mamba-Sea: A Mamba-based Framework with Global-to-Local Sequence Augmentation for Generalizable Medical Image Segmentation**|Zihan Cheng et.al.|[2504.17515v1](http://arxiv.org/abs/2504.17515v1)|**2025-04-24**|null|
 |**2025-04-24**|**Goal-Oriented Time-Series Forecasting: Foundation Framework Design**|Luca-Andrei Fechete et.al.|[2504.17493v1](http://arxiv.org/abs/2504.17493v1)|**2025-04-24**|null|
@@ -22,7 +22,7 @@
 |**2025-04-24**|**Edge-weighted Online Stochastic Matching Under Jaillet-Lu LP**|Shuyi Yan et.al.|[2504.17392v1](http://arxiv.org/abs/2504.17392v1)|**2025-04-24**|null|
 |**2025-04-24**|**Mach-Zehnder atom interferometry with non-interacting trapped Bose Einstein condensates**|Tommaso Petrucciani et.al.|[2504.17391v1](http://arxiv.org/abs/2504.17391v1)|**2025-04-24**|null|
 |**2025-04-24**|**Subtrajectory Clustering and Coverage Maximization in Cubic Time, or Better**|Jacobus Conradi et.al.|[2504.17381v1](http://arxiv.org/abs/2504.17381v1)|**2025-04-24**|null|
-|**2025-04-24**|**A Spatially-Aware Multiple Instance Learning Framework for Digital Pathology**|Hassan Keshvarikhojasteh et.al.|[2504.17379v1](http://arxiv.org/abs/2504.17379v1)|**2025-04-24**|null|
+|**2025-04-24**|**A Spatially-Aware Multiple Instance Learning Framework for Digital Pathology**|Hassan Keshvarikhojasteh et.al.|[2504.17379v2](http://arxiv.org/abs/2504.17379v2)|**2025-04-25**|null|
 |**2025-04-24**|**Simple Universally Optimal Dijkstra**|Ivor van der Hoog et.al.|[2504.17327v1](http://arxiv.org/abs/2504.17327v1)|**2025-04-24**|null|
 |**2025-04-24**|**CoheMark: A Novel Sentence-Level Watermark for Enhanced Text Quality**|Junyan Zhang et.al.|[2504.17309v1](http://arxiv.org/abs/2504.17309v1)|**2025-04-24**|null|
 |**2025-04-24**|**Advanced Segmentation of Diabetic Retinopathy Lesions Using DeepLabv3+**|Meher Boulaabi et.al.|[2504.17306v1](http://arxiv.org/abs/2504.17306v1)|**2025-04-24**|null|

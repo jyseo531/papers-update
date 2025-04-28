@@ -18,7 +18,7 @@
 |**2025-04-24**|**Predict-Optimize-Distill: A Self-Improving Cycle for 4D Object Understanding**|Mingxuan Wu et.al.|[2504.17441v1](http://arxiv.org/abs/2504.17441v1)|**2025-04-24**|null|
 |**2025-04-24**|**3DV-TON: Textured 3D-Guided Consistent Video Try-on via Diffusion Models**|Min Wei et.al.|[2504.17414v1](http://arxiv.org/abs/2504.17414v1)|**2025-04-24**|null|
 |**2025-04-24**|**Bias-Eliminated PnP for Stereo Visual Odometry: Provably Consistent and Large-Scale Localization**|Guangyang Zeng et.al.|[2504.17410v1](http://arxiv.org/abs/2504.17410v1)|**2025-04-24**|null|
-|**2025-04-24**|**Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset**|Oussema Dhaouadi et.al.|[2504.17371v1](http://arxiv.org/abs/2504.17371v1)|**2025-04-24**|null|
+|**2025-04-24**|**Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset**|Oussema Dhaouadi et.al.|[2504.17371v2](http://arxiv.org/abs/2504.17371v2)|**2025-04-25**|null|
 |**2025-04-24**|**Physics-based super-resolved simulation of 3D elastic wave propagation adopting scalable Diffusion Transformer**|Hugo Gabrielidis et.al.|[2504.17308v1](http://arxiv.org/abs/2504.17308v1)|**2025-04-24**|null|
 |**2025-04-24**|**Incompressible and fast rotation limits for 3D compressible rotating Euler system with general initial data**|Mikihiro Fujii et.al.|[2504.17290v1](http://arxiv.org/abs/2504.17290v1)|**2025-04-24**|null|
 |**2025-04-24**|**Some remarks on Liouville type theorems for the 3D steady tropical climate model**|Yanyan Dong et.al.|[2504.17285v1](http://arxiv.org/abs/2504.17285v1)|**2025-04-24**|null|

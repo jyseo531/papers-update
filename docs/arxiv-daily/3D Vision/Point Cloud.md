@@ -31,4 +31,4 @@
 |**2025-04-24**|**Doubling modulo odd integers, generalizations, and unexpected occurrences**|Jean-Paul Allouche et.al.|[2504.17564v1](http://arxiv.org/abs/2504.17564v1)|**2025-04-24**|null|
 |**2025-04-24**|**Spectral properties of the Laplacian of Scale-Free Percolation models**|Rajat Subhra Hazra et.al.|[2504.17552v1](http://arxiv.org/abs/2504.17552v1)|**2025-04-24**|null|
 |**2025-04-24**|**Quantum Autoencoder for Multivariate Time Series Anomaly Detection**|Kilian Tscharke et.al.|[2504.17548v1](http://arxiv.org/abs/2504.17548v1)|**2025-04-24**|null|
-|**2025-04-24**|**Knapsack with compactness: a semidefinite approach**|Hubert Villuendas et.al.|[2504.17543v1](http://arxiv.org/abs/2504.17543v1)|**2025-04-24**|null|
+|**2025-04-24**|**Knapsack with compactness: a semidefinite approach**|Hubert Villuendas et.al.|[2504.17543v2](http://arxiv.org/abs/2504.17543v2)|**2025-04-25**|null|
