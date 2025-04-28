@@ -2,33 +2,33 @@
 ### Transformer
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-24**|**Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models**|Xu Ma et.al.|[2504.17789v1](http://arxiv.org/abs/2504.17789v1)|**2025-04-24**|null|
-|**2025-04-24**|**The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs**|Piotr Nawrot et.al.|[2504.17768v1](http://arxiv.org/abs/2504.17768v1)|**2025-04-24**|null|
-|**2025-04-24**|**Embedding Empirical Distributions for Computing Optimal Transport Maps**|Mingchen Jiang et.al.|[2504.17740v1](http://arxiv.org/abs/2504.17740v1)|**2025-04-24**|null|
-|**2025-04-24**|**Early Detection of Multidrug Resistance Using Multivariate Time Series Analysis and Interpretable Patient-Similarity Representations**|Óscar Escudero-Arnanz et.al.|[2504.17717v1](http://arxiv.org/abs/2504.17717v1)|**2025-04-24**|null|
-|**2025-04-24**|**Inverse problem in the LaMET framework**|Hervé Dutrieux et.al.|[2504.17706v1](http://arxiv.org/abs/2504.17706v1)|**2025-04-24**|null|
-|**2025-04-24**|**Federated Learning: A Survey on Privacy-Preserving Collaborative Intelligence**|Edward Collins et.al.|[2504.17703v1](http://arxiv.org/abs/2504.17703v1)|**2025-04-24**|null|
-|**2025-04-24**|**Real-space superconducting properties in the atomically-thin limit: Ab initio approach and its application to Josephson junctions**|Jonas Bekaert et.al.|[2504.17702v1](http://arxiv.org/abs/2504.17702v1)|**2025-04-24**|null|
-|**2025-04-24**|**BIM-Constrained Optimization for Accurate Localization and Deviation Correction in Construction Monitoring**|Asier Bikandi et.al.|[2504.17693v1](http://arxiv.org/abs/2504.17693v1)|**2025-04-24**|null|
-|**2025-04-24**|**Towards a HIPAA Compliant Agentic AI System in Healthcare**|Subash Neupane et.al.|[2504.17669v1](http://arxiv.org/abs/2504.17669v1)|**2025-04-24**|null|
-|**2025-04-24**|**Seamless Data Migration between Database Schemas with DAMI-Framework: An Empirical Study on Developer Experience**|Delfina Ramos-Vidal et.al.|[2504.17662v1](http://arxiv.org/abs/2504.17662v1)|**2025-04-24**|null|
-|**2025-04-24**|**Aerial Image Classification in Scarce and Unconstrained Environments via Conformal Prediction**|Farhad Pourkamali-Anaraki et.al.|[2504.17655v1](http://arxiv.org/abs/2504.17655v1)|**2025-04-24**|null|
-|**2025-04-24**|**Geometry-induced asymmetric level coupling**|Alhun Aydin et.al.|[2504.17630v1](http://arxiv.org/abs/2504.17630v1)|**2025-04-24**|null|
-|**2025-04-24**|**Beyond Labels: Zero-Shot Diabetic Foot Ulcer Wound Segmentation with Self-attention Diffusion Models and the Potential for Text-Guided Customization**|Abderrachid Hamrani et.al.|[2504.17628v1](http://arxiv.org/abs/2504.17628v1)|**2025-04-24**|null|
-|**2025-04-24**|**Decentralized Time Series Classification with ROCKET Features**|Bruno Casella et.al.|[2504.17617v1](http://arxiv.org/abs/2504.17617v1)|**2025-04-24**|null|
-|**2025-04-24**|**Bolt: Clothing Virtual Characters at Scale**|Jonathan Leaf et.al.|[2504.17614v1](http://arxiv.org/abs/2504.17614v1)|**2025-04-24**|null|
-|**2025-04-24**|**Interpretable non-linear dimensionality reduction using gaussian weighted linear transformation**|Erik Bergh et.al.|[2504.17601v1](http://arxiv.org/abs/2504.17601v1)|**2025-04-24**|null|
-|**2025-04-24**|**TSUE: A Two-Stage Data Update Method for an Erasure Coded Cluster File System**|Zheng Wei et.al.|[2504.17598v1](http://arxiv.org/abs/2504.17598v1)|**2025-04-24**|null|
-|**2025-04-24**|**A non-uniform metal distribution in the ram-pressure stripped M86 group of galaxies**|Sinancan Kara et.al.|[2504.17581v1](http://arxiv.org/abs/2504.17581v1)|**2025-04-24**|null|
-|**2025-04-24**|**A Multi-Agent, Laxity-Based Aggregation Strategy for Cost-Effective Electric Vehicle Charging and Local Transformer Overload Prevention**|Kristoffer Christensen et.al.|[2504.17575v1](http://arxiv.org/abs/2504.17575v1)|**2025-04-24**|null|
-|**2025-04-24**|**The Case for External Graph Sketching**|Michael A. Bender et.al.|[2504.17563v1](http://arxiv.org/abs/2504.17563v1)|**2025-04-24**|null|
-|**2025-04-24**|**Coexistence of mixing and rigid behaviors in ergodic theory**|Rigoberto Zelada et.al.|[2504.17555v1](http://arxiv.org/abs/2504.17555v1)|**2025-04-24**|null|
-|**2025-04-24**|**A Comprehensive Survey of Knowledge-Based Vision Question Answering Systems: The Lifecycle of Knowledge in Visual Reasoning Task**|Jiaqi Deng et.al.|[2504.17547v1](http://arxiv.org/abs/2504.17547v1)|**2025-04-24**|null|
-|**2025-04-24**|**Long-time asymptotics of the Sawada-Kotera equation on the line**|Deng-Shan Wang et.al.|[2504.17537v1](http://arxiv.org/abs/2504.17537v1)|**2025-04-24**|null|
-|**2025-04-24**|**Cooperative Task Offloading through Asynchronous Deep Reinforcement Learning in Mobile Edge Computing for Future Networks**|Yuelin Liu et.al.|[2504.17526v1](http://arxiv.org/abs/2504.17526v1)|**2025-04-24**|null|
-|**2025-04-24**|**Admittance Identification of Grid-Forming Inverters Using Time and Frequency-Domain Techniques**|Andres Intriago et.al.|[2504.17512v1](http://arxiv.org/abs/2504.17512v1)|**2025-04-24**|null|
-|**2025-04-24**|**Subcode Ensemble Decoding of Polar Codes**|Henning Lulei et.al.|[2504.17511v1](http://arxiv.org/abs/2504.17511v1)|**2025-04-24**|null|
-|**2025-04-24**|**Auerbach bases, projection constants, and the joint spectral radius of principal submatrices**|Jeremias Epperlein et.al.|[2504.17505v1](http://arxiv.org/abs/2504.17505v1)|**2025-04-24**|null|
-|**2025-04-24**|**Morphisms and BWT-run Sensitivity**|Gabriele Fici et.al.|[2504.17443v1](http://arxiv.org/abs/2504.17443v1)|**2025-04-24**|null|
-|**2025-04-24**|**Towards Leveraging Large Language Model Summaries for Topic Modeling in Source Code**|Michele Carissimi et.al.|[2504.17426v1](http://arxiv.org/abs/2504.17426v1)|**2025-04-24**|null|
-|**2025-04-24**|**A Spatially-Aware Multiple Instance Learning Framework for Digital Pathology**|Hassan Keshvarikhojasteh et.al.|[2504.17379v2](http://arxiv.org/abs/2504.17379v2)|**2025-04-25**|null|
+|**2025-04-25**|**Representation Learning for Distributional Perturbation Extrapolation**|Julius von Kügelgen et.al.|[2504.18522v1](http://arxiv.org/abs/2504.18522v1)|**2025-04-25**|null|
+|**2025-04-25**|**PODNO: Proper Orthogonal Decomposition Neural Operators**|Zilan Cheng et.al.|[2504.18513v1](http://arxiv.org/abs/2504.18513v1)|**2025-04-25**|null|
+|**2025-04-25**|**Facets, Taxonomies, and Syntheses: Navigating Structured Representations in LLM-Assisted Literature Review**|Raymond Fok et.al.|[2504.18496v1](http://arxiv.org/abs/2504.18496v1)|**2025-04-25**|null|
+|**2025-04-25**|**Instrumentation for Better Demonstrations: A Case Study**|Remko Proesmans et.al.|[2504.18481v1](http://arxiv.org/abs/2504.18481v1)|**2025-04-25**|null|
+|**2025-04-25**|**Nature of the 1/3 Magnetization Plateau in Spin-1/2 Kagome Antiferromagnets**|Li-Wei He et.al.|[2504.18480v1](http://arxiv.org/abs/2504.18480v1)|**2025-04-25**|null|
+|**2025-04-25**|**Action Flow Matching for Continual Robot Learning**|Alejandro Murillo-Gonzalez et.al.|[2504.18471v1](http://arxiv.org/abs/2504.18471v1)|**2025-04-25**|null|
+|**2025-04-25**|**Expectation-based Analysis of Higher-Order Quantum Programs**|Martin Avanzini et.al.|[2504.18441v1](http://arxiv.org/abs/2504.18441v1)|**2025-04-25**|null|
+|**2025-04-25**|**Efficiency, Expressivity, and Extensibility in a Close-to-Metal NPU Programming Interface**|Erika Hunhoff et.al.|[2504.18430v1](http://arxiv.org/abs/2504.18430v1)|**2025-04-25**|null|
+|**2025-04-25**|**LLMpatronous: Harnessing the Power of LLMs For Vulnerability Detection**|Rajesh Yarra et.al.|[2504.18423v1](http://arxiv.org/abs/2504.18423v1)|**2025-04-25**|null|
+|**2025-04-25**|**BitNet v2: Native 4-bit Activations with Hadamard Transformation for 1-bit LLMs**|Hongyu Wang et.al.|[2504.18415v1](http://arxiv.org/abs/2504.18415v1)|**2025-04-25**|null|
+|**2025-04-25**|**Paradigm shift on Coding Productivity Using GenAI**|Liang Yu et.al.|[2504.18404v1](http://arxiv.org/abs/2504.18404v1)|**2025-04-25**|null|
+|**2025-04-25**|**Energy Security and Resilience: Reviewing Concepts and Advancing Planning Perspectives for Transforming Integrated Energy Systems**|Richard Schmitz et.al.|[2504.18396v1](http://arxiv.org/abs/2504.18396v1)|**2025-04-25**|null|
+|**2025-04-25**|**Ab initio modeling of TWIP and TRIP effects in $β$-Ti alloys**|David Holec et.al.|[2504.18378v1](http://arxiv.org/abs/2504.18378v1)|**2025-04-25**|null|
+|**2025-04-25**|**Anisotropic Piezomagnetism in Noncollinear Antiferromagnets**|Vu Thi Ngoc Huyen et.al.|[2504.18363v1](http://arxiv.org/abs/2504.18363v1)|**2025-04-25**|null|
+|**2025-04-25**|**Comparing Uncertainty Measurement and Mitigation Methods for Large Language Models: A Systematic Review**|Toghrul Abbasli et.al.|[2504.18346v1](http://arxiv.org/abs/2504.18346v1)|**2025-04-25**|null|
+|**2025-04-25**|**Controlling the sign of optical forces using metaoptics**|Adeel Afridi et.al.|[2504.18341v1](http://arxiv.org/abs/2504.18341v1)|**2025-04-25**|null|
+|**2025-04-25**|**Large Language Models to Accelerate Organic Chemistry Synthesis**|Yu Zhang et.al.|[2504.18340v1](http://arxiv.org/abs/2504.18340v1)|**2025-04-25**|null|
+|**2025-04-25**|**SSD-Poser: Avatar Pose Estimation with State Space Duality from Sparse Observations**|Shuting Zhao et.al.|[2504.18332v1](http://arxiv.org/abs/2504.18332v1)|**2025-04-25**|null|
+|**2025-04-25**|**Depth3DLane: Monocular 3D Lane Detection via Depth Prior Distillation**|Dongxin Lyu et.al.|[2504.18325v1](http://arxiv.org/abs/2504.18325v1)|**2025-04-25**|null|
+|**2025-04-25**|**Ergodic theorems for bilinear averages, Roth's Theorem and Corners along fractional powers**|Leonidas Daskalakis et.al.|[2504.18307v1](http://arxiv.org/abs/2504.18307v1)|**2025-04-25**|null|
+|**2025-04-25**|**Sharp decay estimates and numerical analysis for weakly coupled systems of two subdiffusion equations**|Zhiyuan Li et.al.|[2504.18295v1](http://arxiv.org/abs/2504.18295v1)|**2025-04-25**|null|
+|**2025-04-25**|**Pathwise Itô isometry for scaled quadratic variation**|Suprio Bhar et.al.|[2504.18290v1](http://arxiv.org/abs/2504.18290v1)|**2025-04-25**|null|
+|**2025-04-25**|**Clustering of return words in languages of interval exchanges**|Francesco Dolce et.al.|[2504.18280v1](http://arxiv.org/abs/2504.18280v1)|**2025-04-25**|null|
+|**2025-04-25**|**Studying Small Language Models with Susceptibilities**|Garrett Baker et.al.|[2504.18274v1](http://arxiv.org/abs/2504.18274v1)|**2025-04-25**|null|
+|**2025-04-25**|**MAGI: Multi-Agent Guided Interview for Psychiatric Assessment**|Guanqun Bi et.al.|[2504.18260v1](http://arxiv.org/abs/2504.18260v1)|**2025-04-25**|null|
+|**2025-04-25**|**Time and Frequency Domain-based Anomaly Detection in Smart Meter Data for Distribution Network Studies**|Petar Labura et.al.|[2504.18231v1](http://arxiv.org/abs/2504.18231v1)|**2025-04-25**|null|
+|**2025-04-25**|**Local symmetry and extended spacetime**|Peter West et.al.|[2504.18229v1](http://arxiv.org/abs/2504.18229v1)|**2025-04-25**|null|
+|**2025-04-25**|**Recent progress on pointwise normality of self-similar measures**|Amir Algom et.al.|[2504.18192v1](http://arxiv.org/abs/2504.18192v1)|**2025-04-25**|null|
+|**2025-04-25**|**Incoherent population trapping in quantum emitters**|Sergei Lepeshov et.al.|[2504.18187v1](http://arxiv.org/abs/2504.18187v1)|**2025-04-25**|null|
+|**2025-04-25**|**Leveraging Decoder Architectures for Learned Sparse Retrieval**|Jingfen Qiao et.al.|[2504.18151v1](http://arxiv.org/abs/2504.18151v1)|**2025-04-25**|null|

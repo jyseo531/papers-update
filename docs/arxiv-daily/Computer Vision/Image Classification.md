@@ -2,33 +2,33 @@
 ### Image Classification
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-24**|**Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models**|Xu Ma et.al.|[2504.17789v1](http://arxiv.org/abs/2504.17789v1)|**2025-04-24**|null|
-|**2025-04-24**|**Silenzio: Secure Non-Interactive Outsourced MLP Training**|Jonas Sander et.al.|[2504.17785v1](http://arxiv.org/abs/2504.17785v1)|**2025-04-24**|null|
-|**2025-04-24**|**Nanoscale infrared and microwave imaging of stacking faults in multilayer graphene**|Ludwig Holleis et.al.|[2504.17783v1](http://arxiv.org/abs/2504.17783v1)|**2025-04-24**|null|
-|**2025-04-24**|**Step1X-Edit: A Practical Framework for General Image Editing**|Shiyu Liu et.al.|[2504.17761v1](http://arxiv.org/abs/2504.17761v1)|**2025-04-24**|null|
-|**2025-04-24**|**Disaggregated Deep Learning via In-Physics Computing at Radio Frequency**|Zhihui Gao et.al.|[2504.17752v1](http://arxiv.org/abs/2504.17752v1)|**2025-04-24**|null|
-|**2025-04-24**|**Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN**|Enqi Zhang et.al.|[2504.17751v1](http://arxiv.org/abs/2504.17751v1)|**2025-04-24**|null|
-|**2025-04-24**|**MSGCN: Multiplex Spatial Graph Convolution Network for Interlayer Link Weight Prediction**|Steven E. Wilson et.al.|[2504.17749v1](http://arxiv.org/abs/2504.17749v1)|**2025-04-24**|null|
-|**2025-04-24**|**Interpretable Early Detection of Parkinson's Disease through Speech Analysis**|Lorenzo Simone et.al.|[2504.17739v1](http://arxiv.org/abs/2504.17739v1)|**2025-04-24**|null|
-|**2025-04-24**|**DPMambaIR:All-in-One Image Restoration via Degradation-Aware Prompt State Space Model**|Zhanwen Liu et.al.|[2504.17732v1](http://arxiv.org/abs/2504.17732v1)|**2025-04-24**|null|
-|**2025-04-24**|**CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos**|Shucheng Gong et.al.|[2504.17728v1](http://arxiv.org/abs/2504.17728v1)|**2025-04-24**|null|
-|**2025-04-24**|**Optical to infrared mapping of vapor-to-liquid phase change dynamics using generative machine learning**|Siavash Khodakarami et.al.|[2504.17726v1](http://arxiv.org/abs/2504.17726v1)|**2025-04-24**|null|
-|**2025-04-24**|**Unsupervised EEG-based decoding of absolute auditory attention with canonical correlation analysis**|Nicolas Heintz et.al.|[2504.17724v1](http://arxiv.org/abs/2504.17724v1)|**2025-04-24**|null|
-|**2025-04-24**|**Conformal Segmentation in Industrial Surface Defect Detection with Statistical Guarantees**|Cheng Shen et.al.|[2504.17721v1](http://arxiv.org/abs/2504.17721v1)|**2025-04-24**|null|
-|**2025-04-24**|**Evaluating Uncertainty in Deep Gaussian Processes**|Matthijs van der Lende et.al.|[2504.17719v1](http://arxiv.org/abs/2504.17719v1)|**2025-04-24**|null|
-|**2025-04-24**|**Early Detection of Multidrug Resistance Using Multivariate Time Series Analysis and Interpretable Patient-Similarity Representations**|Óscar Escudero-Arnanz et.al.|[2504.17717v1](http://arxiv.org/abs/2504.17717v1)|**2025-04-24**|null|
-|**2025-04-24**|**Generative Fields: Uncovering Hierarchical Feature Control for StyleGAN via Inverted Receptive Fields**|Zhuo He et.al.|[2504.17712v1](http://arxiv.org/abs/2504.17712v1)|**2025-04-24**|null|
-|**2025-04-24**|**Quadratic Interest Network for Multimodal Click-Through Rate Prediction**|Honghao Li et.al.|[2504.17699v2](http://arxiv.org/abs/2504.17699v2)|**2025-04-25**|null|
-|**2025-04-24**|**Self-Supervised Noise Adaptive MRI Denoising via Repetition to Repetition (Rep2Rep) Learning**|Nikola Janjušević et.al.|[2504.17698v1](http://arxiv.org/abs/2504.17698v1)|**2025-04-24**|null|
-|**2025-04-24**|**PICO: Reconstructing 3D People In Contact with Objects**|Alpár Cseke et.al.|[2504.17695v1](http://arxiv.org/abs/2504.17695v1)|**2025-04-24**|null|
-|**2025-04-24**|**The Hubble Image Similarity Project**|Richard L. White et.al.|[2504.17688v1](http://arxiv.org/abs/2504.17688v1)|**2025-04-24**|null|
-|**2025-04-24**|**DiMeR: Disentangled Mesh Reconstruction Model**|Lutao Jiang et.al.|[2504.17670v1](http://arxiv.org/abs/2504.17670v1)|**2025-04-24**|null|
-|**2025-04-24**|**Spectral Irradiance Variability in Lyman-Alpha Emission During Solar Flares**|Luke Majury et.al.|[2504.17667v1](http://arxiv.org/abs/2504.17667v1)|**2025-04-24**|null|
-|**2025-04-24**|**On Multivariate Financial Time Series Classification**|Grégory Bournassenko et.al.|[2504.17664v1](http://arxiv.org/abs/2504.17664v1)|**2025-04-24**|null|
-|**2025-04-24**|**The Malicious Technical Ecosystem: Exposing Limitations in Technical Governance of AI-Generated Non-Consensual Intimate Images of Adults**|Michelle L. Ding et.al.|[2504.17663v1](http://arxiv.org/abs/2504.17663v1)|**2025-04-24**|null|
-|**2025-04-24**|**Aerial Image Classification in Scarce and Unconstrained Environments via Conformal Prediction**|Farhad Pourkamali-Anaraki et.al.|[2504.17655v1](http://arxiv.org/abs/2504.17655v1)|**2025-04-24**|null|
-|**2025-04-24**|**Towards a comprehensive taxonomy of online abusive language informed by machine leaning**|Samaneh Hosseini Moghaddam et.al.|[2504.17653v1](http://arxiv.org/abs/2504.17653v1)|**2025-04-24**|null|
-|**2025-04-24**|**CLIPSE -- a minimalistic CLIP-based image search engine for research**|Steve Göring et.al.|[2504.17643v1](http://arxiv.org/abs/2504.17643v1)|**2025-04-24**|[link](https://github.com/stg7/clipse)|
-|**2025-04-24**|**PTCL: Pseudo-Label Temporal Curriculum Learning for Label-Limited Dynamic Graph**|Shengtao Zhang et.al.|[2504.17641v2](http://arxiv.org/abs/2504.17641v2)|**2025-04-25**|null|
-|**2025-04-24**|**A Guide to Structureless Visual Localization**|Vojtech Panek et.al.|[2504.17636v1](http://arxiv.org/abs/2504.17636v1)|**2025-04-24**|null|
-|**2025-04-24**|**Quantifying jet-interstellar medium interactions in Cyg X-1: Insights from dual-frequency bow shock detection with MeerKAT**|P. Atri et.al.|[2504.17635v1](http://arxiv.org/abs/2504.17635v1)|**2025-04-24**|null|
+|**2025-04-25**|**Automating Nanoindentation: Optimizing Workflows for Precision and Accuracy**|Vivek Chawla et.al.|[2504.18525v1](http://arxiv.org/abs/2504.18525v1)|**2025-04-25**|null|
+|**2025-04-25**|**Augmenting Perceptual Super-Resolution via Image Quality Predictors**|Fengjia Zhang et.al.|[2504.18524v1](http://arxiv.org/abs/2504.18524v1)|**2025-04-25**|null|
+|**2025-04-25**|**RSFR: A Coarse-to-Fine Reconstruction Framework for Diffusion Tensor Cardiac MRI with Semantic-Aware Refinement**|Jiahao Huang et.al.|[2504.18520v1](http://arxiv.org/abs/2504.18520v1)|**2025-04-25**|null|
+|**2025-04-25**|**Co-Change Graph Entropy: A New Process Metric for Defect Prediction**|Ethari Hrishikesh et.al.|[2504.18511v1](http://arxiv.org/abs/2504.18511v1)|**2025-04-25**|null|
+|**2025-04-25**|**Examining the Impact of Optical Aberrations to Image Classification and Object Detection Models**|Patrick Müller et.al.|[2504.18510v1](http://arxiv.org/abs/2504.18510v1)|**2025-04-25**|null|
+|**2025-04-25**|**SymTFT, Protected Gaplessness, and Spontaneous Breaking of Non-invertible Symmetries**|Michele Del Zotto et.al.|[2504.18501v1](http://arxiv.org/abs/2504.18501v1)|**2025-04-25**|null|
+|**2025-04-25**|**TopSpace: spatial topic modeling for unsupervised discovery of multicellular spatial tissue structures in multiplex imaging**|Junsouk Choi et.al.|[2504.18495v1](http://arxiv.org/abs/2504.18495v1)|**2025-04-25**|null|
+|**2025-04-25**|**An Improved ResNet50 Model for Predicting Pavement Condition Index (PCI) Directly from Pavement Images**|Andrews Danyo et.al.|[2504.18490v1](http://arxiv.org/abs/2504.18490v1)|**2025-04-25**|null|
+|**2025-04-25**|**Quasi-Einstein structures and Hitchin's equations**|Alex Colling et.al.|[2504.18475v1](http://arxiv.org/abs/2504.18475v1)|**2025-04-25**|null|
+|**2025-04-25**|**A Novel Taxonomy and Classification Scheme for Code Smell Interactions**|Ruchin Gupta et.al.|[2504.18469v1](http://arxiv.org/abs/2504.18469v1)|**2025-04-25**|null|
+|**2025-04-25**|**Swash flow due to obliquely incident bores**|Hyungyu Sung et.al.|[2504.18467v1](http://arxiv.org/abs/2504.18467v1)|**2025-04-25**|null|
+|**2025-04-25**|**A Taylor Series Approach to Correction of Input Errors in Gaussian Process Regression**|Muzaffar Qureshi et.al.|[2504.18463v1](http://arxiv.org/abs/2504.18463v1)|**2025-04-25**|null|
+|**2025-04-25**|**Pseudo-Asynchronous Local SGD: Robust and Efficient Data-Parallel Training**|Hiroki Naganuma et.al.|[2504.18454v1](http://arxiv.org/abs/2504.18454v1)|**2025-04-25**|null|
+|**2025-04-25**|**Iterative Event-based Motion Segmentation by Variational Contrast Maximization**|Ryo Yamaki et.al.|[2504.18447v1](http://arxiv.org/abs/2504.18447v1)|**2025-04-25**|null|
+|**2025-04-25**|**MROP: Modulated Rank-One Projections for compressive radio interferometric imaging**|Olivier Leblanc et.al.|[2504.18446v1](http://arxiv.org/abs/2504.18446v1)|**2025-04-25**|null|
+|**2025-04-25**|**Nearly isotropic segmentation for medial temporal lobe subregions in multi-modality MRI**|Yue Li et.al.|[2504.18442v1](http://arxiv.org/abs/2504.18442v1)|**2025-04-25**|null|
+|**2025-04-25**|**An Axiomatic Assessment of Entropy- and Variance-based Uncertainty Quantification in Regression**|Christopher Bülte et.al.|[2504.18433v1](http://arxiv.org/abs/2504.18433v1)|**2025-04-25**|null|
+|**2025-04-25**|**LaRI: Layered Ray Intersections for Single-view 3D Geometric Reasoning**|Rui Li et.al.|[2504.18424v1](http://arxiv.org/abs/2504.18424v1)|**2025-04-25**|null|
+|**2025-04-25**|**A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection**|Carlo Sgaravatti et.al.|[2504.18419v1](http://arxiv.org/abs/2504.18419v1)|**2025-04-25**|null|
+|**2025-04-25**|**HRScene: How Far Are VLMs from Effective High-Resolution Image Understanding?**|Yusen Zhang et.al.|[2504.18406v1](http://arxiv.org/abs/2504.18406v1)|**2025-04-25**|null|
+|**2025-04-25**|**HepatoGEN: Generating Hepatobiliary Phase MRI with Perceptual and Adversarial Models**|Jens Hooge et.al.|[2504.18405v1](http://arxiv.org/abs/2504.18405v1)|**2025-04-25**|null|
+|**2025-04-25**|**Analytic solution for the nonlinear response of magnetic nanoparticles to large amplitude oscillatory fields**|Patrick Ilg et.al.|[2504.18402v1](http://arxiv.org/abs/2504.18402v1)|**2025-04-25**|null|
+|**2025-04-25**|**A Multimodal Deep Learning Approach for White Matter Shape Prediction in Diffusion MRI Tractography**|Yui Lo et.al.|[2504.18400v1](http://arxiv.org/abs/2504.18400v1)|**2025-04-25**|null|
+|**2025-04-25**|**Partition Map-Based Fast Block Partitioning for VVC Inter Coding**|Xinmin Feng et.al.|[2504.18398v1](http://arxiv.org/abs/2504.18398v1)|**2025-04-25**|null|
+|**2025-04-25**|**Unsupervised Visual Chain-of-Thought Reasoning via Preference Optimization**|Kesen Zhao et.al.|[2504.18397v1](http://arxiv.org/abs/2504.18397v1)|**2025-04-25**|null|
+|**2025-04-25**|**Energy Security and Resilience: Reviewing Concepts and Advancing Planning Perspectives for Transforming Integrated Energy Systems**|Richard Schmitz et.al.|[2504.18396v1](http://arxiv.org/abs/2504.18396v1)|**2025-04-25**|null|
+|**2025-04-25**|**Spatial Reasoner: A 3D Inference Pipeline for XR Applications**|Steven Häsler et.al.|[2504.18380v1](http://arxiv.org/abs/2504.18380v1)|**2025-04-25**|null|
+|**2025-04-25**|**COCO-Inpaint: A Benchmark for Image Inpainting Detection and Manipulation Localization**|Haozhen Yan et.al.|[2504.18361v1](http://arxiv.org/abs/2504.18361v1)|**2025-04-25**|null|
+|**2025-04-25**|**Interpretable Affordance Detection on 3D Point Clouds with Probabilistic Prototypes**|Maximilian Xiling Li et.al.|[2504.18355v1](http://arxiv.org/abs/2504.18355v1)|**2025-04-25**|null|
+|**2025-04-25**|**Revisiting Data Auditing in Large Vision-Language Models**|Hongyu Zhu et.al.|[2504.18349v1](http://arxiv.org/abs/2504.18349v1)|**2025-04-25**|null|

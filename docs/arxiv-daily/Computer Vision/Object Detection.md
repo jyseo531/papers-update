@@ -2,33 +2,33 @@
 ### Object Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-24**|**LiDPM: Rethinking Point Diffusion for Lidar Scene Completion**|Tetiana Martyniuk et.al.|[2504.17791v1](http://arxiv.org/abs/2504.17791v1)|**2025-04-24**|null|
-|**2025-04-24**|**Gripper Keypose and Object Pointflow as Interfaces for Bimanual Robotic Manipulation**|Yuyin Yang et.al.|[2504.17784v1](http://arxiv.org/abs/2504.17784v1)|**2025-04-24**|null|
-|**2025-04-24**|**Search for Quasar Pairs with ${\it Gaia}$ Astrometric Data. I. Method and Candidates**|Qihang Chen et.al.|[2504.17777v1](http://arxiv.org/abs/2504.17777v1)|**2025-04-24**|null|
-|**2025-04-24**|**Fitting Tree Metrics and Ultrametrics in Data Streams**|Amir Carmel et.al.|[2504.17776v1](http://arxiv.org/abs/2504.17776v1)|**2025-04-24**|null|
-|**2025-04-24**|**Estimating the BFKL effects on the vector meson + jet production in photon - induced interactions at the LHC**|João V. Bulhões et.al.|[2504.17766v1](http://arxiv.org/abs/2504.17766v1)|**2025-04-24**|null|
-|**2025-04-24**|**Measurements of inclusive and differential Higgs boson production cross sections at $\sqrt{s}$ = 13.6 TeV in the H $\to$ $γγ$ decay channel**|CMS Collaboration et.al.|[2504.17755v1](http://arxiv.org/abs/2504.17755v1)|**2025-04-24**|null|
-|**2025-04-24**|**Disaggregated Deep Learning via In-Physics Computing at Radio Frequency**|Zhihui Gao et.al.|[2504.17752v1](http://arxiv.org/abs/2504.17752v1)|**2025-04-24**|null|
-|**2025-04-24**|**Pure Chromo-Natural Inflation: Signatures of Particle Production from Weak to Strong Backreaction**|Ema Dimastrogiovanni et.al.|[2504.17750v1](http://arxiv.org/abs/2504.17750v1)|**2025-04-24**|null|
-|**2025-04-24**|**Flux tube clustering from magnetic coupling of adjacent type-I and -II superconductors in a neutron star: persistent gravitational radiation**|K. H. Thong et.al.|[2504.17746v1](http://arxiv.org/abs/2504.17746v1)|**2025-04-24**|null|
-|**2025-04-24**|**Multi-messenger standard-siren cosmology for third-generation gravitational-wave detectors: Considering observations of gamma-ray bursts and kilonovae**|Tao Han et.al.|[2504.17741v1](http://arxiv.org/abs/2504.17741v1)|**2025-04-24**|null|
-|**2025-04-24**|**Fuzzy clustering and community detection: an integrated approach**|Domenico Cangemi et.al.|[2504.17733v1](http://arxiv.org/abs/2504.17733v1)|**2025-04-24**|null|
-|**2025-04-24**|**Early Detection of Multidrug Resistance Using Multivariate Time Series Analysis and Interpretable Patient-Similarity Representations**|Óscar Escudero-Arnanz et.al.|[2504.17717v1](http://arxiv.org/abs/2504.17717v1)|**2025-04-24**|null|
-|**2025-04-24**|**Operational experience and performance of the Silicon Vertex Detector after the first long shutdown of Belle II**|K. Ravindran et.al.|[2504.17715v1](http://arxiv.org/abs/2504.17715v1)|**2025-04-24**|null|
-|**2025-04-24**|**Pushing the frontiers of subexponential FPT time for Feedback Vertex Set**|Gaétan Berthe et.al.|[2504.17708v1](http://arxiv.org/abs/2504.17708v1)|**2025-04-24**|null|
-|**2025-04-24**|**Network Sampling: An Overview and Comparative Analysis**|Quoc Chuong Nguyen et.al.|[2504.17701v1](http://arxiv.org/abs/2504.17701v1)|**2025-04-24**|null|
-|**2025-04-24**|**PICO: Reconstructing 3D People In Contact with Objects**|Alpár Cseke et.al.|[2504.17695v1](http://arxiv.org/abs/2504.17695v1)|**2025-04-24**|null|
-|**2025-04-24**|**Evaluating the Vulnerability of ML-Based Ethereum Phishing Detectors to Single-Feature Adversarial Perturbations**|Ahod Alghuried et.al.|[2504.17684v1](http://arxiv.org/abs/2504.17684v1)|**2025-04-24**|null|
-|**2025-04-24**|**DiMeR: Disentangled Mesh Reconstruction Model**|Lutao Jiang et.al.|[2504.17670v1](http://arxiv.org/abs/2504.17670v1)|**2025-04-24**|null|
-|**2025-04-24**|**Seamless Data Migration between Database Schemas with DAMI-Framework: An Empirical Study on Developer Experience**|Delfina Ramos-Vidal et.al.|[2504.17662v1](http://arxiv.org/abs/2504.17662v1)|**2025-04-24**|null|
-|**2025-04-24**|**Hot Diggity Dog: A complete analysis of the extreme molecular gas and dust properties at kpc scales in the hyper-luminous hot, dust-obscured galaxy W2246-0526**|Kevin C. Harrington et.al.|[2504.17639v1](http://arxiv.org/abs/2504.17639v1)|**2025-04-24**|null|
-|**2025-04-24**|**Quantifying jet-interstellar medium interactions in Cyg X-1: Insights from dual-frequency bow shock detection with MeerKAT**|P. Atri et.al.|[2504.17635v1](http://arxiv.org/abs/2504.17635v1)|**2025-04-24**|null|
-|**2025-04-24**|**Modular Cosmic Ray Detector (MCORD) and its Potential Use in Various Physics Experiments, Astrophysics and Geophysics**|M. Bielewicz et.al.|[2504.17631v1](http://arxiv.org/abs/2504.17631v1)|**2025-04-24**|null|
-|**2025-04-24**|**Improving Open-World Object Localization by Discovering Background**|Ashish Singh et.al.|[2504.17626v1](http://arxiv.org/abs/2504.17626v1)|**2025-04-24**|null|
-|**2025-04-24**|**Likelihood-Free Variational Autoencoders**|Chen Xu et.al.|[2504.17622v1](http://arxiv.org/abs/2504.17622v1)|**2025-04-24**|null|
-|**2025-04-24**|**Extending quantum correlations to arbitrary distances via parallel repetition of routed Bell tests**|Anubhav Chaturvedi et.al.|[2504.17621v1](http://arxiv.org/abs/2504.17621v1)|**2025-04-24**|null|
-|**2025-04-24**|**Evidence for neutron-induced $\boldsymbolγ$-ray emissions in the vicinity of the $\boldsymbol{Q}$ value of $^{76}\text{Ge}$ $0νββ$ decay**|Marie Pichotta et.al.|[2504.17591v1](http://arxiv.org/abs/2504.17591v1)|**2025-04-24**|null|
-|**2025-04-24**|**Enhancing gravitational-wave detection: a machine learning pipeline combination approach with robust uncertainty quantification**|Gregory Ashton et.al.|[2504.17587v1](http://arxiv.org/abs/2504.17587v1)|**2025-04-24**|null|
-|**2025-04-24**|**Linear Test Approach to Global Controllability of Higher-Order Nonlinear Dispersive Equations with Finite-Dimensional Control**|Debanjit Mondal et.al.|[2504.17580v1](http://arxiv.org/abs/2504.17580v1)|**2025-04-24**|null|
-|**2025-04-24**|**The quest for high-redshift radio galaxies. I. A pilot spectroscopic study**|Alessandro Capetti et.al.|[2504.17572v1](http://arxiv.org/abs/2504.17572v1)|**2025-04-24**|null|
-|**2025-04-24**|**Flying through cluttered and dynamic environments with LiDAR**|Huajie Wu et.al.|[2504.17569v1](http://arxiv.org/abs/2504.17569v1)|**2025-04-24**|null|
+|**2025-04-25**|**Automating Nanoindentation: Optimizing Workflows for Precision and Accuracy**|Vivek Chawla et.al.|[2504.18525v1](http://arxiv.org/abs/2504.18525v1)|**2025-04-25**|null|
+|**2025-04-25**|**Examining the Impact of Optical Aberrations to Image Classification and Object Detection Models**|Patrick Müller et.al.|[2504.18510v1](http://arxiv.org/abs/2504.18510v1)|**2025-04-25**|null|
+|**2025-04-25**|**An Unsupervised Machine Learning Approach to Identify Spectral Energy Distribution Outliers: Application to the S-PLUS DR4 data**|F. Quispe-Huaynasi et.al.|[2504.18491v1](http://arxiv.org/abs/2504.18491v1)|**2025-04-25**|null|
+|**2025-04-25**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468v1](http://arxiv.org/abs/2504.18468v1)|**2025-04-25**|null|
+|**2025-04-25**|**Voltage Stability and Control of Electrical Distribution Systems with High Penetration of Power Electronic Converters**|Dionysios Moutevelis et.al.|[2504.18466v1](http://arxiv.org/abs/2504.18466v1)|**2025-04-25**|null|
+|**2025-04-25**|**Iterative Event-based Motion Segmentation by Variational Contrast Maximization**|Ryo Yamaki et.al.|[2504.18447v1](http://arxiv.org/abs/2504.18447v1)|**2025-04-25**|null|
+|**2025-04-25**|**Testing a large size triple GEM detector for the first station of the CBM-Muon Chambers with a high-intensity gamma source at GIF++ under large-area illumination**|Apar Agarwal et.al.|[2504.18445v1](http://arxiv.org/abs/2504.18445v1)|**2025-04-25**|null|
+|**2025-04-25**|**LaRI: Layered Ray Intersections for Single-view 3D Geometric Reasoning**|Rui Li et.al.|[2504.18424v1](http://arxiv.org/abs/2504.18424v1)|**2025-04-25**|null|
+|**2025-04-25**|**A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection**|Carlo Sgaravatti et.al.|[2504.18419v1](http://arxiv.org/abs/2504.18419v1)|**2025-04-25**|null|
+|**2025-04-25**|**Are We on the Same Page? Examining Developer Perception Alignment in Open Source Code Reviews**|Yoseph Berhanu Alebachew et.al.|[2504.18407v1](http://arxiv.org/abs/2504.18407v1)|**2025-04-25**|null|
+|**2025-04-25**|**HRScene: How Far Are VLMs from Effective High-Resolution Image Understanding?**|Yusen Zhang et.al.|[2504.18406v1](http://arxiv.org/abs/2504.18406v1)|**2025-04-25**|null|
+|**2025-04-25**|**Spatial Reasoner: A 3D Inference Pipeline for XR Applications**|Steven Häsler et.al.|[2504.18380v1](http://arxiv.org/abs/2504.18380v1)|**2025-04-25**|null|
+|**2025-04-25**|**Achievable Rates and Error Probability Bounds of Frequency-based Channels of Unlimited Input Resolution**|Ran Tamir et.al.|[2504.18364v1](http://arxiv.org/abs/2504.18364v1)|**2025-04-25**|null|
+|**2025-04-25**|**COCO-Inpaint: A Benchmark for Image Inpainting Detection and Manipulation Localization**|Haozhen Yan et.al.|[2504.18361v1](http://arxiv.org/abs/2504.18361v1)|**2025-04-25**|null|
+|**2025-04-25**|**A Practical Guide to Optimizing Industrial Thermal Spraying through Comparative Multi-Objective Optimization**|Wolfgang Rannetbauer et.al.|[2504.18357v1](http://arxiv.org/abs/2504.18357v1)|**2025-04-25**|null|
+|**2025-04-25**|**Interpretable Affordance Detection on 3D Point Clouds with Probabilistic Prototypes**|Maximilian Xiling Li et.al.|[2504.18355v1](http://arxiv.org/abs/2504.18355v1)|**2025-04-25**|null|
+|**2025-04-25**|**Controlling the sign of optical forces using metaoptics**|Adeel Afridi et.al.|[2504.18341v1](http://arxiv.org/abs/2504.18341v1)|**2025-04-25**|null|
+|**2025-04-25**|**Computing Distances on Graph Associahedra is Fixed-parameter Tractable**|Luís Felipe I. Cunha et.al.|[2504.18338v1](http://arxiv.org/abs/2504.18338v1)|**2025-04-25**|null|
+|**2025-04-25**|**Multi-Sensor Fusion of Active and Passive Measurements for Extended Object Tracking**|Hong Zhu et.al.|[2504.18301v1](http://arxiv.org/abs/2504.18301v1)|**2025-04-25**|null|
+|**2025-04-25**|**Deep Reinforcement Learning Based Navigation with Macro Actions and Topological Maps**|Simon Hakenes et.al.|[2504.18300v1](http://arxiv.org/abs/2504.18300v1)|**2025-04-25**|null|
+|**2025-04-25**|**Optimizing Resource Allocation in a Distributed Quantum Computing Cloud: A Game-Theoretic Approach**|Bernard Ousmane Sane et.al.|[2504.18298v1](http://arxiv.org/abs/2504.18298v1)|**2025-04-25**|null|
+|**2025-04-25**|**Polarization Studies in Different Blazar Types. Part I: Correlation between Optical Brightness and Polarization Degree**|E. A. Shkodkina et.al.|[2504.18297v1](http://arxiv.org/abs/2504.18297v1)|**2025-04-25**|null|
+|**2025-04-25**|**A comprehensive review of classifier probability calibration metrics**|Richard Oliver Lane et.al.|[2504.18278v1](http://arxiv.org/abs/2504.18278v1)|**2025-04-25**|null|
+|**2025-04-25**|**COSINUS model-independent sensitivity to the DAMA/LIBRA dark matter signal**|G. Angloher et.al.|[2504.18263v1](http://arxiv.org/abs/2504.18263v1)|**2025-04-25**|null|
+|**2025-04-25**|**SSL4Eco: A Global Seasonal Dataset for Geospatial Foundation Models in Ecology**|Elena Plekhanova et.al.|[2504.18256v1](http://arxiv.org/abs/2504.18256v1)|**2025-04-25**|null|
+|**2025-04-25**|**SOLIS. XIX. The chemically rich SVS13-B protostellar jet**|C. Codella et.al.|[2504.18255v1](http://arxiv.org/abs/2504.18255v1)|**2025-04-25**|null|
+|**2025-04-25**|**Ice Giants**|Ravit Helled et.al.|[2504.18219v1](http://arxiv.org/abs/2504.18219v1)|**2025-04-25**|null|
+|**2025-04-25**|**An e-MERLIN & EVN radio counterpart to the ultraluminous X-ray source M82 X-1**|D. Williams-Baldwin et.al.|[2504.18217v1](http://arxiv.org/abs/2504.18217v1)|**2025-04-25**|null|
+|**2025-04-25**|**Estimation of the second-order coherence function using quantum reservoir and ensemble methods**|Dogyun Ko et.al.|[2504.18205v1](http://arxiv.org/abs/2504.18205v1)|**2025-04-25**|null|
+|**2025-04-25**|**LiDAR-Guided Monocular 3D Object Detection for Long-Range Railway Monitoring**|Raul David Dominguez Sanchez et.al.|[2504.18203v1](http://arxiv.org/abs/2504.18203v1)|**2025-04-25**|null|

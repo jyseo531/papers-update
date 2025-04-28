@@ -2,33 +2,33 @@
 ### Point Cloud Completion
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-24**|**LiDPM: Rethinking Point Diffusion for Lidar Scene Completion**|Tetiana Martyniuk et.al.|[2504.17791v1](http://arxiv.org/abs/2504.17791v1)|**2025-04-24**|null|
-|**2025-04-24**|**Dynamic Camera Poses and Where to Find Them**|Chris Rockwell et.al.|[2504.17788v1](http://arxiv.org/abs/2504.17788v1)|**2025-04-24**|null|
-|**2025-04-24**|**Emergent fractals in dirty topological crystals**|Daniel J. Salib et.al.|[2504.17786v1](http://arxiv.org/abs/2504.17786v1)|**2025-04-24**|null|
-|**2025-04-24**|**Silenzio: Secure Non-Interactive Outsourced MLP Training**|Jonas Sander et.al.|[2504.17785v1](http://arxiv.org/abs/2504.17785v1)|**2025-04-24**|null|
-|**2025-04-24**|**Nanoscale infrared and microwave imaging of stacking faults in multilayer graphene**|Ludwig Holleis et.al.|[2504.17783v1](http://arxiv.org/abs/2504.17783v1)|**2025-04-24**|null|
-|**2025-04-24**|**Thermal Product Formula for Shear Modes**|Jyotirmoy Bhattacharya et.al.|[2504.17781v1](http://arxiv.org/abs/2504.17781v1)|**2025-04-24**|null|
-|**2025-04-24**|**Fitting Tree Metrics and Ultrametrics in Data Streams**|Amir Carmel et.al.|[2504.17776v1](http://arxiv.org/abs/2504.17776v1)|**2025-04-24**|null|
-|**2025-04-24**|**Extended Scalar Particle Solutions in Black String Spacetimes with Anisotropic Quintessence**|M. L. Deglmann et.al.|[2504.17765v1](http://arxiv.org/abs/2504.17765v1)|**2025-04-24**|null|
-|**2025-04-24**|**Orbifolds, higher dagger structures, and idempotents**|Nils Carqueville et.al.|[2504.17764v1](http://arxiv.org/abs/2504.17764v1)|**2025-04-24**|null|
-|**2025-04-24**|**Geodesic causality in Kerr spacetimes with $|a|\geq M$**|Giulio Sanzeni et.al.|[2504.17763v1](http://arxiv.org/abs/2504.17763v1)|**2025-04-24**|null|
-|**2025-04-24**|**Conversational Assistants to support Heart Failure Patients: comparing a Neurosymbolic Architecture with ChatGPT**|Anuja Tayal et.al.|[2504.17753v1](http://arxiv.org/abs/2504.17753v1)|**2025-04-24**|null|
-|**2025-04-24**|**Asymptotic attraction with algebraic rates toward fronts of dispersive-diffusive Burgers equations**|Milena Stanislavova et.al.|[2504.17745v1](http://arxiv.org/abs/2504.17745v1)|**2025-04-24**|null|
-|**2025-04-24**|**Realization of Temporally Connected Graphs Based on Degree Sequences**|Arnaud Casteigts et.al.|[2504.17743v1](http://arxiv.org/abs/2504.17743v1)|**2025-04-24**|null|
-|**2025-04-24**|**Synchronization of Quasi-Particle Excitations in a Quantum Gas with Cavity-Mediated Interactions**|Gabriele Natale et.al.|[2504.17731v1](http://arxiv.org/abs/2504.17731v1)|**2025-04-24**|null|
-|**2025-04-24**|**Bandstructure of a coupled BEC-cavity system: effects of dissipation and geometry**|David Baur et.al.|[2504.17730v1](http://arxiv.org/abs/2504.17730v1)|**2025-04-24**|null|
-|**2025-04-24**|**Fully-Mixed Virtual Element Method for the Biot Problem**|Michele Botti et.al.|[2504.17729v1](http://arxiv.org/abs/2504.17729v1)|**2025-04-24**|null|
-|**2025-04-24**|**Evaluating Uncertainty in Deep Gaussian Processes**|Matthijs van der Lende et.al.|[2504.17719v1](http://arxiv.org/abs/2504.17719v1)|**2025-04-24**|null|
-|**2025-04-24**|**Online metric TSP**|Christian Bertram et.al.|[2504.17716v1](http://arxiv.org/abs/2504.17716v1)|**2025-04-24**|null|
-|**2025-04-24**|**Applied Sheaf Theory For Multi-agent Artificial Intelligence (Reinforcement Learning) Systems: A Prospectus**|Eric Schmid et.al.|[2504.17700v1](http://arxiv.org/abs/2504.17700v1)|**2025-04-24**|null|
-|**2025-04-24**|**Nonlinear Derivative-free Constrained Optimization with a Penalty-Interior Point Method and Direct Search**|Andrea Brilli et.al.|[2504.17682v1](http://arxiv.org/abs/2504.17682v1)|**2025-04-24**|null|
-|**2025-04-24**|**Long-range four-body interactions in the Hamiltonian mean field model**|Qiang Zhang et.al.|[2504.17681v1](http://arxiv.org/abs/2504.17681v1)|**2025-04-24**|null|
-|**2025-04-24**|**Time-reversed Stochastic Inflation**|Baptiste Blachier et.al.|[2504.17680v1](http://arxiv.org/abs/2504.17680v1)|**2025-04-24**|null|
-|**2025-04-24**|**Optimized Cloud Resource Allocation Using Genetic Algorithms for Energy Efficiency and QoS Assurance**|Caroline Panggabean et.al.|[2504.17675v1](http://arxiv.org/abs/2504.17675v1)|**2025-04-24**|null|
-|**2025-04-24**|**On an infinitesimal Polyakov formula for genus zero polyhedra**|Alexey Kokotov et.al.|[2504.17652v1](http://arxiv.org/abs/2504.17652v1)|**2025-04-24**|null|
-|**2025-04-24**|**PTCL: Pseudo-Label Temporal Curriculum Learning for Label-Limited Dynamic Graph**|Shengtao Zhang et.al.|[2504.17641v2](http://arxiv.org/abs/2504.17641v2)|**2025-04-25**|null|
-|**2025-04-24**|**Hot Diggity Dog: A complete analysis of the extreme molecular gas and dust properties at kpc scales in the hyper-luminous hot, dust-obscured galaxy W2246-0526**|Kevin C. Harrington et.al.|[2504.17639v1](http://arxiv.org/abs/2504.17639v1)|**2025-04-24**|null|
-|**2025-04-24**|**A Guide to Structureless Visual Localization**|Vojtech Panek et.al.|[2504.17636v1](http://arxiv.org/abs/2504.17636v1)|**2025-04-24**|null|
-|**2025-04-24**|**Quantifying jet-interstellar medium interactions in Cyg X-1: Insights from dual-frequency bow shock detection with MeerKAT**|P. Atri et.al.|[2504.17635v1](http://arxiv.org/abs/2504.17635v1)|**2025-04-24**|null|
-|**2025-04-24**|**Enhancing CNNs robustness to occlusions with bioinspired filters for border completion**|Catarina P. Coutinho et.al.|[2504.17619v1](http://arxiv.org/abs/2504.17619v1)|**2025-04-24**|null|
-|**2025-04-24**|**Decentralized Time Series Classification with ROCKET Features**|Bruno Casella et.al.|[2504.17617v1](http://arxiv.org/abs/2504.17617v1)|**2025-04-24**|null|
+|**2025-04-25**|**Scaling Laws For Scalable Oversight**|Joshua Engels et.al.|[2504.18530v1](http://arxiv.org/abs/2504.18530v1)|**2025-04-25**|null|
+|**2025-04-25**|**Inflationary background renormalization**|Jason Kristiano et.al.|[2504.18514v1](http://arxiv.org/abs/2504.18514v1)|**2025-04-25**|null|
+|**2025-04-25**|**PODNO: Proper Orthogonal Decomposition Neural Operators**|Zilan Cheng et.al.|[2504.18513v1](http://arxiv.org/abs/2504.18513v1)|**2025-04-25**|null|
+|**2025-04-25**|**Action-Minimization Meets Generative Modeling: Efficient Transition Path Sampling with the Onsager-Machlup Functional**|Sanjeev Raja et.al.|[2504.18506v1](http://arxiv.org/abs/2504.18506v1)|**2025-04-25**|null|
+|**2025-04-25**|**SymTFT, Protected Gaplessness, and Spontaneous Breaking of Non-invertible Symmetries**|Michele Del Zotto et.al.|[2504.18501v1](http://arxiv.org/abs/2504.18501v1)|**2025-04-25**|null|
+|**2025-04-25**|**Equations of motion for dynamical systems with angular momentum on Finsler geometries**|Loïc Marsot et.al.|[2504.18499v1](http://arxiv.org/abs/2504.18499v1)|**2025-04-25**|null|
+|**2025-04-25**|**Twists of trigonometric sigma models**|Rashad Hamidi et.al.|[2504.18492v1](http://arxiv.org/abs/2504.18492v1)|**2025-04-25**|null|
+|**2025-04-25**|**On the injective self-maps of algebraic varieties**|Indranil Biswas et.al.|[2504.18488v1](http://arxiv.org/abs/2504.18488v1)|**2025-04-25**|null|
+|**2025-04-25**|**Gravitational Slip in the Parameterized Post-Newtonian Cosmology**|Theodore Anton et.al.|[2504.18479v1](http://arxiv.org/abs/2504.18479v1)|**2025-04-25**|null|
+|**2025-04-25**|**Quasi-Einstein structures and Hitchin's equations**|Alex Colling et.al.|[2504.18475v1](http://arxiv.org/abs/2504.18475v1)|**2025-04-25**|null|
+|**2025-04-25**|**The Autonomous Software Stack of the FRED-003C: The Development That Led to Full-Scale Autonomous Racing**|Zalán Demeter et.al.|[2504.18439v1](http://arxiv.org/abs/2504.18439v1)|**2025-04-25**|null|
+|**2025-04-25**|**Dynamics of polynomial generalized Liénard system near the origin and infinity**|Jun Zhang et.al.|[2504.18438v1](http://arxiv.org/abs/2504.18438v1)|**2025-04-25**|null|
+|**2025-04-25**|**On monotone completion of risk markets: Limit results for incomplete risk markets**|Iman Khajepour et.al.|[2504.18436v1](http://arxiv.org/abs/2504.18436v1)|**2025-04-25**|null|
+|**2025-04-25**|**Constructing Hamiltonian Decompositions of Complete $k$-Uniform Hypergraphs**|Javad Maheri et.al.|[2504.18434v1](http://arxiv.org/abs/2504.18434v1)|**2025-04-25**|null|
+|**2025-04-25**|**LaRI: Layered Ray Intersections for Single-view 3D Geometric Reasoning**|Rui Li et.al.|[2504.18424v1](http://arxiv.org/abs/2504.18424v1)|**2025-04-25**|null|
+|**2025-04-25**|**Tailoring hBN's Phonon Polaritons with the Plasmonic Phase-Change Material In3SbTe2**|Lina Jäckering et.al.|[2504.18418v1](http://arxiv.org/abs/2504.18418v1)|**2025-04-25**|null|
+|**2025-04-25**|**A Multimodal Deep Learning Approach for White Matter Shape Prediction in Diffusion MRI Tractography**|Yui Lo et.al.|[2504.18400v1](http://arxiv.org/abs/2504.18400v1)|**2025-04-25**|null|
+|**2025-04-25**|**Optimal Control for Network of Coupled Oscillators**|Adnan Tahirovic et.al.|[2504.18399v1](http://arxiv.org/abs/2504.18399v1)|**2025-04-25**|null|
+|**2025-04-25**|**Model Evaluation in the Dark: Robust Classifier Metrics with Missing Labels**|Danial Dervovic et.al.|[2504.18385v1](http://arxiv.org/abs/2504.18385v1)|**2025-04-25**|null|
+|**2025-04-25**|**Bridging the Gap Between Avalanche Relaxation and Yielding Rheology**|Leonardo Relmucao-Leiva et.al.|[2504.18382v1](http://arxiv.org/abs/2504.18382v1)|**2025-04-25**|null|
+|**2025-04-25**|**The Foundation for Developing an Exoskeleton for the Rehabilitation of Temporomandibular Disorders**|Paul-Otto Müller et.al.|[2504.18379v1](http://arxiv.org/abs/2504.18379v1)|**2025-04-25**|null|
+|**2025-04-25**|**Anisotropic Piezomagnetism in Noncollinear Antiferromagnets**|Vu Thi Ngoc Huyen et.al.|[2504.18363v1](http://arxiv.org/abs/2504.18363v1)|**2025-04-25**|null|
+|**2025-04-25**|**A Practical Guide to Optimizing Industrial Thermal Spraying through Comparative Multi-Objective Optimization**|Wolfgang Rannetbauer et.al.|[2504.18357v1](http://arxiv.org/abs/2504.18357v1)|**2025-04-25**|null|
+|**2025-04-25**|**Interpretable Affordance Detection on 3D Point Clouds with Probabilistic Prototypes**|Maximilian Xiling Li et.al.|[2504.18355v1](http://arxiv.org/abs/2504.18355v1)|**2025-04-25**|null|
+|**2025-04-25**|**Tachyons Before Tachyons: Lev Strum (1890-1936) and Superluminal Velocities**|Helge Kragh et.al.|[2504.18347v1](http://arxiv.org/abs/2504.18347v1)|**2025-04-25**|null|
+|**2025-04-25**|**The possible frustrated superconductivity in the kagome superconductors**|Hong-Min Jiang et.al.|[2504.18336v1](http://arxiv.org/abs/2504.18336v1)|**2025-04-25**|null|
+|**2025-04-25**|**Adversarial Attacks on LLM-as-a-Judge Systems: Insights from Prompt Injections**|Narek Maloyan et.al.|[2504.18333v1](http://arxiv.org/abs/2504.18333v1)|**2025-04-25**|null|
+|**2025-04-25**|**Metric Entropy of Ellipsoids in Banach Spaces: Techniques and Precise Asymptotics**|Thomas Allard et.al.|[2504.18321v1](http://arxiv.org/abs/2504.18321v1)|**2025-04-25**|null|
+|**2025-04-25**|**Eigenvarieties over CM fields and trianguline representations**|Vaughan McDonald et.al.|[2504.18319v1](http://arxiv.org/abs/2504.18319v1)|**2025-04-25**|null|
+|**2025-04-25**|**Spectral radius and Hamiltonicity of uniform hypergraphs**|George Brooks et.al.|[2504.18314v1](http://arxiv.org/abs/2504.18314v1)|**2025-04-25**|null|

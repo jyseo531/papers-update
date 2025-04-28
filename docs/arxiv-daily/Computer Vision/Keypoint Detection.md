@@ -2,6 +2,7 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-25**|**A Multimodal Deep Learning Approach for White Matter Shape Prediction in Diffusion MRI Tractography**|Yui Lo et.al.|[2504.18400v1](http://arxiv.org/abs/2504.18400v1)|**2025-04-25**|null|
 |**2025-04-24**|**EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy**|Haodi Yao et.al.|[2504.17280v1](http://arxiv.org/abs/2504.17280v1)|**2025-04-24**|null|
 |**2025-04-24**|**Polydisperse polymer networks with irregular topologies**|Jason Mulderrig et.al.|[2504.17239v1](http://arxiv.org/abs/2504.17239v1)|**2025-04-24**|null|
 |**2025-04-23**|**Conley-Morse persistence barcode: a homological signature of a combinatorial bifurcation**|Tamal K. Dey et.al.|[2504.17105v1](http://arxiv.org/abs/2504.17105v1)|**2025-04-23**|null|
@@ -31,4 +32,3 @@
 |**2025-04-14**|**KeyMPs: One-Shot Vision-Language Guided Motion Generation by Sequencing DMPs for Occlusion-Rich Tasks**|Edgar Anarossi et.al.|[2504.10011v1](http://arxiv.org/abs/2504.10011v1)|**2025-04-14**|null|
 |**2025-04-12**|**Beyond Degradation Conditions: All-in-One Image Restoration via HOG Transformers**|Jiawei Wu et.al.|[2504.09377v1](http://arxiv.org/abs/2504.09377v1)|**2025-04-12**|[link](https://github.com/fire-friend/hogformer)|
 |**2025-04-11**|**MBE-ARI: A Multimodal Dataset Mapping Bi-directional Engagement in Animal-Robot Interaction**|Ian Noronha et.al.|[2504.08646v1](http://arxiv.org/abs/2504.08646v1)|**2025-04-11**|[link](https://github.com/riselabpurdue/mbe-ari)|
-|**2025-04-11**|**Accelerating Multi-Objective Collaborative Optimization of Doped Thermoelectric Materials via Artificial Intelligence**|Yuxuan Zeng et.al.|[2504.08258v1](http://arxiv.org/abs/2504.08258v1)|**2025-04-11**|null|

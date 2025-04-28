@@ -2,33 +2,33 @@
 ### 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-24**|**The Fourth Monocular Depth Estimation Challenge**|Anton Obukhov et.al.|[2504.17787v1](http://arxiv.org/abs/2504.17787v1)|**2025-04-24**|null|
-|**2025-04-24**|**First study of neutrino angle reconstruction using quasielastic-like interactions in MicroBooNE**|MicroBooNE collaboration et.al.|[2504.17758v1](http://arxiv.org/abs/2504.17758v1)|**2025-04-24**|null|
-|**2025-04-24**|**Nearby open clusters with tidal features: golden sample selection and 3D structure**|Ming Xu et.al.|[2504.17744v1](http://arxiv.org/abs/2504.17744v1)|**2025-04-24**|null|
-|**2025-04-24**|**Fully-Mixed Virtual Element Method for the Biot Problem**|Michele Botti et.al.|[2504.17729v1](http://arxiv.org/abs/2504.17729v1)|**2025-04-24**|null|
-|**2025-04-24**|**CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos**|Shucheng Gong et.al.|[2504.17728v1](http://arxiv.org/abs/2504.17728v1)|**2025-04-24**|null|
-|**2025-04-24**|**Operational experience and performance of the Silicon Vertex Detector after the first long shutdown of Belle II**|K. Ravindran et.al.|[2504.17715v1](http://arxiv.org/abs/2504.17715v1)|**2025-04-24**|null|
-|**2025-04-24**|**Generative Fields: Uncovering Hierarchical Feature Control for StyleGAN via Inverted Receptive Fields**|Zhuo He et.al.|[2504.17712v1](http://arxiv.org/abs/2504.17712v1)|**2025-04-24**|null|
-|**2025-04-24**|**PICO: Reconstructing 3D People In Contact with Objects**|Alpár Cseke et.al.|[2504.17695v1](http://arxiv.org/abs/2504.17695v1)|**2025-04-24**|null|
-|**2025-04-24**|**DiMeR: Disentangled Mesh Reconstruction Model**|Lutao Jiang et.al.|[2504.17670v1](http://arxiv.org/abs/2504.17670v1)|**2025-04-24**|null|
-|**2025-04-24**|**Insights from Analytical Theory of Eccentric Circumbinary Disks**|Marcela Grcic et.al.|[2504.17658v1](http://arxiv.org/abs/2504.17658v1)|**2025-04-24**|null|
-|**2025-04-24**|**polyGen: A Learning Framework for Atomic-level Polymer Structure Generation**|Ayush Jain et.al.|[2504.17656v1](http://arxiv.org/abs/2504.17656v1)|**2025-04-24**|null|
-|**2025-04-24**|**A Guide to Structureless Visual Localization**|Vojtech Panek et.al.|[2504.17636v1](http://arxiv.org/abs/2504.17636v1)|**2025-04-24**|null|
-|**2025-04-24**|**Likelihood-Free Variational Autoencoders**|Chen Xu et.al.|[2504.17622v1](http://arxiv.org/abs/2504.17622v1)|**2025-04-24**|null|
-|**2025-04-24**|**Bolt: Clothing Virtual Characters at Scale**|Jonathan Leaf et.al.|[2504.17614v1](http://arxiv.org/abs/2504.17614v1)|**2025-04-24**|null|
-|**2025-04-24**|**Model Choice Matters for Age Inference on the Red Giant Branch**|Leslie M. Morales et.al.|[2504.17600v1](http://arxiv.org/abs/2504.17600v1)|**2025-04-24**|null|
-|**2025-04-24**|**The NewEra model grid**|Peter H. Hauschildt et.al.|[2504.17597v1](http://arxiv.org/abs/2504.17597v1)|**2025-04-24**|null|
-|**2025-04-24**|**Occlusion-Aware Self-Supervised Monocular Depth Estimation for Weak-Texture Endoscopic Images**|Zebo Huang et.al.|[2504.17582v1](http://arxiv.org/abs/2504.17582v1)|**2025-04-24**|null|
-|**2025-04-24**|**A compact laser-plasma source for high-repetition-rate bi-modal X-ray and electron imaging**|Angana Mondal et.al.|[2504.17560v1](http://arxiv.org/abs/2504.17560v1)|**2025-04-24**|null|
-|**2025-04-24**|**When Gaussian Meets Surfel: Ultra-fast High-fidelity Radiance Field Rendering**|Keyang Ye et.al.|[2504.17545v1](http://arxiv.org/abs/2504.17545v1)|**2025-04-24**|null|
-|**2025-04-24**|**ESDiff: Encoding Strategy-inspired Diffusion Model with Few-shot Learning for Color Image Inpainting**|Junyan Zhang et.al.|[2504.17524v1](http://arxiv.org/abs/2504.17524v1)|**2025-04-24**|null|
-|**2025-04-24**|**Tailored minimal reservoir computing: on the bidirectional connection between nonlinearities in the reservoir and in data**|Davide Prosperino et.al.|[2504.17503v1](http://arxiv.org/abs/2504.17503v1)|**2025-04-24**|null|
-|**2025-04-24**|**Surface morphology and thickness variation estimation of zeolites via electron ptychography**|Enci Zhang et.al.|[2504.17501v1](http://arxiv.org/abs/2504.17501v1)|**2025-04-24**|null|
-|**2025-04-24**|**Reconstructions of electron-temperature profiles from EUROfusion Pedestal Database using turbulence models and machine learning**|L. -P. Turica et.al.|[2504.17486v1](http://arxiv.org/abs/2504.17486v1)|**2025-04-24**|null|
-|**2025-04-24**|**Wolves in the Repository: A Software Engineering Analysis of the XZ Utils Supply Chain Attack**|Piotr Przymus et.al.|[2504.17473v1](http://arxiv.org/abs/2504.17473v1)|**2025-04-24**|null|
-|**2025-04-24**|**Thermodynamics and Holographic RG Flow in 3D C-metric**|Shaohua Xue et.al.|[2504.17456v1](http://arxiv.org/abs/2504.17456v1)|**2025-04-24**|null|
-|**2025-04-24**|**Predict-Optimize-Distill: A Self-Improving Cycle for 4D Object Understanding**|Mingxuan Wu et.al.|[2504.17441v1](http://arxiv.org/abs/2504.17441v1)|**2025-04-24**|null|
-|**2025-04-24**|**3DV-TON: Textured 3D-Guided Consistent Video Try-on via Diffusion Models**|Min Wei et.al.|[2504.17414v1](http://arxiv.org/abs/2504.17414v1)|**2025-04-24**|null|
-|**2025-04-24**|**Bias-Eliminated PnP for Stereo Visual Odometry: Provably Consistent and Large-Scale Localization**|Guangyang Zeng et.al.|[2504.17410v1](http://arxiv.org/abs/2504.17410v1)|**2025-04-24**|null|
-|**2025-04-24**|**An Inverse Source Problem for Semilinear Stochastic Hyperbolic Equations**|Qi Lü et.al.|[2504.17398v1](http://arxiv.org/abs/2504.17398v1)|**2025-04-24**|null|
-|**2025-04-24**|**Deep Reparameterization for Full Waveform Inversion: Architecture Benchmarking, Robust Inversion, and Multiphysics Extension**|Feng Liu et.al.|[2504.17375v1](http://arxiv.org/abs/2504.17375v1)|**2025-04-24**|null|
+|**2025-04-25**|**RSFR: A Coarse-to-Fine Reconstruction Framework for Diffusion Tensor Cardiac MRI with Semantic-Aware Refinement**|Jiahao Huang et.al.|[2504.18520v1](http://arxiv.org/abs/2504.18520v1)|**2025-04-25**|null|
+|**2025-04-25**|**Eval3D: Interpretable and Fine-grained Evaluation for 3D Generation**|Shivam Duggal et.al.|[2504.18509v1](http://arxiv.org/abs/2504.18509v1)|**2025-04-25**|null|
+|**2025-04-25**|**DeSIA: Attribute Inference Attacks Against Limited Fixed Aggregate Statistics**|Yifeng Mao et.al.|[2504.18497v1](http://arxiv.org/abs/2504.18497v1)|**2025-04-25**|null|
+|**2025-04-25**|**An Unsupervised Machine Learning Approach to Identify Spectral Energy Distribution Outliers: Application to the S-PLUS DR4 data**|F. Quispe-Huaynasi et.al.|[2504.18491v1](http://arxiv.org/abs/2504.18491v1)|**2025-04-25**|null|
+|**2025-04-25**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468v1](http://arxiv.org/abs/2504.18468v1)|**2025-04-25**|null|
+|**2025-04-25**|**MROP: Modulated Rank-One Projections for compressive radio interferometric imaging**|Olivier Leblanc et.al.|[2504.18446v1](http://arxiv.org/abs/2504.18446v1)|**2025-04-25**|null|
+|**2025-04-25**|**LaRI: Layered Ray Intersections for Single-view 3D Geometric Reasoning**|Rui Li et.al.|[2504.18424v1](http://arxiv.org/abs/2504.18424v1)|**2025-04-25**|null|
+|**2025-04-25**|**A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection**|Carlo Sgaravatti et.al.|[2504.18419v1](http://arxiv.org/abs/2504.18419v1)|**2025-04-25**|null|
+|**2025-04-25**|**Spatial Reasoner: A 3D Inference Pipeline for XR Applications**|Steven Häsler et.al.|[2504.18380v1](http://arxiv.org/abs/2504.18380v1)|**2025-04-25**|null|
+|**2025-04-25**|**Anisotropic Piezomagnetism in Noncollinear Antiferromagnets**|Vu Thi Ngoc Huyen et.al.|[2504.18363v1](http://arxiv.org/abs/2504.18363v1)|**2025-04-25**|null|
+|**2025-04-25**|**Numerical method for the inverse scattering by random periodic structures**|Yi Wang et.al.|[2504.18356v1](http://arxiv.org/abs/2504.18356v1)|**2025-04-25**|null|
+|**2025-04-25**|**Interpretable Affordance Detection on 3D Point Clouds with Probabilistic Prototypes**|Maximilian Xiling Li et.al.|[2504.18355v1](http://arxiv.org/abs/2504.18355v1)|**2025-04-25**|null|
+|**2025-04-25**|**NUDF: Neural Unsigned Distance Fields for high resolution 3D medical image segmentation**|Kristine Sørensen et.al.|[2504.18344v1](http://arxiv.org/abs/2504.18344v1)|**2025-04-25**|null|
+|**2025-04-25**|**Controlling the sign of optical forces using metaoptics**|Adeel Afridi et.al.|[2504.18341v1](http://arxiv.org/abs/2504.18341v1)|**2025-04-25**|null|
+|**2025-04-25**|**SSD-Poser: Avatar Pose Estimation with State Space Duality from Sparse Observations**|Shuting Zhao et.al.|[2504.18332v1](http://arxiv.org/abs/2504.18332v1)|**2025-04-25**|null|
+|**2025-04-25**|**Depth3DLane: Monocular 3D Lane Detection via Depth Prior Distillation**|Dongxin Lyu et.al.|[2504.18325v1](http://arxiv.org/abs/2504.18325v1)|**2025-04-25**|null|
+|**2025-04-25**|**Deep Reinforcement Learning Based Navigation with Macro Actions and Topological Maps**|Simon Hakenes et.al.|[2504.18300v1](http://arxiv.org/abs/2504.18300v1)|**2025-04-25**|null|
+|**2025-04-25**|**Machine Learning-Based b-Jet Tagging in pp Collisions at $\sqrt{s}=13$ TeV**|Hadi Hassan et.al.|[2504.18291v1](http://arxiv.org/abs/2504.18291v1)|**2025-04-25**|null|
+|**2025-04-25**|**Charm-hadron reconstruction through three body decay in hadronic collisions using Machine Learning**|Neelkamal Mallick et.al.|[2504.18279v1](http://arxiv.org/abs/2504.18279v1)|**2025-04-25**|null|
+|**2025-04-25**|**Translocation of Active Polymerlike Worms**|Marin Vatin et.al.|[2504.18275v1](http://arxiv.org/abs/2504.18275v1)|**2025-04-25**|null|
+|**2025-04-25**|**Reconstruction of inclined extensive air showers using radio signals: from arrival times and amplitudes to direction and energy**|Marion Guelfand et.al.|[2504.18257v1](http://arxiv.org/abs/2504.18257v1)|**2025-04-25**|null|
+|**2025-04-25**|**SOLIS. XIX. The chemically rich SVS13-B protostellar jet**|C. Codella et.al.|[2504.18255v1](http://arxiv.org/abs/2504.18255v1)|**2025-04-25**|null|
+|**2025-04-25**|**SecCityVR: Visualization and Collaborative Exploration of Software Vulnerabilities in Virtual Reality**|Dennis Wüppelman et.al.|[2504.18238v1](http://arxiv.org/abs/2504.18238v1)|**2025-04-25**|null|
+|**2025-04-25**|**Phenomenology of Schwarzschild-like Black Holes with a Generalized Compton Wavelength**|Reggie C. Pantig et.al.|[2504.18226v1](http://arxiv.org/abs/2504.18226v1)|**2025-04-25**|null|
+|**2025-04-25**|**Unify3D: An Augmented Holistic End-to-end Monocular 3D Human Reconstruction via Anatomy Shaping and Twins Negotiating**|Nanjie Yao et.al.|[2504.18215v1](http://arxiv.org/abs/2504.18215v1)|**2025-04-25**|null|
+|**2025-04-25**|**A Data-Centric Approach to 3D Semantic Segmentation of Railway Scenes**|Nicolas Münger et.al.|[2504.18213v1](http://arxiv.org/abs/2504.18213v1)|**2025-04-25**|null|
+|**2025-04-25**|**LiDAR-Guided Monocular 3D Object Detection for Long-Range Railway Monitoring**|Raul David Dominguez Sanchez et.al.|[2504.18203v1](http://arxiv.org/abs/2504.18203v1)|**2025-04-25**|null|
+|**2025-04-25**|**Unveiling 3D Ocean Biogeochemical Provinces: A Machine Learning Approach for Systematic Clustering and Validation**|Yvonne Jenniges et.al.|[2504.18181v1](http://arxiv.org/abs/2504.18181v1)|**2025-04-25**|null|
+|**2025-04-25**|**Generative AI for Physical-Layer Authentication**|Rui Meng et.al.|[2504.18175v1](http://arxiv.org/abs/2504.18175v1)|**2025-04-25**|null|
+|**2025-04-25**|**The structural effects of (111) growth of La$_2$CoMnO$_6$ on SrTiO$_3$ and LSAT -- new insights from 3D crystallographic characterisation with 4D-STEM and Digital Dark Field imaging**|Ian MacLaren et.al.|[2504.18171v1](http://arxiv.org/abs/2504.18171v1)|**2025-04-25**|null|
