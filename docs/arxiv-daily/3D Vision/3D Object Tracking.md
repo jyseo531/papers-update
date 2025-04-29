@@ -5,7 +5,7 @@
 |**2025-04-25**|**Examining the Impact of Optical Aberrations to Image Classification and Object Detection Models**|Patrick Müller et.al.|[2504.18510v1](http://arxiv.org/abs/2504.18510v1)|**2025-04-25**|null|
 |**2025-04-25**|**Eval3D: Interpretable and Fine-grained Evaluation for 3D Generation**|Shivam Duggal et.al.|[2504.18509v1](http://arxiv.org/abs/2504.18509v1)|**2025-04-25**|null|
 |**2025-04-25**|**An Unsupervised Machine Learning Approach to Identify Spectral Energy Distribution Outliers: Application to the S-PLUS DR4 data**|F. Quispe-Huaynasi et.al.|[2504.18491v1](http://arxiv.org/abs/2504.18491v1)|**2025-04-25**|null|
-|**2025-04-25**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468v1](http://arxiv.org/abs/2504.18468v1)|**2025-04-25**|null|
+|**2025-04-25**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468v2](http://arxiv.org/abs/2504.18468v2)|**2025-04-28**|null|
 |**2025-04-25**|**Swash flow due to obliquely incident bores**|Hyungyu Sung et.al.|[2504.18467v1](http://arxiv.org/abs/2504.18467v1)|**2025-04-25**|null|
 |**2025-04-25**|**Voltage Stability and Control of Electrical Distribution Systems with High Penetration of Power Electronic Converters**|Dionysios Moutevelis et.al.|[2504.18466v1](http://arxiv.org/abs/2504.18466v1)|**2025-04-25**|null|
 |**2025-04-25**|**Improved Dwell-times for Switched Nonlinear Systems using Memory Regression Extension**|Muzaffar Qureshi et.al.|[2504.18457v1](http://arxiv.org/abs/2504.18457v1)|**2025-04-25**|null|

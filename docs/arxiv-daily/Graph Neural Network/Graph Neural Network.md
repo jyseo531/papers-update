@@ -26,7 +26,7 @@
 |**2025-04-25**|**Partition Map-Based Fast Block Partitioning for VVC Inter Coding**|Xinmin Feng et.al.|[2504.18398v1](http://arxiv.org/abs/2504.18398v1)|**2025-04-25**|null|
 |**2025-04-25**|**Spatial Reasoner: A 3D Inference Pipeline for XR Applications**|Steven Häsler et.al.|[2504.18380v1](http://arxiv.org/abs/2504.18380v1)|**2025-04-25**|null|
 |**2025-04-25**|**Explainable AI for UAV Mobility Management: A Deep Q-Network Approach for Handover Minimization**|Irshad A. Meer et.al.|[2504.18371v1](http://arxiv.org/abs/2504.18371v1)|**2025-04-25**|null|
-|**2025-04-25**|**Amending CALPHAD databases using a neural network for predicting mixing enthalpy of liquids**|Clement Vincelya et.al.|[2504.18366v1](http://arxiv.org/abs/2504.18366v1)|**2025-04-25**|null|
+|**2025-04-25**|**Amending CALPHAD databases using a neural network for predicting mixing enthalpy of liquids**|Clement Vincely et.al.|[2504.18366v2](http://arxiv.org/abs/2504.18366v2)|**2025-04-28**|null|
 |**2025-04-25**|**On constrained intersection representations of graphs and digraphs**|Ferdinando Cicalese et.al.|[2504.18365v1](http://arxiv.org/abs/2504.18365v1)|**2025-04-25**|null|
 |**2025-04-25**|**Predicting sampling advantage of stochastic Ising Machines for Quantum Simulations**|Rutger J. L. F. Berns et.al.|[2504.18359v1](http://arxiv.org/abs/2504.18359v1)|**2025-04-25**|null|
 |**2025-04-25**|**Testing Individual Fairness in Graph Neural Networks**|Roya Nasiri et.al.|[2504.18353v1](http://arxiv.org/abs/2504.18353v1)|**2025-04-25**|null|

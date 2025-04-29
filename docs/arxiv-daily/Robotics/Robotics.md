@@ -19,7 +19,7 @@
 |**2025-04-25**|**Design and Evaluation of a UGV-Based Robotic Platform for Precision Soil Moisture Remote Sensing**|Ilektra Tsimpidi et.al.|[2504.18284v1](http://arxiv.org/abs/2504.18284v1)|**2025-04-25**|null|
 |**2025-04-25**|**Depth-Constrained ASV Navigation with Deep RL and Limited Sensing**|Amirhossein Zhalehmehrabi et.al.|[2504.18253v1](http://arxiv.org/abs/2504.18253v1)|**2025-04-25**|null|
 |**2025-04-25**|**BiasBench: A reproducible benchmark for tuning the biases of event cameras**|Andreas Ziegler et.al.|[2504.18235v1](http://arxiv.org/abs/2504.18235v1)|**2025-04-25**|null|
-|**2025-04-25**|**Implementation Analysis of Collaborative Robot Digital Twins in Physics Engines**|Christian König et.al.|[2504.18200v1](http://arxiv.org/abs/2504.18200v1)|**2025-04-25**|null|
+|**2025-04-25**|**Implementation Analysis of Collaborative Robot Digital Twins in Physics Engines**|Christian König et.al.|[2504.18200v2](http://arxiv.org/abs/2504.18200v2)|**2025-04-28**|null|
 |**2025-04-25**|**Sampling-Based Grasp and Collision Prediction for Assisted Teleoperation**|Simon Manschitz et.al.|[2504.18186v1](http://arxiv.org/abs/2504.18186v1)|**2025-04-25**|null|
 |**2025-04-25**|**Reimagining Assistive Walkers: An Exploration of Challenges and Preferences in Older Adults**|Victory A. Aruona et.al.|[2504.18169v1](http://arxiv.org/abs/2504.18169v1)|**2025-04-25**|null|
 |**2025-04-25**|**Offline Learning of Controllable Diverse Behaviors**|Mathieu Petitbois et.al.|[2504.18160v1](http://arxiv.org/abs/2504.18160v1)|**2025-04-25**|null|

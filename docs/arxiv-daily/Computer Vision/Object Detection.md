@@ -5,7 +5,7 @@
 |**2025-04-25**|**Automating Nanoindentation: Optimizing Workflows for Precision and Accuracy**|Vivek Chawla et.al.|[2504.18525v1](http://arxiv.org/abs/2504.18525v1)|**2025-04-25**|null|
 |**2025-04-25**|**Examining the Impact of Optical Aberrations to Image Classification and Object Detection Models**|Patrick Müller et.al.|[2504.18510v1](http://arxiv.org/abs/2504.18510v1)|**2025-04-25**|null|
 |**2025-04-25**|**An Unsupervised Machine Learning Approach to Identify Spectral Energy Distribution Outliers: Application to the S-PLUS DR4 data**|F. Quispe-Huaynasi et.al.|[2504.18491v1](http://arxiv.org/abs/2504.18491v1)|**2025-04-25**|null|
-|**2025-04-25**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468v1](http://arxiv.org/abs/2504.18468v1)|**2025-04-25**|null|
+|**2025-04-25**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468v2](http://arxiv.org/abs/2504.18468v2)|**2025-04-28**|null|
 |**2025-04-25**|**Voltage Stability and Control of Electrical Distribution Systems with High Penetration of Power Electronic Converters**|Dionysios Moutevelis et.al.|[2504.18466v1](http://arxiv.org/abs/2504.18466v1)|**2025-04-25**|null|
 |**2025-04-25**|**Iterative Event-based Motion Segmentation by Variational Contrast Maximization**|Ryo Yamaki et.al.|[2504.18447v1](http://arxiv.org/abs/2504.18447v1)|**2025-04-25**|null|
 |**2025-04-25**|**Testing a large size triple GEM detector for the first station of the CBM-Muon Chambers with a high-intensity gamma source at GIF++ under large-area illumination**|Apar Agarwal et.al.|[2504.18445v1](http://arxiv.org/abs/2504.18445v1)|**2025-04-25**|null|

@@ -13,7 +13,7 @@
 |**2025-04-25**|**Disentangle Identity, Cooperate Emotion: Correlation-Aware Emotional Talking Portrait Generation**|Weipeng Tan et.al.|[2504.18087v1](http://arxiv.org/abs/2504.18087v1)|**2025-04-25**|null|
 |**2025-04-25**|**Modular integration of neural connectomics, dynamics and biomechanics for identification of behavioral sensorimotor pathways in Caenorhabditis elegans**|Jimin Kim et.al.|[2504.18073v1](http://arxiv.org/abs/2504.18073v1)|**2025-04-25**|null|
 |**2025-04-25**|**A Model Zoo on Phase Transitions in Neural Networks**|Konstantin Schürholt et.al.|[2504.18072v1](http://arxiv.org/abs/2504.18072v1)|**2025-04-25**|null|
-|**2025-04-25**|**Physics-Driven Neural Compensation For Electrical Impedance Tomography**|Chuyu Wang et.al.|[2504.18067v1](http://arxiv.org/abs/2504.18067v1)|**2025-04-25**|null|
+|**2025-04-25**|**Physics-Driven Neural Compensation For Electrical Impedance Tomography**|Chuyu Wang et.al.|[2504.18067v2](http://arxiv.org/abs/2504.18067v2)|**2025-04-28**|null|
 |**2025-04-25**|**POET: Prompt Offset Tuning for Continual Human Action Adaptation**|Prachi Garg et.al.|[2504.18059v1](http://arxiv.org/abs/2504.18059v1)|**2025-04-25**|null|
 |**2025-04-25**|**DMS-Net:Dual-Modal Multi-Scale Siamese Network for Binocular Fundus Image Classification**|Guohao Huo et.al.|[2504.18046v1](http://arxiv.org/abs/2504.18046v1)|**2025-04-25**|null|
 |**2025-04-25**|**ShapeSpeak: Body Shape-Aware Textual Alignment for Visible-Infrared Person Re-Identification**|Shuanglin Yan et.al.|[2504.18025v1](http://arxiv.org/abs/2504.18025v1)|**2025-04-25**|null|

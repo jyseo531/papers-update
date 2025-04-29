@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-04-25**|**Eval3D: Interpretable and Fine-grained Evaluation for 3D Generation**|Shivam Duggal et.al.|[2504.18509v1](http://arxiv.org/abs/2504.18509v1)|**2025-04-25**|null|
-|**2025-04-25**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468v1](http://arxiv.org/abs/2504.18468v1)|**2025-04-25**|null|
+|**2025-04-25**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468v2](http://arxiv.org/abs/2504.18468v2)|**2025-04-28**|null|
 |**2025-04-25**|**LaRI: Layered Ray Intersections for Single-view 3D Geometric Reasoning**|Rui Li et.al.|[2504.18424v1](http://arxiv.org/abs/2504.18424v1)|**2025-04-25**|null|
 |**2025-04-25**|**A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection**|Carlo Sgaravatti et.al.|[2504.18419v1](http://arxiv.org/abs/2504.18419v1)|**2025-04-25**|null|
 |**2025-04-25**|**Spatial Reasoner: A 3D Inference Pipeline for XR Applications**|Steven Häsler et.al.|[2504.18380v1](http://arxiv.org/abs/2504.18380v1)|**2025-04-25**|null|
@@ -29,6 +29,6 @@
 |**2025-04-24**|**iVR-GS: Inverse Volume Rendering for Explorable Visualization via Editable 3D Gaussian Splatting**|Kaiyuan Tang et.al.|[2504.17954v1](http://arxiv.org/abs/2504.17954v1)|**2025-04-24**|null|
 |**2025-04-24**|**Formation of chromospheric fan-shaped jets through magnetic reconnection**|Annu Bura et.al.|[2504.17931v1](http://arxiv.org/abs/2504.17931v1)|**2025-04-24**|null|
 |**2025-04-24**|**FlexPINN: Modeling Fluid Dynamics and Mass Transfer in 3D Micromixer Geometries Using a Flexible Physics-Informed Neural Network**|Meraj Hassanzadeh et.al.|[2504.17896v1](http://arxiv.org/abs/2504.17896v1)|**2025-04-24**|null|
-|**2025-04-24**|**Quaternion Domain Super MDS for 3D Localization**|Keigo Masuoka et.al.|[2504.17890v1](http://arxiv.org/abs/2504.17890v1)|**2025-04-24**|null|
+|**2025-04-24**|**Quaternion Domain Super MDS for 3D Localization**|Keigo Masuoka et.al.|[2504.17890v2](http://arxiv.org/abs/2504.17890v2)|**2025-04-28**|null|
 |**2025-04-24**|**Set Phasers to Stun: Beaming Power and Control to Mobile Robots with Laser Light**|Charles J. Carver et.al.|[2504.17865v1](http://arxiv.org/abs/2504.17865v1)|**2025-04-24**|null|
 |**2025-04-24**|**A Nearby Dark Molecular Cloud in the Local Bubble Revealed via H$_2$ Fluorescence**|Blakesley Burkhart et.al.|[2504.17843v1](http://arxiv.org/abs/2504.17843v1)|**2025-04-24**|null|

@@ -6,7 +6,7 @@
 |**2025-04-25**|**Eval3D: Interpretable and Fine-grained Evaluation for 3D Generation**|Shivam Duggal et.al.|[2504.18509v1](http://arxiv.org/abs/2504.18509v1)|**2025-04-25**|null|
 |**2025-04-25**|**DeSIA: Attribute Inference Attacks Against Limited Fixed Aggregate Statistics**|Yifeng Mao et.al.|[2504.18497v1](http://arxiv.org/abs/2504.18497v1)|**2025-04-25**|null|
 |**2025-04-25**|**An Unsupervised Machine Learning Approach to Identify Spectral Energy Distribution Outliers: Application to the S-PLUS DR4 data**|F. Quispe-Huaynasi et.al.|[2504.18491v1](http://arxiv.org/abs/2504.18491v1)|**2025-04-25**|null|
-|**2025-04-25**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468v1](http://arxiv.org/abs/2504.18468v1)|**2025-04-25**|null|
+|**2025-04-25**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468v2](http://arxiv.org/abs/2504.18468v2)|**2025-04-28**|null|
 |**2025-04-25**|**MROP: Modulated Rank-One Projections for compressive radio interferometric imaging**|Olivier Leblanc et.al.|[2504.18446v1](http://arxiv.org/abs/2504.18446v1)|**2025-04-25**|null|
 |**2025-04-25**|**LaRI: Layered Ray Intersections for Single-view 3D Geometric Reasoning**|Rui Li et.al.|[2504.18424v1](http://arxiv.org/abs/2504.18424v1)|**2025-04-25**|null|
 |**2025-04-25**|**A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection**|Carlo Sgaravatti et.al.|[2504.18419v1](http://arxiv.org/abs/2504.18419v1)|**2025-04-25**|null|

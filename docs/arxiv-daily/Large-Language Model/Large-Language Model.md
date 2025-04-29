@@ -25,7 +25,7 @@
 |**2025-04-25**|**Eval3D: Interpretable and Fine-grained Evaluation for 3D Generation**|Shivam Duggal et.al.|[2504.18509v1](http://arxiv.org/abs/2504.18509v1)|**2025-04-25**|null|
 |**2025-04-25**|**Action-Minimization Meets Generative Modeling: Efficient Transition Path Sampling with the Onsager-Machlup Functional**|Sanjeev Raja et.al.|[2504.18506v1](http://arxiv.org/abs/2504.18506v1)|**2025-04-25**|null|
 |**2025-04-25**|**Music Tempo Estimation on Solo Instrumental Performance**|Zhanhong He et.al.|[2504.18502v1](http://arxiv.org/abs/2504.18502v1)|**2025-04-25**|null|
-|**2025-04-25**|**SymTFT, Protected Gaplessness, and Spontaneous Breaking of Non-invertible Symmetries**|Michele Del Zotto et.al.|[2504.18501v1](http://arxiv.org/abs/2504.18501v1)|**2025-04-25**|null|
+|**2025-04-25**|**SymTFT, Protected Gaplessness, and Spontaneous Breaking of Non-invertible Symmetries**|Michele Del Zotto et.al.|[2504.18501v2](http://arxiv.org/abs/2504.18501v2)|**2025-04-28**|null|
 |**2025-04-25**|**Boxi: Design Decisions in the Context of Algorithmic Performance for Robotics**|Jonas Frey et.al.|[2504.18500v1](http://arxiv.org/abs/2504.18500v1)|**2025-04-25**|null|
 |**2025-04-25**|**Enhancing Visual Interpretability and Explainability in Functional Survival Trees and Forests**|Giuseppe Loffredo et.al.|[2504.18498v1](http://arxiv.org/abs/2504.18498v1)|**2025-04-25**|null|
 |**2025-04-25**|**DeSIA: Attribute Inference Attacks Against Limited Fixed Aggregate Statistics**|Yifeng Mao et.al.|[2504.18497v1](http://arxiv.org/abs/2504.18497v1)|**2025-04-25**|null|

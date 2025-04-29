@@ -6,11 +6,11 @@
 |**2025-04-25**|**Inflationary background renormalization**|Jason Kristiano et.al.|[2504.18514v1](http://arxiv.org/abs/2504.18514v1)|**2025-04-25**|null|
 |**2025-04-25**|**PODNO: Proper Orthogonal Decomposition Neural Operators**|Zilan Cheng et.al.|[2504.18513v1](http://arxiv.org/abs/2504.18513v1)|**2025-04-25**|null|
 |**2025-04-25**|**Action-Minimization Meets Generative Modeling: Efficient Transition Path Sampling with the Onsager-Machlup Functional**|Sanjeev Raja et.al.|[2504.18506v1](http://arxiv.org/abs/2504.18506v1)|**2025-04-25**|null|
-|**2025-04-25**|**SymTFT, Protected Gaplessness, and Spontaneous Breaking of Non-invertible Symmetries**|Michele Del Zotto et.al.|[2504.18501v1](http://arxiv.org/abs/2504.18501v1)|**2025-04-25**|null|
+|**2025-04-25**|**SymTFT, Protected Gaplessness, and Spontaneous Breaking of Non-invertible Symmetries**|Michele Del Zotto et.al.|[2504.18501v2](http://arxiv.org/abs/2504.18501v2)|**2025-04-28**|null|
 |**2025-04-25**|**Twists of trigonometric sigma models**|Rashad Hamidi et.al.|[2504.18492v1](http://arxiv.org/abs/2504.18492v1)|**2025-04-25**|null|
 |**2025-04-25**|**The Autonomous Software Stack of the FRED-003C: The Development That Led to Full-Scale Autonomous Racing**|Zalán Demeter et.al.|[2504.18439v1](http://arxiv.org/abs/2504.18439v1)|**2025-04-25**|null|
 |**2025-04-25**|**LaRI: Layered Ray Intersections for Single-view 3D Geometric Reasoning**|Rui Li et.al.|[2504.18424v1](http://arxiv.org/abs/2504.18424v1)|**2025-04-25**|null|
-|**2025-04-25**|**Tailoring hBN's Phonon Polaritons with the Plasmonic Phase-Change Material In3SbTe2**|Lina Jäckering et.al.|[2504.18418v1](http://arxiv.org/abs/2504.18418v1)|**2025-04-25**|null|
+|**2025-04-25**|**Tailoring hBN's Phonon Polaritons with the Plasmonic Phase-Change Material In3SbTe2**|Lina Jäckering et.al.|[2504.18418v2](http://arxiv.org/abs/2504.18418v2)|**2025-04-28**|null|
 |**2025-04-25**|**A Multimodal Deep Learning Approach for White Matter Shape Prediction in Diffusion MRI Tractography**|Yui Lo et.al.|[2504.18400v1](http://arxiv.org/abs/2504.18400v1)|**2025-04-25**|null|
 |**2025-04-25**|**Optimal Control for Network of Coupled Oscillators**|Adnan Tahirovic et.al.|[2504.18399v1](http://arxiv.org/abs/2504.18399v1)|**2025-04-25**|null|
 |**2025-04-25**|**Model Evaluation in the Dark: Robust Classifier Metrics with Missing Labels**|Danial Dervovic et.al.|[2504.18385v1](http://arxiv.org/abs/2504.18385v1)|**2025-04-25**|null|

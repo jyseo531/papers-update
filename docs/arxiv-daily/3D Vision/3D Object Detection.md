@@ -11,7 +11,7 @@
 |**2025-04-25**|**An Unsupervised Machine Learning Approach to Identify Spectral Energy Distribution Outliers: Application to the S-PLUS DR4 data**|F. Quispe-Huaynasi et.al.|[2504.18491v1](http://arxiv.org/abs/2504.18491v1)|**2025-04-25**|null|
 |**2025-04-25**|**Magnetic field orientation dependence of continuous-wave optically detected magnetic resonance with nitrogen-vacancy ensembles**|Pralekh Dubey et.al.|[2504.18478v1](http://arxiv.org/abs/2504.18478v1)|**2025-04-25**|null|
 |**2025-04-25**|**A Novel Taxonomy and Classification Scheme for Code Smell Interactions**|Ruchin Gupta et.al.|[2504.18469v1](http://arxiv.org/abs/2504.18469v1)|**2025-04-25**|null|
-|**2025-04-25**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468v1](http://arxiv.org/abs/2504.18468v1)|**2025-04-25**|null|
+|**2025-04-25**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468v2](http://arxiv.org/abs/2504.18468v2)|**2025-04-28**|null|
 |**2025-04-25**|**Voltage Stability and Control of Electrical Distribution Systems with High Penetration of Power Electronic Converters**|Dionysios Moutevelis et.al.|[2504.18466v1](http://arxiv.org/abs/2504.18466v1)|**2025-04-25**|null|
 |**2025-04-25**|**Automatic Bias Detection in Source Code Review**|Yoseph Berhanu Alebachew et.al.|[2504.18449v1](http://arxiv.org/abs/2504.18449v1)|**2025-04-25**|null|
 |**2025-04-25**|**Iterative Event-based Motion Segmentation by Variational Contrast Maximization**|Ryo Yamaki et.al.|[2504.18447v1](http://arxiv.org/abs/2504.18447v1)|**2025-04-25**|null|

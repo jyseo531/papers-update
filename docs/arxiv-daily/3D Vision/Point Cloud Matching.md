@@ -6,7 +6,7 @@
 |**2025-04-25**|**Inflationary background renormalization**|Jason Kristiano et.al.|[2504.18514v1](http://arxiv.org/abs/2504.18514v1)|**2025-04-25**|null|
 |**2025-04-25**|**PODNO: Proper Orthogonal Decomposition Neural Operators**|Zilan Cheng et.al.|[2504.18513v1](http://arxiv.org/abs/2504.18513v1)|**2025-04-25**|null|
 |**2025-04-25**|**Action-Minimization Meets Generative Modeling: Efficient Transition Path Sampling with the Onsager-Machlup Functional**|Sanjeev Raja et.al.|[2504.18506v1](http://arxiv.org/abs/2504.18506v1)|**2025-04-25**|null|
-|**2025-04-25**|**SymTFT, Protected Gaplessness, and Spontaneous Breaking of Non-invertible Symmetries**|Michele Del Zotto et.al.|[2504.18501v1](http://arxiv.org/abs/2504.18501v1)|**2025-04-25**|null|
+|**2025-04-25**|**SymTFT, Protected Gaplessness, and Spontaneous Breaking of Non-invertible Symmetries**|Michele Del Zotto et.al.|[2504.18501v2](http://arxiv.org/abs/2504.18501v2)|**2025-04-28**|null|
 |**2025-04-25**|**Twists of trigonometric sigma models**|Rashad Hamidi et.al.|[2504.18492v1](http://arxiv.org/abs/2504.18492v1)|**2025-04-25**|null|
 |**2025-04-25**|**Interface phonon modes governing the ideal limit of thermal transport across diamond/cubic boron nitride interfaces**|Xiaonan Wang et.al.|[2504.18473v1](http://arxiv.org/abs/2504.18473v1)|**2025-04-25**|null|
 |**2025-04-25**|**Action Flow Matching for Continual Robot Learning**|Alejandro Murillo-Gonzalez et.al.|[2504.18471v1](http://arxiv.org/abs/2504.18471v1)|**2025-04-25**|null|
@@ -16,7 +16,7 @@
 |**2025-04-25**|**Kimi-Audio Technical Report**|KimiTeam et.al.|[2504.18425v1](http://arxiv.org/abs/2504.18425v1)|**2025-04-25**|null|
 |**2025-04-25**|**LaRI: Layered Ray Intersections for Single-view 3D Geometric Reasoning**|Rui Li et.al.|[2504.18424v1](http://arxiv.org/abs/2504.18424v1)|**2025-04-25**|null|
 |**2025-04-25**|**A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection**|Carlo Sgaravatti et.al.|[2504.18419v1](http://arxiv.org/abs/2504.18419v1)|**2025-04-25**|null|
-|**2025-04-25**|**Tailoring hBN's Phonon Polaritons with the Plasmonic Phase-Change Material In3SbTe2**|Lina Jäckering et.al.|[2504.18418v1](http://arxiv.org/abs/2504.18418v1)|**2025-04-25**|null|
+|**2025-04-25**|**Tailoring hBN's Phonon Polaritons with the Plasmonic Phase-Change Material In3SbTe2**|Lina Jäckering et.al.|[2504.18418v2](http://arxiv.org/abs/2504.18418v2)|**2025-04-28**|null|
 |**2025-04-25**|**BitNet v2: Native 4-bit Activations with Hadamard Transformation for 1-bit LLMs**|Hongyu Wang et.al.|[2504.18415v1](http://arxiv.org/abs/2504.18415v1)|**2025-04-25**|null|
 |**2025-04-25**|**An Empirical Study of Evaluating Long-form Question Answering**|Ning Xian et.al.|[2504.18413v1](http://arxiv.org/abs/2504.18413v1)|**2025-04-25**|null|
 |**2025-04-25**|**A Multimodal Deep Learning Approach for White Matter Shape Prediction in Diffusion MRI Tractography**|Yui Lo et.al.|[2504.18400v1](http://arxiv.org/abs/2504.18400v1)|**2025-04-25**|null|

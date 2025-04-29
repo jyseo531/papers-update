@@ -15,7 +15,7 @@
 |**2025-04-25**|**Instrumentation for Better Demonstrations: A Case Study**|Remko Proesmans et.al.|[2504.18481v1](http://arxiv.org/abs/2504.18481v1)|**2025-04-25**|null|
 |**2025-04-25**|**Nature of the 1/3 Magnetization Plateau in Spin-1/2 Kagome Antiferromagnets**|Li-Wei He et.al.|[2504.18480v1](http://arxiv.org/abs/2504.18480v1)|**2025-04-25**|null|
 |**2025-04-25**|**Action Flow Matching for Continual Robot Learning**|Alejandro Murillo-Gonzalez et.al.|[2504.18471v1](http://arxiv.org/abs/2504.18471v1)|**2025-04-25**|null|
-|**2025-04-25**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468v1](http://arxiv.org/abs/2504.18468v1)|**2025-04-25**|null|
+|**2025-04-25**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468v2](http://arxiv.org/abs/2504.18468v2)|**2025-04-28**|null|
 |**2025-04-25**|**Fast-Slow Thinking for Large Vision-Language Model Reasoning**|Wenyi Xiao et.al.|[2504.18458v1](http://arxiv.org/abs/2504.18458v1)|**2025-04-25**|null|
 |**2025-04-25**|**Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation**|Peiyuan Jing et.al.|[2504.18453v1](http://arxiv.org/abs/2504.18453v1)|**2025-04-25**|null|
 |**2025-04-25**|**NoiseController: Towards Consistent Multi-view Video Generation via Noise Decomposition and Collaboration**|Haotian Dong et.al.|[2504.18448v1](http://arxiv.org/abs/2504.18448v1)|**2025-04-25**|null|

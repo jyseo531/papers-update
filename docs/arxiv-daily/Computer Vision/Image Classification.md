@@ -7,7 +7,7 @@
 |**2025-04-25**|**RSFR: A Coarse-to-Fine Reconstruction Framework for Diffusion Tensor Cardiac MRI with Semantic-Aware Refinement**|Jiahao Huang et.al.|[2504.18520v1](http://arxiv.org/abs/2504.18520v1)|**2025-04-25**|null|
 |**2025-04-25**|**Co-Change Graph Entropy: A New Process Metric for Defect Prediction**|Ethari Hrishikesh et.al.|[2504.18511v1](http://arxiv.org/abs/2504.18511v1)|**2025-04-25**|null|
 |**2025-04-25**|**Examining the Impact of Optical Aberrations to Image Classification and Object Detection Models**|Patrick Müller et.al.|[2504.18510v1](http://arxiv.org/abs/2504.18510v1)|**2025-04-25**|null|
-|**2025-04-25**|**SymTFT, Protected Gaplessness, and Spontaneous Breaking of Non-invertible Symmetries**|Michele Del Zotto et.al.|[2504.18501v1](http://arxiv.org/abs/2504.18501v1)|**2025-04-25**|null|
+|**2025-04-25**|**SymTFT, Protected Gaplessness, and Spontaneous Breaking of Non-invertible Symmetries**|Michele Del Zotto et.al.|[2504.18501v2](http://arxiv.org/abs/2504.18501v2)|**2025-04-28**|null|
 |**2025-04-25**|**TopSpace: spatial topic modeling for unsupervised discovery of multicellular spatial tissue structures in multiplex imaging**|Junsouk Choi et.al.|[2504.18495v1](http://arxiv.org/abs/2504.18495v1)|**2025-04-25**|null|
 |**2025-04-25**|**An Improved ResNet50 Model for Predicting Pavement Condition Index (PCI) Directly from Pavement Images**|Andrews Danyo et.al.|[2504.18490v1](http://arxiv.org/abs/2504.18490v1)|**2025-04-25**|null|
 |**2025-04-25**|**Quasi-Einstein structures and Hitchin's equations**|Alex Colling et.al.|[2504.18475v1](http://arxiv.org/abs/2504.18475v1)|**2025-04-25**|null|

@@ -18,7 +18,7 @@
 |**2025-04-24**|**An Integrated Genomics Workflow Tool: Simulating Reads, Evaluating Read Alignments, and Optimizing Variant Calling Algorithms**|Fathima Nuzla Ismail et.al.|[2504.17860v1](http://arxiv.org/abs/2504.17860v1)|**2025-04-24**|null|
 |**2025-04-24**|**High-Performance Reinforcement Learning on Spot: Optimizing Simulation Parameters with Distributional Measures**|A. J Miller et.al.|[2504.17857v1](http://arxiv.org/abs/2504.17857v1)|**2025-04-24**|null|
 |**2025-04-24**|**CaRL: Learning Scalable Planning Policies with Simple Rewards**|Bernhard Jaeger et.al.|[2504.17838v1](http://arxiv.org/abs/2504.17838v1)|**2025-04-24**|null|
-|**2025-04-24**|**Integrating Learning-Based Manipulation and Physics-Based Locomotion for Whole-Body Badminton Robot Control**|Haochen Wang et.al.|[2504.17771v1](http://arxiv.org/abs/2504.17771v1)|**2025-04-24**|null|
+|**2025-04-24**|**Integrating Learning-Based Manipulation and Physics-Based Locomotion for Whole-Body Badminton Robot Control**|Haochen Wang et.al.|[2504.17771v2](http://arxiv.org/abs/2504.17771v2)|**2025-04-27**|null|
 |**2025-04-24**|**Federated Learning: A Survey on Privacy-Preserving Collaborative Intelligence**|Edward Collins et.al.|[2504.17703v1](http://arxiv.org/abs/2504.17703v1)|**2025-04-24**|null|
 |**2025-04-24**|**Applied Sheaf Theory For Multi-agent Artificial Intelligence (Reinforcement Learning) Systems: A Prospectus**|Eric Schmid et.al.|[2504.17700v1](http://arxiv.org/abs/2504.17700v1)|**2025-04-24**|null|
 |**2025-04-24**|**Beyond Labels: Zero-Shot Diabetic Foot Ulcer Wound Segmentation with Self-attention Diffusion Models and the Potential for Text-Guided Customization**|Abderrachid Hamrani et.al.|[2504.17628v1](http://arxiv.org/abs/2504.17628v1)|**2025-04-24**|null|

@@ -10,7 +10,7 @@
 |**2025-04-22**|**Meta-Entity Driven Triplet Mining for Aligning Medical Vision-Language Models**|Saban Ozturk et.al.|[2504.15929v2](http://arxiv.org/abs/2504.15929v2)|**2025-04-24**|null|
 |**2025-04-21**|**Unifying Image Counterfactuals and Feature Attributions with Latent-Space Adversarial Attacks**|Jeremy Goldwasser et.al.|[2504.15479v1](http://arxiv.org/abs/2504.15479v1)|**2025-04-21**|null|
 |**2025-04-21**|**StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**|Cailin Zhuang et.al.|[2504.15281v1](http://arxiv.org/abs/2504.15281v1)|**2025-04-21**|null|
-|**2025-04-21**|**Instance-Adaptive Keypoint Learning with Local-to-Global Geometric Aggregation for Category-Level Object Pose Estimation**|Xiao Zhang et.al.|[2504.15134v1](http://arxiv.org/abs/2504.15134v1)|**2025-04-21**|null|
+|**2025-04-21**|**Instance-Adaptive Keypoint Learning with Local-to-Global Geometric Aggregation for Category-Level Object Pose Estimation**|Xiao Zhang et.al.|[2504.15134v2](http://arxiv.org/abs/2504.15134v2)|**2025-04-27**|null|
 |**2025-04-21**|**An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather**|Xiongwei Zhao et.al.|[2504.14806v1](http://arxiv.org/abs/2504.14806v1)|**2025-04-21**|null|
 |**2025-04-20**|**Persistent Homology-Based Descriptor of Topological Ordering in Two-Dimensional Quasi-Particle Systems with Application to Skyrmion Lattices**|Michiki Taniwaki et.al.|[2504.14688v1](http://arxiv.org/abs/2504.14688v1)|**2025-04-20**|null|
 |**2025-04-20**|**SG-Reg: Generalizable and Efficient Scene Graph Registration**|Chuhao Liu et.al.|[2504.14440v1](http://arxiv.org/abs/2504.14440v1)|**2025-04-20**|[link](https://github.com/hkust-aerial-robotics/sg-reg)|
