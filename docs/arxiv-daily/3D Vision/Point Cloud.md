@@ -2,33 +2,33 @@
 ### Point Cloud
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-25**|**Scaling Laws For Scalable Oversight**|Joshua Engels et.al.|[2504.18530v1](http://arxiv.org/abs/2504.18530v1)|**2025-04-25**|null|
-|**2025-04-25**|**Inflationary background renormalization**|Jason Kristiano et.al.|[2504.18514v1](http://arxiv.org/abs/2504.18514v1)|**2025-04-25**|null|
-|**2025-04-25**|**PODNO: Proper Orthogonal Decomposition Neural Operators**|Zilan Cheng et.al.|[2504.18513v1](http://arxiv.org/abs/2504.18513v1)|**2025-04-25**|null|
-|**2025-04-25**|**Action-Minimization Meets Generative Modeling: Efficient Transition Path Sampling with the Onsager-Machlup Functional**|Sanjeev Raja et.al.|[2504.18506v1](http://arxiv.org/abs/2504.18506v1)|**2025-04-25**|null|
-|**2025-04-25**|**SymTFT, Protected Gaplessness, and Spontaneous Breaking of Non-invertible Symmetries**|Michele Del Zotto et.al.|[2504.18501v2](http://arxiv.org/abs/2504.18501v2)|**2025-04-28**|null|
-|**2025-04-25**|**Twists of trigonometric sigma models**|Rashad Hamidi et.al.|[2504.18492v1](http://arxiv.org/abs/2504.18492v1)|**2025-04-25**|null|
-|**2025-04-25**|**The Autonomous Software Stack of the FRED-003C: The Development That Led to Full-Scale Autonomous Racing**|Zalán Demeter et.al.|[2504.18439v1](http://arxiv.org/abs/2504.18439v1)|**2025-04-25**|null|
-|**2025-04-25**|**LaRI: Layered Ray Intersections for Single-view 3D Geometric Reasoning**|Rui Li et.al.|[2504.18424v1](http://arxiv.org/abs/2504.18424v1)|**2025-04-25**|null|
-|**2025-04-25**|**Tailoring hBN's Phonon Polaritons with the Plasmonic Phase-Change Material In3SbTe2**|Lina Jäckering et.al.|[2504.18418v2](http://arxiv.org/abs/2504.18418v2)|**2025-04-28**|null|
-|**2025-04-25**|**A Multimodal Deep Learning Approach for White Matter Shape Prediction in Diffusion MRI Tractography**|Yui Lo et.al.|[2504.18400v1](http://arxiv.org/abs/2504.18400v1)|**2025-04-25**|null|
-|**2025-04-25**|**Optimal Control for Network of Coupled Oscillators**|Adnan Tahirovic et.al.|[2504.18399v1](http://arxiv.org/abs/2504.18399v1)|**2025-04-25**|null|
-|**2025-04-25**|**Model Evaluation in the Dark: Robust Classifier Metrics with Missing Labels**|Danial Dervovic et.al.|[2504.18385v1](http://arxiv.org/abs/2504.18385v1)|**2025-04-25**|null|
-|**2025-04-25**|**Bridging the Gap Between Avalanche Relaxation and Yielding Rheology**|Leonardo Relmucao-Leiva et.al.|[2504.18382v1](http://arxiv.org/abs/2504.18382v1)|**2025-04-25**|null|
-|**2025-04-25**|**The Foundation for Developing an Exoskeleton for the Rehabilitation of Temporomandibular Disorders**|Paul-Otto Müller et.al.|[2504.18379v1](http://arxiv.org/abs/2504.18379v1)|**2025-04-25**|null|
-|**2025-04-25**|**Anisotropic Piezomagnetism in Noncollinear Antiferromagnets**|Vu Thi Ngoc Huyen et.al.|[2504.18363v1](http://arxiv.org/abs/2504.18363v1)|**2025-04-25**|null|
-|**2025-04-25**|**A Practical Guide to Optimizing Industrial Thermal Spraying through Comparative Multi-Objective Optimization**|Wolfgang Rannetbauer et.al.|[2504.18357v1](http://arxiv.org/abs/2504.18357v1)|**2025-04-25**|null|
-|**2025-04-25**|**Interpretable Affordance Detection on 3D Point Clouds with Probabilistic Prototypes**|Maximilian Xiling Li et.al.|[2504.18355v1](http://arxiv.org/abs/2504.18355v1)|**2025-04-25**|null|
-|**2025-04-25**|**Tachyons Before Tachyons: Lev Strum (1890-1936) and Superluminal Velocities**|Helge Kragh et.al.|[2504.18347v1](http://arxiv.org/abs/2504.18347v1)|**2025-04-25**|null|
-|**2025-04-25**|**The possible frustrated superconductivity in the kagome superconductors**|Hong-Min Jiang et.al.|[2504.18336v1](http://arxiv.org/abs/2504.18336v1)|**2025-04-25**|null|
-|**2025-04-25**|**Adversarial Attacks on LLM-as-a-Judge Systems: Insights from Prompt Injections**|Narek Maloyan et.al.|[2504.18333v1](http://arxiv.org/abs/2504.18333v1)|**2025-04-25**|null|
-|**2025-04-25**|**Eigenvarieties over CM fields and trianguline representations**|Vaughan McDonald et.al.|[2504.18319v1](http://arxiv.org/abs/2504.18319v1)|**2025-04-25**|null|
-|**2025-04-25**|**SSA-UNet: Advanced Precipitation Nowcasting via Channel Shuffling**|Marco Turzi et.al.|[2504.18309v1](http://arxiv.org/abs/2504.18309v1)|**2025-04-25**|null|
-|**2025-04-25**|**Valley Polarization and Anomalous Valley Hall Effect in Altermagnet Ti2Se2S with Multipiezo Properties**|Xin Hu et.al.|[2504.18308v1](http://arxiv.org/abs/2504.18308v1)|**2025-04-25**|null|
-|**2025-04-25**|**Multi-Sensor Fusion of Active and Passive Measurements for Extended Object Tracking**|Hong Zhu et.al.|[2504.18301v1](http://arxiv.org/abs/2504.18301v1)|**2025-04-25**|null|
-|**2025-04-25**|**Optimizing Resource Allocation in a Distributed Quantum Computing Cloud: A Game-Theoretic Approach**|Bernard Ousmane Sane et.al.|[2504.18298v1](http://arxiv.org/abs/2504.18298v1)|**2025-04-25**|null|
-|**2025-04-25**|**Large time cumulants of the KPZ equation on an interval**|Guillaume Barraquand et.al.|[2504.18292v1](http://arxiv.org/abs/2504.18292v1)|**2025-04-25**|null|
-|**2025-04-25**|**Design and Evaluation of a UGV-Based Robotic Platform for Precision Soil Moisture Remote Sensing**|Ilektra Tsimpidi et.al.|[2504.18284v1](http://arxiv.org/abs/2504.18284v1)|**2025-04-25**|null|
-|**2025-04-25**|**A comprehensive review of classifier probability calibration metrics**|Richard Oliver Lane et.al.|[2504.18278v1](http://arxiv.org/abs/2504.18278v1)|**2025-04-25**|null|
-|**2025-04-25**|**Reconstruction of inclined extensive air showers using radio signals: from arrival times and amplitudes to direction and energy**|Marion Guelfand et.al.|[2504.18257v1](http://arxiv.org/abs/2504.18257v1)|**2025-04-25**|null|
-|**2025-04-25**|**A nonvariational Neumann problem for the Helmholtz equation**|M. Lanza de Cristoforis et.al.|[2504.18252v1](http://arxiv.org/abs/2504.18252v1)|**2025-04-25**|null|
+|**2025-04-28**|**Towards Scalable Braiding: Topological Superconductivity Unlocked under Nearly Arbitrary Magnetic Field Directions in Planar Josephson Junctions**|Richang Huang et.al.|[2504.20031v1](http://arxiv.org/abs/2504.20031v1)|**2025-04-28**|null|
+|**2025-04-28**|**Engineering Minimal k-Perfect Hash Functions**|Stefan Hermann et.al.|[2504.20001v1](http://arxiv.org/abs/2504.20001v1)|**2025-04-28**|[link](https://github.com/stefanfred/engineering-k-perfect-hashing)|
+|**2025-04-28**|**Revisiting the temporal law in KPZ random growth**|Mustazee Rahman et.al.|[2504.19975v1](http://arxiv.org/abs/2504.19975v1)|**2025-04-28**|null|
+|**2025-04-28**|**XMM-Newton Observations of the High Temperature Plasma in the Large Magellanic Cloud Supernova Remnant N132D**|Adam R. Foster et.al.|[2504.19964v1](http://arxiv.org/abs/2504.19964v1)|**2025-04-28**|null|
+|**2025-04-28**|**Revisiting Directed Disjoint Paths on tournaments (and relatives)**|Guilherme C. M. Gomes et.al.|[2504.19957v1](http://arxiv.org/abs/2504.19957v1)|**2025-04-28**|null|
+|**2025-04-28**|**Mesh-Learner: Texturing Mesh with Spherical Harmonics**|Yunfei Wan et.al.|[2504.19938v1](http://arxiv.org/abs/2504.19938v1)|**2025-04-28**|null|
+|**2025-04-28**|**Modeling of Parallel Single-Pixel Imaging for 3D Reconstruction: New Insights and Opportunities**|Feifei Chen et.al.|[2504.19923v1](http://arxiv.org/abs/2504.19923v1)|**2025-04-28**|null|
+|**2025-04-28**|**Analytic reconstruction with massive particles: one-loop amplitudes for $0 \to \bar{q}qt\bar{t}H$**|John M. Campbell et.al.|[2504.19909v1](http://arxiv.org/abs/2504.19909v1)|**2025-04-28**|null|
+|**2025-04-28**|**Epitaxial growth of BaBiO3 thin films on SrTiO3(001) and MgO(001) substrates using molecular beam epitaxy and controlling their crystal orientations competition**|Islam Ahmed et.al.|[2504.19895v1](http://arxiv.org/abs/2504.19895v1)|**2025-04-28**|null|
+|**2025-04-28**|**Lightning activity on a tidally locked terrestrial exoplanet in storm-resolving simulations for a range of surface pressures**|Denis E. Sergeev et.al.|[2504.19883v1](http://arxiv.org/abs/2504.19883v1)|**2025-04-28**|null|
+|**2025-04-28**|**A JWST Study of the Remarkable Oort Cloud Comet C/2017 K2 (PanSTARRS)**|Charles E. Woodward et.al.|[2504.19849v1](http://arxiv.org/abs/2504.19849v1)|**2025-04-28**|null|
+|**2025-04-28**|**On Hopf's Lemma for sign-changing supersolutions to fractional Laplacian equations**|Azahara DelaTorre et.al.|[2504.19843v1](http://arxiv.org/abs/2504.19843v1)|**2025-04-28**|null|
+|**2025-04-28**|**Optimal real-time dynamic treatment regimes with application to oxytocin use in preventing postpartum hemorrhage**|Haiyan Zhu et.al.|[2504.19831v1](http://arxiv.org/abs/2504.19831v1)|**2025-04-28**|null|
+|**2025-04-28**|**Quantum oracles for the finite element method**|Sven Danz et.al.|[2504.19827v1](http://arxiv.org/abs/2504.19827v1)|**2025-04-28**|null|
+|**2025-04-28**|**Can a Crow Hatch a Falcon? Lineage Matters in Predicting Large Language Model Performance**|Takuya Tamura et.al.|[2504.19811v1](http://arxiv.org/abs/2504.19811v1)|**2025-04-28**|null|
+|**2025-04-28**|**Protoplanetary disk insights from the first ERIS/APP survey at 4 μm**|F. Maio et.al.|[2504.19810v1](http://arxiv.org/abs/2504.19810v1)|**2025-04-28**|null|
+|**2025-04-28**|**Fixed point theorems for small divisors problems**|Mauricio Garay et.al.|[2504.19808v1](http://arxiv.org/abs/2504.19808v1)|**2025-04-28**|null|
+|**2025-04-28**|**Unconventional Relaxation Dynamics in Co_8Zn_7Mn_5 and Co_8Zn_8Mn_4: Evidence of Inertial Effects**|P. Saha et.al.|[2504.19803v1](http://arxiv.org/abs/2504.19803v1)|**2025-04-28**|null|
+|**2025-04-28**|**Crystal field excitations in rattling clathrate CeBa$_7$Au$_6$Si$_{40}$**|Michelangelo Tagliavini et.al.|[2504.19802v1](http://arxiv.org/abs/2504.19802v1)|**2025-04-28**|null|
+|**2025-04-28**|**Contextures: The Mechanism of Representation Learning**|Runtian Zhai et.al.|[2504.19792v1](http://arxiv.org/abs/2504.19792v1)|**2025-04-28**|null|
+|**2025-04-28**|**Lattice points in polytope boundaries and formal geometric quantization of singular Calabi Yau hypersurfaces in toric varieties**|Jonathan Weitsman et.al.|[2504.19775v1](http://arxiv.org/abs/2504.19775v1)|**2025-04-28**|null|
+|**2025-04-28**|**Simplicity of Mellin amplitudes for AdS$_3 \times$S$^3$**|F. Aprile et.al.|[2504.19770v1](http://arxiv.org/abs/2504.19770v1)|**2025-04-28**|null|
+|**2025-04-28**|**Polarized pulse pair observations during a long duration interstellar communication experiment**|William J. Crilly jr et.al.|[2504.19765v1](http://arxiv.org/abs/2504.19765v1)|**2025-04-28**|null|
+|**2025-04-28**|**vMODB: Unifying event and data management for distributed asynchronous applications**|Rodrigo Laigner et.al.|[2504.19757v1](http://arxiv.org/abs/2504.19757v1)|**2025-04-28**|null|
+|**2025-04-28**|**Spectral Analysis of Approximated Capacity Fade Curvature for Lithium-Ion Batteries**|Huang Zhang et.al.|[2504.19752v1](http://arxiv.org/abs/2504.19752v1)|**2025-04-28**|null|
+|**2025-04-28**|**Measuring Train Driver Performance as Key to Approval of Driverless Trains**|Rustam Tagiew et.al.|[2504.19735v1](http://arxiv.org/abs/2504.19735v1)|**2025-04-28**|null|
+|**2025-04-28**|**Morse homology for a class of elliptic partial differential equations**|L. Asselle et.al.|[2504.19721v1](http://arxiv.org/abs/2504.19721v1)|**2025-04-28**|null|
+|**2025-04-28**|**Taming the Titans: A Survey of Efficient LLM Inference Serving**|Ranran Zhen et.al.|[2504.19720v1](http://arxiv.org/abs/2504.19720v1)|**2025-04-28**|null|
+|**2025-04-28**|**QuickGrasp: Lightweight Antipodal Grasp Planning with Point Clouds**|Navin Sriram Ravie et.al.|[2504.19716v1](http://arxiv.org/abs/2504.19716v1)|**2025-04-28**|null|
+|**2025-04-28**|**Bethe roots for periodic TASEP and algebraic curve**|Shinsuke Iwao et.al.|[2504.19690v1](http://arxiv.org/abs/2504.19690v1)|**2025-04-28**|null|
