@@ -3609,6 +3609,7 @@ Updated on 2025-04-30
 | 49.6k | 11 | valhalla/distilbart-mnli-12-6Zero-Shot | UpdatedJun 14, 2021 | [Link](https://huggingface.co/valhalla/distilbart-mnli-12-6) |
 | 144 | 11 | MoritzLaurer/bge-m3-zeroshot-v2 | UpdatedApr 4, 2024 | [Link](https://huggingface.co/MoritzLaurer/bge-m3-zeroshot-v2.0-c) |
 | 631 | 10 | mlburnham/Political_DEBATE_large_v1 | UpdatedDec 13, 2024 | [Link](https://huggingface.co/mlburnham/Political_DEBATE_large_v1.0) |
+| 87 | 10 | NbAiLab/nb-bert-base-mnliZero-Shot | UpdatedMar 24, 2023 | [Link](https://huggingface.co/NbAiLab/nb-bert-base-mnli) |
 | 359 | 9 | svalabs/gbert-large-zeroshot-nliZero-Shot | UpdatedSep 27, 2024 | [Link](https://huggingface.co/svalabs/gbert-large-zeroshot-nli) |
 | 690 | 9 | symanto/xlm-roberta-base-snli-mnli-anli-xnliZero-Shot | UpdatedFeb 20, 2023 | [Link](https://huggingface.co/symanto/xlm-roberta-base-snli-mnli-anli-xnli) |
 | 11k | 9 | cross-encoder/nli-MiniLM2-L6-H768Zero-Shot | Updated8 days ago | [Link](https://huggingface.co/cross-encoder/nli-MiniLM2-L6-H768) |
