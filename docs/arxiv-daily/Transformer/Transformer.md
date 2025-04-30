@@ -2,33 +2,33 @@
 ### Transformer
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-28**|**How Charged Can Neutrinos Be?**|Sudip Jana et.al.|[2504.20044v1](http://arxiv.org/abs/2504.20044v1)|**2025-04-28**|null|
-|**2025-04-28**|**Learning Streaming Video Representation via Multitask Training**|Yibin Yan et.al.|[2504.20041v1](http://arxiv.org/abs/2504.20041v1)|**2025-04-28**|null|
-|**2025-04-28**|**LIRM: Large Inverse Rendering Model for Progressive Reconstruction of Shape, Materials and View-dependent Radiance Fields**|Zhengqin Li et.al.|[2504.20026v1](http://arxiv.org/abs/2504.20026v1)|**2025-04-28**|null|
-|**2025-04-28**|**Towards Non-Abelian Quantum Signal Processing: Efficient Control of Hybrid Continuous- and Discrete-Variable Architectures**|Shraddha Singh et.al.|[2504.19992v1](http://arxiv.org/abs/2504.19992v1)|**2025-04-28**|null|
-|**2025-04-28**|**Shopformer: Transformer-Based Framework for Detecting Shoplifting via Human Pose**|Narges Rashvand et.al.|[2504.19970v1](http://arxiv.org/abs/2504.19970v1)|**2025-04-28**|null|
-|**2025-04-28**|**SUSY hierarchies of Jaynes-Cummings Hamiltonians with different detuning parameters**|İsmail Burak Ateş et.al.|[2504.19943v1](http://arxiv.org/abs/2504.19943v1)|**2025-04-28**|null|
-|**2025-04-28**|**Accelerated 3D-3D rigid registration of echocardiographic images obtained from apical window using particle filter**|Thanuja Uruththirakodeeswaran et.al.|[2504.19930v1](http://arxiv.org/abs/2504.19930v1)|**2025-04-28**|null|
-|**2025-04-28**|**Accelerating Mixture-of-Experts Training with Adaptive Expert Replication**|Athinagoras Skiadopoulos et.al.|[2504.19925v1](http://arxiv.org/abs/2504.19925v1)|**2025-04-28**|null|
-|**2025-04-28**|**Enhancing Surgical Documentation through Multimodal Visual-Temporal Transformers and Generative AI**|Hugo Georgenthum et.al.|[2504.19918v1](http://arxiv.org/abs/2504.19918v1)|**2025-04-28**|null|
-|**2025-04-28**|**Demographic Parity-aware Individualized Treatment Rules**|Wenhai Cui et.al.|[2504.19914v1](http://arxiv.org/abs/2504.19914v1)|**2025-04-28**|null|
-|**2025-04-28**|**Can AI Agents Design and Implement Drug Discovery Pipelines?**|Khachik Smbatyan et.al.|[2504.19912v1](http://arxiv.org/abs/2504.19912v1)|**2025-04-28**|null|
-|**2025-04-28**|**Log supertranslations at Spatial Infinity**|Sharad Mishra et.al.|[2504.19910v1](http://arxiv.org/abs/2504.19910v1)|**2025-04-28**|null|
-|**2025-04-28**|**Attention Mechanism, Max-Affine Partition, and Universal Approximation**|Hude Liu et.al.|[2504.19901v1](http://arxiv.org/abs/2504.19901v1)|**2025-04-28**|null|
-|**2025-04-28**|**Multiple Polynomial Recurrence in Weyl Systems**|Felipe Hernández et.al.|[2504.19899v1](http://arxiv.org/abs/2504.19899v1)|**2025-04-28**|null|
-|**2025-04-28**|**Enhancing breast cancer detection on screening mammogram using self-supervised learning and a hybrid deep model of Swin Transformer and Convolutional Neural Network**|Han Chen et.al.|[2504.19888v1](http://arxiv.org/abs/2504.19888v1)|**2025-04-28**|null|
-|**2025-04-28**|**Planar Coulomb gas on a Jordan arc at any temperature**|Klara Courteaut et.al.|[2504.19887v1](http://arxiv.org/abs/2504.19887v1)|**2025-04-28**|null|
-|**2025-04-28**|**DeeCLIP: A Robust and Generalizable Transformer-Based Framework for Detecting AI-Generated Images**|Mamadou Keita et.al.|[2504.19876v1](http://arxiv.org/abs/2504.19876v1)|**2025-04-28**|null|
-|**2025-04-28**|**TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate**|Amir Zandieh et.al.|[2504.19874v1](http://arxiv.org/abs/2504.19874v1)|**2025-04-28**|null|
-|**2025-04-28**|**The Automation Advantage in AI Red Teaming**|Rob Mulla et.al.|[2504.19855v2](http://arxiv.org/abs/2504.19855v2)|**2025-04-29**|null|
-|**2025-04-28**|**LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects**|Guangyi Liu et.al.|[2504.19838v1](http://arxiv.org/abs/2504.19838v1)|**2025-04-28**|null|
-|**2025-04-28**|**HOIGaze: Gaze Estimation During Hand-Object Interactions in Extended Reality Exploiting Eye-Hand-Head Coordination**|Zhiming Hu et.al.|[2504.19828v1](http://arxiv.org/abs/2504.19828v1)|**2025-04-28**|null|
-|**2025-04-28**|**A nonlinear diffusion equation of the Gurtin-MacCamy type: existence, uniqueness, and numerical simulations**|Dragos-Patru Covei et.al.|[2504.19823v1](http://arxiv.org/abs/2504.19823v1)|**2025-04-28**|null|
-|**2025-04-28**|**Stochastic quantum adiabatic algorithm with fractional Brownian motion**|Osanda Chinthila et.al.|[2504.19801v1](http://arxiv.org/abs/2504.19801v1)|**2025-04-28**|null|
-|**2025-04-28**|**Learning Brenier Potentials with Convex Generative Adversarial Neural Networks**|Claudia Drygala et.al.|[2504.19779v1](http://arxiv.org/abs/2504.19779v1)|**2025-04-28**|null|
-|**2025-04-28**|**Real Paley-Wiener theorems for the linear canonical Dunkl transform**|Umamaheswari S et.al.|[2504.19769v1](http://arxiv.org/abs/2504.19769v1)|**2025-04-28**|null|
-|**2025-04-28**|**Reconstructing Context: Evaluating Advanced Chunking Strategies for Retrieval-Augmented Generation**|Carlo Merola et.al.|[2504.19754v1](http://arxiv.org/abs/2504.19754v1)|**2025-04-28**|null|
-|**2025-04-28**|**Graph Fourier Transformer with Structure-Frequency Information**|Yonghui Zhai et.al.|[2504.19740v1](http://arxiv.org/abs/2504.19740v1)|**2025-04-28**|null|
-|**2025-04-28**|**A computer vision method to estimate ventilation rate of Atlantic salmon in sea fish farms**|Lukas Folkman et.al.|[2504.19719v1](http://arxiv.org/abs/2504.19719v1)|**2025-04-28**|null|
-|**2025-04-28**|**Fast numerical evaluation of dark matter direct detection event rates**|Sebastian Sassi et.al.|[2504.19714v1](http://arxiv.org/abs/2504.19714v1)|**2025-04-28**|null|
-|**2025-04-28**|**Dynamical decomposition of generalized interval exchange transformations**|Charles Fougeron et.al.|[2504.19704v1](http://arxiv.org/abs/2504.19704v1)|**2025-04-28**|null|
+|**2025-04-29**|**Equivariant non-linear maps for neural networks on homogeneous spaces**|Elias Nyholm et.al.|[2504.20974v1](http://arxiv.org/abs/2504.20974v1)|**2025-04-29**|null|
+|**2025-04-29**|**Softpick: No Attention Sink, No Massive Activations with Rectified Softmax**|Zayd M. K. Zuhri et.al.|[2504.20966v1](http://arxiv.org/abs/2504.20966v1)|**2025-04-29**|null|
+|**2025-04-29**|**Conformal-DP: Differential Privacy on Riemannian Manifolds via Conformal Transformation**|Peilin He et.al.|[2504.20941v1](http://arxiv.org/abs/2504.20941v1)|**2025-04-29**|null|
+|**2025-04-29**|**Towards Understanding the Nature of Attention with Low-Rank Sparse Decomposition**|Zhengfu He et.al.|[2504.20938v1](http://arxiv.org/abs/2504.20938v1)|**2025-04-29**|null|
+|**2025-04-29**|**DYNAMAX: Dynamic computing for Transformers and Mamba based architectures**|Miguel Nogales et.al.|[2504.20922v1](http://arxiv.org/abs/2504.20922v1)|**2025-04-29**|null|
+|**2025-04-29**|**Relativistic ejecta from stellar mass black holes: insights from simulations and synthetic radio images**|Katie Savard et.al.|[2504.20914v1](http://arxiv.org/abs/2504.20914v1)|**2025-04-29**|null|
+|**2025-04-29**|**Elliptic leading singularities and canonical integrands**|Ekta Chaubey et.al.|[2504.20897v1](http://arxiv.org/abs/2504.20897v1)|**2025-04-29**|null|
+|**2025-04-29**|**E. coli bacterium tumbling in bulk and close to surfaces: A simulation study**|Pierre Martin et.al.|[2504.20893v1](http://arxiv.org/abs/2504.20893v1)|**2025-04-29**|null|
+|**2025-04-29**|**Fluctuating magnetism in Zn-doped averievite with well-separated kagome layers**|G. Simutis et.al.|[2504.20871v1](http://arxiv.org/abs/2504.20871v1)|**2025-04-29**|null|
+|**2025-04-29**|**($0,6$) AdS$_3$/CFT$_2$ and surface defects**|Yolanda Lozano et.al.|[2504.20864v1](http://arxiv.org/abs/2504.20864v1)|**2025-04-29**|null|
+|**2025-04-29**|**Tabular Data Adapters: Improving Outlier Detection for Unlabeled Private Data**|Dayananda Herurkar et.al.|[2504.20862v1](http://arxiv.org/abs/2504.20862v1)|**2025-04-29**|null|
+|**2025-04-29**|**Chaos Meets Attention: Transformers for Large-Scale Dynamical Prediction**|Yi He et.al.|[2504.20858v1](http://arxiv.org/abs/2504.20858v1)|**2025-04-29**|null|
+|**2025-04-29**|**Language Model for Large-Text Transmission in Noisy Quantum Communications**|Yuqi Li et.al.|[2504.20842v1](http://arxiv.org/abs/2504.20842v1)|**2025-04-29**|null|
+|**2025-04-29**|**Approximate Quantum Fourier Transform in Logarithmic Depth on a Line**|Elisa Bäumer et.al.|[2504.20832v1](http://arxiv.org/abs/2504.20832v1)|**2025-04-29**|null|
+|**2025-04-29**|**Hybrid Quantum Recurrent Neural Network For Remaining Useful Life Prediction**|Olga Tsurkan et.al.|[2504.20823v1](http://arxiv.org/abs/2504.20823v1)|**2025-04-29**|null|
+|**2025-04-29**|**An approach to melodic segmentation and classification based on filtering with the Haar-wavelet**|Gissel Velarde et.al.|[2504.20822v1](http://arxiv.org/abs/2504.20822v1)|**2025-04-29**|null|
+|**2025-04-29**|**The When and How of Target Variable Transformations**|Loren Nuyts et.al.|[2504.20821v1](http://arxiv.org/abs/2504.20821v1)|**2025-04-29**|null|
+|**2025-04-29**|**A Quantum Range-Doppler Algorithm for Synthetic Aperture Radar Image Formation**|Alessandro Giovagnoli et.al.|[2504.20811v1](http://arxiv.org/abs/2504.20811v1)|**2025-04-29**|null|
+|**2025-04-29**|**SoccerDiffusion: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings**|Florian Vahl et.al.|[2504.20808v1](http://arxiv.org/abs/2504.20808v1)|**2025-04-29**|null|
+|**2025-04-29**|**Contiguity relations for finite families of orthogonal polynomials in the Askey scheme**|Nicolas Crampé et.al.|[2504.20802v1](http://arxiv.org/abs/2504.20802v1)|**2025-04-29**|null|
+|**2025-04-29**|**Adept: Annotation-Denoising Auxiliary Tasks with Discrete Cosine Transform Map and Keypoint for Human-Centric Pretraining**|Weizhen He et.al.|[2504.20800v1](http://arxiv.org/abs/2504.20800v1)|**2025-04-29**|null|
+|**2025-04-29**|**JTreeformer: Graph-Transformer via Latent-Diffusion Model for Molecular Generation**|Ji Shi et.al.|[2504.20770v1](http://arxiv.org/abs/2504.20770v1)|**2025-04-29**|null|
+|**2025-04-29**|**Understanding Large Language Model Supply Chain: Structure, Domain, and Vulnerabilities**|Yanzhe Hu et.al.|[2504.20763v1](http://arxiv.org/abs/2504.20763v1)|**2025-04-29**|null|
+|**2025-04-29**|**Confidence-based Intent Prediction for Teleoperation in Bimanual Robotic Suturing**|Zhaoyang Jacopo Hu et.al.|[2504.20761v1](http://arxiv.org/abs/2504.20761v1)|**2025-04-29**|null|
+|**2025-04-29**|**Graph-Based Fault Diagnosis for Rotating Machinery: Adaptive Segmentation and Structural Feature Integration**|Moirangthem Tiken Singh et.al.|[2504.20756v1](http://arxiv.org/abs/2504.20756v1)|**2025-04-29**|null|
+|**2025-04-29**|**Grokking in the Wild: Data Augmentation for Real-World Multi-Hop Reasoning with Transformers**|Roman Abramov et.al.|[2504.20752v1](http://arxiv.org/abs/2504.20752v1)|**2025-04-29**|null|
+|**2025-04-29**|**DB-GNN: Dual-Branch Graph Neural Network with Multi-Level Contrastive Learning for Jointly Identifying Within- and Cross-Frequency Coupled Brain Networks**|Xiang Wang et.al.|[2504.20744v1](http://arxiv.org/abs/2504.20744v1)|**2025-04-29**|null|
+|**2025-04-29**|**Bayesian Inference in Quantum Programs**|Christina Gehnen et.al.|[2504.20732v1](http://arxiv.org/abs/2504.20732v1)|**2025-04-29**|null|
+|**2025-04-29**|**Avoided-crossings, degeneracies and Berry phases in the spectrum of quantum noise through analytic Bloch-Messiah decomposition**|Giuseppe Patera et.al.|[2504.20730v1](http://arxiv.org/abs/2504.20730v1)|**2025-04-29**|null|
+|**2025-04-29**|**BrightCookies at SemEval-2025 Task 9: Exploring Data Augmentation for Food Hazard Classification**|Foteini Papadopoulou et.al.|[2504.20703v1](http://arxiv.org/abs/2504.20703v1)|**2025-04-29**|null|

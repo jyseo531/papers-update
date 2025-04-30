@@ -2,33 +2,33 @@
 ### SFM
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-28**|**How Charged Can Neutrinos Be?**|Sudip Jana et.al.|[2504.20044v1](http://arxiv.org/abs/2504.20044v1)|**2025-04-28**|null|
-|**2025-04-28**|**Starlight from JWST: Implications for star formation and dark matter models**|John Ellis et.al.|[2504.20043v1](http://arxiv.org/abs/2504.20043v1)|**2025-04-28**|null|
-|**2025-04-28**|**CompleteMe: Reference-based Human Image Completion**|Yu-Ju Tsai et.al.|[2504.20042v1](http://arxiv.org/abs/2504.20042v1)|**2025-04-28**|null|
-|**2025-04-28**|**MP-SfM: Monocular Surface Priors for Robust Structure-from-Motion**|Zador Pataki et.al.|[2504.20040v1](http://arxiv.org/abs/2504.20040v1)|**2025-04-28**|null|
-|**2025-04-28**|**Unified and consistent structure growth measurements from joint ACT, SPT and \textit{Planck} CMB lensing**|Frank J. Qu et.al.|[2504.20038v1](http://arxiv.org/abs/2504.20038v1)|**2025-04-28**|null|
-|**2025-04-28**|**Polarization of light from fast rotating Wolf-Rayet stars: A Monte Carlo simulations compared to analytical formula**|Slah Abdellaoui et.al.|[2504.20037v1](http://arxiv.org/abs/2504.20037v1)|**2025-04-28**|null|
-|**2025-04-28**|**exoALMA. VI. Rotating under Pressure: Rotation curves, azimuthal velocity substructures, and pressure variations**|Jochen Stadler et.al.|[2504.20036v1](http://arxiv.org/abs/2504.20036v1)|**2025-04-28**|null|
-|**2025-04-28**|**Cam-2-Cam: Exploring the Design Space of Dual-Camera Interactions for Smartphone-based Augmented Reality**|Brandon Woodard et.al.|[2504.20035v2](http://arxiv.org/abs/2504.20035v2)|**2025-04-29**|null|
-|**2025-04-28**|**Pan-genome Analysis of Angiosperm Plastomes using PGR-TK**|Manoj P. Samanta et.al.|[2504.20034v1](http://arxiv.org/abs/2504.20034v1)|**2025-04-28**|null|
-|**2025-04-28**|**Mitigating Catastrophic Forgetting in the Incremental Learning of Medical Images**|Sara Yavari et.al.|[2504.20033v1](http://arxiv.org/abs/2504.20033v1)|**2025-04-28**|null|
-|**2025-04-28**|**More Clear, More Flexible, More Precise: A Comprehensive Oriented Object Detection benchmark for UAV**|Kai Ye et.al.|[2504.20032v1](http://arxiv.org/abs/2504.20032v1)|**2025-04-28**|null|
-|**2025-04-28**|**Towards Scalable Braiding: Topological Superconductivity Unlocked under Nearly Arbitrary Magnetic Field Directions in Planar Josephson Junctions**|Richang Huang et.al.|[2504.20031v1](http://arxiv.org/abs/2504.20031v1)|**2025-04-28**|null|
-|**2025-04-28**|**Allele trees for the mother-dependent neutral mutations model and their scaling limits in the rare mutations regime**|Airam Blancas et.al.|[2504.20030v1](http://arxiv.org/abs/2504.20030v1)|**2025-04-28**|null|
-|**2025-04-28**|**Invertible Morava motives in quadrics**|Andrei Lavrenov et.al.|[2504.20029v1](http://arxiv.org/abs/2504.20029v1)|**2025-04-28**|null|
-|**2025-04-28**|**All-Subsets Important Separators with Applications to Sample Sets, Balanced Separators and Vertex Sparsifiers in Directed Graphs**|Aditya Anand et.al.|[2504.20027v1](http://arxiv.org/abs/2504.20027v1)|**2025-04-28**|null|
-|**2025-04-28**|**Local primordial non-Gaussianity from 'zero-bias' 21cm radiation during reionization**|Nickolas Kokron et.al.|[2504.20025v1](http://arxiv.org/abs/2504.20025v1)|**2025-04-28**|null|
-|**2025-04-28**|**Exploring two dimensional $\mathbb{Z}_2$ invariant phases with time reversal symmetry and their transitions with topological operations**|Ryan C. Spieler et.al.|[2504.20021v1](http://arxiv.org/abs/2504.20021v1)|**2025-04-28**|null|
-|**2025-04-28**|**Constructing Magic Squares: an integer linear programming model and a fast heuristic**|João Vitor Pamplona et.al.|[2504.20017v1](http://arxiv.org/abs/2504.20017v1)|**2025-04-28**|null|
-|**2025-04-28**|**LLM-Generated Fake News Induces Truth Decay in News Ecosystem: A Case Study on Neural News Recommendation**|Beizhe Hu et.al.|[2504.20013v2](http://arxiv.org/abs/2504.20013v2)|**2025-04-29**|null|
-|**2025-04-28**|**exoALMA XV: Interpreting the height of CO emission layer**|Giovanni P. Rosotti et.al.|[2504.20012v1](http://arxiv.org/abs/2504.20012v1)|**2025-04-28**|null|
-|**2025-04-28**|**Curiosity Driven Exploration to Optimize Structure-Property Learning in Microscopy**|Aditya Vatsavai et.al.|[2504.20011v1](http://arxiv.org/abs/2504.20011v1)|**2025-04-28**|null|
-|**2025-04-28**|**Towards Automated Scoping of AI for Social Good Projects**|Jacob Emmerson et.al.|[2504.20010v1](http://arxiv.org/abs/2504.20010v1)|**2025-04-28**|null|
-|**2025-04-28**|**Kinodynamic Trajectory Following with STELA: Simultaneous Trajectory Estimation & Local Adaptation**|Edgar Granados et.al.|[2504.20009v1](http://arxiv.org/abs/2504.20009v1)|**2025-04-28**|null|
-|**2025-04-28**|**Towards AI-Driven Policing: Interdisciplinary Knowledge Discovery from Police Body-Worn Camera Footage**|Anita Srbinovska et.al.|[2504.20007v1](http://arxiv.org/abs/2504.20007v1)|**2025-04-28**|null|
-|**2025-04-28**|**Chatbot Arena Meets Nuggets: Towards Explanations and Diagnostics in the Evaluation of LLM Responses**|Sahel Sharifymoghaddam et.al.|[2504.20006v1](http://arxiv.org/abs/2504.20006v1)|**2025-04-28**|null|
-|**2025-04-28**|**Socially-Aware Autonomous Driving: Inferring Yielding Intentions for Safer Interactions**|Jing Wang et.al.|[2504.20004v1](http://arxiv.org/abs/2504.20004v1)|**2025-04-28**|null|
-|**2025-04-28**|**Engineering Minimal k-Perfect Hash Functions**|Stefan Hermann et.al.|[2504.20001v1](http://arxiv.org/abs/2504.20001v1)|**2025-04-28**|[link](https://github.com/stefanfred/engineering-k-perfect-hashing)|
-|**2025-04-28**|**Knowledge Distillation of Domain-adapted LLMs for Question-Answering in Telecom**|Rishika Sen et.al.|[2504.20000v1](http://arxiv.org/abs/2504.20000v1)|**2025-04-28**|null|
-|**2025-04-28**|**Semi-parametric bulk and tail regression using spline-based neural networks**|Reetam Majumder et.al.|[2504.19994v1](http://arxiv.org/abs/2504.19994v1)|**2025-04-28**|null|
-|**2025-04-28**|**Towards Non-Abelian Quantum Signal Processing: Efficient Control of Hybrid Continuous- and Discrete-Variable Architectures**|Shraddha Singh et.al.|[2504.19992v1](http://arxiv.org/abs/2504.19992v1)|**2025-04-28**|null|
+|**2025-04-29**|**Toward Efficient Exploration by Large Language Model Agents**|Dilip Arumugam et.al.|[2504.20997v1](http://arxiv.org/abs/2504.20997v1)|**2025-04-29**|null|
+|**2025-04-29**|**TesserAct: Learning 4D Embodied World Models**|Haoyu Zhen et.al.|[2504.20995v1](http://arxiv.org/abs/2504.20995v1)|**2025-04-29**|null|
+|**2025-04-29**|**Cosmic superstrings in large volume compactifications: PTAs, LISA and time-varying tension**|Anish Ghoshal et.al.|[2504.20994v1](http://arxiv.org/abs/2504.20994v1)|**2025-04-29**|null|
+|**2025-04-29**|**Constraints on primordial non-Gaussianity from Quaia**|Giulio Fabbian et.al.|[2504.20992v1](http://arxiv.org/abs/2504.20992v1)|**2025-04-29**|null|
+|**2025-04-29**|**Quantum Hypothesis Testing Lemma for Deterministic Identification over Quantum Channels**|Pau Colomer et.al.|[2504.20991v1](http://arxiv.org/abs/2504.20991v1)|**2025-04-29**|null|
+|**2025-04-29**|**Modification of the scattering mechanisms in bilayer graphene in proximity to a molecular thin film probed in the mesoscopic regime**|Anise Mansour et.al.|[2504.20990v1](http://arxiv.org/abs/2504.20990v1)|**2025-04-29**|null|
+|**2025-04-29**|**Localized Fock Space Cages in Kinetically Constrained Models**|Cheryne Jonay et.al.|[2504.20987v1](http://arxiv.org/abs/2504.20987v1)|**2025-04-29**|null|
+|**2025-04-29**|**ACE: A Security Architecture for LLM-Integrated App Systems**|Evan Li et.al.|[2504.20984v1](http://arxiv.org/abs/2504.20984v1)|**2025-04-29**|null|
+|**2025-04-29**|**LTLf Adaptive Synthesis for Multi-Tier Goals in Nondeterministic Domains**|Giuseppe De Giacomo et.al.|[2504.20983v1](http://arxiv.org/abs/2504.20983v1)|**2025-04-29**|null|
+|**2025-04-29**|**Optical Activity of Group III-V Quantum Dots Directly Embedded in Silicon**|M. Gawełczyk et.al.|[2504.20981v1](http://arxiv.org/abs/2504.20981v1)|**2025-04-29**|null|
+|**2025-04-29**|**Jekyll-and-Hyde Tipping Point in an AI's Behavior**|Neil F. Johnson et.al.|[2504.20980v1](http://arxiv.org/abs/2504.20980v1)|**2025-04-29**|null|
+|**2025-04-29**|**Coloring graphs as complete graph invariants**|Shamil Asgarli et.al.|[2504.20978v1](http://arxiv.org/abs/2504.20978v1)|**2025-04-29**|null|
+|**2025-04-29**|**Integral of the double-emission eikonal function for a massive and a massless emitter at an arbitrary angle**|Dennis Horstmann et.al.|[2504.20977v1](http://arxiv.org/abs/2504.20977v1)|**2025-04-29**|null|
+|**2025-04-29**|**Linear function of a poset**|Stefan Mitrovic et.al.|[2504.20975v1](http://arxiv.org/abs/2504.20975v1)|**2025-04-29**|null|
+|**2025-04-29**|**Equivariant non-linear maps for neural networks on homogeneous spaces**|Elias Nyholm et.al.|[2504.20974v1](http://arxiv.org/abs/2504.20974v1)|**2025-04-29**|null|
+|**2025-04-29**|**SVD Based Least Squares for X-Ray Pneumonia Classification Using Deep Features**|Mete Erdogan et.al.|[2504.20970v1](http://arxiv.org/abs/2504.20970v1)|**2025-04-29**|null|
+|**2025-04-29**|**XPG-RL: Reinforcement Learning with Explainable Priority Guidance for Efficiency-Boosted Mechanical Search**|Yiting Zhang et.al.|[2504.20969v1](http://arxiv.org/abs/2504.20969v1)|**2025-04-29**|null|
+|**2025-04-29**|**Trapezodial property of the generalized Alexander polynomial**|Tamás Kálmán et.al.|[2504.20967v1](http://arxiv.org/abs/2504.20967v1)|**2025-04-29**|null|
+|**2025-04-29**|**A Novel Method of Modeling Extended Emission of Compact Jets: Application to Swift J1727.8-1613**|Andrzej A. Zdziarski et.al.|[2504.20962v1](http://arxiv.org/abs/2504.20962v1)|**2025-04-29**|null|
+|**2025-04-29**|**Soft-X-ray momentum microscopy of nonlinear magnon interactions below 100-nm wavelength**|Steffen Wittrock et.al.|[2504.20958v1](http://arxiv.org/abs/2504.20958v1)|**2025-04-29**|null|
+|**2025-04-29**|**A Quieter State of Charge -- Ultra-Low-Noise Collective Current in Charge-Density-Wave Nanowires**|Subhajit Ghosh et.al.|[2504.20957v1](http://arxiv.org/abs/2504.20957v1)|**2025-04-29**|null|
+|**2025-04-29**|**Egret-1: Pretrained Neural Network Potentials For Efficient and Accurate Bioorganic Simulation**|Corin C. Wagen et.al.|[2504.20955v1](http://arxiv.org/abs/2504.20955v1)|**2025-04-29**|null|
+|**2025-04-29**|**21 years of Astronomy at Warwick: celebrating the legacy of Prof. Tom Marsh**|Ingrid Pelisoli et.al.|[2504.20954v1](http://arxiv.org/abs/2504.20954v1)|**2025-04-29**|null|
+|**2025-04-29**|**Pinpointing energy transfer mechanisms in the quenching process of microwave air plasma**|Q. Shen et.al.|[2504.20952v1](http://arxiv.org/abs/2504.20952v1)|**2025-04-29**|null|
+|**2025-04-29**|**Information Gravity: A Field-Theoretic Model for Token Selection in Large Language Models**|Maryna Vyshnyvetska et.al.|[2504.20951v1](http://arxiv.org/abs/2504.20951v1)|**2025-04-29**|null|
+|**2025-04-29**|**Improved Bounds on the Space Complexity of Circuit Evaluation**|Yakov Shalunov et.al.|[2504.20950v1](http://arxiv.org/abs/2504.20950v1)|**2025-04-29**|null|
+|**2025-04-29**|**Trace-of-Thought: Enhanced Arithmetic Problem Solving via Reasoning Distillation From Large to Small Language Models**|Tyler McDonald et.al.|[2504.20946v1](http://arxiv.org/abs/2504.20946v1)|**2025-04-29**|null|
+|**2025-04-29**|**Deep Learning Characterizes Depression and Suicidal Ideation from Eye Movements**|Kleanthis Avramidis et.al.|[2504.20944v1](http://arxiv.org/abs/2504.20944v1)|**2025-04-29**|null|
+|**2025-04-29**|**Conformal-DP: Differential Privacy on Riemannian Manifolds via Conformal Transformation**|Peilin He et.al.|[2504.20941v1](http://arxiv.org/abs/2504.20941v1)|**2025-04-29**|null|
+|**2025-04-29**|**Energy-Based Coarse-Graining in Molecular Dynamics: A Flow-Based Framework Without Data**|Maximilian Stupp et.al.|[2504.20940v1](http://arxiv.org/abs/2504.20940v1)|**2025-04-29**|null|

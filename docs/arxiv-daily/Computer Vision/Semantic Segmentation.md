@@ -2,33 +2,33 @@
 ### Semantic Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-28**|**CompleteMe: Reference-based Human Image Completion**|Yu-Ju Tsai et.al.|[2504.20042v1](http://arxiv.org/abs/2504.20042v1)|**2025-04-28**|null|
-|**2025-04-28**|**Learning Streaming Video Representation via Multitask Training**|Yibin Yan et.al.|[2504.20041v1](http://arxiv.org/abs/2504.20041v1)|**2025-04-28**|null|
-|**2025-04-28**|**Modular Machine Learning: An Indispensable Path towards New-Generation Large Language Models**|Xin Wang et.al.|[2504.20020v1](http://arxiv.org/abs/2504.20020v1)|**2025-04-28**|null|
-|**2025-04-28**|**How Group Lives Go Well**|John Beverley et.al.|[2504.19968v1](http://arxiv.org/abs/2504.19968v1)|**2025-04-28**|null|
-|**2025-04-28**|**Enhancing Surgical Documentation through Multimodal Visual-Temporal Transformers and Generative AI**|Hugo Georgenthum et.al.|[2504.19918v1](http://arxiv.org/abs/2504.19918v1)|**2025-04-28**|null|
-|**2025-04-28**|**GenCLS++: Pushing the Boundaries of Generative Classification in LLMs Through Comprehensive SFT and RL Studies Across Diverse Datasets**|Mingqian He et.al.|[2504.19898v1](http://arxiv.org/abs/2504.19898v1)|**2025-04-28**|null|
-|**2025-04-28**|**CoherenDream: Boosting Holistic Text Coherence in 3D Generation via Multimodal Large Language Models Feedback**|Chenhan Jiang et.al.|[2504.19860v1](http://arxiv.org/abs/2504.19860v1)|**2025-04-28**|null|
-|**2025-04-28**|**NORA: A Small Open-Sourced Generalist Vision Language Action Model for Embodied Tasks**|Chia-Yu Hung et.al.|[2504.19854v1](http://arxiv.org/abs/2504.19854v1)|**2025-04-28**|null|
-|**2025-04-28**|**Foundation Model-Driven Framework for Human-Object Interaction Prediction with Segmentation Mask Integration**|Juhan Park et.al.|[2504.19847v1](http://arxiv.org/abs/2504.19847v1)|**2025-04-28**|null|
-|**2025-04-28**|**SRMF: A Data Augmentation and Multimodal Fusion Approach for Long-Tail UHR Satellite Image Segmentation**|Yulong Guo et.al.|[2504.19839v1](http://arxiv.org/abs/2504.19839v1)|**2025-04-28**|null|
-|**2025-04-28**|**Taming the Randomness: Towards Label-Preserving Cropping in Contrastive Learning**|Mohamed Hassan et.al.|[2504.19824v1](http://arxiv.org/abs/2504.19824v1)|**2025-04-28**|null|
-|**2025-04-28**|**Reinforcement Learning-Based Heterogeneous Multi-Task Optimization in Semantic Broadcast Communications**|Zhilin Lu et.al.|[2504.19806v1](http://arxiv.org/abs/2504.19806v1)|**2025-04-28**|null|
-|**2025-04-28**|**vMODB: Unifying event and data management for distributed asynchronous applications**|Rodrigo Laigner et.al.|[2504.19757v1](http://arxiv.org/abs/2504.19757v1)|**2025-04-28**|null|
-|**2025-04-28**|**Logic-based Resilience Computation of Power Systems Against Frequency Requirements**|Negar Monir et.al.|[2504.19756v1](http://arxiv.org/abs/2504.19756v1)|**2025-04-28**|null|
-|**2025-04-28**|**Reconstructing Context: Evaluating Advanced Chunking Strategies for Retrieval-Augmented Generation**|Carlo Merola et.al.|[2504.19754v1](http://arxiv.org/abs/2504.19754v1)|**2025-04-28**|null|
-|**2025-04-28**|**Contrastive Language-Image Learning with Augmented Textual Prompts for 3D/4D FER Using Vision-Language Model**|Muzammil Behzad et.al.|[2504.19739v1](http://arxiv.org/abs/2504.19739v1)|**2025-04-28**|null|
-|**2025-04-28**|**Pixels2Points: Fusing 2D and 3D Features for Facial Skin Segmentation**|Victoria Yue Chen et.al.|[2504.19718v1](http://arxiv.org/abs/2504.19718v1)|**2025-04-28**|null|
-|**2025-04-28**|**QuickGrasp: Lightweight Antipodal Grasp Planning with Point Clouds**|Navin Sriram Ravie et.al.|[2504.19716v1](http://arxiv.org/abs/2504.19716v1)|**2025-04-28**|null|
-|**2025-04-28**|**Open-set Anomaly Segmentation in Complex Scenarios**|Song Xia et.al.|[2504.19706v1](http://arxiv.org/abs/2504.19706v1)|**2025-04-28**|null|
-|**2025-04-28**|**Dynamical decomposition of generalized interval exchange transformations**|Charles Fougeron et.al.|[2504.19704v1](http://arxiv.org/abs/2504.19704v1)|**2025-04-28**|null|
-|**2025-04-28**|**SubGrapher: Visual Fingerprinting of Chemical Structures**|Lucas Morin et.al.|[2504.19695v1](http://arxiv.org/abs/2504.19695v1)|**2025-04-28**|null|
-|**2025-04-28**|**Explaining Vision GNNs: A Semantic and Visual Analysis of Graph-based Image Classification**|Nikolaos Chaidos et.al.|[2504.19682v1](http://arxiv.org/abs/2504.19682v1)|**2025-04-28**|null|
-|**2025-04-28**|**Multimodal Conditioned Diffusive Time Series Forecasting**|Chen Su et.al.|[2504.19669v1](http://arxiv.org/abs/2504.19669v1)|**2025-04-28**|null|
-|**2025-04-28**|**The Boussinesq equation on the half-line**|Christophe Charlier et.al.|[2504.19663v1](http://arxiv.org/abs/2504.19663v1)|**2025-04-28**|null|
-|**2025-04-28**|**BARIS: Boundary-Aware Refinement with Environmental Degradation Priors for Robust Underwater Instance Segmentation**|Pin-Chi Pan et.al.|[2504.19643v1](http://arxiv.org/abs/2504.19643v1)|**2025-04-28**|null|
-|**2025-04-28**|**Exploiting Inter-Sample Correlation and Intra-Sample Redundancy for Partially Relevant Video Retrieval**|Junlong Ren et.al.|[2504.19637v1](http://arxiv.org/abs/2504.19637v1)|**2025-04-28**|null|
-|**2025-04-28**|**NSegment : Noisy Segment Improves Remote Sensing Image Segmentation**|Yechan Kim et.al.|[2504.19634v1](http://arxiv.org/abs/2504.19634v1)|**2025-04-28**|null|
-|**2025-04-28**|**Scene2Hap: Combining LLMs and Physical Modeling for Automatically Generating Vibrotactile Signals for Full VR Scenes**|Arata Jingu et.al.|[2504.19611v1](http://arxiv.org/abs/2504.19611v1)|**2025-04-28**|null|
-|**2025-04-28**|**Characterizing the Optimal Memory-Rate Tradeoff in Secure Coded Caching for Small Buffer or Small Rate**|Han Fang et.al.|[2504.19601v1](http://arxiv.org/abs/2504.19601v1)|**2025-04-28**|null|
-|**2025-04-28**|**Neural network task specialization via domain constraining**|Roman Malashin et.al.|[2504.19592v1](http://arxiv.org/abs/2504.19592v1)|**2025-04-28**|null|
+|**2025-04-29**|**XPG-RL: Reinforcement Learning with Explainable Priority Guidance for Efficiency-Boosted Mechanical Search**|Yiting Zhang et.al.|[2504.20969v1](http://arxiv.org/abs/2504.20969v1)|**2025-04-29**|null|
+|**2025-04-29**|**OSVBench: Benchmarking LLMs on Specification Generation Tasks for Operating System Verification**|Shangyu Li et.al.|[2504.20964v1](http://arxiv.org/abs/2504.20964v1)|**2025-04-29**|null|
+|**2025-04-29**|**Information Gravity: A Field-Theoretic Model for Token Selection in Large Language Models**|Maryna Vyshnyvetska et.al.|[2504.20951v1](http://arxiv.org/abs/2504.20951v1)|**2025-04-29**|null|
+|**2025-04-29**|**Flexible Semantic-Aware Resource Allocation: Serving More Users Through Similarity Range Constraints**|Nasrin Gholami et.al.|[2504.20939v1](http://arxiv.org/abs/2504.20939v1)|**2025-04-29**|null|
+|**2025-04-29**|**FLIM-based Salient Object Detection Networks with Adaptive Decoders**|Gilson Junior Soares et.al.|[2504.20872v1](http://arxiv.org/abs/2504.20872v1)|**2025-04-29**|null|
+|**2025-04-29**|**RadSAM: Segmenting 3D radiological images with a 2D promptable model**|Julien Khlaut et.al.|[2504.20837v1](http://arxiv.org/abs/2504.20837v1)|**2025-04-29**|null|
+|**2025-04-29**|**Enhancing Non-Core Language Instruction-Following in Speech LLMs via Semi-Implicit Cross-Lingual CoT Reasoning**|Hongfei Xue et.al.|[2504.20835v1](http://arxiv.org/abs/2504.20835v1)|**2025-04-29**|null|
+|**2025-04-29**|**An approach to melodic segmentation and classification based on filtering with the Haar-wavelet**|Gissel Velarde et.al.|[2504.20822v1](http://arxiv.org/abs/2504.20822v1)|**2025-04-29**|null|
+|**2025-04-29**|**Unlocking User-oriented Pages: Intention-driven Black-box Scanner for Real-world Web Applications**|Weizhe Wang et.al.|[2504.20801v1](http://arxiv.org/abs/2504.20801v1)|**2025-04-29**|null|
+|**2025-04-29**|**Adept: Annotation-Denoising Auxiliary Tasks with Discrete Cosine Transform Map and Keypoint for Human-Centric Pretraining**|Weizhen He et.al.|[2504.20800v1](http://arxiv.org/abs/2504.20800v1)|**2025-04-29**|null|
+|**2025-04-29**|**Upper critical field and pairing symmetry of Ising superconductors**|Lena Engström et.al.|[2504.20775v1](http://arxiv.org/abs/2504.20775v1)|**2025-04-29**|null|
+|**2025-04-29**|**LakeVilla: Multi-Table Transactions for Lakehouses**|Tobias Götz et.al.|[2504.20768v1](http://arxiv.org/abs/2504.20768v1)|**2025-04-29**|null|
+|**2025-04-29**|**Graph-Based Fault Diagnosis for Rotating Machinery: Adaptive Segmentation and Structural Feature Integration**|Moirangthem Tiken Singh et.al.|[2504.20756v1](http://arxiv.org/abs/2504.20756v1)|**2025-04-29**|null|
+|**2025-04-29**|**Bayesian Inference in Quantum Programs**|Christina Gehnen et.al.|[2504.20732v1](http://arxiv.org/abs/2504.20732v1)|**2025-04-29**|null|
+|**2025-04-29**|**Learning a General Model: Folding Clothing with Topological Dynamics**|Yiming Liu et.al.|[2504.20720v1](http://arxiv.org/abs/2504.20720v1)|**2025-04-29**|null|
+|**2025-04-29**|**Beyond the Last Answer: Your Reasoning Trace Uncovers More than You Think**|Hasan Abed Al Kader Hammoud et.al.|[2504.20708v1](http://arxiv.org/abs/2504.20708v1)|**2025-04-29**|null|
+|**2025-04-29**|**OG-HFYOLO :Orientation gradient guidance and heterogeneous feature fusion for deformation table cell instance segmentation**|Long Liu et.al.|[2504.20682v1](http://arxiv.org/abs/2504.20682v1)|**2025-04-29**|null|
+|**2025-04-29**|**Are Information Retrieval Approaches Good at Harmonising Longitudinal Survey Questions in Social Science?**|Wing Yan Li et.al.|[2504.20679v1](http://arxiv.org/abs/2504.20679v1)|**2025-04-29**|null|
+|**2025-04-29**|**FBRT-YOLO: Faster and Better for Real-Time Aerial Image Detection**|Yao Xiao et.al.|[2504.20670v1](http://arxiv.org/abs/2504.20670v1)|**2025-04-29**|null|
+|**2025-04-29**|**Warehouse storage and retrieval optimization via clustering, dynamic systems modeling, and GPU-accelerated routing**|Magnus Bengtsson et.al.|[2504.20655v1](http://arxiv.org/abs/2504.20655v1)|**2025-04-29**|null|
+|**2025-04-29**|**PartHOI: Part-based Hand-Object Interaction Transfer via Generalized Cylinders**|Qiaochu Wang et.al.|[2504.20599v1](http://arxiv.org/abs/2504.20599v1)|**2025-04-29**|null|
+|**2025-04-29**|**Bootstrap Prediction and Confidence Bands for Frequency Response Functions in Posturography**|Vittorio Lippi et.al.|[2504.20588v1](http://arxiv.org/abs/2504.20588v1)|**2025-04-29**|null|
+|**2025-04-29**|**SNR-aware Semantic Image Transmission with Deep Learning-based Channel Estimation in Fading Channels**|Mahmoud M. Salim et.al.|[2504.20557v1](http://arxiv.org/abs/2504.20557v1)|**2025-04-29**|null|
+|**2025-04-29**|**Wavelet-Filtering of Symbolic Music Representations for Folk Tune Segmentation and Classification**|Gissel Velarde et.al.|[2504.20522v1](http://arxiv.org/abs/2504.20522v1)|**2025-04-29**|null|
+|**2025-04-29**|**MuRAL: A Multi-Resident Ambient Sensor Dataset Annotated with Natural Language for Activities of Daily Living**|Xi Chen et.al.|[2504.20505v1](http://arxiv.org/abs/2504.20505v1)|**2025-04-29**|null|
+|**2025-04-29**|**SAM-Guided Robust Representation Learning for One-Shot 3D Medical Image Segmentation**|Jia Wang et.al.|[2504.20501v1](http://arxiv.org/abs/2504.20501v1)|**2025-04-29**|null|
+|**2025-04-29**|**Style-Adaptive Detection Transformer for Single-Source Domain Generalized Object Detection**|Jianhong Han et.al.|[2504.20498v1](http://arxiv.org/abs/2504.20498v1)|**2025-04-29**|null|
+|**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496v1](http://arxiv.org/abs/2504.20496v1)|**2025-04-29**|null|
+|**2025-04-29**|**Enhancing LLM Language Adaption through Cross-lingual In-Context Pre-training**|Linjuan Wu et.al.|[2504.20484v1](http://arxiv.org/abs/2504.20484v1)|**2025-04-29**|null|
+|**2025-04-29**|**Fane at SemEval-2025 Task 10: Zero-Shot Entity Framing with Large Language Models**|Enfa Fane et.al.|[2504.20469v1](http://arxiv.org/abs/2504.20469v1)|**2025-04-29**|null|

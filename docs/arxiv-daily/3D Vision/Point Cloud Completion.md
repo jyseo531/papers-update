@@ -2,33 +2,33 @@
 ### Point Cloud Completion
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-28**|**CompleteMe: Reference-based Human Image Completion**|Yu-Ju Tsai et.al.|[2504.20042v1](http://arxiv.org/abs/2504.20042v1)|**2025-04-28**|null|
-|**2025-04-28**|**Towards Scalable Braiding: Topological Superconductivity Unlocked under Nearly Arbitrary Magnetic Field Directions in Planar Josephson Junctions**|Richang Huang et.al.|[2504.20031v1](http://arxiv.org/abs/2504.20031v1)|**2025-04-28**|null|
-|**2025-04-28**|**Engineering Minimal k-Perfect Hash Functions**|Stefan Hermann et.al.|[2504.20001v1](http://arxiv.org/abs/2504.20001v1)|**2025-04-28**|[link](https://github.com/stefanfred/engineering-k-perfect-hashing)|
-|**2025-04-28**|**Revisiting the temporal law in KPZ random growth**|Mustazee Rahman et.al.|[2504.19975v1](http://arxiv.org/abs/2504.19975v1)|**2025-04-28**|null|
-|**2025-04-28**|**XMM-Newton Observations of the High Temperature Plasma in the Large Magellanic Cloud Supernova Remnant N132D**|Adam R. Foster et.al.|[2504.19964v1](http://arxiv.org/abs/2504.19964v1)|**2025-04-28**|null|
-|**2025-04-28**|**Revisiting Directed Disjoint Paths on tournaments (and relatives)**|Guilherme C. M. Gomes et.al.|[2504.19957v1](http://arxiv.org/abs/2504.19957v1)|**2025-04-28**|null|
-|**2025-04-28**|**Probabilistic and Causal Satisfiability: Constraining the Model**|Markus Bläser et.al.|[2504.19944v1](http://arxiv.org/abs/2504.19944v1)|**2025-04-28**|null|
-|**2025-04-28**|**Mesh-Learner: Texturing Mesh with Spherical Harmonics**|Yunfei Wan et.al.|[2504.19938v1](http://arxiv.org/abs/2504.19938v1)|**2025-04-28**|null|
-|**2025-04-28**|**Modeling of Parallel Single-Pixel Imaging for 3D Reconstruction: New Insights and Opportunities**|Feifei Chen et.al.|[2504.19923v1](http://arxiv.org/abs/2504.19923v1)|**2025-04-28**|null|
-|**2025-04-28**|**Analytic reconstruction with massive particles: one-loop amplitudes for $0 \to \bar{q}qt\bar{t}H$**|John M. Campbell et.al.|[2504.19909v1](http://arxiv.org/abs/2504.19909v1)|**2025-04-28**|null|
-|**2025-04-28**|**Epitaxial growth of BaBiO3 thin films on SrTiO3(001) and MgO(001) substrates using molecular beam epitaxy and controlling their crystal orientations competition**|Islam Ahmed et.al.|[2504.19895v1](http://arxiv.org/abs/2504.19895v1)|**2025-04-28**|null|
-|**2025-04-28**|**Lightning activity on a tidally locked terrestrial exoplanet in storm-resolving simulations for a range of surface pressures**|Denis E. Sergeev et.al.|[2504.19883v1](http://arxiv.org/abs/2504.19883v1)|**2025-04-28**|null|
-|**2025-04-28**|**A JWST Study of the Remarkable Oort Cloud Comet C/2017 K2 (PanSTARRS)**|Charles E. Woodward et.al.|[2504.19849v1](http://arxiv.org/abs/2504.19849v1)|**2025-04-28**|null|
-|**2025-04-28**|**On Hopf's Lemma for sign-changing supersolutions to fractional Laplacian equations**|Azahara DelaTorre et.al.|[2504.19843v1](http://arxiv.org/abs/2504.19843v1)|**2025-04-28**|null|
-|**2025-04-28**|**Optimal real-time dynamic treatment regimes with application to oxytocin use in preventing postpartum hemorrhage**|Haiyan Zhu et.al.|[2504.19831v1](http://arxiv.org/abs/2504.19831v1)|**2025-04-28**|null|
-|**2025-04-28**|**Quantum oracles for the finite element method**|Sven Danz et.al.|[2504.19827v1](http://arxiv.org/abs/2504.19827v1)|**2025-04-28**|null|
-|**2025-04-28**|**SILENT: A New Lens on Statistics in Software Timing Side Channels**|Martin Dunsche et.al.|[2504.19821v1](http://arxiv.org/abs/2504.19821v1)|**2025-04-28**|null|
-|**2025-04-28**|**OmicsQ: A User-Friendly Platform for Interactive Quantitative Omics Data Analysis**|Xuan-Tung Trinh et.al.|[2504.19813v1](http://arxiv.org/abs/2504.19813v1)|**2025-04-28**|null|
-|**2025-04-28**|**Can a Crow Hatch a Falcon? Lineage Matters in Predicting Large Language Model Performance**|Takuya Tamura et.al.|[2504.19811v1](http://arxiv.org/abs/2504.19811v1)|**2025-04-28**|null|
-|**2025-04-28**|**Protoplanetary disk insights from the first ERIS/APP survey at 4 μm**|F. Maio et.al.|[2504.19810v1](http://arxiv.org/abs/2504.19810v1)|**2025-04-28**|null|
-|**2025-04-28**|**Fixed point theorems for small divisors problems**|Mauricio Garay et.al.|[2504.19808v1](http://arxiv.org/abs/2504.19808v1)|**2025-04-28**|null|
-|**2025-04-28**|**Unconventional Relaxation Dynamics in Co_8Zn_7Mn_5 and Co_8Zn_8Mn_4: Evidence of Inertial Effects**|P. Saha et.al.|[2504.19803v1](http://arxiv.org/abs/2504.19803v1)|**2025-04-28**|null|
-|**2025-04-28**|**Crystal field excitations in rattling clathrate CeBa$_7$Au$_6$Si$_{40}$**|Michelangelo Tagliavini et.al.|[2504.19802v1](http://arxiv.org/abs/2504.19802v1)|**2025-04-28**|null|
-|**2025-04-28**|**Stochastic quantum adiabatic algorithm with fractional Brownian motion**|Osanda Chinthila et.al.|[2504.19801v1](http://arxiv.org/abs/2504.19801v1)|**2025-04-28**|null|
-|**2025-04-28**|**Long time asymptotics of a perturbed modified KdV equation**|Gong Chen et.al.|[2504.19800v1](http://arxiv.org/abs/2504.19800v1)|**2025-04-28**|null|
-|**2025-04-28**|**Contextures: The Mechanism of Representation Learning**|Runtian Zhai et.al.|[2504.19792v1](http://arxiv.org/abs/2504.19792v1)|**2025-04-28**|null|
-|**2025-04-28**|**Lattice points in polytope boundaries and formal geometric quantization of singular Calabi Yau hypersurfaces in toric varieties**|Jonathan Weitsman et.al.|[2504.19775v1](http://arxiv.org/abs/2504.19775v1)|**2025-04-28**|null|
-|**2025-04-28**|**On Solving the Dynamics of Constrained Rigid Multi-Body Systems with Kinematic Loops**|Vassilios Tsounis et.al.|[2504.19771v1](http://arxiv.org/abs/2504.19771v1)|**2025-04-28**|null|
-|**2025-04-28**|**Simplicity of Mellin amplitudes for AdS$_3 \times$S$^3$**|F. Aprile et.al.|[2504.19770v1](http://arxiv.org/abs/2504.19770v1)|**2025-04-28**|null|
-|**2025-04-28**|**Polarized pulse pair observations during a long duration interstellar communication experiment**|William J. Crilly jr et.al.|[2504.19765v1](http://arxiv.org/abs/2504.19765v1)|**2025-04-28**|null|
+|**2025-04-29**|**Hubs and Spokes Learning: Efficient and Scalable Collaborative Machine Learning**|Atul Sharma et.al.|[2504.20988v1](http://arxiv.org/abs/2504.20988v1)|**2025-04-29**|null|
+|**2025-04-29**|**LTLf Adaptive Synthesis for Multi-Tier Goals in Nondeterministic Domains**|Giuseppe De Giacomo et.al.|[2504.20983v1](http://arxiv.org/abs/2504.20983v1)|**2025-04-29**|null|
+|**2025-04-29**|**Provably faster randomized and quantum algorithms for k-means clustering via uniform sampling**|Tyler Chen et.al.|[2504.20982v1](http://arxiv.org/abs/2504.20982v1)|**2025-04-29**|null|
+|**2025-04-29**|**Jekyll-and-Hyde Tipping Point in an AI's Behavior**|Neil F. Johnson et.al.|[2504.20980v1](http://arxiv.org/abs/2504.20980v1)|**2025-04-29**|null|
+|**2025-04-29**|**A Complete Characterization of Passive Unitary Normalizable (PUN) Gaussian States**|Tiju Cherian John et.al.|[2504.20979v1](http://arxiv.org/abs/2504.20979v1)|**2025-04-29**|null|
+|**2025-04-29**|**Coloring graphs as complete graph invariants**|Shamil Asgarli et.al.|[2504.20978v1](http://arxiv.org/abs/2504.20978v1)|**2025-04-29**|null|
+|**2025-04-29**|**A distance between operators acting in different Hilbert spaces and operator convergence**|Olaf Post et.al.|[2504.20971v1](http://arxiv.org/abs/2504.20971v1)|**2025-04-29**|null|
+|**2025-04-29**|**OSVBench: Benchmarking LLMs on Specification Generation Tasks for Operating System Verification**|Shangyu Li et.al.|[2504.20964v1](http://arxiv.org/abs/2504.20964v1)|**2025-04-29**|null|
+|**2025-04-29**|**Prekosmic Grothendieck/Galois Categories**|Jaehyeok Lee et.al.|[2504.20949v1](http://arxiv.org/abs/2504.20949v1)|**2025-04-29**|null|
+|**2025-04-29**|**Trace-of-Thought: Enhanced Arithmetic Problem Solving via Reasoning Distillation From Large to Small Language Models**|Tyler McDonald et.al.|[2504.20946v1](http://arxiv.org/abs/2504.20946v1)|**2025-04-29**|null|
+|**2025-04-29**|**There is no boundary problem**|J. François et.al.|[2504.20945v1](http://arxiv.org/abs/2504.20945v1)|**2025-04-29**|null|
+|**2025-04-29**|**Conformal-DP: Differential Privacy on Riemannian Manifolds via Conformal Transformation**|Peilin He et.al.|[2504.20941v1](http://arxiv.org/abs/2504.20941v1)|**2025-04-29**|null|
+|**2025-04-29**|**Note about the complexity of the acyclic orientation with parity constraint problem**|Sylvain Gravier et.al.|[2504.20935v1](http://arxiv.org/abs/2504.20935v1)|**2025-04-29**|null|
+|**2025-04-29**|**ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification**|Ziqing Fan et.al.|[2504.20930v1](http://arxiv.org/abs/2504.20930v1)|**2025-04-29**|null|
+|**2025-04-29**|**Design and performance of the prototype of the new Particle Identification system for the MAGNEX spectrometer within the NUMEN project**|C. Lombardo et.al.|[2504.20913v1](http://arxiv.org/abs/2504.20913v1)|**2025-04-29**|null|
+|**2025-04-29**|**GiBy: A Giant-Step Baby-Step Classifier For Anomaly Detection In Industrial Control Systems**|Sarad Venugopalan et.al.|[2504.20906v1](http://arxiv.org/abs/2504.20906v1)|**2025-04-29**|null|
+|**2025-04-29**|**Imaging on the Edge: Mapping Object Corners and Edges with Stereo X-ray Tomography**|Zhenduo Shang et.al.|[2504.20892v1](http://arxiv.org/abs/2504.20892v1)|**2025-04-29**|null|
+|**2025-04-29**|**New Capacity Bounds for PIR on Graph and Multigraph-Based Replicated Storage**|Xiangliang Kong et.al.|[2504.20888v1](http://arxiv.org/abs/2504.20888v1)|**2025-04-29**|null|
+|**2025-04-29**|**Guessing Efficiently for Constrained Subspace Approximation**|Aditya Bhaskara et.al.|[2504.20883v1](http://arxiv.org/abs/2504.20883v1)|**2025-04-29**|null|
+|**2025-04-29**|**Six types of separable integer partitions**|Thomas Y. He et.al.|[2504.20875v1](http://arxiv.org/abs/2504.20875v1)|**2025-04-29**|null|
+|**2025-04-29**|**Fluctuating magnetism in Zn-doped averievite with well-separated kagome layers**|G. Simutis et.al.|[2504.20871v1](http://arxiv.org/abs/2504.20871v1)|**2025-04-29**|null|
+|**2025-04-29**|**Machine Learning (ML)-Physics Fusion Model Outperforms Both Physics-Only and ML-Only Models in Typhoon Predictions**|Zeyi Niu et.al.|[2504.20852v1](http://arxiv.org/abs/2504.20852v1)|**2025-04-29**|null|
+|**2025-04-29**|**Nuclear Dimension for Virtually Abelian Groups**|Frankie Chan et.al.|[2504.20850v1](http://arxiv.org/abs/2504.20850v1)|**2025-04-29**|null|
+|**2025-04-29**|**Universal language model with the intervention of quantum theory**|D. -F. Qin et.al.|[2504.20839v1](http://arxiv.org/abs/2504.20839v1)|**2025-04-29**|null|
+|**2025-04-29**|**RadSAM: Segmenting 3D radiological images with a 2D promptable model**|Julien Khlaut et.al.|[2504.20837v1](http://arxiv.org/abs/2504.20837v1)|**2025-04-29**|null|
+|**2025-04-29**|**Non-Linear Modeling and Analysis of Amplifier-Less Potentiostat Architectures**|Andrea Sannino et.al.|[2504.20836v1](http://arxiv.org/abs/2504.20836v1)|**2025-04-29**|null|
+|**2025-04-29**|**Field energy and angular momentum in spontaneous emission: A Schrödinger-picture approach**|P. R. Berman et.al.|[2504.20831v1](http://arxiv.org/abs/2504.20831v1)|**2025-04-29**|null|
+|**2025-04-29**|**CMT: A Cascade MAR with Topology Predictor for Multimodal Conditional CAD Generation**|Jianyu Wu et.al.|[2504.20830v1](http://arxiv.org/abs/2504.20830v1)|**2025-04-29**|null|
+|**2025-04-29**|**The When and How of Target Variable Transformations**|Loren Nuyts et.al.|[2504.20821v1](http://arxiv.org/abs/2504.20821v1)|**2025-04-29**|null|
+|**2025-04-29**|**Quantum Signature of Anisotropic Singularities in Hydrogen Bond Breaking of Water Dimer**|Md Rejwan Ali et.al.|[2504.20819v1](http://arxiv.org/abs/2504.20819v1)|**2025-04-29**|null|
