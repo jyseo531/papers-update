@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-04-29
+Updated on 2025-04-30
 
 > Generated from the Hugging Face database.
 
@@ -84,6 +84,7 @@ Updated on 2025-04-29
 | 4.92k | 7 | facebook/mms-lid-4017Audio | UpdatedJun 13, 2023 | [Link](https://huggingface.co/facebook/mms-lid-4017) |
 | 24 | 7 | alefiury/wav2vec2-xls-r-300m-pt-br-spontaneous-speech-emotion-recognitionAudio | UpdatedApr 3, 2022 | [Link](https://huggingface.co/alefiury/wav2vec2-xls-r-300m-pt-br-spontaneous-speech-emotion-recognition) |
 | 26 | 6 | SpeechFlow/spoken_language_identificationAudio | UpdatedMar 24, 2023 | [Link](https://huggingface.co/SpeechFlow/spoken_language_identification) |
+| 578 | 6 | padmalcom/wav2vec2-large-nonverbalvocalization-classificationAudio | UpdatedJan 11, 2023 | [Link](https://huggingface.co/padmalcom/wav2vec2-large-nonverbalvocalization-classification) |
 | 5 | 5 | AkshaySg/langidAudio | UpdatedNov 4, 2021 | [Link](https://huggingface.co/AkshaySg/langid) |
 | 167 | 5 | somosnlp-hackathon-2022/wav2vec2-base-finetuned-sentiment-mesdAudio | UpdatedDec 20, 2023 | [Link](https://huggingface.co/somosnlp-hackathon-2022/wav2vec2-base-finetuned-sentiment-mesd) |
 | 178k | 5 | MIT/ast-finetuned-audioset-14-14-0 | UpdatedApr 16, 2024 | [Link](https://huggingface.co/MIT/ast-finetuned-audioset-14-14-0.443) |
@@ -548,6 +549,7 @@ Updated on 2025-04-29
 | 23 | 2 | Omartificial-Intelligence-Space/AraEuroBert-2 | Updated6 days ago | [Link](https://huggingface.co/Omartificial-Intelligence-Space/AraEuroBert-2.1B) |
 | 336 | 2 | conservationxlabs/miewid-msv3Feature | UpdatedFeb 13 | [Link](https://huggingface.co/conservationxlabs/miewid-msv3) |
 | 10 | 2 | facebook/fasttext-th-vectorsFeature | UpdatedJun 3, 2023 | [Link](https://huggingface.co/facebook/fasttext-th-vectors) |
+| 10 | 2 | qihoo360/360Zhinao3-7B-InstructFeature | Updated6 days ago | [Link](https://huggingface.co/qihoo360/360Zhinao3-7B-Instruct) |
 | 538k |  | intfloat/multilingual-e5-large-instructFeature | Updated8 days ago | [Link](https://huggingface.co/intfloat/multilingual-e5-large-instruct) |
 | 2.28M |  | intfloat/multilingual-e5-largeFeature | Updated8 days ago | [Link](https://huggingface.co/intfloat/multilingual-e5-large) |
 | 590k |  | BAAI/bge-large-zh-v1 | UpdatedApr 2, 2024 | [Link](https://huggingface.co/BAAI/bge-large-zh-v1.5) |
@@ -1725,6 +1727,7 @@ Updated on 2025-04-29
 | 24 | 2 | xwm/SciWorld-MPOReinforcement | Updatedabout 10 hours ago | [Link](https://huggingface.co/xwm/SciWorld-MPO) |
 | 85 | 2 | PampX/ppo-HuggyReinforcement | UpdatedDec 3, 2024 | [Link](https://huggingface.co/PampX/ppo-Huggy) |
 | 62 | 2 | ThomasSimonini/ppo-HuggyReinforcement | UpdatedDec 4, 2022 | [Link](https://huggingface.co/ThomasSimonini/ppo-Huggy) |
+| 2 | 2 | NousResearch/DeepHermes-Egregore-v1-RLAIF-8b-AtroposReinforcement | Updatedabout 17 hours ago | [Link](https://huggingface.co/NousResearch/DeepHermes-Egregore-v1-RLAIF-8b-Atropos) |
 | 4 | 1 | ThomasSimonini/ppo-AntBulletEnv-v0Reinforcement | UpdatedApr 7, 2022 | [Link](https://huggingface.co/ThomasSimonini/ppo-AntBulletEnv-v0) |
 | 549 | 1 | sb3/sac-Humanoid-v3Reinforcement | UpdatedOct 11, 2022 | [Link](https://huggingface.co/sb3/sac-Humanoid-v3) |
 | 783 | 1 | sb3/dqn-SpaceInvadersNoFrameskip-v4Reinforcement | UpdatedOct 11, 2022 | [Link](https://huggingface.co/sb3/dqn-SpaceInvadersNoFrameskip-v4) |
@@ -2273,6 +2276,8 @@ Updated on 2025-04-29
 | 2 | Unknown | fzn0x/bert-spam-classification-modelText | Updatedabout 11 hours ago | [Link](https://huggingface.co/fzn0x/bert-spam-classification-model) |
 | 26.6k |  | CAMeL-Lab/bert-base-arabic-camelbert-da-sentimentText | UpdatedOct 17, 2021 | [Link](https://huggingface.co/CAMeL-Lab/bert-base-arabic-camelbert-da-sentiment) |
 | 2.78k |  | Hate-speech-CNERG/bert-base-uncased-hatexplainText | UpdatedMay 25, 2021 | [Link](https://huggingface.co/Hate-speech-CNERG/bert-base-uncased-hatexplain) |
+| 6 | Unknown | meta-llama/Llama-Prompt-Guard-2-86MText | Updatedabout 10 hours ago | [Link](https://huggingface.co/meta-llama/Llama-Prompt-Guard-2-86M) |
+| 4 | Unknown | meta-llama/Llama-Prompt-Guard-2-22MText | Updatedabout 10 hours ago | [Link](https://huggingface.co/meta-llama/Llama-Prompt-Guard-2-22M) |
 
 ## Text Generation
 
@@ -2339,6 +2344,7 @@ Updated on 2025-04-29
 | 207 | 29 | deepcogito/cogito-v1-preview-llama-8BText | Updated2 days ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-llama-8B) |
 | 426 | 28 | LGAI-EXAONE/EXAONE-Deep-32B-GGUFText | Updatedabout 13 hours ago | [Link](https://huggingface.co/LGAI-EXAONE/EXAONE-Deep-32B-GGUF) |
 | 319 | 28 | nvidia/Llama-3 | Updated3 days ago | [Link](https://huggingface.co/nvidia/Llama-3.1-Nemotron-Nano-8B-v1) |
+| 7.28k | 28 | bartowski/Qwen_Qwen3-32B-GGUFText | Updated1 day ago | [Link](https://huggingface.co/bartowski/Qwen_Qwen3-32B-GGUF) |
 | 256 | 27 | amd/Instella-3BText | Updated5 days ago | [Link](https://huggingface.co/amd/Instella-3B) |
 | 2 | 27 | allenai/OLMo-2-0325-32B-InstructText | Updatedabout 3 hours ago | [Link](https://huggingface.co/allenai/OLMo-2-0325-32B-Instruct) |
 | 9.01k | 27 | lmstudio-community/Mistral-Small-3 | Updated2 days ago | [Link](https://huggingface.co/lmstudio-community/Mistral-Small-3.1-24B-Instruct-2503-GGUF) |
@@ -2348,6 +2354,7 @@ Updated on 2025-04-29
 | 499 | 26 | mixedbread-ai/mxbai-rerank-large-v2Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/mixedbread-ai/mxbai-rerank-large-v2) |
 | 1 | 26 | openfree/QwQ-32B-Q8_0-GGUFText | Updatedabout 7 hours ago | [Link](https://huggingface.co/openfree/QwQ-32B-Q8_0-GGUF) |
 | 12 | 26 | Qwen/Qwen3-1 | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-1.7B) |
+| 15.6k | 26 | unsloth/Qwen3-32B-GGUFText | Updatedabout 14 hours ago | [Link](https://huggingface.co/unsloth/Qwen3-32B-GGUF) |
 | 513 | 25 | CohereForAI/c4ai-command-r7b-arabic-02-2025Text | Updated2 days ago | [Link](https://huggingface.co/CohereForAI/c4ai-command-r7b-arabic-02-2025) |
 | 3.12k | 25 | ibm-granite/granite-3 | Updated9 days ago | [Link](https://huggingface.co/ibm-granite/granite-3.2-8b-instruct) |
 | 568 | 25 | GSAI-ML/LLaDA-8B-BaseText | Updated3 days ago | [Link](https://huggingface.co/GSAI-ML/LLaDA-8B-Base) |
@@ -2625,6 +2632,7 @@ Updated on 2025-04-29
 | 8.52k | 350 | fofr/sdxl-emojiText-to-Image | UpdatedJun 27, 2024 | [Link](https://huggingface.co/fofr/sdxl-emoji) |
 | 15.3k | 254 | InstantX/FLUX | UpdatedNov 23, 2024 | [Link](https://huggingface.co/InstantX/FLUX.1-dev-IP-Adapter) |
 | 36 | 51 | THUDM/CogView4-6BText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/THUDM/CogView4-6B) |
+| 87 | 44 | Freepik/F-LiteText-to-Image | Updatedabout 15 hours ago | [Link](https://huggingface.co/Freepik/F-Lite) |
 | 2.23k | 42 | aoxo/flux | Updatedabout 2 hours ago | [Link](https://huggingface.co/aoxo/flux.1dev-abliteratedv2) |
 | 5.59k | 33 | hashu786/HYVRewardText-to-Image | Updated5 days ago | [Link](https://huggingface.co/hashu786/HYVReward) |
 | 5.26k | 20 | mit-han-lab/svdq-int4-flux | Updated22 days ago | [Link](https://huggingface.co/mit-han-lab/svdq-int4-flux.1-dev) |
@@ -2730,6 +2738,7 @@ Updated on 2025-04-29
 | 9 |  | openfree/myt-flux-fantasyText-to-Image | Updated4 days ago | [Link](https://huggingface.co/openfree/myt-flux-fantasy) |
 | 117 |  | codermert/yesim_fluxxxText-to-Image | Updated5 days ago | [Link](https://huggingface.co/codermert/yesim_fluxxx) |
 | 2.86k |  | gokaygokay/Flux-Game-Assets-LoRA-v2Text-to-Image | UpdatedNov 3, 2024 | [Link](https://huggingface.co/gokaygokay/Flux-Game-Assets-LoRA-v2) |
+| 3 |  | openfree/caseyText-to-Image | UpdatedJan 20 | [Link](https://huggingface.co/openfree/casey) |
 
 ## Text-to-Speech
 

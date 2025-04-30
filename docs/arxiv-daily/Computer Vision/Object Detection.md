@@ -24,7 +24,7 @@
 |**2025-04-28**|**Contextures: The Mechanism of Representation Learning**|Runtian Zhai et.al.|[2504.19792v1](http://arxiv.org/abs/2504.19792v1)|**2025-04-28**|null|
 |**2025-04-28**|**Studying thermal radiation with T-matrices**|Juan Diego Mazo-Vásquez et.al.|[2504.19788v1](http://arxiv.org/abs/2504.19788v1)|**2025-04-28**|null|
 |**2025-04-28**|**Cooling process of the high-mass young stellar object G24.33+0.14 following an accretion burst**|Xiaoyun Xu et.al.|[2504.19782v1](http://arxiv.org/abs/2504.19782v1)|**2025-04-28**|null|
-|**2025-04-28**|**If Concept Bottlenecks are the Question, are Foundation Models the Answer?**|Nicola Debole et.al.|[2504.19774v1](http://arxiv.org/abs/2504.19774v1)|**2025-04-28**|null|
+|**2025-04-28**|**If Concept Bottlenecks are the Question, are Foundation Models the Answer?**|Nicola Debole et.al.|[2504.19774v2](http://arxiv.org/abs/2504.19774v2)|**2025-04-29**|null|
 |**2025-04-28**|**A New Decision- Making Method Based on Shannon Entropy Analysis**|Hamid Babaei et.al.|[2504.19753v1](http://arxiv.org/abs/2504.19753v1)|**2025-04-28**|null|
 |**2025-04-28**|**Sum-Rate Optimisation of a Multi-User STAR-RIS-Aided System with Low Complexity**|Sadaf Syed et.al.|[2504.19723v1](http://arxiv.org/abs/2504.19723v1)|**2025-04-28**|null|
 |**2025-04-28**|**A computer vision method to estimate ventilation rate of Atlantic salmon in sea fish farms**|Lukas Folkman et.al.|[2504.19719v1](http://arxiv.org/abs/2504.19719v1)|**2025-04-28**|null|

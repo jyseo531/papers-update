@@ -14,11 +14,11 @@
 |**2025-04-28**|**Exploiting Inter-Sample Correlation and Intra-Sample Redundancy for Partially Relevant Video Retrieval**|Junlong Ren et.al.|[2504.19637v1](http://arxiv.org/abs/2504.19637v1)|**2025-04-28**|null|
 |**2025-04-28**|**Towards Robust Multimodal Physiological Foundation Models: Handling Arbitrary Missing Modalities**|Xi Fu et.al.|[2504.19596v1](http://arxiv.org/abs/2504.19596v1)|**2025-04-28**|null|
 |**2025-04-28**|**CE-NPBG: Connectivity Enhanced Neural Point-Based Graphics for Novel View Synthesis in Autonomous Driving Scenes**|Mohammad Altillawi et.al.|[2504.19557v1](http://arxiv.org/abs/2504.19557v1)|**2025-04-28**|null|
-|**2025-04-28**|**Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective**|Taoyu Su et.al.|[2504.19458v1](http://arxiv.org/abs/2504.19458v1)|**2025-04-28**|null|
+|**2025-04-28**|**Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective**|Taoyu Su et.al.|[2504.19458v2](http://arxiv.org/abs/2504.19458v2)|**2025-04-29**|null|
 |**2025-04-28**|**CLIP-KOA: Enhancing Knee Osteoarthritis Diagnosis with Multi-Modal Learning and Symmetry-Aware Loss Functions**|Yejin Jeong et.al.|[2504.19443v1](http://arxiv.org/abs/2504.19443v1)|**2025-04-28**|null|
 |**2025-04-28**|**EarthMapper: Visual Autoregressive Models for Controllable Bidirectional Satellite-Map Translation**|Zhe Dong et.al.|[2504.19432v1](http://arxiv.org/abs/2504.19432v1)|**2025-04-28**|null|
-|**2025-04-28**|**Context Selection and Rewriting for Video-based EducationalQuestion Generation**|Mengxia Yu et.al.|[2504.19406v1](http://arxiv.org/abs/2504.19406v1)|**2025-04-28**|null|
-|**2025-04-27**|**Doxing via the Lens: Revealing Privacy Leakage in Image Geolocation for Agentic Multi-Modal Large Reasoning Model**|Weidi Luo et.al.|[2504.19373v1](http://arxiv.org/abs/2504.19373v1)|**2025-04-27**|null|
+|**2025-04-28**|**Context Selection and Rewriting for Video-based Educational Question Generation**|Mengxia Yu et.al.|[2504.19406v2](http://arxiv.org/abs/2504.19406v2)|**2025-04-29**|null|
+|**2025-04-27**|**Doxing via the Lens: Revealing Privacy Leakage in Image Geolocation for Agentic Multi-Modal Large Reasoning Model**|Weidi Luo et.al.|[2504.19373v2](http://arxiv.org/abs/2504.19373v2)|**2025-04-29**|null|
 |**2025-04-27**|**Predicting neutron experiments from first principles: A workflow powered by machine learning**|Eric Lindgren et.al.|[2504.19352v1](http://arxiv.org/abs/2504.19352v1)|**2025-04-27**|null|
 |**2025-04-27**|**PolyTouch: A Robust Multi-Modal Tactile Sensor for Contact-rich Manipulation Using Tactile-Diffusion Policies**|Jialiang Zhao et.al.|[2504.19341v1](http://arxiv.org/abs/2504.19341v1)|**2025-04-27**|null|
 |**2025-04-27**|**Platonic Grounding for Efficient Multimodal Language Models**|Moulik Choraria et.al.|[2504.19327v1](http://arxiv.org/abs/2504.19327v1)|**2025-04-27**|null|

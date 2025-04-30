@@ -8,7 +8,7 @@
 |**2025-04-28**|**LIRM: Large Inverse Rendering Model for Progressive Reconstruction of Shape, Materials and View-dependent Radiance Fields**|Zhengqin Li et.al.|[2504.20026v1](http://arxiv.org/abs/2504.20026v1)|**2025-04-28**|null|
 |**2025-04-28**|**Modular Machine Learning: An Indispensable Path towards New-Generation Large Language Models**|Xin Wang et.al.|[2504.20020v1](http://arxiv.org/abs/2504.20020v1)|**2025-04-28**|null|
 |**2025-04-28**|**Modelling of Underwater Vehicles using Physics-Informed Neural Networks with Control**|Abdelhakim Amer et.al.|[2504.20019v1](http://arxiv.org/abs/2504.20019v1)|**2025-04-28**|null|
-|**2025-04-28**|**LLM-Generated Fake News Induces Truth Decay in News Ecosystem: A Case Study on Neural News Recommendation**|Beizhe Hu et.al.|[2504.20013v1](http://arxiv.org/abs/2504.20013v1)|**2025-04-28**|null|
+|**2025-04-28**|**LLM-Generated Fake News Induces Truth Decay in News Ecosystem: A Case Study on Neural News Recommendation**|Beizhe Hu et.al.|[2504.20013v2](http://arxiv.org/abs/2504.20013v2)|**2025-04-29**|null|
 |**2025-04-28**|**Towards Automated Scoping of AI for Social Good Projects**|Jacob Emmerson et.al.|[2504.20010v1](http://arxiv.org/abs/2504.20010v1)|**2025-04-28**|null|
 |**2025-04-28**|**Kinodynamic Trajectory Following with STELA: Simultaneous Trajectory Estimation & Local Adaptation**|Edgar Granados et.al.|[2504.20009v1](http://arxiv.org/abs/2504.20009v1)|**2025-04-28**|null|
 |**2025-04-28**|**Socially-Aware Autonomous Driving: Inferring Yielding Intentions for Safer Interactions**|Jing Wang et.al.|[2504.20004v1](http://arxiv.org/abs/2504.20004v1)|**2025-04-28**|null|
@@ -20,7 +20,7 @@
 |**2025-04-28**|**Emergence and scaling laws in SGD learning of shallow neural networks**|Yunwei Ren et.al.|[2504.19983v1](http://arxiv.org/abs/2504.19983v1)|**2025-04-28**|null|
 |**2025-04-28**|**Accurate and Diverse LLM Mathematical Reasoning via Automated PRM-Guided GFlowNets**|Adam Younsi et.al.|[2504.19981v1](http://arxiv.org/abs/2504.19981v1)|**2025-04-28**|null|
 |**2025-04-28**|**Deep Declarative Risk Budgeting Portfolios**|Manuel Parra-Diaz et.al.|[2504.19980v1](http://arxiv.org/abs/2504.19980v1)|**2025-04-28**|null|
-|**2025-04-28**|**Transfer Learning Under High-Dimensional Network Convolutional Regression Model**|Liyuan Wang et.al.|[2504.19979v1](http://arxiv.org/abs/2504.19979v1)|**2025-04-28**|null|
+|**2025-04-28**|**Transfer Learning Under High-Dimensional Network Convolutional Regression Model**|Liyuan Wang et.al.|[2504.19979v2](http://arxiv.org/abs/2504.19979v2)|**2025-04-29**|null|
 |**2025-04-28**|**On one generalization of stable allocations in a two-sided market**|Alexander V. Karzanov et.al.|[2504.19978v1](http://arxiv.org/abs/2504.19978v1)|**2025-04-28**|null|
 |**2025-04-28**|**Type-Based Unsourced Multiple Access over Fading Channels with Cell-Free Massive MIMO**|Kaan Okumus et.al.|[2504.19954v1](http://arxiv.org/abs/2504.19954v1)|**2025-04-28**|null|
 |**2025-04-28**|**Data-Driven Stabilization of Unknown Linear-Threshold Network Dynamics**|Xuan Wang et.al.|[2504.19950v1](http://arxiv.org/abs/2504.19950v1)|**2025-04-28**|null|

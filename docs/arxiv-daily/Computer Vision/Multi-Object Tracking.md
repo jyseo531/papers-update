@@ -11,7 +11,7 @@
 |**2025-04-28**|**Emergence and scaling laws in SGD learning of shallow neural networks**|Yunwei Ren et.al.|[2504.19983v1](http://arxiv.org/abs/2504.19983v1)|**2025-04-28**|null|
 |**2025-04-28**|**Holographic Consequences of Heterotic String Theory beyond its Supergravity Approximation**|Leon Berdichevsky Acosta et.al.|[2504.19969v1](http://arxiv.org/abs/2504.19969v1)|**2025-04-28**|null|
 |**2025-04-28**|**How Group Lives Go Well**|John Beverley et.al.|[2504.19968v1](http://arxiv.org/abs/2504.19968v1)|**2025-04-28**|null|
-|**2025-04-28**|**Feelbert: A Feedback Linearization-based Embedded Real-Time Quadrupedal Locomotion Framework**|Aristide Emanuele Casucci et.al.|[2504.19965v1](http://arxiv.org/abs/2504.19965v1)|**2025-04-28**|null|
+|**2025-04-28**|**Feelbert: A Feedback Linearization-based Embedded Real-Time Quadrupedal Locomotion Framework**|Aristide Emanuele Casucci et.al.|[2504.19965v2](http://arxiv.org/abs/2504.19965v2)|**2025-04-29**|null|
 |**2025-04-28**|**Stochastic Subspace via Probabilistic Principal Component Analysis for Characterizing Model Error**|Akash Yadav et.al.|[2504.19963v1](http://arxiv.org/abs/2504.19963v1)|**2025-04-28**|null|
 |**2025-04-28**|**Enhancing Quality for VVC Compressed Videos with Omniscient Quality Enhancement Model**|Xiem HoangVan et.al.|[2504.19935v1](http://arxiv.org/abs/2504.19935v1)|**2025-04-28**|null|
 |**2025-04-28**|**Automated decision-making for dynamic task assignment at scale**|Riccardo Lo Bianco et.al.|[2504.19933v1](http://arxiv.org/abs/2504.19933v1)|**2025-04-28**|null|

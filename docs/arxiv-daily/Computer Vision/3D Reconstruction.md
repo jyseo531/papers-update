@@ -28,7 +28,7 @@
 |**2025-04-28**|**DiVE: Efficient Multi-View Driving Scenes Generation Based on Video Diffusion Transformer**|Junpeng Jiang et.al.|[2504.19614v1](http://arxiv.org/abs/2504.19614v1)|**2025-04-28**|null|
 |**2025-04-28**|**SAMBLE: Shape-Specific Point Cloud Sampling for an Optimal Trade-Off Between Local Detail and Global Uniformity**|Chengzhi Wu et.al.|[2504.19581v1](http://arxiv.org/abs/2504.19581v1)|**2025-04-28**|null|
 |**2025-04-28**|**CE-NPBG: Connectivity Enhanced Neural Point-Based Graphics for Novel View Synthesis in Autonomous Driving Scenes**|Mohammad Altillawi et.al.|[2504.19557v1](http://arxiv.org/abs/2504.19557v1)|**2025-04-28**|null|
-|**2025-04-28**|**Signatures of Hund$'s$ metal physics in single-layered 3d transition metal oxide, $\mathrm{Sr_2CoO_4}$**|Shivani Bhardwaj et.al.|[2504.19503v1](http://arxiv.org/abs/2504.19503v1)|**2025-04-28**|null|
+|**2025-04-28**|**Signatures of Hund$'s$ metal physics in single-layered 3d transition metal oxide, $\mathrm{Sr_2CoO_4}$**|Shivani Bhardwaj et.al.|[2504.19503v2](http://arxiv.org/abs/2504.19503v2)|**2025-04-29**|null|
 |**2025-04-28**|**Masked Point-Entity Contrast for Open-Vocabulary 3D Scene Understanding**|Yan Wang et.al.|[2504.19500v1](http://arxiv.org/abs/2504.19500v1)|**2025-04-28**|null|
 |**2025-04-28**|**CasaGPT: Cuboid Arrangement and Scene Assembly for Interior Design**|Weitao Feng et.al.|[2504.19478v1](http://arxiv.org/abs/2504.19478v1)|**2025-04-28**|null|
-|**2025-04-28**|**Geometry-Informed Neural Operator Transformer**|Qibang Liu et.al.|[2504.19452v1](http://arxiv.org/abs/2504.19452v1)|**2025-04-28**|null|
+|**2025-04-28**|**Geometry-Informed Neural Operator Transformer**|Qibang Liu et.al.|[2504.19452v2](http://arxiv.org/abs/2504.19452v2)|**2025-04-29**|null|

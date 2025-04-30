@@ -13,7 +13,7 @@
 |**2025-04-28**|**Unified and consistent structure growth measurements from joint ACT, SPT and \textit{Planck} CMB lensing**|Frank J. Qu et.al.|[2504.20038v1](http://arxiv.org/abs/2504.20038v1)|**2025-04-28**|null|
 |**2025-04-28**|**Polarization of light from fast rotating Wolf-Rayet stars: A Monte Carlo simulations compared to analytical formula**|Slah Abdellaoui et.al.|[2504.20037v1](http://arxiv.org/abs/2504.20037v1)|**2025-04-28**|null|
 |**2025-04-28**|**exoALMA. VI. Rotating under Pressure: Rotation curves, azimuthal velocity substructures, and pressure variations**|Jochen Stadler et.al.|[2504.20036v1](http://arxiv.org/abs/2504.20036v1)|**2025-04-28**|null|
-|**2025-04-28**|**Cam-2-Cam: Exploring the Design Space of Dual-Camera Interactions for Smartphone-based Augmented Reality**|Brandon Woodard et.al.|[2504.20035v1](http://arxiv.org/abs/2504.20035v1)|**2025-04-28**|null|
+|**2025-04-28**|**Cam-2-Cam: Exploring the Design Space of Dual-Camera Interactions for Smartphone-based Augmented Reality**|Brandon Woodard et.al.|[2504.20035v2](http://arxiv.org/abs/2504.20035v2)|**2025-04-29**|null|
 |**2025-04-28**|**Pan-genome Analysis of Angiosperm Plastomes using PGR-TK**|Manoj P. Samanta et.al.|[2504.20034v1](http://arxiv.org/abs/2504.20034v1)|**2025-04-28**|null|
 |**2025-04-28**|**Mitigating Catastrophic Forgetting in the Incremental Learning of Medical Images**|Sara Yavari et.al.|[2504.20033v1](http://arxiv.org/abs/2504.20033v1)|**2025-04-28**|null|
 |**2025-04-28**|**More Clear, More Flexible, More Precise: A Comprehensive Oriented Object Detection benchmark for UAV**|Kai Ye et.al.|[2504.20032v1](http://arxiv.org/abs/2504.20032v1)|**2025-04-28**|null|
@@ -28,7 +28,7 @@
 |**2025-04-28**|**Constructing Magic Squares: an integer linear programming model and a fast heuristic**|João Vitor Pamplona et.al.|[2504.20017v1](http://arxiv.org/abs/2504.20017v1)|**2025-04-28**|null|
 |**2025-04-28**|**Applying LLM-Powered Virtual Humans to Child Interviews in Child-Centered Design**|Linshi Li et.al.|[2504.20016v1](http://arxiv.org/abs/2504.20016v1)|**2025-04-28**|null|
 |**2025-04-28**|**Interaction of Laguerre-Gaussian laser pulses with borane targets of different hydrogen-boron ratio**|Lars Reichwein et.al.|[2504.20015v1](http://arxiv.org/abs/2504.20015v1)|**2025-04-28**|null|
-|**2025-04-28**|**LLM-Generated Fake News Induces Truth Decay in News Ecosystem: A Case Study on Neural News Recommendation**|Beizhe Hu et.al.|[2504.20013v1](http://arxiv.org/abs/2504.20013v1)|**2025-04-28**|null|
+|**2025-04-28**|**LLM-Generated Fake News Induces Truth Decay in News Ecosystem: A Case Study on Neural News Recommendation**|Beizhe Hu et.al.|[2504.20013v2](http://arxiv.org/abs/2504.20013v2)|**2025-04-29**|null|
 |**2025-04-28**|**exoALMA XV: Interpreting the height of CO emission layer**|Giovanni P. Rosotti et.al.|[2504.20012v1](http://arxiv.org/abs/2504.20012v1)|**2025-04-28**|null|
 |**2025-04-28**|**Curiosity Driven Exploration to Optimize Structure-Property Learning in Microscopy**|Aditya Vatsavai et.al.|[2504.20011v1](http://arxiv.org/abs/2504.20011v1)|**2025-04-28**|null|
 |**2025-04-28**|**Towards Automated Scoping of AI for Social Good Projects**|Jacob Emmerson et.al.|[2504.20010v1](http://arxiv.org/abs/2504.20010v1)|**2025-04-28**|null|

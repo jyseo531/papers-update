@@ -31,4 +31,4 @@
 |**2025-04-28**|**Infinite temperature transport in the strong coupling regime of a nonintegrable quantum spin chain**|Zhi-Hua Li et.al.|[2504.19873v1](http://arxiv.org/abs/2504.19873v1)|**2025-04-28**|null|
 |**2025-04-28**|**exoALMA II: Data Calibration and Imaging Pipeline**|Ryan A. Loomis et.al.|[2504.19870v1](http://arxiv.org/abs/2504.19870v1)|**2025-04-28**|null|
 |**2025-04-28**|**Towards Ball Spin and Trajectory Analysis in Table Tennis Broadcast Videos via Physically Grounded Synthetic-to-Real Transfer**|Daniel Kienzle et.al.|[2504.19863v1](http://arxiv.org/abs/2504.19863v1)|**2025-04-28**|[link](https://github.com/KieDani/SpinAndTrajectoryTableTennis)|
-|**2025-04-28**|**The Automation Advantage in AI Red Teaming**|Rob Mulla et.al.|[2504.19855v1](http://arxiv.org/abs/2504.19855v1)|**2025-04-28**|null|
+|**2025-04-28**|**The Automation Advantage in AI Red Teaming**|Rob Mulla et.al.|[2504.19855v2](http://arxiv.org/abs/2504.19855v2)|**2025-04-29**|null|

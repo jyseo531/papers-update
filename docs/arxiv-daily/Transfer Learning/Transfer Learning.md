@@ -22,10 +22,10 @@
 |**2025-04-28**|**Emergence and scaling laws in SGD learning of shallow neural networks**|Yunwei Ren et.al.|[2504.19983v1](http://arxiv.org/abs/2504.19983v1)|**2025-04-28**|null|
 |**2025-04-28**|**Accurate and Diverse LLM Mathematical Reasoning via Automated PRM-Guided GFlowNets**|Adam Younsi et.al.|[2504.19981v1](http://arxiv.org/abs/2504.19981v1)|**2025-04-28**|null|
 |**2025-04-28**|**Deep Declarative Risk Budgeting Portfolios**|Manuel Parra-Diaz et.al.|[2504.19980v1](http://arxiv.org/abs/2504.19980v1)|**2025-04-28**|null|
-|**2025-04-28**|**Transfer Learning Under High-Dimensional Network Convolutional Regression Model**|Liyuan Wang et.al.|[2504.19979v1](http://arxiv.org/abs/2504.19979v1)|**2025-04-28**|null|
+|**2025-04-28**|**Transfer Learning Under High-Dimensional Network Convolutional Regression Model**|Liyuan Wang et.al.|[2504.19979v2](http://arxiv.org/abs/2504.19979v2)|**2025-04-29**|null|
 |**2025-04-28**|**Modelling collective cell migration in a data-rich age: challenges and opportunities for data-driven modelling**|Ruth E. Baker et.al.|[2504.19974v1](http://arxiv.org/abs/2504.19974v1)|**2025-04-28**|null|
 |**2025-04-28**|**Enhancing short-term traffic prediction by integrating trends and fluctuations with attention mechanism**|Adway Das et.al.|[2504.19967v1](http://arxiv.org/abs/2504.19967v1)|**2025-04-28**|null|
-|**2025-04-28**|**From Concept to Practice: an Automated LLM-aided UVM Machine for RTL Verification**|Junhao Ye et.al.|[2504.19959v1](http://arxiv.org/abs/2504.19959v1)|**2025-04-28**|null|
+|**2025-04-28**|**From Concept to Practice: an Automated LLM-aided UVM Machine for RTL Verification**|Junhao Ye et.al.|[2504.19959v2](http://arxiv.org/abs/2504.19959v2)|**2025-04-29**|null|
 |**2025-04-28**|**Machine Learning Identification of Gravimentally Microlensed Gamma-Ray Bursts**|Mohammad H. Zhoolideh Haghighi et.al.|[2504.19958v1](http://arxiv.org/abs/2504.19958v1)|**2025-04-28**|null|
 |**2025-04-28**|**Robust Federated Personalised Mean Estimation for the Gaussian Mixture Model**|Malhar A. Managoli et.al.|[2504.19955v1](http://arxiv.org/abs/2504.19955v1)|**2025-04-28**|null|
 |**2025-04-28**|**Type-Based Unsourced Multiple Access over Fading Channels with Cell-Free Massive MIMO**|Kaan Okumus et.al.|[2504.19954v1](http://arxiv.org/abs/2504.19954v1)|**2025-04-28**|null|

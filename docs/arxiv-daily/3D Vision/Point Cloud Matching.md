@@ -19,7 +19,7 @@
 |**2025-04-28**|**Lightning activity on a tidally locked terrestrial exoplanet in storm-resolving simulations for a range of surface pressures**|Denis E. Sergeev et.al.|[2504.19883v1](http://arxiv.org/abs/2504.19883v1)|**2025-04-28**|null|
 |**2025-04-28**|**TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate**|Amir Zandieh et.al.|[2504.19874v1](http://arxiv.org/abs/2504.19874v1)|**2025-04-28**|null|
 |**2025-04-28**|**Infinite temperature transport in the strong coupling regime of a nonintegrable quantum spin chain**|Zhi-Hua Li et.al.|[2504.19873v1](http://arxiv.org/abs/2504.19873v1)|**2025-04-28**|null|
-|**2025-04-28**|**The Automation Advantage in AI Red Teaming**|Rob Mulla et.al.|[2504.19855v1](http://arxiv.org/abs/2504.19855v1)|**2025-04-28**|null|
+|**2025-04-28**|**The Automation Advantage in AI Red Teaming**|Rob Mulla et.al.|[2504.19855v2](http://arxiv.org/abs/2504.19855v2)|**2025-04-29**|null|
 |**2025-04-28**|**A JWST Study of the Remarkable Oort Cloud Comet C/2017 K2 (PanSTARRS)**|Charles E. Woodward et.al.|[2504.19849v1](http://arxiv.org/abs/2504.19849v1)|**2025-04-28**|null|
 |**2025-04-28**|**On Hopf's Lemma for sign-changing supersolutions to fractional Laplacian equations**|Azahara DelaTorre et.al.|[2504.19843v1](http://arxiv.org/abs/2504.19843v1)|**2025-04-28**|null|
 |**2025-04-28**|**Optimal real-time dynamic treatment regimes with application to oxytocin use in preventing postpartum hemorrhage**|Haiyan Zhu et.al.|[2504.19831v1](http://arxiv.org/abs/2504.19831v1)|**2025-04-28**|null|

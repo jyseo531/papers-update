@@ -20,7 +20,7 @@
 |**2025-04-28**|**Planar Coulomb gas on a Jordan arc at any temperature**|Klara Courteaut et.al.|[2504.19887v1](http://arxiv.org/abs/2504.19887v1)|**2025-04-28**|null|
 |**2025-04-28**|**DeeCLIP: A Robust and Generalizable Transformer-Based Framework for Detecting AI-Generated Images**|Mamadou Keita et.al.|[2504.19876v1](http://arxiv.org/abs/2504.19876v1)|**2025-04-28**|null|
 |**2025-04-28**|**TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate**|Amir Zandieh et.al.|[2504.19874v1](http://arxiv.org/abs/2504.19874v1)|**2025-04-28**|null|
-|**2025-04-28**|**The Automation Advantage in AI Red Teaming**|Rob Mulla et.al.|[2504.19855v1](http://arxiv.org/abs/2504.19855v1)|**2025-04-28**|null|
+|**2025-04-28**|**The Automation Advantage in AI Red Teaming**|Rob Mulla et.al.|[2504.19855v2](http://arxiv.org/abs/2504.19855v2)|**2025-04-29**|null|
 |**2025-04-28**|**LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects**|Guangyi Liu et.al.|[2504.19838v1](http://arxiv.org/abs/2504.19838v1)|**2025-04-28**|null|
 |**2025-04-28**|**HOIGaze: Gaze Estimation During Hand-Object Interactions in Extended Reality Exploiting Eye-Hand-Head Coordination**|Zhiming Hu et.al.|[2504.19828v1](http://arxiv.org/abs/2504.19828v1)|**2025-04-28**|null|
 |**2025-04-28**|**A nonlinear diffusion equation of the Gurtin-MacCamy type: existence, uniqueness, and numerical simulations**|Dragos-Patru Covei et.al.|[2504.19823v1](http://arxiv.org/abs/2504.19823v1)|**2025-04-28**|null|

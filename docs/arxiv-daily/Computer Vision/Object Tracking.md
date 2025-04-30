@@ -7,7 +7,7 @@
 |**2025-04-28**|**Emergence and scaling laws in SGD learning of shallow neural networks**|Yunwei Ren et.al.|[2504.19983v1](http://arxiv.org/abs/2504.19983v1)|**2025-04-28**|null|
 |**2025-04-28**|**Holographic Consequences of Heterotic String Theory beyond its Supergravity Approximation**|Leon Berdichevsky Acosta et.al.|[2504.19969v1](http://arxiv.org/abs/2504.19969v1)|**2025-04-28**|null|
 |**2025-04-28**|**How Group Lives Go Well**|John Beverley et.al.|[2504.19968v1](http://arxiv.org/abs/2504.19968v1)|**2025-04-28**|null|
-|**2025-04-28**|**Feelbert: A Feedback Linearization-based Embedded Real-Time Quadrupedal Locomotion Framework**|Aristide Emanuele Casucci et.al.|[2504.19965v1](http://arxiv.org/abs/2504.19965v1)|**2025-04-28**|null|
+|**2025-04-28**|**Feelbert: A Feedback Linearization-based Embedded Real-Time Quadrupedal Locomotion Framework**|Aristide Emanuele Casucci et.al.|[2504.19965v2](http://arxiv.org/abs/2504.19965v2)|**2025-04-29**|null|
 |**2025-04-28**|**Automated decision-making for dynamic task assignment at scale**|Riccardo Lo Bianco et.al.|[2504.19933v1](http://arxiv.org/abs/2504.19933v1)|**2025-04-28**|null|
 |**2025-04-28**|**Dependence of the Radical Dynamics on the Beam Temporal Profile in FLASH Radiotherapy**|Jianhan Sun et.al.|[2504.19927v1](http://arxiv.org/abs/2504.19927v1)|**2025-04-28**|null|
 |**2025-04-28**|**Lossy Source Coding with Focal Loss**|Alex Dytso et.al.|[2504.19913v1](http://arxiv.org/abs/2504.19913v1)|**2025-04-28**|null|
@@ -27,7 +27,7 @@
 |**2025-04-28**|**Contextures: The Mechanism of Representation Learning**|Runtian Zhai et.al.|[2504.19792v1](http://arxiv.org/abs/2504.19792v1)|**2025-04-28**|null|
 |**2025-04-28**|**Studying thermal radiation with T-matrices**|Juan Diego Mazo-Vásquez et.al.|[2504.19788v1](http://arxiv.org/abs/2504.19788v1)|**2025-04-28**|null|
 |**2025-04-28**|**Cooling process of the high-mass young stellar object G24.33+0.14 following an accretion burst**|Xiaoyun Xu et.al.|[2504.19782v1](http://arxiv.org/abs/2504.19782v1)|**2025-04-28**|null|
-|**2025-04-28**|**If Concept Bottlenecks are the Question, are Foundation Models the Answer?**|Nicola Debole et.al.|[2504.19774v1](http://arxiv.org/abs/2504.19774v1)|**2025-04-28**|null|
+|**2025-04-28**|**If Concept Bottlenecks are the Question, are Foundation Models the Answer?**|Nicola Debole et.al.|[2504.19774v2](http://arxiv.org/abs/2504.19774v2)|**2025-04-29**|null|
 |**2025-04-28**|**Crafting a Personal Journaling Practice: Negotiating Ecosystems of Materials, Personal Context, and Community in Analog Journaling**|Katherine Lin et.al.|[2504.19767v1](http://arxiv.org/abs/2504.19767v1)|**2025-04-28**|null|
 |**2025-04-28**|**A New Decision- Making Method Based on Shannon Entropy Analysis**|Hamid Babaei et.al.|[2504.19753v1](http://arxiv.org/abs/2504.19753v1)|**2025-04-28**|null|
 |**2025-04-28**|**Learning Efficiency Meets Symmetry Breaking**|Yingbin Bai et.al.|[2504.19738v1](http://arxiv.org/abs/2504.19738v1)|**2025-04-28**|null|

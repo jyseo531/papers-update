@@ -8,7 +8,7 @@
 |**2025-04-28**|**Socially-Aware Autonomous Driving: Inferring Yielding Intentions for Safer Interactions**|Jing Wang et.al.|[2504.20004v1](http://arxiv.org/abs/2504.20004v1)|**2025-04-28**|null|
 |**2025-04-28**|**HJRNO: Hamilton-Jacobi Reachability with Neural Operators**|Yankai Li et.al.|[2504.19989v1](http://arxiv.org/abs/2504.19989v1)|**2025-04-28**|null|
 |**2025-04-28**|**Real-Time Imitation of Human Head Motions, Blinks and Emotions by Nao Robot: A Closed-Loop Approach**|Keyhan Rayati et.al.|[2504.19985v1](http://arxiv.org/abs/2504.19985v1)|**2025-04-28**|null|
-|**2025-04-28**|**Feelbert: A Feedback Linearization-based Embedded Real-Time Quadrupedal Locomotion Framework**|Aristide Emanuele Casucci et.al.|[2504.19965v1](http://arxiv.org/abs/2504.19965v1)|**2025-04-28**|null|
+|**2025-04-28**|**Feelbert: A Feedback Linearization-based Embedded Real-Time Quadrupedal Locomotion Framework**|Aristide Emanuele Casucci et.al.|[2504.19965v2](http://arxiv.org/abs/2504.19965v2)|**2025-04-29**|null|
 |**2025-04-28**|**Capturing Aerodynamic Characteristics of ATTAS Aircraft with Evolving Intelligent System**|Aydoğan Soylu et.al.|[2504.19949v1](http://arxiv.org/abs/2504.19949v1)|**2025-04-28**|null|
 |**2025-04-28**|**Tendon-Actuated Concentric Tube Endonasal Robot (TACTER)**|Kent K. Yamamoto et.al.|[2504.19948v1](http://arxiv.org/abs/2504.19948v1)|**2025-04-28**|null|
 |**2025-04-28**|**Mesh-Learner: Texturing Mesh with Spherical Harmonics**|Yunfei Wan et.al.|[2504.19938v1](http://arxiv.org/abs/2504.19938v1)|**2025-04-28**|null|

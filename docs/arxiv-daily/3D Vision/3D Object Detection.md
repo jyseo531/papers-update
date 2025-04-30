@@ -14,7 +14,7 @@
 |**2025-04-28**|**LIRM: Large Inverse Rendering Model for Progressive Reconstruction of Shape, Materials and View-dependent Radiance Fields**|Zhengqin Li et.al.|[2504.20026v1](http://arxiv.org/abs/2504.20026v1)|**2025-04-28**|null|
 |**2025-04-28**|**SpatialReasoner: Towards Explicit and Generalizable 3D Spatial Reasoning**|Wufei Ma et.al.|[2504.20024v1](http://arxiv.org/abs/2504.20024v1)|**2025-04-28**|null|
 |**2025-04-28**|**Interaction of Laguerre-Gaussian laser pulses with borane targets of different hydrogen-boron ratio**|Lars Reichwein et.al.|[2504.20015v1](http://arxiv.org/abs/2504.20015v1)|**2025-04-28**|null|
-|**2025-04-28**|**LLM-Generated Fake News Induces Truth Decay in News Ecosystem: A Case Study on Neural News Recommendation**|Beizhe Hu et.al.|[2504.20013v1](http://arxiv.org/abs/2504.20013v1)|**2025-04-28**|null|
+|**2025-04-28**|**LLM-Generated Fake News Induces Truth Decay in News Ecosystem: A Case Study on Neural News Recommendation**|Beizhe Hu et.al.|[2504.20013v2](http://arxiv.org/abs/2504.20013v2)|**2025-04-29**|null|
 |**2025-04-28**|**Towards AI-Driven Policing: Interdisciplinary Knowledge Discovery from Police Body-Worn Camera Footage**|Anita Srbinovska et.al.|[2504.20007v1](http://arxiv.org/abs/2504.20007v1)|**2025-04-28**|null|
 |**2025-04-28**|**Simplified and Secure MCP Gateways for Enterprise AI Integration**|Ivo Brett et.al.|[2504.19997v1](http://arxiv.org/abs/2504.19997v1)|**2025-04-28**|null|
 |**2025-04-28**|**Monitoring digestate application on agricultural crops using Sentinel-2 Satellite imagery**|Andreas Kalogeras et.al.|[2504.19996v1](http://arxiv.org/abs/2504.19996v1)|**2025-04-28**|null|
@@ -22,7 +22,7 @@
 |**2025-04-28**|**3D MPSoC with On-Chip Cache Support -- Design and Exploitation**|Rodrigo Cataldo et.al.|[2504.19984v1](http://arxiv.org/abs/2504.19984v1)|**2025-04-28**|null|
 |**2025-04-28**|**Emergence and scaling laws in SGD learning of shallow neural networks**|Yunwei Ren et.al.|[2504.19983v1](http://arxiv.org/abs/2504.19983v1)|**2025-04-28**|null|
 |**2025-04-28**|**TD-EVAL: Revisiting Task-Oriented Dialogue Evaluation by Combining Turn-Level Precision with Dialogue-Level Comparisons**|Emre Can Acikgoz et.al.|[2504.19982v1](http://arxiv.org/abs/2504.19982v1)|**2025-04-28**|null|
-|**2025-04-28**|**Transfer Learning Under High-Dimensional Network Convolutional Regression Model**|Liyuan Wang et.al.|[2504.19979v1](http://arxiv.org/abs/2504.19979v1)|**2025-04-28**|null|
+|**2025-04-28**|**Transfer Learning Under High-Dimensional Network Convolutional Regression Model**|Liyuan Wang et.al.|[2504.19979v2](http://arxiv.org/abs/2504.19979v2)|**2025-04-29**|null|
 |**2025-04-28**|**Shopformer: Transformer-Based Framework for Detecting Shoplifting via Human Pose**|Narges Rashvand et.al.|[2504.19970v1](http://arxiv.org/abs/2504.19970v1)|**2025-04-28**|null|
 |**2025-04-28**|**How Group Lives Go Well**|John Beverley et.al.|[2504.19968v1](http://arxiv.org/abs/2504.19968v1)|**2025-04-28**|null|
 |**2025-04-28**|**XMM-Newton Observations of the High Temperature Plasma in the Large Magellanic Cloud Supernova Remnant N132D**|Adam R. Foster et.al.|[2504.19964v1](http://arxiv.org/abs/2504.19964v1)|**2025-04-28**|null|
