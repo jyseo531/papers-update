@@ -2,33 +2,33 @@
 ### 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-29**|**TesserAct: Learning 4D Embodied World Models**|Haoyu Zhen et.al.|[2504.20995v1](http://arxiv.org/abs/2504.20995v1)|**2025-04-29**|null|
-|**2025-04-29**|**XRISM forecast for the Coma cluster: stormy, with a steep power spectrum**|XRISM Collaboration et.al.|[2504.20928v1](http://arxiv.org/abs/2504.20928v1)|**2025-04-29**|null|
-|**2025-04-29**|**Imaging on the Edge: Mapping Object Corners and Edges with Stereo X-ray Tomography**|Zhenduo Shang et.al.|[2504.20892v1](http://arxiv.org/abs/2504.20892v1)|**2025-04-29**|null|
-|**2025-04-29**|**RadSAM: Segmenting 3D radiological images with a 2D promptable model**|Julien Khlaut et.al.|[2504.20837v1](http://arxiv.org/abs/2504.20837v1)|**2025-04-29**|null|
-|**2025-04-29**|**GaussTrap: Stealthy Poisoning Attacks on 3D Gaussian Splatting for Targeted Scene Confusion**|Jiaxin Hong et.al.|[2504.20829v1](http://arxiv.org/abs/2504.20829v1)|**2025-04-29**|null|
-|**2025-04-29**|**Semi-discrete optimal transport techniques for the compressible semi-geostrophic equations**|David P. Bourne et.al.|[2504.20807v1](http://arxiv.org/abs/2504.20807v1)|**2025-04-29**|null|
-|**2025-04-29**|**DICOM Compatible, 3D Multimodality Image Encryption using Hyperchaotic Signal**|Anandik N Anand et.al.|[2504.20689v1](http://arxiv.org/abs/2504.20689v1)|**2025-04-29**|null|
-|**2025-04-29**|**Efficient Listener: Dyadic Facial Motion Synthesis via Action Diffusion**|Zesheng Wang et.al.|[2504.20685v1](http://arxiv.org/abs/2504.20685v1)|**2025-04-29**|null|
-|**2025-04-29**|**DiffLiB: High-fidelity differentiable modeling of lithium-ion batteries and efficient gradient-based parameter identification**|Weipeng Xu et.al.|[2504.20674v1](http://arxiv.org/abs/2504.20674v1)|**2025-04-29**|null|
-|**2025-04-29**|**Statistical Channel Based Low-Complexity Rotation and Position Optimization for 6D Movable Antennas Enabled Wireless Communication**|Qijun Jiang et.al.|[2504.20618v1](http://arxiv.org/abs/2504.20618v1)|**2025-04-29**|[link](https://github.com/Jiang-Qijun/6DMA-SCI)|
-|**2025-04-29**|**EfficientHuman: Efficient Training and Reconstruction of Moving Human using Articulated 2D Gaussian**|Hao Tian et.al.|[2504.20607v1](http://arxiv.org/abs/2504.20607v1)|**2025-04-29**|null|
-|**2025-04-29**|**Quantitative X-ray Schlieren Nanotomography for Hyperspectral Phase and Absorption Imaging**|Herve Hugonne et.al.|[2504.20537v1](http://arxiv.org/abs/2504.20537v1)|**2025-04-29**|null|
-|**2025-04-29**|**Geometry-aware Temporal Aggregation Network for Monocular 3D Lane Detection**|Huan Zheng et.al.|[2504.20525v1](http://arxiv.org/abs/2504.20525v1)|**2025-04-29**|null|
-|**2025-04-29**|**PRISM: Projection-based Reward Integration for Scene-Aware Real-to-Sim-to-Real Transfer with Few Demonstrations**|Haowen Sun et.al.|[2504.20520v1](http://arxiv.org/abs/2504.20520v1)|**2025-04-29**|null|
-|**2025-04-29**|**SAM-Guided Robust Representation Learning for One-Shot 3D Medical Image Segmentation**|Jia Wang et.al.|[2504.20501v1](http://arxiv.org/abs/2504.20501v1)|**2025-04-29**|null|
-|**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496v1](http://arxiv.org/abs/2504.20496v1)|**2025-04-29**|null|
-|**2025-04-29**|**Spin-orbital order and excitations in $3d^4$, $4d^4$, and $5d^4$ systems: Application to $\rm BaFeO_3$, $\rm Sr_2RuO_4$, $\rm Sr_2YIrO_6$, and $\rm K_2OsCl_64$**|Shahid Ahmad et.al.|[2504.20476v1](http://arxiv.org/abs/2504.20476v1)|**2025-04-29**|null|
-|**2025-04-29**|**LMM4Gen3DHF: Benchmarking and Evaluating Multimodal 3D Human Face Generation with LMMs**|Woo Yi Yang et.al.|[2504.20466v1](http://arxiv.org/abs/2504.20466v1)|**2025-04-29**|null|
-|**2025-04-29**|**LymphAtlas- A Unified Multimodal Lymphoma Imaging Repository Delivering AI-Enhanced Diagnostic Insight**|Jiajun Ding et.al.|[2504.20454v1](http://arxiv.org/abs/2504.20454v1)|**2025-04-29**|null|
-|**2025-04-29**|**GarmentX: Autoregressive Parametric Representations for High-Fidelity 3D Garment Generation**|Jingfeng Guo et.al.|[2504.20409v1](http://arxiv.org/abs/2504.20409v1)|**2025-04-29**|null|
-|**2025-04-29**|**SCOPE-MRI: Bankart Lesion Detection as a Case Study in Data Curation and Deep Learning for Challenging Diagnoses**|Sahil Sethi et.al.|[2504.20405v1](http://arxiv.org/abs/2504.20405v1)|**2025-04-29**|null|
-|**2025-04-29**|**Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting**|Hanxi Liu et.al.|[2504.20403v1](http://arxiv.org/abs/2504.20403v1)|**2025-04-29**|null|
-|**2025-04-29**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379v1](http://arxiv.org/abs/2504.20379v1)|**2025-04-29**|null|
-|**2025-04-29**|**Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views**|Jiang Wu et.al.|[2504.20378v1](http://arxiv.org/abs/2504.20378v1)|**2025-04-29**|null|
-|**2025-04-29**|**Ant Colony Optimization for Density Functionals in Strongly Correlated Systems**|G. M. Tonin et.al.|[2504.20317v1](http://arxiv.org/abs/2504.20317v1)|**2025-04-29**|null|
-|**2025-04-28**|**FreBIS: Frequency-Based Stratification for Neural Implicit Surface Representations**|Naoko Sawada et.al.|[2504.20222v1](http://arxiv.org/abs/2504.20222v1)|**2025-04-28**|null|
-|**2025-04-28**|**Application of the Holographic Equation of State for Numerical Modeling of the Evolution of Quark-Gluon Plasma**|A. V. Anufriev et.al.|[2504.20207v1](http://arxiv.org/abs/2504.20207v1)|**2025-04-28**|null|
-|**2025-04-28**|**Cosmos: A Cost Model for Serverless Workflows in the 3D Compute Continuum**|Cynthia Marcelino et.al.|[2504.20189v2](http://arxiv.org/abs/2504.20189v2)|**2025-04-30**|null|
-|**2025-04-28**|**Polarization of light from fast rotating Wolf-Rayet stars: A Monte Carlo simulations compared to analytical formula**|Slah Abdellaoui et.al.|[2504.20037v1](http://arxiv.org/abs/2504.20037v1)|**2025-04-28**|null|
-|**2025-04-28**|**LIRM: Large Inverse Rendering Model for Progressive Reconstruction of Shape, Materials and View-dependent Radiance Fields**|Zhengqin Li et.al.|[2504.20026v1](http://arxiv.org/abs/2504.20026v1)|**2025-04-28**|null|
+|**2025-04-30**|**ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction**|Qihao Liu et.al.|[2504.21855v1](http://arxiv.org/abs/2504.21855v1)|**2025-04-30**|null|
+|**2025-04-30**|**3D Stylization via Large Reconstruction Model**|Ipek Oztas et.al.|[2504.21836v1](http://arxiv.org/abs/2504.21836v1)|**2025-04-30**|null|
+|**2025-04-30**|**An Underwater, Fault-Tolerant, Laser-Aided Robotic Multi-Modal Dense SLAM System for Continuous Underwater In-Situ Observation**|Yaming Ou et.al.|[2504.21826v1](http://arxiv.org/abs/2504.21826v1)|**2025-04-30**|null|
+|**2025-04-30**|**A simple and effective approach for body part recognition on CT scans based on projection estimation**|Franko Hrzic et.al.|[2504.21810v1](http://arxiv.org/abs/2504.21810v1)|**2025-04-30**|null|
+|**2025-04-30**|**Common3D: Self-Supervised Learning of 3D Morphable Models for Common Objects in Neural Feature Space**|Leonhard Sommer et.al.|[2504.21749v1](http://arxiv.org/abs/2504.21749v1)|**2025-04-30**|null|
+|**2025-04-30**|**Adaptive 3D UI Placement in Mixed Reality Using Deep Reinforcement Learning**|Feiyu Lu et.al.|[2504.21731v1](http://arxiv.org/abs/2504.21731v1)|**2025-04-30**|null|
+|**2025-04-30**|**VividListener: Expressive and Controllable Listener Dynamics Modeling for Multi-Modal Responsive Interaction**|Shiying Li et.al.|[2504.21718v1](http://arxiv.org/abs/2504.21718v1)|**2025-04-30**|null|
+|**2025-04-30**|**REHEARSE-3D: A Multi-modal Emulated Rain Dataset for 3D Point Cloud De-raining**|Abu Mohammed Raisuddin et.al.|[2504.21699v1](http://arxiv.org/abs/2504.21699v1)|**2025-04-30**|null|
+|**2025-04-30**|**Self-Supervised Monocular Visual Drone Model Identification through Improved Occlusion Handling**|Stavrow A. Bahnam et.al.|[2504.21695v1](http://arxiv.org/abs/2504.21695v1)|**2025-04-30**|null|
+|**2025-04-30**|**Rank-two tensors and deconfinement in 3d $\mathcal{N}=2$ $SU(N)$ gauge theories**|Antonio Amariti et.al.|[2504.21654v1](http://arxiv.org/abs/2504.21654v1)|**2025-04-30**|null|
+|**2025-04-30**|**HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation**|Haiyang Zhou et.al.|[2504.21650v1](http://arxiv.org/abs/2504.21650v1)|**2025-04-30**|null|
+|**2025-04-30**|**Fast Sign Retrieval via Sub-band Convolution: An Elementary Extension of Binary Classification**|Fuma Ito et.al.|[2504.21632v1](http://arxiv.org/abs/2504.21632v1)|**2025-04-30**|null|
+|**2025-04-30**|**Path Planning on Multi-level Point Cloud with a Weighted Traversability Graph**|Yujie Tang et.al.|[2504.21622v1](http://arxiv.org/abs/2504.21622v1)|**2025-04-30**|null|
+|**2025-04-30**|**LRBO2: Improved 3D Vision Based Hand-Eye Calibration for Collaborative Robot Arm**|Leihui Li et.al.|[2504.21619v1](http://arxiv.org/abs/2504.21619v1)|**2025-04-30**|null|
+|**2025-04-30**|**Toward Realization of Low-Altitude Economy Networks: Core Architecture, Integrated Technologies, and Future Directions**|Yixian Wang et.al.|[2504.21583v1](http://arxiv.org/abs/2504.21583v1)|**2025-04-30**|null|
+|**2025-04-30**|**SAM4EM: Efficient memory-based two stage prompt-free segment anything model adapter for complex 3D neuroscience electron microscopy stacks**|Uzair Shah et.al.|[2504.21544v1](http://arxiv.org/abs/2504.21544v1)|**2025-04-30**|null|
+|**2025-04-30**|**Enhancing Cosmological Constraints by Two-dimensional $β$-cosmic-web Weighted Angular Correlation Functions**|Fenfen Yin et.al.|[2504.21509v1](http://arxiv.org/abs/2504.21509v1)|**2025-04-30**|null|
+|**2025-04-30**|**MagicPortrait: Temporally Consistent Face Reenactment with 3D Geometric Guidance**|Mengting Wei et.al.|[2504.21497v1](http://arxiv.org/abs/2504.21497v1)|**2025-04-30**|null|
+|**2025-04-30**|**Monolayer C$_{60}$ networks: A first-principles perspective**|Bo Peng et.al.|[2504.21485v1](http://arxiv.org/abs/2504.21485v1)|**2025-04-30**|null|
+|**2025-04-30**|**GarmentDiffusion: 3D Garment Sewing Pattern Generation with Multimodal Diffusion Transformers**|Xinyu Li et.al.|[2504.21476v1](http://arxiv.org/abs/2504.21476v1)|**2025-04-30**|null|
+|**2025-04-30**|**Multiview Point Cloud Registration via Optimization in an Autoencoder Latent Space**|Luc Vedrenne et.al.|[2504.21467v1](http://arxiv.org/abs/2504.21467v1)|**2025-04-30**|null|
+|**2025-04-30**|**Kolmogorov Cascade as the Governing Mechanism for Intervortex Spacing in Quantum Turbulence**|Clément Bret et.al.|[2504.21416v1](http://arxiv.org/abs/2504.21416v1)|**2025-04-30**|null|
+|**2025-04-30**|**Mapping the Human Brain from the Prenatal Period to Infancy Using 3D Magnetic Resonance Imaging**|Arnaud Cachia et.al.|[2504.21406v1](http://arxiv.org/abs/2504.21406v1)|**2025-04-30**|null|
+|**2025-04-30**|**ImaginateAR: AI-Assisted In-Situ Authoring in Augmented Reality**|Jaewook Lee et.al.|[2504.21360v1](http://arxiv.org/abs/2504.21360v1)|**2025-04-30**|null|
+|**2025-04-30**|**MagicCraft: Natural Language-Driven Generation of Dynamic and Interactive 3D Objects for Commercial Metaverse Platforms**|Ryutaro Kurai et.al.|[2504.21332v1](http://arxiv.org/abs/2504.21332v1)|**2025-04-30**|null|
+|**2025-04-30**|**Mamba Based Feature Extraction And Adaptive Multilevel Feature Fusion For 3D Tumor Segmentation From Multi-modal Medical Image**|Zexin Ji et.al.|[2504.21281v1](http://arxiv.org/abs/2504.21281v1)|**2025-04-30**|null|
+|**2025-04-29**|**General vector auxiliary differential equation finite-difference time-domain method for rotationally symmetric vector wave propagation in nonlinear optics**|Caleb J. Grimms et.al.|[2504.21201v1](http://arxiv.org/abs/2504.21201v1)|**2025-04-29**|null|
+|**2025-04-29**|**Slug-Mapper: Magnetic Scanner for Ultra Low-Field MRI Scanners**|Jonathan W. Morris et.al.|[2504.21193v1](http://arxiv.org/abs/2504.21193v1)|**2025-04-29**|null|
+|**2025-04-29**|**Design, analysis, and experimental validation of a stepped plate parametric array loudspeaker**|Woongji Kim et.al.|[2504.21171v1](http://arxiv.org/abs/2504.21171v1)|**2025-04-29**|null|
+|**2025-04-29**|**Dance Style Recognition Using Laban Movement Analysis**|Muhammad Turab et.al.|[2504.21166v1](http://arxiv.org/abs/2504.21166v1)|**2025-04-29**|null|

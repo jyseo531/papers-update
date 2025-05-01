@@ -57,6 +57,7 @@ Updated on 2025-05-01
 | 2 | Unknown | Abdoul-AI/Qwen2 | Updated4 days ago | [Link](https://huggingface.co/Abdoul-AI/Qwen2.5-Omni-7B-GGUF) |
 | 3 | Unknown | mint-medmax/medmax_7bAny-to-Any | UpdatedDec 15, 2024 | [Link](https://huggingface.co/mint-medmax/medmax_7b) |
 | 24 | Unknown | HiDream-ai/HiDream-E1-FullAny-to-Any | Updatedabout 9 hours ago | [Link](https://huggingface.co/HiDream-ai/HiDream-E1-Full) |
+| 1 | Unknown | jacklishufan/OmniFlow-v0 | UpdatedJan 10 | [Link](https://huggingface.co/jacklishufan/OmniFlow-v0.9) |
 
 ## Audio Classification
 
@@ -1321,6 +1322,7 @@ Updated on 2025-05-01
 | 20 | Unknown | stepfun-ai/Step1X-EditImage-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/stepfun-ai/Step1X-Edit) |
 | 2 | Unknown | theSure/Omnieraser_Controlnet_versionImage-to-Image | Updated16 days ago | [Link](https://huggingface.co/theSure/Omnieraser_Controlnet_version) |
 | 2 | Unknown | sanaka87/ICEdit-MoE-LoRAImage-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/sanaka87/ICEdit-MoE-LoRA) |
+| 2 | Unknown | hofixD/comfyui-hidream-l1-full-img2imgImage-to-Image | Updated7 days ago | [Link](https://huggingface.co/hofixD/comfyui-hidream-l1-full-img2img) |
 
 ## Image-to-Text
 
@@ -1956,6 +1958,7 @@ Updated on 2025-05-01
 | 35 | Unknown | sentence-transformers/static-retrieval-mrl-en-v1Sentence | UpdatedJan 17 | [Link](https://huggingface.co/sentence-transformers/static-retrieval-mrl-en-v1) |
 | 23 | Unknown | hotchpotch/static-embedding-japaneseSentence | UpdatedFeb 7 | [Link](https://huggingface.co/hotchpotch/static-embedding-japanese) |
 | 22 | Unknown | lightonai/GTE-ModernColBERT-v1Sentence | Updatedabout 13 hours ago | [Link](https://huggingface.co/lightonai/GTE-ModernColBERT-v1) |
+| 3 | Unknown | nomic-ai/nomic-embed-text-v2-moe-GGUFSentence | Updatedabout 19 hours ago | [Link](https://huggingface.co/nomic-ai/nomic-embed-text-v2-moe-GGUF) |
 
 ## Summarization
 
@@ -2321,6 +2324,8 @@ Updated on 2025-05-01
 | 2 | 74 | Qwen/Qwen3-32BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-32B) |
 | 21 | 73 | nvidia/Llama-3_1-Nemotron-Ultra-253B-v1Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/nvidia/Llama-3_1-Nemotron-Ultra-253B-v1) |
 | 1.65k | 72 | perplexity-ai/r1-1776-distill-llama-70bText | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776-distill-llama-70b) |
+| 37 | 71 | microsoft/Phi-4-reasoning-plusText | Updated13 days ago | [Link](https://huggingface.co/microsoft/Phi-4-reasoning-plus) |
+| 172 | 65 | microsoft/Phi-4-reasoningText | Updated16 days ago | [Link](https://huggingface.co/microsoft/Phi-4-reasoning) |
 | 224 | 63 | GSAI-ML/LLaDA-8B-InstructText | Updatedabout 23 hours ago | [Link](https://huggingface.co/GSAI-ML/LLaDA-8B-Instruct) |
 | 406 | 57 | LatitudeGames/Wayfarer-Large-70B-Llama-3 | Updated6 days ago | [Link](https://huggingface.co/LatitudeGames/Wayfarer-Large-70B-Llama-3.3) |
 | 926 | 54 | arcee-ai/Arcee-BlitzText | Updated4 days ago | [Link](https://huggingface.co/arcee-ai/Arcee-Blitz) |
@@ -2328,6 +2333,7 @@ Updated on 2025-05-01
 | 22 | 52 | Qwen/Qwen3-0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-0.6B) |
 | 325 | 51 | moonshotai/Moonlight-16B-A3BText | Updated2 days ago | [Link](https://huggingface.co/moonshotai/Moonlight-16B-A3B) |
 | 1.45k | 50 | ALLaM-AI/ALLaM-7B-Instruct-previewText | Updated8 days ago | [Link](https://huggingface.co/ALLaM-AI/ALLaM-7B-Instruct-preview) |
+| 5 | 50 | microsoft/Phi-4-mini-reasoningText | Updatedabout 11 hours ago | [Link](https://huggingface.co/microsoft/Phi-4-mini-reasoning) |
 | 39 | 47 | open-r1/OlympicCoder-32BText | Updatedabout 17 hours ago | [Link](https://huggingface.co/open-r1/OlympicCoder-32B) |
 | 415 | 46 | LGAI-EXAONE/EXAONE-Deep-2 | Updated4 minutes ago | [Link](https://huggingface.co/LGAI-EXAONE/EXAONE-Deep-2.4B) |
 | 151 | 46 | bytedance-research/ChatTS-14BText | Updated2 days ago | [Link](https://huggingface.co/bytedance-research/ChatTS-14B) |
@@ -2991,6 +2997,8 @@ Updated on 2025-05-01
 | 9.69k | 24 | google/t5-efficient-tinyText2Text | UpdatedJan 24, 2023 | [Link](https://huggingface.co/google/t5-efficient-tiny) |
 | 11.6k | 23 | google/umt5-smallText2Text | UpdatedJul 6, 2023 | [Link](https://huggingface.co/google/umt5-small) |
 | 298 | 22 | google/umt5-xxlText2Text | UpdatedJul 3, 2023 | [Link](https://huggingface.co/google/umt5-xxl) |
+| 10 | 21 | Supiri/t5-base-conversationText2Text | UpdatedJan 18, 2022 | [Link](https://huggingface.co/Supiri/t5-base-conversation) |
+| 1.86k | 19 | google/byt5-xxlText2Text | UpdatedJan 24, 2023 | [Link](https://huggingface.co/google/byt5-xxl) |
 | 1.04k | 17 | BeIR/query-gen-msmarco-t5-large-v1Text2Text | UpdatedJun 23, 2021 | [Link](https://huggingface.co/BeIR/query-gen-msmarco-t5-large-v1) |
 | 99 | 15 | bond005/FRED-T5-large-instruct-v0 | UpdatedOct 8, 2024 | [Link](https://huggingface.co/bond005/FRED-T5-large-instruct-v0.1) |
 | 172k | 15 | XLabs-AI/xflux_text_encodersText2Text | UpdatedAug 12, 2024 | [Link](https://huggingface.co/XLabs-AI/xflux_text_encoders) |
@@ -3023,6 +3031,8 @@ Updated on 2025-05-01
 | 20 | 2 | GreenNode/GreenMind-Medium-14B-R1Text2Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/GreenNode/GreenMind-Medium-14B-R1) |
 | 30 | 2 | TheStageAI/Elastic-Qwen2 | Updatedabout 2 hours ago | [Link](https://huggingface.co/TheStageAI/Elastic-Qwen2.5-7B-Instruct) |
 | 9 | 2 | Hamzah-Asadullah/GenericRPV3-4BText2Text | Updated3 days ago | [Link](https://huggingface.co/Hamzah-Asadullah/GenericRPV3-4B) |
+| 63 | 2 | TheStageAI/Elastic-DeepSeek-R1-Distill-Llama-8BText2Text | Updated3 days ago | [Link](https://huggingface.co/TheStageAI/Elastic-DeepSeek-R1-Distill-Llama-8B) |
+| 79 | 2 | TheStageAI/Elastic-DeepSeek-R1-Distill-Qwen-7BText2Text | Updated3 days ago | [Link](https://huggingface.co/TheStageAI/Elastic-DeepSeek-R1-Distill-Qwen-7B) |
 | 31 | 1 | Ayham/bert_roberta_summarization_cnn_dailymailText2Text | UpdatedFeb 24, 2022 | [Link](https://huggingface.co/Ayham/bert_roberta_summarization_cnn_dailymail) |
 | 121 | 1 | cnicu/pegasus-xsum-booksumText2Text | UpdatedFeb 26, 2022 | [Link](https://huggingface.co/cnicu/pegasus-xsum-booksum) |
 | 393k | 1.23k | google/flan-t5-xxlText2Text | UpdatedJul 27, 2023 | [Link](https://huggingface.co/google/flan-t5-xxl) |
@@ -3451,6 +3461,7 @@ Updated on 2025-05-01
 | 360 | 2 | OpenGVLab/VideoChat-R1_7BVideo-Text-to-Text | Updated4 days ago | [Link](https://huggingface.co/OpenGVLab/VideoChat-R1_7B) |
 | 32 | 2 | Zhang199/TinyLLaVA-Video-R1Video-Text-to-Text | Updated4 days ago | [Link](https://huggingface.co/Zhang199/TinyLLaVA-Video-R1) |
 | 23 | 2 | Fr0zencr4nE/Cockatiel-13BVideo-Text-to-Text | UpdatedMar 18 | [Link](https://huggingface.co/Fr0zencr4nE/Cockatiel-13B) |
+| 103 | 2 | chancharikm/qwen2 | Updated1 day ago | [Link](https://huggingface.co/chancharikm/qwen2.5-vl-7b-cam-motion-preview) |
 | 26 | 1 | tcm03/LongVidLLaMAVideo-Text-to-Text | UpdatedJan 8 | [Link](https://huggingface.co/tcm03/LongVidLLaMA) |
 | 54 | 1 | ruili0/LongVA-7B-TPOVideo-Text-to-Text | Updated11 days ago | [Link](https://huggingface.co/ruili0/LongVA-7B-TPO) |
 | 191 | 1 | ruili0/LLaVA-Video-7B-Qwen2-TPOVideo-Text-to-Text | Updated11 days ago | [Link](https://huggingface.co/ruili0/LLaVA-Video-7B-Qwen2-TPO) |
