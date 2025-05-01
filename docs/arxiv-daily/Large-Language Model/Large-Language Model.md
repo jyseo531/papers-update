@@ -29,6 +29,6 @@
 |**2025-04-29**|**Digraph-defined external difference families and new circular external difference families**|Sophie Huczynska et.al.|[2504.20959v1](http://arxiv.org/abs/2504.20959v1)|**2025-04-29**|null|
 |**2025-04-29**|**Soft-X-ray momentum microscopy of nonlinear magnon interactions below 100-nm wavelength**|Steffen Wittrock et.al.|[2504.20958v1](http://arxiv.org/abs/2504.20958v1)|**2025-04-29**|null|
 |**2025-04-29**|**The Development of Reflective Practice on a Work-Based Software Engineering Program: A Longitudinal Study**|Matthew Barr et.al.|[2504.20956v1](http://arxiv.org/abs/2504.20956v1)|**2025-04-29**|null|
-|**2025-04-29**|**Egret-1: Pretrained Neural Network Potentials For Efficient and Accurate Bioorganic Simulation**|Corin C. Wagen et.al.|[2504.20955v1](http://arxiv.org/abs/2504.20955v1)|**2025-04-29**|null|
+|**2025-04-29**|**Egret-1: Pretrained Neural Network Potentials For Efficient and Accurate Bioorganic Simulation**|Elias L. Mann et.al.|[2504.20955v2](http://arxiv.org/abs/2504.20955v2)|**2025-04-30**|null|
 |**2025-04-29**|**Optimal Local Simulations of a Quantum Singlet**|David Llamas et.al.|[2504.20953v1](http://arxiv.org/abs/2504.20953v1)|**2025-04-29**|null|
 |**2025-04-29**|**Pinpointing energy transfer mechanisms in the quenching process of microwave air plasma**|Q. Shen et.al.|[2504.20952v1](http://arxiv.org/abs/2504.20952v1)|**2025-04-29**|null|

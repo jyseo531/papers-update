@@ -30,5 +30,5 @@
 |**2025-04-29**|**Grokking in the Wild: Data Augmentation for Real-World Multi-Hop Reasoning with Transformers**|Roman Abramov et.al.|[2504.20752v1](http://arxiv.org/abs/2504.20752v1)|**2025-04-29**|null|
 |**2025-04-29**|**DB-GNN: Dual-Branch Graph Neural Network with Multi-Level Contrastive Learning for Jointly Identifying Within- and Cross-Frequency Coupled Brain Networks**|Xiang Wang et.al.|[2504.20744v1](http://arxiv.org/abs/2504.20744v1)|**2025-04-29**|null|
 |**2025-04-29**|**Bayesian Inference in Quantum Programs**|Christina Gehnen et.al.|[2504.20732v1](http://arxiv.org/abs/2504.20732v1)|**2025-04-29**|null|
-|**2025-04-29**|**Avoided-crossings, degeneracies and Berry phases in the spectrum of quantum noise through analytic Bloch-Messiah decomposition**|Giuseppe Patera et.al.|[2504.20730v1](http://arxiv.org/abs/2504.20730v1)|**2025-04-29**|null|
+|**2025-04-29**|**Avoided-crossings, degeneracies and Berry phases in the spectrum of quantum noise through analytic Bloch-Messiah decomposition**|Giuseppe Patera et.al.|[2504.20730v2](http://arxiv.org/abs/2504.20730v2)|**2025-04-30**|null|
 |**2025-04-29**|**BrightCookies at SemEval-2025 Task 9: Exploring Data Augmentation for Food Hazard Classification**|Foteini Papadopoulou et.al.|[2504.20703v1](http://arxiv.org/abs/2504.20703v1)|**2025-04-29**|null|

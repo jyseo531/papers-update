@@ -9,7 +9,7 @@
 |**2025-04-29**|**SVD Based Least Squares for X-Ray Pneumonia Classification Using Deep Features**|Mete Erdogan et.al.|[2504.20970v1](http://arxiv.org/abs/2504.20970v1)|**2025-04-29**|null|
 |**2025-04-29**|**Soft-X-ray momentum microscopy of nonlinear magnon interactions below 100-nm wavelength**|Steffen Wittrock et.al.|[2504.20958v1](http://arxiv.org/abs/2504.20958v1)|**2025-04-29**|null|
 |**2025-04-29**|**21 years of Astronomy at Warwick: celebrating the legacy of Prof. Tom Marsh**|Ingrid Pelisoli et.al.|[2504.20954v1](http://arxiv.org/abs/2504.20954v1)|**2025-04-29**|null|
-|**2025-04-29**|**DS_FusionNet: Dynamic Dual-Stream Fusion with Bidirectional Knowledge Distillation for Plant Disease Recognition**|Yanghui Song et.al.|[2504.20948v1](http://arxiv.org/abs/2504.20948v1)|**2025-04-29**|[link](https://github.com/YanghuiSong/DS_FusionNet)|
+|**2025-04-29**|**DS_FusionNet: Dynamic Dual-Stream Fusion with Bidirectional Knowledge Distillation for Plant Disease Recognition**|Yanghui Song et.al.|[2504.20948v2](http://arxiv.org/abs/2504.20948v2)|**2025-04-30**|[link](https://github.com/YanghuiSong/DS_FusionNet)|
 |**2025-04-29**|**Relativistic ejecta from stellar mass black holes: insights from simulations and synthetic radio images**|Katie Savard et.al.|[2504.20914v1](http://arxiv.org/abs/2504.20914v1)|**2025-04-29**|null|
 |**2025-04-29**|**Classifier-to-Bias: Toward Unsupervised Automatic Bias Detection for Visual Classifiers**|Quentin Guimard et.al.|[2504.20902v1](http://arxiv.org/abs/2504.20902v1)|**2025-04-29**|null|
 |**2025-04-29**|**Imaging on the Edge: Mapping Object Corners and Edges with Stereo X-ray Tomography**|Zhenduo Shang et.al.|[2504.20892v1](http://arxiv.org/abs/2504.20892v1)|**2025-04-29**|null|

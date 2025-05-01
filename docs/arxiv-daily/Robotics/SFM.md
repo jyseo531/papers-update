@@ -23,7 +23,7 @@
 |**2025-04-29**|**A Novel Method of Modeling Extended Emission of Compact Jets: Application to Swift J1727.8-1613**|Andrzej A. Zdziarski et.al.|[2504.20962v1](http://arxiv.org/abs/2504.20962v1)|**2025-04-29**|null|
 |**2025-04-29**|**Soft-X-ray momentum microscopy of nonlinear magnon interactions below 100-nm wavelength**|Steffen Wittrock et.al.|[2504.20958v1](http://arxiv.org/abs/2504.20958v1)|**2025-04-29**|null|
 |**2025-04-29**|**A Quieter State of Charge -- Ultra-Low-Noise Collective Current in Charge-Density-Wave Nanowires**|Subhajit Ghosh et.al.|[2504.20957v1](http://arxiv.org/abs/2504.20957v1)|**2025-04-29**|null|
-|**2025-04-29**|**Egret-1: Pretrained Neural Network Potentials For Efficient and Accurate Bioorganic Simulation**|Corin C. Wagen et.al.|[2504.20955v1](http://arxiv.org/abs/2504.20955v1)|**2025-04-29**|null|
+|**2025-04-29**|**Egret-1: Pretrained Neural Network Potentials For Efficient and Accurate Bioorganic Simulation**|Elias L. Mann et.al.|[2504.20955v2](http://arxiv.org/abs/2504.20955v2)|**2025-04-30**|null|
 |**2025-04-29**|**21 years of Astronomy at Warwick: celebrating the legacy of Prof. Tom Marsh**|Ingrid Pelisoli et.al.|[2504.20954v1](http://arxiv.org/abs/2504.20954v1)|**2025-04-29**|null|
 |**2025-04-29**|**Pinpointing energy transfer mechanisms in the quenching process of microwave air plasma**|Q. Shen et.al.|[2504.20952v1](http://arxiv.org/abs/2504.20952v1)|**2025-04-29**|null|
 |**2025-04-29**|**Information Gravity: A Field-Theoretic Model for Token Selection in Large Language Models**|Maryna Vyshnyvetska et.al.|[2504.20951v1](http://arxiv.org/abs/2504.20951v1)|**2025-04-29**|null|

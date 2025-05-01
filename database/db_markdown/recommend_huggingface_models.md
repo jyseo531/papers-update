@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-04-30
+Updated on 2025-05-01
 
 > Generated from the Hugging Face database.
 
@@ -511,6 +511,7 @@ Updated on 2025-04-30
 | 7.8k | 27 | laion/larger_clap_musicFeature | UpdatedOct 30, 2023 | [Link](https://huggingface.co/laion/larger_clap_music) |
 | 612 | 27 | aapot/bge-m3-onnxFeature | UpdatedFeb 16, 2024 | [Link](https://huggingface.co/aapot/bge-m3-onnx) |
 | 587k | 24 | indobenchmark/indobert-base-p1Feature | UpdatedMay 19, 2021 | [Link](https://huggingface.co/indobenchmark/indobert-base-p1) |
+| 14.2k | 23 | line-corporation/clip-japanese-baseFeature | UpdatedMar 25 | [Link](https://huggingface.co/line-corporation/clip-japanese-base) |
 | 3.19k | 21 | Salesforce/SFR-Embedding-Code-400M_RFeature | UpdatedJan 24 | [Link](https://huggingface.co/Salesforce/SFR-Embedding-Code-400M_R) |
 | 163 | 19 | hustcw/clap-asmFeature | UpdatedMar 4, 2024 | [Link](https://huggingface.co/hustcw/clap-asm) |
 | 151k | 19 | ibm-research/MoLFormer-XL-both-10pctFeature | UpdatedMar 31, 2024 | [Link](https://huggingface.co/ibm-research/MoLFormer-XL-both-10pct) |
@@ -791,6 +792,7 @@ Updated on 2025-04-30
 | 81 | 11 | prithivMLmods/Deep-Fake-Detector-Model-ONNXImage | Updated26 days ago | [Link](https://huggingface.co/prithivMLmods/Deep-Fake-Detector-Model-ONNX) |
 | 81 | 11 | prithivMLmods/Deep-Fake-Detector-v2-Model-ONNXImage | Updated24 days ago | [Link](https://huggingface.co/prithivMLmods/Deep-Fake-Detector-v2-Model-ONNX) |
 | 5.73k | 11 | Nahrawy/AIorNotImage | UpdatedApr 7, 2023 | [Link](https://huggingface.co/Nahrawy/AIorNot) |
+| 502 | 11 | imjeffhi/pokemon_classifierImage | UpdatedJan 16, 2023 | [Link](https://huggingface.co/imjeffhi/pokemon_classifier) |
 | 43 | 10 | prithivMLmods/Deepfake-QualityAssess-85MImage | Updated4 days ago | [Link](https://huggingface.co/prithivMLmods/Deepfake-QualityAssess-85M) |
 | 100 | 10 | prithivMLmods/Deepfake-QualityAssess-88MImage | Updated4 days ago | [Link](https://huggingface.co/prithivMLmods/Deepfake-QualityAssess-88M) |
 | 19 | 10 | prithivMLmods/Deepfake-QualityAssess-88M-ONNXImage | Updated5 days ago | [Link](https://huggingface.co/prithivMLmods/Deepfake-QualityAssess-88M-ONNX) |
@@ -923,6 +925,7 @@ Updated on 2025-04-30
 | 115 | 12 | intfloat/mmE5-mllama-11b-instructImage | Updatedabout 20 hours ago | [Link](https://huggingface.co/intfloat/mmE5-mllama-11b-instruct) |
 | 60.5k | 11 | timm/vit_large_patch14_dinov2 | UpdatedJan 20 | [Link](https://huggingface.co/timm/vit_large_patch14_dinov2.lvd142m) |
 | 303 | 11 | nvidia/C-RADIOv2-gImage | Updatedabout 10 hours ago | [Link](https://huggingface.co/nvidia/C-RADIOv2-g) |
+| 972 | 11 | facebook/PE-Spatial-G14-448Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/facebook/PE-Spatial-G14-448) |
 | 16.3k | 10 | timm/vit_base_patch14_reg4_dinov2 | UpdatedJan 21 | [Link](https://huggingface.co/timm/vit_base_patch14_reg4_dinov2.lvd142m) |
 | 101k | 10 | nvidia/MambaVision-B-1KImage | UpdatedJul 25, 2024 | [Link](https://huggingface.co/nvidia/MambaVision-B-1K) |
 | 4.86k | 9 | GoodBaiBai88/M3D-CLIPImage | UpdatedMay 8, 2024 | [Link](https://huggingface.co/GoodBaiBai88/M3D-CLIP) |
@@ -1952,6 +1955,7 @@ Updated on 2025-04-30
 | 5.72k |  | AI-Growth-Lab/PatentSBERTaSentence | UpdatedFeb 16, 2023 | [Link](https://huggingface.co/AI-Growth-Lab/PatentSBERTa) |
 | 35 | Unknown | sentence-transformers/static-retrieval-mrl-en-v1Sentence | UpdatedJan 17 | [Link](https://huggingface.co/sentence-transformers/static-retrieval-mrl-en-v1) |
 | 23 | Unknown | hotchpotch/static-embedding-japaneseSentence | UpdatedFeb 7 | [Link](https://huggingface.co/hotchpotch/static-embedding-japanese) |
+| 22 | Unknown | lightonai/GTE-ModernColBERT-v1Sentence | Updatedabout 13 hours ago | [Link](https://huggingface.co/lightonai/GTE-ModernColBERT-v1) |
 
 ## Summarization
 
@@ -2312,6 +2316,7 @@ Updated on 2025-04-30
 | 420 | 88 | all-hands/openhands-lm-32b-v0 | Updatedabout 16 hours ago | [Link](https://huggingface.co/all-hands/openhands-lm-32b-v0.1) |
 | 3.93k | 86 | PocketDoc/Dans-PersonalityEngine-V1 | Updated24 days ago | [Link](https://huggingface.co/PocketDoc/Dans-PersonalityEngine-V1.2.0-24b) |
 | 21.7k | 78 | unsloth/r1-1776-GGUFText | Updated6 days ago | [Link](https://huggingface.co/unsloth/r1-1776-GGUF) |
+| 10 | 78 | JetBrains/Mellum-4b-baseText | Updatedabout 15 hours ago | [Link](https://huggingface.co/JetBrains/Mellum-4b-base) |
 | 902 | 77 | qihoo360/Light-R1-32BText | Updatedabout 22 hours ago | [Link](https://huggingface.co/qihoo360/Light-R1-32B) |
 | 2 | 74 | Qwen/Qwen3-32BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-32B) |
 | 21 | 73 | nvidia/Llama-3_1-Nemotron-Ultra-253B-v1Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/nvidia/Llama-3_1-Nemotron-Ultra-253B-v1) |
@@ -2674,6 +2679,7 @@ Updated on 2025-04-30
 | 8.2k | 9 | azaneko/HiDream-I1-Dev-nf4Text-to-Image | Updated6 days ago | [Link](https://huggingface.co/azaneko/HiDream-I1-Dev-nf4) |
 | 215 | 8 | tensorart/stable-diffusion-3 | Updated8 minutes ago | [Link](https://huggingface.co/tensorart/stable-diffusion-3.5-large-TurboX) |
 | 1.69k | 7 | silveroxides/Chroma-GGUFText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/silveroxides/Chroma-GGUF) |
+| 58 | 7 | Freepik/F-Lite-TextureText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Freepik/F-Lite-Texture) |
 | 2 | 2.77k | CompVis/stable-diffusion-v-1-4-originalText-to-Image | UpdatedNov 9, 2022 | [Link](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original) |
 | 90.4k | 1.31k | xinsir/controlnet-union-sdxl-1 | UpdatedJul 30, 2024 | [Link](https://huggingface.co/xinsir/controlnet-union-sdxl-1.0) |
 | 387k | 1.66k | h94/IP-Adapter-FaceIDText-to-Image | UpdatedApr 16, 2024 | [Link](https://huggingface.co/h94/IP-Adapter-FaceID) |
@@ -2803,6 +2809,7 @@ Updated on 2025-04-30
 | 879 | 10 | FunAudioLLM/CosyVoice-300M-SFTText-to-Speech | UpdatedDec 27, 2024 | [Link](https://huggingface.co/FunAudioLLM/CosyVoice-300M-SFT) |
 | 367 | 10 | IbrahimSalah/F5-TTS-ArabicText-to-Speech | UpdatedFeb 15 | [Link](https://huggingface.co/IbrahimSalah/F5-TTS-Arabic) |
 | 63 | 8 | isaiahbjork/orpheus-3b-0 | Updatedabout 9 hours ago | [Link](https://huggingface.co/isaiahbjork/orpheus-3b-0.1-ft-Q4_K_M-GGUF) |
+| 17 | 8 | MYZY-AI/Muyan-TTSText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/MYZY-AI/Muyan-TTS) |
 | 1.11k | 7 | DragonLineageAI/Vi-SparkTTS-0 | Updatedabout 10 hours ago | [Link](https://huggingface.co/DragonLineageAI/Vi-SparkTTS-0.5B) |
 | 9 | 7 | canopylabs/3b-zh-pretrain-research_releaseText-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/canopylabs/3b-zh-pretrain-research_release) |
 | 618 | 7 | canopylabs/3b-de-pretrain-research_releaseText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/canopylabs/3b-de-pretrain-research_release) |
@@ -2811,6 +2818,7 @@ Updated on 2025-04-30
 | 29 | 6 | erax-ai/EraX-Smile-UnixSex-F5Text-to-Speech | Updatedabout 8 hours ago | [Link](https://huggingface.co/erax-ai/EraX-Smile-UnixSex-F5) |
 | 87 | 5 | lunahr/csm-1b-safetensors-quantsText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-quants) |
 | 26 | 5 | 2121-8/canary-tts-0 | Updatedabout 19 hours ago | [Link](https://huggingface.co/2121-8/canary-tts-0.5b) |
+| 12 | 5 | MYZY-AI/Muyan-TTS-SFTText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/MYZY-AI/Muyan-TTS-SFT) |
 | 5 | 4 | lunahr/csm-1b-safetensors-fp16Text-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-fp16) |
 | 2 | 4 | VAGOsolutions/SauerkrautTTS-Preview-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/VAGOsolutions/SauerkrautTTS-Preview-0.1) |
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
@@ -3673,6 +3681,7 @@ Updated on 2025-04-30
 | 2.17k | 27 | OFA-Sys/chinese-clip-vit-huge-patch14Zero-Shot | UpdatedDec 9, 2022 | [Link](https://huggingface.co/OFA-Sys/chinese-clip-vit-huge-patch14) |
 | 112k | 25 | kakaobrain/align-baseZero-Shot | UpdatedMar 8, 2023 | [Link](https://huggingface.co/kakaobrain/align-base) |
 | 31.7k | 24 | laion/CLIP-ViT-g-14-laion2B-s34B-b88KZero-Shot | UpdatedJan 22 | [Link](https://huggingface.co/laion/CLIP-ViT-g-14-laion2B-s34B-b88K) |
+| 6.63k | 23 | facebook/PE-Core-L14-336Zero-Shot | Updatedabout 9 hours ago | [Link](https://huggingface.co/facebook/PE-Core-L14-336) |
 | 3.26k | 22 | flax-community/clip-rsicd-v2Zero-Shot | UpdatedApr 24, 2022 | [Link](https://huggingface.co/flax-community/clip-rsicd-v2) |
 | 28.5k | 22 | laion/CLIP-convnext_xxlarge-laion2B-s34B-b82K-augreg-soupZero-Shot | UpdatedApr 18, 2023 | [Link](https://huggingface.co/laion/CLIP-convnext_xxlarge-laion2B-s34B-b82K-augreg-soup) |
 | 232k | 19 | laion/CLIP-convnext_large_d_320 | UpdatedJan 22 | [Link](https://huggingface.co/laion/CLIP-convnext_large_d_320.laion2B-s29B-b131K-ft-soup) |
@@ -3683,7 +3692,9 @@ Updated on 2025-04-30
 | 172 | 14 | zer0int/LongCLIP-SAE-ViT-L-14Zero-Shot | UpdatedJan 4 | [Link](https://huggingface.co/zer0int/LongCLIP-SAE-ViT-L-14) |
 | 109 | 14 | philschmid/clip-zero-shot-image-classificationZero-Shot | UpdatedJun 2, 2023 | [Link](https://huggingface.co/philschmid/clip-zero-shot-image-classification) |
 | 10.1k | 12 | google/siglip-large-patch16-256Zero-Shot | UpdatedSep 26, 2024 | [Link](https://huggingface.co/google/siglip-large-patch16-256) |
+| 5.98k | 12 | facebook/PE-Core-G14-448Zero-Shot | Updatedabout 9 hours ago | [Link](https://huggingface.co/facebook/PE-Core-G14-448) |
 | 30.1k | 9 | laion/CLIP-convnext_xxlarge-laion2B-s34B-b82K-augregZero-Shot | UpdatedApr 18, 2023 | [Link](https://huggingface.co/laion/CLIP-convnext_xxlarge-laion2B-s34B-b82K-augreg) |
+| 3.33k | 9 | facebook/PE-Core-B16-224Zero-Shot | Updatedabout 8 hours ago | [Link](https://huggingface.co/facebook/PE-Core-B16-224) |
 | 1.17k | 8 | google/siglip2-so400m-patch16-naflexZero-Shot | Updated4 days ago | [Link](https://huggingface.co/google/siglip2-so400m-patch16-naflex) |
 | 1.52k | 7 | google/siglip2-giant-opt-patch16-384Zero-Shot | Updated4 days ago | [Link](https://huggingface.co/google/siglip2-giant-opt-patch16-384) |
 | 232 | 6 | google/siglip2-large-patch16-512Zero-Shot | Updated4 days ago | [Link](https://huggingface.co/google/siglip2-large-patch16-512) |

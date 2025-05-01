@@ -9,7 +9,7 @@
 |**2025-04-29**|**SVD Based Least Squares for X-Ray Pneumonia Classification Using Deep Features**|Mete Erdogan et.al.|[2504.20970v1](http://arxiv.org/abs/2504.20970v1)|**2025-04-29**|null|
 |**2025-04-29**|**Soft-X-ray momentum microscopy of nonlinear magnon interactions below 100-nm wavelength**|Steffen Wittrock et.al.|[2504.20958v1](http://arxiv.org/abs/2504.20958v1)|**2025-04-29**|null|
 |**2025-04-29**|**21 years of Astronomy at Warwick: celebrating the legacy of Prof. Tom Marsh**|Ingrid Pelisoli et.al.|[2504.20954v1](http://arxiv.org/abs/2504.20954v1)|**2025-04-29**|null|
-|**2025-04-29**|**DS_FusionNet: Dynamic Dual-Stream Fusion with Bidirectional Knowledge Distillation for Plant Disease Recognition**|Yanghui Song et.al.|[2504.20948v1](http://arxiv.org/abs/2504.20948v1)|**2025-04-29**|[link](https://github.com/YanghuiSong/DS_FusionNet)|
+|**2025-04-29**|**DS_FusionNet: Dynamic Dual-Stream Fusion with Bidirectional Knowledge Distillation for Plant Disease Recognition**|Yanghui Song et.al.|[2504.20948v2](http://arxiv.org/abs/2504.20948v2)|**2025-04-30**|[link](https://github.com/YanghuiSong/DS_FusionNet)|
 |**2025-04-29**|**Improvements of Dark Experience Replay and Reservoir Sampling towards Better Balance between Consolidation and Plasticity**|Taisuke Kobayashi et.al.|[2504.20932v1](http://arxiv.org/abs/2504.20932v1)|**2025-04-29**|null|
 |**2025-04-29**|**Relativistic ejecta from stellar mass black holes: insights from simulations and synthetic radio images**|Katie Savard et.al.|[2504.20914v1](http://arxiv.org/abs/2504.20914v1)|**2025-04-29**|null|
 |**2025-04-29**|**Classifier-to-Bias: Toward Unsupervised Automatic Bias Detection for Visual Classifiers**|Quentin Guimard et.al.|[2504.20902v1](http://arxiv.org/abs/2504.20902v1)|**2025-04-29**|null|
@@ -18,7 +18,7 @@
 |**2025-04-29**|**Mapping a Movement: Exploring a Proposed Police Training Facility in Atlanta and the Stop Cop City Movement through Online Maps**|Camille Harris et.al.|[2504.20886v1](http://arxiv.org/abs/2504.20886v1)|**2025-04-29**|null|
 |**2025-04-29**|**Chaos Around the Kerr Black Hole: its Effects on Entropy and the Shadow**|Aydin Tavlayan et.al.|[2504.20876v1](http://arxiv.org/abs/2504.20876v1)|**2025-04-29**|null|
 |**2025-04-29**|**FLIM-based Salient Object Detection Networks with Adaptive Decoders**|Gilson Junior Soares et.al.|[2504.20872v1](http://arxiv.org/abs/2504.20872v1)|**2025-04-29**|null|
-|**2025-04-29**|**Quantifying the Noise of Structural Perturbations on Graph Adversarial Attacks**|Junyuan Fang et.al.|[2504.20869v1](http://arxiv.org/abs/2504.20869v1)|**2025-04-29**|null|
+|**2025-04-29**|**Quantifying the Noise of Structural Perturbations on Graph Adversarial Attacks**|Junyuan Fang et.al.|[2504.20869v2](http://arxiv.org/abs/2504.20869v2)|**2025-04-30**|null|
 |**2025-04-29**|**AI-GenBench: A New Ongoing Benchmark for AI-Generated Image Detection**|Lorenzo Pellegrini et.al.|[2504.20865v1](http://arxiv.org/abs/2504.20865v1)|**2025-04-29**|null|
 |**2025-04-29**|**FedMVP: Federated Multi-modal Visual Prompt Tuning for Vision-Language Models**|Mainak Singha et.al.|[2504.20860v1](http://arxiv.org/abs/2504.20860v1)|**2025-04-29**|null|
 |**2025-04-29**|**RadSAM: Segmenting 3D radiological images with a 2D promptable model**|Julien Khlaut et.al.|[2504.20837v1](http://arxiv.org/abs/2504.20837v1)|**2025-04-29**|null|

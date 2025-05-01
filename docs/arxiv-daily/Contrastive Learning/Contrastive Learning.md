@@ -16,8 +16,8 @@
 |**2025-04-29**|**Softpick: No Attention Sink, No Massive Activations with Rectified Softmax**|Zayd M. K. Zuhri et.al.|[2504.20966v1](http://arxiv.org/abs/2504.20966v1)|**2025-04-29**|null|
 |**2025-04-29**|**AegisLLM: Scaling Agentic Systems for Self-Reflective Defense in LLM Security**|Zikui Cai et.al.|[2504.20965v1](http://arxiv.org/abs/2504.20965v1)|**2025-04-29**|null|
 |**2025-04-29**|**The Development of Reflective Practice on a Work-Based Software Engineering Program: A Longitudinal Study**|Matthew Barr et.al.|[2504.20956v1](http://arxiv.org/abs/2504.20956v1)|**2025-04-29**|null|
-|**2025-04-29**|**Egret-1: Pretrained Neural Network Potentials For Efficient and Accurate Bioorganic Simulation**|Corin C. Wagen et.al.|[2504.20955v1](http://arxiv.org/abs/2504.20955v1)|**2025-04-29**|null|
-|**2025-04-29**|**DS_FusionNet: Dynamic Dual-Stream Fusion with Bidirectional Knowledge Distillation for Plant Disease Recognition**|Yanghui Song et.al.|[2504.20948v1](http://arxiv.org/abs/2504.20948v1)|**2025-04-29**|[link](https://github.com/YanghuiSong/DS_FusionNet)|
+|**2025-04-29**|**Egret-1: Pretrained Neural Network Potentials For Efficient and Accurate Bioorganic Simulation**|Elias L. Mann et.al.|[2504.20955v2](http://arxiv.org/abs/2504.20955v2)|**2025-04-30**|null|
+|**2025-04-29**|**DS_FusionNet: Dynamic Dual-Stream Fusion with Bidirectional Knowledge Distillation for Plant Disease Recognition**|Yanghui Song et.al.|[2504.20948v2](http://arxiv.org/abs/2504.20948v2)|**2025-04-30**|[link](https://github.com/YanghuiSong/DS_FusionNet)|
 |**2025-04-29**|**Deep Learning Characterizes Depression and Suicidal Ideation from Eye Movements**|Kleanthis Avramidis et.al.|[2504.20944v1](http://arxiv.org/abs/2504.20944v1)|**2025-04-29**|null|
 |**2025-04-29**|**Scenario-based Compositional Verification of Autonomous Systems with Neural Perception**|Christopher Watson et.al.|[2504.20942v1](http://arxiv.org/abs/2504.20942v1)|**2025-04-29**|null|
 |**2025-04-29**|**Energy-Based Coarse-Graining in Molecular Dynamics: A Flow-Based Framework Without Data**|Maximilian Stupp et.al.|[2504.20940v1](http://arxiv.org/abs/2504.20940v1)|**2025-04-29**|null|
@@ -30,5 +30,5 @@
 |**2025-04-29**|**Exploiting inter-agent coupling information for efficient reinforcement learning of cooperative LQR**|Shahbaz P Qadri Syed et.al.|[2504.20927v1](http://arxiv.org/abs/2504.20927v1)|**2025-04-29**|null|
 |**2025-04-29**|**Bipartite Randomized Response Mechanism for Local Differential Privacy**|Shun Zhang et.al.|[2504.20926v1](http://arxiv.org/abs/2504.20926v1)|**2025-04-29**|null|
 |**2025-04-29**|**A Domain-Agnostic Scalable AI Safety Ensuring Framework**|Beomjun Kim et.al.|[2504.20924v1](http://arxiv.org/abs/2504.20924v1)|**2025-04-29**|null|
-|**2025-04-29**|**End-to-end Audio Deepfake Detection from RAW Waveforms: a RawNet-Based Approach with Cross-Dataset Evaluation**|Andrea Di Pierno et.al.|[2504.20923v1](http://arxiv.org/abs/2504.20923v1)|**2025-04-29**|[link](https://github.com/adipiz99/RawNetLite)|
+|**2025-04-29**|**End-to-end Audio Deepfake Detection from RAW Waveforms: a RawNet-Based Approach with Cross-Dataset Evaluation**|Andrea Di Pierno et.al.|[2504.20923v2](http://arxiv.org/abs/2504.20923v2)|**2025-04-30**|[link](https://github.com/adipiz99/RawNetLite)|
 |**2025-04-29**|**DYNAMAX: Dynamic computing for Transformers and Mamba based architectures**|Miguel Nogales et.al.|[2504.20922v1](http://arxiv.org/abs/2504.20922v1)|**2025-04-29**|null|

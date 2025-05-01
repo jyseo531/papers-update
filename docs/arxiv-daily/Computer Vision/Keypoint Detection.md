@@ -7,7 +7,7 @@
 |**2025-04-29**|**Sparse mixed linear modeling with anchor-based guidance for high-entropy alloy discovery**|Ryo Murakami et.al.|[2504.20354v1](http://arxiv.org/abs/2504.20354v1)|**2025-04-29**|null|
 |**2025-04-28**|**Nucleation of dislocations in metals: order parameters, transition state, and kinetic rates**|Mattia Perrone et.al.|[2504.20211v1](http://arxiv.org/abs/2504.20211v1)|**2025-04-28**|null|
 |**2025-04-28**|**CE-NPBG: Connectivity Enhanced Neural Point-Based Graphics for Novel View Synthesis in Autonomous Driving Scenes**|Mohammad Altillawi et.al.|[2504.19557v1](http://arxiv.org/abs/2504.19557v1)|**2025-04-28**|null|
-|**2025-04-27**|**OPAL: Visibility-aware LiDAR-to-OpenStreetMap Place Recognition via Adaptive Radial Fusion**|Shuhao Kang et.al.|[2504.19258v1](http://arxiv.org/abs/2504.19258v1)|**2025-04-27**|null|
+|**2025-04-27**|**OPAL: Visibility-aware LiDAR-to-OpenStreetMap Place Recognition via Adaptive Radial Fusion**|Shuhao Kang et.al.|[2504.19258v2](http://arxiv.org/abs/2504.19258v2)|**2025-04-30**|null|
 |**2025-04-27**|**Unsupervised 2D-3D lifting of non-rigid objects using local constraints**|Shalini Maiti et.al.|[2504.19227v1](http://arxiv.org/abs/2504.19227v1)|**2025-04-27**|null|
 |**2025-04-27**|**LRFusionPR: A Polar BEV-Based LiDAR-Radar Fusion Network for Place Recognition**|Zhangshuo Qi et.al.|[2504.19186v1](http://arxiv.org/abs/2504.19186v1)|**2025-04-27**|null|
 |**2025-04-27**|**Newton-Puiseux Analysis for Interpretability and Calibration of Complex-Valued Neural Networks**|Piotr Migus et.al.|[2504.19176v1](http://arxiv.org/abs/2504.19176v1)|**2025-04-27**|null|

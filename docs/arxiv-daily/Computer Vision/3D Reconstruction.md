@@ -29,6 +29,6 @@
 |**2025-04-29**|**Ant Colony Optimization for Density Functionals in Strongly Correlated Systems**|G. M. Tonin et.al.|[2504.20317v1](http://arxiv.org/abs/2504.20317v1)|**2025-04-29**|null|
 |**2025-04-28**|**FreBIS: Frequency-Based Stratification for Neural Implicit Surface Representations**|Naoko Sawada et.al.|[2504.20222v1](http://arxiv.org/abs/2504.20222v1)|**2025-04-28**|null|
 |**2025-04-28**|**Application of the Holographic Equation of State for Numerical Modeling of the Evolution of Quark-Gluon Plasma**|A. V. Anufriev et.al.|[2504.20207v1](http://arxiv.org/abs/2504.20207v1)|**2025-04-28**|null|
-|**2025-04-28**|**Cosmos: A Cost Model for Serverless Workflows in the 3D Compute Continuum**|Cynthia Marcelino et.al.|[2504.20189v1](http://arxiv.org/abs/2504.20189v1)|**2025-04-28**|null|
+|**2025-04-28**|**Cosmos: A Cost Model for Serverless Workflows in the 3D Compute Continuum**|Cynthia Marcelino et.al.|[2504.20189v2](http://arxiv.org/abs/2504.20189v2)|**2025-04-30**|null|
 |**2025-04-28**|**Polarization of light from fast rotating Wolf-Rayet stars: A Monte Carlo simulations compared to analytical formula**|Slah Abdellaoui et.al.|[2504.20037v1](http://arxiv.org/abs/2504.20037v1)|**2025-04-28**|null|
 |**2025-04-28**|**LIRM: Large Inverse Rendering Model for Progressive Reconstruction of Shape, Materials and View-dependent Radiance Fields**|Zhengqin Li et.al.|[2504.20026v1](http://arxiv.org/abs/2504.20026v1)|**2025-04-28**|null|

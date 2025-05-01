@@ -10,7 +10,7 @@
 |**2025-04-29**|**RadSAM: Segmenting 3D radiological images with a 2D promptable model**|Julien Khlaut et.al.|[2504.20837v1](http://arxiv.org/abs/2504.20837v1)|**2025-04-29**|null|
 |**2025-04-29**|**Enhancing Non-Core Language Instruction-Following in Speech LLMs via Semi-Implicit Cross-Lingual CoT Reasoning**|Hongfei Xue et.al.|[2504.20835v1](http://arxiv.org/abs/2504.20835v1)|**2025-04-29**|null|
 |**2025-04-29**|**An approach to melodic segmentation and classification based on filtering with the Haar-wavelet**|Gissel Velarde et.al.|[2504.20822v1](http://arxiv.org/abs/2504.20822v1)|**2025-04-29**|null|
-|**2025-04-29**|**Unlocking User-oriented Pages: Intention-driven Black-box Scanner for Real-world Web Applications**|Weizhe Wang et.al.|[2504.20801v1](http://arxiv.org/abs/2504.20801v1)|**2025-04-29**|null|
+|**2025-04-29**|**Unlocking User-oriented Pages: Intention-driven Black-box Scanner for Real-world Web Applications**|Weizhe Wang et.al.|[2504.20801v2](http://arxiv.org/abs/2504.20801v2)|**2025-04-30**|null|
 |**2025-04-29**|**Adept: Annotation-Denoising Auxiliary Tasks with Discrete Cosine Transform Map and Keypoint for Human-Centric Pretraining**|Weizhen He et.al.|[2504.20800v1](http://arxiv.org/abs/2504.20800v1)|**2025-04-29**|null|
 |**2025-04-29**|**Upper critical field and pairing symmetry of Ising superconductors**|Lena Engström et.al.|[2504.20775v1](http://arxiv.org/abs/2504.20775v1)|**2025-04-29**|null|
 |**2025-04-29**|**LakeVilla: Multi-Table Transactions for Lakehouses**|Tobias Götz et.al.|[2504.20768v1](http://arxiv.org/abs/2504.20768v1)|**2025-04-29**|null|
