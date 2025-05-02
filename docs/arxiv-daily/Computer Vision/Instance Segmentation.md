@@ -2,33 +2,33 @@
 ### Instance Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-30**|**Early Exit and Multi Stage Knowledge Distillation in VLMs for Video Summarization**|Anas Anwarul Haq Khan et.al.|[2504.21831v1](http://arxiv.org/abs/2504.21831v1)|**2025-04-30**|null|
-|**2025-04-30**|**Stable Trajectory Clustering: An Efficient Split and Merge Algorithm**|Atieh Rahmani et.al.|[2504.21808v1](http://arxiv.org/abs/2504.21808v1)|**2025-04-30**|null|
-|**2025-04-30**|**SWE-smith: Scaling Data for Software Engineering Agents**|John Yang et.al.|[2504.21798v1](http://arxiv.org/abs/2504.21798v1)|**2025-04-30**|null|
-|**2025-04-30**|**Anomaly-Driven Approach for Enhanced Prostate Cancer Segmentation**|Alessia Hu et.al.|[2504.21789v1](http://arxiv.org/abs/2504.21789v1)|**2025-04-30**|null|
-|**2025-04-30**|**Improved Lanczos Algorithm using Matrix Product States**|Yu Wang et.al.|[2504.21786v1](http://arxiv.org/abs/2504.21786v1)|**2025-04-30**|null|
-|**2025-04-30**|**LASHED: LLMs And Static Hardware Analysis for Early Detection of RTL Bugs**|Baleegh Ahmad et.al.|[2504.21770v1](http://arxiv.org/abs/2504.21770v1)|**2025-04-30**|null|
-|**2025-04-30**|**CodeFlowBench: A Multi-turn, Iterative Benchmark for Complex Code Generation**|Sizhe Wang et.al.|[2504.21751v1](http://arxiv.org/abs/2504.21751v1)|**2025-04-30**|null|
-|**2025-04-30**|**Common3D: Self-Supervised Learning of 3D Morphable Models for Common Objects in Neural Feature Space**|Leonhard Sommer et.al.|[2504.21749v1](http://arxiv.org/abs/2504.21749v1)|**2025-04-30**|null|
-|**2025-04-30**|**Improving Retrieval-Augmented Neural Machine Translation with Monolingual Data**|Maxime Bouthors et.al.|[2504.21747v1](http://arxiv.org/abs/2504.21747v1)|**2025-04-30**|null|
-|**2025-04-30**|**Vision Transformers in Precision Agriculture: A Comprehensive Survey**|Saber Mehdipour et.al.|[2504.21706v1](http://arxiv.org/abs/2504.21706v1)|**2025-04-30**|null|
-|**2025-04-30**|**REHEARSE-3D: A Multi-modal Emulated Rain Dataset for 3D Point Cloud De-raining**|Abu Mohammed Raisuddin et.al.|[2504.21699v1](http://arxiv.org/abs/2504.21699v1)|**2025-04-30**|null|
-|**2025-04-30**|**Enhancing Self-Supervised Fine-Grained Video Object Tracking with Dynamic Memory Prediction**|Zihan Zhou et.al.|[2504.21692v1](http://arxiv.org/abs/2504.21692v1)|**2025-04-30**|null|
-|**2025-04-30**|**AdaR1: From Long-CoT to Hybrid-CoT via Bi-Level Adaptive Reasoning Optimization**|Haotian Luo et.al.|[2504.21659v1](http://arxiv.org/abs/2504.21659v1)|**2025-04-30**|null|
-|**2025-04-30**|**Optimal fermion-qubit mappings via quadratic assignment**|Mitchell Chiew et.al.|[2504.21636v1](http://arxiv.org/abs/2504.21636v1)|**2025-04-30**|null|
-|**2025-04-30**|**Real Time Semantic Segmentation of High Resolution Automotive LiDAR Scans**|Hannes Reichert et.al.|[2504.21602v1](http://arxiv.org/abs/2504.21602v1)|**2025-04-30**|null|
-|**2025-04-30**|**Cascade Detector Analysis and Application to Biomedical Microscopy**|Thomas L. Athey et.al.|[2504.21598v1](http://arxiv.org/abs/2504.21598v1)|**2025-04-30**|null|
-|**2025-04-30**|**On U-Folds and Their Construction**|Stefano Maurelli et.al.|[2504.21590v1](http://arxiv.org/abs/2504.21590v1)|**2025-04-30**|null|
-|**2025-04-30**|**Make Both Ends Meet: A Synergistic Optimization Infrared Small Target Detection with Streamlined Computational Overhead**|Yuxin Jing et.al.|[2504.21581v1](http://arxiv.org/abs/2504.21581v1)|**2025-04-30**|null|
-|**2025-04-30**|**eNCApsulate: NCA for Precision Diagnosis on Capsule Endoscopes**|Henry John Krumb et.al.|[2504.21562v1](http://arxiv.org/abs/2504.21562v1)|**2025-04-30**|null|
-|**2025-04-30**|**SAM4EM: Efficient memory-based two stage prompt-free segment anything model adapter for complex 3D neuroscience electron microscopy stacks**|Uzair Shah et.al.|[2504.21544v1](http://arxiv.org/abs/2504.21544v1)|**2025-04-30**|null|
-|**2025-04-30**|**CryptoUNets: Applying Convolutional Networks to Encrypted Data for Biomedical Image Segmentation**|John Chiang et.al.|[2504.21543v1](http://arxiv.org/abs/2504.21543v1)|**2025-04-30**|null|
-|**2025-04-30**|**Scientific Workflow Scheduling in Cloud Considering Cold Start and Variable Pricing Model**|Suvarthi Sarkar et.al.|[2504.21536v1](http://arxiv.org/abs/2504.21536v1)|**2025-04-30**|null|
-|**2025-04-30**|**ClassWise-CRF: Category-Specific Fusion for Enhanced Semantic Segmentation of Remote Sensing Imagery**|Qinfeng Zhu et.al.|[2504.21491v1](http://arxiv.org/abs/2504.21491v1)|**2025-04-30**|null|
-|**2025-04-30**|**Optimizing Mouse Dynamics for User Authentication by Machine Learning: Addressing Data Sufficiency, Accuracy-Practicality Trade-off, and Model Performance Challenges**|Yi Wang et.al.|[2504.21415v1](http://arxiv.org/abs/2504.21415v1)|**2025-04-30**|null|
-|**2025-04-30**|**Adapting In-Domain Few-Shot Segmentation to New Domains without Retraining**|Qi Fan et.al.|[2504.21414v1](http://arxiv.org/abs/2504.21414v1)|**2025-04-30**|null|
-|**2025-04-30**|**Towards Intelligent Edge Sensing for ISCC Network: Joint Multi-Tier DNN Partitioning and Beamforming Design**|Peng Liu et.al.|[2504.21409v1](http://arxiv.org/abs/2504.21409v1)|**2025-04-30**|null|
-|**2025-04-30**|**The maximum mass and rotational kinetic energy of rapidly rotating neutron stars**|Shao-Peng Tang et.al.|[2504.21408v1](http://arxiv.org/abs/2504.21408v1)|**2025-04-30**|null|
-|**2025-04-30**|**Statistical process discovery**|Pierre Cry et.al.|[2504.21390v1](http://arxiv.org/abs/2504.21390v1)|**2025-04-30**|null|
-|**2025-04-30**|**Retrieval-Enhanced Few-Shot Prompting for Speech Event Extraction**|Máté Gedeon et.al.|[2504.21372v1](http://arxiv.org/abs/2504.21372v1)|**2025-04-30**|null|
-|**2025-04-30**|**UniBiomed: A Universal Foundation Model for Grounded Biomedical Image Interpretation**|Linshan Wu et.al.|[2504.21336v1](http://arxiv.org/abs/2504.21336v1)|**2025-04-30**|null|
+|**2025-05-01**|**Robotic Visual Instruction**|Yanbang Li et.al.|[2505.00693v1](http://arxiv.org/abs/2505.00693v1)|**2025-05-01**|null|
+|**2025-05-01**|**Generalized Kac-Paljutkin algebras**|Christian Lomp et.al.|[2505.00645v1](http://arxiv.org/abs/2505.00645v1)|**2025-05-01**|null|
+|**2025-05-01**|**Bayes-Optimal Fair Classification with Multiple Sensitive Features**|Yi Yang et.al.|[2505.00631v1](http://arxiv.org/abs/2505.00631v1)|**2025-05-01**|null|
+|**2025-05-01**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630v1](http://arxiv.org/abs/2505.00630v1)|**2025-05-01**|null|
+|**2025-05-01**|**Brain Foundation Models with Hypergraph Dynamic Adapter for Brain Disease Analysis**|Zhongying Deng et.al.|[2505.00627v1](http://arxiv.org/abs/2505.00627v1)|**2025-05-01**|null|
+|**2025-05-01**|**A Novel Feature-Aware Chaotic Image Encryption Scheme For Data Security and Privacy in IoT and Edge Networks**|Muhammad Shahbaz Khan et.al.|[2505.00593v1](http://arxiv.org/abs/2505.00593v1)|**2025-05-01**|null|
+|**2025-05-01**|**AI-Driven High-Resolution Cell Segmentation and Quantitative Analysis**|Shuang Zhang et.al.|[2505.00578v1](http://arxiv.org/abs/2505.00578v1)|**2025-05-01**|null|
+|**2025-05-01**|**Learning to Learn with Quantum Optimization via Quantum Neural Networks**|Kuan-Cheng Chen et.al.|[2505.00561v1](http://arxiv.org/abs/2505.00561v1)|**2025-05-01**|null|
+|**2025-05-01**|**Efficient Recommendation with Millions of Items by Dynamic Pruning of Sub-Item Embeddings**|Aleksandr V. Petrov et.al.|[2505.00560v1](http://arxiv.org/abs/2505.00560v1)|**2025-05-01**|null|
+|**2025-05-01**|**Two-Qubit Gate Synthesis via Linear Programming for Heterogeneous Instruction Sets**|Evan McKinney et.al.|[2505.00543v1](http://arxiv.org/abs/2505.00543v1)|**2025-05-01**|null|
+|**2025-05-01**|**Test-time Correlation Alignment**|Linjing You et.al.|[2505.00533v1](http://arxiv.org/abs/2505.00533v1)|**2025-05-01**|null|
+|**2025-05-01**|**InterLoc: LiDAR-based Intersection Localization using Road Segmentation with Automated Evaluation Method**|Nguyen Hoang Khoi Tran et.al.|[2505.00512v1](http://arxiv.org/abs/2505.00512v1)|**2025-05-01**|null|
+|**2025-05-01**|**Generically trivial torsors under constant groups**|Alexis Bouthier et.al.|[2505.00505v1](http://arxiv.org/abs/2505.00505v1)|**2025-05-01**|null|
+|**2025-05-01**|**Distributed Retrieval-Augmented Generation**|Chenhao Xu et.al.|[2505.00443v1](http://arxiv.org/abs/2505.00443v1)|**2025-05-01**|null|
+|**2025-05-01**|**Per-Domain Generalizing Policies: On Validation Instances and Scaling Behavior**|Timo P. Gros et.al.|[2505.00439v1](http://arxiv.org/abs/2505.00439v1)|**2025-05-01**|null|
+|**2025-05-01**|**iMacSR: Intermediate Multi-Access Supervision and Regularization in Training Autonomous Driving Models**|Wei-Bin Kou et.al.|[2505.00404v1](http://arxiv.org/abs/2505.00404v1)|**2025-05-01**|null|
+|**2025-05-01**|**Characterizing the dissolution states of a fluorescent probe within a lipid bilayer using molec ular dynamics simulations**|Ryo Okabe et.al.|[2505.00403v1](http://arxiv.org/abs/2505.00403v1)|**2025-05-01**|null|
+|**2025-05-01**|**Cues3D: Unleashing the Power of Sole NeRF for Consistent and Unique Instances in Open-Vocabulary 3D Panoptic Segmentation**|Feng Xue et.al.|[2505.00378v1](http://arxiv.org/abs/2505.00378v1)|**2025-05-01**|null|
+|**2025-05-01**|**Automated segmenta-on of pediatric neuroblastoma on multi-modal MRI: Results of the SPPIN challenge at MICCAI 2023**|M. A. D. Buser et.al.|[2505.00369v1](http://arxiv.org/abs/2505.00369v1)|**2025-05-01**|null|
+|**2025-05-01**|**KoACD: The First Korean Adolescent Dataset for Cognitive Distortion Analysis**|JunSeo Kim et.al.|[2505.00367v1](http://arxiv.org/abs/2505.00367v1)|**2025-05-01**|null|
+|**2025-05-01**|**Multi-segment Soft Robot Control via Deep Koopman-based Model Predictive Control**|Lei Lv et.al.|[2505.00354v1](http://arxiv.org/abs/2505.00354v1)|**2025-05-01**|null|
+|**2025-05-01**|**Quaternion Wavelet-Conditioned Diffusion Models for Image Super-Resolution**|Luigi Sigillo et.al.|[2505.00334v1](http://arxiv.org/abs/2505.00334v1)|**2025-05-01**|null|
+|**2025-05-01**|**Surrogate modeling of Cellular-Potts Agent-Based Models as a segmentation task using the U-Net neural network architecture**|Tien Comlekoglu et.al.|[2505.00316v1](http://arxiv.org/abs/2505.00316v1)|**2025-05-01**|null|
+|**2025-05-01**|**AWARE-NET: Adaptive Weighted Averaging for Robust Ensemble Network in Deepfake Detection**|Muhammad Salman et.al.|[2505.00312v1](http://arxiv.org/abs/2505.00312v1)|**2025-05-01**|[link](https://github.com/recluzegeek/deepfake-ensemble-detection)|
+|**2025-05-01**|**AI-Assisted Decision-Making for Clinical Assessment of Auto-Segmented Contour Quality**|Biling Wang et.al.|[2505.00308v1](http://arxiv.org/abs/2505.00308v1)|**2025-05-01**|null|
+|**2025-05-01**|**Fine-grained spatial-temporal perception for gas leak segmentation**|Xinlong Zhao et.al.|[2505.00295v1](http://arxiv.org/abs/2505.00295v1)|**2025-05-01**|null|
+|**2025-05-01**|**Weighted-Scenario Optimisation for the Chance Constrained Travelling Thief Problem**|Thilina Pathirage Don et.al.|[2505.00269v1](http://arxiv.org/abs/2505.00269v1)|**2025-05-01**|null|
+|**2025-05-01**|**Wilson polygons and the topology of zero-dimensional systems**|Gen Yin et.al.|[2505.00226v1](http://arxiv.org/abs/2505.00226v1)|**2025-05-01**|null|
+|**2025-04-30**|**The Planted Orthogonal Vectors Problem**|David Kühnemann et.al.|[2505.00206v1](http://arxiv.org/abs/2505.00206v1)|**2025-04-30**|null|
+|**2025-04-30**|**Neuroevolution of Self-Attention Over Proto-Objects**|Rafael C. Pinto et.al.|[2505.00186v1](http://arxiv.org/abs/2505.00186v1)|**2025-04-30**|null|

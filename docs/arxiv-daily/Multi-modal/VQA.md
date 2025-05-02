@@ -2,33 +2,33 @@
 ### VQA
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-30**|**COMPACT: COMPositional Atomic-to-Complex Visual Capability Tuning**|Xindi Wu et.al.|[2504.21850v1](http://arxiv.org/abs/2504.21850v1)|**2025-04-30**|null|
-|**2025-04-30**|**Characterizing AI Agents for Alignment and Governance**|Atoosa Kasirzadeh et.al.|[2504.21848v1](http://arxiv.org/abs/2504.21848v1)|**2025-04-30**|null|
-|**2025-04-30**|**Scalable Multi-Task Learning for Particle Collision Event Reconstruction with Heterogeneous Graph Neural Networks**|William Sutcliffe et.al.|[2504.21844v1](http://arxiv.org/abs/2504.21844v1)|**2025-04-30**|null|
-|**2025-04-30**|**Parameter Inference of Black Hole Images using Deep Learning in Visibility Space**|Franc O et.al.|[2504.21840v1](http://arxiv.org/abs/2504.21840v1)|**2025-04-30**|null|
-|**2025-04-30**|**Early Exit and Multi Stage Knowledge Distillation in VLMs for Video Summarization**|Anas Anwarul Haq Khan et.al.|[2504.21831v1](http://arxiv.org/abs/2504.21831v1)|**2025-04-30**|null|
-|**2025-04-30**|**On spatial systems of cities**|Gianandrea Lanzara et.al.|[2504.21819v1](http://arxiv.org/abs/2504.21819v1)|**2025-04-30**|null|
-|**2025-04-30**|**Why Compress What You Can Generate? When GPT-4o Generation Ushers in Image Compression Fields**|Yixin Gao et.al.|[2504.21814v1](http://arxiv.org/abs/2504.21814v1)|**2025-04-30**|null|
-|**2025-04-30**|**Easily Computed Marginal Likelihoods for Multivariate Mixture Models Using the THAMES Estimator**|Martin Metodiev et.al.|[2504.21812v1](http://arxiv.org/abs/2504.21812v1)|**2025-04-30**|null|
-|**2025-04-30**|**Serre's problem for multiple conics**|Stephanie Chan et.al.|[2504.21792v1](http://arxiv.org/abs/2504.21792v1)|**2025-04-30**|null|
-|**2025-04-30**|**Message Optimality and Message-Time Trade-offs for APSP and Beyond**|Fabien Dufoulon et.al.|[2504.21781v1](http://arxiv.org/abs/2504.21781v1)|**2025-04-30**|null|
-|**2025-04-30**|**Biases from Missing a Small Planet in High Multiplicity Systems**|C. Alexander Thomas et.al.|[2504.21763v1](http://arxiv.org/abs/2504.21763v1)|**2025-04-30**|null|
-|**2025-04-30**|**Notes sur l'application d'Albanese pour les zéro-cycles**|Jean-Louis Colliot-Thélène et.al.|[2504.21726v1](http://arxiv.org/abs/2504.21726v1)|**2025-04-30**|null|
-|**2025-04-30**|**New {\em ab initio} constrained extended Skyrme equations of state for simulations of neutron stars, supernovae and binary mergers: I. Subsaturation density domain**|Adriana R. Raduta et.al.|[2504.21725v1](http://arxiv.org/abs/2504.21725v1)|**2025-04-30**|null|
-|**2025-04-30**|**Presentations, embeddings and automorphisms of homogeneous spaces for SL(2,C)**|Gene Freudenburg et.al.|[2504.21712v1](http://arxiv.org/abs/2504.21712v1)|**2025-04-30**|null|
-|**2025-04-30**|**A Conversational Approach to Well-being Awareness Creation and Behavioural Intention**|Antonia Azzini et.al.|[2504.21702v1](http://arxiv.org/abs/2504.21702v1)|**2025-04-30**|null|
-|**2025-04-30**|**Assessing Racial Disparities in Healthcare Expenditures Using Causal Path-Specific Effects**|Xiaxian Ou et.al.|[2504.21688v1](http://arxiv.org/abs/2504.21688v1)|**2025-04-30**|null|
-|**2025-04-30**|**Visual Text Processing: A Comprehensive Review and Unified Evaluation**|Yan Shu et.al.|[2504.21682v1](http://arxiv.org/abs/2504.21682v1)|**2025-04-30**|null|
-|**2025-04-30**|**Elimination Distance to Dominated Clusters**|Nicole Schirrmacher et.al.|[2504.21675v1](http://arxiv.org/abs/2504.21675v1)|**2025-04-30**|null|
-|**2025-04-30**|**Traceback of Poisoning Attacks to Retrieval-Augmented Generation**|Baolei Zhang et.al.|[2504.21668v1](http://arxiv.org/abs/2504.21668v1)|**2025-04-30**|null|
-|**2025-04-30**|**AdaR1: From Long-CoT to Hybrid-CoT via Bi-Level Adaptive Reasoning Optimization**|Haotian Luo et.al.|[2504.21659v1](http://arxiv.org/abs/2504.21659v1)|**2025-04-30**|null|
-|**2025-04-30**|**The inequality on the number of $1$-hooks, $2$-hooks and $3$-hooks in $t$-regular partitions**|Hongshu Lin et.al.|[2504.21655v1](http://arxiv.org/abs/2504.21655v1)|**2025-04-30**|null|
-|**2025-04-30**|**Moment estimates for solutions of SPDEs with Lévy colored noise**|Raluca M. Balan et.al.|[2504.21648v1](http://arxiv.org/abs/2504.21648v1)|**2025-04-30**|null|
-|**2025-04-30**|**Convergence rate for Nearest Neighbour matching: geometry of the domain and higher-order regularity**|Simon Viel et.al.|[2504.21633v1](http://arxiv.org/abs/2504.21633v1)|**2025-04-30**|null|
-|**2025-04-30**|**RDF-Based Structured Quality Assessment Representation of Multilingual LLM Evaluations**|Jonas Gwozdz et.al.|[2504.21605v1](http://arxiv.org/abs/2504.21605v1)|**2025-04-30**|null|
-|**2025-04-30**|**Robust Misinformation Detection by Visiting Potential Commonsense Conflict**|Bing Wang et.al.|[2504.21604v1](http://arxiv.org/abs/2504.21604v1)|**2025-04-30**|null|
-|**2025-04-30**|**Cascade Detector Analysis and Application to Biomedical Microscopy**|Thomas L. Athey et.al.|[2504.21598v1](http://arxiv.org/abs/2504.21598v1)|**2025-04-30**|null|
-|**2025-04-30**|**Real-time Program Evaluation using Anytime-valid Rank Tests**|Sam van Meer et.al.|[2504.21595v1](http://arxiv.org/abs/2504.21595v1)|**2025-04-30**|null|
-|**2025-04-30**|**An Aldous-Hoover type representation for row exchangeable arrays**|Evan Donald et.al.|[2504.21584v1](http://arxiv.org/abs/2504.21584v1)|**2025-04-30**|null|
-|**2025-04-30**|**Powerful randomization tests for subgroup analysis**|Yao Zhang et.al.|[2504.21572v1](http://arxiv.org/abs/2504.21572v1)|**2025-04-30**|null|
-|**2025-04-30**|**A Study on Group Decision Making Problem Based on Fuzzy Reasoning and Bayesian Networks**|Shui-jin Rong et.al.|[2504.21568v1](http://arxiv.org/abs/2504.21568v1)|**2025-04-30**|null|
+|**2025-05-01**|**On the Beilinson-Bloch conjecture over function fields**|Matt Broe et.al.|[2505.00696v1](http://arxiv.org/abs/2505.00696v1)|**2025-05-01**|null|
+|**2025-05-01**|**What is the Hierarchy Problem?**|Michael E. Peskin et.al.|[2505.00694v1](http://arxiv.org/abs/2505.00694v1)|**2025-05-01**|null|
+|**2025-05-01**|**On the Importance of Gaussianizing Representations**|Daniel Eftekhari et.al.|[2505.00685v1](http://arxiv.org/abs/2505.00685v1)|**2025-05-01**|null|
+|**2025-05-01**|**MINERVA: Evaluating Complex Video Reasoning**|Arsha Nagrani et.al.|[2505.00681v1](http://arxiv.org/abs/2505.00681v1)|**2025-05-01**|null|
+|**2025-05-01**|**Steering Large Language Models with Register Analysis for Arbitrary Style Transfer**|Xinchen Yang et.al.|[2505.00679v1](http://arxiv.org/abs/2505.00679v1)|**2025-05-01**|null|
+|**2025-05-01**|**On Minimal Generating Sets of Splitting Field and Cluster Towers**|Shubham Jaiswal et.al.|[2505.00672v1](http://arxiv.org/abs/2505.00672v1)|**2025-05-01**|null|
+|**2025-05-01**|**On the generalization of language models from in-context learning and finetuning: a controlled study**|Andrew K. Lampinen et.al.|[2505.00661v1](http://arxiv.org/abs/2505.00661v1)|**2025-05-01**|null|
+|**2025-05-01**|**Joint inference for gravitational wave signals and glitches using a data-informed glitch model**|Ann-Kristin Malz et.al.|[2505.00657v1](http://arxiv.org/abs/2505.00657v1)|**2025-05-01**|null|
+|**2025-05-01**|**Open-Source LLM-Driven Federated Transformer for Predictive IoV Management**|Yazan Otoum et.al.|[2505.00651v1](http://arxiv.org/abs/2505.00651v1)|**2025-05-01**|null|
+|**2025-05-01**|**SOMA: a novel sampler for exchangeable variables**|Yifei Xiong et.al.|[2505.00635v1](http://arxiv.org/abs/2505.00635v1)|**2025-05-01**|null|
+|**2025-05-01**|**Detecting Modeling Bias with Continuous Time Flow Models on Weak Lensing Maps**|Kangning Diao et.al.|[2505.00632v1](http://arxiv.org/abs/2505.00632v1)|**2025-05-01**|null|
+|**2025-05-01**|**Decomposing graphs into stable and ordered parts**|Hector Buffière et.al.|[2505.00594v1](http://arxiv.org/abs/2505.00594v1)|**2025-05-01**|null|
+|**2025-05-01**|**Explainable AI in Spatial Analysis**|Ziqi Li et.al.|[2505.00591v1](http://arxiv.org/abs/2505.00591v1)|**2025-05-01**|null|
+|**2025-05-01**|**Hypothesis-free discovery from epidemiological data by automatic detection and local inference for tree-based nonlinearities and interactions**|Giorgio Spadaccini et.al.|[2505.00571v1](http://arxiv.org/abs/2505.00571v1)|**2025-05-01**|null|
+|**2025-05-01**|**FreqKV: Frequency Domain Key-Value Compression for Efficient Context Window Extension**|Jushi Kai et.al.|[2505.00570v1](http://arxiv.org/abs/2505.00570v1)|**2025-05-01**|null|
+|**2025-05-01**|**TeLoGraF: Temporal Logic Planning via Graph-encoded Flow Matching**|Yue Meng et.al.|[2505.00562v1](http://arxiv.org/abs/2505.00562v1)|**2025-05-01**|null|
+|**2025-05-01**|**Efficient Recommendation with Millions of Items by Dynamic Pruning of Sub-Item Embeddings**|Aleksandr V. Petrov et.al.|[2505.00560v1](http://arxiv.org/abs/2505.00560v1)|**2025-05-01**|null|
+|**2025-05-01**|**On the Mechanistic Interpretability of Neural Networks for Causality in Bio-statistics**|Jean-Baptiste A. Conan et.al.|[2505.00555v1](http://arxiv.org/abs/2505.00555v1)|**2025-05-01**|null|
+|**2025-05-01**|**Graph Spectral Filtering with Chebyshev Interpolation for Recommendation**|Chanwoo Kim et.al.|[2505.00552v1](http://arxiv.org/abs/2505.00552v1)|**2025-05-01**|null|
+|**2025-05-01**|**Reducing Student Distraction Through Fuzzy Logic Based Seating Arrangements**|Garrett Olges et.al.|[2505.00545v1](http://arxiv.org/abs/2505.00545v1)|**2025-05-01**|null|
+|**2025-05-01**|**Revisiting the convergence rate of the Lasserre hierarchy for polynomial optimization over the hypercube**|Sander Gribling et.al.|[2505.00544v1](http://arxiv.org/abs/2505.00544v1)|**2025-05-01**|null|
+|**2025-05-01**|**Ground Orthogonal Arrays and Their Applications**|Guangzhou Chen et.al.|[2505.00536v1](http://arxiv.org/abs/2505.00536v1)|**2025-05-01**|null|
+|**2025-05-01**|**Superintuitionistic predicate logics of linear frames: undecidability with two individual variables**|Mikhail Rybakov et.al.|[2505.00531v1](http://arxiv.org/abs/2505.00531v1)|**2025-05-01**|null|
+|**2025-05-01**|**DeCo: Task Decomposition and Skill Composition for Zero-Shot Generalization in Long-Horizon 3D Manipulation**|Zixuan Chen et.al.|[2505.00527v1](http://arxiv.org/abs/2505.00527v1)|**2025-05-01**|null|
+|**2025-05-01**|**Recursive inseparability of classical theories of a binary predicate and non-classical logics of a unary predicate**|Mikhail Rybakov et.al.|[2505.00524v1](http://arxiv.org/abs/2505.00524v1)|**2025-05-01**|null|
+|**2025-05-01**|**A complement of the Erdős-Hajnal problem on paths with equal-degree endpoints**|Zhen Liu et.al.|[2505.00523v1](http://arxiv.org/abs/2505.00523v1)|**2025-05-01**|null|
+|**2025-05-01**|**Proportionality in Practice: Quantifying Proportionality in Ordinal Elections**|Tuva Bardal et.al.|[2505.00520v1](http://arxiv.org/abs/2505.00520v1)|**2025-05-01**|null|
+|**2025-05-01**|**HalluMix: A Task-Agnostic, Multi-Domain Benchmark for Real-World Hallucination Detection**|Deanna Emery et.al.|[2505.00506v1](http://arxiv.org/abs/2505.00506v1)|**2025-05-01**|null|
+|**2025-05-01**|**Generically trivial torsors under constant groups**|Alexis Bouthier et.al.|[2505.00505v1](http://arxiv.org/abs/2505.00505v1)|**2025-05-01**|null|
+|**2025-05-01**|**Enumeration of idempotent-sum subsequences in finite cyclic semigroups and smooth sequences**|Guoqing Wang et.al.|[2505.00486v1](http://arxiv.org/abs/2505.00486v1)|**2025-05-01**|null|

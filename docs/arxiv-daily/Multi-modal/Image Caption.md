@@ -2,33 +2,33 @@
 ### Image Caption
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-30**|**Differentiable Room Acoustic Rendering with Multi-View Vision Priors**|Derong Jin et.al.|[2504.21847v1](http://arxiv.org/abs/2504.21847v1)|**2025-04-30**|null|
-|**2025-04-30**|**Parameter Inference of Black Hole Images using Deep Learning in Visibility Space**|Franc O et.al.|[2504.21840v1](http://arxiv.org/abs/2504.21840v1)|**2025-04-30**|null|
-|**2025-04-30**|**3D Stylization via Large Reconstruction Model**|Ipek Oztas et.al.|[2504.21836v1](http://arxiv.org/abs/2504.21836v1)|**2025-04-30**|null|
-|**2025-04-30**|**Why Compress What You Can Generate? When GPT-4o Generation Ushers in Image Compression Fields**|Yixin Gao et.al.|[2504.21814v1](http://arxiv.org/abs/2504.21814v1)|**2025-04-30**|null|
-|**2025-04-30**|**A simple and effective approach for body part recognition on CT scans based on projection estimation**|Franko Hrzic et.al.|[2504.21810v1](http://arxiv.org/abs/2504.21810v1)|**2025-04-30**|null|
-|**2025-04-30**|**Anomaly-Driven Approach for Enhanced Prostate Cancer Segmentation**|Alessia Hu et.al.|[2504.21789v1](http://arxiv.org/abs/2504.21789v1)|**2025-04-30**|null|
-|**2025-04-30**|**LoC-LIC: Low Complexity Learned Image Coding Using Hierarchical Feature Transforms**|Ayman A. Ameen et.al.|[2504.21778v1](http://arxiv.org/abs/2504.21778v1)|**2025-04-30**|null|
-|**2025-04-30**|**Anatomical Similarity as a New Metric to Evaluate Brain Generative Models**|Bahram Jafrasteh et.al.|[2504.21771v1](http://arxiv.org/abs/2504.21771v1)|**2025-04-30**|null|
-|**2025-04-30**|**Evaluation of In Vivo Subject-Specific Mechanical Modeling of the Optic Nerve Head for Robust Assessment of Ocular Mechanics**|Soumaya Ouhsousou et.al.|[2504.21765v1](http://arxiv.org/abs/2504.21765v1)|**2025-04-30**|null|
-|**2025-04-30**|**Common3D: Self-Supervised Learning of 3D Morphable Models for Common Objects in Neural Feature Space**|Leonhard Sommer et.al.|[2504.21749v1](http://arxiv.org/abs/2504.21749v1)|**2025-04-30**|null|
-|**2025-04-30**|**Thermoelectric Thomson coefficient of quark-gluon plasma in the presence of a time-varying magnetic field**|Kamaljeet Singh et.al.|[2504.21734v1](http://arxiv.org/abs/2504.21734v1)|**2025-04-30**|null|
-|**2025-04-30**|**Sionna RT: Technical Report**|Fayçal Aït Aoudia et.al.|[2504.21719v1](http://arxiv.org/abs/2504.21719v1)|**2025-04-30**|null|
-|**2025-04-30**|**Entanglement-Enhanced Nanoscale Single-Spin Sensing**|Xu Zhou et.al.|[2504.21715v1](http://arxiv.org/abs/2504.21715v1)|**2025-04-30**|null|
-|**2025-04-30**|**Visual Text Processing: A Comprehensive Review and Unified Evaluation**|Yan Shu et.al.|[2504.21682v1](http://arxiv.org/abs/2504.21682v1)|**2025-04-30**|null|
-|**2025-04-30**|**Investigating the Effect of Parallel Data in the Cross-Lingual Transfer for Vision-Language Encoders**|Andrei-Alexandru Manea et.al.|[2504.21681v1](http://arxiv.org/abs/2504.21681v1)|**2025-04-30**|null|
-|**2025-04-30**|**Assimilation of SWOT Altimetry Data for Riverine Flood Reanalysis: From Synthetic to Real Data**|Quentin Bonassies et.al.|[2504.21670v1](http://arxiv.org/abs/2504.21670v1)|**2025-04-30**|null|
-|**2025-04-30**|**Coning off totally geodesic boundary components of a hyperbolic manifold**|Colby Kelln et.al.|[2504.21652v1](http://arxiv.org/abs/2504.21652v1)|**2025-04-30**|null|
-|**2025-04-30**|**HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation**|Haiyang Zhou et.al.|[2504.21650v1](http://arxiv.org/abs/2504.21650v1)|**2025-04-30**|null|
-|**2025-04-30**|**Diffusion-based Adversarial Identity Manipulation for Facial Privacy Protection**|Liqin Wang et.al.|[2504.21646v1](http://arxiv.org/abs/2504.21646v1)|**2025-04-30**|null|
-|**2025-04-30**|**Sparsity for Infinite-Parametric Holomorphic Functions on Gaussian Spaces**|Carlo Marcati et.al.|[2504.21639v1](http://arxiv.org/abs/2504.21639v1)|**2025-04-30**|null|
-|**2025-04-30**|**Fast Sign Retrieval via Sub-band Convolution: An Elementary Extension of Binary Classification**|Fuma Ito et.al.|[2504.21632v2](http://arxiv.org/abs/2504.21632v2)|**2025-05-01**|null|
-|**2025-04-30**|**Nonlocal BV and nonlocal Sobolev spaces induced by nonfractional weight functions**|Francesc Alcover et.al.|[2504.21623v1](http://arxiv.org/abs/2504.21623v1)|**2025-04-30**|null|
-|**2025-04-30**|**Effect of eccentric mixing parameters on chaotic characteristics and mixing time for viscous liquid based on sound decibels**|Ronfgang Wang et.al.|[2504.21621v1](http://arxiv.org/abs/2504.21621v1)|**2025-04-30**|null|
-|**2025-04-30**|**Selective Variable Convolution Meets Dynamic Content Guided Attention for Infrared Small Target Detection**|Yirui Chen et.al.|[2504.21612v1](http://arxiv.org/abs/2504.21612v1)|**2025-04-30**|null|
-|**2025-04-30**|**Cascade Detector Analysis and Application to Biomedical Microscopy**|Thomas L. Athey et.al.|[2504.21598v1](http://arxiv.org/abs/2504.21598v1)|**2025-04-30**|null|
-|**2025-04-30**|**Make Both Ends Meet: A Synergistic Optimization Infrared Small Target Detection with Streamlined Computational Overhead**|Yuxin Jing et.al.|[2504.21581v1](http://arxiv.org/abs/2504.21581v1)|**2025-04-30**|null|
-|**2025-04-30**|**Latent Feature-Guided Conditional Diffusion for High-Fidelity Generative Image Semantic Communication**|Zehao Chen et.al.|[2504.21577v1](http://arxiv.org/abs/2504.21577v1)|**2025-04-30**|null|
-|**2025-04-30**|**Quantum adaptive imaging by position-correlated biphoton wavefront sensing**|Yi Zheng et.al.|[2504.21573v1](http://arxiv.org/abs/2504.21573v1)|**2025-04-30**|null|
-|**2025-04-30**|**eNCApsulate: NCA for Precision Diagnosis on Capsule Endoscopes**|Henry John Krumb et.al.|[2504.21562v1](http://arxiv.org/abs/2504.21562v1)|**2025-04-30**|null|
-|**2025-04-30**|**Black-Box Visual Prompt Engineering for Mitigating Object Hallucination in Large Vision Language Models**|Sangmin Woo et.al.|[2504.21559v1](http://arxiv.org/abs/2504.21559v1)|**2025-04-30**|null|
+|**2025-05-01**|**Controllable Weather Synthesis and Removal with Video Diffusion Models**|Chih-Hao Lin et.al.|[2505.00704v1](http://arxiv.org/abs/2505.00704v1)|**2025-05-01**|null|
+|**2025-05-01**|**T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT**|Dongzhi Jiang et.al.|[2505.00703v1](http://arxiv.org/abs/2505.00703v1)|**2025-05-01**|null|
+|**2025-05-01**|**RayZer: A Self-supervised Large View Synthesis Model**|Hanwen Jiang et.al.|[2505.00702v1](http://arxiv.org/abs/2505.00702v1)|**2025-05-01**|null|
+|**2025-05-01**|**GuideSR: Rethinking Guidance for One-Step High-Fidelity Diffusion-Based Super-Resolution**|Aditya Arora et.al.|[2505.00687v1](http://arxiv.org/abs/2505.00687v1)|**2025-05-01**|null|
+|**2025-05-01**|**Visual Test-time Scaling for GUI Agent Grounding**|Tiange Luo et.al.|[2505.00684v1](http://arxiv.org/abs/2505.00684v1)|**2025-05-01**|null|
+|**2025-05-01**|**TumorTwin: A python framework for patient-specific digital twins in oncology**|Michael Kapteyn et.al.|[2505.00670v1](http://arxiv.org/abs/2505.00670v1)|**2025-05-01**|null|
+|**2025-05-01**|**Spreading Depolarization Detection in Electrocorticogram Spectrogram Imaging by Deep Learning: Is It Just About Delta Band?**|Jeanne Boyer-Chammard et.al.|[2505.00666v1](http://arxiv.org/abs/2505.00666v1)|**2025-05-01**|null|
+|**2025-05-01**|**Why the hyperbolic polaritons are hyperbolic?**|Xiaoyu Xiong et.al.|[2505.00655v1](http://arxiv.org/abs/2505.00655v1)|**2025-05-01**|null|
+|**2025-05-01**|**Deep Learning Assisted Outer Volume Removal for Highly-Accelerated Real-Time Dynamic MRI**|Merve Gülle et.al.|[2505.00643v1](http://arxiv.org/abs/2505.00643v1)|**2025-05-01**|null|
+|**2025-05-01**|**Brain Foundation Models with Hypergraph Dynamic Adapter for Brain Disease Analysis**|Zhongying Deng et.al.|[2505.00627v1](http://arxiv.org/abs/2505.00627v1)|**2025-05-01**|null|
+|**2025-05-01**|**Diverse Semantics-Guided Feature Alignment and Decoupling for Visible-Infrared Person Re-Identification**|Neng Dong et.al.|[2505.00619v1](http://arxiv.org/abs/2505.00619v1)|**2025-05-01**|null|
+|**2025-05-01**|**Pixel3DMM: Versatile Screen-Space Priors for Single-Image 3D Face Reconstruction**|Simon Giebenhain et.al.|[2505.00615v1](http://arxiv.org/abs/2505.00615v1)|**2025-05-01**|null|
+|**2025-05-01**|**A Novel Feature-Aware Chaotic Image Encryption Scheme For Data Security and Privacy in IoT and Edge Networks**|Muhammad Shahbaz Khan et.al.|[2505.00593v1](http://arxiv.org/abs/2505.00593v1)|**2025-05-01**|null|
+|**2025-05-01**|**Uncertainty-Aware Multi-Expert Knowledge Distillation for Imbalanced Disease Grading**|Shuo Tong et.al.|[2505.00592v1](http://arxiv.org/abs/2505.00592v1)|**2025-05-01**|null|
+|**2025-05-01**|**Synthesizing and Identifying Noise Levels in Autonomous Vehicle Camera Radar Datasets**|Mathis Morales et.al.|[2505.00584v1](http://arxiv.org/abs/2505.00584v1)|**2025-05-01**|null|
+|**2025-05-01**|**AI-Driven High-Resolution Cell Segmentation and Quantitative Analysis**|Shuang Zhang et.al.|[2505.00578v1](http://arxiv.org/abs/2505.00578v1)|**2025-05-01**|null|
+|**2025-05-01**|**Multimodal Masked Autoencoder Pre-training for 3D MRI-Based Brain Tumor Analysis with Missing Modalities**|Lucas Robinet et.al.|[2505.00568v1](http://arxiv.org/abs/2505.00568v1)|**2025-05-01**|null|
+|**2025-05-01**|**X-ray illicit object detection using hybrid CNN-transformer neural network architectures**|Jorgen Cani et.al.|[2505.00564v1](http://arxiv.org/abs/2505.00564v1)|**2025-05-01**|null|
+|**2025-05-01**|**The Jackknife method as a new approach to validate strong lens mass models**|Shun Nishida et.al.|[2505.00553v1](http://arxiv.org/abs/2505.00553v1)|**2025-05-01**|null|
+|**2025-05-01**|**A Methodological and Structural Review of Parkinsons Disease Detection Across Diverse Data Modalities**|Abu Saleh Musa Miah et.al.|[2505.00525v1](http://arxiv.org/abs/2505.00525v1)|**2025-05-01**|null|
+|**2025-05-01**|**Inconsistency-based Active Learning for LiDAR Object Detection**|Esteban Rivera et.al.|[2505.00511v1](http://arxiv.org/abs/2505.00511v1)|**2025-05-01**|null|
+|**2025-05-01**|**Towards Scalable Human-aligned Benchmark for Text-guided Image Editing**|Suho Ryu et.al.|[2505.00502v1](http://arxiv.org/abs/2505.00502v1)|**2025-05-01**|[link](https://github.com/SuhoRyu/HATIE)|
+|**2025-05-01**|**Implicit Neural-Representation Learning for Elastic Deformable-Object Manipulations**|Minseok Song et.al.|[2505.00500v1](http://arxiv.org/abs/2505.00500v1)|**2025-05-01**|null|
+|**2025-05-01**|**JointDiT: Enhancing RGB-Depth Joint Modeling with Diffusion Transformers**|Kwon Byung-Ki et.al.|[2505.00482v1](http://arxiv.org/abs/2505.00482v1)|**2025-05-01**|null|
+|**2025-05-01**|**Orbit-blocking words in free groups**|Lucy Koch-Hyde et.al.|[2505.00477v1](http://arxiv.org/abs/2505.00477v1)|**2025-05-01**|null|
+|**2025-05-01**|**CORSTITCH - A free, open source software for stitching and georeferencing underwater coral reef videos**|Julian Christopher L. Maya et.al.|[2505.00462v1](http://arxiv.org/abs/2505.00462v1)|**2025-05-01**|null|
+|**2025-05-01**|**Toward Automated Regulatory Decision-Making: Trustworthy Medical Device Risk Classification with Multimodal Transformers and Self-Training**|Yu Han et.al.|[2505.00422v1](http://arxiv.org/abs/2505.00422v1)|**2025-05-01**|null|
+|**2025-05-01**|**Self-supervised surface-related multiple suppression with multidimensional convolution**|Shijun Cheng et.al.|[2505.00419v1](http://arxiv.org/abs/2505.00419v1)|**2025-05-01**|null|
+|**2025-05-01**|**ScaleTrack: Scaling and back-tracking Automated GUI Agents**|Jing Huang et.al.|[2505.00416v1](http://arxiv.org/abs/2505.00416v1)|**2025-05-01**|null|
+|**2025-05-01**|**Multi-dimensional optical imaging on a chip**|Liheng Bian et.al.|[2505.00408v1](http://arxiv.org/abs/2505.00408v1)|**2025-05-01**|null|

@@ -956,6 +956,7 @@ Updated on 2025-05-02
 | 8 | 2 | bioptimus/H0-miniImage | Updated1 day ago | [Link](https://huggingface.co/bioptimus/H0-mini) |
 | 129 | 2 | kaiko-ai/midnightImage | Updatedabout 13 hours ago | [Link](https://huggingface.co/kaiko-ai/midnight) |
 | 46 | 2 | facebook/webssl-dino7b-full8b-224Image | Updated2 days ago | [Link](https://huggingface.co/facebook/webssl-dino7b-full8b-224) |
+| 3.93k | 2 | facebook/vit-msn-smallImage | UpdatedSep 30, 2022 | [Link](https://huggingface.co/facebook/vit-msn-small) |
 | 50.8k | 1 | StanfordAIMI/dinov2-base-xray-224Image | UpdatedFeb 11, 2024 | [Link](https://huggingface.co/StanfordAIMI/dinov2-base-xray-224) |
 | 213 | 1 | iamrizwan077/detr-finetuned-road-signs-v1Image | UpdatedMay 5, 2024 | [Link](https://huggingface.co/iamrizwan077/detr-finetuned-road-signs-v1) |
 | 9.54k | 1 | timm/vit_base_patch8_224 | UpdatedJan 21 | [Link](https://huggingface.co/timm/vit_base_patch8_224.dino) |
@@ -2178,6 +2179,7 @@ Updated on 2025-05-02
 | 352k | 20 | nvidia/Aegis-AI-Content-Safety-LlamaGuard-Defensive-1 | UpdatedJan 24 | [Link](https://huggingface.co/nvidia/Aegis-AI-Content-Safety-LlamaGuard-Defensive-1.0) |
 | 1.72M | 19 | microsoft/deberta-xlarge-mnliText | UpdatedJun 27, 2022 | [Link](https://huggingface.co/microsoft/deberta-xlarge-mnli) |
 | 585 | 19 | infly/INF-ORM-Llama3 | Updated11 days ago | [Link](https://huggingface.co/infly/INF-ORM-Llama3.1-70B) |
+| 7.76k | 19 | ynie/roberta-large-snli_mnli_fever_anli_R1_R2_R3-nliText | UpdatedMay 20, 2021 | [Link](https://huggingface.co/ynie/roberta-large-snli_mnli_fever_anli_R1_R2_R3-nli) |
 | 22.8k | 18 | MilaNLProc/feel-it-italian-emotionText | UpdatedAug 15, 2022 | [Link](https://huggingface.co/MilaNLProc/feel-it-italian-emotion) |
 | 1.05k | 15 | FreedomIntelligence/medical_o1_verifier_3BText | UpdatedDec 30, 2024 | [Link](https://huggingface.co/FreedomIntelligence/medical_o1_verifier_3B) |
 | 4.78k | 15 | katanemo/Arch-GuardText | UpdatedJan 15 | [Link](https://huggingface.co/katanemo/Arch-Guard) |
@@ -2688,6 +2690,10 @@ Updated on 2025-05-02
 |  | 10 | strangerzonehf/Real-ClaymationText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/strangerzonehf/Real-Claymation) |
 | 17 | 10 | zhang0jhon/flux_waveletText-to-Image | Updated5 days ago | [Link](https://huggingface.co/zhang0jhon/flux_wavelet) |
 | 36 | 10 | codermert/ozgeefinalText-to-Image | Updated6 days ago | [Link](https://huggingface.co/codermert/ozgeefinal) |
+|  | 10 | openfree/pierre-auguste-renoirText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/openfree/pierre-auguste-renoir) |
+|  | 10 | openfree/paul-cezanneText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/openfree/paul-cezanne) |
+|  | 10 | openfree/van-goghText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/openfree/van-gogh) |
+|  | 10 | openfree/winslow-homerText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/openfree/winslow-homer) |
 |  | 9 | ART-Release/ART_v1 | Updatedabout 23 hours ago | [Link](https://huggingface.co/ART-Release/ART_v1.0) |
 | 9 | 9 | motimalu/wan-flat-color-v2Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/motimalu/wan-flat-color-v2) |
 | 11 | 9 | ShoufaChen/PixelFlow-Text2ImageText-to-Image | Updatedabout 19 hours ago | [Link](https://huggingface.co/ShoufaChen/PixelFlow-Text2Image) |
@@ -3009,6 +3015,7 @@ Updated on 2025-05-02
 | 10 | 21 | Supiri/t5-base-conversationText2Text | UpdatedJan 18, 2022 | [Link](https://huggingface.co/Supiri/t5-base-conversation) |
 | 1.86k | 19 | google/byt5-xxlText2Text | UpdatedJan 24, 2023 | [Link](https://huggingface.co/google/byt5-xxl) |
 | 1.04k | 17 | BeIR/query-gen-msmarco-t5-large-v1Text2Text | UpdatedJun 23, 2021 | [Link](https://huggingface.co/BeIR/query-gen-msmarco-t5-large-v1) |
+| 482 | 16 | ThomasSimonini/t5-end2end-question-generationText2Text | UpdatedOct 10, 2021 | [Link](https://huggingface.co/ThomasSimonini/t5-end2end-question-generation) |
 | 99 | 15 | bond005/FRED-T5-large-instruct-v0 | UpdatedOct 8, 2024 | [Link](https://huggingface.co/bond005/FRED-T5-large-instruct-v0.1) |
 | 172k | 15 | XLabs-AI/xflux_text_encodersText2Text | UpdatedAug 12, 2024 | [Link](https://huggingface.co/XLabs-AI/xflux_text_encoders) |
 | 26 | 13 | soketlabs/pragna-1bText2Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/soketlabs/pragna-1b) |
@@ -3138,6 +3145,7 @@ Updated on 2025-05-02
 
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
+| 43k | 166 | d4data/biomedical-ner-allToken | UpdatedJul 2, 2023 | [Link](https://huggingface.co/d4data/biomedical-ner-all) |
 | 2.04k | 121 | knowledgator/gliner-multitask-large-v0 | UpdatedJan 2 | [Link](https://huggingface.co/knowledgator/gliner-multitask-large-v0.5) |
 | 13.9k | 114 | urchade/gliner_multi-v2 | UpdatedApr 10, 2024 | [Link](https://huggingface.co/urchade/gliner_multi-v2.1) |
 | 68.7k | 98 | urchade/gliner_multi_pii-v1Token | UpdatedApr 20, 2024 | [Link](https://huggingface.co/urchade/gliner_multi_pii-v1) |
@@ -3376,6 +3384,7 @@ Updated on 2025-05-02
 | 15 | Unknown | qualcomm/Stable-Diffusion-v2 | Updated14 days ago | [Link](https://huggingface.co/qualcomm/Stable-Diffusion-v2.1) |
 | 10 | Unknown | mit-han-lab/hart-0 | UpdatedNov 17, 2024 | [Link](https://huggingface.co/mit-han-lab/hart-0.7b-1024px) |
 | 1 | Unknown | huggan/fastgan-few-shot-anime-faceUnconditional | UpdatedMay 6, 2022 | [Link](https://huggingface.co/huggan/fastgan-few-shot-anime-face) |
+| 3 | Unknown | qualcomm/RiffusionUnconditional | Updated23 days ago | [Link](https://huggingface.co/qualcomm/Riffusion) |
 
 ## Video Classification
 
