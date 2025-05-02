@@ -20,7 +20,7 @@
 |**2025-04-30**|**Visual Text Processing: A Comprehensive Review and Unified Evaluation**|Yan Shu et.al.|[2504.21682v1](http://arxiv.org/abs/2504.21682v1)|**2025-04-30**|null|
 |**2025-04-30**|**Rank-two tensors and deconfinement in 3d $\mathcal{N}=2$ $SU(N)$ gauge theories**|Antonio Amariti et.al.|[2504.21654v1](http://arxiv.org/abs/2504.21654v1)|**2025-04-30**|null|
 |**2025-04-30**|**HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation**|Haiyang Zhou et.al.|[2504.21650v1](http://arxiv.org/abs/2504.21650v1)|**2025-04-30**|null|
-|**2025-04-30**|**Fast Sign Retrieval via Sub-band Convolution: An Elementary Extension of Binary Classification**|Fuma Ito et.al.|[2504.21632v1](http://arxiv.org/abs/2504.21632v1)|**2025-04-30**|null|
+|**2025-04-30**|**Fast Sign Retrieval via Sub-band Convolution: An Elementary Extension of Binary Classification**|Fuma Ito et.al.|[2504.21632v2](http://arxiv.org/abs/2504.21632v2)|**2025-05-01**|null|
 |**2025-04-30**|**Path Planning on Multi-level Point Cloud with a Weighted Traversability Graph**|Yujie Tang et.al.|[2504.21622v1](http://arxiv.org/abs/2504.21622v1)|**2025-04-30**|null|
 |**2025-04-30**|**LRBO2: Improved 3D Vision Based Hand-Eye Calibration for Collaborative Robot Arm**|Leihui Li et.al.|[2504.21619v1](http://arxiv.org/abs/2504.21619v1)|**2025-04-30**|null|
 |**2025-04-30**|**Toward Realization of Low-Altitude Economy Networks: Core Architecture, Integrated Technologies, and Future Directions**|Yixian Wang et.al.|[2504.21583v1](http://arxiv.org/abs/2504.21583v1)|**2025-04-30**|null|

@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-04-30**|**Comment on 'Anomalies in the Electronic Stopping of Slow Antiprotons in LiF', arXiv:2501.14381**|G. Schiwietz et.al.|[2504.21839v1](http://arxiv.org/abs/2504.21839v1)|**2025-04-30**|null|
-|**2025-04-30**|**Advances on a conjecture about free divisors**|Abraham del Valle Rodríguez et.al.|[2504.21834v1](http://arxiv.org/abs/2504.21834v1)|**2025-04-30**|null|
+|**2025-04-30**|**Advances on a conjecture about free divisors**|Abraham del Valle Rodríguez et.al.|[2504.21834v2](http://arxiv.org/abs/2504.21834v2)|**2025-05-01**|null|
 |**2025-04-30**|**Non-standard quantum algebras and infinite-dimensional PT-symmetric systems**|Ángel Ballesteros et.al.|[2504.21833v1](http://arxiv.org/abs/2504.21833v1)|**2025-04-30**|null|
 |**2025-04-30**|**Early Exit and Multi Stage Knowledge Distillation in VLMs for Video Summarization**|Anas Anwarul Haq Khan et.al.|[2504.21831v1](http://arxiv.org/abs/2504.21831v1)|**2025-04-30**|null|
 |**2025-04-30**|**An Underwater, Fault-Tolerant, Laser-Aided Robotic Multi-Modal Dense SLAM System for Continuous Underwater In-Situ Observation**|Yaming Ou et.al.|[2504.21826v1](http://arxiv.org/abs/2504.21826v1)|**2025-04-30**|null|

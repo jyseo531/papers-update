@@ -7,7 +7,7 @@
 |**2025-04-30**|**3D Stylization via Large Reconstruction Model**|Ipek Oztas et.al.|[2504.21836v1](http://arxiv.org/abs/2504.21836v1)|**2025-04-30**|null|
 |**2025-04-30**|**Why Compress What You Can Generate? When GPT-4o Generation Ushers in Image Compression Fields**|Yixin Gao et.al.|[2504.21814v1](http://arxiv.org/abs/2504.21814v1)|**2025-04-30**|null|
 |**2025-04-30**|**A simple and effective approach for body part recognition on CT scans based on projection estimation**|Franko Hrzic et.al.|[2504.21810v1](http://arxiv.org/abs/2504.21810v1)|**2025-04-30**|null|
-|**2025-04-30**|**How Real Are Synthetic Therapy Conversations? Evaluating Fidelity in Prolonged Exposure Dialogues**|Suhas BN et.al.|[2504.21800v1](http://arxiv.org/abs/2504.21800v1)|**2025-04-30**|null|
+|**2025-04-30**|**How Real Are Synthetic Therapy Conversations? Evaluating Fidelity in Prolonged Exposure Dialogues**|Suhas BN et.al.|[2504.21800v2](http://arxiv.org/abs/2504.21800v2)|**2025-05-01**|null|
 |**2025-04-30**|**Anomaly-Driven Approach for Enhanced Prostate Cancer Segmentation**|Alessia Hu et.al.|[2504.21789v1](http://arxiv.org/abs/2504.21789v1)|**2025-04-30**|null|
 |**2025-04-30**|**Estimation of discrete distributions in relative entropy, and the deviations of the missing mass**|Jaouad Mourtada et.al.|[2504.21787v1](http://arxiv.org/abs/2504.21787v1)|**2025-04-30**|null|
 |**2025-04-30**|**Message Optimality and Message-Time Trade-offs for APSP and Beyond**|Fabien Dufoulon et.al.|[2504.21781v1](http://arxiv.org/abs/2504.21781v1)|**2025-04-30**|null|
@@ -28,7 +28,7 @@
 |**2025-04-30**|**Diffusion-based Adversarial Identity Manipulation for Facial Privacy Protection**|Liqin Wang et.al.|[2504.21646v1](http://arxiv.org/abs/2504.21646v1)|**2025-04-30**|null|
 |**2025-04-30**|**Sparsity for Infinite-Parametric Holomorphic Functions on Gaussian Spaces**|Carlo Marcati et.al.|[2504.21639v1](http://arxiv.org/abs/2504.21639v1)|**2025-04-30**|null|
 |**2025-04-30**|**Convergence rate for Nearest Neighbour matching: geometry of the domain and higher-order regularity**|Simon Viel et.al.|[2504.21633v1](http://arxiv.org/abs/2504.21633v1)|**2025-04-30**|null|
-|**2025-04-30**|**Fast Sign Retrieval via Sub-band Convolution: An Elementary Extension of Binary Classification**|Fuma Ito et.al.|[2504.21632v1](http://arxiv.org/abs/2504.21632v1)|**2025-04-30**|null|
+|**2025-04-30**|**Fast Sign Retrieval via Sub-band Convolution: An Elementary Extension of Binary Classification**|Fuma Ito et.al.|[2504.21632v2](http://arxiv.org/abs/2504.21632v2)|**2025-05-01**|null|
 |**2025-04-30**|**Nonlocal BV and nonlocal Sobolev spaces induced by nonfractional weight functions**|Francesc Alcover et.al.|[2504.21623v1](http://arxiv.org/abs/2504.21623v1)|**2025-04-30**|null|
 |**2025-04-30**|**Effect of eccentric mixing parameters on chaotic characteristics and mixing time for viscous liquid based on sound decibels**|Ronfgang Wang et.al.|[2504.21621v1](http://arxiv.org/abs/2504.21621v1)|**2025-04-30**|null|
 |**2025-04-30**|**Deterministic Distributed DFS via Cycle Separators in Planar Graphs**|Benjamin Jauregui et.al.|[2504.21620v1](http://arxiv.org/abs/2504.21620v1)|**2025-04-30**|null|

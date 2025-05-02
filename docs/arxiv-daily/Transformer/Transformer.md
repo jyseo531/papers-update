@@ -14,7 +14,7 @@
 |**2025-04-30**|**Landau-Zener-Stückelberg spectroscopy of a fluxonium quantum circuit**|Valentín Reparaz et.al.|[2504.21691v1](http://arxiv.org/abs/2504.21691v1)|**2025-04-30**|null|
 |**2025-04-30**|**HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation**|Haiyang Zhou et.al.|[2504.21650v1](http://arxiv.org/abs/2504.21650v1)|**2025-04-30**|null|
 |**2025-04-30**|**Optimal fermion-qubit mappings via quadratic assignment**|Mitchell Chiew et.al.|[2504.21636v1](http://arxiv.org/abs/2504.21636v1)|**2025-04-30**|null|
-|**2025-04-30**|**Fast Sign Retrieval via Sub-band Convolution: An Elementary Extension of Binary Classification**|Fuma Ito et.al.|[2504.21632v1](http://arxiv.org/abs/2504.21632v1)|**2025-04-30**|null|
+|**2025-04-30**|**Fast Sign Retrieval via Sub-band Convolution: An Elementary Extension of Binary Classification**|Fuma Ito et.al.|[2504.21632v2](http://arxiv.org/abs/2504.21632v2)|**2025-05-01**|null|
 |**2025-04-30**|**LRBO2: Improved 3D Vision Based Hand-Eye Calibration for Collaborative Robot Arm**|Leihui Li et.al.|[2504.21619v1](http://arxiv.org/abs/2504.21619v1)|**2025-04-30**|null|
 |**2025-04-30**|**Flow Through Porous Media: A Hopf-Cole Transformation Approach for Modeling Pressure-Dependent Viscosity**|V. S. Maduri et.al.|[2504.21603v1](http://arxiv.org/abs/2504.21603v1)|**2025-04-30**|null|
 |**2025-04-30**|**Switching Transients in Constrained Transformer-Line/Cable Configurations**|Y. Xiang et.al.|[2504.21594v1](http://arxiv.org/abs/2504.21594v1)|**2025-04-30**|null|
@@ -31,4 +31,4 @@
 |**2025-04-30**|**GarmentDiffusion: 3D Garment Sewing Pattern Generation with Multimodal Diffusion Transformers**|Xinyu Li et.al.|[2504.21476v1](http://arxiv.org/abs/2504.21476v1)|**2025-04-30**|null|
 |**2025-04-30**|**Advancing Arabic Reverse Dictionary Systems: A Transformer-Based Approach with Dataset Construction Guidelines**|Serry Sibaee et.al.|[2504.21475v1](http://arxiv.org/abs/2504.21475v1)|**2025-04-30**|null|
 |**2025-04-30**|**Multiview Point Cloud Registration via Optimization in an Autoencoder Latent Space**|Luc Vedrenne et.al.|[2504.21467v1](http://arxiv.org/abs/2504.21467v1)|**2025-04-30**|null|
-|**2025-04-30**|**On phase in scaled graphs**|Sebastiaan van den Eijnden et.al.|[2504.21448v1](http://arxiv.org/abs/2504.21448v1)|**2025-04-30**|null|
+|**2025-04-30**|**On phase in scaled graphs**|Sebastiaan van den Eijnden et.al.|[2504.21448v2](http://arxiv.org/abs/2504.21448v2)|**2025-05-01**|null|

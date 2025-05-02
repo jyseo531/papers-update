@@ -6,7 +6,7 @@
 |**2025-04-30**|**An Underwater, Fault-Tolerant, Laser-Aided Robotic Multi-Modal Dense SLAM System for Continuous Underwater In-Situ Observation**|Yaming Ou et.al.|[2504.21826v1](http://arxiv.org/abs/2504.21826v1)|**2025-04-30**|null|
 |**2025-04-30**|**Why Compress What You Can Generate? When GPT-4o Generation Ushers in Image Compression Fields**|Yixin Gao et.al.|[2504.21814v1](http://arxiv.org/abs/2504.21814v1)|**2025-04-30**|null|
 |**2025-04-30**|**Solving Copyright Infringement on Short Video Platforms: Novel Datasets and an Audio Restoration Deep Learning Pipeline**|Minwoo Oh et.al.|[2504.21772v1](http://arxiv.org/abs/2504.21772v1)|**2025-04-30**|null|
-|**2025-04-30**|**Task-Agnostic Semantic Communications Relying on Information Bottleneck and Federated Meta-Learning**|Hao Wei et.al.|[2504.21723v1](http://arxiv.org/abs/2504.21723v1)|**2025-04-30**|null|
+|**2025-04-30**|**Task-Agnostic Semantic Communications Relying on Information Bottleneck and Federated Meta-Learning**|Hao Wei et.al.|[2504.21723v2](http://arxiv.org/abs/2504.21723v2)|**2025-05-01**|null|
 |**2025-04-30**|**VividListener: Expressive and Controllable Listener Dynamics Modeling for Multi-Modal Responsive Interaction**|Shiying Li et.al.|[2504.21718v1](http://arxiv.org/abs/2504.21718v1)|**2025-04-30**|null|
 |**2025-04-30**|**REHEARSE-3D: A Multi-modal Emulated Rain Dataset for 3D Point Cloud De-raining**|Abu Mohammed Raisuddin et.al.|[2504.21699v1](http://arxiv.org/abs/2504.21699v1)|**2025-04-30**|null|
 |**2025-04-30**|**Cascade Detector Analysis and Application to Biomedical Microscopy**|Thomas L. Athey et.al.|[2504.21598v1](http://arxiv.org/abs/2504.21598v1)|**2025-04-30**|null|
