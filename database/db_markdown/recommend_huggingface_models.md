@@ -283,6 +283,7 @@ Updated on 2025-05-03
 | 133 | 16 | seastar105/whisper-medium-ko-zerothAutomatic | UpdatedFeb 9, 2023 | [Link](https://huggingface.co/seastar105/whisper-medium-ko-zeroth) |
 | 1.31k | 15 | aismlv/wav2vec2-large-xlsr-kazakhAutomatic | UpdatedDec 20, 2023 | [Link](https://huggingface.co/aismlv/wav2vec2-large-xlsr-kazakh) |
 | 198 | 15 | primeline/distil-whisper-large-v3-germanAutomatic | UpdatedDec 3, 2024 | [Link](https://huggingface.co/primeline/distil-whisper-large-v3-german) |
+| 939k | 14 | Systran/faster-whisper-baseAutomatic | UpdatedNov 23, 2023 | [Link](https://huggingface.co/Systran/faster-whisper-base) |
 | 5.88k | 13 | guillaumekln/faster-whisper-smallAutomatic | UpdatedMay 12, 2023 | [Link](https://huggingface.co/guillaumekln/faster-whisper-small) |
 | 298 | 12 | Akashpb13/xlsr_kurmanji_kurdishAutomatic | UpdatedMar 25, 2023 | [Link](https://huggingface.co/Akashpb13/xlsr_kurmanji_kurdish) |
 | 2.33k | 12 | argmaxinc/whisperkit-proAutomatic | UpdatedJan 13 | [Link](https://huggingface.co/argmaxinc/whisperkit-pro) |
@@ -426,6 +427,7 @@ Updated on 2025-05-03
 | 43.6k |  | depth-anything/Depth-Anything-V2-Metric-Indoor-Large-hfDepth | UpdatedAug 27, 2024 | [Link](https://huggingface.co/depth-anything/Depth-Anything-V2-Metric-Indoor-Large-hf) |
 | 5 | Unknown | TencentARC/GeometryCrafterDepth | Updatedabout 7 hours ago | [Link](https://huggingface.co/TencentARC/GeometryCrafter) |
 | 171k |  | Intel/dpt-hybrid-midasDepth | UpdatedFeb 9, 2024 | [Link](https://huggingface.co/Intel/dpt-hybrid-midas) |
+| 3 | Unknown | garryling/depth_anything_v2_optimizedDepth | Updated29 days ago | [Link](https://huggingface.co/garryling/depth_anything_v2_optimized) |
 
 ## Document Question Answering
 
@@ -1330,6 +1332,7 @@ Updated on 2025-05-03
 | 2 | Unknown | theSure/Omnieraser_Controlnet_versionImage-to-Image | Updated16 days ago | [Link](https://huggingface.co/theSure/Omnieraser_Controlnet_version) |
 | 2 | Unknown | sanaka87/ICEdit-MoE-LoRAImage-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/sanaka87/ICEdit-MoE-LoRA) |
 | 2 | Unknown | hofixD/comfyui-hidream-l1-full-img2imgImage-to-Image | Updated7 days ago | [Link](https://huggingface.co/hofixD/comfyui-hidream-l1-full-img2img) |
+| 2 | Unknown | rkfg/Step1X-Edit-FP8Image-to-Image | Updated6 days ago | [Link](https://huggingface.co/rkfg/Step1X-Edit-FP8) |
 
 ## Image-to-Text
 
@@ -2046,6 +2049,7 @@ Updated on 2025-05-03
 | 2.82k | 6 | google/tapas-large-finetuned-wikisql-supervisedTable | UpdatedNov 29, 2021 | [Link](https://huggingface.co/google/tapas-large-finetuned-wikisql-supervised) |
 | 401 | 3 | google/tapas-mini-finetuned-sqaTable | UpdatedNov 29, 2021 | [Link](https://huggingface.co/google/tapas-mini-finetuned-sqa) |
 | 520 | 3 | QuantFactory/TableLLM-13b-GGUFTable | UpdatedMar 6 | [Link](https://huggingface.co/QuantFactory/TableLLM-13b-GGUF) |
+| 65 | 3 | Yale-LILY/reastap-large-finetuned-wtqTable | UpdatedJun 3, 2023 | [Link](https://huggingface.co/Yale-LILY/reastap-large-finetuned-wtq) |
 | 1.9k | 2 | google/tapas-medium-finetuned-wtqTable | UpdatedJul 14, 2022 | [Link](https://huggingface.co/google/tapas-medium-finetuned-wtq) |
 | 2.49k | 2 | google/tapas-mini-finetuned-wtqTable | UpdatedJul 14, 2022 | [Link](https://huggingface.co/google/tapas-mini-finetuned-wtq) |
 | 407 | 1 | google/tapas-medium-finetuned-sqaTable | UpdatedNov 29, 2021 | [Link](https://huggingface.co/google/tapas-medium-finetuned-sqa) |
@@ -2310,6 +2314,7 @@ Updated on 2025-05-03
 | 2.78k |  | Hate-speech-CNERG/bert-base-uncased-hatexplainText | UpdatedMay 25, 2021 | [Link](https://huggingface.co/Hate-speech-CNERG/bert-base-uncased-hatexplain) |
 | 6 | Unknown | meta-llama/Llama-Prompt-Guard-2-86MText | Updatedabout 10 hours ago | [Link](https://huggingface.co/meta-llama/Llama-Prompt-Guard-2-86M) |
 | 4 | Unknown | meta-llama/Llama-Prompt-Guard-2-22MText | Updatedabout 10 hours ago | [Link](https://huggingface.co/meta-llama/Llama-Prompt-Guard-2-22M) |
+| 17 | Unknown | nvidia/llama-3 | Updatedabout 14 hours ago | [Link](https://huggingface.co/nvidia/llama-3.1-nemoguard-8b-content-safety) |
 
 ## Text Generation
 
@@ -2362,6 +2367,7 @@ Updated on 2025-05-03
 | 227 | 38 | LGAI-EXAONE/EXAONE-Deep-7 | Updated4 minutes ago | [Link](https://huggingface.co/LGAI-EXAONE/EXAONE-Deep-7.8B) |
 | 9.86k | 38 | starvector/starvector-1b-im2svgText | Updated2 days ago | [Link](https://huggingface.co/starvector/starvector-1b-im2svg) |
 | 278 | 38 | deepcogito/cogito-v1-preview-qwen-32BText | Updated1 day ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-qwen-32B) |
+| 63 | 38 | ibm-granite/granite-4 | Updated1 day ago | [Link](https://huggingface.co/ibm-granite/granite-4.0-tiny-preview) |
 | 125 | 37 | microsoft/Phi-4-mini-instructText | Updatedabout 2 hours ago | [Link](https://huggingface.co/microsoft/Phi-4-mini-instruct) |
 | 3.68k | 35 | arcee-ai/Arcee-Maestro-7B-PreviewText | Updated4 days ago | [Link](https://huggingface.co/arcee-ai/Arcee-Maestro-7B-Preview) |
 | 2.14k | 35 | google/gemma-3-1b-ptText | Updatedabout 17 hours ago | [Link](https://huggingface.co/google/gemma-3-1b-pt) |
@@ -2904,6 +2910,7 @@ Updated on 2025-05-03
 | 9 | Unknown | dangtr0408/StyleTTS2-lite-viText-to-Speech | Updatedabout 7 hours ago | [Link](https://huggingface.co/dangtr0408/StyleTTS2-lite-vi) |
 | 36 | Unknown | moonshotai/Kimi-Audio-7B-InstructText-to-Speech | Updatedabout 9 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-Audio-7B-Instruct) |
 | 5 | Unknown | moonshotai/Kimi-Audio-7BText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-Audio-7B) |
+| 163 | Unknown | facebook/mms-ttsText-to-Speech | UpdatedJul 25, 2023 | [Link](https://huggingface.co/facebook/mms-tts) |
 
 ## Text-to-Video
 
@@ -3261,6 +3268,7 @@ Updated on 2025-05-03
 | 640 | 35 | utrobinmv/t5_translate_en_ru_zh_large_1024_v2Translation | UpdatedNov 4, 2024 | [Link](https://huggingface.co/utrobinmv/t5_translate_en_ru_zh_large_1024_v2) |
 | 2.21k | 33 | Unbabel/TowerInstruct-7B-v0 | UpdatedSep 9, 2024 | [Link](https://huggingface.co/Unbabel/TowerInstruct-7B-v0.2) |
 | 5.97k | 31 | Unbabel/wmt22-comet-daTranslation | UpdatedFeb 26 | [Link](https://huggingface.co/Unbabel/wmt22-comet-da) |
+| 64.6k | 30 | Helsinki-NLP/opus-mt-tc-big-en-ptTranslation | UpdatedOct 10, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-tc-big-en-pt) |
 | 740 | 26 | Unbabel/TowerInstruct-13B-v0 | UpdatedMay 8, 2024 | [Link](https://huggingface.co/Unbabel/TowerInstruct-13B-v0.1) |
 | 11.5k | 25 | ai4bharat/indictrans2-en-indic-1BTranslation | Updated11 days ago | [Link](https://huggingface.co/ai4bharat/indictrans2-en-indic-1B) |
 | 533 | 24 | webbigdata/C3TR-Adapter_ggufTranslation | UpdatedAug 14, 2024 | [Link](https://huggingface.co/webbigdata/C3TR-Adapter_gguf) |
