@@ -25,7 +25,7 @@
 |**2025-05-01**|**Multi-segment Soft Robot Control via Deep Koopman-based Model Predictive Control**|Lei Lv et.al.|[2505.00354v1](http://arxiv.org/abs/2505.00354v1)|**2025-05-01**|null|
 |**2025-05-01**|**Quaternion Wavelet-Conditioned Diffusion Models for Image Super-Resolution**|Luigi Sigillo et.al.|[2505.00334v1](http://arxiv.org/abs/2505.00334v1)|**2025-05-01**|null|
 |**2025-05-01**|**Surrogate modeling of Cellular-Potts Agent-Based Models as a segmentation task using the U-Net neural network architecture**|Tien Comlekoglu et.al.|[2505.00316v1](http://arxiv.org/abs/2505.00316v1)|**2025-05-01**|null|
-|**2025-05-01**|**AWARE-NET: Adaptive Weighted Averaging for Robust Ensemble Network in Deepfake Detection**|Muhammad Salman et.al.|[2505.00312v1](http://arxiv.org/abs/2505.00312v1)|**2025-05-01**|[link](https://github.com/recluzegeek/deepfake-ensemble-detection)|
+|**2025-05-01**|**AWARE-NET: Adaptive Weighted Averaging for Robust Ensemble Network in Deepfake Detection**|Muhammad Salman et.al.|[2505.00312v1](http://arxiv.org/abs/2505.00312v1)|**2025-05-01**|[link](https://github.com/recluzegeek/AWARE-NET)|
 |**2025-05-01**|**AI-Assisted Decision-Making for Clinical Assessment of Auto-Segmented Contour Quality**|Biling Wang et.al.|[2505.00308v1](http://arxiv.org/abs/2505.00308v1)|**2025-05-01**|null|
 |**2025-05-01**|**Fine-grained spatial-temporal perception for gas leak segmentation**|Xinlong Zhao et.al.|[2505.00295v1](http://arxiv.org/abs/2505.00295v1)|**2025-05-01**|null|
 |**2025-05-01**|**Weighted-Scenario Optimisation for the Chance Constrained Travelling Thief Problem**|Thilina Pathirage Don et.al.|[2505.00269v1](http://arxiv.org/abs/2505.00269v1)|**2025-05-01**|null|

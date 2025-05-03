@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-05-02
+Updated on 2025-05-03
 
 > Generated from the Hugging Face database.
 
@@ -367,6 +367,7 @@ Updated on 2025-05-02
 | 3 | Unknown | qualcomm/Whisper-Small-V2Automatic | Updated7 days ago | [Link](https://huggingface.co/qualcomm/Whisper-Small-V2) |
 | 13 | Unknown | nvidia/stt_ar_fastconformer_hybrid_large_pcd_v1 | UpdatedFeb 18 | [Link](https://huggingface.co/nvidia/stt_ar_fastconformer_hybrid_large_pcd_v1.0) |
 | 24 | Unknown | alphacep/vosk-model-ruAutomatic | Updated2 days ago | [Link](https://huggingface.co/alphacep/vosk-model-ru) |
+| 3 | Unknown | islomov/navaistt_v1_mediumAutomatic | Updatedabout 10 hours ago | [Link](https://huggingface.co/islomov/navaistt_v1_medium) |
 
 ## Depth Estimation
 
@@ -547,6 +548,7 @@ Updated on 2025-05-02
 | 200 | 3 | wi-lab/lwmFeature | Updated6 days ago | [Link](https://huggingface.co/wi-lab/lwm) |
 | 31 | 3 | minchul/cvlface_arcface_ir101_webface4mFeature | UpdatedAug 19, 2024 | [Link](https://huggingface.co/minchul/cvlface_arcface_ir101_webface4m) |
 | 175 | 3 | junnei/gemma-3-4b-it-speechFeature | Updatedabout 9 hours ago | [Link](https://huggingface.co/junnei/gemma-3-4b-it-speech) |
+| 49 | 3 | onnx-community/snac_24khz-ONNXFeature | UpdatedMar 21 | [Link](https://huggingface.co/onnx-community/snac_24khz-ONNX) |
 | 203 | 2 | BounharAbdelaziz/Morocco-Darija-Sentence-Embedding-v0 | Updated4 days ago | [Link](https://huggingface.co/BounharAbdelaziz/Morocco-Darija-Sentence-Embedding-v0.1) |
 | 41 | 2 | selfconstruct3d/AttackGroup-MPNETFeature | Updatedabout 3 hours ago | [Link](https://huggingface.co/selfconstruct3d/AttackGroup-MPNET) |
 | 1.68k | 2 | VPLabs/SearchMap_PreviewFeature | Updated6 days ago | [Link](https://huggingface.co/VPLabs/SearchMap_Preview) |
@@ -1002,6 +1004,7 @@ Updated on 2025-05-02
 | 3.94k | 3 | facebook/mask2former-swin-tiny-cityscapes-semanticImage | UpdatedSep 11, 2023 | [Link](https://huggingface.co/facebook/mask2former-swin-tiny-cityscapes-semantic) |
 | 2.24M | 3 | shi-labs/oneformer_coco_swin_largeImage | UpdatedJan 19, 2023 | [Link](https://huggingface.co/shi-labs/oneformer_coco_swin_large) |
 | 106 | 3 | onnx-community/ormbg-ONNXImage | UpdatedMar 7 | [Link](https://huggingface.co/onnx-community/ormbg-ONNX) |
+| 2.57k | 3 | nvidia/segformer-b3-finetuned-cityscapes-1024-1024Image | UpdatedAug 9, 2022 | [Link](https://huggingface.co/nvidia/segformer-b3-finetuned-cityscapes-1024-1024) |
 | 7.28k | 2 | facebook/mask2former-swin-small-cityscapes-semanticImage | UpdatedSep 11, 2023 | [Link](https://huggingface.co/facebook/mask2former-swin-small-cityscapes-semantic) |
 | 1.15k | 2 | openmmlab/upernet-swin-baseImage | UpdatedMay 3, 2023 | [Link](https://huggingface.co/openmmlab/upernet-swin-base) |
 | 787 | 2 | keremberke/yolov8s-building-segmentationImage | UpdatedFeb 22, 2023 | [Link](https://huggingface.co/keremberke/yolov8s-building-segmentation) |
@@ -1658,6 +1661,7 @@ Updated on 2025-05-02
 | 2.25k | 36 | pierreguillou/bert-base-cased-squad-v1 | UpdatedJan 4, 2022 | [Link](https://huggingface.co/pierreguillou/bert-base-cased-squad-v1.1-portuguese) |
 | 133 | 26 | mrzlab630/lora-alpaca-trading-candlesQuestion | UpdatedJun 29, 2023 | [Link](https://huggingface.co/mrzlab630/lora-alpaca-trading-candles) |
 | 1.81k | 25 | deepset/gelectra-base-germanquadQuestion | UpdatedSep 26, 2024 | [Link](https://huggingface.co/deepset/gelectra-base-germanquad) |
+| 261 | 24 | lserinol/bert-turkish-question-answeringQuestion | UpdatedMay 19, 2021 | [Link](https://huggingface.co/lserinol/bert-turkish-question-answering) |
 | 3.33k | 16 | atharvamundada99/bert-large-question-answering-finetuned-legalQuestion | UpdatedMay 24, 2021 | [Link](https://huggingface.co/atharvamundada99/bert-large-question-answering-finetuned-legal) |
 | 395 | 14 | mrm8488/bert-italian-finedtuned-squadv1-it-alfaQuestion | UpdatedMay 20, 2021 | [Link](https://huggingface.co/mrm8488/bert-italian-finedtuned-squadv1-it-alfa) |
 | 19 | 13 | allenai/bidaf-elmoQuestion | UpdatedOct 3, 2022 | [Link](https://huggingface.co/allenai/bidaf-elmo) |
@@ -2367,6 +2371,7 @@ Updated on 2025-05-02
 | 296 | 35 | lmms-lab/Aero-1-AudioText | Updated4 days ago | [Link](https://huggingface.co/lmms-lab/Aero-1-Audio) |
 | 4.1k | 34 | bartowski/mistralai_Mistral-Small-3 | Updatedabout 18 hours ago | [Link](https://huggingface.co/bartowski/mistralai_Mistral-Small-3.1-24B-Instruct-2503-GGUF) |
 | 566 | 33 | deepcogito/cogito-v1-preview-qwen-14BText | Updated1 day ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-qwen-14B) |
+| 115 | 33 | shuttleai/shuttle-3 | Updated2 days ago | [Link](https://huggingface.co/shuttleai/shuttle-3.5) |
 | 5.81k | 32 | trillionlabs/Trillion-7B-previewText | Updatedabout 3 hours ago | [Link](https://huggingface.co/trillionlabs/Trillion-7B-preview) |
 | 172 | 31 | huihui-ai/QwQ-32B-abliteratedText | Updated2 days ago | [Link](https://huggingface.co/huihui-ai/QwQ-32B-abliterated) |
 | 76 | 31 | manycore-research/SpatialLM-Qwen-0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/manycore-research/SpatialLM-Qwen-0.5B) |
@@ -3130,6 +3135,7 @@ Updated on 2025-05-02
 | 99.4k | 7 | Salesforce/moirai-moe-1 | UpdatedJan 21 | [Link](https://huggingface.co/Salesforce/moirai-moe-1.0-R-base) |
 | 34.2k | 5 | autogluon/chronos-t5-miniTime | UpdatedFeb 17 | [Link](https://huggingface.co/autogluon/chronos-t5-mini) |
 | 85 | 4 | ChengsenWang/ChatTime-1-7B-BaseTime | UpdatedDec 17, 2024 | [Link](https://huggingface.co/ChengsenWang/ChatTime-1-7B-Base) |
+| 6.35k | 4 | AutonLab/MOMENT-1-baseTime | UpdatedMar 26 | [Link](https://huggingface.co/AutonLab/MOMENT-1-base) |
 | 33.5k | 2 | ibm-research/ttm-research-r2Time | UpdatedNov 12, 2024 | [Link](https://huggingface.co/ibm-research/ttm-research-r2) |
 | 134 | 1 | ChengsenWang/ChatTime-1-7B-ChatTime | UpdatedDec 17, 2024 | [Link](https://huggingface.co/ChengsenWang/ChatTime-1-7B-Chat) |
 | 177 | 1 | nieche/chronos-t5-small-fine-tuned-v1Time | UpdatedDec 20, 2024 | [Link](https://huggingface.co/nieche/chronos-t5-small-fine-tuned-v1) |
@@ -3147,6 +3153,7 @@ Updated on 2025-05-02
 |:----------|:------|:-----------|:------------|:------|
 | 43k | 166 | d4data/biomedical-ner-allToken | UpdatedJul 2, 2023 | [Link](https://huggingface.co/d4data/biomedical-ner-all) |
 | 2.04k | 121 | knowledgator/gliner-multitask-large-v0 | UpdatedJan 2 | [Link](https://huggingface.co/knowledgator/gliner-multitask-large-v0.5) |
+| 2.45k | 120 | bigcode/starpiiToken | UpdatedJul 24, 2023 | [Link](https://huggingface.co/bigcode/starpii) |
 | 13.9k | 114 | urchade/gliner_multi-v2 | UpdatedApr 10, 2024 | [Link](https://huggingface.co/urchade/gliner_multi-v2.1) |
 | 68.7k | 98 | urchade/gliner_multi_pii-v1Token | UpdatedApr 20, 2024 | [Link](https://huggingface.co/urchade/gliner_multi_pii-v1) |
 | 25.4k | 74 | numind/NuNER_ZeroToken | Updated22 days ago | [Link](https://huggingface.co/numind/NuNER_Zero) |
@@ -3244,6 +3251,7 @@ Updated on 2025-05-02
 | 14.8k | 112 | google/madlad400-3b-mtTranslation | UpdatedNov 27, 2023 | [Link](https://huggingface.co/google/madlad400-3b-mt) |
 | 11.5k | 108 | google/madlad400-10b-mtTranslation | UpdatedApr 12, 2024 | [Link](https://huggingface.co/google/madlad400-10b-mt) |
 | 11.7k | 80 | alirezamsh/small100Translation | UpdatedJul 23, 2024 | [Link](https://huggingface.co/alirezamsh/small100) |
+| 378k | 72 | Helsinki-NLP/opus-mt-es-enTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-es-en) |
 | 1.13M | 60 | google-t5/t5-11bTranslation | UpdatedJan 2, 2023 | [Link](https://huggingface.co/google-t5/t5-11b) |
 | 42.1k | 59 | Helsinki-NLP/opus-mt-ja-enTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-ja-en) |
 | 112 | 53 | raynardj/wenyanwen-chinese-translate-to-ancientTranslation | UpdatedNov 29, 2021 | [Link](https://huggingface.co/raynardj/wenyanwen-chinese-translate-to-ancient) |
