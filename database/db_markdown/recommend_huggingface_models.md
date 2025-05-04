@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-05-03
+Updated on 2025-05-04
 
 > Generated from the Hugging Face database.
 
@@ -406,6 +406,7 @@ Updated on 2025-05-03
 | 43 | 2 | xingyang1/Distill-Any-Depth-Small-hfDepth | Updated3 days ago | [Link](https://huggingface.co/xingyang1/Distill-Any-Depth-Small-hf) |
 | 1.04k | 2 | xingyang1/Distill-Any-Depth-Large-hfDepth | Updated11 days ago | [Link](https://huggingface.co/xingyang1/Distill-Any-Depth-Large-hf) |
 | 11 | 2 | onnx-community/metric3d-vit-largeDepth | UpdatedJun 20, 2024 | [Link](https://huggingface.co/onnx-community/metric3d-vit-large) |
+| 46.9k | 2 | depth-anything/Depth-Anything-V2-Base-hfDepth | UpdatedJul 5, 2024 | [Link](https://huggingface.co/depth-anything/Depth-Anything-V2-Base-hf) |
 | 5 | 1 | coreml-projects/DepthPro-coremlDepth | Updated17 days ago | [Link](https://huggingface.co/coreml-projects/DepthPro-coreml) |
 | 856 | 1 | jingheya/lotus-depth-g-v2-1-disparityDepth | UpdatedJan 16 | [Link](https://huggingface.co/jingheya/lotus-depth-g-v2-1-disparity) |
 | 160 | 1 | depth-anything/prompt-depth-anything-vits-hfDepth | UpdatedJan 26 | [Link](https://huggingface.co/depth-anything/prompt-depth-anything-vits-hf) |
@@ -783,6 +784,7 @@ Updated on 2025-05-03
 | 774k | 38 | AdamCodd/vit-base-nsfw-detectorImage | UpdatedDec 3, 2024 | [Link](https://huggingface.co/AdamCodd/vit-base-nsfw-detector) |
 | 191 | 34 | google/path-foundationImage | Updated17 days ago | [Link](https://huggingface.co/google/path-foundation) |
 | 421 | 31 | google/derm-foundationImage | Updated16 days ago | [Link](https://huggingface.co/google/derm-foundation) |
+| 130k | 29 | dima806/deepfake_vs_real_image_detectionImage | UpdatedJan 4 | [Link](https://huggingface.co/dima806/deepfake_vs_real_image_detection) |
 | 117k | 23 | prithivMLmods/Deep-Fake-Detector-ModelImage | Updated25 days ago | [Link](https://huggingface.co/prithivMLmods/Deep-Fake-Detector-Model) |
 | 2.83k | 21 | Anwarkh1/Skin_Cancer-Image_ClassificationImage | UpdatedMar 19, 2024 | [Link](https://huggingface.co/Anwarkh1/Skin_Cancer-Image_Classification) |
 | 172 | 19 | andupets/real-estate-image-classificationImage | UpdatedSep 28, 2022 | [Link](https://huggingface.co/andupets/real-estate-image-classification) |
@@ -838,6 +840,7 @@ Updated on 2025-05-03
 | 3.9k | 3 | facebook/convnext-large-224-22k-1kImage | UpdatedNov 21, 2023 | [Link](https://huggingface.co/facebook/convnext-large-224-22k-1k) |
 | 3 | 3 | prithivMLmods/Gym-Workout-Classifier-SigLIP2Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/prithivMLmods/Gym-Workout-Classifier-SigLIP2) |
 | 517k | 3 | timm/edgenext_small | UpdatedJan 21 | [Link](https://huggingface.co/timm/edgenext_small.usi_in1k) |
+| 8 | 3 | prithivMLmods/Watermark-Detection-SigLIP2Image | Updated3 days ago | [Link](https://huggingface.co/prithivMLmods/Watermark-Detection-SigLIP2) |
 | 211 | 2 | smp111/terrain_recognitionImage | UpdatedOct 17, 2023 | [Link](https://huggingface.co/smp111/terrain_recognition) |
 | 227k | 2 | google/efficientnet-b2Image | UpdatedFeb 17, 2023 | [Link](https://huggingface.co/google/efficientnet-b2) |
 | 64 | 2 | histai/SPIDER-colorectal-modelImage | Updatedabout 10 hours ago | [Link](https://huggingface.co/histai/SPIDER-colorectal-model) |
@@ -1533,6 +1536,7 @@ Updated on 2025-05-03
 | 3 | Unknown | qualcomm/Posenet-MobilenetKeypoint | Updated10 days ago | [Link](https://huggingface.co/qualcomm/Posenet-Mobilenet) |
 | 3 | Unknown | qualcomm/Posenet-Mobilenet-QuantizedKeypoint | Updated4 days ago | [Link](https://huggingface.co/qualcomm/Posenet-Mobilenet-Quantized) |
 | 1 | Unknown | qualcomm/MovenetKeypoint | Updated3 days ago | [Link](https://huggingface.co/qualcomm/Movenet) |
+| 1 | Unknown | qualcomm/RTMPose_Body2dKeypoint | Updated24 days ago | [Link](https://huggingface.co/qualcomm/RTMPose_Body2d) |
 
 ## Mask Generation
 
@@ -2710,6 +2714,7 @@ Updated on 2025-05-03
 | 11 | 9 | ShoufaChen/PixelFlow-Text2ImageText-to-Image | Updatedabout 19 hours ago | [Link](https://huggingface.co/ShoufaChen/PixelFlow-Text2Image) |
 | 8.2k | 9 | azaneko/HiDream-I1-Dev-nf4Text-to-Image | Updated6 days ago | [Link](https://huggingface.co/azaneko/HiDream-I1-Dev-nf4) |
 | 215 | 8 | tensorart/stable-diffusion-3 | Updated8 minutes ago | [Link](https://huggingface.co/tensorart/stable-diffusion-3.5-large-TurboX) |
+| 34 | 8 | renderartist/coloringbookhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/coloringbookhidream) |
 | 1.69k | 7 | silveroxides/Chroma-GGUFText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/silveroxides/Chroma-GGUF) |
 | 58 | 7 | Freepik/F-Lite-TextureText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Freepik/F-Lite-Texture) |
 | 2 | 2.77k | CompVis/stable-diffusion-v-1-4-originalText-to-Image | UpdatedNov 9, 2022 | [Link](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original) |
@@ -2911,6 +2916,7 @@ Updated on 2025-05-03
 | 36 | Unknown | moonshotai/Kimi-Audio-7B-InstructText-to-Speech | Updatedabout 9 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-Audio-7B-Instruct) |
 | 5 | Unknown | moonshotai/Kimi-Audio-7BText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-Audio-7B) |
 | 163 | Unknown | facebook/mms-ttsText-to-Speech | UpdatedJul 25, 2023 | [Link](https://huggingface.co/facebook/mms-tts) |
+| 10 | Unknown | mrfakename/OpenF5-TTSText-to-Speech | Updatedabout 19 hours ago | [Link](https://huggingface.co/mrfakename/OpenF5-TTS) |
 
 ## Text-to-Video
 
