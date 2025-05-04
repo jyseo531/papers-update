@@ -642,6 +642,7 @@ Updated on 2025-05-04
 | 8.26k | 33 | GerMedBERT/medbert-512Fill-Mask | UpdatedMar 27, 2023 | [Link](https://huggingface.co/GerMedBERT/medbert-512) |
 | 8.8k | 32 | sbintuitions/modernbert-ja-130mFill-Mask | Updated11 days ago | [Link](https://huggingface.co/sbintuitions/modernbert-ja-130m) |
 | 4.87k | 31 | mental/mental-bert-base-uncasedFill-Mask | UpdatedFeb 27, 2023 | [Link](https://huggingface.co/mental/mental-bert-base-uncased) |
+| 434 | 30 | casehold/legalbertFill-Mask | UpdatedJul 2, 2021 | [Link](https://huggingface.co/casehold/legalbert) |
 | 75.8k | 29 | aubmindlab/bert-base-arabertv2Fill-Mask | UpdatedAug 3, 2023 | [Link](https://huggingface.co/aubmindlab/bert-base-arabertv2) |
 | 3.06k | 26 | ckiplab/bert-base-chineseFill-Mask | UpdatedMay 10, 2022 | [Link](https://huggingface.co/ckiplab/bert-base-chinese) |
 | 5.81k | 24 | microsoft/SportsBERTFill-Mask | UpdatedDec 10, 2022 | [Link](https://huggingface.co/microsoft/SportsBERT) |
@@ -664,6 +665,7 @@ Updated on 2025-05-04
 | 285 | 16 | EuroBERT/EuroBERT-210mFill-Mask | Updatedabout 5 hours ago | [Link](https://huggingface.co/EuroBERT/EuroBERT-210m) |
 | 2.89k | 15 | CAMeL-Lab/bert-base-arabic-camelbert-mixFill-Mask | UpdatedSep 14, 2021 | [Link](https://huggingface.co/CAMeL-Lab/bert-base-arabic-camelbert-mix) |
 | 639 | 15 | markusbayer/CySecBERTFill-Mask | UpdatedOct 28, 2024 | [Link](https://huggingface.co/markusbayer/CySecBERT) |
+| 908 | 15 | kz-transformers/kaz-roberta-conversationalFill-Mask | UpdatedApr 19, 2024 | [Link](https://huggingface.co/kz-transformers/kaz-roberta-conversational) |
 | 241 | 14 | neavo/modern_bert_multilingualFill-Mask | Updated7 days ago | [Link](https://huggingface.co/neavo/modern_bert_multilingual) |
 | 869k | 14 | facebook/esm2_t12_35M_UR50DFill-Mask | UpdatedMar 21, 2023 | [Link](https://huggingface.co/facebook/esm2_t12_35M_UR50D) |
 | 33 | 14 | EuroBERT/EuroBERT-2 | Updatedabout 5 hours ago | [Link](https://huggingface.co/EuroBERT/EuroBERT-2.1B) |
@@ -678,6 +680,7 @@ Updated on 2025-05-04
 | 27 | 10 | EuroBERT/EuroBERT-610mFill-Mask | Updatedabout 5 hours ago | [Link](https://huggingface.co/EuroBERT/EuroBERT-610m) |
 | 14k | 10 | Synthyra/ESMplusplus_smallFill-Mask | Updated3 days ago | [Link](https://huggingface.co/Synthyra/ESMplusplus_small) |
 | 1.45k | 10 | AI-Sweden-Models/roberta-large-1160kFill-Mask | UpdatedApr 20, 2024 | [Link](https://huggingface.co/AI-Sweden-Models/roberta-large-1160k) |
+| 1.2k | 10 | urduhack/roberta-urdu-smallFill-Mask | UpdatedMay 20, 2021 | [Link](https://huggingface.co/urduhack/roberta-urdu-small) |
 | 5.68k | 8 | deepvk/RuModernBERT-smallFill-Mask | Updated6 days ago | [Link](https://huggingface.co/deepvk/RuModernBERT-small) |
 | 105 | 8 | metga97/Modern-EgyBert-BaseFill-Mask | Updated2 days ago | [Link](https://huggingface.co/metga97/Modern-EgyBert-Base) |
 | 432 | 7 | hfl/minirbt-h288Fill-Mask | UpdatedNov 15, 2022 | [Link](https://huggingface.co/hfl/minirbt-h288) |
@@ -1349,6 +1352,7 @@ Updated on 2025-05-04
 | 42.7k | 35 | microsoft/trocr-small-printedImage-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-small-printed) |
 | 6.34k | 32 | thwri/CogFlorence-2 | UpdatedSep 28, 2024 | [Link](https://huggingface.co/thwri/CogFlorence-2.2-Large) |
 | 637 | 31 | U4R/StructTable-InternVL2-1BImage-to-Text | UpdatedDec 12, 2024 | [Link](https://huggingface.co/U4R/StructTable-InternVL2-1B) |
+| 1.65k | 29 | microsoft/git-large-textcapsImage-to-Text | UpdatedFeb 8, 2023 | [Link](https://huggingface.co/microsoft/git-large-textcaps) |
 | 809 | 27 | MixTex/ZhEn-Latex-OCRImage-to-Text | UpdatedJul 30, 2024 | [Link](https://huggingface.co/MixTex/ZhEn-Latex-OCR) |
 | 290 | 26 | paragon-AI/blip2-image-to-textImage-to-Text | UpdatedJun 24, 2023 | [Link](https://huggingface.co/paragon-AI/blip2-image-to-text) |
 | 7.18k | 25 | ddobokki/ko-trocrImage-to-Text | UpdatedOct 22, 2024 | [Link](https://huggingface.co/ddobokki/ko-trocr) |
@@ -1871,6 +1875,7 @@ Updated on 2025-05-04
 |  | 102 | sentence-transformers/clip-ViT-B-32Sentence | UpdatedFeb 12, 2024 | [Link](https://huggingface.co/sentence-transformers/clip-ViT-B-32) |
 | 710 | 100 | Alibaba-NLP/gte-Qwen1 | UpdatedJan 11 | [Link](https://huggingface.co/Alibaba-NLP/gte-Qwen1.5-7B-instruct) |
 | 253 | 67 | NeuML/txtai-wikipediaSentence | Updated14 days ago | [Link](https://huggingface.co/NeuML/txtai-wikipedia) |
+| 393k | 63 | snunlp/KR-SBERT-V40K-klueNLI-augSTSSentence | UpdatedAug 23, 2022 | [Link](https://huggingface.co/snunlp/KR-SBERT-V40K-klueNLI-augSTS) |
 | 247k | 62 | Snowflake/snowflake-arctic-embed-m-v2 | UpdatedDec 14, 2024 | [Link](https://huggingface.co/Snowflake/snowflake-arctic-embed-m-v2.0) |
 | 69.8k | 60 | bkai-foundation-models/vietnamese-bi-encoderSentence | UpdatedMar 11, 2024 | [Link](https://huggingface.co/bkai-foundation-models/vietnamese-bi-encoder) |
 | 8.08k | 59 | antoinelouis/colbert-xmSentence | UpdatedSep 29, 2024 | [Link](https://huggingface.co/antoinelouis/colbert-xm) |
@@ -3301,6 +3306,7 @@ Updated on 2025-05-04
 | 65 | 2 | Helsinki-NLP/opus-mt-tc-bible-big-mul-deu_eng_fra_por_spaTranslation | UpdatedOct 12, 2024 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-tc-bible-big-mul-deu_eng_fra_por_spa) |
 | 11 | 2 | tartuNLP/nllb1 | Updatedabout 23 hours ago | [Link](https://huggingface.co/tartuNLP/nllb1.3-smugri4-v0.01) |
 | 167 | 2 | Narsil/nllbTranslation | UpdatedFeb 10, 2023 | [Link](https://huggingface.co/Narsil/nllb) |
+| 107 | 2 | Takaharadesu/dokidori-neoTranslation | Updated19 days ago | [Link](https://huggingface.co/Takaharadesu/dokidori-neo) |
 | 652 | 1 | Helsinki-NLP/opus-mt-de-arTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-de-ar) |
 | 108 | 1 | Helsinki-NLP/opus-mt-en-biTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-en-bi) |
 | 144 | 1 | Helsinki-NLP/opus-mt-en-htTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-en-ht) |
