@@ -2,33 +2,33 @@
 ### Transformer
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-01**|**RayZer: A Self-supervised Large View Synthesis Model**|Hanwen Jiang et.al.|[2505.00702v1](http://arxiv.org/abs/2505.00702v1)|**2025-05-01**|null|
-|**2025-05-01**|**A log-depth in-place quantum Fourier transform that rarely needs ancillas**|Gregory D. Kahanamoku-Meyer et.al.|[2505.00701v1](http://arxiv.org/abs/2505.00701v1)|**2025-05-01**|null|
-|**2025-05-01**|**Robotic Visual Instruction**|Yanbang Li et.al.|[2505.00693v1](http://arxiv.org/abs/2505.00693v1)|**2025-05-01**|null|
-|**2025-05-01**|**On the Importance of Gaussianizing Representations**|Daniel Eftekhari et.al.|[2505.00685v1](http://arxiv.org/abs/2505.00685v1)|**2025-05-01**|null|
-|**2025-05-01**|**Comma 2-comonad I: Eilenberg-Moore 2-category of colax coalgebras**|Igor Baković et.al.|[2505.00682v1](http://arxiv.org/abs/2505.00682v1)|**2025-05-01**|null|
-|**2025-05-01**|**Open-Source LLM-Driven Federated Transformer for Predictive IoV Management**|Yazan Otoum et.al.|[2505.00651v1](http://arxiv.org/abs/2505.00651v1)|**2025-05-01**|null|
-|**2025-05-01**|**Detecting Modeling Bias with Continuous Time Flow Models on Weak Lensing Maps**|Kangning Diao et.al.|[2505.00632v1](http://arxiv.org/abs/2505.00632v1)|**2025-05-01**|null|
-|**2025-05-01**|**Bayes-Optimal Fair Classification with Multiple Sensitive Features**|Yi Yang et.al.|[2505.00631v1](http://arxiv.org/abs/2505.00631v1)|**2025-05-01**|null|
-|**2025-05-01**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630v1](http://arxiv.org/abs/2505.00630v1)|**2025-05-01**|null|
-|**2025-05-01**|**Scaling limit of a weakly asymmetric simple exclusion process in the framework of regularity structures**|Ruojun Huang et.al.|[2505.00621v1](http://arxiv.org/abs/2505.00621v1)|**2025-05-01**|null|
-|**2025-05-01**|**Pixel3DMM: Versatile Screen-Space Priors for Single-Image 3D Face Reconstruction**|Simon Giebenhain et.al.|[2505.00615v1](http://arxiv.org/abs/2505.00615v1)|**2025-05-01**|null|
-|**2025-05-01**|**Generating multi-wavelength phase screens for atmospheric wave optics simulations using fast Fourier transforms**|Milo W. Hyde IV et.al.|[2505.00613v1](http://arxiv.org/abs/2505.00613v1)|**2025-05-01**|null|
-|**2025-05-01**|**Combining LLMs with Logic-Based Framework to Explain MCTS**|Ziyan An et.al.|[2505.00610v1](http://arxiv.org/abs/2505.00610v1)|**2025-05-01**|null|
-|**2025-05-01**|**Wavefront errors in two-wavelength adaptive optics systems**|Milo W. Hyde IV et.al.|[2505.00609v1](http://arxiv.org/abs/2505.00609v1)|**2025-05-01**|null|
-|**2025-05-01**|**Nonparametric Estimation of Matching Efficiency and Elasticity in a Marriage Agency Platform: 2014--2025**|Suguru Otani et.al.|[2505.00607v1](http://arxiv.org/abs/2505.00607v1)|**2025-05-01**|null|
-|**2025-05-01**|**Frustration, dynamics and catalysis**|R. Gonzalo Parra et.al.|[2505.00600v1](http://arxiv.org/abs/2505.00600v1)|**2025-05-01**|null|
-|**2025-05-01**|**Fast and Low-Cost Genomic Foundation Models via Outlier Removal**|Haozheng Luo et.al.|[2505.00598v2](http://arxiv.org/abs/2505.00598v2)|**2025-05-02**|[link](https://github.com/MAGICS-LAB/GERM)|
-|**2025-05-01**|**Unlocking the Potential of Linear Networks for Irregular Multivariate Time Series Forecasting**|Chengsen Wang et.al.|[2505.00590v1](http://arxiv.org/abs/2505.00590v1)|**2025-05-01**|null|
-|**2025-05-01**|**Block Circulant Adapter for Large Language Models**|Xinyu Ding et.al.|[2505.00582v1](http://arxiv.org/abs/2505.00582v1)|**2025-05-01**|null|
-|**2025-05-01**|**Parameter-Efficient Fine-Tuning with Circulant and Diagonal Vectors**|Xinyu Ding et.al.|[2505.00580v1](http://arxiv.org/abs/2505.00580v1)|**2025-05-01**|null|
-|**2025-05-01**|**X-ray illicit object detection using hybrid CNN-transformer neural network architectures**|Jorgen Cani et.al.|[2505.00564v1](http://arxiv.org/abs/2505.00564v1)|**2025-05-01**|null|
-|**2025-05-01**|**Efficient Recommendation with Millions of Items by Dynamic Pruning of Sub-Item Embeddings**|Aleksandr V. Petrov et.al.|[2505.00560v1](http://arxiv.org/abs/2505.00560v1)|**2025-05-01**|null|
-|**2025-05-01**|**Bridging Cultural and Digital Divides: A Low-Latency JackTrip Framework for Equitable Music Education in the Global South**|Tiange Zhou et.al.|[2505.00550v1](http://arxiv.org/abs/2505.00550v1)|**2025-05-01**|null|
-|**2025-05-01**|**From Requirements to Test Cases: An NLP-Based Approach for High-Performance ECU Test Case Automation**|Nikitha Medeshetty et.al.|[2505.00547v1](http://arxiv.org/abs/2505.00547v1)|**2025-05-01**|null|
-|**2025-05-01**|**Directly Forecasting Belief for Reinforcement Learning with Delays**|Qingyuan Wu et.al.|[2505.00546v1](http://arxiv.org/abs/2505.00546v1)|**2025-05-01**|null|
-|**2025-05-01**|**Test-time Correlation Alignment**|Linjing You et.al.|[2505.00533v1](http://arxiv.org/abs/2505.00533v1)|**2025-05-01**|null|
-|**2025-05-01**|**Signatures of three-dimensional photo-induced superconductivity in YBa$_2$Cu$_3$O$_{6.48}$**|M. Rosenberg et.al.|[2505.00514v1](http://arxiv.org/abs/2505.00514v1)|**2025-05-01**|null|
-|**2025-05-01**|**Self-Ablating Transformers: More Interpretability, Less Sparsity**|Jeremias Ferrao et.al.|[2505.00509v1](http://arxiv.org/abs/2505.00509v1)|**2025-05-01**|null|
-|**2025-05-01**|**Enhancing Tropical Cyclone Path Forecasting with an Improved Transformer Network**|Nguyen Van Thanh et.al.|[2505.00495v1](http://arxiv.org/abs/2505.00495v1)|**2025-05-01**|null|
-|**2025-05-01**|**JointDiT: Enhancing RGB-Depth Joint Modeling with Diffusion Transformers**|Kwon Byung-Ki et.al.|[2505.00482v1](http://arxiv.org/abs/2505.00482v1)|**2025-05-01**|null|
+|**2025-05-02**|**Towards Optimal Deterministic LOCAL Algorithms on Trees**|Sebastian Brandt et.al.|[2505.01410v1](http://arxiv.org/abs/2505.01410v1)|**2025-05-02**|null|
+|**2025-05-02**|**Potential Contrast: Properties, Equivalences, and Generalization to Multiple Classes**|Wallace Peaslee et.al.|[2505.01388v1](http://arxiv.org/abs/2505.01388v1)|**2025-05-02**|null|
+|**2025-05-02**|**Carbon Aware Transformers Through Joint Model-Hardware Optimization**|Irene Wang et.al.|[2505.01386v1](http://arxiv.org/abs/2505.01386v1)|**2025-05-02**|null|
+|**2025-05-02**|**Global Collinearity-aware Polygonizer for Polygonal Building Mapping in Remote Sensing**|Fahong Zhang et.al.|[2505.01385v1](http://arxiv.org/abs/2505.01385v1)|**2025-05-02**|null|
+|**2025-05-02**|**FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research**|Yan Miao et.al.|[2505.01383v1](http://arxiv.org/abs/2505.01383v1)|**2025-05-02**|null|
+|**2025-05-02**|**Classifying Radio-Loud and Radio-Quiet Quasars With Novel PCA Based Regression Classifier**|Ramkrishna Joshi et.al.|[2505.01335v1](http://arxiv.org/abs/2505.01335v1)|**2025-05-02**|null|
+|**2025-05-02**|**Efimov-like Quasi-Bound States in a 1D Self-Similar Delta-Barrier Array**|Jia-Chen Tang et.al.|[2505.01317v1](http://arxiv.org/abs/2505.01317v1)|**2025-05-02**|null|
+|**2025-05-02**|**A Transformer-based Neural Architecture Search Method**|Shang Wang et.al.|[2505.01314v1](http://arxiv.org/abs/2505.01314v1)|**2025-05-02**|null|
+|**2025-05-02**|**$η$ regularisation and the functional measure**|Robert G. C. Smith et.al.|[2505.01290v1](http://arxiv.org/abs/2505.01290v1)|**2025-05-02**|null|
+|**2025-05-02**|**2DXformer: Dual Transformers for Wind Power Forecasting with Dual Exogenous Variables**|Yajuan Zhang et.al.|[2505.01286v1](http://arxiv.org/abs/2505.01286v1)|**2025-05-02**|null|
+|**2025-05-02**|**Reduced-order structure-property linkages for stochastic metamaterials**|Hooman Danesh et.al.|[2505.01283v1](http://arxiv.org/abs/2505.01283v1)|**2025-05-02**|null|
+|**2025-05-02**|**Innermost stable circular orbit of arbitrary-mass compact binaries at fourth post-Newtonian order**|Luc Blanchet et.al.|[2505.01278v1](http://arxiv.org/abs/2505.01278v1)|**2025-05-02**|null|
+|**2025-05-02**|**Scoring-Assisted Generative Exploration for Proteins (SAGE-Prot): A Framework for Multi-Objective Protein Optimization via Iterative Sequence Generation and Evaluation**|Hocheol Lim et.al.|[2505.01277v1](http://arxiv.org/abs/2505.01277v1)|**2025-05-02**|null|
+|**2025-05-02**|**Verifying Parameterized Networks Specified by Vertex-Replacement Graph Grammars**|Radu Iosif et.al.|[2505.01269v1](http://arxiv.org/abs/2505.01269v1)|**2025-05-02**|null|
+|**2025-05-02**|**CAMELTrack: Context-Aware Multi-cue ExpLoitation for Online Multi-Object Tracking**|Vladimir Somers et.al.|[2505.01257v1](http://arxiv.org/abs/2505.01257v1)|**2025-05-02**|null|
+|**2025-05-02**|**Fusing Foveal Fixations Using Linear Retinal Transformations and Bayesian Experimental Design**|Christopher K. I. Williams et.al.|[2505.01249v1](http://arxiv.org/abs/2505.01249v1)|**2025-05-02**|null|
+|**2025-05-02**|**EvalxNLP: A Framework for Benchmarking Post-Hoc Explainability Methods on NLP Models**|Mahdi Dhaini et.al.|[2505.01238v1](http://arxiv.org/abs/2505.01238v1)|**2025-05-02**|null|
+|**2025-05-02**|**Robust Deep Learning-Based Physical Layer Communications: Strategies and Approaches**|Fenghao Zhu et.al.|[2505.01234v1](http://arxiv.org/abs/2505.01234v1)|**2025-05-02**|null|
+|**2025-05-02**|**Discovering Mechanistic Causality from Time Series: A Behavioral-System Approach**|Yingzhu Liu et.al.|[2505.01226v1](http://arxiv.org/abs/2505.01226v1)|**2025-05-02**|null|
+|**2025-05-02**|**One Target, Many Views: Multi-User Fusion for Collaborative Uplink ISAC**|Sajad Daei et.al.|[2505.01223v1](http://arxiv.org/abs/2505.01223v1)|**2025-05-02**|null|
+|**2025-05-02**|**A swap-based mixer for the TSP: theoretical considerations, implementation and experiments**|E. Bourreau et.al.|[2505.01214v1](http://arxiv.org/abs/2505.01214v1)|**2025-05-02**|null|
+|**2025-05-02**|**High Dynamic Range Novel View Synthesis with Single Exposure**|Kaixuan Zhang et.al.|[2505.01212v1](http://arxiv.org/abs/2505.01212v1)|**2025-05-02**|null|
+|**2025-05-02**|**Going deep and going wide: Counting logic and homomorphism indistinguishability over graphs of bounded treedepth and treewidth**|Isolde Adler et.al.|[2505.01193v1](http://arxiv.org/abs/2505.01193v1)|**2025-05-02**|null|
+|**2025-05-02**|**Continuous Aperture Array (CAPA)-Based Multi-Group Multicast Communications**|Mengyu Qian et.al.|[2505.01190v1](http://arxiv.org/abs/2505.01190v1)|**2025-05-02**|null|
+|**2025-05-02**|**Distilling Two-Timed Flow Models by Separately Matching Initial and Terminal Velocities**|Pramook Khungurn et.al.|[2505.01169v1](http://arxiv.org/abs/2505.01169v1)|**2025-05-02**|null|
+|**2025-05-02**|**On the Limitations of Steering in Language Model Alignment**|Chebrolu Niranjan et.al.|[2505.01162v1](http://arxiv.org/abs/2505.01162v1)|**2025-05-02**|null|
+|**2025-05-02**|**Snakes in the Plane: Controllable Gliders in a Nanomagnetic Metamaterial**|Arthur Penty et.al.|[2505.01116v1](http://arxiv.org/abs/2505.01116v1)|**2025-05-02**|null|
+|**2025-05-02**|**NeuroLoc: Encoding Navigation Cells for 6-DOF Camera Localization**|Xun Li et.al.|[2505.01113v1](http://arxiv.org/abs/2505.01113v1)|**2025-05-02**|null|
+|**2025-05-02**|**A Sequential Quadratic Hamiltonian-Based Estimation Method for Box-Cox Transformation Cure Model**|Phuong Bui et.al.|[2505.01097v1](http://arxiv.org/abs/2505.01097v1)|**2025-05-02**|null|
+|**2025-05-02**|**DexFlow: A Unified Approach for Dexterous Hand Pose Retargeting and Interaction**|Xiaoyi Lin et.al.|[2505.01083v1](http://arxiv.org/abs/2505.01083v1)|**2025-05-02**|null|

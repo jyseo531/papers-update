@@ -2,33 +2,33 @@
 ### Robotics
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-01**|**Robotic Visual Instruction**|Yanbang Li et.al.|[2505.00693v1](http://arxiv.org/abs/2505.00693v1)|**2025-05-01**|null|
-|**2025-05-01**|**Towards Autonomous Micromobility through Scalable Urban Simulation**|Wayne Wu et.al.|[2505.00690v1](http://arxiv.org/abs/2505.00690v1)|**2025-05-01**|null|
-|**2025-05-01**|**Multi-Constraint Safe Reinforcement Learning via Closed-form Solution for Log-Sum-Exp Approximation of Control Barrier Functions**|Chenggang Wang et.al.|[2505.00671v1](http://arxiv.org/abs/2505.00671v1)|**2025-05-01**|null|
-|**2025-05-01**|**GeoDEx: A Unified Geometric Framework for Tactile Dexterous and Extrinsic Manipulation under Force Uncertainty**|Sirui Chen et.al.|[2505.00647v1](http://arxiv.org/abs/2505.00647v1)|**2025-05-01**|null|
-|**2025-05-01**|**Forward kinematics of a general Stewart-Gough platform by elimination templates**|Evgeniy Martyushev et.al.|[2505.00634v1](http://arxiv.org/abs/2505.00634v1)|**2025-05-01**|[link](https://github.com/martyushev/fkSGP)|
-|**2025-05-01**|**Neural Network Verification for Gliding Drone Control: A Case Study**|Colin Kessler et.al.|[2505.00622v1](http://arxiv.org/abs/2505.00622v1)|**2025-05-01**|null|
-|**2025-05-01**|**A Finite-State Controller Based Offline Solver for Deterministic POMDPs**|Alex Schutz et.al.|[2505.00596v1](http://arxiv.org/abs/2505.00596v1)|**2025-05-01**|[link](https://github.com/ori-goals/DetMCVI)|
-|**2025-05-01**|**ParkDiffusion: Heterogeneous Multi-Agent Multi-Modal Trajectory Prediction for Automated Parking using Diffusion Models**|Jiarong Wei et.al.|[2505.00586v1](http://arxiv.org/abs/2505.00586v1)|**2025-05-01**|null|
-|**2025-05-01**|**TeLoGraF: Temporal Logic Planning via Graph-encoded Flow Matching**|Yue Meng et.al.|[2505.00562v1](http://arxiv.org/abs/2505.00562v1)|**2025-05-01**|null|
-|**2025-05-01**|**Emergence of Roles in Robotic Teams with Model Sharing and Limited Communication**|Ian O'Flynn et.al.|[2505.00540v1](http://arxiv.org/abs/2505.00540v1)|**2025-05-01**|null|
-|**2025-05-01**|**Moving through Cartesian products, coronas and joins in general position**|Sandi Klavžar et.al.|[2505.00535v1](http://arxiv.org/abs/2505.00535v1)|**2025-05-01**|null|
-|**2025-05-01**|**DeCo: Task Decomposition and Skill Composition for Zero-Shot Generalization in Long-Horizon 3D Manipulation**|Zixuan Chen et.al.|[2505.00527v1](http://arxiv.org/abs/2505.00527v1)|**2025-05-01**|null|
-|**2025-05-01**|**Safety-Critical Traffic Simulation with Guided Latent Diffusion Model**|Mingxing Peng et.al.|[2505.00515v1](http://arxiv.org/abs/2505.00515v1)|**2025-05-01**|null|
-|**2025-05-01**|**InterLoc: LiDAR-based Intersection Localization using Road Segmentation with Automated Evaluation Method**|Nguyen Hoang Khoi Tran et.al.|[2505.00512v2](http://arxiv.org/abs/2505.00512v2)|**2025-05-02**|null|
-|**2025-05-01**|**Variational OOD State Correction for Offline Reinforcement Learning**|Ke Jiang et.al.|[2505.00503v1](http://arxiv.org/abs/2505.00503v1)|**2025-05-01**|null|
-|**2025-05-01**|**Implicit Neural-Representation Learning for Elastic Deformable-Object Manipulations**|Minseok Song et.al.|[2505.00500v1](http://arxiv.org/abs/2505.00500v1)|**2025-05-01**|null|
-|**2025-05-01**|**Optimal Interactive Learning on the Job via Facility Location Planning**|Shivam Vats et.al.|[2505.00490v1](http://arxiv.org/abs/2505.00490v1)|**2025-05-01**|null|
-|**2025-05-01**|**MULE: Multi-terrain and Unknown Load Adaptation for Effective Quadrupedal Locomotion**|Vamshi Kumar Kurva et.al.|[2505.00488v1](http://arxiv.org/abs/2505.00488v1)|**2025-05-01**|null|
-|**2025-05-01**|**Decentralised, Self-Organising Drone Swarms using Coupled Oscillators**|Kevin Quinn et.al.|[2505.00442v1](http://arxiv.org/abs/2505.00442v1)|**2025-05-01**|null|
-|**2025-05-01**|**A Neural Network Mode for PX4 on Embedded Flight Controllers**|Sindre M. Hegre et.al.|[2505.00432v1](http://arxiv.org/abs/2505.00432v1)|**2025-05-01**|null|
-|**2025-05-01**|**Leveraging Pretrained Diffusion Models for Zero-Shot Part Assembly**|Ruiyuan Zhang et.al.|[2505.00426v1](http://arxiv.org/abs/2505.00426v1)|**2025-05-01**|null|
-|**2025-05-01**|**iMacSR: Intermediate Multi-Access Supervision and Regularization in Training Autonomous Driving Models**|Wei-Bin Kou et.al.|[2505.00404v1](http://arxiv.org/abs/2505.00404v1)|**2025-05-01**|null|
-|**2025-05-01**|**Holistic Optimization of Modular Robots**|Matthias Mayer et.al.|[2505.00400v1](http://arxiv.org/abs/2505.00400v1)|**2025-05-01**|null|
-|**2025-05-01**|**Urban Air Mobility as a System of Systems: An LLM-Enhanced Holonic Approach**|Ahmed R. Sadik et.al.|[2505.00368v1](http://arxiv.org/abs/2505.00368v1)|**2025-05-01**|null|
-|**2025-05-01**|**Multi-segment Soft Robot Control via Deep Koopman-based Model Predictive Control**|Lei Lv et.al.|[2505.00354v1](http://arxiv.org/abs/2505.00354v1)|**2025-05-01**|null|
-|**2025-05-01**|**Active Contact Engagement for Aerial Navigation in Unknown Environments with Glass**|Xinyi Chen et.al.|[2505.00332v1](http://arxiv.org/abs/2505.00332v1)|**2025-05-01**|null|
-|**2025-05-01**|**AI2-Active Safety: AI-enabled Interaction-aware Active Safety Analysis with Vehicle Dynamics**|Keshu Wu et.al.|[2505.00322v1](http://arxiv.org/abs/2505.00322v1)|**2025-05-01**|null|
-|**2025-05-01**|**FedEMA: Federated Exponential Moving Averaging with Negative Entropy Regularizer in Autonomous Driving**|Wei-Bin Kou et.al.|[2505.00318v1](http://arxiv.org/abs/2505.00318v1)|**2025-05-01**|null|
-|**2025-05-01**|**J-PARSE: Jacobian-based Projection Algorithm for Resolving Singularities Effectively in Inverse Kinematic Control of Serial Manipulators**|Shivani Guptasarma et.al.|[2505.00306v1](http://arxiv.org/abs/2505.00306v1)|**2025-05-01**|null|
-|**2025-05-01**|**LightEMMA: Lightweight End-to-End Multimodal Model for Autonomous Driving**|Zhijie Qiao et.al.|[2505.00284v1](http://arxiv.org/abs/2505.00284v1)|**2025-05-01**|null|
+|**2025-05-02**|**GENMO: A GENeralist Model for Human MOtion**|Jiefeng Li et.al.|[2505.01425v1](http://arxiv.org/abs/2505.01425v1)|**2025-05-02**|null|
+|**2025-05-02**|**Dynamic Robot Tool Use with Vision Language Models**|Noah Trupin et.al.|[2505.01399v1](http://arxiv.org/abs/2505.01399v1)|**2025-05-02**|null|
+|**2025-05-02**|**SIME: Enhancing Policy Self-Improvement with Modal-level Exploration**|Yang Jin et.al.|[2505.01396v1](http://arxiv.org/abs/2505.01396v1)|**2025-05-02**|null|
+|**2025-05-02**|**FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research**|Yan Miao et.al.|[2505.01383v1](http://arxiv.org/abs/2505.01383v1)|**2025-05-02**|null|
+|**2025-05-02**|**An Efficient Real-Time Planning Method for Swarm Robotics Based on an Optimal Virtual Tube**|Pengda Mao et.al.|[2505.01380v1](http://arxiv.org/abs/2505.01380v1)|**2025-05-02**|null|
+|**2025-05-02**|**Toward Teach and Repeat Across Seasonal Deep Snow Accumulation**|Matěj Boxan et.al.|[2505.01339v1](http://arxiv.org/abs/2505.01339v1)|**2025-05-02**|null|
+|**2025-05-02**|**Desired Impedance Allocation for Robotic Systems**|Mahdi Hejrati et.al.|[2505.01308v1](http://arxiv.org/abs/2505.01308v1)|**2025-05-02**|null|
+|**2025-05-02**|**ViSA-Flow: Accelerating Robot Skill Learning via Large-Scale Video Semantic Action Flow**|Changhe Chen et.al.|[2505.01288v1](http://arxiv.org/abs/2505.01288v1)|**2025-05-02**|null|
+|**2025-05-02**|**Fast Flow-based Visuomotor Policies via Conditional Optimal Transport Couplings**|Andreas Sochopoulos et.al.|[2505.01179v1](http://arxiv.org/abs/2505.01179v1)|**2025-05-02**|null|
+|**2025-05-02**|**NeuroLoc: Encoding Navigation Cells for 6-DOF Camera Localization**|Xun Li et.al.|[2505.01113v1](http://arxiv.org/abs/2505.01113v1)|**2025-05-02**|null|
+|**2025-05-02**|**DexFlow: A Unified Approach for Dexterous Hand Pose Retargeting and Interaction**|Xiaoyi Lin et.al.|[2505.01083v1](http://arxiv.org/abs/2505.01083v1)|**2025-05-02**|null|
+|**2025-05-02**|**Model Tensor Planning**|An T. Le et.al.|[2505.01059v1](http://arxiv.org/abs/2505.01059v1)|**2025-05-02**|[link](https://github.com/anindex/mtp)|
+|**2025-05-02**|**Tightly Coupled Range Inertial Odometry and Mapping with Exact Point Cloud Downsampling**|Kenji Koide et.al.|[2505.01017v1](http://arxiv.org/abs/2505.01017v1)|**2025-05-02**|null|
+|**2025-05-02**|**Optimizing Indoor Farm Monitoring Efficiency Using UAV: Yield Estimation in a GNSS-Denied Cherry Tomato Greenhouse**|Taewook Park et.al.|[2505.00995v1](http://arxiv.org/abs/2505.00995v1)|**2025-05-02**|null|
+|**2025-05-02**|**DexCtrl: Towards Sim-to-Real Dexterity with Adaptive Controller Learning**|Shuqi Zhao et.al.|[2505.00991v1](http://arxiv.org/abs/2505.00991v1)|**2025-05-02**|null|
+|**2025-05-02**|**LMDepth: Lightweight Mamba-based Monocular Depth Estimation for Real-World Deployment**|Jiahuan Long et.al.|[2505.00980v1](http://arxiv.org/abs/2505.00980v1)|**2025-05-02**|null|
+|**2025-05-02**|**Seeking to Collide: Online Safety-Critical Scenario Generation for Autonomous Driving with Retrieval Augmented Large Language Models**|Yuewen Mei et.al.|[2505.00972v1](http://arxiv.org/abs/2505.00972v1)|**2025-05-02**|null|
+|**2025-05-02**|**Real-time Two-tape Control System in Vine robots**|Hanmo Liu et.al.|[2505.00969v1](http://arxiv.org/abs/2505.00969v1)|**2025-05-02**|null|
+|**2025-05-02**|**Autonomous Embodied Agents: When Robotics Meets Deep Learning Reasoning**|Roberto Bigazzi et.al.|[2505.00935v1](http://arxiv.org/abs/2505.00935v1)|**2025-05-02**|null|
+|**2025-05-02**|**MARS: Defending Unmanned Aerial Vehicles From Attacks on Inertial Sensors with Model-based Anomaly Detection and Recovery**|Haocheng Meng et.al.|[2505.00924v1](http://arxiv.org/abs/2505.00924v1)|**2025-05-02**|null|
+|**2025-05-01**|**Optimal Design of a Walking Robot: Analytical, Numerical, and Machine Learning Methods for Multicriteria Synthesis**|Arman Ibrayeva et.al.|[2505.00923v1](http://arxiv.org/abs/2505.00923v1)|**2025-05-01**|null|
+|**2025-05-01**|**Learning Neural Control Barrier Functions from Offline Data with Conservatism**|Ihab Tabbara et.al.|[2505.00908v1](http://arxiv.org/abs/2505.00908v1)|**2025-05-01**|null|
+|**2025-05-01**|**Quantum Computing in Industrial Environments: Where Do We Stand and Where Are We Headed?**|Eneko Osaba et.al.|[2505.00891v1](http://arxiv.org/abs/2505.00891v1)|**2025-05-01**|null|
+|**2025-05-01**|**IK Seed Generator for Dual-Arm Human-like Physicality Robot with Mobile Base**|Jun Takamatsu et.al.|[2505.00871v1](http://arxiv.org/abs/2505.00871v1)|**2025-05-01**|null|
+|**2025-05-01**|**Fault-Tolerant Multi-Modal Localization of Multi-Robots on Matrix Lie Groups**|Mahboubeh Zarei et.al.|[2505.00842v1](http://arxiv.org/abs/2505.00842v1)|**2025-05-01**|null|
+|**2025-05-01**|**SmallPlan: Leverage Small Language Models for Sequential Path Planning with Simulation-Powered, LLM-Guided Distillation**|Quang P. M. Pham et.al.|[2505.00831v1](http://arxiv.org/abs/2505.00831v1)|**2025-05-01**|null|
+|**2025-05-01**|**Near-optimal Sensor Placement for Detecting Stochastic Target Trajectories in Barrier Coverage Systems**|Mingyu Kim et.al.|[2505.00825v1](http://arxiv.org/abs/2505.00825v1)|**2025-05-01**|null|
+|**2025-05-01**|**HMCF: A Human-in-the-loop Multi-Robot Collaboration Framework Based on Large Language Models**|Zhaoxing Li et.al.|[2505.00820v1](http://arxiv.org/abs/2505.00820v1)|**2025-05-01**|null|
+|**2025-05-01**|**Improved Approximation of Sensor Network Performance for Seabed Acoustic Sensors**|Mingyu Kim et.al.|[2505.00804v1](http://arxiv.org/abs/2505.00804v1)|**2025-05-01**|null|
+|**2025-05-01**|**Reconfigurable legged metamachines that run on autonomous modular legs**|Chen Yu et.al.|[2505.00784v1](http://arxiv.org/abs/2505.00784v1)|**2025-05-01**|null|

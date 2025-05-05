@@ -2,33 +2,33 @@
 ### Object Tracking
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-01**|**Robotic Visual Instruction**|Yanbang Li et.al.|[2505.00693v1](http://arxiv.org/abs/2505.00693v1)|**2025-05-01**|null|
-|**2025-05-01**|**Multi-wavelength JWST observations of (3200) Phaethon show a dehydrated object with an aqueously altered origin**|Cristina A. Thomas et.al.|[2505.00692v1](http://arxiv.org/abs/2505.00692v1)|**2025-05-01**|null|
-|**2025-05-01**|**Comma 2-comonad I: Eilenberg-Moore 2-category of colax coalgebras**|Igor Baković et.al.|[2505.00682v1](http://arxiv.org/abs/2505.00682v1)|**2025-05-01**|null|
-|**2025-05-01**|**Spectral-timing analysis of the kilohertz quasi-periodic oscillations and constraints on the mass of the neutron star in $4U 1636-536$ using AstroSat observations**|Suchismito Chattopadhyay et.al.|[2505.00676v1](http://arxiv.org/abs/2505.00676v1)|**2025-05-01**|null|
-|**2025-05-01**|**TumorTwin: A python framework for patient-specific digital twins in oncology**|Michael Kapteyn et.al.|[2505.00670v1](http://arxiv.org/abs/2505.00670v1)|**2025-05-01**|null|
-|**2025-05-01**|**Deep Reinforcement Learning for Urban Air Quality Management: Multi-Objective Optimization of Pollution Mitigation Booth Placement in Metropolitan Environments**|Kirtan Rajesh et.al.|[2505.00668v1](http://arxiv.org/abs/2505.00668v1)|**2025-05-01**|null|
-|**2025-05-01**|**Auditing without Leaks Despite Curiosity**|Hagit Attiya et.al.|[2505.00665v1](http://arxiv.org/abs/2505.00665v1)|**2025-05-01**|null|
-|**2025-05-01**|**OmicsCL: Unsupervised Contrastive Learning for Cancer Subtype Discovery and Survival Stratification**|Atahan Karagoz et.al.|[2505.00650v1](http://arxiv.org/abs/2505.00650v1)|**2025-05-01**|null|
-|**2025-05-01**|**GeoDEx: A Unified Geometric Framework for Tactile Dexterous and Extrinsic Manipulation under Force Uncertainty**|Sirui Chen et.al.|[2505.00647v1](http://arxiv.org/abs/2505.00647v1)|**2025-05-01**|null|
-|**2025-05-01**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630v1](http://arxiv.org/abs/2505.00630v1)|**2025-05-01**|null|
-|**2025-05-01**|**Wavefront errors in two-wavelength adaptive optics systems**|Milo W. Hyde IV et.al.|[2505.00609v1](http://arxiv.org/abs/2505.00609v1)|**2025-05-01**|null|
-|**2025-05-01**|**Dietary Intake Estimation via Continuous 3D Reconstruction of Food**|Wallace Lee et.al.|[2505.00606v1](http://arxiv.org/abs/2505.00606v1)|**2025-05-01**|null|
-|**2025-05-01**|**Visual Trajectory Prediction of Vessels for Inland Navigation**|Alexander Puzicha et.al.|[2505.00599v1](http://arxiv.org/abs/2505.00599v1)|**2025-05-01**|null|
-|**2025-05-01**|**Explainable AI in Spatial Analysis**|Ziqi Li et.al.|[2505.00591v1](http://arxiv.org/abs/2505.00591v1)|**2025-05-01**|null|
-|**2025-05-01**|**Synthesizing and Identifying Noise Levels in Autonomous Vehicle Camera Radar Datasets**|Mathis Morales et.al.|[2505.00584v1](http://arxiv.org/abs/2505.00584v1)|**2025-05-01**|null|
-|**2025-05-01**|**A Bioinformatic Study of Genetics Involved in Determining Mild Traumatic Brain Injury Severity and Recovery**|Mahnaz Tajik et.al.|[2505.00572v1](http://arxiv.org/abs/2505.00572v1)|**2025-05-01**|null|
-|**2025-05-01**|**X-ray illicit object detection using hybrid CNN-transformer neural network architectures**|Jorgen Cani et.al.|[2505.00564v1](http://arxiv.org/abs/2505.00564v1)|**2025-05-01**|null|
-|**2025-05-01**|**The Jackknife method as a new approach to validate strong lens mass models**|Shun Nishida et.al.|[2505.00553v1](http://arxiv.org/abs/2505.00553v1)|**2025-05-01**|null|
-|**2025-05-01**|**Sum Rate Maximization for NOMA-Assisted Uplink Pinching-Antenna Systems**|Ming Zeng et.al.|[2505.00549v1](http://arxiv.org/abs/2505.00549v1)|**2025-05-01**|null|
-|**2025-05-01**|**Ground Orthogonal Arrays and Their Applications**|Guangzhou Chen et.al.|[2505.00536v1](http://arxiv.org/abs/2505.00536v1)|**2025-05-01**|null|
-|**2025-05-01**|**A Robust Deep Networks based Multi-Object MultiCamera Tracking System for City Scale Traffic**|Muhammad Imran Zaman et.al.|[2505.00534v1](http://arxiv.org/abs/2505.00534v1)|**2025-05-01**|null|
-|**2025-05-01**|**DeCo: Task Decomposition and Skill Composition for Zero-Shot Generalization in Long-Horizon 3D Manipulation**|Zixuan Chen et.al.|[2505.00527v1](http://arxiv.org/abs/2505.00527v1)|**2025-05-01**|null|
-|**2025-05-01**|**Safety-Critical Traffic Simulation with Guided Latent Diffusion Model**|Mingxing Peng et.al.|[2505.00515v1](http://arxiv.org/abs/2505.00515v1)|**2025-05-01**|null|
-|**2025-05-01**|**Inconsistency-based Active Learning for LiDAR Object Detection**|Esteban Rivera et.al.|[2505.00511v1](http://arxiv.org/abs/2505.00511v1)|**2025-05-01**|null|
-|**2025-05-01**|**HeAL3D: Heuristical-enhanced Active Learning for 3D Object Detection**|Esteban Rivera et.al.|[2505.00507v1](http://arxiv.org/abs/2505.00507v1)|**2025-05-01**|null|
-|**2025-05-01**|**Variational OOD State Correction for Offline Reinforcement Learning**|Ke Jiang et.al.|[2505.00503v1](http://arxiv.org/abs/2505.00503v1)|**2025-05-01**|null|
-|**2025-05-01**|**Implicit Neural-Representation Learning for Elastic Deformable-Object Manipulations**|Minseok Song et.al.|[2505.00500v1](http://arxiv.org/abs/2505.00500v1)|**2025-05-01**|null|
-|**2025-05-01**|**Can We Probe Spacetime Non-commutativity Through Tidal Deformability of Compact Objects?**|Junting Peng et.al.|[2505.00498v1](http://arxiv.org/abs/2505.00498v1)|**2025-05-01**|null|
-|**2025-05-01**|**Out of the Loop Again: How Dangerous is Weaponizing Automated Nuclear Systems?**|Joshua A. Schwartz et.al.|[2505.00496v1](http://arxiv.org/abs/2505.00496v1)|**2025-05-01**|null|
-|**2025-05-01**|**MULE: Multi-terrain and Unknown Load Adaptation for Effective Quadrupedal Locomotion**|Vamshi Kumar Kurva et.al.|[2505.00488v1](http://arxiv.org/abs/2505.00488v1)|**2025-05-01**|null|
+|**2025-05-02**|**GENMO: A GENeralist Model for Human MOtion**|Jiefeng Li et.al.|[2505.01425v1](http://arxiv.org/abs/2505.01425v1)|**2025-05-02**|null|
+|**2025-05-02**|**Evaluating Frontier Models for Stealth and Situational Awareness**|Mary Phuong et.al.|[2505.01420v1](http://arxiv.org/abs/2505.01420v1)|**2025-05-02**|null|
+|**2025-05-02**|**Timely Tracking of a Wiener Process With Single Bit Quantization**|Osmail Cosandal et.al.|[2505.01419v1](http://arxiv.org/abs/2505.01419v1)|**2025-05-02**|null|
+|**2025-05-02**|**Group Gaze-Sharing with Projection Displays**|Maurice Koch et.al.|[2505.01413v1](http://arxiv.org/abs/2505.01413v1)|**2025-05-02**|null|
+|**2025-05-02**|**Dynamic Robot Tool Use with Vision Language Models**|Noah Trupin et.al.|[2505.01399v1](http://arxiv.org/abs/2505.01399v1)|**2025-05-02**|null|
+|**2025-05-02**|**Gray products of diagrammatic $(\infty, n)$-categories**|Clémence Chanavat et.al.|[2505.01387v1](http://arxiv.org/abs/2505.01387v1)|**2025-05-02**|null|
+|**2025-05-02**|**Global Collinearity-aware Polygonizer for Polygonal Building Mapping in Remote Sensing**|Fahong Zhang et.al.|[2505.01385v1](http://arxiv.org/abs/2505.01385v1)|**2025-05-02**|null|
+|**2025-05-02**|**On the self-consistency of compact objects in Lorentz-violating gravity theories**|Leandro A. Lessa et.al.|[2505.01374v1](http://arxiv.org/abs/2505.01374v1)|**2025-05-02**|null|
+|**2025-05-02**|**Engineering CSS surgery: a fault-tolerant CNOT for any CSS codes**|Clément Poirson et.al.|[2505.01370v1](http://arxiv.org/abs/2505.01370v1)|**2025-05-02**|null|
+|**2025-05-02**|**Binamix -- A Python Library for Generating Binaural Audio Datasets**|Dan Barry et.al.|[2505.01369v1](http://arxiv.org/abs/2505.01369v1)|**2025-05-02**|null|
+|**2025-05-02**|**Spin Precession in magnetized Kerr spacetime**|Karthik Iyer et.al.|[2505.01367v1](http://arxiv.org/abs/2505.01367v1)|**2025-05-02**|null|
+|**2025-05-02**|**The Morse complex is an $\infty$-functor**|Guillem Cazassus et.al.|[2505.01362v1](http://arxiv.org/abs/2505.01362v1)|**2025-05-02**|null|
+|**2025-05-02**|**Gravitational Wave Memory of Primordial Black Hole Mergers**|Silvia Gasparotto et.al.|[2505.01356v1](http://arxiv.org/abs/2505.01356v1)|**2025-05-02**|null|
+|**2025-05-02**|**Diffusivity of the Lorentz mirror walk in high dimensions**|Dor Elboim et.al.|[2505.01341v1](http://arxiv.org/abs/2505.01341v1)|**2025-05-02**|null|
+|**2025-05-02**|**Toward Teach and Repeat Across Seasonal Deep Snow Accumulation**|Matěj Boxan et.al.|[2505.01339v1](http://arxiv.org/abs/2505.01339v1)|**2025-05-02**|null|
+|**2025-05-02**|**Integration of Multi-Mode Preference into Home Energy Management System Using Deep Reinforcement Learning**|Mohammed Sumayli et.al.|[2505.01332v1](http://arxiv.org/abs/2505.01332v1)|**2025-05-02**|null|
+|**2025-05-02**|**Proven Approximation Guarantees in Multi-Objective Optimization: SPEA2 Beats NSGA-II**|Yasser Alghouass et.al.|[2505.01323v1](http://arxiv.org/abs/2505.01323v1)|**2025-05-02**|null|
+|**2025-05-02**|**FreeInsert: Disentangled Text-Guided Object Insertion in 3D Gaussian Scene without Spatial Priors**|Chenxi Li et.al.|[2505.01322v1](http://arxiv.org/abs/2505.01322v1)|**2025-05-02**|null|
+|**2025-05-02**|**A Transformer-based Neural Architecture Search Method**|Shang Wang et.al.|[2505.01314v1](http://arxiv.org/abs/2505.01314v1)|**2025-05-02**|null|
+|**2025-05-02**|**A Neural Architecture Search Method using Auxiliary Evaluation Metric based on ResNet Architecture**|Shang Wang et.al.|[2505.01313v1](http://arxiv.org/abs/2505.01313v1)|**2025-05-02**|null|
+|**2025-05-02**|**Desired Impedance Allocation for Robotic Systems**|Mahdi Hejrati et.al.|[2505.01308v1](http://arxiv.org/abs/2505.01308v1)|**2025-05-02**|null|
+|**2025-05-02**|**Pattern formation using an intrinsic optimal control approach**|Tianhao Li et.al.|[2505.01302v1](http://arxiv.org/abs/2505.01302v1)|**2025-05-02**|null|
+|**2025-05-02**|**ViSA-Flow: Accelerating Robot Skill Learning via Large-Scale Video Semantic Action Flow**|Changhe Chen et.al.|[2505.01288v1](http://arxiv.org/abs/2505.01288v1)|**2025-05-02**|null|
+|**2025-05-02**|**Scoring-Assisted Generative Exploration for Proteins (SAGE-Prot): A Framework for Multi-Objective Protein Optimization via Iterative Sequence Generation and Evaluation**|Hocheol Lim et.al.|[2505.01277v1](http://arxiv.org/abs/2505.01277v1)|**2025-05-02**|null|
+|**2025-05-02**|**Tight Runtime Guarantees From Understanding the Population Dynamics of the GSEMO Multi-Objective Evolutionary Algorithm**|Benjamin Doerr et.al.|[2505.01266v1](http://arxiv.org/abs/2505.01266v1)|**2025-05-02**|null|
+|**2025-05-02**|**CAMELTrack: Context-Aware Multi-cue ExpLoitation for Online Multi-Object Tracking**|Vladimir Somers et.al.|[2505.01257v1](http://arxiv.org/abs/2505.01257v1)|**2025-05-02**|null|
+|**2025-05-02**|**A First Runtime Analysis of NSGA-III on a Many-Objective Multimodal Problem: Provable Exponential Speedup via Stochastic Population Update**|Andre Opris et.al.|[2505.01256v1](http://arxiv.org/abs/2505.01256v1)|**2025-05-02**|null|
+|**2025-05-02**|**CAV-MAE Sync: Improving Contrastive Audio-Visual Mask Autoencoders via Fine-Grained Alignment**|Edson Araujo et.al.|[2505.01237v1](http://arxiv.org/abs/2505.01237v1)|**2025-05-02**|null|
+|**2025-05-02**|**Ind-cluster algebras and infinite Grassmannians**|Sira Gratz et.al.|[2505.01228v1](http://arxiv.org/abs/2505.01228v1)|**2025-05-02**|null|
+|**2025-05-02**|**RD-UIE: Relation-Driven State Space Modeling for Underwater Image Enhancement**|Kui Jiang et.al.|[2505.01224v1](http://arxiv.org/abs/2505.01224v1)|**2025-05-02**|null|

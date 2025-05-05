@@ -2,33 +2,33 @@
 ### Instance Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-01**|**Robotic Visual Instruction**|Yanbang Li et.al.|[2505.00693v1](http://arxiv.org/abs/2505.00693v1)|**2025-05-01**|null|
-|**2025-05-01**|**Generalized Kac-Paljutkin algebras**|Christian Lomp et.al.|[2505.00645v1](http://arxiv.org/abs/2505.00645v1)|**2025-05-01**|null|
-|**2025-05-01**|**Bayes-Optimal Fair Classification with Multiple Sensitive Features**|Yi Yang et.al.|[2505.00631v1](http://arxiv.org/abs/2505.00631v1)|**2025-05-01**|null|
-|**2025-05-01**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630v1](http://arxiv.org/abs/2505.00630v1)|**2025-05-01**|null|
-|**2025-05-01**|**Brain Foundation Models with Hypergraph Dynamic Adapter for Brain Disease Analysis**|Zhongying Deng et.al.|[2505.00627v1](http://arxiv.org/abs/2505.00627v1)|**2025-05-01**|null|
-|**2025-05-01**|**A Novel Feature-Aware Chaotic Image Encryption Scheme For Data Security and Privacy in IoT and Edge Networks**|Muhammad Shahbaz Khan et.al.|[2505.00593v1](http://arxiv.org/abs/2505.00593v1)|**2025-05-01**|null|
-|**2025-05-01**|**AI-Driven High-Resolution Cell Segmentation and Quantitative Analysis**|Shuang Zhang et.al.|[2505.00578v1](http://arxiv.org/abs/2505.00578v1)|**2025-05-01**|null|
-|**2025-05-01**|**Learning to Learn with Quantum Optimization via Quantum Neural Networks**|Kuan-Cheng Chen et.al.|[2505.00561v1](http://arxiv.org/abs/2505.00561v1)|**2025-05-01**|null|
-|**2025-05-01**|**Efficient Recommendation with Millions of Items by Dynamic Pruning of Sub-Item Embeddings**|Aleksandr V. Petrov et.al.|[2505.00560v1](http://arxiv.org/abs/2505.00560v1)|**2025-05-01**|null|
-|**2025-05-01**|**Two-Qubit Gate Synthesis via Linear Programming for Heterogeneous Instruction Sets**|Evan McKinney et.al.|[2505.00543v1](http://arxiv.org/abs/2505.00543v1)|**2025-05-01**|null|
-|**2025-05-01**|**Test-time Correlation Alignment**|Linjing You et.al.|[2505.00533v1](http://arxiv.org/abs/2505.00533v1)|**2025-05-01**|null|
-|**2025-05-01**|**InterLoc: LiDAR-based Intersection Localization using Road Segmentation with Automated Evaluation Method**|Nguyen Hoang Khoi Tran et.al.|[2505.00512v2](http://arxiv.org/abs/2505.00512v2)|**2025-05-02**|null|
-|**2025-05-01**|**Generically trivial torsors under constant groups**|Alexis Bouthier et.al.|[2505.00505v1](http://arxiv.org/abs/2505.00505v1)|**2025-05-01**|null|
-|**2025-05-01**|**Distributed Retrieval-Augmented Generation**|Chenhao Xu et.al.|[2505.00443v1](http://arxiv.org/abs/2505.00443v1)|**2025-05-01**|null|
-|**2025-05-01**|**Per-Domain Generalizing Policies: On Validation Instances and Scaling Behavior**|Timo P. Gros et.al.|[2505.00439v1](http://arxiv.org/abs/2505.00439v1)|**2025-05-01**|null|
-|**2025-05-01**|**iMacSR: Intermediate Multi-Access Supervision and Regularization in Training Autonomous Driving Models**|Wei-Bin Kou et.al.|[2505.00404v1](http://arxiv.org/abs/2505.00404v1)|**2025-05-01**|null|
-|**2025-05-01**|**Characterizing the embedded states of a fluorescent probe within a lipid bilayer using molecular dynamics simulations**|Ryo Okabe et.al.|[2505.00403v2](http://arxiv.org/abs/2505.00403v2)|**2025-05-02**|null|
-|**2025-05-01**|**Cues3D: Unleashing the Power of Sole NeRF for Consistent and Unique Instances in Open-Vocabulary 3D Panoptic Segmentation**|Feng Xue et.al.|[2505.00378v1](http://arxiv.org/abs/2505.00378v1)|**2025-05-01**|null|
-|**2025-05-01**|**Automated segmenta-on of pediatric neuroblastoma on multi-modal MRI: Results of the SPPIN challenge at MICCAI 2023**|M. A. D. Buser et.al.|[2505.00369v1](http://arxiv.org/abs/2505.00369v1)|**2025-05-01**|null|
-|**2025-05-01**|**KoACD: The First Korean Adolescent Dataset for Cognitive Distortion Analysis**|JunSeo Kim et.al.|[2505.00367v1](http://arxiv.org/abs/2505.00367v1)|**2025-05-01**|null|
-|**2025-05-01**|**Multi-segment Soft Robot Control via Deep Koopman-based Model Predictive Control**|Lei Lv et.al.|[2505.00354v1](http://arxiv.org/abs/2505.00354v1)|**2025-05-01**|null|
-|**2025-05-01**|**Quaternion Wavelet-Conditioned Diffusion Models for Image Super-Resolution**|Luigi Sigillo et.al.|[2505.00334v1](http://arxiv.org/abs/2505.00334v1)|**2025-05-01**|null|
-|**2025-05-01**|**Surrogate modeling of Cellular-Potts Agent-Based Models as a segmentation task using the U-Net neural network architecture**|Tien Comlekoglu et.al.|[2505.00316v1](http://arxiv.org/abs/2505.00316v1)|**2025-05-01**|null|
-|**2025-05-01**|**AWARE-NET: Adaptive Weighted Averaging for Robust Ensemble Network in Deepfake Detection**|Muhammad Salman et.al.|[2505.00312v1](http://arxiv.org/abs/2505.00312v1)|**2025-05-01**|[link](https://github.com/recluzegeek/AWARE-NET)|
-|**2025-05-01**|**AI-Assisted Decision-Making for Clinical Assessment of Auto-Segmented Contour Quality**|Biling Wang et.al.|[2505.00308v1](http://arxiv.org/abs/2505.00308v1)|**2025-05-01**|null|
-|**2025-05-01**|**Fine-grained spatial-temporal perception for gas leak segmentation**|Xinlong Zhao et.al.|[2505.00295v1](http://arxiv.org/abs/2505.00295v1)|**2025-05-01**|null|
-|**2025-05-01**|**Weighted-Scenario Optimisation for the Chance Constrained Travelling Thief Problem**|Thilina Pathirage Don et.al.|[2505.00269v1](http://arxiv.org/abs/2505.00269v1)|**2025-05-01**|null|
-|**2025-05-01**|**Wilson polygons and the topology of zero-dimensional systems**|Gen Yin et.al.|[2505.00226v1](http://arxiv.org/abs/2505.00226v1)|**2025-05-01**|null|
-|**2025-04-30**|**The Planted Orthogonal Vectors Problem**|David Kühnemann et.al.|[2505.00206v1](http://arxiv.org/abs/2505.00206v1)|**2025-04-30**|null|
-|**2025-04-30**|**Neuroevolution of Self-Attention Over Proto-Objects**|Rafael C. Pinto et.al.|[2505.00186v1](http://arxiv.org/abs/2505.00186v1)|**2025-04-30**|null|
+|**2025-05-02**|**Towards Optimal Deterministic LOCAL Algorithms on Trees**|Sebastian Brandt et.al.|[2505.01410v1](http://arxiv.org/abs/2505.01410v1)|**2025-05-02**|null|
+|**2025-05-02**|**Carbon fiber damage evolution under flame attack and the role of impurities**|Pablo Chavez-Gomez et.al.|[2505.01408v1](http://arxiv.org/abs/2505.01408v1)|**2025-05-02**|null|
+|**2025-05-02**|**VIDSTAMP: A Temporally-Aware Watermark for Ownership and Integrity in Video Diffusion Models**|Mohammadreza Teymoorianfard et.al.|[2505.01406v1](http://arxiv.org/abs/2505.01406v1)|**2025-05-02**|null|
+|**2025-05-02**|**SIME: Enhancing Policy Self-Improvement with Modal-level Exploration**|Yang Jin et.al.|[2505.01396v1](http://arxiv.org/abs/2505.01396v1)|**2025-05-02**|null|
+|**2025-05-02**|**Global Collinearity-aware Polygonizer for Polygonal Building Mapping in Remote Sensing**|Fahong Zhang et.al.|[2505.01385v1](http://arxiv.org/abs/2505.01385v1)|**2025-05-02**|null|
+|**2025-05-02**|**Monitoring morphometric drift in lifelong learning segmentation of the spinal cord**|Enamundram Naga Karthik et.al.|[2505.01364v1](http://arxiv.org/abs/2505.01364v1)|**2025-05-02**|null|
+|**2025-05-02**|**S-SYNC: Shuttle and Swap Co-Optimization in Quantum Charge-Coupled Devices**|Chenghong Zhu et.al.|[2505.01316v1](http://arxiv.org/abs/2505.01316v1)|**2025-05-02**|null|
+|**2025-05-02**|**Can Foundation Models Really Segment Tumors? A Benchmarking Odyssey in Lung CT Imaging**|Elena Mulero Ayllón et.al.|[2505.01239v1](http://arxiv.org/abs/2505.01239v1)|**2025-05-02**|null|
+|**2025-05-02**|**Core-Set Selection for Data-efficient Land Cover Segmentation**|Keiller Nogueira et.al.|[2505.01225v1](http://arxiv.org/abs/2505.01225v1)|**2025-05-02**|null|
+|**2025-05-02**|**A swap-based mixer for the TSP: theoretical considerations, implementation and experiments**|E. Bourreau et.al.|[2505.01214v1](http://arxiv.org/abs/2505.01214v1)|**2025-05-02**|null|
+|**2025-05-02**|**Joint Modelling of Line and Point Data on Metric Graphs**|Karina Lilleborge et.al.|[2505.01175v1](http://arxiv.org/abs/2505.01175v1)|**2025-05-02**|null|
+|**2025-05-02**|**CppSATD: A Reusable Self-Admitted Technical Debt Dataset in C++**|Phuoc Pham et.al.|[2505.01136v1](http://arxiv.org/abs/2505.01136v1)|**2025-05-02**|null|
+|**2025-05-02**|**Learning Low-Dimensional Embeddings for Black-Box Optimization**|Riccardo Busetto et.al.|[2505.01112v1](http://arxiv.org/abs/2505.01112v1)|**2025-05-02**|null|
+|**2025-05-02**|**Self-Supervision Enhances Instance-based Multiple Instance Learning Methods in Digital Pathology: A Benchmark Study**|Ali Mammadov et.al.|[2505.01109v1](http://arxiv.org/abs/2505.01109v1)|**2025-05-02**|null|
+|**2025-05-02**|**VSC: Visual Search Compositional Text-to-Image Diffusion Model**|Do Huu Dat et.al.|[2505.01104v1](http://arxiv.org/abs/2505.01104v1)|**2025-05-02**|null|
+|**2025-05-02**|**Instrumentation prospects for rocky exoplanet atmospheres studies with high resolution spectroscopy**|Surangkhana Rukdee et.al.|[2505.01102v1](http://arxiv.org/abs/2505.01102v1)|**2025-05-02**|null|
+|**2025-05-02**|**Screening Cut Generation for Sparse Ridge Regression**|Haozhe Tan et.al.|[2505.01082v1](http://arxiv.org/abs/2505.01082v1)|**2025-05-02**|null|
+|**2025-05-02**|**Improving Group Fairness in Knowledge Distillation via Laplace Approximation of Early Exits**|Edvin Fasth et.al.|[2505.01070v1](http://arxiv.org/abs/2505.01070v1)|**2025-05-02**|null|
+|**2025-05-02**|**GeloVec: Higher Dimensional Geometric Smoothing for Coherent Visual Feature Extraction in Image Segmentation**|Boris Kriuk et.al.|[2505.01057v1](http://arxiv.org/abs/2505.01057v1)|**2025-05-02**|null|
+|**2025-05-02**|**Audio Personas: Augmenting Social Perception via Body-Anchored Audio Cues**|Yujie Tao et.al.|[2505.00956v1](http://arxiv.org/abs/2505.00956v1)|**2025-05-02**|null|
+|**2025-05-02**|**CDFormer: Cross-Domain Few-Shot Object Detection Transformer Against Feature Confusion**|Boyuan Meng et.al.|[2505.00938v1](http://arxiv.org/abs/2505.00938v1)|**2025-05-02**|null|
+|**2025-05-02**|**Compact Recurrent Transformer with Persistent Memory**|Edison Mucllari et.al.|[2505.00929v1](http://arxiv.org/abs/2505.00929v1)|**2025-05-02**|null|
+|**2025-05-01**|**Lower Bounds for Non-adaptive Local Computation Algorithms**|Amir Azarmehr et.al.|[2505.00915v1](http://arxiv.org/abs/2505.00915v1)|**2025-05-01**|null|
+|**2025-05-01**|**Rigidity of polytopes with edge length and coplanarity constraints**|Matthias Himmelmann et.al.|[2505.00874v1](http://arxiv.org/abs/2505.00874v1)|**2025-05-01**|null|
+|**2025-05-01**|**Duality on the Thermodynamics of the Kirchhoff-Law-Johnson-Noise (KLJN) Secure Key Exchange Scheme**|Sarah Flanery et.al.|[2505.00858v1](http://arxiv.org/abs/2505.00858v1)|**2025-05-01**|null|
+|**2025-05-01**|**SeLR: Sparsity-enhanced Lagrangian Relaxation for Computation Offloading at the Edge**|Negar Erfaniantaghvayi et.al.|[2505.00848v1](http://arxiv.org/abs/2505.00848v1)|**2025-05-01**|null|
+|**2025-05-01**|**A High-resolution, Inversion-Based Synoptic Study of Solar Granulation**|James Crowley et.al.|[2505.00826v1](http://arxiv.org/abs/2505.00826v1)|**2025-05-01**|null|
+|**2025-05-01**|**Handling Label Noise via Instance-Level Difficulty Modeling and Dynamic Optimization**|Kuan Zhang et.al.|[2505.00812v1](http://arxiv.org/abs/2505.00812v1)|**2025-05-01**|null|
+|**2025-05-01**|**To Repair or Not to Repair? Investigating the Importance of AB-Cycles for the State-of-the-Art TSP Heuristic EAX**|Jonathan Heins et.al.|[2505.00803v1](http://arxiv.org/abs/2505.00803v1)|**2025-05-01**|null|
+|**2025-05-01**|**$L^2$ extension of holomorphic functions and log canonical places**|Dano Kim et.al.|[2505.00801v1](http://arxiv.org/abs/2505.00801v1)|**2025-05-01**|null|

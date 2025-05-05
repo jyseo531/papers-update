@@ -2,33 +2,33 @@
 ### Semantic Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-01**|**T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT**|Dongzhi Jiang et.al.|[2505.00703v1](http://arxiv.org/abs/2505.00703v1)|**2025-05-01**|null|
-|**2025-05-01**|**Auditing without Leaks Despite Curiosity**|Hagit Attiya et.al.|[2505.00665v1](http://arxiv.org/abs/2505.00665v1)|**2025-05-01**|null|
-|**2025-05-01**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630v1](http://arxiv.org/abs/2505.00630v1)|**2025-05-01**|null|
-|**2025-05-01**|**Brain Foundation Models with Hypergraph Dynamic Adapter for Brain Disease Analysis**|Zhongying Deng et.al.|[2505.00627v1](http://arxiv.org/abs/2505.00627v1)|**2025-05-01**|null|
-|**2025-05-01**|**Diverse Semantics-Guided Feature Alignment and Decoupling for Visible-Infrared Person Re-Identification**|Neng Dong et.al.|[2505.00619v1](http://arxiv.org/abs/2505.00619v1)|**2025-05-01**|null|
-|**2025-05-01**|**A Novel Feature-Aware Chaotic Image Encryption Scheme For Data Security and Privacy in IoT and Edge Networks**|Muhammad Shahbaz Khan et.al.|[2505.00593v1](http://arxiv.org/abs/2505.00593v1)|**2025-05-01**|null|
-|**2025-05-01**|**Unlocking the Potential of Linear Networks for Irregular Multivariate Time Series Forecasting**|Chengsen Wang et.al.|[2505.00590v1](http://arxiv.org/abs/2505.00590v1)|**2025-05-01**|null|
-|**2025-05-01**|**ParkDiffusion: Heterogeneous Multi-Agent Multi-Modal Trajectory Prediction for Automated Parking using Diffusion Models**|Jiarong Wei et.al.|[2505.00586v1](http://arxiv.org/abs/2505.00586v1)|**2025-05-01**|null|
-|**2025-05-01**|**AI-Driven High-Resolution Cell Segmentation and Quantitative Analysis**|Shuang Zhang et.al.|[2505.00578v1](http://arxiv.org/abs/2505.00578v1)|**2025-05-01**|null|
-|**2025-05-01**|**Triggering Hallucinations in LLMs: A Quantitative Study of Prompt-Induced Hallucination in Large Language Models**|Makoto Sato et.al.|[2505.00557v1](http://arxiv.org/abs/2505.00557v1)|**2025-05-01**|null|
-|**2025-05-01**|**Two-Qubit Gate Synthesis via Linear Programming for Heterogeneous Instruction Sets**|Evan McKinney et.al.|[2505.00543v1](http://arxiv.org/abs/2505.00543v1)|**2025-05-01**|null|
-|**2025-05-01**|**InterLoc: LiDAR-based Intersection Localization using Road Segmentation with Automated Evaluation Method**|Nguyen Hoang Khoi Tran et.al.|[2505.00512v2](http://arxiv.org/abs/2505.00512v2)|**2025-05-02**|null|
-|**2025-05-01**|**An approach for modularly verifying the core of Rust's atomic reference counting algorithm against the (X)C20 memory consistency model**|Bart Jacobs et.al.|[2505.00449v2](http://arxiv.org/abs/2505.00449v2)|**2025-05-02**|null|
-|**2025-05-01**|**iMacSR: Intermediate Multi-Access Supervision and Regularization in Training Autonomous Driving Models**|Wei-Bin Kou et.al.|[2505.00404v1](http://arxiv.org/abs/2505.00404v1)|**2025-05-01**|null|
-|**2025-05-01**|**S3AND: Efficient Subgraph Similarity Search Under Aggregated Neighbor Difference Semantics (Technical Report)**|Qi Wen et.al.|[2505.00393v1](http://arxiv.org/abs/2505.00393v1)|**2025-05-01**|null|
-|**2025-05-01**|**CSE-SFP: Enabling Unsupervised Sentence Representation Learning via a Single Forward Pass**|Bowen Zhang et.al.|[2505.00389v1](http://arxiv.org/abs/2505.00389v1)|**2025-05-01**|null|
-|**2025-05-01**|**Cues3D: Unleashing the Power of Sole NeRF for Consistent and Unique Instances in Open-Vocabulary 3D Panoptic Segmentation**|Feng Xue et.al.|[2505.00378v1](http://arxiv.org/abs/2505.00378v1)|**2025-05-01**|null|
-|**2025-05-01**|**Automated segmenta-on of pediatric neuroblastoma on multi-modal MRI: Results of the SPPIN challenge at MICCAI 2023**|M. A. D. Buser et.al.|[2505.00369v1](http://arxiv.org/abs/2505.00369v1)|**2025-05-01**|null|
-|**2025-05-01**|**R&B: Domain Regrouping and Data Mixture Balancing for Efficient Foundation Model Training**|Albert Ge et.al.|[2505.00358v1](http://arxiv.org/abs/2505.00358v1)|**2025-05-01**|null|
-|**2025-05-01**|**Multi-segment Soft Robot Control via Deep Koopman-based Model Predictive Control**|Lei Lv et.al.|[2505.00354v1](http://arxiv.org/abs/2505.00354v1)|**2025-05-01**|null|
-|**2025-05-01**|**Quaternion Wavelet-Conditioned Diffusion Models for Image Super-Resolution**|Luigi Sigillo et.al.|[2505.00334v1](http://arxiv.org/abs/2505.00334v1)|**2025-05-01**|null|
-|**2025-05-01**|**FedEMA: Federated Exponential Moving Averaging with Negative Entropy Regularizer in Autonomous Driving**|Wei-Bin Kou et.al.|[2505.00318v1](http://arxiv.org/abs/2505.00318v1)|**2025-05-01**|null|
-|**2025-05-01**|**Surrogate modeling of Cellular-Potts Agent-Based Models as a segmentation task using the U-Net neural network architecture**|Tien Comlekoglu et.al.|[2505.00316v1](http://arxiv.org/abs/2505.00316v1)|**2025-05-01**|null|
-|**2025-05-01**|**AI-Assisted Decision-Making for Clinical Assessment of Auto-Segmented Contour Quality**|Biling Wang et.al.|[2505.00308v1](http://arxiv.org/abs/2505.00308v1)|**2025-05-01**|null|
-|**2025-05-01**|**Fine-grained spatial-temporal perception for gas leak segmentation**|Xinlong Zhao et.al.|[2505.00295v1](http://arxiv.org/abs/2505.00295v1)|**2025-05-01**|null|
-|**2025-05-01**|**Large Language Models as AI Agents for Digital Atoms and Molecules: Catalyzing a New Era in Computational Biophysics**|Yijie Xia et.al.|[2505.00270v1](http://arxiv.org/abs/2505.00270v1)|**2025-05-01**|null|
-|**2025-05-01**|**Node2Vec-DGI-EL: A Hierarchical Graph Representation Learning Model for Ingredient-Disease Association Prediction**|Leifeng Zhang et.al.|[2505.00236v1](http://arxiv.org/abs/2505.00236v1)|**2025-05-01**|null|
-|**2025-05-01**|**Wilson polygons and the topology of zero-dimensional systems**|Gen Yin et.al.|[2505.00226v1](http://arxiv.org/abs/2505.00226v1)|**2025-05-01**|null|
-|**2025-04-30**|**Neuroevolution of Self-Attention Over Proto-Objects**|Rafael C. Pinto et.al.|[2505.00186v1](http://arxiv.org/abs/2505.00186v1)|**2025-04-30**|null|
-|**2025-04-30**|**First Order Logic with Fuzzy Semantics for Describing and Recognizing Nerves in Medical Images**|Isabelle Bloch et.al.|[2505.00173v1](http://arxiv.org/abs/2505.00173v1)|**2025-04-30**|null|
+|**2025-05-02**|**VIDSTAMP: A Temporally-Aware Watermark for Ownership and Integrity in Video Diffusion Models**|Mohammadreza Teymoorianfard et.al.|[2505.01406v1](http://arxiv.org/abs/2505.01406v1)|**2025-05-02**|null|
+|**2025-05-02**|**Dynamic Robot Tool Use with Vision Language Models**|Noah Trupin et.al.|[2505.01399v1](http://arxiv.org/abs/2505.01399v1)|**2025-05-02**|null|
+|**2025-05-02**|**SIME: Enhancing Policy Self-Improvement with Modal-level Exploration**|Yang Jin et.al.|[2505.01396v1](http://arxiv.org/abs/2505.01396v1)|**2025-05-02**|null|
+|**2025-05-02**|**Global Collinearity-aware Polygonizer for Polygonal Building Mapping in Remote Sensing**|Fahong Zhang et.al.|[2505.01385v1](http://arxiv.org/abs/2505.01385v1)|**2025-05-02**|null|
+|**2025-05-02**|**Monitoring morphometric drift in lifelong learning segmentation of the spinal cord**|Enamundram Naga Karthik et.al.|[2505.01364v1](http://arxiv.org/abs/2505.01364v1)|**2025-05-02**|null|
+|**2025-05-02**|**Semantic Communication: From Philosophical Conceptions Towards a Mathematical Framework**|Javad Gholipour et.al.|[2505.01342v1](http://arxiv.org/abs/2505.01342v1)|**2025-05-02**|null|
+|**2025-05-02**|**FreeInsert: Disentangled Text-Guided Object Insertion in 3D Gaussian Scene without Spatial Priors**|Chenxi Li et.al.|[2505.01322v1](http://arxiv.org/abs/2505.01322v1)|**2025-05-02**|null|
+|**2025-05-02**|**S-SYNC: Shuttle and Swap Co-Optimization in Quantum Charge-Coupled Devices**|Chenghong Zhu et.al.|[2505.01316v1](http://arxiv.org/abs/2505.01316v1)|**2025-05-02**|null|
+|**2025-05-02**|**A Factorized Probabilistic Model of the Semantics of Vague Temporal Adverbials Relative to Different Event Types**|Svenja Kenneweg et.al.|[2505.01311v1](http://arxiv.org/abs/2505.01311v1)|**2025-05-02**|null|
+|**2025-05-02**|**Enhancing SPARQL Query Rewriting for Complex Ontology Alignments**|Anicet Lepetit Ondo et.al.|[2505.01309v1](http://arxiv.org/abs/2505.01309v1)|**2025-05-02**|null|
+|**2025-05-02**|**ViSA-Flow: Accelerating Robot Skill Learning via Large-Scale Video Semantic Action Flow**|Changhe Chen et.al.|[2505.01288v1](http://arxiv.org/abs/2505.01288v1)|**2025-05-02**|null|
+|**2025-05-02**|**Diffusion-based Adversarial Purification from the Perspective of the Frequency Domain**|Gaozheng Pei et.al.|[2505.01267v1](http://arxiv.org/abs/2505.01267v1)|**2025-05-02**|null|
+|**2025-05-02**|**FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing**|Gaoxiang Cong et.al.|[2505.01263v1](http://arxiv.org/abs/2505.01263v1)|**2025-05-02**|null|
+|**2025-05-02**|**PREMISE: Matching-based Prediction for Accurate Review Recommendation**|Wei Han et.al.|[2505.01255v1](http://arxiv.org/abs/2505.01255v1)|**2025-05-02**|null|
+|**2025-05-02**|**Can Foundation Models Really Segment Tumors? A Benchmarking Odyssey in Lung CT Imaging**|Elena Mulero Ayllón et.al.|[2505.01239v1](http://arxiv.org/abs/2505.01239v1)|**2025-05-02**|null|
+|**2025-05-02**|**CAV-MAE Sync: Improving Contrastive Audio-Visual Mask Autoencoders via Fine-Grained Alignment**|Edson Araujo et.al.|[2505.01237v1](http://arxiv.org/abs/2505.01237v1)|**2025-05-02**|null|
+|**2025-05-02**|**Core-Set Selection for Data-efficient Land Cover Segmentation**|Keiller Nogueira et.al.|[2505.01225v1](http://arxiv.org/abs/2505.01225v1)|**2025-05-02**|null|
+|**2025-05-02**|**RD-UIE: Relation-Driven State Space Modeling for Underwater Image Enhancement**|Kui Jiang et.al.|[2505.01224v1](http://arxiv.org/abs/2505.01224v1)|**2025-05-02**|null|
+|**2025-05-02**|**Enabling Training-Free Semantic Communication Systems with Generative Diffusion Models**|Shunpu Tang et.al.|[2505.01209v1](http://arxiv.org/abs/2505.01209v1)|**2025-05-02**|null|
+|**2025-05-02**|**Going deep and going wide: Counting logic and homomorphism indistinguishability over graphs of bounded treedepth and treewidth**|Isolde Adler et.al.|[2505.01193v1](http://arxiv.org/abs/2505.01193v1)|**2025-05-02**|null|
+|**2025-05-02**|**Joint Modelling of Line and Point Data on Metric Graphs**|Karina Lilleborge et.al.|[2505.01175v1](http://arxiv.org/abs/2505.01175v1)|**2025-05-02**|null|
+|**2025-05-02**|**CaGR-RAG: Context-aware Query Grouping for Disk-based Vector Search in RAG Systems**|Yeonwoo Jeong et.al.|[2505.01164v1](http://arxiv.org/abs/2505.01164v1)|**2025-05-02**|null|
+|**2025-05-02**|**Active Sybil Attack and Efficient Defense Strategy in IPFS DHT**|V. H. M. Netto et.al.|[2505.01139v1](http://arxiv.org/abs/2505.01139v1)|**2025-05-02**|null|
+|**2025-05-02**|**Towards an Interpretable Analysis for Estimating the Resolution Time of Software Issues**|Dimitrios-Nikitas Nastos et.al.|[2505.01108v1](http://arxiv.org/abs/2505.01108v1)|**2025-05-02**|null|
+|**2025-05-02**|**VSC: Visual Search Compositional Text-to-Image Diffusion Model**|Do Huu Dat et.al.|[2505.01104v1](http://arxiv.org/abs/2505.01104v1)|**2025-05-02**|null|
+|**2025-05-02**|**Any-to-Any Vision-Language Model for Multimodal X-ray Imaging and Radiological Report Generation**|Daniele Molino et.al.|[2505.01091v1](http://arxiv.org/abs/2505.01091v1)|**2025-05-02**|null|
+|**2025-05-02**|**Improving Editability in Image Generation with Layer-wise Memory**|Daneul Kim et.al.|[2505.01079v1](http://arxiv.org/abs/2505.01079v1)|**2025-05-02**|null|
+|**2025-05-02**|**GeloVec: Higher Dimensional Geometric Smoothing for Coherent Visual Feature Extraction in Image Segmentation**|Boris Kriuk et.al.|[2505.01057v1](http://arxiv.org/abs/2505.01057v1)|**2025-05-02**|null|
+|**2025-05-02**|**Detecting the Root Cause Code Lines in Bug-Fixing Commits by Heterogeneous Graph Learning**|Liguo Ji et.al.|[2505.01022v1](http://arxiv.org/abs/2505.01022v1)|**2025-05-02**|null|
+|**2025-05-02**|**Identifying Root Cause of bugs by Capturing Changed Code Lines with Relational Graph Neural Networks**|Jiaqi Zhang et.al.|[2505.00990v1](http://arxiv.org/abs/2505.00990v1)|**2025-05-02**|null|

@@ -2,33 +2,33 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-01**|**Simple Holography in General Spacetimes**|Raphael Bousso et.al.|[2505.00695v1](http://arxiv.org/abs/2505.00695v1)|**2025-05-01**|null|
-|**2025-05-01**|**Physical Limits and Optimal Synthesis of Beyond Diagonal Anomalous Scatterers**|Mats Gustafsson et.al.|[2505.00691v1](http://arxiv.org/abs/2505.00691v1)|**2025-05-01**|null|
-|**2025-05-01**|**GuideSR: Rethinking Guidance for One-Step High-Fidelity Diffusion-Based Super-Resolution**|Aditya Arora et.al.|[2505.00687v1](http://arxiv.org/abs/2505.00687v1)|**2025-05-01**|null|
-|**2025-05-01**|**On the Importance of Gaussianizing Representations**|Daniel Eftekhari et.al.|[2505.00685v1](http://arxiv.org/abs/2505.00685v1)|**2025-05-01**|null|
-|**2025-05-01**|**Strange correlator and string order parameter for non-invertible symmetry protected topological phases in 1+1d**|Da-Chuan Lu et.al.|[2505.00673v1](http://arxiv.org/abs/2505.00673v1)|**2025-05-01**|null|
-|**2025-05-01**|**Multi-Constraint Safe Reinforcement Learning via Closed-form Solution for Log-Sum-Exp Approximation of Control Barrier Functions**|Chenggang Wang et.al.|[2505.00671v1](http://arxiv.org/abs/2505.00671v1)|**2025-05-01**|null|
-|**2025-05-01**|**Wasserstein Policy Optimization**|David Pfau et.al.|[2505.00663v1](http://arxiv.org/abs/2505.00663v1)|**2025-05-01**|null|
-|**2025-05-01**|**RIS Partitioning and User Clustering for Resilient Non-Orthogonal Multiple Access UAV Networks**|Mohammed Saif et.al.|[2505.00658v1](http://arxiv.org/abs/2505.00658v1)|**2025-05-01**|null|
-|**2025-05-01**|**Large Language Models Understanding: an Inherent Ambiguity Barrier**|Daniel N. Nissani et.al.|[2505.00654v1](http://arxiv.org/abs/2505.00654v1)|**2025-05-01**|null|
-|**2025-05-01**|**Interpreting Multipartite Entanglement through Topological Summaries**|Raghav Banka et.al.|[2505.00642v1](http://arxiv.org/abs/2505.00642v1)|**2025-05-01**|null|
-|**2025-05-01**|**Detecting Modeling Bias with Continuous Time Flow Models on Weak Lensing Maps**|Kangning Diao et.al.|[2505.00632v1](http://arxiv.org/abs/2505.00632v1)|**2025-05-01**|null|
-|**2025-05-01**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630v1](http://arxiv.org/abs/2505.00630v1)|**2025-05-01**|null|
-|**2025-05-01**|**SA-GAT-SR: Self-Adaptable Graph Attention Networks with Symbolic Regression for high-fidelity material property prediction**|Liu Junchi et.al.|[2505.00625v2](http://arxiv.org/abs/2505.00625v2)|**2025-05-02**|[link](https://github.com/MustBeOne/SA-GAT-SR)|
-|**2025-05-01**|**Neural Network Verification for Gliding Drone Control: A Case Study**|Colin Kessler et.al.|[2505.00622v1](http://arxiv.org/abs/2505.00622v1)|**2025-05-01**|null|
-|**2025-05-01**|**Diverse Semantics-Guided Feature Alignment and Decoupling for Visible-Infrared Person Re-Identification**|Neng Dong et.al.|[2505.00619v1](http://arxiv.org/abs/2505.00619v1)|**2025-05-01**|null|
-|**2025-05-01**|**RevealNet: Distributed Traffic Correlation for Attack Attribution on Programmable Networks**|Gurjot Singh et.al.|[2505.00618v1](http://arxiv.org/abs/2505.00618v1)|**2025-05-01**|null|
-|**2025-05-01**|**Surviving the Storm: The Impacts of Open RAN Disaggregation on Latency and Resilience**|Sotiris Chatzimiltis et.al.|[2505.00605v1](http://arxiv.org/abs/2505.00605v1)|**2025-05-01**|null|
-|**2025-05-01**|**Understanding and improving transferability in machine-learned activation energy predictors**|Joe Gilkes et.al.|[2505.00604v1](http://arxiv.org/abs/2505.00604v1)|**2025-05-01**|null|
-|**2025-05-01**|**Irregularity and Topological Indices in Fibonacci Word Trees and Modified Fibonacci Word Index**|Jasem Hamoud et.al.|[2505.00602v1](http://arxiv.org/abs/2505.00602v1)|**2025-05-01**|null|
-|**2025-05-01**|**Decomposing graphs into stable and ordered parts**|Hector Buffière et.al.|[2505.00594v1](http://arxiv.org/abs/2505.00594v1)|**2025-05-01**|null|
-|**2025-05-01**|**A Novel Feature-Aware Chaotic Image Encryption Scheme For Data Security and Privacy in IoT and Edge Networks**|Muhammad Shahbaz Khan et.al.|[2505.00593v1](http://arxiv.org/abs/2505.00593v1)|**2025-05-01**|null|
-|**2025-05-01**|**Unlocking the Potential of Linear Networks for Irregular Multivariate Time Series Forecasting**|Chengsen Wang et.al.|[2505.00590v1](http://arxiv.org/abs/2505.00590v1)|**2025-05-01**|null|
-|**2025-05-01**|**Synthesizing and Identifying Noise Levels in Autonomous Vehicle Camera Radar Datasets**|Mathis Morales et.al.|[2505.00584v1](http://arxiv.org/abs/2505.00584v1)|**2025-05-01**|null|
-|**2025-05-01**|**Narrow Inhomogeneous Distribution and Charge State Stabilization of Lead-Vacancy Centers in Diamond**|Ryotaro Abe et.al.|[2505.00576v1](http://arxiv.org/abs/2505.00576v1)|**2025-05-01**|null|
-|**2025-05-01**|**Transition States Energies from Machine Learning: An Application to Reverse Water-Gas Shift on Single-Atom Alloys**|Raffaele Cheula et.al.|[2505.00574v1](http://arxiv.org/abs/2505.00574v1)|**2025-05-01**|null|
-|**2025-05-01**|**Secure Multi-Hop Relaying in Large-Scale Space-Air-Ground-Sea Integrated Networks**|Hyeonsu Lyu et.al.|[2505.00573v1](http://arxiv.org/abs/2505.00573v1)|**2025-05-01**|null|
-|**2025-05-01**|**X-ray illicit object detection using hybrid CNN-transformer neural network architectures**|Jorgen Cani et.al.|[2505.00564v1](http://arxiv.org/abs/2505.00564v1)|**2025-05-01**|null|
-|**2025-05-01**|**TeLoGraF: Temporal Logic Planning via Graph-encoded Flow Matching**|Yue Meng et.al.|[2505.00562v1](http://arxiv.org/abs/2505.00562v1)|**2025-05-01**|null|
-|**2025-05-01**|**Learning to Learn with Quantum Optimization via Quantum Neural Networks**|Kuan-Cheng Chen et.al.|[2505.00561v1](http://arxiv.org/abs/2505.00561v1)|**2025-05-01**|null|
-|**2025-05-01**|**On the Mechanistic Interpretability of Neural Networks for Causality in Bio-statistics**|Jean-Baptiste A. Conan et.al.|[2505.00555v1](http://arxiv.org/abs/2505.00555v1)|**2025-05-01**|null|
+|**2025-05-02**|**Computational, Data-Driven, and Physics-Informed Machine Learning Approaches for Microstructure Modeling in Metal Additive Manufacturing**|D. Patel et.al.|[2505.01424v1](http://arxiv.org/abs/2505.01424v1)|**2025-05-02**|null|
+|**2025-05-02**|**Negative Stepsizes Make Gradient-Descent-Ascent Converge**|Henry Shugart et.al.|[2505.01423v1](http://arxiv.org/abs/2505.01423v1)|**2025-05-02**|null|
+|**2025-05-02**|**Redundancy analysis using lcm-filtrations: networks, system signature and sensitivity evaluation**|Fatemeh Mohammadi et.al.|[2505.01416v1](http://arxiv.org/abs/2505.01416v1)|**2025-05-02**|null|
+|**2025-05-02**|**Predicting Plasma Temperature From Line Intensities Using ML Models**|Ashwini Malviya et.al.|[2505.01414v1](http://arxiv.org/abs/2505.01414v1)|**2025-05-02**|null|
+|**2025-05-02**|**Towards Optimal Deterministic LOCAL Algorithms on Trees**|Sebastian Brandt et.al.|[2505.01410v1](http://arxiv.org/abs/2505.01410v1)|**2025-05-02**|null|
+|**2025-05-02**|**Predicting the Price of Gold in the Financial Markets Using Hybrid Models**|Mohammadhossein Rashidi et.al.|[2505.01402v1](http://arxiv.org/abs/2505.01402v1)|**2025-05-02**|null|
+|**2025-05-02**|**Global Collinearity-aware Polygonizer for Polygonal Building Mapping in Remote Sensing**|Fahong Zhang et.al.|[2505.01385v1](http://arxiv.org/abs/2505.01385v1)|**2025-05-02**|null|
+|**2025-05-02**|**Observation of Full Hierarchy of Temporal Quantum Correlations with a Superconducting Qubit**|Hao-Cheng Weng et.al.|[2505.01379v1](http://arxiv.org/abs/2505.01379v1)|**2025-05-02**|null|
+|**2025-05-02**|**Evaluating Explanations: An Explanatory Virtues Framework for Mechanistic Interpretability -- The Strange Science Part I.ii**|Kola Ayonrinde et.al.|[2505.01372v1](http://arxiv.org/abs/2505.01372v1)|**2025-05-02**|null|
+|**2025-05-02**|**Identifying regions for asymptotic expansions of amplitudes: fundamentals and recent advances**|Yao Ma et.al.|[2505.01368v1](http://arxiv.org/abs/2505.01368v1)|**2025-05-02**|null|
+|**2025-05-02**|**Deep Learning-Enabled System Diagnosis in Microgrids: A Feature-Feedback GAN Approach**|Swetha Rani Kasimalla et.al.|[2505.01366v1](http://arxiv.org/abs/2505.01366v1)|**2025-05-02**|null|
+|**2025-05-02**|**Monitoring morphometric drift in lifelong learning segmentation of the spinal cord**|Enamundram Naga Karthik et.al.|[2505.01364v1](http://arxiv.org/abs/2505.01364v1)|**2025-05-02**|null|
+|**2025-05-02**|**Semantic Communication: From Philosophical Conceptions Towards a Mathematical Framework**|Javad Gholipour et.al.|[2505.01342v1](http://arxiv.org/abs/2505.01342v1)|**2025-05-02**|null|
+|**2025-05-02**|**Toward Teach and Repeat Across Seasonal Deep Snow Accumulation**|Matěj Boxan et.al.|[2505.01339v1](http://arxiv.org/abs/2505.01339v1)|**2025-05-02**|null|
+|**2025-05-02**|**Power System Transition Planning: An Industry-Aligned Framework for Long-Term Optimization**|Ahmed Al-Shafei et.al.|[2505.01331v1](http://arxiv.org/abs/2505.01331v1)|**2025-05-02**|null|
+|**2025-05-02**|**Constrained Network Adversarial Attacks: Validity, Robustness, and Transferability**|Anass Grini et.al.|[2505.01328v1](http://arxiv.org/abs/2505.01328v1)|**2025-05-02**|null|
+|**2025-05-02**|**DebtStreamness: An Ecological Approach to Credit Flows in Inter-Firm Networks**|Anahí Rodríguez-Martínez et.al.|[2505.01326v1](http://arxiv.org/abs/2505.01326v1)|**2025-05-02**|null|
+|**2025-05-02**|**Proven Approximation Guarantees in Multi-Objective Optimization: SPEA2 Beats NSGA-II**|Yasser Alghouass et.al.|[2505.01323v1](http://arxiv.org/abs/2505.01323v1)|**2025-05-02**|null|
+|**2025-05-02**|**ABCO: Adaptive Bacterial Colony Optimisation**|Barisi Kogam et.al.|[2505.01320v1](http://arxiv.org/abs/2505.01320v1)|**2025-05-02**|null|
+|**2025-05-02**|**A Transformer-based Neural Architecture Search Method**|Shang Wang et.al.|[2505.01314v1](http://arxiv.org/abs/2505.01314v1)|**2025-05-02**|null|
+|**2025-05-02**|**A Neural Architecture Search Method using Auxiliary Evaluation Metric based on ResNet Architecture**|Shang Wang et.al.|[2505.01313v1](http://arxiv.org/abs/2505.01313v1)|**2025-05-02**|null|
+|**2025-05-02**|**Early Detection of Patient Deterioration from Real-Time Wearable Monitoring System**|Lo Pang-Yun Ting et.al.|[2505.01305v1](http://arxiv.org/abs/2505.01305v1)|**2025-05-02**|null|
+|**2025-05-02**|**Pattern formation using an intrinsic optimal control approach**|Tianhao Li et.al.|[2505.01302v1](http://arxiv.org/abs/2505.01302v1)|**2025-05-02**|null|
+|**2025-05-02**|**Network-Level ISAC Design: State-of-the-Art, Challenges, and Opportunities**|Kawon Han et.al.|[2505.01295v1](http://arxiv.org/abs/2505.01295v1)|**2025-05-02**|null|
+|**2025-05-02**|**Fine-grained Manipulation Attacks to Local Differential Privacy Protocols for Data Streams**|Xinyu Li et.al.|[2505.01292v1](http://arxiv.org/abs/2505.01292v1)|**2025-05-02**|null|
+|**2025-05-02**|**A Physics-preserved Transfer Learning Method for Differential Equations**|Hao-Ran Yang et.al.|[2505.01281v1](http://arxiv.org/abs/2505.01281v1)|**2025-05-02**|null|
+|**2025-05-02**|**MultiGran-STGCNFog: Towards Accurate and High-Throughput Inference for Multi-Granular Spatiotemporal Traffic Forecasting**|Zhaoyan Wang et.al.|[2505.01279v1](http://arxiv.org/abs/2505.01279v1)|**2025-05-02**|null|
+|**2025-05-02**|**Verifying Parameterized Networks Specified by Vertex-Replacement Graph Grammars**|Radu Iosif et.al.|[2505.01269v1](http://arxiv.org/abs/2505.01269v1)|**2025-05-02**|null|
+|**2025-05-02**|**Tight Runtime Guarantees From Understanding the Population Dynamics of the GSEMO Multi-Objective Evolutionary Algorithm**|Benjamin Doerr et.al.|[2505.01266v1](http://arxiv.org/abs/2505.01266v1)|**2025-05-02**|null|
+|**2025-05-02**|**Thinking Outside the Template with Modular GP-GOMEA**|Joe Harrison et.al.|[2505.01262v1](http://arxiv.org/abs/2505.01262v1)|**2025-05-02**|null|

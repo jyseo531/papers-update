@@ -2,33 +2,33 @@
 ### Point Cloud Completion
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-01**|**Controllable Weather Synthesis and Removal with Video Diffusion Models**|Chih-Hao Lin et.al.|[2505.00704v1](http://arxiv.org/abs/2505.00704v1)|**2025-05-01**|null|
-|**2025-05-01**|**Polynomial and rational matrices with the invariant rational functions and the four sequences of minimal indices prescribed**|Itziar Baragaña et.al.|[2505.00699v1](http://arxiv.org/abs/2505.00699v1)|**2025-05-01**|null|
-|**2025-05-01**|**Axially symmetric collapses in the 2-D Benjamin-Ono equation**|Joseph O. Oloo et.al.|[2505.00689v1](http://arxiv.org/abs/2505.00689v1)|**2025-05-01**|null|
-|**2025-05-01**|**Quantum Circuit Overhead**|Oskar Słowik et.al.|[2505.00683v1](http://arxiv.org/abs/2505.00683v1)|**2025-05-01**|null|
-|**2025-05-01**|**Comma 2-comonad I: Eilenberg-Moore 2-category of colax coalgebras**|Igor Baković et.al.|[2505.00682v1](http://arxiv.org/abs/2505.00682v1)|**2025-05-01**|null|
-|**2025-05-01**|**MINERVA: Evaluating Complex Video Reasoning**|Arsha Nagrani et.al.|[2505.00681v1](http://arxiv.org/abs/2505.00681v1)|**2025-05-01**|null|
-|**2025-05-01**|**Rational points on $X_0(N)^*$ when $N$ is non-squarefree**|Sachi Hashimoto et.al.|[2505.00680v1](http://arxiv.org/abs/2505.00680v1)|**2025-05-01**|null|
-|**2025-05-01**|**Linear Parameter Varying Attitude Control For CubeSats Using Electrospray Thrusters**|Felix Biertümpfel et.al.|[2505.00677v1](http://arxiv.org/abs/2505.00677v1)|**2025-05-01**|null|
-|**2025-05-01**|**Multi-Constraint Safe Reinforcement Learning via Closed-form Solution for Log-Sum-Exp Approximation of Control Barrier Functions**|Chenggang Wang et.al.|[2505.00671v1](http://arxiv.org/abs/2505.00671v1)|**2025-05-01**|null|
-|**2025-05-01**|**Auditing without Leaks Despite Curiosity**|Hagit Attiya et.al.|[2505.00665v1](http://arxiv.org/abs/2505.00665v1)|**2025-05-01**|null|
-|**2025-05-01**|**Wasserstein Policy Optimization**|David Pfau et.al.|[2505.00663v1](http://arxiv.org/abs/2505.00663v1)|**2025-05-01**|null|
-|**2025-05-01**|**The local coupling of noise technique and its application to lower error bounds for strong approximation of SDEs with irregular coefficients**|Simon Ellinger et.al.|[2505.00656v1](http://arxiv.org/abs/2505.00656v1)|**2025-05-01**|null|
-|**2025-05-01**|**On the exponents of distribution of primes and smooth numbers**|Alexandru Pascadi et.al.|[2505.00653v1](http://arxiv.org/abs/2505.00653v1)|**2025-05-01**|null|
-|**2025-05-01**|**Open-Source LLM-Driven Federated Transformer for Predictive IoV Management**|Yazan Otoum et.al.|[2505.00651v1](http://arxiv.org/abs/2505.00651v1)|**2025-05-01**|null|
-|**2025-05-01**|**SOMA: a novel sampler for exchangeable variables**|Yifei Xiong et.al.|[2505.00635v1](http://arxiv.org/abs/2505.00635v1)|**2025-05-01**|null|
-|**2025-05-01**|**EW D-optimal Designs for Experiments with Mixed Factors**|Siting Lin et.al.|[2505.00629v1](http://arxiv.org/abs/2505.00629v1)|**2025-05-01**|null|
-|**2025-05-01**|**FineScope : Precision Pruning for Domain-Specialized Large Language Models Using SAE-Guided Self-Data Cultivation**|Chaitali Bhattacharyya et.al.|[2505.00624v1](http://arxiv.org/abs/2505.00624v1)|**2025-05-01**|null|
-|**2025-05-01**|**Position: AI Competitions Provide the Gold Standard for Empirical Rigor in GenAI Evaluation**|D. Sculley et.al.|[2505.00612v1](http://arxiv.org/abs/2505.00612v1)|**2025-05-01**|null|
-|**2025-05-01**|**Unlocking the Potential of Linear Networks for Irregular Multivariate Time Series Forecasting**|Chengsen Wang et.al.|[2505.00590v1](http://arxiv.org/abs/2505.00590v1)|**2025-05-01**|null|
-|**2025-05-01**|**Synthesizing and Identifying Noise Levels in Autonomous Vehicle Camera Radar Datasets**|Mathis Morales et.al.|[2505.00584v1](http://arxiv.org/abs/2505.00584v1)|**2025-05-01**|null|
-|**2025-05-01**|**Parameter-Efficient Fine-Tuning with Circulant and Diagonal Vectors**|Xinyu Ding et.al.|[2505.00580v1](http://arxiv.org/abs/2505.00580v1)|**2025-05-01**|null|
-|**2025-05-01**|**Non-Hermitian band topology in twisted bilayer graphene aligned with hexagonal boron nitride**|Kamalesh Bera et.al.|[2505.00566v1](http://arxiv.org/abs/2505.00566v1)|**2025-05-01**|null|
-|**2025-05-01**|**Sum Rate Maximization for NOMA-Assisted Uplink Pinching-Antenna Systems**|Ming Zeng et.al.|[2505.00549v1](http://arxiv.org/abs/2505.00549v1)|**2025-05-01**|null|
-|**2025-05-01**|**Observation of Resonant Tunneling from Molecular Shape into Vibronic Feshbach Resonances Followed by Mode-Specific Fragmentation**|Narayan Kundu et.al.|[2505.00532v1](http://arxiv.org/abs/2505.00532v1)|**2025-05-01**|null|
-|**2025-05-01**|**DeCo: Task Decomposition and Skill Composition for Zero-Shot Generalization in Long-Horizon 3D Manipulation**|Zixuan Chen et.al.|[2505.00527v1](http://arxiv.org/abs/2505.00527v1)|**2025-05-01**|null|
-|**2025-05-01**|**A complement of the Erdős-Hajnal problem on paths with equal-degree endpoints**|Zhen Liu et.al.|[2505.00523v1](http://arxiv.org/abs/2505.00523v1)|**2025-05-01**|null|
-|**2025-05-01**|**$(S_2)$-ifications, semi-Nagata rings, and the lifting problem**|Shiji Lyu et.al.|[2505.00521v1](http://arxiv.org/abs/2505.00521v1)|**2025-05-01**|null|
-|**2025-05-01**|**Proportionality in Practice: Quantifying Proportionality in Ordinal Elections**|Tuva Bardal et.al.|[2505.00520v1](http://arxiv.org/abs/2505.00520v1)|**2025-05-01**|null|
-|**2025-05-01**|**Signatures of three-dimensional photo-induced superconductivity in YBa$_2$Cu$_3$O$_{6.48}$**|M. Rosenberg et.al.|[2505.00514v1](http://arxiv.org/abs/2505.00514v1)|**2025-05-01**|null|
-|**2025-05-01**|**InterLoc: LiDAR-based Intersection Localization using Road Segmentation with Automated Evaluation Method**|Nguyen Hoang Khoi Tran et.al.|[2505.00512v2](http://arxiv.org/abs/2505.00512v2)|**2025-05-02**|null|
+|**2025-05-02**|**Carbon fiber damage evolution under flame attack and the role of impurities**|Pablo Chavez-Gomez et.al.|[2505.01408v1](http://arxiv.org/abs/2505.01408v1)|**2025-05-02**|null|
+|**2025-05-02**|**Accelerating point defect photo-emission calculations with machine learning interatomic potentials**|Kartikeya Sharma et.al.|[2505.01403v1](http://arxiv.org/abs/2505.01403v1)|**2025-05-02**|null|
+|**2025-05-02**|**Dynamic Robot Tool Use with Vision Language Models**|Noah Trupin et.al.|[2505.01399v1](http://arxiv.org/abs/2505.01399v1)|**2025-05-02**|null|
+|**2025-05-02**|**Quantifying entanglement from the geometric perspective**|Lisa T. Weinbrenner et.al.|[2505.01394v1](http://arxiv.org/abs/2505.01394v1)|**2025-05-02**|null|
+|**2025-05-02**|**Transverse sphere theorems for Riemannian foliations**|Francisco C. Caramello Jr. et.al.|[2505.01378v1](http://arxiv.org/abs/2505.01378v1)|**2025-05-02**|null|
+|**2025-05-02**|**Stabilizing Temporal Difference Learning via Implicit Stochastic Approximation**|Hwanwoo Kim et.al.|[2505.01361v1](http://arxiv.org/abs/2505.01361v1)|**2025-05-02**|null|
+|**2025-05-02**|**Differentiable Nonlinear Model Predictive Control**|Jonathan Frey et.al.|[2505.01353v1](http://arxiv.org/abs/2505.01353v1)|**2025-05-02**|null|
+|**2025-05-02**|**Closing the Loop: A Systematic Review of Experience-Driven Game Adaptation**|Phil Lopes et.al.|[2505.01351v1](http://arxiv.org/abs/2505.01351v1)|**2025-05-02**|null|
+|**2025-05-02**|**Toward Teach and Repeat Across Seasonal Deep Snow Accumulation**|Matěj Boxan et.al.|[2505.01339v1](http://arxiv.org/abs/2505.01339v1)|**2025-05-02**|null|
+|**2025-05-02**|**Classifying Radio-Loud and Radio-Quiet Quasars With Novel PCA Based Regression Classifier**|Ramkrishna Joshi et.al.|[2505.01335v1](http://arxiv.org/abs/2505.01335v1)|**2025-05-02**|null|
+|**2025-05-02**|**Direct evidence for two-gap superconductivity in hydrogen-intercalated titanium diselenide**|Erik Piatti et.al.|[2505.01334v1](http://arxiv.org/abs/2505.01334v1)|**2025-05-02**|null|
+|**2025-05-02**|**Dynamical dark energy and gravitational coupling from moving geometries**|Jean Thibaut et.al.|[2505.01312v1](http://arxiv.org/abs/2505.01312v1)|**2025-05-02**|null|
+|**2025-05-02**|**Detecting multiple change points in linear models with heteroscedastic errors**|Lajos Horvath et.al.|[2505.01296v1](http://arxiv.org/abs/2505.01296v1)|**2025-05-02**|null|
+|**2025-05-02**|**Polyhedral realisations of finite arc complexes using strip deformations**|François Guéritaud et.al.|[2505.01285v1](http://arxiv.org/abs/2505.01285v1)|**2025-05-02**|null|
+|**2025-05-02**|**Reduced-order structure-property linkages for stochastic metamaterials**|Hooman Danesh et.al.|[2505.01283v1](http://arxiv.org/abs/2505.01283v1)|**2025-05-02**|null|
+|**2025-05-02**|**Hamiltonian Analysis of Pre-geometric Gravity**|Andrea Addazi et.al.|[2505.01272v1](http://arxiv.org/abs/2505.01272v1)|**2025-05-02**|null|
+|**2025-05-02**|**A First Runtime Analysis of NSGA-III on a Many-Objective Multimodal Problem: Provable Exponential Speedup via Stochastic Population Update**|Andre Opris et.al.|[2505.01256v1](http://arxiv.org/abs/2505.01256v1)|**2025-05-02**|null|
+|**2025-05-02**|**Exact islands scenario for CFT systems and critical ratios in higher geometry**|Harvendra Singh et.al.|[2505.01247v1](http://arxiv.org/abs/2505.01247v1)|**2025-05-02**|null|
+|**2025-05-02**|**Perturbative LVS and Inflation: A Review of Volume Modulus and Fibre Scenarios**|George K. Leontaris et.al.|[2505.01246v1](http://arxiv.org/abs/2505.01246v1)|**2025-05-02**|null|
+|**2025-05-02**|**Hexagonal Wilson loop with Lagrangian insertion at two loops in $\mathcal{N}=4$ super Yang-Mills theory**|Sérgio Carrôlo et.al.|[2505.01245v1](http://arxiv.org/abs/2505.01245v1)|**2025-05-02**|null|
+|**2025-05-02**|**Rational points near manifolds and Khintchine theorem**|Victor Beresnevich et.al.|[2505.01227v1](http://arxiv.org/abs/2505.01227v1)|**2025-05-02**|null|
+|**2025-05-02**|**Inverse design of mirror-symmetric disordered systems for broadband perfect transmission**|Zhazira Zhumabay et.al.|[2505.01220v1](http://arxiv.org/abs/2505.01220v1)|**2025-05-02**|null|
+|**2025-05-02**|**Quantitative Attractor Analysis of High-Capacity Kernel Logistic Regression Hopfield Networks**|Akira Tamamori et.al.|[2505.01218v1](http://arxiv.org/abs/2505.01218v1)|**2025-05-02**|null|
+|**2025-05-02**|**Automorphisms of Plane Curves defined from Chebychev polynomials**|Saeed Tafazolian et.al.|[2505.01216v1](http://arxiv.org/abs/2505.01216v1)|**2025-05-02**|null|
+|**2025-05-02**|**A Self-Healing and Fault-Tolerant Cloud-based Digital Twin Processing Management Model**|Deepika Saxena et.al.|[2505.01215v1](http://arxiv.org/abs/2505.01215v1)|**2025-05-02**|null|
+|**2025-05-02**|**Efficient Vision-based Vehicle Speed Estimation**|Andrej Macko et.al.|[2505.01203v1](http://arxiv.org/abs/2505.01203v1)|**2025-05-02**|null|
+|**2025-05-02**|**A Combinatorial Proof of Universal Optimality for Computing a Planar Convex Hull**|Ivor van der Hoog et.al.|[2505.01194v1](http://arxiv.org/abs/2505.01194v1)|**2025-05-02**|null|
+|**2025-05-02**|**Joint Modelling of Line and Point Data on Metric Graphs**|Karina Lilleborge et.al.|[2505.01175v1](http://arxiv.org/abs/2505.01175v1)|**2025-05-02**|null|
+|**2025-05-02**|**Dual canonical bases and embeddings of symmetric spaces**|Huanchen Bao et.al.|[2505.01173v1](http://arxiv.org/abs/2505.01173v1)|**2025-05-02**|null|
+|**2025-05-02**|**Model Checks in a Kernel Ridge Regression Framework**|Yuhao Li et.al.|[2505.01161v1](http://arxiv.org/abs/2505.01161v1)|**2025-05-02**|null|
