@@ -6,7 +6,7 @@
 |**2025-05-01**|**Brain Foundation Models with Hypergraph Dynamic Adapter for Brain Disease Analysis**|Zhongying Deng et.al.|[2505.00627v1](http://arxiv.org/abs/2505.00627v1)|**2025-05-01**|null|
 |**2025-05-01**|**Diverse Semantics-Guided Feature Alignment and Decoupling for Visible-Infrared Person Re-Identification**|Neng Dong et.al.|[2505.00619v1](http://arxiv.org/abs/2505.00619v1)|**2025-05-01**|null|
 |**2025-05-01**|**ParkDiffusion: Heterogeneous Multi-Agent Multi-Modal Trajectory Prediction for Automated Parking using Diffusion Models**|Jiarong Wei et.al.|[2505.00586v1](http://arxiv.org/abs/2505.00586v1)|**2025-05-01**|null|
-|**2025-05-01**|**Multimodal Masked Autoencoder Pre-training for 3D MRI-Based Brain Tumor Analysis with Missing Modalities**|Lucas Robinet et.al.|[2505.00568v1](http://arxiv.org/abs/2505.00568v1)|**2025-05-01**|null|
+|**2025-05-01**|**Multimodal Masked Autoencoder Pre-training for 3D MRI-Based Brain Tumor Analysis with Missing Modalities**|Lucas Robinet et.al.|[2505.00568v2](http://arxiv.org/abs/2505.00568v2)|**2025-05-02**|null|
 |**2025-05-01**|**Superintuitionistic predicate logics of linear frames: undecidability with two individual variables**|Mikhail Rybakov et.al.|[2505.00531v1](http://arxiv.org/abs/2505.00531v1)|**2025-05-01**|null|
 |**2025-05-01**|**A Methodological and Structural Review of Parkinsons Disease Detection Across Diverse Data Modalities**|Abu Saleh Musa Miah et.al.|[2505.00525v1](http://arxiv.org/abs/2505.00525v1)|**2025-05-01**|null|
 |**2025-05-01**|**Recursive inseparability of classical theories of a binary predicate and non-classical logics of a unary predicate**|Mikhail Rybakov et.al.|[2505.00524v1](http://arxiv.org/abs/2505.00524v1)|**2025-05-01**|null|

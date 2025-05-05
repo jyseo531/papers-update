@@ -11,7 +11,7 @@
 |**2025-05-01**|**TumorTwin: A python framework for patient-specific digital twins in oncology**|Michael Kapteyn et.al.|[2505.00670v1](http://arxiv.org/abs/2505.00670v1)|**2025-05-01**|null|
 |**2025-05-01**|**Deep Reinforcement Learning for Urban Air Quality Management: Multi-Objective Optimization of Pollution Mitigation Booth Placement in Metropolitan Environments**|Kirtan Rajesh et.al.|[2505.00668v1](http://arxiv.org/abs/2505.00668v1)|**2025-05-01**|null|
 |**2025-05-01**|**Auditing without Leaks Despite Curiosity**|Hagit Attiya et.al.|[2505.00665v1](http://arxiv.org/abs/2505.00665v1)|**2025-05-01**|null|
-|**2025-05-01**|**AI-based CSI Feedback with Digital Twins: Real-World Validation and Insights**|Tzu-Hao Huang et.al.|[2505.00660v1](http://arxiv.org/abs/2505.00660v1)|**2025-05-01**|null|
+|**2025-05-01**|**AI-based CSI Feedback with Digital Twins: Real-World Validation and Insights**|Tzu-Hao Huang et.al.|[2505.00660v2](http://arxiv.org/abs/2505.00660v2)|**2025-05-02**|null|
 |**2025-05-01**|**Open-Source LLM-Driven Federated Transformer for Predictive IoV Management**|Yazan Otoum et.al.|[2505.00651v1](http://arxiv.org/abs/2505.00651v1)|**2025-05-01**|null|
 |**2025-05-01**|**OmicsCL: Unsupervised Contrastive Learning for Cancer Subtype Discovery and Survival Stratification**|Atahan Karagoz et.al.|[2505.00650v1](http://arxiv.org/abs/2505.00650v1)|**2025-05-01**|null|
 |**2025-05-01**|**GeoDEx: A Unified Geometric Framework for Tactile Dexterous and Extrinsic Manipulation under Force Uncertainty**|Sirui Chen et.al.|[2505.00647v1](http://arxiv.org/abs/2505.00647v1)|**2025-05-01**|null|
@@ -23,7 +23,7 @@
 |**2025-05-01**|**Explainable AI in Spatial Analysis**|Ziqi Li et.al.|[2505.00591v1](http://arxiv.org/abs/2505.00591v1)|**2025-05-01**|null|
 |**2025-05-01**|**Synthesizing and Identifying Noise Levels in Autonomous Vehicle Camera Radar Datasets**|Mathis Morales et.al.|[2505.00584v1](http://arxiv.org/abs/2505.00584v1)|**2025-05-01**|null|
 |**2025-05-01**|**A Bioinformatic Study of Genetics Involved in Determining Mild Traumatic Brain Injury Severity and Recovery**|Mahnaz Tajik et.al.|[2505.00572v1](http://arxiv.org/abs/2505.00572v1)|**2025-05-01**|null|
-|**2025-05-01**|**Multimodal Masked Autoencoder Pre-training for 3D MRI-Based Brain Tumor Analysis with Missing Modalities**|Lucas Robinet et.al.|[2505.00568v1](http://arxiv.org/abs/2505.00568v1)|**2025-05-01**|null|
+|**2025-05-01**|**Multimodal Masked Autoencoder Pre-training for 3D MRI-Based Brain Tumor Analysis with Missing Modalities**|Lucas Robinet et.al.|[2505.00568v2](http://arxiv.org/abs/2505.00568v2)|**2025-05-02**|null|
 |**2025-05-01**|**X-ray illicit object detection using hybrid CNN-transformer neural network architectures**|Jorgen Cani et.al.|[2505.00564v1](http://arxiv.org/abs/2505.00564v1)|**2025-05-01**|null|
 |**2025-05-01**|**The Jackknife method as a new approach to validate strong lens mass models**|Shun Nishida et.al.|[2505.00553v1](http://arxiv.org/abs/2505.00553v1)|**2025-05-01**|null|
 |**2025-05-01**|**Sum Rate Maximization for NOMA-Assisted Uplink Pinching-Antenna Systems**|Ming Zeng et.al.|[2505.00549v1](http://arxiv.org/abs/2505.00549v1)|**2025-05-01**|null|

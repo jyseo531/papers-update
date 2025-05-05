@@ -31,4 +31,4 @@
 |**2025-05-01**|**$(S_2)$-ifications, semi-Nagata rings, and the lifting problem**|Shiji Lyu et.al.|[2505.00521v1](http://arxiv.org/abs/2505.00521v1)|**2025-05-01**|null|
 |**2025-05-01**|**Proportionality in Practice: Quantifying Proportionality in Ordinal Elections**|Tuva Bardal et.al.|[2505.00520v1](http://arxiv.org/abs/2505.00520v1)|**2025-05-01**|null|
 |**2025-05-01**|**Signatures of three-dimensional photo-induced superconductivity in YBa$_2$Cu$_3$O$_{6.48}$**|M. Rosenberg et.al.|[2505.00514v1](http://arxiv.org/abs/2505.00514v1)|**2025-05-01**|null|
-|**2025-05-01**|**InterLoc: LiDAR-based Intersection Localization using Road Segmentation with Automated Evaluation Method**|Nguyen Hoang Khoi Tran et.al.|[2505.00512v1](http://arxiv.org/abs/2505.00512v1)|**2025-05-01**|null|
+|**2025-05-01**|**InterLoc: LiDAR-based Intersection Localization using Road Segmentation with Automated Evaluation Method**|Nguyen Hoang Khoi Tran et.al.|[2505.00512v2](http://arxiv.org/abs/2505.00512v2)|**2025-05-02**|null|

@@ -14,7 +14,7 @@
 |**2025-04-29**|**Adept: Annotation-Denoising Auxiliary Tasks with Discrete Cosine Transform Map and Keypoint for Human-Centric Pretraining**|Weizhen He et.al.|[2504.20800v1](http://arxiv.org/abs/2504.20800v1)|**2025-04-29**|null|
 |**2025-04-29**|**Learning a General Model: Folding Clothing with Topological Dynamics**|Yiming Liu et.al.|[2504.20720v1](http://arxiv.org/abs/2504.20720v1)|**2025-04-29**|null|
 |**2025-04-29**|**Sparse mixed linear modeling with anchor-based guidance for high-entropy alloy discovery**|Ryo Murakami et.al.|[2504.20354v1](http://arxiv.org/abs/2504.20354v1)|**2025-04-29**|null|
-|**2025-04-28**|**Nucleation of dislocations in metals: order parameters, transition state, and kinetic rates**|Mattia Perrone et.al.|[2504.20211v1](http://arxiv.org/abs/2504.20211v1)|**2025-04-28**|null|
+|**2025-04-28**|**A rigorous data-driven approach to the nucleation of defects in metals exploiting the link between kinetic properties and (dis)order parameters**|Mattia Perrone et.al.|[2504.20211v2](http://arxiv.org/abs/2504.20211v2)|**2025-05-02**|null|
 |**2025-04-28**|**CE-NPBG: Connectivity Enhanced Neural Point-Based Graphics for Novel View Synthesis in Autonomous Driving Scenes**|Mohammad Altillawi et.al.|[2504.19557v1](http://arxiv.org/abs/2504.19557v1)|**2025-04-28**|null|
 |**2025-04-27**|**OPAL: Visibility-aware LiDAR-to-OpenStreetMap Place Recognition via Adaptive Radial Fusion**|Shuhao Kang et.al.|[2504.19258v2](http://arxiv.org/abs/2504.19258v2)|**2025-04-30**|null|
 |**2025-04-27**|**Unsupervised 2D-3D lifting of non-rigid objects using local constraints**|Shalini Maiti et.al.|[2504.19227v1](http://arxiv.org/abs/2504.19227v1)|**2025-04-27**|null|

@@ -13,12 +13,12 @@
 |**2025-05-01**|**Efficient Recommendation with Millions of Items by Dynamic Pruning of Sub-Item Embeddings**|Aleksandr V. Petrov et.al.|[2505.00560v1](http://arxiv.org/abs/2505.00560v1)|**2025-05-01**|null|
 |**2025-05-01**|**Two-Qubit Gate Synthesis via Linear Programming for Heterogeneous Instruction Sets**|Evan McKinney et.al.|[2505.00543v1](http://arxiv.org/abs/2505.00543v1)|**2025-05-01**|null|
 |**2025-05-01**|**Test-time Correlation Alignment**|Linjing You et.al.|[2505.00533v1](http://arxiv.org/abs/2505.00533v1)|**2025-05-01**|null|
-|**2025-05-01**|**InterLoc: LiDAR-based Intersection Localization using Road Segmentation with Automated Evaluation Method**|Nguyen Hoang Khoi Tran et.al.|[2505.00512v1](http://arxiv.org/abs/2505.00512v1)|**2025-05-01**|null|
+|**2025-05-01**|**InterLoc: LiDAR-based Intersection Localization using Road Segmentation with Automated Evaluation Method**|Nguyen Hoang Khoi Tran et.al.|[2505.00512v2](http://arxiv.org/abs/2505.00512v2)|**2025-05-02**|null|
 |**2025-05-01**|**Generically trivial torsors under constant groups**|Alexis Bouthier et.al.|[2505.00505v1](http://arxiv.org/abs/2505.00505v1)|**2025-05-01**|null|
 |**2025-05-01**|**Distributed Retrieval-Augmented Generation**|Chenhao Xu et.al.|[2505.00443v1](http://arxiv.org/abs/2505.00443v1)|**2025-05-01**|null|
 |**2025-05-01**|**Per-Domain Generalizing Policies: On Validation Instances and Scaling Behavior**|Timo P. Gros et.al.|[2505.00439v1](http://arxiv.org/abs/2505.00439v1)|**2025-05-01**|null|
 |**2025-05-01**|**iMacSR: Intermediate Multi-Access Supervision and Regularization in Training Autonomous Driving Models**|Wei-Bin Kou et.al.|[2505.00404v1](http://arxiv.org/abs/2505.00404v1)|**2025-05-01**|null|
-|**2025-05-01**|**Characterizing the dissolution states of a fluorescent probe within a lipid bilayer using molec ular dynamics simulations**|Ryo Okabe et.al.|[2505.00403v1](http://arxiv.org/abs/2505.00403v1)|**2025-05-01**|null|
+|**2025-05-01**|**Characterizing the embedded states of a fluorescent probe within a lipid bilayer using molecular dynamics simulations**|Ryo Okabe et.al.|[2505.00403v2](http://arxiv.org/abs/2505.00403v2)|**2025-05-02**|null|
 |**2025-05-01**|**Cues3D: Unleashing the Power of Sole NeRF for Consistent and Unique Instances in Open-Vocabulary 3D Panoptic Segmentation**|Feng Xue et.al.|[2505.00378v1](http://arxiv.org/abs/2505.00378v1)|**2025-05-01**|null|
 |**2025-05-01**|**Automated segmenta-on of pediatric neuroblastoma on multi-modal MRI: Results of the SPPIN challenge at MICCAI 2023**|M. A. D. Buser et.al.|[2505.00369v1](http://arxiv.org/abs/2505.00369v1)|**2025-05-01**|null|
 |**2025-05-01**|**KoACD: The First Korean Adolescent Dataset for Cognitive Distortion Analysis**|JunSeo Kim et.al.|[2505.00367v1](http://arxiv.org/abs/2505.00367v1)|**2025-05-01**|null|

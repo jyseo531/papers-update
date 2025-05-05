@@ -13,8 +13,8 @@
 |**2025-05-01**|**AI-Driven High-Resolution Cell Segmentation and Quantitative Analysis**|Shuang Zhang et.al.|[2505.00578v1](http://arxiv.org/abs/2505.00578v1)|**2025-05-01**|null|
 |**2025-05-01**|**Triggering Hallucinations in LLMs: A Quantitative Study of Prompt-Induced Hallucination in Large Language Models**|Makoto Sato et.al.|[2505.00557v1](http://arxiv.org/abs/2505.00557v1)|**2025-05-01**|null|
 |**2025-05-01**|**Two-Qubit Gate Synthesis via Linear Programming for Heterogeneous Instruction Sets**|Evan McKinney et.al.|[2505.00543v1](http://arxiv.org/abs/2505.00543v1)|**2025-05-01**|null|
-|**2025-05-01**|**InterLoc: LiDAR-based Intersection Localization using Road Segmentation with Automated Evaluation Method**|Nguyen Hoang Khoi Tran et.al.|[2505.00512v1](http://arxiv.org/abs/2505.00512v1)|**2025-05-01**|null|
-|**2025-05-01**|**An approach for modularly verifying the core of Rust's atomic reference counting algorithm against the (X)C20 memory consistency model**|Bart Jacobs et.al.|[2505.00449v1](http://arxiv.org/abs/2505.00449v1)|**2025-05-01**|null|
+|**2025-05-01**|**InterLoc: LiDAR-based Intersection Localization using Road Segmentation with Automated Evaluation Method**|Nguyen Hoang Khoi Tran et.al.|[2505.00512v2](http://arxiv.org/abs/2505.00512v2)|**2025-05-02**|null|
+|**2025-05-01**|**An approach for modularly verifying the core of Rust's atomic reference counting algorithm against the (X)C20 memory consistency model**|Bart Jacobs et.al.|[2505.00449v2](http://arxiv.org/abs/2505.00449v2)|**2025-05-02**|null|
 |**2025-05-01**|**iMacSR: Intermediate Multi-Access Supervision and Regularization in Training Autonomous Driving Models**|Wei-Bin Kou et.al.|[2505.00404v1](http://arxiv.org/abs/2505.00404v1)|**2025-05-01**|null|
 |**2025-05-01**|**S3AND: Efficient Subgraph Similarity Search Under Aggregated Neighbor Difference Semantics (Technical Report)**|Qi Wen et.al.|[2505.00393v1](http://arxiv.org/abs/2505.00393v1)|**2025-05-01**|null|
 |**2025-05-01**|**CSE-SFP: Enabling Unsupervised Sentence Representation Learning via a Single Forward Pass**|Bowen Zhang et.al.|[2505.00389v1](http://arxiv.org/abs/2505.00389v1)|**2025-05-01**|null|

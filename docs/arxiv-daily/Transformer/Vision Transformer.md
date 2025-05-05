@@ -30,5 +30,5 @@
 |**2025-05-01**|**Dietary Intake Estimation via Continuous 3D Reconstruction of Food**|Wallace Lee et.al.|[2505.00606v1](http://arxiv.org/abs/2505.00606v1)|**2025-05-01**|null|
 |**2025-05-01**|**Frustration, dynamics and catalysis**|R. Gonzalo Parra et.al.|[2505.00600v1](http://arxiv.org/abs/2505.00600v1)|**2025-05-01**|null|
 |**2025-05-01**|**Visual Trajectory Prediction of Vessels for Inland Navigation**|Alexander Puzicha et.al.|[2505.00599v1](http://arxiv.org/abs/2505.00599v1)|**2025-05-01**|null|
-|**2025-05-01**|**Fast and Low-Cost Genomic Foundation Models via Outlier Removal**|Haozheng Luo et.al.|[2505.00598v1](http://arxiv.org/abs/2505.00598v1)|**2025-05-01**|[link](https://github.com/MAGICS-LAB/GERM)|
+|**2025-05-01**|**Fast and Low-Cost Genomic Foundation Models via Outlier Removal**|Haozheng Luo et.al.|[2505.00598v2](http://arxiv.org/abs/2505.00598v2)|**2025-05-02**|[link](https://github.com/MAGICS-LAB/GERM)|
 |**2025-05-01**|**Uncertainty-Aware Multi-Expert Knowledge Distillation for Imbalanced Disease Grading**|Shuo Tong et.al.|[2505.00592v1](http://arxiv.org/abs/2505.00592v1)|**2025-05-01**|null|

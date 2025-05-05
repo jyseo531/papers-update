@@ -23,7 +23,7 @@
 |**2025-05-01**|**DeCo: Task Decomposition and Skill Composition for Zero-Shot Generalization in Long-Horizon 3D Manipulation**|Zixuan Chen et.al.|[2505.00527v1](http://arxiv.org/abs/2505.00527v1)|**2025-05-01**|null|
 |**2025-05-01**|**First Measurement of the Electron Neutrino Charged-Current Pion Production Cross Section on Carbon with the T2K Near Detector**|K. Abe et.al.|[2505.00516v1](http://arxiv.org/abs/2505.00516v1)|**2025-05-01**|null|
 |**2025-05-01**|**Safety-Critical Traffic Simulation with Guided Latent Diffusion Model**|Mingxing Peng et.al.|[2505.00515v1](http://arxiv.org/abs/2505.00515v1)|**2025-05-01**|null|
-|**2025-05-01**|**InterLoc: LiDAR-based Intersection Localization using Road Segmentation with Automated Evaluation Method**|Nguyen Hoang Khoi Tran et.al.|[2505.00512v1](http://arxiv.org/abs/2505.00512v1)|**2025-05-01**|null|
+|**2025-05-01**|**InterLoc: LiDAR-based Intersection Localization using Road Segmentation with Automated Evaluation Method**|Nguyen Hoang Khoi Tran et.al.|[2505.00512v2](http://arxiv.org/abs/2505.00512v2)|**2025-05-02**|null|
 |**2025-05-01**|**Inconsistency-based Active Learning for LiDAR Object Detection**|Esteban Rivera et.al.|[2505.00511v1](http://arxiv.org/abs/2505.00511v1)|**2025-05-01**|null|
 |**2025-05-01**|**HeAL3D: Heuristical-enhanced Active Learning for 3D Object Detection**|Esteban Rivera et.al.|[2505.00507v1](http://arxiv.org/abs/2505.00507v1)|**2025-05-01**|null|
 |**2025-05-01**|**Variational OOD State Correction for Offline Reinforcement Learning**|Ke Jiang et.al.|[2505.00503v1](http://arxiv.org/abs/2505.00503v1)|**2025-05-01**|null|

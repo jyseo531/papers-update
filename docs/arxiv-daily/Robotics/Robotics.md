@@ -15,7 +15,7 @@
 |**2025-05-01**|**Moving through Cartesian products, coronas and joins in general position**|Sandi Klavžar et.al.|[2505.00535v1](http://arxiv.org/abs/2505.00535v1)|**2025-05-01**|null|
 |**2025-05-01**|**DeCo: Task Decomposition and Skill Composition for Zero-Shot Generalization in Long-Horizon 3D Manipulation**|Zixuan Chen et.al.|[2505.00527v1](http://arxiv.org/abs/2505.00527v1)|**2025-05-01**|null|
 |**2025-05-01**|**Safety-Critical Traffic Simulation with Guided Latent Diffusion Model**|Mingxing Peng et.al.|[2505.00515v1](http://arxiv.org/abs/2505.00515v1)|**2025-05-01**|null|
-|**2025-05-01**|**InterLoc: LiDAR-based Intersection Localization using Road Segmentation with Automated Evaluation Method**|Nguyen Hoang Khoi Tran et.al.|[2505.00512v1](http://arxiv.org/abs/2505.00512v1)|**2025-05-01**|null|
+|**2025-05-01**|**InterLoc: LiDAR-based Intersection Localization using Road Segmentation with Automated Evaluation Method**|Nguyen Hoang Khoi Tran et.al.|[2505.00512v2](http://arxiv.org/abs/2505.00512v2)|**2025-05-02**|null|
 |**2025-05-01**|**Variational OOD State Correction for Offline Reinforcement Learning**|Ke Jiang et.al.|[2505.00503v1](http://arxiv.org/abs/2505.00503v1)|**2025-05-01**|null|
 |**2025-05-01**|**Implicit Neural-Representation Learning for Elastic Deformable-Object Manipulations**|Minseok Song et.al.|[2505.00500v1](http://arxiv.org/abs/2505.00500v1)|**2025-05-01**|null|
 |**2025-05-01**|**Optimal Interactive Learning on the Job via Facility Location Planning**|Shivam Vats et.al.|[2505.00490v1](http://arxiv.org/abs/2505.00490v1)|**2025-05-01**|null|

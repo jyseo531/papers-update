@@ -14,7 +14,7 @@
 |**2025-05-01**|**Interpreting Multipartite Entanglement through Topological Summaries**|Raghav Banka et.al.|[2505.00642v1](http://arxiv.org/abs/2505.00642v1)|**2025-05-01**|null|
 |**2025-05-01**|**Detecting Modeling Bias with Continuous Time Flow Models on Weak Lensing Maps**|Kangning Diao et.al.|[2505.00632v1](http://arxiv.org/abs/2505.00632v1)|**2025-05-01**|null|
 |**2025-05-01**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630v1](http://arxiv.org/abs/2505.00630v1)|**2025-05-01**|null|
-|**2025-05-01**|**SA-GAT-SR: Self-Adaptable Graph Attention Networks with Symbolic Regression for high-fidelity material property prediction**|Liu Junchi et.al.|[2505.00625v1](http://arxiv.org/abs/2505.00625v1)|**2025-05-01**|[link](https://github.com/MustBeOne/SA-GAT-SR)|
+|**2025-05-01**|**SA-GAT-SR: Self-Adaptable Graph Attention Networks with Symbolic Regression for high-fidelity material property prediction**|Liu Junchi et.al.|[2505.00625v2](http://arxiv.org/abs/2505.00625v2)|**2025-05-02**|[link](https://github.com/MustBeOne/SA-GAT-SR)|
 |**2025-05-01**|**Neural Network Verification for Gliding Drone Control: A Case Study**|Colin Kessler et.al.|[2505.00622v1](http://arxiv.org/abs/2505.00622v1)|**2025-05-01**|null|
 |**2025-05-01**|**Diverse Semantics-Guided Feature Alignment and Decoupling for Visible-Infrared Person Re-Identification**|Neng Dong et.al.|[2505.00619v1](http://arxiv.org/abs/2505.00619v1)|**2025-05-01**|null|
 |**2025-05-01**|**RevealNet: Distributed Traffic Correlation for Attack Attribution on Programmable Networks**|Gurjot Singh et.al.|[2505.00618v1](http://arxiv.org/abs/2505.00618v1)|**2025-05-01**|null|

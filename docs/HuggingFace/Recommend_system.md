@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-05-04
+Updated on 2025-05-05
 
 > Generated from the Hugging Face database.
 
@@ -92,6 +92,7 @@ Updated on 2025-05-04
 | 1.46k | 4 | jakeBland/wav2vec-vm-finetuneAudio | Updated12 days ago | [Link](https://huggingface.co/jakeBland/wav2vec-vm-finetune) |
 | 204 | 4 | Jzuluaga/bert-base-speaker-role-atc-en-uwb-atccAudio | UpdatedFeb 8, 2024 | [Link](https://huggingface.co/Jzuluaga/bert-base-speaker-role-atc-en-uwb-atcc) |
 | 266 | 3 | DunnBC22/wav2vec2-base-Toronto_emotional_speech_setAudio | UpdatedMay 12, 2023 | [Link](https://huggingface.co/DunnBC22/wav2vec2-base-Toronto_emotional_speech_set) |
+| 471 | 3 | anton-l/xtreme_s_xlsr_300m_minds14Audio | UpdatedApr 3, 2022 | [Link](https://huggingface.co/anton-l/xtreme_s_xlsr_300m_minds14) |
 | 188 | 2 | Dc26/wav2vec2-base-finetuned-ksAudio | UpdatedMar 29, 2023 | [Link](https://huggingface.co/Dc26/wav2vec2-base-finetuned-ks) |
 | 169 | 2 | minoosh/finetuned_wav2vec2 | UpdatedJun 10, 2023 | [Link](https://huggingface.co/minoosh/finetuned_wav2vec2.0-base-on-IEMOCAP_2) |
 | 9 | 2 | Hibernates/Hiber-Voice-Unmasking-CUDA-V1Audio | Updated3 days ago | [Link](https://huggingface.co/Hibernates/Hiber-Voice-Unmasking-CUDA-V1) |
@@ -839,6 +840,7 @@ Updated on 2025-05-04
 | 157M | 4 | timm/mobilenetv3_small_100 | UpdatedJan 21 | [Link](https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k) |
 | 24 | 4 | carlosaguayo/cats_vs_dogsImage | UpdatedJan 13, 2022 | [Link](https://huggingface.co/carlosaguayo/cats_vs_dogs) |
 | 34 | 4 | Ateeqq/ai-vs-human-image-detectorImage | Updatedabout 3 hours ago | [Link](https://huggingface.co/Ateeqq/ai-vs-human-image-detector) |
+| 1.53k | 4 | timm/vit_base_patch16_rope_reg1_gap_256 | UpdatedJan 21 | [Link](https://huggingface.co/timm/vit_base_patch16_rope_reg1_gap_256.sbb_in1k) |
 | 11 | 3 | dglownia/MobileNetV3Large-Bird-Classification-KaggleImage | UpdatedMar 9, 2023 | [Link](https://huggingface.co/dglownia/MobileNetV3Large-Bird-Classification-Kaggle) |
 | 3.9k | 3 | facebook/convnext-large-224-22k-1kImage | UpdatedNov 21, 2023 | [Link](https://huggingface.co/facebook/convnext-large-224-22k-1k) |
 | 3 | 3 | prithivMLmods/Gym-Workout-Classifier-SigLIP2Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/prithivMLmods/Gym-Workout-Classifier-SigLIP2) |
@@ -2696,6 +2698,7 @@ Updated on 2025-05-04
 | 59 | 17 | HiDream-ai/HiDream-I1-DevText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/HiDream-ai/HiDream-I1-Dev) |
 | 66 | 16 | HiDream-ai/HiDream-I1-FastText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/HiDream-ai/HiDream-I1-Fast) |
 | 42 | 16 | codermert/burcuufinal_fluxxText-to-Image | Updated5 days ago | [Link](https://huggingface.co/codermert/burcuufinal_fluxx) |
+| 8 | 14 | mikeyandfriends/PixelWave_FLUX | Updated1 day ago | [Link](https://huggingface.co/mikeyandfriends/PixelWave_FLUX.1-schnell_04) |
 |  | 13 | aaronaftab/mirage-ghibliText-to-Image | Updatedabout 14 hours ago | [Link](https://huggingface.co/aaronaftab/mirage-ghibli) |
 | 4 | 13 | fumeisama/drawatoon-v1Text-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/fumeisama/drawatoon-v1) |
 | 2.1k | 13 | city96/HiDream-I1-Full-ggufText-to-Image | Updated1 day ago | [Link](https://huggingface.co/city96/HiDream-I1-Full-gguf) |
@@ -2817,6 +2820,7 @@ Updated on 2025-05-04
 | 199 | 451 | CAMB-AI/MARS5-TTSText-to-Speech | UpdatedJul 5, 2024 | [Link](https://huggingface.co/CAMB-AI/MARS5-TTS) |
 | 5.64k | 352 | parler-tts/parler_tts_mini_v0 | UpdatedApr 30, 2024 | [Link](https://huggingface.co/parler-tts/parler_tts_mini_v0.1) |
 | 171 | 276 | amphion/MaskGCTText-to-Speech | UpdatedDec 22, 2024 | [Link](https://huggingface.co/amphion/MaskGCT) |
+| 1.5k | 272 | facebook/fastspeech2-en-ljspeechText-to-Speech | UpdatedJan 28, 2022 | [Link](https://huggingface.co/facebook/fastspeech2-en-ljspeech) |
 | 116k | 255 | myshell-ai/MeloTTS-EnglishText-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/MeloTTS-English) |
 | 19.5k | 241 | parler-tts/parler-tts-large-v1Text-to-Speech | UpdatedNov 22, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-large-v1) |
 | 27.5k | 194 | suno/bark-smallText-to-Speech | UpdatedNov 10, 2023 | [Link](https://huggingface.co/suno/bark-small) |
@@ -3033,6 +3037,7 @@ Updated on 2025-05-04
 | 2.94M | 43 | Rostlab/prot_t5_xl_uniref50Text2Text | UpdatedJan 31, 2023 | [Link](https://huggingface.co/Rostlab/prot_t5_xl_uniref50) |
 | 936 | 24 | Unbabel/gec-t5_smallText2Text | UpdatedSep 27, 2021 | [Link](https://huggingface.co/Unbabel/gec-t5_small) |
 | 9.69k | 24 | google/t5-efficient-tinyText2Text | UpdatedJan 24, 2023 | [Link](https://huggingface.co/google/t5-efficient-tiny) |
+| 19.2k | 24 | google/byt5-baseText2Text | UpdatedJan 24, 2023 | [Link](https://huggingface.co/google/byt5-base) |
 | 11.6k | 23 | google/umt5-smallText2Text | UpdatedJul 6, 2023 | [Link](https://huggingface.co/google/umt5-small) |
 | 298 | 22 | google/umt5-xxlText2Text | UpdatedJul 3, 2023 | [Link](https://huggingface.co/google/umt5-xxl) |
 | 10 | 21 | Supiri/t5-base-conversationText2Text | UpdatedJan 18, 2022 | [Link](https://huggingface.co/Supiri/t5-base-conversation) |

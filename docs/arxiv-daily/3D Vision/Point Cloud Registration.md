@@ -18,7 +18,7 @@
 |**2025-05-01**|**Parameter-Efficient Fine-Tuning with Circulant and Diagonal Vectors**|Xinyu Ding et.al.|[2505.00580v1](http://arxiv.org/abs/2505.00580v1)|**2025-05-01**|null|
 |**2025-05-01**|**Non-Hermitian band topology in twisted bilayer graphene aligned with hexagonal boron nitride**|Kamalesh Bera et.al.|[2505.00566v1](http://arxiv.org/abs/2505.00566v1)|**2025-05-01**|null|
 |**2025-05-01**|**Sum Rate Maximization for NOMA-Assisted Uplink Pinching-Antenna Systems**|Ming Zeng et.al.|[2505.00549v1](http://arxiv.org/abs/2505.00549v1)|**2025-05-01**|null|
-|**2025-05-01**|**InterLoc: LiDAR-based Intersection Localization using Road Segmentation with Automated Evaluation Method**|Nguyen Hoang Khoi Tran et.al.|[2505.00512v1](http://arxiv.org/abs/2505.00512v1)|**2025-05-01**|null|
+|**2025-05-01**|**InterLoc: LiDAR-based Intersection Localization using Road Segmentation with Automated Evaluation Method**|Nguyen Hoang Khoi Tran et.al.|[2505.00512v2](http://arxiv.org/abs/2505.00512v2)|**2025-05-02**|null|
 |**2025-05-01**|**HeAL3D: Heuristical-enhanced Active Learning for 3D Object Detection**|Esteban Rivera et.al.|[2505.00507v1](http://arxiv.org/abs/2505.00507v1)|**2025-05-01**|null|
 |**2025-05-01**|**Implicit Neural-Representation Learning for Elastic Deformable-Object Manipulations**|Minseok Song et.al.|[2505.00500v1](http://arxiv.org/abs/2505.00500v1)|**2025-05-01**|null|
 |**2025-05-01**|**Unveiling hidden features of the Kitaev model through a complex-network analysis**|Guillem Llodrà et.al.|[2505.00444v1](http://arxiv.org/abs/2505.00444v1)|**2025-05-01**|null|

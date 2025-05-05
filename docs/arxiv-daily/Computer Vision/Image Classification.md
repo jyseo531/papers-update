@@ -22,7 +22,7 @@
 |**2025-05-01**|**Synthesizing and Identifying Noise Levels in Autonomous Vehicle Camera Radar Datasets**|Mathis Morales et.al.|[2505.00584v1](http://arxiv.org/abs/2505.00584v1)|**2025-05-01**|null|
 |**2025-05-01**|**AI-Driven High-Resolution Cell Segmentation and Quantitative Analysis**|Shuang Zhang et.al.|[2505.00578v1](http://arxiv.org/abs/2505.00578v1)|**2025-05-01**|null|
 |**2025-05-01**|**Topologically conjugate classification of diagonal operators**|Yue Xin et.al.|[2505.00577v1](http://arxiv.org/abs/2505.00577v1)|**2025-05-01**|null|
-|**2025-05-01**|**Multimodal Masked Autoencoder Pre-training for 3D MRI-Based Brain Tumor Analysis with Missing Modalities**|Lucas Robinet et.al.|[2505.00568v1](http://arxiv.org/abs/2505.00568v1)|**2025-05-01**|null|
+|**2025-05-01**|**Multimodal Masked Autoencoder Pre-training for 3D MRI-Based Brain Tumor Analysis with Missing Modalities**|Lucas Robinet et.al.|[2505.00568v2](http://arxiv.org/abs/2505.00568v2)|**2025-05-02**|null|
 |**2025-05-01**|**X-ray illicit object detection using hybrid CNN-transformer neural network architectures**|Jorgen Cani et.al.|[2505.00564v1](http://arxiv.org/abs/2505.00564v1)|**2025-05-01**|null|
 |**2025-05-01**|**Exponentially Consistent Low Complexity Tests for Outlier Hypothesis Testing with Distribution Uncertainty**|Jun Diao et.al.|[2505.00558v1](http://arxiv.org/abs/2505.00558v1)|**2025-05-01**|null|
 |**2025-05-01**|**The Jackknife method as a new approach to validate strong lens mass models**|Shun Nishida et.al.|[2505.00553v1](http://arxiv.org/abs/2505.00553v1)|**2025-05-01**|null|

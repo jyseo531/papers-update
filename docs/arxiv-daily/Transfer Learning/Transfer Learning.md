@@ -16,7 +16,7 @@
 |**2025-05-01**|**Wasserstein Policy Optimization**|David Pfau et.al.|[2505.00663v1](http://arxiv.org/abs/2505.00663v1)|**2025-05-01**|null|
 |**2025-05-01**|**DeepCritic: Deliberate Critique with Large Language Models**|Wenkai Yang et.al.|[2505.00662v1](http://arxiv.org/abs/2505.00662v1)|**2025-05-01**|null|
 |**2025-05-01**|**On the generalization of language models from in-context learning and finetuning: a controlled study**|Andrew K. Lampinen et.al.|[2505.00661v1](http://arxiv.org/abs/2505.00661v1)|**2025-05-01**|null|
-|**2025-05-01**|**AI-based CSI Feedback with Digital Twins: Real-World Validation and Insights**|Tzu-Hao Huang et.al.|[2505.00660v1](http://arxiv.org/abs/2505.00660v1)|**2025-05-01**|null|
+|**2025-05-01**|**AI-based CSI Feedback with Digital Twins: Real-World Validation and Insights**|Tzu-Hao Huang et.al.|[2505.00660v2](http://arxiv.org/abs/2505.00660v2)|**2025-05-02**|null|
 |**2025-05-01**|**Joint inference for gravitational wave signals and glitches using a data-informed glitch model**|Ann-Kristin Malz et.al.|[2505.00657v1](http://arxiv.org/abs/2505.00657v1)|**2025-05-01**|null|
 |**2025-05-01**|**Open-Source LLM-Driven Federated Transformer for Predictive IoV Management**|Yazan Otoum et.al.|[2505.00651v1](http://arxiv.org/abs/2505.00651v1)|**2025-05-01**|null|
 |**2025-05-01**|**OmicsCL: Unsupervised Contrastive Learning for Cancer Subtype Discovery and Survival Stratification**|Atahan Karagoz et.al.|[2505.00650v1](http://arxiv.org/abs/2505.00650v1)|**2025-05-01**|null|
@@ -28,7 +28,7 @@
 |**2025-05-01**|**Bayes-Optimal Fair Classification with Multiple Sensitive Features**|Yi Yang et.al.|[2505.00631v1](http://arxiv.org/abs/2505.00631v1)|**2025-05-01**|null|
 |**2025-05-01**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630v1](http://arxiv.org/abs/2505.00630v1)|**2025-05-01**|null|
 |**2025-05-01**|**The Illusion of Role Separation: Hidden Shortcuts in LLM Role Learning (and How to Fix Them)**|Zihao Wang et.al.|[2505.00626v1](http://arxiv.org/abs/2505.00626v1)|**2025-05-01**|null|
-|**2025-05-01**|**SA-GAT-SR: Self-Adaptable Graph Attention Networks with Symbolic Regression for high-fidelity material property prediction**|Liu Junchi et.al.|[2505.00625v1](http://arxiv.org/abs/2505.00625v1)|**2025-05-01**|[link](https://github.com/MustBeOne/SA-GAT-SR)|
+|**2025-05-01**|**SA-GAT-SR: Self-Adaptable Graph Attention Networks with Symbolic Regression for high-fidelity material property prediction**|Liu Junchi et.al.|[2505.00625v2](http://arxiv.org/abs/2505.00625v2)|**2025-05-02**|[link](https://github.com/MustBeOne/SA-GAT-SR)|
 |**2025-05-01**|**Neural Network Verification for Gliding Drone Control: A Case Study**|Colin Kessler et.al.|[2505.00622v1](http://arxiv.org/abs/2505.00622v1)|**2025-05-01**|null|
 |**2025-05-01**|**Dietary Intake Estimation via Continuous 3D Reconstruction of Food**|Wallace Lee et.al.|[2505.00606v1](http://arxiv.org/abs/2505.00606v1)|**2025-05-01**|null|
 |**2025-05-01**|**Understanding and improving transferability in machine-learned activation energy predictors**|Joe Gilkes et.al.|[2505.00604v1](http://arxiv.org/abs/2505.00604v1)|**2025-05-01**|null|
