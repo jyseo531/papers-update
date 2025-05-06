@@ -2,33 +2,33 @@
 ### Image Caption
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-02**|**Galaxy Zoo CEERS: Bar fractions up to z~4.0**|Tobias Géron et.al.|[2505.01421v1](http://arxiv.org/abs/2505.01421v1)|**2025-05-02**|null|
-|**2025-05-02**|**Collection of fluorescence from an ion using trap-integrated photonics**|Felix W. Knollmann et.al.|[2505.01412v1](http://arxiv.org/abs/2505.01412v1)|**2025-05-02**|null|
-|**2025-05-02**|**VIDSTAMP: A Temporally-Aware Watermark for Ownership and Integrity in Video Diffusion Models**|Mohammadreza Teymoorianfard et.al.|[2505.01406v1](http://arxiv.org/abs/2505.01406v1)|**2025-05-02**|null|
-|**2025-05-02**|**Multimodal Doctor-in-the-Loop: A Clinically-Guided Explainable Framework for Predicting Pathological Response in Non-Small Cell Lung Cancer**|Alice Natalina Caragliano et.al.|[2505.01390v1](http://arxiv.org/abs/2505.01390v1)|**2025-05-02**|null|
-|**2025-05-02**|**Potential Contrast: Properties, Equivalences, and Generalization to Multiple Classes**|Wallace Peaslee et.al.|[2505.01388v1](http://arxiv.org/abs/2505.01388v1)|**2025-05-02**|null|
-|**2025-05-02**|**Global Collinearity-aware Polygonizer for Polygonal Building Mapping in Remote Sensing**|Fahong Zhang et.al.|[2505.01385v1](http://arxiv.org/abs/2505.01385v1)|**2025-05-02**|null|
-|**2025-05-02**|**FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research**|Yan Miao et.al.|[2505.01383v1](http://arxiv.org/abs/2505.01383v1)|**2025-05-02**|null|
-|**2025-05-02**|**Monitoring morphometric drift in lifelong learning segmentation of the spinal cord**|Enamundram Naga Karthik et.al.|[2505.01364v1](http://arxiv.org/abs/2505.01364v1)|**2025-05-02**|null|
-|**2025-05-02**|**FreeInsert: Disentangled Text-Guided Object Insertion in 3D Gaussian Scene without Spatial Priors**|Chenxi Li et.al.|[2505.01322v1](http://arxiv.org/abs/2505.01322v1)|**2025-05-02**|null|
-|**2025-05-02**|**Contactless pulse rate assessment: Results and insights for application in driving simulator**|Đorđe D. Nešković et.al.|[2505.01299v1](http://arxiv.org/abs/2505.01299v1)|**2025-05-02**|null|
-|**2025-05-02**|**Deblurring fission fragment mass distributions**|Pierre Nzabahimana et.al.|[2505.01294v1](http://arxiv.org/abs/2505.01294v1)|**2025-05-02**|null|
-|**2025-05-02**|**Diffusion-based Adversarial Purification from the Perspective of the Frequency Domain**|Gaozheng Pei et.al.|[2505.01267v1](http://arxiv.org/abs/2505.01267v1)|**2025-05-02**|null|
-|**2025-05-02**|**Simultaneous Multi-Beam Radar with Full Range Resolution exploiting Space-Code Beamforming**|P. Pon Surendar et.al.|[2505.01265v1](http://arxiv.org/abs/2505.01265v1)|**2025-05-02**|null|
-|**2025-05-02**|**Fusing Foveal Fixations Using Linear Retinal Transformations and Bayesian Experimental Design**|Christopher K. I. Williams et.al.|[2505.01249v1](http://arxiv.org/abs/2505.01249v1)|**2025-05-02**|null|
-|**2025-05-02**|**mwBTFreddy: A Dataset for Flash Flood Damage Assessment in Urban Malawi**|Evelyn Chapuma et.al.|[2505.01242v1](http://arxiv.org/abs/2505.01242v1)|**2025-05-02**|null|
-|**2025-05-02**|**Can Foundation Models Really Segment Tumors? A Benchmarking Odyssey in Lung CT Imaging**|Elena Mulero Ayllón et.al.|[2505.01239v1](http://arxiv.org/abs/2505.01239v1)|**2025-05-02**|null|
-|**2025-05-02**|**Core-Set Selection for Data-efficient Land Cover Segmentation**|Keiller Nogueira et.al.|[2505.01225v1](http://arxiv.org/abs/2505.01225v1)|**2025-05-02**|null|
-|**2025-05-02**|**RD-UIE: Relation-Driven State Space Modeling for Underwater Image Enhancement**|Kui Jiang et.al.|[2505.01224v1](http://arxiv.org/abs/2505.01224v1)|**2025-05-02**|null|
-|**2025-05-02**|**High Dynamic Range Novel View Synthesis with Single Exposure**|Kaixuan Zhang et.al.|[2505.01212v1](http://arxiv.org/abs/2505.01212v1)|**2025-05-02**|null|
-|**2025-05-02**|**T-Graph: Enhancing Sparse-view Camera Pose Estimation by Pairwise Translation Graph**|Qingyu Xian et.al.|[2505.01207v1](http://arxiv.org/abs/2505.01207v1)|**2025-05-02**|null|
-|**2025-05-02**|**Efficient Vision-based Vehicle Speed Estimation**|Andrej Macko et.al.|[2505.01203v1](http://arxiv.org/abs/2505.01203v1)|**2025-05-02**|null|
-|**2025-05-02**|**Helium Range Viability for Online Range Probing in Mixed Carbon-Helium Beams**|Jennifer J. Hardt et.al.|[2505.01165v1](http://arxiv.org/abs/2505.01165v1)|**2025-05-02**|null|
-|**2025-05-02**|**TActiLE: Tiny Active LEarning for wearable devices**|Massimo Pavan et.al.|[2505.01160v1](http://arxiv.org/abs/2505.01160v1)|**2025-05-02**|null|
-|**2025-05-02**|**NeuroLoc: Encoding Navigation Cells for 6-DOF Camera Localization**|Xun Li et.al.|[2505.01113v1](http://arxiv.org/abs/2505.01113v1)|**2025-05-02**|null|
-|**2025-05-02**|**Self-Supervision Enhances Instance-based Multiple Instance Learning Methods in Digital Pathology: A Benchmark Study**|Ali Mammadov et.al.|[2505.01109v1](http://arxiv.org/abs/2505.01109v1)|**2025-05-02**|null|
-|**2025-05-02**|**VSC: Visual Search Compositional Text-to-Image Diffusion Model**|Do Huu Dat et.al.|[2505.01104v1](http://arxiv.org/abs/2505.01104v1)|**2025-05-02**|null|
-|**2025-05-02**|**Any-to-Any Vision-Language Model for Multimodal X-ray Imaging and Radiological Report Generation**|Daniele Molino et.al.|[2505.01091v1](http://arxiv.org/abs/2505.01091v1)|**2025-05-02**|null|
-|**2025-05-02**|**Diffuse Optical Ptychography**|Mingwei He et.al.|[2505.01090v1](http://arxiv.org/abs/2505.01090v1)|**2025-05-02**|null|
-|**2025-05-02**|**Improving Editability in Image Generation with Layer-wise Memory**|Daneul Kim et.al.|[2505.01079v1](http://arxiv.org/abs/2505.01079v1)|**2025-05-02**|null|
-|**2025-05-02**|**Efficient Vocabulary-Free Fine-Grained Visual Recognition in the Age of Multimodal LLMs**|Hari Chandana Kuchibhotla et.al.|[2505.01064v1](http://arxiv.org/abs/2505.01064v1)|**2025-05-02**|null|
+|**2025-05-05**|**Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation**|Lu Ling et.al.|[2505.02836v1](http://arxiv.org/abs/2505.02836v1)|**2025-05-05**|null|
+|**2025-05-05**|**AOR: Anatomical Ontology-Guided Reasoning for Medical Large Multimodal Model in Chest X-Ray Interpretation**|Qingqiu Li et.al.|[2505.02830v1](http://arxiv.org/abs/2505.02830v1)|**2025-05-05**|null|
+|**2025-05-05**|**LISAT: Language-Instructed Segmentation Assistant for Satellite Imagery**|Jerome Quenum et.al.|[2505.02829v1](http://arxiv.org/abs/2505.02829v1)|**2025-05-05**|null|
+|**2025-05-05**|**Towards Dataset Copyright Evasion Attack against Personalized Text-to-Image Diffusion Models**|Kuofeng Gao et.al.|[2505.02824v1](http://arxiv.org/abs/2505.02824v1)|**2025-05-05**|null|
+|**2025-05-05**|**MUSAR: Exploring Multi-Subject Customization from Single-Subject Dataset via Attention Routing**|Zinan Guo et.al.|[2505.02823v1](http://arxiv.org/abs/2505.02823v1)|**2025-05-05**|null|
+|**2025-05-05**|**Closeby Habitable Exoplanet Survey (CHES). IV. Synergy between astrometry and direct imaging missions of the Habitable World Observatory for detecting Earth-like planets**|Chunhui Bao et.al.|[2505.02818v1](http://arxiv.org/abs/2505.02818v1)|**2025-05-05**|null|
+|**2025-05-05**|**DPNet: Dynamic Pooling Network for Tiny Object Detection**|Luqi Gong et.al.|[2505.02797v1](http://arxiv.org/abs/2505.02797v1)|**2025-05-05**|null|
+|**2025-05-05**|**Unsupervised training of keypoint-agnostic descriptors for flexible retinal image registration**|David Rivas-Villar et.al.|[2505.02787v1](http://arxiv.org/abs/2505.02787v1)|**2025-05-05**|null|
+|**2025-05-05**|**Advances in Automated Fetal Brain MRI Segmentation and Biometry: Insights from the FeTA 2024 Challenge**|Vladyslav Zalevskyi et.al.|[2505.02784v1](http://arxiv.org/abs/2505.02784v1)|**2025-05-05**|null|
+|**2025-05-05**|**Beyond the Monitor: Mixed Reality Visualization and AI for Enhanced Digital Pathology Workflow**|Jai Prakash Veerla et.al.|[2505.02780v1](http://arxiv.org/abs/2505.02780v1)|**2025-05-05**|null|
+|**2025-05-05**|**Unsupervised Deep Learning-based Keypoint Localization Estimating Descriptor Matching Performance**|David Rivas-Villar et.al.|[2505.02779v1](http://arxiv.org/abs/2505.02779v1)|**2025-05-05**|null|
+|**2025-05-05**|**Induction automorphe: représentations unitaires et spectre résiduel**|Martin Fatou et.al.|[2505.02775v1](http://arxiv.org/abs/2505.02775v1)|**2025-05-05**|null|
+|**2025-05-05**|**Two More Bow Shocks and Off-Center Halpha Nebulae Associated with Nova-like Cataclysmic Variables**|Howard E. Bond et.al.|[2505.02760v1](http://arxiv.org/abs/2505.02760v1)|**2025-05-05**|null|
+|**2025-05-05**|**Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models**|Yankai Jiang et.al.|[2505.02753v1](http://arxiv.org/abs/2505.02753v1)|**2025-05-05**|null|
+|**2025-05-05**|**Using Knowledge Graphs to harvest datasets for efficient CLIP model training**|Simon Ging et.al.|[2505.02746v1](http://arxiv.org/abs/2505.02746v1)|**2025-05-05**|null|
+|**2025-05-05**|**Sensing Birefringence and Diattenuation with Undetected Light**|Cristofero Oglialoro et.al.|[2505.02732v1](http://arxiv.org/abs/2505.02732v1)|**2025-05-05**|null|
+|**2025-05-05**|**Topology across Scales on Heterogeneous Cell Data**|Maria Torras-Pérez et.al.|[2505.02717v1](http://arxiv.org/abs/2505.02717v1)|**2025-05-05**|null|
+|**2025-05-05**|**Multi-View Learning with Context-Guided Receptance for Image Denoising**|Binghong Chen et.al.|[2505.02705v1](http://arxiv.org/abs/2505.02705v1)|**2025-05-05**|null|
+|**2025-05-05**|**Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery**|Bojin Wu et.al.|[2505.02704v1](http://arxiv.org/abs/2505.02704v1)|**2025-05-05**|null|
+|**2025-05-05**|**Structure Causal Models and LLMs Integration in Medical Visual Question Answering**|Zibo Xu et.al.|[2505.02703v1](http://arxiv.org/abs/2505.02703v1)|**2025-05-05**|null|
+|**2025-05-05**|**Estimations of lung structural properties from a single propagation-based dark-field X-ray image**|Dylan W. O'Connell et.al.|[2505.02695v1](http://arxiv.org/abs/2505.02695v1)|**2025-05-05**|null|
+|**2025-05-05**|**Exploring the IR-radio correlation in massive galaxy clusters at the end of cosmic noon**|N. Samanso et.al.|[2505.02687v1](http://arxiv.org/abs/2505.02687v1)|**2025-05-05**|null|
+|**2025-05-05**|**Multimodal Deep Learning for Stroke Prediction and Detection using Retinal Imaging and Clinical Data**|Saeed Shurrab et.al.|[2505.02677v1](http://arxiv.org/abs/2505.02677v1)|**2025-05-05**|null|
+|**2025-05-05**|**Sim2Real in endoscopy segmentation with a novel structure aware image translation**|Clara Tomasini et.al.|[2505.02654v1](http://arxiv.org/abs/2505.02654v1)|**2025-05-05**|null|
+|**2025-05-05**|**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**|Mingcheng Li et.al.|[2505.02648v1](http://arxiv.org/abs/2505.02648v1)|**2025-05-05**|null|
+|**2025-05-05**|**DeepSparse: A Foundation Model for Sparse-View CBCT Reconstruction**|Yiqun Lin et.al.|[2505.02628v1](http://arxiv.org/abs/2505.02628v1)|**2025-05-05**|null|
+|**2025-05-05**|**Lane-Wise Highway Anomaly Detection**|Mei Qiu et.al.|[2505.02613v1](http://arxiv.org/abs/2505.02613v1)|**2025-05-05**|null|
+|**2025-05-05**|**Novel Long-Wave Near-Infrared Fluorescence Bands in Tricarbocyanine Dyes**|Nitzan Dar et.al.|[2505.02602v1](http://arxiv.org/abs/2505.02602v1)|**2025-05-05**|null|
+|**2025-05-05**|**GarmentImage: Raster Encoding of Garment Sewing Patterns with Diverse Topologies**|Yuki Tatsukawa et.al.|[2505.02592v1](http://arxiv.org/abs/2505.02592v1)|**2025-05-05**|null|
+|**2025-05-05**|**Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities**|Xinjie Zhang et.al.|[2505.02567v1](http://arxiv.org/abs/2505.02567v1)|**2025-05-05**|null|

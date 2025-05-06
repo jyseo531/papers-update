@@ -2,6 +2,16 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-05**|**Unsupervised training of keypoint-agnostic descriptors for flexible retinal image registration**|David Rivas-Villar et.al.|[2505.02787v1](http://arxiv.org/abs/2505.02787v1)|**2025-05-05**|null|
+|**2025-05-05**|**Unsupervised Deep Learning-based Keypoint Localization Estimating Descriptor Matching Performance**|David Rivas-Villar et.al.|[2505.02779v1](http://arxiv.org/abs/2505.02779v1)|**2025-05-05**|null|
+|**2025-05-05**|**Topology across Scales on Heterogeneous Cell Data**|Maria Torras-Pérez et.al.|[2505.02717v1](http://arxiv.org/abs/2505.02717v1)|**2025-05-05**|null|
+|**2025-05-05**|**Dance of Fireworks: An Interactive Broadcast Gymnastics Training System Based on Pose Estimation**|Haotian Chen et.al.|[2505.02690v1](http://arxiv.org/abs/2505.02690v1)|**2025-05-05**|null|
+|**2025-05-05**|**Corr2Distrib: Making Ambiguous Correspondences an Ally to Predict Reliable 6D Pose Distributions**|Asma Brazi et.al.|[2505.02501v1](http://arxiv.org/abs/2505.02501v1)|**2025-05-05**|null|
+|**2025-05-04**|**Focus What Matters: Matchability-Based Reweighting for Local Feature Matching**|Dongyue Li et.al.|[2505.02161v1](http://arxiv.org/abs/2505.02161v1)|**2025-05-04**|null|
+|**2025-05-04**|**Chemical hydrodynamics of nuclear spin states**|Anupama Acharya et.al.|[2505.02085v1](http://arxiv.org/abs/2505.02085v1)|**2025-05-04**|null|
+|**2025-05-04**|**Enhancing Lidar Point Cloud Sampling via Colorization and Super-Resolution of Lidar Imagery**|Sier Ha et.al.|[2505.02049v1](http://arxiv.org/abs/2505.02049v1)|**2025-05-04**|null|
+|**2025-05-03**|**MVHumanNet++: A Large-scale Dataset of Multi-view Daily Dressing Human Captures with Richer Annotations for 3D Human Digitization**|Chenghong Li et.al.|[2505.01838v1](http://arxiv.org/abs/2505.01838v1)|**2025-05-03**|null|
+|**2025-05-03**|**Automated ARAT Scoring Using Multimodal Video Analysis, Multi-View Fusion, and Hierarchical Bayesian Models: A Clinician Study**|Tamim Ahmed et.al.|[2505.01680v1](http://arxiv.org/abs/2505.01680v1)|**2025-05-03**|null|
 |**2025-05-02**|**Scoring-Assisted Generative Exploration for Proteins (SAGE-Prot): A Framework for Multi-Objective Protein Optimization via Iterative Sequence Generation and Evaluation**|Hocheol Lim et.al.|[2505.01277v1](http://arxiv.org/abs/2505.01277v1)|**2025-05-02**|null|
 |**2025-05-02**|**Graph Neural Network-based structural classification of glass-forming liquids and its interpretation via Self-Attention mechanism**|Kohei Yoshikawa et.al.|[2505.00993v1](http://arxiv.org/abs/2505.00993v1)|**2025-05-02**|null|
 |**2025-05-01**|**Robotic Visual Instruction**|Yanbang Li et.al.|[2505.00693v1](http://arxiv.org/abs/2505.00693v1)|**2025-05-01**|null|
@@ -22,13 +32,3 @@
 |**2025-04-27**|**LRFusionPR: A Polar BEV-Based LiDAR-Radar Fusion Network for Place Recognition**|Zhangshuo Qi et.al.|[2504.19186v1](http://arxiv.org/abs/2504.19186v1)|**2025-04-27**|null|
 |**2025-04-27**|**Newton-Puiseux Analysis for Interpretability and Calibration of Complex-Valued Neural Networks**|Piotr Migus et.al.|[2504.19176v1](http://arxiv.org/abs/2504.19176v1)|**2025-04-27**|null|
 |**2025-04-27**|**Interplay of Coil-Globule Transitions and Aggregation in Homopolymer Aqueous Solutions: Simulation and Topological Insights**|Junichi Komatsu et.al.|[2504.19147v1](http://arxiv.org/abs/2504.19147v1)|**2025-04-27**|null|
-|**2025-04-26**|**Improved Molecular Generation through Attribute-Driven Integrative Embeddings and GAN Selectivity**|Nandan Joshi et.al.|[2504.19040v1](http://arxiv.org/abs/2504.19040v1)|**2025-04-26**|null|
-|**2025-04-26**|**VISUALCENT: Visual Human Analysis using Dynamic Centroid Representation**|Niaz Ahmad et.al.|[2504.19032v1](http://arxiv.org/abs/2504.19032v1)|**2025-04-26**|null|
-|**2025-04-25**|**Molecular Similarity in Machine Learning of Energies in Chemical Reaction Networks**|Stefan Gugler et.al.|[2504.18742v1](http://arxiv.org/abs/2504.18742v1)|**2025-04-25**|null|
-|**2025-04-25**|**A Multimodal Deep Learning Approach for White Matter Shape Prediction in Diffusion MRI Tractography**|Yui Lo et.al.|[2504.18400v1](http://arxiv.org/abs/2504.18400v1)|**2025-04-25**|null|
-|**2025-04-24**|**EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy**|Haodi Yao et.al.|[2504.17280v1](http://arxiv.org/abs/2504.17280v1)|**2025-04-24**|null|
-|**2025-04-24**|**Polydisperse polymer networks with irregular topologies**|Jason Mulderrig et.al.|[2504.17239v1](http://arxiv.org/abs/2504.17239v1)|**2025-04-24**|null|
-|**2025-04-23**|**Conley-Morse persistence barcode: a homological signature of a combinatorial bifurcation**|Tamal K. Dey et.al.|[2504.17105v1](http://arxiv.org/abs/2504.17105v1)|**2025-04-23**|null|
-|**2025-04-23**|**Advanced Chest X-Ray Analysis via Transformer-Based Image Descriptors and Cross-Model Attention Mechanism**|Lakshita Agarwal et.al.|[2504.16774v1](http://arxiv.org/abs/2504.16774v1)|**2025-04-23**|null|
-|**2025-04-22**|**Meta-Entity Driven Triplet Mining for Aligning Medical Vision-Language Models**|Saban Ozturk et.al.|[2504.15929v2](http://arxiv.org/abs/2504.15929v2)|**2025-04-24**|null|
-|**2025-04-21**|**Unifying Image Counterfactuals and Feature Attributions with Latent-Space Adversarial Attacks**|Jeremy Goldwasser et.al.|[2504.15479v1](http://arxiv.org/abs/2504.15479v1)|**2025-04-21**|null|
