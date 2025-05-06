@@ -8,7 +8,7 @@
 |**2025-05-02**|**DebtStreamness: An Ecological Approach to Credit Flows in Inter-Firm Networks**|Anahí Rodríguez-Martínez et.al.|[2505.01326v1](http://arxiv.org/abs/2505.01326v1)|**2025-05-02**|null|
 |**2025-05-02**|**FreeInsert: Disentangled Text-Guided Object Insertion in 3D Gaussian Scene without Spatial Priors**|Chenxi Li et.al.|[2505.01322v1](http://arxiv.org/abs/2505.01322v1)|**2025-05-02**|null|
 |**2025-05-02**|**Model See Model Do: Speech-Driven Facial Animation with Style Control**|Yifang Pan et.al.|[2505.01319v1](http://arxiv.org/abs/2505.01319v1)|**2025-05-02**|null|
-|**2025-05-02**|**Direct Evidence of Metal-Ligand Redox in Li-ion Battery Cathodes**|Galo J. Paez Fajardo et.al.|[2505.01251v1](http://arxiv.org/abs/2505.01251v1)|**2025-05-02**|null|
+|**2025-05-02**|**Direct Evidence of Metal-Ligand Redox in Li-ion Battery Cathodes**|Galo J. Paez Fajardo et.al.|[2505.01251v2](http://arxiv.org/abs/2505.01251v2)|**2025-05-05**|null|
 |**2025-05-02**|**Asymptotic Linear Convergence of ADMM for Isotropic TV Norm Compressed Sensing**|Emmanuel Gil Torres et.al.|[2505.01240v1](http://arxiv.org/abs/2505.01240v1)|**2025-05-02**|null|
 |**2025-05-02**|**CAV-MAE Sync: Improving Contrastive Audio-Visual Mask Autoencoders via Fine-Grained Alignment**|Edson Araujo et.al.|[2505.01237v1](http://arxiv.org/abs/2505.01237v1)|**2025-05-02**|null|
 |**2025-05-02**|**Compensating Spatiotemporally Inconsistent Observations for Online Dynamic 3D Gaussian Splatting**|Youngsik Yun et.al.|[2505.01235v1](http://arxiv.org/abs/2505.01235v1)|**2025-05-02**|null|
@@ -18,8 +18,8 @@
 |**2025-05-02**|**High Dynamic Range Novel View Synthesis with Single Exposure**|Kaixuan Zhang et.al.|[2505.01212v1](http://arxiv.org/abs/2505.01212v1)|**2025-05-02**|null|
 |**2025-05-02**|**Efficient Vision-based Vehicle Speed Estimation**|Andrej Macko et.al.|[2505.01203v1](http://arxiv.org/abs/2505.01203v1)|**2025-05-02**|null|
 |**2025-05-02**|**Multi Moire Networks in Engineered Lateral Hetero-Bilayers: Programmable Phononic Reconfiguration and Second Harmonic Generation**|Suman Kumar Chakraborty et.al.|[2505.01188v1](http://arxiv.org/abs/2505.01188v1)|**2025-05-02**|null|
-|**2025-05-02**|**Distributed Quantum Circuit Cutting for Hybrid Quantum-Classical High-Performance Computing**|Mar Tejedor et.al.|[2505.01184v1](http://arxiv.org/abs/2505.01184v1)|**2025-05-02**|null|
-|**2025-05-02**|**TSTMotion: Training-free Scene-awarenText-to-motion Generation**|Ziyan Guo et.al.|[2505.01182v1](http://arxiv.org/abs/2505.01182v1)|**2025-05-02**|null|
+|**2025-05-02**|**Distributed Quantum Circuit Cutting for Hybrid Quantum-Classical High-Performance Computing**|Mar Tejedor et.al.|[2505.01184v2](http://arxiv.org/abs/2505.01184v2)|**2025-05-05**|null|
+|**2025-05-02**|**TSTMotion: Training-free Scene-aware Text-to-motion Generation**|Ziyan Guo et.al.|[2505.01182v2](http://arxiv.org/abs/2505.01182v2)|**2025-05-05**|null|
 |**2025-05-02**|**Stochastic Hartree NLS in 3d coming from a Many-Body Quantum System with White Noise Potential**|Francesco Carlo De Vecchi et.al.|[2505.01157v1](http://arxiv.org/abs/2505.01157v1)|**2025-05-02**|null|
 |**2025-05-02**|**Product-level value chains from firm data: mapping trophic levels into economic growth**|Massimiliano Fessina et.al.|[2505.01133v1](http://arxiv.org/abs/2505.01133v1)|**2025-05-02**|null|
 |**2025-05-02**|**NeuroLoc: Encoding Navigation Cells for 6-DOF Camera Localization**|Xun Li et.al.|[2505.01113v1](http://arxiv.org/abs/2505.01113v1)|**2025-05-02**|null|
