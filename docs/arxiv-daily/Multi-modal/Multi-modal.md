@@ -2,33 +2,33 @@
 ### Multi-modal
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-05**|**AOR: Anatomical Ontology-Guided Reasoning for Medical Large Multimodal Model in Chest X-Ray Interpretation**|Qingqiu Li et.al.|[2505.02830v1](http://arxiv.org/abs/2505.02830v1)|**2025-05-05**|null|
-|**2025-05-05**|**Unsupervised Deep Learning-based Keypoint Localization Estimating Descriptor Matching Performance**|David Rivas-Villar et.al.|[2505.02779v1](http://arxiv.org/abs/2505.02779v1)|**2025-05-05**|null|
-|**2025-05-05**|**Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models**|Yankai Jiang et.al.|[2505.02753v1](http://arxiv.org/abs/2505.02753v1)|**2025-05-05**|null|
-|**2025-05-05**|**Structure Causal Models and LLMs Integration in Medical Visual Question Answering**|Zibo Xu et.al.|[2505.02703v1](http://arxiv.org/abs/2505.02703v1)|**2025-05-05**|null|
-|**2025-05-05**|**Cut elimination for a non-wellfounded system for the master modality**|Borja Sierra Miranda et.al.|[2505.02700v1](http://arxiv.org/abs/2505.02700v1)|**2025-05-05**|null|
-|**2025-05-05**|**Multimodal Deep Learning for Stroke Prediction and Detection using Retinal Imaging and Clinical Data**|Saeed Shurrab et.al.|[2505.02677v1](http://arxiv.org/abs/2505.02677v1)|**2025-05-05**|null|
-|**2025-05-05**|**Detect, Classify, Act: Categorizing Industrial Anomalies with Multi-Modal Large Language Models**|Sassan Mokhtar et.al.|[2505.02626v1](http://arxiv.org/abs/2505.02626v1)|**2025-05-05**|null|
-|**2025-05-05**|**Lane-Wise Highway Anomaly Detection**|Mei Qiu et.al.|[2505.02613v1](http://arxiv.org/abs/2505.02613v1)|**2025-05-05**|null|
-|**2025-05-05**|**DELTA: Dense Depth from Events and LiDAR using Transformer's Attention**|Vincent Brebion et.al.|[2505.02593v1](http://arxiv.org/abs/2505.02593v1)|**2025-05-05**|null|
-|**2025-05-05**|**RGBX-DiffusionDet: A Framework for Multi-Modal RGB-X Object Detection Using DiffusionDet**|Eliraz Orfaig et.al.|[2505.02586v1](http://arxiv.org/abs/2505.02586v1)|**2025-05-05**|null|
-|**2025-05-05**|**Towards Cross-Modality Modeling for Time Series Analytics: A Survey in the LLM Era**|Chenxi Liu et.al.|[2505.02583v1](http://arxiv.org/abs/2505.02583v1)|**2025-05-05**|null|
-|**2025-05-05**|**Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities**|Xinjie Zhang et.al.|[2505.02567v1](http://arxiv.org/abs/2505.02567v1)|**2025-05-05**|null|
-|**2025-05-05**|**Evaluating Contrastive Feedback for Effective User Simulations**|Andreas Konstantin Kruff et.al.|[2505.02560v2](http://arxiv.org/abs/2505.02560v2)|**2025-05-06**|null|
-|**2025-05-05**|**Robust Duality Learning for Unsupervised Visible-Infrared Person Re-Identification**|Yongxiang Li et.al.|[2505.02549v2](http://arxiv.org/abs/2505.02549v2)|**2025-05-06**|null|
-|**2025-05-05**|**Modal logic for reasoning about uncertainty and confusion**|Marta Bílková et.al.|[2505.02548v1](http://arxiv.org/abs/2505.02548v1)|**2025-05-05**|null|
-|**2025-05-05**|**RobSurv: Vector Quantization-Based Multi-Modal Learning for Robust Cancer Survival Prediction**|Aiman Farooq et.al.|[2505.02529v1](http://arxiv.org/abs/2505.02529v1)|**2025-05-05**|null|
-|**2025-05-05**|**Finger Pose Estimation for Under-screen Fingerprint Sensor**|Xiongjun Guan et.al.|[2505.02481v1](http://arxiv.org/abs/2505.02481v1)|**2025-05-05**|null|
-|**2025-05-05**|**Timing Is Everything: Finding the Optimal Fusion Points in Multimodal Medical Imaging**|Valerio Guarrasi et.al.|[2505.02467v1](http://arxiv.org/abs/2505.02467v1)|**2025-05-05**|null|
-|**2025-05-05**|**Tevatron 2.0: Unified Document Retrieval Toolkit across Scale, Language, and Modality**|Xueguang Ma et.al.|[2505.02466v1](http://arxiv.org/abs/2505.02466v1)|**2025-05-05**|null|
-|**2025-05-05**|**Recent Advances in Out-of-Distribution Detection with CLIP-Like Models: A Survey**|Chaohua Li et.al.|[2505.02448v1](http://arxiv.org/abs/2505.02448v1)|**2025-05-05**|null|
-|**2025-05-05**|**MSFNet-CPD: Multi-Scale Cross-Modal Fusion Network for Crop Pest Detection**|Jiaqi Zhang et.al.|[2505.02441v1](http://arxiv.org/abs/2505.02441v1)|**2025-05-05**|null|
-|**2025-05-05**|**Uncertainty-Weighted Image-Event Multimodal Fusion for Video Anomaly Detection**|Sungheon Jeong et.al.|[2505.02393v1](http://arxiv.org/abs/2505.02393v1)|**2025-05-05**|null|
-|**2025-05-05**|**MetaScenes: Towards Automated Replica Creation for Real-world 3D Scans**|Huangyue Yu et.al.|[2505.02388v1](http://arxiv.org/abs/2505.02388v1)|**2025-05-05**|null|
-|**2025-05-05**|**An Arbitrary-Modal Fusion Network for Volumetric Cranial Nerves Tract Segmentation**|Lei Xie et.al.|[2505.02385v1](http://arxiv.org/abs/2505.02385v1)|**2025-05-05**|null|
-|**2025-05-05**|**Multimodal Deep Learning-Empowered Beam Prediction in Future THz ISAC Systems**|Kai Zhang et.al.|[2505.02381v1](http://arxiv.org/abs/2505.02381v1)|**2025-05-05**|null|
-|**2025-05-05**|**VAEmo: Efficient Representation Learning for Visual-Audio Emotion with Knowledge Injection**|Hao Cheng et.al.|[2505.02331v1](http://arxiv.org/abs/2505.02331v1)|**2025-05-05**|[link](https://github.com/MSA-LMC/VAEmo)|
-|**2025-05-04**|**CircuitFusion: Multimodal Circuit Representation Learning for Agile Chip Design**|Wenji Fang et.al.|[2505.02168v1](http://arxiv.org/abs/2505.02168v1)|**2025-05-04**|null|
-|**2025-05-04**|**CrayonRobo: Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation**|Xiaoqi Li et.al.|[2505.02166v1](http://arxiv.org/abs/2505.02166v1)|**2025-05-04**|null|
-|**2025-05-04**|**A Robust Monotonic Single-Index Model for Skewed and Heavy-Tailed Data: A Deep Neural Network Approach Applied to Periodontal Studies**|Qingyang Liu et.al.|[2505.02153v1](http://arxiv.org/abs/2505.02153v1)|**2025-05-04**|null|
-|**2025-05-04**|**Efficient Multivariate Time Series Forecasting via Calibrated Language Models with Privileged Knowledge Distillation**|Chenxi Liu et.al.|[2505.02138v2](http://arxiv.org/abs/2505.02138v2)|**2025-05-06**|null|
+|**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739v1](http://arxiv.org/abs/2505.03739v1)|**2025-05-06**|null|
+|**2025-05-06**|**Multi-modal cascade feature transfer for polymer property prediction**|Kiichi Obuchi et.al.|[2505.03704v1](http://arxiv.org/abs/2505.03704v1)|**2025-05-06**|null|
+|**2025-05-06**|**Fill the Gap: Quantifying and Reducing the Modality Gap in Image-Text Representation Learning**|François Role et.al.|[2505.03703v1](http://arxiv.org/abs/2505.03703v1)|**2025-05-06**|null|
+|**2025-05-06**|**Graph Drawing for LLMs: An Empirical Evaluation**|Walter Didimo et.al.|[2505.03678v1](http://arxiv.org/abs/2505.03678v1)|**2025-05-06**|null|
+|**2025-05-06**|**PhysLLM: Harnessing Large Language Models for Cross-Modal Remote Physiological Sensing**|Yiping Xie et.al.|[2505.03621v1](http://arxiv.org/abs/2505.03621v1)|**2025-05-06**|null|
+|**2025-05-06**|**From Pixels to Polygons: A Survey of Deep Learning Approaches for Medical Image-to-Mesh Reconstruction**|Fengming Lin et.al.|[2505.03599v1](http://arxiv.org/abs/2505.03599v1)|**2025-05-06**|null|
+|**2025-05-06**|**Fixed-Length Dense Fingerprint Representation**|Zhiyu Pan et.al.|[2505.03597v1](http://arxiv.org/abs/2505.03597v1)|**2025-05-06**|null|
+|**2025-05-06**|**Physics-Informed Sylvester Normalizing Flows for Bayesian Inference in Magnetic Resonance Spectroscopy**|Julian P. Merkofer et.al.|[2505.03590v1](http://arxiv.org/abs/2505.03590v1)|**2025-05-06**|null|
+|**2025-05-06**|**Uncertainty-Aware Prototype Semantic Decoupling for Text-Based Person Search in Full Images**|Zengli Luo et.al.|[2505.03567v1](http://arxiv.org/abs/2505.03567v1)|**2025-05-06**|null|
+|**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565v1](http://arxiv.org/abs/2505.03565v1)|**2025-05-06**|null|
+|**2025-05-06**|**Joint Generalized Cosine Similarity: A Novel Method for N-Modal Semantic Alignment Based on Contrastive Learning**|Yiqiao Chen et.al.|[2505.03532v1](http://arxiv.org/abs/2505.03532v1)|**2025-05-06**|null|
+|**2025-05-06**|**Real-time small area estimation of food security in Zimbabwe: integrating mobile-phone and face-to-face surveys using joint multilevel regression and poststratification**|Sahoko Ishida et.al.|[2505.03517v1](http://arxiv.org/abs/2505.03517v1)|**2025-05-06**|null|
+|**2025-05-06**|**Modality-Guided Dynamic Graph Fusion and Temporal Diffusion for Self-Supervised RGB-T Tracking**|Shenglan Li et.al.|[2505.03507v1](http://arxiv.org/abs/2505.03507v1)|**2025-05-06**|null|
+|**2025-05-06**|**Fabrication-tolerant frequency conversion in thin film lithium niobate waveguide with layer-poled modal phase matching**|O. Hefti et.al.|[2505.03402v1](http://arxiv.org/abs/2505.03402v1)|**2025-05-06**|null|
+|**2025-05-06**|**DDaTR: Dynamic Difference-aware Temporal Residual Network for Longitudinal Radiology Report Generation**|Shanshan Song et.al.|[2505.03401v1](http://arxiv.org/abs/2505.03401v1)|**2025-05-06**|null|
+|**2025-05-06**|**Close-Fitting Dressing Assistance Based on State Estimation of Feet and Garments with Semantic-based Visual Attention**|Takuma Tsukakoshi et.al.|[2505.03400v1](http://arxiv.org/abs/2505.03400v1)|**2025-05-06**|null|
+|**2025-05-06**|**Physics-informed neural network estimation of active material properties in time-dependent cardiac biomechanical models**|Matthias Höfler et.al.|[2505.03382v1](http://arxiv.org/abs/2505.03382v1)|**2025-05-06**|null|
+|**2025-05-06**|**Reinforced Correlation Between Vision and Language for Precise Medical AI Assistant**|Haonan Wang et.al.|[2505.03380v1](http://arxiv.org/abs/2505.03380v1)|**2025-05-06**|null|
+|**2025-05-06**|**FLUX-Text: A Simple and Advanced Diffusion Transformer Baseline for Scene Text Editing**|Rui Lan et.al.|[2505.03329v1](http://arxiv.org/abs/2505.03329v1)|**2025-05-06**|null|
+|**2025-05-06**|**SD-VSum: A Method and Dataset for Script-Driven Video Summarization**|Manolis Mylonas et.al.|[2505.03319v1](http://arxiv.org/abs/2505.03319v1)|**2025-05-06**|null|
+|**2025-05-06**|**3D Can Be Explored In 2D: Pseudo-Label Generation for LiDAR Point Clouds Using Sensor-Intensity-Based 2D Semantic Segmentation**|Andrew Caunes et.al.|[2505.03300v1](http://arxiv.org/abs/2505.03300v1)|**2025-05-06**|null|
+|**2025-05-06**|**How do activity-end trip characteristics affect the choice for shared micromobility? A latent class choice modelling approach for train station egress trips in the Netherlands**|Nejc Geržinič et.al.|[2505.03297v1](http://arxiv.org/abs/2505.03297v1)|**2025-05-06**|null|
+|**2025-05-06**|**Base-Detail Feature Learning Framework for Visible-Infrared Person Re-Identification**|Zhihao Gong et.al.|[2505.03286v1](http://arxiv.org/abs/2505.03286v1)|**2025-05-06**|null|
+|**2025-05-06**|**OccCylindrical: Multi-Modal Fusion with Cylindrical Representation for 3D Semantic Occupancy Prediction**|Zhenxing Ming et.al.|[2505.03284v1](http://arxiv.org/abs/2505.03284v1)|**2025-05-06**|null|
+|**2025-05-06**|**CoGenAV: Versatile Audio-Visual Representation Learning via Contrastive-Generative Synchronization**|Detao Bai et.al.|[2505.03186v1](http://arxiv.org/abs/2505.03186v1)|**2025-05-06**|null|
+|**2025-05-06**|**Behavioral Sensing and Intervention Paradigm: A Review of Closed-Loop Approaches for Ingestion Health**|Jun Fang et.al.|[2505.03185v1](http://arxiv.org/abs/2505.03185v1)|**2025-05-06**|null|
+|**2025-05-06**|**VLM Q-Learning: Aligning Vision-Language Models for Interactive Decision-Making**|Jake Grigsby et.al.|[2505.03181v1](http://arxiv.org/abs/2505.03181v1)|**2025-05-06**|null|
+|**2025-05-06**|**Bridging Expertise Gaps: The Role of LLMs in Human-AI Collaboration for Cybersecurity**|Shahroz Tariq et.al.|[2505.03179v1](http://arxiv.org/abs/2505.03179v1)|**2025-05-06**|null|
+|**2025-05-06**|**RAVU: Retrieval Augmented Video Understanding with Compositional Reasoning over Graph**|Sameer Malik et.al.|[2505.03173v1](http://arxiv.org/abs/2505.03173v1)|**2025-05-06**|null|
+|**2025-05-06**|**Edge Large AI Models: Collaborative Deployment and IoT Applications**|Zixin Wang et.al.|[2505.03139v1](http://arxiv.org/abs/2505.03139v1)|**2025-05-06**|null|

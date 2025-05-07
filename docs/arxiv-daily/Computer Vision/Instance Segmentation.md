@@ -2,33 +2,33 @@
 ### Instance Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-06**|**Self-Supervised Learning for Robotic Leaf Manipulation: A Hybrid Geometric-Neural Approach**|Srecharan Selvam et.al.|[2505.03702v1](http://arxiv.org/abs/2505.03702v1)|**2025-05-06**|null|
+|**2025-05-06**|**CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**|Huawei Sun et.al.|[2505.03679v1](http://arxiv.org/abs/2505.03679v1)|**2025-05-06**|null|
+|**2025-05-06**|**Bounding Box-Guided Diffusion for Synthesizing Industrial Images and Segmentation Map**|Alessandro Simoni et.al.|[2505.03623v1](http://arxiv.org/abs/2505.03623v1)|**2025-05-06**|null|
+|**2025-05-06**|**Scalable Class-Centric Visual Interactive Labeling**|Matthias Matt et.al.|[2505.03618v1](http://arxiv.org/abs/2505.03618v1)|**2025-05-06**|null|
+|**2025-05-06**|**Troika algorithm: approximate optimization for accurate clique partitioning and clustering of weighted networks**|Samin Aref et.al.|[2505.03573v1](http://arxiv.org/abs/2505.03573v1)|**2025-05-06**|null|
+|**2025-05-06**|**Panoramic Out-of-Distribution Segmentation**|Mengfei Duan et.al.|[2505.03539v1](http://arxiv.org/abs/2505.03539v1)|**2025-05-06**|null|
+|**2025-05-06**|**RAIL: Region-Aware Instructive Learning for Semi-Supervised Tooth Segmentation in CBCT**|Chuyu Zhao et.al.|[2505.03538v1](http://arxiv.org/abs/2505.03538v1)|**2025-05-06**|null|
+|**2025-05-06**|**Artificial Protozoa Optimizer (APO): A novel bio-inspired metaheuristic algorithm for engineering optimization**|Xiaopeng Wang et.al.|[2505.03512v1](http://arxiv.org/abs/2505.03512v1)|**2025-05-06**|null|
+|**2025-05-06**|**Task Reconstruction and Extrapolation for $π_0$ using Text Latent**|Quanyi Li et.al.|[2505.03500v1](http://arxiv.org/abs/2505.03500v1)|**2025-05-06**|null|
+|**2025-05-06**|**UPMAD-Net: A Brain Tumor Segmentation Network with Uncertainty Guidance and Adaptive Multimodal Feature Fusion**|Zhanyuan Jia et.al.|[2505.03494v1](http://arxiv.org/abs/2505.03494v1)|**2025-05-06**|null|
+|**2025-05-06**|**Reinforced Correlation Between Vision and Language for Precise Medical AI Assistant**|Haonan Wang et.al.|[2505.03380v1](http://arxiv.org/abs/2505.03380v1)|**2025-05-06**|null|
+|**2025-05-06**|**From Word to Sentence: A Large-Scale Multi-Instance Dataset for Open-Set Aerial Detection**|Guoting Wei et.al.|[2505.03334v1](http://arxiv.org/abs/2505.03334v1)|**2025-05-06**|null|
+|**2025-05-06**|**3D Can Be Explored In 2D: Pseudo-Label Generation for LiDAR Point Clouds Using Sensor-Intensity-Based 2D Semantic Segmentation**|Andrew Caunes et.al.|[2505.03300v1](http://arxiv.org/abs/2505.03300v1)|**2025-05-06**|null|
+|**2025-05-06**|**Rapid diagnostics of reconfigurable intelligent surfaces using space-time-coding modulation**|Yi Ning Zheng et.al.|[2505.03266v1](http://arxiv.org/abs/2505.03266v1)|**2025-05-06**|null|
+|**2025-05-06**|**A study on audio synchronous steganography detection and distributed guide inference model based on sliding spectral features and intelligent inference drive**|Wei Meng et.al.|[2505.03193v1](http://arxiv.org/abs/2505.03193v1)|**2025-05-06**|null|
+|**2025-05-06**|**Interactive Instance Annotation with Siamese Networks**|Xiang Xu et.al.|[2505.03184v1](http://arxiv.org/abs/2505.03184v1)|**2025-05-06**|null|
+|**2025-05-06**|**Adaptive Thresholding for Multi-Label Classification via Global-Local Signal Fusion**|Dmytro Shamatrin et.al.|[2505.03118v1](http://arxiv.org/abs/2505.03118v1)|**2025-05-06**|null|
+|**2025-05-06**|**TimeTracker: Event-based Continuous Point Tracking for Video Frame Interpolation with Non-linear Motion**|Haoyue Liu et.al.|[2505.03116v1](http://arxiv.org/abs/2505.03116v1)|**2025-05-06**|null|
+|**2025-05-06**|**Path and Bone-Contour Regularized Unpaired MRI-to-CT Translation**|Teng Zhou et.al.|[2505.03114v1](http://arxiv.org/abs/2505.03114v1)|**2025-05-06**|null|
+|**2025-05-06**|**Estimating the Diameter at Breast Height of Trees in a Forest With a Single 360 Camera**|Siming He et.al.|[2505.03093v1](http://arxiv.org/abs/2505.03093v1)|**2025-05-06**|null|
+|**2025-05-05**|**Multiscale Parallel Simulation of Malignant Pleural Mesothelioma via Adaptive Domain Partitioning -- an Efficiency Analysis Study**|Anton Dolganov et.al.|[2505.03067v1](http://arxiv.org/abs/2505.03067v1)|**2025-05-05**|null|
+|**2025-05-05**|**BLAB: Brutally Long Audio Bench**|Orevaoghene Ahia et.al.|[2505.03054v1](http://arxiv.org/abs/2505.03054v1)|**2025-05-05**|null|
+|**2025-05-05**|**A New Perspective To Understanding Multi-resolution Hash Encoding For Neural Fields**|Steven Tin Sui Luo et.al.|[2505.03042v1](http://arxiv.org/abs/2505.03042v1)|**2025-05-05**|null|
+|**2025-05-05**|**MORE: Mobile Manipulation Rearrangement Through Grounded Language Reasoning**|Mohammad Mohammadi et.al.|[2505.03035v1](http://arxiv.org/abs/2505.03035v1)|**2025-05-05**|null|
+|**2025-05-05**|**Lesion-Aware Generative Artificial Intelligence for Virtual Contrast-Enhanced Mammography in Breast Cancer**|Aurora Rofena et.al.|[2505.03018v1](http://arxiv.org/abs/2505.03018v1)|**2025-05-05**|null|
+|**2025-05-05**|**Including Bloom Filters in Bottom-up Optimization**|Tim Zeyl et.al.|[2505.02994v1](http://arxiv.org/abs/2505.02994v1)|**2025-05-05**|null|
+|**2025-05-05**|**Adversarial Robustness Analysis of Vision-Language Models in Medical Image Segmentation**|Anjila Budathoki et.al.|[2505.02971v1](http://arxiv.org/abs/2505.02971v1)|**2025-05-05**|null|
+|**2025-05-05**|**RetroInfer: A Vector-Storage Approach for Scalable Long-Context LLM Inference**|Yaoqi Chen et.al.|[2505.02922v1](http://arxiv.org/abs/2505.02922v1)|**2025-05-05**|null|
 |**2025-05-05**|**LISAT: Language-Instructed Segmentation Assistant for Satellite Imagery**|Jerome Quenum et.al.|[2505.02829v1](http://arxiv.org/abs/2505.02829v1)|**2025-05-05**|null|
 |**2025-05-05**|**Unifying Laplace Mechanism with Instance Optimality in Differential Privacy**|David Durfee et.al.|[2505.02798v1](http://arxiv.org/abs/2505.02798v1)|**2025-05-05**|null|
-|**2025-05-05**|**Advances in Automated Fetal Brain MRI Segmentation and Biometry: Insights from the FeTA 2024 Challenge**|Vladyslav Zalevskyi et.al.|[2505.02784v1](http://arxiv.org/abs/2505.02784v1)|**2025-05-05**|null|
-|**2025-05-05**|**Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models**|Yankai Jiang et.al.|[2505.02753v1](http://arxiv.org/abs/2505.02753v1)|**2025-05-05**|null|
-|**2025-05-05**|**Platelet enumeration in dense aggregates**|H. Martin Gillis et.al.|[2505.02751v1](http://arxiv.org/abs/2505.02751v1)|**2025-05-05**|null|
-|**2025-05-05**|**dyGRASS: Dynamic Spectral Graph Sparsification via Localized Random Walks on GPUs**|Yihang Yuan et.al.|[2505.02741v2](http://arxiv.org/abs/2505.02741v2)|**2025-05-06**|null|
-|**2025-05-05**|**Sim2Real in endoscopy segmentation with a novel structure aware image translation**|Clara Tomasini et.al.|[2505.02654v1](http://arxiv.org/abs/2505.02654v1)|**2025-05-05**|null|
-|**2025-05-05**|**Detect, Classify, Act: Categorizing Industrial Anomalies with Multi-Modal Large Language Models**|Sassan Mokhtar et.al.|[2505.02626v1](http://arxiv.org/abs/2505.02626v1)|**2025-05-05**|null|
-|**2025-05-05**|**Wise Goose Chase: A Predictive Path Planning Algorithm for Dynamic Rebalancing in Ride-Hailing Systems**|Avalpreet Singh Brar et.al.|[2505.02603v1](http://arxiv.org/abs/2505.02603v1)|**2025-05-05**|null|
-|**2025-05-05**|**Marker-Based Extrinsic Calibration Method for Accurate Multi-Camera 3D Reconstruction**|Nahuel Garcia-D'Urso et.al.|[2505.02539v1](http://arxiv.org/abs/2505.02539v1)|**2025-05-05**|null|
-|**2025-05-05**|**Integrating Column Generation and Large Neighborhood Search for Bus Driver Scheduling with Complex Break Constraints**|Lucas Kletzander et.al.|[2505.02485v1](http://arxiv.org/abs/2505.02485v1)|**2025-05-05**|null|
-|**2025-05-05**|**Trajectory Minimum Touching Ball**|Jeff M. Phillips et.al.|[2505.02472v1](http://arxiv.org/abs/2505.02472v1)|**2025-05-05**|null|
-|**2025-05-05**|**T2S: High-resolution Time Series Generation with Text-to-Series Diffusion Models**|Yunfeng Ge et.al.|[2505.02417v1](http://arxiv.org/abs/2505.02417v1)|**2025-05-05**|null|
-|**2025-05-05**|**An Arbitrary-Modal Fusion Network for Volumetric Cranial Nerves Tract Segmentation**|Lei Xie et.al.|[2505.02385v1](http://arxiv.org/abs/2505.02385v1)|**2025-05-05**|null|
-|**2025-05-05**|**A Slicing-Based Approach for Detecting and Patching Vulnerable Code Clones**|Hakam Alomari et.al.|[2505.02349v1](http://arxiv.org/abs/2505.02349v1)|**2025-05-05**|null|
-|**2025-05-05**|**6D Pose Estimation on Spoons and Hands**|Kevin Tan et.al.|[2505.02335v1](http://arxiv.org/abs/2505.02335v1)|**2025-05-05**|null|
-|**2025-05-04**|**Electric Power Demand Portfolio Optimization by Fermionic QAOA with Self-Consistent Local Field Modulation**|Takuya Yoshioka et.al.|[2505.02282v1](http://arxiv.org/abs/2505.02282v1)|**2025-05-04**|null|
-|**2025-05-04**|**Prompt-responsive Object Retrieval with Memory-augmented Student-Teacher Learning**|Malte Mosbach et.al.|[2505.02232v1](http://arxiv.org/abs/2505.02232v1)|**2025-05-04**|null|
-|**2025-05-04**|**Generalized Double Operator Integrals for Continuous Spectrum Operators**|Shih-Yu Chang et.al.|[2505.02188v1](http://arxiv.org/abs/2505.02188v1)|**2025-05-04**|null|
-|**2025-05-04**|**ProDisc-VAD: An Efficient System for Weakly-Supervised Anomaly Detection in Video Surveillance Applications**|Tao Zhu et.al.|[2505.02179v1](http://arxiv.org/abs/2505.02179v1)|**2025-05-04**|[link](https://github.com/modadundun/ProDisc-VAD)|
-|**2025-05-04**|**A New HOPE: Domain-agnostic Automatic Evaluation of Text Chunking**|Henrik Brådland et.al.|[2505.02171v1](http://arxiv.org/abs/2505.02171v1)|**2025-05-04**|null|
-|**2025-05-04**|**Pickup & Delivery with Time Windows and Transfers: combining decomposition with metaheuristics**|Ioannis Avgerinos et.al.|[2505.02158v1](http://arxiv.org/abs/2505.02158v1)|**2025-05-04**|null|
-|**2025-05-04**|**Spotting the Unexpected (STU): A 3D LiDAR Dataset for Anomaly Segmentation in Autonomous Driving**|Alexey Nekrasov et.al.|[2505.02148v1](http://arxiv.org/abs/2505.02148v1)|**2025-05-04**|null|
-|**2025-05-04**|**Adversarial Cooperative Rationalization: The Risk of Spurious Correlations in Even Clean Datasets**|Wei Liu et.al.|[2505.02118v2](http://arxiv.org/abs/2505.02118v2)|**2025-05-06**|null|
-|**2025-05-04**|**Robustness Enhancement of Universal Noncyclic Geometric Gates via Evolution Optimization**|Zi-Hao Qin et.al.|[2505.02106v1](http://arxiv.org/abs/2505.02106v1)|**2025-05-04**|null|
-|**2025-05-04**|**TeMTG: Text-Enhanced Multi-Hop Temporal Graph Modeling for Audio-Visual Video Parsing**|Yaru Chen et.al.|[2505.02096v1](http://arxiv.org/abs/2505.02096v1)|**2025-05-04**|null|
-|**2025-05-04**|**EMulator: Rapid Estimation of Complex-valued Electric Fields using a U-Net Architecture**|Fatima Ahsan et.al.|[2505.02095v1](http://arxiv.org/abs/2505.02095v1)|**2025-05-04**|null|
-|**2025-05-04**|**Benchmarking Feature Upsampling Methods for Vision Foundation Models using Interactive Segmentation**|Volodymyr Havrylov et.al.|[2505.02075v1](http://arxiv.org/abs/2505.02075v1)|**2025-05-04**|null|
-|**2025-05-04**|**Hierarchical Compact Clustering Attention (COCA) for Unsupervised Object-Centric Learning**|Can Küçüksözen et.al.|[2505.02071v1](http://arxiv.org/abs/2505.02071v1)|**2025-05-04**|null|
-|**2025-05-04**|**Point2Primitive: CAD Reconstruction from Point Cloud by Direct Primitive Prediction**|Cheng Wang et.al.|[2505.02043v1](http://arxiv.org/abs/2505.02043v1)|**2025-05-04**|null|

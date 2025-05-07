@@ -2,33 +2,33 @@
 ### Point Cloud Completion
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-05**|**Closeby Habitable Exoplanet Survey (CHES). IV. Synergy between astrometry and direct imaging missions of the Habitable World Observatory for detecting Earth-like planets**|Chunhui Bao et.al.|[2505.02818v1](http://arxiv.org/abs/2505.02818v1)|**2025-05-05**|null|
-|**2025-05-05**|**Exploring minimal two component doublet dark matter**|Mariana Frank et.al.|[2505.02816v1](http://arxiv.org/abs/2505.02816v1)|**2025-05-05**|null|
-|**2025-05-05**|**Characterization of Gaussian Tensor Ensembles**|Remi Bonnin et.al.|[2505.02814v1](http://arxiv.org/abs/2505.02814v1)|**2025-05-05**|null|
-|**2025-05-05**|**Topological bounds, odd subdivisions and odd immersions**|Henry Echeverría et.al.|[2505.02812v1](http://arxiv.org/abs/2505.02812v1)|**2025-05-05**|null|
-|**2025-05-05**|**Cell-Free Massive MIMO-Assisted SWIPT for IoT Networks**|Mohammadali Mohammadi et.al.|[2505.02806v1](http://arxiv.org/abs/2505.02806v1)|**2025-05-05**|null|
-|**2025-05-05**|**Improving source positions in the OCARS catalog: A first approach**|Zinovy Malkin et.al.|[2505.02805v1](http://arxiv.org/abs/2505.02805v1)|**2025-05-05**|null|
-|**2025-05-05**|**Stabilizing dark matter with quantum scale symmetry**|Abhishek Chikkaballi et.al.|[2505.02803v1](http://arxiv.org/abs/2505.02803v1)|**2025-05-05**|null|
-|**2025-05-05**|**Discrete signature tensors for persistence landscapes**|Vincenzo Galgano et.al.|[2505.02800v1](http://arxiv.org/abs/2505.02800v1)|**2025-05-05**|null|
-|**2025-05-05**|**Adaptive Bidding Policies for First-Price Auctions with Budget Constraints under Non-stationarity**|Yige Wang et.al.|[2505.02796v1](http://arxiv.org/abs/2505.02796v1)|**2025-05-05**|null|
-|**2025-05-05**|**HSplitLoRA: A Heterogeneous Split Parameter-Efficient Fine-Tuning Framework for Large Language Models**|Zheng Lin et.al.|[2505.02795v1](http://arxiv.org/abs/2505.02795v1)|**2025-05-05**|null|
-|**2025-05-05**|**Van-Hove singularities and competing instabilities in an altermagnetic metal**|Peng Rao et.al.|[2505.02786v1](http://arxiv.org/abs/2505.02786v1)|**2025-05-05**|null|
-|**2025-05-05**|**Non-Hermitian topology and skin modes in the continuum via parametric processes**|Markus Bestler et.al.|[2505.02776v1](http://arxiv.org/abs/2505.02776v1)|**2025-05-05**|null|
-|**2025-05-05**|**Giving Simulated Cells a Voice: Evolving Prompt-to-Intervention Models for Cellular Control**|Nam H. Le et.al.|[2505.02766v1](http://arxiv.org/abs/2505.02766v1)|**2025-05-05**|null|
-|**2025-05-05**|**Optimistic, Signature-Free Reliable Broadcast and Its Applications**|Nibesh Shrestha et.al.|[2505.02761v1](http://arxiv.org/abs/2505.02761v1)|**2025-05-05**|null|
-|**2025-05-05**|**Two More Bow Shocks and Off-Center Halpha Nebulae Associated with Nova-like Cataclysmic Variables**|Howard E. Bond et.al.|[2505.02760v1](http://arxiv.org/abs/2505.02760v1)|**2025-05-05**|null|
-|**2025-05-05**|**Re-purposing a modular origami manipulator into an adaptive physical computer for machine learning and robotic perception**|Jun Wang et.al.|[2505.02744v1](http://arxiv.org/abs/2505.02744v1)|**2025-05-05**|null|
-|**2025-05-05**|**Lumped-element broadband SNAIL parametric amplifier with on-chip pump filter for multiplexed readout**|V. R. Joshi et.al.|[2505.02740v1](http://arxiv.org/abs/2505.02740v1)|**2025-05-05**|null|
-|**2025-05-05**|**A Unifying Framework to Enable Artificial Intelligence in High Performance Computing Workflows**|Jens Domke et.al.|[2505.02738v1](http://arxiv.org/abs/2505.02738v1)|**2025-05-05**|null|
-|**2025-05-05**|**Atmospheric Changes During Natural Disaster: Case Study of a Dust Storm and a Volcanic Eruption Using Space and Ground Based Instruments**|Deepak Kumar Kar et.al.|[2505.02730v1](http://arxiv.org/abs/2505.02730v1)|**2025-05-05**|null|
-|**2025-05-05**|**Finite-Speed-of-Light Effects in Atom Interferometry: Diffraction Mechanisms and Resonance Conditions**|Christian Niehof et.al.|[2505.02728v1](http://arxiv.org/abs/2505.02728v1)|**2025-05-05**|null|
-|**2025-05-05**|**Limit law for root separation in random polynomials**|Marcus Michelen et.al.|[2505.02723v1](http://arxiv.org/abs/2505.02723v1)|**2025-05-05**|null|
-|**2025-05-05**|**A multiplicative version of the tom Dieck splitting**|Andrew J. Blumberg et.al.|[2505.02721v1](http://arxiv.org/abs/2505.02721v1)|**2025-05-05**|null|
-|**2025-05-05**|**On the Palais-Smale condition in geometric knot theory**|Nicolas Freches et.al.|[2505.02719v1](http://arxiv.org/abs/2505.02719v1)|**2025-05-05**|null|
-|**2025-05-05**|**Transverse single-spin asymmetries in $γ$SIDIS as a direct probe of quark-gluon-quark longitudinal momentum structure**|Michael Harris et.al.|[2505.02711v1](http://arxiv.org/abs/2505.02711v1)|**2025-05-05**|null|
-|**2025-05-05**|**Magnetic Manipulation of Spatially Confined Multiferroic Heuslers by Martensitic Microstructure Engineering**|Milad Takhsha et.al.|[2505.02696v1](http://arxiv.org/abs/2505.02696v1)|**2025-05-05**|null|
-|**2025-05-05**|**Exceptional, but Separate: Precursors to Spontaneous Symmetry Breaking**|Lewis Hill et.al.|[2505.02691v1](http://arxiv.org/abs/2505.02691v1)|**2025-05-05**|null|
-|**2025-05-05**|**Batch Sample-wise Stochastic Optimal Control via Stochastic Maximum Principle**|Hui Sun et.al.|[2505.02688v1](http://arxiv.org/abs/2505.02688v1)|**2025-05-05**|null|
-|**2025-05-05**|**Data-driven Hamiltonian correction for qubits for design of gates**|John GeorgeFrancis et.al.|[2505.02679v1](http://arxiv.org/abs/2505.02679v1)|**2025-05-05**|null|
-|**2025-05-05**|**Metamorphosis of collective patterns modulated by non-reciprocal interactions**|Edgardo Brigatti et.al.|[2505.02672v1](http://arxiv.org/abs/2505.02672v1)|**2025-05-05**|null|
-|**2025-05-05**|**Grasp the Graph (GtG) 2.0: Ensemble of GNNs for High-Precision Grasp Pose Detection in Clutter**|Ali Rashidi Moghadam et.al.|[2505.02664v1](http://arxiv.org/abs/2505.02664v1)|**2025-05-05**|null|
+|**2025-05-06**|**Weiss derivatives of holomorphic maps**|Alexis Aumonier et.al.|[2505.03731v1](http://arxiv.org/abs/2505.03731v1)|**2025-05-06**|null|
+|**2025-05-06**|**Stay Positive: Neural Refinement of Sample Weights**|Benjamin Nachman et.al.|[2505.03724v1](http://arxiv.org/abs/2505.03724v1)|**2025-05-06**|null|
+|**2025-05-06**|**Sustainable Smart Farm Networks: Enhancing Resilience and Efficiency with Decision Theory-Guided Deep Reinforcement Learning**|Dian Chen et.al.|[2505.03721v1](http://arxiv.org/abs/2505.03721v1)|**2025-05-06**|null|
+|**2025-05-06**|**Accelerated Decentralized Constraint-Coupled Optimization: A Dual$^2$ Approach**|Jingwang Li et.al.|[2505.03719v1](http://arxiv.org/abs/2505.03719v1)|**2025-05-06**|null|
+|**2025-05-06**|**Symplectic Grassmannian description of the Coulomb branch three and four point amplitudes**|Veronica Calvo Cortes et.al.|[2505.03705v1](http://arxiv.org/abs/2505.03705v1)|**2025-05-06**|null|
+|**2025-05-06**|**A Sequent Calculus For Trace Formula Implication**|Niklas Heidler et.al.|[2505.03693v1](http://arxiv.org/abs/2505.03693v1)|**2025-05-06**|null|
+|**2025-05-06**|**Matching Distance and Geometric Distribution Aided Learning Multiview Point Cloud Registration**|Shiqi Li et.al.|[2505.03692v1](http://arxiv.org/abs/2505.03692v1)|**2025-05-06**|null|
+|**2025-05-06**|**CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**|Huawei Sun et.al.|[2505.03679v1](http://arxiv.org/abs/2505.03679v1)|**2025-05-06**|null|
+|**2025-05-06**|**RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration**|Huajie Tan et.al.|[2505.03673v1](http://arxiv.org/abs/2505.03673v1)|**2025-05-06**|null|
+|**2025-05-06**|**Optimal Droop Control Strategy for Coordinated Voltage Regulation and Power Sharing in Hybrid AC-MTDC Systems**|Hongjin Du et.al.|[2505.03651v1](http://arxiv.org/abs/2505.03651v1)|**2025-05-06**|null|
+|**2025-05-06**|**Towards Smart Point-and-Shoot Photography**|Jiawan Li et.al.|[2505.03638v1](http://arxiv.org/abs/2505.03638v1)|**2025-05-06**|null|
+|**2025-05-06**|**On the optimal stopping of Gauss-Markov bridges with random pinning points**|Abel Azze et.al.|[2505.03636v1](http://arxiv.org/abs/2505.03636v1)|**2025-05-06**|null|
+|**2025-05-06**|**On Loewner energy and curve composition**|Tim Mesikepp et.al.|[2505.03630v1](http://arxiv.org/abs/2505.03630v1)|**2025-05-06**|null|
+|**2025-05-06**|**Numerical Reconstruction and Analysis of Backward Semilinear Subdiffusion Problems**|Xu Wu et.al.|[2505.03625v1](http://arxiv.org/abs/2505.03625v1)|**2025-05-06**|null|
+|**2025-05-06**|**A Systematic Search for X-ray Eclipse Events in Active Galactic Nuclei Observed by Swift**|Tianying Lian et.al.|[2505.03616v1](http://arxiv.org/abs/2505.03616v1)|**2025-05-06**|null|
+|**2025-05-06**|**The Li-Lin's open problem on $\mathbb{R}^N$**|Zhi-Yun Tang et.al.|[2505.03613v1](http://arxiv.org/abs/2505.03613v1)|**2025-05-06**|null|
+|**2025-05-06**|**A note on the uniformity of strong subregularity around the reference point**|Tomáš Roubal et.al.|[2505.03605v1](http://arxiv.org/abs/2505.03605v1)|**2025-05-06**|null|
+|**2025-05-06**|**TailBench++: Flexible Multi-Client, Multi-Server Benchmarking for Latency-Critical Workloads**|Zhilin Li et.al.|[2505.03600v1](http://arxiv.org/abs/2505.03600v1)|**2025-05-06**|null|
+|**2025-05-06**|**Dynamic load balancing for cloud systems under heterogeneous setup delays**|Fernando Paganini et.al.|[2505.03596v1](http://arxiv.org/abs/2505.03596v1)|**2025-05-06**|null|
+|**2025-05-06**|**Anant-Net: Breaking the Curse of Dimensionality with Scalable and Interpretable Neural Surrogate for High-Dimensional PDEs**|Sidharth S. Menon et.al.|[2505.03595v1](http://arxiv.org/abs/2505.03595v1)|**2025-05-06**|null|
+|**2025-05-06**|**Artificial Potential Field and Sliding Mode Control for Spacecraft Attitude Maneuver with Actuation and Pointing Constraints**|Mauro Mancini et.al.|[2505.03594v1](http://arxiv.org/abs/2505.03594v1)|**2025-05-06**|null|
+|**2025-05-06**|**Meta-reasoning Using Attention Maps and Its Applications in Cloud Robotics**|Adrian Lendinez et.al.|[2505.03587v1](http://arxiv.org/abs/2505.03587v1)|**2025-05-06**|null|
+|**2025-05-06**|**Maximum likelihood estimation for the $λ$-exponential family**|Xiwei Tian et.al.|[2505.03582v1](http://arxiv.org/abs/2505.03582v1)|**2025-05-06**|null|
+|**2025-05-06**|**Design and Development of a Robust Tolerance Optimisation Framework for Automated Optical Inspection in Semiconductor Manufacturing**|Shruthi Kogileru et.al.|[2505.03576v1](http://arxiv.org/abs/2505.03576v1)|**2025-05-06**|null|
+|**2025-05-06**|**Troika algorithm: approximate optimization for accurate clique partitioning and clustering of weighted networks**|Samin Aref et.al.|[2505.03573v1](http://arxiv.org/abs/2505.03573v1)|**2025-05-06**|null|
+|**2025-05-06**|**Crystal structural evolution of Ru$_3$Sn$_7$ under pressure and its implication on possible electronic changes**|K. A. Irshad et.al.|[2505.03571v1](http://arxiv.org/abs/2505.03571v1)|**2025-05-06**|null|
+|**2025-05-06**|**Corner Cases: How Size and Position of Objects Challenge ImageNet-Trained Models**|Mishal Fatima et.al.|[2505.03569v1](http://arxiv.org/abs/2505.03569v1)|**2025-05-06**|null|
+|**2025-05-06**|**Full space-time abrupt autofocusing spherical Airy wavepacket**|Qian Cao et.al.|[2505.03564v1](http://arxiv.org/abs/2505.03564v1)|**2025-05-06**|null|
+|**2025-05-06**|**Event-Triggered GAT-LSTM Framework for Attack Detection in Heating, Ventilation, and Air Conditioning Systems**|Zhenan Feng et.al.|[2505.03559v1](http://arxiv.org/abs/2505.03559v1)|**2025-05-06**|null|
+|**2025-05-06**|**Efficient Training of Physics-enhanced Neural ODEs via Direct Collocation and Nonlinear Programming**|Linus Langenkamp et.al.|[2505.03552v1](http://arxiv.org/abs/2505.03552v1)|**2025-05-06**|null|

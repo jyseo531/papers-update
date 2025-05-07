@@ -2,33 +2,33 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-05**|**TWIST: Teleoperated Whole-Body Imitation System**|Yanjie Ze et.al.|[2505.02833v1](http://arxiv.org/abs/2505.02833v1)|**2025-05-05**|null|
-|**2025-05-05**|**The Arboricity Polynomial**|Felix Breuer et.al.|[2505.02822v1](http://arxiv.org/abs/2505.02822v1)|**2025-05-05**|null|
-|**2025-05-05**|**ReplaceMe: Network Simplification via Layer Pruning and Linear Transformations**|Dmitriy Shopkhoev et.al.|[2505.02819v1](http://arxiv.org/abs/2505.02819v1)|**2025-05-05**|null|
-|**2025-05-05**|**Topological bounds, odd subdivisions and odd immersions**|Henry Echeverría et.al.|[2505.02812v1](http://arxiv.org/abs/2505.02812v1)|**2025-05-05**|null|
-|**2025-05-05**|**Towards Quantifying the Hessian Structure of Neural Networks**|Zhaorui Dong et.al.|[2505.02809v1](http://arxiv.org/abs/2505.02809v1)|**2025-05-05**|null|
-|**2025-05-05**|**Cell-Free Massive MIMO-Assisted SWIPT for IoT Networks**|Mohammadali Mohammadi et.al.|[2505.02806v1](http://arxiv.org/abs/2505.02806v1)|**2025-05-05**|null|
-|**2025-05-05**|**Planckeons as mouths of quantum wormholes and holographic origin of spacetime**|Ignazio Licata et.al.|[2505.02804v1](http://arxiv.org/abs/2505.02804v1)|**2025-05-05**|null|
-|**2025-05-05**|**DPNet: Dynamic Pooling Network for Tiny Object Detection**|Luqi Gong et.al.|[2505.02797v1](http://arxiv.org/abs/2505.02797v1)|**2025-05-05**|null|
-|**2025-05-05**|**Recolorable Graph Exploration by an Oblivious Agent with Fewer Colors**|Shota Takahashi et.al.|[2505.02789v1](http://arxiv.org/abs/2505.02789v1)|**2025-05-05**|null|
-|**2025-05-05**|**Unsupervised training of keypoint-agnostic descriptors for flexible retinal image registration**|David Rivas-Villar et.al.|[2505.02787v1](http://arxiv.org/abs/2505.02787v1)|**2025-05-05**|null|
-|**2025-05-05**|**Local Markov Equivalence and Local Causal Discovery for Identifying Controlled Direct Effects**|Timothée Loranchet et.al.|[2505.02781v1](http://arxiv.org/abs/2505.02781v1)|**2025-05-05**|null|
-|**2025-05-05**|**Unsupervised Deep Learning-based Keypoint Localization Estimating Descriptor Matching Performance**|David Rivas-Villar et.al.|[2505.02779v1](http://arxiv.org/abs/2505.02779v1)|**2025-05-05**|null|
-|**2025-05-05**|**Can Transformers help us perform parameter estimation of overlapping signals in gravitational wave detectors?**|Lucia Papalini et.al.|[2505.02773v1](http://arxiv.org/abs/2505.02773v1)|**2025-05-05**|null|
-|**2025-05-05**|**Courcelle's Theorem Without Logic**|Yuval Filmus et.al.|[2505.02771v1](http://arxiv.org/abs/2505.02771v1)|**2025-05-05**|null|
-|**2025-05-05**|**Linear colorings of graphs**|Claire Hilaire et.al.|[2505.02768v1](http://arxiv.org/abs/2505.02768v1)|**2025-05-05**|null|
-|**2025-05-05**|**Giving Simulated Cells a Voice: Evolving Prompt-to-Intervention Models for Cellular Control**|Nam H. Le et.al.|[2505.02766v1](http://arxiv.org/abs/2505.02766v1)|**2025-05-05**|null|
-|**2025-05-05**|**Two More Bow Shocks and Off-Center Halpha Nebulae Associated with Nova-like Cataclysmic Variables**|Howard E. Bond et.al.|[2505.02760v1](http://arxiv.org/abs/2505.02760v1)|**2025-05-05**|null|
-|**2025-05-05**|**Platelet enumeration in dense aggregates**|H. Martin Gillis et.al.|[2505.02751v1](http://arxiv.org/abs/2505.02751v1)|**2025-05-05**|null|
-|**2025-05-05**|**A Sloppy approach to QSP: XAI enabling fit-for-purpose models**|Noah DeTal et.al.|[2505.02750v1](http://arxiv.org/abs/2505.02750v1)|**2025-05-05**|null|
-|**2025-05-05**|**Using Knowledge Graphs to harvest datasets for efficient CLIP model training**|Simon Ging et.al.|[2505.02746v1](http://arxiv.org/abs/2505.02746v1)|**2025-05-05**|null|
-|**2025-05-05**|**Cooperative Bayesian and variance networks disentangle aleatoric and epistemic uncertainties**|Jiaxiang Yi et.al.|[2505.02743v1](http://arxiv.org/abs/2505.02743v1)|**2025-05-05**|null|
-|**2025-05-05**|**dyGRASS: Dynamic Spectral Graph Sparsification via Localized Random Walks on GPUs**|Yihang Yuan et.al.|[2505.02741v2](http://arxiv.org/abs/2505.02741v2)|**2025-05-06**|null|
-|**2025-05-05**|**Lumped-element broadband SNAIL parametric amplifier with on-chip pump filter for multiplexed readout**|V. R. Joshi et.al.|[2505.02740v1](http://arxiv.org/abs/2505.02740v1)|**2025-05-05**|null|
-|**2025-05-05**|**Probing the dimuon channel of a $Z^{\prime}$ boson at the HL-LHC using multivariate analysis**|Ali Muhammad H. H. et.al.|[2505.02739v1](http://arxiv.org/abs/2505.02739v1)|**2025-05-05**|null|
-|**2025-05-05**|**Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation**|Gerard Pons et.al.|[2505.02737v2](http://arxiv.org/abs/2505.02737v2)|**2025-05-06**|null|
-|**2025-05-05**|**Strong odd coloring in minor-closed classes**|Miriam Goetze et.al.|[2505.02736v1](http://arxiv.org/abs/2505.02736v1)|**2025-05-05**|null|
-|**2025-05-05**|**Automotive Middleware Performance: Comparison of FastDDS, Zenoh and vSomeIP**|David Philipp Klüner et.al.|[2505.02734v1](http://arxiv.org/abs/2505.02734v1)|**2025-05-05**|null|
-|**2025-05-05**|**A Rate-Quality Model for Learned Video Coding**|Sang NguyenQuang et.al.|[2505.02720v1](http://arxiv.org/abs/2505.02720v1)|**2025-05-05**|null|
-|**2025-05-05**|**Less is More: Efficient Weight Farcasting with 1-Layer Neural Network**|Xiao Shou et.al.|[2505.02714v1](http://arxiv.org/abs/2505.02714v1)|**2025-05-05**|null|
-|**2025-05-05**|**Graph Neural Network-Based Reinforcement Learning for Controlling Biological Networks: The GATTACA Framework**|Andrzej Mizera et.al.|[2505.02712v1](http://arxiv.org/abs/2505.02712v1)|**2025-05-05**|null|
+|**2025-05-06**|**AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control**|Jialong Li et.al.|[2505.03738v1](http://arxiv.org/abs/2505.03738v1)|**2025-05-06**|null|
+|**2025-05-06**|**Decentralized Nonconvex Optimization under Heavy-Tailed Noise: Normalization and Optimal Convergence**|Shuhua Yu et.al.|[2505.03736v1](http://arxiv.org/abs/2505.03736v1)|**2025-05-06**|null|
+|**2025-05-06**|**Stay Positive: Neural Refinement of Sample Weights**|Benjamin Nachman et.al.|[2505.03724v1](http://arxiv.org/abs/2505.03724v1)|**2025-05-06**|null|
+|**2025-05-06**|**Sustainable Smart Farm Networks: Enhancing Resilience and Efficiency with Decision Theory-Guided Deep Reinforcement Learning**|Dian Chen et.al.|[2505.03721v1](http://arxiv.org/abs/2505.03721v1)|**2025-05-06**|null|
+|**2025-05-06**|**Accelerated Decentralized Constraint-Coupled Optimization: A Dual$^2$ Approach**|Jingwang Li et.al.|[2505.03719v1](http://arxiv.org/abs/2505.03719v1)|**2025-05-06**|null|
+|**2025-05-06**|**Incremental universality of Wigner random matrices**|Giovanni M. Cicuta et.al.|[2505.03714v1](http://arxiv.org/abs/2505.03714v1)|**2025-05-06**|null|
+|**2025-05-06**|**Multi-modal cascade feature transfer for polymer property prediction**|Kiichi Obuchi et.al.|[2505.03704v1](http://arxiv.org/abs/2505.03704v1)|**2025-05-06**|null|
+|**2025-05-06**|**Self-Supervised Learning for Robotic Leaf Manipulation: A Hybrid Geometric-Neural Approach**|Srecharan Selvam et.al.|[2505.03702v1](http://arxiv.org/abs/2505.03702v1)|**2025-05-06**|null|
+|**2025-05-06**|**Matching Distance and Geometric Distribution Aided Learning Multiview Point Cloud Registration**|Shiqi Li et.al.|[2505.03692v1](http://arxiv.org/abs/2505.03692v1)|**2025-05-06**|null|
+|**2025-05-06**|**Graph Drawing for LLMs: An Empirical Evaluation**|Walter Didimo et.al.|[2505.03678v1](http://arxiv.org/abs/2505.03678v1)|**2025-05-06**|null|
+|**2025-05-06**|**Neural Integral Operators for Inverse problems in Spectroscopy**|Emanuele Zappala et.al.|[2505.03677v1](http://arxiv.org/abs/2505.03677v1)|**2025-05-06**|null|
+|**2025-05-06**|**Rational Retrieval Acts: Leveraging Pragmatic Reasoning to Improve Sparse Retrieval**|Arthur Satouf et.al.|[2505.03676v1](http://arxiv.org/abs/2505.03676v1)|**2025-05-06**|[link](https://github.com/arthur-75/Rational-Retrieval-Acts)|
+|**2025-05-06**|**Vector valued optimal transport: from dynamic to static formulations**|Katy Craig et.al.|[2505.03670v1](http://arxiv.org/abs/2505.03670v1)|**2025-05-06**|null|
+|**2025-05-06**|**Unexpectedly, a symmetry on unlabeled graphs**|Florian Fürnsinn et.al.|[2505.03665v1](http://arxiv.org/abs/2505.03665v1)|**2025-05-06**|null|
+|**2025-05-06**|**Counterfactual Inference for Eliminating Sentiment Bias in Recommender Systems**|Le Pan et.al.|[2505.03655v1](http://arxiv.org/abs/2505.03655v1)|**2025-05-06**|null|
+|**2025-05-06**|**ReGraP-LLaVA: Reasoning enabled Graph-based Personalized Large Language and Vision Assistant**|Yifan Xiang et.al.|[2505.03654v1](http://arxiv.org/abs/2505.03654v1)|**2025-05-06**|null|
+|**2025-05-06**|**Optimal Droop Control Strategy for Coordinated Voltage Regulation and Power Sharing in Hybrid AC-MTDC Systems**|Hongjin Du et.al.|[2505.03651v1](http://arxiv.org/abs/2505.03651v1)|**2025-05-06**|null|
+|**2025-05-06**|**Weighted Random Dot Product Graphs**|Bernardo Marenco et.al.|[2505.03649v1](http://arxiv.org/abs/2505.03649v1)|**2025-05-06**|null|
+|**2025-05-06**|**Binding threshold units with artificial oscillatory neurons**|Vladimir Fanaskov et.al.|[2505.03648v1](http://arxiv.org/abs/2505.03648v1)|**2025-05-06**|null|
+|**2025-05-06**|**ALMA: Aggregated Lipschitz Maximization Attack on Auto-encoders**|Chethan Krishnamurthy Ramanaik et.al.|[2505.03646v1](http://arxiv.org/abs/2505.03646v1)|**2025-05-06**|null|
+|**2025-05-06**|**Expedited thermalization dynamics in incommensurate systems**|Mingdi Xu et.al.|[2505.03645v1](http://arxiv.org/abs/2505.03645v1)|**2025-05-06**|null|
+|**2025-05-06**|**BURNS: Backward Underapproximate Reachability for Neural-Feedback-Loop Systems**|Chelsea Sidrane et.al.|[2505.03643v1](http://arxiv.org/abs/2505.03643v1)|**2025-05-06**|null|
+|**2025-05-06**|**Differential Privacy for Network Assortativity**|Fei Ma et.al.|[2505.03639v1](http://arxiv.org/abs/2505.03639v1)|**2025-05-06**|null|
+|**2025-05-06**|**On the optimal stopping of Gauss-Markov bridges with random pinning points**|Abel Azze et.al.|[2505.03636v1](http://arxiv.org/abs/2505.03636v1)|**2025-05-06**|null|
+|**2025-05-06**|**Understand the Effect of Importance Weighting in Deep Learning on Dataset Shift**|Thien Nhan Vo et.al.|[2505.03617v1](http://arxiv.org/abs/2505.03617v1)|**2025-05-06**|null|
+|**2025-05-06**|**Interparticle heterostructures by spontaneous formation of Dirac nodal arc semimetal PtSn4 domains in nanoparticles produced by Supersonic Cluster Beam Deposition**|Marc Heggen et.al.|[2505.03615v1](http://arxiv.org/abs/2505.03615v1)|**2025-05-06**|null|
+|**2025-05-06**|**Learning Knowledge-based Prompts for Robust 3D Mask Presentation Attack Detection**|Fangling Jiang et.al.|[2505.03610v1](http://arxiv.org/abs/2505.03610v1)|**2025-05-06**|null|
+|**2025-05-06**|**Anant-Net: Breaking the Curse of Dimensionality with Scalable and Interpretable Neural Surrogate for High-Dimensional PDEs**|Sidharth S. Menon et.al.|[2505.03595v1](http://arxiv.org/abs/2505.03595v1)|**2025-05-06**|null|
+|**2025-05-06**|**DyGEnc: Encoding a Sequence of Textual Scene Graphs to Reason and Answer Questions in Dynamic Scenes**|Sergey Linok et.al.|[2505.03581v1](http://arxiv.org/abs/2505.03581v1)|**2025-05-06**|null|
+|**2025-05-06**|**On the non-Markovian quantum stochastic network dynamics**|Haijin Ding et.al.|[2505.03578v1](http://arxiv.org/abs/2505.03578v1)|**2025-05-06**|null|

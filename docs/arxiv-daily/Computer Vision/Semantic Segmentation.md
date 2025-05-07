@@ -2,33 +2,33 @@
 ### Semantic Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-05**|**LISAT: Language-Instructed Segmentation Assistant for Satellite Imagery**|Jerome Quenum et.al.|[2505.02829v1](http://arxiv.org/abs/2505.02829v1)|**2025-05-05**|null|
-|**2025-05-05**|**Advances in Automated Fetal Brain MRI Segmentation and Biometry: Insights from the FeTA 2024 Challenge**|Vladyslav Zalevskyi et.al.|[2505.02784v1](http://arxiv.org/abs/2505.02784v1)|**2025-05-05**|null|
-|**2025-05-05**|**Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models**|Yankai Jiang et.al.|[2505.02753v1](http://arxiv.org/abs/2505.02753v1)|**2025-05-05**|null|
-|**2025-05-05**|**Platelet enumeration in dense aggregates**|H. Martin Gillis et.al.|[2505.02751v1](http://arxiv.org/abs/2505.02751v1)|**2025-05-05**|null|
-|**2025-05-05**|**Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation**|Gerard Pons et.al.|[2505.02737v2](http://arxiv.org/abs/2505.02737v2)|**2025-05-06**|null|
-|**2025-05-05**|**FormalMATH: Benchmarking Formal Mathematical Reasoning of Large Language Models**|Zhouliang Yu et.al.|[2505.02735v1](http://arxiv.org/abs/2505.02735v1)|**2025-05-05**|null|
-|**2025-05-05**|**VGLD: Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery**|Bojin Wu et.al.|[2505.02704v2](http://arxiv.org/abs/2505.02704v2)|**2025-05-06**|null|
-|**2025-05-05**|**Sim2Real in endoscopy segmentation with a novel structure aware image translation**|Clara Tomasini et.al.|[2505.02654v1](http://arxiv.org/abs/2505.02654v1)|**2025-05-05**|null|
-|**2025-05-05**|**Parameter-Efficient Fine-Tuning with Attributed Patch Semantic Graph for Automated Patch Correctness Assessment**|Zhenyu Yang et.al.|[2505.02629v1](http://arxiv.org/abs/2505.02629v1)|**2025-05-05**|null|
-|**2025-05-05**|**Detect, Classify, Act: Categorizing Industrial Anomalies with Multi-Modal Large Language Models**|Sassan Mokhtar et.al.|[2505.02626v1](http://arxiv.org/abs/2505.02626v1)|**2025-05-05**|null|
-|**2025-05-05**|**Wise Goose Chase: A Predictive Path Planning Algorithm for Dynamic Rebalancing in Ride-Hailing Systems**|Avalpreet Singh Brar et.al.|[2505.02603v1](http://arxiv.org/abs/2505.02603v1)|**2025-05-05**|null|
-|**2025-05-05**|**Ensemble Kalman filter for uncertainty in human language comprehension**|Diksha Bhandari et.al.|[2505.02590v1](http://arxiv.org/abs/2505.02590v1)|**2025-05-05**|null|
-|**2025-05-05**|**Modal logic for reasoning about uncertainty and confusion**|Marta Bílková et.al.|[2505.02548v1](http://arxiv.org/abs/2505.02548v1)|**2025-05-05**|null|
-|**2025-05-05**|**Marker-Based Extrinsic Calibration Method for Accurate Multi-Camera 3D Reconstruction**|Nahuel Garcia-D'Urso et.al.|[2505.02539v1](http://arxiv.org/abs/2505.02539v1)|**2025-05-05**|null|
-|**2025-05-05**|**Trajectory Minimum Touching Ball**|Jeff M. Phillips et.al.|[2505.02472v1](http://arxiv.org/abs/2505.02472v1)|**2025-05-05**|null|
-|**2025-05-05**|**MSFNet-CPD: Multi-Scale Cross-Modal Fusion Network for Crop Pest Detection**|Jiaqi Zhang et.al.|[2505.02441v1](http://arxiv.org/abs/2505.02441v1)|**2025-05-05**|null|
-|**2025-05-05**|**Task-Oriented Semantic Communication in Large Multimodal Models-based Vehicle Networks**|Baoxia Du et.al.|[2505.02413v1](http://arxiv.org/abs/2505.02413v1)|**2025-05-05**|null|
-|**2025-05-05**|**Estimating Commonsense Scene Composition on Belief Scene Graphs**|Mario A. V. Saucedo et.al.|[2505.02405v1](http://arxiv.org/abs/2505.02405v1)|**2025-05-05**|null|
-|**2025-05-05**|**An Arbitrary-Modal Fusion Network for Volumetric Cranial Nerves Tract Segmentation**|Lei Xie et.al.|[2505.02385v1](http://arxiv.org/abs/2505.02385v1)|**2025-05-05**|null|
-|**2025-05-05**|**JTCSE: Joint Tensor-Modulus Constraints and Cross-Attention for Unsupervised Contrastive Learning of Sentence Embeddings**|Tianyu Zong et.al.|[2505.02366v1](http://arxiv.org/abs/2505.02366v1)|**2025-05-05**|null|
-|**2025-05-05**|**A Slicing-Based Approach for Detecting and Patching Vulnerable Code Clones**|Hakam Alomari et.al.|[2505.02349v1](http://arxiv.org/abs/2505.02349v1)|**2025-05-05**|null|
-|**2025-05-05**|**6D Pose Estimation on Spoons and Hands**|Kevin Tan et.al.|[2505.02335v1](http://arxiv.org/abs/2505.02335v1)|**2025-05-05**|null|
-|**2025-05-05**|**VAEmo: Efficient Representation Learning for Visual-Audio Emotion with Knowledge Injection**|Hao Cheng et.al.|[2505.02331v1](http://arxiv.org/abs/2505.02331v1)|**2025-05-05**|[link](https://github.com/MSA-LMC/VAEmo)|
-|**2025-05-05**|**Generative Sign-description Prompts with Multi-positive Contrastive Learning for Sign Language Recognition**|Siyu Liang et.al.|[2505.02304v1](http://arxiv.org/abs/2505.02304v1)|**2025-05-05**|null|
-|**2025-05-04**|**Real-time Spatial Retrieval Augmented Generation for Urban Environments**|David Nazareno Campo et.al.|[2505.02271v1](http://arxiv.org/abs/2505.02271v1)|**2025-05-04**|null|
-|**2025-05-04**|**Prompt-responsive Object Retrieval with Memory-augmented Student-Teacher Learning**|Malte Mosbach et.al.|[2505.02232v1](http://arxiv.org/abs/2505.02232v1)|**2025-05-04**|null|
-|**2025-05-04**|**CSASN: A Multitask Attention-Based Framework for Heterogeneous Thyroid Carcinoma Classification in Ultrasound Images**|Peiqi Li et.al.|[2505.02211v1](http://arxiv.org/abs/2505.02211v1)|**2025-05-04**|null|
-|**2025-05-04**|**Identifying Legal Holdings with LLMs: A Systematic Study of Performance, Scale, and Memorization**|Chuck Arvin et.al.|[2505.02172v1](http://arxiv.org/abs/2505.02172v1)|**2025-05-04**|null|
-|**2025-05-04**|**A New HOPE: Domain-agnostic Automatic Evaluation of Text Chunking**|Henrik Brådland et.al.|[2505.02171v1](http://arxiv.org/abs/2505.02171v1)|**2025-05-04**|null|
-|**2025-05-04**|**Incorporating Legal Structure in Retrieval-Augmented Generation: A Case Study on Copyright Fair Use**|Justin Ho et.al.|[2505.02164v1](http://arxiv.org/abs/2505.02164v1)|**2025-05-04**|null|
+|**2025-05-06**|**Self-Supervised Learning for Robotic Leaf Manipulation: A Hybrid Geometric-Neural Approach**|Srecharan Selvam et.al.|[2505.03702v1](http://arxiv.org/abs/2505.03702v1)|**2025-05-06**|null|
+|**2025-05-06**|**CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**|Huawei Sun et.al.|[2505.03679v1](http://arxiv.org/abs/2505.03679v1)|**2025-05-06**|null|
+|**2025-05-06**|**Distribution-Conditional Generation: From Class Distribution to Creative Generation**|Fu Feng et.al.|[2505.03667v1](http://arxiv.org/abs/2505.03667v1)|**2025-05-06**|null|
+|**2025-05-06**|**ReGraP-LLaVA: Reasoning enabled Graph-based Personalized Large Language and Vision Assistant**|Yifan Xiang et.al.|[2505.03654v1](http://arxiv.org/abs/2505.03654v1)|**2025-05-06**|null|
+|**2025-05-06**|**Bounding Box-Guided Diffusion for Synthesizing Industrial Images and Segmentation Map**|Alessandro Simoni et.al.|[2505.03623v1](http://arxiv.org/abs/2505.03623v1)|**2025-05-06**|null|
+|**2025-05-06**|**PhysLLM: Harnessing Large Language Models for Cross-Modal Remote Physiological Sensing**|Yiping Xie et.al.|[2505.03621v1](http://arxiv.org/abs/2505.03621v1)|**2025-05-06**|null|
+|**2025-05-06**|**Learning Unknown Spoof Prompts for Generalized Face Anti-Spoofing Using Only Real Face Images**|Fangling Jiang et.al.|[2505.03611v1](http://arxiv.org/abs/2505.03611v1)|**2025-05-06**|null|
+|**2025-05-06**|**Meta-reasoning Using Attention Maps and Its Applications in Cloud Robotics**|Adrian Lendinez et.al.|[2505.03587v1](http://arxiv.org/abs/2505.03587v1)|**2025-05-06**|null|
+|**2025-05-06**|**Uncertainty-Aware Prototype Semantic Decoupling for Text-Based Person Search in Full Images**|Zengli Luo et.al.|[2505.03567v1](http://arxiv.org/abs/2505.03567v1)|**2025-05-06**|null|
+|**2025-05-06**|**Panoramic Out-of-Distribution Segmentation**|Mengfei Duan et.al.|[2505.03539v1](http://arxiv.org/abs/2505.03539v1)|**2025-05-06**|null|
+|**2025-05-06**|**RAIL: Region-Aware Instructive Learning for Semi-Supervised Tooth Segmentation in CBCT**|Chuyu Zhao et.al.|[2505.03538v1](http://arxiv.org/abs/2505.03538v1)|**2025-05-06**|null|
+|**2025-05-06**|**Joint Generalized Cosine Similarity: A Novel Method for N-Modal Semantic Alignment Based on Contrastive Learning**|Yiqiao Chen et.al.|[2505.03532v1](http://arxiv.org/abs/2505.03532v1)|**2025-05-06**|null|
+|**2025-05-06**|**Causal Intervention Framework for Variational Auto Encoder Mechanistic Interpretability**|Dip Roy et.al.|[2505.03530v1](http://arxiv.org/abs/2505.03530v1)|**2025-05-06**|null|
+|**2025-05-06**|**Artificial Protozoa Optimizer (APO): A novel bio-inspired metaheuristic algorithm for engineering optimization**|Xiaopeng Wang et.al.|[2505.03512v1](http://arxiv.org/abs/2505.03512v1)|**2025-05-06**|null|
+|**2025-05-06**|**UPMAD-Net: A Brain Tumor Segmentation Network with Uncertainty Guidance and Adaptive Multimodal Feature Fusion**|Zhanyuan Jia et.al.|[2505.03494v1](http://arxiv.org/abs/2505.03494v1)|**2025-05-06**|null|
+|**2025-05-06**|**Augmenting Human Cognition through Everyday AR**|Xiaoan Liu et.al.|[2505.03492v1](http://arxiv.org/abs/2505.03492v1)|**2025-05-06**|null|
+|**2025-05-06**|**Elevating Semantic Exploration: A Novel Approach Utilizing Distributed Repositories**|Valerio Bellandi et.al.|[2505.03443v1](http://arxiv.org/abs/2505.03443v1)|**2025-05-06**|null|
+|**2025-05-06**|**Procedural Memory Is Not All You Need: Bridging Cognitive Gaps in LLM-Based Agents**|Schaun Wheeler et.al.|[2505.03434v1](http://arxiv.org/abs/2505.03434v1)|**2025-05-06**|null|
+|**2025-05-06**|**Enhancing Target-unspecific Tasks through a Features Matrix**|Fangming Cui et.al.|[2505.03414v1](http://arxiv.org/abs/2505.03414v1)|**2025-05-06**|null|
+|**2025-05-06**|**Close-Fitting Dressing Assistance Based on State Estimation of Feet and Garments with Semantic-based Visual Attention**|Takuma Tsukakoshi et.al.|[2505.03400v1](http://arxiv.org/abs/2505.03400v1)|**2025-05-06**|null|
+|**2025-05-06**|**Reinforced Correlation Between Vision and Language for Precise Medical AI Assistant**|Haonan Wang et.al.|[2505.03380v1](http://arxiv.org/abs/2505.03380v1)|**2025-05-06**|null|
+|**2025-05-06**|**Hybrid NOMA Assisted Heterogeneous Semantic and Bit Users Communication**|Ishtiaque Ahmed et.al.|[2505.03379v1](http://arxiv.org/abs/2505.03379v1)|**2025-05-06**|null|
+|**2025-05-06**|**Interpretable Zero-shot Learning with Infinite Class Concepts**|Zihan Ye et.al.|[2505.03361v1](http://arxiv.org/abs/2505.03361v1)|**2025-05-06**|null|
+|**2025-05-06**|**Elevating Cyber Threat Intelligence against Disinformation Campaigns with LLM-based Concept Extraction and the FakeCTI Dataset**|Domenico Cotroneo et.al.|[2505.03345v1](http://arxiv.org/abs/2505.03345v1)|**2025-05-06**|null|
+|**2025-05-06**|**3D Can Be Explored In 2D: Pseudo-Label Generation for LiDAR Point Clouds Using Sensor-Intensity-Based 2D Semantic Segmentation**|Andrew Caunes et.al.|[2505.03300v1](http://arxiv.org/abs/2505.03300v1)|**2025-05-06**|null|
+|**2025-05-06**|**OccCylindrical: Multi-Modal Fusion with Cylindrical Representation for 3D Semantic Occupancy Prediction**|Zhenxing Ming et.al.|[2505.03284v1](http://arxiv.org/abs/2505.03284v1)|**2025-05-06**|null|
+|**2025-05-06**|**Physics-inspired Energy Transition Neural Network for Sequence Learning**|Zhou Wu et.al.|[2505.03281v1](http://arxiv.org/abs/2505.03281v1)|**2025-05-06**|null|
+|**2025-05-06**|**RAG-MCP: Mitigating Prompt Bloat in LLM Tool Selection via Retrieval-Augmented Generation**|Tiantian Gan et.al.|[2505.03275v1](http://arxiv.org/abs/2505.03275v1)|**2025-05-06**|null|
+|**2025-05-06**|**Rapid diagnostics of reconfigurable intelligent surfaces using space-time-coding modulation**|Yi Ning Zheng et.al.|[2505.03266v1](http://arxiv.org/abs/2505.03266v1)|**2025-05-06**|null|
+|**2025-05-06**|**DiffVQA: Video Quality Assessment Using Diffusion Feature Extractor**|Wei-Ting Chen et.al.|[2505.03261v1](http://arxiv.org/abs/2505.03261v1)|**2025-05-06**|null|
