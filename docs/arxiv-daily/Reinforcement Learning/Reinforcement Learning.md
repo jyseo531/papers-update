@@ -15,9 +15,9 @@
 |**2025-05-05**|**A Survey on Progress in LLM Alignment from the Perspective of Reward Design**|Miaomiao Ji et.al.|[2505.02666v1](http://arxiv.org/abs/2505.02666v1)|**2025-05-05**|null|
 |**2025-05-05**|**A Survey of Slow Thinking-based Reasoning LLMs using Reinforced Learning and Inference-time Scaling Law**|Qianjun Pan et.al.|[2505.02665v1](http://arxiv.org/abs/2505.02665v1)|**2025-05-05**|null|
 |**2025-05-05**|**Aerodynamic and structural airfoil shape optimisation via Transfer Learning-enhanced Deep Reinforcement Learning**|David Ramos et.al.|[2505.02634v1](http://arxiv.org/abs/2505.02634v1)|**2025-05-05**|null|
-|**2025-05-05**|**EMORL: Ensemble Multi-Objective Reinforcement Learning for Efficient and Flexible LLM Fine-Tuning**|Lingxiao Kong et.al.|[2505.02579v1](http://arxiv.org/abs/2505.02579v1)|**2025-05-05**|null|
-|**2025-05-05**|**Robust Duality Learning for Unsupervised Visible-Infrared Person Re-Identfication**|Yongxiang Li et.al.|[2505.02549v1](http://arxiv.org/abs/2505.02549v1)|**2025-05-05**|null|
-|**2025-05-05**|**Advancing Constrained Monotonic Neural Networks: Achieving Universal Approximation Beyond Bounded Activations**|Davide Sartor et.al.|[2505.02537v1](http://arxiv.org/abs/2505.02537v1)|**2025-05-05**|null|
+|**2025-05-05**|**EMORL: Ensemble Multi-Objective Reinforcement Learning for Efficient and Flexible LLM Fine-Tuning**|Lingxiao Kong et.al.|[2505.02579v2](http://arxiv.org/abs/2505.02579v2)|**2025-05-06**|null|
+|**2025-05-05**|**Robust Duality Learning for Unsupervised Visible-Infrared Person Re-Identification**|Yongxiang Li et.al.|[2505.02549v2](http://arxiv.org/abs/2505.02549v2)|**2025-05-06**|null|
+|**2025-05-05**|**Advancing Constrained Monotonic Neural Networks: Achieving Universal Approximation Beyond Bounded Activations**|Davide Sartor et.al.|[2505.02537v2](http://arxiv.org/abs/2505.02537v2)|**2025-05-06**|null|
 |**2025-05-05**|**Deaf in AI: AI language technologies and the erosion of linguistic rights**|Maartje De Meulder et.al.|[2505.02519v1](http://arxiv.org/abs/2505.02519v1)|**2025-05-05**|null|
 |**2025-05-05**|**Automated Hybrid Reward Scheduling via Large Language Models for Robotic Skill Learning**|Changxin Huang et.al.|[2505.02483v1](http://arxiv.org/abs/2505.02483v1)|**2025-05-05**|null|
 |**2025-05-05**|**ReeM: Ensemble Building Thermodynamics Model for Efficient HVAC Control via Hierarchical Reinforcement Learning**|Yang Deng et.al.|[2505.02439v1](http://arxiv.org/abs/2505.02439v1)|**2025-05-05**|null|
@@ -30,5 +30,5 @@
 |**2025-05-04**|**Prompt-responsive Object Retrieval with Memory-augmented Student-Teacher Learning**|Malte Mosbach et.al.|[2505.02232v1](http://arxiv.org/abs/2505.02232v1)|**2025-05-04**|null|
 |**2025-05-04**|**Interpretable Emergent Language Using Inter-Agent Transformers**|Mannan Bhardwaj et.al.|[2505.02215v1](http://arxiv.org/abs/2505.02215v1)|**2025-05-04**|null|
 |**2025-05-04**|**Exploring new Approaches for Information Retrieval through Natural Language Processing**|Manak Raj et.al.|[2505.02199v1](http://arxiv.org/abs/2505.02199v1)|**2025-05-04**|null|
-|**2025-05-04**|**Think on your Feet: Adaptive Thinking via Reinforcement Learning for Social Agents**|Minzheng Wang et.al.|[2505.02156v1](http://arxiv.org/abs/2505.02156v1)|**2025-05-04**|[link](https://github.com/MozerWang/AMPO)|
+|**2025-05-04**|**Think on your Feet: Adaptive Thinking via Reinforcement Learning for Social Agents**|Minzheng Wang et.al.|[2505.02156v2](http://arxiv.org/abs/2505.02156v2)|**2025-05-06**|[link](https://github.com/MozerWang/AMPO)|
 |**2025-05-04**|**Exploring the Potential of Offline RL for Reasoning in LLMs: A Preliminary Study**|Xiaoyu Tian et.al.|[2505.02142v1](http://arxiv.org/abs/2505.02142v1)|**2025-05-04**|null|

@@ -6,7 +6,7 @@
 |**2025-05-05**|**R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning**|Yi-Fan Zhang et.al.|[2505.02835v1](http://arxiv.org/abs/2505.02835v1)|**2025-05-05**|null|
 |**2025-05-05**|**TWIST: Teleoperated Whole-Body Imitation System**|Yanjie Ze et.al.|[2505.02833v1](http://arxiv.org/abs/2505.02833v1)|**2025-05-05**|null|
 |**2025-05-05**|**No Other Representation Component Is Needed: Diffusion Transformers Can Provide Representation Guidance by Themselves**|Dengyang Jiang et.al.|[2505.02831v1](http://arxiv.org/abs/2505.02831v1)|**2025-05-05**|[link](https://github.com/vvvvvjdy/SRA)|
-|**2025-05-05**|**Towards Application-Specific Evaluation of Vision Models: Case Studies in Ecology and Biology**|Alex Hoi Hang Chan et.al.|[2505.02825v1](http://arxiv.org/abs/2505.02825v1)|**2025-05-05**|null|
+|**2025-05-05**|**Towards Application-Specific Evaluation of Vision Models: Case Studies in Ecology and Biology**|Alex Hoi Hang Chan et.al.|[2505.02825v2](http://arxiv.org/abs/2505.02825v2)|**2025-05-06**|null|
 |**2025-05-05**|**MUSAR: Exploring Multi-Subject Customization from Single-Subject Dataset via Attention Routing**|Zinan Guo et.al.|[2505.02823v1](http://arxiv.org/abs/2505.02823v1)|**2025-05-05**|null|
 |**2025-05-05**|**AutoLibra: Agent Metric Induction from Open-Ended Feedback**|Hao Zhu et.al.|[2505.02820v1](http://arxiv.org/abs/2505.02820v1)|**2025-05-05**|null|
 |**2025-05-05**|**ReplaceMe: Network Simplification via Layer Pruning and Linear Transformations**|Dmitriy Shopkhoev et.al.|[2505.02819v1](http://arxiv.org/abs/2505.02819v1)|**2025-05-05**|null|

@@ -6,9 +6,9 @@
 |**2025-05-05**|**Advances in Automated Fetal Brain MRI Segmentation and Biometry: Insights from the FeTA 2024 Challenge**|Vladyslav Zalevskyi et.al.|[2505.02784v1](http://arxiv.org/abs/2505.02784v1)|**2025-05-05**|null|
 |**2025-05-05**|**Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models**|Yankai Jiang et.al.|[2505.02753v1](http://arxiv.org/abs/2505.02753v1)|**2025-05-05**|null|
 |**2025-05-05**|**Platelet enumeration in dense aggregates**|H. Martin Gillis et.al.|[2505.02751v1](http://arxiv.org/abs/2505.02751v1)|**2025-05-05**|null|
-|**2025-05-05**|**Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation**|Pons Gerard et.al.|[2505.02737v1](http://arxiv.org/abs/2505.02737v1)|**2025-05-05**|null|
+|**2025-05-05**|**Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation**|Gerard Pons et.al.|[2505.02737v2](http://arxiv.org/abs/2505.02737v2)|**2025-05-06**|null|
 |**2025-05-05**|**FormalMATH: Benchmarking Formal Mathematical Reasoning of Large Language Models**|Zhouliang Yu et.al.|[2505.02735v1](http://arxiv.org/abs/2505.02735v1)|**2025-05-05**|null|
-|**2025-05-05**|**Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery**|Bojin Wu et.al.|[2505.02704v1](http://arxiv.org/abs/2505.02704v1)|**2025-05-05**|null|
+|**2025-05-05**|**VGLD: Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery**|Bojin Wu et.al.|[2505.02704v2](http://arxiv.org/abs/2505.02704v2)|**2025-05-06**|null|
 |**2025-05-05**|**Sim2Real in endoscopy segmentation with a novel structure aware image translation**|Clara Tomasini et.al.|[2505.02654v1](http://arxiv.org/abs/2505.02654v1)|**2025-05-05**|null|
 |**2025-05-05**|**Parameter-Efficient Fine-Tuning with Attributed Patch Semantic Graph for Automated Patch Correctness Assessment**|Zhenyu Yang et.al.|[2505.02629v1](http://arxiv.org/abs/2505.02629v1)|**2025-05-05**|null|
 |**2025-05-05**|**Detect, Classify, Act: Categorizing Industrial Anomalies with Multi-Modal Large Language Models**|Sassan Mokhtar et.al.|[2505.02626v1](http://arxiv.org/abs/2505.02626v1)|**2025-05-05**|null|

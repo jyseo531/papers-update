@@ -6,7 +6,7 @@
 |**2025-05-05**|**What is a Gaussian channel, and when is it physically implementable using a multiport interferometer?**|Repana Devendra et.al.|[2505.02834v1](http://arxiv.org/abs/2505.02834v1)|**2025-05-05**|null|
 |**2025-05-05**|**LISAT: Language-Instructed Segmentation Assistant for Satellite Imagery**|Jerome Quenum et.al.|[2505.02829v1](http://arxiv.org/abs/2505.02829v1)|**2025-05-05**|null|
 |**2025-05-05**|**Privacy Risks and Preservation Methods in Explainable Artificial Intelligence: A Scoping Review**|Sonal Allana et.al.|[2505.02828v1](http://arxiv.org/abs/2505.02828v1)|**2025-05-05**|null|
-|**2025-05-05**|**Towards Application-Specific Evaluation of Vision Models: Case Studies in Ecology and Biology**|Alex Hoi Hang Chan et.al.|[2505.02825v1](http://arxiv.org/abs/2505.02825v1)|**2025-05-05**|null|
+|**2025-05-05**|**Towards Application-Specific Evaluation of Vision Models: Case Studies in Ecology and Biology**|Alex Hoi Hang Chan et.al.|[2505.02825v2](http://arxiv.org/abs/2505.02825v2)|**2025-05-06**|null|
 |**2025-05-05**|**Knowing You Don't Know: Learning When to Continue Search in Multi-round RAG through Self-Practicing**|Diji Yang et.al.|[2505.02811v1](http://arxiv.org/abs/2505.02811v1)|**2025-05-05**|null|
 |**2025-05-05**|**Unsupervised training of keypoint-agnostic descriptors for flexible retinal image registration**|David Rivas-Villar et.al.|[2505.02787v1](http://arxiv.org/abs/2505.02787v1)|**2025-05-05**|null|
 |**2025-05-05**|**Can Transformers help us perform parameter estimation of overlapping signals in gravitational wave detectors?**|Lucia Papalini et.al.|[2505.02773v1](http://arxiv.org/abs/2505.02773v1)|**2025-05-05**|null|

@@ -16,7 +16,7 @@
 |**2025-05-05**|**Graph Neural Network-Based Reinforcement Learning for Controlling Biological Networks: The GATTACA Framework**|Andrzej Mizera et.al.|[2505.02712v1](http://arxiv.org/abs/2505.02712v1)|**2025-05-05**|null|
 |**2025-05-05**|**Voila: Voice-Language Foundation Models for Real-Time Autonomous Interaction and Voice Role-Play**|Yemin Shi et.al.|[2505.02707v1](http://arxiv.org/abs/2505.02707v1)|**2025-05-05**|null|
 |**2025-05-05**|**Multi-View Learning with Context-Guided Receptance for Image Denoising**|Binghong Chen et.al.|[2505.02705v1](http://arxiv.org/abs/2505.02705v1)|**2025-05-05**|null|
-|**2025-05-05**|**Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery**|Bojin Wu et.al.|[2505.02704v1](http://arxiv.org/abs/2505.02704v1)|**2025-05-05**|null|
+|**2025-05-05**|**VGLD: Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery**|Bojin Wu et.al.|[2505.02704v2](http://arxiv.org/abs/2505.02704v2)|**2025-05-06**|null|
 |**2025-05-05**|**Magnetic Manipulation of Spatially Confined Multiferroic Heuslers by Martensitic Microstructure Engineering**|Milad Takhsha et.al.|[2505.02696v1](http://arxiv.org/abs/2505.02696v1)|**2025-05-05**|null|
 |**2025-05-05**|**Metamorphosis of collective patterns modulated by non-reciprocal interactions**|Edgardo Brigatti et.al.|[2505.02672v1](http://arxiv.org/abs/2505.02672v1)|**2025-05-05**|null|
 |**2025-05-05**|**SCFormer: Structured Channel-wise Transformer with Cumulative Historical State for Multivariate Time Series Forecasting**|Shiwei Guo et.al.|[2505.02655v1](http://arxiv.org/abs/2505.02655v1)|**2025-05-05**|null|

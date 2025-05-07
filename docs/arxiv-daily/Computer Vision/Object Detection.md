@@ -19,7 +19,7 @@
 |**2025-05-05**|**Characterisation of Crystalline Defects in 4H Silicon Carbide using DLTS and TSC**|Niels G. Sorgenfrei et.al.|[2505.02671v1](http://arxiv.org/abs/2505.02671v1)|**2025-05-05**|null|
 |**2025-05-05**|**Grasp the Graph (GtG) 2.0: Ensemble of GNNs for High-Precision Grasp Pose Detection in Clutter**|Ali Rashidi Moghadam et.al.|[2505.02664v1](http://arxiv.org/abs/2505.02664v1)|**2025-05-05**|null|
 |**2025-05-05**|**Eye Movements as Indicators of Deception: A Machine Learning Approach**|Valentin Foucher et.al.|[2505.02649v1](http://arxiv.org/abs/2505.02649v1)|**2025-05-05**|null|
-|**2025-05-05**|**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**|Mingcheng Li et.al.|[2505.02648v1](http://arxiv.org/abs/2505.02648v1)|**2025-05-05**|null|
+|**2025-05-05**|**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**|Mingcheng Li et.al.|[2505.02648v2](http://arxiv.org/abs/2505.02648v2)|**2025-05-06**|null|
 |**2025-05-05**|**Aerodynamic and structural airfoil shape optimisation via Transfer Learning-enhanced Deep Reinforcement Learning**|David Ramos et.al.|[2505.02634v1](http://arxiv.org/abs/2505.02634v1)|**2025-05-05**|null|
 |**2025-05-05**|**Timing performance of a digital SiPM prototype measured with a picosecond injection laser**|Daniil Rastorguev et.al.|[2505.02632v1](http://arxiv.org/abs/2505.02632v1)|**2025-05-05**|null|
 |**2025-05-05**|**Lane-Wise Highway Anomaly Detection**|Mei Qiu et.al.|[2505.02613v1](http://arxiv.org/abs/2505.02613v1)|**2025-05-05**|null|
@@ -27,8 +27,8 @@
 |**2025-05-05**|**The Secular Periodic Evolution of X-ray Quasi-periodic Eruptions Driven by Star-disc Collisions**|Jiajun Xian et.al.|[2505.02596v1](http://arxiv.org/abs/2505.02596v1)|**2025-05-05**|null|
 |**2025-05-05**|**RGBX-DiffusionDet: A Framework for Multi-Modal RGB-X Object Detection Using DiffusionDet**|Eliraz Orfaig et.al.|[2505.02586v1](http://arxiv.org/abs/2505.02586v1)|**2025-05-05**|null|
 |**2025-05-05**|**Improving Positron Lifetime Spectra Quality by Suppressing Corrupted Coincidences via Pulse-Height Spectrum Window Adjustments**|Dominik Boras et.al.|[2505.02584v1](http://arxiv.org/abs/2505.02584v1)|**2025-05-05**|null|
-|**2025-05-05**|**EMORL: Ensemble Multi-Objective Reinforcement Learning for Efficient and Flexible LLM Fine-Tuning**|Lingxiao Kong et.al.|[2505.02579v1](http://arxiv.org/abs/2505.02579v1)|**2025-05-05**|null|
+|**2025-05-05**|**EMORL: Ensemble Multi-Objective Reinforcement Learning for Efficient and Flexible LLM Fine-Tuning**|Lingxiao Kong et.al.|[2505.02579v2](http://arxiv.org/abs/2505.02579v2)|**2025-05-06**|null|
 |**2025-05-05**|**HapticVLM: VLM-Driven Texture Recognition Aimed at Intelligent Haptic Interaction**|Muhammad Haris Khan et.al.|[2505.02569v1](http://arxiv.org/abs/2505.02569v1)|**2025-05-05**|null|
 |**2025-05-05**|**Marginal minimization and sup-norm expansions in perturbed optimization**|Vladimir Spokoiny et.al.|[2505.02562v1](http://arxiv.org/abs/2505.02562v1)|**2025-05-05**|null|
-|**2025-05-05**|**Evaluating Contrastive Feedback for Effective User Simulations**|Andreas Konstantin Kruff et.al.|[2505.02560v1](http://arxiv.org/abs/2505.02560v1)|**2025-05-05**|null|
+|**2025-05-05**|**Evaluating Contrastive Feedback for Effective User Simulations**|Andreas Konstantin Kruff et.al.|[2505.02560v2](http://arxiv.org/abs/2505.02560v2)|**2025-05-06**|null|
 |**2025-05-05**|**On unification of categories associated with F -transforms and fuzzy pretopological spaces as Qua category**|Abha Tripathi et.al.|[2505.02535v1](http://arxiv.org/abs/2505.02535v1)|**2025-05-05**|null|

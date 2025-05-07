@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-05-05**|**Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation**|Lu Ling et.al.|[2505.02836v1](http://arxiv.org/abs/2505.02836v1)|**2025-05-05**|null|
 |**2025-05-05**|**LISAT: Language-Instructed Segmentation Assistant for Satellite Imagery**|Jerome Quenum et.al.|[2505.02829v1](http://arxiv.org/abs/2505.02829v1)|**2025-05-05**|null|
-|**2025-05-05**|**Towards Application-Specific Evaluation of Vision Models: Case Studies in Ecology and Biology**|Alex Hoi Hang Chan et.al.|[2505.02825v1](http://arxiv.org/abs/2505.02825v1)|**2025-05-05**|null|
+|**2025-05-05**|**Towards Application-Specific Evaluation of Vision Models: Case Studies in Ecology and Biology**|Alex Hoi Hang Chan et.al.|[2505.02825v2](http://arxiv.org/abs/2505.02825v2)|**2025-05-06**|null|
 |**2025-05-05**|**Towards Dataset Copyright Evasion Attack against Personalized Text-to-Image Diffusion Models**|Kuofeng Gao et.al.|[2505.02824v1](http://arxiv.org/abs/2505.02824v1)|**2025-05-05**|null|
 |**2025-05-05**|**Closeby Habitable Exoplanet Survey (CHES). IV. Synergy between astrometry and direct imaging missions of the Habitable World Observatory for detecting Earth-like planets**|Chunhui Bao et.al.|[2505.02818v1](http://arxiv.org/abs/2505.02818v1)|**2025-05-05**|null|
 |**2025-05-05**|**Exploring minimal two component doublet dark matter**|Mariana Frank et.al.|[2505.02816v1](http://arxiv.org/abs/2505.02816v1)|**2025-05-05**|null|
@@ -30,5 +30,5 @@
 |**2025-05-05**|**Grasp the Graph (GtG) 2.0: Ensemble of GNNs for High-Precision Grasp Pose Detection in Clutter**|Ali Rashidi Moghadam et.al.|[2505.02664v1](http://arxiv.org/abs/2505.02664v1)|**2025-05-05**|null|
 |**2025-05-05**|**Open Challenges for a Production-ready Cloud Environment on top of RISC-V hardware**|Aaron Call et.al.|[2505.02650v1](http://arxiv.org/abs/2505.02650v1)|**2025-05-05**|null|
 |**2025-05-05**|**Eye Movements as Indicators of Deception: A Machine Learning Approach**|Valentin Foucher et.al.|[2505.02649v1](http://arxiv.org/abs/2505.02649v1)|**2025-05-05**|null|
-|**2025-05-05**|**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**|Mingcheng Li et.al.|[2505.02648v1](http://arxiv.org/abs/2505.02648v1)|**2025-05-05**|null|
+|**2025-05-05**|**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**|Mingcheng Li et.al.|[2505.02648v2](http://arxiv.org/abs/2505.02648v2)|**2025-05-06**|null|
 |**2025-05-05**|**The circumstellar environment around the extreme Galactic red supergiant NML Cygni: Dense, dusty, and asymmetric**|E. De Beck et.al.|[2505.02643v1](http://arxiv.org/abs/2505.02643v1)|**2025-05-05**|null|

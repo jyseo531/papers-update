@@ -23,10 +23,10 @@
 |**2025-05-05**|**A Sloppy approach to QSP: XAI enabling fit-for-purpose models**|Noah DeTal et.al.|[2505.02750v1](http://arxiv.org/abs/2505.02750v1)|**2025-05-05**|null|
 |**2025-05-05**|**Using Knowledge Graphs to harvest datasets for efficient CLIP model training**|Simon Ging et.al.|[2505.02746v1](http://arxiv.org/abs/2505.02746v1)|**2025-05-05**|null|
 |**2025-05-05**|**Cooperative Bayesian and variance networks disentangle aleatoric and epistemic uncertainties**|Jiaxiang Yi et.al.|[2505.02743v1](http://arxiv.org/abs/2505.02743v1)|**2025-05-05**|null|
-|**2025-05-05**|**dyGRASS: Dynamic Spectral Graph Sparsification via Localized Random Walks on GPUs**|Yihang Yuan et.al.|[2505.02741v1](http://arxiv.org/abs/2505.02741v1)|**2025-05-05**|null|
+|**2025-05-05**|**dyGRASS: Dynamic Spectral Graph Sparsification via Localized Random Walks on GPUs**|Yihang Yuan et.al.|[2505.02741v2](http://arxiv.org/abs/2505.02741v2)|**2025-05-06**|null|
 |**2025-05-05**|**Lumped-element broadband SNAIL parametric amplifier with on-chip pump filter for multiplexed readout**|V. R. Joshi et.al.|[2505.02740v1](http://arxiv.org/abs/2505.02740v1)|**2025-05-05**|null|
 |**2025-05-05**|**Probing the dimuon channel of a $Z^{\prime}$ boson at the HL-LHC using multivariate analysis**|Ali Muhammad H. H. et.al.|[2505.02739v1](http://arxiv.org/abs/2505.02739v1)|**2025-05-05**|null|
-|**2025-05-05**|**Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation**|Pons Gerard et.al.|[2505.02737v1](http://arxiv.org/abs/2505.02737v1)|**2025-05-05**|null|
+|**2025-05-05**|**Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation**|Gerard Pons et.al.|[2505.02737v2](http://arxiv.org/abs/2505.02737v2)|**2025-05-06**|null|
 |**2025-05-05**|**Strong odd coloring in minor-closed classes**|Miriam Goetze et.al.|[2505.02736v1](http://arxiv.org/abs/2505.02736v1)|**2025-05-05**|null|
 |**2025-05-05**|**Automotive Middleware Performance: Comparison of FastDDS, Zenoh and vSomeIP**|David Philipp Klüner et.al.|[2505.02734v1](http://arxiv.org/abs/2505.02734v1)|**2025-05-05**|null|
 |**2025-05-05**|**A Rate-Quality Model for Learned Video Coding**|Sang NguyenQuang et.al.|[2505.02720v1](http://arxiv.org/abs/2505.02720v1)|**2025-05-05**|null|

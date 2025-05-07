@@ -14,7 +14,7 @@
 |**2025-05-03**|**Automated ARAT Scoring Using Multimodal Video Analysis, Multi-View Fusion, and Hierarchical Bayesian Models: A Clinician Study**|Tamim Ahmed et.al.|[2505.01680v1](http://arxiv.org/abs/2505.01680v1)|**2025-05-03**|null|
 |**2025-05-02**|**Scoring-Assisted Generative Exploration for Proteins (SAGE-Prot): A Framework for Multi-Objective Protein Optimization via Iterative Sequence Generation and Evaluation**|Hocheol Lim et.al.|[2505.01277v1](http://arxiv.org/abs/2505.01277v1)|**2025-05-02**|null|
 |**2025-05-02**|**Graph Neural Network-based structural classification of glass-forming liquids and its interpretation via Self-Attention mechanism**|Kohei Yoshikawa et.al.|[2505.00993v1](http://arxiv.org/abs/2505.00993v1)|**2025-05-02**|null|
-|**2025-05-01**|**Robotic Visual Instruction**|Yanbang Li et.al.|[2505.00693v1](http://arxiv.org/abs/2505.00693v1)|**2025-05-01**|null|
+|**2025-05-01**|**Robotic Visual Instruction**|Yanbang Li et.al.|[2505.00693v2](http://arxiv.org/abs/2505.00693v2)|**2025-05-06**|null|
 |**2025-05-01**|**Understanding and improving transferability in machine-learned activation energy predictors**|Joe Gilkes et.al.|[2505.00604v1](http://arxiv.org/abs/2505.00604v1)|**2025-05-01**|null|
 |**2025-05-01**|**Multi-Hierarchical Fine-Grained Feature Mapping Driven by Feature Contribution for Molecular Odor Prediction**|Hong Xin Xie et.al.|[2505.00290v1](http://arxiv.org/abs/2505.00290v1)|**2025-05-01**|null|
 |**2025-04-30**|**Why Compress What You Can Generate? When GPT-4o Generation Ushers in Image Compression Fields**|Yixin Gao et.al.|[2504.21814v1](http://arxiv.org/abs/2504.21814v1)|**2025-04-30**|null|

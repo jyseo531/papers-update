@@ -5,7 +5,7 @@
 |**2025-05-05**|**Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation**|Lu Ling et.al.|[2505.02836v1](http://arxiv.org/abs/2505.02836v1)|**2025-05-05**|null|
 |**2025-05-05**|**TWIST: Teleoperated Whole-Body Imitation System**|Yanjie Ze et.al.|[2505.02833v1](http://arxiv.org/abs/2505.02833v1)|**2025-05-05**|null|
 |**2025-05-05**|**LISAT: Language-Instructed Segmentation Assistant for Satellite Imagery**|Jerome Quenum et.al.|[2505.02829v1](http://arxiv.org/abs/2505.02829v1)|**2025-05-05**|null|
-|**2025-05-05**|**Towards Application-Specific Evaluation of Vision Models: Case Studies in Ecology and Biology**|Alex Hoi Hang Chan et.al.|[2505.02825v1](http://arxiv.org/abs/2505.02825v1)|**2025-05-05**|null|
+|**2025-05-05**|**Towards Application-Specific Evaluation of Vision Models: Case Studies in Ecology and Biology**|Alex Hoi Hang Chan et.al.|[2505.02825v2](http://arxiv.org/abs/2505.02825v2)|**2025-05-06**|null|
 |**2025-05-05**|**Closeby Habitable Exoplanet Survey (CHES). IV. Synergy between astrometry and direct imaging missions of the Habitable World Observatory for detecting Earth-like planets**|Chunhui Bao et.al.|[2505.02818v1](http://arxiv.org/abs/2505.02818v1)|**2025-05-05**|null|
 |**2025-05-05**|**Improving source positions in the OCARS catalog: A first approach**|Zinovy Malkin et.al.|[2505.02805v1](http://arxiv.org/abs/2505.02805v1)|**2025-05-05**|null|
 |**2025-05-05**|**DPNet: Dynamic Pooling Network for Tiny Object Detection**|Luqi Gong et.al.|[2505.02797v1](http://arxiv.org/abs/2505.02797v1)|**2025-05-05**|null|
@@ -21,7 +21,7 @@
 |**2025-05-05**|**Certain Observations on Ideals Associated With Weighted Density Using Modulus Functions**|Pratulananda Das et.al.|[2505.02682v1](http://arxiv.org/abs/2505.02682v1)|**2025-05-05**|null|
 |**2025-05-05**|**Grasp the Graph (GtG) 2.0: Ensemble of GNNs for High-Precision Grasp Pose Detection in Clutter**|Ali Rashidi Moghadam et.al.|[2505.02664v1](http://arxiv.org/abs/2505.02664v1)|**2025-05-05**|null|
 |**2025-05-05**|**Open Challenges for a Production-ready Cloud Environment on top of RISC-V hardware**|Aaron Call et.al.|[2505.02650v1](http://arxiv.org/abs/2505.02650v1)|**2025-05-05**|null|
-|**2025-05-05**|**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**|Mingcheng Li et.al.|[2505.02648v1](http://arxiv.org/abs/2505.02648v1)|**2025-05-05**|null|
+|**2025-05-05**|**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**|Mingcheng Li et.al.|[2505.02648v2](http://arxiv.org/abs/2505.02648v2)|**2025-05-06**|null|
 |**2025-05-05**|**Tight Bounds on Channel Reliability via Generalized Quorum Systems (Extended Version)**|Alejandro Naser-Pastoriza et.al.|[2505.02646v1](http://arxiv.org/abs/2505.02646v1)|**2025-05-05**|null|
 |**2025-05-05**|**Aerodynamic and structural airfoil shape optimisation via Transfer Learning-enhanced Deep Reinforcement Learning**|David Ramos et.al.|[2505.02634v1](http://arxiv.org/abs/2505.02634v1)|**2025-05-05**|null|
 |**2025-05-05**|**Timing performance of a digital SiPM prototype measured with a picosecond injection laser**|Daniil Rastorguev et.al.|[2505.02632v1](http://arxiv.org/abs/2505.02632v1)|**2025-05-05**|null|

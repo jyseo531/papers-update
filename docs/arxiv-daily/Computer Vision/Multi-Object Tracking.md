@@ -15,7 +15,7 @@
 |**2025-05-05**|**Automotive Middleware Performance: Comparison of FastDDS, Zenoh and vSomeIP**|David Philipp Klüner et.al.|[2505.02734v1](http://arxiv.org/abs/2505.02734v1)|**2025-05-05**|null|
 |**2025-05-05**|**Technical Report: Evaluating Goal Drift in Language Model Agents**|Rauno Arike et.al.|[2505.02709v1](http://arxiv.org/abs/2505.02709v1)|**2025-05-05**|null|
 |**2025-05-05**|**Searching for supermassive black holes binaries within SRG/eROSITA-De I: Properties of the X-ray selected candidates**|D. Tubín-Arenas et.al.|[2505.02708v1](http://arxiv.org/abs/2505.02708v1)|**2025-05-05**|null|
-|**2025-05-05**|**Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery**|Bojin Wu et.al.|[2505.02704v1](http://arxiv.org/abs/2505.02704v1)|**2025-05-05**|null|
+|**2025-05-05**|**VGLD: Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery**|Bojin Wu et.al.|[2505.02704v2](http://arxiv.org/abs/2505.02704v2)|**2025-05-06**|null|
 |**2025-05-05**|**Structure Causal Models and LLMs Integration in Medical Visual Question Answering**|Zibo Xu et.al.|[2505.02703v1](http://arxiv.org/abs/2505.02703v1)|**2025-05-05**|null|
 |**2025-05-05**|**Predicting Movie Hits Before They Happen with LLMs**|Shaghayegh Agah et.al.|[2505.02693v1](http://arxiv.org/abs/2505.02693v1)|**2025-05-05**|null|
 |**2025-05-05**|**Dance of Fireworks: An Interactive Broadcast Gymnastics Training System Based on Pose Estimation**|Haotian Chen et.al.|[2505.02690v1](http://arxiv.org/abs/2505.02690v1)|**2025-05-05**|null|
@@ -24,7 +24,7 @@
 |**2025-05-05**|**Metamorphosis of collective patterns modulated by non-reciprocal interactions**|Edgardo Brigatti et.al.|[2505.02672v1](http://arxiv.org/abs/2505.02672v1)|**2025-05-05**|null|
 |**2025-05-05**|**A Survey of Slow Thinking-based Reasoning LLMs using Reinforced Learning and Inference-time Scaling Law**|Qianjun Pan et.al.|[2505.02665v1](http://arxiv.org/abs/2505.02665v1)|**2025-05-05**|null|
 |**2025-05-05**|**Grasp the Graph (GtG) 2.0: Ensemble of GNNs for High-Precision Grasp Pose Detection in Clutter**|Ali Rashidi Moghadam et.al.|[2505.02664v1](http://arxiv.org/abs/2505.02664v1)|**2025-05-05**|null|
-|**2025-05-05**|**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**|Mingcheng Li et.al.|[2505.02648v1](http://arxiv.org/abs/2505.02648v1)|**2025-05-05**|null|
+|**2025-05-05**|**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**|Mingcheng Li et.al.|[2505.02648v2](http://arxiv.org/abs/2505.02648v2)|**2025-05-06**|null|
 |**2025-05-05**|**Tight Bounds on Channel Reliability via Generalized Quorum Systems (Extended Version)**|Alejandro Naser-Pastoriza et.al.|[2505.02646v1](http://arxiv.org/abs/2505.02646v1)|**2025-05-05**|null|
 |**2025-05-05**|**Aerodynamic and structural airfoil shape optimisation via Transfer Learning-enhanced Deep Reinforcement Learning**|David Ramos et.al.|[2505.02634v1](http://arxiv.org/abs/2505.02634v1)|**2025-05-05**|null|
 |**2025-05-05**|**Timing performance of a digital SiPM prototype measured with a picosecond injection laser**|Daniil Rastorguev et.al.|[2505.02632v1](http://arxiv.org/abs/2505.02632v1)|**2025-05-05**|null|

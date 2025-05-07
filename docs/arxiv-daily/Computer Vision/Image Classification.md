@@ -23,7 +23,7 @@
 |**2025-05-05**|**Topology across Scales on Heterogeneous Cell Data**|Maria Torras-Pérez et.al.|[2505.02717v1](http://arxiv.org/abs/2505.02717v1)|**2025-05-05**|null|
 |**2025-05-05**|**Searching for supermassive black holes binaries within SRG/eROSITA-De I: Properties of the X-ray selected candidates**|D. Tubín-Arenas et.al.|[2505.02708v1](http://arxiv.org/abs/2505.02708v1)|**2025-05-05**|null|
 |**2025-05-05**|**Multi-View Learning with Context-Guided Receptance for Image Denoising**|Binghong Chen et.al.|[2505.02705v1](http://arxiv.org/abs/2505.02705v1)|**2025-05-05**|null|
-|**2025-05-05**|**Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery**|Bojin Wu et.al.|[2505.02704v1](http://arxiv.org/abs/2505.02704v1)|**2025-05-05**|null|
+|**2025-05-05**|**VGLD: Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery**|Bojin Wu et.al.|[2505.02704v2](http://arxiv.org/abs/2505.02704v2)|**2025-05-06**|null|
 |**2025-05-05**|**Structure Causal Models and LLMs Integration in Medical Visual Question Answering**|Zibo Xu et.al.|[2505.02703v1](http://arxiv.org/abs/2505.02703v1)|**2025-05-05**|null|
 |**2025-05-05**|**Estimations of lung structural properties from a single propagation-based dark-field X-ray image**|Dylan W. O'Connell et.al.|[2505.02695v1](http://arxiv.org/abs/2505.02695v1)|**2025-05-05**|null|
 |**2025-05-05**|**Exploring the IR-radio correlation in massive galaxy clusters at the end of cosmic noon**|N. Samanso et.al.|[2505.02687v1](http://arxiv.org/abs/2505.02687v1)|**2025-05-05**|null|
@@ -31,4 +31,4 @@
 |**2025-05-05**|**A Survey on Progress in LLM Alignment from the Perspective of Reward Design**|Miaomiao Ji et.al.|[2505.02666v1](http://arxiv.org/abs/2505.02666v1)|**2025-05-05**|null|
 |**2025-05-05**|**Sim2Real in endoscopy segmentation with a novel structure aware image translation**|Clara Tomasini et.al.|[2505.02654v1](http://arxiv.org/abs/2505.02654v1)|**2025-05-05**|null|
 |**2025-05-05**|**Eye Movements as Indicators of Deception: A Machine Learning Approach**|Valentin Foucher et.al.|[2505.02649v1](http://arxiv.org/abs/2505.02649v1)|**2025-05-05**|null|
-|**2025-05-05**|**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**|Mingcheng Li et.al.|[2505.02648v1](http://arxiv.org/abs/2505.02648v1)|**2025-05-05**|null|
+|**2025-05-05**|**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**|Mingcheng Li et.al.|[2505.02648v2](http://arxiv.org/abs/2505.02648v2)|**2025-05-06**|null|

@@ -14,8 +14,8 @@
 |**2025-05-05**|**RGBX-DiffusionDet: A Framework for Multi-Modal RGB-X Object Detection Using DiffusionDet**|Eliraz Orfaig et.al.|[2505.02586v1](http://arxiv.org/abs/2505.02586v1)|**2025-05-05**|null|
 |**2025-05-05**|**Towards Cross-Modality Modeling for Time Series Analytics: A Survey in the LLM Era**|Chenxi Liu et.al.|[2505.02583v1](http://arxiv.org/abs/2505.02583v1)|**2025-05-05**|null|
 |**2025-05-05**|**Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities**|Xinjie Zhang et.al.|[2505.02567v1](http://arxiv.org/abs/2505.02567v1)|**2025-05-05**|null|
-|**2025-05-05**|**Evaluating Contrastive Feedback for Effective User Simulations**|Andreas Konstantin Kruff et.al.|[2505.02560v1](http://arxiv.org/abs/2505.02560v1)|**2025-05-05**|null|
-|**2025-05-05**|**Robust Duality Learning for Unsupervised Visible-Infrared Person Re-Identfication**|Yongxiang Li et.al.|[2505.02549v1](http://arxiv.org/abs/2505.02549v1)|**2025-05-05**|null|
+|**2025-05-05**|**Evaluating Contrastive Feedback for Effective User Simulations**|Andreas Konstantin Kruff et.al.|[2505.02560v2](http://arxiv.org/abs/2505.02560v2)|**2025-05-06**|null|
+|**2025-05-05**|**Robust Duality Learning for Unsupervised Visible-Infrared Person Re-Identification**|Yongxiang Li et.al.|[2505.02549v2](http://arxiv.org/abs/2505.02549v2)|**2025-05-06**|null|
 |**2025-05-05**|**Modal logic for reasoning about uncertainty and confusion**|Marta Bílková et.al.|[2505.02548v1](http://arxiv.org/abs/2505.02548v1)|**2025-05-05**|null|
 |**2025-05-05**|**RobSurv: Vector Quantization-Based Multi-Modal Learning for Robust Cancer Survival Prediction**|Aiman Farooq et.al.|[2505.02529v1](http://arxiv.org/abs/2505.02529v1)|**2025-05-05**|null|
 |**2025-05-05**|**Finger Pose Estimation for Under-screen Fingerprint Sensor**|Xiongjun Guan et.al.|[2505.02481v1](http://arxiv.org/abs/2505.02481v1)|**2025-05-05**|null|
@@ -31,4 +31,4 @@
 |**2025-05-04**|**CircuitFusion: Multimodal Circuit Representation Learning for Agile Chip Design**|Wenji Fang et.al.|[2505.02168v1](http://arxiv.org/abs/2505.02168v1)|**2025-05-04**|null|
 |**2025-05-04**|**CrayonRobo: Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation**|Xiaoqi Li et.al.|[2505.02166v1](http://arxiv.org/abs/2505.02166v1)|**2025-05-04**|null|
 |**2025-05-04**|**A Robust Monotonic Single-Index Model for Skewed and Heavy-Tailed Data: A Deep Neural Network Approach Applied to Periodontal Studies**|Qingyang Liu et.al.|[2505.02153v1](http://arxiv.org/abs/2505.02153v1)|**2025-05-04**|null|
-|**2025-05-04**|**Efficient Multivariate Time Series Forecasting via Calibrated Language Models with Privileged Knowledge Distillation**|Chenxi Liu et.al.|[2505.02138v1](http://arxiv.org/abs/2505.02138v1)|**2025-05-04**|null|
+|**2025-05-04**|**Efficient Multivariate Time Series Forecasting via Calibrated Language Models with Privileged Knowledge Distillation**|Chenxi Liu et.al.|[2505.02138v2](http://arxiv.org/abs/2505.02138v2)|**2025-05-06**|null|
