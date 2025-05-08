@@ -2,33 +2,33 @@
 ### Transfer Learning
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-06**|**AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control**|Jialong Li et.al.|[2505.03738v1](http://arxiv.org/abs/2505.03738v1)|**2025-05-06**|null|
-|**2025-05-06**|**FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios**|Shiyi Zhang et.al.|[2505.03730v1](http://arxiv.org/abs/2505.03730v1)|**2025-05-06**|null|
-|**2025-05-06**|**Meta-Optimization and Program Search using Language Models for Task and Motion Planning**|Denis Shcherba et.al.|[2505.03725v1](http://arxiv.org/abs/2505.03725v1)|**2025-05-06**|null|
-|**2025-05-06**|**Stay Positive: Neural Refinement of Sample Weights**|Benjamin Nachman et.al.|[2505.03724v1](http://arxiv.org/abs/2505.03724v1)|**2025-05-06**|null|
-|**2025-05-06**|**Sustainable Smart Farm Networks: Enhancing Resilience and Efficiency with Decision Theory-Guided Deep Reinforcement Learning**|Dian Chen et.al.|[2505.03721v1](http://arxiv.org/abs/2505.03721v1)|**2025-05-06**|null|
-|**2025-05-06**|**Nonnegative Low-rank Matrix Recovery Can Have Spurious Local Minima**|Richard Y. Zhang et.al.|[2505.03717v1](http://arxiv.org/abs/2505.03717v1)|**2025-05-06**|null|
-|**2025-05-06**|**DISARM++: Beyond scanner-free harmonization**|Luca Caldera et.al.|[2505.03715v1](http://arxiv.org/abs/2505.03715v1)|**2025-05-06**|null|
-|**2025-05-06**|**Learning Survival Distributions with the Asymmetric Laplace Distribution**|Deming Sheng et.al.|[2505.03712v2](http://arxiv.org/abs/2505.03712v2)|**2025-05-07**|null|
-|**2025-05-06**|**Actor-Critics Can Achieve Optimal Sample Efficiency**|Kevin Tan et.al.|[2505.03710v1](http://arxiv.org/abs/2505.03710v1)|**2025-05-06**|null|
-|**2025-05-06**|**Policy Gradient Adaptive Control for the LQR: Indirect and Direct Approaches**|Feiran Zhao et.al.|[2505.03706v1](http://arxiv.org/abs/2505.03706v1)|**2025-05-06**|null|
-|**2025-05-06**|**Multi-modal cascade feature transfer for polymer property prediction**|Kiichi Obuchi et.al.|[2505.03704v2](http://arxiv.org/abs/2505.03704v2)|**2025-05-07**|null|
-|**2025-05-06**|**Fill the Gap: Quantifying and Reducing the Modality Gap in Image-Text Representation Learning**|François Role et.al.|[2505.03703v1](http://arxiv.org/abs/2505.03703v1)|**2025-05-06**|null|
-|**2025-05-06**|**Self-Supervised Learning for Robotic Leaf Manipulation: A Hybrid Geometric-Neural Approach**|Srecharan Selvam et.al.|[2505.03702v1](http://arxiv.org/abs/2505.03702v1)|**2025-05-06**|null|
-|**2025-05-06**|**Bridging constrained random-phase approximation and linear response theory for computing Hubbard parameters**|Alberto Carta et.al.|[2505.03698v1](http://arxiv.org/abs/2505.03698v1)|**2025-05-06**|null|
-|**2025-05-06**|**Demonstrating ViSafe: Vision-enabled Safety for High-speed Detect and Avoid**|Parv Kapoor et.al.|[2505.03694v1](http://arxiv.org/abs/2505.03694v1)|**2025-05-06**|null|
-|**2025-05-06**|**Matching Distance and Geometric Distribution Aided Learning Multiview Point Cloud Registration**|Shiqi Li et.al.|[2505.03692v1](http://arxiv.org/abs/2505.03692v1)|**2025-05-06**|[link](https://github.com/shi-qi-li/mdgd)|
-|**2025-05-06**|**IndicSQuAD: A Comprehensive Multilingual Question Answering Dataset for Indic Languages**|Sharvi Endait et.al.|[2505.03688v1](http://arxiv.org/abs/2505.03688v1)|**2025-05-06**|null|
-|**2025-05-06**|**Neural Integral Operators for Inverse problems in Spectroscopy**|Emanuele Zappala et.al.|[2505.03677v1](http://arxiv.org/abs/2505.03677v1)|**2025-05-06**|null|
-|**2025-05-06**|**Vector valued optimal transport: from dynamic to static formulations**|Katy Craig et.al.|[2505.03670v1](http://arxiv.org/abs/2505.03670v1)|**2025-05-06**|null|
-|**2025-05-06**|**Learning Symbolic Persistent Macro-Actions for POMDP Solving Over Time**|Celeste Veronese et.al.|[2505.03668v1](http://arxiv.org/abs/2505.03668v1)|**2025-05-06**|null|
-|**2025-05-06**|**Meta-Learning the Optimal Mixture of Strategies for Online Portfolio Selection**|Jiayu Shen et.al.|[2505.03659v1](http://arxiv.org/abs/2505.03659v1)|**2025-05-06**|null|
-|**2025-05-06**|**Ultrafast Non-Hermitian Skin Effect**|Barbara Schneider et.al.|[2505.03658v1](http://arxiv.org/abs/2505.03658v1)|**2025-05-06**|null|
-|**2025-05-06**|**ReGraP-LLaVA: Reasoning enabled Graph-based Personalized Large Language and Vision Assistant**|Yifan Xiang et.al.|[2505.03654v1](http://arxiv.org/abs/2505.03654v1)|**2025-05-06**|null|
-|**2025-05-06**|**Mitigating mode collapse in normalizing flows by annealing with an adaptive schedule: Application to parameter estimation**|Yihang Wang et.al.|[2505.03652v1](http://arxiv.org/abs/2505.03652v1)|**2025-05-06**|null|
-|**2025-05-06**|**Weighted Random Dot Product Graphs**|Bernardo Marenco et.al.|[2505.03649v2](http://arxiv.org/abs/2505.03649v2)|**2025-05-07**|[link](https://github.com/bmarenco/wrdpg)|
-|**2025-05-06**|**Binding threshold units with artificial oscillatory neurons**|Vladimir Fanaskov et.al.|[2505.03648v1](http://arxiv.org/abs/2505.03648v1)|**2025-05-06**|null|
-|**2025-05-06**|**ALMA: Aggregated Lipschitz Maximization Attack on Auto-encoders**|Chethan Krishnamurthy Ramanaik et.al.|[2505.03646v1](http://arxiv.org/abs/2505.03646v1)|**2025-05-06**|null|
-|**2025-05-06**|**BURNS: Backward Underapproximate Reachability for Neural-Feedback-Loop Systems**|Chelsea Sidrane et.al.|[2505.03643v1](http://arxiv.org/abs/2505.03643v1)|**2025-05-06**|null|
-|**2025-05-06**|**Towards Smart Point-and-Shoot Photography**|Jiawan Li et.al.|[2505.03638v1](http://arxiv.org/abs/2505.03638v1)|**2025-05-06**|null|
-|**2025-05-06**|**Accelerating the development of oxynitride thin films: A combinatorial investigation of the Al-Si-O-N system**|Stefanie Frick et.al.|[2505.03635v1](http://arxiv.org/abs/2505.03635v1)|**2025-05-06**|null|
+|**2025-05-07**|**Is the end of Insight in Sight ?**|Jean-Michel Tucny et.al.|[2505.04627v1](http://arxiv.org/abs/2505.04627v1)|**2025-05-07**|null|
+|**2025-05-07**|**EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning**|Zhenghao Xing et.al.|[2505.04623v1](http://arxiv.org/abs/2505.04623v1)|**2025-05-07**|null|
+|**2025-05-07**|**PrimitiveAnything: Human-Crafted 3D Primitive Assembly Generation with Auto-Regressive Transformer**|Jingwen Ye et.al.|[2505.04622v1](http://arxiv.org/abs/2505.04622v1)|**2025-05-07**|null|
+|**2025-05-07**|**Score Distillation Sampling for Audio: Source Separation, Synthesis, and Beyond**|Jessie Richter-Powell et.al.|[2505.04621v1](http://arxiv.org/abs/2505.04621v1)|**2025-05-07**|null|
+|**2025-05-07**|**Merging and Disentangling Views in Visual Reinforcement Learning for Robotic Manipulation**|Abdulaziz Almuzairee et.al.|[2505.04619v1](http://arxiv.org/abs/2505.04619v1)|**2025-05-07**|null|
+|**2025-05-07**|**From Two Sample Testing to Singular Gaussian Discrimination**|Leonardo V. Santoro et.al.|[2505.04613v1](http://arxiv.org/abs/2505.04613v1)|**2025-05-07**|null|
+|**2025-05-07**|**WATCH: Weighted Adaptive Testing for Changepoint Hypotheses via Weighted-Conformal Martingales**|Drew Prinster et.al.|[2505.04608v1](http://arxiv.org/abs/2505.04608v1)|**2025-05-07**|null|
+|**2025-05-07**|**Testing Juntas Optimally with Samples**|Lorenzo Beretta et.al.|[2505.04604v1](http://arxiv.org/abs/2505.04604v1)|**2025-05-07**|null|
+|**2025-05-07**|**Likelihood-Free Adaptive Bayesian Inference via Nonparametric Distribution Matching**|Wenhui Sophia Lu et.al.|[2505.04603v1](http://arxiv.org/abs/2505.04603v1)|**2025-05-07**|null|
+|**2025-05-07**|**OpenVision: A Fully-Open, Cost-Effective Family of Advanced Vision Encoders for Multimodal Learning**|Xianhang Li et.al.|[2505.04601v1](http://arxiv.org/abs/2505.04601v1)|**2025-05-07**|null|
+|**2025-05-07**|**Complexity Lower Bounds of Adaptive Gradient Algorithms for Non-convex Stochastic Optimization under Relaxed Smoothness**|Michael Crawshaw et.al.|[2505.04599v1](http://arxiv.org/abs/2505.04599v1)|**2025-05-07**|null|
+|**2025-05-07**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594v1](http://arxiv.org/abs/2505.04594v1)|**2025-05-07**|null|
+|**2025-05-07**|**ZeroSearch: Incentivize the Search Capability of LLMs without Searching**|Hao Sun et.al.|[2505.04588v1](http://arxiv.org/abs/2505.04588v1)|**2025-05-07**|null|
+|**2025-05-07**|**Active Sampling for MRI-based Sequential Decision Making**|Yuning Du et.al.|[2505.04586v1](http://arxiv.org/abs/2505.04586v1)|**2025-05-07**|[link](https://github.com/vios-s/mri_sequential_active_sampling)|
+|**2025-05-07**|**SlideItRight: Using AI to Find Relevant Slides and Provide Feedback for Open-Ended Questions**|Chloe Qianhui Zhao et.al.|[2505.04584v1](http://arxiv.org/abs/2505.04584v1)|**2025-05-07**|null|
+|**2025-05-07**|**Modeling Personalized Difficulty of Rehabilitation Exercises Using Causal Trees**|Nathaniel Dennler et.al.|[2505.04583v1](http://arxiv.org/abs/2505.04583v1)|**2025-05-07**|null|
+|**2025-05-07**|**Implicitly Aligning Humans and Autonomous Agents through Shared Task Abstractions**|Stéphane Aroca-Ouellette et.al.|[2505.04579v1](http://arxiv.org/abs/2505.04579v1)|**2025-05-07**|null|
+|**2025-05-07**|**Fight Fire with Fire: Defending Against Malicious RL Fine-Tuning via Reward Neutralization**|Wenjun Cao et.al.|[2505.04578v1](http://arxiv.org/abs/2505.04578v1)|**2025-05-07**|null|
+|**2025-05-07**|**Relative benefits of different active learning methods to conceptual physics learning**|Meagan Sundstrom et.al.|[2505.04577v1](http://arxiv.org/abs/2505.04577v1)|**2025-05-07**|null|
+|**2025-05-07**|**Componential Prompt-Knowledge Alignment for Domain Incremental Learning**|Kunlun Xu et.al.|[2505.04575v1](http://arxiv.org/abs/2505.04575v1)|**2025-05-07**|null|
+|**2025-05-07**|**Duality-Based Algorithm and Numerical Analysis for Optimal Insulation Problems on Non-Smooth Domains**|Harbir Antil et.al.|[2505.04571v1](http://arxiv.org/abs/2505.04571v1)|**2025-05-07**|null|
+|**2025-05-07**|**Privacy-preserving neutral atom-based quantum classifier towards real healthcare applications**|Ettore Canonici et.al.|[2505.04570v1](http://arxiv.org/abs/2505.04570v1)|**2025-05-07**|null|
+|**2025-05-07**|**Multitask LSTM for Arboviral Outbreak Prediction Using Public Health Data**|Lucas R. C. Farias et.al.|[2505.04566v1](http://arxiv.org/abs/2505.04566v1)|**2025-05-07**|null|
+|**2025-05-07**|**Hierarchical Task Decomposition for Execution Monitoring and Error Recovery: Understanding the Rationale Behind Task Demonstrations**|Christoph Willibald et.al.|[2505.04565v1](http://arxiv.org/abs/2505.04565v1)|**2025-05-07**|null|
+|**2025-05-07**|**ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $α$-$β$-Divergence**|Guanghui Wang et.al.|[2505.04560v1](http://arxiv.org/abs/2505.04560v1)|**2025-05-07**|[link](https://github.com/ghwang-s/abkd)|
+|**2025-05-07**|**Purity Law for Generalizable Neural TSP Solvers**|Wenzhao Liu et.al.|[2505.04558v1](http://arxiv.org/abs/2505.04558v1)|**2025-05-07**|null|
+|**2025-05-07**|**Risk-sensitive Reinforcement Learning Based on Convex Scoring Functions**|Shanyu Han et.al.|[2505.04553v1](http://arxiv.org/abs/2505.04553v1)|**2025-05-07**|null|
+|**2025-05-07**|**Registration of 3D Point Sets Using Exponential-based Similarity Matrix**|Ashutosh Singandhupe et.al.|[2505.04540v1](http://arxiv.org/abs/2505.04540v1)|**2025-05-07**|[link](https://github.com/aralab-unr/esm_icp)|
+|**2025-05-07**|**Communication-Efficient Federated Fine-Tuning of Language Models via Dynamic Update Schedules**|Michail Theologitis et.al.|[2505.04535v1](http://arxiv.org/abs/2505.04535v1)|**2025-05-07**|null|
+|**2025-05-07**|**RAFT: Robust Augmentation of FeaTures for Image Segmentation**|Edward Humes et.al.|[2505.04529v1](http://arxiv.org/abs/2505.04529v1)|**2025-05-07**|null|

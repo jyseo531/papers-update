@@ -2,33 +2,33 @@
 ### 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-06**|**Visual Imitation Enables Contextual Humanoid Control**|Arthur Allshire et.al.|[2505.03729v2](http://arxiv.org/abs/2505.03729v2)|**2025-05-07**|null|
-|**2025-05-06**|**Effects of transient stellar emissions on planetary climates of tidally-locked exo-earths**|Howard Chen et.al.|[2505.03723v1](http://arxiv.org/abs/2505.03723v1)|**2025-05-06**|null|
-|**2025-05-06**|**Self-Supervised Learning for Robotic Leaf Manipulation: A Hybrid Geometric-Neural Approach**|Srecharan Selvam et.al.|[2505.03702v1](http://arxiv.org/abs/2505.03702v1)|**2025-05-06**|null|
-|**2025-05-06**|**The integrand form of infrared singularities of two-loop QCD scattering amplitudes**|Piotr Bargiela et.al.|[2505.03684v1](http://arxiv.org/abs/2505.03684v1)|**2025-05-06**|null|
-|**2025-05-06**|**A Centrality-independent Framework for Revealing Genuine Higher-Order Cumulants in Heavy-Ion Collisions**|Zhaohui Wang et.al.|[2505.03666v1](http://arxiv.org/abs/2505.03666v1)|**2025-05-06**|null|
-|**2025-05-06**|**Revolutionizing Brain Tumor Imaging: Generating Synthetic 3D FA Maps from T1-Weighted MRI using CycleGAN Models**|Xin Du et.al.|[2505.03662v1](http://arxiv.org/abs/2505.03662v1)|**2025-05-06**|null|
-|**2025-05-06**|**Stabilizing 3D EPI time series by servo navigation and phase equalization exploiting repeated shots (PEERS)**|Malte Riedel et.al.|[2505.03637v1](http://arxiv.org/abs/2505.03637v1)|**2025-05-06**|null|
-|**2025-05-06**|**Numerical Reconstruction and Analysis of Backward Semilinear Subdiffusion Problems**|Xu Wu et.al.|[2505.03625v1](http://arxiv.org/abs/2505.03625v1)|**2025-05-06**|null|
-|**2025-05-06**|**Learning Knowledge-based Prompts for Robust 3D Mask Presentation Attack Detection**|Fangling Jiang et.al.|[2505.03610v1](http://arxiv.org/abs/2505.03610v1)|**2025-05-06**|null|
-|**2025-05-06**|**From Pixels to Polygons: A Survey of Deep Learning Approaches for Medical Image-to-Mesh Reconstruction**|Fengming Lin et.al.|[2505.03599v1](http://arxiv.org/abs/2505.03599v1)|**2025-05-06**|null|
-|**2025-05-06**|**An Enriched Immersed Finite Element Method for 3D Interface Problems**|Ruchi Guo et.al.|[2505.03598v1](http://arxiv.org/abs/2505.03598v1)|**2025-05-06**|null|
-|**2025-05-06**|**RAIL: Region-Aware Instructive Learning for Semi-Supervised Tooth Segmentation in CBCT**|Chuyu Zhao et.al.|[2505.03538v1](http://arxiv.org/abs/2505.03538v1)|**2025-05-06**|null|
-|**2025-05-06**|**Optimization of Module Transferability in Single Image Super-Resolution: Universality Assessment and Cycle Residual Blocks**|Haotong Cheng et.al.|[2505.03522v1](http://arxiv.org/abs/2505.03522v1)|**2025-05-06**|null|
-|**2025-05-06**|**Uncovering the Limitations of Model Inversion Evaluation: Benchmarks and Connection to Type-I Adversarial Attacks**|Sy-Tuyen Ho et.al.|[2505.03519v1](http://arxiv.org/abs/2505.03519v1)|**2025-05-06**|null|
-|**2025-05-06**|**High-order exponential solver method for particle-in-cell simulations**|Szilárd Majorosi et.al.|[2505.03518v1](http://arxiv.org/abs/2505.03518v1)|**2025-05-06**|null|
-|**2025-05-06**|**Task Reconstruction and Extrapolation for $π_0$ using Text Latent**|Quanyi Li et.al.|[2505.03500v1](http://arxiv.org/abs/2505.03500v1)|**2025-05-06**|null|
-|**2025-05-06**|**UPMAD-Net: A Brain Tumor Segmentation Network with Uncertainty Guidance and Adaptive Multimodal Feature Fusion**|Zhanyuan Jia et.al.|[2505.03494v1](http://arxiv.org/abs/2505.03494v1)|**2025-05-06**|[link](https://github.com/chenzhao2023/upmad_net_brainseg)|
-|**2025-05-06**|**Signal Prediction by Derivative Samples from the Past via Perfect Reconstruction**|Sreya T et.al.|[2505.03471v1](http://arxiv.org/abs/2505.03471v1)|**2025-05-06**|null|
-|**2025-05-06**|**Blending 3D Geometry and Machine Learning for Multi-View Stereopsis**|Vibhas Vats et.al.|[2505.03470v1](http://arxiv.org/abs/2505.03470v1)|**2025-05-06**|[link](https://github.com/vkvats/GC-MVSNet-PlusPlus)|
-|**2025-05-06**|**Nonperiodic dynamic CT reconstruction using backward-warping INR with regularization of diffeomorphism (BIRD)**|Muge Du et.al.|[2505.03463v1](http://arxiv.org/abs/2505.03463v1)|**2025-05-06**|null|
-|**2025-05-06**|**Universal Cosmologies**|Paul Marconnet et.al.|[2505.03449v1](http://arxiv.org/abs/2505.03449v1)|**2025-05-06**|null|
-|**2025-05-06**|**AquaticVision: Benchmarking Visual SLAM in Underwater Environment with Events and Frames**|Yifan Peng et.al.|[2505.03448v1](http://arxiv.org/abs/2505.03448v1)|**2025-05-06**|null|
-|**2025-05-06**|**O(5) multicriticality in the 3D two flavor SU(2) lattice gauge Higgs model**|Claudio Bonati et.al.|[2505.03446v1](http://arxiv.org/abs/2505.03446v1)|**2025-05-06**|null|
-|**2025-05-06**|**manvr3d: A Platform for Human-in-the-loop Cell Tracking in Virtual Reality**|Samuel Pantze et.al.|[2505.03440v2](http://arxiv.org/abs/2505.03440v2)|**2025-05-07**|null|
-|**2025-05-06**|**Robustness in AI-Generated Detection: Enhancing Resistance to Adversarial Attacks**|Sun Haoxuan et.al.|[2505.03435v1](http://arxiv.org/abs/2505.03435v1)|**2025-05-06**|null|
-|**2025-05-06**|**A Fusion-Guided Inception Network for Hyperspectral Image Super-Resolution**|Usman Muhammad et.al.|[2505.03431v1](http://arxiv.org/abs/2505.03431v1)|**2025-05-06**|[link](https://github.com/usman1021/fusion)|
-|**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422v1](http://arxiv.org/abs/2505.03422v1)|**2025-05-06**|[link](https://github.com/lyp-deeplearning/liftfeat)|
-|**2025-05-06**|**CXR-AD: Component X-ray Image Dataset for Industrial Anomaly Detection**|Haoyu Bai et.al.|[2505.03412v1](http://arxiv.org/abs/2505.03412v1)|**2025-05-06**|null|
-|**2025-05-06**|**Physics-informed neural network estimation of active material properties in time-dependent cardiac biomechanical models**|Matthias Höfler et.al.|[2505.03382v1](http://arxiv.org/abs/2505.03382v1)|**2025-05-06**|null|
-|**2025-05-06**|**3D Surface Reconstruction with Enhanced High-Frequency Details**|Shikun Zhang et.al.|[2505.03362v1](http://arxiv.org/abs/2505.03362v1)|**2025-05-06**|null|
+|**2025-05-07**|**PrimitiveAnything: Human-Crafted 3D Primitive Assembly Generation with Auto-Regressive Transformer**|Jingwen Ye et.al.|[2505.04622v1](http://arxiv.org/abs/2505.04622v1)|**2025-05-07**|null|
+|**2025-05-07**|**Score Distillation Sampling for Audio: Source Separation, Synthesis, and Beyond**|Jessie Richter-Powell et.al.|[2505.04621v1](http://arxiv.org/abs/2505.04621v1)|**2025-05-07**|null|
+|**2025-05-07**|**FastMap: Revisiting Dense and Scalable Structure from Motion**|Jiahao Li et.al.|[2505.04612v1](http://arxiv.org/abs/2505.04612v1)|**2025-05-07**|null|
+|**2025-05-07**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594v1](http://arxiv.org/abs/2505.04594v1)|**2025-05-07**|null|
+|**2025-05-07**|**TetWeave: Isosurface Extraction using On-The-Fly Delaunay Tetrahedral Grids for Gradient-Based Mesh Optimization**|Alexandre Binninger et.al.|[2505.04590v1](http://arxiv.org/abs/2505.04590v1)|**2025-05-07**|null|
+|**2025-05-07**|**Duality-Based Algorithm and Numerical Analysis for Optimal Insulation Problems on Non-Smooth Domains**|Harbir Antil et.al.|[2505.04571v1](http://arxiv.org/abs/2505.04571v1)|**2025-05-07**|null|
+|**2025-05-07**|**Assessing the Reconstruction of the Critical Line in the QCD Phase Diagram from Imaginary to Real Chemical Potential**|Fabrizio Murgana et.al.|[2505.04569v1](http://arxiv.org/abs/2505.04569v1)|**2025-05-07**|null|
+|**2025-05-07**|**An imageless magnetic resonance framework for fast and cost-effective decision-making**|Alba González-Cebrián et.al.|[2505.04550v1](http://arxiv.org/abs/2505.04550v1)|**2025-05-07**|null|
+|**2025-05-07**|**Registration of 3D Point Sets Using Exponential-based Similarity Matrix**|Ashutosh Singandhupe et.al.|[2505.04540v1](http://arxiv.org/abs/2505.04540v1)|**2025-05-07**|[link](https://github.com/aralab-unr/esm_icp)|
+|**2025-05-07**|**Text2CT: Towards 3D CT Volume Generation from Free-text Descriptions Using Diffusion Model**|Pengfei Guo et.al.|[2505.04522v1](http://arxiv.org/abs/2505.04522v1)|**2025-05-07**|null|
+|**2025-05-07**|**Mid-infrared quantum scanning microscopy via visible light beyond spatial correlations**|Josué R. León-Torres et.al.|[2505.04490v1](http://arxiv.org/abs/2505.04490v1)|**2025-05-07**|null|
+|**2025-05-07**|**FA-KPConv: Introducing Euclidean Symmetries to KPConv via Frame Averaging**|Ali Alawieh et.al.|[2505.04485v1](http://arxiv.org/abs/2505.04485v1)|**2025-05-07**|null|
+|**2025-05-07**|**CAD-Llama: Leveraging Large Language Models for Computer-Aided Design Parametric 3D Model Generation**|Jiahao Li et.al.|[2505.04481v1](http://arxiv.org/abs/2505.04481v1)|**2025-05-07**|null|
+|**2025-05-07**|**Spectroscopic investigations of a filament reconnecting with coronal loops during a two-ribbon solar flare**|Reetika Joshi et.al.|[2505.04479v1](http://arxiv.org/abs/2505.04479v1)|**2025-05-07**|null|
+|**2025-05-07**|**Meta-Learning Driven Lightweight Phase Shift Compression for IRS-Assisted Wireless Systems**|Xianhua Yu et.al.|[2505.04453v1](http://arxiv.org/abs/2505.04453v1)|**2025-05-07**|null|
+|**2025-05-07**|**Phase Shift Information Compression in IRS-aided Wireless Systems: Challenges and Opportunities**|Xianhua Yu et.al.|[2505.04449v1](http://arxiv.org/abs/2505.04449v1)|**2025-05-07**|null|
+|**2025-05-07**|**Probabilistic Zeeman-Doppler imaging of stellar magnetic fields: I. Analysis of tau Scorpii in the weak-field limit**|Jennifer Rosina Andersson et.al.|[2505.04437v1](http://arxiv.org/abs/2505.04437v1)|**2025-05-07**|null|
+|**2025-05-07**|**SwinLSTM Autoencoder for Temporal-Spatial-Frequency Domain CSI Compression in Massive MIMO Systems**|Aakash Saini et.al.|[2505.04432v1](http://arxiv.org/abs/2505.04432v1)|**2025-05-07**|null|
+|**2025-05-07**|**Topological regular black holes without Cauchy horizon**|Marco Calzá et.al.|[2505.04427v1](http://arxiv.org/abs/2505.04427v1)|**2025-05-07**|null|
+|**2025-05-07**|**Latent Manifold Reconstruction and Representation with Topological and Geometrical Regularization**|Ren Wang et.al.|[2505.04412v1](http://arxiv.org/abs/2505.04412v1)|**2025-05-07**|[link](https://github.com/thanatorika/mrtg)|
+|**2025-05-07**|**MFSeg: Efficient Multi-frame 3D Semantic Segmentation**|Chengjie Huang et.al.|[2505.04408v1](http://arxiv.org/abs/2505.04408v1)|**2025-05-07**|null|
+|**2025-05-07**|**Geometry-Aware Texture Generation for 3D Head Modeling with Artist-driven Control**|Amin Fadaeinejad et.al.|[2505.04387v1](http://arxiv.org/abs/2505.04387v1)|**2025-05-07**|null|
+|**2025-05-07**|**Label-efficient Single Photon Images Classification via Active Learning**|Zili Zhang et.al.|[2505.04376v1](http://arxiv.org/abs/2505.04376v1)|**2025-05-07**|null|
+|**2025-05-07**|**WDMamba: When Wavelet Degradation Prior Meets Vision Mamba for Image Dehazing**|Jie Sun et.al.|[2505.04369v1](http://arxiv.org/abs/2505.04369v1)|**2025-05-07**|[link](https://github.com/sunj000/wdmamba)|
+|**2025-05-07**|**Global solutions to 3D compressible MHD equations with partial magnetic diffusion**|Jiahong Wu et.al.|[2505.04351v1](http://arxiv.org/abs/2505.04351v1)|**2025-05-07**|null|
+|**2025-05-07**|**Atmospheric loss during giant impacts: mechanisms and scaling of near- and far-field loss**|Matthew J. Roche et.al.|[2505.04343v1](http://arxiv.org/abs/2505.04343v1)|**2025-05-07**|null|
+|**2025-05-07**|**3D-Integrated Superconducting qubits: CMOS-Compatible, Wafer-Scale Processing for Flip-Chip Architectures**|T. Mayer et.al.|[2505.04337v1](http://arxiv.org/abs/2505.04337v1)|**2025-05-07**|null|
+|**2025-05-07**|**In search of an interaction in the dark sector through Gaussian Process and ANN approaches**|Mazaharul Abedin et.al.|[2505.04336v1](http://arxiv.org/abs/2505.04336v1)|**2025-05-07**|null|
+|**2025-05-07**|**MoDE: Mixture of Diffusion Experts for Any Occluded Face Recognition**|Qiannan Fan et.al.|[2505.04306v1](http://arxiv.org/abs/2505.04306v1)|**2025-05-07**|null|
+|**2025-05-07**|**Near-Field MIMO Channel Acquisition: Geometry-Aided Feedback and Transmission Design**|Shima Eslami et.al.|[2505.04305v1](http://arxiv.org/abs/2505.04305v1)|**2025-05-07**|null|

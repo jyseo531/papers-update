@@ -2,33 +2,33 @@
 ### Reinforcement Learning
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-06**|**AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control**|Jialong Li et.al.|[2505.03738v1](http://arxiv.org/abs/2505.03738v1)|**2025-05-06**|null|
-|**2025-05-06**|**Sustainable Smart Farm Networks: Enhancing Resilience and Efficiency with Decision Theory-Guided Deep Reinforcement Learning**|Dian Chen et.al.|[2505.03721v1](http://arxiv.org/abs/2505.03721v1)|**2025-05-06**|null|
-|**2025-05-06**|**Actor-Critics Can Achieve Optimal Sample Efficiency**|Kevin Tan et.al.|[2505.03710v1](http://arxiv.org/abs/2505.03710v1)|**2025-05-06**|null|
-|**2025-05-06**|**Policy Gradient Adaptive Control for the LQR: Indirect and Direct Approaches**|Feiran Zhao et.al.|[2505.03706v1](http://arxiv.org/abs/2505.03706v1)|**2025-05-06**|null|
-|**2025-05-06**|**Rainbow Delay Compensation: A Multi-Agent Reinforcement Learning Framework for Mitigating Delayed Observation**|Songchen Fu et.al.|[2505.03586v1](http://arxiv.org/abs/2505.03586v1)|**2025-05-06**|null|
-|**2025-05-06**|**Ergodic Generative Flows**|Leo Maxime Brunswic et.al.|[2505.03561v1](http://arxiv.org/abs/2505.03561v1)|**2025-05-06**|null|
-|**2025-05-06**|**Multi-Agent Reinforcement Learning Scheduling to Support Low Latency in Teleoperated Driving**|Giacomo Avanzi et.al.|[2505.03558v1](http://arxiv.org/abs/2505.03558v1)|**2025-05-06**|null|
-|**2025-05-06**|**RAIL: Region-Aware Instructive Learning for Semi-Supervised Tooth Segmentation in CBCT**|Chuyu Zhao et.al.|[2505.03538v1](http://arxiv.org/abs/2505.03538v1)|**2025-05-06**|null|
-|**2025-05-06**|**Small-Scale-Fading-Aware Resource Allocation in Wireless Federated Learning**|Jiacheng Wang et.al.|[2505.03533v1](http://arxiv.org/abs/2505.03533v1)|**2025-05-06**|null|
-|**2025-05-06**|**The Steganographic Potentials of Language Models**|Artem Karpov et.al.|[2505.03439v1](http://arxiv.org/abs/2505.03439v1)|**2025-05-06**|null|
-|**2025-05-06**|**Wasserstein Convergence of Score-based Generative Models under Semiconvexity and Discontinuous Gradients**|Stefano Bruno et.al.|[2505.03432v1](http://arxiv.org/abs/2505.03432v1)|**2025-05-06**|null|
-|**2025-05-06**|**Mitigating Image Captioning Hallucinations in Vision-Language Models**|Fei Zhao et.al.|[2505.03420v1](http://arxiv.org/abs/2505.03420v1)|**2025-05-06**|null|
-|**2025-05-06**|**Reinforced Correlation Between Vision and Language for Precise Medical AI Assistant**|Haonan Wang et.al.|[2505.03380v1](http://arxiv.org/abs/2505.03380v1)|**2025-05-06**|null|
-|**2025-05-06**|**Effective Reinforcement Learning Control using Conservative Soft Actor-Critic**|Xinyi Yuan et.al.|[2505.03356v1](http://arxiv.org/abs/2505.03356v1)|**2025-05-06**|null|
-|**2025-05-06**|**RIFT: Closed-Loop RL Fine-Tuning for Realistic and Controllable Traffic Simulation**|Keyu Chen et.al.|[2505.03344v1](http://arxiv.org/abs/2505.03344v1)|**2025-05-06**|null|
-|**2025-05-06**|**Absolute Zero: Reinforced Self-play Reasoning with Zero Data**|Andrew Zhao et.al.|[2505.03335v2](http://arxiv.org/abs/2505.03335v2)|**2025-05-07**|[link](https://github.com/LeapLabTHU/Absolute-Zero-Reasoner)|
-|**2025-05-06**|**Unraveling the Rainbow: can value-based methods schedule?**|Arthur Corrêa et.al.|[2505.03323v1](http://arxiv.org/abs/2505.03323v1)|**2025-05-06**|[link](https://github.com/aj-correa/unraveling-the-rainbow)|
-|**2025-05-06**|**Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning**|Yibin Wang et.al.|[2505.03318v1](http://arxiv.org/abs/2505.03318v1)|**2025-05-06**|null|
-|**2025-05-06**|**Multi-Agent Deep Reinforcement Learning for Zonal Ancillary Market Coupling**|Francesco Morri et.al.|[2505.03288v1](http://arxiv.org/abs/2505.03288v1)|**2025-05-06**|null|
-|**2025-05-06**|**RobotxR1: Enabling Embodied Robotic Intelligence on Large Language Models through Closed-Loop Reinforcement Learning**|Liam Boyle et.al.|[2505.03238v1](http://arxiv.org/abs/2505.03238v1)|**2025-05-06**|null|
-|**2025-05-06**|**Joint Resource Management for Energy-efficient UAV-assisted SWIPT-MEC: A Deep Reinforcement Learning Approach**|Yue Chen et.al.|[2505.03230v1](http://arxiv.org/abs/2505.03230v1)|**2025-05-06**|null|
-|**2025-05-06**|**DYSTIL: Dynamic Strategy Induction with Large Language Models for Reinforcement Learning**|Borui Wang et.al.|[2505.03209v1](http://arxiv.org/abs/2505.03209v1)|**2025-05-06**|null|
-|**2025-05-06**|**Broadband Dielectric Spectroscopy on dry Poly(vinyl alcohol)/Poly(vinylidene fluoride) blends reinforced with Nano-Graphene Platelets at combined pressure and temperature**|Eirini Kolonelou et.al.|[2505.03192v1](http://arxiv.org/abs/2505.03192v1)|**2025-05-06**|null|
-|**2025-05-06**|**VLM Q-Learning: Aligning Vision-Language Models for Interactive Decision-Making**|Jake Grigsby et.al.|[2505.03181v1](http://arxiv.org/abs/2505.03181v1)|**2025-05-06**|null|
-|**2025-05-06**|**Null Counterfactual Factor Interactions for Goal-Conditioned Reinforcement Learning**|Caleb Chuck et.al.|[2505.03172v1](http://arxiv.org/abs/2505.03172v1)|**2025-05-06**|null|
-|**2025-05-06**|**Rethinking the Global Convergence of Softmax Policy Gradient with Linear Function Approximation**|Max Qiushi Lin et.al.|[2505.03155v1](http://arxiv.org/abs/2505.03155v1)|**2025-05-06**|null|
-|**2025-05-06**|**Integrated Sensing, Computing, Communication, and Control for Time-Sequence-Based Semantic Communications**|Qingliang Li et.al.|[2505.03127v1](http://arxiv.org/abs/2505.03127v1)|**2025-05-06**|null|
-|**2025-05-05**|**Direct Retrieval-augmented Optimization: Synergizing Knowledge Selection and Language Models**|Zhengliang Shi et.al.|[2505.03075v1](http://arxiv.org/abs/2505.03075v1)|**2025-05-05**|null|
-|**2025-05-05**|**A Fully Data-Driven Value Iteration for Stochastic LQR: Convergence, Robustness and Stability**|Leilei Cui et.al.|[2505.02970v1](http://arxiv.org/abs/2505.02970v1)|**2025-05-05**|null|
-|**2025-05-05**|**R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning**|Yi-Fan Zhang et.al.|[2505.02835v1](http://arxiv.org/abs/2505.02835v1)|**2025-05-05**|[link](https://github.com/yfzhang114/r1_reward)|
+|**2025-05-07**|**EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning**|Zhenghao Xing et.al.|[2505.04623v1](http://arxiv.org/abs/2505.04623v1)|**2025-05-07**|null|
+|**2025-05-07**|**Merging and Disentangling Views in Visual Reinforcement Learning for Robotic Manipulation**|Abdulaziz Almuzairee et.al.|[2505.04619v1](http://arxiv.org/abs/2505.04619v1)|**2025-05-07**|null|
+|**2025-05-07**|**ZeroSearch: Incentivize the Search Capability of LLMs without Searching**|Hao Sun et.al.|[2505.04588v1](http://arxiv.org/abs/2505.04588v1)|**2025-05-07**|null|
+|**2025-05-07**|**Active Sampling for MRI-based Sequential Decision Making**|Yuning Du et.al.|[2505.04586v1](http://arxiv.org/abs/2505.04586v1)|**2025-05-07**|[link](https://github.com/vios-s/mri_sequential_active_sampling)|
+|**2025-05-07**|**Implicitly Aligning Humans and Autonomous Agents through Shared Task Abstractions**|Stéphane Aroca-Ouellette et.al.|[2505.04579v1](http://arxiv.org/abs/2505.04579v1)|**2025-05-07**|null|
+|**2025-05-07**|**Fight Fire with Fire: Defending Against Malicious RL Fine-Tuning via Reward Neutralization**|Wenjun Cao et.al.|[2505.04578v1](http://arxiv.org/abs/2505.04578v1)|**2025-05-07**|null|
+|**2025-05-07**|**Risk-sensitive Reinforcement Learning Based on Convex Scoring Functions**|Shanyu Han et.al.|[2505.04553v1](http://arxiv.org/abs/2505.04553v1)|**2025-05-07**|null|
+|**2025-05-07**|**HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation**|Teng Hu et.al.|[2505.04512v1](http://arxiv.org/abs/2505.04512v1)|**2025-05-07**|null|
+|**2025-05-07**|**Leveraging Simultaneous Usage of Edge GPU Hardware Engines for Video Face Detection and Recognition**|Asma Baobaid et.al.|[2505.04502v1](http://arxiv.org/abs/2505.04502v1)|**2025-05-07**|null|
+|**2025-05-07**|**A Two-Timescale Primal-Dual Framework for Reinforcement Learning via Online Dual Variable Guidance**|Axel Friedrich Wolter et.al.|[2505.04494v1](http://arxiv.org/abs/2505.04494v1)|**2025-05-07**|null|
+|**2025-05-07**|**Towards Effectively Leveraging Execution Traces for Program Repair with Code LLMs**|Mirazul Haque et.al.|[2505.04441v1](http://arxiv.org/abs/2505.04441v1)|**2025-05-07**|null|
+|**2025-05-07**|**RLMiniStyler: Light-weight RL Style Agent for Arbitrary Sequential Neural Style Generation**|Jing Hu et.al.|[2505.04424v1](http://arxiv.org/abs/2505.04424v1)|**2025-05-07**|null|
+|**2025-05-07**|**A Heuristic-Integrated DRL Approach for Phase Optimization in Large-Scale RISs**|Wei Wang et.al.|[2505.04401v1](http://arxiv.org/abs/2505.04401v1)|**2025-05-07**|null|
+|**2025-05-07**|**Extending a Quantum Reinforcement Learning Exploration Policy with Flags to Connect Four**|Filipe Santos et.al.|[2505.04371v1](http://arxiv.org/abs/2505.04371v1)|**2025-05-07**|null|
+|**2025-05-07**|**Deep Learning Innovations for Energy Efficiency: Advances in Non-Intrusive Load Monitoring and EV Charging Optimization for a Sustainable Grid**|Stavros Sykiotis et.al.|[2505.04367v1](http://arxiv.org/abs/2505.04367v1)|**2025-05-07**|null|
+|**2025-05-07**|**Adaptive and Robust DBSCAN with Multi-agent Reinforcement Learning**|Hao Peng et.al.|[2505.04339v1](http://arxiv.org/abs/2505.04339v1)|**2025-05-07**|null|
+|**2025-05-07**|**Mastering Multi-Drone Volleyball through Hierarchical Co-Self-Play Reinforcement Learning**|Ruize Zhang et.al.|[2505.04317v1](http://arxiv.org/abs/2505.04317v1)|**2025-05-07**|null|
+|**2025-05-07**|**Flow Models for Unbounded and Geometry-Aware Distributional Reinforcement Learning**|Simo Alami C. et.al.|[2505.04310v1](http://arxiv.org/abs/2505.04310v1)|**2025-05-07**|null|
+|**2025-05-07**|**PPO-ACT: Proximal Policy Optimization with Adversarial Curriculum Transfer for Spatial Public Goods Games**|Zhaoqilin Yang et.al.|[2505.04302v1](http://arxiv.org/abs/2505.04302v1)|**2025-05-07**|null|
+|**2025-05-07**|**Multi-Agent Reinforcement Learning-based Cooperative Autonomous Driving in Smart Intersections**|Taoyuan Yu et.al.|[2505.04231v1](http://arxiv.org/abs/2505.04231v1)|**2025-05-07**|null|
+|**2025-05-07**|**Trajectory Entropy Reinforcement Learning for Predictable and Robust Control**|Bang You et.al.|[2505.04193v1](http://arxiv.org/abs/2505.04193v1)|**2025-05-07**|null|
+|**2025-05-07**|**Optimization of Infectious Disease Intervention Measures Based on Reinforcement Learning -- Empirical analysis based on UK COVID-19 epidemic data**|Baida Zhang et.al.|[2505.04161v1](http://arxiv.org/abs/2505.04161v1)|**2025-05-07**|null|
+|**2025-05-07**|**FilterTS: Comprehensive Frequency Filtering for Multivariate Time Series Forecasting**|Yulong Wang et.al.|[2505.04158v1](http://arxiv.org/abs/2505.04158v1)|**2025-05-07**|null|
+|**2025-05-07**|**Energy Efficient RSMA-Based LEO Satellite Communications Assisted by UAV-Mounted BD-Active RIS: A DRL Approach**|Rahman Saadat Yeganeh et.al.|[2505.04148v1](http://arxiv.org/abs/2505.04148v1)|**2025-05-07**|null|
+|**2025-05-07**|**Reinforcement Learning-Aided Design of Efficient Polarization Kernels**|Yi-Ting Hong et.al.|[2505.04127v1](http://arxiv.org/abs/2505.04127v1)|**2025-05-07**|null|
+|**2025-05-07**|**LLM-e Guess: Can LLMs Capabilities Advance Without Hardware Progress?**|Teddy Foley et.al.|[2505.04075v1](http://arxiv.org/abs/2505.04075v1)|**2025-05-07**|null|
+|**2025-05-06**|**PARC: Physics-based Augmentation with Reinforcement Learning for Character Controllers**|Michael Xu et.al.|[2505.04002v1](http://arxiv.org/abs/2505.04002v1)|**2025-05-06**|null|
+|**2025-05-06**|**X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains**|Qianchu Liu et.al.|[2505.03981v1](http://arxiv.org/abs/2505.03981v1)|**2025-05-06**|null|
+|**2025-05-06**|**Deep Q-Network (DQN) multi-agent reinforcement learning (MARL) for Stock Trading**|John Christopher Tidwell et.al.|[2505.03949v1](http://arxiv.org/abs/2505.03949v1)|**2025-05-06**|null|
+|**2025-05-06**|**Frog Soup: Zero-Shot, In-Context, and Sample-Efficient Frogger Agents**|Xiang Li et.al.|[2505.03947v1](http://arxiv.org/abs/2505.03947v1)|**2025-05-06**|[link](https://github.com/alienkevin/frogger)|

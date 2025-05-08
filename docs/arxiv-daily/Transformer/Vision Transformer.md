@@ -2,33 +2,33 @@
 ### Vision Transformer
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-06**|**Multi-Agent System for Comprehensive Soccer Understanding**|Jiayuan Rao et.al.|[2505.03735v1](http://arxiv.org/abs/2505.03735v1)|**2025-05-06**|null|
-|**2025-05-06**|**FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios**|Shiyi Zhang et.al.|[2505.03730v1](http://arxiv.org/abs/2505.03730v1)|**2025-05-06**|null|
-|**2025-05-06**|**Visual Imitation Enables Contextual Humanoid Control**|Arthur Allshire et.al.|[2505.03729v2](http://arxiv.org/abs/2505.03729v2)|**2025-05-07**|null|
-|**2025-05-06**|**Stay Positive: Neural Refinement of Sample Weights**|Benjamin Nachman et.al.|[2505.03724v1](http://arxiv.org/abs/2505.03724v1)|**2025-05-06**|null|
-|**2025-05-06**|**DISARM++: Beyond scanner-free harmonization**|Luca Caldera et.al.|[2505.03715v1](http://arxiv.org/abs/2505.03715v1)|**2025-05-06**|null|
-|**2025-05-06**|**Fill the Gap: Quantifying and Reducing the Modality Gap in Image-Text Representation Learning**|François Role et.al.|[2505.03703v1](http://arxiv.org/abs/2505.03703v1)|**2025-05-06**|null|
-|**2025-05-06**|**Self-Supervised Learning for Robotic Leaf Manipulation: A Hybrid Geometric-Neural Approach**|Srecharan Selvam et.al.|[2505.03702v1](http://arxiv.org/abs/2505.03702v1)|**2025-05-06**|null|
-|**2025-05-06**|**Demonstrating ViSafe: Vision-enabled Safety for High-speed Detect and Avoid**|Parv Kapoor et.al.|[2505.03694v1](http://arxiv.org/abs/2505.03694v1)|**2025-05-06**|null|
-|**2025-05-06**|**Matching Distance and Geometric Distribution Aided Learning Multiview Point Cloud Registration**|Shiqi Li et.al.|[2505.03692v1](http://arxiv.org/abs/2505.03692v1)|**2025-05-06**|[link](https://github.com/shi-qi-li/mdgd)|
-|**2025-05-06**|**A review of DNA restriction-free overlapping sequence cloning techniques for synthetic biology**|Isabella Frighetto Bomfiglio et.al.|[2505.03681v1](http://arxiv.org/abs/2505.03681v1)|**2025-05-06**|null|
-|**2025-05-06**|**CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**|Huawei Sun et.al.|[2505.03679v1](http://arxiv.org/abs/2505.03679v1)|**2025-05-06**|null|
-|**2025-05-06**|**Distribution-Conditional Generation: From Class Distribution to Creative Generation**|Fu Feng et.al.|[2505.03667v1](http://arxiv.org/abs/2505.03667v1)|**2025-05-06**|null|
-|**2025-05-06**|**Revolutionizing Brain Tumor Imaging: Generating Synthetic 3D FA Maps from T1-Weighted MRI using CycleGAN Models**|Xin Du et.al.|[2505.03662v1](http://arxiv.org/abs/2505.03662v1)|**2025-05-06**|null|
-|**2025-05-06**|**ReGraP-LLaVA: Reasoning enabled Graph-based Personalized Large Language and Vision Assistant**|Yifan Xiang et.al.|[2505.03654v1](http://arxiv.org/abs/2505.03654v1)|**2025-05-06**|null|
-|**2025-05-06**|**ALMA: Aggregated Lipschitz Maximization Attack on Auto-encoders**|Chethan Krishnamurthy Ramanaik et.al.|[2505.03646v1](http://arxiv.org/abs/2505.03646v1)|**2025-05-06**|null|
-|**2025-05-06**|**Towards Smart Point-and-Shoot Photography**|Jiawan Li et.al.|[2505.03638v1](http://arxiv.org/abs/2505.03638v1)|**2025-05-06**|null|
-|**2025-05-06**|**On the optimal stopping of Gauss-Markov bridges with random pinning points**|Abel Azze et.al.|[2505.03636v1](http://arxiv.org/abs/2505.03636v1)|**2025-05-06**|null|
-|**2025-05-06**|**Breaking Annotation Barriers: Generalized Video Quality Assessment via Ranking-based Self-Supervision**|Linhan Cao et.al.|[2505.03631v2](http://arxiv.org/abs/2505.03631v2)|**2025-05-07**|null|
-|**2025-05-06**|**Bounding Box-Guided Diffusion for Synthesizing Industrial Images and Segmentation Map**|Alessandro Simoni et.al.|[2505.03623v1](http://arxiv.org/abs/2505.03623v1)|**2025-05-06**|[link](https://github.com/covisionlab/diffusion_labeling)|
-|**2025-05-06**|**PhysLLM: Harnessing Large Language Models for Cross-Modal Remote Physiological Sensing**|Yiping Xie et.al.|[2505.03621v1](http://arxiv.org/abs/2505.03621v1)|**2025-05-06**|null|
-|**2025-05-06**|**Learning Unknown Spoof Prompts for Generalized Face Anti-Spoofing Using Only Real Face Images**|Fangling Jiang et.al.|[2505.03611v1](http://arxiv.org/abs/2505.03611v1)|**2025-05-06**|null|
-|**2025-05-06**|**Learning Knowledge-based Prompts for Robust 3D Mask Presentation Attack Detection**|Fangling Jiang et.al.|[2505.03610v1](http://arxiv.org/abs/2505.03610v1)|**2025-05-06**|null|
-|**2025-05-06**|**PAHA: Parts-Aware Audio-Driven Human Animation with Diffusion Model**|Y. B. Wang et.al.|[2505.03603v2](http://arxiv.org/abs/2505.03603v2)|**2025-05-07**|null|
-|**2025-05-06**|**From Pixels to Polygons: A Survey of Deep Learning Approaches for Medical Image-to-Mesh Reconstruction**|Fengming Lin et.al.|[2505.03599v1](http://arxiv.org/abs/2505.03599v1)|**2025-05-06**|null|
-|**2025-05-06**|**Fixed-Length Dense Fingerprint Representation**|Zhiyu Pan et.al.|[2505.03597v1](http://arxiv.org/abs/2505.03597v1)|**2025-05-06**|[link](https://github.com/yu-yy/flare)|
-|**2025-05-06**|**Affine Filter Bank Modulation: A New Waveform for High Mobility Communications**|Henrique L. Senger et.al.|[2505.03589v1](http://arxiv.org/abs/2505.03589v1)|**2025-05-06**|null|
-|**2025-05-06**|**BCause: Human-AI collaboration to improve hybrid mapping and ideation in argumentation-grounded deliberation**|Lucas Anastasiou et.al.|[2505.03584v1](http://arxiv.org/abs/2505.03584v1)|**2025-05-06**|null|
-|**2025-05-06**|**DyGEnc: Encoding a Sequence of Textual Scene Graphs to Reason and Answer Questions in Dynamic Scenes**|Sergey Linok et.al.|[2505.03581v1](http://arxiv.org/abs/2505.03581v1)|**2025-05-06**|[link](https://github.com/linukc/dygenc)|
-|**2025-05-06**|**Supervised and Unsupervised Textile Classification via Near-Infrared Hyperspectral Imaging and Deep Learning**|Maria Kainz et.al.|[2505.03575v1](http://arxiv.org/abs/2505.03575v1)|**2025-05-06**|null|
-|**2025-05-06**|**Corner Cases: How Size and Position of Objects Challenge ImageNet-Trained Models**|Mishal Fatima et.al.|[2505.03569v1](http://arxiv.org/abs/2505.03569v1)|**2025-05-06**|null|
+|**2025-05-07**|**EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning**|Zhenghao Xing et.al.|[2505.04623v1](http://arxiv.org/abs/2505.04623v1)|**2025-05-07**|null|
+|**2025-05-07**|**PrimitiveAnything: Human-Crafted 3D Primitive Assembly Generation with Auto-Regressive Transformer**|Jingwen Ye et.al.|[2505.04622v1](http://arxiv.org/abs/2505.04622v1)|**2025-05-07**|null|
+|**2025-05-07**|**On Path to Multimodal Generalist: General-Level and General-Bench**|Hao Fei et.al.|[2505.04620v1](http://arxiv.org/abs/2505.04620v1)|**2025-05-07**|null|
+|**2025-05-07**|**Merging and Disentangling Views in Visual Reinforcement Learning for Robotic Manipulation**|Abdulaziz Almuzairee et.al.|[2505.04619v1](http://arxiv.org/abs/2505.04619v1)|**2025-05-07**|null|
+|**2025-05-07**|**Person Recognition at Altitude and Range: Fusion of Face, Body Shape and Gait**|Feng Liu et.al.|[2505.04616v1](http://arxiv.org/abs/2505.04616v1)|**2025-05-07**|null|
+|**2025-05-07**|**FastMap: Revisiting Dense and Scalable Structure from Motion**|Jiahao Li et.al.|[2505.04612v1](http://arxiv.org/abs/2505.04612v1)|**2025-05-07**|null|
+|**2025-05-07**|**Likelihood-Free Adaptive Bayesian Inference via Nonparametric Distribution Matching**|Wenhui Sophia Lu et.al.|[2505.04603v1](http://arxiv.org/abs/2505.04603v1)|**2025-05-07**|null|
+|**2025-05-07**|**OpenVision: A Fully-Open, Cost-Effective Family of Advanced Vision Encoders for Multimodal Learning**|Xianhang Li et.al.|[2505.04601v1](http://arxiv.org/abs/2505.04601v1)|**2025-05-07**|null|
+|**2025-05-07**|**Dynamic Network Flow Optimization for Task Scheduling in PTZ Camera Surveillance Systems**|Mohammad Merati et.al.|[2505.04596v1](http://arxiv.org/abs/2505.04596v1)|**2025-05-07**|null|
+|**2025-05-07**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594v1](http://arxiv.org/abs/2505.04594v1)|**2025-05-07**|null|
+|**2025-05-07**|**TetWeave: Isosurface Extraction using On-The-Fly Delaunay Tetrahedral Grids for Gradient-Based Mesh Optimization**|Alexandre Binninger et.al.|[2505.04590v1](http://arxiv.org/abs/2505.04590v1)|**2025-05-07**|null|
+|**2025-05-07**|**ZeroSearch: Incentivize the Search Capability of LLMs without Searching**|Hao Sun et.al.|[2505.04588v1](http://arxiv.org/abs/2505.04588v1)|**2025-05-07**|null|
+|**2025-05-07**|**Active Sampling for MRI-based Sequential Decision Making**|Yuning Du et.al.|[2505.04586v1](http://arxiv.org/abs/2505.04586v1)|**2025-05-07**|[link](https://github.com/vios-s/mri_sequential_active_sampling)|
+|**2025-05-07**|**Fight Fire with Fire: Defending Against Malicious RL Fine-Tuning via Reward Neutralization**|Wenjun Cao et.al.|[2505.04578v1](http://arxiv.org/abs/2505.04578v1)|**2025-05-07**|null|
+|**2025-05-07**|**Componential Prompt-Knowledge Alignment for Domain Incremental Learning**|Kunlun Xu et.al.|[2505.04575v1](http://arxiv.org/abs/2505.04575v1)|**2025-05-07**|null|
+|**2025-05-07**|**ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $α$-$β$-Divergence**|Guanghui Wang et.al.|[2505.04560v1](http://arxiv.org/abs/2505.04560v1)|**2025-05-07**|[link](https://github.com/ghwang-s/abkd)|
+|**2025-05-07**|**Birkhoff normal form via decorated trees**|Jacob Armstrong-Goodall et.al.|[2505.04547v1](http://arxiv.org/abs/2505.04547v1)|**2025-05-07**|null|
+|**2025-05-07**|**On the sensitivity of different ensemble filters to the type of assimilated observation networks**|Zixiang Xiong et.al.|[2505.04541v1](http://arxiv.org/abs/2505.04541v1)|**2025-05-07**|null|
+|**2025-05-07**|**Registration of 3D Point Sets Using Exponential-based Similarity Matrix**|Ashutosh Singandhupe et.al.|[2505.04540v1](http://arxiv.org/abs/2505.04540v1)|**2025-05-07**|[link](https://github.com/aralab-unr/esm_icp)|
+|**2025-05-07**|**Overcoming Data Scarcity in Generative Language Modelling for Low-Resource Languages: A Systematic Review**|Josh McGiff et.al.|[2505.04531v1](http://arxiv.org/abs/2505.04531v1)|**2025-05-07**|null|
+|**2025-05-07**|**RAFT: Robust Augmentation of FeaTures for Image Segmentation**|Edward Humes et.al.|[2505.04529v1](http://arxiv.org/abs/2505.04529v1)|**2025-05-07**|null|
+|**2025-05-07**|**DFVO: Learning Darkness-free Visible and Infrared Image Disentanglement and Fusion All at Once**|Qi Zhou et.al.|[2505.04526v1](http://arxiv.org/abs/2505.04526v1)|**2025-05-07**|[link](https://github.com/davin-qi530/dfvo)|
+|**2025-05-07**|**Edge-GPU Based Face Tracking for Face Detection and Recognition Acceleration**|Asma Baobaid et.al.|[2505.04524v1](http://arxiv.org/abs/2505.04524v1)|**2025-05-07**|null|
+|**2025-05-07**|**Text2CT: Towards 3D CT Volume Generation from Free-text Descriptions Using Diffusion Model**|Pengfei Guo et.al.|[2505.04522v1](http://arxiv.org/abs/2505.04522v1)|**2025-05-07**|null|
+|**2025-05-07**|**Comparative Analysis of Carbon Footprint in Manual vs. LLM-Assisted Code Development**|Kuen Sum Cheung et.al.|[2505.04521v1](http://arxiv.org/abs/2505.04521v1)|**2025-05-07**|null|
+|**2025-05-07**|**HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation**|Teng Hu et.al.|[2505.04512v1](http://arxiv.org/abs/2505.04512v1)|**2025-05-07**|null|
+|**2025-05-07**|**Leveraging Simultaneous Usage of Edge GPU Hardware Engines for Video Face Detection and Recognition**|Asma Baobaid et.al.|[2505.04502v1](http://arxiv.org/abs/2505.04502v1)|**2025-05-07**|null|
+|**2025-05-07**|**Defining and Quantifying Creative Behavior in Popular Image Generators**|Aditi Ramaswamy et.al.|[2505.04497v1](http://arxiv.org/abs/2505.04497v1)|**2025-05-07**|null|
+|**2025-05-07**|**Deep Learning to Improve the Sensitivity of Higgs Pair Searches in the $4b$ Channel at the LHC**|Yongcheng Wu et.al.|[2505.04496v1](http://arxiv.org/abs/2505.04496v1)|**2025-05-07**|null|
+|**2025-05-07**|**"I Can See Forever!": Evaluating Real-time VideoLLMs for Assisting Individuals with Visual Impairments**|Ziyi Zhang et.al.|[2505.04488v1](http://arxiv.org/abs/2505.04488v1)|**2025-05-07**|null|

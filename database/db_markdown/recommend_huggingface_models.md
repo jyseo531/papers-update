@@ -101,6 +101,7 @@ Updated on 2025-05-08
 | 72 | 2 | badrex/mms-300m-arabic-dialect-identifierAudio | Updated1 day ago | [Link](https://huggingface.co/badrex/mms-300m-arabic-dialect-identifier) |
 | 100 | 2 | anantoj/wav2vec2-large-xlsr-53-adult-child-clsAudio | UpdatedFeb 24, 2022 | [Link](https://huggingface.co/anantoj/wav2vec2-large-xlsr-53-adult-child-cls) |
 | 1.97k | 2 | Roblox/voice-safety-classifier-v2Audio | Updated15 days ago | [Link](https://huggingface.co/Roblox/voice-safety-classifier-v2) |
+| 280 | 2 | Bagus/wav2vec2-xlsr-japanese-speech-emotion-recognitionAudio | UpdatedOct 19, 2023 | [Link](https://huggingface.co/Bagus/wav2vec2-xlsr-japanese-speech-emotion-recognition) |
 | 185 | 1 | Rafeq/wav2vec2-base-cry-classification__Audio | UpdatedJun 24, 2023 | [Link](https://huggingface.co/Rafeq/wav2vec2-base-cry-classification__) |
 | 36 | 1 | sahita/lang-VoxLingua107-ecapaAudio | UpdatedSep 26, 2022 | [Link](https://huggingface.co/sahita/lang-VoxLingua107-ecapa) |
 | 51 | 1 | dvinagre/wav2vec2-lg-xlsr-en-speech-emotion-recognition-finetuned-gtzanAudio | UpdatedJul 7, 2023 | [Link](https://huggingface.co/dvinagre/wav2vec2-lg-xlsr-en-speech-emotion-recognition-finetuned-gtzan) |
@@ -840,6 +841,7 @@ Updated on 2025-05-08
 | 4 | 8 | prithivMLmods/Deepfake-Quality-Assess-Siglip2Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/prithivMLmods/Deepfake-Quality-Assess-Siglip2) |
 | 31k | 8 | facebook/deit-tiny-patch16-224Image | UpdatedJul 13, 2022 | [Link](https://huggingface.co/facebook/deit-tiny-patch16-224) |
 | 65 | 7 | enzostvs/hair-colorImage | UpdatedNov 17, 2023 | [Link](https://huggingface.co/enzostvs/hair-color) |
+| 464k | 7 | microsoft/swinv2-tiny-patch4-window16-256Image | UpdatedDec 10, 2022 | [Link](https://huggingface.co/microsoft/swinv2-tiny-patch4-window16-256) |
 | 65.5M | 6 | dima806/fairface_age_image_detectionImage | UpdatedDec 15, 2024 | [Link](https://huggingface.co/dima806/fairface_age_image_detection) |
 | 215 | 6 | dima806/traffic_sign_detectionImage | UpdatedOct 19, 2024 | [Link](https://huggingface.co/dima806/traffic_sign_detection) |
 | 1.01k | 6 | microsoft/swin-large-patch4-window12-384-in22kImage | UpdatedMay 16, 2022 | [Link](https://huggingface.co/microsoft/swin-large-patch4-window12-384-in22k) |
@@ -1524,6 +1526,7 @@ Updated on 2025-05-08
 | 2 | Unknown | wsbagnsv1/SkyReels-V2-I2V-1 | Updatedabout 5 hours ago | [Link](https://huggingface.co/wsbagnsv1/SkyReels-V2-I2V-1.3B-540P-GGUF) |
 | 5 | Unknown | anyeZHY/tesseractImage-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/anyeZHY/tesseract) |
 | 98 | Unknown | bytedance-research/PhantomImage-to-Video | Updatedabout 12 hours ago | [Link](https://huggingface.co/bytedance-research/Phantom) |
+| 7 | Unknown | shiyi0408/FlexiActImage-to-Video | Updatedabout 5 hours ago | [Link](https://huggingface.co/shiyi0408/FlexiAct) |
 
 ## Keypoint Detection
 
@@ -1693,6 +1696,7 @@ Updated on 2025-05-08
 | 2 | Unknown | wjbmattingly/european-art-yolov11Object | Updatedabout 16 hours ago | [Link](https://huggingface.co/wjbmattingly/european-art-yolov11) |
 | 3 | Unknown | jparedesDS/cs2-yolov10sObject | Updated5 days ago | [Link](https://huggingface.co/jparedesDS/cs2-yolov10s) |
 | 10 | Unknown | jparedesDS/valorant-yolo11mObject | UpdatedOct 15, 2024 | [Link](https://huggingface.co/jparedesDS/valorant-yolo11m) |
+| 3 | Unknown | biglam/historic-newspaper-illustrations-yolov11Object | Updatedabout 4 hours ago | [Link](https://huggingface.co/biglam/historic-newspaper-illustrations-yolov11) |
 
 ## Question Answering
 
@@ -2125,6 +2129,7 @@ Updated on 2025-05-08
 | 18 | Unknown | nielsr/tapex-large-finetuned-sqaTable | UpdatedJan 13, 2022 | [Link](https://huggingface.co/nielsr/tapex-large-finetuned-sqa) |
 | 62 | Unknown | nielsr/tapex-large-finetuned-wikisqlTable | UpdatedNov 27, 2023 | [Link](https://huggingface.co/nielsr/tapex-large-finetuned-wikisql) |
 | 1 | Unknown | SVECTOR-CORPORATION/Tessar-largestTable | Updatedabout 1 hour ago | [Link](https://huggingface.co/SVECTOR-CORPORATION/Tessar-largest) |
+| 1 | Unknown | Groovy-123/pluton-v1Table | Updatedabout 2 hours ago | [Link](https://huggingface.co/Groovy-123/pluton-v1) |
 
 ## Tabular Classification
 
@@ -2602,6 +2607,7 @@ Updated on 2025-05-08
 | 59 | 3 | upskyy/ko-rerankerText | Updated3 days ago | [Link](https://huggingface.co/upskyy/ko-reranker) |
 | 4 | 2 | cl-nagoya/ruri-v3-reranker-310mText | Updatedabout 2 hours ago | [Link](https://huggingface.co/cl-nagoya/ruri-v3-reranker-310m) |
 | 13 | 2 | gaotang/RM-R1-Qwen2 | Updatedabout 3 hours ago | [Link](https://huggingface.co/gaotang/RM-R1-Qwen2.5-Instruct-7B) |
+| 63 | 2 | hotchpotch/japanese-reranker-tiny-v2Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/hotchpotch/japanese-reranker-tiny-v2) |
 | 70 | 1 | tomaarsen/reranker-NeoBERT-gooaq-bceText | Updatedabout 11 hours ago | [Link](https://huggingface.co/tomaarsen/reranker-NeoBERT-gooaq-bce) |
 | 8 | 1 | tomaarsen/reranker-msmarco-ModernBERT-base-lambdalossText | Updatedabout 9 hours ago | [Link](https://huggingface.co/tomaarsen/reranker-msmarco-ModernBERT-base-lambdaloss) |
 | 10 | 1 | tomaarsen/reranker-msmarco-MiniLM-L12-H384-uncased-lambdalossText | Updatedabout 9 hours ago | [Link](https://huggingface.co/tomaarsen/reranker-msmarco-MiniLM-L12-H384-uncased-lambdaloss) |
@@ -2787,6 +2793,7 @@ Updated on 2025-05-08
 | 34 | 8 | renderartist/coloringbookhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/coloringbookhidream) |
 | 1.69k | 7 | silveroxides/Chroma-GGUFText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/silveroxides/Chroma-GGUF) |
 | 58 | 7 | Freepik/F-Lite-TextureText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Freepik/F-Lite-Texture) |
+| 1.07k | 6 | DFloat11/FLUX | Updated1 day ago | [Link](https://huggingface.co/DFloat11/FLUX.1-dev-DF11) |
 | 2 | 2.77k | CompVis/stable-diffusion-v-1-4-originalText-to-Image | UpdatedNov 9, 2022 | [Link](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original) |
 | 90.4k | 1.31k | xinsir/controlnet-union-sdxl-1 | UpdatedJul 30, 2024 | [Link](https://huggingface.co/xinsir/controlnet-union-sdxl-1.0) |
 | 387k | 1.66k | h94/IP-Adapter-FaceIDText-to-Image | UpdatedApr 16, 2024 | [Link](https://huggingface.co/h94/IP-Adapter-FaceID) |
@@ -3094,6 +3101,7 @@ Updated on 2025-05-08
 | 99 | 288 | google/switch-c-2048Text2Text | UpdatedJan 11, 2024 | [Link](https://huggingface.co/google/switch-c-2048) |
 | 20.5k | 216 | Babelscape/rebel-largeText2Text | UpdatedJun 20, 2023 | [Link](https://huggingface.co/Babelscape/rebel-large) |
 | 4.5k | 192 | microsoft/kosmos-2 | UpdatedAug 28, 2024 | [Link](https://huggingface.co/microsoft/kosmos-2.5) |
+| 848 | 144 | sander-wood/text-to-musicText2Text | UpdatedAug 19, 2023 | [Link](https://huggingface.co/sander-wood/text-to-music) |
 | 2.13k | 136 | prometheus-eval/prometheus-13b-v1 | UpdatedOct 14, 2023 | [Link](https://huggingface.co/prometheus-eval/prometheus-13b-v1.0) |
 | 7.74k | 110 | mrm8488/t5-base-finetuned-question-generation-apText2Text | UpdatedMay 31, 2023 | [Link](https://huggingface.co/mrm8488/t5-base-finetuned-question-generation-ap) |
 | 709k | 102 | google/t5-v1_1-xxlText2Text | UpdatedJan 24, 2023 | [Link](https://huggingface.co/google/t5-v1_1-xxl) |
@@ -3122,6 +3130,7 @@ Updated on 2025-05-08
 | 3.63k | 12 | j5ng/et5-typos-correctorText2Text | UpdatedJun 5, 2023 | [Link](https://huggingface.co/j5ng/et5-typos-corrector) |
 | 565 | 11 | ahmetbagci/bert2bert-turkish-paraphrase-generationText2Text | UpdatedOct 18, 2021 | [Link](https://huggingface.co/ahmetbagci/bert2bert-turkish-paraphrase-generation) |
 | 1.81k | 11 | allenai/unifiedqa-t5-baseText2Text | UpdatedJan 24, 2023 | [Link](https://huggingface.co/allenai/unifiedqa-t5-base) |
+| 267 | 10 | Ateeqq/product-description-generatorText2Text | Updated30 days ago | [Link](https://huggingface.co/Ateeqq/product-description-generator) |
 | 197 | 8 | KETI-AIR/ke-t5-base-koText2Text | UpdatedSep 18, 2023 | [Link](https://huggingface.co/KETI-AIR/ke-t5-base-ko) |
 | 266 | 7 | nllg/detikzify-v2-8bText2Text | Updated6 days ago | [Link](https://huggingface.co/nllg/detikzify-v2-8b) |
 | 7 | 5 | mispeech/r1-aqaText2Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/mispeech/r1-aqa) |

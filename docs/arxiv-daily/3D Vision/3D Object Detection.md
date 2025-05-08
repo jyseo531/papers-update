@@ -2,33 +2,33 @@
 ### 3D Object Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-06**|**AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control**|Jialong Li et.al.|[2505.03738v1](http://arxiv.org/abs/2505.03738v1)|**2025-05-06**|null|
-|**2025-05-06**|**Highly squeezed nanophotonic quantum microcombs with broadband frequency tunability**|Yichen Shen et.al.|[2505.03734v1](http://arxiv.org/abs/2505.03734v1)|**2025-05-06**|null|
-|**2025-05-06**|**Meta-Optimization and Program Search using Language Models for Task and Motion Planning**|Denis Shcherba et.al.|[2505.03725v1](http://arxiv.org/abs/2505.03725v1)|**2025-05-06**|null|
-|**2025-05-06**|**Effects of transient stellar emissions on planetary climates of tidally-locked exo-earths**|Howard Chen et.al.|[2505.03723v1](http://arxiv.org/abs/2505.03723v1)|**2025-05-06**|null|
-|**2025-05-06**|**The LHC sensitivity to weak gauginos in light of the latest muon $g-2$ and dark matter results**|Shuang Liang et.al.|[2505.03722v1](http://arxiv.org/abs/2505.03722v1)|**2025-05-06**|null|
-|**2025-05-06**|**Sustainable Smart Farm Networks: Enhancing Resilience and Efficiency with Decision Theory-Guided Deep Reinforcement Learning**|Dian Chen et.al.|[2505.03721v1](http://arxiv.org/abs/2505.03721v1)|**2025-05-06**|null|
-|**2025-05-06**|**Large Topological Magnetic Optical Effects and Imaging of Antiferromagnetic Octupole Domains of an Altermagnet-like Weyl Semimetal**|Xingyue Han et.al.|[2505.03713v1](http://arxiv.org/abs/2505.03713v1)|**2025-05-06**|null|
-|**2025-05-06**|**NBF at SemEval-2025 Task 5: Light-Burst Attention Enhanced System for Multilingual Subject Recommendation**|Baharul Islam et.al.|[2505.03711v1](http://arxiv.org/abs/2505.03711v1)|**2025-05-06**|null|
-|**2025-05-06**|**Self-Supervised Learning for Robotic Leaf Manipulation: A Hybrid Geometric-Neural Approach**|Srecharan Selvam et.al.|[2505.03702v1](http://arxiv.org/abs/2505.03702v1)|**2025-05-06**|null|
-|**2025-05-06**|**Demonstrating ViSafe: Vision-enabled Safety for High-speed Detect and Avoid**|Parv Kapoor et.al.|[2505.03694v1](http://arxiv.org/abs/2505.03694v1)|**2025-05-06**|null|
-|**2025-05-06**|**Matching Distance and Geometric Distribution Aided Learning Multiview Point Cloud Registration**|Shiqi Li et.al.|[2505.03692v1](http://arxiv.org/abs/2505.03692v1)|**2025-05-06**|[link](https://github.com/shi-qi-li/mdgd)|
-|**2025-05-06**|**CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**|Huawei Sun et.al.|[2505.03679v1](http://arxiv.org/abs/2505.03679v1)|**2025-05-06**|null|
-|**2025-05-06**|**Rational Retrieval Acts: Leveraging Pragmatic Reasoning to Improve Sparse Retrieval**|Arthur Satouf et.al.|[2505.03676v1](http://arxiv.org/abs/2505.03676v1)|**2025-05-06**|[link](https://github.com/arthur-75/Rational-Retrieval-Acts)|
-|**2025-05-06**|**Gap the (Theory of) Mind: Sharing Beliefs About Teammates' Goals Boosts Collaboration Perception, Not Performance**|Yotam Amitai et.al.|[2505.03674v1](http://arxiv.org/abs/2505.03674v1)|**2025-05-06**|null|
-|**2025-05-06**|**RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration**|Huajie Tan et.al.|[2505.03673v1](http://arxiv.org/abs/2505.03673v1)|**2025-05-06**|null|
-|**2025-05-06**|**Revolutionizing Brain Tumor Imaging: Generating Synthetic 3D FA Maps from T1-Weighted MRI using CycleGAN Models**|Xin Du et.al.|[2505.03662v1](http://arxiv.org/abs/2505.03662v1)|**2025-05-06**|null|
-|**2025-05-06**|**Extreme-ultraviolet transient brightenings in the quiet-Sun corona : Closest-perihelion observations with Solar Orbiter/EUI**|Nancy Narang et.al.|[2505.03656v1](http://arxiv.org/abs/2505.03656v1)|**2025-05-06**|null|
-|**2025-05-06**|**ReGraP-LLaVA: Reasoning enabled Graph-based Personalized Large Language and Vision Assistant**|Yifan Xiang et.al.|[2505.03654v1](http://arxiv.org/abs/2505.03654v1)|**2025-05-06**|null|
-|**2025-05-06**|**Optimal Droop Control Strategy for Coordinated Voltage Regulation and Power Sharing in Hybrid AC-MTDC Systems**|Hongjin Du et.al.|[2505.03651v1](http://arxiv.org/abs/2505.03651v1)|**2025-05-06**|null|
-|**2025-05-06**|**Binding threshold units with artificial oscillatory neurons**|Vladimir Fanaskov et.al.|[2505.03648v1](http://arxiv.org/abs/2505.03648v1)|**2025-05-06**|null|
-|**2025-05-06**|**ALMA: Aggregated Lipschitz Maximization Attack on Auto-encoders**|Chethan Krishnamurthy Ramanaik et.al.|[2505.03646v1](http://arxiv.org/abs/2505.03646v1)|**2025-05-06**|null|
-|**2025-05-06**|**Stabilizing 3D EPI time series by servo navigation and phase equalization exploiting repeated shots (PEERS)**|Malte Riedel et.al.|[2505.03637v1](http://arxiv.org/abs/2505.03637v1)|**2025-05-06**|null|
-|**2025-05-06**|**Revisiting Lower Bounds for Two-Step Consensus**|Fedor Ryabinin et.al.|[2505.03627v1](http://arxiv.org/abs/2505.03627v1)|**2025-05-06**|null|
-|**2025-05-06**|**A Systematic Search for X-ray Eclipse Events in Active Galactic Nuclei Observed by Swift**|Tianying Lian et.al.|[2505.03616v1](http://arxiv.org/abs/2505.03616v1)|**2025-05-06**|null|
-|**2025-05-06**|**Backstepping Reach-avoid Controller Synthesis for Multi-input Multi-output Systems with Mixed Relative Degrees**|Jianqiang Ding et.al.|[2505.03612v1](http://arxiv.org/abs/2505.03612v1)|**2025-05-06**|null|
-|**2025-05-06**|**Learning Knowledge-based Prompts for Robust 3D Mask Presentation Attack Detection**|Fangling Jiang et.al.|[2505.03610v1](http://arxiv.org/abs/2505.03610v1)|**2025-05-06**|null|
-|**2025-05-06**|**Variability of the Faraday Rotation Measure in the Parsec-scale Jet of AGN 1633+382**|Kah Chun Lai et.al.|[2505.03602v1](http://arxiv.org/abs/2505.03602v1)|**2025-05-06**|null|
-|**2025-05-06**|**Doing Audits Right? The Role of Sampling and Legal Content Analysis in Systemic Risk Assessments and Independent Audits in the Digital Services Act**|Marie-Therese Sekwenz et.al.|[2505.03601v1](http://arxiv.org/abs/2505.03601v1)|**2025-05-06**|null|
-|**2025-05-06**|**TailBench++: Flexible Multi-Client, Multi-Server Benchmarking for Latency-Critical Workloads**|Zhilin Li et.al.|[2505.03600v1](http://arxiv.org/abs/2505.03600v1)|**2025-05-06**|null|
-|**2025-05-06**|**An Enriched Immersed Finite Element Method for 3D Interface Problems**|Ruchi Guo et.al.|[2505.03598v1](http://arxiv.org/abs/2505.03598v1)|**2025-05-06**|null|
+|**2025-05-07**|**First Observations of Solar Halo Gamma Rays Over a Full Solar Cycle**|Tim Linden et.al.|[2505.04625v1](http://arxiv.org/abs/2505.04625v1)|**2025-05-07**|null|
+|**2025-05-07**|**Testing Thermal-Relic Dark Matter with a Dark Photon Mediator**|Gordan Krnjaic et.al.|[2505.04626v1](http://arxiv.org/abs/2505.04626v1)|**2025-05-07**|null|
+|**2025-05-07**|**PrimitiveAnything: Human-Crafted 3D Primitive Assembly Generation with Auto-Regressive Transformer**|Jingwen Ye et.al.|[2505.04622v1](http://arxiv.org/abs/2505.04622v1)|**2025-05-07**|null|
+|**2025-05-07**|**Score Distillation Sampling for Audio: Source Separation, Synthesis, and Beyond**|Jessie Richter-Powell et.al.|[2505.04621v1](http://arxiv.org/abs/2505.04621v1)|**2025-05-07**|null|
+|**2025-05-07**|**Person Recognition at Altitude and Range: Fusion of Face, Body Shape and Gait**|Feng Liu et.al.|[2505.04616v1](http://arxiv.org/abs/2505.04616v1)|**2025-05-07**|null|
+|**2025-05-07**|**FastMap: Revisiting Dense and Scalable Structure from Motion**|Jiahao Li et.al.|[2505.04612v1](http://arxiv.org/abs/2505.04612v1)|**2025-05-07**|null|
+|**2025-05-07**|**WATCH: Weighted Adaptive Testing for Changepoint Hypotheses via Weighted-Conformal Martingales**|Drew Prinster et.al.|[2505.04608v1](http://arxiv.org/abs/2505.04608v1)|**2025-05-07**|null|
+|**2025-05-07**|**Dynamic Network Flow Optimization for Task Scheduling in PTZ Camera Surveillance Systems**|Mohammad Merati et.al.|[2505.04596v1](http://arxiv.org/abs/2505.04596v1)|**2025-05-07**|null|
+|**2025-05-07**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594v1](http://arxiv.org/abs/2505.04594v1)|**2025-05-07**|null|
+|**2025-05-07**|**TetWeave: Isosurface Extraction using On-The-Fly Delaunay Tetrahedral Grids for Gradient-Based Mesh Optimization**|Alexandre Binninger et.al.|[2505.04590v1](http://arxiv.org/abs/2505.04590v1)|**2025-05-07**|null|
+|**2025-05-07**|**Active Sampling for MRI-based Sequential Decision Making**|Yuning Du et.al.|[2505.04586v1](http://arxiv.org/abs/2505.04586v1)|**2025-05-07**|[link](https://github.com/vios-s/mri_sequential_active_sampling)|
+|**2025-05-07**|**Antenna-coupled integrated millimeterwave modulators and resonant electro-optic frequency combs**|A. Gaier et.al.|[2505.04585v1](http://arxiv.org/abs/2505.04585v1)|**2025-05-07**|null|
+|**2025-05-07**|**Privacy-preserving neutral atom-based quantum classifier towards real healthcare applications**|Ettore Canonici et.al.|[2505.04570v1](http://arxiv.org/abs/2505.04570v1)|**2025-05-07**|null|
+|**2025-05-07**|**Multitask LSTM for Arboviral Outbreak Prediction Using Public Health Data**|Lucas R. C. Farias et.al.|[2505.04566v1](http://arxiv.org/abs/2505.04566v1)|**2025-05-07**|null|
+|**2025-05-07**|**Hierarchical Task Decomposition for Execution Monitoring and Error Recovery: Understanding the Rationale Behind Task Demonstrations**|Christoph Willibald et.al.|[2505.04565v1](http://arxiv.org/abs/2505.04565v1)|**2025-05-07**|null|
+|**2025-05-07**|**Comparing CPU and GPU compute of PERMANOVA on MI300A**|Igor Sfiligoi et.al.|[2505.04556v1](http://arxiv.org/abs/2505.04556v1)|**2025-05-07**|null|
+|**2025-05-07**|**Risk-sensitive Reinforcement Learning Based on Convex Scoring Functions**|Shanyu Han et.al.|[2505.04553v1](http://arxiv.org/abs/2505.04553v1)|**2025-05-07**|null|
+|**2025-05-07**|**An imageless magnetic resonance framework for fast and cost-effective decision-making**|Alba González-Cebrián et.al.|[2505.04550v1](http://arxiv.org/abs/2505.04550v1)|**2025-05-07**|null|
+|**2025-05-07**|**Registration of 3D Point Sets Using Exponential-based Similarity Matrix**|Ashutosh Singandhupe et.al.|[2505.04540v1](http://arxiv.org/abs/2505.04540v1)|**2025-05-07**|[link](https://github.com/aralab-unr/esm_icp)|
+|**2025-05-07**|**Qualitative Analysis of $ω$-Regular Objectives on Robust MDPs**|Ali Asadi et.al.|[2505.04539v1](http://arxiv.org/abs/2505.04539v1)|**2025-05-07**|null|
+|**2025-05-07**|**Integrated equilibrium model for electrified logistics and power systems**|Rui Yao et.al.|[2505.04532v1](http://arxiv.org/abs/2505.04532v1)|**2025-05-07**|null|
+|**2025-05-07**|**Edge-GPU Based Face Tracking for Face Detection and Recognition Acceleration**|Asma Baobaid et.al.|[2505.04524v1](http://arxiv.org/abs/2505.04524v1)|**2025-05-07**|null|
+|**2025-05-07**|**Magnetic precession as a model for QPOs in PULXs: flat-top noise ULXs are different**|Miljenko Čemeljić et.al.|[2505.04523v1](http://arxiv.org/abs/2505.04523v1)|**2025-05-07**|null|
+|**2025-05-07**|**Text2CT: Towards 3D CT Volume Generation from Free-text Descriptions Using Diffusion Model**|Pengfei Guo et.al.|[2505.04522v1](http://arxiv.org/abs/2505.04522v1)|**2025-05-07**|null|
+|**2025-05-07**|**Encoding classical data into the squeezing of noisy-states for nanowire communication**|Mehmet Emre Tasgin et.al.|[2505.04516v1](http://arxiv.org/abs/2505.04516v1)|**2025-05-07**|null|
+|**2025-05-07**|**Quantum thermodynamics and semi-definite optimization**|Nana Liu et.al.|[2505.04514v1](http://arxiv.org/abs/2505.04514v1)|**2025-05-07**|null|
+|**2025-05-07**|**Design, Fabrication and Characterization of a Bias Supply Circuit for Silicon Photomultipliers**|Prajjalak Chattopadhyay et.al.|[2505.04510v1](http://arxiv.org/abs/2505.04510v1)|**2025-05-07**|null|
+|**2025-05-07**|**Detecting Spelling and Grammatical Anomalies in Russian Poetry Texts**|Ilya Koziev et.al.|[2505.04507v1](http://arxiv.org/abs/2505.04507v1)|**2025-05-07**|null|
+|**2025-05-07**|**Main-oval auroral emission from a T6 brown dwarf: observations, modeling, and astrometry**|J. C. Guirado et.al.|[2505.04506v1](http://arxiv.org/abs/2505.04506v1)|**2025-05-07**|null|
+|**2025-05-07**|**Leveraging Simultaneous Usage of Edge GPU Hardware Engines for Video Face Detection and Recognition**|Asma Baobaid et.al.|[2505.04502v1](http://arxiv.org/abs/2505.04502v1)|**2025-05-07**|null|
