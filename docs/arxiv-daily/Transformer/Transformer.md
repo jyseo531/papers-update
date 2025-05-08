@@ -27,7 +27,7 @@
 |**2025-05-06**|**Physics-Informed Neural Networks in Electromagnetic and Nanophotonic Design**|Omar A. M. Abdelraouf et.al.|[2505.03354v1](http://arxiv.org/abs/2505.03354v1)|**2025-05-06**|null|
 |**2025-05-06**|**Accelerated inverse design of passive Si Photonics**|Anton Sofronov et.al.|[2505.03352v1](http://arxiv.org/abs/2505.03352v1)|**2025-05-06**|null|
 |**2025-05-06**|**Stochastic scheduling with Bernoulli-type jobs through policy stratification**|Antonios Antoniadis et.al.|[2505.03349v1](http://arxiv.org/abs/2505.03349v1)|**2025-05-06**|null|
-|**2025-05-06**|**Avoid Recommending Out-of-Domain Items: Constrained Generative Recommendation with LLMs**|Hao Liao et.al.|[2505.03336v1](http://arxiv.org/abs/2505.03336v1)|**2025-05-06**|null|
+|**2025-05-06**|**Avoid Recommending Out-of-Domain Items: Constrained Generative Recommendation with LLMs**|Hao Liao et.al.|[2505.03336v1](http://arxiv.org/abs/2505.03336v1)|**2025-05-06**|[link](https://github.com/microsoft/recai)|
 |**2025-05-06**|**FLUX-Text: A Simple and Advanced Diffusion Transformer Baseline for Scene Text Editing**|Rui Lan et.al.|[2505.03329v1](http://arxiv.org/abs/2505.03329v1)|**2025-05-06**|null|
 |**2025-05-06**|**Sample Path Large Deviations for Random Walks on Regular Trees**|Jie Jiang et.al.|[2505.03324v1](http://arxiv.org/abs/2505.03324v1)|**2025-05-06**|null|
 |**2025-05-06**|**Notes on su$(1,2)\oplus$u$(1)$ Chern-Simons theory and Torsional Newton-Cartan gravity**|Yang Lei et.al.|[2505.03322v1](http://arxiv.org/abs/2505.03322v1)|**2025-05-06**|null|

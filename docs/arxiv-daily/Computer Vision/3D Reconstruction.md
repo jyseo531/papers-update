@@ -10,13 +10,13 @@
 |**2025-05-06**|**An Enriched Immersed Finite Element Method for 3D Interface Problems**|Ruchi Guo et.al.|[2505.03598v1](http://arxiv.org/abs/2505.03598v1)|**2025-05-06**|null|
 |**2025-05-06**|**RAIL: Region-Aware Instructive Learning for Semi-Supervised Tooth Segmentation in CBCT**|Chuyu Zhao et.al.|[2505.03538v1](http://arxiv.org/abs/2505.03538v1)|**2025-05-06**|null|
 |**2025-05-06**|**High-order exponential solver method for particle-in-cell simulations**|Szilárd Majorosi et.al.|[2505.03518v1](http://arxiv.org/abs/2505.03518v1)|**2025-05-06**|null|
-|**2025-05-06**|**UPMAD-Net: A Brain Tumor Segmentation Network with Uncertainty Guidance and Adaptive Multimodal Feature Fusion**|Zhanyuan Jia et.al.|[2505.03494v1](http://arxiv.org/abs/2505.03494v1)|**2025-05-06**|null|
+|**2025-05-06**|**UPMAD-Net: A Brain Tumor Segmentation Network with Uncertainty Guidance and Adaptive Multimodal Feature Fusion**|Zhanyuan Jia et.al.|[2505.03494v1](http://arxiv.org/abs/2505.03494v1)|**2025-05-06**|[link](https://github.com/chenzhao2023/upmad_net_brainseg)|
 |**2025-05-06**|**Blending 3D Geometry and Machine Learning for Multi-View Stereopsis**|Vibhas Vats et.al.|[2505.03470v1](http://arxiv.org/abs/2505.03470v1)|**2025-05-06**|[link](https://github.com/vkvats/GC-MVSNet-PlusPlus)|
 |**2025-05-06**|**Universal Cosmologies**|Paul Marconnet et.al.|[2505.03449v1](http://arxiv.org/abs/2505.03449v1)|**2025-05-06**|null|
 |**2025-05-06**|**AquaticVision: Benchmarking Visual SLAM in Underwater Environment with Events and Frames**|Yifan Peng et.al.|[2505.03448v1](http://arxiv.org/abs/2505.03448v1)|**2025-05-06**|null|
 |**2025-05-06**|**O(5) multicriticality in the 3D two flavor SU(2) lattice gauge Higgs model**|Claudio Bonati et.al.|[2505.03446v1](http://arxiv.org/abs/2505.03446v1)|**2025-05-06**|null|
-|**2025-05-06**|**manvr3d: A Platform for Human-in-the-loop Cell Tracking in Virtual Reality**|Samuel Pantze et.al.|[2505.03440v1](http://arxiv.org/abs/2505.03440v1)|**2025-05-06**|null|
-|**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422v1](http://arxiv.org/abs/2505.03422v1)|**2025-05-06**|null|
+|**2025-05-06**|**manvr3d: A Platform for Human-in-the-loop Cell Tracking in Virtual Reality**|Samuel Pantze et.al.|[2505.03440v2](http://arxiv.org/abs/2505.03440v2)|**2025-05-07**|null|
+|**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422v1](http://arxiv.org/abs/2505.03422v1)|**2025-05-06**|[link](https://github.com/lyp-deeplearning/liftfeat)|
 |**2025-05-06**|**3D Surface Reconstruction with Enhanced High-Frequency Details**|Shikun Zhang et.al.|[2505.03362v1](http://arxiv.org/abs/2505.03362v1)|**2025-05-06**|null|
 |**2025-05-06**|**Hierarchical dynamic domain decomposition for the multiscale Boltzmann equation**|Domenico Caparello et.al.|[2505.03360v1](http://arxiv.org/abs/2505.03360v1)|**2025-05-06**|null|
 |**2025-05-06**|**GUAVA: Generalizable Upper Body 3D Gaussian Avatar**|Dongbin Zhang et.al.|[2505.03351v1](http://arxiv.org/abs/2505.03351v1)|**2025-05-06**|null|

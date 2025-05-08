@@ -17,8 +17,8 @@
 |**2025-05-06**|**Reinforced Correlation Between Vision and Language for Precise Medical AI Assistant**|Haonan Wang et.al.|[2505.03380v1](http://arxiv.org/abs/2505.03380v1)|**2025-05-06**|null|
 |**2025-05-06**|**Effective Reinforcement Learning Control using Conservative Soft Actor-Critic**|Xinyi Yuan et.al.|[2505.03356v1](http://arxiv.org/abs/2505.03356v1)|**2025-05-06**|null|
 |**2025-05-06**|**RIFT: Closed-Loop RL Fine-Tuning for Realistic and Controllable Traffic Simulation**|Keyu Chen et.al.|[2505.03344v1](http://arxiv.org/abs/2505.03344v1)|**2025-05-06**|null|
-|**2025-05-06**|**Absolute Zero: Reinforced Self-play Reasoning with Zero Data**|Andrew Zhao et.al.|[2505.03335v1](http://arxiv.org/abs/2505.03335v1)|**2025-05-06**|[link](https://github.com/LeapLabTHU/Absolute-Zero-Reasoner)|
-|**2025-05-06**|**Unraveling the Rainbow: can value-based methods schedule?**|Arthur Corrêa et.al.|[2505.03323v1](http://arxiv.org/abs/2505.03323v1)|**2025-05-06**|null|
+|**2025-05-06**|**Absolute Zero: Reinforced Self-play Reasoning with Zero Data**|Andrew Zhao et.al.|[2505.03335v2](http://arxiv.org/abs/2505.03335v2)|**2025-05-07**|[link](https://github.com/LeapLabTHU/Absolute-Zero-Reasoner)|
+|**2025-05-06**|**Unraveling the Rainbow: can value-based methods schedule?**|Arthur Corrêa et.al.|[2505.03323v1](http://arxiv.org/abs/2505.03323v1)|**2025-05-06**|[link](https://github.com/aj-correa/unraveling-the-rainbow)|
 |**2025-05-06**|**Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning**|Yibin Wang et.al.|[2505.03318v1](http://arxiv.org/abs/2505.03318v1)|**2025-05-06**|null|
 |**2025-05-06**|**Multi-Agent Deep Reinforcement Learning for Zonal Ancillary Market Coupling**|Francesco Morri et.al.|[2505.03288v1](http://arxiv.org/abs/2505.03288v1)|**2025-05-06**|null|
 |**2025-05-06**|**RobotxR1: Enabling Embodied Robotic Intelligence on Large Language Models through Closed-Loop Reinforcement Learning**|Liam Boyle et.al.|[2505.03238v1](http://arxiv.org/abs/2505.03238v1)|**2025-05-06**|null|
@@ -31,4 +31,4 @@
 |**2025-05-06**|**Integrated Sensing, Computing, Communication, and Control for Time-Sequence-Based Semantic Communications**|Qingliang Li et.al.|[2505.03127v1](http://arxiv.org/abs/2505.03127v1)|**2025-05-06**|null|
 |**2025-05-05**|**Direct Retrieval-augmented Optimization: Synergizing Knowledge Selection and Language Models**|Zhengliang Shi et.al.|[2505.03075v1](http://arxiv.org/abs/2505.03075v1)|**2025-05-05**|null|
 |**2025-05-05**|**A Fully Data-Driven Value Iteration for Stochastic LQR: Convergence, Robustness and Stability**|Leilei Cui et.al.|[2505.02970v1](http://arxiv.org/abs/2505.02970v1)|**2025-05-05**|null|
-|**2025-05-05**|**R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning**|Yi-Fan Zhang et.al.|[2505.02835v1](http://arxiv.org/abs/2505.02835v1)|**2025-05-05**|null|
+|**2025-05-05**|**R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning**|Yi-Fan Zhang et.al.|[2505.02835v1](http://arxiv.org/abs/2505.02835v1)|**2025-05-05**|[link](https://github.com/yfzhang114/r1_reward)|
