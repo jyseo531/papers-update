@@ -2,6 +2,8 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-08**|**xTrace: A Facial Expressive Behaviour Analysis Tool for Continuous Affect Recognition**|Mani Kumar Tellamekala et.al.|[2505.05043v1](http://arxiv.org/abs/2505.05043v1)|**2025-05-08**|null|
+|**2025-05-07**|**WIR3D: Visually-Informed and Geometry-Aware 3D Shape Abstraction**|Richard Liu et.al.|[2505.04813v1](http://arxiv.org/abs/2505.04813v1)|**2025-05-07**|null|
 |**2025-05-07**|**FastMap: Revisiting Dense and Scalable Structure from Motion**|Jiahao Li et.al.|[2505.04612v1](http://arxiv.org/abs/2505.04612v1)|**2025-05-07**|null|
 |**2025-05-06**|**Multi-modal cascade feature transfer for polymer property prediction**|Kiichi Obuchi et.al.|[2505.03704v2](http://arxiv.org/abs/2505.03704v2)|**2025-05-07**|null|
 |**2025-05-06**|**Matching Distance and Geometric Distribution Aided Learning Multiview Point Cloud Registration**|Shiqi Li et.al.|[2505.03692v1](http://arxiv.org/abs/2505.03692v1)|**2025-05-06**|[link](https://github.com/shi-qi-li/mdgd)|
@@ -11,9 +13,10 @@
 |**2025-05-06**|**Density of States Proportion on Charge Transfer Kinetics in Breathing Fermionic Systems of Molecules and Materials: A Perspective of Entropy-Ruled Method**|Karuppuchamy Navamani et.al.|[2505.03348v1](http://arxiv.org/abs/2505.03348v1)|**2025-05-06**|null|
 |**2025-05-05**|**Unsupervised training of keypoint-agnostic descriptors for flexible retinal image registration**|David Rivas-Villar et.al.|[2505.02787v1](http://arxiv.org/abs/2505.02787v1)|**2025-05-05**|null|
 |**2025-05-05**|**Unsupervised Deep Learning-based Keypoint Localization Estimating Descriptor Matching Performance**|David Rivas-Villar et.al.|[2505.02779v1](http://arxiv.org/abs/2505.02779v1)|**2025-05-05**|null|
-|**2025-05-05**|**Topology across Scales on Heterogeneous Cell Data**|Maria Torras-Pérez et.al.|[2505.02717v1](http://arxiv.org/abs/2505.02717v1)|**2025-05-05**|null|
+|**2025-05-05**|**Topology across Scales on Heterogeneous Cell Data**|Maria Torras-Pérez et.al.|[2505.02717v1](http://arxiv.org/abs/2505.02717v1)|**2025-05-05**|[link](https://github.com/mariatorras/tda-multiplexed-data)|
 |**2025-05-05**|**Dance of Fireworks: An Interactive Broadcast Gymnastics Training System Based on Pose Estimation**|Haotian Chen et.al.|[2505.02690v1](http://arxiv.org/abs/2505.02690v1)|**2025-05-05**|null|
 |**2025-05-05**|**Corr2Distrib: Making Ambiguous Correspondences an Ally to Predict Reliable 6D Pose Distributions**|Asma Brazi et.al.|[2505.02501v1](http://arxiv.org/abs/2505.02501v1)|**2025-05-05**|null|
+|**2025-05-05**|**Rethinking Multimodal Sentiment Analysis: A High-Accuracy, Simplified Fusion Architecture**|Nischal Mandal et.al.|[2505.04642v1](http://arxiv.org/abs/2505.04642v1)|**2025-05-05**|null|
 |**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836v1](http://arxiv.org/abs/2505.03836v1)|**2025-05-04**|[link](https://github.com/cszhanglmu/obd-finder)|
 |**2025-05-04**|**Focus What Matters: Matchability-Based Reweighting for Local Feature Matching**|Dongyue Li et.al.|[2505.02161v1](http://arxiv.org/abs/2505.02161v1)|**2025-05-04**|null|
 |**2025-05-04**|**Chemical hydrodynamics of nuclear spin states**|Anupama Acharya et.al.|[2505.02085v1](http://arxiv.org/abs/2505.02085v1)|**2025-05-04**|null|
@@ -29,6 +32,3 @@
 |**2025-04-30**|**Enhancing Self-Supervised Fine-Grained Video Object Tracking with Dynamic Memory Prediction**|Zihan Zhou et.al.|[2504.21692v1](http://arxiv.org/abs/2504.21692v1)|**2025-04-30**|null|
 |**2025-04-30**|**Drawing Reeb Graphs**|Erin Chambers et.al.|[2504.21329v1](http://arxiv.org/abs/2504.21329v1)|**2025-04-30**|null|
 |**2025-04-30**|**NEP89: Universal neuroevolution potential for inorganic and organic materials across 89 elements**|Ting Liang et.al.|[2504.21286v1](http://arxiv.org/abs/2504.21286v1)|**2025-04-30**|null|
-|**2025-04-30**|**Learning to Borrow Features for Improved Detection of Small Objects in Single-Shot Detectors**|Richard Schmit et.al.|[2505.00044v1](http://arxiv.org/abs/2505.00044v1)|**2025-04-30**|null|
-|**2025-04-29**|**Emotion Recognition in Contemporary Dance Performances Using Laban Movement Analysis**|Muhammad Turab et.al.|[2504.21154v1](http://arxiv.org/abs/2504.21154v1)|**2025-04-29**|null|
-|**2025-04-29**|**Adept: Annotation-Denoising Auxiliary Tasks with Discrete Cosine Transform Map and Keypoint for Human-Centric Pretraining**|Weizhen He et.al.|[2504.20800v1](http://arxiv.org/abs/2504.20800v1)|**2025-04-29**|null|

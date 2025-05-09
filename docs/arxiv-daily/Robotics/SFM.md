@@ -2,33 +2,33 @@
 ### SFM
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-07**|**First Observations of Solar Halo Gamma Rays Over a Full Solar Cycle**|Tim Linden et.al.|[2505.04625v1](http://arxiv.org/abs/2505.04625v1)|**2025-05-07**|null|
-|**2025-05-07**|**Dissipative solitons in parity-time symmetric laser cavities**|Jesús Yelo-Sarrión et.al.|[2505.04624v1](http://arxiv.org/abs/2505.04624v1)|**2025-05-07**|null|
-|**2025-05-07**|**EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning**|Zhenghao Xing et.al.|[2505.04623v1](http://arxiv.org/abs/2505.04623v1)|**2025-05-07**|null|
-|**2025-05-07**|**PrimitiveAnything: Human-Crafted 3D Primitive Assembly Generation with Auto-Regressive Transformer**|Jingwen Ye et.al.|[2505.04622v1](http://arxiv.org/abs/2505.04622v1)|**2025-05-07**|null|
-|**2025-05-07**|**On Path to Multimodal Generalist: General-Level and General-Bench**|Hao Fei et.al.|[2505.04620v1](http://arxiv.org/abs/2505.04620v1)|**2025-05-07**|null|
-|**2025-05-07**|**Linear Thermal Instability of a Condensing Gas-Particle Mixture**|Kecheng Stephon Qian et.al.|[2505.04618v1](http://arxiv.org/abs/2505.04618v1)|**2025-05-07**|null|
-|**2025-05-07**|**Improved Predictions on Higgs-Starobinsky Inflation and Reheating with ACT DR6 and Primordial Gravitational Waves**|Md Riajul Haque et.al.|[2505.04615v1](http://arxiv.org/abs/2505.04615v1)|**2025-05-07**|null|
-|**2025-05-07**|**Axion Dark Matter Archaeology with Primordial Gravitational Waves**|Andrew Cheek et.al.|[2505.04614v1](http://arxiv.org/abs/2505.04614v1)|**2025-05-07**|null|
-|**2025-05-07**|**From Two Sample Testing to Singular Gaussian Discrimination**|Leonardo V. Santoro et.al.|[2505.04613v1](http://arxiv.org/abs/2505.04613v1)|**2025-05-07**|null|
-|**2025-05-07**|**FastMap: Revisiting Dense and Scalable Structure from Motion**|Jiahao Li et.al.|[2505.04612v1](http://arxiv.org/abs/2505.04612v1)|**2025-05-07**|null|
-|**2025-05-07**|**Particle Gibbs without the Gibbs bit**|Adrien Corenflos et.al.|[2505.04611v2](http://arxiv.org/abs/2505.04611v2)|**2025-05-08**|null|
-|**2025-05-07**|**Early and Extensive Ultraviolet Through Near Infrared Observations of the Intermediate-Luminosity Type Iax Supernovae 2024pxl**|W. B. Hoogendam et.al.|[2505.04610v1](http://arxiv.org/abs/2505.04610v1)|**2025-05-07**|null|
-|**2025-05-07**|**CAPERS-LRD-z9: A Gas Enshrouded Little Red Dot Hosting a Broad-line AGN at z=9.288**|Anthony J. Taylor et.al.|[2505.04609v1](http://arxiv.org/abs/2505.04609v1)|**2025-05-07**|null|
-|**2025-05-07**|**OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution**|Lianghong Guo et.al.|[2505.04606v1](http://arxiv.org/abs/2505.04606v1)|**2025-05-07**|null|
-|**2025-05-07**|**I-Love-Q Relations of Fermion-Boson Stars**|Kelvin Ka-Ho Lam et.al.|[2505.04605v1](http://arxiv.org/abs/2505.04605v1)|**2025-05-07**|null|
-|**2025-05-07**|**Likelihood-Free Adaptive Bayesian Inference via Nonparametric Distribution Matching**|Wenhui Sophia Lu et.al.|[2505.04603v1](http://arxiv.org/abs/2505.04603v1)|**2025-05-07**|null|
-|**2025-05-07**|**Extracting local velocity from cosmic dipole using simulations**|Mohit Panwar et.al.|[2505.04602v1](http://arxiv.org/abs/2505.04602v1)|**2025-05-07**|null|
-|**2025-05-07**|**OpenVision: A Fully-Open, Cost-Effective Family of Advanced Vision Encoders for Multimodal Learning**|Xianhang Li et.al.|[2505.04601v1](http://arxiv.org/abs/2505.04601v1)|**2025-05-07**|null|
-|**2025-05-07**|**Engineering topological exciton structures in two-dimensional semiconductors by a periodic electrostatic potential**|Na Zhang et.al.|[2505.04597v1](http://arxiv.org/abs/2505.04597v1)|**2025-05-07**|null|
-|**2025-05-07**|**Dynamic Network Flow Optimization for Task Scheduling in PTZ Camera Surveillance Systems**|Mohammad Merati et.al.|[2505.04596v1](http://arxiv.org/abs/2505.04596v1)|**2025-05-07**|null|
-|**2025-05-07**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594v2](http://arxiv.org/abs/2505.04594v2)|**2025-05-08**|null|
-|**2025-05-07**|**AI Governance to Avoid Extinction: The Strategic Landscape and Actionable Research Questions**|Peter Barnett et.al.|[2505.04592v1](http://arxiv.org/abs/2505.04592v1)|**2025-05-07**|null|
-|**2025-05-07**|**Timescales, Squeezing and Heisenberg Scalings in Many-Body Continuous Sensing**|Gideon Lee et.al.|[2505.04591v1](http://arxiv.org/abs/2505.04591v1)|**2025-05-07**|null|
-|**2025-05-07**|**Integral Chow rings of modular compactifications of $\mathcal{M}_{1,n\leq 6}$**|Luca Battistella et.al.|[2505.04587v1](http://arxiv.org/abs/2505.04587v1)|**2025-05-07**|null|
-|**2025-05-07**|**Active Sampling for MRI-based Sequential Decision Making**|Yuning Du et.al.|[2505.04586v1](http://arxiv.org/abs/2505.04586v1)|**2025-05-07**|[link](https://github.com/vios-s/mri_sequential_active_sampling)|
-|**2025-05-07**|**SlideItRight: Using AI to Find Relevant Slides and Provide Feedback for Open-Ended Questions**|Chloe Qianhui Zhao et.al.|[2505.04584v1](http://arxiv.org/abs/2505.04584v1)|**2025-05-07**|null|
-|**2025-05-07**|**Ponderomotive-expulsion: toward creating an electron-free volume**|Smrithan Ravichandran et.al.|[2505.04582v1](http://arxiv.org/abs/2505.04582v1)|**2025-05-07**|null|
-|**2025-05-07**|**Fight Fire with Fire: Defending Against Malicious RL Fine-Tuning via Reward Neutralization**|Wenjun Cao et.al.|[2505.04578v1](http://arxiv.org/abs/2505.04578v1)|**2025-05-07**|null|
-|**2025-05-07**|**Relative benefits of different active learning methods to conceptual physics learning**|Meagan Sundstrom et.al.|[2505.04577v1](http://arxiv.org/abs/2505.04577v1)|**2025-05-07**|null|
-|**2025-05-07**|**Componential Prompt-Knowledge Alignment for Domain Incremental Learning**|Kunlun Xu et.al.|[2505.04575v1](http://arxiv.org/abs/2505.04575v1)|**2025-05-07**|null|
+|**2025-05-08**|**SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**|Yonwoo Choi et.al.|[2505.05475v1](http://arxiv.org/abs/2505.05475v1)|**2025-05-08**|[link](https://github.com/yc4ny/SVAD)|
+|**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473v1](http://arxiv.org/abs/2505.05473v1)|**2025-05-08**|null|
+|**2025-05-08**|**Flow-GRPO: Training Flow Matching Models via Online RL**|Jie Liu et.al.|[2505.05470v1](http://arxiv.org/abs/2505.05470v1)|**2025-05-08**|[link](https://github.com/yifan123/flow_grpo)|
+|**2025-05-08**|**Generating Physically Stable and Buildable LEGO Designs from Text**|Ava Pun et.al.|[2505.05469v1](http://arxiv.org/abs/2505.05469v1)|**2025-05-08**|null|
+|**2025-05-08**|**A Solovay-Kitaev theorem for quantum signal processing**|Zane M. Rossi et.al.|[2505.05468v1](http://arxiv.org/abs/2505.05468v1)|**2025-05-08**|null|
+|**2025-05-08**|**Comparison of integral equations used to study $T_{cc}^+$**|Sebastian M. Dawid et.al.|[2505.05466v1](http://arxiv.org/abs/2505.05466v1)|**2025-05-08**|null|
+|**2025-05-08**|**ComPO: Preference Alignment via Comparison Oracles**|Peter Chen et.al.|[2505.05465v1](http://arxiv.org/abs/2505.05465v1)|**2025-05-08**|null|
+|**2025-05-08**|**Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging**|Shiqi Chen et.al.|[2505.05464v1](http://arxiv.org/abs/2505.05464v1)|**2025-05-08**|[link](https://github.com/shiqichen17/vlm_merging)|
+|**2025-05-08**|**Primordial black-hole formation and heavy r-process element synthesis from the cosmological QCD transition. Two aspects of an inhomogeneous early Universe**|M. Gonin et.al.|[2505.05463v1](http://arxiv.org/abs/2505.05463v1)|**2025-05-08**|null|
+|**2025-05-08**|**Reduced Basis Method for Driven-Dissipative Quantum Systems**|Hans Christiansen et.al.|[2505.05460v1](http://arxiv.org/abs/2505.05460v1)|**2025-05-08**|null|
+|**2025-05-08**|**Emergence of Spin-Polarized Unconventional Skin Effect in Hatano-Nelson Model**|Moirangthem Sanahal et.al.|[2505.05458v1](http://arxiv.org/abs/2505.05458v1)|**2025-05-08**|null|
+|**2025-05-08**|**SITE: towards Spatial Intelligence Thorough Evaluation**|Wenqi Wang et.al.|[2505.05456v1](http://arxiv.org/abs/2505.05456v1)|**2025-05-08**|null|
+|**2025-05-08**|**Resolution of the Solar Convective Conundrum? New Results Using the Time-Distance Deep-Focus Method**|John T. Stefan et.al.|[2505.05454v1](http://arxiv.org/abs/2505.05454v1)|**2025-05-08**|null|
+|**2025-05-08**|**Conversational Process Model Redesign**|Nataliia Klievtsova et.al.|[2505.05453v1](http://arxiv.org/abs/2505.05453v1)|**2025-05-08**|null|
+|**2025-05-08**|**The Brownian marble**|Samuel G. G. Johnston et.al.|[2505.05451v1](http://arxiv.org/abs/2505.05451v1)|**2025-05-08**|null|
+|**2025-05-08**|**Screened Axio-dilaton Cosmology: Novel Forms of Early Dark Energy**|Adam Smith et.al.|[2505.05450v1](http://arxiv.org/abs/2505.05450v1)|**2025-05-08**|null|
+|**2025-05-08**|**Manifest Gauge Invariance for Structure Dependent Radiative Corrections to Processes Involving Atoms and Nuclei**|Ryan Plestid et.al.|[2505.05449v1](http://arxiv.org/abs/2505.05449v1)|**2025-05-08**|null|
+|**2025-05-08**|**Quantum effects in rotating thermal states on anti-de Sitter space-time**|Jacob C. Thompson et.al.|[2505.05448v1](http://arxiv.org/abs/2505.05448v1)|**2025-05-08**|null|
+|**2025-05-08**|**Characterisation of Markov property on planar maps**|Pablo Araya et.al.|[2505.05447v1](http://arxiv.org/abs/2505.05447v1)|**2025-05-08**|null|
+|**2025-05-08**|**clem:todd: A Framework for the Systematic Benchmarking of LLM-Based Task-Oriented Dialogue System Realisations**|Chalamalasetti Kranti et.al.|[2505.05445v1](http://arxiv.org/abs/2505.05445v1)|**2025-05-08**|null|
+|**2025-05-08**|**The soft X-ray transient EP241021a: a cosmic explosion with a complex off-axis jet and cocoon from a massive progenitor**|Giulia Gianfagna et.al.|[2505.05444v1](http://arxiv.org/abs/2505.05444v1)|**2025-05-08**|null|
+|**2025-05-08**|**Density modulated star formation efficiency: implications for the observed abundance of ultra-violet luminous galaxies at z>10**|Rachel S. Somerville et.al.|[2505.05442v1](http://arxiv.org/abs/2505.05442v1)|**2025-05-08**|null|
+|**2025-05-08**|**GesPrompt: Leveraging Co-Speech Gestures to Augment LLM-Based Interaction in Virtual Reality**|Xiyun Hu et.al.|[2505.05441v1](http://arxiv.org/abs/2505.05441v1)|**2025-05-08**|null|
+|**2025-05-08**|**EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**|Biao Yi et.al.|[2505.05440v1](http://arxiv.org/abs/2505.05440v1)|**2025-05-08**|null|
+|**2025-05-08**|**Cell size heterogeneity controls crystallization of the developing fruit fly wing**|Kartik Chhajed et.al.|[2505.05437v1](http://arxiv.org/abs/2505.05437v1)|**2025-05-08**|null|
+|**2025-05-08**|**Asymmetric decay of quantum many-body scars in XYZ quantum spin chains**|Dhiman Bhowmick et.al.|[2505.05435v1](http://arxiv.org/abs/2505.05435v1)|**2025-05-08**|null|
+|**2025-05-08**|**Artifact Sharing for Information Retrieval Research**|Sean MacAvaney et.al.|[2505.05434v1](http://arxiv.org/abs/2505.05434v1)|**2025-05-08**|null|
+|**2025-05-08**|**Sideways on the highways**|Victor Lutfalla et.al.|[2505.05426v1](http://arxiv.org/abs/2505.05426v1)|**2025-05-08**|null|
+|**2025-05-08**|**TransProQA: an LLM-based literary Translation evaluation metric with Professional Question Answering**|Ran Zhang et.al.|[2505.05423v1](http://arxiv.org/abs/2505.05423v1)|**2025-05-08**|null|
+|**2025-05-08**|**Regularization by noise for the energy- and mass-critical nonlinear Schrödinger equations**|Martin Spitz et.al.|[2505.05421v1](http://arxiv.org/abs/2505.05421v1)|**2025-05-08**|null|

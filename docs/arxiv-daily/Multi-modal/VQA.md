@@ -2,33 +2,33 @@
 ### VQA
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-07**|**EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning**|Zhenghao Xing et.al.|[2505.04623v1](http://arxiv.org/abs/2505.04623v1)|**2025-05-07**|null|
-|**2025-05-07**|**On Path to Multimodal Generalist: General-Level and General-Bench**|Hao Fei et.al.|[2505.04620v1](http://arxiv.org/abs/2505.04620v1)|**2025-05-07**|null|
-|**2025-05-07**|**From Two Sample Testing to Singular Gaussian Discrimination**|Leonardo V. Santoro et.al.|[2505.04613v1](http://arxiv.org/abs/2505.04613v1)|**2025-05-07**|null|
-|**2025-05-07**|**Particle Gibbs without the Gibbs bit**|Adrien Corenflos et.al.|[2505.04611v2](http://arxiv.org/abs/2505.04611v2)|**2025-05-08**|null|
-|**2025-05-07**|**WATCH: Weighted Adaptive Testing for Changepoint Hypotheses via Weighted-Conformal Martingales**|Drew Prinster et.al.|[2505.04608v1](http://arxiv.org/abs/2505.04608v1)|**2025-05-07**|null|
-|**2025-05-07**|**Likelihood-Free Adaptive Bayesian Inference via Nonparametric Distribution Matching**|Wenhui Sophia Lu et.al.|[2505.04603v1](http://arxiv.org/abs/2505.04603v1)|**2025-05-07**|null|
-|**2025-05-07**|**Extracting local velocity from cosmic dipole using simulations**|Mohit Panwar et.al.|[2505.04602v1](http://arxiv.org/abs/2505.04602v1)|**2025-05-07**|null|
-|**2025-05-07**|**Complexity Lower Bounds of Adaptive Gradient Algorithms for Non-convex Stochastic Optimization under Relaxed Smoothness**|Michael Crawshaw et.al.|[2505.04599v1](http://arxiv.org/abs/2505.04599v1)|**2025-05-07**|null|
-|**2025-05-07**|**Adiabatic state preparation and thermalization of simulated phase noise in a Rydberg spin Hamiltonian**|Tomas Kozlej et.al.|[2505.04595v1](http://arxiv.org/abs/2505.04595v1)|**2025-05-07**|null|
-|**2025-05-07**|**AI Governance to Avoid Extinction: The Strategic Landscape and Actionable Research Questions**|Peter Barnett et.al.|[2505.04592v1](http://arxiv.org/abs/2505.04592v1)|**2025-05-07**|null|
-|**2025-05-07**|**Active Sampling for MRI-based Sequential Decision Making**|Yuning Du et.al.|[2505.04586v1](http://arxiv.org/abs/2505.04586v1)|**2025-05-07**|[link](https://github.com/vios-s/mri_sequential_active_sampling)|
-|**2025-05-07**|**SlideItRight: Using AI to Find Relevant Slides and Provide Feedback for Open-Ended Questions**|Chloe Qianhui Zhao et.al.|[2505.04584v1](http://arxiv.org/abs/2505.04584v1)|**2025-05-07**|null|
-|**2025-05-07**|**Consensus Seminorms and their Applications**|Ron Ofir et.al.|[2505.04580v1](http://arxiv.org/abs/2505.04580v1)|**2025-05-07**|null|
-|**2025-05-07**|**Componential Prompt-Knowledge Alignment for Domain Incremental Learning**|Kunlun Xu et.al.|[2505.04575v1](http://arxiv.org/abs/2505.04575v1)|**2025-05-07**|null|
-|**2025-05-07**|**Conformal Survival Bands for Risk Screening under Right-Censoring**|Matteo Sesia et.al.|[2505.04568v1](http://arxiv.org/abs/2505.04568v1)|**2025-05-07**|[link](https://github.com/msesia/conformal_survival_screening)|
-|**2025-05-07**|**Hierarchical Task Decomposition for Execution Monitoring and Error Recovery: Understanding the Rationale Behind Task Demonstrations**|Christoph Willibald et.al.|[2505.04565v1](http://arxiv.org/abs/2505.04565v1)|**2025-05-07**|null|
-|**2025-05-07**|**Purity Law for Generalizable Neural TSP Solvers**|Wenzhao Liu et.al.|[2505.04558v1](http://arxiv.org/abs/2505.04558v1)|**2025-05-07**|null|
-|**2025-05-07**|**Light Spanners with Small Hop-Diameter**|Sujoy Bhore et.al.|[2505.04536v1](http://arxiv.org/abs/2505.04536v1)|**2025-05-07**|null|
-|**2025-05-07**|**PANCAKE: Python bAsed Numerical Color-magnitude-diagram Analysis pacKagE**|Yun Zheng et.al.|[2505.04534v1](http://arxiv.org/abs/2505.04534v1)|**2025-05-07**|null|
-|**2025-05-07**|**Magnetic precession as a model for QPOs in PULXs: flat-top noise ULXs are different**|Miljenko Čemeljić et.al.|[2505.04523v1](http://arxiv.org/abs/2505.04523v1)|**2025-05-07**|null|
-|**2025-05-07**|**Comparative Analysis of Carbon Footprint in Manual vs. LLM-Assisted Code Development**|Kuen Sum Cheung et.al.|[2505.04521v1](http://arxiv.org/abs/2505.04521v1)|**2025-05-07**|null|
-|**2025-05-07**|**Efficient Flow Matching using Latent Variables**|Anirban Samaddar et.al.|[2505.04486v1](http://arxiv.org/abs/2505.04486v1)|**2025-05-07**|null|
-|**2025-05-07**|**Function theory on the annulus in the dp-norm**|Jim Agler et.al.|[2505.04483v1](http://arxiv.org/abs/2505.04483v1)|**2025-05-07**|null|
-|**2025-05-07**|**Mass Modeling the Andromeda Dwarf Galaxies: Andromeda VI and Andromeda XXIII**|Connor S. Pickett et.al.|[2505.04475v1](http://arxiv.org/abs/2505.04475v1)|**2025-05-07**|null|
-|**2025-05-07**|**Meta-Learning Driven Lightweight Phase Shift Compression for IRS-Assisted Wireless Systems**|Xianhua Yu et.al.|[2505.04453v1](http://arxiv.org/abs/2505.04453v1)|**2025-05-07**|null|
-|**2025-05-07**|**M2Rec: Multi-scale Mamba for Efficient Sequential Recommendation**|Qianru Zhang et.al.|[2505.04445v1](http://arxiv.org/abs/2505.04445v1)|**2025-05-07**|null|
-|**2025-05-07**|**Normal mode analysis within relativistic massive transport**|Xin Lin et.al.|[2505.04444v1](http://arxiv.org/abs/2505.04444v1)|**2025-05-07**|null|
-|**2025-05-07**|**Do We Still Need to Work on Odometry for Autonomous Driving?**|Cedric Le Gentil et.al.|[2505.04438v1](http://arxiv.org/abs/2505.04438v1)|**2025-05-07**|null|
-|**2025-05-07**|**Pool Formation in Oceanic Games: Shapley Value and Proportional Sharing**|Aggelos Kiayias et.al.|[2505.04422v1](http://arxiv.org/abs/2505.04422v1)|**2025-05-07**|null|
-|**2025-05-07**|**OBLIVIATE: Robust and Practical Machine Unlearning for Large Language Models**|Xiaoyu Xu et.al.|[2505.04416v1](http://arxiv.org/abs/2505.04416v1)|**2025-05-07**|null|
+|**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473v1](http://arxiv.org/abs/2505.05473v1)|**2025-05-08**|null|
+|**2025-05-08**|**Flow-GRPO: Training Flow Matching Models via Online RL**|Jie Liu et.al.|[2505.05470v1](http://arxiv.org/abs/2505.05470v1)|**2025-05-08**|[link](https://github.com/yifan123/flow_grpo)|
+|**2025-05-08**|**Generating Physically Stable and Buildable LEGO Designs from Text**|Ava Pun et.al.|[2505.05469v1](http://arxiv.org/abs/2505.05469v1)|**2025-05-08**|null|
+|**2025-05-08**|**SITE: towards Spatial Intelligence Thorough Evaluation**|Wenqi Wang et.al.|[2505.05456v1](http://arxiv.org/abs/2505.05456v1)|**2025-05-08**|null|
+|**2025-05-08**|**Resolution of the Solar Convective Conundrum? New Results Using the Time-Distance Deep-Focus Method**|John T. Stefan et.al.|[2505.05454v1](http://arxiv.org/abs/2505.05454v1)|**2025-05-08**|null|
+|**2025-05-08**|**Scalable Bernoulli factories for Bayesian inference with intractable likelihoods**|Timothée Stumpf-Fétizon et.al.|[2505.05438v1](http://arxiv.org/abs/2505.05438v1)|**2025-05-08**|null|
+|**2025-05-08**|**Cell size heterogeneity controls crystallization of the developing fruit fly wing**|Kartik Chhajed et.al.|[2505.05437v1](http://arxiv.org/abs/2505.05437v1)|**2025-05-08**|null|
+|**2025-05-08**|**The effective energy of a lattice metamaterial**|Xuenan Li et.al.|[2505.05436v1](http://arxiv.org/abs/2505.05436v1)|**2025-05-08**|null|
+|**2025-05-08**|**Theoretical modeling of approximate universality of tidally deformed neutron stars**|Takuya Katagiri et.al.|[2505.05429v1](http://arxiv.org/abs/2505.05429v1)|**2025-05-08**|null|
+|**2025-05-08**|**Ultra-FineWeb: Efficient Data Filtering and Verification for High-Quality LLM Training Data**|Yudong Wang et.al.|[2505.05427v1](http://arxiv.org/abs/2505.05427v1)|**2025-05-08**|null|
+|**2025-05-08**|**TransProQA: an LLM-based literary Translation evaluation metric with Professional Question Answering**|Ran Zhang et.al.|[2505.05423v1](http://arxiv.org/abs/2505.05423v1)|**2025-05-08**|null|
+|**2025-05-08**|**Robustly optimal dynamics for active matter reservoir computing**|Mario U. Gaimann et.al.|[2505.05420v1](http://arxiv.org/abs/2505.05420v1)|**2025-05-08**|null|
+|**2025-05-08**|**DPQ-HD: Post-Training Compression for Ultra-Low Power Hyperdimensional Computing**|Nilesh Prasad Pandey et.al.|[2505.05413v1](http://arxiv.org/abs/2505.05413v1)|**2025-05-08**|null|
+|**2025-05-08**|**Crosslingual Reasoning through Test-Time Scaling**|Zheng-Xin Yong et.al.|[2505.05408v1](http://arxiv.org/abs/2505.05408v1)|**2025-05-08**|null|
+|**2025-05-08**|**EDmamba: A Simple yet Effective Event Denoising Method with State Space Model**|Ciyu Ruan et.al.|[2505.05391v1](http://arxiv.org/abs/2505.05391v1)|**2025-05-08**|null|
+|**2025-05-08**|**OcularAge: A Comparative Study of Iris and Periocular Images for Pediatric Age Estimation**|Naveenkumar G Venkataswamy et.al.|[2505.05374v1](http://arxiv.org/abs/2505.05374v1)|**2025-05-08**|null|
+|**2025-05-08**|**DSDrive: Distilling Large Language Model for Lightweight End-to-End Autonomous Driving with Unified Reasoning and Planning**|Wenru Liu et.al.|[2505.05360v1](http://arxiv.org/abs/2505.05360v1)|**2025-05-08**|null|
+|**2025-05-08**|**Analysis of the accuracy of GNSS inferred precipitable water vapour against that from a 210 GHz WVR at the H.E.S.S. site**|Lott Frans et.al.|[2505.05346v1](http://arxiv.org/abs/2505.05346v1)|**2025-05-08**|null|
+|**2025-05-08**|**Robust Online Learning with Private Information**|Kyohei Okumura et.al.|[2505.05341v1](http://arxiv.org/abs/2505.05341v1)|**2025-05-08**|null|
+|**2025-05-08**|**Scalable Chain of Thoughts via Elastic Reasoning**|Yuhui Xu et.al.|[2505.05315v1](http://arxiv.org/abs/2505.05315v1)|**2025-05-08**|null|
+|**2025-05-08**|**A comparative analysis of GNSS-inferred precipitable water vapour at the potential sites for the Africa Millimetre Telescope**|Lott Frans et.al.|[2505.05310v1](http://arxiv.org/abs/2505.05310v1)|**2025-05-08**|null|
+|**2025-05-08**|**The calculus of neo-Peircean relations**|Filippo Bonchi et.al.|[2505.05306v1](http://arxiv.org/abs/2505.05306v1)|**2025-05-08**|null|
+|**2025-05-08**|**HEXGEN-TEXT2SQL: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL Workflow**|You Peng et.al.|[2505.05286v1](http://arxiv.org/abs/2505.05286v1)|**2025-05-08**|null|
+|**2025-05-08**|**A Two-Sample Test of Text Generation Similarity**|Jingbin Xu et.al.|[2505.05269v1](http://arxiv.org/abs/2505.05269v1)|**2025-05-08**|null|
+|**2025-05-08**|**Enhancing Cooperative Multi-Agent Reinforcement Learning with State Modelling and Adversarial Exploration**|Andreas Kontogiannis et.al.|[2505.05262v1](http://arxiv.org/abs/2505.05262v1)|**2025-05-08**|null|
+|**2025-05-08**|**ICNN-enhanced 2SP: Leveraging input convex neural networks for solving two-stage stochastic programming**|Yu Liu et.al.|[2505.05261v1](http://arxiv.org/abs/2505.05261v1)|**2025-05-08**|null|
+|**2025-05-08**|**First Light and Reionization Epoch Simulations (FLARES) -- XVIII: the ionising emissivities and hydrogen recombination line properties of early AGN**|Stephen M. Wilkins et.al.|[2505.05257v1](http://arxiv.org/abs/2505.05257v1)|**2025-05-08**|null|
+|**2025-05-08**|**Gap-preserving reductions and RE-completeness of independent set games**|Laura Mančinska et.al.|[2505.05253v1](http://arxiv.org/abs/2505.05253v1)|**2025-05-08**|null|
+|**2025-05-08**|**ChemRxivQuest: A Curated Chemistry Question-Answer Database Extracted from ChemRxiv Preprints**|Mahmoud Amiri et.al.|[2505.05232v1](http://arxiv.org/abs/2505.05232v1)|**2025-05-08**|null|
+|**2025-05-08**|**QualBench: Benchmarking Chinese LLMs with Localized Professional Qualifications for Vertical Domain Evaluation**|Mengze Hong et.al.|[2505.05225v1](http://arxiv.org/abs/2505.05225v1)|**2025-05-08**|null|
