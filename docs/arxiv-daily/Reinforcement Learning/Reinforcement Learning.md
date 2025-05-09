@@ -9,7 +9,7 @@
 |**2025-05-07**|**Implicitly Aligning Humans and Autonomous Agents through Shared Task Abstractions**|Stéphane Aroca-Ouellette et.al.|[2505.04579v1](http://arxiv.org/abs/2505.04579v1)|**2025-05-07**|null|
 |**2025-05-07**|**Fight Fire with Fire: Defending Against Malicious RL Fine-Tuning via Reward Neutralization**|Wenjun Cao et.al.|[2505.04578v1](http://arxiv.org/abs/2505.04578v1)|**2025-05-07**|null|
 |**2025-05-07**|**Risk-sensitive Reinforcement Learning Based on Convex Scoring Functions**|Shanyu Han et.al.|[2505.04553v1](http://arxiv.org/abs/2505.04553v1)|**2025-05-07**|null|
-|**2025-05-07**|**HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation**|Teng Hu et.al.|[2505.04512v1](http://arxiv.org/abs/2505.04512v1)|**2025-05-07**|null|
+|**2025-05-07**|**HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation**|Teng Hu et.al.|[2505.04512v2](http://arxiv.org/abs/2505.04512v2)|**2025-05-08**|null|
 |**2025-05-07**|**Leveraging Simultaneous Usage of Edge GPU Hardware Engines for Video Face Detection and Recognition**|Asma Baobaid et.al.|[2505.04502v1](http://arxiv.org/abs/2505.04502v1)|**2025-05-07**|null|
 |**2025-05-07**|**A Two-Timescale Primal-Dual Framework for Reinforcement Learning via Online Dual Variable Guidance**|Axel Friedrich Wolter et.al.|[2505.04494v1](http://arxiv.org/abs/2505.04494v1)|**2025-05-07**|null|
 |**2025-05-07**|**Towards Effectively Leveraging Execution Traces for Program Repair with Code LLMs**|Mirazul Haque et.al.|[2505.04441v1](http://arxiv.org/abs/2505.04441v1)|**2025-05-07**|null|
@@ -26,7 +26,7 @@
 |**2025-05-07**|**Optimization of Infectious Disease Intervention Measures Based on Reinforcement Learning -- Empirical analysis based on UK COVID-19 epidemic data**|Baida Zhang et.al.|[2505.04161v1](http://arxiv.org/abs/2505.04161v1)|**2025-05-07**|null|
 |**2025-05-07**|**FilterTS: Comprehensive Frequency Filtering for Multivariate Time Series Forecasting**|Yulong Wang et.al.|[2505.04158v1](http://arxiv.org/abs/2505.04158v1)|**2025-05-07**|null|
 |**2025-05-07**|**Energy Efficient RSMA-Based LEO Satellite Communications Assisted by UAV-Mounted BD-Active RIS: A DRL Approach**|Rahman Saadat Yeganeh et.al.|[2505.04148v1](http://arxiv.org/abs/2505.04148v1)|**2025-05-07**|null|
-|**2025-05-07**|**Reinforcement Learning-Aided Design of Efficient Polarization Kernels**|Yi-Ting Hong et.al.|[2505.04127v1](http://arxiv.org/abs/2505.04127v1)|**2025-05-07**|null|
+|**2025-05-07**|**Reinforcement Learning-Aided Design of Efficient Polarization Kernels**|Yi-Ting Hong et.al.|[2505.04127v2](http://arxiv.org/abs/2505.04127v2)|**2025-05-08**|null|
 |**2025-05-07**|**LLM-e Guess: Can LLMs Capabilities Advance Without Hardware Progress?**|Teddy Foley et.al.|[2505.04075v1](http://arxiv.org/abs/2505.04075v1)|**2025-05-07**|null|
 |**2025-05-06**|**PARC: Physics-based Augmentation with Reinforcement Learning for Character Controllers**|Michael Xu et.al.|[2505.04002v1](http://arxiv.org/abs/2505.04002v1)|**2025-05-06**|null|
 |**2025-05-06**|**X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains**|Qianchu Liu et.al.|[2505.03981v1](http://arxiv.org/abs/2505.03981v1)|**2025-05-06**|null|

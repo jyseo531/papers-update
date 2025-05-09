@@ -7,7 +7,7 @@
 |**2025-05-07**|**WATCH: Weighted Adaptive Testing for Changepoint Hypotheses via Weighted-Conformal Martingales**|Drew Prinster et.al.|[2505.04608v1](http://arxiv.org/abs/2505.04608v1)|**2025-05-07**|null|
 |**2025-05-07**|**Complexity Lower Bounds of Adaptive Gradient Algorithms for Non-convex Stochastic Optimization under Relaxed Smoothness**|Michael Crawshaw et.al.|[2505.04599v1](http://arxiv.org/abs/2505.04599v1)|**2025-05-07**|null|
 |**2025-05-07**|**AI Governance to Avoid Extinction: The Strategic Landscape and Actionable Research Questions**|Peter Barnett et.al.|[2505.04592v1](http://arxiv.org/abs/2505.04592v1)|**2025-05-07**|null|
-|**2025-05-07**|**TetWeave: Isosurface Extraction using On-The-Fly Delaunay Tetrahedral Grids for Gradient-Based Mesh Optimization**|Alexandre Binninger et.al.|[2505.04590v1](http://arxiv.org/abs/2505.04590v1)|**2025-05-07**|null|
+|**2025-05-07**|**TetWeave: Isosurface Extraction using On-The-Fly Delaunay Tetrahedral Grids for Gradient-Based Mesh Optimization**|Alexandre Binninger et.al.|[2505.04590v2](http://arxiv.org/abs/2505.04590v2)|**2025-05-08**|null|
 |**2025-05-07**|**Active Sampling for MRI-based Sequential Decision Making**|Yuning Du et.al.|[2505.04586v1](http://arxiv.org/abs/2505.04586v1)|**2025-05-07**|[link](https://github.com/vios-s/mri_sequential_active_sampling)|
 |**2025-05-07**|**Modeling Personalized Difficulty of Rehabilitation Exercises Using Causal Trees**|Nathaniel Dennler et.al.|[2505.04583v1](http://arxiv.org/abs/2505.04583v1)|**2025-05-07**|null|
 |**2025-05-07**|**Ponderomotive-expulsion: toward creating an electron-free volume**|Smrithan Ravichandran et.al.|[2505.04582v1](http://arxiv.org/abs/2505.04582v1)|**2025-05-07**|null|
@@ -27,8 +27,8 @@
 |**2025-05-07**|**On some improvements to Unbounded Minimax**|Quentin Cohen-Solal et.al.|[2505.04525v1](http://arxiv.org/abs/2505.04525v1)|**2025-05-07**|null|
 |**2025-05-07**|**Edge-GPU Based Face Tracking for Face Detection and Recognition Acceleration**|Asma Baobaid et.al.|[2505.04524v1](http://arxiv.org/abs/2505.04524v1)|**2025-05-07**|null|
 |**2025-05-07**|**Complementary legs and symplectic rational balls**|John B. Etnyre et.al.|[2505.04513v1](http://arxiv.org/abs/2505.04513v1)|**2025-05-07**|null|
-|**2025-05-07**|**FA-KPConv: Introducing Euclidean Symmetries to KPConv via Frame Averaging**|Ali Alawieh et.al.|[2505.04485v1](http://arxiv.org/abs/2505.04485v1)|**2025-05-07**|null|
-|**2025-05-07**|**Hot Holographic 2-flavor Quark Star**|Le-Feng Chen et.al.|[2505.04477v1](http://arxiv.org/abs/2505.04477v1)|**2025-05-07**|null|
+|**2025-05-07**|**FA-KPConv: Introducing Euclidean Symmetries to KPConv via Frame Averaging**|Ali Alawieh et.al.|[2505.04485v2](http://arxiv.org/abs/2505.04485v2)|**2025-05-08**|null|
+|**2025-05-07**|**Hot Holographic 2-flavor Quark Star**|Le-Feng Chen et.al.|[2505.04477v2](http://arxiv.org/abs/2505.04477v2)|**2025-05-08**|null|
 |**2025-05-07**|**TBA-enabled spin-coating of a percolatively connected GO nanosieve for thru-hole epitaxy: tuning GO flake stacking and coverage to control GaN nucleation**|Gunhoon Beak et.al.|[2505.04454v1](http://arxiv.org/abs/2505.04454v1)|**2025-05-07**|null|
 |**2025-05-07**|**Normal mode analysis within relativistic massive transport**|Xin Lin et.al.|[2505.04444v1](http://arxiv.org/abs/2505.04444v1)|**2025-05-07**|null|
 |**2025-05-07**|**Probabilistic Zeeman-Doppler imaging of stellar magnetic fields: I. Analysis of tau Scorpii in the weak-field limit**|Jennifer Rosina Andersson et.al.|[2505.04437v1](http://arxiv.org/abs/2505.04437v1)|**2025-05-07**|null|

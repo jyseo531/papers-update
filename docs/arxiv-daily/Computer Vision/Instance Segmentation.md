@@ -19,7 +19,7 @@
 |**2025-05-07**|**VideoPath-LLaVA: Pathology Diagnostic Reasoning Through Video Instruction Tuning**|Trinh T. L. Vuong et.al.|[2505.04192v1](http://arxiv.org/abs/2505.04192v1)|**2025-05-07**|[link](https://github.com/trinhvg/videopath-llava)|
 |**2025-05-07**|**S3D: Sketch-Driven 3D Model Generation**|Hail Song et.al.|[2505.04185v1](http://arxiv.org/abs/2505.04185v1)|**2025-05-07**|[link](https://github.com/hailsong/s3d)|
 |**2025-05-07**|**GAPrompt: Geometry-Aware Point Cloud Prompt for 3D Vision Model**|Zixiang Ai et.al.|[2505.04119v1](http://arxiv.org/abs/2505.04119v1)|**2025-05-07**|[link](https://github.com/zhoujiahuan1991/icml2025-vgp)|
-|**2025-05-07**|**MAISY: Motion-Aware Image SYnthesis for MedicalImage Motion Correction**|Andrew Zhang et.al.|[2505.04105v1](http://arxiv.org/abs/2505.04105v1)|**2025-05-07**|null|
+|**2025-05-07**|**MAISY: Motion-Aware Image SYnthesis for Medical Image Motion Correction**|Andrew Zhang et.al.|[2505.04105v2](http://arxiv.org/abs/2505.04105v2)|**2025-05-08**|null|
 |**2025-05-07**|**SolPhishHunter: Towards Detecting and Understanding Phishing on Solana**|Ziwei Li et.al.|[2505.04094v1](http://arxiv.org/abs/2505.04094v1)|**2025-05-07**|null|
 |**2025-05-06**|**SAT-Solving the Poset Cover Problem**|Chih-Cheng Rex Yuan et.al.|[2505.04013v1](http://arxiv.org/abs/2505.04013v1)|**2025-05-06**|null|
 |**2025-05-06**|**The Sonora Substellar Atmosphere Models. V: A Correction to the Disequilibrium Abundance of CO$_2$ for Sonora Elf Owl**|Nicholas F. Wogan et.al.|[2505.03994v1](http://arxiv.org/abs/2505.03994v1)|**2025-05-06**|null|

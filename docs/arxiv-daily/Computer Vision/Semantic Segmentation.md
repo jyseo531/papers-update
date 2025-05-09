@@ -22,7 +22,7 @@
 |**2025-05-07**|**VideoPath-LLaVA: Pathology Diagnostic Reasoning Through Video Instruction Tuning**|Trinh T. L. Vuong et.al.|[2505.04192v1](http://arxiv.org/abs/2505.04192v1)|**2025-05-07**|[link](https://github.com/trinhvg/videopath-llava)|
 |**2025-05-07**|**S3D: Sketch-Driven 3D Model Generation**|Hail Song et.al.|[2505.04185v1](http://arxiv.org/abs/2505.04185v1)|**2025-05-07**|[link](https://github.com/hailsong/s3d)|
 |**2025-05-07**|**Vision Graph Prompting via Semantic Low-Rank Decomposition**|Zixiang Ai et.al.|[2505.04121v1](http://arxiv.org/abs/2505.04121v1)|**2025-05-07**|[link](https://github.com/zhoujiahuan1991/icml2025-vgp)|
-|**2025-05-07**|**MAISY: Motion-Aware Image SYnthesis for MedicalImage Motion Correction**|Andrew Zhang et.al.|[2505.04105v1](http://arxiv.org/abs/2505.04105v1)|**2025-05-07**|null|
+|**2025-05-07**|**MAISY: Motion-Aware Image SYnthesis for Medical Image Motion Correction**|Andrew Zhang et.al.|[2505.04105v2](http://arxiv.org/abs/2505.04105v2)|**2025-05-08**|null|
 |**2025-05-07**|**Shadow Wireless Intelligence: Large Language Model-Driven Reasoning in Covert Communications**|Yuanai Xie et.al.|[2505.04068v1](http://arxiv.org/abs/2505.04068v1)|**2025-05-07**|null|
 |**2025-05-07**|**AS3D: 2D-Assisted Cross-Modal Understanding with Semantic-Spatial Scene Graphs for 3D Visual Grounding**|Feng Xiao et.al.|[2505.04058v1](http://arxiv.org/abs/2505.04058v1)|**2025-05-07**|null|
 |**2025-05-06**|**Rollbaccine : Herd Immunity against Storage Rollback Attacks in TEEs [Technical Report]**|David Chu et.al.|[2505.04014v1](http://arxiv.org/abs/2505.04014v1)|**2025-05-06**|null|
