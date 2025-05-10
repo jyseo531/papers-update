@@ -96,6 +96,7 @@ Updated on 2025-05-10
 | 204 | 4 | Jzuluaga/bert-base-speaker-role-atc-en-uwb-atccAudio | UpdatedFeb 8, 2024 | [Link](https://huggingface.co/Jzuluaga/bert-base-speaker-role-atc-en-uwb-atcc) |
 | 266 | 3 | DunnBC22/wav2vec2-base-Toronto_emotional_speech_setAudio | UpdatedMay 12, 2023 | [Link](https://huggingface.co/DunnBC22/wav2vec2-base-Toronto_emotional_speech_set) |
 | 471 | 3 | anton-l/xtreme_s_xlsr_300m_minds14Audio | UpdatedApr 3, 2022 | [Link](https://huggingface.co/anton-l/xtreme_s_xlsr_300m_minds14) |
+| 319 | 3 | mispeech/dasheng-baseAudio | UpdatedJun 18, 2024 | [Link](https://huggingface.co/mispeech/dasheng-base) |
 | 188 | 2 | Dc26/wav2vec2-base-finetuned-ksAudio | UpdatedMar 29, 2023 | [Link](https://huggingface.co/Dc26/wav2vec2-base-finetuned-ks) |
 | 169 | 2 | minoosh/finetuned_wav2vec2 | UpdatedJun 10, 2023 | [Link](https://huggingface.co/minoosh/finetuned_wav2vec2.0-base-on-IEMOCAP_2) |
 | 9 | 2 | Hibernates/Hiber-Voice-Unmasking-CUDA-V1Audio | Updated3 days ago | [Link](https://huggingface.co/Hibernates/Hiber-Voice-Unmasking-CUDA-V1) |
@@ -1497,6 +1498,7 @@ Updated on 2025-05-10
 | 635 | 10 | calcuis/cosmosImage-to-Video | Updated29 days ago | [Link](https://huggingface.co/calcuis/cosmos) |
 | 16 | 10 | Skywork/SkyReels-V2-I2V-14B-540PImage-to-Video | Updatedabout 8 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-I2V-14B-540P) |
 | 113 | 7 | Skywork/SkyReels-V2-I2V-14B-720PImage-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-I2V-14B-720P) |
+| 7 | 7 | PAIR/StreamingSVDImage-to-Video | UpdatedNov 18, 2024 | [Link](https://huggingface.co/PAIR/StreamingSVD) |
 | 10.7k | 6 | kiwhansong/DFoTImage-to-Video | UpdatedFeb 11 | [Link](https://huggingface.co/kiwhansong/DFoT) |
 | 387 | 6 | weights/stable-video-diffusion-img2vid-xt-1-1Image-to-Video | UpdatedApr 12, 2024 | [Link](https://huggingface.co/weights/stable-video-diffusion-img2vid-xt-1-1) |
 | 28 | 6 | wsbagnsv1/ltxv-13b-0 | Updatedabout 1 hour ago | [Link](https://huggingface.co/wsbagnsv1/ltxv-13b-0.9.7-dev-GGUF) |
@@ -2041,6 +2043,7 @@ Updated on 2025-05-10
 | 25 | 3 | GreenNode/GreenNode-Embedding-Large-VN-V1Sentence | Updated7 days ago | [Link](https://huggingface.co/GreenNode/GreenNode-Embedding-Large-VN-V1) |
 | 1 | 3 | Shuu12121/CodeSearch-ModernBERT-Crow-Plus-1 | Updated1 day ago | [Link](https://huggingface.co/Shuu12121/CodeSearch-ModernBERT-Crow-Plus-1.0) |
 | 30 | 3 | APauli/Persuasive_language_in_pairsSentence | UpdatedNov 8, 2024 | [Link](https://huggingface.co/APauli/Persuasive_language_in_pairs) |
+| 15 | 3 | xmanii/maux-gte-persian-v3Sentence | Updatedabout 23 hours ago | [Link](https://huggingface.co/xmanii/maux-gte-persian-v3) |
 | 714 | 2 | tgsc/sentence-transformer-ult5-pt-smallSentence | UpdatedApr 23, 2024 | [Link](https://huggingface.co/tgsc/sentence-transformer-ult5-pt-small) |
 | 15 | 2 | BlackBeenie/ModernBERT-large-msmarco-bprSentence | UpdatedFeb 7 | [Link](https://huggingface.co/BlackBeenie/ModernBERT-large-msmarco-bpr) |
 | 95.8M |  | sentence-transformers/all-MiniLM-L6-v2Sentence | UpdatedNov 1, 2024 | [Link](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) |
@@ -2179,6 +2182,7 @@ Updated on 2025-05-10
 | 10 | 1 | juliagsy/tapas_fine_tuningTable | UpdatedJan 31, 2022 | [Link](https://huggingface.co/juliagsy/tapas_fine_tuning) |
 | 12 | 1 | navteca/tapas-large-finetuned-wtqTable | UpdatedAug 9, 2021 | [Link](https://huggingface.co/navteca/tapas-large-finetuned-wtq) |
 | 1 | 1 | Yale-LILY/reastap-large-finetuned-wikisqlTable | UpdatedJun 3, 2023 | [Link](https://huggingface.co/Yale-LILY/reastap-large-finetuned-wikisql) |
+| 10 | 1 | DablSi/tatr-financial-fine-tuneTable | UpdatedApr 1 | [Link](https://huggingface.co/DablSi/tatr-financial-fine-tune) |
 | 21.5k |  | google/tapas-base-finetuned-wtqTable | UpdatedJul 14, 2022 | [Link](https://huggingface.co/google/tapas-base-finetuned-wtq) |
 | 129k |  | google/tapas-large-finetuned-wtqTable | UpdatedSep 5, 2023 | [Link](https://huggingface.co/google/tapas-large-finetuned-wtq) |
 | 905 |  | microsoft/tapex-baseTable | UpdatedMay 3, 2023 | [Link](https://huggingface.co/microsoft/tapex-base) |
@@ -2684,6 +2688,7 @@ Updated on 2025-05-10
 | 4 | 2 | cl-nagoya/ruri-v3-reranker-310mText | Updatedabout 2 hours ago | [Link](https://huggingface.co/cl-nagoya/ruri-v3-reranker-310m) |
 | 13 | 2 | gaotang/RM-R1-Qwen2 | Updatedabout 3 hours ago | [Link](https://huggingface.co/gaotang/RM-R1-Qwen2.5-Instruct-7B) |
 | 63 | 2 | hotchpotch/japanese-reranker-tiny-v2Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/hotchpotch/japanese-reranker-tiny-v2) |
+| 21 | 2 | allen-li1231/treehop-ragText | Updated8 days ago | [Link](https://huggingface.co/allen-li1231/treehop-rag) |
 | 70 | 1 | tomaarsen/reranker-NeoBERT-gooaq-bceText | Updatedabout 11 hours ago | [Link](https://huggingface.co/tomaarsen/reranker-NeoBERT-gooaq-bce) |
 | 8 | 1 | tomaarsen/reranker-msmarco-ModernBERT-base-lambdalossText | Updatedabout 9 hours ago | [Link](https://huggingface.co/tomaarsen/reranker-msmarco-ModernBERT-base-lambdaloss) |
 | 10 | 1 | tomaarsen/reranker-msmarco-MiniLM-L12-H384-uncased-lambdalossText | Updatedabout 9 hours ago | [Link](https://huggingface.co/tomaarsen/reranker-msmarco-MiniLM-L12-H384-uncased-lambdaloss) |
@@ -2732,6 +2737,7 @@ Updated on 2025-05-10
 | 48 | 1 | hellork/BlenderLLM-IQ3_XXS-GGUFText-to-3D | UpdatedFeb 2 | [Link](https://huggingface.co/hellork/BlenderLLM-IQ3_XXS-GGUF) |
 | 631 | 1 | JeffreyXiang/TRELLIS-text-xlargeText-to-3D | Updated4 days ago | [Link](https://huggingface.co/JeffreyXiang/TRELLIS-text-xlarge) |
 | 3.7k | 1 | JeffreyXiang/TRELLIS-text-baseText-to-3D | UpdatedMar 24 | [Link](https://huggingface.co/JeffreyXiang/TRELLIS-text-base) |
+| 617 | 1 | AvaLovelace/LegoGPTText-to-3D | Updatedabout 10 hours ago | [Link](https://huggingface.co/AvaLovelace/LegoGPT) |
 | 16 | Unknown | Maikou/MichelangeloText-to-3D | UpdatedJan 26, 2024 | [Link](https://huggingface.co/Maikou/Michelangelo) |
 | 692 | Unknown | stabilityai/stable-zero123Text-to-3D | UpdatedJul 10, 2024 | [Link](https://huggingface.co/stabilityai/stable-zero123) |
 | 8 | Unknown | dylanebert/3dlfmText-to-3D | UpdatedJan 16, 2024 | [Link](https://huggingface.co/dylanebert/3dlfm) |
