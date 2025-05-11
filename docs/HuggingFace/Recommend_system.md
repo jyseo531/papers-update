@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-05-10
+Updated on 2025-05-11
 
 > Generated from the Hugging Face database.
 
@@ -538,6 +538,7 @@ Updated on 2025-05-10
 | 1.04k | 28 | Xenova/bge-m3Feature | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Xenova/bge-m3) |
 | 7.8k | 27 | laion/larger_clap_musicFeature | UpdatedOct 30, 2023 | [Link](https://huggingface.co/laion/larger_clap_music) |
 | 612 | 27 | aapot/bge-m3-onnxFeature | UpdatedFeb 16, 2024 | [Link](https://huggingface.co/aapot/bge-m3-onnx) |
+| 23.8k | 26 | Zigeng/SlimSAM-uniform-77Feature | UpdatedNov 8, 2024 | [Link](https://huggingface.co/Zigeng/SlimSAM-uniform-77) |
 | 587k | 24 | indobenchmark/indobert-base-p1Feature | UpdatedMay 19, 2021 | [Link](https://huggingface.co/indobenchmark/indobert-base-p1) |
 | 14.2k | 23 | line-corporation/clip-japanese-baseFeature | UpdatedMar 25 | [Link](https://huggingface.co/line-corporation/clip-japanese-base) |
 | 3.19k | 21 | Salesforce/SFR-Embedding-Code-400M_RFeature | UpdatedJan 24 | [Link](https://huggingface.co/Salesforce/SFR-Embedding-Code-400M_R) |
@@ -3967,6 +3968,7 @@ Updated on 2025-05-10
 | 112k | 25 | kakaobrain/align-baseZero-Shot | UpdatedMar 8, 2023 | [Link](https://huggingface.co/kakaobrain/align-base) |
 | 31.7k | 24 | laion/CLIP-ViT-g-14-laion2B-s34B-b88KZero-Shot | UpdatedJan 22 | [Link](https://huggingface.co/laion/CLIP-ViT-g-14-laion2B-s34B-b88K) |
 | 6.63k | 23 | facebook/PE-Core-L14-336Zero-Shot | Updatedabout 9 hours ago | [Link](https://huggingface.co/facebook/PE-Core-L14-336) |
+| 5.89k | 23 | wisdomik/QuiltNet-B-32Zero-Shot | UpdatedOct 23, 2023 | [Link](https://huggingface.co/wisdomik/QuiltNet-B-32) |
 | 3.26k | 22 | flax-community/clip-rsicd-v2Zero-Shot | UpdatedApr 24, 2022 | [Link](https://huggingface.co/flax-community/clip-rsicd-v2) |
 | 28.5k | 22 | laion/CLIP-convnext_xxlarge-laion2B-s34B-b82K-augreg-soupZero-Shot | UpdatedApr 18, 2023 | [Link](https://huggingface.co/laion/CLIP-convnext_xxlarge-laion2B-s34B-b82K-augreg-soup) |
 | 232k | 19 | laion/CLIP-convnext_large_d_320 | UpdatedJan 22 | [Link](https://huggingface.co/laion/CLIP-convnext_large_d_320.laion2B-s29B-b131K-ft-soup) |
