@@ -293,6 +293,7 @@ Updated on 2025-05-11
 | 2.03k | 24 | KBLab/kb-whisper-largeAutomatic | Updatedabout 6 hours ago | [Link](https://huggingface.co/KBLab/kb-whisper-large) |
 | 41 | 24 | nvidia/stt_en_fastconformer_transducer_xlargeAutomatic | Updated17 days ago | [Link](https://huggingface.co/nvidia/stt_en_fastconformer_transducer_xlarge) |
 | 13.4k | 23 | nvidia/parakeet-tdt_ctc-110mAutomatic | Updated7 days ago | [Link](https://huggingface.co/nvidia/parakeet-tdt_ctc-110m) |
+| 3.25k | 18 | nvidia/parakeet-tdt_ctc-0 | UpdatedFeb 18 | [Link](https://huggingface.co/nvidia/parakeet-tdt_ctc-0.6b-ja) |
 | 4.32k | 17 | onnx-community/whisper-baseAutomatic | UpdatedOct 8, 2024 | [Link](https://huggingface.co/onnx-community/whisper-base) |
 | 10.4k | 16 | r-f/wav2vec-english-speech-emotion-recognitionAutomatic | UpdatedJan 2 | [Link](https://huggingface.co/r-f/wav2vec-english-speech-emotion-recognition) |
 | 133 | 16 | seastar105/whisper-medium-ko-zerothAutomatic | UpdatedFeb 9, 2023 | [Link](https://huggingface.co/seastar105/whisper-medium-ko-zeroth) |
@@ -865,6 +866,7 @@ Updated on 2025-05-11
 | 215 | 6 | dima806/traffic_sign_detectionImage | UpdatedOct 19, 2024 | [Link](https://huggingface.co/dima806/traffic_sign_detection) |
 | 1.01k | 6 | microsoft/swin-large-patch4-window12-384-in22kImage | UpdatedMay 16, 2022 | [Link](https://huggingface.co/microsoft/swin-large-patch4-window12-384-in22k) |
 | 2.19k | 6 | jaranohaal/vit-base-violence-detectionImage | UpdatedAug 18, 2024 | [Link](https://huggingface.co/jaranohaal/vit-base-violence-detection) |
+| 1.83k | 6 | microsoft/beit-large-patch16-224-pt22k-ft22kImage | UpdatedFeb 27, 2023 | [Link](https://huggingface.co/microsoft/beit-large-patch16-224-pt22k-ft22k) |
 | 1.97k | 5 | timm/vit_mediumd_patch16_reg4_gap_384 | UpdatedJan 21 | [Link](https://huggingface.co/timm/vit_mediumd_patch16_reg4_gap_384.sbb2_e200_in12k_ft_in1k) |
 | 1.12k | 5 | akahana/vit-base-cats-vs-dogsImage | UpdatedSep 19, 2023 | [Link](https://huggingface.co/akahana/vit-base-cats-vs-dogs) |
 | 45 | 5 | espejelomar/fastai-pet-breeds-classificationImage | UpdatedOct 12, 2021 | [Link](https://huggingface.co/espejelomar/fastai-pet-breeds-classification) |
@@ -901,7 +903,9 @@ Updated on 2025-05-11
 | 5 | 2 | prithivMLmods/IndoorOutdoorNetImage | Updated2 days ago | [Link](https://huggingface.co/prithivMLmods/IndoorOutdoorNet) |
 | 5 | 2 | prithivMLmods/BnW-vs-Colored-DetectionImage | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/BnW-vs-Colored-Detection) |
 | 24 | 2 | prithivMLmods/siglip2-x256-explicit-contentImage | Updated9 days ago | [Link](https://huggingface.co/prithivMLmods/siglip2-x256-explicit-content) |
+| 7 | 2 | prithivMLmods/Realistic-Gender-ClassificationImage | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/Realistic-Gender-Classification) |
 | 1.55k | 1 | microsoft/swin-small-patch4-window7-224Image | UpdatedMay 16, 2022 | [Link](https://huggingface.co/microsoft/swin-small-patch4-window7-224) |
+| 34 | 1 | microsoft/beit-large-patch16-384Image | UpdatedJan 28, 2022 | [Link](https://huggingface.co/microsoft/beit-large-patch16-384) |
 | 60.6M |  | Falconsai/nsfw_image_detectionImage | UpdatedDec 6, 2023 | [Link](https://huggingface.co/Falconsai/nsfw_image_detection) |
 | 45.8M |  | microsoft/resnet-50Image | UpdatedFeb 13, 2024 | [Link](https://huggingface.co/microsoft/resnet-50) |
 | 6.01M |  | google/vit-base-patch16-224Image | UpdatedSep 5, 2023 | [Link](https://huggingface.co/google/vit-base-patch16-224) |
@@ -1283,6 +1287,7 @@ Updated on 2025-05-11
 | 2.43k | 2 | siyan824/slam3r_l2wImage-to-3D | UpdatedMar 17 | [Link](https://huggingface.co/siyan824/slam3r_l2w) |
 | 128 | 2 | siyan824/reloc3r-224Image-to-3D | UpdatedMar 28 | [Link](https://huggingface.co/siyan824/reloc3r-224) |
 | 10 | 1 | Sprilucas/Hunyuan3D-2Image-to-3D | UpdatedJan 30 | [Link](https://huggingface.co/Sprilucas/Hunyuan3D-2) |
+| 43 | 1 | Luffuly/head-mvimage-diffuserImage-to-3D | Updatedabout 18 hours ago | [Link](https://huggingface.co/Luffuly/head-mvimage-diffuser) |
 | 35 | Unknown | Peng-Wang/ImageDreamImage-to-3D | UpdatedApr 5, 2024 | [Link](https://huggingface.co/Peng-Wang/ImageDream) |
 | 43 | Unknown | FrozenBurning/SceneDreamerImage-to-3D | UpdatedNov 30, 2023 | [Link](https://huggingface.co/FrozenBurning/SceneDreamer) |
 | 12 | Unknown | dylanebert/En3D-human-animationImage-to-3D | UpdatedJan 15, 2024 | [Link](https://huggingface.co/dylanebert/En3D-human-animation) |
@@ -1331,6 +1336,7 @@ Updated on 2025-05-11
 | 44 | 80 | keras-io/low-light-image-enhancementImage-to-Image | UpdatedJul 9, 2024 | [Link](https://huggingface.co/keras-io/low-light-image-enhancement) |
 | 378 | 74 | instruction-tuning-sd/cartoonizerImage-to-Image | UpdatedMay 13, 2023 | [Link](https://huggingface.co/instruction-tuning-sd/cartoonizer) |
 | 95 | 65 | rsortino/ColorizeNetImage-to-Image | UpdatedJul 31, 2023 | [Link](https://huggingface.co/rsortino/ColorizeNet) |
+| 5.02k | 54 | lllyasviel/sd-controlnet-scribbleImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-scribble) |
 | 12.4k | 52 | lllyasviel/sd-controlnet-segImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-seg) |
 | 12.3k | 52 | lllyasviel/control_v11f1p_sd15_depthImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11f1p_sd15_depth) |
 | 1.17k | 44 | lllyasviel/sd-controlnet-mlsdImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-mlsd) |
@@ -1571,6 +1577,7 @@ Updated on 2025-05-11
 | 98 | Unknown | bytedance-research/PhantomImage-to-Video | Updatedabout 12 hours ago | [Link](https://huggingface.co/bytedance-research/Phantom) |
 | 7 | Unknown | shiyi0408/FlexiActImage-to-Video | Updatedabout 5 hours ago | [Link](https://huggingface.co/shiyi0408/FlexiAct) |
 | 37 | Unknown | tencent/HunyuanCustomImage-to-Video | Updatedabout 5 hours ago | [Link](https://huggingface.co/tencent/HunyuanCustom) |
+| 2 | Unknown | Marblueocean/HoloTimeImage-to-Video | Updated3 days ago | [Link](https://huggingface.co/Marblueocean/HoloTime) |
 
 ## Keypoint Detection
 
@@ -1680,6 +1687,7 @@ Updated on 2025-05-11
 | 38.9k | 176 | Ultralytics/YOLOv8Object | UpdatedJan 11 | [Link](https://huggingface.co/Ultralytics/YOLOv8) |
 | 1.28k | 135 | foduucom/stockmarket-future-predictionObject | UpdatedOct 7, 2023 | [Link](https://huggingface.co/foduucom/stockmarket-future-prediction) |
 | 44.2k | 78 | foduucom/table-detection-and-extractionObject | UpdatedAug 6, 2023 | [Link](https://huggingface.co/foduucom/table-detection-and-extraction) |
+| 483k | 72 | microsoft/table-transformer-structure-recognition-v1 | UpdatedNov 18, 2023 | [Link](https://huggingface.co/microsoft/table-transformer-structure-recognition-v1.1-all) |
 | 60.1k | 62 | hustvl/yolos-smallObject | UpdatedMay 8, 2024 | [Link](https://huggingface.co/hustvl/yolos-small) |
 | 557k | 57 | TahaDouaji/detr-doc-table-detectionObject | UpdatedDec 6, 2024 | [Link](https://huggingface.co/TahaDouaji/detr-doc-table-detection) |
 | 32.9k | 47 | keremberke/yolov5m-license-plateObject | UpdatedJan 1, 2023 | [Link](https://huggingface.co/keremberke/yolov5m-license-plate) |
@@ -2395,6 +2403,7 @@ Updated on 2025-05-11
 | 9 | 2 | TEEN-D/TD-HallOumi-3BText | Updated3 days ago | [Link](https://huggingface.co/TEEN-D/TD-HallOumi-3B) |
 | 7 | 2 | logicalqubit/deberta-v3-large-news-classifierText | Updatedabout 9 hours ago | [Link](https://huggingface.co/logicalqubit/deberta-v3-large-news-classifier) |
 | 17 | 2 | testsavantai/prompt-injection-defender-large-v0Text | UpdatedNov 28, 2024 | [Link](https://huggingface.co/testsavantai/prompt-injection-defender-large-v0) |
+| 12 | 2 | latishab/turnsenseText | UpdatedMar 13 | [Link](https://huggingface.co/latishab/turnsense) |
 | 24 | 1 | DTAI-KULeuven/mbert-corona-tweets-belgium-topicsText | UpdatedAug 25, 2022 | [Link](https://huggingface.co/DTAI-KULeuven/mbert-corona-tweets-belgium-topics) |
 | 65.8k |  | tabularisai/multilingual-sentiment-analysisText | UpdatedJan 16 | [Link](https://huggingface.co/tabularisai/multilingual-sentiment-analysis) |
 | 1.54M |  | ProsusAI/finbertText | UpdatedMay 23, 2023 | [Link](https://huggingface.co/ProsusAI/finbert) |
@@ -2845,6 +2854,7 @@ Updated on 2025-05-11
 | 8.52k | 350 | fofr/sdxl-emojiText-to-Image | UpdatedJun 27, 2024 | [Link](https://huggingface.co/fofr/sdxl-emoji) |
 | 15.3k | 254 | InstantX/FLUX | UpdatedNov 23, 2024 | [Link](https://huggingface.co/InstantX/FLUX.1-dev-IP-Adapter) |
 | 37.6k | 156 | tianweiy/DMD2Text-to-Image | UpdatedJun 11, 2024 | [Link](https://huggingface.co/tianweiy/DMD2) |
+| 8.76k | 66 | Freepik/flux | UpdatedDec 30, 2024 | [Link](https://huggingface.co/Freepik/flux.1-lite-8B) |
 | 36 | 51 | THUDM/CogView4-6BText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/THUDM/CogView4-6B) |
 | 87 | 44 | Freepik/F-LiteText-to-Image | Updatedabout 15 hours ago | [Link](https://huggingface.co/Freepik/F-Lite) |
 | 2.23k | 42 | aoxo/flux | Updatedabout 2 hours ago | [Link](https://huggingface.co/aoxo/flux.1dev-abliteratedv2) |
@@ -3838,6 +3848,7 @@ Updated on 2025-05-11
 | 90.1k |  | Salesforce/blip-vqa-capfilt-largeVisual | UpdatedFeb 3 | [Link](https://huggingface.co/Salesforce/blip-vqa-capfilt-large) |
 | 2 | Unknown | AXERA-TECH/InternVL3-2BVisual | Updatedabout 3 hours ago | [Link](https://huggingface.co/AXERA-TECH/InternVL3-2B) |
 | 1 | Unknown | xinyiW915/ReLaX-VQAVisual | UpdatedMar 27 | [Link](https://huggingface.co/xinyiW915/ReLaX-VQA) |
+| 47 | Unknown | DAMO-NLP-SG/Video-LLaMA-SeriesVisual | UpdatedJun 10, 2023 | [Link](https://huggingface.co/DAMO-NLP-SG/Video-LLaMA-Series) |
 
 ## Voice Activity Detection
 
