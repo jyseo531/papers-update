@@ -7,10 +7,10 @@
 |**2025-05-08**|**Conversational Process Model Redesign**|Nataliia Klievtsova et.al.|[2505.05453v1](http://arxiv.org/abs/2505.05453v1)|**2025-05-08**|null|
 |**2025-05-08**|**The Brownian marble**|Samuel G. G. Johnston et.al.|[2505.05451v1](http://arxiv.org/abs/2505.05451v1)|**2025-05-08**|null|
 |**2025-05-08**|**Density modulated star formation efficiency: implications for the observed abundance of ultra-violet luminous galaxies at z>10**|Rachel S. Somerville et.al.|[2505.05442v1](http://arxiv.org/abs/2505.05442v1)|**2025-05-08**|null|
-|**2025-05-08**|**EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**|Biao Yi et.al.|[2505.05440v1](http://arxiv.org/abs/2505.05440v1)|**2025-05-08**|null|
+|**2025-05-08**|**EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**|Biao Yi et.al.|[2505.05440v2](http://arxiv.org/abs/2505.05440v2)|**2025-05-09**|null|
 |**2025-05-08**|**Asymmetric decay of quantum many-body scars in XYZ quantum spin chains**|Dhiman Bhowmick et.al.|[2505.05435v1](http://arxiv.org/abs/2505.05435v1)|**2025-05-08**|null|
 |**2025-05-08**|**On differentiation of integrals in Lebesgue spaces**|Marco Fraccaroli et.al.|[2505.05425v1](http://arxiv.org/abs/2505.05425v1)|**2025-05-08**|null|
-|**2025-05-08**|**TransProQA: an LLM-based literary Translation evaluation metric with Professional Question Answering**|Ran Zhang et.al.|[2505.05423v1](http://arxiv.org/abs/2505.05423v1)|**2025-05-08**|null|
+|**2025-05-08**|**LiTransProQA: an LLM-based Literary Translation evaluation metric with Professional Question Answering**|Ran Zhang et.al.|[2505.05423v2](http://arxiv.org/abs/2505.05423v2)|**2025-05-09**|[link](https://github.com/zhangr2021/TransProQA)|
 |**2025-05-08**|**Coordinating Drop-Off Locations and Pickup Routes: A Budget-Constrained Routing Perspective**|Maria Albareda-Sambola et.al.|[2505.05418v1](http://arxiv.org/abs/2505.05418v1)|**2025-05-08**|null|
 |**2025-05-08**|**DPQ-HD: Post-Training Compression for Ultra-Low Power Hyperdimensional Computing**|Nilesh Prasad Pandey et.al.|[2505.05413v1](http://arxiv.org/abs/2505.05413v1)|**2025-05-08**|null|
 |**2025-05-08**|**Frame In, Frame Out: Do LLMs Generate More Biased News Headlines than Humans?**|Valeria Pastorino et.al.|[2505.05406v1](http://arxiv.org/abs/2505.05406v1)|**2025-05-08**|null|
@@ -19,7 +19,7 @@
 |**2025-05-08**|**PillarMamba: Learning Local-Global Context for Roadside Point Cloud via Hybrid State Space Model**|Zhang Zhang et.al.|[2505.05397v1](http://arxiv.org/abs/2505.05397v1)|**2025-05-08**|null|
 |**2025-05-08**|**EDmamba: A Simple yet Effective Event Denoising Method with State Space Model**|Ciyu Ruan et.al.|[2505.05391v1](http://arxiv.org/abs/2505.05391v1)|**2025-05-08**|null|
 |**2025-05-08**|**Salt-induced gelation of nonionic sucrose ester dispersions**|Diana Cholakova et.al.|[2505.05377v1](http://arxiv.org/abs/2505.05377v1)|**2025-05-08**|null|
-|**2025-05-08**|**Fourier-based Inversion of Partial X-ray Transforms in $n$ Dimensions**|Murdock G. Grewar et.al.|[2505.05372v1](http://arxiv.org/abs/2505.05372v1)|**2025-05-08**|null|
+|**2025-05-08**|**Fourier-based Inversion of Partial X-ray Transforms in n Dimensions**|Murdock G. Grewar et.al.|[2505.05372v2](http://arxiv.org/abs/2505.05372v2)|**2025-05-09**|null|
 |**2025-05-08**|**From Sleep Staging to Spindle Detection: Evaluating End-to-End Automated Sleep Analysis**|Niklas Grieger et.al.|[2505.05371v1](http://arxiv.org/abs/2505.05371v1)|**2025-05-08**|null|
 |**2025-05-08**|**SDR-RDMA: Software-Defined Reliability Architecture for Planetary Scale RDMA Communication**|Mikhail Khalilov et.al.|[2505.05366v1](http://arxiv.org/abs/2505.05366v1)|**2025-05-08**|null|
 |**2025-05-08**|**On increasing sequences formed by points from a random finite subset of a hypercube**|Boris Pittel et.al.|[2505.05365v1](http://arxiv.org/abs/2505.05365v1)|**2025-05-08**|null|

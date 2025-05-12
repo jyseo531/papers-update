@@ -23,7 +23,7 @@
 |**2025-05-08**|**RepSNet: A Nucleus Instance Segmentation model based on Boundary Regression and Structural Re-parameterization**|Shengchun Xiong et.al.|[2505.05073v1](http://arxiv.org/abs/2505.05073v1)|**2025-05-08**|null|
 |**2025-05-08**|**FG-CLIP: Fine-Grained Visual and Textual Alignment**|Chunyu Xie et.al.|[2505.05071v1](http://arxiv.org/abs/2505.05071v1)|**2025-05-08**|null|
 |**2025-05-08**|**WaterDrum: Watermarking for Data-centric Unlearning Metric**|Xinyang Lu et.al.|[2505.05064v1](http://arxiv.org/abs/2505.05064v1)|**2025-05-08**|[link](https://github.com/lululu008/waterdrum)|
-|**2025-05-08**|**UncertainSAM: Fast and Efficient Uncertainty Quantification of the Segment Anything Model**|Timo Kaiser et.al.|[2505.05049v1](http://arxiv.org/abs/2505.05049v1)|**2025-05-08**|null|
+|**2025-05-08**|**UncertainSAM: Fast and Efficient Uncertainty Quantification of the Segment Anything Model**|Timo Kaiser et.al.|[2505.05049v2](http://arxiv.org/abs/2505.05049v2)|**2025-05-09**|[link](https://github.com/GreenAutoML4FAS/UncertainSAM)|
 |**2025-05-08**|**ADNP-15: An Open-Source Histopathological Dataset for Neuritic Plaque Segmentation in Human Brain Whole Slide Images with Frequency Domain Image Enhancement for Stain Normalization**|Chenxi Zhao et.al.|[2505.05041v1](http://arxiv.org/abs/2505.05041v1)|**2025-05-08**|null|
 |**2025-05-08**|**Split Matching for Inductive Zero-shot Semantic Segmentation**|Jialei Chen et.al.|[2505.05023v1](http://arxiv.org/abs/2505.05023v1)|**2025-05-08**|null|
 |**2025-05-08**|**Diffusion-enabled Secure Semantic Communication Against Eavesdropping**|Boxiang He et.al.|[2505.05018v1](http://arxiv.org/abs/2505.05018v1)|**2025-05-08**|null|

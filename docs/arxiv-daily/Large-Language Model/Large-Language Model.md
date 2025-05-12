@@ -26,7 +26,7 @@
 |**2025-05-08**|**Dualité étale à la Poitou-Tate pour les tores sur des variétés définies sur un corps fini**|Melvyn El Kamel-Meyrigne et.al.|[2505.05443v1](http://arxiv.org/abs/2505.05443v1)|**2025-05-08**|null|
 |**2025-05-08**|**Density modulated star formation efficiency: implications for the observed abundance of ultra-violet luminous galaxies at z>10**|Rachel S. Somerville et.al.|[2505.05442v1](http://arxiv.org/abs/2505.05442v1)|**2025-05-08**|null|
 |**2025-05-08**|**GesPrompt: Leveraging Co-Speech Gestures to Augment LLM-Based Interaction in Virtual Reality**|Xiyun Hu et.al.|[2505.05441v1](http://arxiv.org/abs/2505.05441v1)|**2025-05-08**|null|
-|**2025-05-08**|**EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**|Biao Yi et.al.|[2505.05440v1](http://arxiv.org/abs/2505.05440v1)|**2025-05-08**|null|
+|**2025-05-08**|**EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**|Biao Yi et.al.|[2505.05440v2](http://arxiv.org/abs/2505.05440v2)|**2025-05-09**|null|
 |**2025-05-08**|**Scalable Bernoulli factories for Bayesian inference with intractable likelihoods**|Timothée Stumpf-Fétizon et.al.|[2505.05438v1](http://arxiv.org/abs/2505.05438v1)|**2025-05-08**|null|
 |**2025-05-08**|**Cell size heterogeneity controls crystallization of the developing fruit fly wing**|Kartik Chhajed et.al.|[2505.05437v1](http://arxiv.org/abs/2505.05437v1)|**2025-05-08**|null|
 |**2025-05-08**|**The effective energy of a lattice metamaterial**|Xuenan Li et.al.|[2505.05436v1](http://arxiv.org/abs/2505.05436v1)|**2025-05-08**|null|

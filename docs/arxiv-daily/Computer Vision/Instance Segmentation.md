@@ -17,12 +17,12 @@
 |**2025-05-08**|**MDE-Edit: Masked Dual-Editing for Multi-Object Image Editing via Diffusion Models**|Hongyang Zhu et.al.|[2505.05101v1](http://arxiv.org/abs/2505.05101v1)|**2025-05-08**|null|
 |**2025-05-08**|**Visual Affordances: Enabling Robots to Understand Object Functionality**|Tommaso Apicella et.al.|[2505.05074v1](http://arxiv.org/abs/2505.05074v1)|**2025-05-08**|null|
 |**2025-05-08**|**RepSNet: A Nucleus Instance Segmentation model based on Boundary Regression and Structural Re-parameterization**|Shengchun Xiong et.al.|[2505.05073v1](http://arxiv.org/abs/2505.05073v1)|**2025-05-08**|null|
-|**2025-05-08**|**UncertainSAM: Fast and Efficient Uncertainty Quantification of the Segment Anything Model**|Timo Kaiser et.al.|[2505.05049v1](http://arxiv.org/abs/2505.05049v1)|**2025-05-08**|null|
+|**2025-05-08**|**UncertainSAM: Fast and Efficient Uncertainty Quantification of the Segment Anything Model**|Timo Kaiser et.al.|[2505.05049v2](http://arxiv.org/abs/2505.05049v2)|**2025-05-09**|[link](https://github.com/GreenAutoML4FAS/UncertainSAM)|
 |**2025-05-08**|**ADNP-15: An Open-Source Histopathological Dataset for Neuritic Plaque Segmentation in Human Brain Whole Slide Images with Frequency Domain Image Enhancement for Stain Normalization**|Chenxi Zhao et.al.|[2505.05041v1](http://arxiv.org/abs/2505.05041v1)|**2025-05-08**|null|
 |**2025-05-08**|**Split Matching for Inductive Zero-shot Semantic Segmentation**|Jialei Chen et.al.|[2505.05023v1](http://arxiv.org/abs/2505.05023v1)|**2025-05-08**|null|
 |**2025-05-08**|**Automated Thoracolumbar Stump Rib Detection and Analysis in a Large CT Cohort**|Hendrik Möller et.al.|[2505.05004v1](http://arxiv.org/abs/2505.05004v1)|**2025-05-08**|null|
 |**2025-05-08**|**ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis**|Onkar Susladkar et.al.|[2505.04963v1](http://arxiv.org/abs/2505.04963v1)|**2025-05-08**|null|
-|**2025-05-08**|**The Poisson tensor completion non-parametric differential entropy estimator**|Daniel M. Dunlavy et.al.|[2505.04957v1](http://arxiv.org/abs/2505.04957v1)|**2025-05-08**|null|
+|**2025-05-08**|**The Poisson tensor completion non-parametric differential entropy estimator**|Daniel M. Dunlavy et.al.|[2505.04957v2](http://arxiv.org/abs/2505.04957v2)|**2025-05-09**|null|
 |**2025-05-08**|**Building-Guided Pseudo-Label Learning for Cross-Modal Building Damage Mapping**|Jiepan Li et.al.|[2505.04941v1](http://arxiv.org/abs/2505.04941v1)|**2025-05-08**|null|
 |**2025-05-08**|**VaCDA: Variational Contrastive Alignment-based Scalable Human Activity Recognition**|Soham Khisa et.al.|[2505.04907v1](http://arxiv.org/abs/2505.04907v1)|**2025-05-08**|null|
 |**2025-05-08**|**Pro2SAM: Mask Prompt to SAM with Grid Points for Weakly Supervised Object Localization**|Xi Yang et.al.|[2505.04905v1](http://arxiv.org/abs/2505.04905v1)|**2025-05-08**|null|

@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-05-11
+Updated on 2025-05-12
 
 > Generated from the Hugging Face database.
 
@@ -305,6 +305,7 @@ Updated on 2025-05-11
 | 2.33k | 12 | argmaxinc/whisperkit-proAutomatic | UpdatedJan 13 | [Link](https://huggingface.co/argmaxinc/whisperkit-pro) |
 | 3.53k | 12 | MERaLiON/MERaLiON-AudioLLM-Whisper-SEA-LIONAutomatic | Updated3 days ago | [Link](https://huggingface.co/MERaLiON/MERaLiON-AudioLLM-Whisper-SEA-LION) |
 | 6.1M | 12 | jonatasgrosman/wav2vec2-large-xlsr-53-dutchAutomatic | UpdatedDec 14, 2022 | [Link](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-dutch) |
+| 5.83k | 12 | nvidia/parakeet-ctc-0 | UpdatedAug 22, 2024 | [Link](https://huggingface.co/nvidia/parakeet-ctc-0.6b) |
 | 419 | 11 | FireRedTeam/FireRedASR-LLM-LAutomatic | Updated13 days ago | [Link](https://huggingface.co/FireRedTeam/FireRedASR-LLM-L) |
 | 37 | 11 | DataoceanAI/dolphin-smallAutomatic | Updated6 days ago | [Link](https://huggingface.co/DataoceanAI/dolphin-small) |
 | 3.15k | 10 | speechbrain/asr-streaming-conformer-librispeechAutomatic | UpdatedApr 15, 2024 | [Link](https://huggingface.co/speechbrain/asr-streaming-conformer-librispeech) |
@@ -904,6 +905,7 @@ Updated on 2025-05-11
 | 5 | 2 | prithivMLmods/BnW-vs-Colored-DetectionImage | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/BnW-vs-Colored-Detection) |
 | 24 | 2 | prithivMLmods/siglip2-x256-explicit-contentImage | Updated9 days ago | [Link](https://huggingface.co/prithivMLmods/siglip2-x256-explicit-content) |
 | 7 | 2 | prithivMLmods/Realistic-Gender-ClassificationImage | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/Realistic-Gender-Classification) |
+| 3 | 2 | prithivMLmods/Bone-Fracture-DetectionImage | Updated2 days ago | [Link](https://huggingface.co/prithivMLmods/Bone-Fracture-Detection) |
 | 1.55k | 1 | microsoft/swin-small-patch4-window7-224Image | UpdatedMay 16, 2022 | [Link](https://huggingface.co/microsoft/swin-small-patch4-window7-224) |
 | 34 | 1 | microsoft/beit-large-patch16-384Image | UpdatedJan 28, 2022 | [Link](https://huggingface.co/microsoft/beit-large-patch16-384) |
 | 60.6M |  | Falconsai/nsfw_image_detectionImage | UpdatedDec 6, 2023 | [Link](https://huggingface.co/Falconsai/nsfw_image_detection) |
@@ -2376,6 +2378,7 @@ Updated on 2025-05-11
 | 16 | 4 | p1atdev/saikyou-shield-30mText | Updatedabout 18 hours ago | [Link](https://huggingface.co/p1atdev/saikyou-shield-30m) |
 | 399k | 4 | Elron/bleurt-tiny-512Text | UpdatedNov 26, 2022 | [Link](https://huggingface.co/Elron/bleurt-tiny-512) |
 | 80 | 4 | Hate-speech-CNERG/dehatebert-mono-frenchText | UpdatedSep 25, 2021 | [Link](https://huggingface.co/Hate-speech-CNERG/dehatebert-mono-french) |
+| 74 | 4 | srimeenakshiks/aspect-based-sentiment-analyzer-using-bertText | UpdatedApr 4 | [Link](https://huggingface.co/srimeenakshiks/aspect-based-sentiment-analyzer-using-bert) |
 | 538 | 3 | scb10x/typhoon2-safety-previewText | UpdatedDec 20, 2024 | [Link](https://huggingface.co/scb10x/typhoon2-safety-preview) |
 | 219 | 3 | borisn70/bert-43-multilabel-emotion-detectionText | UpdatedApr 15, 2024 | [Link](https://huggingface.co/borisn70/bert-43-multilabel-emotion-detection) |
 | 15 | 3 | hkust-nlp/preselect-fasttext-classifierText | Updatedabout 10 hours ago | [Link](https://huggingface.co/hkust-nlp/preselect-fasttext-classifier) |
@@ -2859,6 +2862,7 @@ Updated on 2025-05-11
 | 87 | 44 | Freepik/F-LiteText-to-Image | Updatedabout 15 hours ago | [Link](https://huggingface.co/Freepik/F-Lite) |
 | 2.23k | 42 | aoxo/flux | Updatedabout 2 hours ago | [Link](https://huggingface.co/aoxo/flux.1dev-abliteratedv2) |
 | 5.59k | 33 | hashu786/HYVRewardText-to-Image | Updated5 days ago | [Link](https://huggingface.co/hashu786/HYVReward) |
+| 2.49k | 33 | Heartsync/NSFW-UncensoredText-to-Image | Updated7 days ago | [Link](https://huggingface.co/Heartsync/NSFW-Uncensored) |
 | 5.26k | 20 | mit-han-lab/svdq-int4-flux | Updated22 days ago | [Link](https://huggingface.co/mit-han-lab/svdq-int4-flux.1-dev) |
 | 2 | 20 | HiDream-ai/HiDream-I1-FullText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/HiDream-ai/HiDream-I1-Full) |
 | 59 | 17 | HiDream-ai/HiDream-I1-DevText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/HiDream-ai/HiDream-I1-Dev) |
@@ -3503,6 +3507,7 @@ Updated on 2025-05-11
 | 364 | 13 | Helsinki-NLP/opus-mt-tc-big-ko-enTranslation | UpdatedOct 10, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-tc-big-ko-en) |
 | 5 | 11 | erax-ai/EraX-Translator-V1 | Updated15 minutes ago | [Link](https://huggingface.co/erax-ai/EraX-Translator-V1.0) |
 | 325 | 10 | rudrashah/RLM-hinglish-translatorTranslation | Updated23 days ago | [Link](https://huggingface.co/rudrashah/RLM-hinglish-translator) |
+| 14.4k | 9 | Helsinki-NLP/opus-mt-en-japTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-en-jap) |
 | 39 | 6 | huggingface-course/marian-finetuned-kde4-en-to-frTranslation | UpdatedNov 11, 2021 | [Link](https://huggingface.co/huggingface-course/marian-finetuned-kde4-en-to-fr) |
 | 164 | 5 | webbigdata/gemma-2-2b-jpn-it-translateTranslation | UpdatedOct 22, 2024 | [Link](https://huggingface.co/webbigdata/gemma-2-2b-jpn-it-translate) |
 | 115 | 5 | lmg-anon/vntl-llama3-8b-v2-ggufTranslation | UpdatedJan 2 | [Link](https://huggingface.co/lmg-anon/vntl-llama3-8b-v2-gguf) |

@@ -12,7 +12,7 @@
 |**2025-05-08**|**The effective energy of a lattice metamaterial**|Xuenan Li et.al.|[2505.05436v1](http://arxiv.org/abs/2505.05436v1)|**2025-05-08**|null|
 |**2025-05-08**|**Theoretical modeling of approximate universality of tidally deformed neutron stars**|Takuya Katagiri et.al.|[2505.05429v1](http://arxiv.org/abs/2505.05429v1)|**2025-05-08**|null|
 |**2025-05-08**|**Ultra-FineWeb: Efficient Data Filtering and Verification for High-Quality LLM Training Data**|Yudong Wang et.al.|[2505.05427v1](http://arxiv.org/abs/2505.05427v1)|**2025-05-08**|null|
-|**2025-05-08**|**TransProQA: an LLM-based literary Translation evaluation metric with Professional Question Answering**|Ran Zhang et.al.|[2505.05423v1](http://arxiv.org/abs/2505.05423v1)|**2025-05-08**|null|
+|**2025-05-08**|**LiTransProQA: an LLM-based Literary Translation evaluation metric with Professional Question Answering**|Ran Zhang et.al.|[2505.05423v2](http://arxiv.org/abs/2505.05423v2)|**2025-05-09**|[link](https://github.com/zhangr2021/TransProQA)|
 |**2025-05-08**|**Robustly optimal dynamics for active matter reservoir computing**|Mario U. Gaimann et.al.|[2505.05420v1](http://arxiv.org/abs/2505.05420v1)|**2025-05-08**|null|
 |**2025-05-08**|**DPQ-HD: Post-Training Compression for Ultra-Low Power Hyperdimensional Computing**|Nilesh Prasad Pandey et.al.|[2505.05413v1](http://arxiv.org/abs/2505.05413v1)|**2025-05-08**|null|
 |**2025-05-08**|**Crosslingual Reasoning through Test-Time Scaling**|Zheng-Xin Yong et.al.|[2505.05408v1](http://arxiv.org/abs/2505.05408v1)|**2025-05-08**|null|
@@ -23,7 +23,7 @@
 |**2025-05-08**|**Robust Online Learning with Private Information**|Kyohei Okumura et.al.|[2505.05341v1](http://arxiv.org/abs/2505.05341v1)|**2025-05-08**|null|
 |**2025-05-08**|**Scalable Chain of Thoughts via Elastic Reasoning**|Yuhui Xu et.al.|[2505.05315v1](http://arxiv.org/abs/2505.05315v1)|**2025-05-08**|null|
 |**2025-05-08**|**A comparative analysis of GNSS-inferred precipitable water vapour at the potential sites for the Africa Millimetre Telescope**|Lott Frans et.al.|[2505.05310v1](http://arxiv.org/abs/2505.05310v1)|**2025-05-08**|null|
-|**2025-05-08**|**The calculus of neo-Peircean relations**|Filippo Bonchi et.al.|[2505.05306v1](http://arxiv.org/abs/2505.05306v1)|**2025-05-08**|null|
+|**2025-05-08**|**The calculus of neo-Peircean relations**|Filippo Bonchi et.al.|[2505.05306v2](http://arxiv.org/abs/2505.05306v2)|**2025-05-09**|null|
 |**2025-05-08**|**HEXGEN-TEXT2SQL: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL Workflow**|You Peng et.al.|[2505.05286v1](http://arxiv.org/abs/2505.05286v1)|**2025-05-08**|null|
 |**2025-05-08**|**A Two-Sample Test of Text Generation Similarity**|Jingbin Xu et.al.|[2505.05269v1](http://arxiv.org/abs/2505.05269v1)|**2025-05-08**|null|
 |**2025-05-08**|**Enhancing Cooperative Multi-Agent Reinforcement Learning with State Modelling and Adversarial Exploration**|Andreas Kontogiannis et.al.|[2505.05262v1](http://arxiv.org/abs/2505.05262v1)|**2025-05-08**|null|

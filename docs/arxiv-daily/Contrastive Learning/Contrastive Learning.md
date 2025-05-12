@@ -24,7 +24,7 @@
 |**2025-05-08**|**A Pain Assessment Framework based on multimodal data and Deep Machine Learning methods**|Stefanos Gkikas et.al.|[2505.05396v1](http://arxiv.org/abs/2505.05396v1)|**2025-05-08**|null|
 |**2025-05-08**|**Machine learning model for efficient nonthermal tuning of the charge density wave in monolayer NbSe$_2$**|Luka Benić et.al.|[2505.05384v1](http://arxiv.org/abs/2505.05384v1)|**2025-05-08**|null|
 |**2025-05-08**|**Denoising Diffusion Probabilistic Models for Coastal Inundation Forecasting**|Kazi Ashik Islam et.al.|[2505.05381v1](http://arxiv.org/abs/2505.05381v1)|**2025-05-08**|null|
-|**2025-05-08**|**Threshold Modulation for Online Test-Time Adaptation of Spiking Neural Networks**|Kejie Zhao et.al.|[2505.05375v1](http://arxiv.org/abs/2505.05375v1)|**2025-05-08**|[link](https://github.com/nneurotransmitterr/tm-otta-snn)|
+|**2025-05-08**|**Threshold Modulation for Online Test-Time Adaptation of Spiking Neural Networks**|Kejie Zhao et.al.|[2505.05375v2](http://arxiv.org/abs/2505.05375v2)|**2025-05-09**|[link](https://github.com/nneurotransmitterr/tm-otta-snn)|
 |**2025-05-08**|**OcularAge: A Comparative Study of Iris and Periocular Images for Pediatric Age Estimation**|Naveenkumar G Venkataswamy et.al.|[2505.05374v1](http://arxiv.org/abs/2505.05374v1)|**2025-05-08**|null|
 |**2025-05-08**|**From Sleep Staging to Spindle Detection: Evaluating End-to-End Automated Sleep Analysis**|Niklas Grieger et.al.|[2505.05371v1](http://arxiv.org/abs/2505.05371v1)|**2025-05-08**|null|
 |**2025-05-08**|**Machine learning bridging battery field data and laboratory data**|Yanbin Zhao et.al.|[2505.05364v1](http://arxiv.org/abs/2505.05364v1)|**2025-05-08**|null|

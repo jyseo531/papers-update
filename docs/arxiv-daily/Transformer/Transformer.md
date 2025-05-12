@@ -14,7 +14,7 @@
 |**2025-05-08**|**EDmamba: A Simple yet Effective Event Denoising Method with State Space Model**|Ciyu Ruan et.al.|[2505.05391v1](http://arxiv.org/abs/2505.05391v1)|**2025-05-08**|null|
 |**2025-05-08**|**On the Multiangle Discrete Fractional Fourier Transform**|Christian Oswald et.al.|[2505.05388v1](http://arxiv.org/abs/2505.05388v1)|**2025-05-08**|null|
 |**2025-05-08**|**Unconventional magnetoresistance and spin gapless semiconductor like behavior across the Martensitic transformation in off-stoichiometric Co-Fe-Ti-Si Heusler alloy thin films**|Mainur Rahaman et.al.|[2505.05379v1](http://arxiv.org/abs/2505.05379v1)|**2025-05-08**|null|
-|**2025-05-08**|**Fourier-based Inversion of Partial X-ray Transforms in $n$ Dimensions**|Murdock G. Grewar et.al.|[2505.05372v1](http://arxiv.org/abs/2505.05372v1)|**2025-05-08**|null|
+|**2025-05-08**|**Fourier-based Inversion of Partial X-ray Transforms in n Dimensions**|Murdock G. Grewar et.al.|[2505.05372v2](http://arxiv.org/abs/2505.05372v2)|**2025-05-09**|null|
 |**2025-05-08**|**Normalized solutions for the nonlinear Schrödinger equation with potential: the purely Sobolev critical case**|Gianmaria Verzini et.al.|[2505.05357v1](http://arxiv.org/abs/2505.05357v1)|**2025-05-08**|null|
 |**2025-05-08**|**Progressive Inertial Poser: Progressive Real-Time Kinematic Chain Estimation for 3D Full-Body Pose from Three IMU Sensors**|Zunjie Zhu et.al.|[2505.05336v1](http://arxiv.org/abs/2505.05336v1)|**2025-05-08**|null|
 |**2025-05-08**|**Regularity estimates of fractional heat semigroups related with uniformly elliptic operators**|Honglei Shi et.al.|[2505.05333v1](http://arxiv.org/abs/2505.05333v1)|**2025-05-08**|[link](https://github.com/Shi-honglei/elliptic-operators-2025)|
