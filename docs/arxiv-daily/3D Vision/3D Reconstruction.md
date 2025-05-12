@@ -2,33 +2,33 @@
 ### 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-08**|**SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**|Yonwoo Choi et.al.|[2505.05475v1](http://arxiv.org/abs/2505.05475v1)|**2025-05-08**|[link](https://github.com/yc4ny/SVAD)|
-|**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474v1](http://arxiv.org/abs/2505.05474v1)|**2025-05-08**|[link](https://github.com/hzxie/awesome-3d-scene-generation)|
-|**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473v1](http://arxiv.org/abs/2505.05473v1)|**2025-05-08**|null|
-|**2025-05-08**|**Generating Physically Stable and Buildable LEGO Designs from Text**|Ava Pun et.al.|[2505.05469v1](http://arxiv.org/abs/2505.05469v1)|**2025-05-08**|[link](https://github.com/AvaLovelace1/LegoGPT)|
-|**2025-05-08**|**GesPrompt: Leveraging Co-Speech Gestures to Augment LLM-Based Interaction in Virtual Reality**|Xiyun Hu et.al.|[2505.05441v1](http://arxiv.org/abs/2505.05441v1)|**2025-05-08**|null|
-|**2025-05-08**|**Boundary Energy-Momentum Tensors for Asymptotically Flat Spacetimes**|Jelle Hartong et.al.|[2505.05432v1](http://arxiv.org/abs/2505.05432v1)|**2025-05-08**|null|
-|**2025-05-08**|**Quantum Simulation of Dynamical Response Functions of Equilibrium States**|Esther Cruz et.al.|[2505.05411v1](http://arxiv.org/abs/2505.05411v1)|**2025-05-08**|null|
-|**2025-05-08**|**Representing spherical tensors with scalar-based machine-learning models**|Michelangelo Domina et.al.|[2505.05404v1](http://arxiv.org/abs/2505.05404v1)|**2025-05-08**|null|
-|**2025-05-08**|**Scheimpflug cameras for range-resolved observations of the atmospheric effects on laser propagation**|Nathan Meraz et.al.|[2505.05399v1](http://arxiv.org/abs/2505.05399v1)|**2025-05-08**|null|
-|**2025-05-08**|**PillarMamba: Learning Local-Global Context for Roadside Point Cloud via Hybrid State Space Model**|Zhang Zhang et.al.|[2505.05397v1](http://arxiv.org/abs/2505.05397v1)|**2025-05-08**|null|
-|**2025-05-08**|**GeomHair: Reconstruction of Hair Strands from Colorless 3D Scans**|Rachmadio Noval Lazuardi et.al.|[2505.05376v1](http://arxiv.org/abs/2505.05376v1)|**2025-05-08**|null|
-|**2025-05-08**|**Fourier-based Inversion of Partial X-ray Transforms in n Dimensions**|Murdock G. Grewar et.al.|[2505.05372v2](http://arxiv.org/abs/2505.05372v2)|**2025-05-09**|null|
-|**2025-05-08**|**Finite element approximation for quantitative photoacoustic tomography in a diffusive regime**|Giovanni S. Alberti et.al.|[2505.05361v1](http://arxiv.org/abs/2505.05361v1)|**2025-05-08**|null|
-|**2025-05-08**|**Time of the Flight of the Gaussians: Optimizing Depth Indirectly in Dynamic Radiance Fields**|Runfeng Li et.al.|[2505.05356v1](http://arxiv.org/abs/2505.05356v1)|**2025-05-08**|null|
-|**2025-05-08**|**Progressive Inertial Poser: Progressive Real-Time Kinematic Chain Estimation for 3D Full-Body Pose from Three IMU Sensors**|Zunjie Zhu et.al.|[2505.05336v1](http://arxiv.org/abs/2505.05336v1)|**2025-05-08**|null|
-|**2025-05-08**|**SmartTrap: Automated Precision Experiments with Optical Tweezers**|Martin Selin et.al.|[2505.05290v1](http://arxiv.org/abs/2505.05290v1)|**2025-05-08**|null|
-|**2025-05-08**|**PlaceIt3D: Language-Guided Object Placement in Real 3D Scenes**|Ahmed Abdelreheem et.al.|[2505.05288v1](http://arxiv.org/abs/2505.05288v1)|**2025-05-08**|null|
-|**2025-05-08**|**Strong tunability of epitaxial relationship and reconstruction at improper ferroelectric interface**|Xin Li et.al.|[2505.05265v1](http://arxiv.org/abs/2505.05265v1)|**2025-05-08**|null|
-|**2025-05-08**|**A new paradigm for computing hydrodynamic forces on particles in Euler-Lagrange point-particle simulations**|Berend van Wachem et.al.|[2505.05255v1](http://arxiv.org/abs/2505.05255v1)|**2025-05-08**|null|
-|**2025-05-08**|**Three dimensional seepage analysis using a polyhedral scaled boundary finite element method**|Mingjiao Yan et.al.|[2505.05244v1](http://arxiv.org/abs/2505.05244v1)|**2025-05-08**|null|
-|**2025-05-08**|**Planar fault-tolerant circuits for non-Clifford gates on the 2D color code**|Andreas Bauer et.al.|[2505.05175v1](http://arxiv.org/abs/2505.05175v1)|**2025-05-08**|null|
-|**2025-05-08**|**Probabilistic Embeddings for Frozen Vision-Language Models: Uncertainty Quantification with Gaussian Process Latent Variable Models**|Aishwarya Venkataramanan et.al.|[2505.05163v1](http://arxiv.org/abs/2505.05163v1)|**2025-05-08**|null|
-|**2025-05-08**|**On an inverse problem in photoacoustic**|M. I. Belishev et.al.|[2505.05146v1](http://arxiv.org/abs/2505.05146v1)|**2025-05-08**|null|
-|**2025-05-08**|**Research on Anomaly Detection Methods Based on Diffusion Models**|Yi Chen et.al.|[2505.05137v1](http://arxiv.org/abs/2505.05137v1)|**2025-05-08**|null|
-|**2025-05-08**|**Automated vision-based assistance tools in bronchoscopy: stenosis severity estimation**|Clara Tomasini et.al.|[2505.05136v1](http://arxiv.org/abs/2505.05136v1)|**2025-05-08**|null|
-|**2025-05-08**|**Constraints Preserving Lax-Wendroff Flux Reconstruction for Relativistic Hydrodynamics with General Equations of State**|Sujoy Basak et.al.|[2505.05128v1](http://arxiv.org/abs/2505.05128v1)|**2025-05-08**|null|
-|**2025-05-08**|**Stability analysis of an inverse coefficients problem in a system of partial differential equations**|Houcine Meftahi et.al.|[2505.05116v1](http://arxiv.org/abs/2505.05116v1)|**2025-05-08**|null|
-|**2025-05-08**|**The negative symmetry classification problem**|M. P. Kolesnikov et.al.|[2505.05096v1](http://arxiv.org/abs/2505.05096v1)|**2025-05-08**|null|
-|**2025-05-08**|**ItDPDM: Information-Theoretic Discrete Poisson Diffusion Model**|Sagnik Bhattacharya et.al.|[2505.05082v1](http://arxiv.org/abs/2505.05082v1)|**2025-05-08**|null|
-|**2025-05-08**|**ReverbMiipher: Generative Speech Restoration meets Reverberation Characteristics Controllability**|Wataru Nakata et.al.|[2505.05077v1](http://arxiv.org/abs/2505.05077v1)|**2025-05-08**|null|
+|**2025-05-09**|**Anymate: A Dataset and Baselines for Learning 3D Object Rigging**|Yufan Deng et.al.|[2505.06227v1](http://arxiv.org/abs/2505.06227v1)|**2025-05-09**|null|
+|**2025-05-09**|**VIN-NBV: A View Introspection Network for Next-Best-View Selection for Resource-Efficient 3D Reconstruction**|Noah Frahm et.al.|[2505.06219v1](http://arxiv.org/abs/2505.06219v1)|**2025-05-09**|null|
+|**2025-05-09**|**Neuro-Symbolic Concepts**|Jiayuan Mao et.al.|[2505.06191v1](http://arxiv.org/abs/2505.06191v1)|**2025-05-09**|null|
+|**2025-05-09**|**Brain Hematoma Marker Recognition Using Multitask Learning: SwinTransformer and Swin-Unet**|Kodai Hirata et.al.|[2505.06185v1](http://arxiv.org/abs/2505.06185v1)|**2025-05-09**|null|
+|**2025-05-09**|**Active Perception for Tactile Sensing: A Task-Agnostic Attention-Based Approach**|Tim Schneider et.al.|[2505.06182v1](http://arxiv.org/abs/2505.06182v1)|**2025-05-09**|null|
+|**2025-05-09**|**DiffLocks: Generating 3D Hair from a Single Image using Diffusion Models**|Radu Alexandru Rosu et.al.|[2505.06166v1](http://arxiv.org/abs/2505.06166v1)|**2025-05-09**|null|
+|**2025-05-09**|**Performance of a SiPM-based, plastic scintillator muon veto prototype for CUPID**|Maya Moore et.al.|[2505.06129v1](http://arxiv.org/abs/2505.06129v1)|**2025-05-09**|null|
+|**2025-05-09**|**S2MNet: Speckle-To-Mesh Net for Three-Dimensional Cardiac Morphology Reconstruction via Echocardiogram**|Xilin Gong et.al.|[2505.06105v1](http://arxiv.org/abs/2505.06105v1)|**2025-05-09**|null|
+|**2025-05-09**|**Fault Diagnosis of 3D-Printed Scaled Wind Turbine Blades**|Luis Miguel Esquivel-Sancho et.al.|[2505.06080v1](http://arxiv.org/abs/2505.06080v1)|**2025-05-09**|null|
+|**2025-05-09**|**Smooth optimization algorithms for global and locally low-rank regularizers**|Rodrigo A. Lobos et.al.|[2505.06073v1](http://arxiv.org/abs/2505.06073v1)|**2025-05-09**|null|
+|**2025-05-09**|**Learning Dynamical Systems with the Spectral Exterior Calculus**|Suddhasattwa Das et.al.|[2505.06061v1](http://arxiv.org/abs/2505.06061v1)|**2025-05-09**|null|
+|**2025-05-09**|**Document Image Rectification Bases on Self-Adaptive Multitask Fusion**|Heng Li et.al.|[2505.06038v1](http://arxiv.org/abs/2505.06038v1)|**2025-05-09**|null|
+|**2025-05-09**|**Why Are You Wrong? Counterfactual Explanations for Language Grounding with 3D Objects**|Tobias Preintner et.al.|[2505.06030v1](http://arxiv.org/abs/2505.06030v1)|**2025-05-09**|null|
+|**2025-05-09**|**P-CORONA: A New Tool for Calculating the Intensity and Polarization of Coronal Lines in 3D Models of the Solar Corona**|Supriya Hebbur Dayananda et.al.|[2505.05962v1](http://arxiv.org/abs/2505.05962v1)|**2025-05-09**|null|
+|**2025-05-09**|**Achieving 3D Attention via Triplet Squeeze and Excitation Block**|Maan Alhazmi et.al.|[2505.05943v1](http://arxiv.org/abs/2505.05943v1)|**2025-05-09**|null|
+|**2025-05-09**|**Human causal perception in a cube-stacking task**|Nikolai Bahr et.al.|[2505.05923v1](http://arxiv.org/abs/2505.05923v1)|**2025-05-09**|null|
+|**2025-05-09**|**TTNOpt: Tree tensor network package for high-rank tensor compression**|Ryo Watanabe et.al.|[2505.05908v1](http://arxiv.org/abs/2505.05908v1)|**2025-05-09**|null|
+|**2025-05-09**|**Examining the Source of Defects from a Mechanical Perspective for 3D Anomaly Detection**|Hanzhe Liang et.al.|[2505.05901v1](http://arxiv.org/abs/2505.05901v1)|**2025-05-09**|[link](https://github.com/hzzzzzhappy/mc4ad)|
+|**2025-05-09**|**Joint Reduced Model for the Laminar and Chaotic Attractors in Plane Couette Flow**|Bálint Kaszás et.al.|[2505.05881v1](http://arxiv.org/abs/2505.05881v1)|**2025-05-09**|null|
+|**2025-05-09**|**A 3D pocket-aware and evolutionary conserved interaction guided diffusion model for molecular optimization**|Anjie Qiao et.al.|[2505.05874v1](http://arxiv.org/abs/2505.05874v1)|**2025-05-09**|null|
+|**2025-05-09**|**Towards Facial Image Compression with Consistency Preserving Diffusion Prior**|Yimin Zhou et.al.|[2505.05870v1](http://arxiv.org/abs/2505.05870v1)|**2025-05-09**|null|
+|**2025-05-09**|**Decoupling Multi-Contrast Super-Resolution: Pairing Unpaired Synthesis with Implicit Representations**|Hongyu Rui et.al.|[2505.05855v1](http://arxiv.org/abs/2505.05855v1)|**2025-05-09**|null|
+|**2025-05-09**|**RefRef: A Synthetic Dataset and Benchmark for Reconstructing Refractive and Reflective Objects**|Yue Yin et.al.|[2505.05848v1](http://arxiv.org/abs/2505.05848v1)|**2025-05-09**|null|
+|**2025-05-09**|**Experimental Investigation of a Bipartite Quench in a 1D Bose gas**|Léa Dubois et.al.|[2505.05839v1](http://arxiv.org/abs/2505.05839v1)|**2025-05-09**|null|
+|**2025-05-09**|**Computational Homogenization in 3D Magnetostatics using E3C Hyper-Reduction**|Hauke Goldbeck et.al.|[2505.05836v1](http://arxiv.org/abs/2505.05836v1)|**2025-05-09**|null|
+|**2025-05-09**|**Unsupervised Anomaly Detection for Autonomous Robots via Mahalanobis SVDD with Audio-IMU Fusion**|Yizhuo Yang et.al.|[2505.05811v1](http://arxiv.org/abs/2505.05811v1)|**2025-05-09**|null|
+|**2025-05-09**|**Artificial intelligence pioneers the double-strangeness factory**|Yan He et.al.|[2505.05802v1](http://arxiv.org/abs/2505.05802v1)|**2025-05-09**|null|
+|**2025-05-09**|**Mitigating Singlet Exciton Back-Transfer using 2D Spacer Layers for Perovskite-Sensitised Upconversion**|Nicholas P. Sloane et.al.|[2505.05801v1](http://arxiv.org/abs/2505.05801v1)|**2025-05-09**|null|
+|**2025-05-09**|**3D CAVLA: Leveraging Depth and 3D Context to Generalize Vision Language Action Models for Unseen Tasks**|Vineet Bhat et.al.|[2505.05800v1](http://arxiv.org/abs/2505.05800v1)|**2025-05-09**|null|
+|**2025-05-09**|**ProTCT: Projection quantification and fidelity constraint integrated deep reconstruction for Tangential CT**|Bingan Yuan et.al.|[2505.05745v1](http://arxiv.org/abs/2505.05745v1)|**2025-05-09**|null|

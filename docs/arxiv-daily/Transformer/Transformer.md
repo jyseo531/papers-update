@@ -2,33 +2,33 @@
 ### Transformer
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473v1](http://arxiv.org/abs/2505.05473v1)|**2025-05-08**|null|
-|**2025-05-08**|**Flow-GRPO: Training Flow Matching Models via Online RL**|Jie Liu et.al.|[2505.05470v1](http://arxiv.org/abs/2505.05470v1)|**2025-05-08**|[link](https://github.com/yifan123/flow_grpo)|
-|**2025-05-08**|**StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant**|Haibo Wang et.al.|[2505.05467v1](http://arxiv.org/abs/2505.05467v1)|**2025-05-08**|null|
-|**2025-05-08**|**TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation**|Haokun Lin et.al.|[2505.05422v1](http://arxiv.org/abs/2505.05422v1)|**2025-05-08**|null|
-|**2025-05-08**|**Regularization by noise for the energy- and mass-critical nonlinear Schrödinger equations**|Martin Spitz et.al.|[2505.05421v1](http://arxiv.org/abs/2505.05421v1)|**2025-05-08**|null|
-|**2025-05-08**|**Hide & Seek: Transformer Symmetries Obscure Sharpness & Riemannian Geometry Finds It**|Marvin F. da Silva et.al.|[2505.05409v1](http://arxiv.org/abs/2505.05409v1)|**2025-05-08**|null|
-|**2025-05-08**|**Representing spherical tensors with scalar-based machine-learning models**|Michelangelo Domina et.al.|[2505.05404v1](http://arxiv.org/abs/2505.05404v1)|**2025-05-08**|null|
-|**2025-05-08**|**PillarMamba: Learning Local-Global Context for Roadside Point Cloud via Hybrid State Space Model**|Zhang Zhang et.al.|[2505.05397v1](http://arxiv.org/abs/2505.05397v1)|**2025-05-08**|null|
-|**2025-05-08**|**BraWl: Simulating the thermodynamics and phase stability of multicomponent alloys using conventional and enhanced sampling techniques**|Hubert J. Naguszewski et.al.|[2505.05393v1](http://arxiv.org/abs/2505.05393v1)|**2025-05-08**|null|
-|**2025-05-08**|**EDmamba: A Simple yet Effective Event Denoising Method with State Space Model**|Ciyu Ruan et.al.|[2505.05391v1](http://arxiv.org/abs/2505.05391v1)|**2025-05-08**|null|
-|**2025-05-08**|**On the Multiangle Discrete Fractional Fourier Transform**|Christian Oswald et.al.|[2505.05388v1](http://arxiv.org/abs/2505.05388v1)|**2025-05-08**|null|
-|**2025-05-08**|**Unconventional magnetoresistance and spin gapless semiconductor like behavior across the Martensitic transformation in off-stoichiometric Co-Fe-Ti-Si Heusler alloy thin films**|Mainur Rahaman et.al.|[2505.05379v1](http://arxiv.org/abs/2505.05379v1)|**2025-05-08**|null|
-|**2025-05-08**|**Fourier-based Inversion of Partial X-ray Transforms in n Dimensions**|Murdock G. Grewar et.al.|[2505.05372v2](http://arxiv.org/abs/2505.05372v2)|**2025-05-09**|null|
-|**2025-05-08**|**Normalized solutions for the nonlinear Schrödinger equation with potential: the purely Sobolev critical case**|Gianmaria Verzini et.al.|[2505.05357v1](http://arxiv.org/abs/2505.05357v1)|**2025-05-08**|null|
-|**2025-05-08**|**Progressive Inertial Poser: Progressive Real-Time Kinematic Chain Estimation for 3D Full-Body Pose from Three IMU Sensors**|Zunjie Zhu et.al.|[2505.05336v1](http://arxiv.org/abs/2505.05336v1)|**2025-05-08**|null|
-|**2025-05-08**|**Regularity estimates of fractional heat semigroups related with uniformly elliptic operators**|Honglei Shi et.al.|[2505.05333v1](http://arxiv.org/abs/2505.05333v1)|**2025-05-08**|[link](https://github.com/Shi-honglei/elliptic-operators-2025)|
-|**2025-05-08**|**Optimal Microgrid Sizing of Offshore Renewable Energy Sources for Offshore Platforms and Coastal Communities**|Ann Mary Toms et.al.|[2505.05305v1](http://arxiv.org/abs/2505.05305v1)|**2025-05-08**|null|
-|**2025-05-08**|**The Ergodic Linear-Quadratic Optimal Control Problems for Stochastic Mean-Field Systems with Periodic Coefficients**|Jiacheng Wu et.al.|[2505.05296v1](http://arxiv.org/abs/2505.05296v1)|**2025-05-08**|null|
-|**2025-05-08**|**Benchmarking Ophthalmology Foundation Models for Clinically Significant Age Macular Degeneration Detection**|Benjamin A. Cohen et.al.|[2505.05291v1](http://arxiv.org/abs/2505.05291v1)|**2025-05-08**|null|
-|**2025-05-08**|**T-T: Table Transformer for Tagging-based Aspect Sentiment Triplet Extraction**|Kun Peng et.al.|[2505.05271v1](http://arxiv.org/abs/2505.05271v1)|**2025-05-08**|null|
-|**2025-05-08**|**Enhancing Treatment Effect Estimation via Active Learning: A Counterfactual Covering Perspective**|Hechuan Wen et.al.|[2505.05242v1](http://arxiv.org/abs/2505.05242v1)|**2025-05-08**|null|
-|**2025-05-08**|**Normalize Everything: A Preconditioned Magnitude-Preserving Architecture for Diffusion-Based Speech Enhancement**|Julius Richter et.al.|[2505.05216v1](http://arxiv.org/abs/2505.05216v1)|**2025-05-08**|null|
-|**2025-05-08**|**Diffusion Model Quantization: A Review**|Qian Zeng et.al.|[2505.05215v1](http://arxiv.org/abs/2505.05215v1)|**2025-05-08**|null|
-|**2025-05-08**|**Overlapping Biclustering**|Matthias Bentert et.al.|[2505.05213v1](http://arxiv.org/abs/2505.05213v1)|**2025-05-08**|null|
-|**2025-05-08**|**EAM: Enhancing Anything with Diffusion Transformers for Blind Super-Resolution**|Haizhen Xie et.al.|[2505.05209v1](http://arxiv.org/abs/2505.05209v1)|**2025-05-08**|null|
-|**2025-05-08**|**Polymorphic spin ordering in a single-crystalline cobalt-doped Fe3GaTe2**|Woohyun Cho et.al.|[2505.05198v1](http://arxiv.org/abs/2505.05198v1)|**2025-05-08**|null|
-|**2025-05-08**|**Stochastic Variational Propagation: Local, Scalable and Efficient Alternative to Backpropagation**|Bojian Yin et.al.|[2505.05181v1](http://arxiv.org/abs/2505.05181v1)|**2025-05-08**|null|
-|**2025-05-08**|**Pattern avoidance in revised ascent sequences**|Robin D. P. Zhou et.al.|[2505.05171v1](http://arxiv.org/abs/2505.05171v1)|**2025-05-08**|null|
-|**2025-05-08**|**Contact Lens with Moiré patterns for High-Precision Eye Tracking**|I. M. Fradkin et.al.|[2505.05147v1](http://arxiv.org/abs/2505.05147v1)|**2025-05-08**|null|
-|**2025-05-08**|**Understanding In-context Learning of Addition via Activation Subspaces**|Xinyan Hu et.al.|[2505.05145v1](http://arxiv.org/abs/2505.05145v1)|**2025-05-08**|null|
+|**2025-05-09**|**Anomalous spin dynamics after dual optical excitation**|Sergii Parchenko et.al.|[2505.06225v1](http://arxiv.org/abs/2505.06225v1)|**2025-05-09**|null|
+|**2025-05-09**|**Let Humanoids Hike! Integrative Skill Development on Complex Trails**|Kwan-Yee Lin et.al.|[2505.06218v1](http://arxiv.org/abs/2505.06218v1)|**2025-05-09**|null|
+|**2025-05-09**|**Optimal statistical ensembles for quantum thermal state preparation within the quantum singular value transformation framework**|Yasushi Yoneta et.al.|[2505.06216v1](http://arxiv.org/abs/2505.06216v1)|**2025-05-09**|null|
+|**2025-05-09**|**From Fermions to Qubits: A ZX-Calculus Perspective**|Haytham McDowall-Rose et.al.|[2505.06212v1](http://arxiv.org/abs/2505.06212v1)|**2025-05-09**|null|
+|**2025-05-09**|**Alternating Methods for Large-Scale AC Optimal Power Flow with Unit Commitment**|Matthew Brun et.al.|[2505.06211v1](http://arxiv.org/abs/2505.06211v1)|**2025-05-09**|null|
+|**2025-05-09**|**Topo-VM-UNetV2: Encoding Topology into Vision Mamba UNet for Polyp Segmentation**|Diego Adame et.al.|[2505.06210v1](http://arxiv.org/abs/2505.06210v1)|**2025-05-09**|null|
+|**2025-05-09**|**Decoding Algorithms for Two-dimensional Constacyclic Codes over $\mathbb{F}_q$**|Vidya Sagar et.al.|[2505.06201v1](http://arxiv.org/abs/2505.06201v1)|**2025-05-09**|null|
+|**2025-05-09**|**Efficient time-domain scattering synthesis via frequency-domain singularity subtraction**|Oscar P. Bruno et.al.|[2505.06189v1](http://arxiv.org/abs/2505.06189v1)|**2025-05-09**|null|
+|**2025-05-09**|**Brain Hematoma Marker Recognition Using Multitask Learning: SwinTransformer and Swin-Unet**|Kodai Hirata et.al.|[2505.06185v1](http://arxiv.org/abs/2505.06185v1)|**2025-05-09**|null|
+|**2025-05-09**|**Active Perception for Tactile Sensing: A Task-Agnostic Attention-Based Approach**|Tim Schneider et.al.|[2505.06182v1](http://arxiv.org/abs/2505.06182v1)|**2025-05-09**|null|
+|**2025-05-09**|**Turbo-ICL: In-Context Learning-Based Turbo Equalization**|Zihang Song et.al.|[2505.06175v1](http://arxiv.org/abs/2505.06175v1)|**2025-05-09**|null|
+|**2025-05-09**|**DiffLocks: Generating 3D Hair from a Single Image using Diffusion Models**|Radu Alexandru Rosu et.al.|[2505.06166v1](http://arxiv.org/abs/2505.06166v1)|**2025-05-09**|null|
+|**2025-05-09**|**Towards Robust Few-Shot Text Classification Using Transformer Architectures and Dual Loss Strategies**|Xu Han et.al.|[2505.06145v1](http://arxiv.org/abs/2505.06145v1)|**2025-05-09**|null|
+|**2025-05-09**|**Distributed Tensor Network Library for Quantum Computing Emulation**|Jakub Adamski et.al.|[2505.06119v1](http://arxiv.org/abs/2505.06119v1)|**2025-05-09**|null|
+|**2025-05-09**|**The Application of Deep Learning for Lymph Node Segmentation: A Systematic Review**|Jingguo Qu et.al.|[2505.06118v1](http://arxiv.org/abs/2505.06118v1)|**2025-05-09**|null|
+|**2025-05-09**|**Multimodal Sentiment Analysis on CMU-MOSEI Dataset using Transformer-based Models**|Jugal Gajjar et.al.|[2505.06110v1](http://arxiv.org/abs/2505.06110v1)|**2025-05-09**|null|
+|**2025-05-09**|**A Piezoelectric Molecular Cocrystal with Unconventional $π$-Stacking**|Samuel G. Dunning et.al.|[2505.06095v1](http://arxiv.org/abs/2505.06095v1)|**2025-05-09**|null|
+|**2025-05-09**|**UniSymNet: A Unified Symbolic Network Guided by Transformer**|Xinxin Li et.al.|[2505.06091v1](http://arxiv.org/abs/2505.06091v1)|**2025-05-09**|null|
+|**2025-05-09**|**Omni-Temporal Theory and Simulation of Hydrodynamic Dispersion using Fourier Transformation**|Md Abdul Hamid et.al.|[2505.06063v1](http://arxiv.org/abs/2505.06063v1)|**2025-05-09**|null|
+|**2025-05-09**|**Functoriality of Enriched Data Types**|Lukas Mulder et.al.|[2505.06059v1](http://arxiv.org/abs/2505.06059v1)|**2025-05-09**|null|
+|**2025-05-09**|**Designing RoutScape: Geospatial Prototyping with XR for Flood Evacuation Planning**|Johndayll Lewis Arizala et.al.|[2505.06045v1](http://arxiv.org/abs/2505.06045v1)|**2025-05-09**|null|
+|**2025-05-09**|**Universal Approximation Theorem for Deep Q-Learning via FBSDE System**|Qian Qi et.al.|[2505.06023v1](http://arxiv.org/abs/2505.06023v1)|**2025-05-09**|null|
+|**2025-05-09**|**Unravelling the Antimicrobial Action Mechanism of Ribosomal Protein S30**|J. Bhatt Mitra et.al.|[2505.06019v1](http://arxiv.org/abs/2505.06019v1)|**2025-05-09**|null|
+|**2025-05-09**|**Siegel-Radon transforms of transverse dynamical systems**|Michael Björklund et.al.|[2505.05980v1](http://arxiv.org/abs/2505.05980v1)|**2025-05-09**|null|
+|**2025-05-09**|**Generation of non-equilibrium spin-motive force at the surface of a topological insulator induced by current-driven domain wall motion in the magnetic substrate**|Reza Fazeli Mehrabani et.al.|[2505.05977v1](http://arxiv.org/abs/2505.05977v1)|**2025-05-09**|null|
+|**2025-05-09**|**Catalytic entanglement transformations with noisy hardware**|Hemant Sharma et.al.|[2505.05964v1](http://arxiv.org/abs/2505.05964v1)|**2025-05-09**|null|
+|**2025-05-09**|**GEORCE: A Fast New Control Algorithm for Computing Geodesics**|Frederik Möbius Rygaard et.al.|[2505.05961v1](http://arxiv.org/abs/2505.05961v1)|**2025-05-09**|null|
+|**2025-05-09**|**DFEN: Dual Feature Equalization Network for Medical Image Segmentation**|Jianjian Yin et.al.|[2505.05913v1](http://arxiv.org/abs/2505.05913v1)|**2025-05-09**|[link](https://github.com/jianjianyin/dfen)|
+|**2025-05-09**|**Symbol-based entity marker highlighting for enhanced text mining in materials science with generative AI**|Junhyeong Lee et.al.|[2505.05864v1](http://arxiv.org/abs/2505.05864v1)|**2025-05-09**|null|
+|**2025-05-09**|**Integrating Building Thermal Flexibility Into Distribution System: A Privacy-Preserved Dispatch Approach**|Shuai Lu et.al.|[2505.05859v1](http://arxiv.org/abs/2505.05859v1)|**2025-05-09**|null|

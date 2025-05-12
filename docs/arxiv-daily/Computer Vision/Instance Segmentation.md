@@ -2,33 +2,33 @@
 ### Instance Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-08**|**Coordinating Drop-Off Locations and Pickup Routes: A Budget-Constrained Routing Perspective**|Maria Albareda-Sambola et.al.|[2505.05418v1](http://arxiv.org/abs/2505.05418v1)|**2025-05-08**|null|
-|**2025-05-08**|**Joint Super-Resolution and Segmentation for 1-m Impervious Surface Area Mapping in China's Yangtze River Economic Belt**|Jie Deng et.al.|[2505.05367v1](http://arxiv.org/abs/2505.05367v1)|**2025-05-08**|null|
-|**2025-05-08**|**Signature Decomposition Method Applying to Pair Trading**|Zihao Guo et.al.|[2505.05332v1](http://arxiv.org/abs/2505.05332v1)|**2025-05-08**|null|
-|**2025-05-08**|**Feature-Augmented Deep Networks for Multiscale Building Segmentation in High-Resolution UAV and Satellite Imagery**|Chintan B. Maniyar et.al.|[2505.05321v1](http://arxiv.org/abs/2505.05321v1)|**2025-05-08**|null|
-|**2025-05-08**|**CottonSim: Development of an autonomous visual-guided robotic cotton-picking system in the Gazebo**|Thevathayarajh Thayananthan et.al.|[2505.05317v1](http://arxiv.org/abs/2505.05317v1)|**2025-05-08**|null|
-|**2025-05-08**|**Scalable Chain of Thoughts via Elastic Reasoning**|Yuhui Xu et.al.|[2505.05315v1](http://arxiv.org/abs/2505.05315v1)|**2025-05-08**|null|
-|**2025-05-08**|**ICNN-enhanced 2SP: Leveraging input convex neural networks for solving two-stage stochastic programming**|Yu Liu et.al.|[2505.05261v1](http://arxiv.org/abs/2505.05261v1)|**2025-05-08**|null|
-|**2025-05-08**|**ChemRxivQuest: A Curated Chemistry Question-Answer Database Extracted from ChemRxiv Preprints**|Mahmoud Amiri et.al.|[2505.05232v1](http://arxiv.org/abs/2505.05232v1)|**2025-05-08**|null|
-|**2025-05-08**|**Stealthy LLM-Driven Data Poisoning Attacks Against Embedding-Based Retrieval-Augmented Recommender Systems**|Fatemeh Nazary et.al.|[2505.05196v1](http://arxiv.org/abs/2505.05196v1)|**2025-05-08**|null|
-|**2025-05-08**|**OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning**|Cong Hua et.al.|[2505.05180v1](http://arxiv.org/abs/2505.05180v1)|**2025-05-08**|[link](https://github.com/huacong/openworldauc)|
-|**2025-05-08**|**Automated vision-based assistance tools in bronchoscopy: stenosis severity estimation**|Clara Tomasini et.al.|[2505.05136v1](http://arxiv.org/abs/2505.05136v1)|**2025-05-08**|null|
-|**2025-05-08**|**USPR: Learning a Unified Solver for Profiled Routing**|Chuanbo Hua et.al.|[2505.05119v1](http://arxiv.org/abs/2505.05119v1)|**2025-05-08**|null|
-|**2025-05-08**|**MDE-Edit: Masked Dual-Editing for Multi-Object Image Editing via Diffusion Models**|Hongyang Zhu et.al.|[2505.05101v1](http://arxiv.org/abs/2505.05101v1)|**2025-05-08**|null|
-|**2025-05-08**|**Visual Affordances: Enabling Robots to Understand Object Functionality**|Tommaso Apicella et.al.|[2505.05074v1](http://arxiv.org/abs/2505.05074v1)|**2025-05-08**|null|
-|**2025-05-08**|**RepSNet: A Nucleus Instance Segmentation model based on Boundary Regression and Structural Re-parameterization**|Shengchun Xiong et.al.|[2505.05073v1](http://arxiv.org/abs/2505.05073v1)|**2025-05-08**|null|
-|**2025-05-08**|**UncertainSAM: Fast and Efficient Uncertainty Quantification of the Segment Anything Model**|Timo Kaiser et.al.|[2505.05049v2](http://arxiv.org/abs/2505.05049v2)|**2025-05-09**|[link](https://github.com/GreenAutoML4FAS/UncertainSAM)|
-|**2025-05-08**|**ADNP-15: An Open-Source Histopathological Dataset for Neuritic Plaque Segmentation in Human Brain Whole Slide Images with Frequency Domain Image Enhancement for Stain Normalization**|Chenxi Zhao et.al.|[2505.05041v1](http://arxiv.org/abs/2505.05041v1)|**2025-05-08**|null|
-|**2025-05-08**|**Split Matching for Inductive Zero-shot Semantic Segmentation**|Jialei Chen et.al.|[2505.05023v1](http://arxiv.org/abs/2505.05023v1)|**2025-05-08**|null|
-|**2025-05-08**|**Automated Thoracolumbar Stump Rib Detection and Analysis in a Large CT Cohort**|Hendrik Möller et.al.|[2505.05004v1](http://arxiv.org/abs/2505.05004v1)|**2025-05-08**|null|
-|**2025-05-08**|**ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis**|Onkar Susladkar et.al.|[2505.04963v1](http://arxiv.org/abs/2505.04963v1)|**2025-05-08**|null|
-|**2025-05-08**|**The Poisson tensor completion non-parametric differential entropy estimator**|Daniel M. Dunlavy et.al.|[2505.04957v2](http://arxiv.org/abs/2505.04957v2)|**2025-05-09**|null|
-|**2025-05-08**|**Building-Guided Pseudo-Label Learning for Cross-Modal Building Damage Mapping**|Jiepan Li et.al.|[2505.04941v1](http://arxiv.org/abs/2505.04941v1)|**2025-05-08**|null|
-|**2025-05-08**|**VaCDA: Variational Contrastive Alignment-based Scalable Human Activity Recognition**|Soham Khisa et.al.|[2505.04907v1](http://arxiv.org/abs/2505.04907v1)|**2025-05-08**|null|
-|**2025-05-08**|**Pro2SAM: Mask Prompt to SAM with Grid Points for Weakly Supervised Object Localization**|Xi Yang et.al.|[2505.04905v1](http://arxiv.org/abs/2505.04905v1)|**2025-05-08**|null|
-|**2025-05-08**|**OWT: A Foundational Organ-Wise Tokenization Framework for Medical Imaging**|Sifan Song et.al.|[2505.04899v1](http://arxiv.org/abs/2505.04899v1)|**2025-05-08**|null|
-|**2025-05-08**|**Mix-QSAM: Mixed-Precision Quantization of the Segment Anything Model**|Navin Ranjan et.al.|[2505.04861v1](http://arxiv.org/abs/2505.04861v1)|**2025-05-08**|null|
-|**2025-05-07**|**Osiris: A Lightweight Open-Source Hallucination Detection System**|Alex Shan et.al.|[2505.04844v1](http://arxiv.org/abs/2505.04844v1)|**2025-05-07**|null|
-|**2025-05-07**|**Are Synthetic Corruptions A Reliable Proxy For Real-World Corruptions?**|Shashank Agnihotri et.al.|[2505.04835v1](http://arxiv.org/abs/2505.04835v1)|**2025-05-07**|[link](https://github.com/shashankskagnihotri/benchmarking_robustness)|
-|**2025-05-07**|**Isotropic Torsors on Smooth Algebras over Prüfer Rings**|Arnab Kundu et.al.|[2505.04760v1](http://arxiv.org/abs/2505.04760v1)|**2025-05-07**|null|
-|**2025-05-07**|**Hyb-KAN ViT: Hybrid Kolmogorov-Arnold Networks Augmented Vision Transformer**|Sainath Dey et.al.|[2505.04740v1](http://arxiv.org/abs/2505.04740v1)|**2025-05-07**|null|
+|**2025-05-09**|**Adapting a Segmentation Foundation Model for Medical Image Classification**|Pengfei Gu et.al.|[2505.06217v1](http://arxiv.org/abs/2505.06217v1)|**2025-05-09**|null|
+|**2025-05-09**|**Topo-VM-UNetV2: Encoding Topology into Vision Mamba UNet for Polyp Segmentation**|Diego Adame et.al.|[2505.06210v1](http://arxiv.org/abs/2505.06210v1)|**2025-05-09**|null|
+|**2025-05-09**|**Brain Hematoma Marker Recognition Using Multitask Learning: SwinTransformer and Swin-Unet**|Kodai Hirata et.al.|[2505.06185v1](http://arxiv.org/abs/2505.06185v1)|**2025-05-09**|null|
+|**2025-05-09**|**Learning-Augmented Algorithms for Boolean Satisfiability**|Idan Attias et.al.|[2505.06146v1](http://arxiv.org/abs/2505.06146v1)|**2025-05-09**|null|
+|**2025-05-09**|**BrainSegDMlF: A Dynamic Fusion-enhanced SAM for Brain Lesion Segmentation**|Hongming Wang et.al.|[2505.06133v1](http://arxiv.org/abs/2505.06133v1)|**2025-05-09**|null|
+|**2025-05-09**|**The Application of Deep Learning for Lymph Node Segmentation: A Systematic Review**|Jingguo Qu et.al.|[2505.06118v1](http://arxiv.org/abs/2505.06118v1)|**2025-05-09**|null|
+|**2025-05-09**|**FIC-TSC: Learning Time Series Classification with Fisher Information Constraint**|Xiwen Chen et.al.|[2505.06114v1](http://arxiv.org/abs/2505.06114v1)|**2025-05-09**|null|
+|**2025-05-09**|**Camera-Only Bird's Eye View Perception: A Neural Approach to LiDAR-Free Environmental Mapping for Autonomous Vehicles**|Anupkumar Bochare et.al.|[2505.06113v1](http://arxiv.org/abs/2505.06113v1)|**2025-05-09**|null|
+|**2025-05-09**|**Parameter-Free Segmentation of Robot Movements with Cross-Correlation Using Different Similarity Metrics**|Wendy Carvalho et.al.|[2505.06100v1](http://arxiv.org/abs/2505.06100v1)|**2025-05-09**|null|
+|**2025-05-09**|**Lie-operads and operadic modules from poset cohomology**|Bérénice Delcroix-Oger et.al.|[2505.06094v1](http://arxiv.org/abs/2505.06094v1)|**2025-05-09**|null|
+|**2025-05-09**|**Noise-Consistent Siamese-Diffusion for Medical Image Synthesis and Segmentation**|Kunpeng Qiu et.al.|[2505.06068v1](http://arxiv.org/abs/2505.06068v1)|**2025-05-09**|[link](https://github.com/qiukunpeng/siamese-diffusion)|
+|**2025-05-09**|**Functoriality of Enriched Data Types**|Lukas Mulder et.al.|[2505.06059v1](http://arxiv.org/abs/2505.06059v1)|**2025-05-09**|null|
+|**2025-05-09**|**Document Image Rectification Bases on Self-Adaptive Multitask Fusion**|Heng Li et.al.|[2505.06038v1](http://arxiv.org/abs/2505.06038v1)|**2025-05-09**|null|
+|**2025-05-09**|**Surface mobility of a glass-forming polymer in an ionic liquid**|Xinyu Zhang et.al.|[2505.06008v1](http://arxiv.org/abs/2505.06008v1)|**2025-05-09**|null|
+|**2025-05-09**|**From Pixels to Perception: Interpretable Predictions via Instance-wise Grouped Feature Selection**|Moritz Vandenhirtz et.al.|[2505.06003v1](http://arxiv.org/abs/2505.06003v1)|**2025-05-09**|[link](https://github.com/mvandenhi/p2p)|
+|**2025-05-09**|**DFEN: Dual Feature Equalization Network for Medical Image Segmentation**|Jianjian Yin et.al.|[2505.05913v1](http://arxiv.org/abs/2505.05913v1)|**2025-05-09**|[link](https://github.com/jianjianyin/dfen)|
+|**2025-05-09**|**AI-assisted Automatic Jump Detection and Height Estimation in Volleyball Using a Waist-worn IMU**|Weiyi Xu et.al.|[2505.05907v1](http://arxiv.org/abs/2505.05907v1)|**2025-05-09**|null|
+|**2025-05-09**|**Discovery of the Polar Ring Galaxies with deep learning**|D. V. Dobrycheva et.al.|[2505.05890v1](http://arxiv.org/abs/2505.05890v1)|**2025-05-09**|null|
+|**2025-05-09**|**Combining Abstract Argumentation and Machine Learning for Efficiently Analyzing Low-Level Process Event Streams**|Bettina Fazzinga et.al.|[2505.05880v1](http://arxiv.org/abs/2505.05880v1)|**2025-05-09**|null|
+|**2025-05-09**|**PICD: Versatile Perceptual Image Compression with Diffusion Rendering**|Tongda Xu et.al.|[2505.05853v1](http://arxiv.org/abs/2505.05853v1)|**2025-05-09**|null|
+|**2025-05-09**|**Image Segmentation via Variational Model Based Tailored UNet: A Deep Variational Framework**|Kaili Qi et.al.|[2505.05806v1](http://arxiv.org/abs/2505.05806v1)|**2025-05-09**|null|
+|**2025-05-09**|**Towards secondary structure prediction of longer mRNA sequences using a quantum-centric optimization scheme**|Vaibhaw Kumar et.al.|[2505.05782v1](http://arxiv.org/abs/2505.05782v1)|**2025-05-09**|null|
+|**2025-05-09**|**A review of advancements in low-light image enhancement using deep learning**|Fangxue Liu et.al.|[2505.05759v1](http://arxiv.org/abs/2505.05759v1)|**2025-05-09**|null|
+|**2025-05-09**|**Automating Infrastructure Surveying: A Framework for Geometric Measurements and Compliance Assessment Using Point Cloud Data**|Amin Ghafourian et.al.|[2505.05752v1](http://arxiv.org/abs/2505.05752v1)|**2025-05-09**|[link](https://github.com/soltanilara/surveyautomation)|
+|**2025-05-09**|**Accurate and Efficient Multivariate Time Series Forecasting via Offline Clustering**|Yiming Niu et.al.|[2505.05738v1](http://arxiv.org/abs/2505.05738v1)|**2025-05-09**|null|
+|**2025-05-09**|**DiGIT: Multi-Dilated Gated Encoder and Central-Adjacent Region Integrated Decoder for Temporal Action Detection Transformer**|Ho-Joong Kim et.al.|[2505.05711v1](http://arxiv.org/abs/2505.05711v1)|**2025-05-09**|[link](https://github.com/dotori-hj/digit)|
+|**2025-05-09**|**Hausdorff dimension of restricted Kakeya sets**|Jonathan M. Fraser et.al.|[2505.05709v1](http://arxiv.org/abs/2505.05709v1)|**2025-05-09**|null|
+|**2025-05-09**|**Cerium doped graphene-based materials towards oxygen reduction reaction catalysis**|Lanna E. B. Lucchetti et.al.|[2505.05695v1](http://arxiv.org/abs/2505.05695v1)|**2025-05-09**|null|
+|**2025-05-09**|**Design of a molecular Field Effect Transistor (mFET)**|Ralph C. Merkle et.al.|[2505.05693v1](http://arxiv.org/abs/2505.05693v1)|**2025-05-09**|null|
+|**2025-05-08**|**Equivariant Imaging Biomarkers for Robust Unsupervised Segmentation of Histopathology**|Fuyao Chen et.al.|[2505.05689v1](http://arxiv.org/abs/2505.05689v1)|**2025-05-08**|[link](https://github.com/fyc423/sre_unsupervised_segm)|
