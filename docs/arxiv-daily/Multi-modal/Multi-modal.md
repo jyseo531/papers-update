@@ -12,7 +12,7 @@
 |**2025-05-09**|**Task-Adapter++: Task-specific Adaptation with Order-aware Alignment for Few-shot Action Recognition**|Congqi Cao et.al.|[2505.06002v1](http://arxiv.org/abs/2505.06002v1)|**2025-05-09**|null|
 |**2025-05-09**|**Fast Differentiable Modal Simulation of Non-linear Strings, Membranes, and Plates**|Rodrigo Diaz et.al.|[2505.05940v1](http://arxiv.org/abs/2505.05940v1)|**2025-05-09**|null|
 |**2025-05-09**|**MER-CLIP: AU-Guided Vision-Language Alignment for Micro-Expression Recognition**|Shifeng Liu et.al.|[2505.05937v1](http://arxiv.org/abs/2505.05937v1)|**2025-05-09**|null|
-|**2025-05-09**|**Multi-Modal Molecular Representation Learning via Structure Awareness**|Rong Yin et.al.|[2505.05877v1](http://arxiv.org/abs/2505.05877v1)|**2025-05-09**|null|
+|**2025-05-09**|**Multi-Modal Molecular Representation Learning via Structure Awareness**|Rong Yin et.al.|[2505.05877v2](http://arxiv.org/abs/2505.05877v2)|**2025-05-12**|null|
 |**2025-05-09**|**Decoupling Multi-Contrast Super-Resolution: Pairing Unpaired Synthesis with Implicit Representations**|Hongyu Rui et.al.|[2505.05855v1](http://arxiv.org/abs/2505.05855v1)|**2025-05-09**|null|
 |**2025-05-09**|**Collecting Human Motion Data in Large and Occlusion-Prone Environments using Ultra-Wideband Localization**|Janik Kaden et.al.|[2505.05851v1](http://arxiv.org/abs/2505.05851v1)|**2025-05-09**|null|
 |**2025-05-09**|**Unsupervised Anomaly Detection for Autonomous Robots via Mahalanobis SVDD with Audio-IMU Fusion**|Yizhuo Yang et.al.|[2505.05811v1](http://arxiv.org/abs/2505.05811v1)|**2025-05-09**|null|
@@ -24,10 +24,10 @@
 |**2025-05-08**|**VR-RAG: Open-vocabulary Species Recognition with RAG-Assisted Large Multi-Modal Models**|Faizan Farooq Khan et.al.|[2505.05635v1](http://arxiv.org/abs/2505.05635v1)|**2025-05-08**|null|
 |**2025-05-08**|**A Preliminary Study for GPT-4o on Image Restoration**|Hao Yang et.al.|[2505.05621v1](http://arxiv.org/abs/2505.05621v1)|**2025-05-08**|[link](https://github.com/noxsine/gpt_restoration)|
 |**2025-05-08**|**PyTDC: A multimodal machine learning training, evaluation, and inference platform for biomedical foundation models**|Alejandro Velez-Arce et.al.|[2505.05577v1](http://arxiv.org/abs/2505.05577v1)|**2025-05-08**|[link](https://github.com/apliko-xyz/pytdc)|
-|**2025-05-08**|**Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation**|Chao Liao et.al.|[2505.05472v1](http://arxiv.org/abs/2505.05472v1)|**2025-05-08**|null|
+|**2025-05-08**|**Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation**|Chao Liao et.al.|[2505.05472v2](http://arxiv.org/abs/2505.05472v2)|**2025-05-11**|null|
 |**2025-05-08**|**Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging**|Shiqi Chen et.al.|[2505.05464v1](http://arxiv.org/abs/2505.05464v1)|**2025-05-08**|[link](https://github.com/shiqichen17/vlm_merging)|
 |**2025-05-08**|**SITE: towards Spatial Intelligence Thorough Evaluation**|Wenqi Wang et.al.|[2505.05456v1](http://arxiv.org/abs/2505.05456v1)|**2025-05-08**|null|
-|**2025-05-08**|**GeomHair: Reconstruction of Hair Strands from Colorless 3D Scans**|Rachmadio Noval Lazuardi et.al.|[2505.05376v1](http://arxiv.org/abs/2505.05376v1)|**2025-05-08**|null|
+|**2025-05-08**|**GeomHair: Reconstruction of Hair Strands from Colorless 3D Scans**|Rachmadio Noval Lazuardi et.al.|[2505.05376v2](http://arxiv.org/abs/2505.05376v2)|**2025-05-09**|null|
 |**2025-05-08**|**FLAM: Frame-Wise Language-Audio Modeling**|Yusong Wu et.al.|[2505.05335v1](http://arxiv.org/abs/2505.05335v1)|**2025-05-08**|null|
 |**2025-05-08**|**PADriver: Towards Personalized Autonomous Driving**|Genghua Kou et.al.|[2505.05240v1](http://arxiv.org/abs/2505.05240v1)|**2025-05-08**|null|
 |**2025-05-08**|**EAM: Enhancing Anything with Diffusion Transformers for Blind Super-Resolution**|Haizhen Xie et.al.|[2505.05209v1](http://arxiv.org/abs/2505.05209v1)|**2025-05-08**|null|

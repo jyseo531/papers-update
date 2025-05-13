@@ -13,16 +13,16 @@
 |**2025-05-09**|**Interaction-Aware Parameter Privacy-Preserving Data Sharing in Coupled Systems via Particle Filter Reinforcement Learning**|Haokun Yu et.al.|[2505.06122v1](http://arxiv.org/abs/2505.06122v1)|**2025-05-09**|null|
 |**2025-05-09**|**Constraints to Lorentz violation and ultrahigh-energy electrons in D-foamy space-times**|Chengyi Li et.al.|[2505.06121v1](http://arxiv.org/abs/2505.06121v1)|**2025-05-09**|null|
 |**2025-05-09**|**Photovoltaic Defect Image Generator with Boundary Alignment Smoothing Constraint for Domain Shift Mitigation**|Dongying Li et.al.|[2505.06117v1](http://arxiv.org/abs/2505.06117v1)|**2025-05-09**|null|
-|**2025-05-09**|**LLMs Outperform Experts on Challenging Biology Benchmarks**|Lennart Justen et.al.|[2505.06108v1](http://arxiv.org/abs/2505.06108v1)|**2025-05-09**|null|
+|**2025-05-09**|**LLMs Outperform Experts on Challenging Biology Benchmarks**|Lennart Justen et.al.|[2505.06108v2](http://arxiv.org/abs/2505.06108v2)|**2025-05-12**|null|
 |**2025-05-09**|**pNGB Higgs Naturalness at a Tipping Point**|Matthew McCullough et.al.|[2505.06052v1](http://arxiv.org/abs/2505.06052v1)|**2025-05-09**|null|
 |**2025-05-09**|**Healthy LLMs? Benchmarking LLM Knowledge of UK Government Public Health Information**|Joshua Harris et.al.|[2505.06046v1](http://arxiv.org/abs/2505.06046v1)|**2025-05-09**|null|
-|**2025-05-09**|**Shadow-Based Framework for Estimating Transition Disk Geometries**|Ryuta Orihara et.al.|[2505.06044v1](http://arxiv.org/abs/2505.06044v1)|**2025-05-09**|null|
+|**2025-05-09**|**Shadow-Based Framework for Estimating Transition Disk Geometries**|Ryuta Orihara et.al.|[2505.06044v2](http://arxiv.org/abs/2505.06044v2)|**2025-05-12**|null|
 |**2025-05-09**|**Why Are You Wrong? Counterfactual Explanations for Language Grounding with 3D Objects**|Tobias Preintner et.al.|[2505.06030v1](http://arxiv.org/abs/2505.06030v1)|**2025-05-09**|null|
 |**2025-05-09**|**ArtRAG: Retrieval-Augmented Generation with Structured Context for Visual Art Understanding**|Shuai Wang et.al.|[2505.06020v1](http://arxiv.org/abs/2505.06020v1)|**2025-05-09**|null|
 |**2025-05-09**|**Metal-Enriched Atmospheres in Warm (Super- and Sub-)Neptunes Induced by Extreme Atmospheric Escape**|Amy Louca et.al.|[2505.06013v1](http://arxiv.org/abs/2505.06013v1)|**2025-05-09**|null|
 |**2025-05-09**|**Mixtures of multivariate linear asymmetric Laplace regressions with multiple asymmetric Laplace covariates**|Arnoldus F. Otto et.al.|[2505.05979v1](http://arxiv.org/abs/2505.05979v1)|**2025-05-09**|null|
 |**2025-05-09**|**Towards Developmentally Plausible Rewards: Communicative Success as a Learning Signal for Interactive Language Models**|Lennart Stöpler et.al.|[2505.05970v1](http://arxiv.org/abs/2505.05970v1)|**2025-05-09**|null|
-|**2025-05-09**|**FloE: On-the-Fly MoE Inference**|Yuxin Zhou et.al.|[2505.05950v1](http://arxiv.org/abs/2505.05950v1)|**2025-05-09**|null|
+|**2025-05-09**|**FloE: On-the-Fly MoE Inference on Memory-constrained GPU**|Yuxin Zhou et.al.|[2505.05950v2](http://arxiv.org/abs/2505.05950v2)|**2025-05-12**|null|
 |**2025-05-09**|**NeoQA: Evidence-based Question Answering with Generated News Events**|Max Glockner et.al.|[2505.05949v1](http://arxiv.org/abs/2505.05949v1)|**2025-05-09**|[link](https://github.com/amazon-science/neoqa)|
 |**2025-05-09**|**MER-CLIP: AU-Guided Vision-Language Alignment for Micro-Expression Recognition**|Shifeng Liu et.al.|[2505.05937v1](http://arxiv.org/abs/2505.05937v1)|**2025-05-09**|null|
 |**2025-05-09**|**CAPE: Context-Aware Prompt Perturbation Mechanism with Differential Privacy**|Haoqi Wu et.al.|[2505.05922v1](http://arxiv.org/abs/2505.05922v1)|**2025-05-09**|null|

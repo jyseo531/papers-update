@@ -20,7 +20,7 @@
 |**2025-05-09**|**Smooth optimization algorithms for global and locally low-rank regularizers**|Rodrigo A. Lobos et.al.|[2505.06073v1](http://arxiv.org/abs/2505.06073v1)|**2025-05-09**|null|
 |**2025-05-09**|**Noise-Consistent Siamese-Diffusion for Medical Image Synthesis and Segmentation**|Kunpeng Qiu et.al.|[2505.06068v1](http://arxiv.org/abs/2505.06068v1)|**2025-05-09**|[link](https://github.com/qiukunpeng/siamese-diffusion)|
 |**2025-05-09**|**Towards Better Cephalometric Landmark Detection with Diffusion Data Generation**|Dongqian Guo et.al.|[2505.06055v1](http://arxiv.org/abs/2505.06055v1)|**2025-05-09**|null|
-|**2025-05-09**|**Shadow-Based Framework for Estimating Transition Disk Geometries**|Ryuta Orihara et.al.|[2505.06044v1](http://arxiv.org/abs/2505.06044v1)|**2025-05-09**|null|
+|**2025-05-09**|**Shadow-Based Framework for Estimating Transition Disk Geometries**|Ryuta Orihara et.al.|[2505.06044v2](http://arxiv.org/abs/2505.06044v2)|**2025-05-12**|null|
 |**2025-05-09**|**Document Image Rectification Bases on Self-Adaptive Multitask Fusion**|Heng Li et.al.|[2505.06038v1](http://arxiv.org/abs/2505.06038v1)|**2025-05-09**|null|
 |**2025-05-09**|**Discretization of Dirac systems and port-Hamiltonian systems: the role of the constraint algorithm**|María Barbero-Liñán et.al.|[2505.06024v1](http://arxiv.org/abs/2505.06024v1)|**2025-05-09**|null|
 |**2025-05-09**|**ArtRAG: Retrieval-Augmented Generation with Structured Context for Visual Art Understanding**|Shuai Wang et.al.|[2505.06020v1](http://arxiv.org/abs/2505.06020v1)|**2025-05-09**|null|

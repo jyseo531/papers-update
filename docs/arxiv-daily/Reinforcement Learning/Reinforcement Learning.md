@@ -21,7 +21,7 @@
 |**2025-05-08**|**A critical note on the sideband peak count-index technique: failure for nonlinear damage characterization of impacted CFRP plates**|Bernd Köhler et.al.|[2505.05611v1](http://arxiv.org/abs/2505.05611v1)|**2025-05-08**|null|
 |**2025-05-08**|**On Corruption-Robustness in Performative Reinforcement Learning**|Vasilis Pollatos et.al.|[2505.05609v1](http://arxiv.org/abs/2505.05609v1)|**2025-05-08**|null|
 |**2025-05-08**|**Barrier Function Overrides For Non-Convex Fixed Wing Flight Control and Self-Driving Cars**|Eric Squires et.al.|[2505.05548v1](http://arxiv.org/abs/2505.05548v1)|**2025-05-08**|null|
-|**2025-05-08**|**Flow-GRPO: Training Flow Matching Models via Online RL**|Jie Liu et.al.|[2505.05470v1](http://arxiv.org/abs/2505.05470v1)|**2025-05-08**|[link](https://github.com/yifan123/flow_grpo)|
+|**2025-05-08**|**Flow-GRPO: Training Flow Matching Models via Online RL**|Jie Liu et.al.|[2505.05470v2](http://arxiv.org/abs/2505.05470v2)|**2025-05-11**|[link](https://github.com/yifan123/flow_grpo)|
 |**2025-05-08**|**RL-DAUNCE: Reinforcement Learning-Driven Data Assimilation with Uncertainty-Aware Constrained Ensembles**|Pouria Behnoudfar et.al.|[2505.05452v1](http://arxiv.org/abs/2505.05452v1)|**2025-05-08**|null|
 |**2025-05-08**|**Reasoning Models Don't Always Say What They Think**|Yanda Chen et.al.|[2505.05410v1](http://arxiv.org/abs/2505.05410v1)|**2025-05-08**|null|
 |**2025-05-08**|**Timestamp Manipulation: Timestamp-based Nakamoto-style Blockchains are Vulnerable**|Junjie Hu et.al.|[2505.05328v2](http://arxiv.org/abs/2505.05328v2)|**2025-05-09**|null|

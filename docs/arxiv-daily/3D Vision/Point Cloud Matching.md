@@ -17,7 +17,7 @@
 |**2025-05-09**|**ELA-ZSON: Efficient Layout-Aware Zero-Shot Object Navigation Agent with Hierarchical Planning**|Jiawei Hou et.al.|[2505.06131v1](http://arxiv.org/abs/2505.06131v1)|**2025-05-09**|null|
 |**2025-05-09**|**Revealing the nature of ultra-long period objects with space-based gravitational-wave interferometers**|Arthur G. Suvorov et.al.|[2505.06125v1](http://arxiv.org/abs/2505.06125v1)|**2025-05-09**|null|
 |**2025-05-09**|**Photovoltaic Defect Image Generator with Boundary Alignment Smoothing Constraint for Domain Shift Mitigation**|Dongying Li et.al.|[2505.06117v1](http://arxiv.org/abs/2505.06117v1)|**2025-05-09**|null|
-|**2025-05-09**|**LLMs Outperform Experts on Challenging Biology Benchmarks**|Lennart Justen et.al.|[2505.06108v1](http://arxiv.org/abs/2505.06108v1)|**2025-05-09**|null|
+|**2025-05-09**|**LLMs Outperform Experts on Challenging Biology Benchmarks**|Lennart Justen et.al.|[2505.06108v2](http://arxiv.org/abs/2505.06108v2)|**2025-05-12**|null|
 |**2025-05-09**|**Spectroscopic Supermassive Dark Star candidates**|Cosmin Ilie et.al.|[2505.06101v1](http://arxiv.org/abs/2505.06101v1)|**2025-05-09**|null|
 |**2025-05-09**|**Orthogonal Emptiness Queries for Random Points**|Jonathan E. Dullerud et.al.|[2505.06090v1](http://arxiv.org/abs/2505.06090v1)|**2025-05-09**|null|
 |**2025-05-09**|**Towards time series aggregation with exact error quantification for optimization of energy systems**|Beltrán Castro Gómez et.al.|[2505.06083v1](http://arxiv.org/abs/2505.06083v1)|**2025-05-09**|null|

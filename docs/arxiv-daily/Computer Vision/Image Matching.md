@@ -18,14 +18,14 @@
 |**2025-05-09**|**Revealing the nature of ultra-long period objects with space-based gravitational-wave interferometers**|Arthur G. Suvorov et.al.|[2505.06125v1](http://arxiv.org/abs/2505.06125v1)|**2025-05-09**|null|
 |**2025-05-09**|**The Application of Deep Learning for Lymph Node Segmentation: A Systematic Review**|Jingguo Qu et.al.|[2505.06118v1](http://arxiv.org/abs/2505.06118v1)|**2025-05-09**|null|
 |**2025-05-09**|**Photovoltaic Defect Image Generator with Boundary Alignment Smoothing Constraint for Domain Shift Mitigation**|Dongying Li et.al.|[2505.06117v1](http://arxiv.org/abs/2505.06117v1)|**2025-05-09**|null|
-|**2025-05-09**|**LLMs Outperform Experts on Challenging Biology Benchmarks**|Lennart Justen et.al.|[2505.06108v1](http://arxiv.org/abs/2505.06108v1)|**2025-05-09**|null|
+|**2025-05-09**|**LLMs Outperform Experts on Challenging Biology Benchmarks**|Lennart Justen et.al.|[2505.06108v2](http://arxiv.org/abs/2505.06108v2)|**2025-05-12**|null|
 |**2025-05-09**|**S2MNet: Speckle-To-Mesh Net for Three-Dimensional Cardiac Morphology Reconstruction via Echocardiogram**|Xilin Gong et.al.|[2505.06105v1](http://arxiv.org/abs/2505.06105v1)|**2025-05-09**|null|
 |**2025-05-09**|**Serendipitous discovery of a spiral host in a 2 Mpc double-double lobed radio galaxy**|Sagar Sethi et.al.|[2505.06089v1](http://arxiv.org/abs/2505.06089v1)|**2025-05-09**|null|
 |**2025-05-09**|**Smooth optimization algorithms for global and locally low-rank regularizers**|Rodrigo A. Lobos et.al.|[2505.06073v1](http://arxiv.org/abs/2505.06073v1)|**2025-05-09**|null|
 |**2025-05-09**|**Noise-Consistent Siamese-Diffusion for Medical Image Synthesis and Segmentation**|Kunpeng Qiu et.al.|[2505.06068v1](http://arxiv.org/abs/2505.06068v1)|**2025-05-09**|[link](https://github.com/qiukunpeng/siamese-diffusion)|
 |**2025-05-09**|**Towards Better Cephalometric Landmark Detection with Diffusion Data Generation**|Dongqian Guo et.al.|[2505.06055v1](http://arxiv.org/abs/2505.06055v1)|**2025-05-09**|null|
 |**2025-05-09**|**Safe-EF: Error Feedback for Nonsmooth Constrained Optimization**|Rustem Islamov et.al.|[2505.06053v1](http://arxiv.org/abs/2505.06053v1)|**2025-05-09**|null|
-|**2025-05-09**|**Shadow-Based Framework for Estimating Transition Disk Geometries**|Ryuta Orihara et.al.|[2505.06044v1](http://arxiv.org/abs/2505.06044v1)|**2025-05-09**|null|
+|**2025-05-09**|**Shadow-Based Framework for Estimating Transition Disk Geometries**|Ryuta Orihara et.al.|[2505.06044v2](http://arxiv.org/abs/2505.06044v2)|**2025-05-12**|null|
 |**2025-05-09**|**Document Image Rectification Bases on Self-Adaptive Multitask Fusion**|Heng Li et.al.|[2505.06038v1](http://arxiv.org/abs/2505.06038v1)|**2025-05-09**|null|
 |**2025-05-09**|**Discretization of Dirac systems and port-Hamiltonian systems: the role of the constraint algorithm**|María Barbero-Liñán et.al.|[2505.06024v1](http://arxiv.org/abs/2505.06024v1)|**2025-05-09**|null|
 |**2025-05-09**|**ArtRAG: Retrieval-Augmented Generation with Structured Context for Visual Art Understanding**|Shuai Wang et.al.|[2505.06020v1](http://arxiv.org/abs/2505.06020v1)|**2025-05-09**|null|
