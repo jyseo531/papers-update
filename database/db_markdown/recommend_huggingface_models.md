@@ -348,6 +348,7 @@ Updated on 2025-05-13
 | 274 | 3 | mlx-community/parakeet-tdt-0 | Updatedabout 22 hours ago | [Link](https://huggingface.co/mlx-community/parakeet-tdt-0.6b-v2) |
 | 389 | 2 | KBLab/kb-whisper-mediumAutomatic | Updatedabout 21 hours ago | [Link](https://huggingface.co/KBLab/kb-whisper-medium) |
 | 52 | 2 | hackergeek98/whisper-fa-tinyyyAutomatic | Updated22 days ago | [Link](https://huggingface.co/hackergeek98/whisper-fa-tinyyy) |
+| 154 | 2 | CoRal-project/roest-wav2vec2-315m-v2Automatic | Updated10 days ago | [Link](https://huggingface.co/CoRal-project/roest-wav2vec2-315m-v2) |
 | 9.97M |  | openai/whisper-large-v3-turboAutomatic | UpdatedOct 4, 2024 | [Link](https://huggingface.co/openai/whisper-large-v3-turbo) |
 | 3.78M |  | openai/whisper-large-v3Automatic | UpdatedAug 12, 2024 | [Link](https://huggingface.co/openai/whisper-large-v3) |
 | 908 | Unknown | ggerganov/whisper | UpdatedOct 29, 2024 | [Link](https://huggingface.co/ggerganov/whisper.cpp) |
@@ -1218,6 +1219,7 @@ Updated on 2025-05-13
 | 419 | 10 | 5CD-AI/Vintern-3B-R-betaImage-Text-to-Text | Updatedabout 22 hours ago | [Link](https://huggingface.co/5CD-AI/Vintern-3B-R-beta) |
 | 118 | 10 | OpenGVLab/InternVL3-14BImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/OpenGVLab/InternVL3-14B) |
 | 130 | 10 | Hon-Wong/VoRA-7B-InstructImage-Text-to-Text | Updated15 days ago | [Link](https://huggingface.co/Hon-Wong/VoRA-7B-Instruct) |
+| 13 | 10 | openbmb/AgentCPM-GUIImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/openbmb/AgentCPM-GUI) |
 | 9.49k | 9 | unsloth/gemma-3-27b-it-bnb-4bitImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-bnb-4bit) |
 | 40.9k | 9 | lmstudio-community/gemma-3-12b-it-GGUFImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/lmstudio-community/gemma-3-12b-it-GGUF) |
 | 1.89k | 9 | Mungert/gemma-3-12b-it-ggufImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/Mungert/gemma-3-12b-it-gguf) |
