@@ -2,33 +2,33 @@
 ### Image Caption
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-09**|**Towards a Unified Representation Evaluation Framework Beyond Downstream Tasks**|Christos Plachouras et.al.|[2505.06224v1](http://arxiv.org/abs/2505.06224v1)|**2025-05-09**|null|
-|**2025-05-09**|**VIN-NBV: A View Introspection Network for Next-Best-View Selection for Resource-Efficient 3D Reconstruction**|Noah Frahm et.al.|[2505.06219v1](http://arxiv.org/abs/2505.06219v1)|**2025-05-09**|null|
-|**2025-05-09**|**Adapting a Segmentation Foundation Model for Medical Image Classification**|Pengfei Gu et.al.|[2505.06217v1](http://arxiv.org/abs/2505.06217v1)|**2025-05-09**|null|
-|**2025-05-09**|**Topo-VM-UNetV2: Encoding Topology into Vision Mamba UNet for Polyp Segmentation**|Diego Adame et.al.|[2505.06210v1](http://arxiv.org/abs/2505.06210v1)|**2025-05-09**|null|
-|**2025-05-09**|**Neuro-Symbolic Concepts**|Jiayuan Mao et.al.|[2505.06191v1](http://arxiv.org/abs/2505.06191v1)|**2025-05-09**|null|
-|**2025-05-09**|**Brain Hematoma Marker Recognition Using Multitask Learning: SwinTransformer and Swin-Unet**|Kodai Hirata et.al.|[2505.06185v1](http://arxiv.org/abs/2505.06185v1)|**2025-05-09**|null|
-|**2025-05-09**|**MonetGPT: Solving Puzzles Enhances MLLMs' Image Retouching Skills**|Niladri Shekhar Dutt et.al.|[2505.06176v1](http://arxiv.org/abs/2505.06176v1)|**2025-05-09**|null|
-|**2025-05-09**|**DiffLocks: Generating 3D Hair from a Single Image using Diffusion Models**|Radu Alexandru Rosu et.al.|[2505.06166v1](http://arxiv.org/abs/2505.06166v1)|**2025-05-09**|null|
-|**2025-05-09**|**MM-Skin: Enhancing Dermatology Vision-Language Model with an Image-Text Dataset Derived from Textbooks**|Wenqi Zeng et.al.|[2505.06152v1](http://arxiv.org/abs/2505.06152v1)|**2025-05-09**|[link](https://github.com/zwq803/mm-skin)|
-|**2025-05-09**|**Role of defects in atom probe analysis of sol-gel silica**|Gustav Eriksson et.al.|[2505.06138v1](http://arxiv.org/abs/2505.06138v1)|**2025-05-09**|null|
-|**2025-05-09**|**BrainSegDMlF: A Dynamic Fusion-enhanced SAM for Brain Lesion Segmentation**|Hongming Wang et.al.|[2505.06133v1](http://arxiv.org/abs/2505.06133v1)|**2025-05-09**|null|
-|**2025-05-09**|**The Application of Deep Learning for Lymph Node Segmentation: A Systematic Review**|Jingguo Qu et.al.|[2505.06118v1](http://arxiv.org/abs/2505.06118v1)|**2025-05-09**|null|
-|**2025-05-09**|**Photovoltaic Defect Image Generator with Boundary Alignment Smoothing Constraint for Domain Shift Mitigation**|Dongying Li et.al.|[2505.06117v1](http://arxiv.org/abs/2505.06117v1)|**2025-05-09**|null|
-|**2025-05-09**|**S2MNet: Speckle-To-Mesh Net for Three-Dimensional Cardiac Morphology Reconstruction via Echocardiogram**|Xilin Gong et.al.|[2505.06105v1](http://arxiv.org/abs/2505.06105v1)|**2025-05-09**|null|
-|**2025-05-09**|**Serendipitous discovery of a spiral host in a 2 Mpc double-double lobed radio galaxy**|Sagar Sethi et.al.|[2505.06089v1](http://arxiv.org/abs/2505.06089v1)|**2025-05-09**|null|
-|**2025-05-09**|**Smooth optimization algorithms for global and locally low-rank regularizers**|Rodrigo A. Lobos et.al.|[2505.06073v1](http://arxiv.org/abs/2505.06073v1)|**2025-05-09**|null|
-|**2025-05-09**|**Noise-Consistent Siamese-Diffusion for Medical Image Synthesis and Segmentation**|Kunpeng Qiu et.al.|[2505.06068v1](http://arxiv.org/abs/2505.06068v1)|**2025-05-09**|[link](https://github.com/qiukunpeng/siamese-diffusion)|
-|**2025-05-09**|**Towards Better Cephalometric Landmark Detection with Diffusion Data Generation**|Dongqian Guo et.al.|[2505.06055v1](http://arxiv.org/abs/2505.06055v1)|**2025-05-09**|null|
-|**2025-05-09**|**Shadow-Based Framework for Estimating Transition Disk Geometries**|Ryuta Orihara et.al.|[2505.06044v2](http://arxiv.org/abs/2505.06044v2)|**2025-05-12**|null|
-|**2025-05-09**|**Document Image Rectification Bases on Self-Adaptive Multitask Fusion**|Heng Li et.al.|[2505.06038v1](http://arxiv.org/abs/2505.06038v1)|**2025-05-09**|null|
-|**2025-05-09**|**Discretization of Dirac systems and port-Hamiltonian systems: the role of the constraint algorithm**|María Barbero-Liñán et.al.|[2505.06024v1](http://arxiv.org/abs/2505.06024v1)|**2025-05-09**|null|
-|**2025-05-09**|**ArtRAG: Retrieval-Augmented Generation with Structured Context for Visual Art Understanding**|Shuai Wang et.al.|[2505.06020v1](http://arxiv.org/abs/2505.06020v1)|**2025-05-09**|null|
-|**2025-05-09**|**Droplet Outbursts from Onion Cutting**|Zixuan Wu et.al.|[2505.06016v1](http://arxiv.org/abs/2505.06016v1)|**2025-05-09**|null|
-|**2025-05-09**|**From Pixels to Perception: Interpretable Predictions via Instance-wise Grouped Feature Selection**|Moritz Vandenhirtz et.al.|[2505.06003v1](http://arxiv.org/abs/2505.06003v1)|**2025-05-09**|[link](https://github.com/mvandenhi/p2p)|
-|**2025-05-09**|**Task-Adapter++: Task-specific Adaptation with Order-aware Alignment for Few-shot Action Recognition**|Congqi Cao et.al.|[2505.06002v1](http://arxiv.org/abs/2505.06002v1)|**2025-05-09**|null|
-|**2025-05-09**|**Free positive multiplicative Brownian motion and the free additive convolution of semicircle and uniform distribution**|Martin Auer et.al.|[2505.05984v1](http://arxiv.org/abs/2505.05984v1)|**2025-05-09**|null|
-|**2025-05-09**|**Towards Developmentally Plausible Rewards: Communicative Success as a Learning Signal for Interactive Language Models**|Lennart Stöpler et.al.|[2505.05970v1](http://arxiv.org/abs/2505.05970v1)|**2025-05-09**|null|
-|**2025-05-09**|**Efficient Quantum Convolutional Neural Networks for Image Classification: Overcoming Hardware Constraints**|Peter Röseler et.al.|[2505.05957v1](http://arxiv.org/abs/2505.05957v1)|**2025-05-09**|null|
-|**2025-05-09**|**Luminescent Platform for Thermal Sensing and Imaging Based on Structural Phase-Transition**|Anam Javaid et.al.|[2505.05953v1](http://arxiv.org/abs/2505.05953v1)|**2025-05-09**|null|
-|**2025-05-09**|**Achieving 3D Attention via Triplet Squeeze and Excitation Block**|Maan Alhazmi et.al.|[2505.05943v1](http://arxiv.org/abs/2505.05943v1)|**2025-05-09**|null|
+|**2025-05-12**|**DanceGRPO: Unleashing GRPO on Visual Generation**|Zeyue Xue et.al.|[2505.07818v1](http://arxiv.org/abs/2505.07818v1)|**2025-05-12**|null|
+|**2025-05-12**|**Pixel Motion as Universal Representation for Robot Control**|Kanchana Ranasinghe et.al.|[2505.07817v1](http://arxiv.org/abs/2505.07817v1)|**2025-05-12**|null|
+|**2025-05-12**|**PtyRAD: A High-performance and Flexible Ptychographic Reconstruction Framework with Automatic Differentiation**|Chia-Hao Lee et.al.|[2505.07814v1](http://arxiv.org/abs/2505.07814v1)|**2025-05-12**|null|
+|**2025-05-12**|**Privacy Risks of Robot Vision: A User Study on Image Modalities and Resolution**|Xuying Huang et.al.|[2505.07766v1](http://arxiv.org/abs/2505.07766v1)|**2025-05-12**|null|
+|**2025-05-12**|**Clouds can enhance direct imaging detection of O2 and O3 on terrestrial exoplanets**|Huanzhou Yang et.al.|[2505.07760v1](http://arxiv.org/abs/2505.07760v1)|**2025-05-12**|null|
+|**2025-05-12**|**Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets**|Weiyu Li et.al.|[2505.07747v1](http://arxiv.org/abs/2505.07747v1)|**2025-05-12**|null|
+|**2025-05-12**|**BodyGPS: Anatomical Positioning System**|Halid Ziya Yerebakan et.al.|[2505.07744v1](http://arxiv.org/abs/2505.07744v1)|**2025-05-12**|null|
+|**2025-05-12**|**Reproducibility, Replicability, and Insights into Visual Document Retrieval with Late Interaction**|Jingfen Qiao et.al.|[2505.07730v1](http://arxiv.org/abs/2505.07730v1)|**2025-05-12**|null|
+|**2025-05-12**|**Gameplay Highlights Generation**|Vignesh Edithal et.al.|[2505.07721v1](http://arxiv.org/abs/2505.07721v1)|**2025-05-12**|null|
+|**2025-05-12**|**Through the Looking Glass: Common Sense Consistency Evaluation of Weird Images**|Elisei Rykov et.al.|[2505.07704v1](http://arxiv.org/abs/2505.07704v1)|**2025-05-12**|null|
+|**2025-05-12**|**Image Restoration via Integration of Optimal Control Techniques and the Hamilton-Jacobi-Bellman Equation**|Dragos-Patru Covei et.al.|[2505.07699v1](http://arxiv.org/abs/2505.07699v1)|**2025-05-12**|null|
+|**2025-05-12**|**Anatomical Attention Alignment representation for Radiology Report Generation**|Quang Vinh Nguyen et.al.|[2505.07689v1](http://arxiv.org/abs/2505.07689v1)|**2025-05-12**|[link](https://github.com/vinh-ai/a3net)|
+|**2025-05-12**|**ABS-Mamba: SAM2-Driven Bidirectional Spiral Mamba Network for Medical Image Translation**|Feng Yuan et.al.|[2505.07687v1](http://arxiv.org/abs/2505.07687v1)|**2025-05-12**|[link](https://github.com/gatina-yone/abs-mamba)|
+|**2025-05-12**|**Multimodal Survival Modeling in the Age of Foundation Models**|Steven Song et.al.|[2505.07683v1](http://arxiv.org/abs/2505.07683v1)|**2025-05-12**|null|
+|**2025-05-12**|**Hierarchical Sparse Attention Framework for Computationally Efficient Classification of Biological Cells**|Elad Yoshai et.al.|[2505.07661v1](http://arxiv.org/abs/2505.07661v1)|**2025-05-12**|null|
+|**2025-05-12**|**Breast Cancer Classification in Deep Ultraviolet Fluorescence Images Using a Patch-Level Vision Transformer Framework**|Pouya Afshin et.al.|[2505.07654v1](http://arxiv.org/abs/2505.07654v1)|**2025-05-12**|null|
+|**2025-05-12**|**Counting $D_4$ singularities in the image of a wave front**|C. Muñoz-Cabello et.al.|[2505.07644v1](http://arxiv.org/abs/2505.07644v1)|**2025-05-12**|null|
+|**2025-05-12**|**Fundamental Understanding of Exposure and Process Chemistry for Enhanced Lithography and Stability of Metal Oxide Resists**|Kevin M. Dorney et.al.|[2505.07639v1](http://arxiv.org/abs/2505.07639v1)|**2025-05-12**|null|
+|**2025-05-12**|**Deep Learning Advances in Vision-Based Traffic Accident Anticipation: A Comprehensive Review of Methods,Datasets,and Future Directions**|Yi Zhang et.al.|[2505.07611v1](http://arxiv.org/abs/2505.07611v1)|**2025-05-12**|null|
+|**2025-05-12**|**TACOS: Temporally-aligned Audio CaptiOnS for Language-Audio Pretraining**|Paul Primus et.al.|[2505.07609v1](http://arxiv.org/abs/2505.07609v1)|**2025-05-12**|null|
+|**2025-05-12**|**Beyond Static Perception: Integrating Temporal Context into VLMs for Cloth Folding**|Oriol Barbany et.al.|[2505.07600v1](http://arxiv.org/abs/2505.07600v1)|**2025-05-12**|null|
+|**2025-05-12**|**The HOSTS Survey: Suspected variable dust emission and constraints on companions around $θ$ Boo**|G. Garreau et.al.|[2505.07585v1](http://arxiv.org/abs/2505.07585v1)|**2025-05-12**|null|
+|**2025-05-12**|**Evaluating Modern Visual Anomaly Detection Approaches in Semiconductor Manufacturing: A Comparative Study**|Manuel Barusco et.al.|[2505.07576v1](http://arxiv.org/abs/2505.07576v1)|**2025-05-12**|null|
+|**2025-05-12**|**Robust Kidney Abnormality Segmentation: A Validation Study of an AI-Based Framework**|Sarah de Boer et.al.|[2505.07573v1](http://arxiv.org/abs/2505.07573v1)|**2025-05-12**|null|
+|**2025-05-12**|**Probing the speckle to estimate the effective speed of sound, a first step towards quantitative ultrasound imaging**|Josselin Garnier et.al.|[2505.07566v1](http://arxiv.org/abs/2505.07566v1)|**2025-05-12**|null|
+|**2025-05-12**|**The JDISC Survey: Linking the Physics and Chemistry of Inner and Outer Protoplanetary Disk Zones**|Nicole Arulanantham et.al.|[2505.07562v1](http://arxiv.org/abs/2505.07562v1)|**2025-05-12**|null|
+|**2025-05-12**|**Self-Supervised Event Representations: Towards Accurate, Real-Time Perception on SoC FPGAs**|Kamil Jeziorek et.al.|[2505.07556v1](http://arxiv.org/abs/2505.07556v1)|**2025-05-12**|null|
+|**2025-05-12**|**Overcoming Intrinsic Dispersion Locking for Achieving Spatio-Spectral Selectivity with Misaligned Bi-metagratings**|Ze-Peng Zhuang et.al.|[2505.07543v1](http://arxiv.org/abs/2505.07543v1)|**2025-05-12**|null|
+|**2025-05-12**|**SynID: Passport Synthetic Dataset for Presentation Attack Detection**|Juan E. Tapia et.al.|[2505.07540v1](http://arxiv.org/abs/2505.07540v1)|**2025-05-12**|null|
+|**2025-05-12**|**Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning**|Bohan Wang et.al.|[2505.07538v1](http://arxiv.org/abs/2505.07538v1)|**2025-05-12**|null|

@@ -2,33 +2,33 @@
 ### Transformer
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-09**|**Anomalous spin dynamics after dual optical excitation**|Sergii Parchenko et.al.|[2505.06225v1](http://arxiv.org/abs/2505.06225v1)|**2025-05-09**|null|
-|**2025-05-09**|**Let Humanoids Hike! Integrative Skill Development on Complex Trails**|Kwan-Yee Lin et.al.|[2505.06218v1](http://arxiv.org/abs/2505.06218v1)|**2025-05-09**|null|
-|**2025-05-09**|**Optimal statistical ensembles for quantum thermal state preparation within the quantum singular value transformation framework**|Yasushi Yoneta et.al.|[2505.06216v1](http://arxiv.org/abs/2505.06216v1)|**2025-05-09**|null|
-|**2025-05-09**|**From Fermions to Qubits: A ZX-Calculus Perspective**|Haytham McDowall-Rose et.al.|[2505.06212v1](http://arxiv.org/abs/2505.06212v1)|**2025-05-09**|null|
-|**2025-05-09**|**Alternating Methods for Large-Scale AC Optimal Power Flow with Unit Commitment**|Matthew Brun et.al.|[2505.06211v1](http://arxiv.org/abs/2505.06211v1)|**2025-05-09**|null|
-|**2025-05-09**|**Topo-VM-UNetV2: Encoding Topology into Vision Mamba UNet for Polyp Segmentation**|Diego Adame et.al.|[2505.06210v1](http://arxiv.org/abs/2505.06210v1)|**2025-05-09**|null|
-|**2025-05-09**|**Decoding Algorithms for Two-dimensional Constacyclic Codes over $\mathbb{F}_q$**|Vidya Sagar et.al.|[2505.06201v1](http://arxiv.org/abs/2505.06201v1)|**2025-05-09**|null|
-|**2025-05-09**|**Efficient time-domain scattering synthesis via frequency-domain singularity subtraction**|Oscar P. Bruno et.al.|[2505.06189v1](http://arxiv.org/abs/2505.06189v1)|**2025-05-09**|null|
-|**2025-05-09**|**Brain Hematoma Marker Recognition Using Multitask Learning: SwinTransformer and Swin-Unet**|Kodai Hirata et.al.|[2505.06185v1](http://arxiv.org/abs/2505.06185v1)|**2025-05-09**|null|
-|**2025-05-09**|**Active Perception for Tactile Sensing: A Task-Agnostic Attention-Based Approach**|Tim Schneider et.al.|[2505.06182v1](http://arxiv.org/abs/2505.06182v1)|**2025-05-09**|null|
-|**2025-05-09**|**Turbo-ICL: In-Context Learning-Based Turbo Equalization**|Zihang Song et.al.|[2505.06175v1](http://arxiv.org/abs/2505.06175v1)|**2025-05-09**|null|
-|**2025-05-09**|**DiffLocks: Generating 3D Hair from a Single Image using Diffusion Models**|Radu Alexandru Rosu et.al.|[2505.06166v1](http://arxiv.org/abs/2505.06166v1)|**2025-05-09**|null|
-|**2025-05-09**|**Towards Robust Few-Shot Text Classification Using Transformer Architectures and Dual Loss Strategies**|Xu Han et.al.|[2505.06145v1](http://arxiv.org/abs/2505.06145v1)|**2025-05-09**|null|
-|**2025-05-09**|**Distributed Tensor Network Library for Quantum Computing Emulation**|Jakub Adamski et.al.|[2505.06119v1](http://arxiv.org/abs/2505.06119v1)|**2025-05-09**|null|
-|**2025-05-09**|**The Application of Deep Learning for Lymph Node Segmentation: A Systematic Review**|Jingguo Qu et.al.|[2505.06118v1](http://arxiv.org/abs/2505.06118v1)|**2025-05-09**|null|
-|**2025-05-09**|**Multimodal Sentiment Analysis on CMU-MOSEI Dataset using Transformer-based Models**|Jugal Gajjar et.al.|[2505.06110v1](http://arxiv.org/abs/2505.06110v1)|**2025-05-09**|null|
-|**2025-05-09**|**A Piezoelectric Molecular Cocrystal with Unconventional $π$-Stacking**|Samuel G. Dunning et.al.|[2505.06095v1](http://arxiv.org/abs/2505.06095v1)|**2025-05-09**|null|
-|**2025-05-09**|**UniSymNet: A Unified Symbolic Network Guided by Transformer**|Xinxin Li et.al.|[2505.06091v1](http://arxiv.org/abs/2505.06091v1)|**2025-05-09**|null|
-|**2025-05-09**|**Omni-Temporal Theory and Simulation of Hydrodynamic Dispersion using Fourier Transformation**|Md Abdul Hamid et.al.|[2505.06063v1](http://arxiv.org/abs/2505.06063v1)|**2025-05-09**|null|
-|**2025-05-09**|**Functoriality of Enriched Data Types**|Lukas Mulder et.al.|[2505.06059v1](http://arxiv.org/abs/2505.06059v1)|**2025-05-09**|null|
-|**2025-05-09**|**Designing RoutScape: Geospatial Prototyping with XR for Flood Evacuation Planning**|Johndayll Lewis Arizala et.al.|[2505.06045v1](http://arxiv.org/abs/2505.06045v1)|**2025-05-09**|null|
-|**2025-05-09**|**Universal Approximation Theorem for Deep Q-Learning via FBSDE System**|Qian Qi et.al.|[2505.06023v1](http://arxiv.org/abs/2505.06023v1)|**2025-05-09**|null|
-|**2025-05-09**|**Unravelling the Antimicrobial Action Mechanism of Ribosomal Protein S30**|J. Bhatt Mitra et.al.|[2505.06019v1](http://arxiv.org/abs/2505.06019v1)|**2025-05-09**|null|
-|**2025-05-09**|**Siegel-Radon transforms of transverse dynamical systems**|Michael Björklund et.al.|[2505.05980v1](http://arxiv.org/abs/2505.05980v1)|**2025-05-09**|null|
-|**2025-05-09**|**Generation of non-equilibrium spin-motive force at the surface of a topological insulator induced by current-driven domain wall motion in the magnetic substrate**|Reza Fazeli Mehrabani et.al.|[2505.05977v1](http://arxiv.org/abs/2505.05977v1)|**2025-05-09**|null|
-|**2025-05-09**|**Catalytic entanglement transformations with noisy hardware**|Hemant Sharma et.al.|[2505.05964v1](http://arxiv.org/abs/2505.05964v1)|**2025-05-09**|null|
-|**2025-05-09**|**GEORCE: A Fast New Control Algorithm for Computing Geodesics**|Frederik Möbius Rygaard et.al.|[2505.05961v1](http://arxiv.org/abs/2505.05961v1)|**2025-05-09**|null|
-|**2025-05-09**|**DFEN: Dual Feature Equalization Network for Medical Image Segmentation**|Jianjian Yin et.al.|[2505.05913v1](http://arxiv.org/abs/2505.05913v1)|**2025-05-09**|[link](https://github.com/jianjianyin/dfen)|
-|**2025-05-09**|**Symbol-based entity marker highlighting for enhanced text mining in materials science with generative AI**|Junhyeong Lee et.al.|[2505.05864v1](http://arxiv.org/abs/2505.05864v1)|**2025-05-09**|null|
-|**2025-05-09**|**Integrating Building Thermal Flexibility Into Distribution System: A Privacy-Preserved Dispatch Approach**|Shuai Lu et.al.|[2505.05859v1](http://arxiv.org/abs/2505.05859v1)|**2025-05-09**|null|
+|**2025-05-12**|**On the arithmetic of multidimensional continued fractions**|Piotr Miska et.al.|[2505.07810v1](http://arxiv.org/abs/2505.07810v1)|**2025-05-12**|null|
+|**2025-05-12**|**Overflow Prevention Enhances Long-Context Recurrent LLMs**|Assaf Ben-Kish et.al.|[2505.07793v1](http://arxiv.org/abs/2505.07793v1)|**2025-05-12**|null|
+|**2025-05-12**|**Singular Control in Inventory Management with Smooth Ambiguity**|Arnon Archankul et.al.|[2505.07761v1](http://arxiv.org/abs/2505.07761v1)|**2025-05-12**|null|
+|**2025-05-12**|**When Near Becomes Far: From Rayleigh to Optimal Near-Field and Far-Field Boundaries**|Sajad Daei et.al.|[2505.07743v1](http://arxiv.org/abs/2505.07743v1)|**2025-05-12**|null|
+|**2025-05-12**|**LAMM-ViT: AI Face Detection via Layer-Aware Modulation of Region-Guided Attention**|Jiangling Zhang et.al.|[2505.07734v1](http://arxiv.org/abs/2505.07734v1)|**2025-05-12**|null|
+|**2025-05-12**|**Hybrid Spiking Vision Transformer for Object Detection with Event Cameras**|Qi Xu et.al.|[2505.07715v1](http://arxiv.org/abs/2505.07715v1)|**2025-05-12**|null|
+|**2025-05-12**|**Through the Looking Glass: Common Sense Consistency Evaluation of Weird Images**|Elisei Rykov et.al.|[2505.07704v1](http://arxiv.org/abs/2505.07704v1)|**2025-05-12**|null|
+|**2025-05-12**|**OnPrem.LLM: A Privacy-Conscious Document Intelligence Toolkit**|Arun S. Maiya et.al.|[2505.07672v1](http://arxiv.org/abs/2505.07672v1)|**2025-05-12**|null|
+|**2025-05-12**|**Hierarchical Sparse Attention Framework for Computationally Efficient Classification of Biological Cells**|Elad Yoshai et.al.|[2505.07661v1](http://arxiv.org/abs/2505.07661v1)|**2025-05-12**|null|
+|**2025-05-12**|**Breast Cancer Classification in Deep Ultraviolet Fluorescence Images Using a Patch-Level Vision Transformer Framework**|Pouya Afshin et.al.|[2505.07654v1](http://arxiv.org/abs/2505.07654v1)|**2025-05-12**|null|
+|**2025-05-12**|**Constructing Bayes Minimax Estimators through Integral Transformations**|Dominique Fourdrinier et.al.|[2505.07649v1](http://arxiv.org/abs/2505.07649v1)|**2025-05-12**|null|
+|**2025-05-12**|**Higher-Order Convolution Improves Neural Predictivity in the Retina**|Simone Azeglio et.al.|[2505.07620v1](http://arxiv.org/abs/2505.07620v1)|**2025-05-12**|null|
+|**2025-05-12**|**KAQG: A Knowledge-Graph-Enhanced RAG for Difficulty-Controlled Question Generation**|Ching Han Chen et.al.|[2505.07618v1](http://arxiv.org/abs/2505.07618v1)|**2025-05-12**|null|
+|**2025-05-12**|**Deep Learning Advances in Vision-Based Traffic Accident Anticipation: A Comprehensive Review of Methods,Datasets,and Future Directions**|Yi Zhang et.al.|[2505.07611v1](http://arxiv.org/abs/2505.07611v1)|**2025-05-12**|null|
+|**2025-05-12**|**Privacy-Preserving Real-Time Vietnamese-English Translation on iOS using Edge AI**|Cong Le et.al.|[2505.07583v1](http://arxiv.org/abs/2505.07583v1)|**2025-05-12**|null|
+|**2025-05-12**|**The strong Viterbo conjecture and various flavours of duality in Lagrangian products**|Alejandro Vicente et.al.|[2505.07572v1](http://arxiv.org/abs/2505.07572v1)|**2025-05-12**|null|
+|**2025-05-12**|**MAIS: Memory-Attention for Interactive Segmentation**|Mauricio Orbes-Arteaga et.al.|[2505.07511v1](http://arxiv.org/abs/2505.07511v1)|**2025-05-12**|null|
+|**2025-05-12**|**On discrete X-ray transform**|Roman Novikov et.al.|[2505.07505v1](http://arxiv.org/abs/2505.07505v1)|**2025-05-12**|null|
+|**2025-05-12**|**Generalized upper and lower Legendre conjugates for weight functions**|Gerhard Schindl et.al.|[2505.07497v1](http://arxiv.org/abs/2505.07497v1)|**2025-05-12**|null|
+|**2025-05-12**|**Beyond the Octupole Approximation in Non-Collinear Antiferromagnetic Thin Films**|Freya Johnson et.al.|[2505.07489v1](http://arxiv.org/abs/2505.07489v1)|**2025-05-12**|null|
+|**2025-05-12**|**On core of categorical product of (di)graphs**|Reza Naserasr et.al.|[2505.07463v1](http://arxiv.org/abs/2505.07463v1)|**2025-05-12**|null|
+|**2025-05-12**|**Unified Continuous Generative Models**|Peng Sun et.al.|[2505.07447v1](http://arxiv.org/abs/2505.07447v1)|**2025-05-12**|[link](https://github.com/LINs-Lab/UCGM)|
+|**2025-05-12**|**Lightweight Multispectral Crop-Weed Segmentation for Precision Agriculture**|Zeynep Galymzhankyzy et.al.|[2505.07444v1](http://arxiv.org/abs/2505.07444v1)|**2025-05-12**|null|
+|**2025-05-12**|**Majorana edge modes in one-dimensional Kitaev chain with staggered $p$-wave superconducting pairing**|Xiao-Jue Zhang et.al.|[2505.07436v1](http://arxiv.org/abs/2505.07436v1)|**2025-05-12**|null|
+|**2025-05-12**|**Morphology and Strain Engineering of Cu-based Materials by Chemical Dealloying for Electrochemical CO Reduction**|Yuxiang Zhou et.al.|[2505.07419v1](http://arxiv.org/abs/2505.07419v1)|**2025-05-12**|null|
+|**2025-05-12**|**Integrating Machine Learning with Triboelectric Nanogenerators: Optimizing Electrode Materials and Doping Strategies for Intelligent Energy Harves**|Guanping Xu et.al.|[2505.07414v1](http://arxiv.org/abs/2505.07414v1)|**2025-05-12**|null|
+|**2025-05-12**|**Measuring choriocapillaris blood flow with laser Doppler optical coherence tomography**|Léo Puyo et.al.|[2505.07379v1](http://arxiv.org/abs/2505.07379v1)|**2025-05-12**|null|
+|**2025-05-12**|**Examining the Role of LLM-Driven Interactions on Attention and Cognitive Engagement in Virtual Classrooms**|Suleyman Ozdel et.al.|[2505.07377v1](http://arxiv.org/abs/2505.07377v1)|**2025-05-12**|null|
+|**2025-05-12**|**AIS Data-Driven Maritime Monitoring Based on Transformer: A Comprehensive Review**|Zhiye Xie et.al.|[2505.07374v1](http://arxiv.org/abs/2505.07374v1)|**2025-05-12**|[link](https://github.com/eyesofworld/maritime-monitoring)|
+|**2025-05-12**|**Synthetic Code Surgery: Repairing Bugs and Vulnerabilities with LLMs and Synthetic Data**|David de-Fitero-Dominguez et.al.|[2505.07372v1](http://arxiv.org/abs/2505.07372v1)|**2025-05-12**|null|

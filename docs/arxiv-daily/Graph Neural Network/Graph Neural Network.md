@@ -2,33 +2,33 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-09**|**Equalizing Closeness Centralities via Edge Additions**|Alex Crane et.al.|[2505.06222v1](http://arxiv.org/abs/2505.06222v1)|**2025-05-09**|null|
-|**2025-05-09**|**VIN-NBV: A View Introspection Network for Next-Best-View Selection for Resource-Efficient 3D Reconstruction**|Noah Frahm et.al.|[2505.06219v1](http://arxiv.org/abs/2505.06219v1)|**2025-05-09**|null|
-|**2025-05-09**|**A note on the ineffectiveness of the regularity lemma for bounded degree graphs**|Clark Lyons et.al.|[2505.06215v1](http://arxiv.org/abs/2505.06215v1)|**2025-05-09**|null|
-|**2025-05-09**|**From Fermions to Qubits: A ZX-Calculus Perspective**|Haytham McDowall-Rose et.al.|[2505.06212v1](http://arxiv.org/abs/2505.06212v1)|**2025-05-09**|null|
-|**2025-05-09**|**Alternating Methods for Large-Scale AC Optimal Power Flow with Unit Commitment**|Matthew Brun et.al.|[2505.06211v1](http://arxiv.org/abs/2505.06211v1)|**2025-05-09**|null|
-|**2025-05-09**|**Topo-VM-UNetV2: Encoding Topology into Vision Mamba UNet for Polyp Segmentation**|Diego Adame et.al.|[2505.06210v1](http://arxiv.org/abs/2505.06210v1)|**2025-05-09**|null|
-|**2025-05-09**|**Guerra interpolation for inverse freezing**|Linda Albanese et.al.|[2505.06202v1](http://arxiv.org/abs/2505.06202v1)|**2025-05-09**|null|
-|**2025-05-09**|**Neuro-Symbolic Concepts**|Jiayuan Mao et.al.|[2505.06191v1](http://arxiv.org/abs/2505.06191v1)|**2025-05-09**|null|
-|**2025-05-09**|**Preferential Attachment Trees with Vertex Death: Persistence of the Maximum Degree**|Bas Lodewijks et.al.|[2505.06187v1](http://arxiv.org/abs/2505.06187v1)|**2025-05-09**|null|
-|**2025-05-09**|**From Millions of Tweets to Actionable Insights: Leveraging LLMs for User Profiling**|Vahid Rahimzadeh et.al.|[2505.06184v1](http://arxiv.org/abs/2505.06184v1)|**2025-05-09**|null|
-|**2025-05-09**|**Self-Supervised Federated GNSS Spoofing Detection with Opportunistic Data**|Wenjie Liu et.al.|[2505.06171v1](http://arxiv.org/abs/2505.06171v1)|**2025-05-09**|null|
-|**2025-05-09**|**On the Depth of Monotone ReLU Neural Networks and ICNNs**|Egor Bakaev et.al.|[2505.06169v1](http://arxiv.org/abs/2505.06169v1)|**2025-05-09**|null|
-|**2025-05-09**|**Compilation strategies for quantum network programs using Qoala**|Samuel Oslovich et.al.|[2505.06162v1](http://arxiv.org/abs/2505.06162v1)|**2025-05-09**|null|
-|**2025-05-09**|**Distributed Tensor Network Library for Quantum Computing Emulation**|Jakub Adamski et.al.|[2505.06119v1](http://arxiv.org/abs/2505.06119v1)|**2025-05-09**|null|
-|**2025-05-09**|**The Application of Deep Learning for Lymph Node Segmentation: A Systematic Review**|Jingguo Qu et.al.|[2505.06118v1](http://arxiv.org/abs/2505.06118v1)|**2025-05-09**|null|
-|**2025-05-09**|**Camera-Only Bird's Eye View Perception: A Neural Approach to LiDAR-Free Environmental Mapping for Autonomous Vehicles**|Anupkumar Bochare et.al.|[2505.06113v1](http://arxiv.org/abs/2505.06113v1)|**2025-05-09**|null|
-|**2025-05-09**|**Unconditionally local bounds preserving numerical scheme based on inverse Lax-Wendroff procedure for advection on networks**|Peter Frolkovič et.al.|[2505.06106v1](http://arxiv.org/abs/2505.06106v1)|**2025-05-09**|null|
-|**2025-05-09**|**Packing chromatic number of unitary Cayley graphs of $\Bbb Z_n$ and algorithmic approaches to it**|Zahra Hamed-Labbafian et.al.|[2505.06099v1](http://arxiv.org/abs/2505.06099v1)|**2025-05-09**|null|
-|**2025-05-09**|**UniSymNet: A Unified Symbolic Network Guided by Transformer**|Xinxin Li et.al.|[2505.06091v1](http://arxiv.org/abs/2505.06091v1)|**2025-05-09**|null|
-|**2025-05-09**|**Deep Diffusion Maps**|Sergio García-Heredia et.al.|[2505.06087v1](http://arxiv.org/abs/2505.06087v1)|**2025-05-09**|[link](https://github.com/sgh14/deep-diffusion-maps)|
-|**2025-05-09**|**TREND: Tri-teaching for Robust Preference-based Reinforcement Learning with Demonstrations**|Shuaiyi Huang et.al.|[2505.06079v1](http://arxiv.org/abs/2505.06079v1)|**2025-05-09**|null|
-|**2025-05-09**|**Learning Dynamical Systems with the Spectral Exterior Calculus**|Suddhasattwa Das et.al.|[2505.06061v1](http://arxiv.org/abs/2505.06061v1)|**2025-05-09**|null|
-|**2025-05-09**|**Sublinear Classical-to-Quantum Data Encoding using $n$-Toffoli Gates**|Vittorio Pagni et.al.|[2505.06054v1](http://arxiv.org/abs/2505.06054v1)|**2025-05-09**|null|
-|**2025-05-09**|**Extending the Control Plane of Container Orchestrators for I/O Virtualization**|Garegin Grigoryan et.al.|[2505.06041v1](http://arxiv.org/abs/2505.06041v1)|**2025-05-09**|null|
-|**2025-05-09**|**Document Image Rectification Bases on Self-Adaptive Multitask Fusion**|Heng Li et.al.|[2505.06038v1](http://arxiv.org/abs/2505.06038v1)|**2025-05-09**|null|
-|**2025-05-09**|**All graphs are majority 3-choosable**|Jan Ouborny et.al.|[2505.06031v1](http://arxiv.org/abs/2505.06031v1)|**2025-05-09**|null|
-|**2025-05-09**|**Why Are You Wrong? Counterfactual Explanations for Language Grounding with 3D Objects**|Tobias Preintner et.al.|[2505.06030v1](http://arxiv.org/abs/2505.06030v1)|**2025-05-09**|null|
-|**2025-05-09**|**Efficient Information Updates in Compute-First Networking via Reinforcement Learning with Joint AoI and VoI**|Jianpeng Qi et.al.|[2505.06025v1](http://arxiv.org/abs/2505.06025v1)|**2025-05-09**|null|
-|**2025-05-09**|**Universal Approximation Theorem for Deep Q-Learning via FBSDE System**|Qian Qi et.al.|[2505.06023v1](http://arxiv.org/abs/2505.06023v1)|**2025-05-09**|null|
-|**2025-05-09**|**ArtRAG: Retrieval-Augmented Generation with Structured Context for Visual Art Understanding**|Shuai Wang et.al.|[2505.06020v1](http://arxiv.org/abs/2505.06020v1)|**2025-05-09**|null|
+|**2025-05-12**|**A class of distributed automata that contains the modal mu-fragment**|Veeti Ahvonen et.al.|[2505.07816v1](http://arxiv.org/abs/2505.07816v1)|**2025-05-12**|null|
+|**2025-05-12**|**Imagine, Verify, Execute: Memory-Guided Agentic Exploration with Vision-Language Models**|Seungjae Lee et.al.|[2505.07815v1](http://arxiv.org/abs/2505.07815v1)|**2025-05-12**|null|
+|**2025-05-12**|**Quon Classical Simulation: Unifying Clifford, Matchgates and Entanglement**|Zixuan Feng et.al.|[2505.07804v1](http://arxiv.org/abs/2505.07804v1)|**2025-05-12**|null|
+|**2025-05-12**|**Automatically Differentiable Model Updating (ADiMU): conventional, hybrid, and neural network material model discovery including history-dependency**|Bernardo P. Ferreira et.al.|[2505.07801v1](http://arxiv.org/abs/2505.07801v1)|**2025-05-12**|null|
+|**2025-05-12**|**Isomorphisms of unit distance graphs of layers**|Arthur Igorevich Bikeev et.al.|[2505.07799v1](http://arxiv.org/abs/2505.07799v1)|**2025-05-12**|null|
+|**2025-05-12**|**Mixed state deep thermalization**|Xie-Hang Yu et.al.|[2505.07795v1](http://arxiv.org/abs/2505.07795v1)|**2025-05-12**|null|
+|**2025-05-12**|**Analytic theory of dropout regularization**|Francesco Mori et.al.|[2505.07792v1](http://arxiv.org/abs/2505.07792v1)|**2025-05-12**|null|
+|**2025-05-12**|**Schrijver's $\vartheta$-function is not an upper bound on the Shannon capacity of a graph: a counterexample**|Igal Sason et.al.|[2505.07778v1](http://arxiv.org/abs/2505.07778v1)|**2025-05-12**|null|
+|**2025-05-12**|**Synthesizing Diverse Network Flow Datasets with Scalable Dynamic Multigraph Generation**|Arya Grayeli et.al.|[2505.07777v1](http://arxiv.org/abs/2505.07777v1)|**2025-05-12**|null|
+|**2025-05-12**|**Tagging fully hadronic exotic decays of the vectorlike $\mathbf{B}$ quark using a graph neural network**|Jai Bardhan et.al.|[2505.07769v1](http://arxiv.org/abs/2505.07769v1)|**2025-05-12**|null|
+|**2025-05-12**|**Solving Nonlinear PDEs with Sparse Radial Basis Function Networks**|Zihan Shao et.al.|[2505.07765v1](http://arxiv.org/abs/2505.07765v1)|**2025-05-12**|null|
+|**2025-05-12**|**(2k+1)-Neighborhood Balanced Coloring**|Maurice Genevieva Almeida et.al.|[2505.07758v1](http://arxiv.org/abs/2505.07758v1)|**2025-05-12**|null|
+|**2025-05-12**|**Skeletonization of neuronal processes using Discrete Morse techniques from computational topology**|Samik Banerjee et.al.|[2505.07754v1](http://arxiv.org/abs/2505.07754v1)|**2025-05-12**|null|
+|**2025-05-12**|**BodyGPS: Anatomical Positioning System**|Halid Ziya Yerebakan et.al.|[2505.07744v1](http://arxiv.org/abs/2505.07744v1)|**2025-05-12**|null|
+|**2025-05-12**|**BBR's Sharing Behavior with CUBIC and Reno**|Fatih Berkay Sarpkaya et.al.|[2505.07741v1](http://arxiv.org/abs/2505.07741v1)|**2025-05-12**|null|
+|**2025-05-12**|**Counting and equidistribution of strongly reversible closed geodesics in negative curvature**|Jouni Parkkonen et.al.|[2505.07738v1](http://arxiv.org/abs/2505.07738v1)|**2025-05-12**|null|
+|**2025-05-12**|**LAMM-ViT: AI Face Detection via Layer-Aware Modulation of Region-Guided Attention**|Jiangling Zhang et.al.|[2505.07734v1](http://arxiv.org/abs/2505.07734v1)|**2025-05-12**|null|
+|**2025-05-12**|**Pyrite Bismuth Telluride Heterojunction for Hybrid Electromagnetic to Thermoelectric Energy Harvesting**|Karthik R et.al.|[2505.07732v1](http://arxiv.org/abs/2505.07732v1)|**2025-05-12**|null|
+|**2025-05-12**|**Odd clique minors in graphs with independence number two**|Yuqing Ji et.al.|[2505.07727v1](http://arxiv.org/abs/2505.07727v1)|**2025-05-12**|null|
+|**2025-05-12**|**Interplay of localization and topology in disordered dimerized array of Rydberg atoms**|Maksym Prodius et.al.|[2505.07720v1](http://arxiv.org/abs/2505.07720v1)|**2025-05-12**|null|
+|**2025-05-12**|**Training neural control variates using correlated configurations**|Hyunwoo Oh et.al.|[2505.07719v1](http://arxiv.org/abs/2505.07719v1)|**2025-05-12**|null|
+|**2025-05-12**|**Channel Estimation for Wideband XL-MIMO: A Constrained Deep Unrolling Approach**|Peicong Zheng et.al.|[2505.07717v1](http://arxiv.org/abs/2505.07717v1)|**2025-05-12**|null|
+|**2025-05-12**|**Hybrid Spiking Vision Transformer for Object Detection with Event Cameras**|Qi Xu et.al.|[2505.07715v1](http://arxiv.org/abs/2505.07715v1)|**2025-05-12**|null|
+|**2025-05-12**|**Routing Attacks in Ethereum PoS: A Systematic Exploration**|Constantine Doumanidis et.al.|[2505.07713v1](http://arxiv.org/abs/2505.07713v1)|**2025-05-12**|null|
+|**2025-05-12**|**Lightweight End-to-end Text-to-speech Synthesis for low resource on-device applications**|Biel Tura Vecino et.al.|[2505.07701v1](http://arxiv.org/abs/2505.07701v1)|**2025-05-12**|null|
+|**2025-05-12**|**Design Principles for Realizable Discrete Surface Embeddings in Physical Systems**|Kyungeun Kim et.al.|[2505.07696v1](http://arxiv.org/abs/2505.07696v1)|**2025-05-12**|null|
+|**2025-05-12**|**Feedback-Driven Pseudo-Label Reliability Assessment: Redefining Thresholding for Semi-Supervised Semantic Segmentation**|Negin Ghamsarian et.al.|[2505.07691v1](http://arxiv.org/abs/2505.07691v1)|**2025-05-12**|null|
+|**2025-05-12**|**Anatomical Attention Alignment representation for Radiology Report Generation**|Quang Vinh Nguyen et.al.|[2505.07689v1](http://arxiv.org/abs/2505.07689v1)|**2025-05-12**|[link](https://github.com/vinh-ai/a3net)|
+|**2025-05-12**|**ABS-Mamba: SAM2-Driven Bidirectional Spiral Mamba Network for Medical Image Translation**|Feng Yuan et.al.|[2505.07687v1](http://arxiv.org/abs/2505.07687v1)|**2025-05-12**|[link](https://github.com/gatina-yone/abs-mamba)|
+|**2025-05-12**|**Joint Graph Convolution and Sequential Modeling for Scalable Network Traffic Estimation**|Nan Jiang et.al.|[2505.07674v1](http://arxiv.org/abs/2505.07674v1)|**2025-05-12**|null|

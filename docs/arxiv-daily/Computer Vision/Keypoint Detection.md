@@ -2,6 +2,11 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-12**|**Enabling Privacy-Aware AI-Based Ergonomic Analysis**|Sander De Coninck et.al.|[2505.07306v1](http://arxiv.org/abs/2505.07306v1)|**2025-05-12**|null|
+|**2025-05-10**|**Efficient Parallelization of Message Passing Neural Networks**|Junfan Xia et.al.|[2505.06711v1](http://arxiv.org/abs/2505.06711v1)|**2025-05-10**|null|
+|**2025-05-10**|**Adversarial Coevolutionary Illumination with Generational Adversarial MAP-Elites**|Timothée Anne et.al.|[2505.06617v1](http://arxiv.org/abs/2505.06617v1)|**2025-05-10**|null|
+|**2025-05-10**|**ProFashion: Prototype-guided Fashion Video Generation with Multiple Reference Images**|Xianghao Kong et.al.|[2505.06537v1](http://arxiv.org/abs/2505.06537v1)|**2025-05-10**|null|
+|**2025-05-09**|**My Emotion on your face: The use of Facial Keypoint Detection to preserve Emotions in Latent Space Editing**|Jingrui He et.al.|[2505.06436v1](http://arxiv.org/abs/2505.06436v1)|**2025-05-09**|null|
 |**2025-05-08**|**Fast and Fourier Features for Transfer Learning of Interatomic Potentials**|Pietro Novelli et.al.|[2505.05652v1](http://arxiv.org/abs/2505.05652v1)|**2025-05-08**|null|
 |**2025-05-08**|**xTrace: A Facial Expressive Behaviour Analysis Tool for Continuous Affect Recognition**|Mani Kumar Tellamekala et.al.|[2505.05043v1](http://arxiv.org/abs/2505.05043v1)|**2025-05-08**|null|
 |**2025-05-07**|**WIR3D: Visually-Informed and Geometry-Aware 3D Shape Abstraction**|Richard Liu et.al.|[2505.04813v1](http://arxiv.org/abs/2505.04813v1)|**2025-05-07**|null|
@@ -27,8 +32,3 @@
 |**2025-05-02**|**Scoring-Assisted Generative Exploration for Proteins (SAGE-Prot): A Framework for Multi-Objective Protein Optimization via Iterative Sequence Generation and Evaluation**|Hocheol Lim et.al.|[2505.01277v1](http://arxiv.org/abs/2505.01277v1)|**2025-05-02**|null|
 |**2025-05-02**|**Graph Neural Network-based structural classification of glass-forming liquids and its interpretation via Self-Attention mechanism**|Kohei Yoshikawa et.al.|[2505.00993v1](http://arxiv.org/abs/2505.00993v1)|**2025-05-02**|null|
 |**2025-05-01**|**Robotic Visual Instruction**|Yanbang Li et.al.|[2505.00693v2](http://arxiv.org/abs/2505.00693v2)|**2025-05-06**|null|
-|**2025-05-01**|**Understanding and improving transferability in machine-learned activation energy predictors**|Joe Gilkes et.al.|[2505.00604v1](http://arxiv.org/abs/2505.00604v1)|**2025-05-01**|null|
-|**2025-05-01**|**Multi-Hierarchical Fine-Grained Feature Mapping Driven by Feature Contribution for Molecular Odor Prediction**|Hong Xin Xie et.al.|[2505.00290v1](http://arxiv.org/abs/2505.00290v1)|**2025-05-01**|null|
-|**2025-04-30**|**Why Compress What You Can Generate? When GPT-4o Generation Ushers in Image Compression Fields**|Yixin Gao et.al.|[2504.21814v1](http://arxiv.org/abs/2504.21814v1)|**2025-04-30**|null|
-|**2025-04-30**|**Enhancing Self-Supervised Fine-Grained Video Object Tracking with Dynamic Memory Prediction**|Zihan Zhou et.al.|[2504.21692v1](http://arxiv.org/abs/2504.21692v1)|**2025-04-30**|null|
-|**2025-04-30**|**Drawing Reeb Graphs**|Erin Chambers et.al.|[2504.21329v1](http://arxiv.org/abs/2504.21329v1)|**2025-04-30**|null|

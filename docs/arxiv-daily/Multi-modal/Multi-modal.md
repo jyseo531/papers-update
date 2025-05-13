@@ -2,33 +2,33 @@
 ### Multi-modal
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-09**|**A Proton Treatment Planning Method for Combining FLASH and Spatially Fractionated Radiation Therapy to Enhance Normal Tissue Protection**|Weijie Zhang et.al.|[2505.06223v1](http://arxiv.org/abs/2505.06223v1)|**2025-05-09**|null|
-|**2025-05-09**|**MM-Skin: Enhancing Dermatology Vision-Language Model with an Image-Text Dataset Derived from Textbooks**|Wenqi Zeng et.al.|[2505.06152v1](http://arxiv.org/abs/2505.06152v1)|**2025-05-09**|[link](https://github.com/zwq803/mm-skin)|
-|**2025-05-09**|**BrainSegDMlF: A Dynamic Fusion-enhanced SAM for Brain Lesion Segmentation**|Hongming Wang et.al.|[2505.06133v1](http://arxiv.org/abs/2505.06133v1)|**2025-05-09**|null|
-|**2025-05-09**|**The Application of Deep Learning for Lymph Node Segmentation: A Systematic Review**|Jingguo Qu et.al.|[2505.06118v1](http://arxiv.org/abs/2505.06118v1)|**2025-05-09**|null|
-|**2025-05-09**|**Multimodal Sentiment Analysis on CMU-MOSEI Dataset using Transformer-based Models**|Jugal Gajjar et.al.|[2505.06110v1](http://arxiv.org/abs/2505.06110v1)|**2025-05-09**|null|
-|**2025-05-09**|**S2MNet: Speckle-To-Mesh Net for Three-Dimensional Cardiac Morphology Reconstruction via Echocardiogram**|Xilin Gong et.al.|[2505.06105v1](http://arxiv.org/abs/2505.06105v1)|**2025-05-09**|null|
-|**2025-05-09**|**Fault Diagnosis of 3D-Printed Scaled Wind Turbine Blades**|Luis Miguel Esquivel-Sancho et.al.|[2505.06080v1](http://arxiv.org/abs/2505.06080v1)|**2025-05-09**|null|
-|**2025-05-09**|**Task-Adapter++: Task-specific Adaptation with Order-aware Alignment for Few-shot Action Recognition**|Congqi Cao et.al.|[2505.06002v1](http://arxiv.org/abs/2505.06002v1)|**2025-05-09**|null|
-|**2025-05-09**|**Fast Differentiable Modal Simulation of Non-linear Strings, Membranes, and Plates**|Rodrigo Diaz et.al.|[2505.05940v1](http://arxiv.org/abs/2505.05940v1)|**2025-05-09**|null|
-|**2025-05-09**|**MER-CLIP: AU-Guided Vision-Language Alignment for Micro-Expression Recognition**|Shifeng Liu et.al.|[2505.05937v1](http://arxiv.org/abs/2505.05937v1)|**2025-05-09**|null|
-|**2025-05-09**|**Multi-Modal Molecular Representation Learning via Structure Awareness**|Rong Yin et.al.|[2505.05877v2](http://arxiv.org/abs/2505.05877v2)|**2025-05-12**|null|
-|**2025-05-09**|**Decoupling Multi-Contrast Super-Resolution: Pairing Unpaired Synthesis with Implicit Representations**|Hongyu Rui et.al.|[2505.05855v1](http://arxiv.org/abs/2505.05855v1)|**2025-05-09**|null|
-|**2025-05-09**|**Collecting Human Motion Data in Large and Occlusion-Prone Environments using Ultra-Wideband Localization**|Janik Kaden et.al.|[2505.05851v1](http://arxiv.org/abs/2505.05851v1)|**2025-05-09**|null|
-|**2025-05-09**|**Unsupervised Anomaly Detection for Autonomous Robots via Mahalanobis SVDD with Audio-IMU Fusion**|Yizhuo Yang et.al.|[2505.05811v1](http://arxiv.org/abs/2505.05811v1)|**2025-05-09**|null|
-|**2025-05-09**|**Describe Anything in Medical Images**|Xi Xiao et.al.|[2505.05804v1](http://arxiv.org/abs/2505.05804v1)|**2025-05-09**|null|
-|**2025-05-09**|**BMMDetect: A Multimodal Deep Learning Framework for Comprehensive Biomedical Misconduct Detection**|Yize Zhou et.al.|[2505.05763v1](http://arxiv.org/abs/2505.05763v1)|**2025-05-09**|null|
-|**2025-05-09**|**Semantic-Space-Intervened Diffusive Alignment for Visual Classification**|Zixuan Li et.al.|[2505.05721v1](http://arxiv.org/abs/2505.05721v1)|**2025-05-09**|null|
-|**2025-05-09**|**TopicVD: A Topic-Based Dataset of Video-Guided Multimodal Machine Translation for Documentaries**|Jinze Lv et.al.|[2505.05714v1](http://arxiv.org/abs/2505.05714v1)|**2025-05-09**|null|
-|**2025-05-08**|**The Moon's Many Faces: A Single Unified Transformer for Multimodal Lunar Reconstruction**|Tom Sander et.al.|[2505.05644v1](http://arxiv.org/abs/2505.05644v1)|**2025-05-08**|null|
-|**2025-05-08**|**VR-RAG: Open-vocabulary Species Recognition with RAG-Assisted Large Multi-Modal Models**|Faizan Farooq Khan et.al.|[2505.05635v1](http://arxiv.org/abs/2505.05635v1)|**2025-05-08**|null|
-|**2025-05-08**|**A Preliminary Study for GPT-4o on Image Restoration**|Hao Yang et.al.|[2505.05621v1](http://arxiv.org/abs/2505.05621v1)|**2025-05-08**|[link](https://github.com/noxsine/gpt_restoration)|
-|**2025-05-08**|**PyTDC: A multimodal machine learning training, evaluation, and inference platform for biomedical foundation models**|Alejandro Velez-Arce et.al.|[2505.05577v1](http://arxiv.org/abs/2505.05577v1)|**2025-05-08**|[link](https://github.com/apliko-xyz/pytdc)|
-|**2025-05-08**|**Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation**|Chao Liao et.al.|[2505.05472v2](http://arxiv.org/abs/2505.05472v2)|**2025-05-11**|null|
-|**2025-05-08**|**Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging**|Shiqi Chen et.al.|[2505.05464v1](http://arxiv.org/abs/2505.05464v1)|**2025-05-08**|[link](https://github.com/shiqichen17/vlm_merging)|
-|**2025-05-08**|**SITE: towards Spatial Intelligence Thorough Evaluation**|Wenqi Wang et.al.|[2505.05456v1](http://arxiv.org/abs/2505.05456v1)|**2025-05-08**|null|
-|**2025-05-08**|**GeomHair: Reconstruction of Hair Strands from Colorless 3D Scans**|Rachmadio Noval Lazuardi et.al.|[2505.05376v2](http://arxiv.org/abs/2505.05376v2)|**2025-05-09**|null|
-|**2025-05-08**|**FLAM: Frame-Wise Language-Audio Modeling**|Yusong Wu et.al.|[2505.05335v1](http://arxiv.org/abs/2505.05335v1)|**2025-05-08**|null|
-|**2025-05-08**|**PADriver: Towards Personalized Autonomous Driving**|Genghua Kou et.al.|[2505.05240v1](http://arxiv.org/abs/2505.05240v1)|**2025-05-08**|null|
-|**2025-05-08**|**EAM: Enhancing Anything with Diffusion Transformers for Blind Super-Resolution**|Haizhen Xie et.al.|[2505.05209v1](http://arxiv.org/abs/2505.05209v1)|**2025-05-08**|null|
-|**2025-05-08**|**Biomed-DPT: Dual Modality Prompt Tuning for Biomedical Vision-Language Models**|Wei Peng et.al.|[2505.05189v1](http://arxiv.org/abs/2505.05189v1)|**2025-05-08**|null|
+|**2025-05-12**|**A class of distributed automata that contains the modal mu-fragment**|Veeti Ahvonen et.al.|[2505.07816v1](http://arxiv.org/abs/2505.07816v1)|**2025-05-12**|null|
+|**2025-05-12**|**Continuous Visual Autoregressive Generation via Score Maximization**|Chenze Shao et.al.|[2505.07812v1](http://arxiv.org/abs/2505.07812v1)|**2025-05-12**|[link](https://github.com/shaochenze/ear)|
+|**2025-05-12**|**AcoustoBots: A swarm of robots for acoustophoretic multimodal interactions**|Narsimlu Kemsaram et.al.|[2505.07808v1](http://arxiv.org/abs/2505.07808v1)|**2025-05-12**|null|
+|**2025-05-12**|**Privacy Risks of Robot Vision: A User Study on Image Modalities and Resolution**|Xuying Huang et.al.|[2505.07766v1](http://arxiv.org/abs/2505.07766v1)|**2025-05-12**|null|
+|**2025-05-12**|**BodyGPS: Anatomical Positioning System**|Halid Ziya Yerebakan et.al.|[2505.07744v1](http://arxiv.org/abs/2505.07744v1)|**2025-05-12**|null|
+|**2025-05-12**|**Anatomical Attention Alignment representation for Radiology Report Generation**|Quang Vinh Nguyen et.al.|[2505.07689v1](http://arxiv.org/abs/2505.07689v1)|**2025-05-12**|[link](https://github.com/vinh-ai/a3net)|
+|**2025-05-12**|**ABS-Mamba: SAM2-Driven Bidirectional Spiral Mamba Network for Medical Image Translation**|Feng Yuan et.al.|[2505.07687v1](http://arxiv.org/abs/2505.07687v1)|**2025-05-12**|[link](https://github.com/gatina-yone/abs-mamba)|
+|**2025-05-12**|**Hierarchical Sparse Attention Framework for Computationally Efficient Classification of Biological Cells**|Elad Yoshai et.al.|[2505.07661v1](http://arxiv.org/abs/2505.07661v1)|**2025-05-12**|null|
+|**2025-05-12**|**Modal analysis of oblique shock-induced flow dynamics in a supersonic reacting shear layer**|Radouan Boukharfane et.al.|[2505.07636v1](http://arxiv.org/abs/2505.07636v1)|**2025-05-12**|null|
+|**2025-05-12**|**MAIS: Memory-Attention for Interactive Segmentation**|Mauricio Orbes-Arteaga et.al.|[2505.07511v1](http://arxiv.org/abs/2505.07511v1)|**2025-05-12**|null|
+|**2025-05-12**|**GelFusion: Enhancing Robotic Manipulation under Visual Constraints via Visuotactile Fusion**|Shulong Jiang et.al.|[2505.07455v1](http://arxiv.org/abs/2505.07455v1)|**2025-05-12**|null|
+|**2025-05-12**|**TPT-Bench: A Large-Scale, Long-Term and Robot-Egocentric Dataset for Benchmarking Target Person Tracking**|Hanjing Ye et.al.|[2505.07446v1](http://arxiv.org/abs/2505.07446v1)|**2025-05-12**|null|
+|**2025-05-12**|**Lightweight Multispectral Crop-Weed Segmentation for Precision Agriculture**|Zeynep Galymzhankyzy et.al.|[2505.07444v1](http://arxiv.org/abs/2505.07444v1)|**2025-05-12**|null|
+|**2025-05-12**|**DepthFusion: Depth-Aware Hybrid Feature Fusion for LiDAR-Camera 3D Object Detection**|Mingqian Ji et.al.|[2505.07398v1](http://arxiv.org/abs/2505.07398v1)|**2025-05-12**|null|
+|**2025-05-12**|**GAN-based synthetic FDG PET images from T1 brain MRI can serve to improve performance of deep unsupervised anomaly detection models**|Daria Zotova et.al.|[2505.07364v1](http://arxiv.org/abs/2505.07364v1)|**2025-05-12**|null|
+|**2025-05-12**|**Multi-Plane Vision Transformer for Hemorrhage Classification Using Axial and Sagittal MRI Data**|Badhan Kumar Das et.al.|[2505.07349v1](http://arxiv.org/abs/2505.07349v1)|**2025-05-12**|null|
+|**2025-05-12**|**AI-Enabled Accurate Non-Invasive Assessment of Pulmonary Hypertension Progression via Multi-Modal Echocardiography**|Jiewen Yang et.al.|[2505.07347v1](http://arxiv.org/abs/2505.07347v1)|**2025-05-12**|null|
+|**2025-05-12**|**Piloting Structure-Based Drug Design via Modality-Specific Optimal Schedule**|Keyue Qiu et.al.|[2505.07286v1](http://arxiv.org/abs/2505.07286v1)|**2025-05-12**|null|
+|**2025-05-12**|**BETTY Dataset: A Multi-modal Dataset for Full-Stack Autonomy**|Micah Nye et.al.|[2505.07266v1](http://arxiv.org/abs/2505.07266v1)|**2025-05-12**|null|
+|**2025-05-12**|**Discovering Fine-Grained Visual-Concept Relations by Disentangled Optimal Transport Concept Bottleneck Models**|Yan Xie et.al.|[2505.07209v1](http://arxiv.org/abs/2505.07209v1)|**2025-05-12**|null|
+|**2025-05-12**|**Skull stripping with purely synthetic data**|Jong Sung Park et.al.|[2505.07159v1](http://arxiv.org/abs/2505.07159v1)|**2025-05-12**|null|
+|**2025-05-11**|**Discovering Concept Directions from Diffusion-based Counterfactuals via Latent Clustering**|Payal Varshney et.al.|[2505.07073v1](http://arxiv.org/abs/2505.07073v1)|**2025-05-11**|null|
+|**2025-05-11**|**Depth-Sensitive Soft Suppression with RGB-D Inter-Modal Stylization Flow for Domain Generalization Semantic Segmentation**|Binbin Wei et.al.|[2505.07050v1](http://arxiv.org/abs/2505.07050v1)|**2025-05-11**|null|
+|**2025-05-11**|**A Vision-Language Foundation Model for Leaf Disease Identification**|Khang Nguyen Quoc et.al.|[2505.07019v1](http://arxiv.org/abs/2505.07019v1)|**2025-05-11**|null|
+|**2025-05-11**|**VALISENS: A Validated Innovative Multi-Sensor System for Cooperative Automated Driving**|Lei Wan et.al.|[2505.06980v1](http://arxiv.org/abs/2505.06980v1)|**2025-05-11**|null|
+|**2025-05-11**|**A systematic review of challenges and proposed solutions in modeling multimodal data**|Maryam Farhadizadeh et.al.|[2505.06945v1](http://arxiv.org/abs/2505.06945v1)|**2025-05-11**|null|
+|**2025-05-11**|**Transformer-Based Dual-Optical Attention Fusion Crowd Head Point Counting and Localization Network**|Fei Zhou et.al.|[2505.06937v1](http://arxiv.org/abs/2505.06937v1)|**2025-05-11**|[link](https://github.com/zz-zik/tapnet)|
+|**2025-05-11**|**Bi-directional Self-Registration for Misaligned Infrared-Visible Image Fusion**|Timing Li et.al.|[2505.06920v1](http://arxiv.org/abs/2505.06920v1)|**2025-05-11**|null|
+|**2025-05-11**|**MMiC: Mitigating Modality Incompleteness in Clustered Federated Learning**|Lishan Yang et.al.|[2505.06911v1](http://arxiv.org/abs/2505.06911v1)|**2025-05-11**|null|
+|**2025-05-11**|**CheXLearner: Text-Guided Fine-Grained Representation Learning for Progression Detection**|Yuanzhuo Wang et.al.|[2505.06903v1](http://arxiv.org/abs/2505.06903v1)|**2025-05-11**|null|
