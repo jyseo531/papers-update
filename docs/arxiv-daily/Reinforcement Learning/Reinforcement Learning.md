@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-05-12**|**Revisiting the Excess Volatility Puzzle Through the Lens of the Chiarella Model**|Jutta G. Kurth et.al.|[2505.07820v1](http://arxiv.org/abs/2505.07820v1)|**2025-05-12**|null|
 |**2025-05-12**|**DanceGRPO: Unleashing GRPO on Visual Generation**|Zeyue Xue et.al.|[2505.07818v1](http://arxiv.org/abs/2505.07818v1)|**2025-05-12**|null|
-|**2025-05-12**|**A Theoretical Framework for Explaining Reinforcement Learning with Shapley Values**|Daniel Beechey et.al.|[2505.07797v1](http://arxiv.org/abs/2505.07797v1)|**2025-05-12**|null|
+|**2025-05-12**|**A Theoretical Framework for Explaining Reinforcement Learning with Shapley Values**|Daniel Beechey et.al.|[2505.07797v1](http://arxiv.org/abs/2505.07797v1)|**2025-05-12**|[link](https://github.com/djeb20/sverl)|
 |**2025-05-12**|**MLE-Dojo: Interactive Environments for Empowering LLM Agents in Machine Learning Engineering**|Rushi Qiang et.al.|[2505.07782v1](http://arxiv.org/abs/2505.07782v1)|**2025-05-12**|null|
 |**2025-05-12**|**Must Read: A Systematic Survey of Computational Persuasion**|Nimet Beyza Bozdag et.al.|[2505.07775v1](http://arxiv.org/abs/2505.07775v1)|**2025-05-12**|null|
 |**2025-05-12**|**Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving**|Xinji Mai et.al.|[2505.07773v1](http://arxiv.org/abs/2505.07773v1)|**2025-05-12**|[link](https://github.com/anonymize-author/agentrl)|
@@ -29,6 +29,6 @@
 |**2025-05-12**|**INTELLECT-2: A Reasoning Model Trained Through Globally Decentralized Reinforcement Learning**|Prime Intellect Team et.al.|[2505.07291v1](http://arxiv.org/abs/2505.07291v1)|**2025-05-12**|null|
 |**2025-05-12**|**Multi-Agent DRL for Multi-Objective Twin Migration Routing with Workload Prediction in 6G-enabled IoV**|Peng Yin et.al.|[2505.07290v1](http://arxiv.org/abs/2505.07290v1)|**2025-05-12**|null|
 |**2025-05-12**|**A Turing Test for ''Localness'': Conceptualizing, Defining, and Recognizing Localness in People and Machines**|Zihan Gao et.al.|[2505.07282v1](http://arxiv.org/abs/2505.07282v1)|**2025-05-12**|null|
-|**2025-05-12**|**Coordinated Spatial Reuse Scheduling With Machine Learning in IEEE 802.11 MAPC Networks**|Maksymilian Wojnar et.al.|[2505.07278v1](http://arxiv.org/abs/2505.07278v1)|**2025-05-12**|null|
-|**2025-05-12**|**Cache-Efficient Posterior Sampling for Reinforcement Learning with LLM-Derived Priors Across Discrete and Continuous Domains**|Ibne Farabi Shihab et.al.|[2505.07274v1](http://arxiv.org/abs/2505.07274v1)|**2025-05-12**|null|
+|**2025-05-12**|**Coordinated Spatial Reuse Scheduling With Machine Learning in IEEE 802.11 MAPC Networks**|Maksymilian Wojnar et.al.|[2505.07278v2](http://arxiv.org/abs/2505.07278v2)|**2025-05-13**|null|
+|**2025-05-12**|**Cache-Efficient Posterior Sampling for Reinforcement Learning with LLM-Derived Priors Across Discrete and Continuous Domains**|Ibne Farabi Shihab et.al.|[2505.07274v1](http://arxiv.org/abs/2505.07274v1)|**2025-05-12**|[link](https://github.com/cache-efficient-llm-rl/llm-cache-rl)|
 |**2025-05-12**|**On the Robustness of Reward Models for Language Model Alignment**|Jiwoo Hong et.al.|[2505.07271v1](http://arxiv.org/abs/2505.07271v1)|**2025-05-12**|null|

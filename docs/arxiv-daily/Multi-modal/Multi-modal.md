@@ -22,7 +22,7 @@
 |**2025-05-12**|**Piloting Structure-Based Drug Design via Modality-Specific Optimal Schedule**|Keyue Qiu et.al.|[2505.07286v1](http://arxiv.org/abs/2505.07286v1)|**2025-05-12**|null|
 |**2025-05-12**|**BETTY Dataset: A Multi-modal Dataset for Full-Stack Autonomy**|Micah Nye et.al.|[2505.07266v1](http://arxiv.org/abs/2505.07266v1)|**2025-05-12**|null|
 |**2025-05-12**|**Discovering Fine-Grained Visual-Concept Relations by Disentangled Optimal Transport Concept Bottleneck Models**|Yan Xie et.al.|[2505.07209v1](http://arxiv.org/abs/2505.07209v1)|**2025-05-12**|null|
-|**2025-05-12**|**Skull stripping with purely synthetic data**|Jong Sung Park et.al.|[2505.07159v1](http://arxiv.org/abs/2505.07159v1)|**2025-05-12**|null|
+|**2025-05-12**|**Skull stripping with purely synthetic data**|Jong Sung Park et.al.|[2505.07159v1](http://arxiv.org/abs/2505.07159v1)|**2025-05-12**|[link](https://github.com/pjsjongsung/PUMBA)|
 |**2025-05-11**|**Discovering Concept Directions from Diffusion-based Counterfactuals via Latent Clustering**|Payal Varshney et.al.|[2505.07073v1](http://arxiv.org/abs/2505.07073v1)|**2025-05-11**|null|
 |**2025-05-11**|**Depth-Sensitive Soft Suppression with RGB-D Inter-Modal Stylization Flow for Domain Generalization Semantic Segmentation**|Binbin Wei et.al.|[2505.07050v1](http://arxiv.org/abs/2505.07050v1)|**2025-05-11**|null|
 |**2025-05-11**|**A Vision-Language Foundation Model for Leaf Disease Identification**|Khang Nguyen Quoc et.al.|[2505.07019v1](http://arxiv.org/abs/2505.07019v1)|**2025-05-11**|null|

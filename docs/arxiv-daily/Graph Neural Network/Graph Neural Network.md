@@ -13,7 +13,7 @@
 |**2025-05-12**|**Synthesizing Diverse Network Flow Datasets with Scalable Dynamic Multigraph Generation**|Arya Grayeli et.al.|[2505.07777v1](http://arxiv.org/abs/2505.07777v1)|**2025-05-12**|null|
 |**2025-05-12**|**Tagging fully hadronic exotic decays of the vectorlike $\mathbf{B}$ quark using a graph neural network**|Jai Bardhan et.al.|[2505.07769v1](http://arxiv.org/abs/2505.07769v1)|**2025-05-12**|null|
 |**2025-05-12**|**Solving Nonlinear PDEs with Sparse Radial Basis Function Networks**|Zihan Shao et.al.|[2505.07765v1](http://arxiv.org/abs/2505.07765v1)|**2025-05-12**|null|
-|**2025-05-12**|**(2k+1)-Neighborhood Balanced Coloring**|Maurice Genevieva Almeida et.al.|[2505.07758v1](http://arxiv.org/abs/2505.07758v1)|**2025-05-12**|null|
+|**2025-05-12**|**$(2k+1)$-Neighborhood Balanced Coloring**|Maurice Genevieva Almeida et.al.|[2505.07758v1](http://arxiv.org/abs/2505.07758v1)|**2025-05-12**|null|
 |**2025-05-12**|**Skeletonization of neuronal processes using Discrete Morse techniques from computational topology**|Samik Banerjee et.al.|[2505.07754v1](http://arxiv.org/abs/2505.07754v1)|**2025-05-12**|null|
 |**2025-05-12**|**BodyGPS: Anatomical Positioning System**|Halid Ziya Yerebakan et.al.|[2505.07744v1](http://arxiv.org/abs/2505.07744v1)|**2025-05-12**|null|
 |**2025-05-12**|**BBR's Sharing Behavior with CUBIC and Reno**|Fatih Berkay Sarpkaya et.al.|[2505.07741v1](http://arxiv.org/abs/2505.07741v1)|**2025-05-12**|null|

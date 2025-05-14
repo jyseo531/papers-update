@@ -31,4 +31,4 @@
 |**2025-05-12**|**Autonomous Robotic Pruning in Orchards and Vineyards: a Review**|Alessandro Navone et.al.|[2505.07318v1](http://arxiv.org/abs/2505.07318v1)|**2025-05-12**|null|
 |**2025-05-12**|**HuB: Learning Extreme Humanoid Balance**|Tong Zhang et.al.|[2505.07294v1](http://arxiv.org/abs/2505.07294v1)|**2025-05-12**|null|
 |**2025-05-12**|**BETTY Dataset: A Multi-modal Dataset for Full-Stack Autonomy**|Micah Nye et.al.|[2505.07266v1](http://arxiv.org/abs/2505.07266v1)|**2025-05-12**|null|
-|**2025-05-12**|**CHD: Coupled Hierarchical Diffusion for Long-Horizon Tasks**|Ce Hao et.al.|[2505.07261v1](http://arxiv.org/abs/2505.07261v1)|**2025-05-12**|null|
+|**2025-05-12**|**CHD: Coupled Hierarchical Diffusion for Long-Horizon Tasks**|Ce Hao et.al.|[2505.07261v2](http://arxiv.org/abs/2505.07261v2)|**2025-05-13**|null|

@@ -23,7 +23,7 @@
 |**2025-05-12**|**Cosmic Ray Superdiffusion and Mirror Diffusion in Partially Ionized and Turbulent Medium**|Yue Hu et.al.|[2505.07421v1](http://arxiv.org/abs/2505.07421v1)|**2025-05-12**|null|
 |**2025-05-12**|**Empirical approaches to Frohlich excitonic polarons in polar semiconductors with application to 3D halide perovskites**|Jacky Even et.al.|[2505.07406v1](http://arxiv.org/abs/2505.07406v1)|**2025-05-12**|null|
 |**2025-05-12**|**DepthFusion: Depth-Aware Hybrid Feature Fusion for LiDAR-Camera 3D Object Detection**|Mingqian Ji et.al.|[2505.07398v1](http://arxiv.org/abs/2505.07398v1)|**2025-05-12**|null|
-|**2025-05-12**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396v1](http://arxiv.org/abs/2505.07396v1)|**2025-05-12**|null|
+|**2025-05-12**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396v2](http://arxiv.org/abs/2505.07396v2)|**2025-05-13**|null|
 |**2025-05-12**|**Feature Visualization in 3D Convolutional Neural Networks**|Chunpeng Li et.al.|[2505.07387v1](http://arxiv.org/abs/2505.07387v1)|**2025-05-12**|null|
 |**2025-05-12**|**Few-shot Semantic Encoding and Decoding for Video Surveillance**|Baoping Cheng et.al.|[2505.07381v1](http://arxiv.org/abs/2505.07381v1)|**2025-05-12**|null|
 |**2025-05-12**|**Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection**|Yuqi Cheng et.al.|[2505.07375v1](http://arxiv.org/abs/2505.07375v1)|**2025-05-12**|[link](https://github.com/hustCYQ/GLFM-Multi-class-3DAD)|
