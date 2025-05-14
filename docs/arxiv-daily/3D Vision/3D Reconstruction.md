@@ -2,33 +2,33 @@
 ### 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-12**|**PtyRAD: A High-performance and Flexible Ptychographic Reconstruction Framework with Automatic Differentiation**|Chia-Hao Lee et.al.|[2505.07814v1](http://arxiv.org/abs/2505.07814v1)|**2025-05-12**|null|
-|**2025-05-12**|**Two-step phase transitions in Fe(Se,Te)**|D. A. Chareev et.al.|[2505.07807v1](http://arxiv.org/abs/2505.07807v1)|**2025-05-12**|null|
-|**2025-05-12**|**Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets**|Weiyu Li et.al.|[2505.07747v1](http://arxiv.org/abs/2505.07747v1)|**2025-05-12**|null|
-|**2025-05-12**|**ISAC: An Invertible and Stable Auditory Filter Bank with Customizable Kernels for ML Integration**|Daniel Haider et.al.|[2505.07709v1](http://arxiv.org/abs/2505.07709v1)|**2025-05-12**|null|
-|**2025-05-12**|**Design Principles for Realizable Discrete Surface Embeddings in Physical Systems**|Kyungeun Kim et.al.|[2505.07696v1](http://arxiv.org/abs/2505.07696v1)|**2025-05-12**|null|
-|**2025-05-12**|**Energetic consistency and heat transport in Fourier-Galerkin truncations of free slip 3D rotating convection**|Jens D. M. Rademacher et.al.|[2505.07678v1](http://arxiv.org/abs/2505.07678v1)|**2025-05-12**|null|
-|**2025-05-12**|**Flowing from the Ising Model on the Fuzzy Sphere to the 3D Lee-Yang CFT**|Joan Elias Miro et.al.|[2505.07655v1](http://arxiv.org/abs/2505.07655v1)|**2025-05-12**|null|
-|**2025-05-12**|**Kolmogorov scaling in bubble-induced turbulence**|Tian Ma et.al.|[2505.07633v1](http://arxiv.org/abs/2505.07633v1)|**2025-05-12**|null|
-|**2025-05-12**|**Higher-Order Convolution Improves Neural Predictivity in the Retina**|Simone Azeglio et.al.|[2505.07620v1](http://arxiv.org/abs/2505.07620v1)|**2025-05-12**|null|
-|**2025-05-12**|**Dynamic Object Geographic Coordinate Recognition: An Attitude-Free and Reference-Free Framework via Intrinsic Linear Algebraic Structures**|Junfan Yi et.al.|[2505.07597v1](http://arxiv.org/abs/2505.07597v1)|**2025-05-12**|null|
-|**2025-05-12**|**Fine-scale opposite-polarity magnetic fields in a solar plage revealed by integral field spectropolarimetry**|G. Liu et.al.|[2505.07561v1](http://arxiv.org/abs/2505.07561v1)|**2025-05-12**|null|
-|**2025-05-12**|**Physics-Informed Topological Signal Processing for Water Distribution Network Monitoring**|Tiziana Cattai et.al.|[2505.07560v1](http://arxiv.org/abs/2505.07560v1)|**2025-05-12**|null|
-|**2025-05-12**|**Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning**|Bohan Wang et.al.|[2505.07538v1](http://arxiv.org/abs/2505.07538v1)|**2025-05-12**|null|
-|**2025-05-12**|**Saturation theorems for neural network operators by solving elliptic and hyperbolic PDEs with analytical and semi-analytical inverse problems**|Danilo Costarelli et.al.|[2505.07526v1](http://arxiv.org/abs/2505.07526v1)|**2025-05-12**|null|
-|**2025-05-12**|**On discrete X-ray transform**|Roman Novikov et.al.|[2505.07505v1](http://arxiv.org/abs/2505.07505v1)|**2025-05-12**|null|
-|**2025-05-12**|**Development of the Range Counter for the COMET Phase-$α$ Experiment**|Kou Oishi et.al.|[2505.07464v1](http://arxiv.org/abs/2505.07464v1)|**2025-05-12**|null|
-|**2025-05-12**|**TPT-Bench: A Large-Scale, Long-Term and Robot-Egocentric Dataset for Benchmarking Target Person Tracking**|Hanjing Ye et.al.|[2505.07446v1](http://arxiv.org/abs/2505.07446v1)|**2025-05-12**|null|
-|**2025-05-12**|**Characterizing 3D Magnetic Fields and Turbulence in H I Clouds**|Yue Hu et.al.|[2505.07422v1](http://arxiv.org/abs/2505.07422v1)|**2025-05-12**|null|
-|**2025-05-12**|**Cosmic Ray Superdiffusion and Mirror Diffusion in Partially Ionized and Turbulent Medium**|Yue Hu et.al.|[2505.07421v1](http://arxiv.org/abs/2505.07421v1)|**2025-05-12**|null|
-|**2025-05-12**|**Empirical approaches to Frohlich excitonic polarons in polar semiconductors with application to 3D halide perovskites**|Jacky Even et.al.|[2505.07406v1](http://arxiv.org/abs/2505.07406v1)|**2025-05-12**|null|
-|**2025-05-12**|**DepthFusion: Depth-Aware Hybrid Feature Fusion for LiDAR-Camera 3D Object Detection**|Mingqian Ji et.al.|[2505.07398v1](http://arxiv.org/abs/2505.07398v1)|**2025-05-12**|null|
-|**2025-05-12**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396v2](http://arxiv.org/abs/2505.07396v2)|**2025-05-13**|null|
-|**2025-05-12**|**Feature Visualization in 3D Convolutional Neural Networks**|Chunpeng Li et.al.|[2505.07387v1](http://arxiv.org/abs/2505.07387v1)|**2025-05-12**|null|
-|**2025-05-12**|**Few-shot Semantic Encoding and Decoding for Video Surveillance**|Baoping Cheng et.al.|[2505.07381v1](http://arxiv.org/abs/2505.07381v1)|**2025-05-12**|null|
-|**2025-05-12**|**Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection**|Yuqi Cheng et.al.|[2505.07375v1](http://arxiv.org/abs/2505.07375v1)|**2025-05-12**|[link](https://github.com/hustCYQ/GLFM-Multi-class-3DAD)|
-|**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373v1](http://arxiv.org/abs/2505.07373v1)|**2025-05-12**|null|
-|**2025-05-12**|**Global small-time approximate null and Lagrangian controllability of the viscous non-resistive MHD system in a $3D$ domain with Navier type boundary conditions**|Jiajiang Liao et.al.|[2505.07366v1](http://arxiv.org/abs/2505.07366v1)|**2025-05-12**|null|
-|**2025-05-12**|**Multi-Plane Vision Transformer for Hemorrhage Classification Using Axial and Sagittal MRI Data**|Badhan Kumar Das et.al.|[2505.07349v1](http://arxiv.org/abs/2505.07349v1)|**2025-05-12**|null|
-|**2025-05-12**|**Reflective centers as categories of modules**|Peter Schauenburg et.al.|[2505.07343v1](http://arxiv.org/abs/2505.07343v1)|**2025-05-12**|null|
-|**2025-05-12**|**Variational Quantum Monte Carlo investigations of the superconducting pairing in La$_3$Ni$_2$O$_7$**|Yi-Qun Liu et.al.|[2505.07341v1](http://arxiv.org/abs/2505.07341v1)|**2025-05-12**|null|
+|**2025-05-13**|**Full-volume aberration-space holography**|Ian Christen et.al.|[2505.08777v1](http://arxiv.org/abs/2505.08777v1)|**2025-05-13**|null|
+|**2025-05-13**|**Analytically tractable reconstruction of singular hyperbolic and quasi-strange attractors of Lorenz-type systems**|Nikita V. Barabash et.al.|[2505.08770v1](http://arxiv.org/abs/2505.08770v1)|**2025-05-13**|null|
+|**2025-05-13**|**Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic Methodology**|Yatai Ji et.al.|[2505.08765v1](http://arxiv.org/abs/2505.08765v1)|**2025-05-13**|null|
+|**2025-05-13**|**Elevated Hall Responses as Indicators of Edge Reconstruction**|Sampurna Karmakar et.al.|[2505.08746v1](http://arxiv.org/abs/2505.08746v1)|**2025-05-13**|null|
+|**2025-05-13**|**Applying the ACE2 Emulator to SST Green's Functions for the E3SMv3 Climate Model**|Elynn Wu et.al.|[2505.08742v1](http://arxiv.org/abs/2505.08742v1)|**2025-05-13**|null|
+|**2025-05-13**|**Towards Foundation Models for Experimental Readout Systems Combining Discrete and Continuous Data**|James Giroux et.al.|[2505.08736v1](http://arxiv.org/abs/2505.08736v1)|**2025-05-13**|null|
+|**2025-05-13**|**Extending Large Vision-Language Model for Diverse Interactive Tasks in Autonomous Driving**|Zongchuang Zhao et.al.|[2505.08725v1](http://arxiv.org/abs/2505.08725v1)|**2025-05-13**|null|
+|**2025-05-13**|**Quantum confinement theory of ultra-thin films: electronic, thermal and superconducting properties**|Alessio Zaccone et.al.|[2505.08696v1](http://arxiv.org/abs/2505.08696v1)|**2025-05-13**|null|
+|**2025-05-13**|**VIViT: Variable-Input Vision Transformer Framework for 3D MR Image Segmentation**|Badhan Kumar Das et.al.|[2505.08693v1](http://arxiv.org/abs/2505.08693v1)|**2025-05-13**|null|
+|**2025-05-13**|**Plastic deformation as a phase transition: a combinatorial model of plastic flow in copper single crystals**|Afonso D. M. Barroso et.al.|[2505.08689v1](http://arxiv.org/abs/2505.08689v1)|**2025-05-13**|null|
+|**2025-05-13**|**CAD-Coder:Text-Guided CAD Files Code Generation**|Changqi He et.al.|[2505.08686v1](http://arxiv.org/abs/2505.08686v1)|**2025-05-13**|null|
+|**2025-05-13**|**Topology and geometry optimization of grid-shells under self-weight loading**|Helen E. Fairclough et.al.|[2505.08645v1](http://arxiv.org/abs/2505.08645v1)|**2025-05-13**|null|
+|**2025-05-13**|**DLO-Splatting: Tracking Deformable Linear Objects Using 3D Gaussian Splatting**|Holly Dinkel et.al.|[2505.08644v1](http://arxiv.org/abs/2505.08644v1)|**2025-05-13**|null|
+|**2025-05-13**|**Learning cardiac activation and repolarization times with operator learning**|Edoardo Centofanti et.al.|[2505.08631v1](http://arxiv.org/abs/2505.08631v1)|**2025-05-13**|null|
+|**2025-05-13**|**A portable diagnosis model for Keratoconus using a smartphone**|Yifan Li et.al.|[2505.08616v1](http://arxiv.org/abs/2505.08616v1)|**2025-05-13**|null|
+|**2025-05-13**|**Quantum State Readout via Overlap-Based Feature Extraction**|Hirofumi Nishi et.al.|[2505.08613v1](http://arxiv.org/abs/2505.08613v1)|**2025-05-13**|null|
+|**2025-05-13**|**Probing the Universe's Topology through a Quantum System?**|Evangelos Achilleas Paraskevas et.al.|[2505.08603v1](http://arxiv.org/abs/2505.08603v1)|**2025-05-13**|null|
+|**2025-05-13**|**Rejoining fragmented ancient bamboo slips with physics-driven deep learning**|Jinchi Zhu et.al.|[2505.08601v1](http://arxiv.org/abs/2505.08601v1)|**2025-05-13**|[link](https://github.com/zhujinchi/wisepanda)|
+|**2025-05-13**|**MESSI: A Multi-Elevation Semantic Segmentation Image Dataset of an Urban Environment**|Barak Pinkovich et.al.|[2505.08589v1](http://arxiv.org/abs/2505.08589v1)|**2025-05-13**|null|
+|**2025-05-13**|**Extract the Best, Discard the Rest: CSI Feedback with Offline Large AI Models**|Jialin Zhuang et.al.|[2505.08566v1](http://arxiv.org/abs/2505.08566v1)|**2025-05-13**|null|
+|**2025-05-13**|**Reinforcement Learning meets Masked Video Modeling : Trajectory-Guided Adaptive Token Selection**|Ayush K. Rai et.al.|[2505.08561v1](http://arxiv.org/abs/2505.08561v1)|**2025-05-13**|null|
+|**2025-05-13**|**Short Wins Long: Short Codes with Language Model Semantic Correction Outperform Long Codes**|Jiafu Hao et.al.|[2505.08536v1](http://arxiv.org/abs/2505.08536v1)|**2025-05-13**|null|
+|**2025-05-13**|**Holographic geometry/real-space entanglement correspondence and metric reconstruction**|Xuanting Ji et.al.|[2505.08534v1](http://arxiv.org/abs/2505.08534v1)|**2025-05-13**|null|
+|**2025-05-13**|**Building-Block Aware Generative Modeling for 3D Crystals of Metal Organic Frameworks**|Chenru Duan et.al.|[2505.08531v1](http://arxiv.org/abs/2505.08531v1)|**2025-05-13**|null|
+|**2025-05-13**|**Leveraging Segment Anything Model for Source-Free Domain Adaptation via Dual Feature Guided Auto-Prompting**|Zheang Huai et.al.|[2505.08527v1](http://arxiv.org/abs/2505.08527v1)|**2025-05-13**|[link](https://github.com/zheangh/dfg)|
+|**2025-05-13**|**SPP-SBL: Space-Power Prior Sparse Bayesian Learning for Block Sparse Recovery**|Yanhao Zhang et.al.|[2505.08518v1](http://arxiv.org/abs/2505.08518v1)|**2025-05-13**|null|
+|**2025-05-13**|**Experimental investigation of a novel liquid metal plasma facing component with pre-filled microstructures**|Yi-Jun Wang et.al.|[2505.08512v1](http://arxiv.org/abs/2505.08512v1)|**2025-05-13**|null|
+|**2025-05-13**|**FOCI: Trajectory Optimization on Gaussian Splats**|Mario Gomez Andreu et.al.|[2505.08510v1](http://arxiv.org/abs/2505.08510v1)|**2025-05-13**|null|
+|**2025-05-13**|**An MHD-based model for wind-driven disc-planet interactions**|Michael Hammer et.al.|[2505.08505v1](http://arxiv.org/abs/2505.08505v1)|**2025-05-13**|null|
+|**2025-05-13**|**A new methodology to decompose a parametric domain using reduced order data manifold in machine learning**|Chetra Mang et.al.|[2505.08497v1](http://arxiv.org/abs/2505.08497v1)|**2025-05-13**|null|
