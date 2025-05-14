@@ -395,6 +395,7 @@ Updated on 2025-05-14
 | 24 | Unknown | alphacep/vosk-model-ruAutomatic | Updated2 days ago | [Link](https://huggingface.co/alphacep/vosk-model-ru) |
 | 3 | Unknown | islomov/navaistt_v1_mediumAutomatic | Updatedabout 10 hours ago | [Link](https://huggingface.co/islomov/navaistt_v1_medium) |
 | 5 | Unknown | nvidia/stt_ar_fastconformer_hybrid_large_pc_v1 | UpdatedFeb 18 | [Link](https://huggingface.co/nvidia/stt_ar_fastconformer_hybrid_large_pc_v1.0) |
+| 2 | Unknown | marianbasti/whisper-large-v3-turbo-latamAutomatic | Updatedabout 13 hours ago | [Link](https://huggingface.co/marianbasti/whisper-large-v3-turbo-latam) |
 
 ## Depth Estimation
 
