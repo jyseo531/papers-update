@@ -20,7 +20,7 @@
 |**2025-05-13**|**Nonprojective crepant resolutions of quiver varieties**|Daniel Kaplan et.al.|[2505.08624v1](http://arxiv.org/abs/2505.08624v1)|**2025-05-13**|null|
 |**2025-05-13**|**OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning**|Zhaochen Su et.al.|[2505.08617v1](http://arxiv.org/abs/2505.08617v1)|**2025-05-13**|null|
 |**2025-05-13**|**MC-Swarm: Minimal-Communication Multi-Agent Trajectory Planning and Deadlock Resolution for Quadrotor Swarm**|Yunwoo Lee et.al.|[2505.08593v1](http://arxiv.org/abs/2505.08593v1)|**2025-05-13**|null|
-|**2025-05-13**|**Communication-Efficient Distributed Online Nonconvex Optimization with Time-Varying Constraints**|Kunpeng Zhang et.al.|[2505.08592v1](http://arxiv.org/abs/2505.08592v1)|**2025-05-13**|null|
+|**2025-05-13**|**Communication-Efficient Distributed Online Nonconvex Optimization with Time-Varying Constraints**|Kunpeng Zhang et.al.|[2505.08592v2](http://arxiv.org/abs/2505.08592v2)|**2025-05-14**|null|
 |**2025-05-13**|**Two-Level Sketching Alternating Anderson acceleration for Complex Physics Applications**|Nicolás A. Barnafi et.al.|[2505.08587v1](http://arxiv.org/abs/2505.08587v1)|**2025-05-13**|null|
 |**2025-05-13**|**On the CM exception to a generalization of the Stéphanois theorem**|Desirée Gijón Gómez et.al.|[2505.08570v1](http://arxiv.org/abs/2505.08570v1)|**2025-05-13**|null|
 |**2025-05-13**|**Modelling the multi-wavelength emission and polarisation signatures of the novel white-dwarf pulsar system AR Sco**|Louis du Plessis et.al.|[2505.08567v1](http://arxiv.org/abs/2505.08567v1)|**2025-05-13**|null|
@@ -29,6 +29,6 @@
 |**2025-05-13**|**Tangent point position and atmosphere composition in limb scanning instruments**|Francesco Pio De Cosmo et.al.|[2505.08543v1](http://arxiv.org/abs/2505.08543v1)|**2025-05-13**|null|
 |**2025-05-13**|**Dynamics of weakly elastic sphere translating parallel to a rigid wall**|Shashikant Verma et.al.|[2505.08538v1](http://arxiv.org/abs/2505.08538v1)|**2025-05-13**|null|
 |**2025-05-13**|**Holographic geometry/real-space entanglement correspondence and metric reconstruction**|Xuanting Ji et.al.|[2505.08534v1](http://arxiv.org/abs/2505.08534v1)|**2025-05-13**|null|
-|**2025-05-13**|**Leveraging Segment Anything Model for Source-Free Domain Adaptation via Dual Feature Guided Auto-Prompting**|Zheang Huai et.al.|[2505.08527v1](http://arxiv.org/abs/2505.08527v1)|**2025-05-13**|[link](https://github.com/zheangh/dfg)|
+|**2025-05-13**|**Leveraging Segment Anything Model for Source-Free Domain Adaptation via Dual Feature Guided Auto-Prompting**|Zheang Huai et.al.|[2505.08527v2](http://arxiv.org/abs/2505.08527v2)|**2025-05-14**|[link](https://github.com/xmed-lab/dfg)|
 |**2025-05-13**|**Dynamic Snake Upsampling Operater and Boundary-Skeleton Weighted Loss for Tubular Structure Segmentation**|Yiqi Chen et.al.|[2505.08525v1](http://arxiv.org/abs/2505.08525v1)|**2025-05-13**|null|
 |**2025-05-13**|**Isolation Forest in Novelty Detection Scenario**|Adam Ulrich et.al.|[2505.08489v1](http://arxiv.org/abs/2505.08489v1)|**2025-05-13**|null|

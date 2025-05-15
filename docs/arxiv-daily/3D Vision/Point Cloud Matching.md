@@ -21,7 +21,7 @@
 |**2025-05-13**|**Critical point localization and multiplicity results in Banach spaces via Nehari manifold technique**|Radu Precup et.al.|[2505.08678v1](http://arxiv.org/abs/2505.08678v1)|**2025-05-13**|null|
 |**2025-05-13**|**A Study of Data-driven Methods for Inventory Optimization**|Lee Yeung Ping et.al.|[2505.08673v1](http://arxiv.org/abs/2505.08673v1)|**2025-05-13**|null|
 |**2025-05-13**|**Performance of rotation-symmetric bosonic codes in the presence of random telegraph noise**|Adithi Udupa et.al.|[2505.08670v1](http://arxiv.org/abs/2505.08670v1)|**2025-05-13**|null|
-|**2025-05-13**|**Pullbacks of Saito-Kurokawa lifts of square-free levels, their non-vanishing and the $L^2$-mass**|Pramath Anamby et.al.|[2505.08660v1](http://arxiv.org/abs/2505.08660v1)|**2025-05-13**|null|
+|**2025-05-13**|**Pullbacks of Saito-Kurokawa lifts of square-free levels, their non-vanishing and the $L^2$-mass**|Pramath Anamby et.al.|[2505.08660v2](http://arxiv.org/abs/2505.08660v2)|**2025-05-14**|null|
 |**2025-05-13**|**An excitation matched local correlation approach to excited state specific perturbation theory**|Rachel Clune et.al.|[2505.08659v1](http://arxiv.org/abs/2505.08659v1)|**2025-05-13**|null|
 |**2025-05-13**|**Robust Indoor Localization via Conformal Methods and Variational Bayesian Adaptive Filtering**|Zhiyi Zhou et.al.|[2505.08639v1](http://arxiv.org/abs/2505.08639v1)|**2025-05-13**|null|
 |**2025-05-13**|**Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness**|Reihaneh Mirjalili et.al.|[2505.08627v1](http://arxiv.org/abs/2505.08627v1)|**2025-05-13**|null|
