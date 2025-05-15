@@ -2,33 +2,33 @@
 ### Point Cloud Completion
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-13**|**GNN-based Precoder Design and Fine-tuning for Cell-free Massive MIMO with Real-world CSI**|Tianzheng Miao et.al.|[2505.08788v1](http://arxiv.org/abs/2505.08788v1)|**2025-05-13**|null|
-|**2025-05-13**|**Divisible and indivisible Stochastic-Quantum dynamics**|Leandro Silva Pimenta et.al.|[2505.08785v1](http://arxiv.org/abs/2505.08785v1)|**2025-05-13**|null|
-|**2025-05-13**|**Radio observations point to a moderately relativistic outflow in the fast X-ray transient EP241021a**|Muskan Yadav et.al.|[2505.08781v1](http://arxiv.org/abs/2505.08781v1)|**2025-05-13**|null|
-|**2025-05-13**|**Exotic Carriers from Concentrated Topology: Dirac Trions as the Origin of the Missing Spectral Weight in Twisted Bilayer Graphene**|Patrick J. Ledwith et.al.|[2505.08779v1](http://arxiv.org/abs/2505.08779v1)|**2025-05-13**|null|
-|**2025-05-13**|**Full-volume aberration-space holography**|Ian Christen et.al.|[2505.08777v1](http://arxiv.org/abs/2505.08777v1)|**2025-05-13**|null|
-|**2025-05-13**|**The Environment-Dependent Regulatory Landscape of the E. coli Genome**|Tom Röschinger et.al.|[2505.08764v1](http://arxiv.org/abs/2505.08764v1)|**2025-05-13**|null|
-|**2025-05-13**|**Three Tone Networks and a Tessellation**|Jeffrey R. Boland et.al.|[2505.08752v1](http://arxiv.org/abs/2505.08752v1)|**2025-05-13**|null|
-|**2025-05-13**|**Probability Consistency in Large Language Models: Theoretical Foundations Meet Empirical Discrepancies**|Xiaoliang Luo et.al.|[2505.08739v1](http://arxiv.org/abs/2505.08739v1)|**2025-05-13**|null|
-|**2025-05-13**|**Properties of LCM Lattices of Monomial Ideals**|Matthew Dorang et.al.|[2505.08722v1](http://arxiv.org/abs/2505.08722v1)|**2025-05-13**|null|
-|**2025-05-13**|**Testing the Missing Completely at Random Assumption for Functional Data**|Maximilian Ofner et.al.|[2505.08721v1](http://arxiv.org/abs/2505.08721v1)|**2025-05-13**|null|
-|**2025-05-13**|**Hyperreflexivity of von Neumann algebras and similarity of finitely generated $C^*$-algebras**|G. K. Eleftherakis et.al.|[2505.08720v1](http://arxiv.org/abs/2505.08720v1)|**2025-05-13**|null|
-|**2025-05-13**|**PWC-MoE: Privacy-Aware Wireless Collaborative Mixture of Experts**|Yang Su et.al.|[2505.08719v1](http://arxiv.org/abs/2505.08719v1)|**2025-05-13**|null|
-|**2025-05-13**|**Be star demographics: a comprehensive study of thousands of lightcurves in the Magellanic Clouds**|A. L. Figueiredo et.al.|[2505.08714v1](http://arxiv.org/abs/2505.08714v1)|**2025-05-13**|null|
-|**2025-05-13**|**A Reynolds-semi-robust H(div)-conforming method for unsteady incompressible non-Newtonian flows**|Lourenço Beirão da Veiga et.al.|[2505.08708v1](http://arxiv.org/abs/2505.08708v1)|**2025-05-13**|null|
-|**2025-05-13**|**Uniformly boundedness of finite Morse index solutions to semilinear elliptic equations with rapidly growing nonlinearities in two dimensions**|Kenta Kumagai et.al.|[2505.08702v1](http://arxiv.org/abs/2505.08702v1)|**2025-05-13**|null|
-|**2025-05-13**|**Profinite properties of Coxeter groups**|Sam Hughes et.al.|[2505.08701v1](http://arxiv.org/abs/2505.08701v1)|**2025-05-13**|null|
-|**2025-05-13**|**A topos for extended Weihrauch degrees**|Samuele Maschio et.al.|[2505.08697v1](http://arxiv.org/abs/2505.08697v1)|**2025-05-13**|null|
-|**2025-05-13**|**A Machine Learning Pipeline for Molecular Property Prediction using ChemXploreML**|Aravindh Nivas Marimuthu et.al.|[2505.08688v1](http://arxiv.org/abs/2505.08688v1)|**2025-05-13**|null|
-|**2025-05-13**|**Critical point localization and multiplicity results in Banach spaces via Nehari manifold technique**|Radu Precup et.al.|[2505.08678v1](http://arxiv.org/abs/2505.08678v1)|**2025-05-13**|null|
-|**2025-05-13**|**A Study of Data-driven Methods for Inventory Optimization**|Lee Yeung Ping et.al.|[2505.08673v1](http://arxiv.org/abs/2505.08673v1)|**2025-05-13**|null|
-|**2025-05-13**|**Performance of rotation-symmetric bosonic codes in the presence of random telegraph noise**|Adithi Udupa et.al.|[2505.08670v1](http://arxiv.org/abs/2505.08670v1)|**2025-05-13**|null|
-|**2025-05-13**|**An excitation matched local correlation approach to excited state specific perturbation theory**|Rachel Clune et.al.|[2505.08659v1](http://arxiv.org/abs/2505.08659v1)|**2025-05-13**|null|
-|**2025-05-13**|**A novel view of the flavor-singlet spectrum from multi-flavor QCD on the lattice**|Yasumichi Aoki et.al.|[2505.08658v1](http://arxiv.org/abs/2505.08658v1)|**2025-05-13**|null|
-|**2025-05-13**|**Exact quantum noise deconvolution with partial knowledge of noise**|Nahid Ahmadvand et.al.|[2505.08640v1](http://arxiv.org/abs/2505.08640v1)|**2025-05-13**|null|
-|**2025-05-13**|**Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness**|Reihaneh Mirjalili et.al.|[2505.08627v1](http://arxiv.org/abs/2505.08627v1)|**2025-05-13**|null|
-|**2025-05-13**|**Nonprojective crepant resolutions of quiver varieties**|Daniel Kaplan et.al.|[2505.08624v1](http://arxiv.org/abs/2505.08624v1)|**2025-05-13**|null|
-|**2025-05-13**|**OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning**|Zhaochen Su et.al.|[2505.08617v1](http://arxiv.org/abs/2505.08617v1)|**2025-05-13**|null|
-|**2025-05-13**|**MC-Swarm: Minimal-Communication Multi-Agent Trajectory Planning and Deadlock Resolution for Quadrotor Swarm**|Yunwoo Lee et.al.|[2505.08593v1](http://arxiv.org/abs/2505.08593v1)|**2025-05-13**|null|
-|**2025-05-13**|**Communication-Efficient Distributed Online Nonconvex Optimization with Time-Varying Constraints**|Kunpeng Zhang et.al.|[2505.08592v2](http://arxiv.org/abs/2505.08592v2)|**2025-05-14**|null|
-|**2025-05-13**|**Two-Level Sketching Alternating Anderson acceleration for Complex Physics Applications**|Nicolás A. Barnafi et.al.|[2505.08587v1](http://arxiv.org/abs/2505.08587v1)|**2025-05-13**|null|
+|**2025-05-14**|**Adaptively-weighted Nearest Neighbors for Matrix Completion**|Tathagata Sadhukhan et.al.|[2505.09612v1](http://arxiv.org/abs/2505.09612v1)|**2025-05-14**|null|
+|**2025-05-14**|**Exceptional force, uncountably many solutions in the KPZ fixed point**|Sudeshna Bhattacharjee et.al.|[2505.09604v1](http://arxiv.org/abs/2505.09604v1)|**2025-05-14**|null|
+|**2025-05-14**|**DataMIL: Selecting Data for Robot Imitation Learning with Datamodels**|Shivin Dass et.al.|[2505.09603v1](http://arxiv.org/abs/2505.09603v1)|**2025-05-14**|null|
+|**2025-05-14**|**On Properties of Phase-Conjugation Focusing for Large Intelligent Surface Applications -- Part I: Vertical Polarization**|Jiawang Li et.al.|[2505.09599v1](http://arxiv.org/abs/2505.09599v1)|**2025-05-14**|null|
+|**2025-05-14**|**MDTP -- An Adaptive Multi-Source Data Transfer Protocol**|Sepideh Abdollah et.al.|[2505.09597v1](http://arxiv.org/abs/2505.09597v1)|**2025-05-14**|null|
+|**2025-05-14**|**On Properties of Phase-Conjugation Focusing for Large Intelligent Surface Applications -- Part II: Horizontal Polarization**|Jiawang Li et.al.|[2505.09594v1](http://arxiv.org/abs/2505.09594v1)|**2025-05-14**|null|
+|**2025-05-14**|**Tropical Fermat-Weber Points over Bergman Fans**|Shelby Cox et.al.|[2505.09584v1](http://arxiv.org/abs/2505.09584v1)|**2025-05-14**|null|
+|**2025-05-14**|**Ethics and Persuasion in Reinforcement Learning from Human Feedback: A Procedural Rhetorical Approach**|Shannon Lodoen et.al.|[2505.09576v1](http://arxiv.org/abs/2505.09576v1)|**2025-05-14**|null|
+|**2025-05-14**|**SAD Neural Networks: Divergent Gradient Flows and Asymptotic Optimality via o-minimal Structures**|Julian Kranz et.al.|[2505.09572v1](http://arxiv.org/abs/2505.09572v1)|**2025-05-14**|[link](https://github.com/deeplearningmethods/sad)|
+|**2025-05-14**|**Analytical and Scale-Free Phase-Field Studies of $α$ to $ω$ Phase Transformation in Single Crystal Zirconium under Nonhydrostatic Loadings**|Raghunandan Pratoori et.al.|[2505.09570v1](http://arxiv.org/abs/2505.09570v1)|**2025-05-14**|null|
+|**2025-05-14**|**Camera-Only 3D Panoptic Scene Completion for Autonomous Driving through Differentiable Object Shapes**|Nicola Marinello et.al.|[2505.09562v1](http://arxiv.org/abs/2505.09562v1)|**2025-05-14**|null|
+|**2025-05-14**|**Phase domain walls in coherently driven Bose-Einstein condensates**|S. S. Gavrilov et.al.|[2505.09553v1](http://arxiv.org/abs/2505.09553v1)|**2025-05-14**|null|
+|**2025-05-14**|**Fast Learning in Quantitative Finance with Extreme Learning Machine**|Liexin Cheng et.al.|[2505.09551v1](http://arxiv.org/abs/2505.09551v1)|**2025-05-14**|null|
+|**2025-05-14**|**A weak Ly$α$ halo for an extremely bright Little Red Dot. Indications of enshrouded SMBH growth**|Alberto Torralba et.al.|[2505.09542v1](http://arxiv.org/abs/2505.09542v1)|**2025-05-14**|null|
+|**2025-05-14**|**Atomic Confinement Potentials**|Hugo Åström et.al.|[2505.09540v1](http://arxiv.org/abs/2505.09540v1)|**2025-05-14**|null|
+|**2025-05-14**|**Unconventional magnetic glassiness in non-centrosymmetric Sm$_7$Pd$_3$: Interplay of magnetic frustration, long-range order, and frozen domains**|Ajay Kumar et.al.|[2505.09532v1](http://arxiv.org/abs/2505.09532v1)|**2025-05-14**|null|
+|**2025-05-14**|**Experimental demonstration of an analogy between optical non-coherence and irreversibility of heat transport**|Aleksandr Meilakhs et.al.|[2505.09522v1](http://arxiv.org/abs/2505.09522v1)|**2025-05-14**|null|
+|**2025-05-14**|**Shuffle Products, Degenerate Affine Hecke Algebras, and Quantum Toda Lattice**|Artem Kalmykov et.al.|[2505.09520v1](http://arxiv.org/abs/2505.09520v1)|**2025-05-14**|null|
+|**2025-05-14**|**PT-MoE: An Efficient Finetuning Framework for Integrating Mixture-of-Experts into Prompt Tuning**|Zongqian Li et.al.|[2505.09519v1](http://arxiv.org/abs/2505.09519v1)|**2025-05-14**|null|
+|**2025-05-14**|**Depth-Based Local Center Clustering: A Framework for Handling Different Clustering Scenarios**|Siyi Wang et.al.|[2505.09516v1](http://arxiv.org/abs/2505.09516v1)|**2025-05-14**|null|
+|**2025-05-14**|**Regular 3-polytopes of type $\{n,n\}$**|Mingchao Li et.al.|[2505.09505v1](http://arxiv.org/abs/2505.09505v1)|**2025-05-14**|null|
+|**2025-05-14**|**Shadow Celestial Operator Product Expansions**|Elizabeth Himwich et.al.|[2505.09499v1](http://arxiv.org/abs/2505.09499v1)|**2025-05-14**|null|
+|**2025-05-14**|**A direct imaging method for inverse scattering problem of biharmonic wave with phased and phaseless data**|Tielei Zhu et.al.|[2505.09495v1](http://arxiv.org/abs/2505.09495v1)|**2025-05-14**|null|
+|**2025-05-14**|**Streaming Multi-agent Pathfinding**|Mingkai Tang et.al.|[2505.09472v1](http://arxiv.org/abs/2505.09472v1)|**2025-05-14**|null|
+|**2025-05-14**|**SEGA-DCIM: Design Space Exploration-Guided Automatic Digital CIM Compiler with Multiple Precision Support**|Haikang Diao et.al.|[2505.09451v1](http://arxiv.org/abs/2505.09451v1)|**2025-05-14**|null|
+|**2025-05-14**|**Stability and convergence for the length-penalized elastic flow of curves with partial free boundary**|Antonia Diana et.al.|[2505.09449v1](http://arxiv.org/abs/2505.09449v1)|**2025-05-14**|null|
+|**2025-05-14**|**Decentralized Nonlinear Model Predictive Control-Based Flock Navigation with Real-Time Obstacle Avoidance in Unknown Obstructed Environments**|Nuthasith Gerdpratoom et.al.|[2505.09434v1](http://arxiv.org/abs/2505.09434v1)|**2025-05-14**|null|
+|**2025-05-14**|**Efficient LiDAR Reflectance Compression via Scanning Serialization**|Jiahao Zhu et.al.|[2505.09433v1](http://arxiv.org/abs/2505.09433v1)|**2025-05-14**|null|
+|**2025-05-14**|**Independent Component Analysis by Robust Distance Correlation**|Sarah Leyder et.al.|[2505.09425v1](http://arxiv.org/abs/2505.09425v1)|**2025-05-14**|null|
+|**2025-05-14**|**Exploring Pose-Guided Imitation Learning for Robotic Precise Insertion**|Han Sun et.al.|[2505.09424v1](http://arxiv.org/abs/2505.09424v1)|**2025-05-14**|null|

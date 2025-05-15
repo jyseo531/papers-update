@@ -2,33 +2,33 @@
 ### 3D Object Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-13**|**Kination-like Era Driven by the Effective Inflaton/Higgs Potential**|Anish Ghoshal et.al.|[2505.08786v1](http://arxiv.org/abs/2505.08786v1)|**2025-05-13**|null|
-|**2025-05-13**|**Radio observations point to a moderately relativistic outflow in the fast X-ray transient EP241021a**|Muskan Yadav et.al.|[2505.08781v1](http://arxiv.org/abs/2505.08781v1)|**2025-05-13**|null|
-|**2025-05-13**|**Polar motion of Venus**|PL. Phan et.al.|[2505.08780v1](http://arxiv.org/abs/2505.08780v1)|**2025-05-13**|null|
-|**2025-05-13**|**Full-volume aberration-space holography**|Ian Christen et.al.|[2505.08777v1](http://arxiv.org/abs/2505.08777v1)|**2025-05-13**|null|
-|**2025-05-13**|**Generative Molecular Design with Steerable and Granular Synthesizability Control**|Jeff Guo et.al.|[2505.08774v1](http://arxiv.org/abs/2505.08774v1)|**2025-05-13**|null|
-|**2025-05-13**|**Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic Methodology**|Yatai Ji et.al.|[2505.08765v2](http://arxiv.org/abs/2505.08765v2)|**2025-05-14**|null|
-|**2025-05-13**|**The CMB cold spot under the lens II: Lensing on polarization and cosmic textures footprints**|Pedro da Silveira Ferreira et.al.|[2505.08761v1](http://arxiv.org/abs/2505.08761v1)|**2025-05-13**|null|
-|**2025-05-13**|**Computing Projective Implicit Representations from Poset Towers**|Tamal K. Dey et.al.|[2505.08755v1](http://arxiv.org/abs/2505.08755v1)|**2025-05-13**|null|
-|**2025-05-13**|**3GPP-Compliant Radar Cross Section Characterization of Indoor Factory Targets**|Ali Waqar Azim et.al.|[2505.08754v1](http://arxiv.org/abs/2505.08754v1)|**2025-05-13**|null|
-|**2025-05-13**|**Estimating the mass of the thin shell of gravastars in generalised cylindrically symmetric space-time within the framework of Rastall theory of gravity**|Debadri Bhattacharjee et.al.|[2505.08745v1](http://arxiv.org/abs/2505.08745v1)|**2025-05-13**|null|
-|**2025-05-13**|**Probability Consistency in Large Language Models: Theoretical Foundations Meet Empirical Discrepancies**|Xiaoliang Luo et.al.|[2505.08739v1](http://arxiv.org/abs/2505.08739v1)|**2025-05-13**|null|
-|**2025-05-13**|**Preference Optimization for Combinatorial Optimization Problems**|Mingjun Pan et.al.|[2505.08735v1](http://arxiv.org/abs/2505.08735v1)|**2025-05-13**|null|
-|**2025-05-13**|**Memorization-Compression Cycles Improve Generalization**|Fangyuan Yu et.al.|[2505.08727v1](http://arxiv.org/abs/2505.08727v1)|**2025-05-13**|null|
-|**2025-05-13**|**Extending Large Vision-Language Model for Diverse Interactive Tasks in Autonomous Driving**|Zongchuang Zhao et.al.|[2505.08725v1](http://arxiv.org/abs/2505.08725v1)|**2025-05-13**|null|
-|**2025-05-13**|**Optimal Trajectory Planning with Collision Avoidance for Autonomous Vehicle Maneuvering**|Jason Zalev et.al.|[2505.08724v1](http://arxiv.org/abs/2505.08724v1)|**2025-05-13**|null|
-|**2025-05-13**|**TiMo: Spatiotemporal Foundation Model for Satellite Image Time Series**|Xiaolei Qin et.al.|[2505.08723v1](http://arxiv.org/abs/2505.08723v1)|**2025-05-13**|[link](https://github.com/mililab/timo)|
-|**2025-05-13**|**PWC-MoE: Privacy-Aware Wireless Collaborative Mixture of Experts**|Yang Su et.al.|[2505.08719v1](http://arxiv.org/abs/2505.08719v1)|**2025-05-13**|null|
-|**2025-05-13**|**Be star demographics: a comprehensive study of thousands of lightcurves in the Magellanic Clouds**|A. L. Figueiredo et.al.|[2505.08714v1](http://arxiv.org/abs/2505.08714v1)|**2025-05-13**|null|
-|**2025-05-13**|**Profinite properties of Coxeter groups**|Sam Hughes et.al.|[2505.08701v1](http://arxiv.org/abs/2505.08701v1)|**2025-05-13**|null|
-|**2025-05-13**|**Continuous Temporal Learning of Probability Distributions via Neural ODEs with Applications in Continuous Glucose Monitoring Data**|Antonio Álvarez-López et.al.|[2505.08698v1](http://arxiv.org/abs/2505.08698v1)|**2025-05-13**|null|
-|**2025-05-13**|**Quantum confinement theory of ultra-thin films: electronic, thermal and superconducting properties**|Alessio Zaccone et.al.|[2505.08696v1](http://arxiv.org/abs/2505.08696v1)|**2025-05-13**|null|
-|**2025-05-13**|**VIViT: Variable-Input Vision Transformer Framework for 3D MR Image Segmentation**|Badhan Kumar Das et.al.|[2505.08693v1](http://arxiv.org/abs/2505.08693v1)|**2025-05-13**|null|
-|**2025-05-13**|**VizCV: AI-assisted visualization of researchers' publications tracks**|Vladimír Lazárik et.al.|[2505.08691v1](http://arxiv.org/abs/2505.08691v1)|**2025-05-13**|null|
-|**2025-05-13**|**Plastic deformation as a phase transition: a combinatorial model of plastic flow in copper single crystals**|Afonso D. M. Barroso et.al.|[2505.08689v1](http://arxiv.org/abs/2505.08689v1)|**2025-05-13**|null|
-|**2025-05-13**|**CAD-Coder:Text-Guided CAD Files Code Generation**|Changqi He et.al.|[2505.08686v1](http://arxiv.org/abs/2505.08686v1)|**2025-05-13**|null|
-|**2025-05-13**|**A fully flexible joint lattice position and dose optimization method for LATTICE therapy**|Xin Tong et.al.|[2505.08679v1](http://arxiv.org/abs/2505.08679v1)|**2025-05-13**|null|
-|**2025-05-13**|**Topology and geometry optimization of grid-shells under self-weight loading**|Helen E. Fairclough et.al.|[2505.08645v1](http://arxiv.org/abs/2505.08645v1)|**2025-05-13**|null|
-|**2025-05-13**|**DLO-Splatting: Tracking Deformable Linear Objects Using 3D Gaussian Splatting**|Holly Dinkel et.al.|[2505.08644v1](http://arxiv.org/abs/2505.08644v1)|**2025-05-13**|null|
-|**2025-05-13**|**Robust Indoor Localization via Conformal Methods and Variational Bayesian Adaptive Filtering**|Zhiyi Zhou et.al.|[2505.08639v1](http://arxiv.org/abs/2505.08639v1)|**2025-05-13**|null|
-|**2025-05-13**|**Learning cardiac activation and repolarization times with operator learning**|Edoardo Centofanti et.al.|[2505.08631v1](http://arxiv.org/abs/2505.08631v1)|**2025-05-13**|null|
+|**2025-05-14**|**Exchange-driven giant magnetoelastic coupling in Sr$_4$Ru$_3$O$_{10}$**|Carolina A. Marques et.al.|[2505.09611v1](http://arxiv.org/abs/2505.09611v1)|**2025-05-14**|null|
+|**2025-05-14**|**Adversarial Suffix Filtering: a Defense Pipeline for LLMs**|David Khachaturov et.al.|[2505.09602v1](http://arxiv.org/abs/2505.09602v1)|**2025-05-14**|null|
+|**2025-05-14**|**Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware**|Justin Yu et.al.|[2505.09601v1](http://arxiv.org/abs/2505.09601v1)|**2025-05-14**|null|
+|**2025-05-14**|**Online Isolation Forest**|Filippo Leveni et.al.|[2505.09593v1](http://arxiv.org/abs/2505.09593v1)|**2025-05-14**|[link](https://github.com/ineveloppilif/online-isolation-forest)|
+|**2025-05-14**|**Distance-aware Self-adaptive Graph Convolution for Fine-grained Hierarchical Recommendation**|Tao Huang et.al.|[2505.09590v1](http://arxiv.org/abs/2505.09590v1)|**2025-05-14**|null|
+|**2025-05-14**|**On-surface Synthesis of a Ferromagnetic Molecular Spin Trimer**|Alessio Vegliante et.al.|[2505.09587v1](http://arxiv.org/abs/2505.09587v1)|**2025-05-14**|null|
+|**2025-05-14**|**Don't Forget your Inverse DDIM for Image Editing**|Guillermo Gomez-Trenado et.al.|[2505.09571v1](http://arxiv.org/abs/2505.09571v1)|**2025-05-14**|null|
+|**2025-05-14**|**BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset**|Jiuhai Chen et.al.|[2505.09568v1](http://arxiv.org/abs/2505.09568v1)|**2025-05-14**|[link](https://github.com/jiuhaichen/blip3o)|
+|**2025-05-14**|**Camera-Only 3D Panoptic Scene Completion for Autonomous Driving through Differentiable Object Shapes**|Nicola Marinello et.al.|[2505.09562v1](http://arxiv.org/abs/2505.09562v1)|**2025-05-14**|null|
+|**2025-05-14**|**WavReward: Spoken Dialogue Models With Generalist Reward Evaluators**|Shengpeng Ji et.al.|[2505.09558v1](http://arxiv.org/abs/2505.09558v1)|**2025-05-14**|[link](https://github.com/jishengpeng/wavreward)|
+|**2025-05-14**|**Long-term Timing Results of Ecliptic Pulsars Observed with I-LOFAR**|S. C. Susarla et.al.|[2505.09549v1](http://arxiv.org/abs/2505.09549v1)|**2025-05-14**|null|
+|**2025-05-14**|**Bulk superinsulation and polar nematic order in nanopatterned NbTiN**|A. Yu. Mironov et.al.|[2505.09547v1](http://arxiv.org/abs/2505.09547v1)|**2025-05-14**|null|
+|**2025-05-14**|**Learned Free-Energy Functionals from Pair-Correlation Matching for Dynamical Density Functional Theory**|Karnik Ram et.al.|[2505.09543v1](http://arxiv.org/abs/2505.09543v1)|**2025-05-14**|null|
+|**2025-05-14**|**A weak Ly$α$ halo for an extremely bright Little Red Dot. Indications of enshrouded SMBH growth**|Alberto Torralba et.al.|[2505.09542v1](http://arxiv.org/abs/2505.09542v1)|**2025-05-14**|null|
+|**2025-05-14**|**Uncovering the Varieties of Three-dimensional Hall-MHD Turbulence**|Pratik Patel et.al.|[2505.09537v1](http://arxiv.org/abs/2505.09537v1)|**2025-05-14**|null|
+|**2025-05-14**|**An Asymptotically Optimal Approximation Algorithm for Multiobjective Submodular Maximization at Scale**|Fabian Spaeh et.al.|[2505.09525v1](http://arxiv.org/abs/2505.09525v1)|**2025-05-14**|null|
+|**2025-05-14**|**Risk-aware Markov Decision Processes Using Cumulative Prospect Theory**|Thomas Brihaye et.al.|[2505.09514v1](http://arxiv.org/abs/2505.09514v1)|**2025-05-14**|null|
+|**2025-05-14**|**Scaling Up: Revisiting Mining Android Sandboxes at Scale for Malware Classification**|Francisco Costa et.al.|[2505.09501v1](http://arxiv.org/abs/2505.09501v1)|**2025-05-14**|null|
+|**2025-05-14**|**Ultraviolet interband plasmonics down to the vacuum UV with ultrathin amorphous silicon nanostructures**|Johann Toudert et.al.|[2505.09494v1](http://arxiv.org/abs/2505.09494v1)|**2025-05-14**|null|
+|**2025-05-14**|**The Blinking Crystallinity of Europa: A Competition between Irradiation and Thermal Alteration**|Cyril Mergny et.al.|[2505.09490v1](http://arxiv.org/abs/2505.09490v1)|**2025-05-14**|null|
+|**2025-05-14**|**Denoising and Alignment: Rethinking Domain Generalization for Multimodal Face Anti-Spoofing**|Yingjie Ma et.al.|[2505.09484v1](http://arxiv.org/abs/2505.09484v1)|**2025-05-14**|null|
+|**2025-05-14**|**Card Sorting Simulator: Augmenting Design of Logical Information Architectures with Large Language Models**|Eduard Kuric et.al.|[2505.09478v1](http://arxiv.org/abs/2505.09478v1)|**2025-05-14**|null|
+|**2025-05-14**|**Function-Correcting $b$-symbol Codes for Locally $(λ, ρ,b)$-Functions**|Gyanendra K. Verma et.al.|[2505.09473v1](http://arxiv.org/abs/2505.09473v1)|**2025-05-14**|null|
+|**2025-05-14**|**Dynamics of charge states at the surface of a ferroelectric nanoparticle in a liquid crystal**|Julia M. Gudenko et.al.|[2505.09463v1](http://arxiv.org/abs/2505.09463v1)|**2025-05-14**|null|
+|**2025-05-14**|**Natural layered phlogopite dielectric for ultrathin two-dimensional optoelectronics**|Thomas Pucher et.al.|[2505.09461v1](http://arxiv.org/abs/2505.09461v1)|**2025-05-14**|null|
+|**2025-05-14**|**Beyond Pixels: Leveraging the Language of Soccer to Improve Spatio-Temporal Action Detection in Broadcast Videos**|Jeremie Ochin et.al.|[2505.09455v1](http://arxiv.org/abs/2505.09455v1)|**2025-05-14**|null|
+|**2025-05-14**|**SEGA-DCIM: Design Space Exploration-Guided Automatic Digital CIM Compiler with Multiple Precision Support**|Haikang Diao et.al.|[2505.09451v1](http://arxiv.org/abs/2505.09451v1)|**2025-05-14**|null|
+|**2025-05-14**|**Evaluating statistical significance for massive black hole binary mergers with space-based gravitational wave detectors**|Hong-Yu Chen et.al.|[2505.09446v1](http://arxiv.org/abs/2505.09446v1)|**2025-05-14**|null|
+|**2025-05-14**|**Dimensioning and Optimization of Reliability Coverage in Local 6G Networks**|Jacek Kibiłda et.al.|[2505.09440v1](http://arxiv.org/abs/2505.09440v1)|**2025-05-14**|null|
+|**2025-05-14**|**Endo-CLIP: Progressive Self-Supervised Pre-training on Raw Colonoscopy Records**|Yili He et.al.|[2505.09435v1](http://arxiv.org/abs/2505.09435v1)|**2025-05-14**|null|

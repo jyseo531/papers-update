@@ -2,6 +2,21 @@
 ### Multi-modal
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-14**|**UWAV: Uncertainty-weighted Weakly-supervised Audio-Visual Video Parsing**|Yung-Hsuan Lai et.al.|[2505.09615v1](http://arxiv.org/abs/2505.09615v1)|**2025-05-14**|null|
+|**2025-05-14**|**VTLA: Vision-Tactile-Language-Action Model with Preference Learning for Insertion Manipulation**|Chaofan Zhang et.al.|[2505.09577v1](http://arxiv.org/abs/2505.09577v1)|**2025-05-14**|null|
+|**2025-05-14**|**Multimodal transformers with elemental priors for phase classification of X-ray diffraction spectra**|Kangyu Ji et.al.|[2505.09536v1](http://arxiv.org/abs/2505.09536v1)|**2025-05-14**|null|
+|**2025-05-14**|**Partnership through Play: Investigating How Long-Distance Couples Use Digital Games to Facilitate Intimacy**|Nisha Devasia et.al.|[2505.09509v1](http://arxiv.org/abs/2505.09509v1)|**2025-05-14**|null|
+|**2025-05-14**|**Denoising and Alignment: Rethinking Domain Generalization for Multimodal Face Anti-Spoofing**|Yingjie Ma et.al.|[2505.09484v1](http://arxiv.org/abs/2505.09484v1)|**2025-05-14**|null|
+|**2025-05-14**|**Omni-R1: Do You Really Need Audio to Fine-Tune Your Audio LLM?**|Andrew Rouditchenko et.al.|[2505.09439v1](http://arxiv.org/abs/2505.09439v1)|**2025-05-14**|null|
+|**2025-05-14**|**MoRAL: Motion-aware Multi-Frame 4D Radar and LiDAR Fusion for Robust 3D Object Detection**|Xiangyuan Peng et.al.|[2505.09422v1](http://arxiv.org/abs/2505.09422v1)|**2025-05-14**|null|
+|**2025-05-14**|**MAKE: Multi-Aspect Knowledge-Enhanced Vision-Language Pretraining for Zero-shot Dermatological Assessment**|Siyuan Yan et.al.|[2505.09372v1](http://arxiv.org/abs/2505.09372v1)|**2025-05-14**|[link](https://github.com/siyuanyan1/make)|
+|**2025-05-14**|**BioVFM-21M: Benchmarking and Scaling Self-Supervised Vision Foundation Models for Biomedical Image Analysis**|Jiarun Liu et.al.|[2505.09329v1](http://arxiv.org/abs/2505.09329v1)|**2025-05-14**|null|
+|**2025-05-14**|**Q-space Guided Collaborative Attention Translation Network for Flexible Diffusion-Weighted Images Synthesis**|Pengli Zhu et.al.|[2505.09323v1](http://arxiv.org/abs/2505.09323v1)|**2025-05-14**|null|
+|**2025-05-14**|**TransDiffuser: End-to-end Trajectory Generation with Decorrelated Multi-modal Representation for Autonomous Driving**|Xuefeng Jiang et.al.|[2505.09315v1](http://arxiv.org/abs/2505.09315v1)|**2025-05-14**|null|
+|**2025-05-14**|**Embodied Intelligent Industrial Robotics: Concepts and Techniques**|Chaoran Zhang et.al.|[2505.09305v1](http://arxiv.org/abs/2505.09305v1)|**2025-05-14**|null|
+|**2025-05-14**|**Recent Advances in Medical Imaging Segmentation: A Survey**|Fares Bougourzi et.al.|[2505.09274v1](http://arxiv.org/abs/2505.09274v1)|**2025-05-14**|null|
+|**2025-05-14**|**Zero-Shot Multi-modal Large Language Model v.s. Supervised Deep Learning: A Comparative Study on CT-Based Intracranial Hemorrhage Subtyping**|Yinuo Wang et.al.|[2505.09252v1](http://arxiv.org/abs/2505.09252v1)|**2025-05-14**|null|
+|**2025-05-14**|**Generalizing imaging biomarker repeatability studies using Bayesian inference: Applications in detecting heterogeneous treatment response in whole-body diffusion-weighted MRI of metastatic prostate cancer**|Matthew D Blackledge et.al.|[2505.09197v1](http://arxiv.org/abs/2505.09197v1)|**2025-05-14**|null|
 |**2025-05-13**|**Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic Methodology**|Yatai Ji et.al.|[2505.08765v2](http://arxiv.org/abs/2505.08765v2)|**2025-05-14**|null|
 |**2025-05-13**|**Aya Vision: Advancing the Frontier of Multilingual Multimodality**|Saurabh Dash et.al.|[2505.08751v1](http://arxiv.org/abs/2505.08751v1)|**2025-05-13**|null|
 |**2025-05-13**|**Granite-speech: open-source speech-aware LLMs with strong English ASR capabilities**|George Saon et.al.|[2505.08699v2](http://arxiv.org/abs/2505.08699v2)|**2025-05-14**|null|
@@ -17,18 +32,3 @@
 |**2025-05-13**|**MDF: Multi-Modal Data Fusion with CNN-Based Object Detection for Enhanced Indoor Localization Using LiDAR-SLAM**|Saqi Hussain Kalan et.al.|[2505.08388v1](http://arxiv.org/abs/2505.08388v1)|**2025-05-13**|null|
 |**2025-05-13**|**Adaptive Diffusion Policy Optimization for Robotic Manipulation**|Huiyun Jiang et.al.|[2505.08376v1](http://arxiv.org/abs/2505.08376v1)|**2025-05-13**|null|
 |**2025-05-13**|**Human-in-the-Loop Optimization for Inclusive Design: Balancing Automation and Designer Expertise**|Pascal Jansen et.al.|[2505.08375v1](http://arxiv.org/abs/2505.08375v1)|**2025-05-13**|null|
-|**2025-05-13**|**Modeling Unseen Environments with Language-guided Composable Causal Components in Reinforcement Learning**|Xinyue Wang et.al.|[2505.08361v1](http://arxiv.org/abs/2505.08361v1)|**2025-05-13**|null|
-|**2025-05-13**|**A Bi-nested Calculus for Intuitionistic K: Proofs and Countermodels**|Han Gao et.al.|[2505.08347v1](http://arxiv.org/abs/2505.08347v1)|**2025-05-13**|null|
-|**2025-05-13**|**Knowledge-Informed Deep Learning for Irrigation Type Mapping from Remote Sensing**|Oishee Bintey Hoque et.al.|[2505.08302v1](http://arxiv.org/abs/2505.08302v1)|**2025-05-13**|null|
-|**2025-05-13**|**FauForensics: Boosting Audio-Visual Deepfake Detection with Facial Action Units**|Jian Wang et.al.|[2505.08294v1](http://arxiv.org/abs/2505.08294v1)|**2025-05-13**|null|
-|**2025-05-13**|**Decoupled Multimodal Prototypes for Visual Recognition with Missing Modalities**|Jueqing Lu et.al.|[2505.08283v1](http://arxiv.org/abs/2505.08283v1)|**2025-05-13**|null|
-|**2025-05-13**|**IrrMap: A Large-Scale Comprehensive Dataset for Irrigation Method Mapping**|Nibir Chandra Mandal et.al.|[2505.08273v1](http://arxiv.org/abs/2505.08273v1)|**2025-05-13**|[link](https://github.com/nibir088/irrmap)|
-|**2025-05-13**|**Clustering-based Low-Rank Matrix Approximation: An Adaptive Theoretical Analysis with Application to Data Compression**|Sisipho Hamlomo et.al.|[2505.08256v1](http://arxiv.org/abs/2505.08256v1)|**2025-05-13**|null|
-|**2025-05-13**|**Congenital Heart Disease recognition using Deep Learning/Transformer models**|Aidar Amangeldi et.al.|[2505.08242v1](http://arxiv.org/abs/2505.08242v1)|**2025-05-13**|null|
-|**2025-05-13**|**CLTP: Contrastive Language-Tactile Pre-training for 3D Contact Geometry Understanding**|Wenxuan Ma et.al.|[2505.08194v1](http://arxiv.org/abs/2505.08194v1)|**2025-05-13**|null|
-|**2025-05-12**|**Manifold Learning with Normalizing Flows: Towards Regularity, Expressivity and Iso-Riemannian Geometry**|Willem Diepeveen et.al.|[2505.08087v1](http://arxiv.org/abs/2505.08087v1)|**2025-05-12**|null|
-|**2025-05-12**|**Multi-modal wound classification using wound image and location by Xception and Gaussian Mixture Recurrent Neural Network (GMRNN)**|Ramin Mousa et.al.|[2505.08086v1](http://arxiv.org/abs/2505.08086v1)|**2025-05-12**|null|
-|**2025-05-12**|**The Correspondence Between Bounded Graph Neural Networks and Fragments of First-Order Logic**|Bernardo Cuenca Grau et.al.|[2505.08021v1](http://arxiv.org/abs/2505.08021v1)|**2025-05-12**|null|
-|**2025-05-12**|**Games for graded modal substitution calculus**|Veeti Ahvonen et.al.|[2505.07966v1](http://arxiv.org/abs/2505.07966v1)|**2025-05-12**|null|
-|**2025-05-12**|**A class of distributed automata that contains the modal mu-fragment**|Veeti Ahvonen et.al.|[2505.07816v1](http://arxiv.org/abs/2505.07816v1)|**2025-05-12**|null|
-|**2025-05-12**|**Continuous Visual Autoregressive Generation via Score Maximization**|Chenze Shao et.al.|[2505.07812v1](http://arxiv.org/abs/2505.07812v1)|**2025-05-12**|[link](https://github.com/shaochenze/ear)|

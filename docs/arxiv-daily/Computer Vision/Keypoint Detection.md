@@ -2,6 +2,10 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-14**|**GlobalMood: A cross-cultural benchmark for music emotion recognition**|Harin Lee et.al.|[2505.09539v1](http://arxiv.org/abs/2505.09539v1)|**2025-05-14**|null|
+|**2025-05-14**|**The Voice Timbre Attribute Detection 2025 Challenge Evaluation Plan**|Zhengyan Sheng et.al.|[2505.09382v1](http://arxiv.org/abs/2505.09382v1)|**2025-05-14**|null|
+|**2025-05-14**|**FoldNet: Learning Generalizable Closed-Loop Policy for Garment Folding via Keypoint-Driven Asset and Demonstration Synthesis**|Yuxing Chen et.al.|[2505.09109v1](http://arxiv.org/abs/2505.09109v1)|**2025-05-14**|null|
+|**2025-05-14**|**VGC-RIO: A Tightly Integrated Radar-Inertial Odometry with Spatial Weighted Doppler Velocity and Local Geometric Constrained RCS Histograms**|Jianguang Xiang et.al.|[2505.09103v1](http://arxiv.org/abs/2505.09103v1)|**2025-05-14**|null|
 |**2025-05-13**|**FauForensics: Boosting Audio-Visual Deepfake Detection with Facial Action Units**|Jian Wang et.al.|[2505.08294v1](http://arxiv.org/abs/2505.08294v1)|**2025-05-13**|null|
 |**2025-05-13**|**G-MSGINet: A Grouped Multi-Scale Graph-Involution Network for Contactless Fingerprint Recognition**|Santhoshkumar Peddi et.al.|[2505.08233v2](http://arxiv.org/abs/2505.08233v2)|**2025-05-14**|null|
 |**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013v1](http://arxiv.org/abs/2505.08013v1)|**2025-05-12**|null|
@@ -28,7 +32,3 @@
 |**2025-05-05**|**Corr2Distrib: Making Ambiguous Correspondences an Ally to Predict Reliable 6D Pose Distributions**|Asma Brazi et.al.|[2505.02501v1](http://arxiv.org/abs/2505.02501v1)|**2025-05-05**|null|
 |**2025-05-05**|**Rethinking Multimodal Sentiment Analysis: A High-Accuracy, Simplified Fusion Architecture**|Nischal Mandal et.al.|[2505.04642v1](http://arxiv.org/abs/2505.04642v1)|**2025-05-05**|null|
 |**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836v1](http://arxiv.org/abs/2505.03836v1)|**2025-05-04**|[link](https://github.com/cszhanglmu/obd-finder)|
-|**2025-05-04**|**Focus What Matters: Matchability-Based Reweighting for Local Feature Matching**|Dongyue Li et.al.|[2505.02161v1](http://arxiv.org/abs/2505.02161v1)|**2025-05-04**|null|
-|**2025-05-04**|**Chemical hydrodynamics of nuclear spin states**|Anupama Acharya et.al.|[2505.02085v1](http://arxiv.org/abs/2505.02085v1)|**2025-05-04**|null|
-|**2025-05-04**|**Enhancing Lidar Point Cloud Sampling via Colorization and Super-Resolution of Lidar Imagery**|Sier Ha et.al.|[2505.02049v1](http://arxiv.org/abs/2505.02049v1)|**2025-05-04**|null|
-|**2025-05-03**|**MVHumanNet++: A Large-scale Dataset of Multi-view Daily Dressing Human Captures with Richer Annotations for 3D Human Digitization**|Chenghong Li et.al.|[2505.01838v1](http://arxiv.org/abs/2505.01838v1)|**2025-05-03**|null|

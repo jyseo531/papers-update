@@ -2,33 +2,33 @@
 ### Instance Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-13**|**Regularizing quantum loss landscapes by noise injection**|Daniil S. Bagaev et.al.|[2505.08759v1](http://arxiv.org/abs/2505.08759v1)|**2025-05-13**|null|
-|**2025-05-13**|**Statistical models of barren plateaus and anti-concentration of Pauli observables**|Nikita Nemkov et.al.|[2505.08758v1](http://arxiv.org/abs/2505.08758v1)|**2025-05-13**|null|
-|**2025-05-13**|**Computing Projective Implicit Representations from Poset Towers**|Tamal K. Dey et.al.|[2505.08755v1](http://arxiv.org/abs/2505.08755v1)|**2025-05-13**|null|
-|**2025-05-13**|**Implet: A Post-hoc Subsequence Explainer for Time Series Models**|Fanyu Meng et.al.|[2505.08748v1](http://arxiv.org/abs/2505.08748v1)|**2025-05-13**|[link](https://github.com/lbzsteven/implet)|
-|**2025-05-13**|**NurValues: Real-World Nursing Values Evaluation for Large Language Models in Clinical Context**|Ben Yao et.al.|[2505.08734v1](http://arxiv.org/abs/2505.08734v1)|**2025-05-13**|null|
-|**2025-05-13**|**Optimal Trajectory Planning with Collision Avoidance for Autonomous Vehicle Maneuvering**|Jason Zalev et.al.|[2505.08724v1](http://arxiv.org/abs/2505.08724v1)|**2025-05-13**|null|
-|**2025-05-13**|**TiMo: Spatiotemporal Foundation Model for Satellite Image Time Series**|Xiaolei Qin et.al.|[2505.08723v1](http://arxiv.org/abs/2505.08723v1)|**2025-05-13**|[link](https://github.com/mililab/timo)|
-|**2025-05-13**|**Controllable Image Colorization with Instance-aware Texts and Masks**|Yanru An et.al.|[2505.08705v1](http://arxiv.org/abs/2505.08705v1)|**2025-05-13**|null|
-|**2025-05-13**|**VIViT: Variable-Input Vision Transformer Framework for 3D MR Image Segmentation**|Badhan Kumar Das et.al.|[2505.08693v1](http://arxiv.org/abs/2505.08693v1)|**2025-05-13**|null|
-|**2025-05-13**|**Calibration and Uncertainty for multiRater Volume Assessment in multiorgan Segmentation (CURVAS) challenge results**|Meritxell Riera-Marin et.al.|[2505.08685v1](http://arxiv.org/abs/2505.08685v1)|**2025-05-13**|null|
-|**2025-05-13**|**Runtime Quantum Advantage with Digital Quantum Optimization**|Pranav Chandarana et.al.|[2505.08663v1](http://arxiv.org/abs/2505.08663v1)|**2025-05-13**|null|
-|**2025-05-13**|**A Comparative Study of Human Activity Recognition: Motion, Tactile, and multi-modal Approaches**|Valerio Belcamino et.al.|[2505.08657v1](http://arxiv.org/abs/2505.08657v1)|**2025-05-13**|null|
-|**2025-05-13**|**Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness**|Reihaneh Mirjalili et.al.|[2505.08627v1](http://arxiv.org/abs/2505.08627v1)|**2025-05-13**|null|
-|**2025-05-13**|**Leveraging Multi-Modal Information to Enhance Dataset Distillation**|Zhe Li et.al.|[2505.08605v1](http://arxiv.org/abs/2505.08605v1)|**2025-05-13**|null|
-|**2025-05-13**|**MESSI: A Multi-Elevation Semantic Segmentation Image Dataset of an Urban Environment**|Barak Pinkovich et.al.|[2505.08589v1](http://arxiv.org/abs/2505.08589v1)|**2025-05-13**|null|
-|**2025-05-13**|**ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking**|Haofeng Liu et.al.|[2505.08581v1](http://arxiv.org/abs/2505.08581v1)|**2025-05-13**|[link](https://github.com/jinlab-imvr/resurgsam2)|
-|**2025-05-13**|**ROSA: Finding Backdoors with Fuzzing**|Dimitri Kokkonis et.al.|[2505.08544v1](http://arxiv.org/abs/2505.08544v1)|**2025-05-13**|null|
-|**2025-05-13**|**The RaspGrade Dataset: Towards Automatic Raspberry Ripeness Grading with Deep Learning**|Mohamed Lamine Mekhalfi et.al.|[2505.08537v2](http://arxiv.org/abs/2505.08537v2)|**2025-05-14**|null|
-|**2025-05-13**|**Short Wins Long: Short Codes with Language Model Semantic Correction Outperform Long Codes**|Jiafu Hao et.al.|[2505.08536v1](http://arxiv.org/abs/2505.08536v1)|**2025-05-13**|null|
-|**2025-05-13**|**Leveraging Segment Anything Model for Source-Free Domain Adaptation via Dual Feature Guided Auto-Prompting**|Zheang Huai et.al.|[2505.08527v2](http://arxiv.org/abs/2505.08527v2)|**2025-05-14**|[link](https://github.com/xmed-lab/dfg)|
-|**2025-05-13**|**Dynamic Snake Upsampling Operater and Boundary-Skeleton Weighted Loss for Tubular Structure Segmentation**|Yiqi Chen et.al.|[2505.08525v1](http://arxiv.org/abs/2505.08525v1)|**2025-05-13**|null|
-|**2025-05-13**|**Attention-based Generative Latent Replay: A Continual Learning Approach for WSI Analysis**|Pratibha Kumari et.al.|[2505.08524v1](http://arxiv.org/abs/2505.08524v1)|**2025-05-13**|null|
-|**2025-05-13**|**Isolation Forest in Novelty Detection Scenario**|Adam Ulrich et.al.|[2505.08489v1](http://arxiv.org/abs/2505.08489v1)|**2025-05-13**|null|
-|**2025-05-13**|**Short and useful quantum proofs for sublogarithmic-space verifiers**|A. C. Cem Say et.al.|[2505.08462v1](http://arxiv.org/abs/2505.08462v1)|**2025-05-13**|null|
-|**2025-05-13**|**VCRBench: Exploring Long-form Causal Reasoning Capabilities of Large Video Language Models**|Pritam Sarkar et.al.|[2505.08455v1](http://arxiv.org/abs/2505.08455v1)|**2025-05-13**|[link](https://github.com/pritamqu/vcrbench)|
-|**2025-05-13**|**Adaptive Bias Generalized Rollout Policy Adaptation on the Flexible Job-Shop Scheduling Problem**|Lotfi Kobrosly et.al.|[2505.08451v1](http://arxiv.org/abs/2505.08451v1)|**2025-05-13**|null|
-|**2025-05-13**|**Optimizing Retrieval-Augmented Generation: Analysis of Hyperparameter Impact on Performance and Efficiency**|Adel Ammar et.al.|[2505.08445v1](http://arxiv.org/abs/2505.08445v1)|**2025-05-13**|null|
-|**2025-05-13**|**GNCAF: A GNN-based Neighboring Context Aggregation Framework for Tertiary Lymphoid Structures Semantic Segmentation in WSI**|Lei Su et.al.|[2505.08430v1](http://arxiv.org/abs/2505.08430v1)|**2025-05-13**|null|
-|**2025-05-13**|**e-GPU: An Open-Source and Configurable RISC-V Graphic Processing Unit for TinyAI Applications**|Simone Machetti et.al.|[2505.08421v1](http://arxiv.org/abs/2505.08421v1)|**2025-05-13**|null|
-|**2025-05-13**|**An effcient variational quantum Korkin-Zolotarev algorithm for solving shortest vector problems**|Xiaokai Hou et.al.|[2505.08386v1](http://arxiv.org/abs/2505.08386v1)|**2025-05-13**|null|
+|**2025-05-14**|**UWAV: Uncertainty-weighted Weakly-supervised Audio-Visual Video Parsing**|Yung-Hsuan Lai et.al.|[2505.09615v1](http://arxiv.org/abs/2505.09615v1)|**2025-05-14**|null|
+|**2025-05-14**|**Variational Visual Question Answering**|Tobias Jan Wieczorek et.al.|[2505.09591v1](http://arxiv.org/abs/2505.09591v1)|**2025-05-14**|null|
+|**2025-05-14**|**Using Foundation Models as Pseudo-Label Generators for Pre-Clinical 4D Cardiac CT Segmentation**|Anne-Marie Rickmann et.al.|[2505.09564v1](http://arxiv.org/abs/2505.09564v1)|**2025-05-14**|null|
+|**2025-05-14**|**Camera-Only 3D Panoptic Scene Completion for Autonomous Driving through Differentiable Object Shapes**|Nicola Marinello et.al.|[2505.09562v1](http://arxiv.org/abs/2505.09562v1)|**2025-05-14**|null|
+|**2025-05-14**|**Scalable Computations for Generalized Mixed Effects Models with Crossed Random Effects Using Krylov Subspace Methods**|Pascal Kündig et.al.|[2505.09552v1](http://arxiv.org/abs/2505.09552v1)|**2025-05-14**|[link](https://github.com/pkuendig/krylovgmms)|
+|**2025-05-14**|**Shuffle Products, Degenerate Affine Hecke Algebras, and Quantum Toda Lattice**|Artem Kalmykov et.al.|[2505.09520v1](http://arxiv.org/abs/2505.09520v1)|**2025-05-14**|null|
+|**2025-05-14**|**Non-expansive Fuzzy ALC**|Stefan Gebhart et.al.|[2505.09416v1](http://arxiv.org/abs/2505.09416v1)|**2025-05-14**|null|
+|**2025-05-14**|**Multilingual Machine Translation with Quantum Encoder Decoder Attention-based Convolutional Variational Circuits**|Subrit Dikshit et.al.|[2505.09407v1](http://arxiv.org/abs/2505.09407v1)|**2025-05-14**|null|
+|**2025-05-14**|**FedSaaS: Class-Consistency Federated Semantic Segmentation via Global Prototype Supervision and Local Adversarial Harmonization**|Xiaoyang Yu et.al.|[2505.09385v1](http://arxiv.org/abs/2505.09385v1)|**2025-05-14**|null|
+|**2025-05-14**|**Examining Deployment and Refinement of the VIOLA-AI Intracranial Hemorrhage Model Using an Interactive NeoMedSys Platform**|Qinghui Liu et.al.|[2505.09380v1](http://arxiv.org/abs/2505.09380v1)|**2025-05-14**|null|
+|**2025-05-14**|**Strategies to Measure Energy Consumption Using RAPL During Workflow Execution on Commodity Clusters**|Philipp Thamm et.al.|[2505.09375v1](http://arxiv.org/abs/2505.09375v1)|**2025-05-14**|null|
+|**2025-05-14**|**Exploiting the Potential Supervision Information of Clean Samples in Partial Label Learning**|Guangtai Wang et.al.|[2505.09354v1](http://arxiv.org/abs/2505.09354v1)|**2025-05-14**|null|
+|**2025-05-14**|**On the topology of the magnetic lines of large solutions to the Magnetohydrodynamic equations in $\mathbb{R}^3$**|Renato Lucà et.al.|[2505.09340v1](http://arxiv.org/abs/2505.09340v1)|**2025-05-14**|null|
+|**2025-05-14**|**On the Learning with Augmented Class via Forests**|Fan Xu et.al.|[2505.09294v1](http://arxiv.org/abs/2505.09294v1)|**2025-05-14**|[link](https://github.com/nju-xuf/lacforest)|
+|**2025-05-14**|**Recent Advances in Medical Imaging Segmentation: A Survey**|Fares Bougourzi et.al.|[2505.09274v1](http://arxiv.org/abs/2505.09274v1)|**2025-05-14**|null|
+|**2025-05-14**|**MetaUAS: Universal Anomaly Segmentation with One-Prompt Meta-Learning**|Bin-Bin Gao et.al.|[2505.09265v1](http://arxiv.org/abs/2505.09265v1)|**2025-05-14**|null|
+|**2025-05-14**|**Learning to Detect Multi-class Anomalies with Just One Normal Image Prompt**|Bin-Bin Gao et.al.|[2505.09264v1](http://arxiv.org/abs/2505.09264v1)|**2025-05-14**|[link](https://github.com/gaobb/onenip)|
+|**2025-05-14**|**Few-Shot Anomaly-Driven Generation for Anomaly Classification and Segmentation**|Guan Gui et.al.|[2505.09263v1](http://arxiv.org/abs/2505.09263v1)|**2025-05-14**|[link](https://github.com/gaobb/anogen)|
+|**2025-05-14**|**Instantiating Standards: Enabling Standard-Driven Text TTP Extraction with Evolvable Memory**|Cheng Meng et.al.|[2505.09261v1](http://arxiv.org/abs/2505.09261v1)|**2025-05-14**|null|
+|**2025-05-14**|**A Standardized Benchmark Set of Clustering Problem Instances for Comparing Black-Box Optimizers**|Diederick Vermetten et.al.|[2505.09233v1](http://arxiv.org/abs/2505.09233v1)|**2025-05-14**|null|
+|**2025-05-14**|**Online Learning of Neural Networks**|Amit Daniely et.al.|[2505.09167v1](http://arxiv.org/abs/2505.09167v1)|**2025-05-14**|null|
+|**2025-05-14**|**BusOut is NP-complete**|Takehiro Ishibashi et.al.|[2505.09165v1](http://arxiv.org/abs/2505.09165v1)|**2025-05-14**|null|
+|**2025-05-14**|**AMSnet 2.0: A Large AMS Database with AI Segmentation for Net Detection**|Yichen Shi et.al.|[2505.09155v1](http://arxiv.org/abs/2505.09155v1)|**2025-05-14**|null|
+|**2025-05-14**|**Initial Algebra Correspondence under Reachability Conditions**|Mayuko Kori et.al.|[2505.09132v1](http://arxiv.org/abs/2505.09132v1)|**2025-05-14**|null|
+|**2025-05-14**|**Fair Clustering via Alignment**|Kunwoong Kim et.al.|[2505.09131v1](http://arxiv.org/abs/2505.09131v1)|**2025-05-14**|null|
+|**2025-05-14**|**Promoting SAM for Camouflaged Object Detection via Selective Key Point-based Guidance**|Guoying Liang et.al.|[2505.09123v1](http://arxiv.org/abs/2505.09123v1)|**2025-05-14**|null|
+|**2025-05-14**|**A Comprehensive Analysis of Large Language Model Outputs: Similarity, Diversity, and Bias**|Brandon Smith et.al.|[2505.09056v1](http://arxiv.org/abs/2505.09056v1)|**2025-05-14**|null|
+|**2025-05-13**|**Monte Carlo Beam Search for Actor-Critic Reinforcement Learning in Continuous Control**|Hazim Alzorgan et.al.|[2505.09029v1](http://arxiv.org/abs/2505.09029v1)|**2025-05-13**|null|
+|**2025-05-13**|**Toward Accessible and Safe Live Streaming Using Distributed Content Filtering with MoQ**|Andrew C. Freeman et.al.|[2505.08990v1](http://arxiv.org/abs/2505.08990v1)|**2025-05-13**|null|
+|**2025-05-13**|**Adaptive Entanglement Generation for Quantum Routing**|Tasdiqul Islam et.al.|[2505.08958v1](http://arxiv.org/abs/2505.08958v1)|**2025-05-13**|null|

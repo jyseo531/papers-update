@@ -2,33 +2,33 @@
 ### Object Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-13**|**Radio observations point to a moderately relativistic outflow in the fast X-ray transient EP241021a**|Muskan Yadav et.al.|[2505.08781v1](http://arxiv.org/abs/2505.08781v1)|**2025-05-13**|null|
-|**2025-05-13**|**Polar motion of Venus**|PL. Phan et.al.|[2505.08780v1](http://arxiv.org/abs/2505.08780v1)|**2025-05-13**|null|
-|**2025-05-13**|**Generative Molecular Design with Steerable and Granular Synthesizability Control**|Jeff Guo et.al.|[2505.08774v1](http://arxiv.org/abs/2505.08774v1)|**2025-05-13**|null|
-|**2025-05-13**|**Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic Methodology**|Yatai Ji et.al.|[2505.08765v2](http://arxiv.org/abs/2505.08765v2)|**2025-05-14**|null|
-|**2025-05-13**|**Computing Projective Implicit Representations from Poset Towers**|Tamal K. Dey et.al.|[2505.08755v1](http://arxiv.org/abs/2505.08755v1)|**2025-05-13**|null|
-|**2025-05-13**|**3GPP-Compliant Radar Cross Section Characterization of Indoor Factory Targets**|Ali Waqar Azim et.al.|[2505.08754v1](http://arxiv.org/abs/2505.08754v1)|**2025-05-13**|null|
-|**2025-05-13**|**Estimating the mass of the thin shell of gravastars in generalised cylindrically symmetric space-time within the framework of Rastall theory of gravity**|Debadri Bhattacharjee et.al.|[2505.08745v1](http://arxiv.org/abs/2505.08745v1)|**2025-05-13**|null|
-|**2025-05-13**|**Towards Foundation Models for Experimental Readout Systems Combining Discrete and Continuous Data**|James Giroux et.al.|[2505.08736v1](http://arxiv.org/abs/2505.08736v1)|**2025-05-13**|null|
-|**2025-05-13**|**Preference Optimization for Combinatorial Optimization Problems**|Mingjun Pan et.al.|[2505.08735v1](http://arxiv.org/abs/2505.08735v1)|**2025-05-13**|null|
-|**2025-05-13**|**Memorization-Compression Cycles Improve Generalization**|Fangyuan Yu et.al.|[2505.08727v1](http://arxiv.org/abs/2505.08727v1)|**2025-05-13**|null|
-|**2025-05-13**|**Extending Large Vision-Language Model for Diverse Interactive Tasks in Autonomous Driving**|Zongchuang Zhao et.al.|[2505.08725v1](http://arxiv.org/abs/2505.08725v1)|**2025-05-13**|null|
-|**2025-05-13**|**Optimal Trajectory Planning with Collision Avoidance for Autonomous Vehicle Maneuvering**|Jason Zalev et.al.|[2505.08724v1](http://arxiv.org/abs/2505.08724v1)|**2025-05-13**|null|
-|**2025-05-13**|**TiMo: Spatiotemporal Foundation Model for Satellite Image Time Series**|Xiaolei Qin et.al.|[2505.08723v1](http://arxiv.org/abs/2505.08723v1)|**2025-05-13**|[link](https://github.com/mililab/timo)|
-|**2025-05-13**|**Contrastive Normalizing Flows for Uncertainty-Aware Parameter Estimation**|Ibrahim Elsharkawy et.al.|[2505.08709v1](http://arxiv.org/abs/2505.08709v1)|**2025-05-13**|null|
-|**2025-05-13**|**A fully flexible joint lattice position and dose optimization method for LATTICE therapy**|Xin Tong et.al.|[2505.08679v1](http://arxiv.org/abs/2505.08679v1)|**2025-05-13**|null|
-|**2025-05-13**|**DLO-Splatting: Tracking Deformable Linear Objects Using 3D Gaussian Splatting**|Holly Dinkel et.al.|[2505.08644v1](http://arxiv.org/abs/2505.08644v1)|**2025-05-13**|null|
-|**2025-05-13**|**Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness**|Reihaneh Mirjalili et.al.|[2505.08627v1](http://arxiv.org/abs/2505.08627v1)|**2025-05-13**|null|
-|**2025-05-13**|**Leveraging Multi-Modal Information to Enhance Dataset Distillation**|Zhe Li et.al.|[2505.08605v1](http://arxiv.org/abs/2505.08605v1)|**2025-05-13**|null|
-|**2025-05-13**|**ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking**|Haofeng Liu et.al.|[2505.08581v1](http://arxiv.org/abs/2505.08581v1)|**2025-05-13**|[link](https://github.com/jinlab-imvr/resurgsam2)|
-|**2025-05-13**|**Joint Optimization of User Association and Resource Allocation for Load Balancing With Multi-Level Fairness**|Jonggyu Jang et.al.|[2505.08573v1](http://arxiv.org/abs/2505.08573v1)|**2025-05-13**|null|
-|**2025-05-13**|**Thermal Detection of People with Mobility Restrictions for Barrier Reduction at Traffic Lights Controlled Intersections**|Xiao Ni et.al.|[2505.08568v2](http://arxiv.org/abs/2505.08568v2)|**2025-05-14**|[link](https://github.com/leon2014dresden/yolo-thermal)|
-|**2025-05-13**|**Evidence of localized groundwater flow during thermal response test using distributed thermal sensing**|Antoine Voirand et.al.|[2505.08564v1](http://arxiv.org/abs/2505.08564v1)|**2025-05-13**|null|
-|**2025-05-13**|**Simulation and measurement of Black Body Radiation background in a Transition Edge Sensor**|José Alejandro Rubiera Gimeno et.al.|[2505.08555v1](http://arxiv.org/abs/2505.08555v1)|**2025-05-13**|null|
-|**2025-05-13**|**PoET: the Paranal solar ESPRESSO Telescope**|Nuno C. Santos et.al.|[2505.08540v1](http://arxiv.org/abs/2505.08540v1)|**2025-05-13**|null|
-|**2025-05-13**|**How are research data referenced? The use case of the research data repository RADAR**|Dorothea Strecker et.al.|[2505.08533v1](http://arxiv.org/abs/2505.08533v1)|**2025-05-13**|null|
-|**2025-05-13**|**Towards Resilient SDA: Graph Theory and Cooperative Control in Distributed Network Architectures**|Nesrine Benchoubane et.al.|[2505.08520v1](http://arxiv.org/abs/2505.08520v1)|**2025-05-13**|null|
-|**2025-05-13**|**A Deep Learning-Driven Framework for Inhalation Injury Grading Using Bronchoscopy Images**|Yifan Li et.al.|[2505.08517v1](http://arxiv.org/abs/2505.08517v1)|**2025-05-13**|null|
-|**2025-05-13**|**Influence of Self-Absorption on Pulse Shape Discrimination in Organic Glass Scintillators**|Lukasz Adamowski et.al.|[2505.08513v1](http://arxiv.org/abs/2505.08513v1)|**2025-05-13**|null|
-|**2025-05-13**|**Isolation Forest in Novelty Detection Scenario**|Adam Ulrich et.al.|[2505.08489v1](http://arxiv.org/abs/2505.08489v1)|**2025-05-13**|null|
-|**2025-05-13**|**A Non-planar ReBCO Test Coil with 3D-printed Aluminum Support Structure for the EPOS Stellarator**|Paul Huslage et.al.|[2505.08488v1](http://arxiv.org/abs/2505.08488v1)|**2025-05-13**|null|
+|**2025-05-14**|**Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware**|Justin Yu et.al.|[2505.09601v1](http://arxiv.org/abs/2505.09601v1)|**2025-05-14**|null|
+|**2025-05-14**|**Distance-aware Self-adaptive Graph Convolution for Fine-grained Hierarchical Recommendation**|Tao Huang et.al.|[2505.09590v1](http://arxiv.org/abs/2505.09590v1)|**2025-05-14**|null|
+|**2025-05-14**|**Don't Forget your Inverse DDIM for Image Editing**|Guillermo Gomez-Trenado et.al.|[2505.09571v1](http://arxiv.org/abs/2505.09571v1)|**2025-05-14**|null|
+|**2025-05-14**|**BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset**|Jiuhai Chen et.al.|[2505.09568v1](http://arxiv.org/abs/2505.09568v1)|**2025-05-14**|[link](https://github.com/jiuhaichen/blip3o)|
+|**2025-05-14**|**Camera-Only 3D Panoptic Scene Completion for Autonomous Driving through Differentiable Object Shapes**|Nicola Marinello et.al.|[2505.09562v1](http://arxiv.org/abs/2505.09562v1)|**2025-05-14**|null|
+|**2025-05-14**|**WavReward: Spoken Dialogue Models With Generalist Reward Evaluators**|Shengpeng Ji et.al.|[2505.09558v1](http://arxiv.org/abs/2505.09558v1)|**2025-05-14**|[link](https://github.com/jishengpeng/wavreward)|
+|**2025-05-14**|**Long-term Timing Results of Ecliptic Pulsars Observed with I-LOFAR**|S. C. Susarla et.al.|[2505.09549v1](http://arxiv.org/abs/2505.09549v1)|**2025-05-14**|null|
+|**2025-05-14**|**A weak Ly$α$ halo for an extremely bright Little Red Dot. Indications of enshrouded SMBH growth**|Alberto Torralba et.al.|[2505.09542v1](http://arxiv.org/abs/2505.09542v1)|**2025-05-14**|null|
+|**2025-05-14**|**An Asymptotically Optimal Approximation Algorithm for Multiobjective Submodular Maximization at Scale**|Fabian Spaeh et.al.|[2505.09525v1](http://arxiv.org/abs/2505.09525v1)|**2025-05-14**|null|
+|**2025-05-14**|**Risk-aware Markov Decision Processes Using Cumulative Prospect Theory**|Thomas Brihaye et.al.|[2505.09514v1](http://arxiv.org/abs/2505.09514v1)|**2025-05-14**|null|
+|**2025-05-14**|**Precision Joint Constraints on Cosmology and Gravity Using Strongly Lensed Gravitational Wave Populations**|Xinguang Ying et.al.|[2505.09507v1](http://arxiv.org/abs/2505.09507v1)|**2025-05-14**|null|
+|**2025-05-14**|**Card Sorting Simulator: Augmenting Design of Logical Information Architectures with Large Language Models**|Eduard Kuric et.al.|[2505.09478v1](http://arxiv.org/abs/2505.09478v1)|**2025-05-14**|null|
+|**2025-05-14**|**Dynamics of charge states at the surface of a ferroelectric nanoparticle in a liquid crystal**|Julia M. Gudenko et.al.|[2505.09463v1](http://arxiv.org/abs/2505.09463v1)|**2025-05-14**|null|
+|**2025-05-14**|**SEGA-DCIM: Design Space Exploration-Guided Automatic Digital CIM Compiler with Multiple Precision Support**|Haikang Diao et.al.|[2505.09451v1](http://arxiv.org/abs/2505.09451v1)|**2025-05-14**|null|
+|**2025-05-14**|**Evaluating statistical significance for massive black hole binary mergers with space-based gravitational wave detectors**|Hong-Yu Chen et.al.|[2505.09446v1](http://arxiv.org/abs/2505.09446v1)|**2025-05-14**|null|
+|**2025-05-14**|**Dimensioning and Optimization of Reliability Coverage in Local 6G Networks**|Jacek Kibiłda et.al.|[2505.09440v1](http://arxiv.org/abs/2505.09440v1)|**2025-05-14**|null|
+|**2025-05-14**|**Exploring Pose-Guided Imitation Learning for Robotic Precise Insertion**|Han Sun et.al.|[2505.09424v1](http://arxiv.org/abs/2505.09424v1)|**2025-05-14**|null|
+|**2025-05-14**|**MoRAL: Motion-aware Multi-Frame 4D Radar and LiDAR Fusion for Robust 3D Object Detection**|Xiangyuan Peng et.al.|[2505.09422v1](http://arxiv.org/abs/2505.09422v1)|**2025-05-14**|null|
+|**2025-05-14**|**FreeDriveRF: Monocular RGB Dynamic NeRF without Poses for Autonomous Driving via Point-Level Dynamic-Static Decoupling**|Yue Wen et.al.|[2505.09406v1](http://arxiv.org/abs/2505.09406v1)|**2025-05-14**|null|
+|**2025-05-14**|**Utilization of Skin Color Change for Image-based Tactile Sensing**|Seitaro Kaneko et.al.|[2505.09402v1](http://arxiv.org/abs/2505.09402v1)|**2025-05-14**|null|
+|**2025-05-14**|**Relationship between different types of inverse data for the one-dimensional Schrödinger operator on a half-line**|A. S. Mikhaylov et.al.|[2505.09397v1](http://arxiv.org/abs/2505.09397v1)|**2025-05-14**|null|
+|**2025-05-14**|**The Influence of Human-inspired Agentic Sophistication in LLM-driven Strategic Reasoners**|Vince Trencsenyi et.al.|[2505.09396v1](http://arxiv.org/abs/2505.09396v1)|**2025-05-14**|null|
+|**2025-05-14**|**Index Modulated Affine Frequency Division Multiplexing With Spread Spectrum**|Mi Qian et.al.|[2505.09394v1](http://arxiv.org/abs/2505.09394v1)|**2025-05-14**|null|
+|**2025-05-14**|**Mitigating Configuration Differences Between Development and Production Environments: A Catalog of Strategies**|Marcos Nazario et.al.|[2505.09392v1](http://arxiv.org/abs/2505.09392v1)|**2025-05-14**|null|
+|**2025-05-14**|**Strategic Jenga Play via Graph Based Dynamics Modeling**|Kavya Puthuveetil et.al.|[2505.09377v1](http://arxiv.org/abs/2505.09377v1)|**2025-05-14**|null|
+|**2025-05-14**|**Personalized Control for Lower Limb Prosthesis Using Kolmogorov-Arnold Networks**|SeyedMojtaba Mohasel et.al.|[2505.09366v1](http://arxiv.org/abs/2505.09366v1)|**2025-05-14**|null|
+|**2025-05-14**|**Procedural Low-Poly Terrain Generation with Terracing for Computer Games**|Richard Tivolt et.al.|[2505.09350v1](http://arxiv.org/abs/2505.09350v1)|**2025-05-14**|null|
+|**2025-05-14**|**Safe Primal-Dual Optimization with a Single Smooth Constraint**|Ilnura Usmanova et.al.|[2505.09349v1](http://arxiv.org/abs/2505.09349v1)|**2025-05-14**|null|
+|**2025-05-14**|**Evaluating the Robustness of Adversarial Defenses in Malware Detection Systems**|Mostafa Jafari et.al.|[2505.09342v1](http://arxiv.org/abs/2505.09342v1)|**2025-05-14**|[link](https://github.com/mostafa-ja/sigma-binary)|
+|**2025-05-14**|**Embodied Intelligent Industrial Robotics: Concepts and Techniques**|Chaoran Zhang et.al.|[2505.09305v1](http://arxiv.org/abs/2505.09305v1)|**2025-05-14**|null|

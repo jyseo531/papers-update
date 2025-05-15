@@ -2,33 +2,33 @@
 ### Semantic Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-13**|**Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic Methodology**|Yatai Ji et.al.|[2505.08765v2](http://arxiv.org/abs/2505.08765v2)|**2025-05-14**|null|
-|**2025-05-13**|**Computing Projective Implicit Representations from Poset Towers**|Tamal K. Dey et.al.|[2505.08755v1](http://arxiv.org/abs/2505.08755v1)|**2025-05-13**|null|
-|**2025-05-13**|**Implet: A Post-hoc Subsequence Explainer for Time Series Models**|Fanyu Meng et.al.|[2505.08748v1](http://arxiv.org/abs/2505.08748v1)|**2025-05-13**|[link](https://github.com/lbzsteven/implet)|
-|**2025-05-13**|**Optimal Trajectory Planning with Collision Avoidance for Autonomous Vehicle Maneuvering**|Jason Zalev et.al.|[2505.08724v1](http://arxiv.org/abs/2505.08724v1)|**2025-05-13**|null|
-|**2025-05-13**|**TiMo: Spatiotemporal Foundation Model for Satellite Image Time Series**|Xiaolei Qin et.al.|[2505.08723v1](http://arxiv.org/abs/2505.08723v1)|**2025-05-13**|[link](https://github.com/mililab/timo)|
-|**2025-05-13**|**Controllable Image Colorization with Instance-aware Texts and Masks**|Yanru An et.al.|[2505.08705v1](http://arxiv.org/abs/2505.08705v1)|**2025-05-13**|null|
-|**2025-05-13**|**VIViT: Variable-Input Vision Transformer Framework for 3D MR Image Segmentation**|Badhan Kumar Das et.al.|[2505.08693v1](http://arxiv.org/abs/2505.08693v1)|**2025-05-13**|null|
-|**2025-05-13**|**Calibration and Uncertainty for multiRater Volume Assessment in multiorgan Segmentation (CURVAS) challenge results**|Meritxell Riera-Marin et.al.|[2505.08685v1](http://arxiv.org/abs/2505.08685v1)|**2025-05-13**|null|
-|**2025-05-13**|**A Comparative Study of Human Activity Recognition: Motion, Tactile, and multi-modal Approaches**|Valerio Belcamino et.al.|[2505.08657v1](http://arxiv.org/abs/2505.08657v1)|**2025-05-13**|null|
-|**2025-05-13**|**Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness**|Reihaneh Mirjalili et.al.|[2505.08627v1](http://arxiv.org/abs/2505.08627v1)|**2025-05-13**|null|
-|**2025-05-13**|**Visually Guided Decoding: Gradient-Free Hard Prompt Inversion with Language Models**|Donghoon Kim et.al.|[2505.08622v1](http://arxiv.org/abs/2505.08622v1)|**2025-05-13**|null|
-|**2025-05-13**|**Leveraging Multi-Modal Information to Enhance Dataset Distillation**|Zhe Li et.al.|[2505.08605v1](http://arxiv.org/abs/2505.08605v1)|**2025-05-13**|null|
-|**2025-05-13**|**MESSI: A Multi-Elevation Semantic Segmentation Image Dataset of an Urban Environment**|Barak Pinkovich et.al.|[2505.08589v1](http://arxiv.org/abs/2505.08589v1)|**2025-05-13**|null|
-|**2025-05-13**|**ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking**|Haofeng Liu et.al.|[2505.08581v1](http://arxiv.org/abs/2505.08581v1)|**2025-05-13**|[link](https://github.com/jinlab-imvr/resurgsam2)|
-|**2025-05-13**|**Reinforcement Learning meets Masked Video Modeling : Trajectory-Guided Adaptive Token Selection**|Ayush K. Rai et.al.|[2505.08561v1](http://arxiv.org/abs/2505.08561v1)|**2025-05-13**|null|
-|**2025-05-13**|**The RaspGrade Dataset: Towards Automatic Raspberry Ripeness Grading with Deep Learning**|Mohamed Lamine Mekhalfi et.al.|[2505.08537v2](http://arxiv.org/abs/2505.08537v2)|**2025-05-14**|null|
-|**2025-05-13**|**Short Wins Long: Short Codes with Language Model Semantic Correction Outperform Long Codes**|Jiafu Hao et.al.|[2505.08536v1](http://arxiv.org/abs/2505.08536v1)|**2025-05-13**|null|
-|**2025-05-13**|**Leveraging Segment Anything Model for Source-Free Domain Adaptation via Dual Feature Guided Auto-Prompting**|Zheang Huai et.al.|[2505.08527v2](http://arxiv.org/abs/2505.08527v2)|**2025-05-14**|[link](https://github.com/xmed-lab/dfg)|
-|**2025-05-13**|**Dynamic Snake Upsampling Operater and Boundary-Skeleton Weighted Loss for Tubular Structure Segmentation**|Yiqi Chen et.al.|[2505.08525v1](http://arxiv.org/abs/2505.08525v1)|**2025-05-13**|null|
-|**2025-05-13**|**On the Complexity and Properties of Preferential Propositional Dependence Logic**|Kai Sauerwald et.al.|[2505.08522v1](http://arxiv.org/abs/2505.08522v1)|**2025-05-13**|null|
-|**2025-05-13**|**TrialMatchAI: An End-to-End AI-powered Clinical Trial Recommendation System to Streamline Patient-to-Trial Matching**|Majd Abdallah et.al.|[2505.08508v1](http://arxiv.org/abs/2505.08508v1)|**2025-05-13**|null|
-|**2025-05-13**|**Weighted Rewriting: Semiring Semantics for Abstract Reduction Systems**|Emma Ahrens et.al.|[2505.08496v1](http://arxiv.org/abs/2505.08496v1)|**2025-05-13**|null|
-|**2025-05-13**|**Optimizing Retrieval-Augmented Generation: Analysis of Hyperparameter Impact on Performance and Efficiency**|Adel Ammar et.al.|[2505.08445v1](http://arxiv.org/abs/2505.08445v1)|**2025-05-13**|null|
-|**2025-05-13**|**GNCAF: A GNN-based Neighboring Context Aggregation Framework for Tertiary Lymphoid Structures Semantic Segmentation in WSI**|Lei Su et.al.|[2505.08430v1](http://arxiv.org/abs/2505.08430v1)|**2025-05-13**|null|
-|**2025-05-13**|**ORACLE-Grasp: Zero-Shot Task-Oriented Robotic Grasping using Large Multimodal Models**|Avihai Giuili et.al.|[2505.08417v1](http://arxiv.org/abs/2505.08417v1)|**2025-05-13**|null|
-|**2025-05-13**|**Modeling Unseen Environments with Language-guided Composable Causal Components in Reinforcement Learning**|Xinyue Wang et.al.|[2505.08361v1](http://arxiv.org/abs/2505.08361v1)|**2025-05-13**|null|
-|**2025-05-13**|**CHEOPS Ground Segment: Systems and Automation for Mission and Science Operations**|Alexis Heitzmann et.al.|[2505.08352v1](http://arxiv.org/abs/2505.08352v1)|**2025-05-13**|null|
-|**2025-05-13**|**FAD: Frequency Adaptation and Diversion for Cross-domain Few-shot Learning**|Ruixiao Shi et.al.|[2505.08349v1](http://arxiv.org/abs/2505.08349v1)|**2025-05-13**|null|
-|**2025-05-13**|**On the Geometry of Semantics in Next-token Prediction**|Yize Zhao et.al.|[2505.08348v1](http://arxiv.org/abs/2505.08348v1)|**2025-05-13**|null|
-|**2025-05-13**|**SemCSINet: A Semantic-Aware CSI Feedback Network in Massive MIMO Systems**|Ruonan Ren et.al.|[2505.08314v1](http://arxiv.org/abs/2505.08314v1)|**2025-05-13**|null|
+|**2025-05-14**|**UWAV: Uncertainty-weighted Weakly-supervised Audio-Visual Video Parsing**|Yung-Hsuan Lai et.al.|[2505.09615v1](http://arxiv.org/abs/2505.09615v1)|**2025-05-14**|null|
+|**2025-05-14**|**DataMIL: Selecting Data for Robot Imitation Learning with Datamodels**|Shivin Dass et.al.|[2505.09603v1](http://arxiv.org/abs/2505.09603v1)|**2025-05-14**|null|
+|**2025-05-14**|**BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset**|Jiuhai Chen et.al.|[2505.09568v1](http://arxiv.org/abs/2505.09568v1)|**2025-05-14**|[link](https://github.com/jiuhaichen/blip3o)|
+|**2025-05-14**|**Using Foundation Models as Pseudo-Label Generators for Pre-Clinical 4D Cardiac CT Segmentation**|Anne-Marie Rickmann et.al.|[2505.09564v1](http://arxiv.org/abs/2505.09564v1)|**2025-05-14**|null|
+|**2025-05-14**|**Camera-Only 3D Panoptic Scene Completion for Autonomous Driving through Differentiable Object Shapes**|Nicola Marinello et.al.|[2505.09562v1](http://arxiv.org/abs/2505.09562v1)|**2025-05-14**|null|
+|**2025-05-14**|**Flash-VL 2B: Optimizing Vision-Language Model Performance for Ultra-Low Latency and High Throughput**|Bo Zhang et.al.|[2505.09498v1](http://arxiv.org/abs/2505.09498v1)|**2025-05-14**|null|
+|**2025-05-14**|**Deploying Foundation Model-Enabled Air and Ground Robots in the Field: Challenges and Opportunities**|Zachary Ravichandran et.al.|[2505.09477v1](http://arxiv.org/abs/2505.09477v1)|**2025-05-14**|null|
+|**2025-05-14**|**A 2D Semantic-Aware Position Encoding for Vision Transformers**|Xi Chen et.al.|[2505.09466v1](http://arxiv.org/abs/2505.09466v1)|**2025-05-14**|null|
+|**2025-05-14**|**FreeDriveRF: Monocular RGB Dynamic NeRF without Poses for Autonomous Driving via Point-Level Dynamic-Static Decoupling**|Yue Wen et.al.|[2505.09406v1](http://arxiv.org/abs/2505.09406v1)|**2025-05-14**|null|
+|**2025-05-14**|**FedSaaS: Class-Consistency Federated Semantic Segmentation via Global Prototype Supervision and Local Adversarial Harmonization**|Xiaoyang Yu et.al.|[2505.09385v1](http://arxiv.org/abs/2505.09385v1)|**2025-05-14**|null|
+|**2025-05-14**|**Examining Deployment and Refinement of the VIOLA-AI Intracranial Hemorrhage Model Using an Interactive NeoMedSys Platform**|Qinghui Liu et.al.|[2505.09380v1](http://arxiv.org/abs/2505.09380v1)|**2025-05-14**|null|
+|**2025-05-14**|**RAG-Enabled Intent Reasoning for Application-Network Interaction**|Salwa Mostafa et.al.|[2505.09339v1](http://arxiv.org/abs/2505.09339v1)|**2025-05-14**|null|
+|**2025-05-14**|**Llama See, Llama Do: A Mechanistic Perspective on Contextual Entrainment and Distraction in LLMs**|Jingcheng Niu et.al.|[2505.09338v1](http://arxiv.org/abs/2505.09338v1)|**2025-05-14**|null|
+|**2025-05-14**|**Unsupervised Multiview Contrastive Language-Image Joint Learning with Pseudo-Labeled Prompts Via Vision-Language Model for 3D/4D Facial Expression Recognition**|Muzammil Behzad et.al.|[2505.09336v1](http://arxiv.org/abs/2505.09336v1)|**2025-05-14**|null|
+|**2025-05-14**|**Embodied Intelligent Industrial Robotics: Concepts and Techniques**|Chaoran Zhang et.al.|[2505.09305v1](http://arxiv.org/abs/2505.09305v1)|**2025-05-14**|null|
+|**2025-05-14**|**Rough sets semantics for the three-valued extension of first-order Priest's da Costa logic**|José Luis Castiglioni et.al.|[2505.09302v1](http://arxiv.org/abs/2505.09302v1)|**2025-05-14**|null|
+|**2025-05-14**|**A Note on Semantic Diffusion**|Alexander P. Ryjov et.al.|[2505.09283v1](http://arxiv.org/abs/2505.09283v1)|**2025-05-14**|null|
+|**2025-05-14**|**Recent Advances in Medical Imaging Segmentation: A Survey**|Fares Bougourzi et.al.|[2505.09274v1](http://arxiv.org/abs/2505.09274v1)|**2025-05-14**|null|
+|**2025-05-14**|**MetaUAS: Universal Anomaly Segmentation with One-Prompt Meta-Learning**|Bin-Bin Gao et.al.|[2505.09265v1](http://arxiv.org/abs/2505.09265v1)|**2025-05-14**|null|
+|**2025-05-14**|**Learning to Detect Multi-class Anomalies with Just One Normal Image Prompt**|Bin-Bin Gao et.al.|[2505.09264v1](http://arxiv.org/abs/2505.09264v1)|**2025-05-14**|[link](https://github.com/gaobb/onenip)|
+|**2025-05-14**|**Few-Shot Anomaly-Driven Generation for Anomaly Classification and Segmentation**|Guan Gui et.al.|[2505.09263v1](http://arxiv.org/abs/2505.09263v1)|**2025-05-14**|[link](https://github.com/gaobb/anogen)|
+|**2025-05-14**|**DRRNet: Macro-Micro Feature Fusion and Dual Reverse Refinement for Camouflaged Object Detection**|Jianlin Sun et.al.|[2505.09168v1](http://arxiv.org/abs/2505.09168v1)|**2025-05-14**|[link](https://github.com/jerrysunning/drrnet)|
+|**2025-05-14**|**AMSnet 2.0: A Large AMS Database with AI Segmentation for Net Detection**|Yichen Shi et.al.|[2505.09155v1](http://arxiv.org/abs/2505.09155v1)|**2025-05-14**|null|
+|**2025-05-14**|**Beyond General Prompts: Automated Prompt Refinement using Contrastive Class Alignment Scores for Disambiguating Objects in Vision-Language Models**|Lucas Choi et.al.|[2505.09139v1](http://arxiv.org/abs/2505.09139v1)|**2025-05-14**|null|
+|**2025-05-14**|**Initial Algebra Correspondence under Reachability Conditions**|Mayuko Kori et.al.|[2505.09132v1](http://arxiv.org/abs/2505.09132v1)|**2025-05-14**|null|
+|**2025-05-14**|**WSCIF: A Weakly-Supervised Color Intelligence Framework for Tactical Anomaly Detection in Surveillance Keyframes**|Wei Meng et.al.|[2505.09129v1](http://arxiv.org/abs/2505.09129v1)|**2025-05-14**|null|
+|**2025-05-14**|**Promoting SAM for Camouflaged Object Detection via Selective Key Point-based Guidance**|Guoying Liang et.al.|[2505.09123v1](http://arxiv.org/abs/2505.09123v1)|**2025-05-14**|null|
+|**2025-05-14**|**Air-Ground Collaboration for Language-Specified Missions in Unknown Environments**|Fernando Cladera et.al.|[2505.09108v1](http://arxiv.org/abs/2505.09108v1)|**2025-05-14**|null|
+|**2025-05-14**|**OpenLKA: An Open Dataset of Lane Keeping Assist from Recent Car Models under Real-world Driving Conditions**|Yuhang Wang et.al.|[2505.09092v1](http://arxiv.org/abs/2505.09092v1)|**2025-05-14**|[link](https://github.com/openlka/openlka)|
+|**2025-05-14**|**S-DAT: A Multilingual, GenAI-Driven Framework for Automated Divergent Thinking Assessment**|Jennifer Haase et.al.|[2505.09068v1](http://arxiv.org/abs/2505.09068v1)|**2025-05-14**|null|

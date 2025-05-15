@@ -2,33 +2,33 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-13**|**GNN-based Precoder Design and Fine-tuning for Cell-free Massive MIMO with Real-world CSI**|Tianzheng Miao et.al.|[2505.08788v1](http://arxiv.org/abs/2505.08788v1)|**2025-05-13**|null|
-|**2025-05-13**|**CodePDE: An Inference Framework for LLM-driven PDE Solver Generation**|Shanda Li et.al.|[2505.08783v1](http://arxiv.org/abs/2505.08783v1)|**2025-05-13**|null|
-|**2025-05-13**|**ARC-NCA: Towards Developmental Solutions to the Abstraction and Reasoning Corpus**|Etienne Guichard et.al.|[2505.08778v1](http://arxiv.org/abs/2505.08778v1)|**2025-05-13**|null|
-|**2025-05-13**|**The Environment-Dependent Regulatory Landscape of the E. coli Genome**|Tom Röschinger et.al.|[2505.08764v1](http://arxiv.org/abs/2505.08764v1)|**2025-05-13**|null|
-|**2025-05-13**|**Three Tone Networks and a Tessellation**|Jeffrey R. Boland et.al.|[2505.08752v1](http://arxiv.org/abs/2505.08752v1)|**2025-05-13**|null|
-|**2025-05-13**|**AC-Reason: Towards Theory-Guided Actual Causality Reasoning with Large Language Models**|Yanxi Zhang et.al.|[2505.08750v1](http://arxiv.org/abs/2505.08750v1)|**2025-05-13**|null|
-|**2025-05-13**|**Sensitivity-Constrained Fourier Neural Operators for Forward and Inverse Problems in Parametric Differential Equations**|Abdolmehdi Behroozi et.al.|[2505.08740v2](http://arxiv.org/abs/2505.08740v2)|**2025-05-14**|[link](https://github.com/ambehroozi/sc_neural_operators)|
-|**2025-05-13**|**Preference Optimization for Combinatorial Optimization Problems**|Mingjun Pan et.al.|[2505.08735v1](http://arxiv.org/abs/2505.08735v1)|**2025-05-13**|null|
-|**2025-05-13**|**The structure and migration of twin boundaries in tetragonal $β$-Sn: an application of machine learning based interatomic potentials**|Ian Chesser et.al.|[2505.08732v1](http://arxiv.org/abs/2505.08732v1)|**2025-05-13**|null|
-|**2025-05-13**|**Properties of LCM Lattices of Monomial Ideals**|Matthew Dorang et.al.|[2505.08722v1](http://arxiv.org/abs/2505.08722v1)|**2025-05-13**|null|
-|**2025-05-13**|**PWC-MoE: Privacy-Aware Wireless Collaborative Mixture of Experts**|Yang Su et.al.|[2505.08719v1](http://arxiv.org/abs/2505.08719v1)|**2025-05-13**|null|
-|**2025-05-13**|**NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance**|Wenzhe Cai et.al.|[2505.08712v1](http://arxiv.org/abs/2505.08712v1)|**2025-05-13**|null|
-|**2025-05-13**|**Universal electronic synthesis by microresonator-soliton photomixing**|Jizhao Zang et.al.|[2505.08707v1](http://arxiv.org/abs/2505.08707v1)|**2025-05-13**|null|
-|**2025-05-13**|**Big Data and the Computational Social Science of Entrepreneurship and Innovation**|Ningzi Li et.al.|[2505.08706v1](http://arxiv.org/abs/2505.08706v1)|**2025-05-13**|null|
-|**2025-05-13**|**Continuous Temporal Learning of Probability Distributions via Neural ODEs with Applications in Continuous Glucose Monitoring Data**|Antonio Álvarez-López et.al.|[2505.08698v1](http://arxiv.org/abs/2505.08698v1)|**2025-05-13**|null|
-|**2025-05-13**|**Quantum confinement theory of ultra-thin films: electronic, thermal and superconducting properties**|Alessio Zaccone et.al.|[2505.08696v1](http://arxiv.org/abs/2505.08696v1)|**2025-05-13**|null|
-|**2025-05-13**|**SPAST: Arbitrary Style Transfer with Style Priors via Pre-trained Large-scale Model**|Zhanjie Zhang et.al.|[2505.08695v1](http://arxiv.org/abs/2505.08695v1)|**2025-05-13**|null|
-|**2025-05-13**|**A Survey of Deep Learning for Complex Speech Spectrograms**|Yuying Xie et.al.|[2505.08694v1](http://arxiv.org/abs/2505.08694v1)|**2025-05-13**|null|
-|**2025-05-13**|**VizCV: AI-assisted visualization of researchers' publications tracks**|Vladimír Lazárik et.al.|[2505.08691v1](http://arxiv.org/abs/2505.08691v1)|**2025-05-13**|null|
-|**2025-05-13**|**Plastic deformation as a phase transition: a combinatorial model of plastic flow in copper single crystals**|Afonso D. M. Barroso et.al.|[2505.08689v1](http://arxiv.org/abs/2505.08689v1)|**2025-05-13**|null|
-|**2025-05-13**|**AC-PKAN: Attention-Enhanced and Chebyshev Polynomial-Based Physics-Informed Kolmogorov-Arnold Networks**|Hangwei Zhang et.al.|[2505.08687v1](http://arxiv.org/abs/2505.08687v1)|**2025-05-13**|null|
-|**2025-05-13**|**Joint Communication Scheduling and Resource Allocation for Distributed Edge Learning: Seamless Integration in Next-Generation Wireless Networks**|Paul Zheng et.al.|[2505.08682v1](http://arxiv.org/abs/2505.08682v1)|**2025-05-13**|null|
-|**2025-05-13**|**A Mamba-based Network for Semi-supervised Singing Melody Extraction Using Confidence Binary Regularization**|Xiaoliang He et.al.|[2505.08681v1](http://arxiv.org/abs/2505.08681v1)|**2025-05-13**|null|
-|**2025-05-13**|**The number of cultural traits, evolving genealogies, and the descendant process**|Joe Yuichiro Wakano et.al.|[2505.08677v1](http://arxiv.org/abs/2505.08677v1)|**2025-05-13**|null|
-|**2025-05-13**|**Claycode: Stylable and Deformable 2D Scannable Codes**|Marco Maida et.al.|[2505.08666v1](http://arxiv.org/abs/2505.08666v1)|**2025-05-13**|null|
-|**2025-05-13**|**A Social Robot with Inner Speech for Dietary Guidance**|Valerio Belcamino et.al.|[2505.08664v1](http://arxiv.org/abs/2505.08664v1)|**2025-05-13**|null|
-|**2025-05-13**|**Impartial removing games on grid graphs**|Bret J. Benesh et.al.|[2505.08655v1](http://arxiv.org/abs/2505.08655v1)|**2025-05-13**|null|
-|**2025-05-13**|**Heterogeneity Induces Cyclops States in Kuramoto Networks with Higher-Mode Coupling**|Maxim I. Bolotov et.al.|[2505.08653v1](http://arxiv.org/abs/2505.08653v1)|**2025-05-13**|null|
-|**2025-05-13**|**Comparative Analysis of Blockchain Systems**|Jiaqi Huang et.al.|[2505.08652v1](http://arxiv.org/abs/2505.08652v1)|**2025-05-13**|null|
-|**2025-05-13**|**Robust Beamforming Design for STAR-RIS Aided RSMA Network with Hardware Impairments**|Ziyue Wang et.al.|[2505.08642v1](http://arxiv.org/abs/2505.08642v1)|**2025-05-13**|null|
+|**2025-05-14**|**Robust Representation and Estimation of Barycenters and Modes of Probability Measures on Metric Spaces**|Washington Mio et.al.|[2505.09609v1](http://arxiv.org/abs/2505.09609v1)|**2025-05-14**|null|
+|**2025-05-14**|**The Niche Connectivity Paradox: Multichrome Contagions Overcome Vaccine Hesitancy more effectively than Monochromacy**|Ho-Chun Herbert Chang et.al.|[2505.09605v1](http://arxiv.org/abs/2505.09605v1)|**2025-05-14**|null|
+|**2025-05-14**|**MDTP -- An Adaptive Multi-Source Data Transfer Protocol**|Sepideh Abdollah et.al.|[2505.09597v1](http://arxiv.org/abs/2505.09597v1)|**2025-05-14**|null|
+|**2025-05-14**|**Distance-aware Self-adaptive Graph Convolution for Fine-grained Hierarchical Recommendation**|Tao Huang et.al.|[2505.09590v1](http://arxiv.org/abs/2505.09590v1)|**2025-05-14**|null|
+|**2025-05-14**|**Rhomboid Tiling for Geometric Graph Deep Learning**|Yipeng Zhang et.al.|[2505.09586v1](http://arxiv.org/abs/2505.09586v1)|**2025-05-14**|null|
+|**2025-05-14**|**Tropical Fermat-Weber Points over Bergman Fans**|Shelby Cox et.al.|[2505.09584v1](http://arxiv.org/abs/2505.09584v1)|**2025-05-14**|null|
+|**2025-05-14**|**Experimental study of the distributions of off-diagonal scattering-matrix elements of quantum graphs with symplectic symmetry**|Jiongning Che et.al.|[2505.09573v1](http://arxiv.org/abs/2505.09573v1)|**2025-05-14**|null|
+|**2025-05-14**|**SAD Neural Networks: Divergent Gradient Flows and Asymptotic Optimality via o-minimal Structures**|Julian Kranz et.al.|[2505.09572v1](http://arxiv.org/abs/2505.09572v1)|**2025-05-14**|[link](https://github.com/deeplearningmethods/sad)|
+|**2025-05-14**|**Meta-learning Slice-to-Volume Reconstruction in Fetal Brain MRI using Implicit Neural Representations**|Maik Dannecker et.al.|[2505.09565v1](http://arxiv.org/abs/2505.09565v1)|**2025-05-14**|null|
+|**2025-05-14**|**Fast Learning in Quantitative Finance with Extreme Learning Machine**|Liexin Cheng et.al.|[2505.09551v1](http://arxiv.org/abs/2505.09551v1)|**2025-05-14**|null|
+|**2025-05-14**|**Learned Free-Energy Functionals from Pair-Correlation Matching for Dynamical Density Functional Theory**|Karnik Ram et.al.|[2505.09543v1](http://arxiv.org/abs/2505.09543v1)|**2025-05-14**|null|
+|**2025-05-14**|**Planarity of Mycielski-like graph expansions**|Devansh Vimal et.al.|[2505.09534v1](http://arxiv.org/abs/2505.09534v1)|**2025-05-14**|null|
+|**2025-05-14**|**Einstein, Free Creations, and His Worldly Cloister**|Galina Weinstein et.al.|[2505.09530v1](http://arxiv.org/abs/2505.09530v1)|**2025-05-14**|null|
+|**2025-05-14**|**Contactless Cardiac Pulse Monitoring Using Event Cameras**|Mohamed Moustafa et.al.|[2505.09529v1](http://arxiv.org/abs/2505.09529v1)|**2025-05-14**|[link](https://github.com/c3imaging/contactless_cardiac_pulse_monitoring_using_event_cameras)|
+|**2025-05-14**|**An Asymptotically Optimal Approximation Algorithm for Multiobjective Submodular Maximization at Scale**|Fabian Spaeh et.al.|[2505.09525v1](http://arxiv.org/abs/2505.09525v1)|**2025-05-14**|null|
+|**2025-05-14**|**Resonant cavity-QED with chiral flat bands**|E. M. Broni et.al.|[2505.09524v1](http://arxiv.org/abs/2505.09524v1)|**2025-05-14**|null|
+|**2025-05-14**|**Unveiling Connections between Tensor Network and Stabilizer Formalism by Cutting in Time**|Zhong-Xia Shang et.al.|[2505.09512v1](http://arxiv.org/abs/2505.09512v1)|**2025-05-14**|null|
+|**2025-05-14**|**Deep-SITAR: A SITAR-Based Deep Learning Framework for Growth Curve Modeling via Autoencoders**|María Alejandra Hernández et.al.|[2505.09506v1](http://arxiv.org/abs/2505.09506v1)|**2025-05-14**|null|
+|**2025-05-14**|**Preserving Plasticity in Continual Learning with Adaptive Linearity Injection**|Seyed Roozbeh Razavi Rohani et.al.|[2505.09486v1](http://arxiv.org/abs/2505.09486v1)|**2025-05-14**|null|
+|**2025-05-14**|**Some graphs related to submodules of a module**|Faranak Farshadifar et.al.|[2505.09448v1](http://arxiv.org/abs/2505.09448v1)|**2025-05-14**|null|
+|**2025-05-14**|**Probing the Temporal Response of Liquid Water to a THz Pump Pulse Using Machine Learning-Accelerated Non-Equilibrium Molecular Dynamics**|Kit Joll et.al.|[2505.09442v1](http://arxiv.org/abs/2505.09442v1)|**2025-05-14**|null|
+|**2025-05-14**|**Dimensioning and Optimization of Reliability Coverage in Local 6G Networks**|Jacek Kibiłda et.al.|[2505.09440v1](http://arxiv.org/abs/2505.09440v1)|**2025-05-14**|null|
+|**2025-05-14**|**Efficient LiDAR Reflectance Compression via Scanning Serialization**|Jiahao Zhu et.al.|[2505.09433v1](http://arxiv.org/abs/2505.09433v1)|**2025-05-14**|null|
+|**2025-05-14**|**FLUXLAYER: High-Performance Design for Cross-chain Fragmented Liquidity**|Xin Lao et.al.|[2505.09423v1](http://arxiv.org/abs/2505.09423v1)|**2025-05-14**|null|
+|**2025-05-14**|**FACTors: A New Dataset for Studying the Fact-checking Ecosystem**|Enes Altuncu et.al.|[2505.09414v1](http://arxiv.org/abs/2505.09414v1)|**2025-05-14**|[link](https://github.com/altuncu/factors)|
+|**2025-05-14**|**Sparse Point Cloud Patches Rendering via Splitting 2D Gaussians**|Ma Changfeng et.al.|[2505.09413v1](http://arxiv.org/abs/2505.09413v1)|**2025-05-14**|[link](https://github.com/murcherful/gaupcrender)|
+|**2025-05-14**|**FreeDriveRF: Monocular RGB Dynamic NeRF without Poses for Autonomous Driving via Point-Level Dynamic-Static Decoupling**|Yue Wen et.al.|[2505.09406v1](http://arxiv.org/abs/2505.09406v1)|**2025-05-14**|null|
+|**2025-05-14**|**Wormhole Detection Based on Z-Score And Neighbor Table Comparison**|Zezhi Zeng et.al.|[2505.09405v1](http://arxiv.org/abs/2505.09405v1)|**2025-05-14**|null|
+|**2025-05-14**|**Quantum-Enhanced Parameter-Efficient Learning for Typhoon Trajectory Forecasting**|Chen-Yu Liu et.al.|[2505.09395v1](http://arxiv.org/abs/2505.09395v1)|**2025-05-14**|null|
+|**2025-05-14**|**Index Modulated Affine Frequency Division Multiplexing With Spread Spectrum**|Mi Qian et.al.|[2505.09394v1](http://arxiv.org/abs/2505.09394v1)|**2025-05-14**|null|
