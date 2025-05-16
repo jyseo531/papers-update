@@ -2,7 +2,13 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-15**|**Quantized Approximate Signal Processing (QASP): Towards Homomorphic Encryption for audio**|Tu Duyen Nguyen et.al.|[2505.10500v1](http://arxiv.org/abs/2505.10500v1)|**2025-05-15**|null|
+|**2025-05-15**|**From Persistence to Resilience: New Betti Numbers for Analyzing Robustness in Simplicial Complex Networks**|Pablo Hernández-García et.al.|[2505.10467v1](http://arxiv.org/abs/2505.10467v1)|**2025-05-15**|null|
+|**2025-05-15**|**HandReader: Advanced Techniques for Efficient Fingerspelling Recognition**|Pavel Korotaev et.al.|[2505.10267v1](http://arxiv.org/abs/2505.10267v1)|**2025-05-15**|null|
+|**2025-05-15**|**All You Need Is Synthetic Task Augmentation**|Guillaume Godin et.al.|[2505.10120v1](http://arxiv.org/abs/2505.10120v1)|**2025-05-15**|null|
+|**2025-05-14**|**A Framework for Identifying Non-van der Waals 2D Materials**|Shota Ono et.al.|[2505.09853v1](http://arxiv.org/abs/2505.09853v1)|**2025-05-14**|null|
 |**2025-05-14**|**GlobalMood: A cross-cultural benchmark for music emotion recognition**|Harin Lee et.al.|[2505.09539v1](http://arxiv.org/abs/2505.09539v1)|**2025-05-14**|null|
+|**2025-05-14**|**Introducing voice timbre attribute detection**|Jinghao He et.al.|[2505.09661v1](http://arxiv.org/abs/2505.09661v1)|**2025-05-14**|[link](https://github.com/vtad2025-challenge/vtad)|
 |**2025-05-14**|**The Voice Timbre Attribute Detection 2025 Challenge Evaluation Plan**|Zhengyan Sheng et.al.|[2505.09382v1](http://arxiv.org/abs/2505.09382v1)|**2025-05-14**|null|
 |**2025-05-14**|**FoldNet: Learning Generalizable Closed-Loop Policy for Garment Folding via Keypoint-Driven Asset and Demonstration Synthesis**|Yuxing Chen et.al.|[2505.09109v1](http://arxiv.org/abs/2505.09109v1)|**2025-05-14**|null|
 |**2025-05-14**|**VGC-RIO: A Tightly Integrated Radar-Inertial Odometry with Spatial Weighted Doppler Velocity and Local Geometric Constrained RCS Histograms**|Jianguang Xiang et.al.|[2505.09103v2](http://arxiv.org/abs/2505.09103v2)|**2025-05-15**|null|
@@ -26,9 +32,3 @@
 |**2025-05-06**|**EOPose : Exemplar-based object reposing using Generalized Pose Correspondences**|Sarthak Mehrotra et.al.|[2505.03394v1](http://arxiv.org/abs/2505.03394v1)|**2025-05-06**|null|
 |**2025-05-06**|**Density of States Proportion on Charge Transfer Kinetics in Breathing Fermionic Systems of Molecules and Materials: A Perspective of Entropy-Ruled Method**|Karuppuchamy Navamani et.al.|[2505.03348v1](http://arxiv.org/abs/2505.03348v1)|**2025-05-06**|null|
 |**2025-05-05**|**Unsupervised training of keypoint-agnostic descriptors for flexible retinal image registration**|David Rivas-Villar et.al.|[2505.02787v1](http://arxiv.org/abs/2505.02787v1)|**2025-05-05**|null|
-|**2025-05-05**|**Unsupervised Deep Learning-based Keypoint Localization Estimating Descriptor Matching Performance**|David Rivas-Villar et.al.|[2505.02779v1](http://arxiv.org/abs/2505.02779v1)|**2025-05-05**|null|
-|**2025-05-05**|**Topology across Scales on Heterogeneous Cell Data**|Maria Torras-Pérez et.al.|[2505.02717v1](http://arxiv.org/abs/2505.02717v1)|**2025-05-05**|[link](https://github.com/mariatorras/tda-multiplexed-data)|
-|**2025-05-05**|**Dance of Fireworks: An Interactive Broadcast Gymnastics Training System Based on Pose Estimation**|Haotian Chen et.al.|[2505.02690v1](http://arxiv.org/abs/2505.02690v1)|**2025-05-05**|null|
-|**2025-05-05**|**Corr2Distrib: Making Ambiguous Correspondences an Ally to Predict Reliable 6D Pose Distributions**|Asma Brazi et.al.|[2505.02501v1](http://arxiv.org/abs/2505.02501v1)|**2025-05-05**|null|
-|**2025-05-05**|**Rethinking Multimodal Sentiment Analysis: A High-Accuracy, Simplified Fusion Architecture**|Nischal Mandal et.al.|[2505.04642v1](http://arxiv.org/abs/2505.04642v1)|**2025-05-05**|null|
-|**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836v1](http://arxiv.org/abs/2505.03836v1)|**2025-05-04**|[link](https://github.com/cszhanglmu/obd-finder)|

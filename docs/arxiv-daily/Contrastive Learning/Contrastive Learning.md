@@ -2,33 +2,33 @@
 ### Contrastive Learning
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-14**|**Adaptively-weighted Nearest Neighbors for Matrix Completion**|Tathagata Sadhukhan et.al.|[2505.09612v1](http://arxiv.org/abs/2505.09612v1)|**2025-05-14**|null|
-|**2025-05-14**|**Robust Representation and Estimation of Barycenters and Modes of Probability Measures on Metric Spaces**|Washington Mio et.al.|[2505.09609v1](http://arxiv.org/abs/2505.09609v1)|**2025-05-14**|null|
-|**2025-05-14**|**DataMIL: Selecting Data for Robot Imitation Learning with Datamodels**|Shivin Dass et.al.|[2505.09603v1](http://arxiv.org/abs/2505.09603v1)|**2025-05-14**|null|
-|**2025-05-14**|**Adversarial Suffix Filtering: a Defense Pipeline for LLMs**|David Khachaturov et.al.|[2505.09602v1](http://arxiv.org/abs/2505.09602v1)|**2025-05-14**|null|
-|**2025-05-14**|**Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware**|Justin Yu et.al.|[2505.09601v1](http://arxiv.org/abs/2505.09601v1)|**2025-05-14**|null|
-|**2025-05-14**|**Design of Experiments for Emulations: A Selective Review from a Modeling Perspective**|Xinwei Deng et.al.|[2505.09596v1](http://arxiv.org/abs/2505.09596v1)|**2025-05-14**|null|
-|**2025-05-14**|**Online Isolation Forest**|Filippo Leveni et.al.|[2505.09593v1](http://arxiv.org/abs/2505.09593v1)|**2025-05-14**|[link](https://github.com/ineveloppilif/online-isolation-forest)|
-|**2025-05-14**|**Variational Visual Question Answering**|Tobias Jan Wieczorek et.al.|[2505.09591v1](http://arxiv.org/abs/2505.09591v1)|**2025-05-14**|null|
-|**2025-05-14**|**Distance-aware Self-adaptive Graph Convolution for Fine-grained Hierarchical Recommendation**|Tao Huang et.al.|[2505.09590v1](http://arxiv.org/abs/2505.09590v1)|**2025-05-14**|[link](https://github.com/coffeetau/sagcn)|
-|**2025-05-14**|**Rhomboid Tiling for Geometric Graph Deep Learning**|Yipeng Zhang et.al.|[2505.09586v1](http://arxiv.org/abs/2505.09586v1)|**2025-05-14**|null|
-|**2025-05-14**|**Beyond Likes: How Normative Feedback Complements Engagement Signals on Social Media**|Yuchen Wu et.al.|[2505.09583v2](http://arxiv.org/abs/2505.09583v2)|**2025-05-15**|null|
-|**2025-05-14**|**The vertical structure of debris discs and the role of disc gravity**|Antranik A. Sefilian et.al.|[2505.09578v1](http://arxiv.org/abs/2505.09578v1)|**2025-05-14**|null|
-|**2025-05-14**|**VTLA: Vision-Tactile-Language-Action Model with Preference Learning for Insertion Manipulation**|Chaofan Zhang et.al.|[2505.09577v1](http://arxiv.org/abs/2505.09577v1)|**2025-05-14**|null|
-|**2025-05-14**|**Ethics and Persuasion in Reinforcement Learning from Human Feedback: A Procedural Rhetorical Approach**|Shannon Lodoen et.al.|[2505.09576v1](http://arxiv.org/abs/2505.09576v1)|**2025-05-14**|null|
-|**2025-05-14**|**SAD Neural Networks: Divergent Gradient Flows and Asymptotic Optimality via o-minimal Structures**|Julian Kranz et.al.|[2505.09572v1](http://arxiv.org/abs/2505.09572v1)|**2025-05-14**|[link](https://github.com/deeplearningmethods/sad)|
-|**2025-05-14**|**MIGRATION-BENCH: Repository-Level Code Migration Benchmark from Java 8**|Linbo Liu et.al.|[2505.09569v1](http://arxiv.org/abs/2505.09569v1)|**2025-05-14**|null|
-|**2025-05-14**|**BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset**|Jiuhai Chen et.al.|[2505.09568v1](http://arxiv.org/abs/2505.09568v1)|**2025-05-14**|[link](https://github.com/jiuhaichen/blip3o)|
-|**2025-05-14**|**Meta-learning Slice-to-Volume Reconstruction in Fetal Brain MRI using Implicit Neural Representations**|Maik Dannecker et.al.|[2505.09565v1](http://arxiv.org/abs/2505.09565v1)|**2025-05-14**|null|
-|**2025-05-14**|**Using Foundation Models as Pseudo-Label Generators for Pre-Clinical 4D Cardiac CT Segmentation**|Anne-Marie Rickmann et.al.|[2505.09564v1](http://arxiv.org/abs/2505.09564v1)|**2025-05-14**|null|
-|**2025-05-14**|**Improved Sample Upper and Lower Bounds for Trace Estimation of Quantum State Powers**|Kean Chen et.al.|[2505.09563v1](http://arxiv.org/abs/2505.09563v1)|**2025-05-14**|null|
-|**2025-05-14**|**Camera-Only 3D Panoptic Scene Completion for Autonomous Driving through Differentiable Object Shapes**|Nicola Marinello et.al.|[2505.09562v1](http://arxiv.org/abs/2505.09562v1)|**2025-05-14**|null|
-|**2025-05-14**|**Learning Long-Context Diffusion Policies via Past-Token Prediction**|Marcel Torne et.al.|[2505.09561v1](http://arxiv.org/abs/2505.09561v1)|**2025-05-14**|null|
-|**2025-05-14**|**WavReward: Spoken Dialogue Models With Generalist Reward Evaluators**|Shengpeng Ji et.al.|[2505.09558v1](http://arxiv.org/abs/2505.09558v1)|**2025-05-14**|[link](https://github.com/jishengpeng/wavreward)|
-|**2025-05-14**|**Scalable Computations for Generalized Mixed Effects Models with Crossed Random Effects Using Krylov Subspace Methods**|Pascal Kündig et.al.|[2505.09552v1](http://arxiv.org/abs/2505.09552v1)|**2025-05-14**|[link](https://github.com/pkuendig/krylovgmms)|
-|**2025-05-14**|**Fast Learning in Quantitative Finance with Extreme Learning Machine**|Liexin Cheng et.al.|[2505.09551v1](http://arxiv.org/abs/2505.09551v1)|**2025-05-14**|null|
-|**2025-05-14**|**Distilling Realizable Students from Unrealizable Teachers**|Yujin Kim et.al.|[2505.09546v1](http://arxiv.org/abs/2505.09546v1)|**2025-05-14**|null|
-|**2025-05-14**|**TorchGDM: A GPU-Accelerated Python Toolkit for Multi-Scale Electromagnetic Scattering with Automatic Differentiation**|Sofia Ponomareva et.al.|[2505.09545v1](http://arxiv.org/abs/2505.09545v1)|**2025-05-14**|null|
-|**2025-05-14**|**Learned Free-Energy Functionals from Pair-Correlation Matching for Dynamical Density Functional Theory**|Karnik Ram et.al.|[2505.09543v1](http://arxiv.org/abs/2505.09543v1)|**2025-05-14**|null|
-|**2025-05-14**|**Contactless Cardiac Pulse Monitoring Using Event Cameras**|Mohamed Moustafa et.al.|[2505.09529v1](http://arxiv.org/abs/2505.09529v1)|**2025-05-14**|[link](https://github.com/c3imaging/contactless_cardiac_pulse_monitoring_using_event_cameras)|
-|**2025-05-14**|**Conformal Bounds on Full-Reference Image Quality for Imaging Inverse Problems**|Jeffrey Wen et.al.|[2505.09528v1](http://arxiv.org/abs/2505.09528v1)|**2025-05-14**|[link](https://github.com/jwen307/quality_uq)|
+|**2025-05-15**|**3D-Fixup: Advancing Photo Editing with 3D Priors**|Yen-Chi Cheng et.al.|[2505.10566v1](http://arxiv.org/abs/2505.10566v1)|**2025-05-15**|null|
+|**2025-05-15**|**T2A-Feedback: Improving Basic Capabilities of Text-to-Audio Generation via Fine-grained AI Feedback**|Zehan Wang et.al.|[2505.10561v1](http://arxiv.org/abs/2505.10561v1)|**2025-05-15**|null|
+|**2025-05-15**|**Neural Thermodynamic Laws for Large Language Model Training**|Ziming Liu et.al.|[2505.10559v1](http://arxiv.org/abs/2505.10559v1)|**2025-05-15**|null|
+|**2025-05-15**|**An AI-driven framework for the prediction of personalised health response to air pollution**|Nazanin Zounemat Kermani et.al.|[2505.10556v1](http://arxiv.org/abs/2505.10556v1)|**2025-05-15**|null|
+|**2025-05-15**|**Beyond 'Aha!': Toward Systematic Meta-Abilities Alignment in Large Reasoning Models**|Zhiyuan Hu et.al.|[2505.10554v1](http://arxiv.org/abs/2505.10554v1)|**2025-05-15**|null|
+|**2025-05-15**|**Pharmacophore-Conditioned Diffusion Model for Ligand-Based De Novo Drug Design**|Amira Alakhdar et.al.|[2505.10545v1](http://arxiv.org/abs/2505.10545v1)|**2025-05-15**|null|
+|**2025-05-15**|**Towards a Deeper Understanding of Reasoning Capabilities in Large Language Models**|Annie Wong et.al.|[2505.10543v1](http://arxiv.org/abs/2505.10543v1)|**2025-05-15**|null|
+|**2025-05-15**|**S3C2 Summit 2024-09: Industry Secure Software Supply Chain Summit**|Imranur Rahman et.al.|[2505.10538v1](http://arxiv.org/abs/2505.10538v1)|**2025-05-15**|null|
+|**2025-05-15**|**Real-World fNIRS-Based Brain-Computer Interfaces: Benchmarking Deep Learning and Classical Models in Interactive Gaming**|Mohammad Ghalavand et.al.|[2505.10536v1](http://arxiv.org/abs/2505.10536v1)|**2025-05-15**|null|
+|**2025-05-15**|**Enhancing Multi-Image Question Answering via Submodular Subset Selection**|Aaryan Sharma et.al.|[2505.10533v1](http://arxiv.org/abs/2505.10533v1)|**2025-05-15**|null|
+|**2025-05-15**|**Magnon Nesting in Driven Two-Dimensional Quantum Magnets**|Hossein Hosseinabadi et.al.|[2505.10531v1](http://arxiv.org/abs/2505.10531v1)|**2025-05-15**|null|
+|**2025-05-15**|**MASSV: Multimodal Adaptation and Self-Data Distillation for Speculative Decoding of Vision-Language Models**|Mugilan Ganesan et.al.|[2505.10526v1](http://arxiv.org/abs/2505.10526v1)|**2025-05-15**|null|
+|**2025-05-15**|**Knowledge capture, adaptation and composition (KCAC): A framework for cross-task curriculum learning in robotic manipulation**|Xinrui Wang et.al.|[2505.10522v1](http://arxiv.org/abs/2505.10522v1)|**2025-05-15**|null|
+|**2025-05-15**|**Multi-Token Prediction Needs Registers**|Anastasios Gerontopoulos et.al.|[2505.10518v1](http://arxiv.org/abs/2505.10518v1)|**2025-05-15**|[link](https://github.com/nasosger/mutor)|
+|**2025-05-15**|**PnPXAI: A Universal XAI Framework Providing Automatic Explanations Across Diverse Modalities and Models**|Seongun Kim et.al.|[2505.10515v1](http://arxiv.org/abs/2505.10515v1)|**2025-05-15**|null|
+|**2025-05-15**|**Learning Nonlinear Dynamics in Physical Modelling Synthesis using Neural Ordinary Differential Equations**|Victor Zheleznov et.al.|[2505.10511v1](http://arxiv.org/abs/2505.10511v1)|**2025-05-15**|[link](https://github.com/victorzheleznov/dafx25)|
+|**2025-05-15**|**Weighted Active Space Protocol for Multireference Machine-Learned Potentials**|Aniruddha Seal et.al.|[2505.10505v1](http://arxiv.org/abs/2505.10505v1)|**2025-05-15**|null|
+|**2025-05-15**|**WeGA: Weakly-Supervised Global-Local Affinity Learning Framework for Lymph Node Metastasis Prediction in Rectal Cancer**|Yifan Gao et.al.|[2505.10502v1](http://arxiv.org/abs/2505.10502v1)|**2025-05-15**|null|
+|**2025-05-15**|**Quantized Approximate Signal Processing (QASP): Towards Homomorphic Encryption for audio**|Tu Duyen Nguyen et.al.|[2505.10500v1](http://arxiv.org/abs/2505.10500v1)|**2025-05-15**|null|
+|**2025-05-15**|**Batched Nonparametric Bandits via k-Nearest Neighbor UCB**|Sakshi Arya et.al.|[2505.10498v1](http://arxiv.org/abs/2505.10498v1)|**2025-05-15**|null|
+|**2025-05-15**|**MorphGuard: Morph Specific Margin Loss for Enhancing Robustness to Face Morphing Attacks**|Iurii Medvedev et.al.|[2505.10497v1](http://arxiv.org/abs/2505.10497v1)|**2025-05-15**|null|
+|**2025-05-15**|**RouteNator: A Router-Based Multi-Modal Architecture for Generating Synthetic Training Data for Function Calling LLMs**|Vibha Belavadi et.al.|[2505.10495v1](http://arxiv.org/abs/2505.10495v1)|**2025-05-15**|null|
+|**2025-05-15**|**CL-RAG: Bridging the Gap in Retrieval-Augmented Generation with Curriculum Learning**|Shaohan Wang et.al.|[2505.10493v1](http://arxiv.org/abs/2505.10493v1)|**2025-05-15**|null|
+|**2025-05-15**|**Multi-contrast laser endoscopy for in vivo gastrointestinal imaging**|Taylor L. Bobrow et.al.|[2505.10492v1](http://arxiv.org/abs/2505.10492v1)|**2025-05-15**|null|
+|**2025-05-15**|**Interpretable Artificial Intelligence for Topological Photonics**|Ali Ghorashi et.al.|[2505.10485v1](http://arxiv.org/abs/2505.10485v1)|**2025-05-15**|null|
+|**2025-05-15**|**Fixing Incomplete Value Function Decomposition for Multi-Agent Reinforcement Learning**|Andrea Baisero et.al.|[2505.10484v1](http://arxiv.org/abs/2505.10484v1)|**2025-05-15**|null|
+|**2025-05-15**|**Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps**|Ningyuan Yang et.al.|[2505.10482v1](http://arxiv.org/abs/2505.10482v1)|**2025-05-15**|null|
+|**2025-05-15**|**Logos as a Well-Tempered Pre-train for Sign Language Recognition**|Ilya Ovodov et.al.|[2505.10481v1](http://arxiv.org/abs/2505.10481v1)|**2025-05-15**|null|
+|**2025-05-15**|**Parallel Scaling Law for Language Models**|Mouxiang Chen et.al.|[2505.10475v1](http://arxiv.org/abs/2505.10475v1)|**2025-05-15**|null|
+|**2025-05-15**|**Large Language Models for Cancer Communication: Evaluating Linguistic Quality, Safety, and Accessibility in Generative AI**|Agnik Saha et.al.|[2505.10472v1](http://arxiv.org/abs/2505.10472v1)|**2025-05-15**|null|

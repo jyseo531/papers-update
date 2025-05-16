@@ -2,33 +2,33 @@
 ### Transformer
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-14**|**Analytical and Scale-Free Phase-Field Studies of $α$ to $ω$ Phase Transformation in Single Crystal Zirconium under Nonhydrostatic Loadings**|Raghunandan Pratoori et.al.|[2505.09570v1](http://arxiv.org/abs/2505.09570v1)|**2025-05-14**|null|
-|**2025-05-14**|**BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset**|Jiuhai Chen et.al.|[2505.09568v1](http://arxiv.org/abs/2505.09568v1)|**2025-05-14**|[link](https://github.com/jiuhaichen/blip3o)|
-|**2025-05-14**|**Improved Sample Upper and Lower Bounds for Trace Estimation of Quantum State Powers**|Kean Chen et.al.|[2505.09563v1](http://arxiv.org/abs/2505.09563v1)|**2025-05-14**|null|
-|**2025-05-14**|**Room-Temperature High-Purity Single Photon Emission from Carbon-Doped Boron Nitride Thin Films**|Arka Chatterjee et.al.|[2505.09556v1](http://arxiv.org/abs/2505.09556v1)|**2025-05-14**|null|
-|**2025-05-14**|**Multimodal transformers with elemental priors for phase classification of X-ray diffraction spectra**|Kangyu Ji et.al.|[2505.09536v1](http://arxiv.org/abs/2505.09536v1)|**2025-05-14**|null|
-|**2025-05-14**|**Spec2VolCAMU-Net: A Spectrogram-to-Volume Model for EEG-to-fMRI Reconstruction based on Multi-directional Time-Frequency Convolutional Attention Encoder and Vision-Mamba U-Net**|Dongyi He et.al.|[2505.09521v1](http://arxiv.org/abs/2505.09521v1)|**2025-05-14**|[link](https://github.com/hdy6438/spec2volcamu-net)|
-|**2025-05-14**|**Shuffle Products, Degenerate Affine Hecke Algebras, and Quantum Toda Lattice**|Artem Kalmykov et.al.|[2505.09520v1](http://arxiv.org/abs/2505.09520v1)|**2025-05-14**|null|
-|**2025-05-14**|**Shadow Celestial Operator Product Expansions**|Elizabeth Himwich et.al.|[2505.09499v1](http://arxiv.org/abs/2505.09499v1)|**2025-05-14**|null|
-|**2025-05-14**|**DESI DR1 Lyα 1D power spectrum: The Fast Fourier Transform estimator measurement**|Corentin Ravoux et.al.|[2505.09493v1](http://arxiv.org/abs/2505.09493v1)|**2025-05-14**|null|
-|**2025-05-14**|**A 2D Semantic-Aware Position Encoding for Vision Transformers**|Xi Chen et.al.|[2505.09466v1](http://arxiv.org/abs/2505.09466v1)|**2025-05-14**|null|
-|**2025-05-14**|**Fourier analytic properties of Kakeya sets in finite fields**|Jonathan M. Fraser et.al.|[2505.09464v1](http://arxiv.org/abs/2505.09464v1)|**2025-05-14**|null|
-|**2025-05-14**|**Beyond Pixels: Leveraging the Language of Soccer to Improve Spatio-Temporal Action Detection in Broadcast Videos**|Jeremie Ochin et.al.|[2505.09455v1](http://arxiv.org/abs/2505.09455v1)|**2025-05-14**|null|
-|**2025-05-14**|**Efficient LiDAR Reflectance Compression via Scanning Serialization**|Jiahao Zhu et.al.|[2505.09433v1](http://arxiv.org/abs/2505.09433v1)|**2025-05-14**|null|
-|**2025-05-14**|**Train a Multi-Task Diffusion Policy on RLBench-18 in One Day with One GPU**|Yutong Hu et.al.|[2505.09430v1](http://arxiv.org/abs/2505.09430v1)|**2025-05-14**|[link](https://github.com/utomm/mini-diffuse-actor)|
-|**2025-05-14**|**Independent Component Analysis by Robust Distance Correlation**|Sarah Leyder et.al.|[2505.09425v1](http://arxiv.org/abs/2505.09425v1)|**2025-05-14**|null|
-|**2025-05-14**|**Evolving the Productivity Equation: Should Digital Labor Be Considered a New Factor of Production?**|Alex Farach et.al.|[2505.09408v1](http://arxiv.org/abs/2505.09408v1)|**2025-05-14**|null|
-|**2025-05-14**|**eqsat: An Equality Saturation Dialect for Non-destructive Rewriting**|Jules Merckx et.al.|[2505.09363v2](http://arxiv.org/abs/2505.09363v2)|**2025-05-15**|null|
-|**2025-05-14**|**Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis**|Bingxin Ke et.al.|[2505.09358v1](http://arxiv.org/abs/2505.09358v1)|**2025-05-14**|null|
-|**2025-05-14**|**APR-Transformer: Initial Pose Estimation for Localization in Complex Environments through Absolute Pose Regression**|Srinivas Ravuri et.al.|[2505.09356v1](http://arxiv.org/abs/2505.09356v1)|**2025-05-14**|[link](https://github.com/gt-arc/apr-transformer)|
-|**2025-05-14**|**Multilevel Circuit Optimization in Quantum Compilers: A Case Study**|Tamiya Onodera et.al.|[2505.09320v1](http://arxiv.org/abs/2505.09320v1)|**2025-05-14**|null|
-|**2025-05-14**|**An improved $L^2$ restriction theorem in finite fields**|Jonathan M. Fraser et.al.|[2505.09293v1](http://arxiv.org/abs/2505.09293v1)|**2025-05-14**|null|
-|**2025-05-14**|**Learning to Detect Multi-class Anomalies with Just One Normal Image Prompt**|Bin-Bin Gao et.al.|[2505.09264v1](http://arxiv.org/abs/2505.09264v1)|**2025-05-14**|[link](https://github.com/gaobb/onenip)|
-|**2025-05-14**|**Zero-Shot Multi-modal Large Language Model v.s. Supervised Deep Learning: A Comparative Study on CT-Based Intracranial Hemorrhage Subtyping**|Yinuo Wang et.al.|[2505.09252v1](http://arxiv.org/abs/2505.09252v1)|**2025-05-14**|[link](https://github.com/mileswyn/ich_mllms_validation)|
-|**2025-05-14**|**Fully analytical propagator for lunar satellite orbits in closed form**|Rita Mastroianni et.al.|[2505.09241v1](http://arxiv.org/abs/2505.09241v1)|**2025-05-14**|null|
-|**2025-05-14**|**Optimal Transport-Based Domain Adaptation for Rotated Linear Regression**|Brian Britos et.al.|[2505.09229v1](http://arxiv.org/abs/2505.09229v1)|**2025-05-14**|null|
-|**2025-05-14**|**Securing P4 Programs by Information Flow Control**|Anoud Alshnakat et.al.|[2505.09221v1](http://arxiv.org/abs/2505.09221v1)|**2025-05-14**|null|
-|**2025-05-14**|**HMamba: Hyperbolic Mamba for Sequential Recommendation**|Qianru Zhang et.al.|[2505.09205v1](http://arxiv.org/abs/2505.09205v1)|**2025-05-14**|null|
-|**2025-05-14**|**Quotient Complex Transformer (QCformer) for Perovskite Data Analysis**|Xinyu You et.al.|[2505.09174v1](http://arxiv.org/abs/2505.09174v1)|**2025-05-14**|null|
-|**2025-05-14**|**A Multi-Task Foundation Model for Wireless Channel Representation Using Contrastive and Masked Autoencoder Learning**|Berkay Guler et.al.|[2505.09160v1](http://arxiv.org/abs/2505.09160v1)|**2025-05-14**|null|
-|**2025-05-14**|**Manifestly Covariant Canonical Formalism of Quadratic Gravity**|Ichiro Oda et.al.|[2505.09149v1](http://arxiv.org/abs/2505.09149v1)|**2025-05-14**|null|
+|**2025-05-15**|**3D-Fixup: Advancing Photo Editing with 3D Priors**|Yen-Chi Cheng et.al.|[2505.10566v1](http://arxiv.org/abs/2505.10566v1)|**2025-05-15**|null|
+|**2025-05-15**|**An AI-driven framework for the prediction of personalised health response to air pollution**|Nazanin Zounemat Kermani et.al.|[2505.10556v1](http://arxiv.org/abs/2505.10556v1)|**2025-05-15**|null|
+|**2025-05-15**|**Flowing Through Hilbert Space: Quantum-Enhanced Generative Models for Lattice Field Theory**|Jehu Martinez et.al.|[2505.10553v1](http://arxiv.org/abs/2505.10553v1)|**2025-05-15**|null|
+|**2025-05-15**|**Loop closure grasping: Topological transformations enable strong, gentle, and versatile grasps**|Kentaro Barhydt et.al.|[2505.10552v1](http://arxiv.org/abs/2505.10552v1)|**2025-05-15**|null|
+|**2025-05-15**|**Pharmacophore-Conditioned Diffusion Model for Ligand-Based De Novo Drug Design**|Amira Alakhdar et.al.|[2505.10545v1](http://arxiv.org/abs/2505.10545v1)|**2025-05-15**|null|
+|**2025-05-15**|**LibIQ: Toward Real-Time Spectrum Classification in O-RAN dApps**|Filippo Olimpieri et.al.|[2505.10537v1](http://arxiv.org/abs/2505.10537v1)|**2025-05-15**|null|
+|**2025-05-15**|**Real-World fNIRS-Based Brain-Computer Interfaces: Benchmarking Deep Learning and Classical Models in Interactive Gaming**|Mohammad Ghalavand et.al.|[2505.10536v1](http://arxiv.org/abs/2505.10536v1)|**2025-05-15**|null|
+|**2025-05-15**|**MASSV: Multimodal Adaptation and Self-Data Distillation for Speculative Decoding of Vision-Language Models**|Mugilan Ganesan et.al.|[2505.10526v1](http://arxiv.org/abs/2505.10526v1)|**2025-05-15**|null|
+|**2025-05-15**|**Quantized Approximate Signal Processing (QASP): Towards Homomorphic Encryption for audio**|Tu Duyen Nguyen et.al.|[2505.10500v1](http://arxiv.org/abs/2505.10500v1)|**2025-05-15**|null|
+|**2025-05-15**|**Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps**|Ningyuan Yang et.al.|[2505.10482v1](http://arxiv.org/abs/2505.10482v1)|**2025-05-15**|null|
+|**2025-05-15**|**Parallel Scaling Law for Language Models**|Mouxiang Chen et.al.|[2505.10475v1](http://arxiv.org/abs/2505.10475v1)|**2025-05-15**|null|
+|**2025-05-15**|**A Study of Directional Entropy Arising from \(\mathbb{Z} \times \mathbb{Z}_+\) Semigroup Actions**|Hasan Akin et.al.|[2505.10428v1](http://arxiv.org/abs/2505.10428v1)|**2025-05-15**|null|
+|**2025-05-15**|**Visual Fidelity Index for Generative Semantic Communications with Critical Information Embedding**|Jianhao Huang et.al.|[2505.10405v1](http://arxiv.org/abs/2505.10405v1)|**2025-05-15**|null|
+|**2025-05-15**|**Unlocking Innate Computing Abilities in Electric Grids**|Yubo Song et.al.|[2505.10382v1](http://arxiv.org/abs/2505.10382v1)|**2025-05-15**|null|
+|**2025-05-15**|**Are Sparse Autoencoders Useful for Java Function Bug Detection?**|Rui Melo et.al.|[2505.10375v1](http://arxiv.org/abs/2505.10375v1)|**2025-05-15**|null|
+|**2025-05-15**|**Arbitrarily Small Execution-Time Certificate: What was Missed in Analog Optimization**|Liang Wu et.al.|[2505.10366v1](http://arxiv.org/abs/2505.10366v1)|**2025-05-15**|null|
+|**2025-05-15**|**SpikeVideoFormer: An Efficient Spike-Driven Video Transformer with Hamming Attention and $\mathcal{O}(T)$ Complexity**|Shihao Zou et.al.|[2505.10352v1](http://arxiv.org/abs/2505.10352v1)|**2025-05-15**|null|
+|**2025-05-15**|**Spin-orbit physics stemming from mixed parity superconductivity: A relationship between mixed parity superconductivity and magnetism with spin-orbit coupling**|Takehito Yokoyama et.al.|[2505.10336v1](http://arxiv.org/abs/2505.10336v1)|**2025-05-15**|null|
+|**2025-05-15**|**Topological properties of domain walls in antiferromagnetic topological insulators**|Gabriele Naselli et.al.|[2505.10335v1](http://arxiv.org/abs/2505.10335v1)|**2025-05-15**|null|
+|**2025-05-15**|**Private Transformer Inference in MLaaS: A Survey**|Yang Li et.al.|[2505.10315v1](http://arxiv.org/abs/2505.10315v1)|**2025-05-15**|null|
+|**2025-05-15**|**AttentionGuard: Transformer-based Misbehavior Detection for Secure Vehicular Platoons**|Hexu Li et.al.|[2505.10273v1](http://arxiv.org/abs/2505.10273v1)|**2025-05-15**|null|
+|**2025-05-15**|**Inferring Driving Maps by Deep Learning-based Trail Map Extraction**|Michael Hubbertz et.al.|[2505.10258v1](http://arxiv.org/abs/2505.10258v1)|**2025-05-15**|null|
+|**2025-05-15**|**Predicting Beyond Training Data via Extrapolation versus Translocation: AI Weather Models and Dubai's Unprecedented 2024 Rainfall**|Y. Qiang Sun et.al.|[2505.10241v1](http://arxiv.org/abs/2505.10241v1)|**2025-05-15**|null|
+|**2025-05-15**|**Frequency conversion between optical and microwave photons in non-Markovian environments**|Jia Tang et.al.|[2505.10240v1](http://arxiv.org/abs/2505.10240v1)|**2025-05-15**|null|
+|**2025-05-15**|**Data-Agnostic Augmentations for Unknown Variations: Out-of-Distribution Generalisation in MRI Segmentation**|Puru Vaish et.al.|[2505.10223v1](http://arxiv.org/abs/2505.10223v1)|**2025-05-15**|[link](https://github.com/miagrouput/augmentations-for-the-unknown)|
+|**2025-05-15**|**ComplexFormer: Disruptively Advancing Transformer Inference Ability via Head-Specific Complex Vector Attention**|Jintian Shao et.al.|[2505.10222v1](http://arxiv.org/abs/2505.10222v1)|**2025-05-15**|null|
+|**2025-05-15**|**PyLIT: Reformulation and implementation of the analytic continuation problem using kernel representation methods**|Alexander Benedix Robles et.al.|[2505.10211v1](http://arxiv.org/abs/2505.10211v1)|**2025-05-15**|null|
+|**2025-05-15**|**Gauge transformations on quantum principal bundles**|Antonio Del Donno et.al.|[2505.10193v1](http://arxiv.org/abs/2505.10193v1)|**2025-05-15**|null|
+|**2025-05-15**|**Does Scaling Law Apply in Time Series Forecasting?**|Zeyan Li et.al.|[2505.10172v1](http://arxiv.org/abs/2505.10172v1)|**2025-05-15**|null|
+|**2025-05-15**|**QuXAI: Explainers for Hybrid Quantum Machine Learning Models**|Saikat Barua et.al.|[2505.10167v1](http://arxiv.org/abs/2505.10167v1)|**2025-05-15**|null|
