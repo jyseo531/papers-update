@@ -15,7 +15,7 @@
 |**2025-05-14**|**A 70 pc-Diameter Nova Super-remnant Surrounding the Recurrent Nova RS Ophiuchi**|Michael M. Shara et.al.|[2505.09510v1](http://arxiv.org/abs/2505.09510v1)|**2025-05-14**|null|
 |**2025-05-14**|**Flash-VL 2B: Optimizing Vision-Language Model Performance for Ultra-Low Latency and High Throughput**|Bo Zhang et.al.|[2505.09498v1](http://arxiv.org/abs/2505.09498v1)|**2025-05-14**|null|
 |**2025-05-14**|**A direct imaging method for inverse scattering problem of biharmonic wave with phased and phaseless data**|Tielei Zhu et.al.|[2505.09495v1](http://arxiv.org/abs/2505.09495v1)|**2025-05-14**|null|
-|**2025-05-14**|**Production-ready double-side fabrication of dual-band infrared meta-optics using deep-UV lithography**|Kai Sun et.al.|[2505.09488v1](http://arxiv.org/abs/2505.09488v1)|**2025-05-14**|null|
+|**2025-05-14**|**Production-ready double-side fabrication of dual-band infrared meta-optics using deep-UV lithography**|Kai Sun et.al.|[2505.09488v2](http://arxiv.org/abs/2505.09488v2)|**2025-05-15**|null|
 |**2025-05-14**|**When Dark Matter Heats Up: A Model-Independent Search for Non-Cold Behavior**|Mazaharul Abedin et.al.|[2505.09470v1](http://arxiv.org/abs/2505.09470v1)|**2025-05-14**|null|
 |**2025-05-14**|**A 2D Semantic-Aware Position Encoding for Vision Transformers**|Xi Chen et.al.|[2505.09466v1](http://arxiv.org/abs/2505.09466v1)|**2025-05-14**|null|
 |**2025-05-14**|**Vortex and fractional quantum Hall phases in a rotating anisotropic Bose gas**|Umut Tanyeri et.al.|[2505.09452v1](http://arxiv.org/abs/2505.09452v1)|**2025-05-14**|null|

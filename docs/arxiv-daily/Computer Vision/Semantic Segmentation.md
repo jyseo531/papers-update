@@ -16,7 +16,7 @@
 |**2025-05-14**|**RAG-Enabled Intent Reasoning for Application-Network Interaction**|Salwa Mostafa et.al.|[2505.09339v1](http://arxiv.org/abs/2505.09339v1)|**2025-05-14**|null|
 |**2025-05-14**|**Llama See, Llama Do: A Mechanistic Perspective on Contextual Entrainment and Distraction in LLMs**|Jingcheng Niu et.al.|[2505.09338v1](http://arxiv.org/abs/2505.09338v1)|**2025-05-14**|null|
 |**2025-05-14**|**Unsupervised Multiview Contrastive Language-Image Joint Learning with Pseudo-Labeled Prompts Via Vision-Language Model for 3D/4D Facial Expression Recognition**|Muzammil Behzad et.al.|[2505.09336v1](http://arxiv.org/abs/2505.09336v1)|**2025-05-14**|null|
-|**2025-05-14**|**Embodied Intelligent Industrial Robotics: Concepts and Techniques**|Chaoran Zhang et.al.|[2505.09305v1](http://arxiv.org/abs/2505.09305v1)|**2025-05-14**|null|
+|**2025-05-14**|**Embodied Intelligent Industrial Robotics: Concepts and Techniques**|Chaoran Zhang et.al.|[2505.09305v2](http://arxiv.org/abs/2505.09305v2)|**2025-05-15**|null|
 |**2025-05-14**|**Rough sets semantics for the three-valued extension of first-order Priest's da Costa logic**|José Luis Castiglioni et.al.|[2505.09302v1](http://arxiv.org/abs/2505.09302v1)|**2025-05-14**|null|
 |**2025-05-14**|**A Note on Semantic Diffusion**|Alexander P. Ryjov et.al.|[2505.09283v1](http://arxiv.org/abs/2505.09283v1)|**2025-05-14**|null|
 |**2025-05-14**|**Recent Advances in Medical Imaging Segmentation: A Survey**|Fares Bougourzi et.al.|[2505.09274v1](http://arxiv.org/abs/2505.09274v1)|**2025-05-14**|null|

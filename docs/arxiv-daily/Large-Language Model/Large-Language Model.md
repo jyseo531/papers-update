@@ -19,11 +19,11 @@
 |**2025-05-14**|**Design of Experiments for Emulations: A Selective Review from a Modeling Perspective**|Xinwei Deng et.al.|[2505.09596v1](http://arxiv.org/abs/2505.09596v1)|**2025-05-14**|null|
 |**2025-05-14**|**WorldView-Bench: A Benchmark for Evaluating Global Cultural Perspectives in Large Language Models**|Abdullah Mushtaq et.al.|[2505.09595v1](http://arxiv.org/abs/2505.09595v1)|**2025-05-14**|null|
 |**2025-05-14**|**Variational Visual Question Answering**|Tobias Jan Wieczorek et.al.|[2505.09591v1](http://arxiv.org/abs/2505.09591v1)|**2025-05-14**|null|
-|**2025-05-14**|**Distance-aware Self-adaptive Graph Convolution for Fine-grained Hierarchical Recommendation**|Tao Huang et.al.|[2505.09590v1](http://arxiv.org/abs/2505.09590v1)|**2025-05-14**|null|
+|**2025-05-14**|**Distance-aware Self-adaptive Graph Convolution for Fine-grained Hierarchical Recommendation**|Tao Huang et.al.|[2505.09590v1](http://arxiv.org/abs/2505.09590v1)|**2025-05-14**|[link](https://github.com/coffeetau/sagcn)|
 |**2025-05-14**|**On-surface Synthesis of a Ferromagnetic Molecular Spin Trimer**|Alessio Vegliante et.al.|[2505.09587v1](http://arxiv.org/abs/2505.09587v1)|**2025-05-14**|null|
 |**2025-05-14**|**Rhomboid Tiling for Geometric Graph Deep Learning**|Yipeng Zhang et.al.|[2505.09586v1](http://arxiv.org/abs/2505.09586v1)|**2025-05-14**|null|
 |**2025-05-14**|**Valuative independence and cluster theta reciprocity**|Man-Wai Cheung et.al.|[2505.09585v1](http://arxiv.org/abs/2505.09585v1)|**2025-05-14**|null|
-|**2025-05-14**|**Beyond Likes: How Normative Feedback Complements Engagement Signals on Social Media**|Yuchen Wu et.al.|[2505.09583v1](http://arxiv.org/abs/2505.09583v1)|**2025-05-14**|null|
+|**2025-05-14**|**Beyond Likes: How Normative Feedback Complements Engagement Signals on Social Media**|Yuchen Wu et.al.|[2505.09583v2](http://arxiv.org/abs/2505.09583v2)|**2025-05-15**|null|
 |**2025-05-14**|**0.82 um 105 W diode-pumped thulium-doped all silica fiber laser**|Changshun Hou et.al.|[2505.09582v1](http://arxiv.org/abs/2505.09582v1)|**2025-05-14**|null|
 |**2025-05-14**|**Second-order invariant-domain preserving approximation to the multi-species Euler equations**|Bennett Clayton et.al.|[2505.09581v1](http://arxiv.org/abs/2505.09581v1)|**2025-05-14**|null|
 |**2025-05-14**|**Phase Diagram Magnetic Features of Holographic Anisotropic Model for $z^4$-term Heavy Quarks**|Kristina Rannu et.al.|[2505.09580v1](http://arxiv.org/abs/2505.09580v1)|**2025-05-14**|null|

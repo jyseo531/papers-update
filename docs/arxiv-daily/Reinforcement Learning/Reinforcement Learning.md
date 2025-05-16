@@ -27,7 +27,7 @@
 |**2025-05-13**|**Generalization in Monitored Markov Decision Processes (Mon-MDPs)**|Montaser Mohammedalamen et.al.|[2505.08988v1](http://arxiv.org/abs/2505.08988v1)|**2025-05-13**|null|
 |**2025-05-13**|**Adaptive Entanglement Generation for Quantum Routing**|Tasdiqul Islam et.al.|[2505.08958v1](http://arxiv.org/abs/2505.08958v1)|**2025-05-13**|null|
 |**2025-05-13**|**Deep reinforcement learning-based longitudinal control strategy for automated vehicles at signalised intersections**|Pankaj Kumar et.al.|[2505.08896v1](http://arxiv.org/abs/2505.08896v1)|**2025-05-13**|null|
-|**2025-05-13**|**Generative Molecular Design with Steerable and Granular Synthesizability Control**|Jeff Guo et.al.|[2505.08774v1](http://arxiv.org/abs/2505.08774v1)|**2025-05-13**|null|
+|**2025-05-13**|**Generative Molecular Design with Steerable and Granular Synthesizability Control**|Jeff Guo et.al.|[2505.08774v1](http://arxiv.org/abs/2505.08774v1)|**2025-05-13**|[link](https://github.com/schwallergroup/saturn)|
 |**2025-05-13**|**Preference Optimization for Combinatorial Optimization Problems**|Mingjun Pan et.al.|[2505.08735v1](http://arxiv.org/abs/2505.08735v1)|**2025-05-13**|null|
 |**2025-05-13**|**Improved Algorithms for Differentially Private Language Model Alignment**|Keyu Chen et.al.|[2505.08849v1](http://arxiv.org/abs/2505.08849v1)|**2025-05-13**|null|
 |**2025-05-13**|**A Reynolds-semi-robust H(div)-conforming method for unsteady incompressible non-Newtonian flows**|Lourenço Beirão da Veiga et.al.|[2505.08708v1](http://arxiv.org/abs/2505.08708v1)|**2025-05-13**|null|

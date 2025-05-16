@@ -20,7 +20,7 @@
 |**2025-05-14**|**Flash-VL 2B: Optimizing Vision-Language Model Performance for Ultra-Low Latency and High Throughput**|Bo Zhang et.al.|[2505.09498v1](http://arxiv.org/abs/2505.09498v1)|**2025-05-14**|null|
 |**2025-05-14**|**A direct imaging method for inverse scattering problem of biharmonic wave with phased and phaseless data**|Tielei Zhu et.al.|[2505.09495v1](http://arxiv.org/abs/2505.09495v1)|**2025-05-14**|null|
 |**2025-05-14**|**Anti-classification results for conjugacy of diffeomorphisms on manifolds**|Bo Peng et.al.|[2505.09491v1](http://arxiv.org/abs/2505.09491v1)|**2025-05-14**|null|
-|**2025-05-14**|**Production-ready double-side fabrication of dual-band infrared meta-optics using deep-UV lithography**|Kai Sun et.al.|[2505.09488v1](http://arxiv.org/abs/2505.09488v1)|**2025-05-14**|null|
+|**2025-05-14**|**Production-ready double-side fabrication of dual-band infrared meta-optics using deep-UV lithography**|Kai Sun et.al.|[2505.09488v2](http://arxiv.org/abs/2505.09488v2)|**2025-05-15**|null|
 |**2025-05-14**|**Fairness-aware Bayes optimal functional classification**|Xiaoyu Hu et.al.|[2505.09471v1](http://arxiv.org/abs/2505.09471v1)|**2025-05-14**|null|
 |**2025-05-14**|**A 2D Semantic-Aware Position Encoding for Vision Transformers**|Xi Chen et.al.|[2505.09466v1](http://arxiv.org/abs/2505.09466v1)|**2025-05-14**|null|
 |**2025-05-14**|**Vortex and fractional quantum Hall phases in a rotating anisotropic Bose gas**|Umut Tanyeri et.al.|[2505.09452v1](http://arxiv.org/abs/2505.09452v1)|**2025-05-14**|null|
