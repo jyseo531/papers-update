@@ -1500,6 +1500,7 @@ Updated on 2025-05-16
 | 7 | 2 | jasperai/LBM_normalsImage-to-Image | Updated8 days ago | [Link](https://huggingface.co/jasperai/LBM_normals) |
 | 14 | 2 | jasperai/LBM_depthImage-to-Image | Updated8 days ago | [Link](https://huggingface.co/jasperai/LBM_depth) |
 | 12 | 1 | Jorgvt/CycleGAN_GTA_REALImage-to-Image | UpdatedJul 11, 2024 | [Link](https://huggingface.co/Jorgvt/CycleGAN_GTA_REAL) |
+| 41 | 1 | Estabousi/MIPHEI-vitImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/Estabousi/MIPHEI-vit) |
 | 1.54M |  | stabilityai/stable-diffusion-xl-refiner-1 | UpdatedSep 25, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0) |
 | 76.7k |  | timbrooks/instruct-pix2pixImage-to-Image | UpdatedJul 5, 2023 | [Link](https://huggingface.co/timbrooks/instruct-pix2pix) |
 | 281k |  | lllyasviel/sd-controlnet-cannyImage-to-Image | UpdatedMay 1, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-canny) |
@@ -1630,6 +1631,7 @@ Updated on 2025-05-16
 | 3 | Unknown | qualcomm/EasyOCRImage-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/qualcomm/EasyOCR) |
 | 1 | Unknown | hsarfraz/google-paligemma-irs-form-1040-2023-parser-pg1Image-to-Text | UpdatedDec 31, 2024 | [Link](https://huggingface.co/hsarfraz/google-paligemma-irs-form-1040-2023-parser-pg1) |
 | 1 | Unknown | URIIT/mns-tesseractImage-to-Text | Updated3 days ago | [Link](https://huggingface.co/URIIT/mns-tesseract) |
+| 11 | Unknown | daniel3303/QwenStorytellerImage-to-Text | Updated42 minutes ago | [Link](https://huggingface.co/daniel3303/QwenStoryteller) |
 
 ## Image-to-Video
 
@@ -2041,6 +2043,8 @@ Updated on 2025-05-16
 | 6 | Unknown | AdapterHub/bert-base-uncased-pf-quorefQuestion | UpdatedNov 15, 2021 | [Link](https://huggingface.co/AdapterHub/bert-base-uncased-pf-quoref) |
 | 2 | Unknown | AdapterHub/bert-base-uncased-pf-squad_v2Question | UpdatedNov 15, 2021 | [Link](https://huggingface.co/AdapterHub/bert-base-uncased-pf-squad_v2) |
 | 113 | Unknown | AdapterHub/bert-base-uncased-pf-wikihopQuestion | UpdatedNov 15, 2021 | [Link](https://huggingface.co/AdapterHub/bert-base-uncased-pf-wikihop) |
+| Unknown | Unknown | Rustamshry/SmolLM2-360M-MedReasonQuestion | Updated1 day ago | [Link](https://huggingface.co/Rustamshry/SmolLM2-360M-MedReason) |
+| Unknown | Unknown | Rustamshry/Qwen3-0 | Updated41 minutes ago | [Link](https://huggingface.co/Rustamshry/Qwen3-0.6B-OpenMathReason) |
 
 ## Reinforcement Learning
 
@@ -2741,6 +2745,7 @@ Updated on 2025-05-16
 | 2 | Unknown | Omartificial-Intelligence-Space/SA-BERT-ClassifierText | Updated27 minutes ago | [Link](https://huggingface.co/Omartificial-Intelligence-Space/SA-BERT-Classifier) |
 | 61.8k |  | IDEA-CCNL/Erlangshen-Roberta-330M-SentimentText | UpdatedMay 26, 2023 | [Link](https://huggingface.co/IDEA-CCNL/Erlangshen-Roberta-330M-Sentiment) |
 | 34.2k |  | mrm8488/bert-tiny-finetuned-sms-spam-detectionText | UpdatedMar 16, 2023 | [Link](https://huggingface.co/mrm8488/bert-tiny-finetuned-sms-spam-detection) |
+| 39.1k |  | yiyanghkust/finbert-esgText | UpdatedOct 17, 2022 | [Link](https://huggingface.co/yiyanghkust/finbert-esg) |
 
 ## Text Generation
 
@@ -4448,6 +4453,7 @@ Updated on 2025-05-16
 | 24.4k | 2 | timm/vit_large_patch14_clip_336 | UpdatedDec 27, 2024 | [Link](https://huggingface.co/timm/vit_large_patch14_clip_336.openai) |
 | 146 | 2 | qihoo360/fg-clip-largeZero-Shot | Updatedabout 5 hours ago | [Link](https://huggingface.co/qihoo360/fg-clip-large) |
 | 119 | 2 | qihoo360/fg-clip-baseZero-Shot | Updatedabout 5 hours ago | [Link](https://huggingface.co/qihoo360/fg-clip-base) |
+| 5 | 1 | ProCreations/tinyvvisionZero-Shot | Updated1 day ago | [Link](https://huggingface.co/ProCreations/tinyvvision) |
 | 14.1M |  | openai/clip-vit-base-patch32Zero-Shot | UpdatedFeb 29, 2024 | [Link](https://huggingface.co/openai/clip-vit-base-patch32) |
 | 43M |  | openai/clip-vit-large-patch14Zero-Shot | UpdatedSep 15, 2023 | [Link](https://huggingface.co/openai/clip-vit-large-patch14) |
 | 6.33M |  | google/siglip-so400m-patch14-384Zero-Shot | UpdatedSep 26, 2024 | [Link](https://huggingface.co/google/siglip-so400m-patch14-384) |
