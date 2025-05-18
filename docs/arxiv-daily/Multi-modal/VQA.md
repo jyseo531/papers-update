@@ -13,7 +13,7 @@
 |**2025-05-15**|**Efficient Uncertainty Propagation in Bayesian Two-Step Procedures**|Svenja Jedhoff et.al.|[2505.10510v1](http://arxiv.org/abs/2505.10510v1)|**2025-05-15**|null|
 |**2025-05-15**|**Determinants of Steiner Distance Hypermatrices**|Joshua Cooper et.al.|[2505.10501v1](http://arxiv.org/abs/2505.10501v1)|**2025-05-15**|null|
 |**2025-05-15**|**Logos as a Well-Tempered Pre-train for Sign Language Recognition**|Ilya Ovodov et.al.|[2505.10481v1](http://arxiv.org/abs/2505.10481v1)|**2025-05-15**|null|
-|**2025-05-15**|**Parallel Scaling Law for Language Models**|Mouxiang Chen et.al.|[2505.10475v1](http://arxiv.org/abs/2505.10475v1)|**2025-05-15**|null|
+|**2025-05-15**|**Parallel Scaling Law for Language Models**|Mouxiang Chen et.al.|[2505.10475v1](http://arxiv.org/abs/2505.10475v1)|**2025-05-15**|[link](https://github.com/qwenlm/parscale)|
 |**2025-05-15**|**FlowVAT: Normalizing Flow Variational Inference with Affine-Invariant Tempering**|Juehang Qin et.al.|[2505.10466v1](http://arxiv.org/abs/2505.10466v1)|**2025-05-15**|null|
 |**2025-05-15**|**Vision language models have difficulty recognizing virtual objects**|Tyler Tran et.al.|[2505.10453v1](http://arxiv.org/abs/2505.10453v1)|**2025-05-15**|null|
 |**2025-05-15**|**Efficient MCMC Sampling with Expensive-to-Compute and Irregular Likelihoods**|Conor Rosato et.al.|[2505.10448v1](http://arxiv.org/abs/2505.10448v1)|**2025-05-15**|null|

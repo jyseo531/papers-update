@@ -5,7 +5,7 @@
 |**2025-05-15**|**MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning**|Ke Wang et.al.|[2505.10557v1](http://arxiv.org/abs/2505.10557v1)|**2025-05-15**|[link](https://github.com/mathllm/mathcoder)|
 |**2025-05-15**|**Real-Time Out-of-Distribution Failure Prevention via Multi-Modal Reasoning**|Milan Ganai et.al.|[2505.10547v1](http://arxiv.org/abs/2505.10547v1)|**2025-05-15**|null|
 |**2025-05-15**|**Exploring Implicit Visual Misunderstandings in Multimodal Large Language Models through Attention Analysis**|Pengfei Wang et.al.|[2505.10541v1](http://arxiv.org/abs/2505.10541v1)|**2025-05-15**|[link](https://github.com/welldonepf/stme)|
-|**2025-05-15**|**PnPXAI: A Universal XAI Framework Providing Automatic Explanations Across Diverse Modalities and Models**|Seongun Kim et.al.|[2505.10515v1](http://arxiv.org/abs/2505.10515v1)|**2025-05-15**|null|
+|**2025-05-15**|**PnPXAI: A Universal XAI Framework Providing Automatic Explanations Across Diverse Modalities and Models**|Seongun Kim et.al.|[2505.10515v1](http://arxiv.org/abs/2505.10515v1)|**2025-05-15**|[link](https://github.com/openxaiproject/pnpxai)|
 |**2025-05-15**|**Optimal Pricing With Impatient Customers**|Jieqi Di et.al.|[2505.10514v1](http://arxiv.org/abs/2505.10514v1)|**2025-05-15**|null|
 |**2025-05-15**|**Learning Nonlinear Dynamics in Physical Modelling Synthesis using Neural Ordinary Differential Equations**|Victor Zheleznov et.al.|[2505.10511v1](http://arxiv.org/abs/2505.10511v1)|**2025-05-15**|[link](https://github.com/victorzheleznov/dafx25)|
 |**2025-05-15**|**RouteNator: A Router-Based Multi-Modal Architecture for Generating Synthetic Training Data for Function Calling LLMs**|Vibha Belavadi et.al.|[2505.10495v1](http://arxiv.org/abs/2505.10495v1)|**2025-05-15**|null|
@@ -23,7 +23,7 @@
 |**2025-05-15**|**Accelerated snapping of slender beams under lateral forcing**|Colin M. Meulblok et.al.|[2505.10091v1](http://arxiv.org/abs/2505.10091v1)|**2025-05-15**|null|
 |**2025-05-15**|**MMRL++: Parameter-Efficient and Interaction-Aware Representation Learning for Vision-Language Models**|Yuncheng Guo et.al.|[2505.10088v1](http://arxiv.org/abs/2505.10088v1)|**2025-05-15**|[link](https://github.com/yunncheng/MMRL)|
 |**2025-05-15**|**ChronoSteer: Bridging Large Language Model and Time Series Foundation Model via Synthetic Data**|Chengsen Wang et.al.|[2505.10083v1](http://arxiv.org/abs/2505.10083v1)|**2025-05-15**|null|
-|**2025-05-15**|**Exploring the Deep Fusion of Large Language Models and Diffusion Transformers for Text-to-Image Synthesis**|Bingda Tang et.al.|[2505.10046v1](http://arxiv.org/abs/2505.10046v1)|**2025-05-15**|null|
+|**2025-05-15**|**Exploring the Deep Fusion of Large Language Models and Diffusion Transformers for Text-to-Image Synthesis**|Bingda Tang et.al.|[2505.10046v1](http://arxiv.org/abs/2505.10046v1)|**2025-05-15**|[link](https://github.com/tang-bd/fuse-dit)|
 |**2025-05-15**|**The First MPDD Challenge: Multimodal Personality-aware Depression Detection**|Changzeng Fu et.al.|[2505.10034v1](http://arxiv.org/abs/2505.10034v1)|**2025-05-15**|null|
 |**2025-05-15**|**ImagineBench: Evaluating Reinforcement Learning with Large Language Model Rollouts**|Jing-Cheng Pang et.al.|[2505.10010v1](http://arxiv.org/abs/2505.10010v1)|**2025-05-15**|[link](https://github.com/lamda-rl/imaginebench)|
 |**2025-05-15**|**SVA-ICL: Improving LLM-based Software Vulnerability Assessment via In-Context Learning and Information Fusion**|Chaoyang Gao et.al.|[2505.10008v1](http://arxiv.org/abs/2505.10008v1)|**2025-05-15**|null|

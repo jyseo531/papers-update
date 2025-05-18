@@ -17,7 +17,7 @@
 |**2025-05-15**|**Data-Agnostic Augmentations for Unknown Variations: Out-of-Distribution Generalisation in MRI Segmentation**|Puru Vaish et.al.|[2505.10223v1](http://arxiv.org/abs/2505.10223v1)|**2025-05-15**|[link](https://github.com/miagrouput/augmentations-for-the-unknown)|
 |**2025-05-15**|**VolE: A Point-cloud Framework for Food 3D Reconstruction and Volume Estimation**|Umair Haroon et.al.|[2505.10205v1](http://arxiv.org/abs/2505.10205v1)|**2025-05-15**|null|
 |**2025-05-15**|**Defect Detection in Photolithographic Patterns Using Deep Learning Models Trained on Synthetic Data**|Prashant P. Shinde et.al.|[2505.10192v1](http://arxiv.org/abs/2505.10192v1)|**2025-05-15**|null|
-|**2025-05-15**|**Extreme Synchronization Transitions**|Seungjae Lee et.al.|[2505.10114v1](http://arxiv.org/abs/2505.10114v1)|**2025-05-15**|null|
+|**2025-05-15**|**Extreme Synchronization Transitions**|Seungjae Lee et.al.|[2505.10114v1](http://arxiv.org/abs/2505.10114v1)|**2025-05-15**|[link](https://github.com/networksync/extremsynctrans)|
 |**2025-05-15**|**A Scalable Gradient-Based Optimization Framework for Sparse Minimum-Variance Portfolio Selection**|Sarat Moka et.al.|[2505.10099v1](http://arxiv.org/abs/2505.10099v1)|**2025-05-15**|[link](https://github.com/saratmoka/grid-fw)|
 |**2025-05-15**|**MMRL++: Parameter-Efficient and Interaction-Aware Representation Learning for Vision-Language Models**|Yuncheng Guo et.al.|[2505.10088v1](http://arxiv.org/abs/2505.10088v1)|**2025-05-15**|[link](https://github.com/yunncheng/MMRL)|
 |**2025-05-15**|**Price of Anarchy for Congestion and Scheduling Games via Vector Fitting**|Danish Kashaev et.al.|[2505.10082v1](http://arxiv.org/abs/2505.10082v1)|**2025-05-15**|null|
@@ -25,7 +25,7 @@
 |**2025-05-15**|**Test of LGAD as Potential Next-Generation μSR Spectrometer Detectors**|Yuhang Guo et.al.|[2505.10052v1](http://arxiv.org/abs/2505.10052v1)|**2025-05-15**|null|
 |**2025-05-15**|**Instance-Prototype Affinity Learning for Non-Exemplar Continual Graph Learning**|Lei Song et.al.|[2505.10040v1](http://arxiv.org/abs/2505.10040v1)|**2025-05-15**|null|
 |**2025-05-15**|**GBM Returns the Best Prediction Performance among Regression Approaches: A Case Study of Stack Overflow Code Quality**|Sherlock A. Licorish et.al.|[2505.10019v1](http://arxiv.org/abs/2505.10019v1)|**2025-05-15**|null|
-|**2025-05-15**|**Topology-driven identification of repetitions in multi-variate time series**|Simon Schindler et.al.|[2505.10004v1](http://arxiv.org/abs/2505.10004v1)|**2025-05-15**|null|
+|**2025-05-15**|**Topology-driven identification of repetitions in multi-variate time series**|Simon Schindler et.al.|[2505.10004v1](http://arxiv.org/abs/2505.10004v1)|**2025-05-15**|[link](https://github.com/JRC-ISIA/paper-2025-idsc-topology-driven-identification-of-repetitions-in-multi-variate-time-series)|
 |**2025-05-15**|**APCoTTA: Continual Test-Time Adaptation for Semantic Segmentation of Airborne LiDAR Point Clouds**|Yuan Gao et.al.|[2505.09971v1](http://arxiv.org/abs/2505.09971v1)|**2025-05-15**|[link](https://github.com/gaoyuan2/apcotta)|
 |**2025-05-15**|**DDFP: Data-dependent Frequency Prompt for Source Free Domain Adaptation of Medical Image Segmentation**|Siqi Yin et.al.|[2505.09927v1](http://arxiv.org/abs/2505.09927v1)|**2025-05-15**|[link](https://github.com/YYinn/SFDA-DDFP)|
 |**2025-05-14**|**BoundarySeg:An Embarrassingly Simple Method To Boost Medical Image Segmentation Performance for Low Data Regimes**|Tushar Kataria et.al.|[2505.09829v1](http://arxiv.org/abs/2505.09829v1)|**2025-05-14**|null|
