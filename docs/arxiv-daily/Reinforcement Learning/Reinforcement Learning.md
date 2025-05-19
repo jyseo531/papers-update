@@ -2,33 +2,33 @@
 ### Reinforcement Learning
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-15**|**Beyond 'Aha!': Toward Systematic Meta-Abilities Alignment in Large Reasoning Models**|Zhiyuan Hu et.al.|[2505.10554v1](http://arxiv.org/abs/2505.10554v1)|**2025-05-15**|[link](https://github.com/zhiyuanhubj/meta-ability-alignment)|
-|**2025-05-15**|**Knowledge capture, adaptation and composition (KCAC): A framework for cross-task curriculum learning in robotic manipulation**|Xinrui Wang et.al.|[2505.10522v1](http://arxiv.org/abs/2505.10522v1)|**2025-05-15**|null|
-|**2025-05-15**|**Fixing Incomplete Value Function Decomposition for Multi-Agent Reinforcement Learning**|Andrea Baisero et.al.|[2505.10484v1](http://arxiv.org/abs/2505.10484v1)|**2025-05-15**|null|
-|**2025-05-15**|**Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps**|Ningyuan Yang et.al.|[2505.10482v1](http://arxiv.org/abs/2505.10482v1)|**2025-05-15**|null|
-|**2025-05-15**|**Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models**|Zemin Huang et.al.|[2505.10446v1](http://arxiv.org/abs/2505.10446v1)|**2025-05-15**|null|
-|**2025-05-15**|**IN-RIL: Interleaved Reinforcement and Imitation Learning for Policy Fine-Tuning**|Dechen Gao et.al.|[2505.10442v1](http://arxiv.org/abs/2505.10442v1)|**2025-05-15**|null|
-|**2025-05-15**|**Learning to Think: Information-Theoretic Reinforcement Fine-Tuning for LLMs**|Jingyao Wang et.al.|[2505.10425v1](http://arxiv.org/abs/2505.10425v1)|**2025-05-15**|null|
-|**2025-05-15**|**Decomposed Inductive Procedure Learning: Learning Academic Tasks with Human-Like Data Efficiency**|Daniel Weitekamp et.al.|[2505.10422v1](http://arxiv.org/abs/2505.10422v1)|**2025-05-15**|null|
-|**2025-05-15**|**Uncovering Magnetic Phases with Synthetic Data and Physics-Informed Training**|Agustin Medina et.al.|[2505.10393v1](http://arxiv.org/abs/2505.10393v1)|**2025-05-15**|null|
-|**2025-05-15**|**Efficient Adaptation of Reinforcement Learning Agents to Sudden Environmental Change**|Jonathan Clifford Balloch et.al.|[2505.10330v1](http://arxiv.org/abs/2505.10330v1)|**2025-05-15**|null|
-|**2025-05-15**|**J1: Incentivizing Thinking in LLM-as-a-Judge via Reinforcement Learning**|Chenxi Whitehouse et.al.|[2505.10320v1](http://arxiv.org/abs/2505.10320v1)|**2025-05-15**|null|
-|**2025-05-15**|**Optimizing Electric Bus Charging Scheduling with Uncertainties Using Hierarchical Deep Reinforcement Learning**|Jiaju Qi et.al.|[2505.10296v1](http://arxiv.org/abs/2505.10296v1)|**2025-05-15**|null|
-|**2025-05-15**|**Electric Bus Charging Schedules Relying on Real Data-Driven Targets Based on Hierarchical Deep Reinforcement Learning**|Jiaju Qi et.al.|[2505.10262v1](http://arxiv.org/abs/2505.10262v1)|**2025-05-15**|null|
-|**2025-05-15**|**RAIDEN-R1: Improving Role-awareness of LLMs via GRPO with Verifiable Reward**|Zongsheng Wang et.al.|[2505.10218v1](http://arxiv.org/abs/2505.10218v1)|**2025-05-15**|null|
-|**2025-05-15**|**Analyzing atomic oxygen product evolution in Micro Cavity Plasma Arrays by a combination of a Multi-PMT OES Setup and a 0-D Chemical Model**|Henrik van Impel et.al.|[2505.10200v1](http://arxiv.org/abs/2505.10200v1)|**2025-05-15**|null|
-|**2025-05-15**|**Mining Hidden Thoughts from Texts: Evaluating Continual Pretraining with Synthetic Data for LLM Reasoning**|Yoichi Ishibashi et.al.|[2505.10182v1](http://arxiv.org/abs/2505.10182v1)|**2025-05-15**|null|
-|**2025-05-15**|**Training People to Reward Robots**|Endong Sun et.al.|[2505.10151v1](http://arxiv.org/abs/2505.10151v1)|**2025-05-15**|null|
-|**2025-05-15**|**Exploring Large Quantities of Secondary Data from High-Resolution Synchrotron X-ray Computed Tomography Scans Using AccuStripes**|Anja Heim et.al.|[2505.10098v1](http://arxiv.org/abs/2505.10098v1)|**2025-05-15**|null|
-|**2025-05-15**|**Evaluating Robustness of Deep Reinforcement Learning for Autonomous Surface Vehicle Control in Field Tests**|Luis F. W. Batista et.al.|[2505.10033v1](http://arxiv.org/abs/2505.10033v1)|**2025-05-15**|[link](https://github.com/luisfelipewb/RL4WasteCapture)|
-|**2025-05-15**|**ORL-LDM: Offline Reinforcement Learning Guided Latent Diffusion Model Super-Resolution Reconstruction**|Shijie Lyu et.al.|[2505.10027v1](http://arxiv.org/abs/2505.10027v1)|**2025-05-15**|null|
-|**2025-05-15**|**APEX: Action Priors Enable Efficient Exploration for Skill Imitation on Articulated Robots**|Shivam Sood et.al.|[2505.10022v1](http://arxiv.org/abs/2505.10022v1)|**2025-05-15**|null|
-|**2025-05-15**|**ImagineBench: Evaluating Reinforcement Learning with Large Language Model Rollouts**|Jing-Cheng Pang et.al.|[2505.10010v1](http://arxiv.org/abs/2505.10010v1)|**2025-05-15**|[link](https://github.com/lamda-rl/imaginebench)|
-|**2025-05-15**|**Sample Complexity of Distributionally Robust Average-Reward Reinforcement Learning**|Zijun Chen et.al.|[2505.10007v1](http://arxiv.org/abs/2505.10007v1)|**2025-05-15**|null|
-|**2025-05-15**|**Approximated Behavioral Metric-based State Projection for Federated Reinforcement Learning**|Zengxia Guo et.al.|[2505.09959v1](http://arxiv.org/abs/2505.09959v1)|**2025-05-15**|null|
-|**2025-05-15**|**Reinforced Interactive Continual Learning via Real-time Noisy Human Feedback**|Yutao Yang et.al.|[2505.09925v1](http://arxiv.org/abs/2505.09925v1)|**2025-05-15**|null|
-|**2025-05-15**|**Offline Reinforcement Learning for Microgrid Voltage Regulation**|Shan Yang et.al.|[2505.09920v1](http://arxiv.org/abs/2505.09920v1)|**2025-05-15**|null|
-|**2025-05-15**|**Promise of Data-Driven Modeling and Decision Support for Precision Oncology and Theranostics**|Binesh Sadanandan et.al.|[2505.09899v1](http://arxiv.org/abs/2505.09899v1)|**2025-05-15**|null|
-|**2025-05-14**|**Adversarial Attack on Large Language Models using Exponentiated Gradient Descent**|Sajib Biswas et.al.|[2505.09820v1](http://arxiv.org/abs/2505.09820v1)|**2025-05-14**|[link](https://github.com/sbamit/exponentiated-gradient-descent-llm-attack)|
-|**2025-05-14**|**Community-based Multi-Agent Reinforcement Learning with Transfer and Active Exploration**|Zhaoyang Shi et.al.|[2505.09756v1](http://arxiv.org/abs/2505.09756v1)|**2025-05-14**|null|
-|**2025-05-14**|**Risk-Aware Safe Reinforcement Learning for Control of Stochastic Linear Systems**|Babak Esmaeili et.al.|[2505.09734v1](http://arxiv.org/abs/2505.09734v1)|**2025-05-14**|null|
+|**2025-05-16**|**SHIELD: Safety on Humanoids via CBFs In Expectation on Learned Dynamics**|Lizhi Yang et.al.|[2505.11494v1](http://arxiv.org/abs/2505.11494v1)|**2025-05-16**|null|
+|**2025-05-16**|**Improving Assembly Code Performance with Large Language Models via Reinforcement Learning**|Anjiang Wei et.al.|[2505.11480v1](http://arxiv.org/abs/2505.11480v1)|**2025-05-16**|null|
+|**2025-05-16**|**Automatic Reward Shaping from Confounded Offline Data**|Mingxuan Li et.al.|[2505.11478v1](http://arxiv.org/abs/2505.11478v1)|**2025-05-16**|null|
+|**2025-05-16**|**HelpSteer3-Preference: Open Human-Annotated Preference Data across Diverse Tasks and Languages**|Zhilin Wang et.al.|[2505.11475v1](http://arxiv.org/abs/2505.11475v1)|**2025-05-16**|null|
+|**2025-05-16**|**The Dilemma Between Euphoria and Freedom in Recommendation Algorithms**|James Brusseau et.al.|[2505.11465v1](http://arxiv.org/abs/2505.11465v1)|**2025-05-16**|null|
+|**2025-05-16**|**Solving Large-Scale QUBO with Transferred Parameters from Multilevel QAOA of low depth**|Bao G Bach et.al.|[2505.11464v1](http://arxiv.org/abs/2505.11464v1)|**2025-05-16**|null|
+|**2025-05-16**|**Disentangling Reasoning and Knowledge in Medical Large Language Models**|Rahul Thapa et.al.|[2505.11462v1](http://arxiv.org/abs/2505.11462v1)|**2025-05-16**|null|
+|**2025-05-16**|**Signal attenuation enables scalable decentralized multi-agent reinforcement learning over networks**|Wesley A Suttle et.al.|[2505.11461v1](http://arxiv.org/abs/2505.11461v1)|**2025-05-16**|null|
+|**2025-05-16**|**Visual Planning: Let's Think Only with Images**|Yi Xu et.al.|[2505.11409v1](http://arxiv.org/abs/2505.11409v1)|**2025-05-16**|null|
+|**2025-05-16**|**Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner**|Wenchuan Zhang et.al.|[2505.11404v1](http://arxiv.org/abs/2505.11404v1)|**2025-05-16**|null|
+|**2025-05-16**|**IISE PG&E Energy Analytics Challenge 2025: Hourly-Binned Regression Models Beat Transformers in Load Forecasting**|Millend Roy et.al.|[2505.11390v1](http://arxiv.org/abs/2505.11390v1)|**2025-05-16**|null|
+|**2025-05-16**|**Learning Multimodal AI Algorithms for Amplifying Limited User Input into High-dimensional Control Space**|Ali Rabiee et.al.|[2505.11366v1](http://arxiv.org/abs/2505.11366v1)|**2025-05-16**|null|
+|**2025-05-16**|**Explaining Strategic Decisions in Multi-Agent Reinforcement Learning for Aerial Combat Tactics**|Ardian Selmonaj et.al.|[2505.11311v1](http://arxiv.org/abs/2505.11311v1)|**2025-05-16**|null|
+|**2025-05-16**|**Reinforcement Learning Closures for Underresolved Partial Differential Equations using Synthetic Data**|Lothar Heimbach et.al.|[2505.11308v1](http://arxiv.org/abs/2505.11308v1)|**2025-05-16**|null|
+|**2025-05-16**|**Meta-World+: An Improved, Standardized, RL Benchmark**|Reginald McLean et.al.|[2505.11289v1](http://arxiv.org/abs/2505.11289v1)|**2025-05-16**|null|
+|**2025-05-16**|**Search and Refine During Think: Autonomous Retrieval-Augmented Reasoning of LLMs**|Yaorui Shi et.al.|[2505.11277v1](http://arxiv.org/abs/2505.11277v1)|**2025-05-16**|null|
+|**2025-05-16**|**SelfBudgeter: Adaptive Token Allocation for Efficient LLM Reasoning**|Zheng Li et.al.|[2505.11274v1](http://arxiv.org/abs/2505.11274v1)|**2025-05-16**|null|
+|**2025-05-16**|**Equal is Not Always Fair: A New Perspective on Hyperspectral Representation Non-Uniformity**|Wuzhou Quan et.al.|[2505.11267v1](http://arxiv.org/abs/2505.11267v1)|**2025-05-16**|null|
+|**2025-05-16**|**Is PRM Necessary? Problem-Solving RL Implicitly Induces PRM Capability in LLMs**|Zhangying Feng et.al.|[2505.11227v1](http://arxiv.org/abs/2505.11227v1)|**2025-05-16**|null|
+|**2025-05-16**|**Sample Efficient Reinforcement Learning via Large Vision Language Model Distillation**|Donghoon Lee et.al.|[2505.11221v1](http://arxiv.org/abs/2505.11221v1)|**2025-05-16**|null|
+|**2025-05-16**|**GLOVA: Global and Local Variation-Aware Analog Circuit Design with Risk-Sensitive Reinforcement Learning**|Dongjun Kim et.al.|[2505.11208v1](http://arxiv.org/abs/2505.11208v1)|**2025-05-16**|null|
+|**2025-05-16**|**Parkour in the Wild: Learning a General and Extensible Agile Locomotion Policy Using Multi-expert Distillation and RL Fine-tuning**|Nikita Rudin et.al.|[2505.11164v1](http://arxiv.org/abs/2505.11164v1)|**2025-05-16**|null|
+|**2025-05-16**|**Bi-directional Recurrence Improves Transformer in Partially Observable Markov Decision Processes**|Ashok Arora et.al.|[2505.11153v1](http://arxiv.org/abs/2505.11153v1)|**2025-05-16**|null|
+|**2025-05-16**|**Reinforcement Learning for AMR Charging Decisions: The Impact of Reward and Action Space Design**|Janik Bischoff et.al.|[2505.11136v1](http://arxiv.org/abs/2505.11136v1)|**2025-05-16**|null|
+|**2025-05-16**|**Scalability of Reinforcement Learning Methods for Dispatching in Semiconductor Frontend Fabs: A Comparison of Open-Source Models with Real Industry Datasets**|Patrick Stöckermann et.al.|[2505.11135v1](http://arxiv.org/abs/2505.11135v1)|**2025-05-16**|null|
+|**2025-05-16**|**Navigating the Alpha Jungle: An LLM-Powered MCTS Framework for Formulaic Factor Mining**|Yu Shi et.al.|[2505.11122v1](http://arxiv.org/abs/2505.11122v1)|**2025-05-16**|null|
+|**2025-05-16**|**Bidirectional Distillation: A Mixed-Play Framework for Multi-Agent Generalizable Behaviors**|Lang Feng et.al.|[2505.11100v1](http://arxiv.org/abs/2505.11100v1)|**2025-05-16**|null|
+|**2025-05-16**|**ShiQ: Bringing back Bellman to LLMs**|Pierre Clavier et.al.|[2505.11081v1](http://arxiv.org/abs/2505.11081v1)|**2025-05-16**|null|
+|**2025-05-16**|**Lifelong reinforcement learning for health-aware fast charging of lithium-ion batteries**|Meng Yuan et.al.|[2505.11061v1](http://arxiv.org/abs/2505.11061v1)|**2025-05-16**|null|
+|**2025-05-16**|**GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning**|Yue Liu et.al.|[2505.11049v1](http://arxiv.org/abs/2505.11049v1)|**2025-05-16**|null|

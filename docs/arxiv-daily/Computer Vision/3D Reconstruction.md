@@ -2,33 +2,33 @@
 ### 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-15**|**3D-Fixup: Advancing Photo Editing with 3D Priors**|Yen-Chi Cheng et.al.|[2505.10566v1](http://arxiv.org/abs/2505.10566v1)|**2025-05-15**|null|
-|**2025-05-15**|**Pharmacophore-Conditioned Diffusion Model for Ligand-Based De Novo Drug Design**|Amira Alakhdar et.al.|[2505.10545v1](http://arxiv.org/abs/2505.10545v1)|**2025-05-15**|null|
-|**2025-05-15**|**AGN star dynamics under the Influence of Outflow-Ambient Interactions**|Muxin Liu et.al.|[2505.10524v1](http://arxiv.org/abs/2505.10524v1)|**2025-05-15**|null|
-|**2025-05-15**|**Consistent Quantity-Quality Control across Scenes for Deployment-Aware Gaussian Splatting**|Fengdi Zhang et.al.|[2505.10473v1](http://arxiv.org/abs/2505.10473v1)|**2025-05-15**|null|
-|**2025-05-15**|**HWA-UNETR: Hierarchical Window Aggregate UNETR for 3D Multimodal Gastric Lesion Segmentation**|Jiaming Liang et.al.|[2505.10464v1](http://arxiv.org/abs/2505.10464v1)|**2025-05-15**|[link](https://github.com/jeming-creater/hwa-unetr)|
-|**2025-05-15**|**HandReader: Advanced Techniques for Efficient Fingerspelling Recognition**|Pavel Korotaev et.al.|[2505.10267v1](http://arxiv.org/abs/2505.10267v1)|**2025-05-15**|null|
-|**2025-05-15**|**ADHMR: Aligning Diffusion-based Human Mesh Recovery via Direct Preference Optimization**|Wenhao Shen et.al.|[2505.10250v1](http://arxiv.org/abs/2505.10250v1)|**2025-05-15**|[link](https://github.com/shenwenhao01/adhmr)|
-|**2025-05-15**|**MTVCrafter: 4D Motion Tokenization for Open-World Human Image Animation**|Yanbo Ding et.al.|[2505.10238v2](http://arxiv.org/abs/2505.10238v2)|**2025-05-16**|[link](https://github.com/dingyanb/mtvcrafter)|
-|**2025-05-15**|**UAV-Enabled Passive 6DMA for ISAC: Joint Location, Orientation, and Reflection Optimization**|Peilan Wang et.al.|[2505.10220v1](http://arxiv.org/abs/2505.10220v1)|**2025-05-15**|null|
-|**2025-05-15**|**UV-SERS monitoring of plasmons photodegradation of biomolecules on Aluminum platforms decorated with Rhodium nanoparticles**|Yanqiu Zou et.al.|[2505.10216v1](http://arxiv.org/abs/2505.10216v1)|**2025-05-15**|null|
-|**2025-05-15**|**VolE: A Point-cloud Framework for Food 3D Reconstruction and Volume Estimation**|Umair Haroon et.al.|[2505.10205v1](http://arxiv.org/abs/2505.10205v1)|**2025-05-15**|null|
-|**2025-05-15**|**Modeling droplet-particle interactions on solid surfaces by coupling the lattice Boltzmann and discrete element methods**|Abhinav Naga et.al.|[2505.10171v1](http://arxiv.org/abs/2505.10171v1)|**2025-05-15**|null|
-|**2025-05-15**|**VRSplat: Fast and Robust Gaussian Splatting for Virtual Reality**|Xuechang Tu et.al.|[2505.10144v1](http://arxiv.org/abs/2505.10144v1)|**2025-05-15**|[link](https://github.com/cekavis/vrsplat)|
-|**2025-05-15**|**IMITATE: Image Registration with Context for unknown time frame recovery**|Ziad Kheil et.al.|[2505.10124v1](http://arxiv.org/abs/2505.10124v1)|**2025-05-15**|[link](https://github.com/kheil-z/imitate)|
-|**2025-05-15**|**A label-free sub-diffractive technique for 3D intracellular tomography using thermally induced convection currents**|Jayesh Goswami et.al.|[2505.10112v1](http://arxiv.org/abs/2505.10112v1)|**2025-05-15**|null|
-|**2025-05-15**|**Data-driven discovery of the equations of turbulent convection**|Christopher J. Wareing et.al.|[2505.10109v1](http://arxiv.org/abs/2505.10109v1)|**2025-05-15**|null|
-|**2025-05-15**|**EmbodiedMAE: A Unified 3D Multi-Modal Representation for Robot Manipulation**|Zibin Dong et.al.|[2505.10105v1](http://arxiv.org/abs/2505.10105v1)|**2025-05-15**|null|
-|**2025-05-15**|**Longitudinal oscillations for eigenfunctions in rod like structures**|Pablo Benavent-Ocejo et.al.|[2505.10084v1](http://arxiv.org/abs/2505.10084v1)|**2025-05-15**|null|
-|**2025-05-15**|**FlowDreamer: A RGB-D World Model with Flow-based Motion Representations for Robot Manipulation**|Jun Guo et.al.|[2505.10075v1](http://arxiv.org/abs/2505.10075v1)|**2025-05-15**|null|
-|**2025-05-15**|**ToonifyGB: StyleGAN-based Gaussian Blendshapes for 3D Stylized Head Avatars**|Rui-Yang Ju et.al.|[2505.10072v1](http://arxiv.org/abs/2505.10072v1)|**2025-05-15**|null|
-|**2025-05-15**|**Advances in Radiance Field for Dynamic Scene: From Neural Field to Gaussian Field**|Jinlong Fan et.al.|[2505.10049v1](http://arxiv.org/abs/2505.10049v1)|**2025-05-15**|[link](https://github.com/moonflo/dynamic-radiation-field-paper-list)|
-|**2025-05-15**|**From Air to Wear: Personalized 3D Digital Fashion with AR/VR Immersive 3D Sketching**|Ying Zang et.al.|[2505.09998v1](http://arxiv.org/abs/2505.09998v1)|**2025-05-15**|null|
-|**2025-05-15**|**APCoTTA: Continual Test-Time Adaptation for Semantic Segmentation of Airborne LiDAR Point Clouds**|Yuan Gao et.al.|[2505.09971v1](http://arxiv.org/abs/2505.09971v1)|**2025-05-15**|[link](https://github.com/gaoyuan2/apcotta)|
-|**2025-05-15**|**Hyper Yoshimura: How a slight tweak on a classical folding pattern unleashes meta-stability for deployable robots**|Ziyang Zhou et.al.|[2505.09919v1](http://arxiv.org/abs/2505.09919v1)|**2025-05-15**|null|
-|**2025-05-15**|**Large-Scale Gaussian Splatting SLAM**|Zhe Xin et.al.|[2505.09915v1](http://arxiv.org/abs/2505.09915v1)|**2025-05-15**|null|
-|**2025-05-15**|**SnapNCode: An Integrated Development Environment for Programming Physical Objects Interactions**|Xiaoyan Wei et.al.|[2505.09882v1](http://arxiv.org/abs/2505.09882v1)|**2025-05-15**|null|
-|**2025-05-14**|**A Framework for Identifying Non-van der Waals 2D Materials**|Shota Ono et.al.|[2505.09853v1](http://arxiv.org/abs/2505.09853v1)|**2025-05-14**|null|
-|**2025-05-14**|**Visual Feedback of Pattern Separability Improves Myoelectric Decoding Performance of Upper Limb Prostheses**|Ruichen Yang et.al.|[2505.09819v2](http://arxiv.org/abs/2505.09819v2)|**2025-05-16**|null|
-|**2025-05-14**|**Uncertainty of magnetic field in 3D NLTE inversions**|Jiri Stepan et.al.|[2505.09708v2](http://arxiv.org/abs/2505.09708v2)|**2025-05-16**|null|
-|**2025-05-14**|**An ion treatment planning framework for inclusion of nanodosimetric ionization detail through cluster dose**|Simona Facchiano et.al.|[2505.09667v1](http://arxiv.org/abs/2505.09667v1)|**2025-05-14**|null|
+|**2025-05-16**|**Area and volume from entangled qubits**|Juan M. Romero et.al.|[2505.11487v1](http://arxiv.org/abs/2505.11487v1)|**2025-05-16**|null|
+|**2025-05-16**|**Global well-posedness for small data in a 3D temperature-velocity model with Dirichlet boundary noise**|Gianmarco Del Sarto et.al.|[2505.11447v1](http://arxiv.org/abs/2505.11447v1)|**2025-05-16**|null|
+|**2025-05-16**|**GOUHFI: a novel contrast- and resolution-agnostic segmentation tool for Ultra-High Field MRI**|Marc-Antoine Fortin et.al.|[2505.11445v1](http://arxiv.org/abs/2505.11445v1)|**2025-05-16**|[link](https://zenodo.org/record/15255556)|
+|**2025-05-16**|**From Fibers to Cells: Fourier-Based Registration Enables Virtual Cresyl Violet Staining From 3D Polarized Light Imaging**|Alexander Oberstrass et.al.|[2505.11394v1](http://arxiv.org/abs/2505.11394v1)|**2025-05-16**|null|
+|**2025-05-16**|**MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory**|Zifan Wang et.al.|[2505.11386v1](http://arxiv.org/abs/2505.11386v1)|**2025-05-16**|null|
+|**2025-05-16**|**Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation**|Zihan Wang et.al.|[2505.11383v1](http://arxiv.org/abs/2505.11383v1)|**2025-05-16**|null|
+|**2025-05-16**|**Learning Multimodal AI Algorithms for Amplifying Limited User Input into High-dimensional Control Space**|Ali Rabiee et.al.|[2505.11366v1](http://arxiv.org/abs/2505.11366v1)|**2025-05-16**|null|
+|**2025-05-16**|**Seeing Sound, Hearing Sight: Uncovering Modality Bias and Conflict of AI models in Sound Localization**|Yanhao Jia et.al.|[2505.11217v1](http://arxiv.org/abs/2505.11217v1)|**2025-05-16**|null|
+|**2025-05-16**|**Taylor dispersion of bubble swarms rising in quiescent liquid**|Guangyuan Huang et.al.|[2505.11202v1](http://arxiv.org/abs/2505.11202v1)|**2025-05-16**|null|
+|**2025-05-16**|**On the Magnetic Reconnection and its Properties during a Flare Using a Magnetohydrodynamics Simulation**|Sushree S Nayak et.al.|[2505.11186v1](http://arxiv.org/abs/2505.11186v1)|**2025-05-16**|null|
+|**2025-05-16**|**CompAlign: Improving Compositional Text-to-Image Generation with a Complex Benchmark and Fine-Grained Feedback**|Yixin Wan et.al.|[2505.11178v1](http://arxiv.org/abs/2505.11178v1)|**2025-05-16**|null|
+|**2025-05-16**|**Real-Time Verification of Embodied Reasoning for Generative Skill Acquisition**|Bo Yue et.al.|[2505.11175v1](http://arxiv.org/abs/2505.11175v1)|**2025-05-16**|null|
+|**2025-05-16**|**Parkour in the Wild: Learning a General and Extensible Agile Locomotion Policy Using Multi-expert Distillation and RL Fine-tuning**|Nikita Rudin et.al.|[2505.11164v1](http://arxiv.org/abs/2505.11164v1)|**2025-05-16**|null|
+|**2025-05-16**|**Open-Source Multi-Viewpoint Surgical Telerobotics**|Guido Caccianiga et.al.|[2505.11142v1](http://arxiv.org/abs/2505.11142v1)|**2025-05-16**|null|
+|**2025-05-16**|**Dependence of the intensity of the nonwave component of EUV waves on coronal magnetic field configuration**|Yuwei Li et.al.|[2505.11115v1](http://arxiv.org/abs/2505.11115v1)|**2025-05-16**|null|
+|**2025-05-16**|**Determining the utility of ultrafast nonlinear contrast enhanced and super resolution ultrasound for imaging microcirculation in the human small intestine**|Clotilde Vié et.al.|[2505.11096v1](http://arxiv.org/abs/2505.11096v1)|**2025-05-16**|null|
+|**2025-05-16**|**Evolutionary training-free guidance in diffusion model for 3D multi-objective molecular generation**|Ruiqing Sun et.al.|[2505.11037v1](http://arxiv.org/abs/2505.11037v1)|**2025-05-16**|null|
+|**2025-05-16**|**DexGarmentLab: Dexterous Garment Manipulation Environment with Generalizable Policy**|Yuran Wang et.al.|[2505.11032v1](http://arxiv.org/abs/2505.11032v1)|**2025-05-16**|null|
+|**2025-05-16**|**Towards Robust and Controllable Text-to-Motion via Masked Autoregressive Diffusion**|Zongye Zhang et.al.|[2505.11013v1](http://arxiv.org/abs/2505.11013v1)|**2025-05-16**|null|
+|**2025-05-16**|**Space Group Equivariant Crystal Diffusion**|Rees Chang et.al.|[2505.10994v1](http://arxiv.org/abs/2505.10994v1)|**2025-05-16**|null|
+|**2025-05-16**|**Time-resolved electron dynamics in antiferromagnetic CoO(001) thin films**|Mathias Augstein et.al.|[2505.10990v1](http://arxiv.org/abs/2505.10990v1)|**2025-05-16**|null|
+|**2025-05-16**|**GrowSplat: Constructing Temporal Digital Twins of Plants with Gaussian Splats**|Simeon Adebola et.al.|[2505.10923v1](http://arxiv.org/abs/2505.10923v1)|**2025-05-16**|null|
+|**2025-05-16**|**Unleashing Humanoid Reaching Potential via Real-world-Ready Skill Space**|Zhikai Zhang et.al.|[2505.10918v1](http://arxiv.org/abs/2505.10918v1)|**2025-05-16**|null|
+|**2025-05-16**|**Near field transmission using Hermite-Gaussian modes**|Chenxi Zhu et.al.|[2505.10914v1](http://arxiv.org/abs/2505.10914v1)|**2025-05-16**|null|
+|**2025-05-16**|**Patient-Specific Dynamic Digital-Physical Twin for Coronary Intervention Training: An Integrated Mixed Reality Approach**|Shuo Wang et.al.|[2505.10902v1](http://arxiv.org/abs/2505.10902v1)|**2025-05-16**|null|
+|**2025-05-16**|**PoseBench3D: A Cross-Dataset Analysis Framework for 3D Human Pose Estimation**|Saad Manzur et.al.|[2505.10888v1](http://arxiv.org/abs/2505.10888v1)|**2025-05-16**|null|
+|**2025-05-16**|**Quantum Lattice Kinetic Scheme for Solving Two-dimensional and Three-dimensional Incompressible Flows**|Yang Xiao et.al.|[2505.10883v1](http://arxiv.org/abs/2505.10883v1)|**2025-05-16**|null|
+|**2025-05-16**|**Robust 2D lidar-based SLAM in arboreal environments without IMU/GNSS**|Paola Nazate-Burgos et.al.|[2505.10847v1](http://arxiv.org/abs/2505.10847v1)|**2025-05-16**|null|
+|**2025-05-16**|**Textured mesh Quality Assessment using Geometry and Color Field Similarity**|Kaifa Yang et.al.|[2505.10824v1](http://arxiv.org/abs/2505.10824v1)|**2025-05-16**|null|
+|**2025-05-16**|**EA-3DGS: Efficient and Adaptive 3D Gaussians with Highly Enhanced Quality for outdoor scenes**|Jianlin Guo et.al.|[2505.10787v1](http://arxiv.org/abs/2505.10787v1)|**2025-05-16**|null|

@@ -2,6 +2,10 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-16**|**Sample Efficient Reinforcement Learning via Large Vision Language Model Distillation**|Donghoon Lee et.al.|[2505.11221v1](http://arxiv.org/abs/2505.11221v1)|**2025-05-16**|null|
+|**2025-05-16**|**User-centric Music Recommendations**|Jaime Ramirez Castillo et.al.|[2505.11198v1](http://arxiv.org/abs/2505.11198v1)|**2025-05-16**|null|
+|**2025-05-16**|**Deepfake Forensic Analysis: Source Dataset Attribution and Legal Implications of Synthetic Media Manipulation**|Massimiliano Cassia et.al.|[2505.11110v1](http://arxiv.org/abs/2505.11110v1)|**2025-05-16**|null|
+|**2025-05-16**|**Manifold dynamics and orbital properties in a two-dimensional galactic model**|Dylan Theron et.al.|[2505.10901v1](http://arxiv.org/abs/2505.10901v1)|**2025-05-16**|null|
 |**2025-05-15**|**Quantized Approximate Signal Processing (QASP): Towards Homomorphic Encryption for audio**|Tu Duyen Nguyen et.al.|[2505.10500v1](http://arxiv.org/abs/2505.10500v1)|**2025-05-15**|null|
 |**2025-05-15**|**From Persistence to Resilience: New Betti Numbers for Analyzing Robustness in Simplicial Complex Networks**|Pablo Hernández-García et.al.|[2505.10467v1](http://arxiv.org/abs/2505.10467v1)|**2025-05-15**|null|
 |**2025-05-15**|**HandReader: Advanced Techniques for Efficient Fingerspelling Recognition**|Pavel Korotaev et.al.|[2505.10267v1](http://arxiv.org/abs/2505.10267v1)|**2025-05-15**|null|
@@ -28,7 +32,3 @@
 |**2025-05-06**|**Multi-modal cascade feature transfer for polymer property prediction**|Kiichi Obuchi et.al.|[2505.03704v2](http://arxiv.org/abs/2505.03704v2)|**2025-05-07**|null|
 |**2025-05-06**|**Matching Distance and Geometric Distribution Aided Learning Multiview Point Cloud Registration**|Shiqi Li et.al.|[2505.03692v1](http://arxiv.org/abs/2505.03692v1)|**2025-05-06**|[link](https://github.com/shi-qi-li/mdgd)|
 |**2025-05-06**|**Fixed-Length Dense Fingerprint Representation**|Zhiyu Pan et.al.|[2505.03597v1](http://arxiv.org/abs/2505.03597v1)|**2025-05-06**|[link](https://github.com/yu-yy/flare)|
-|**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422v1](http://arxiv.org/abs/2505.03422v1)|**2025-05-06**|[link](https://github.com/lyp-deeplearning/liftfeat)|
-|**2025-05-06**|**EOPose : Exemplar-based object reposing using Generalized Pose Correspondences**|Sarthak Mehrotra et.al.|[2505.03394v1](http://arxiv.org/abs/2505.03394v1)|**2025-05-06**|null|
-|**2025-05-06**|**Density of States Proportion on Charge Transfer Kinetics in Breathing Fermionic Systems of Molecules and Materials: A Perspective of Entropy-Ruled Method**|Karuppuchamy Navamani et.al.|[2505.03348v1](http://arxiv.org/abs/2505.03348v1)|**2025-05-06**|null|
-|**2025-05-05**|**Unsupervised training of keypoint-agnostic descriptors for flexible retinal image registration**|David Rivas-Villar et.al.|[2505.02787v1](http://arxiv.org/abs/2505.02787v1)|**2025-05-05**|null|

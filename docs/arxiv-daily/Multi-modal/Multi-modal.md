@@ -2,33 +2,33 @@
 ### Multi-modal
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-15**|**MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning**|Ke Wang et.al.|[2505.10557v1](http://arxiv.org/abs/2505.10557v1)|**2025-05-15**|[link](https://github.com/mathllm/mathcoder)|
-|**2025-05-15**|**Real-Time Out-of-Distribution Failure Prevention via Multi-Modal Reasoning**|Milan Ganai et.al.|[2505.10547v1](http://arxiv.org/abs/2505.10547v1)|**2025-05-15**|null|
-|**2025-05-15**|**Exploring Implicit Visual Misunderstandings in Multimodal Large Language Models through Attention Analysis**|Pengfei Wang et.al.|[2505.10541v1](http://arxiv.org/abs/2505.10541v1)|**2025-05-15**|[link](https://github.com/welldonepf/stme)|
-|**2025-05-15**|**PnPXAI: A Universal XAI Framework Providing Automatic Explanations Across Diverse Modalities and Models**|Seongun Kim et.al.|[2505.10515v1](http://arxiv.org/abs/2505.10515v1)|**2025-05-15**|[link](https://github.com/openxaiproject/pnpxai)|
-|**2025-05-15**|**Optimal Pricing With Impatient Customers**|Jieqi Di et.al.|[2505.10514v1](http://arxiv.org/abs/2505.10514v1)|**2025-05-15**|null|
-|**2025-05-15**|**Learning Nonlinear Dynamics in Physical Modelling Synthesis using Neural Ordinary Differential Equations**|Victor Zheleznov et.al.|[2505.10511v1](http://arxiv.org/abs/2505.10511v1)|**2025-05-15**|[link](https://github.com/victorzheleznov/dafx25)|
-|**2025-05-15**|**RouteNator: A Router-Based Multi-Modal Architecture for Generating Synthetic Training Data for Function Calling LLMs**|Vibha Belavadi et.al.|[2505.10495v1](http://arxiv.org/abs/2505.10495v1)|**2025-05-15**|null|
-|**2025-05-15**|**FlowVAT: Normalizing Flow Variational Inference with Affine-Invariant Tempering**|Juehang Qin et.al.|[2505.10466v1](http://arxiv.org/abs/2505.10466v1)|**2025-05-15**|null|
-|**2025-05-15**|**HWA-UNETR: Hierarchical Window Aggregate UNETR for 3D Multimodal Gastric Lesion Segmentation**|Jiaming Liang et.al.|[2505.10464v1](http://arxiv.org/abs/2505.10464v1)|**2025-05-15**|[link](https://github.com/jeming-creater/hwa-unetr)|
-|**2025-05-15**|**NVSPolicy: Adaptive Novel-View Synthesis for Generalizable Language-Conditioned Policy Learning**|Le Shi et.al.|[2505.10359v1](http://arxiv.org/abs/2505.10359v1)|**2025-05-15**|null|
-|**2025-05-15**|**Coherent Language Reconstruction from Brain Recordings with Flexible Multi-Modal Input Stimuli**|Chunyu Ye et.al.|[2505.10356v1](http://arxiv.org/abs/2505.10356v1)|**2025-05-15**|null|
-|**2025-05-15**|**An Introduction to Discrete Variational Autoencoders**|Alan Jeffares et.al.|[2505.10344v1](http://arxiv.org/abs/2505.10344v1)|**2025-05-15**|[link](https://github.com/alanjeffares/discretevae)|
-|**2025-05-15**|**MSCI: Addressing CLIP's Inherent Limitations for Compositional Zero-Shot Learning**|Yue Wang et.al.|[2505.10289v1](http://arxiv.org/abs/2505.10289v1)|**2025-05-15**|[link](https://github.com/ltpwy/msci)|
-|**2025-05-15**|**HandReader: Advanced Techniques for Efficient Fingerspelling Recognition**|Pavel Korotaev et.al.|[2505.10267v1](http://arxiv.org/abs/2505.10267v1)|**2025-05-15**|null|
-|**2025-05-15**|**SRT-H: A Hierarchical Framework for Autonomous Surgery via Language Conditioned Imitation Learning**|Ji Woong Kim et.al.|[2505.10251v1](http://arxiv.org/abs/2505.10251v1)|**2025-05-15**|null|
-|**2025-05-15**|**Context-aware collaborative pushing of heavy objects using skeleton-based intention prediction**|Gokhan Solak et.al.|[2505.10239v1](http://arxiv.org/abs/2505.10239v1)|**2025-05-15**|null|
-|**2025-05-15**|**Incorporating brain-inspired mechanisms for multimodal learning in artificial intelligence**|Xiang He et.al.|[2505.10176v1](http://arxiv.org/abs/2505.10176v1)|**2025-05-15**|[link](https://github.com/Brain-Cog-Lab/IEMF)|
-|**2025-05-15**|**EmbodiedMAE: A Unified 3D Multi-Modal Representation for Robot Manipulation**|Zibin Dong et.al.|[2505.10105v1](http://arxiv.org/abs/2505.10105v1)|**2025-05-15**|null|
-|**2025-05-15**|**Accelerated snapping of slender beams under lateral forcing**|Colin M. Meulblok et.al.|[2505.10091v1](http://arxiv.org/abs/2505.10091v1)|**2025-05-15**|null|
-|**2025-05-15**|**MMRL++: Parameter-Efficient and Interaction-Aware Representation Learning for Vision-Language Models**|Yuncheng Guo et.al.|[2505.10088v1](http://arxiv.org/abs/2505.10088v1)|**2025-05-15**|[link](https://github.com/yunncheng/MMRL)|
-|**2025-05-15**|**ChronoSteer: Bridging Large Language Model and Time Series Foundation Model via Synthetic Data**|Chengsen Wang et.al.|[2505.10083v1](http://arxiv.org/abs/2505.10083v1)|**2025-05-15**|null|
-|**2025-05-15**|**Exploring the Deep Fusion of Large Language Models and Diffusion Transformers for Text-to-Image Synthesis**|Bingda Tang et.al.|[2505.10046v1](http://arxiv.org/abs/2505.10046v1)|**2025-05-15**|[link](https://github.com/tang-bd/fuse-dit)|
-|**2025-05-15**|**The First MPDD Challenge: Multimodal Personality-aware Depression Detection**|Changzeng Fu et.al.|[2505.10034v1](http://arxiv.org/abs/2505.10034v1)|**2025-05-15**|null|
-|**2025-05-15**|**ImagineBench: Evaluating Reinforcement Learning with Large Language Model Rollouts**|Jing-Cheng Pang et.al.|[2505.10010v1](http://arxiv.org/abs/2505.10010v1)|**2025-05-15**|[link](https://github.com/lamda-rl/imaginebench)|
-|**2025-05-15**|**SVA-ICL: Improving LLM-based Software Vulnerability Assessment via In-Context Learning and Information Fusion**|Chaoyang Gao et.al.|[2505.10008v1](http://arxiv.org/abs/2505.10008v1)|**2025-05-15**|null|
-|**2025-05-15**|**AI2MMUM: AI-AI Oriented Multi-Modal Universal Model Leveraging Telecom Domain Large Model**|Tianyu Jiao et.al.|[2505.10003v1](http://arxiv.org/abs/2505.10003v1)|**2025-05-15**|null|
-|**2025-05-15**|**Task-Core Memory Management and Consolidation for Long-term Continual Learning**|Tianyu Huai et.al.|[2505.09952v1](http://arxiv.org/abs/2505.09952v1)|**2025-05-15**|null|
-|**2025-05-15**|**DDFP: Data-dependent Frequency Prompt for Source Free Domain Adaptation of Medical Image Segmentation**|Siqi Yin et.al.|[2505.09927v1](http://arxiv.org/abs/2505.09927v1)|**2025-05-15**|[link](https://github.com/YYinn/SFDA-DDFP)|
-|**2025-05-15**|**Large-Scale Gaussian Splatting SLAM**|Zhe Xin et.al.|[2505.09915v1](http://arxiv.org/abs/2505.09915v1)|**2025-05-15**|null|
-|**2025-05-14**|**Grzegorczyk Logic Unlocked**|Wojciech Aleksander Wołoszyn et.al.|[2505.09836v1](http://arxiv.org/abs/2505.09836v1)|**2025-05-14**|null|
+|**2025-05-16**|**GODBench: A Benchmark for Multimodal Large Language Models in Video Comment Art**|Chenkai Zhang et.al.|[2505.11436v1](http://arxiv.org/abs/2505.11436v1)|**2025-05-16**|null|
+|**2025-05-16**|**Visual Planning: Let's Think Only with Images**|Yi Xu et.al.|[2505.11409v1](http://arxiv.org/abs/2505.11409v1)|**2025-05-16**|null|
+|**2025-05-16**|**Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner**|Wenchuan Zhang et.al.|[2505.11404v1](http://arxiv.org/abs/2505.11404v1)|**2025-05-16**|null|
+|**2025-05-16**|**From Fibers to Cells: Fourier-Based Registration Enables Virtual Cresyl Violet Staining From 3D Polarized Light Imaging**|Alexander Oberstrass et.al.|[2505.11394v1](http://arxiv.org/abs/2505.11394v1)|**2025-05-16**|null|
+|**2025-05-16**|**Dynamic Base model Shift for Delta Compression**|Chenyu Huang et.al.|[2505.11344v1](http://arxiv.org/abs/2505.11344v1)|**2025-05-16**|null|
+|**2025-05-16**|**Wave turbulence, thermalization and multimode locking in optical fibers**|M. Ferraro et.al.|[2505.11299v1](http://arxiv.org/abs/2505.11299v1)|**2025-05-16**|null|
+|**2025-05-16**|**A Fourier Space Perspective on Diffusion Models**|Fabian Falck et.al.|[2505.11278v1](http://arxiv.org/abs/2505.11278v1)|**2025-05-16**|null|
+|**2025-05-16**|**TAIJI: MCP-based Multi-Modal Data Analytics on Data Lakes**|Chao Zhang et.al.|[2505.11270v1](http://arxiv.org/abs/2505.11270v1)|**2025-05-16**|null|
+|**2025-05-16**|**A Step towards Interpretable Multimodal AI Models with MultiFIX**|Mafalda Malafaia et.al.|[2505.11262v1](http://arxiv.org/abs/2505.11262v1)|**2025-05-16**|null|
+|**2025-05-16**|**Concept Drift Guided LayerNorm Tuning for Efficient Multimodal Metaphor Identification**|Wenhao Qian et.al.|[2505.11237v1](http://arxiv.org/abs/2505.11237v1)|**2025-05-16**|[link](https://github.com/Qianvenh/CDGLT)|
+|**2025-05-16**|**Seeing Sound, Hearing Sight: Uncovering Modality Bias and Conflict of AI models in Sound Localization**|Yanhao Jia et.al.|[2505.11217v1](http://arxiv.org/abs/2505.11217v1)|**2025-05-16**|null|
+|**2025-05-16**|**GeoMM: On Geodesic Perspective for Multi-modal Learning**|Shibin Mei et.al.|[2505.11216v1](http://arxiv.org/abs/2505.11216v1)|**2025-05-16**|null|
+|**2025-05-16**|**Prot2Text-V2: Protein Function Prediction with Multimodal Contrastive Alignment**|Xiao Fei et.al.|[2505.11194v1](http://arxiv.org/abs/2505.11194v1)|**2025-05-16**|null|
+|**2025-05-16**|**FALCON: False-Negative Aware Learning of Contrastive Negatives in Vision-Language Pretraining**|Myunsoo Kim et.al.|[2505.11192v1](http://arxiv.org/abs/2505.11192v1)|**2025-05-16**|null|
+|**2025-05-16**|**Multi-Modal Multi-Task (M3T) Federated Foundation Models for Embodied AI: Potentials and Challenges for Edge Integration**|Kasra Borazjani et.al.|[2505.11191v1](http://arxiv.org/abs/2505.11191v1)|**2025-05-16**|null|
+|**2025-05-16**|**mmRAG: A Modular Benchmark for Retrieval-Augmented Generation over Text, Tables, and Knowledge Graphs**|Chuan Xu et.al.|[2505.11180v1](http://arxiv.org/abs/2505.11180v1)|**2025-05-16**|null|
+|**2025-05-16**|**Nash: Neural Adaptive Shrinkage for Structured High-Dimensional Regression**|William R. P. Denault et.al.|[2505.11143v1](http://arxiv.org/abs/2505.11143v1)|**2025-05-16**|null|
+|**2025-05-16**|**One Image is Worth a Thousand Words: A Usability Preservable Text-Image Collaborative Erasing Framework**|Feiran Li et.al.|[2505.11131v1](http://arxiv.org/abs/2505.11131v1)|**2025-05-16**|null|
+|**2025-05-16**|**Predicting Student Dropout Risk With A Dual-Modal Abrupt Behavioral Changes Approach**|Jiabei Cheng et.al.|[2505.11119v1](http://arxiv.org/abs/2505.11119v1)|**2025-05-16**|null|
+|**2025-05-16**|**A Multi-modal Fusion Network for Terrain Perception Based on Illumination Aware**|Rui Wang et.al.|[2505.11066v1](http://arxiv.org/abs/2505.11066v1)|**2025-05-16**|null|
+|**2025-05-16**|**HSRMamba: Efficient Wavelet Stripe State Space Model for Hyperspectral Image Super-Resolution**|Baisong Li et.al.|[2505.11062v1](http://arxiv.org/abs/2505.11062v1)|**2025-05-16**|null|
+|**2025-05-16**|**Halting Recurrent GNNs and the Graded $μ$-Calculus**|Jeroen Bollen et.al.|[2505.11050v1](http://arxiv.org/abs/2505.11050v1)|**2025-05-16**|null|
+|**2025-05-16**|**Exploiting the Asymmetric Uncertainty Structure of Pre-trained VLMs on the Unit Hypersphere**|Li Ju et.al.|[2505.11029v1](http://arxiv.org/abs/2505.11029v1)|**2025-05-16**|null|
+|**2025-05-16**|**Classifying Shelf Life Quality of Pineapples by Combining Audio and Visual Features**|Yi-Lu Jiang et.al.|[2505.11020v1](http://arxiv.org/abs/2505.11020v1)|**2025-05-16**|null|
+|**2025-05-16**|**ToDMA: Large Model-Driven Token-Domain Multiple Access for Semantic Communications**|Li Qiao et.al.|[2505.10946v1](http://arxiv.org/abs/2505.10946v1)|**2025-05-16**|null|
+|**2025-05-16**|**Towards Cross-modal Retrieval in Chinese Cultural Heritage Documents: Dataset and Solution**|Junyi Yuan et.al.|[2505.10921v1](http://arxiv.org/abs/2505.10921v1)|**2025-05-16**|null|
+|**2025-05-16**|**VISTA: Enhancing Vision-Text Alignment in MLLMs via Cross-Modal Mutual Information Maximization**|Mingxiao Li et.al.|[2505.10917v1](http://arxiv.org/abs/2505.10917v1)|**2025-05-16**|null|
+|**2025-05-16**|**Prior-Guided Diffusion Planning for Offline Reinforcement Learning**|Donghyeon Ki et.al.|[2505.10881v1](http://arxiv.org/abs/2505.10881v1)|**2025-05-16**|null|
+|**2025-05-16**|**A Light and Smart Wearable Platform with Multimodal Foundation Model for Enhanced Spatial Reasoning in People with Blindness and Low Vision**|Alexey Magay et.al.|[2505.10875v1](http://arxiv.org/abs/2505.10875v1)|**2025-05-16**|null|
+|**2025-05-16**|**Multimodal Event Detection: Current Approaches and Defining the New Playground through LLMs and VLMs**|Abhishek Dey et.al.|[2505.10836v1](http://arxiv.org/abs/2505.10836v1)|**2025-05-16**|null|
