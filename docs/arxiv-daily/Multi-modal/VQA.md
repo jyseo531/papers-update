@@ -29,6 +29,6 @@
 |**2025-05-15**|**Measuring Long Stellar Rotation Periods (>10 days) from TESS FFI Light Curves is Possible: An Investigation Using TESS and ZTF**|Soichiro Hattori et.al.|[2505.10376v1](http://arxiv.org/abs/2505.10376v1)|**2025-05-15**|null|
 |**2025-05-15**|**Optimal Post-Hoc Theorizing**|Andrew Y. Chen et.al.|[2505.10370v1](http://arxiv.org/abs/2505.10370v1)|**2025-05-15**|null|
 |**2025-05-15**|**Angular momentum relaxation in models of rotating early-type stars**|Michel Rieutord et.al.|[2505.10357v1](http://arxiv.org/abs/2505.10357v1)|**2025-05-15**|null|
-|**2025-05-15**|**LDIR: Low-Dimensional Dense and Interpretable Text Embeddings with Relative Representations**|Yile Wang et.al.|[2505.10354v1](http://arxiv.org/abs/2505.10354v1)|**2025-05-15**|[link](https://github.com/szu-tera/ldir)|
+|**2025-05-15**|**LDIR: Low-Dimensional Dense and Interpretable Text Embeddings with Relative Representations**|Yile Wang et.al.|[2505.10354v2](http://arxiv.org/abs/2505.10354v2)|**2025-05-16**|[link](https://github.com/szu-tera/ldir)|
 |**2025-05-15**|**A Unified and Scalable Membership Inference Method for Visual Self-supervised Encoder via Part-aware Capability**|Jie Zhu et.al.|[2505.10351v1](http://arxiv.org/abs/2505.10351v1)|**2025-05-15**|[link](https://github.com/jiepku/partcrop)|
 |**2025-05-15**|**Locally Differentially Private Frequency Estimation via Joint Randomized Response**|Ye Zheng et.al.|[2505.10349v1](http://arxiv.org/abs/2505.10349v1)|**2025-05-15**|[link](https://github.com/ZhengYeah/JRR)|

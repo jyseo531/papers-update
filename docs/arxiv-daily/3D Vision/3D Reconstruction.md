@@ -25,7 +25,7 @@
 |**2025-05-15**|**Cutting Through Privacy: A Hyperplane-Based Data Reconstruction Attack in Federated Learning**|Francesco Diana et.al.|[2505.10264v1](http://arxiv.org/abs/2505.10264v1)|**2025-05-15**|null|
 |**2025-05-15**|**Flexible-AR display for near-eye operations**|Alan Lee et.al.|[2505.10253v1](http://arxiv.org/abs/2505.10253v1)|**2025-05-15**|null|
 |**2025-05-15**|**ADHMR: Aligning Diffusion-based Human Mesh Recovery via Direct Preference Optimization**|Wenhao Shen et.al.|[2505.10250v1](http://arxiv.org/abs/2505.10250v1)|**2025-05-15**|[link](https://github.com/shenwenhao01/adhmr)|
-|**2025-05-15**|**MTVCrafter: 4D Motion Tokenization for Open-World Human Image Animation**|Yanbo Ding et.al.|[2505.10238v1](http://arxiv.org/abs/2505.10238v1)|**2025-05-15**|null|
+|**2025-05-15**|**MTVCrafter: 4D Motion Tokenization for Open-World Human Image Animation**|Yanbo Ding et.al.|[2505.10238v2](http://arxiv.org/abs/2505.10238v2)|**2025-05-16**|[link](https://github.com/dingyanb/mtvcrafter)|
 |**2025-05-15**|**UAV-Enabled Passive 6DMA for ISAC: Joint Location, Orientation, and Reflection Optimization**|Peilan Wang et.al.|[2505.10220v1](http://arxiv.org/abs/2505.10220v1)|**2025-05-15**|null|
 |**2025-05-15**|**UV-SERS monitoring of plasmons photodegradation of biomolecules on Aluminum platforms decorated with Rhodium nanoparticles**|Yanqiu Zou et.al.|[2505.10216v1](http://arxiv.org/abs/2505.10216v1)|**2025-05-15**|null|
 |**2025-05-15**|**An Inverse Problem for Multi-Dimensional Piston Models with Large Velocity Variations**|Dian Hu et.al.|[2505.10209v1](http://arxiv.org/abs/2505.10209v1)|**2025-05-15**|null|

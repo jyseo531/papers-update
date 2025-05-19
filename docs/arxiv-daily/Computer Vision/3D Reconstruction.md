@@ -9,7 +9,7 @@
 |**2025-05-15**|**HWA-UNETR: Hierarchical Window Aggregate UNETR for 3D Multimodal Gastric Lesion Segmentation**|Jiaming Liang et.al.|[2505.10464v1](http://arxiv.org/abs/2505.10464v1)|**2025-05-15**|[link](https://github.com/jeming-creater/hwa-unetr)|
 |**2025-05-15**|**HandReader: Advanced Techniques for Efficient Fingerspelling Recognition**|Pavel Korotaev et.al.|[2505.10267v1](http://arxiv.org/abs/2505.10267v1)|**2025-05-15**|null|
 |**2025-05-15**|**ADHMR: Aligning Diffusion-based Human Mesh Recovery via Direct Preference Optimization**|Wenhao Shen et.al.|[2505.10250v1](http://arxiv.org/abs/2505.10250v1)|**2025-05-15**|[link](https://github.com/shenwenhao01/adhmr)|
-|**2025-05-15**|**MTVCrafter: 4D Motion Tokenization for Open-World Human Image Animation**|Yanbo Ding et.al.|[2505.10238v1](http://arxiv.org/abs/2505.10238v1)|**2025-05-15**|null|
+|**2025-05-15**|**MTVCrafter: 4D Motion Tokenization for Open-World Human Image Animation**|Yanbo Ding et.al.|[2505.10238v2](http://arxiv.org/abs/2505.10238v2)|**2025-05-16**|[link](https://github.com/dingyanb/mtvcrafter)|
 |**2025-05-15**|**UAV-Enabled Passive 6DMA for ISAC: Joint Location, Orientation, and Reflection Optimization**|Peilan Wang et.al.|[2505.10220v1](http://arxiv.org/abs/2505.10220v1)|**2025-05-15**|null|
 |**2025-05-15**|**UV-SERS monitoring of plasmons photodegradation of biomolecules on Aluminum platforms decorated with Rhodium nanoparticles**|Yanqiu Zou et.al.|[2505.10216v1](http://arxiv.org/abs/2505.10216v1)|**2025-05-15**|null|
 |**2025-05-15**|**VolE: A Point-cloud Framework for Food 3D Reconstruction and Volume Estimation**|Umair Haroon et.al.|[2505.10205v1](http://arxiv.org/abs/2505.10205v1)|**2025-05-15**|null|
@@ -29,6 +29,6 @@
 |**2025-05-15**|**Large-Scale Gaussian Splatting SLAM**|Zhe Xin et.al.|[2505.09915v1](http://arxiv.org/abs/2505.09915v1)|**2025-05-15**|null|
 |**2025-05-15**|**SnapNCode: An Integrated Development Environment for Programming Physical Objects Interactions**|Xiaoyan Wei et.al.|[2505.09882v1](http://arxiv.org/abs/2505.09882v1)|**2025-05-15**|null|
 |**2025-05-14**|**A Framework for Identifying Non-van der Waals 2D Materials**|Shota Ono et.al.|[2505.09853v1](http://arxiv.org/abs/2505.09853v1)|**2025-05-14**|null|
-|**2025-05-14**|**Visual Feedback of Pattern Separability Improves Myoelectric Decoding Performance of Upper Limb Prostheses**|Ruichen Yang et.al.|[2505.09819v1](http://arxiv.org/abs/2505.09819v1)|**2025-05-14**|null|
-|**2025-05-14**|**Uncertainty of magnetic field in 3D NLTE inversions**|Jiri Stepan et.al.|[2505.09708v1](http://arxiv.org/abs/2505.09708v1)|**2025-05-14**|null|
+|**2025-05-14**|**Visual Feedback of Pattern Separability Improves Myoelectric Decoding Performance of Upper Limb Prostheses**|Ruichen Yang et.al.|[2505.09819v2](http://arxiv.org/abs/2505.09819v2)|**2025-05-16**|null|
+|**2025-05-14**|**Uncertainty of magnetic field in 3D NLTE inversions**|Jiri Stepan et.al.|[2505.09708v2](http://arxiv.org/abs/2505.09708v2)|**2025-05-16**|null|
 |**2025-05-14**|**An ion treatment planning framework for inclusion of nanodosimetric ionization detail through cluster dose**|Simona Facchiano et.al.|[2505.09667v1](http://arxiv.org/abs/2505.09667v1)|**2025-05-14**|null|

@@ -23,7 +23,7 @@
 |**2025-05-15**|**Magnon Nesting in Driven Two-Dimensional Quantum Magnets**|Hossein Hosseinabadi et.al.|[2505.10531v1](http://arxiv.org/abs/2505.10531v1)|**2025-05-15**|null|
 |**2025-05-15**|**Exploring Variational Entanglement Hamiltonians**|Yanick S. Kind et.al.|[2505.10530v1](http://arxiv.org/abs/2505.10530v1)|**2025-05-15**|null|
 |**2025-05-15**|**Oil slicks dynamics in semi-confined geometries in the presence of water waves: analytical and numerical insights**|Hanan Hozan et.al.|[2505.10529v1](http://arxiv.org/abs/2505.10529v1)|**2025-05-15**|null|
-|**2025-05-15**|**Pixel column issue in the ATLAS Inner Tracker modules**|L. Meng et.al.|[2505.10528v1](http://arxiv.org/abs/2505.10528v1)|**2025-05-15**|null|
+|**2025-05-15**|**Pixel column issue in the ATLAS Inner Tracker modules**|L. Meng et.al.|[2505.10528v2](http://arxiv.org/abs/2505.10528v2)|**2025-05-16**|null|
 |**2025-05-15**|**WorldPM: Scaling Human Preference Modeling**|Binghai Wang et.al.|[2505.10527v1](http://arxiv.org/abs/2505.10527v1)|**2025-05-15**|[link](https://github.com/qwenlm/worldpm)|
 |**2025-05-15**|**AGN star dynamics under the Influence of Outflow-Ambient Interactions**|Muxin Liu et.al.|[2505.10524v1](http://arxiv.org/abs/2505.10524v1)|**2025-05-15**|null|
 |**2025-05-15**|**Commuting probability for conjugate subgroups of a finite group**|Eloisa Detomi et.al.|[2505.10521v1](http://arxiv.org/abs/2505.10521v1)|**2025-05-15**|null|

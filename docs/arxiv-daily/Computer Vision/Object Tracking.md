@@ -15,7 +15,7 @@
 |**2025-05-15**|**Possibility of Multi-Messenger Observations of Quasi-Periodic Eruptions with X-rays and Gravitational Waves**|Tomoya Suzuguchi et.al.|[2505.10488v1](http://arxiv.org/abs/2505.10488v1)|**2025-05-15**|null|
 |**2025-05-15**|**Fixing Incomplete Value Function Decomposition for Multi-Agent Reinforcement Learning**|Andrea Baisero et.al.|[2505.10484v1](http://arxiv.org/abs/2505.10484v1)|**2025-05-15**|null|
 |**2025-05-15**|**Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps**|Ningyuan Yang et.al.|[2505.10482v1](http://arxiv.org/abs/2505.10482v1)|**2025-05-15**|null|
-|**2025-05-15**|**Some algebraic properties of ASM varieties**|Ilani Axelrod-Freed et.al.|[2505.10480v1](http://arxiv.org/abs/2505.10480v1)|**2025-05-15**|null|
+|**2025-05-15**|**Some algebraic properties of ASM varieties**|Ilani Axelrod-Freed et.al.|[2505.10480v2](http://arxiv.org/abs/2505.10480v2)|**2025-05-16**|null|
 |**2025-05-15**|**Consistent Quantity-Quality Control across Scenes for Deployment-Aware Gaussian Splatting**|Fengdi Zhang et.al.|[2505.10473v1](http://arxiv.org/abs/2505.10473v1)|**2025-05-15**|null|
 |**2025-05-15**|**Vision language models have difficulty recognizing virtual objects**|Tyler Tran et.al.|[2505.10453v1](http://arxiv.org/abs/2505.10453v1)|**2025-05-15**|null|
 |**2025-05-15**|**IN-RIL: Interleaved Reinforcement and Imitation Learning for Policy Fine-Tuning**|Dechen Gao et.al.|[2505.10442v1](http://arxiv.org/abs/2505.10442v1)|**2025-05-15**|null|
@@ -29,6 +29,6 @@
 |**2025-05-15**|**A Unified and Scalable Membership Inference Method for Visual Self-supervised Encoder via Part-aware Capability**|Jie Zhu et.al.|[2505.10351v1](http://arxiv.org/abs/2505.10351v1)|**2025-05-15**|[link](https://github.com/jiepku/partcrop)|
 |**2025-05-15**|**PolarCat: Catalog of polars, low-accretion rate polars, and candidate objects**|Axel D. Schwope et.al.|[2505.10337v1](http://arxiv.org/abs/2505.10337v1)|**2025-05-15**|null|
 |**2025-05-15**|**Confronting recent light compact star observations with color-flavor locked quark matter**|K. Kourmpetis et.al.|[2505.10329v1](http://arxiv.org/abs/2505.10329v1)|**2025-05-15**|null|
-|**2025-05-15**|**Whitened Score Diffusion: A Structured Prior for Imaging Inverse Problems**|Jeffrey Alido et.al.|[2505.10311v1](http://arxiv.org/abs/2505.10311v1)|**2025-05-15**|null|
+|**2025-05-15**|**Whitened Score Diffusion: A Structured Prior for Imaging Inverse Problems**|Jeffrey Alido et.al.|[2505.10311v2](http://arxiv.org/abs/2505.10311v2)|**2025-05-16**|null|
 |**2025-05-15**|**Negative Metric Learning for Graphs**|Yiyang Zhao et.al.|[2505.10307v1](http://arxiv.org/abs/2505.10307v1)|**2025-05-15**|null|
 |**2025-05-15**|**$t$-Channel Dark Photon Search at Fixed-Target Configurations**|Shao-Feng Ge et.al.|[2505.10302v1](http://arxiv.org/abs/2505.10302v1)|**2025-05-15**|null|
