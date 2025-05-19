@@ -2111,6 +2111,7 @@ Updated on 2025-05-19
 | Unknown | Unknown | Rustamshry/Qwen3-0 | Updated41 minutes ago | [Link](https://huggingface.co/Rustamshry/Qwen3-0.6B-OpenMathReason) |
 | 17 | Unknown | eagle0504/finetuned-warren-buffett-letter-model-llama-3 | Updated2 days ago | [Link](https://huggingface.co/eagle0504/finetuned-warren-buffett-letter-model-llama-3.2-1B-Instruct-2024) |
 | 2 | Unknown | Mrpsy/RAG-MathStarQuestion | Updatedabout 7 hours ago | [Link](https://huggingface.co/Mrpsy/RAG-MathStar) |
+| 1 | Unknown | Rustamshry/Llama3 | Updated1 minute ago | [Link](https://huggingface.co/Rustamshry/Llama3.2-turkish-general-reasoning-1B) |
 
 ## Reinforcement Learning
 
