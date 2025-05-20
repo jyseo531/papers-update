@@ -2,33 +2,33 @@
 ### Instance Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-16**|**QVGen: Pushing the Limit of Quantized Video Generative Models**|Yushi Huang et.al.|[2505.11497v1](http://arxiv.org/abs/2505.11497v1)|**2025-05-16**|null|
-|**2025-05-16**|**Solving Large-Scale QUBO with Transferred Parameters from Multilevel QAOA of low depth**|Bao G Bach et.al.|[2505.11464v1](http://arxiv.org/abs/2505.11464v1)|**2025-05-16**|null|
-|**2025-05-16**|**Unsolvability and Beyond in Many-To-Many Non-Bipartite Stable Matching**|Frederik Glitzner et.al.|[2505.11456v1](http://arxiv.org/abs/2505.11456v1)|**2025-05-16**|null|
-|**2025-05-16**|**GOUHFI: a novel contrast- and resolution-agnostic segmentation tool for Ultra-High Field MRI**|Marc-Antoine Fortin et.al.|[2505.11445v1](http://arxiv.org/abs/2505.11445v1)|**2025-05-16**|[link](https://github.com/mafortin/GOUHFI)|
-|**2025-05-16**|**SurgPose: Generalisable Surgical Instrument Pose Estimation using Zero-Shot Learning and Stereo Vision**|Utsav Rai et.al.|[2505.11439v1](http://arxiv.org/abs/2505.11439v1)|**2025-05-16**|null|
-|**2025-05-16**|**Improving Object Detection Performance through YOLOv8: A Comprehensive Training and Evaluation Study**|Rana Poureskandar et.al.|[2505.11424v1](http://arxiv.org/abs/2505.11424v1)|**2025-05-16**|null|
-|**2025-05-16**|**From Fibers to Cells: Fourier-Based Registration Enables Virtual Cresyl Violet Staining From 3D Polarized Light Imaging**|Alexander Oberstrass et.al.|[2505.11394v1](http://arxiv.org/abs/2505.11394v1)|**2025-05-16**|null|
-|**2025-05-16**|**Compendium Manager: a tool for coordination of workflow management instances for bulk data processing in Python**|Richard J. Abdill et.al.|[2505.11385v1](http://arxiv.org/abs/2505.11385v1)|**2025-05-16**|null|
-|**2025-05-16**|**MOSAIK: Multi-Origin Spatial Transcriptomics Analysis and Integration Kit**|Anthony Baptista et.al.|[2505.11384v1](http://arxiv.org/abs/2505.11384v1)|**2025-05-16**|null|
-|**2025-05-16**|**Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation**|Zihan Wang et.al.|[2505.11383v1](http://arxiv.org/abs/2505.11383v1)|**2025-05-16**|null|
-|**2025-05-16**|**MARRS: Masked Autoregressive Unit-based Reaction Synthesis**|Y. B. Wang et.al.|[2505.11334v1](http://arxiv.org/abs/2505.11334v1)|**2025-05-16**|null|
-|**2025-05-16**|**SCAREY: Location-Aware Service Lifecycle Management**|Kurt Horvath et.al.|[2505.11266v1](http://arxiv.org/abs/2505.11266v1)|**2025-05-16**|null|
-|**2025-05-16**|**AW-GATCN: Adaptive Weighted Graph Attention Convolutional Network for Event Camera Data Joint Denoising and Object Recognition**|Haiyu Li et.al.|[2505.11232v1](http://arxiv.org/abs/2505.11232v1)|**2025-05-16**|null|
-|**2025-05-16**|**Symbolic Model Checking in External Memory**|Steffan Christ Sølvsten et.al.|[2505.11229v1](http://arxiv.org/abs/2505.11229v1)|**2025-05-16**|null|
-|**2025-05-16**|**Minimizing False-Positive Attributions in Explanations of Non-Linear Models**|Anders Gjølbye et.al.|[2505.11210v1](http://arxiv.org/abs/2505.11210v1)|**2025-05-16**|null|
-|**2025-05-16**|**FALCON: False-Negative Aware Learning of Contrastive Negatives in Vision-Language Pretraining**|Myunsoo Kim et.al.|[2505.11192v2](http://arxiv.org/abs/2505.11192v2)|**2025-05-19**|null|
-|**2025-05-16**|**Imputation-free and Alignment-free: Incomplete Multi-view Clustering Driven by Consensus Semantic Learning**|Yuzhuo Dai et.al.|[2505.11182v1](http://arxiv.org/abs/2505.11182v1)|**2025-05-16**|null|
-|**2025-05-16**|**Attention on the Sphere**|Boris Bonev et.al.|[2505.11157v1](http://arxiv.org/abs/2505.11157v1)|**2025-05-16**|null|
-|**2025-05-16**|**STEP: A Unified Spiking Transformer Evaluation Platform for Fair and Reproducible Benchmarking**|Sicheng Shen et.al.|[2505.11151v1](http://arxiv.org/abs/2505.11151v1)|**2025-05-16**|null|
-|**2025-05-16**|**FairSHAP: Preprocessing for Fairness Through Attribution-Based Data Augmentation**|Lin Zhu et.al.|[2505.11111v1](http://arxiv.org/abs/2505.11111v1)|**2025-05-16**|null|
-|**2025-05-16**|**Fault Diagnosis across Heterogeneous Domains via Self-Adaptive Temporal-Spatial Attention and Sample Generation**|Guangqiang Li et.al.|[2505.11083v1](http://arxiv.org/abs/2505.11083v1)|**2025-05-16**|null|
-|**2025-05-16**|**Pseudo-Label Quality Decoupling and Correction for Semi-Supervised Instance Segmentation**|Jianghang Lin et.al.|[2505.11075v1](http://arxiv.org/abs/2505.11075v1)|**2025-05-16**|null|
-|**2025-05-16**|**CUBIC: Concept Embeddings for Unsupervised Bias Identification using VLMs**|David Méndez et.al.|[2505.11060v1](http://arxiv.org/abs/2505.11060v1)|**2025-05-16**|null|
-|**2025-05-16**|**Minimal $(n-2)$-umbilic submanifolds of the Euclidean space**|A. E. Kanellopoulou et.al.|[2505.11039v1](http://arxiv.org/abs/2505.11039v1)|**2025-05-16**|null|
-|**2025-05-16**|**DexGarmentLab: Dexterous Garment Manipulation Environment with Generalizable Policy**|Yuran Wang et.al.|[2505.11032v2](http://arxiv.org/abs/2505.11032v2)|**2025-05-19**|null|
-|**2025-05-16**|**OntoURL: A Benchmark for Evaluating Large Language Models on Symbolic Ontological Understanding, Reasoning and Learning**|Xiao Zhang et.al.|[2505.11031v2](http://arxiv.org/abs/2505.11031v2)|**2025-05-19**|null|
-|**2025-05-16**|**Rethinking the Mean Teacher Strategy from the Perspective of Self-paced Learning**|Pengchen Zhang et.al.|[2505.11018v1](http://arxiv.org/abs/2505.11018v1)|**2025-05-16**|null|
-|**2025-05-16**|**Most General Explanations of Tree Ensembles**|Yacine Izza et.al.|[2505.10991v2](http://arxiv.org/abs/2505.10991v2)|**2025-05-19**|null|
-|**2025-05-16**|**Survey of End-to-End Multi-Speaker Automatic Speech Recognition for Monaural Audio**|Xinlu He et.al.|[2505.10975v1](http://arxiv.org/abs/2505.10975v1)|**2025-05-16**|null|
-|**2025-05-16**|**Universal scaling of segment fluctuations in polymer and chromatin dynamics**|Kirill Polovnikov et.al.|[2505.10943v1](http://arxiv.org/abs/2505.10943v1)|**2025-05-16**|null|
+|**2025-05-19**|**GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation**|Abhay Deshpande et.al.|[2505.13441v1](http://arxiv.org/abs/2505.13441v1)|**2025-05-19**|null|
+|**2025-05-19**|**FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance**|Dian Shao et.al.|[2505.13437v1](http://arxiv.org/abs/2505.13437v1)|**2025-05-19**|null|
+|**2025-05-19**|**Meta-rotations and the Structure of Stable Matchings in the Student Project Allocation Problem**|Peace Ayegba et.al.|[2505.13428v1](http://arxiv.org/abs/2505.13428v1)|**2025-05-19**|null|
+|**2025-05-19**|**Make Still Further Progress: Chain of Thoughts for Tabular Data Leaderboard**|Si-Yang Liu et.al.|[2505.13421v1](http://arxiv.org/abs/2505.13421v1)|**2025-05-19**|null|
+|**2025-05-19**|**GuidedMorph: Two-Stage Deformable Registration for Breast MRI**|Yaqian Chen et.al.|[2505.13414v1](http://arxiv.org/abs/2505.13414v1)|**2025-05-19**|null|
+|**2025-05-19**|**Recombinant dynamical systems**|Saul Kato et.al.|[2505.13409v1](http://arxiv.org/abs/2505.13409v1)|**2025-05-19**|null|
+|**2025-05-19**|**Granary: Speech Recognition and Translation Dataset in 25 European Languages**|Nithin Rao Koluguri et.al.|[2505.13404v1](http://arxiv.org/abs/2505.13404v1)|**2025-05-19**|null|
+|**2025-05-19**|**Unlabeled Data or Pre-trained Model: Rethinking Semi-Supervised Learning and Pretrain-Finetuning**|Song-Lin Li et.al.|[2505.13317v1](http://arxiv.org/abs/2505.13317v1)|**2025-05-19**|null|
+|**2025-05-19**|**Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space**|Hengli Li et.al.|[2505.13308v1](http://arxiv.org/abs/2505.13308v1)|**2025-05-19**|null|
+|**2025-05-19**|**Selfless reduced free product $C^*$-algebras**|Ben Hayes et.al.|[2505.13265v1](http://arxiv.org/abs/2505.13265v1)|**2025-05-19**|null|
+|**2025-05-19**|**MAGI-1: Autoregressive Video Generation at Scale**|Sand. ai et.al.|[2505.13211v1](http://arxiv.org/abs/2505.13211v1)|**2025-05-19**|[link](https://github.com/sandai-org/magiattention)|
+|**2025-05-19**|**Filtering in a hazard rate change-point model with financial and life-insurance applications**|Matteo Buttarazzi et.al.|[2505.13185v1](http://arxiv.org/abs/2505.13185v1)|**2025-05-19**|null|
+|**2025-05-19**|**FlowCut: Unsupervised Video Instance Segmentation via Temporal Mask Matching**|Alp Eren Sari et.al.|[2505.13174v1](http://arxiv.org/abs/2505.13174v1)|**2025-05-19**|null|
+|**2025-05-19**|**Adaptive Image Restoration for Video Surveillance: A Real-Time Approach**|Muhammad Awais Amin et.al.|[2505.13130v1](http://arxiv.org/abs/2505.13130v1)|**2025-05-19**|null|
+|**2025-05-19**|**A Unified Framework for the Transportability of Population-Level Causal Measures**|Ahmed Boughdiri et.al.|[2505.13104v1](http://arxiv.org/abs/2505.13104v1)|**2025-05-19**|null|
+|**2025-05-19**|**Industry-focused Synthetic Segmentation Pre-training**|Shinichi Mae et.al.|[2505.13099v1](http://arxiv.org/abs/2505.13099v1)|**2025-05-19**|null|
+|**2025-05-19**|**When do Lyapunov Subcenter Manifolds become Eigenmanifolds?**|Yannik P. Wotte et.al.|[2505.13064v1](http://arxiv.org/abs/2505.13064v1)|**2025-05-19**|null|
+|**2025-05-19**|**EffiBench-X: A Multi-Language Benchmark for Measuring Efficiency of LLM-Generated Code**|Yuhao Qing et.al.|[2505.13004v1](http://arxiv.org/abs/2505.13004v1)|**2025-05-19**|[link](https://github.com/effibench/effibench-x)|
+|**2025-05-19**|**Calm-Whisper: Reduce Whisper Hallucination On Non-Speech By Calming Crazy Heads Down**|Yingzhi Wang et.al.|[2505.12969v1](http://arxiv.org/abs/2505.12969v1)|**2025-05-19**|null|
+|**2025-05-19**|**Lara: Lightweight Anonymous Authentication with Asynchronous Revocation Auditability**|Claudio Correia et.al.|[2505.12968v1](http://arxiv.org/abs/2505.12968v1)|**2025-05-19**|null|
+|**2025-05-19**|**Segmentation of temporomandibular joint structures on mri images using neural networks for diagnosis of pathologies**|Maksim I. Ivanov et.al.|[2505.12963v1](http://arxiv.org/abs/2505.12963v1)|**2025-05-19**|null|
+|**2025-05-19**|**Neural Morphological Tagging for Nguni Languages**|Cael Marquard et.al.|[2505.12949v1](http://arxiv.org/abs/2505.12949v1)|**2025-05-19**|null|
+|**2025-05-19**|**Classification of ill-posedness for bounded linear operators in Banach spaces**|Bernd Hofmann et.al.|[2505.12931v1](http://arxiv.org/abs/2505.12931v1)|**2025-05-19**|null|
+|**2025-05-19**|**Minos: Exploiting Cloud Performance Variation with Function-as-a-Service Instance Selection**|Trever Schirmer et.al.|[2505.12928v1](http://arxiv.org/abs/2505.12928v1)|**2025-05-19**|null|
+|**2025-05-19**|**HiERO: understanding the hierarchy of human behavior enhances reasoning on egocentric videos**|Simone Alberto Peirone et.al.|[2505.12911v1](http://arxiv.org/abs/2505.12911v1)|**2025-05-19**|[link](https://github.com/sapeirone/hiero)|
+|**2025-05-19**|**Implicit numerical approximation for stochastic delay differential equations with the nonlinear diffusion term in the infinite horizon**|Yudong Wang et.al.|[2505.12883v1](http://arxiv.org/abs/2505.12883v1)|**2025-05-19**|null|
+|**2025-05-19**|**Robust Multimodal Segmentation with Representation Regularization and Hybrid Prototype Distillation**|Jiaqi Tan et.al.|[2505.12861v1](http://arxiv.org/abs/2505.12861v1)|**2025-05-19**|[link](https://github.com/robustseg/robustseg)|
+|**2025-05-19**|**Accelerate TarFlow Sampling with GS-Jacobi Iteration**|Ben Liu et.al.|[2505.12849v1](http://arxiv.org/abs/2505.12849v1)|**2025-05-19**|null|
+|**2025-05-19**|**Hierarchical Representations for Evolving Acyclic Vector Autoregressions (HEAVe)**|Cameron Cornell et.al.|[2505.12806v1](http://arxiv.org/abs/2505.12806v1)|**2025-05-19**|null|
+|**2025-05-19**|**Enhancing Transformers Through Conditioned Embedded Tokens**|Hemanth Saratchandran et.al.|[2505.12789v1](http://arxiv.org/abs/2505.12789v1)|**2025-05-19**|null|
