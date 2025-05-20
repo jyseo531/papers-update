@@ -15,7 +15,7 @@
 |**2025-05-16**|**Seeing Sound, Hearing Sight: Uncovering Modality Bias and Conflict of AI models in Sound Localization**|Yanhao Jia et.al.|[2505.11217v1](http://arxiv.org/abs/2505.11217v1)|**2025-05-16**|null|
 |**2025-05-16**|**GeoMM: On Geodesic Perspective for Multi-modal Learning**|Shibin Mei et.al.|[2505.11216v1](http://arxiv.org/abs/2505.11216v1)|**2025-05-16**|null|
 |**2025-05-16**|**Prot2Text-V2: Protein Function Prediction with Multimodal Contrastive Alignment**|Xiao Fei et.al.|[2505.11194v1](http://arxiv.org/abs/2505.11194v1)|**2025-05-16**|null|
-|**2025-05-16**|**FALCON: False-Negative Aware Learning of Contrastive Negatives in Vision-Language Pretraining**|Myunsoo Kim et.al.|[2505.11192v1](http://arxiv.org/abs/2505.11192v1)|**2025-05-16**|null|
+|**2025-05-16**|**FALCON: False-Negative Aware Learning of Contrastive Negatives in Vision-Language Pretraining**|Myunsoo Kim et.al.|[2505.11192v2](http://arxiv.org/abs/2505.11192v2)|**2025-05-19**|null|
 |**2025-05-16**|**Multi-Modal Multi-Task (M3T) Federated Foundation Models for Embodied AI: Potentials and Challenges for Edge Integration**|Kasra Borazjani et.al.|[2505.11191v1](http://arxiv.org/abs/2505.11191v1)|**2025-05-16**|null|
 |**2025-05-16**|**mmRAG: A Modular Benchmark for Retrieval-Augmented Generation over Text, Tables, and Knowledge Graphs**|Chuan Xu et.al.|[2505.11180v1](http://arxiv.org/abs/2505.11180v1)|**2025-05-16**|null|
 |**2025-05-16**|**Nash: Neural Adaptive Shrinkage for Structured High-Dimensional Regression**|William R. P. Denault et.al.|[2505.11143v1](http://arxiv.org/abs/2505.11143v1)|**2025-05-16**|null|
@@ -28,7 +28,7 @@
 |**2025-05-16**|**Classifying Shelf Life Quality of Pineapples by Combining Audio and Visual Features**|Yi-Lu Jiang et.al.|[2505.11020v1](http://arxiv.org/abs/2505.11020v1)|**2025-05-16**|null|
 |**2025-05-16**|**ToDMA: Large Model-Driven Token-Domain Multiple Access for Semantic Communications**|Li Qiao et.al.|[2505.10946v1](http://arxiv.org/abs/2505.10946v1)|**2025-05-16**|null|
 |**2025-05-16**|**Towards Cross-modal Retrieval in Chinese Cultural Heritage Documents: Dataset and Solution**|Junyi Yuan et.al.|[2505.10921v1](http://arxiv.org/abs/2505.10921v1)|**2025-05-16**|null|
-|**2025-05-16**|**VISTA: Enhancing Vision-Text Alignment in MLLMs via Cross-Modal Mutual Information Maximization**|Mingxiao Li et.al.|[2505.10917v1](http://arxiv.org/abs/2505.10917v1)|**2025-05-16**|null|
+|**2025-05-16**|**VISTA: Enhancing Vision-Text Alignment in MLLMs via Cross-Modal Mutual Information Maximization**|Mingxiao Li et.al.|[2505.10917v2](http://arxiv.org/abs/2505.10917v2)|**2025-05-19**|null|
 |**2025-05-16**|**Prior-Guided Diffusion Planning for Offline Reinforcement Learning**|Donghyeon Ki et.al.|[2505.10881v1](http://arxiv.org/abs/2505.10881v1)|**2025-05-16**|null|
 |**2025-05-16**|**A Light and Smart Wearable Platform with Multimodal Foundation Model for Enhanced Spatial Reasoning in People with Blindness and Low Vision**|Alexey Magay et.al.|[2505.10875v1](http://arxiv.org/abs/2505.10875v1)|**2025-05-16**|null|
 |**2025-05-16**|**Multimodal Event Detection: Current Approaches and Defining the New Playground through LLMs and VLMs**|Abhishek Dey et.al.|[2505.10836v1](http://arxiv.org/abs/2505.10836v1)|**2025-05-16**|null|

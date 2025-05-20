@@ -11,8 +11,8 @@
 |**2025-05-16**|**HumaniBench: A Human-Centric Framework for Large Multimodal Models Evaluation**|Shaina Raza et.al.|[2505.11454v1](http://arxiv.org/abs/2505.11454v1)|**2025-05-16**|null|
 |**2025-05-16**|**EMU/GAMA: A new approach to characterising radio luminosity functions**|J. Prathap et.al.|[2505.11453v1](http://arxiv.org/abs/2505.11453v1)|**2025-05-16**|null|
 |**2025-05-16**|**Extracting Explainable Dates From Medical Images By Reverse-Engineering UNIX Timestamps**|Lee Harris et.al.|[2505.11451v1](http://arxiv.org/abs/2505.11451v1)|**2025-05-16**|null|
-|**2025-05-16**|**Polarization Signatures of Quasi-Periodic Oscillations in Simulated Tilted, Truncated Disks**|P. Chris Fragile et.al.|[2505.11446v1](http://arxiv.org/abs/2505.11446v1)|**2025-05-16**|null|
-|**2025-05-16**|**GOUHFI: a novel contrast- and resolution-agnostic segmentation tool for Ultra-High Field MRI**|Marc-Antoine Fortin et.al.|[2505.11445v1](http://arxiv.org/abs/2505.11445v1)|**2025-05-16**|[link](https://zenodo.org/record/15255556)|
+|**2025-05-16**|**Polarization Signatures of Quasi-Periodic Oscillations in Simulated Tilted, Truncated Disks**|P. Chris Fragile et.al.|[2505.11446v2](http://arxiv.org/abs/2505.11446v2)|**2025-05-19**|null|
+|**2025-05-16**|**GOUHFI: a novel contrast- and resolution-agnostic segmentation tool for Ultra-High Field MRI**|Marc-Antoine Fortin et.al.|[2505.11445v1](http://arxiv.org/abs/2505.11445v1)|**2025-05-16**|[link](https://github.com/mafortin/GOUHFI)|
 |**2025-05-16**|**General superconvergence for kernel-based approximation**|Toni Karvonen et.al.|[2505.11435v1](http://arxiv.org/abs/2505.11435v1)|**2025-05-16**|null|
 |**2025-05-16**|**Controlling the Flow: Stability and Convergence for Stochastic Gradient Descent with Decaying Regularization**|Sebastian Kassing et.al.|[2505.11434v1](http://arxiv.org/abs/2505.11434v1)|**2025-05-16**|null|
 |**2025-05-16**|**Neuromorphic Imaging Flow Cytometry combined with Adaptive Recurrent Spiking Neural Networks**|Georgios Moustakas et.al.|[2505.11433v1](http://arxiv.org/abs/2505.11433v1)|**2025-05-16**|null|
@@ -26,7 +26,7 @@
 |**2025-05-16**|**MOSAIK: Multi-Origin Spatial Transcriptomics Analysis and Integration Kit**|Anthony Baptista et.al.|[2505.11384v1](http://arxiv.org/abs/2505.11384v1)|**2025-05-16**|null|
 |**2025-05-16**|**Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation**|Zihan Wang et.al.|[2505.11383v1](http://arxiv.org/abs/2505.11383v1)|**2025-05-16**|null|
 |**2025-05-16**|**Machine Learning Approaches to Vocal Register Classification in Contemporary Male Pop Music**|Alexander Kim et.al.|[2505.11378v1](http://arxiv.org/abs/2505.11378v1)|**2025-05-16**|null|
-|**2025-05-16**|**Compact, Large-Scale Photonic Neurons by Modulation-and-Weight Microring Resonators**|Weipeng Zhang et.al.|[2505.11369v1](http://arxiv.org/abs/2505.11369v1)|**2025-05-16**|null|
+|**2025-05-16**|**Compact, Large-Scale Photonic Neurons by Modulation-and-Weight Microring Resonators**|Weipeng Zhang et.al.|[2505.11369v2](http://arxiv.org/abs/2505.11369v2)|**2025-05-19**|null|
 |**2025-05-16**|**APE: An analytical protostellar environment to provide physical conditions to chemical models and synthetic observations**|Pierre Marchand et.al.|[2505.11364v1](http://arxiv.org/abs/2505.11364v1)|**2025-05-16**|null|
 |**2025-05-16**|**Channel coding against quantum jammers via minimax**|Michael X. Cao et.al.|[2505.11362v1](http://arxiv.org/abs/2505.11362v1)|**2025-05-16**|null|
 |**2025-05-16**|**Search-TTA: A Multimodal Test-Time Adaptation Framework for Visual Search in the Wild**|Derek Ming Siang Tan et.al.|[2505.11350v1](http://arxiv.org/abs/2505.11350v1)|**2025-05-16**|null|

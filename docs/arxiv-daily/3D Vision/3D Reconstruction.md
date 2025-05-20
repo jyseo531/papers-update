@@ -6,7 +6,7 @@
 |**2025-05-16**|**Unsupervised Detection of Distribution Shift in Inverse Problems using Diffusion Models**|Shirin Shoushtari et.al.|[2505.11482v1](http://arxiv.org/abs/2505.11482v1)|**2025-05-16**|null|
 |**2025-05-16**|**Nagata products of bimodules over residuated lattices**|Adam Přenosil et.al.|[2505.11479v1](http://arxiv.org/abs/2505.11479v1)|**2025-05-16**|null|
 |**2025-05-16**|**Global well-posedness for small data in a 3D temperature-velocity model with Dirichlet boundary noise**|Gianmarco Del Sarto et.al.|[2505.11447v1](http://arxiv.org/abs/2505.11447v1)|**2025-05-16**|null|
-|**2025-05-16**|**GOUHFI: a novel contrast- and resolution-agnostic segmentation tool for Ultra-High Field MRI**|Marc-Antoine Fortin et.al.|[2505.11445v1](http://arxiv.org/abs/2505.11445v1)|**2025-05-16**|[link](https://zenodo.org/record/15255556)|
+|**2025-05-16**|**GOUHFI: a novel contrast- and resolution-agnostic segmentation tool for Ultra-High Field MRI**|Marc-Antoine Fortin et.al.|[2505.11445v1](http://arxiv.org/abs/2505.11445v1)|**2025-05-16**|[link](https://github.com/mafortin/GOUHFI)|
 |**2025-05-16**|**Controlling the Flow: Stability and Convergence for Stochastic Gradient Descent with Decaying Regularization**|Sebastian Kassing et.al.|[2505.11434v1](http://arxiv.org/abs/2505.11434v1)|**2025-05-16**|null|
 |**2025-05-16**|**EdgeWisePersona: A Dataset for On-Device User Profiling from Natural Language Interactions**|Patryk Bartkowiak et.al.|[2505.11417v1](http://arxiv.org/abs/2505.11417v1)|**2025-05-16**|null|
 |**2025-05-16**|**From Fibers to Cells: Fourier-Based Registration Enables Virtual Cresyl Violet Staining From 3D Polarized Light Imaging**|Alexander Oberstrass et.al.|[2505.11394v1](http://arxiv.org/abs/2505.11394v1)|**2025-05-16**|null|
@@ -24,7 +24,7 @@
 |**2025-05-16**|**Modeling Cell Dynamics and Interactions with Unbalanced Mean Field Schrödinger Bridge**|Zhenyi Zhang et.al.|[2505.11197v1](http://arxiv.org/abs/2505.11197v1)|**2025-05-16**|null|
 |**2025-05-16**|**On the Magnetic Reconnection and its Properties during a Flare Using a Magnetohydrodynamics Simulation**|Sushree S Nayak et.al.|[2505.11186v1](http://arxiv.org/abs/2505.11186v1)|**2025-05-16**|null|
 |**2025-05-16**|**CompAlign: Improving Compositional Text-to-Image Generation with a Complex Benchmark and Fine-Grained Feedback**|Yixin Wan et.al.|[2505.11178v1](http://arxiv.org/abs/2505.11178v1)|**2025-05-16**|null|
-|**2025-05-16**|**Real-Time Verification of Embodied Reasoning for Generative Skill Acquisition**|Bo Yue et.al.|[2505.11175v1](http://arxiv.org/abs/2505.11175v1)|**2025-05-16**|null|
+|**2025-05-16**|**Real-Time Verification of Embodied Reasoning for Generative Skill Acquisition**|Bo Yue et.al.|[2505.11175v2](http://arxiv.org/abs/2505.11175v2)|**2025-05-19**|null|
 |**2025-05-16**|**Parkour in the Wild: Learning a General and Extensible Agile Locomotion Policy Using Multi-expert Distillation and RL Fine-tuning**|Nikita Rudin et.al.|[2505.11164v1](http://arxiv.org/abs/2505.11164v1)|**2025-05-16**|null|
 |**2025-05-16**|**Controlling spatial correlation in k-space interpolation networks for MRI reconstruction: denoising versus apparent blurring**|Istvan Homolya et.al.|[2505.11155v1](http://arxiv.org/abs/2505.11155v1)|**2025-05-16**|null|
 |**2025-05-16**|**Open-Source Multi-Viewpoint Surgical Telerobotics**|Guido Caccianiga et.al.|[2505.11142v1](http://arxiv.org/abs/2505.11142v1)|**2025-05-16**|null|

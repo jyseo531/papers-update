@@ -16,7 +16,7 @@
 |**2025-05-16**|**Learning Multimodal AI Algorithms for Amplifying Limited User Input into High-dimensional Control Space**|Ali Rabiee et.al.|[2505.11366v1](http://arxiv.org/abs/2505.11366v1)|**2025-05-16**|null|
 |**2025-05-16**|**Explaining Strategic Decisions in Multi-Agent Reinforcement Learning for Aerial Combat Tactics**|Ardian Selmonaj et.al.|[2505.11311v1](http://arxiv.org/abs/2505.11311v1)|**2025-05-16**|null|
 |**2025-05-16**|**Reinforcement Learning Closures for Underresolved Partial Differential Equations using Synthetic Data**|Lothar Heimbach et.al.|[2505.11308v1](http://arxiv.org/abs/2505.11308v1)|**2025-05-16**|null|
-|**2025-05-16**|**Meta-World+: An Improved, Standardized, RL Benchmark**|Reginald McLean et.al.|[2505.11289v1](http://arxiv.org/abs/2505.11289v1)|**2025-05-16**|null|
+|**2025-05-16**|**Meta-World+: An Improved, Standardized, RL Benchmark**|Reginald McLean et.al.|[2505.11289v1](http://arxiv.org/abs/2505.11289v1)|**2025-05-16**|[link](https://github.com/farama-foundation/metaworld)|
 |**2025-05-16**|**Search and Refine During Think: Autonomous Retrieval-Augmented Reasoning of LLMs**|Yaorui Shi et.al.|[2505.11277v1](http://arxiv.org/abs/2505.11277v1)|**2025-05-16**|null|
 |**2025-05-16**|**SelfBudgeter: Adaptive Token Allocation for Efficient LLM Reasoning**|Zheng Li et.al.|[2505.11274v1](http://arxiv.org/abs/2505.11274v1)|**2025-05-16**|null|
 |**2025-05-16**|**Equal is Not Always Fair: A New Perspective on Hyperspectral Representation Non-Uniformity**|Wuzhou Quan et.al.|[2505.11267v1](http://arxiv.org/abs/2505.11267v1)|**2025-05-16**|null|

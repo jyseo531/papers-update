@@ -18,14 +18,14 @@
 |**2025-05-15**|**GA3CE: Unconstrained 3D Gaze Estimation with Gaze-Aware 3D Context Encoding**|Yuki Kawana et.al.|[2505.10671v1](http://arxiv.org/abs/2505.10671v1)|**2025-05-15**|null|
 |**2025-05-15**|**The Atmosphere of Titan in Late Northern Summer from JWST and Keck Observations**|Conor A. Nixon et.al.|[2505.10655v1](http://arxiv.org/abs/2505.10655v1)|**2025-05-15**|null|
 |**2025-05-15**|**Learned Lightweight Smartphone ISP with Unpaired Data**|Andrei Arhire et.al.|[2505.10420v1](http://arxiv.org/abs/2505.10420v1)|**2025-05-15**|[link](https://github.com/andreiiarhire/learned-lightweight-smartphone-isp-with-unpaired-data)|
-|**2025-05-15**|**Euclid: Photometric redshift calibration with the clustering redshifts technique**|W. d'Assignies Doumerg et.al.|[2505.10416v1](http://arxiv.org/abs/2505.10416v1)|**2025-05-15**|null|
+|**2025-05-15**|**Euclid: Photometric redshift calibration with the clustering redshifts technique**|W. d'Assignies Doumerg et.al.|[2505.10416v1](http://arxiv.org/abs/2505.10416v1)|**2025-05-15**|[link](https://github.com/wdoumerg/Clustering_z)|
 |**2025-05-15**|**AutoCam: Hierarchical Path Planning for an Autonomous Auxiliary Camera in Surgical Robotics**|Alexandre Banks et.al.|[2505.10398v1](http://arxiv.org/abs/2505.10398v1)|**2025-05-15**|null|
 |**2025-05-15**|**VolE: A Point-cloud Framework for Food 3D Reconstruction and Volume Estimation**|Umair Haroon et.al.|[2505.10205v1](http://arxiv.org/abs/2505.10205v1)|**2025-05-15**|null|
 |**2025-05-15**|**A multi-head deep fusion model for recognition of cattle foraging events using sound and movement signals**|Mariano Ferrero et.al.|[2505.10198v1](http://arxiv.org/abs/2505.10198v1)|**2025-05-15**|null|
 |**2025-05-15**|**Application of YOLOv8 in monocular downward multiple Car Target detection**|Shijie Lyu et.al.|[2505.10016v1](http://arxiv.org/abs/2505.10016v1)|**2025-05-15**|null|
 |**2025-05-15**|**Large-Scale Gaussian Splatting SLAM**|Zhe Xin et.al.|[2505.09915v1](http://arxiv.org/abs/2505.09915v1)|**2025-05-15**|null|
 |**2025-05-15**|**SnapNCode: An Integrated Development Environment for Programming Physical Objects Interactions**|Xiaoyan Wei et.al.|[2505.09882v1](http://arxiv.org/abs/2505.09882v1)|**2025-05-15**|null|
-|**2025-05-14**|**Neural Inertial Odometry from Lie Events**|Royina Karegoudra Jayanth et.al.|[2505.09780v1](http://arxiv.org/abs/2505.09780v1)|**2025-05-14**|null|
+|**2025-05-14**|**Neural Inertial Odometry from Lie Events**|Royina Karegoudra Jayanth et.al.|[2505.09780v1](http://arxiv.org/abs/2505.09780v1)|**2025-05-14**|[link](https://github.com/RoyinaJayanth/NIO_Lie_Events)|
 |**2025-05-14**|**Grasp EveryThing (GET): 1-DoF, 3-Fingered Gripper with Tactile Sensing for Robust Grasping**|Michael Burgess et.al.|[2505.09771v2](http://arxiv.org/abs/2505.09771v2)|**2025-05-16**|[link](https://github.com/GelSight-lab/GraspEveryThing)|
 |**2025-05-14**|**Unfettered Forceful Skill Acquisition with Physical Reasoning and Coordinate Frame Labeling**|William Xie et.al.|[2505.09731v1](http://arxiv.org/abs/2505.09731v1)|**2025-05-14**|null|
 |**2025-05-14**|**Camera-Only 3D Panoptic Scene Completion for Autonomous Driving through Differentiable Object Shapes**|Nicola Marinello et.al.|[2505.09562v1](http://arxiv.org/abs/2505.09562v1)|**2025-05-14**|null|

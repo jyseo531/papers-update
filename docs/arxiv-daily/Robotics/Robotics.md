@@ -17,7 +17,7 @@
 |**2025-05-16**|**LD-Scene: LLM-Guided Diffusion for Controllable Generation of Adversarial Safety-Critical Driving Scenarios**|Mingxing Peng et.al.|[2505.11247v1](http://arxiv.org/abs/2505.11247v1)|**2025-05-16**|null|
 |**2025-05-16**|**Unveiling the Potential of Vision-Language-Action Models with Open-Ended Multimodal Instructions**|Wei Zhao et.al.|[2505.11214v1](http://arxiv.org/abs/2505.11214v1)|**2025-05-16**|null|
 |**2025-05-16**|**Multi-Modal Multi-Task (M3T) Federated Foundation Models for Embodied AI: Potentials and Challenges for Edge Integration**|Kasra Borazjani et.al.|[2505.11191v1](http://arxiv.org/abs/2505.11191v1)|**2025-05-16**|null|
-|**2025-05-16**|**Real-Time Verification of Embodied Reasoning for Generative Skill Acquisition**|Bo Yue et.al.|[2505.11175v1](http://arxiv.org/abs/2505.11175v1)|**2025-05-16**|null|
+|**2025-05-16**|**Real-Time Verification of Embodied Reasoning for Generative Skill Acquisition**|Bo Yue et.al.|[2505.11175v2](http://arxiv.org/abs/2505.11175v2)|**2025-05-19**|null|
 |**2025-05-16**|**Parkour in the Wild: Learning a General and Extensible Agile Locomotion Policy Using Multi-expert Distillation and RL Fine-tuning**|Nikita Rudin et.al.|[2505.11164v1](http://arxiv.org/abs/2505.11164v1)|**2025-05-16**|null|
 |**2025-05-16**|**Attention on the Sphere**|Boris Bonev et.al.|[2505.11157v1](http://arxiv.org/abs/2505.11157v1)|**2025-05-16**|null|
 |**2025-05-16**|**X2C: A Dataset Featuring Nuanced Facial Expressions for Realistic Humanoid Imitation**|Peizhen Li et.al.|[2505.11146v1](http://arxiv.org/abs/2505.11146v1)|**2025-05-16**|null|
@@ -26,9 +26,9 @@
 |**2025-05-16**|**Conditioning Matters: Training Diffusion Policies is Faster Than You Think**|Zibin Dong et.al.|[2505.11123v1](http://arxiv.org/abs/2505.11123v1)|**2025-05-16**|null|
 |**2025-05-16**|**Planar Velocity Estimation for Fast-Moving Mobile Robots Using Event-Based Optical Flow**|Liam Boyle et.al.|[2505.11116v1](http://arxiv.org/abs/2505.11116v1)|**2025-05-16**|null|
 |**2025-05-16**|**PARSEC: Preference Adaptation for Robotic Object Rearrangement from Scene Context**|Kartik Ramachandruni et.al.|[2505.11108v1](http://arxiv.org/abs/2505.11108v1)|**2025-05-16**|null|
-|**2025-05-16**|**DexGarmentLab: Dexterous Garment Manipulation Environment with Generalizable Policy**|Yuran Wang et.al.|[2505.11032v1](http://arxiv.org/abs/2505.11032v1)|**2025-05-16**|null|
+|**2025-05-16**|**DexGarmentLab: Dexterous Garment Manipulation Environment with Generalizable Policy**|Yuran Wang et.al.|[2505.11032v2](http://arxiv.org/abs/2505.11032v2)|**2025-05-19**|null|
 |**2025-05-16**|**GROQLoco: Generalist and RObot-agnostic Quadruped Locomotion Control using Offline Datasets**|Narayanan PP et.al.|[2505.10973v1](http://arxiv.org/abs/2505.10973v1)|**2025-05-16**|null|
-|**2025-05-16**|**Certifying Stability of Reinforcement Learning Policies using Generalized Lyapunov Functions**|Kehan Long et.al.|[2505.10947v1](http://arxiv.org/abs/2505.10947v1)|**2025-05-16**|null|
+|**2025-05-16**|**Certifying Stability of Reinforcement Learning Policies using Generalized Lyapunov Functions**|Kehan Long et.al.|[2505.10947v2](http://arxiv.org/abs/2505.10947v2)|**2025-05-19**|null|
 |**2025-05-16**|**GrowSplat: Constructing Temporal Digital Twins of Plants with Gaussian Splats**|Simeon Adebola et.al.|[2505.10923v1](http://arxiv.org/abs/2505.10923v1)|**2025-05-16**|null|
 |**2025-05-16**|**Unleashing Humanoid Reaching Potential via Real-world-Ready Skill Space**|Zhikai Zhang et.al.|[2505.10918v1](http://arxiv.org/abs/2505.10918v1)|**2025-05-16**|null|
 |**2025-05-16**|**ReWiND: Language-Guided Rewards Teach Robot Policies without New Demonstrations**|Jiahui Zhang et.al.|[2505.10911v1](http://arxiv.org/abs/2505.10911v1)|**2025-05-16**|null|
