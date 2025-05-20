@@ -1017,6 +1017,7 @@ Updated on 2025-05-20
 | 53k | 4 | timm/mobilenetv2_100 | UpdatedJan 21 | [Link](https://huggingface.co/timm/mobilenetv2_100.ra_in1k) |
 | 5.23k | 4 | timm/eva02_small_patch14_336 | UpdatedJan 21 | [Link](https://huggingface.co/timm/eva02_small_patch14_336.mim_in22k_ft_in1k) |
 | 34.3k | 4 | timm/mobilevit_s | UpdatedJan 21 | [Link](https://huggingface.co/timm/mobilevit_s.cvnets_in1k) |
+| 198 | 4 | facebook/convnextv2-huge-22k-512Image | UpdatedFeb 17 | [Link](https://huggingface.co/facebook/convnextv2-huge-22k-512) |
 | 11 | 3 | dglownia/MobileNetV3Large-Bird-Classification-KaggleImage | UpdatedMar 9, 2023 | [Link](https://huggingface.co/dglownia/MobileNetV3Large-Bird-Classification-Kaggle) |
 | 3.9k | 3 | facebook/convnext-large-224-22k-1kImage | UpdatedNov 21, 2023 | [Link](https://huggingface.co/facebook/convnext-large-224-22k-1k) |
 | 3 | 3 | prithivMLmods/Gym-Workout-Classifier-SigLIP2Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/prithivMLmods/Gym-Workout-Classifier-SigLIP2) |
@@ -1217,6 +1218,7 @@ Updated on 2025-05-20
 | 17.8k | 16 | shi-labs/oneformer_ade20k_swin_tinyImage | UpdatedJan 19, 2023 | [Link](https://huggingface.co/shi-labs/oneformer_ade20k_swin_tiny) |
 | 1.11k | 14 | apple/deeplabv3-mobilevit-smallImage | Updatedabout 8 hours ago | [Link](https://huggingface.co/apple/deeplabv3-mobilevit-small) |
 | 1.1k | 14 | keremberke/yolov8m-pcb-defect-segmentationImage | UpdatedFeb 22, 2023 | [Link](https://huggingface.co/keremberke/yolov8m-pcb-defect-segmentation) |
+| 85 | 13 | sayeed99/segformer-b2-fashionImage | UpdatedApr 16, 2024 | [Link](https://huggingface.co/sayeed99/segformer-b2-fashion) |
 | 5.73k | 10 | shi-labs/oneformer_ade20k_dinat_largeImage | UpdatedAug 30, 2023 | [Link](https://huggingface.co/shi-labs/oneformer_ade20k_dinat_large) |
 | 48 | 9 | SerdarHelli/Segmentation-of-Teeth-in-Panoramic-X-ray-Image-Using-U-NetImage | UpdatedJun 29, 2022 | [Link](https://huggingface.co/SerdarHelli/Segmentation-of-Teeth-in-Panoramic-X-ray-Image-Using-U-Net) |
 | 7 | 9 | Narsil/pet-segmentationImage | UpdatedNov 29, 2021 | [Link](https://huggingface.co/Narsil/pet-segmentation) |
@@ -3891,6 +3893,7 @@ Updated on 2025-05-20
 | 25.4k | 74 | numind/NuNER_ZeroToken | Updated22 days ago | [Link](https://huggingface.co/numind/NuNER_Zero) |
 | 2.69k | 53 | spacy/en_core_web_smToken | UpdatedNov 21, 2023 | [Link](https://huggingface.co/spacy/en_core_web_sm) |
 | 17.1k | 51 | urchade/gliner_large-v2Token | UpdatedJul 12, 2024 | [Link](https://huggingface.co/urchade/gliner_large-v2) |
+| 57k | 49 | 51la5/roberta-large-NERToken | UpdatedOct 17, 2022 | [Link](https://huggingface.co/51la5/roberta-large-NER) |
 | 714k | 45 | flair/ner-english-largeToken | UpdatedMay 8, 2021 | [Link](https://huggingface.co/flair/ner-english-large) |
 | 6.57k | 42 | knowledgator/modern-gliner-bi-large-v1 | Updated27 days ago | [Link](https://huggingface.co/knowledgator/modern-gliner-bi-large-v1.0) |
 | 5.84k | 38 | DeepMount00/Italian_NER_XXLToken | UpdatedMar 28, 2024 | [Link](https://huggingface.co/DeepMount00/Italian_NER_XXL) |
