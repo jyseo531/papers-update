@@ -14,7 +14,7 @@
 |**2025-05-19**|**CacheFlow: Fast Human Motion Prediction by Cached Normalizing Flow**|Takahiro Maeda et.al.|[2505.13140v1](http://arxiv.org/abs/2505.13140v1)|**2025-05-19**|null|
 |**2025-05-19**|**Touch2Shape: Touch-Conditioned 3D Diffusion for Shape Exploration and Reconstruction**|Yuanbo Wang et.al.|[2505.13091v1](http://arxiv.org/abs/2505.13091v1)|**2025-05-19**|null|
 |**2025-05-19**|**Cross-modal feature fusion for robust point cloud registration with ambiguous geometry**|Zhaoyi Wang et.al.|[2505.13088v1](http://arxiv.org/abs/2505.13088v1)|**2025-05-19**|null|
-|**2025-05-19**|**3D Visual Illusion Depth Estimation**|CHengtang Yao et.al.|[2505.13061v1](http://arxiv.org/abs/2505.13061v1)|**2025-05-19**|[link](https://github.com/yaochengtang/3d-visual-illusion-depth-estimation)|
+|**2025-05-19**|**3D Visual Illusion Depth Estimation**|Chengtang Yao et.al.|[2505.13061v2](http://arxiv.org/abs/2505.13061v2)|**2025-05-20**|[link](https://github.com/yaochengtang/3d-visual-illusion-depth-estimation)|
 |**2025-05-19**|**A Skull-Adaptive Framework for AI-Based 3D Transcranial Focused Ultrasound Simulation**|Vinkle Srivastav et.al.|[2505.12998v1](http://arxiv.org/abs/2505.12998v1)|**2025-05-19**|[link](https://github.com/camma-public/tfuscapes)|
 |**2025-05-19**|**3D Gaussian Adaptive Reconstruction for Fourier Light-Field Microscopy**|Chenyu Xu et.al.|[2505.12875v1](http://arxiv.org/abs/2505.12875v1)|**2025-05-19**|null|
 |**2025-05-19**|**Optimization of 3D diamond detectors with graphitized electrodes based on an innovative numerical simulation**|Lucio Anderlini et.al.|[2505.12874v1](http://arxiv.org/abs/2505.12874v1)|**2025-05-19**|null|

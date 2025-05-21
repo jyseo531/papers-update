@@ -17,12 +17,12 @@
 |**2025-05-19**|**Rational points on K3 surfaces of degree 2**|Júlia Martínez-Marín et.al.|[2505.13262v1](http://arxiv.org/abs/2505.13262v1)|**2025-05-19**|null|
 |**2025-05-19**|**RN-F: A Novel Approach for Mitigating Contaminated Data in Large Language Models**|Le Vu Anh et.al.|[2505.13249v1](http://arxiv.org/abs/2505.13249v1)|**2025-05-19**|null|
 |**2025-05-19**|**Did the Corona Borealis-A2142 supercluster binary-like system originate as a proto-cluster binary embedded in a primordial cloud of galaxies?**|Baiesi Pillastrini G. Carlo et.al.|[2505.13240v1](http://arxiv.org/abs/2505.13240v1)|**2025-05-19**|null|
-|**2025-05-19**|**A Geometry-Grounded Data Perimeter in Azure**|Christophe Parisel et.al.|[2505.13238v1](http://arxiv.org/abs/2505.13238v1)|**2025-05-19**|null|
+|**2025-05-19**|**A Geometry-Grounded Data Perimeter in Azure**|Christophe Parisel et.al.|[2505.13238v2](http://arxiv.org/abs/2505.13238v2)|**2025-05-20**|null|
 |**2025-05-19**|**MAGI-1: Autoregressive Video Generation at Scale**|Sand. ai et.al.|[2505.13211v1](http://arxiv.org/abs/2505.13211v1)|**2025-05-19**|[link](https://github.com/sandai-org/magiattention)|
 |**2025-05-19**|**Alignment-Augmented Speculative Decoding with Alignment Sampling and Conditional Verification**|Jikai Wang et.al.|[2505.13204v1](http://arxiv.org/abs/2505.13204v1)|**2025-05-19**|null|
 |**2025-05-19**|**Quantum Kinetic Uncertainty Relations in Mesoscopic Conductors at Strong Coupling**|Gianmichele Blasi et.al.|[2505.13200v1](http://arxiv.org/abs/2505.13200v1)|**2025-05-19**|null|
 |**2025-05-19**|**A Malliavin-Gamma calculus approach to Score Based Diffusion Generative models for random fields**|Giacomo Greco et.al.|[2505.13189v1](http://arxiv.org/abs/2505.13189v1)|**2025-05-19**|null|
-|**2025-05-19**|**Filtering in a hazard rate change-point model with financial and life-insurance applications**|Matteo Buttarazzi et.al.|[2505.13185v1](http://arxiv.org/abs/2505.13185v1)|**2025-05-19**|null|
+|**2025-05-19**|**Filtering in a hazard rate change-point model with financial and life-insurance applications**|Matteo Buttarazzi et.al.|[2505.13185v2](http://arxiv.org/abs/2505.13185v2)|**2025-05-20**|null|
 |**2025-05-19**|**FlowCut: Unsupervised Video Instance Segmentation via Temporal Mask Matching**|Alp Eren Sari et.al.|[2505.13174v1](http://arxiv.org/abs/2505.13174v1)|**2025-05-19**|null|
 |**2025-05-19**|**Dynamics and equilibrium states of infinite systems of lattice bosons**|Andreas Deuchert et.al.|[2505.13170v1](http://arxiv.org/abs/2505.13170v1)|**2025-05-19**|null|
 |**2025-05-19**|**Hypergeometric Discriminants**|Saiei-Jaeyeong Matsubara-Heo et.al.|[2505.13163v1](http://arxiv.org/abs/2505.13163v1)|**2025-05-19**|null|
@@ -31,4 +31,4 @@
 |**2025-05-19**|**Goodness-of-fit tests for spatial point processes: A power study**|Chiara Fend et.al.|[2505.13127v1](http://arxiv.org/abs/2505.13127v1)|**2025-05-19**|null|
 |**2025-05-19**|**Benchmarking and Confidence Evaluation of LALMs For Temporal Reasoning**|Debarpan Bhattacharya et.al.|[2505.13115v1](http://arxiv.org/abs/2505.13115v1)|**2025-05-19**|null|
 |**2025-05-19**|**Time series saliency maps: explaining models across multiple domains**|Christodoulos Kechris et.al.|[2505.13100v1](http://arxiv.org/abs/2505.13100v1)|**2025-05-19**|null|
-|**2025-05-19**|**Industry-focused Synthetic Segmentation Pre-training**|Shinichi Mae et.al.|[2505.13099v1](http://arxiv.org/abs/2505.13099v1)|**2025-05-19**|null|
+|**2025-05-19**|**Industrial Synthetic Segment Pre-training**|Shinichi Mae et.al.|[2505.13099v2](http://arxiv.org/abs/2505.13099v2)|**2025-05-20**|null|

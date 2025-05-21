@@ -8,7 +8,7 @@
 |**2025-05-19**|**FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance**|Dian Shao et.al.|[2505.13437v1](http://arxiv.org/abs/2505.13437v1)|**2025-05-19**|null|
 |**2025-05-19**|**Faster Video Diffusion with Trainable Sparse Attention**|Peiyuan Zhang et.al.|[2505.13389v1](http://arxiv.org/abs/2505.13389v1)|**2025-05-19**|null|
 |**2025-05-19**|**Restoration Score Distillation: From Corrupted Diffusion Pretraining to One-Step High-Quality Generation**|Yasi Zhang et.al.|[2505.13377v1](http://arxiv.org/abs/2505.13377v1)|**2025-05-19**|null|
-|**2025-05-19**|**One-Step Offline Distillation of Diffusion-based Models via Koopman Modeling**|Nimrod Berman et.al.|[2505.13358v1](http://arxiv.org/abs/2505.13358v1)|**2025-05-19**|[link](https://github.com/azencot-group/kdm)|
+|**2025-05-19**|**One-Step Offline Distillation of Diffusion-based Models via Koopman Modeling**|Nimrod Berman et.al.|[2505.13358v2](http://arxiv.org/abs/2505.13358v2)|**2025-05-20**|[link](https://github.com/azencot-group/kdm)|
 |**2025-05-19**|**Neural-Enhanced Rate Adaptation and Computation Distribution for Emerging mmWave Multi-User 3D Video Streaming Systems**|Babak Badnava et.al.|[2505.13337v1](http://arxiv.org/abs/2505.13337v1)|**2025-05-19**|null|
 |**2025-05-19**|**VesselGPT: Autoregressive Modeling of Vascular Geometry**|Paula Feldman et.al.|[2505.13318v1](http://arxiv.org/abs/2505.13318v1)|**2025-05-19**|null|
 |**2025-05-19**|**Denoising Diffusion Probabilistic Model for Point Cloud Compression at Low Bit-Rates**|Gabriele Spadaro et.al.|[2505.13316v1](http://arxiv.org/abs/2505.13316v1)|**2025-05-19**|[link](https://github.com/eidoslab/ddpm-pcc)|
@@ -29,6 +29,6 @@
 |**2025-05-19**|**Lightweight Transformer via Unrolling of Mixed Graph Algorithms for Traffic Forecast**|Ji Qi et.al.|[2505.13102v1](http://arxiv.org/abs/2505.13102v1)|**2025-05-19**|[link](https://github.com/singularityundefined/unrolling-gsp-stforecast)|
 |**2025-05-19**|**Touch2Shape: Touch-Conditioned 3D Diffusion for Shape Exploration and Reconstruction**|Yuanbo Wang et.al.|[2505.13091v1](http://arxiv.org/abs/2505.13091v1)|**2025-05-19**|null|
 |**2025-05-19**|**Cross-modal feature fusion for robust point cloud registration with ambiguous geometry**|Zhaoyi Wang et.al.|[2505.13088v1](http://arxiv.org/abs/2505.13088v1)|**2025-05-19**|null|
-|**2025-05-19**|**Universal Semantic Disentangled Privacy-preserving Speech Representation Learning**|Biel Tura Vecino et.al.|[2505.13085v1](http://arxiv.org/abs/2505.13085v1)|**2025-05-19**|null|
+|**2025-05-19**|**Universal Semantic Disentangled Privacy-preserving Speech Representation Learning**|Biel Tura Vecino et.al.|[2505.13085v2](http://arxiv.org/abs/2505.13085v2)|**2025-05-20**|null|
 |**2025-05-19**|**Microscopic Ghost Imaging with a Tabletop XUV Source**|Sukyoon Oh et.al.|[2505.13075v1](http://arxiv.org/abs/2505.13075v1)|**2025-05-19**|null|
 |**2025-05-19**|**OmniFC: Rethinking Federated Clustering via Lossless and Secure Distance Reconstruction**|Jie Yan et.al.|[2505.13071v1](http://arxiv.org/abs/2505.13071v1)|**2025-05-19**|null|

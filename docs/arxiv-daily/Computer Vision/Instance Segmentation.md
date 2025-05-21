@@ -9,15 +9,15 @@
 |**2025-05-19**|**GuidedMorph: Two-Stage Deformable Registration for Breast MRI**|Yaqian Chen et.al.|[2505.13414v1](http://arxiv.org/abs/2505.13414v1)|**2025-05-19**|null|
 |**2025-05-19**|**Recombinant dynamical systems**|Saul Kato et.al.|[2505.13409v1](http://arxiv.org/abs/2505.13409v1)|**2025-05-19**|null|
 |**2025-05-19**|**Granary: Speech Recognition and Translation Dataset in 25 European Languages**|Nithin Rao Koluguri et.al.|[2505.13404v1](http://arxiv.org/abs/2505.13404v1)|**2025-05-19**|null|
-|**2025-05-19**|**Unlabeled Data or Pre-trained Model: Rethinking Semi-Supervised Learning and Pretrain-Finetuning**|Song-Lin Li et.al.|[2505.13317v1](http://arxiv.org/abs/2505.13317v1)|**2025-05-19**|null|
+|**2025-05-19**|**Unlabeled Data or Pre-trained Model: Rethinking Semi-Supervised Learning and Pretrain-Finetuning**|Song-Lin Li et.al.|[2505.13317v2](http://arxiv.org/abs/2505.13317v2)|**2025-05-20**|null|
 |**2025-05-19**|**Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space**|Hengli Li et.al.|[2505.13308v1](http://arxiv.org/abs/2505.13308v1)|**2025-05-19**|null|
 |**2025-05-19**|**Selfless reduced free product $C^*$-algebras**|Ben Hayes et.al.|[2505.13265v1](http://arxiv.org/abs/2505.13265v1)|**2025-05-19**|null|
 |**2025-05-19**|**MAGI-1: Autoregressive Video Generation at Scale**|Sand. ai et.al.|[2505.13211v1](http://arxiv.org/abs/2505.13211v1)|**2025-05-19**|[link](https://github.com/sandai-org/magiattention)|
-|**2025-05-19**|**Filtering in a hazard rate change-point model with financial and life-insurance applications**|Matteo Buttarazzi et.al.|[2505.13185v1](http://arxiv.org/abs/2505.13185v1)|**2025-05-19**|null|
+|**2025-05-19**|**Filtering in a hazard rate change-point model with financial and life-insurance applications**|Matteo Buttarazzi et.al.|[2505.13185v2](http://arxiv.org/abs/2505.13185v2)|**2025-05-20**|null|
 |**2025-05-19**|**FlowCut: Unsupervised Video Instance Segmentation via Temporal Mask Matching**|Alp Eren Sari et.al.|[2505.13174v1](http://arxiv.org/abs/2505.13174v1)|**2025-05-19**|null|
 |**2025-05-19**|**Adaptive Image Restoration for Video Surveillance: A Real-Time Approach**|Muhammad Awais Amin et.al.|[2505.13130v1](http://arxiv.org/abs/2505.13130v1)|**2025-05-19**|null|
 |**2025-05-19**|**A Unified Framework for the Transportability of Population-Level Causal Measures**|Ahmed Boughdiri et.al.|[2505.13104v1](http://arxiv.org/abs/2505.13104v1)|**2025-05-19**|null|
-|**2025-05-19**|**Industry-focused Synthetic Segmentation Pre-training**|Shinichi Mae et.al.|[2505.13099v1](http://arxiv.org/abs/2505.13099v1)|**2025-05-19**|null|
+|**2025-05-19**|**Industrial Synthetic Segment Pre-training**|Shinichi Mae et.al.|[2505.13099v2](http://arxiv.org/abs/2505.13099v2)|**2025-05-20**|null|
 |**2025-05-19**|**When do Lyapunov Subcenter Manifolds become Eigenmanifolds?**|Yannik P. Wotte et.al.|[2505.13064v1](http://arxiv.org/abs/2505.13064v1)|**2025-05-19**|null|
 |**2025-05-19**|**EffiBench-X: A Multi-Language Benchmark for Measuring Efficiency of LLM-Generated Code**|Yuhao Qing et.al.|[2505.13004v1](http://arxiv.org/abs/2505.13004v1)|**2025-05-19**|[link](https://github.com/effibench/effibench-x)|
 |**2025-05-19**|**Calm-Whisper: Reduce Whisper Hallucination On Non-Speech By Calming Crazy Heads Down**|Yingzhi Wang et.al.|[2505.12969v1](http://arxiv.org/abs/2505.12969v1)|**2025-05-19**|null|

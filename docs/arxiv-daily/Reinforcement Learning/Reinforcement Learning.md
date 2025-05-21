@@ -5,11 +5,11 @@
 |**2025-05-19**|**Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards**|Xiaoyuan Liu et.al.|[2505.13445v1](http://arxiv.org/abs/2505.13445v1)|**2025-05-19**|null|
 |**2025-05-19**|**Optimizing Anytime Reasoning via Budget Relative Policy Optimization**|Penghui Qi et.al.|[2505.13438v1](http://arxiv.org/abs/2505.13438v1)|**2025-05-19**|[link](https://github.com/sail-sg/anytimereasoner)|
 |**2025-05-19**|**G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning**|Liang Chen et.al.|[2505.13426v1](http://arxiv.org/abs/2505.13426v1)|**2025-05-19**|[link](https://github.com/chenllliang/g1)|
-|**2025-05-19**|**A Dataless Reinforcement Learning Approach to Rounding Hyperplane Optimization for Max-Cut**|Gabriel Malikal et.al.|[2505.13405v1](http://arxiv.org/abs/2505.13405v1)|**2025-05-19**|null|
+|**2025-05-19**|**A Dataless Reinforcement Learning Approach to Rounding Hyperplane Optimization for Max-Cut**|Gabriel Malikal et.al.|[2505.13405v2](http://arxiv.org/abs/2505.13405v2)|**2025-05-20**|null|
 |**2025-05-19**|**Thinkless: LLM Learns When to Think**|Gongfan Fang et.al.|[2505.13379v1](http://arxiv.org/abs/2505.13379v1)|**2025-05-19**|[link](https://github.com/vainf/thinkless)|
 |**2025-05-19**|**Exploiting Symbolic Heuristics for the Synthesis of Domain-Specific Temporal Planning Guidance using Reinforcement Learning**|Irene Brugnara et.al.|[2505.13372v1](http://arxiv.org/abs/2505.13372v1)|**2025-05-19**|null|
 |**2025-05-19**|**Modeling Innovation Ecosystem Dynamics through Interacting Reinforced Bernoulli Processes**|Giacomo Aletti et.al.|[2505.13364v1](http://arxiv.org/abs/2505.13364v1)|**2025-05-19**|null|
-|**2025-05-19**|**J4R: Learning to Judge with Equivalent Initial State Group Relative Preference Optimization**|Austin Xu et.al.|[2505.13346v1](http://arxiv.org/abs/2505.13346v1)|**2025-05-19**|null|
+|**2025-05-19**|**J4R: Learning to Judge with Equivalent Initial State Group Relative Policy Optimization**|Austin Xu et.al.|[2505.13346v2](http://arxiv.org/abs/2505.13346v2)|**2025-05-20**|null|
 |**2025-05-19**|**Neural-Enhanced Rate Adaptation and Computation Distribution for Emerging mmWave Multi-User 3D Video Streaming Systems**|Babak Badnava et.al.|[2505.13337v1](http://arxiv.org/abs/2505.13337v1)|**2025-05-19**|null|
 |**2025-05-19**|**CSC-SQL: Corrective Self-Consistency in Text-to-SQL via Reinforcement Learning**|Lei Sheng et.al.|[2505.13271v1](http://arxiv.org/abs/2505.13271v1)|**2025-05-19**|null|
 |**2025-05-19**|**Unlocking the Potential of Difficulty Prior in RL-based Multimodal Reasoning**|Mingrui Chen et.al.|[2505.13261v1](http://arxiv.org/abs/2505.13261v1)|**2025-05-19**|null|

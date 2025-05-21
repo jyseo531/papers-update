@@ -24,7 +24,7 @@
 |**2025-05-19**|**OPA-Pack: Object-Property-Aware Robotic Bin Packing**|Jia-Hui Pan et.al.|[2505.13339v1](http://arxiv.org/abs/2505.13339v1)|**2025-05-19**|null|
 |**2025-05-19**|**Neural-Enhanced Rate Adaptation and Computation Distribution for Emerging mmWave Multi-User 3D Video Streaming Systems**|Babak Badnava et.al.|[2505.13337v1](http://arxiv.org/abs/2505.13337v1)|**2025-05-19**|null|
 |**2025-05-19**|**FAUST XXV. A potential new molecular outflow in [BHB2007] 11**|A. Martínez-Henares et.al.|[2505.13333v1](http://arxiv.org/abs/2505.13333v1)|**2025-05-19**|null|
-|**2025-05-19**|**Benchmarking Unified Face Attack Detection via Hierarchical Prompt Tuning**|Ajian Liu et.al.|[2505.13327v1](http://arxiv.org/abs/2505.13327v1)|**2025-05-19**|null|
+|**2025-05-19**|**Benchmarking Unified Face Attack Detection via Hierarchical Prompt Tuning**|Ajian Liu et.al.|[2505.13327v2](http://arxiv.org/abs/2505.13327v2)|**2025-05-20**|null|
 |**2025-05-19**|**Denoising Diffusion Probabilistic Model for Point Cloud Compression at Low Bit-Rates**|Gabriele Spadaro et.al.|[2505.13316v1](http://arxiv.org/abs/2505.13316v1)|**2025-05-19**|[link](https://github.com/eidoslab/ddpm-pcc)|
 |**2025-05-19**|**Early Post Asymptotic Giant Branch Instability: Does it Affect White Dwarf Hydrogen Envelope Mass?**|James MacDonald et.al.|[2505.13313v1](http://arxiv.org/abs/2505.13313v1)|**2025-05-19**|null|
 |**2025-05-19**|**GUARD: Generation-time LLM Unlearning via Adaptive Restriction and Detection**|Zhijie Deng et.al.|[2505.13312v1](http://arxiv.org/abs/2505.13312v1)|**2025-05-19**|null|

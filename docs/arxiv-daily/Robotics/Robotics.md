@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-05-19**|**GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation**|Abhay Deshpande et.al.|[2505.13441v1](http://arxiv.org/abs/2505.13441v1)|**2025-05-19**|null|
-|**2025-05-19**|**A Practical Guide for Incorporating Symmetry in Diffusion Policy**|Dian Wang et.al.|[2505.13431v1](http://arxiv.org/abs/2505.13431v1)|**2025-05-19**|null|
+|**2025-05-19**|**A Practical Guide for Incorporating Symmetry in Diffusion Policy**|Dian Wang et.al.|[2505.13431v2](http://arxiv.org/abs/2505.13431v2)|**2025-05-20**|null|
 |**2025-05-19**|**Seeing, Saying, Solving: An LLM-to-TL Framework for Cooperative Robots**|Dan BW Choe et.al.|[2505.13376v1](http://arxiv.org/abs/2505.13376v1)|**2025-05-19**|null|
 |**2025-05-19**|**Approximating Global Contact-Implicit MPC via Sampling and Local Complementarity**|Sharanya Venkatesh et.al.|[2505.13350v1](http://arxiv.org/abs/2505.13350v1)|**2025-05-19**|null|
 |**2025-05-19**|**OPA-Pack: Object-Property-Aware Robotic Bin Packing**|Jia-Hui Pan et.al.|[2505.13339v1](http://arxiv.org/abs/2505.13339v1)|**2025-05-19**|null|
@@ -24,7 +24,7 @@
 |**2025-05-19**|**Disentangling Coordiante Frames for Task Specific Motion Retargeting in Teleoperation using Shared Control and VR Controllers**|Max Grobbel et.al.|[2505.13054v1](http://arxiv.org/abs/2505.13054v1)|**2025-05-19**|null|
 |**2025-05-19**|**Granular Loco-Manipulation: Repositioning Rocks Through Strategic Sand Avalanche**|Haodi Hu et.al.|[2505.12934v1](http://arxiv.org/abs/2505.12934v1)|**2025-05-19**|null|
 |**2025-05-19**|**AGI-Elo: How Far Are We From Mastering A Task?**|Shuo Sun et.al.|[2505.12844v1](http://arxiv.org/abs/2505.12844v1)|**2025-05-19**|null|
-|**2025-05-19**|**Practical Equivalence Testing and Its Application in Synthetic Pre-Crash Scenario Validation**|Jian Wu et.al.|[2505.12827v1](http://arxiv.org/abs/2505.12827v1)|**2025-05-19**|null|
+|**2025-05-19**|**Practical Equivalence Testing and Its Application in Synthetic Pre-Crash Scenario Validation**|Jian Wu et.al.|[2505.12827v2](http://arxiv.org/abs/2505.12827v2)|**2025-05-20**|null|
 |**2025-05-19**|**Dynamic Sight Range Selection in Multi-Agent Reinforcement Learning**|Wei-Chen Liao et.al.|[2505.12811v1](http://arxiv.org/abs/2505.12811v1)|**2025-05-19**|null|
 |**2025-05-19**|**Enhancing Transformers Through Conditioned Embedded Tokens**|Hemanth Saratchandran et.al.|[2505.12789v1](http://arxiv.org/abs/2505.12789v1)|**2025-05-19**|null|
 |**2025-05-19**|**MOON: Multi-Objective Optimization-Driven Object-Goal Navigation Using a Variable-Horizon Set-Orienteering Planner**|Daigo Nakajima et.al.|[2505.12752v1](http://arxiv.org/abs/2505.12752v1)|**2025-05-19**|null|

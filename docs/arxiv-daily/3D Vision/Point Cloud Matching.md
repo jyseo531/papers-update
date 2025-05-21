@@ -13,7 +13,7 @@
 |**2025-05-19**|**Variational formulas for determinant of Laplacian on higher genus polyhedral surface**|Dmitrii Korikov et.al.|[2505.13369v1](http://arxiv.org/abs/2505.13369v1)|**2025-05-19**|null|
 |**2025-05-19**|**Reflection phase shifts of bouncing Bogoliubov waves**|Carsten Henkel et.al.|[2505.13367v1](http://arxiv.org/abs/2505.13367v1)|**2025-05-19**|null|
 |**2025-05-19**|**Quantum Hardware-in-the-Loop for Optimal Power Flow in Renewable-Integrated Power Systems**|Zeynab Kaseb et.al.|[2505.13356v1](http://arxiv.org/abs/2505.13356v1)|**2025-05-19**|null|
-|**2025-05-19**|**J4R: Learning to Judge with Equivalent Initial State Group Relative Preference Optimization**|Austin Xu et.al.|[2505.13346v1](http://arxiv.org/abs/2505.13346v1)|**2025-05-19**|null|
+|**2025-05-19**|**J4R: Learning to Judge with Equivalent Initial State Group Relative Policy Optimization**|Austin Xu et.al.|[2505.13346v2](http://arxiv.org/abs/2505.13346v2)|**2025-05-20**|null|
 |**2025-05-19**|**RoPECraft: Training-Free Motion Transfer with Trajectory-Guided RoPE Optimization on Diffusion Transformers**|Ahmet Berke Gokmen et.al.|[2505.13344v1](http://arxiv.org/abs/2505.13344v1)|**2025-05-19**|null|
 |**2025-05-19**|**FAUST XXV. A potential new molecular outflow in [BHB2007] 11**|A. Martínez-Henares et.al.|[2505.13333v1](http://arxiv.org/abs/2505.13333v1)|**2025-05-19**|null|
 |**2025-05-19**|**Recommender Systems for Democracy: Toward Adversarial Robustness in Voting Advice Applications**|Frédéric Berdoz et.al.|[2505.13329v1](http://arxiv.org/abs/2505.13329v1)|**2025-05-19**|null|
@@ -28,7 +28,7 @@
 |**2025-05-19**|**Rational points on K3 surfaces of degree 2**|Júlia Martínez-Marín et.al.|[2505.13262v1](http://arxiv.org/abs/2505.13262v1)|**2025-05-19**|null|
 |**2025-05-19**|**RN-F: A Novel Approach for Mitigating Contaminated Data in Large Language Models**|Le Vu Anh et.al.|[2505.13249v1](http://arxiv.org/abs/2505.13249v1)|**2025-05-19**|null|
 |**2025-05-19**|**Did the Corona Borealis-A2142 supercluster binary-like system originate as a proto-cluster binary embedded in a primordial cloud of galaxies?**|Baiesi Pillastrini G. Carlo et.al.|[2505.13240v1](http://arxiv.org/abs/2505.13240v1)|**2025-05-19**|null|
-|**2025-05-19**|**A Geometry-Grounded Data Perimeter in Azure**|Christophe Parisel et.al.|[2505.13238v1](http://arxiv.org/abs/2505.13238v1)|**2025-05-19**|null|
+|**2025-05-19**|**A Geometry-Grounded Data Perimeter in Azure**|Christophe Parisel et.al.|[2505.13238v2](http://arxiv.org/abs/2505.13238v2)|**2025-05-20**|null|
 |**2025-05-19**|**From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection**|Lincan Cai et.al.|[2505.13233v1](http://arxiv.org/abs/2505.13233v1)|**2025-05-19**|[link](https://github.com/bit-da/abs)|
 |**2025-05-19**|**Scaling Computer-Use Grounding via User Interface Decomposition and Synthesis**|Tianbao Xie et.al.|[2505.13227v1](http://arxiv.org/abs/2505.13227v1)|**2025-05-19**|null|
 |**2025-05-19**|**Human Response to Decision Support in Face Matching: The Influence of Task Difficulty and Machine Accuracy**|Marina Estévez-Almenzar et.al.|[2505.13218v1](http://arxiv.org/abs/2505.13218v1)|**2025-05-19**|null|

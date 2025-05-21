@@ -22,7 +22,7 @@
 |**2025-05-19**|**DD-Ranking: Rethinking the Evaluation of Dataset Distillation**|Zekai Li et.al.|[2505.13300v1](http://arxiv.org/abs/2505.13300v1)|**2025-05-19**|[link](https://github.com/nus-hpc-ai-lab/dd-ranking)|
 |**2025-05-19**|**Inflight calibration of SRG/ART-XC point spread function at large off-axis angles**|R. Krivonos et.al.|[2505.13296v1](http://arxiv.org/abs/2505.13296v1)|**2025-05-19**|null|
 |**2025-05-19**|**TimeSeriesGym: A Scalable Benchmark for (Time Series) Machine Learning Engineering Agents**|Yifu Cai et.al.|[2505.13291v1](http://arxiv.org/abs/2505.13291v1)|**2025-05-19**|[link](https://github.com/moment-timeseries-foundation-model/timeseriesgym)|
-|**2025-05-19**|**Event-Driven Dynamic Scene Depth Completion**|Zhiqiang Yan et.al.|[2505.13279v1](http://arxiv.org/abs/2505.13279v1)|**2025-05-19**|null|
+|**2025-05-19**|**Event-Driven Dynamic Scene Depth Completion**|Zhiqiang Yan et.al.|[2505.13279v2](http://arxiv.org/abs/2505.13279v2)|**2025-05-20**|null|
 |**2025-05-19**|**CHAD-KG: A Knowledge Graph for Representing Cultural Heritage Objects and Digitisation Paradata**|Sebastian Barzaghi et.al.|[2505.13276v1](http://arxiv.org/abs/2505.13276v1)|**2025-05-19**|null|
 |**2025-05-19**|**Null-adjusted persistence function for high-resolution community detection**|Alessandro Avellone et.al.|[2505.13272v1](http://arxiv.org/abs/2505.13272v1)|**2025-05-19**|null|
 |**2025-05-19**|**Policy Contrastive Decoding for Robotic Foundation Models**|Shihan Wu et.al.|[2505.13255v1](http://arxiv.org/abs/2505.13255v1)|**2025-05-19**|[link](https://github.com/Koorye/PCD)|
