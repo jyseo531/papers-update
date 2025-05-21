@@ -2,33 +2,33 @@
 ### 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-19**|**Wonderings on Wiggly Bispectra: Non-linear Evolution and Reconstruction of Oscillations in the Squeezed Bispectrum**|Samuel Goldstein et.al.|[2505.13443v1](http://arxiv.org/abs/2505.13443v1)|**2025-05-19**|null|
-|**2025-05-19**|**Recollection from Pensieve: Novel View Synthesis via Learning from Uncalibrated Videos**|Ruoyu Wang et.al.|[2505.13440v1](http://arxiv.org/abs/2505.13440v1)|**2025-05-19**|[link](https://github.com/dwawayu/pensieve)|
-|**2025-05-19**|**VTBench: Evaluating Visual Tokenizers for Autoregressive Image Generation**|Huawei Lin et.al.|[2505.13439v1](http://arxiv.org/abs/2505.13439v1)|**2025-05-19**|[link](https://github.com/huawei-lin/VTBench)|
-|**2025-05-19**|**FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance**|Dian Shao et.al.|[2505.13437v1](http://arxiv.org/abs/2505.13437v1)|**2025-05-19**|null|
-|**2025-05-19**|**Faster Video Diffusion with Trainable Sparse Attention**|Peiyuan Zhang et.al.|[2505.13389v1](http://arxiv.org/abs/2505.13389v1)|**2025-05-19**|null|
-|**2025-05-19**|**Restoration Score Distillation: From Corrupted Diffusion Pretraining to One-Step High-Quality Generation**|Yasi Zhang et.al.|[2505.13377v1](http://arxiv.org/abs/2505.13377v1)|**2025-05-19**|null|
-|**2025-05-19**|**One-Step Offline Distillation of Diffusion-based Models via Koopman Modeling**|Nimrod Berman et.al.|[2505.13358v2](http://arxiv.org/abs/2505.13358v2)|**2025-05-20**|[link](https://github.com/azencot-group/kdm)|
-|**2025-05-19**|**Neural-Enhanced Rate Adaptation and Computation Distribution for Emerging mmWave Multi-User 3D Video Streaming Systems**|Babak Badnava et.al.|[2505.13337v1](http://arxiv.org/abs/2505.13337v1)|**2025-05-19**|null|
-|**2025-05-19**|**VesselGPT: Autoregressive Modeling of Vascular Geometry**|Paula Feldman et.al.|[2505.13318v1](http://arxiv.org/abs/2505.13318v1)|**2025-05-19**|null|
-|**2025-05-19**|**Denoising Diffusion Probabilistic Model for Point Cloud Compression at Low Bit-Rates**|Gabriele Spadaro et.al.|[2505.13316v1](http://arxiv.org/abs/2505.13316v1)|**2025-05-19**|[link](https://github.com/eidoslab/ddpm-pcc)|
-|**2025-05-19**|**Kinematic dynamos and resolution limits for Smoothed Particle Magnetohydrodynamics**|Nikyta Shchutskyi et.al.|[2505.13305v1](http://arxiv.org/abs/2505.13305v1)|**2025-05-19**|null|
-|**2025-05-19**|**Output behavior equivalence and simultaneous subspace identification of systems and faults**|Gabriel de Albuquerque Gleizer et.al.|[2505.13294v1](http://arxiv.org/abs/2505.13294v1)|**2025-05-19**|null|
-|**2025-05-19**|**Calibration-free single-frame super-resolution fluorescence microscopy**|Anežka Dostálová et.al.|[2505.13293v1](http://arxiv.org/abs/2505.13293v1)|**2025-05-19**|null|
-|**2025-05-19**|**RECON: Robust symmetry discovery via Explicit Canonical Orientation Normalization**|Alonso Urbano et.al.|[2505.13289v1](http://arxiv.org/abs/2505.13289v1)|**2025-05-19**|null|
-|**2025-05-19**|**DB3D-L: Depth-aware BEV Feature Transformation for Accurate 3D Lane Detection**|Yehao Liu et.al.|[2505.13266v1](http://arxiv.org/abs/2505.13266v1)|**2025-05-19**|null|
-|**2025-05-19**|**Joint Depth and Reflectivity Estimation using Single-Photon LiDAR**|Hashan K. Weerasooriya et.al.|[2505.13250v1](http://arxiv.org/abs/2505.13250v1)|**2025-05-19**|null|
-|**2025-05-19**|**Reconstructing Physics-Informed Machine Learning for Traffic Flow Modeling: a Multi-Gradient Descent and Pareto Learning Approach**|Yuan-Zheng Lei et.al.|[2505.13241v1](http://arxiv.org/abs/2505.13241v1)|**2025-05-19**|null|
-|**2025-05-19**|**Path signatures of ODE solutions**|Francesco Galuppi et.al.|[2505.13234v1](http://arxiv.org/abs/2505.13234v1)|**2025-05-19**|null|
-|**2025-05-19**|**Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation**|Seungjun Oh et.al.|[2505.13215v1](http://arxiv.org/abs/2505.13215v1)|**2025-05-19**|null|
-|**2025-05-19**|**MatPredict: a dataset and benchmark for learning material properties of diverse indoor objects**|Yuzhen Chen et.al.|[2505.13201v1](http://arxiv.org/abs/2505.13201v1)|**2025-05-19**|[link](https://github.com/arpan-kusari/matpredict)|
-|**2025-05-19**|**True Zero-Shot Inference of Dynamical Systems Preserving Long-Term Statistics**|Christoph Jürgen Hemmer et.al.|[2505.13192v1](http://arxiv.org/abs/2505.13192v1)|**2025-05-19**|null|
-|**2025-05-19**|**Higher fidelity perceptual image and video compression with a latent conditioned residual denoising diffusion model**|Jonas Brenig et.al.|[2505.13152v1](http://arxiv.org/abs/2505.13152v1)|**2025-05-19**|[link](https://github.com/jbrenig/rescdc)|
-|**2025-05-19**|**CacheFlow: Fast Human Motion Prediction by Cached Normalizing Flow**|Takahiro Maeda et.al.|[2505.13140v1](http://arxiv.org/abs/2505.13140v1)|**2025-05-19**|null|
-|**2025-05-19**|**Ocean wave spectrum reconstruction from HF radar data and its application to wave height estimation**|Kaede Watanabe et.al.|[2505.13132v1](http://arxiv.org/abs/2505.13132v1)|**2025-05-19**|null|
-|**2025-05-19**|**Lightweight Transformer via Unrolling of Mixed Graph Algorithms for Traffic Forecast**|Ji Qi et.al.|[2505.13102v1](http://arxiv.org/abs/2505.13102v1)|**2025-05-19**|[link](https://github.com/singularityundefined/unrolling-gsp-stforecast)|
-|**2025-05-19**|**Touch2Shape: Touch-Conditioned 3D Diffusion for Shape Exploration and Reconstruction**|Yuanbo Wang et.al.|[2505.13091v1](http://arxiv.org/abs/2505.13091v1)|**2025-05-19**|null|
-|**2025-05-19**|**Cross-modal feature fusion for robust point cloud registration with ambiguous geometry**|Zhaoyi Wang et.al.|[2505.13088v1](http://arxiv.org/abs/2505.13088v1)|**2025-05-19**|null|
-|**2025-05-19**|**Universal Semantic Disentangled Privacy-preserving Speech Representation Learning**|Biel Tura Vecino et.al.|[2505.13085v2](http://arxiv.org/abs/2505.13085v2)|**2025-05-20**|null|
-|**2025-05-19**|**Microscopic Ghost Imaging with a Tabletop XUV Source**|Sukyoon Oh et.al.|[2505.13075v1](http://arxiv.org/abs/2505.13075v1)|**2025-05-19**|null|
-|**2025-05-19**|**OmniFC: Rethinking Federated Clustering via Lossless and Secure Distance Reconstruction**|Jie Yan et.al.|[2505.13071v1](http://arxiv.org/abs/2505.13071v1)|**2025-05-19**|null|
+|**2025-05-20**|**Emerging Properties in Unified Multimodal Pretraining**|Chaorui Deng et.al.|[2505.14683v1](http://arxiv.org/abs/2505.14683v1)|**2025-05-20**|null|
+|**2025-05-20**|**CAD-Coder: An Open-Source Vision-Language Model for Computer-Aided Design Code Generation**|Anna C. Doris et.al.|[2505.14646v1](http://arxiv.org/abs/2505.14646v1)|**2025-05-20**|null|
+|**2025-05-20**|**Left-right splitting of elliptic flow in heavy ion collisions: TRENTo-3D initialization and CLVisc hydrodynamic simulations**|Ze-Fang Jiang et.al.|[2505.14637v1](http://arxiv.org/abs/2505.14637v1)|**2025-05-20**|null|
+|**2025-05-20**|**Three-dimensional Arbitrary Electromagnetic Fields and Temporal Propagation**|Jordan M. Adams et.al.|[2505.14636v1](http://arxiv.org/abs/2505.14636v1)|**2025-05-20**|null|
+|**2025-05-20**|**3D Reconstruction from Sketches**|Abhimanyu Talwar et.al.|[2505.14621v1](http://arxiv.org/abs/2505.14621v1)|**2025-05-20**|null|
+|**2025-05-20**|**Physics-informed Reduced Order Modeling of Time-dependent PDEs via Differentiable Solvers**|Nima Hosseini Dashtbayaz et.al.|[2505.14595v1](http://arxiv.org/abs/2505.14595v1)|**2025-05-20**|null|
+|**2025-05-20**|**Instance Segmentation for Point Sets**|Abhimanyu Talwar et.al.|[2505.14583v1](http://arxiv.org/abs/2505.14583v1)|**2025-05-20**|null|
+|**2025-05-20**|**Structural States of Filamentary Microgravity Dusty Plasma**|Emerson Gehr et.al.|[2505.14576v1](http://arxiv.org/abs/2505.14576v1)|**2025-05-20**|null|
+|**2025-05-20**|**Extending orbital-optimized density functional theory to L-edge XPS and beyond: Spin-orbit coupling via non-orthogonal quasi-degenerate perturbation theory**|Richard Kang et.al.|[2505.14570v1](http://arxiv.org/abs/2505.14570v1)|**2025-05-20**|null|
+|**2025-05-20**|**Dynadiff: Single-stage Decoding of Images from Continuously Evolving fMRI**|Marlène Careil et.al.|[2505.14556v1](http://arxiv.org/abs/2505.14556v1)|**2025-05-20**|[link](https://github.com/facebookresearch/dynadiff)|
+|**2025-05-20**|**Global Maxwell Tomography Using the Volume-Surface Integral Equation for Improved Estimation of Electrical Properties**|Ilias Giannakopoulos et.al.|[2505.14546v1](http://arxiv.org/abs/2505.14546v1)|**2025-05-20**|null|
+|**2025-05-20**|**Personalize Your Gaussian: Consistent 3D Scene Personalization from a Single Image**|Yuxuan Wang et.al.|[2505.14537v1](http://arxiv.org/abs/2505.14537v1)|**2025-05-20**|null|
+|**2025-05-20**|**SparC: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling**|Zhihao Li et.al.|[2505.14521v1](http://arxiv.org/abs/2505.14521v1)|**2025-05-20**|null|
+|**2025-05-20**|**A Direct Comparison of Simultaneously Recorded Scalp, Around-Ear, and In-Ear EEG for Neural Selective Auditory Attention Decoding to Speech**|Simon Geirnaert et.al.|[2505.14478v1](http://arxiv.org/abs/2505.14478v1)|**2025-05-20**|null|
+|**2025-05-20**|**PAST: Phonetic-Acoustic Speech Tokenizer**|Nadav Har-Tuv et.al.|[2505.14470v1](http://arxiv.org/abs/2505.14470v1)|**2025-05-20**|null|
+|**2025-05-20**|**FlowTSE: Target Speaker Extraction with Flow Matching**|Aviv Navon et.al.|[2505.14465v1](http://arxiv.org/abs/2505.14465v1)|**2025-05-20**|null|
+|**2025-05-20**|**phaser: An all-in-one package for (multislice) electron ptychography**|Colin Gilgenbach et.al.|[2505.14372v1](http://arxiv.org/abs/2505.14372v1)|**2025-05-20**|null|
+|**2025-05-20**|**Dual Data Alignment Makes AI-Generated Image Detector Easier Generalizable**|Ruoxin Chen et.al.|[2505.14359v1](http://arxiv.org/abs/2505.14359v1)|**2025-05-20**|null|
+|**2025-05-20**|**WirelessMathBench: A Mathematical Modeling Benchmark for LLMs in Wireless Communications**|Xin Li et.al.|[2505.14354v1](http://arxiv.org/abs/2505.14354v1)|**2025-05-20**|null|
+|**2025-05-20**|**Egocentric Action-aware Inertial Localization in Point Clouds**|Mingfang Zhang et.al.|[2505.14346v1](http://arxiv.org/abs/2505.14346v1)|**2025-05-20**|[link](https://github.com/mf-zhang/ego-inertial-localization)|
+|**2025-05-20**|**TF-Mamba: Text-enhanced Fusion Mamba with Missing Modalities for Robust Multimodal Sentiment Analysis**|Xiang Li et.al.|[2505.14329v1](http://arxiv.org/abs/2505.14329v1)|**2025-05-20**|null|
+|**2025-05-20**|**From Metadata to Storytelling: A Framework For 3D Cultural Heritage Visualization on RDF Data**|Sebastian Barzaghi et.al.|[2505.14328v1](http://arxiv.org/abs/2505.14328v1)|**2025-05-20**|null|
+|**2025-05-20**|**Vulnerability of Transfer-Learned Neural Networks to Data Reconstruction Attacks in Small-Data Regime**|Tomasz Maciążek et.al.|[2505.14323v1](http://arxiv.org/abs/2505.14323v1)|**2025-05-20**|null|
+|**2025-05-20**|**A Remeshing Method via Adaptive Multiple Original-Facet-Clipping and Centroidal Voronoi Tessellation**|Yue Fei et.al.|[2505.14306v1](http://arxiv.org/abs/2505.14306v1)|**2025-05-20**|null|
+|**2025-05-20**|**Localization versus hybridization of $f$ states in actinide and lanthanide dioxides probed in core-level photoemission spectra**|Sergei M. Butorin et.al.|[2505.14284v1](http://arxiv.org/abs/2505.14284v1)|**2025-05-20**|null|
+|**2025-05-20**|**3D matter power spectrum correspondence to 1D Lyman-alpha flux power spectrum**|Ivan Ridkokasha et.al.|[2505.14258v1](http://arxiv.org/abs/2505.14258v1)|**2025-05-20**|null|
+|**2025-05-20**|**ABBA: Highly Expressive Hadamard Product Adaptation for Large Language Models**|Raghav Singhal et.al.|[2505.14238v1](http://arxiv.org/abs/2505.14238v1)|**2025-05-20**|[link](https://github.com/cert-lab/abba)|
+|**2025-05-20**|**MatchDance: Collaborative Mamba-Transformer Architecture Matching for High-Quality 3D Dance Synthesis**|Kaixing Yang et.al.|[2505.14222v1](http://arxiv.org/abs/2505.14222v1)|**2025-05-20**|null|
+|**2025-05-20**|**A marching cubes based method for topology changes in three-dimensional two-phase flows with front tracking**|Gabriele Gennari et.al.|[2505.14210v1](http://arxiv.org/abs/2505.14210v1)|**2025-05-20**|null|
+|**2025-05-20**|**Prime order torsion on elliptic curves over number fields. Part I: Asymptotics**|Maarten Derickx et.al.|[2505.14109v1](http://arxiv.org/abs/2505.14109v1)|**2025-05-20**|null|

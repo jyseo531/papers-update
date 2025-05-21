@@ -2,33 +2,33 @@
 ### Semantic Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-19**|**GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation**|Abhay Deshpande et.al.|[2505.13441v1](http://arxiv.org/abs/2505.13441v1)|**2025-05-19**|null|
-|**2025-05-19**|**VTBench: Evaluating Visual Tokenizers for Autoregressive Image Generation**|Huawei Lin et.al.|[2505.13439v1](http://arxiv.org/abs/2505.13439v1)|**2025-05-19**|[link](https://github.com/huawei-lin/VTBench)|
-|**2025-05-19**|**FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance**|Dian Shao et.al.|[2505.13437v1](http://arxiv.org/abs/2505.13437v1)|**2025-05-19**|null|
-|**2025-05-19**|**Make Still Further Progress: Chain of Thoughts for Tabular Data Leaderboard**|Si-Yang Liu et.al.|[2505.13421v1](http://arxiv.org/abs/2505.13421v1)|**2025-05-19**|null|
-|**2025-05-19**|**GuidedMorph: Two-Stage Deformable Registration for Breast MRI**|Yaqian Chen et.al.|[2505.13414v1](http://arxiv.org/abs/2505.13414v1)|**2025-05-19**|null|
-|**2025-05-19**|**Granary: Speech Recognition and Translation Dataset in 25 European Languages**|Nithin Rao Koluguri et.al.|[2505.13404v1](http://arxiv.org/abs/2505.13404v1)|**2025-05-19**|null|
-|**2025-05-19**|**One-Step Offline Distillation of Diffusion-based Models via Koopman Modeling**|Nimrod Berman et.al.|[2505.13358v2](http://arxiv.org/abs/2505.13358v2)|**2025-05-20**|[link](https://github.com/azencot-group/kdm)|
-|**2025-05-19**|**Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Reasoning**|Adam Štorek et.al.|[2505.13353v2](http://arxiv.org/abs/2505.13353v2)|**2025-05-20**|null|
-|**2025-05-19**|**Benchmarking Unified Face Attack Detection via Hierarchical Prompt Tuning**|Ajian Liu et.al.|[2505.13327v2](http://arxiv.org/abs/2505.13327v2)|**2025-05-20**|null|
-|**2025-05-19**|**Unlabeled Data or Pre-trained Model: Rethinking Semi-Supervised Learning and Pretrain-Finetuning**|Song-Lin Li et.al.|[2505.13317v2](http://arxiv.org/abs/2505.13317v2)|**2025-05-20**|null|
-|**2025-05-19**|**GUARD: Generation-time LLM Unlearning via Adaptive Restriction and Detection**|Zhijie Deng et.al.|[2505.13312v1](http://arxiv.org/abs/2505.13312v1)|**2025-05-19**|null|
-|**2025-05-19**|**GMM-Based Comprehensive Feature Extraction and Relative Distance Preservation For Few-Shot Cross-Modal Retrieval**|Chengsong Sun et.al.|[2505.13306v1](http://arxiv.org/abs/2505.13306v1)|**2025-05-19**|null|
-|**2025-05-19**|**Cross-Cloud Data Privacy Protection: Optimizing Collaborative Mechanisms of AI Systems by Integrating Federated Learning and LLMs**|Huaiying Luo et.al.|[2505.13292v1](http://arxiv.org/abs/2505.13292v1)|**2025-05-19**|null|
-|**2025-05-19**|**CHAD-KG: A Knowledge Graph for Representing Cultural Heritage Objects and Digitisation Paradata**|Sebastian Barzaghi et.al.|[2505.13276v1](http://arxiv.org/abs/2505.13276v1)|**2025-05-19**|null|
-|**2025-05-19**|**JNLP at SemEval-2025 Task 11: Cross-Lingual Multi-Label Emotion Detection Using Generative Models**|Jieying Xue et.al.|[2505.13244v1](http://arxiv.org/abs/2505.13244v1)|**2025-05-19**|[link](https://github.com/yingjie7/mlingual_multilabel_emo_detection)|
-|**2025-05-19**|**From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection**|Lincan Cai et.al.|[2505.13233v1](http://arxiv.org/abs/2505.13233v1)|**2025-05-19**|[link](https://github.com/bit-da/abs)|
-|**2025-05-19**|**RB-SCD: A New Benchmark for Semantic Change Detection of Roads and Bridges in Traffic Scenes**|Qingling Shu et.al.|[2505.13212v1](http://arxiv.org/abs/2505.13212v1)|**2025-05-19**|null|
-|**2025-05-19**|**MAGI-1: Autoregressive Video Generation at Scale**|Sand. ai et.al.|[2505.13211v1](http://arxiv.org/abs/2505.13211v1)|**2025-05-19**|[link](https://github.com/sandai-org/magiattention)|
-|**2025-05-19**|**Enhancing LLMs for Time Series Forecasting via Structure-Guided Cross-Modal Alignment**|Siming Sun et.al.|[2505.13175v1](http://arxiv.org/abs/2505.13175v1)|**2025-05-19**|null|
-|**2025-05-19**|**FlowCut: Unsupervised Video Instance Segmentation via Temporal Mask Matching**|Alp Eren Sari et.al.|[2505.13174v1](http://arxiv.org/abs/2505.13174v1)|**2025-05-19**|null|
-|**2025-05-19**|**MXDOTP: A RISC-V ISA Extension for Enabling Microscaling (MX) Floating-Point Dot Products**|Gamze İslamoğlu et.al.|[2505.13159v1](http://arxiv.org/abs/2505.13159v1)|**2025-05-19**|null|
-|**2025-05-19**|**Prink: $k_s$-Anonymization for Streaming Data in Apache Flink**|Philip Groneberg et.al.|[2505.13153v1](http://arxiv.org/abs/2505.13153v1)|**2025-05-19**|null|
-|**2025-05-19**|**Understanding Cross-Lingual Inconsistency in Large Language Models**|Zheng Wei Lim et.al.|[2505.13141v1](http://arxiv.org/abs/2505.13141v1)|**2025-05-19**|null|
-|**2025-05-19**|**Optimizing Retrieval Augmented Generation for Object Constraint Language**|Kevin Chenhao Li et.al.|[2505.13129v1](http://arxiv.org/abs/2505.13129v1)|**2025-05-19**|null|
-|**2025-05-19**|**Adaptive Image Restoration for Video Surveillance: A Real-Time Approach**|Muhammad Awais Amin et.al.|[2505.13130v1](http://arxiv.org/abs/2505.13130v1)|**2025-05-19**|null|
-|**2025-05-19**|**Benchmarking and Confidence Evaluation of LALMs For Temporal Reasoning**|Debarpan Bhattacharya et.al.|[2505.13115v1](http://arxiv.org/abs/2505.13115v1)|**2025-05-19**|null|
-|**2025-05-19**|**Time series saliency maps: explaining models across multiple domains**|Christodoulos Kechris et.al.|[2505.13100v1](http://arxiv.org/abs/2505.13100v1)|**2025-05-19**|null|
-|**2025-05-19**|**Industrial Synthetic Segment Pre-training**|Shinichi Mae et.al.|[2505.13099v2](http://arxiv.org/abs/2505.13099v2)|**2025-05-20**|null|
-|**2025-05-19**|**LLM-KG-Bench 3.0: A Compass for SemanticTechnology Capabilities in the Ocean of LLMs**|Lars-Peter Meyer et.al.|[2505.13098v1](http://arxiv.org/abs/2505.13098v1)|**2025-05-19**|[link](https://github.com/aksw/llm-kg-bench)|
-|**2025-05-19**|**Systematic Generalization in Language Models Scales with Information Entropy**|Sondre Wold et.al.|[2505.13089v1](http://arxiv.org/abs/2505.13089v1)|**2025-05-19**|null|
+|**2025-05-20**|**UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation**|Rui Tian et.al.|[2505.14682v1](http://arxiv.org/abs/2505.14682v1)|**2025-05-20**|null|
+|**2025-05-20**|**UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens**|Ruichuan An et.al.|[2505.14671v1](http://arxiv.org/abs/2505.14671v1)|**2025-05-20**|null|
+|**2025-05-20**|**Abacus: A Cost-Based Optimizer for Semantic Operator Systems**|Matthew Russo et.al.|[2505.14661v1](http://arxiv.org/abs/2505.14661v1)|**2025-05-20**|null|
+|**2025-05-20**|**VideoEval-Pro: Robust and Realistic Long Video Understanding Evaluation**|Wentao Ma et.al.|[2505.14640v1](http://arxiv.org/abs/2505.14640v1)|**2025-05-20**|null|
+|**2025-05-20**|**Instance Segmentation for Point Sets**|Abhimanyu Talwar et.al.|[2505.14583v1](http://arxiv.org/abs/2505.14583v1)|**2025-05-20**|null|
+|**2025-05-20**|**Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning**|Shangziqi Zhao et.al.|[2505.14582v1](http://arxiv.org/abs/2505.14582v1)|**2025-05-20**|null|
+|**2025-05-20**|**Measuring spin precession from massive black holes binaries with gravitational waves: insights from time-domain signal morphology**|Simona J. Miller et.al.|[2505.14573v1](http://arxiv.org/abs/2505.14573v1)|**2025-05-20**|null|
+|**2025-05-20**|**Automated Fetal Biometry Assessment with Deep Ensembles using Sparse-Sampling of 2D Intrapartum Ultrasound Images**|Jayroop Ramesh et.al.|[2505.14572v1](http://arxiv.org/abs/2505.14572v1)|**2025-05-20**|null|
+|**2025-05-20**|**Representation Learning for Semantic Alignment of Language, Audio, and Visual Modalities**|Parthasaarathy Sudarsanam et.al.|[2505.14562v1](http://arxiv.org/abs/2505.14562v1)|**2025-05-20**|null|
+|**2025-05-20**|**R2MED: A Benchmark for Reasoning-Driven Medical Retrieval**|Lei Li et.al.|[2505.14558v1](http://arxiv.org/abs/2505.14558v1)|**2025-05-20**|[link](https://github.com/R2MED/R2MED)|
+|**2025-05-20**|**Dynadiff: Single-stage Decoding of Images from Continuously Evolving fMRI**|Marlène Careil et.al.|[2505.14556v1](http://arxiv.org/abs/2505.14556v1)|**2025-05-20**|[link](https://github.com/facebookresearch/dynadiff)|
+|**2025-05-20**|**Exploring Graph Representations of Logical Forms for Language Modeling**|Michael Sullivan et.al.|[2505.14523v1](http://arxiv.org/abs/2505.14523v1)|**2025-05-20**|null|
+|**2025-05-20**|**ReservoirTTA: Prolonged Test-time Adaptation for Evolving and Recurring Domains**|Guillaume Vray et.al.|[2505.14511v1](http://arxiv.org/abs/2505.14511v1)|**2025-05-20**|null|
+|**2025-05-20**|**Regularity of the volume function**|Junyu Cao et.al.|[2505.14495v1](http://arxiv.org/abs/2505.14495v1)|**2025-05-20**|null|
+|**2025-05-20**|**Logical relations for call-by-push-value models, via internal fibrations in a 2-category**|Pedro H. Azevedo de Amorim et.al.|[2505.14482v1](http://arxiv.org/abs/2505.14482v1)|**2025-05-20**|null|
+|**2025-05-20**|**CtrlDiff: Boosting Large Diffusion Language Models with Dynamic Block Prediction and Controllable Generation**|Chihan Huang et.al.|[2505.14455v1](http://arxiv.org/abs/2505.14455v1)|**2025-05-20**|null|
+|**2025-05-20**|**Semantically-driven Deep Reinforcement Learning for Inspection Path Planning**|Grzegorz Malczyk et.al.|[2505.14443v1](http://arxiv.org/abs/2505.14443v1)|**2025-05-20**|null|
+|**2025-05-20**|**Building Reuse-Sensitive Control Flow Graphs (CFGs) for EVM Bytecode**|Dingding Wang et.al.|[2505.14437v1](http://arxiv.org/abs/2505.14437v1)|**2025-05-20**|null|
+|**2025-05-20**|**Table Foundation Models: on knowledge pre-training for tabular learning**|Myung Jun Kim et.al.|[2505.14415v1](http://arxiv.org/abs/2505.14415v1)|**2025-05-20**|null|
+|**2025-05-20**|**PRL: Prompts from Reinforcement Learning**|Paweł Batorski et.al.|[2505.14412v1](http://arxiv.org/abs/2505.14412v1)|**2025-05-20**|null|
+|**2025-05-20**|**Unearthing Gems from Stones: Policy Optimization with Negative Sample Augmentation for LLM Reasoning**|Zhaohui Yang et.al.|[2505.14403v1](http://arxiv.org/abs/2505.14403v1)|**2025-05-20**|null|
+|**2025-05-20**|**SCAN: Semantic Document Layout Analysis for Textual and Visual Retrieval-Augmented Generation**|Yuyang Dong et.al.|[2505.14381v1](http://arxiv.org/abs/2505.14381v1)|**2025-05-20**|null|
+|**2025-05-20**|**Dual Data Alignment Makes AI-Generated Image Detector Easier Generalizable**|Ruoxin Chen et.al.|[2505.14359v1](http://arxiv.org/abs/2505.14359v1)|**2025-05-20**|null|
+|**2025-05-20**|**TF-Mamba: Text-enhanced Fusion Mamba with Missing Modalities for Robust Multimodal Sentiment Analysis**|Xiang Li et.al.|[2505.14329v1](http://arxiv.org/abs/2505.14329v1)|**2025-05-20**|null|
+|**2025-05-20**|**From Metadata to Storytelling: A Framework For 3D Cultural Heritage Visualization on RDF Data**|Sebastian Barzaghi et.al.|[2505.14328v1](http://arxiv.org/abs/2505.14328v1)|**2025-05-20**|null|
+|**2025-05-20**|**Breaking Down Video LLM Benchmarks: Knowledge, Spatial Perception, or True Temporal Understanding?**|Bo Feng et.al.|[2505.14321v1](http://arxiv.org/abs/2505.14321v1)|**2025-05-20**|null|
+|**2025-05-20**|**Exploring Jailbreak Attacks on LLMs through Intent Concealment and Diversion**|Tiehan Cui et.al.|[2505.14316v1](http://arxiv.org/abs/2505.14316v1)|**2025-05-20**|null|
+|**2025-05-20**|**Universal Acoustic Adversarial Attacks for Flexible Control of Speech-LLMs**|Rao Ma et.al.|[2505.14286v1](http://arxiv.org/abs/2505.14286v1)|**2025-05-20**|null|
+|**2025-05-20**|**RA-Touch: Retrieval-Augmented Touch Understanding with Enriched Visual Data**|Yoorhim Cho et.al.|[2505.14270v1](http://arxiv.org/abs/2505.14270v1)|**2025-05-20**|null|
+|**2025-05-20**|**Strong convergence in the infinite horizon of numerical methods for stochastic delay differential equations**|Yudong Wang et.al.|[2505.14262v1](http://arxiv.org/abs/2505.14262v1)|**2025-05-20**|null|

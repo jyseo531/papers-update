@@ -2,33 +2,33 @@
 ### Multi-modal
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-19**|**SMOTExT: SMOTE meets Large Language Models**|Mateusz Bystroński et.al.|[2505.13434v1](http://arxiv.org/abs/2505.13434v1)|**2025-05-19**|null|
-|**2025-05-19**|**Contextual Paralinguistic Data Creation for Multi-Modal Speech-LLM: Data Condensation and Spoken QA Generation**|Qiongqiong Wang et.al.|[2505.13338v1](http://arxiv.org/abs/2505.13338v1)|**2025-05-19**|null|
-|**2025-05-19**|**GMM-Based Comprehensive Feature Extraction and Relative Distance Preservation For Few-Shot Cross-Modal Retrieval**|Chengsong Sun et.al.|[2505.13306v1](http://arxiv.org/abs/2505.13306v1)|**2025-05-19**|null|
-|**2025-05-19**|**RBF++: Quantifying and Optimizing Reasoning Boundaries across Measurable and Unmeasurable Capabilities for Chain-of-Thought Reasoning**|Qiguang Chen et.al.|[2505.13307v1](http://arxiv.org/abs/2505.13307v1)|**2025-05-19**|[link](https://github.com/lightchen233/reasoning-boundary)|
-|**2025-05-19**|**TimeSeriesGym: A Scalable Benchmark for (Time Series) Machine Learning Engineering Agents**|Yifu Cai et.al.|[2505.13291v1](http://arxiv.org/abs/2505.13291v1)|**2025-05-19**|[link](https://github.com/moment-timeseries-foundation-model/timeseriesgym)|
-|**2025-05-19**|**Event-Driven Dynamic Scene Depth Completion**|Zhiqiang Yan et.al.|[2505.13279v2](http://arxiv.org/abs/2505.13279v2)|**2025-05-20**|null|
-|**2025-05-19**|**Unlocking the Potential of Difficulty Prior in RL-based Multimodal Reasoning**|Mingrui Chen et.al.|[2505.13261v1](http://arxiv.org/abs/2505.13261v1)|**2025-05-19**|null|
-|**2025-05-19**|**Joint Depth and Reflectivity Estimation using Single-Photon LiDAR**|Hashan K. Weerasooriya et.al.|[2505.13250v1](http://arxiv.org/abs/2505.13250v1)|**2025-05-19**|null|
-|**2025-05-19**|**Conformalized Decision Risk Assessment**|Wenbin Zhou et.al.|[2505.13243v1](http://arxiv.org/abs/2505.13243v1)|**2025-05-19**|null|
-|**2025-05-19**|**Enhancing LLMs for Time Series Forecasting via Structure-Guided Cross-Modal Alignment**|Siming Sun et.al.|[2505.13175v1](http://arxiv.org/abs/2505.13175v1)|**2025-05-19**|null|
-|**2025-05-19**|**Just Dance with $π$! A Poly-modal Inductor for Weakly-supervised Video Anomaly Detection**|Snehashis Majhi et.al.|[2505.13123v1](http://arxiv.org/abs/2505.13123v1)|**2025-05-19**|null|
-|**2025-05-19**|**Benchmarking and Confidence Evaluation of LALMs For Temporal Reasoning**|Debarpan Bhattacharya et.al.|[2505.13115v1](http://arxiv.org/abs/2505.13115v1)|**2025-05-19**|null|
-|**2025-05-19**|**Cross-modal feature fusion for robust point cloud registration with ambiguous geometry**|Zhaoyi Wang et.al.|[2505.13088v1](http://arxiv.org/abs/2505.13088v1)|**2025-05-19**|null|
-|**2025-05-19**|**Walking the Tightrope: Disentangling Beneficial and Detrimental Drifts in Non-Stationary Custom-Tuning**|Xiaoyu Yang et.al.|[2505.13081v1](http://arxiv.org/abs/2505.13081v1)|**2025-05-19**|null|
-|**2025-05-19**|**Cross-modal Knowledge Transfer Learning as Graph Matching Based on Optimal Transport for ASR**|Xugang Lu et.al.|[2505.13079v1](http://arxiv.org/abs/2505.13079v1)|**2025-05-19**|null|
-|**2025-05-19**|**Suicide Risk Assessment Using Multimodal Speech Features: A Study on the SW1 Challenge Dataset**|Ambre Marie et.al.|[2505.13069v1](http://arxiv.org/abs/2505.13069v1)|**2025-05-19**|null|
-|**2025-05-19**|**Hearing from Silence: Reasoning Audio Descriptions from Silent Videos via Vision-Language Model**|Yong Ren et.al.|[2505.13062v1](http://arxiv.org/abs/2505.13062v1)|**2025-05-19**|null|
-|**2025-05-19**|**MMAR: A Challenging Benchmark for Deep Reasoning in Speech, Audio, Music, and Their Mix**|Ziyang Ma et.al.|[2505.13032v1](http://arxiv.org/abs/2505.13032v1)|**2025-05-19**|[link](https://github.com/ddlbojack/mmar)|
-|**2025-05-19**|**A Skull-Adaptive Framework for AI-Based 3D Transcranial Focused Ultrasound Simulation**|Vinkle Srivastav et.al.|[2505.12998v1](http://arxiv.org/abs/2505.12998v1)|**2025-05-19**|[link](https://github.com/camma-public/tfuscapes)|
-|**2025-05-19**|**Multiscale Adaptive Conflict-Balancing Model For Multimedia Deepfake Detection**|Zihan Xiong et.al.|[2505.12966v1](http://arxiv.org/abs/2505.12966v1)|**2025-05-19**|null|
-|**2025-05-19**|**Interpolation for the two-way modal mu-calculus**|Johannes Kloibhofer et.al.|[2505.12899v1](http://arxiv.org/abs/2505.12899v1)|**2025-05-19**|null|
-|**2025-05-19**|**TinyAlign: Boosting Lightweight Vision-Language Models by Mitigating Modal Alignment Bottlenecks**|Yuanze Hu et.al.|[2505.12884v1](http://arxiv.org/abs/2505.12884v1)|**2025-05-19**|null|
-|**2025-05-19**|**Spline Dimensional Decomposition with Interpolation-based Optimal Knot Selection for Stochastic Dynamic Analysis**|Yeonsu Kim et.al.|[2505.12879v1](http://arxiv.org/abs/2505.12879v1)|**2025-05-19**|null|
-|**2025-05-19**|**Unified Cross-modal Translation of Score Images, Symbolic Music, and Performance Audio**|Jongmin Jung et.al.|[2505.12863v1](http://arxiv.org/abs/2505.12863v1)|**2025-05-19**|null|
-|**2025-05-19**|**Robust Multimodal Segmentation with Representation Regularization and Hybrid Prototype Distillation**|Jiaqi Tan et.al.|[2505.12861v1](http://arxiv.org/abs/2505.12861v1)|**2025-05-19**|[link](https://github.com/robustseg/robustseg)|
-|**2025-05-19**|**The Modal Cube Revisited: Semantics without Worlds**|Renato Leme et.al.|[2505.12824v1](http://arxiv.org/abs/2505.12824v1)|**2025-05-19**|null|
-|**2025-05-19**|**FRAbench and GenEval: Scaling Fine-Grained Aspect Evaluation across Tasks, Modalities**|Shibo Hong et.al.|[2505.12795v1](http://arxiv.org/abs/2505.12795v1)|**2025-05-19**|[link](https://github.com/gsfsdv/frabench-and-geneval)|
-|**2025-05-19**|**UniHM: Universal Human Motion Generation with Object Interactions in Indoor Scenes**|Zichen Geng et.al.|[2505.12774v1](http://arxiv.org/abs/2505.12774v1)|**2025-05-19**|null|
-|**2025-05-19**|**Bridging the Modality Gap: Enhancing Channel Prediction with Semantically Aligned LLMs and Knowledge Distillation**|Zhaoyang Li et.al.|[2505.12729v1](http://arxiv.org/abs/2505.12729v1)|**2025-05-19**|null|
-|**2025-05-19**|**VLC Fusion: Vision-Language Conditioned Sensor Fusion for Robust Object Detection**|Aditya Taparia et.al.|[2505.12715v1](http://arxiv.org/abs/2505.12715v1)|**2025-05-19**|null|
+|**2025-05-20**|**AKRMap: Adaptive Kernel Regression for Trustworthy Visualization of Cross-Modal Embeddings**|Yilin Ye et.al.|[2505.14664v1](http://arxiv.org/abs/2505.14664v1)|**2025-05-20**|null|
+|**2025-05-20**|**Abacus: A Cost-Based Optimizer for Semantic Operator Systems**|Matthew Russo et.al.|[2505.14661v1](http://arxiv.org/abs/2505.14661v1)|**2025-05-20**|null|
+|**2025-05-20**|**Debating for Better Reasoning: An Unsupervised Multimodal Approach**|Ashutosh Adhikari et.al.|[2505.14627v1](http://arxiv.org/abs/2505.14627v1)|**2025-05-20**|null|
+|**2025-05-20**|**Towards a Foundation Model for Communication Systems**|Davide Buffelli et.al.|[2505.14603v1](http://arxiv.org/abs/2505.14603v1)|**2025-05-20**|null|
+|**2025-05-20**|**Representation Learning for Semantic Alignment of Language, Audio, and Visual Modalities**|Parthasaarathy Sudarsanam et.al.|[2505.14562v1](http://arxiv.org/abs/2505.14562v1)|**2025-05-20**|null|
+|**2025-05-20**|**KORGym: A Dynamic Game Platform for LLM Reasoning Evaluation**|Jiajun Shi et.al.|[2505.14552v1](http://arxiv.org/abs/2505.14552v1)|**2025-05-20**|null|
+|**2025-05-20**|**A Logic of General Attention Using Edge-Conditioned Event Models (Extended Version)**|Gaia Belardinelli et.al.|[2505.14539v1](http://arxiv.org/abs/2505.14539v1)|**2025-05-20**|null|
+|**2025-05-20**|**Spiking Neural Networks with Temporal Attention-Guided Adaptive Fusion for imbalanced Multi-modal Learning**|Jiangrong Shen et.al.|[2505.14535v1](http://arxiv.org/abs/2505.14535v1)|**2025-05-20**|null|
+|**2025-05-20**|**SparC: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling**|Zhihao Li et.al.|[2505.14521v1](http://arxiv.org/abs/2505.14521v1)|**2025-05-20**|null|
+|**2025-05-20**|**ModRWKV: Transformer Multimodality in Linear Time**|Jiale Kang et.al.|[2505.14505v1](http://arxiv.org/abs/2505.14505v1)|**2025-05-20**|null|
+|**2025-05-20**|**Enhanced Multimodal Aspect-Based Sentiment Analysis by LLM-Generated Rationales**|Jun Cao et.al.|[2505.14499v1](http://arxiv.org/abs/2505.14499v1)|**2025-05-20**|null|
+|**2025-05-20**|**Explaining Neural Networks with Reasons**|Levin Hornischer et.al.|[2505.14424v1](http://arxiv.org/abs/2505.14424v1)|**2025-05-20**|null|
+|**2025-05-20**|**Investigating and Enhancing the Robustness of Large Multimodal Models Against Temporal Inconsistency**|Jiafeng Liang et.al.|[2505.14405v1](http://arxiv.org/abs/2505.14405v1)|**2025-05-20**|null|
+|**2025-05-20**|**Vision-Language Modeling Meets Remote Sensing: Models, Datasets and Perspectives**|Xingxing Weng et.al.|[2505.14361v1](http://arxiv.org/abs/2505.14361v1)|**2025-05-20**|null|
+|**2025-05-20**|**Egocentric Action-aware Inertial Localization in Point Clouds**|Mingfang Zhang et.al.|[2505.14346v1](http://arxiv.org/abs/2505.14346v1)|**2025-05-20**|[link](https://github.com/mf-zhang/ego-inertial-localization)|
+|**2025-05-20**|**Plane Geometry Problem Solving with Multi-modal Reasoning: A Survey**|Seunghyuk Cho et.al.|[2505.14340v1](http://arxiv.org/abs/2505.14340v1)|**2025-05-20**|null|
+|**2025-05-20**|**Scaling and Enhancing LLM-based AVSR: A Sparse Mixture of Projectors Approach**|Umberto Cappellazzo et.al.|[2505.14336v1](http://arxiv.org/abs/2505.14336v1)|**2025-05-20**|null|
+|**2025-05-20**|**TF-Mamba: Text-enhanced Fusion Mamba with Missing Modalities for Robust Multimodal Sentiment Analysis**|Xiang Li et.al.|[2505.14329v1](http://arxiv.org/abs/2505.14329v1)|**2025-05-20**|null|
+|**2025-05-20**|**Breaking Down Video LLM Benchmarks: Knowledge, Spatial Perception, or True Temporal Understanding?**|Bo Feng et.al.|[2505.14321v1](http://arxiv.org/abs/2505.14321v1)|**2025-05-20**|null|
+|**2025-05-20**|**Visual Agentic Reinforcement Fine-Tuning**|Ziyu Liu et.al.|[2505.14246v1](http://arxiv.org/abs/2505.14246v1)|**2025-05-20**|[link](https://github.com/liuziyu77/visual-rft)|
+|**2025-05-20**|**UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning**|Sule Bai et.al.|[2505.14231v1](http://arxiv.org/abs/2505.14231v1)|**2025-05-20**|null|
+|**2025-05-20**|**Challenges and Limitations in the Synthetic Generation of mHealth Sensor Data**|Flavio Di Martino et.al.|[2505.14206v1](http://arxiv.org/abs/2505.14206v1)|**2025-05-20**|null|
+|**2025-05-20**|**MSDformer: Multi-scale Discrete Transformer For Time Series Generation**|Zhicheng Chen et.al.|[2505.14202v1](http://arxiv.org/abs/2505.14202v1)|**2025-05-20**|null|
+|**2025-05-20**|**Towards Omnidirectional Reasoning with 360-R1: A Dataset, Benchmark, and GRPO-based Method**|Xinshen Zhang et.al.|[2505.14197v1](http://arxiv.org/abs/2505.14197v1)|**2025-05-20**|null|
+|**2025-05-20**|**M3Depth: Wavelet-Enhanced Depth Estimation on Mars via Mutual Boosting of Dual-Modal Data**|Junjie Li et.al.|[2505.14159v1](http://arxiv.org/abs/2505.14159v1)|**2025-05-20**|null|
+|**2025-05-20**|**ReactDiff: Latent Diffusion for Facial Reaction Generation**|Jiaming Li et.al.|[2505.14151v1](http://arxiv.org/abs/2505.14151v1)|**2025-05-20**|null|
+|**2025-05-20**|**FlowQ: Energy-Guided Flow Policies for Offline Reinforcement Learning**|Marvin Alles et.al.|[2505.14139v1](http://arxiv.org/abs/2505.14139v1)|**2025-05-20**|null|
+|**2025-05-20**|**Texts or Images? A Fine-grained Analysis on the Effectiveness of Input Representations and Models for Table Question Answering**|Wei Zhou et.al.|[2505.14131v1](http://arxiv.org/abs/2505.14131v1)|**2025-05-20**|null|
+|**2025-05-20**|**Place Recognition: A Comprehensive Review, Current Challenges and Future Directions**|Zhenyu Li et.al.|[2505.14068v1](http://arxiv.org/abs/2505.14068v1)|**2025-05-20**|[link](https://github.com/cv4ra/sota-place-recognitioner)|
+|**2025-05-20**|**ShieldVLM: Safeguarding the Multimodal Implicit Toxicity via Deliberative Reasoning with LVLMs**|Shiyao Cui et.al.|[2505.14035v1](http://arxiv.org/abs/2505.14035v1)|**2025-05-20**|null|

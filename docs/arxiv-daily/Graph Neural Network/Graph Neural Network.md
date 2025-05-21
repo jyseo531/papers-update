@@ -2,33 +2,33 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-19**|**Mean Flows for One-step Generative Modeling**|Zhengyang Geng et.al.|[2505.13447v1](http://arxiv.org/abs/2505.13447v1)|**2025-05-19**|null|
-|**2025-05-19**|**Recollection from Pensieve: Novel View Synthesis via Learning from Uncalibrated Videos**|Ruoyu Wang et.al.|[2505.13440v1](http://arxiv.org/abs/2505.13440v1)|**2025-05-19**|[link](https://github.com/dwawayu/pensieve)|
-|**2025-05-19**|**A Practical Guide for Incorporating Symmetry in Diffusion Policy**|Dian Wang et.al.|[2505.13431v2](http://arxiv.org/abs/2505.13431v2)|**2025-05-20**|null|
-|**2025-05-19**|**Fine-tuning Quantized Neural Networks with Zeroth-order Optimization**|Sifeng Shang et.al.|[2505.13430v1](http://arxiv.org/abs/2505.13430v1)|**2025-05-19**|null|
-|**2025-05-19**|**Machine learning the first stage in 2SLS: Practical guidance from bias decomposition and simulation**|Connor Lennon et.al.|[2505.13422v1](http://arxiv.org/abs/2505.13422v1)|**2025-05-19**|null|
-|**2025-05-19**|**Make Still Further Progress: Chain of Thoughts for Tabular Data Leaderboard**|Si-Yang Liu et.al.|[2505.13421v1](http://arxiv.org/abs/2505.13421v1)|**2025-05-19**|null|
-|**2025-05-19**|**Gluon: Making Muon & Scion Great Again! (Bridging Theory and Practice of LMO-based Optimizers for LLMs)**|Artem Riabinin et.al.|[2505.13416v1](http://arxiv.org/abs/2505.13416v1)|**2025-05-19**|null|
-|**2025-05-19**|**GuidedMorph: Two-Stage Deformable Registration for Breast MRI**|Yaqian Chen et.al.|[2505.13414v1](http://arxiv.org/abs/2505.13414v1)|**2025-05-19**|null|
-|**2025-05-19**|**Joint Velocity-Growth Flow Matching for Single-Cell Dynamics Modeling**|Dongyi Wang et.al.|[2505.13413v1](http://arxiv.org/abs/2505.13413v1)|**2025-05-19**|null|
-|**2025-05-19**|**Recombinant dynamical systems**|Saul Kato et.al.|[2505.13409v1](http://arxiv.org/abs/2505.13409v1)|**2025-05-19**|null|
-|**2025-05-19**|**AutoMathKG: The automated mathematical knowledge graph based on LLM and vector database**|Rong Bian et.al.|[2505.13406v1](http://arxiv.org/abs/2505.13406v1)|**2025-05-19**|null|
-|**2025-05-19**|**A Dataless Reinforcement Learning Approach to Rounding Hyperplane Optimization for Max-Cut**|Gabriel Malikal et.al.|[2505.13405v2](http://arxiv.org/abs/2505.13405v2)|**2025-05-20**|null|
-|**2025-05-19**|**A Minimum Description Length Approach to Regularization in Neural Networks**|Matan Abudy et.al.|[2505.13398v1](http://arxiv.org/abs/2505.13398v1)|**2025-05-19**|null|
-|**2025-05-19**|**Learning by solving differential equations**|Benoit Dherin et.al.|[2505.13397v1](http://arxiv.org/abs/2505.13397v1)|**2025-05-19**|null|
-|**2025-05-19**|**On expectations and variances in the hard-core model on bounded degree graphs**|Ewan Davies et.al.|[2505.13396v1](http://arxiv.org/abs/2505.13396v1)|**2025-05-19**|null|
-|**2025-05-19**|**Beyond-Diagonal RIS Prototype and Performance Evaluation**|Jean Tapie et.al.|[2505.13392v1](http://arxiv.org/abs/2505.13392v1)|**2025-05-19**|null|
-|**2025-05-19**|**Advancing Generalization Across a Variety of Abstract Visual Reasoning Tasks**|Mikołaj Małkiński et.al.|[2505.13391v1](http://arxiv.org/abs/2505.13391v1)|**2025-05-19**|null|
-|**2025-05-19**|**CompeteSMoE -- Statistically Guaranteed Mixture of Experts Training via Competition**|Nam V. Nguyen et.al.|[2505.13380v1](http://arxiv.org/abs/2505.13380v1)|**2025-05-19**|[link](https://github.com/fsoft-aic/competesmoe)|
-|**2025-05-19**|**State- versus Reaction-Based Information Processing in Biochemical Networks**|Anne-Lena Moor et.al.|[2505.13373v1](http://arxiv.org/abs/2505.13373v1)|**2025-05-19**|null|
-|**2025-05-19**|**A Kolmogorov-Arnold Neural Model for Cascading Extremes**|Miguel de Carvalho et.al.|[2505.13370v1](http://arxiv.org/abs/2505.13370v1)|**2025-05-19**|null|
-|**2025-05-19**|**Heterogeneous diffusion in an harmonic potential: the role of the interpretation**|Adrian Pacheco-Pozo et.al.|[2505.13363v1](http://arxiv.org/abs/2505.13363v1)|**2025-05-19**|null|
-|**2025-05-19**|**Feedback-Driven Dynamical Model for Axonal Extension on Parallel Micropatterns**|Kyle Cheng et.al.|[2505.13361v1](http://arxiv.org/abs/2505.13361v1)|**2025-05-19**|null|
-|**2025-05-19**|**A large-scale analysis of public-facing, community-built chatbots on Character.AI**|Owen Lee et.al.|[2505.13354v1](http://arxiv.org/abs/2505.13354v1)|**2025-05-19**|null|
-|**2025-05-19**|**MRM3: Machine Readable ML Model Metadata**|Andrej Čop et.al.|[2505.13343v1](http://arxiv.org/abs/2505.13343v1)|**2025-05-19**|null|
-|**2025-05-19**|**Neural-Enhanced Rate Adaptation and Computation Distribution for Emerging mmWave Multi-User 3D Video Streaming Systems**|Babak Badnava et.al.|[2505.13337v1](http://arxiv.org/abs/2505.13337v1)|**2025-05-19**|null|
-|**2025-05-19**|**Measuring Social Influence with Networked Synthetic Control**|Ho-Chun Herbert Chang et.al.|[2505.13334v1](http://arxiv.org/abs/2505.13334v1)|**2025-05-19**|null|
-|**2025-05-19**|**Learning Driven Elastic Task Multi-Connectivity Immersive Computing Systems**|Babak Badnava et.al.|[2505.13331v1](http://arxiv.org/abs/2505.13331v1)|**2025-05-19**|null|
-|**2025-05-19**|**Ionic strength-driven cavitation nucleation: from energy deposition-based to tension-based cavitation**|Junhao Cai et.al.|[2505.13330v1](http://arxiv.org/abs/2505.13330v1)|**2025-05-19**|null|
-|**2025-05-19**|**SVAFD: A Secure and Verifiable Co-Aggregation Protocol for Federated Distillation**|Tian Wen et.al.|[2505.13319v2](http://arxiv.org/abs/2505.13319v2)|**2025-05-20**|null|
-|**2025-05-19**|**KHRONOS: a Kernel-Based Neural Architecture for Rapid, Resource-Efficient Scientific Computation**|Reza T. Batley et.al.|[2505.13315v1](http://arxiv.org/abs/2505.13315v1)|**2025-05-19**|null|
+|**2025-05-20**|**Approximate Spanning Tree Counting from Uncorrelated Edge Sets**|Yang P. Liu et.al.|[2505.14666v1](http://arxiv.org/abs/2505.14666v1)|**2025-05-20**|null|
+|**2025-05-20**|**AKRMap: Adaptive Kernel Regression for Trustworthy Visualization of Cross-Modal Embeddings**|Yilin Ye et.al.|[2505.14664v1](http://arxiv.org/abs/2505.14664v1)|**2025-05-20**|null|
+|**2025-05-20**|**Developing RPC-Net: Leveraging High-Density Electromyography and Machine Learning for Improved Hand Position Estimation**|Giovanni Rolandino et.al.|[2505.14663v1](http://arxiv.org/abs/2505.14663v1)|**2025-05-20**|null|
+|**2025-05-20**|**Explainable AI for Securing Healthcare in IoT-Integrated 6G Wireless Networks**|Navneet Kaur et.al.|[2505.14659v1](http://arxiv.org/abs/2505.14659v1)|**2025-05-20**|null|
+|**2025-05-20**|**HDE-Array: Development and Validation of a New Dry Electrode Array Design to Acquire HD-sEMG for Hand Position Estimation**|Giovanni Rolandino et.al.|[2505.14658v1](http://arxiv.org/abs/2505.14658v1)|**2025-05-20**|null|
+|**2025-05-20**|**VC-dimension of subsets of Hamming graphs**|Christopher Housholder et.al.|[2505.14641v1](http://arxiv.org/abs/2505.14641v1)|**2025-05-20**|null|
+|**2025-05-20**|**Dual Precision Quantization for Efficient and Accurate Deep Neural Networks Inference**|Tomer Gafni et.al.|[2505.14638v1](http://arxiv.org/abs/2505.14638v1)|**2025-05-20**|null|
+|**2025-05-20**|**Bridging Predictive Coding and MDL: A Two-Part Code Framework for Deep Learning**|Benjamin Prada et.al.|[2505.14635v1](http://arxiv.org/abs/2505.14635v1)|**2025-05-20**|null|
+|**2025-05-20**|**KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language Models**|Fnu Mohbat et.al.|[2505.14629v1](http://arxiv.org/abs/2505.14629v1)|**2025-05-20**|[link](https://github.com/mohbattharani/kerl)|
+|**2025-05-20**|**Large-Scale Tree-Type Photonic Cluster State Generation with Recurrent Quantum Photonic Neural Networks**|Jacob Ewaniuk et.al.|[2505.14628v1](http://arxiv.org/abs/2505.14628v1)|**2025-05-20**|null|
+|**2025-05-20**|**Non-isomorphic subgraphs in random graphs**|Michael Krivelevich et.al.|[2505.14623v1](http://arxiv.org/abs/2505.14623v1)|**2025-05-20**|null|
+|**2025-05-20**|**3D Reconstruction from Sketches**|Abhimanyu Talwar et.al.|[2505.14621v1](http://arxiv.org/abs/2505.14621v1)|**2025-05-20**|null|
+|**2025-05-20**|**Impact of Surfactant and Flow Rate on the Electrical Properties of Activated Carbon Black Suspensions**|KangJin Lee et.al.|[2505.14618v1](http://arxiv.org/abs/2505.14618v1)|**2025-05-20**|null|
+|**2025-05-20**|**TSA-WF: Exploring the Effectiveness of Time Series Analysis for Website Fingerprinting**|Michael Wrana et.al.|[2505.14616v1](http://arxiv.org/abs/2505.14616v1)|**2025-05-20**|null|
+|**2025-05-20**|**Canonical Differential Equations for Cosmology from Positive Geometries**|Mattia Capuano et.al.|[2505.14609v1](http://arxiv.org/abs/2505.14609v1)|**2025-05-20**|null|
+|**2025-05-20**|**Electrostatics from Laplacian Eigenbasis for Neural Network Interatomic Potentials**|Maksim Zhdanov et.al.|[2505.14606v1](http://arxiv.org/abs/2505.14606v1)|**2025-05-20**|null|
+|**2025-05-20**|**Adaptive Pruning of Deep Neural Networks for Resource-Aware Embedded Intrusion Detection on the Edge**|Alexandre Broggi et.al.|[2505.14592v1](http://arxiv.org/abs/2505.14592v1)|**2025-05-20**|null|
+|**2025-05-20**|**Solenoids in automorphism groups of evolution algebras**|Yolanda Cabrera Casado et.al.|[2505.14584v1](http://arxiv.org/abs/2505.14584v1)|**2025-05-20**|null|
+|**2025-05-20**|**Instance Segmentation for Point Sets**|Abhimanyu Talwar et.al.|[2505.14583v1](http://arxiv.org/abs/2505.14583v1)|**2025-05-20**|null|
+|**2025-05-20**|**Performance Optimization of Energy-Harvesting Underlay Cognitive Radio Networks Using Reinforcement Learning**|Deemah H. Tashman et.al.|[2505.14581v1](http://arxiv.org/abs/2505.14581v1)|**2025-05-20**|null|
+|**2025-05-20**|**Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning**|Shangziqi Zhao et.al.|[2505.14582v1](http://arxiv.org/abs/2505.14582v1)|**2025-05-20**|null|
+|**2025-05-20**|**Inference with correlated priors using sisters cells**|Sina Tootoonian et.al.|[2505.14579v1](http://arxiv.org/abs/2505.14579v1)|**2025-05-20**|null|
+|**2025-05-20**|**PSMOA: Policy Support Multi-Objective Optimization Algorithm for Decentralized Data Replication**|Xi Wang et.al.|[2505.14574v1](http://arxiv.org/abs/2505.14574v1)|**2025-05-20**|null|
+|**2025-05-20**|**Agent Context Protocols Enhance Collective Inference**|Devansh Bhardwaj et.al.|[2505.14569v1](http://arxiv.org/abs/2505.14569v1)|**2025-05-20**|null|
+|**2025-05-20**|**KIPPO: Koopman-Inspired Proximal Policy Optimization**|Andrei Cozma et.al.|[2505.14566v1](http://arxiv.org/abs/2505.14566v1)|**2025-05-20**|null|
+|**2025-05-20**|**Neural Inverse Scattering with Score-based Regularization**|Yuan Gao et.al.|[2505.14560v1](http://arxiv.org/abs/2505.14560v1)|**2025-05-20**|null|
+|**2025-05-20**|**Dynadiff: Single-stage Decoding of Images from Continuously Evolving fMRI**|Marlène Careil et.al.|[2505.14556v1](http://arxiv.org/abs/2505.14556v1)|**2025-05-20**|[link](https://github.com/facebookresearch/dynadiff)|
+|**2025-05-20**|**Multi-agent Reinforcement Learning vs. Fixed-Time Control for Traffic Signal Optimization: A Simulation Study**|Saahil Mahato et.al.|[2505.14544v1](http://arxiv.org/abs/2505.14544v1)|**2025-05-20**|[link](https://github.com/codesaahil/optitraffic)|
+|**2025-05-20**|**Neural Video Compression with Context Modulation**|Chuanbo Tang et.al.|[2505.14541v1](http://arxiv.org/abs/2505.14541v1)|**2025-05-20**|null|
+|**2025-05-20**|**Automated, Cross-Layer Root Cause Analysis of 5G Video-Conferencing Quality Degradation**|Fan Yi et.al.|[2505.14540v1](http://arxiv.org/abs/2505.14540v1)|**2025-05-20**|null|

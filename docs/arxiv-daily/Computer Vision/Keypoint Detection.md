@@ -2,6 +2,9 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-20**|**AudSemThinker: Enhancing Audio-Language Models through Reasoning over Semantics of Sound**|Gijs Wijngaard et.al.|[2505.14142v1](http://arxiv.org/abs/2505.14142v1)|**2025-05-20**|null|
+|**2025-05-20**|**Place Recognition: A Comprehensive Review, Current Challenges and Future Directions**|Zhenyu Li et.al.|[2505.14068v1](http://arxiv.org/abs/2505.14068v1)|**2025-05-20**|[link](https://github.com/cv4ra/sota-place-recognitioner)|
+|**2025-05-20**|**Active-Spin-State-Derived Descriptor for Hydrogen Evolution Reaction Catalysis**|Yu Tan et.al.|[2505.13786v1](http://arxiv.org/abs/2505.13786v1)|**2025-05-20**|null|
 |**2025-05-19**|**RECON: Robust symmetry discovery via Explicit Canonical Orientation Normalization**|Alonso Urbano et.al.|[2505.13289v1](http://arxiv.org/abs/2505.13289v1)|**2025-05-19**|null|
 |**2025-05-19**|**The Way Up: A Dataset for Hold Usage Detection in Sport Climbing**|Anna Maschek et.al.|[2505.12854v1](http://arxiv.org/abs/2505.12854v1)|**2025-05-19**|null|
 |**2025-05-19**|**Chain-Talker: Chain Understanding and Rendering for Empathetic Conversational Speech Synthesis**|Yifan Hu et.al.|[2505.12597v1](http://arxiv.org/abs/2505.12597v1)|**2025-05-19**|null|
@@ -10,6 +13,7 @@
 |**2025-05-17**|**Understanding the Capabilities of Molecular Graph Neural Networks in Materials Science Through Multimodal Learning and Physical Context Encoding**|Can Polat et.al.|[2505.12137v1](http://arxiv.org/abs/2505.12137v1)|**2025-05-17**|null|
 |**2025-05-17**|**Keypoints as Dynamic Centroids for Unified Human Pose and Segmentation**|Niaz Ahmad et.al.|[2505.12130v1](http://arxiv.org/abs/2505.12130v1)|**2025-05-17**|null|
 |**2025-05-17**|**Prediction of Novel CXCR7 Inhibitors Using QSAR Modeling and Validation via Molecular Docking**|Belaguppa Manjunath Ashwin Desai et.al.|[2505.12055v1](http://arxiv.org/abs/2505.12055v1)|**2025-05-17**|null|
+|**2025-05-17**|**Continuous Domain Generalization**|Zekun Cai et.al.|[2505.13519v1](http://arxiv.org/abs/2505.13519v1)|**2025-05-17**|null|
 |**2025-05-17**|**Accelerating the Search for Superconductors Using Machine Learning**|Suhas Adiga et.al.|[2505.11964v1](http://arxiv.org/abs/2505.11964v1)|**2025-05-17**|[link](https://github.com/adigasuhas/Accelerating-Search-for-Superconductors-using-Machine-Learning)|
 |**2025-05-17**|**H2R: A Human-to-Robot Data Augmentation for Robot Pre-training from Videos**|Guangrun Li et.al.|[2505.11920v1](http://arxiv.org/abs/2505.11920v1)|**2025-05-17**|null|
 |**2025-05-16**|**Grounded Task Axes: Zero-Shot Semantic Skill Generalization via Task-Axis Controllers and Visual Foundation Models**|M. Yunus Seker et.al.|[2505.11680v1](http://arxiv.org/abs/2505.11680v1)|**2025-05-16**|null|
@@ -28,7 +32,3 @@
 |**2025-05-14**|**FoldNet: Learning Generalizable Closed-Loop Policy for Garment Folding via Keypoint-Driven Asset and Demonstration Synthesis**|Yuxing Chen et.al.|[2505.09109v1](http://arxiv.org/abs/2505.09109v1)|**2025-05-14**|null|
 |**2025-05-14**|**VGC-RIO: A Tightly Integrated Radar-Inertial Odometry with Spatial Weighted Doppler Velocity and Local Geometric Constrained RCS Histograms**|Jianguang Xiang et.al.|[2505.09103v2](http://arxiv.org/abs/2505.09103v2)|**2025-05-15**|null|
 |**2025-05-13**|**DynamicDTA: Drug-Target Binding Affinity Prediction Using Dynamic Descriptors and Graph Representation**|Dan Luo et.al.|[2505.11529v1](http://arxiv.org/abs/2505.11529v1)|**2025-05-13**|null|
-|**2025-05-13**|**FauForensics: Boosting Audio-Visual Deepfake Detection with Facial Action Units**|Jian Wang et.al.|[2505.08294v1](http://arxiv.org/abs/2505.08294v1)|**2025-05-13**|null|
-|**2025-05-13**|**G-MSGINet: A Grouped Multi-Scale Graph-Involution Network for Contactless Fingerprint Recognition**|Santhoshkumar Peddi et.al.|[2505.08233v2](http://arxiv.org/abs/2505.08233v2)|**2025-05-14**|null|
-|**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013v1](http://arxiv.org/abs/2505.08013v1)|**2025-05-12**|null|
-|**2025-05-12**|**Image-Guided Microstructure Optimization using Diffusion Models: Validated with Li-Mn-rich Cathode Precursors**|Geunho Choi et.al.|[2505.07906v1](http://arxiv.org/abs/2505.07906v1)|**2025-05-12**|null|

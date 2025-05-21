@@ -2,33 +2,33 @@
 ### Vision Transformer
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-19**|**Mean Flows for One-step Generative Modeling**|Zhengyang Geng et.al.|[2505.13447v1](http://arxiv.org/abs/2505.13447v1)|**2025-05-19**|null|
-|**2025-05-19**|**Unlocking Non-Invasive Brain-to-Text**|Dulhan Jayalath et.al.|[2505.13446v1](http://arxiv.org/abs/2505.13446v1)|**2025-05-19**|null|
-|**2025-05-19**|**ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models**|Liyan Tang et.al.|[2505.13444v1](http://arxiv.org/abs/2505.13444v1)|**2025-05-19**|null|
-|**2025-05-19**|**Recollection from Pensieve: Novel View Synthesis via Learning from Uncalibrated Videos**|Ruoyu Wang et.al.|[2505.13440v1](http://arxiv.org/abs/2505.13440v1)|**2025-05-19**|[link](https://github.com/dwawayu/pensieve)|
-|**2025-05-19**|**VTBench: Evaluating Visual Tokenizers for Autoregressive Image Generation**|Huawei Lin et.al.|[2505.13439v1](http://arxiv.org/abs/2505.13439v1)|**2025-05-19**|[link](https://github.com/huawei-lin/VTBench)|
-|**2025-05-19**|**FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance**|Dian Shao et.al.|[2505.13437v1](http://arxiv.org/abs/2505.13437v1)|**2025-05-19**|null|
-|**2025-05-19**|**KinTwin: Imitation Learning with Torque and Muscle Driven Biomechanical Models Enables Precise Replication of Able-Bodied and Impaired Movement from Markerless Motion Capture**|R. James Cotton et.al.|[2505.13436v1](http://arxiv.org/abs/2505.13436v1)|**2025-05-19**|null|
-|**2025-05-19**|**A Practical Guide for Incorporating Symmetry in Diffusion Policy**|Dian Wang et.al.|[2505.13431v2](http://arxiv.org/abs/2505.13431v2)|**2025-05-20**|null|
-|**2025-05-19**|**Fine-tuning Quantized Neural Networks with Zeroth-order Optimization**|Sifeng Shang et.al.|[2505.13430v1](http://arxiv.org/abs/2505.13430v1)|**2025-05-19**|null|
-|**2025-05-19**|**Understanding Complexity in VideoQA via Visual Program Generation**|Cristobal Eyzaguirre et.al.|[2505.13429v1](http://arxiv.org/abs/2505.13429v1)|**2025-05-19**|null|
-|**2025-05-19**|**MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision**|Lingxiao Du et.al.|[2505.13427v1](http://arxiv.org/abs/2505.13427v1)|**2025-05-19**|[link](https://github.com/modalminds/mm-prm)|
-|**2025-05-19**|**G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning**|Liang Chen et.al.|[2505.13426v1](http://arxiv.org/abs/2505.13426v1)|**2025-05-19**|[link](https://github.com/chenllliang/g1)|
-|**2025-05-19**|**FEALLM: Advancing Facial Emotion Analysis in Multimodal Large Language Models with Emotional Synergy and Reasoning**|Zhuozhao Hu et.al.|[2505.13419v1](http://arxiv.org/abs/2505.13419v1)|**2025-05-19**|[link](https://github.com/953206211/feallm)|
-|**2025-05-19**|**GuidedMorph: Two-Stage Deformable Registration for Breast MRI**|Yaqian Chen et.al.|[2505.13414v1](http://arxiv.org/abs/2505.13414v1)|**2025-05-19**|null|
-|**2025-05-19**|**CoT-Kinetics: A Theoretical Modeling Assessing LRM Reasoning Process**|Jinhe Bi et.al.|[2505.13408v1](http://arxiv.org/abs/2505.13408v1)|**2025-05-19**|null|
-|**2025-05-19**|**IG Parser: A Software Package for the Encoding of Institutional Statements using the Institutional Grammar**|Christopher K. Frantz et.al.|[2505.13393v2](http://arxiv.org/abs/2505.13393v2)|**2025-05-20**|null|
-|**2025-05-19**|**Advancing Generalization Across a Variety of Abstract Visual Reasoning Tasks**|Mikołaj Małkiński et.al.|[2505.13391v1](http://arxiv.org/abs/2505.13391v1)|**2025-05-19**|null|
-|**2025-05-19**|**Faster Video Diffusion with Trainable Sparse Attention**|Peiyuan Zhang et.al.|[2505.13389v1](http://arxiv.org/abs/2505.13389v1)|**2025-05-19**|null|
-|**2025-05-19**|**How Adding Metacognitive Requirements in Support of AI Feedback in Practice Exams Transforms Student Learning Behaviors**|Mak Ahmad et.al.|[2505.13381v1](http://arxiv.org/abs/2505.13381v1)|**2025-05-19**|null|
-|**2025-05-19**|**Seeing, Saying, Solving: An LLM-to-TL Framework for Cooperative Robots**|Dan BW Choe et.al.|[2505.13376v1](http://arxiv.org/abs/2505.13376v1)|**2025-05-19**|null|
-|**2025-05-19**|**One-Step Offline Distillation of Diffusion-based Models via Koopman Modeling**|Nimrod Berman et.al.|[2505.13358v2](http://arxiv.org/abs/2505.13358v2)|**2025-05-20**|[link](https://github.com/azencot-group/kdm)|
-|**2025-05-19**|**RoPECraft: Training-Free Motion Transfer with Trajectory-Guided RoPE Optimization on Diffusion Transformers**|Ahmet Berke Gokmen et.al.|[2505.13344v1](http://arxiv.org/abs/2505.13344v1)|**2025-05-19**|null|
-|**2025-05-19**|**Benchmarking Unified Face Attack Detection via Hierarchical Prompt Tuning**|Ajian Liu et.al.|[2505.13327v2](http://arxiv.org/abs/2505.13327v2)|**2025-05-20**|null|
-|**2025-05-19**|**VesselGPT: Autoregressive Modeling of Vascular Geometry**|Paula Feldman et.al.|[2505.13318v1](http://arxiv.org/abs/2505.13318v1)|**2025-05-19**|null|
-|**2025-05-19**|**Unlabeled Data or Pre-trained Model: Rethinking Semi-Supervised Learning and Pretrain-Finetuning**|Song-Lin Li et.al.|[2505.13317v2](http://arxiv.org/abs/2505.13317v2)|**2025-05-20**|null|
-|**2025-05-19**|**Denoising Diffusion Probabilistic Model for Point Cloud Compression at Low Bit-Rates**|Gabriele Spadaro et.al.|[2505.13316v1](http://arxiv.org/abs/2505.13316v1)|**2025-05-19**|[link](https://github.com/eidoslab/ddpm-pcc)|
-|**2025-05-19**|**KHRONOS: a Kernel-Based Neural Architecture for Rapid, Resource-Efficient Scientific Computation**|Reza T. Batley et.al.|[2505.13315v1](http://arxiv.org/abs/2505.13315v1)|**2025-05-19**|null|
-|**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309v1](http://arxiv.org/abs/2505.13309v1)|**2025-05-19**|null|
-|**2025-05-19**|**GMM-Based Comprehensive Feature Extraction and Relative Distance Preservation For Few-Shot Cross-Modal Retrieval**|Chengsong Sun et.al.|[2505.13306v1](http://arxiv.org/abs/2505.13306v1)|**2025-05-19**|null|
-|**2025-05-19**|**RBF++: Quantifying and Optimizing Reasoning Boundaries across Measurable and Unmeasurable Capabilities for Chain-of-Thought Reasoning**|Qiguang Chen et.al.|[2505.13307v1](http://arxiv.org/abs/2505.13307v1)|**2025-05-19**|[link](https://github.com/lightchen233/reasoning-boundary)|
+|**2025-05-20**|**Grouping First, Attending Smartly: Training-Free Acceleration for Diffusion Transformers**|Sucheng Ren et.al.|[2505.14687v1](http://arxiv.org/abs/2505.14687v1)|**2025-05-20**|[link](https://github.com/oliverrensu/grat)|
+|**2025-05-20**|**Emerging Properties in Unified Multimodal Pretraining**|Chaorui Deng et.al.|[2505.14683v1](http://arxiv.org/abs/2505.14683v1)|**2025-05-20**|null|
+|**2025-05-20**|**UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation**|Rui Tian et.al.|[2505.14682v1](http://arxiv.org/abs/2505.14682v1)|**2025-05-20**|null|
+|**2025-05-20**|**Two Experts Are All You Need for Steering Thinking: Reinforcing Cognitive Effort in MoE Reasoning Models Without Additional Training**|Mengru Wang et.al.|[2505.14681v1](http://arxiv.org/abs/2505.14681v1)|**2025-05-20**|null|
+|**2025-05-20**|**Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning**|Jiaer Xia et.al.|[2505.14677v1](http://arxiv.org/abs/2505.14677v1)|**2025-05-20**|null|
+|**2025-05-20**|**Training-Free Watermarking for Autoregressive Image Generation**|Yu Tong et.al.|[2505.14673v1](http://arxiv.org/abs/2505.14673v1)|**2025-05-20**|null|
+|**2025-05-20**|**UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens**|Ruichuan An et.al.|[2505.14671v1](http://arxiv.org/abs/2505.14671v1)|**2025-05-20**|null|
+|**2025-05-20**|**AKRMap: Adaptive Kernel Regression for Trustworthy Visualization of Cross-Modal Embeddings**|Yilin Ye et.al.|[2505.14664v1](http://arxiv.org/abs/2505.14664v1)|**2025-05-20**|null|
+|**2025-05-20**|**Abacus: A Cost-Based Optimizer for Semantic Operator Systems**|Matthew Russo et.al.|[2505.14661v1](http://arxiv.org/abs/2505.14661v1)|**2025-05-20**|null|
+|**2025-05-20**|**EmoGist: Efficient In-Context Learning for Visual Emotion Understanding**|Ronald Seoh et.al.|[2505.14660v1](http://arxiv.org/abs/2505.14660v1)|**2025-05-20**|null|
+|**2025-05-20**|**Explainable AI for Securing Healthcare in IoT-Integrated 6G Wireless Networks**|Navneet Kaur et.al.|[2505.14659v1](http://arxiv.org/abs/2505.14659v1)|**2025-05-20**|null|
+|**2025-05-20**|**Beyond Words: Multimodal LLM Knows When to Speak**|Zikai Liao et.al.|[2505.14654v1](http://arxiv.org/abs/2505.14654v1)|**2025-05-20**|null|
+|**2025-05-20**|**CAD-Coder: An Open-Source Vision-Language Model for Computer-Aided Design Code Generation**|Anna C. Doris et.al.|[2505.14646v1](http://arxiv.org/abs/2505.14646v1)|**2025-05-20**|null|
+|**2025-05-20**|**VideoEval-Pro: Robust and Realistic Long Video Understanding Evaluation**|Wentao Ma et.al.|[2505.14640v1](http://arxiv.org/abs/2505.14640v1)|**2025-05-20**|null|
+|**2025-05-20**|**Dual Precision Quantization for Efficient and Accurate Deep Neural Networks Inference**|Tomer Gafni et.al.|[2505.14638v1](http://arxiv.org/abs/2505.14638v1)|**2025-05-20**|null|
+|**2025-05-20**|**A General Framework for Group Sparsity in Hyperspectral Unmixing Using Endmember Bundles**|Gokul Bhusal et.al.|[2505.14634v1](http://arxiv.org/abs/2505.14634v1)|**2025-05-20**|null|
+|**2025-05-20**|**KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language Models**|Fnu Mohbat et.al.|[2505.14629v1](http://arxiv.org/abs/2505.14629v1)|**2025-05-20**|[link](https://github.com/mohbattharani/kerl)|
+|**2025-05-20**|**Debating for Better Reasoning: An Unsupervised Multimodal Approach**|Ashutosh Adhikari et.al.|[2505.14627v1](http://arxiv.org/abs/2505.14627v1)|**2025-05-20**|null|
+|**2025-05-20**|**Equivariant Chern character operators and Okounkov's conjecture**|Mazen M. Alhwaimel et.al.|[2505.14626v1](http://arxiv.org/abs/2505.14626v1)|**2025-05-20**|null|
+|**2025-05-20**|**3D Reconstruction from Sketches**|Abhimanyu Talwar et.al.|[2505.14621v1](http://arxiv.org/abs/2505.14621v1)|**2025-05-20**|null|
+|**2025-05-20**|**Virtual Cells: Predict, Explain, Discover**|Emmanuel Noutahi et.al.|[2505.14613v1](http://arxiv.org/abs/2505.14613v1)|**2025-05-20**|null|
+|**2025-05-20**|**Fisher-Rao distances between finite energy signals in noise**|Franck Florin et.al.|[2505.14611v1](http://arxiv.org/abs/2505.14611v1)|**2025-05-20**|null|
+|**2025-05-20**|**Towards a Foundation Model for Communication Systems**|Davide Buffelli et.al.|[2505.14603v1](http://arxiv.org/abs/2505.14603v1)|**2025-05-20**|null|
+|**2025-05-20**|**Instance Segmentation for Point Sets**|Abhimanyu Talwar et.al.|[2505.14583v1](http://arxiv.org/abs/2505.14583v1)|**2025-05-20**|null|
+|**2025-05-20**|**Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning**|Shangziqi Zhao et.al.|[2505.14582v1](http://arxiv.org/abs/2505.14582v1)|**2025-05-20**|null|
+|**2025-05-20**|**Automated Fetal Biometry Assessment with Deep Ensembles using Sparse-Sampling of 2D Intrapartum Ultrasound Images**|Jayroop Ramesh et.al.|[2505.14572v1](http://arxiv.org/abs/2505.14572v1)|**2025-05-20**|null|
+|**2025-05-20**|**Neural Inverse Scattering with Score-based Regularization**|Yuan Gao et.al.|[2505.14560v1](http://arxiv.org/abs/2505.14560v1)|**2025-05-20**|null|
+|**2025-05-20**|**Dynadiff: Single-stage Decoding of Images from Continuously Evolving fMRI**|Marlène Careil et.al.|[2505.14556v1](http://arxiv.org/abs/2505.14556v1)|**2025-05-20**|[link](https://github.com/facebookresearch/dynadiff)|
+|**2025-05-20**|**Time to Embed: Unlocking Foundation Models for Time Series with Channel Descriptions**|Utsav Dutta et.al.|[2505.14543v1](http://arxiv.org/abs/2505.14543v1)|**2025-05-20**|null|
+|**2025-05-20**|**Neural Video Compression with Context Modulation**|Chuanbo Tang et.al.|[2505.14541v1](http://arxiv.org/abs/2505.14541v1)|**2025-05-20**|null|

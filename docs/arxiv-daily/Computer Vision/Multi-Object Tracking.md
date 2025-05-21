@@ -2,33 +2,33 @@
 ### Multi-Object Tracking
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-19**|**ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models**|Liyan Tang et.al.|[2505.13444v1](http://arxiv.org/abs/2505.13444v1)|**2025-05-19**|null|
-|**2025-05-19**|**GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation**|Abhay Deshpande et.al.|[2505.13441v1](http://arxiv.org/abs/2505.13441v1)|**2025-05-19**|null|
-|**2025-05-19**|**VTBench: Evaluating Visual Tokenizers for Autoregressive Image Generation**|Huawei Lin et.al.|[2505.13439v1](http://arxiv.org/abs/2505.13439v1)|**2025-05-19**|[link](https://github.com/huawei-lin/VTBench)|
-|**2025-05-19**|**KinTwin: Imitation Learning with Torque and Muscle Driven Biomechanical Models Enables Precise Replication of Able-Bodied and Impaired Movement from Markerless Motion Capture**|R. James Cotton et.al.|[2505.13436v1](http://arxiv.org/abs/2505.13436v1)|**2025-05-19**|null|
-|**2025-05-19**|**Understanding Complexity in VideoQA via Visual Program Generation**|Cristobal Eyzaguirre et.al.|[2505.13429v1](http://arxiv.org/abs/2505.13429v1)|**2025-05-19**|null|
-|**2025-05-19**|**G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning**|Liang Chen et.al.|[2505.13426v1](http://arxiv.org/abs/2505.13426v1)|**2025-05-19**|[link](https://github.com/chenllliang/g1)|
-|**2025-05-19**|**FEALLM: Advancing Facial Emotion Analysis in Multimodal Large Language Models with Emotional Synergy and Reasoning**|Zhuozhao Hu et.al.|[2505.13419v1](http://arxiv.org/abs/2505.13419v1)|**2025-05-19**|[link](https://github.com/953206211/feallm)|
-|**2025-05-19**|**AdaptThink: Reasoning Models Can Learn When to Think**|Jiajie Zhang et.al.|[2505.13417v1](http://arxiv.org/abs/2505.13417v1)|**2025-05-19**|[link](https://github.com/thu-keg/adaptthink)|
-|**2025-05-19**|**GuidedMorph: Two-Stage Deformable Registration for Breast MRI**|Yaqian Chen et.al.|[2505.13414v1](http://arxiv.org/abs/2505.13414v1)|**2025-05-19**|null|
-|**2025-05-19**|**Advancing Generalization Across a Variety of Abstract Visual Reasoning Tasks**|Mikołaj Małkiński et.al.|[2505.13391v1](http://arxiv.org/abs/2505.13391v1)|**2025-05-19**|null|
-|**2025-05-19**|**MGPBD: A Multigrid Accelerated Global XPBD Solver**|Chunlei Li et.al.|[2505.13390v1](http://arxiv.org/abs/2505.13390v1)|**2025-05-19**|null|
-|**2025-05-19**|**R3: Robust Rubric-Agnostic Reward Models**|David Anugraha et.al.|[2505.13388v1](http://arxiv.org/abs/2505.13388v1)|**2025-05-19**|[link](https://github.com/rubricreward/r3)|
-|**2025-05-19**|**How Adding Metacognitive Requirements in Support of AI Feedback in Practice Exams Transforms Student Learning Behaviors**|Mak Ahmad et.al.|[2505.13381v1](http://arxiv.org/abs/2505.13381v1)|**2025-05-19**|null|
-|**2025-05-19**|**CompeteSMoE -- Statistically Guaranteed Mixture of Experts Training via Competition**|Nam V. Nguyen et.al.|[2505.13380v1](http://arxiv.org/abs/2505.13380v1)|**2025-05-19**|[link](https://github.com/fsoft-aic/competesmoe)|
-|**2025-05-19**|**Thinkless: LLM Learns When to Think**|Gongfan Fang et.al.|[2505.13379v1](http://arxiv.org/abs/2505.13379v1)|**2025-05-19**|[link](https://github.com/vainf/thinkless)|
-|**2025-05-19**|**Restoration Score Distillation: From Corrupted Diffusion Pretraining to One-Step High-Quality Generation**|Yasi Zhang et.al.|[2505.13377v1](http://arxiv.org/abs/2505.13377v1)|**2025-05-19**|null|
-|**2025-05-19**|**Polarization Properties of Energetic Pulsars at Meterwavelengths**|Dipanjan Mitra et.al.|[2505.13359v1](http://arxiv.org/abs/2505.13359v1)|**2025-05-19**|null|
-|**2025-05-19**|**Approximating Global Contact-Implicit MPC via Sampling and Local Complementarity**|Sharanya Venkatesh et.al.|[2505.13350v1](http://arxiv.org/abs/2505.13350v1)|**2025-05-19**|null|
-|**2025-05-19**|**RoPECraft: Training-Free Motion Transfer with Trajectory-Guided RoPE Optimization on Diffusion Transformers**|Ahmet Berke Gokmen et.al.|[2505.13344v1](http://arxiv.org/abs/2505.13344v1)|**2025-05-19**|null|
-|**2025-05-19**|**OPA-Pack: Object-Property-Aware Robotic Bin Packing**|Jia-Hui Pan et.al.|[2505.13339v1](http://arxiv.org/abs/2505.13339v1)|**2025-05-19**|null|
-|**2025-05-19**|**Benchmarking Unified Face Attack Detection via Hierarchical Prompt Tuning**|Ajian Liu et.al.|[2505.13327v2](http://arxiv.org/abs/2505.13327v2)|**2025-05-20**|null|
-|**2025-05-19**|**Early Post Asymptotic Giant Branch Instability: Does it Affect White Dwarf Hydrogen Envelope Mass?**|James MacDonald et.al.|[2505.13313v1](http://arxiv.org/abs/2505.13313v1)|**2025-05-19**|null|
-|**2025-05-19**|**Synthesis of Communication Policies for Multi-Agent Systems Robust to Communication Restrictions**|Saleh Soudijani et.al.|[2505.13311v1](http://arxiv.org/abs/2505.13311v1)|**2025-05-19**|null|
-|**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309v1](http://arxiv.org/abs/2505.13309v1)|**2025-05-19**|null|
-|**2025-05-19**|**I'll believe it when I see it: Images increase misinformation sharing in Vision-Language Models**|Alice Plebe et.al.|[2505.13302v1](http://arxiv.org/abs/2505.13302v1)|**2025-05-19**|[link](https://github.com/3lis/misinfo_vlm)|
-|**2025-05-19**|**Gamma Analytical Modeling Evolution (GAME) I: The physical implications of deriving the stellar mass functions from z=0 to z=8**|Antonios Katsianis et.al.|[2505.13301v1](http://arxiv.org/abs/2505.13301v1)|**2025-05-19**|null|
-|**2025-05-19**|**DD-Ranking: Rethinking the Evaluation of Dataset Distillation**|Zekai Li et.al.|[2505.13300v1](http://arxiv.org/abs/2505.13300v1)|**2025-05-19**|[link](https://github.com/nus-hpc-ai-lab/dd-ranking)|
-|**2025-05-19**|**Inflight calibration of SRG/ART-XC point spread function at large off-axis angles**|R. Krivonos et.al.|[2505.13296v1](http://arxiv.org/abs/2505.13296v1)|**2025-05-19**|null|
-|**2025-05-19**|**A planetary-mass candidate imaged in the Young Suns Exoplanet Survey**|Pengyu Liu et.al.|[2505.13295v1](http://arxiv.org/abs/2505.13295v1)|**2025-05-19**|null|
-|**2025-05-19**|**TimeSeriesGym: A Scalable Benchmark for (Time Series) Machine Learning Engineering Agents**|Yifu Cai et.al.|[2505.13291v1](http://arxiv.org/abs/2505.13291v1)|**2025-05-19**|[link](https://github.com/moment-timeseries-foundation-model/timeseriesgym)|
+|**2025-05-20**|**Grouping First, Attending Smartly: Training-Free Acceleration for Diffusion Transformers**|Sucheng Ren et.al.|[2505.14687v1](http://arxiv.org/abs/2505.14687v1)|**2025-05-20**|[link](https://github.com/oliverrensu/grat)|
+|**2025-05-20**|**Language Models use Lookbacks to Track Beliefs**|Nikhil Prakash et.al.|[2505.14685v1](http://arxiv.org/abs/2505.14685v1)|**2025-05-20**|null|
+|**2025-05-20**|**Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning**|Jiaer Xia et.al.|[2505.14677v1](http://arxiv.org/abs/2505.14677v1)|**2025-05-20**|null|
+|**2025-05-20**|**Training-Free Watermarking for Autoregressive Image Generation**|Yu Tong et.al.|[2505.14673v1](http://arxiv.org/abs/2505.14673v1)|**2025-05-20**|null|
+|**2025-05-20**|**AKRMap: Adaptive Kernel Regression for Trustworthy Visualization of Cross-Modal Embeddings**|Yilin Ye et.al.|[2505.14664v1](http://arxiv.org/abs/2505.14664v1)|**2025-05-20**|null|
+|**2025-05-20**|**Developing RPC-Net: Leveraging High-Density Electromyography and Machine Learning for Improved Hand Position Estimation**|Giovanni Rolandino et.al.|[2505.14663v1](http://arxiv.org/abs/2505.14663v1)|**2025-05-20**|null|
+|**2025-05-20**|**Abacus: A Cost-Based Optimizer for Semantic Operator Systems**|Matthew Russo et.al.|[2505.14661v1](http://arxiv.org/abs/2505.14661v1)|**2025-05-20**|null|
+|**2025-05-20**|**EmoGist: Efficient In-Context Learning for Visual Emotion Understanding**|Ronald Seoh et.al.|[2505.14660v1](http://arxiv.org/abs/2505.14660v1)|**2025-05-20**|null|
+|**2025-05-20**|**Beyond Words: Multimodal LLM Knows When to Speak**|Zikai Liao et.al.|[2505.14654v1](http://arxiv.org/abs/2505.14654v1)|**2025-05-20**|null|
+|**2025-05-20**|**Sequential QCQP for Bilevel Optimization with Line Search**|Sina Sharifi et.al.|[2505.14647v1](http://arxiv.org/abs/2505.14647v1)|**2025-05-20**|null|
+|**2025-05-20**|**CAD-Coder: An Open-Source Vision-Language Model for Computer-Aided Design Code Generation**|Anna C. Doris et.al.|[2505.14646v1](http://arxiv.org/abs/2505.14646v1)|**2025-05-20**|null|
+|**2025-05-20**|**A quantum unstructured search algorithm for discrete optimisation: the use case of portfolio optimisation**|Titos Matsakos et.al.|[2505.14645v1](http://arxiv.org/abs/2505.14645v1)|**2025-05-20**|null|
+|**2025-05-20**|**Early Diagnosis of Atrial Fibrillation Recurrence: A Large Tabular Model Approach with Structured and Unstructured Clinical Data**|Ane G. Domingo-Aldama et.al.|[2505.14643v1](http://arxiv.org/abs/2505.14643v1)|**2025-05-20**|null|
+|**2025-05-20**|**Bridging Predictive Coding and MDL: A Two-Part Code Framework for Deep Learning**|Benjamin Prada et.al.|[2505.14635v1](http://arxiv.org/abs/2505.14635v1)|**2025-05-20**|null|
+|**2025-05-20**|**Debating for Better Reasoning: An Unsupervised Multimodal Approach**|Ashutosh Adhikari et.al.|[2505.14627v1](http://arxiv.org/abs/2505.14627v1)|**2025-05-20**|null|
+|**2025-05-20**|**SATBench: Benchmarking LLMs' Logical Reasoning via Automated Puzzle Generation from SAT Formulas**|Anjiang Wei et.al.|[2505.14615v1](http://arxiv.org/abs/2505.14615v1)|**2025-05-20**|null|
+|**2025-05-20**|**MMD-Newton Method for Multi-objective Optimization**|Hao Wang et.al.|[2505.14610v1](http://arxiv.org/abs/2505.14610v1)|**2025-05-20**|null|
+|**2025-05-20**|**sudoLLM : On Multi-role Alignment of Language Models**|Soumadeep Saha et.al.|[2505.14607v1](http://arxiv.org/abs/2505.14607v1)|**2025-05-20**|null|
+|**2025-05-20**|**CSTS: A Benchmark for the Discovery of Correlation Structures in Time Series Clustering**|Isabella Degen et.al.|[2505.14596v1](http://arxiv.org/abs/2505.14596v1)|**2025-05-20**|[link](https://github.com/isabelladegen/corrclust-validation)|
+|**2025-05-20**|**PSMOA: Policy Support Multi-Objective Optimization Algorithm for Decentralized Data Replication**|Xi Wang et.al.|[2505.14574v1](http://arxiv.org/abs/2505.14574v1)|**2025-05-20**|null|
+|**2025-05-20**|**Measuring spin precession from massive black holes binaries with gravitational waves: insights from time-domain signal morphology**|Simona J. Miller et.al.|[2505.14573v1](http://arxiv.org/abs/2505.14573v1)|**2025-05-20**|null|
+|**2025-05-20**|**Representation Learning for Semantic Alignment of Language, Audio, and Visual Modalities**|Parthasaarathy Sudarsanam et.al.|[2505.14562v1](http://arxiv.org/abs/2505.14562v1)|**2025-05-20**|null|
+|**2025-05-20**|**Neural Inverse Scattering with Score-based Regularization**|Yuan Gao et.al.|[2505.14560v1](http://arxiv.org/abs/2505.14560v1)|**2025-05-20**|null|
+|**2025-05-20**|**KORGym: A Dynamic Game Platform for LLM Reasoning Evaluation**|Jiajun Shi et.al.|[2505.14552v1](http://arxiv.org/abs/2505.14552v1)|**2025-05-20**|null|
+|**2025-05-20**|**Global Maxwell Tomography Using the Volume-Surface Integral Equation for Improved Estimation of Electrical Properties**|Ilias Giannakopoulos et.al.|[2505.14546v1](http://arxiv.org/abs/2505.14546v1)|**2025-05-20**|null|
+|**2025-05-20**|**diffDemorph: Extending Reference-Free Demorphing to Unseen Faces**|Nitish Shukla et.al.|[2505.14527v1](http://arxiv.org/abs/2505.14527v1)|**2025-05-20**|null|
+|**2025-05-20**|**Distributed quantum computing with black-box subroutines**|X. Xu et.al.|[2505.14519v1](http://arxiv.org/abs/2505.14519v1)|**2025-05-20**|null|
+|**2025-05-20**|**SparC: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling**|Zhihao Li et.al.|[2505.14521v1](http://arxiv.org/abs/2505.14521v1)|**2025-05-20**|null|
+|**2025-05-20**|**Steering Deep Non-Linear Spatially Selective Filters for Weakly Guided Extraction of Moving Speakers in Dynamic Scenarios**|Jakob Kienegger et.al.|[2505.14517v1](http://arxiv.org/abs/2505.14517v1)|**2025-05-20**|null|
+|**2025-05-20**|**Enhanced Multimodal Aspect-Based Sentiment Analysis by LLM-Generated Rationales**|Jun Cao et.al.|[2505.14499v1](http://arxiv.org/abs/2505.14499v1)|**2025-05-20**|null|

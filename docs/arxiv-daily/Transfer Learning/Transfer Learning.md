@@ -2,33 +2,33 @@
 ### Transfer Learning
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-19**|**CIE: Controlling Language Model Text Generations Using Continuous Signals**|Vinay Samuel et.al.|[2505.13448v1](http://arxiv.org/abs/2505.13448v1)|**2025-05-19**|[link](https://github.com/vsamuel2003/cie)|
-|**2025-05-19**|**Mean Flows for One-step Generative Modeling**|Zhengyang Geng et.al.|[2505.13447v1](http://arxiv.org/abs/2505.13447v1)|**2025-05-19**|null|
-|**2025-05-19**|**Unlocking Non-Invasive Brain-to-Text**|Dulhan Jayalath et.al.|[2505.13446v1](http://arxiv.org/abs/2505.13446v1)|**2025-05-19**|null|
-|**2025-05-19**|**Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards**|Xiaoyuan Liu et.al.|[2505.13445v1](http://arxiv.org/abs/2505.13445v1)|**2025-05-19**|null|
-|**2025-05-19**|**GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation**|Abhay Deshpande et.al.|[2505.13441v1](http://arxiv.org/abs/2505.13441v1)|**2025-05-19**|null|
-|**2025-05-19**|**Recollection from Pensieve: Novel View Synthesis via Learning from Uncalibrated Videos**|Ruoyu Wang et.al.|[2505.13440v1](http://arxiv.org/abs/2505.13440v1)|**2025-05-19**|[link](https://github.com/dwawayu/pensieve)|
-|**2025-05-19**|**VTBench: Evaluating Visual Tokenizers for Autoregressive Image Generation**|Huawei Lin et.al.|[2505.13439v1](http://arxiv.org/abs/2505.13439v1)|**2025-05-19**|[link](https://github.com/huawei-lin/VTBench)|
-|**2025-05-19**|**Optimizing Anytime Reasoning via Budget Relative Policy Optimization**|Penghui Qi et.al.|[2505.13438v1](http://arxiv.org/abs/2505.13438v1)|**2025-05-19**|[link](https://github.com/sail-sg/anytimereasoner)|
-|**2025-05-19**|**FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance**|Dian Shao et.al.|[2505.13437v1](http://arxiv.org/abs/2505.13437v1)|**2025-05-19**|null|
-|**2025-05-19**|**KinTwin: Imitation Learning with Torque and Muscle Driven Biomechanical Models Enables Precise Replication of Able-Bodied and Impaired Movement from Markerless Motion Capture**|R. James Cotton et.al.|[2505.13436v1](http://arxiv.org/abs/2505.13436v1)|**2025-05-19**|null|
-|**2025-05-19**|**SMOTExT: SMOTE meets Large Language Models**|Mateusz Bystroński et.al.|[2505.13434v1](http://arxiv.org/abs/2505.13434v1)|**2025-05-19**|null|
-|**2025-05-19**|**Synthetic-Powered Predictive Inference**|Meshi Bashari et.al.|[2505.13432v1](http://arxiv.org/abs/2505.13432v1)|**2025-05-19**|null|
-|**2025-05-19**|**A Practical Guide for Incorporating Symmetry in Diffusion Policy**|Dian Wang et.al.|[2505.13431v2](http://arxiv.org/abs/2505.13431v2)|**2025-05-20**|null|
-|**2025-05-19**|**Fine-tuning Quantized Neural Networks with Zeroth-order Optimization**|Sifeng Shang et.al.|[2505.13430v1](http://arxiv.org/abs/2505.13430v1)|**2025-05-19**|null|
-|**2025-05-19**|**Understanding Complexity in VideoQA via Visual Program Generation**|Cristobal Eyzaguirre et.al.|[2505.13429v1](http://arxiv.org/abs/2505.13429v1)|**2025-05-19**|null|
-|**2025-05-19**|**MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision**|Lingxiao Du et.al.|[2505.13427v1](http://arxiv.org/abs/2505.13427v1)|**2025-05-19**|[link](https://github.com/modalminds/mm-prm)|
-|**2025-05-19**|**G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning**|Liang Chen et.al.|[2505.13426v1](http://arxiv.org/abs/2505.13426v1)|**2025-05-19**|[link](https://github.com/chenllliang/g1)|
-|**2025-05-19**|**Learnware of Language Models: Specialized Small Language Models Can Do Big**|Zhi-Hao Tan et.al.|[2505.13425v1](http://arxiv.org/abs/2505.13425v1)|**2025-05-19**|null|
-|**2025-05-19**|**The Enduring Relevance of Semiempirical Quantum Mechanics**|Jonathan E. Moussa et.al.|[2505.13424v1](http://arxiv.org/abs/2505.13424v1)|**2025-05-19**|null|
-|**2025-05-19**|**Machine learning the first stage in 2SLS: Practical guidance from bias decomposition and simulation**|Connor Lennon et.al.|[2505.13422v1](http://arxiv.org/abs/2505.13422v1)|**2025-05-19**|null|
-|**2025-05-19**|**Make Still Further Progress: Chain of Thoughts for Tabular Data Leaderboard**|Si-Yang Liu et.al.|[2505.13421v1](http://arxiv.org/abs/2505.13421v1)|**2025-05-19**|null|
-|**2025-05-19**|**Dementia Through Different Eyes: Explainable Modeling of Human and LLM Perceptions for Early Awareness**|Lotem Peled-Cohen et.al.|[2505.13418v1](http://arxiv.org/abs/2505.13418v1)|**2025-05-19**|null|
-|**2025-05-19**|**AdaptThink: Reasoning Models Can Learn When to Think**|Jiajie Zhang et.al.|[2505.13417v1](http://arxiv.org/abs/2505.13417v1)|**2025-05-19**|[link](https://github.com/thu-keg/adaptthink)|
-|**2025-05-19**|**Gluon: Making Muon & Scion Great Again! (Bridging Theory and Practice of LMO-based Optimizers for LLMs)**|Artem Riabinin et.al.|[2505.13416v1](http://arxiv.org/abs/2505.13416v1)|**2025-05-19**|null|
-|**2025-05-19**|**GuidedMorph: Two-Stage Deformable Registration for Breast MRI**|Yaqian Chen et.al.|[2505.13414v1](http://arxiv.org/abs/2505.13414v1)|**2025-05-19**|null|
-|**2025-05-19**|**Joint Velocity-Growth Flow Matching for Single-Cell Dynamics Modeling**|Dongyi Wang et.al.|[2505.13413v1](http://arxiv.org/abs/2505.13413v1)|**2025-05-19**|null|
-|**2025-05-19**|**Joint stochastic localization and applications**|Tom Alberts et.al.|[2505.13410v1](http://arxiv.org/abs/2505.13410v1)|**2025-05-19**|null|
-|**2025-05-19**|**Recombinant dynamical systems**|Saul Kato et.al.|[2505.13409v1](http://arxiv.org/abs/2505.13409v1)|**2025-05-19**|null|
-|**2025-05-19**|**CoT-Kinetics: A Theoretical Modeling Assessing LRM Reasoning Process**|Jinhe Bi et.al.|[2505.13408v1](http://arxiv.org/abs/2505.13408v1)|**2025-05-19**|null|
-|**2025-05-19**|**AutoMathKG: The automated mathematical knowledge graph based on LLM and vector database**|Rong Bian et.al.|[2505.13406v1](http://arxiv.org/abs/2505.13406v1)|**2025-05-19**|null|
+|**2025-05-20**|**Grouping First, Attending Smartly: Training-Free Acceleration for Diffusion Transformers**|Sucheng Ren et.al.|[2505.14687v1](http://arxiv.org/abs/2505.14687v1)|**2025-05-20**|[link](https://github.com/oliverrensu/grat)|
+|**2025-05-20**|**Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning**|Haolei Xu et.al.|[2505.14684v1](http://arxiv.org/abs/2505.14684v1)|**2025-05-20**|null|
+|**2025-05-20**|**Two Experts Are All You Need for Steering Thinking: Reinforcing Cognitive Effort in MoE Reasoning Models Without Additional Training**|Mengru Wang et.al.|[2505.14681v1](http://arxiv.org/abs/2505.14681v1)|**2025-05-20**|null|
+|**2025-05-20**|**UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Large Language Models**|Xiaojie Gu et.al.|[2505.14679v1](http://arxiv.org/abs/2505.14679v1)|**2025-05-20**|null|
+|**2025-05-20**|**Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning**|Jiaer Xia et.al.|[2505.14677v1](http://arxiv.org/abs/2505.14677v1)|**2025-05-20**|null|
+|**2025-05-20**|**Reward Reasoning Model**|Jiaxin Guo et.al.|[2505.14674v1](http://arxiv.org/abs/2505.14674v1)|**2025-05-20**|null|
+|**2025-05-20**|**Quantum Optimization via Gradient-Based Hamiltonian Descent**|Jiaqi Leng et.al.|[2505.14670v1](http://arxiv.org/abs/2505.14670v1)|**2025-05-20**|null|
+|**2025-05-20**|**Quartet: Native FP4 Training Can Be Optimal for Large Language Models**|Roberto L. Castro et.al.|[2505.14669v1](http://arxiv.org/abs/2505.14669v1)|**2025-05-20**|null|
+|**2025-05-20**|**AKRMap: Adaptive Kernel Regression for Trustworthy Visualization of Cross-Modal Embeddings**|Yilin Ye et.al.|[2505.14664v1](http://arxiv.org/abs/2505.14664v1)|**2025-05-20**|null|
+|**2025-05-20**|**Developing RPC-Net: Leveraging High-Density Electromyography and Machine Learning for Improved Hand Position Estimation**|Giovanni Rolandino et.al.|[2505.14663v1](http://arxiv.org/abs/2505.14663v1)|**2025-05-20**|null|
+|**2025-05-20**|**EmoGist: Efficient In-Context Learning for Visual Emotion Understanding**|Ronald Seoh et.al.|[2505.14660v1](http://arxiv.org/abs/2505.14660v1)|**2025-05-20**|null|
+|**2025-05-20**|**Explainable AI for Securing Healthcare in IoT-Integrated 6G Wireless Networks**|Navneet Kaur et.al.|[2505.14659v1](http://arxiv.org/abs/2505.14659v1)|**2025-05-20**|null|
+|**2025-05-20**|**Cryptocurrencies in the Balance Sheet: Insights from (Micro)Strategy -- Bitcoin Interactions**|Sabrina Aufiero et.al.|[2505.14655v1](http://arxiv.org/abs/2505.14655v1)|**2025-05-20**|null|
+|**2025-05-20**|**General-Reasoner: Advancing LLM Reasoning Across All Domains**|Xueguang Ma et.al.|[2505.14652v1](http://arxiv.org/abs/2505.14652v1)|**2025-05-20**|null|
+|**2025-05-20**|**Sequential QCQP for Bilevel Optimization with Line Search**|Sina Sharifi et.al.|[2505.14647v1](http://arxiv.org/abs/2505.14647v1)|**2025-05-20**|null|
+|**2025-05-20**|**Early Diagnosis of Atrial Fibrillation Recurrence: A Large Tabular Model Approach with Structured and Unstructured Clinical Data**|Ane G. Domingo-Aldama et.al.|[2505.14643v1](http://arxiv.org/abs/2505.14643v1)|**2025-05-20**|null|
+|**2025-05-20**|**Communication with Multiple Senders**|Kailin Chen et.al.|[2505.14639v1](http://arxiv.org/abs/2505.14639v1)|**2025-05-20**|null|
+|**2025-05-20**|**Dual Precision Quantization for Efficient and Accurate Deep Neural Networks Inference**|Tomer Gafni et.al.|[2505.14638v1](http://arxiv.org/abs/2505.14638v1)|**2025-05-20**|null|
+|**2025-05-20**|**Bridging Predictive Coding and MDL: A Two-Part Code Framework for Deep Learning**|Benjamin Prada et.al.|[2505.14635v1](http://arxiv.org/abs/2505.14635v1)|**2025-05-20**|null|
+|**2025-05-20**|**Will AI Tell Lies to Save Sick Children? Litmus-Testing AI Values Prioritization with AIRiskDilemmas**|Yu Ying Chiu et.al.|[2505.14633v1](http://arxiv.org/abs/2505.14633v1)|**2025-05-20**|null|
+|**2025-05-20**|**Think Only When You Need with Large Hybrid-Reasoning Models**|Lingjie Jiang et.al.|[2505.14631v1](http://arxiv.org/abs/2505.14631v1)|**2025-05-20**|null|
+|**2025-05-20**|**KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language Models**|Fnu Mohbat et.al.|[2505.14629v1](http://arxiv.org/abs/2505.14629v1)|**2025-05-20**|[link](https://github.com/mohbattharani/kerl)|
+|**2025-05-20**|**Large-Scale Tree-Type Photonic Cluster State Generation with Recurrent Quantum Photonic Neural Networks**|Jacob Ewaniuk et.al.|[2505.14628v1](http://arxiv.org/abs/2505.14628v1)|**2025-05-20**|null|
+|**2025-05-20**|**TinyV: Reducing False Negatives in Verification Improves RL for LLM Reasoning**|Zhangchen Xu et.al.|[2505.14625v1](http://arxiv.org/abs/2505.14625v1)|**2025-05-20**|null|
+|**2025-05-20**|**3D Reconstruction from Sketches**|Abhimanyu Talwar et.al.|[2505.14621v1](http://arxiv.org/abs/2505.14621v1)|**2025-05-20**|null|
+|**2025-05-20**|**Enhancing Learned Knowledge in LoRA Adapters Through Efficient Contrastive Decoding on Ascend NPUs**|Morgan Lindsay Heisler et.al.|[2505.14620v1](http://arxiv.org/abs/2505.14620v1)|**2025-05-20**|null|
+|**2025-05-20**|**Impact of Surfactant and Flow Rate on the Electrical Properties of Activated Carbon Black Suspensions**|KangJin Lee et.al.|[2505.14618v1](http://arxiv.org/abs/2505.14618v1)|**2025-05-20**|null|
+|**2025-05-20**|**TSA-WF: Exploring the Effectiveness of Time Series Analysis for Website Fingerprinting**|Michael Wrana et.al.|[2505.14616v1](http://arxiv.org/abs/2505.14616v1)|**2025-05-20**|null|
+|**2025-05-20**|**SATBench: Benchmarking LLMs' Logical Reasoning via Automated Puzzle Generation from SAT Formulas**|Anjiang Wei et.al.|[2505.14615v1](http://arxiv.org/abs/2505.14615v1)|**2025-05-20**|null|
+|**2025-05-20**|**Virtual Cells: Predict, Explain, Discover**|Emmanuel Noutahi et.al.|[2505.14613v1](http://arxiv.org/abs/2505.14613v1)|**2025-05-20**|null|

@@ -2,33 +2,33 @@
 ### Reinforcement Learning
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-19**|**Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards**|Xiaoyuan Liu et.al.|[2505.13445v1](http://arxiv.org/abs/2505.13445v1)|**2025-05-19**|null|
-|**2025-05-19**|**Optimizing Anytime Reasoning via Budget Relative Policy Optimization**|Penghui Qi et.al.|[2505.13438v1](http://arxiv.org/abs/2505.13438v1)|**2025-05-19**|[link](https://github.com/sail-sg/anytimereasoner)|
-|**2025-05-19**|**G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning**|Liang Chen et.al.|[2505.13426v1](http://arxiv.org/abs/2505.13426v1)|**2025-05-19**|[link](https://github.com/chenllliang/g1)|
-|**2025-05-19**|**A Dataless Reinforcement Learning Approach to Rounding Hyperplane Optimization for Max-Cut**|Gabriel Malikal et.al.|[2505.13405v2](http://arxiv.org/abs/2505.13405v2)|**2025-05-20**|null|
-|**2025-05-19**|**Thinkless: LLM Learns When to Think**|Gongfan Fang et.al.|[2505.13379v1](http://arxiv.org/abs/2505.13379v1)|**2025-05-19**|[link](https://github.com/vainf/thinkless)|
-|**2025-05-19**|**Exploiting Symbolic Heuristics for the Synthesis of Domain-Specific Temporal Planning Guidance using Reinforcement Learning**|Irene Brugnara et.al.|[2505.13372v1](http://arxiv.org/abs/2505.13372v1)|**2025-05-19**|null|
-|**2025-05-19**|**Modeling Innovation Ecosystem Dynamics through Interacting Reinforced Bernoulli Processes**|Giacomo Aletti et.al.|[2505.13364v1](http://arxiv.org/abs/2505.13364v1)|**2025-05-19**|null|
-|**2025-05-19**|**J4R: Learning to Judge with Equivalent Initial State Group Relative Policy Optimization**|Austin Xu et.al.|[2505.13346v2](http://arxiv.org/abs/2505.13346v2)|**2025-05-20**|null|
-|**2025-05-19**|**Neural-Enhanced Rate Adaptation and Computation Distribution for Emerging mmWave Multi-User 3D Video Streaming Systems**|Babak Badnava et.al.|[2505.13337v1](http://arxiv.org/abs/2505.13337v1)|**2025-05-19**|null|
-|**2025-05-19**|**CSC-SQL: Corrective Self-Consistency in Text-to-SQL via Reinforcement Learning**|Lei Sheng et.al.|[2505.13271v1](http://arxiv.org/abs/2505.13271v1)|**2025-05-19**|null|
-|**2025-05-19**|**Unlocking the Potential of Difficulty Prior in RL-based Multimodal Reasoning**|Mingrui Chen et.al.|[2505.13261v1](http://arxiv.org/abs/2505.13261v1)|**2025-05-19**|null|
-|**2025-05-19**|**Effective and Transparent RAG: Adaptive-Reward Reinforcement Learning for Decision Traceability**|Jingyi Ren et.al.|[2505.13258v1](http://arxiv.org/abs/2505.13258v1)|**2025-05-19**|null|
-|**2025-05-19**|**Composing Dextrous Grasping and In-hand Manipulation via Scoring with a Reinforcement Learning Critic**|Lennart Röstel et.al.|[2505.13253v1](http://arxiv.org/abs/2505.13253v1)|**2025-05-19**|null|
-|**2025-05-19**|**When a Reinforcement Learning Agent Encounters Unknown Unknowns**|Juntian Zhu et.al.|[2505.13188v1](http://arxiv.org/abs/2505.13188v1)|**2025-05-19**|null|
-|**2025-05-19**|**Flow interactions and forward flight dynamics of tandem flapping wings**|Fang Fang et.al.|[2505.13149v1](http://arxiv.org/abs/2505.13149v1)|**2025-05-19**|null|
-|**2025-05-19**|**Temporal Distance-aware Transition Augmentation for Offline Model-based Reinforcement Learning**|Dongsu Lee et.al.|[2505.13144v1](http://arxiv.org/abs/2505.13144v1)|**2025-05-19**|null|
-|**2025-05-19**|**Auditing Meta-Cognitive Hallucinations in Reasoning Large Language Models**|Haolang Lu et.al.|[2505.13143v1](http://arxiv.org/abs/2505.13143v1)|**2025-05-19**|null|
-|**2025-05-19**|**Understanding Cross-Lingual Inconsistency in Large Language Models**|Zheng Wei Lim et.al.|[2505.13141v1](http://arxiv.org/abs/2505.13141v1)|**2025-05-19**|null|
-|**2025-05-19**|**Touch2Shape: Touch-Conditioned 3D Diffusion for Shape Exploration and Reconstruction**|Yuanbo Wang et.al.|[2505.13091v1](http://arxiv.org/abs/2505.13091v1)|**2025-05-19**|null|
-|**2025-05-19**|**Walking the Tightrope: Disentangling Beneficial and Detrimental Drifts in Non-Stationary Custom-Tuning**|Xiaoyu Yang et.al.|[2505.13081v1](http://arxiv.org/abs/2505.13081v1)|**2025-05-19**|null|
-|**2025-05-19**|**MindOmni: Unleashing Reasoning Generation in Vision Language Models with RGPO**|Yicheng Xiao et.al.|[2505.13031v1](http://arxiv.org/abs/2505.13031v1)|**2025-05-19**|[link](https://github.com/easonxiao-888/mindomni)|
-|**2025-05-19**|**Step-wise Adaptive Integration of Supervised Fine-tuning and Reinforcement Learning for Task-Specific LLMs**|Jack Chen et.al.|[2505.13026v1](http://arxiv.org/abs/2505.13026v1)|**2025-05-19**|null|
-|**2025-05-19**|**ExTrans: Multilingual Deep Reasoning Translation via Exemplar-Enhanced Reinforcement Learning**|Jiaan Wang et.al.|[2505.12996v1](http://arxiv.org/abs/2505.12996v1)|**2025-05-19**|null|
-|**2025-05-19**|**Multi-parameter Control for the (1+($λ$,$λ$))-GA on OneMax via Deep Reinforcement Learning**|Tai Nguyen et.al.|[2505.12982v1](http://arxiv.org/abs/2505.12982v1)|**2025-05-19**|null|
-|**2025-05-19**|**DGRO: Enhancing LLM Reasoning via Exploration-Exploitation Control and Reward Variance Management**|Xuerui Su et.al.|[2505.12951v1](http://arxiv.org/abs/2505.12951v1)|**2025-05-19**|null|
-|**2025-05-19**|**Do Not Let Low-Probability Tokens Over-Dominate in RL for LLMs**|Zhihe Yang et.al.|[2505.12929v1](http://arxiv.org/abs/2505.12929v1)|**2025-05-19**|[link](https://github.com/zhyang2226/ar-lopti)|
-|**2025-05-19**|**Power Allocation for Delay Optimization in Device-to-Device Networks: A Graph Reinforcement Learning Approach**|Hao Fang et.al.|[2505.12902v1](http://arxiv.org/abs/2505.12902v1)|**2025-05-19**|null|
-|**2025-05-19**|**Detection and Mitigation of Hallucination in Large Reasoning Models: A Mechanistic Perspective**|Zhongxiang Sun et.al.|[2505.12886v1](http://arxiv.org/abs/2505.12886v1)|**2025-05-19**|null|
-|**2025-05-19**|**From Grunts to Grammar: Emergent Language from Cooperative Foraging**|Maytus Piriyajitakonkij et.al.|[2505.12872v1](http://arxiv.org/abs/2505.12872v1)|**2025-05-19**|null|
-|**2025-05-19**|**Bias Fitting to Mitigate Length Bias of Reward Model in RLHF**|Kangwen Zhao et.al.|[2505.12843v1](http://arxiv.org/abs/2505.12843v1)|**2025-05-19**|null|
+|**2025-05-20**|**Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning**|Haolei Xu et.al.|[2505.14684v1](http://arxiv.org/abs/2505.14684v1)|**2025-05-20**|null|
+|**2025-05-20**|**Two Experts Are All You Need for Steering Thinking: Reinforcing Cognitive Effort in MoE Reasoning Models Without Additional Training**|Mengru Wang et.al.|[2505.14681v1](http://arxiv.org/abs/2505.14681v1)|**2025-05-20**|null|
+|**2025-05-20**|**Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning**|Jiaer Xia et.al.|[2505.14677v1](http://arxiv.org/abs/2505.14677v1)|**2025-05-20**|null|
+|**2025-05-20**|**Reward Reasoning Model**|Jiaxin Guo et.al.|[2505.14674v1](http://arxiv.org/abs/2505.14674v1)|**2025-05-20**|null|
+|**2025-05-20**|**General-Reasoner: Advancing LLM Reasoning Across All Domains**|Xueguang Ma et.al.|[2505.14652v1](http://arxiv.org/abs/2505.14652v1)|**2025-05-20**|null|
+|**2025-05-20**|**Think Only When You Need with Large Hybrid-Reasoning Models**|Lingjie Jiang et.al.|[2505.14631v1](http://arxiv.org/abs/2505.14631v1)|**2025-05-20**|null|
+|**2025-05-20**|**TinyV: Reducing False Negatives in Verification Improves RL for LLM Reasoning**|Zhangchen Xu et.al.|[2505.14625v1](http://arxiv.org/abs/2505.14625v1)|**2025-05-20**|null|
+|**2025-05-20**|**Context Reasoner: Incentivizing Reasoning Capability for Contextualized Privacy and Safety Compliance via Reinforcement Learning**|Wenbin Hu et.al.|[2505.14585v1](http://arxiv.org/abs/2505.14585v1)|**2025-05-20**|null|
+|**2025-05-20**|**Performance Optimization of Energy-Harvesting Underlay Cognitive Radio Networks Using Reinforcement Learning**|Deemah H. Tashman et.al.|[2505.14581v1](http://arxiv.org/abs/2505.14581v1)|**2025-05-20**|null|
+|**2025-05-20**|**KIPPO: Koopman-Inspired Proximal Policy Optimization**|Andrei Cozma et.al.|[2505.14566v1](http://arxiv.org/abs/2505.14566v1)|**2025-05-20**|null|
+|**2025-05-20**|**Bellman operator convergence enhancements in reinforcement learning algorithms**|David Krame Kadurha et.al.|[2505.14564v1](http://arxiv.org/abs/2505.14564v1)|**2025-05-20**|null|
+|**2025-05-20**|**KORGym: A Dynamic Game Platform for LLM Reasoning Evaluation**|Jiajun Shi et.al.|[2505.14552v1](http://arxiv.org/abs/2505.14552v1)|**2025-05-20**|null|
+|**2025-05-20**|**Multi-agent Reinforcement Learning vs. Fixed-Time Control for Traffic Signal Optimization: A Simulation Study**|Saahil Mahato et.al.|[2505.14544v1](http://arxiv.org/abs/2505.14544v1)|**2025-05-20**|[link](https://github.com/codesaahil/optitraffic)|
+|**2025-05-20**|**Energy-Efficient Deep Reinforcement Learning with Spiking Transformers**|Mohammad Irfan Uddin et.al.|[2505.14533v1](http://arxiv.org/abs/2505.14533v1)|**2025-05-20**|null|
+|**2025-05-20**|**NavBench: A Unified Robotics Benchmark for Reinforcement Learning-Based Autonomous Navigation**|Matteo El-Hariry et.al.|[2505.14526v1](http://arxiv.org/abs/2505.14526v1)|**2025-05-20**|null|
+|**2025-05-20**|**Personalised Insulin Adjustment with Reinforcement Learning: An In-Silico Validation for People with Diabetes on Intensive Insulin Treatment**|Maria Panagiotou et.al.|[2505.14477v1](http://arxiv.org/abs/2505.14477v1)|**2025-05-20**|null|
+|**2025-05-20**|**VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank**|Tianhe Wu et.al.|[2505.14460v1](http://arxiv.org/abs/2505.14460v1)|**2025-05-20**|null|
+|**2025-05-20**|**Interpretable Reinforcement Learning for Load Balancing using Kolmogorov-Arnold Networks**|Kamal Singh et.al.|[2505.14459v1](http://arxiv.org/abs/2505.14459v1)|**2025-05-20**|null|
+|**2025-05-20**|**Adaptive Estimation of the Transition Density of Controlled Markov Chains**|Imon Banerjee et.al.|[2505.14458v1](http://arxiv.org/abs/2505.14458v1)|**2025-05-20**|null|
+|**2025-05-20**|**CtrlDiff: Boosting Large Diffusion Language Models with Dynamic Block Prediction and Controllable Generation**|Chihan Huang et.al.|[2505.14455v1](http://arxiv.org/abs/2505.14455v1)|**2025-05-20**|null|
+|**2025-05-20**|**Semantically-driven Deep Reinforcement Learning for Inspection Path Planning**|Grzegorz Malczyk et.al.|[2505.14443v1](http://arxiv.org/abs/2505.14443v1)|**2025-05-20**|null|
+|**2025-05-20**|**PRL: Prompts from Reinforcement Learning**|Paweł Batorski et.al.|[2505.14412v1](http://arxiv.org/abs/2505.14412v1)|**2025-05-20**|null|
+|**2025-05-20**|**DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning**|Ziwei Zheng et.al.|[2505.14362v1](http://arxiv.org/abs/2505.14362v1)|**2025-05-20**|[link](https://github.com/visual-agent/deepeyes)|
+|**2025-05-20**|**Dual Data Alignment Makes AI-Generated Image Detector Easier Generalizable**|Ruoxin Chen et.al.|[2505.14359v1](http://arxiv.org/abs/2505.14359v1)|**2025-05-20**|null|
+|**2025-05-20**|**YESciEval: Robust LLM-as-a-Judge for Scientific Question Answering**|Jennifer D'Souza et.al.|[2505.14279v1](http://arxiv.org/abs/2505.14279v1)|**2025-05-20**|null|
+|**2025-05-20**|**Think-J: Learning to Think for Generative LLM-as-a-Judge**|Hui Huang et.al.|[2505.14268v1](http://arxiv.org/abs/2505.14268v1)|**2025-05-20**|[link](https://github.com/huihuichyan/think-j)|
+|**2025-05-20**|**AAPO: Enhance the Reasoning Capabilities of LLMs with Advantage Momentum**|Jian Xiong et.al.|[2505.14264v1](http://arxiv.org/abs/2505.14264v1)|**2025-05-20**|null|
+|**2025-05-20**|**Visual Agentic Reinforcement Fine-Tuning**|Ziyu Liu et.al.|[2505.14246v1](http://arxiv.org/abs/2505.14246v1)|**2025-05-20**|[link](https://github.com/liuziyu77/visual-rft)|
+|**2025-05-20**|**UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning**|Sule Bai et.al.|[2505.14231v1](http://arxiv.org/abs/2505.14231v1)|**2025-05-20**|null|
+|**2025-05-20**|**Reinforcement Learning vs. Distillation: Understanding Accuracy and Capability in LLM Reasoning**|Minwu Kim et.al.|[2505.14216v1](http://arxiv.org/abs/2505.14216v1)|**2025-05-20**|null|

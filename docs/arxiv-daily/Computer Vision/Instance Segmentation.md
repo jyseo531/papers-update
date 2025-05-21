@@ -2,33 +2,33 @@
 ### Instance Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-19**|**GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation**|Abhay Deshpande et.al.|[2505.13441v1](http://arxiv.org/abs/2505.13441v1)|**2025-05-19**|null|
-|**2025-05-19**|**FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance**|Dian Shao et.al.|[2505.13437v1](http://arxiv.org/abs/2505.13437v1)|**2025-05-19**|null|
-|**2025-05-19**|**Meta-rotations and the Structure of Stable Matchings in the Student Project Allocation Problem**|Peace Ayegba et.al.|[2505.13428v1](http://arxiv.org/abs/2505.13428v1)|**2025-05-19**|null|
-|**2025-05-19**|**Make Still Further Progress: Chain of Thoughts for Tabular Data Leaderboard**|Si-Yang Liu et.al.|[2505.13421v1](http://arxiv.org/abs/2505.13421v1)|**2025-05-19**|null|
-|**2025-05-19**|**GuidedMorph: Two-Stage Deformable Registration for Breast MRI**|Yaqian Chen et.al.|[2505.13414v1](http://arxiv.org/abs/2505.13414v1)|**2025-05-19**|null|
-|**2025-05-19**|**Recombinant dynamical systems**|Saul Kato et.al.|[2505.13409v1](http://arxiv.org/abs/2505.13409v1)|**2025-05-19**|null|
-|**2025-05-19**|**Granary: Speech Recognition and Translation Dataset in 25 European Languages**|Nithin Rao Koluguri et.al.|[2505.13404v1](http://arxiv.org/abs/2505.13404v1)|**2025-05-19**|null|
-|**2025-05-19**|**Unlabeled Data or Pre-trained Model: Rethinking Semi-Supervised Learning and Pretrain-Finetuning**|Song-Lin Li et.al.|[2505.13317v2](http://arxiv.org/abs/2505.13317v2)|**2025-05-20**|null|
-|**2025-05-19**|**Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space**|Hengli Li et.al.|[2505.13308v1](http://arxiv.org/abs/2505.13308v1)|**2025-05-19**|null|
-|**2025-05-19**|**Selfless reduced free product $C^*$-algebras**|Ben Hayes et.al.|[2505.13265v1](http://arxiv.org/abs/2505.13265v1)|**2025-05-19**|null|
-|**2025-05-19**|**MAGI-1: Autoregressive Video Generation at Scale**|Sand. ai et.al.|[2505.13211v1](http://arxiv.org/abs/2505.13211v1)|**2025-05-19**|[link](https://github.com/sandai-org/magiattention)|
-|**2025-05-19**|**Filtering in a hazard rate change-point model with financial and life-insurance applications**|Matteo Buttarazzi et.al.|[2505.13185v2](http://arxiv.org/abs/2505.13185v2)|**2025-05-20**|null|
-|**2025-05-19**|**FlowCut: Unsupervised Video Instance Segmentation via Temporal Mask Matching**|Alp Eren Sari et.al.|[2505.13174v1](http://arxiv.org/abs/2505.13174v1)|**2025-05-19**|null|
-|**2025-05-19**|**Adaptive Image Restoration for Video Surveillance: A Real-Time Approach**|Muhammad Awais Amin et.al.|[2505.13130v1](http://arxiv.org/abs/2505.13130v1)|**2025-05-19**|null|
-|**2025-05-19**|**A Unified Framework for the Transportability of Population-Level Causal Measures**|Ahmed Boughdiri et.al.|[2505.13104v1](http://arxiv.org/abs/2505.13104v1)|**2025-05-19**|null|
-|**2025-05-19**|**Industrial Synthetic Segment Pre-training**|Shinichi Mae et.al.|[2505.13099v2](http://arxiv.org/abs/2505.13099v2)|**2025-05-20**|null|
-|**2025-05-19**|**When do Lyapunov Subcenter Manifolds become Eigenmanifolds?**|Yannik P. Wotte et.al.|[2505.13064v1](http://arxiv.org/abs/2505.13064v1)|**2025-05-19**|null|
-|**2025-05-19**|**EffiBench-X: A Multi-Language Benchmark for Measuring Efficiency of LLM-Generated Code**|Yuhao Qing et.al.|[2505.13004v1](http://arxiv.org/abs/2505.13004v1)|**2025-05-19**|[link](https://github.com/effibench/effibench-x)|
-|**2025-05-19**|**Calm-Whisper: Reduce Whisper Hallucination On Non-Speech By Calming Crazy Heads Down**|Yingzhi Wang et.al.|[2505.12969v1](http://arxiv.org/abs/2505.12969v1)|**2025-05-19**|null|
-|**2025-05-19**|**Lara: Lightweight Anonymous Authentication with Asynchronous Revocation Auditability**|Claudio Correia et.al.|[2505.12968v1](http://arxiv.org/abs/2505.12968v1)|**2025-05-19**|null|
-|**2025-05-19**|**Segmentation of temporomandibular joint structures on mri images using neural networks for diagnosis of pathologies**|Maksim I. Ivanov et.al.|[2505.12963v1](http://arxiv.org/abs/2505.12963v1)|**2025-05-19**|null|
-|**2025-05-19**|**Neural Morphological Tagging for Nguni Languages**|Cael Marquard et.al.|[2505.12949v1](http://arxiv.org/abs/2505.12949v1)|**2025-05-19**|null|
-|**2025-05-19**|**Classification of ill-posedness for bounded linear operators in Banach spaces**|Bernd Hofmann et.al.|[2505.12931v1](http://arxiv.org/abs/2505.12931v1)|**2025-05-19**|null|
-|**2025-05-19**|**Minos: Exploiting Cloud Performance Variation with Function-as-a-Service Instance Selection**|Trever Schirmer et.al.|[2505.12928v1](http://arxiv.org/abs/2505.12928v1)|**2025-05-19**|null|
-|**2025-05-19**|**HiERO: understanding the hierarchy of human behavior enhances reasoning on egocentric videos**|Simone Alberto Peirone et.al.|[2505.12911v1](http://arxiv.org/abs/2505.12911v1)|**2025-05-19**|[link](https://github.com/sapeirone/hiero)|
-|**2025-05-19**|**Implicit numerical approximation for stochastic delay differential equations with the nonlinear diffusion term in the infinite horizon**|Yudong Wang et.al.|[2505.12883v1](http://arxiv.org/abs/2505.12883v1)|**2025-05-19**|null|
-|**2025-05-19**|**Robust Multimodal Segmentation with Representation Regularization and Hybrid Prototype Distillation**|Jiaqi Tan et.al.|[2505.12861v1](http://arxiv.org/abs/2505.12861v1)|**2025-05-19**|[link](https://github.com/robustseg/robustseg)|
-|**2025-05-19**|**Accelerate TarFlow Sampling with GS-Jacobi Iteration**|Ben Liu et.al.|[2505.12849v1](http://arxiv.org/abs/2505.12849v1)|**2025-05-19**|null|
-|**2025-05-19**|**Hierarchical Representations for Evolving Acyclic Vector Autoregressions (HEAVe)**|Cameron Cornell et.al.|[2505.12806v1](http://arxiv.org/abs/2505.12806v1)|**2025-05-19**|null|
-|**2025-05-19**|**Enhancing Transformers Through Conditioned Embedded Tokens**|Hemanth Saratchandran et.al.|[2505.12789v1](http://arxiv.org/abs/2505.12789v1)|**2025-05-19**|null|
+|**2025-05-20**|**Quantum Optimization via Gradient-Based Hamiltonian Descent**|Jiaqi Leng et.al.|[2505.14670v1](http://arxiv.org/abs/2505.14670v1)|**2025-05-20**|null|
+|**2025-05-20**|**VideoEval-Pro: Robust and Realistic Long Video Understanding Evaluation**|Wentao Ma et.al.|[2505.14640v1](http://arxiv.org/abs/2505.14640v1)|**2025-05-20**|null|
+|**2025-05-20**|**Debating for Better Reasoning: An Unsupervised Multimodal Approach**|Ashutosh Adhikari et.al.|[2505.14627v1](http://arxiv.org/abs/2505.14627v1)|**2025-05-20**|null|
+|**2025-05-20**|**SATBench: Benchmarking LLMs' Logical Reasoning via Automated Puzzle Generation from SAT Formulas**|Anjiang Wei et.al.|[2505.14615v1](http://arxiv.org/abs/2505.14615v1)|**2025-05-20**|null|
+|**2025-05-20**|**Instance Segmentation for Point Sets**|Abhimanyu Talwar et.al.|[2505.14583v1](http://arxiv.org/abs/2505.14583v1)|**2025-05-20**|null|
+|**2025-05-20**|**Measuring spin precession from massive black holes binaries with gravitational waves: insights from time-domain signal morphology**|Simona J. Miller et.al.|[2505.14573v1](http://arxiv.org/abs/2505.14573v1)|**2025-05-20**|null|
+|**2025-05-20**|**Automated Fetal Biometry Assessment with Deep Ensembles using Sparse-Sampling of 2D Intrapartum Ultrasound Images**|Jayroop Ramesh et.al.|[2505.14572v1](http://arxiv.org/abs/2505.14572v1)|**2025-05-20**|null|
+|**2025-05-20**|**GUARD: Constructing Realistic Two-Player Matrix and Security Games for Benchmarking Game-Theoretic Algorithms**|Noah Krever et.al.|[2505.14547v1](http://arxiv.org/abs/2505.14547v1)|**2025-05-20**|null|
+|**2025-05-20**|**ReservoirTTA: Prolonged Test-time Adaptation for Evolving and Recurring Domains**|Guillaume Vray et.al.|[2505.14511v1](http://arxiv.org/abs/2505.14511v1)|**2025-05-20**|null|
+|**2025-05-20**|**Regularity of the volume function**|Junyu Cao et.al.|[2505.14495v1](http://arxiv.org/abs/2505.14495v1)|**2025-05-20**|null|
+|**2025-05-20**|**CtrlDiff: Boosting Large Diffusion Language Models with Dynamic Block Prediction and Controllable Generation**|Chihan Huang et.al.|[2505.14455v1](http://arxiv.org/abs/2505.14455v1)|**2025-05-20**|null|
+|**2025-05-20**|**Semantically-driven Deep Reinforcement Learning for Inspection Path Planning**|Grzegorz Malczyk et.al.|[2505.14443v1](http://arxiv.org/abs/2505.14443v1)|**2025-05-20**|null|
+|**2025-05-20**|**MindVote: How LLMs Predict Human Decision-Making in Social Media Polls**|Xutao Mao et.al.|[2505.14422v1](http://arxiv.org/abs/2505.14422v1)|**2025-05-20**|null|
+|**2025-05-20**|**Solving Unit Commitment Problems with Graph Neural Network based Initial Commitment Prediction and Large Neighborhood Search**|Linfeng Yang et.al.|[2505.14408v1](http://arxiv.org/abs/2505.14408v1)|**2025-05-20**|null|
+|**2025-05-20**|**Pierce the Mists, Greet the Sky: Decipher Knowledge Overshadowing via Knowledge Circuit Analysis**|Haoming Huang et.al.|[2505.14406v1](http://arxiv.org/abs/2505.14406v1)|**2025-05-20**|null|
+|**2025-05-20**|**Unearthing Gems from Stones: Policy Optimization with Negative Sample Augmentation for LLM Reasoning**|Zhaohui Yang et.al.|[2505.14403v1](http://arxiv.org/abs/2505.14403v1)|**2025-05-20**|null|
+|**2025-05-20**|**phaser: An all-in-one package for (multislice) electron ptychography**|Colin Gilgenbach et.al.|[2505.14372v1](http://arxiv.org/abs/2505.14372v1)|**2025-05-20**|null|
+|**2025-05-20**|**Towards Embodied Cognition in Robots via Spatially Grounded Synthetic Worlds**|Joel Currie et.al.|[2505.14366v1](http://arxiv.org/abs/2505.14366v1)|**2025-05-20**|null|
+|**2025-05-20**|**Universal Acoustic Adversarial Attacks for Flexible Control of Speech-LLMs**|Rao Ma et.al.|[2505.14286v1](http://arxiv.org/abs/2505.14286v1)|**2025-05-20**|null|
+|**2025-05-20**|**Data-Efficient Hate Speech Detection via Cross-Lingual Nearest Neighbor Retrieval with Limited Labeled Data**|Faeze Ghorbanpour et.al.|[2505.14272v1](http://arxiv.org/abs/2505.14272v1)|**2025-05-20**|null|
+|**2025-05-20**|**Strong convergence in the infinite horizon of numerical methods for stochastic delay differential equations**|Yudong Wang et.al.|[2505.14262v1](http://arxiv.org/abs/2505.14262v1)|**2025-05-20**|null|
+|**2025-05-20**|**Decoupling Classifier for Boosting Few-shot Object Detection and Instance Segmentation**|Bin-Bin Gao et.al.|[2505.14239v1](http://arxiv.org/abs/2505.14239v1)|**2025-05-20**|null|
+|**2025-05-20**|**A General Algorithm For Determining The Conductivity Zeros In Large Molecular Nanostructures: Applications To Rectangular Graphene Sheets**|Marian Nita et.al.|[2505.14237v1](http://arxiv.org/abs/2505.14237v1)|**2025-05-20**|null|
+|**2025-05-20**|**THOR-MoE: Hierarchical Task-Guided and Context-Responsive Routing for Neural Machine Translation**|Yunlong Liang et.al.|[2505.14173v1](http://arxiv.org/abs/2505.14173v1)|**2025-05-20**|null|
+|**2025-05-20**|**Memory Assignment for Finite-Memory Strategies in Adversarial Patrolling Games**|Vojtěch Kůr et.al.|[2505.14137v1](http://arxiv.org/abs/2505.14137v1)|**2025-05-20**|null|
+|**2025-05-20**|**Intra-class Patch Swap for Self-Distillation**|Hongjun Choi et.al.|[2505.14124v1](http://arxiv.org/abs/2505.14124v1)|**2025-05-20**|[link](https://github.com/hchoi71/intra-class-patch-swap)|
+|**2025-05-20**|**CONSIGN: Conformal Segmentation Informed by Spatial Groupings via Decomposition**|Bruno Viti et.al.|[2505.14113v1](http://arxiv.org/abs/2505.14113v1)|**2025-05-20**|null|
+|**2025-05-20**|**DiagnosisArena: Benchmarking Diagnostic Reasoning for Large Language Models**|Yakun Zhu et.al.|[2505.14107v1](http://arxiv.org/abs/2505.14107v1)|**2025-05-20**|[link](https://github.com/spiral-med/diagnosisarena)|
+|**2025-05-20**|**Unintended Bias in 2D+ Image Segmentation and Its Effect on Attention Asymmetry**|Zsófia Molnár et.al.|[2505.14105v1](http://arxiv.org/abs/2505.14105v1)|**2025-05-20**|null|
+|**2025-05-20**|**Unlocking the Power of SAM 2 for Few-Shot Segmentation**|Qianxiong Xu et.al.|[2505.14100v1](http://arxiv.org/abs/2505.14100v1)|**2025-05-20**|[link](https://github.com/sam1224/fssam)|

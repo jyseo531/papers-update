@@ -2,33 +2,33 @@
 ### Transformer
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-19**|**Unlocking Non-Invasive Brain-to-Text**|Dulhan Jayalath et.al.|[2505.13446v1](http://arxiv.org/abs/2505.13446v1)|**2025-05-19**|null|
-|**2025-05-19**|**GuidedMorph: Two-Stage Deformable Registration for Breast MRI**|Yaqian Chen et.al.|[2505.13414v1](http://arxiv.org/abs/2505.13414v1)|**2025-05-19**|null|
-|**2025-05-19**|**CoT-Kinetics: A Theoretical Modeling Assessing LRM Reasoning Process**|Jinhe Bi et.al.|[2505.13408v1](http://arxiv.org/abs/2505.13408v1)|**2025-05-19**|null|
-|**2025-05-19**|**IG Parser: A Software Package for the Encoding of Institutional Statements using the Institutional Grammar**|Christopher K. Frantz et.al.|[2505.13393v2](http://arxiv.org/abs/2505.13393v2)|**2025-05-20**|null|
-|**2025-05-19**|**Faster Video Diffusion with Trainable Sparse Attention**|Peiyuan Zhang et.al.|[2505.13389v1](http://arxiv.org/abs/2505.13389v1)|**2025-05-19**|null|
-|**2025-05-19**|**How Adding Metacognitive Requirements in Support of AI Feedback in Practice Exams Transforms Student Learning Behaviors**|Mak Ahmad et.al.|[2505.13381v1](http://arxiv.org/abs/2505.13381v1)|**2025-05-19**|null|
-|**2025-05-19**|**One-Step Offline Distillation of Diffusion-based Models via Koopman Modeling**|Nimrod Berman et.al.|[2505.13358v2](http://arxiv.org/abs/2505.13358v2)|**2025-05-20**|[link](https://github.com/azencot-group/kdm)|
-|**2025-05-19**|**RoPECraft: Training-Free Motion Transfer with Trajectory-Guided RoPE Optimization on Diffusion Transformers**|Ahmet Berke Gokmen et.al.|[2505.13344v1](http://arxiv.org/abs/2505.13344v1)|**2025-05-19**|null|
-|**2025-05-19**|**RECON: Robust symmetry discovery via Explicit Canonical Orientation Normalization**|Alonso Urbano et.al.|[2505.13289v1](http://arxiv.org/abs/2505.13289v1)|**2025-05-19**|null|
-|**2025-05-19**|**Computer Vision Models Show Human-Like Sensitivity to Geometric and Topological Concepts**|Zekun Wang et.al.|[2505.13281v1](http://arxiv.org/abs/2505.13281v1)|**2025-05-19**|null|
-|**2025-05-19**|**DB3D-L: Depth-aware BEV Feature Transformation for Accurate 3D Lane Detection**|Yehao Liu et.al.|[2505.13266v1](http://arxiv.org/abs/2505.13266v1)|**2025-05-19**|null|
-|**2025-05-19**|**Agentic Publications: An LLM-Driven Framework for Interactive Scientific Publishing, Supplementing Traditional Papers with AI-Powered Knowledge Systems**|Roberto Pugliese et.al.|[2505.13246v1](http://arxiv.org/abs/2505.13246v1)|**2025-05-19**|null|
-|**2025-05-19**|**WriteViT: Handwritten Text Generation with Vision Transformer**|Dang Hoai Nam et.al.|[2505.13235v1](http://arxiv.org/abs/2505.13235v1)|**2025-05-19**|[link](https://github.com/hnam-1765/writevit)|
-|**2025-05-19**|**Implicit bias produces neural scaling laws in learning curves, from perceptrons to deep networks**|Francesco D'Amico et.al.|[2505.13230v1](http://arxiv.org/abs/2505.13230v1)|**2025-05-19**|null|
-|**2025-05-19**|**Swin DiT: Diffusion Transformer using Pseudo Shifted Windows**|Jiafu Wu et.al.|[2505.13219v2](http://arxiv.org/abs/2505.13219v2)|**2025-05-20**|null|
-|**2025-05-19**|**RB-SCD: A New Benchmark for Semantic Change Detection of Roads and Bridges in Traffic Scenes**|Qingling Shu et.al.|[2505.13212v1](http://arxiv.org/abs/2505.13212v1)|**2025-05-19**|null|
-|**2025-05-19**|**A Physics-Inspired Optimizer: Velocity Regularized Adam**|Pranav Vaidhyanathan et.al.|[2505.13196v1](http://arxiv.org/abs/2505.13196v1)|**2025-05-19**|null|
-|**2025-05-19**|**Singularity of the spectrum of typical minimal smooth area-preserving flows in any genus**|Krzysztof Frączek et.al.|[2505.13193v1](http://arxiv.org/abs/2505.13193v1)|**2025-05-19**|null|
-|**2025-05-19**|**Combinatorial Sample-and Back-Focal-Plane (BFP) Imaging. Pt. I: Instrument and acquisition parameters affecting BFP images and their analysis**|Omer Shavit et.al.|[2505.13190v1](http://arxiv.org/abs/2505.13190v1)|**2025-05-19**|null|
-|**2025-05-19**|**Enhancing LLMs for Time Series Forecasting via Structure-Guided Cross-Modal Alignment**|Siming Sun et.al.|[2505.13175v1](http://arxiv.org/abs/2505.13175v1)|**2025-05-19**|null|
-|**2025-05-19**|**Zero-Shot Adaptation of Behavioral Foundation Models to Unseen Dynamics**|Maksim Bobrin et.al.|[2505.13150v1](http://arxiv.org/abs/2505.13150v1)|**2025-05-19**|null|
-|**2025-05-19**|**Parallel Layer Normalization for Universal Approximation**|Yunhao Ni et.al.|[2505.13142v1](http://arxiv.org/abs/2505.13142v1)|**2025-05-19**|null|
-|**2025-05-19**|**CacheFlow: Fast Human Motion Prediction by Cached Normalizing Flow**|Takahiro Maeda et.al.|[2505.13140v1](http://arxiv.org/abs/2505.13140v1)|**2025-05-19**|null|
-|**2025-05-19**|**Learning to Adapt to Position Bias in Vision Transformer Classifiers**|Robert-Jan Bruintjes et.al.|[2505.13137v1](http://arxiv.org/abs/2505.13137v1)|**2025-05-19**|[link](https://github.com/rjbruin/position-shap)|
-|**2025-05-19**|**$μ$PC: Scaling Predictive Coding to 100+ Layer Networks**|Francesco Innocenti et.al.|[2505.13124v1](http://arxiv.org/abs/2505.13124v1)|**2025-05-19**|[link](https://github.com/thebuckleylab/jpc)|
-|**2025-05-19**|**Attention-based clustering**|Rodrigo Maulen-Soto et.al.|[2505.13112v1](http://arxiv.org/abs/2505.13112v1)|**2025-05-19**|null|
-|**2025-05-19**|**Lightweight Transformer via Unrolling of Mixed Graph Algorithms for Traffic Forecast**|Ji Qi et.al.|[2505.13102v1](http://arxiv.org/abs/2505.13102v1)|**2025-05-19**|[link](https://github.com/singularityundefined/unrolling-gsp-stforecast)|
-|**2025-05-19**|**Time series saliency maps: explaining models across multiple domains**|Christodoulos Kechris et.al.|[2505.13100v1](http://arxiv.org/abs/2505.13100v1)|**2025-05-19**|null|
-|**2025-05-19**|**RSS-Based Localization: Ensuring Consistency and Asymptotic Efficiency**|Shenghua Hu et.al.|[2505.13070v1](http://arxiv.org/abs/2505.13070v1)|**2025-05-19**|null|
-|**2025-05-19**|**Simplicity is Key: An Unsupervised Pretraining Approach for Sparse Radio Channels**|Jonathan Ott et.al.|[2505.13055v1](http://arxiv.org/abs/2505.13055v1)|**2025-05-19**|null|
+|**2025-05-20**|**Grouping First, Attending Smartly: Training-Free Acceleration for Diffusion Transformers**|Sucheng Ren et.al.|[2505.14687v1](http://arxiv.org/abs/2505.14687v1)|**2025-05-20**|[link](https://github.com/oliverrensu/grat)|
+|**2025-05-20**|**Abacus: A Cost-Based Optimizer for Semantic Operator Systems**|Matthew Russo et.al.|[2505.14661v1](http://arxiv.org/abs/2505.14661v1)|**2025-05-20**|null|
+|**2025-05-20**|**Explainable AI for Securing Healthcare in IoT-Integrated 6G Wireless Networks**|Navneet Kaur et.al.|[2505.14659v1](http://arxiv.org/abs/2505.14659v1)|**2025-05-20**|null|
+|**2025-05-20**|**A General Framework for Group Sparsity in Hyperspectral Unmixing Using Endmember Bundles**|Gokul Bhusal et.al.|[2505.14634v1](http://arxiv.org/abs/2505.14634v1)|**2025-05-20**|null|
+|**2025-05-20**|**Equivariant Chern character operators and Okounkov's conjecture**|Mazen M. Alhwaimel et.al.|[2505.14626v1](http://arxiv.org/abs/2505.14626v1)|**2025-05-20**|null|
+|**2025-05-20**|**Fisher-Rao distances between finite energy signals in noise**|Franck Florin et.al.|[2505.14611v1](http://arxiv.org/abs/2505.14611v1)|**2025-05-20**|null|
+|**2025-05-20**|**Towards a Foundation Model for Communication Systems**|Davide Buffelli et.al.|[2505.14603v1](http://arxiv.org/abs/2505.14603v1)|**2025-05-20**|null|
+|**2025-05-20**|**Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning**|Shangziqi Zhao et.al.|[2505.14582v1](http://arxiv.org/abs/2505.14582v1)|**2025-05-20**|null|
+|**2025-05-20**|**Time to Embed: Unlocking Foundation Models for Time Series with Channel Descriptions**|Utsav Dutta et.al.|[2505.14543v1](http://arxiv.org/abs/2505.14543v1)|**2025-05-20**|null|
+|**2025-05-20**|**Energy-Efficient Deep Reinforcement Learning with Spiking Transformers**|Mohammad Irfan Uddin et.al.|[2505.14533v1](http://arxiv.org/abs/2505.14533v1)|**2025-05-20**|null|
+|**2025-05-20**|**SifterNet: A Generalized and Model-Agnostic Trigger Purification Approach**|Shaoye Luo et.al.|[2505.14531v1](http://arxiv.org/abs/2505.14531v1)|**2025-05-20**|null|
+|**2025-05-20**|**Exploring Graph Representations of Logical Forms for Language Modeling**|Michael Sullivan et.al.|[2505.14523v1](http://arxiv.org/abs/2505.14523v1)|**2025-05-20**|null|
+|**2025-05-20**|**Interpretable Dual-Stream Learning for Local Wind Hazard Prediction in Vulnerable Communities**|Mahmuda Akhter Nishu et.al.|[2505.14522v1](http://arxiv.org/abs/2505.14522v1)|**2025-05-20**|null|
+|**2025-05-20**|**Latent Flow Transformer**|Yen-Chen Wu et.al.|[2505.14513v1](http://arxiv.org/abs/2505.14513v1)|**2025-05-20**|[link](https://github.com/mtkresearch/latent-flow-transformer)|
+|**2025-05-20**|**Just One Layer Norm Guarantees Stable Extrapolation**|Juliusz Ziomek et.al.|[2505.14512v1](http://arxiv.org/abs/2505.14512v1)|**2025-05-20**|null|
+|**2025-05-20**|**ModRWKV: Transformer Multimodality in Linear Time**|Jiale Kang et.al.|[2505.14505v1](http://arxiv.org/abs/2505.14505v1)|**2025-05-20**|null|
+|**2025-05-20**|**Enhancing Multi-Energy Modeling: The Role of Mixed-Integer Optimization Decisions**|Stephanie Riedmüller et.al.|[2505.14492v1](http://arxiv.org/abs/2505.14492v1)|**2025-05-20**|null|
+|**2025-05-20**|**Void in Language Models**|Mani Shemiranifar et.al.|[2505.14467v1](http://arxiv.org/abs/2505.14467v1)|**2025-05-20**|null|
+|**2025-05-20**|**Orientation Reversal and the Chern-Simons Natural Boundary**|Griffen Adams et.al.|[2505.14441v1](http://arxiv.org/abs/2505.14441v1)|**2025-05-20**|null|
+|**2025-05-20**|**SkyMemory: A LEO Edge Cache for Transformer Inference Optimization and Scale Out**|Thomas Sandholm et.al.|[2505.14427v1](http://arxiv.org/abs/2505.14427v1)|**2025-05-20**|null|
+|**2025-05-20**|**Table Foundation Models: on knowledge pre-training for tabular learning**|Myung Jun Kim et.al.|[2505.14415v1](http://arxiv.org/abs/2505.14415v1)|**2025-05-20**|null|
+|**2025-05-20**|**OmniGenBench: A Modular Platform for Reproducible Genomic Foundation Models Benchmarking**|Heng Yang et.al.|[2505.14402v1](http://arxiv.org/abs/2505.14402v1)|**2025-05-20**|null|
+|**2025-05-20**|**A New Wavelet Scattering Transform-Based Statistic for Cosmological Analysis of Large-Scale Structure**|Zhujun Jiang et.al.|[2505.14400v1](http://arxiv.org/abs/2505.14400v1)|**2025-05-20**|null|
+|**2025-05-20**|**MUG-Eval: A Proxy Evaluation Framework for Multilingual Generation Capabilities in Any Language**|Seyoung Song et.al.|[2505.14395v1](http://arxiv.org/abs/2505.14395v1)|**2025-05-20**|[link](https://github.com/seyoungsong/mugeval)|
+|**2025-05-20**|**Knowledge Graph Based Repository-Level Code Generation**|Mihir Athale et.al.|[2505.14394v1](http://arxiv.org/abs/2505.14394v1)|**2025-05-20**|null|
+|**2025-05-20**|**Towards Embodied Cognition in Robots via Spatially Grounded Synthetic Worlds**|Joel Currie et.al.|[2505.14366v1](http://arxiv.org/abs/2505.14366v1)|**2025-05-20**|null|
+|**2025-05-20**|**Water-rich amorphous state from drying mixed-metal sulfate solutions**|Christiaan T. van Campenhout et.al.|[2505.14334v1](http://arxiv.org/abs/2505.14334v1)|**2025-05-20**|null|
+|**2025-05-20**|**TF-Mamba: Text-enhanced Fusion Mamba with Missing Modalities for Robust Multimodal Sentiment Analysis**|Xiang Li et.al.|[2505.14329v1](http://arxiv.org/abs/2505.14329v1)|**2025-05-20**|null|
+|**2025-05-20**|**Low-Cost FlashAttention with Fused Exponential and Multiplication Hardware Operators**|Kosmas Alexandridis et.al.|[2505.14314v1](http://arxiv.org/abs/2505.14314v1)|**2025-05-20**|null|
+|**2025-05-20**|**Timely CPU Scheduling for Computation-intensive Status Updates**|Mengqiu Zhou et.al.|[2505.14307v1](http://arxiv.org/abs/2505.14307v1)|**2025-05-20**|null|
