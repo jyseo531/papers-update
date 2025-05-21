@@ -2178,6 +2178,8 @@ Updated on 2025-05-21
 | 1 | Unknown | Rustamshry/Qwen3-1 | Updated2 minutes ago | [Link](https://huggingface.co/Rustamshry/Qwen3-1.7B-azerbaijani-math) |
 | 1 | Unknown | Hamayoun/ZoniQuestion | Updatedabout 3 hours ago | [Link](https://huggingface.co/Hamayoun/Zoni) |
 | 1 | Unknown | Igorrr0/Polish-llamaQuestion | Updatedabout 4 hours ago | [Link](https://huggingface.co/Igorrr0/Polish-llama) |
+| 1 | Unknown | TIGER-Lab/General-Reasoner-Qwen3-14BQuestion | Updated10 minutes ago | [Link](https://huggingface.co/TIGER-Lab/General-Reasoner-Qwen3-14B) |
+| 1 | Unknown | TIGER-Lab/General-Reasoner-Qwen3-4BQuestion | Updated11 minutes ago | [Link](https://huggingface.co/TIGER-Lab/General-Reasoner-Qwen3-4B) |
 
 ## Reinforcement Learning
 
