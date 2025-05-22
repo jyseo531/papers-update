@@ -8,7 +8,7 @@
 |**2025-05-20**|**Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning**|Jiaer Xia et.al.|[2505.14677v1](http://arxiv.org/abs/2505.14677v1)|**2025-05-20**|null|
 |**2025-05-20**|**Training-Free Watermarking for Autoregressive Image Generation**|Yu Tong et.al.|[2505.14673v1](http://arxiv.org/abs/2505.14673v1)|**2025-05-20**|null|
 |**2025-05-20**|**UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens**|Ruichuan An et.al.|[2505.14671v1](http://arxiv.org/abs/2505.14671v1)|**2025-05-20**|null|
-|**2025-05-20**|**AKRMap: Adaptive Kernel Regression for Trustworthy Visualization of Cross-Modal Embeddings**|Yilin Ye et.al.|[2505.14664v1](http://arxiv.org/abs/2505.14664v1)|**2025-05-20**|null|
+|**2025-05-20**|**AKRMap: Adaptive Kernel Regression for Trustworthy Visualization of Cross-Modal Embeddings**|Yilin Ye et.al.|[2505.14664v1](http://arxiv.org/abs/2505.14664v1)|**2025-05-20**|[link](https://github.com/yilinye/akrmap)|
 |**2025-05-20**|**EmoGist: Efficient In-Context Learning for Visual Emotion Understanding**|Ronald Seoh et.al.|[2505.14660v1](http://arxiv.org/abs/2505.14660v1)|**2025-05-20**|null|
 |**2025-05-20**|**CAD-Coder: An Open-Source Vision-Language Model for Computer-Aided Design Code Generation**|Anna C. Doris et.al.|[2505.14646v1](http://arxiv.org/abs/2505.14646v1)|**2025-05-20**|null|
 |**2025-05-20**|**A General Framework for Group Sparsity in Hyperspectral Unmixing Using Endmember Bundles**|Gokul Bhusal et.al.|[2505.14634v1](http://arxiv.org/abs/2505.14634v1)|**2025-05-20**|null|
@@ -23,7 +23,7 @@
 |**2025-05-20**|**Neural Video Compression with Context Modulation**|Chuanbo Tang et.al.|[2505.14541v1](http://arxiv.org/abs/2505.14541v1)|**2025-05-20**|null|
 |**2025-05-20**|**Personalize Your Gaussian: Consistent 3D Scene Personalization from a Single Image**|Yuxuan Wang et.al.|[2505.14537v1](http://arxiv.org/abs/2505.14537v1)|**2025-05-20**|null|
 |**2025-05-20**|**diffDemorph: Extending Reference-Free Demorphing to Unseen Faces**|Nitish Shukla et.al.|[2505.14527v1](http://arxiv.org/abs/2505.14527v1)|**2025-05-20**|null|
-|**2025-05-20**|**SparC: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling**|Zhihao Li et.al.|[2505.14521v1](http://arxiv.org/abs/2505.14521v1)|**2025-05-20**|null|
+|**2025-05-20**|**Sparc3D: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling**|Zhihao Li et.al.|[2505.14521v2](http://arxiv.org/abs/2505.14521v2)|**2025-05-21**|null|
 |**2025-05-20**|**Latent Flow Transformer**|Yen-Chen Wu et.al.|[2505.14513v1](http://arxiv.org/abs/2505.14513v1)|**2025-05-20**|[link](https://github.com/mtkresearch/latent-flow-transformer)|
 |**2025-05-20**|**Just One Layer Norm Guarantees Stable Extrapolation**|Juliusz Ziomek et.al.|[2505.14512v1](http://arxiv.org/abs/2505.14512v1)|**2025-05-20**|null|
 |**2025-05-20**|**High-performance solidly mounted bidimensional mode resonators (S2MRs) operating around 16 GHz**|Luca Spagnuolo et.al.|[2505.14504v1](http://arxiv.org/abs/2505.14504v1)|**2025-05-20**|null|

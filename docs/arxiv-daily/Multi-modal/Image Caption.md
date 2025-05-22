@@ -8,7 +8,7 @@
 |**2025-05-20**|**Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning**|Jiaer Xia et.al.|[2505.14677v1](http://arxiv.org/abs/2505.14677v1)|**2025-05-20**|null|
 |**2025-05-20**|**Training-Free Watermarking for Autoregressive Image Generation**|Yu Tong et.al.|[2505.14673v1](http://arxiv.org/abs/2505.14673v1)|**2025-05-20**|null|
 |**2025-05-20**|**UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens**|Ruichuan An et.al.|[2505.14671v1](http://arxiv.org/abs/2505.14671v1)|**2025-05-20**|null|
-|**2025-05-20**|**AKRMap: Adaptive Kernel Regression for Trustworthy Visualization of Cross-Modal Embeddings**|Yilin Ye et.al.|[2505.14664v1](http://arxiv.org/abs/2505.14664v1)|**2025-05-20**|null|
+|**2025-05-20**|**AKRMap: Adaptive Kernel Regression for Trustworthy Visualization of Cross-Modal Embeddings**|Yilin Ye et.al.|[2505.14664v1](http://arxiv.org/abs/2505.14664v1)|**2025-05-20**|[link](https://github.com/yilinye/akrmap)|
 |**2025-05-20**|**EmoGist: Efficient In-Context Learning for Visual Emotion Understanding**|Ronald Seoh et.al.|[2505.14660v1](http://arxiv.org/abs/2505.14660v1)|**2025-05-20**|null|
 |**2025-05-20**|**CAD-Coder: An Open-Source Vision-Language Model for Computer-Aided Design Code Generation**|Anna C. Doris et.al.|[2505.14646v1](http://arxiv.org/abs/2505.14646v1)|**2025-05-20**|null|
 |**2025-05-20**|**A General Framework for Group Sparsity in Hyperspectral Unmixing Using Endmember Bundles**|Gokul Bhusal et.al.|[2505.14634v1](http://arxiv.org/abs/2505.14634v1)|**2025-05-20**|null|
@@ -21,14 +21,14 @@
 |**2025-05-20**|**Neural Video Compression with Context Modulation**|Chuanbo Tang et.al.|[2505.14541v1](http://arxiv.org/abs/2505.14541v1)|**2025-05-20**|null|
 |**2025-05-20**|**Personalize Your Gaussian: Consistent 3D Scene Personalization from a Single Image**|Yuxuan Wang et.al.|[2505.14537v1](http://arxiv.org/abs/2505.14537v1)|**2025-05-20**|null|
 |**2025-05-20**|**diffDemorph: Extending Reference-Free Demorphing to Unseen Faces**|Nitish Shukla et.al.|[2505.14527v1](http://arxiv.org/abs/2505.14527v1)|**2025-05-20**|null|
-|**2025-05-20**|**SparC: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling**|Zhihao Li et.al.|[2505.14521v1](http://arxiv.org/abs/2505.14521v1)|**2025-05-20**|null|
+|**2025-05-20**|**Sparc3D: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling**|Zhihao Li et.al.|[2505.14521v2](http://arxiv.org/abs/2505.14521v2)|**2025-05-21**|null|
 |**2025-05-20**|**Latent Flow Transformer**|Yen-Chen Wu et.al.|[2505.14513v1](http://arxiv.org/abs/2505.14513v1)|**2025-05-20**|[link](https://github.com/mtkresearch/latent-flow-transformer)|
 |**2025-05-20**|**Just One Layer Norm Guarantees Stable Extrapolation**|Juliusz Ziomek et.al.|[2505.14512v1](http://arxiv.org/abs/2505.14512v1)|**2025-05-20**|null|
 |**2025-05-20**|**Enhanced Multimodal Aspect-Based Sentiment Analysis by LLM-Generated Rationales**|Jun Cao et.al.|[2505.14499v1](http://arxiv.org/abs/2505.14499v1)|**2025-05-20**|null|
 |**2025-05-20**|**RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding**|Jiaang Li et.al.|[2505.14462v1](http://arxiv.org/abs/2505.14462v1)|**2025-05-20**|[link](https://github.com/yfyuan01/ravenea)|
-|**2025-05-20**|**VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank**|Tianhe Wu et.al.|[2505.14460v1](http://arxiv.org/abs/2505.14460v1)|**2025-05-20**|null|
-|**2025-05-20**|**Semantically-driven Deep Reinforcement Learning for Inspection Path Planning**|Grzegorz Malczyk et.al.|[2505.14443v1](http://arxiv.org/abs/2505.14443v1)|**2025-05-20**|null|
-|**2025-05-20**|**Explaining Neural Networks with Reasons**|Levin Hornischer et.al.|[2505.14424v1](http://arxiv.org/abs/2505.14424v1)|**2025-05-20**|null|
-|**2025-05-20**|**phaser: An all-in-one package for (multislice) electron ptychography**|Colin Gilgenbach et.al.|[2505.14372v1](http://arxiv.org/abs/2505.14372v1)|**2025-05-20**|null|
+|**2025-05-20**|**VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank**|Tianhe Wu et.al.|[2505.14460v1](http://arxiv.org/abs/2505.14460v1)|**2025-05-20**|[link](https://github.com/tianhewu/visualquality-r1)|
+|**2025-05-20**|**Semantically-driven Deep Reinforcement Learning for Inspection Path Planning**|Grzegorz Malczyk et.al.|[2505.14443v1](http://arxiv.org/abs/2505.14443v1)|**2025-05-20**|[link](https://github.com/ntnu-arl/semantic-rl-inspection)|
+|**2025-05-20**|**Explaining Neural Networks with Reasons**|Levin Hornischer et.al.|[2505.14424v1](http://arxiv.org/abs/2505.14424v1)|**2025-05-20**|[link](https://github.com/levinhornischer/reasonsmethod)|
+|**2025-05-20**|**phaser: An all-in-one package for (multislice) electron ptychography**|Colin Gilgenbach et.al.|[2505.14372v1](http://arxiv.org/abs/2505.14372v1)|**2025-05-20**|[link](https://github.com/hexane360/phaser)|
 |**2025-05-20**|**Towards Embodied Cognition in Robots via Spatially Grounded Synthetic Worlds**|Joel Currie et.al.|[2505.14366v1](http://arxiv.org/abs/2505.14366v1)|**2025-05-20**|null|
 |**2025-05-20**|**Information-optimal measurement: From fixed sampling protocols to adaptive spectroscopy**|J. Schroeder et.al.|[2505.14364v1](http://arxiv.org/abs/2505.14364v1)|**2025-05-20**|null|

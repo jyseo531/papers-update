@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-05-20**|**Approximate Spanning Tree Counting from Uncorrelated Edge Sets**|Yang P. Liu et.al.|[2505.14666v1](http://arxiv.org/abs/2505.14666v1)|**2025-05-20**|null|
-|**2025-05-20**|**AKRMap: Adaptive Kernel Regression for Trustworthy Visualization of Cross-Modal Embeddings**|Yilin Ye et.al.|[2505.14664v1](http://arxiv.org/abs/2505.14664v1)|**2025-05-20**|null|
+|**2025-05-20**|**AKRMap: Adaptive Kernel Regression for Trustworthy Visualization of Cross-Modal Embeddings**|Yilin Ye et.al.|[2505.14664v1](http://arxiv.org/abs/2505.14664v1)|**2025-05-20**|[link](https://github.com/yilinye/akrmap)|
 |**2025-05-20**|**Developing RPC-Net: Leveraging High-Density Electromyography and Machine Learning for Improved Hand Position Estimation**|Giovanni Rolandino et.al.|[2505.14663v1](http://arxiv.org/abs/2505.14663v1)|**2025-05-20**|null|
 |**2025-05-20**|**Explainable AI for Securing Healthcare in IoT-Integrated 6G Wireless Networks**|Navneet Kaur et.al.|[2505.14659v1](http://arxiv.org/abs/2505.14659v1)|**2025-05-20**|null|
 |**2025-05-20**|**HDE-Array: Development and Validation of a New Dry Electrode Array Design to Acquire HD-sEMG for Hand Position Estimation**|Giovanni Rolandino et.al.|[2505.14658v1](http://arxiv.org/abs/2505.14658v1)|**2025-05-20**|null|
@@ -17,14 +17,14 @@
 |**2025-05-20**|**Impact of Surfactant and Flow Rate on the Electrical Properties of Activated Carbon Black Suspensions**|KangJin Lee et.al.|[2505.14618v1](http://arxiv.org/abs/2505.14618v1)|**2025-05-20**|null|
 |**2025-05-20**|**TSA-WF: Exploring the Effectiveness of Time Series Analysis for Website Fingerprinting**|Michael Wrana et.al.|[2505.14616v1](http://arxiv.org/abs/2505.14616v1)|**2025-05-20**|null|
 |**2025-05-20**|**Canonical Differential Equations for Cosmology from Positive Geometries**|Mattia Capuano et.al.|[2505.14609v1](http://arxiv.org/abs/2505.14609v1)|**2025-05-20**|null|
-|**2025-05-20**|**Electrostatics from Laplacian Eigenbasis for Neural Network Interatomic Potentials**|Maksim Zhdanov et.al.|[2505.14606v1](http://arxiv.org/abs/2505.14606v1)|**2025-05-20**|null|
+|**2025-05-20**|**Electrostatics from Laplacian Eigenbasis for Neural Network Interatomic Potentials**|Maksim Zhdanov et.al.|[2505.14606v1](http://arxiv.org/abs/2505.14606v1)|**2025-05-20**|[link](https://github.com/dunnolab/phi-module)|
 |**2025-05-20**|**Adaptive Pruning of Deep Neural Networks for Resource-Aware Embedded Intrusion Detection on the Edge**|Alexandre Broggi et.al.|[2505.14592v1](http://arxiv.org/abs/2505.14592v1)|**2025-05-20**|null|
 |**2025-05-20**|**Solenoids in automorphism groups of evolution algebras**|Yolanda Cabrera Casado et.al.|[2505.14584v1](http://arxiv.org/abs/2505.14584v1)|**2025-05-20**|null|
 |**2025-05-20**|**Instance Segmentation for Point Sets**|Abhimanyu Talwar et.al.|[2505.14583v1](http://arxiv.org/abs/2505.14583v1)|**2025-05-20**|null|
 |**2025-05-20**|**Performance Optimization of Energy-Harvesting Underlay Cognitive Radio Networks Using Reinforcement Learning**|Deemah H. Tashman et.al.|[2505.14581v1](http://arxiv.org/abs/2505.14581v1)|**2025-05-20**|null|
 |**2025-05-20**|**Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning**|Shangziqi Zhao et.al.|[2505.14582v1](http://arxiv.org/abs/2505.14582v1)|**2025-05-20**|null|
 |**2025-05-20**|**Inference with correlated priors using sisters cells**|Sina Tootoonian et.al.|[2505.14579v1](http://arxiv.org/abs/2505.14579v1)|**2025-05-20**|null|
-|**2025-05-20**|**PSMOA: Policy Support Multi-Objective Optimization Algorithm for Decentralized Data Replication**|Xi Wang et.al.|[2505.14574v1](http://arxiv.org/abs/2505.14574v1)|**2025-05-20**|null|
+|**2025-05-20**|**PSMOA: Policy Support Multi-Objective Optimization Algorithm for Decentralized Data Replication**|Xi Wang et.al.|[2505.14574v2](http://arxiv.org/abs/2505.14574v2)|**2025-05-21**|null|
 |**2025-05-20**|**Agent Context Protocols Enhance Collective Inference**|Devansh Bhardwaj et.al.|[2505.14569v1](http://arxiv.org/abs/2505.14569v1)|**2025-05-20**|null|
 |**2025-05-20**|**KIPPO: Koopman-Inspired Proximal Policy Optimization**|Andrei Cozma et.al.|[2505.14566v1](http://arxiv.org/abs/2505.14566v1)|**2025-05-20**|null|
 |**2025-05-20**|**Neural Inverse Scattering with Score-based Regularization**|Yuan Gao et.al.|[2505.14560v1](http://arxiv.org/abs/2505.14560v1)|**2025-05-20**|null|
