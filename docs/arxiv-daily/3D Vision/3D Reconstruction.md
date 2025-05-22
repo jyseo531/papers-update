@@ -2,33 +2,33 @@
 ### 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-20**|**Emerging Properties in Unified Multimodal Pretraining**|Chaorui Deng et.al.|[2505.14683v1](http://arxiv.org/abs/2505.14683v1)|**2025-05-20**|null|
-|**2025-05-20**|**CAD-Coder: An Open-Source Vision-Language Model for Computer-Aided Design Code Generation**|Anna C. Doris et.al.|[2505.14646v1](http://arxiv.org/abs/2505.14646v1)|**2025-05-20**|null|
-|**2025-05-20**|**Left-right splitting of elliptic flow in heavy ion collisions: TRENTo-3D initialization and CLVisc hydrodynamic simulations**|Ze-Fang Jiang et.al.|[2505.14637v1](http://arxiv.org/abs/2505.14637v1)|**2025-05-20**|null|
-|**2025-05-20**|**Three-dimensional Arbitrary Electromagnetic Fields and Temporal Propagation**|Jordan M. Adams et.al.|[2505.14636v1](http://arxiv.org/abs/2505.14636v1)|**2025-05-20**|null|
-|**2025-05-20**|**3D Reconstruction from Sketches**|Abhimanyu Talwar et.al.|[2505.14621v1](http://arxiv.org/abs/2505.14621v1)|**2025-05-20**|null|
-|**2025-05-20**|**Physics-informed Reduced Order Modeling of Time-dependent PDEs via Differentiable Solvers**|Nima Hosseini Dashtbayaz et.al.|[2505.14595v1](http://arxiv.org/abs/2505.14595v1)|**2025-05-20**|null|
-|**2025-05-20**|**Instance Segmentation for Point Sets**|Abhimanyu Talwar et.al.|[2505.14583v1](http://arxiv.org/abs/2505.14583v1)|**2025-05-20**|null|
-|**2025-05-20**|**Structural States of Filamentary Microgravity Dusty Plasma**|Emerson Gehr et.al.|[2505.14576v1](http://arxiv.org/abs/2505.14576v1)|**2025-05-20**|null|
-|**2025-05-20**|**Extending orbital-optimized density functional theory to L-edge XPS and beyond: Spin-orbit coupling via non-orthogonal quasi-degenerate perturbation theory**|Richard Kang et.al.|[2505.14570v1](http://arxiv.org/abs/2505.14570v1)|**2025-05-20**|null|
-|**2025-05-20**|**Dynadiff: Single-stage Decoding of Images from Continuously Evolving fMRI**|Marlène Careil et.al.|[2505.14556v1](http://arxiv.org/abs/2505.14556v1)|**2025-05-20**|[link](https://github.com/facebookresearch/dynadiff)|
-|**2025-05-20**|**Global Maxwell Tomography Using the Volume-Surface Integral Equation for Improved Estimation of Electrical Properties**|Ilias Giannakopoulos et.al.|[2505.14546v1](http://arxiv.org/abs/2505.14546v1)|**2025-05-20**|null|
-|**2025-05-20**|**Personalize Your Gaussian: Consistent 3D Scene Personalization from a Single Image**|Yuxuan Wang et.al.|[2505.14537v1](http://arxiv.org/abs/2505.14537v1)|**2025-05-20**|null|
-|**2025-05-20**|**Sparc3D: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling**|Zhihao Li et.al.|[2505.14521v2](http://arxiv.org/abs/2505.14521v2)|**2025-05-21**|null|
-|**2025-05-20**|**A Direct Comparison of Simultaneously Recorded Scalp, Around-Ear, and In-Ear EEG for Neural Selective Auditory Attention Decoding to Speech**|Simon Geirnaert et.al.|[2505.14478v1](http://arxiv.org/abs/2505.14478v1)|**2025-05-20**|null|
-|**2025-05-20**|**PAST: Phonetic-Acoustic Speech Tokenizer**|Nadav Har-Tuv et.al.|[2505.14470v1](http://arxiv.org/abs/2505.14470v1)|**2025-05-20**|null|
-|**2025-05-20**|**FlowTSE: Target Speaker Extraction with Flow Matching**|Aviv Navon et.al.|[2505.14465v1](http://arxiv.org/abs/2505.14465v1)|**2025-05-20**|null|
-|**2025-05-20**|**phaser: An all-in-one package for (multislice) electron ptychography**|Colin Gilgenbach et.al.|[2505.14372v1](http://arxiv.org/abs/2505.14372v1)|**2025-05-20**|[link](https://github.com/hexane360/phaser)|
-|**2025-05-20**|**Dual Data Alignment Makes AI-Generated Image Detector Easier Generalizable**|Ruoxin Chen et.al.|[2505.14359v1](http://arxiv.org/abs/2505.14359v1)|**2025-05-20**|null|
-|**2025-05-20**|**WirelessMathBench: A Mathematical Modeling Benchmark for LLMs in Wireless Communications**|Xin Li et.al.|[2505.14354v1](http://arxiv.org/abs/2505.14354v1)|**2025-05-20**|null|
-|**2025-05-20**|**Egocentric Action-aware Inertial Localization in Point Clouds**|Mingfang Zhang et.al.|[2505.14346v1](http://arxiv.org/abs/2505.14346v1)|**2025-05-20**|[link](https://github.com/mf-zhang/ego-inertial-localization)|
-|**2025-05-20**|**TF-Mamba: Text-enhanced Fusion Mamba with Missing Modalities for Robust Multimodal Sentiment Analysis**|Xiang Li et.al.|[2505.14329v1](http://arxiv.org/abs/2505.14329v1)|**2025-05-20**|[link](https://github.com/codemous/tf-mamba)|
-|**2025-05-20**|**From Metadata to Storytelling: A Framework For 3D Cultural Heritage Visualization on RDF Data**|Sebastian Barzaghi et.al.|[2505.14328v1](http://arxiv.org/abs/2505.14328v1)|**2025-05-20**|null|
-|**2025-05-20**|**Vulnerability of Transfer-Learned Neural Networks to Data Reconstruction Attacks in Small-Data Regime**|Tomasz Maciążek et.al.|[2505.14323v1](http://arxiv.org/abs/2505.14323v1)|**2025-05-20**|[link](https://github.com/tmaciazek/training-data-reconstruction)|
-|**2025-05-20**|**A Remeshing Method via Adaptive Multiple Original-Facet-Clipping and Centroidal Voronoi Tessellation**|Yue Fei et.al.|[2505.14306v1](http://arxiv.org/abs/2505.14306v1)|**2025-05-20**|null|
-|**2025-05-20**|**Localization versus hybridization of $f$ states in actinide and lanthanide dioxides probed in core-level photoemission spectra**|Sergei M. Butorin et.al.|[2505.14284v1](http://arxiv.org/abs/2505.14284v1)|**2025-05-20**|null|
-|**2025-05-20**|**3D matter power spectrum correspondence to 1D Lyman-alpha flux power spectrum**|Ivan Ridkokasha et.al.|[2505.14258v1](http://arxiv.org/abs/2505.14258v1)|**2025-05-20**|null|
-|**2025-05-20**|**ABBA: Highly Expressive Hadamard Product Adaptation for Large Language Models**|Raghav Singhal et.al.|[2505.14238v1](http://arxiv.org/abs/2505.14238v1)|**2025-05-20**|[link](https://github.com/cert-lab/abba)|
-|**2025-05-20**|**MatchDance: Collaborative Mamba-Transformer Architecture Matching for High-Quality 3D Dance Synthesis**|Kaixing Yang et.al.|[2505.14222v2](http://arxiv.org/abs/2505.14222v2)|**2025-05-21**|null|
-|**2025-05-20**|**A marching cubes based method for topology changes in three-dimensional two-phase flows with front tracking**|Gabriele Gennari et.al.|[2505.14210v1](http://arxiv.org/abs/2505.14210v1)|**2025-05-20**|null|
-|**2025-05-20**|**Prime order torsion on elliptic curves over number fields. Part I: Asymptotics**|Maarten Derickx et.al.|[2505.14109v1](http://arxiv.org/abs/2505.14109v1)|**2025-05-20**|null|
+|**2025-05-21**|**A Taxonomy of Structure from Motion Methods**|Federica Arrigoni et.al.|[2505.15814v1](http://arxiv.org/abs/2505.15814v1)|**2025-05-21**|null|
+|**2025-05-21**|**Interspatial Attention for Efficient 4D Human Video Generation**|Ruizhi Shao et.al.|[2505.15800v1](http://arxiv.org/abs/2505.15800v1)|**2025-05-21**|null|
+|**2025-05-21**|**Lean-SMT: An SMT tactic for discharging proof goals in Lean**|Abdalrhman Mohamed et.al.|[2505.15796v1](http://arxiv.org/abs/2505.15796v1)|**2025-05-21**|null|
+|**2025-05-21**|**Projection-Based Correction for Enhancing Deep Inverse Networks**|Jorge Bacca et.al.|[2505.15777v1](http://arxiv.org/abs/2505.15777v1)|**2025-05-21**|null|
+|**2025-05-21**|**Current constraints on the minimally extended varying speed of light model through the cosmic distance duality relation**|Jaiane Santos et.al.|[2505.15768v1](http://arxiv.org/abs/2505.15768v1)|**2025-05-21**|null|
+|**2025-05-21**|**Constructing a 3D Town from a Single Image**|Kaizhi Zheng et.al.|[2505.15765v1](http://arxiv.org/abs/2505.15765v1)|**2025-05-21**|null|
+|**2025-05-21**|**Exploring The Visual Feature Space for Multimodal Neural Decoding**|Weihao Xia et.al.|[2505.15755v1](http://arxiv.org/abs/2505.15755v1)|**2025-05-21**|null|
+|**2025-05-21**|**RUSplatting: Robust 3D Gaussian Splatting for Sparse-View Underwater Scene Reconstruction**|Zhuodong Jiang et.al.|[2505.15737v1](http://arxiv.org/abs/2505.15737v1)|**2025-05-21**|null|
+|**2025-05-21**|**Linear scaling relation between two-dimensional massless Dirac fermion Fermi velocity and Fe-As bond length in iron arsenide superconductor systems**|Chengpu Lv et.al.|[2505.15719v1](http://arxiv.org/abs/2505.15719v1)|**2025-05-21**|null|
+|**2025-05-21**|**Splay Stiffening and Twist Softening in a Ferroelectric Nematic Liquid Crystal**|Evangelia E. Zavvou et.al.|[2505.15714v1](http://arxiv.org/abs/2505.15714v1)|**2025-05-21**|null|
+|**2025-05-21**|**Radiative decays of the second shell $Λ_b$ and $Ξ_b$ bottom baryons**|Ailier Rivero-Acosta et.al.|[2505.15680v1](http://arxiv.org/abs/2505.15680v1)|**2025-05-21**|null|
+|**2025-05-21**|**Neural Quantum Digital Twins for Optimizing Quantum Annealing**|Jianlong Lu et.al.|[2505.15662v1](http://arxiv.org/abs/2505.15662v1)|**2025-05-21**|null|
+|**2025-05-21**|**Self-powered smart contact lenses: a multidisciplinary approach to micro-scale energy and 900 MHz - 1.1 GHz bandwidth microfabricated loop antennas communication systems**|Patrice Salzenstein et.al.|[2505.15593v1](http://arxiv.org/abs/2505.15593v1)|**2025-05-21**|null|
+|**2025-05-21**|**Fiber-coupled external cavity DFB-laser**|David C. Nak et.al.|[2505.15591v1](http://arxiv.org/abs/2505.15591v1)|**2025-05-21**|null|
+|**2025-05-21**|**Quantum Field Theory Between Rigor and Pragmatism**|Johannes Branahl et.al.|[2505.15577v1](http://arxiv.org/abs/2505.15577v1)|**2025-05-21**|null|
+|**2025-05-21**|**Temporal Spectrum Cartography in Low-Altitude Economy Networks: A Generative AI Framework with Multi-Agent Learning**|Changyuan Zhao et.al.|[2505.15571v1](http://arxiv.org/abs/2505.15571v1)|**2025-05-21**|null|
+|**2025-05-21**|**seg_3D_by_PC2D: Multi-View Projection for Domain Generalization and Adaptation in 3D Semantic Segmentation**|Andrew Caunes et.al.|[2505.15545v1](http://arxiv.org/abs/2505.15545v1)|**2025-05-21**|[link](https://github.com/andrewcaunes/ia4markings)|
+|**2025-05-21**|**PlantDreamer: Achieving Realistic 3D Plant Models with Diffusion-Guided Gaussian Splatting**|Zane K J Hartley et.al.|[2505.15528v1](http://arxiv.org/abs/2505.15528v1)|**2025-05-21**|null|
+|**2025-05-21**|**Robo2VLM: Visual Question Answering from Large-Scale In-the-Wild Robot Manipulation Datasets**|Kaiyuan Chen et.al.|[2505.15517v1](http://arxiv.org/abs/2505.15517v1)|**2025-05-21**|null|
+|**2025-05-21**|**Fourier Dimension in $C^{1+α}$ Parabolic Dynamics**|Gaétan Leclerc et.al.|[2505.15468v1](http://arxiv.org/abs/2505.15468v1)|**2025-05-21**|null|
+|**2025-05-21**|**Synthetic Enclosed Echoes: A New Dataset to Mitigate the Gap Between Simulated and Real-World Sonar Data**|Guilherme de Oliveira et.al.|[2505.15465v1](http://arxiv.org/abs/2505.15465v1)|**2025-05-21**|null|
+|**2025-05-21**|**FRN: Fractal-Based Recursive Spectral Reconstruction Network**|Ge Meng et.al.|[2505.15439v1](http://arxiv.org/abs/2505.15439v1)|**2025-05-21**|null|
+|**2025-05-21**|**RIS Beam Calibration for ISAC Systems: Modeling and Performance Analysis**|Mengting Li et.al.|[2505.15403v1](http://arxiv.org/abs/2505.15403v1)|**2025-05-21**|null|
+|**2025-05-21**|**EVA: Expressive Virtual Avatars from Multi-view Videos**|Hendrik Junkawitsch et.al.|[2505.15385v1](http://arxiv.org/abs/2505.15385v1)|**2025-05-21**|null|
+|**2025-05-21**|**The P$^3$ dataset: Pixels, Points and Polygons for Multimodal Building Vectorization**|Raphael Sulzer et.al.|[2505.15379v1](http://arxiv.org/abs/2505.15379v1)|**2025-05-21**|[link](https://github.com/raphaelsulzer/pixelspointspolygons)|
+|**2025-05-21**|**RAZER: Robust Accelerated Zero-Shot 3D Open-Vocabulary Panoptic Reconstruction with Spatio-Temporal Aggregation**|Naman Patel et.al.|[2505.15373v1](http://arxiv.org/abs/2505.15373v1)|**2025-05-21**|null|
+|**2025-05-21**|**Comparative study of the butterfly velocity in holographic QCD models at finite temperature and chemical potential**|Nikesh Lilani et.al.|[2505.15357v1](http://arxiv.org/abs/2505.15357v1)|**2025-05-21**|null|
+|**2025-05-21**|**Fourier-Invertible Neural Encoder (FINE) for Homogeneous Flows**|Anqiao Ouyang et.al.|[2505.15329v1](http://arxiv.org/abs/2505.15329v1)|**2025-05-21**|null|
+|**2025-05-21**|**Extreme Fluctuations in the Sun's Activity over the Modern Maximum: Understanding the Enigmatic Solar Cycles 19-20**|Shaonwita Pal et.al.|[2505.15326v1](http://arxiv.org/abs/2505.15326v1)|**2025-05-21**|null|
+|**2025-05-21**|**Linear Convergence of Plug-and-Play Algorithms with Kernel Denoisers**|Arghya Sinha et.al.|[2505.15318v1](http://arxiv.org/abs/2505.15318v1)|**2025-05-21**|null|

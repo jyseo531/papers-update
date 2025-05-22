@@ -2,33 +2,33 @@
 ### Instance Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-20**|**Quantum Optimization via Gradient-Based Hamiltonian Descent**|Jiaqi Leng et.al.|[2505.14670v1](http://arxiv.org/abs/2505.14670v1)|**2025-05-20**|[link](https://github.com/jiaqileng/gradient-based-qhd)|
-|**2025-05-20**|**VideoEval-Pro: Robust and Realistic Long Video Understanding Evaluation**|Wentao Ma et.al.|[2505.14640v1](http://arxiv.org/abs/2505.14640v1)|**2025-05-20**|null|
-|**2025-05-20**|**Debating for Better Reasoning: An Unsupervised Multimodal Approach**|Ashutosh Adhikari et.al.|[2505.14627v1](http://arxiv.org/abs/2505.14627v1)|**2025-05-20**|null|
-|**2025-05-20**|**SATBench: Benchmarking LLMs' Logical Reasoning via Automated Puzzle Generation from SAT Formulas**|Anjiang Wei et.al.|[2505.14615v1](http://arxiv.org/abs/2505.14615v1)|**2025-05-20**|null|
-|**2025-05-20**|**Instance Segmentation for Point Sets**|Abhimanyu Talwar et.al.|[2505.14583v1](http://arxiv.org/abs/2505.14583v1)|**2025-05-20**|null|
-|**2025-05-20**|**Measuring spin precession from massive black hole binaries with gravitational waves: insights from time-domain signal morphology**|Simona J. Miller et.al.|[2505.14573v2](http://arxiv.org/abs/2505.14573v2)|**2025-05-21**|[link](https://github.com/simonajmiller/heavy-precessing-bbh-time-domain)|
-|**2025-05-20**|**Automated Fetal Biometry Assessment with Deep Ensembles using Sparse-Sampling of 2D Intrapartum Ultrasound Images**|Jayroop Ramesh et.al.|[2505.14572v1](http://arxiv.org/abs/2505.14572v1)|**2025-05-20**|null|
-|**2025-05-20**|**GUARD: Constructing Realistic Two-Player Matrix and Security Games for Benchmarking Game-Theoretic Algorithms**|Noah Krever et.al.|[2505.14547v1](http://arxiv.org/abs/2505.14547v1)|**2025-05-20**|null|
-|**2025-05-20**|**ReservoirTTA: Prolonged Test-time Adaptation for Evolving and Recurring Domains**|Guillaume Vray et.al.|[2505.14511v1](http://arxiv.org/abs/2505.14511v1)|**2025-05-20**|null|
-|**2025-05-20**|**Regularity of the volume function**|Junyu Cao et.al.|[2505.14495v1](http://arxiv.org/abs/2505.14495v1)|**2025-05-20**|null|
-|**2025-05-20**|**CtrlDiff: Boosting Large Diffusion Language Models with Dynamic Block Prediction and Controllable Generation**|Chihan Huang et.al.|[2505.14455v1](http://arxiv.org/abs/2505.14455v1)|**2025-05-20**|null|
-|**2025-05-20**|**Semantically-driven Deep Reinforcement Learning for Inspection Path Planning**|Grzegorz Malczyk et.al.|[2505.14443v1](http://arxiv.org/abs/2505.14443v1)|**2025-05-20**|[link](https://github.com/ntnu-arl/semantic-rl-inspection)|
-|**2025-05-20**|**MindVote: How LLMs Predict Human Decision-Making in Social Media Polls**|Xutao Mao et.al.|[2505.14422v1](http://arxiv.org/abs/2505.14422v1)|**2025-05-20**|null|
-|**2025-05-20**|**Solving Unit Commitment Problems with Graph Neural Network based Initial Commitment Prediction and Large Neighborhood Search**|Linfeng Yang et.al.|[2505.14408v1](http://arxiv.org/abs/2505.14408v1)|**2025-05-20**|null|
-|**2025-05-20**|**Pierce the Mists, Greet the Sky: Decipher Knowledge Overshadowing via Knowledge Circuit Analysis**|Haoming Huang et.al.|[2505.14406v2](http://arxiv.org/abs/2505.14406v2)|**2025-05-21**|null|
-|**2025-05-20**|**Unearthing Gems from Stones: Policy Optimization with Negative Sample Augmentation for LLM Reasoning**|Zhaohui Yang et.al.|[2505.14403v1](http://arxiv.org/abs/2505.14403v1)|**2025-05-20**|null|
-|**2025-05-20**|**phaser: An all-in-one package for (multislice) electron ptychography**|Colin Gilgenbach et.al.|[2505.14372v1](http://arxiv.org/abs/2505.14372v1)|**2025-05-20**|[link](https://github.com/hexane360/phaser)|
-|**2025-05-20**|**Towards Embodied Cognition in Robots via Spatially Grounded Synthetic Worlds**|Joel Currie et.al.|[2505.14366v1](http://arxiv.org/abs/2505.14366v1)|**2025-05-20**|null|
-|**2025-05-20**|**Universal Acoustic Adversarial Attacks for Flexible Control of Speech-LLMs**|Rao Ma et.al.|[2505.14286v1](http://arxiv.org/abs/2505.14286v1)|**2025-05-20**|null|
-|**2025-05-20**|**Data-Efficient Hate Speech Detection via Cross-Lingual Nearest Neighbor Retrieval with Limited Labeled Data**|Faeze Ghorbanpour et.al.|[2505.14272v1](http://arxiv.org/abs/2505.14272v1)|**2025-05-20**|null|
-|**2025-05-20**|**Strong convergence in the infinite horizon of numerical methods for stochastic delay differential equations**|Yudong Wang et.al.|[2505.14262v1](http://arxiv.org/abs/2505.14262v1)|**2025-05-20**|null|
-|**2025-05-20**|**Decoupling Classifier for Boosting Few-shot Object Detection and Instance Segmentation**|Bin-Bin Gao et.al.|[2505.14239v1](http://arxiv.org/abs/2505.14239v1)|**2025-05-20**|null|
-|**2025-05-20**|**A General Algorithm For Determining The Conductivity Zeros In Large Molecular Nanostructures: Applications To Rectangular Graphene Sheets**|Marian Nita et.al.|[2505.14237v1](http://arxiv.org/abs/2505.14237v1)|**2025-05-20**|null|
-|**2025-05-20**|**THOR-MoE: Hierarchical Task-Guided and Context-Responsive Routing for Neural Machine Translation**|Yunlong Liang et.al.|[2505.14173v1](http://arxiv.org/abs/2505.14173v1)|**2025-05-20**|null|
-|**2025-05-20**|**Memory Assignment for Finite-Memory Strategies in Adversarial Patrolling Games**|Vojtěch Kůr et.al.|[2505.14137v1](http://arxiv.org/abs/2505.14137v1)|**2025-05-20**|null|
-|**2025-05-20**|**Intra-class Patch Swap for Self-Distillation**|Hongjun Choi et.al.|[2505.14124v1](http://arxiv.org/abs/2505.14124v1)|**2025-05-20**|[link](https://github.com/hchoi71/intra-class-patch-swap)|
-|**2025-05-20**|**CONSIGN: Conformal Segmentation Informed by Spatial Groupings via Decomposition**|Bruno Viti et.al.|[2505.14113v1](http://arxiv.org/abs/2505.14113v1)|**2025-05-20**|null|
-|**2025-05-20**|**DiagnosisArena: Benchmarking Diagnostic Reasoning for Large Language Models**|Yakun Zhu et.al.|[2505.14107v1](http://arxiv.org/abs/2505.14107v1)|**2025-05-20**|[link](https://github.com/spiral-med/diagnosisarena)|
-|**2025-05-20**|**Unintended Bias in 2D+ Image Segmentation and Its Effect on Attention Asymmetry**|Zsófia Molnár et.al.|[2505.14105v1](http://arxiv.org/abs/2505.14105v1)|**2025-05-20**|null|
-|**2025-05-20**|**Unlocking the Power of SAM 2 for Few-Shot Segmentation**|Qianxiong Xu et.al.|[2505.14100v2](http://arxiv.org/abs/2505.14100v2)|**2025-05-21**|[link](https://github.com/sam1224/fssam)|
+|**2025-05-21**|**InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition**|Yijie Zheng et.al.|[2505.15818v1](http://arxiv.org/abs/2505.15818v1)|**2025-05-21**|null|
+|**2025-05-21**|**An Empirical Analysis of Vulnerability Detection Tools for Solidity Smart Contracts Using Line Level Manually Annotated Vulnerabilities**|Francesco Salzano et.al.|[2505.15756v1](http://arxiv.org/abs/2505.15756v1)|**2025-05-21**|null|
+|**2025-05-21**|**Alignment Under Pressure: The Case for Informed Adversaries When Evaluating LLM Defenses**|Xiaoxue Yang et.al.|[2505.15738v1](http://arxiv.org/abs/2505.15738v1)|**2025-05-21**|null|
+|**2025-05-21**|**VocalBench: Benchmarking the Vocal Conversational Abilities for Speech Interaction Models**|Heyang Liu et.al.|[2505.15727v1](http://arxiv.org/abs/2505.15727v1)|**2025-05-21**|null|
+|**2025-05-21**|**Linearized Polynomial Chinese remainder codes**|Philippe Gaborit et.al.|[2505.15720v1](http://arxiv.org/abs/2505.15720v1)|**2025-05-21**|null|
+|**2025-05-21**|**Segmentation-Variant Codebooks for Preservation of Paralinguistic and Prosodic Information**|Nicholas Sanders et.al.|[2505.15667v1](http://arxiv.org/abs/2505.15667v1)|**2025-05-21**|null|
+|**2025-05-21**|**Breaking Barriers for Distributed MIS by Faster Degree Reduction**|Seri Khoury et.al.|[2505.15652v1](http://arxiv.org/abs/2505.15652v1)|**2025-05-21**|null|
+|**2025-05-21**|**Optimal Best-Arm Identification under Fixed Confidence with Multiple Optima**|Lan V. Truong et.al.|[2505.15643v1](http://arxiv.org/abs/2505.15643v1)|**2025-05-21**|null|
+|**2025-05-21**|**A Simple Approximation Algorithm for Optimal Decision Tree**|Zhengjia Zhuo et.al.|[2505.15641v1](http://arxiv.org/abs/2505.15641v1)|**2025-05-21**|null|
+|**2025-05-21**|**Permutons from Demazure Products**|Colin Defant et.al.|[2505.15630v1](http://arxiv.org/abs/2505.15630v1)|**2025-05-21**|null|
+|**2025-05-21**|**Learn to Reason Efficiently with Adaptive Length-based Reward Shaping**|Wei Liu et.al.|[2505.15612v1](http://arxiv.org/abs/2505.15612v1)|**2025-05-21**|[link](https://github.com/hkust-nlp/laser)|
+|**2025-05-21**|**Limits of $(\infty, 1)$-categories with structure and their lax morphisms**|Joanna Ko et.al.|[2505.15598v1](http://arxiv.org/abs/2505.15598v1)|**2025-05-21**|null|
+|**2025-05-21**|**VP Lab: a PEFT-Enabled Visual Prompting Laboratory for Semantic Segmentation**|Niccolo Avogaro et.al.|[2505.15592v1](http://arxiv.org/abs/2505.15592v1)|**2025-05-21**|null|
+|**2025-05-21**|**UWSAM: Segment Anything Model Guided Underwater Instance Segmentation and A Large-scale Benchmark Dataset**|Hua Li et.al.|[2505.15581v1](http://arxiv.org/abs/2505.15581v1)|**2025-05-21**|[link](https://github.com/liamlian0727/uiis10k)|
+|**2025-05-21**|**Decreasing Utilization of Systems with Multi-Rate Cause-Effect Chains While Reducing End-to-End Latencies**|Luiz Maia et.al.|[2505.15546v1](http://arxiv.org/abs/2505.15546v1)|**2025-05-21**|null|
+|**2025-05-21**|**seg_3D_by_PC2D: Multi-View Projection for Domain Generalization and Adaptation in 3D Semantic Segmentation**|Andrew Caunes et.al.|[2505.15545v1](http://arxiv.org/abs/2505.15545v1)|**2025-05-21**|[link](https://github.com/andrewcaunes/ia4markings)|
+|**2025-05-21**|**Global well-posedness of 2D incompressible MHD equations without magnetic diffusion**|Shijin Ding et.al.|[2505.15532v1](http://arxiv.org/abs/2505.15532v1)|**2025-05-21**|null|
+|**2025-05-21**|**Evaluate Bias without Manual Test Sets: A Concept Representation Perspective for LLMs**|Lang Gao et.al.|[2505.15524v1](http://arxiv.org/abs/2505.15524v1)|**2025-05-21**|null|
+|**2025-05-21**|**Robo2VLM: Visual Question Answering from Large-Scale In-the-Wild Robot Manipulation Datasets**|Kaiyuan Chen et.al.|[2505.15517v1](http://arxiv.org/abs/2505.15517v1)|**2025-05-21**|null|
+|**2025-05-21**|**Directional Non-Commutative Monoidal Structures for Compositional Embeddings in Machine Learning**|Mahesh Godavarti et.al.|[2505.15507v1](http://arxiv.org/abs/2505.15507v1)|**2025-05-21**|null|
+|**2025-05-21**|**Deep Learning Enabled Segmentation, Classification and Risk Assessment of Cervical Cancer**|Abdul Samad Shaik et.al.|[2505.15505v1](http://arxiv.org/abs/2505.15505v1)|**2025-05-21**|null|
+|**2025-05-21**|**Beyond Linearity: Squeeze-and-Recalibrate Blocks for Few-Shot Whole Slide Image Classification**|Conghao Xiong et.al.|[2505.15504v1](http://arxiv.org/abs/2505.15504v1)|**2025-05-21**|null|
+|**2025-05-21**|**Spectral-Aware Global Fusion for RGB-Thermal Semantic Segmentation**|Ce Zhang et.al.|[2505.15491v1](http://arxiv.org/abs/2505.15491v1)|**2025-05-21**|null|
+|**2025-05-21**|**Machine Learning Derived Blood Input for Dynamic PET Images of Rat Heart**|Shubhrangshu Debsarkar et.al.|[2505.15488v1](http://arxiv.org/abs/2505.15488v1)|**2025-05-21**|null|
+|**2025-05-21**|**Pointwise Convergence in Games with Conflicting Interest**|Nanxiang Zhou et.al.|[2505.15454v1](http://arxiv.org/abs/2505.15454v1)|**2025-05-21**|null|
+|**2025-05-21**|**Single LLM, Multiple Roles: A Unified Retrieval-Augmented Generation Framework Using Role-Specific Token Optimization**|Yutao Zhu et.al.|[2505.15444v1](http://arxiv.org/abs/2505.15444v1)|**2025-05-21**|null|
+|**2025-05-21**|**Stronger ViTs With Octic Equivariance**|David Nordström et.al.|[2505.15441v1](http://arxiv.org/abs/2505.15441v1)|**2025-05-21**|[link](https://github.com/davnords/octic-vits)|
+|**2025-05-21**|**Robust Multimodal Learning via Entropy-Gated Contrastive Fusion**|Leon Chlon et.al.|[2505.15417v1](http://arxiv.org/abs/2505.15417v1)|**2025-05-21**|null|
+|**2025-05-21**|**Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study**|DongGeon Lee et.al.|[2505.15389v1](http://arxiv.org/abs/2505.15389v1)|**2025-05-21**|null|
+|**2025-05-21**|**Generalized digroups, di-skew braces, and solutions of the set-theoretic Yang-Baxter equation**|Andrea Albano et.al.|[2505.15387v1](http://arxiv.org/abs/2505.15387v1)|**2025-05-21**|null|
