@@ -4108,6 +4108,7 @@ Updated on 2025-05-23
 | 25 | 4 | Davlan/bert-base-multilingual-cased-masakhanerToken | UpdatedJun 27, 2022 | [Link](https://huggingface.co/Davlan/bert-base-multilingual-cased-masakhaner) |
 | 36 | 4 | NEOAI/SpaceExploreAI-Small-Base-Regression-27MToken | Updatedabout 10 hours ago | [Link](https://huggingface.co/NEOAI/SpaceExploreAI-Small-Base-Regression-27M) |
 | 172 | 4 | NbAiLab/nb-bert-base-nerToken | UpdatedMar 31, 2023 | [Link](https://huggingface.co/NbAiLab/nb-bert-base-ner) |
+| 34 | 4 | jinachris/PURE-PRM-7BToken | UpdatedApr 22 | [Link](https://huggingface.co/jinachris/PURE-PRM-7B) |
 | 7 | 3 | KBLab/swedish-spacy-pipelineToken | UpdatedOct 4, 2021 | [Link](https://huggingface.co/KBLab/swedish-spacy-pipeline) |
 | 377 | 3 | albertvillanova/autonlp-wikiann-entity_extraction-1e67664-1301123Token | UpdatedApr 4, 2023 | [Link](https://huggingface.co/albertvillanova/autonlp-wikiann-entity_extraction-1e67664-1301123) |
 | 274 | 3 | ai4privacy/llama-ai4privacy-english-anonymiser-openpiiToken | Updatedabout 2 hours ago | [Link](https://huggingface.co/ai4privacy/llama-ai4privacy-english-anonymiser-openpii) |
