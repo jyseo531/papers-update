@@ -6,7 +6,7 @@
 |**2025-05-21**|**MMaDA: Multimodal Large Diffusion Language Models**|Ling Yang et.al.|[2505.15809v1](http://arxiv.org/abs/2505.15809v1)|**2025-05-21**|[link](https://github.com/gen-verse/mmada)|
 |**2025-05-21**|**MIKU-PAL: An Automated and Standardized Multi-Modal Method for Speech Paralinguistic and Affect Labeling**|Cheng Yifan et.al.|[2505.15772v1](http://arxiv.org/abs/2505.15772v1)|**2025-05-21**|null|
 |**2025-05-21**|**Exploring The Visual Feature Space for Multimodal Neural Decoding**|Weihao Xia et.al.|[2505.15755v1](http://arxiv.org/abs/2505.15755v1)|**2025-05-21**|null|
-|**2025-05-21**|**Multi-modal Integration Analysis of Alzheimer's Disease Using Large Language Models and Knowledge Graphs**|Kanan Kiguchi et.al.|[2505.15747v1](http://arxiv.org/abs/2505.15747v1)|**2025-05-21**|null|
+|**2025-05-21**|**Multi-modal Integration Analysis of Alzheimer's Disease Using Large Language Models and Knowledge Graphs**|Kanan Kiguchi et.al.|[2505.15747v2](http://arxiv.org/abs/2505.15747v2)|**2025-05-22**|null|
 |**2025-05-21**|**VocalBench: Benchmarking the Vocal Conversational Abilities for Speech Interaction Models**|Heyang Liu et.al.|[2505.15727v1](http://arxiv.org/abs/2505.15727v1)|**2025-05-21**|null|
 |**2025-05-21**|**Beyond Empathy: Integrating Diagnostic and Therapeutic Reasoning with Large Language Models for Mental Health Counseling**|He Hu et.al.|[2505.15715v1](http://arxiv.org/abs/2505.15715v1)|**2025-05-21**|null|
 |**2025-05-21**|**HAMF: A Hybrid Attention-Mamba Framework for Joint Scene Context Understanding and Future Motion Representation Learning**|Xiaodong Mei et.al.|[2505.15703v1](http://arxiv.org/abs/2505.15703v1)|**2025-05-21**|null|

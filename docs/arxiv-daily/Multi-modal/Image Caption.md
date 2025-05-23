@@ -2,33 +2,33 @@
 ### Image Caption
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-21**|**A Taxonomy of Structure from Motion Methods**|Federica Arrigoni et.al.|[2505.15814v1](http://arxiv.org/abs/2505.15814v1)|**2025-05-21**|null|
-|**2025-05-21**|**Meta-Learning an In-Context Transformer Model of Human Higher Visual Cortex**|Muquan Yu et.al.|[2505.15813v1](http://arxiv.org/abs/2505.15813v1)|**2025-05-21**|null|
-|**2025-05-21**|**Leveraging the Powerful Attention of a Pre-trained Diffusion Model for Exemplar-based Image Colorization**|Satoshi Kosugi et.al.|[2505.15812v1](http://arxiv.org/abs/2505.15812v1)|**2025-05-21**|[link](https://github.com/satoshi-kosugi/powerful-attention)|
-|**2025-05-21**|**MMaDA: Multimodal Large Diffusion Language Models**|Ling Yang et.al.|[2505.15809v1](http://arxiv.org/abs/2505.15809v1)|**2025-05-21**|[link](https://github.com/gen-verse/mmada)|
-|**2025-05-21**|**STAR-R1: Spacial TrAnsformation Reasoning by Reinforcing Multimodal LLMs**|Zongzhao Li et.al.|[2505.15804v1](http://arxiv.org/abs/2505.15804v1)|**2025-05-21**|null|
-|**2025-05-21**|**A Deep Learning Framework for Two-Dimensional, Multi-Frequency Propagation Factor Estimation**|Sarah E. Wessinger et.al.|[2505.15802v1](http://arxiv.org/abs/2505.15802v1)|**2025-05-21**|null|
-|**2025-05-21**|**IA-T2I: Internet-Augmented Text-to-Image Generation**|Chuanhao Li et.al.|[2505.15779v1](http://arxiv.org/abs/2505.15779v1)|**2025-05-21**|null|
-|**2025-05-21**|**Constructing a 3D Town from a Single Image**|Kaizhi Zheng et.al.|[2505.15765v1](http://arxiv.org/abs/2505.15765v1)|**2025-05-21**|null|
-|**2025-05-21**|**Characterization of bi-parametric potentials and rate of convergence of truncated hypersingular integrals in the Dunkl setting**|Sandeep Kumar Verma et.al.|[2505.15748v1](http://arxiv.org/abs/2505.15748v1)|**2025-05-21**|null|
-|**2025-05-21**|**AstroSat/UVIT far and near UV deep field around IC 4329A**|Piyali Ganguly et.al.|[2505.15736v1](http://arxiv.org/abs/2505.15736v1)|**2025-05-21**|null|
-|**2025-05-21**|**Privacy-Preserving Conformal Prediction Under Local Differential Privacy**|Coby Penso et.al.|[2505.15721v1](http://arxiv.org/abs/2505.15721v1)|**2025-05-21**|null|
-|**2025-05-21**|**Quantum Dots as Functional Nanosystems for Enhanced Biomedical Applications**|Pronama Biswas et.al.|[2505.15705v1](http://arxiv.org/abs/2505.15705v1)|**2025-05-21**|null|
-|**2025-05-21**|**SENSE -- Sensor-Enhanced Neural Shear Stress Estimation for Quantitative Oilfilm Visualizations**|Lennart Rohlfs et.al.|[2505.15697v1](http://arxiv.org/abs/2505.15697v1)|**2025-05-21**|null|
-|**2025-05-21**|**Discovering Pathology Rationale and Token Allocation for Efficient Multimodal Pathology Reasoning**|Zhe Xu et.al.|[2505.15687v1](http://arxiv.org/abs/2505.15687v1)|**2025-05-21**|null|
-|**2025-05-21**|**FragFake: A Dataset for Fine-Grained Detection of Edited Images with Vision Language Models**|Zhen Sun et.al.|[2505.15644v1](http://arxiv.org/abs/2505.15644v1)|**2025-05-21**|null|
-|**2025-05-21**|**Oral Imaging for Malocclusion Issues Assessments: OMNI Dataset, Deep Learning Baselines and Benchmarking**|Pujun Xue et.al.|[2505.15637v1](http://arxiv.org/abs/2505.15637v1)|**2025-05-21**|[link](https://github.com/roundfacej/omni)|
-|**2025-05-21**|**Combining Progressive Image Compression and Random Access in DNA Data Storage**|Xavier Pic et.al.|[2505.15632v1](http://arxiv.org/abs/2505.15632v1)|**2025-05-21**|null|
-|**2025-05-21**|**Relationship Analysis of Image-Text Pair in SNS Posts**|Takuto Nabeoka et.al.|[2505.15629v1](http://arxiv.org/abs/2505.15629v1)|**2025-05-21**|null|
-|**2025-05-21**|**SNAP: A Benchmark for Testing the Effects of Capture Conditions on Fundamental Vision Tasks**|Iuliia Kotseruba et.al.|[2505.15628v1](http://arxiv.org/abs/2505.15628v1)|**2025-05-21**|[link](https://github.com/ykotseruba/snap)|
-|**2025-05-21**|**Aligning Explanations with Human Communication**|Jacopo Teneggi et.al.|[2505.15626v1](http://arxiv.org/abs/2505.15626v1)|**2025-05-21**|null|
-|**2025-05-21**|**LENS: Multi-level Evaluation of Multimodal Reasoning with Large Language Models**|Ruilin Yao et.al.|[2505.15616v1](http://arxiv.org/abs/2505.15616v1)|**2025-05-21**|null|
-|**2025-05-21**|**A Methodology to Evaluate Strategies Predicting Rankings on Unseen Domains**|Sébastien Piérard et.al.|[2505.15595v1](http://arxiv.org/abs/2505.15595v1)|**2025-05-21**|null|
-|**2025-05-21**|**Beyond Classification: Evaluating Diffusion Denoised Smoothing for Security-Utility Trade off**|Yury Belousov et.al.|[2505.15594v1](http://arxiv.org/abs/2505.15594v1)|**2025-05-21**|null|
-|**2025-05-21**|**VP Lab: a PEFT-Enabled Visual Prompting Laboratory for Semantic Segmentation**|Niccolo Avogaro et.al.|[2505.15592v1](http://arxiv.org/abs/2505.15592v1)|**2025-05-21**|null|
-|**2025-05-21**|**UWSAM: Segment Anything Model Guided Underwater Instance Segmentation and A Large-scale Benchmark Dataset**|Hua Li et.al.|[2505.15581v1](http://arxiv.org/abs/2505.15581v1)|**2025-05-21**|[link](https://github.com/liamlian0727/uiis10k)|
-|**2025-05-21**|**Visual Perturbation and Adaptive Hard Negative Contrastive Learning for Compositional Reasoning in Vision-Language Models**|Xin Huang et.al.|[2505.15576v1](http://arxiv.org/abs/2505.15576v1)|**2025-05-21**|[link](https://github.com/nynu-bdai/ahnpl)|
-|**2025-05-21**|**TinyDrive: Multiscale Visual Question Answering with Selective Token Routing for Autonomous Driving**|Hossein Hassani et.al.|[2505.15564v1](http://arxiv.org/abs/2505.15564v1)|**2025-05-21**|null|
-|**2025-05-21**|**Robo2VLM: Visual Question Answering from Large-Scale In-the-Wild Robot Manipulation Datasets**|Kaiyuan Chen et.al.|[2505.15517v1](http://arxiv.org/abs/2505.15517v1)|**2025-05-21**|null|
-|**2025-05-21**|**Explainable embeddings with Distance Explainer**|Christiaan Meijer et.al.|[2505.15516v1](http://arxiv.org/abs/2505.15516v1)|**2025-05-21**|null|
-|**2025-05-21**|**Visual Thoughts: A Unified Perspective of Understanding Multimodal Chain-of-Thought**|Zihui Cheng et.al.|[2505.15510v1](http://arxiv.org/abs/2505.15510v1)|**2025-05-21**|null|
+|**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022v1](http://arxiv.org/abs/2505.17022v1)|**2025-05-22**|null|
+|**2025-05-22**|**Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**|Chenhao Zhang et.al.|[2505.17019v1](http://arxiv.org/abs/2505.17019v1)|**2025-05-22**|null|
+|**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020v1](http://arxiv.org/abs/2505.17020v1)|**2025-05-22**|null|
+|**2025-05-22**|**Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO**|Chengzhuo Tong et.al.|[2505.17017v1](http://arxiv.org/abs/2505.17017v1)|**2025-05-22**|null|
+|**2025-05-22**|**Multi-SpatialMLLM: Multi-Frame Spatial Understanding with Multi-Modal Large Language Models**|Runsen Xu et.al.|[2505.17015v1](http://arxiv.org/abs/2505.17015v1)|**2025-05-22**|null|
+|**2025-05-22**|**Learning Adaptive and Temporally Causal Video Tokenization in a 1D Latent Space**|Yan Li et.al.|[2505.17011v1](http://arxiv.org/abs/2505.17011v1)|**2025-05-22**|null|
+|**2025-05-22**|**Topological Phases, Criticality, and Mixed State Order in a Hubbard Quantum Simulator**|Lin Su et.al.|[2505.17009v1](http://arxiv.org/abs/2505.17009v1)|**2025-05-22**|null|
+|**2025-05-22**|**Deep mineralogical segmentation of thin section images based on QEMSCAN maps**|Jean Pablo Vieira de Mello et.al.|[2505.17008v1](http://arxiv.org/abs/2505.17008v1)|**2025-05-22**|null|
+|**2025-05-22**|**Seeing through Satellite Images at Street Views**|Ming Qian et.al.|[2505.17001v1](http://arxiv.org/abs/2505.17001v1)|**2025-05-22**|null|
+|**2025-05-22**|**Native Segmentation Vision Transformers**|Guillem Brasó et.al.|[2505.16993v1](http://arxiv.org/abs/2505.16993v1)|**2025-05-22**|null|
+|**2025-05-22**|**Extremely Simple Multimodal Outlier Synthesis for Out-of-Distribution Detection and Segmentation**|Moru Liu et.al.|[2505.16985v1](http://arxiv.org/abs/2505.16985v1)|**2025-05-22**|null|
+|**2025-05-22**|**Beyond Correlation: Towards Causal Large Language Model Agents in Biomedicine**|Adib Bazgir et.al.|[2505.16982v1](http://arxiv.org/abs/2505.16982v1)|**2025-05-22**|null|
+|**2025-05-22**|**Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction**|Dong Li et.al.|[2505.16980v1](http://arxiv.org/abs/2505.16980v1)|**2025-05-22**|null|
+|**2025-05-22**|**Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On**|Siqi Wan et.al.|[2505.16977v1](http://arxiv.org/abs/2505.16977v1)|**2025-05-22**|null|
+|**2025-05-22**|**Creatively Upscaling Images with Global-Regional Priors**|Yurui Qian et.al.|[2505.16976v1](http://arxiv.org/abs/2505.16976v1)|**2025-05-22**|null|
+|**2025-05-22**|**OpenSeg-R: Improving Open-Vocabulary Segmentation via Step-by-Step Visual Reasoning**|Zongyan Han et.al.|[2505.16974v1](http://arxiv.org/abs/2505.16974v1)|**2025-05-22**|null|
+|**2025-05-22**|**3D Equivariant Visuomotor Policy Learning via Spherical Projection**|Boce Hu et.al.|[2505.16969v1](http://arxiv.org/abs/2505.16969v1)|**2025-05-22**|null|
+|**2025-05-22**|**MedFrameQA: A Multi-Image Medical VQA Benchmark for Clinical Reasoning**|Suhao Yu et.al.|[2505.16964v1](http://arxiv.org/abs/2505.16964v1)|**2025-05-22**|null|
+|**2025-05-22**|**Bigger Isn't Always Memorizing: Early Stopping Overparameterized Diffusion Models**|Alessandro Favero et.al.|[2505.16959v1](http://arxiv.org/abs/2505.16959v1)|**2025-05-22**|null|
+|**2025-05-22**|**Efficient Correlation Volume Sampling for Ultra-High-Resolution Optical Flow Estimation**|Karlis Martins Briedis et.al.|[2505.16942v1](http://arxiv.org/abs/2505.16942v1)|**2025-05-22**|null|
+|**2025-05-22**|**TULiP: Test-time Uncertainty Estimation via Linearization and Weight Perturbation**|Yuhui Zhang et.al.|[2505.16923v1](http://arxiv.org/abs/2505.16923v1)|**2025-05-22**|null|
+|**2025-05-22**|**DetailMaster: Can Your Text-to-Image Model Handle Long Prompts?**|Qirui Jiao et.al.|[2505.16915v1](http://arxiv.org/abs/2505.16915v1)|**2025-05-22**|null|
+|**2025-05-22**|**Inkspot: A stress-resilient, anthocyanin rich, dwarf tomato variant for off-world cultivation**|Sarah Lang et.al.|[2505.16890v1](http://arxiv.org/abs/2505.16890v1)|**2025-05-22**|null|
+|**2025-05-22**|**Tracking the Flight: Exploring a Computational Framework for Analyzing Escape Responses in Plains Zebra (Equus quagga)**|Isla Duporge et.al.|[2505.16882v1](http://arxiv.org/abs/2505.16882v1)|**2025-05-22**|null|
+|**2025-05-22**|**T2I-ConBench: Text-to-Image Benchmark for Continual Post-training**|Zhehao Huang et.al.|[2505.16875v1](http://arxiv.org/abs/2505.16875v1)|**2025-05-22**|null|
+|**2025-05-22**|**Conditional Panoramic Image Generation via Masked Autoregressive Modeling**|Chaoyang Wang et.al.|[2505.16862v1](http://arxiv.org/abs/2505.16862v1)|**2025-05-22**|null|
+|**2025-05-22**|**Understanding and Analyzing Inappropriately Targeting Language in Online Discourse: A Comparative Annotation Study**|Baran Barbarestani et.al.|[2505.16847v1](http://arxiv.org/abs/2505.16847v1)|**2025-05-22**|null|
+|**2025-05-22**|**LaViDa: A Large Diffusion Language Model for Multimodal Understanding**|Shufan Li et.al.|[2505.16839v1](http://arxiv.org/abs/2505.16839v1)|**2025-05-22**|null|
+|**2025-05-22**|**Action2Dialogue: Generating Character-Centric Narratives from Scene-Level Prompts**|Taewon Kang et.al.|[2505.16819v1](http://arxiv.org/abs/2505.16819v1)|**2025-05-22**|null|
+|**2025-05-22**|**Perceptual Quality Assessment for Embodied AI**|Chunyi Li et.al.|[2505.16815v1](http://arxiv.org/abs/2505.16815v1)|**2025-05-22**|null|

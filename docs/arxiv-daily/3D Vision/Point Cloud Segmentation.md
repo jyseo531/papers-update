@@ -1,34 +1,15 @@
+# Point Cloud Segmentation
 
-### Point Cloud Segmentation
-|Publish Date|Title|Authors|PDF|Last Updated|Code|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-21**|**InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition**|Yijie Zheng et.al.|[2505.15818v1](http://arxiv.org/abs/2505.15818v1)|**2025-05-21**|null|
-|**2025-05-21**|**A Taxonomy of Structure from Motion Methods**|Federica Arrigoni et.al.|[2505.15814v1](http://arxiv.org/abs/2505.15814v1)|**2025-05-21**|null|
-|**2025-05-21**|**Discovery of a dwarf planet candidate in an extremely wide orbit: 2017 OF201**|Sihao Cheng et.al.|[2505.15806v1](http://arxiv.org/abs/2505.15806v1)|**2025-05-21**|null|
-|**2025-05-21**|**Adaptive Estimation and Learning under Temporal Distribution Shift**|Dheeraj Baby et.al.|[2505.15803v1](http://arxiv.org/abs/2505.15803v1)|**2025-05-21**|null|
-|**2025-05-21**|**CMB Lensing Trispectrum as a Probe of Parity Violation in LSS**|Alessandro Greco et.al.|[2505.15789v1](http://arxiv.org/abs/2505.15789v1)|**2025-05-21**|null|
-|**2025-05-21**|**Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space**|Zhen Zhang et.al.|[2505.15778v1](http://arxiv.org/abs/2505.15778v1)|**2025-05-21**|[link](https://github.com/eric-ai-lab/soft-thinking)|
-|**2025-05-21**|**Quasar radiation transforms the gas in a merging companion galaxy**|Sergei Balashev et.al.|[2505.15766v1](http://arxiv.org/abs/2505.15766v1)|**2025-05-21**|null|
-|**2025-05-21**|**Simple groups with strong fixed-point properties**|Nansen Petrosyan et.al.|[2505.15761v1](http://arxiv.org/abs/2505.15761v1)|**2025-05-21**|null|
-|**2025-05-21**|**Characterization of bi-parametric potentials and rate of convergence of truncated hypersingular integrals in the Dunkl setting**|Sandeep Kumar Verma et.al.|[2505.15748v1](http://arxiv.org/abs/2505.15748v1)|**2025-05-21**|null|
-|**2025-05-21**|**Some questions in Diophantine approximation: real and p-adics**|Dipendra Prasad et.al.|[2505.15744v1](http://arxiv.org/abs/2505.15744v1)|**2025-05-21**|null|
-|**2025-05-21**|**Who "Controls" Where Work Shall be Done? State-of-Practice in Post-Pandemic Remote Work Regulation**|Darja Smite et.al.|[2505.15743v1](http://arxiv.org/abs/2505.15743v1)|**2025-05-21**|null|
-|**2025-05-21**|**Neuro-Argumentative Learning with Case-Based Reasoning**|Adam Gould et.al.|[2505.15742v1](http://arxiv.org/abs/2505.15742v1)|**2025-05-21**|null|
-|**2025-05-21**|**On a Simplex Contained in a Ball**|Mikhail Nevskii et.al.|[2505.15739v1](http://arxiv.org/abs/2505.15739v1)|**2025-05-21**|null|
-|**2025-05-21**|**AstroSat/UVIT far and near UV deep field around IC 4329A**|Piyali Ganguly et.al.|[2505.15736v1](http://arxiv.org/abs/2505.15736v1)|**2025-05-21**|null|
-|**2025-05-21**|**Weighted Multiplier Method for Source-Independent Waveform Inversion**|Ali Gholami et.al.|[2505.15689v1](http://arxiv.org/abs/2505.15689v1)|**2025-05-21**|null|
-|**2025-05-21**|**A Federated Splitting Framework for LLMs: Security, Efficiency, and Adaptability**|Zishuai Zhang et.al.|[2505.15683v1](http://arxiv.org/abs/2505.15683v1)|**2025-05-21**|null|
-|**2025-05-21**|**Coupling quantum spin ice to matter on the centered pyrochlore lattice**|Rajah P. Nutakki et.al.|[2505.15677v1](http://arxiv.org/abs/2505.15677v1)|**2025-05-21**|null|
-|**2025-05-21**|**High-$β$* Optics Calculus at IP2 for Forward Physics in LHC Runs 3 and 4**|Sorina Popescu et.al.|[2505.15673v1](http://arxiv.org/abs/2505.15673v1)|**2025-05-21**|null|
-|**2025-05-21**|**Measurement-free quantum error correction optimized for biased noise**|Katharina Brechtelsbauer et.al.|[2505.15669v1](http://arxiv.org/abs/2505.15669v1)|**2025-05-21**|null|
-|**2025-05-21**|**Segmentation-Variant Codebooks for Preservation of Paralinguistic and Prosodic Information**|Nicholas Sanders et.al.|[2505.15667v1](http://arxiv.org/abs/2505.15667v1)|**2025-05-21**|null|
-|**2025-05-21**|**Energy Conservation and Vanishing Viscosity Limit for the Primitive Equations**|Šárka Nečasová et.al.|[2505.15658v1](http://arxiv.org/abs/2505.15658v1)|**2025-05-21**|null|
-|**2025-05-21**|**Second-Order Convergence in Private Stochastic Non-Convex Optimization**|Youming Tao et.al.|[2505.15647v1](http://arxiv.org/abs/2505.15647v1)|**2025-05-21**|null|
-|**2025-05-21**|**Time reversal of Brownian motion with Poissonian resetting**|Fausto Colantoni et.al.|[2505.15639v1](http://arxiv.org/abs/2505.15639v1)|**2025-05-21**|null|
-|**2025-05-21**|**Relative phase and dynamical phase sensing in a Hamiltonian model of the optical SU(1,1) interferometer**|T. J. Volkoff et.al.|[2505.15635v1](http://arxiv.org/abs/2505.15635v1)|**2025-05-21**|null|
-|**2025-05-21**|**Mechanistic Insights into Grokking from the Embedding Layer**|H. V. AlquBoj et.al.|[2505.15624v1](http://arxiv.org/abs/2505.15624v1)|**2025-05-21**|null|
-|**2025-05-21**|**VP Lab: a PEFT-Enabled Visual Prompting Laboratory for Semantic Segmentation**|Niccolo Avogaro et.al.|[2505.15592v1](http://arxiv.org/abs/2505.15592v1)|**2025-05-21**|null|
-|**2025-05-21**|**UWSAM: Segment Anything Model Guided Underwater Instance Segmentation and A Large-scale Benchmark Dataset**|Hua Li et.al.|[2505.15581v1](http://arxiv.org/abs/2505.15581v1)|**2025-05-21**|[link](https://github.com/liamlian0727/uiis10k)|
-|**2025-05-21**|**Hyperscaling of Fidelity and Operator Estimations in the Critical Manifold**|Matheus Henrique Martins Costa et.al.|[2505.15566v1](http://arxiv.org/abs/2505.15566v1)|**2025-05-21**|null|
-|**2025-05-21**|**Impact of Data Sparsity on Machine Learning for Fault Detection in Power System Protection**|Julian Oelhaf et.al.|[2505.15560v1](http://arxiv.org/abs/2505.15560v1)|**2025-05-21**|null|
-|**2025-05-21**|**Robo-DM: Data Management For Large Robot Datasets**|Kaiyuan Chen et.al.|[2505.15558v1](http://arxiv.org/abs/2505.15558v1)|**2025-05-21**|null|
+| Publish Date | Title | Authors | PDF | Code |
+|-------------|----------------|-------------|------|------|
+|**2025-05-15**|**APCoTTA: Continual Test-Time Adaptation for Semantic Segmentation of Airborne LiDAR Point Clouds**|Yuan Gao et.al.|[2505.09971v1](http://arxiv.org/abs/2505.09971v1)|**[link](https://github.com/gaoyuan2/apcotta)**|
+|**2025-04-26**|**WLTCL: Wide Field-of-View 3-D LiDAR Truck Compartment Automatic Localization System**|Guodong Sun et.al.|[2504.18870v1](http://arxiv.org/abs/2504.18870v1)|null|
+|**2025-04-16**|**3D-PointZshotS: Geometry-Aware 3D Point Cloud Zero-Shot Semantic Segmentation Narrowing the Visual-Semantic Gap**|Minmin Yang et.al.|[2504.12442v1](http://arxiv.org/abs/2504.12442v1)|**[link](https://github.com/lexieyang/3d-pointzshots)**|
+|**2025-04-09**|**UAV Position Estimation using a LiDAR-based 3D Object Detection Method**|Uthman Olawoye et.al.|[2504.07028v1](http://arxiv.org/abs/2504.07028v1)|null|
+|**2025-04-08**|**Turin3D: Evaluating Adaptation Strategies under Label Scarcity in Urban LiDAR Segmentation with Semi-Supervised Techniques**|Luca Barco et.al.|[2504.05882v1](http://arxiv.org/abs/2504.05882v1)|null|
+|**2025-04-02**|**Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks**|Haosheng Li et.al.|[2504.01659v3](http://arxiv.org/abs/2504.01659v3)|null|
+|**2025-04-02**|**ProtoGuard-guided PROPEL: Class-Aware Prototype Enhancement and Progressive Labeling for Incremental 3D Point Cloud Segmentation**|Haosheng Li et.al.|[2504.01648v2](http://arxiv.org/abs/2504.01648v2)|null|
+|**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944v1](http://arxiv.org/abs/2503.18944v1)|**[link](https://github.com/VisualComputingInstitute/DITR)**|
+|**2025-03-21**|**GeoT: Geometry-guided Instance-dependent Transition Matrix for Semi-supervised Tooth Point Cloud Segmentation**|Weihao Yu et.al.|[2503.16976v1](http://arxiv.org/abs/2503.16976v1)|null|
+|**2025-03-20**|**Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model**|Zhaochong An et.al.|[2503.16282v2](http://arxiv.org/abs/2503.16282v2)|**[link](https://github.com/zhaochongan/gfs-vl)**|
+

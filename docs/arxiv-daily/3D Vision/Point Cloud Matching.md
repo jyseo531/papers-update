@@ -14,7 +14,7 @@
 |**2025-05-21**|**Quasar radiation transforms the gas in a merging companion galaxy**|Sergei Balashev et.al.|[2505.15766v1](http://arxiv.org/abs/2505.15766v1)|**2025-05-21**|null|
 |**2025-05-21**|**Simple groups with strong fixed-point properties**|Nansen Petrosyan et.al.|[2505.15761v1](http://arxiv.org/abs/2505.15761v1)|**2025-05-21**|null|
 |**2025-05-21**|**Characterization of bi-parametric potentials and rate of convergence of truncated hypersingular integrals in the Dunkl setting**|Sandeep Kumar Verma et.al.|[2505.15748v1](http://arxiv.org/abs/2505.15748v1)|**2025-05-21**|null|
-|**2025-05-21**|**Multi-modal Integration Analysis of Alzheimer's Disease Using Large Language Models and Knowledge Graphs**|Kanan Kiguchi et.al.|[2505.15747v1](http://arxiv.org/abs/2505.15747v1)|**2025-05-21**|null|
+|**2025-05-21**|**Multi-modal Integration Analysis of Alzheimer's Disease Using Large Language Models and Knowledge Graphs**|Kanan Kiguchi et.al.|[2505.15747v2](http://arxiv.org/abs/2505.15747v2)|**2025-05-22**|null|
 |**2025-05-21**|**Some questions in Diophantine approximation: real and p-adics**|Dipendra Prasad et.al.|[2505.15744v1](http://arxiv.org/abs/2505.15744v1)|**2025-05-21**|null|
 |**2025-05-21**|**Who "Controls" Where Work Shall be Done? State-of-Practice in Post-Pandemic Remote Work Regulation**|Darja Smite et.al.|[2505.15743v1](http://arxiv.org/abs/2505.15743v1)|**2025-05-21**|null|
 |**2025-05-21**|**Neuro-Argumentative Learning with Case-Based Reasoning**|Adam Gould et.al.|[2505.15742v1](http://arxiv.org/abs/2505.15742v1)|**2025-05-21**|null|
@@ -22,7 +22,7 @@
 |**2025-05-21**|**AstroSat/UVIT far and near UV deep field around IC 4329A**|Piyali Ganguly et.al.|[2505.15736v1](http://arxiv.org/abs/2505.15736v1)|**2025-05-21**|null|
 |**2025-05-21**|**Properties of Building Blocks Comprising Strongly Interacting Posts and Their Consideration in Advanced Coaxial Filter Designs**|Smain Amari et.al.|[2505.15729v1](http://arxiv.org/abs/2505.15729v1)|**2025-05-21**|null|
 |**2025-05-21**|**Families of tractable problems with respect to vertex-interval-membership width and its generalisations**|Jessica Enright et.al.|[2505.15699v1](http://arxiv.org/abs/2505.15699v1)|**2025-05-21**|null|
-|**2025-05-21**|**Long LEM Query in BWT-Runs Space**|Ahsan Sanaullah et.al.|[2505.15698v1](http://arxiv.org/abs/2505.15698v1)|**2025-05-21**|null|
+|**2025-05-21**|**An Efficient Data Structure and Algorithm for Long-Match Query in Run-Length Compressed BWT**|Ahsan Sanaullah et.al.|[2505.15698v1](http://arxiv.org/abs/2505.15698v1)|**2025-05-21**|null|
 |**2025-05-21**|**Weighted Multiplier Method for Source-Independent Waveform Inversion**|Ali Gholami et.al.|[2505.15689v1](http://arxiv.org/abs/2505.15689v1)|**2025-05-21**|null|
 |**2025-05-21**|**A Federated Splitting Framework for LLMs: Security, Efficiency, and Adaptability**|Zishuai Zhang et.al.|[2505.15683v1](http://arxiv.org/abs/2505.15683v1)|**2025-05-21**|null|
 |**2025-05-21**|**Coupling quantum spin ice to matter on the centered pyrochlore lattice**|Rajah P. Nutakki et.al.|[2505.15677v1](http://arxiv.org/abs/2505.15677v1)|**2025-05-21**|null|

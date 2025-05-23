@@ -14,13 +14,13 @@
 |**2025-05-21**|**Current constraints on the minimally extended varying speed of light model through the cosmic distance duality relation**|Jaiane Santos et.al.|[2505.15768v1](http://arxiv.org/abs/2505.15768v1)|**2025-05-21**|null|
 |**2025-05-21**|**Constructing a 3D Town from a Single Image**|Kaizhi Zheng et.al.|[2505.15765v1](http://arxiv.org/abs/2505.15765v1)|**2025-05-21**|null|
 |**2025-05-21**|**Characterization of bi-parametric potentials and rate of convergence of truncated hypersingular integrals in the Dunkl setting**|Sandeep Kumar Verma et.al.|[2505.15748v1](http://arxiv.org/abs/2505.15748v1)|**2025-05-21**|null|
-|**2025-05-21**|**Multi-modal Integration Analysis of Alzheimer's Disease Using Large Language Models and Knowledge Graphs**|Kanan Kiguchi et.al.|[2505.15747v1](http://arxiv.org/abs/2505.15747v1)|**2025-05-21**|null|
+|**2025-05-21**|**Multi-modal Integration Analysis of Alzheimer's Disease Using Large Language Models and Knowledge Graphs**|Kanan Kiguchi et.al.|[2505.15747v2](http://arxiv.org/abs/2505.15747v2)|**2025-05-22**|null|
 |**2025-05-21**|**AstroSat/UVIT far and near UV deep field around IC 4329A**|Piyali Ganguly et.al.|[2505.15736v1](http://arxiv.org/abs/2505.15736v1)|**2025-05-21**|null|
 |**2025-05-21**|**Properties of Building Blocks Comprising Strongly Interacting Posts and Their Consideration in Advanced Coaxial Filter Designs**|Smain Amari et.al.|[2505.15729v1](http://arxiv.org/abs/2505.15729v1)|**2025-05-21**|null|
 |**2025-05-21**|**Privacy-Preserving Conformal Prediction Under Local Differential Privacy**|Coby Penso et.al.|[2505.15721v1](http://arxiv.org/abs/2505.15721v1)|**2025-05-21**|null|
 |**2025-05-21**|**Quantum Dots as Functional Nanosystems for Enhanced Biomedical Applications**|Pronama Biswas et.al.|[2505.15705v1](http://arxiv.org/abs/2505.15705v1)|**2025-05-21**|null|
 |**2025-05-21**|**Families of tractable problems with respect to vertex-interval-membership width and its generalisations**|Jessica Enright et.al.|[2505.15699v1](http://arxiv.org/abs/2505.15699v1)|**2025-05-21**|null|
-|**2025-05-21**|**Long LEM Query in BWT-Runs Space**|Ahsan Sanaullah et.al.|[2505.15698v1](http://arxiv.org/abs/2505.15698v1)|**2025-05-21**|null|
+|**2025-05-21**|**An Efficient Data Structure and Algorithm for Long-Match Query in Run-Length Compressed BWT**|Ahsan Sanaullah et.al.|[2505.15698v1](http://arxiv.org/abs/2505.15698v1)|**2025-05-21**|null|
 |**2025-05-21**|**SENSE -- Sensor-Enhanced Neural Shear Stress Estimation for Quantitative Oilfilm Visualizations**|Lennart Rohlfs et.al.|[2505.15697v1](http://arxiv.org/abs/2505.15697v1)|**2025-05-21**|null|
 |**2025-05-21**|**Discovering Pathology Rationale and Token Allocation for Efficient Multimodal Pathology Reasoning**|Zhe Xu et.al.|[2505.15687v1](http://arxiv.org/abs/2505.15687v1)|**2025-05-21**|null|
 |**2025-05-21**|**High-$β$* Optics Calculus at IP2 for Forward Physics in LHC Runs 3 and 4**|Sorina Popescu et.al.|[2505.15673v1](http://arxiv.org/abs/2505.15673v1)|**2025-05-21**|null|

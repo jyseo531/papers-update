@@ -5,7 +5,7 @@
 |**2025-05-21**|**InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition**|Yijie Zheng et.al.|[2505.15818v1](http://arxiv.org/abs/2505.15818v1)|**2025-05-21**|null|
 |**2025-05-21**|**A Taxonomy of Structure from Motion Methods**|Federica Arrigoni et.al.|[2505.15814v1](http://arxiv.org/abs/2505.15814v1)|**2025-05-21**|null|
 |**2025-05-21**|**On the creation of narrow AI: hierarchy and nonlocality of neural network skills**|Eric J. Michaud et.al.|[2505.15811v1](http://arxiv.org/abs/2505.15811v1)|**2025-05-21**|null|
-|**2025-05-21**|**GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents**|Yuqi Zhou et.al.|[2505.15810v1](http://arxiv.org/abs/2505.15810v1)|**2025-05-21**|[link](https://github.com/yuqi-zhou/gui-g1)|
+|**2025-05-21**|**GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents**|Yuqi Zhou et.al.|[2505.15810v2](http://arxiv.org/abs/2505.15810v2)|**2025-05-22**|[link](https://github.com/yuqi-zhou/gui-g1)|
 |**2025-05-21**|**Discovery of a dwarf planet candidate in an extremely wide orbit: 2017 OF201**|Sihao Cheng et.al.|[2505.15806v1](http://arxiv.org/abs/2505.15806v1)|**2025-05-21**|null|
 |**2025-05-21**|**STAR-R1: Spacial TrAnsformation Reasoning by Reinforcing Multimodal LLMs**|Zongzhao Li et.al.|[2505.15804v1](http://arxiv.org/abs/2505.15804v1)|**2025-05-21**|null|
 |**2025-05-21**|**Adaptive Estimation and Learning under Temporal Distribution Shift**|Dheeraj Baby et.al.|[2505.15803v1](http://arxiv.org/abs/2505.15803v1)|**2025-05-21**|null|

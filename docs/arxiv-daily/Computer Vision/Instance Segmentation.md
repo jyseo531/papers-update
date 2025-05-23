@@ -28,7 +28,7 @@
 |**2025-05-21**|**Machine Learning Derived Blood Input for Dynamic PET Images of Rat Heart**|Shubhrangshu Debsarkar et.al.|[2505.15488v1](http://arxiv.org/abs/2505.15488v1)|**2025-05-21**|null|
 |**2025-05-21**|**Pointwise Convergence in Games with Conflicting Interest**|Nanxiang Zhou et.al.|[2505.15454v1](http://arxiv.org/abs/2505.15454v1)|**2025-05-21**|null|
 |**2025-05-21**|**Single LLM, Multiple Roles: A Unified Retrieval-Augmented Generation Framework Using Role-Specific Token Optimization**|Yutao Zhu et.al.|[2505.15444v1](http://arxiv.org/abs/2505.15444v1)|**2025-05-21**|null|
-|**2025-05-21**|**Stronger ViTs With Octic Equivariance**|David Nordström et.al.|[2505.15441v1](http://arxiv.org/abs/2505.15441v1)|**2025-05-21**|[link](https://github.com/davnords/octic-vits)|
+|**2025-05-21**|**Stronger ViTs With Octic Equivariance**|David Nordström et.al.|[2505.15441v2](http://arxiv.org/abs/2505.15441v2)|**2025-05-22**|[link](https://github.com/davnords/octic-vits)|
 |**2025-05-21**|**Robust Multimodal Learning via Entropy-Gated Contrastive Fusion**|Leon Chlon et.al.|[2505.15417v1](http://arxiv.org/abs/2505.15417v1)|**2025-05-21**|null|
 |**2025-05-21**|**Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study**|DongGeon Lee et.al.|[2505.15389v1](http://arxiv.org/abs/2505.15389v1)|**2025-05-21**|null|
 |**2025-05-21**|**Generalized digroups, di-skew braces, and solutions of the set-theoretic Yang-Baxter equation**|Andrea Albano et.al.|[2505.15387v1](http://arxiv.org/abs/2505.15387v1)|**2025-05-21**|null|

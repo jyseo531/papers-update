@@ -19,7 +19,7 @@
 |**2025-05-21**|**Properties of Building Blocks Comprising Strongly Interacting Posts and Their Consideration in Advanced Coaxial Filter Designs**|Smain Amari et.al.|[2505.15729v1](http://arxiv.org/abs/2505.15729v1)|**2025-05-21**|null|
 |**2025-05-21**|**Are machine learning interpretations reliable? A stability study on global interpretations**|Luqin Gan et.al.|[2505.15728v1](http://arxiv.org/abs/2505.15728v1)|**2025-05-21**|null|
 |**2025-05-21**|**TurnaboutLLM: A Deductive Reasoning Benchmark from Detective Games**|Yuan Yuan et.al.|[2505.15712v1](http://arxiv.org/abs/2505.15712v1)|**2025-05-21**|null|
-|**2025-05-21**|**When are syzygies of the residue field self-dual?**|Souvik Dey et.al.|[2505.15707v1](http://arxiv.org/abs/2505.15707v1)|**2025-05-21**|null|
+|**2025-05-21**|**When are syzygies of the residue field self-dual?**|Souvik Dey et.al.|[2505.15707v2](http://arxiv.org/abs/2505.15707v2)|**2025-05-22**|null|
 |**2025-05-21**|**Thought-Augmented Policy Optimization: Bridging External Guidance and Internal Capabilities**|Jinyang Wu et.al.|[2505.15692v1](http://arxiv.org/abs/2505.15692v1)|**2025-05-21**|null|
 |**2025-05-21**|**Toward Open Earth Science as Fast and Accessible as Natural Language**|Marquita Ellis et.al.|[2505.15690v1](http://arxiv.org/abs/2505.15690v1)|**2025-05-21**|null|
 |**2025-05-21**|**Discovering Pathology Rationale and Token Allocation for Efficient Multimodal Pathology Reasoning**|Zhe Xu et.al.|[2505.15687v1](http://arxiv.org/abs/2505.15687v1)|**2025-05-21**|null|

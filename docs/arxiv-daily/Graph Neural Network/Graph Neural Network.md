@@ -11,7 +11,7 @@
 |**2025-05-21**|**Projection-Based Correction for Enhancing Deep Inverse Networks**|Jorge Bacca et.al.|[2505.15777v1](http://arxiv.org/abs/2505.15777v1)|**2025-05-21**|null|
 |**2025-05-21**|**State Characterisation of Self-Directed Channel Memristive Devices**|Dániel Hajtó et.al.|[2505.15757v1](http://arxiv.org/abs/2505.15757v1)|**2025-05-21**|null|
 |**2025-05-21**|**Exploring The Visual Feature Space for Multimodal Neural Decoding**|Weihao Xia et.al.|[2505.15755v1](http://arxiv.org/abs/2505.15755v1)|**2025-05-21**|null|
-|**2025-05-21**|**Multi-modal Integration Analysis of Alzheimer's Disease Using Large Language Models and Knowledge Graphs**|Kanan Kiguchi et.al.|[2505.15747v1](http://arxiv.org/abs/2505.15747v1)|**2025-05-21**|null|
+|**2025-05-21**|**Multi-modal Integration Analysis of Alzheimer's Disease Using Large Language Models and Knowledge Graphs**|Kanan Kiguchi et.al.|[2505.15747v2](http://arxiv.org/abs/2505.15747v2)|**2025-05-22**|null|
 |**2025-05-21**|**Higher-order Structure Boosts Link Prediction on Temporal Graphs**|Jingzhe Liu et.al.|[2505.15746v1](http://arxiv.org/abs/2505.15746v1)|**2025-05-21**|null|
 |**2025-05-21**|**Neuro-Argumentative Learning with Case-Based Reasoning**|Adam Gould et.al.|[2505.15742v1](http://arxiv.org/abs/2505.15742v1)|**2025-05-21**|null|
 |**2025-05-21**|**Evolutionary Computation and Large Language Models: A Survey of Methods, Synergies, and Applications**|Dikshit Chauhan et.al.|[2505.15741v1](http://arxiv.org/abs/2505.15741v1)|**2025-05-21**|null|
