@@ -2,33 +2,33 @@
 ### Multi-modal
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-21**|**Learning to Reason via Mixture-of-Thought for Logical Reasoning**|Tong Zheng et.al.|[2505.15817v1](http://arxiv.org/abs/2505.15817v1)|**2025-05-21**|[link](https://github.com/zhengkid/Truth_Table_Logical_Reasoning)|
-|**2025-05-21**|**MMaDA: Multimodal Large Diffusion Language Models**|Ling Yang et.al.|[2505.15809v1](http://arxiv.org/abs/2505.15809v1)|**2025-05-21**|[link](https://github.com/gen-verse/mmada)|
-|**2025-05-21**|**MIKU-PAL: An Automated and Standardized Multi-Modal Method for Speech Paralinguistic and Affect Labeling**|Cheng Yifan et.al.|[2505.15772v1](http://arxiv.org/abs/2505.15772v1)|**2025-05-21**|null|
-|**2025-05-21**|**Exploring The Visual Feature Space for Multimodal Neural Decoding**|Weihao Xia et.al.|[2505.15755v1](http://arxiv.org/abs/2505.15755v1)|**2025-05-21**|null|
-|**2025-05-21**|**Multi-modal Integration Analysis of Alzheimer's Disease Using Large Language Models and Knowledge Graphs**|Kanan Kiguchi et.al.|[2505.15747v2](http://arxiv.org/abs/2505.15747v2)|**2025-05-22**|null|
-|**2025-05-21**|**VocalBench: Benchmarking the Vocal Conversational Abilities for Speech Interaction Models**|Heyang Liu et.al.|[2505.15727v1](http://arxiv.org/abs/2505.15727v1)|**2025-05-21**|null|
-|**2025-05-21**|**Beyond Empathy: Integrating Diagnostic and Therapeutic Reasoning with Large Language Models for Mental Health Counseling**|He Hu et.al.|[2505.15715v1](http://arxiv.org/abs/2505.15715v1)|**2025-05-21**|null|
-|**2025-05-21**|**HAMF: A Hybrid Attention-Mamba Framework for Joint Scene Context Understanding and Future Motion Representation Learning**|Xiaodong Mei et.al.|[2505.15703v1](http://arxiv.org/abs/2505.15703v1)|**2025-05-21**|null|
-|**2025-05-21**|**From Grounding to Manipulation: Case Studies of Foundation Model Integration in Embodied Robotic Systems**|Xiuchao Sui et.al.|[2505.15685v1](http://arxiv.org/abs/2505.15685v1)|**2025-05-21**|null|
-|**2025-05-21**|**Non-individuality and experience**|Raoni Arroyo et.al.|[2505.15627v1](http://arxiv.org/abs/2505.15627v1)|**2025-05-21**|null|
-|**2025-05-21**|**Visual Perturbation and Adaptive Hard Negative Contrastive Learning for Compositional Reasoning in Vision-Language Models**|Xin Huang et.al.|[2505.15576v1](http://arxiv.org/abs/2505.15576v1)|**2025-05-21**|[link](https://github.com/nynu-bdai/ahnpl)|
-|**2025-05-21**|**Robo-DM: Data Management For Large Robot Datasets**|Kaiyuan Chen et.al.|[2505.15558v1](http://arxiv.org/abs/2505.15558v1)|**2025-05-21**|null|
-|**2025-05-21**|**seg_3D_by_PC2D: Multi-View Projection for Domain Generalization and Adaptation in 3D Semantic Segmentation**|Andrew Caunes et.al.|[2505.15545v1](http://arxiv.org/abs/2505.15545v1)|**2025-05-21**|[link](https://github.com/andrewcaunes/ia4markings)|
-|**2025-05-21**|**Robo2VLM: Visual Question Answering from Large-Scale In-the-Wild Robot Manipulation Datasets**|Kaiyuan Chen et.al.|[2505.15517v1](http://arxiv.org/abs/2505.15517v1)|**2025-05-21**|null|
-|**2025-05-21**|**Explainable embeddings with Distance Explainer**|Christiaan Meijer et.al.|[2505.15516v1](http://arxiv.org/abs/2505.15516v1)|**2025-05-21**|null|
-|**2025-05-21**|**Spectral-Aware Global Fusion for RGB-Thermal Semantic Segmentation**|Ce Zhang et.al.|[2505.15491v1](http://arxiv.org/abs/2505.15491v1)|**2025-05-21**|null|
-|**2025-05-21**|**Seeing Through Deception: Uncovering Misleading Creator Intent in Multimodal News with Vision-Language Models**|Jiaying Wu et.al.|[2505.15489v1](http://arxiv.org/abs/2505.15489v1)|**2025-05-21**|null|
-|**2025-05-21**|**LET-modifying joint optimization for mixed-modality photon-proton treatment planning**|Lisa Seckler et.al.|[2505.15482v1](http://arxiv.org/abs/2505.15482v1)|**2025-05-21**|null|
-|**2025-05-21**|**Bridging Sign and Spoken Languages: Pseudo Gloss Generation for Sign Language Translation**|Jianyuan Guo et.al.|[2505.15438v1](http://arxiv.org/abs/2505.15438v1)|**2025-05-21**|null|
-|**2025-05-21**|**On the Robustness of Medical Vision-Language Models: Are they Truly Generalizable?**|Raza Imam et.al.|[2505.15425v1](http://arxiv.org/abs/2505.15425v1)|**2025-05-21**|null|
-|**2025-05-21**|**Robust Multimodal Learning via Entropy-Gated Contrastive Fusion**|Leon Chlon et.al.|[2505.15417v1](http://arxiv.org/abs/2505.15417v1)|**2025-05-21**|null|
-|**2025-05-21**|**Visual Question Answering on Multiple Remote Sensing Image Modalities**|Hichem Boussaid et.al.|[2505.15401v1](http://arxiv.org/abs/2505.15401v1)|**2025-05-21**|null|
-|**2025-05-21**|**The P$^3$ dataset: Pixels, Points and Polygons for Multimodal Building Vectorization**|Raphael Sulzer et.al.|[2505.15379v1](http://arxiv.org/abs/2505.15379v1)|**2025-05-21**|[link](https://github.com/raphaelsulzer/pixelspointspolygons)|
-|**2025-05-21**|**Decoding Phone Pairs from MEG Signals Across Speech Modalities**|Xabier de Zuazo et.al.|[2505.15355v1](http://arxiv.org/abs/2505.15355v1)|**2025-05-21**|null|
-|**2025-05-21**|**Leveraging Unit Language Guidance to Advance Speech Modeling in Textless Speech-to-Speech Translation**|Yuhao Zhang et.al.|[2505.15333v1](http://arxiv.org/abs/2505.15333v1)|**2025-05-21**|null|
-|**2025-05-21**|**Saliency-Aware Quantized Imitation Learning for Efficient Robotic Control**|Seongmin Park et.al.|[2505.15304v1](http://arxiv.org/abs/2505.15304v1)|**2025-05-21**|null|
-|**2025-05-21**|**Reconsider the Template Mesh in Deep Learning-based Mesh Reconstruction**|Fengting Zhang et.al.|[2505.15285v1](http://arxiv.org/abs/2505.15285v1)|**2025-05-21**|null|
-|**2025-05-21**|**Zero-Shot Gaze-based Volumetric Medical Image Segmentation**|Tatyana Shmykova et.al.|[2505.15256v1](http://arxiv.org/abs/2505.15256v1)|**2025-05-21**|null|
-|**2025-05-21**|**Fooling the LVLM Judges: Visual Biases in LVLM-Based Evaluation**|Yerin Hwang et.al.|[2505.15249v1](http://arxiv.org/abs/2505.15249v1)|**2025-05-21**|null|
-|**2025-05-21**|**CAD: A General Multimodal Framework for Video Deepfake Detection via Cross-Modal Alignment and Distillation**|Yuxuan Du et.al.|[2505.15233v1](http://arxiv.org/abs/2505.15233v1)|**2025-05-21**|null|
+|**2025-05-22**|**ARB: A Comprehensive Arabic Multimodal Reasoning Benchmark**|Sara Ghaboura et.al.|[2505.17021v1](http://arxiv.org/abs/2505.17021v1)|**2025-05-22**|null|
+|**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020v1](http://arxiv.org/abs/2505.17020v1)|**2025-05-22**|null|
+|**2025-05-22**|**Multi-SpatialMLLM: Multi-Frame Spatial Understanding with Multi-Modal Large Language Models**|Runsen Xu et.al.|[2505.17015v1](http://arxiv.org/abs/2505.17015v1)|**2025-05-22**|null|
+|**2025-05-22**|**SpatialScore: Towards Unified Evaluation for Multimodal Spatial Understanding**|Haoning Wu et.al.|[2505.17012v1](http://arxiv.org/abs/2505.17012v1)|**2025-05-22**|[link](https://github.com/haoningwu3639/SpatialScore)|
+|**2025-05-22**|**Extremely Simple Multimodal Outlier Synthesis for Out-of-Distribution Detection and Segmentation**|Moru Liu et.al.|[2505.16985v1](http://arxiv.org/abs/2505.16985v1)|**2025-05-22**|null|
+|**2025-05-22**|**LLM as Effective Streaming Processor: Bridging Streaming-Batch Mismatches with Group Position Encoding**|Junlong Tong et.al.|[2505.16983v1](http://arxiv.org/abs/2505.16983v1)|**2025-05-22**|null|
+|**2025-05-22**|**3D Equivariant Visuomotor Policy Learning via Spherical Projection**|Boce Hu et.al.|[2505.16969v1](http://arxiv.org/abs/2505.16969v1)|**2025-05-22**|null|
+|**2025-05-22**|**MedFrameQA: A Multi-Image Medical VQA Benchmark for Clinical Reasoning**|Suhao Yu et.al.|[2505.16964v1](http://arxiv.org/abs/2505.16964v1)|**2025-05-22**|null|
+|**2025-05-22**|**ICYM2I: The illusion of multimodal informativeness under missingness**|Young Sang Choi et.al.|[2505.16953v1](http://arxiv.org/abs/2505.16953v1)|**2025-05-22**|[link](https://github.com/reAIM-Lab/ehr_foundation_model_benchmark)|
+|**2025-05-22**|**SPAR: Self-supervised Placement-Aware Representation Learning for Multi-Node IoT Systems**|Yizhuo Chen et.al.|[2505.16936v1](http://arxiv.org/abs/2505.16936v1)|**2025-05-22**|null|
+|**2025-05-22**|**Backdoor Cleaning without External Guidance in MLLM Fine-tuning**|Xuankun Rong et.al.|[2505.16916v1](http://arxiv.org/abs/2505.16916v1)|**2025-05-22**|null|
+|**2025-05-22**|**RealEngine: Simulating Autonomous Driving in Realistic Context**|Junzhe Jiang et.al.|[2505.16902v1](http://arxiv.org/abs/2505.16902v1)|**2025-05-22**|null|
+|**2025-05-22**|**LaViDa: A Large Diffusion Language Model for Multimodal Understanding**|Shufan Li et.al.|[2505.16839v1](http://arxiv.org/abs/2505.16839v1)|**2025-05-22**|null|
+|**2025-05-22**|**Hypergraph Tversky-Aware Domain Incremental Learning for Brain Tumor Segmentation with Missing Modalities**|Junze Wang et.al.|[2505.16809v1](http://arxiv.org/abs/2505.16809v1)|**2025-05-22**|null|
+|**2025-05-22**|**Cohort-Based Active Modality Acquisition**|Tillmann Rheude et.al.|[2505.16791v1](http://arxiv.org/abs/2505.16791v1)|**2025-05-22**|null|
+|**2025-05-22**|**IFEval-Audio: Benchmarking Instruction-Following Capability in Audio-based Large Language Models**|Yiming Gao et.al.|[2505.16774v1](http://arxiv.org/abs/2505.16774v1)|**2025-05-22**|null|
+|**2025-05-22**|**RBench-V: A Primary Assessment for Visual Reasoning Models with Multi-modal Outputs**|Meng-Hao Guo et.al.|[2505.16770v1](http://arxiv.org/abs/2505.16770v1)|**2025-05-22**|null|
+|**2025-05-22**|**Representation Discrepancy Bridging Method for Remote Sensing Image-Text Retrieval**|Hailong Ning et.al.|[2505.16756v1](http://arxiv.org/abs/2505.16756v1)|**2025-05-22**|null|
+|**2025-05-22**|**Adversarial Deep Metric Learning for Cross-Modal Audio-Text Alignment in Open-Vocabulary Keyword Spotting**|Youngmoon Jung et.al.|[2505.16735v1](http://arxiv.org/abs/2505.16735v1)|**2025-05-22**|null|
+|**2025-05-22**|**KRIS-Bench: Benchmarking Next-Level Intelligent Image Editing Models**|Yongliang Wu et.al.|[2505.16707v1](http://arxiv.org/abs/2505.16707v1)|**2025-05-22**|null|
+|**2025-05-22**|**CoNav: Collaborative Cross-Modal Reasoning for Embodied Navigation**|Haihong Hao et.al.|[2505.16663v1](http://arxiv.org/abs/2505.16663v1)|**2025-05-22**|[link](https://github.com/oceanhao/CoNav)|
+|**2025-05-22**|**From Evaluation to Defense: Advancing Safety in Video Large Language Models**|Yiwei Sun et.al.|[2505.16643v1](http://arxiv.org/abs/2505.16643v1)|**2025-05-22**|null|
+|**2025-05-22**|**A Two-Stage Data Selection Framework for Data-Efficient Model Training on Edge Devices**|Chen Gong et.al.|[2505.16563v1](http://arxiv.org/abs/2505.16563v1)|**2025-05-22**|null|
+|**2025-05-22**|**Beyond Face Swapping: A Diffusion-Based Digital Human Benchmark for Multimodal Deepfake Detection**|Jiaxin Liu et.al.|[2505.16512v1](http://arxiv.org/abs/2505.16512v1)|**2025-05-22**|null|
+|**2025-05-22**|**Consistent World Models via Foresight Diffusion**|Yu Zhang et.al.|[2505.16474v1](http://arxiv.org/abs/2505.16474v1)|**2025-05-22**|null|
+|**2025-05-22**|**Benchmarking Retrieval-Augmented Multimomal Generation for Document Question Answering**|Kuicai Dong et.al.|[2505.16470v1](http://arxiv.org/abs/2505.16470v1)|**2025-05-22**|null|
+|**2025-05-22**|**MMMR: Benchmarking Massive Multi-Modal Reasoning Tasks**|Guiyao Tie et.al.|[2505.16459v1](http://arxiv.org/abs/2505.16459v1)|**2025-05-22**|null|
+|**2025-05-22**|**Implicit Jailbreak Attacks via Cross-Modal Information Concealment on Vision-Language Models**|Zhaoxin Wang et.al.|[2505.16446v1](http://arxiv.org/abs/2505.16446v1)|**2025-05-22**|null|
+|**2025-05-22**|**Estimation of multiple parameters encoded in the modal structure of light**|Alexander Boeschoten et.al.|[2505.16435v1](http://arxiv.org/abs/2505.16435v1)|**2025-05-22**|null|
+|**2025-05-22**|**Circle-RoPE: Cone-like Decoupled Rotary Positional Embedding for Large Vision-Language Models**|Chengcheng Wang et.al.|[2505.16416v1](http://arxiv.org/abs/2505.16416v1)|**2025-05-22**|null|

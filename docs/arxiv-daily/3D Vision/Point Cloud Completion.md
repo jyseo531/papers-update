@@ -2,33 +2,33 @@
 ### Point Cloud Completion
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-21**|**A Taxonomy of Structure from Motion Methods**|Federica Arrigoni et.al.|[2505.15814v1](http://arxiv.org/abs/2505.15814v1)|**2025-05-21**|null|
-|**2025-05-21**|**Discovery of a dwarf planet candidate in an extremely wide orbit: 2017 OF201**|Sihao Cheng et.al.|[2505.15806v1](http://arxiv.org/abs/2505.15806v1)|**2025-05-21**|null|
-|**2025-05-21**|**Adaptive Estimation and Learning under Temporal Distribution Shift**|Dheeraj Baby et.al.|[2505.15803v1](http://arxiv.org/abs/2505.15803v1)|**2025-05-21**|null|
-|**2025-05-21**|**CMB Lensing Trispectrum as a Probe of Parity Violation in LSS**|Alessandro Greco et.al.|[2505.15789v1](http://arxiv.org/abs/2505.15789v1)|**2025-05-21**|null|
-|**2025-05-21**|**Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space**|Zhen Zhang et.al.|[2505.15778v1](http://arxiv.org/abs/2505.15778v1)|**2025-05-21**|[link](https://github.com/eric-ai-lab/soft-thinking)|
-|**2025-05-21**|**ConvSearch-R1: Enhancing Query Reformulation for Conversational Search with Reasoning via Reinforcement Learning**|Changtai Zhu et.al.|[2505.15776v1](http://arxiv.org/abs/2505.15776v1)|**2025-05-21**|null|
-|**2025-05-21**|**Beyond Hard and Soft: Hybrid Context Compression for Balancing Local and Global Information Retention**|Huanxuan Liao et.al.|[2505.15774v1](http://arxiv.org/abs/2505.15774v1)|**2025-05-21**|null|
-|**2025-05-21**|**Free monoids and Riguet congruences**|Juan Climent Vidal et.al.|[2505.15767v1](http://arxiv.org/abs/2505.15767v1)|**2025-05-21**|null|
-|**2025-05-21**|**Quasar radiation transforms the gas in a merging companion galaxy**|Sergei Balashev et.al.|[2505.15766v1](http://arxiv.org/abs/2505.15766v1)|**2025-05-21**|null|
-|**2025-05-21**|**Simple groups with strong fixed-point properties**|Nansen Petrosyan et.al.|[2505.15761v1](http://arxiv.org/abs/2505.15761v1)|**2025-05-21**|null|
-|**2025-05-21**|**Characterization of bi-parametric potentials and rate of convergence of truncated hypersingular integrals in the Dunkl setting**|Sandeep Kumar Verma et.al.|[2505.15748v1](http://arxiv.org/abs/2505.15748v1)|**2025-05-21**|null|
-|**2025-05-21**|**Some questions in Diophantine approximation: real and p-adics**|Dipendra Prasad et.al.|[2505.15744v1](http://arxiv.org/abs/2505.15744v1)|**2025-05-21**|null|
-|**2025-05-21**|**Who "Controls" Where Work Shall be Done? State-of-Practice in Post-Pandemic Remote Work Regulation**|Darja Smite et.al.|[2505.15743v1](http://arxiv.org/abs/2505.15743v1)|**2025-05-21**|null|
-|**2025-05-21**|**Neuro-Argumentative Learning with Case-Based Reasoning**|Adam Gould et.al.|[2505.15742v1](http://arxiv.org/abs/2505.15742v1)|**2025-05-21**|null|
-|**2025-05-21**|**HybridProver: Augmenting Theorem Proving with LLM-Driven Proof Synthesis and Refinement**|Jilin Hu et.al.|[2505.15740v1](http://arxiv.org/abs/2505.15740v1)|**2025-05-21**|null|
-|**2025-05-21**|**On a Simplex Contained in a Ball**|Mikhail Nevskii et.al.|[2505.15739v1](http://arxiv.org/abs/2505.15739v1)|**2025-05-21**|null|
-|**2025-05-21**|**AstroSat/UVIT far and near UV deep field around IC 4329A**|Piyali Ganguly et.al.|[2505.15736v1](http://arxiv.org/abs/2505.15736v1)|**2025-05-21**|null|
-|**2025-05-21**|**Distributionally Robust Planning of Hydrogen-Electrical Microgrids for Sea Islands**|Yuchen Dong et.al.|[2505.15733v1](http://arxiv.org/abs/2505.15733v1)|**2025-05-21**|null|
-|**2025-05-21**|**Electro-Fenton treatment of benzophenone-4 solutions: A sustainable approach for its removal using an air-diffusion cathode**|Caio Machado Fernandes et.al.|[2505.15713v1](http://arxiv.org/abs/2505.15713v1)|**2025-05-21**|null|
-|**2025-05-21**|**Advancing LLM Safe Alignment with Safety Representation Ranking**|Tianqi Du et.al.|[2505.15710v1](http://arxiv.org/abs/2505.15710v1)|**2025-05-21**|null|
-|**2025-05-21**|**HDLxGraph: Bridging Large Language Models and HDL Repositories via HDL Graph Databases**|Pingqing Zheng et.al.|[2505.15701v1](http://arxiv.org/abs/2505.15701v1)|**2025-05-21**|[link](https://github.com/nick-zheng-q/hdlxgraph)|
-|**2025-05-21**|**Weighted Multiplier Method for Source-Independent Waveform Inversion**|Ali Gholami et.al.|[2505.15689v1](http://arxiv.org/abs/2505.15689v1)|**2025-05-21**|null|
-|**2025-05-21**|**A packing lemma for VCN${}_k$-dimension and learning high-dimensional data**|Leonardo N. Coregliano et.al.|[2505.15688v1](http://arxiv.org/abs/2505.15688v1)|**2025-05-21**|null|
-|**2025-05-21**|**A Federated Splitting Framework for LLMs: Security, Efficiency, and Adaptability**|Zishuai Zhang et.al.|[2505.15683v1](http://arxiv.org/abs/2505.15683v1)|**2025-05-21**|null|
-|**2025-05-21**|**Optimization of fipronil removal via electro-Fenton using a carbon cloth air-diffusion electrode**|Caio Machado Fernandes et.al.|[2505.15678v1](http://arxiv.org/abs/2505.15678v1)|**2025-05-21**|null|
-|**2025-05-21**|**Coupling quantum spin ice to matter on the centered pyrochlore lattice**|Rajah P. Nutakki et.al.|[2505.15677v1](http://arxiv.org/abs/2505.15677v1)|**2025-05-21**|null|
-|**2025-05-21**|**High-$β$* Optics Calculus at IP2 for Forward Physics in LHC Runs 3 and 4**|Sorina Popescu et.al.|[2505.15673v1](http://arxiv.org/abs/2505.15673v1)|**2025-05-21**|null|
-|**2025-05-21**|**Measurement-free quantum error correction optimized for biased noise**|Katharina Brechtelsbauer et.al.|[2505.15669v1](http://arxiv.org/abs/2505.15669v1)|**2025-05-21**|null|
-|**2025-05-21**|**Energy Conservation and Vanishing Viscosity Limit for the Primitive Equations**|Šárka Nečasová et.al.|[2505.15658v1](http://arxiv.org/abs/2505.15658v1)|**2025-05-21**|null|
-|**2025-05-21**|**Second-Order Convergence in Private Stochastic Non-Convex Optimization**|Youming Tao et.al.|[2505.15647v1](http://arxiv.org/abs/2505.15647v1)|**2025-05-21**|null|
+|**2025-05-22**|**Emergent Gravity from Topological Quantum Field Theory: Stochastic Gradient Flow Perspective away from the Quantum Gravity Problem**|Andrea Addazi et.al.|[2505.17014v1](http://arxiv.org/abs/2505.17014v1)|**2025-05-22**|null|
+|**2025-05-22**|**Topological Phases, Criticality, and Mixed State Order in a Hubbard Quantum Simulator**|Lin Su et.al.|[2505.17009v1](http://arxiv.org/abs/2505.17009v1)|**2025-05-22**|null|
+|**2025-05-22**|**Critical Points of Random Neural Networks**|Simmaco Di Lillo et.al.|[2505.17000v1](http://arxiv.org/abs/2505.17000v1)|**2025-05-22**|null|
+|**2025-05-22**|**Spin adaptation of the cumulant expansions of reduced density matrices**|Julia Liebert et.al.|[2505.16989v1](http://arxiv.org/abs/2505.16989v1)|**2025-05-22**|null|
+|**2025-05-22**|**Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On**|Siqi Wan et.al.|[2505.16977v1](http://arxiv.org/abs/2505.16977v1)|**2025-05-22**|null|
+|**2025-05-22**|**SWE-Dev: Evaluating and Training Autonomous Feature-Driven Software Development**|Yaxin Du et.al.|[2505.16975v1](http://arxiv.org/abs/2505.16975v1)|**2025-05-22**|null|
+|**2025-05-22**|**3D Equivariant Visuomotor Policy Learning via Spherical Projection**|Boce Hu et.al.|[2505.16969v1](http://arxiv.org/abs/2505.16969v1)|**2025-05-22**|null|
+|**2025-05-22**|**Fixing Data That Hurts Performance: Cascading LLMs to Relabel Hard Negatives for Robust Information Retrieval**|Nandan Thakur et.al.|[2505.16967v1](http://arxiv.org/abs/2505.16967v1)|**2025-05-22**|null|
+|**2025-05-22**|**From Reality to Virtual Worlds: The Role of Photogrammetry in Game Development**|Santiago Berrezueta-Guzman et.al.|[2505.16951v1](http://arxiv.org/abs/2505.16951v1)|**2025-05-22**|null|
+|**2025-05-22**|**SPAR: Self-supervised Placement-Aware Representation Learning for Multi-Node IoT Systems**|Yizhuo Chen et.al.|[2505.16936v1](http://arxiv.org/abs/2505.16936v1)|**2025-05-22**|null|
+|**2025-05-22**|**Dynamical systems approach and cosmological attractors in newer general relativity**|Manuel Hohmann et.al.|[2505.16917v1](http://arxiv.org/abs/2505.16917v1)|**2025-05-22**|null|
+|**2025-05-22**|**Quantum Systems with jump-discontinuous mass. I**|Fabio Deelan Cunden et.al.|[2505.16913v1](http://arxiv.org/abs/2505.16913v1)|**2025-05-22**|null|
+|**2025-05-22**|**UAV See, UGV Do: Aerial Imagery and Virtual Teach Enabling Zero-Shot Ground Vehicle Repeat**|Desiree Fisker et.al.|[2505.16912v1](http://arxiv.org/abs/2505.16912v1)|**2025-05-22**|null|
+|**2025-05-22**|**Persistent homology of function spaces**|Jonathan Block et.al.|[2505.16907v1](http://arxiv.org/abs/2505.16907v1)|**2025-05-22**|null|
+|**2025-05-22**|**Derivative coupling in horizon brightened acceleration radiation: a quantum optics approach**|Ashmita Das et.al.|[2505.16897v1](http://arxiv.org/abs/2505.16897v1)|**2025-05-22**|null|
+|**2025-05-22**|**Inkspot: A stress-resilient, anthocyanin rich, dwarf tomato variant for off-world cultivation**|Sarah Lang et.al.|[2505.16890v1](http://arxiv.org/abs/2505.16890v1)|**2025-05-22**|null|
+|**2025-05-22**|**CASTILLO: Characterizing Response Length Distributions of Large Language Models**|Daniel F. Perez-Ramirez et.al.|[2505.16881v1](http://arxiv.org/abs/2505.16881v1)|**2025-05-22**|null|
+|**2025-05-22**|**How high is `high'? Rethinking the roles of dimensionality in topological data analysis and manifold learning**|Hannah Sansford et.al.|[2505.16879v1](http://arxiv.org/abs/2505.16879v1)|**2025-05-22**|null|
+|**2025-05-22**|**Topological Phase Control via Dynamic Complex Pole-Zero Engineering**|Alex Krasnok et.al.|[2505.16859v1](http://arxiv.org/abs/2505.16859v1)|**2025-05-22**|null|
+|**2025-05-22**|**Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models**|Jiaqi Wang et.al.|[2505.16854v1](http://arxiv.org/abs/2505.16854v1)|**2025-05-22**|null|
+|**2025-05-22**|**Fluctuation in energy extraction from quantum batteries: How open should the system be to control it?**|Anindita Sarkar et.al.|[2505.16851v1](http://arxiv.org/abs/2505.16851v1)|**2025-05-22**|null|
+|**2025-05-22**|**ATR-Bench: A Federated Learning Benchmark for Adaptation, Trust, and Reasoning**|Tajamul Ashraf et.al.|[2505.16850v1](http://arxiv.org/abs/2505.16850v1)|**2025-05-22**|null|
+|**2025-05-22**|**$d$-dimensional spherical ferromagnets in random fields: Metastates, continuous symmetry breaking, and spin-glass features**|Kalle Koskinen et.al.|[2505.16843v1](http://arxiv.org/abs/2505.16843v1)|**2025-05-22**|null|
+|**2025-05-22**|**LaViDa: A Large Diffusion Language Model for Multimodal Understanding**|Shufan Li et.al.|[2505.16839v1](http://arxiv.org/abs/2505.16839v1)|**2025-05-22**|null|
+|**2025-05-22**|**OWP-IMU: An RSS-based Optical Wireless and IMU Indoor Positioning Dataset**|Fan Wu et.al.|[2505.16823v1](http://arxiv.org/abs/2505.16823v1)|**2025-05-22**|null|
+|**2025-05-22**|**Interpretable contour level selection for heat maps for gridded data**|Tarn Duong et.al.|[2505.16788v1](http://arxiv.org/abs/2505.16788v1)|**2025-05-22**|null|
+|**2025-05-22**|**Data-Driven Breakthroughs and Future Directions in AI Infrastructure: A Comprehensive Review**|Beyazit Bestami Yuksel et.al.|[2505.16771v1](http://arxiv.org/abs/2505.16771v1)|**2025-05-22**|null|
+|**2025-05-22**|**Monte Carlo approach to quantum work in strongly correlated electron systems**|Qian-Xi Zhao et.al.|[2505.16758v1](http://arxiv.org/abs/2505.16758v1)|**2025-05-22**|null|
+|**2025-05-22**|**Energy-Energy Correlator at Hadron Colliders: Celestial Blocks and Singularities**|Hao Chen et.al.|[2505.16753v1](http://arxiv.org/abs/2505.16753v1)|**2025-05-22**|null|
+|**2025-05-22**|**Backward Oversmoothing: why is it hard to train deep Graph Neural Networks?**|Nicolas Keriven et.al.|[2505.16736v1](http://arxiv.org/abs/2505.16736v1)|**2025-05-22**|null|

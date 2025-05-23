@@ -12,7 +12,7 @@
 |**2025-05-22**|**Multi-SpatialMLLM: Multi-Frame Spatial Understanding with Multi-Modal Large Language Models**|Runsen Xu et.al.|[2505.17015v1](http://arxiv.org/abs/2505.17015v1)|**2025-05-22**|null|
 |**2025-05-22**|**Emergent Gravity from Topological Quantum Field Theory: Stochastic Gradient Flow Perspective away from the Quantum Gravity Problem**|Andrea Addazi et.al.|[2505.17014v1](http://arxiv.org/abs/2505.17014v1)|**2025-05-22**|null|
 |**2025-05-22**|**When Are Concepts Erased From Diffusion Models?**|Kevin Lu et.al.|[2505.17013v1](http://arxiv.org/abs/2505.17013v1)|**2025-05-22**|null|
-|**2025-05-22**|**SpatialScore: Towards Unified Evaluation for Multimodal Spatial Understanding**|Haoning Wu et.al.|[2505.17012v1](http://arxiv.org/abs/2505.17012v1)|**2025-05-22**|null|
+|**2025-05-22**|**SpatialScore: Towards Unified Evaluation for Multimodal Spatial Understanding**|Haoning Wu et.al.|[2505.17012v1](http://arxiv.org/abs/2505.17012v1)|**2025-05-22**|[link](https://github.com/haoningwu3639/SpatialScore)|
 |**2025-05-22**|**Learning Adaptive and Temporally Causal Video Tokenization in a 1D Latent Space**|Yan Li et.al.|[2505.17011v1](http://arxiv.org/abs/2505.17011v1)|**2025-05-22**|null|
 |**2025-05-22**|**Understanding Prompt Tuning and In-Context Learning via Meta-Learning**|Tim Genewein et.al.|[2505.17010v1](http://arxiv.org/abs/2505.17010v1)|**2025-05-22**|null|
 |**2025-05-22**|**Topological Phases, Criticality, and Mixed State Order in a Hubbard Quantum Simulator**|Lin Su et.al.|[2505.17009v1](http://arxiv.org/abs/2505.17009v1)|**2025-05-22**|null|
@@ -21,7 +21,7 @@
 |**2025-05-22**|**CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning**|Jiange Yang et.al.|[2505.17006v1](http://arxiv.org/abs/2505.17006v1)|**2025-05-22**|null|
 |**2025-05-22**|**R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning**|Huatong Song et.al.|[2505.17005v1](http://arxiv.org/abs/2505.17005v1)|**2025-05-22**|null|
 |**2025-05-22**|**Guided Diffusion Sampling on Function Spaces with Applications to PDEs**|Jiachen Yao et.al.|[2505.17004v1](http://arxiv.org/abs/2505.17004v1)|**2025-05-22**|null|
-|**2025-05-22**|**Sufficient conditions for offline reactivation in recurrent neural networks**|Nanda H. Krishna et.al.|[2505.17003v1](http://arxiv.org/abs/2505.17003v1)|**2025-05-22**|null|
+|**2025-05-22**|**Sufficient conditions for offline reactivation in recurrent neural networks**|Nanda H. Krishna et.al.|[2505.17003v1](http://arxiv.org/abs/2505.17003v1)|**2025-05-22**|[link](https://github.com/nandahkrishna/RNNReactivation)|
 |**2025-05-22**|**PAEFF: Precise Alignment and Enhanced Gated Feature Fusion for Face-Voice Association**|Abdul Hannan et.al.|[2505.17002v1](http://arxiv.org/abs/2505.17002v1)|**2025-05-22**|null|
 |**2025-05-22**|**Seeing through Satellite Images at Street Views**|Ming Qian et.al.|[2505.17001v1](http://arxiv.org/abs/2505.17001v1)|**2025-05-22**|null|
 |**2025-05-22**|**Critical Points of Random Neural Networks**|Simmaco Di Lillo et.al.|[2505.17000v1](http://arxiv.org/abs/2505.17000v1)|**2025-05-22**|null|

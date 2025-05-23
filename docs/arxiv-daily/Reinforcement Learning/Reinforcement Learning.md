@@ -1,15 +1,34 @@
-# Reinforcement Learning
 
-| Publish Date | Title | Authors | PDF | Code |
-|-------------|----------------|-------------|------|------|
-|**2025-05-21**|**GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents**|Yuqi Zhou et.al.|[2505.15810v2](http://arxiv.org/abs/2505.15810v2)|**[link](https://github.com/yuqi-zhou/gui-g1)**|
-|**2025-05-21**|**MMaDA: Multimodal Large Diffusion Language Models**|Ling Yang et.al.|[2505.15809v1](http://arxiv.org/abs/2505.15809v1)|**[link](https://github.com/gen-verse/mmada)**|
-|**2025-05-21**|**STAR-R1: Spacial TrAnsformation Reasoning by Reinforcing Multimodal LLMs**|Zongzhao Li et.al.|[2505.15804v1](http://arxiv.org/abs/2505.15804v1)|null|
-|**2025-05-21**|**VerifyBench: Benchmarking Reference-based Reward Systems for Large Language Models**|Yuchen Yan et.al.|[2505.15801v1](http://arxiv.org/abs/2505.15801v1)|null|
-|**2025-05-21**|**Reverse Engineering Human Preferences with Reinforcement Learning**|Lisa Alazraki et.al.|[2505.15795v1](http://arxiv.org/abs/2505.15795v1)|null|
-|**2025-05-21**|**HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving**|Zhiwen Chen et.al.|[2505.15793v2](http://arxiv.org/abs/2505.15793v2)|null|
-|**2025-05-21**|**VARD: Efficient and Dense Fine-Tuning for Diffusion Models with Value-based RL**|Fengyuan Dai et.al.|[2505.15791v1](http://arxiv.org/abs/2505.15791v1)|null|
-|**2025-05-21**|**ConvSearch-R1: Enhancing Query Reformulation for Conversational Search with Reasoning via Reinforcement Learning**|Changtai Zhu et.al.|[2505.15776v1](http://arxiv.org/abs/2505.15776v1)|null|
-|**2025-05-21**|**Improving planning and MBRL with temporally-extended actions**|Palash Chatterjee et.al.|[2505.15754v1](http://arxiv.org/abs/2505.15754v1)|null|
-|**2025-05-21**|**A Unified Theoretical Analysis of Private and Robust Offline Alignment: from RLHF to DPO**|Xingyu Zhou et.al.|[2505.15694v1](http://arxiv.org/abs/2505.15694v1)|null|
-
+### Reinforcement Learning
+|Publish Date|Title|Authors|PDF|Last Updated|Code|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022v1](http://arxiv.org/abs/2505.17022v1)|**2025-05-22**|null|
+|**2025-05-22**|**SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward**|Kaixuan Fan et.al.|[2505.17018v1](http://arxiv.org/abs/2505.17018v1)|**2025-05-22**|null|
+|**2025-05-22**|**Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO**|Chengzhuo Tong et.al.|[2505.17017v1](http://arxiv.org/abs/2505.17017v1)|**2025-05-22**|null|
+|**2025-05-22**|**Interactive Post-Training for Vision-Language-Action Models**|Shuhan Tan et.al.|[2505.17016v1](http://arxiv.org/abs/2505.17016v1)|**2025-05-22**|null|
+|**2025-05-22**|**R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning**|Huatong Song et.al.|[2505.17005v1](http://arxiv.org/abs/2505.17005v1)|**2025-05-22**|null|
+|**2025-05-22**|**$\text{R}^2\text{ec}$: Towards Large Recommender Models with Reasoning**|Runyang You et.al.|[2505.16994v1](http://arxiv.org/abs/2505.16994v1)|**2025-05-22**|null|
+|**2025-05-22**|**UFT: Unifying Supervised and Reinforcement Fine-Tuning**|Mingyang Liu et.al.|[2505.16984v1](http://arxiv.org/abs/2505.16984v1)|**2025-05-22**|null|
+|**2025-05-22**|**SWE-Dev: Evaluating and Training Autonomous Feature-Driven Software Development**|Yaxin Du et.al.|[2505.16975v1](http://arxiv.org/abs/2505.16975v1)|**2025-05-22**|null|
+|**2025-05-22**|**Risk-Averse Reinforcement Learning with Itakura-Saito Loss**|Igor Udovichenko et.al.|[2505.16925v1](http://arxiv.org/abs/2505.16925v1)|**2025-05-22**|null|
+|**2025-05-22**|**LARES: Latent Reasoning for Sequential Recommendation**|Enze Liu et.al.|[2505.16865v1](http://arxiv.org/abs/2505.16865v1)|**2025-05-22**|null|
+|**2025-05-22**|**Efficient Online RL Fine Tuning with Offline Pre-trained Policy Only**|Wei Xiao et.al.|[2505.16856v1](http://arxiv.org/abs/2505.16856v1)|**2025-05-22**|null|
+|**2025-05-22**|**Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models**|Jiaqi Wang et.al.|[2505.16854v1](http://arxiv.org/abs/2505.16854v1)|**2025-05-22**|null|
+|**2025-05-22**|**Fact-R1: Towards Explainable Video Misinformation Detection with Deep Reasoning**|Fanrui Zhang et.al.|[2505.16836v1](http://arxiv.org/abs/2505.16836v1)|**2025-05-22**|null|
+|**2025-05-22**|**Strategically Linked Decisions in Long-Term Planning and Reinforcement Learning**|Alihan Hüyük et.al.|[2505.16833v1](http://arxiv.org/abs/2505.16833v1)|**2025-05-22**|null|
+|**2025-05-22**|**KTAE: A Model-Free Algorithm to Key-Tokens Advantage Estimation in Mathematical Reasoning**|Wei Sun et.al.|[2505.16826v1](http://arxiv.org/abs/2505.16826v1)|**2025-05-22**|null|
+|**2025-05-22**|**DeepRec: Towards a Deep Dive Into the Item Space with Large Language Model Based Recommendation**|Bowen Zheng et.al.|[2505.16810v1](http://arxiv.org/abs/2505.16810v1)|**2025-05-22**|null|
+|**2025-05-22**|**A modular framework for automated evaluation of procedural content generation in serious games with deep reinforcement learning agents**|Eleftherios Kalafatis et.al.|[2505.16801v1](http://arxiv.org/abs/2505.16801v1)|**2025-05-22**|null|
+|**2025-05-22**|**Gaze Into the Abyss -- Planning to Seek Entropy When Reward is Scarce**|Ashish Sundar et.al.|[2505.16787v1](http://arxiv.org/abs/2505.16787v1)|**2025-05-22**|null|
+|**2025-05-22**|**Self-Rewarding Large Vision-Language Models for Optimizing Prompts in Text-to-Image Generation**|Hongji Yang et.al.|[2505.16763v1](http://arxiv.org/abs/2505.16763v1)|**2025-05-22**|null|
+|**2025-05-22**|**Mesh-RFT: Enhancing Mesh Generation via Fine-grained Reinforcement Fine-Tuning**|Jian Liu et.al.|[2505.16761v1](http://arxiv.org/abs/2505.16761v1)|**2025-05-22**|null|
+|**2025-05-22**|**PyTupli: A Scalable Infrastructure for Collaborative Offline Reinforcement Learning Projects**|Hannah Markgraf et.al.|[2505.16754v1](http://arxiv.org/abs/2505.16754v1)|**2025-05-22**|null|
+|**2025-05-22**|**Meta-reinforcement learning with minimum attention**|Pilhwa Lee et.al.|[2505.16741v1](http://arxiv.org/abs/2505.16741v1)|**2025-05-22**|null|
+|**2025-05-22**|**Maximum Total Correlation Reinforcement Learning**|Bang You et.al.|[2505.16734v1](http://arxiv.org/abs/2505.16734v1)|**2025-05-22**|null|
+|**2025-05-22**|**R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO**|Huanjin Yao et.al.|[2505.16673v1](http://arxiv.org/abs/2505.16673v1)|**2025-05-22**|null|
+|**2025-05-22**|**SSR-Zero: Simple Self-Rewarding Reinforcement Learning for Machine Translation**|Wenjie Yang et.al.|[2505.16637v1](http://arxiv.org/abs/2505.16637v1)|**2025-05-22**|null|
+|**2025-05-22**|**A Survey on the Application of Large Language Models in Scenario-Based Testing of Automated Driving Systems**|Yongqi Zhao et.al.|[2505.16587v1](http://arxiv.org/abs/2505.16587v1)|**2025-05-22**|null|
+|**2025-05-22**|**O$^2$-Searcher: A Searching-based Agent Model for Open-Domain Open-Ended Question Answering**|Jianbiao Mei et.al.|[2505.16582v1](http://arxiv.org/abs/2505.16582v1)|**2025-05-22**|null|
+|**2025-05-22**|**How Ensembles of Distilled Policies Improve Generalisation in Reinforcement Learning**|Max Weltevrede et.al.|[2505.16581v1](http://arxiv.org/abs/2505.16581v1)|**2025-05-22**|null|
+|**2025-05-22**|**Think Silently, Think Fast: Dynamic Latent Compression of LLM Reasoning Chains**|Wenhui Tan et.al.|[2505.16552v1](http://arxiv.org/abs/2505.16552v1)|**2025-05-22**|null|
+|**2025-05-22**|**Incremental Sequence Classification with Temporal Consistency**|Lucas Maystre et.al.|[2505.16548v1](http://arxiv.org/abs/2505.16548v1)|**2025-05-22**|null|
