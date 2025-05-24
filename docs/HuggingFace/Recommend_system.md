@@ -1727,6 +1727,7 @@ Updated on 2025-05-24
 | 16 | Unknown | Phips/4xRealWebPhoto_v4_dat2Image-to-Image | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Phips/4xRealWebPhoto_v4_dat2) |
 | 35 | Unknown | Carve/LaMa-ONNXImage-to-Image | UpdatedMay 15, 2024 | [Link](https://huggingface.co/Carve/LaMa-ONNX) |
 | 7 | Unknown | qualcomm/Real-ESRGAN-General-x4v3Image-to-Image | Updated3 days ago | [Link](https://huggingface.co/qualcomm/Real-ESRGAN-General-x4v3) |
+| 2 | Unknown | Kim2091/UltraSharpV2Image-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/Kim2091/UltraSharpV2) |
 
 ## Image-to-Text
 
