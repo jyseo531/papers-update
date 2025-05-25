@@ -4504,6 +4504,8 @@ Updated on 2025-05-25
 | 2 | 1 | maike616/pain-classifier-videoVideo | UpdatedFeb 28 | [Link](https://huggingface.co/maike616/pain-classifier-video) |
 | 18 | 1 | microsoft/xclip-base-patch16-hmdb-4-shotVideo | UpdatedSep 8, 2022 | [Link](https://huggingface.co/microsoft/xclip-base-patch16-hmdb-4-shot) |
 | 17 | 1 | microsoft/xclip-base-patch16-hmdb-8-shotVideo | UpdatedSep 8, 2022 | [Link](https://huggingface.co/microsoft/xclip-base-patch16-hmdb-8-shot) |
+| 100 | 1 | NiklasTUM/videomae-base-finetuned-deception-datasetVideo | Updatedabout 1 month ago | [Link](https://huggingface.co/NiklasTUM/videomae-base-finetuned-deception-dataset) |
+| 3 | 1 | NiklasTUM/VideoMAEv2-Huge-finetuned-deception-dataset-mae-hugeVideo | Updatedabout 24 hours ago | [Link](https://huggingface.co/NiklasTUM/VideoMAEv2-Huge-finetuned-deception-dataset-mae-huge) |
 | 89 | Unknown | ElenaRyumina/face_emotion_recognitionVideo | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/ElenaRyumina/face_emotion_recognition) |
 | 3 | Unknown | OpenGVLab/InternVideo2-Stage1-1B-224p-K400Video | UpdatedAug 14, 2024 | [Link](https://huggingface.co/OpenGVLab/InternVideo2-Stage1-1B-224p-K400) |
 | 2 | Unknown | OpenGVLab/UMTVideo | UpdatedAug 17, 2024 | [Link](https://huggingface.co/OpenGVLab/UMT) |
@@ -4518,6 +4520,7 @@ Updated on 2025-05-25
 | 12 | Unknown | microsoft/xclip-base-patch16-ucf-4-shotVideo | UpdatedSep 8, 2022 | [Link](https://huggingface.co/microsoft/xclip-base-patch16-ucf-4-shot) |
 | 14 | Unknown | microsoft/xclip-base-patch16-ucf-8-shotVideo | UpdatedSep 8, 2022 | [Link](https://huggingface.co/microsoft/xclip-base-patch16-ucf-8-shot) |
 | 1 | Unknown | mhamza-007/cvit_deepfake_detectionVideo | Updatedabout 6 hours ago | [Link](https://huggingface.co/mhamza-007/cvit_deepfake_detection) |
+| 1 | Unknown | NiklasTUM/videomae-large-finetuned-deception-dataset_v2Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/NiklasTUM/videomae-large-finetuned-deception-dataset_v2) |
 
 ## Video-Text-to-Text
 
