@@ -2,6 +2,15 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-23**|**Semantic Correspondence: Unified Benchmarking and a Strong Baseline**|Kaiyan Zhang et.al.|[2505.18060v1](http://arxiv.org/abs/2505.18060v1)|**2025-05-23**|[link](https://github.com/Visual-AI/Semantic-Correspondence)|
+|**2025-05-23**|**Contrastive Distillation of Emotion Knowledge from LLMs for Zero-Shot Emotion Recognition**|Minxue Niu et.al.|[2505.18040v1](http://arxiv.org/abs/2505.18040v1)|**2025-05-23**|null|
+|**2025-05-23**|**Directed Semi-Simplicial Learning with Applications to Brain Activity Decoding**|Manuel Lecha et.al.|[2505.17939v1](http://arxiv.org/abs/2505.17939v1)|**2025-05-23**|null|
+|**2025-05-23**|**ICPL-ReID: Identity-Conditional Prompt Learning for Multi-Spectral Object Re-Identification**|Shihao Li et.al.|[2505.17821v1](http://arxiv.org/abs/2505.17821v1)|**2025-05-23**|null|
+|**2025-05-23**|**RQR3D: Reparametrizing the regression targets for BEV-based 3D object detection**|Ozsel Kilinc et.al.|[2505.17732v1](http://arxiv.org/abs/2505.17732v1)|**2025-05-23**|null|
+|**2025-05-23**|**MinkUNeXt-SI: Improving point cloud-based place recognition including spherical coordinates and LiDAR intensity**|Judith Vilella-Cantos et.al.|[2505.17591v1](http://arxiv.org/abs/2505.17591v1)|**2025-05-23**|null|
+|**2025-05-23**|**PoseBH: Prototypical Multi-Dataset Training Beyond Human Pose Estimation**|Uyoung Jeong et.al.|[2505.17475v1](http://arxiv.org/abs/2505.17475v1)|**2025-05-23**|[link](https://github.com/uyoung-jeong/PoseBH)|
+|**2025-05-23**|**PawPrint: Whose Footprints Are These? Identifying Animal Individuals by Their Footprints**|Inpyo Song et.al.|[2505.17445v1](http://arxiv.org/abs/2505.17445v1)|**2025-05-23**|null|
+|**2025-05-22**|**LengthLogD: A Length-Stratified Ensemble Framework for Enhanced Peptide Lipophilicity Prediction via Multi-Scale Feature Integration**|Shuang Wu et.al.|[2505.17198v1](http://arxiv.org/abs/2505.17198v1)|**2025-05-22**|null|
 |**2025-05-22**|**Towards Texture- And Shape-Independent 3D Keypoint Estimation in Birds**|Valentin Schmuker et.al.|[2505.16633v1](http://arxiv.org/abs/2505.16633v1)|**2025-05-22**|null|
 |**2025-05-22**|**Motion Matters: Compact Gaussian Streaming for Free-Viewpoint Video Reconstruction**|Jiacong Chen et.al.|[2505.16533v1](http://arxiv.org/abs/2505.16533v1)|**2025-05-22**|null|
 |**2025-05-22**|**TAT-VPR: Ternary Adaptive Transformer for Dynamic and Efficient Visual Place Recognition**|Oliver Grainge et.al.|[2505.16447v1](http://arxiv.org/abs/2505.16447v1)|**2025-05-22**|null|
@@ -23,12 +32,3 @@
 |**2025-05-17**|**Prediction of Novel CXCR7 Inhibitors Using QSAR Modeling and Validation via Molecular Docking**|Belaguppa Manjunath Ashwin Desai et.al.|[2505.12055v1](http://arxiv.org/abs/2505.12055v1)|**2025-05-17**|null|
 |**2025-05-17**|**Continuous Domain Generalization**|Zekun Cai et.al.|[2505.13519v1](http://arxiv.org/abs/2505.13519v1)|**2025-05-17**|null|
 |**2025-05-17**|**Accelerating the Search for Superconductors Using Machine Learning**|Suhas Adiga et.al.|[2505.11964v1](http://arxiv.org/abs/2505.11964v1)|**2025-05-17**|[link](https://github.com/adigasuhas/accelarating-search-for-superconductors-using-machine-learning)|
-|**2025-05-17**|**H2R: A Human-to-Robot Data Augmentation for Robot Pre-training from Videos**|Guangrun Li et.al.|[2505.11920v1](http://arxiv.org/abs/2505.11920v1)|**2025-05-17**|null|
-|**2025-05-16**|**Grounded Task Axes: Zero-Shot Semantic Skill Generalization via Task-Axis Controllers and Visual Foundation Models**|M. Yunus Seker et.al.|[2505.11680v1](http://arxiv.org/abs/2505.11680v1)|**2025-05-16**|null|
-|**2025-05-16**|**Sample Efficient Reinforcement Learning via Large Vision Language Model Distillation**|Donghoon Lee et.al.|[2505.11221v1](http://arxiv.org/abs/2505.11221v1)|**2025-05-16**|[link](https://github.com/i22024/lvlm2p)|
-|**2025-05-16**|**User-centric Music Recommendations**|Jaime Ramirez Castillo et.al.|[2505.11198v1](http://arxiv.org/abs/2505.11198v1)|**2025-05-16**|null|
-|**2025-05-16**|**Deepfake Forensic Analysis: Source Dataset Attribution and Legal Implications of Synthetic Media Manipulation**|Massimiliano Cassia et.al.|[2505.11110v1](http://arxiv.org/abs/2505.11110v1)|**2025-05-16**|null|
-|**2025-05-16**|**Manifold dynamics and orbital properties in a two-dimensional galactic model**|Dylan Theron et.al.|[2505.10901v1](http://arxiv.org/abs/2505.10901v1)|**2025-05-16**|null|
-|**2025-05-15**|**Quantized Approximate Signal Processing (QASP): Towards Homomorphic Encryption for audio**|Tu Duyen Nguyen et.al.|[2505.10500v1](http://arxiv.org/abs/2505.10500v1)|**2025-05-15**|null|
-|**2025-05-15**|**From Persistence to Resilience: New Betti Numbers for Analyzing Robustness in Simplicial Complex Networks**|Pablo Hernández-García et.al.|[2505.10467v1](http://arxiv.org/abs/2505.10467v1)|**2025-05-15**|null|
-|**2025-05-15**|**HandReader: Advanced Techniques for Efficient Fingerspelling Recognition**|Pavel Korotaev et.al.|[2505.10267v1](http://arxiv.org/abs/2505.10267v1)|**2025-05-15**|null|

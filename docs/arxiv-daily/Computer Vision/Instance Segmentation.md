@@ -2,33 +2,33 @@
 ### Instance Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-22**|**Deep mineralogical segmentation of thin section images based on QEMSCAN maps**|Jean Pablo Vieira de Mello et.al.|[2505.17008v1](http://arxiv.org/abs/2505.17008v1)|**2025-05-22**|[link](https://github.com/ltracegeo/deep-mineralogical-segmentation)|
-|**2025-05-22**|**Native Segmentation Vision Transformers**|Guillem Brasó et.al.|[2505.16993v1](http://arxiv.org/abs/2505.16993v1)|**2025-05-22**|null|
-|**2025-05-22**|**Extremely Simple Multimodal Outlier Synthesis for Out-of-Distribution Detection and Segmentation**|Moru Liu et.al.|[2505.16985v1](http://arxiv.org/abs/2505.16985v1)|**2025-05-22**|[link](https://github.com/mona4399/featuremixing)|
-|**2025-05-22**|**Know the Ropes: A Heuristic Strategy for LLM-based Multi-Agent System Design**|Zhenkun Li et.al.|[2505.16979v1](http://arxiv.org/abs/2505.16979v1)|**2025-05-22**|null|
-|**2025-05-22**|**SWE-Dev: Evaluating and Training Autonomous Feature-Driven Software Development**|Yaxin Du et.al.|[2505.16975v1](http://arxiv.org/abs/2505.16975v1)|**2025-05-22**|[link](https://github.com/justlittlewhite/swe-dev)|
-|**2025-05-22**|**OpenSeg-R: Improving Open-Vocabulary Segmentation via Step-by-Step Visual Reasoning**|Zongyan Han et.al.|[2505.16974v1](http://arxiv.org/abs/2505.16974v1)|**2025-05-22**|[link](https://github.com/hanzy1996/openseg-r)|
-|**2025-05-22**|**UniPhy: Learning a Unified Constitutive Model for Inverse Physics Simulation**|Himangi Mittal et.al.|[2505.16971v1](http://arxiv.org/abs/2505.16971v1)|**2025-05-22**|null|
-|**2025-05-22**|**Horospherically Convex Optimization on Hadamard Manifolds Part I: Analysis and Algorithms**|Christopher Criscitiello et.al.|[2505.16970v1](http://arxiv.org/abs/2505.16970v1)|**2025-05-22**|null|
-|**2025-05-22**|**BP-Seg: A graphical model approach to unsupervised and non-contiguous text segmentation using belief propagation**|Fengyi Li et.al.|[2505.16965v1](http://arxiv.org/abs/2505.16965v1)|**2025-05-22**|null|
-|**2025-05-22**|**A Comprehensive Evaluation of Contemporary ML-Based Solvers for Combinatorial Optimization**|Shengyu Feng et.al.|[2505.16952v1](http://arxiv.org/abs/2505.16952v1)|**2025-05-22**|null|
-|**2025-05-22**|**NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification**|NovelSeek Team et.al.|[2505.16938v1](http://arxiv.org/abs/2505.16938v1)|**2025-05-22**|null|
-|**2025-05-22**|**UNCLE: Uncertainty Expressions in Long-Form Generation**|Ruihan Yang et.al.|[2505.16922v1](http://arxiv.org/abs/2505.16922v1)|**2025-05-22**|null|
-|**2025-05-22**|**Unlocking Temporal Flexibility: Neural Speech Codec with Variable Frame Rate**|Hanglei Zhang et.al.|[2505.16845v1](http://arxiv.org/abs/2505.16845v1)|**2025-05-22**|null|
-|**2025-05-22**|**R1-Compress: Long Chain-of-Thought Compression via Chunk Compression and Search**|Yibo Wang et.al.|[2505.16838v1](http://arxiv.org/abs/2505.16838v1)|**2025-05-22**|[link](https://github.com/w-yibo/r1-compress)|
-|**2025-05-22**|**Hypergraph Tversky-Aware Domain Incremental Learning for Brain Tumor Segmentation with Missing Modalities**|Junze Wang et.al.|[2505.16809v2](http://arxiv.org/abs/2505.16809v2)|**2025-05-23**|null|
-|**2025-05-22**|**Learning Beyond Limits: Multitask Learning and Synthetic Data for Low-Resource Canonical Morpheme Segmentation**|Changbing Yang et.al.|[2505.16800v1](http://arxiv.org/abs/2505.16800v1)|**2025-05-22**|null|
-|**2025-05-22**|**The lattice Schäffer constant**|Michael Alexánder Rincón Villamizar et.al.|[2505.16775v1](http://arxiv.org/abs/2505.16775v1)|**2025-05-22**|null|
-|**2025-05-22**|**TRIM: Achieving Extreme Sparsity with Targeted Row-wise Iterative Metric-driven Pruning**|Florentin Beck et.al.|[2505.16743v1](http://arxiv.org/abs/2505.16743v1)|**2025-05-22**|[link](https://github.com/flobk/trim)|
-|**2025-05-22**|**Robust LLM Fingerprinting via Domain-Specific Watermarks**|Thibaud Gloaguen et.al.|[2505.16723v1](http://arxiv.org/abs/2505.16723v1)|**2025-05-22**|[link](https://github.com/eth-sri/robust-llm-fingerprints)|
-|**2025-05-22**|**KRIS-Bench: Benchmarking Next-Level Intelligent Image Editing Models**|Yongliang Wu et.al.|[2505.16707v1](http://arxiv.org/abs/2505.16707v1)|**2025-05-22**|null|
-|**2025-05-22**|**Towards Texture- And Shape-Independent 3D Keypoint Estimation in Birds**|Valentin Schmuker et.al.|[2505.16633v1](http://arxiv.org/abs/2505.16633v1)|**2025-05-22**|null|
-|**2025-05-22**|**Background Matters: A Cross-view Bidirectional Modeling Framework for Semi-supervised Medical Image Segmentation**|Luyang Cao et.al.|[2505.16625v1](http://arxiv.org/abs/2505.16625v1)|**2025-05-22**|[link](https://github.com/caoluyang0830/cvbm)|
-|**2025-05-22**|**Major issues in theory of Bose-Einstein condensation**|V. I. Yukalov et.al.|[2505.16600v1](http://arxiv.org/abs/2505.16600v1)|**2025-05-22**|null|
-|**2025-05-22**|**Auto-nnU-Net: Towards Automated Medical Image Segmentation**|Jannis Becktepe et.al.|[2505.16561v1](http://arxiv.org/abs/2505.16561v1)|**2025-05-22**|null|
-|**2025-05-22**|**TextureSAM: Towards a Texture Aware Foundation Model for Segmentation**|Inbal Cohen et.al.|[2505.16540v1](http://arxiv.org/abs/2505.16540v1)|**2025-05-22**|null|
-|**2025-05-22**|**AppealCase: A Dataset and Benchmark for Civil Case Appeal Scenarios**|Yuting Huang et.al.|[2505.16514v1](http://arxiv.org/abs/2505.16514v1)|**2025-05-22**|[link](https://github.com/ythuang02/AppealCase)|
-|**2025-05-22**|**Detailed Evaluation of Modern Machine Learning Approaches for Optic Plastics Sorting**|Vaishali Maheshkar et.al.|[2505.16513v1](http://arxiv.org/abs/2505.16513v1)|**2025-05-22**|null|
-|**2025-05-22**|**ALTo: Adaptive-Length Tokenizer for Autoregressive Mask Generation**|Lingfeng Wang et.al.|[2505.16495v1](http://arxiv.org/abs/2505.16495v1)|**2025-05-22**|[link](https://github.com/yayafengzi/altollm)|
-|**2025-05-22**|**AnchorFormer: Differentiable Anchor Attention for Efficient Vision Transformer**|Jiquan Shan et.al.|[2505.16463v1](http://arxiv.org/abs/2505.16463v1)|**2025-05-22**|null|
-|**2025-05-22**|**CMRINet: Joint Groupwise Registration and Segmentation for Cardiac Function Quantification from Cine-MRI**|Mohamed S. Elmahdy et.al.|[2505.16452v1](http://arxiv.org/abs/2505.16452v1)|**2025-05-22**|null|
+|**2025-05-23**|**REN: Fast and Efficient Region Encodings from Patch-Based Image Encoders**|Savya Khosla et.al.|[2505.18153v1](http://arxiv.org/abs/2505.18153v1)|**2025-05-23**|null|
+|**2025-05-23**|**Boosting Open Set Recognition Performance through Modulated Representation Learning**|Amit Kumar Kundu et.al.|[2505.18137v1](http://arxiv.org/abs/2505.18137v1)|**2025-05-23**|null|
+|**2025-05-23**|**Frankentext: Stitching random text fragments into long-form narratives**|Chau Minh Pham et.al.|[2505.18128v1](http://arxiv.org/abs/2505.18128v1)|**2025-05-23**|null|
+|**2025-05-23**|**From Temporal to Spatial: Designing Spatialized Interactions with Segmented-audios in Immersive Environments for Active Engagement with Performing Arts Intangible Cultural Heritage**|Yuqi Wang et.al.|[2505.18112v1](http://arxiv.org/abs/2505.18112v1)|**2025-05-23**|null|
+|**2025-05-23**|**Adapting SAM 2 for Visual Object Tracking: 1st Place Solution for MMVPR Challenge Multi-Modal Tracking**|Cheng-Yen Yang et.al.|[2505.18111v1](http://arxiv.org/abs/2505.18111v1)|**2025-05-23**|null|
+|**2025-05-23**|**F-ANcGAN: An Attention-Enhanced Cycle Consistent Generative Adversarial Architecture for Synthetic Image Generation of Nanoparticles**|Varun Ajith et.al.|[2505.18106v1](http://arxiv.org/abs/2505.18106v1)|**2025-05-23**|null|
+|**2025-05-23**|**CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays**|Hyungyung Lee et.al.|[2505.18087v1](http://arxiv.org/abs/2505.18087v1)|**2025-05-23**|null|
+|**2025-05-23**|**Deep Video Discovery: Agentic Search with Tool Use for Long-form Video Understanding**|Xiaoyi Zhang et.al.|[2505.18079v1](http://arxiv.org/abs/2505.18079v1)|**2025-05-23**|null|
+|**2025-05-23**|**BOTM: Echocardiography Segmentation via Bi-directional Optimal Token Matching**|Zhihua Liu et.al.|[2505.18052v1](http://arxiv.org/abs/2505.18052v1)|**2025-05-23**|null|
+|**2025-05-23**|**LookWhere? Efficient Visual Recognition by Learning Where to Look and What to See from Self-Supervision**|Anthony Fuller et.al.|[2505.18051v1](http://arxiv.org/abs/2505.18051v1)|**2025-05-23**|null|
+|**2025-05-23**|**RemoteSAM: Towards Segment Anything for Earth Observation**|Liang Yao et.al.|[2505.18022v1](http://arxiv.org/abs/2505.18022v1)|**2025-05-23**|null|
+|**2025-05-23**|**SemSegBench & DetecBench: Benchmarking Reliability and Generalization Beyond Classification**|Shashank Agnihotri et.al.|[2505.18015v1](http://arxiv.org/abs/2505.18015v1)|**2025-05-23**|null|
+|**2025-05-23**|**Classification of assembly tasks combining multiple primitive actions using Transformers and xLSTMs**|Miguel Neves et.al.|[2505.18012v1](http://arxiv.org/abs/2505.18012v1)|**2025-05-23**|null|
+|**2025-05-23**|**Segment Anyword: Mask Prompt Inversion for Open-Set Grounded Segmentation**|Zhihua Liu et.al.|[2505.17994v1](http://arxiv.org/abs/2505.17994v1)|**2025-05-23**|null|
+|**2025-05-23**|**Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling**|Bryan Wong et.al.|[2505.17982v1](http://arxiv.org/abs/2505.17982v1)|**2025-05-23**|null|
+|**2025-05-23**|**MR-EEGWaveNet: Multiresolutional EEGWaveNet for Seizure Detection from Long EEG Recordings**|Kazi Mahmudul Hassan et.al.|[2505.17972v1](http://arxiv.org/abs/2505.17972v1)|**2025-05-23**|null|
+|**2025-05-23**|**Explainable Anatomy-Guided AI for Prostate MRI: Foundation Models and In Silico Clinical Trials for Virtual Biopsy-based Risk Assessment**|Danial Khan et.al.|[2505.17971v1](http://arxiv.org/abs/2505.17971v1)|**2025-05-23**|null|
+|**2025-05-23**|**Optimizing QAOA circuit transpilation with parity twine and SWAP network encodings**|J. A. Montanez-Barrera et.al.|[2505.17944v1](http://arxiv.org/abs/2505.17944v1)|**2025-05-23**|[link](https://github.com/alejomonbar/QAOA-efficient-circuit-transpilation)|
+|**2025-05-23**|**AutoMiSeg: Automatic Medical Image Segmentation via Test-Time Adaptation of Foundation Models**|Xingjian Li et.al.|[2505.17931v1](http://arxiv.org/abs/2505.17931v1)|**2025-05-23**|null|
+|**2025-05-23**|**Promptable cancer segmentation using minimal expert-curated data**|Lynn Karam et.al.|[2505.17915v1](http://arxiv.org/abs/2505.17915v1)|**2025-05-23**|null|
+|**2025-05-23**|**Semantic segmentation with reward**|Xie Ting et.al.|[2505.17905v1](http://arxiv.org/abs/2505.17905v1)|**2025-05-23**|null|
+|**2025-05-23**|**DataRater: Meta-Learned Dataset Curation**|Dan A. Calian et.al.|[2505.17895v1](http://arxiv.org/abs/2505.17895v1)|**2025-05-23**|null|
+|**2025-05-23**|**Track Anything Annotate: Video annotation and dataset generation of computer vision models**|Nikita Ivanov et.al.|[2505.17884v1](http://arxiv.org/abs/2505.17884v1)|**2025-05-23**|null|
+|**2025-05-23**|**DesignX: Human-Competitive Algorithm Designer for Black-Box Optimization**|Hongshu Guo et.al.|[2505.17866v1](http://arxiv.org/abs/2505.17866v1)|**2025-05-23**|null|
+|**2025-05-23**|**Generative Data Augmentation for Object Point Cloud Segmentation**|Dekai Zhu et.al.|[2505.17783v1](http://arxiv.org/abs/2505.17783v1)|**2025-05-23**|null|
+|**2025-05-23**|**Hephaestus Minicubes: A Global, Multi-Modal Dataset for Volcanic Unrest Monitoring**|Nikolas Papadopoulos et.al.|[2505.17782v1](http://arxiv.org/abs/2505.17782v1)|**2025-05-23**|null|
+|**2025-05-23**|**But what is your honest answer? Aiding LLM-judges with honest alternatives using steering vectors**|Leon Eshuijs et.al.|[2505.17760v1](http://arxiv.org/abs/2505.17760v1)|**2025-05-23**|null|
+|**2025-05-23**|**MetaBox-v2: A Unified Benchmark Platform for Meta-Black-Box Optimization**|Zeyuan Ma et.al.|[2505.17745v1](http://arxiv.org/abs/2505.17745v1)|**2025-05-23**|null|
+|**2025-05-23**|**Slot-MLLM: Object-Centric Visual Tokenization for Multimodal LLM**|Donghwan Chi et.al.|[2505.17726v1](http://arxiv.org/abs/2505.17726v1)|**2025-05-23**|null|
+|**2025-05-23**|**SeaLion: Semantic Part-Aware Latent Point Diffusion Models for 3D Generation**|Dekai Zhu et.al.|[2505.17721v1](http://arxiv.org/abs/2505.17721v1)|**2025-05-23**|null|

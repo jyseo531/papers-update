@@ -2,33 +2,33 @@
 ### Multi-modal
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-22**|**ARB: A Comprehensive Arabic Multimodal Reasoning Benchmark**|Sara Ghaboura et.al.|[2505.17021v1](http://arxiv.org/abs/2505.17021v1)|**2025-05-22**|[link](https://github.com/mbzuai-oryx/arb)|
-|**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020v1](http://arxiv.org/abs/2505.17020v1)|**2025-05-22**|[link](https://github.com/shilinyan99/crosslmm)|
-|**2025-05-22**|**Multi-SpatialMLLM: Multi-Frame Spatial Understanding with Multi-Modal Large Language Models**|Runsen Xu et.al.|[2505.17015v1](http://arxiv.org/abs/2505.17015v1)|**2025-05-22**|null|
-|**2025-05-22**|**SpatialScore: Towards Unified Evaluation for Multimodal Spatial Understanding**|Haoning Wu et.al.|[2505.17012v1](http://arxiv.org/abs/2505.17012v1)|**2025-05-22**|[link](https://github.com/haoningwu3639/SpatialScore)|
-|**2025-05-22**|**Extremely Simple Multimodal Outlier Synthesis for Out-of-Distribution Detection and Segmentation**|Moru Liu et.al.|[2505.16985v1](http://arxiv.org/abs/2505.16985v1)|**2025-05-22**|[link](https://github.com/mona4399/featuremixing)|
-|**2025-05-22**|**LLM as Effective Streaming Processor: Bridging Streaming-Batch Mismatches with Group Position Encoding**|Junlong Tong et.al.|[2505.16983v1](http://arxiv.org/abs/2505.16983v1)|**2025-05-22**|[link](https://github.com/eit-nlp/streamingllm)|
-|**2025-05-22**|**3D Equivariant Visuomotor Policy Learning via Spherical Projection**|Boce Hu et.al.|[2505.16969v1](http://arxiv.org/abs/2505.16969v1)|**2025-05-22**|null|
-|**2025-05-22**|**MedFrameQA: A Multi-Image Medical VQA Benchmark for Clinical Reasoning**|Suhao Yu et.al.|[2505.16964v1](http://arxiv.org/abs/2505.16964v1)|**2025-05-22**|null|
-|**2025-05-22**|**ICYM2I: The illusion of multimodal informativeness under missingness**|Young Sang Choi et.al.|[2505.16953v1](http://arxiv.org/abs/2505.16953v1)|**2025-05-22**|[link](https://github.com/reAIM-Lab/ICYM2I)|
-|**2025-05-22**|**SPAR: Self-supervised Placement-Aware Representation Learning for Multi-Node IoT Systems**|Yizhuo Chen et.al.|[2505.16936v2](http://arxiv.org/abs/2505.16936v2)|**2025-05-23**|null|
-|**2025-05-22**|**Backdoor Cleaning without External Guidance in MLLM Fine-tuning**|Xuankun Rong et.al.|[2505.16916v1](http://arxiv.org/abs/2505.16916v1)|**2025-05-22**|[link](https://github.com/xuankunrong/bye)|
-|**2025-05-22**|**RealEngine: Simulating Autonomous Driving in Realistic Context**|Junzhe Jiang et.al.|[2505.16902v1](http://arxiv.org/abs/2505.16902v1)|**2025-05-22**|[link](https://github.com/fudan-zvg/realengine)|
-|**2025-05-22**|**LaViDa: A Large Diffusion Language Model for Multimodal Understanding**|Shufan Li et.al.|[2505.16839v2](http://arxiv.org/abs/2505.16839v2)|**2025-05-23**|[link](https://github.com/jacklishufan/lavida)|
-|**2025-05-22**|**Hypergraph Tversky-Aware Domain Incremental Learning for Brain Tumor Segmentation with Missing Modalities**|Junze Wang et.al.|[2505.16809v2](http://arxiv.org/abs/2505.16809v2)|**2025-05-23**|null|
-|**2025-05-22**|**Cohort-Based Active Modality Acquisition**|Tillmann Rheude et.al.|[2505.16791v1](http://arxiv.org/abs/2505.16791v1)|**2025-05-22**|null|
-|**2025-05-22**|**IFEval-Audio: Benchmarking Instruction-Following Capability in Audio-based Large Language Models**|Yiming Gao et.al.|[2505.16774v1](http://arxiv.org/abs/2505.16774v1)|**2025-05-22**|[link](https://github.com/audiollms/audiobench)|
-|**2025-05-22**|**RBench-V: A Primary Assessment for Visual Reasoning Models with Multi-modal Outputs**|Meng-Hao Guo et.al.|[2505.16770v2](http://arxiv.org/abs/2505.16770v2)|**2025-05-23**|null|
-|**2025-05-22**|**Representation Discrepancy Bridging Method for Remote Sensing Image-Text Retrieval**|Hailong Ning et.al.|[2505.16756v1](http://arxiv.org/abs/2505.16756v1)|**2025-05-22**|null|
-|**2025-05-22**|**Adversarial Deep Metric Learning for Cross-Modal Audio-Text Alignment in Open-Vocabulary Keyword Spotting**|Youngmoon Jung et.al.|[2505.16735v2](http://arxiv.org/abs/2505.16735v2)|**2025-05-23**|null|
-|**2025-05-22**|**KRIS-Bench: Benchmarking Next-Level Intelligent Image Editing Models**|Yongliang Wu et.al.|[2505.16707v1](http://arxiv.org/abs/2505.16707v1)|**2025-05-22**|null|
-|**2025-05-22**|**CoNav: Collaborative Cross-Modal Reasoning for Embodied Navigation**|Haihong Hao et.al.|[2505.16663v1](http://arxiv.org/abs/2505.16663v1)|**2025-05-22**|[link](https://github.com/oceanhao/CoNav)|
-|**2025-05-22**|**From Evaluation to Defense: Advancing Safety in Video Large Language Models**|Yiwei Sun et.al.|[2505.16643v1](http://arxiv.org/abs/2505.16643v1)|**2025-05-22**|null|
-|**2025-05-22**|**A Two-Stage Data Selection Framework for Data-Efficient Model Training on Edge Devices**|Chen Gong et.al.|[2505.16563v1](http://arxiv.org/abs/2505.16563v1)|**2025-05-22**|null|
-|**2025-05-22**|**Beyond Face Swapping: A Diffusion-Based Digital Human Benchmark for Multimodal Deepfake Detection**|Jiaxin Liu et.al.|[2505.16512v1](http://arxiv.org/abs/2505.16512v1)|**2025-05-22**|null|
-|**2025-05-22**|**Consistent World Models via Foresight Diffusion**|Yu Zhang et.al.|[2505.16474v1](http://arxiv.org/abs/2505.16474v1)|**2025-05-22**|null|
-|**2025-05-22**|**Benchmarking Retrieval-Augmented Multimomal Generation for Document Question Answering**|Kuicai Dong et.al.|[2505.16470v1](http://arxiv.org/abs/2505.16470v1)|**2025-05-22**|[link](https://github.com/mmdocrag/mmdocrag)|
-|**2025-05-22**|**MMMR: Benchmarking Massive Multi-Modal Reasoning Tasks**|Guiyao Tie et.al.|[2505.16459v1](http://arxiv.org/abs/2505.16459v1)|**2025-05-22**|null|
-|**2025-05-22**|**Implicit Jailbreak Attacks via Cross-Modal Information Concealment on Vision-Language Models**|Zhaoxin Wang et.al.|[2505.16446v1](http://arxiv.org/abs/2505.16446v1)|**2025-05-22**|null|
-|**2025-05-22**|**Estimation of multiple parameters encoded in the modal structure of light**|Alexander Boeschoten et.al.|[2505.16435v1](http://arxiv.org/abs/2505.16435v1)|**2025-05-22**|null|
-|**2025-05-22**|**Circle-RoPE: Cone-like Decoupled Rotary Positional Embedding for Large Vision-Language Models**|Chengcheng Wang et.al.|[2505.16416v1](http://arxiv.org/abs/2505.16416v1)|**2025-05-22**|[link](https://github.com/lose4578/circlerope)|
+|**2025-05-23**|**Multi-Modal Spectral Parametrization Method (MMSPM) for analyzing EEG activity with distinct scaling regimes**|Frigyes Samuel Racz et.al.|[2505.18117v1](http://arxiv.org/abs/2505.18117v1)|**2025-05-23**|null|
+|**2025-05-23**|**Adapting SAM 2 for Visual Object Tracking: 1st Place Solution for MMVPR Challenge Multi-Modal Tracking**|Cheng-Yen Yang et.al.|[2505.18111v1](http://arxiv.org/abs/2505.18111v1)|**2025-05-23**|null|
+|**2025-05-23**|**Watch and Listen: Understanding Audio-Visual-Speech Moments with Multimodal LLM**|Zinuo Li et.al.|[2505.18110v1](http://arxiv.org/abs/2505.18110v1)|**2025-05-23**|null|
+|**2025-05-23**|**Structural Dynamics of Harmful Content Dissemination on WhatsApp**|Yuxin Liu et.al.|[2505.18099v1](http://arxiv.org/abs/2505.18099v1)|**2025-05-23**|null|
+|**2025-05-23**|**SpikeGen: Generative Framework for Visual Spike Stream Processing**|Gaole Dai et.al.|[2505.18049v1](http://arxiv.org/abs/2505.18049v1)|**2025-05-23**|null|
+|**2025-05-23**|**Clip4Retrofit: Enabling Real-Time Image Labeling on Edge Devices via Cross-Architecture CLIP Distillation**|Li Zhong et.al.|[2505.18039v1](http://arxiv.org/abs/2505.18039v1)|**2025-05-23**|null|
+|**2025-05-23**|**CAMME: Adaptive Deepfake Image Detection with Multi-Modal Cross-Attention**|Naseem Khan et.al.|[2505.18035v1](http://arxiv.org/abs/2505.18035v1)|**2025-05-23**|null|
+|**2025-05-23**|**Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling**|Bryan Wong et.al.|[2505.17982v1](http://arxiv.org/abs/2505.17982v1)|**2025-05-23**|null|
+|**2025-05-23**|**UltraBoneUDF: Self-supervised Bone Surface Reconstruction from Ultrasound Based on Neural Unsigned Distance Functions**|Luohong Wu et.al.|[2505.17912v1](http://arxiv.org/abs/2505.17912v1)|**2025-05-23**|null|
+|**2025-05-23**|**ComfyMind: Toward General-Purpose Generation via Tree-Based Planning and Reactive Feedback**|Litao Guo et.al.|[2505.17908v1](http://arxiv.org/abs/2505.17908v1)|**2025-05-23**|null|
+|**2025-05-23**|**LLM4SP: Large Language Models for Scatterer Prediction via Synesthesia of Machines**|Zengrui Han et.al.|[2505.17879v1](http://arxiv.org/abs/2505.17879v1)|**2025-05-23**|null|
+|**2025-05-23**|**Daily-Omni: Towards Audio-Visual Reasoning with Temporal Alignment across Modalities**|Ziwei Zhou et.al.|[2505.17862v1](http://arxiv.org/abs/2505.17862v1)|**2025-05-23**|[link](https://github.com/lliar-liar/daily-omni)|
+|**2025-05-23**|**TEDI: Trustworthy and Ethical Dataset Indicators to Analyze and Compare Dataset Documentation**|Wiebke Hutiri et.al.|[2505.17841v1](http://arxiv.org/abs/2505.17841v1)|**2025-05-23**|null|
+|**2025-05-23**|**ICPL-ReID: Identity-Conditional Prompt Learning for Multi-Spectral Object Re-Identification**|Shihao Li et.al.|[2505.17821v1](http://arxiv.org/abs/2505.17821v1)|**2025-05-23**|null|
+|**2025-05-23**|**Temporal Consistency Constrained Transferable Adversarial Attacks with Background Mixup for Action Recognition**|Ping Li et.al.|[2505.17807v1](http://arxiv.org/abs/2505.17807v1)|**2025-05-23**|null|
+|**2025-05-23**|**DetailFusion: A Dual-branch Framework with Detail Enhancement for Composed Image Retrieval**|Yuxin Yang et.al.|[2505.17796v1](http://arxiv.org/abs/2505.17796v1)|**2025-05-23**|null|
+|**2025-05-23**|**Hephaestus Minicubes: A Global, Multi-Modal Dataset for Volcanic Unrest Monitoring**|Nikolas Papadopoulos et.al.|[2505.17782v1](http://arxiv.org/abs/2505.17782v1)|**2025-05-23**|null|
+|**2025-05-23**|**U2-BENCH: Benchmarking Large Vision-Language Models on Ultrasound Understanding**|Anjie Le et.al.|[2505.17779v1](http://arxiv.org/abs/2505.17779v1)|**2025-05-23**|null|
+|**2025-05-23**|**Object Classification Utilizing Neuromorphic Proprioceptive Signals in Active Exploration: Validated on a Soft Anthropomorphic Hand**|Fengyi Wang et.al.|[2505.17738v1](http://arxiv.org/abs/2505.17738v1)|**2025-05-23**|null|
+|**2025-05-23**|**SVL: Spike-based Vision-language Pretraining for Efficient 3D Open-world Understanding**|Xuerui Qiu et.al.|[2505.17674v1](http://arxiv.org/abs/2505.17674v1)|**2025-05-23**|null|
+|**2025-05-23**|**Instruct2See: Learning to Remove Any Obstructions Across Distributions**|Junhang Li et.al.|[2505.17649v1](http://arxiv.org/abs/2505.17649v1)|**2025-05-23**|null|
+|**2025-05-23**|**HoloLLM: Multisensory Foundation Model for Language-Grounded Human Sensing and Reasoning**|Chuhao Zhou et.al.|[2505.17645v1](http://arxiv.org/abs/2505.17645v1)|**2025-05-23**|null|
+|**2025-05-23**|**Causal Spatio-Temporal Prediction: An Effective and Efficient Multi-Modal Approach**|Yuting Huang et.al.|[2505.17637v1](http://arxiv.org/abs/2505.17637v1)|**2025-05-23**|null|
+|**2025-05-23**|**Enhancing Large Vision-Language Models with Layout Modality for Table Question Answering on Japanese Annual Securities Reports**|Hayato Aida et.al.|[2505.17625v1](http://arxiv.org/abs/2505.17625v1)|**2025-05-23**|null|
+|**2025-05-23**|**PolyStan: PolyChord nested sampling and Bayesian evidences for Stan models**|Andrew Fowlie et.al.|[2505.17620v1](http://arxiv.org/abs/2505.17620v1)|**2025-05-23**|null|
+|**2025-05-23**|**MMMG: a Comprehensive and Reliable Evaluation Suite for Multitask Multimodal Generation**|Jihan Yao et.al.|[2505.17613v1](http://arxiv.org/abs/2505.17613v1)|**2025-05-23**|null|
+|**2025-05-23**|**Decoupled Visual Interpretation and Linguistic Reasoning for Math Problem Solving**|Zixian Guo et.al.|[2505.17609v1](http://arxiv.org/abs/2505.17609v1)|**2025-05-23**|null|
+|**2025-05-23**|**JELAI: Integrating AI and Learning Analytics in Jupyter Notebooks**|Manuel Valle Torre et.al.|[2505.17593v1](http://arxiv.org/abs/2505.17593v1)|**2025-05-23**|null|
+|**2025-05-23**|**JALMBench: Benchmarking Jailbreak Vulnerabilities in Audio Language Models**|Zifan Peng et.al.|[2505.17568v1](http://arxiv.org/abs/2505.17568v1)|**2025-05-23**|null|
+|**2025-05-23**|**Multimodal Conversation Structure Understanding**|Kent K. Chang et.al.|[2505.17536v1](http://arxiv.org/abs/2505.17536v1)|**2025-05-23**|null|

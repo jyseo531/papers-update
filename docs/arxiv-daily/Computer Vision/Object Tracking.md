@@ -2,33 +2,33 @@
 ### Object Tracking
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022v1](http://arxiv.org/abs/2505.17022v1)|**2025-05-22**|[link](https://github.com/gogoduan/got-r1)|
-|**2025-05-22**|**Sufficient conditions for offline reactivation in recurrent neural networks**|Nanda H. Krishna et.al.|[2505.17003v1](http://arxiv.org/abs/2505.17003v1)|**2025-05-22**|[link](https://github.com/nandahkrishna/RNNReactivation)|
-|**2025-05-22**|**DecoupledESC: Enhancing Emotional Support Generation via Strategy-Response Decoupled Preference Optimization**|Chao Zhang et.al.|[2505.16995v1](http://arxiv.org/abs/2505.16995v1)|**2025-05-22**|null|
-|**2025-05-22**|**Spin adaptation of the cumulant expansions of reduced density matrices**|Julia Liebert et.al.|[2505.16989v1](http://arxiv.org/abs/2505.16989v1)|**2025-05-22**|null|
-|**2025-05-22**|**MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems**|Rui Ye et.al.|[2505.16988v1](http://arxiv.org/abs/2505.16988v1)|**2025-05-22**|[link](https://github.com/masworks/maslab)|
-|**2025-05-22**|**Extremely Simple Multimodal Outlier Synthesis for Out-of-Distribution Detection and Segmentation**|Moru Liu et.al.|[2505.16985v1](http://arxiv.org/abs/2505.16985v1)|**2025-05-22**|[link](https://github.com/mona4399/featuremixing)|
-|**2025-05-22**|**Creatively Upscaling Images with Global-Regional Priors**|Yurui Qian et.al.|[2505.16976v1](http://arxiv.org/abs/2505.16976v1)|**2025-05-22**|null|
-|**2025-05-22**|**OpenSeg-R: Improving Open-Vocabulary Segmentation via Step-by-Step Visual Reasoning**|Zongyan Han et.al.|[2505.16974v1](http://arxiv.org/abs/2505.16974v1)|**2025-05-22**|[link](https://github.com/hanzy1996/openseg-r)|
-|**2025-05-22**|**UniPhy: Learning a Unified Constitutive Model for Inverse Physics Simulation**|Himangi Mittal et.al.|[2505.16971v1](http://arxiv.org/abs/2505.16971v1)|**2025-05-22**|null|
-|**2025-05-22**|**Horospherically Convex Optimization on Hadamard Manifolds Part I: Analysis and Algorithms**|Christopher Criscitiello et.al.|[2505.16970v1](http://arxiv.org/abs/2505.16970v1)|**2025-05-22**|null|
-|**2025-05-22**|**From Reality to Virtual Worlds: The Role of Photogrammetry in Game Development**|Santiago Berrezueta-Guzman et.al.|[2505.16951v1](http://arxiv.org/abs/2505.16951v1)|**2025-05-22**|null|
-|**2025-05-22**|**SPAR: Self-supervised Placement-Aware Representation Learning for Multi-Node IoT Systems**|Yizhuo Chen et.al.|[2505.16936v2](http://arxiv.org/abs/2505.16936v2)|**2025-05-23**|null|
-|**2025-05-22**|**A NuSTAR study of quasi-periodic oscillations from the ultraluminous X-ray sources in M82**|Hamza El Byad et.al.|[2505.16921v1](http://arxiv.org/abs/2505.16921v1)|**2025-05-22**|null|
-|**2025-05-22**|**Scalable and Interpretable Contextual Bandits: A Literature Review and Retail Offer Prototype**|Nikola Tankovic et.al.|[2505.16918v1](http://arxiv.org/abs/2505.16918v1)|**2025-05-22**|null|
-|**2025-05-22**|**UAV See, UGV Do: Aerial Imagery and Virtual Teach Enabling Zero-Shot Ground Vehicle Repeat**|Desiree Fisker et.al.|[2505.16912v1](http://arxiv.org/abs/2505.16912v1)|**2025-05-22**|null|
-|**2025-05-22**|**Shadows in the Attention: Contextual Perturbation and Representation Drift in the Dynamics of Hallucination in LLMs**|Zeyu Wei et.al.|[2505.16894v1](http://arxiv.org/abs/2505.16894v1)|**2025-05-22**|null|
-|**2025-05-22**|**FlashBack: Consistency Model-Accelerated Shared Autonomy**|Luzhe Sun et.al.|[2505.16892v1](http://arxiv.org/abs/2505.16892v1)|**2025-05-22**|null|
-|**2025-05-22**|**Inkspot: A stress-resilient, anthocyanin rich, dwarf tomato variant for off-world cultivation**|Sarah Lang et.al.|[2505.16890v2](http://arxiv.org/abs/2505.16890v2)|**2025-05-23**|null|
-|**2025-05-22**|**Tracking the Flight: Exploring a Computational Framework for Analyzing Escape Responses in Plains Zebra (Equus quagga)**|Isla Duporge et.al.|[2505.16882v1](http://arxiv.org/abs/2505.16882v1)|**2025-05-22**|null|
-|**2025-05-22**|**A monotonic MM-type algorithm for estimation of nonparametric finite mixture models with dependent marginals**|Michael Levine et.al.|[2505.16878v1](http://arxiv.org/abs/2505.16878v1)|**2025-05-22**|null|
-|**2025-05-22**|**LARES: Latent Reasoning for Sequential Recommendation**|Enze Liu et.al.|[2505.16865v1](http://arxiv.org/abs/2505.16865v1)|**2025-05-22**|null|
-|**2025-05-22**|**ATR-Bench: A Federated Learning Benchmark for Adaptation, Trust, and Reasoning**|Tajamul Ashraf et.al.|[2505.16850v1](http://arxiv.org/abs/2505.16850v1)|**2025-05-22**|null|
-|**2025-05-22**|**Semi-Supervised State-Space Model with Dynamic Stacking Filter for Real-World Video Deraining**|Shangquan Sun et.al.|[2505.16811v1](http://arxiv.org/abs/2505.16811v1)|**2025-05-22**|null|
-|**2025-05-22**|**Single Domain Generalization for Few-Shot Counting via Universal Representation Matching**|Xianing Chen et.al.|[2505.16778v1](http://arxiv.org/abs/2505.16778v1)|**2025-05-22**|[link](https://github.com/jbr97/urm)|
-|**2025-05-22**|**Mesh-RFT: Enhancing Mesh Generation via Fine-grained Reinforcement Fine-Tuning**|Jian Liu et.al.|[2505.16761v1](http://arxiv.org/abs/2505.16761v1)|**2025-05-22**|null|
-|**2025-05-22**|**Revenue Optimization with Price-Sensitive and Interdependent Demand**|Julien Laasri et.al.|[2505.16748v1](http://arxiv.org/abs/2505.16748v1)|**2025-05-22**|null|
-|**2025-05-22**|**Robust Vision-Based Runway Detection through Conformal Prediction and Conformal mAP**|Alya Zouzou et.al.|[2505.16740v1](http://arxiv.org/abs/2505.16740v1)|**2025-05-22**|[link](https://github.com/alyasltd/conformal_runway_detection)|
-|**2025-05-22**|**Adversarial Deep Metric Learning for Cross-Modal Audio-Text Alignment in Open-Vocabulary Keyword Spotting**|Youngmoon Jung et.al.|[2505.16735v2](http://arxiv.org/abs/2505.16735v2)|**2025-05-23**|null|
-|**2025-05-22**|**Maximum Total Correlation Reinforcement Learning**|Bang You et.al.|[2505.16734v1](http://arxiv.org/abs/2505.16734v1)|**2025-05-22**|[link](https://github.com/bangyou01/mtc)|
-|**2025-05-22**|**Forward-only Diffusion Probabilistic Models**|Ziwei Luo et.al.|[2505.16733v1](http://arxiv.org/abs/2505.16733v1)|**2025-05-22**|[link](https://github.com/Algolzw/FoD)|
+|**2025-05-23**|**REN: Fast and Efficient Region Encodings from Patch-Based Image Encoders**|Savya Khosla et.al.|[2505.18153v1](http://arxiv.org/abs/2505.18153v1)|**2025-05-23**|null|
+|**2025-05-23**|**Embracing Contradiction: Theoretical Inconsistency Will Not Impede the Road of Building Responsible AI Systems**|Gordon Dai et.al.|[2505.18139v1](http://arxiv.org/abs/2505.18139v1)|**2025-05-23**|null|
+|**2025-05-23**|**VideoGameBench: Can Vision-Language Models complete popular video games?**|Alex L. Zhang et.al.|[2505.18134v1](http://arxiv.org/abs/2505.18134v1)|**2025-05-23**|null|
+|**2025-05-23**|**One RL to See Them All: Visual Triple Unified Reinforcement Learning**|Yan Ma et.al.|[2505.18129v1](http://arxiv.org/abs/2505.18129v1)|**2025-05-23**|null|
+|**2025-05-23**|**Adapting SAM 2 for Visual Object Tracking: 1st Place Solution for MMVPR Challenge Multi-Modal Tracking**|Cheng-Yen Yang et.al.|[2505.18111v1](http://arxiv.org/abs/2505.18111v1)|**2025-05-23**|null|
+|**2025-05-23**|**DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation**|Junhao Chen et.al.|[2505.18078v1](http://arxiv.org/abs/2505.18078v1)|**2025-05-23**|null|
+|**2025-05-23**|**Asymptotically optimal regret in communicating Markov decision processes**|Victor Boone et.al.|[2505.18064v1](http://arxiv.org/abs/2505.18064v1)|**2025-05-23**|null|
+|**2025-05-23**|**Learning with Restricted Boltzmann Machines: Asymptotics of AMP and GD in High Dimensions**|Yizhou Xu et.al.|[2505.18046v1](http://arxiv.org/abs/2505.18046v1)|**2025-05-23**|null|
+|**2025-05-23**|**Clip4Retrofit: Enabling Real-Time Image Labeling on Edge Devices via Cross-Architecture CLIP Distillation**|Li Zhong et.al.|[2505.18039v1](http://arxiv.org/abs/2505.18039v1)|**2025-05-23**|null|
+|**2025-05-23**|**Efficient Conditional Gradient Methods for Solving Stochastic Convex Bilevel Optimization Problems**|Khanh-Hung Giang-Tran et.al.|[2505.18037v1](http://arxiv.org/abs/2505.18037v1)|**2025-05-23**|null|
+|**2025-05-23**|**Automata Learning of Preferences over Temporal Logic Formulas from Pairwise Comparisons**|Hazhar Rahmani et.al.|[2505.18030v1](http://arxiv.org/abs/2505.18030v1)|**2025-05-23**|null|
+|**2025-05-23**|**A Wavelet-based Stereo Matching Framework for Solving Frequency Convergence Inconsistency**|Xiaobao Wei et.al.|[2505.18024v1](http://arxiv.org/abs/2505.18024v1)|**2025-05-23**|null|
+|**2025-05-23**|**SemSegBench & DetecBench: Benchmarking Reliability and Generalization Beyond Classification**|Shashank Agnihotri et.al.|[2505.18015v1](http://arxiv.org/abs/2505.18015v1)|**2025-05-23**|null|
+|**2025-05-23**|**DiFache: Efficient and Scalable Caching on Disaggregated Memory using Decentralized Coherence**|Hanze Zhang et.al.|[2505.18013v1](http://arxiv.org/abs/2505.18013v1)|**2025-05-23**|null|
+|**2025-05-23**|**TRACE for Tracking the Emergence of Semantic Representations in Transformers**|Nura Aljaafari et.al.|[2505.17998v1](http://arxiv.org/abs/2505.17998v1)|**2025-05-23**|null|
+|**2025-05-23**|**Segment Anyword: Mask Prompt Inversion for Open-Set Grounded Segmentation**|Zhihua Liu et.al.|[2505.17994v1](http://arxiv.org/abs/2505.17994v1)|**2025-05-23**|null|
+|**2025-05-23**|**Canonical Pose Reconstruction from Single Depth Image for 3D Non-rigid Pose Recovery on Limited Datasets**|Fahd Alhamazani et.al.|[2505.17992v1](http://arxiv.org/abs/2505.17992v1)|**2025-05-23**|null|
+|**2025-05-23**|**A Principled Bayesian Framework for Training Binary and Spiking Neural Networks**|James A. Walker et.al.|[2505.17962v1](http://arxiv.org/abs/2505.17962v1)|**2025-05-23**|null|
+|**2025-05-23**|**Mind the Domain Gap: Measuring the Domain Gap Between Real-World and Synthetic Point Clouds for Automated Driving Development**|Nguyen Duc et.al.|[2505.17959v1](http://arxiv.org/abs/2505.17959v1)|**2025-05-23**|null|
+|**2025-05-23**|**The impact of compact object deformation on thin accretion disk properties**|Shokoufe Faraji et.al.|[2505.17924v1](http://arxiv.org/abs/2505.17924v1)|**2025-05-23**|null|
+|**2025-05-23**|**Object-level Cross-view Geo-localization with Location Enhancement and Multi-Head Cross Attention**|Zheyang Huang et.al.|[2505.17911v1](http://arxiv.org/abs/2505.17911v1)|**2025-05-23**|null|
+|**2025-05-23**|**Tracking phase entanglement during propagation of downconverted photons**|Rounak Chatterjee et.al.|[2505.17906v1](http://arxiv.org/abs/2505.17906v1)|**2025-05-23**|null|
+|**2025-05-23**|**Geometric Shape Modelling and Volume Estimation of Dry Bulk Cargo Piles using a Single Image**|Debanshu Ratha et.al.|[2505.17896v1](http://arxiv.org/abs/2505.17896v1)|**2025-05-23**|null|
+|**2025-05-23**|**DataRater: Meta-Learned Dataset Curation**|Dan A. Calian et.al.|[2505.17895v1](http://arxiv.org/abs/2505.17895v1)|**2025-05-23**|null|
+|**2025-05-23**|**A model-free approach to control barrier functions using funnel control**|Lukas Lanza et.al.|[2505.17887v1](http://arxiv.org/abs/2505.17887v1)|**2025-05-23**|null|
+|**2025-05-23**|**Track Anything Annotate: Video annotation and dataset generation of computer vision models**|Nikita Ivanov et.al.|[2505.17884v1](http://arxiv.org/abs/2505.17884v1)|**2025-05-23**|null|
+|**2025-05-23**|**FastCAV: Efficient Computation of Concept Activation Vectors for Explaining Deep Neural Networks**|Laines Schmalwasser et.al.|[2505.17883v1](http://arxiv.org/abs/2505.17883v1)|**2025-05-23**|[link](https://gitlab.com/dlr-dw/fastcav)|
+|**2025-05-23**|**Semi-Supervised Multi-Label Feature Selection with Consistent Sparse Graph Learning**|Yan Zhong et.al.|[2505.17875v1](http://arxiv.org/abs/2505.17875v1)|**2025-05-23**|null|
+|**2025-05-23**|**BLAST: Balanced Sampling Time Series Corpus for Universal Forecasting Models**|Zezhi Shao et.al.|[2505.17871v1](http://arxiv.org/abs/2505.17871v1)|**2025-05-23**|null|
+|**2025-05-23**|**Best Group Identification in Multi-Objective Bandits**|Mohammad Shahverdikondori et.al.|[2505.17869v1](http://arxiv.org/abs/2505.17869v1)|**2025-05-23**|null|

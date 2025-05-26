@@ -2,33 +2,33 @@
 ### Transformer
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-22**|**Understanding Prompt Tuning and In-Context Learning via Meta-Learning**|Tim Genewein et.al.|[2505.17010v1](http://arxiv.org/abs/2505.17010v1)|**2025-05-22**|[link](https://github.com/google-deepmind/thunnini)|
-|**2025-05-22**|**X-MAS: Towards Building Multi-Agent Systems with Heterogeneous LLMs**|Rui Ye et.al.|[2505.16997v1](http://arxiv.org/abs/2505.16997v1)|**2025-05-22**|null|
-|**2025-05-22**|**Native Segmentation Vision Transformers**|Guillem Brasó et.al.|[2505.16993v1](http://arxiv.org/abs/2505.16993v1)|**2025-05-22**|null|
-|**2025-05-22**|**An Effective Training Framework for Light-Weight Automatic Speech Recognition Models**|Abdul Hannan et.al.|[2505.16991v1](http://arxiv.org/abs/2505.16991v1)|**2025-05-22**|null|
-|**2025-05-22**|**Beyond Correlation: Towards Causal Large Language Model Agents in Biomedicine**|Adib Bazgir et.al.|[2505.16982v1](http://arxiv.org/abs/2505.16982v1)|**2025-05-22**|null|
-|**2025-05-22**|**Predicting the outcome of collisional neutrino flavor conversion**|Julien Froustey et.al.|[2505.16961v1](http://arxiv.org/abs/2505.16961v1)|**2025-05-22**|null|
-|**2025-05-22**|**From Reality to Virtual Worlds: The Role of Photogrammetry in Game Development**|Santiago Berrezueta-Guzman et.al.|[2505.16951v1](http://arxiv.org/abs/2505.16951v1)|**2025-05-22**|null|
-|**2025-05-22**|**Bottlenecked Transformers: Periodic KV Cache Abstraction for Generalised Reasoning**|Adnan Oomerjee et.al.|[2505.16950v1](http://arxiv.org/abs/2505.16950v1)|**2025-05-22**|null|
-|**2025-05-22**|**Delayed dynamic-feedback controller design for multi-frequency vibration suppression**|Adrian Saldanha et.al.|[2505.16939v1](http://arxiv.org/abs/2505.16939v1)|**2025-05-22**|null|
-|**2025-05-22**|**NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification**|NovelSeek Team et.al.|[2505.16938v1](http://arxiv.org/abs/2505.16938v1)|**2025-05-22**|null|
-|**2025-05-22**|**Photo-induced electronic excitations drive polymerization of carbon monoxide: A first-principles study**|Rasool Ahmad et.al.|[2505.16926v1](http://arxiv.org/abs/2505.16926v1)|**2025-05-22**|null|
-|**2025-05-22**|**Active Speech Enhancement: Active Speech Denoising Decliping and Deveraberation**|Ofir Yaish et.al.|[2505.16911v2](http://arxiv.org/abs/2505.16911v2)|**2025-05-23**|null|
-|**2025-05-22**|**Quantum circuits for partial differential equations in Fourier space**|Michael Lubasch et.al.|[2505.16895v1](http://arxiv.org/abs/2505.16895v1)|**2025-05-22**|null|
-|**2025-05-22**|**Quantum Compiler Design for Qubit Mapping and Routing: A Cross-Architectural Survey of Superconducting, Trapped-Ion, and Neutral Atom Systems**|Chenghong Zhu et.al.|[2505.16891v2](http://arxiv.org/abs/2505.16891v2)|**2025-05-23**|null|
-|**2025-05-22**|**Modular correspondences and replicable functions (unabridged version)**|J-M. Maillard et.al.|[2505.16873v1](http://arxiv.org/abs/2505.16873v1)|**2025-05-22**|null|
-|**2025-05-22**|**A Multi-Step Comparative Framework for Anomaly Detection in IoT Data Streams**|Mohammed Al-Qudah et.al.|[2505.16872v1](http://arxiv.org/abs/2505.16872v1)|**2025-05-22**|null|
-|**2025-05-22**|**Including the magnitude variability of a signal into the ordinal pattern analysis**|Melvyn Tyloo et.al.|[2505.16866v1](http://arxiv.org/abs/2505.16866v1)|**2025-05-22**|null|
-|**2025-05-22**|**Training-Free Efficient Video Generation via Dynamic Token Carving**|Yuechen Zhang et.al.|[2505.16864v1](http://arxiv.org/abs/2505.16864v1)|**2025-05-22**|[link](https://github.com/dvlab-research/jenga)|
-|**2025-05-22**|**LLM-Based Emulation of the Radio Resource Control Layer: Towards AI-Native RAN Protocols**|Ziming liu et.al.|[2505.16821v1](http://arxiv.org/abs/2505.16821v1)|**2025-05-22**|null|
-|**2025-05-22**|**Action2Dialogue: Generating Character-Centric Narratives from Scene-Level Prompts**|Taewon Kang et.al.|[2505.16819v1](http://arxiv.org/abs/2505.16819v1)|**2025-05-22**|null|
-|**2025-05-22**|**Chirp Delay-Doppler Domain Modulation: A New Paradigm of Integrated Sensing and Communication for Autonomous Vehicles**|Zhuoran Li et.al.|[2505.16807v1](http://arxiv.org/abs/2505.16807v1)|**2025-05-22**|[link](https://github.com/lizhuoran0/2025-ieee-network-chirpdelaydopplermodulationisac)|
-|**2025-05-22**|**Many-faced Painlevé I: irregular conformal blocks, topological recursion, and holomorphic anomaly approaches**|Nikolai Iorgov et.al.|[2505.16803v1](http://arxiv.org/abs/2505.16803v1)|**2025-05-22**|null|
-|**2025-05-22**|**Learning Beyond Limits: Multitask Learning and Synthetic Data for Low-Resource Canonical Morpheme Segmentation**|Changbing Yang et.al.|[2505.16800v1](http://arxiv.org/abs/2505.16800v1)|**2025-05-22**|null|
-|**2025-05-22**|**REPA Works Until It Doesn't: Early-Stopped, Holistic Alignment Supercharges Diffusion Training**|Ziqiao Wang et.al.|[2505.16792v1](http://arxiv.org/abs/2505.16792v1)|**2025-05-22**|[link](https://github.com/nus-hpc-ai-lab/haste)|
-|**2025-05-22**|**FlowMixer: A Constrained Neural Architecture for Interpretable Spatiotemporal Forecasting**|Fares B. Mehouachi et.al.|[2505.16786v1](http://arxiv.org/abs/2505.16786v1)|**2025-05-22**|null|
-|**2025-05-22**|**Mitigating Overfitting in Medical Imaging: Self-Supervised Pretraining vs. ImageNet Transfer Learning for Dermatological Diagnosis**|Iván Matas et.al.|[2505.16773v1](http://arxiv.org/abs/2505.16773v1)|**2025-05-22**|null|
-|**2025-05-22**|**Data-Driven Breakthroughs and Future Directions in AI Infrastructure: A Comprehensive Review**|Beyazit Bestami Yuksel et.al.|[2505.16771v1](http://arxiv.org/abs/2505.16771v1)|**2025-05-22**|null|
-|**2025-05-22**|**The S-PLUS Fornax Project (S+FP): Mapping H$α$+[NII] emission in 77 Fornax galaxy members reaching $\sim$4 Rvir**|A. R. Lopes et.al.|[2505.16738v1](http://arxiv.org/abs/2505.16738v1)|**2025-05-22**|null|
-|**2025-05-22**|**Sensitivity of ECG QRS Complexes to His-Purkinje Structure in Computational Heart Models**|Preetam V. Tanikella et.al.|[2505.16696v1](http://arxiv.org/abs/2505.16696v1)|**2025-05-22**|null|
-|**2025-05-22**|**Novel active avalanche paradigm for power semiconductor device extending extending SOA to 6.5kV/15kA**|Liu Jiapeng et.al.|[2505.16695v1](http://arxiv.org/abs/2505.16695v1)|**2025-05-22**|null|
+|**2025-05-23**|**Multi-Modal Spectral Parametrization Method (MMSPM) for analyzing EEG activity with distinct scaling regimes**|Frigyes Samuel Racz et.al.|[2505.18117v1](http://arxiv.org/abs/2505.18117v1)|**2025-05-23**|null|
+|**2025-05-23**|**From Temporal to Spatial: Designing Spatialized Interactions with Segmented-audios in Immersive Environments for Active Engagement with Performing Arts Intangible Cultural Heritage**|Yuqi Wang et.al.|[2505.18112v1](http://arxiv.org/abs/2505.18112v1)|**2025-05-23**|null|
+|**2025-05-23**|**Accelerating Learned Image Compression Through Modeling Neural Training Dynamics**|Yichi Zhang et.al.|[2505.18107v1](http://arxiv.org/abs/2505.18107v1)|**2025-05-23**|null|
+|**2025-05-23**|**The Noether formalism for constructing conserved quantities in teleparallel equivalents of general relativity**|E. D. Emtsova et.al.|[2505.18084v1](http://arxiv.org/abs/2505.18084v1)|**2025-05-23**|null|
+|**2025-05-23**|**A Foundation Model Framework for Multi-View MRI Classification of Extramural Vascular Invasion and Mesorectal Fascia Invasion in Rectal Cancer**|Yumeng Zhang et.al.|[2505.18058v1](http://arxiv.org/abs/2505.18058v1)|**2025-05-23**|null|
+|**2025-05-23**|**LookWhere? Efficient Visual Recognition by Learning Where to Look and What to See from Self-Supervision**|Anthony Fuller et.al.|[2505.18051v1](http://arxiv.org/abs/2505.18051v1)|**2025-05-23**|null|
+|**2025-05-23**|**RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration**|Sudarshan Rajagopalan et.al.|[2505.18047v1](http://arxiv.org/abs/2505.18047v1)|**2025-05-23**|null|
+|**2025-05-23**|**A Wavelet-based Stereo Matching Framework for Solving Frequency Convergence Inconsistency**|Xiaobao Wei et.al.|[2505.18024v1](http://arxiv.org/abs/2505.18024v1)|**2025-05-23**|null|
+|**2025-05-23**|**Classification of assembly tasks combining multiple primitive actions using Transformers and xLSTMs**|Miguel Neves et.al.|[2505.18012v1](http://arxiv.org/abs/2505.18012v1)|**2025-05-23**|null|
+|**2025-05-23**|**TRACE for Tracking the Emergence of Semantic Representations in Transformers**|Nura Aljaafari et.al.|[2505.17998v1](http://arxiv.org/abs/2505.17998v1)|**2025-05-23**|null|
+|**2025-05-23**|**Canonical Pose Reconstruction from Single Depth Image for 3D Non-rigid Pose Recovery on Limited Datasets**|Fahd Alhamazani et.al.|[2505.17992v1](http://arxiv.org/abs/2505.17992v1)|**2025-05-23**|null|
+|**2025-05-23**|**ADLGen: Synthesizing Symbolic, Event-Triggered Sensor Sequences for Human Activity Modeling**|Weihang You et.al.|[2505.17987v1](http://arxiv.org/abs/2505.17987v1)|**2025-05-23**|null|
+|**2025-05-23**|**Explainable Anatomy-Guided AI for Prostate MRI: Foundation Models and In Silico Clinical Trials for Virtual Biopsy-based Risk Assessment**|Danial Khan et.al.|[2505.17971v1](http://arxiv.org/abs/2505.17971v1)|**2025-05-23**|null|
+|**2025-05-23**|**SVD-Free Low-Rank Adaptive Gradient Optimization for Large Language Models**|Ionut-Vlad Modoranu et.al.|[2505.17967v1](http://arxiv.org/abs/2505.17967v1)|**2025-05-23**|null|
+|**2025-05-23**|**Understanding Gated Neurons in Transformers from Their Input-Output Functionality**|Sebastian Gerstner et.al.|[2505.17936v1](http://arxiv.org/abs/2505.17936v1)|**2025-05-23**|null|
+|**2025-05-23**|**Selection Mechanisms for Sequence Modeling using Linear State Space Models**|Umberto Casti et.al.|[2505.17932v1](http://arxiv.org/abs/2505.17932v1)|**2025-05-23**|null|
+|**2025-05-23**|**Predicting Length of Stay in Neurological ICU Patients Using Classical Machine Learning and Neural Network Models: A Benchmark Study on MIMIC-IV**|Alexander Gabitashvili et.al.|[2505.17929v1](http://arxiv.org/abs/2505.17929v1)|**2025-05-23**|null|
+|**2025-05-23**|**Language models can learn implicit multi-hop reasoning, but only if they have lots of training data**|Yuekun Yao et.al.|[2505.17923v1](http://arxiv.org/abs/2505.17923v1)|**2025-05-23**|null|
+|**2025-05-23**|**Isospectrality and non-locality of generalized Dirac combs**|Giuliano Angelone et.al.|[2505.17920v1](http://arxiv.org/abs/2505.17920v1)|**2025-05-23**|null|
+|**2025-05-23**|**NeuroTrails: Training with Dynamic Sparse Heads as the Key to Effective Ensembling**|Bram Grooten et.al.|[2505.17909v1](http://arxiv.org/abs/2505.17909v1)|**2025-05-23**|null|
+|**2025-05-23**|**SpectraLDS: Provable Distillation for Linear Dynamical Systems**|Devan Shah et.al.|[2505.17868v1](http://arxiv.org/abs/2505.17868v1)|**2025-05-23**|null|
+|**2025-05-23**|**The emergence of sparse attention: impact of data distribution and benefits of repetition**|Nicolas Zucchet et.al.|[2505.17863v1](http://arxiv.org/abs/2505.17863v1)|**2025-05-23**|null|
+|**2025-05-23**|**Stochastic Weight Sharing for Bayesian Neural Networks**|Moule Lin et.al.|[2505.17856v1](http://arxiv.org/abs/2505.17856v1)|**2025-05-23**|null|
+|**2025-05-23**|**Scaling Recurrent Neural Networks to a Billion Parameters with Zero-Order Optimization**|Francois Chaubard et.al.|[2505.17852v1](http://arxiv.org/abs/2505.17852v1)|**2025-05-23**|null|
+|**2025-05-23**|**TransDF: Time-Series Forecasting Needs Transformed Label Alignment**|Hao Wang et.al.|[2505.17847v1](http://arxiv.org/abs/2505.17847v1)|**2025-05-23**|null|
+|**2025-05-23**|**Continuum Transformers Perform In-Context Learning by Operator Gradient Descent**|Abhiti Mishra et.al.|[2505.17838v1](http://arxiv.org/abs/2505.17838v1)|**2025-05-23**|null|
+|**2025-05-23**|**Hybrid Mamba-Transformer Decoder for Error-Correcting Codes**|Shy-el Cohen et.al.|[2505.17834v1](http://arxiv.org/abs/2505.17834v1)|**2025-05-23**|null|
+|**2025-05-23**|**Low-Resource NMT: A Case Study on the Written and Spoken Languages in Hong Kong**|Hei Yi Mak et.al.|[2505.17816v1](http://arxiv.org/abs/2505.17816v1)|**2025-05-23**|null|
+|**2025-05-23**|**An Attention Infused Deep Learning System with Grad-CAM Visualization for Early Screening of Glaucoma**|Ramanathan Swaminathan et.al.|[2505.17808v1](http://arxiv.org/abs/2505.17808v1)|**2025-05-23**|null|
+|**2025-05-23**|**Temporal Consistency Constrained Transferable Adversarial Attacks with Background Mixup for Action Recognition**|Ping Li et.al.|[2505.17807v1](http://arxiv.org/abs/2505.17807v1)|**2025-05-23**|null|
