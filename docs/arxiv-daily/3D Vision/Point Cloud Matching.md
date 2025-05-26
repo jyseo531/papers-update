@@ -6,19 +6,19 @@
 |**2025-05-22**|**Topological Phases, Criticality, and Mixed State Order in a Hubbard Quantum Simulator**|Lin Su et.al.|[2505.17009v1](http://arxiv.org/abs/2505.17009v1)|**2025-05-22**|null|
 |**2025-05-22**|**Critical Points of Random Neural Networks**|Simmaco Di Lillo et.al.|[2505.17000v1](http://arxiv.org/abs/2505.17000v1)|**2025-05-22**|null|
 |**2025-05-22**|**PICT -- A Differentiable, GPU-Accelerated Multi-Block PISO Solver for Simulation-Coupled Learning Tasks in Fluid Dynamics**|Aleksandra Franz et.al.|[2505.16992v1](http://arxiv.org/abs/2505.16992v1)|**2025-05-22**|null|
-|**2025-05-22**|**Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On**|Siqi Wan et.al.|[2505.16977v1](http://arxiv.org/abs/2505.16977v1)|**2025-05-22**|null|
+|**2025-05-22**|**Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On**|Siqi Wan et.al.|[2505.16977v1](http://arxiv.org/abs/2505.16977v1)|**2025-05-22**|[link](https://github.com/hidream-ai/spm-diff)|
 |**2025-05-22**|**UniPhy: Learning a Unified Constitutive Model for Inverse Physics Simulation**|Himangi Mittal et.al.|[2505.16971v1](http://arxiv.org/abs/2505.16971v1)|**2025-05-22**|null|
 |**2025-05-22**|**Horospherically Convex Optimization on Hadamard Manifolds Part I: Analysis and Algorithms**|Christopher Criscitiello et.al.|[2505.16970v1](http://arxiv.org/abs/2505.16970v1)|**2025-05-22**|null|
 |**2025-05-22**|**3D Equivariant Visuomotor Policy Learning via Spherical Projection**|Boce Hu et.al.|[2505.16969v1](http://arxiv.org/abs/2505.16969v1)|**2025-05-22**|null|
-|**2025-05-22**|**CASS: Nvidia to AMD Transpilation with Data, Models, and Benchmark**|Ahmed Heakl et.al.|[2505.16968v1](http://arxiv.org/abs/2505.16968v1)|**2025-05-22**|null|
+|**2025-05-22**|**CASS: Nvidia to AMD Transpilation with Data, Models, and Benchmark**|Ahmed Heakl et.al.|[2505.16968v1](http://arxiv.org/abs/2505.16968v1)|**2025-05-22**|[link](https://github.com/gustavostahl/cass)|
 |**2025-05-22**|**Fixing Data That Hurts Performance: Cascading LLMs to Relabel Hard Negatives for Robust Information Retrieval**|Nandan Thakur et.al.|[2505.16967v1](http://arxiv.org/abs/2505.16967v1)|**2025-05-22**|null|
 |**2025-05-22**|**From Reality to Virtual Worlds: The Role of Photogrammetry in Game Development**|Santiago Berrezueta-Guzman et.al.|[2505.16951v1](http://arxiv.org/abs/2505.16951v1)|**2025-05-22**|null|
 |**2025-05-22**|**Efficient Correlation Volume Sampling for Ultra-High-Resolution Optical Flow Estimation**|Karlis Martins Briedis et.al.|[2505.16942v1](http://arxiv.org/abs/2505.16942v1)|**2025-05-22**|null|
-|**2025-05-22**|**SPAR: Self-supervised Placement-Aware Representation Learning for Multi-Node IoT Systems**|Yizhuo Chen et.al.|[2505.16936v1](http://arxiv.org/abs/2505.16936v1)|**2025-05-22**|null|
+|**2025-05-22**|**SPAR: Self-supervised Placement-Aware Representation Learning for Multi-Node IoT Systems**|Yizhuo Chen et.al.|[2505.16936v2](http://arxiv.org/abs/2505.16936v2)|**2025-05-23**|null|
 |**2025-05-22**|**Dynamical systems approach and cosmological attractors in newer general relativity**|Manuel Hohmann et.al.|[2505.16917v1](http://arxiv.org/abs/2505.16917v1)|**2025-05-22**|null|
 |**2025-05-22**|**Quantum Systems with jump-discontinuous mass. I**|Fabio Deelan Cunden et.al.|[2505.16913v1](http://arxiv.org/abs/2505.16913v1)|**2025-05-22**|null|
 |**2025-05-22**|**UAV See, UGV Do: Aerial Imagery and Virtual Teach Enabling Zero-Shot Ground Vehicle Repeat**|Desiree Fisker et.al.|[2505.16912v1](http://arxiv.org/abs/2505.16912v1)|**2025-05-22**|null|
-|**2025-05-22**|**Is Circuit Depth Accurate for Comparing Quantum Circuit Runtimes?**|Matthew Tremba et.al.|[2505.16908v1](http://arxiv.org/abs/2505.16908v1)|**2025-05-22**|null|
+|**2025-05-22**|**Is Circuit Depth Accurate for Comparing Quantum Circuit Runtimes?**|Matthew Tremba et.al.|[2505.16908v1](http://arxiv.org/abs/2505.16908v1)|**2025-05-22**|[link](https://github.com/mtkgv/cdaa)|
 |**2025-05-22**|**Persistent homology of function spaces**|Jonathan Block et.al.|[2505.16907v1](http://arxiv.org/abs/2505.16907v1)|**2025-05-22**|null|
 |**2025-05-22**|**Accurate crystal field Hamiltonians of single-ion magnets at mean-field cost**|Linqing Peng et.al.|[2505.16905v1](http://arxiv.org/abs/2505.16905v1)|**2025-05-22**|null|
 |**2025-05-22**|**Derivative coupling in horizon brightened acceleration radiation: a quantum optics approach**|Ashmita Das et.al.|[2505.16897v1](http://arxiv.org/abs/2505.16897v1)|**2025-05-22**|null|
@@ -28,7 +28,7 @@
 |**2025-05-22**|**$d$-dimensional spherical ferromagnets in random fields: Metastates, continuous symmetry breaking, and spin-glass features**|Kalle Koskinen et.al.|[2505.16843v1](http://arxiv.org/abs/2505.16843v1)|**2025-05-22**|null|
 |**2025-05-22**|**OWP-IMU: An RSS-based Optical Wireless and IMU Indoor Positioning Dataset**|Fan Wu et.al.|[2505.16823v1](http://arxiv.org/abs/2505.16823v1)|**2025-05-22**|null|
 |**2025-05-22**|**Two-way Evidence self-Alignment based Dual-Gated Reasoning Enhancement**|Kexin Zhang et.al.|[2505.16806v1](http://arxiv.org/abs/2505.16806v1)|**2025-05-22**|null|
-|**2025-05-22**|**REPA Works Until It Doesn't: Early-Stopped, Holistic Alignment Supercharges Diffusion Training**|Ziqiao Wang et.al.|[2505.16792v1](http://arxiv.org/abs/2505.16792v1)|**2025-05-22**|null|
+|**2025-05-22**|**REPA Works Until It Doesn't: Early-Stopped, Holistic Alignment Supercharges Diffusion Training**|Ziqiao Wang et.al.|[2505.16792v1](http://arxiv.org/abs/2505.16792v1)|**2025-05-22**|[link](https://github.com/nus-hpc-ai-lab/haste)|
 |**2025-05-22**|**Interpretable contour level selection for heat maps for gridded data**|Tarn Duong et.al.|[2505.16788v1](http://arxiv.org/abs/2505.16788v1)|**2025-05-22**|null|
-|**2025-05-22**|**Single Domain Generalization for Few-Shot Counting via Universal Representation Matching**|Xianing Chen et.al.|[2505.16778v1](http://arxiv.org/abs/2505.16778v1)|**2025-05-22**|null|
+|**2025-05-22**|**Single Domain Generalization for Few-Shot Counting via Universal Representation Matching**|Xianing Chen et.al.|[2505.16778v1](http://arxiv.org/abs/2505.16778v1)|**2025-05-22**|[link](https://github.com/jbr97/urm)|
 |**2025-05-22**|**Data-Driven Breakthroughs and Future Directions in AI Infrastructure: A Comprehensive Review**|Beyazit Bestami Yuksel et.al.|[2505.16771v1](http://arxiv.org/abs/2505.16771v1)|**2025-05-22**|null|
