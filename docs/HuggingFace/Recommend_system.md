@@ -3117,6 +3117,7 @@ Updated on 2025-05-26
 | 427 | 204 | microsoft/MAI-DS-R1Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/microsoft/MAI-DS-R1) |
 | 11.7k | 196 | smirki/UIGEN-T1-Qwen-7bText | Updated5 days ago | [Link](https://huggingface.co/smirki/UIGEN-T1-Qwen-7b) |
 | 77 | 159 | manycore-research/SpatialLM-Llama-1BText | Updated4 days ago | [Link](https://huggingface.co/manycore-research/SpatialLM-Llama-1B) |
+| 6.18k | 156 | google/medgemma-27b-text-itText | Updated18 minutes ago | [Link](https://huggingface.co/google/medgemma-27b-text-it) |
 | 2.25k | 153 | open-thoughts/OpenThinker-32BText | Updated11 days ago | [Link](https://huggingface.co/open-thoughts/OpenThinker-32B) |
 | 38 | 143 | qihoo360/TinyR1-32B-PreviewText | Updatedabout 17 hours ago | [Link](https://huggingface.co/qihoo360/TinyR1-32B-Preview) |
 | 176 | 109 | nvidia/DeepSeek-R1-FP4Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/nvidia/DeepSeek-R1-FP4) |
