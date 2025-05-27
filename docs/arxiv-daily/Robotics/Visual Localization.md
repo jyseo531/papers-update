@@ -28,7 +28,7 @@
 |**2025-05-22**|**A Shape-Aware Total Body Photography System for In-focus Surface Coverage Optimization**|Wei-Lun Huang et.al.|[2505.16228v1](http://arxiv.org/abs/2505.16228v1)|**2025-05-22**|null|
 |**2025-05-22**|**Multimodal Online Federated Learning with Modality Missing in Internet of Things**|Heqiang Wang et.al.|[2505.16138v1](http://arxiv.org/abs/2505.16138v1)|**2025-05-22**|null|
 |**2025-05-22**|**A Generic Framework for Conformal Fairness**|Aditya T. Vadlamani et.al.|[2505.16115v1](http://arxiv.org/abs/2505.16115v1)|**2025-05-22**|[link](https://github.com/adityavadlamani/conformal-fairness)|
-|**2025-05-21**|**Proactive Hierarchical Control Barrier Function-Based Safety Prioritization in Close Human-Robot Interaction Scenarios**|Patanjali Maithania et.al.|[2505.16055v1](http://arxiv.org/abs/2505.16055v1)|**2025-05-21**|null|
+|**2025-05-21**|**Proactive Hierarchical Control Barrier Function-Based Safety Prioritization in Close Human-Robot Interaction Scenarios**|Patanjali Maithani et.al.|[2505.16055v2](http://arxiv.org/abs/2505.16055v2)|**2025-05-25**|null|
 |**2025-05-21**|**Learning better representations for crowded pedestrians in offboard LiDAR-camera 3D tracking-by-detection**|Shichao Li et.al.|[2505.16029v1](http://arxiv.org/abs/2505.16029v1)|**2025-05-21**|null|
 |**2025-05-21**|**Super-Resolution with Structured Motion**|Gabby Litterio et.al.|[2505.15961v1](http://arxiv.org/abs/2505.15961v1)|**2025-05-21**|null|
 |**2025-05-21**|**A Taxonomy of Structure from Motion Methods**|Federica Arrigoni et.al.|[2505.15814v1](http://arxiv.org/abs/2505.15814v1)|**2025-05-21**|null|

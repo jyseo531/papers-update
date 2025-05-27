@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-05-23**|**REN: Fast and Efficient Region Encodings from Patch-Based Image Encoders**|Savya Khosla et.al.|[2505.18153v1](http://arxiv.org/abs/2505.18153v1)|**2025-05-23**|null|
 |**2025-05-23**|**Stochastic agent-based Monte Carlo simulations for reaction-diffusion models, population dynamics, and epidemic spreading**|Mohamed Swailem et.al.|[2505.18145v1](http://arxiv.org/abs/2505.18145v1)|**2025-05-23**|null|
-|**2025-05-23**|**TokBench: Evaluating Your Visual Tokenizer before Visual Generation**|Junfeng Wu et.al.|[2505.18142v1](http://arxiv.org/abs/2505.18142v1)|**2025-05-23**|null|
+|**2025-05-23**|**TokBench: Evaluating Your Visual Tokenizer before Visual Generation**|Junfeng Wu et.al.|[2505.18142v2](http://arxiv.org/abs/2505.18142v2)|**2025-05-26**|null|
 |**2025-05-23**|**Embracing Contradiction: Theoretical Inconsistency Will Not Impede the Road of Building Responsible AI Systems**|Gordon Dai et.al.|[2505.18139v1](http://arxiv.org/abs/2505.18139v1)|**2025-05-23**|null|
 |**2025-05-23**|**VideoGameBench: Can Vision-Language Models complete popular video games?**|Alex L. Zhang et.al.|[2505.18134v1](http://arxiv.org/abs/2505.18134v1)|**2025-05-23**|null|
 |**2025-05-23**|**One RL to See Them All: Visual Triple Unified Reinforcement Learning**|Yan Ma et.al.|[2505.18129v1](http://arxiv.org/abs/2505.18129v1)|**2025-05-23**|null|
@@ -16,7 +16,7 @@
 |**2025-05-23**|**Beyond flat-panel displays, applications of stereographic and holographic devices in 3D microscopy data analysis**|Yong Wan et.al.|[2505.18075v1](http://arxiv.org/abs/2505.18075v1)|**2025-05-23**|null|
 |**2025-05-23**|**Towards Uncertainty Aware Task Delegation and Human-AI Collaborative Decision-Making**|Min Hun Lee et.al.|[2505.18066v1](http://arxiv.org/abs/2505.18066v1)|**2025-05-23**|null|
 |**2025-05-23**|**Asymptotically optimal regret in communicating Markov decision processes**|Victor Boone et.al.|[2505.18064v1](http://arxiv.org/abs/2505.18064v1)|**2025-05-23**|null|
-|**2025-05-23**|**Semantic Correspondence: Unified Benchmarking and a Strong Baseline**|Kaiyan Zhang et.al.|[2505.18060v1](http://arxiv.org/abs/2505.18060v1)|**2025-05-23**|[link](https://github.com/Visual-AI/Semantic-Correspondence)|
+|**2025-05-23**|**Semantic Correspondence: Unified Benchmarking and a Strong Baseline**|Kaiyan Zhang et.al.|[2505.18060v2](http://arxiv.org/abs/2505.18060v2)|**2025-05-26**|[link](https://github.com/Visual-AI/Semantic-Correspondence)|
 |**2025-05-23**|**A Foundation Model Framework for Multi-View MRI Classification of Extramural Vascular Invasion and Mesorectal Fascia Invasion in Rectal Cancer**|Yumeng Zhang et.al.|[2505.18058v1](http://arxiv.org/abs/2505.18058v1)|**2025-05-23**|null|
 |**2025-05-23**|**LookWhere? Efficient Visual Recognition by Learning Where to Look and What to See from Self-Supervision**|Anthony Fuller et.al.|[2505.18051v1](http://arxiv.org/abs/2505.18051v1)|**2025-05-23**|null|
 |**2025-05-23**|**SpikeGen: Generative Framework for Visual Spike Stream Processing**|Gaole Dai et.al.|[2505.18049v1](http://arxiv.org/abs/2505.18049v1)|**2025-05-23**|null|

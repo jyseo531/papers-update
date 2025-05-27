@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-05-23**|**WonderPlay: Dynamic 3D Scene Generation from a Single Image and Actions**|Zizhang Li et.al.|[2505.18151v1](http://arxiv.org/abs/2505.18151v1)|**2025-05-23**|null|
 |**2025-05-23**|**Statistical Localization in a Rydberg Simulator of $U(1)$ Lattice Gauge Theory**|Prithvi Raj Datla et.al.|[2505.18143v1](http://arxiv.org/abs/2505.18143v1)|**2025-05-23**|null|
-|**2025-05-23**|**TokBench: Evaluating Your Visual Tokenizer before Visual Generation**|Junfeng Wu et.al.|[2505.18142v1](http://arxiv.org/abs/2505.18142v1)|**2025-05-23**|null|
+|**2025-05-23**|**TokBench: Evaluating Your Visual Tokenizer before Visual Generation**|Junfeng Wu et.al.|[2505.18142v2](http://arxiv.org/abs/2505.18142v2)|**2025-05-26**|null|
 |**2025-05-23**|**UNJOIN: Enhancing Multi-Table Text-to-SQL Generation via Schema Simplification**|Poojah Ganesan et.al.|[2505.18122v1](http://arxiv.org/abs/2505.18122v1)|**2025-05-23**|null|
 |**2025-05-23**|**Structural Dynamics of Harmful Content Dissemination on WhatsApp**|Yuxin Liu et.al.|[2505.18099v1](http://arxiv.org/abs/2505.18099v1)|**2025-05-23**|null|
 |**2025-05-23**|**DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations**|Ziqiao Peng et.al.|[2505.18096v1](http://arxiv.org/abs/2505.18096v1)|**2025-05-23**|null|

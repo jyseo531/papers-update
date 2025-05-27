@@ -15,7 +15,7 @@
 |**2025-05-23**|**CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays**|Hyungyung Lee et.al.|[2505.18087v1](http://arxiv.org/abs/2505.18087v1)|**2025-05-23**|null|
 |**2025-05-23**|**Deep Video Discovery: Agentic Search with Tool Use for Long-form Video Understanding**|Xiaoyi Zhang et.al.|[2505.18079v1](http://arxiv.org/abs/2505.18079v1)|**2025-05-23**|null|
 |**2025-05-23**|**DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation**|Junhao Chen et.al.|[2505.18078v1](http://arxiv.org/abs/2505.18078v1)|**2025-05-23**|null|
-|**2025-05-23**|**Semantic Correspondence: Unified Benchmarking and a Strong Baseline**|Kaiyan Zhang et.al.|[2505.18060v1](http://arxiv.org/abs/2505.18060v1)|**2025-05-23**|[link](https://github.com/Visual-AI/Semantic-Correspondence)|
+|**2025-05-23**|**Semantic Correspondence: Unified Benchmarking and a Strong Baseline**|Kaiyan Zhang et.al.|[2505.18060v2](http://arxiv.org/abs/2505.18060v2)|**2025-05-26**|[link](https://github.com/Visual-AI/Semantic-Correspondence)|
 |**2025-05-23**|**FDBPL: Faster Distillation-Based Prompt Learning for Region-Aware Vision-Language Models Adaptation**|Zherui Zhang et.al.|[2505.18053v1](http://arxiv.org/abs/2505.18053v1)|**2025-05-23**|null|
 |**2025-05-23**|**BOTM: Echocardiography Segmentation via Bi-directional Optimal Token Matching**|Zhihua Liu et.al.|[2505.18052v1](http://arxiv.org/abs/2505.18052v1)|**2025-05-23**|null|
 |**2025-05-23**|**LookWhere? Efficient Visual Recognition by Learning Where to Look and What to See from Self-Supervision**|Anthony Fuller et.al.|[2505.18051v1](http://arxiv.org/abs/2505.18051v1)|**2025-05-23**|null|

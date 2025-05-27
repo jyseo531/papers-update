@@ -6,7 +6,7 @@
 |**2025-05-23**|**WonderPlay: Dynamic 3D Scene Generation from a Single Image and Actions**|Zizhang Li et.al.|[2505.18151v1](http://arxiv.org/abs/2505.18151v1)|**2025-05-23**|null|
 |**2025-05-23**|**Generative Distribution Embeddings**|Nic Fishman et.al.|[2505.18150v1](http://arxiv.org/abs/2505.18150v1)|**2025-05-23**|null|
 |**2025-05-23**|**First Finish Search: Efficient Test-Time Scaling in Large Language Models**|Aradhye Agarwal et.al.|[2505.18149v1](http://arxiv.org/abs/2505.18149v1)|**2025-05-23**|null|
-|**2025-05-23**|**TokBench: Evaluating Your Visual Tokenizer before Visual Generation**|Junfeng Wu et.al.|[2505.18142v1](http://arxiv.org/abs/2505.18142v1)|**2025-05-23**|null|
+|**2025-05-23**|**TokBench: Evaluating Your Visual Tokenizer before Visual Generation**|Junfeng Wu et.al.|[2505.18142v2](http://arxiv.org/abs/2505.18142v2)|**2025-05-26**|null|
 |**2025-05-23**|**INN-FF: A Scalable and Efficient Machine Learning Potential for Molecular Dynamics**|Taskin Mehereen et.al.|[2505.18141v1](http://arxiv.org/abs/2505.18141v1)|**2025-05-23**|null|
 |**2025-05-23**|**UNJOIN: Enhancing Multi-Table Text-to-SQL Generation via Schema Simplification**|Poojah Ganesan et.al.|[2505.18122v1](http://arxiv.org/abs/2505.18122v1)|**2025-05-23**|null|
 |**2025-05-23**|**Bridging Supervised Learning and Reinforcement Learning in Math Reasoning**|Huayu Chen et.al.|[2505.18116v1](http://arxiv.org/abs/2505.18116v1)|**2025-05-23**|null|
@@ -18,7 +18,7 @@
 |**2025-05-23**|**DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation**|Junhao Chen et.al.|[2505.18078v1](http://arxiv.org/abs/2505.18078v1)|**2025-05-23**|null|
 |**2025-05-23**|**Image rotation in plasmas**|Renaud Gueroult et.al.|[2505.18062v1](http://arxiv.org/abs/2505.18062v1)|**2025-05-23**|null|
 |**2025-05-23**|**Posted Pricing and Competition in Large Markets**|José Correa et.al.|[2505.18061v1](http://arxiv.org/abs/2505.18061v1)|**2025-05-23**|null|
-|**2025-05-23**|**Semantic Correspondence: Unified Benchmarking and a Strong Baseline**|Kaiyan Zhang et.al.|[2505.18060v1](http://arxiv.org/abs/2505.18060v1)|**2025-05-23**|[link](https://github.com/Visual-AI/Semantic-Correspondence)|
+|**2025-05-23**|**Semantic Correspondence: Unified Benchmarking and a Strong Baseline**|Kaiyan Zhang et.al.|[2505.18060v2](http://arxiv.org/abs/2505.18060v2)|**2025-05-26**|[link](https://github.com/Visual-AI/Semantic-Correspondence)|
 |**2025-05-23**|**A Foundation Model Framework for Multi-View MRI Classification of Extramural Vascular Invasion and Mesorectal Fascia Invasion in Rectal Cancer**|Yumeng Zhang et.al.|[2505.18058v1](http://arxiv.org/abs/2505.18058v1)|**2025-05-23**|null|
 |**2025-05-23**|**BOTM: Echocardiography Segmentation via Bi-directional Optimal Token Matching**|Zhihua Liu et.al.|[2505.18052v1](http://arxiv.org/abs/2505.18052v1)|**2025-05-23**|null|
 |**2025-05-23**|**LookWhere? Efficient Visual Recognition by Learning Where to Look and What to See from Self-Supervision**|Anthony Fuller et.al.|[2505.18051v1](http://arxiv.org/abs/2505.18051v1)|**2025-05-23**|null|

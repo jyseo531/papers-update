@@ -17,7 +17,7 @@
 |**2025-05-23**|**First astrometric constraints on parity-violation in the gravitational wave background**|Santiago Jaraba et.al.|[2505.18085v1](http://arxiv.org/abs/2505.18085v1)|**2025-05-23**|null|
 |**2025-05-23**|**Bayesian Deep Learning for Discrete Choice**|Daniel F. Villarraga et.al.|[2505.18077v1](http://arxiv.org/abs/2505.18077v1)|**2025-05-23**|null|
 |**2025-05-23**|**Posted Pricing and Competition in Large Markets**|José Correa et.al.|[2505.18061v1](http://arxiv.org/abs/2505.18061v1)|**2025-05-23**|null|
-|**2025-05-23**|**Semantic Correspondence: Unified Benchmarking and a Strong Baseline**|Kaiyan Zhang et.al.|[2505.18060v1](http://arxiv.org/abs/2505.18060v1)|**2025-05-23**|[link](https://github.com/Visual-AI/Semantic-Correspondence)|
+|**2025-05-23**|**Semantic Correspondence: Unified Benchmarking and a Strong Baseline**|Kaiyan Zhang et.al.|[2505.18060v2](http://arxiv.org/abs/2505.18060v2)|**2025-05-26**|[link](https://github.com/Visual-AI/Semantic-Correspondence)|
 |**2025-05-23**|**BOTM: Echocardiography Segmentation via Bi-directional Optimal Token Matching**|Zhihua Liu et.al.|[2505.18052v1](http://arxiv.org/abs/2505.18052v1)|**2025-05-23**|null|
 |**2025-05-23**|**Rethinking Climate Econometrics: Data Cleaning, Flexible Trend Controls, and Predictive Validation**|Christof Schötz et.al.|[2505.18033v1](http://arxiv.org/abs/2505.18033v1)|**2025-05-23**|null|
 |**2025-05-23**|**3D Face Reconstruction Error Decomposed: A Modular Benchmark for Fair and Fast Method Evaluation**|Evangelos Sariyanidi et.al.|[2505.18025v1](http://arxiv.org/abs/2505.18025v1)|**2025-05-23**|null|

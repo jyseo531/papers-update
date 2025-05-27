@@ -15,7 +15,7 @@
 |**2025-05-23**|**Stochastic agent-based Monte Carlo simulations for reaction-diffusion models, population dynamics, and epidemic spreading**|Mohamed Swailem et.al.|[2505.18145v1](http://arxiv.org/abs/2505.18145v1)|**2025-05-23**|null|
 |**2025-05-23**|**Grand Theft Moons. Formation of habitable moons around giant planets**|Zoltan Dencs et.al.|[2505.18144v1](http://arxiv.org/abs/2505.18144v1)|**2025-05-23**|null|
 |**2025-05-23**|**Statistical Localization in a Rydberg Simulator of $U(1)$ Lattice Gauge Theory**|Prithvi Raj Datla et.al.|[2505.18143v1](http://arxiv.org/abs/2505.18143v1)|**2025-05-23**|null|
-|**2025-05-23**|**TokBench: Evaluating Your Visual Tokenizer before Visual Generation**|Junfeng Wu et.al.|[2505.18142v1](http://arxiv.org/abs/2505.18142v1)|**2025-05-23**|null|
+|**2025-05-23**|**TokBench: Evaluating Your Visual Tokenizer before Visual Generation**|Junfeng Wu et.al.|[2505.18142v2](http://arxiv.org/abs/2505.18142v2)|**2025-05-26**|null|
 |**2025-05-23**|**INN-FF: A Scalable and Efficient Machine Learning Potential for Molecular Dynamics**|Taskin Mehereen et.al.|[2505.18141v1](http://arxiv.org/abs/2505.18141v1)|**2025-05-23**|null|
 |**2025-05-23**|**Effect of Fluorine doping on the electrocatalytic properties of Nb2O5 for H2O2 electrogeneration**|Aline B. Trench et.al.|[2505.18140v1](http://arxiv.org/abs/2505.18140v1)|**2025-05-23**|null|
 |**2025-05-23**|**Embracing Contradiction: Theoretical Inconsistency Will Not Impede the Road of Building Responsible AI Systems**|Gordon Dai et.al.|[2505.18139v1](http://arxiv.org/abs/2505.18139v1)|**2025-05-23**|null|
@@ -24,7 +24,7 @@
 |**2025-05-23**|**Graph-Linguistic Fusion: Using Language Models for Wikidata Vandalism Detection**|Mykola Trokhymovych et.al.|[2505.18136v1](http://arxiv.org/abs/2505.18136v1)|**2025-05-23**|null|
 |**2025-05-23**|**Gaming Tool Preferences in Agentic LLMs**|Kazem Faghih et.al.|[2505.18135v1](http://arxiv.org/abs/2505.18135v1)|**2025-05-23**|null|
 |**2025-05-23**|**VideoGameBench: Can Vision-Language Models complete popular video games?**|Alex L. Zhang et.al.|[2505.18134v1](http://arxiv.org/abs/2505.18134v1)|**2025-05-23**|null|
-|**2025-05-23**|**Joint Encryption and Error Correction for Secure Quantum Communication**|Nitin Jha et.al.|[2505.18133v1](http://arxiv.org/abs/2505.18133v1)|**2025-05-23**|null|
+|**2025-05-23**|**Joint Encryption and Error Correction for Secure Quantum Communication**|Nitin Jha et.al.|[2505.18133v2](http://arxiv.org/abs/2505.18133v2)|**2025-05-26**|null|
 |**2025-05-23**|**BiggerGait: Unlocking Gait Recognition with Layer-wise Representations from Large Vision Models**|Dingqing Ye et.al.|[2505.18132v1](http://arxiv.org/abs/2505.18132v1)|**2025-05-23**|null|
 |**2025-05-23**|**Leveraging KANs for Expedient Training of Multichannel MLPs via Preconditioning and Geometric Refinement**|Jonas A. Actor et.al.|[2505.18131v1](http://arxiv.org/abs/2505.18131v1)|**2025-05-23**|null|
 |**2025-05-23**|**One RL to See Them All: Visual Triple Unified Reinforcement Learning**|Yan Ma et.al.|[2505.18129v1](http://arxiv.org/abs/2505.18129v1)|**2025-05-23**|null|

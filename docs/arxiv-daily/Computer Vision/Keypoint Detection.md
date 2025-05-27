@@ -2,7 +2,7 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-23**|**Semantic Correspondence: Unified Benchmarking and a Strong Baseline**|Kaiyan Zhang et.al.|[2505.18060v1](http://arxiv.org/abs/2505.18060v1)|**2025-05-23**|[link](https://github.com/Visual-AI/Semantic-Correspondence)|
+|**2025-05-23**|**Semantic Correspondence: Unified Benchmarking and a Strong Baseline**|Kaiyan Zhang et.al.|[2505.18060v2](http://arxiv.org/abs/2505.18060v2)|**2025-05-26**|[link](https://github.com/Visual-AI/Semantic-Correspondence)|
 |**2025-05-23**|**Contrastive Distillation of Emotion Knowledge from LLMs for Zero-Shot Emotion Recognition**|Minxue Niu et.al.|[2505.18040v1](http://arxiv.org/abs/2505.18040v1)|**2025-05-23**|null|
 |**2025-05-23**|**Directed Semi-Simplicial Learning with Applications to Brain Activity Decoding**|Manuel Lecha et.al.|[2505.17939v1](http://arxiv.org/abs/2505.17939v1)|**2025-05-23**|null|
 |**2025-05-23**|**ICPL-ReID: Identity-Conditional Prompt Learning for Multi-Spectral Object Re-Identification**|Shihao Li et.al.|[2505.17821v1](http://arxiv.org/abs/2505.17821v1)|**2025-05-23**|null|
@@ -17,7 +17,7 @@
 |**2025-05-22**|**RE-TRIP : Reflectivity Instance Augmented Triangle Descriptor for 3D Place Recognition**|Yechan Park et.al.|[2505.16165v1](http://arxiv.org/abs/2505.16165v1)|**2025-05-22**|[link](https://github.com/pyc5714/re-trip)|
 |**2025-05-22**|**GMatch: Geometry-Constrained Feature Matching for RGB-D Object Pose Estimation**|Ming Yang et.al.|[2505.16144v1](http://arxiv.org/abs/2505.16144v1)|**2025-05-22**|null|
 |**2025-05-21**|**Mouse Lockbox Dataset: Behavior Recognition for Mice Solving Lockboxes**|Patrik Reiske et.al.|[2505.15408v1](http://arxiv.org/abs/2505.15408v1)|**2025-05-21**|null|
-|**2025-05-21**|**On the Relevance of Clinical Assessment Tasks for the Automatic Detection of Parkinson's Disease Medication State from Speech**|David Gimeno-Gómez et.al.|[2505.15378v1](http://arxiv.org/abs/2505.15378v1)|**2025-05-21**|null|
+|**2025-05-21**|**On the Relevance of Clinical Assessment Tasks for the Automatic Detection of Parkinson's Disease Medication State from Speech**|David Gimeno-Gómez et.al.|[2505.15378v2](http://arxiv.org/abs/2505.15378v2)|**2025-05-26**|null|
 |**2025-05-20**|**UPTor: Unified 3D Human Pose Dynamics and Trajectory Prediction for Human-Robot Interaction**|Nisarga Nilavadi et.al.|[2505.14866v1](http://arxiv.org/abs/2505.14866v1)|**2025-05-20**|null|
 |**2025-05-20**|**AudSemThinker: Enhancing Audio-Language Models through Reasoning over Semantics of Sound**|Gijs Wijngaard et.al.|[2505.14142v1](http://arxiv.org/abs/2505.14142v1)|**2025-05-20**|[link](https://github.com/gljs/audsemthinker)|
 |**2025-05-20**|**Place Recognition: A Comprehensive Review, Current Challenges and Future Directions**|Zhenyu Li et.al.|[2505.14068v2](http://arxiv.org/abs/2505.14068v2)|**2025-05-22**|[link](https://github.com/cv4ra/sota-place-recognitioner)|

@@ -30,5 +30,5 @@
 |**2025-05-23**|**Hephaestus Minicubes: A Global, Multi-Modal Dataset for Volcanic Unrest Monitoring**|Nikolas Papadopoulos et.al.|[2505.17782v1](http://arxiv.org/abs/2505.17782v1)|**2025-05-23**|null|
 |**2025-05-23**|**But what is your honest answer? Aiding LLM-judges with honest alternatives using steering vectors**|Leon Eshuijs et.al.|[2505.17760v1](http://arxiv.org/abs/2505.17760v1)|**2025-05-23**|null|
 |**2025-05-23**|**MetaBox-v2: A Unified Benchmark Platform for Meta-Black-Box Optimization**|Zeyuan Ma et.al.|[2505.17745v1](http://arxiv.org/abs/2505.17745v1)|**2025-05-23**|null|
-|**2025-05-23**|**Slot-MLLM: Object-Centric Visual Tokenization for Multimodal LLM**|Donghwan Chi et.al.|[2505.17726v1](http://arxiv.org/abs/2505.17726v1)|**2025-05-23**|null|
+|**2025-05-23**|**Slot-MLLM: Object-Centric Visual Tokenization for Multimodal LLM**|Donghwan Chi et.al.|[2505.17726v2](http://arxiv.org/abs/2505.17726v2)|**2025-05-26**|null|
 |**2025-05-23**|**SeaLion: Semantic Part-Aware Latent Point Diffusion Models for 3D Generation**|Dekai Zhu et.al.|[2505.17721v1](http://arxiv.org/abs/2505.17721v1)|**2025-05-23**|null|

@@ -31,4 +31,4 @@
 |**2025-05-23**|**A Unified Multi-Scale Attention-Based Network for Automatic 3D Segmentation of Lung Parenchyma & Nodules In Thoracic CT Images**|Muhammad Abdullah et.al.|[2505.17602v1](http://arxiv.org/abs/2505.17602v1)|**2025-05-23**|null|
 |**2025-05-23**|**CGS-GAN: 3D Consistent Gaussian Splatting GANs for High Resolution Human Head Synthesis**|Florian Barthel et.al.|[2505.17590v1](http://arxiv.org/abs/2505.17590v1)|**2025-05-23**|null|
 |**2025-05-23**|**MEGADance: Mixture-of-Experts Architecture for Genre-Aware 3D Dance Generation**|Kaixing Yang et.al.|[2505.17543v1](http://arxiv.org/abs/2505.17543v1)|**2025-05-23**|null|
-|**2025-05-23**|**SUFFICIENT: A scan-specific unsupervised deep learning framework for high-resolution 3D isotropic fetal brain MRI reconstruction**|Jiangjie Wu et.al.|[2505.17472v1](http://arxiv.org/abs/2505.17472v1)|**2025-05-23**|null|
+|**2025-05-23**|**SUFFICIENT: A scan-specific unsupervised deep learning framework for high-resolution 3D isotropic fetal brain MRI reconstruction**|Jiangjie Wu et.al.|[2505.17472v2](http://arxiv.org/abs/2505.17472v2)|**2025-05-26**|null|

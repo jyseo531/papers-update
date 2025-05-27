@@ -5,7 +5,7 @@
 |**2025-05-23**|**REN: Fast and Efficient Region Encodings from Patch-Based Image Encoders**|Savya Khosla et.al.|[2505.18153v1](http://arxiv.org/abs/2505.18153v1)|**2025-05-23**|null|
 |**2025-05-23**|**Generative Distribution Embeddings**|Nic Fishman et.al.|[2505.18150v1](http://arxiv.org/abs/2505.18150v1)|**2025-05-23**|null|
 |**2025-05-23**|**First Finish Search: Efficient Test-Time Scaling in Large Language Models**|Aradhye Agarwal et.al.|[2505.18149v1](http://arxiv.org/abs/2505.18149v1)|**2025-05-23**|null|
-|**2025-05-23**|**TokBench: Evaluating Your Visual Tokenizer before Visual Generation**|Junfeng Wu et.al.|[2505.18142v1](http://arxiv.org/abs/2505.18142v1)|**2025-05-23**|null|
+|**2025-05-23**|**TokBench: Evaluating Your Visual Tokenizer before Visual Generation**|Junfeng Wu et.al.|[2505.18142v2](http://arxiv.org/abs/2505.18142v2)|**2025-05-26**|null|
 |**2025-05-23**|**Embracing Contradiction: Theoretical Inconsistency Will Not Impede the Road of Building Responsible AI Systems**|Gordon Dai et.al.|[2505.18139v1](http://arxiv.org/abs/2505.18139v1)|**2025-05-23**|null|
 |**2025-05-23**|**VideoGameBench: Can Vision-Language Models complete popular video games?**|Alex L. Zhang et.al.|[2505.18134v1](http://arxiv.org/abs/2505.18134v1)|**2025-05-23**|null|
 |**2025-05-23**|**Comment on "Geometry of the Grosse-Wulkenhaar model"**|Dragan Prekrat et.al.|[2505.18123v1](http://arxiv.org/abs/2505.18123v1)|**2025-05-23**|null|

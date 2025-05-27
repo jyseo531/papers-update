@@ -6,7 +6,7 @@
 |**2025-05-23**|**Generative Distribution Embeddings**|Nic Fishman et.al.|[2505.18150v1](http://arxiv.org/abs/2505.18150v1)|**2025-05-23**|null|
 |**2025-05-23**|**INN-FF: A Scalable and Efficient Machine Learning Potential for Molecular Dynamics**|Taskin Mehereen et.al.|[2505.18141v1](http://arxiv.org/abs/2505.18141v1)|**2025-05-23**|null|
 |**2025-05-23**|**Graph-Linguistic Fusion: Using Language Models for Wikidata Vandalism Detection**|Mykola Trokhymovych et.al.|[2505.18136v1](http://arxiv.org/abs/2505.18136v1)|**2025-05-23**|null|
-|**2025-05-23**|**Joint Encryption and Error Correction for Secure Quantum Communication**|Nitin Jha et.al.|[2505.18133v1](http://arxiv.org/abs/2505.18133v1)|**2025-05-23**|null|
+|**2025-05-23**|**Joint Encryption and Error Correction for Secure Quantum Communication**|Nitin Jha et.al.|[2505.18133v2](http://arxiv.org/abs/2505.18133v2)|**2025-05-26**|null|
 |**2025-05-23**|**Leveraging KANs for Expedient Training of Multichannel MLPs via Preconditioning and Geometric Refinement**|Jonas A. Actor et.al.|[2505.18131v1](http://arxiv.org/abs/2505.18131v1)|**2025-05-23**|null|
 |**2025-05-23**|**Scalable Policy Maximization Under Network Interference**|Aidan Gleich et.al.|[2505.18118v1](http://arxiv.org/abs/2505.18118v1)|**2025-05-23**|null|
 |**2025-05-23**|**Multi-Modal Spectral Parametrization Method (MMSPM) for analyzing EEG activity with distinct scaling regimes**|Frigyes Samuel Racz et.al.|[2505.18117v1](http://arxiv.org/abs/2505.18117v1)|**2025-05-23**|null|

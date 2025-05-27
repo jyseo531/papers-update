@@ -10,14 +10,14 @@
 |**2025-05-23**|**Lost in the Haystack: Smaller Needles are More Difficult for LLMs to Find**|Owen Bianchi et.al.|[2505.18148v1](http://arxiv.org/abs/2505.18148v1)|**2025-05-23**|null|
 |**2025-05-23**|**Stochastic agent-based Monte Carlo simulations for reaction-diffusion models, population dynamics, and epidemic spreading**|Mohamed Swailem et.al.|[2505.18145v1](http://arxiv.org/abs/2505.18145v1)|**2025-05-23**|null|
 |**2025-05-23**|**Statistical Localization in a Rydberg Simulator of $U(1)$ Lattice Gauge Theory**|Prithvi Raj Datla et.al.|[2505.18143v1](http://arxiv.org/abs/2505.18143v1)|**2025-05-23**|null|
-|**2025-05-23**|**TokBench: Evaluating Your Visual Tokenizer before Visual Generation**|Junfeng Wu et.al.|[2505.18142v1](http://arxiv.org/abs/2505.18142v1)|**2025-05-23**|null|
+|**2025-05-23**|**TokBench: Evaluating Your Visual Tokenizer before Visual Generation**|Junfeng Wu et.al.|[2505.18142v2](http://arxiv.org/abs/2505.18142v2)|**2025-05-26**|null|
 |**2025-05-23**|**INN-FF: A Scalable and Efficient Machine Learning Potential for Molecular Dynamics**|Taskin Mehereen et.al.|[2505.18141v1](http://arxiv.org/abs/2505.18141v1)|**2025-05-23**|null|
 |**2025-05-23**|**Embracing Contradiction: Theoretical Inconsistency Will Not Impede the Road of Building Responsible AI Systems**|Gordon Dai et.al.|[2505.18139v1](http://arxiv.org/abs/2505.18139v1)|**2025-05-23**|null|
 |**2025-05-23**|**Near-SUSY to Non-SUSY Crossover**|Dan Kondo et.al.|[2505.18138v1](http://arxiv.org/abs/2505.18138v1)|**2025-05-23**|null|
 |**2025-05-23**|**Boosting Open Set Recognition Performance through Modulated Representation Learning**|Amit Kumar Kundu et.al.|[2505.18137v1](http://arxiv.org/abs/2505.18137v1)|**2025-05-23**|null|
 |**2025-05-23**|**Gaming Tool Preferences in Agentic LLMs**|Kazem Faghih et.al.|[2505.18135v1](http://arxiv.org/abs/2505.18135v1)|**2025-05-23**|null|
 |**2025-05-23**|**VideoGameBench: Can Vision-Language Models complete popular video games?**|Alex L. Zhang et.al.|[2505.18134v1](http://arxiv.org/abs/2505.18134v1)|**2025-05-23**|null|
-|**2025-05-23**|**Joint Encryption and Error Correction for Secure Quantum Communication**|Nitin Jha et.al.|[2505.18133v1](http://arxiv.org/abs/2505.18133v1)|**2025-05-23**|null|
+|**2025-05-23**|**Joint Encryption and Error Correction for Secure Quantum Communication**|Nitin Jha et.al.|[2505.18133v2](http://arxiv.org/abs/2505.18133v2)|**2025-05-26**|null|
 |**2025-05-23**|**BiggerGait: Unlocking Gait Recognition with Layer-wise Representations from Large Vision Models**|Dingqing Ye et.al.|[2505.18132v1](http://arxiv.org/abs/2505.18132v1)|**2025-05-23**|null|
 |**2025-05-23**|**One RL to See Them All: Visual Triple Unified Reinforcement Learning**|Yan Ma et.al.|[2505.18129v1](http://arxiv.org/abs/2505.18129v1)|**2025-05-23**|null|
 |**2025-05-23**|**Frankentext: Stitching random text fragments into long-form narratives**|Chau Minh Pham et.al.|[2505.18128v1](http://arxiv.org/abs/2505.18128v1)|**2025-05-23**|null|

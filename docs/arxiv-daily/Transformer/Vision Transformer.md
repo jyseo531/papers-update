@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-05-23**|**REN: Fast and Efficient Region Encodings from Patch-Based Image Encoders**|Savya Khosla et.al.|[2505.18153v1](http://arxiv.org/abs/2505.18153v1)|**2025-05-23**|null|
 |**2025-05-23**|**WonderPlay: Dynamic 3D Scene Generation from a Single Image and Actions**|Zizhang Li et.al.|[2505.18151v1](http://arxiv.org/abs/2505.18151v1)|**2025-05-23**|null|
-|**2025-05-23**|**TokBench: Evaluating Your Visual Tokenizer before Visual Generation**|Junfeng Wu et.al.|[2505.18142v1](http://arxiv.org/abs/2505.18142v1)|**2025-05-23**|null|
+|**2025-05-23**|**TokBench: Evaluating Your Visual Tokenizer before Visual Generation**|Junfeng Wu et.al.|[2505.18142v2](http://arxiv.org/abs/2505.18142v2)|**2025-05-26**|null|
 |**2025-05-23**|**Boosting Open Set Recognition Performance through Modulated Representation Learning**|Amit Kumar Kundu et.al.|[2505.18137v1](http://arxiv.org/abs/2505.18137v1)|**2025-05-23**|null|
 |**2025-05-23**|**VideoGameBench: Can Vision-Language Models complete popular video games?**|Alex L. Zhang et.al.|[2505.18134v1](http://arxiv.org/abs/2505.18134v1)|**2025-05-23**|null|
 |**2025-05-23**|**BiggerGait: Unlocking Gait Recognition with Layer-wise Representations from Large Vision Models**|Dingqing Ye et.al.|[2505.18132v1](http://arxiv.org/abs/2505.18132v1)|**2025-05-23**|null|
@@ -21,7 +21,7 @@
 |**2025-05-23**|**The Noether formalism for constructing conserved quantities in teleparallel equivalents of general relativity**|E. D. Emtsova et.al.|[2505.18084v1](http://arxiv.org/abs/2505.18084v1)|**2025-05-23**|null|
 |**2025-05-23**|**Deep Video Discovery: Agentic Search with Tool Use for Long-form Video Understanding**|Xiaoyi Zhang et.al.|[2505.18079v1](http://arxiv.org/abs/2505.18079v1)|**2025-05-23**|null|
 |**2025-05-23**|**DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation**|Junhao Chen et.al.|[2505.18078v1](http://arxiv.org/abs/2505.18078v1)|**2025-05-23**|null|
-|**2025-05-23**|**Semantic Correspondence: Unified Benchmarking and a Strong Baseline**|Kaiyan Zhang et.al.|[2505.18060v1](http://arxiv.org/abs/2505.18060v1)|**2025-05-23**|[link](https://github.com/Visual-AI/Semantic-Correspondence)|
+|**2025-05-23**|**Semantic Correspondence: Unified Benchmarking and a Strong Baseline**|Kaiyan Zhang et.al.|[2505.18060v2](http://arxiv.org/abs/2505.18060v2)|**2025-05-26**|[link](https://github.com/Visual-AI/Semantic-Correspondence)|
 |**2025-05-23**|**A Foundation Model Framework for Multi-View MRI Classification of Extramural Vascular Invasion and Mesorectal Fascia Invasion in Rectal Cancer**|Yumeng Zhang et.al.|[2505.18058v1](http://arxiv.org/abs/2505.18058v1)|**2025-05-23**|null|
 |**2025-05-23**|**FDBPL: Faster Distillation-Based Prompt Learning for Region-Aware Vision-Language Models Adaptation**|Zherui Zhang et.al.|[2505.18053v1](http://arxiv.org/abs/2505.18053v1)|**2025-05-23**|null|
 |**2025-05-23**|**BOTM: Echocardiography Segmentation via Bi-directional Optimal Token Matching**|Zhihua Liu et.al.|[2505.18052v1](http://arxiv.org/abs/2505.18052v1)|**2025-05-23**|null|
