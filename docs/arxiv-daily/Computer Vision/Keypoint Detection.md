@@ -2,6 +2,14 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-26**|**Machine Learning the Energetics of Electrified Solid/Liquid Interfaces**|Nicolas Bergmann et.al.|[2505.19745v1](http://arxiv.org/abs/2505.19745v1)|**2025-05-26**|null|
+|**2025-05-26**|**SETBVE: Quality-Diversity Driven Exploration of Software Boundary Behaviors**|Sabinakhon Akbarova et.al.|[2505.19736v1](http://arxiv.org/abs/2505.19736v1)|**2025-05-26**|null|
+|**2025-05-25**|**Words as Geometric Features: Estimating Homography using Optical Character Recognition as Compressed Image Representation**|Ross Greer et.al.|[2505.18925v1](http://arxiv.org/abs/2505.18925v1)|**2025-05-25**|null|
+|**2025-05-24**|**Why Not Replace? Sustaining Long-Term Visual Localization via Handcrafted-Learned Feature Collaboration on CPU**|Yicheng Lin et.al.|[2505.18652v1](http://arxiv.org/abs/2505.18652v1)|**2025-05-24**|null|
+|**2025-05-24**|**Anomaly detection in radio galaxy data with trainable COSFIRE filters**|Steven Ndung'u et.al.|[2505.18643v1](http://arxiv.org/abs/2505.18643v1)|**2025-05-24**|null|
+|**2025-05-24**|**High-Entropy Solid Electrolytes Discovery: A Dual-Stage Machine Learning Framework Bridging Atomic Configurations and Ionic Transport Properties**|Xiao Fu et.al.|[2505.18571v1](http://arxiv.org/abs/2505.18571v1)|**2025-05-24**|null|
+|**2025-05-23**|**ImLPR: Image-based LiDAR Place Recognition using Vision Foundation Models**|Minwoo Jung et.al.|[2505.18364v1](http://arxiv.org/abs/2505.18364v1)|**2025-05-23**|null|
+|**2025-05-23**|**Pose Splatter: A 3D Gaussian Splatting Model for Quantifying Animal Pose and Appearance**|Jack Goffinet et.al.|[2505.18342v1](http://arxiv.org/abs/2505.18342v1)|**2025-05-23**|null|
 |**2025-05-23**|**Semantic Correspondence: Unified Benchmarking and a Strong Baseline**|Kaiyan Zhang et.al.|[2505.18060v2](http://arxiv.org/abs/2505.18060v2)|**2025-05-26**|[link](https://github.com/Visual-AI/Semantic-Correspondence)|
 |**2025-05-23**|**Contrastive Distillation of Emotion Knowledge from LLMs for Zero-Shot Emotion Recognition**|Minxue Niu et.al.|[2505.18040v1](http://arxiv.org/abs/2505.18040v1)|**2025-05-23**|null|
 |**2025-05-23**|**Directed Semi-Simplicial Learning with Applications to Brain Activity Decoding**|Manuel Lecha et.al.|[2505.17939v1](http://arxiv.org/abs/2505.17939v1)|**2025-05-23**|null|
@@ -24,11 +32,3 @@
 |**2025-05-20**|**Active-Spin-State-Derived Descriptor for Hydrogen Evolution Reaction Catalysis**|Yu Tan et.al.|[2505.13786v1](http://arxiv.org/abs/2505.13786v1)|**2025-05-20**|null|
 |**2025-05-19**|**RECON: Robust symmetry discovery via Explicit Canonical Orientation Normalization**|Alonso Urbano et.al.|[2505.13289v1](http://arxiv.org/abs/2505.13289v1)|**2025-05-19**|null|
 |**2025-05-19**|**The Way Up: A Dataset for Hold Usage Detection in Sport Climbing**|Anna Maschek et.al.|[2505.12854v1](http://arxiv.org/abs/2505.12854v1)|**2025-05-19**|null|
-|**2025-05-19**|**Chain-Talker: Chain Understanding and Rendering for Empathetic Conversational Speech Synthesis**|Yifan Hu et.al.|[2505.12597v1](http://arxiv.org/abs/2505.12597v1)|**2025-05-19**|[link](https://github.com/ai-s2-lab/chain-talker)|
-|**2025-05-18**|**DS-ProGen: A Dual-Structure Deep Language Model for Functional Protein Design**|Yanting Li et.al.|[2505.12511v1](http://arxiv.org/abs/2505.12511v1)|**2025-05-18**|null|
-|**2025-05-18**|**SEPT: Standard-Definition Map Enhanced Scene Perception and Topology Reasoning for Autonomous Driving**|Muleilan Pei et.al.|[2505.12246v1](http://arxiv.org/abs/2505.12246v1)|**2025-05-18**|null|
-|**2025-05-17**|**Understanding the Capabilities of Molecular Graph Neural Networks in Materials Science Through Multimodal Learning and Physical Context Encoding**|Can Polat et.al.|[2505.12137v1](http://arxiv.org/abs/2505.12137v1)|**2025-05-17**|null|
-|**2025-05-17**|**Keypoints as Dynamic Centroids for Unified Human Pose and Segmentation**|Niaz Ahmad et.al.|[2505.12130v1](http://arxiv.org/abs/2505.12130v1)|**2025-05-17**|null|
-|**2025-05-17**|**Prediction of Novel CXCR7 Inhibitors Using QSAR Modeling and Validation via Molecular Docking**|Belaguppa Manjunath Ashwin Desai et.al.|[2505.12055v1](http://arxiv.org/abs/2505.12055v1)|**2025-05-17**|null|
-|**2025-05-17**|**Continuous Domain Generalization**|Zekun Cai et.al.|[2505.13519v1](http://arxiv.org/abs/2505.13519v1)|**2025-05-17**|null|
-|**2025-05-17**|**Accelerating the Search for Superconductors Using Machine Learning**|Suhas Adiga et.al.|[2505.11964v1](http://arxiv.org/abs/2505.11964v1)|**2025-05-17**|[link](https://github.com/adigasuhas/accelarating-search-for-superconductors-using-machine-learning)|

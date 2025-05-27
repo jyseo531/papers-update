@@ -2,33 +2,33 @@
 ### Point Cloud
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-23**|**REN: Fast and Efficient Region Encodings from Patch-Based Image Encoders**|Savya Khosla et.al.|[2505.18153v1](http://arxiv.org/abs/2505.18153v1)|**2025-05-23**|null|
-|**2025-05-23**|**Generative Distribution Embeddings**|Nic Fishman et.al.|[2505.18150v1](http://arxiv.org/abs/2505.18150v1)|**2025-05-23**|null|
-|**2025-05-23**|**Comment on "Geometry of the Grosse-Wulkenhaar model"**|Dragan Prekrat et.al.|[2505.18123v1](http://arxiv.org/abs/2505.18123v1)|**2025-05-23**|null|
-|**2025-05-23**|**Zeta functions of K3 categories over finite fields**|Asher Auel et.al.|[2505.18104v1](http://arxiv.org/abs/2505.18104v1)|**2025-05-23**|null|
-|**2025-05-23**|**Ballistic macroscopic fluctuation theory via mapping to point particles**|Jitendra Kethepalli et.al.|[2505.18093v1](http://arxiv.org/abs/2505.18093v1)|**2025-05-23**|null|
-|**2025-05-23**|**QwenLong-CPRS: Towards $\infty$-LLMs with Dynamic Context Optimization**|Weizhou Shen et.al.|[2505.18092v1](http://arxiv.org/abs/2505.18092v1)|**2025-05-23**|null|
-|**2025-05-23**|**Explaining the extra crystal field mode in ACeX2**|Allen O. Scheie et.al.|[2505.18089v1](http://arxiv.org/abs/2505.18089v1)|**2025-05-23**|null|
-|**2025-05-23**|**First astrometric constraints on parity-violation in the gravitational wave background**|Santiago Jaraba et.al.|[2505.18085v1](http://arxiv.org/abs/2505.18085v1)|**2025-05-23**|null|
-|**2025-05-23**|**Bayesian Deep Learning for Discrete Choice**|Daniel F. Villarraga et.al.|[2505.18077v1](http://arxiv.org/abs/2505.18077v1)|**2025-05-23**|null|
-|**2025-05-23**|**Rethinking Climate Econometrics: Data Cleaning, Flexible Trend Controls, and Predictive Validation**|Christof Schötz et.al.|[2505.18033v1](http://arxiv.org/abs/2505.18033v1)|**2025-05-23**|null|
-|**2025-05-23**|**3D Face Reconstruction Error Decomposed: A Modular Benchmark for Fair and Fast Method Evaluation**|Evangelos Sariyanidi et.al.|[2505.18025v1](http://arxiv.org/abs/2505.18025v1)|**2025-05-23**|null|
-|**2025-05-23**|**Pressure tuning of competing interactions on a honeycomb lattice**|Piyush Sakrikar et.al.|[2505.18016v1](http://arxiv.org/abs/2505.18016v1)|**2025-05-23**|null|
-|**2025-05-23**|**A 1.8 m class pathfinder Raman LIDAR for the Northern Site of the Cherenkov Telescope Array Observatory -- Performance**|Pedro Jose Bauza-Ruiz et.al.|[2505.17996v1](http://arxiv.org/abs/2505.17996v1)|**2025-05-23**|null|
-|**2025-05-23**|**Outcome-based Reinforcement Learning to Predict the Future**|Benjamin Turtel et.al.|[2505.17989v1](http://arxiv.org/abs/2505.17989v1)|**2025-05-23**|null|
-|**2025-05-23**|**Inflaton Dynamics in Higher-Derivative Scalar-Tensor Theories of Gravity**|Sam E. Brady et.al.|[2505.17986v1](http://arxiv.org/abs/2505.17986v1)|**2025-05-23**|null|
-|**2025-05-23**|**Mind the Domain Gap: Measuring the Domain Gap Between Real-World and Synthetic Point Clouds for Automated Driving Development**|Nguyen Duc et.al.|[2505.17959v1](http://arxiv.org/abs/2505.17959v1)|**2025-05-23**|null|
-|**2025-05-23**|**The Upward-Driven Disk, a Steadily Forced Chaotic Pendulum**|Leo Maas et.al.|[2505.17957v1](http://arxiv.org/abs/2505.17957v1)|**2025-05-23**|null|
-|**2025-05-23**|**Counting quadratic points on Fano varieties**|Francesca Balestrieri et.al.|[2505.17940v1](http://arxiv.org/abs/2505.17940v1)|**2025-05-23**|null|
-|**2025-05-23**|**Isospectrality and non-locality of generalized Dirac combs**|Giuliano Angelone et.al.|[2505.17920v1](http://arxiv.org/abs/2505.17920v1)|**2025-05-23**|null|
-|**2025-05-23**|**Tunability of the magnetic properties in Ni intercalated transition metal dichalcogenide NbSe$_2$**|Xujia Gong et.al.|[2505.17916v1](http://arxiv.org/abs/2505.17916v1)|**2025-05-23**|null|
-|**2025-05-23**|**Promptable cancer segmentation using minimal expert-curated data**|Lynn Karam et.al.|[2505.17915v1](http://arxiv.org/abs/2505.17915v1)|**2025-05-23**|null|
-|**2025-05-23**|**Legendrian doubles, twist spuns, and clusters**|James Hughes et.al.|[2505.17901v1](http://arxiv.org/abs/2505.17901v1)|**2025-05-23**|null|
-|**2025-05-23**|**DataRater: Meta-Learned Dataset Curation**|Dan A. Calian et.al.|[2505.17895v1](http://arxiv.org/abs/2505.17895v1)|**2025-05-23**|null|
-|**2025-05-23**|**Anisotropic spin-polarized conductivity in collinear altermagnets**|Mingbo Dou et.al.|[2505.17888v1](http://arxiv.org/abs/2505.17888v1)|**2025-05-23**|null|
-|**2025-05-23**|**LLM4SP: Large Language Models for Scatterer Prediction via Synesthesia of Machines**|Zengrui Han et.al.|[2505.17879v1](http://arxiv.org/abs/2505.17879v1)|**2025-05-23**|null|
-|**2025-05-23**|**Robust Distributed Estimation: Extending Gossip Algorithms to Ranking and Trimmed Means**|Anna Van Elst et.al.|[2505.17836v1](http://arxiv.org/abs/2505.17836v1)|**2025-05-23**|null|
-|**2025-05-23**|**Quantifying uncertainty in spectral clusterings: expectations for perturbed and incomplete data**|Jürgen Dölz et.al.|[2505.17819v1](http://arxiv.org/abs/2505.17819v1)|**2025-05-23**|null|
-|**2025-05-23**|**Light-Driven Bound State of Interacting Impurities in a Dirac-Like Bath**|Vinayak M. Kulkarni et.al.|[2505.17811v1](http://arxiv.org/abs/2505.17811v1)|**2025-05-23**|null|
-|**2025-05-23**|**Hyperparameter Optimization via Interacting with Probabilistic Circuits**|Jonas Seng et.al.|[2505.17804v1](http://arxiv.org/abs/2505.17804v1)|**2025-05-23**|null|
-|**2025-05-23**|**Anytime-valid simultaneous lower confidence bounds for the true discovery proportion**|Friederike Preusse et.al.|[2505.17803v1](http://arxiv.org/abs/2505.17803v1)|**2025-05-23**|null|
+|**2025-05-26**|**Gaussian Process Methods for Covariate-Based Intensity Estimation**|Patric Dolmeta et.al.|[2505.20157v1](http://arxiv.org/abs/2505.20157v1)|**2025-05-26**|null|
+|**2025-05-26**|**Pangu Light: Weight Re-Initialization for Pruning and Accelerating LLMs**|Hanting Chen et.al.|[2505.20155v1](http://arxiv.org/abs/2505.20155v1)|**2025-05-26**|null|
+|**2025-05-26**|**Sublimation of orientated amino acid films for reliable, amplified piezoelectric performance**|Ciaran O Malley et.al.|[2505.20141v1](http://arxiv.org/abs/2505.20141v1)|**2025-05-26**|null|
+|**2025-05-26**|**StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs**|Jialin Yang et.al.|[2505.20139v1](http://arxiv.org/abs/2505.20139v1)|**2025-05-26**|null|
+|**2025-05-26**|**Agentic 3D Scene Generation with Spatially Contextualized VLMs**|Xinhang Liu et.al.|[2505.20129v1](http://arxiv.org/abs/2505.20129v1)|**2025-05-26**|null|
+|**2025-05-26**|**Notes on Rindler wave packets in Minkowski spacetime**|Shono Shibuya et.al.|[2505.20078v1](http://arxiv.org/abs/2505.20078v1)|**2025-05-26**|null|
+|**2025-05-26**|**Crystallographic control of hydrogen ingress in bcc-Iron: Insights from ab initio simulations**|Lukas Meier et.al.|[2505.20071v1](http://arxiv.org/abs/2505.20071v1)|**2025-05-26**|null|
+|**2025-05-26**|**Thermalization in open many-body systems and KMS detailed balance**|Matteo Scandi et.al.|[2505.20064v1](http://arxiv.org/abs/2505.20064v1)|**2025-05-26**|null|
+|**2025-05-26**|**LPCM: Learning-based Predictive Coding for LiDAR Point Cloud Compression**|Chang Sun et.al.|[2505.20059v1](http://arxiv.org/abs/2505.20059v1)|**2025-05-26**|null|
+|**2025-05-26**|**Catoni-Style Change Point Detection for Regret Minimization in Non-Stationary Heavy-Tailed Bandits**|Gianmarco Genalti et.al.|[2505.20051v1](http://arxiv.org/abs/2505.20051v1)|**2025-05-26**|null|
+|**2025-05-26**|**Multiple Descents in Deep Learning as a Sequence of Order-Chaos Transitions**|Wenbo Wei et.al.|[2505.20030v1](http://arxiv.org/abs/2505.20030v1)|**2025-05-26**|null|
+|**2025-05-26**|**Critical dynamical fluctuations in reaction-diffusion processes**|Benoit Dagallier et.al.|[2505.20008v1](http://arxiv.org/abs/2505.20008v1)|**2025-05-26**|null|
+|**2025-05-26**|**From Few to Many Faults: Adaptive Byzantine Agreement with Optimal Communication**|Andrei Constantinescu et.al.|[2505.19989v1](http://arxiv.org/abs/2505.19989v1)|**2025-05-26**|null|
+|**2025-05-26**|**A Cooperative Aerial System of A Payload Drone Equipped with Dexterous Rappelling End Droid for Cluttered Space Pickup**|Wenjing Ren et.al.|[2505.19980v1](http://arxiv.org/abs/2505.19980v1)|**2025-05-26**|null|
+|**2025-05-26**|**Two Sample Testing for High-dimensional Functional Data: A Multi-resolution Projection Method**|Shouxia Wang et.al.|[2505.19974v1](http://arxiv.org/abs/2505.19974v1)|**2025-05-26**|null|
+|**2025-05-26**|**Inverse Q-Learning Done Right: Offline Imitation Learning in $Q^π$-Realizable MDPs**|Antoine Moulin et.al.|[2505.19946v1](http://arxiv.org/abs/2505.19946v1)|**2025-05-26**|null|
+|**2025-05-26**|**Probing dipolar power asymmetry with galaxy clustering and intrinsic alignments**|Keita Minato et.al.|[2505.19941v1](http://arxiv.org/abs/2505.19941v1)|**2025-05-26**|null|
+|**2025-05-26**|**Diffusion with stochastic resetting on a lattice**|Alexander K. Hartmann et.al.|[2505.19903v1](http://arxiv.org/abs/2505.19903v1)|**2025-05-26**|null|
+|**2025-05-26**|**Universal Workers: A Vision for Eliminating Cold Starts in Serverless Computing**|Saman Akbari et.al.|[2505.19880v1](http://arxiv.org/abs/2505.19880v1)|**2025-05-26**|null|
+|**2025-05-26**|**CPA-RAG:Covert Poisoning Attacks on Retrieval-Augmented Generation in Large Language Models**|Chunyang Li et.al.|[2505.19864v1](http://arxiv.org/abs/2505.19864v1)|**2025-05-26**|null|
+|**2025-05-26**|**FruitNeRF++: A Generalized Multi-Fruit Counting Method Utilizing Contrastive Learning and Neural Radiance Fields**|Lukas Meyer et.al.|[2505.19863v1](http://arxiv.org/abs/2505.19863v1)|**2025-05-26**|null|
+|**2025-05-26**|**Sparse2DGS: Sparse-View Surface Reconstruction using 2D Gaussian Splatting with Dense Point Cloud**|Natsuki Takama et.al.|[2505.19854v1](http://arxiv.org/abs/2505.19854v1)|**2025-05-26**|null|
+|**2025-05-26**|**DGRAG: Distributed Graph-based Retrieval-Augmented Generation in Edge-Cloud Systems**|Wenqing Zhou et.al.|[2505.19847v1](http://arxiv.org/abs/2505.19847v1)|**2025-05-26**|null|
+|**2025-05-26**|**Power allocation for cell-free MIMO integrated sensing and communication**|Guoqing Xia et.al.|[2505.19845v1](http://arxiv.org/abs/2505.19845v1)|**2025-05-26**|null|
+|**2025-05-26**|**Magnetic fields in the massive star-forming region NGC 6334 and their relationship with the properties of dust filaments probed by [CII] and PAH emissions**|Takayoshi Kusune et.al.|[2505.19844v1](http://arxiv.org/abs/2505.19844v1)|**2025-05-26**|null|
+|**2025-05-26**|**FoodTaxo: Generating Food Taxonomies with Large Language Models**|Pascal Wullschleger et.al.|[2505.19838v1](http://arxiv.org/abs/2505.19838v1)|**2025-05-26**|null|
+|**2025-05-26**|**Reconciling extragalactic star formation efficiencies with theory: insights from PHANGS**|Sharon E. Meidt et.al.|[2505.19832v1](http://arxiv.org/abs/2505.19832v1)|**2025-05-26**|null|
+|**2025-05-26**|**InfoCons: Identifying Interpretable Critical Concepts in Point Clouds via Information Theory**|Feifei Li et.al.|[2505.19820v1](http://arxiv.org/abs/2505.19820v1)|**2025-05-26**|null|
+|**2025-05-26**|**The Missing Point in Vision Transformers for Universal Image Segmentation**|Sajjad Shahabodini et.al.|[2505.19795v1](http://arxiv.org/abs/2505.19795v1)|**2025-05-26**|null|
+|**2025-05-26**|**Alpay Algebra III: Observer-Coupled Collapse and the Temporal Drift of Identity**|Faruk Alpay et.al.|[2505.19790v1](http://arxiv.org/abs/2505.19790v1)|**2025-05-26**|null|
