@@ -2,6 +2,23 @@
 ### Point Cloud Matching
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-26**|**Variational Deep Learning via Implicit Regularization**|Jonathan Wenger et.al.|[2505.20235v1](http://arxiv.org/abs/2505.20235v1)|**2025-05-26**|null|
+|**2025-05-26**|**FLAME-MoE: A Transparent End-to-End Research Platform for Mixture-of-Experts Language Models**|Hao Kang et.al.|[2505.20225v1](http://arxiv.org/abs/2505.20225v1)|**2025-05-26**|null|
+|**2025-05-26**|**Gradient Flow Matching for Learning Update Dynamics in Neural Network Training**|Xiao Shou et.al.|[2505.20221v1](http://arxiv.org/abs/2505.20221v1)|**2025-05-26**|null|
+|**2025-05-26**|**Fine-grained List-wise Alignment for Generative Medication Recommendation**|Chenxiao Fan et.al.|[2505.20218v1](http://arxiv.org/abs/2505.20218v1)|**2025-05-26**|null|
+|**2025-05-26**|**Universal non-thermal fixed point for quasi-1D Bose gases**|Qi Liang et.al.|[2505.20213v1](http://arxiv.org/abs/2505.20213v1)|**2025-05-26**|null|
+|**2025-05-26**|**Tools for Characterizing the Numerical Error of Stellar Oscillation Codes**|Richard H. D. Townsend et.al.|[2505.20212v1](http://arxiv.org/abs/2505.20212v1)|**2025-05-26**|null|
+|**2025-05-26**|**Mechanism of defect formation in the quantum annealing of random transverse-field Ising chain**|Róbert Juhász et.al.|[2505.20204v1](http://arxiv.org/abs/2505.20204v1)|**2025-05-26**|null|
+|**2025-05-26**|**Adaptive Classifier-Free Guidance via Dynamic Low-Confidence Masking**|Pengxiang Li et.al.|[2505.20199v1](http://arxiv.org/abs/2505.20199v1)|**2025-05-26**|null|
+|**2025-05-26**|**Temporal Sampling for Forgotten Reasoning in LLMs**|Yuetai Li et.al.|[2505.20196v1](http://arxiv.org/abs/2505.20196v1)|**2025-05-26**|null|
+|**2025-05-26**|**Black hole thermodynamics and topology**|G. E. Volovik et.al.|[2505.20194v1](http://arxiv.org/abs/2505.20194v1)|**2025-05-26**|null|
+|**2025-05-26**|**A frequentist view on the two-body decaying dark matter model**|Thomas Montandon et.al.|[2505.20193v1](http://arxiv.org/abs/2505.20193v1)|**2025-05-26**|null|
+|**2025-05-26**|**The modular Hamiltonian in asymptotically flat spacetime conformal to Minkowski**|Claudio Dappiaggi et.al.|[2505.20191v1](http://arxiv.org/abs/2505.20191v1)|**2025-05-26**|null|
+|**2025-05-26**|**Leveraging Descriptions of Emotional Preferences in Recommender Systems**|Tonmoy Hasan et.al.|[2505.20190v1](http://arxiv.org/abs/2505.20190v1)|**2025-05-26**|null|
+|**2025-05-26**|**Private Geometric Median in Nearly-Linear Time**|Syamantak Kumar et.al.|[2505.20189v1](http://arxiv.org/abs/2505.20189v1)|**2025-05-26**|null|
+|**2025-05-26**|**Research on feature fusion and multimodal patent text based on graph attention network**|Zhenzhen Song et.al.|[2505.20188v1](http://arxiv.org/abs/2505.20188v1)|**2025-05-26**|null|
+|**2025-05-26**|**A Theoretical Framework for Grokking: Interpolation followed by Riemannian Norm Minimisation**|Etienne Boursier et.al.|[2505.20172v1](http://arxiv.org/abs/2505.20172v1)|**2025-05-26**|null|
+|**2025-05-26**|**Many-body localization in a quantum Ising model with the long-range interaction: Accurate determination of the transition point**|Illia Lukin et.al.|[2505.20159v1](http://arxiv.org/abs/2505.20159v1)|**2025-05-26**|null|
 |**2025-05-26**|**Gaussian Process Methods for Covariate-Based Intensity Estimation**|Patric Dolmeta et.al.|[2505.20157v1](http://arxiv.org/abs/2505.20157v1)|**2025-05-26**|null|
 |**2025-05-26**|**Pangu Light: Weight Re-Initialization for Pruning and Accelerating LLMs**|Hanting Chen et.al.|[2505.20155v1](http://arxiv.org/abs/2505.20155v1)|**2025-05-26**|null|
 |**2025-05-26**|**FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities**|Jin Wang et.al.|[2505.20147v1](http://arxiv.org/abs/2505.20147v1)|**2025-05-26**|null|
@@ -15,20 +32,3 @@
 |**2025-05-26**|**Realistic Multi-temperature Dust: How Well Can We Constrain the Dust Properties of High-redshift Galaxies?**|Laura Sommovigo et.al.|[2505.20105v1](http://arxiv.org/abs/2505.20105v1)|**2025-05-26**|null|
 |**2025-05-26**|**S2LPP: Small-to-Large Prompt Prediction across LLMs**|Liang Cheng et.al.|[2505.20097v1](http://arxiv.org/abs/2505.20097v1)|**2025-05-26**|null|
 |**2025-05-26**|**Notes on Rindler wave packets in Minkowski spacetime**|Shono Shibuya et.al.|[2505.20078v1](http://arxiv.org/abs/2505.20078v1)|**2025-05-26**|null|
-|**2025-05-26**|**Crystallographic control of hydrogen ingress in bcc-Iron: Insights from ab initio simulations**|Lukas Meier et.al.|[2505.20071v1](http://arxiv.org/abs/2505.20071v1)|**2025-05-26**|null|
-|**2025-05-26**|**Thermalization in open many-body systems and KMS detailed balance**|Matteo Scandi et.al.|[2505.20064v1](http://arxiv.org/abs/2505.20064v1)|**2025-05-26**|null|
-|**2025-05-26**|**LPCM: Learning-based Predictive Coding for LiDAR Point Cloud Compression**|Chang Sun et.al.|[2505.20059v1](http://arxiv.org/abs/2505.20059v1)|**2025-05-26**|null|
-|**2025-05-26**|**Catoni-Style Change Point Detection for Regret Minimization in Non-Stationary Heavy-Tailed Bandits**|Gianmarco Genalti et.al.|[2505.20051v1](http://arxiv.org/abs/2505.20051v1)|**2025-05-26**|null|
-|**2025-05-26**|**Multiple Descents in Deep Learning as a Sequence of Order-Chaos Transitions**|Wenbo Wei et.al.|[2505.20030v1](http://arxiv.org/abs/2505.20030v1)|**2025-05-26**|null|
-|**2025-05-26**|**Critical dynamical fluctuations in reaction-diffusion processes**|Benoit Dagallier et.al.|[2505.20008v1](http://arxiv.org/abs/2505.20008v1)|**2025-05-26**|null|
-|**2025-05-26**|**Requirements Coverage-Guided Minimization for Natural Language Test Cases**|Rongqi Pan et.al.|[2505.20004v1](http://arxiv.org/abs/2505.20004v1)|**2025-05-26**|null|
-|**2025-05-26**|**From Few to Many Faults: Adaptive Byzantine Agreement with Optimal Communication**|Andrei Constantinescu et.al.|[2505.19989v1](http://arxiv.org/abs/2505.19989v1)|**2025-05-26**|null|
-|**2025-05-26**|**A Cooperative Aerial System of A Payload Drone Equipped with Dexterous Rappelling End Droid for Cluttered Space Pickup**|Wenjing Ren et.al.|[2505.19980v1](http://arxiv.org/abs/2505.19980v1)|**2025-05-26**|null|
-|**2025-05-26**|**MAMM: Motion Control via Metric-Aligning Motion Matching**|Naoki Agata et.al.|[2505.19976v1](http://arxiv.org/abs/2505.19976v1)|**2025-05-26**|null|
-|**2025-05-26**|**Two Sample Testing for High-dimensional Functional Data: A Multi-resolution Projection Method**|Shouxia Wang et.al.|[2505.19974v1](http://arxiv.org/abs/2505.19974v1)|**2025-05-26**|null|
-|**2025-05-26**|**PHI: Bridging Domain Shift in Long-Term Action Quality Assessment via Progressive Hierarchical Instruction**|Kanglei Zhou et.al.|[2505.19972v1](http://arxiv.org/abs/2505.19972v1)|**2025-05-26**|null|
-|**2025-05-26**|**Viability of general relativity and modified gravity cosmologies using high-redshift cosmic probes**|Fernanda Oliveira et.al.|[2505.19960v1](http://arxiv.org/abs/2505.19960v1)|**2025-05-26**|null|
-|**2025-05-26**|**An Explainable Diagnostic Framework for Neurodegenerative Dementias via Reinforcement-Optimized LLM Reasoning**|Andrew Zamai et.al.|[2505.19954v1](http://arxiv.org/abs/2505.19954v1)|**2025-05-26**|null|
-|**2025-05-26**|**Inverse Q-Learning Done Right: Offline Imitation Learning in $Q^π$-Realizable MDPs**|Antoine Moulin et.al.|[2505.19946v1](http://arxiv.org/abs/2505.19946v1)|**2025-05-26**|null|
-|**2025-05-26**|**Probing dipolar power asymmetry with galaxy clustering and intrinsic alignments**|Keita Minato et.al.|[2505.19941v1](http://arxiv.org/abs/2505.19941v1)|**2025-05-26**|null|
-|**2025-05-26**|**Accelerating Flow-Matching-Based Text-to-Speech via Empirically Pruned Step Sampling**|Qixi Zheng et.al.|[2505.19931v1](http://arxiv.org/abs/2505.19931v1)|**2025-05-26**|null|

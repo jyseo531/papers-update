@@ -2,6 +2,10 @@
 ### Instance Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-26**|**From What to How: Attributing CLIP's Latent Components Reveals Unexpected Semantic Reliance**|Maximilian Dreyer et.al.|[2505.20229v1](http://arxiv.org/abs/2505.20229v1)|**2025-05-26**|null|
+|**2025-05-26**|**Adaptive Classifier-Free Guidance via Dynamic Low-Confidence Masking**|Pengxiang Li et.al.|[2505.20199v1](http://arxiv.org/abs/2505.20199v1)|**2025-05-26**|null|
+|**2025-05-26**|**Monocle: Hybrid Local-Global In-Context Evaluation for Long-Text Generation with Uncertainty-Based Active Learning**|Xiaorong Wang et.al.|[2505.20195v1](http://arxiv.org/abs/2505.20195v1)|**2025-05-26**|null|
+|**2025-05-26**|**Evaluating Software Plagiarism Detection in the Age of AI: Automated Obfuscation and Lessons for Academic Integrity**|Timur Sağlam et.al.|[2505.20158v1](http://arxiv.org/abs/2505.20158v1)|**2025-05-26**|null|
 |**2025-05-26**|**Pangu Light: Weight Re-Initialization for Pruning and Accelerating LLMs**|Hanting Chen et.al.|[2505.20155v1](http://arxiv.org/abs/2505.20155v1)|**2025-05-26**|null|
 |**2025-05-26**|**Inference-time Alignment in Continuous Space**|Yige Yuan et.al.|[2505.20081v1](http://arxiv.org/abs/2505.20081v1)|**2025-05-26**|null|
 |**2025-05-26**|**Study of Symbol Error Probability Constrained Precoding with Zero-Crossing Modulation for Wireless Systems with 1-Bit ADCs**|D. Melo et.al.|[2505.20073v1](http://arxiv.org/abs/2505.20073v1)|**2025-05-26**|null|
@@ -28,7 +32,3 @@
 |**2025-05-26**|**Modality Curation: Building Universal Embeddings for Advanced Multimodal Information Retrieval**|Fanheng Kong et.al.|[2505.19650v1](http://arxiv.org/abs/2505.19650v1)|**2025-05-26**|null|
 |**2025-05-26**|**Segment First or Comprehend First? Explore the Limit of Unsupervised Word Segmentation with Large Language Models**|Zihong Zhang et.al.|[2505.19631v1](http://arxiv.org/abs/2505.19631v1)|**2025-05-26**|null|
 |**2025-05-26**|**Diagnosing and Mitigating Modality Interference in Multimodal Large Language Models**|Rui Cai et.al.|[2505.19616v1](http://arxiv.org/abs/2505.19616v1)|**2025-05-26**|null|
-|**2025-05-26**|**Rep3D: Re-parameterize Large 3D Kernels with Low-Rank Receptive Modeling for Medical Imaging**|Ho Hin Lee et.al.|[2505.19603v1](http://arxiv.org/abs/2505.19603v1)|**2025-05-26**|null|
-|**2025-05-26**|**Preference Optimization by Estimating the Ratio of the Data Distribution**|Yeongmin Kim et.al.|[2505.19601v1](http://arxiv.org/abs/2505.19601v1)|**2025-05-26**|null|
-|**2025-05-26**|**Beyond Segmentation: Confidence-Aware and Debiased Estimation of Ratio-based Biomarkers**|Jiameng Li et.al.|[2505.19585v1](http://arxiv.org/abs/2505.19585v1)|**2025-05-26**|null|
-|**2025-05-26**|**Situationally-Aware Dynamics Learning**|Alejandro Murillo-Gonzalez et.al.|[2505.19574v1](http://arxiv.org/abs/2505.19574v1)|**2025-05-26**|null|

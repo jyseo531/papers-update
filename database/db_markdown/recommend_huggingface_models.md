@@ -968,6 +968,7 @@ Updated on 2025-05-27
 | 256 |  | prithivida/Splade_PP_en_v2Fill-Mask | UpdatedAug 24, 2024 | [Link](https://huggingface.co/prithivida/Splade_PP_en_v2) |
 | 2 | Unknown | climatebert/econbertFill-Mask | Updated1 day ago | [Link](https://huggingface.co/climatebert/econbert) |
 | 1.97k |  | beomi/kcbert-largeFill-Mask | UpdatedMar 30, 2023 | [Link](https://huggingface.co/beomi/kcbert-large) |
+| 2 | Unknown | LSX-UniWue/ModernGBERT_1BFill-Mask | Updated32 minutes ago | [Link](https://huggingface.co/LSX-UniWue/ModernGBERT_1B) |
 
 ## Graph Machine Learning
 
@@ -4261,6 +4262,7 @@ Updated on 2025-05-27
 | 172 | 4 | NbAiLab/nb-bert-base-nerToken | UpdatedMar 31, 2023 | [Link](https://huggingface.co/NbAiLab/nb-bert-base-ner) |
 | 34 | 4 | jinachris/PURE-PRM-7BToken | UpdatedApr 22 | [Link](https://huggingface.co/jinachris/PURE-PRM-7B) |
 | 6 | 4 | UGARIT/grc-ner-bertToken | UpdatedMay 23, 2024 | [Link](https://huggingface.co/UGARIT/grc-ner-bert) |
+| 23 | 4 | ukr-models/uk-punctcaseToken | UpdatedAug 31, 2023 | [Link](https://huggingface.co/ukr-models/uk-punctcase) |
 | 7 | 3 | KBLab/swedish-spacy-pipelineToken | UpdatedOct 4, 2021 | [Link](https://huggingface.co/KBLab/swedish-spacy-pipeline) |
 | 377 | 3 | albertvillanova/autonlp-wikiann-entity_extraction-1e67664-1301123Token | UpdatedApr 4, 2023 | [Link](https://huggingface.co/albertvillanova/autonlp-wikiann-entity_extraction-1e67664-1301123) |
 | 274 | 3 | ai4privacy/llama-ai4privacy-english-anonymiser-openpiiToken | Updatedabout 2 hours ago | [Link](https://huggingface.co/ai4privacy/llama-ai4privacy-english-anonymiser-openpii) |

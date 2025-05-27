@@ -2,6 +2,21 @@
 ### Point Cloud Completion
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-26**|**Variational Deep Learning via Implicit Regularization**|Jonathan Wenger et.al.|[2505.20235v1](http://arxiv.org/abs/2505.20235v1)|**2025-05-26**|null|
+|**2025-05-26**|**Bridging the Long-Term Gap: A Memory-Active Policy for Multi-Session Task-Oriented Dialogue**|Yiming Du et.al.|[2505.20231v1](http://arxiv.org/abs/2505.20231v1)|**2025-05-26**|null|
+|**2025-05-26**|**FLAME-MoE: A Transparent End-to-End Research Platform for Mixture-of-Experts Language Models**|Hao Kang et.al.|[2505.20225v1](http://arxiv.org/abs/2505.20225v1)|**2025-05-26**|null|
+|**2025-05-26**|**Fine-grained List-wise Alignment for Generative Medication Recommendation**|Chenxiao Fan et.al.|[2505.20218v1](http://arxiv.org/abs/2505.20218v1)|**2025-05-26**|null|
+|**2025-05-26**|**From one-dimensional diffusion processes metastable behaviour to parabolic equations asymptotics**|Claudio Landim et.al.|[2505.20217v1](http://arxiv.org/abs/2505.20217v1)|**2025-05-26**|null|
+|**2025-05-26**|**Universal non-thermal fixed point for quasi-1D Bose gases**|Qi Liang et.al.|[2505.20213v1](http://arxiv.org/abs/2505.20213v1)|**2025-05-26**|null|
+|**2025-05-26**|**Tools for Characterizing the Numerical Error of Stellar Oscillation Codes**|Richard H. D. Townsend et.al.|[2505.20212v1](http://arxiv.org/abs/2505.20212v1)|**2025-05-26**|null|
+|**2025-05-26**|**Mechanism of defect formation in the quantum annealing of random transverse-field Ising chain**|Róbert Juhász et.al.|[2505.20204v1](http://arxiv.org/abs/2505.20204v1)|**2025-05-26**|null|
+|**2025-05-26**|**Adaptive Classifier-Free Guidance via Dynamic Low-Confidence Masking**|Pengxiang Li et.al.|[2505.20199v1](http://arxiv.org/abs/2505.20199v1)|**2025-05-26**|null|
+|**2025-05-26**|**Temporal Sampling for Forgotten Reasoning in LLMs**|Yuetai Li et.al.|[2505.20196v1](http://arxiv.org/abs/2505.20196v1)|**2025-05-26**|null|
+|**2025-05-26**|**Black hole thermodynamics and topology**|G. E. Volovik et.al.|[2505.20194v1](http://arxiv.org/abs/2505.20194v1)|**2025-05-26**|null|
+|**2025-05-26**|**The modular Hamiltonian in asymptotically flat spacetime conformal to Minkowski**|Claudio Dappiaggi et.al.|[2505.20191v1](http://arxiv.org/abs/2505.20191v1)|**2025-05-26**|null|
+|**2025-05-26**|**Private Geometric Median in Nearly-Linear Time**|Syamantak Kumar et.al.|[2505.20189v1](http://arxiv.org/abs/2505.20189v1)|**2025-05-26**|null|
+|**2025-05-26**|**A Theoretical Framework for Grokking: Interpolation followed by Riemannian Norm Minimisation**|Etienne Boursier et.al.|[2505.20172v1](http://arxiv.org/abs/2505.20172v1)|**2025-05-26**|null|
+|**2025-05-26**|**Many-body localization in a quantum Ising model with the long-range interaction: Accurate determination of the transition point**|Illia Lukin et.al.|[2505.20159v1](http://arxiv.org/abs/2505.20159v1)|**2025-05-26**|null|
 |**2025-05-26**|**Gaussian Process Methods for Covariate-Based Intensity Estimation**|Patric Dolmeta et.al.|[2505.20157v1](http://arxiv.org/abs/2505.20157v1)|**2025-05-26**|null|
 |**2025-05-26**|**Pangu Light: Weight Re-Initialization for Pruning and Accelerating LLMs**|Hanting Chen et.al.|[2505.20155v1](http://arxiv.org/abs/2505.20155v1)|**2025-05-26**|null|
 |**2025-05-26**|**Sublimation of orientated amino acid films for reliable, amplified piezoelectric performance**|Ciaran O Malley et.al.|[2505.20141v1](http://arxiv.org/abs/2505.20141v1)|**2025-05-26**|null|
@@ -17,18 +32,3 @@
 |**2025-05-26**|**Catoni-Style Change Point Detection for Regret Minimization in Non-Stationary Heavy-Tailed Bandits**|Gianmarco Genalti et.al.|[2505.20051v1](http://arxiv.org/abs/2505.20051v1)|**2025-05-26**|null|
 |**2025-05-26**|**Target Tracking via LiDAR-RADAR Sensor Fusion for Autonomous Racing**|Marcello Cellina et.al.|[2505.20043v1](http://arxiv.org/abs/2505.20043v1)|**2025-05-26**|null|
 |**2025-05-26**|**Multiple Descents in Deep Learning as a Sequence of Order-Chaos Transitions**|Wenbo Wei et.al.|[2505.20030v1](http://arxiv.org/abs/2505.20030v1)|**2025-05-26**|null|
-|**2025-05-26**|**On free arrangements of three conics**|Łukasz Merta et.al.|[2505.20025v1](http://arxiv.org/abs/2505.20025v1)|**2025-05-26**|null|
-|**2025-05-26**|**Data-Dependent Regret Bounds for Constrained MABs**|Gianmarco Genalti et.al.|[2505.20010v1](http://arxiv.org/abs/2505.20010v1)|**2025-05-26**|null|
-|**2025-05-26**|**Critical dynamical fluctuations in reaction-diffusion processes**|Benoit Dagallier et.al.|[2505.20008v1](http://arxiv.org/abs/2505.20008v1)|**2025-05-26**|null|
-|**2025-05-26**|**From crank to congruences**|Tewodros Amdeberhan et.al.|[2505.19991v1](http://arxiv.org/abs/2505.19991v1)|**2025-05-26**|null|
-|**2025-05-26**|**From Few to Many Faults: Adaptive Byzantine Agreement with Optimal Communication**|Andrei Constantinescu et.al.|[2505.19989v1](http://arxiv.org/abs/2505.19989v1)|**2025-05-26**|null|
-|**2025-05-26**|**A Cooperative Aerial System of A Payload Drone Equipped with Dexterous Rappelling End Droid for Cluttered Space Pickup**|Wenjing Ren et.al.|[2505.19980v1](http://arxiv.org/abs/2505.19980v1)|**2025-05-26**|null|
-|**2025-05-26**|**Formalizing a classification theorem for low-dimensional solvable Lie algebras in Lean**|Viviana del Barco et.al.|[2505.19975v1](http://arxiv.org/abs/2505.19975v1)|**2025-05-26**|null|
-|**2025-05-26**|**Two Sample Testing for High-dimensional Functional Data: A Multi-resolution Projection Method**|Shouxia Wang et.al.|[2505.19974v1](http://arxiv.org/abs/2505.19974v1)|**2025-05-26**|null|
-|**2025-05-26**|**The residual maximin share**|Uriel Feige et.al.|[2505.19961v1](http://arxiv.org/abs/2505.19961v1)|**2025-05-26**|null|
-|**2025-05-26**|**Ultra-Planckian Quark and Gluon Scattering in Agravity**|I. F. Cunha et.al.|[2505.19957v1](http://arxiv.org/abs/2505.19957v1)|**2025-05-26**|null|
-|**2025-05-26**|**MLR-Bench: Evaluating AI Agents on Open-Ended Machine Learning Research**|Hui Chen et.al.|[2505.19955v1](http://arxiv.org/abs/2505.19955v1)|**2025-05-26**|null|
-|**2025-05-26**|**Inverse Q-Learning Done Right: Offline Imitation Learning in $Q^π$-Realizable MDPs**|Antoine Moulin et.al.|[2505.19946v1](http://arxiv.org/abs/2505.19946v1)|**2025-05-26**|null|
-|**2025-05-26**|**Probing dipolar power asymmetry with galaxy clustering and intrinsic alignments**|Keita Minato et.al.|[2505.19941v1](http://arxiv.org/abs/2505.19941v1)|**2025-05-26**|null|
-|**2025-05-26**|**Measurement and Calibration Approaches for Full Two-Port Scattering Parameters at mK Temperatures**|Luca Oberto et.al.|[2505.19922v1](http://arxiv.org/abs/2505.19922v1)|**2025-05-26**|null|
-|**2025-05-26**|**Weather-Magician: Reconstruction and Rendering Framework for 4D Weather Synthesis In Real Time**|Chen Sang et.al.|[2505.19919v1](http://arxiv.org/abs/2505.19919v1)|**2025-05-26**|null|
