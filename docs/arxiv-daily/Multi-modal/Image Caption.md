@@ -2,14 +2,6 @@
 ### Image Caption
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-26**|**On Path to Multimodal Historical Reasoning: HistBench and HistAgent**|Jiahao Qiu et.al.|[2505.20246v1](http://arxiv.org/abs/2505.20246v1)|**2025-05-26**|null|
-|**2025-05-26**|**Seeing is Believing, but How Much? A Comprehensive Analysis of Verbalized Calibration in Vision-Language Models**|Weihao Xuan et.al.|[2505.20236v1](http://arxiv.org/abs/2505.20236v1)|**2025-05-26**|null|
-|**2025-05-26**|**From What to How: Attributing CLIP's Latent Components Reveals Unexpected Semantic Reliance**|Maximilian Dreyer et.al.|[2505.20229v1](http://arxiv.org/abs/2505.20229v1)|**2025-05-26**|null|
-|**2025-05-26**|**General solution of corona problem**|Marek Kosiek et.al.|[2505.20220v1](http://arxiv.org/abs/2505.20220v1)|**2025-05-26**|null|
-|**2025-05-26**|**PathBench: A comprehensive comparison benchmark for pathology foundation models towards precision oncology**|Jiabo Ma et.al.|[2505.20202v1](http://arxiv.org/abs/2505.20202v1)|**2025-05-26**|null|
-|**2025-05-26**|**From Alignment to Advancement: Bootstrapping Audio-Language Alignment with Synthetic Data**|Chun-Yi Kuan et.al.|[2505.20166v1](http://arxiv.org/abs/2505.20166v1)|**2025-05-26**|null|
-|**2025-05-26**|**Visual Abstract Thinking Empowers Multimodal Reasoning**|Dairu Liu et.al.|[2505.20164v1](http://arxiv.org/abs/2505.20164v1)|**2025-05-26**|null|
-|**2025-05-26**|**DeepInverse: A Python package for solving imaging inverse problems with deep learning**|Julián Tachella et.al.|[2505.20160v1](http://arxiv.org/abs/2505.20160v1)|**2025-05-26**|null|
 |**2025-05-26**|**HunyuanVideo-Avatar: High-Fidelity Audio-Driven Human Animation for Multiple Characters**|Yi Chen et.al.|[2505.20156v1](http://arxiv.org/abs/2505.20156v1)|**2025-05-26**|null|
 |**2025-05-26**|**UORA: Uniform Orthogonal Reinitialization Adaptation in Parameter-Efficient Fine-Tuning of Large Models**|Xueyan Zhang et.al.|[2505.20154v1](http://arxiv.org/abs/2505.20154v1)|**2025-05-26**|null|
 |**2025-05-26**|**Hard Negative Contrastive Learning for Fine-Grained Geometric Understanding in Large Multimodal Models**|Kai Sun et.al.|[2505.20152v1](http://arxiv.org/abs/2505.20152v1)|**2025-05-26**|null|
@@ -32,3 +24,11 @@
 |**2025-05-26**|**NEXT: Multi-Grained Mixture of Experts via Text-Modulation for Multi-Modal Object Re-ID**|Shihao Li et.al.|[2505.20001v1](http://arxiv.org/abs/2505.20001v1)|**2025-05-26**|null|
 |**2025-05-26**|**The Impact of Fiber Cross Contamination on Radial Velocity Precision**|Chenyang Ji et.al.|[2505.19994v1](http://arxiv.org/abs/2505.19994v1)|**2025-05-26**|null|
 |**2025-05-26**|**ICDM: Interference Cancellation Diffusion Models for Wireless Semantic Communications**|Tong Wu et.al.|[2505.19983v1](http://arxiv.org/abs/2505.19983v1)|**2025-05-26**|null|
+|**2025-05-26**|**PHI: Bridging Domain Shift in Long-Term Action Quality Assessment via Progressive Hierarchical Instruction**|Kanglei Zhou et.al.|[2505.19972v1](http://arxiv.org/abs/2505.19972v1)|**2025-05-26**|null|
+|**2025-05-26**|**Differential Privacy Analysis of Decentralized Gossip Averaging under Varying Threat Models**|Antti Koskela et.al.|[2505.19969v1](http://arxiv.org/abs/2505.19969v1)|**2025-05-26**|null|
+|**2025-05-26**|**UltraVSR: Achieving Ultra-Realistic Video Super-Resolution with Efficient One-Step Diffusion Space**|Yong Liu et.al.|[2505.19958v1](http://arxiv.org/abs/2505.19958v1)|**2025-05-26**|null|
+|**2025-05-26**|**Multimodal Reasoning Agent for Zero-Shot Composed Image Retrieval**|Rong-Cheng Tu et.al.|[2505.19952v1](http://arxiv.org/abs/2505.19952v1)|**2025-05-26**|null|
+|**2025-05-26**|**SaSi: A Self-augmented and Self-interpreted Deep Learning Approach for Few-shot Cryo-ET Particle Detection**|Gokul Adethya et.al.|[2505.19948v1](http://arxiv.org/abs/2505.19948v1)|**2025-05-26**|null|
+|**2025-05-26**|**Can Visual Encoder Learn to See Arrows?**|Naoyuki Terashita et.al.|[2505.19944v1](http://arxiv.org/abs/2505.19944v1)|**2025-05-26**|null|
+|**2025-05-26**|**Task-Oriented Low-Label Semantic Communication With Self-Supervised Learning**|Run Gu et.al.|[2505.19940v1](http://arxiv.org/abs/2505.19940v1)|**2025-05-26**|null|
+|**2025-05-26**|**Multi-Timescale Motion-Decoupled Spiking Transformer for Audio-Visual Zero-Shot Learning**|Wenrui Li et.al.|[2505.19938v1](http://arxiv.org/abs/2505.19938v1)|**2025-05-26**|null|

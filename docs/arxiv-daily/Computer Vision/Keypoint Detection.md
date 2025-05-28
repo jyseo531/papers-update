@@ -10,9 +10,9 @@
 |**2025-05-24**|**High-Entropy Solid Electrolytes Discovery: A Dual-Stage Machine Learning Framework Bridging Atomic Configurations and Ionic Transport Properties**|Xiao Fu et.al.|[2505.18571v1](http://arxiv.org/abs/2505.18571v1)|**2025-05-24**|null|
 |**2025-05-23**|**ImLPR: Image-based LiDAR Place Recognition using Vision Foundation Models**|Minwoo Jung et.al.|[2505.18364v1](http://arxiv.org/abs/2505.18364v1)|**2025-05-23**|null|
 |**2025-05-23**|**Pose Splatter: A 3D Gaussian Splatting Model for Quantifying Animal Pose and Appearance**|Jack Goffinet et.al.|[2505.18342v1](http://arxiv.org/abs/2505.18342v1)|**2025-05-23**|null|
-|**2025-05-23**|**Semantic Correspondence: Unified Benchmarking and a Strong Baseline**|Kaiyan Zhang et.al.|[2505.18060v2](http://arxiv.org/abs/2505.18060v2)|**2025-05-26**|[link](https://github.com/Visual-AI/Semantic-Correspondence)|
+|**2025-05-23**|**Semantic Correspondence: Unified Benchmarking and a Strong Baseline**|Kaiyan Zhang et.al.|[2505.18060v3](http://arxiv.org/abs/2505.18060v3)|**2025-05-27**|[link](https://github.com/Visual-AI/Semantic-Correspondence)|
 |**2025-05-23**|**Contrastive Distillation of Emotion Knowledge from LLMs for Zero-Shot Emotion Recognition**|Minxue Niu et.al.|[2505.18040v1](http://arxiv.org/abs/2505.18040v1)|**2025-05-23**|null|
-|**2025-05-23**|**Directed Semi-Simplicial Learning with Applications to Brain Activity Decoding**|Manuel Lecha et.al.|[2505.17939v1](http://arxiv.org/abs/2505.17939v1)|**2025-05-23**|null|
+|**2025-05-23**|**Directed Semi-Simplicial Learning with Applications to Brain Activity Decoding**|Manuel Lecha et.al.|[2505.17939v2](http://arxiv.org/abs/2505.17939v2)|**2025-05-27**|null|
 |**2025-05-23**|**ICPL-ReID: Identity-Conditional Prompt Learning for Multi-Spectral Object Re-Identification**|Shihao Li et.al.|[2505.17821v1](http://arxiv.org/abs/2505.17821v1)|**2025-05-23**|null|
 |**2025-05-23**|**RQR3D: Reparametrizing the regression targets for BEV-based 3D object detection**|Ozsel Kilinc et.al.|[2505.17732v1](http://arxiv.org/abs/2505.17732v1)|**2025-05-23**|null|
 |**2025-05-23**|**MinkUNeXt-SI: Improving point cloud-based place recognition including spherical coordinates and LiDAR intensity**|Judith Vilella-Cantos et.al.|[2505.17591v1](http://arxiv.org/abs/2505.17591v1)|**2025-05-23**|null|
