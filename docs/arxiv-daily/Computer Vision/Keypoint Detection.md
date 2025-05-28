@@ -2,6 +2,12 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-27**|**Distributed Discrete Morse Sandwich: Efficient Computation of Persistence Diagrams for Massive Scalar Data**|Eve Le Guillou et.al.|[2505.21266v1](http://arxiv.org/abs/2505.21266v1)|**2025-05-27**|null|
+|**2025-05-27**|**ReassembleNet: Learnable Keypoints and Diffusion for 2D Fresco Reconstruction**|Adeela Islam et.al.|[2505.21117v1](http://arxiv.org/abs/2505.21117v1)|**2025-05-27**|null|
+|**2025-05-27**|**HS-SLAM: A Fast and Hybrid Strategy-Based SLAM Approach for Low-Speed Autonomous Driving**|Bingxiang Kang et.al.|[2505.20906v1](http://arxiv.org/abs/2505.20906v1)|**2025-05-27**|null|
+|**2025-05-27**|**MT-Mol:Multi Agent System with Tool-based Reasoning for Molecular Optimization**|Hyomin Kim et.al.|[2505.20820v1](http://arxiv.org/abs/2505.20820v1)|**2025-05-27**|null|
+|**2025-05-27**|**PromptEVC: Controllable Emotional Voice Conversion with Natural Language Prompts**|Tianhua Qi et.al.|[2505.20678v1](http://arxiv.org/abs/2505.20678v1)|**2025-05-27**|null|
+|**2025-05-26**|**xChemAgents: Agentic AI for Explainable Quantum Chemistry**|Can Polat et.al.|[2505.20574v1](http://arxiv.org/abs/2505.20574v1)|**2025-05-26**|null|
 |**2025-05-26**|**Machine Learning the Energetics of Electrified Solid/Liquid Interfaces**|Nicolas Bergmann et.al.|[2505.19745v1](http://arxiv.org/abs/2505.19745v1)|**2025-05-26**|null|
 |**2025-05-26**|**SETBVE: Quality-Diversity Driven Exploration of Software Boundary Behaviors**|Sabinakhon Akbarova et.al.|[2505.19736v1](http://arxiv.org/abs/2505.19736v1)|**2025-05-26**|null|
 |**2025-05-25**|**Words as Geometric Features: Estimating Homography using Optical Character Recognition as Compressed Image Representation**|Ross Greer et.al.|[2505.18925v1](http://arxiv.org/abs/2505.18925v1)|**2025-05-25**|null|
@@ -26,9 +32,3 @@
 |**2025-05-22**|**GMatch: Geometry-Constrained Feature Matching for RGB-D Object Pose Estimation**|Ming Yang et.al.|[2505.16144v1](http://arxiv.org/abs/2505.16144v1)|**2025-05-22**|null|
 |**2025-05-21**|**Mouse Lockbox Dataset: Behavior Recognition for Mice Solving Lockboxes**|Patrik Reiske et.al.|[2505.15408v1](http://arxiv.org/abs/2505.15408v1)|**2025-05-21**|null|
 |**2025-05-21**|**On the Relevance of Clinical Assessment Tasks for the Automatic Detection of Parkinson's Disease Medication State from Speech**|David Gimeno-Gómez et.al.|[2505.15378v2](http://arxiv.org/abs/2505.15378v2)|**2025-05-26**|null|
-|**2025-05-20**|**UPTor: Unified 3D Human Pose Dynamics and Trajectory Prediction for Human-Robot Interaction**|Nisarga Nilavadi et.al.|[2505.14866v1](http://arxiv.org/abs/2505.14866v1)|**2025-05-20**|null|
-|**2025-05-20**|**AudSemThinker: Enhancing Audio-Language Models through Reasoning over Semantics of Sound**|Gijs Wijngaard et.al.|[2505.14142v1](http://arxiv.org/abs/2505.14142v1)|**2025-05-20**|[link](https://github.com/gljs/audsemthinker)|
-|**2025-05-20**|**Place Recognition: A Comprehensive Review, Current Challenges and Future Directions**|Zhenyu Li et.al.|[2505.14068v2](http://arxiv.org/abs/2505.14068v2)|**2025-05-22**|[link](https://github.com/cv4ra/sota-place-recognitioner)|
-|**2025-05-20**|**Active-Spin-State-Derived Descriptor for Hydrogen Evolution Reaction Catalysis**|Yu Tan et.al.|[2505.13786v1](http://arxiv.org/abs/2505.13786v1)|**2025-05-20**|null|
-|**2025-05-19**|**RECON: Robust symmetry discovery via Explicit Canonical Orientation Normalization**|Alonso Urbano et.al.|[2505.13289v1](http://arxiv.org/abs/2505.13289v1)|**2025-05-19**|null|
-|**2025-05-19**|**The Way Up: A Dataset for Hold Usage Detection in Sport Climbing**|Anna Maschek et.al.|[2505.12854v1](http://arxiv.org/abs/2505.12854v1)|**2025-05-19**|null|

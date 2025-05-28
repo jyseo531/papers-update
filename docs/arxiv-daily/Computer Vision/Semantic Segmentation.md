@@ -2,33 +2,33 @@
 ### Semantic Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-26**|**SeMe: Training-Free Language Model Merging via Semantic Alignment**|Jian Gu et.al.|[2505.20144v1](http://arxiv.org/abs/2505.20144v1)|**2025-05-26**|null|
-|**2025-05-26**|**Agentic 3D Scene Generation with Spatially Contextualized VLMs**|Xinhang Liu et.al.|[2505.20129v1](http://arxiv.org/abs/2505.20129v1)|**2025-05-26**|null|
-|**2025-05-26**|**From Data to Modeling: Fully Open-vocabulary Scene Graph Generation**|Zuyao Chen et.al.|[2505.20106v1](http://arxiv.org/abs/2505.20106v1)|**2025-05-26**|null|
-|**2025-05-26**|**Multimodal LLM-Guided Semantic Correction in Text-to-Image Diffusion**|Zheqi Lv et.al.|[2505.20053v1](http://arxiv.org/abs/2505.20053v1)|**2025-05-26**|null|
-|**2025-05-26**|**DepthMatch: Semi-Supervised RGB-D Scene Parsing through Depth-Guided Regularization**|Jianxin Huang et.al.|[2505.20041v1](http://arxiv.org/abs/2505.20041v1)|**2025-05-26**|null|
-|**2025-05-26**|**Towards Video to Piano Music Generation with Chain-of-Perform Support Benchmarks**|Chang Liu et.al.|[2505.20038v1](http://arxiv.org/abs/2505.20038v1)|**2025-05-26**|null|
-|**2025-05-26**|**Ontology- and LLM-based Data Harmonization for Federated Learning in Healthcare**|Natallia Kokash et.al.|[2505.20020v1](http://arxiv.org/abs/2505.20020v1)|**2025-05-26**|null|
-|**2025-05-26**|**NEXT: Multi-Grained Mixture of Experts via Text-Modulation for Multi-Modal Object Re-ID**|Shihao Li et.al.|[2505.20001v1](http://arxiv.org/abs/2505.20001v1)|**2025-05-26**|null|
-|**2025-05-26**|**How Well Do Large Reasoning Models Translate? A Comprehensive Evaluation for Multi-Domain Machine Translation**|Yongshi Ye et.al.|[2505.19987v1](http://arxiv.org/abs/2505.19987v1)|**2025-05-26**|null|
-|**2025-05-26**|**ICDM: Interference Cancellation Diffusion Models for Wireless Semantic Communications**|Tong Wu et.al.|[2505.19983v1](http://arxiv.org/abs/2505.19983v1)|**2025-05-26**|null|
-|**2025-05-26**|**Conversational Lexicography: Querying Lexicographic Data on Knowledge Graphs with SPARQL through Natural Language**|Kilian Sennrich et.al.|[2505.19971v1](http://arxiv.org/abs/2505.19971v1)|**2025-05-26**|null|
-|**2025-05-26**|**Adaptive Location Hierarchy Learning for Long-Tailed Mobility Prediction**|Yu Wang et.al.|[2505.19965v1](http://arxiv.org/abs/2505.19965v1)|**2025-05-26**|null|
-|**2025-05-26**|**DCG-SQL: Enhancing In-Context Learning for Text-to-SQL with Deep Contextual Schema Link Graph**|Jihyung Lee et.al.|[2505.19956v1](http://arxiv.org/abs/2505.19956v1)|**2025-05-26**|null|
-|**2025-05-26**|**SaSi: A Self-augmented and Self-interpreted Deep Learning Approach for Few-shot Cryo-ET Particle Detection**|Gokul Adethya et.al.|[2505.19948v1](http://arxiv.org/abs/2505.19948v1)|**2025-05-26**|null|
-|**2025-05-26**|**Task-Oriented Low-Label Semantic Communication With Self-Supervised Learning**|Run Gu et.al.|[2505.19940v1](http://arxiv.org/abs/2505.19940v1)|**2025-05-26**|null|
-|**2025-05-26**|**Multi-Timescale Motion-Decoupled Spiking Transformer for Audio-Visual Zero-Shot Learning**|Wenrui Li et.al.|[2505.19938v1](http://arxiv.org/abs/2505.19938v1)|**2025-05-26**|null|
-|**2025-05-26**|**ALAS: Measuring Latent Speech-Text Alignment For Spoken Language Understanding In Multimodal LLMs**|Pooneh Mousavi et.al.|[2505.19937v1](http://arxiv.org/abs/2505.19937v1)|**2025-05-26**|null|
-|**2025-05-26**|**Underwater Diffusion Attention Network with Contrastive Language-Image Joint Learning for Underwater Image Enhancement**|Afrah Shaahid et.al.|[2505.19895v1](http://arxiv.org/abs/2505.19895v1)|**2025-05-26**|null|
-|**2025-05-26**|**OmniFall: A Unified Staged-to-Wild Benchmark for Human Fall Detection**|David Schneider et.al.|[2505.19889v1](http://arxiv.org/abs/2505.19889v1)|**2025-05-26**|null|
-|**2025-05-26**|**Generalized and Personalized Federated Learning with Foundation Models via Orthogonal Transformations**|Eun Gyung Kong et.al.|[2505.19888v2](http://arxiv.org/abs/2505.19888v2)|**2025-05-27**|null|
-|**2025-05-26**|**A fully automated urban PV parameterization framework for improved estimation of energy production profiles**|Bowen Tian et.al.|[2505.19876v1](http://arxiv.org/abs/2505.19876v1)|**2025-05-26**|null|
-|**2025-05-26**|**StyleAR: Customizing Multimodal Autoregressive Model for Style-Aligned Text-to-Image Generation**|Yi Wu et.al.|[2505.19874v1](http://arxiv.org/abs/2505.19874v1)|**2025-05-26**|null|
-|**2025-05-26**|**FruitNeRF++: A Generalized Multi-Fruit Counting Method Utilizing Contrastive Learning and Neural Radiance Fields**|Lukas Meyer et.al.|[2505.19863v1](http://arxiv.org/abs/2505.19863v1)|**2025-05-26**|null|
-|**2025-05-26**|**Zero-Shot Pseudo Labels Generation Using SAM and CLIP for Semi-Supervised Semantic Segmentation**|Nagito Saito et.al.|[2505.19846v1](http://arxiv.org/abs/2505.19846v1)|**2025-05-26**|null|
-|**2025-05-26**|**Axiomatizing approximate inclusion**|Matilda Häggblom et.al.|[2505.19834v1](http://arxiv.org/abs/2505.19834v1)|**2025-05-26**|null|
-|**2025-05-26**|**Foundation Models for Tabular Data within Systemic Contexts Need Grounding**|Tassilo Klein et.al.|[2505.19825v1](http://arxiv.org/abs/2505.19825v1)|**2025-05-26**|null|
-|**2025-05-26**|**InfoCons: Identifying Interpretable Critical Concepts in Point Clouds via Information Theory**|Feifei Li et.al.|[2505.19820v1](http://arxiv.org/abs/2505.19820v1)|**2025-05-26**|null|
-|**2025-05-26**|**The Avengers: A Simple Recipe for Uniting Smaller Language Models to Challenge Proprietary Giants**|Yiqun Zhang et.al.|[2505.19797v1](http://arxiv.org/abs/2505.19797v1)|**2025-05-26**|null|
-|**2025-05-26**|**The Missing Point in Vision Transformers for Universal Image Segmentation**|Sajjad Shahabodini et.al.|[2505.19795v1](http://arxiv.org/abs/2505.19795v1)|**2025-05-26**|null|
-|**2025-05-26**|**What Can RL Bring to VLA Generalization? An Empirical Study**|Jijia Liu et.al.|[2505.19789v1](http://arxiv.org/abs/2505.19789v1)|**2025-05-26**|null|
+|**2025-05-27**|**How does Alignment Enhance LLMs' Multilingual Capabilities? A Language Neurons Perspective**|Shimao Zhang et.al.|[2505.21505v1](http://arxiv.org/abs/2505.21505v1)|**2025-05-27**|null|
+|**2025-05-27**|**Vision Transformers with Self-Distilled Registers**|Yinjie Chen et.al.|[2505.21501v1](http://arxiv.org/abs/2505.21501v1)|**2025-05-27**|null|
+|**2025-05-27**|**Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers**|Wei Pang et.al.|[2505.21497v1](http://arxiv.org/abs/2505.21497v1)|**2025-05-27**|null|
+|**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[2505.21457v1](http://arxiv.org/abs/2505.21457v1)|**2025-05-27**|null|
+|**2025-05-27**|**Visual Product Graph: Bridging Visual Products And Composite Images For End-to-End Style Recommendations**|Yue Li Du et.al.|[2505.21454v1](http://arxiv.org/abs/2505.21454v1)|**2025-05-27**|null|
+|**2025-05-27**|**Towards Better Instruction Following Retrieval Models**|Yuchen Zhuang et.al.|[2505.21439v1](http://arxiv.org/abs/2505.21439v1)|**2025-05-27**|null|
+|**2025-05-27**|**Autonomous Multi-Modal LLM Agents for Treatment Planning in Focused Ultrasound Ablation Surgery**|Lina Zhao et.al.|[2505.21418v1](http://arxiv.org/abs/2505.21418v1)|**2025-05-27**|null|
+|**2025-05-27**|**DecisionFlow: Advancing Large Language Model as Principled Decision Maker**|Xiusi Chen et.al.|[2505.21397v1](http://arxiv.org/abs/2505.21397v1)|**2025-05-27**|null|
+|**2025-05-27**|**AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs**|Xuanwen Ding et.al.|[2505.21389v1](http://arxiv.org/abs/2505.21389v1)|**2025-05-27**|null|
+|**2025-05-27**|**ZigzagPointMamba: Spatial-Semantic Mamba for Point Cloud Understanding**|Linshuang Diao et.al.|[2505.21381v1](http://arxiv.org/abs/2505.21381v1)|**2025-05-27**|null|
+|**2025-05-27**|**PHISH in MESH: Korean Adversarial Phonetic Substitution and Phonetic-Semantic Feature Integration Defense**|Byungjun Kim et.al.|[2505.21380v1](http://arxiv.org/abs/2505.21380v1)|**2025-05-27**|null|
+|**2025-05-27**|**Video-Holmes: Can MLLM Think Like Holmes for Complex Video Reasoning?**|Junhao Cheng et.al.|[2505.21374v1](http://arxiv.org/abs/2505.21374v1)|**2025-05-27**|null|
+|**2025-05-27**|**Beyond Accuracy: Uncovering the Role of Similarity Perception and its Alignment with Semantics in Supervised Learning**|Katarzyna Filus et.al.|[2505.21338v1](http://arxiv.org/abs/2505.21338v1)|**2025-05-27**|null|
+|**2025-05-27**|**HoliTom: Holistic Token Merging for Fast Video Large Language Models**|Kele Shao et.al.|[2505.21334v1](http://arxiv.org/abs/2505.21334v1)|**2025-05-27**|null|
+|**2025-05-27**|**Something's Fishy In The Data Lake: A Critical Re-evaluation of Table Union Search Benchmarks**|Allaa Boutaleb et.al.|[2505.21329v1](http://arxiv.org/abs/2505.21329v1)|**2025-05-27**|null|
+|**2025-05-27**|**MagicTryOn: Harnessing Diffusion Transformer for Garment-Preserving Video Virtual Try-on**|Guangyuan Li et.al.|[2505.21325v1](http://arxiv.org/abs/2505.21325v1)|**2025-05-27**|null|
+|**2025-05-27**|**Leveraging large language models and traditional machine learning ensembles for ADHD detection from narrative transcripts**|Yuxin Zhu et.al.|[2505.21324v1](http://arxiv.org/abs/2505.21324v1)|**2025-05-27**|null|
+|**2025-05-27**|**Efficient Leaf Disease Classification and Segmentation using Midpoint Normalization Technique and Attention Mechanism**|Enam Ahmed Taufik et.al.|[2505.21316v1](http://arxiv.org/abs/2505.21316v1)|**2025-05-27**|null|
+|**2025-05-27**|**Optimizing fMRI Data Acquisition for Decoding Natural Speech with Limited Participants**|Louis Jalouzot et.al.|[2505.21304v1](http://arxiv.org/abs/2505.21304v1)|**2025-05-27**|null|
+|**2025-05-27**|**How Humans and LLMs Organize Conceptual Knowledge: Exploring Subordinate Categories in Italian**|Andrea Pedrotti et.al.|[2505.21301v1](http://arxiv.org/abs/2505.21301v1)|**2025-05-27**|null|
+|**2025-05-27**|**Complex System Diagnostics Using a Knowledge Graph-Informed and Large Language Model-Enhanced Framework**|Saman Marandi et.al.|[2505.21291v1](http://arxiv.org/abs/2505.21291v1)|**2025-05-27**|null|
+|**2025-05-27**|**Learnable Kernel Density Estimation for Graphs**|Xudong Wang et.al.|[2505.21285v1](http://arxiv.org/abs/2505.21285v1)|**2025-05-27**|null|
+|**2025-05-27**|**EgoWalk: A Multimodal Dataset for Robot Navigation in the Wild**|Timur Akhtyamov et.al.|[2505.21282v1](http://arxiv.org/abs/2505.21282v1)|**2025-05-27**|null|
+|**2025-05-27**|**RLJP: Legal Judgment Prediction via First-Order Logic Rule-enhanced with Large Language Models**|Yue Zhang et.al.|[2505.21281v1](http://arxiv.org/abs/2505.21281v1)|**2025-05-27**|null|
+|**2025-05-27**|**Supervised and self-supervised land-cover segmentation & classification of the Biesbosch wetlands**|Eva Gmelich Meijling et.al.|[2505.21269v1](http://arxiv.org/abs/2505.21269v1)|**2025-05-27**|null|
+|**2025-05-27**|**Multilingual Pretraining for Pixel Language Models**|Ilker Kesen et.al.|[2505.21265v1](http://arxiv.org/abs/2505.21265v1)|**2025-05-27**|null|
+|**2025-05-27**|**ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question Answering with Relevance-Consistency Supervision**|Dosung Lee et.al.|[2505.21250v1](http://arxiv.org/abs/2505.21250v1)|**2025-05-27**|null|
+|**2025-05-27**|**LMCD: Language Models are Zeroshot Cognitive Diagnosis Learners**|Yu He et.al.|[2505.21239v1](http://arxiv.org/abs/2505.21239v1)|**2025-05-27**|null|
+|**2025-05-27**|**Lunguage: A Benchmark for Structured and Sequential Chest X-ray Interpretation**|Jong Hak Moon et.al.|[2505.21190v1](http://arxiv.org/abs/2505.21190v1)|**2025-05-27**|null|
+|**2025-05-27**|**PoisonSwarm: Universal Harmful Information Synthesis via Model Crowdsourcing**|Yu Yan et.al.|[2505.21184v1](http://arxiv.org/abs/2505.21184v1)|**2025-05-27**|null|

@@ -2,33 +2,33 @@
 ### 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-26**|**MolEditRL: Structure-Preserving Molecular Editing via Discrete Diffusion and Reinforcement Learning**|Yuanxin Zhuang et.al.|[2505.20131v1](http://arxiv.org/abs/2505.20131v1)|**2025-05-26**|null|
-|**2025-05-26**|**Agentic 3D Scene Generation with Spatially Contextualized VLMs**|Xinhang Liu et.al.|[2505.20129v1](http://arxiv.org/abs/2505.20129v1)|**2025-05-26**|null|
-|**2025-05-26**|**OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender**|Shintaro Ito et.al.|[2505.20126v1](http://arxiv.org/abs/2505.20126v1)|**2025-05-26**|null|
-|**2025-05-26**|**Bulk Reconstruction of Scalar Excitations in Flat$_3$/CCFT$_2$ and the Flat Limit from (A)dS$_3$/CFT$_2$**|Peng-Xiang Hao et.al.|[2505.20084v1](http://arxiv.org/abs/2505.20084v1)|**2025-05-26**|null|
-|**2025-05-26**|**M3DHMR: Monocular 3D Hand Mesh Recovery**|Yihong Lin et.al.|[2505.20058v1](http://arxiv.org/abs/2505.20058v1)|**2025-05-26**|null|
-|**2025-05-26**|**Data-Free Class-Incremental Gesture Recognition with Prototype-Guided Pseudo Feature Replay**|Hongsong Wang et.al.|[2505.20049v1](http://arxiv.org/abs/2505.20049v1)|**2025-05-26**|null|
-|**2025-05-26**|**Gradient Inversion Transcript: Leveraging Robust Generative Priors to Reconstruct Training Data from Gradient Leakage**|Xinping Chen et.al.|[2505.20026v1](http://arxiv.org/abs/2505.20026v1)|**2025-05-26**|null|
-|**2025-05-26**|**WebCoT: Enhancing Web Agent Reasoning by Reconstructing Chain-of-Thought in Reflection, Branching, and Rollback**|Minda Hu et.al.|[2505.20013v1](http://arxiv.org/abs/2505.20013v1)|**2025-05-26**|null|
-|**2025-05-26**|**Two Sample Testing for High-dimensional Functional Data: A Multi-resolution Projection Method**|Shouxia Wang et.al.|[2505.19974v1](http://arxiv.org/abs/2505.19974v1)|**2025-05-26**|null|
-|**2025-05-26**|**Estimating the binary neutron star merger rate density evolution with Einstein Telescope**|Neha Singh et.al.|[2505.19962v1](http://arxiv.org/abs/2505.19962v1)|**2025-05-26**|null|
-|**2025-05-26**|**UltraVSR: Achieving Ultra-Realistic Video Super-Resolution with Efficient One-Step Diffusion Space**|Yong Liu et.al.|[2505.19958v1](http://arxiv.org/abs/2505.19958v1)|**2025-05-26**|null|
-|**2025-05-26**|**An Explainable Diagnostic Framework for Neurodegenerative Dementias via Reinforcement-Optimized LLM Reasoning**|Andrew Zamai et.al.|[2505.19954v1](http://arxiv.org/abs/2505.19954v1)|**2025-05-26**|null|
-|**2025-05-26**|**SaSi: A Self-augmented and Self-interpreted Deep Learning Approach for Few-shot Cryo-ET Particle Detection**|Gokul Adethya et.al.|[2505.19948v1](http://arxiv.org/abs/2505.19948v1)|**2025-05-26**|null|
-|**2025-05-26**|**Task-Oriented Low-Label Semantic Communication With Self-Supervised Learning**|Run Gu et.al.|[2505.19940v1](http://arxiv.org/abs/2505.19940v1)|**2025-05-26**|null|
-|**2025-05-26**|**Convergence rates for Tikhonov regularization on compact sets: application to neural networks**|Barbara Palumbo et.al.|[2505.19936v1](http://arxiv.org/abs/2505.19936v1)|**2025-05-26**|null|
-|**2025-05-26**|**Nonlinear Transport in Carbon Quantum Dot Electronic Devices: Experiment and Theory**|Scott Copeland et.al.|[2505.19935v1](http://arxiv.org/abs/2505.19935v1)|**2025-05-26**|null|
-|**2025-05-26**|**Accelerating Flow-Matching-Based Text-to-Speech via Empirically Pruned Step Sampling**|Qixi Zheng et.al.|[2505.19931v1](http://arxiv.org/abs/2505.19931v1)|**2025-05-26**|null|
-|**2025-05-26**|**CA3D: Convolutional-Attentional 3D Nets for Efficient Video Activity Recognition on the Edge**|Gabriele Lagani et.al.|[2505.19928v1](http://arxiv.org/abs/2505.19928v1)|**2025-05-26**|null|
-|**2025-05-26**|**Weather-Magician: Reconstruction and Rendering Framework for 4D Weather Synthesis In Real Time**|Chen Sang et.al.|[2505.19919v1](http://arxiv.org/abs/2505.19919v1)|**2025-05-26**|null|
-|**2025-05-26**|**ErpGS: Equirectangular Image Rendering enhanced with 3D Gaussian Regularization**|Shintaro Ito et.al.|[2505.19883v1](http://arxiv.org/abs/2505.19883v1)|**2025-05-26**|null|
-|**2025-05-26**|**Impact of <3D> NLTE on GCE of oxygen with the RAdial Velocity Experiment**|G. Guiglion et.al.|[2505.19875v1](http://arxiv.org/abs/2505.19875v1)|**2025-05-26**|null|
-|**2025-05-26**|**Deep Spectral Prior**|Yanqi Cheng et.al.|[2505.19873v1](http://arxiv.org/abs/2505.19873v1)|**2025-05-26**|null|
-|**2025-05-26**|**Harnessing the Power of Training-Free Techniques in Text-to-2D Generation for Text-to-3D Generation via Score Distillation Sampling**|Junhong Lee et.al.|[2505.19868v1](http://arxiv.org/abs/2505.19868v1)|**2025-05-26**|null|
-|**2025-05-26**|**Sparse2DGS: Sparse-View Surface Reconstruction using 2D Gaussian Splatting with Dense Point Cloud**|Natsuki Takama et.al.|[2505.19854v1](http://arxiv.org/abs/2505.19854v1)|**2025-05-26**|null|
-|**2025-05-26**|**The stability threshold for 3D MHD equations around Couette with rationally aligned magnetic field**|Fei Wang et.al.|[2505.19822v1](http://arxiv.org/abs/2505.19822v1)|**2025-05-26**|null|
-|**2025-05-26**|**InfoCons: Identifying Interpretable Critical Concepts in Point Clouds via Information Theory**|Feifei Li et.al.|[2505.19820v1](http://arxiv.org/abs/2505.19820v1)|**2025-05-26**|null|
-|**2025-05-26**|**GoLF-NRT: Integrating Global Context and Local Geometry for Few-Shot View Synthesis**|You Wang et.al.|[2505.19813v1](http://arxiv.org/abs/2505.19813v1)|**2025-05-26**|null|
-|**2025-05-26**|**Challenges and perspectives in using multimodal imaging techniques to advance the understanding of fish intestinal microvilli**|Ankit Butola et.al.|[2505.19798v1](http://arxiv.org/abs/2505.19798v1)|**2025-05-26**|null|
-|**2025-05-26**|**Depth-Guided Bundle Sampling for Efficient Generalizable Neural Radiance Field Reconstruction**|Li Fang et.al.|[2505.19793v1](http://arxiv.org/abs/2505.19793v1)|**2025-05-26**|null|
-|**2025-05-26**|**Global stability for the compressible isentropic magnetohydrodynamic equations in 3D bounded domains with Navier-slip boundary conditions**|Yang Liu et.al.|[2505.19749v1](http://arxiv.org/abs/2505.19749v1)|**2025-05-26**|null|
+|**2025-05-27**|**Generalizable and Relightable Gaussian Splatting for Human Novel View Synthesis**|Yipengjing Sun et.al.|[2505.21502v1](http://arxiv.org/abs/2505.21502v1)|**2025-05-27**|null|
+|**2025-05-27**|**ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models**|Dingming Li et.al.|[2505.21500v1](http://arxiv.org/abs/2505.21500v1)|**2025-05-27**|null|
+|**2025-05-27**|**Chiral Anomaly Induced Transverse Planar Transport Phenomena in Three Dimensional Spin-Orbit Coupled Metals**|Rishi G. Gopalakrishnan et.al.|[2505.21498v1](http://arxiv.org/abs/2505.21498v1)|**2025-05-27**|null|
+|**2025-05-27**|**MV-CoLight: Efficient Object Compositing with Consistent Lighting and Shadow Generation**|Kerui Ren et.al.|[2505.21483v1](http://arxiv.org/abs/2505.21483v1)|**2025-05-27**|null|
+|**2025-05-27**|**Probing the quantum motion of a macroscopic mechanical oscillator with a radio-frequency superconducting qubit**|Kyrylo Gerashchenko et.al.|[2505.21481v1](http://arxiv.org/abs/2505.21481v1)|**2025-05-27**|null|
+|**2025-05-27**|**Designing Cyclic Peptides via Harmonic SDE with Atom-Bond Modeling**|Xiangxin Zhou et.al.|[2505.21452v1](http://arxiv.org/abs/2505.21452v1)|**2025-05-27**|null|
+|**2025-05-27**|**Wave-particle duality ellipse and application in single-photon imaging**|Pawan Khatiwada et.al.|[2505.21443v1](http://arxiv.org/abs/2505.21443v1)|**2025-05-27**|null|
+|**2025-05-27**|**Expectation-maximization for multi-reference alignment: Two pitfalls and one remedy**|Amnon Balanov et.al.|[2505.21435v1](http://arxiv.org/abs/2505.21435v1)|**2025-05-27**|null|
+|**2025-05-27**|**A Physics-Augmented GraphGPS Framework for the Reconstruction of 3D Riemann Problems from Sparse Data**|Rami Cassia et.al.|[2505.21421v1](http://arxiv.org/abs/2505.21421v1)|**2025-05-27**|null|
+|**2025-05-27**|**Mentor3AD: Feature Reconstruction-based 3D Anomaly Detection via Multi-modality Mentor Learning**|Jinbao Wang et.al.|[2505.21420v1](http://arxiv.org/abs/2505.21420v1)|**2025-05-27**|null|
+|**2025-05-27**|**WiCAL: Accurate Wi-Fi-Based 3D Localization Enabled by Collaborative Antenna Arrays**|Fuhai Wang et.al.|[2505.21408v1](http://arxiv.org/abs/2505.21408v1)|**2025-05-27**|null|
+|**2025-05-27**|**Distributed equilibrium seeking in aggregative games: linear convergence under singular perturbations lens**|Guido Carnevale et.al.|[2505.21386v1](http://arxiv.org/abs/2505.21386v1)|**2025-05-27**|null|
+|**2025-05-27**|**Dynamic Vision from EEG Brain Recordings: How much does EEG know?**|Prajwal Singh et.al.|[2505.21385v1](http://arxiv.org/abs/2505.21385v1)|**2025-05-27**|null|
+|**2025-05-27**|**ZigzagPointMamba: Spatial-Semantic Mamba for Point Cloud Understanding**|Linshuang Diao et.al.|[2505.21381v1](http://arxiv.org/abs/2505.21381v1)|**2025-05-27**|null|
+|**2025-05-27**|**Empowering Vector Graphics with Consistently Arbitrary Viewing and View-dependent Visibility**|Yidi Li et.al.|[2505.21377v1](http://arxiv.org/abs/2505.21377v1)|**2025-05-27**|null|
+|**2025-05-27**|**Towards Interpretability Without Sacrifice: Faithful Dense Layer Decomposition with Mixture of Decoders**|James Oldfield et.al.|[2505.21364v1](http://arxiv.org/abs/2505.21364v1)|**2025-05-27**|null|
+|**2025-05-27**|**EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipulation**|Xupeng Zhu et.al.|[2505.21351v1](http://arxiv.org/abs/2505.21351v1)|**2025-05-27**|null|
+|**2025-05-27**|**Structure from Collision**|Takuhiro Kaneko et.al.|[2505.21335v1](http://arxiv.org/abs/2505.21335v1)|**2025-05-27**|null|
+|**2025-05-27**|**MagicTryOn: Harnessing Diffusion Transformer for Garment-Preserving Video Virtual Try-on**|Guangyuan Li et.al.|[2505.21325v1](http://arxiv.org/abs/2505.21325v1)|**2025-05-27**|null|
+|**2025-05-27**|**efunc: An Efficient Function Representation without Neural Networks**|Biao Zhang et.al.|[2505.21319v1](http://arxiv.org/abs/2505.21319v1)|**2025-05-27**|null|
+|**2025-05-27**|**Spectral Compression Transformer with Line Pose Graph for Monocular 3D Human Pose Estimation**|Zenghao Zheng et.al.|[2505.21309v1](http://arxiv.org/abs/2505.21309v1)|**2025-05-27**|null|
+|**2025-05-27**|**Concurrent Exploration of Axion-Like Particle Interactions with Gauge Bosons at the LHC**|Shirin Chenarani et.al.|[2505.21305v1](http://arxiv.org/abs/2505.21305v1)|**2025-05-27**|null|
+|**2025-05-27**|**Low-energy, ultrafast spin reorientation at competing hybrid interfaces with tunable operating temperature**|Servet Ozdemir et.al.|[2505.21300v1](http://arxiv.org/abs/2505.21300v1)|**2025-05-27**|null|
+|**2025-05-27**|**Distributed Discrete Morse Sandwich: Efficient Computation of Persistence Diagrams for Massive Scalar Data**|Eve Le Guillou et.al.|[2505.21266v1](http://arxiv.org/abs/2505.21266v1)|**2025-05-27**|null|
+|**2025-05-27**|**DiMoSR: Feature Modulation via Multi-Branch Dilated Convolutions for Efficient Image Super-Resolution**|M. Akin Yilmaz et.al.|[2505.21262v1](http://arxiv.org/abs/2505.21262v1)|**2025-05-27**|null|
+|**2025-05-27**|**Plenodium: UnderWater 3D Scene Reconstruction with Plenoptic Medium Representation**|Changguanng Wu et.al.|[2505.21258v1](http://arxiv.org/abs/2505.21258v1)|**2025-05-27**|null|
+|**2025-05-27**|**Hand Shadow Art: A Differentiable Rendering Perspective**|Aalok Gangopadhyay et.al.|[2505.21252v1](http://arxiv.org/abs/2505.21252v1)|**2025-05-27**|null|
+|**2025-05-27**|**3D-UIR: 3D Gaussian for Underwater 3D Scene Reconstruction via Physics-Based Appearance-Medium Decouplin**|Jieyu Yuan et.al.|[2505.21238v1](http://arxiv.org/abs/2505.21238v1)|**2025-05-27**|null|
+|**2025-05-27**|**From Polyhedra to Crystals: A Graph-Theoretic Framework for Crystal Structure Generation**|Tomoyasu Yokoyama et.al.|[2505.21235v1](http://arxiv.org/abs/2505.21235v1)|**2025-05-27**|null|
+|**2025-05-27**|**Occlusion Boundary and Depth: Mutual Enhancement via Multi-Task Learning**|Lintao Xu et.al.|[2505.21231v1](http://arxiv.org/abs/2505.21231v1)|**2025-05-27**|null|
