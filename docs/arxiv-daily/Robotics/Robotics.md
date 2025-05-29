@@ -2,33 +2,33 @@
 ### Robotics
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-27**|**CLAMP: Crowdsourcing a LArge-scale in-the-wild haptic dataset with an open-source device for Multimodal robot Perception**|Pranav N. Thakkar et.al.|[2505.21495v1](http://arxiv.org/abs/2505.21495v1)|**2025-05-27**|null|
-|**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[2505.21457v1](http://arxiv.org/abs/2505.21457v1)|**2025-05-27**|null|
-|**2025-05-27**|**CoDA: Coordinated Diffusion Noise Optimization for Whole-Body Manipulation of Articulated Objects**|Huaijin Pi et.al.|[2505.21437v1](http://arxiv.org/abs/2505.21437v1)|**2025-05-27**|null|
-|**2025-05-27**|**Hume: Introducing System-2 Thinking in Visual-Language-Action Model**|Haoming Song et.al.|[2505.21432v1](http://arxiv.org/abs/2505.21432v1)|**2025-05-27**|null|
-|**2025-05-27**|**MRSD: Multi-Resolution Skill Discovery for HRL Agents**|Shashank Sharma et.al.|[2505.21410v1](http://arxiv.org/abs/2505.21410v1)|**2025-05-27**|null|
-|**2025-05-27**|**EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipulation**|Xupeng Zhu et.al.|[2505.21351v1](http://arxiv.org/abs/2505.21351v1)|**2025-05-27**|null|
-|**2025-05-27**|**Structure from Collision**|Takuhiro Kaneko et.al.|[2505.21335v1](http://arxiv.org/abs/2505.21335v1)|**2025-05-27**|null|
-|**2025-05-27**|**robostrategy: Field and Target Assignment Optimization in the Sloan Digital Sky Survey V**|Michael R. Blanton et.al.|[2505.21328v1](http://arxiv.org/abs/2505.21328v1)|**2025-05-27**|null|
-|**2025-05-27**|**A first look at ROS~2 applications written in asynchronous Rust**|Martin Škoudlil et.al.|[2505.21323v1](http://arxiv.org/abs/2505.21323v1)|**2025-05-27**|null|
-|**2025-05-27**|**EgoWalk: A Multimodal Dataset for Robot Navigation in the Wild**|Timur Akhtyamov et.al.|[2505.21282v1](http://arxiv.org/abs/2505.21282v1)|**2025-05-27**|null|
-|**2025-05-27**|**Think Twice, Act Once: Token-Aware Compression and Action Reuse for Efficient Inference in Vision-Language-Action Models**|Xudong Tan et.al.|[2505.21200v1](http://arxiv.org/abs/2505.21200v1)|**2025-05-27**|null|
-|**2025-05-27**|**Collision Probability Estimation for Optimization-based Vehicular Motion Planning**|Leon Tolksdorf et.al.|[2505.21161v1](http://arxiv.org/abs/2505.21161v1)|**2025-05-27**|null|
-|**2025-05-27**|**Dual Hierarchical Least-Squares Programming with Equality Constraints**|Kai Pfeiffer et.al.|[2505.21071v1](http://arxiv.org/abs/2505.21071v1)|**2025-05-27**|null|
-|**2025-05-27**|**A domain adaptation neural network for digital twin-supported fault diagnosis**|Zhenling Chen et.al.|[2505.21046v1](http://arxiv.org/abs/2505.21046v1)|**2025-05-27**|[link](https://github.com/JialingRichard/Digital-Twin-Fault-Diagnosis)|
-|**2025-05-27**|**Visual Cues Enhance Predictive Turn-Taking for Two-Party Human Interaction**|Sam O'Connor Russell et.al.|[2505.21043v1](http://arxiv.org/abs/2505.21043v1)|**2025-05-27**|null|
-|**2025-05-27**|**RefAV: Towards Planning-Centric Scenario Mining**|Cainan Davidson et.al.|[2505.20981v1](http://arxiv.org/abs/2505.20981v1)|**2025-05-27**|null|
-|**2025-05-27**|**SCALOFT: An Initial Approach for Situation Coverage-Based Safety Analysis of an Autonomous Aerial Drone in a Mine Environment**|Nawshin Mannan Proma et.al.|[2505.20969v1](http://arxiv.org/abs/2505.20969v1)|**2025-05-27**|null|
-|**2025-05-27**|**Semantic Communication meets System 2 ML: How Abstraction, Compositionality and Emergent Languages Shape Intelligence**|Mehdi Bennis et.al.|[2505.20964v1](http://arxiv.org/abs/2505.20964v1)|**2025-05-27**|null|
-|**2025-05-27**|**Object-Centric Action-Enhanced Representations for Robot Visuo-Motor Policy Learning**|Nikos Giannakakis et.al.|[2505.20962v1](http://arxiv.org/abs/2505.20962v1)|**2025-05-27**|null|
-|**2025-05-27**|**COM Adjustment Mechanism Control for Multi-Configuration Motion Stability of Unmanned Deformable Vehicle**|Jun Liu et.al.|[2505.20926v1](http://arxiv.org/abs/2505.20926v1)|**2025-05-27**|null|
-|**2025-05-27**|**HS-SLAM: A Fast and Hybrid Strategy-Based SLAM Approach for Low-Speed Autonomous Driving**|Bingxiang Kang et.al.|[2505.20906v1](http://arxiv.org/abs/2505.20906v1)|**2025-05-27**|null|
-|**2025-05-27**|**HTMNet: A Hybrid Network with Transformer-Mamba Bottleneck Multimodal Fusion for Transparent and Reflective Objects Depth Completion**|Guanghu Xie et.al.|[2505.20904v2](http://arxiv.org/abs/2505.20904v2)|**2025-05-28**|null|
-|**2025-05-27**|**Cross from Left to Right Brain: Adaptive Text Dreamer for Vision-and-Language Navigation**|Pingrui Zhang et.al.|[2505.20897v1](http://arxiv.org/abs/2505.20897v1)|**2025-05-27**|null|
-|**2025-05-27**|**Generalized Coordination of Partially Cooperative Urban Traffic**|Max Bastian Mertens et.al.|[2505.20879v1](http://arxiv.org/abs/2505.20879v1)|**2025-05-27**|null|
-|**2025-05-27**|**G-DReaM: Graph-conditioned Diffusion Retargeting across Multiple Embodiments**|Zhefeng Cao et.al.|[2505.20857v1](http://arxiv.org/abs/2505.20857v1)|**2025-05-27**|null|
-|**2025-05-27**|**Collision-free Control Barrier Functions for General Ellipsoids via Separating Hyperplane**|Zeming Wu et.al.|[2505.20847v1](http://arxiv.org/abs/2505.20847v1)|**2025-05-27**|null|
-|**2025-05-27**|**TCP J07222683$+$6220548: a new AM CVn type system with infrequent outbursts**|Alexander Tarasenkov et.al.|[2505.20842v1](http://arxiv.org/abs/2505.20842v1)|**2025-05-27**|null|
-|**2025-05-27**|**Learning Unified Force and Position Control for Legged Loco-Manipulation**|Peiyuan Zhi et.al.|[2505.20829v1](http://arxiv.org/abs/2505.20829v1)|**2025-05-27**|null|
-|**2025-05-27**|**GET: Goal-directed Exploration and Targeting for Large-Scale Unknown Environments**|Lanxiang Zheng et.al.|[2505.20828v2](http://arxiv.org/abs/2505.20828v2)|**2025-05-28**|null|
-|**2025-05-27**|**Spatial RoboGrasp: Generalized Robotic Grasping Control Policy**|Yiqi Huang et.al.|[2505.20814v1](http://arxiv.org/abs/2505.20814v1)|**2025-05-27**|null|
+|**2025-05-28**|**FastTD3: Simple, Fast, and Capable Reinforcement Learning for Humanoid Control**|Younggyo Seo et.al.|[2505.22642v1](http://arxiv.org/abs/2505.22642v1)|**2025-05-28**|null|
+|**2025-05-28**|**LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents**|Rui Li et.al.|[2505.22634v1](http://arxiv.org/abs/2505.22634v1)|**2025-05-28**|null|
+|**2025-05-28**|**SCIZOR: A Self-Supervised Approach to Data Curation for Large-Scale Imitation Learning**|Yu Zhang et.al.|[2505.22626v1](http://arxiv.org/abs/2505.22626v1)|**2025-05-28**|null|
+|**2025-05-28**|**VR-Based Control of Multi-Copter Operation**|Jack T. Hughes et.al.|[2505.22599v1](http://arxiv.org/abs/2505.22599v1)|**2025-05-28**|null|
+|**2025-05-28**|**Spot-On: A Mixed Reality Interface for Multi-Robot Cooperation**|Tim Engelbracht et.al.|[2505.22539v1](http://arxiv.org/abs/2505.22539v1)|**2025-05-28**|null|
+|**2025-05-28**|**From Strangers to Assistants: Fast Desire Alignment for Embodied Agent-User Adaptation**|Yuanfei Wang et.al.|[2505.22503v1](http://arxiv.org/abs/2505.22503v1)|**2025-05-28**|null|
+|**2025-05-28**|**Fully Packed and Ready to Go: High-Density, Rearrangement-Free, Grid-Based Storage and Retrieval**|Tzvika Geft et.al.|[2505.22497v1](http://arxiv.org/abs/2505.22497v1)|**2025-05-28**|null|
+|**2025-05-28**|**COSMOS: A Data-Driven Probabilistic Time Series simulator for Chemical Plumes across Spatial Scales**|Arunava Nag et.al.|[2505.22436v1](http://arxiv.org/abs/2505.22436v1)|**2025-05-28**|null|
+|**2025-05-28**|**Zero-Shot 3D Visual Grounding from Vision-Language Models**|Rong Li et.al.|[2505.22429v1](http://arxiv.org/abs/2505.22429v1)|**2025-05-28**|null|
+|**2025-05-28**|**GeoDrive: 3D Geometry-Informed Driving World Model with Precise Action Control**|Anthony Chen et.al.|[2505.22421v1](http://arxiv.org/abs/2505.22421v1)|**2025-05-28**|null|
+|**2025-05-28**|**Efficient Precision-Scalable Hardware for Microscaling (MX) Processing in Robotics Learning**|Stef Cuyckens et.al.|[2505.22404v1](http://arxiv.org/abs/2505.22404v1)|**2025-05-28**|null|
+|**2025-05-28**|**State and Input Constrained Adaptive Tracking Control of Uncertain Euler-Lagrange Systems with Robustness and Feasibility Analysis**|Poulomee Ghosh et.al.|[2505.22352v1](http://arxiv.org/abs/2505.22352v1)|**2025-05-28**|null|
+|**2025-05-28**|**Task-Driven Implicit Representations for Automated Design of LiDAR Systems**|Nikhil Behari et.al.|[2505.22344v1](http://arxiv.org/abs/2505.22344v1)|**2025-05-28**|null|
+|**2025-05-28**|**UP-SLAM: Adaptively Structured Gaussian SLAM with Uncertainty Prediction in Dynamic Environments**|Wancai Zheng et.al.|[2505.22335v1](http://arxiv.org/abs/2505.22335v1)|**2025-05-28**|null|
+|**2025-05-28**|**LiDAR Based Semantic Perception for Forklifts in Outdoor Environments**|Benjamin Serfling et.al.|[2505.22258v1](http://arxiv.org/abs/2505.22258v1)|**2025-05-28**|null|
+|**2025-05-28**|**YH-MINER: Multimodal Intelligent System for Natural Ecological Reef Metric Extraction**|Mingzhuang Wang et.al.|[2505.22250v1](http://arxiv.org/abs/2505.22250v1)|**2025-05-28**|null|
+|**2025-05-28**|**ForceVLA: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation**|Jiawen Yu et.al.|[2505.22159v1](http://arxiv.org/abs/2505.22159v1)|**2025-05-28**|null|
+|**2025-05-28**|**Real-World Modeling of Computation Offloading for Neural Networks with Early Exits and Splits**|Jan Danek et.al.|[2505.22149v1](http://arxiv.org/abs/2505.22149v1)|**2025-05-28**|null|
+|**2025-05-28**|**Efficient Dynamic Shielding for Parametric Safety Specifications**|Davide Corsi et.al.|[2505.22104v1](http://arxiv.org/abs/2505.22104v1)|**2025-05-28**|null|
+|**2025-05-28**|**ReinFlow: Fine-tuning Flow Matching Policy with Online Reinforcement Learning**|Tonghe Zhang et.al.|[2505.22094v1](http://arxiv.org/abs/2505.22094v1)|**2025-05-28**|null|
+|**2025-05-28**|**A simulation framework for autonomous lunar construction work**|Mattias Linde et.al.|[2505.22091v1](http://arxiv.org/abs/2505.22091v1)|**2025-05-28**|null|
+|**2025-05-28**|**Visual Cues Support Robust Turn-taking Prediction in Noise**|Sam O'Connor Russell et.al.|[2505.22088v1](http://arxiv.org/abs/2505.22088v1)|**2025-05-28**|null|
+|**2025-05-28**|**From Failures to Fixes: LLM-Driven Scenario Repair for Self-Evolving Autonomous Driving**|Xinyu Xia et.al.|[2505.22067v1](http://arxiv.org/abs/2505.22067v1)|**2025-05-28**|null|
+|**2025-05-28**|**Learnable Burst-Encodable Time-of-Flight Imaging for High-Fidelity Long-Distance Depth Sensing**|Manchao Bao et.al.|[2505.22025v1](http://arxiv.org/abs/2505.22025v1)|**2025-05-28**|null|
+|**2025-05-28**|**Soft Electrothermal Meta-Actuator for Robust Multifunctional Control**|Hanseong Jo et.al.|[2505.21992v1](http://arxiv.org/abs/2505.21992v1)|**2025-05-28**|null|
+|**2025-05-28**|**Learning Compositional Behaviors from Demonstration and Language**|Weiyu Liu et.al.|[2505.21981v1](http://arxiv.org/abs/2505.21981v1)|**2025-05-28**|null|
+|**2025-05-28**|**DORAEMON: Decentralized Ontology-aware Reliable Agent with Enhanced Memory Oriented Navigation**|Tianjun Gu et.al.|[2505.21969v1](http://arxiv.org/abs/2505.21969v1)|**2025-05-28**|null|
+|**2025-05-28**|**Enhanced SIRRT*: A Structure-Aware RRT* for 2D Path Planning with Hybrid Smoothing and Bidirectional Rewiring**|Hyejeong Ryu et.al.|[2505.21968v1](http://arxiv.org/abs/2505.21968v1)|**2025-05-28**|null|
+|**2025-05-28**|**Mastering Agile Tasks with Limited Trials**|Yihang Hu et.al.|[2505.21916v1](http://arxiv.org/abs/2505.21916v1)|**2025-05-28**|null|
+|**2025-05-28**|**Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge**|Zhongyi Zhou et.al.|[2505.21906v1](http://arxiv.org/abs/2505.21906v1)|**2025-05-28**|null|

@@ -2,33 +2,33 @@
 ### Multi-modal
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-27**|**Mitigating Hallucination in Large Vision-Language Models via Adaptive Attention Calibration**|Mehrdad Fazli et.al.|[2505.21472v1](http://arxiv.org/abs/2505.21472v1)|**2025-05-27**|null|
-|**2025-05-27**|**Mentor3AD: Feature Reconstruction-based 3D Anomaly Detection via Multi-modality Mentor Learning**|Jinbao Wang et.al.|[2505.21420v1](http://arxiv.org/abs/2505.21420v1)|**2025-05-27**|null|
-|**2025-05-27**|**Diagnosing and Resolving Cloud Platform Instability with Multi-modal RAG LLMs**|Yifan Wang et.al.|[2505.21419v2](http://arxiv.org/abs/2505.21419v2)|**2025-05-28**|null|
-|**2025-05-27**|**Autonomous Multi-Modal LLM Agents for Treatment Planning in Focused Ultrasound Ablation Surgery**|Lina Zhao et.al.|[2505.21418v1](http://arxiv.org/abs/2505.21418v1)|**2025-05-27**|null|
-|**2025-05-27**|**AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs**|Xuanwen Ding et.al.|[2505.21389v1](http://arxiv.org/abs/2505.21389v1)|**2025-05-27**|null|
-|**2025-05-27**|**Evaluating LLM Adaptation to Sociodemographic Factors: User Profile vs. Dialogue History**|Qishuai Zhong et.al.|[2505.21362v1](http://arxiv.org/abs/2505.21362v1)|**2025-05-27**|null|
-|**2025-05-27**|**Prostate Cancer Screening with Artificial Intelligence-Enhanced Micro-Ultrasound: A Comparative Study with Traditional Methods**|Muhammad Imran et.al.|[2505.21355v1](http://arxiv.org/abs/2505.21355v1)|**2025-05-27**|null|
-|**2025-05-27**|**A Cross Modal Knowledge Distillation & Data Augmentation Recipe for Improving Transcriptomics Representations through Morphological Features**|Ihab Bendidi et.al.|[2505.21317v1](http://arxiv.org/abs/2505.21317v1)|**2025-05-27**|null|
-|**2025-05-27**|**Custom Representations of Inductive Families**|Constantine Theocharis et.al.|[2505.21225v2](http://arxiv.org/abs/2505.21225v2)|**2025-05-28**|null|
-|**2025-05-27**|**Constructive community race: full-density spiking neural network model drives neuromorphic computing**|Johanna Senk et.al.|[2505.21185v1](http://arxiv.org/abs/2505.21185v1)|**2025-05-27**|null|
-|**2025-05-27**|**Normalized Attention Guidance: Universal Negative Guidance for Diffusion Model**|Dar-Yen Chen et.al.|[2505.21179v1](http://arxiv.org/abs/2505.21179v1)|**2025-05-27**|null|
-|**2025-05-27**|**Assessment of L2 Oral Proficiency using Speech Large Language Models**|Rao Ma et.al.|[2505.21148v1](http://arxiv.org/abs/2505.21148v1)|**2025-05-27**|null|
-|**2025-05-27**|**IKMo: Image-Keyframed Motion Generation with Trajectory-Pose Conditioned Motion Diffusion Model**|Yang Zhao et.al.|[2505.21146v1](http://arxiv.org/abs/2505.21146v1)|**2025-05-27**|null|
-|**2025-05-27**|**The Effect of the Gotthard Base Tunnel on Road Traffic: A Synthetic Control Approach**|Hannes Wallimann et.al.|[2505.21129v1](http://arxiv.org/abs/2505.21129v1)|**2025-05-27**|null|
-|**2025-05-27**|**ReassembleNet: Learnable Keypoints and Diffusion for 2D Fresco Reconstruction**|Adeela Islam et.al.|[2505.21117v1](http://arxiv.org/abs/2505.21117v1)|**2025-05-27**|null|
-|**2025-05-27**|**Interpreting Social Bias in LVLMs via Information Flow Analysis and Multi-Round Dialogue Evaluation**|Zhengyang Ji et.al.|[2505.21106v1](http://arxiv.org/abs/2505.21106v1)|**2025-05-27**|null|
-|**2025-05-27**|**Uni3D-MoE: Scalable Multimodal 3D Scene Understanding via Mixture of Experts**|Yue Zhang et.al.|[2505.21079v1](http://arxiv.org/abs/2505.21079v1)|**2025-05-27**|null|
-|**2025-05-27**|**Predicting Implicit Arguments in Procedural Video Instructions**|Anil Batra et.al.|[2505.21068v1](http://arxiv.org/abs/2505.21068v1)|**2025-05-27**|null|
-|**2025-05-27**|**Inverse Virtual Try-On: Generating Multi-Category Product-Style Images from Clothed Individuals**|Davide Lobba et.al.|[2505.21062v1](http://arxiv.org/abs/2505.21062v1)|**2025-05-27**|null|
-|**2025-05-27**|**Text-Queried Audio Source Separation via Hierarchical Modeling**|Xinlei Yin et.al.|[2505.21025v1](http://arxiv.org/abs/2505.21025v1)|**2025-05-27**|null|
-|**2025-05-27**|**RefAV: Towards Planning-Centric Scenario Mining**|Cainan Davidson et.al.|[2505.20981v1](http://arxiv.org/abs/2505.20981v1)|**2025-05-27**|null|
-|**2025-05-27**|**Evaluating and Steering Modality Preferences in Multimodal Large Language Model**|Yu Zhang et.al.|[2505.20977v1](http://arxiv.org/abs/2505.20977v1)|**2025-05-27**|null|
-|**2025-05-27**|**HuMoCon: Concept Discovery for Human Motion Understanding**|Qihang Fang et.al.|[2505.20920v1](http://arxiv.org/abs/2505.20920v1)|**2025-05-27**|null|
-|**2025-05-27**|**Fork-Merge Decoding: Enhancing Multimodal Understanding in Audio-Visual Large Language Models**|Chaeyoung Jung et.al.|[2505.20873v1](http://arxiv.org/abs/2505.20873v1)|**2025-05-27**|null|
-|**2025-05-27**|**AVCD: Mitigating Hallucinations in Audio-Visual Large Language Models through Contrastive Decoding**|Chaeyoung Jung et.al.|[2505.20862v1](http://arxiv.org/abs/2505.20862v1)|**2025-05-27**|null|
-|**2025-05-27**|**Cooperation of Experts: Fusing Heterogeneous Information with Large Margin**|Shuo Wang et.al.|[2505.20853v2](http://arxiv.org/abs/2505.20853v2)|**2025-05-28**|null|
-|**2025-05-27**|**Rethinking Information Synthesis in Multimodal Question Answering A Multi-Agent Perspective**|Krishna Singh Rajput et.al.|[2505.20816v1](http://arxiv.org/abs/2505.20816v1)|**2025-05-27**|null|
-|**2025-05-27**|**The Role of AI in Early Detection of Life-Threatening Diseases: A Retinal Imaging Perspective**|Tariq M Khan et.al.|[2505.20810v1](http://arxiv.org/abs/2505.20810v1)|**2025-05-27**|null|
-|**2025-05-27**|**Automating eHMI Action Design with LLMs for Automated Vehicle Communication**|Ding Xia et.al.|[2505.20711v1](http://arxiv.org/abs/2505.20711v1)|**2025-05-27**|null|
-|**2025-05-27**|**Continual Learning on CLIP via Incremental Prompt Tuning with Intrinsic Textual Anchors**|Haodong Lu et.al.|[2505.20680v1](http://arxiv.org/abs/2505.20680v1)|**2025-05-27**|null|
+|**2025-05-28**|**VScan: Rethinking Visual Token Reduction for Efficient Large Vision-Language Models**|Ce Zhang et.al.|[2505.22654v1](http://arxiv.org/abs/2505.22654v1)|**2025-05-28**|null|
+|**2025-05-28**|**SPIRAL: Semantic-Aware Progressive LiDAR Scene Generation**|Dekai Zhu et.al.|[2505.22643v1](http://arxiv.org/abs/2505.22643v1)|**2025-05-28**|null|
+|**2025-05-28**|**DocReRank: Single-Page Hard Negative Query Generation for Training Multi-Modal RAG Rerankers**|Navve Wasserman et.al.|[2505.22584v1](http://arxiv.org/abs/2505.22584v1)|**2025-05-28**|null|
+|**2025-05-28**|**Universal Visuo-Tactile Video Understanding for Embodied Interaction**|Yifan Xie et.al.|[2505.22566v1](http://arxiv.org/abs/2505.22566v1)|**2025-05-28**|null|
+|**2025-05-28**|**Scaling-up Perceptual Video Quality Assessment**|Ziheng Jia et.al.|[2505.22543v1](http://arxiv.org/abs/2505.22543v1)|**2025-05-28**|null|
+|**2025-05-28**|**Thinking with Generated Images**|Ethan Chern et.al.|[2505.22525v1](http://arxiv.org/abs/2505.22525v1)|**2025-05-28**|null|
+|**2025-05-28**|**PathFL: Multi-Alignment Federated Learning for Pathology Image Segmentation**|Yuan Zhang et.al.|[2505.22522v1](http://arxiv.org/abs/2505.22522v1)|**2025-05-28**|null|
+|**2025-05-28**|**Sparsification and Reconstruction from the Perspective of Representation Geometry**|Wenjie Sun et.al.|[2505.22506v1](http://arxiv.org/abs/2505.22506v1)|**2025-05-28**|null|
+|**2025-05-28**|**On the Surprising Effectiveness of Large Learning Rates under Standard Width Scaling**|Moritz Haas et.al.|[2505.22491v1](http://arxiv.org/abs/2505.22491v1)|**2025-05-28**|null|
+|**2025-05-28**|**A Closer Look at Multimodal Representation Collapse**|Abhra Chaudhuri et.al.|[2505.22483v1](http://arxiv.org/abs/2505.22483v1)|**2025-05-28**|null|
+|**2025-05-28**|**Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO**|Lai Wei et.al.|[2505.22453v1](http://arxiv.org/abs/2505.22453v1)|**2025-05-28**|null|
+|**2025-05-28**|**Zero-Shot 3D Visual Grounding from Vision-Language Models**|Rong Li et.al.|[2505.22429v1](http://arxiv.org/abs/2505.22429v1)|**2025-05-28**|null|
+|**2025-05-28**|**RC-AutoCalib: An End-to-End Radar-Camera Automatic Calibration Network**|Van-Tin Luu et.al.|[2505.22427v1](http://arxiv.org/abs/2505.22427v1)|**2025-05-28**|null|
+|**2025-05-28**|**Structural Hole Traps in III-V Quantum Dots**|Ezra Alexander et.al.|[2505.22419v1](http://arxiv.org/abs/2505.22419v1)|**2025-05-28**|null|
+|**2025-05-28**|**Frugal Incremental Generative Modeling using Variational Autoencoders**|Victor Enescu et.al.|[2505.22408v1](http://arxiv.org/abs/2505.22408v1)|**2025-05-28**|null|
+|**2025-05-28**|**Zooming from Context to Cue: Hierarchical Preference Optimization for Multi-Image MLLMs**|Xudong Li et.al.|[2505.22396v1](http://arxiv.org/abs/2505.22396v1)|**2025-05-28**|null|
+|**2025-05-28**|**UP-SLAM: Adaptively Structured Gaussian SLAM with Uncertainty Prediction in Dynamic Environments**|Wancai Zheng et.al.|[2505.22335v1](http://arxiv.org/abs/2505.22335v1)|**2025-05-28**|null|
+|**2025-05-28**|**Versatile Cardiovascular Signal Generation with a Unified Diffusion Transformer**|Zehua Chen et.al.|[2505.22306v1](http://arxiv.org/abs/2505.22306v1)|**2025-05-28**|null|
+|**2025-05-28**|**The complexity of deciding characteristic formulae modulo nested simulation**|Luca Aceto et.al.|[2505.22277v1](http://arxiv.org/abs/2505.22277v1)|**2025-05-28**|null|
+|**2025-05-28**|**Yambda-5B -- A Large-Scale Multi-modal Dataset for Ranking And Retrieval**|A. Ploshkin et.al.|[2505.22238v1](http://arxiv.org/abs/2505.22238v1)|**2025-05-28**|null|
+|**2025-05-28**|**Bayesian Learning in Structural Dynamics: A Comprehensive Review and Emerging Trends**|Wang-Ji Yan et.al.|[2505.22223v1](http://arxiv.org/abs/2505.22223v1)|**2025-05-28**|null|
+|**2025-05-28**|**A Survey on Training-free Open-Vocabulary Semantic Segmentation**|Naomi Kombol et.al.|[2505.22209v1](http://arxiv.org/abs/2505.22209v1)|**2025-05-28**|null|
+|**2025-05-28**|**Investigating Mechanisms for In-Context Vision Language Binding**|Darshana Saravanan et.al.|[2505.22200v1](http://arxiv.org/abs/2505.22200v1)|**2025-05-28**|null|
+|**2025-05-28**|**Algorithm Unrolling-based Denoising of Multimodal Graph Signals**|Hayate Kojima et.al.|[2505.22175v1](http://arxiv.org/abs/2505.22175v1)|**2025-05-28**|null|
+|**2025-05-28**|**ForceVLA: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation**|Jiawen Yu et.al.|[2505.22159v1](http://arxiv.org/abs/2505.22159v1)|**2025-05-28**|null|
+|**2025-05-28**|**Learning A Robust RGB-Thermal Detector for Extreme Modality Imbalance**|Chao Tian et.al.|[2505.22154v1](http://arxiv.org/abs/2505.22154v1)|**2025-05-28**|null|
+|**2025-05-28**|**Flexible Tool Selection through Low-dimensional Attribute Alignment of Vision and Language**|Guangfu Hao et.al.|[2505.22146v1](http://arxiv.org/abs/2505.22146v1)|**2025-05-28**|null|
+|**2025-05-28**|**Visual Large Language Models Exhibit Human-Level Cognitive Flexibility in the Wisconsin Card Sorting Test**|Guangfu Hao et.al.|[2505.22112v1](http://arxiv.org/abs/2505.22112v1)|**2025-05-28**|null|
+|**2025-05-28**|**MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models**|Zhiyu Li et.al.|[2505.22101v1](http://arxiv.org/abs/2505.22101v1)|**2025-05-28**|null|
+|**2025-05-28**|**Learning to Route Queries Across Knowledge Bases for Step-wise Retrieval-Augmented Reasoning**|Chunyi Peng et.al.|[2505.22095v1](http://arxiv.org/abs/2505.22095v1)|**2025-05-28**|null|
