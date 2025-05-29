@@ -23,12 +23,12 @@
 |**2025-05-27**|**Object-Centric Action-Enhanced Representations for Robot Visuo-Motor Policy Learning**|Nikos Giannakakis et.al.|[2505.20962v1](http://arxiv.org/abs/2505.20962v1)|**2025-05-27**|null|
 |**2025-05-27**|**COM Adjustment Mechanism Control for Multi-Configuration Motion Stability of Unmanned Deformable Vehicle**|Jun Liu et.al.|[2505.20926v1](http://arxiv.org/abs/2505.20926v1)|**2025-05-27**|null|
 |**2025-05-27**|**HS-SLAM: A Fast and Hybrid Strategy-Based SLAM Approach for Low-Speed Autonomous Driving**|Bingxiang Kang et.al.|[2505.20906v1](http://arxiv.org/abs/2505.20906v1)|**2025-05-27**|null|
-|**2025-05-27**|**HTMNet: A Hybrid Network with Transformer-Mamba Bottleneck Multimodal Fusion for Transparent and Reflective Objects Depth Completion**|Guanghu Xie et.al.|[2505.20904v1](http://arxiv.org/abs/2505.20904v1)|**2025-05-27**|null|
+|**2025-05-27**|**HTMNet: A Hybrid Network with Transformer-Mamba Bottleneck Multimodal Fusion for Transparent and Reflective Objects Depth Completion**|Guanghu Xie et.al.|[2505.20904v2](http://arxiv.org/abs/2505.20904v2)|**2025-05-28**|null|
 |**2025-05-27**|**Cross from Left to Right Brain: Adaptive Text Dreamer for Vision-and-Language Navigation**|Pingrui Zhang et.al.|[2505.20897v1](http://arxiv.org/abs/2505.20897v1)|**2025-05-27**|null|
 |**2025-05-27**|**Generalized Coordination of Partially Cooperative Urban Traffic**|Max Bastian Mertens et.al.|[2505.20879v1](http://arxiv.org/abs/2505.20879v1)|**2025-05-27**|null|
 |**2025-05-27**|**G-DReaM: Graph-conditioned Diffusion Retargeting across Multiple Embodiments**|Zhefeng Cao et.al.|[2505.20857v1](http://arxiv.org/abs/2505.20857v1)|**2025-05-27**|null|
 |**2025-05-27**|**Collision-free Control Barrier Functions for General Ellipsoids via Separating Hyperplane**|Zeming Wu et.al.|[2505.20847v1](http://arxiv.org/abs/2505.20847v1)|**2025-05-27**|null|
 |**2025-05-27**|**TCP J07222683$+$6220548: a new AM CVn type system with infrequent outbursts**|Alexander Tarasenkov et.al.|[2505.20842v1](http://arxiv.org/abs/2505.20842v1)|**2025-05-27**|null|
 |**2025-05-27**|**Learning Unified Force and Position Control for Legged Loco-Manipulation**|Peiyuan Zhi et.al.|[2505.20829v1](http://arxiv.org/abs/2505.20829v1)|**2025-05-27**|null|
-|**2025-05-27**|**GET: Goal-directed Exploration and Targeting for Large-Scale Unknown Environments**|Lanxiang Zheng et.al.|[2505.20828v1](http://arxiv.org/abs/2505.20828v1)|**2025-05-27**|null|
+|**2025-05-27**|**GET: Goal-directed Exploration and Targeting for Large-Scale Unknown Environments**|Lanxiang Zheng et.al.|[2505.20828v2](http://arxiv.org/abs/2505.20828v2)|**2025-05-28**|null|
 |**2025-05-27**|**Spatial RoboGrasp: Generalized Robotic Grasping Control Policy**|Yiqi Huang et.al.|[2505.20814v1](http://arxiv.org/abs/2505.20814v1)|**2025-05-27**|null|
