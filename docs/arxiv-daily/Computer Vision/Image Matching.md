@@ -31,4 +31,4 @@
 |**2025-05-28**|**PrismLayers: Open Data for High-Quality Multi-Layer Transparent Image Generative Models**|Junwen Chen et.al.|[2505.22523v1](http://arxiv.org/abs/2505.22523v1)|**2025-05-28**|null|
 |**2025-05-28**|**PathFL: Multi-Alignment Federated Learning for Pathology Image Segmentation**|Yuan Zhang et.al.|[2505.22522v1](http://arxiv.org/abs/2505.22522v1)|**2025-05-28**|null|
 |**2025-05-28**|**Multi-MLLM Knowledge Distillation for Out-of-Context News Detection**|Yimeng Gu et.al.|[2505.22517v1](http://arxiv.org/abs/2505.22517v1)|**2025-05-28**|null|
-|**2025-05-28**|**Surf2CT: Cascaded 3D Flow Matching Models for Torso 3D CT Synthesis from Skin Surface**|Siyeop Yoon et.al.|[2505.22511v1](http://arxiv.org/abs/2505.22511v1)|**2025-05-28**|null|
+|**2025-05-28**|**Surf2CT: Cascaded 3D Flow Matching Models for Torso 3D CT Synthesis from Skin Surface**|Siyeop Yoon et.al.|[2505.22511v2](http://arxiv.org/abs/2505.22511v2)|**2025-05-29**|null|

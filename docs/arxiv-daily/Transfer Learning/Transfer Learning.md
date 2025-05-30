@@ -4,16 +4,16 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-05-28**|**Zero-Shot Vision Encoder Grafting via LLM Surrogates**|Kaiyu Yue et.al.|[2505.22664v1](http://arxiv.org/abs/2505.22664v1)|**2025-05-28**|[link](https://github.com/facebookresearch/zero)|
 |**2025-05-28**|**AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models**|Feng Luo et.al.|[2505.22662v1](http://arxiv.org/abs/2505.22662v1)|**2025-05-28**|null|
-|**2025-05-28**|**Maximizing Confidence Alone Improves Reasoning**|Mihir Prabhudesai et.al.|[2505.22660v1](http://arxiv.org/abs/2505.22660v1)|**2025-05-28**|null|
+|**2025-05-28**|**Maximizing Confidence Alone Improves Reasoning**|Mihir Prabhudesai et.al.|[2505.22660v2](http://arxiv.org/abs/2505.22660v2)|**2025-05-29**|null|
 |**2025-05-28**|**3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model**|Wenbo Hu et.al.|[2505.22657v1](http://arxiv.org/abs/2505.22657v1)|**2025-05-28**|null|
 |**2025-05-28**|**Position: Uncertainty Quantification Needs Reassessment for Large-language Model Agents**|Michael Kirchhof et.al.|[2505.22655v1](http://arxiv.org/abs/2505.22655v1)|**2025-05-28**|null|
 |**2025-05-28**|**The Climb Carves Wisdom Deeper Than the Summit: On the Noisy Rewards in Learning to Reason**|Ang Lv et.al.|[2505.22653v1](http://arxiv.org/abs/2505.22653v1)|**2025-05-28**|null|
 |**2025-05-28**|**Sherlock: Self-Correcting Reasoning in Vision-Language Models**|Yi Ding et.al.|[2505.22651v1](http://arxiv.org/abs/2505.22651v1)|**2025-05-28**|null|
 |**2025-05-28**|**On Learning Verifiers for Chain-of-Thought Reasoning**|Maria-Florina Balcan et.al.|[2505.22650v1](http://arxiv.org/abs/2505.22650v1)|**2025-05-28**|null|
-|**2025-05-28**|**Pre-training for Recommendation Unlearning**|Guoxuan Chen et.al.|[2505.22649v1](http://arxiv.org/abs/2505.22649v1)|**2025-05-28**|null|
+|**2025-05-28**|**Pre-training for Recommendation Unlearning**|Guoxuan Chen et.al.|[2505.22649v2](http://arxiv.org/abs/2505.22649v2)|**2025-05-29**|null|
 |**2025-05-28**|**WebDancer: Towards Autonomous Information Seeking Agency**|Jialong Wu et.al.|[2505.22648v1](http://arxiv.org/abs/2505.22648v1)|**2025-05-28**|null|
 |**2025-05-28**|**On the Intractability of Chaotic Symbolic Walks: Toward a Non-Algebraic Post-Quantum Hardness Assumption**|Mohamed Aly Bouke et.al.|[2505.22644v1](http://arxiv.org/abs/2505.22644v1)|**2025-05-28**|null|
-|**2025-05-28**|**FastTD3: Simple, Fast, and Capable Reinforcement Learning for Humanoid Control**|Younggyo Seo et.al.|[2505.22642v1](http://arxiv.org/abs/2505.22642v1)|**2025-05-28**|null|
+|**2025-05-28**|**FastTD3: Simple, Fast, and Capable Reinforcement Learning for Humanoid Control**|Younggyo Seo et.al.|[2505.22642v2](http://arxiv.org/abs/2505.22642v2)|**2025-05-29**|null|
 |**2025-05-28**|**Spectral Survival Analysis**|Chengzhi Shi et.al.|[2505.22641v1](http://arxiv.org/abs/2505.22641v1)|**2025-05-28**|null|
 |**2025-05-28**|**SimProcess: High Fidelity Simulation of Noisy ICS Physical Processes**|Denis Donadel et.al.|[2505.22638v1](http://arxiv.org/abs/2505.22638v1)|**2025-05-28**|null|
 |**2025-05-28**|**Understanding (Un)Reliability of Steering Vectors in Language Models**|Joschka Braun et.al.|[2505.22637v1](http://arxiv.org/abs/2505.22637v1)|**2025-05-28**|null|

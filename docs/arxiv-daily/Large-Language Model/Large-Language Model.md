@@ -6,7 +6,7 @@
 |**2025-05-28**|**Training Free Stylized Abstraction**|Aimon Rahman et.al.|[2505.22663v1](http://arxiv.org/abs/2505.22663v1)|**2025-05-28**|null|
 |**2025-05-28**|**AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models**|Feng Luo et.al.|[2505.22662v1](http://arxiv.org/abs/2505.22662v1)|**2025-05-28**|null|
 |**2025-05-28**|**GuessArena: Guess Who I Am? A Self-Adaptive Framework for Evaluating LLMs in Domain-Specific Knowledge and Reasoning**|Qingchen Yu et.al.|[2505.22661v1](http://arxiv.org/abs/2505.22661v1)|**2025-05-28**|null|
-|**2025-05-28**|**Maximizing Confidence Alone Improves Reasoning**|Mihir Prabhudesai et.al.|[2505.22660v1](http://arxiv.org/abs/2505.22660v1)|**2025-05-28**|null|
+|**2025-05-28**|**Maximizing Confidence Alone Improves Reasoning**|Mihir Prabhudesai et.al.|[2505.22660v2](http://arxiv.org/abs/2505.22660v2)|**2025-05-29**|null|
 |**2025-05-28**|**Network Generating Processes With Self Exciting Arrival Times**|Duncan A Clark et.al.|[2505.22659v1](http://arxiv.org/abs/2505.22659v1)|**2025-05-28**|null|
 |**2025-05-28**|**3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model**|Wenbo Hu et.al.|[2505.22657v1](http://arxiv.org/abs/2505.22657v1)|**2025-05-28**|null|
 |**2025-05-28**|**VScan: Rethinking Visual Token Reduction for Efficient Large Vision-Language Models**|Ce Zhang et.al.|[2505.22654v1](http://arxiv.org/abs/2505.22654v1)|**2025-05-28**|null|
@@ -14,7 +14,7 @@
 |**2025-05-28**|**The Climb Carves Wisdom Deeper Than the Summit: On the Noisy Rewards in Learning to Reason**|Ang Lv et.al.|[2505.22653v1](http://arxiv.org/abs/2505.22653v1)|**2025-05-28**|null|
 |**2025-05-28**|**Sherlock: Self-Correcting Reasoning in Vision-Language Models**|Yi Ding et.al.|[2505.22651v1](http://arxiv.org/abs/2505.22651v1)|**2025-05-28**|null|
 |**2025-05-28**|**On Learning Verifiers for Chain-of-Thought Reasoning**|Maria-Florina Balcan et.al.|[2505.22650v1](http://arxiv.org/abs/2505.22650v1)|**2025-05-28**|null|
-|**2025-05-28**|**Pre-training for Recommendation Unlearning**|Guoxuan Chen et.al.|[2505.22649v1](http://arxiv.org/abs/2505.22649v1)|**2025-05-28**|null|
+|**2025-05-28**|**Pre-training for Recommendation Unlearning**|Guoxuan Chen et.al.|[2505.22649v2](http://arxiv.org/abs/2505.22649v2)|**2025-05-29**|null|
 |**2025-05-28**|**WebDancer: Towards Autonomous Information Seeking Agency**|Jialong Wu et.al.|[2505.22648v1](http://arxiv.org/abs/2505.22648v1)|**2025-05-28**|null|
 |**2025-05-28**|**Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation**|Zhe Kong et.al.|[2505.22647v1](http://arxiv.org/abs/2505.22647v1)|**2025-05-28**|null|
 |**2025-05-28**|**Path-Dependent SDEs: Solutions and Parameter Estimation**|Pardis Semnani et.al.|[2505.22646v1](http://arxiv.org/abs/2505.22646v1)|**2025-05-28**|null|

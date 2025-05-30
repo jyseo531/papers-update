@@ -19,10 +19,10 @@
 |**2025-05-28**|**ABEL: The Adaptable Beginning-to-End Linac simulation framework**|J. B. B. Chen E. Adli et.al.|[2505.22415v1](http://arxiv.org/abs/2505.22415v1)|**2025-05-28**|null|
 |**2025-05-28**|**Quantum Search on Computation Trees**|Jevgēnijs Vihrovs et.al.|[2505.22405v1](http://arxiv.org/abs/2505.22405v1)|**2025-05-28**|null|
 |**2025-05-28**|**Efficient Precision-Scalable Hardware for Microscaling (MX) Processing in Robotics Learning**|Stef Cuyckens et.al.|[2505.22404v1](http://arxiv.org/abs/2505.22404v1)|**2025-05-28**|null|
-|**2025-05-28**|**Numerical Optimization Strategies for the Variational Hamiltonian Ansatz in Noisy Quantum Environments**|S. Illésová et.al.|[2505.22398v1](http://arxiv.org/abs/2505.22398v1)|**2025-05-28**|null|
+|**2025-05-28**|**Numerical Optimization Strategies for the Variational Hamiltonian Ansatz in Noisy Quantum Environments**|S. Illésová et.al.|[2505.22398v2](http://arxiv.org/abs/2505.22398v2)|**2025-05-29**|null|
 |**2025-05-28**|**Ensemble Modeling of the Solar Wind Flow with Boundary Conditions Governed by Synchronic Photospheric Magnetograms. I. Multi-point Validation in the Inner Heliosphere**|Dinesha V. Hegde et.al.|[2505.22386v1](http://arxiv.org/abs/2505.22386v1)|**2025-05-28**|null|
 |**2025-05-28**|**Functoriality of the Klein-Williams Invariant and Universality Theory**|Başak Küçük et.al.|[2505.22376v1](http://arxiv.org/abs/2505.22376v1)|**2025-05-28**|null|
-|**2025-05-28**|**Adaptive tail index estimation: minimal assumptions and non-asymptotic guarantees**|Johannes Lederer et.al.|[2505.22371v1](http://arxiv.org/abs/2505.22371v1)|**2025-05-28**|null|
+|**2025-05-28**|**Adaptive tail index estimation: minimal assumptions and non-asymptotic guarantees**|Johannes Lederer et.al.|[2505.22371v2](http://arxiv.org/abs/2505.22371v2)|**2025-05-29**|null|
 |**2025-05-28**|**AgentDNS: A Root Domain Naming System for LLM Agents**|Enfang Cui et.al.|[2505.22368v1](http://arxiv.org/abs/2505.22368v1)|**2025-05-28**|null|
 |**2025-05-28**|**Learning to Infer Parameterized Representations of Plants from 3D Scans**|Samara Ghrer et.al.|[2505.22337v1](http://arxiv.org/abs/2505.22337v1)|**2025-05-28**|null|
 |**2025-05-28**|**Observation of resistive switching and diode effect in the conductivity of TiTe2 point contacts**|O. E. Kvitnitskaya et.al.|[2505.22328v1](http://arxiv.org/abs/2505.22328v1)|**2025-05-28**|null|

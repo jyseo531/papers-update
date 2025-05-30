@@ -22,7 +22,7 @@
 |**2025-05-28**|**Compensating for Data with Reasoning: Low-Resource Machine Translation with LLMs**|Samuel Frontull et.al.|[2505.22293v1](http://arxiv.org/abs/2505.22293v1)|**2025-05-28**|null|
 |**2025-05-28**|**Test-Time Immunization: A Universal Defense Framework Against Jailbreaks for (Multimodal) Large Language Models**|Yongcan Yu et.al.|[2505.22271v1](http://arxiv.org/abs/2505.22271v1)|**2025-05-28**|null|
 |**2025-05-28**|**LiDAR Based Semantic Perception for Forklifts in Outdoor Environments**|Benjamin Serfling et.al.|[2505.22258v1](http://arxiv.org/abs/2505.22258v1)|**2025-05-28**|null|
-|**2025-05-28**|**YH-MINER: Multimodal Intelligent System for Natural Ecological Reef Metric Extraction**|Mingzhuang Wang et.al.|[2505.22250v1](http://arxiv.org/abs/2505.22250v1)|**2025-05-28**|null|
+|**2025-05-28**|**YH-MINER: Multimodal Intelligent System for Natural Ecological Reef Metric Extraction**|Mingzhuang Wang et.al.|[2505.22250v2](http://arxiv.org/abs/2505.22250v2)|**2025-05-29**|null|
 |**2025-05-28**|**A Preprocessing Framework for Efficient Approximate Bi-Objective Shortest-Path Computation in the Presence of Correlated Objectives**|Yaron Halle et.al.|[2505.22244v1](http://arxiv.org/abs/2505.22244v1)|**2025-05-28**|null|
 |**2025-05-28**|**Enjoying Information Dividend: Gaze Track-based Medical Weakly Supervised Segmentation**|Zhisong Wang et.al.|[2505.22230v1](http://arxiv.org/abs/2505.22230v1)|**2025-05-28**|null|
 |**2025-05-28**|**Solving Boolean Satisfiability Problems Using A Hypergraph-based Probabilistic Computer**|Yihan He et.al.|[2505.22215v1](http://arxiv.org/abs/2505.22215v1)|**2025-05-28**|null|

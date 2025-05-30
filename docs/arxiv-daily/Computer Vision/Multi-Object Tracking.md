@@ -30,5 +30,5 @@
 |**2025-05-28**|**Toward Fully Neuromorphic Receivers for Ultra-Power Efficient Communications**|George N. Katsaros et.al.|[2505.22508v1](http://arxiv.org/abs/2505.22508v1)|**2025-05-28**|null|
 |**2025-05-28**|**Data-Driven Control of Continuous-Time LTI Systems via Non-Minimal Realizations**|Alessandro Bosso et.al.|[2505.22505v1](http://arxiv.org/abs/2505.22505v1)|**2025-05-28**|null|
 |**2025-05-28**|**Geometric GNNs for Charged Particle Tracking at GlueX**|Ahmed Hossam Mohammed et.al.|[2505.22504v1](http://arxiv.org/abs/2505.22504v1)|**2025-05-28**|null|
-|**2025-05-28**|**The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**|Aixuan Li et.al.|[2505.22499v1](http://arxiv.org/abs/2505.22499v1)|**2025-05-28**|null|
+|**2025-05-28**|**The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**|Aixuan Li et.al.|[2505.22499v2](http://arxiv.org/abs/2505.22499v2)|**2025-05-29**|null|
 |**2025-05-28**|**ProCrop: Learning Aesthetic Image Cropping from Professional Compositions**|Ke Zhang et.al.|[2505.22490v1](http://arxiv.org/abs/2505.22490v1)|**2025-05-28**|null|

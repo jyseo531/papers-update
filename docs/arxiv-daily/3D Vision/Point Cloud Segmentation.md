@@ -29,6 +29,6 @@
 |**2025-05-28**|**ABEL: The Adaptable Beginning-to-End Linac simulation framework**|J. B. B. Chen E. Adli et.al.|[2505.22415v1](http://arxiv.org/abs/2505.22415v1)|**2025-05-28**|null|
 |**2025-05-28**|**Quantum Search on Computation Trees**|Jevgēnijs Vihrovs et.al.|[2505.22405v1](http://arxiv.org/abs/2505.22405v1)|**2025-05-28**|null|
 |**2025-05-28**|**Efficient Precision-Scalable Hardware for Microscaling (MX) Processing in Robotics Learning**|Stef Cuyckens et.al.|[2505.22404v1](http://arxiv.org/abs/2505.22404v1)|**2025-05-28**|null|
-|**2025-05-28**|**Numerical Optimization Strategies for the Variational Hamiltonian Ansatz in Noisy Quantum Environments**|S. Illésová et.al.|[2505.22398v1](http://arxiv.org/abs/2505.22398v1)|**2025-05-28**|null|
+|**2025-05-28**|**Numerical Optimization Strategies for the Variational Hamiltonian Ansatz in Noisy Quantum Environments**|S. Illésová et.al.|[2505.22398v2](http://arxiv.org/abs/2505.22398v2)|**2025-05-29**|null|
 |**2025-05-28**|**Ensemble Modeling of the Solar Wind Flow with Boundary Conditions Governed by Synchronic Photospheric Magnetograms. I. Multi-point Validation in the Inner Heliosphere**|Dinesha V. Hegde et.al.|[2505.22386v1](http://arxiv.org/abs/2505.22386v1)|**2025-05-28**|null|
 |**2025-05-28**|**Functoriality of the Klein-Williams Invariant and Universality Theory**|Başak Küçük et.al.|[2505.22376v1](http://arxiv.org/abs/2505.22376v1)|**2025-05-28**|null|

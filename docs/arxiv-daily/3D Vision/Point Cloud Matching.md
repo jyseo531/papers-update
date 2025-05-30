@@ -18,7 +18,7 @@
 |**2025-05-28**|**Gautschi-type and implicit-explicit integrators for constrained wave equations**|R. Altmann et.al.|[2505.22532v1](http://arxiv.org/abs/2505.22532v1)|**2025-05-28**|null|
 |**2025-05-28**|**PrismLayers: Open Data for High-Quality Multi-Layer Transparent Image Generative Models**|Junwen Chen et.al.|[2505.22523v1](http://arxiv.org/abs/2505.22523v1)|**2025-05-28**|null|
 |**2025-05-28**|**Multi-MLLM Knowledge Distillation for Out-of-Context News Detection**|Yimeng Gu et.al.|[2505.22517v1](http://arxiv.org/abs/2505.22517v1)|**2025-05-28**|null|
-|**2025-05-28**|**Surf2CT: Cascaded 3D Flow Matching Models for Torso 3D CT Synthesis from Skin Surface**|Siyeop Yoon et.al.|[2505.22511v1](http://arxiv.org/abs/2505.22511v1)|**2025-05-28**|null|
+|**2025-05-28**|**Surf2CT: Cascaded 3D Flow Matching Models for Torso 3D CT Synthesis from Skin Surface**|Siyeop Yoon et.al.|[2505.22511v2](http://arxiv.org/abs/2505.22511v2)|**2025-05-29**|null|
 |**2025-05-28**|**Geometric GNNs for Charged Particle Tracking at GlueX**|Ahmed Hossam Mohammed et.al.|[2505.22504v1](http://arxiv.org/abs/2505.22504v1)|**2025-05-28**|null|
 |**2025-05-28**|**Reduced order modelling of air puff test for corneal material characterisation**|Osama M. Maklad et.al.|[2505.22495v1](http://arxiv.org/abs/2505.22495v1)|**2025-05-28**|null|
 |**2025-05-28**|**ProSpero: Active Learning for Robust Protein Design Beyond Wild-Type Neighborhoods**|Michal Kmicikiewicz et.al.|[2505.22494v1](http://arxiv.org/abs/2505.22494v1)|**2025-05-28**|null|

@@ -19,7 +19,7 @@
 |**2025-05-28**|**Attention-based Neural Network Emulators for Multi-Probe Data Vectors Part III: Modeling The Next Generation Surveys**|Yijie Zhu et.al.|[2505.22574v1](http://arxiv.org/abs/2505.22574v1)|**2025-05-28**|null|
 |**2025-05-28**|**FNOPE: Simulation-based inference on function spaces with Fourier Neural Operators**|Guy Moss et.al.|[2505.22573v1](http://arxiv.org/abs/2505.22573v1)|**2025-05-28**|null|
 |**2025-05-28**|**Fusion Steering: Prompt-Specific Activation Control**|Waldemar Chang et.al.|[2505.22572v1](http://arxiv.org/abs/2505.22572v1)|**2025-05-28**|null|
-|**2025-05-28**|**Agent-UniRAG: A Trainable Open-Source LLM Agent Framework for Unified Retrieval-Augmented Generation Systems**|Hoang Pham et.al.|[2505.22571v1](http://arxiv.org/abs/2505.22571v1)|**2025-05-28**|null|
+|**2025-05-28**|**Agent-UniRAG: A Trainable Open-Source LLM Agent Framework for Unified Retrieval-Augmented Generation Systems**|Hoang Pham et.al.|[2505.22571v2](http://arxiv.org/abs/2505.22571v2)|**2025-05-29**|null|
 |**2025-05-28**|**The Ingleton inequality holds for metacyclic groups and fails for supersoluble groups**|David A. Craven et.al.|[2505.22565v1](http://arxiv.org/abs/2505.22565v1)|**2025-05-28**|null|
 |**2025-05-28**|**Do Large Language Models Think Like the Brain? Sentence-Level Evidence from fMRI and Hierarchical Embeddings**|Yu Lei et.al.|[2505.22563v1](http://arxiv.org/abs/2505.22563v1)|**2025-05-28**|null|
 |**2025-05-28**|**Products of exact dynamical systems and Lorentzian continued fractions**|Brandon G. Barreto-Rosa et.al.|[2505.22556v1](http://arxiv.org/abs/2505.22556v1)|**2025-05-28**|null|

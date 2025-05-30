@@ -21,12 +21,12 @@
 |**2025-05-28**|**Toward Fully Neuromorphic Receivers for Ultra-Power Efficient Communications**|George N. Katsaros et.al.|[2505.22508v1](http://arxiv.org/abs/2505.22508v1)|**2025-05-28**|null|
 |**2025-05-28**|**Data-Driven Control of Continuous-Time LTI Systems via Non-Minimal Realizations**|Alessandro Bosso et.al.|[2505.22505v1](http://arxiv.org/abs/2505.22505v1)|**2025-05-28**|null|
 |**2025-05-28**|**Geometric GNNs for Charged Particle Tracking at GlueX**|Ahmed Hossam Mohammed et.al.|[2505.22504v1](http://arxiv.org/abs/2505.22504v1)|**2025-05-28**|null|
-|**2025-05-28**|**The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**|Aixuan Li et.al.|[2505.22499v1](http://arxiv.org/abs/2505.22499v1)|**2025-05-28**|null|
+|**2025-05-28**|**The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**|Aixuan Li et.al.|[2505.22499v2](http://arxiv.org/abs/2505.22499v2)|**2025-05-29**|null|
 |**2025-05-28**|**Effective Context in Neural Speech Models**|Yen Meng et.al.|[2505.22487v1](http://arxiv.org/abs/2505.22487v1)|**2025-05-28**|null|
 |**2025-05-28**|**Non-Asymptotic Analysis of (Sticky) Track-and-Stop**|Riccardo Poiani et.al.|[2505.22475v1](http://arxiv.org/abs/2505.22475v1)|**2025-05-28**|null|
 |**2025-05-28**|**Pure Exploration with Infinite Answers**|Riccardo Poiani et.al.|[2505.22473v1](http://arxiv.org/abs/2505.22473v1)|**2025-05-28**|null|
 |**2025-05-28**|**CPINN-ABPI: Physics-Informed Neural Networks for Accurate Power Estimation in MPSoCs**|Mohamed R. Elshamy et.al.|[2505.22469v1](http://arxiv.org/abs/2505.22469v1)|**2025-05-28**|null|
-|**2025-05-28**|**SHTOcc: Effective 3D Occupancy Prediction with Sparse Head and Tail Voxels**|Qiucheng Yu et.al.|[2505.22461v1](http://arxiv.org/abs/2505.22461v1)|**2025-05-28**|null|
+|**2025-05-28**|**SHTOcc: Effective 3D Occupancy Prediction with Sparse Head and Tail Voxels**|Qiucheng Yu et.al.|[2505.22461v2](http://arxiv.org/abs/2505.22461v2)|**2025-05-29**|null|
 |**2025-05-28**|**A Unified Framework for Community Detection and Model Selection in Blockmodels**|Subhankar Bhadra et.al.|[2505.22459v1](http://arxiv.org/abs/2505.22459v1)|**2025-05-28**|null|
 |**2025-05-28**|**Frequency Resource Management in 6G User-Centric CFmMIMO: A Hybrid Reinforcement Learning and Metaheuristic Approach**|Selina Cheggour et.al.|[2505.22443v1](http://arxiv.org/abs/2505.22443v1)|**2025-05-28**|null|
 |**2025-05-28**|**Can NeRFs See without Cameras?**|Chaitanya Amballa et.al.|[2505.22441v1](http://arxiv.org/abs/2505.22441v1)|**2025-05-28**|null|

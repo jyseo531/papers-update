@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-05-28**|**PS4PRO: Pixel-to-pixel Supervision for Photorealistic Rendering and Optimization**|Yezhi Shen et.al.|[2505.22616v1](http://arxiv.org/abs/2505.22616v1)|**2025-05-28**|null|
 |**2025-05-28**|**VR-Based Control of Multi-Copter Operation**|Jack T. Hughes et.al.|[2505.22599v1](http://arxiv.org/abs/2505.22599v1)|**2025-05-28**|null|
-|**2025-05-28**|**The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**|Aixuan Li et.al.|[2505.22499v1](http://arxiv.org/abs/2505.22499v1)|**2025-05-28**|null|
+|**2025-05-28**|**The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**|Aixuan Li et.al.|[2505.22499v2](http://arxiv.org/abs/2505.22499v2)|**2025-05-29**|null|
 |**2025-05-28**|**Can NeRFs See without Cameras?**|Chaitanya Amballa et.al.|[2505.22441v1](http://arxiv.org/abs/2505.22441v1)|**2025-05-28**|null|
 |**2025-05-28**|**RC-AutoCalib: An End-to-End Radar-Camera Automatic Calibration Network**|Van-Tin Luu et.al.|[2505.22427v1](http://arxiv.org/abs/2505.22427v1)|**2025-05-28**|null|
 |**2025-05-28**|**Event-based Egocentric Human Pose Estimation in Dynamic Environment**|Wataru Ikeda et.al.|[2505.22007v1](http://arxiv.org/abs/2505.22007v1)|**2025-05-28**|null|
@@ -28,7 +28,7 @@
 |**2025-05-27**|**Photography Perspective Composition: Towards Aesthetic Perspective Recommendation**|Lujian Yao et.al.|[2505.20655v1](http://arxiv.org/abs/2505.20655v1)|**2025-05-27**|null|
 |**2025-05-27**|**Intelligent Incident Hypertension Prediction in Obstructive Sleep Apnea**|Omid Halimi Milani et.al.|[2505.20615v1](http://arxiv.org/abs/2505.20615v1)|**2025-05-27**|null|
 |**2025-05-27**|**OmniIndoor3D: Comprehensive Indoor 3D Reconstruction**|Xiaobao Wei et.al.|[2505.20610v1](http://arxiv.org/abs/2505.20610v1)|**2025-05-27**|null|
-|**2025-05-26**|**Retrieval Visual Contrastive Decoding to Mitigate Object Hallucinations in Large Vision-Language Models**|Jihoon Lee et.al.|[2505.20569v1](http://arxiv.org/abs/2505.20569v1)|**2025-05-26**|null|
+|**2025-05-26**|**Retrieval Visual Contrastive Decoding to Mitigate Object Hallucinations in Large Vision-Language Models**|Jihoon Lee et.al.|[2505.20569v2](http://arxiv.org/abs/2505.20569v2)|**2025-05-29**|null|
 |**2025-05-26**|**Video-based Direct Time Series Measurement of Along-Strike Slip on the Coseismic Surface Rupture During the 2025 Mw7.7 Myanmar Earthquake**|Jianhao Gao et.al.|[2505.20494v1](http://arxiv.org/abs/2505.20494v1)|**2025-05-26**|null|
 |**2025-05-26**|**HAND Me the Data: Fast Robot Adaptation via Hand Path Retrieval**|Matthew Hong et.al.|[2505.20455v2](http://arxiv.org/abs/2505.20455v2)|**2025-05-28**|null|
 |**2025-05-26**|**Across the Universe: Dark Matter and Galaxy Cross-Correlations with the Cherenkov Telescope Array Observatory**|Elena Pinetti et.al.|[2505.20383v1](http://arxiv.org/abs/2505.20383v1)|**2025-05-26**|null|

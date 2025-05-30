@@ -16,19 +16,19 @@
 |**2025-05-28**|**Bayesian reconstruction of primordial perturbations from induced gravitational waves**|Aya Ghaleb et.al.|[2505.22534v1](http://arxiv.org/abs/2505.22534v1)|**2025-05-28**|null|
 |**2025-05-28**|**Thinking with Generated Images**|Ethan Chern et.al.|[2505.22525v1](http://arxiv.org/abs/2505.22525v1)|**2025-05-28**|null|
 |**2025-05-28**|**Towards General Discrete Speech Codec for Complex Acoustic Environments: A Study of Reconstruction and Downstream Task Consistency**|Haoran Wang et.al.|[2505.22515v1](http://arxiv.org/abs/2505.22515v1)|**2025-05-28**|null|
-|**2025-05-28**|**Surf2CT: Cascaded 3D Flow Matching Models for Torso 3D CT Synthesis from Skin Surface**|Siyeop Yoon et.al.|[2505.22511v1](http://arxiv.org/abs/2505.22511v1)|**2025-05-28**|null|
+|**2025-05-28**|**Surf2CT: Cascaded 3D Flow Matching Models for Torso 3D CT Synthesis from Skin Surface**|Siyeop Yoon et.al.|[2505.22511v2](http://arxiv.org/abs/2505.22511v2)|**2025-05-29**|null|
 |**2025-05-28**|**Sparsification and Reconstruction from the Perspective of Representation Geometry**|Wenjie Sun et.al.|[2505.22506v1](http://arxiv.org/abs/2505.22506v1)|**2025-05-28**|null|
 |**2025-05-28**|**Geometric GNNs for Charged Particle Tracking at GlueX**|Ahmed Hossam Mohammed et.al.|[2505.22504v1](http://arxiv.org/abs/2505.22504v1)|**2025-05-28**|null|
-|**2025-05-28**|**The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**|Aixuan Li et.al.|[2505.22499v1](http://arxiv.org/abs/2505.22499v1)|**2025-05-28**|null|
+|**2025-05-28**|**The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**|Aixuan Li et.al.|[2505.22499v2](http://arxiv.org/abs/2505.22499v2)|**2025-05-29**|null|
 |**2025-05-28**|**Reduced order modelling of air puff test for corneal material characterisation**|Osama M. Maklad et.al.|[2505.22495v1](http://arxiv.org/abs/2505.22495v1)|**2025-05-28**|null|
 |**2025-05-28**|**Cascaded 3D Diffusion Models for Whole-body 3D 18-F FDG PET/CT synthesis from Demographics**|Siyeop Yoon et.al.|[2505.22489v1](http://arxiv.org/abs/2505.22489v1)|**2025-05-28**|null|
 |**2025-05-28**|**Hypothesis Testing in Imaging Inverse Problems**|Yiming Xi et.al.|[2505.22481v1](http://arxiv.org/abs/2505.22481v1)|**2025-05-28**|null|
 |**2025-05-28**|**Hybrid High-Order formulations with turbulence modelling capabilities for incompressible flow problems**|Lorenzo Botti et.al.|[2505.22480v1](http://arxiv.org/abs/2505.22480v1)|**2025-05-28**|null|
 |**2025-05-28**|**Single Domain Generalization for Alzheimer's Detection from 3D MRIs with Pseudo-Morphological Augmentations and Contrastive Learning**|Zobia Batool et.al.|[2505.22465v1](http://arxiv.org/abs/2505.22465v1)|**2025-05-28**|null|
-|**2025-05-28**|**SHTOcc: Effective 3D Occupancy Prediction with Sparse Head and Tail Voxels**|Qiucheng Yu et.al.|[2505.22461v1](http://arxiv.org/abs/2505.22461v1)|**2025-05-28**|null|
+|**2025-05-28**|**SHTOcc: Effective 3D Occupancy Prediction with Sparse Head and Tail Voxels**|Qiucheng Yu et.al.|[2505.22461v2](http://arxiv.org/abs/2505.22461v2)|**2025-05-29**|null|
 |**2025-05-28**|**NFR: Neural Feature-Guided Non-Rigid Shape Registration**|Puhua Jiang et.al.|[2505.22445v1](http://arxiv.org/abs/2505.22445v1)|**2025-05-28**|null|
 |**2025-05-28**|**On Geometry-Enhanced Parameter-Efficient Fine-Tuning for 3D Scene Segmentation**|Liyao Tang et.al.|[2505.22444v1](http://arxiv.org/abs/2505.22444v1)|**2025-05-28**|null|
 |**2025-05-28**|**Frequency Resource Management in 6G User-Centric CFmMIMO: A Hybrid Reinforcement Learning and Metaheuristic Approach**|Selina Cheggour et.al.|[2505.22443v1](http://arxiv.org/abs/2505.22443v1)|**2025-05-28**|null|
 |**2025-05-28**|**Can NeRFs See without Cameras?**|Chaitanya Amballa et.al.|[2505.22441v1](http://arxiv.org/abs/2505.22441v1)|**2025-05-28**|null|
 |**2025-05-28**|**Zero-Shot 3D Visual Grounding from Vision-Language Models**|Rong Li et.al.|[2505.22429v1](http://arxiv.org/abs/2505.22429v1)|**2025-05-28**|null|
-|**2025-05-28**|**GeoDrive: 3D Geometry-Informed Driving World Model with Precise Action Control**|Anthony Chen et.al.|[2505.22421v1](http://arxiv.org/abs/2505.22421v1)|**2025-05-28**|null|
+|**2025-05-28**|**GeoDrive: 3D Geometry-Informed Driving World Model with Precise Action Control**|Anthony Chen et.al.|[2505.22421v2](http://arxiv.org/abs/2505.22421v2)|**2025-05-29**|null|
