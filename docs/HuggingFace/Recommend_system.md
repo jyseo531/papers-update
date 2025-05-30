@@ -1979,6 +1979,7 @@ Updated on 2025-05-30
 | 10 | 3 | Remade-AI/Hulk-TransformationImage-to-Video | Updatedabout 13 hours ago | [Link](https://huggingface.co/Remade-AI/Hulk-Transformation) |
 | 10 | 3 | Remade-AI/Hero-runImage-to-Video | Updatedabout 7 hours ago | [Link](https://huggingface.co/Remade-AI/Hero-run) |
 | 76 | 3 | Remade-AI/matrix-shotImage-to-Video | Updatedabout 12 hours ago | [Link](https://huggingface.co/Remade-AI/matrix-shot) |
+| 384 | 3 | Remade-AI/Crane-downImage-to-Video | Updated5 days ago | [Link](https://huggingface.co/Remade-AI/Crane-down) |
 | 600k | 2.91k | stabilityai/stable-video-diffusion-img2vid-xtImage-to-Video | UpdatedJul 10, 2024 | [Link](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt) |
 | 244 | 2 | calcuis/hyvid-i2v-ggufImage-to-Video | Updatedabout 17 hours ago | [Link](https://huggingface.co/calcuis/hyvid-i2v-gguf) |
 | 136 | 2 | city96/LTX-Video-0 | Updated1 day ago | [Link](https://huggingface.co/city96/LTX-Video-0.9.5-gguf) |
