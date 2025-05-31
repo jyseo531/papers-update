@@ -19,7 +19,7 @@
 |**2025-05-27**|**HS-SLAM: A Fast and Hybrid Strategy-Based SLAM Approach for Low-Speed Autonomous Driving**|Bingxiang Kang et.al.|[2505.20906v1](http://arxiv.org/abs/2505.20906v1)|**2025-05-27**|null|
 |**2025-05-27**|**MT-Mol:Multi Agent System with Tool-based Reasoning for Molecular Optimization**|Hyomin Kim et.al.|[2505.20820v1](http://arxiv.org/abs/2505.20820v1)|**2025-05-27**|null|
 |**2025-05-27**|**PromptEVC: Controllable Emotional Voice Conversion with Natural Language Prompts**|Tianhua Qi et.al.|[2505.20678v1](http://arxiv.org/abs/2505.20678v1)|**2025-05-27**|null|
-|**2025-05-26**|**xChemAgents: Agentic AI for Explainable Quantum Chemistry**|Can Polat et.al.|[2505.20574v1](http://arxiv.org/abs/2505.20574v1)|**2025-05-26**|null|
+|**2025-05-26**|**xChemAgents: Agentic AI for Explainable Quantum Chemistry**|Can Polat et.al.|[2505.20574v1](http://arxiv.org/abs/2505.20574v1)|**2025-05-26**|[link](https://github.com/kurbanintelligencelab/xchemagents)|
 |**2025-05-26**|**Machine Learning the Energetics of Electrified Solid/Liquid Interfaces**|Nicolas Bergmann et.al.|[2505.19745v1](http://arxiv.org/abs/2505.19745v1)|**2025-05-26**|null|
 |**2025-05-26**|**SETBVE: Quality-Diversity Driven Exploration of Software Boundary Behaviors**|Sabinakhon Akbarova et.al.|[2505.19736v1](http://arxiv.org/abs/2505.19736v1)|**2025-05-26**|[link](https://github.com/aksabina/setbve)|
 |**2025-05-25**|**Words as Geometric Features: Estimating Homography using Optical Character Recognition as Compressed Image Representation**|Ross Greer et.al.|[2505.18925v1](http://arxiv.org/abs/2505.18925v1)|**2025-05-25**|null|
