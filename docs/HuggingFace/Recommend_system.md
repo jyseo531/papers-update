@@ -579,6 +579,7 @@ Updated on 2025-05-31
 | 1.04k | 2 | xingyang1/Distill-Any-Depth-Large-hfDepth | Updated11 days ago | [Link](https://huggingface.co/xingyang1/Distill-Any-Depth-Large-hf) |
 | 11 | 2 | onnx-community/metric3d-vit-largeDepth | UpdatedJun 20, 2024 | [Link](https://huggingface.co/onnx-community/metric3d-vit-large) |
 | 46.9k | 2 | depth-anything/Depth-Anything-V2-Base-hfDepth | UpdatedJul 5, 2024 | [Link](https://huggingface.co/depth-anything/Depth-Anything-V2-Base-hf) |
+| 2 | 2 | LloydAI/DepthAnything_v2-Small-CoreMLDepth | UpdatedMar 18 | [Link](https://huggingface.co/LloydAI/DepthAnything_v2-Small-CoreML) |
 | 5 | 1 | coreml-projects/DepthPro-coremlDepth | Updated17 days ago | [Link](https://huggingface.co/coreml-projects/DepthPro-coreml) |
 | 856 | 1 | jingheya/lotus-depth-g-v2-1-disparityDepth | UpdatedJan 16 | [Link](https://huggingface.co/jingheya/lotus-depth-g-v2-1-disparity) |
 | 160 | 1 | depth-anything/prompt-depth-anything-vits-hfDepth | UpdatedJan 26 | [Link](https://huggingface.co/depth-anything/prompt-depth-anything-vits-hf) |
@@ -4155,6 +4156,7 @@ Updated on 2025-05-31
 | 482 | 16 | ThomasSimonini/t5-end2end-question-generationText2Text | UpdatedOct 10, 2021 | [Link](https://huggingface.co/ThomasSimonini/t5-end2end-question-generation) |
 | 99 | 15 | bond005/FRED-T5-large-instruct-v0 | UpdatedOct 8, 2024 | [Link](https://huggingface.co/bond005/FRED-T5-large-instruct-v0.1) |
 | 172k | 15 | XLabs-AI/xflux_text_encodersText2Text | UpdatedAug 12, 2024 | [Link](https://huggingface.co/XLabs-AI/xflux_text_encoders) |
+| 47.3k | 15 | google/byt5-largeText2Text | UpdatedJan 24, 2023 | [Link](https://huggingface.co/google/byt5-large) |
 | 1.16k | 14 | castorini/doc2query-t5-base-msmarcoText2Text | UpdatedNov 24, 2021 | [Link](https://huggingface.co/castorini/doc2query-t5-base-msmarco) |
 | 1.15k | 14 | gmurro/bart-large-finetuned-filtered-spotify-podcast-summText2Text | UpdatedSep 11, 2023 | [Link](https://huggingface.co/gmurro/bart-large-finetuned-filtered-spotify-podcast-summ) |
 | 26 | 13 | soketlabs/pragna-1bText2Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/soketlabs/pragna-1b) |
