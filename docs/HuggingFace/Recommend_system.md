@@ -416,6 +416,7 @@ Updated on 2025-06-01
 | 160k | 22 | airesearch/wav2vec2-large-xlsr-53-thAutomatic | UpdatedMar 23, 2022 | [Link](https://huggingface.co/airesearch/wav2vec2-large-xlsr-53-th) |
 | 3.25k | 18 | nvidia/parakeet-tdt_ctc-0 | UpdatedFeb 18 | [Link](https://huggingface.co/nvidia/parakeet-tdt_ctc-0.6b-ja) |
 | 4.32k | 17 | onnx-community/whisper-baseAutomatic | UpdatedOct 8, 2024 | [Link](https://huggingface.co/onnx-community/whisper-base) |
+| 105 | 17 | speechbrain/asr-whisper-large-v2-commonvoice-faAutomatic | UpdatedDec 17, 2024 | [Link](https://huggingface.co/speechbrain/asr-whisper-large-v2-commonvoice-fa) |
 | 10.4k | 16 | r-f/wav2vec-english-speech-emotion-recognitionAutomatic | UpdatedJan 2 | [Link](https://huggingface.co/r-f/wav2vec-english-speech-emotion-recognition) |
 | 133 | 16 | seastar105/whisper-medium-ko-zerothAutomatic | UpdatedFeb 9, 2023 | [Link](https://huggingface.co/seastar105/whisper-medium-ko-zeroth) |
 | 1.31k | 15 | aismlv/wav2vec2-large-xlsr-kazakhAutomatic | UpdatedDec 20, 2023 | [Link](https://huggingface.co/aismlv/wav2vec2-large-xlsr-kazakh) |
@@ -763,6 +764,7 @@ Updated on 2025-06-01
 | 347 | 4 | DeepChem/SmilesTokenizer_PubChem_1MFeature | UpdatedMay 31, 2021 | [Link](https://huggingface.co/DeepChem/SmilesTokenizer_PubChem_1M) |
 | 5 | 4 | Dream-org/Dream-v0-Base-7BFeature | Updated1 day ago | [Link](https://huggingface.co/Dream-org/Dream-v0-Base-7B) |
 | 18 | 4 | pinecone/ConstBERTFeature | Updatedabout 9 hours ago | [Link](https://huggingface.co/pinecone/ConstBERT) |
+| 4 | 4 | Mozilla/SFR-Embedding-Mistral-llamafileFeature | UpdatedJul 2, 2024 | [Link](https://huggingface.co/Mozilla/SFR-Embedding-Mistral-llamafile) |
 | 2.82k | 3 | slprl/mhubert-base-25hzFeature | UpdatedJan 10 | [Link](https://huggingface.co/slprl/mhubert-base-25hz) |
 | 2.67k | 3 | DeepPavlov/bert-base-bg-cs-pl-ru-casedFeature | UpdatedNov 8, 2021 | [Link](https://huggingface.co/DeepPavlov/bert-base-bg-cs-pl-ru-cased) |
 | 159 | 3 | ConvergeBio/ConvergeSC-embeddingsFeature | Updatedabout 5 hours ago | [Link](https://huggingface.co/ConvergeBio/ConvergeSC-embeddings) |
@@ -1363,6 +1365,7 @@ Updated on 2025-06-01
 | 4 | Unknown | nielsr/dino_vitb16Image | UpdatedAug 25, 2021 | [Link](https://huggingface.co/nielsr/dino_vitb16) |
 | 6 | Unknown | facebook/regnet-y-640-seerImage | UpdatedSep 28, 2023 | [Link](https://huggingface.co/facebook/regnet-y-640-seer) |
 | 1 | Unknown | spitfire1970/chess_player_similarityImage | Updatedabout 9 hours ago | [Link](https://huggingface.co/spitfire1970/chess_player_similarity) |
+| 1 | Unknown | initiacms/RoMAImage | UpdatedMar 14 | [Link](https://huggingface.co/initiacms/RoMA) |
 
 ## Image Segmentation
 
@@ -1611,6 +1614,7 @@ Updated on 2025-06-01
 | 27 | 7 | ByteDance-Seed/SAIL-7BImage-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/ByteDance-Seed/SAIL-7B) |
 | 677 | 7 | turing-motors/Heron-NVILA-Lite-15BImage-Text-to-Text | Updated14 days ago | [Link](https://huggingface.co/turing-motors/Heron-NVILA-Lite-15B) |
 | 25 | 7 | mlabonne/gemma-3-27b-it-qat-abliteratedImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-qat-abliterated) |
+| 335 | 7 | One-RL-to-See-Them-All/Orsta-7BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/One-RL-to-See-Them-All/Orsta-7B) |
 | 160 | 6 | MIL-UT/Asagi-14BImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/MIL-UT/Asagi-14B) |
 | 168 | 5 | MBZUAI/AINImage-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/MBZUAI/AIN) |
 | 2.72k | 1.62k | microsoft/OmniParserImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/microsoft/OmniParser) |
@@ -2564,6 +2568,7 @@ Updated on 2025-06-01
 | 1 | Unknown | TianheWu/VisualQuality-R1-7BReinforcement | Updatedabout 13 hours ago | [Link](https://huggingface.co/TianheWu/VisualQuality-R1-7B) |
 | 1 | Unknown | Nicknam/LunarLander-v2Reinforcement | Updatedabout 11 hours ago | [Link](https://huggingface.co/Nicknam/LunarLander-v2) |
 | 1 | Unknown | iamani/LL-v2Reinforcement | UpdatedJun 11, 2023 | [Link](https://huggingface.co/iamani/LL-v2) |
+| 1 | Unknown | MysteryManav/q-FrozenLake-v1-8x8-SlipperyReinforcement | Updatedabout 6 hours ago | [Link](https://huggingface.co/MysteryManav/q-FrozenLake-v1-8x8-Slippery) |
 
 ## Robotics
 
@@ -3174,6 +3179,7 @@ Updated on 2025-06-01
 | 444 | 2 | Pulk17/Fake-News-DetectionText | UpdatedDec 31, 2024 | [Link](https://huggingface.co/Pulk17/Fake-News-Detection) |
 | 186 | 2 | fgaim/tiroberta-abusiveness-detectionText | Updated7 days ago | [Link](https://huggingface.co/fgaim/tiroberta-abusiveness-detection) |
 | 104 | 2 | beethogedeon/Modern-FinBERT-largeText | UpdatedFeb 7 | [Link](https://huggingface.co/beethogedeon/Modern-FinBERT-large) |
+| 334 | 2 | omykhailiv/bert-fake-news-recognitionText | UpdatedJun 24, 2024 | [Link](https://huggingface.co/omykhailiv/bert-fake-news-recognition) |
 | 24 | 1 | DTAI-KULeuven/mbert-corona-tweets-belgium-topicsText | UpdatedAug 25, 2022 | [Link](https://huggingface.co/DTAI-KULeuven/mbert-corona-tweets-belgium-topics) |
 | 65.8k |  | tabularisai/multilingual-sentiment-analysisText | UpdatedJan 16 | [Link](https://huggingface.co/tabularisai/multilingual-sentiment-analysis) |
 | 1.54M |  | ProsusAI/finbertText | UpdatedMay 23, 2023 | [Link](https://huggingface.co/ProsusAI/finbert) |
@@ -4461,6 +4467,7 @@ Updated on 2025-06-01
 | 1.99k | 1 | protectai/lakshyakh93-deberta_finetuned_pii-onnxToken | UpdatedApr 11, 2024 | [Link](https://huggingface.co/protectai/lakshyakh93-deberta_finetuned_pii-onnx) |
 | 4 | 1 | HungChau/bert_concept_extractionToken | UpdatedSep 3, 2021 | [Link](https://huggingface.co/HungChau/bert_concept_extraction) |
 | 9 | 1 | spacy/zh_core_web_mdToken | UpdatedOct 10, 2023 | [Link](https://huggingface.co/spacy/zh_core_web_md) |
+| 32 | 1 | neavo/keyword_gacha_multilingual_nerToken | UpdatedFeb 18 | [Link](https://huggingface.co/neavo/keyword_gacha_multilingual_ner) |
 | 2.41M |  | dslim/bert-base-NERToken | UpdatedOct 8, 2024 | [Link](https://huggingface.co/dslim/bert-base-NER) |
 | 1.41M |  | dbmdz/bert-large-cased-finetuned-conll03-englishToken | UpdatedSep 6, 2023 | [Link](https://huggingface.co/dbmdz/bert-large-cased-finetuned-conll03-english) |
 | 714k |  | FacebookAI/xlm-roberta-large-finetuned-conll03-englishToken | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/FacebookAI/xlm-roberta-large-finetuned-conll03-english) |
@@ -4576,6 +4583,7 @@ Updated on 2025-06-01
 | 36 | 3 | Tonic/GemmaX2-28-2B-4bitTranslation | UpdatedFeb 26 | [Link](https://huggingface.co/Tonic/GemmaX2-28-2B-4bit) |
 | 4.14k | 3 | ai4bharat/indictrans2-indic-indic-dist-320MTranslation | Updated29 days ago | [Link](https://huggingface.co/ai4bharat/indictrans2-indic-indic-dist-320M) |
 | 9 | 3 | ilsp/opus-mt-pt-en_ct2_ft-SciLakeTranslation | UpdatedMay 30, 2024 | [Link](https://huggingface.co/ilsp/opus-mt-pt-en_ct2_ft-SciLake) |
+| 11 | 3 | tahrirchi/dilmash-tilTranslation | UpdatedSep 10, 2024 | [Link](https://huggingface.co/tahrirchi/dilmash-til) |
 | 31 | 2 | ModelSpace/GemmaX2-28-2B-PretrainTranslation | Updatedabout 14 hours ago | [Link](https://huggingface.co/ModelSpace/GemmaX2-28-2B-Pretrain) |
 | 20 | 2 | Bronsn/luganda-english-translation-loraTranslation | Updated22 days ago | [Link](https://huggingface.co/Bronsn/luganda-english-translation-lora) |
 | 224 | 2 | chi-vi/hirashiba-mt-tiny-zh-viTranslation | Updated1 day ago | [Link](https://huggingface.co/chi-vi/hirashiba-mt-tiny-zh-vi) |
@@ -4591,6 +4599,7 @@ Updated on 2025-06-01
 | 235 | 2 | peterhsu/marian-finetuned-kde4-en-to-zh_TWTranslation | UpdatedFeb 28, 2022 | [Link](https://huggingface.co/peterhsu/marian-finetuned-kde4-en-to-zh_TW) |
 | 150 | 2 | Helsinki-NLP/opus-mt-en-xhTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-en-xh) |
 | 544 | 2 | Helsinki-NLP/opus-mt-de-huTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-de-hu) |
+| 28 | 2 | tahrirchi/dilmash-rawTranslation | UpdatedSep 10, 2024 | [Link](https://huggingface.co/tahrirchi/dilmash-raw) |
 | 652 | 1 | Helsinki-NLP/opus-mt-de-arTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-de-ar) |
 | 108 | 1 | Helsinki-NLP/opus-mt-en-biTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-en-bi) |
 | 144 | 1 | Helsinki-NLP/opus-mt-en-htTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-en-ht) |

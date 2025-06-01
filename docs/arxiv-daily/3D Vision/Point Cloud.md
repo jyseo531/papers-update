@@ -10,9 +10,9 @@
 |**2025-05-29**|**Higher homotopy wild sets**|Jeremy Brazas et.al.|[2505.23665v1](http://arxiv.org/abs/2505.23665v1)|**2025-05-29**|null|
 |**2025-05-29**|**Color Image Set Recognition Based on Quaternionic Grassmannians**|Xiang Xiang Wang et.al.|[2505.23629v1](http://arxiv.org/abs/2505.23629v1)|**2025-05-29**|null|
 |**2025-05-29**|**Low-Complexity Transform Adjustments For Video Coding**|Amir Said et.al.|[2505.23618v1](http://arxiv.org/abs/2505.23618v1)|**2025-05-29**|null|
-|**2025-05-29**|**On Transferring Transferability: Towards a Theory for Size Generalization**|Eitan Levin et.al.|[2505.23599v1](http://arxiv.org/abs/2505.23599v1)|**2025-05-29**|null|
+|**2025-05-29**|**On Transferring Transferability: Towards a Theory for Size Generalization**|Eitan Levin et.al.|[2505.23599v1](http://arxiv.org/abs/2505.23599v1)|**2025-05-29**|[link](https://github.com/yuxinma98/transferring_transferability)|
 |**2025-05-29**|**CoT Red-Handed: Stress Testing Chain-of-Thought Monitoring**|Benjamin Arnav et.al.|[2505.23575v1](http://arxiv.org/abs/2505.23575v1)|**2025-05-29**|null|
-|**2025-05-29**|**Segment Policy Optimization: Effective Segment-Level Credit Assignment in RL for Large Language Models**|Yiran Guo et.al.|[2505.23564v1](http://arxiv.org/abs/2505.23564v1)|**2025-05-29**|null|
+|**2025-05-29**|**Segment Policy Optimization: Effective Segment-Level Credit Assignment in RL for Large Language Models**|Yiran Guo et.al.|[2505.23564v1](http://arxiv.org/abs/2505.23564v1)|**2025-05-29**|[link](https://github.com/aiframeresearch/spo)|
 |**2025-05-29**|**On the Gromov-Hausdorff distance between the cloud of bounded metric spaces and a cloud with nontrivial stabilizer**|B. A. Nesterov et.al.|[2505.23563v1](http://arxiv.org/abs/2505.23563v1)|**2025-05-29**|null|
 |**2025-05-29**|**Sustainable Carbon-Aware and Water-Efficient LLM Scheduling in Geo-Distributed Cloud Datacenters**|Hayden Moore et.al.|[2505.23554v1](http://arxiv.org/abs/2505.23554v1)|**2025-05-29**|null|
 |**2025-05-29**|**Going from a Representative Agent to Counterfactuals in Combinatorial Choice**|Yanqiu Ruan et.al.|[2505.23546v1](http://arxiv.org/abs/2505.23546v1)|**2025-05-29**|null|
@@ -21,10 +21,10 @@
 |**2025-05-29**|**Dominant Kitaev interaction and field-induced quantum phase transitions in triangular-lattice KCeSe2**|Mingtai Xie et.al.|[2505.23502v1](http://arxiv.org/abs/2505.23502v1)|**2025-05-29**|null|
 |**2025-05-29**|**Optimization-based Posture Generation for Whole-body Contact Motion by Contact Point Search on the Body Surface**|Masaki Murooka et.al.|[2505.23501v1](http://arxiv.org/abs/2505.23501v1)|**2025-05-29**|null|
 |**2025-05-29**|**On miniature ultra-high-field commercial stellarator reactors with breeding external to resistive coils**|V. Queral et.al.|[2505.23485v1](http://arxiv.org/abs/2505.23485v1)|**2025-05-29**|null|
-|**2025-05-29**|**A Divide-and-Conquer Approach for Global Orientation of Non-Watertight Scene-Level Point Clouds Using 0-1 Integer Optimization**|Zhuodong Li et.al.|[2505.23469v1](http://arxiv.org/abs/2505.23469v1)|**2025-05-29**|null|
+|**2025-05-29**|**A Divide-and-Conquer Approach for Global Orientation of Non-Watertight Scene-Level Point Clouds Using 0-1 Integer Optimization**|Zhuodong Li et.al.|[2505.23469v1](http://arxiv.org/abs/2505.23469v1)|**2025-05-29**|[link](https://github.com/zd-lee/dacpo)|
 |**2025-05-29**|**Strategic Classification with Non-Linear Classifiers**|Benyamin Trachtenberg et.al.|[2505.23443v1](http://arxiv.org/abs/2505.23443v1)|**2025-05-29**|null|
 |**2025-05-29**|**Mean Field Control with Poissonian Common Noise: A Pathwise Compactification Approach**|Lijun Bo et.al.|[2505.23441v1](http://arxiv.org/abs/2505.23441v1)|**2025-05-29**|null|
-|**2025-05-29**|**VITON-DRR: Details Retention Virtual Try-on via Non-rigid Registration**|Ben Li et.al.|[2505.23439v1](http://arxiv.org/abs/2505.23439v1)|**2025-05-29**|null|
+|**2025-05-29**|**VITON-DRR: Details Retention Virtual Try-on via Non-rigid Registration**|Ben Li et.al.|[2505.23439v1](http://arxiv.org/abs/2505.23439v1)|**2025-05-29**|[link](https://github.com/minqili/viton-drr-main)|
 |**2025-05-29**|**Locating Extremal Periodic Orbits for the Planar Circular Restricted Three Body Problem using Polynomial Sum-of-Squares Optimization**|Vinay Sharma et.al.|[2505.23430v1](http://arxiv.org/abs/2505.23430v1)|**2025-05-29**|null|
 |**2025-05-29**|**An energy approach to pulsar-disc interaction: disc stability and implications for transitional millisecond pulsars**|Eda Vurgun et.al.|[2505.23407v1](http://arxiv.org/abs/2505.23407v1)|**2025-05-29**|null|
 |**2025-05-29**|**When water phase matters: its effect on the stopping cross section for proton therapy and astrophysics**|F. Matias et.al.|[2505.23396v1](http://arxiv.org/abs/2505.23396v1)|**2025-05-29**|null|

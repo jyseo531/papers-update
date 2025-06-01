@@ -15,7 +15,7 @@
 |**2025-05-29**|**Long Duration Inspection of GNSS-Denied Environments with a Tethered UAV-UGV Marsupial System**|Simón Martínez-Rozas et.al.|[2505.23457v1](http://arxiv.org/abs/2505.23457v1)|**2025-05-29**|null|
 |**2025-05-29**|**Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents**|Zhejian Yang et.al.|[2505.23450v1](http://arxiv.org/abs/2505.23450v1)|**2025-05-29**|null|
 |**2025-05-29**|**MEF-Explore: Communication-Constrained Multi-Robot Entropy-Field-Based Exploration**|Khattiya Pongsirijinda et.al.|[2505.23376v1](http://arxiv.org/abs/2505.23376v1)|**2025-05-29**|null|
-|**2025-05-29**|**PyTICS: An Iterative Method for Photometric Lightcurve Intercalibration using Comparison Stars**|Roberta Vieliute et.al.|[2505.23328v1](http://arxiv.org/abs/2505.23328v1)|**2025-05-29**|null|
+|**2025-05-29**|**PyTICS: An Iterative Method for Photometric Lightcurve Intercalibration using Comparison Stars**|Roberta Vieliute et.al.|[2505.23328v1](http://arxiv.org/abs/2505.23328v1)|**2025-05-29**|[link](https://github.com/astroberta/pytics)|
 |**2025-05-29**|**State Space Model Programming in Turing.jl**|Tim Hargreaves et.al.|[2505.23302v1](http://arxiv.org/abs/2505.23302v1)|**2025-05-29**|null|
 |**2025-05-29**|**VLM-RRT: Vision Language Model Guided RRT Search for Autonomous UAV Navigation**|Jianlin Ye et.al.|[2505.23267v1](http://arxiv.org/abs/2505.23267v1)|**2025-05-29**|null|
 |**2025-05-29**|**UPP: Unified Path Planner with Adaptive Safety and Optimality**|Jatin Kumar Arora et.al.|[2505.23197v1](http://arxiv.org/abs/2505.23197v1)|**2025-05-29**|null|
@@ -24,7 +24,7 @@
 |**2025-05-29**|**RoboTransfer: Geometry-Consistent Video Diffusion for Robotic Visual Policy Transfer**|Liu Liu et.al.|[2505.23171v1](http://arxiv.org/abs/2505.23171v1)|**2025-05-29**|null|
 |**2025-05-29**|**Eye-tracking-Driven Shared Control for Robotic Arms:Wizard of Oz Studies to Assess Design Choices**|Anke Fischer-Janzen et.al.|[2505.23147v1](http://arxiv.org/abs/2505.23147v1)|**2025-05-29**|null|
 |**2025-05-29**|**System Identification for Virtual Sensor-Based Model Predictive Control: Application to a 2-DoF Direct-Drive Robotic Arm**|Kosei Tsuji et.al.|[2505.23138v1](http://arxiv.org/abs/2505.23138v1)|**2025-05-29**|null|
-|**2025-05-29**|**Redundancy Parameterization of the ABB YuMi Robot Arm**|Alexander J. Elias et.al.|[2505.23111v1](http://arxiv.org/abs/2505.23111v1)|**2025-05-29**|null|
+|**2025-05-29**|**Redundancy Parameterization of the ABB YuMi Robot Arm**|Alexander J. Elias et.al.|[2505.23111v1](http://arxiv.org/abs/2505.23111v1)|**2025-05-29**|[link](https://github.com/rpirobotics/yumi-ik)|
 |**2025-05-29**|**A Constructed Response: Designing and Choreographing Robot Arm Movements in Collaborative Dance Improvisation**|Xiaoyu Chang et.al.|[2505.23090v1](http://arxiv.org/abs/2505.23090v1)|**2025-05-29**|null|
 |**2025-05-29**|**Stairway to Success: Zero-Shot Floor-Aware Object-Goal Navigation via LLM-Driven Coarse-to-Fine Exploration**|Zeying Gong et.al.|[2505.23019v1](http://arxiv.org/abs/2505.23019v1)|**2025-05-29**|null|
 |**2025-05-29**|**Structural Abstraction and Selective Refinement for Formal Verification**|Christoph Luckeneder et.al.|[2505.22982v1](http://arxiv.org/abs/2505.22982v1)|**2025-05-29**|null|
