@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-05-31
+Updated on 2025-06-01
 
 > Generated from the Hugging Face database.
 
@@ -202,6 +202,8 @@ Updated on 2025-05-31
 | 1 | Unknown | tiantiaf/whisper-large-v3-broad-accentAudio | Updatedabout 4 hours ago | [Link](https://huggingface.co/tiantiaf/whisper-large-v3-broad-accent) |
 | 1 | Unknown | tiantiaf/whisper-large-v3-voice-qualityAudio | Updatedabout 18 hours ago | [Link](https://huggingface.co/tiantiaf/whisper-large-v3-voice-quality) |
 | 1 | Unknown | sohei1l/clip-taggerAudio | Updatedabout 3 hours ago | [Link](https://huggingface.co/sohei1l/clip-tagger) |
+| 3 | Unknown | litagin/anime_speaker_embedding_ecapa_tdnn_groupnormAudio | Updatedabout 18 hours ago | [Link](https://huggingface.co/litagin/anime_speaker_embedding_ecapa_tdnn_groupnorm) |
+| 1 | Unknown | prithivMLmods/Common-Voice-Gender-DetectionAudio | Updatedabout 11 hours ago | [Link](https://huggingface.co/prithivMLmods/Common-Voice-Gender-Detection) |
 
 ## Audio-Text-to-Text
 
@@ -927,6 +929,7 @@ Updated on 2025-05-31
 | 304 | 11 | launch/POLITICSFill-Mask | UpdatedOct 6, 2023 | [Link](https://huggingface.co/launch/POLITICS) |
 | 2.25k | 11 | albert/albert-xlarge-v2Fill-Mask | UpdatedApr 10, 2024 | [Link](https://huggingface.co/albert/albert-xlarge-v2) |
 | 546 | 11 | KBLab/bert-base-swedish-casedFill-Mask | UpdatedAug 29, 2023 | [Link](https://huggingface.co/KBLab/bert-base-swedish-cased) |
+| 469 | 11 | kisti/korscidebertaFill-Mask | UpdatedJul 31, 2024 | [Link](https://huggingface.co/kisti/korscideberta) |
 | 83 | 10 | prithivMLmods/Betelgeuse-bert-base-uncasedFill-Mask | UpdatedMay 15, 2024 | [Link](https://huggingface.co/prithivMLmods/Betelgeuse-bert-base-uncased) |
 | 84 | 10 | prithivMLmods/Betelgeuse-bert-base-uncased-ONNXFill-Mask | Updatedabout 1 month ago | [Link](https://huggingface.co/prithivMLmods/Betelgeuse-bert-base-uncased-ONNX) |
 | 18.7k | 10 | albert/albert-base-v1Fill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/albert/albert-base-v1) |
@@ -1339,6 +1342,7 @@ Updated on 2025-05-31
 | 2.29k | 1 | google/vit-large-patch32-224-in21kImage | UpdatedJan 28, 2022 | [Link](https://huggingface.co/google/vit-large-patch32-224-in21k) |
 | 3.08k | 1 | timm/vit_base_patch16_siglip_512 | UpdatedFeb 21 | [Link](https://huggingface.co/timm/vit_base_patch16_siglip_512.v2_webli) |
 | 13 | 1 | UCSC-VLAA/openvision-vit-small-patch8-160Image | Updated12 days ago | [Link](https://huggingface.co/UCSC-VLAA/openvision-vit-small-patch8-160) |
+| 47 | 1 | UCSC-VLAA/openvision-vit-base-patch8-384Image | Updated15 days ago | [Link](https://huggingface.co/UCSC-VLAA/openvision-vit-base-patch8-384) |
 | 2 | Unknown | TongkunGuan/TokenOCRImage | Updated1 day ago | [Link](https://huggingface.co/TongkunGuan/TokenOCR) |
 | 2 | Unknown | nvidia/MambaVision-L-21KImage | Updatedabout 5 hours ago | [Link](https://huggingface.co/nvidia/MambaVision-L-21K) |
 | 2 | Unknown | nvidia/MambaVision-L2-512-21KImage | Updatedabout 5 hours ago | [Link](https://huggingface.co/nvidia/MambaVision-L2-512-21K) |
@@ -1358,6 +1362,7 @@ Updated on 2025-05-31
 | 8 | Unknown | nielsr/dino_deits8Image | UpdatedMay 3, 2021 | [Link](https://huggingface.co/nielsr/dino_deits8) |
 | 4 | Unknown | nielsr/dino_vitb16Image | UpdatedAug 25, 2021 | [Link](https://huggingface.co/nielsr/dino_vitb16) |
 | 6 | Unknown | facebook/regnet-y-640-seerImage | UpdatedSep 28, 2023 | [Link](https://huggingface.co/facebook/regnet-y-640-seer) |
+| 1 | Unknown | spitfire1970/chess_player_similarityImage | Updatedabout 9 hours ago | [Link](https://huggingface.co/spitfire1970/chess_player_similarity) |
 
 ## Image Segmentation
 
@@ -2357,6 +2362,7 @@ Updated on 2025-05-31
 | 2.88k | 5 | Intel/distilbert-base-uncased-distilled-squad-int8-static-incQuestion | UpdatedMar 29, 2024 | [Link](https://huggingface.co/Intel/distilbert-base-uncased-distilled-squad-int8-static-inc) |
 | 48 | 5 | sjrhuschlee/flan-t5-large-squad2Question | UpdatedSep 28, 2023 | [Link](https://huggingface.co/sjrhuschlee/flan-t5-large-squad2) |
 | 1.22k | 5 | PlanTL-GOB-ES/roberta-base-bne-sqacQuestion | UpdatedNov 30, 2022 | [Link](https://huggingface.co/PlanTL-GOB-ES/roberta-base-bne-sqac) |
+| 61.6k | 5 | monologg/koelectra-base-v3-finetuned-korquadQuestion | UpdatedJun 12, 2023 | [Link](https://huggingface.co/monologg/koelectra-base-v3-finetuned-korquad) |
 | 205 | 4 | henryk/bert-base-multilingual-cased-finetuned-polish-squad1Question | UpdatedMay 19, 2021 | [Link](https://huggingface.co/henryk/bert-base-multilingual-cased-finetuned-polish-squad1) |
 | 257k | 4 | monologg/koelectra-small-v2-distilled-korquad-384Question | UpdatedJun 12, 2023 | [Link](https://huggingface.co/monologg/koelectra-small-v2-distilled-korquad-384) |
 | 1.31k | 4 | DISLab/Ext2Gen-8B-R2Question | Updatedabout 3 hours ago | [Link](https://huggingface.co/DISLab/Ext2Gen-8B-R2) |
@@ -2397,6 +2403,7 @@ Updated on 2025-05-31
 | 15 | 1 | MMG/bert-base-spanish-wwm-cased-finetuned-squad2-esQuestion | UpdatedDec 22, 2021 | [Link](https://huggingface.co/MMG/bert-base-spanish-wwm-cased-finetuned-squad2-es) |
 | 48 | 1 | LTS-VVE/TeutaQuestion | Updatedabout 15 hours ago | [Link](https://huggingface.co/LTS-VVE/Teuta) |
 | 40 | 1 | Yy245/Psychological_expertQuestion | UpdatedApr 27 | [Link](https://huggingface.co/Yy245/Psychological_expert) |
+| 31 | 1 | HacksHaven/sos-qwen3-4b-loraQuestion | Updated16 days ago | [Link](https://huggingface.co/HacksHaven/sos-qwen3-4b-lora) |
 | 4.98k |  | Intel/dynamic_tinybertQuestion | UpdatedMar 22, 2024 | [Link](https://huggingface.co/Intel/dynamic_tinybert) |
 | 170k |  | google-bert/bert-large-uncased-whole-word-masking-finetuned-squadQuestion | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/google-bert/bert-large-uncased-whole-word-masking-finetuned-squad) |
 | 459k |  | distilbert/distilbert-base-cased-distilled-squadQuestion | UpdatedMay 6, 2024 | [Link](https://huggingface.co/distilbert/distilbert-base-cased-distilled-squad) |
@@ -3241,6 +3248,7 @@ Updated on 2025-05-31
 | 18.3k |  | w11wo/indonesian-roberta-base-sentiment-classifierText | UpdatedMay 13, 2023 | [Link](https://huggingface.co/w11wo/indonesian-roberta-base-sentiment-classifier) |
 | 4 | Unknown | boltuix/NeuroLocaleText | Updatedabout 14 hours ago | [Link](https://huggingface.co/boltuix/NeuroLocale) |
 | 5 | Unknown | Sengil/ytu-bert-base-dissonance-trText | Updatedabout 16 hours ago | [Link](https://huggingface.co/Sengil/ytu-bert-base-dissonance-tr) |
+| 25 |  | shhossain/bert-tiny-book-text-classifierText | UpdatedAug 23, 2023 | [Link](https://huggingface.co/shhossain/bert-tiny-book-text-classifier) |
 
 ## Text Generation
 
@@ -4415,6 +4423,7 @@ Updated on 2025-05-31
 | 6 | 4 | UGARIT/grc-ner-bertToken | UpdatedMay 23, 2024 | [Link](https://huggingface.co/UGARIT/grc-ner-bert) |
 | 23 | 4 | ukr-models/uk-punctcaseToken | UpdatedAug 31, 2023 | [Link](https://huggingface.co/ukr-models/uk-punctcase) |
 | 536 | 4 | empathyai/gliner_large-v2 | Updated15 days ago | [Link](https://huggingface.co/empathyai/gliner_large-v2.5-groceries) |
+| 2.63k | 4 | joon09/kor-naver-ner-nameToken | UpdatedApr 4, 2023 | [Link](https://huggingface.co/joon09/kor-naver-ner-name) |
 | 7 | 3 | KBLab/swedish-spacy-pipelineToken | UpdatedOct 4, 2021 | [Link](https://huggingface.co/KBLab/swedish-spacy-pipeline) |
 | 377 | 3 | albertvillanova/autonlp-wikiann-entity_extraction-1e67664-1301123Token | UpdatedApr 4, 2023 | [Link](https://huggingface.co/albertvillanova/autonlp-wikiann-entity_extraction-1e67664-1301123) |
 | 274 | 3 | ai4privacy/llama-ai4privacy-english-anonymiser-openpiiToken | Updatedabout 2 hours ago | [Link](https://huggingface.co/ai4privacy/llama-ai4privacy-english-anonymiser-openpii) |
@@ -4538,6 +4547,7 @@ Updated on 2025-05-31
 | 8 | 19 | kyutai/hibiki-2b-mlx-bf16Translation | UpdatedFeb 6 | [Link](https://huggingface.co/kyutai/hibiki-2b-mlx-bf16) |
 | 242 | 18 | ModelSpace/GemmaX2-28-9B-v0 | Updatedabout 14 hours ago | [Link](https://huggingface.co/ModelSpace/GemmaX2-28-9B-v0.1) |
 | 67 | 18 | jbochi/madlad400-10b-mtTranslation | UpdatedNov 19, 2023 | [Link](https://huggingface.co/jbochi/madlad400-10b-mt) |
+| 206 | 17 | TheBloke/TowerInstruct-7B-v0 | UpdatedJan 12, 2024 | [Link](https://huggingface.co/TheBloke/TowerInstruct-7B-v0.1-GGUF) |
 | 469k | 16 | ai4bharat/indictrans2-indic-en-1BTranslation | Updated18 days ago | [Link](https://huggingface.co/ai4bharat/indictrans2-indic-en-1B) |
 | 419 | 14 | marefa-nlp/marefa-mt-en-arTranslation | UpdatedSep 22, 2021 | [Link](https://huggingface.co/marefa-nlp/marefa-mt-en-ar) |
 | 241 | 14 | NHNDQ/nllb-finetuned-ko2enTranslation | UpdatedJul 21, 2023 | [Link](https://huggingface.co/NHNDQ/nllb-finetuned-ko2en) |
