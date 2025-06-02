@@ -2,33 +2,33 @@
 ### VQA
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-29**|**From Chat Logs to Collective Insights: Aggregative Question Answering**|Wentao Zhang et.al.|[2505.23765v1](http://arxiv.org/abs/2505.23765v1)|**2025-05-29**|null|
-|**2025-05-29**|**MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence**|Sihan Yang et.al.|[2505.23764v1](http://arxiv.org/abs/2505.23764v1)|**2025-05-29**|null|
-|**2025-05-29**|**Sketch Down the FLOPs: Towards Efficient Networks for Human Sketch**|Aneeshan Sain et.al.|[2505.23763v1](http://arxiv.org/abs/2505.23763v1)|**2025-05-29**|null|
-|**2025-05-29**|**Differential Information: An Information-Theoretic Perspective on Preference Optimization**|Yunjae Won et.al.|[2505.23761v1](http://arxiv.org/abs/2505.23761v1)|**2025-05-29**|null|
-|**2025-05-29**|**Puzzled by Puzzles: When Vision-Language Models Can't Take a Hint**|Heekyung Lee et.al.|[2505.23759v1](http://arxiv.org/abs/2505.23759v1)|**2025-05-29**|[link](https://github.com/kyunnilee/visual_puzzles)|
-|**2025-05-29**|**Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**|Haohan Chi et.al.|[2505.23757v1](http://arxiv.org/abs/2505.23757v1)|**2025-05-29**|[link](https://github.com/ahydchh/impromptu-vla)|
-|**2025-05-29**|**DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural Language and Reinforcement Learning**|Ziyin Zhang et.al.|[2505.23754v1](http://arxiv.org/abs/2505.23754v1)|**2025-05-29**|[link](https://github.com/jiahao004/deeptheorem)|
-|**2025-05-29**|**Comparative of Genetic Fuzzy regression techniques for aeroacoustic phenomenons**|Hugo Henry et.al.|[2505.23746v1](http://arxiv.org/abs/2505.23746v1)|**2025-05-29**|null|
-|**2025-05-29**|**Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence**|Diankun Wu et.al.|[2505.23747v1](http://arxiv.org/abs/2505.23747v1)|**2025-05-29**|null|
-|**2025-05-29**|**MAGREF: Masked Guidance for Any-Reference Video Generation**|Yufan Deng et.al.|[2505.23742v1](http://arxiv.org/abs/2505.23742v1)|**2025-05-29**|[link](https://github.com/magref-video/magref)|
-|**2025-05-29**|**ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**|Weijie Wang et.al.|[2505.23734v2](http://arxiv.org/abs/2505.23734v2)|**2025-05-30**|[link](https://github.com/ziplab/ZPressor)|
-|**2025-05-29**|**Bounded Rationality for LLMs: Satisficing Alignment at Inference-Time**|Mohamad Chehade et.al.|[2505.23729v1](http://arxiv.org/abs/2505.23729v1)|**2025-05-29**|null|
-|**2025-05-29**|**Computerized Modeling of Electrophysiology and Pathoelectrophysiology of the Atria -- How Much Detail is Needed?**|Olaf Dössel et.al.|[2505.23717v1](http://arxiv.org/abs/2505.23717v1)|**2025-05-29**|null|
-|**2025-05-29**|**Don't Take the Premise for Granted: Evaluating the Premise Critique Ability of Large Language Models**|Jinzhe Li et.al.|[2505.23715v1](http://arxiv.org/abs/2505.23715v1)|**2025-05-29**|[link](https://github.com/mlgroupjlu/premise_critique)|
-|**2025-05-29**|**SocialMaze: A Benchmark for Evaluating Social Reasoning in Large Language Models**|Zixiang Xu et.al.|[2505.23713v1](http://arxiv.org/abs/2505.23713v1)|**2025-05-29**|[link](https://github.com/xzx34/socialmaze)|
-|**2025-05-29**|**Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better**|Danny Driess et.al.|[2505.23705v1](http://arxiv.org/abs/2505.23705v1)|**2025-05-29**|null|
-|**2025-05-29**|**Let's Reason Formally: Natural-Formal Hybrid Reasoning Enhances LLM's Math Capability**|Ruida Wang et.al.|[2505.23703v1](http://arxiv.org/abs/2505.23703v1)|**2025-05-29**|null|
-|**2025-05-29**|**DiCoFlex: Model-agnostic diverse counterfactuals with flexible control**|Oleksii Furman et.al.|[2505.23700v1](http://arxiv.org/abs/2505.23700v1)|**2025-05-29**|null|
-|**2025-05-29**|**Data-to-Dashboard: Multi-Agent LLM Framework for Insightful Visualization in Enterprise Analytics**|Ran Zhang et.al.|[2505.23695v1](http://arxiv.org/abs/2505.23695v1)|**2025-05-29**|[link](https://github.com/77luvc/d2d_data2dashboard)|
-|**2025-05-29**|**VF-Eval: Evaluating Multimodal LLMs for Generating Feedback on AIGC Videos**|Tingyu Song et.al.|[2505.23693v1](http://arxiv.org/abs/2505.23693v1)|**2025-05-29**|[link](https://github.com/sighingsnow/vf-eval)|
-|**2025-05-29**|**Malle's Conjecture for Galois octic fields over $\mathbb Q$**|Arul Shankar et.al.|[2505.23690v1](http://arxiv.org/abs/2505.23690v1)|**2025-05-29**|null|
-|**2025-05-29**|**Learning Compositional Functions with Transformers from Easy-to-Hard Data**|Zixuan Wang et.al.|[2505.23683v1](http://arxiv.org/abs/2505.23683v1)|**2025-05-29**|null|
-|**2025-05-29**|**Differentially Private Space-Efficient Algorithms for Counting Distinct Elements in the Turnstile Model**|Rachel Cummings et.al.|[2505.23682v1](http://arxiv.org/abs/2505.23682v1)|**2025-05-29**|null|
-|**2025-05-29**|**GSO: Challenging Software Optimization Tasks for Evaluating SWE-Agents**|Manish Shetty et.al.|[2505.23671v1](http://arxiv.org/abs/2505.23671v1)|**2025-05-29**|[link](https://github.com/gso-bench/gso)|
-|**2025-05-29**|**Fortune: Formula-Driven Reinforcement Learning for Symbolic Table Reasoning in Language Models**|Lang Cao et.al.|[2505.23667v1](http://arxiv.org/abs/2505.23667v1)|**2025-05-29**|null|
-|**2025-05-29**|**LoLA: Low-Rank Linear Attention With Sparse Caching**|Luke McDermott et.al.|[2505.23666v1](http://arxiv.org/abs/2505.23666v1)|**2025-05-29**|null|
-|**2025-05-29**|**D-AR: Diffusion via Autoregressive Models**|Ziteng Gao et.al.|[2505.23660v1](http://arxiv.org/abs/2505.23660v1)|**2025-05-29**|[link](https://github.com/showlab/d-ar)|
-|**2025-05-29**|**Bayesian Perspective on Memorization and Reconstruction**|Haim Kaplan et.al.|[2505.23658v1](http://arxiv.org/abs/2505.23658v1)|**2025-05-29**|null|
-|**2025-05-29**|**Keyed Chaotic Masking: A Functional Privacy Framework for Neural Inference**|Peter David Fagan et.al.|[2505.23655v2](http://arxiv.org/abs/2505.23655v2)|**2025-05-30**|null|
-|**2025-05-29**|**Continuous Chain of Thought Enables Parallel Exploration and Reasoning**|Halil Alperen Gozeten et.al.|[2505.23648v1](http://arxiv.org/abs/2505.23648v1)|**2025-05-29**|null|
+|**2025-05-30**|**The Road to Generalizable Neuro-Symbolic Learning Should be Paved with Foundation Models**|Adam Stein et.al.|[2505.24874v1](http://arxiv.org/abs/2505.24874v1)|**2025-05-30**|null|
+|**2025-05-30**|**MiniMax-Remover: Taming Bad Noise Helps Video Object Removal**|Bojia Zi et.al.|[2505.24873v1](http://arxiv.org/abs/2505.24873v1)|**2025-05-30**|null|
+|**2025-05-30**|**ProxyThinker: Test-Time Guidance through Small Visual Reasoners**|Zilin Xiao et.al.|[2505.24872v1](http://arxiv.org/abs/2505.24872v1)|**2025-05-30**|null|
+|**2025-05-30**|**PB&J: Peanut Butter and Joints for Damped Articulation**|Avery S. Williamson et.al.|[2505.24860v1](http://arxiv.org/abs/2505.24860v1)|**2025-05-30**|null|
+|**2025-05-30**|**Beyond Multiple Choice: Evaluating Steering Vectors for Adaptive Free-Form Summarization**|Joschka Braun et.al.|[2505.24859v1](http://arxiv.org/abs/2505.24859v1)|**2025-05-30**|null|
+|**2025-05-30**|**Active Gaussian Network Model: a non-equilibrium description of protein fluctuations and allosteric behavior**|Giulio Costantini et.al.|[2505.24855v1](http://arxiv.org/abs/2505.24855v1)|**2025-05-30**|null|
+|**2025-05-30**|**Chameleon: A MatMul-Free Temporal Convolutional Network Accelerator for End-to-End Few-Shot and Continual Learning from Sequential Data**|Douwe den Blanken et.al.|[2505.24852v1](http://arxiv.org/abs/2505.24852v1)|**2025-05-30**|null|
+|**2025-05-30**|**Harnessing Negative Signals: Reinforcement Distillation from Teacher Data for LLM Reasoning**|Shuyao Xu et.al.|[2505.24850v1](http://arxiv.org/abs/2505.24850v1)|**2025-05-30**|null|
+|**2025-05-30**|**Vision LLMs Are Bad at Hierarchical Visual Understanding, and LLMs Are the Bottleneck**|Yuwen Tan et.al.|[2505.24840v1](http://arxiv.org/abs/2505.24840v1)|**2025-05-30**|null|
+|**2025-05-30**|**VideoCAD: A Large-Scale Video Dataset for Learning UI Interactions and 3D Reasoning from CAD Software**|Brandon Man et.al.|[2505.24838v1](http://arxiv.org/abs/2505.24838v1)|**2025-05-30**|null|
+|**2025-05-30**|**How much do language models memorize?**|John X. Morris et.al.|[2505.24832v1](http://arxiv.org/abs/2505.24832v1)|**2025-05-30**|null|
+|**2025-05-30**|**Improving Reliability and Explainability of Medical Question Answering through Atomic Fact Checking in Retrieval-Augmented LLMs**|Juraj Vladika et.al.|[2505.24830v1](http://arxiv.org/abs/2505.24830v1)|**2025-05-30**|null|
+|**2025-05-30**|**LegalEval-Q: A New Benchmark for The Quality Evaluation of LLM-Generated Legal Text**|Li yunhan et.al.|[2505.24826v1](http://arxiv.org/abs/2505.24826v1)|**2025-05-30**|null|
+|**2025-05-30**|**Asymptotics for the harmonic descent chain and applications to critical beta-splitting trees**|Anna Brandenberger et.al.|[2505.24821v1](http://arxiv.org/abs/2505.24821v1)|**2025-05-30**|null|
+|**2025-05-30**|**CL-LoRA: Continual Low-Rank Adaptation for Rehearsal-Free Class-Incremental Learning**|Jiangpeng He et.al.|[2505.24816v1](http://arxiv.org/abs/2505.24816v1)|**2025-05-30**|null|
+|**2025-05-30**|**Early warning signals in rumor models**|Eva Rifà et.al.|[2505.24795v1](http://arxiv.org/abs/2505.24795v1)|**2025-05-30**|null|
+|**2025-05-30**|**Inference Acceleration of Autoregressive Normalizing Flows by Selective Jacobi Decoding**|Jiaru Zhang et.al.|[2505.24791v1](http://arxiv.org/abs/2505.24791v1)|**2025-05-30**|null|
+|**2025-05-30**|**Drop Dropout on Single-Epoch Language Model Pretraining**|Houjun Liu et.al.|[2505.24788v1](http://arxiv.org/abs/2505.24788v1)|**2025-05-30**|null|
+|**2025-05-30**|**EXP-Bench: Can AI Conduct AI Research Experiments?**|Patrick Tser Jern Kon et.al.|[2505.24785v1](http://arxiv.org/abs/2505.24785v1)|**2025-05-30**|null|
+|**2025-05-30**|**AXIOM: Learning to Play Games in Minutes with Expanding Object-Centric Models**|Conor Heins et.al.|[2505.24784v1](http://arxiv.org/abs/2505.24784v1)|**2025-05-30**|null|
+|**2025-05-30**|**Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?**|Jiayu Liu et.al.|[2505.24778v1](http://arxiv.org/abs/2505.24778v1)|**2025-05-30**|null|
+|**2025-05-30**|**A studentized permutation test for the treatment effect in individual participant data meta-analysis**|Phuc Thien Tran et.al.|[2505.24774v1](http://arxiv.org/abs/2505.24774v1)|**2025-05-30**|null|
+|**2025-05-30**|**Supervised Quantum Machine Learning: A Future Outlook from Qubits to Enterprise Applications**|Srikanth Thudumu et.al.|[2505.24765v1](http://arxiv.org/abs/2505.24765v1)|**2025-05-30**|null|
+|**2025-05-30**|**LGAR: Zero-Shot LLM-Guided Neural Ranking for Abstract Screening in Systematic Literature Reviews**|Christian Jaumann et.al.|[2505.24757v1](http://arxiv.org/abs/2505.24757v1)|**2025-05-30**|null|
+|**2025-05-30**|**HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts**|Neil He et.al.|[2505.24722v1](http://arxiv.org/abs/2505.24722v1)|**2025-05-30**|null|
+|**2025-05-30**|**Reinforcing Video Reasoning with Focused Thinking**|Jisheng Dang et.al.|[2505.24718v1](http://arxiv.org/abs/2505.24718v1)|**2025-05-30**|null|
+|**2025-05-30**|**Efficient Bayesian multi-fidelity inverse analysis for expensive and non-differentiable physics-based simulations in high stochastic dimensions**|Jonas Nitzler et.al.|[2505.24708v1](http://arxiv.org/abs/2505.24708v1)|**2025-05-30**|null|
+|**2025-05-30**|**Multi-Domain ABSA Conversation Dataset Generation via LLMs for Real-World Evaluation and Model Comparison**|Tejul Pandit et.al.|[2505.24701v1](http://arxiv.org/abs/2505.24701v1)|**2025-05-30**|null|
+|**2025-05-30**|**Likelihoods for Stochastic Gravitational Wave Background Data Analysis**|Gabriele Franciolini et.al.|[2505.24695v1](http://arxiv.org/abs/2505.24695v1)|**2025-05-30**|null|
+|**2025-05-30**|**Disentangling Granularity: An Implicit Inductive Bias in Factorized VAEs**|Zihao Chen et.al.|[2505.24684v1](http://arxiv.org/abs/2505.24684v1)|**2025-05-30**|null|

@@ -2,33 +2,33 @@
 ### 3D Object Tracking
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-29**|**TextRegion: Text-Aligned Region Tokens from Frozen Image-Text Models**|Yao Xiao et.al.|[2505.23769v1](http://arxiv.org/abs/2505.23769v1)|**2025-05-29**|[link](https://github.com/avaxiao/TextRegion)|
-|**2025-05-29**|**Turbulence in Primordial Dark Matter Halos and Its Impact on the First Star Formation**|Meng-Yuan Ho et.al.|[2505.23768v1](http://arxiv.org/abs/2505.23768v1)|**2025-05-29**|null|
-|**2025-05-29**|**Argus: Vision-Centric Reasoning with Grounded Chain-of-Thought**|Yunze Man et.al.|[2505.23766v1](http://arxiv.org/abs/2505.23766v1)|**2025-05-29**|null|
-|**2025-05-29**|**MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence**|Sihan Yang et.al.|[2505.23764v1](http://arxiv.org/abs/2505.23764v1)|**2025-05-29**|null|
-|**2025-05-29**|**Differential Information: An Information-Theoretic Perspective on Preference Optimization**|Yunjae Won et.al.|[2505.23761v1](http://arxiv.org/abs/2505.23761v1)|**2025-05-29**|null|
-|**2025-05-29**|**Rooms from Motion: Un-posed Indoor 3D Object Detection as Localization and Mapping**|Justin Lazarow et.al.|[2505.23756v1](http://arxiv.org/abs/2505.23756v1)|**2025-05-29**|null|
-|**2025-05-29**|**Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence**|Diankun Wu et.al.|[2505.23747v1](http://arxiv.org/abs/2505.23747v1)|**2025-05-29**|null|
-|**2025-05-29**|**Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need**|Qiang Wang et.al.|[2505.23744v1](http://arxiv.org/abs/2505.23744v1)|**2025-05-29**|null|
-|**2025-05-29**|**MAGREF: Masked Guidance for Any-Reference Video Generation**|Yufan Deng et.al.|[2505.23742v1](http://arxiv.org/abs/2505.23742v1)|**2025-05-29**|[link](https://github.com/magref-video/magref)|
-|**2025-05-29**|**Hydrodynamic simulations of black hole evolution in AGN discs I: orbital alignment of highly inclined satellites**|Connar Rowan et.al.|[2505.23739v1](http://arxiv.org/abs/2505.23739v1)|**2025-05-29**|null|
-|**2025-05-29**|**How Animals Dance (When You're Not Looking)**|Xiaojuan Wang et.al.|[2505.23738v1](http://arxiv.org/abs/2505.23738v1)|**2025-05-29**|null|
-|**2025-05-29**|**ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**|Weijie Wang et.al.|[2505.23734v2](http://arxiv.org/abs/2505.23734v2)|**2025-05-30**|[link](https://github.com/ziplab/ZPressor)|
-|**2025-05-29**|**EmotionRankCLAP: Bridging Natural Language Speaking Styles and Ordinal Speech Emotion via Rank-N-Contrast**|Shreeram Suresh Chandra et.al.|[2505.23732v1](http://arxiv.org/abs/2505.23732v1)|**2025-05-29**|null|
-|**2025-05-29**|**DTBIA: An Immersive Visual Analytics System for Brain-Inspired Research**|Jun-Hsiang Yao et.al.|[2505.23730v1](http://arxiv.org/abs/2505.23730v1)|**2025-05-29**|null|
-|**2025-05-29**|**Bounded Rationality for LLMs: Satisficing Alignment at Inference-Time**|Mohamad Chehade et.al.|[2505.23729v1](http://arxiv.org/abs/2505.23729v1)|**2025-05-29**|null|
-|**2025-05-29**|**FMG-Det: Foundation Model Guided Robust Object Detection**|Darryl Hannan et.al.|[2505.23726v1](http://arxiv.org/abs/2505.23726v1)|**2025-05-29**|null|
-|**2025-05-29**|**TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning**|Andreas Auer et.al.|[2505.23719v1](http://arxiv.org/abs/2505.23719v1)|**2025-05-29**|[link](https://github.com/nx-ai/tirex)|
-|**2025-05-29**|**Computerized Modeling of Electrophysiology and Pathoelectrophysiology of the Atria -- How Much Detail is Needed?**|Olaf Dössel et.al.|[2505.23717v1](http://arxiv.org/abs/2505.23717v1)|**2025-05-29**|null|
-|**2025-05-29**|**AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views**|Lihan Jiang et.al.|[2505.23716v1](http://arxiv.org/abs/2505.23716v1)|**2025-05-29**|null|
-|**2025-05-29**|**AMOR: Adaptive Character Control through Multi-Objective Reinforcement Learning**|Lucas N. Alegre et.al.|[2505.23708v1](http://arxiv.org/abs/2505.23708v1)|**2025-05-29**|null|
-|**2025-05-29**|**CLDTracker: A Comprehensive Language Description for Visual Tracking**|Mohamad Alansari et.al.|[2505.23704v1](http://arxiv.org/abs/2505.23704v1)|**2025-05-29**|[link](https://github.com/hamadya/cldtracker)|
-|**2025-05-29**|**Mobi-$π$: Mobilizing Your Robot Learning Policy**|Jingyun Yang et.al.|[2505.23692v1](http://arxiv.org/abs/2505.23692v1)|**2025-05-29**|null|
-|**2025-05-29**|**Child-Directed Language Does Not Consistently Boost Syntax Learning in Language Models**|Francesca Padovani et.al.|[2505.23689v1](http://arxiv.org/abs/2505.23689v1)|**2025-05-29**|[link](https://github.com/fpadovani/childes_vs_wiki)|
-|**2025-05-29**|**Errors in Stereo Geometry Induce Distance Misperception**|Raffles Xingqi Zhu et.al.|[2505.23685v1](http://arxiv.org/abs/2505.23685v1)|**2025-05-29**|null|
-|**2025-05-29**|**How to Elicit Explainability Requirements? A Comparison of Interviews, Focus Groups, and Surveys**|Martin Obaidi et.al.|[2505.23684v1](http://arxiv.org/abs/2505.23684v1)|**2025-05-29**|null|
-|**2025-05-29**|**Optical Photometric Monitoring of the Blazar OT 355 and Local Standard Stars' Calibration**|R. Bachev et.al.|[2505.23677v1](http://arxiv.org/abs/2505.23677v1)|**2025-05-29**|null|
-|**2025-05-29**|**Bayesian Optimization from Human Feedback: Near-Optimal Regret Bounds**|Aya Kayal et.al.|[2505.23673v1](http://arxiv.org/abs/2505.23673v1)|**2025-05-29**|null|
-|**2025-05-29**|**AMBER: Adaptive Mesh Generation by Iterative Mesh Resolution Prediction**|Niklas Freymuth et.al.|[2505.23663v1](http://arxiv.org/abs/2505.23663v1)|**2025-05-29**|[link](https://github.com/NiklasFreymuth/AMBER)|
-|**2025-05-29**|**Continuous Chain of Thought Enables Parallel Exploration and Reasoning**|Halil Alperen Gozeten et.al.|[2505.23648v1](http://arxiv.org/abs/2505.23648v1)|**2025-05-29**|null|
-|**2025-05-29**|**Securing AI Agents with Information-Flow Control**|Manuel Costa et.al.|[2505.23643v1](http://arxiv.org/abs/2505.23643v1)|**2025-05-29**|[link](https://github.com/microsoft/fides)|
+|**2025-05-30**|**AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion**|Yangyi Huang et.al.|[2505.24877v1](http://arxiv.org/abs/2505.24877v1)|**2025-05-30**|null|
+|**2025-05-30**|**ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL**|Yu Zhang et.al.|[2505.24875v1](http://arxiv.org/abs/2505.24875v1)|**2025-05-30**|null|
+|**2025-05-30**|**MiniMax-Remover: Taming Bad Noise Helps Video Object Removal**|Bojia Zi et.al.|[2505.24873v1](http://arxiv.org/abs/2505.24873v1)|**2025-05-30**|null|
+|**2025-05-30**|**MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning**|Yiqing Liang et.al.|[2505.24871v1](http://arxiv.org/abs/2505.24871v1)|**2025-05-30**|null|
+|**2025-05-30**|**GenSpace: Benchmarking Spatially-Aware Image Generation**|Zehan Wang et.al.|[2505.24870v1](http://arxiv.org/abs/2505.24870v1)|**2025-05-30**|null|
+|**2025-05-30**|**ViStoryBench: Comprehensive Benchmark Suite for Story Visualization**|Cailin Zhuang et.al.|[2505.24862v1](http://arxiv.org/abs/2505.24862v1)|**2025-05-30**|null|
+|**2025-05-30**|**PB&J: Peanut Butter and Joints for Damped Articulation**|Avery S. Williamson et.al.|[2505.24860v1](http://arxiv.org/abs/2505.24860v1)|**2025-05-30**|null|
+|**2025-05-30**|**DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation**|Zhao Mandi et.al.|[2505.24853v1](http://arxiv.org/abs/2505.24853v1)|**2025-05-30**|null|
+|**2025-05-30**|**Harnessing Negative Signals: Reinforcement Distillation from Teacher Data for LLM Reasoning**|Shuyao Xu et.al.|[2505.24850v1](http://arxiv.org/abs/2505.24850v1)|**2025-05-30**|null|
+|**2025-05-30**|**MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning**|Jingyan Shen et.al.|[2505.24846v1](http://arxiv.org/abs/2505.24846v1)|**2025-05-30**|null|
+|**2025-05-30**|**pySTARBURST99: The Next Generation of STARBURST99**|Calum Hawcroft et.al.|[2505.24841v1](http://arxiv.org/abs/2505.24841v1)|**2025-05-30**|null|
+|**2025-05-30**|**Novel methodology to obtain transonic solutions for dissipative flows around compact objects**|Shilpa Sarkar et.al.|[2505.24839v1](http://arxiv.org/abs/2505.24839v1)|**2025-05-30**|null|
+|**2025-05-30**|**VideoCAD: A Large-Scale Video Dataset for Learning UI Interactions and 3D Reasoning from CAD Software**|Brandon Man et.al.|[2505.24838v1](http://arxiv.org/abs/2505.24838v1)|**2025-05-30**|null|
+|**2025-05-30**|**Timing is important: Risk-aware Fund Allocation based on Time-Series Forecasting**|Fuyuan Lyu et.al.|[2505.24835v1](http://arxiv.org/abs/2505.24835v1)|**2025-05-30**|null|
+|**2025-05-30**|**Bi-Manual Joint Camera Calibration and Scene Representation**|Haozhan Tang et.al.|[2505.24819v1](http://arxiv.org/abs/2505.24819v1)|**2025-05-30**|null|
+|**2025-05-30**|**Convex Approximations of Random Constrained Markov Decision Processes**|V Varagapriya et.al.|[2505.24815v1](http://arxiv.org/abs/2505.24815v1)|**2025-05-30**|null|
+|**2025-05-30**|**Ultrafast electron dynamics upon above band-gap excitation in epitaxial LaFeO$_3$(001) thin films**|Friederike Elisa Wührl et.al.|[2505.24809v1](http://arxiv.org/abs/2505.24809v1)|**2025-05-30**|null|
+|**2025-05-30**|**RealDrive: Retrieval-Augmented Driving with Diffusion Models**|Wenhao Ding et.al.|[2505.24808v1](http://arxiv.org/abs/2505.24808v1)|**2025-05-30**|null|
+|**2025-05-30**|**Accurate grain boundary plane distributions for textured microstructures from stereological analysis of orthogonal two-dimensional electron backscatter diffraction orientation maps**|Martin Folwarczny et.al.|[2505.24798v1](http://arxiv.org/abs/2505.24798v1)|**2025-05-30**|null|
+|**2025-05-30**|**TC-GS: A Faster Gaussian Splatting Module Utilizing Tensor Cores**|Zimu Liao et.al.|[2505.24796v1](http://arxiv.org/abs/2505.24796v1)|**2025-05-30**|null|
+|**2025-05-30**|**Draw ALL Your Imagine: A Holistic Benchmark and Agent Framework for Complex Instruction-based Image Generation**|Yucheng Zhou et.al.|[2505.24787v1](http://arxiv.org/abs/2505.24787v1)|**2025-05-30**|null|
+|**2025-05-30**|**AXIOM: Learning to Play Games in Minutes with Expanding Object-Centric Models**|Conor Heins et.al.|[2505.24784v1](http://arxiv.org/abs/2505.24784v1)|**2025-05-30**|null|
+|**2025-05-30**|**Efficient Estimation of Regularized Tyler's M-Estimator Using Approximate LOOCV**|Karim Abou-Moustafa et.al.|[2505.24781v1](http://arxiv.org/abs/2505.24781v1)|**2025-05-30**|null|
+|**2025-05-30**|**EVA-MILP: Towards Standardized Evaluation of MILP Instance Generation**|Yidong Luo et.al.|[2505.24779v1](http://arxiv.org/abs/2505.24779v1)|**2025-05-30**|null|
+|**2025-05-30**|**Numerical Simulation Informed Rapid Cure Process Optimization of Composite Structures using Constrained Bayesian Optimization**|Madhura Limaye et.al.|[2505.24775v1](http://arxiv.org/abs/2505.24775v1)|**2025-05-30**|null|
+|**2025-05-30**|**Identification of New Candidate Be/X-Ray Binary Systems in the Small Magellanic Cloud via Analysis of S-CUBED Source Catalog**|Thomas M. Gaudin et.al.|[2505.24766v1](http://arxiv.org/abs/2505.24766v1)|**2025-05-30**|null|
+|**2025-05-30**|**Detecting Airborne Objects with 5G NR Radars**|Steve Blandino et.al.|[2505.24763v1](http://arxiv.org/abs/2505.24763v1)|**2025-05-30**|null|
+|**2025-05-30**|**LGAR: Zero-Shot LLM-Guided Neural Ranking for Abstract Screening in Systematic Literature Reviews**|Christian Jaumann et.al.|[2505.24757v1](http://arxiv.org/abs/2505.24757v1)|**2025-05-30**|null|
+|**2025-05-30**|**TESTQUEST: A Web Gamification Tool to Improve Locators and Page Objects Quality**|Dario Olianas et.al.|[2505.24756v1](http://arxiv.org/abs/2505.24756v1)|**2025-05-30**|null|
+|**2025-05-30**|**Systematically Measuring Ultra-Diffuse Galaxies. VIII. Misfits, Miscasts, and Miscreants**|Dennis Zaritsky et.al.|[2505.24755v1](http://arxiv.org/abs/2505.24755v1)|**2025-05-30**|null|

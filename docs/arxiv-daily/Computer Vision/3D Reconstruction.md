@@ -2,33 +2,33 @@
 ### 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-29**|**MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence**|Sihan Yang et.al.|[2505.23764v1](http://arxiv.org/abs/2505.23764v1)|**2025-05-29**|null|
-|**2025-05-29**|**Rooms from Motion: Un-posed Indoor 3D Object Detection as Localization and Mapping**|Justin Lazarow et.al.|[2505.23756v1](http://arxiv.org/abs/2505.23756v1)|**2025-05-29**|null|
-|**2025-05-29**|**Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence**|Diankun Wu et.al.|[2505.23747v1](http://arxiv.org/abs/2505.23747v1)|**2025-05-29**|null|
-|**2025-05-29**|**ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**|Weijie Wang et.al.|[2505.23734v2](http://arxiv.org/abs/2505.23734v2)|**2025-05-30**|[link](https://github.com/ziplab/ZPressor)|
-|**2025-05-29**|**DTBIA: An Immersive Visual Analytics System for Brain-Inspired Research**|Jun-Hsiang Yao et.al.|[2505.23730v1](http://arxiv.org/abs/2505.23730v1)|**2025-05-29**|null|
-|**2025-05-29**|**Computerized Modeling of Electrophysiology and Pathoelectrophysiology of the Atria -- How Much Detail is Needed?**|Olaf Dössel et.al.|[2505.23717v1](http://arxiv.org/abs/2505.23717v1)|**2025-05-29**|null|
-|**2025-05-29**|**AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views**|Lihan Jiang et.al.|[2505.23716v1](http://arxiv.org/abs/2505.23716v1)|**2025-05-29**|null|
-|**2025-05-29**|**Mobi-$π$: Mobilizing Your Robot Learning Policy**|Jingyun Yang et.al.|[2505.23692v1](http://arxiv.org/abs/2505.23692v1)|**2025-05-29**|null|
-|**2025-05-29**|**Errors in Stereo Geometry Induce Distance Misperception**|Raffles Xingqi Zhu et.al.|[2505.23685v1](http://arxiv.org/abs/2505.23685v1)|**2025-05-29**|null|
-|**2025-05-29**|**AMBER: Adaptive Mesh Generation by Iterative Mesh Resolution Prediction**|Niklas Freymuth et.al.|[2505.23663v1](http://arxiv.org/abs/2505.23663v1)|**2025-05-29**|[link](https://github.com/NiklasFreymuth/AMBER)|
-|**2025-05-29**|**Radiant Triangle Soup with Soft Connectivity Forces for 3D Reconstruction and Novel View Synthesis**|Nathaniel Burgdorfer et.al.|[2505.23642v1](http://arxiv.org/abs/2505.23642v1)|**2025-05-29**|null|
-|**2025-05-29**|**Comparing the Effects of Persistence Barcodes Aggregation and Feature Concatenation on Medical Imaging**|Dashti A. Ali et.al.|[2505.23637v1](http://arxiv.org/abs/2505.23637v1)|**2025-05-29**|null|
-|**2025-05-29**|**Unconventional Temperature Dependence of Exciton Diamagnetism in 2D Ruddlesden-Popper Lead Halide Perovskites**|William A. Smith et.al.|[2505.23571v1](http://arxiv.org/abs/2505.23571v1)|**2025-05-29**|null|
-|**2025-05-29**|**PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views**|Mohamed Rayan Barhdadi et.al.|[2505.23481v1](http://arxiv.org/abs/2505.23481v1)|**2025-05-29**|[link](https://github.com/anonymous-researcher-01/physicsnerf)|
-|**2025-05-29**|**A Divide-and-Conquer Approach for Global Orientation of Non-Watertight Scene-Level Point Clouds Using 0-1 Integer Optimization**|Zhuodong Li et.al.|[2505.23469v1](http://arxiv.org/abs/2505.23469v1)|**2025-05-29**|[link](https://github.com/zd-lee/dacpo)|
-|**2025-05-29**|**UrbanCraft: Urban View Extrapolation via Hierarchical Sem-Geometric Priors**|Tianhang Wang et.al.|[2505.23434v1](http://arxiv.org/abs/2505.23434v1)|**2025-05-29**|null|
-|**2025-05-29**|**Nosey: Open-source hardware for acoustic nasalance**|Maya Dewhurst et.al.|[2505.23339v1](http://arxiv.org/abs/2505.23339v1)|**2025-05-29**|[link](https://github.com/phoneticslab/nosey)|
-|**2025-05-29**|**Investigating A Geometrical Solution to the Vergence-Accommodation Conflict for Targeted Movements in Virtual Reality**|Xiaoye Michael Wang et.al.|[2505.23310v1](http://arxiv.org/abs/2505.23310v1)|**2025-05-29**|null|
-|**2025-05-29**|**Quality assessment of 3D human animation: Subjective and objective evaluation**|Rim Rekik et.al.|[2505.23301v1](http://arxiv.org/abs/2505.23301v1)|**2025-05-29**|null|
-|**2025-05-29**|**Wav2Sem: Plug-and-Play Audio Semantic Decoupling for 3D Speech-Driven Facial Animation**|Hao Li et.al.|[2505.23290v1](http://arxiv.org/abs/2505.23290v1)|**2025-05-29**|[link](https://github.com/wslh852/wav2sem)|
-|**2025-05-29**|**Intermediate State Formation of Topologically Associated Chromatin Domains using Quantum Annealing**|Tobias Kempe et.al.|[2505.23289v1](http://arxiv.org/abs/2505.23289v1)|**2025-05-29**|null|
-|**2025-05-29**|**GenCAD-Self-Repairing: Feasibility Enhancement for 3D CAD Generation**|Chikaha Tsuji et.al.|[2505.23287v1](http://arxiv.org/abs/2505.23287v1)|**2025-05-29**|null|
-|**2025-05-29**|**Holistic Large-Scale Scene Reconstruction via Mixed Gaussian Splatting**|Chuandong Liu et.al.|[2505.23280v1](http://arxiv.org/abs/2505.23280v1)|**2025-05-29**|[link](https://github.com/azhuantou/mixgs)|
-|**2025-05-29**|**Disrupting Vision-Language Model-Driven Navigation Services via Adversarial Object Fusion**|Chunlong Xie et.al.|[2505.23266v1](http://arxiv.org/abs/2505.23266v1)|**2025-05-29**|null|
-|**2025-05-29**|**UniTEX: Universal High Fidelity Generative Texturing for 3D Shapes**|Yixun Liang et.al.|[2505.23253v1](http://arxiv.org/abs/2505.23253v1)|**2025-05-29**|[link](https://github.com/yixunliang/unitex)|
-|**2025-05-29**|**HyperPointFormer: Multimodal Fusion in 3D Space with Dual-Branch Cross-Attention Transformers**|Aldino Rizaldy et.al.|[2505.23206v1](http://arxiv.org/abs/2505.23206v1)|**2025-05-29**|null|
-|**2025-05-29**|**On the flow topology of swirl jets upon impingement**|Premchand V. Chandra et.al.|[2505.23203v1](http://arxiv.org/abs/2505.23203v1)|**2025-05-29**|null|
-|**2025-05-29**|**LODGE: Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering**|Jonas Kulhanek et.al.|[2505.23158v1](http://arxiv.org/abs/2505.23158v1)|**2025-05-29**|null|
-|**2025-05-29**|**Diffusion-Based Generative Models for 3D Occupancy Prediction in Autonomous Driving**|Yunshen Wang et.al.|[2505.23115v1](http://arxiv.org/abs/2505.23115v1)|**2025-05-29**|null|
-|**2025-05-29**|**GeoMan: Temporally Consistent Human Geometry Estimation using Image-to-Video Diffusion**|Gwanghyun Kim et.al.|[2505.23085v1](http://arxiv.org/abs/2505.23085v1)|**2025-05-29**|null|
+|**2025-05-30**|**AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion**|Yangyi Huang et.al.|[2505.24877v1](http://arxiv.org/abs/2505.24877v1)|**2025-05-30**|null|
+|**2025-05-30**|**GenSpace: Benchmarking Spatially-Aware Image Generation**|Zehan Wang et.al.|[2505.24870v1](http://arxiv.org/abs/2505.24870v1)|**2025-05-30**|null|
+|**2025-05-30**|**ViStoryBench: Comprehensive Benchmark Suite for Story Visualization**|Cailin Zhuang et.al.|[2505.24862v1](http://arxiv.org/abs/2505.24862v1)|**2025-05-30**|null|
+|**2025-05-30**|**VideoCAD: A Large-Scale Video Dataset for Learning UI Interactions and 3D Reasoning from CAD Software**|Brandon Man et.al.|[2505.24838v1](http://arxiv.org/abs/2505.24838v1)|**2025-05-30**|null|
+|**2025-05-30**|**Bi-Manual Joint Camera Calibration and Scene Representation**|Haozhan Tang et.al.|[2505.24819v1](http://arxiv.org/abs/2505.24819v1)|**2025-05-30**|null|
+|**2025-05-30**|**Ultrafast electron dynamics upon above band-gap excitation in epitaxial LaFeO$_3$(001) thin films**|Friederike Elisa Wührl et.al.|[2505.24809v1](http://arxiv.org/abs/2505.24809v1)|**2025-05-30**|null|
+|**2025-05-30**|**Accurate grain boundary plane distributions for textured microstructures from stereological analysis of orthogonal two-dimensional electron backscatter diffraction orientation maps**|Martin Folwarczny et.al.|[2505.24798v1](http://arxiv.org/abs/2505.24798v1)|**2025-05-30**|null|
+|**2025-05-30**|**TC-GS: A Faster Gaussian Splatting Module Utilizing Tensor Cores**|Zimu Liao et.al.|[2505.24796v1](http://arxiv.org/abs/2505.24796v1)|**2025-05-30**|null|
+|**2025-05-30**|**Detecting Airborne Objects with 5G NR Radars**|Steve Blandino et.al.|[2505.24763v1](http://arxiv.org/abs/2505.24763v1)|**2025-05-30**|null|
+|**2025-05-30**|**Tackling View-Dependent Semantics in 3D Language Gaussian Splatting**|Jiazhong Cen et.al.|[2505.24746v1](http://arxiv.org/abs/2505.24746v1)|**2025-05-30**|null|
+|**2025-05-30**|**TumorGen: Boundary-Aware Tumor-Mask Synthesis with Rectified Flow Matching**|Shengyuan Liu et.al.|[2505.24687v1](http://arxiv.org/abs/2505.24687v1)|**2025-05-30**|null|
+|**2025-05-30**|**Beyond FACS: Data-driven Facial Expression Dictionaries, with Application to Predicting Autism**|Evangelos Sariyanidi et.al.|[2505.24679v1](http://arxiv.org/abs/2505.24679v1)|**2025-05-30**|null|
+|**2025-05-30**|**6D Pose Estimation on Point Cloud Data through Prior Knowledge Integration: A Case Study in Autonomous Disassembly**|Chengzhi Wu et.al.|[2505.24669v1](http://arxiv.org/abs/2505.24669v1)|**2025-05-30**|null|
+|**2025-05-30**|**Decoupled Competitive Framework for Semi-supervised Medical Image Segmentation**|Jiahe Chen et.al.|[2505.24667v1](http://arxiv.org/abs/2505.24667v1)|**2025-05-30**|null|
+|**2025-05-30**|**System-integrated intrinsic static-dynamic pressure sensing enabled by charge excitation and 3D gradient engineering for autonomous robotic interaction**|Kequan Xia et.al.|[2505.24645v1](http://arxiv.org/abs/2505.24645v1)|**2025-05-30**|null|
+|**2025-05-30**|**A Cross Branch Fusion-Based Contrastive Learning Framework for Point Cloud Self-supervised Learning**|Chengzhi Wu et.al.|[2505.24641v1](http://arxiv.org/abs/2505.24641v1)|**2025-05-30**|null|
+|**2025-05-30**|**Cloud Optical Thickness Retrievals Using Angle Invariant Attention Based Deep Learning Models**|Zahid Hassan Tushar et.al.|[2505.24638v1](http://arxiv.org/abs/2505.24638v1)|**2025-05-30**|null|
+|**2025-05-30**|**NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation**|Xuzhi Wang et.al.|[2505.24634v1](http://arxiv.org/abs/2505.24634v1)|**2025-05-30**|null|
+|**2025-05-30**|**Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors**|Duo Zheng et.al.|[2505.24625v1](http://arxiv.org/abs/2505.24625v1)|**2025-05-30**|null|
+|**2025-05-30**|**GARLIC: GAussian Representation LearnIng for spaCe partitioning**|Panagiotis Rigas et.al.|[2505.24608v1](http://arxiv.org/abs/2505.24608v1)|**2025-05-30**|null|
+|**2025-05-30**|**Optimal Weighted Convolution for Classification and Denosing**|Simone Cammarasana et.al.|[2505.24558v1](http://arxiv.org/abs/2505.24558v1)|**2025-05-30**|null|
+|**2025-05-30**|**Optimal Density Functions for Weighted Convolution in Learning Models**|Simone Cammarasana et.al.|[2505.24527v1](http://arxiv.org/abs/2505.24527v1)|**2025-05-30**|null|
+|**2025-05-30**|**Laser-driven ion acceleration in long-lived optically shaped gaseous targets enhanced by magnetic vortices**|I. Tazes et.al.|[2505.24508v1](http://arxiv.org/abs/2505.24508v1)|**2025-05-30**|null|
+|**2025-05-30**|**SPPSFormer: High-quality Superpoint-based Transformer for Roof Plane Instance Segmentation from Point Clouds**|Cheng Zeng et.al.|[2505.24475v1](http://arxiv.org/abs/2505.24475v1)|**2025-05-30**|null|
+|**2025-05-30**|**Bridging 3D Anomaly Localization and Repair via High-Quality Continuous Geometric Representation**|Bozhong Zheng et.al.|[2505.24431v1](http://arxiv.org/abs/2505.24431v1)|**2025-05-30**|null|
+|**2025-05-30**|**pyMEAL: A Multi-Encoder Augmentation-Aware Learning for Robust and Generalizable Medical Image Translation**|Abdul-mojeed Olabisi Ilyas et.al.|[2505.24421v1](http://arxiv.org/abs/2505.24421v1)|**2025-05-30**|null|
+|**2025-05-30**|**PCIE_Pose Solution for EgoExo4D Pose and Proficiency Estimation Challenge**|Feng Chen et.al.|[2505.24411v1](http://arxiv.org/abs/2505.24411v1)|**2025-05-30**|null|
+|**2025-05-30**|**Fe contribution to the magnetic anisotropy of $L{1_0}$-ordered FePt thin films studied by angle-dependent x-ray magnetic circular dichroism**|Goro Shibata et.al.|[2505.24385v1](http://arxiv.org/abs/2505.24385v1)|**2025-05-30**|null|
+|**2025-05-30**|**Spatiotemporal Analysis of Forest Machine Operations Using 3D Video Classification**|Maciej Wielgosz et.al.|[2505.24375v1](http://arxiv.org/abs/2505.24375v1)|**2025-05-30**|null|
+|**2025-05-30**|**Revisiting Cross-Modal Knowledge Distillation: A Disentanglement Approach for RGBD Semantic Segmentation**|Roger Ferrod et.al.|[2505.24361v1](http://arxiv.org/abs/2505.24361v1)|**2025-05-30**|null|

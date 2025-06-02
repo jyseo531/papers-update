@@ -2,6 +2,8 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-30**|**Tackling View-Dependent Semantics in 3D Language Gaussian Splatting**|Jiazhong Cen et.al.|[2505.24746v1](http://arxiv.org/abs/2505.24746v1)|**2025-05-30**|null|
+|**2025-05-30**|**SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**|Mingxu Zhang et.al.|[2505.24305v1](http://arxiv.org/abs/2505.24305v1)|**2025-05-30**|null|
 |**2025-05-29**|**Rooms from Motion: Un-posed Indoor 3D Object Detection as Localization and Mapping**|Justin Lazarow et.al.|[2505.23756v1](http://arxiv.org/abs/2505.23756v1)|**2025-05-29**|null|
 |**2025-05-29**|**Dual-Task Graph Neural Network for Joint Seizure Onset Zone Localization and Outcome Prediction using Stereo EEG**|Syeda Abeera Amir et.al.|[2505.23669v1](http://arxiv.org/abs/2505.23669v1)|**2025-05-29**|null|
 |**2025-05-29**|**TimePoint: Accelerated Time Series Alignment via Self-Supervised Keypoint and Descriptor Learning**|Ron Shapira Weber et.al.|[2505.23475v1](http://arxiv.org/abs/2505.23475v1)|**2025-05-29**|[link](https://github.com/bgu-cs-vil/timepoint)|
@@ -14,6 +16,7 @@
 |**2025-05-28**|**TabXEval: Why this is a Bad Table? An eXhaustive Rubric for Table Evaluation**|Vihang Pancholi et.al.|[2505.22176v1](http://arxiv.org/abs/2505.22176v1)|**2025-05-28**|null|
 |**2025-05-28**|**Fast Feature Matching of UAV Images via Matrix Band Reduction-based GPU Data Schedule**|San Jiang et.al.|[2505.22089v1](http://arxiv.org/abs/2505.22089v1)|**2025-05-28**|null|
 |**2025-05-27**|**Visual Loop Closure Detection Through Deep Graph Consensus**|Martin Büchner et.al.|[2505.21754v1](http://arxiv.org/abs/2505.21754v1)|**2025-05-27**|null|
+|**2025-05-27**|**Towards Robust Assessment of Pathological Voices via Combined Low-Level Descriptors and Foundation Model Representations**|Whenty Ariyanti et.al.|[2505.21356v3](http://arxiv.org/abs/2505.21356v3)|**2025-05-30**|null|
 |**2025-05-27**|**Distributed Discrete Morse Sandwich: Efficient Computation of Persistence Diagrams for Massive Scalar Data**|Eve Le Guillou et.al.|[2505.21266v1](http://arxiv.org/abs/2505.21266v1)|**2025-05-27**|[link](https://github.com/eve-le-guillou/ddms-example)|
 |**2025-05-27**|**ReassembleNet: Learnable Keypoints and Diffusion for 2D Fresco Reconstruction**|Adeela Islam et.al.|[2505.21117v2](http://arxiv.org/abs/2505.21117v2)|**2025-05-29**|null|
 |**2025-05-27**|**HS-SLAM: A Fast and Hybrid Strategy-Based SLAM Approach for Low-Speed Autonomous Driving**|Bingxiang Kang et.al.|[2505.20906v1](http://arxiv.org/abs/2505.20906v1)|**2025-05-27**|null|
@@ -29,6 +32,3 @@
 |**2025-05-23**|**ImLPR: Image-based LiDAR Place Recognition using Vision Foundation Models**|Minwoo Jung et.al.|[2505.18364v1](http://arxiv.org/abs/2505.18364v1)|**2025-05-23**|null|
 |**2025-05-23**|**Pose Splatter: A 3D Gaussian Splatting Model for Quantifying Animal Pose and Appearance**|Jack Goffinet et.al.|[2505.18342v1](http://arxiv.org/abs/2505.18342v1)|**2025-05-23**|null|
 |**2025-05-23**|**Semantic Correspondence: Unified Benchmarking and a Strong Baseline**|Kaiyan Zhang et.al.|[2505.18060v3](http://arxiv.org/abs/2505.18060v3)|**2025-05-27**|[link](https://github.com/Visual-AI/Semantic-Correspondence)|
-|**2025-05-23**|**Contrastive Distillation of Emotion Knowledge from LLMs for Zero-Shot Emotion Recognition**|Minxue Niu et.al.|[2505.18040v1](http://arxiv.org/abs/2505.18040v1)|**2025-05-23**|[link](https://github.com/chailab-umich/uni_emotion_release)|
-|**2025-05-23**|**Directed Semi-Simplicial Learning with Applications to Brain Activity Decoding**|Manuel Lecha et.al.|[2505.17939v2](http://arxiv.org/abs/2505.17939v2)|**2025-05-27**|null|
-|**2025-05-23**|**ICPL-ReID: Identity-Conditional Prompt Learning for Multi-Spectral Object Re-Identification**|Shihao Li et.al.|[2505.17821v1](http://arxiv.org/abs/2505.17821v1)|**2025-05-23**|null|
