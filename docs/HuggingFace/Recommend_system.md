@@ -4236,6 +4236,7 @@ Updated on 2025-06-02
 | 11 | 5 | unsloth/Devstral-Small-2505Text2Text | Updated20 minutes ago | [Link](https://huggingface.co/unsloth/Devstral-Small-2505) |
 | 327 | 5 | JDBN/t5-base-fr-qg-fquadText2Text | UpdatedJun 23, 2021 | [Link](https://huggingface.co/JDBN/t5-base-fr-qg-fquad) |
 | 104 | 5 | eunsour/en-ko-transliteratorText2Text | UpdatedDec 10, 2024 | [Link](https://huggingface.co/eunsour/en-ko-transliterator) |
+| 82 | 5 | google/t5-efficient-largeText2Text | UpdatedJan 24, 2023 | [Link](https://huggingface.co/google/t5-efficient-large) |
 | 173 | 3 | castorini/t5-base-canardText2Text | UpdatedJun 23, 2021 | [Link](https://huggingface.co/castorini/t5-base-canard) |
 | 148 | 3 | mradermacher/teapotllm-GGUFText2Text | UpdatedJan 24 | [Link](https://huggingface.co/mradermacher/teapotllm-GGUF) |
 | 7 | 3 | Hamzah-Asadullah/NarrowMaid-8BText2Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/Hamzah-Asadullah/NarrowMaid-8B) |
@@ -4904,6 +4905,7 @@ Updated on 2025-06-02
 | 21 | 1 | wwwyyy/TimeZero-ActivityNet-7BVideo-Text-to-Text | UpdatedMar 18 | [Link](https://huggingface.co/wwwyyy/TimeZero-ActivityNet-7B) |
 | 2 | 1 | LeroyDyer/_Spydaz_Web_AI_LlavaNextVideoVideo-Text-to-Text | UpdatedSep 19, 2024 | [Link](https://huggingface.co/LeroyDyer/_Spydaz_Web_AI_LlavaNextVideo) |
 | 3 | 1 | PolyU-ChenLab/ETChat-Phi3-Mini-Stage-1Video-Text-to-Text | UpdatedOct 29, 2024 | [Link](https://huggingface.co/PolyU-ChenLab/ETChat-Phi3-Mini-Stage-1) |
+| 3 | 1 | BAAI/Video-XL-2Video-Text-to-Text | Updated17 minutes ago | [Link](https://huggingface.co/BAAI/Video-XL-2) |
 | 1 | Unknown | Sri-Vigneshwar-DJ/Apollo-LMMs-Apollo-7B-t32Video-Text-to-Text | UpdatedJan 1 | [Link](https://huggingface.co/Sri-Vigneshwar-DJ/Apollo-LMMs-Apollo-7B-t32) |
 | 5 | Unknown | shuaishuaicdp/GUI-VidVideo-Text-to-Text | UpdatedMar 26 | [Link](https://huggingface.co/shuaishuaicdp/GUI-Vid) |
 | 2 | Unknown | OpenGVLab/videochat2Video-Text-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/OpenGVLab/videochat2) |
