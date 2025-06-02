@@ -16,7 +16,7 @@
 |**2025-05-29**|**Hydrodynamic simulations of black hole evolution in AGN discs I: orbital alignment of highly inclined satellites**|Connar Rowan et.al.|[2505.23739v1](http://arxiv.org/abs/2505.23739v1)|**2025-05-29**|null|
 |**2025-05-29**|**LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization**|Ronghuan Wu et.al.|[2505.23740v1](http://arxiv.org/abs/2505.23740v1)|**2025-05-29**|null|
 |**2025-05-29**|**Apache Point rapid response characterization of primitive pre-impact detection asteroid 2024 RW$_1$**|Carl Ingebretsen et.al.|[2505.23736v1](http://arxiv.org/abs/2505.23736v1)|**2025-05-29**|null|
-|**2025-05-29**|**ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**|Weijie Wang et.al.|[2505.23734v1](http://arxiv.org/abs/2505.23734v1)|**2025-05-29**|[link](https://github.com/ziplab/ZPressor)|
+|**2025-05-29**|**ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**|Weijie Wang et.al.|[2505.23734v2](http://arxiv.org/abs/2505.23734v2)|**2025-05-30**|[link](https://github.com/ziplab/ZPressor)|
 |**2025-05-29**|**EmotionRankCLAP: Bridging Natural Language Speaking Styles and Ordinal Speech Emotion via Rank-N-Contrast**|Shreeram Suresh Chandra et.al.|[2505.23732v1](http://arxiv.org/abs/2505.23732v1)|**2025-05-29**|null|
 |**2025-05-29**|**DTBIA: An Immersive Visual Analytics System for Brain-Inspired Research**|Jun-Hsiang Yao et.al.|[2505.23730v1](http://arxiv.org/abs/2505.23730v1)|**2025-05-29**|null|
 |**2025-05-29**|**Bounded Rationality for LLMs: Satisficing Alignment at Inference-Time**|Mohamad Chehade et.al.|[2505.23729v1](http://arxiv.org/abs/2505.23729v1)|**2025-05-29**|null|

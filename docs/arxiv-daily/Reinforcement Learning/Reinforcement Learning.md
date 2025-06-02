@@ -21,7 +21,7 @@
 |**2025-05-29**|**On-Policy RL with Optimal Reward Baseline**|Yaru Hao et.al.|[2505.23585v1](http://arxiv.org/abs/2505.23585v1)|**2025-05-29**|[link](https://github.com/microsoft/lmops)|
 |**2025-05-29**|**BioReason: Incentivizing Multimodal Biological Reasoning within a DNA-LLM Model**|Adibvafa Fallahpour et.al.|[2505.23579v1](http://arxiv.org/abs/2505.23579v1)|**2025-05-29**|null|
 |**2025-05-29**|**Segment Policy Optimization: Effective Segment-Level Credit Assignment in RL for Large Language Models**|Yiran Guo et.al.|[2505.23564v1](http://arxiv.org/abs/2505.23564v1)|**2025-05-29**|[link](https://github.com/aiframeresearch/spo)|
-|**2025-05-29**|**Qwen Look Again: Guiding Vision-Language Reasoning Models to Re-attention Visual Information**|Xu Chu et.al.|[2505.23558v1](http://arxiv.org/abs/2505.23558v1)|**2025-05-29**|[link](https://github.com/liar406/look_again)|
+|**2025-05-29**|**Qwen Look Again: Guiding Vision-Language Reasoning Models to Re-attention Visual Information**|Xu Chu et.al.|[2505.23558v2](http://arxiv.org/abs/2505.23558v2)|**2025-05-30**|[link](https://github.com/liar406/look_again)|
 |**2025-05-29**|**Normalizing Flows are Capable Models for RL**|Raj Ghugare et.al.|[2505.23527v1](http://arxiv.org/abs/2505.23527v1)|**2025-05-29**|null|
 |**2025-05-29**|**Individual differences in the cognitive mechanisms of planning strategy discovery**|Ruiqi He et.al.|[2505.23519v1](http://arxiv.org/abs/2505.23519v1)|**2025-05-29**|null|
 |**2025-05-29**|**VAU-R1: Advancing Video Anomaly Understanding via Reinforcement Fine-Tuning**|Liyun Zhu et.al.|[2505.23504v1](http://arxiv.org/abs/2505.23504v1)|**2025-05-29**|[link](https://github.com/gvclab/vau-r1)|

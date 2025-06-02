@@ -25,7 +25,7 @@
 |**2025-05-29**|**Adversarial Semantic and Label Perturbation Attack for Pedestrian Attribute Recognition**|Weizhe Kong et.al.|[2505.23313v1](http://arxiv.org/abs/2505.23313v1)|**2025-05-29**|[link](https://github.com/event-ahu/openpar)|
 |**2025-05-29**|**Spoken question answering for visual queries**|Nimrod Shabtay et.al.|[2505.23308v1](http://arxiv.org/abs/2505.23308v1)|**2025-05-29**|null|
 |**2025-05-29**|**Bridging the Gap Between Semantic and User Preference Spaces for Multi-modal Music Representation Learning**|Xiaofeng Pan et.al.|[2505.23298v1](http://arxiv.org/abs/2505.23298v1)|**2025-05-29**|null|
-|**2025-05-29**|**Are MLMs Trapped in the Visual Room?**|Yazhou Zhang et.al.|[2505.23272v1](http://arxiv.org/abs/2505.23272v1)|**2025-05-29**|null|
+|**2025-05-29**|**Are MLMs Trapped in the Visual Room?**|Yazhou Zhang et.al.|[2505.23272v2](http://arxiv.org/abs/2505.23272v2)|**2025-05-30**|null|
 |**2025-05-29**|**Unsupervised Transcript-assisted Video Summarization and Highlight Detection**|Spyros Barbakos et.al.|[2505.23268v1](http://arxiv.org/abs/2505.23268v1)|**2025-05-29**|null|
 |**2025-05-29**|**Context-Aware Semantic Communication for the Wireless Networks**|Guangyuan Liu et.al.|[2505.23249v1](http://arxiv.org/abs/2505.23249v1)|**2025-05-29**|null|
 |**2025-05-29**|**MMBoundary: Advancing MLLM Knowledge Boundary Awareness through Reasoning Step Confidence Calibration**|Zhitao He et.al.|[2505.23224v1](http://arxiv.org/abs/2505.23224v1)|**2025-05-29**|[link](https://github.com/zhitao-he/mmboundary)|

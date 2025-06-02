@@ -12,7 +12,7 @@
 |**2025-05-29**|**Comparative of Genetic Fuzzy regression techniques for aeroacoustic phenomenons**|Hugo Henry et.al.|[2505.23746v1](http://arxiv.org/abs/2505.23746v1)|**2025-05-29**|null|
 |**2025-05-29**|**Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence**|Diankun Wu et.al.|[2505.23747v1](http://arxiv.org/abs/2505.23747v1)|**2025-05-29**|null|
 |**2025-05-29**|**MAGREF: Masked Guidance for Any-Reference Video Generation**|Yufan Deng et.al.|[2505.23742v1](http://arxiv.org/abs/2505.23742v1)|**2025-05-29**|[link](https://github.com/magref-video/magref)|
-|**2025-05-29**|**ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**|Weijie Wang et.al.|[2505.23734v1](http://arxiv.org/abs/2505.23734v1)|**2025-05-29**|[link](https://github.com/ziplab/ZPressor)|
+|**2025-05-29**|**ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**|Weijie Wang et.al.|[2505.23734v2](http://arxiv.org/abs/2505.23734v2)|**2025-05-30**|[link](https://github.com/ziplab/ZPressor)|
 |**2025-05-29**|**Bounded Rationality for LLMs: Satisficing Alignment at Inference-Time**|Mohamad Chehade et.al.|[2505.23729v1](http://arxiv.org/abs/2505.23729v1)|**2025-05-29**|null|
 |**2025-05-29**|**Computerized Modeling of Electrophysiology and Pathoelectrophysiology of the Atria -- How Much Detail is Needed?**|Olaf Dössel et.al.|[2505.23717v1](http://arxiv.org/abs/2505.23717v1)|**2025-05-29**|null|
 |**2025-05-29**|**Don't Take the Premise for Granted: Evaluating the Premise Critique Ability of Large Language Models**|Jinzhe Li et.al.|[2505.23715v1](http://arxiv.org/abs/2505.23715v1)|**2025-05-29**|[link](https://github.com/mlgroupjlu/premise_critique)|
@@ -30,5 +30,5 @@
 |**2025-05-29**|**LoLA: Low-Rank Linear Attention With Sparse Caching**|Luke McDermott et.al.|[2505.23666v1](http://arxiv.org/abs/2505.23666v1)|**2025-05-29**|null|
 |**2025-05-29**|**D-AR: Diffusion via Autoregressive Models**|Ziteng Gao et.al.|[2505.23660v1](http://arxiv.org/abs/2505.23660v1)|**2025-05-29**|[link](https://github.com/showlab/d-ar)|
 |**2025-05-29**|**Bayesian Perspective on Memorization and Reconstruction**|Haim Kaplan et.al.|[2505.23658v1](http://arxiv.org/abs/2505.23658v1)|**2025-05-29**|null|
-|**2025-05-29**|**Keyed Chaotic Tensor Transformations for Secure And Attributable Neural Inference**|Peter David Fagan et.al.|[2505.23655v1](http://arxiv.org/abs/2505.23655v1)|**2025-05-29**|null|
+|**2025-05-29**|**Keyed Chaotic Masking: A Functional Privacy Framework for Neural Inference**|Peter David Fagan et.al.|[2505.23655v2](http://arxiv.org/abs/2505.23655v2)|**2025-05-30**|null|
 |**2025-05-29**|**Continuous Chain of Thought Enables Parallel Exploration and Reasoning**|Halil Alperen Gozeten et.al.|[2505.23648v1](http://arxiv.org/abs/2505.23648v1)|**2025-05-29**|null|

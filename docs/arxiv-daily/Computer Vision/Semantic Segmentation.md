@@ -25,10 +25,10 @@
 |**2025-05-29**|**TRAP: Targeted Redirecting of Agentic Preferences**|Hangoo Kang et.al.|[2505.23518v1](http://arxiv.org/abs/2505.23518v1)|**2025-05-29**|null|
 |**2025-05-29**|**Identity resolution of software metadata using Large Language Models**|Eva Martín del Pico et.al.|[2505.23500v1](http://arxiv.org/abs/2505.23500v1)|**2025-05-29**|null|
 |**2025-05-29**|**VCapsBench: A Large-scale Fine-grained Benchmark for Video Caption Quality Evaluation**|Shi-Xue Zhang et.al.|[2505.23484v1](http://arxiv.org/abs/2505.23484v1)|**2025-05-29**|[link](https://github.com/gxym/vcapsbench)|
-|**2025-05-29**|**EVOREFUSE: Evolutionary Prompt Optimization for Evaluation and Mitigation of LLM Over-Refusal to Pseudo-Malicious Instructions**|Xiaorui Wu et.al.|[2505.23473v1](http://arxiv.org/abs/2505.23473v1)|**2025-05-29**|null|
+|**2025-05-29**|**EVOREFUSE: Evolutionary Prompt Optimization for Evaluation and Mitigation of LLM Over-Refusal to Pseudo-Malicious Instructions**|Xiaorui Wu et.al.|[2505.23473v2](http://arxiv.org/abs/2505.23473v2)|**2025-05-30**|null|
 |**2025-05-29**|**A Divide-and-Conquer Approach for Global Orientation of Non-Watertight Scene-Level Point Clouds Using 0-1 Integer Optimization**|Zhuodong Li et.al.|[2505.23469v1](http://arxiv.org/abs/2505.23469v1)|**2025-05-29**|[link](https://github.com/zd-lee/dacpo)|
 |**2025-05-29**|**Semantics-Aware Human Motion Generation from Audio Instructions**|Zi-An Wang et.al.|[2505.23465v1](http://arxiv.org/abs/2505.23465v1)|**2025-05-29**|null|
 |**2025-05-29**|**LAFR: Efficient Diffusion-based Blind Face Restoration via Latent Codebook Alignment Adapter**|Runyi Li et.al.|[2505.23462v1](http://arxiv.org/abs/2505.23462v1)|**2025-05-29**|null|
 |**2025-05-29**|**Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents**|Zhejian Yang et.al.|[2505.23450v1](http://arxiv.org/abs/2505.23450v1)|**2025-05-29**|null|
-|**2025-05-29**|**CMIE: Combining MLLM Insights with External Evidence for Explainable Out-of-Context Misinformation Detection**|Fanxiao Li et.al.|[2505.23449v1](http://arxiv.org/abs/2505.23449v1)|**2025-05-29**|null|
+|**2025-05-29**|**CMIE: Combining MLLM Insights with External Evidence for Explainable Out-of-Context Misinformation Detection**|Fanxiao Li et.al.|[2505.23449v2](http://arxiv.org/abs/2505.23449v2)|**2025-05-30**|null|
 |**2025-05-29**|**VITON-DRR: Details Retention Virtual Try-on via Non-rigid Registration**|Ben Li et.al.|[2505.23439v1](http://arxiv.org/abs/2505.23439v1)|**2025-05-29**|[link](https://github.com/minqili/viton-drr-main)|

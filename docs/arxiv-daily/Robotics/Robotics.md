@@ -15,7 +15,7 @@
 |**2025-05-29**|**Long Duration Inspection of GNSS-Denied Environments with a Tethered UAV-UGV Marsupial System**|Simón Martínez-Rozas et.al.|[2505.23457v1](http://arxiv.org/abs/2505.23457v1)|**2025-05-29**|null|
 |**2025-05-29**|**Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents**|Zhejian Yang et.al.|[2505.23450v1](http://arxiv.org/abs/2505.23450v1)|**2025-05-29**|null|
 |**2025-05-29**|**MEF-Explore: Communication-Constrained Multi-Robot Entropy-Field-Based Exploration**|Khattiya Pongsirijinda et.al.|[2505.23376v1](http://arxiv.org/abs/2505.23376v1)|**2025-05-29**|null|
-|**2025-05-29**|**PyTICS: An Iterative Method for Photometric Lightcurve Intercalibration using Comparison Stars**|Roberta Vieliute et.al.|[2505.23328v1](http://arxiv.org/abs/2505.23328v1)|**2025-05-29**|[link](https://github.com/astroberta/pytics)|
+|**2025-05-29**|**PyTICS: An Iterative Method for Photometric Lightcurve Intercalibration using Comparison Stars**|Roberta Vieliute et.al.|[2505.23328v2](http://arxiv.org/abs/2505.23328v2)|**2025-05-30**|[link](https://github.com/astroberta/pytics)|
 |**2025-05-29**|**State Space Model Programming in Turing.jl**|Tim Hargreaves et.al.|[2505.23302v1](http://arxiv.org/abs/2505.23302v1)|**2025-05-29**|null|
 |**2025-05-29**|**VLM-RRT: Vision Language Model Guided RRT Search for Autonomous UAV Navigation**|Jianlin Ye et.al.|[2505.23267v1](http://arxiv.org/abs/2505.23267v1)|**2025-05-29**|null|
 |**2025-05-29**|**UPP: Unified Path Planner with Adaptive Safety and Optimality**|Jatin Kumar Arora et.al.|[2505.23197v1](http://arxiv.org/abs/2505.23197v1)|**2025-05-29**|null|

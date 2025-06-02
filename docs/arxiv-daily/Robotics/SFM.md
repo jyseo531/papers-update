@@ -26,7 +26,7 @@
 |**2025-05-29**|**On the Convergence Analysis of Muon**|Wei Shen et.al.|[2505.23737v1](http://arxiv.org/abs/2505.23737v1)|**2025-05-29**|null|
 |**2025-05-29**|**Apache Point rapid response characterization of primitive pre-impact detection asteroid 2024 RW$_1$**|Carl Ingebretsen et.al.|[2505.23736v1](http://arxiv.org/abs/2505.23736v1)|**2025-05-29**|null|
 |**2025-05-29**|**ATLAS: Learning to Optimally Memorize the Context at Test Time**|Ali Behrouz et.al.|[2505.23735v1](http://arxiv.org/abs/2505.23735v1)|**2025-05-29**|null|
-|**2025-05-29**|**ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**|Weijie Wang et.al.|[2505.23734v1](http://arxiv.org/abs/2505.23734v1)|**2025-05-29**|[link](https://github.com/ziplab/ZPressor)|
+|**2025-05-29**|**ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**|Weijie Wang et.al.|[2505.23734v2](http://arxiv.org/abs/2505.23734v2)|**2025-05-30**|[link](https://github.com/ziplab/ZPressor)|
 |**2025-05-29**|**DTBIA: An Immersive Visual Analytics System for Brain-Inspired Research**|Jun-Hsiang Yao et.al.|[2505.23730v1](http://arxiv.org/abs/2505.23730v1)|**2025-05-29**|null|
 |**2025-05-29**|**Group Convolutional Neural Network Ground State of the Quantum Dimer Model**|Ojasvi Sharma et.al.|[2505.23728v1](http://arxiv.org/abs/2505.23728v1)|**2025-05-29**|null|
 |**2025-05-29**|**PixelThink: Towards Efficient Chain-of-Pixel Reasoning**|Song Wang et.al.|[2505.23727v1](http://arxiv.org/abs/2505.23727v1)|**2025-05-29**|null|

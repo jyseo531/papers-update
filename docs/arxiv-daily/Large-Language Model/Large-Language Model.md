@@ -28,7 +28,7 @@
 |**2025-05-29**|**LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization**|Ronghuan Wu et.al.|[2505.23740v1](http://arxiv.org/abs/2505.23740v1)|**2025-05-29**|null|
 |**2025-05-29**|**How Animals Dance (When You're Not Looking)**|Xiaojuan Wang et.al.|[2505.23738v1](http://arxiv.org/abs/2505.23738v1)|**2025-05-29**|null|
 |**2025-05-29**|**ATLAS: Learning to Optimally Memorize the Context at Test Time**|Ali Behrouz et.al.|[2505.23735v1](http://arxiv.org/abs/2505.23735v1)|**2025-05-29**|null|
-|**2025-05-29**|**ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**|Weijie Wang et.al.|[2505.23734v1](http://arxiv.org/abs/2505.23734v1)|**2025-05-29**|[link](https://github.com/ziplab/ZPressor)|
+|**2025-05-29**|**ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**|Weijie Wang et.al.|[2505.23734v2](http://arxiv.org/abs/2505.23734v2)|**2025-05-30**|[link](https://github.com/ziplab/ZPressor)|
 |**2025-05-29**|**Exposing the Impact of GenAI for Cybercrime: An Investigation into the Dark Side**|Truong et.al.|[2505.23733v1](http://arxiv.org/abs/2505.23733v1)|**2025-05-29**|null|
 |**2025-05-29**|**EmotionRankCLAP: Bridging Natural Language Speaking Styles and Ordinal Speech Emotion via Rank-N-Contrast**|Shreeram Suresh Chandra et.al.|[2505.23732v1](http://arxiv.org/abs/2505.23732v1)|**2025-05-29**|null|
 |**2025-05-29**|**The ambiguous AT2022rze: Changing-look AGN mimicking a supernova in a merging galaxy system**|P. J. Pessi et.al.|[2505.23731v1](http://arxiv.org/abs/2505.23731v1)|**2025-05-29**|null|

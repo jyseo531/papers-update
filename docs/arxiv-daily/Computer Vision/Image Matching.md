@@ -29,6 +29,6 @@
 |**2025-05-29**|**Differentially Private Space-Efficient Algorithms for Counting Distinct Elements in the Turnstile Model**|Rachel Cummings et.al.|[2505.23682v1](http://arxiv.org/abs/2505.23682v1)|**2025-05-29**|null|
 |**2025-05-29**|**ImmunoDiff: A Diffusion Model for Immunotherapy Response Prediction in Lung Cancer**|Moinak Bhattacharya et.al.|[2505.23675v1](http://arxiv.org/abs/2505.23675v1)|**2025-05-29**|null|
 |**2025-05-29**|**Position Dependent Prediction Combination For Intra-Frame Video Coding**|Amir Said et.al.|[2505.23672v1](http://arxiv.org/abs/2505.23672v1)|**2025-05-29**|null|
-|**2025-05-29**|**OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation**|Size Wu et.al.|[2505.23661v1](http://arxiv.org/abs/2505.23661v1)|**2025-05-29**|[link](https://github.com/wusize/openuni)|
+|**2025-05-29**|**OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation**|Size Wu et.al.|[2505.23661v2](http://arxiv.org/abs/2505.23661v2)|**2025-05-30**|[link](https://github.com/wusize/openuni)|
 |**2025-05-29**|**D-AR: Diffusion via Autoregressive Models**|Ziteng Gao et.al.|[2505.23660v1](http://arxiv.org/abs/2505.23660v1)|**2025-05-29**|[link](https://github.com/showlab/d-ar)|
 |**2025-05-29**|**Continuous Chain of Thought Enables Parallel Exploration and Reasoning**|Halil Alperen Gozeten et.al.|[2505.23648v1](http://arxiv.org/abs/2505.23648v1)|**2025-05-29**|null|

@@ -27,7 +27,7 @@
 |**2025-05-29**|**CLDTracker: A Comprehensive Language Description for Visual Tracking**|Mohamad Alansari et.al.|[2505.23704v1](http://arxiv.org/abs/2505.23704v1)|**2025-05-29**|[link](https://github.com/hamadya/cldtracker)|
 |**2025-05-29**|**DA-VPT: Semantic-Guided Visual Prompt Tuning for Vision Transformers**|Li Ren et.al.|[2505.23694v1](http://arxiv.org/abs/2505.23694v1)|**2025-05-29**|null|
 |**2025-05-29**|**Representing Higher-Order Networks with Spectral Moments**|Hao Tian et.al.|[2505.23691v1](http://arxiv.org/abs/2505.23691v1)|**2025-05-29**|null|
-|**2025-05-29**|**Automatic classification of stop realisation with wav2vec2.0**|James Tanner et.al.|[2505.23688v1](http://arxiv.org/abs/2505.23688v1)|**2025-05-29**|null|
+|**2025-05-29**|**Automatic classification of stop realisation with wav2vec2.0**|James Tanner et.al.|[2505.23688v2](http://arxiv.org/abs/2505.23688v2)|**2025-05-30**|null|
 |**2025-05-29**|**Errors in Stereo Geometry Induce Distance Misperception**|Raffles Xingqi Zhu et.al.|[2505.23685v1](http://arxiv.org/abs/2505.23685v1)|**2025-05-29**|null|
 |**2025-05-29**|**ImmunoDiff: A Diffusion Model for Immunotherapy Response Prediction in Lung Cancer**|Moinak Bhattacharya et.al.|[2505.23675v1](http://arxiv.org/abs/2505.23675v1)|**2025-05-29**|null|
 |**2025-05-29**|**Quantum-Based Software Engineering**|Jianjun Zhao et.al.|[2505.23674v1](http://arxiv.org/abs/2505.23674v1)|**2025-05-29**|null|

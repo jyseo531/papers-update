@@ -27,7 +27,7 @@
 |**2025-05-29**|**Errors in Stereo Geometry Induce Distance Misperception**|Raffles Xingqi Zhu et.al.|[2505.23685v1](http://arxiv.org/abs/2505.23685v1)|**2025-05-29**|null|
 |**2025-05-29**|**ImmunoDiff: A Diffusion Model for Immunotherapy Response Prediction in Lung Cancer**|Moinak Bhattacharya et.al.|[2505.23675v1](http://arxiv.org/abs/2505.23675v1)|**2025-05-29**|null|
 |**2025-05-29**|**Position Dependent Prediction Combination For Intra-Frame Video Coding**|Amir Said et.al.|[2505.23672v1](http://arxiv.org/abs/2505.23672v1)|**2025-05-29**|null|
-|**2025-05-29**|**OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation**|Size Wu et.al.|[2505.23661v1](http://arxiv.org/abs/2505.23661v1)|**2025-05-29**|[link](https://github.com/wusize/openuni)|
+|**2025-05-29**|**OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation**|Size Wu et.al.|[2505.23661v2](http://arxiv.org/abs/2505.23661v2)|**2025-05-30**|[link](https://github.com/wusize/openuni)|
 |**2025-05-29**|**D-AR: Diffusion via Autoregressive Models**|Ziteng Gao et.al.|[2505.23660v1](http://arxiv.org/abs/2505.23660v1)|**2025-05-29**|[link](https://github.com/showlab/d-ar)|
 |**2025-05-29**|**Comparing the Effects of Persistence Barcodes Aggregation and Feature Concatenation on Medical Imaging**|Dashti A. Ali et.al.|[2505.23637v1](http://arxiv.org/abs/2505.23637v1)|**2025-05-29**|null|
 |**2025-05-29**|**Color Image Set Recognition Based on Quaternionic Grassmannians**|Xiang Xiang Wang et.al.|[2505.23629v1](http://arxiv.org/abs/2505.23629v1)|**2025-05-29**|null|

@@ -25,7 +25,7 @@
 |**2025-05-29**|**Dual-Task Graph Neural Network for Joint Seizure Onset Zone Localization and Outcome Prediction using Stereo EEG**|Syeda Abeera Amir et.al.|[2505.23669v1](http://arxiv.org/abs/2505.23669v1)|**2025-05-29**|null|
 |**2025-05-29**|**Homologous nodes in annotated complex networks**|Sung Soo Moon et.al.|[2505.23668v1](http://arxiv.org/abs/2505.23668v1)|**2025-05-29**|[link](https://github.com/sungsushi/vectorisation)|
 |**2025-05-29**|**AMBER: Adaptive Mesh Generation by Iterative Mesh Resolution Prediction**|Niklas Freymuth et.al.|[2505.23663v1](http://arxiv.org/abs/2505.23663v1)|**2025-05-29**|[link](https://github.com/NiklasFreymuth/AMBER)|
-|**2025-05-29**|**Keyed Chaotic Tensor Transformations for Secure And Attributable Neural Inference**|Peter David Fagan et.al.|[2505.23655v1](http://arxiv.org/abs/2505.23655v1)|**2025-05-29**|null|
+|**2025-05-29**|**Keyed Chaotic Masking: A Functional Privacy Framework for Neural Inference**|Peter David Fagan et.al.|[2505.23655v2](http://arxiv.org/abs/2505.23655v2)|**2025-05-30**|null|
 |**2025-05-29**|**Optimization-Free Diffusion Model -- A Perturbation Theory Approach**|Yuehaw Khoo et.al.|[2505.23652v1](http://arxiv.org/abs/2505.23652v1)|**2025-05-29**|null|
 |**2025-05-29**|**Global optimization of graph acquisition functions for neural architecture search**|Yilin Xie et.al.|[2505.23640v1](http://arxiv.org/abs/2505.23640v1)|**2025-05-29**|null|
 |**2025-05-29**|**AutoSchemaKG: Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora**|Jiaxin Bai et.al.|[2505.23628v1](http://arxiv.org/abs/2505.23628v1)|**2025-05-29**|null|

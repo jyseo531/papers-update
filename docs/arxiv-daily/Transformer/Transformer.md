@@ -18,8 +18,8 @@
 |**2025-05-29**|**Learning Compositional Functions with Transformers from Easy-to-Hard Data**|Zixuan Wang et.al.|[2505.23683v1](http://arxiv.org/abs/2505.23683v1)|**2025-05-29**|null|
 |**2025-05-29**|**ImmunoDiff: A Diffusion Model for Immunotherapy Response Prediction in Lung Cancer**|Moinak Bhattacharya et.al.|[2505.23675v1](http://arxiv.org/abs/2505.23675v1)|**2025-05-29**|null|
 |**2025-05-29**|**LoLA: Low-Rank Linear Attention With Sparse Caching**|Luke McDermott et.al.|[2505.23666v1](http://arxiv.org/abs/2505.23666v1)|**2025-05-29**|null|
-|**2025-05-29**|**OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation**|Size Wu et.al.|[2505.23661v1](http://arxiv.org/abs/2505.23661v1)|**2025-05-29**|[link](https://github.com/wusize/openuni)|
-|**2025-05-29**|**Keyed Chaotic Tensor Transformations for Secure And Attributable Neural Inference**|Peter David Fagan et.al.|[2505.23655v1](http://arxiv.org/abs/2505.23655v1)|**2025-05-29**|null|
+|**2025-05-29**|**OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation**|Size Wu et.al.|[2505.23661v2](http://arxiv.org/abs/2505.23661v2)|**2025-05-30**|[link](https://github.com/wusize/openuni)|
+|**2025-05-29**|**Keyed Chaotic Masking: A Functional Privacy Framework for Neural Inference**|Peter David Fagan et.al.|[2505.23655v2](http://arxiv.org/abs/2505.23655v2)|**2025-05-30**|null|
 |**2025-05-29**|**How does Transformer Learn Implicit Reasoning?**|Jiaran Ye et.al.|[2505.23653v1](http://arxiv.org/abs/2505.23653v1)|**2025-05-29**|[link](https://github.com/jiaran-ye/implicitreasoning)|
 |**2025-05-29**|**Continuous Chain of Thought Enables Parallel Exploration and Reasoning**|Halil Alperen Gozeten et.al.|[2505.23648v1](http://arxiv.org/abs/2505.23648v1)|**2025-05-29**|null|
 |**2025-05-29**|**Characterizing the Expressivity of Transformer Language Models**|Jiaoda Li et.al.|[2505.23623v1](http://arxiv.org/abs/2505.23623v1)|**2025-05-29**|null|
@@ -28,7 +28,7 @@
 |**2025-05-29**|**Data Model Design for Explainable Machine Learning-based Electricity Applications**|Carolina Fortuna et.al.|[2505.23607v1](http://arxiv.org/abs/2505.23607v1)|**2025-05-29**|null|
 |**2025-05-29**|**Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model**|Qingyu Shi et.al.|[2505.23606v1](http://arxiv.org/abs/2505.23606v1)|**2025-05-29**|[link](https://github.com/m-e-agi-lab/muddit)|
 |**2025-05-29**|**Bridging Classical and Modern Computer Vision: PerceptiveNet for Tree Crown Semantic Segmentation**|Georgios Voulgaris et.al.|[2505.23597v1](http://arxiv.org/abs/2505.23597v1)|**2025-05-29**|null|
-|**2025-05-29**|**Quantum Hilbert Transform**|Nitin Jha et.al.|[2505.23581v1](http://arxiv.org/abs/2505.23581v1)|**2025-05-29**|null|
+|**2025-05-29**|**Quantum Hilbert Transform**|Nitin Jha et.al.|[2505.23581v2](http://arxiv.org/abs/2505.23581v2)|**2025-05-30**|null|
 |**2025-05-29**|**BioReason: Incentivizing Multimodal Biological Reasoning within a DNA-LLM Model**|Adibvafa Fallahpour et.al.|[2505.23579v1](http://arxiv.org/abs/2505.23579v1)|**2025-05-29**|null|
 |**2025-05-29**|**On the Gromov-Hausdorff distance between the cloud of bounded metric spaces and a cloud with nontrivial stabilizer**|B. A. Nesterov et.al.|[2505.23563v1](http://arxiv.org/abs/2505.23563v1)|**2025-05-29**|null|
 |**2025-05-29**|**CLaC at SemEval-2025 Task 6: A Multi-Architecture Approach for Corporate Environmental Promise Verification**|Nawar Turk et.al.|[2505.23538v1](http://arxiv.org/abs/2505.23538v1)|**2025-05-29**|null|
