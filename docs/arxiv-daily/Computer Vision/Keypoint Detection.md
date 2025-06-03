@@ -13,7 +13,7 @@
 |**2025-05-28**|**ATI: Any Trajectory Instruction for Controllable Video Generation**|Angtian Wang et.al.|[2505.22944v1](http://arxiv.org/abs/2505.22944v1)|**2025-05-28**|null|
 |**2025-05-28**|**MultiFormer: A Multi-Person Pose Estimation System Based on CSI and Attention Mechanism**|Yanyi Qu et.al.|[2505.22555v1](http://arxiv.org/abs/2505.22555v1)|**2025-05-28**|null|
 |**2025-05-28**|**Machine-Learned Potentials for Solvation Modeling**|Roopshree Banchode et.al.|[2505.22402v2](http://arxiv.org/abs/2505.22402v2)|**2025-05-29**|[link](https://github.com/raghurama123/Rev-MLP4Sol)|
-|**2025-05-28**|**TabXEval: Why this is a Bad Table? An eXhaustive Rubric for Table Evaluation**|Vihang Pancholi et.al.|[2505.22176v1](http://arxiv.org/abs/2505.22176v1)|**2025-05-28**|null|
+|**2025-05-28**|**TabXEval: Why this is a Bad Table? An eXhaustive Rubric for Table Evaluation**|Vihang Pancholi et.al.|[2505.22176v2](http://arxiv.org/abs/2505.22176v2)|**2025-06-01**|null|
 |**2025-05-28**|**Fast Feature Matching of UAV Images via Matrix Band Reduction-based GPU Data Schedule**|San Jiang et.al.|[2505.22089v1](http://arxiv.org/abs/2505.22089v1)|**2025-05-28**|null|
 |**2025-05-27**|**Visual Loop Closure Detection Through Deep Graph Consensus**|Martin Büchner et.al.|[2505.21754v1](http://arxiv.org/abs/2505.21754v1)|**2025-05-27**|null|
 |**2025-05-27**|**Towards Robust Assessment of Pathological Voices via Combined Low-Level Descriptors and Foundation Model Representations**|Whenty Ariyanti et.al.|[2505.21356v3](http://arxiv.org/abs/2505.21356v3)|**2025-05-30**|null|

@@ -19,7 +19,7 @@
 |**2025-05-30**|**System-integrated intrinsic static-dynamic pressure sensing enabled by charge excitation and 3D gradient engineering for autonomous robotic interaction**|Kequan Xia et.al.|[2505.24645v1](http://arxiv.org/abs/2505.24645v1)|**2025-05-30**|null|
 |**2025-05-30**|**A Cross Branch Fusion-Based Contrastive Learning Framework for Point Cloud Self-supervised Learning**|Chengzhi Wu et.al.|[2505.24641v1](http://arxiv.org/abs/2505.24641v1)|**2025-05-30**|null|
 |**2025-05-30**|**Cloud Optical Thickness Retrievals Using Angle Invariant Attention Based Deep Learning Models**|Zahid Hassan Tushar et.al.|[2505.24638v1](http://arxiv.org/abs/2505.24638v1)|**2025-05-30**|null|
-|**2025-05-30**|**NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation**|Xuzhi Wang et.al.|[2505.24634v1](http://arxiv.org/abs/2505.24634v1)|**2025-05-30**|null|
+|**2025-05-30**|**NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation**|Xuzhi Wang et.al.|[2505.24634v2](http://arxiv.org/abs/2505.24634v2)|**2025-06-02**|null|
 |**2025-05-30**|**Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors**|Duo Zheng et.al.|[2505.24625v1](http://arxiv.org/abs/2505.24625v1)|**2025-05-30**|null|
 |**2025-05-30**|**GARLIC: GAussian Representation LearnIng for spaCe partitioning**|Panagiotis Rigas et.al.|[2505.24608v1](http://arxiv.org/abs/2505.24608v1)|**2025-05-30**|null|
 |**2025-05-30**|**Optimal Weighted Convolution for Classification and Denosing**|Simone Cammarasana et.al.|[2505.24558v1](http://arxiv.org/abs/2505.24558v1)|**2025-05-30**|null|

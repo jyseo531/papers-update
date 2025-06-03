@@ -14,7 +14,7 @@
 |**2025-05-30**|**6D Pose Estimation on Point Cloud Data through Prior Knowledge Integration: A Case Study in Autonomous Disassembly**|Chengzhi Wu et.al.|[2505.24669v1](http://arxiv.org/abs/2505.24669v1)|**2025-05-30**|null|
 |**2025-05-30**|**Decoupled Competitive Framework for Semi-supervised Medical Image Segmentation**|Jiahe Chen et.al.|[2505.24667v1](http://arxiv.org/abs/2505.24667v1)|**2025-05-30**|null|
 |**2025-05-30**|**Category-Level 6D Object Pose Estimation in Agricultural Settings Using a Lattice-Deformation Framework and Diffusion-Augmented Synthetic Data**|Marios Glytsos et.al.|[2505.24636v1](http://arxiv.org/abs/2505.24636v1)|**2025-05-30**|null|
-|**2025-05-30**|**NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation**|Xuzhi Wang et.al.|[2505.24634v1](http://arxiv.org/abs/2505.24634v1)|**2025-05-30**|null|
+|**2025-05-30**|**NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation**|Xuzhi Wang et.al.|[2505.24634v2](http://arxiv.org/abs/2505.24634v2)|**2025-06-02**|null|
 |**2025-05-30**|**Co-designed Quantum Discrete Adiabatic Linear System Solver Via Dynamic Circuits**|Boxuan Ai et.al.|[2505.24626v1](http://arxiv.org/abs/2505.24626v1)|**2025-05-30**|null|
 |**2025-05-30**|**Explainable Depression Detection using Masked Hard Instance Mining**|Patawee Prakrankamanant et.al.|[2505.24609v1](http://arxiv.org/abs/2505.24609v1)|**2025-05-30**|null|
 |**2025-05-30**|**Unleashing the Power of Intermediate Domains for Mixed Domain Semi-Supervised Medical Image Segmentation**|Qinghe Ma et.al.|[2505.24567v1](http://arxiv.org/abs/2505.24567v1)|**2025-05-30**|null|

@@ -25,7 +25,7 @@
 |**2025-05-30**|**Reactive Aerobatic Flight via Reinforcement Learning**|Zhichao Han et.al.|[2505.24396v1](http://arxiv.org/abs/2505.24396v1)|**2025-05-30**|null|
 |**2025-05-30**|**Mastering Massive Multi-Task Reinforcement Learning via Mixture-of-Expert Decision Transformer**|Yilun Kong et.al.|[2505.24378v1](http://arxiv.org/abs/2505.24378v1)|**2025-05-30**|null|
 |**2025-05-30**|**Adversarial Preference Learning for Robust LLM Alignment**|Yuanfu Wang et.al.|[2505.24369v1](http://arxiv.org/abs/2505.24369v1)|**2025-05-30**|null|
-|**2025-05-30**|**Knowing Before Saying: LLM Representations Encode Information About Chain-of-Thought Success Before Completion**|Anum Afzal et.al.|[2505.24362v1](http://arxiv.org/abs/2505.24362v1)|**2025-05-30**|null|
+|**2025-05-30**|**Knowing Before Saying: LLM Representations Encode Information About Chain-of-Thought Success Before Completion**|Anum Afzal et.al.|[2505.24362v2](http://arxiv.org/abs/2505.24362v2)|**2025-06-02**|null|
 |**2025-05-30**|**Pangu DeepDiver: Adaptive Search Intensity Scaling via Open-Web Reinforcement Learning**|Wenxuan Shi et.al.|[2505.24332v1](http://arxiv.org/abs/2505.24332v1)|**2025-05-30**|null|
 |**2025-05-30**|**ROAD: Responsibility-Oriented Reward Design for Reinforcement Learning in Autonomous Driving**|Yongming Chen et.al.|[2505.24317v1](http://arxiv.org/abs/2505.24317v1)|**2025-05-30**|null|
 |**2025-05-30**|**AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning**|Wei Fu et.al.|[2505.24298v1](http://arxiv.org/abs/2505.24298v1)|**2025-05-30**|null|

@@ -12,7 +12,7 @@
 |**2025-05-30**|**Harnessing Negative Signals: Reinforcement Distillation from Teacher Data for LLM Reasoning**|Shuyao Xu et.al.|[2505.24850v1](http://arxiv.org/abs/2505.24850v1)|**2025-05-30**|null|
 |**2025-05-30**|**Vision LLMs Are Bad at Hierarchical Visual Understanding, and LLMs Are the Bottleneck**|Yuwen Tan et.al.|[2505.24840v1](http://arxiv.org/abs/2505.24840v1)|**2025-05-30**|null|
 |**2025-05-30**|**VideoCAD: A Large-Scale Video Dataset for Learning UI Interactions and 3D Reasoning from CAD Software**|Brandon Man et.al.|[2505.24838v1](http://arxiv.org/abs/2505.24838v1)|**2025-05-30**|null|
-|**2025-05-30**|**How much do language models memorize?**|John X. Morris et.al.|[2505.24832v1](http://arxiv.org/abs/2505.24832v1)|**2025-05-30**|null|
+|**2025-05-30**|**How much do language models memorize?**|John X. Morris et.al.|[2505.24832v2](http://arxiv.org/abs/2505.24832v2)|**2025-06-02**|null|
 |**2025-05-30**|**Improving Reliability and Explainability of Medical Question Answering through Atomic Fact Checking in Retrieval-Augmented LLMs**|Juraj Vladika et.al.|[2505.24830v1](http://arxiv.org/abs/2505.24830v1)|**2025-05-30**|null|
 |**2025-05-30**|**LegalEval-Q: A New Benchmark for The Quality Evaluation of LLM-Generated Legal Text**|Li yunhan et.al.|[2505.24826v1](http://arxiv.org/abs/2505.24826v1)|**2025-05-30**|null|
 |**2025-05-30**|**Asymptotics for the harmonic descent chain and applications to critical beta-splitting trees**|Anna Brandenberger et.al.|[2505.24821v1](http://arxiv.org/abs/2505.24821v1)|**2025-05-30**|null|
@@ -20,7 +20,7 @@
 |**2025-05-30**|**Early warning signals in rumor models**|Eva Rifà et.al.|[2505.24795v1](http://arxiv.org/abs/2505.24795v1)|**2025-05-30**|null|
 |**2025-05-30**|**Inference Acceleration of Autoregressive Normalizing Flows by Selective Jacobi Decoding**|Jiaru Zhang et.al.|[2505.24791v1](http://arxiv.org/abs/2505.24791v1)|**2025-05-30**|null|
 |**2025-05-30**|**Drop Dropout on Single-Epoch Language Model Pretraining**|Houjun Liu et.al.|[2505.24788v1](http://arxiv.org/abs/2505.24788v1)|**2025-05-30**|null|
-|**2025-05-30**|**EXP-Bench: Can AI Conduct AI Research Experiments?**|Patrick Tser Jern Kon et.al.|[2505.24785v1](http://arxiv.org/abs/2505.24785v1)|**2025-05-30**|null|
+|**2025-05-30**|**EXP-Bench: Can AI Conduct AI Research Experiments?**|Patrick Tser Jern Kon et.al.|[2505.24785v2](http://arxiv.org/abs/2505.24785v2)|**2025-06-02**|null|
 |**2025-05-30**|**AXIOM: Learning to Play Games in Minutes with Expanding Object-Centric Models**|Conor Heins et.al.|[2505.24784v1](http://arxiv.org/abs/2505.24784v1)|**2025-05-30**|null|
 |**2025-05-30**|**Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?**|Jiayu Liu et.al.|[2505.24778v1](http://arxiv.org/abs/2505.24778v1)|**2025-05-30**|null|
 |**2025-05-30**|**A studentized permutation test for the treatment effect in individual participant data meta-analysis**|Phuc Thien Tran et.al.|[2505.24774v1](http://arxiv.org/abs/2505.24774v1)|**2025-05-30**|null|

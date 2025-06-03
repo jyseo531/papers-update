@@ -5,7 +5,7 @@
 |**2025-05-30**|**Consistent line clustering using geometric hypergraphs**|Kalle Alaluusua et.al.|[2505.24868v1](http://arxiv.org/abs/2505.24868v1)|**2025-05-30**|null|
 |**2025-05-30**|**The SPHEREx Sky Simulator: Science Data Modeling for the First All-Sky Near-Infrared Spectral Survey**|Brendan P. Crill et.al.|[2505.24856v1](http://arxiv.org/abs/2505.24856v1)|**2025-05-30**|null|
 |**2025-05-30**|**Novel methodology to obtain transonic solutions for dissipative flows around compact objects**|Shilpa Sarkar et.al.|[2505.24839v1](http://arxiv.org/abs/2505.24839v1)|**2025-05-30**|null|
-|**2025-05-30**|**How much do language models memorize?**|John X. Morris et.al.|[2505.24832v1](http://arxiv.org/abs/2505.24832v1)|**2025-05-30**|null|
+|**2025-05-30**|**How much do language models memorize?**|John X. Morris et.al.|[2505.24832v2](http://arxiv.org/abs/2505.24832v2)|**2025-06-02**|null|
 |**2025-05-30**|**Search for a new 17 MeV resonance via $e^+e^-$ annihilation with the PADME Experiment**|F. Bossi et.al.|[2505.24797v1](http://arxiv.org/abs/2505.24797v1)|**2025-05-30**|null|
 |**2025-05-30**|**AFIRE: Accurate and Fast Image Reconstruction Algorithm for Geometric-inconsistency Multispectral CT**|Yu Gao et.al.|[2505.24793v1](http://arxiv.org/abs/2505.24793v1)|**2025-05-30**|null|
 |**2025-05-30**|**Emergent boundary supersymmetry in a one dimensional superconductor**|Parameshwar R. Pasnoori et.al.|[2505.24777v1](http://arxiv.org/abs/2505.24777v1)|**2025-05-30**|null|
@@ -29,6 +29,6 @@
 |**2025-05-30**|**Dicritical divisors and hypercurvettes**|Enrique Artal Bartolo et.al.|[2505.24648v1](http://arxiv.org/abs/2505.24648v1)|**2025-05-30**|null|
 |**2025-05-30**|**A Cross Branch Fusion-Based Contrastive Learning Framework for Point Cloud Self-supervised Learning**|Chengzhi Wu et.al.|[2505.24641v1](http://arxiv.org/abs/2505.24641v1)|**2025-05-30**|null|
 |**2025-05-30**|**Cloud Optical Thickness Retrievals Using Angle Invariant Attention Based Deep Learning Models**|Zahid Hassan Tushar et.al.|[2505.24638v1](http://arxiv.org/abs/2505.24638v1)|**2025-05-30**|null|
-|**2025-05-30**|**NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation**|Xuzhi Wang et.al.|[2505.24634v1](http://arxiv.org/abs/2505.24634v1)|**2025-05-30**|null|
+|**2025-05-30**|**NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation**|Xuzhi Wang et.al.|[2505.24634v2](http://arxiv.org/abs/2505.24634v2)|**2025-06-02**|null|
 |**2025-05-30**|**Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors**|Duo Zheng et.al.|[2505.24625v1](http://arxiv.org/abs/2505.24625v1)|**2025-05-30**|null|
 |**2025-05-30**|**Hyperbolic Dataset Distillation**|Wenyuan Li et.al.|[2505.24623v1](http://arxiv.org/abs/2505.24623v1)|**2025-05-30**|null|

@@ -6,11 +6,11 @@
 |**2025-05-30**|**Consistent line clustering using geometric hypergraphs**|Kalle Alaluusua et.al.|[2505.24868v1](http://arxiv.org/abs/2505.24868v1)|**2025-05-30**|null|
 |**2025-05-30**|**The SPHEREx Sky Simulator: Science Data Modeling for the First All-Sky Near-Infrared Spectral Survey**|Brendan P. Crill et.al.|[2505.24856v1](http://arxiv.org/abs/2505.24856v1)|**2025-05-30**|null|
 |**2025-05-30**|**Novel methodology to obtain transonic solutions for dissipative flows around compact objects**|Shilpa Sarkar et.al.|[2505.24839v1](http://arxiv.org/abs/2505.24839v1)|**2025-05-30**|null|
-|**2025-05-30**|**How much do language models memorize?**|John X. Morris et.al.|[2505.24832v1](http://arxiv.org/abs/2505.24832v1)|**2025-05-30**|null|
+|**2025-05-30**|**How much do language models memorize?**|John X. Morris et.al.|[2505.24832v2](http://arxiv.org/abs/2505.24832v2)|**2025-06-02**|null|
 |**2025-05-30**|**Wess-Zumino-Witten Interactions of Axions: Three-Flavor**|Yang Bai et.al.|[2505.24822v1](http://arxiv.org/abs/2505.24822v1)|**2025-05-30**|null|
 |**2025-05-30**|**Search for a new 17 MeV resonance via $e^+e^-$ annihilation with the PADME Experiment**|F. Bossi et.al.|[2505.24797v1](http://arxiv.org/abs/2505.24797v1)|**2025-05-30**|null|
 |**2025-05-30**|**AFIRE: Accurate and Fast Image Reconstruction Algorithm for Geometric-inconsistency Multispectral CT**|Yu Gao et.al.|[2505.24793v1](http://arxiv.org/abs/2505.24793v1)|**2025-05-30**|null|
-|**2025-05-30**|**EXP-Bench: Can AI Conduct AI Research Experiments?**|Patrick Tser Jern Kon et.al.|[2505.24785v1](http://arxiv.org/abs/2505.24785v1)|**2025-05-30**|null|
+|**2025-05-30**|**EXP-Bench: Can AI Conduct AI Research Experiments?**|Patrick Tser Jern Kon et.al.|[2505.24785v2](http://arxiv.org/abs/2505.24785v2)|**2025-06-02**|null|
 |**2025-05-30**|**Emergent boundary supersymmetry in a one dimensional superconductor**|Parameshwar R. Pasnoori et.al.|[2505.24777v1](http://arxiv.org/abs/2505.24777v1)|**2025-05-30**|null|
 |**2025-05-30**|**Identification of New Candidate Be/X-Ray Binary Systems in the Small Magellanic Cloud via Analysis of S-CUBED Source Catalog**|Thomas M. Gaudin et.al.|[2505.24766v1](http://arxiv.org/abs/2505.24766v1)|**2025-05-30**|null|
 |**2025-05-30**|**Branched $α$-combinatorial Ricci flows on closed surfaces with Euler characteristic $χ\le 0$**|Wenjun Li et.al.|[2505.24762v1](http://arxiv.org/abs/2505.24762v1)|**2025-05-30**|null|
