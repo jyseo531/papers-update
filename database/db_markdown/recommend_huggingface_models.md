@@ -2336,6 +2336,7 @@ Updated on 2025-06-04
 | 59 | 1 | RyanJames/yolo12l-person-segObject | UpdatedApr 16 | [Link](https://huggingface.co/RyanJames/yolo12l-person-seg) |
 | 183 | 1 | keremberke/yolov8n-protective-equipment-detectionObject | UpdatedFeb 22, 2023 | [Link](https://huggingface.co/keremberke/yolov8n-protective-equipment-detection) |
 | 112 | 1 | kariver/detr-resnet-50_finetuned_food-roboflowObject | UpdatedNov 7, 2023 | [Link](https://huggingface.co/kariver/detr-resnet-50_finetuned_food-roboflow) |
+| 175 | 1 | morsetechlab/yolov11-license-plate-detectionObject | UpdatedMay 3 | [Link](https://huggingface.co/morsetechlab/yolov11-license-plate-detection) |
 | 588k |  | facebook/detr-resnet-50Object | UpdatedApr 10, 2024 | [Link](https://huggingface.co/facebook/detr-resnet-50) |
 | 5.01M |  | microsoft/table-transformer-detectionObject | UpdatedSep 6, 2023 | [Link](https://huggingface.co/microsoft/table-transformer-detection) |
 | 67 | Unknown | arnabdhar/YOLOv8-Face-DetectionObject | UpdatedFeb 20, 2024 | [Link](https://huggingface.co/arnabdhar/YOLOv8-Face-Detection) |
