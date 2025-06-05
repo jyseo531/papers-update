@@ -1824,6 +1824,7 @@ Updated on 2025-06-05
 | 8.66k | 33 | caidas/swin2SR-classical-sr-x2-64Image-to-Image | UpdatedMar 27, 2024 | [Link](https://huggingface.co/caidas/swin2SR-classical-sr-x2-64) |
 | 7.79k | 31 | lllyasviel/control_v11p_sd15s2_lineart_animeImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15s2_lineart_anime) |
 | 303 | 30 | lllyasviel/sd-controlnet-normalImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-normal) |
+| 3 | 30 | vllab/controlnet-handsImage-to-Image | UpdatedMay 19, 2023 | [Link](https://huggingface.co/vllab/controlnet-hands) |
 | 298 | 29 | ixarchakos/tryOffAnyoneImage-to-Image | UpdatedDec 13, 2024 | [Link](https://huggingface.co/ixarchakos/tryOffAnyone) |
 | 8.53k | 29 | lllyasviel/control_v11p_sd15_scribbleImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_scribble) |
 | 1.87k | 28 | lllyasviel/sd-controlnet-hedImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-hed) |
@@ -5403,6 +5404,7 @@ Updated on 2025-06-05
 | 3 | Unknown | nostalgebraist/clip-tumblr-vaeZero-Shot | UpdatedAug 12, 2021 | [Link](https://huggingface.co/nostalgebraist/clip-tumblr-vae) |
 | 2 | Unknown | deepghs/siglip_betaZero-Shot | Updatedabout 8 hours ago | [Link](https://huggingface.co/deepghs/siglip_beta) |
 | 12 | Unknown | vesteinn/clip-nabirdsZero-Shot | UpdatedMar 17, 2023 | [Link](https://huggingface.co/vesteinn/clip-nabirds) |
+| 2 | Unknown | laion/openMaMMUT-ViT-L-14-DataComp-1 | Updated7 minutes ago | [Link](https://huggingface.co/laion/openMaMMUT-ViT-L-14-DataComp-1.4B-s12.8B-b180K) |
 
 ## Zero-Shot Object Detection
 
