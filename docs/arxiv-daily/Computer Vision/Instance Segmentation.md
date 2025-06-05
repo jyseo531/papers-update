@@ -2,33 +2,33 @@
 ### Instance Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-03**|**Entity-Augmented Neuroscience Knowledge Retrieval Using Ontology and Semantic Understanding Capability of LLM**|Pralaypati Ta et.al.|[2506.03145v1](http://arxiv.org/abs/2506.03145v1)|**2025-06-03**|null|
-|**2025-06-03**|**Simulate Any Radar: Attribute-Controllable Radar Simulation via Waveform Parameter Embedding**|Weiqing Xiao et.al.|[2506.03134v1](http://arxiv.org/abs/2506.03134v1)|**2025-06-03**|null|
-|**2025-06-03**|**Zero-Shot Tree Detection and Segmentation from Aerial Forest Imagery**|Michelle Chen et.al.|[2506.03114v1](http://arxiv.org/abs/2506.03114v1)|**2025-06-03**|null|
-|**2025-06-03**|**Designing Algorithmic Delegates: The Role of Indistinguishability in Human-AI Handoff**|Sophie Greenwood et.al.|[2506.03102v1](http://arxiv.org/abs/2506.03102v1)|**2025-06-03**|null|
-|**2025-06-03**|**Agnostic Learning under Targeted Poisoning: Optimal Rates and the Role of Randomness**|Bogdan Chornomaz et.al.|[2506.03075v1](http://arxiv.org/abs/2506.03075v1)|**2025-06-03**|null|
-|**2025-06-03**|**GL-LowPopArt: A Nearly Instance-Wise Minimax-Optimal Estimator for Generalized Low-Rank Trace Regression**|Junghyun Lee et.al.|[2506.03074v2](http://arxiv.org/abs/2506.03074v2)|**2025-06-04**|null|
-|**2025-06-03**|**EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models**|Mingzhe Li et.al.|[2506.03067v1](http://arxiv.org/abs/2506.03067v1)|**2025-06-03**|null|
-|**2025-06-03**|**Partially Regularized Ordinal Regression to Adjust Teams' Scoring for Strength of Schedule and Complementary Unit Performance in American Football**|Andrey Skripnikov et.al.|[2506.03057v1](http://arxiv.org/abs/2506.03057v1)|**2025-06-03**|null|
-|**2025-06-03**|**InfiniteAudio: Infinite-Length Audio Generation with Consistency**|Chaeyoung Jung et.al.|[2506.03020v1](http://arxiv.org/abs/2506.03020v1)|**2025-06-03**|null|
-|**2025-06-03**|**Bounded Discrete Bridges**|Pierre Nicodeme et.al.|[2506.02982v1](http://arxiv.org/abs/2506.02982v1)|**2025-06-03**|null|
-|**2025-06-03**|**On the Robustness of Tabular Foundation Models: Test-Time Attacks and In-Context Defenses**|Mohamed Djilani et.al.|[2506.02978v1](http://arxiv.org/abs/2506.02978v1)|**2025-06-03**|null|
-|**2025-06-03**|**Towards Auto-Annotation from Annotation Guidelines: A Benchmark through 3D LiDAR Detection**|Yechi Ma et.al.|[2506.02914v1](http://arxiv.org/abs/2506.02914v1)|**2025-06-03**|null|
-|**2025-06-03**|**VolTex: Food Volume Estimation using Text-Guided Segmentation and Neural Surface Reconstruction**|Ahmad AlMughrabi et.al.|[2506.02895v1](http://arxiv.org/abs/2506.02895v1)|**2025-06-03**|null|
-|**2025-06-03**|**GaRA-SAM: Robustifying Segment Anything Model with Gated-Rank Adaptation**|Sohyun Lee et.al.|[2506.02882v1](http://arxiv.org/abs/2506.02882v1)|**2025-06-03**|null|
-|**2025-06-03**|**Hierarchical Self-Prompting SAM: A Prompt-Free Medical Image Segmentation Framework**|Mengmeng Zhang et.al.|[2506.02854v1](http://arxiv.org/abs/2506.02854v1)|**2025-06-03**|null|
-|**2025-06-03**|**METok: Multi-Stage Event-based Token Compression for Efficient Long Video Understanding**|Mengyue Wang et.al.|[2506.02850v1](http://arxiv.org/abs/2506.02850v1)|**2025-06-03**|null|
-|**2025-06-03**|**Automated Measurement of Optic Nerve Sheath Diameter Using Ocular Ultrasound Video**|Renxing Li et.al.|[2506.02789v1](http://arxiv.org/abs/2506.02789v1)|**2025-06-03**|null|
-|**2025-06-03**|**SAMJ: Fast Image Annotation on ImageJ/Fiji via Segment Anything Model**|Carlos Garcia-Lopez-de-Haro et.al.|[2506.02783v1](http://arxiv.org/abs/2506.02783v1)|**2025-06-03**|null|
-|**2025-06-03**|**Reuse or Generate? Accelerating Code Editing via Edit-Oriented Speculative Decoding**|Peiding Wang et.al.|[2506.02780v1](http://arxiv.org/abs/2506.02780v1)|**2025-06-03**|null|
-|**2025-06-03**|**BenLOC: A Benchmark for Learning to Configure MIP Optimizers**|Hongpei Li et.al.|[2506.02752v1](http://arxiv.org/abs/2506.02752v1)|**2025-06-03**|null|
-|**2025-06-03**|**GeneA-SLAM2: Dynamic SLAM with AutoEncoder-Preprocessed Genetic Keypoints Resampling and Depth Variance-Guided Dynamic Region Removal**|Shufan Qing et.al.|[2506.02736v1](http://arxiv.org/abs/2506.02736v1)|**2025-06-03**|[link](https://github.com/qingshufan/GeneA-SLAM2)|
-|**2025-06-03**|**Self-Disentanglement and Re-Composition for Cross-Domain Few-Shot Segmentation**|Jintao Tong et.al.|[2506.02677v1](http://arxiv.org/abs/2506.02677v1)|**2025-06-03**|null|
-|**2025-06-03**|**EvaLearn: Quantifying the Learning Capability and Efficiency of LLMs via Sequential Problem Solving**|Shihan Dou et.al.|[2506.02672v1](http://arxiv.org/abs/2506.02672v1)|**2025-06-03**|null|
-|**2025-06-03**|**MotionRAG-Diff: A Retrieval-Augmented Diffusion Framework for Long-Term Music-to-Dance Generation**|Mingyang Huang et.al.|[2506.02661v1](http://arxiv.org/abs/2506.02661v1)|**2025-06-03**|null|
-|**2025-06-03**|**HAM: A Hyperbolic Step to Regulate Implicit Bias**|Tom Jacobs et.al.|[2506.02630v1](http://arxiv.org/abs/2506.02630v1)|**2025-06-03**|null|
-|**2025-06-03**|**Speaker Diarization with Overlapping Community Detection Using Graph Attention Networks and Label Propagation Algorithm**|Zhaoyang Li et.al.|[2506.02610v1](http://arxiv.org/abs/2506.02610v1)|**2025-06-03**|null|
-|**2025-06-03**|**EALG: Evolutionary Adversarial Generation of Language Model-Guided Generators for Combinatorial Optimization**|Ruibo Duan et.al.|[2506.02594v1](http://arxiv.org/abs/2506.02594v1)|**2025-06-03**|null|
-|**2025-06-03**|**Learning Together to Perform Better: Teaching Small-Scale LLMs to Collaborate via Preferential Rationale Tuning**|Sohan Patnaik et.al.|[2506.02519v1](http://arxiv.org/abs/2506.02519v1)|**2025-06-03**|null|
-|**2025-06-03**|**FinChain: A Symbolic Benchmark for Verifiable Chain-of-Thought Financial Reasoning**|Zhuohan Xie et.al.|[2506.02515v1](http://arxiv.org/abs/2506.02515v1)|**2025-06-03**|null|
-|**2025-06-03**|**Classification of Hoyle State Decay Branches in Active Target Time Projection Chamber using Neural Network**|Pralay Kumar Das et.al.|[2506.02506v1](http://arxiv.org/abs/2506.02506v1)|**2025-06-03**|null|
+|**2025-06-04**|**Sounding that Object: Interactive Object-Aware Image to Audio Generation**|Tingle Li et.al.|[2506.04214v1](http://arxiv.org/abs/2506.04214v1)|**2025-06-04**|null|
+|**2025-06-04**|**EPiC: Towards Lossless Speedup for Reasoning Training through Edge-Preserving CoT Condensation**|Jinghan Jia et.al.|[2506.04205v1](http://arxiv.org/abs/2506.04205v1)|**2025-06-04**|null|
+|**2025-06-04**|**What Makes Treatment Effects Identifiable? Characterizations and Estimators Beyond Unconfoundedness**|Yang Cai et.al.|[2506.04194v1](http://arxiv.org/abs/2506.04194v1)|**2025-06-04**|null|
+|**2025-06-04**|**Lions and Muons: Optimization via Stochastic Frank-Wolfe**|Maria-Eleni Sfyraki et.al.|[2506.04192v1](http://arxiv.org/abs/2506.04192v1)|**2025-06-04**|null|
+|**2025-06-04**|**Long or short CoT? Investigating Instance-level Switch of Large Reasoning Models**|Ruiqi Zhang et.al.|[2506.04182v1](http://arxiv.org/abs/2506.04182v1)|**2025-06-04**|null|
+|**2025-06-04**|**Synthetic multi-inversion time magnetic resonance images for visualization of subcortical structures**|Savannah P. Hays et.al.|[2506.04173v1](http://arxiv.org/abs/2506.04173v1)|**2025-06-04**|null|
+|**2025-06-04**|**VISCA: Inferring Component Abstractions for Automated End-to-End Testing**|Parsa Alian et.al.|[2506.04161v1](http://arxiv.org/abs/2506.04161v1)|**2025-06-04**|null|
+|**2025-06-04**|**HiFiTTS-2: A Large-Scale High Bandwidth Speech Dataset**|Ryan Langman et.al.|[2506.04152v1](http://arxiv.org/abs/2506.04152v1)|**2025-06-04**|null|
+|**2025-06-04**|**The Line Traveling Salesman and Repairman Problem with Collaboration**|Julian Golak et.al.|[2506.04127v1](http://arxiv.org/abs/2506.04127v1)|**2025-06-04**|null|
+|**2025-06-04**|**A Comprehensive Study on Medical Image Segmentation using Deep Neural Networks**|Loan Dao et.al.|[2506.04121v1](http://arxiv.org/abs/2506.04121v1)|**2025-06-04**|null|
+|**2025-06-04**|**GlobalBuildingAtlas: An Open Global and Complete Dataset of Building Polygons, Heights and LoD1 3D Models**|Xiao Xiang Zhu et.al.|[2506.04106v1](http://arxiv.org/abs/2506.04106v1)|**2025-06-04**|null|
+|**2025-06-04**|**Optimizing Mesh to Improve the Triangular Expansion Algorithm for Computing Visibility Regions**|Jan Mikula et.al.|[2506.04086v1](http://arxiv.org/abs/2506.04086v1)|**2025-06-04**|null|
+|**2025-06-04**|**A Novel Data Augmentation Approach for Automatic Speaking Assessment on Opinion Expressions**|Chung-Chun Wang et.al.|[2506.04077v1](http://arxiv.org/abs/2506.04077v1)|**2025-06-04**|null|
+|**2025-06-04**|**LexTime: A Benchmark for Temporal Ordering of Legal Events**|Claire Barale et.al.|[2506.04041v1](http://arxiv.org/abs/2506.04041v1)|**2025-06-04**|null|
+|**2025-06-04**|**Rex-Thinker: Grounded Object Referring via Chain-of-Thought Reasoning**|Qing Jiang et.al.|[2506.04034v1](http://arxiv.org/abs/2506.04034v1)|**2025-06-04**|null|
+|**2025-06-04**|**Conformal coronary calcification volume estimation with conditional coverage via histogram clustering**|Olivier Jaubert et.al.|[2506.04030v1](http://arxiv.org/abs/2506.04030v1)|**2025-06-04**|null|
+|**2025-06-04**|**CETBench: A Novel Dataset constructed via Transformations over Programs for Benchmarking LLMs for Code-Equivalence Checking**|Neeva Oza et.al.|[2506.04019v1](http://arxiv.org/abs/2506.04019v1)|**2025-06-04**|null|
+|**2025-06-04**|**Vocabulary-free few-shot learning for Vision-Language Models**|Maxime Zanella et.al.|[2506.04005v1](http://arxiv.org/abs/2506.04005v1)|**2025-06-04**|null|
+|**2025-06-04**|**CARL: Causality-guided Architecture Representation Learning for an Interpretable Performance Predictor**|Han Ji et.al.|[2506.04001v1](http://arxiv.org/abs/2506.04001v1)|**2025-06-04**|null|
+|**2025-06-04**|**A Generic Branch-and-Bound Algorithm for $\ell_0$-Penalized Problems with Supplementary Material**|Clément Elvira et.al.|[2506.03974v1](http://arxiv.org/abs/2506.03974v1)|**2025-06-04**|null|
+|**2025-06-04**|**Average Calibration Losses for Reliable Uncertainty in Medical Image Segmentation**|Theodore Barfoot et.al.|[2506.03942v1](http://arxiv.org/abs/2506.03942v1)|**2025-06-04**|null|
+|**2025-06-04**|**Decidability of multiplicative matrix equations and related Diophantine problems**|Sebastian Heintze et.al.|[2506.03932v1](http://arxiv.org/abs/2506.03932v1)|**2025-06-04**|null|
+|**2025-06-04**|**Multi-Language Detection of Design Pattern Instances**|Hugo Andrade et.al.|[2506.03903v1](http://arxiv.org/abs/2506.03903v1)|**2025-06-04**|null|
+|**2025-06-04**|**Register jumps on the clarinet: numerical and in-vitro investigation into basins of attraction and phase-tipping**|Nathan Szwarcberg et.al.|[2506.03875v1](http://arxiv.org/abs/2506.03875v1)|**2025-06-04**|null|
+|**2025-06-04**|**Analysis of Server Throughput For Managed Big Data Analytics Frameworks**|Emmanouil Anagnostakis et.al.|[2506.03854v1](http://arxiv.org/abs/2506.03854v1)|**2025-06-04**|null|
+|**2025-06-04**|**Jumbled Scattered Factors**|Pamela Fleischmann et.al.|[2506.03814v1](http://arxiv.org/abs/2506.03814v1)|**2025-06-04**|null|
+|**2025-06-04**|**Understanding Mental Models of Generative Conversational Search and The Effect of Interface Transparency**|Chadha Degachi et.al.|[2506.03807v1](http://arxiv.org/abs/2506.03807v1)|**2025-06-04**|null|
+|**2025-06-04**|**Learning Equilibria in Matching Games with Bandit Feedback**|Andreas Athanasopoulos et.al.|[2506.03802v1](http://arxiv.org/abs/2506.03802v1)|**2025-06-04**|null|
+|**2025-06-04**|**ConText: Driving In-context Learning for Text Removal and Segmentation**|Fei Zhang et.al.|[2506.03799v1](http://arxiv.org/abs/2506.03799v1)|**2025-06-04**|null|
+|**2025-06-04**|**Act-as-Pet: Benchmarking the Abilities of Large Language Models as E-Pets in Social Network Services**|Hongcheng Guo et.al.|[2506.03761v1](http://arxiv.org/abs/2506.03761v1)|**2025-06-04**|null|
