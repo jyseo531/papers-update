@@ -12,7 +12,7 @@
 |**2025-06-03**|**Large Processor Chip Model**|Kaiyan Chang et.al.|[2506.02929v1](http://arxiv.org/abs/2506.02929v1)|**2025-06-03**|null|
 |**2025-06-03**|**Hölder continuous weak solutions of the 3D Boussinesq equation with thermal diffusion**|Zipeng Chen et.al.|[2506.02927v1](http://arxiv.org/abs/2506.02927v1)|**2025-06-03**|null|
 |**2025-06-03**|**Towards Auto-Annotation from Annotation Guidelines: A Benchmark through 3D LiDAR Detection**|Yechi Ma et.al.|[2506.02914v1](http://arxiv.org/abs/2506.02914v1)|**2025-06-03**|null|
-|**2025-06-03**|**FlySearch: Exploring how vision-language models explore**|Adam Pardyl et.al.|[2506.02896v1](http://arxiv.org/abs/2506.02896v1)|**2025-06-03**|null|
+|**2025-06-03**|**FlySearch: Exploring how vision-language models explore**|Adam Pardyl et.al.|[2506.02896v2](http://arxiv.org/abs/2506.02896v2)|**2025-06-04**|null|
 |**2025-06-03**|**VolTex: Food Volume Estimation using Text-Guided Segmentation and Neural Surface Reconstruction**|Ahmad AlMughrabi et.al.|[2506.02895v1](http://arxiv.org/abs/2506.02895v1)|**2025-06-03**|null|
 |**2025-06-03**|**Stellar Magnetic Storm Induced Magnetospheric Polarity Reversals: Distinguishing between Unmagnetised and Magnetised Exoplanets**|Sakshi Gupta et.al.|[2506.02886v1](http://arxiv.org/abs/2506.02886v1)|**2025-06-03**|null|
 |**2025-06-03**|**NTIRE 2025 XGC Quality Assessment Challenge: Methods and Results**|Xiaohong Liu et.al.|[2506.02875v1](http://arxiv.org/abs/2506.02875v1)|**2025-06-03**|null|
@@ -23,7 +23,7 @@
 |**2025-06-03**|**PhysGaia: A Physics-Aware Dataset of Multi-Body Interactions for Dynamic Novel View Synthesis**|Mijeong Kim et.al.|[2506.02794v1](http://arxiv.org/abs/2506.02794v1)|**2025-06-03**|null|
 |**2025-06-03**|**FreeScene: Mixed Graph Diffusion for 3D Scene Synthesis from Free Prompts**|Tongyuan Bai et.al.|[2506.02781v1](http://arxiv.org/abs/2506.02781v1)|**2025-06-03**|null|
 |**2025-06-03**|**A mesoscale phase-field model of intergranular liquid lithium corrosion of ferritic/martensitic steels**|A. Lhoest et.al.|[2506.02776v1](http://arxiv.org/abs/2506.02776v1)|**2025-06-03**|null|
-|**2025-06-03**|**Voyager: Real-Time Splatting City-Scale 3D Gaussians on Your Phone**|Zheng Liu et.al.|[2506.02774v1](http://arxiv.org/abs/2506.02774v1)|**2025-06-03**|null|
+|**2025-06-03**|**Voyager: Real-Time Splatting City-Scale 3D Gaussians on Your Phone**|Zheng Liu et.al.|[2506.02774v2](http://arxiv.org/abs/2506.02774v2)|**2025-06-04**|null|
 |**2025-06-03**|**AuralNet: Hierarchical Attention-based 3D Binaural Localization of Overlapping Speakers**|Linya Fu et.al.|[2506.02773v1](http://arxiv.org/abs/2506.02773v1)|**2025-06-03**|null|
 |**2025-06-03**|**RobustSplat: Decoupling Densification and Dynamics for Transient-Free 3DGS**|Chuanyu Fu et.al.|[2506.02751v1](http://arxiv.org/abs/2506.02751v1)|**2025-06-03**|null|
 |**2025-06-03**|**Euclid: Early Release Observations -- The surface brightness and colour profiles of the far outskirts of galaxies in the Perseus cluster**|M. Mondelin et.al.|[2506.02745v1](http://arxiv.org/abs/2506.02745v1)|**2025-06-03**|null|

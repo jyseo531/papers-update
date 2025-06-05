@@ -15,7 +15,7 @@
 |**2025-06-03**|**Modelling the Effects of Hearing Loss on Neural Coding in the Auditory Midbrain with Variational Conditioning**|Lloyd Pellatt et.al.|[2506.03088v1](http://arxiv.org/abs/2506.03088v1)|**2025-06-03**|null|
 |**2025-06-03**|**Hypergraphs accumulate infinitely often**|David Conlon et.al.|[2506.03080v1](http://arxiv.org/abs/2506.03080v1)|**2025-06-03**|null|
 |**2025-06-03**|**Agnostic Learning under Targeted Poisoning: Optimal Rates and the Role of Randomness**|Bogdan Chornomaz et.al.|[2506.03075v1](http://arxiv.org/abs/2506.03075v1)|**2025-06-03**|null|
-|**2025-06-03**|**GL-LowPopArt: A Nearly Instance-Wise Minimax Estimator for Generalized Low-Rank Trace Regression**|Junghyun Lee et.al.|[2506.03074v1](http://arxiv.org/abs/2506.03074v1)|**2025-06-03**|null|
+|**2025-06-03**|**GL-LowPopArt: A Nearly Instance-Wise Minimax-Optimal Estimator for Generalized Low-Rank Trace Regression**|Junghyun Lee et.al.|[2506.03074v2](http://arxiv.org/abs/2506.03074v2)|**2025-06-04**|null|
 |**2025-06-03**|**Bivariate polynomial histopolation techniques on Padua, Fekete and Leja triangles**|Ludovico Bruni Bruno et.al.|[2506.03025v1](http://arxiv.org/abs/2506.03025v1)|**2025-06-03**|null|
 |**2025-06-03**|**Smartflow: Enabling Scalable Spatiotemporal Geospatial Research**|David McVicar et.al.|[2506.03022v1](http://arxiv.org/abs/2506.03022v1)|**2025-06-03**|null|
 |**2025-06-03**|**Coding Agents with Multimodal Browsing are Generalist Problem Solvers**|Aditya Bharat Soni et.al.|[2506.03011v1](http://arxiv.org/abs/2506.03011v1)|**2025-06-03**|null|
@@ -26,7 +26,7 @@
 |**2025-06-03**|**Slicing Correspondences with High Degree Hypersurfaces**|Ishan Banerjee et.al.|[2506.02977v1](http://arxiv.org/abs/2506.02977v1)|**2025-06-03**|null|
 |**2025-06-03**|**HACo-Det: A Study Towards Fine-Grained Machine-Generated Text Detection under Human-AI Coauthoring**|Zhixiong Su et.al.|[2506.02959v1](http://arxiv.org/abs/2506.02959v1)|**2025-06-03**|null|
 |**2025-06-03**|**Adaptive Graph Pruning for Multi-Agent Communication**|Boyi Li et.al.|[2506.02951v1](http://arxiv.org/abs/2506.02951v1)|**2025-06-03**|null|
-|**2025-06-03**|**A Multi-agent LLM-based JUit Test Generation with Strong Oracles**|Qinghua Xu et.al.|[2506.02943v1](http://arxiv.org/abs/2506.02943v1)|**2025-06-03**|null|
+|**2025-06-03**|**A Multi-agent LLM-based JUnit Test Generation with Strong Oracles**|Qinghua Xu et.al.|[2506.02943v2](http://arxiv.org/abs/2506.02943v2)|**2025-06-04**|null|
 |**2025-06-03**|**QKV Projections Require a Fraction of Their Memory**|Malik Khalaf et.al.|[2506.02939v1](http://arxiv.org/abs/2506.02939v1)|**2025-06-03**|null|
 |**2025-06-03**|**MIND: Material Interface Generation from UDFs for Non-Manifold Surface Reconstruction**|Xuhui Chen et.al.|[2506.02938v1](http://arxiv.org/abs/2506.02938v1)|**2025-06-03**|null|
 |**2025-06-03**|**ThinkTank: A Framework for Generalizing Domain-Specific AI Agent Systems into Universal Collaborative Intelligence Platforms**|Praneet Sai Madhu Surabhi et.al.|[2506.02931v1](http://arxiv.org/abs/2506.02931v1)|**2025-06-03**|null|

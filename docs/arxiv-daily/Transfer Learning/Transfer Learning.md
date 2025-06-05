@@ -22,7 +22,7 @@
 |**2025-06-03**|**Rectified Flows for Fast Multiscale Fluid Flow Modeling**|Victor Armegioiu et.al.|[2506.03111v1](http://arxiv.org/abs/2506.03111v1)|**2025-06-03**|null|
 |**2025-06-03**|**Revisiting Continuity of Image Tokens for Cross-domain Few-shot Learning**|Shuai Yi et.al.|[2506.03110v1](http://arxiv.org/abs/2506.03110v1)|**2025-06-03**|null|
 |**2025-06-03**|**On Weak-to-Strong Generalization and f-Divergence**|Wei Yao et.al.|[2506.03109v1](http://arxiv.org/abs/2506.03109v1)|**2025-06-03**|null|
-|**2025-06-03**|**Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback**|Xiaoying Zhang et.al.|[2506.03106v1](http://arxiv.org/abs/2506.03106v1)|**2025-06-03**|null|
+|**2025-06-03**|**Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback**|Xiaoying Zhang et.al.|[2506.03106v2](http://arxiv.org/abs/2506.03106v2)|**2025-06-04**|null|
 |**2025-06-03**|**Retrieval-Augmented Generation as Noisy In-Context Learning: A Unified Theory and Risk Bounds**|Yang Guo et.al.|[2506.03100v1](http://arxiv.org/abs/2506.03100v1)|**2025-06-03**|null|
 |**2025-06-03**|**EgoVLM: Policy Optimization for Egocentric Video Understanding**|Ashwin Vinod et.al.|[2506.03097v1](http://arxiv.org/abs/2506.03097v1)|**2025-06-03**|null|
 |**2025-06-03**|**FuseLIP: Multimodal Embeddings via Early Fusion of Discrete Tokens**|Christian Schlarmann et.al.|[2506.03096v1](http://arxiv.org/abs/2506.03096v1)|**2025-06-03**|null|

@@ -1,34 +1,15 @@
+# Visual Localization
 
-### Visual Localization
-|Publish Date|Title|Authors|PDF|Last Updated|Code|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-03**|**Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval**|Jiwen Yu et.al.|[2506.03141v1](http://arxiv.org/abs/2506.03141v1)|**2025-06-03**|null|
-|**2025-06-03**|**CamCloneMaster: Enabling Reference-based Camera Control for Video Generation**|Yawen Luo et.al.|[2506.03140v1](http://arxiv.org/abs/2506.03140v1)|**2025-06-03**|null|
-|**2025-06-03**|**HumanRAM: Feed-forward Human Reconstruction and Animation Model using Transformers**|Zhiyuan Yu et.al.|[2506.03118v1](http://arxiv.org/abs/2506.03118v1)|**2025-06-03**|null|
-|**2025-06-03**|**ByteMorph: Benchmarking Instruction-Guided Image Editing with Non-Rigid Motions**|Di Chang et.al.|[2506.03107v1](http://arxiv.org/abs/2506.03107v1)|**2025-06-03**|null|
-|**2025-06-03**|**EgoVLM: Policy Optimization for Egocentric Video Understanding**|Ashwin Vinod et.al.|[2506.03097v1](http://arxiv.org/abs/2506.03097v1)|**2025-06-03**|null|
-|**2025-06-03**|**LEG-SLAM: Real-Time Language-Enhanced Gaussian Splatting for SLAM**|Roman Titkov et.al.|[2506.03073v1](http://arxiv.org/abs/2506.03073v1)|**2025-06-03**|null|
-|**2025-06-03**|**Euclid preparation. Constraining parameterised models of modifications of gravity with the spectroscopic and photometric primary probes**|Euclid Collaboration et.al.|[2506.03008v1](http://arxiv.org/abs/2506.03008v1)|**2025-06-03**|null|
-|**2025-06-03**|**PartialEdit: Identifying Partial Deepfakes in the Era of Neural Speech Editing**|You Zhang et.al.|[2506.02958v1](http://arxiv.org/abs/2506.02958v1)|**2025-06-03**|null|
-|**2025-06-03**|**Towards Auto-Annotation from Annotation Guidelines: A Benchmark through 3D LiDAR Detection**|Yechi Ma et.al.|[2506.02914v1](http://arxiv.org/abs/2506.02914v1)|**2025-06-03**|null|
-|**2025-06-03**|**Geometric Visual Servo Via Optimal Transport**|Ethan Canzini et.al.|[2506.02768v1](http://arxiv.org/abs/2506.02768v1)|**2025-06-03**|null|
-|**2025-06-03**|**VTGaussian-SLAM: RGBD SLAM for Large Scale Scenes with Splatting View-Tied 3D Gaussians**|Pengchong Hu et.al.|[2506.02741v1](http://arxiv.org/abs/2506.02741v1)|**2025-06-03**|null|
-|**2025-06-03**|**Sight Guide: A Wearable Assistive Perception and Navigation System for the Vision Assistance Race in the Cybathlon 2024**|Patrick Pfreundschuh et.al.|[2506.02676v1](http://arxiv.org/abs/2506.02676v1)|**2025-06-03**|null|
-|**2025-06-03**|**On Generalization across Measurement Systems: LLMs Entail More Test-Time Compute for Underrepresented Cultures**|Minh Duc Bui et.al.|[2506.02591v1](http://arxiv.org/abs/2506.02591v1)|**2025-06-03**|null|
-|**2025-06-03**|**BEVCALIB: LiDAR-Camera Calibration via Geometry-Guided Bird's-Eye View Representations**|Weiduo Yuan et.al.|[2506.02587v1](http://arxiv.org/abs/2506.02587v1)|**2025-06-03**|null|
-|**2025-06-03**|**Probabilistic Online Event Downsampling**|Andreu Girbau-Xalabarder et.al.|[2506.02547v1](http://arxiv.org/abs/2506.02547v1)|**2025-06-03**|null|
-|**2025-06-03**|**Passive Multi-Target Visible Light Positioning Based on Multi-Camera Joint Optimization**|Wenxuan Pan et.al.|[2506.02418v1](http://arxiv.org/abs/2506.02418v1)|**2025-06-03**|null|
-|**2025-06-02**|**A Wide Field Map of Ultra-Compact Dwarfs in the Coma Cluster**|Richard T. Pomeroy et.al.|[2506.02296v1](http://arxiv.org/abs/2506.02296v1)|**2025-06-02**|null|
-|**2025-06-02**|**Prediction of the SVOM MXT camera end of life spectral performance based onproton irradiation results**|Clara Plasse et.al.|[2506.02271v1](http://arxiv.org/abs/2506.02271v1)|**2025-06-02**|null|
-|**2025-06-02**|**Rig3R: Rig-Aware Conditioning for Learned 3D Reconstruction**|Samuel Li et.al.|[2506.02265v1](http://arxiv.org/abs/2506.02265v1)|**2025-06-02**|null|
-|**2025-06-02**|**E3D-Bench: A Benchmark for End-to-End 3D Geometric Foundation Models**|Wenyan Cong et.al.|[2506.01933v1](http://arxiv.org/abs/2506.01933v1)|**2025-06-02**|null|
-|**2025-06-02**|**UMA: Ultra-detailed Human Avatars via Multi-level Surface Alignment**|Heming Zhu et.al.|[2506.01802v1](http://arxiv.org/abs/2506.01802v1)|**2025-06-02**|null|
-|**2025-06-02**|**WorldExplorer: Towards Generating Fully Navigable 3D Scenes**|Manuel-Andreas Schneider et.al.|[2506.01799v1](http://arxiv.org/abs/2506.01799v1)|**2025-06-02**|null|
-|**2025-06-02**|**Learning with pyCub: A New Simulation and Exercise Framework for Humanoid Robotics**|Lukas Rustler et.al.|[2506.01756v1](http://arxiv.org/abs/2506.01756v1)|**2025-06-02**|null|
-|**2025-06-02**|**Observation of the Crab Nebula with the Single-Mirror Small-Size Telescope stereoscopic system at low altitude**|C. Alispach et.al.|[2506.01733v1](http://arxiv.org/abs/2506.01733v1)|**2025-06-02**|null|
-|**2025-06-02**|**SteerPose: Simultaneous Extrinsic Camera Calibration and Matching from Articulation**|Sang-Eun Lee et.al.|[2506.01691v1](http://arxiv.org/abs/2506.01691v1)|**2025-06-02**|null|
-|**2025-06-02**|**MotionSight: Boosting Fine-Grained Motion Understanding in Multimodal LLMs**|Yipeng Du et.al.|[2506.01674v1](http://arxiv.org/abs/2506.01674v1)|**2025-06-02**|null|
-|**2025-06-02**|**EPFL-Smart-Kitchen-30: Densely annotated cooking dataset with 3D kinematics to challenge video and language models**|Andy Bonnetto et.al.|[2506.01608v1](http://arxiv.org/abs/2506.01608v1)|**2025-06-02**|null|
-|**2025-06-02**|**Neural shape reconstruction from multiple views with static pattern projection**|Ryo Furukawa et.al.|[2506.01389v1](http://arxiv.org/abs/2506.01389v1)|**2025-06-02**|null|
-|**2025-06-02**|**RadarSplat: Radar Gaussian Splatting for High-Fidelity Data Synthesis and 3D Reconstruction of Autonomous Driving Scenes**|Pou-Chun Kung et.al.|[2506.01379v1](http://arxiv.org/abs/2506.01379v1)|**2025-06-02**|null|
-|**2025-06-02**|**No Train Yet Gain: Towards Generic Multi-Object Tracking in Sports and Beyond**|Tomasz Stanczyk et.al.|[2506.01373v1](http://arxiv.org/abs/2506.01373v1)|**2025-06-02**|null|
+| Publish Date | Title | Authors | PDF | Code |
+|-------------|----------------|-------------|------|------|
+|**2025-05-28**|**4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians**|Hidenobu Matsuki et.al.|[2505.22859v1](http://arxiv.org/abs/2505.22859v1)|null|
+|**2025-05-24**|**Why Not Replace? Sustaining Long-Term Visual Localization via Handcrafted-Learned Feature Collaboration on CPU**|Yicheng Lin et.al.|[2505.18652v1](http://arxiv.org/abs/2505.18652v1)|**[link](https://github.com/linyicheng1/orb_slam3_localization)**|
+|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973v1](http://arxiv.org/abs/2505.17973v1)|null|
+|**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565v1](http://arxiv.org/abs/2505.03565v1)|null|
+|**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422v1](http://arxiv.org/abs/2505.03422v1)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
+|**2025-05-04**|**SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2505.01956v2](http://arxiv.org/abs/2505.01956v2)|null|
+|**2025-05-02**|**NeuroLoc: Encoding Navigation Cells for 6-DOF Camera Localization**|Xun Li et.al.|[2505.01113v1](http://arxiv.org/abs/2505.01113v1)|null|
+|**2025-04-29**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379v2](http://arxiv.org/abs/2504.20379v2)|null|
+|**2025-04-24**|**A Guide to Structureless Visual Localization**|Vojtech Panek et.al.|[2504.17636v1](http://arxiv.org/abs/2504.17636v1)|null|
+|**2025-04-15**|**Visual Re-Ranking with Non-Visual Side Information**|Gustav Hanning et.al.|[2504.11134v1](http://arxiv.org/abs/2504.11134v1)|**[link](https://github.com/ghanning/gcsa)**|
+

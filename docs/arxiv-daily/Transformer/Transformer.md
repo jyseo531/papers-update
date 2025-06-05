@@ -25,7 +25,7 @@
 |**2025-06-03**|**MIND: Material Interface Generation from UDFs for Non-Manifold Surface Reconstruction**|Xuhui Chen et.al.|[2506.02938v1](http://arxiv.org/abs/2506.02938v1)|**2025-06-03**|null|
 |**2025-06-03**|**ThinkTank: A Framework for Generalizing Domain-Specific AI Agent Systems into Universal Collaborative Intelligence Platforms**|Praneet Sai Madhu Surabhi et.al.|[2506.02931v1](http://arxiv.org/abs/2506.02931v1)|**2025-06-03**|null|
 |**2025-06-03**|**Large Processor Chip Model**|Kaiyan Chang et.al.|[2506.02929v1](http://arxiv.org/abs/2506.02929v1)|**2025-06-03**|null|
-|**2025-06-03**|**MMM4Rec: An Transfer-Efficient Framework for Multi-modal Sequential Recommendation**|Hao Fan et.al.|[2506.02916v1](http://arxiv.org/abs/2506.02916v1)|**2025-06-03**|null|
+|**2025-06-03**|**MMM4Rec: A Transfer-Efficient Framework for Multi-modal Sequential Recommendation**|Hao Fan et.al.|[2506.02916v2](http://arxiv.org/abs/2506.02916v2)|**2025-06-04**|null|
 |**2025-06-03**|**Dual realizations of Bergman spaces on strongly convex domains**|Agniva Chatterjee et.al.|[2506.02913v1](http://arxiv.org/abs/2506.02913v1)|**2025-06-03**|null|
 |**2025-06-03**|**Test Gravitational-Wave Polarizations with Space-Based Detectors**|Jun-Shuai Wang et.al.|[2506.02909v1](http://arxiv.org/abs/2506.02909v1)|**2025-06-03**|null|
 |**2025-06-03**|**Optical spectroscopic signatures of the red giant evolutionary state**|Ella Xi Wang et.al.|[2506.02889v1](http://arxiv.org/abs/2506.02889v1)|**2025-06-03**|null|

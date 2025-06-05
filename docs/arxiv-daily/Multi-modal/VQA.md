@@ -2,7 +2,7 @@
 ### VQA
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-03**|**UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation**|Bin Lin et.al.|[2506.03147v1](http://arxiv.org/abs/2506.03147v1)|**2025-06-03**|null|
+|**2025-06-03**|**UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation**|Bin Lin et.al.|[2506.03147v2](http://arxiv.org/abs/2506.03147v2)|**2025-06-04**|null|
 |**2025-06-03**|**Topology meets symmetry breaking: Hidden order, intrinsically gapless topological states and finite-temperature topological transitions**|Reja H. Wilke et.al.|[2506.03146v1](http://arxiv.org/abs/2506.03146v1)|**2025-06-03**|null|
 |**2025-06-03**|**Entity-Augmented Neuroscience Knowledge Retrieval Using Ontology and Semantic Understanding Capability of LLM**|Pralaypati Ta et.al.|[2506.03145v1](http://arxiv.org/abs/2506.03145v1)|**2025-06-03**|null|
 |**2025-06-03**|**Co-Evolving LLM Coder and Unit Tester via Reinforcement Learning**|Yinjie Wang et.al.|[2506.03136v1](http://arxiv.org/abs/2506.03136v1)|**2025-06-03**|null|
@@ -27,7 +27,7 @@
 |**2025-06-03**|**On the Need to Align Intent and Implementation in Uncertainty Quantification for Machine Learning**|Shubhendu Trivedi et.al.|[2506.03037v1](http://arxiv.org/abs/2506.03037v1)|**2025-06-03**|null|
 |**2025-06-03**|**Impact of Accretion Assumptions on Pulse Profile Modelling of Superburst Oscillations in 4U 1636-536**|Yves Kini et.al.|[2506.03033v1](http://arxiv.org/abs/2506.03033v1)|**2025-06-03**|null|
 |**2025-06-03**|**TestAgent: An Adaptive and Intelligent Expert for Human Assessment**|Junhao Yu et.al.|[2506.03032v1](http://arxiv.org/abs/2506.03032v1)|**2025-06-03**|null|
-|**2025-06-03**|**TDCOSMO 2025: Cosmological constraints from strong lensing time delays**|Simon Birrer et.al.|[2506.03023v1](http://arxiv.org/abs/2506.03023v1)|**2025-06-03**|null|
+|**2025-06-03**|**TDCOSMO 2025: Cosmological constraints from strong lensing time delays**|TDCOSMO Collaboration et.al.|[2506.03023v2](http://arxiv.org/abs/2506.03023v2)|**2025-06-04**|null|
 |**2025-06-03**|**InfiniteAudio: Infinite-Length Audio Generation with Consistency**|Chaeyoung Jung et.al.|[2506.03020v1](http://arxiv.org/abs/2506.03020v1)|**2025-06-03**|null|
 |**2025-06-03**|**Coding Agents with Multimodal Browsing are Generalist Problem Solvers**|Aditya Bharat Soni et.al.|[2506.03011v1](http://arxiv.org/abs/2506.03011v1)|**2025-06-03**|null|
 |**2025-06-03**|**A Multi-Agent Framework for Mitigating Dialect Biases in Privacy Policy Question-Answering Systems**|Đorđe Klisura et.al.|[2506.02998v1](http://arxiv.org/abs/2506.02998v1)|**2025-06-03**|null|

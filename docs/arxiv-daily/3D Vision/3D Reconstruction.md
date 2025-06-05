@@ -12,7 +12,7 @@
 |**2025-06-03**|**Torsion in Persistent Homology and Neural Networks**|Maria Walch et.al.|[2506.03049v1](http://arxiv.org/abs/2506.03049v1)|**2025-06-03**|null|
 |**2025-06-03**|**Bivariate polynomial histopolation techniques on Padua, Fekete and Leja triangles**|Ludovico Bruni Bruno et.al.|[2506.03025v1](http://arxiv.org/abs/2506.03025v1)|**2025-06-03**|null|
 |**2025-06-03**|**$\mathcal{B}(B\rightarrowτν)$ measurement with the hadronic FEI at Belle~II**|Giovanni Gaudino et.al.|[2506.03000v1](http://arxiv.org/abs/2506.03000v1)|**2025-06-03**|null|
-|**2025-06-03**|**Memory-Efficient and Privacy-Preserving Collaborative Training for Mixture-of-Experts LLMs**|Ze Yu Zhang et.al.|[2506.02965v1](http://arxiv.org/abs/2506.02965v1)|**2025-06-03**|null|
+|**2025-06-03**|**PC-MoE: Memory-Efficient and Privacy-Preserving Collaborative Training for Mixture-of-Experts LLMs**|Ze Yu Zhang et.al.|[2506.02965v2](http://arxiv.org/abs/2506.02965v2)|**2025-06-04**|null|
 |**2025-06-03**|**FORLA:Federated Object-centric Representation Learning with Slot Attention**|Guiqiu Liao et.al.|[2506.02964v1](http://arxiv.org/abs/2506.02964v1)|**2025-06-03**|null|
 |**2025-06-03**|**SPINN: Advancing Cosmological Simulations of Fuzzy Dark Matter with Physics Informed Neural Networks**|Ashutosh Kumar Mishra et.al.|[2506.02957v1](http://arxiv.org/abs/2506.02957v1)|**2025-06-03**|null|
 |**2025-06-03**|**MIND: Material Interface Generation from UDFs for Non-Manifold Surface Reconstruction**|Xuhui Chen et.al.|[2506.02938v1](http://arxiv.org/abs/2506.02938v1)|**2025-06-03**|null|
@@ -20,7 +20,7 @@
 |**2025-06-03**|**Beam-Gas Interactions in the CERN Proton Synchrotron: Cross Section Measurements and Lifetime Modelling**|E. Waagaard et.al.|[2506.02928v1](http://arxiv.org/abs/2506.02928v1)|**2025-06-03**|null|
 |**2025-06-03**|**Hölder continuous weak solutions of the 3D Boussinesq equation with thermal diffusion**|Zipeng Chen et.al.|[2506.02927v1](http://arxiv.org/abs/2506.02927v1)|**2025-06-03**|null|
 |**2025-06-03**|**Towards Auto-Annotation from Annotation Guidelines: A Benchmark through 3D LiDAR Detection**|Yechi Ma et.al.|[2506.02914v1](http://arxiv.org/abs/2506.02914v1)|**2025-06-03**|null|
-|**2025-06-03**|**FlySearch: Exploring how vision-language models explore**|Adam Pardyl et.al.|[2506.02896v1](http://arxiv.org/abs/2506.02896v1)|**2025-06-03**|null|
+|**2025-06-03**|**FlySearch: Exploring how vision-language models explore**|Adam Pardyl et.al.|[2506.02896v2](http://arxiv.org/abs/2506.02896v2)|**2025-06-04**|null|
 |**2025-06-03**|**VolTex: Food Volume Estimation using Text-Guided Segmentation and Neural Surface Reconstruction**|Ahmad AlMughrabi et.al.|[2506.02895v1](http://arxiv.org/abs/2506.02895v1)|**2025-06-03**|null|
 |**2025-06-03**|**Stellar Magnetic Storm Induced Magnetospheric Polarity Reversals: Distinguishing between Unmagnetised and Magnetised Exoplanets**|Sakshi Gupta et.al.|[2506.02886v1](http://arxiv.org/abs/2506.02886v1)|**2025-06-03**|null|
 |**2025-06-03**|**NTIRE 2025 XGC Quality Assessment Challenge: Methods and Results**|Xiaohong Liu et.al.|[2506.02875v1](http://arxiv.org/abs/2506.02875v1)|**2025-06-03**|null|

@@ -22,7 +22,7 @@
 |**2025-06-03**|**SG2VID: Scene Graphs Enable Fine-Grained Control for Video Synthesis**|Ssharvien Kumar Sivakumar et.al.|[2506.03082v1](http://arxiv.org/abs/2506.03082v1)|**2025-06-03**|null|
 |**2025-06-03**|**A structure-preserving and thermodynamically compatible cell-centered Lagrangian finite volume scheme for continuum mechanics**|Walter Boscheri et.al.|[2506.03081v1](http://arxiv.org/abs/2506.03081v1)|**2025-06-03**|null|
 |**2025-06-03**|**StreamBP: Memory-Efficient Exact Backpropagation for Long Sequence Training of LLMs**|Qijun Luo et.al.|[2506.03077v1](http://arxiv.org/abs/2506.03077v1)|**2025-06-03**|null|
-|**2025-06-03**|**GL-LowPopArt: A Nearly Instance-Wise Minimax Estimator for Generalized Low-Rank Trace Regression**|Junghyun Lee et.al.|[2506.03074v1](http://arxiv.org/abs/2506.03074v1)|**2025-06-03**|null|
+|**2025-06-03**|**GL-LowPopArt: A Nearly Instance-Wise Minimax-Optimal Estimator for Generalized Low-Rank Trace Regression**|Junghyun Lee et.al.|[2506.03074v2](http://arxiv.org/abs/2506.03074v2)|**2025-06-04**|null|
 |**2025-06-03**|**LEG-SLAM: Real-Time Language-Enhanced Gaussian Splatting for SLAM**|Roman Titkov et.al.|[2506.03073v1](http://arxiv.org/abs/2506.03073v1)|**2025-06-03**|null|
 |**2025-06-03**|**The Close AGN Reference Survey (CARS). Long-term spectral variability study of the changing look AGN Mrk 1018**|T. Saha et.al.|[2506.03061v1](http://arxiv.org/abs/2506.03061v1)|**2025-06-03**|null|
 |**2025-06-03**|**Corrigibility as a Singular Target: A Vision for Inherently Reliable Foundation Models**|Ram Potham et.al.|[2506.03056v1](http://arxiv.org/abs/2506.03056v1)|**2025-06-03**|null|

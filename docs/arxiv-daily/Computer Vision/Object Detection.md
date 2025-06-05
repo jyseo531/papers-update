@@ -12,7 +12,7 @@
 |**2025-06-03**|**Explicitly Modeling Subcortical Vision with a Neuro-Inspired Front-End Improves CNN Robustness**|Lucas Piper et.al.|[2506.03089v1](http://arxiv.org/abs/2506.03089v1)|**2025-06-03**|null|
 |**2025-06-03**|**A structure-preserving and thermodynamically compatible cell-centered Lagrangian finite volume scheme for continuum mechanics**|Walter Boscheri et.al.|[2506.03081v1](http://arxiv.org/abs/2506.03081v1)|**2025-06-03**|null|
 |**2025-06-03**|**StreamBP: Memory-Efficient Exact Backpropagation for Long Sequence Training of LLMs**|Qijun Luo et.al.|[2506.03077v1](http://arxiv.org/abs/2506.03077v1)|**2025-06-03**|null|
-|**2025-06-03**|**GL-LowPopArt: A Nearly Instance-Wise Minimax Estimator for Generalized Low-Rank Trace Regression**|Junghyun Lee et.al.|[2506.03074v1](http://arxiv.org/abs/2506.03074v1)|**2025-06-03**|null|
+|**2025-06-03**|**GL-LowPopArt: A Nearly Instance-Wise Minimax-Optimal Estimator for Generalized Low-Rank Trace Regression**|Junghyun Lee et.al.|[2506.03074v2](http://arxiv.org/abs/2506.03074v2)|**2025-06-04**|null|
 |**2025-06-03**|**Corrigibility as a Singular Target: A Vision for Inherently Reliable Foundation Models**|Ram Potham et.al.|[2506.03056v1](http://arxiv.org/abs/2506.03056v1)|**2025-06-03**|null|
 |**2025-06-03**|**On the Benefits of Accelerated Optimization in Robust and Private Estimation**|Laurentiu Andrei Marchis et.al.|[2506.03044v1](http://arxiv.org/abs/2506.03044v1)|**2025-06-03**|null|
 |**2025-06-03**|**Protein Inverse Folding From Structure Feedback**|Junde Xu et.al.|[2506.03028v1](http://arxiv.org/abs/2506.03028v1)|**2025-06-03**|null|

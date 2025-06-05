@@ -5,7 +5,7 @@
 |**2025-06-03**|**IllumiCraft: Unified Geometry and Illumination Diffusion for Controllable Video Generation**|Yuanze Lin et.al.|[2506.03150v1](http://arxiv.org/abs/2506.03150v1)|**2025-06-03**|null|
 |**2025-06-03**|**Causal Estimation of Tokenisation Bias**|Pietro Lesci et.al.|[2506.03149v1](http://arxiv.org/abs/2506.03149v1)|**2025-06-03**|null|
 |**2025-06-03**|**Self-Supervised Spatial Correspondence Across Modalities**|Ayush Shrivastava et.al.|[2506.03148v1](http://arxiv.org/abs/2506.03148v1)|**2025-06-03**|null|
-|**2025-06-03**|**UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation**|Bin Lin et.al.|[2506.03147v1](http://arxiv.org/abs/2506.03147v1)|**2025-06-03**|null|
+|**2025-06-03**|**UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation**|Bin Lin et.al.|[2506.03147v2](http://arxiv.org/abs/2506.03147v2)|**2025-06-04**|null|
 |**2025-06-03**|**MERIT: Multilingual Semantic Retrieval with Interleaved Multi-Condition Query**|Wei Chow et.al.|[2506.03144v1](http://arxiv.org/abs/2506.03144v1)|**2025-06-03**|null|
 |**2025-06-03**|**GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents**|Qianhui Wu et.al.|[2506.03143v1](http://arxiv.org/abs/2506.03143v1)|**2025-06-03**|null|
 |**2025-06-03**|**Not All Tokens Are Meant to Be Forgotten**|Xiangyu Zhou et.al.|[2506.03142v1](http://arxiv.org/abs/2506.03142v1)|**2025-06-03**|null|
@@ -23,7 +23,7 @@
 |**2025-06-03**|**Rectified Flows for Fast Multiscale Fluid Flow Modeling**|Victor Armegioiu et.al.|[2506.03111v1](http://arxiv.org/abs/2506.03111v1)|**2025-06-03**|null|
 |**2025-06-03**|**Revisiting Continuity of Image Tokens for Cross-domain Few-shot Learning**|Shuai Yi et.al.|[2506.03110v1](http://arxiv.org/abs/2506.03110v1)|**2025-06-03**|null|
 |**2025-06-03**|**On Weak-to-Strong Generalization and f-Divergence**|Wei Yao et.al.|[2506.03109v1](http://arxiv.org/abs/2506.03109v1)|**2025-06-03**|null|
-|**2025-06-03**|**Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback**|Xiaoying Zhang et.al.|[2506.03106v1](http://arxiv.org/abs/2506.03106v1)|**2025-06-03**|null|
+|**2025-06-03**|**Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback**|Xiaoying Zhang et.al.|[2506.03106v2](http://arxiv.org/abs/2506.03106v2)|**2025-06-04**|null|
 |**2025-06-03**|**Retrieval-Augmented Generation as Noisy In-Context Learning: A Unified Theory and Risk Bounds**|Yang Guo et.al.|[2506.03100v1](http://arxiv.org/abs/2506.03100v1)|**2025-06-03**|null|
 |**2025-06-03**|**EgoVLM: Policy Optimization for Egocentric Video Understanding**|Ashwin Vinod et.al.|[2506.03097v1](http://arxiv.org/abs/2506.03097v1)|**2025-06-03**|null|
 |**2025-06-03**|**FuseLIP: Multimodal Embeddings via Early Fusion of Discrete Tokens**|Christian Schlarmann et.al.|[2506.03096v1](http://arxiv.org/abs/2506.03096v1)|**2025-06-03**|null|

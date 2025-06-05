@@ -21,7 +21,7 @@
 |**2025-05-29**|**On the Validity of Head Motion Patterns as Generalisable Depression Biomarkers**|Monika Gahalawat et.al.|[2505.23427v1](http://arxiv.org/abs/2505.23427v1)|**2025-05-29**|null|
 |**2025-05-29**|**A Descriptor Is All You Need: Accurate Machine Learning of Nonadiabatic Coupling Vectors**|Jakub Martinka et.al.|[2505.23344v1](http://arxiv.org/abs/2505.23344v1)|**2025-05-29**|[link](https://github.com/jakubmartinka/fulvene-ml-fssh)|
 |**2025-05-29**|**Towards LLM-Empowered Fine-Grained Speech Descriptors for Explainable Emotion Recognition**|Youjun Chen et.al.|[2505.23236v1](http://arxiv.org/abs/2505.23236v1)|**2025-05-29**|null|
-|**2025-05-28**|**ATI: Any Trajectory Instruction for Controllable Video Generation**|Angtian Wang et.al.|[2505.22944v1](http://arxiv.org/abs/2505.22944v1)|**2025-05-28**|null|
+|**2025-05-28**|**ATI: Any Trajectory Instruction for Controllable Video Generation**|Angtian Wang et.al.|[2505.22944v2](http://arxiv.org/abs/2505.22944v2)|**2025-06-03**|null|
 |**2025-05-28**|**MultiFormer: A Multi-Person Pose Estimation System Based on CSI and Attention Mechanism**|Yanyi Qu et.al.|[2505.22555v1](http://arxiv.org/abs/2505.22555v1)|**2025-05-28**|null|
 |**2025-05-28**|**Machine-Learned Potentials for Solvation Modeling**|Roopshree Banchode et.al.|[2505.22402v2](http://arxiv.org/abs/2505.22402v2)|**2025-05-29**|[link](https://github.com/raghurama123/Rev-MLP4Sol)|
 |**2025-05-28**|**TabXEval: Why this is a Bad Table? An eXhaustive Rubric for Table Evaluation**|Vihang Pancholi et.al.|[2505.22176v2](http://arxiv.org/abs/2505.22176v2)|**2025-06-01**|null|

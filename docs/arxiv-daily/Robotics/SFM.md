@@ -28,7 +28,7 @@
 |**2025-06-03**|**A Complete Survey from the $\texttt{CompactObject}$ Perspective on Equation of State Cross-Comparison Using Observational and Nuclear Experimental Constraints**|João Cartaxo et.al.|[2506.03112v1](http://arxiv.org/abs/2506.03112v1)|**2025-06-03**|null|
 |**2025-06-03**|**On Weak-to-Strong Generalization and f-Divergence**|Wei Yao et.al.|[2506.03109v1](http://arxiv.org/abs/2506.03109v1)|**2025-06-03**|null|
 |**2025-06-03**|**ByteMorph: Benchmarking Instruction-Guided Image Editing with Non-Rigid Motions**|Di Chang et.al.|[2506.03107v1](http://arxiv.org/abs/2506.03107v1)|**2025-06-03**|null|
-|**2025-06-03**|**Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback**|Xiaoying Zhang et.al.|[2506.03106v1](http://arxiv.org/abs/2506.03106v1)|**2025-06-03**|null|
+|**2025-06-03**|**Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback**|Xiaoying Zhang et.al.|[2506.03106v2](http://arxiv.org/abs/2506.03106v2)|**2025-06-04**|null|
 |**2025-06-03**|**Two-Phase Treatment with Noncompliance: Identifying the Cumulative Average Treatment Effect via Multisite Instrumental Variables**|Guanglei Hong et.al.|[2506.03104v1](http://arxiv.org/abs/2506.03104v1)|**2025-06-03**|null|
 |**2025-06-03**|**Retrieval-Augmented Generation as Noisy In-Context Learning: A Unified Theory and Risk Bounds**|Yang Guo et.al.|[2506.03100v1](http://arxiv.org/abs/2506.03100v1)|**2025-06-03**|null|
 |**2025-06-03**|**TalkingMachines: Real-Time Audio-Driven FaceTime-Style Video via Autoregressive Diffusion Models**|Chetwin Low et.al.|[2506.03099v1](http://arxiv.org/abs/2506.03099v1)|**2025-06-03**|null|

@@ -25,7 +25,7 @@
 |**2025-06-03**|**Bounded Discrete Bridges**|Pierre Nicodeme et.al.|[2506.02982v1](http://arxiv.org/abs/2506.02982v1)|**2025-06-03**|null|
 |**2025-06-03**|**Non-stationary Bandit Convex Optimization: A Comprehensive Study**|Xiaoqi Liu et.al.|[2506.02980v1](http://arxiv.org/abs/2506.02980v1)|**2025-06-03**|null|
 |**2025-06-03**|**HACo-Det: A Study Towards Fine-Grained Machine-Generated Text Detection under Human-AI Coauthoring**|Zhixiong Su et.al.|[2506.02959v1](http://arxiv.org/abs/2506.02959v1)|**2025-06-03**|null|
-|**2025-06-03**|**A Multi-agent LLM-based JUit Test Generation with Strong Oracles**|Qinghua Xu et.al.|[2506.02943v1](http://arxiv.org/abs/2506.02943v1)|**2025-06-03**|null|
+|**2025-06-03**|**A Multi-agent LLM-based JUnit Test Generation with Strong Oracles**|Qinghua Xu et.al.|[2506.02943v2](http://arxiv.org/abs/2506.02943v2)|**2025-06-04**|null|
 |**2025-06-03**|**QKV Projections Require a Fraction of Their Memory**|Malik Khalaf et.al.|[2506.02939v1](http://arxiv.org/abs/2506.02939v1)|**2025-06-03**|null|
 |**2025-06-03**|**MIND: Material Interface Generation from UDFs for Non-Manifold Surface Reconstruction**|Xuhui Chen et.al.|[2506.02938v1](http://arxiv.org/abs/2506.02938v1)|**2025-06-03**|null|
 |**2025-06-03**|**ThinkTank: A Framework for Generalizing Domain-Specific AI Agent Systems into Universal Collaborative Intelligence Platforms**|Praneet Sai Madhu Surabhi et.al.|[2506.02931v1](http://arxiv.org/abs/2506.02931v1)|**2025-06-03**|null|

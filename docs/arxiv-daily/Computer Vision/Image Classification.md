@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-06-03**|**IllumiCraft: Unified Geometry and Illumination Diffusion for Controllable Video Generation**|Yuanze Lin et.al.|[2506.03150v1](http://arxiv.org/abs/2506.03150v1)|**2025-06-03**|null|
 |**2025-06-03**|**Self-Supervised Spatial Correspondence Across Modalities**|Ayush Shrivastava et.al.|[2506.03148v1](http://arxiv.org/abs/2506.03148v1)|**2025-06-03**|null|
-|**2025-06-03**|**UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation**|Bin Lin et.al.|[2506.03147v1](http://arxiv.org/abs/2506.03147v1)|**2025-06-03**|null|
+|**2025-06-03**|**UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation**|Bin Lin et.al.|[2506.03147v2](http://arxiv.org/abs/2506.03147v2)|**2025-06-04**|null|
 |**2025-06-03**|**Topology meets symmetry breaking: Hidden order, intrinsically gapless topological states and finite-temperature topological transitions**|Reja H. Wilke et.al.|[2506.03146v1](http://arxiv.org/abs/2506.03146v1)|**2025-06-03**|null|
 |**2025-06-03**|**MERIT: Multilingual Semantic Retrieval with Interleaved Multi-Condition Query**|Wei Chow et.al.|[2506.03144v1](http://arxiv.org/abs/2506.03144v1)|**2025-06-03**|null|
 |**2025-06-03**|**CamCloneMaster: Enabling Reference-based Camera Control for Video Generation**|Yawen Luo et.al.|[2506.03140v1](http://arxiv.org/abs/2506.03140v1)|**2025-06-03**|null|

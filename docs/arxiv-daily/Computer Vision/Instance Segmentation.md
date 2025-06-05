@@ -7,7 +7,7 @@
 |**2025-06-03**|**Zero-Shot Tree Detection and Segmentation from Aerial Forest Imagery**|Michelle Chen et.al.|[2506.03114v1](http://arxiv.org/abs/2506.03114v1)|**2025-06-03**|null|
 |**2025-06-03**|**Designing Algorithmic Delegates: The Role of Indistinguishability in Human-AI Handoff**|Sophie Greenwood et.al.|[2506.03102v1](http://arxiv.org/abs/2506.03102v1)|**2025-06-03**|null|
 |**2025-06-03**|**Agnostic Learning under Targeted Poisoning: Optimal Rates and the Role of Randomness**|Bogdan Chornomaz et.al.|[2506.03075v1](http://arxiv.org/abs/2506.03075v1)|**2025-06-03**|null|
-|**2025-06-03**|**GL-LowPopArt: A Nearly Instance-Wise Minimax Estimator for Generalized Low-Rank Trace Regression**|Junghyun Lee et.al.|[2506.03074v1](http://arxiv.org/abs/2506.03074v1)|**2025-06-03**|null|
+|**2025-06-03**|**GL-LowPopArt: A Nearly Instance-Wise Minimax-Optimal Estimator for Generalized Low-Rank Trace Regression**|Junghyun Lee et.al.|[2506.03074v2](http://arxiv.org/abs/2506.03074v2)|**2025-06-04**|null|
 |**2025-06-03**|**EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models**|Mingzhe Li et.al.|[2506.03067v1](http://arxiv.org/abs/2506.03067v1)|**2025-06-03**|null|
 |**2025-06-03**|**Partially Regularized Ordinal Regression to Adjust Teams' Scoring for Strength of Schedule and Complementary Unit Performance in American Football**|Andrey Skripnikov et.al.|[2506.03057v1](http://arxiv.org/abs/2506.03057v1)|**2025-06-03**|null|
 |**2025-06-03**|**InfiniteAudio: Infinite-Length Audio Generation with Consistency**|Chaeyoung Jung et.al.|[2506.03020v1](http://arxiv.org/abs/2506.03020v1)|**2025-06-03**|null|

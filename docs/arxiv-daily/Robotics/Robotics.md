@@ -11,7 +11,7 @@
 |**2025-06-03**|**Online Performance Assessment of Multi-Source-Localization for Autonomous Driving Systems Using Subjective Logic**|Stefan Orf et.al.|[2506.02932v1](http://arxiv.org/abs/2506.02932v1)|**2025-06-03**|null|
 |**2025-06-03**|**Functionality Assessment Framework for Autonomous Driving Systems using Subjective Networks**|Stefan Orf et.al.|[2506.02922v1](http://arxiv.org/abs/2506.02922v1)|**2025-06-03**|null|
 |**2025-06-03**|**Text-guided Generation of Efficient Personalized Inspection Plans**|Xingpeng Sun et.al.|[2506.02917v1](http://arxiv.org/abs/2506.02917v1)|**2025-06-03**|null|
-|**2025-06-03**|**FlySearch: Exploring how vision-language models explore**|Adam Pardyl et.al.|[2506.02896v1](http://arxiv.org/abs/2506.02896v1)|**2025-06-03**|null|
+|**2025-06-03**|**FlySearch: Exploring how vision-language models explore**|Adam Pardyl et.al.|[2506.02896v2](http://arxiv.org/abs/2506.02896v2)|**2025-06-04**|null|
 |**2025-06-03**|**OpenFace 3.0: A Lightweight Multitask System for Comprehensive Facial Behavior Analysis**|Jiewen Hu et.al.|[2506.02891v1](http://arxiv.org/abs/2506.02891v1)|**2025-06-03**|null|
 |**2025-06-03**|**A Continual Offline Reinforcement Learning Benchmark for Navigation Tasks**|Anthony Kobanda et.al.|[2506.02883v1](http://arxiv.org/abs/2506.02883v1)|**2025-06-03**|null|
 |**2025-06-03**|**GaRA-SAM: Robustifying Segment Anything Model with Gated-Rank Adaptation**|Sohyun Lee et.al.|[2506.02882v1](http://arxiv.org/abs/2506.02882v1)|**2025-06-03**|null|

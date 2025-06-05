@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-06-03**|**IllumiCraft: Unified Geometry and Illumination Diffusion for Controllable Video Generation**|Yuanze Lin et.al.|[2506.03150v1](http://arxiv.org/abs/2506.03150v1)|**2025-06-03**|null|
 |**2025-06-03**|**Self-Supervised Spatial Correspondence Across Modalities**|Ayush Shrivastava et.al.|[2506.03148v1](http://arxiv.org/abs/2506.03148v1)|**2025-06-03**|null|
-|**2025-06-03**|**UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation**|Bin Lin et.al.|[2506.03147v1](http://arxiv.org/abs/2506.03147v1)|**2025-06-03**|null|
+|**2025-06-03**|**UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation**|Bin Lin et.al.|[2506.03147v2](http://arxiv.org/abs/2506.03147v2)|**2025-06-04**|null|
 |**2025-06-03**|**MERIT: Multilingual Semantic Retrieval with Interleaved Multi-Condition Query**|Wei Chow et.al.|[2506.03144v1](http://arxiv.org/abs/2506.03144v1)|**2025-06-03**|null|
 |**2025-06-03**|**GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents**|Qianhui Wu et.al.|[2506.03143v1](http://arxiv.org/abs/2506.03143v1)|**2025-06-03**|null|
 |**2025-06-03**|**CamCloneMaster: Enabling Reference-based Camera Control for Video Generation**|Yawen Luo et.al.|[2506.03140v1](http://arxiv.org/abs/2506.03140v1)|**2025-06-03**|null|
@@ -22,7 +22,7 @@
 |**2025-06-03**|**Explicitly Modeling Subcortical Vision with a Neuro-Inspired Front-End Improves CNN Robustness**|Lucas Piper et.al.|[2506.03089v1](http://arxiv.org/abs/2506.03089v1)|**2025-06-03**|null|
 |**2025-06-03**|**A structure-preserving and thermodynamically compatible cell-centered Lagrangian finite volume scheme for continuum mechanics**|Walter Boscheri et.al.|[2506.03081v1](http://arxiv.org/abs/2506.03081v1)|**2025-06-03**|null|
 |**2025-06-03**|**StreamBP: Memory-Efficient Exact Backpropagation for Long Sequence Training of LLMs**|Qijun Luo et.al.|[2506.03077v1](http://arxiv.org/abs/2506.03077v1)|**2025-06-03**|null|
-|**2025-06-03**|**GL-LowPopArt: A Nearly Instance-Wise Minimax Estimator for Generalized Low-Rank Trace Regression**|Junghyun Lee et.al.|[2506.03074v1](http://arxiv.org/abs/2506.03074v1)|**2025-06-03**|null|
+|**2025-06-03**|**GL-LowPopArt: A Nearly Instance-Wise Minimax-Optimal Estimator for Generalized Low-Rank Trace Regression**|Junghyun Lee et.al.|[2506.03074v2](http://arxiv.org/abs/2506.03074v2)|**2025-06-04**|null|
 |**2025-06-03**|**LEG-SLAM: Real-Time Language-Enhanced Gaussian Splatting for SLAM**|Roman Titkov et.al.|[2506.03073v1](http://arxiv.org/abs/2506.03073v1)|**2025-06-03**|null|
 |**2025-06-03**|**EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models**|Mingzhe Li et.al.|[2506.03067v1](http://arxiv.org/abs/2506.03067v1)|**2025-06-03**|null|
 |**2025-06-03**|**Sparse-vDiT: Unleashing the Power of Sparse Attention to Accelerate Video Diffusion Transformers**|Pengtao Chen et.al.|[2506.03065v1](http://arxiv.org/abs/2506.03065v1)|**2025-06-03**|null|
