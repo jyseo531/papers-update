@@ -2,33 +2,33 @@
 ### Instance Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-04**|**Sounding that Object: Interactive Object-Aware Image to Audio Generation**|Tingle Li et.al.|[2506.04214v1](http://arxiv.org/abs/2506.04214v1)|**2025-06-04**|null|
-|**2025-06-04**|**EPiC: Towards Lossless Speedup for Reasoning Training through Edge-Preserving CoT Condensation**|Jinghan Jia et.al.|[2506.04205v1](http://arxiv.org/abs/2506.04205v1)|**2025-06-04**|null|
-|**2025-06-04**|**What Makes Treatment Effects Identifiable? Characterizations and Estimators Beyond Unconfoundedness**|Yang Cai et.al.|[2506.04194v1](http://arxiv.org/abs/2506.04194v1)|**2025-06-04**|null|
-|**2025-06-04**|**Lions and Muons: Optimization via Stochastic Frank-Wolfe**|Maria-Eleni Sfyraki et.al.|[2506.04192v1](http://arxiv.org/abs/2506.04192v1)|**2025-06-04**|null|
-|**2025-06-04**|**Long or short CoT? Investigating Instance-level Switch of Large Reasoning Models**|Ruiqi Zhang et.al.|[2506.04182v1](http://arxiv.org/abs/2506.04182v1)|**2025-06-04**|null|
-|**2025-06-04**|**Synthetic multi-inversion time magnetic resonance images for visualization of subcortical structures**|Savannah P. Hays et.al.|[2506.04173v1](http://arxiv.org/abs/2506.04173v1)|**2025-06-04**|null|
-|**2025-06-04**|**VISCA: Inferring Component Abstractions for Automated End-to-End Testing**|Parsa Alian et.al.|[2506.04161v1](http://arxiv.org/abs/2506.04161v1)|**2025-06-04**|null|
-|**2025-06-04**|**HiFiTTS-2: A Large-Scale High Bandwidth Speech Dataset**|Ryan Langman et.al.|[2506.04152v1](http://arxiv.org/abs/2506.04152v1)|**2025-06-04**|null|
-|**2025-06-04**|**The Line Traveling Salesman and Repairman Problem with Collaboration**|Julian Golak et.al.|[2506.04127v1](http://arxiv.org/abs/2506.04127v1)|**2025-06-04**|null|
-|**2025-06-04**|**A Comprehensive Study on Medical Image Segmentation using Deep Neural Networks**|Loan Dao et.al.|[2506.04121v1](http://arxiv.org/abs/2506.04121v1)|**2025-06-04**|null|
-|**2025-06-04**|**GlobalBuildingAtlas: An Open Global and Complete Dataset of Building Polygons, Heights and LoD1 3D Models**|Xiao Xiang Zhu et.al.|[2506.04106v1](http://arxiv.org/abs/2506.04106v1)|**2025-06-04**|null|
-|**2025-06-04**|**Optimizing Mesh to Improve the Triangular Expansion Algorithm for Computing Visibility Regions**|Jan Mikula et.al.|[2506.04086v2](http://arxiv.org/abs/2506.04086v2)|**2025-06-05**|null|
-|**2025-06-04**|**A Novel Data Augmentation Approach for Automatic Speaking Assessment on Opinion Expressions**|Chung-Chun Wang et.al.|[2506.04077v1](http://arxiv.org/abs/2506.04077v1)|**2025-06-04**|null|
-|**2025-06-04**|**LexTime: A Benchmark for Temporal Ordering of Legal Events**|Claire Barale et.al.|[2506.04041v1](http://arxiv.org/abs/2506.04041v1)|**2025-06-04**|null|
-|**2025-06-04**|**Rex-Thinker: Grounded Object Referring via Chain-of-Thought Reasoning**|Qing Jiang et.al.|[2506.04034v1](http://arxiv.org/abs/2506.04034v1)|**2025-06-04**|null|
-|**2025-06-04**|**Conformal coronary calcification volume estimation with conditional coverage via histogram clustering**|Olivier Jaubert et.al.|[2506.04030v1](http://arxiv.org/abs/2506.04030v1)|**2025-06-04**|null|
-|**2025-06-04**|**CETBench: A Novel Dataset constructed via Transformations over Programs for Benchmarking LLMs for Code-Equivalence Checking**|Neeva Oza et.al.|[2506.04019v1](http://arxiv.org/abs/2506.04019v1)|**2025-06-04**|null|
-|**2025-06-04**|**Vocabulary-free few-shot learning for Vision-Language Models**|Maxime Zanella et.al.|[2506.04005v1](http://arxiv.org/abs/2506.04005v1)|**2025-06-04**|null|
-|**2025-06-04**|**CARL: Causality-guided Architecture Representation Learning for an Interpretable Performance Predictor**|Han Ji et.al.|[2506.04001v1](http://arxiv.org/abs/2506.04001v1)|**2025-06-04**|null|
-|**2025-06-04**|**A Generic Branch-and-Bound Algorithm for $\ell_0$-Penalized Problems with Supplementary Material**|Clément Elvira et.al.|[2506.03974v1](http://arxiv.org/abs/2506.03974v1)|**2025-06-04**|null|
-|**2025-06-04**|**Average Calibration Losses for Reliable Uncertainty in Medical Image Segmentation**|Theodore Barfoot et.al.|[2506.03942v1](http://arxiv.org/abs/2506.03942v1)|**2025-06-04**|null|
-|**2025-06-04**|**Decidability of multiplicative matrix equations and related Diophantine problems**|Sebastian Heintze et.al.|[2506.03932v1](http://arxiv.org/abs/2506.03932v1)|**2025-06-04**|null|
-|**2025-06-04**|**Multi-Language Detection of Design Pattern Instances**|Hugo Andrade et.al.|[2506.03903v2](http://arxiv.org/abs/2506.03903v2)|**2025-06-05**|null|
-|**2025-06-04**|**Register jumps on the clarinet: numerical and in-vitro investigation into basins of attraction and phase-tipping**|Nathan Szwarcberg et.al.|[2506.03875v1](http://arxiv.org/abs/2506.03875v1)|**2025-06-04**|null|
-|**2025-06-04**|**Analysis of Server Throughput For Managed Big Data Analytics Frameworks**|Emmanouil Anagnostakis et.al.|[2506.03854v1](http://arxiv.org/abs/2506.03854v1)|**2025-06-04**|null|
-|**2025-06-04**|**Jumbled Scattered Factors**|Pamela Fleischmann et.al.|[2506.03814v1](http://arxiv.org/abs/2506.03814v1)|**2025-06-04**|null|
-|**2025-06-04**|**Understanding Mental Models of Generative Conversational Search and The Effect of Interface Transparency**|Chadha Degachi et.al.|[2506.03807v1](http://arxiv.org/abs/2506.03807v1)|**2025-06-04**|null|
-|**2025-06-04**|**Learning Equilibria in Matching Games with Bandit Feedback**|Andreas Athanasopoulos et.al.|[2506.03802v1](http://arxiv.org/abs/2506.03802v1)|**2025-06-04**|null|
-|**2025-06-04**|**ConText: Driving In-context Learning for Text Removal and Segmentation**|Fei Zhang et.al.|[2506.03799v1](http://arxiv.org/abs/2506.03799v1)|**2025-06-04**|null|
-|**2025-06-04**|**Act-as-Pet: Benchmarking the Abilities of Large Language Models as E-Pets in Social Network Services**|Hongcheng Guo et.al.|[2506.03761v1](http://arxiv.org/abs/2506.03761v1)|**2025-06-04**|null|
+|**2025-06-05**|**Inference-Time Hyper-Scaling with KV Cache Compression**|Adrian Łańcucki et.al.|[2506.05345v1](http://arxiv.org/abs/2506.05345v1)|**2025-06-05**|null|
+|**2025-06-05**|**Refer to Anything with Vision-Language Prompts**|Shengcao Cao et.al.|[2506.05342v1](http://arxiv.org/abs/2506.05342v1)|**2025-06-05**|null|
+|**2025-06-05**|**Flattery, Fluff, and Fog: Diagnosing and Mitigating Idiosyncratic Biases in Preference Models**|Anirudh Bharadwaj et.al.|[2506.05339v1](http://arxiv.org/abs/2506.05339v1)|**2025-06-05**|null|
+|**2025-06-05**|**Defurnishing with X-Ray Vision: Joint Removal of Furniture from Panoramas and Mesh**|Alan Dolhasz et.al.|[2506.05338v1](http://arxiv.org/abs/2506.05338v1)|**2025-06-05**|null|
+|**2025-06-05**|**VideoMolmo: Spatio-Temporal Grounding Meets Pointing**|Ghazi Shazan Ahmad et.al.|[2506.05336v1](http://arxiv.org/abs/2506.05336v1)|**2025-06-05**|null|
+|**2025-06-05**|**Do It Yourself: Learning Semantic Correspondence from Pseudo-Labels**|Olaf Dünkel et.al.|[2506.05312v1](http://arxiv.org/abs/2506.05312v1)|**2025-06-05**|null|
+|**2025-06-05**|**Perceive Anything: Recognize, Explain, Caption, and Segment Anything in Images and Videos**|Weifeng Lin et.al.|[2506.05302v1](http://arxiv.org/abs/2506.05302v1)|**2025-06-05**|null|
+|**2025-06-05**|**DM-SegNet: Dual-Mamba Architecture for 3D Medical Image Segmentation with Global Context Modeling**|Hangyu Ji et.al.|[2506.05297v1](http://arxiv.org/abs/2506.05297v1)|**2025-06-05**|null|
+|**2025-06-05**|**How to Unlock Time Series Editing? Diffusion-Driven Approach with Multi-Grained Control**|Hao Yu et.al.|[2506.05276v1](http://arxiv.org/abs/2506.05276v1)|**2025-06-05**|null|
+|**2025-06-05**|**From Play to Replay: Composed Video Retrieval for Temporally Fine-Grained Videos**|Animesh Gupta et.al.|[2506.05274v1](http://arxiv.org/abs/2506.05274v1)|**2025-06-05**|null|
+|**2025-06-05**|**On Top-Down Pseudo-Boolean Model Counting**|Suwei Yang et.al.|[2506.05232v1](http://arxiv.org/abs/2506.05232v1)|**2025-06-05**|null|
+|**2025-06-05**|**Diagonal Batching Unlocks Parallelism in Recurrent Memory Transformers for Long Contexts**|Danil Sivtsov et.al.|[2506.05229v1](http://arxiv.org/abs/2506.05229v1)|**2025-06-05**|null|
+|**2025-06-05**|**SAM-aware Test-time Adaptation for Universal Medical Image Segmentation**|Jianghao Wu et.al.|[2506.05221v1](http://arxiv.org/abs/2506.05221v1)|**2025-06-05**|null|
+|**2025-06-05**|**MonkeyOCR: Document Parsing with a Structure-Recognition-Relation Triplet Paradigm**|Zhang Li et.al.|[2506.05218v1](http://arxiv.org/abs/2506.05218v1)|**2025-06-05**|null|
+|**2025-06-05**|**DSG-World: Learning a 3D Gaussian World Model from Dual State Videos**|Wenhao Hu et.al.|[2506.05217v1](http://arxiv.org/abs/2506.05217v1)|**2025-06-05**|null|
+|**2025-06-05**|**RELIC: Evaluating Compositional Instruction Following via Language Recognition**|Jackson Petty et.al.|[2506.05205v1](http://arxiv.org/abs/2506.05205v1)|**2025-06-05**|null|
+|**2025-06-05**|**Overlap Gap and Computational Thresholds in the Square Wave Perceptron**|Marco Benedetti et.al.|[2506.05197v1](http://arxiv.org/abs/2506.05197v1)|**2025-06-05**|null|
+|**2025-06-05**|**Locality Preserving Markovian Transition for Instance Retrieval**|Jifei Luo et.al.|[2506.05196v1](http://arxiv.org/abs/2506.05196v1)|**2025-06-05**|null|
+|**2025-06-05**|**Single GPU Task Adaptation of Pathology Foundation Models for Whole Slide Image Analysis**|Neeraj Kumar et.al.|[2506.05184v1](http://arxiv.org/abs/2506.05184v1)|**2025-06-05**|null|
+|**2025-06-05**|**Track Any Anomalous Object: A Granular Video Anomaly Detection Pipeline**|Yuzhi Huang et.al.|[2506.05175v1](http://arxiv.org/abs/2506.05175v1)|**2025-06-05**|null|
+|**2025-06-05**|**The hyperplane string, RCFTs, and the swampland**|Guglielmo Lockhart et.al.|[2506.05173v1](http://arxiv.org/abs/2506.05173v1)|**2025-06-05**|null|
+|**2025-06-05**|**Through-the-Wall Radar Human Activity Recognition WITHOUT Using Neural Networks**|Weicheng Gao et.al.|[2506.05169v1](http://arxiv.org/abs/2506.05169v1)|**2025-06-05**|null|
+|**2025-06-05**|**PixCell: A generative foundation model for digital histopathology images**|Srikar Yellapragada et.al.|[2506.05127v1](http://arxiv.org/abs/2506.05127v1)|**2025-06-05**|null|
+|**2025-06-05**|**Interpretable Multimodal Framework for Human-Centered Street Assessment: Integrating Visual-Language Models for Perceptual Urban Diagnostics**|HaoTian Lan et.al.|[2506.05087v1](http://arxiv.org/abs/2506.05087v1)|**2025-06-05**|null|
+|**2025-06-05**|**Optimal protocol for collisional Brownian engines**|Gustavo A. L. Forão et.al.|[2506.05078v1](http://arxiv.org/abs/2506.05078v1)|**2025-06-05**|null|
+|**2025-06-05**|**Memory Hierarchy Design for Caching Middleware in the Age of NVM**|Shahram Ghandeharizadeh et.al.|[2506.05071v1](http://arxiv.org/abs/2506.05071v1)|**2025-06-05**|null|
+|**2025-06-05**|**DemoSpeedup: Accelerating Visuomotor Policies via Entropy-Guided Demonstration Acceleration**|Lingxiao Guo et.al.|[2506.05064v1](http://arxiv.org/abs/2506.05064v1)|**2025-06-05**|null|
+|**2025-06-05**|**PulseRide: A Robotic Wheelchair for Personalized Exertion Control with Human-in-the-Loop Reinforcement Learning**|Azizul Zahid et.al.|[2506.05056v1](http://arxiv.org/abs/2506.05056v1)|**2025-06-05**|null|
+|**2025-06-05**|**Point Cloud Segmentation of Agricultural Vehicles using 3D Gaussian Splatting**|Alfred T. Christiansen et.al.|[2506.05009v1](http://arxiv.org/abs/2506.05009v1)|**2025-06-05**|null|
+|**2025-06-05**|**Cautious Optimism: A Meta-Algorithm for Near-Constant Regret in General Games**|Ashkan Soleymani et.al.|[2506.05005v1](http://arxiv.org/abs/2506.05005v1)|**2025-06-05**|null|

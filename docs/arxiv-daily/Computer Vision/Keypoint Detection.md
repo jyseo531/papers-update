@@ -2,6 +2,10 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-05**|**Object-X: Learning to Reconstruct Multi-Modal 3D Object Representations**|Gaia Di Lorenzo et.al.|[2506.04789v1](http://arxiv.org/abs/2506.04789v1)|**2025-06-05**|null|
+|**2025-06-05**|**HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition**|Suhan Woo et.al.|[2506.04764v1](http://arxiv.org/abs/2506.04764v1)|**2025-06-05**|null|
+|**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619v1](http://arxiv.org/abs/2506.04619v1)|**2025-06-05**|null|
+|**2025-06-05**|**LGM-Pose: A Lightweight Global Modeling Network for Real-time Human Pose Estimation**|Biao Guo et.al.|[2506.04561v1](http://arxiv.org/abs/2506.04561v1)|**2025-06-05**|null|
 |**2025-06-04**|**Deep-learned error mitigation via partially knitted circuits for the variational quantum eigensolver**|Simone Cantori et.al.|[2506.04146v1](http://arxiv.org/abs/2506.04146v1)|**2025-06-04**|null|
 |**2025-06-04**|**Beyond Diamond: Interpretable Machine Learning Discovery of Coherent Quantum Defect Hosts in Semiconductors**|Mohammed Mahshook et.al.|[2506.03844v1](http://arxiv.org/abs/2506.03844v1)|**2025-06-04**|null|
 |**2025-06-03**|**Adaptive Exploration in Lenia with Intrinsic Multi-Objective Ranking**|Niko Lorantos et.al.|[2506.02990v1](http://arxiv.org/abs/2506.02990v1)|**2025-06-03**|null|
@@ -28,7 +32,3 @@
 |**2025-05-28**|**Machine-Learned Potentials for Solvation Modeling**|Roopshree Banchode et.al.|[2505.22402v2](http://arxiv.org/abs/2505.22402v2)|**2025-05-29**|[link](https://github.com/raghurama123/Rev-MLP4Sol)|
 |**2025-05-28**|**TabXEval: Why this is a Bad Table? An eXhaustive Rubric for Table Evaluation**|Vihang Pancholi et.al.|[2505.22176v2](http://arxiv.org/abs/2505.22176v2)|**2025-06-01**|null|
 |**2025-05-28**|**Fast Feature Matching of UAV Images via Matrix Band Reduction-based GPU Data Schedule**|San Jiang et.al.|[2505.22089v1](http://arxiv.org/abs/2505.22089v1)|**2025-05-28**|null|
-|**2025-05-27**|**Visual Loop Closure Detection Through Deep Graph Consensus**|Martin Büchner et.al.|[2505.21754v1](http://arxiv.org/abs/2505.21754v1)|**2025-05-27**|null|
-|**2025-05-27**|**Towards Robust Assessment of Pathological Voices via Combined Low-Level Descriptors and Foundation Model Representations**|Whenty Ariyanti et.al.|[2505.21356v3](http://arxiv.org/abs/2505.21356v3)|**2025-05-30**|null|
-|**2025-05-27**|**Distributed Discrete Morse Sandwich: Efficient Computation of Persistence Diagrams for Massive Scalar Data**|Eve Le Guillou et.al.|[2505.21266v1](http://arxiv.org/abs/2505.21266v1)|**2025-05-27**|[link](https://github.com/eve-le-guillou/ddms-example)|
-|**2025-05-27**|**ReassembleNet: Learnable Keypoints and Diffusion for 2D Fresco Reconstruction**|Adeela Islam et.al.|[2505.21117v2](http://arxiv.org/abs/2505.21117v2)|**2025-05-29**|null|

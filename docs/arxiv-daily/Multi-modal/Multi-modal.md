@@ -2,33 +2,33 @@
 ### Multi-modal
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-04**|**OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data Synthesis**|Junting Chen et.al.|[2506.04217v1](http://arxiv.org/abs/2506.04217v1)|**2025-06-04**|null|
-|**2025-06-04**|**UNIC: Unified In-Context Video Editing**|Zixuan Ye et.al.|[2506.04216v1](http://arxiv.org/abs/2506.04216v1)|**2025-06-04**|null|
-|**2025-06-04**|**Sounding that Object: Interactive Object-Aware Image to Audio Generation**|Tingle Li et.al.|[2506.04214v1](http://arxiv.org/abs/2506.04214v1)|**2025-06-04**|null|
-|**2025-06-04**|**MMR-V: What's Left Unsaid? A Benchmark for Multimodal Deep Reasoning in Videos**|Kejian Zhu et.al.|[2506.04141v1](http://arxiv.org/abs/2506.04141v1)|**2025-06-04**|null|
-|**2025-06-04**|**UniCUE: Unified Recognition and Generation Framework for Chinese Cued Speech Video-to-Speech Generation**|Jinting Wang et.al.|[2506.04134v1](http://arxiv.org/abs/2506.04134v1)|**2025-06-04**|null|
-|**2025-06-04**|**Multimodal Tabular Reasoning with Privileged Structured Information**|Jun-Peng Jiang et.al.|[2506.04088v1](http://arxiv.org/abs/2506.04088v1)|**2025-06-04**|null|
-|**2025-06-04**|**A Novel Data Augmentation Approach for Automatic Speaking Assessment on Opinion Expressions**|Chung-Chun Wang et.al.|[2506.04077v1](http://arxiv.org/abs/2506.04077v1)|**2025-06-04**|null|
-|**2025-06-04**|**Mitigating Hallucinations in Large Vision-Language Models via Entity-Centric Multimodal Preference Optimization**|Jiulong Wu et.al.|[2506.04039v1](http://arxiv.org/abs/2506.04039v1)|**2025-06-04**|null|
-|**2025-06-04**|**Seeing What Tastes Good: Revisiting Multimodal Distributional Semantics in the Billion Parameter Era**|Dan Oneata et.al.|[2506.03994v1](http://arxiv.org/abs/2506.03994v1)|**2025-06-04**|null|
-|**2025-06-04**|**HtFLlib: A Comprehensive Heterogeneous Federated Learning Library and Benchmark**|Jianqing Zhang et.al.|[2506.03954v1](http://arxiv.org/abs/2506.03954v1)|**2025-06-04**|null|
-|**2025-06-04**|**Learning equivariant models by discovering symmetries with learnable augmentations**|Eduardo Santos Escriche et.al.|[2506.03914v1](http://arxiv.org/abs/2506.03914v1)|**2025-06-04**|null|
-|**2025-06-04**|**STELLA: Towards Protein Function Prediction with Multimodal LLMs Integrating Sequence-Structure Representations**|Hongwang Xiao et.al.|[2506.03800v1](http://arxiv.org/abs/2506.03800v1)|**2025-06-04**|null|
-|**2025-06-04**|**Spatio-spectral light-by-light moulding in multimode fibre**|Yago Arosa et.al.|[2506.03739v1](http://arxiv.org/abs/2506.03739v1)|**2025-06-04**|null|
-|**2025-06-04**|**AetherVision-Bench: An Open-Vocabulary RGB-Infrared Benchmark for Multi-Angle Segmentation across Aerial and Ground Perspectives**|Aniruddh Sikdar et.al.|[2506.03709v1](http://arxiv.org/abs/2506.03709v1)|**2025-06-04**|null|
-|**2025-06-04**|**Critical transport behavior in quantum dot solids**|Zachary Crawford et.al.|[2506.03676v1](http://arxiv.org/abs/2506.03676v1)|**2025-06-04**|null|
-|**2025-06-04**|**BiXFormer: A Robust Framework for Maximizing Modality Effectiveness in Multi-Modal Semantic Segmentation**|Jialei Chen et.al.|[2506.03675v1](http://arxiv.org/abs/2506.03675v1)|**2025-06-04**|null|
-|**2025-06-04**|**WIFE-Fusion:Wavelet-aware Intra-inter Frequency Enhancement for Multi-model Image Fusion**|Tianpei Zhang et.al.|[2506.03555v1](http://arxiv.org/abs/2506.03555v1)|**2025-06-04**|null|
-|**2025-06-04**|**How Far Are We from Predicting Missing Modalities with Foundation Models?**|Guanzhou Ke et.al.|[2506.03530v1](http://arxiv.org/abs/2506.03530v1)|**2025-06-04**|null|
-|**2025-06-04**|**Time-Domain Excitation of Complex Resonances**|Asaf Farhi et.al.|[2506.03485v1](http://arxiv.org/abs/2506.03485v1)|**2025-06-04**|null|
-|**2025-06-04**|**Heterogeneous Skeleton-Based Action Representation Learning**|Hongsong Wang et.al.|[2506.03481v1](http://arxiv.org/abs/2506.03481v1)|**2025-06-04**|null|
-|**2025-06-04**|**Differentially Private Distribution Release of Gaussian Mixture Models via KL-Divergence Minimization**|Hang Liu et.al.|[2506.03467v1](http://arxiv.org/abs/2506.03467v1)|**2025-06-04**|null|
-|**2025-06-03**|**Geometric Visual Fusion Graph Neural Networks for Multi-Person Human-Object Interaction Recognition in Videos**|Tanqiu Qiao et.al.|[2506.03440v2](http://arxiv.org/abs/2506.03440v2)|**2025-06-05**|null|
-|**2025-06-03**|**Multi-Spectral Gaussian Splatting with Neural Color Representation**|Lukas Meyer et.al.|[2506.03407v1](http://arxiv.org/abs/2506.03407v1)|**2025-06-03**|null|
-|**2025-06-03**|**Cross-Modal Urban Sensing: Evaluating Sound-Vision Alignment Across Street-Level and Aerial Imagery**|Pengyu Chen et.al.|[2506.03388v1](http://arxiv.org/abs/2506.03388v1)|**2025-06-03**|null|
-|**2025-06-03**|**SNIFR : Boosting Fine-Grained Child Harmful Content Detection Through Audio-Visual Alignment with Cascaded Cross-Transformer**|Orchid Chetia Phukan et.al.|[2506.03378v1](http://arxiv.org/abs/2506.03378v1)|**2025-06-03**|null|
-|**2025-06-03**|**Toward Reliable VLM: A Fine-Grained Benchmark and Framework for Exposure, Bias, and Inference in Korean Street Views**|Xiaonan Wang et.al.|[2506.03371v1](http://arxiv.org/abs/2506.03371v1)|**2025-06-03**|null|
-|**2025-06-03**|**Towards Source Attribution of Singing Voice Deepfake with Multimodal Foundation Models**|Orchid Chetia Phukan et.al.|[2506.03364v1](http://arxiv.org/abs/2506.03364v1)|**2025-06-03**|null|
-|**2025-06-03**|**A Multimodal, Multilingual, and Multidimensional Pipeline for Fine-grained Crowdsourcing Earthquake Damage Evaluation**|Zihui Ma et.al.|[2506.03360v1](http://arxiv.org/abs/2506.03360v1)|**2025-06-03**|null|
-|**2025-06-03**|**A three-dimensional energy flux acoustic propagation model**|Mark Langhirt et.al.|[2506.03325v1](http://arxiv.org/abs/2506.03325v1)|**2025-06-03**|null|
-|**2025-06-03**|**Structural Vibration Monitoring with Diffractive Optical Processors**|Yuntian Wang et.al.|[2506.03317v1](http://arxiv.org/abs/2506.03317v1)|**2025-06-03**|null|
+|**2025-06-05**|**VideoMathQA: Benchmarking Mathematical Reasoning via Multimodal Understanding in Videos**|Hanoona Rasheed et.al.|[2506.05349v1](http://arxiv.org/abs/2506.05349v1)|**2025-06-05**|null|
+|**2025-06-05**|**Does Your 3D Encoder Really Work? When Pretrain-SFT from 2D VLMs Meets 3D VLMs**|Haoyuan Li et.al.|[2506.05318v1](http://arxiv.org/abs/2506.05318v1)|**2025-06-05**|null|
+|**2025-06-05**|**Perceive Anything: Recognize, Explain, Caption, and Segment Anything in Images and Videos**|Weifeng Lin et.al.|[2506.05302v1](http://arxiv.org/abs/2506.05302v1)|**2025-06-05**|null|
+|**2025-06-05**|**Quantifying Cross-Modality Memorization in Vision-Language Models**|Yuxin Wen et.al.|[2506.05198v1](http://arxiv.org/abs/2506.05198v1)|**2025-06-05**|null|
+|**2025-06-05**|**MokA: Multimodal Low-Rank Adaptation for MLLMs**|Yake Wei et.al.|[2506.05191v1](http://arxiv.org/abs/2506.05191v1)|**2025-06-05**|null|
+|**2025-06-05**|**On the Comprehensibility of Multi-structured Financial Documents using LLMs and Pre-processing Tools**|Shivani Upadhyay et.al.|[2506.05182v1](http://arxiv.org/abs/2506.05182v1)|**2025-06-05**|null|
+|**2025-06-05**|**Towards the target and not beyond: 2d vs 3d visual aids in mr-based neurosurgical simulation**|Pasquale Cascarano et.al.|[2506.05164v1](http://arxiv.org/abs/2506.05164v1)|**2025-06-05**|null|
+|**2025-06-05**|**The NTNU System at the S&I Challenge 2025 SLA Open Track**|Hong-Yun Lin et.al.|[2506.05121v1](http://arxiv.org/abs/2506.05121v1)|**2025-06-05**|null|
+|**2025-06-05**|**Rethinking Contrastive Learning in Session-based Recommendation**|Xiaokun Zhang et.al.|[2506.05044v1](http://arxiv.org/abs/2506.05044v1)|**2025-06-05**|null|
+|**2025-06-05**|**FinMultiTime: A Four-Modal Bilingual Dataset for Financial Time-Series Analysis**|Wenyan Xu et.al.|[2506.05019v1](http://arxiv.org/abs/2506.05019v1)|**2025-06-05**|null|
+|**2025-06-05**|**Nonlinear elastodynamic material identification of heterogeneous isogeometric Bernoulli-Euler beams**|Bartłomiej Łazorczyk et.al.|[2506.04960v1](http://arxiv.org/abs/2506.04960v1)|**2025-06-05**|null|
+|**2025-06-05**|**APVR: Hour-Level Long Video Understanding with Adaptive Pivot Visual Information Retrieval**|Hong Gao et.al.|[2506.04953v1](http://arxiv.org/abs/2506.04953v1)|**2025-06-05**|null|
+|**2025-06-05**|**Aligning Multimodal Representations through an Information Bottleneck**|Antonio Almudévar et.al.|[2506.04870v1](http://arxiv.org/abs/2506.04870v1)|**2025-06-05**|null|
+|**2025-06-05**|**Object-X: Learning to Reconstruct Multi-Modal 3D Object Representations**|Gaia Di Lorenzo et.al.|[2506.04789v1](http://arxiv.org/abs/2506.04789v1)|**2025-06-05**|null|
+|**2025-06-05**|**Towards LLM-Centric Multimodal Fusion: A Survey on Integration Strategies and Techniques**|Jisu An et.al.|[2506.04788v1](http://arxiv.org/abs/2506.04788v1)|**2025-06-05**|null|
+|**2025-06-05**|**Truth in the Few: High-Value Data Selection for Efficient Multi-Modal Reasoning**|Shenshen Li et.al.|[2506.04755v1](http://arxiv.org/abs/2506.04755v1)|**2025-06-05**|null|
+|**2025-06-05**|**SRD: Reinforcement-Learned Semantic Perturbation for Backdoor Defense in VLMs**|Shuhan Xu et.al.|[2506.04743v1](http://arxiv.org/abs/2506.04743v1)|**2025-06-05**|null|
+|**2025-06-05**|**Towards Holistic Visual Quality Assessment of AI-Generated Videos: A LLM-Based Multi-Dimensional Evaluation Model**|Zelu Qi et.al.|[2506.04715v1](http://arxiv.org/abs/2506.04715v1)|**2025-06-05**|null|
+|**2025-06-05**|**Line of Sight: On Linear Representations in VLLMs**|Achyuta Rajaram et.al.|[2506.04706v1](http://arxiv.org/abs/2506.04706v1)|**2025-06-05**|null|
+|**2025-06-05**|**FedAPM: Federated Learning via ADMM with Partial Model Personalization**|Shengkun Zhu et.al.|[2506.04672v1](http://arxiv.org/abs/2506.04672v1)|**2025-06-05**|null|
+|**2025-06-05**|**Neural Network Reprogrammability: A Unified Theme on Model Reprogramming, Prompt Tuning, and Prompt Instruction**|Zesheng Ye et.al.|[2506.04650v1](http://arxiv.org/abs/2506.04650v1)|**2025-06-05**|null|
+|**2025-06-05**|**ViCocktail: Automated Multi-Modal Data Collection for Vietnamese Audio-Visual Speech Recognition**|Thai-Binh Nguyen et.al.|[2506.04635v1](http://arxiv.org/abs/2506.04635v1)|**2025-06-05**|null|
+|**2025-06-05**|**Hierarchical-Task-Aware Multi-modal Mixture of Incremental LoRA Experts for Embodied Continual Learning**|Ziqi Jia et.al.|[2506.04595v1](http://arxiv.org/abs/2506.04595v1)|**2025-06-05**|null|
+|**2025-06-05**|**MuSciClaims: Multimodal Scientific Claim Verification**|Yash Kumar Lal et.al.|[2506.04585v1](http://arxiv.org/abs/2506.04585v1)|**2025-06-05**|null|
+|**2025-06-05**|**A Novel Transformer-Based Method for Full Lower-Limb Joint Angles and Moments Prediction in Gait Using sEMG and IMU data**|Farshad Haghgoo Daryakenari et.al.|[2506.04577v1](http://arxiv.org/abs/2506.04577v1)|**2025-06-05**|null|
+|**2025-06-05**|**Perceptual Decoupling for Scalable Multi-modal Reasoning via Reward-Optimized Captioning**|Yunhao Gou et.al.|[2506.04559v1](http://arxiv.org/abs/2506.04559v1)|**2025-06-05**|null|
+|**2025-06-04**|**The Latent Space Hypothesis: Toward Universal Medical Representation Learning**|Salil Patel et.al.|[2506.04515v1](http://arxiv.org/abs/2506.04515v1)|**2025-06-04**|null|
+|**2025-06-04**|**Multiscale guidance of AlphaFold3 with heterogeneous cryo-EM data**|Rishwanth Raghu et.al.|[2506.04490v1](http://arxiv.org/abs/2506.04490v1)|**2025-06-04**|null|
+|**2025-06-04**|**Diffusion Tensor MRI and Spherical-Deconvolution-Based Tractography on an Ultra-Low Field Portable MRI System**|James Gholam et.al.|[2506.04473v1](http://arxiv.org/abs/2506.04473v1)|**2025-06-04**|null|
+|**2025-06-04**|**Domain Adaptation Method and Modality Gap Impact in Audio-Text Models for Prototypical Sound Classification**|Emiliano Acevedo et.al.|[2506.04376v1](http://arxiv.org/abs/2506.04376v1)|**2025-06-04**|null|

@@ -2,33 +2,33 @@
 ### Transformer
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-04**|**LayerFlow: A Unified Model for Layer-aware Video Generation**|Sihui Ji et.al.|[2506.04228v1](http://arxiv.org/abs/2506.04228v1)|**2025-06-04**|null|
-|**2025-06-04**|**FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers**|Xuanhua He et.al.|[2506.04213v2](http://arxiv.org/abs/2506.04213v2)|**2025-06-05**|null|
-|**2025-06-04**|**A fast and memoryless numerical method for solving fractional differential equations**|Nicola Guglielmi et.al.|[2506.04188v1](http://arxiv.org/abs/2506.04188v1)|**2025-06-04**|null|
-|**2025-06-04**|**FlexGS: Train Once, Deploy Everywhere with Many-in-One Flexible 3D Gaussian Splatting**|Hengyu Liu et.al.|[2506.04174v1](http://arxiv.org/abs/2506.04174v1)|**2025-06-04**|null|
-|**2025-06-04**|**VISCA: Inferring Component Abstractions for Automated End-to-End Testing**|Parsa Alian et.al.|[2506.04161v1](http://arxiv.org/abs/2506.04161v1)|**2025-06-04**|null|
-|**2025-06-04**|**Image Editing As Programs with Diffusion Models**|Yujia Hu et.al.|[2506.04158v1](http://arxiv.org/abs/2506.04158v1)|**2025-06-04**|null|
-|**2025-06-04**|**COSMOS-Web: Estimating Physical Parameters of Galaxies Using Self-Organizing Maps**|Fatemeh Abedini et.al.|[2506.04138v1](http://arxiv.org/abs/2506.04138v1)|**2025-06-04**|null|
-|**2025-06-04**|**Atomic scale structure and dynamical properties of (TeO$_2$)$_{1-x}$-(Na$_2$O)$_{x}$ glasses through first-principles modeling and XRD measurements**|Firas Shuaib et.al.|[2506.04137v1](http://arxiv.org/abs/2506.04137v1)|**2025-06-04**|null|
-|**2025-06-04**|**Recent Advances in Medical Image Classification**|Loan Dao et.al.|[2506.04129v1](http://arxiv.org/abs/2506.04129v1)|**2025-06-04**|null|
-|**2025-06-04**|**A Reference Architecture for Gamified Cultural Heritage Applications Leveraging Generative AI and Augmented Reality**|Federico Martusciello et.al.|[2506.04090v1](http://arxiv.org/abs/2506.04090v1)|**2025-06-04**|null|
-|**2025-06-04**|**chemtrain-deploy: A parallel and scalable framework for machine learning potentials in million-atom MD simulations**|Paul Fuchs et.al.|[2506.04055v1](http://arxiv.org/abs/2506.04055v1)|**2025-06-04**|null|
-|**2025-06-04**|**Curse of Slicing: Why Sliced Mutual Information is a Deceptive Measure of Statistical Dependence**|Alexander Semenenko et.al.|[2506.04053v1](http://arxiv.org/abs/2506.04053v1)|**2025-06-04**|null|
-|**2025-06-04**|**COSMOS Web: Morphological quenching and size-mass evolution of brightest group galaxies from z = 3.7**|Ghassem Gozaliasl et.al.|[2506.04031v2](http://arxiv.org/abs/2506.04031v2)|**2025-06-05**|null|
-|**2025-06-04**|**CETBench: A Novel Dataset constructed via Transformations over Programs for Benchmarking LLMs for Code-Equivalence Checking**|Neeva Oza et.al.|[2506.04019v1](http://arxiv.org/abs/2506.04019v1)|**2025-06-04**|null|
-|**2025-06-04**|**Dreaming up scale invariance via inverse renormalization group**|Adam Rançon et.al.|[2506.04016v1](http://arxiv.org/abs/2506.04016v1)|**2025-06-04**|null|
-|**2025-06-04**|**The QTF-Backbone: Proposal for a Nationwide Optical Fibre Backbone in Germany for Quantum Technology and Time and Frequency Metrology**|Klaus Blaum et.al.|[2506.03998v1](http://arxiv.org/abs/2506.03998v1)|**2025-06-04**|null|
-|**2025-06-04**|**Structured Pruning for Diverse Best-of-N Reasoning Optimization**|Hieu Trung Nguyen et.al.|[2506.03978v1](http://arxiv.org/abs/2506.03978v1)|**2025-06-04**|null|
-|**2025-06-04**|**Determination of Effect of the Movement of a Finite, Dip-slip Fault in Viscoelastic Half-space of Fractional Burger Rheology**|Pabita Mahato et.al.|[2506.03977v1](http://arxiv.org/abs/2506.03977v1)|**2025-06-04**|null|
-|**2025-06-04**|**From Spikes to Speech: NeuroVoc -- A Biologically Plausible Vocoder Framework for Auditory Perception and Cochlear Implant Simulation**|Jacob de Nobel et.al.|[2506.03959v1](http://arxiv.org/abs/2506.03959v1)|**2025-06-04**|null|
-|**2025-06-04**|**Block Alpha-Circulant Preconditioners for All-at-Once Diffusion-Based Covariance Operators**|Jemima M. Tabeart et.al.|[2506.03947v2](http://arxiv.org/abs/2506.03947v2)|**2025-06-05**|null|
-|**2025-06-04**|**Uniqueness of phase retrieval from offset linear canonical transform**|Jing Liu et.al.|[2506.03944v1](http://arxiv.org/abs/2506.03944v1)|**2025-06-04**|null|
-|**2025-06-04**|**FPGA-Enabled Machine Learning Applications in Earth Observation: A Systematic Review**|Cédric Léonard et.al.|[2506.03938v1](http://arxiv.org/abs/2506.03938v1)|**2025-06-04**|[link](https://github.com/CedricLeon/Survey_RS-ML-FPGA)|
-|**2025-06-04**|**SVD-Based Graph Fractional Fourier Transform on Directed Graphs and Its Application**|Lu Li et.al.|[2506.03925v1](http://arxiv.org/abs/2506.03925v1)|**2025-06-04**|null|
-|**2025-06-04**|**Learning from Noise: Enhancing DNNs for Event-Based Vision through Controlled Noise Injection**|Marcin Kowalczyk et.al.|[2506.03918v1](http://arxiv.org/abs/2506.03918v1)|**2025-06-04**|null|
-|**2025-06-04**|**A kernel conditional two-sample test**|Pierre-François Massiani et.al.|[2506.03898v1](http://arxiv.org/abs/2506.03898v1)|**2025-06-04**|null|
-|**2025-06-04**|**Pre$^3$: Enabling Deterministic Pushdown Automata for Faster Structured LLM Generation**|Junyi Chen et.al.|[2506.03887v1](http://arxiv.org/abs/2506.03887v1)|**2025-06-04**|null|
-|**2025-06-04**|**Video, How Do Your Tokens Merge?**|Sam Pollard et.al.|[2506.03885v1](http://arxiv.org/abs/2506.03885v1)|**2025-06-04**|null|
-|**2025-06-04**|**RadialRouter: Structured Representation for Efficient and Robust Large Language Models Routing**|Ruihan Jin et.al.|[2506.03880v1](http://arxiv.org/abs/2506.03880v1)|**2025-06-04**|null|
-|**2025-06-04**|**Automated Mechanism to Support Trade Transactions in Smart Contracts with Upgrade and Repair**|Christian Gang Liu et.al.|[2506.03877v1](http://arxiv.org/abs/2506.03877v1)|**2025-06-04**|null|
-|**2025-06-04**|**STAR: Learning Diverse Robot Skill Abstractions through Rotation-Augmented Vector Quantization**|Hao Li et.al.|[2506.03863v1](http://arxiv.org/abs/2506.03863v1)|**2025-06-04**|null|
+|**2025-06-05**|**Inference-Time Hyper-Scaling with KV Cache Compression**|Adrian Łańcucki et.al.|[2506.05345v1](http://arxiv.org/abs/2506.05345v1)|**2025-06-05**|null|
+|**2025-06-05**|**Exploring Diffusion Transformer Designs via Grafting**|Keshigeyan Chandrasegaran et.al.|[2506.05340v1](http://arxiv.org/abs/2506.05340v1)|**2025-06-05**|null|
+|**2025-06-05**|**Revisiting Depth Representations for Feed-Forward 3D Gaussian Splatting**|Duochao Shi et.al.|[2506.05327v1](http://arxiv.org/abs/2506.05327v1)|**2025-06-05**|null|
+|**2025-06-05**|**Generalizable, real-time neural decoding with hybrid state-space models**|Avery Hee-Woon Ryoo et.al.|[2506.05320v1](http://arxiv.org/abs/2506.05320v1)|**2025-06-05**|null|
+|**2025-06-05**|**Landau-Ginzburg Paradigm of Topological Phases**|Yu Zhao et.al.|[2506.05319v1](http://arxiv.org/abs/2506.05319v1)|**2025-06-05**|null|
+|**2025-06-05**|**Perceive Anything: Recognize, Explain, Caption, and Segment Anything in Images and Videos**|Weifeng Lin et.al.|[2506.05302v1](http://arxiv.org/abs/2506.05302v1)|**2025-06-05**|null|
+|**2025-06-05**|**Sample Complexity and Representation Ability of Test-time Scaling Paradigms**|Baihe Huang et.al.|[2506.05295v1](http://arxiv.org/abs/2506.05295v1)|**2025-06-05**|null|
+|**2025-06-05**|**Stable Vision Concept Transformers for Medical Diagnosis**|Lijie Hu et.al.|[2506.05286v1](http://arxiv.org/abs/2506.05286v1)|**2025-06-05**|null|
+|**2025-06-05**|**RaySt3R: Predicting Novel Depth Maps for Zero-Shot Object Completion**|Bardienus P. Duisterhof et.al.|[2506.05285v1](http://arxiv.org/abs/2506.05285v1)|**2025-06-05**|null|
+|**2025-06-05**|**On the Convergence of Gradient Descent on Learning Transformers with Residual Connections**|Zhen Qin et.al.|[2506.05249v1](http://arxiv.org/abs/2506.05249v1)|**2025-06-05**|null|
+|**2025-06-05**|**Robust Moment Identification for Nonlinear PDEs via a Neural ODE Approach**|Shaoxuan Chen et.al.|[2506.05245v1](http://arxiv.org/abs/2506.05245v1)|**2025-06-05**|null|
+|**2025-06-05**|**MesaNet: Sequence Modeling by Locally Optimal Test-Time Training**|Johannes von Oswald et.al.|[2506.05233v1](http://arxiv.org/abs/2506.05233v1)|**2025-06-05**|null|
+|**2025-06-05**|**Diagonal Batching Unlocks Parallelism in Recurrent Memory Transformers for Long Contexts**|Danil Sivtsov et.al.|[2506.05229v1](http://arxiv.org/abs/2506.05229v1)|**2025-06-05**|null|
+|**2025-06-05**|**Improving Low-Resource Morphological Inflection via Self-Supervised Objectives**|Adam Wiemerslage et.al.|[2506.05227v1](http://arxiv.org/abs/2506.05227v1)|**2025-06-05**|null|
+|**2025-06-05**|**SAM-aware Test-time Adaptation for Universal Medical Image Segmentation**|Jianghao Wu et.al.|[2506.05221v1](http://arxiv.org/abs/2506.05221v1)|**2025-06-05**|null|
+|**2025-06-05**|**Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning**|Yue Ma et.al.|[2506.05207v1](http://arxiv.org/abs/2506.05207v1)|**2025-06-05**|null|
+|**2025-06-05**|**Transformers Meet In-Context Learning: A Universal Approximation Theory**|Gen Li et.al.|[2506.05200v1](http://arxiv.org/abs/2506.05200v1)|**2025-06-05**|null|
+|**2025-06-05**|**Counterfactual reasoning: an analysis of in-context emergence**|Moritz Miller et.al.|[2506.05188v1](http://arxiv.org/abs/2506.05188v1)|**2025-06-05**|null|
+|**2025-06-05**|**Single GPU Task Adaptation of Pathology Foundation Models for Whole Slide Image Analysis**|Neeraj Kumar et.al.|[2506.05184v1](http://arxiv.org/abs/2506.05184v1)|**2025-06-05**|null|
+|**2025-06-05**|**Track Any Anomalous Object: A Granular Video Anomaly Detection Pipeline**|Yuzhi Huang et.al.|[2506.05175v1](http://arxiv.org/abs/2506.05175v1)|**2025-06-05**|null|
+|**2025-06-05**|**Information Locality as an Inductive Bias for Neural Language Models**|Taiga Someya et.al.|[2506.05136v1](http://arxiv.org/abs/2506.05136v1)|**2025-06-05**|null|
+|**2025-06-05**|**Statistical microlocal analysis in two-dimensional X-ray CT**|Anuj Abhishek et.al.|[2506.05113v1](http://arxiv.org/abs/2506.05113v1)|**2025-06-05**|null|
+|**2025-06-05**|**Astraea: A GPU-Oriented Token-wise Acceleration Framework for Video Diffusion Transformers**|Haosong Liu et.al.|[2506.05096v1](http://arxiv.org/abs/2506.05096v1)|**2025-06-05**|null|
+|**2025-06-05**|**Learning Balanced Field Summaries of the Large-Scale Structure with the Neural Field Scattering Transform**|Matthew Craigie et.al.|[2506.05090v1](http://arxiv.org/abs/2506.05090v1)|**2025-06-05**|null|
+|**2025-06-05**|**Interpretable Multimodal Framework for Human-Centered Street Assessment: Integrating Visual-Language Models for Perceptual Urban Diagnostics**|HaoTian Lan et.al.|[2506.05087v1](http://arxiv.org/abs/2506.05087v1)|**2025-06-05**|null|
+|**2025-06-05**|**Very high-order accurate finite volume scheme for the streamfunction-vorticity formulation of incompressible fluid flows with polygonal meshes on arbitrary curved boundaries**|Ricardo Costa et.al.|[2506.05081v1](http://arxiv.org/abs/2506.05081v1)|**2025-06-05**|null|
+|**2025-06-05**|**Chiral anomaly in inhomogeneous systems with nontrivial momentum space topology**|Praveen D. Xavier et.al.|[2506.05066v1](http://arxiv.org/abs/2506.05066v1)|**2025-06-05**|null|
+|**2025-06-05**|**TALL -- A Trainable Architecture for Enhancing LLM Performance in Low-Resource Languages**|Moshe Ofer et.al.|[2506.05057v1](http://arxiv.org/abs/2506.05057v1)|**2025-06-05**|null|
+|**2025-06-05**|**The ${}^9$Be photodisintegration cross section within Cluster Effective Field Theory**|Ylenia Capitani et.al.|[2506.05040v1](http://arxiv.org/abs/2506.05040v1)|**2025-06-05**|null|
+|**2025-06-05**|**Quantum simulation of the Hubbard model on a graphene hexagon: Strengths of IQPE and noise constraints**|Mohammad Mirzakhani et.al.|[2506.05031v1](http://arxiv.org/abs/2506.05031v1)|**2025-06-05**|null|

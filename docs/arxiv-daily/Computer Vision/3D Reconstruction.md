@@ -2,33 +2,33 @@
 ### 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-04**|**Object-centric 3D Motion Field for Robot Learning from Human Videos**|Zhao-Heng Yin et.al.|[2506.04227v1](http://arxiv.org/abs/2506.04227v1)|**2025-06-04**|null|
-|**2025-06-04**|**Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**|Tianyu Huang et.al.|[2506.04225v1](http://arxiv.org/abs/2506.04225v1)|**2025-06-04**|null|
-|**2025-06-04**|**Seeing in the Dark: Benchmarking Egocentric 3D Vision with the Oxford Day-and-Night Dataset**|Zirui Wang et.al.|[2506.04224v1](http://arxiv.org/abs/2506.04224v1)|**2025-06-04**|null|
-|**2025-06-04**|**Struct2D: A Perception-Guided Framework for Spatial Reasoning in Large Multimodal Models**|Fangrui Zhu et.al.|[2506.04220v1](http://arxiv.org/abs/2506.04220v1)|**2025-06-04**|null|
-|**2025-06-04**|**Pseudo-Simulation for Autonomous Driving**|Wei Cao et.al.|[2506.04218v1](http://arxiv.org/abs/2506.04218v1)|**2025-06-04**|null|
-|**2025-06-04**|**Studying mirror acceleration via kinetic simulations of relativistic plasma turbulence**|Saikat Das et.al.|[2506.04212v1](http://arxiv.org/abs/2506.04212v1)|**2025-06-04**|null|
-|**2025-06-04**|**FlexGS: Train Once, Deploy Everywhere with Many-in-One Flexible 3D Gaussian Splatting**|Hengyu Liu et.al.|[2506.04174v1](http://arxiv.org/abs/2506.04174v1)|**2025-06-04**|null|
-|**2025-06-04**|**Surgery and statistics in 3d gravity**|Jan de Boer et.al.|[2506.04151v1](http://arxiv.org/abs/2506.04151v1)|**2025-06-04**|null|
-|**2025-06-04**|**Contour Errors: An Ego-Centric Metric for Reliable 3D Multi-Object Tracking**|Sharang Kaul et.al.|[2506.04122v1](http://arxiv.org/abs/2506.04122v1)|**2025-06-04**|null|
-|**2025-06-04**|**Splatting Physical Scenes: End-to-End Real-to-Sim from Imperfect Robot Data**|Ben Moran et.al.|[2506.04120v1](http://arxiv.org/abs/2506.04120v1)|**2025-06-04**|null|
-|**2025-06-04**|**A Diffusion-Driven Temporal Super-Resolution and Spatial Consistency Enhancement Framework for 4D MRI imaging**|Xuanru Zhou et.al.|[2506.04116v1](http://arxiv.org/abs/2506.04116v1)|**2025-06-04**|null|
-|**2025-06-04**|**Multi-view Surface Reconstruction Using Normal and Reflectance Cues**|Robin Bruneau et.al.|[2506.04115v1](http://arxiv.org/abs/2506.04115v1)|**2025-06-04**|null|
-|**2025-06-04**|**GlobalBuildingAtlas: An Open Global and Complete Dataset of Building Polygons, Heights and LoD1 3D Models**|Xiao Xiang Zhu et.al.|[2506.04106v1](http://arxiv.org/abs/2506.04106v1)|**2025-06-04**|null|
-|**2025-06-04**|**Phase Transition of Topological Index driven by Dephasing**|Thomas G. Kiely et.al.|[2506.04102v1](http://arxiv.org/abs/2506.04102v1)|**2025-06-04**|null|
-|**2025-06-04**|**Investigating the HI distribution and kinematics of ESO444-G084 and [KKS2000]23: New insights from the MHONGOOSE survey**|Brenda Namumba et.al.|[2506.04101v1](http://arxiv.org/abs/2506.04101v1)|**2025-06-04**|null|
-|**2025-06-04**|**Point Cloud Quality Assessment Using the Perceptual Clustering Weighted Graph (PCW-Graph) and Attention Fusion Network**|Abdelouahed Laazoufi et.al.|[2506.04081v1](http://arxiv.org/abs/2506.04081v1)|**2025-06-04**|null|
-|**2025-06-04**|**Conformal coronary calcification volume estimation with conditional coverage via histogram clustering**|Olivier Jaubert et.al.|[2506.04030v1](http://arxiv.org/abs/2506.04030v1)|**2025-06-04**|null|
-|**2025-06-04**|**Experimental and simulative study on laser irradiation of 3D-printed micro-structures at intensities relevant for inertial confinement fusion**|M. Cipriani et.al.|[2506.04017v1](http://arxiv.org/abs/2506.04017v1)|**2025-06-04**|null|
-|**2025-06-04**|**Nernst effect and its thickness dependence in superconducting NbN films**|Thomas Bouteiller et.al.|[2506.03975v2](http://arxiv.org/abs/2506.03975v2)|**2025-06-05**|null|
-|**2025-06-04**|**Identifying Alzheimer's Disease Prediction Strategies of Convolutional Neural Network Classifiers using R2* Maps and Spectral Clustering**|Christian Tinauer et.al.|[2506.03890v1](http://arxiv.org/abs/2506.03890v1)|**2025-06-04**|null|
-|**2025-06-04**|**JointSplat: Probabilistic Joint Flow-Depth Optimization for Sparse-View Gaussian Splatting**|Yang Xiao et.al.|[2506.03872v1](http://arxiv.org/abs/2506.03872v1)|**2025-06-04**|null|
-|**2025-06-04**|**Spatiotemporal evolution of UV pulsations and their connection to 3D magnetic reconnection and particle acceleration**|Stefan Purkhart et.al.|[2506.03825v1](http://arxiv.org/abs/2506.03825v1)|**2025-06-04**|null|
-|**2025-06-04**|**Personalized MR-Informed Diffusion Models for 3D PET Image Reconstruction**|George Webber et.al.|[2506.03804v1](http://arxiv.org/abs/2506.03804v1)|**2025-06-04**|null|
-|**2025-06-04**|**3D Holographic Flow Cytometry Measurements of Microalgae: Strategies for Angle Recovery in Complex Rotation Patterns**|Francesca Borrelli et.al.|[2506.03738v1](http://arxiv.org/abs/2506.03738v1)|**2025-06-04**|null|
-|**2025-06-04**|**Enhancing Text Comprehension for Dyslexic Readers: A 3D Semantic Visualization Approach Using Transformer Mode**|Zhengyang Li et.al.|[2506.03731v1](http://arxiv.org/abs/2506.03731v1)|**2025-06-04**|null|
-|**2025-06-04**|**FSHNet: Fully Sparse Hybrid Network for 3D Object Detection**|Shuai Liu et.al.|[2506.03714v1](http://arxiv.org/abs/2506.03714v1)|**2025-06-04**|null|
-|**2025-06-04**|**PlückeRF: A Line-based 3D Representation for Few-view Reconstruction**|Sam Bahrami et.al.|[2506.03713v1](http://arxiv.org/abs/2506.03713v1)|**2025-06-04**|null|
-|**2025-06-04**|**Critical transport behavior in quantum dot solids**|Zachary Crawford et.al.|[2506.03676v1](http://arxiv.org/abs/2506.03676v1)|**2025-06-04**|null|
-|**2025-06-04**|**Accelerating SfM-based Pose Estimation with Dominating Set**|Joji Joseph et.al.|[2506.03667v1](http://arxiv.org/abs/2506.03667v1)|**2025-06-04**|null|
-|**2025-06-04**|**Zero-Shot Temporal Interaction Localization for Egocentric Videos**|Erhang Zhang et.al.|[2506.03662v1](http://arxiv.org/abs/2506.03662v1)|**2025-06-04**|null|
+|**2025-06-05**|**FreeTimeGS: Free Gaussians at Anytime and Anywhere for Dynamic Scene Reconstruction**|Yifan Wang et.al.|[2506.05348v1](http://arxiv.org/abs/2506.05348v1)|**2025-06-05**|null|
+|**2025-06-05**|**Neural Inverse Rendering from Propagating Light**|Anagh Malik et.al.|[2506.05347v1](http://arxiv.org/abs/2506.05347v1)|**2025-06-05**|null|
+|**2025-06-05**|**Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning**|Xingjian Ran et.al.|[2506.05341v1](http://arxiv.org/abs/2506.05341v1)|**2025-06-05**|null|
+|**2025-06-05**|**Revisiting Depth Representations for Feed-Forward 3D Gaussian Splatting**|Duochao Shi et.al.|[2506.05327v1](http://arxiv.org/abs/2506.05327v1)|**2025-06-05**|null|
+|**2025-06-05**|**A 2D-CFT Factory: Critical Lattice Models from Competing Anyon Condensation Processes in SymTO/SymTFT**|Ling-Yan Hung et.al.|[2506.05324v1](http://arxiv.org/abs/2506.05324v1)|**2025-06-05**|null|
+|**2025-06-05**|**Does Your 3D Encoder Really Work? When Pretrain-SFT from 2D VLMs Meets 3D VLMs**|Haoyuan Li et.al.|[2506.05318v1](http://arxiv.org/abs/2506.05318v1)|**2025-06-05**|null|
+|**2025-06-05**|**ProJo4D: Progressive Joint Optimization for Sparse-View Inverse Physics Estimation**|Daniel Rho et.al.|[2506.05317v1](http://arxiv.org/abs/2506.05317v1)|**2025-06-05**|null|
+|**2025-06-05**|**Do It Yourself: Learning Semantic Correspondence from Pseudo-Labels**|Olaf Dünkel et.al.|[2506.05312v1](http://arxiv.org/abs/2506.05312v1)|**2025-06-05**|null|
+|**2025-06-05**|**DM-SegNet: Dual-Mamba Architecture for 3D Medical Image Segmentation with Global Context Modeling**|Hangyu Ji et.al.|[2506.05297v1](http://arxiv.org/abs/2506.05297v1)|**2025-06-05**|null|
+|**2025-06-05**|**RaySt3R: Predicting Novel Depth Maps for Zero-Shot Object Completion**|Bardienus P. Duisterhof et.al.|[2506.05285v1](http://arxiv.org/abs/2506.05285v1)|**2025-06-05**|null|
+|**2025-06-05**|**Video World Models with Long-term Spatial Memory**|Tong Wu et.al.|[2506.05284v1](http://arxiv.org/abs/2506.05284v1)|**2025-06-05**|null|
+|**2025-06-05**|**DSG-World: Learning a 3D Gaussian World Model from Dual State Videos**|Wenhao Hu et.al.|[2506.05217v1](http://arxiv.org/abs/2506.05217v1)|**2025-06-05**|null|
+|**2025-06-05**|**Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning**|Yue Ma et.al.|[2506.05207v1](http://arxiv.org/abs/2506.05207v1)|**2025-06-05**|null|
+|**2025-06-05**|**OGGSplat: Open Gaussian Growing for Generalizable Reconstruction with Expanded Field-of-View**|Yanbo Wang et.al.|[2506.05204v1](http://arxiv.org/abs/2506.05204v1)|**2025-06-05**|[link](https://github.com/Yanbo-23/OGGSplat)|
+|**2025-06-05**|**Grounding Beyond Detection: Enhancing Contextual Understanding in Embodied 3D Grounding**|Yani Zhang et.al.|[2506.05199v1](http://arxiv.org/abs/2506.05199v1)|**2025-06-05**|null|
+|**2025-06-05**|**Adiabatic dynamics in a V-type quantum system by oppositely chirped counterrotating circularly polarized laser pulses**|D. Köhnke et.al.|[2506.05177v1](http://arxiv.org/abs/2506.05177v1)|**2025-06-05**|null|
+|**2025-06-05**|**Towards the target and not beyond: 2d vs 3d visual aids in mr-based neurosurgical simulation**|Pasquale Cascarano et.al.|[2506.05164v1](http://arxiv.org/abs/2506.05164v1)|**2025-06-05**|null|
+|**2025-06-05**|**Coupling 1D stellar evolution with 3D-hydrodynamical simulations on-the-fly III: stellar evolution at different metallicities**|Yixiao Zhou et.al.|[2506.05094v1](http://arxiv.org/abs/2506.05094v1)|**2025-06-05**|null|
+|**2025-06-05**|**Synthetic Dataset Generation for Autonomous Mobile Robots Using 3D Gaussian Splatting for Vision Training**|Aneesh Deogan et.al.|[2506.05092v1](http://arxiv.org/abs/2506.05092v1)|**2025-06-05**|null|
+|**2025-06-05**|**Testing gravity with wide binaries -- 3D velocities and distances of wide binaries from Gaia and HARPS**|R. Saglia et.al.|[2506.05049v1](http://arxiv.org/abs/2506.05049v1)|**2025-06-05**|null|
+|**2025-06-05**|**UAV4D: Dynamic Neural Rendering of Human-Centric UAV Imagery using Gaussian Splatting**|Jaehoon Choi et.al.|[2506.05011v1](http://arxiv.org/abs/2506.05011v1)|**2025-06-05**|null|
+|**2025-06-05**|**Point Cloud Segmentation of Agricultural Vehicles using 3D Gaussian Splatting**|Alfred T. Christiansen et.al.|[2506.05009v1](http://arxiv.org/abs/2506.05009v1)|**2025-06-05**|null|
+|**2025-06-05**|**GEX: Democratizing Dexterity with Fully-Actuated Dexterous Hand and Exoskeleton Glove**|Yunlong Dong et.al.|[2506.04982v1](http://arxiv.org/abs/2506.04982v1)|**2025-06-05**|null|
+|**2025-06-05**|**Bayesian network 3D event reconstruction in the Cygno optical TPC for dark matter direct detection**|Fernando Domingues Amaro et.al.|[2506.04973v1](http://arxiv.org/abs/2506.04973v1)|**2025-06-05**|null|
+|**2025-06-05**|**Nonlinear elastodynamic material identification of heterogeneous isogeometric Bernoulli-Euler beams**|Bartłomiej Łazorczyk et.al.|[2506.04960v1](http://arxiv.org/abs/2506.04960v1)|**2025-06-05**|null|
+|**2025-06-05**|**A Pillbug-Inspired Morphing Mechanism Covered with Sliding Shells**|Jieyu Wang et.al.|[2506.04942v1](http://arxiv.org/abs/2506.04942v1)|**2025-06-05**|null|
+|**2025-06-05**|**ArtVIP: Articulated Digital Assets of Visual Realism, Modular Interaction, and Physical Fidelity for Robot Learning**|Zhao Jin et.al.|[2506.04941v1](http://arxiv.org/abs/2506.04941v1)|**2025-06-05**|null|
+|**2025-06-05**|**Light and 3D: a methodological exploration of digitisation techniques adapted to a selection of objects from the Mus{é}e d'Arch{é}ologie Nationale**|Antoine Laurent et.al.|[2506.04925v1](http://arxiv.org/abs/2506.04925v1)|**2025-06-05**|null|
+|**2025-06-05**|**Generating Synthetic Stereo Datasets using 3D Gaussian Splatting and Expert Knowledge Transfer**|Filip Slezak et.al.|[2506.04908v1](http://arxiv.org/abs/2506.04908v1)|**2025-06-05**|null|
+|**2025-06-05**|**Uncertainty quantification and stability of neural operators for prediction of three-dimensional turbulence**|Xintong Zou et.al.|[2506.04898v1](http://arxiv.org/abs/2506.04898v1)|**2025-06-05**|null|
