@@ -13,7 +13,7 @@
 |**2025-06-04**|**The Line Traveling Salesman and Repairman Problem with Collaboration**|Julian Golak et.al.|[2506.04127v1](http://arxiv.org/abs/2506.04127v1)|**2025-06-04**|null|
 |**2025-06-04**|**A Comprehensive Study on Medical Image Segmentation using Deep Neural Networks**|Loan Dao et.al.|[2506.04121v1](http://arxiv.org/abs/2506.04121v1)|**2025-06-04**|null|
 |**2025-06-04**|**GlobalBuildingAtlas: An Open Global and Complete Dataset of Building Polygons, Heights and LoD1 3D Models**|Xiao Xiang Zhu et.al.|[2506.04106v1](http://arxiv.org/abs/2506.04106v1)|**2025-06-04**|null|
-|**2025-06-04**|**Optimizing Mesh to Improve the Triangular Expansion Algorithm for Computing Visibility Regions**|Jan Mikula et.al.|[2506.04086v1](http://arxiv.org/abs/2506.04086v1)|**2025-06-04**|null|
+|**2025-06-04**|**Optimizing Mesh to Improve the Triangular Expansion Algorithm for Computing Visibility Regions**|Jan Mikula et.al.|[2506.04086v2](http://arxiv.org/abs/2506.04086v2)|**2025-06-05**|null|
 |**2025-06-04**|**A Novel Data Augmentation Approach for Automatic Speaking Assessment on Opinion Expressions**|Chung-Chun Wang et.al.|[2506.04077v1](http://arxiv.org/abs/2506.04077v1)|**2025-06-04**|null|
 |**2025-06-04**|**LexTime: A Benchmark for Temporal Ordering of Legal Events**|Claire Barale et.al.|[2506.04041v1](http://arxiv.org/abs/2506.04041v1)|**2025-06-04**|null|
 |**2025-06-04**|**Rex-Thinker: Grounded Object Referring via Chain-of-Thought Reasoning**|Qing Jiang et.al.|[2506.04034v1](http://arxiv.org/abs/2506.04034v1)|**2025-06-04**|null|
@@ -24,7 +24,7 @@
 |**2025-06-04**|**A Generic Branch-and-Bound Algorithm for $\ell_0$-Penalized Problems with Supplementary Material**|Clément Elvira et.al.|[2506.03974v1](http://arxiv.org/abs/2506.03974v1)|**2025-06-04**|null|
 |**2025-06-04**|**Average Calibration Losses for Reliable Uncertainty in Medical Image Segmentation**|Theodore Barfoot et.al.|[2506.03942v1](http://arxiv.org/abs/2506.03942v1)|**2025-06-04**|null|
 |**2025-06-04**|**Decidability of multiplicative matrix equations and related Diophantine problems**|Sebastian Heintze et.al.|[2506.03932v1](http://arxiv.org/abs/2506.03932v1)|**2025-06-04**|null|
-|**2025-06-04**|**Multi-Language Detection of Design Pattern Instances**|Hugo Andrade et.al.|[2506.03903v1](http://arxiv.org/abs/2506.03903v1)|**2025-06-04**|null|
+|**2025-06-04**|**Multi-Language Detection of Design Pattern Instances**|Hugo Andrade et.al.|[2506.03903v2](http://arxiv.org/abs/2506.03903v2)|**2025-06-05**|null|
 |**2025-06-04**|**Register jumps on the clarinet: numerical and in-vitro investigation into basins of attraction and phase-tipping**|Nathan Szwarcberg et.al.|[2506.03875v1](http://arxiv.org/abs/2506.03875v1)|**2025-06-04**|null|
 |**2025-06-04**|**Analysis of Server Throughput For Managed Big Data Analytics Frameworks**|Emmanouil Anagnostakis et.al.|[2506.03854v1](http://arxiv.org/abs/2506.03854v1)|**2025-06-04**|null|
 |**2025-06-04**|**Jumbled Scattered Factors**|Pamela Fleischmann et.al.|[2506.03814v1](http://arxiv.org/abs/2506.03814v1)|**2025-06-04**|null|

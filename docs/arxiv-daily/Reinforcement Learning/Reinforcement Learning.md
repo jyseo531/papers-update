@@ -21,10 +21,10 @@
 |**2025-06-04**|**Training Cross-Morphology Embodied AI Agents: From Practical Challenges to Theoretical Foundations**|Shaoshan Liu et.al.|[2506.03613v1](http://arxiv.org/abs/2506.03613v1)|**2025-06-04**|null|
 |**2025-06-04**|**Joint Beamforming and Resource Allocation for Delay Optimization in RIS-Assisted OFDM Systems: A DRL Approach**|Yu Ma et.al.|[2506.03586v1](http://arxiv.org/abs/2506.03586v1)|**2025-06-04**|null|
 |**2025-06-04**|**MiMo-VL Technical Report**|Xiaomi LLM-Core Team et.al.|[2506.03569v1](http://arxiv.org/abs/2506.03569v1)|**2025-06-04**|null|
-|**2025-06-04**|**Confidence-Guided Human-AI Collaboration: Reinforcement Learning with Distributional Proxy Value Propagation for Autonomous Driving**|Li Zeqiao et.al.|[2506.03568v1](http://arxiv.org/abs/2506.03568v1)|**2025-06-04**|null|
+|**2025-06-04**|**Confidence-Guided Human-AI Collaboration: Reinforcement Learning with Distributional Proxy Value Propagation for Autonomous Driving**|Li Zeqiao et.al.|[2506.03568v2](http://arxiv.org/abs/2506.03568v2)|**2025-06-05**|null|
 |**2025-06-04**|**Debate, Reflect, and Distill: Multi-Agent Feedback with Tree-Structured Preference Optimization for Efficient Language Model Enhancement**|Xiaofeng Zhou et.al.|[2506.03541v1](http://arxiv.org/abs/2506.03541v1)|**2025-06-04**|null|
-|**2025-06-04**|**Seed-Coder: Let the Code Model Curate Data for Itself**|Yuyu Zhang et.al.|[2506.03524v1](http://arxiv.org/abs/2506.03524v1)|**2025-06-04**|null|
-|**2025-06-04**|**An Efficient Task-Oriented Dialogue Policy: Evolutionary Reinforcement Learning Injected by Elite Individuals**|Yangyang Zhao et.al.|[2506.03519v1](http://arxiv.org/abs/2506.03519v1)|**2025-06-04**|null|
+|**2025-06-04**|**Seed-Coder: Let the Code Model Curate Data for Itself**|ByteDance Seed et.al.|[2506.03524v2](http://arxiv.org/abs/2506.03524v2)|**2025-06-05**|null|
+|**2025-06-04**|**An Efficient Task-Oriented Dialogue Policy: Evolutionary Reinforcement Learning Injected by Elite Individuals**|Yangyang Zhao et.al.|[2506.03519v2](http://arxiv.org/abs/2506.03519v2)|**2025-06-05**|null|
 |**2025-06-04**|**SemNav: A Model-Based Planner for Zero-Shot Object Goal Navigation Using Vision-Foundation Models**|Arnab Debnath et.al.|[2506.03516v1](http://arxiv.org/abs/2506.03516v1)|**2025-06-04**|null|
 |**2025-06-04**|**ProRank: Prompt Warmup via Reinforcement Learning for Small Language Models Reranking**|Xianming Li et.al.|[2506.03487v1](http://arxiv.org/abs/2506.03487v1)|**2025-06-04**|null|
 |**2025-06-04**|**CORE: Constraint-Aware One-Step Reinforcement Learning for Simulation-Guided Neural Network Accelerator Design**|Yifeng Xiao et.al.|[2506.03474v1](http://arxiv.org/abs/2506.03474v1)|**2025-06-04**|null|

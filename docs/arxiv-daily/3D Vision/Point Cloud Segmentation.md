@@ -21,7 +21,7 @@
 |**2025-06-04**|**Carbon-Aware Temporal Data Transfer Scheduling Across Cloud Datacenters**|Elvis Rodrigues et.al.|[2506.04117v1](http://arxiv.org/abs/2506.04117v1)|**2025-06-04**|null|
 |**2025-06-04**|**Phase Transition of Topological Index driven by Dephasing**|Thomas G. Kiely et.al.|[2506.04102v1](http://arxiv.org/abs/2506.04102v1)|**2025-06-04**|null|
 |**2025-06-04**|**Finite-time self-similar implosion of hollow vortices**|Robin Ming Chen et.al.|[2506.04093v1](http://arxiv.org/abs/2506.04093v1)|**2025-06-04**|null|
-|**2025-06-04**|**Optimizing Mesh to Improve the Triangular Expansion Algorithm for Computing Visibility Regions**|Jan Mikula et.al.|[2506.04086v1](http://arxiv.org/abs/2506.04086v1)|**2025-06-04**|null|
+|**2025-06-04**|**Optimizing Mesh to Improve the Triangular Expansion Algorithm for Computing Visibility Regions**|Jan Mikula et.al.|[2506.04086v2](http://arxiv.org/abs/2506.04086v2)|**2025-06-05**|null|
 |**2025-06-04**|**Close points on a modular hyperbola**|Tsz Ho Chan et.al.|[2506.04087v1](http://arxiv.org/abs/2506.04087v1)|**2025-06-04**|null|
 |**2025-06-04**|**Point Cloud Quality Assessment Using the Perceptual Clustering Weighted Graph (PCW-Graph) and Attention Fusion Network**|Abdelouahed Laazoufi et.al.|[2506.04081v1](http://arxiv.org/abs/2506.04081v1)|**2025-06-04**|null|
 |**2025-06-04**|**Probing the sensitivity of CTAO-N LSTs observations at large zenith angles to the multi-TeV gamma-ray emission from the inner 10 parsecs of the Galactic Center**|Shotaro Abe et.al.|[2506.04074v1](http://arxiv.org/abs/2506.04074v1)|**2025-06-04**|null|

@@ -23,7 +23,7 @@
 |**2025-06-04**|**Time-Domain Excitation of Complex Resonances**|Asaf Farhi et.al.|[2506.03485v1](http://arxiv.org/abs/2506.03485v1)|**2025-06-04**|null|
 |**2025-06-04**|**Heterogeneous Skeleton-Based Action Representation Learning**|Hongsong Wang et.al.|[2506.03481v1](http://arxiv.org/abs/2506.03481v1)|**2025-06-04**|null|
 |**2025-06-04**|**Differentially Private Distribution Release of Gaussian Mixture Models via KL-Divergence Minimization**|Hang Liu et.al.|[2506.03467v1](http://arxiv.org/abs/2506.03467v1)|**2025-06-04**|null|
-|**2025-06-03**|**Geometric Visual Fusion Graph Neural Networks for Multi-Person Human-Object Interaction Recognition in Videos**|Tanqiu Qiao et.al.|[2506.03440v1](http://arxiv.org/abs/2506.03440v1)|**2025-06-03**|null|
+|**2025-06-03**|**Geometric Visual Fusion Graph Neural Networks for Multi-Person Human-Object Interaction Recognition in Videos**|Tanqiu Qiao et.al.|[2506.03440v2](http://arxiv.org/abs/2506.03440v2)|**2025-06-05**|null|
 |**2025-06-03**|**Multi-Spectral Gaussian Splatting with Neural Color Representation**|Lukas Meyer et.al.|[2506.03407v1](http://arxiv.org/abs/2506.03407v1)|**2025-06-03**|null|
 |**2025-06-03**|**Cross-Modal Urban Sensing: Evaluating Sound-Vision Alignment Across Street-Level and Aerial Imagery**|Pengyu Chen et.al.|[2506.03388v1](http://arxiv.org/abs/2506.03388v1)|**2025-06-03**|null|
 |**2025-06-03**|**SNIFR : Boosting Fine-Grained Child Harmful Content Detection Through Audio-Visual Alignment with Cascaded Cross-Transformer**|Orchid Chetia Phukan et.al.|[2506.03378v1](http://arxiv.org/abs/2506.03378v1)|**2025-06-03**|null|

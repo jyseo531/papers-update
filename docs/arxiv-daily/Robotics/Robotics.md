@@ -9,10 +9,10 @@
 |**2025-06-04**|**SLAC: Simulation-Pretrained Latent Action Space for Whole-Body Real-World RL**|Jiaheng Hu et.al.|[2506.04147v1](http://arxiv.org/abs/2506.04147v1)|**2025-06-04**|null|
 |**2025-06-04**|**Splatting Physical Scenes: End-to-End Real-to-Sim from Imperfect Robot Data**|Ben Moran et.al.|[2506.04120v1](http://arxiv.org/abs/2506.04120v1)|**2025-06-04**|null|
 |**2025-06-04**|**AmbiK: Dataset of Ambiguous Tasks in Kitchen Environment**|Anastasiia Ivanova et.al.|[2506.04089v1](http://arxiv.org/abs/2506.04089v1)|**2025-06-04**|null|
-|**2025-06-04**|**Optimizing Mesh to Improve the Triangular Expansion Algorithm for Computing Visibility Regions**|Jan Mikula et.al.|[2506.04086v1](http://arxiv.org/abs/2506.04086v1)|**2025-06-04**|null|
+|**2025-06-04**|**Optimizing Mesh to Improve the Triangular Expansion Algorithm for Computing Visibility Regions**|Jan Mikula et.al.|[2506.04086v2](http://arxiv.org/abs/2506.04086v2)|**2025-06-05**|null|
 |**2025-06-04**|**Autonomous Vehicle Lateral Control Using Deep Reinforcement Learning with MPC-PID Demonstration**|Chengdong Wu et.al.|[2506.04040v1](http://arxiv.org/abs/2506.04040v1)|**2025-06-04**|null|
 |**2025-06-04**|**A Bi-Level Optimization Method for Redundant Dual-Arm Minimum Time Problems**|Jonathan Fried et.al.|[2506.03982v1](http://arxiv.org/abs/2506.03982v1)|**2025-06-04**|null|
-|**2025-06-04**|**FLIP: Flowability-Informed Powder Weighing**|Nikola Radulov et.al.|[2506.03896v1](http://arxiv.org/abs/2506.03896v1)|**2025-06-04**|null|
+|**2025-06-04**|**FLIP: Flowability-Informed Powder Weighing**|Nikola Radulov et.al.|[2506.03896v2](http://arxiv.org/abs/2506.03896v2)|**2025-06-05**|null|
 |**2025-06-04**|**STAR: Learning Diverse Robot Skill Abstractions through Rotation-Augmented Vector Quantization**|Hao Li et.al.|[2506.03863v1](http://arxiv.org/abs/2506.03863v1)|**2025-06-04**|null|
 |**2025-06-04**|**Phase-based Nonlinear Model Predictive Control for Humanoid Walking Stabilization with Single and Double Support Time Adjustments**|Kwanwoo Lee et.al.|[2506.03856v1](http://arxiv.org/abs/2506.03856v1)|**2025-06-04**|null|
 |**2025-06-04**|**Designing morphologies of soft medical devices using cooperative neuro coevolution**|Hugo Alcaraz-Herrera et.al.|[2506.03847v1](http://arxiv.org/abs/2506.03847v1)|**2025-06-04**|null|
@@ -29,6 +29,6 @@
 |**2025-06-04**|**Generating 6DoF Object Manipulation Trajectories from Action Description in Egocentric Vision**|Tomoya Yoshida et.al.|[2506.03605v1](http://arxiv.org/abs/2506.03605v1)|**2025-06-04**|null|
 |**2025-06-04**|**SplArt: Articulation Estimation and Part-Level Reconstruction with 3D Gaussian Splatting**|Shengjie Lin et.al.|[2506.03594v1](http://arxiv.org/abs/2506.03594v1)|**2025-06-04**|null|
 |**2025-06-04**|**SwitchVLA: Execution-Aware Task Switching for Vision-Language-Action Models**|Meng Li et.al.|[2506.03574v1](http://arxiv.org/abs/2506.03574v1)|**2025-06-04**|null|
-|**2025-06-04**|**Confidence-Guided Human-AI Collaboration: Reinforcement Learning with Distributional Proxy Value Propagation for Autonomous Driving**|Li Zeqiao et.al.|[2506.03568v1](http://arxiv.org/abs/2506.03568v1)|**2025-06-04**|null|
+|**2025-06-04**|**Confidence-Guided Human-AI Collaboration: Reinforcement Learning with Distributional Proxy Value Propagation for Autonomous Driving**|Li Zeqiao et.al.|[2506.03568v2](http://arxiv.org/abs/2506.03568v2)|**2025-06-05**|null|
 |**2025-06-04**|**From Virtual Agents to Robot Teams: A Multi-Robot Framework Evaluation in High-Stakes Healthcare Context**|Yuanchen Bai et.al.|[2506.03546v1](http://arxiv.org/abs/2506.03546v1)|**2025-06-04**|null|
 |**2025-06-04**|**Robust Position Estimation by Rao-Blackwellized Particle Filter without Integer Ambiguity Resolution in Urban Environments**|Daiki Niimi et.al.|[2506.03537v1](http://arxiv.org/abs/2506.03537v1)|**2025-06-04**|null|

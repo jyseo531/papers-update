@@ -26,8 +26,8 @@
 |**2025-06-04**|**Conformal coronary calcification volume estimation with conditional coverage via histogram clustering**|Olivier Jaubert et.al.|[2506.04030v1](http://arxiv.org/abs/2506.04030v1)|**2025-06-04**|null|
 |**2025-06-04**|**Experimental and simulative study on laser irradiation of 3D-printed micro-structures at intensities relevant for inertial confinement fusion**|M. Cipriani et.al.|[2506.04017v1](http://arxiv.org/abs/2506.04017v1)|**2025-06-04**|null|
 |**2025-06-04**|**Dreaming up scale invariance via inverse renormalization group**|Adam Rançon et.al.|[2506.04016v1](http://arxiv.org/abs/2506.04016v1)|**2025-06-04**|null|
-|**2025-06-04**|**Solving Inverse Problems via Diffusion-Based Priors: An Approximation-Free Ensemble Sampling Approach**|Haoxuan Chen et.al.|[2506.03979v1](http://arxiv.org/abs/2506.03979v1)|**2025-06-04**|null|
-|**2025-06-04**|**Nernst effect and its thickness dependence in superconducting NbN films**|Thomas Bouteiller et.al.|[2506.03975v1](http://arxiv.org/abs/2506.03975v1)|**2025-06-04**|null|
+|**2025-06-04**|**Solving Inverse Problems via Diffusion-Based Priors: An Approximation-Free Ensemble Sampling Approach**|Haoxuan Chen et.al.|[2506.03979v2](http://arxiv.org/abs/2506.03979v2)|**2025-06-05**|null|
+|**2025-06-04**|**Nernst effect and its thickness dependence in superconducting NbN films**|Thomas Bouteiller et.al.|[2506.03975v2](http://arxiv.org/abs/2506.03975v2)|**2025-06-05**|null|
 |**2025-06-04**|**Differentiable Fuzzy Cosmic-Web for Field Level Inference**|P. Rosselló et.al.|[2506.03969v1](http://arxiv.org/abs/2506.03969v1)|**2025-06-04**|null|
 |**2025-06-04**|**Stable recovery of complex dictionary-sparse signals from phaseless measurements**|Lianxing Xia et.al.|[2506.03961v1](http://arxiv.org/abs/2506.03961v1)|**2025-06-04**|null|
 |**2025-06-04**|**From Spikes to Speech: NeuroVoc -- A Biologically Plausible Vocoder Framework for Auditory Perception and Cochlear Implant Simulation**|Jacob de Nobel et.al.|[2506.03959v1](http://arxiv.org/abs/2506.03959v1)|**2025-06-04**|null|

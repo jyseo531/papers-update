@@ -20,7 +20,7 @@
 |**2025-06-04**|**Point Cloud Quality Assessment Using the Perceptual Clustering Weighted Graph (PCW-Graph) and Attention Fusion Network**|Abdelouahed Laazoufi et.al.|[2506.04081v1](http://arxiv.org/abs/2506.04081v1)|**2025-06-04**|null|
 |**2025-06-04**|**Conformal coronary calcification volume estimation with conditional coverage via histogram clustering**|Olivier Jaubert et.al.|[2506.04030v1](http://arxiv.org/abs/2506.04030v1)|**2025-06-04**|null|
 |**2025-06-04**|**Experimental and simulative study on laser irradiation of 3D-printed micro-structures at intensities relevant for inertial confinement fusion**|M. Cipriani et.al.|[2506.04017v1](http://arxiv.org/abs/2506.04017v1)|**2025-06-04**|null|
-|**2025-06-04**|**Nernst effect and its thickness dependence in superconducting NbN films**|Thomas Bouteiller et.al.|[2506.03975v1](http://arxiv.org/abs/2506.03975v1)|**2025-06-04**|null|
+|**2025-06-04**|**Nernst effect and its thickness dependence in superconducting NbN films**|Thomas Bouteiller et.al.|[2506.03975v2](http://arxiv.org/abs/2506.03975v2)|**2025-06-05**|null|
 |**2025-06-04**|**Identifying Alzheimer's Disease Prediction Strategies of Convolutional Neural Network Classifiers using R2* Maps and Spectral Clustering**|Christian Tinauer et.al.|[2506.03890v1](http://arxiv.org/abs/2506.03890v1)|**2025-06-04**|null|
 |**2025-06-04**|**JointSplat: Probabilistic Joint Flow-Depth Optimization for Sparse-View Gaussian Splatting**|Yang Xiao et.al.|[2506.03872v1](http://arxiv.org/abs/2506.03872v1)|**2025-06-04**|null|
 |**2025-06-04**|**Spatiotemporal evolution of UV pulsations and their connection to 3D magnetic reconnection and particle acceleration**|Stefan Purkhart et.al.|[2506.03825v1](http://arxiv.org/abs/2506.03825v1)|**2025-06-04**|null|

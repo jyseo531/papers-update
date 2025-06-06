@@ -11,7 +11,7 @@
 |**2025-06-04**|**Lions and Muons: Optimization via Stochastic Frank-Wolfe**|Maria-Eleni Sfyraki et.al.|[2506.04192v1](http://arxiv.org/abs/2506.04192v1)|**2025-06-04**|null|
 |**2025-06-04**|**A fast and memoryless numerical method for solving fractional differential equations**|Nicola Guglielmi et.al.|[2506.04188v1](http://arxiv.org/abs/2506.04188v1)|**2025-06-04**|null|
 |**2025-06-04**|**SkipGPT: Dynamic Layer Pruning Reinvented with Token Awareness and Module Decoupling**|Anhao Zhao et.al.|[2506.04179v1](http://arxiv.org/abs/2506.04179v1)|**2025-06-04**|null|
-|**2025-06-04**|**OpenThoughts: Data Recipes for Reasoning Models**|Etash Guha et.al.|[2506.04178v1](http://arxiv.org/abs/2506.04178v1)|**2025-06-04**|null|
+|**2025-06-04**|**OpenThoughts: Data Recipes for Reasoning Models**|Etash Guha et.al.|[2506.04178v2](http://arxiv.org/abs/2506.04178v2)|**2025-06-05**|null|
 |**2025-06-04**|**Physics-Constrained Flow Matching: Sampling Generative Models with Hard Constraints**|Utkarsh Utkarsh et.al.|[2506.04171v1](http://arxiv.org/abs/2506.04171v1)|**2025-06-04**|null|
 |**2025-06-04**|**Horizon Reduction Makes RL Scalable**|Seohong Park et.al.|[2506.04168v1](http://arxiv.org/abs/2506.04168v1)|**2025-06-04**|null|
 |**2025-06-04**|**Faster Approx. Top-K: Harnessing the Full Power of Two Stages**|Yashas Samaga et.al.|[2506.04165v1](http://arxiv.org/abs/2506.04165v1)|**2025-06-04**|null|
@@ -24,7 +24,7 @@
 |**2025-06-04**|**Risk and Reward of Transitioning from a National to a Zonal Electricity Market in Great Britain**|Lukas Franken et.al.|[2506.04107v1](http://arxiv.org/abs/2506.04107v1)|**2025-06-04**|null|
 |**2025-06-04**|**Phase Transition of Topological Index driven by Dephasing**|Thomas G. Kiely et.al.|[2506.04102v1](http://arxiv.org/abs/2506.04102v1)|**2025-06-04**|null|
 |**2025-06-04**|**Finite-time self-similar implosion of hollow vortices**|Robin Ming Chen et.al.|[2506.04093v1](http://arxiv.org/abs/2506.04093v1)|**2025-06-04**|null|
-|**2025-06-04**|**Optimizing Mesh to Improve the Triangular Expansion Algorithm for Computing Visibility Regions**|Jan Mikula et.al.|[2506.04086v1](http://arxiv.org/abs/2506.04086v1)|**2025-06-04**|null|
+|**2025-06-04**|**Optimizing Mesh to Improve the Triangular Expansion Algorithm for Computing Visibility Regions**|Jan Mikula et.al.|[2506.04086v2](http://arxiv.org/abs/2506.04086v2)|**2025-06-05**|null|
 |**2025-06-04**|**Close points on a modular hyperbola**|Tsz Ho Chan et.al.|[2506.04087v1](http://arxiv.org/abs/2506.04087v1)|**2025-06-04**|null|
 |**2025-06-04**|**A Unitary Encoder for Surface Codes**|Pei-Kai Tsai et.al.|[2506.04084v1](http://arxiv.org/abs/2506.04084v1)|**2025-06-04**|null|
 |**2025-06-04**|**Point Cloud Quality Assessment Using the Perceptual Clustering Weighted Graph (PCW-Graph) and Attention Fusion Network**|Abdelouahed Laazoufi et.al.|[2506.04081v1](http://arxiv.org/abs/2506.04081v1)|**2025-06-04**|null|
