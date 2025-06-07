@@ -4908,6 +4908,7 @@ Updated on 2025-06-07
 | 9 | Unknown | masakhane/africomet-qe-stlTranslation | UpdatedApr 11 | [Link](https://huggingface.co/masakhane/africomet-qe-stl) |
 | 320k |  | Helsinki-NLP/opus-mt-de-enTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-de-en) |
 | 2 | Unknown | leduckhai/MultiMed-STTranslation | UpdatedApr 10 | [Link](https://huggingface.co/leduckhai/MultiMed-ST) |
+| 3 | Unknown | sarvamai/sarvam-translateTranslation | Updated8 minutes ago | [Link](https://huggingface.co/sarvamai/sarvam-translate) |
 
 ## Unconditional Image Generation
 
