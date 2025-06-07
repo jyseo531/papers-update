@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-06-06
+Updated on 2025-06-07
 
 > Generated from the Hugging Face database.
 
@@ -210,6 +210,7 @@ Updated on 2025-06-06
 | 3 | Unknown | litagin/anime_speaker_embedding_ecapa_tdnn_groupnormAudio | Updatedabout 18 hours ago | [Link](https://huggingface.co/litagin/anime_speaker_embedding_ecapa_tdnn_groupnorm) |
 | 1 | Unknown | prithivMLmods/Common-Voice-Gender-DetectionAudio | Updatedabout 11 hours ago | [Link](https://huggingface.co/prithivMLmods/Common-Voice-Gender-Detection) |
 | 1 | Unknown | SverreNystad/distilhubert-finetuned-gtzanAudio | Updatedabout 3 hours ago | [Link](https://huggingface.co/SverreNystad/distilhubert-finetuned-gtzan) |
+| 1 | Unknown | B4by/voice_clssification_gender_modelAudio | Updatedabout 7 hours ago | [Link](https://huggingface.co/B4by/voice_clssification_gender_model) |
 
 ## Audio-Text-to-Text
 
@@ -1236,6 +1237,8 @@ Updated on 2025-06-06
 | 43 | 1 | edadaltocg/resnet18_cifar100Image | UpdatedFeb 19, 2023 | [Link](https://huggingface.co/edadaltocg/resnet18_cifar100) |
 | 972 | 1 | timm/mobilenetv4_conv_medium | UpdatedJan 21 | [Link](https://huggingface.co/timm/mobilenetv4_conv_medium.e500_r224_in1k) |
 | 176 | 1 | 1aurent/vit_small_patch8_224 | UpdatedNov 26, 2023 | [Link](https://huggingface.co/1aurent/vit_small_patch8_224.lunit_dino) |
+| 56 | 1 | carlosleao/FER-Facial-Expression-RecognitionImage | UpdatedNov 6, 2024 | [Link](https://huggingface.co/carlosleao/FER-Facial-Expression-Recognition) |
+| 28 | 1 | qualcomm/EfficientNet-B4Image | Updated1 day ago | [Link](https://huggingface.co/qualcomm/EfficientNet-B4) |
 | 60.6M |  | Falconsai/nsfw_image_detectionImage | UpdatedDec 6, 2023 | [Link](https://huggingface.co/Falconsai/nsfw_image_detection) |
 | 45.8M |  | microsoft/resnet-50Image | UpdatedFeb 13, 2024 | [Link](https://huggingface.co/microsoft/resnet-50) |
 | 6.01M |  | google/vit-base-patch16-224Image | UpdatedSep 5, 2023 | [Link](https://huggingface.co/google/vit-base-patch16-224) |
@@ -1637,6 +1640,7 @@ Updated on 2025-06-06
 | 856 | 12 | bartowski/google_gemma-3-12b-it-qat-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/bartowski/google_gemma-3-12b-it-qat-GGUF) |
 | 578 | 12 | google/gemma-3-27b-it-qat-q4_0-unquantizedImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/google/gemma-3-27b-it-qat-q4_0-unquantized) |
 | 93 | 12 | meta-llama/Llama-Guard-4-12BImage-Text-to-Text | Updatedabout 19 hours ago | [Link](https://huggingface.co/meta-llama/Llama-Guard-4-12B) |
+| 173 | 12 | microsoft/GUI-Actor-7B-Qwen2-VLImage-Text-to-Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/microsoft/GUI-Actor-7B-Qwen2-VL) |
 | 918 | 11 | mlabonne/gemma-3-27b-it-abliterated-GGUFImage-Text-to-Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-abliterated-GGUF) |
 | 4.38k | 11 | bartowski/mlabonne_gemma-3-27b-it-abliterated-GGUFImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/bartowski/mlabonne_gemma-3-27b-it-abliterated-GGUF) |
 | 862 | 11 | mlabonne/gemma-3-4b-it-abliteratedImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-4b-it-abliterated) |
@@ -1668,6 +1672,7 @@ Updated on 2025-06-06
 | 126 | 9 | scb10x/typhoon-ocr-7bImage-Text-to-Text | Updated25 minutes ago | [Link](https://huggingface.co/scb10x/typhoon-ocr-7b) |
 | 897 | 9 | unsloth/medgemma-27b-text-it-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/unsloth/medgemma-27b-text-it-GGUF) |
 | 648 | 9 | xlangai/Jedi-3B-1080pImage-Text-to-Text | Updated12 days ago | [Link](https://huggingface.co/xlangai/Jedi-3B-1080p) |
+| 31 | 9 | qingy2024/GRMR-V3-G4BImage-Text-to-Text | Updatedabout 22 hours ago | [Link](https://huggingface.co/qingy2024/GRMR-V3-G4B) |
 | 9.71k | 8 | lmstudio-community/gemma-3-27b-it-GGUFImage-Text-to-Text | Updatedabout 18 hours ago | [Link](https://huggingface.co/lmstudio-community/gemma-3-27b-it-GGUF) |
 | 2.95k | 8 | bartowski/google_gemma-3-4b-it-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF) |
 | 725 | 8 | Mungert/gemma-3-4b-it-ggufImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/Mungert/gemma-3-4b-it-gguf) |
@@ -1829,6 +1834,7 @@ Updated on 2025-06-06
 | 378 | 74 | instruction-tuning-sd/cartoonizerImage-to-Image | UpdatedMay 13, 2023 | [Link](https://huggingface.co/instruction-tuning-sd/cartoonizer) |
 | 95 | 65 | rsortino/ColorizeNetImage-to-Image | UpdatedJul 31, 2023 | [Link](https://huggingface.co/rsortino/ColorizeNet) |
 | 5.02k | 54 | lllyasviel/sd-controlnet-scribbleImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-scribble) |
+| 326 | 53 | openai/shap-e-img2imgImage-to-Image | UpdatedJul 20, 2023 | [Link](https://huggingface.co/openai/shap-e-img2img) |
 | 12.4k | 52 | lllyasviel/sd-controlnet-segImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-seg) |
 | 12.3k | 52 | lllyasviel/control_v11f1p_sd15_depthImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11f1p_sd15_depth) |
 | 5.13k | 51 | TencentARC/t2i-adapter-canny-sdxl-1 | UpdatedSep 7, 2023 | [Link](https://huggingface.co/TencentARC/t2i-adapter-canny-sdxl-1.0) |
@@ -1875,6 +1881,7 @@ Updated on 2025-06-06
 | 3 | 2 | VisualCloze/VisualClozePipeline-LoRA-384Image-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/VisualCloze/VisualClozePipeline-LoRA-384) |
 | 371 | 2 | prs-eth/marigold-iid-appearance-v1-1Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-iid-appearance-v1-1) |
 | 163 | 2 | prs-eth/marigold-iid-lighting-v1-1Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-iid-lighting-v1-1) |
+| 10 | 2 | huyai123/Flux | UpdatedJan 24 | [Link](https://huggingface.co/huyai123/Flux.1-dev-Image-Upscaler) |
 | 12 | 1 | Jorgvt/CycleGAN_GTA_REALImage-to-Image | UpdatedJul 11, 2024 | [Link](https://huggingface.co/Jorgvt/CycleGAN_GTA_REAL) |
 | 41 | 1 | Estabousi/MIPHEI-vitImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/Estabousi/MIPHEI-vit) |
 | 1.54M |  | stabilityai/stable-diffusion-xl-refiner-1 | UpdatedSep 25, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0) |
@@ -2121,6 +2128,7 @@ Updated on 2025-06-06
 | 67 | 2 | Remade-AI/360-OrbitImage-to-Video | Updated1 day ago | [Link](https://huggingface.co/Remade-AI/360-Orbit) |
 | 58 | 2 | Remade-AI/Crane_over_the_headImage-to-Video | Updated1 day ago | [Link](https://huggingface.co/Remade-AI/Crane_over_the_head) |
 | 205 | 2 | QuantStack/Phantom-Wan-1 | Updated4 days ago | [Link](https://huggingface.co/QuantStack/Phantom-Wan-1.3B-GGUF) |
+| 70 | 2 | lym00/HunyuanVideo-Avatar-GGUFImage-to-Video | Updatedabout 18 hours ago | [Link](https://huggingface.co/lym00/HunyuanVideo-Avatar-GGUF) |
 | 696 | Unknown | stabilityai/sv3dImage-to-Video | UpdatedJul 10, 2024 | [Link](https://huggingface.co/stabilityai/sv3d) |
 | 1 | Unknown | Latinos/TH3BULLImage-to-Video | UpdatedDec 20, 2023 | [Link](https://huggingface.co/Latinos/TH3BULL) |
 | 11 | Unknown | zyand/animate-anything-v1 | UpdatedDec 22, 2023 | [Link](https://huggingface.co/zyand/animate-anything-v1.02) |
@@ -4265,6 +4273,7 @@ Updated on 2025-06-06
 | 150 | 2 | Remade-AI/Ultra-WideText-to-Video | UpdatedMar 24 | [Link](https://huggingface.co/Remade-AI/Ultra-Wide) |
 | 3 | 2 | strangerzonehf/Hunyuan-t2v-Cartoon-LoRAText-to-Video | Updatedabout 13 hours ago | [Link](https://huggingface.co/strangerzonehf/Hunyuan-t2v-Cartoon-LoRA) |
 | 321 | 2 | lym00/Wan14BT2V_MoviiGen_AccVid_CausVid_MasterModel_GGUFText-to-Video | Updatedabout 9 hours ago | [Link](https://huggingface.co/lym00/Wan14BT2V_MoviiGen_AccVid_CausVid_MasterModel_GGUF) |
+| 321 | 2 | lym00/Wan14BT2VFusionX_fp8_GGUFText-to-Video | Updated10 minutes ago | [Link](https://huggingface.co/lym00/Wan14BT2VFusionX_fp8_GGUF) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 7.59k |  | tencent/HunyuanVideoText-to-Video | UpdatedJan 21 | [Link](https://huggingface.co/tencent/HunyuanVideo) |
@@ -4310,6 +4319,7 @@ Updated on 2025-06-06
 | 2 | Unknown | neph1/1920s_horror_hunyuan_video_loraText-to-Video | UpdatedApr 29 | [Link](https://huggingface.co/neph1/1920s_horror_hunyuan_video_lora) |
 | 11 | Unknown | vrgamedevgirl84/Wan14BT2V_MasterModelText-to-Video | Updatedabout 13 hours ago | [Link](https://huggingface.co/vrgamedevgirl84/Wan14BT2V_MasterModel) |
 | 8 | Unknown | NSFW-API/NSFW_Wan_1 | Updatedabout 21 hours ago | [Link](https://huggingface.co/NSFW-API/NSFW_Wan_1.3b_motion_helper) |
+| 23 | Unknown | vrgamedevgirl84/Wan14BT2VFusioniX_fp8Text-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/vrgamedevgirl84/Wan14BT2VFusioniX_fp8) |
 
 ## Text2Text Generation
 
@@ -4493,6 +4503,7 @@ Updated on 2025-06-06
 | 22 | Unknown | unsloth/Devstral-Small-2505-GGUFText2Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/unsloth/Devstral-Small-2505-GGUF) |
 | 2 | Unknown | matatonic/Devstral-Small-2505-4 | Updatedabout 10 hours ago | [Link](https://huggingface.co/matatonic/Devstral-Small-2505-4.25bpw-exl2) |
 | 2 | Unknown | ctitools/neurocti-qwen3-32b-orion10k-instruct-fb16-r32-lr0 | Updatedabout 17 hours ago | [Link](https://huggingface.co/ctitools/neurocti-qwen3-32b-orion10k-instruct-fb16-r32-lr0.0001-sl8192-e3-v1) |
+| 2 | Unknown | ctitools/neurocti-qwen3-32b-orion10k-instruct-fp16Text2Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/ctitools/neurocti-qwen3-32b-orion10k-instruct-fp16) |
 
 ## Time Series Forecasting
 
@@ -4731,6 +4742,7 @@ Updated on 2025-06-06
 | 16.2k |  | Davlan/xlm-roberta-base-ner-hrlToken | UpdatedAug 14, 2023 | [Link](https://huggingface.co/Davlan/xlm-roberta-base-ner-hrl) |
 | 263 |  | rv2307/electra-small-nerToken | UpdatedMar 25, 2024 | [Link](https://huggingface.co/rv2307/electra-small-ner) |
 | 63.7k |  | aidarmusin/address-ner-ruToken | UpdatedJul 10, 2024 | [Link](https://huggingface.co/aidarmusin/address-ner-ru) |
+| 2 | Unknown | knowledgator/gliner-x-large-v0 | Updatedabout 8 hours ago | [Link](https://huggingface.co/knowledgator/gliner-x-large-v0.5) |
 
 ## Translation
 
@@ -4820,6 +4832,7 @@ Updated on 2025-06-06
 | 544 | 2 | Helsinki-NLP/opus-mt-de-huTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-de-hu) |
 | 28 | 2 | tahrirchi/dilmash-rawTranslation | UpdatedSep 10, 2024 | [Link](https://huggingface.co/tahrirchi/dilmash-raw) |
 | 42 | 2 | quickmt/quickmt-zh-enTranslation | UpdatedFeb 16 | [Link](https://huggingface.co/quickmt/quickmt-zh-en) |
+| 105 | 2 | chi-vi/hirashiba-mt-tiny-zh-vi-onnxTranslation | UpdatedMar 2 | [Link](https://huggingface.co/chi-vi/hirashiba-mt-tiny-zh-vi-onnx) |
 | 652 | 1 | Helsinki-NLP/opus-mt-de-arTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-de-ar) |
 | 108 | 1 | Helsinki-NLP/opus-mt-en-biTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-en-bi) |
 | 144 | 1 | Helsinki-NLP/opus-mt-en-htTranslation | UpdatedAug 16, 2023 | [Link](https://huggingface.co/Helsinki-NLP/opus-mt-en-ht) |
@@ -5137,6 +5150,7 @@ Updated on 2025-06-06
 | 473 | Unknown | tsystems/colqwen2-2b-v1 | Updated19 days ago | [Link](https://huggingface.co/tsystems/colqwen2-2b-v1.0) |
 | 6 | Unknown | nomic-ai/colnomic-embed-multimodal-7bVisual | Updatedabout 11 hours ago | [Link](https://huggingface.co/nomic-ai/colnomic-embed-multimodal-7b) |
 | 4 | Unknown | nomic-ai/nomic-embed-multimodal-7bVisual | Updatedabout 10 hours ago | [Link](https://huggingface.co/nomic-ai/nomic-embed-multimodal-7b) |
+| 2 | Unknown | echo840/MonkeyOCRVisual | Updated3 minutes ago | [Link](https://huggingface.co/echo840/MonkeyOCR) |
 
 ## Visual Question Answering
 

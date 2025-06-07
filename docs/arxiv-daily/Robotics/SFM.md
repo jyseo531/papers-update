@@ -30,5 +30,5 @@
 |**2025-06-05**|**Do It Yourself: Learning Semantic Correspondence from Pseudo-Labels**|Olaf Dünkel et.al.|[2506.05312v1](http://arxiv.org/abs/2506.05312v1)|**2025-06-05**|null|
 |**2025-06-05**|**Heterogeneous response and non-Markovianity in the microrheology of semisolid viscoelastic materials**|T. N. Azevedo et.al.|[2506.05311v1](http://arxiv.org/abs/2506.05311v1)|**2025-06-05**|null|
 |**2025-06-05**|**Learning normalized image densities via dual score matching**|Florentin Guth et.al.|[2506.05310v1](http://arxiv.org/abs/2506.05310v1)|**2025-06-05**|null|
-|**2025-06-05**|**Time to Talk: LLM Agents for Asynchronous Group Communication in Mafia Games**|Niv Eckhaus et.al.|[2506.05309v1](http://arxiv.org/abs/2506.05309v1)|**2025-06-05**|null|
+|**2025-06-05**|**Time to Talk: LLM Agents for Asynchronous Group Communication in Mafia Games**|Niv Eckhaus et.al.|[2506.05309v1](http://arxiv.org/abs/2506.05309v1)|**2025-06-05**|[link](https://github.com/niveck/LLMafia)|
 |**2025-06-05**|**Estimation of Treatment Effects Under Nonstationarity via Truncated Difference-in-Q's**|Ramesh Johari et.al.|[2506.05308v1](http://arxiv.org/abs/2506.05308v1)|**2025-06-05**|null|
