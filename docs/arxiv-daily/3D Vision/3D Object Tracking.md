@@ -1,34 +1,15 @@
+# 3D Object Tracking
 
-### 3D Object Tracking
-|Publish Date|Title|Authors|PDF|Last Updated|Code|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-05**|**Contrastive Flow Matching**|George Stoica et.al.|[2506.05350v1](http://arxiv.org/abs/2506.05350v1)|**2025-06-05**|null|
-|**2025-06-05**|**FreeTimeGS: Free Gaussians at Anytime and Anywhere for Dynamic Scene Reconstruction**|Yifan Wang et.al.|[2506.05348v1](http://arxiv.org/abs/2506.05348v1)|**2025-06-05**|null|
-|**2025-06-05**|**Neural Inverse Rendering from Propagating Light**|Anagh Malik et.al.|[2506.05347v1](http://arxiv.org/abs/2506.05347v1)|**2025-06-05**|null|
-|**2025-06-05**|**Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning**|Xingjian Ran et.al.|[2506.05341v1](http://arxiv.org/abs/2506.05341v1)|**2025-06-05**|null|
-|**2025-06-05**|**VideoMolmo: Spatio-Temporal Grounding Meets Pointing**|Ghazi Shazan Ahmad et.al.|[2506.05336v1](http://arxiv.org/abs/2506.05336v1)|**2025-06-05**|null|
-|**2025-06-05**|**Unleashing Hour-Scale Video Training for Long Video-Language Understanding**|Jingyang Lin et.al.|[2506.05332v1](http://arxiv.org/abs/2506.05332v1)|**2025-06-05**|null|
-|**2025-06-05**|**Revisiting Depth Representations for Feed-Forward 3D Gaussian Splatting**|Duochao Shi et.al.|[2506.05327v1](http://arxiv.org/abs/2506.05327v1)|**2025-06-05**|null|
-|**2025-06-05**|**A 2D-CFT Factory: Critical Lattice Models from Competing Anyon Condensation Processes in SymTO/SymTFT**|Ling-Yan Hung et.al.|[2506.05324v1](http://arxiv.org/abs/2506.05324v1)|**2025-06-05**|null|
-|**2025-06-05**|**Does Your 3D Encoder Really Work? When Pretrain-SFT from 2D VLMs Meets 3D VLMs**|Haoyuan Li et.al.|[2506.05318v1](http://arxiv.org/abs/2506.05318v1)|**2025-06-05**|null|
-|**2025-06-05**|**ProJo4D: Progressive Joint Optimization for Sparse-View Inverse Physics Estimation**|Daniel Rho et.al.|[2506.05317v1](http://arxiv.org/abs/2506.05317v1)|**2025-06-05**|null|
-|**2025-06-05**|**Constrained Entropic Unlearning: A Primal-Dual Framework for Large Language Models**|Taha Entesari et.al.|[2506.05314v1](http://arxiv.org/abs/2506.05314v1)|**2025-06-05**|null|
-|**2025-06-05**|**MARBLE: Material Recomposition and Blending in CLIP-Space**|Ta-Ying Cheng et.al.|[2506.05313v1](http://arxiv.org/abs/2506.05313v1)|**2025-06-05**|null|
-|**2025-06-05**|**Do It Yourself: Learning Semantic Correspondence from Pseudo-Labels**|Olaf Dünkel et.al.|[2506.05312v1](http://arxiv.org/abs/2506.05312v1)|**2025-06-05**|null|
-|**2025-06-05**|**Learning normalized image densities via dual score matching**|Florentin Guth et.al.|[2506.05310v1](http://arxiv.org/abs/2506.05310v1)|**2025-06-05**|null|
-|**2025-06-05**|**Perceive Anything: Recognize, Explain, Caption, and Segment Anything in Images and Videos**|Weifeng Lin et.al.|[2506.05302v1](http://arxiv.org/abs/2506.05302v1)|**2025-06-05**|null|
-|**2025-06-05**|**DM-SegNet: Dual-Mamba Architecture for 3D Medical Image Segmentation with Global Context Modeling**|Hangyu Ji et.al.|[2506.05297v1](http://arxiv.org/abs/2506.05297v1)|**2025-06-05**|null|
-|**2025-06-05**|**Big Bird: Privacy Budget Management for W3C's Privacy-Preserving Attribution API**|Pierre Tholoniat et.al.|[2506.05290v1](http://arxiv.org/abs/2506.05290v1)|**2025-06-05**|null|
-|**2025-06-05**|**EOC-Bench: Can MLLMs Identify, Recall, and Forecast Objects in an Egocentric World?**|Yuqian Yuan et.al.|[2506.05287v1](http://arxiv.org/abs/2506.05287v1)|**2025-06-05**|null|
-|**2025-06-05**|**RaySt3R: Predicting Novel Depth Maps for Zero-Shot Object Completion**|Bardienus P. Duisterhof et.al.|[2506.05285v1](http://arxiv.org/abs/2506.05285v1)|**2025-06-05**|null|
-|**2025-06-05**|**Video World Models with Long-term Spatial Memory**|Tong Wu et.al.|[2506.05284v1](http://arxiv.org/abs/2506.05284v1)|**2025-06-05**|null|
-|**2025-06-05**|**Rectified Point Flow: Generic Point Cloud Pose Estimation**|Tao Sun et.al.|[2506.05282v1](http://arxiv.org/abs/2506.05282v1)|**2025-06-05**|null|
-|**2025-06-05**|**Teaming in the AI Era: AI-Augmented Frameworks for Forming, Simulating, and Optimizing Human Teams**|Mohammed Almutairi et.al.|[2506.05265v1](http://arxiv.org/abs/2506.05265v1)|**2025-06-05**|null|
-|**2025-06-05**|**Just Enough Thinking: Efficient Reasoning with Adaptive Length Penalties Reinforcement Learning**|Violet Xiang et.al.|[2506.05256v1](http://arxiv.org/abs/2506.05256v1)|**2025-06-05**|null|
-|**2025-06-05**|**Cooperation and the Design of Public Goods**|J. Carlos Martínez Mori et.al.|[2506.05251v1](http://arxiv.org/abs/2506.05251v1)|**2025-06-05**|null|
-|**2025-06-05**|**Spatiotemporal Contrastive Learning for Cross-View Video Localization in Unstructured Off-road Terrains**|Zhiyun Deng et.al.|[2506.05250v1](http://arxiv.org/abs/2506.05250v1)|**2025-06-05**|null|
-|**2025-06-05**|**SECNEURON: Reliable and Flexible Abuse Control in Local LLMs via Hybrid Neuron Encryption**|Zhiqiang Wang et.al.|[2506.05242v1](http://arxiv.org/abs/2506.05242v1)|**2025-06-05**|null|
-|**2025-06-05**|**Aligning Latent Spaces with Flow Priors**|Yizhuo Li et.al.|[2506.05240v1](http://arxiv.org/abs/2506.05240v1)|**2025-06-05**|null|
-|**2025-06-05**|**MesaNet: Sequence Modeling by Locally Optimal Test-Time Training**|Johannes von Oswald et.al.|[2506.05233v1](http://arxiv.org/abs/2506.05233v1)|**2025-06-05**|null|
-|**2025-06-05**|**Improving Low-Resource Morphological Inflection via Self-Supervised Objectives**|Adam Wiemerslage et.al.|[2506.05227v1](http://arxiv.org/abs/2506.05227v1)|**2025-06-05**|null|
-|**2025-06-05**|**SAM-aware Test-time Adaptation for Universal Medical Image Segmentation**|Jianghao Wu et.al.|[2506.05221v1](http://arxiv.org/abs/2506.05221v1)|**2025-06-05**|null|
+| Publish Date | Title | Authors | PDF | Code |
+|-------------|----------------|-------------|------|------|
+|**2025-05-18**|**DIMM: Decoupled Multi-hierarchy Kalman Filter for 3D Object Tracking**|Jirong Zha et.al.|[2505.12340v1](http://arxiv.org/abs/2505.12340v1)|null|
+|**2025-04-25**|**S3MOT: Monocular 3D Object Tracking with Selective State Space Model**|Zhuohao Yan et.al.|[2504.18068v1](http://arxiv.org/abs/2504.18068v1)|null|
+|**2025-04-17**|**Self-Supervised Pre-training with Combined Datasets for 3D Perception in Autonomous Driving**|Shumin Wang et.al.|[2504.12709v1](http://arxiv.org/abs/2504.12709v1)|null|
+|**2025-03-20**|**Dynamic Point Maps: A Versatile Representation for Dynamic 3D Reconstruction**|Edgar Sucar et.al.|[2503.16318v1](http://arxiv.org/abs/2503.16318v1)|null|
+|**2025-03-11**|**TrackOcc: Camera-based 4D Panoptic Occupancy Tracking**|Zhuoguang Chen et.al.|[2503.08471v1](http://arxiv.org/abs/2503.08471v1)|**[link](https://github.com/tsinghua-mars-lab/trackocc)**|
+|**2025-03-06**|**A Modular Pipeline for 3D Object Tracking Using RGB Cameras**|Lars Bredereke et.al.|[2503.04322v1](http://arxiv.org/abs/2503.04322v1)|**[link](https://github.com/larsbredereke/object_tracking)**|
+|**2024-12-03**|**GSOT3D: Towards Generic 3D Single Object Tracking in the Wild**|Yifan Jiao et.al.|[2412.02129v1](http://arxiv.org/abs/2412.02129v1)|**[link](https://github.com/ailovejinx/gsot3d)**|
+|**2024-10-28**|**Evaluating the Robustness of LiDAR Point Cloud Tracking Against Adversarial Attack**|Shengjing Tian et.al.|[2410.20893v2](http://arxiv.org/abs/2410.20893v2)|null|
+|**2024-08-14**|**Panacea+: Panoramic and Controllable Video Generation for Autonomous Driving**|Yuqing Wen et.al.|[2408.07605v1](http://arxiv.org/abs/2408.07605v1)|null|
+|**2024-08-05**|**VoxelTrack: Exploring Voxel Representation for 3D Point Cloud Object Tracking**|Yuxuan Lu et.al.|[2408.02263v1](http://arxiv.org/abs/2408.02263v1)|null|
+
