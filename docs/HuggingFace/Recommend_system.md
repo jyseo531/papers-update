@@ -2748,6 +2748,7 @@ Updated on 2025-06-08
 | 101 | 7 | Menlo/Poseless-3BRobotics | Updated2 days ago | [Link](https://huggingface.co/Menlo/Poseless-3B) |
 | 367 | 6 | rail-berkeley/octo-small-1 | UpdatedMay 21, 2024 | [Link](https://huggingface.co/rail-berkeley/octo-small-1.5) |
 | 52 | 5 | homebrewltd/Poseless-3BRobotics | Updatedabout 5 hours ago | [Link](https://huggingface.co/homebrewltd/Poseless-3B) |
+| 25 | 5 | BAAI/RoboBrain2 | Updated27 minutes ago | [Link](https://huggingface.co/BAAI/RoboBrain2.0-7B) |
 | 9 | 4 | mbreuss/MoDE_PretrainedRobotics | UpdatedDec 19, 2024 | [Link](https://huggingface.co/mbreuss/MoDE_Pretrained) |
 | 29 | 3 | AdamLucek/act_koch_blockRobotics | UpdatedSep 22, 2024 | [Link](https://huggingface.co/AdamLucek/act_koch_block) |
 | 65 | 2 | CogACT/CogACT-LargeRobotics | UpdatedDec 4, 2024 | [Link](https://huggingface.co/CogACT/CogACT-Large) |
