@@ -1,34 +1,15 @@
+# Image Caption
 
-### Image Caption
-|Publish Date|Title|Authors|PDF|Last Updated|Code|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-05**|**VideoMathQA: Benchmarking Mathematical Reasoning via Multimodal Understanding in Videos**|Hanoona Rasheed et.al.|[2506.05349v1](http://arxiv.org/abs/2506.05349v1)|**2025-06-05**|null|
-|**2025-06-05**|**Contrastive Flow Matching**|George Stoica et.al.|[2506.05350v1](http://arxiv.org/abs/2506.05350v1)|**2025-06-05**|null|
-|**2025-06-05**|**ContentV: Efficient Training of Video Generation Models with Limited Compute**|Wenfeng Lin et.al.|[2506.05343v1](http://arxiv.org/abs/2506.05343v1)|**2025-06-05**|null|
-|**2025-06-05**|**Refer to Anything with Vision-Language Prompts**|Shengcao Cao et.al.|[2506.05342v1](http://arxiv.org/abs/2506.05342v1)|**2025-06-05**|null|
-|**2025-06-05**|**Exploring Diffusion Transformer Designs via Grafting**|Keshigeyan Chandrasegaran et.al.|[2506.05340v1](http://arxiv.org/abs/2506.05340v1)|**2025-06-05**|null|
-|**2025-06-05**|**Defurnishing with X-Ray Vision: Joint Removal of Furniture from Panoramas and Mesh**|Alan Dolhasz et.al.|[2506.05338v1](http://arxiv.org/abs/2506.05338v1)|**2025-06-05**|null|
-|**2025-06-05**|**VideoMolmo: Spatio-Temporal Grounding Meets Pointing**|Ghazi Shazan Ahmad et.al.|[2506.05336v1](http://arxiv.org/abs/2506.05336v1)|**2025-06-05**|null|
-|**2025-06-05**|**MINT-CoT: Enabling Interleaved Visual Tokens in Mathematical Chain-of-Thought Reasoning**|Xinyan Chen et.al.|[2506.05331v1](http://arxiv.org/abs/2506.05331v1)|**2025-06-05**|null|
-|**2025-06-05**|**Seeing the Invisible: Machine learning-Based QPI Kernel Extraction via Latent Alignment**|Yingshuai Ji et.al.|[2506.05325v1](http://arxiv.org/abs/2506.05325v1)|**2025-06-05**|null|
-|**2025-06-05**|**Does Your 3D Encoder Really Work? When Pretrain-SFT from 2D VLMs Meets 3D VLMs**|Haoyuan Li et.al.|[2506.05318v1](http://arxiv.org/abs/2506.05318v1)|**2025-06-05**|null|
-|**2025-06-05**|**MARBLE: Material Recomposition and Blending in CLIP-Space**|Ta-Ying Cheng et.al.|[2506.05313v1](http://arxiv.org/abs/2506.05313v1)|**2025-06-05**|null|
-|**2025-06-05**|**Do It Yourself: Learning Semantic Correspondence from Pseudo-Labels**|Olaf Dünkel et.al.|[2506.05312v1](http://arxiv.org/abs/2506.05312v1)|**2025-06-05**|null|
-|**2025-06-05**|**Learning normalized image densities via dual score matching**|Florentin Guth et.al.|[2506.05310v1](http://arxiv.org/abs/2506.05310v1)|**2025-06-05**|null|
-|**2025-06-05**|**Perceive Anything: Recognize, Explain, Caption, and Segment Anything in Images and Videos**|Weifeng Lin et.al.|[2506.05302v1](http://arxiv.org/abs/2506.05302v1)|**2025-06-05**|null|
-|**2025-06-05**|**SeedVR2: One-Step Video Restoration via Diffusion Adversarial Post-Training**|Jianyi Wang et.al.|[2506.05301v1](http://arxiv.org/abs/2506.05301v1)|**2025-06-05**|null|
-|**2025-06-05**|**DM-SegNet: Dual-Mamba Architecture for 3D Medical Image Segmentation with Global Context Modeling**|Hangyu Ji et.al.|[2506.05297v1](http://arxiv.org/abs/2506.05297v1)|**2025-06-05**|null|
-|**2025-06-05**|**AliTok: Towards Sequence Modeling Alignment between Tokenizer and Autoregressive Model**|Pingyu Wu et.al.|[2506.05289v1](http://arxiv.org/abs/2506.05289v1)|**2025-06-05**|null|
-|**2025-06-05**|**Stable Vision Concept Transformers for Medical Diagnosis**|Lijie Hu et.al.|[2506.05286v1](http://arxiv.org/abs/2506.05286v1)|**2025-06-05**|null|
-|**2025-06-05**|**RaySt3R: Predicting Novel Depth Maps for Zero-Shot Object Completion**|Bardienus P. Duisterhof et.al.|[2506.05285v1](http://arxiv.org/abs/2506.05285v1)|**2025-06-05**|null|
-|**2025-06-05**|**Fast-DataShapley: Neural Modeling for Training Data Valuation**|Haifeng Sun et.al.|[2506.05281v1](http://arxiv.org/abs/2506.05281v1)|**2025-06-05**|null|
-|**2025-06-05**|**Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting**|Nan Wang et.al.|[2506.05280v1](http://arxiv.org/abs/2506.05280v1)|**2025-06-05**|null|
-|**2025-06-05**|**From Play to Replay: Composed Video Retrieval for Temporally Fine-Grained Videos**|Animesh Gupta et.al.|[2506.05274v1](http://arxiv.org/abs/2506.05274v1)|**2025-06-05**|null|
-|**2025-06-05**|**Can Foundation Models Generalise the Presentation Attack Detection Capabilities on ID Cards?**|Juan E. Tapia et.al.|[2506.05263v1](http://arxiv.org/abs/2506.05263v1)|**2025-06-05**|null|
-|**2025-06-05**|**Aligning Latent Spaces with Flow Priors**|Yizhuo Li et.al.|[2506.05240v1](http://arxiv.org/abs/2506.05240v1)|**2025-06-05**|null|
-|**2025-06-05**|**SAM-aware Test-time Adaptation for Universal Medical Image Segmentation**|Jianghao Wu et.al.|[2506.05221v1](http://arxiv.org/abs/2506.05221v1)|**2025-06-05**|null|
-|**2025-06-05**|**OGGSplat: Open Gaussian Growing for Generalizable Reconstruction with Expanded Field-of-View**|Yanbo Wang et.al.|[2506.05204v1](http://arxiv.org/abs/2506.05204v1)|**2025-06-05**|[link](https://github.com/Yanbo-23/OGGSplat)|
-|**2025-06-05**|**Quantifying Cross-Modality Memorization in Vision-Language Models**|Yuxin Wen et.al.|[2506.05198v1](http://arxiv.org/abs/2506.05198v1)|**2025-06-05**|null|
-|**2025-06-05**|**Single GPU Task Adaptation of Pathology Foundation Models for Whole Slide Image Analysis**|Neeraj Kumar et.al.|[2506.05184v1](http://arxiv.org/abs/2506.05184v1)|**2025-06-05**|null|
-|**2025-06-05**|**Adiabatic dynamics in a V-type quantum system by oppositely chirped counterrotating circularly polarized laser pulses**|D. Köhnke et.al.|[2506.05177v1](http://arxiv.org/abs/2506.05177v1)|**2025-06-05**|null|
-|**2025-06-05**|**Norming Sets for Tensor and Polynomial Sketching**|Yifan Zhang et.al.|[2506.05174v1](http://arxiv.org/abs/2506.05174v1)|**2025-06-05**|null|
+| Publish Date | Title | Authors | PDF | Code |
+|-------------|----------------|-------------|------|------|
+|**2025-06-05**|**VideoMolmo: Spatio-Temporal Grounding Meets Pointing**|Ghazi Shazan Ahmad et.al.|[2506.05336v1](http://arxiv.org/abs/2506.05336v1)|null|
+|**2025-06-05**|**Perceive Anything: Recognize, Explain, Caption, and Segment Anything in Images and Videos**|Weifeng Lin et.al.|[2506.05302v1](http://arxiv.org/abs/2506.05302v1)|null|
+|**2025-06-05**|**SRD: Reinforcement-Learned Semantic Perturbation for Backdoor Defense in VLMs**|Shuhan Xu et.al.|[2506.04743v1](http://arxiv.org/abs/2506.04743v1)|null|
+|**2025-06-04**|**Analyzing Transformer Models and Knowledge Distillation Approaches for Image Captioning on Edge AI**|Wing Man Casca Kwok et.al.|[2506.03607v1](http://arxiv.org/abs/2506.03607v1)|null|
+|**2025-06-03**|**EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models**|Mingzhe Li et.al.|[2506.03067v1](http://arxiv.org/abs/2506.03067v1)|null|
+|**2025-06-03**|**Go Beyond Earth: Understanding Human Actions and Scenes in Microgravity Environments**|Di Wen et.al.|[2506.02845v2](http://arxiv.org/abs/2506.02845v2)|null|
+|**2025-06-03**|**SingaKids: A Multilingual Multimodal Dialogic Tutor for Language Learning**|Zhengyuan Liu et.al.|[2506.02412v1](http://arxiv.org/abs/2506.02412v1)|null|
+|**2025-06-02**|**VideoCap-R1: Enhancing MLLMs for Video Captioning via Structured Thinking**|Desen Meng et.al.|[2506.01725v1](http://arxiv.org/abs/2506.01725v1)|null|
+|**2025-06-01**|**Keystep Recognition using Graph Neural Networks**|Julia Lee Romero et.al.|[2506.01102v1](http://arxiv.org/abs/2506.01102v1)|null|
+|**2025-06-01**|**SynPO: Synergizing Descriptiveness and Preference Optimization for Video Detailed Captioning**|Jisheng Dang et.al.|[2506.00835v1](http://arxiv.org/abs/2506.00835v1)|null|
+

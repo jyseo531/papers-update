@@ -1,34 +1,15 @@
+# Point Cloud Segmentation
 
-### Point Cloud Segmentation
-|Publish Date|Title|Authors|PDF|Last Updated|Code|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-05**|**Inference-Time Hyper-Scaling with KV Cache Compression**|Adrian Łańcucki et.al.|[2506.05345v1](http://arxiv.org/abs/2506.05345v1)|**2025-06-05**|null|
-|**2025-06-05**|**Neural Inverse Rendering from Propagating Light**|Anagh Malik et.al.|[2506.05347v1](http://arxiv.org/abs/2506.05347v1)|**2025-06-05**|null|
-|**2025-06-05**|**Refer to Anything with Vision-Language Prompts**|Shengcao Cao et.al.|[2506.05342v1](http://arxiv.org/abs/2506.05342v1)|**2025-06-05**|null|
-|**2025-06-05**|**Defurnishing with X-Ray Vision: Joint Removal of Furniture from Panoramas and Mesh**|Alan Dolhasz et.al.|[2506.05338v1](http://arxiv.org/abs/2506.05338v1)|**2025-06-05**|null|
-|**2025-06-05**|**VideoMolmo: Spatio-Temporal Grounding Meets Pointing**|Ghazi Shazan Ahmad et.al.|[2506.05336v1](http://arxiv.org/abs/2506.05336v1)|**2025-06-05**|null|
-|**2025-06-05**|**Kinetics: Rethinking Test-Time Scaling Laws**|Ranajoy Sadhukhan et.al.|[2506.05333v1](http://arxiv.org/abs/2506.05333v1)|**2025-06-05**|null|
-|**2025-06-05**|**Revisiting Depth Representations for Feed-Forward 3D Gaussian Splatting**|Duochao Shi et.al.|[2506.05327v1](http://arxiv.org/abs/2506.05327v1)|**2025-06-05**|null|
-|**2025-06-05**|**A 2D-CFT Factory: Critical Lattice Models from Competing Anyon Condensation Processes in SymTO/SymTFT**|Ling-Yan Hung et.al.|[2506.05324v1](http://arxiv.org/abs/2506.05324v1)|**2025-06-05**|null|
-|**2025-06-05**|**Do It Yourself: Learning Semantic Correspondence from Pseudo-Labels**|Olaf Dünkel et.al.|[2506.05312v1](http://arxiv.org/abs/2506.05312v1)|**2025-06-05**|null|
-|**2025-06-05**|**ProRefine: Inference-time Prompt Refinement with Textual Feedback**|Deepak Pandita et.al.|[2506.05305v1](http://arxiv.org/abs/2506.05305v1)|**2025-06-05**|null|
-|**2025-06-05**|**Perceive Anything: Recognize, Explain, Caption, and Segment Anything in Images and Videos**|Weifeng Lin et.al.|[2506.05302v1](http://arxiv.org/abs/2506.05302v1)|**2025-06-05**|null|
-|**2025-06-05**|**Transient dynamics of associative memory models**|David G. Clark et.al.|[2506.05303v1](http://arxiv.org/abs/2506.05303v1)|**2025-06-05**|null|
-|**2025-06-05**|**DM-SegNet: Dual-Mamba Architecture for 3D Medical Image Segmentation with Global Context Modeling**|Hangyu Ji et.al.|[2506.05297v1](http://arxiv.org/abs/2506.05297v1)|**2025-06-05**|null|
-|**2025-06-05**|**Rectified Point Flow: Generic Point Cloud Pose Estimation**|Tao Sun et.al.|[2506.05282v1](http://arxiv.org/abs/2506.05282v1)|**2025-06-05**|null|
-|**2025-06-05**|**Hydrodynamic noise in one dimension: projected Kubo formula and its vanishing in integrable models**|Benjamin Doyon et.al.|[2506.05279v1](http://arxiv.org/abs/2506.05279v1)|**2025-06-05**|null|
-|**2025-06-05**|**How to Unlock Time Series Editing? Diffusion-Driven Approach with Multi-Grained Control**|Hao Yu et.al.|[2506.05276v1](http://arxiv.org/abs/2506.05276v1)|**2025-06-05**|null|
-|**2025-06-05**|**From Play to Replay: Composed Video Retrieval for Temporally Fine-Grained Videos**|Animesh Gupta et.al.|[2506.05274v1](http://arxiv.org/abs/2506.05274v1)|**2025-06-05**|null|
-|**2025-06-05**|**Uniform Sampling of Surfaces by Casting Rays**|Selena Ling et.al.|[2506.05268v1](http://arxiv.org/abs/2506.05268v1)|**2025-06-05**|null|
-|**2025-06-05**|**On the finite generation of the cohomology of bosonizations**|Nicolás Andruskiewitsch et.al.|[2506.05267v1](http://arxiv.org/abs/2506.05267v1)|**2025-06-05**|null|
-|**2025-06-05**|**Nonlinear projection for ballistic correlation functions: a formula in terms of minimal connected covers**|Benjamin Doyon et.al.|[2506.05266v1](http://arxiv.org/abs/2506.05266v1)|**2025-06-05**|null|
-|**2025-06-05**|**The non-unit conjecture for Misiurewicz parameters**|Robert L. Benedetto et.al.|[2506.05254v1](http://arxiv.org/abs/2506.05254v1)|**2025-06-05**|null|
-|**2025-06-05**|**SECNEURON: Reliable and Flexible Abuse Control in Local LLMs via Hybrid Neuron Encryption**|Zhiqiang Wang et.al.|[2506.05242v1](http://arxiv.org/abs/2506.05242v1)|**2025-06-05**|null|
-|**2025-06-05**|**MesaNet: Sequence Modeling by Locally Optimal Test-Time Training**|Johannes von Oswald et.al.|[2506.05233v1](http://arxiv.org/abs/2506.05233v1)|**2025-06-05**|null|
-|**2025-06-05**|**Diagonal Batching Unlocks Parallelism in Recurrent Memory Transformers for Long Contexts**|Danil Sivtsov et.al.|[2506.05229v1](http://arxiv.org/abs/2506.05229v1)|**2025-06-05**|null|
-|**2025-06-05**|**Modelling the evolution of flow-induced anisotropy of concentrated suspensions**|Pappu Acharya et.al.|[2506.05222v1](http://arxiv.org/abs/2506.05222v1)|**2025-06-05**|null|
-|**2025-06-05**|**SAM-aware Test-time Adaptation for Universal Medical Image Segmentation**|Jianghao Wu et.al.|[2506.05221v1](http://arxiv.org/abs/2506.05221v1)|**2025-06-05**|null|
-|**2025-06-05**|**DSG-World: Learning a 3D Gaussian World Model from Dual State Videos**|Wenhao Hu et.al.|[2506.05217v1](http://arxiv.org/abs/2506.05217v1)|**2025-06-05**|null|
-|**2025-06-05**|**Refinements on higher order Weil-Oesterlé bounds via a Serre type argument**|Emmanuel Hallouin et.al.|[2506.05212v1](http://arxiv.org/abs/2506.05212v1)|**2025-06-05**|null|
-|**2025-06-05**|**Associative Memory and Generative Diffusion in the Zero-noise Limit**|Joshua Hess et.al.|[2506.05178v1](http://arxiv.org/abs/2506.05178v1)|**2025-06-05**|null|
-|**2025-06-05**|**Track Any Anomalous Object: A Granular Video Anomaly Detection Pipeline**|Yuzhi Huang et.al.|[2506.05175v1](http://arxiv.org/abs/2506.05175v1)|**2025-06-05**|null|
+| Publish Date | Title | Authors | PDF | Code |
+|-------------|----------------|-------------|------|------|
+|**2025-06-05**|**Point Cloud Segmentation of Agricultural Vehicles using 3D Gaussian Splatting**|Alfred T. Christiansen et.al.|[2506.05009v1](http://arxiv.org/abs/2506.05009v1)|null|
+|**2025-06-05**|**OpenMaskDINO3D : Reasoning 3D Segmentation via Large Language Model**|Kunshen Zhang et.al.|[2506.04837v1](http://arxiv.org/abs/2506.04837v1)|null|
+|**2025-05-25**|**Staircase Recognition and Location Based on Polarization Vision**|Weifeng Kong et.al.|[2505.19026v1](http://arxiv.org/abs/2505.19026v1)|null|
+|**2025-05-23**|**Generative Data Augmentation for Object Point Cloud Segmentation**|Dekai Zhu et.al.|[2505.17783v1](http://arxiv.org/abs/2505.17783v1)|null|
+|**2025-05-15**|**APCoTTA: Continual Test-Time Adaptation for Semantic Segmentation of Airborne LiDAR Point Clouds**|Yuan Gao et.al.|[2505.09971v1](http://arxiv.org/abs/2505.09971v1)|**[link](https://github.com/gaoyuan2/apcotta)**|
+|**2025-04-26**|**WLTCL: Wide Field-of-View 3-D LiDAR Truck Compartment Automatic Localization System**|Guodong Sun et.al.|[2504.18870v1](http://arxiv.org/abs/2504.18870v1)|null|
+|**2025-04-16**|**3D-PointZshotS: Geometry-Aware 3D Point Cloud Zero-Shot Semantic Segmentation Narrowing the Visual-Semantic Gap**|Minmin Yang et.al.|[2504.12442v1](http://arxiv.org/abs/2504.12442v1)|**[link](https://github.com/lexieyang/3d-pointzshots)**|
+|**2025-04-09**|**UAV Position Estimation using a LiDAR-based 3D Object Detection Method**|Uthman Olawoye et.al.|[2504.07028v1](http://arxiv.org/abs/2504.07028v1)|null|
+|**2025-04-08**|**Turin3D: Evaluating Adaptation Strategies under Label Scarcity in Urban LiDAR Segmentation with Semi-Supervised Techniques**|Luca Barco et.al.|[2504.05882v1](http://arxiv.org/abs/2504.05882v1)|null|
+|**2025-04-02**|**Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks**|Haosheng Li et.al.|[2504.01659v3](http://arxiv.org/abs/2504.01659v3)|null|
+
