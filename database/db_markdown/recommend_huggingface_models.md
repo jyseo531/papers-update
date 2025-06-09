@@ -4672,6 +4672,7 @@ Updated on 2025-06-09
 | 24.6k | 31 | urchade/gliner_medium-v2 | UpdatedAug 21, 2024 | [Link](https://huggingface.co/urchade/gliner_medium-v2.1) |
 | 24.3k | 30 | flair/pos-englishToken | UpdatedApr 10, 2023 | [Link](https://huggingface.co/flair/pos-english) |
 | 387k | 28 | hantian/layoutreaderToken | UpdatedApr 11, 2024 | [Link](https://huggingface.co/hantian/layoutreader) |
+| 20.6k | 28 | ml6team/keyphrase-extraction-distilbert-inspecToken | UpdatedMay 6, 2023 | [Link](https://huggingface.co/ml6team/keyphrase-extraction-distilbert-inspec) |
 | 746 | 25 | kormilitzin/en_core_med7_lgToken | UpdatedNov 19, 2022 | [Link](https://huggingface.co/kormilitzin/en_core_med7_lg) |
 | 946 | 25 | jplu/tf-xlm-r-ner-40-langToken | UpdatedOct 6, 2022 | [Link](https://huggingface.co/jplu/tf-xlm-r-ner-40-lang) |
 | 2.43k | 24 | cmarkea/distilcamembert-base-nerToken | UpdatedOct 26, 2024 | [Link](https://huggingface.co/cmarkea/distilcamembert-base-ner) |
