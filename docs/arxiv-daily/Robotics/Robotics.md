@@ -22,7 +22,7 @@
 |**2025-06-05**|**A Unified Framework for Simulating Strongly-Coupled Fluid-Robot Multiphysics**|Jeong Hun Lee et.al.|[2506.05012v1](http://arxiv.org/abs/2506.05012v1)|**2025-06-05**|null|
 |**2025-06-05**|**GEX: Democratizing Dexterity with Fully-Actuated Dexterous Hand and Exoskeleton Glove**|Yunlong Dong et.al.|[2506.04982v1](http://arxiv.org/abs/2506.04982v1)|**2025-06-05**|null|
 |**2025-06-05**|**A Pillbug-Inspired Morphing Mechanism Covered with Sliding Shells**|Jieyu Wang et.al.|[2506.04942v1](http://arxiv.org/abs/2506.04942v1)|**2025-06-05**|null|
-|**2025-06-05**|**ArtVIP: Articulated Digital Assets of Visual Realism, Modular Interaction, and Physical Fidelity for Robot Learning**|Zhao Jin et.al.|[2506.04941v1](http://arxiv.org/abs/2506.04941v1)|**2025-06-05**|null|
+|**2025-06-05**|**ArtVIP: Articulated Digital Assets of Visual Realism, Modular Interaction, and Physical Fidelity for Robot Learning**|Zhao Jin et.al.|[2506.04941v2](http://arxiv.org/abs/2506.04941v2)|**2025-06-06**|null|
 |**2025-06-05**|**Efficient Path Planning and Task Allocation Algorithm for Boolean Specifications**|Ioana Hustiu et.al.|[2506.04881v1](http://arxiv.org/abs/2506.04881v1)|**2025-06-05**|null|
 |**2025-06-05**|**LLMs for sensory-motor control: Combining in-context and iterative learning**|Jônata Tyska Carvalho et.al.|[2506.04867v1](http://arxiv.org/abs/2506.04867v1)|**2025-06-05**|null|
 |**2025-06-05**|**MineInsight: A Multi-sensor Dataset for Humanitarian Demining Robotics in Off-Road Environments**|Mario Malizia et.al.|[2506.04842v1](http://arxiv.org/abs/2506.04842v1)|**2025-06-05**|null|

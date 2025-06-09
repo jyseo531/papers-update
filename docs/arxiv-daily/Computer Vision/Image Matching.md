@@ -4,7 +4,7 @@
 |-------------|----------------|-------------|------|------|
 |**2025-06-05**|**Vanishing arcs for isolated plane curve singularities**|Hanwool Bae et.al.|[2506.04917v1](http://arxiv.org/abs/2506.04917v1)|null|
 |**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619v1](http://arxiv.org/abs/2506.04619v1)|null|
-|**2025-05-28**|**Universal Domain Adaptation for Semantic Segmentation**|Seun-An Choe et.al.|[2505.22458v1](http://arxiv.org/abs/2505.22458v1)|null|
+|**2025-05-28**|**Universal Domain Adaptation for Semantic Segmentation**|Seun-An Choe et.al.|[2505.22458v2](http://arxiv.org/abs/2505.22458v2)|null|
 |**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973v1](http://arxiv.org/abs/2505.17973v1)|null|
 |**2025-05-16**|**Multi-view dense image matching with similarity learning and geometry priors**|Mohamed Ali Chebbi et.al.|[2505.11264v1](http://arxiv.org/abs/2505.11264v1)|null|
 |**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836v1](http://arxiv.org/abs/2505.03836v1)|**[link](https://github.com/cszhanglmu/obd-finder)**|

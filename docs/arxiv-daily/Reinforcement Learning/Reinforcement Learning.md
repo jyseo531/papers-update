@@ -7,7 +7,7 @@
 |**2025-06-05**|**AV-Reasoner: Improving and Benchmarking Clue-Grounded Audio-Visual Counting for MLLMs**|Lidong Lu et.al.|[2506.05328v1](http://arxiv.org/abs/2506.05328v1)|**2025-06-05**|null|
 |**2025-06-05**|**Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay**|Yifan Sun et.al.|[2506.05316v1](http://arxiv.org/abs/2506.05316v1)|**2025-06-05**|null|
 |**2025-06-05**|**Estimation of Treatment Effects Under Nonstationarity via Truncated Difference-in-Q's**|Ramesh Johari et.al.|[2506.05308v1](http://arxiv.org/abs/2506.05308v1)|**2025-06-05**|null|
-|**2025-06-05**|**Just Enough Thinking: Efficient Reasoning with Adaptive Length Penalties Reinforcement Learning**|Violet Xiang et.al.|[2506.05256v1](http://arxiv.org/abs/2506.05256v1)|**2025-06-05**|null|
+|**2025-06-05**|**Just Enough Thinking: Efficient Reasoning with Adaptive Length Penalties Reinforcement Learning**|Violet Xiang et.al.|[2506.05256v2](http://arxiv.org/abs/2506.05256v2)|**2025-06-06**|null|
 |**2025-06-05**|**Towards Language-Augmented Multi-Agent Deep Reinforcement Learning**|Maxime Toquebiau et.al.|[2506.05236v1](http://arxiv.org/abs/2506.05236v1)|**2025-06-05**|null|
 |**2025-06-05**|**Optimal-PhiBE: A PDE-based Model-free framework for Continuous-time Reinforcement Learning**|Yuhua Zhu et.al.|[2506.05208v1](http://arxiv.org/abs/2506.05208v1)|**2025-06-05**|null|
 |**2025-06-05**|**TreeRPO: Tree Relative Policy Optimization**|Zhicheng Yang et.al.|[2506.05183v1](http://arxiv.org/abs/2506.05183v1)|**2025-06-05**|null|
@@ -17,7 +17,7 @@
 |**2025-06-05**|**RIVAL: Reinforcement Learning with Iterative and Adversarial Optimization for Machine Translation**|Tianjiao Li et.al.|[2506.05070v1](http://arxiv.org/abs/2506.05070v1)|**2025-06-05**|null|
 |**2025-06-05**|**Reason-to-Recommend: Using Interaction-of-Thought Reasoning to Enhance LLM Recommendation**|Keyu Zhao et.al.|[2506.05069v1](http://arxiv.org/abs/2506.05069v1)|**2025-06-05**|null|
 |**2025-06-05**|**PulseRide: A Robotic Wheelchair for Personalized Exertion Control with Human-in-the-Loop Reinforcement Learning**|Azizul Zahid et.al.|[2506.05056v1](http://arxiv.org/abs/2506.05056v1)|**2025-06-05**|null|
-|**2025-06-05**|**ArtVIP: Articulated Digital Assets of Visual Realism, Modular Interaction, and Physical Fidelity for Robot Learning**|Zhao Jin et.al.|[2506.04941v1](http://arxiv.org/abs/2506.04941v1)|**2025-06-05**|null|
+|**2025-06-05**|**ArtVIP: Articulated Digital Assets of Visual Realism, Modular Interaction, and Physical Fidelity for Robot Learning**|Zhao Jin et.al.|[2506.04941v2](http://arxiv.org/abs/2506.04941v2)|**2025-06-06**|null|
 |**2025-06-05**|**Dissecting Long Reasoning Models: An Empirical Study**|Yongyu Mu et.al.|[2506.04913v1](http://arxiv.org/abs/2506.04913v1)|**2025-06-05**|null|
 |**2025-06-05**|**Safe Planning and Policy Optimization via World Model Learning**|Artem Latyshev et.al.|[2506.04828v1](http://arxiv.org/abs/2506.04828v1)|**2025-06-05**|null|
 |**2025-06-05**|**LogicPuzzleRL: Cultivating Robust Mathematical Reasoning in LLMs via Reinforcement Learning**|Zhen Hao Wong et.al.|[2506.04821v1](http://arxiv.org/abs/2506.04821v1)|**2025-06-05**|null|

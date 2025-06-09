@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-06-05**|**Inference-Time Hyper-Scaling with KV Cache Compression**|Adrian Łańcucki et.al.|[2506.05345v1](http://arxiv.org/abs/2506.05345v1)|**2025-06-05**|null|
-|**2025-06-05**|**Exploring Diffusion Transformer Designs via Grafting**|Keshigeyan Chandrasegaran et.al.|[2506.05340v1](http://arxiv.org/abs/2506.05340v1)|**2025-06-05**|null|
+|**2025-06-05**|**Exploring Diffusion Transformer Designs via Grafting**|Keshigeyan Chandrasegaran et.al.|[2506.05340v2](http://arxiv.org/abs/2506.05340v2)|**2025-06-06**|null|
 |**2025-06-05**|**Revisiting Depth Representations for Feed-Forward 3D Gaussian Splatting**|Duochao Shi et.al.|[2506.05327v1](http://arxiv.org/abs/2506.05327v1)|**2025-06-05**|null|
 |**2025-06-05**|**Generalizable, real-time neural decoding with hybrid state-space models**|Avery Hee-Woon Ryoo et.al.|[2506.05320v1](http://arxiv.org/abs/2506.05320v1)|**2025-06-05**|null|
 |**2025-06-05**|**Landau-Ginzburg Paradigm of Topological Phases**|Yu Zhao et.al.|[2506.05319v1](http://arxiv.org/abs/2506.05319v1)|**2025-06-05**|null|
@@ -23,9 +23,9 @@
 |**2025-06-05**|**Single GPU Task Adaptation of Pathology Foundation Models for Whole Slide Image Analysis**|Neeraj Kumar et.al.|[2506.05184v1](http://arxiv.org/abs/2506.05184v1)|**2025-06-05**|null|
 |**2025-06-05**|**Track Any Anomalous Object: A Granular Video Anomaly Detection Pipeline**|Yuzhi Huang et.al.|[2506.05175v1](http://arxiv.org/abs/2506.05175v1)|**2025-06-05**|null|
 |**2025-06-05**|**Information Locality as an Inductive Bias for Neural Language Models**|Taiga Someya et.al.|[2506.05136v1](http://arxiv.org/abs/2506.05136v1)|**2025-06-05**|null|
-|**2025-06-05**|**Statistical microlocal analysis in two-dimensional X-ray CT**|Anuj Abhishek et.al.|[2506.05113v1](http://arxiv.org/abs/2506.05113v1)|**2025-06-05**|null|
-|**2025-06-05**|**Astraea: A GPU-Oriented Token-wise Acceleration Framework for Video Diffusion Transformers**|Haosong Liu et.al.|[2506.05096v1](http://arxiv.org/abs/2506.05096v1)|**2025-06-05**|null|
-|**2025-06-05**|**Learning Balanced Field Summaries of the Large-Scale Structure with the Neural Field Scattering Transform**|Matthew Craigie et.al.|[2506.05090v1](http://arxiv.org/abs/2506.05090v1)|**2025-06-05**|null|
+|**2025-06-05**|**Statistical microlocal analysis in two-dimensional X-ray CT**|Anuj Abhishek et.al.|[2506.05113v2](http://arxiv.org/abs/2506.05113v2)|**2025-06-06**|null|
+|**2025-06-05**|**Astraea: A GPU-Oriented Token-wise Acceleration Framework for Video Diffusion Transformers**|Haosong Liu et.al.|[2506.05096v2](http://arxiv.org/abs/2506.05096v2)|**2025-06-06**|null|
+|**2025-06-05**|**Learning Balanced Field Summaries of the Large-Scale Structure with the Neural Field Scattering Transform**|Matthew Craigie et.al.|[2506.05090v2](http://arxiv.org/abs/2506.05090v2)|**2025-06-06**|null|
 |**2025-06-05**|**Interpretable Multimodal Framework for Human-Centered Street Assessment: Integrating Visual-Language Models for Perceptual Urban Diagnostics**|HaoTian Lan et.al.|[2506.05087v1](http://arxiv.org/abs/2506.05087v1)|**2025-06-05**|null|
 |**2025-06-05**|**Very high-order accurate finite volume scheme for the streamfunction-vorticity formulation of incompressible fluid flows with polygonal meshes on arbitrary curved boundaries**|Ricardo Costa et.al.|[2506.05081v1](http://arxiv.org/abs/2506.05081v1)|**2025-06-05**|null|
 |**2025-06-05**|**Chiral anomaly in inhomogeneous systems with nontrivial momentum space topology**|Praveen D. Xavier et.al.|[2506.05066v1](http://arxiv.org/abs/2506.05066v1)|**2025-06-05**|null|

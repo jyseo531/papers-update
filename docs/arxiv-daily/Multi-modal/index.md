@@ -1,4 +1,5 @@
 # Multi-modal
 
-- [Text and Image Generation](./Text and Image Generation.md)
+- [Multi-modal](./Multi-modal.md)
+- [Image Caption](./Image Caption.md)
 - [Vision-Language](./Vision-Language.md)

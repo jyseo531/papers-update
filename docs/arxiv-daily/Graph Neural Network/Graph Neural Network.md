@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-06-05**|**Neural Inverse Rendering from Propagating Light**|Anagh Malik et.al.|[2506.05347v1](http://arxiv.org/abs/2506.05347v1)|**2025-06-05**|null|
 |**2025-06-05**|**ContentV: Efficient Training of Video Generation Models with Limited Compute**|Wenfeng Lin et.al.|[2506.05343v1](http://arxiv.org/abs/2506.05343v1)|**2025-06-05**|null|
-|**2025-06-05**|**Defurnishing with X-Ray Vision: Joint Removal of Furniture from Panoramas and Mesh**|Alan Dolhasz et.al.|[2506.05338v1](http://arxiv.org/abs/2506.05338v1)|**2025-06-05**|null|
+|**2025-06-05**|**Defurnishing with X-Ray Vision: Joint Removal of Furniture from Panoramas and Mesh**|Alan Dolhasz et.al.|[2506.05338v2](http://arxiv.org/abs/2506.05338v2)|**2025-06-06**|null|
 |**2025-06-05**|**A 2D-CFT Factory: Critical Lattice Models from Competing Anyon Condensation Processes in SymTO/SymTFT**|Ling-Yan Hung et.al.|[2506.05324v1](http://arxiv.org/abs/2506.05324v1)|**2025-06-05**|null|
 |**2025-06-05**|**Generalizable, real-time neural decoding with hybrid state-space models**|Avery Hee-Woon Ryoo et.al.|[2506.05320v1](http://arxiv.org/abs/2506.05320v1)|**2025-06-05**|null|
 |**2025-06-05**|**ProJo4D: Progressive Joint Optimization for Sparse-View Inverse Physics Estimation**|Daniel Rho et.al.|[2506.05317v1](http://arxiv.org/abs/2506.05317v1)|**2025-06-05**|null|
@@ -13,7 +13,7 @@
 |**2025-06-05**|**Transient dynamics of associative memory models**|David G. Clark et.al.|[2506.05303v1](http://arxiv.org/abs/2506.05303v1)|**2025-06-05**|null|
 |**2025-06-05**|**Reduction of Outflow Boundary Influence on Aerodynamic Performance using Neural Networks**|Mario Christopher Bedrunka et.al.|[2506.05293v1](http://arxiv.org/abs/2506.05293v1)|**2025-06-05**|null|
 |**2025-06-05**|**Fast-DataShapley: Neural Modeling for Training Data Valuation**|Haifeng Sun et.al.|[2506.05281v1](http://arxiv.org/abs/2506.05281v1)|**2025-06-05**|null|
-|**2025-06-05**|**Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting**|Nan Wang et.al.|[2506.05280v1](http://arxiv.org/abs/2506.05280v1)|**2025-06-05**|null|
+|**2025-06-05**|**Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting**|Nan Wang et.al.|[2506.05280v2](http://arxiv.org/abs/2506.05280v2)|**2025-06-06**|null|
 |**2025-06-05**|**Uniform Sampling of Surfaces by Casting Rays**|Selena Ling et.al.|[2506.05268v1](http://arxiv.org/abs/2506.05268v1)|**2025-06-05**|null|
 |**2025-06-05**|**A seasonal to decadal calibration of 1990-2100 eastern Canadian freshwater discharge simulations by observations, data models, and neural networks**|Richard E. Danielson et.al.|[2506.05261v1](http://arxiv.org/abs/2506.05261v1)|**2025-06-05**|null|
 |**2025-06-05**|**On the Convergence of Gradient Descent on Learning Transformers with Residual Connections**|Zhen Qin et.al.|[2506.05249v1](http://arxiv.org/abs/2506.05249v1)|**2025-06-05**|null|
