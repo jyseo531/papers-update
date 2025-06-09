@@ -1,15 +1,34 @@
-# Point Cloud Registration
 
-| Publish Date | Title | Authors | PDF | Code |
-|-------------|----------------|-------------|------|------|
-|**2025-06-05**|**Rectified Point Flow: Generic Point Cloud Pose Estimation**|Tao Sun et.al.|[2506.05282v1](http://arxiv.org/abs/2506.05282v1)|null|
-|**2025-05-30**|**A 3D Mobile Crowdsensing Framework for Sustainable Urban Digital Twins**|Taku Yamazaki et.al.|[2505.24348v1](http://arxiv.org/abs/2505.24348v1)|null|
-|**2025-05-23**|**A Coarse to Fine 3D LiDAR Localization with Deep Local Features for Long Term Robot Navigation in Large Environments**|Míriam Máximo et.al.|[2505.18340v1](http://arxiv.org/abs/2505.18340v1)|**[link](https://github.com/miriammaximo/mcl-dlf)**|
-|**2025-05-22**|**D-LIO: 6DoF Direct LiDAR-Inertial Odometry based on Simultaneous Truncated Distance Field Mapping**|Lucia Coto-Elena et.al.|[2505.16726v1](http://arxiv.org/abs/2505.16726v1)|**[link](https://github.com/robotics-upo/D-LIO)**|
-|**2025-05-19**|**Cross-modal feature fusion for robust point cloud registration with ambiguous geometry**|Zhaoyi Wang et.al.|[2505.13088v1](http://arxiv.org/abs/2505.13088v1)|**[link](https://github.com/zhaoyiww/coff)**|
-|**2025-05-17**|**MonoMobility: Zero-Shot 3D Mobility Analysis from Monocular Videos**|Hongyi Zhou et.al.|[2505.11868v1](http://arxiv.org/abs/2505.11868v1)|null|
-|**2025-05-14**|**VGC-RIO: A Tightly Integrated Radar-Inertial Odometry with Spatial Weighted Doppler Velocity and Local Geometric Constrained RCS Histograms**|Jianguang Xiang et.al.|[2505.09103v2](http://arxiv.org/abs/2505.09103v2)|null|
-|**2025-05-08**|**An Efficient Method for Accurate Pose Estimation and Error Correction of Cuboidal Objects**|Utsav Rai et.al.|[2505.04962v1](http://arxiv.org/abs/2505.04962v1)|null|
-|**2025-05-07**|**Registration of 3D Point Sets Using Exponential-based Similarity Matrix**|Ashutosh Singandhupe et.al.|[2505.04540v1](http://arxiv.org/abs/2505.04540v1)|**[link](https://github.com/aralab-unr/esm_icp)**|
-|**2025-05-07**|**FA-KPConv: Introducing Euclidean Symmetries to KPConv via Frame Averaging**|Ali Alawieh et.al.|[2505.04485v2](http://arxiv.org/abs/2505.04485v2)|null|
-
+### Point Cloud Registration
+|Publish Date|Title|Authors|PDF|Last Updated|Code|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-06**|**Distillation Robustifies Unlearning**|Bruce W. Lee et.al.|[2506.06278v1](http://arxiv.org/abs/2506.06278v1)|**2025-06-06**|null|
+|**2025-06-06**|**BecomingLit: Relightable Gaussian Avatars with Hybrid Neural Shading**|Jonathan Schmidt et.al.|[2506.06271v1](http://arxiv.org/abs/2506.06271v1)|**2025-06-06**|null|
+|**2025-06-06**|**PyGemini: Unified Software Development towards Maritime Autonomy Systems**|Kjetil Vasstein et.al.|[2506.06262v1](http://arxiv.org/abs/2506.06262v1)|**2025-06-06**|null|
+|**2025-06-06**|**PDHCG: A Scalable First-Order Method for Large-Scale Competitive Market Equilibrium Computation**|Huikang Liu et.al.|[2506.06258v1](http://arxiv.org/abs/2506.06258v1)|**2025-06-06**|null|
+|**2025-06-06**|**Lagrangian-based Equilibrium Propagation: generalisation to arbitrary boundary conditions & equivalence with Hamiltonian Echo Learning**|Guillaume Pourcel et.al.|[2506.06248v1](http://arxiv.org/abs/2506.06248v1)|**2025-06-06**|null|
+|**2025-06-06**|**On Hodge--Witt cohomology of Drinfeld's upper half space over a finite field**|Mattia Tiso et.al.|[2506.06246v1](http://arxiv.org/abs/2506.06246v1)|**2025-06-06**|null|
+|**2025-06-06**|**fairmetrics: An R package for group fairness evaluation**|Benjamin Smith et.al.|[2506.06243v1](http://arxiv.org/abs/2506.06243v1)|**2025-06-06**|null|
+|**2025-06-06**|**Explaining Matters: Leveraging Definitions and Semantic Expansion for Sexism Detection**|Sahrish Khan et.al.|[2506.06238v1](http://arxiv.org/abs/2506.06238v1)|**2025-06-06**|null|
+|**2025-06-06**|**Fermion parity switches imprinted in the photonic field of cavity embedded Kitaev chains**|Victor Fernandez Becerra et.al.|[2506.06237v1](http://arxiv.org/abs/2506.06237v1)|**2025-06-06**|null|
+|**2025-06-06**|**Optimizing Cloud-to-GPU Throughput for Deep Learning With Earth Observation Data**|Akram Zaytar et.al.|[2506.06235v1](http://arxiv.org/abs/2506.06235v1)|**2025-06-06**|null|
+|**2025-06-06**|**Diverse mean-field dynamics of clustered, inhibition-stabilized Hawkes networks via combinatorial threshold-linear networks**|Caitlin Lienkaemper et.al.|[2506.06234v1](http://arxiv.org/abs/2506.06234v1)|**2025-06-06**|null|
+|**2025-06-06**|**BiAssemble: Learning Collaborative Affordance for Bimanual Geometric Assembly**|Yan Shen et.al.|[2506.06221v1](http://arxiv.org/abs/2506.06221v1)|**2025-06-06**|null|
+|**2025-06-06**|**Metainformation in Quantum Guessing Games**|Teiko Heinosaari et.al.|[2506.06197v1](http://arxiv.org/abs/2506.06197v1)|**2025-06-06**|null|
+|**2025-06-06**|**Competing Interactions and the Effects of Uniaxial Out-of-plane Perturbations in the Honeycomb Antiferromagnet Na$_2$Co$_2$TeO$_6$**|J. Arneth et.al.|[2506.06189v1](http://arxiv.org/abs/2506.06189v1)|**2025-06-06**|null|
+|**2025-06-06**|**Computable presentations of randomizations**|Nicolás Cuervo Ovalle et.al.|[2506.06187v1](http://arxiv.org/abs/2506.06187v1)|**2025-06-06**|null|
+|**2025-06-06**|**Antithetic Noise in Diffusion Models**|Jing Jia et.al.|[2506.06185v1](http://arxiv.org/abs/2506.06185v1)|**2025-06-06**|null|
+|**2025-06-06**|**Reusing Trajectories in Policy Gradients Enables Fast Convergence**|Alessandro Montenegro et.al.|[2506.06178v1](http://arxiv.org/abs/2506.06178v1)|**2025-06-06**|null|
+|**2025-06-06**|**Does It Run and Is That Enough? Revisiting Text-to-Chart Generation with a Multi-Agent Approach**|James Ford et.al.|[2506.06175v1](http://arxiv.org/abs/2506.06175v1)|**2025-06-06**|null|
+|**2025-06-06**|**Monitorability for the Modal mu-Calculus over Systems with Data: From Practice to Theory**|Luca Aceto et.al.|[2506.06172v1](http://arxiv.org/abs/2506.06172v1)|**2025-06-06**|null|
+|**2025-06-06**|**Taylor Series Kinematics**|Craig W. Looney et.al.|[2506.06170v1](http://arxiv.org/abs/2506.06170v1)|**2025-06-06**|null|
+|**2025-06-06**|**Robustness of complexity estimation in event-driven signals against accuracy of event detection method**|Marco Cafiso et.al.|[2506.06168v1](http://arxiv.org/abs/2506.06168v1)|**2025-06-06**|null|
+|**2025-06-06**|**Venus Cloud Research: Progress and Perspectives**|Longkang Dai et.al.|[2506.06164v1](http://arxiv.org/abs/2506.06164v1)|**2025-06-06**|null|
+|**2025-06-06**|**One-dimensional interacting Su-Schrieffer-Heeger model at quarter filling: An exact diagonalization study**|Yan-Xiao Wang et.al.|[2506.06148v1](http://arxiv.org/abs/2506.06148v1)|**2025-06-06**|null|
+|**2025-06-06**|**Reaction Dynamics for the [NNO] System from State-Resolved and Coarse-Grained Models**|Juan Carlos San Vicente Veliz et.al.|[2506.06146v1](http://arxiv.org/abs/2506.06146v1)|**2025-06-06**|null|
+|**2025-06-06**|**On the motion of a point charge in a plate capacitor considering influence effects**|Heinz-Jürgen Schmidt et.al.|[2506.06132v1](http://arxiv.org/abs/2506.06132v1)|**2025-06-06**|null|
+|**2025-06-06**|**Convergence of linear programming hierarchies for Gibbs states of spin systems**|Hamza Fawzi et.al.|[2506.06125v1](http://arxiv.org/abs/2506.06125v1)|**2025-06-06**|null|
+|**2025-06-06**|**Decomposability-Guaranteed Cooperative Coevolution for Large-Scale Itinerary Planning**|Ziyu Zhang et.al.|[2506.06121v1](http://arxiv.org/abs/2506.06121v1)|**2025-06-06**|null|
+|**2025-06-06**|**Evidence for Hydrostatic Equilibrium in the Extragalactic Molecular Clouds of M31**|Eric Keto et.al.|[2506.06118v1](http://arxiv.org/abs/2506.06118v1)|**2025-06-06**|null|
+|**2025-06-06**|**Testing OH Megamaser Identification Methods in HI Surveys: Updated Source-Flagging Algorithms and New Detections in ALFALFA**|Hayley Roberts et.al.|[2506.06115v1](http://arxiv.org/abs/2506.06115v1)|**2025-06-06**|null|
+|**2025-06-06**|**Compression of executable QR codes or sQRy for Industry: an example for Wi-Fi access points**|Stefano Scanzio et.al.|[2506.06100v1](http://arxiv.org/abs/2506.06100v1)|**2025-06-06**|null|
