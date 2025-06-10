@@ -2636,6 +2636,7 @@ Updated on 2025-06-10
 | 1 | Unknown | Rustamshry/MedCase-R1Question | Updatedabout 11 hours ago | [Link](https://huggingface.co/Rustamshry/MedCase-R1) |
 | 9 | Unknown | AdapterHub/roberta-base-pf-comqaQuestion | UpdatedNov 15, 2021 | [Link](https://huggingface.co/AdapterHub/roberta-base-pf-comqa) |
 | 14 | Unknown | AdapterHub/roberta-base-pf-cqQuestion | UpdatedNov 15, 2021 | [Link](https://huggingface.co/AdapterHub/roberta-base-pf-cq) |
+| 1 | Unknown | HANI-LAB/Med-REFL-Huatuo-o1-8B-loraQuestion | Updated33 minutes ago | [Link](https://huggingface.co/HANI-LAB/Med-REFL-Huatuo-o1-8B-lora) |
 
 ## Reinforcement Learning
 
