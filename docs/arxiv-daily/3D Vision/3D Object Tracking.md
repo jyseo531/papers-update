@@ -2,10 +2,10 @@
 ### 3D Object Tracking
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-06**|**Distillation Robustifies Unlearning**|Bruce W. Lee et.al.|[2506.06278v1](http://arxiv.org/abs/2506.06278v1)|**2025-06-06**|null|
+|**2025-06-06**|**Distillation Robustifies Unlearning**|Bruce W. Lee et.al.|[2506.06278v2](http://arxiv.org/abs/2506.06278v2)|**2025-06-09**|null|
 |**2025-06-06**|**To collapse or not to collapse: Halo evolution with self-interacting dark matter mass segregation**|Yashraj Patil et.al.|[2506.06272v1](http://arxiv.org/abs/2506.06272v1)|**2025-06-06**|null|
 |**2025-06-06**|**BecomingLit: Relightable Gaussian Avatars with Hybrid Neural Shading**|Jonathan Schmidt et.al.|[2506.06271v1](http://arxiv.org/abs/2506.06271v1)|**2025-06-06**|null|
-|**2025-06-06**|**Cartridges: Lightweight and general-purpose long context representations via self-study**|Sabri Eyuboglu et.al.|[2506.06266v1](http://arxiv.org/abs/2506.06266v1)|**2025-06-06**|null|
+|**2025-06-06**|**Cartridges: Lightweight and general-purpose long context representations via self-study**|Sabri Eyuboglu et.al.|[2506.06266v2](http://arxiv.org/abs/2506.06266v2)|**2025-06-09**|null|
 |**2025-06-06**|**The SagbiHomotopy.jl package for solving polynomial systems**|Barbara Betti et.al.|[2506.06264v1](http://arxiv.org/abs/2506.06264v1)|**2025-06-06**|null|
 |**2025-06-06**|**PyGemini: Unified Software Development towards Maritime Autonomy Systems**|Kjetil Vasstein et.al.|[2506.06262v1](http://arxiv.org/abs/2506.06262v1)|**2025-06-06**|null|
 |**2025-06-06**|**Scalable Language Agnostic Taint Tracking using Explicit Data Dependencies**|Sedick David Baker Effendi et.al.|[2506.06247v1](http://arxiv.org/abs/2506.06247v1)|**2025-06-06**|null|

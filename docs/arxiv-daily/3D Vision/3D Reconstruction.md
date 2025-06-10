@@ -9,7 +9,7 @@
 |**2025-06-06**|**3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model**|Hongyan Zhi et.al.|[2506.06199v1](http://arxiv.org/abs/2506.06199v1)|**2025-06-06**|null|
 |**2025-06-06**|**Theory and computation of thermal-field emission from semiconductors**|Salvador Barranco Cárceles et.al.|[2506.06198v1](http://arxiv.org/abs/2506.06198v1)|**2025-06-06**|null|
 |**2025-06-06**|**Inverse-designed nanophotonic neural network accelerators for ultra-compact optical computing**|Joel Sved et.al.|[2506.06150v1](http://arxiv.org/abs/2506.06150v1)|**2025-06-06**|null|
-|**2025-06-06**|**Text-to-LoRA: Instant Transformer Adaption**|Rujikorn Charakorn et.al.|[2506.06105v1](http://arxiv.org/abs/2506.06105v1)|**2025-06-06**|null|
+|**2025-06-06**|**Text-to-LoRA: Instant Transformer Adaption**|Rujikorn Charakorn et.al.|[2506.06105v2](http://arxiv.org/abs/2506.06105v2)|**2025-06-09**|null|
 |**2025-06-06**|**Conversational Interfaces for Parametric Conceptual Architectural Design: Integrating Mixed Reality with LLM-driven Interaction**|Ruochen Ji et.al.|[2506.06066v1](http://arxiv.org/abs/2506.06066v1)|**2025-06-06**|null|
 |**2025-06-06**|**Diffusion-Based Hierarchical Graph Neural Networks for Simulating Nonlinear Solid Mechanics**|Tobias Würth et.al.|[2506.06045v1](http://arxiv.org/abs/2506.06045v1)|**2025-06-06**|null|
 |**2025-06-06**|**Implicit Neural Representation-Based MRI Reconstruction Method with Sensitivity Map Constraints**|Lixuan Rao et.al.|[2506.06043v1](http://arxiv.org/abs/2506.06043v1)|**2025-06-06**|null|

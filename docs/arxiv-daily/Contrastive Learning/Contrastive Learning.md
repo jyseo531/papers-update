@@ -4,9 +4,9 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-06-06**|**TerraFM: A Scalable Foundation Model for Unified Multisensor Earth Observation**|Muhammad Sohail Danish et.al.|[2506.06281v1](http://arxiv.org/abs/2506.06281v1)|**2025-06-06**|null|
 |**2025-06-06**|**Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias**|Yuanzhe Hu et.al.|[2506.06280v1](http://arxiv.org/abs/2506.06280v1)|**2025-06-06**|null|
-|**2025-06-06**|**Distillation Robustifies Unlearning**|Bruce W. Lee et.al.|[2506.06278v1](http://arxiv.org/abs/2506.06278v1)|**2025-06-06**|null|
+|**2025-06-06**|**Distillation Robustifies Unlearning**|Bruce W. Lee et.al.|[2506.06278v2](http://arxiv.org/abs/2506.06278v2)|**2025-06-09**|null|
 |**2025-06-06**|**Movie Facts and Fibs (MF$^2$): A Benchmark for Long Movie Understanding**|Emmanouil Zaranis et.al.|[2506.06275v1](http://arxiv.org/abs/2506.06275v1)|**2025-06-06**|null|
-|**2025-06-06**|**Cartridges: Lightweight and general-purpose long context representations via self-study**|Sabri Eyuboglu et.al.|[2506.06266v1](http://arxiv.org/abs/2506.06266v1)|**2025-06-06**|null|
+|**2025-06-06**|**Cartridges: Lightweight and general-purpose long context representations via self-study**|Sabri Eyuboglu et.al.|[2506.06266v2](http://arxiv.org/abs/2506.06266v2)|**2025-06-09**|null|
 |**2025-06-06**|**Integrating Complexity and Biological Realism: High-Performance Spiking Neural Networks for Breast Cancer Detection**|Zofia Rudnicka et.al.|[2506.06265v1](http://arxiv.org/abs/2506.06265v1)|**2025-06-06**|null|
 |**2025-06-06**|**Reflect-then-Plan: Offline Model-Based Planning through a Doubly Bayesian Lens**|Jihwan Jeong et.al.|[2506.06261v1](http://arxiv.org/abs/2506.06261v1)|**2025-06-06**|null|
 |**2025-06-06**|**An Optimized Franz-Parisi Criterion and its Equivalence with SQ Lower Bounds**|Siyu Chen et.al.|[2506.06259v1](http://arxiv.org/abs/2506.06259v1)|**2025-06-06**|null|

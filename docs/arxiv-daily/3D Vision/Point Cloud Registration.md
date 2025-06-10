@@ -2,7 +2,7 @@
 ### Point Cloud Registration
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-06**|**Distillation Robustifies Unlearning**|Bruce W. Lee et.al.|[2506.06278v1](http://arxiv.org/abs/2506.06278v1)|**2025-06-06**|null|
+|**2025-06-06**|**Distillation Robustifies Unlearning**|Bruce W. Lee et.al.|[2506.06278v2](http://arxiv.org/abs/2506.06278v2)|**2025-06-09**|null|
 |**2025-06-06**|**BecomingLit: Relightable Gaussian Avatars with Hybrid Neural Shading**|Jonathan Schmidt et.al.|[2506.06271v1](http://arxiv.org/abs/2506.06271v1)|**2025-06-06**|null|
 |**2025-06-06**|**PyGemini: Unified Software Development towards Maritime Autonomy Systems**|Kjetil Vasstein et.al.|[2506.06262v1](http://arxiv.org/abs/2506.06262v1)|**2025-06-06**|null|
 |**2025-06-06**|**PDHCG: A Scalable First-Order Method for Large-Scale Competitive Market Equilibrium Computation**|Huikang Liu et.al.|[2506.06258v1](http://arxiv.org/abs/2506.06258v1)|**2025-06-06**|null|
@@ -14,7 +14,7 @@
 |**2025-06-06**|**Optimizing Cloud-to-GPU Throughput for Deep Learning With Earth Observation Data**|Akram Zaytar et.al.|[2506.06235v1](http://arxiv.org/abs/2506.06235v1)|**2025-06-06**|null|
 |**2025-06-06**|**Diverse mean-field dynamics of clustered, inhibition-stabilized Hawkes networks via combinatorial threshold-linear networks**|Caitlin Lienkaemper et.al.|[2506.06234v1](http://arxiv.org/abs/2506.06234v1)|**2025-06-06**|null|
 |**2025-06-06**|**BiAssemble: Learning Collaborative Affordance for Bimanual Geometric Assembly**|Yan Shen et.al.|[2506.06221v1](http://arxiv.org/abs/2506.06221v1)|**2025-06-06**|null|
-|**2025-06-06**|**Metainformation in Quantum Guessing Games**|Teiko Heinosaari et.al.|[2506.06197v1](http://arxiv.org/abs/2506.06197v1)|**2025-06-06**|null|
+|**2025-06-06**|**Metainformation in Quantum Guessing Games**|Teiko Heinosaari et.al.|[2506.06197v2](http://arxiv.org/abs/2506.06197v2)|**2025-06-09**|null|
 |**2025-06-06**|**Competing Interactions and the Effects of Uniaxial Out-of-plane Perturbations in the Honeycomb Antiferromagnet Na$_2$Co$_2$TeO$_6$**|J. Arneth et.al.|[2506.06189v1](http://arxiv.org/abs/2506.06189v1)|**2025-06-06**|null|
 |**2025-06-06**|**Computable presentations of randomizations**|Nicolás Cuervo Ovalle et.al.|[2506.06187v1](http://arxiv.org/abs/2506.06187v1)|**2025-06-06**|null|
 |**2025-06-06**|**Antithetic Noise in Diffusion Models**|Jing Jia et.al.|[2506.06185v1](http://arxiv.org/abs/2506.06185v1)|**2025-06-06**|null|

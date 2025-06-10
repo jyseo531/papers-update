@@ -18,7 +18,7 @@
 |**2025-06-02**|**Latent Space Topology Evolution in Multilayer Perceptrons**|Eduardo Paluzo-Hidalgo et.al.|[2506.01569v1](http://arxiv.org/abs/2506.01569v1)|**2025-06-02**|null|
 |**2025-06-02**|**UniversalCEFR: Enabling Open Multilingual Research on Language Proficiency Assessment**|Joseph Marvin Imperial et.al.|[2506.01419v1](http://arxiv.org/abs/2506.01419v1)|**2025-06-02**|null|
 |**2025-06-02**|**PointT2I: LLM-based text-to-image generation via keypoints**|Taekyung Lee et.al.|[2506.01370v1](http://arxiv.org/abs/2506.01370v1)|**2025-06-02**|null|
-|**2025-05-30**|**Beyond Atomic Geometry Representations in Materials Science: A Human-in-the-Loop Multimodal Framework**|Can Polat et.al.|[2506.00302v1](http://arxiv.org/abs/2506.00302v1)|**2025-05-30**|null|
+|**2025-05-30**|**Beyond Atomic Geometry Representations in Materials Science: A Human-in-the-Loop Multimodal Framework**|Can Polat et.al.|[2506.00302v1](http://arxiv.org/abs/2506.00302v1)|**2025-05-30**|[link](https://github.com/kurbanintelligencelab/multicrystalspectrumset)|
 |**2025-05-30**|**Enhancing Drug Discovery: Autoencoder-Based Latent Space Augmentation for Improved Molecular Solubility Prediction using LatMixSol**|Mohammad Saleh Hasankhani et.al.|[2506.00223v1](http://arxiv.org/abs/2506.00223v1)|**2025-05-30**|null|
 |**2025-05-30**|**Tackling View-Dependent Semantics in 3D Language Gaussian Splatting**|Jiazhong Cen et.al.|[2505.24746v1](http://arxiv.org/abs/2505.24746v1)|**2025-05-30**|[link](https://github.com/sjtu-deepvisionlab/laga)|
 |**2025-05-30**|**SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**|Mingxu Zhang et.al.|[2505.24305v2](http://arxiv.org/abs/2505.24305v2)|**2025-06-05**|null|

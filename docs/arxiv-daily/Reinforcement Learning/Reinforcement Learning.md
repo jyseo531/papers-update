@@ -21,7 +21,7 @@
 |**2025-06-06**|**Learning Deterministic Policies with Policy Gradients in Constrained Markov Decision Processes**|Alessandro Montenegro et.al.|[2506.05953v1](http://arxiv.org/abs/2506.05953v1)|**2025-06-06**|null|
 |**2025-06-06**|**Route-and-Reason: Scaling Large Language Model Reasoning with Reinforced Model Router**|Chenyang Shao et.al.|[2506.05901v1](http://arxiv.org/abs/2506.05901v1)|**2025-06-06**|null|
 |**2025-06-06**|**Policy Optimization for Continuous-time Linear-Quadratic Graphon Mean Field Games**|Philipp Plank et.al.|[2506.05894v1](http://arxiv.org/abs/2506.05894v1)|**2025-06-06**|null|
-|**2025-06-06**|**Cross-lingual Collapse: How Language-Centric Foundation Models Shape Reasoning in Large Language Models**|Cheonbok Park et.al.|[2506.05850v1](http://arxiv.org/abs/2506.05850v1)|**2025-06-06**|null|
+|**2025-06-06**|**Cross-lingual Collapse: How Language-Centric Foundation Models Shape Reasoning in Large Language Models**|Cheonbok Park et.al.|[2506.05850v2](http://arxiv.org/abs/2506.05850v2)|**2025-06-09**|null|
 |**2025-06-06**|**CodeContests+: High-Quality Test Case Generation for Competitive Programming**|Zihan Wang et.al.|[2506.05817v1](http://arxiv.org/abs/2506.05817v1)|**2025-06-06**|null|
 |**2025-06-06**|**Stochastic modeling of deterministic laser chaos using generator extended dynamic mode decomposition**|Kakutaro Fukushi et.al.|[2506.05798v1](http://arxiv.org/abs/2506.05798v1)|**2025-06-06**|null|
 |**2025-06-06**|**BiTrajDiff: Bidirectional Trajectory Generation with Diffusion Models for Offline Reinforcement Learning**|Yunpeng Qing et.al.|[2506.05762v1](http://arxiv.org/abs/2506.05762v1)|**2025-06-06**|null|
