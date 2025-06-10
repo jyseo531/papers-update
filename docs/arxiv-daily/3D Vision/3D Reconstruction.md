@@ -2,33 +2,33 @@
 ### 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-06**|**BecomingLit: Relightable Gaussian Avatars with Hybrid Neural Shading**|Jonathan Schmidt et.al.|[2506.06271v1](http://arxiv.org/abs/2506.06271v1)|**2025-06-06**|null|
-|**2025-06-06**|**PyGemini: Unified Software Development towards Maritime Autonomy Systems**|Kjetil Vasstein et.al.|[2506.06262v1](http://arxiv.org/abs/2506.06262v1)|**2025-06-06**|null|
-|**2025-06-06**|**BiAssemble: Learning Collaborative Affordance for Bimanual Geometric Assembly**|Yan Shen et.al.|[2506.06221v1](http://arxiv.org/abs/2506.06221v1)|**2025-06-06**|null|
-|**2025-06-06**|**STSBench: A Spatio-temporal Scenario Benchmark for Multi-modal Large Language Models in Autonomous Driving**|Christian Fruhwirth-Reisinger et.al.|[2506.06218v1](http://arxiv.org/abs/2506.06218v1)|**2025-06-06**|null|
-|**2025-06-06**|**3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model**|Hongyan Zhi et.al.|[2506.06199v1](http://arxiv.org/abs/2506.06199v1)|**2025-06-06**|null|
-|**2025-06-06**|**Theory and computation of thermal-field emission from semiconductors**|Salvador Barranco Cárceles et.al.|[2506.06198v1](http://arxiv.org/abs/2506.06198v1)|**2025-06-06**|null|
-|**2025-06-06**|**Inverse-designed nanophotonic neural network accelerators for ultra-compact optical computing**|Joel Sved et.al.|[2506.06150v1](http://arxiv.org/abs/2506.06150v1)|**2025-06-06**|null|
-|**2025-06-06**|**Text-to-LoRA: Instant Transformer Adaption**|Rujikorn Charakorn et.al.|[2506.06105v2](http://arxiv.org/abs/2506.06105v2)|**2025-06-09**|null|
-|**2025-06-06**|**Conversational Interfaces for Parametric Conceptual Architectural Design: Integrating Mixed Reality with LLM-driven Interaction**|Ruochen Ji et.al.|[2506.06066v1](http://arxiv.org/abs/2506.06066v1)|**2025-06-06**|null|
-|**2025-06-06**|**Diffusion-Based Hierarchical Graph Neural Networks for Simulating Nonlinear Solid Mechanics**|Tobias Würth et.al.|[2506.06045v1](http://arxiv.org/abs/2506.06045v1)|**2025-06-06**|null|
-|**2025-06-06**|**Implicit Neural Representation-Based MRI Reconstruction Method with Sensitivity Map Constraints**|Lixuan Rao et.al.|[2506.06043v1](http://arxiv.org/abs/2506.06043v1)|**2025-06-06**|null|
-|**2025-06-06**|**Trajectory Optimization for UAV-Based Medical Delivery with Temporal Logic Constraints and Convex Feasible Set Collision Avoidance**|Kaiyuan Chen et.al.|[2506.06038v1](http://arxiv.org/abs/2506.06038v1)|**2025-06-06**|null|
-|**2025-06-06**|**SVD: Spatial Video Dataset**|M. H. Izadimehr et.al.|[2506.06037v1](http://arxiv.org/abs/2506.06037v1)|**2025-06-06**|null|
-|**2025-06-06**|**HAVIR: HierArchical Vision to Image Reconstruction using CLIP-Guided Versatile Diffusion**|Shiyi Zhang et.al.|[2506.06035v1](http://arxiv.org/abs/2506.06035v1)|**2025-06-06**|null|
-|**2025-06-06**|**Restereo: Diffusion stereo video generation and restoration**|Xingchang Huang et.al.|[2506.06023v1](http://arxiv.org/abs/2506.06023v1)|**2025-06-06**|null|
-|**2025-06-06**|**Reliable Evaluation of MRI Motion Correction: Dataset and Insights**|Kun Wang et.al.|[2506.05975v1](http://arxiv.org/abs/2506.05975v1)|**2025-06-06**|null|
-|**2025-06-06**|**Dy3DGS-SLAM: Monocular 3D Gaussian Splatting SLAM for Dynamic Environments**|Mingrui Li et.al.|[2506.05965v1](http://arxiv.org/abs/2506.05965v1)|**2025-06-06**|null|
-|**2025-06-06**|**MOGO: Residual Quantized Hierarchical Causal Transformer for High-Quality and Real-Time 3D Human Motion Generation**|Dongjie Fu et.al.|[2506.05952v1](http://arxiv.org/abs/2506.05952v1)|**2025-06-06**|null|
-|**2025-06-06**|**Curvature induced modifications of chirality and magnetic configuration in perpendicular magnetized films**|David Raftrey et.al.|[2506.05938v1](http://arxiv.org/abs/2506.05938v1)|**2025-06-06**|null|
-|**2025-06-06**|**SurGSplat: Progressive Geometry-Constrained Gaussian Splatting for Surgical Scene Reconstruction**|Yuchao Zheng et.al.|[2506.05935v1](http://arxiv.org/abs/2506.05935v1)|**2025-06-06**|null|
-|**2025-06-06**|**Neural Visibility Cache for Real-Time Light Sampling**|Jakub Bokšanský et.al.|[2506.05930v1](http://arxiv.org/abs/2506.05930v1)|**2025-06-06**|null|
-|**2025-06-06**|**CryoFastAR: Fast Cryo-EM Ab Initio Reconstruction Made Easy**|Jiakai Zhang et.al.|[2506.05864v1](http://arxiv.org/abs/2506.05864v1)|**2025-06-06**|null|
-|**2025-06-06**|**Learning Along the Arrow of Time: Hyperbolic Geometry for Backward-Compatible Representation Learning**|Ngoc Bui et.al.|[2506.05826v1](http://arxiv.org/abs/2506.05826v1)|**2025-06-06**|null|
-|**2025-06-06**|**DeformCL: Learning Deformable Centerline Representation for Vessel Extraction in 3D Medical Image**|Ziwei Zhao et.al.|[2506.05820v1](http://arxiv.org/abs/2506.05820v1)|**2025-06-06**|null|
-|**2025-06-06**|**EqCollide: Equivariant and Collision-Aware Deformable Objects Neural Simulator**|Qianyi Chen et.al.|[2506.05797v1](http://arxiv.org/abs/2506.05797v1)|**2025-06-06**|null|
-|**2025-06-06**|**ShyLU node: On-node Scalable Solvers and Preconditioners Recent Progresses and Current Performance**|Ichitaro Yamazaki et.al.|[2506.05793v1](http://arxiv.org/abs/2506.05793v1)|**2025-06-06**|null|
-|**2025-06-06**|**Combinatorial quantization of 4d 2-Chern-Simons theory II: Quantum invariants of higher ribbons in $D^4$**|Hank Chen et.al.|[2506.05785v1](http://arxiv.org/abs/2506.05785v1)|**2025-06-06**|null|
-|**2025-06-06**|**Where Is The Ball: 3D Ball Trajectory Estimation From 2D Monocular Tracking**|Puntawat Ponglertnapakorn et.al.|[2506.05763v1](http://arxiv.org/abs/2506.05763v1)|**2025-06-06**|null|
-|**2025-06-06**|**BiTrajDiff: Bidirectional Trajectory Generation with Diffusion Models for Offline Reinforcement Learning**|Yunpeng Qing et.al.|[2506.05762v1](http://arxiv.org/abs/2506.05762v1)|**2025-06-06**|null|
-|**2025-06-06**|**State Dependent Optimization with Quantum Circuit Cutting**|Xinpeng Li et.al.|[2506.05722v1](http://arxiv.org/abs/2506.05722v1)|**2025-06-06**|null|
+|**2025-06-09**|**4DGT: Learning a 4D Gaussian Transformer Using Real-World Monocular Videos**|Zhen Xu et.al.|[2506.08015v1](http://arxiv.org/abs/2506.08015v1)|**2025-06-09**|null|
+|**2025-06-09**|**Aligning Text, Images, and 3D Structure Token-by-Token**|Aadarsh Sahoo et.al.|[2506.08002v1](http://arxiv.org/abs/2506.08002v1)|**2025-06-09**|null|
+|**2025-06-09**|**UA-Pose: Uncertainty-Aware 6D Object Pose Estimation and Online Object Completion with Partial References**|Ming-Feng Li et.al.|[2506.07996v1](http://arxiv.org/abs/2506.07996v1)|**2025-06-09**|null|
+|**2025-06-09**|**Real-time Localization of a Soccer Ball from a Single Camera**|Dmitrii Vorobev et.al.|[2506.07981v1](http://arxiv.org/abs/2506.07981v1)|**2025-06-09**|null|
+|**2025-06-09**|**Experimental demonstration of attosecond hard X-ray pulses**|Ichiro Inoue et.al.|[2506.07968v1](http://arxiv.org/abs/2506.07968v1)|**2025-06-09**|null|
+|**2025-06-09**|**BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models**|Peiyan Li et.al.|[2506.07961v1](http://arxiv.org/abs/2506.07961v1)|**2025-06-09**|null|
+|**2025-06-09**|**Creating a Historical Migration Dataset from Finnish Church Records, 1800-1920**|Ari Vesalainen et.al.|[2506.07960v1](http://arxiv.org/abs/2506.07960v1)|**2025-06-09**|null|
+|**2025-06-09**|**Squeeze3D: Your 3D Generation Model is Secretly an Extreme Neural Compressor**|Rishit Dagli et.al.|[2506.07932v1](http://arxiv.org/abs/2506.07932v1)|**2025-06-09**|null|
+|**2025-06-09**|**Efficient Seismic Data Interpolation via Sparse Attention Transformer and Diffusion Model**|Xiaoli Wei et.al.|[2506.07923v1](http://arxiv.org/abs/2506.07923v1)|**2025-06-09**|null|
+|**2025-06-09**|**W4S4: WaLRUS Meets S4 for Long-Range Sequence Modeling**|Hossein Babaei et.al.|[2506.07920v1](http://arxiv.org/abs/2506.07920v1)|**2025-06-09**|null|
+|**2025-06-09**|**Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**|Allen Tu et.al.|[2506.07917v1](http://arxiv.org/abs/2506.07917v1)|**2025-06-09**|null|
+|**2025-06-09**|**Common origin of the photoplastic and electroplastic effect in ZnS**|Alexandra Fonseca Montenegro et.al.|[2506.07908v1](http://arxiv.org/abs/2506.07908v1)|**2025-06-09**|null|
+|**2025-06-09**|**GaussianVAE: Adaptive Learning Dynamics of 3D Gaussians for High-Fidelity Super-Resolution**|Shuja Khalid et.al.|[2506.07897v1](http://arxiv.org/abs/2506.07897v1)|**2025-06-09**|null|
+|**2025-06-09**|**Secure Distributed Learning for CAVs: Defending Against Gradient Leakage with Leveled Homomorphic Encryption**|Muhammad Ali Najjar et.al.|[2506.07894v1](http://arxiv.org/abs/2506.07894v1)|**2025-06-09**|null|
+|**2025-06-09**|**SoK: Data Reconstruction Attacks Against Machine Learning Models: Definition, Metrics, and Benchmark**|Rui Wen et.al.|[2506.07888v1](http://arxiv.org/abs/2506.07888v1)|**2025-06-09**|null|
+|**2025-06-09**|**Measurement of the CP asymmetry in $D^+ \to π^+ π^0$ decays at Belle II**|Belle II Collaboration et.al.|[2506.07879v1](http://arxiv.org/abs/2506.07879v1)|**2025-06-09**|null|
+|**2025-06-09**|**Can Hessian-Based Insights Support Fault Diagnosis in Attention-based Models?**|Sigma Jahan et.al.|[2506.07871v1](http://arxiv.org/abs/2506.07871v1)|**2025-06-09**|null|
+|**2025-06-09**|**FreeGave: 3D Physics Learning from Dynamic Videos by Gaussian Velocity**|Jinxi Li et.al.|[2506.07865v1](http://arxiv.org/abs/2506.07865v1)|**2025-06-09**|null|
+|**2025-06-09**|**VIVAT: Virtuous Improving VAE Training through Artifact Mitigation**|Lev Novitskiy et.al.|[2506.07863v1](http://arxiv.org/abs/2506.07863v1)|**2025-06-09**|null|
+|**2025-06-09**|**Egocentric Event-Based Vision for Ping Pong Ball Trajectory Prediction**|Ivan Alberico et.al.|[2506.07860v1](http://arxiv.org/abs/2506.07860v1)|**2025-06-09**|null|
+|**2025-06-09**|**LogoSP: Local-global Grouping of Superpoints for Unsupervised Semantic Segmentation of 3D Point Clouds**|Zihui Zhang et.al.|[2506.07857v1](http://arxiv.org/abs/2506.07857v1)|**2025-06-09**|null|
+|**2025-06-09**|**A Temporal FRBR/FRBRoo-Based Model for Component-Level Versioning of Legal Norms**|Hudson de Martim et.al.|[2506.07853v1](http://arxiv.org/abs/2506.07853v1)|**2025-06-09**|null|
+|**2025-06-09**|**PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement**|Teng Hu et.al.|[2506.07848v1](http://arxiv.org/abs/2506.07848v1)|**2025-06-09**|null|
+|**2025-06-09**|**Mitigating Polarization Leakage in Gas Pixel Detectors through Hybrid Machine Learning and Analytic Event Reconstruction**|Nicoló Cibrario et.al.|[2506.07828v1](http://arxiv.org/abs/2506.07828v1)|**2025-06-09**|null|
+|**2025-06-09**|**R3D2: Realistic 3D Asset Insertion via Diffusion for Autonomous Driving Simulation**|William Ljungbergh et.al.|[2506.07826v1](http://arxiv.org/abs/2506.07826v1)|**2025-06-09**|null|
+|**2025-06-09**|**Incorporating Uncertainty-Guided and Top-k Codebook Matching for Real-World Blind Image Super-Resolution**|Weilei Wen et.al.|[2506.07809v1](http://arxiv.org/abs/2506.07809v1)|**2025-06-09**|null|
+|**2025-06-09**|**Image Reconstruction as a Tool for Feature Analysis**|Eduard Allakhverdov et.al.|[2506.07803v1](http://arxiv.org/abs/2506.07803v1)|**2025-06-09**|null|
+|**2025-06-09**|**Optical theorem and generalized energy conservation for scattering of time-modulated waves**|Erik Orvehed Hiltunen et.al.|[2506.07789v1](http://arxiv.org/abs/2506.07789v1)|**2025-06-09**|null|
+|**2025-06-09**|**A General Coding Framework for Adaptive Private Information Retrieval**|Jinbao Zhu et.al.|[2506.07787v1](http://arxiv.org/abs/2506.07787v1)|**2025-06-09**|null|
+|**2025-06-09**|**Experimental Test of the Principle of Tomographic Locality**|Tristan S. Lismer et.al.|[2506.07775v1](http://arxiv.org/abs/2506.07775v1)|**2025-06-09**|null|

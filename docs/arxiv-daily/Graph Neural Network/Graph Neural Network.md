@@ -2,33 +2,33 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-06**|**Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias**|Yuanzhe Hu et.al.|[2506.06280v1](http://arxiv.org/abs/2506.06280v1)|**2025-06-06**|null|
-|**2025-06-06**|**BecomingLit: Relightable Gaussian Avatars with Hybrid Neural Shading**|Jonathan Schmidt et.al.|[2506.06271v1](http://arxiv.org/abs/2506.06271v1)|**2025-06-06**|null|
-|**2025-06-06**|**Design Tradeoffs in Photonically Linked Qubit Networks**|Ely Novakoski et.al.|[2506.06268v1](http://arxiv.org/abs/2506.06268v1)|**2025-06-06**|null|
-|**2025-06-06**|**Integrating Complexity and Biological Realism: High-Performance Spiking Neural Networks for Breast Cancer Detection**|Zofia Rudnicka et.al.|[2506.06265v1](http://arxiv.org/abs/2506.06265v1)|**2025-06-06**|null|
-|**2025-06-06**|**Scalable Language Agnostic Taint Tracking using Explicit Data Dependencies**|Sedick David Baker Effendi et.al.|[2506.06247v1](http://arxiv.org/abs/2506.06247v1)|**2025-06-06**|null|
-|**2025-06-06**|**Neural Responses to Affective Sentences Reveal Signatures of Depression**|Aditya Kommineni et.al.|[2506.06244v1](http://arxiv.org/abs/2506.06244v1)|**2025-06-06**|null|
-|**2025-06-06**|**Visual Graph Arena: Evaluating Visual Conceptualization of Vision and Multimodal Large Language Models**|Zahra Babaiee et.al.|[2506.06242v1](http://arxiv.org/abs/2506.06242v1)|**2025-06-06**|null|
-|**2025-06-06**|**Diverse mean-field dynamics of clustered, inhibition-stabilized Hawkes networks via combinatorial threshold-linear networks**|Caitlin Lienkaemper et.al.|[2506.06234v1](http://arxiv.org/abs/2506.06234v1)|**2025-06-06**|null|
-|**2025-06-06**|**PROVSYN: Synthesizing Provenance Graphs for Data Augmentation in Intrusion Detection Systems**|Yi Huang et.al.|[2506.06226v1](http://arxiv.org/abs/2506.06226v1)|**2025-06-06**|null|
-|**2025-06-06**|**Model-Driven Graph Contrastive Learning**|Ali Azizpour et.al.|[2506.06212v1](http://arxiv.org/abs/2506.06212v1)|**2025-06-06**|null|
-|**2025-06-06**|**Building Models of Neurological Language**|Henry Watkins et.al.|[2506.06208v1](http://arxiv.org/abs/2506.06208v1)|**2025-06-06**|null|
-|**2025-06-06**|**Astra: Toward General-Purpose Mobile Robots via Hierarchical Multimodal Learning**|Sheng Chen et.al.|[2506.06205v1](http://arxiv.org/abs/2506.06205v1)|**2025-06-06**|null|
-|**2025-06-06**|**How to craft a deep reinforcement learning policy for wind farm flow control**|Elie Kadoche et.al.|[2506.06204v1](http://arxiv.org/abs/2506.06204v1)|**2025-06-06**|null|
-|**2025-06-06**|**Accelerating multijet-merged event generation with neural network matrix element surrogates**|Tim Herrmann et.al.|[2506.06203v1](http://arxiv.org/abs/2506.06203v1)|**2025-06-06**|null|
-|**2025-06-06**|**Transformative or Conservative? Conservation laws for ResNets and Transformers**|Sibylle Marcotte et.al.|[2506.06194v1](http://arxiv.org/abs/2506.06194v1)|**2025-06-06**|null|
-|**2025-06-06**|**ICU-TSB: A Benchmark for Temporal Patient Representation Learning for Unsupervised Stratification into Patient Cohorts**|Dimitrios Proios et.al.|[2506.06192v1](http://arxiv.org/abs/2506.06192v1)|**2025-06-06**|null|
-|**2025-06-06**|**Functional Architecture of the Human Hypothalamus: Cortical Coupling and Subregional Organization Using 7-Tesla fMRI**|Kent M. Lee et.al.|[2506.06191v1](http://arxiv.org/abs/2506.06191v1)|**2025-06-06**|null|
-|**2025-06-06**|**NAT: Neural Acoustic Transfer for Interactive Scenes in Real Time**|Xutong Jin et.al.|[2506.06190v1](http://arxiv.org/abs/2506.06190v1)|**2025-06-06**|null|
-|**2025-06-06**|**Physics-Informed Neural Networks for Control of Single-Phase Flow Systems Governed by Partial Differential Equations**|Luis Kin Miyatake et.al.|[2506.06188v1](http://arxiv.org/abs/2506.06188v1)|**2025-06-06**|null|
-|**2025-06-06**|**A Theoretical Study of (Hyper) Self-Attention through the Lens of Interactions: Representation, Training, Generalization**|Muhammed Ustaomeroglu et.al.|[2506.06179v1](http://arxiv.org/abs/2506.06179v1)|**2025-06-06**|null|
-|**2025-06-06**|**Obfuscation-Resilient Binary Code Similarity Analysis using Dominance Enhanced Semantic Graph**|Yufeng Wang et.al.|[2506.06161v1](http://arxiv.org/abs/2506.06161v1)|**2025-06-06**|null|
-|**2025-06-06**|**ENMA: Tokenwise Autoregression for Generative Neural PDE Operators**|Armand Kassaï Koupaï et.al.|[2506.06158v1](http://arxiv.org/abs/2506.06158v1)|**2025-06-06**|null|
-|**2025-06-06**|**Masked Language Models are Good Heterogeneous Graph Generalizers**|Jinyu Yang et.al.|[2506.06157v1](http://arxiv.org/abs/2506.06157v1)|**2025-06-06**|null|
-|**2025-06-06**|**Personalized Large Language Models Can Increase the Belief Accuracy of Social Networks**|Adiba Mahbub Proma et.al.|[2506.06153v1](http://arxiv.org/abs/2506.06153v1)|**2025-06-06**|null|
-|**2025-06-06**|**Inverse-designed nanophotonic neural network accelerators for ultra-compact optical computing**|Joel Sved et.al.|[2506.06150v1](http://arxiv.org/abs/2506.06150v1)|**2025-06-06**|null|
-|**2025-06-06**|**Automorphisms of fine curve graphs of planar surfaces**|Roberta Shapiro et.al.|[2506.06142v1](http://arxiv.org/abs/2506.06142v1)|**2025-06-06**|null|
-|**2025-06-06**|**Similarity Matching Networks: Hebbian Learning and Convergence Over Multiple Time Scales**|Veronica Centorrino et.al.|[2506.06134v1](http://arxiv.org/abs/2506.06134v1)|**2025-06-06**|null|
-|**2025-06-06**|**Adaptive Cucker-Smale Networks: Limiting Laplacian Time-Varying Dynamics**|Christian Kuehn et.al.|[2506.06131v1](http://arxiv.org/abs/2506.06131v1)|**2025-06-06**|null|
-|**2025-06-06**|**CCLSTM: Coupled Convolutional Long-Short Term Memory Network for Occupancy Flow Forecasting**|Peter Lengyel et.al.|[2506.06128v1](http://arxiv.org/abs/2506.06128v1)|**2025-06-06**|null|
-|**2025-06-06**|**Flow-Attentional Graph Neural Networks**|Pascal Plettenberg et.al.|[2506.06127v1](http://arxiv.org/abs/2506.06127v1)|**2025-06-06**|null|
+|**2025-06-09**|**4DGT: Learning a 4D Gaussian Transformer Using Real-World Monocular Videos**|Zhen Xu et.al.|[2506.08015v1](http://arxiv.org/abs/2506.08015v1)|**2025-06-09**|null|
+|**2025-06-09**|**ZeroVO: Visual Odometry with Minimal Assumptions**|Lei Lai et.al.|[2506.08005v1](http://arxiv.org/abs/2506.08005v1)|**2025-06-09**|null|
+|**2025-06-09**|**Reparameterized LLM Training via Orthogonal Equivalence Transformation**|Zeju Qiu et.al.|[2506.08001v1](http://arxiv.org/abs/2506.08001v1)|**2025-06-09**|null|
+|**2025-06-09**|**Microscopic Mechanism of Anyon Superconductivity Emerging from Fractional Chern Insulators**|Fabian Pichler et.al.|[2506.08000v1](http://arxiv.org/abs/2506.08000v1)|**2025-06-09**|null|
+|**2025-06-09**|**Generative Modeling of Weights: Generalization or Memorization?**|Boya Zeng et.al.|[2506.07998v1](http://arxiv.org/abs/2506.07998v1)|**2025-06-09**|null|
+|**2025-06-09**|**Unraveling Ethereum's Mempool: The Impact of Fee Fairness, Transaction Prioritization, and Consensus Efficiency**|S M Mostaq Hossain et.al.|[2506.07988v1](http://arxiv.org/abs/2506.07988v1)|**2025-06-09**|null|
+|**2025-06-09**|**Scalable Machine Learning Models for Predicting Quantum Transport in Disordered 2D Hexagonal Materials**|Seyed Mahdi Mastoor et.al.|[2506.07983v1](http://arxiv.org/abs/2506.07983v1)|**2025-06-09**|null|
+|**2025-06-09**|**Hyperpruning: Efficient Search through Pruned Variants of Recurrent Neural Networks Leveraging Lyapunov Spectrum**|Caleb Zheng et.al.|[2506.07975v1](http://arxiv.org/abs/2506.07975v1)|**2025-06-09**|null|
+|**2025-06-09**|**Exposing Hidden Backdoors in NFT Smart Contracts: A Static Security Analysis of Rug Pull Patterns**|Chetan Pathade et.al.|[2506.07974v1](http://arxiv.org/abs/2506.07974v1)|**2025-06-09**|null|
+|**2025-06-09**|**A Two-Phase Deep Learning Framework for Adaptive Time-Stepping in High-Speed Flow Modeling**|Jacob Helwig et.al.|[2506.07969v1](http://arxiv.org/abs/2506.07969v1)|**2025-06-09**|null|
+|**2025-06-09**|**Improving elliptic curve rank classification using multi-value and learned Mestre-Nagao sums**|Zvonimir Bujanović et.al.|[2506.07967v1](http://arxiv.org/abs/2506.07967v1)|**2025-06-09**|null|
+|**2025-06-09**|**Neural Tangent Kernel Analysis to Probe Convergence in Physics-informed Neural Solvers: PIKANs vs. PINNs**|Salah A. Faroughi et.al.|[2506.07958v1](http://arxiv.org/abs/2506.07958v1)|**2025-06-09**|null|
+|**2025-06-09**|**Graph-theoretic Inference for Random Effects in High-dimensional Studies**|Lynna Chu et.al.|[2506.07946v1](http://arxiv.org/abs/2506.07946v1)|**2025-06-09**|null|
+|**2025-06-09**|**Quantum Graph Transformer for NLP Sentiment Classification**|Shamminuj Aktar et.al.|[2506.07937v1](http://arxiv.org/abs/2506.07937v1)|**2025-06-09**|null|
+|**2025-06-09**|**Squeeze3D: Your 3D Generation Model is Secretly an Extreme Neural Compressor**|Rishit Dagli et.al.|[2506.07932v1](http://arxiv.org/abs/2506.07932v1)|**2025-06-09**|null|
+|**2025-06-09**|**Efficient Seismic Data Interpolation via Sparse Attention Transformer and Diffusion Model**|Xiaoli Wei et.al.|[2506.07923v1](http://arxiv.org/abs/2506.07923v1)|**2025-06-09**|null|
+|**2025-06-09**|**Ants3 toolkit: front-end for Geant4 with interactive GUI and Python scripting**|A. Morozov et.al.|[2506.07922v1](http://arxiv.org/abs/2506.07922v1)|**2025-06-09**|null|
+|**2025-06-09**|**Uncovering the Functional Roles of Nonlinearity in Memory**|Manuel Brenner et.al.|[2506.07919v1](http://arxiv.org/abs/2506.07919v1)|**2025-06-09**|null|
+|**2025-06-09**|**CausalPFN: Amortized Causal Effect Estimation via In-Context Learning**|Vahid Balazadeh et.al.|[2506.07918v1](http://arxiv.org/abs/2506.07918v1)|**2025-06-09**|[link](https://github.com/vdblm/CausalPFN)|
+|**2025-06-09**|**Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**|Allen Tu et.al.|[2506.07917v1](http://arxiv.org/abs/2506.07917v1)|**2025-06-09**|null|
+|**2025-06-09**|**Refugees' path to legal stability is long and systematically unequal**|Ola Ali et.al.|[2506.07916v1](http://arxiv.org/abs/2506.07916v1)|**2025-06-09**|null|
+|**2025-06-09**|**Stability and Extension of Steady and Ranging Persistence**|Yann-Situ Gazull et.al.|[2506.07911v1](http://arxiv.org/abs/2506.07911v1)|**2025-06-09**|null|
+|**2025-06-09**|**Stone Soup: ADS-B-based Multi-Target Tracking with Stochastic Integration Filter**|John Hiles et.al.|[2506.07889v1](http://arxiv.org/abs/2506.07889v1)|**2025-06-09**|null|
+|**2025-06-09**|**Evaluating explainable AI for deep learning-based network intrusion detection system alert classification**|Rajesh Kalakoti et.al.|[2506.07882v1](http://arxiv.org/abs/2506.07882v1)|**2025-06-09**|null|
+|**2025-06-09**|**Diffusion-RL for Scalable Resource Allocation for 6G Networks**|Salar Nouri et.al.|[2506.07880v1](http://arxiv.org/abs/2506.07880v1)|**2025-06-09**|null|
+|**2025-06-09**|**Spatio-Temporal State Space Model For Efficient Event-Based Optical Flow**|Muhammad Ahmed Humais et.al.|[2506.07878v1](http://arxiv.org/abs/2506.07878v1)|**2025-06-09**|null|
+|**2025-06-09**|**A distributed motion planning approach to cooperative underwater acoustic source tracking and pursuit**|Andrea Tiranti et.al.|[2506.07877v1](http://arxiv.org/abs/2506.07877v1)|**2025-06-09**|null|
+|**2025-06-09**|**Optimization of Bottlenecks in Quantum Graphs Guided by Fiedler Vector-Based Spectral Derivatives**|John TM Campbell et.al.|[2506.07875v1](http://arxiv.org/abs/2506.07875v1)|**2025-06-09**|null|
+|**2025-06-09**|**Towards a Base-Station-on-Chip: RISC-V Hardware Acceleration for wireless communication**|Javier Acevedo et.al.|[2506.07873v1](http://arxiv.org/abs/2506.07873v1)|**2025-06-09**|null|
+|**2025-06-09**|**Can Hessian-Based Insights Support Fault Diagnosis in Attention-based Models?**|Sigma Jahan et.al.|[2506.07871v1](http://arxiv.org/abs/2506.07871v1)|**2025-06-09**|null|

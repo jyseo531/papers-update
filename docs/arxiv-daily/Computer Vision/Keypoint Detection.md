@@ -2,6 +2,11 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-09**|**OpenDance: Multimodal Controllable 3D Dance Generation Using Large-scale Internet Data**|Jinlu Zhang et.al.|[2506.07565v1](http://arxiv.org/abs/2506.07565v1)|**2025-06-09**|null|
+|**2025-06-08**|**Task-driven real-world super-resolution of document scans**|Maciej Zyrek et.al.|[2506.06953v1](http://arxiv.org/abs/2506.06953v1)|**2025-06-08**|null|
+|**2025-06-07**|**SAR2Struct: Extracting 3D Semantic Structural Representation of Aircraft Targets from Single-View SAR Image**|Ziyu Yue et.al.|[2506.06757v1](http://arxiv.org/abs/2506.06757v1)|**2025-06-07**|null|
+|**2025-06-06**|**Graph Persistence goes Spectral**|Mattie Ji et.al.|[2506.06571v1](http://arxiv.org/abs/2506.06571v1)|**2025-06-06**|null|
+|**2025-06-06**|**NeurNCD: Novel Class Discovery via Implicit Neural Representation**|Junming Wang et.al.|[2506.06412v1](http://arxiv.org/abs/2506.06412v1)|**2025-06-06**|null|
 |**2025-06-06**|**A Combined DFT and MD Study on Interface Stability in Ferrite-Cementite Systems**|Pablo Canca et.al.|[2506.05852v1](http://arxiv.org/abs/2506.05852v1)|**2025-06-06**|null|
 |**2025-06-05**|**AutoQD: Automatic Discovery of Diverse Behaviors with Quality-Diversity Optimization**|Saeed Hedayatian et.al.|[2506.05634v1](http://arxiv.org/abs/2506.05634v1)|**2025-06-05**|null|
 |**2025-06-05**|**Object-X: Learning to Reconstruct Multi-Modal 3D Object Representations**|Gaia Di Lorenzo et.al.|[2506.04789v1](http://arxiv.org/abs/2506.04789v1)|**2025-06-05**|null|
@@ -27,8 +32,3 @@
 |**2025-05-29**|**Robot-R1: Reinforcement Learning for Enhanced Embodied Reasoning in Robotics**|Dongyoung Kim et.al.|[2506.00070v1](http://arxiv.org/abs/2506.00070v1)|**2025-05-29**|null|
 |**2025-05-29**|**TimePoint: Accelerated Time Series Alignment via Self-Supervised Keypoint and Descriptor Learning**|Ron Shapira Weber et.al.|[2505.23475v1](http://arxiv.org/abs/2505.23475v1)|**2025-05-29**|[link](https://github.com/bgu-cs-vil/timepoint)|
 |**2025-05-29**|**On the Validity of Head Motion Patterns as Generalisable Depression Biomarkers**|Monika Gahalawat et.al.|[2505.23427v1](http://arxiv.org/abs/2505.23427v1)|**2025-05-29**|null|
-|**2025-05-29**|**A Descriptor Is All You Need: Accurate Machine Learning of Nonadiabatic Coupling Vectors**|Jakub Martinka et.al.|[2505.23344v1](http://arxiv.org/abs/2505.23344v1)|**2025-05-29**|[link](https://github.com/jakubmartinka/fulvene-ml-fssh)|
-|**2025-05-29**|**Towards LLM-Empowered Fine-Grained Speech Descriptors for Explainable Emotion Recognition**|Youjun Chen et.al.|[2505.23236v1](http://arxiv.org/abs/2505.23236v1)|**2025-05-29**|[link](https://github.com/SEUJames23/explainable-emotion-recognition)|
-|**2025-05-28**|**ATI: Any Trajectory Instruction for Controllable Video Generation**|Angtian Wang et.al.|[2505.22944v2](http://arxiv.org/abs/2505.22944v2)|**2025-06-03**|null|
-|**2025-05-28**|**MultiFormer: A Multi-Person Pose Estimation System Based on CSI and Attention Mechanism**|Yanyi Qu et.al.|[2505.22555v1](http://arxiv.org/abs/2505.22555v1)|**2025-05-28**|null|
-|**2025-05-28**|**Machine-Learned Potentials for Solvation Modeling**|Roopshree Banchode et.al.|[2505.22402v2](http://arxiv.org/abs/2505.22402v2)|**2025-05-29**|[link](https://github.com/raghurama123/Rev-MLP4Sol)|

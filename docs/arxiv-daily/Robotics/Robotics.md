@@ -2,33 +2,33 @@
 ### Robotics
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-06**|**PyGemini: Unified Software Development towards Maritime Autonomy Systems**|Kjetil Vasstein et.al.|[2506.06262v1](http://arxiv.org/abs/2506.06262v1)|**2025-06-06**|null|
-|**2025-06-06**|**From NLVO to NAO: Reactive Robot Navigation using Velocity and Acceleration Obstacles**|Asher Stern et.al.|[2506.06255v1](http://arxiv.org/abs/2506.06255v1)|**2025-06-06**|null|
-|**2025-06-06**|**BiAssemble: Learning Collaborative Affordance for Bimanual Geometric Assembly**|Yan Shen et.al.|[2506.06221v1](http://arxiv.org/abs/2506.06221v1)|**2025-06-06**|null|
-|**2025-06-06**|**Astra: Toward General-Purpose Mobile Robots via Hierarchical Multimodal Learning**|Sheng Chen et.al.|[2506.06205v1](http://arxiv.org/abs/2506.06205v1)|**2025-06-06**|null|
-|**2025-06-06**|**3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model**|Hongyan Zhi et.al.|[2506.06199v1](http://arxiv.org/abs/2506.06199v1)|**2025-06-06**|null|
-|**2025-06-06**|**Bridging Perception and Action: Spatially-Grounded Mid-Level Representations for Robot Generalization**|Jonathan Yang et.al.|[2506.06196v1](http://arxiv.org/abs/2506.06196v1)|**2025-06-06**|null|
-|**2025-06-06**|**UAV-UGV Cooperative Trajectory Optimization and Task Allocation for Medical Rescue Tasks in Post-Disaster Environments**|Kaiyuan Chen et.al.|[2506.06136v1](http://arxiv.org/abs/2506.06136v1)|**2025-06-06**|null|
-|**2025-06-06**|**On-board Mission Replanning for Adaptive Cooperative Multi-Robot Systems**|Elim Kwan et.al.|[2506.06094v1](http://arxiv.org/abs/2506.06094v1)|**2025-06-06**|null|
-|**2025-06-06**|**Self driving algorithm for an active four wheel drive racecar**|Gergely Bari et.al.|[2506.06077v1](http://arxiv.org/abs/2506.06077v1)|**2025-06-06**|null|
-|**2025-06-06**|**On the Suitability of Wi-Fi for Interconnecting Moving Equipment in Industrial Environments**|Pietro Chiavassa et.al.|[2506.06074v1](http://arxiv.org/abs/2506.06074v1)|**2025-06-06**|null|
-|**2025-06-06**|**BEAST: Efficient Tokenization of B-Splines Encoded Action Sequences for Imitation Learning**|Hongyi Zhou et.al.|[2506.06072v1](http://arxiv.org/abs/2506.06072v1)|**2025-06-06**|null|
-|**2025-06-06**|**Trajectory Optimization for UAV-Based Medical Delivery with Temporal Logic Constraints and Convex Feasible Set Collision Avoidance**|Kaiyuan Chen et.al.|[2506.06038v1](http://arxiv.org/abs/2506.06038v1)|**2025-06-06**|null|
-|**2025-06-06**|**SVD: Spatial Video Dataset**|M. H. Izadimehr et.al.|[2506.06037v1](http://arxiv.org/abs/2506.06037v1)|**2025-06-06**|null|
-|**2025-06-06**|**End-to-End Framework for Robot Lawnmower Coverage Path Planning using Cellular Decomposition**|Nikunj Shah et.al.|[2506.06028v1](http://arxiv.org/abs/2506.06028v1)|**2025-06-06**|null|
-|**2025-06-06**|**Equivariant Filter for Relative Attitude and Target Angular Velocity Estimation**|Gil Serrano et.al.|[2506.06016v1](http://arxiv.org/abs/2506.06016v1)|**2025-06-06**|null|
-|**2025-06-06**|**Enhanced Trust Region Sequential Convex Optimization for Multi-Drone Thermal Screening Trajectory Planning in Urban Environments**|Kaiyuan Chen et.al.|[2506.06012v1](http://arxiv.org/abs/2506.06012v1)|**2025-06-06**|null|
-|**2025-06-06**|**Improving Long-Range Navigation with Spatially-Enhanced Recurrent Memory via End-to-End Reinforcement Learning**|Fan Yang et.al.|[2506.05997v1](http://arxiv.org/abs/2506.05997v1)|**2025-06-06**|null|
-|**2025-06-06**|**Dynamic Mixture of Progressive Parameter-Efficient Expert Library for Lifelong Robot Learning**|Yuheng Lei et.al.|[2506.05985v1](http://arxiv.org/abs/2506.05985v1)|**2025-06-06**|null|
-|**2025-06-06**|**Gradual Transition from Bellman Optimality Operator to Bellman Operator in Online Reinforcement Learning**|Motoki Omura et.al.|[2506.05968v1](http://arxiv.org/abs/2506.05968v1)|**2025-06-06**|null|
-|**2025-06-06**|**Object Navigation with Structure-Semantic Reasoning-Based Multi-level Map and Multimodal Decision-Making LLM**|Chongshang Yan et.al.|[2506.05896v1](http://arxiv.org/abs/2506.05896v1)|**2025-06-06**|null|
-|**2025-06-06**|**CryoFastAR: Fast Cryo-EM Ab Initio Reconstruction Made Easy**|Jiakai Zhang et.al.|[2506.05864v1](http://arxiv.org/abs/2506.05864v1)|**2025-06-06**|null|
-|**2025-06-06**|**Optimal Robotic Velcro Peeling with Force Feedback**|Jiacheng Yuan et.al.|[2506.05812v1](http://arxiv.org/abs/2506.05812v1)|**2025-06-06**|null|
-|**2025-06-06**|**Trajectory Entropy: Modeling Game State Stability from Multimodality Trajectory Prediction**|Yesheng Zhang et.al.|[2506.05810v1](http://arxiv.org/abs/2506.05810v1)|**2025-06-06**|null|
-|**2025-06-06**|**Where Do We Look When We Teach? Analyzing Human Gaze Behavior Across Demonstration Devices in Robot Imitation Learning**|Yutaro Ishida et.al.|[2506.05808v1](http://arxiv.org/abs/2506.05808v1)|**2025-06-06**|null|
-|**2025-06-06**|**EqCollide: Equivariant and Collision-Aware Deformable Objects Neural Simulator**|Qianyi Chen et.al.|[2506.05797v1](http://arxiv.org/abs/2506.05797v1)|**2025-06-06**|null|
-|**2025-06-06**|**Robust sensor fusion against on-vehicle sensor staleness**|Meng Fan et.al.|[2506.05780v1](http://arxiv.org/abs/2506.05780v1)|**2025-06-06**|null|
-|**2025-06-06**|**A Soft Robotic Module with Pneumatic Actuation and Enhanced Controllability Using a Shape Memory Alloy Wire**|Mohammadnavid Golchin et.al.|[2506.05741v1](http://arxiv.org/abs/2506.05741v1)|**2025-06-06**|null|
-|**2025-06-06**|**You Only Estimate Once: Unified, One-stage, Real-Time Category-level Articulated Object 6D Pose Estimation for Robotic Grasping**|Jingshun Huang et.al.|[2506.05719v1](http://arxiv.org/abs/2506.05719v1)|**2025-06-06**|null|
-|**2025-06-06**|**Advancement and Field Evaluation of a Dual-arm Apple Harvesting Robot**|Keyi Zhu et.al.|[2506.05714v1](http://arxiv.org/abs/2506.05714v1)|**2025-06-06**|null|
-|**2025-06-06**|**Learning Design-Score Manifold to Guide Diffusion Models for Offline Optimization**|Tailin Zhou et.al.|[2506.05680v1](http://arxiv.org/abs/2506.05680v1)|**2025-06-06**|null|
+|**2025-06-09**|**Aligning Text, Images, and 3D Structure Token-by-Token**|Aadarsh Sahoo et.al.|[2506.08002v1](http://arxiv.org/abs/2506.08002v1)|**2025-06-09**|null|
+|**2025-06-09**|**UA-Pose: Uncertainty-Aware 6D Object Pose Estimation and Online Object Completion with Partial References**|Ming-Feng Li et.al.|[2506.07996v1](http://arxiv.org/abs/2506.07996v1)|**2025-06-09**|null|
+|**2025-06-09**|**BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models**|Peiyan Li et.al.|[2506.07961v1](http://arxiv.org/abs/2506.07961v1)|**2025-06-09**|null|
+|**2025-06-09**|**Design and Implementation of a Peer-to-Peer Communication, Modular and Decentral YellowCube UUV**|Zhizun Xu et.al.|[2506.07924v1](http://arxiv.org/abs/2506.07924v1)|**2025-06-09**|null|
+|**2025-06-09**|**EgoM2P: Egocentric Multimodal Multitask Pretraining**|Gen Li et.al.|[2506.07886v1](http://arxiv.org/abs/2506.07886v1)|**2025-06-09**|null|
+|**2025-06-09**|**Versatile Loco-Manipulation through Flexible Interlimb Coordination**|Xinghao Zhu et.al.|[2506.07876v1](http://arxiv.org/abs/2506.07876v1)|**2025-06-09**|null|
+|**2025-06-09**|**FreeGave: 3D Physics Learning from Dynamic Videos by Gaussian Velocity**|Jinxi Li et.al.|[2506.07865v1](http://arxiv.org/abs/2506.07865v1)|**2025-06-09**|null|
+|**2025-06-09**|**LogoSP: Local-global Grouping of Superpoints for Unsupervised Semantic Segmentation of 3D Point Clouds**|Zihui Zhang et.al.|[2506.07857v1](http://arxiv.org/abs/2506.07857v1)|**2025-06-09**|null|
+|**2025-06-09**|**Decentralizing Multi-Agent Reinforcement Learning with Temporal Causal Information**|Jan Corazza et.al.|[2506.07829v1](http://arxiv.org/abs/2506.07829v1)|**2025-06-09**|null|
+|**2025-06-09**|**R3D2: Realistic 3D Asset Insertion via Diffusion for Autonomous Driving Simulation**|William Ljungbergh et.al.|[2506.07826v1](http://arxiv.org/abs/2506.07826v1)|**2025-06-09**|null|
+|**2025-06-09**|**Primal-Dual iLQR for GPU-Accelerated Learning and Control in Legged Robots**|Lorenzo Amatucci et.al.|[2506.07823v1](http://arxiv.org/abs/2506.07823v1)|**2025-06-09**|null|
+|**2025-06-09**|**SMaRCSim: Maritime Robotics Simulation Modules**|Mart Kartašev et.al.|[2506.07781v1](http://arxiv.org/abs/2506.07781v1)|**2025-06-09**|null|
+|**2025-06-09**|**Deep Equivariant Multi-Agent Control Barrier Functions**|Nikolaos Bousias et.al.|[2506.07755v1](http://arxiv.org/abs/2506.07755v1)|**2025-06-09**|null|
+|**2025-06-09**|**Graph-Assisted Stitching for Offline Hierarchical Reinforcement Learning**|Seungho Baek et.al.|[2506.07744v1](http://arxiv.org/abs/2506.07744v1)|**2025-06-09**|null|
+|**2025-06-09**|**A Communication-Latency-Aware Co-Simulation Platform for Safety and Comfort Evaluation of Cloud-Controlled ICVs**|Yongqi Zhao et.al.|[2506.07696v1](http://arxiv.org/abs/2506.07696v1)|**2025-06-09**|null|
+|**2025-06-09**|**Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse**|Zhekai Duan et.al.|[2506.07639v1](http://arxiv.org/abs/2506.07639v1)|**2025-06-09**|null|
+|**2025-06-09**|**Blending Participatory Design and Artificial Awareness for Trustworthy Autonomous Vehicles**|Ana Tanevska et.al.|[2506.07633v1](http://arxiv.org/abs/2506.07633v1)|**2025-06-09**|null|
+|**2025-06-09**|**LLM-driven Indoor Scene Layout Generation via Scaled Human-aligned Data Synthesis and Multi-Stage Preference Optimization**|Yixuan Yang et.al.|[2506.07570v1](http://arxiv.org/abs/2506.07570v1)|**2025-06-09**|null|
+|**2025-06-09**|**Curriculum Learning With Counterfactual Group Relative Policy Advantage For Multi-Agent Reinforcement Learning**|Weiqiang Jin et.al.|[2506.07548v1](http://arxiv.org/abs/2506.07548v1)|**2025-06-09**|null|
+|**2025-06-09**|**Fractional Collisions: A Framework for Risk Estimation of Counterfactual Conflicts using Autonomous Driving Behavior Simulations**|Sreeja Roy-Singh et.al.|[2506.07540v1](http://arxiv.org/abs/2506.07540v1)|**2025-06-09**|null|
+|**2025-06-09**|**Domain Randomization for Object Detection in Manufacturing Applications using Synthetic Data: A Comprehensive Study**|Xiaomeng Zhu et.al.|[2506.07539v1](http://arxiv.org/abs/2506.07539v1)|**2025-06-09**|null|
+|**2025-06-09**|**BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation**|Hongyu Wang et.al.|[2506.07530v1](http://arxiv.org/abs/2506.07530v1)|**2025-06-09**|null|
+|**2025-06-09**|**Taking Flight with Dialogue: Enabling Natural Language Control for PX4-based Drone Agent**|Shoon Kit Lim et.al.|[2506.07509v1](http://arxiv.org/abs/2506.07509v1)|**2025-06-09**|null|
+|**2025-06-09**|**SpatialLM: Training Large Language Models for Structured Indoor Modeling**|Yongsen Mao et.al.|[2506.07491v1](http://arxiv.org/abs/2506.07491v1)|**2025-06-09**|null|
+|**2025-06-09**|**RAPID Hand: A Robust, Affordable, Perception-Integrated, Dexterous Manipulation Platform for Generalist Robot Autonomy**|Zhaoliang Wan et.al.|[2506.07490v1](http://arxiv.org/abs/2506.07490v1)|**2025-06-09**|null|
+|**2025-06-09**|**Language-Grounded Hierarchical Planning and Execution with Multi-Robot 3D Scene Graphs**|Jared Strader et.al.|[2506.07454v1](http://arxiv.org/abs/2506.07454v1)|**2025-06-09**|null|
+|**2025-06-09**|**LiteVLM: A Low-Latency Vision-Language Model Inference Pipeline for Resource-Constrained Environments**|Jin Huang et.al.|[2506.07416v1](http://arxiv.org/abs/2506.07416v1)|**2025-06-09**|null|
+|**2025-06-09**|**MapBERT: Bitwise Masked Modeling for Real-Time Semantic Mapping Generation**|Yijie Deng et.al.|[2506.07350v1](http://arxiv.org/abs/2506.07350v1)|**2025-06-09**|null|
+|**2025-06-09**|**UruBots Autonomous Cars Challenge Pro Team Description Paper for FIRA 2025**|Pablo Moraes et.al.|[2506.07348v1](http://arxiv.org/abs/2506.07348v1)|**2025-06-09**|null|
+|**2025-06-09**|**Reproducibility in the Control of Autonomous Mobility-on-Demand Systems**|Xinling Li et.al.|[2506.07345v1](http://arxiv.org/abs/2506.07345v1)|**2025-06-09**|null|
