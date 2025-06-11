@@ -22,7 +22,7 @@
 |**2025-06-09**|**In-situ tuning of cavity dissipation and a topological transition in an atom-nanotip-cavity system**|Taegyu Ha et.al.|[2506.07800v1](http://arxiv.org/abs/2506.07800v1)|**2025-06-09**|null|
 |**2025-06-09**|**Learned Off-Grid Imager for Low-Altitude Economy with Cooperative ISAC Network**|Yixuan Huang et.al.|[2506.07799v1](http://arxiv.org/abs/2506.07799v1)|**2025-06-09**|[link](https://github.com/kiwi1944/LAEImager)|
 |**2025-06-09**|**Bootstrapping form factor squared in ${\cal N}=4$ super-Yang-Mills**|Song He et.al.|[2506.07796v1](http://arxiv.org/abs/2506.07796v1)|**2025-06-09**|null|
-|**2025-06-09**|**Redshift ~2.7 is not special**|Prajwel Joseph et.al.|[2506.07774v1](http://arxiv.org/abs/2506.07774v1)|**2025-06-09**|null|
+|**2025-06-09**|**Redshift ~2.7 is not special**|Prajwel Joseph et.al.|[2506.07774v1](http://arxiv.org/abs/2506.07774v1)|**2025-06-09**|[link](https://github.com/prajwel/no_special_redshift)|
 |**2025-06-09**|**Quickest Causal Change Point Detection by Adaptive Intervention**|Haijie Xu et.al.|[2506.07760v1](http://arxiv.org/abs/2506.07760v1)|**2025-06-09**|null|
 |**2025-06-09**|**Algebraic Geometry of Cactus, Pascal, and Pappus Matroids**|Emiliano Liwski et.al.|[2506.07757v1](http://arxiv.org/abs/2506.07757v1)|**2025-06-09**|null|
 |**2025-06-09**|**Quantum-Enhanced Spectral Solution of the Poisson Equation**|G. Intoccia et.al.|[2506.07743v1](http://arxiv.org/abs/2506.07743v1)|**2025-06-09**|null|

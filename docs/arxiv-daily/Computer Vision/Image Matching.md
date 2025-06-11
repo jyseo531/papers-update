@@ -14,7 +14,7 @@
 |**2025-06-09**|**Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers**|Zhengyao Lv et.al.|[2506.07986v1](http://arxiv.org/abs/2506.07986v1)|**2025-06-09**|null|
 |**2025-06-09**|**Rethinking Crowd-Sourced Evaluation of Neuron Explanations**|Tuomas Oikarinen et.al.|[2506.07985v1](http://arxiv.org/abs/2506.07985v1)|**2025-06-09**|null|
 |**2025-06-09**|**Real-time Localization of a Soccer Ball from a Single Camera**|Dmitrii Vorobev et.al.|[2506.07981v1](http://arxiv.org/abs/2506.07981v1)|**2025-06-09**|null|
-|**2025-06-09**|**OneIG-Bench: Omni-dimensional Nuanced Evaluation for Image Generation**|Jingjing Chang et.al.|[2506.07977v1](http://arxiv.org/abs/2506.07977v1)|**2025-06-09**|null|
+|**2025-06-09**|**OneIG-Bench: Omni-dimensional Nuanced Evaluation for Image Generation**|Jingjing Chang et.al.|[2506.07977v2](http://arxiv.org/abs/2506.07977v2)|**2025-06-10**|null|
 |**2025-06-09**|**Hyperpruning: Efficient Search through Pruned Variants of Recurrent Neural Networks Leveraging Lyapunov Spectrum**|Caleb Zheng et.al.|[2506.07975v1](http://arxiv.org/abs/2506.07975v1)|**2025-06-09**|null|
 |**2025-06-09**|**High resolution quantum enhanced phase imaging of cells**|Alberto Paniate et.al.|[2506.07965v1](http://arxiv.org/abs/2506.07965v1)|**2025-06-09**|null|
 |**2025-06-09**|**SlideCoder: Layout-aware RAG-enhanced Hierarchical Slide Generation from Design**|Wenxin Tang et.al.|[2506.07964v1](http://arxiv.org/abs/2506.07964v1)|**2025-06-09**|null|

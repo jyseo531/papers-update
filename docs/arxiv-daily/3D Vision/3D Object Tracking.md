@@ -30,5 +30,5 @@
 |**2025-06-09**|**A structural nested rate model for estimating the effects of time-varying exposure on recurrent event outcomes in the presence of death**|Daniel Mork et.al.|[2506.07910v1](http://arxiv.org/abs/2506.07910v1)|**2025-06-09**|null|
 |**2025-06-09**|**Constraints on Quaoar's rings and atmosphere from JWST/NIRCam observations of a stellar occultation**|Benjamin Proudfoot et.al.|[2506.07898v1](http://arxiv.org/abs/2506.07898v1)|**2025-06-09**|null|
 |**2025-06-09**|**GaussianVAE: Adaptive Learning Dynamics of 3D Gaussians for High-Fidelity Super-Resolution**|Shuja Khalid et.al.|[2506.07897v1](http://arxiv.org/abs/2506.07897v1)|**2025-06-09**|null|
-|**2025-06-09**|**Stone Soup: ADS-B-based Multi-Target Tracking with Stochastic Integration Filter**|John Hiles et.al.|[2506.07889v1](http://arxiv.org/abs/2506.07889v1)|**2025-06-09**|null|
+|**2025-06-09**|**Stone Soup: ADS-B-based Multi-Target Tracking with Stochastic Integration Filter**|John Hiles et.al.|[2506.07889v2](http://arxiv.org/abs/2506.07889v2)|**2025-06-10**|null|
 |**2025-06-09**|**EgoM2P: Egocentric Multimodal Multitask Pretraining**|Gen Li et.al.|[2506.07886v1](http://arxiv.org/abs/2506.07886v1)|**2025-06-09**|null|
