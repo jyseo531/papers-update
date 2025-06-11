@@ -2,33 +2,33 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-09**|**4DGT: Learning a 4D Gaussian Transformer Using Real-World Monocular Videos**|Zhen Xu et.al.|[2506.08015v1](http://arxiv.org/abs/2506.08015v1)|**2025-06-09**|null|
-|**2025-06-09**|**ZeroVO: Visual Odometry with Minimal Assumptions**|Lei Lai et.al.|[2506.08005v1](http://arxiv.org/abs/2506.08005v1)|**2025-06-09**|null|
-|**2025-06-09**|**Reparameterized LLM Training via Orthogonal Equivalence Transformation**|Zeju Qiu et.al.|[2506.08001v1](http://arxiv.org/abs/2506.08001v1)|**2025-06-09**|null|
-|**2025-06-09**|**Microscopic Mechanism of Anyon Superconductivity Emerging from Fractional Chern Insulators**|Fabian Pichler et.al.|[2506.08000v1](http://arxiv.org/abs/2506.08000v1)|**2025-06-09**|null|
-|**2025-06-09**|**Generative Modeling of Weights: Generalization or Memorization?**|Boya Zeng et.al.|[2506.07998v1](http://arxiv.org/abs/2506.07998v1)|**2025-06-09**|null|
-|**2025-06-09**|**Unraveling Ethereum's Mempool: The Impact of Fee Fairness, Transaction Prioritization, and Consensus Efficiency**|S M Mostaq Hossain et.al.|[2506.07988v1](http://arxiv.org/abs/2506.07988v1)|**2025-06-09**|null|
-|**2025-06-09**|**Scalable Machine Learning Models for Predicting Quantum Transport in Disordered 2D Hexagonal Materials**|Seyed Mahdi Mastoor et.al.|[2506.07983v1](http://arxiv.org/abs/2506.07983v1)|**2025-06-09**|null|
-|**2025-06-09**|**Hyperpruning: Efficient Search through Pruned Variants of Recurrent Neural Networks Leveraging Lyapunov Spectrum**|Caleb Zheng et.al.|[2506.07975v1](http://arxiv.org/abs/2506.07975v1)|**2025-06-09**|null|
-|**2025-06-09**|**Exposing Hidden Backdoors in NFT Smart Contracts: A Static Security Analysis of Rug Pull Patterns**|Chetan Pathade et.al.|[2506.07974v1](http://arxiv.org/abs/2506.07974v1)|**2025-06-09**|null|
-|**2025-06-09**|**A Two-Phase Deep Learning Framework for Adaptive Time-Stepping in High-Speed Flow Modeling**|Jacob Helwig et.al.|[2506.07969v1](http://arxiv.org/abs/2506.07969v1)|**2025-06-09**|null|
-|**2025-06-09**|**Improving elliptic curve rank classification using multi-value and learned Mestre-Nagao sums**|Zvonimir Bujanović et.al.|[2506.07967v1](http://arxiv.org/abs/2506.07967v1)|**2025-06-09**|null|
-|**2025-06-09**|**Neural Tangent Kernel Analysis to Probe Convergence in Physics-informed Neural Solvers: PIKANs vs. PINNs**|Salah A. Faroughi et.al.|[2506.07958v1](http://arxiv.org/abs/2506.07958v1)|**2025-06-09**|null|
-|**2025-06-09**|**Graph-theoretic Inference for Random Effects in High-dimensional Studies**|Lynna Chu et.al.|[2506.07946v1](http://arxiv.org/abs/2506.07946v1)|**2025-06-09**|null|
-|**2025-06-09**|**Quantum Graph Transformer for NLP Sentiment Classification**|Shamminuj Aktar et.al.|[2506.07937v1](http://arxiv.org/abs/2506.07937v1)|**2025-06-09**|null|
-|**2025-06-09**|**Squeeze3D: Your 3D Generation Model is Secretly an Extreme Neural Compressor**|Rishit Dagli et.al.|[2506.07932v1](http://arxiv.org/abs/2506.07932v1)|**2025-06-09**|null|
-|**2025-06-09**|**Efficient Seismic Data Interpolation via Sparse Attention Transformer and Diffusion Model**|Xiaoli Wei et.al.|[2506.07923v1](http://arxiv.org/abs/2506.07923v1)|**2025-06-09**|null|
-|**2025-06-09**|**Ants3 toolkit: front-end for Geant4 with interactive GUI and Python scripting**|A. Morozov et.al.|[2506.07922v1](http://arxiv.org/abs/2506.07922v1)|**2025-06-09**|null|
-|**2025-06-09**|**Uncovering the Functional Roles of Nonlinearity in Memory**|Manuel Brenner et.al.|[2506.07919v1](http://arxiv.org/abs/2506.07919v1)|**2025-06-09**|null|
-|**2025-06-09**|**CausalPFN: Amortized Causal Effect Estimation via In-Context Learning**|Vahid Balazadeh et.al.|[2506.07918v1](http://arxiv.org/abs/2506.07918v1)|**2025-06-09**|[link](https://github.com/vdblm/CausalPFN)|
-|**2025-06-09**|**Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**|Allen Tu et.al.|[2506.07917v1](http://arxiv.org/abs/2506.07917v1)|**2025-06-09**|null|
-|**2025-06-09**|**Refugees' path to legal stability is long and systematically unequal**|Ola Ali et.al.|[2506.07916v1](http://arxiv.org/abs/2506.07916v1)|**2025-06-09**|null|
-|**2025-06-09**|**Stability and Extension of Steady and Ranging Persistence**|Yann-Situ Gazull et.al.|[2506.07911v1](http://arxiv.org/abs/2506.07911v1)|**2025-06-09**|null|
-|**2025-06-09**|**Stone Soup: ADS-B-based Multi-Target Tracking with Stochastic Integration Filter**|John Hiles et.al.|[2506.07889v2](http://arxiv.org/abs/2506.07889v2)|**2025-06-10**|null|
-|**2025-06-09**|**Evaluating explainable AI for deep learning-based network intrusion detection system alert classification**|Rajesh Kalakoti et.al.|[2506.07882v1](http://arxiv.org/abs/2506.07882v1)|**2025-06-09**|null|
-|**2025-06-09**|**Diffusion-RL for Scalable Resource Allocation for 6G Networks**|Salar Nouri et.al.|[2506.07880v1](http://arxiv.org/abs/2506.07880v1)|**2025-06-09**|null|
-|**2025-06-09**|**Spatio-Temporal State Space Model For Efficient Event-Based Optical Flow**|Muhammad Ahmed Humais et.al.|[2506.07878v1](http://arxiv.org/abs/2506.07878v1)|**2025-06-09**|null|
-|**2025-06-09**|**A distributed motion planning approach to cooperative underwater acoustic source tracking and pursuit**|Andrea Tiranti et.al.|[2506.07877v1](http://arxiv.org/abs/2506.07877v1)|**2025-06-09**|null|
-|**2025-06-09**|**Optimization of Bottlenecks in Quantum Graphs Guided by Fiedler Vector-Based Spectral Derivatives**|John TM Campbell et.al.|[2506.07875v1](http://arxiv.org/abs/2506.07875v1)|**2025-06-09**|null|
-|**2025-06-09**|**Towards a Base-Station-on-Chip: RISC-V Hardware Acceleration for wireless communication**|Javier Acevedo et.al.|[2506.07873v1](http://arxiv.org/abs/2506.07873v1)|**2025-06-09**|null|
-|**2025-06-09**|**Can Hessian-Based Insights Support Fault Diagnosis in Attention-based Models?**|Sigma Jahan et.al.|[2506.07871v1](http://arxiv.org/abs/2506.07871v1)|**2025-06-09**|null|
+|**2025-06-10**|**Agentic Neural Networks: Self-Evolving Multi-Agent Systems via Textual Backpropagation**|Xiaowen Ma et.al.|[2506.09046v1](http://arxiv.org/abs/2506.09046v1)|**2025-06-10**|null|
+|**2025-06-10**|**Same Task, Different Circuits: Disentangling Modality-Specific Mechanisms in VLMs**|Yaniv Nikankin et.al.|[2506.09047v1](http://arxiv.org/abs/2506.09047v1)|**2025-06-10**|null|
+|**2025-06-10**|**Deep Reinforcement Learning-Based RAN Slicing with Efficient Inter-Slice Isolation in Tactical Wireless Networks**|Abderrahime Filali et.al.|[2506.09039v1](http://arxiv.org/abs/2506.09039v1)|**2025-06-10**|null|
+|**2025-06-10**|**DIsoN: Decentralized Isolation Networks for Out-of-Distribution Detection in Medical Imaging**|Felix Wagner et.al.|[2506.09024v1](http://arxiv.org/abs/2506.09024v1)|**2025-06-10**|null|
+|**2025-06-10**|**Induced rational exponents and bipartite subgraphs in $K_{s, s}$-free graphs**|Zichao Dong et.al.|[2506.09020v1](http://arxiv.org/abs/2506.09020v1)|**2025-06-10**|null|
+|**2025-06-10**|**Effective Data Pruning through Score Extrapolation**|Sebastian Schmidt et.al.|[2506.09010v1](http://arxiv.org/abs/2506.09010v1)|**2025-06-10**|null|
+|**2025-06-10**|**SWE-Flow: Synthesizing Software Engineering Data in a Test-Driven Manner**|Lei Zhang et.al.|[2506.09003v1](http://arxiv.org/abs/2506.09003v1)|**2025-06-10**|null|
+|**2025-06-10**|**The atoms of graph product von Neumann algebras**|Ian Charlesworth et.al.|[2506.09000v1](http://arxiv.org/abs/2506.09000v1)|**2025-06-10**|null|
+|**2025-06-10**|**Rapid cardiac activation prediction for cardiac resynchronization therapy planning using geometric deep learning**|Ehsan Naghavi et.al.|[2506.08987v1](http://arxiv.org/abs/2506.08987v1)|**2025-06-10**|[link](https://github.com/ehsanngh/DeepCardioSim)|
+|**2025-06-10**|**Rethinking Range-View LiDAR Segmentation in Adverse Weather**|Longyu Yang et.al.|[2506.08979v1](http://arxiv.org/abs/2506.08979v1)|**2025-06-10**|null|
+|**2025-06-10**|**Propositional Logic for Probing Generalization in Neural Networks**|Anna Langedijk et.al.|[2506.08978v1](http://arxiv.org/abs/2506.08978v1)|**2025-06-10**|null|
+|**2025-06-10**|**Diver-Robot Communication Dataset for Underwater Hand Gesture Recognition**|Igor Kvasić et.al.|[2506.08974v1](http://arxiv.org/abs/2506.08974v1)|**2025-06-10**|null|
+|**2025-06-10**|**A Survey of Link Prediction in N-ary Knowledge Graphs**|Jiyao Wei et.al.|[2506.08970v1](http://arxiv.org/abs/2506.08970v1)|**2025-06-10**|null|
+|**2025-06-10**|**Step-Audio-AQAA: a Fully End-to-End Expressive Large Audio Language Model**|Ailin Huang et.al.|[2506.08967v1](http://arxiv.org/abs/2506.08967v1)|**2025-06-10**|null|
+|**2025-06-10**|**Pre-trained Language Models Learn Remarkably Accurate Representations of Numbers**|Marek Kadlčík et.al.|[2506.08966v1](http://arxiv.org/abs/2506.08966v1)|**2025-06-10**|null|
+|**2025-06-10**|**Evaluating Generative Vehicle Trajectory Models for Traffic Intersection Dynamics**|Yash Ranjan et.al.|[2506.08963v1](http://arxiv.org/abs/2506.08963v1)|**2025-06-10**|null|
+|**2025-06-10**|**Thermodynamics of microphase separation in a swollen, strain-stiffening polymer network**|Carla Fernández-Rico et.al.|[2506.08958v1](http://arxiv.org/abs/2506.08958v1)|**2025-06-10**|null|
+|**2025-06-10**|**Segment Concealed Objects with Incomplete Supervision**|Chunming He et.al.|[2506.08955v1](http://arxiv.org/abs/2506.08955v1)|**2025-06-10**|null|
+|**2025-06-10**|**Scaling Portfolio Diversification with Quantum Circuit Cutting Techniques**|Vicente P. Soloviev et.al.|[2506.08947v1](http://arxiv.org/abs/2506.08947v1)|**2025-06-10**|null|
+|**2025-06-10**|**Who is using AI to code? Global diffusion and impact of generative AI**|Simone Daniotti et.al.|[2506.08945v1](http://arxiv.org/abs/2506.08945v1)|**2025-06-10**|null|
+|**2025-06-10**|**Semantic Communication for Cooperative Multi-Tasking over Rate-Limited Wireless Channels with Implicit Optimal Prior**|Ahmad Halimi Razlighi et.al.|[2506.08944v1](http://arxiv.org/abs/2506.08944v1)|**2025-06-10**|null|
+|**2025-06-10**|**What Limits Virtual Agent Application? OmniBench: A Scalable Multi-Dimensional Benchmark for Essential Virtual Agent Capabilities**|Wendong Bu et.al.|[2506.08933v1](http://arxiv.org/abs/2506.08933v1)|**2025-06-10**|null|
+|**2025-06-10**|**Gamma-Ray Bursts Calibrated by Using Artificial Neural Networks from the Pantheon+ Sample**|Zhen Huang et.al.|[2506.08929v1](http://arxiv.org/abs/2506.08929v1)|**2025-06-10**|null|
+|**2025-06-10**|**Odd coloring graphs with linear neighborhood complexity**|James Davies et.al.|[2506.08926v1](http://arxiv.org/abs/2506.08926v1)|**2025-06-10**|null|
+|**2025-06-10**|**Striking Back At Cobalt: Using Network Traffic Metadata To Detect Cobalt Strike Masquerading Command and Control Channels**|Clément Parssegny et.al.|[2506.08922v1](http://arxiv.org/abs/2506.08922v1)|**2025-06-10**|null|
+|**2025-06-10**|**Quantifying Mix Network Privacy Erosion with Generative Models**|Vasilios Mavroudis et.al.|[2506.08918v1](http://arxiv.org/abs/2506.08918v1)|**2025-06-10**|null|
+|**2025-06-10**|**Implementing Keyword Spotting on the MCUX947 Microcontroller with Integrated NPU**|Petar Jakuš et.al.|[2506.08911v1](http://arxiv.org/abs/2506.08911v1)|**2025-06-10**|null|
+|**2025-06-10**|**Hyperbolic Dual Feature Augmentation for Open-Environment**|Peilin Yu et.al.|[2506.08906v1](http://arxiv.org/abs/2506.08906v1)|**2025-06-10**|null|
+|**2025-06-10**|**Preference-Driven Multi-Objective Combinatorial Optimization with Conditional Computation**|Mingfeng Fan et.al.|[2506.08898v1](http://arxiv.org/abs/2506.08898v1)|**2025-06-10**|null|
+|**2025-06-10**|**Product of Experts for Visual Generation**|Yunzhi Zhang et.al.|[2506.08894v1](http://arxiv.org/abs/2506.08894v1)|**2025-06-10**|null|

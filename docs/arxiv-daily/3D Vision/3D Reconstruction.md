@@ -2,33 +2,33 @@
 ### 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-09**|**4DGT: Learning a 4D Gaussian Transformer Using Real-World Monocular Videos**|Zhen Xu et.al.|[2506.08015v1](http://arxiv.org/abs/2506.08015v1)|**2025-06-09**|null|
-|**2025-06-09**|**Aligning Text, Images, and 3D Structure Token-by-Token**|Aadarsh Sahoo et.al.|[2506.08002v1](http://arxiv.org/abs/2506.08002v1)|**2025-06-09**|null|
-|**2025-06-09**|**UA-Pose: Uncertainty-Aware 6D Object Pose Estimation and Online Object Completion with Partial References**|Ming-Feng Li et.al.|[2506.07996v1](http://arxiv.org/abs/2506.07996v1)|**2025-06-09**|null|
-|**2025-06-09**|**Real-time Localization of a Soccer Ball from a Single Camera**|Dmitrii Vorobev et.al.|[2506.07981v1](http://arxiv.org/abs/2506.07981v1)|**2025-06-09**|null|
-|**2025-06-09**|**Experimental demonstration of attosecond hard X-ray pulses**|Ichiro Inoue et.al.|[2506.07968v1](http://arxiv.org/abs/2506.07968v1)|**2025-06-09**|null|
-|**2025-06-09**|**BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models**|Peiyan Li et.al.|[2506.07961v1](http://arxiv.org/abs/2506.07961v1)|**2025-06-09**|null|
-|**2025-06-09**|**Creating a Historical Migration Dataset from Finnish Church Records, 1800-1920**|Ari Vesalainen et.al.|[2506.07960v1](http://arxiv.org/abs/2506.07960v1)|**2025-06-09**|null|
-|**2025-06-09**|**Squeeze3D: Your 3D Generation Model is Secretly an Extreme Neural Compressor**|Rishit Dagli et.al.|[2506.07932v1](http://arxiv.org/abs/2506.07932v1)|**2025-06-09**|null|
-|**2025-06-09**|**Efficient Seismic Data Interpolation via Sparse Attention Transformer and Diffusion Model**|Xiaoli Wei et.al.|[2506.07923v1](http://arxiv.org/abs/2506.07923v1)|**2025-06-09**|null|
-|**2025-06-09**|**W4S4: WaLRUS Meets S4 for Long-Range Sequence Modeling**|Hossein Babaei et.al.|[2506.07920v1](http://arxiv.org/abs/2506.07920v1)|**2025-06-09**|null|
-|**2025-06-09**|**Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**|Allen Tu et.al.|[2506.07917v1](http://arxiv.org/abs/2506.07917v1)|**2025-06-09**|null|
-|**2025-06-09**|**Common origin of the photoplastic and electroplastic effect in ZnS**|Alexandra Fonseca Montenegro et.al.|[2506.07908v1](http://arxiv.org/abs/2506.07908v1)|**2025-06-09**|null|
-|**2025-06-09**|**GaussianVAE: Adaptive Learning Dynamics of 3D Gaussians for High-Fidelity Super-Resolution**|Shuja Khalid et.al.|[2506.07897v1](http://arxiv.org/abs/2506.07897v1)|**2025-06-09**|null|
-|**2025-06-09**|**Secure Distributed Learning for CAVs: Defending Against Gradient Leakage with Leveled Homomorphic Encryption**|Muhammad Ali Najjar et.al.|[2506.07894v1](http://arxiv.org/abs/2506.07894v1)|**2025-06-09**|null|
-|**2025-06-09**|**SoK: Data Reconstruction Attacks Against Machine Learning Models: Definition, Metrics, and Benchmark**|Rui Wen et.al.|[2506.07888v1](http://arxiv.org/abs/2506.07888v1)|**2025-06-09**|null|
-|**2025-06-09**|**Measurement of the CP asymmetry in $D^+ \to π^+ π^0$ decays at Belle II**|Belle II Collaboration et.al.|[2506.07879v1](http://arxiv.org/abs/2506.07879v1)|**2025-06-09**|null|
-|**2025-06-09**|**Can Hessian-Based Insights Support Fault Diagnosis in Attention-based Models?**|Sigma Jahan et.al.|[2506.07871v1](http://arxiv.org/abs/2506.07871v1)|**2025-06-09**|null|
-|**2025-06-09**|**FreeGave: 3D Physics Learning from Dynamic Videos by Gaussian Velocity**|Jinxi Li et.al.|[2506.07865v1](http://arxiv.org/abs/2506.07865v1)|**2025-06-09**|null|
-|**2025-06-09**|**VIVAT: Virtuous Improving VAE Training through Artifact Mitigation**|Lev Novitskiy et.al.|[2506.07863v1](http://arxiv.org/abs/2506.07863v1)|**2025-06-09**|null|
-|**2025-06-09**|**Egocentric Event-Based Vision for Ping Pong Ball Trajectory Prediction**|Ivan Alberico et.al.|[2506.07860v1](http://arxiv.org/abs/2506.07860v1)|**2025-06-09**|null|
-|**2025-06-09**|**LogoSP: Local-global Grouping of Superpoints for Unsupervised Semantic Segmentation of 3D Point Clouds**|Zihui Zhang et.al.|[2506.07857v1](http://arxiv.org/abs/2506.07857v1)|**2025-06-09**|null|
-|**2025-06-09**|**A Temporal FRBR/FRBRoo-Based Model for Component-Level Versioning of Legal Norms**|Hudson de Martim et.al.|[2506.07853v1](http://arxiv.org/abs/2506.07853v1)|**2025-06-09**|null|
-|**2025-06-09**|**PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement**|Teng Hu et.al.|[2506.07848v1](http://arxiv.org/abs/2506.07848v1)|**2025-06-09**|null|
-|**2025-06-09**|**Mitigating Polarization Leakage in Gas Pixel Detectors through Hybrid Machine Learning and Analytic Event Reconstruction**|Nicoló Cibrario et.al.|[2506.07828v1](http://arxiv.org/abs/2506.07828v1)|**2025-06-09**|null|
-|**2025-06-09**|**R3D2: Realistic 3D Asset Insertion via Diffusion for Autonomous Driving Simulation**|William Ljungbergh et.al.|[2506.07826v1](http://arxiv.org/abs/2506.07826v1)|**2025-06-09**|null|
-|**2025-06-09**|**Incorporating Uncertainty-Guided and Top-k Codebook Matching for Real-World Blind Image Super-Resolution**|Weilei Wen et.al.|[2506.07809v1](http://arxiv.org/abs/2506.07809v1)|**2025-06-09**|null|
-|**2025-06-09**|**Image Reconstruction as a Tool for Feature Analysis**|Eduard Allakhverdov et.al.|[2506.07803v1](http://arxiv.org/abs/2506.07803v1)|**2025-06-09**|null|
-|**2025-06-09**|**Optical theorem and generalized energy conservation for scattering of time-modulated waves**|Erik Orvehed Hiltunen et.al.|[2506.07789v1](http://arxiv.org/abs/2506.07789v1)|**2025-06-09**|null|
-|**2025-06-09**|**A General Coding Framework for Adaptive Private Information Retrieval**|Jinbao Zhu et.al.|[2506.07787v1](http://arxiv.org/abs/2506.07787v1)|**2025-06-09**|null|
-|**2025-06-09**|**Experimental Test of the Principle of Tomographic Locality**|Tristan S. Lismer et.al.|[2506.07775v1](http://arxiv.org/abs/2506.07775v1)|**2025-06-09**|null|
+|**2025-06-10**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042v1](http://arxiv.org/abs/2506.09042v1)|**2025-06-10**|null|
+|**2025-06-10**|**Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better**|Dianyi Wang et.al.|[2506.09040v1](http://arxiv.org/abs/2506.09040v1)|**2025-06-10**|null|
+|**2025-06-10**|**Learning Correlated Astrophysical Foregrounds with Denoising Diffusion Probabilistic Models**|Karthik Prabhu et.al.|[2506.09036v1](http://arxiv.org/abs/2506.09036v1)|**2025-06-10**|null|
+|**2025-06-10**|**Isotope-agnostic motional ground-state cooling of neutral Yb atoms**|Ronen M. Kroeze et.al.|[2506.09031v1](http://arxiv.org/abs/2506.09031v1)|**2025-06-10**|null|
+|**2025-06-10**|**Evaluating Generative Vehicle Trajectory Models for Traffic Intersection Dynamics**|Yash Ranjan et.al.|[2506.08963v1](http://arxiv.org/abs/2506.08963v1)|**2025-06-10**|null|
+|**2025-06-10**|**SSS: Semi-Supervised SAM-2 with Efficient Prompting for Medical Imaging Segmentation**|Hongjie Zhu et.al.|[2506.08949v1](http://arxiv.org/abs/2506.08949v1)|**2025-06-10**|null|
+|**2025-06-10**|**Piecewise-linear embeddings of the space of 3D lattices into $\RR^{13}$ for high-throughput handling of lattice parameters**|Ryoko Oishi-Tomiyasu et.al.|[2506.08934v1](http://arxiv.org/abs/2506.08934v1)|**2025-06-10**|null|
+|**2025-06-10**|**Splashback radius and the mass accretion rate of RASS MCMF galaxy clusters**|Jitendra Joshi et.al.|[2506.08925v1](http://arxiv.org/abs/2506.08925v1)|**2025-06-10**|null|
+|**2025-06-10**|**StreamSplat: Towards Online Dynamic 3D Reconstruction from Uncalibrated Video Streams**|Zike Wu et.al.|[2506.08862v1](http://arxiv.org/abs/2506.08862v1)|**2025-06-10**|null|
+|**2025-06-10**|**Fast Estimation of Globally Optimal Independent Contact Regions for Robust Grasping and Manipulation**|Jonathan P. King et.al.|[2506.08856v1](http://arxiv.org/abs/2506.08856v1)|**2025-06-10**|null|
+|**2025-06-10**|**Strain dependent viscous response describes the mechanics of cohesionless soft granular materials**|Chandan Shakya et.al.|[2506.08855v1](http://arxiv.org/abs/2506.08855v1)|**2025-06-10**|null|
+|**2025-06-10**|**Spatial Transcriptomics Expression Prediction from Histopathology Based on Cross-Modal Mask Reconstruction and Contrastive Learning**|Junzhuo Liu et.al.|[2506.08854v1](http://arxiv.org/abs/2506.08854v1)|**2025-06-10**|null|
+|**2025-06-10**|**HiSin: Efficient High-Resolution Sinogram Inpainting via Resolution-Guided Progressive Inference**|Jiaze E et.al.|[2506.08809v1](http://arxiv.org/abs/2506.08809v1)|**2025-06-10**|null|
+|**2025-06-10**|**Gaussian2Scene: 3D Scene Representation Learning via Self-supervised Learning with 3D Gaussian Splatting**|Keyi Liu et.al.|[2506.08777v1](http://arxiv.org/abs/2506.08777v1)|**2025-06-10**|null|
+|**2025-06-10**|**Full ab initio atomistic approach for morphology prediction of hetero-integrated crystals: A confrontation with experiments**|Sreejith Pallikkara Chandrasekharan et.al.|[2506.08766v1](http://arxiv.org/abs/2506.08766v1)|**2025-06-10**|null|
+|**2025-06-10**|**Geometric deep learning for local growth prediction on abdominal aortic aneurysm surfaces**|Dieuwertje Alblas et.al.|[2506.08729v1](http://arxiv.org/abs/2506.08729v1)|**2025-06-10**|null|
+|**2025-06-10**|**SceneSplat++: A Large Dataset and Comprehensive Benchmark for Language Gaussian Splatting**|Mengjiao Ma et.al.|[2506.08710v1](http://arxiv.org/abs/2506.08710v1)|**2025-06-10**|null|
+|**2025-06-10**|**PhyBlock: A Progressive Benchmark for Physical Understanding and Planning via 3D Block Assembly**|Liang Ma et.al.|[2506.08708v1](http://arxiv.org/abs/2506.08708v1)|**2025-06-10**|null|
+|**2025-06-10**|**TraGraph-GS: Trajectory Graph-based Gaussian Splatting for Arbitrary Large-Scale Scene Rendering**|Xiaohan Zhang et.al.|[2506.08704v1](http://arxiv.org/abs/2506.08704v1)|**2025-06-10**|null|
+|**2025-06-10**|**Deriving physical parameters of unresolved star clusters. VIII. Limits of aperture photometry for star cluster studies**|Karolis Daugevičius et.al.|[2506.08674v1](http://arxiv.org/abs/2506.08674v1)|**2025-06-10**|null|
+|**2025-06-10**|**sparseGeoHOPCA: A Geometric Solution to Sparse Higher-Order PCA Without Covariance Estimation**|Renjie Xu et.al.|[2506.08670v1](http://arxiv.org/abs/2506.08670v1)|**2025-06-10**|null|
+|**2025-06-10**|**Site-resolved magnon and triplon dynamics on a programmable quantum dot spin ladder**|Pablo Cova Fariña et.al.|[2506.08663v1](http://arxiv.org/abs/2506.08663v1)|**2025-06-10**|null|
+|**2025-06-10**|**Crust (Unified) Tool for Equation-of-state Reconstruction (CUTER) v2**|P. J. Davis et.al.|[2506.08658v1](http://arxiv.org/abs/2506.08658v1)|**2025-06-10**|null|
+|**2025-06-10**|**Orientation Matters: Making 3D Generative Models Orientation-Aligned**|Yichong Lu et.al.|[2506.08640v1](http://arxiv.org/abs/2506.08640v1)|**2025-06-10**|null|
+|**2025-06-10**|**SurfR: Surface Reconstruction with Multi-scale Attention**|Siddhant Ranade et.al.|[2506.08635v1](http://arxiv.org/abs/2506.08635v1)|**2025-06-10**|null|
+|**2025-06-10**|**A Probability-guided Sampler for Neural Implicit Surface Rendering**|Gonçalo Dias Pais et.al.|[2506.08619v1](http://arxiv.org/abs/2506.08619v1)|**2025-06-10**|null|
+|**2025-06-10**|**Diffusion model for analyzing quantum fingerprints in conductance fluctuation**|Naoto Yokoi et.al.|[2506.08617v1](http://arxiv.org/abs/2506.08617v1)|**2025-06-10**|null|
+|**2025-06-10**|**Gaussian copula correlation network analysis with application to multi-omics data**|Ekaterina Tomilina et.al.|[2506.08586v1](http://arxiv.org/abs/2506.08586v1)|**2025-06-10**|null|
+|**2025-06-10**|**k-Planar and Fan-Crossing Drawings and Transductions of Planar Graphs**|Petr Hliněný et.al.|[2506.08585v1](http://arxiv.org/abs/2506.08585v1)|**2025-06-10**|null|
+|**2025-06-10**|**Structured Variational $D$-Decomposition for Accurate and Stable Low-Rank Approximation**|Ronald Katende et.al.|[2506.08535v1](http://arxiv.org/abs/2506.08535v1)|**2025-06-10**|null|

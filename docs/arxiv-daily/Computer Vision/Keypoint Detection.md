@@ -2,7 +2,13 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-10**|**Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning**|Haozhen Zhang et.al.|[2506.09033v1](http://arxiv.org/abs/2506.09033v1)|**2025-06-10**|null|
+|**2025-06-10**|**Large Deviations for Markovian Graphon Processes and Associated Dynamical Systems on Networks**|Shankar Bhamidi et.al.|[2506.08333v1](http://arxiv.org/abs/2506.08333v1)|**2025-06-10**|null|
+|**2025-06-09**|**AI-Assisted Rapid Crystal Structure Generation Towards a Target Local Environment**|Osman Goni Ridwan et.al.|[2506.08224v1](http://arxiv.org/abs/2506.08224v1)|**2025-06-09**|null|
+|**2025-06-09**|**Jamais Vu: Exposing the Generalization Gap in Supervised Semantic Correspondence**|Octave Mariotti et.al.|[2506.08220v1](http://arxiv.org/abs/2506.08220v1)|**2025-06-09**|null|
+|**2025-06-09**|**Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy**|Yu Liu et.al.|[2506.08073v1](http://arxiv.org/abs/2506.08073v1)|**2025-06-09**|null|
 |**2025-06-09**|**OpenDance: Multimodal Controllable 3D Dance Generation Using Large-scale Internet Data**|Jinlu Zhang et.al.|[2506.07565v1](http://arxiv.org/abs/2506.07565v1)|**2025-06-09**|null|
+|**2025-06-09**|**CaliciBoost: Performance-Driven Evaluation of Molecular Representations for Caco-2 Permeability Prediction**|Huong Van Le et.al.|[2506.08059v1](http://arxiv.org/abs/2506.08059v1)|**2025-06-09**|null|
 |**2025-06-08**|**Task-driven real-world super-resolution of document scans**|Maciej Zyrek et.al.|[2506.06953v1](http://arxiv.org/abs/2506.06953v1)|**2025-06-08**|null|
 |**2025-06-07**|**SAR2Struct: Extracting 3D Semantic Structural Representation of Aircraft Targets from Single-View SAR Image**|Ziyu Yue et.al.|[2506.06757v1](http://arxiv.org/abs/2506.06757v1)|**2025-06-07**|null|
 |**2025-06-06**|**Graph Persistence goes Spectral**|Mattie Ji et.al.|[2506.06571v1](http://arxiv.org/abs/2506.06571v1)|**2025-06-06**|null|
@@ -26,9 +32,3 @@
 |**2025-05-30**|**Beyond Atomic Geometry Representations in Materials Science: A Human-in-the-Loop Multimodal Framework**|Can Polat et.al.|[2506.00302v1](http://arxiv.org/abs/2506.00302v1)|**2025-05-30**|[link](https://github.com/kurbanintelligencelab/multicrystalspectrumset)|
 |**2025-05-30**|**Enhancing Drug Discovery: Autoencoder-Based Latent Space Augmentation for Improved Molecular Solubility Prediction using LatMixSol**|Mohammad Saleh Hasankhani et.al.|[2506.00223v1](http://arxiv.org/abs/2506.00223v1)|**2025-05-30**|null|
 |**2025-05-30**|**Tackling View-Dependent Semantics in 3D Language Gaussian Splatting**|Jiazhong Cen et.al.|[2505.24746v1](http://arxiv.org/abs/2505.24746v1)|**2025-05-30**|[link](https://github.com/sjtu-deepvisionlab/laga)|
-|**2025-05-30**|**SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**|Mingxu Zhang et.al.|[2505.24305v2](http://arxiv.org/abs/2505.24305v2)|**2025-06-05**|null|
-|**2025-05-29**|**Rooms from Motion: Un-posed Indoor 3D Object Detection as Localization and Mapping**|Justin Lazarow et.al.|[2505.23756v1](http://arxiv.org/abs/2505.23756v1)|**2025-05-29**|null|
-|**2025-05-29**|**Dual-Task Graph Neural Network for Joint Seizure Onset Zone Localization and Outcome Prediction using Stereo EEG**|Syeda Abeera Amir et.al.|[2505.23669v1](http://arxiv.org/abs/2505.23669v1)|**2025-05-29**|null|
-|**2025-05-29**|**Robot-R1: Reinforcement Learning for Enhanced Embodied Reasoning in Robotics**|Dongyoung Kim et.al.|[2506.00070v1](http://arxiv.org/abs/2506.00070v1)|**2025-05-29**|null|
-|**2025-05-29**|**TimePoint: Accelerated Time Series Alignment via Self-Supervised Keypoint and Descriptor Learning**|Ron Shapira Weber et.al.|[2505.23475v1](http://arxiv.org/abs/2505.23475v1)|**2025-05-29**|[link](https://github.com/bgu-cs-vil/timepoint)|
-|**2025-05-29**|**On the Validity of Head Motion Patterns as Generalisable Depression Biomarkers**|Monika Gahalawat et.al.|[2505.23427v1](http://arxiv.org/abs/2505.23427v1)|**2025-05-29**|null|

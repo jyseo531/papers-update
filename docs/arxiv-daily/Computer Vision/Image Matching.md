@@ -2,33 +2,33 @@
 ### Image Matching
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-09**|**StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning from Partially Annotated Synthetic Datasets**|Anh-Quan Cao et.al.|[2506.08013v1](http://arxiv.org/abs/2506.08013v1)|**2025-06-09**|null|
-|**2025-06-09**|**Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion**|Xun Huang et.al.|[2506.08009v1](http://arxiv.org/abs/2506.08009v1)|**2025-06-09**|null|
-|**2025-06-09**|**Dreamland: Controllable World Creation with Simulator and Generative Models**|Sicheng Mo et.al.|[2506.08006v1](http://arxiv.org/abs/2506.08006v1)|**2025-06-09**|null|
-|**2025-06-09**|**Aligning Text, Images, and 3D Structure Token-by-Token**|Aadarsh Sahoo et.al.|[2506.08002v1](http://arxiv.org/abs/2506.08002v1)|**2025-06-09**|null|
-|**2025-06-09**|**MADFormer: Mixed Autoregressive and Diffusion Transformers for Continuous Image Generation**|Junhao Chen et.al.|[2506.07999v1](http://arxiv.org/abs/2506.07999v1)|**2025-06-09**|null|
-|**2025-06-09**|**Generative Modeling of Weights: Generalization or Memorization?**|Boya Zeng et.al.|[2506.07998v1](http://arxiv.org/abs/2506.07998v1)|**2025-06-09**|null|
-|**2025-06-09**|**UA-Pose: Uncertainty-Aware 6D Object Pose Estimation and Online Object Completion with Partial References**|Ming-Feng Li et.al.|[2506.07996v1](http://arxiv.org/abs/2506.07996v1)|**2025-06-09**|null|
-|**2025-06-09**|**PairEdit: Learning Semantic Variations for Exemplar-based Image Editing**|Haoguang Lu et.al.|[2506.07992v1](http://arxiv.org/abs/2506.07992v1)|**2025-06-09**|null|
-|**2025-06-09**|**Photon rings in a holographic toy model**|Stéphane Detournay et.al.|[2506.07989v1](http://arxiv.org/abs/2506.07989v1)|**2025-06-09**|null|
-|**2025-06-09**|**Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers**|Zhengyao Lv et.al.|[2506.07986v1](http://arxiv.org/abs/2506.07986v1)|**2025-06-09**|null|
-|**2025-06-09**|**Rethinking Crowd-Sourced Evaluation of Neuron Explanations**|Tuomas Oikarinen et.al.|[2506.07985v1](http://arxiv.org/abs/2506.07985v1)|**2025-06-09**|null|
-|**2025-06-09**|**Real-time Localization of a Soccer Ball from a Single Camera**|Dmitrii Vorobev et.al.|[2506.07981v1](http://arxiv.org/abs/2506.07981v1)|**2025-06-09**|null|
-|**2025-06-09**|**OneIG-Bench: Omni-dimensional Nuanced Evaluation for Image Generation**|Jingjing Chang et.al.|[2506.07977v2](http://arxiv.org/abs/2506.07977v2)|**2025-06-10**|null|
-|**2025-06-09**|**Hyperpruning: Efficient Search through Pruned Variants of Recurrent Neural Networks Leveraging Lyapunov Spectrum**|Caleb Zheng et.al.|[2506.07975v1](http://arxiv.org/abs/2506.07975v1)|**2025-06-09**|null|
-|**2025-06-09**|**High resolution quantum enhanced phase imaging of cells**|Alberto Paniate et.al.|[2506.07965v1](http://arxiv.org/abs/2506.07965v1)|**2025-06-09**|null|
-|**2025-06-09**|**SlideCoder: Layout-aware RAG-enhanced Hierarchical Slide Generation from Design**|Wenxin Tang et.al.|[2506.07964v1](http://arxiv.org/abs/2506.07964v1)|**2025-06-09**|null|
-|**2025-06-09**|**Reinforcing Multimodal Understanding and Generation with Dual Self-rewards**|Jixiang Hong et.al.|[2506.07963v1](http://arxiv.org/abs/2506.07963v1)|**2025-06-09**|null|
-|**2025-06-09**|**BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models**|Peiyan Li et.al.|[2506.07961v1](http://arxiv.org/abs/2506.07961v1)|**2025-06-09**|null|
-|**2025-06-09**|**Creating a Historical Migration Dataset from Finnish Church Records, 1800-1920**|Ari Vesalainen et.al.|[2506.07960v1](http://arxiv.org/abs/2506.07960v1)|**2025-06-09**|null|
-|**2025-06-09**|**Decoupling the Image Perception and Multimodal Reasoning for Reasoning Segmentation with Digital Twin Representations**|Yizhen Li et.al.|[2506.07943v1](http://arxiv.org/abs/2506.07943v1)|**2025-06-09**|null|
-|**2025-06-09**|**New Insights into the T Tauri Binary Separation Distribution**|Caleb Eastlund et.al.|[2506.07938v1](http://arxiv.org/abs/2506.07938v1)|**2025-06-09**|null|
-|**2025-06-09**|**A Comparative Study of U-Net Architectures for Change Detection in Satellite Images**|Yaxita Amin et.al.|[2506.07925v1](http://arxiv.org/abs/2506.07925v1)|**2025-06-09**|null|
-|**2025-06-09**|**Efficient Seismic Data Interpolation via Sparse Attention Transformer and Diffusion Model**|Xiaoli Wei et.al.|[2506.07923v1](http://arxiv.org/abs/2506.07923v1)|**2025-06-09**|null|
-|**2025-06-09**|**W4S4: WaLRUS Meets S4 for Long-Range Sequence Modeling**|Hossein Babaei et.al.|[2506.07920v1](http://arxiv.org/abs/2506.07920v1)|**2025-06-09**|null|
-|**2025-06-09**|**A circularly polarized low-frequency radio burst from the exoplanetary system HD 189733**|X. Zhang et.al.|[2506.07912v1](http://arxiv.org/abs/2506.07912v1)|**2025-06-09**|null|
-|**2025-06-09**|**Common origin of the photoplastic and electroplastic effect in ZnS**|Alexandra Fonseca Montenegro et.al.|[2506.07908v1](http://arxiv.org/abs/2506.07908v1)|**2025-06-09**|null|
-|**2025-06-09**|**WeThink: Toward General-purpose Vision-Language Reasoning via Reinforcement Learning**|Jie Yang et.al.|[2506.07905v1](http://arxiv.org/abs/2506.07905v1)|**2025-06-09**|null|
-|**2025-06-09**|**Diffuse Everything: Multimodal Diffusion Models on Arbitrary State Spaces**|Kevin Rojas et.al.|[2506.07903v1](http://arxiv.org/abs/2506.07903v1)|**2025-06-09**|null|
-|**2025-06-09**|**FunDiff: Diffusion Models over Function Spaces for Physics-Informed Generative Modeling**|Sifan Wang et.al.|[2506.07902v1](http://arxiv.org/abs/2506.07902v1)|**2025-06-09**|null|
-|**2025-06-09**|**EgoM2P: Egocentric Multimodal Multitask Pretraining**|Gen Li et.al.|[2506.07886v1](http://arxiv.org/abs/2506.07886v1)|**2025-06-09**|null|
+|**2025-06-10**|**Same Task, Different Circuits: Disentangling Modality-Specific Mechanisms in VLMs**|Yaniv Nikankin et.al.|[2506.09047v1](http://arxiv.org/abs/2506.09047v1)|**2025-06-10**|null|
+|**2025-06-10**|**Discovery of a 1D edge mode in a Magnetic Topological semimetal**|Avior Almoalem et.al.|[2506.09041v1](http://arxiv.org/abs/2506.09041v1)|**2025-06-10**|null|
+|**2025-06-10**|**Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better**|Dianyi Wang et.al.|[2506.09040v1](http://arxiv.org/abs/2506.09040v1)|**2025-06-10**|null|
+|**2025-06-10**|**Learning Correlated Astrophysical Foregrounds with Denoising Diffusion Probabilistic Models**|Karthik Prabhu et.al.|[2506.09036v1](http://arxiv.org/abs/2506.09036v1)|**2025-06-10**|null|
+|**2025-06-10**|**Diffuse and Disperse: Image Generation with Representation Regularization**|Runqian Wang et.al.|[2506.09027v1](http://arxiv.org/abs/2506.09027v1)|**2025-06-10**|null|
+|**2025-06-10**|**DIsoN: Decentralized Isolation Networks for Out-of-Distribution Detection in Medical Imaging**|Felix Wagner et.al.|[2506.09024v1](http://arxiv.org/abs/2506.09024v1)|**2025-06-10**|null|
+|**2025-06-10**|**Fine-Grained Spatially Varying Material Selection in Images**|Julia Guerrero-Viu et.al.|[2506.09023v1](http://arxiv.org/abs/2506.09023v1)|**2025-06-10**|null|
+|**2025-06-10**|**Do MIL Models Transfer?**|Daniel Shao et.al.|[2506.09022v1](http://arxiv.org/abs/2506.09022v1)|**2025-06-10**|null|
+|**2025-06-10**|**Edit Flows: Flow Matching with Edit Operations**|Marton Havasi et.al.|[2506.09018v1](http://arxiv.org/abs/2506.09018v1)|**2025-06-10**|null|
+|**2025-06-10**|**Branched Schrödinger Bridge Matching**|Sophia Tang et.al.|[2506.09007v1](http://arxiv.org/abs/2506.09007v1)|**2025-06-10**|null|
+|**2025-06-10**|**SWE-Flow: Synthesizing Software Engineering Data in a Test-Driven Manner**|Lei Zhang et.al.|[2506.09003v1](http://arxiv.org/abs/2506.09003v1)|**2025-06-10**|null|
+|**2025-06-10**|**Investigating the physical properties of dusty star-forming galaxies at z>=1.5 in the GOODS-South field using JWST**|Dipanjan Mitra et.al.|[2506.08995v1](http://arxiv.org/abs/2506.08995v1)|**2025-06-10**|null|
+|**2025-06-10**|**Do Concept Replacement Techniques Really Erase Unacceptable Concepts?**|Anudeep Das et.al.|[2506.08991v1](http://arxiv.org/abs/2506.08991v1)|**2025-06-10**|null|
+|**2025-06-10**|**Efficient Medical Vision-Language Alignment Through Adapting Masked Vision Models**|Chenyu Lian et.al.|[2506.08990v1](http://arxiv.org/abs/2506.08990v1)|**2025-06-10**|null|
+|**2025-06-10**|**Naturalistic Language-related Movie-Watching fMRI Task for Detecting Neurocognitive Decline and Disorder**|Yuejiao Wang et.al.|[2506.08986v1](http://arxiv.org/abs/2506.08986v1)|**2025-06-10**|null|
+|**2025-06-10**|**AdaDec: Uncertainty-Guided Adaptive Decoding for LLM-based Code Generation**|Kaifeng He et.al.|[2506.08980v1](http://arxiv.org/abs/2506.08980v1)|**2025-06-10**|null|
+|**2025-06-10**|**Diver-Robot Communication Dataset for Underwater Hand Gesture Recognition**|Igor Kvasić et.al.|[2506.08974v1](http://arxiv.org/abs/2506.08974v1)|**2025-06-10**|null|
+|**2025-06-10**|**A New Spectral Class of Brown Dwarfs at the Bottom of the IMF in IC 348**|K. L. Luhman et.al.|[2506.08969v1](http://arxiv.org/abs/2506.08969v1)|**2025-06-10**|null|
+|**2025-06-10**|**ORIDa: Object-centric Real-world Image Composition Dataset**|Jinwoo Kim et.al.|[2506.08964v1](http://arxiv.org/abs/2506.08964v1)|**2025-06-10**|null|
+|**2025-06-10**|**Segment Concealed Objects with Incomplete Supervision**|Chunming He et.al.|[2506.08955v1](http://arxiv.org/abs/2506.08955v1)|**2025-06-10**|null|
+|**2025-06-10**|**Cross-Spectral Body Recognition with Side Information Embedding: Benchmarks on LLCM and Analyzing Range-Induced Occlusions on IJB-MDF**|Anirudh Nanduri et.al.|[2506.08953v1](http://arxiv.org/abs/2506.08953v1)|**2025-06-10**|null|
+|**2025-06-10**|**UVIT Study of the Magellanic Clouds (U-SMAC). III. Hierarchical Star Formation in the Small Magellanic Cloud Regulated by Turbulence**|Sipra Hota et.al.|[2506.08951v1](http://arxiv.org/abs/2506.08951v1)|**2025-06-10**|null|
+|**2025-06-10**|**SSS: Semi-Supervised SAM-2 with Efficient Prompting for Medical Imaging Segmentation**|Hongjie Zhu et.al.|[2506.08949v1](http://arxiv.org/abs/2506.08949v1)|**2025-06-10**|null|
+|**2025-06-10**|**Equivalence of Optical Theorems**|Edwin A. Marengo et.al.|[2506.08943v1](http://arxiv.org/abs/2506.08943v1)|**2025-06-10**|null|
+|**2025-06-10**|**Measurement of the Dispersion$\unicode{x2013}$Galaxy Cross-Power Spectrum with the Second CHIME/FRB Catalog**|Haochen Wang et.al.|[2506.08932v1](http://arxiv.org/abs/2506.08932v1)|**2025-06-10**|null|
+|**2025-06-10**|**Splashback radius and the mass accretion rate of RASS MCMF galaxy clusters**|Jitendra Joshi et.al.|[2506.08925v1](http://arxiv.org/abs/2506.08925v1)|**2025-06-10**|null|
+|**2025-06-10**|**Inherently Faithful Attention Maps for Vision Transformers**|Ananthu Aniraj et.al.|[2506.08915v1](http://arxiv.org/abs/2506.08915v1)|**2025-06-10**|null|
+|**2025-06-10**|**SkipVAR: Accelerating Visual Autoregressive Modeling via Adaptive Frequency-Aware Skipping**|Jiajun Li et.al.|[2506.08908v1](http://arxiv.org/abs/2506.08908v1)|**2025-06-10**|null|
+|**2025-06-10**|**Hyperbolic Dual Feature Augmentation for Open-Environment**|Peilin Yu et.al.|[2506.08906v1](http://arxiv.org/abs/2506.08906v1)|**2025-06-10**|null|
+|**2025-06-10**|**Intention-Conditioned Flow Occupancy Models**|Chongyi Zheng et.al.|[2506.08902v1](http://arxiv.org/abs/2506.08902v1)|**2025-06-10**|null|

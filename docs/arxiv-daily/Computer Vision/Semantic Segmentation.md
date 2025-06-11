@@ -2,33 +2,33 @@
 ### Semantic Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-09**|**Dreamland: Controllable World Creation with Simulator and Generative Models**|Sicheng Mo et.al.|[2506.08006v1](http://arxiv.org/abs/2506.08006v1)|**2025-06-09**|null|
-|**2025-06-09**|**ZeroVO: Visual Odometry with Minimal Assumptions**|Lei Lai et.al.|[2506.08005v1](http://arxiv.org/abs/2506.08005v1)|**2025-06-09**|null|
-|**2025-06-09**|**Audio-Sync Video Generation with Multi-Stream Temporal Control**|Shuchen Weng et.al.|[2506.08003v1](http://arxiv.org/abs/2506.08003v1)|**2025-06-09**|null|
-|**2025-06-09**|**PairEdit: Learning Semantic Variations for Exemplar-based Image Editing**|Haoguang Lu et.al.|[2506.07992v1](http://arxiv.org/abs/2506.07992v1)|**2025-06-09**|null|
-|**2025-06-09**|**Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers**|Zhengyao Lv et.al.|[2506.07986v1](http://arxiv.org/abs/2506.07986v1)|**2025-06-09**|null|
-|**2025-06-09**|**SlideCoder: Layout-aware RAG-enhanced Hierarchical Slide Generation from Design**|Wenxin Tang et.al.|[2506.07964v1](http://arxiv.org/abs/2506.07964v1)|**2025-06-09**|null|
-|**2025-06-09**|**Statistical Hypothesis Testing for Auditing Robustness in Language Models**|Paulius Rauba et.al.|[2506.07947v1](http://arxiv.org/abs/2506.07947v1)|**2025-06-09**|null|
-|**2025-06-09**|**ProtocolLLM: RTL Benchmark for SystemVerilog Generation of Communication Protocols**|Arnav Sheth et.al.|[2506.07945v1](http://arxiv.org/abs/2506.07945v1)|**2025-06-09**|null|
-|**2025-06-09**|**Decoupling the Image Perception and Multimodal Reasoning for Reasoning Segmentation with Digital Twin Representations**|Yizhen Li et.al.|[2506.07943v1](http://arxiv.org/abs/2506.07943v1)|**2025-06-09**|null|
-|**2025-06-09**|**Adversarial Attack Classification and Robustness Testing for Large Language Models for Code**|Yang Liu et.al.|[2506.07942v1](http://arxiv.org/abs/2506.07942v1)|**2025-06-09**|null|
-|**2025-06-09**|**Evaluating Large Language Models on the Frame and Symbol Grounding Problems: A Zero-shot Benchmark**|Shoko Oka et.al.|[2506.07896v1](http://arxiv.org/abs/2506.07896v1)|**2025-06-09**|null|
-|**2025-06-09**|**Video Unlearning via Low-Rank Refusal Vector**|Simone Facchiano et.al.|[2506.07891v1](http://arxiv.org/abs/2506.07891v1)|**2025-06-09**|null|
-|**2025-06-09**|**Diffusion Counterfactual Generation with Semantic Abduction**|Rajat Rasal et.al.|[2506.07883v1](http://arxiv.org/abs/2506.07883v1)|**2025-06-09**|null|
-|**2025-06-09**|**FreeGave: 3D Physics Learning from Dynamic Videos by Gaussian Velocity**|Jinxi Li et.al.|[2506.07865v1](http://arxiv.org/abs/2506.07865v1)|**2025-06-09**|null|
-|**2025-06-09**|**LogoSP: Local-global Grouping of Superpoints for Unsupervised Semantic Segmentation of 3D Point Clouds**|Zihui Zhang et.al.|[2506.07857v1](http://arxiv.org/abs/2506.07857v1)|**2025-06-09**|null|
-|**2025-06-09**|**SAM2Auto: Auto Annotation Using FLASH**|Arash Rocky et.al.|[2506.07850v1](http://arxiv.org/abs/2506.07850v1)|**2025-06-09**|null|
-|**2025-06-09**|**PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement**|Teng Hu et.al.|[2506.07848v1](http://arxiv.org/abs/2506.07848v1)|**2025-06-09**|null|
-|**2025-06-09**|**F2Net: A Frequency-Fused Network for Ultra-High Resolution Remote Sensing Segmentation**|Hengzhi Chen et.al.|[2506.07847v1](http://arxiv.org/abs/2506.07847v1)|**2025-06-09**|null|
-|**2025-06-09**|**Improving large language models with concept-aware fine-tuning**|Michael K. Chen et.al.|[2506.07833v1](http://arxiv.org/abs/2506.07833v1)|**2025-06-09**|null|
-|**2025-06-09**|**M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration**|Yongzhen Wang et.al.|[2506.07814v1](http://arxiv.org/abs/2506.07814v1)|**2025-06-09**|null|
-|**2025-06-09**|**Looking Beyond Visible Cues: Implicit Video Question Answering via Dual-Clue Reasoning**|Tieyuan Chen et.al.|[2506.07811v1](http://arxiv.org/abs/2506.07811v1)|**2025-06-09**|null|
-|**2025-06-09**|**Design and Evaluation of Deep Learning-Based Dual-Spectrum Image Fusion Methods**|Beining Xu et.al.|[2506.07779v1](http://arxiv.org/abs/2506.07779v1)|**2025-06-09**|null|
-|**2025-06-09**|**Language-Vision Planner and Executor for Text-to-Visual Reasoning**|Yichang Xu et.al.|[2506.07778v1](http://arxiv.org/abs/2506.07778v1)|**2025-06-09**|null|
-|**2025-06-09**|**Trend-Aware Fashion Recommendation with Visual Segmentation and Semantic Similarity**|Mohamed Djilani et.al.|[2506.07773v1](http://arxiv.org/abs/2506.07773v1)|**2025-06-09**|null|
-|**2025-06-09**|**Agent Semantics, Semantic Spacetime, and Graphical Reasoning**|Mark Burgess et.al.|[2506.07756v1](http://arxiv.org/abs/2506.07756v1)|**2025-06-09**|null|
-|**2025-06-09**|**Graph-Assisted Stitching for Offline Hierarchical Reinforcement Learning**|Seungho Baek et.al.|[2506.07744v1](http://arxiv.org/abs/2506.07744v1)|**2025-06-09**|null|
-|**2025-06-09**|**Language Embedding Meets Dynamic Graph: A New Exploration for Neural Architecture Representation Learning**|Haizhao Jing et.al.|[2506.07735v1](http://arxiv.org/abs/2506.07735v1)|**2025-06-09**|null|
-|**2025-06-09**|**Swiss Parliaments Corpus Re-Imagined (SPC_R): Enhanced Transcription with RAG-based Correction and Predicted BLEU**|Vincenzo Timmel et.al.|[2506.07726v1](http://arxiv.org/abs/2506.07726v1)|**2025-06-09**|null|
-|**2025-06-09**|**Fine-Grained Motion Compression and Selective Temporal Fusion for Neural B-Frame Video Coding**|Xihua Sheng et.al.|[2506.07709v1](http://arxiv.org/abs/2506.07709v1)|**2025-06-09**|null|
-|**2025-06-09**|**OpenSplat3D: Open-Vocabulary 3D Instance Segmentation using Gaussian Splatting**|Jens Piekenbrinck et.al.|[2506.07697v1](http://arxiv.org/abs/2506.07697v1)|**2025-06-09**|null|
+|**2025-06-10**|**Gradual Metaprogramming**|Tianyu Chen et.al.|[2506.09043v1](http://arxiv.org/abs/2506.09043v1)|**2025-06-10**|null|
+|**2025-06-10**|**Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better**|Dianyi Wang et.al.|[2506.09040v1](http://arxiv.org/abs/2506.09040v1)|**2025-06-10**|null|
+|**2025-06-10**|**SDTagNet: Leveraging Text-Annotated Navigation Maps for Online HD Map Construction**|Fabian Immel et.al.|[2506.08997v1](http://arxiv.org/abs/2506.08997v1)|**2025-06-10**|null|
+|**2025-06-10**|**Rethinking Range-View LiDAR Segmentation in Adverse Weather**|Longyu Yang et.al.|[2506.08979v1](http://arxiv.org/abs/2506.08979v1)|**2025-06-10**|null|
+|**2025-06-10**|**Step-Audio-AQAA: a Fully End-to-End Expressive Large Audio Language Model**|Ailin Huang et.al.|[2506.08967v1](http://arxiv.org/abs/2506.08967v1)|**2025-06-10**|null|
+|**2025-06-10**|**Segment Concealed Objects with Incomplete Supervision**|Chunming He et.al.|[2506.08955v1](http://arxiv.org/abs/2506.08955v1)|**2025-06-10**|null|
+|**2025-06-10**|**SSS: Semi-Supervised SAM-2 with Efficient Prompting for Medical Imaging Segmentation**|Hongjie Zhu et.al.|[2506.08949v1](http://arxiv.org/abs/2506.08949v1)|**2025-06-10**|null|
+|**2025-06-10**|**Semantic Communication for Cooperative Multi-Tasking over Rate-Limited Wireless Channels with Implicit Optimal Prior**|Ahmad Halimi Razlighi et.al.|[2506.08944v1](http://arxiv.org/abs/2506.08944v1)|**2025-06-10**|null|
+|**2025-06-10**|**Quantum Adiabatic Generation of Human-Like Passwords**|Sascha Mücke et.al.|[2506.08917v1](http://arxiv.org/abs/2506.08917v1)|**2025-06-10**|null|
+|**2025-06-10**|**Dialect Normalization using Large Language Models and Morphological Rules**|Antonios Dimakis et.al.|[2506.08907v1](http://arxiv.org/abs/2506.08907v1)|**2025-06-10**|null|
+|**2025-06-10**|**MIRAGE: Multimodal foundation model and benchmark for comprehensive retinal OCT image analysis**|José Morano et.al.|[2506.08900v1](http://arxiv.org/abs/2506.08900v1)|**2025-06-10**|null|
+|**2025-06-10**|**From Legal Texts to Defeasible Deontic Logic via LLMs: A Study in Automated Semantic Analysis**|Elias Horner et.al.|[2506.08899v1](http://arxiv.org/abs/2506.08899v1)|**2025-06-10**|null|
+|**2025-06-10**|**PlantBert: An Open Source Language Model for Plant Science**|Hiba Khey et.al.|[2506.08897v1](http://arxiv.org/abs/2506.08897v1)|**2025-06-10**|null|
+|**2025-06-10**|**WetCat: Automating Skill Assessment in Wetlab Cataract Surgery Videos**|Negin Ghamsarian et.al.|[2506.08896v1](http://arxiv.org/abs/2506.08896v1)|**2025-06-10**|null|
+|**2025-06-10**|**Adapting Vision-Language Foundation Model for Next Generation Medical Ultrasound Image Analysis**|Jingguo Qu et.al.|[2506.08849v1](http://arxiv.org/abs/2506.08849v1)|**2025-06-10**|null|
+|**2025-06-10**|**The impact of fine tuning in LLaMA on hallucinations for named entity extraction in legal documentation**|Francisco Vargas et.al.|[2506.08827v1](http://arxiv.org/abs/2506.08827v1)|**2025-06-10**|null|
+|**2025-06-10**|**Multimodal Representation Alignment for Cross-modal Information Retrieval**|Fan Xu et.al.|[2506.08774v1](http://arxiv.org/abs/2506.08774v1)|**2025-06-10**|null|
+|**2025-06-10**|**RS-MTDF: Multi-Teacher Distillation and Fusion for Remote Sensing Semi-Supervised Semantic Segmentation**|Jiayi Song et.al.|[2506.08772v1](http://arxiv.org/abs/2506.08772v1)|**2025-06-10**|null|
+|**2025-06-10**|**Akaike information criterion for segmented regression models**|Kazuki Nakajima et.al.|[2506.08760v1](http://arxiv.org/abs/2506.08760v1)|**2025-06-10**|null|
+|**2025-06-10**|**Bridging RDF Knowledge Graphs with Graph Neural Networks for Semantically-Rich Recommender Systems**|Michael Färber et.al.|[2506.08743v1](http://arxiv.org/abs/2506.08743v1)|**2025-06-10**|null|
+|**2025-06-10**|**SceneSplat++: A Large Dataset and Comprehensive Benchmark for Language Gaussian Splatting**|Mengjiao Ma et.al.|[2506.08710v1](http://arxiv.org/abs/2506.08710v1)|**2025-06-10**|null|
+|**2025-06-10**|**ArrowPose: Segmentation, Detection, and 5 DoF Pose Estimation Network for Colorless Point Clouds**|Frederik Hagelskjaer et.al.|[2506.08699v1](http://arxiv.org/abs/2506.08699v1)|**2025-06-10**|null|
+|**2025-06-10**|**ATAS: Any-to-Any Self-Distillation for Enhanced Open-Vocabulary Dense Prediction**|Juan Yeo et.al.|[2506.08678v1](http://arxiv.org/abs/2506.08678v1)|**2025-06-10**|null|
+|**2025-06-10**|**Enhancing Video Memorability Prediction with Text-Motion Cross-modal Contrastive Loss and Its Application in Video Summarization**|Zhiyi Zhu et.al.|[2506.08649v1](http://arxiv.org/abs/2506.08649v1)|**2025-06-10**|null|
+|**2025-06-10**|**RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping**|Yang Bai et.al.|[2506.08632v1](http://arxiv.org/abs/2506.08632v1)|**2025-06-10**|null|
+|**2025-06-10**|**ECMNet:Lightweight Semantic Segmentation with Efficient CNN-Mamba Network**|Feixiang Du et.al.|[2506.08629v1](http://arxiv.org/abs/2506.08629v1)|**2025-06-10**|null|
+|**2025-06-10**|**SAMSelect: A Spectral Index Search for Marine Debris Visualization using Segment Anything**|Joost van Dalen et.al.|[2506.08613v1](http://arxiv.org/abs/2506.08613v1)|**2025-06-10**|null|
+|**2025-06-10**|**Dense Retrievers Can Fail on Simple Queries: Revealing The Granularity Dilemma of Embeddings**|Liyan Xu et.al.|[2506.08592v1](http://arxiv.org/abs/2506.08592v1)|**2025-06-10**|null|
+|**2025-06-10**|**Noise Analysis and Hierarchical Adaptive Body State Estimator For Biped Robot Walking With ESVC Foot**|Boyang Chen et.al.|[2506.08578v1](http://arxiv.org/abs/2506.08578v1)|**2025-06-10**|null|
+|**2025-06-10**|**Auto-Regressive vs Flow-Matching: a Comparative Study of Modeling Paradigms for Text-to-Music Generation**|Or Tal et.al.|[2506.08570v1](http://arxiv.org/abs/2506.08570v1)|**2025-06-10**|null|
