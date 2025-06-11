@@ -2841,6 +2841,7 @@ Updated on 2025-06-11
 | 6 | 1 | IliaLarchenko/dot_pusht_imagesRobotics | UpdatedFeb 10 | [Link](https://huggingface.co/IliaLarchenko/dot_pusht_images) |
 | 10 | 1 | qwbu/univla-7bRobotics | Updatedabout 1 hour ago | [Link](https://huggingface.co/qwbu/univla-7b) |
 | 5.52k | 1 | Embodied-CoT/ecot-openvla-7b-oxeRobotics | UpdatedJul 10, 2024 | [Link](https://huggingface.co/Embodied-CoT/ecot-openvla-7b-oxe) |
+| 74 | 1 | nvidia/GR00T-N1 | Updatedabout 1 hour ago | [Link](https://huggingface.co/nvidia/GR00T-N1.5-3B) |
 | 80 | Unknown | physical-intelligence/fastRobotics | UpdatedJan 16 | [Link](https://huggingface.co/physical-intelligence/fast) |
 | 2 | Unknown | sirbrentmichaelskoda/Auto-GBT-Dream-Team-ModelRobotics | UpdatedJun 7, 2023 | [Link](https://huggingface.co/sirbrentmichaelskoda/Auto-GBT-Dream-Team-Model) |
 | 5 | Unknown | USC-GVL/UH-1Robotics | UpdatedDec 19, 2024 | [Link](https://huggingface.co/USC-GVL/UH-1) |
@@ -3776,6 +3777,7 @@ Updated on 2025-06-11
 | 18 | Unknown | lmstudio-community/DeepSeek-R1-0528-Qwen3-8B-GGUFText | Updatedabout 8 hours ago | [Link](https://huggingface.co/lmstudio-community/DeepSeek-R1-0528-Qwen3-8B-GGUF) |
 | 17 | Unknown | futurehouse/ether0Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/futurehouse/ether0) |
 | 101 |  | mistralai/Magistral-Small-2506Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/mistralai/Magistral-Small-2506) |
+| 17 | Unknown | google/gemma-3n-E2B-it-litert-lm-previewText | Updatedabout 16 hours ago | [Link](https://huggingface.co/google/gemma-3n-E2B-it-litert-lm-preview) |
 
 ## Text Ranking
 
@@ -5515,6 +5517,7 @@ Updated on 2025-06-11
 | 26 | 1 | NDugar/3epoch-3largeZero-Shot | UpdatedNov 30, 2021 | [Link](https://huggingface.co/NDugar/3epoch-3large) |
 | 67 | 1 | NDugar/v3-Large-mnliZero-Shot | UpdatedNov 22, 2023 | [Link](https://huggingface.co/NDugar/v3-Large-mnli) |
 | 163 | 1 | syedkhalid076/DeBERTa-Zero-Shot-ClassificationZero-Shot | UpdatedDec 5, 2024 | [Link](https://huggingface.co/syedkhalid076/DeBERTa-Zero-Shot-Classification) |
+| 134 | 1 | deepanwa/NuNerZero_onnxZero-Shot | UpdatedMar 23 | [Link](https://huggingface.co/deepanwa/NuNerZero_onnx) |
 | 2.74M |  | facebook/bart-large-mnliZero-Shot | UpdatedSep 5, 2023 | [Link](https://huggingface.co/facebook/bart-large-mnli) |
 | 141k |  | joeddav/xlm-roberta-large-xnliZero-Shot | UpdatedOct 16, 2024 | [Link](https://huggingface.co/joeddav/xlm-roberta-large-xnli) |
 | 68.7k |  | MoritzLaurer/deberta-v3-large-zeroshot-v2 | UpdatedApr 11, 2024 | [Link](https://huggingface.co/MoritzLaurer/deberta-v3-large-zeroshot-v2.0) |
