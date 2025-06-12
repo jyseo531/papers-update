@@ -2,33 +2,33 @@
 ### Point Cloud Registration
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-10**|**The Decoupled Risk Landscape in Performative Prediction**|Javier Sanguino et.al.|[2506.09044v1](http://arxiv.org/abs/2506.09044v1)|**2025-06-10**|null|
-|**2025-06-10**|**Discovery of a 1D edge mode in a Magnetic Topological semimetal**|Avior Almoalem et.al.|[2506.09041v1](http://arxiv.org/abs/2506.09041v1)|**2025-06-10**|null|
-|**2025-06-10**|**FZOO: Fast Zeroth-Order Optimizer for Fine-Tuning Large Language Models towards Adam-Scale Speed**|Sizhe Dang et.al.|[2506.09034v1](http://arxiv.org/abs/2506.09034v1)|**2025-06-10**|null|
-|**2025-06-10**|**Deconstructing resonant Higgs pair production at the LHC: effects of coloured and neutral scalars in the NMSSM test case**|Stefano Moretti et.al.|[2506.09006v1](http://arxiv.org/abs/2506.09006v1)|**2025-06-10**|null|
-|**2025-06-10**|**Morse Index Stability of Branched Willmore Immersions**|Alexis Michelat et.al.|[2506.09005v1](http://arxiv.org/abs/2506.09005v1)|**2025-06-10**|null|
-|**2025-06-10**|**SDTagNet: Leveraging Text-Annotated Navigation Maps for Online HD Map Construction**|Fabian Immel et.al.|[2506.08997v1](http://arxiv.org/abs/2506.08997v1)|**2025-06-10**|null|
-|**2025-06-10**|**Efficient Medical Vision-Language Alignment Through Adapting Masked Vision Models**|Chenyu Lian et.al.|[2506.08990v1](http://arxiv.org/abs/2506.08990v1)|**2025-06-10**|null|
-|**2025-06-10**|**Giant transverse magnetic fluctuations at the edge of re-entrant superconductivity in UTe$_{2}$**|Valeska Zambra et.al.|[2506.08984v1](http://arxiv.org/abs/2506.08984v1)|**2025-06-10**|null|
-|**2025-06-10**|**FROST-EMA: Finnish and Russian Oral Speech Dataset of Electromagnetic Articulography Measurements with L1, L2 and Imitated L2 Accents**|Satu Hopponen et.al.|[2506.08981v1](http://arxiv.org/abs/2506.08981v1)|**2025-06-10**|null|
-|**2025-06-10**|**Towards Better Code Generation: Adaptive Decoding with Uncertainty Guidance**|Kaifeng He et.al.|[2506.08980v2](http://arxiv.org/abs/2506.08980v2)|**2025-06-11**|null|
-|**2025-06-10**|**Evaluating Generative Vehicle Trajectory Models for Traffic Intersection Dynamics**|Yash Ranjan et.al.|[2506.08963v1](http://arxiv.org/abs/2506.08963v1)|**2025-06-10**|null|
-|**2025-06-10**|**IntTrajSim: Trajectory Prediction for Simulating Multi-Vehicle driving at Signalized Intersections**|Yash Ranjan et.al.|[2506.08957v1](http://arxiv.org/abs/2506.08957v1)|**2025-06-10**|null|
-|**2025-06-10**|**UVIT Study of the Magellanic Clouds (U-SMAC). III. Hierarchical Star Formation in the Small Magellanic Cloud Regulated by Turbulence**|Sipra Hota et.al.|[2506.08951v1](http://arxiv.org/abs/2506.08951v1)|**2025-06-10**|null|
-|**2025-06-10**|**Fragility in Average Treatment Effect on the Treated under Limited Covariate Support**|Mengqi Li et.al.|[2506.08950v1](http://arxiv.org/abs/2506.08950v1)|**2025-06-10**|null|
-|**2025-06-10**|**Critical points of random polynomials and finite free cumulants**|Octavio Arizmendi et.al.|[2506.08910v1](http://arxiv.org/abs/2506.08910v1)|**2025-06-10**|null|
-|**2025-06-10**|**Observations of Carbon Radio Recombination Lines with the NenuFAR telescope. I. Cassiopeia A and Cygnus A**|Lucie Cros et.al.|[2506.08895v2](http://arxiv.org/abs/2506.08895v2)|**2025-06-11**|null|
-|**2025-06-10**|**Low degree subvarieties of universal hypersurfaces**|Yifeng Huang et.al.|[2506.08848v1](http://arxiv.org/abs/2506.08848v1)|**2025-06-10**|null|
-|**2025-06-10**|**IMAGIC-500: IMputation benchmark on A Generative Imaginary Country (500k samples)**|Siyi Sun et.al.|[2506.08844v1](http://arxiv.org/abs/2506.08844v1)|**2025-06-10**|null|
-|**2025-06-10**|**Notes on the Invariance of Tautness Under Lie Sphere Transformations**|Thomas E. Cecil et.al.|[2506.08834v1](http://arxiv.org/abs/2506.08834v1)|**2025-06-10**|null|
-|**2025-06-10**|**Cavity-Mediated Gas-Liquid Transition**|Fan Zhang et.al.|[2506.08830v1](http://arxiv.org/abs/2506.08830v1)|**2025-06-10**|null|
-|**2025-06-10**|**The impact of fine tuning in LLaMA on hallucinations for named entity extraction in legal documentation**|Francisco Vargas et.al.|[2506.08827v1](http://arxiv.org/abs/2506.08827v1)|**2025-06-10**|null|
-|**2025-06-10**|**Nonlinear Higher-Order Dynamic Equation with Polynomial Growth and Mixed Boundary Conditions**|Shalmali Bandyopadhyay et.al.|[2506.08808v1](http://arxiv.org/abs/2506.08808v1)|**2025-06-10**|null|
-|**2025-06-10**|**Using gravitational waves and multi-messenger Astronomy to reverse-engineer the properties of galactic nuclei**|K. E. Saavik Ford et.al.|[2506.08801v1](http://arxiv.org/abs/2506.08801v1)|**2025-06-10**|null|
-|**2025-06-10**|**Radiation-Reaction on the Straight-Line Motion of a Point Charge accelerated by a constant applied Electric Field in an Electromagnetic Bopp-Landé-Thomas-Podolsky vacuum**|Ryan J. McGuigan et.al.|[2506.08799v1](http://arxiv.org/abs/2506.08799v1)|**2025-06-10**|null|
-|**2025-06-10**|**A PDE-Based Image Dehazing Method via Atmospheric Scattering Theory**|Zhuoran Zheng et.al.|[2506.08793v1](http://arxiv.org/abs/2506.08793v1)|**2025-06-10**|null|
-|**2025-06-10**|**Testing scalar dark matter clumps with Pulsar Timing Arrays**|Philippe Brax et.al.|[2506.08786v1](http://arxiv.org/abs/2506.08786v1)|**2025-06-10**|null|
-|**2025-06-10**|**POLARON: Precision-aware On-device Learning and Adaptive Runtime-cONfigurable AI acceleration**|Mukul Lokhande et.al.|[2506.08785v1](http://arxiv.org/abs/2506.08785v1)|**2025-06-10**|null|
-|**2025-06-10**|**Lightweight and High-Throughput Secure Logging for Internet of Things and Cold Cloud Continuum**|Saif E. Nouma et.al.|[2506.08781v1](http://arxiv.org/abs/2506.08781v1)|**2025-06-10**|null|
-|**2025-06-10**|**Gaussian2Scene: 3D Scene Representation Learning via Self-supervised Learning with 3D Gaussian Splatting**|Keyi Liu et.al.|[2506.08777v2](http://arxiv.org/abs/2506.08777v2)|**2025-06-11**|null|
-|**2025-06-10**|**Paths to Causality: Finding Informative Subgraphs Within Knowledge Graphs for Knowledge-Based Causal Discovery**|Yuni Susanti et.al.|[2506.08771v1](http://arxiv.org/abs/2506.08771v1)|**2025-06-10**|null|
+|**2025-06-11**|**Evidence for Bose liquid from anomalous shot noise in nanojunctions of bad metal beta-Ta**|Yiou Zhang et.al.|[2506.09973v1](http://arxiv.org/abs/2506.09973v1)|**2025-06-11**|null|
+|**2025-06-11**|**UniPre3D: Unified Pre-training of 3D Point Cloud Models with Cross-Modal Gaussian Splatting**|Ziyi Wang et.al.|[2506.09952v1](http://arxiv.org/abs/2506.09952v1)|**2025-06-11**|null|
+|**2025-06-11**|**Collapse Scenario and Final State of Evaporation for Schwarzschild Black Hole in Dimensionally-Reduced Model of Dilaton Gravity**|Voja Radovanović et.al.|[2506.09946v1](http://arxiv.org/abs/2506.09946v1)|**2025-06-11**|null|
+|**2025-06-11**|**Assessing a Safety Case: Bottom-up Guidance for Claims and Evidence Evaluation**|Scott Schnelle et.al.|[2506.09929v1](http://arxiv.org/abs/2506.09929v1)|**2025-06-11**|null|
+|**2025-06-11**|**Microscopic investigation of enhanced Pauli paramagnetism in metallic Pu$_2$C$_3$**|R. Yamamoto et.al.|[2506.09911v1](http://arxiv.org/abs/2506.09911v1)|**2025-06-11**|null|
+|**2025-06-11**|**Corrections to Friis noise factor formulas for cascade networks**|Ankitha E Bangera et.al.|[2506.09900v1](http://arxiv.org/abs/2506.09900v1)|**2025-06-11**|null|
+|**2025-06-11**|**Discrete Scale-invariant Metric Learning for Efficient Collaborative Filtering**|Yan Zhang et.al.|[2506.09898v1](http://arxiv.org/abs/2506.09898v1)|**2025-06-11**|null|
+|**2025-06-11**|**A look at adversarial attacks on radio waveforms from discrete latent space**|Attanasia Garuso et.al.|[2506.09896v1](http://arxiv.org/abs/2506.09896v1)|**2025-06-11**|null|
+|**2025-06-11**|**Detecting (emergent) continuous symmetry of criticality via subsystem's entanglement spectrum**|Bin-Bin Mao et.al.|[2506.09889v1](http://arxiv.org/abs/2506.09889v1)|**2025-06-11**|null|
+|**2025-06-11**|**Radon Transforms and the SYK model**|Michael Stone et.al.|[2506.09880v1](http://arxiv.org/abs/2506.09880v1)|**2025-06-11**|null|
+|**2025-06-11**|**Impact of model uncertainty on SPARC operating scenario predictions with empirical modeling**|A. Saltzman et.al.|[2506.09879v1](http://arxiv.org/abs/2506.09879v1)|**2025-06-11**|null|
+|**2025-06-11**|**Virtualizing RAN: Science, Strategy, and Architecture of Software-Defined Mobile Networks**|Ryan Barker et.al.|[2506.09878v1](http://arxiv.org/abs/2506.09878v1)|**2025-06-11**|null|
+|**2025-06-11**|**variability.dev: Towards an Online Toolbox for Feature Modeling**|Tobias Heß et.al.|[2506.09845v1](http://arxiv.org/abs/2506.09845v1)|**2025-06-11**|null|
+|**2025-06-11**|**An infrared bound on the ultraviolet bounce**|Mehrdad Mirbabayi et.al.|[2506.09842v1](http://arxiv.org/abs/2506.09842v1)|**2025-06-11**|null|
+|**2025-06-11**|**The capillary Gauss curvature flow**|Xinqun Mei et.al.|[2506.09840v1](http://arxiv.org/abs/2506.09840v1)|**2025-06-11**|null|
+|**2025-06-11**|**Superstudent intelligence in thermodynamics**|Rebecca Loubet et.al.|[2506.09822v1](http://arxiv.org/abs/2506.09822v1)|**2025-06-11**|null|
+|**2025-06-11**|**Balanced quasistatic evolutions of critical points in metric spaces**|Stefano Almi et.al.|[2506.09812v1](http://arxiv.org/abs/2506.09812v1)|**2025-06-11**|null|
+|**2025-06-11**|**Accurate and efficient zero-shot 6D pose estimation with frozen foundation models**|Andrea Caraffa et.al.|[2506.09784v1](http://arxiv.org/abs/2506.09784v1)|**2025-06-11**|null|
+|**2025-06-11**|**A Saddle Point Algorithm for Robust Data-Driven Factor Model Problems**|Shabnam Khodakaramzadeh et.al.|[2506.09776v1](http://arxiv.org/abs/2506.09776v1)|**2025-06-11**|null|
+|**2025-06-11**|**Probing anyon statistics on a single-edge loop in the fractional quantum Hall regime**|Flavio Ronetti et.al.|[2506.09774v1](http://arxiv.org/abs/2506.09774v1)|**2025-06-11**|null|
+|**2025-06-11**|**Upper Bound on Quantum Fisher Information in Pseudo-Hermitian Systems**|Ievgen I. Arkhipov et.al.|[2506.09763v1](http://arxiv.org/abs/2506.09763v1)|**2025-06-11**|null|
+|**2025-06-11**|**Parallel computations for Metropolis Markov chains with Picard maps**|Sebastiano Grazzi et.al.|[2506.09762v1](http://arxiv.org/abs/2506.09762v1)|**2025-06-11**|null|
+|**2025-06-11**|**Generic Chiral Anomaly and Planar Hall Effect in a Non-Weyl System**|Yongjian Wang et.al.|[2506.09756v1](http://arxiv.org/abs/2506.09756v1)|**2025-06-11**|null|
+|**2025-06-11**|**AtmosMJ: Revisiting Gating Mechanism for AI Weather Forecasting Beyond the Year Scale**|Minjong Cheon et.al.|[2506.09733v1](http://arxiv.org/abs/2506.09733v1)|**2025-06-11**|[link](https://github.com/jmj2316/AtmosMJ/blob/main/README.md)|
+|**2025-06-11**|**Higher Chiral Algebras in a Polysimplicial Model**|Laura O. Felder et.al.|[2506.09728v1](http://arxiv.org/abs/2506.09728v1)|**2025-06-11**|null|
+|**2025-06-11**|**Fully Bayesian Sequential Design for Mean Response Surface Prediction of Heteroscedastic Stochastic Simulations**|Yuying Huang et.al.|[2506.09722v1](http://arxiv.org/abs/2506.09722v1)|**2025-06-11**|null|
+|**2025-06-11**|**Generative Models for Parameter Space Reduction applied to Reduced Order Modelling**|Guglielmo Padula et.al.|[2506.09721v1](http://arxiv.org/abs/2506.09721v1)|**2025-06-11**|null|
+|**2025-06-11**|**Hidden degree of freedom implied by unusual nonlocal transport in a topological semimetal**|Yongjian Wang et.al.|[2506.09720v1](http://arxiv.org/abs/2506.09720v1)|**2025-06-11**|null|
+|**2025-06-11**|**Rock-salt ScN(113) layers grown on AlN$(11\bar{2}2)$ by plasma-assisted molecular beam epitaxy**|Duc V. Dinh et.al.|[2506.09715v1](http://arxiv.org/abs/2506.09715v1)|**2025-06-11**|null|
+|**2025-06-11**|**A First Look at Bugs in LLM Inference Engines**|Mugeng Liu et.al.|[2506.09713v1](http://arxiv.org/abs/2506.09713v1)|**2025-06-11**|null|

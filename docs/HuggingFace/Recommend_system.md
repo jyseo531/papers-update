@@ -154,6 +154,7 @@ Updated on 2025-06-12
 | 92 | 2 | dima806/multiple_accent_classificationAudio | UpdatedOct 19, 2024 | [Link](https://huggingface.co/dima806/multiple_accent_classification) |
 | 30 | 2 | panchajanya-ai/lid_Indic_VaaniAudio | Updatedabout 2 hours ago | [Link](https://huggingface.co/panchajanya-ai/lid_Indic_Vaani) |
 | 7 | 2 | alejogil35/distilhubert-finetuned-chorddetection2Audio | UpdatedFeb 6, 2024 | [Link](https://huggingface.co/alejogil35/distilhubert-finetuned-chorddetection2) |
+| 132 | 2 | lewtun/distilhubert-finetuned-music-genresAudio | UpdatedNov 2, 2022 | [Link](https://huggingface.co/lewtun/distilhubert-finetuned-music-genres) |
 | 185 | 1 | Rafeq/wav2vec2-base-cry-classification__Audio | UpdatedJun 24, 2023 | [Link](https://huggingface.co/Rafeq/wav2vec2-base-cry-classification__) |
 | 36 | 1 | sahita/lang-VoxLingua107-ecapaAudio | UpdatedSep 26, 2022 | [Link](https://huggingface.co/sahita/lang-VoxLingua107-ecapa) |
 | 51 | 1 | dvinagre/wav2vec2-lg-xlsr-en-speech-emotion-recognition-finetuned-gtzanAudio | UpdatedJul 7, 2023 | [Link](https://huggingface.co/dvinagre/wav2vec2-lg-xlsr-en-speech-emotion-recognition-finetuned-gtzan) |
@@ -492,6 +493,7 @@ Updated on 2025-06-12
 | 87 | 5 | sgangireddy/whisper-medium-trAutomatic | UpdatedDec 21, 2022 | [Link](https://huggingface.co/sgangireddy/whisper-medium-tr) |
 | 379 | 5 | scb10x/monsoon-whisper-medium-gigaspeech2Automatic | UpdatedMar 31 | [Link](https://huggingface.co/scb10x/monsoon-whisper-medium-gigaspeech2) |
 | 15 | 5 | FBK-MT/fama-mediumAutomatic | Updated38 minutes ago | [Link](https://huggingface.co/FBK-MT/fama-medium) |
+| 2.07k | 5 | xkeyC/whisper-large-v3-turbo-ggufAutomatic | UpdatedMar 21 | [Link](https://huggingface.co/xkeyC/whisper-large-v3-turbo-gguf) |
 | 774 | 4 | nvidia/stt_fr_fastconformer_hybrid_large_pcAutomatic | Updatedabout 24 hours ago | [Link](https://huggingface.co/nvidia/stt_fr_fastconformer_hybrid_large_pc) |
 | 20 | 4 | espnet/owls_4B_180KAutomatic | Updated4 days ago | [Link](https://huggingface.co/espnet/owls_4B_180K) |
 | 674 | 4 | CAYTU/whosper-large-v2Automatic | Updated3 days ago | [Link](https://huggingface.co/CAYTU/whosper-large-v2) |
@@ -1788,6 +1790,7 @@ Updated on 2025-06-12
 | 34 | Unknown | google/medgemma-4b-ptImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/google/medgemma-4b-pt) |
 | 30 | Unknown | google/gemma-3n-E2B-it-litert-previewImage-Text-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/google/gemma-3n-E2B-it-litert-preview) |
 | 10 | Unknown | ngxson/Devstral-Small-Vision-2505-GGUFImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/ngxson/Devstral-Small-Vision-2505-GGUF) |
+| 109 | Unknown | echo840/MonkeyOCRImage-Text-to-Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/echo840/MonkeyOCR) |
 
 ## Image-to-3D
 
@@ -2601,6 +2604,7 @@ Updated on 2025-06-12
 | 7 | 2 | TIGER-Lab/PixelReasoner-WarmStartQuestion | Updated3 days ago | [Link](https://huggingface.co/TIGER-Lab/PixelReasoner-WarmStart) |
 | 5.05k | 2 | mrm8488/bert-tiny-finetuned-squadv2Question | UpdatedMar 24, 2023 | [Link](https://huggingface.co/mrm8488/bert-tiny-finetuned-squadv2) |
 | 26 | 2 | sagorsarker/mbert-bengali-tydiqa-qaQuestion | UpdatedMar 19, 2023 | [Link](https://huggingface.co/sagorsarker/mbert-bengali-tydiqa-qa) |
+| 26 | 2 | RoadQAQ/ReLIFT-Qwen2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/RoadQAQ/ReLIFT-Qwen2.5-7B-Zero) |
 | 133 | 1 | chieunq/xlm-r-base-uit-viquadQuestion | UpdatedDec 13, 2022 | [Link](https://huggingface.co/chieunq/xlm-r-base-uit-viquad) |
 | 127 | 1 | FuriouslyAsleep/markuplm-large-finetuned-qaQuestion | UpdatedFeb 10, 2022 | [Link](https://huggingface.co/FuriouslyAsleep/markuplm-large-finetuned-qa) |
 | 39 | 1 | mrizalf7/indobert-qa-finetuned-small-squad-indonesian-rizalQuestion | UpdatedJan 15, 2023 | [Link](https://huggingface.co/mrizalf7/indobert-qa-finetuned-small-squad-indonesian-rizal) |
@@ -3345,6 +3349,7 @@ Updated on 2025-06-12
 | 29k | 23 | cardiffnlp/twitter-roberta-base-emotion-multilabel-latestText | UpdatedMay 28, 2023 | [Link](https://huggingface.co/cardiffnlp/twitter-roberta-base-emotion-multilabel-latest) |
 | 53.8k | 23 | SamLowe/roberta-base-go_emotions-onnxText | UpdatedSep 29, 2023 | [Link](https://huggingface.co/SamLowe/roberta-base-go_emotions-onnx) |
 | 10.1k | 22 | bucketresearch/politicalBiasBERTText | UpdatedJul 13, 2023 | [Link](https://huggingface.co/bucketresearch/politicalBiasBERT) |
+| 6.48M | 22 | microsoft/deberta-large-mnliText | UpdatedMay 21, 2021 | [Link](https://huggingface.co/microsoft/deberta-large-mnli) |
 | 88.8k | 21 | koheiduck/bert-japanese-finetuned-sentimentText | UpdatedDec 20, 2022 | [Link](https://huggingface.co/koheiduck/bert-japanese-finetuned-sentiment) |
 | 352k | 20 | nvidia/Aegis-AI-Content-Safety-LlamaGuard-Defensive-1 | UpdatedJan 24 | [Link](https://huggingface.co/nvidia/Aegis-AI-Content-Safety-LlamaGuard-Defensive-1.0) |
 | 2.38k | 20 | s-nlp/roberta-base-formality-rankerText | UpdatedSep 8, 2023 | [Link](https://huggingface.co/s-nlp/roberta-base-formality-ranker) |
@@ -3352,6 +3357,7 @@ Updated on 2025-06-12
 | 585 | 19 | infly/INF-ORM-Llama3 | Updated11 days ago | [Link](https://huggingface.co/infly/INF-ORM-Llama3.1-70B) |
 | 7.76k | 19 | ynie/roberta-large-snli_mnli_fever_anli_R1_R2_R3-nliText | UpdatedMay 20, 2021 | [Link](https://huggingface.co/ynie/roberta-large-snli_mnli_fever_anli_R1_R2_R3-nli) |
 | 22.8k | 18 | MilaNLProc/feel-it-italian-emotionText | UpdatedAug 15, 2022 | [Link](https://huggingface.co/MilaNLProc/feel-it-italian-emotion) |
+| 15.7k | 17 | tabularisai/robust-sentiment-analysisText | UpdatedMay 5 | [Link](https://huggingface.co/tabularisai/robust-sentiment-analysis) |
 | 1.05k | 15 | FreedomIntelligence/medical_o1_verifier_3BText | UpdatedDec 30, 2024 | [Link](https://huggingface.co/FreedomIntelligence/medical_o1_verifier_3B) |
 | 4.78k | 15 | katanemo/Arch-GuardText | UpdatedJan 15 | [Link](https://huggingface.co/katanemo/Arch-Guard) |
 | 3.58k | 14 | clapAI/modernBERT-base-multilingual-sentimentText | UpdatedJan 8 | [Link](https://huggingface.co/clapAI/modernBERT-base-multilingual-sentiment) |
@@ -3870,6 +3876,7 @@ Updated on 2025-06-12
 | 1.04k | 1 | gaotang/RM-R1-DeepSeek-Distilled-Qwen-32BText | Updated11 days ago | [Link](https://huggingface.co/gaotang/RM-R1-DeepSeek-Distilled-Qwen-32B) |
 | 275 | 1 | tomaarsen/Qwen3-Reranker-0 | Updated3 days ago | [Link](https://huggingface.co/tomaarsen/Qwen3-Reranker-0.6B-seq-cls) |
 | 4 | 1 | pyarn/Qwen3-Reranker-0 | Updatedabout 6 hours ago | [Link](https://huggingface.co/pyarn/Qwen3-Reranker-0.6B-Q8_0-GGUF) |
+| 9 | 1 | QuantFactory/Qwen3-Reranker-4B-GGUFText | Updatedabout 18 hours ago | [Link](https://huggingface.co/QuantFactory/Qwen3-Reranker-4B-GGUF) |
 | Unknown | Unknown | tomaarsen/reranker-msmarco-v1 | Updated18 minutes ago | [Link](https://huggingface.co/tomaarsen/reranker-msmarco-v1.1-MiniLM-L12-H384-uncased-plistmle-seeded) |
 | 7 | Unknown | tomaarsen/reranker-ModernBERT-base-gooaq-lambdaText | Updatedabout 11 hours ago | [Link](https://huggingface.co/tomaarsen/reranker-ModernBERT-base-gooaq-lambda) |
 | Unknown | Unknown | tomaarsen/reranker-ModernBERT-base-gooaq-bce-soft-negsText | Updatedabout 11 hours ago | [Link](https://huggingface.co/tomaarsen/reranker-ModernBERT-base-gooaq-bce-soft-negs) |
@@ -4020,6 +4027,7 @@ Updated on 2025-06-12
 | 303k | 1 | alakxender/mms-tts-div-finetuned-md-m01Text-to-Audio | UpdatedJun 6, 2024 | [Link](https://huggingface.co/alakxender/mms-tts-div-finetuned-md-m01) |
 | 6 | 1 | melfatih/XTTS_UAEText-to-Audio | UpdatedFeb 14 | [Link](https://huggingface.co/melfatih/XTTS_UAE) |
 | 24 | 1 | beyoru/firefly_sesameText-to-Audio | Updated2 days ago | [Link](https://huggingface.co/beyoru/firefly_sesame) |
+| 31 | 1 | jongwooko/Flex-Omni-7BText-to-Audio | Updated3 days ago | [Link](https://huggingface.co/jongwooko/Flex-Omni-7B) |
 | 60.3k |  | facebook/musicgen-smallText-to-Audio | UpdatedNov 17, 2023 | [Link](https://huggingface.co/facebook/musicgen-small) |
 | 24.3k |  | facebook/musicgen-stereo-smallText-to-Audio | UpdatedMar 6, 2024 | [Link](https://huggingface.co/facebook/musicgen-stereo-small) |
 | 1 | Unknown | songboai/SoVITS_liyunlongText-to-Audio | UpdatedApr 12, 2024 | [Link](https://huggingface.co/songboai/SoVITS_liyunlong) |
@@ -5095,6 +5103,7 @@ Updated on 2025-06-12
 | 5 | Unknown | dahara1/llama-translate-amd-npuTranslation | UpdatedAug 14, 2024 | [Link](https://huggingface.co/dahara1/llama-translate-amd-npu) |
 | 157 |  | NAMAA-Space/masrawy-english-to-egyptian-arabic-translator-v2 | UpdatedJan 27 | [Link](https://huggingface.co/NAMAA-Space/masrawy-english-to-egyptian-arabic-translator-v2.9) |
 | 1 | Unknown | marian-nmt/chrfoid-wmt23Translation | UpdatedFeb 11 | [Link](https://huggingface.co/marian-nmt/chrfoid-wmt23) |
+| 1 | Unknown | Hemanth-thunder/indic-machine-translation-Lora-switchTranslation | UpdatedFeb 4 | [Link](https://huggingface.co/Hemanth-thunder/indic-machine-translation-Lora-switch) |
 
 ## Unconditional Image Generation
 
@@ -5680,6 +5689,7 @@ Updated on 2025-06-12
 | 12 | 1 | onnx-community/tiny-clip-test-ONNXZero-Shot | Updated6 days ago | [Link](https://huggingface.co/onnx-community/tiny-clip-test-ONNX) |
 | 4 | 1 | hdo03/clip-finetuneZero-Shot | UpdatedOct 30, 2021 | [Link](https://huggingface.co/hdo03/clip-finetune) |
 | 10 | 1 | vicgalle/clip-vit-base-patch16-photo-critiqueZero-Shot | UpdatedDec 3, 2021 | [Link](https://huggingface.co/vicgalle/clip-vit-base-patch16-photo-critique) |
+| 9.57k | 1 | google/siglip2-so400m-patch16-256Zero-Shot | UpdatedFeb 21 | [Link](https://huggingface.co/google/siglip2-so400m-patch16-256) |
 | 14.1M |  | openai/clip-vit-base-patch32Zero-Shot | UpdatedFeb 29, 2024 | [Link](https://huggingface.co/openai/clip-vit-base-patch32) |
 | 43M |  | openai/clip-vit-large-patch14Zero-Shot | UpdatedSep 15, 2023 | [Link](https://huggingface.co/openai/clip-vit-large-patch14) |
 | 6.33M |  | google/siglip-so400m-patch14-384Zero-Shot | UpdatedSep 26, 2024 | [Link](https://huggingface.co/google/siglip-so400m-patch14-384) |
