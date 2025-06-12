@@ -910,6 +910,7 @@ Updated on 2025-06-12
 | 67.7k |  | owkin/phikonFeature | UpdatedSep 26, 2024 | [Link](https://huggingface.co/owkin/phikon) |
 | 676 |  | pranaydeeps/Ancient-Greek-BERTFeature | UpdatedApr 17, 2023 | [Link](https://huggingface.co/pranaydeeps/Ancient-Greek-BERT) |
 | 71.5k |  | laion/clap-htsat-fusedFeature | UpdatedMar 28 | [Link](https://huggingface.co/laion/clap-htsat-fused) |
+| 5.19k |  | ntu-spml/distilhubertFeature | UpdatedJul 24, 2023 | [Link](https://huggingface.co/ntu-spml/distilhubert) |
 
 ## Fill-Mask
 
@@ -4944,6 +4945,7 @@ Updated on 2025-06-12
 | 605 |  | CyberPeace-Institute/SecureBERT-NERToken | UpdatedNov 22, 2023 | [Link](https://huggingface.co/CyberPeace-Institute/SecureBERT-NER) |
 | 76 |  | compnet-renard/bert-base-cased-literary-NERToken | UpdatedNov 2, 2023 | [Link](https://huggingface.co/compnet-renard/bert-base-cased-literary-NER) |
 | 136k |  | jtlicardo/bpmn-information-extraction-v2Token | UpdatedMay 6, 2024 | [Link](https://huggingface.co/jtlicardo/bpmn-information-extraction-v2) |
+| 355 |  | pruas/BENT-PubMedBERT-NER-GeneToken | UpdatedMar 2, 2024 | [Link](https://huggingface.co/pruas/BENT-PubMedBERT-NER-Gene) |
 
 ## Translation
 
