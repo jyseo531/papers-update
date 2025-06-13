@@ -22,7 +22,7 @@
 |**2025-06-11**|**Accurate and efficient zero-shot 6D pose estimation with frozen foundation models**|Andrea Caraffa et.al.|[2506.09784v1](http://arxiv.org/abs/2506.09784v1)|**2025-06-11**|null|
 |**2025-06-11**|**A Saddle Point Algorithm for Robust Data-Driven Factor Model Problems**|Shabnam Khodakaramzadeh et.al.|[2506.09776v1](http://arxiv.org/abs/2506.09776v1)|**2025-06-11**|null|
 |**2025-06-11**|**Probing anyon statistics on a single-edge loop in the fractional quantum Hall regime**|Flavio Ronetti et.al.|[2506.09774v1](http://arxiv.org/abs/2506.09774v1)|**2025-06-11**|null|
-|**2025-06-11**|**Upper Bound on Quantum Fisher Information in Pseudo-Hermitian Systems**|Ievgen I. Arkhipov et.al.|[2506.09763v1](http://arxiv.org/abs/2506.09763v1)|**2025-06-11**|null|
+|**2025-06-11**|**Upper Bound on Quantum Fisher Information in Pseudo-Hermitian Systems**|Ievgen I. Arkhipov et.al.|[2506.09763v2](http://arxiv.org/abs/2506.09763v2)|**2025-06-12**|null|
 |**2025-06-11**|**Parallel computations for Metropolis Markov chains with Picard maps**|Sebastiano Grazzi et.al.|[2506.09762v1](http://arxiv.org/abs/2506.09762v1)|**2025-06-11**|null|
 |**2025-06-11**|**Generic Chiral Anomaly and Planar Hall Effect in a Non-Weyl System**|Yongjian Wang et.al.|[2506.09756v1](http://arxiv.org/abs/2506.09756v1)|**2025-06-11**|null|
 |**2025-06-11**|**AtmosMJ: Revisiting Gating Mechanism for AI Weather Forecasting Beyond the Year Scale**|Minjong Cheon et.al.|[2506.09733v1](http://arxiv.org/abs/2506.09733v1)|**2025-06-11**|[link](https://github.com/jmj2316/AtmosMJ/blob/main/README.md)|
