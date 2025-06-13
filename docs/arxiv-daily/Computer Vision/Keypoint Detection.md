@@ -2,6 +2,8 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-12**|**Predicting air flow in calendered paper sheets from $μ$-CT data: combining physics with morphology**|Phillip Gräfensteiner et.al.|[2506.10606v1](http://arxiv.org/abs/2506.10606v1)|**2025-06-12**|null|
+|**2025-06-12**|**RealKeyMorph: Keypoints in Real-world Coordinates for Resolution-agnostic Image Registration**|Mina C. Moghadam et.al.|[2506.10344v1](http://arxiv.org/abs/2506.10344v1)|**2025-06-12**|null|
 |**2025-06-10**|**Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning**|Haozhen Zhang et.al.|[2506.09033v1](http://arxiv.org/abs/2506.09033v1)|**2025-06-10**|null|
 |**2025-06-10**|**Large Deviations for Markovian Graphon Processes and Associated Dynamical Systems on Networks**|Shankar Bhamidi et.al.|[2506.08333v1](http://arxiv.org/abs/2506.08333v1)|**2025-06-10**|null|
 |**2025-06-09**|**AI-Assisted Rapid Crystal Structure Generation Towards a Target Local Environment**|Osman Goni Ridwan et.al.|[2506.08224v1](http://arxiv.org/abs/2506.08224v1)|**2025-06-09**|null|
@@ -30,5 +32,3 @@
 |**2025-06-02**|**UniversalCEFR: Enabling Open Multilingual Research on Language Proficiency Assessment**|Joseph Marvin Imperial et.al.|[2506.01419v1](http://arxiv.org/abs/2506.01419v1)|**2025-06-02**|null|
 |**2025-06-02**|**PointT2I: LLM-based text-to-image generation via keypoints**|Taekyung Lee et.al.|[2506.01370v1](http://arxiv.org/abs/2506.01370v1)|**2025-06-02**|null|
 |**2025-05-30**|**Beyond Atomic Geometry Representations in Materials Science: A Human-in-the-Loop Multimodal Framework**|Can Polat et.al.|[2506.00302v1](http://arxiv.org/abs/2506.00302v1)|**2025-05-30**|[link](https://github.com/kurbanintelligencelab/multicrystalspectrumset)|
-|**2025-05-30**|**Enhancing Drug Discovery: Autoencoder-Based Latent Space Augmentation for Improved Molecular Solubility Prediction using LatMixSol**|Mohammad Saleh Hasankhani et.al.|[2506.00223v1](http://arxiv.org/abs/2506.00223v1)|**2025-05-30**|null|
-|**2025-05-30**|**Tackling View-Dependent Semantics in 3D Language Gaussian Splatting**|Jiazhong Cen et.al.|[2505.24746v1](http://arxiv.org/abs/2505.24746v1)|**2025-05-30**|[link](https://github.com/sjtu-deepvisionlab/laga)|
