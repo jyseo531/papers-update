@@ -28,7 +28,7 @@
 |**2025-06-12**|**Coherence and Transients in Nonlocally Coupled Dissipative Kicked Rotors**|Jin Yan et.al.|[2506.10828v1](http://arxiv.org/abs/2506.10828v1)|**2025-06-12**|null|
 |**2025-06-12**|**Grasp Prediction based on Local Finger Motion Dynamics**|Dimitar Valkov et.al.|[2506.10818v1](http://arxiv.org/abs/2506.10818v1)|**2025-06-12**|null|
 |**2025-06-12**|**Unsupervised Deformable Image Registration with Structural Nonparametric Smoothing**|Hang Zhang et.al.|[2506.10813v1](http://arxiv.org/abs/2506.10813v1)|**2025-06-12**|null|
-|**2025-06-12**|**Constructing and Evaluating Declarative RAG Pipelines in PyTerrier**|Craig Macdonald et.al.|[2506.10802v1](http://arxiv.org/abs/2506.10802v1)|**2025-06-12**|null|
+|**2025-06-12**|**Constructing and Evaluating Declarative RAG Pipelines in PyTerrier**|Craig Macdonald et.al.|[2506.10802v1](http://arxiv.org/abs/2506.10802v1)|**2025-06-12**|[link](https://github.com/terrierteam/pyterrier_rag)|
 |**2025-06-12**|**Dense Associative Memory with Epanechnikov Energy**|Benjamin Hoover et.al.|[2506.10801v1](http://arxiv.org/abs/2506.10801v1)|**2025-06-12**|null|
 |**2025-06-12**|**Discrete Lorenz Attractors in 3D Sinusoidal Maps**|Sishu Shankar Muni et.al.|[2506.10788v1](http://arxiv.org/abs/2506.10788v1)|**2025-06-12**|null|
 |**2025-06-12**|**Learning Chaotic Dynamics with Neuromorphic Network Dynamics**|Yinhao Xu et.al.|[2506.10773v1](http://arxiv.org/abs/2506.10773v1)|**2025-06-12**|null|
