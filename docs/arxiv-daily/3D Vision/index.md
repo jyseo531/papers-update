@@ -6,5 +6,4 @@
 - [Point Cloud](./Point Cloud.md)
 - [Point Cloud Completion](./Point Cloud Completion.md)
 - [Point Cloud Segmentation](./Point Cloud Segmentation.md)
-- [Point Cloud Matching](./Point Cloud Matching.md)
 - [Point Cloud Registration](./Point Cloud Registration.md)

@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-06-14
+Updated on 2025-06-15
 
 > Generated from the Hugging Face database.
 
@@ -1060,6 +1060,7 @@ Updated on 2025-06-14
 | 54 | 2 | NetherlandsForensicInstitute/ARM64BERTFill-Mask | Updatedabout 10 hours ago | [Link](https://huggingface.co/NetherlandsForensicInstitute/ARM64BERT) |
 | 2 | 2 | onnx-community/ModernBERT-base-ONNXFill-Mask | Updatedabout 13 hours ago | [Link](https://huggingface.co/onnx-community/ModernBERT-base-ONNX) |
 | 51 | 1 | GKLMIP/bert-laos-small-uncasedFill-Mask | UpdatedJul 31, 2021 | [Link](https://huggingface.co/GKLMIP/bert-laos-small-uncased) |
+| 44 | 1 | GroNLP/bert-base-dutch-cased-groningsFill-Mask | UpdatedMay 18, 2021 | [Link](https://huggingface.co/GroNLP/bert-base-dutch-cased-gronings) |
 | 81.3M |  | google-bert/bert-base-uncasedFill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/google-bert/bert-base-uncased) |
 | 2.09M |  | google-bert/bert-base-chineseFill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/google-bert/bert-base-chinese) |
 | 12.5M |  | google-bert/bert-base-multilingual-casedFill-Mask | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/google-bert/bert-base-multilingual-cased) |
@@ -2507,6 +2508,7 @@ Updated on 2025-06-14
 | 20 | 1 | webnn/yolo12nObject | UpdatedApr 11 | [Link](https://huggingface.co/webnn/yolo12n) |
 | 31 | 1 | theButcher22/deta-swin-largeObject | UpdatedFeb 18 | [Link](https://huggingface.co/theButcher22/deta-swin-large) |
 | 50 | 1 | grays-ai/table-detectionObject | UpdatedJul 27, 2023 | [Link](https://huggingface.co/grays-ai/table-detection) |
+| 22 | 1 | rajpurkarlab/factchexcker-carinanetObject | Updated1 day ago | [Link](https://huggingface.co/rajpurkarlab/factchexcker-carinanet) |
 | 588k |  | facebook/detr-resnet-50Object | UpdatedApr 10, 2024 | [Link](https://huggingface.co/facebook/detr-resnet-50) |
 | 5.01M |  | microsoft/table-transformer-detectionObject | UpdatedSep 6, 2023 | [Link](https://huggingface.co/microsoft/table-transformer-detection) |
 | 67 | Unknown | arnabdhar/YOLOv8-Face-DetectionObject | UpdatedFeb 20, 2024 | [Link](https://huggingface.co/arnabdhar/YOLOv8-Face-Detection) |
@@ -3936,6 +3938,7 @@ Updated on 2025-06-14
 | 275 | 1 | tomaarsen/Qwen3-Reranker-0 | Updated3 days ago | [Link](https://huggingface.co/tomaarsen/Qwen3-Reranker-0.6B-seq-cls) |
 | 4 | 1 | pyarn/Qwen3-Reranker-0 | Updatedabout 6 hours ago | [Link](https://huggingface.co/pyarn/Qwen3-Reranker-0.6B-Q8_0-GGUF) |
 | 9 | 1 | QuantFactory/Qwen3-Reranker-4B-GGUFText | Updatedabout 18 hours ago | [Link](https://huggingface.co/QuantFactory/Qwen3-Reranker-4B-GGUF) |
+| 18 | 1 | pqnet/bge-reranker-v2-m3-Q8_0-GGUFText | UpdatedApr 3 | [Link](https://huggingface.co/pqnet/bge-reranker-v2-m3-Q8_0-GGUF) |
 | Unknown | Unknown | tomaarsen/reranker-msmarco-v1 | Updated18 minutes ago | [Link](https://huggingface.co/tomaarsen/reranker-msmarco-v1.1-MiniLM-L12-H384-uncased-plistmle-seeded) |
 | 7 | Unknown | tomaarsen/reranker-ModernBERT-base-gooaq-lambdaText | Updatedabout 11 hours ago | [Link](https://huggingface.co/tomaarsen/reranker-ModernBERT-base-gooaq-lambda) |
 | Unknown | Unknown | tomaarsen/reranker-ModernBERT-base-gooaq-bce-soft-negsText | Updatedabout 11 hours ago | [Link](https://huggingface.co/tomaarsen/reranker-ModernBERT-base-gooaq-bce-soft-negs) |
@@ -4183,6 +4186,7 @@ Updated on 2025-06-14
 | 26 | 7 | ooutlierr/fuse-ditText-to-Image | Updated3 days ago | [Link](https://huggingface.co/ooutlierr/fuse-dit) |
 | 1.07k | 6 | DFloat11/FLUX | Updated1 day ago | [Link](https://huggingface.co/DFloat11/FLUX.1-dev-DF11) |
 | 836 | 6 | Minthy/RouWei-0 | Updated3 days ago | [Link](https://huggingface.co/Minthy/RouWei-0.8) |
+| 169 | 6 | PosterCraft/PosterCraft-v1_RLText-to-Image | Updated2 days ago | [Link](https://huggingface.co/PosterCraft/PosterCraft-v1_RL) |
 | 42 | 5 | Shakker-Labs/RepTextText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Shakker-Labs/RepText) |
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 2 | 2.77k | CompVis/stable-diffusion-v-1-4-originalText-to-Image | UpdatedNov 9, 2022 | [Link](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original) |
@@ -5312,6 +5316,7 @@ Updated on 2025-06-14
 | 3 | 1 | NiklasTUM/VideoMAEv2-Huge-finetuned-deception-dataset-mae-hugeVideo | Updatedabout 24 hours ago | [Link](https://huggingface.co/NiklasTUM/VideoMAEv2-Huge-finetuned-deception-dataset-mae-huge) |
 | 50 | 1 | qualcomm/Video-MAEVideo | Updated12 days ago | [Link](https://huggingface.co/qualcomm/Video-MAE) |
 | 35 | 1 | qubvel-hf/vjepa2-vitl-fpc16-256-ssv2Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/qubvel-hf/vjepa2-vitl-fpc16-256-ssv2) |
+| 4 | 1 | facebook/vjepa2-vitg-fpc32-384-diving48Video | Updated1 day ago | [Link](https://huggingface.co/facebook/vjepa2-vitg-fpc32-384-diving48) |
 | 89 | Unknown | ElenaRyumina/face_emotion_recognitionVideo | UpdatedFeb 19, 2024 | [Link](https://huggingface.co/ElenaRyumina/face_emotion_recognition) |
 | 3 | Unknown | OpenGVLab/InternVideo2-Stage1-1B-224p-K400Video | UpdatedAug 14, 2024 | [Link](https://huggingface.co/OpenGVLab/InternVideo2-Stage1-1B-224p-K400) |
 | 2 | Unknown | OpenGVLab/UMTVideo | UpdatedAug 17, 2024 | [Link](https://huggingface.co/OpenGVLab/UMT) |
@@ -5400,6 +5405,7 @@ Updated on 2025-06-14
 | 3 | 1 | PolyU-ChenLab/ETChat-Phi3-Mini-Stage-1Video-Text-to-Text | UpdatedOct 29, 2024 | [Link](https://huggingface.co/PolyU-ChenLab/ETChat-Phi3-Mini-Stage-1) |
 | 3 | 1 | BAAI/Video-XL-2Video-Text-to-Text | Updated17 minutes ago | [Link](https://huggingface.co/BAAI/Video-XL-2) |
 | 59 | 1 | Sri-Vigneshwar-DJ/Apollo-LMMs-Apollo-1 | UpdatedJan 1 | [Link](https://huggingface.co/Sri-Vigneshwar-DJ/Apollo-LMMs-Apollo-1.5B-t32) |
+| 728 | 1 | Mungert/SkyCaptioner-V1-GGUFVideo-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/Mungert/SkyCaptioner-V1-GGUF) |
 | 1 | Unknown | Sri-Vigneshwar-DJ/Apollo-LMMs-Apollo-7B-t32Video-Text-to-Text | UpdatedJan 1 | [Link](https://huggingface.co/Sri-Vigneshwar-DJ/Apollo-LMMs-Apollo-7B-t32) |
 | 5 | Unknown | shuaishuaicdp/GUI-VidVideo-Text-to-Text | UpdatedMar 26 | [Link](https://huggingface.co/shuaishuaicdp/GUI-Vid) |
 | 2 | Unknown | OpenGVLab/videochat2Video-Text-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/OpenGVLab/videochat2) |
