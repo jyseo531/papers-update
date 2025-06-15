@@ -1,34 +1,15 @@
+# Semantic Segmentation
 
-### Semantic Segmentation
-|Publish Date|Title|Authors|PDF|Last Updated|Code|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-12**|**QuadricFormer: Scene as Superquadrics for 3D Semantic Occupancy Prediction**|Sicheng Zuo et.al.|[2506.10977v1](http://arxiv.org/abs/2506.10977v1)|**2025-06-12**|null|
-|**2025-06-12**|**VINCIE: Unlocking In-context Image Editing from Video**|Leigang Qu et.al.|[2506.10941v1](http://arxiv.org/abs/2506.10941v1)|**2025-06-12**|null|
-|**2025-06-12**|**Building a Media Ecosystem Observatory from Scratch: Infrastructure, Methodology, and Insights**|Zeynep Pehlivan et.al.|[2506.10942v1](http://arxiv.org/abs/2506.10942v1)|**2025-06-12**|null|
-|**2025-06-12**|**Agentic Semantic Control for Autonomous Wireless Space Networks: Extending Space-O-RAN with MCP-Driven Distributed Intelligence**|Eduardo Baena et.al.|[2506.10925v1](http://arxiv.org/abs/2506.10925v1)|**2025-06-12**|null|
-|**2025-06-12**|**Decomposing MLP Activations into Interpretable Features via Semi-Nonnegative Matrix Factorization**|Or Shafran et.al.|[2506.10920v1](http://arxiv.org/abs/2506.10920v1)|**2025-06-12**|null|
-|**2025-06-12**|**Breaking Bad Molecules: Are MLLMs Ready for Structure-Level Molecular Detoxification?**|Fei Lin et.al.|[2506.10912v1](http://arxiv.org/abs/2506.10912v1)|**2025-06-12**|null|
-|**2025-06-12**|**Considerations on Everett J. Nelson's connexive logic**|Davide Fazio et.al.|[2506.10893v1](http://arxiv.org/abs/2506.10893v1)|**2025-06-12**|null|
-|**2025-06-12**|**Failure modes of irregular ceramic foam under compression: Development of a new image based strut segmentation strategy**|Vinit Vijay Deshpande et.al.|[2506.10860v1](http://arxiv.org/abs/2506.10860v1)|**2025-06-12**|null|
-|**2025-06-12**|**Med-URWKV: Pure RWKV With ImageNet Pre-training For Medical Image Segmentation**|Zhenhuan Zhou et.al.|[2506.10858v1](http://arxiv.org/abs/2506.10858v1)|**2025-06-12**|null|
-|**2025-06-12**|**Advanced fraud detection using machine learning models: enhancing financial transaction security**|Nudrat Fariha et.al.|[2506.10842v1](http://arxiv.org/abs/2506.10842v1)|**2025-06-12**|null|
-|**2025-06-12**|**Post-Training Quantization for Video Matting**|Tianrui Zhu et.al.|[2506.10840v1](http://arxiv.org/abs/2506.10840v1)|**2025-06-12**|null|
-|**2025-06-12**|**RationalVLA: A Rational Vision-Language-Action Model with Dual System**|Wenxuan Song et.al.|[2506.10826v1](http://arxiv.org/abs/2506.10826v1)|**2025-06-12**|null|
-|**2025-06-12**|**Generalist Models in Medical Image Segmentation: A Survey and Performance Comparison with Task-Specific Approaches**|Andrea Moglia et.al.|[2506.10825v1](http://arxiv.org/abs/2506.10825v1)|**2025-06-12**|null|
-|**2025-06-12**|**Prompts to Summaries: Zero-Shot Language-Guided Video Summarization**|Mario Barbara et.al.|[2506.10807v1](http://arxiv.org/abs/2506.10807v1)|**2025-06-12**|null|
-|**2025-06-12**|**Modality-AGnostic Image Cascade (MAGIC) for Multi-Modality Cardiac Substructure Segmentation**|Nicholas Summerfield et.al.|[2506.10797v1](http://arxiv.org/abs/2506.10797v1)|**2025-06-12**|null|
-|**2025-06-12**|**Different Questions, Different Models: Fine-Grained Evaluation of Uncertainty and Calibration in Clinical QA with LLMs**|Alberto Testoni et.al.|[2506.10769v1](http://arxiv.org/abs/2506.10769v1)|**2025-06-12**|null|
-|**2025-06-12**|**Integrating Large Language Models into Text Animation: An Intelligent Editing System with Inline and Chat Interaction**|Bao Zhang et.al.|[2506.10762v1](http://arxiv.org/abs/2506.10762v1)|**2025-06-12**|null|
-|**2025-06-12**|**Quantifying Azure RBAC Wildcard Overreach**|Christophe Parisel et.al.|[2506.10755v1](http://arxiv.org/abs/2506.10755v1)|**2025-06-12**|null|
-|**2025-06-12**|**BNMusic: Blending Environmental Noises into Personalized Music**|Chi Zuo et.al.|[2506.10754v1](http://arxiv.org/abs/2506.10754v1)|**2025-06-12**|null|
-|**2025-06-12**|**IQE-CLIP: Instance-aware Query Embedding for Zero-/Few-shot Anomaly Detection in Medical Domain**|Hong Huang et.al.|[2506.10730v1](http://arxiv.org/abs/2506.10730v1)|**2025-06-12**|null|
-|**2025-06-12**|**Beyond True or False: Retrieval-Augmented Hierarchical Analysis of Nuanced Claims**|Priyanka Kargupta et.al.|[2506.10728v1](http://arxiv.org/abs/2506.10728v1)|**2025-06-12**|null|
-|**2025-06-12**|**Uncertainty-Masked Bernoulli Diffusion for Camouflaged Object Detection Refinement**|Yuqi Shen et.al.|[2506.10712v1](http://arxiv.org/abs/2506.10712v1)|**2025-06-12**|null|
-|**2025-06-12**|**System ASPMT2SMT:Computing ASPMT Theories by SMT Solvers**|Michael Bartholomew et.al.|[2506.10708v1](http://arxiv.org/abs/2506.10708v1)|**2025-06-12**|null|
-|**2025-06-12**|**ConTextTab: A Semantics-Aware Tabular In-Context Learner**|Marco Spinaci et.al.|[2506.10707v1](http://arxiv.org/abs/2506.10707v1)|**2025-06-12**|null|
-|**2025-06-12**|**Practical Improvements of A/B Testing with Off-Policy Estimation**|Sakhi Otmane et.al.|[2506.10677v1](http://arxiv.org/abs/2506.10677v1)|**2025-06-12**|null|
-|**2025-06-12**|**Description and Discussion on DCASE 2025 Challenge Task 4: Spatial Semantic Segmentation of Sound Scenes**|Masahiro Yasuda et.al.|[2506.10676v1](http://arxiv.org/abs/2506.10676v1)|**2025-06-12**|null|
-|**2025-06-12**|**ConStyX: Content Style Augmentation for Generalizable Medical Image Segmentation**|Xi Chen et.al.|[2506.10675v1](http://arxiv.org/abs/2506.10675v1)|**2025-06-12**|null|
-|**2025-06-12**|**PiPViT: Patch-based Visual Interpretable Prototypes for Retinal Image Analysis**|Marzieh Oghbaie et.al.|[2506.10669v1](http://arxiv.org/abs/2506.10669v1)|**2025-06-12**|null|
-|**2025-06-12**|**CyFence: Securing Cyber-Physical Controllers via Trusted Execution Environment**|Stefano Longari et.al.|[2506.10638v1](http://arxiv.org/abs/2506.10638v1)|**2025-06-12**|null|
-|**2025-06-12**|**Symmetrical Flow Matching: Unified Image Generation, Segmentation, and Classification with Score-Based Generative Models**|Francisco Caetano et.al.|[2506.10634v1](http://arxiv.org/abs/2506.10634v1)|**2025-06-12**|null|
+| Publish Date | Title | Authors | PDF | Code |
+|-------------|----------------|-------------|------|------|
+|**2025-06-12**|**Description and Discussion on DCASE 2025 Challenge Task 4: Spatial Semantic Segmentation of Sound Scenes**|Masahiro Yasuda et.al.|[2506.10676v1](http://arxiv.org/abs/2506.10676v1)|null|
+|**2025-06-12**|**Symmetrical Flow Matching: Unified Image Generation, Segmentation, and Classification with Score-Based Generative Models**|Francisco Caetano et.al.|[2506.10634v1](http://arxiv.org/abs/2506.10634v1)|null|
+|**2025-06-12**|**Improving Medical Visual Representation Learning with Pathological-level Cross-Modal Alignment and Correlation Exploration**|Jun Wang et.al.|[2506.10573v1](http://arxiv.org/abs/2506.10573v1)|null|
+|**2025-06-12**|**Semantic Localization Guiding Segment Anything Model For Reference Remote Sensing Image Segmentation**|Shuyang Li et.al.|[2506.10503v1](http://arxiv.org/abs/2506.10503v1)|null|
+|**2025-06-12**|**Demonstrating Multi-Suction Item Picking at Scale via Multi-Modal Learning of Pick Success**|Che Wang et.al.|[2506.10359v1](http://arxiv.org/abs/2506.10359v1)|null|
+|**2025-06-11**|**Deep Semantic Segmentation for Multi-Source Localization Using Angle of Arrival Measurements**|Mustafa Atahan Nuhoglu et.al.|[2506.10107v1](http://arxiv.org/abs/2506.10107v1)|null|
+|**2025-06-11**|**Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation**|Siyu Chen et.al.|[2506.09881v1](http://arxiv.org/abs/2506.09881v1)|**[link](https://github.com/anonymouse-9c53tp182bvz/vireo)**|
+|**2025-06-11**|**The Four Color Theorem for Cell Instance Segmentation**|Ye Zhang et.al.|[2506.09724v1](http://arxiv.org/abs/2506.09724v1)|**[link](https://github.com/zhangye-zoe/fcis)**|
+|**2025-06-11**|**Enhancing Human-Robot Collaboration: A Sim2Real Domain Adaptation Algorithm for Point Cloud Segmentation in Industrial Environments**|Fatemeh Mohammadi Amin et.al.|[2506.09552v1](http://arxiv.org/abs/2506.09552v1)|null|
+|**2025-06-11**|**Urban1960SatSeg: Unsupervised Semantic Segmentation of Mid-20$^{th}$ century Urban Landscapes with Satellite Imageries**|Tianxiang Hao et.al.|[2506.09476v2](http://arxiv.org/abs/2506.09476v2)|**[link](https://github.com/tianxiang-hao/urban1960satseg)**|
+

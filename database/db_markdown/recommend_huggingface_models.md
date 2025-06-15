@@ -3809,6 +3809,7 @@ Updated on 2025-06-15
 | 704 | 16 | kakaocorp/kanana-1 | Updated3 days ago | [Link](https://huggingface.co/kakaocorp/kanana-1.5-8b-instruct-2505) |
 | 89 | 16 | ytu-ce-cosmos/Turkish-Gemma-9b-v0 | Updated5 days ago | [Link](https://huggingface.co/ytu-ce-cosmos/Turkish-Gemma-9b-v0.1) |
 | 504 | 16 | openbmb/MiniCPM4-MCPText | Updatedabout 11 hours ago | [Link](https://huggingface.co/openbmb/MiniCPM4-MCP) |
+| 2.7k | 16 | Menlo/Jan-nano-ggufText | Updatedabout 19 hours ago | [Link](https://huggingface.co/Menlo/Jan-nano-gguf) |
 | 60 | 15 | Zhihu-ai/Zhi-writing-dsr1-14bText | Updated3 days ago | [Link](https://huggingface.co/Zhihu-ai/Zhi-writing-dsr1-14b) |
 | 72 | 15 | DMindAI/DMind-1Text | Updatedabout 23 hours ago | [Link](https://huggingface.co/DMindAI/DMind-1) |
 | 23 | 15 | sarvamai/sarvam-mText | Updatedabout 2 hours ago | [Link](https://huggingface.co/sarvamai/sarvam-m) |
