@@ -13,6 +13,7 @@ Updated on 2025-06-16
 | 488 | 260 | gpt-omni/mini-omni2Any-to-Any | UpdatedOct 24, 2024 | [Link](https://huggingface.co/gpt-omni/mini-omni2) |
 | 1.68k | 208 | BAAI/Emu3-GenAny-to-Any | UpdatedOct 23, 2024 | [Link](https://huggingface.co/BAAI/Emu3-Gen) |
 | 9.96k | 141 | deepseek-ai/JanusFlow-1 | Updated29 days ago | [Link](https://huggingface.co/deepseek-ai/JanusFlow-1.3B) |
+| 4.22k | 97 | inclusionAI/Ming-Lite-OmniAny-to-Any | Updatedabout 3 hours ago | [Link](https://huggingface.co/inclusionAI/Ming-Lite-Omni) |
 | 36.8k | 83 | openbmb/MiniCPM-o-2_6-ggufAny-to-Any | UpdatedJan 17 | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6-gguf) |
 | 32.5k | 44 | onnx-community/Janus-Pro-1B-ONNXAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/onnx-community/Janus-Pro-1B-ONNX) |
 | 16.8k | 38 | openbmb/MiniCPM-o-2_6-int4Any-to-Any | UpdatedJan 22 | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6-int4) |
@@ -38,6 +39,7 @@ Updated on 2025-06-16
 | 481k | 3.11k | deepseek-ai/Janus-Pro-7BAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-7B) |
 | 78 | 3 | VARGPT-family/VARGPT_LLaVA-v1Any-to-Any | UpdatedJan 23 | [Link](https://huggingface.co/VARGPT-family/VARGPT_LLaVA-v1) |
 | 2 | 3 | impactframes/Janus-1 | UpdatedOct 19, 2024 | [Link](https://huggingface.co/impactframes/Janus-1.3B) |
+| 136 | 3 | OmniGen2/OmniGen2Any-to-Any | Updatedabout 13 hours ago | [Link](https://huggingface.co/OmniGen2/OmniGen2) |
 | 47 | 2 | PKU-Alignment/AnyRewardModelAny-to-Any | UpdatedDec 28, 2024 | [Link](https://huggingface.co/PKU-Alignment/AnyRewardModel) |
 | 585 | 2 | wnma3mz/Janus-Pro-1B-4bitAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/wnma3mz/Janus-Pro-1B-4bit) |
 | 3 | 2 | lintw/HealthGPT-XL32Any-to-Any | Updatedabout 18 hours ago | [Link](https://huggingface.co/lintw/HealthGPT-XL32) |
@@ -1763,6 +1765,7 @@ Updated on 2025-06-16
 | 13 | 10 | openbmb/AgentCPM-GUIImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/openbmb/AgentCPM-GUI) |
 | 7 | 10 | mlabonne/gemma-3-27b-it-abliterated-v2Image-Text-to-Text | Updatedabout 16 hours ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-abliterated-v2) |
 | 125 | 10 | mlabonne/gemma-3-27b-it-abliterated-v2-GGUFImage-Text-to-Text | Updatedabout 15 hours ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-abliterated-v2-GGUF) |
+| 330 | 10 | microsoft/GUI-Actor-7B-Qwen2 | Updated6 days ago | [Link](https://huggingface.co/microsoft/GUI-Actor-7B-Qwen2.5-VL) |
 | 9.49k | 9 | unsloth/gemma-3-27b-it-bnb-4bitImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-bnb-4bit) |
 | 40.9k | 9 | lmstudio-community/gemma-3-12b-it-GGUFImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/lmstudio-community/gemma-3-12b-it-GGUF) |
 | 1.89k | 9 | Mungert/gemma-3-12b-it-ggufImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/Mungert/gemma-3-12b-it-gguf) |
@@ -1934,6 +1937,7 @@ Updated on 2025-06-16
 | 8.65k | 135 | lllyasviel/sd-controlnet-openposeImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-openpose) |
 | 39.2k | 129 | prs-eth/marigold-depth-v1-0Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-depth-v1-0) |
 | 14.4k | 124 | Yuanshi/OminiControlImage-to-Image | UpdatedDec 10, 2024 | [Link](https://huggingface.co/Yuanshi/OminiControl) |
+| 719 | 116 | destitech/controlnet-inpaint-dreamer-sdxlImage-to-Image | UpdatedApr 23, 2024 | [Link](https://huggingface.co/destitech/controlnet-inpaint-dreamer-sdxl) |
 | 28.7k | 113 | lllyasviel/control_v11p_sd15_inpaintImage-to-Image | UpdatedMay 26, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_inpaint) |
 | 13.5k | 113 | lllyasviel/control_v11f1e_sd15_tileImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11f1e_sd15_tile) |
 | 15.3k | 109 | lllyasviel/control_v11p_sd15_openposeImage-to-Image | UpdatedAug 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_openpose) |
@@ -2175,6 +2179,7 @@ Updated on 2025-06-16
 | 8 | Unknown | GnanaPrasath/ocr_tamilImage-to-Text | UpdatedFeb 14, 2024 | [Link](https://huggingface.co/GnanaPrasath/ocr_tamil) |
 | 1 | Unknown | Dataseeds/BLIP2-opt-2 | Updatedabout 6 hours ago | [Link](https://huggingface.co/Dataseeds/BLIP2-opt-2.7b-DSD-FineTune) |
 | 15 | Unknown | techietrader/captcha_ocrImage-to-Text | UpdatedJun 6, 2024 | [Link](https://huggingface.co/techietrader/captcha_ocr) |
+| 4 | Unknown | baudm/parseq-smallImage-to-Text | UpdatedAug 28, 2022 | [Link](https://huggingface.co/baudm/parseq-small) |
 
 ## Image-to-Video
 

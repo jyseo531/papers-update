@@ -2,8 +2,12 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-13**|**Interpretable representation learning of quantum data enabled by probabilistic variational autoencoders**|Paulin de Schoulepnikoff et.al.|[2506.11982v1](http://arxiv.org/abs/2506.11982v1)|**2025-06-13**|null|
+|**2025-06-13**|**Spectra-to-Structure and Structure-to-Spectra Inference Across the Periodic Table**|Yufeng Wang et.al.|[2506.11908v1](http://arxiv.org/abs/2506.11908v1)|**2025-06-13**|null|
+|**2025-06-12**|**A detailed and comprehensive account of fractional Physics-Informed Neural Networks: From implementation to efficiency**|Donya Dabiri et.al.|[2506.11241v1](http://arxiv.org/abs/2506.11241v1)|**2025-06-12**|null|
 |**2025-06-12**|**Predicting air flow in calendered paper sheets from $μ$-CT data: combining physics with morphology**|Phillip Gräfensteiner et.al.|[2506.10606v1](http://arxiv.org/abs/2506.10606v1)|**2025-06-12**|null|
 |**2025-06-12**|**RealKeyMorph: Keypoints in Real-world Coordinates for Resolution-agnostic Image Registration**|Mina C. Moghadam et.al.|[2506.10344v1](http://arxiv.org/abs/2506.10344v1)|**2025-06-12**|null|
+|**2025-06-10**|**Monocular 3D Hand Pose Estimation with Implicit Camera Alignment**|Christos Pantazopoulos et.al.|[2506.11133v1](http://arxiv.org/abs/2506.11133v1)|**2025-06-10**|null|
 |**2025-06-10**|**Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning**|Haozhen Zhang et.al.|[2506.09033v1](http://arxiv.org/abs/2506.09033v1)|**2025-06-10**|null|
 |**2025-06-10**|**Large Deviations for Markovian Graphon Processes and Associated Dynamical Systems on Networks**|Shankar Bhamidi et.al.|[2506.08333v1](http://arxiv.org/abs/2506.08333v1)|**2025-06-10**|null|
 |**2025-06-09**|**AI-Assisted Rapid Crystal Structure Generation Towards a Target Local Environment**|Osman Goni Ridwan et.al.|[2506.08224v1](http://arxiv.org/abs/2506.08224v1)|**2025-06-09**|null|
@@ -28,7 +32,3 @@
 |**2025-06-03**|**GeneA-SLAM2: Dynamic SLAM with AutoEncoder-Preprocessed Genetic Keypoints Resampling and Depth Variance-Guided Dynamic Region Removal**|Shufan Qing et.al.|[2506.02736v1](http://arxiv.org/abs/2506.02736v1)|**2025-06-03**|[link](https://github.com/qingshufan/GeneA-SLAM2)|
 |**2025-06-03**|**Universal band center model for the HER activity of non-metal site**|Ruixin Xu et.al.|[2506.02567v1](http://arxiv.org/abs/2506.02567v1)|**2025-06-03**|null|
 |**2025-06-02**|**Implicit Deformable Medical Image Registration with Learnable Kernels**|Stefano Fogarollo et.al.|[2506.02150v1](http://arxiv.org/abs/2506.02150v1)|**2025-06-02**|null|
-|**2025-06-02**|**Latent Space Topology Evolution in Multilayer Perceptrons**|Eduardo Paluzo-Hidalgo et.al.|[2506.01569v1](http://arxiv.org/abs/2506.01569v1)|**2025-06-02**|null|
-|**2025-06-02**|**UniversalCEFR: Enabling Open Multilingual Research on Language Proficiency Assessment**|Joseph Marvin Imperial et.al.|[2506.01419v1](http://arxiv.org/abs/2506.01419v1)|**2025-06-02**|null|
-|**2025-06-02**|**PointT2I: LLM-based text-to-image generation via keypoints**|Taekyung Lee et.al.|[2506.01370v1](http://arxiv.org/abs/2506.01370v1)|**2025-06-02**|null|
-|**2025-05-30**|**Beyond Atomic Geometry Representations in Materials Science: A Human-in-the-Loop Multimodal Framework**|Can Polat et.al.|[2506.00302v1](http://arxiv.org/abs/2506.00302v1)|**2025-05-30**|[link](https://github.com/kurbanintelligencelab/multicrystalspectrumset)|

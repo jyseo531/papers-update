@@ -2,33 +2,33 @@
 ### Point Cloud Registration
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-12**|**ASMOP: Additional sampling stochastic trust region method for multi-objective problems**|Nataša Krklec Jerinkić et.al.|[2506.10976v1](http://arxiv.org/abs/2506.10976v1)|**2025-06-12**|null|
-|**2025-06-12**|**Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs**|Qizhe Zhang et.al.|[2506.10967v1](http://arxiv.org/abs/2506.10967v1)|**2025-06-12**|null|
-|**2025-06-12**|**On (pre-) approach spaces within convergence approach spaces**|Frédéric Mynard et.al.|[2506.10951v1](http://arxiv.org/abs/2506.10951v1)|**2025-06-12**|null|
-|**2025-06-12**|**A closer look at the algebraic-operator correspondence between position and momentum space in Quantum Mechanics**|Siddharth Dwivedi et.al.|[2506.10950v1](http://arxiv.org/abs/2506.10950v1)|**2025-06-12**|null|
-|**2025-06-12**|**Spurious Rewards: Rethinking Training Signals in RLVR**|Rulin Shao et.al.|[2506.10947v1](http://arxiv.org/abs/2506.10947v1)|**2025-06-12**|null|
-|**2025-06-12**|**Non-Abelian dynamics on a cube: improving quantum compilation through qudit-based simulations**|Jacky Jiang et.al.|[2506.10945v1](http://arxiv.org/abs/2506.10945v1)|**2025-06-12**|null|
-|**2025-06-12**|**Two coincidences are a clue: Probing a GeV-scale dark QCD sector**|Yi Chung et.al.|[2506.10928v1](http://arxiv.org/abs/2506.10928v1)|**2025-06-12**|null|
-|**2025-06-12**|**Correlation functions of von Neumann entropy**|Mathew W. Bub et.al.|[2506.10917v1](http://arxiv.org/abs/2506.10917v1)|**2025-06-12**|null|
-|**2025-06-12**|**Numerical approximation of a PDE-constrained Optimization problem that appears in Data-Driven Computational Mechanics**|Pedro B. Bazon et.al.|[2506.10894v1](http://arxiv.org/abs/2506.10894v1)|**2025-06-12**|null|
-|**2025-06-12**|**Adaptive Job Scheduling in Quantum Clouds Using Reinforcement Learning**|Waylon Luo et.al.|[2506.10889v1](http://arxiv.org/abs/2506.10889v1)|**2025-06-12**|null|
-|**2025-06-12**|**S3Mirror: Making Genomic Data Transfers Fast, Reliable, and Observable with DBOS**|Steven Vasquez-Grinnell et.al.|[2506.10886v2](http://arxiv.org/abs/2506.10886v2)|**2025-06-13**|null|
-|**2025-06-12**|**Photonic chiral bulk transports manipulated by boundary freedom in three-dimensional meta-crystals**|Yingxin Qi et.al.|[2506.10861v1](http://arxiv.org/abs/2506.10861v1)|**2025-06-12**|null|
-|**2025-06-12**|**Precise Zero-Shot Pointwise Ranking with LLMs through Post-Aggregated Global Context Information**|Kehan Long et.al.|[2506.10859v1](http://arxiv.org/abs/2506.10859v1)|**2025-06-12**|[link](https://github.com/chainsawm/gccp)|
-|**2025-06-12**|**Energy-Efficient Deep Learning for Traffic Classification on Microcontrollers**|Adel Chehade et.al.|[2506.10851v1](http://arxiv.org/abs/2506.10851v1)|**2025-06-12**|null|
-|**2025-06-12**|**Generalized Modulated Symmetries in $\mathbb{Z}_2$ Topological Ordered Phases**|Gustavo M. Yoshitome et.al.|[2506.10819v1](http://arxiv.org/abs/2506.10819v1)|**2025-06-12**|null|
-|**2025-06-12**|**Grasp Prediction based on Local Finger Motion Dynamics**|Dimitar Valkov et.al.|[2506.10818v1](http://arxiv.org/abs/2506.10818v1)|**2025-06-12**|null|
-|**2025-06-12**|**Occlusion-Aware 3D Hand-Object Pose Estimation with Masked AutoEncoders**|Hui Yang et.al.|[2506.10816v1](http://arxiv.org/abs/2506.10816v1)|**2025-06-12**|null|
-|**2025-06-12**|**Unsupervised Deformable Image Registration with Structural Nonparametric Smoothing**|Hang Zhang et.al.|[2506.10813v1](http://arxiv.org/abs/2506.10813v1)|**2025-06-12**|null|
-|**2025-06-12**|**Self-gravity in thin protoplanetary discs: 1. The smoothing-length approximation versus the exact self-gravity kernel**|S. Rendon Restrepo et.al.|[2506.10812v1](http://arxiv.org/abs/2506.10812v1)|**2025-06-12**|null|
-|**2025-06-12**|**Analogous supercritical crossovers in black holes and water**|Shoucheng Wang et.al.|[2506.10808v1](http://arxiv.org/abs/2506.10808v1)|**2025-06-12**|null|
-|**2025-06-12**|**Gas-Poor Hosts and Gas-Rich Companions of $z\approx$3.5 Radio AGN: ALMA insights into jet triggering and feedback**|Wuji Wang et.al.|[2506.10799v1](http://arxiv.org/abs/2506.10799v1)|**2025-06-12**|null|
-|**2025-06-12**|**In-Hand Object Pose Estimation via Visual-Tactile Fusion**|Felix Nonnengießer et.al.|[2506.10787v1](http://arxiv.org/abs/2506.10787v1)|**2025-06-12**|null|
-|**2025-06-12**|**Dirac edge states of two-dimensional altermagnetic topological crystalline insulators**|Raghottam M. Sattigeri et.al.|[2506.10782v1](http://arxiv.org/abs/2506.10782v1)|**2025-06-12**|null|
-|**2025-06-12**|**Monotone Classification with Relative Approximations**|Yufei Tao et.al.|[2506.10775v1](http://arxiv.org/abs/2506.10775v1)|**2025-06-12**|null|
-|**2025-06-12**|**Kibble-Zurek dynamical scaling hypothesis in the Google analog-digital quantum simulator of the $XX$ model**|Yintai Zhang et.al.|[2506.10771v1](http://arxiv.org/abs/2506.10771v1)|**2025-06-12**|null|
-|**2025-06-12**|**Stability of the Morse Index for the $p$-harmonic Approximation of Harmonic Maps into Homogeneous Spaces**|Dominik Schlagenhauf et.al.|[2506.10761v1](http://arxiv.org/abs/2506.10761v1)|**2025-06-12**|null|
-|**2025-06-12**|**Neural at ArchEHR-QA 2025: Agentic Prompt Optimization for Evidence-Grounded Clinical Question Answering**|Sai Prasanna Teja Reddy Bogireddy et.al.|[2506.10751v1](http://arxiv.org/abs/2506.10751v1)|**2025-06-12**|null|
-|**2025-06-12**|**Strömgren photometric metallicity map of the Magellanic Cloud stars using Gaia DR3--XP spectra**|Abinaya O. Omkumar et.al.|[2506.10749v1](http://arxiv.org/abs/2506.10749v1)|**2025-06-12**|null|
-|**2025-06-12**|**The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO): IV. Dust and Gas Disk Properties in the Upper Scorpius Star-forming Region**|Carolina Agurto-Gangas et.al.|[2506.10735v1](http://arxiv.org/abs/2506.10735v1)|**2025-06-12**|null|
-|**2025-06-12**|**The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO): II. Dust and Gas Disk Properties in the Ophiuchus Star-forming Region**|Dary A. Ruiz-Rodriguez et.al.|[2506.10731v1](http://arxiv.org/abs/2506.10731v1)|**2025-06-12**|null|
+|**2025-06-13**|**Upgrade or Switch: Do We Need a New Registry Architecture for the Internet of AI Agents?**|Ramesh Raskar et.al.|[2506.12003v1](http://arxiv.org/abs/2506.12003v1)|**2025-06-13**|null|
+|**2025-06-13**|**pLSTM: parallelizable Linear Source Transition Mark networks**|Korbinian Pöppel et.al.|[2506.11997v1](http://arxiv.org/abs/2506.11997v1)|**2025-06-13**|null|
+|**2025-06-13**|**Full Convergence of Regularized Methods for Unconstrained Optimization**|Andrea Cristofari et.al.|[2506.11971v1](http://arxiv.org/abs/2506.11971v1)|**2025-06-13**|null|
+|**2025-06-13**|**A Robust Local Fréchet Regression Using Unbalanced Neural Optimal Transport with Applications to Dynamic Single-cell Genomics Data**|Binghao Yan et.al.|[2506.11969v1](http://arxiv.org/abs/2506.11969v1)|**2025-06-13**|null|
+|**2025-06-13**|**Accurate Reduced Floating-Point Precision Implicit Monte Carlo**|Simon Butson et.al.|[2506.11962v1](http://arxiv.org/abs/2506.11962v1)|**2025-06-13**|null|
+|**2025-06-13**|**Evaluating Program Sequences with Double Machine Learning: An Application to Labor Market Policies**|Fabian Muny et.al.|[2506.11960v1](http://arxiv.org/abs/2506.11960v1)|**2025-06-13**|null|
+|**2025-06-13**|**Nash equilibria in semidefinite games and Lemke-Howson paths**|Constantin Ickstadt et.al.|[2506.11940v1](http://arxiv.org/abs/2506.11940v1)|**2025-06-13**|null|
+|**2025-06-13**|**Worst-Case Complexity of High-Order Algorithms for Pareto-Front Reconstruction**|Andrea Cristofari et.al.|[2506.11929v1](http://arxiv.org/abs/2506.11929v1)|**2025-06-13**|null|
+|**2025-06-13**|**Aligned Novel View Image and Geometry Synthesis via Cross-modal Attention Instillation**|Min-Seop Kwak et.al.|[2506.11924v1](http://arxiv.org/abs/2506.11924v1)|**2025-06-13**|null|
+|**2025-06-13**|**A Hyperactive FRB Pinpointed in an SMC-Like Satellite Host Galaxy**|M. Bhardwaj et.al.|[2506.11915v1](http://arxiv.org/abs/2506.11915v1)|**2025-06-13**|null|
+|**2025-06-13**|**Special Functions and Geometries in Scattering Amplitudes: From Particle Physics to Gravity**|Roger Morales et.al.|[2506.11911v1](http://arxiv.org/abs/2506.11911v1)|**2025-06-13**|null|
+|**2025-06-13**|**Symbol Alphabets in QCD and Flag Cluster Algebras**|Andrzej Pokraka et.al.|[2506.11895v1](http://arxiv.org/abs/2506.11895v1)|**2025-06-13**|null|
+|**2025-06-13**|**(CMC) 1-immersions of surfaces into hyperbolic 3-manifolds**|Gabriella Tarantello et.al.|[2506.11894v1](http://arxiv.org/abs/2506.11894v1)|**2025-06-13**|null|
+|**2025-06-13**|**Surfaces with Klein bottle topology occur in fusion reactor fields**|Christopher Berg Smiet et.al.|[2506.11883v1](http://arxiv.org/abs/2506.11883v1)|**2025-06-13**|null|
+|**2025-06-13**|**Methods for evaluating the resolution of 3D data derived from satellite images**|Christina Selby et.al.|[2506.11876v1](http://arxiv.org/abs/2506.11876v1)|**2025-06-13**|null|
+|**2025-06-13**|**Bridging a gap: A heavy elastica between point supports**|Grace K. Curtis et.al.|[2506.11875v1](http://arxiv.org/abs/2506.11875v1)|**2025-06-13**|null|
+|**2025-06-13**|**Vision-based Lifting of 2D Object Detections for Automated Driving**|Hendrik Königshof et.al.|[2506.11839v1](http://arxiv.org/abs/2506.11839v1)|**2025-06-13**|null|
+|**2025-06-13**|**A Tale of Two Mobile Generations: 5G-Advanced and 6G in 3GPP Release 20**|Xingqin Lin et.al.|[2506.11828v1](http://arxiv.org/abs/2506.11828v1)|**2025-06-13**|null|
+|**2025-06-13**|**Thrackles on nonplanar surfaces**|César Hernández-Vélez et.al.|[2506.11808v1](http://arxiv.org/abs/2506.11808v1)|**2025-06-13**|null|
+|**2025-06-13**|**Teleoperated Driving: a New Challenge for 3D Object Detection in Compressed Point Clouds**|Filippo Bragato et.al.|[2506.11804v1](http://arxiv.org/abs/2506.11804v1)|**2025-06-13**|null|
+|**2025-06-13**|**The Karl G. Jansky Very Large Array Local Group L-band Survey (LGLBS)**|Eric W. Koch et.al.|[2506.11792v1](http://arxiv.org/abs/2506.11792v1)|**2025-06-13**|null|
+|**2025-06-13**|**Digital Labor: Challenges, Ethical Insights, and Implications**|ATM Mizanur Rahman et.al.|[2506.11788v1](http://arxiv.org/abs/2506.11788v1)|**2025-06-13**|null|
+|**2025-06-13**|**FeNN: A RISC-V vector processor for Spiking Neural Network acceleration**|Zainab Aizaz et.al.|[2506.11760v1](http://arxiv.org/abs/2506.11760v1)|**2025-06-13**|null|
+|**2025-06-13**|**Distributed Learning for Reliable and Timely Communication in 6G Industrial Subnetworks**|Samira Abdelrahman et.al.|[2506.11749v1](http://arxiv.org/abs/2506.11749v1)|**2025-06-13**|null|
+|**2025-06-13**|**Enabling Next-Generation Cloud-Connected Bionic Limbs Through 5G Connectivity**|Ozan Karaali et.al.|[2506.11744v1](http://arxiv.org/abs/2506.11744v1)|**2025-06-13**|null|
+|**2025-06-13**|**Can we "seamlessly" divide a polygon?**|Byungchang So et.al.|[2506.11742v1](http://arxiv.org/abs/2506.11742v1)|**2025-06-13**|null|
+|**2025-06-13**|**A statistical mechanical view of complex economies under the green transition**|Filippo Marcuccini et.al.|[2506.11739v1](http://arxiv.org/abs/2506.11739v1)|**2025-06-13**|null|
+|**2025-06-13**|**Adaptive determinantal scheduling with fairness in wireless networks**|H. P. Keeler et.al.|[2506.11738v1](http://arxiv.org/abs/2506.11738v1)|**2025-06-13**|null|
+|**2025-06-13**|**Choosing observables that capture critical slowing down before tipping points: A Fokker-Planck operator approach**|Johannes Lohmann et.al.|[2506.11735v1](http://arxiv.org/abs/2506.11735v1)|**2025-06-13**|null|
+|**2025-06-13**|**The Cambrian Explosion of Mixed-Precision Matrix Multiplication for Quantized Deep Learning Inference**|Héctor Martínez et.al.|[2506.11728v1](http://arxiv.org/abs/2506.11728v1)|**2025-06-13**|null|
