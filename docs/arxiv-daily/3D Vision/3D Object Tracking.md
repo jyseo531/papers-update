@@ -17,12 +17,12 @@
 |**2025-06-12**|**Sequential-Parallel Duality in Prefix Scannable Models**|Morris Yau et.al.|[2506.10918v1](http://arxiv.org/abs/2506.10918v1)|**2025-06-12**|null|
 |**2025-06-12**|**AIR: Zero-shot Generative Model Adaptation with Iterative Refinement**|Guimeng Liu et.al.|[2506.10895v1](http://arxiv.org/abs/2506.10895v1)|**2025-06-12**|null|
 |**2025-06-12**|**Adaptive Job Scheduling in Quantum Clouds Using Reinforcement Learning**|Waylon Luo et.al.|[2506.10889v1](http://arxiv.org/abs/2506.10889v1)|**2025-06-12**|null|
-|**2025-06-12**|**S3 Mirror: S3Mirror: Making Genomic Data Transfers Fast, Reliable, and Observable with DBOS**|Steven Vasquez-Grinnell et.al.|[2506.10886v1](http://arxiv.org/abs/2506.10886v1)|**2025-06-12**|null|
+|**2025-06-12**|**S3Mirror: Making Genomic Data Transfers Fast, Reliable, and Observable with DBOS**|Steven Vasquez-Grinnell et.al.|[2506.10886v2](http://arxiv.org/abs/2506.10886v2)|**2025-06-13**|null|
 |**2025-06-12**|**Spectral Analysis of Discretized Boundary Integral Operators in 3D: a High-Frequency Perspective**|V. Giunzioni et.al.|[2506.10880v1](http://arxiv.org/abs/2506.10880v1)|**2025-06-12**|null|
 |**2025-06-12**|**Understanding the mismatch between in-vivo and in-silico rhinomanometry**|Marco Atzori et.al.|[2506.10865v1](http://arxiv.org/abs/2506.10865v1)|**2025-06-12**|null|
 |**2025-06-12**|**Failure modes of irregular ceramic foam under compression: Development of a new image based strut segmentation strategy**|Vinit Vijay Deshpande et.al.|[2506.10860v1](http://arxiv.org/abs/2506.10860v1)|**2025-06-12**|null|
 |**2025-06-12**|**Energy-Efficient Deep Learning for Traffic Classification on Microcontrollers**|Adel Chehade et.al.|[2506.10851v1](http://arxiv.org/abs/2506.10851v1)|**2025-06-12**|null|
-|**2025-06-12**|**Bregman proximal gradient method for linear optimization under entropic constraints**|Luis M. Briceño-Arias et.al.|[2506.10849v1](http://arxiv.org/abs/2506.10849v1)|**2025-06-12**|null|
+|**2025-06-12**|**Bregman proximal gradient method for linear optimization under entropic constraints**|Luis M. Briceño-Arias et.al.|[2506.10849v2](http://arxiv.org/abs/2506.10849v2)|**2025-06-13**|null|
 |**2025-06-12**|**Evaluating Large Language Models on Non-Code Software Engineering Tasks**|Fabian C. Peña et.al.|[2506.10833v1](http://arxiv.org/abs/2506.10833v1)|**2025-06-12**|null|
 |**2025-06-12**|**A Robust Optimization Framework for Flexible Industrial Energy Scheduling: Application to a Cement Plant with Market Participation**|Sebastián Rojas-Innocenti et.al.|[2506.10824v1](http://arxiv.org/abs/2506.10824v1)|**2025-06-12**|null|
 |**2025-06-12**|**Simulation of irradiated hybrid planar pixels modules at fluences expected at HL-LHC**|Marco Bomben et.al.|[2506.10823v1](http://arxiv.org/abs/2506.10823v1)|**2025-06-12**|null|

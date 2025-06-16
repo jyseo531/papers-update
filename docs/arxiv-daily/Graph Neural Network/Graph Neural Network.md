@@ -5,7 +5,7 @@
 |**2025-06-12**|**Principled Approaches for Extending Neural Architectures to Function Spaces for Operator Learning**|Julius Berner et.al.|[2506.10973v1](http://arxiv.org/abs/2506.10973v1)|**2025-06-12**|null|
 |**2025-06-12**|**FerroAI: A Deep Learning Model for Predicting Phase Diagrams of Ferroelectric Materials**|Chenbo Zhang et.al.|[2506.10970v1](http://arxiv.org/abs/2506.10970v1)|**2025-06-12**|null|
 |**2025-06-12**|**GENMANIP: LLM-driven Simulation for Generalizable Instruction-Following Manipulation**|Ning Gao et.al.|[2506.10966v1](http://arxiv.org/abs/2506.10966v1)|**2025-06-12**|null|
-|**2025-06-12**|**MMMG: A Massive, Multidisciplinary, Multi-Tier Generation Benchmark for Text-to-Image Reasoning**|Yuxuan Luo et.al.|[2506.10963v1](http://arxiv.org/abs/2506.10963v1)|**2025-06-12**|null|
+|**2025-06-12**|**MMMG: A Massive, Multidisciplinary, Multi-Tier Generation Benchmark for Text-to-Image Reasoning**|Yuxuan Luo et.al.|[2506.10963v2](http://arxiv.org/abs/2506.10963v2)|**2025-06-13**|null|
 |**2025-06-12**|**Distillation of atomistic foundation models across architectures and chemical domains**|John L. A. Gardner et.al.|[2506.10956v1](http://arxiv.org/abs/2506.10956v1)|**2025-06-12**|null|
 |**2025-06-12**|**Execution Guided Line-by-Line Code Generation**|Boaz Lavon et.al.|[2506.10948v1](http://arxiv.org/abs/2506.10948v1)|**2025-06-12**|null|
 |**2025-06-12**|**Coupled reaction and diffusion governing interface evolution in solid-state batteries**|Jingxuan Ding et.al.|[2506.10944v1](http://arxiv.org/abs/2506.10944v1)|**2025-06-12**|null|

@@ -9,7 +9,7 @@
 |**2025-06-12**|**Data-Driven Prediction of Dynamic Interactions Between Robot Appendage and Granular Material**|Guanjin Wang et.al.|[2506.10875v1](http://arxiv.org/abs/2506.10875v1)|**2025-06-12**|null|
 |**2025-06-12**|**MultiCoSim: A Python-based Multi-Fidelity Co-Simulation Framework**|Quinn Thibeault et.al.|[2506.10869v1](http://arxiv.org/abs/2506.10869v1)|**2025-06-12**|null|
 |**2025-06-12**|**Invariant Extended Kalman Filter for Autonomous Surface Vessels with Partial Orientation Measurements**|Derek Benham et.al.|[2506.10850v1](http://arxiv.org/abs/2506.10850v1)|**2025-06-12**|null|
-|**2025-06-12**|**RationalVLA: A Rational Vision-Language-Action Model with Dual System**|Wenxuan Song et.al.|[2506.10826v1](http://arxiv.org/abs/2506.10826v1)|**2025-06-12**|null|
+|**2025-06-12**|**RationalVLA: A Rational Vision-Language-Action Model with Dual System**|Wenxuan Song et.al.|[2506.10826v2](http://arxiv.org/abs/2506.10826v2)|**2025-06-13**|null|
 |**2025-06-12**|**Human-Robot Navigation using Event-based Cameras and Reinforcement Learning**|Ignacio Bugueno-Cordova et.al.|[2506.10790v1](http://arxiv.org/abs/2506.10790v1)|**2025-06-12**|null|
 |**2025-06-12**|**In-Hand Object Pose Estimation via Visual-Tactile Fusion**|Felix Nonnengießer et.al.|[2506.10787v1](http://arxiv.org/abs/2506.10787v1)|**2025-06-12**|null|
 |**2025-06-12**|**Grounded Vision-Language Navigation for UAVs with Open-Vocabulary Goal Understanding**|Yuhang Zhang et.al.|[2506.10756v1](http://arxiv.org/abs/2506.10756v1)|**2025-06-12**|null|

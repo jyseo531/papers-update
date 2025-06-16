@@ -6,7 +6,7 @@
 |**2025-06-12**|**Fine-Grained Perturbation Guidance via Attention Head Selection**|Donghoon Ahn et.al.|[2506.10978v1](http://arxiv.org/abs/2506.10978v1)|**2025-06-12**|null|
 |**2025-06-12**|**GenWorld: Towards Detecting AI-generated Real-world Simulation Videos**|Weiliang Chen et.al.|[2506.10975v1](http://arxiv.org/abs/2506.10975v1)|**2025-06-12**|null|
 |**2025-06-12**|**Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs**|Qizhe Zhang et.al.|[2506.10967v1](http://arxiv.org/abs/2506.10967v1)|**2025-06-12**|null|
-|**2025-06-12**|**MMMG: A Massive, Multidisciplinary, Multi-Tier Generation Benchmark for Text-to-Image Reasoning**|Yuxuan Luo et.al.|[2506.10963v1](http://arxiv.org/abs/2506.10963v1)|**2025-06-12**|null|
+|**2025-06-12**|**MMMG: A Massive, Multidisciplinary, Multi-Tier Generation Benchmark for Text-to-Image Reasoning**|Yuxuan Luo et.al.|[2506.10963v2](http://arxiv.org/abs/2506.10963v2)|**2025-06-13**|null|
 |**2025-06-12**|**SpectralAR: Spectral Autoregressive Visual Generation**|Yuanhui Huang et.al.|[2506.10962v1](http://arxiv.org/abs/2506.10962v1)|**2025-06-12**|null|
 |**2025-06-12**|**Bias-Switchable Row-Column Array Imaging using Fast Orthogonal Row-Column Electronic Scanning (FORCES) Compared with Conventional Row-Column Array Imaging**|Randy Palamar et.al.|[2506.10958v1](http://arxiv.org/abs/2506.10958v1)|**2025-06-12**|null|
 |**2025-06-12**|**Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors**|Chen Yueh-Han et.al.|[2506.10949v1](http://arxiv.org/abs/2506.10949v1)|**2025-06-12**|[link](https://github.com/yuehhanchen/monitoring-decomposition-attack)|

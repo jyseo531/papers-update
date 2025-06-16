@@ -9,7 +9,7 @@
 |**2025-06-12**|**Adaptive Job Scheduling in Quantum Clouds Using Reinforcement Learning**|Waylon Luo et.al.|[2506.10889v1](http://arxiv.org/abs/2506.10889v1)|**2025-06-12**|null|
 |**2025-06-12**|**Viability of Future Actions: Robust Safety in Reinforcement Learning via Entropy Regularization**|Pierre-François Massiani et.al.|[2506.10871v1](http://arxiv.org/abs/2506.10871v1)|**2025-06-12**|null|
 |**2025-06-12**|**A novel visual data-based diagnostic approach for estimation of regime transition in pool boiling**|Pranay Nirapure et.al.|[2506.10832v1](http://arxiv.org/abs/2506.10832v1)|**2025-06-12**|null|
-|**2025-06-12**|**Joint Beamforming with Extremely Large Scale RIS: A Sequential Multi-Agent A2C Approach**|Zhi Chai et.al.|[2506.10815v1](http://arxiv.org/abs/2506.10815v1)|**2025-06-12**|null|
+|**2025-06-12**|**Joint Beamforming with Extremely Large Scale RIS: A Sequential Multi-Agent A2C Approach**|Zhi Chai et.al.|[2506.10815v2](http://arxiv.org/abs/2506.10815v2)|**2025-06-13**|null|
 |**2025-06-12**|**Human-Robot Navigation using Event-based Cameras and Reinforcement Learning**|Ignacio Bugueno-Cordova et.al.|[2506.10790v1](http://arxiv.org/abs/2506.10790v1)|**2025-06-12**|null|
 |**2025-06-12**|**PosterCraft: Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework**|SiXiang Chen et.al.|[2506.10741v1](http://arxiv.org/abs/2506.10741v1)|**2025-06-12**|null|
 |**2025-06-12**|**Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs**|Yucong Luo et.al.|[2506.10630v1](http://arxiv.org/abs/2506.10630v1)|**2025-06-12**|null|
@@ -17,7 +17,7 @@
 |**2025-06-12**|**Fast on the Easy, Deep on the Hard: Efficient Reasoning via Powered Length Penalty**|Zehui Ling et.al.|[2506.10446v1](http://arxiv.org/abs/2506.10446v1)|**2025-06-12**|null|
 |**2025-06-12**|**PAG: Multi-Turn Reinforced LLM Self-Correction with Policy as Generative Verifier**|Yuhua Jiang et.al.|[2506.10406v1](http://arxiv.org/abs/2506.10406v1)|**2025-06-12**|null|
 |**2025-06-12**|**Optimus-3: Towards Generalist Multimodal Minecraft Agents with Scalable Task Experts**|Zaijing Li et.al.|[2506.10357v1](http://arxiv.org/abs/2506.10357v1)|**2025-06-12**|null|
-|**2025-06-12**|**Motion-R1: Chain-of-Thought Reasoning and Reinforcement Learning for Human Motion Generation**|Runqi Ouyang et.al.|[2506.10353v1](http://arxiv.org/abs/2506.10353v1)|**2025-06-12**|null|
+|**2025-06-12**|**Motion-R1: Chain-of-Thought Reasoning and Reinforcement Learning for Human Motion Generation**|Runqi Ouyang et.al.|[2506.10353v2](http://arxiv.org/abs/2506.10353v2)|**2025-06-13**|null|
 |**2025-06-12**|**A Comprehensive Survey of Unmanned Aerial Systems' Risks and Mitigation Strategies**|Sharad Shrestha et.al.|[2506.10327v1](http://arxiv.org/abs/2506.10327v1)|**2025-06-12**|null|
 |**2025-06-12**|**A Benchmark for Generalizing Across Diverse Team Strategies in Competitive Pokémon**|Cameron Angliss et.al.|[2506.10326v1](http://arxiv.org/abs/2506.10326v1)|**2025-06-12**|null|
 |**2025-06-12**|**"Check My Work?": Measuring Sycophancy in a Simulated Educational Context**|Chuck Arvin et.al.|[2506.10297v1](http://arxiv.org/abs/2506.10297v1)|**2025-06-12**|null|
