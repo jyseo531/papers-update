@@ -24,7 +24,7 @@
 |**2025-06-13**|**Expert Insight-Based Modeling of Non-Kinetic Strategic Deterrence of Rare Earth Supply Disruption:A Simulation-Driven Systematic Framework**|Wei Meng et.al.|[2506.11645v1](http://arxiv.org/abs/2506.11645v1)|**2025-06-13**|null|
 |**2025-06-13**|**SignAligner: Harmonizing Complementary Pose Modalities for Coherent Sign Language Generation**|Xu Wang et.al.|[2506.11621v1](http://arxiv.org/abs/2506.11621v1)|**2025-06-13**|null|
 |**2025-06-13**|**Dissecting the Segmentation Model of End-to-End Diarization with Vector Clustering**|Alexis Plaquet et.al.|[2506.11605v1](http://arxiv.org/abs/2506.11605v1)|**2025-06-13**|null|
-|**2025-06-13**|**TongSearch-QR: Reinforced Query Reasoning for Retrieval**|Xubo Qin et.al.|[2506.11603v1](http://arxiv.org/abs/2506.11603v1)|**2025-06-13**|null|
+|**2025-06-13**|**TongSearch-QR: Reinforced Query Reasoning for Retrieval**|Xubo Qin et.al.|[2506.11603v2](http://arxiv.org/abs/2506.11603v2)|**2025-06-16**|null|
 |**2025-06-13**|**GraphRAG-Causal: A novel graph-augmented framework for causal reasoning and annotation in news**|Abdul Haque et.al.|[2506.11600v1](http://arxiv.org/abs/2506.11600v1)|**2025-06-13**|null|
 |**2025-06-13**|**A$^2$LC: Active and Automated Label Correction for Semantic Segmentation**|Youjin Jeon et.al.|[2506.11599v1](http://arxiv.org/abs/2506.11599v1)|**2025-06-13**|null|
 |**2025-06-13**|**Retrieval-Augmented Code Review Comment Generation**|Hyunsun Hong et.al.|[2506.11591v1](http://arxiv.org/abs/2506.11591v1)|**2025-06-13**|null|

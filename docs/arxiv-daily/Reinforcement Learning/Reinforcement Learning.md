@@ -19,7 +19,7 @@
 |**2025-06-13**|**Growing with Experience: Growing Neural Networks in Deep Reinforcement Learning**|Lukas Fehring et.al.|[2506.11706v1](http://arxiv.org/abs/2506.11706v1)|**2025-06-13**|null|
 |**2025-06-13**|**HeII emitters in the cosmic noon and beyond. Characterising the HeII λ1640 emission with MUSE and JWST/NIRSpec**|R. Gonz'alez-D'iaz et.al.|[2506.11685v1](http://arxiv.org/abs/2506.11685v1)|**2025-06-13**|null|
 |**2025-06-13**|**Can the Oxygen $2p$ Band Be Hole Doped?**|Thi Ngoc Huyen Vu et.al.|[2506.11619v1](http://arxiv.org/abs/2506.11619v1)|**2025-06-13**|null|
-|**2025-06-13**|**TongSearch-QR: Reinforced Query Reasoning for Retrieval**|Xubo Qin et.al.|[2506.11603v1](http://arxiv.org/abs/2506.11603v1)|**2025-06-13**|null|
+|**2025-06-13**|**TongSearch-QR: Reinforced Query Reasoning for Retrieval**|Xubo Qin et.al.|[2506.11603v2](http://arxiv.org/abs/2506.11603v2)|**2025-06-16**|null|
 |**2025-06-13**|**EasyARC: Evaluating Vision Language Models on True Visual Reasoning**|Mert Unsal et.al.|[2506.11595v1](http://arxiv.org/abs/2506.11595v1)|**2025-06-13**|null|
 |**2025-06-13**|**Preserving Clusters in Prompt Learning for Unsupervised Domain Adaptation**|Tung-Long Vuong et.al.|[2506.11493v1](http://arxiv.org/abs/2506.11493v1)|**2025-06-13**|null|
 |**2025-06-13**|**Reviving DSP for Advanced Theorem Proving in the Era of Reasoning Models**|Chenrui Cao et.al.|[2506.11487v1](http://arxiv.org/abs/2506.11487v1)|**2025-06-13**|null|
