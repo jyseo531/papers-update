@@ -2,6 +2,14 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-16**|**Audio-Visual Driven Compression for Low-Bitrate Talking Head Videos**|Riku Takahashi et.al.|[2506.13419v1](http://arxiv.org/abs/2506.13419v1)|**2025-06-16**|null|
+|**2025-06-16**|**Quantitative Comparison of Fine-Tuning Techniques for Pretrained Latent Diffusion Models in the Generation of Unseen SAR Image Concepts**|Solène Debuysère et.al.|[2506.13307v1](http://arxiv.org/abs/2506.13307v1)|**2025-06-16**|null|
+|**2025-06-16**|**SuperPoint-SLAM3: Augmenting ORB-SLAM3 with Deep Features, Adaptive NMS, and Learning-Based Loop Closure**|Shahram Najam Syed et.al.|[2506.13089v1](http://arxiv.org/abs/2506.13089v1)|**2025-06-16**|null|
+|**2025-06-16**|**MAMMA: Markerless & Automatic Multi-Person Motion Action Capture**|Hanz Cuevas-Velasquez et.al.|[2506.13040v1](http://arxiv.org/abs/2506.13040v1)|**2025-06-16**|null|
+|**2025-06-16**|**DETRPose: Real-time end-to-end transformer model for multi-person pose estimation**|Sebastian Janampa et.al.|[2506.13027v1](http://arxiv.org/abs/2506.13027v1)|**2025-06-16**|[link](https://github.com/SebastianJanampa/DETRPose)|
+|**2025-06-15**|**A large-scale, physically-based synthetic dataset for satellite pose estimation**|Szabolcs Velkei et.al.|[2506.12782v1](http://arxiv.org/abs/2506.12782v1)|**2025-06-15**|null|
+|**2025-06-14**|**Tailored ordering enables high-capacity cathode materials**|Tzu-chen Liu et.al.|[2506.12545v1](http://arxiv.org/abs/2506.12545v1)|**2025-06-14**|null|
+|**2025-06-14**|**Information fusion strategy integrating pre-trained language model and contrastive learning for materials knowledge mining**|Yongqian Peng et.al.|[2506.12516v1](http://arxiv.org/abs/2506.12516v1)|**2025-06-14**|null|
 |**2025-06-13**|**Interpretable representation learning of quantum data enabled by probabilistic variational autoencoders**|Paulin de Schoulepnikoff et.al.|[2506.11982v1](http://arxiv.org/abs/2506.11982v1)|**2025-06-13**|null|
 |**2025-06-13**|**Spectra-to-Structure and Structure-to-Spectra Inference Across the Periodic Table**|Yufeng Wang et.al.|[2506.11908v1](http://arxiv.org/abs/2506.11908v1)|**2025-06-13**|null|
 |**2025-06-12**|**A detailed and comprehensive account of fractional Physics-Informed Neural Networks: From implementation to efficiency**|Donya Dabiri et.al.|[2506.11241v1](http://arxiv.org/abs/2506.11241v1)|**2025-06-12**|null|
@@ -24,11 +32,3 @@
 |**2025-06-05**|**Object-X: Learning to Reconstruct Multi-Modal 3D Object Representations**|Gaia Di Lorenzo et.al.|[2506.04789v1](http://arxiv.org/abs/2506.04789v1)|**2025-06-05**|null|
 |**2025-06-05**|**HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition**|Suhan Woo et.al.|[2506.04764v1](http://arxiv.org/abs/2506.04764v1)|**2025-06-05**|null|
 |**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619v1](http://arxiv.org/abs/2506.04619v1)|**2025-06-05**|null|
-|**2025-06-05**|**LGM-Pose: A Lightweight Global Modeling Network for Real-time Human Pose Estimation**|Biao Guo et.al.|[2506.04561v1](http://arxiv.org/abs/2506.04561v1)|**2025-06-05**|null|
-|**2025-06-04**|**Deep-learned error mitigation via partially knitted circuits for the variational quantum eigensolver**|Simone Cantori et.al.|[2506.04146v1](http://arxiv.org/abs/2506.04146v1)|**2025-06-04**|null|
-|**2025-06-04**|**Beyond Diamond: Interpretable Machine Learning Discovery of Coherent Quantum Defect Hosts in Semiconductors**|Mohammed Mahshook et.al.|[2506.03844v1](http://arxiv.org/abs/2506.03844v1)|**2025-06-04**|null|
-|**2025-06-03**|**Adaptive Exploration in Lenia with Intrinsic Multi-Objective Ranking**|Niko Lorantos et.al.|[2506.02990v1](http://arxiv.org/abs/2506.02990v1)|**2025-06-03**|null|
-|**2025-06-03**|**Probing the semiconductor-to-dirac semimetal transition in Na-Sb-Bi alloys with x-ray Compton scattering**|Aki Pulkkinen et.al.|[2506.02833v1](http://arxiv.org/abs/2506.02833v1)|**2025-06-03**|null|
-|**2025-06-03**|**GeneA-SLAM2: Dynamic SLAM with AutoEncoder-Preprocessed Genetic Keypoints Resampling and Depth Variance-Guided Dynamic Region Removal**|Shufan Qing et.al.|[2506.02736v1](http://arxiv.org/abs/2506.02736v1)|**2025-06-03**|[link](https://github.com/qingshufan/GeneA-SLAM2)|
-|**2025-06-03**|**Universal band center model for the HER activity of non-metal site**|Ruixin Xu et.al.|[2506.02567v1](http://arxiv.org/abs/2506.02567v1)|**2025-06-03**|null|
-|**2025-06-02**|**Implicit Deformable Medical Image Registration with Learnable Kernels**|Stefano Fogarollo et.al.|[2506.02150v1](http://arxiv.org/abs/2506.02150v1)|**2025-06-02**|null|

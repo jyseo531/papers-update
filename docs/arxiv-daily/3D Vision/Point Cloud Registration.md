@@ -2,33 +2,33 @@
 ### Point Cloud Registration
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-13**|**Upgrade or Switch: Do We Need a New Registry Architecture for the Internet of AI Agents?**|Ramesh Raskar et.al.|[2506.12003v1](http://arxiv.org/abs/2506.12003v1)|**2025-06-13**|null|
-|**2025-06-13**|**pLSTM: parallelizable Linear Source Transition Mark networks**|Korbinian Pöppel et.al.|[2506.11997v1](http://arxiv.org/abs/2506.11997v1)|**2025-06-13**|null|
-|**2025-06-13**|**Full Convergence of Regularized Methods for Unconstrained Optimization**|Andrea Cristofari et.al.|[2506.11971v1](http://arxiv.org/abs/2506.11971v1)|**2025-06-13**|null|
-|**2025-06-13**|**A Robust Local Fréchet Regression Using Unbalanced Neural Optimal Transport with Applications to Dynamic Single-cell Genomics Data**|Binghao Yan et.al.|[2506.11969v1](http://arxiv.org/abs/2506.11969v1)|**2025-06-13**|null|
-|**2025-06-13**|**Accurate Reduced Floating-Point Precision Implicit Monte Carlo**|Simon Butson et.al.|[2506.11962v1](http://arxiv.org/abs/2506.11962v1)|**2025-06-13**|null|
-|**2025-06-13**|**Evaluating Program Sequences with Double Machine Learning: An Application to Labor Market Policies**|Fabian Muny et.al.|[2506.11960v1](http://arxiv.org/abs/2506.11960v1)|**2025-06-13**|null|
-|**2025-06-13**|**Nash equilibria in semidefinite games and Lemke-Howson paths**|Constantin Ickstadt et.al.|[2506.11940v1](http://arxiv.org/abs/2506.11940v1)|**2025-06-13**|null|
-|**2025-06-13**|**Worst-Case Complexity of High-Order Algorithms for Pareto-Front Reconstruction**|Andrea Cristofari et.al.|[2506.11929v1](http://arxiv.org/abs/2506.11929v1)|**2025-06-13**|null|
-|**2025-06-13**|**Aligned Novel View Image and Geometry Synthesis via Cross-modal Attention Instillation**|Min-Seop Kwak et.al.|[2506.11924v1](http://arxiv.org/abs/2506.11924v1)|**2025-06-13**|null|
-|**2025-06-13**|**A Hyperactive FRB Pinpointed in an SMC-Like Satellite Host Galaxy**|M. Bhardwaj et.al.|[2506.11915v1](http://arxiv.org/abs/2506.11915v1)|**2025-06-13**|null|
-|**2025-06-13**|**Special Functions and Geometries in Scattering Amplitudes: From Particle Physics to Gravity**|Roger Morales et.al.|[2506.11911v1](http://arxiv.org/abs/2506.11911v1)|**2025-06-13**|null|
-|**2025-06-13**|**Symbol Alphabets in QCD and Flag Cluster Algebras**|Andrzej Pokraka et.al.|[2506.11895v1](http://arxiv.org/abs/2506.11895v1)|**2025-06-13**|null|
-|**2025-06-13**|**(CMC) 1-immersions of surfaces into hyperbolic 3-manifolds**|Gabriella Tarantello et.al.|[2506.11894v1](http://arxiv.org/abs/2506.11894v1)|**2025-06-13**|null|
-|**2025-06-13**|**Surfaces with Klein bottle topology occur in fusion reactor fields**|Christopher Berg Smiet et.al.|[2506.11883v1](http://arxiv.org/abs/2506.11883v1)|**2025-06-13**|null|
-|**2025-06-13**|**Methods for evaluating the resolution of 3D data derived from satellite images**|Christina Selby et.al.|[2506.11876v1](http://arxiv.org/abs/2506.11876v1)|**2025-06-13**|null|
-|**2025-06-13**|**Bridging a gap: A heavy elastica between point supports**|Grace K. Curtis et.al.|[2506.11875v1](http://arxiv.org/abs/2506.11875v1)|**2025-06-13**|null|
-|**2025-06-13**|**Vision-based Lifting of 2D Object Detections for Automated Driving**|Hendrik Königshof et.al.|[2506.11839v1](http://arxiv.org/abs/2506.11839v1)|**2025-06-13**|null|
-|**2025-06-13**|**A Tale of Two Mobile Generations: 5G-Advanced and 6G in 3GPP Release 20**|Xingqin Lin et.al.|[2506.11828v1](http://arxiv.org/abs/2506.11828v1)|**2025-06-13**|null|
-|**2025-06-13**|**Thrackles on nonplanar surfaces**|César Hernández-Vélez et.al.|[2506.11808v1](http://arxiv.org/abs/2506.11808v1)|**2025-06-13**|null|
-|**2025-06-13**|**Teleoperated Driving: a New Challenge for 3D Object Detection in Compressed Point Clouds**|Filippo Bragato et.al.|[2506.11804v1](http://arxiv.org/abs/2506.11804v1)|**2025-06-13**|null|
-|**2025-06-13**|**The Karl G. Jansky Very Large Array Local Group L-band Survey (LGLBS)**|Eric W. Koch et.al.|[2506.11792v1](http://arxiv.org/abs/2506.11792v1)|**2025-06-13**|null|
-|**2025-06-13**|**Digital Labor: Challenges, Ethical Insights, and Implications**|ATM Mizanur Rahman et.al.|[2506.11788v1](http://arxiv.org/abs/2506.11788v1)|**2025-06-13**|null|
-|**2025-06-13**|**FeNN: A RISC-V vector processor for Spiking Neural Network acceleration**|Zainab Aizaz et.al.|[2506.11760v1](http://arxiv.org/abs/2506.11760v1)|**2025-06-13**|null|
-|**2025-06-13**|**Distributed Learning for Reliable and Timely Communication in 6G Industrial Subnetworks**|Samira Abdelrahman et.al.|[2506.11749v1](http://arxiv.org/abs/2506.11749v1)|**2025-06-13**|null|
-|**2025-06-13**|**Enabling Next-Generation Cloud-Connected Bionic Limbs Through 5G Connectivity**|Ozan Karaali et.al.|[2506.11744v1](http://arxiv.org/abs/2506.11744v1)|**2025-06-13**|null|
-|**2025-06-13**|**Can we "seamlessly" divide a polygon?**|Byungchang So et.al.|[2506.11742v1](http://arxiv.org/abs/2506.11742v1)|**2025-06-13**|null|
-|**2025-06-13**|**A statistical mechanical view of complex economies under the green transition**|Filippo Marcuccini et.al.|[2506.11739v1](http://arxiv.org/abs/2506.11739v1)|**2025-06-13**|null|
-|**2025-06-13**|**Adaptive determinantal scheduling with fairness in wireless networks**|H. P. Keeler et.al.|[2506.11738v1](http://arxiv.org/abs/2506.11738v1)|**2025-06-13**|null|
-|**2025-06-13**|**Choosing observables that capture critical slowing down before tipping points: A Fokker-Planck operator approach**|Johannes Lohmann et.al.|[2506.11735v1](http://arxiv.org/abs/2506.11735v1)|**2025-06-13**|null|
-|**2025-06-13**|**The Cambrian Explosion of Mixed-Precision Matrix Multiplication for Quantized Deep Learning Inference**|Héctor Martínez et.al.|[2506.11728v1](http://arxiv.org/abs/2506.11728v1)|**2025-06-13**|null|
+|**2025-06-16**|**PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images**|Lingteng Qiu et.al.|[2506.13766v1](http://arxiv.org/abs/2506.13766v1)|**2025-06-16**|null|
+|**2025-06-16**|**UltraZoom: Generating Gigapixel Images from Regular Photos**|Jingwei Ma et.al.|[2506.13756v1](http://arxiv.org/abs/2506.13756v1)|**2025-06-16**|null|
+|**2025-06-16**|**Edge Nearest Neighbor in Sampling-Based Motion Planning**|Stav Ashur et.al.|[2506.13753v1](http://arxiv.org/abs/2506.13753v1)|**2025-06-16**|null|
+|**2025-06-16**|**Bias Delayed is Bias Denied? Assessing the Effect of Reporting Delays on Disparity Assessments**|Jennah Gosciak et.al.|[2506.13735v1](http://arxiv.org/abs/2506.13735v1)|**2025-06-16**|null|
+|**2025-06-16**|**Robust Recursive Fusion of Multiresolution Multispectral Images with Location-Aware Neural Networks**|Haoqing Li et.al.|[2506.13733v1](http://arxiv.org/abs/2506.13733v1)|**2025-06-16**|null|
+|**2025-06-16**|**Weakest Link in the Chain: Security Vulnerabilities in Advanced Reasoning Models**|Arjun Krishna et.al.|[2506.13726v1](http://arxiv.org/abs/2506.13726v1)|**2025-06-16**|null|
+|**2025-06-16**|**Leveraging erasure errors in logical qubits with metastable $^{171}$Yb atoms**|Bichen Zhang et.al.|[2506.13724v1](http://arxiv.org/abs/2506.13724v1)|**2025-06-16**|null|
+|**2025-06-16**|**Contrastive Self-Supervised Learning As Neural Manifold Packing**|Guanming Zhang et.al.|[2506.13717v1](http://arxiv.org/abs/2506.13717v1)|**2025-06-16**|null|
+|**2025-06-16**|**Understanding Learning Invariance in Deep Linear Networks**|Hao Duan et.al.|[2506.13714v1](http://arxiv.org/abs/2506.13714v1)|**2025-06-16**|null|
+|**2025-06-16**|**Gradient-Normalized Smoothness for Optimization with Approximate Hessians**|Andrei Semenov et.al.|[2506.13710v1](http://arxiv.org/abs/2506.13710v1)|**2025-06-16**|null|
+|**2025-06-16**|**Shaping Bulk Fermi Arcs in the Momentum Space of Photonic Crystal Slabs**|Luigi Frau et.al.|[2506.13698v1](http://arxiv.org/abs/2506.13698v1)|**2025-06-16**|null|
+|**2025-06-16**|**Fractional Orlicz-Sobolev embeddings into Campanato type spaces**|Angela Alberico et.al.|[2506.13669v1](http://arxiv.org/abs/2506.13669v1)|**2025-06-16**|null|
+|**2025-06-16**|**Box-Covariances of Hyperuniform Point Processes**|Jonas Jalowy et.al.|[2506.13661v1](http://arxiv.org/abs/2506.13661v1)|**2025-06-16**|null|
+|**2025-06-16**|**A High-Order, Pressure-Robust, and Decoupled Finite Difference Method for the Stokes Problem**|Qiwei Feng et.al.|[2506.13645v1](http://arxiv.org/abs/2506.13645v1)|**2025-06-16**|null|
+|**2025-06-16**|**Searching for topological semi-complete bandgap in elastic truss lattices**|Yiran Hao et.al.|[2506.13601v1](http://arxiv.org/abs/2506.13601v1)|**2025-06-16**|null|
+|**2025-06-16**|**CAMS: A CityGPT-Powered Agentic Framework for Urban Human Mobility Simulation**|Yuwei Du et.al.|[2506.13599v1](http://arxiv.org/abs/2506.13599v1)|**2025-06-16**|null|
+|**2025-06-16**|**An integrable deformed Landau-Lifshitz model with particle production?**|Marius de Leeuw et.al.|[2506.13598v1](http://arxiv.org/abs/2506.13598v1)|**2025-06-16**|null|
+|**2025-06-16**|**Persistent Homology of Music Network with Three Different Distances**|Eunwoo Heo et.al.|[2506.13595v1](http://arxiv.org/abs/2506.13595v1)|**2025-06-16**|null|
+|**2025-06-16**|**In situ Thermal Trimming of Waveguides in a Standard Active Silicon Photonics Platform**|Tianyuan Xue et.al.|[2506.13578v1](http://arxiv.org/abs/2506.13578v1)|**2025-06-16**|null|
+|**2025-06-16**|**Unlearning-Enhanced Website Fingerprinting Attack: Against Backdoor Poisoning in Anonymous Networks**|Yali Yuan et.al.|[2506.13563v1](http://arxiv.org/abs/2506.13563v1)|**2025-06-16**|null|
+|**2025-06-16**|**Insights into the structure and kinematics of a Milky Way-like galaxy**|Eva Durán-Camacho et.al.|[2506.13560v1](http://arxiv.org/abs/2506.13560v1)|**2025-06-16**|null|
+|**2025-06-16**|**Superconductivity with repulsion: a variational approach**|Laura Fanfarillo et.al.|[2506.13556v1](http://arxiv.org/abs/2506.13556v1)|**2025-06-16**|null|
+|**2025-06-16**|**Stability Analysis of Physics-Informed Neural Networks via Variational Coercivity, Perturbation Bounds, and Concentration Estimates**|Ronald Katende et.al.|[2506.13554v1](http://arxiv.org/abs/2506.13554v1)|**2025-06-16**|null|
+|**2025-06-16**|**Proper Fourier-Mukai partners of abelian varieties and points outside the Fourier-Mukai loci in Matsui spectra**|Hisato Matsukawa et.al.|[2506.13527v1](http://arxiv.org/abs/2506.13527v1)|**2025-06-16**|null|
+|**2025-06-16**|**Micro-macro Gaussian Splatting with Enhanced Scalability for Unconstrained Scene Reconstruction**|Yihui Li et.al.|[2506.13516v1](http://arxiv.org/abs/2506.13516v1)|**2025-06-16**|null|
+|**2025-06-16**|**Multiview Geometric Regularization of Gaussian Splatting for Accurate Radiance Fields**|Jungeon Kim et.al.|[2506.13508v1](http://arxiv.org/abs/2506.13508v1)|**2025-06-16**|null|
+|**2025-06-16**|**Learning Swing-up Maneuvers for a Suspended Aerial Manipulation Platform in a Hierarchical Control Framework**|Hemjyoti Das et.al.|[2506.13478v1](http://arxiv.org/abs/2506.13478v1)|**2025-06-16**|null|
+|**2025-06-16**|**Serre's question on thin sets in projective space**|Tijs Buggenhout et.al.|[2506.13471v1](http://arxiv.org/abs/2506.13471v1)|**2025-06-16**|null|
+|**2025-06-16**|**Abstract, Align, Predict: Zero-Shot Stance Detection via Cognitive Inductive Reasoning**|Jun Ma et.al.|[2506.13470v1](http://arxiv.org/abs/2506.13470v1)|**2025-06-16**|null|
+|**2025-06-16**|**No-dimensional Tverberg-type problems**|Alexander Polyanskii et.al.|[2506.13451v1](http://arxiv.org/abs/2506.13451v1)|**2025-06-16**|null|

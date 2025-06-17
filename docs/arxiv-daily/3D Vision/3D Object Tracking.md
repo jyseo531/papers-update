@@ -2,33 +2,33 @@
 ### 3D Object Tracking
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-13**|**Affogato: Learning Open-Vocabulary Affordance Grounding with Automated Data Generation at Scale**|Junha Lee et.al.|[2506.12009v1](http://arxiv.org/abs/2506.12009v1)|**2025-06-13**|null|
-|**2025-06-13**|**crossMoDA Challenge: Evolution of Cross-Modality Domain Adaptation Techniques for Vestibular Schwannoma and Cochlea Segmentation from 2021 to 2023**|Navodini Wijethilake et.al.|[2506.12006v1](http://arxiv.org/abs/2506.12006v1)|**2025-06-13**|null|
-|**2025-06-13**|**Generative Representational Learning of Foundation Models for Recommendation**|Zheli Zhou et.al.|[2506.11999v2](http://arxiv.org/abs/2506.11999v2)|**2025-06-16**|null|
-|**2025-06-13**|**Improving Surgical Risk Prediction Through Integrating Automated Body Composition Analysis: a Retrospective Trial on Colectomy Surgery**|Hanxue Gu et.al.|[2506.11996v2](http://arxiv.org/abs/2506.11996v2)|**2025-06-16**|null|
-|**2025-06-13**|**Compression Aware Certified Training**|Changming Xu et.al.|[2506.11992v1](http://arxiv.org/abs/2506.11992v1)|**2025-06-13**|null|
-|**2025-06-13**|**JWST spectroscopy of a blue binary cold classical Kuiper belt object**|Ian Wong et.al.|[2506.11972v1](http://arxiv.org/abs/2506.11972v1)|**2025-06-13**|null|
-|**2025-06-13**|**Full Convergence of Regularized Methods for Unconstrained Optimization**|Andrea Cristofari et.al.|[2506.11971v1](http://arxiv.org/abs/2506.11971v1)|**2025-06-13**|null|
-|**2025-06-13**|**A Robust Local Fréchet Regression Using Unbalanced Neural Optimal Transport with Applications to Dynamic Single-cell Genomics Data**|Binghao Yan et.al.|[2506.11969v1](http://arxiv.org/abs/2506.11969v1)|**2025-06-13**|null|
-|**2025-06-13**|**A solution to the tension of burning on neutron stars and nuclear physics**|Y. Cavecchi et.al.|[2506.11966v1](http://arxiv.org/abs/2506.11966v1)|**2025-06-13**|null|
-|**2025-06-13**|**Automated Treatment Planning for Interstitial HDR Brachytherapy for Locally Advanced Cervical Cancer using Deep Reinforcement Learning**|Mohammadamin Moradi et.al.|[2506.11957v1](http://arxiv.org/abs/2506.11957v1)|**2025-06-13**|null|
-|**2025-06-13**|**SAIL: Faster-than-Demonstration Execution of Imitation Learning Policies**|Nadun Ranawaka Arachchige et.al.|[2506.11948v1](http://arxiv.org/abs/2506.11948v1)|**2025-06-13**|null|
-|**2025-06-13**|**Intractable Cookie Crumbs: Unveiling the Nexus of Stateful Banner Interaction and Tracking Cookies**|Ali Rasaii et.al.|[2506.11947v1](http://arxiv.org/abs/2506.11947v1)|**2025-06-13**|null|
-|**2025-06-13**|**MIGHTEE-HI: The direct detection of neutral hydrogen in galaxies at $z>0.25$**|Matt J. Jarvis et.al.|[2506.11935v1](http://arxiv.org/abs/2506.11935v1)|**2025-06-13**|null|
-|**2025-06-13**|**Evaluating Sensitivity Parameters in Smartphone-Based Gaze Estimation: A Comparative Study of Appearance-Based and Infrared Eye Trackers**|Nishan Gunawardena et.al.|[2506.11932v2](http://arxiv.org/abs/2506.11932v2)|**2025-06-16**|null|
-|**2025-06-13**|**Worst-Case Complexity of High-Order Algorithms for Pareto-Front Reconstruction**|Andrea Cristofari et.al.|[2506.11929v1](http://arxiv.org/abs/2506.11929v1)|**2025-06-13**|null|
-|**2025-06-13**|**Towards 4D modelisation of thermal-field emission from semiconductors**|Salvador Barranco Cárceles et.al.|[2506.11927v1](http://arxiv.org/abs/2506.11927v1)|**2025-06-13**|null|
-|**2025-06-13**|**Aligned Novel View Image and Geometry Synthesis via Cross-modal Attention Instillation**|Min-Seop Kwak et.al.|[2506.11924v1](http://arxiv.org/abs/2506.11924v1)|**2025-06-13**|null|
-|**2025-06-13**|**Nanoscale Magnetic Resonance Imaging and Control of a Strongly Interacting Dipolar System**|Piotr Put et.al.|[2506.11920v1](http://arxiv.org/abs/2506.11920v1)|**2025-06-13**|null|
-|**2025-06-13**|**A DC-Reformulation for Gradient-$L^0$-Constrained Problems in Function Spaces**|Bastian Dittrich et.al.|[2506.11917v1](http://arxiv.org/abs/2506.11917v1)|**2025-06-13**|null|
-|**2025-06-13**|**A Hyperactive FRB Pinpointed in an SMC-Like Satellite Host Galaxy**|M. Bhardwaj et.al.|[2506.11915v1](http://arxiv.org/abs/2506.11915v1)|**2025-06-13**|null|
-|**2025-06-13**|**O2Former:Direction-Aware and Multi-Scale Query Enhancement for SAR Ship Instance Segmentation**|F. Gao et.al.|[2506.11913v1](http://arxiv.org/abs/2506.11913v1)|**2025-06-13**|null|
-|**2025-06-13**|**Convergence of Momentum-Based Optimization Algorithms with Time-Varying Parameters**|Mathukumalli Vidyasagar et.al.|[2506.11904v1](http://arxiv.org/abs/2506.11904v1)|**2025-06-13**|null|
-|**2025-06-13**|**On the density of singular SDEs with fractional noise and applications to McKean-Vlasov equations**|Lukas Anzeletti et.al.|[2506.11900v1](http://arxiv.org/abs/2506.11900v1)|**2025-06-13**|null|
-|**2025-06-13**|**Fourth- and Higher-order Interface Tracking of Three or More Materials with Arbitrarily Complex Topology and Geometry**|Yan Tan et.al.|[2506.11897v1](http://arxiv.org/abs/2506.11897v1)|**2025-06-13**|null|
-|**2025-06-13**|**(CMC) 1-immersions of surfaces into hyperbolic 3-manifolds**|Gabriella Tarantello et.al.|[2506.11894v1](http://arxiv.org/abs/2506.11894v1)|**2025-06-13**|null|
-|**2025-06-13**|**Methods for evaluating the resolution of 3D data derived from satellite images**|Christina Selby et.al.|[2506.11876v1](http://arxiv.org/abs/2506.11876v1)|**2025-06-13**|null|
-|**2025-06-13**|**How do Probabilistic Graphical Models and Graph Neural Networks Look at Network Data?**|Michela Lapenna et.al.|[2506.11869v1](http://arxiv.org/abs/2506.11869v1)|**2025-06-13**|null|
-|**2025-06-13**|**SphereDrag: Spherical Geometry-Aware Panoramic Image Editing**|Zhiao Feng et.al.|[2506.11863v1](http://arxiv.org/abs/2506.11863v1)|**2025-06-13**|null|
-|**2025-06-13**|**3D Skin Segmentation Methods in Medical Imaging: A Comparison**|Martina Paccini et.al.|[2506.11852v1](http://arxiv.org/abs/2506.11852v1)|**2025-06-13**|null|
-|**2025-06-13**|**Chemo-dynamics of the stellar component of the Sculptor dwarf galaxy II: dynamical properties and dark matter halo density**|José María Arroyo Polonio et.al.|[2506.11845v1](http://arxiv.org/abs/2506.11845v1)|**2025-06-13**|null|
+|**2025-06-16**|**PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images**|Lingteng Qiu et.al.|[2506.13766v1](http://arxiv.org/abs/2506.13766v1)|**2025-06-16**|null|
+|**2025-06-16**|**Touch begins where vision ends: Generalizable policies for contact-rich manipulation**|Zifan Zhao et.al.|[2506.13762v1](http://arxiv.org/abs/2506.13762v1)|**2025-06-16**|null|
+|**2025-06-16**|**UltraZoom: Generating Gigapixel Images from Regular Photos**|Jingwei Ma et.al.|[2506.13756v1](http://arxiv.org/abs/2506.13756v1)|**2025-06-16**|null|
+|**2025-06-16**|**Test3R: Learning to Reconstruct 3D at Test Time**|Yuheng Yuan et.al.|[2506.13750v1](http://arxiv.org/abs/2506.13750v1)|**2025-06-16**|null|
+|**2025-06-16**|**Critical Insights about Robots for Mental Wellbeing**|Guy Laban et.al.|[2506.13739v1](http://arxiv.org/abs/2506.13739v1)|**2025-06-16**|null|
+|**2025-06-16**|**DESI survey of S IV absorption outflows in quasars: Contribution to AGN feedback and comparison with [O III] emission outflows**|Mayank Sharma et.al.|[2506.13736v1](http://arxiv.org/abs/2506.13736v1)|**2025-06-16**|null|
+|**2025-06-16**|**Robust Recursive Fusion of Multiresolution Multispectral Images with Location-Aware Neural Networks**|Haoqing Li et.al.|[2506.13733v1](http://arxiv.org/abs/2506.13733v1)|**2025-06-16**|null|
+|**2025-06-16**|**Attribution-guided Pruning for Compression, Circuit Discovery, and Targeted Correction in LLMs**|Sayed Mohammad Vakilzadeh Hatefi et.al.|[2506.13727v1](http://arxiv.org/abs/2506.13727v1)|**2025-06-16**|null|
+|**2025-06-16**|**How Real is CARLAs Dynamic Vision Sensor? A Study on the Sim-to-Real Gap in Traffic Object Detection**|Kaiyuan Tan et.al.|[2506.13722v1](http://arxiv.org/abs/2506.13722v1)|**2025-06-16**|null|
+|**2025-06-16**|**Gradient-Normalized Smoothness for Optimization with Approximate Hessians**|Andrei Semenov et.al.|[2506.13710v1](http://arxiv.org/abs/2506.13710v1)|**2025-06-16**|null|
+|**2025-06-16**|**Value-Free Policy Optimization via Reward Partitioning**|Bilal Faye et.al.|[2506.13702v1](http://arxiv.org/abs/2506.13702v1)|**2025-06-16**|null|
+|**2025-06-16**|**Infall-driven gravitational instability in accretion discs**|Cristiano Longarini et.al.|[2506.13701v1](http://arxiv.org/abs/2506.13701v1)|**2025-06-16**|null|
+|**2025-06-16**|**Observing the Birth of Rydberg Exciton Fermi Polarons on a Moire Fermi Sea**|Eric A. Arsenault et.al.|[2506.13683v1](http://arxiv.org/abs/2506.13683v1)|**2025-06-16**|null|
+|**2025-06-16**|**ROSA: Harnessing Robot States for Vision-Language and Action Alignment**|Yuqing Wen et.al.|[2506.13679v1](http://arxiv.org/abs/2506.13679v1)|**2025-06-16**|null|
+|**2025-06-16**|**The Courage to Stop: Overcoming Sunk Cost Fallacy in Deep Reinforcement Learning**|Jiashun Liu et.al.|[2506.13672v1](http://arxiv.org/abs/2506.13672v1)|**2025-06-16**|null|
+|**2025-06-16**|**Supernova explosions of runaway stars and young neutron stars above the Galactic plane**|Vinka Dakić et.al.|[2506.13660v1](http://arxiv.org/abs/2506.13660v1)|**2025-06-16**|null|
+|**2025-06-16**|**Adversarial Disentanglement by Backpropagation with Physics-Informed Variational Autoencoder**|Ioannis Christoforos Koune et.al.|[2506.13658v1](http://arxiv.org/abs/2506.13658v1)|**2025-06-16**|null|
+|**2025-06-16**|**Lecture Video Visual Objects (LVVO) Dataset: A Benchmark for Visual Object Detection in Educational Videos**|Dipayan Biswas et.al.|[2506.13657v1](http://arxiv.org/abs/2506.13657v1)|**2025-06-16**|[link](https://github.com/dipayan1109033/edu-video-visual-detection)|
+|**2025-06-16**|**xbench: Tracking Agents Productivity Scaling with Profession-Aligned Real-World Evaluations**|Kaiyuan Chen et.al.|[2506.13651v1](http://arxiv.org/abs/2506.13651v1)|**2025-06-16**|null|
+|**2025-06-16**|**Towards fault-tolerant quantum computation with universal continuous-variable gates**|Sheron Blair et.al.|[2506.13643v1](http://arxiv.org/abs/2506.13643v1)|**2025-06-16**|null|
+|**2025-06-16**|**EvolvTrip: Enhancing Literary Character Understanding with Temporal Theory-of-Mind Graphs**|Bohao Yang et.al.|[2506.13641v1](http://arxiv.org/abs/2506.13641v1)|**2025-06-16**|null|
+|**2025-06-16**|**KRIOS: A new basis-expansion $N$-body code for collisional stellar dynamics**|Kerwann Tep et.al.|[2506.13636v1](http://arxiv.org/abs/2506.13636v1)|**2025-06-16**|null|
+|**2025-06-16**|**FreeQ-Graph: Free-form Querying with Semantic Consistent Scene Graph for 3D Scene Understanding**|Chenlu Zhan et.al.|[2506.13629v1](http://arxiv.org/abs/2506.13629v1)|**2025-06-16**|null|
+|**2025-06-16**|**Disturbance-aware minimum-time planning strategies for motorsport vehicles with probabilistic safety certificates**|Martino Gulisano et.al.|[2506.13622v1](http://arxiv.org/abs/2506.13622v1)|**2025-06-16**|null|
+|**2025-06-16**|**High-expressibility Quantum Neural Networks using only classical resources**|Marco Maronese et.al.|[2506.13605v1](http://arxiv.org/abs/2506.13605v1)|**2025-06-16**|null|
+|**2025-06-16**|**Persistent Homology of Music Network with Three Different Distances**|Eunwoo Heo et.al.|[2506.13595v1](http://arxiv.org/abs/2506.13595v1)|**2025-06-16**|null|
+|**2025-06-16**|**Dive3D: Diverse Distillation-based Text-to-3D Generation via Score Implicit Matching**|Weimin Bai et.al.|[2506.13594v1](http://arxiv.org/abs/2506.13594v1)|**2025-06-16**|null|
+|**2025-06-16**|**Calibrated Predictive Lower Bounds on Time-to-Unsafe-Sampling in LLMs**|Hen Davidov et.al.|[2506.13593v1](http://arxiv.org/abs/2506.13593v1)|**2025-06-16**|null|
+|**2025-06-16**|**Planetary waves can activate resonant drag instabilities in 3D dusty gaseous discs**|Raúl O. Chametla et.al.|[2506.13592v1](http://arxiv.org/abs/2506.13592v1)|**2025-06-16**|null|
+|**2025-06-16**|**From Data-Driven to Purpose-Driven Artificial Intelligence: Systems Thinking for Data-Analytic Automation of Patient Care**|Daniel Anadria et.al.|[2506.13584v1](http://arxiv.org/abs/2506.13584v1)|**2025-06-16**|null|

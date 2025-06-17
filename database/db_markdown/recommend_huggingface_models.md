@@ -40,6 +40,7 @@ Updated on 2025-06-17
 | 78 | 3 | VARGPT-family/VARGPT_LLaVA-v1Any-to-Any | UpdatedJan 23 | [Link](https://huggingface.co/VARGPT-family/VARGPT_LLaVA-v1) |
 | 2 | 3 | impactframes/Janus-1 | UpdatedOct 19, 2024 | [Link](https://huggingface.co/impactframes/Janus-1.3B) |
 | 136 | 3 | OmniGen2/OmniGen2Any-to-Any | Updatedabout 13 hours ago | [Link](https://huggingface.co/OmniGen2/OmniGen2) |
+| 3 | 3 | ICTNLP/stream-omni-8bAny-to-Any | Updatedabout 4 hours ago | [Link](https://huggingface.co/ICTNLP/stream-omni-8b) |
 | 47 | 2 | PKU-Alignment/AnyRewardModelAny-to-Any | UpdatedDec 28, 2024 | [Link](https://huggingface.co/PKU-Alignment/AnyRewardModel) |
 | 585 | 2 | wnma3mz/Janus-Pro-1B-4bitAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/wnma3mz/Janus-Pro-1B-4bit) |
 | 3 | 2 | lintw/HealthGPT-XL32Any-to-Any | Updatedabout 18 hours ago | [Link](https://huggingface.co/lintw/HealthGPT-XL32) |
@@ -2128,6 +2129,7 @@ Updated on 2025-06-17
 | 221 | 2 | mradermacher/EraX-VL-7B-V1 | Updatedabout 15 hours ago | [Link](https://huggingface.co/mradermacher/EraX-VL-7B-V1.5-GGUF) |
 | 104 | 2 | alecccdd/qwen2-VL-7B-Captioner-Relaxed-Q4_K_M-GGUFImage-to-Text | UpdatedJan 22 | [Link](https://huggingface.co/alecccdd/qwen2-VL-7B-Captioner-Relaxed-Q4_K_M-GGUF) |
 | 114 | 2 | paudelanil/trocr-devanagari-2Image-to-Text | UpdatedOct 7, 2024 | [Link](https://huggingface.co/paudelanil/trocr-devanagari-2) |
+| 96 | 2 | cxfajar197/urdu-ocrImage-to-Text | UpdatedNov 26, 2024 | [Link](https://huggingface.co/cxfajar197/urdu-ocr) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -3647,6 +3649,7 @@ Updated on 2025-06-17
 | 6.18k | 156 | google/medgemma-27b-text-itText | Updated18 minutes ago | [Link](https://huggingface.co/google/medgemma-27b-text-it) |
 | 2.25k | 153 | open-thoughts/OpenThinker-32BText | Updated11 days ago | [Link](https://huggingface.co/open-thoughts/OpenThinker-32B) |
 | 38 | 143 | qihoo360/TinyR1-32B-PreviewText | Updatedabout 17 hours ago | [Link](https://huggingface.co/qihoo360/TinyR1-32B-Preview) |
+| 324 | 133 | moonshotai/Kimi-Dev-72BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-Dev-72B) |
 | 176 | 109 | nvidia/DeepSeek-R1-FP4Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/nvidia/DeepSeek-R1-FP4) |
 | 3 | 107 | MiniMaxAI/MiniMax-M1-80kText | Updatedabout 10 hours ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M1-80k) |
 | 683 | 104 | Tongyi-Zhiwen/QwenLong-L1-32BText | Updatedabout 5 hours ago | [Link](https://huggingface.co/Tongyi-Zhiwen/QwenLong-L1-32B) |

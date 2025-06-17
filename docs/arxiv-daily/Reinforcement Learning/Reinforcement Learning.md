@@ -2,33 +2,33 @@
 ### Reinforcement Learning
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-13**|**Schema-R1: A reasoning training approach for schema linking in Text-to-SQL Task**|Wuzhenghong Wen et.al.|[2506.11986v1](http://arxiv.org/abs/2506.11986v1)|**2025-06-13**|null|
-|**2025-06-13**|**Self-Regulating Cars: Automating Traffic Control in Free Flow Road Networks**|Ankit Bhardwaj et.al.|[2506.11973v1](http://arxiv.org/abs/2506.11973v1)|**2025-06-13**|null|
-|**2025-06-13**|**Visual Pre-Training on Unlabeled Images using Reinforcement Learning**|Dibya Ghosh et.al.|[2506.11967v1](http://arxiv.org/abs/2506.11967v1)|**2025-06-13**|null|
-|**2025-06-13**|**Automated Treatment Planning for Interstitial HDR Brachytherapy for Locally Advanced Cervical Cancer using Deep Reinforcement Learning**|Mohammadamin Moradi et.al.|[2506.11957v1](http://arxiv.org/abs/2506.11957v1)|**2025-06-13**|null|
-|**2025-06-13**|**Breaking Habits: On the Role of the Advantage Function in Learning Causal State Representations**|Miguel Suau et.al.|[2506.11912v1](http://arxiv.org/abs/2506.11912v1)|**2025-06-13**|null|
-|**2025-06-13**|**Palpation Alters Auditory Pain Expressions with Gender-Specific Variations in Robopatients**|Chapa Sirithunge et.al.|[2506.11906v1](http://arxiv.org/abs/2506.11906v1)|**2025-06-13**|null|
-|**2025-06-13**|**TreeRL: LLM Reinforcement Learning with On-Policy Tree Search**|Zhenyu Hou et.al.|[2506.11902v1](http://arxiv.org/abs/2506.11902v1)|**2025-06-13**|null|
-|**2025-06-13**|**An Explainable AI Framework for Dynamic Resource Management in Vehicular Network Slicing**|Haochen Sun et.al.|[2506.11882v1](http://arxiv.org/abs/2506.11882v1)|**2025-06-13**|null|
-|**2025-06-13**|**LLM-based Dynamic Differential Testing for Database Connectors with Reinforcement Learning-Guided Prompt Selection**|Ce Lyu et.al.|[2506.11870v1](http://arxiv.org/abs/2506.11870v1)|**2025-06-13**|null|
-|**2025-06-13**|**ExoStart: Efficient learning for dexterous manipulation with sensorized exoskeleton demonstrations**|Zilin Si et.al.|[2506.11775v1](http://arxiv.org/abs/2506.11775v1)|**2025-06-13**|null|
-|**2025-06-13**|**Vane rheology of a fiber-reinforced granular material**|Ladislas Wierzchalek et.al.|[2506.11762v1](http://arxiv.org/abs/2506.11762v1)|**2025-06-13**|null|
-|**2025-06-13**|**CIRO7.2: A Material Network with Circularity of -7.2 and Reinforcement-Learning-Controlled Robotic Disassembler**|Federico Zocco et.al.|[2506.11748v1](http://arxiv.org/abs/2506.11748v1)|**2025-06-13**|null|
-|**2025-06-13**|**Dynamic Collaborative Material Distribution System for Intelligent Robots In Smart Manufacturing**|Ziren Xiao et.al.|[2506.11723v1](http://arxiv.org/abs/2506.11723v1)|**2025-06-13**|null|
-|**2025-06-13**|**Generalised Rate Control Approach For Stream Processing Applications**|Ziren Xiao et.al.|[2506.11710v1](http://arxiv.org/abs/2506.11710v1)|**2025-06-13**|null|
-|**2025-06-13**|**Growing with Experience: Growing Neural Networks in Deep Reinforcement Learning**|Lukas Fehring et.al.|[2506.11706v1](http://arxiv.org/abs/2506.11706v1)|**2025-06-13**|null|
-|**2025-06-13**|**HeII emitters in the cosmic noon and beyond. Characterising the HeII λ1640 emission with MUSE and JWST/NIRSpec**|R. Gonz'alez-D'iaz et.al.|[2506.11685v1](http://arxiv.org/abs/2506.11685v1)|**2025-06-13**|null|
-|**2025-06-13**|**Can the Oxygen $2p$ Band Be Hole Doped?**|Thi Ngoc Huyen Vu et.al.|[2506.11619v1](http://arxiv.org/abs/2506.11619v1)|**2025-06-13**|null|
-|**2025-06-13**|**TongSearch-QR: Reinforced Query Reasoning for Retrieval**|Xubo Qin et.al.|[2506.11603v2](http://arxiv.org/abs/2506.11603v2)|**2025-06-16**|null|
-|**2025-06-13**|**EasyARC: Evaluating Vision Language Models on True Visual Reasoning**|Mert Unsal et.al.|[2506.11595v1](http://arxiv.org/abs/2506.11595v1)|**2025-06-13**|null|
-|**2025-06-13**|**Preserving Clusters in Prompt Learning for Unsupervised Domain Adaptation**|Tung-Long Vuong et.al.|[2506.11493v1](http://arxiv.org/abs/2506.11493v1)|**2025-06-13**|null|
-|**2025-06-13**|**Reviving DSP for Advanced Theorem Proving in the Era of Reasoning Models**|Chenrui Cao et.al.|[2506.11487v1](http://arxiv.org/abs/2506.11487v1)|**2025-06-13**|null|
-|**2025-06-13**|**VulStamp: Vulnerability Assessment using Large Language Model**|Haoshen et.al.|[2506.11484v1](http://arxiv.org/abs/2506.11484v1)|**2025-06-13**|null|
-|**2025-06-13**|**LearnAlign: Reasoning Data Selection for Reinforcement Learning in Large Language Models Based on Improved Gradient Alignment**|Shikun Li et.al.|[2506.11480v1](http://arxiv.org/abs/2506.11480v1)|**2025-06-13**|null|
-|**2025-06-13**|**Multi-Loco: Unifying Multi-Embodiment Legged Locomotion via Reinforcement Learning Augmented Diffusion**|Shunpeng Yang et.al.|[2506.11470v1](http://arxiv.org/abs/2506.11470v1)|**2025-06-13**|null|
-|**2025-06-13**|**RollingQ: Reviving the Cooperation Dynamics in Multimodal Transformer**|Haotian Ni et.al.|[2506.11465v1](http://arxiv.org/abs/2506.11465v1)|**2025-06-13**|null|
-|**2025-06-13**|**Resolve Highway Conflict in Multi-Autonomous Vehicle Controls with Local State Attention**|Xuan Duy Ta et.al.|[2506.11445v1](http://arxiv.org/abs/2506.11445v1)|**2025-06-13**|null|
-|**2025-06-13**|**ReVeal: Self-Evolving Code Agents via Iterative Generation-Verification**|Yiyang Jin et.al.|[2506.11442v1](http://arxiv.org/abs/2506.11442v1)|**2025-06-13**|null|
-|**2025-06-13**|**Agent-RLVR: Training Software Engineering Agents via Guidance and Environment Rewards**|Jeff Da et.al.|[2506.11425v1](http://arxiv.org/abs/2506.11425v1)|**2025-06-13**|null|
-|**2025-06-12**|**Shapley Machine: A Game-Theoretic Framework for N-Agent Ad Hoc Teamwork**|Jianhong Wang et.al.|[2506.11285v1](http://arxiv.org/abs/2506.11285v1)|**2025-06-12**|null|
-|**2025-06-12**|**Learning a Continue-Thinking Token for Enhanced Test-Time Scaling**|Liran Ringel et.al.|[2506.11274v1](http://arxiv.org/abs/2506.11274v1)|**2025-06-12**|null|
+|**2025-06-16**|**Touch begins where vision ends: Generalizable policies for contact-rich manipulation**|Zifan Zhao et.al.|[2506.13762v1](http://arxiv.org/abs/2506.13762v1)|**2025-06-16**|null|
+|**2025-06-16**|**AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**|Zewei Zhou et.al.|[2506.13757v1](http://arxiv.org/abs/2506.13757v1)|**2025-06-16**|null|
+|**2025-06-16**|**MARCO: Hardware-Aware Neural Architecture Search for Edge Devices with Multi-Agent Reinforcement Learning and Conformal Prediction Filtering**|Arya Fayyazi et.al.|[2506.13755v1](http://arxiv.org/abs/2506.13755v1)|**2025-06-16**|null|
+|**2025-06-16**|**LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction**|Haoru Xue et.al.|[2506.13751v1](http://arxiv.org/abs/2506.13751v1)|**2025-06-16**|null|
+|**2025-06-16**|**PB$^2$: Preference Space Exploration via Population-Based Methods in Preference-Based Reinforcement Learning**|Brahim Driss et.al.|[2506.13741v1](http://arxiv.org/abs/2506.13741v1)|**2025-06-16**|null|
+|**2025-06-16**|**TimeMaster: Training Time-Series Multimodal LLMs to Reason via Reinforcement Learning**|Junru Zhang et.al.|[2506.13705v1](http://arxiv.org/abs/2506.13705v1)|**2025-06-16**|null|
+|**2025-06-16**|**Value-Free Policy Optimization via Reward Partitioning**|Bilal Faye et.al.|[2506.13702v1](http://arxiv.org/abs/2506.13702v1)|**2025-06-16**|null|
+|**2025-06-16**|**OneRec Technical Report**|Guorui Zhou et.al.|[2506.13695v1](http://arxiv.org/abs/2506.13695v1)|**2025-06-16**|null|
+|**2025-06-16**|**Meta-learning how to Share Credit among Macro-Actions**|Ionel-Alexandru Hosu et.al.|[2506.13690v1](http://arxiv.org/abs/2506.13690v1)|**2025-06-16**|null|
+|**2025-06-16**|**The Courage to Stop: Overcoming Sunk Cost Fallacy in Deep Reinforcement Learning**|Jiashun Liu et.al.|[2506.13672v1](http://arxiv.org/abs/2506.13672v1)|**2025-06-16**|null|
+|**2025-06-16**|**We Should Identify and Mitigate Third-Party Safety Risks in MCP-Powered Agent Systems**|Junfeng Fang et.al.|[2506.13666v1](http://arxiv.org/abs/2506.13666v1)|**2025-06-16**|null|
+|**2025-06-16**|**Ego-R1: Chain-of-Tool-Thought for Ultra-Long Egocentric Video Reasoning**|Shulin Tian et.al.|[2506.13654v1](http://arxiv.org/abs/2506.13654v1)|**2025-06-16**|null|
+|**2025-06-16**|**MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention**|MiniMax et.al.|[2506.13585v1](http://arxiv.org/abs/2506.13585v1)|**2025-06-16**|null|
+|**2025-06-16**|**Can you see how I learn? Human observers' inferences about Reinforcement Learning agents' learning processes**|Bernhard Hilpert et.al.|[2506.13583v1](http://arxiv.org/abs/2506.13583v1)|**2025-06-16**|null|
+|**2025-06-16**|**A Production Scheduling Framework for Reinforcement Learning Under Real-World Constraints**|Jonathan Hoss et.al.|[2506.13566v1](http://arxiv.org/abs/2506.13566v1)|**2025-06-16**|null|
+|**2025-06-16**|**Joint analysis of reactor and accelerator CE$ν$NS data on germanium: implications for the Standard Model and nuclear physics**|M. Atzori Corona et.al.|[2506.13555v1](http://arxiv.org/abs/2506.13555v1)|**2025-06-16**|null|
+|**2025-06-16**|**Learning Swing-up Maneuvers for a Suspended Aerial Manipulation Platform in a Hierarchical Control Framework**|Hemjyoti Das et.al.|[2506.13478v1](http://arxiv.org/abs/2506.13478v1)|**2025-06-16**|null|
+|**2025-06-16**|**Language Agents for Hypothesis-driven Clinical Decision Making with Reinforcement Learning**|David Bani-Harouni et.al.|[2506.13474v1](http://arxiv.org/abs/2506.13474v1)|**2025-06-16**|null|
+|**2025-06-16**|**A Two-stage Optimization Method for Wide-range Single-electron Quantum Magnetic Sensing**|Shiqian Guo et.al.|[2506.13469v1](http://arxiv.org/abs/2506.13469v1)|**2025-06-16**|null|
+|**2025-06-16**|**A Technical Study into Small Reasoning Language Models**|Xialie Zhuang et.al.|[2506.13404v1](http://arxiv.org/abs/2506.13404v1)|**2025-06-16**|null|
+|**2025-06-16**|**Efficient Medical VIE via Reinforcement Learning**|Lijun Liu et.al.|[2506.13363v1](http://arxiv.org/abs/2506.13363v1)|**2025-06-16**|null|
+|**2025-06-16**|**Socratic RL: A Novel Framework for Efficient Knowledge Acquisition through Iterative Reflection and Viewpoint Distillation**|Xiangfan Wu et.al.|[2506.13358v1](http://arxiv.org/abs/2506.13358v1)|**2025-06-16**|null|
+|**2025-06-16**|**Direct Reasoning Optimization: LLMs Can Reward And Refine Their Own Reasoning for Open-Ended Tasks**|Yifei Xu et.al.|[2506.13351v1](http://arxiv.org/abs/2506.13351v1)|**2025-06-16**|null|
+|**2025-06-16**|**Learning to Explore in Diverse Reward Settings via Temporal-Difference-Error Maximization**|Sebastian Griesbach et.al.|[2506.13345v1](http://arxiv.org/abs/2506.13345v1)|**2025-06-16**|null|
+|**2025-06-16**|**Active Multimodal Distillation for Few-shot Action Recognition**|Weijia Feng et.al.|[2506.13322v1](http://arxiv.org/abs/2506.13322v1)|**2025-06-16**|null|
+|**2025-06-16**|**Seewo's Submission to MLC-SLM: Lessons learned from Speech Reasoning Language Models**|Bo Li et.al.|[2506.13300v1](http://arxiv.org/abs/2506.13300v1)|**2025-06-16**|null|
+|**2025-06-16**|**Fair Generation without Unfair Distortions: Debiasing Text-to-Image Generation with Entanglement-Free Attention**|Jeonghoon Park et.al.|[2506.13298v1](http://arxiv.org/abs/2506.13298v1)|**2025-06-16**|null|
+|**2025-06-16**|**AceReason-Nemotron 1.1: Advancing Math and Code Reasoning through SFT and RL Synergy**|Zihan Liu et.al.|[2506.13284v1](http://arxiv.org/abs/2506.13284v1)|**2025-06-16**|null|
+|**2025-06-16**|**RL-Guided MPC for Autonomous Greenhouse Control**|Salim Msaad et.al.|[2506.13278v1](http://arxiv.org/abs/2506.13278v1)|**2025-06-16**|null|
+|**2025-06-16**|**Reconstruction-free magnetic control of DIII-D plasma with deep reinforcement learning**|G. F. Subbotin et.al.|[2506.13267v1](http://arxiv.org/abs/2506.13267v1)|**2025-06-16**|null|
