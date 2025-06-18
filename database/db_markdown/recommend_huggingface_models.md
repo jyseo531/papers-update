@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-06-17
+Updated on 2025-06-18
 
 > Generated from the Hugging Face database.
 
@@ -3780,6 +3780,7 @@ Updated on 2025-06-17
 | 737 | 24 | nvidia/Nemotron-H-56B-Base-8KText | Updated3 days ago | [Link](https://huggingface.co/nvidia/Nemotron-H-56B-Base-8K) |
 | 433 | 24 | dreamgen/lucid-v1-nemoText | Updatedabout 17 hours ago | [Link](https://huggingface.co/dreamgen/lucid-v1-nemo) |
 | 7 | 24 | Qwen/Qwen3-Embedding-4BText | Updatedabout 10 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-Embedding-4B) |
+| 11 | 24 | nvidia/AceReason-Nemotron-1 | Updatedabout 20 hours ago | [Link](https://huggingface.co/nvidia/AceReason-Nemotron-1.1-7B) |
 | 10.3k | 23 | unsloth/Phi-4-mini-instruct-GGUFText | Updated4 days ago | [Link](https://huggingface.co/unsloth/Phi-4-mini-instruct-GGUF) |
 | 26.8k | 23 | lmstudio-community/QwQ-32B-GGUFText | Updated1 day ago | [Link](https://huggingface.co/lmstudio-community/QwQ-32B-GGUF) |
 | 1.47k | 23 | NousResearch/DeepHermes-3-Llama-3-3B-PreviewText | Updated4 days ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-3B-Preview) |
@@ -3797,6 +3798,7 @@ Updated on 2025-06-17
 | 106 | 21 | inclusionAI/Ring-lite-distill-previewText | Updated12 days ago | [Link](https://huggingface.co/inclusionAI/Ring-lite-distill-preview) |
 | 335 | 20 | google/txgemma-27b-chatText | Updated2 days ago | [Link](https://huggingface.co/google/txgemma-27b-chat) |
 | 473 | 20 | google/txgemma-9b-chatText | Updated4 days ago | [Link](https://huggingface.co/google/txgemma-9b-chat) |
+| 15 | 20 | Intelligent-Internet/II-Medical-8B-1706Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/Intelligent-Internet/II-Medical-8B-1706) |
 | 14.1k | 19 | alamios/Mistral-Small-3 | Updated10 days ago | [Link](https://huggingface.co/alamios/Mistral-Small-3.1-DRAFT-0.5B) |
 | 358 | 19 | all-hands/openhands-lm-7b-v0 | Updated1 day ago | [Link](https://huggingface.co/all-hands/openhands-lm-7b-v0.1) |
 | 105 | 19 | nvidia/OpenCodeReasoning-Nemotron-32B-IOIText | Updated6 days ago | [Link](https://huggingface.co/nvidia/OpenCodeReasoning-Nemotron-32B-IOI) |
@@ -4311,6 +4313,7 @@ Updated on 2025-06-17
 | 276 |  | strangerzonehf/Flux-Isometric-3D-LoRAText-to-Image | UpdatedNov 24, 2024 | [Link](https://huggingface.co/strangerzonehf/Flux-Isometric-3D-LoRA) |
 | 5 | Unknown | rocca/chroma-nunchaku-testText-to-Image | Updated10 days ago | [Link](https://huggingface.co/rocca/chroma-nunchaku-test) |
 | 12.1k |  | strangerzonehf/Flux-Ultimate-LoRA-CollectionText-to-Image | Updated1 day ago | [Link](https://huggingface.co/strangerzonehf/Flux-Ultimate-LoRA-Collection) |
+| 506 |  | multimodalart/flux-tarot-v1Text-to-Image | UpdatedAug 16, 2024 | [Link](https://huggingface.co/multimodalart/flux-tarot-v1) |
 
 ## Text-to-Speech
 
@@ -4378,6 +4381,7 @@ Updated on 2025-06-17
 | 27 | 7 | canopylabs/3b-hi-ft-research_releaseText-to-Speech | Updatedabout 23 hours ago | [Link](https://huggingface.co/canopylabs/3b-hi-ft-research_release) |
 | 13 | 6 | ntdgo/ttsviText-to-Speech | UpdatedApr 17, 2024 | [Link](https://huggingface.co/ntdgo/ttsvi) |
 | 29 | 6 | erax-ai/EraX-Smile-UnixSex-F5Text-to-Speech | Updatedabout 8 hours ago | [Link](https://huggingface.co/erax-ai/EraX-Smile-UnixSex-F5) |
+| 29 | 6 | ICTNLP/SLED-TTS-Streaming-LibriheavyText-to-Speech | Updatedabout 18 hours ago | [Link](https://huggingface.co/ICTNLP/SLED-TTS-Streaming-Libriheavy) |
 | 87 | 5 | lunahr/csm-1b-safetensors-quantsText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-quants) |
 | 26 | 5 | 2121-8/canary-tts-0 | Updatedabout 19 hours ago | [Link](https://huggingface.co/2121-8/canary-tts-0.5b) |
 | 12 | 5 | MYZY-AI/Muyan-TTS-SFTText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/MYZY-AI/Muyan-TTS-SFT) |

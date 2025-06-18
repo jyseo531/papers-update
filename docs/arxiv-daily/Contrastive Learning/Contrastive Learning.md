@@ -8,7 +8,7 @@
 |**2025-06-16**|**AI reconstruction of European weather from the Euro-Atlantic regimes**|A. Camilletti et.al.|[2506.13758v1](http://arxiv.org/abs/2506.13758v1)|**2025-06-16**|null|
 |**2025-06-16**|**UltraZoom: Generating Gigapixel Images from Regular Photos**|Jingwei Ma et.al.|[2506.13756v1](http://arxiv.org/abs/2506.13756v1)|**2025-06-16**|null|
 |**2025-06-16**|**MARCO: Hardware-Aware Neural Architecture Search for Edge Devices with Multi-Agent Reinforcement Learning and Conformal Prediction Filtering**|Arya Fayyazi et.al.|[2506.13755v1](http://arxiv.org/abs/2506.13755v1)|**2025-06-16**|null|
-|**2025-06-16**|**VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models**|Edward Li et.al.|[2506.13754v1](http://arxiv.org/abs/2506.13754v1)|**2025-06-16**|null|
+|**2025-06-16**|**VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models**|Edward Li et.al.|[2506.13754v2](http://arxiv.org/abs/2506.13754v2)|**2025-06-17**|null|
 |**2025-06-16**|**LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction**|Haoru Xue et.al.|[2506.13751v1](http://arxiv.org/abs/2506.13751v1)|**2025-06-16**|null|
 |**2025-06-16**|**Test3R: Learning to Reconstruct 3D at Test Time**|Yuheng Yuan et.al.|[2506.13750v1](http://arxiv.org/abs/2506.13750v1)|**2025-06-16**|null|
 |**2025-06-16**|**Evaluating Large Language Models for Phishing Detection, Self-Consistency, Faithfulness, and Explainability**|Shova Kuikel et.al.|[2506.13746v1](http://arxiv.org/abs/2506.13746v1)|**2025-06-16**|null|

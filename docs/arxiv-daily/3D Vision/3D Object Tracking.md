@@ -19,7 +19,7 @@
 |**2025-06-16**|**The Courage to Stop: Overcoming Sunk Cost Fallacy in Deep Reinforcement Learning**|Jiashun Liu et.al.|[2506.13672v1](http://arxiv.org/abs/2506.13672v1)|**2025-06-16**|null|
 |**2025-06-16**|**Supernova explosions of runaway stars and young neutron stars above the Galactic plane**|Vinka Dakić et.al.|[2506.13660v1](http://arxiv.org/abs/2506.13660v1)|**2025-06-16**|null|
 |**2025-06-16**|**Adversarial Disentanglement by Backpropagation with Physics-Informed Variational Autoencoder**|Ioannis Christoforos Koune et.al.|[2506.13658v1](http://arxiv.org/abs/2506.13658v1)|**2025-06-16**|null|
-|**2025-06-16**|**Lecture Video Visual Objects (LVVO) Dataset: A Benchmark for Visual Object Detection in Educational Videos**|Dipayan Biswas et.al.|[2506.13657v1](http://arxiv.org/abs/2506.13657v1)|**2025-06-16**|[link](https://github.com/dipayan1109033/edu-video-visual-detection)|
+|**2025-06-16**|**Lecture Video Visual Objects (LVVO) Dataset: A Benchmark for Visual Object Detection in Educational Videos**|Dipayan Biswas et.al.|[2506.13657v2](http://arxiv.org/abs/2506.13657v2)|**2025-06-17**|[link](https://github.com/dipayan1109033/edu-video-visual-detection)|
 |**2025-06-16**|**xbench: Tracking Agents Productivity Scaling with Profession-Aligned Real-World Evaluations**|Kaiyuan Chen et.al.|[2506.13651v1](http://arxiv.org/abs/2506.13651v1)|**2025-06-16**|null|
 |**2025-06-16**|**Towards fault-tolerant quantum computation with universal continuous-variable gates**|Sheron Blair et.al.|[2506.13643v1](http://arxiv.org/abs/2506.13643v1)|**2025-06-16**|null|
 |**2025-06-16**|**EvolvTrip: Enhancing Literary Character Understanding with Temporal Theory-of-Mind Graphs**|Bohao Yang et.al.|[2506.13641v1](http://arxiv.org/abs/2506.13641v1)|**2025-06-16**|null|

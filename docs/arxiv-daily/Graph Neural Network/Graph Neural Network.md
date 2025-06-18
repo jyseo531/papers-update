@@ -13,17 +13,17 @@
 |**2025-06-16**|**Enforcing tail calibration when training probabilistic forecast models**|Jakob Benjamin Wessel et.al.|[2506.13687v1](http://arxiv.org/abs/2506.13687v1)|**2025-06-16**|null|
 |**2025-06-16**|**A Gravity-informed Spatiotemporal Transformer for Human Activity Intensity Prediction**|Yi Wang et.al.|[2506.13678v1](http://arxiv.org/abs/2506.13678v1)|**2025-06-16**|null|
 |**2025-06-16**|**Viscosity, breakdown of Stokes-Einstein relation and dynamical heterogeneity in supercooled liquid Ge 2 Sb 2 Te 5 from simulations with a neural network potential**|Simone Marcorini et.al.|[2506.13668v1](http://arxiv.org/abs/2506.13668v1)|**2025-06-16**|null|
-|**2025-06-16**|**Counting homomorphisms in antiferromagnetic graphs via Lorentzian polynomials**|Joonkyung Lee et.al.|[2506.13659v1](http://arxiv.org/abs/2506.13659v1)|**2025-06-16**|null|
-|**2025-06-16**|**Lecture Video Visual Objects (LVVO) Dataset: A Benchmark for Visual Object Detection in Educational Videos**|Dipayan Biswas et.al.|[2506.13657v1](http://arxiv.org/abs/2506.13657v1)|**2025-06-16**|[link](https://github.com/dipayan1109033/edu-video-visual-detection)|
+|**2025-06-16**|**Counting homomorphisms in antiferromagnetic graphs via Lorentzian polynomials**|Joonkyung Lee et.al.|[2506.13659v2](http://arxiv.org/abs/2506.13659v2)|**2025-06-17**|null|
+|**2025-06-16**|**Lecture Video Visual Objects (LVVO) Dataset: A Benchmark for Visual Object Detection in Educational Videos**|Dipayan Biswas et.al.|[2506.13657v2](http://arxiv.org/abs/2506.13657v2)|**2025-06-17**|[link](https://github.com/dipayan1109033/edu-video-visual-detection)|
 |**2025-06-16**|**PeakWeather: MeteoSwiss Weather Station Measurements for Spatiotemporal Deep Learning**|Daniele Zambon et.al.|[2506.13652v1](http://arxiv.org/abs/2506.13652v1)|**2025-06-16**|[link](https://github.com/Graph-Machine-Learning-Group/peakweather-wind-forecasting)|
 |**2025-06-16**|**Constitutive Manifold Neural Networks**|Wouter J. Schuttert et.al.|[2506.13648v1](http://arxiv.org/abs/2506.13648v1)|**2025-06-16**|null|
 |**2025-06-16**|**EvolvTrip: Enhancing Literary Character Understanding with Temporal Theory-of-Mind Graphs**|Bohao Yang et.al.|[2506.13641v1](http://arxiv.org/abs/2506.13641v1)|**2025-06-16**|null|
 |**2025-06-16**|**Global Convergence of Adjoint-Optimized Neural PDEs**|Konstantin Riedl et.al.|[2506.13633v1](http://arxiv.org/abs/2506.13633v1)|**2025-06-16**|null|
 |**2025-06-16**|**FreeQ-Graph: Free-form Querying with Semantic Consistent Scene Graph for 3D Scene Understanding**|Chenlu Zhan et.al.|[2506.13629v1](http://arxiv.org/abs/2506.13629v1)|**2025-06-16**|null|
-|**2025-06-16**|**Graph-Convolution-Beta-VAE for Synthetic Abdominal Aorta Aneurysm Generation**|Francesco Fabbri et.al.|[2506.13628v1](http://arxiv.org/abs/2506.13628v1)|**2025-06-16**|null|
+|**2025-06-16**|**Graph-Convolutional-Beta-VAE for Synthetic Abdominal Aorta Aneurysm Generation**|Francesco Fabbri et.al.|[2506.13628v2](http://arxiv.org/abs/2506.13628v2)|**2025-06-17**|null|
 |**2025-06-16**|**Delay-optimal Congestion-aware Routing and Computation Offloading in Arbitrary Network**|Jinkun Zhang et.al.|[2506.13626v1](http://arxiv.org/abs/2506.13626v1)|**2025-06-16**|null|
 |**2025-06-16**|**Blocklet concatenation: Low-overhead fault-tolerant protocols for fusion-based quantum computation**|Daniel Litinski et.al.|[2506.13619v1](http://arxiv.org/abs/2506.13619v1)|**2025-06-16**|null|
-|**2025-06-16**|**Effective Stimulus Propagation in Neural Circuits: Driver Node Selection**|Bulat Batuev et.al.|[2506.13615v1](http://arxiv.org/abs/2506.13615v1)|**2025-06-16**|null|
+|**2025-06-16**|**Effective Stimulus Propagation in Neural Circuits: Driver Node Selection**|Bulat Batuev et.al.|[2506.13615v2](http://arxiv.org/abs/2506.13615v2)|**2025-06-17**|null|
 |**2025-06-16**|**A Hybrid Artificial Intelligence Method for Estimating Flicker in Power Systems**|Javad Enayati et.al.|[2506.13611v1](http://arxiv.org/abs/2506.13611v1)|**2025-06-16**|null|
 |**2025-06-16**|**High-expressibility Quantum Neural Networks using only classical resources**|Marco Maronese et.al.|[2506.13605v1](http://arxiv.org/abs/2506.13605v1)|**2025-06-16**|null|
 |**2025-06-16**|**Persistent Homology of Music Network with Three Different Distances**|Eunwoo Heo et.al.|[2506.13595v1](http://arxiv.org/abs/2506.13595v1)|**2025-06-16**|null|

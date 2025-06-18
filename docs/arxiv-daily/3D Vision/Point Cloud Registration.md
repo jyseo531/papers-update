@@ -16,7 +16,7 @@
 |**2025-06-16**|**Fractional Orlicz-Sobolev embeddings into Campanato type spaces**|Angela Alberico et.al.|[2506.13669v1](http://arxiv.org/abs/2506.13669v1)|**2025-06-16**|null|
 |**2025-06-16**|**Box-Covariances of Hyperuniform Point Processes**|Jonas Jalowy et.al.|[2506.13661v1](http://arxiv.org/abs/2506.13661v1)|**2025-06-16**|null|
 |**2025-06-16**|**A High-Order, Pressure-Robust, and Decoupled Finite Difference Method for the Stokes Problem**|Qiwei Feng et.al.|[2506.13645v1](http://arxiv.org/abs/2506.13645v1)|**2025-06-16**|null|
-|**2025-06-16**|**Searching for topological semi-complete bandgap in elastic truss lattices**|Yiran Hao et.al.|[2506.13601v1](http://arxiv.org/abs/2506.13601v1)|**2025-06-16**|null|
+|**2025-06-16**|**Searching for topological semi-complete bandgap in elastic truss lattices**|Yiran Hao et.al.|[2506.13601v2](http://arxiv.org/abs/2506.13601v2)|**2025-06-17**|null|
 |**2025-06-16**|**CAMS: A CityGPT-Powered Agentic Framework for Urban Human Mobility Simulation**|Yuwei Du et.al.|[2506.13599v1](http://arxiv.org/abs/2506.13599v1)|**2025-06-16**|null|
 |**2025-06-16**|**An integrable deformed Landau-Lifshitz model with particle production?**|Marius de Leeuw et.al.|[2506.13598v1](http://arxiv.org/abs/2506.13598v1)|**2025-06-16**|null|
 |**2025-06-16**|**Persistent Homology of Music Network with Three Different Distances**|Eunwoo Heo et.al.|[2506.13595v1](http://arxiv.org/abs/2506.13595v1)|**2025-06-16**|null|

@@ -16,7 +16,7 @@
 |**2025-06-16**|**Ego-R1: Chain-of-Tool-Thought for Ultra-Long Egocentric Video Reasoning**|Shulin Tian et.al.|[2506.13654v1](http://arxiv.org/abs/2506.13654v1)|**2025-06-16**|null|
 |**2025-06-16**|**MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention**|MiniMax et.al.|[2506.13585v1](http://arxiv.org/abs/2506.13585v1)|**2025-06-16**|null|
 |**2025-06-16**|**Can you see how I learn? Human observers' inferences about Reinforcement Learning agents' learning processes**|Bernhard Hilpert et.al.|[2506.13583v1](http://arxiv.org/abs/2506.13583v1)|**2025-06-16**|null|
-|**2025-06-16**|**A Production Scheduling Framework for Reinforcement Learning Under Real-World Constraints**|Jonathan Hoss et.al.|[2506.13566v1](http://arxiv.org/abs/2506.13566v1)|**2025-06-16**|null|
+|**2025-06-16**|**A Production Scheduling Framework for Reinforcement Learning Under Real-World Constraints**|Jonathan Hoss et.al.|[2506.13566v2](http://arxiv.org/abs/2506.13566v2)|**2025-06-17**|null|
 |**2025-06-16**|**Joint analysis of reactor and accelerator CE$ν$NS data on germanium: implications for the Standard Model and nuclear physics**|M. Atzori Corona et.al.|[2506.13555v1](http://arxiv.org/abs/2506.13555v1)|**2025-06-16**|null|
 |**2025-06-16**|**Learning Swing-up Maneuvers for a Suspended Aerial Manipulation Platform in a Hierarchical Control Framework**|Hemjyoti Das et.al.|[2506.13478v1](http://arxiv.org/abs/2506.13478v1)|**2025-06-16**|null|
 |**2025-06-16**|**Language Agents for Hypothesis-driven Clinical Decision Making with Reinforcement Learning**|David Bani-Harouni et.al.|[2506.13474v1](http://arxiv.org/abs/2506.13474v1)|**2025-06-16**|null|
@@ -27,7 +27,7 @@
 |**2025-06-16**|**Direct Reasoning Optimization: LLMs Can Reward And Refine Their Own Reasoning for Open-Ended Tasks**|Yifei Xu et.al.|[2506.13351v1](http://arxiv.org/abs/2506.13351v1)|**2025-06-16**|null|
 |**2025-06-16**|**Learning to Explore in Diverse Reward Settings via Temporal-Difference-Error Maximization**|Sebastian Griesbach et.al.|[2506.13345v1](http://arxiv.org/abs/2506.13345v1)|**2025-06-16**|null|
 |**2025-06-16**|**Active Multimodal Distillation for Few-shot Action Recognition**|Weijia Feng et.al.|[2506.13322v1](http://arxiv.org/abs/2506.13322v1)|**2025-06-16**|null|
-|**2025-06-16**|**Seewo's Submission to MLC-SLM: Lessons learned from Speech Reasoning Language Models**|Bo Li et.al.|[2506.13300v1](http://arxiv.org/abs/2506.13300v1)|**2025-06-16**|null|
+|**2025-06-16**|**Seewo's Submission to MLC-SLM: Lessons learned from Speech Reasoning Language Models**|Bo Li et.al.|[2506.13300v2](http://arxiv.org/abs/2506.13300v2)|**2025-06-17**|null|
 |**2025-06-16**|**Fair Generation without Unfair Distortions: Debiasing Text-to-Image Generation with Entanglement-Free Attention**|Jeonghoon Park et.al.|[2506.13298v1](http://arxiv.org/abs/2506.13298v1)|**2025-06-16**|null|
 |**2025-06-16**|**AceReason-Nemotron 1.1: Advancing Math and Code Reasoning through SFT and RL Synergy**|Zihan Liu et.al.|[2506.13284v1](http://arxiv.org/abs/2506.13284v1)|**2025-06-16**|null|
 |**2025-06-16**|**RL-Guided MPC for Autonomous Greenhouse Control**|Salim Msaad et.al.|[2506.13278v1](http://arxiv.org/abs/2506.13278v1)|**2025-06-16**|null|
