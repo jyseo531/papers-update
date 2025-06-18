@@ -1647,6 +1647,7 @@ Updated on 2025-06-18
 | 112k | 395 | HuggingFaceTB/SmolVLM-InstructImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-Instruct) |
 | 860k | 376 | Salesforce/blip2-opt-2 | UpdatedFeb 3 | [Link](https://huggingface.co/Salesforce/blip2-opt-2.7b) |
 | 17.9k | 287 | deepseek-ai/deepseek-vl2Image-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2) |
+| 26.4k | 267 | MiniMaxAI/MiniMax-VL-01Image-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-VL-01) |
 | 353k | 236 | microsoft/Florence-2-baseImage-Text-to-Text | UpdatedNov 4, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-base) |
 | 7.06k | 180 | meta-llama/Llama-4-Scout-17B-16E-InstructImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct) |
 | 116 | 167 | google/gemma-3-27b-itImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-it) |
