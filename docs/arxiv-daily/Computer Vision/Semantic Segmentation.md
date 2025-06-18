@@ -2,33 +2,33 @@
 ### Semantic Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-16**|**Touch begins where vision ends: Generalizable policies for contact-rich manipulation**|Zifan Zhao et.al.|[2506.13762v1](http://arxiv.org/abs/2506.13762v1)|**2025-06-16**|null|
-|**2025-06-16**|**Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins**|Chuanruo Ning et.al.|[2506.13761v1](http://arxiv.org/abs/2506.13761v1)|**2025-06-16**|null|
-|**2025-06-16**|**AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**|Zewei Zhou et.al.|[2506.13757v1](http://arxiv.org/abs/2506.13757v1)|**2025-06-16**|null|
-|**2025-06-16**|**LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction**|Haoru Xue et.al.|[2506.13751v1](http://arxiv.org/abs/2506.13751v1)|**2025-06-16**|null|
-|**2025-06-16**|**PB$^2$: Preference Space Exploration via Population-Based Methods in Preference-Based Reinforcement Learning**|Brahim Driss et.al.|[2506.13741v1](http://arxiv.org/abs/2506.13741v1)|**2025-06-16**|null|
-|**2025-06-16**|**ExtendAttack: Attacking Servers of LRMs via Extending Reasoning**|Zhenhao Zhu et.al.|[2506.13737v1](http://arxiv.org/abs/2506.13737v1)|**2025-06-16**|null|
-|**2025-06-16**|**OTFusion: Bridging Vision-only and Vision-Language Models via Optimal Transport for Transductive Zero-Shot Learning**|Qiyu Xu et.al.|[2506.13723v1](http://arxiv.org/abs/2506.13723v1)|**2025-06-16**|null|
-|**2025-06-16**|**POPQC: Parallel Optimization for Quantum Circuits (Extended Version)**|Pengyu Liu et.al.|[2506.13720v1](http://arxiv.org/abs/2506.13720v1)|**2025-06-16**|null|
-|**2025-06-16**|**TimeMaster: Training Time-Series Multimodal LLMs to Reason via Reinforcement Learning**|Junru Zhang et.al.|[2506.13705v1](http://arxiv.org/abs/2506.13705v1)|**2025-06-16**|null|
-|**2025-06-16**|**ROSA: Harnessing Robot States for Vision-Language and Action Alignment**|Yuqing Wen et.al.|[2506.13679v1](http://arxiv.org/abs/2506.13679v1)|**2025-06-16**|null|
-|**2025-06-16**|**Stream-Omni: Simultaneous Multimodal Interactions with Large Language-Vision-Speech Model**|Shaolei Zhang et.al.|[2506.13642v1](http://arxiv.org/abs/2506.13642v1)|**2025-06-16**|null|
-|**2025-06-16**|**FreeQ-Graph: Free-form Querying with Semantic Consistent Scene Graph for 3D Scene Understanding**|Chenlu Zhan et.al.|[2506.13629v1](http://arxiv.org/abs/2506.13629v1)|**2025-06-16**|null|
-|**2025-06-16**|**Tree-Based Text Retrieval via Hierarchical Clustering in RAGFrameworks: Application on Taiwanese Regulations**|Chia-Heng Yu et.al.|[2506.13607v1](http://arxiv.org/abs/2506.13607v1)|**2025-06-16**|null|
-|**2025-06-16**|**Omni-AdaVideoRAG: Omni-Contextual Adaptive Retrieval-Augmented for Efficient Long Video Understanding**|Zhucun Xue et.al.|[2506.13589v1](http://arxiv.org/abs/2506.13589v1)|**2025-06-16**|null|
-|**2025-06-16**|**Flexible-length Text Infilling for Discrete Diffusion Models**|Andrew Zhang et.al.|[2506.13579v1](http://arxiv.org/abs/2506.13579v1)|**2025-06-16**|null|
-|**2025-06-16**|**Machine Learning-Driven Compensation for Non-Ideal Channels in AWG-Based FBG Interrogator**|Ivan A. Kazakov et.al.|[2506.13575v1](http://arxiv.org/abs/2506.13575v1)|**2025-06-16**|null|
-|**2025-06-16**|**Characterizing Linguistic Shifts in Croatian News via Diachronic Word Embeddings**|David Dukić et.al.|[2506.13569v1](http://arxiv.org/abs/2506.13569v1)|**2025-06-16**|null|
-|**2025-06-16**|**Insights into the structure and kinematics of a Milky Way-like galaxy**|Eva Durán-Camacho et.al.|[2506.13560v1](http://arxiv.org/abs/2506.13560v1)|**2025-06-16**|null|
-|**2025-06-16**|**X-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability**|Yu Yang et.al.|[2506.13558v1](http://arxiv.org/abs/2506.13558v1)|**2025-06-16**|null|
-|**2025-06-16**|**A Comprehensive Survey on Video Scene Parsing:Advances, Challenges, and Prospects**|Guohuan Xie et.al.|[2506.13552v1](http://arxiv.org/abs/2506.13552v1)|**2025-06-16**|null|
-|**2025-06-16**|**Faceting transition in aluminum as a grain boundary phase transition**|Yoonji Choi et.al.|[2506.13550v1](http://arxiv.org/abs/2506.13550v1)|**2025-06-16**|null|
-|**2025-06-16**|**A Semantically-Aware Relevance Measure for Content-Based Medical Image Retrieval Evaluation**|Xiaoyang Wei et.al.|[2506.13509v1](http://arxiv.org/abs/2506.13509v1)|**2025-06-16**|null|
-|**2025-06-16**|**FOAM: A General Frequency-Optimized Anti-Overlapping Framework for Overlapping Object Perception**|Mingyuan Li et.al.|[2506.13501v1](http://arxiv.org/abs/2506.13501v1)|**2025-06-16**|null|
-|**2025-06-16**|**Hierarchical Multi-Positive Contrastive Learning for Patent Image Retrieval**|Kshitij Kavimandan et.al.|[2506.13496v1](http://arxiv.org/abs/2506.13496v1)|**2025-06-16**|null|
-|**2025-06-16**|**Programming and Reasoning in Partially Observable Probabilistic Environments**|Tobias Gürtler et.al.|[2506.13491v1](http://arxiv.org/abs/2506.13491v1)|**2025-06-16**|null|
-|**2025-06-16**|**Imaging at the quantum limit with convolutional neural networks**|Andrew H. Proppe et.al.|[2506.13488v1](http://arxiv.org/abs/2506.13488v1)|**2025-06-16**|null|
-|**2025-06-16**|**Enhancing Omics Cohort Discovery for Research on Neurodegeneration through Ontology-Augmented Embedding Models**|José A. Pardo et.al.|[2506.13467v1](http://arxiv.org/abs/2506.13467v1)|**2025-06-16**|null|
-|**2025-06-16**|**Cloud-to-cloud velocity dispersions across a Local arm segment**|Lixia Yuan et.al.|[2506.13424v1](http://arxiv.org/abs/2506.13424v1)|**2025-06-16**|null|
-|**2025-06-16**|**Simple is what you need for efficient and accurate medical image segmentation**|Xiang Yu et.al.|[2506.13415v1](http://arxiv.org/abs/2506.13415v1)|**2025-06-16**|null|
-|**2025-06-16**|**BUT System for the MLC-SLM Challenge**|Alexander Polok et.al.|[2506.13414v1](http://arxiv.org/abs/2506.13414v1)|**2025-06-16**|null|
+|**2025-06-17**|**A Variational Framework for Improving Naturalness in Generative Spoken Language Models**|Li-Wei Chen et.al.|[2506.14767v1](http://arxiv.org/abs/2506.14767v1)|**2025-06-17**|null|
+|**2025-06-17**|**Scaling-Up the Pretraining of the Earth Observation Foundation Model PhilEO to the MajorTOM Dataset**|Nikolaos Dionelis et.al.|[2506.14765v1](http://arxiv.org/abs/2506.14765v1)|**2025-06-17**|null|
+|**2025-06-17**|**From Bytes to Ideas: Language Modeling with Autoregressive U-Nets**|Mathurin Videau et.al.|[2506.14761v1](http://arxiv.org/abs/2506.14761v1)|**2025-06-17**|null|
+|**2025-06-17**|**FocalClick-XL: Towards Unified and High-quality Interactive Segmentation**|Xi Chen et.al.|[2506.14686v1](http://arxiv.org/abs/2506.14686v1)|**2025-06-17**|null|
+|**2025-06-17**|**Design an Editable Speech-to-Sign-Language Transformer System: A Human-Centered AI Approach**|Yingchao Li et.al.|[2506.14677v1](http://arxiv.org/abs/2506.14677v1)|**2025-06-17**|null|
+|**2025-06-17**|**StreetLens: Enabling Human-Centered AI Agents for Neighborhood Assessment from Street View Imagery**|Jina Kim et.al.|[2506.14670v1](http://arxiv.org/abs/2506.14670v1)|**2025-06-17**|null|
+|**2025-06-17**|**SENIOR: Efficient Query Selection and Preference-Guided Exploration in Preference-based Reinforcement Learning**|Hexian Ni et.al.|[2506.14648v1](http://arxiv.org/abs/2506.14648v1)|**2025-06-17**|null|
+|**2025-06-17**|**VisText-Mosquito: A Multimodal Dataset and Benchmark for AI-Based Mosquito Breeding Site Detection and Reasoning**|Md. Adnanul Islam et.al.|[2506.14629v1](http://arxiv.org/abs/2506.14629v1)|**2025-06-17**|null|
+|**2025-06-17**|**Towards construction of microscopic model for smart coating of a solid surface**|O. Pizio et.al.|[2506.14628v1](http://arxiv.org/abs/2506.14628v1)|**2025-06-17**|null|
+|**2025-06-17**|**Probabilistic Aggregation and Targeted Embedding Optimization for Collective Moral Reasoning in Large Language Models**|Chenchen Yuan et.al.|[2506.14625v1](http://arxiv.org/abs/2506.14625v1)|**2025-06-17**|null|
+|**2025-06-17**|**When Does Meaning Backfire? Investigating the Role of AMRs in NLI**|Junghyun Min et.al.|[2506.14613v1](http://arxiv.org/abs/2506.14613v1)|**2025-06-17**|null|
+|**2025-06-17**|**Concepts for designing modern C++ interfaces for MPI**|C. Nicole Avans et.al.|[2506.14610v1](http://arxiv.org/abs/2506.14610v1)|**2025-06-17**|null|
+|**2025-06-17**|**Latent Action Diffusion for Cross-Embodiment Manipulation**|Erik Bauer et.al.|[2506.14608v1](http://arxiv.org/abs/2506.14608v1)|**2025-06-17**|null|
+|**2025-06-17**|**Guaranteed Guess: A Language Modeling Approach for CISC-to-RISC Transpilation with Testing Guarantees**|Ahmed Heakl et.al.|[2506.14606v1](http://arxiv.org/abs/2506.14606v1)|**2025-06-17**|null|
+|**2025-06-17**|**NetRoller: Interfacing General and Specialized Models for End-to-End Autonomous Driving**|Ren Xin et.al.|[2506.14589v1](http://arxiv.org/abs/2506.14589v1)|**2025-06-17**|null|
+|**2025-06-17**|**SCISSOR: Mitigating Semantic Bias through Cluster-Aware Siamese Networks for Robust Classification**|Shuo Yang et.al.|[2506.14587v1](http://arxiv.org/abs/2506.14587v1)|**2025-06-17**|null|
+|**2025-06-17**|**Modeling Uncertainty: From Simulink to Stochastic Hybrid Automata**|Pauline Blohm et.al.|[2506.14581v1](http://arxiv.org/abs/2506.14581v1)|**2025-06-17**|null|
+|**2025-06-17**|**Object-Centric Neuro-Argumentative Learning**|Abdul Rahman Jacob et.al.|[2506.14577v1](http://arxiv.org/abs/2506.14577v1)|**2025-06-17**|null|
+|**2025-06-17**|**From Points to Places: Towards Human Mobility-Driven Spatiotemporal Foundation Models via Understanding Places**|Mohammad Hashemi et.al.|[2506.14570v1](http://arxiv.org/abs/2506.14570v1)|**2025-06-17**|null|
+|**2025-06-17**|**DreamLight: Towards Harmonious and Consistent Image Relighting**|Yong Liu et.al.|[2506.14549v1](http://arxiv.org/abs/2506.14549v1)|**2025-06-17**|null|
+|**2025-06-17**|**VisLanding: Monocular 3D Perception for UAV Safe Landing via Depth-Normal Synergy**|Zhuoyue Tan et.al.|[2506.14525v1](http://arxiv.org/abs/2506.14525v1)|**2025-06-17**|null|
+|**2025-06-17**|**Integrating Radiomics with Deep Learning Enhances Multiple Sclerosis Lesion Delineation**|Nadezhda Alsahanova et.al.|[2506.14524v1](http://arxiv.org/abs/2506.14524v1)|**2025-06-17**|null|
+|**2025-06-17**|**Train Once, Forget Precisely: Anchored Optimization for Efficient Post-Hoc Unlearning**|Prabhav Sanga et.al.|[2506.14515v1](http://arxiv.org/abs/2506.14515v1)|**2025-06-17**|null|
+|**2025-06-17**|**Can Pretrained Vision-Language Embeddings Alone Guide Robot Navigation?**|Nitesh Subedi et.al.|[2506.14507v1](http://arxiv.org/abs/2506.14507v1)|**2025-06-17**|null|
+|**2025-06-17**|**Towards Reliable WMH Segmentation under Domain Shift: An Application Study using Maximum Entropy Regularization to Improve Uncertainty Estimation**|Franco Matzkin et.al.|[2506.14497v1](http://arxiv.org/abs/2506.14497v1)|**2025-06-17**|null|
+|**2025-06-17**|**LexiMark: Robust Watermarking via Lexical Substitutions to Enhance Membership Verification of an LLM's Textual Training Data**|Eyal German et.al.|[2506.14474v1](http://arxiv.org/abs/2506.14474v1)|**2025-06-17**|null|
+|**2025-06-17**|**AST-Enhanced or AST-Overloaded? The Surprising Impact of Hybrid Graph Representations on Code Clone Detection**|Zixian Zhang et.al.|[2506.14470v1](http://arxiv.org/abs/2506.14470v1)|**2025-06-17**|null|
+|**2025-06-17**|**How Far Can LLMs Improve from Experience? Measuring Test-Time Learning Ability in LLMs with Human Comparison**|Jiayin Wang et.al.|[2506.14448v1](http://arxiv.org/abs/2506.14448v1)|**2025-06-17**|null|
+|**2025-06-17**|**Similarity = Value? Consultation Value Assessment and Alignment for Personalized Search**|Weicong Qin et.al.|[2506.14437v1](http://arxiv.org/abs/2506.14437v1)|**2025-06-17**|null|
+|**2025-06-17**|**LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs**|Xiaoran Liu et.al.|[2506.14429v1](http://arxiv.org/abs/2506.14429v1)|**2025-06-17**|null|

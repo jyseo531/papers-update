@@ -2,33 +2,33 @@
 ### Robotics
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-16**|**Touch begins where vision ends: Generalizable policies for contact-rich manipulation**|Zifan Zhao et.al.|[2506.13762v1](http://arxiv.org/abs/2506.13762v1)|**2025-06-16**|null|
-|**2025-06-16**|**Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins**|Chuanruo Ning et.al.|[2506.13761v1](http://arxiv.org/abs/2506.13761v1)|**2025-06-16**|null|
-|**2025-06-16**|**Edge Nearest Neighbor in Sampling-Based Motion Planning**|Stav Ashur et.al.|[2506.13753v1](http://arxiv.org/abs/2506.13753v1)|**2025-06-16**|null|
-|**2025-06-16**|**LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction**|Haoru Xue et.al.|[2506.13751v1](http://arxiv.org/abs/2506.13751v1)|**2025-06-16**|null|
-|**2025-06-16**|**Critical Insights about Robots for Mental Wellbeing**|Guy Laban et.al.|[2506.13739v1](http://arxiv.org/abs/2506.13739v1)|**2025-06-16**|null|
-|**2025-06-16**|**CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding**|Wenxuan Song et.al.|[2506.13725v1](http://arxiv.org/abs/2506.13725v1)|**2025-06-16**|null|
-|**2025-06-16**|**HARMONI: Haptic-Guided Assistance for Unified Robotic Tele-Manipulation and Tele-Navigation**|V. Sripada et.al.|[2506.13704v1](http://arxiv.org/abs/2506.13704v1)|**2025-06-16**|null|
-|**2025-06-16**|**ROSA: Harnessing Robot States for Vision-Language and Action Alignment**|Yuqing Wen et.al.|[2506.13679v1](http://arxiv.org/abs/2506.13679v1)|**2025-06-16**|null|
-|**2025-06-16**|**Towards Efficient Occupancy Mapping via Gaussian Process Latent Field Shaping**|Cedric Le Gentil et.al.|[2506.13640v1](http://arxiv.org/abs/2506.13640v1)|**2025-06-16**|null|
-|**2025-06-16**|**Parallel Branch Model Predictive Control on GPUs**|Luyao Zhang et.al.|[2506.13624v1](http://arxiv.org/abs/2506.13624v1)|**2025-06-16**|null|
-|**2025-06-16**|**Disturbance-aware minimum-time planning strategies for motorsport vehicles with probabilistic safety certificates**|Martino Gulisano et.al.|[2506.13622v1](http://arxiv.org/abs/2506.13622v1)|**2025-06-16**|null|
-|**2025-06-16**|**Can you see how I learn? Human observers' inferences about Reinforcement Learning agents' learning processes**|Bernhard Hilpert et.al.|[2506.13583v1](http://arxiv.org/abs/2506.13583v1)|**2025-06-16**|null|
-|**2025-06-16**|**What Matters in Learning from Large-Scale Datasets for Robot Manipulation**|Vaibhav Saxena et.al.|[2506.13536v1](http://arxiv.org/abs/2506.13536v1)|**2025-06-16**|null|
-|**2025-06-16**|**UAV Object Detection and Positioning in a Mining Industrial Metaverse with Custom Geo-Referenced Data**|Vasiliki Balaska et.al.|[2506.13505v1](http://arxiv.org/abs/2506.13505v1)|**2025-06-16**|null|
-|**2025-06-16**|**A Survey on Imitation Learning for Contact-Rich Tasks in Robotics**|Toshiaki Tsuji et.al.|[2506.13498v1](http://arxiv.org/abs/2506.13498v1)|**2025-06-16**|null|
-|**2025-06-16**|**Learning Swing-up Maneuvers for a Suspended Aerial Manipulation Platform in a Hierarchical Control Framework**|Hemjyoti Das et.al.|[2506.13478v1](http://arxiv.org/abs/2506.13478v1)|**2025-06-16**|null|
-|**2025-06-16**|**Block-wise Adaptive Caching for Accelerating Diffusion Policy**|Kangye Ji et.al.|[2506.13456v1](http://arxiv.org/abs/2506.13456v1)|**2025-06-16**|null|
-|**2025-06-16**|**Towards a Formal Specification for Self-organized Shape Formation in Swarm Robotics**|YR Darr et.al.|[2506.13453v1](http://arxiv.org/abs/2506.13453v1)|**2025-06-16**|null|
-|**2025-06-16**|**Sparse Convolutional Recurrent Learning for Efficient Event-based Neuromorphic Object Detection**|Shenqi Wang et.al.|[2506.13440v1](http://arxiv.org/abs/2506.13440v1)|**2025-06-16**|null|
-|**2025-06-16**|**Adaptive Model-Base Control of Quadrupeds via Online System Identification using Kalman Filter**|Jonas Haack et.al.|[2506.13432v1](http://arxiv.org/abs/2506.13432v1)|**2025-06-16**|null|
-|**2025-06-16**|**VLM-SFD: VLM-Assisted Siamese Flow Diffusion Framework for Dual-Arm Cooperative Manipulation**|Jiaming Chen et.al.|[2506.13428v1](http://arxiv.org/abs/2506.13428v1)|**2025-06-16**|null|
-|**2025-06-16**|**JENGA: Object selection and pose estimation for robotic grasping from a stack**|Sai Srinivas Jeevanandam et.al.|[2506.13425v1](http://arxiv.org/abs/2506.13425v1)|**2025-06-16**|null|
-|**2025-06-16**|**Delayed Expansion AGT: Kinodynamic Planning with Application to Tractor-Trailer Parking**|Dongliang Zheng et.al.|[2506.13421v1](http://arxiv.org/abs/2506.13421v1)|**2025-06-16**|null|
-|**2025-06-16**|**Observability-Aware Active Calibration of Multi-Sensor Extrinsics for Ground Robots via Online Trajectory Optimization**|Jiang Wang et.al.|[2506.13420v1](http://arxiv.org/abs/2506.13420v1)|**2025-06-16**|null|
-|**2025-06-16**|**Uncertainty-Informed Active Perception for Open Vocabulary Object Goal Navigation**|Utkarsh Bajpai et.al.|[2506.13367v1](http://arxiv.org/abs/2506.13367v1)|**2025-06-16**|null|
-|**2025-06-16**|**Open-Set LiDAR Panoptic Segmentation Guided by Uncertainty-Aware Learning**|Rohit Mohan et.al.|[2506.13265v1](http://arxiv.org/abs/2506.13265v1)|**2025-06-16**|null|
-|**2025-06-16**|**C2TE: Coordinated Constrained Task Execution Design for Ordering-Flexible Multi-Vehicle Platoon Merging**|Bin-Bin Hu et.al.|[2506.13202v1](http://arxiv.org/abs/2506.13202v1)|**2025-06-16**|null|
-|**2025-06-16**|**Equilibrium-Driven Smooth Separation and Navigation of Marsupial Robotic Systems**|Bin-Bin Hu et.al.|[2506.13198v1](http://arxiv.org/abs/2506.13198v1)|**2025-06-16**|null|
-|**2025-06-16**|**Multimodal "Puppeteer": An Exploration of Robot Teleoperation Via Virtual Counterpart with LLM-Driven Voice and Gesture Interaction in Augmented Reality**|Yuchong Zhang et.al.|[2506.13189v1](http://arxiv.org/abs/2506.13189v1)|**2025-06-16**|null|
-|**2025-06-16**|**MT-PCR: A Hybrid Mamba-Transformer with Spatial Serialization for Hierarchical Point Cloud Registration**|Bingxi Liu et.al.|[2506.13183v1](http://arxiv.org/abs/2506.13183v1)|**2025-06-16**|null|
+|**2025-06-17**|**GMT: General Motion Tracking for Humanoid Whole-Body Control**|Zixuan Chen et.al.|[2506.14770v1](http://arxiv.org/abs/2506.14770v1)|**2025-06-17**|null|
+|**2025-06-17**|**CDP: Towards Robust Autoregressive Visuomotor Policy Learning via Causal Diffusion**|Jiahua Ma et.al.|[2506.14769v1](http://arxiv.org/abs/2506.14769v1)|**2025-06-17**|null|
+|**2025-06-17**|**RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills**|Chunru Lin et.al.|[2506.14763v1](http://arxiv.org/abs/2506.14763v1)|**2025-06-17**|null|
+|**2025-06-17**|**Markov Regime-Switching Intelligent Driver Model for Interpretable Car-Following Behavior**|Chengyuan Zhang et.al.|[2506.14762v1](http://arxiv.org/abs/2506.14762v1)|**2025-06-17**|null|
+|**2025-06-17**|**Tactile Beyond Pixels: Multisensory Touch Representations for Robot Manipulation**|Carolina Higuera et.al.|[2506.14754v1](http://arxiv.org/abs/2506.14754v1)|**2025-06-17**|null|
+|**2025-06-17**|**Casper: Inferring Diverse Intents for Assistive Teleoperation with Vision Language Models**|Huihan Liu et.al.|[2506.14727v1](http://arxiv.org/abs/2506.14727v1)|**2025-06-17**|null|
+|**2025-06-17**|**DiFuse-Net: RGB and Dual-Pixel Depth Estimation using Window Bi-directional Parallax Attention and Cross-modal Transfer Learning**|Kunal Swami et.al.|[2506.14709v1](http://arxiv.org/abs/2506.14709v1)|**2025-06-17**|null|
+|**2025-06-17**|**AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions**|Aishan Liu et.al.|[2506.14697v1](http://arxiv.org/abs/2506.14697v1)|**2025-06-17**|null|
+|**2025-06-17**|**Factor-Graph-Based Passive Acoustic Navigation for Decentralized Cooperative Localization Using Bearing Elevation Depth Difference**|Kalliyan Velasco et.al.|[2506.14690v1](http://arxiv.org/abs/2506.14690v1)|**2025-06-17**|null|
+|**2025-06-17**|**SENIOR: Efficient Query Selection and Preference-Guided Exploration in Preference-based Reinforcement Learning**|Hexian Ni et.al.|[2506.14648v1](http://arxiv.org/abs/2506.14648v1)|**2025-06-17**|null|
+|**2025-06-17**|**Latent Action Diffusion for Cross-Embodiment Manipulation**|Erik Bauer et.al.|[2506.14608v1](http://arxiv.org/abs/2506.14608v1)|**2025-06-17**|null|
+|**2025-06-17**|**NetRoller: Interfacing General and Specialized Models for End-to-End Autonomous Driving**|Ren Xin et.al.|[2506.14589v1](http://arxiv.org/abs/2506.14589v1)|**2025-06-17**|null|
+|**2025-06-17**|**VisLanding: Monocular 3D Perception for UAV Safe Landing via Depth-Normal Synergy**|Zhuoyue Tan et.al.|[2506.14525v1](http://arxiv.org/abs/2506.14525v1)|**2025-06-17**|null|
+|**2025-06-17**|**GAMORA: A Gesture Articulated Meta Operative Robotic Arm for Hazardous Material Handling in Containment-Level Environments**|Farha Abdul Wasay et.al.|[2506.14513v1](http://arxiv.org/abs/2506.14513v1)|**2025-06-17**|null|
+|**2025-06-17**|**Can Pretrained Vision-Language Embeddings Alone Guide Robot Navigation?**|Nitesh Subedi et.al.|[2506.14507v1](http://arxiv.org/abs/2506.14507v1)|**2025-06-17**|null|
+|**2025-06-17**|**ros2 fanuc interface: Design and Evaluation of a Fanuc CRX Hardware Interface in ROS2**|Paolo Franceschi et.al.|[2506.14487v1](http://arxiv.org/abs/2506.14487v1)|**2025-06-17**|null|
+|**2025-06-17**|**Automatic Cannulation of Femoral Vessels in a Porcine Shock Model**|Nico Zevallos et.al.|[2506.14467v1](http://arxiv.org/abs/2506.14467v1)|**2025-06-17**|null|
+|**2025-06-17**|**Varanus: Runtime Verification for CSP**|Matt Luckcuck et.al.|[2506.14426v1](http://arxiv.org/abs/2506.14426v1)|**2025-06-17**|null|
+|**2025-06-17**|**Enhancing Object Search in Indoor Spaces via Personalized Object-factored Ontologies**|Akash Chikhalikar et.al.|[2506.14422v1](http://arxiv.org/abs/2506.14422v1)|**2025-06-17**|null|
+|**2025-06-17**|**Adaptive Reinforcement Learning for Unobservable Random Delays**|John Wikman et.al.|[2506.14411v1](http://arxiv.org/abs/2506.14411v1)|**2025-06-17**|null|
+|**2025-06-17**|**Data Driven Approach to Input Shaping for Vibration Suppression in a Flexible Robot Arm**|Jarkko Kotaniemi et.al.|[2506.14405v1](http://arxiv.org/abs/2506.14405v1)|**2025-06-17**|null|
+|**2025-06-17**|**Barrier Method for Inequality Constrained Factor Graph Optimization with Application to Model Predictive Control**|Anas Abdelkarim et.al.|[2506.14341v1](http://arxiv.org/abs/2506.14341v1)|**2025-06-17**|null|
+|**2025-06-17**|**ClutterDexGrasp: A Sim-to-Real System for General Dexterous Grasping in Cluttered Scenes**|Zeyuan Chen et.al.|[2506.14317v1](http://arxiv.org/abs/2506.14317v1)|**2025-06-17**|null|
+|**2025-06-17**|**Socially Aware Robot Crowd Navigation via Online Uncertainty-Driven Risk Adaptation**|Zhirui Sun et.al.|[2506.14305v1](http://arxiv.org/abs/2506.14305v1)|**2025-06-17**|null|
+|**2025-06-17**|**Uncertainty-Driven Radar-Inertial Fusion for Instantaneous 3D Ego-Velocity Estimation**|Prashant Kumar Rai et.al.|[2506.14294v1](http://arxiv.org/abs/2506.14294v1)|**2025-06-17**|null|
+|**2025-06-17**|**Steering Robots with Inference-Time Interactions**|Yanwei Wang et.al.|[2506.14287v1](http://arxiv.org/abs/2506.14287v1)|**2025-06-17**|null|
+|**2025-06-17**|**Whole-Body Control Framework for Humanoid Robots with Heavy Limbs: A Model-Based Approach**|Tianlin Zhang et.al.|[2506.14278v1](http://arxiv.org/abs/2506.14278v1)|**2025-06-17**|null|
+|**2025-06-17**|**GHz spiking neuromorphic photonic chip with in-situ training**|Jinlong Xiang et.al.|[2506.14272v1](http://arxiv.org/abs/2506.14272v1)|**2025-06-17**|null|
+|**2025-06-17**|**Leader360V: The Large-scale, Real-world 360 Video Dataset for Multi-task Learning in Diverse Environment**|Weiming Zhang et.al.|[2506.14271v1](http://arxiv.org/abs/2506.14271v1)|**2025-06-17**|null|
+|**2025-06-17**|**Public Acceptance of Cybernetic Avatars in the service sector: Evidence from a Large-Scale Survey in Dubai**|Laura Aymerich-Franch et.al.|[2506.14268v1](http://arxiv.org/abs/2506.14268v1)|**2025-06-17**|null|

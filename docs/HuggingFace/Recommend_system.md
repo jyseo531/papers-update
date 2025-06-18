@@ -4314,6 +4314,7 @@ Updated on 2025-06-18
 | 5 | Unknown | rocca/chroma-nunchaku-testText-to-Image | Updated10 days ago | [Link](https://huggingface.co/rocca/chroma-nunchaku-test) |
 | 12.1k |  | strangerzonehf/Flux-Ultimate-LoRA-CollectionText-to-Image | Updated1 day ago | [Link](https://huggingface.co/strangerzonehf/Flux-Ultimate-LoRA-Collection) |
 | 506 |  | multimodalart/flux-tarot-v1Text-to-Image | UpdatedAug 16, 2024 | [Link](https://huggingface.co/multimodalart/flux-tarot-v1) |
+| 5 | Unknown | calcuis/cosmos-predict2-ggufText-to-Image | Updated29 minutes ago | [Link](https://huggingface.co/calcuis/cosmos-predict2-gguf) |
 
 ## Text-to-Speech
 
