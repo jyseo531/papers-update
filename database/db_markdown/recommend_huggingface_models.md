@@ -1797,6 +1797,7 @@ Updated on 2025-06-19
 | 335 | 7 | One-RL-to-See-Them-All/Orsta-7BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/One-RL-to-See-Them-All/Orsta-7B) |
 | 184 | 7 | stockmark/Stockmark-2-VL-100B-betaImage-Text-to-Text | Updatedabout 12 hours ago | [Link](https://huggingface.co/stockmark/Stockmark-2-VL-100B-beta) |
 | 8.11k | 7 | unsloth/MiMo-VL-7B-RL-GGUFImage-Text-to-Text | Updated4 days ago | [Link](https://huggingface.co/unsloth/MiMo-VL-7B-RL-GGUF) |
+| 317 | 7 | numind/NuExtract-2 | Updated6 days ago | [Link](https://huggingface.co/numind/NuExtract-2.0-2B) |
 | 160 | 6 | MIL-UT/Asagi-14BImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/MIL-UT/Asagi-14B) |
 | 168 | 5 | MBZUAI/AINImage-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/MBZUAI/AIN) |
 | 2.72k | 1.62k | microsoft/OmniParserImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/microsoft/OmniParser) |
@@ -1977,6 +1978,7 @@ Updated on 2025-06-19
 | 91 | 11 | TencentARC/t2iadapter_color_sd14v1Image-to-Image | UpdatedJul 31, 2023 | [Link](https://huggingface.co/TencentARC/t2iadapter_color_sd14v1) |
 | 21 | 10 | philschmid/stable-diffusion-2-inpainting-endpointImage-to-Image | UpdatedSep 29, 2023 | [Link](https://huggingface.co/philschmid/stable-diffusion-2-inpainting-endpoint) |
 | 11 | 9 | keras-io/conditional-ganImage-to-Image | UpdatedJul 5, 2024 | [Link](https://huggingface.co/keras-io/conditional-gan) |
+| 10.5k | 9 | hafsa000/interior-designImage-to-Image | UpdatedMay 16, 2024 | [Link](https://huggingface.co/hafsa000/interior-design) |
 | 59 | 8 | qualcomm/AOT-GANImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/qualcomm/AOT-GAN) |
 | 1.74k | 7 | xiaozaa/catvton-flux-betaImage-to-Image | UpdatedJan 16 | [Link](https://huggingface.co/xiaozaa/catvton-flux-beta) |
 | 1.97k | 6 | TencentARC/t2iadapter_sketch_sd15v2Image-to-Image | UpdatedAug 1, 2023 | [Link](https://huggingface.co/TencentARC/t2iadapter_sketch_sd15v2) |
@@ -2001,6 +2003,8 @@ Updated on 2025-06-19
 | 371 | 2 | prs-eth/marigold-iid-appearance-v1-1Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-iid-appearance-v1-1) |
 | 163 | 2 | prs-eth/marigold-iid-lighting-v1-1Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-iid-lighting-v1-1) |
 | 10 | 2 | huyai123/Flux | UpdatedJan 24 | [Link](https://huggingface.co/huyai123/Flux.1-dev-Image-Upscaler) |
+| 91 | 2 | Kunbyte/DRA-CtrlImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/Kunbyte/DRA-Ctrl) |
+| 7 | 2 | imaginairy/idm-vton-safetensorsImage-to-Image | UpdatedApr 28, 2024 | [Link](https://huggingface.co/imaginairy/idm-vton-safetensors) |
 | 12 | 1 | Jorgvt/CycleGAN_GTA_REALImage-to-Image | UpdatedJul 11, 2024 | [Link](https://huggingface.co/Jorgvt/CycleGAN_GTA_REAL) |
 | 41 | 1 | Estabousi/MIPHEI-vitImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/Estabousi/MIPHEI-vit) |
 | 1.54M |  | stabilityai/stable-diffusion-xl-refiner-1 | UpdatedSep 25, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0) |
@@ -2185,6 +2189,7 @@ Updated on 2025-06-19
 | 1 | Unknown | Dataseeds/BLIP2-opt-2 | Updatedabout 6 hours ago | [Link](https://huggingface.co/Dataseeds/BLIP2-opt-2.7b-DSD-FineTune) |
 | 15 | Unknown | techietrader/captcha_ocrImage-to-Text | UpdatedJun 6, 2024 | [Link](https://huggingface.co/techietrader/captcha_ocr) |
 | 4 | Unknown | baudm/parseq-smallImage-to-Text | UpdatedAug 28, 2022 | [Link](https://huggingface.co/baudm/parseq-small) |
+| 1 | Unknown | Kansallisarkisto/cyrillic-htr-modelImage-to-Text | Updatedabout 17 hours ago | [Link](https://huggingface.co/Kansallisarkisto/cyrillic-htr-model) |
 
 ## Image-to-Video
 
@@ -3895,6 +3900,7 @@ Updated on 2025-06-19
 | 17 | Unknown | futurehouse/ether0Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/futurehouse/ether0) |
 | 101 |  | mistralai/Magistral-Small-2506Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/mistralai/Magistral-Small-2506) |
 | 17 | Unknown | google/gemma-3n-E2B-it-litert-lm-previewText | Updatedabout 16 hours ago | [Link](https://huggingface.co/google/gemma-3n-E2B-it-litert-lm-preview) |
+| 19 | Unknown | arcee-ai/Virtuoso-LargeText | Updatedabout 18 hours ago | [Link](https://huggingface.co/arcee-ai/Virtuoso-Large) |
 
 ## Text Ranking
 
@@ -4318,6 +4324,7 @@ Updated on 2025-06-19
 | 506 |  | multimodalart/flux-tarot-v1Text-to-Image | UpdatedAug 16, 2024 | [Link](https://huggingface.co/multimodalart/flux-tarot-v1) |
 | 5 | Unknown | calcuis/cosmos-predict2-ggufText-to-Image | Updated29 minutes ago | [Link](https://huggingface.co/calcuis/cosmos-predict2-gguf) |
 | 5 | Unknown | ippanorc/animetic_lightText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/ippanorc/animetic_light) |
+| 486 | Unknown | Djrango/Qwen2vl-FluxText-to-Image | UpdatedDec 6, 2024 | [Link](https://huggingface.co/Djrango/Qwen2vl-Flux) |
 
 ## Text-to-Speech
 
