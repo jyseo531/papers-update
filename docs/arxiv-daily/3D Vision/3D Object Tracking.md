@@ -16,7 +16,7 @@
 |**2025-06-17**|**Plug-and-Play with 2.5D Artifact Reduction Prior for Fast and Accurate Industrial Computed Tomography Reconstruction**|Haley Duba-Sullivan et.al.|[2506.14719v1](http://arxiv.org/abs/2506.14719v1)|**2025-06-17**|null|
 |**2025-06-17**|**Relativistic implications of entropy and purity**|Joseph Balsells et.al.|[2506.14705v1](http://arxiv.org/abs/2506.14705v1)|**2025-06-17**|null|
 |**2025-06-17**|**AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions**|Aishan Liu et.al.|[2506.14697v1](http://arxiv.org/abs/2506.14697v1)|**2025-06-17**|null|
-|**2025-06-17**|**YOLOv11-RGBT: Towards a Comprehensive Single-Stage Multispectral Object Detection Framework**|Dahang Wan et.al.|[2506.14696v1](http://arxiv.org/abs/2506.14696v1)|**2025-06-17**|null|
+|**2025-06-17**|**YOLOv11-RGBT: Towards a Comprehensive Single-Stage Multispectral Object Detection Framework**|Dahang Wan et.al.|[2506.14696v2](http://arxiv.org/abs/2506.14696v2)|**2025-06-18**|null|
 |**2025-06-17**|**A ringed-space-like structure on coalgebras for noncommutative algebraic geometry**|So Nakamura et.al.|[2506.14689v1](http://arxiv.org/abs/2506.14689v1)|**2025-06-17**|null|
 |**2025-06-17**|**FocalClick-XL: Towards Unified and High-quality Interactive Segmentation**|Xi Chen et.al.|[2506.14686v1](http://arxiv.org/abs/2506.14686v1)|**2025-06-17**|null|
 |**2025-06-17**|**AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models**|Ads Dawson et.al.|[2506.14682v1](http://arxiv.org/abs/2506.14682v1)|**2025-06-17**|null|

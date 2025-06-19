@@ -30,5 +30,5 @@
 |**2025-06-17**|**A general framework for the asymptotic analysis of moist atmospheric flows**|Daniel Bäumer et.al.|[2506.14450v1](http://arxiv.org/abs/2506.14450v1)|**2025-06-17**|null|
 |**2025-06-17**|**SAS in ESA Datalabs: A New Platform for XMM-Newton Analysis**|Esin G. Gulbahar et.al.|[2506.14444v1](http://arxiv.org/abs/2506.14444v1)|**2025-06-17**|null|
 |**2025-06-17**|**Model compression using knowledge distillation with integrated gradients**|David E. Hernandez et.al.|[2506.14440v1](http://arxiv.org/abs/2506.14440v1)|**2025-06-17**|null|
-|**2025-06-17**|**Higher-Oder Splitting Schemes for Fluids with Variable Viscosity**|Richard Schussnig et.al.|[2506.14424v1](http://arxiv.org/abs/2506.14424v1)|**2025-06-17**|null|
+|**2025-06-17**|**Higher-Oder Splitting Schemes for Fluids with Variable Viscosity**|Richard Schussnig et.al.|[2506.14424v2](http://arxiv.org/abs/2506.14424v2)|**2025-06-18**|null|
 |**2025-06-17**|**Excluding Pinched Spheres**|Laure Morelle et.al.|[2506.14421v1](http://arxiv.org/abs/2506.14421v1)|**2025-06-17**|null|

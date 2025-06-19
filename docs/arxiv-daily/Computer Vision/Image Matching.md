@@ -8,7 +8,7 @@
 |**2025-06-17**|**Union-Intersection Union-Find for Decoding Depolarizing Errors in Topological Codes**|Tzu-Hao Lin et.al.|[2506.14745v1](http://arxiv.org/abs/2506.14745v1)|**2025-06-17**|null|
 |**2025-06-17**|**SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting**|Ziqiao Peng et.al.|[2506.14742v1](http://arxiv.org/abs/2506.14742v1)|**2025-06-17**|null|
 |**2025-06-17**|**Compressing Suffix Trees by Path Decompositions**|Ruben Becker et.al.|[2506.14734v1](http://arxiv.org/abs/2506.14734v1)|**2025-06-17**|null|
-|**2025-06-17**|**Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs**|Ring Team et.al.|[2506.14731v1](http://arxiv.org/abs/2506.14731v1)|**2025-06-17**|null|
+|**2025-06-17**|**Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs**|Ling Team et.al.|[2506.14731v2](http://arxiv.org/abs/2506.14731v2)|**2025-06-18**|null|
 |**2025-06-17**|**A stochastic noise model based excess noise factor expressions for staircase avalanche photodiodes**|Ankitha E Bangera et.al.|[2506.14722v1](http://arxiv.org/abs/2506.14722v1)|**2025-06-17**|null|
 |**2025-06-17**|**Plug-and-Play with 2.5D Artifact Reduction Prior for Fast and Accurate Industrial Computed Tomography Reconstruction**|Haley Duba-Sullivan et.al.|[2506.14719v1](http://arxiv.org/abs/2506.14719v1)|**2025-06-17**|null|
 |**2025-06-17**|**All-optical convolution utilizing processing in memory based on a cold atomic ensemble**|Ying-Hao Ye et.al.|[2506.14716v1](http://arxiv.org/abs/2506.14716v1)|**2025-06-17**|null|

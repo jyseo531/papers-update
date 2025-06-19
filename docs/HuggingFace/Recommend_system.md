@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-06-18
+Updated on 2025-06-19
 
 > Generated from the Hugging Face database.
 
@@ -1985,6 +1985,7 @@ Updated on 2025-06-18
 | 575 | 4 | prs-eth/marigold-normals-v1-1Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-normals-v1-1) |
 | 1k | 4 | stanfordmimi/MedVAEImage-to-Image | UpdatedMar 31 | [Link](https://huggingface.co/stanfordmimi/MedVAE) |
 | 3 | 4 | wikeeyang/UniWorld-V1-NF4Image-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/wikeeyang/UniWorld-V1-NF4) |
+| 38 | 4 | rafiaashraf/tryOn_modelImage-to-Image | UpdatedFeb 22 | [Link](https://huggingface.co/rafiaashraf/tryOn_model) |
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
@@ -4316,6 +4317,7 @@ Updated on 2025-06-18
 | 12.1k |  | strangerzonehf/Flux-Ultimate-LoRA-CollectionText-to-Image | Updated1 day ago | [Link](https://huggingface.co/strangerzonehf/Flux-Ultimate-LoRA-Collection) |
 | 506 |  | multimodalart/flux-tarot-v1Text-to-Image | UpdatedAug 16, 2024 | [Link](https://huggingface.co/multimodalart/flux-tarot-v1) |
 | 5 | Unknown | calcuis/cosmos-predict2-ggufText-to-Image | Updated29 minutes ago | [Link](https://huggingface.co/calcuis/cosmos-predict2-gguf) |
+| 5 | Unknown | ippanorc/animetic_lightText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/ippanorc/animetic_light) |
 
 ## Text-to-Speech
 
