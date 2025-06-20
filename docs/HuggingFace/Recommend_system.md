@@ -1969,6 +1969,7 @@ Updated on 2025-06-20
 | 12.1k | 19 | lllyasviel/control_v11p_sd15_softedgeImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_softedge) |
 | 10.1k | 17 | Stable-X/yoso-delight-v0-4-baseImage-to-Image | UpdatedSep 26, 2024 | [Link](https://huggingface.co/Stable-X/yoso-delight-v0-4-base) |
 | 29 | 17 | RedRocket/furception_vaeImage-to-Image | UpdatedJan 17, 2024 | [Link](https://huggingface.co/RedRocket/furception_vae) |
+| 4.17k | 17 | ohayonguy/PMRF_blind_face_image_restorationImage-to-Image | UpdatedOct 3, 2024 | [Link](https://huggingface.co/ohayonguy/PMRF_blind_face_image_restoration) |
 | 37.8k | 16 | caidas/swin2SR-realworld-sr-x4-64-bsrgan-psnrImage-to-Image | UpdatedJan 21, 2023 | [Link](https://huggingface.co/caidas/swin2SR-realworld-sr-x4-64-bsrgan-psnr) |
 | 13.9k | 15 | lllyasviel/control_v11p_sd15_mlsdImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_mlsd) |
 | 8.6k | 13 | lllyasviel/control_v11p_sd15_segImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_seg) |
@@ -3847,6 +3848,7 @@ Updated on 2025-06-20
 | 121 | 15 | shisa-ai/shisa-v2-llama3 | Updated3 days ago | [Link](https://huggingface.co/shisa-ai/shisa-v2-llama3.1-405b) |
 | 1.37k | 15 | ubergarm/DeepSeek-R1-0528-GGUFText | Updated1 day ago | [Link](https://huggingface.co/ubergarm/DeepSeek-R1-0528-GGUF) |
 | 10.7k | 15 | lmstudio-community/Magistral-Small-2506-GGUFText | Updated5 days ago | [Link](https://huggingface.co/lmstudio-community/Magistral-Small-2506-GGUF) |
+| 65 | 15 | ICONNAI/ICONN-e1Text | Updated3 days ago | [Link](https://huggingface.co/ICONNAI/ICONN-e1) |
 | 1k | 14 | unsloth/DeepSeek-R1-0528Text | Updated2 days ago | [Link](https://huggingface.co/unsloth/DeepSeek-R1-0528) |
 | 578k | 6.11k | meta-llama/Meta-Llama-3-8BText | UpdatedSep 27, 2024 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
@@ -3901,6 +3903,7 @@ Updated on 2025-06-20
 | 101 |  | mistralai/Magistral-Small-2506Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/mistralai/Magistral-Small-2506) |
 | 17 | Unknown | google/gemma-3n-E2B-it-litert-lm-previewText | Updatedabout 16 hours ago | [Link](https://huggingface.co/google/gemma-3n-E2B-it-litert-lm-preview) |
 | 19 | Unknown | arcee-ai/Virtuoso-LargeText | Updatedabout 18 hours ago | [Link](https://huggingface.co/arcee-ai/Virtuoso-Large) |
+| 83 |  | Skywork/Skywork-SWE-32BText | Updatedabout 21 hours ago | [Link](https://huggingface.co/Skywork/Skywork-SWE-32B) |
 
 ## Text Ranking
 
@@ -4429,6 +4432,7 @@ Updated on 2025-06-20
 | 56 | 3 | Misha24-10/F5-TTS_RUSSIANText-to-Speech | Updated5 days ago | [Link](https://huggingface.co/Misha24-10/F5-TTS_RUSSIAN) |
 | 1.23k | 3 | mmwillet2/Kokoro_GGUFText-to-Speech | Updated6 days ago | [Link](https://huggingface.co/mmwillet2/Kokoro_GGUF) |
 | 287 | 3 | calcuis/openaudio-ggufText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/calcuis/openaudio-gguf) |
+| 10 | 3 | fnlp/MOSS-TTSD-v0Text-to-Speech | Updatedabout 3 hours ago | [Link](https://huggingface.co/fnlp/MOSS-TTSD-v0) |
 | 2.36M | 2.41k | coqui/XTTS-v2Text-to-Speech | UpdatedDec 11, 2023 | [Link](https://huggingface.co/coqui/XTTS-v2) |
 | 153 | 2 | mmwillet2/Dia_GGUFText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/mmwillet2/Dia_GGUF) |
 | 55 | 2 | unsloth/Spark-TTS-0 | Updated2 days ago | [Link](https://huggingface.co/unsloth/Spark-TTS-0.5B) |
