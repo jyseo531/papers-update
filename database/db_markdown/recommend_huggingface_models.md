@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-06-20
+Updated on 2025-06-21
 
 > Generated from the Hugging Face database.
 
@@ -1779,6 +1779,7 @@ Updated on 2025-06-20
 | 648 | 9 | xlangai/Jedi-3B-1080pImage-Text-to-Text | Updated12 days ago | [Link](https://huggingface.co/xlangai/Jedi-3B-1080p) |
 | 31 | 9 | qingy2024/GRMR-V3-G4BImage-Text-to-Text | Updatedabout 22 hours ago | [Link](https://huggingface.co/qingy2024/GRMR-V3-G4B) |
 | 163 | 9 | microsoft/GUI-Actor-2B-Qwen2-VLImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/microsoft/GUI-Actor-2B-Qwen2-VL) |
+| 12.7k | 9 | unsloth/Nanonets-OCR-s-GGUFImage-Text-to-Text | Updated4 days ago | [Link](https://huggingface.co/unsloth/Nanonets-OCR-s-GGUF) |
 | 9.71k | 8 | lmstudio-community/gemma-3-27b-it-GGUFImage-Text-to-Text | Updatedabout 18 hours ago | [Link](https://huggingface.co/lmstudio-community/gemma-3-27b-it-GGUF) |
 | 2.95k | 8 | bartowski/google_gemma-3-4b-it-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF) |
 | 725 | 8 | Mungert/gemma-3-4b-it-ggufImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/Mungert/gemma-3-4b-it-gguf) |
@@ -2065,6 +2066,7 @@ Updated on 2025-06-20
 | 4 | Unknown | yuulind/pix2pix-sar2rgbImage-to-Image | UpdatedNov 17, 2024 | [Link](https://huggingface.co/yuulind/pix2pix-sar2rgb) |
 | 116 | Unknown | Iceclear/StableSRImage-to-Image | UpdatedAug 26, 2024 | [Link](https://huggingface.co/Iceclear/StableSR) |
 | 2 | Unknown | bdsqlsz/framepack_oneframe_qinglong_figureImage-to-Image | Updatedabout 18 hours ago | [Link](https://huggingface.co/bdsqlsz/framepack_oneframe_qinglong_figure) |
+| 3 | Unknown | davidelobba/TEMU-VTOFFImage-to-Image | Updated22 days ago | [Link](https://huggingface.co/davidelobba/TEMU-VTOFF) |
 
 ## Image-to-Text
 
@@ -4167,6 +4169,7 @@ Updated on 2025-06-20
 | 49.2k | 457 | Shakker-Labs/FLUX | UpdatedAug 29, 2024 | [Link](https://huggingface.co/Shakker-Labs/FLUX.1-dev-ControlNet-Union-Pro) |
 | 39.9k | 449 | alimama-creative/FLUX | UpdatedOct 15, 2024 | [Link](https://huggingface.co/alimama-creative/FLUX.1-Turbo-Alpha) |
 | 37.6k | 445 | XLabs-AI/flux-controlnet-collectionsText-to-Image | UpdatedAug 30, 2024 | [Link](https://huggingface.co/XLabs-AI/flux-controlnet-collections) |
+| 779k | 392 | stabilityai/sd-turboText-to-Image | UpdatedJul 10, 2024 | [Link](https://huggingface.co/stabilityai/sd-turbo) |
 | 26.8k | 386 | ostris/Flex | UpdatedJan 19 | [Link](https://huggingface.co/ostris/Flex.1-alpha) |
 | 275 | 375 | dalle-mini/dalle-miniText-to-Image | UpdatedJan 11, 2023 | [Link](https://huggingface.co/dalle-mini/dalle-mini) |
 | 89.5k | 370 | OnomaAIResearch/Illustrious-xl-early-release-v0Text-to-Image | UpdatedFeb 13 | [Link](https://huggingface.co/OnomaAIResearch/Illustrious-xl-early-release-v0) |
@@ -4613,6 +4616,7 @@ Updated on 2025-06-20
 | 6 | Unknown | cszy98/DCMText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/cszy98/DCM) |
 | 27 | Unknown | gdhe17/Self-ForcingText-to-Video | Updatedabout 8 hours ago | [Link](https://huggingface.co/gdhe17/Self-Forcing) |
 | 2 | Unknown | Skywork/SkyReels-V2-DF-14B-540P-DiffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-DF-14B-540P-Diffusers) |
+| 2 | Unknown | Skywork/SkyReels-V2-T2V-14B-720P-DiffusersText-to-Video | Updated7 days ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-T2V-14B-720P-Diffusers) |
 
 ## Text2Text Generation
 
