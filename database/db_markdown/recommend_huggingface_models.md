@@ -29,6 +29,7 @@ Updated on 2025-06-21
 | 612 | 7 | internlm/internlm-xcomposer2d5-7b-rewardAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/internlm/internlm-xcomposer2d5-7b-reward) |
 | 16 | 7 | FunAGI/Qwen2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/FunAGI/Qwen2.5-Omni-7B-GPTQ-4bit) |
 | 1.15k | 6 | EPFL-VILAB/4M-21_BAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-21_B) |
+| 186 | 6 | showlab/show-o2-7BAny-to-Any | Updatedabout 9 hours ago | [Link](https://huggingface.co/showlab/show-o2-7B) |
 | 1.63k | 5 | PKU-Alignment/AA-chameleon-7b-plusAny-to-Any | UpdatedSep 13, 2024 | [Link](https://huggingface.co/PKU-Alignment/AA-chameleon-7b-plus) |
 | 2.67k | 5 | Junfeng5/Liquid_V1_7BAny-to-Any | Updated8 days ago | [Link](https://huggingface.co/Junfeng5/Liquid_V1_7B) |
 | 126 | 4 | Alpha-VLLM/Chameleon_7B_mGPTAny-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Chameleon_7B_mGPT) |
@@ -41,6 +42,7 @@ Updated on 2025-06-21
 | 2 | 3 | impactframes/Janus-1 | UpdatedOct 19, 2024 | [Link](https://huggingface.co/impactframes/Janus-1.3B) |
 | 136 | 3 | OmniGen2/OmniGen2Any-to-Any | Updatedabout 13 hours ago | [Link](https://huggingface.co/OmniGen2/OmniGen2) |
 | 3 | 3 | ICTNLP/stream-omni-8bAny-to-Any | Updatedabout 4 hours ago | [Link](https://huggingface.co/ICTNLP/stream-omni-8b) |
+| 139 | 3 | showlab/show-o2-1 | Updatedabout 9 hours ago | [Link](https://huggingface.co/showlab/show-o2-1.5B) |
 | 47 | 2 | PKU-Alignment/AnyRewardModelAny-to-Any | UpdatedDec 28, 2024 | [Link](https://huggingface.co/PKU-Alignment/AnyRewardModel) |
 | 585 | 2 | wnma3mz/Janus-Pro-1B-4bitAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/wnma3mz/Janus-Pro-1B-4bit) |
 | 3 | 2 | lintw/HealthGPT-XL32Any-to-Any | Updatedabout 18 hours ago | [Link](https://huggingface.co/lintw/HealthGPT-XL32) |
@@ -1731,6 +1733,7 @@ Updated on 2025-06-21
 | 80 | 14 | google/gemma-3-27b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-pt) |
 | 20 | 14 | lusxvr/nanoVLM-222MImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/lusxvr/nanoVLM-222M) |
 | 501 | 14 | CEIA-UFG/Gemma-3-Gaia-PT-BR-4b-itImage-Text-to-Text | Updatedabout 22 hours ago | [Link](https://huggingface.co/CEIA-UFG/Gemma-3-Gaia-PT-BR-4b-it) |
+| 2.16k | 14 | unsloth/Mistral-Small-3 | Updatedabout 9 hours ago | [Link](https://huggingface.co/unsloth/Mistral-Small-3.2-24B-Instruct-2506-GGUF) |
 | 582 | 13 | google/gemma-3-4b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-4b-pt) |
 | 4.2k | 13 | mlabonne/gemma-3-12b-it-abliterated-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-12b-it-abliterated-GGUF) |
 | 10.7k | 13 | unsloth/Llama-4-Maverick-17B-128E-Instruct-GGUFImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/unsloth/Llama-4-Maverick-17B-128E-Instruct-GGUF) |
@@ -1960,6 +1963,7 @@ Updated on 2025-06-21
 | 102 | 34 | keras-io/lowlight-enhance-mirnetImage-to-Image | UpdatedJul 5, 2024 | [Link](https://huggingface.co/keras-io/lowlight-enhance-mirnet) |
 | 8.66k | 33 | caidas/swin2SR-classical-sr-x2-64Image-to-Image | UpdatedMar 27, 2024 | [Link](https://huggingface.co/caidas/swin2SR-classical-sr-x2-64) |
 | 7.79k | 31 | lllyasviel/control_v11p_sd15s2_lineart_animeImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15s2_lineart_anime) |
+| 1.37k | 31 | LanguageBind/UniWorld-V1Image-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/LanguageBind/UniWorld-V1) |
 | 303 | 30 | lllyasviel/sd-controlnet-normalImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-normal) |
 | 3 | 30 | vllab/controlnet-handsImage-to-Image | UpdatedMay 19, 2023 | [Link](https://huggingface.co/vllab/controlnet-hands) |
 | 298 | 29 | ixarchakos/tryOffAnyoneImage-to-Image | UpdatedDec 13, 2024 | [Link](https://huggingface.co/ixarchakos/tryOffAnyone) |
@@ -2067,6 +2071,7 @@ Updated on 2025-06-21
 | 116 | Unknown | Iceclear/StableSRImage-to-Image | UpdatedAug 26, 2024 | [Link](https://huggingface.co/Iceclear/StableSR) |
 | 2 | Unknown | bdsqlsz/framepack_oneframe_qinglong_figureImage-to-Image | Updatedabout 18 hours ago | [Link](https://huggingface.co/bdsqlsz/framepack_oneframe_qinglong_figure) |
 | 3 | Unknown | davidelobba/TEMU-VTOFFImage-to-Image | Updated22 days ago | [Link](https://huggingface.co/davidelobba/TEMU-VTOFF) |
+| 3 | Unknown | GenieLamp/VTONImage-to-Image | UpdatedMay 12 | [Link](https://huggingface.co/GenieLamp/VTON) |
 
 ## Image-to-Text
 
