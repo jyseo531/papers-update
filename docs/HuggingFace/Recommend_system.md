@@ -2158,6 +2158,7 @@ Updated on 2025-06-22
 | 170 | 1 | mradermacher/EraX-VL-2B-V1 | UpdatedJan 16 | [Link](https://huggingface.co/mradermacher/EraX-VL-2B-V1.5-i1-GGUF) |
 | 202 | 1 | mradermacher/Qari-OCR-0 | Updated5 days ago | [Link](https://huggingface.co/mradermacher/Qari-OCR-0.3-SNAPSHOT-VL-2B-Instruct-merged-GGUF) |
 | 542 | 1 | logasanjeev/indian-id-validatorImage-to-Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/logasanjeev/indian-id-validator) |
+| 55 | 1 | humbleakh/qwen2 | Updated14 days ago | [Link](https://huggingface.co/humbleakh/qwen2.5-vl-3b-8bit-chain-of-zoom) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -2201,6 +2202,7 @@ Updated on 2025-06-22
 | 15 | Unknown | techietrader/captcha_ocrImage-to-Text | UpdatedJun 6, 2024 | [Link](https://huggingface.co/techietrader/captcha_ocr) |
 | 4 | Unknown | baudm/parseq-smallImage-to-Text | UpdatedAug 28, 2022 | [Link](https://huggingface.co/baudm/parseq-small) |
 | 1 | Unknown | Kansallisarkisto/cyrillic-htr-modelImage-to-Text | Updatedabout 17 hours ago | [Link](https://huggingface.co/Kansallisarkisto/cyrillic-htr-model) |
+| 1 | Unknown | myeongkyunkang/medcap-textplus-pmcoa-patients-llama3 | Updatedabout 10 hours ago | [Link](https://huggingface.co/myeongkyunkang/medcap-textplus-pmcoa-patients-llama3.1) |
 
 ## Image-to-Video
 
@@ -4230,6 +4232,7 @@ Updated on 2025-06-22
 | 233 | 9 | nvidia/Cosmos-Predict2-2B-Text2ImageText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/Cosmos-Predict2-2B-Text2Image) |
 | 215 | 8 | tensorart/stable-diffusion-3 | Updated8 minutes ago | [Link](https://huggingface.co/tensorart/stable-diffusion-3.5-large-TurboX) |
 | 34 | 8 | renderartist/coloringbookhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/coloringbookhidream) |
+| 1.79k | 8 | MaxedOut/ComfyUI-Starter-PacksText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/MaxedOut/ComfyUI-Starter-Packs) |
 | 1.69k | 7 | silveroxides/Chroma-GGUFText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/silveroxides/Chroma-GGUF) |
 | 58 | 7 | Freepik/F-Lite-TextureText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Freepik/F-Lite-Texture) |
 | 41 | 7 | renderartist/simplevectorhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/simplevectorhidream) |
