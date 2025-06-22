@@ -18,8 +18,8 @@
 |**2025-06-18**|**GRIM: Task-Oriented Grasping with Conditioning on Generative Examples**|Shailesh et.al.|[2506.15607v1](http://arxiv.org/abs/2506.15607v1)|**2025-06-18**|null|
 |**2025-06-18**|**Periodic equatorial orbits in a black bounce scenario**|Anderson Bragado et.al.|[2506.15600v1](http://arxiv.org/abs/2506.15600v1)|**2025-06-18**|null|
 |**2025-06-18**|**A Unified Graph-based Framework for Scalable 3D Tree Reconstruction and Non-Destructive Biomass Estimation from Point Clouds**|Di Wang et.al.|[2506.15577v1](http://arxiv.org/abs/2506.15577v1)|**2025-06-18**|null|
-|**2025-06-18**|**DiscRec: Disentangled Semantic-Collaborative Modeling for Generative Recommendation**|Chang Liu et.al.|[2506.15576v1](http://arxiv.org/abs/2506.15576v1)|**2025-06-18**|null|
-|**2025-06-18**|**Show-o2: Improved Native Unified Multimodal Models**|Jinheng Xie et.al.|[2506.15564v1](http://arxiv.org/abs/2506.15564v1)|**2025-06-18**|null|
+|**2025-06-18**|**DiscRec: Disentangled Semantic-Collaborative Modeling for Generative Recommendation**|Chang Liu et.al.|[2506.15576v1](http://arxiv.org/abs/2506.15576v1)|**2025-06-18**|[link](https://github.com/ten-mao/discrec)|
+|**2025-06-18**|**Show-o2: Improved Native Unified Multimodal Models**|Jinheng Xie et.al.|[2506.15564v1](http://arxiv.org/abs/2506.15564v1)|**2025-06-18**|[link](https://github.com/showlab/show-o)|
 |**2025-06-18**|**Control and Realism: Best of Both Worlds in Layout-to-Image without Training**|Bonan Li et.al.|[2506.15563v1](http://arxiv.org/abs/2506.15563v1)|**2025-06-18**|null|
 |**2025-06-18**|**RaCalNet: Radar Calibration Network for Sparse-Supervised Metric Depth Estimation**|Xingrui Qin et.al.|[2506.15560v1](http://arxiv.org/abs/2506.15560v1)|**2025-06-18**|null|
 |**2025-06-18**|**Versatile Symbolic Music-for-Music Modeling via Function Alignment**|Junyan Jiang et.al.|[2506.15548v1](http://arxiv.org/abs/2506.15548v1)|**2025-06-18**|null|

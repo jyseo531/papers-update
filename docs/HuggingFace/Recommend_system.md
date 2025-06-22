@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-06-21
+Updated on 2025-06-22
 
 > Generated from the Hugging Face database.
 
@@ -1836,6 +1836,7 @@ Updated on 2025-06-21
 | 30 | Unknown | google/gemma-3n-E2B-it-litert-previewImage-Text-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/google/gemma-3n-E2B-it-litert-preview) |
 | 10 | Unknown | ngxson/Devstral-Small-Vision-2505-GGUFImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/ngxson/Devstral-Small-Vision-2505-GGUF) |
 | 109 | Unknown | echo840/MonkeyOCRImage-Text-to-Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/echo840/MonkeyOCR) |
+| 28 | Unknown | moonshotai/Kimi-VL-A3B-Thinking-2506Image-Text-to-Text | Updated16 minutes ago | [Link](https://huggingface.co/moonshotai/Kimi-VL-A3B-Thinking-2506) |
 
 ## Image-to-3D
 
@@ -1956,6 +1957,7 @@ Updated on 2025-06-21
 | 12.4k | 52 | lllyasviel/sd-controlnet-segImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-seg) |
 | 12.3k | 52 | lllyasviel/control_v11f1p_sd15_depthImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11f1p_sd15_depth) |
 | 5.13k | 51 | TencentARC/t2i-adapter-canny-sdxl-1 | UpdatedSep 7, 2023 | [Link](https://huggingface.co/TencentARC/t2i-adapter-canny-sdxl-1.0) |
+| 3.34k | 48 | TencentARC/t2i-adapter-openpose-sdxl-1 | UpdatedSep 7, 2023 | [Link](https://huggingface.co/TencentARC/t2i-adapter-openpose-sdxl-1.0) |
 | 1.17k | 44 | lllyasviel/sd-controlnet-mlsdImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-mlsd) |
 | 105 | 44 | ghoskno/Color-Canny-Controlnet-modelImage-to-Image | UpdatedMay 25, 2023 | [Link](https://huggingface.co/ghoskno/Color-Canny-Controlnet-model) |
 | 16k | 44 | lllyasviel/control_v11p_sd15_cannyImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_canny) |
@@ -2130,6 +2132,7 @@ Updated on 2025-06-21
 | 5 | 5 | Yodazon/3DPrintFailureTypeImage-to-Text | UpdatedOct 18, 2024 | [Link](https://huggingface.co/Yodazon/3DPrintFailureType) |
 | 17 | 4 | MixTex/tiny-ZhEn-for-onnxImage-to-Text | UpdatedFeb 23 | [Link](https://huggingface.co/MixTex/tiny-ZhEn-for-onnx) |
 | 14 | 4 | unalignment/Pixtral-12B-Captioner-RelaxedImage-to-Text | UpdatedJan 22 | [Link](https://huggingface.co/unalignment/Pixtral-12B-Captioner-Relaxed) |
+| 3.42k | 4 | breezedeus/pix2text-mfdImage-to-Text | UpdatedJul 10, 2024 | [Link](https://huggingface.co/breezedeus/pix2text-mfd) |
 | 299 | 3 | cnmoro/nano-image-captioningImage-to-Text | Updatedabout 1 month ago | [Link](https://huggingface.co/cnmoro/nano-image-captioning) |
 | 45 | 3 | braintacles/brainblipImage-to-Text | UpdatedJun 27, 2024 | [Link](https://huggingface.co/braintacles/brainblip) |
 | 55 | 3 | sbintuitions/sarashina2-vision-8bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-8b) |

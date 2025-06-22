@@ -6,7 +6,7 @@
 |**2025-06-18**|**MCOO-SLAM: A Multi-Camera Omnidirectional Object SLAM System**|Miaoxin Pan et.al.|[2506.15402v1](http://arxiv.org/abs/2506.15402v1)|**2025-06-18**|null|
 |**2025-06-18**|**High-Entropy Skutterudites as Thermoelectrics: Synthesizability and Band Convergence via the Cocktail Effect**|Jose J. Plata et.al.|[2506.15324v1](http://arxiv.org/abs/2506.15324v1)|**2025-06-18**|null|
 |**2025-06-18**|**SHeRLoc: Synchronized Heterogeneous Radar Place Recognition for Cross-Modal Localization**|Hanjun Kim et.al.|[2506.15175v1](http://arxiv.org/abs/2506.15175v1)|**2025-06-18**|null|
-|**2025-06-18**|**Enhancing point cloud analysis via neighbor aggregation correction based on cross-stage structure correlation**|Jiaqi Shi et.al.|[2506.15160v1](http://arxiv.org/abs/2506.15160v1)|**2025-06-18**|null|
+|**2025-06-18**|**Enhancing point cloud analysis via neighbor aggregation correction based on cross-stage structure correlation**|Jiaqi Shi et.al.|[2506.15160v1](http://arxiv.org/abs/2506.15160v1)|**2025-06-18**|[link](https://github.com/agent9717/pointdistribution)|
 |**2025-06-18**|**VIMS: A Visual-Inertial-Magnetic-Sonar SLAM System in Underwater Environments**|Bingbing Zhang et.al.|[2506.15126v1](http://arxiv.org/abs/2506.15126v1)|**2025-06-18**|null|
 |**2025-06-17**|**Q2SAR: A Quantum Multiple Kernel Learning Approach for Drug Discovery**|Alejandro Giraldo et.al.|[2506.14920v1](http://arxiv.org/abs/2506.14920v1)|**2025-06-17**|null|
 |**2025-06-17**|**Cross-Modal Geometric Hierarchy Fusion: An Implicit-Submap Driven Framework for Resilient 3D Place Recognition**|Xiaohui Jiang et.al.|[2506.14243v1](http://arxiv.org/abs/2506.14243v1)|**2025-06-17**|null|
