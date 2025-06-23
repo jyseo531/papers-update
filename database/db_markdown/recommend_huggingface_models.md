@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-06-22
+Updated on 2025-06-23
 
 > Generated from the Hugging Face database.
 
@@ -2137,6 +2137,7 @@ Updated on 2025-06-22
 | 45 | 3 | braintacles/brainblipImage-to-Text | UpdatedJun 27, 2024 | [Link](https://huggingface.co/braintacles/brainblip) |
 | 55 | 3 | sbintuitions/sarashina2-vision-8bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-8b) |
 | 720 | 3 | zhiyuanyou/DeQA-Score-Mix3Image-to-Text | UpdatedMar 25 | [Link](https://huggingface.co/zhiyuanyou/DeQA-Score-Mix3) |
+| 22 | 3 | kusumakar/hashtagGeneraterImage-to-Text | UpdatedJul 15, 2023 | [Link](https://huggingface.co/kusumakar/hashtagGenerater) |
 | 51 | 2 | microsoft/git-base-msrvtt-qaImage-to-Text | UpdatedApr 4, 2024 | [Link](https://huggingface.co/microsoft/git-base-msrvtt-qa) |
 | 32 | 2 | baseplate/vit-gpt2-image-captioningImage-to-Text | UpdatedApr 5, 2023 | [Link](https://huggingface.co/baseplate/vit-gpt2-image-captioning) |
 | 38 | 2 | sbintuitions/sarashina2-vision-14bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-14b) |
@@ -3841,6 +3842,7 @@ Updated on 2025-06-22
 | 214 | 17 | openbmb/MiniCPM4-0 | Updated1 day ago | [Link](https://huggingface.co/openbmb/MiniCPM4-0.5B) |
 | 372 | 17 | nvidia/DeepSeek-R1-0528-FP4Text | Updated2 days ago | [Link](https://huggingface.co/nvidia/DeepSeek-R1-0528-FP4) |
 | 52 | 17 | OpenBuddy/OpenBuddy-R1-0528-Distill-Qwen3-32B-Preview0-QATText | Updatedabout 20 hours ago | [Link](https://huggingface.co/OpenBuddy/OpenBuddy-R1-0528-Distill-Qwen3-32B-Preview0-QAT) |
+| 33 | 17 | katanemo/Arch-Agent-7BText | Updated2 days ago | [Link](https://huggingface.co/katanemo/Arch-Agent-7B) |
 | 938 | 16 | ubergarm/DeepSeek-V3-0324-GGUFText | Updated3 days ago | [Link](https://huggingface.co/ubergarm/DeepSeek-V3-0324-GGUF) |
 | 2.09k | 16 | google/gemma-3-1b-it-qat-q4_0-ggufText | Updated3 days ago | [Link](https://huggingface.co/google/gemma-3-1b-it-qat-q4_0-gguf) |
 | 2.94k | 16 | nvidia/AceMath-RL-Nemotron-7BText | Updated4 days ago | [Link](https://huggingface.co/nvidia/AceMath-RL-Nemotron-7B) |
