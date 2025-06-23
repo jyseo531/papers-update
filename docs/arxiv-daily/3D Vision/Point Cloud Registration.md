@@ -2,33 +2,33 @@
 ### Point Cloud Registration
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-18**|**cAST: Enhancing Code Retrieval-Augmented Generation with Structural Chunking via Abstract Syntax Tree**|Yilin Zhang et.al.|[2506.15655v1](http://arxiv.org/abs/2506.15655v1)|**2025-06-18**|null|
-|**2025-06-18**|**Further Evidence for a Direct-Collapse Origin of the Supermassive Black Hole at the Center of the Infinity Galaxy**|Pieter van Dokkum et.al.|[2506.15619v1](http://arxiv.org/abs/2506.15619v1)|**2025-06-18**|null|
-|**2025-06-18**|**BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**|Yuqing Lan et.al.|[2506.15610v1](http://arxiv.org/abs/2506.15610v1)|**2025-06-18**|null|
-|**2025-06-18**|**Primal-Dual Coordinate Descent for Nonconvex-Nonconcave Saddle Point Problems Under the Weak MVI Assumption**|Iyad Walwil et.al.|[2506.15597v1](http://arxiv.org/abs/2506.15597v1)|**2025-06-18**|null|
-|**2025-06-18**|**Mono-Modalizing Extremely Heterogeneous Multi-Modal Medical Image Registration**|Kyobin Choo et.al.|[2506.15596v1](http://arxiv.org/abs/2506.15596v1)|**2025-06-18**|null|
-|**2025-06-18**|**Statistical post-processing of operational dual-resolution wind-speed ensemble forecasts**|Sándor Baran et.al.|[2506.15578v1](http://arxiv.org/abs/2506.15578v1)|**2025-06-18**|null|
-|**2025-06-18**|**A Unified Graph-based Framework for Scalable 3D Tree Reconstruction and Non-Destructive Biomass Estimation from Point Clouds**|Di Wang et.al.|[2506.15577v1](http://arxiv.org/abs/2506.15577v1)|**2025-06-18**|null|
-|**2025-06-18**|**RaCalNet: Radar Calibration Network for Sparse-Supervised Metric Depth Estimation**|Xingrui Qin et.al.|[2506.15560v1](http://arxiv.org/abs/2506.15560v1)|**2025-06-18**|null|
-|**2025-06-18**|**Towards Explainable Indoor Localization: Interpreting Neural Network Learning on Wi-Fi Fingerprints Using Logic Gates**|Danish Gufran et.al.|[2506.15559v1](http://arxiv.org/abs/2506.15559v1)|**2025-06-18**|null|
-|**2025-06-18**|**Theory of universal Planckian metal in t-J model: application for high-Tc cuprate superconductors**|Yung-Yeh Chang et.al.|[2506.15552v1](http://arxiv.org/abs/2506.15552v1)|**2025-06-18**|null|
-|**2025-06-18**|**Aerial Grasping via Maximizing Delta-Arm Workspace Utilization**|Haoran Chen et.al.|[2506.15539v1](http://arxiv.org/abs/2506.15539v1)|**2025-06-18**|null|
-|**2025-06-18**|**Rotationally inelastic scattering of cyanocyclopentadiene by helium atoms**|Karina Sogomonyan et.al.|[2506.15536v1](http://arxiv.org/abs/2506.15536v1)|**2025-06-18**|null|
-|**2025-06-18**|**Searching for Kerr in string amplitudes**|Francesco Alessio et.al.|[2506.15529v1](http://arxiv.org/abs/2506.15529v1)|**2025-06-18**|null|
-|**2025-06-18**|**Atys: An Efficient Profiling Framework for Identifying Hotspot Functions in Large-scale Cloud Microservices**|Jiaqi Sun et.al.|[2506.15523v1](http://arxiv.org/abs/2506.15523v1)|**2025-06-18**|null|
-|**2025-06-18**|**Unconventional Spin Dynamics and Supersolid Excitations in the Triangular-Lattice XXZ Model**|Rafael Flores-Calderón et.al.|[2506.15516v1](http://arxiv.org/abs/2506.15516v1)|**2025-06-18**|null|
-|**2025-06-18**|**RePCS: Diagnosing Data Memorization in LLM-Powered Retrieval-Augmented Generation**|Le Vu Anh et.al.|[2506.15513v1](http://arxiv.org/abs/2506.15513v1)|**2025-06-18**|null|
-|**2025-06-18**|**Over-squashing in Spatiotemporal Graph Neural Networks**|Ivan Marisca et.al.|[2506.15507v1](http://arxiv.org/abs/2506.15507v1)|**2025-06-18**|null|
-|**2025-06-18**|**Isolated singularities in $G_2$-structures with torsion**|Henrique Sá Earp et.al.|[2506.15482v1](http://arxiv.org/abs/2506.15482v1)|**2025-06-18**|null|
-|**2025-06-18**|**Impeding Turbulence Decay in Self-gravitating Cloud Cores**|Shibo Yuan et.al.|[2506.15476v1](http://arxiv.org/abs/2506.15476v1)|**2025-06-18**|null|
-|**2025-06-18**|**Warping and Matching Subsequences Between Time Series**|Simiao Lin et.al.|[2506.15452v1](http://arxiv.org/abs/2506.15452v1)|**2025-06-18**|null|
-|**2025-06-18**|**AgentGroupChat-V2: Divide-and-Conquer Is What LLM-Based Multi-Agent System Need**|Zhouhong Gu et.al.|[2506.15451v1](http://arxiv.org/abs/2506.15451v1)|**2025-06-18**|[link](https://github.com/mikegu721/agentgroupchat-v2)|
-|**2025-06-18**|**Dynamic guessing for Hamiltonian Monte Carlo with embedded numerical root-finding**|Teddy Groves et.al.|[2506.15423v1](http://arxiv.org/abs/2506.15423v1)|**2025-06-18**|[link](https://github.com/dtu-qmcm/grapevine)|
-|**2025-06-18**|**RISC-V for HPC: An update of where we are and main action points**|Nick Brown et.al.|[2506.15418v1](http://arxiv.org/abs/2506.15418v1)|**2025-06-18**|null|
-|**2025-06-18**|**Golden Partition Zone: Rethinking Neural Network Partitioning Under Inversion Threats in Collaborative Inference**|Rongke Liu et.al.|[2506.15412v2](http://arxiv.org/abs/2506.15412v2)|**2025-06-19**|null|
-|**2025-06-18**|**Efficient, inverse gigavoxel-scale optimization of diffractive lens**|Marco Gerhardt et.al.|[2506.15411v1](http://arxiv.org/abs/2506.15411v1)|**2025-06-18**|null|
-|**2025-06-18**|**MCOO-SLAM: A Multi-Camera Omnidirectional Object SLAM System**|Miaoxin Pan et.al.|[2506.15402v1](http://arxiv.org/abs/2506.15402v1)|**2025-06-18**|null|
-|**2025-06-18**|**Multi-dimensional evaluation on a rural integrated energy system including solar, wind, biomass and geothermal energy**|Ruonan Lia et.al.|[2506.15398v1](http://arxiv.org/abs/2506.15398v1)|**2025-06-18**|null|
-|**2025-06-18**|**Efficient Online Mirror Descent Stochastic Approximation for Multi-Stage Stochastic Programming**|Junhui Zhang et.al.|[2506.15392v1](http://arxiv.org/abs/2506.15392v1)|**2025-06-18**|null|
-|**2025-06-18**|**Global Ground Metric Learning with Applications to scRNA data**|Damin Kühn et.al.|[2506.15383v1](http://arxiv.org/abs/2506.15383v1)|**2025-06-18**|[link](https://github.com/damink/globalground-metriclearning)|
-|**2025-06-18**|**Dynamical decoupling of interacting spins through group factorization**|Colin Read et.al.|[2506.15382v1](http://arxiv.org/abs/2506.15382v1)|**2025-06-18**|null|
+|**2025-06-20**|**Emergent Temporal Correspondences from Video Diffusion Transformers**|Jisu Nam et.al.|[2506.17220v1](http://arxiv.org/abs/2506.17220v1)|**2025-06-20**|[link](https://github.com/cvlab-kaist/DiffTrack)|
+|**2025-06-20**|**The full automorphism groups of the five symmetric $(15,8,4)$-designs**|Mark Pankov et.al.|[2506.17216v1](http://arxiv.org/abs/2506.17216v1)|**2025-06-20**|null|
+|**2025-06-20**|**Long-term Traffic Simulation with Interleaved Autoregressive Motion and Scenario Generation**|Xiuyu Yang et.al.|[2506.17213v1](http://arxiv.org/abs/2506.17213v1)|**2025-06-20**|null|
+|**2025-06-20**|**Part$^{2}$GS: Part-aware Modeling of Articulated Objects using 3D Gaussian Splatting**|Tianjiao Yu et.al.|[2506.17212v1](http://arxiv.org/abs/2506.17212v1)|**2025-06-20**|null|
+|**2025-06-20**|**Schrödinger Bridge Matching for Tree-Structured Costs and Entropic Wasserstein Barycentres**|Samuel Howard et.al.|[2506.17197v1](http://arxiv.org/abs/2506.17197v1)|**2025-06-20**|null|
+|**2025-06-20**|**On Energy-Efficient Passive Beamforming Design of RIS-Assisted CoMP-NOMA Networks**|Muhammad Umer et.al.|[2506.17189v1](http://arxiv.org/abs/2506.17189v1)|**2025-06-20**|null|
+|**2025-06-20**|**Optimal Implicit Bias in Linear Regression**|Kanumuri Nithin Varma et.al.|[2506.17187v1](http://arxiv.org/abs/2506.17187v1)|**2025-06-20**|null|
+|**2025-06-20**|**Partition function for several Ising model interface structures**|Alessio Squarcini et.al.|[2506.17170v1](http://arxiv.org/abs/2506.17170v1)|**2025-06-20**|null|
+|**2025-06-20**|**Higher dimensional Sacks-Uhlenbeck-type functionals and applications**|Gianmichele Di Matteo et.al.|[2506.17166v1](http://arxiv.org/abs/2506.17166v1)|**2025-06-20**|null|
+|**2025-06-20**|**Sparse-Reg: Improving Sample Complexity in Offline Reinforcement Learning using Sparsity**|Samin Yeasar Arnob et.al.|[2506.17155v1](http://arxiv.org/abs/2506.17155v1)|**2025-06-20**|null|
+|**2025-06-20**|**Reassessing Code Authorship Attribution in the Era of Language Models**|Atish Kumar Dipongkor et.al.|[2506.17120v1](http://arxiv.org/abs/2506.17120v1)|**2025-06-20**|null|
+|**2025-06-20**|**Monocular One-Shot Metric-Depth Alignment for RGB-Based Robot Grasping**|Teng Guo et.al.|[2506.17110v1](http://arxiv.org/abs/2506.17110v1)|**2025-06-20**|null|
+|**2025-06-20**|**GW200208_222617 as an eccentric black-hole binary merger: properties and astrophysical implications**|Isobel Romero-Shaw et.al.|[2506.17105v1](http://arxiv.org/abs/2506.17105v1)|**2025-06-20**|null|
+|**2025-06-20**|**Can an Extra Degree of Freedom in Scalar-Tensor Non-Metricity Gravity Account for the Evolution of the Universe?**|Ghulam Murtaza et.al.|[2506.17099v1](http://arxiv.org/abs/2506.17099v1)|**2025-06-20**|null|
+|**2025-06-20**|**Instabilities in Colloidal Crystals on Fluid Membranes**|Sanjay Dharmavaram et.al.|[2506.17098v1](http://arxiv.org/abs/2506.17098v1)|**2025-06-20**|null|
+|**2025-06-20**|**The existence of quasi-periodic invariant tori and double Hopf bifurcation of van der Pol's oscillator with delayed feedback**|Xuemei Li et.al.|[2506.17097v1](http://arxiv.org/abs/2506.17097v1)|**2025-06-20**|null|
+|**2025-06-20**|**Super-Earth formation in systems with cold giants**|Claudia Danti et.al.|[2506.17091v1](http://arxiv.org/abs/2506.17091v1)|**2025-06-20**|null|
+|**2025-06-20**|**Better Language Model Inversion by Compactly Representing Next-Token Distributions**|Murtaza Nazir et.al.|[2506.17090v1](http://arxiv.org/abs/2506.17090v1)|**2025-06-20**|null|
+|**2025-06-20**|**Simultaneous Translation with Offline Speech and LLM Models in CUNI Submission to IWSLT 2025**|Dominik Macháček et.al.|[2506.17077v1](http://arxiv.org/abs/2506.17077v1)|**2025-06-20**|null|
+|**2025-06-20**|**Assembler: Scalable 3D Part Assembly via Anchor Point Diffusion**|Wang Zhao et.al.|[2506.17074v1](http://arxiv.org/abs/2506.17074v1)|**2025-06-20**|null|
+|**2025-06-20**|**Homological stability and Manin's conjecture for rational curves on quartic del Pezzo surfaces**|Ronno Das et.al.|[2506.17071v1](http://arxiv.org/abs/2506.17071v1)|**2025-06-20**|null|
+|**2025-06-20**|**Regular homomorphisms, with a twist**|Jeff Achter et.al.|[2506.17033v1](http://arxiv.org/abs/2506.17033v1)|**2025-06-20**|null|
+|**2025-06-20**|**Multistability and Noise-Induced Transitions in Dispersively-Coupled Nonlinear Nanomechanical Modes**|David Allemeier et.al.|[2506.17026v1](http://arxiv.org/abs/2506.17026v1)|**2025-06-20**|null|
+|**2025-06-20**|**Accumulation of Device-Independent Quantum Randomness against Time-Ordered No-Signalling Adversaries**|Ravishankar Ramanathan et.al.|[2506.17020v1](http://arxiv.org/abs/2506.17020v1)|**2025-06-20**|null|
+|**2025-06-20**|**Large-amplitude periodic solutions to the steady Euler equations with piecewise constant vorticity**|Alex Doak et.al.|[2506.17002v1](http://arxiv.org/abs/2506.17002v1)|**2025-06-20**|null|
+|**2025-06-20**|**ForestFormer3D: A Unified Framework for End-to-End Segmentation of Forest LiDAR 3D Point Clouds**|Binbin Xiang et.al.|[2506.16991v1](http://arxiv.org/abs/2506.16991v1)|**2025-06-20**|null|
+|**2025-06-20**|**SmartGuard: Leveraging Large Language Models for Network Attack Detection through Audit Log Analysis and Summarization**|Hao Zhang et.al.|[2506.16981v1](http://arxiv.org/abs/2506.16981v1)|**2025-06-20**|null|
+|**2025-06-20**|**Minimum-Weight Half-Plane Hitting Set**|Gang Liu et.al.|[2506.16979v1](http://arxiv.org/abs/2506.16979v1)|**2025-06-20**|null|
+|**2025-06-20**|**Autoregressive Hypergraph**|Xianghe Zhu et.al.|[2506.16966v1](http://arxiv.org/abs/2506.16966v1)|**2025-06-20**|null|
+|**2025-06-20**|**Wi-Fi Sensing Tool Release: Gathering 802.11ax Channel State Information from a Commercial Wi-Fi Access Point**|Zisheng Wang et.al.|[2506.16957v1](http://arxiv.org/abs/2506.16957v1)|**2025-06-20**|null|

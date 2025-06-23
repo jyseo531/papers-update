@@ -2,33 +2,33 @@
 ### Semantic Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-18**|**Dense SAE Latents Are Features, Not Bugs**|Xiaoqing Sun et.al.|[2506.15679v1](http://arxiv.org/abs/2506.15679v1)|**2025-06-18**|null|
-|**2025-06-18**|**PhishDebate: An LLM-Based Multi-Agent Framework for Phishing Website Detection**|Wenhao Li et.al.|[2506.15656v1](http://arxiv.org/abs/2506.15656v1)|**2025-06-18**|null|
-|**2025-06-18**|**cAST: Enhancing Code Retrieval-Augmented Generation with Structural Chunking via Abstract Syntax Tree**|Yilin Zhang et.al.|[2506.15655v1](http://arxiv.org/abs/2506.15655v1)|**2025-06-18**|null|
-|**2025-06-18**|**Dual-Stage Value-Guided Inference with Margin-Based Reward Adjustment for Fast and Faithful VLM Captioning**|Ankan Deria et.al.|[2506.15649v1](http://arxiv.org/abs/2506.15649v1)|**2025-06-18**|null|
-|**2025-06-18**|**Minding the Politeness Gap in Cross-cultural Communication**|Yuka Machino et.al.|[2506.15623v1](http://arxiv.org/abs/2506.15623v1)|**2025-06-18**|null|
-|**2025-06-18**|**BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**|Yuqing Lan et.al.|[2506.15610v1](http://arxiv.org/abs/2506.15610v1)|**2025-06-18**|null|
-|**2025-06-18**|**GRIM: Task-Oriented Grasping with Conditioning on Generative Examples**|Shailesh et.al.|[2506.15607v1](http://arxiv.org/abs/2506.15607v1)|**2025-06-18**|null|
-|**2025-06-18**|**From Model to Classroom: Evaluating Generated MCQs for Portuguese with Narrative and Difficulty Concerns**|Bernardo Leite et.al.|[2506.15598v1](http://arxiv.org/abs/2506.15598v1)|**2025-06-18**|null|
-|**2025-06-18**|**Mono-Modalizing Extremely Heterogeneous Multi-Modal Medical Image Registration**|Kyobin Choo et.al.|[2506.15596v1](http://arxiv.org/abs/2506.15596v1)|**2025-06-18**|null|
-|**2025-06-18**|**A Unified Graph-based Framework for Scalable 3D Tree Reconstruction and Non-Destructive Biomass Estimation from Point Clouds**|Di Wang et.al.|[2506.15577v1](http://arxiv.org/abs/2506.15577v1)|**2025-06-18**|null|
-|**2025-06-18**|**DiscRec: Disentangled Semantic-Collaborative Modeling for Generative Recommendation**|Chang Liu et.al.|[2506.15576v1](http://arxiv.org/abs/2506.15576v1)|**2025-06-18**|[link](https://github.com/ten-mao/discrec)|
-|**2025-06-18**|**Baltimore Atlas: FreqWeaver Adapter for Semi-supervised Ultra-high Spatial Resolution Land Cover Classification**|Junhao Wu et.al.|[2506.15565v1](http://arxiv.org/abs/2506.15565v1)|**2025-06-18**|null|
-|**2025-06-18**|**Automated MRI Tumor Segmentation using hybrid U-Net with Transformer and Efficient Attention**|Syed Haider Ali et.al.|[2506.15562v1](http://arxiv.org/abs/2506.15562v1)|**2025-06-18**|null|
-|**2025-06-18**|**CLAIM: Clinically-Guided LGE Augmentation for Realistic and Diverse Myocardial Scar Synthesis and Segmentation**|Farheen Ramzan et.al.|[2506.15549v1](http://arxiv.org/abs/2506.15549v1)|**2025-06-18**|null|
-|**2025-06-18**|**Exploiting Music Source Separation for Automatic Lyrics Transcription with Whisper**|Jaza Syed et.al.|[2506.15514v1](http://arxiv.org/abs/2506.15514v1)|**2025-06-18**|null|
-|**2025-06-18**|**Enhancing Hyperbole and Metaphor Detection with Their Bidirectional Dynamic Interaction and Emotion Knowledge**|Li Zheng et.al.|[2506.15504v1](http://arxiv.org/abs/2506.15504v1)|**2025-06-18**|[link](https://github.com/zhengl00/emobi)|
-|**2025-06-18**|**On extinction and survival of the Bak-Sneppen model on arbitrary graphs**|Serguei Popov et.al.|[2506.15500v1](http://arxiv.org/abs/2506.15500v1)|**2025-06-18**|null|
-|**2025-06-18**|**Pixel-level Certified Explanations via Randomized Smoothing**|Alaa Anani et.al.|[2506.15499v1](http://arxiv.org/abs/2506.15499v1)|**2025-06-18**|[link](https://github.com/alaaanani/certified-attributions)|
-|**2025-06-18**|**Creating User-steerable Projections with Interactive Semantic Mapping**|Artur André Oliveira et.al.|[2506.15479v1](http://arxiv.org/abs/2506.15479v1)|**2025-06-18**|null|
-|**2025-06-18**|**Factorized RVQ-GAN For Disentangled Speech Tokenization**|Sameer Khurana et.al.|[2506.15456v1](http://arxiv.org/abs/2506.15456v1)|**2025-06-18**|null|
-|**2025-06-18**|**Understanding GUI Agent Localization Biases through Logit Sharpness**|Xingjian Tao et.al.|[2506.15425v1](http://arxiv.org/abs/2506.15425v1)|**2025-06-18**|null|
-|**2025-06-18**|**MCOO-SLAM: A Multi-Camera Omnidirectional Object SLAM System**|Miaoxin Pan et.al.|[2506.15402v1](http://arxiv.org/abs/2506.15402v1)|**2025-06-18**|null|
-|**2025-06-18**|**Open-World Object Counting in Videos**|Niki Amini-Naieni et.al.|[2506.15368v1](http://arxiv.org/abs/2506.15368v1)|**2025-06-18**|[link](https://github.com/niki-amini-naieni/countvid)|
-|**2025-06-18**|**Strongly First Order Disjunctive Embedded Dependencies in Team Semantics**|Pietro Galliani et.al.|[2506.15367v1](http://arxiv.org/abs/2506.15367v1)|**2025-06-18**|null|
-|**2025-06-18**|**J3DAI: A tiny DNN-Based Edge AI Accelerator for 3D-Stacked CMOS Image Sensor**|Benoit Tain et.al.|[2506.15316v1](http://arxiv.org/abs/2506.15316v1)|**2025-06-18**|null|
-|**2025-06-18**|**Case Study for Developing a UXR Point of View for FinOps Product Innovation**|Jason Dong et.al.|[2506.15314v1](http://arxiv.org/abs/2506.15314v1)|**2025-06-18**|null|
-|**2025-06-18**|**MapFM: Foundation Model-Driven HD Mapping with Multi-Task Contextual Learning**|Leonid Ivanov et.al.|[2506.15313v1](http://arxiv.org/abs/2506.15313v1)|**2025-06-18**|[link](https://github.com/livanoff/mapfm)|
-|**2025-06-18**|**BCRNet: Enhancing Landmark Detection in Laparoscopic Liver Surgery via Bezier Curve Refinement**|Qian Li et.al.|[2506.15279v1](http://arxiv.org/abs/2506.15279v1)|**2025-06-18**|null|
-|**2025-06-18**|**TopClustRAG at SIGIR 2025 LiveRAG Challenge**|Juli Bakagianni et.al.|[2506.15246v1](http://arxiv.org/abs/2506.15246v1)|**2025-06-18**|null|
-|**2025-06-18**|**MinosEval: Distinguishing Factoid and Non-Factoid for Tailored Open-Ended QA Evaluation with LLMs**|Yongqi Fan et.al.|[2506.15215v1](http://arxiv.org/abs/2506.15215v1)|**2025-06-18**|[link](https://github.com/johnny-fans/minoseval)|
+|**2025-06-20**|**Confidence Scoring for LLM-Generated SQL in Supply Chain Data Extraction**|Jiekai Ma et.al.|[2506.17203v1](http://arxiv.org/abs/2506.17203v1)|**2025-06-20**|null|
+|**2025-06-20**|**UniFork: Exploring Modality Alignment for Unified Multimodal Understanding and Generation**|Teng Li et.al.|[2506.17202v1](http://arxiv.org/abs/2506.17202v1)|**2025-06-20**|null|
+|**2025-06-20**|**CLEAR-3K: Assessing Causal Explanatory Capabilities in Language Models**|Naiming Liu et.al.|[2506.17180v1](http://arxiv.org/abs/2506.17180v1)|**2025-06-20**|null|
+|**2025-06-20**|**Codeword-Segmentation Rate-Splitting Multiple Access and Evaluation under Suboptimal Decoding**|Sibo Zhang et.al.|[2506.17164v1](http://arxiv.org/abs/2506.17164v1)|**2025-06-20**|null|
+|**2025-06-20**|**Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model**|Side Liu et.al.|[2506.17162v1](http://arxiv.org/abs/2506.17162v1)|**2025-06-20**|null|
+|**2025-06-20**|**Co-Seg++: Mutual Prompt-Guided Collaborative Learning for Versatile Medical Segmentation**|Qing Xu et.al.|[2506.17159v1](http://arxiv.org/abs/2506.17159v1)|**2025-06-20**|null|
+|**2025-06-20**|**A Note on Proper Relational Structures**|Adam Bjorndahl et.al.|[2506.17142v1](http://arxiv.org/abs/2506.17142v1)|**2025-06-20**|null|
+|**2025-06-20**|**Semi-Supervised Multi-Modal Medical Image Segmentation for Complex Situations**|Dongdong Meng et.al.|[2506.17136v1](http://arxiv.org/abs/2506.17136v1)|**2025-06-20**|null|
+|**2025-06-20**|**Rapid and Continuous Trust Evaluation for Effective Task Collaboration Through Siamese Model**|Botao Zhu et.al.|[2506.17128v1](http://arxiv.org/abs/2506.17128v1)|**2025-06-20**|null|
+|**2025-06-20**|**Chain-of-Thought Prompting Obscures Hallucination Cues in Large Language Models: An Empirical Evaluation**|Jiahao Cheng et.al.|[2506.17088v1](http://arxiv.org/abs/2506.17088v1)|**2025-06-20**|null|
+|**2025-06-20**|**Flow-Based Non-stationary Temporal Regime Causal Structure Learning**|Abdellah Rahmani et.al.|[2506.17065v1](http://arxiv.org/abs/2506.17065v1)|**2025-06-20**|null|
+|**2025-06-20**|**Client Selection Strategies for Federated Semantic Communications in Heterogeneous IoT Networks**|Samer Lahoud et.al.|[2506.17063v1](http://arxiv.org/abs/2506.17063v1)|**2025-06-20**|null|
+|**2025-06-20**|**A Synthetic Benchmark for Collaborative 3D Semantic Occupancy Prediction in V2X Autonomous Driving**|Hanlin Wu et.al.|[2506.17004v1](http://arxiv.org/abs/2506.17004v1)|**2025-06-20**|null|
+|**2025-06-20**|**Prmpt2Adpt: Prompt-Based Zero-Shot Domain Adaptation for Resource-Constrained Environments**|Yasir Ali Farrukh et.al.|[2506.16994v1](http://arxiv.org/abs/2506.16994v1)|**2025-06-20**|null|
+|**2025-06-20**|**ForestFormer3D: A Unified Framework for End-to-End Segmentation of Forest LiDAR 3D Point Clouds**|Binbin Xiang et.al.|[2506.16991v1](http://arxiv.org/abs/2506.16991v1)|**2025-06-20**|null|
+|**2025-06-20**|**SmartGuard: Leveraging Large Language Models for Network Attack Detection through Audit Log Analysis and Summarization**|Hao Zhang et.al.|[2506.16981v1](http://arxiv.org/abs/2506.16981v1)|**2025-06-20**|null|
+|**2025-06-20**|**Visual-Instructed Degradation Diffusion for All-in-One Image Restoration**|Wenyang Luo et.al.|[2506.16960v1](http://arxiv.org/abs/2506.16960v1)|**2025-06-20**|null|
+|**2025-06-20**|**Modeling and Visualization Reasoning for Stakeholders in Education and Industry Integration Systems: Research on Structured Synthetic Dialogue Data Generation Based on NIST Standards**|Wei Meng et.al.|[2506.16952v1](http://arxiv.org/abs/2506.16952v1)|**2025-06-20**|null|
+|**2025-06-20**|**LunarLoc: Segment-Based Global Localization on the Moon**|Annika Thomas et.al.|[2506.16940v1](http://arxiv.org/abs/2506.16940v1)|**2025-06-20**|null|
+|**2025-06-20**|**LMQ-Sketch: Lagom Multi-Query Sketch for High-Rate Online Analytics**|Martin Hilgendorf et.al.|[2506.16928v1](http://arxiv.org/abs/2506.16928v1)|**2025-06-20**|null|
+|**2025-06-20**|**Hybrid-Sep: Language-queried audio source separation via pre-trained Model Fusion and Adversarial Diffusion Training**|Jianyuan Feng et.al.|[2506.16833v1](http://arxiv.org/abs/2506.16833v1)|**2025-06-20**|null|
+|**2025-06-20**|**AnyTraverse: An off-road traversability framework with VLM and human operator in the loop**|Sattwik Sahu et.al.|[2506.16826v1](http://arxiv.org/abs/2506.16826v1)|**2025-06-20**|null|
+|**2025-06-20**|**Predicting New Research Directions in Materials Science using Large Language Models and Concept Graphs**|Thomas Marwitz et.al.|[2506.16824v1](http://arxiv.org/abs/2506.16824v1)|**2025-06-20**|null|
+|**2025-06-20**|**Loupe: A Generalizable and Adaptive Framework for Image Forgery Detection**|Yuchu Jiang et.al.|[2506.16819v1](http://arxiv.org/abs/2506.16819v1)|**2025-06-20**|null|
+|**2025-06-20**|**Using SRv6 to access Edge Applications in 5G Networks**|Louis Royer et.al.|[2506.16808v1](http://arxiv.org/abs/2506.16808v1)|**2025-06-20**|null|
+|**2025-06-20**|**FOCUS: Unified Vision-Language Modeling for Interactive Editing Driven by Referential Segmentation**|Fan Yang et.al.|[2506.16806v1](http://arxiv.org/abs/2506.16806v1)|**2025-06-20**|null|
+|**2025-06-20**|**Temperature calibration of surface emissivities with an improved thermal image enhancement network**|Ning Chu et.al.|[2506.16803v1](http://arxiv.org/abs/2506.16803v1)|**2025-06-20**|null|
+|**2025-06-20**|**Seeing What Matters: Generalizable AI-generated Video Detection with Forensic-Oriented Augmentation**|Riccardo Corvi et.al.|[2506.16802v1](http://arxiv.org/abs/2506.16802v1)|**2025-06-20**|null|
+|**2025-06-20**|**RealSR-R1: Reinforcement Learning for Real-World Image Super-Resolution with Vision-Language Chain-of-Thought**|Junbo Qiao et.al.|[2506.16796v1](http://arxiv.org/abs/2506.16796v1)|**2025-06-20**|null|
+|**2025-06-20**|**MIST: Jailbreaking Black-box Large Language Models via Iterative Semantic Tuning**|Muyang Zheng et.al.|[2506.16792v1](http://arxiv.org/abs/2506.16792v1)|**2025-06-20**|null|

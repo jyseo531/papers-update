@@ -2148,6 +2148,7 @@ Updated on 2025-06-23
 | 104 | 2 | alecccdd/qwen2-VL-7B-Captioner-Relaxed-Q4_K_M-GGUFImage-to-Text | UpdatedJan 22 | [Link](https://huggingface.co/alecccdd/qwen2-VL-7B-Captioner-Relaxed-Q4_K_M-GGUF) |
 | 114 | 2 | paudelanil/trocr-devanagari-2Image-to-Text | UpdatedOct 7, 2024 | [Link](https://huggingface.co/paudelanil/trocr-devanagari-2) |
 | 96 | 2 | cxfajar197/urdu-ocrImage-to-Text | UpdatedNov 26, 2024 | [Link](https://huggingface.co/cxfajar197/urdu-ocr) |
+| 46 | 2 | Gregor/mblip-bloomz-7bImage-to-Text | UpdatedApr 28, 2024 | [Link](https://huggingface.co/Gregor/mblip-bloomz-7b) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -4194,6 +4195,7 @@ Updated on 2025-06-23
 | 37.6k | 156 | tianweiy/DMD2Text-to-Image | UpdatedJun 11, 2024 | [Link](https://huggingface.co/tianweiy/DMD2) |
 | 3.01k | 81 | RunDiffusion/Juggernaut-XI-v11Text-to-Image | UpdatedAug 29, 2024 | [Link](https://huggingface.co/RunDiffusion/Juggernaut-XI-v11) |
 | 8.76k | 66 | Freepik/flux | UpdatedDec 30, 2024 | [Link](https://huggingface.co/Freepik/flux.1-lite-8B) |
+| 3.27M | 64 | stable-diffusion-v1-5/stable-diffusion-inpaintingText-to-Image | UpdatedSep 6, 2024 | [Link](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-inpainting) |
 | 8.42k | 59 | cyberdelia/CyberRealisticPonyText-to-Image | Updated3 days ago | [Link](https://huggingface.co/cyberdelia/CyberRealisticPony) |
 | 36 | 51 | THUDM/CogView4-6BText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/THUDM/CogView4-6B) |
 | 87 | 44 | Freepik/F-LiteText-to-Image | Updatedabout 15 hours ago | [Link](https://huggingface.co/Freepik/F-Lite) |
