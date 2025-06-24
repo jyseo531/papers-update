@@ -2,33 +2,33 @@
 ### Semantic Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-20**|**Confidence Scoring for LLM-Generated SQL in Supply Chain Data Extraction**|Jiekai Ma et.al.|[2506.17203v1](http://arxiv.org/abs/2506.17203v1)|**2025-06-20**|null|
-|**2025-06-20**|**UniFork: Exploring Modality Alignment for Unified Multimodal Understanding and Generation**|Teng Li et.al.|[2506.17202v1](http://arxiv.org/abs/2506.17202v1)|**2025-06-20**|null|
-|**2025-06-20**|**CLEAR-3K: Assessing Causal Explanatory Capabilities in Language Models**|Naiming Liu et.al.|[2506.17180v1](http://arxiv.org/abs/2506.17180v1)|**2025-06-20**|null|
-|**2025-06-20**|**Codeword-Segmentation Rate-Splitting Multiple Access and Evaluation under Suboptimal Decoding**|Sibo Zhang et.al.|[2506.17164v1](http://arxiv.org/abs/2506.17164v1)|**2025-06-20**|null|
-|**2025-06-20**|**Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model**|Side Liu et.al.|[2506.17162v1](http://arxiv.org/abs/2506.17162v1)|**2025-06-20**|null|
-|**2025-06-20**|**Co-Seg++: Mutual Prompt-Guided Collaborative Learning for Versatile Medical Segmentation**|Qing Xu et.al.|[2506.17159v1](http://arxiv.org/abs/2506.17159v1)|**2025-06-20**|null|
-|**2025-06-20**|**A Note on Proper Relational Structures**|Adam Bjorndahl et.al.|[2506.17142v1](http://arxiv.org/abs/2506.17142v1)|**2025-06-20**|null|
-|**2025-06-20**|**Semi-Supervised Multi-Modal Medical Image Segmentation for Complex Situations**|Dongdong Meng et.al.|[2506.17136v1](http://arxiv.org/abs/2506.17136v1)|**2025-06-20**|null|
-|**2025-06-20**|**Rapid and Continuous Trust Evaluation for Effective Task Collaboration Through Siamese Model**|Botao Zhu et.al.|[2506.17128v1](http://arxiv.org/abs/2506.17128v1)|**2025-06-20**|null|
-|**2025-06-20**|**Chain-of-Thought Prompting Obscures Hallucination Cues in Large Language Models: An Empirical Evaluation**|Jiahao Cheng et.al.|[2506.17088v1](http://arxiv.org/abs/2506.17088v1)|**2025-06-20**|null|
-|**2025-06-20**|**Flow-Based Non-stationary Temporal Regime Causal Structure Learning**|Abdellah Rahmani et.al.|[2506.17065v1](http://arxiv.org/abs/2506.17065v1)|**2025-06-20**|null|
-|**2025-06-20**|**Client Selection Strategies for Federated Semantic Communications in Heterogeneous IoT Networks**|Samer Lahoud et.al.|[2506.17063v1](http://arxiv.org/abs/2506.17063v1)|**2025-06-20**|null|
-|**2025-06-20**|**A Synthetic Benchmark for Collaborative 3D Semantic Occupancy Prediction in V2X Autonomous Driving**|Hanlin Wu et.al.|[2506.17004v1](http://arxiv.org/abs/2506.17004v1)|**2025-06-20**|null|
-|**2025-06-20**|**Prmpt2Adpt: Prompt-Based Zero-Shot Domain Adaptation for Resource-Constrained Environments**|Yasir Ali Farrukh et.al.|[2506.16994v1](http://arxiv.org/abs/2506.16994v1)|**2025-06-20**|null|
-|**2025-06-20**|**ForestFormer3D: A Unified Framework for End-to-End Segmentation of Forest LiDAR 3D Point Clouds**|Binbin Xiang et.al.|[2506.16991v1](http://arxiv.org/abs/2506.16991v1)|**2025-06-20**|null|
-|**2025-06-20**|**SmartGuard: Leveraging Large Language Models for Network Attack Detection through Audit Log Analysis and Summarization**|Hao Zhang et.al.|[2506.16981v1](http://arxiv.org/abs/2506.16981v1)|**2025-06-20**|null|
-|**2025-06-20**|**Visual-Instructed Degradation Diffusion for All-in-One Image Restoration**|Wenyang Luo et.al.|[2506.16960v1](http://arxiv.org/abs/2506.16960v1)|**2025-06-20**|null|
-|**2025-06-20**|**Modeling and Visualization Reasoning for Stakeholders in Education and Industry Integration Systems: Research on Structured Synthetic Dialogue Data Generation Based on NIST Standards**|Wei Meng et.al.|[2506.16952v1](http://arxiv.org/abs/2506.16952v1)|**2025-06-20**|null|
-|**2025-06-20**|**LunarLoc: Segment-Based Global Localization on the Moon**|Annika Thomas et.al.|[2506.16940v1](http://arxiv.org/abs/2506.16940v1)|**2025-06-20**|null|
-|**2025-06-20**|**LMQ-Sketch: Lagom Multi-Query Sketch for High-Rate Online Analytics**|Martin Hilgendorf et.al.|[2506.16928v1](http://arxiv.org/abs/2506.16928v1)|**2025-06-20**|null|
-|**2025-06-20**|**Hybrid-Sep: Language-queried audio source separation via pre-trained Model Fusion and Adversarial Diffusion Training**|Jianyuan Feng et.al.|[2506.16833v1](http://arxiv.org/abs/2506.16833v1)|**2025-06-20**|null|
-|**2025-06-20**|**AnyTraverse: An off-road traversability framework with VLM and human operator in the loop**|Sattwik Sahu et.al.|[2506.16826v1](http://arxiv.org/abs/2506.16826v1)|**2025-06-20**|null|
-|**2025-06-20**|**Predicting New Research Directions in Materials Science using Large Language Models and Concept Graphs**|Thomas Marwitz et.al.|[2506.16824v1](http://arxiv.org/abs/2506.16824v1)|**2025-06-20**|null|
-|**2025-06-20**|**Loupe: A Generalizable and Adaptive Framework for Image Forgery Detection**|Yuchu Jiang et.al.|[2506.16819v1](http://arxiv.org/abs/2506.16819v1)|**2025-06-20**|null|
-|**2025-06-20**|**Using SRv6 to access Edge Applications in 5G Networks**|Louis Royer et.al.|[2506.16808v1](http://arxiv.org/abs/2506.16808v1)|**2025-06-20**|null|
-|**2025-06-20**|**FOCUS: Unified Vision-Language Modeling for Interactive Editing Driven by Referential Segmentation**|Fan Yang et.al.|[2506.16806v1](http://arxiv.org/abs/2506.16806v1)|**2025-06-20**|null|
-|**2025-06-20**|**Temperature calibration of surface emissivities with an improved thermal image enhancement network**|Ning Chu et.al.|[2506.16803v1](http://arxiv.org/abs/2506.16803v1)|**2025-06-20**|null|
-|**2025-06-20**|**Seeing What Matters: Generalizable AI-generated Video Detection with Forensic-Oriented Augmentation**|Riccardo Corvi et.al.|[2506.16802v1](http://arxiv.org/abs/2506.16802v1)|**2025-06-20**|null|
-|**2025-06-20**|**RealSR-R1: Reinforcement Learning for Real-World Image Super-Resolution with Vision-Language Chain-of-Thought**|Junbo Qiao et.al.|[2506.16796v2](http://arxiv.org/abs/2506.16796v2)|**2025-06-23**|null|
-|**2025-06-20**|**MIST: Jailbreaking Black-box Large Language Models via Iterative Semantic Tuning**|Muyang Zheng et.al.|[2506.16792v1](http://arxiv.org/abs/2506.16792v1)|**2025-06-20**|null|
+|**2025-06-23**|**jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual Retrieval**|Michael Günther et.al.|[2506.18902v1](http://arxiv.org/abs/2506.18902v1)|**2025-06-23**|null|
+|**2025-06-23**|**Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations**|Jiaming Han et.al.|[2506.18898v1](http://arxiv.org/abs/2506.18898v1)|**2025-06-23**|null|
+|**2025-06-23**|**Let Your Video Listen to Your Music!**|Xinyu Zhang et.al.|[2506.18881v1](http://arxiv.org/abs/2506.18881v1)|**2025-06-23**|null|
+|**2025-06-23**|**TAMMs: Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting**|Zhongbin Guo et.al.|[2506.18862v1](http://arxiv.org/abs/2506.18862v1)|**2025-06-23**|null|
+|**2025-06-23**|**MLLP-VRAIN UPV system for the IWSLT 2025 Simultaneous Speech Translation Translation task**|Jorge Iranzo-Sánchez et.al.|[2506.18828v1](http://arxiv.org/abs/2506.18828v1)|**2025-06-23**|null|
+|**2025-06-23**|**SViP: Sequencing Bimanual Visuomotor Policies with Object-Centric Motion Primitives**|Yizhou Chen et.al.|[2506.18825v1](http://arxiv.org/abs/2506.18825v1)|**2025-06-23**|null|
+|**2025-06-23**|**Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories**|Islem Bouzenia et.al.|[2506.18824v1](http://arxiv.org/abs/2506.18824v1)|**2025-06-23**|null|
+|**2025-06-23**|**How Hard is it to be a Star? Convex Geometry and the Real Hierarchy**|Marcus Schaefer et.al.|[2506.18818v1](http://arxiv.org/abs/2506.18818v1)|**2025-06-23**|null|
+|**2025-06-23**|**PicoSAM2: Low-Latency Segmentation In-Sensor for Edge Vision Applications**|Pietro Bonazzi et.al.|[2506.18807v1](http://arxiv.org/abs/2506.18807v1)|**2025-06-23**|null|
+|**2025-06-23**|**OC-SOP: Enhancing Vision-Based 3D Semantic Occupancy Prediction by Object-Centric Awareness**|Helin Cao et.al.|[2506.18798v1](http://arxiv.org/abs/2506.18798v1)|**2025-06-23**|null|
+|**2025-06-23**|**StoryGem: Voronoi treemap Approach for Semantics-Preserving Text Visualization**|Naoya Oda et.al.|[2506.18793v1](http://arxiv.org/abs/2506.18793v1)|**2025-06-23**|null|
+|**2025-06-23**|**Focus Your Attention: Towards Data-Intuitive Lightweight Vision Transformers**|Suyash Gaurav et.al.|[2506.18791v1](http://arxiv.org/abs/2506.18791v1)|**2025-06-23**|null|
+|**2025-06-23**|**SWA-SOP: Spatially-aware Window Attention for Semantic Occupancy Prediction in Autonomous Driving**|Helin Cao et.al.|[2506.18785v1](http://arxiv.org/abs/2506.18785v1)|**2025-06-23**|null|
+|**2025-06-23**|**Programming by Backprop: LLMs Acquire Reusable Algorithmic Abstractions During Code Training**|Jonathan Cook et.al.|[2506.18777v1](http://arxiv.org/abs/2506.18777v1)|**2025-06-23**|null|
+|**2025-06-23**|**PARALLELPROMPT: Extracting Parallelism from Large Language Model Queries**|Steven Kolawole et.al.|[2506.18728v1](http://arxiv.org/abs/2506.18728v1)|**2025-06-23**|null|
+|**2025-06-23**|**Including Semantic Information via Word Embeddings for Skeleton-based Action Recognition**|Dustin Aganian et.al.|[2506.18721v1](http://arxiv.org/abs/2506.18721v1)|**2025-06-23**|null|
+|**2025-06-23**|**SIM-Net: A Multimodal Fusion Network Using Inferred 3D Object Shape Point Clouds from RGB Images for 2D Classification**|Youcef Sklab et.al.|[2506.18683v1](http://arxiv.org/abs/2506.18683v1)|**2025-06-23**|null|
+|**2025-06-23**|**Multi-Scale Spectral Attention Module-based Hyperspectral Segmentation in Autonomous Driving Scenarios**|Imad Ali Shah et.al.|[2506.18682v1](http://arxiv.org/abs/2506.18682v1)|**2025-06-23**|null|
+|**2025-06-23**|**DuetGen: Music Driven Two-Person Dance Generation via Hierarchical Masked Modeling**|Anindita Ghosh et.al.|[2506.18680v1](http://arxiv.org/abs/2506.18680v1)|**2025-06-23**|null|
+|**2025-06-23**|**MARL-MambaContour: Unleashing Multi-Agent Deep Reinforcement Learning for Active Contour Optimization in Medical Image Segmentation**|Ruicheng Zhang et.al.|[2506.18679v1](http://arxiv.org/abs/2506.18679v1)|**2025-06-23**|null|
+|**2025-06-23**|**Harnessing the Power of Reinforcement Learning for Language-Model-Based Information Retriever via Query-Document Co-Augmentation**|Jingming Liu et.al.|[2506.18670v1](http://arxiv.org/abs/2506.18670v1)|**2025-06-23**|null|
+|**2025-06-23**|**MedSeg-R: Medical Image Segmentation with Clinical Reasoning**|Hao Shao et.al.|[2506.18669v1](http://arxiv.org/abs/2506.18669v1)|**2025-06-23**|null|
+|**2025-06-23**|**RL-Driven Semantic Compression Model Selection and Resource Allocation in Semantic Communication Systems**|Xinyi Lin et.al.|[2506.18660v1](http://arxiv.org/abs/2506.18660v1)|**2025-06-23**|null|
+|**2025-06-23**|**Historical Report Guided Bi-modal Concurrent Learning for Pathology Report Generation**|Ling Zhang et.al.|[2506.18658v1](http://arxiv.org/abs/2506.18658v1)|**2025-06-23**|null|
+|**2025-06-23**|**ByteSpan: Information-Driven Subword Tokenisation**|Zébulon Goriely et.al.|[2506.18639v1](http://arxiv.org/abs/2506.18639v1)|**2025-06-23**|null|
+|**2025-06-23**|**A Simple but Accurate Approximation for Multivariate Gaussian Rate-Distortion Function and Its Application in Maximal Coding Rate Reduction**|Zhenglin Huang et.al.|[2506.18613v1](http://arxiv.org/abs/2506.18613v1)|**2025-06-23**|null|
+|**2025-06-23**|**Semantic similarity estimation for domain specific data using BERT and other techniques**|R. Prashanth et.al.|[2506.18602v1](http://arxiv.org/abs/2506.18602v1)|**2025-06-23**|null|
+|**2025-06-23**|**T-CPDL: A Temporal Causal Probabilistic Description Logic for Developing Logic-RAG Agent**|Hong Qing Yu et.al.|[2506.18559v1](http://arxiv.org/abs/2506.18559v1)|**2025-06-23**|null|
+|**2025-06-23**|**Object-aware Sound Source Localization via Audio-Visual Scene Understanding**|Sung Jin Um et.al.|[2506.18557v1](http://arxiv.org/abs/2506.18557v1)|**2025-06-23**|null|
+|**2025-06-23**|**A new beamline for Resonant Excitation of Beams with Electromagnetic fields and Lasers (REBEL) and Stopping and Trapping of Radioactive Isotopes for Precision Experiments (STRIPE)**|Phillip Imgram et.al.|[2506.18552v1](http://arxiv.org/abs/2506.18552v1)|**2025-06-23**|null|

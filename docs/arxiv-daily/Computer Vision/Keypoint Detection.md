@@ -2,6 +2,16 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-23**|**Generalized energy band alignment model for van der Waals heterostructures with a charge spillage dipole**|Seungjun Lee et.al.|[2506.18850v1](http://arxiv.org/abs/2506.18850v1)|**2025-06-23**|null|
+|**2025-06-23**|**Offline Goal-Conditioned Reinforcement Learning with Projective Quasimetric Planning**|Anthony Kobanda et.al.|[2506.18847v1](http://arxiv.org/abs/2506.18847v1)|**2025-06-23**|null|
+|**2025-06-23**|**TDACloud: Point Cloud Recognition Using Topological Data Analysis**|Anirban Ghosh et.al.|[2506.18725v1](http://arxiv.org/abs/2506.18725v1)|**2025-06-23**|null|
+|**2025-06-23**|**Including Semantic Information via Word Embeddings for Skeleton-based Action Recognition**|Dustin Aganian et.al.|[2506.18721v1](http://arxiv.org/abs/2506.18721v1)|**2025-06-23**|null|
+|**2025-06-23**|**Sequential keypoint density estimator: an overlooked baseline of skeleton-based video anomaly detection**|Anja Delić et.al.|[2506.18368v1](http://arxiv.org/abs/2506.18368v1)|**2025-06-23**|null|
+|**2025-06-22**|**ADA-DPM: A Neural Descriptors-based Adaptive Noise Point Filtering Strategy for SLAM**|Yongxin Shao et.al.|[2506.18016v1](http://arxiv.org/abs/2506.18016v1)|**2025-06-22**|null|
+|**2025-06-22**|**Fast Neural Inverse Kinematics on Human Body Motions**|David Tolpin et.al.|[2506.17996v1](http://arxiv.org/abs/2506.17996v1)|**2025-06-22**|null|
+|**2025-06-22**|**An entropy-optimal path to humble AI**|Davide Bassetti et.al.|[2506.17940v1](http://arxiv.org/abs/2506.17940v1)|**2025-06-22**|null|
+|**2025-06-21**|**Fetuses Made Simple: Modeling and Tracking of Fetal Shape and Pose**|Yingcheng Liu et.al.|[2506.17858v1](http://arxiv.org/abs/2506.17858v1)|**2025-06-21**|null|
+|**2025-06-20**|**Refining Tc Prediction in Hydrides via Symbolic-Regression-Enhanced Electron-Localization-Function-Based Descriptors**|Francesco Belli et.al.|[2506.17456v1](http://arxiv.org/abs/2506.17456v1)|**2025-06-20**|null|
 |**2025-06-20**|**Class Agnostic Instance-level Descriptor for Visual Instance Search**|Qi-Ying Sun et.al.|[2506.16745v1](http://arxiv.org/abs/2506.16745v1)|**2025-06-20**|null|
 |**2025-06-20**|**The simplest chaos indicator derived from Lagrangian descriptors**|Javier Jiménez-López et.al.|[2506.16660v1](http://arxiv.org/abs/2506.16660v1)|**2025-06-20**|null|
 |**2025-06-19**|**How Far Can Off-the-Shelf Multimodal Large Language Models Go in Online Episodic Memory Question Answering?**|Giuseppe Lando et.al.|[2506.16450v1](http://arxiv.org/abs/2506.16450v1)|**2025-06-19**|null|
@@ -22,13 +32,3 @@
 |**2025-06-16**|**AutoSAS: a new human-aside-the-loop paradigm for automated SAS fitting for high throughput and autonomous experimentation**|Duncan R. Sutherland et.al.|[2506.13918v1](http://arxiv.org/abs/2506.13918v1)|**2025-06-16**|null|
 |**2025-06-16**|**ATK: Automatic Task-driven Keypoint Selection for Robust Policy Learning**|Yunchu Zhang et.al.|[2506.13867v1](http://arxiv.org/abs/2506.13867v1)|**2025-06-16**|null|
 |**2025-06-16**|**Audio-Visual Driven Compression for Low-Bitrate Talking Head Videos**|Riku Takahashi et.al.|[2506.13419v1](http://arxiv.org/abs/2506.13419v1)|**2025-06-16**|null|
-|**2025-06-16**|**Quantitative Comparison of Fine-Tuning Techniques for Pretrained Latent Diffusion Models in the Generation of Unseen SAR Image Concepts**|Solène Debuysère et.al.|[2506.13307v1](http://arxiv.org/abs/2506.13307v1)|**2025-06-16**|null|
-|**2025-06-16**|**SuperPoint-SLAM3: Augmenting ORB-SLAM3 with Deep Features, Adaptive NMS, and Learning-Based Loop Closure**|Shahram Najam Syed et.al.|[2506.13089v1](http://arxiv.org/abs/2506.13089v1)|**2025-06-16**|[link](https://github.com/shahram95/superpointslam3)|
-|**2025-06-16**|**MAMMA: Markerless & Automatic Multi-Person Motion Action Capture**|Hanz Cuevas-Velasquez et.al.|[2506.13040v1](http://arxiv.org/abs/2506.13040v1)|**2025-06-16**|null|
-|**2025-06-16**|**DETRPose: Real-time end-to-end transformer model for multi-person pose estimation**|Sebastian Janampa et.al.|[2506.13027v1](http://arxiv.org/abs/2506.13027v1)|**2025-06-16**|[link](https://github.com/SebastianJanampa/DETRPose)|
-|**2025-06-15**|**A large-scale, physically-based synthetic dataset for satellite pose estimation**|Szabolcs Velkei et.al.|[2506.12782v1](http://arxiv.org/abs/2506.12782v1)|**2025-06-15**|null|
-|**2025-06-14**|**Tailored ordering enables high-capacity cathode materials**|Tzu-chen Liu et.al.|[2506.12545v2](http://arxiv.org/abs/2506.12545v2)|**2025-06-20**|null|
-|**2025-06-14**|**Information fusion strategy integrating pre-trained language model and contrastive learning for materials knowledge mining**|Yongqian Peng et.al.|[2506.12516v1](http://arxiv.org/abs/2506.12516v1)|**2025-06-14**|null|
-|**2025-06-13**|**Interpretable representation learning of quantum data enabled by probabilistic variational autoencoders**|Paulin de Schoulepnikoff et.al.|[2506.11982v2](http://arxiv.org/abs/2506.11982v2)|**2025-06-18**|null|
-|**2025-06-13**|**Spectra-to-Structure and Structure-to-Spectra Inference Across the Periodic Table**|Yufeng Wang et.al.|[2506.11908v1](http://arxiv.org/abs/2506.11908v1)|**2025-06-13**|null|
-|**2025-06-12**|**A detailed and comprehensive account of fractional Physics-Informed Neural Networks: From implementation to efficiency**|Donya Dabiri et.al.|[2506.11241v1](http://arxiv.org/abs/2506.11241v1)|**2025-06-12**|null|

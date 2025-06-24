@@ -1803,6 +1803,7 @@ Updated on 2025-06-24
 | 184 | 7 | stockmark/Stockmark-2-VL-100B-betaImage-Text-to-Text | Updatedabout 12 hours ago | [Link](https://huggingface.co/stockmark/Stockmark-2-VL-100B-beta) |
 | 8.11k | 7 | unsloth/MiMo-VL-7B-RL-GGUFImage-Text-to-Text | Updated4 days ago | [Link](https://huggingface.co/unsloth/MiMo-VL-7B-RL-GGUF) |
 | 317 | 7 | numind/NuExtract-2 | Updated6 days ago | [Link](https://huggingface.co/numind/NuExtract-2.0-2B) |
+| 338 | 7 | allenai/olmOCR-7B-0225-preview-FP8Image-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview-FP8) |
 | 160 | 6 | MIL-UT/Asagi-14BImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/MIL-UT/Asagi-14B) |
 | 168 | 5 | MBZUAI/AINImage-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/MBZUAI/AIN) |
 | 2.72k | 1.62k | microsoft/OmniParserImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/microsoft/OmniParser) |
@@ -1998,6 +1999,7 @@ Updated on 2025-06-24
 | 3 | 4 | wikeeyang/UniWorld-V1-NF4Image-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/wikeeyang/UniWorld-V1-NF4) |
 | 38 | 4 | rafiaashraf/tryOn_modelImage-to-Image | UpdatedFeb 22 | [Link](https://huggingface.co/rafiaashraf/tryOn_model) |
 | 273 | 4 | radames/stable-diffusion-2-1-unclip-img2imgImage-to-Image | UpdatedMay 17, 2023 | [Link](https://huggingface.co/radames/stable-diffusion-2-1-unclip-img2img) |
+| 34 | 4 | gradient-spaces/ReStyle3DImage-to-Image | Updated29 days ago | [Link](https://huggingface.co/gradient-spaces/ReStyle3D) |
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
@@ -2076,6 +2078,7 @@ Updated on 2025-06-24
 | 2 | Unknown | bdsqlsz/framepack_oneframe_qinglong_figureImage-to-Image | Updatedabout 18 hours ago | [Link](https://huggingface.co/bdsqlsz/framepack_oneframe_qinglong_figure) |
 | 3 | Unknown | davidelobba/TEMU-VTOFFImage-to-Image | Updated22 days ago | [Link](https://huggingface.co/davidelobba/TEMU-VTOFF) |
 | 3 | Unknown | GenieLamp/VTONImage-to-Image | UpdatedMay 12 | [Link](https://huggingface.co/GenieLamp/VTON) |
+| 41 | Unknown | rizavelioglu/tryoffdiffImage-to-Image | UpdatedMay 23 | [Link](https://huggingface.co/rizavelioglu/tryoffdiff) |
 
 ## Image-to-Text
 
@@ -2105,6 +2108,7 @@ Updated on 2025-06-24
 | 130 | 20 | Mozilla/distilvitImage-to-Text | UpdatedNov 25, 2024 | [Link](https://huggingface.co/Mozilla/distilvit) |
 | 376 | 19 | to-be/donut-base-finetuned-invoicesImage-to-Text | UpdatedMar 3, 2023 | [Link](https://huggingface.co/to-be/donut-base-finetuned-invoices) |
 | 433 | 17 | kpyu/video-blip-opt-2 | UpdatedMay 17, 2023 | [Link](https://huggingface.co/kpyu/video-blip-opt-2.7b-ego4d) |
+| 207 | 16 | bipin/image-caption-generatorImage-to-Text | UpdatedJul 27, 2024 | [Link](https://huggingface.co/bipin/image-caption-generator) |
 | 225 | 15 | DunnBC22/trocr-base-handwritten-OCR-handwriting_recognition_v2Image-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-base-handwritten-OCR-handwriting_recognition_v2) |
 | 1.31k | 15 | microsoft/git-largeImage-to-Text | UpdatedFeb 8, 2023 | [Link](https://huggingface.co/microsoft/git-large) |
 | 11.5k | 15 | Salesforce/blip2-flan-t5-xl-cocoImage-to-Text | UpdatedFeb 3 | [Link](https://huggingface.co/Salesforce/blip2-flan-t5-xl-coco) |
@@ -4504,6 +4508,7 @@ Updated on 2025-06-24
 | 2 | Unknown | hvoss-techfak/F5-TTS-GermanText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/hvoss-techfak/F5-TTS-German) |
 | 3 | Unknown | dangtr0408/StyleTTS2-liteText-to-Speech | Updated21 days ago | [Link](https://huggingface.co/dangtr0408/StyleTTS2-lite) |
 | 3 | Unknown | SebastianBodza/Kartoffelbox-v0 | Updated1 day ago | [Link](https://huggingface.co/SebastianBodza/Kartoffelbox-v0.1) |
+| 3 | Unknown | Jimmi42/chatterbox-tts-apple-silicon-codeText-to-Speech | Updated17 days ago | [Link](https://huggingface.co/Jimmi42/chatterbox-tts-apple-silicon-code) |
 
 ## Text-to-Video
 
