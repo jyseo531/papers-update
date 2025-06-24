@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-06-23
+Updated on 2025-06-24
 
 > Generated from the Hugging Face database.
 
@@ -92,6 +92,7 @@ Updated on 2025-06-23
 | 1 | Unknown | ggml-org/Qwen2 | Updatedabout 3 hours ago | [Link](https://huggingface.co/ggml-org/Qwen2.5-Omni-7B-GGUF) |
 | 1 | Unknown | calcuis/bagel-ggufAny-to-Any | Updated39 minutes ago | [Link](https://huggingface.co/calcuis/bagel-gguf) |
 | 2 | Unknown | Gen-Verse/MMaDA-8B-MixCoTAny-to-Any | Updatedabout 11 hours ago | [Link](https://huggingface.co/Gen-Verse/MMaDA-8B-MixCoT) |
+| 1 | Unknown | FreedomIntelligence/Janus-4o-7BAny-to-Any | Updatedabout 8 hours ago | [Link](https://huggingface.co/FreedomIntelligence/Janus-4o-7B) |
 
 ## Audio Classification
 
@@ -1996,6 +1997,7 @@ Updated on 2025-06-23
 | 1k | 4 | stanfordmimi/MedVAEImage-to-Image | UpdatedMar 31 | [Link](https://huggingface.co/stanfordmimi/MedVAE) |
 | 3 | 4 | wikeeyang/UniWorld-V1-NF4Image-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/wikeeyang/UniWorld-V1-NF4) |
 | 38 | 4 | rafiaashraf/tryOn_modelImage-to-Image | UpdatedFeb 22 | [Link](https://huggingface.co/rafiaashraf/tryOn_model) |
+| 273 | 4 | radames/stable-diffusion-2-1-unclip-img2imgImage-to-Image | UpdatedMay 17, 2023 | [Link](https://huggingface.co/radames/stable-diffusion-2-1-unclip-img2img) |
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
@@ -2100,6 +2102,7 @@ Updated on 2025-06-23
 | 68 | 25 | Ertugrul/Pixtral-12B-Captioner-RelaxedImage-to-Text | UpdatedOct 1, 2024 | [Link](https://huggingface.co/Ertugrul/Pixtral-12B-Captioner-Relaxed) |
 | 4.54k | 23 | raxtemur/trocr-base-ruImage-to-Text | UpdatedMay 29, 2024 | [Link](https://huggingface.co/raxtemur/trocr-base-ru) |
 | 4.06k | 22 | noamrot/FuseCap_Image_CaptioningImage-to-Text | UpdatedJan 25, 2024 | [Link](https://huggingface.co/noamrot/FuseCap_Image_Captioning) |
+| 130 | 20 | Mozilla/distilvitImage-to-Text | UpdatedNov 25, 2024 | [Link](https://huggingface.co/Mozilla/distilvit) |
 | 376 | 19 | to-be/donut-base-finetuned-invoicesImage-to-Text | UpdatedMar 3, 2023 | [Link](https://huggingface.co/to-be/donut-base-finetuned-invoices) |
 | 433 | 17 | kpyu/video-blip-opt-2 | UpdatedMay 17, 2023 | [Link](https://huggingface.co/kpyu/video-blip-opt-2.7b-ego4d) |
 | 225 | 15 | DunnBC22/trocr-base-handwritten-OCR-handwriting_recognition_v2Image-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-base-handwritten-OCR-handwriting_recognition_v2) |
@@ -3919,6 +3922,7 @@ Updated on 2025-06-23
 | 17 | Unknown | google/gemma-3n-E2B-it-litert-lm-previewText | Updatedabout 16 hours ago | [Link](https://huggingface.co/google/gemma-3n-E2B-it-litert-lm-preview) |
 | 19 | Unknown | arcee-ai/Virtuoso-LargeText | Updatedabout 18 hours ago | [Link](https://huggingface.co/arcee-ai/Virtuoso-Large) |
 | 83 |  | Skywork/Skywork-SWE-32BText | Updatedabout 21 hours ago | [Link](https://huggingface.co/Skywork/Skywork-SWE-32B) |
+| 19 | Unknown | arcee-ai/GLM-4-32B-Base-32KText | Updatedabout 9 hours ago | [Link](https://huggingface.co/arcee-ai/GLM-4-32B-Base-32K) |
 
 ## Text Ranking
 
