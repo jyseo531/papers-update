@@ -1973,6 +1973,7 @@ Updated on 2025-06-25
 | 298 | 29 | ixarchakos/tryOffAnyoneImage-to-Image | UpdatedDec 13, 2024 | [Link](https://huggingface.co/ixarchakos/tryOffAnyone) |
 | 8.53k | 29 | lllyasviel/control_v11p_sd15_scribbleImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_scribble) |
 | 1.87k | 28 | lllyasviel/sd-controlnet-hedImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-hed) |
+| 421 | 26 | BertChristiaens/controlnet-seg-roomImage-to-Image | UpdatedMay 25, 2023 | [Link](https://huggingface.co/BertChristiaens/controlnet-seg-room) |
 | 52 | 22 | sayakpaul/whitebox-cartoonizerImage-to-Image | UpdatedMar 17, 2023 | [Link](https://huggingface.co/sayakpaul/whitebox-cartoonizer) |
 | 260k | 22 | Lykon/dreamshaper-8-inpaintingImage-to-Image | UpdatedSep 17, 2024 | [Link](https://huggingface.co/Lykon/dreamshaper-8-inpainting) |
 | 12.1k | 19 | lllyasviel/control_v11p_sd15_softedgeImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_softedge) |
@@ -3928,6 +3929,7 @@ Updated on 2025-06-25
 | 19 | Unknown | arcee-ai/Virtuoso-LargeText | Updatedabout 18 hours ago | [Link](https://huggingface.co/arcee-ai/Virtuoso-Large) |
 | 83 |  | Skywork/Skywork-SWE-32BText | Updatedabout 21 hours ago | [Link](https://huggingface.co/Skywork/Skywork-SWE-32B) |
 | 19 | Unknown | arcee-ai/GLM-4-32B-Base-32KText | Updatedabout 9 hours ago | [Link](https://huggingface.co/arcee-ai/GLM-4-32B-Base-32K) |
+| 44 | Unknown | Menlo/Jan-nano-128kText | Updatedabout 4 hours ago | [Link](https://huggingface.co/Menlo/Jan-nano-128k) |
 
 ## Text Ranking
 
@@ -4464,6 +4466,7 @@ Updated on 2025-06-25
 | 153 | 2 | mmwillet2/Dia_GGUFText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/mmwillet2/Dia_GGUF) |
 | 55 | 2 | unsloth/Spark-TTS-0 | Updated2 days ago | [Link](https://huggingface.co/unsloth/Spark-TTS-0.5B) |
 | 70 | 2 | calcuis/dia-ggufText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/calcuis/dia-gguf) |
+| 57 | 2 | lunarlist/tts-thaiText-to-Speech | UpdatedJul 27, 2023 | [Link](https://huggingface.co/lunarlist/tts-thai) |
 | 302 | Unknown | lj1995/GPT-SoVITSText-to-Speech | Updated14 days ago | [Link](https://huggingface.co/lj1995/GPT-SoVITS) |
 | 436 | Unknown | myshell-ai/OpenVoiceText-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoice) |
 | 365 | Unknown | myshell-ai/OpenVoiceV2Text-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoiceV2) |
@@ -4546,6 +4549,7 @@ Updated on 2025-06-25
 | 34 | 19 | FastVideo/FastMochi-diffusersText-to-Video | UpdatedDec 16, 2024 | [Link](https://huggingface.co/FastVideo/FastMochi-diffusers) |
 | 3.74k | 17 | calcuis/hyvidText-to-Video | Updated24 days ago | [Link](https://huggingface.co/calcuis/hyvid) |
 | 189 | 14 | showlab/show-1-baseText-to-Video | UpdatedOct 12, 2023 | [Link](https://huggingface.co/showlab/show-1-base) |
+| 141 | 12 | finetrainers/pika-dissolve-v0Text-to-Video | UpdatedJan 16 | [Link](https://huggingface.co/finetrainers/pika-dissolve-v0) |
 | 53 | 11 | lucataco/hunyuan-musubi-lora-heygen-6Text-to-Video | UpdatedJan 13 | [Link](https://huggingface.co/lucataco/hunyuan-musubi-lora-heygen-6) |
 | 471 | 11 | Skywork/SkyReels-V2-DF-14B-540PText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-DF-14B-540P) |
 | 363 | 9 | Skywork/SkyReels-V2-T2V-14B-540PText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-T2V-14B-540P) |

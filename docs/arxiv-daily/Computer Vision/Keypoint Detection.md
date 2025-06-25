@@ -2,6 +2,11 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-24**|**Complete polyhedral description of chemical graphs of maximum degree at most 3**|Valentin Dusollier et.al.|[2506.19768v1](http://arxiv.org/abs/2506.19768v1)|**2025-06-24**|null|
+|**2025-06-24**|**HOIverse: A Synthetic Scene Graph Dataset With Human Object Interactions**|Mrunmai Vivek Phatak et.al.|[2506.19639v1](http://arxiv.org/abs/2506.19639v1)|**2025-06-24**|null|
+|**2025-06-24**|**Learning to assess subjective impressions from speech**|Yuto Kondo et.al.|[2506.19335v1](http://arxiv.org/abs/2506.19335v1)|**2025-06-24**|null|
+|**2025-06-24**|**Scaffolding Dexterous Manipulation with Vision-Language Models**|Vincent de Bakker et.al.|[2506.19212v1](http://arxiv.org/abs/2506.19212v1)|**2025-06-24**|null|
+|**2025-06-23**|**Binsparse: A Specification for Cross-Platform Storage of Sparse Matrices and Tensors**|Benjamin Brock et.al.|[2506.19175v1](http://arxiv.org/abs/2506.19175v1)|**2025-06-23**|null|
 |**2025-06-23**|**Generalized energy band alignment model for van der Waals heterostructures with a charge spillage dipole**|Seungjun Lee et.al.|[2506.18850v1](http://arxiv.org/abs/2506.18850v1)|**2025-06-23**|null|
 |**2025-06-23**|**Offline Goal-Conditioned Reinforcement Learning with Projective Quasimetric Planning**|Anthony Kobanda et.al.|[2506.18847v1](http://arxiv.org/abs/2506.18847v1)|**2025-06-23**|null|
 |**2025-06-23**|**TDACloud: Point Cloud Recognition Using Topological Data Analysis**|Anirban Ghosh et.al.|[2506.18725v1](http://arxiv.org/abs/2506.18725v1)|**2025-06-23**|null|
@@ -27,8 +32,3 @@
 |**2025-06-18**|**VIMS: A Visual-Inertial-Magnetic-Sonar SLAM System in Underwater Environments**|Bingbing Zhang et.al.|[2506.15126v1](http://arxiv.org/abs/2506.15126v1)|**2025-06-18**|null|
 |**2025-06-17**|**Q2SAR: A Quantum Multiple Kernel Learning Approach for Drug Discovery**|Alejandro Giraldo et.al.|[2506.14920v2](http://arxiv.org/abs/2506.14920v2)|**2025-06-24**|null|
 |**2025-06-17**|**Cross-Modal Geometric Hierarchy Fusion: An Implicit-Submap Driven Framework for Resilient 3D Place Recognition**|Xiaohui Jiang et.al.|[2506.14243v2](http://arxiv.org/abs/2506.14243v2)|**2025-06-20**|[link](https://github.com/HBLT-hub/CMGHF)|
-|**2025-06-17**|**AMPLIFY: Actionless Motion Priors for Robot Learning from Videos**|Jeremy A. Collins et.al.|[2506.14198v1](http://arxiv.org/abs/2506.14198v1)|**2025-06-17**|null|
-|**2025-06-17**|**Compositional fluctuations and polymorph selection in crystallization of model soft colloids**|Abhilasha Kumari et.al.|[2506.14109v1](http://arxiv.org/abs/2506.14109v1)|**2025-06-17**|null|
-|**2025-06-16**|**AutoSAS: a new human-aside-the-loop paradigm for automated SAS fitting for high throughput and autonomous experimentation**|Duncan R. Sutherland et.al.|[2506.13918v1](http://arxiv.org/abs/2506.13918v1)|**2025-06-16**|null|
-|**2025-06-16**|**ATK: Automatic Task-driven Keypoint Selection for Robust Policy Learning**|Yunchu Zhang et.al.|[2506.13867v1](http://arxiv.org/abs/2506.13867v1)|**2025-06-16**|null|
-|**2025-06-16**|**Audio-Visual Driven Compression for Low-Bitrate Talking Head Videos**|Riku Takahashi et.al.|[2506.13419v1](http://arxiv.org/abs/2506.13419v1)|**2025-06-16**|null|
