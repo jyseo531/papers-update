@@ -25,7 +25,7 @@
 |**2025-06-18**|**SHeRLoc: Synchronized Heterogeneous Radar Place Recognition for Cross-Modal Localization**|Hanjun Kim et.al.|[2506.15175v1](http://arxiv.org/abs/2506.15175v1)|**2025-06-18**|null|
 |**2025-06-18**|**Enhancing point cloud analysis via neighbor aggregation correction based on cross-stage structure correlation**|Jiaqi Shi et.al.|[2506.15160v1](http://arxiv.org/abs/2506.15160v1)|**2025-06-18**|[link](https://github.com/agent9717/pointdistribution)|
 |**2025-06-18**|**VIMS: A Visual-Inertial-Magnetic-Sonar SLAM System in Underwater Environments**|Bingbing Zhang et.al.|[2506.15126v1](http://arxiv.org/abs/2506.15126v1)|**2025-06-18**|null|
-|**2025-06-17**|**Q2SAR: A Quantum Multiple Kernel Learning Approach for Drug Discovery**|Alejandro Giraldo et.al.|[2506.14920v1](http://arxiv.org/abs/2506.14920v1)|**2025-06-17**|null|
+|**2025-06-17**|**Q2SAR: A Quantum Multiple Kernel Learning Approach for Drug Discovery**|Alejandro Giraldo et.al.|[2506.14920v2](http://arxiv.org/abs/2506.14920v2)|**2025-06-24**|null|
 |**2025-06-17**|**Cross-Modal Geometric Hierarchy Fusion: An Implicit-Submap Driven Framework for Resilient 3D Place Recognition**|Xiaohui Jiang et.al.|[2506.14243v2](http://arxiv.org/abs/2506.14243v2)|**2025-06-20**|[link](https://github.com/HBLT-hub/CMGHF)|
 |**2025-06-17**|**AMPLIFY: Actionless Motion Priors for Robot Learning from Videos**|Jeremy A. Collins et.al.|[2506.14198v1](http://arxiv.org/abs/2506.14198v1)|**2025-06-17**|null|
 |**2025-06-17**|**Compositional fluctuations and polymorph selection in crystallization of model soft colloids**|Abhilasha Kumari et.al.|[2506.14109v1](http://arxiv.org/abs/2506.14109v1)|**2025-06-17**|null|

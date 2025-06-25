@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-06-24
+Updated on 2025-06-25
 
 > Generated from the Hugging Face database.
 
@@ -3832,6 +3832,7 @@ Updated on 2025-06-24
 | 358 | 19 | all-hands/openhands-lm-7b-v0 | Updated1 day ago | [Link](https://huggingface.co/all-hands/openhands-lm-7b-v0.1) |
 | 105 | 19 | nvidia/OpenCodeReasoning-Nemotron-32B-IOIText | Updated6 days ago | [Link](https://huggingface.co/nvidia/OpenCodeReasoning-Nemotron-32B-IOI) |
 | 1.43k | 19 | Motif-Technologies/Motif-2 | Updatedabout 10 hours ago | [Link](https://huggingface.co/Motif-Technologies/Motif-2.6B) |
+| 85 | 19 | THU-KEG/LongWriter-Zero-32BText | Updatedabout 23 hours ago | [Link](https://huggingface.co/THU-KEG/LongWriter-Zero-32B) |
 | 969 | 18 | bartowski/all-hands_openhands-lm-32b-v0 | Updated2 days ago | [Link](https://huggingface.co/bartowski/all-hands_openhands-lm-32b-v0.1-GGUF) |
 | 256 | 18 | Trendyol/Trendyol-LLM-7B-chat-v4 | Updated3 days ago | [Link](https://huggingface.co/Trendyol/Trendyol-LLM-7B-chat-v4.1.0) |
 | 1.11k | 18 | bartowski/Zyphra_ZR1-1 | Updated1 day ago | [Link](https://huggingface.co/bartowski/Zyphra_ZR1-1.5B-GGUF) |

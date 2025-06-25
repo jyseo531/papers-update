@@ -2,7 +2,7 @@
 ### Semantic Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-23**|**jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual Retrieval**|Michael Günther et.al.|[2506.18902v1](http://arxiv.org/abs/2506.18902v1)|**2025-06-23**|null|
+|**2025-06-23**|**jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual Retrieval**|Michael Günther et.al.|[2506.18902v2](http://arxiv.org/abs/2506.18902v2)|**2025-06-24**|null|
 |**2025-06-23**|**Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations**|Jiaming Han et.al.|[2506.18898v1](http://arxiv.org/abs/2506.18898v1)|**2025-06-23**|null|
 |**2025-06-23**|**Let Your Video Listen to Your Music!**|Xinyu Zhang et.al.|[2506.18881v1](http://arxiv.org/abs/2506.18881v1)|**2025-06-23**|null|
 |**2025-06-23**|**TAMMs: Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting**|Zhongbin Guo et.al.|[2506.18862v1](http://arxiv.org/abs/2506.18862v1)|**2025-06-23**|null|
@@ -10,7 +10,7 @@
 |**2025-06-23**|**SViP: Sequencing Bimanual Visuomotor Policies with Object-Centric Motion Primitives**|Yizhou Chen et.al.|[2506.18825v1](http://arxiv.org/abs/2506.18825v1)|**2025-06-23**|null|
 |**2025-06-23**|**Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories**|Islem Bouzenia et.al.|[2506.18824v1](http://arxiv.org/abs/2506.18824v1)|**2025-06-23**|null|
 |**2025-06-23**|**How Hard is it to be a Star? Convex Geometry and the Real Hierarchy**|Marcus Schaefer et.al.|[2506.18818v1](http://arxiv.org/abs/2506.18818v1)|**2025-06-23**|null|
-|**2025-06-23**|**PicoSAM2: Low-Latency Segmentation In-Sensor for Edge Vision Applications**|Pietro Bonazzi et.al.|[2506.18807v1](http://arxiv.org/abs/2506.18807v1)|**2025-06-23**|null|
+|**2025-06-23**|**PicoSAM2: Low-Latency Segmentation In-Sensor for Edge Vision Applications**|Pietro Bonazzi et.al.|[2506.18807v2](http://arxiv.org/abs/2506.18807v2)|**2025-06-24**|null|
 |**2025-06-23**|**OC-SOP: Enhancing Vision-Based 3D Semantic Occupancy Prediction by Object-Centric Awareness**|Helin Cao et.al.|[2506.18798v1](http://arxiv.org/abs/2506.18798v1)|**2025-06-23**|null|
 |**2025-06-23**|**StoryGem: Voronoi treemap Approach for Semantics-Preserving Text Visualization**|Naoya Oda et.al.|[2506.18793v1](http://arxiv.org/abs/2506.18793v1)|**2025-06-23**|null|
 |**2025-06-23**|**Focus Your Attention: Towards Data-Intuitive Lightweight Vision Transformers**|Suyash Gaurav et.al.|[2506.18791v1](http://arxiv.org/abs/2506.18791v1)|**2025-06-23**|null|
@@ -30,5 +30,5 @@
 |**2025-06-23**|**A Simple but Accurate Approximation for Multivariate Gaussian Rate-Distortion Function and Its Application in Maximal Coding Rate Reduction**|Zhenglin Huang et.al.|[2506.18613v1](http://arxiv.org/abs/2506.18613v1)|**2025-06-23**|null|
 |**2025-06-23**|**Semantic similarity estimation for domain specific data using BERT and other techniques**|R. Prashanth et.al.|[2506.18602v1](http://arxiv.org/abs/2506.18602v1)|**2025-06-23**|null|
 |**2025-06-23**|**T-CPDL: A Temporal Causal Probabilistic Description Logic for Developing Logic-RAG Agent**|Hong Qing Yu et.al.|[2506.18559v1](http://arxiv.org/abs/2506.18559v1)|**2025-06-23**|null|
-|**2025-06-23**|**Object-aware Sound Source Localization via Audio-Visual Scene Understanding**|Sung Jin Um et.al.|[2506.18557v1](http://arxiv.org/abs/2506.18557v1)|**2025-06-23**|null|
+|**2025-06-23**|**Object-aware Sound Source Localization via Audio-Visual Scene Understanding**|Sung Jin Um et.al.|[2506.18557v2](http://arxiv.org/abs/2506.18557v2)|**2025-06-24**|null|
 |**2025-06-23**|**A new beamline for Resonant Excitation of Beams with Electromagnetic fields and Lasers (REBEL) and Stopping and Trapping of Radioactive Isotopes for Precision Experiments (STRIPE)**|Phillip Imgram et.al.|[2506.18552v1](http://arxiv.org/abs/2506.18552v1)|**2025-06-23**|null|

@@ -8,7 +8,7 @@
 |**2025-06-23**|**Variational Bayesian Channel Estimation and Data Detection for Cell-Free Massive MIMO with Low-Resolution Quantized Fronthaul Links**|Sajjad Nassirpour et.al.|[2506.18863v1](http://arxiv.org/abs/2506.18863v1)|**2025-06-23**|null|
 |**2025-06-23**|**Mechanistic Interpretability Needs Philosophy**|Iwan Williams et.al.|[2506.18852v1](http://arxiv.org/abs/2506.18852v1)|**2025-06-23**|null|
 |**2025-06-23**|**SocioXplorer: An Interactive Tool for Topic and Network Analysis in Social Data**|Sandrine Chausson et.al.|[2506.18845v1](http://arxiv.org/abs/2506.18845v1)|**2025-06-23**|null|
-|**2025-06-23**|**Subgraph Entropy**|Tawfiq Ahmed et.al.|[2506.18838v1](http://arxiv.org/abs/2506.18838v1)|**2025-06-23**|null|
+|**2025-06-23**|**Subgraph Entropy**|Tarik Aougab et.al.|[2506.18838v2](http://arxiv.org/abs/2506.18838v2)|**2025-06-24**|null|
 |**2025-06-23**|**The Theory of Economic Complexity**|César A. Hidalgo et.al.|[2506.18829v1](http://arxiv.org/abs/2506.18829v1)|**2025-06-23**|null|
 |**2025-06-23**|**Random walk reflected off of infinity, with applications to uniform spanning forests and supercritical Liouville quantum gravity**|Ewain Gwynne et.al.|[2506.18827v1](http://arxiv.org/abs/2506.18827v1)|**2025-06-23**|null|
 |**2025-06-23**|**SViP: Sequencing Bimanual Visuomotor Policies with Object-Centric Motion Primitives**|Yizhou Chen et.al.|[2506.18825v1](http://arxiv.org/abs/2506.18825v1)|**2025-06-23**|null|
