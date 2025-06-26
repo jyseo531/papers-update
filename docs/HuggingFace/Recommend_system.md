@@ -93,6 +93,7 @@ Updated on 2025-06-26
 | 1 | Unknown | calcuis/bagel-ggufAny-to-Any | Updated39 minutes ago | [Link](https://huggingface.co/calcuis/bagel-gguf) |
 | 2 | Unknown | Gen-Verse/MMaDA-8B-MixCoTAny-to-Any | Updatedabout 11 hours ago | [Link](https://huggingface.co/Gen-Verse/MMaDA-8B-MixCoT) |
 | 1 | Unknown | FreedomIntelligence/Janus-4o-7BAny-to-Any | Updatedabout 8 hours ago | [Link](https://huggingface.co/FreedomIntelligence/Janus-4o-7B) |
+| 1 | Unknown | DFloat11/OmniGen2-mllm-DF11Any-to-Any | Updatedabout 22 hours ago | [Link](https://huggingface.co/DFloat11/OmniGen2-mllm-DF11) |
 
 ## Audio Classification
 
@@ -1839,6 +1840,7 @@ Updated on 2025-06-26
 | 10 | Unknown | ngxson/Devstral-Small-Vision-2505-GGUFImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/ngxson/Devstral-Small-Vision-2505-GGUF) |
 | 109 | Unknown | echo840/MonkeyOCRImage-Text-to-Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/echo840/MonkeyOCR) |
 | 28 | Unknown | moonshotai/Kimi-VL-A3B-Thinking-2506Image-Text-to-Text | Updated16 minutes ago | [Link](https://huggingface.co/moonshotai/Kimi-VL-A3B-Thinking-2506) |
+| 9 | Unknown | Kwai-Keye/Keye-VL-8B-PreviewImage-Text-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/Kwai-Keye/Keye-VL-8B-Preview) |
 
 ## Image-to-3D
 
@@ -2158,6 +2160,7 @@ Updated on 2025-06-26
 | 114 | 2 | paudelanil/trocr-devanagari-2Image-to-Text | UpdatedOct 7, 2024 | [Link](https://huggingface.co/paudelanil/trocr-devanagari-2) |
 | 96 | 2 | cxfajar197/urdu-ocrImage-to-Text | UpdatedNov 26, 2024 | [Link](https://huggingface.co/cxfajar197/urdu-ocr) |
 | 46 | 2 | Gregor/mblip-bloomz-7bImage-to-Text | UpdatedApr 28, 2024 | [Link](https://huggingface.co/Gregor/mblip-bloomz-7b) |
+| 8.72k | 2 | PaddlePaddle/PP-OCRv5_server_detImage-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv5_server_det) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -3875,6 +3878,7 @@ Updated on 2025-06-26
 | 10.7k | 15 | lmstudio-community/Magistral-Small-2506-GGUFText | Updated5 days ago | [Link](https://huggingface.co/lmstudio-community/Magistral-Small-2506-GGUF) |
 | 65 | 15 | ICONNAI/ICONN-e1Text | Updated3 days ago | [Link](https://huggingface.co/ICONNAI/ICONN-e1) |
 | 1k | 14 | unsloth/DeepSeek-R1-0528Text | Updated2 days ago | [Link](https://huggingface.co/unsloth/DeepSeek-R1-0528) |
+| 57 | 14 | katanemo/Arch-Agent-32BText | Updated3 days ago | [Link](https://huggingface.co/katanemo/Arch-Agent-32B) |
 | 578k | 6.11k | meta-llama/Meta-Llama-3-8BText | UpdatedSep 27, 2024 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |

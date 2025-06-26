@@ -2,6 +2,8 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-25**|**AI-assisted radiographic analysis in detecting alveolar bone-loss severity and patterns**|Chathura Wimalasiri et.al.|[2506.20522v1](http://arxiv.org/abs/2506.20522v1)|**2025-06-25**|null|
+|**2025-06-25**|**Feature Hallucination for Self-supervised Action Recognition**|Lei Wang et.al.|[2506.20342v1](http://arxiv.org/abs/2506.20342v1)|**2025-06-25**|null|
 |**2025-06-24**|**Complete polyhedral description of chemical graphs of maximum degree at most 3**|Valentin Dusollier et.al.|[2506.19768v1](http://arxiv.org/abs/2506.19768v1)|**2025-06-24**|null|
 |**2025-06-24**|**HOIverse: A Synthetic Scene Graph Dataset With Human Object Interactions**|Mrunmai Vivek Phatak et.al.|[2506.19639v1](http://arxiv.org/abs/2506.19639v1)|**2025-06-24**|null|
 |**2025-06-24**|**Learning to assess subjective impressions from speech**|Yuto Kondo et.al.|[2506.19335v1](http://arxiv.org/abs/2506.19335v1)|**2025-06-24**|null|
@@ -30,5 +32,3 @@
 |**2025-06-18**|**SHeRLoc: Synchronized Heterogeneous Radar Place Recognition for Cross-Modal Localization**|Hanjun Kim et.al.|[2506.15175v1](http://arxiv.org/abs/2506.15175v1)|**2025-06-18**|null|
 |**2025-06-18**|**Enhancing point cloud analysis via neighbor aggregation correction based on cross-stage structure correlation**|Jiaqi Shi et.al.|[2506.15160v1](http://arxiv.org/abs/2506.15160v1)|**2025-06-18**|[link](https://github.com/agent9717/pointdistribution)|
 |**2025-06-18**|**VIMS: A Visual-Inertial-Magnetic-Sonar SLAM System in Underwater Environments**|Bingbing Zhang et.al.|[2506.15126v1](http://arxiv.org/abs/2506.15126v1)|**2025-06-18**|null|
-|**2025-06-17**|**Q2SAR: A Quantum Multiple Kernel Learning Approach for Drug Discovery**|Alejandro Giraldo et.al.|[2506.14920v2](http://arxiv.org/abs/2506.14920v2)|**2025-06-24**|null|
-|**2025-06-17**|**Cross-Modal Geometric Hierarchy Fusion: An Implicit-Submap Driven Framework for Resilient 3D Place Recognition**|Xiaohui Jiang et.al.|[2506.14243v2](http://arxiv.org/abs/2506.14243v2)|**2025-06-20**|[link](https://github.com/HBLT-hub/CMGHF)|
