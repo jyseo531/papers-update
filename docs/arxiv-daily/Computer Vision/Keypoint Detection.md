@@ -8,7 +8,7 @@
 |**2025-06-24**|**Scaffolding Dexterous Manipulation with Vision-Language Models**|Vincent de Bakker et.al.|[2506.19212v1](http://arxiv.org/abs/2506.19212v1)|**2025-06-24**|null|
 |**2025-06-23**|**Binsparse: A Specification for Cross-Platform Storage of Sparse Matrices and Tensors**|Benjamin Brock et.al.|[2506.19175v1](http://arxiv.org/abs/2506.19175v1)|**2025-06-23**|null|
 |**2025-06-23**|**Generalized energy band alignment model for van der Waals heterostructures with a charge spillage dipole**|Seungjun Lee et.al.|[2506.18850v1](http://arxiv.org/abs/2506.18850v1)|**2025-06-23**|null|
-|**2025-06-23**|**Offline Goal-Conditioned Reinforcement Learning with Projective Quasimetric Planning**|Anthony Kobanda et.al.|[2506.18847v1](http://arxiv.org/abs/2506.18847v1)|**2025-06-23**|null|
+|**2025-06-23**|**Offline Goal-Conditioned Reinforcement Learning with Projective Quasimetric Planning**|Anthony Kobanda et.al.|[2506.18847v2](http://arxiv.org/abs/2506.18847v2)|**2025-06-25**|null|
 |**2025-06-23**|**TDACloud: Point Cloud Recognition Using Topological Data Analysis**|Anirban Ghosh et.al.|[2506.18725v1](http://arxiv.org/abs/2506.18725v1)|**2025-06-23**|null|
 |**2025-06-23**|**Including Semantic Information via Word Embeddings for Skeleton-based Action Recognition**|Dustin Aganian et.al.|[2506.18721v1](http://arxiv.org/abs/2506.18721v1)|**2025-06-23**|null|
 |**2025-06-23**|**Sequential keypoint density estimator: an overlooked baseline of skeleton-based video anomaly detection**|Anja Delić et.al.|[2506.18368v1](http://arxiv.org/abs/2506.18368v1)|**2025-06-23**|null|

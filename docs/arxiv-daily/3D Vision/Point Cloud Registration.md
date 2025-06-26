@@ -26,7 +26,7 @@
 |**2025-06-24**|**Electromagnetic and Centrifugal Effects on Plasma Acceleration in the Magnetic Nozzle**|A. I. Smolyakov et.al.|[2506.19647v1](http://arxiv.org/abs/2506.19647v1)|**2025-06-24**|null|
 |**2025-06-24**|**On Error Rate Approximations for FSO Systems with Weak Turbulence and Pointing Errors**|Carmen Álvarez Roa et.al.|[2506.19627v1](http://arxiv.org/abs/2506.19627v1)|**2025-06-24**|null|
 |**2025-06-24**|**Scaling Up Unbiased Search-based Symbolic Regression**|Paul Kahlmeyer et.al.|[2506.19626v1](http://arxiv.org/abs/2506.19626v1)|**2025-06-24**|null|
-|**2025-06-24**|**Self-Supervised Multimodal NeRF for Autonomous Driving**|Gaurav Sharma et.al.|[2506.19615v1](http://arxiv.org/abs/2506.19615v1)|**2025-06-24**|null|
+|**2025-06-24**|**Self-Supervised Multimodal NeRF for Autonomous Driving**|Gaurav Sharma et.al.|[2506.19615v2](http://arxiv.org/abs/2506.19615v2)|**2025-06-25**|null|
 |**2025-06-24**|**Entanglement and quench dynamics in the thermally perturbed tricritical fixed point**|Csilla Király et.al.|[2506.19596v1](http://arxiv.org/abs/2506.19596v1)|**2025-06-24**|null|
 |**2025-06-24**|**Vision Transformer-Based Time-Series Image Reconstruction for Cloud-Filling Applications**|Lujun Li et.al.|[2506.19591v1](http://arxiv.org/abs/2506.19591v1)|**2025-06-24**|null|
 |**2025-06-24**|**Rational isolated $j$-invariants from $X_1(\ell^n)$ and $X_0(\ell^n)$**|Abbey Bourdon et.al.|[2506.19560v1](http://arxiv.org/abs/2506.19560v1)|**2025-06-24**|null|

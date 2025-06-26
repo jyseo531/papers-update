@@ -25,7 +25,7 @@
 |**2025-06-24**|**T-Rex: Task-Adaptive Spatial Representation Extraction for Robotic Manipulation with Vision-Language Models**|Yiteng Chen et.al.|[2506.19498v1](http://arxiv.org/abs/2506.19498v1)|**2025-06-24**|null|
 |**2025-06-24**|**Surgery-R1: Advancing Surgical-VQLA with Reasoning Multimodal Large Language Model via Reinforcement Learning**|Pengfei Hao et.al.|[2506.19469v1](http://arxiv.org/abs/2506.19469v1)|**2025-06-24**|null|
 |**2025-06-24**|**Ground-Effect-Aware Modeling and Control for Multicopters**|Tiankai Yang et.al.|[2506.19424v1](http://arxiv.org/abs/2506.19424v1)|**2025-06-24**|null|
-|**2025-06-24**|**EvDetMAV: Generalized MAV Detection from Moving Event Cameras**|Yin Zhang et.al.|[2506.19416v1](http://arxiv.org/abs/2506.19416v1)|**2025-06-24**|null|
+|**2025-06-24**|**EvDetMAV: Generalized MAV Detection from Moving Event Cameras**|Yin Zhang et.al.|[2506.19416v2](http://arxiv.org/abs/2506.19416v2)|**2025-06-25**|null|
 |**2025-06-24**|**Is an object-centric representation beneficial for robotic manipulation ?**|Alexandre Chapin et.al.|[2506.19408v1](http://arxiv.org/abs/2506.19408v1)|**2025-06-24**|null|
 |**2025-06-24**|**A Survey on Soft Robot Adaptability: Implementations, Applications, and Prospects**|Zixi Chen et.al.|[2506.19397v1](http://arxiv.org/abs/2506.19397v1)|**2025-06-24**|null|
 |**2025-06-24**|**Zero-Shot Parameter Learning of Robot Dynamics Using Bayesian Statistics and Prior Knowledge**|Carsten Reiners et.al.|[2506.19350v1](http://arxiv.org/abs/2506.19350v1)|**2025-06-24**|null|

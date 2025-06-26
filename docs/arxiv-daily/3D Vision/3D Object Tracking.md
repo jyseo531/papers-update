@@ -14,7 +14,7 @@
 |**2025-06-24**|**LQG inspired spacetimes as solutions of the Einstein equations**|Marcos V. de S. Silva et.al.|[2506.19818v1](http://arxiv.org/abs/2506.19818v1)|**2025-06-24**|null|
 |**2025-06-24**|**Open-closed 3d gravity as a random ensemble**|Daniel L. Jafferis et.al.|[2506.19817v1](http://arxiv.org/abs/2506.19817v1)|**2025-06-24**|null|
 |**2025-06-24**|**ReactEMG: Zero-Shot, Low-Latency Intent Detection via sEMG**|Runsheng Wang et.al.|[2506.19815v1](http://arxiv.org/abs/2506.19815v1)|**2025-06-24**|null|
-|**2025-06-24**|**One Prototype Is Enough: Single-Prototype Activation for Interpretable Image Classification**|Yitao Peng et.al.|[2506.19808v1](http://arxiv.org/abs/2506.19808v1)|**2025-06-24**|null|
+|**2025-06-24**|**One Prototype Is Enough: Single-Prototype Activation for Interpretable Image Classification**|Yitao Peng et.al.|[2506.19808v2](http://arxiv.org/abs/2506.19808v2)|**2025-06-25**|null|
 |**2025-06-24**|**CoCo4D: Comprehensive and Complex 4D Scene Generation**|Junwei Zhou et.al.|[2506.19798v1](http://arxiv.org/abs/2506.19798v1)|**2025-06-24**|null|
 |**2025-06-24**|**A comparative analysis of machine learning algorithms for predicting probabilities of default**|Adrian Iulian Cristescu et.al.|[2506.19789v1](http://arxiv.org/abs/2506.19789v1)|**2025-06-24**|null|
 |**2025-06-24**|**The Starlink Robot: A Platform and Dataset for Mobile Satellite Communication**|Boyi Liu et.al.|[2506.19781v1](http://arxiv.org/abs/2506.19781v1)|**2025-06-24**|null|
@@ -24,7 +24,7 @@
 |**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[2506.19769v1](http://arxiv.org/abs/2506.19769v1)|**2025-06-24**|null|
 |**2025-06-24**|**Free commutative skew braces**|Thomas Letourmy et.al.|[2506.19765v1](http://arxiv.org/abs/2506.19765v1)|**2025-06-24**|null|
 |**2025-06-24**|**A modular and extensible library for parameterized terrain generation**|Erik Wallin et.al.|[2506.19751v1](http://arxiv.org/abs/2506.19751v1)|**2025-06-24**|null|
-|**2025-06-24**|**Evaluating Rare Disease Diagnostic Performance in Symptom Checkers: A Synthetic Vignette Simulation Approach**|Takashi Nishibayashi et.al.|[2506.19750v1](http://arxiv.org/abs/2506.19750v1)|**2025-06-24**|null|
+|**2025-06-24**|**Evaluating Rare Disease Diagnostic Performance in Symptom Checkers: A Synthetic Vignette Simulation Approach**|Takashi Nishibayashi et.al.|[2506.19750v2](http://arxiv.org/abs/2506.19750v2)|**2025-06-25**|null|
 |**2025-06-24**|**Systematic Comparison of Projection Methods for Monocular 3D Human Pose Estimation on Fisheye Images**|Stephanie Käs et.al.|[2506.19747v1](http://arxiv.org/abs/2506.19747v1)|**2025-06-24**|null|
 |**2025-06-24**|**Noise Consistency Training: A Native Approach for One-Step Generator in Learning Additional Controls**|Yihong Luo et.al.|[2506.19741v1](http://arxiv.org/abs/2506.19741v1)|**2025-06-24**|null|
 |**2025-06-24**|**Loose threads: parsec-scale filamentation in the high Galactic latitude molecular clouds MBM 3 and MBM 16**|Marco Monaci et.al.|[2506.19728v1](http://arxiv.org/abs/2506.19728v1)|**2025-06-24**|null|

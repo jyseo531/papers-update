@@ -5,10 +5,10 @@
 |**2025-06-24**|**A Comparative Study of NAFNet Baselines for Image Restoration**|Vladislav Esaulov et.al.|[2506.19845v1](http://arxiv.org/abs/2506.19845v1)|**2025-06-24**|null|
 |**2025-06-24**|**Thermodynamic free energy map for the non-oxidative glycolysis pathways**|Adittya Pal et.al.|[2506.19841v1](http://arxiv.org/abs/2506.19841v1)|**2025-06-24**|null|
 |**2025-06-24**|**A standard transformer and attention with linear biases for molecular conformer generation**|Viatcheslav Gurev et.al.|[2506.19834v1](http://arxiv.org/abs/2506.19834v1)|**2025-06-24**|null|
-|**2025-06-24**|**Resonances of recurrence time of monitored quantum walks**|Ruoyu Yin et.al.|[2506.19832v1](http://arxiv.org/abs/2506.19832v1)|**2025-06-24**|null|
+|**2025-06-24**|**Resonances of recurrence time of monitored quantum walks**|Ruoyu Yin et.al.|[2506.19832v2](http://arxiv.org/abs/2506.19832v2)|**2025-06-25**|null|
 |**2025-06-24**|**Evolution of Cluster Alignments as Evidence of Large-scale Structure Formation in the Universe**|Michael J. West et.al.|[2506.19826v1](http://arxiv.org/abs/2506.19826v1)|**2025-06-24**|null|
 |**2025-06-24**|**Exact Matrix Seriation through Mathematical Optimization: Stress and Effectiveness-Based Models**|Víctor Blanco et.al.|[2506.19821v1](http://arxiv.org/abs/2506.19821v1)|**2025-06-24**|null|
-|**2025-06-24**|**One Prototype Is Enough: Single-Prototype Activation for Interpretable Image Classification**|Yitao Peng et.al.|[2506.19808v1](http://arxiv.org/abs/2506.19808v1)|**2025-06-24**|null|
+|**2025-06-24**|**One Prototype Is Enough: Single-Prototype Activation for Interpretable Image Classification**|Yitao Peng et.al.|[2506.19808v2](http://arxiv.org/abs/2506.19808v2)|**2025-06-25**|null|
 |**2025-06-24**|**Convolution-weighting method for the physics-informed neural network: A Primal-Dual Optimization Perspective**|Chenhao Si et.al.|[2506.19805v1](http://arxiv.org/abs/2506.19805v1)|**2025-06-24**|null|
 |**2025-06-24**|**KnowML: Improving Generalization of ML-NIDS with Attack Knowledge Graphs**|Xin Fan Guo et.al.|[2506.19802v1](http://arxiv.org/abs/2506.19802v1)|**2025-06-24**|null|
 |**2025-06-24**|**Modeling the influences of non-local connectomic projections on geometrically constrained cortical dynamics**|Rishikesan Maran et.al.|[2506.19800v1](http://arxiv.org/abs/2506.19800v1)|**2025-06-24**|null|

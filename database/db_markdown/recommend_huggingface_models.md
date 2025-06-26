@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-06-25
+Updated on 2025-06-26
 
 > Generated from the Hugging Face database.
 
@@ -1995,6 +1995,7 @@ Updated on 2025-06-25
 | 1.97k | 6 | TencentARC/t2iadapter_sketch_sd15v2Image-to-Image | UpdatedAug 1, 2023 | [Link](https://huggingface.co/TencentARC/t2iadapter_sketch_sd15v2) |
 | 80 | 5 | jasperai/LBM_relightingImage-to-Image | Updated8 days ago | [Link](https://huggingface.co/jasperai/LBM_relighting) |
 | 6 | 5 | carsonkatri/stable-diffusion-2-depth-diffusersImage-to-Image | UpdatedDec 2, 2022 | [Link](https://huggingface.co/carsonkatri/stable-diffusion-2-depth-diffusers) |
+| 128 | 5 | qualcomm/LaMa-DilatedImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/qualcomm/LaMa-Dilated) |
 | 575 | 4 | prs-eth/marigold-normals-v1-1Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-normals-v1-1) |
 | 1k | 4 | stanfordmimi/MedVAEImage-to-Image | UpdatedMar 31 | [Link](https://huggingface.co/stanfordmimi/MedVAE) |
 | 3 | 4 | wikeeyang/UniWorld-V1-NF4Image-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/wikeeyang/UniWorld-V1-NF4) |
@@ -3930,6 +3931,8 @@ Updated on 2025-06-25
 | 83 |  | Skywork/Skywork-SWE-32BText | Updatedabout 21 hours ago | [Link](https://huggingface.co/Skywork/Skywork-SWE-32B) |
 | 19 | Unknown | arcee-ai/GLM-4-32B-Base-32KText | Updatedabout 9 hours ago | [Link](https://huggingface.co/arcee-ai/GLM-4-32B-Base-32K) |
 | 44 | Unknown | Menlo/Jan-nano-128kText | Updatedabout 4 hours ago | [Link](https://huggingface.co/Menlo/Jan-nano-128k) |
+| 21 | Unknown | Menlo/Jan-nano-128k-ggufText | Updatedabout 15 hours ago | [Link](https://huggingface.co/Menlo/Jan-nano-128k-gguf) |
+| 17 | Unknown | unsloth/Jan-nano-128k-GGUFText | Updatedabout 16 hours ago | [Link](https://huggingface.co/unsloth/Jan-nano-128k-GGUF) |
 
 ## Text Ranking
 
@@ -4513,6 +4516,8 @@ Updated on 2025-06-25
 | 3 | Unknown | dangtr0408/StyleTTS2-liteText-to-Speech | Updated21 days ago | [Link](https://huggingface.co/dangtr0408/StyleTTS2-lite) |
 | 3 | Unknown | SebastianBodza/Kartoffelbox-v0 | Updated1 day ago | [Link](https://huggingface.co/SebastianBodza/Kartoffelbox-v0.1) |
 | 3 | Unknown | Jimmi42/chatterbox-tts-apple-silicon-codeText-to-Speech | Updated17 days ago | [Link](https://huggingface.co/Jimmi42/chatterbox-tts-apple-silicon-code) |
+| 33 | Unknown | maya-research/VeenaText-to-Speech | Updatedabout 15 hours ago | [Link](https://huggingface.co/maya-research/Veena) |
+| 2 | Unknown | re-skill/orpheus-tj-early-mlx-fp16Text-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/re-skill/orpheus-tj-early-mlx-fp16) |
 
 ## Text-to-Video
 
