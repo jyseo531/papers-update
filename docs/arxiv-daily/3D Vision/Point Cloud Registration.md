@@ -25,7 +25,7 @@
 |**2025-06-25**|**Learning-based safety lifting monitoring system for cranes on construction sites**|Hao Chen et.al.|[2506.20475v1](http://arxiv.org/abs/2506.20475v1)|**2025-06-25**|null|
 |**2025-06-25**|**Time is On My Side: Dynamics of Talk-Time Sharing in Video-chat Conversations**|Kaixiang Zhang et.al.|[2506.20474v1](http://arxiv.org/abs/2506.20474v1)|**2025-06-25**|null|
 |**2025-06-25**|**Surrogate-Assisted Evolution for Efficient Multi-branch Connection Design in Deep Neural Networks**|Fergal Stapleton et.al.|[2506.20469v1](http://arxiv.org/abs/2506.20469v1)|**2025-06-25**|null|
-|**2025-06-25**|**JWST Observations of Photo-dissociation Regions. II. Aliphatic/Aromatic Carbonaceous Dust, Ices, and Gas Phase Spectral Line Inventory**|K. Misselt et.al.|[2506.20468v1](http://arxiv.org/abs/2506.20468v1)|**2025-06-25**|null|
+|**2025-06-25**|**JWST Observations of Photo-dissociation Regions. II. Aliphatic/Aromatic Carbonaceous Dust, Ices, and Gas Phase Spectral Line Inventory**|K. Misselt et.al.|[2506.20468v2](http://arxiv.org/abs/2506.20468v2)|**2025-06-26**|null|
 |**2025-06-25**|**A Deep Learning Approach to Identify Rock Bolts in Complex 3D Point Clouds of Underground Mines Captured Using Mobile Laser Scanners**|Dibyayan Patra et.al.|[2506.20464v1](http://arxiv.org/abs/2506.20464v1)|**2025-06-25**|null|
 |**2025-06-25**|**The changing impact of radio jets as they evolve: The view from the cold gas**|Tom Oosterloo et.al.|[2506.20448v1](http://arxiv.org/abs/2506.20448v1)|**2025-06-25**|null|
 |**2025-06-25**|**Méthode de quadrature pour les PINNs fondée théoriquement sur la hessienne des résiduels**|Antoine Caradot et.al.|[2506.20441v1](http://arxiv.org/abs/2506.20441v1)|**2025-06-25**|null|

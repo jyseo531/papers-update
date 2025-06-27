@@ -18,7 +18,7 @@
 |**2025-06-25**|**IKEBANA: A Neural-Network approach for the K-shell ionization by electron impact**|D. M. Mitnik et.al.|[2506.20604v1](http://arxiv.org/abs/2506.20604v1)|**2025-06-25**|null|
 |**2025-06-25**|**SFNet: Fusion of Spatial and Frequency-Domain Features for Remote Sensing Image Forgery Detection**|Ji Qi et.al.|[2506.20599v1](http://arxiv.org/abs/2506.20599v1)|**2025-06-25**|null|
 |**2025-06-25**|**Differential Transformer-driven 6G Physical Layer for Collaborative Perception Enhancement**|Soheyb Ribouh et.al.|[2506.20597v1](http://arxiv.org/abs/2506.20597v1)|**2025-06-25**|null|
-|**2025-06-25**|**Communicating Smartly in Molecular Communication Environments: Neural Networks in the Internet of Bio-Nano Things**|Jorge Torres Gómez et.al.|[2506.20589v1](http://arxiv.org/abs/2506.20589v1)|**2025-06-25**|null|
+|**2025-06-25**|**Communicating Smartly in the Molecular Domain: Neural Networks in the Internet of Bio-Nano Things**|Jorge Torres Gómez et.al.|[2506.20589v2](http://arxiv.org/abs/2506.20589v2)|**2025-06-26**|null|
 |**2025-06-25**|**Learning-Based Distance Estimation for 360° Single-Sensor Setups**|Yitong Quan et.al.|[2506.20586v1](http://arxiv.org/abs/2506.20586v1)|**2025-06-25**|null|
 |**2025-06-25**|**On the Impact of Sybil-based Attacks on Mobile Crowdsensing for Transportation**|Alexander Söderhäll et.al.|[2506.20585v1](http://arxiv.org/abs/2506.20585v1)|**2025-06-25**|null|
 |**2025-06-25**|**The kernel of graph indices for vector search**|Mariano Tepper et.al.|[2506.20584v1](http://arxiv.org/abs/2506.20584v1)|**2025-06-25**|null|

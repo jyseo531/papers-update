@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-06-26
+Updated on 2025-06-27
 
 > Generated from the Hugging Face database.
 
@@ -94,6 +94,7 @@ Updated on 2025-06-26
 | 2 | Unknown | Gen-Verse/MMaDA-8B-MixCoTAny-to-Any | Updatedabout 11 hours ago | [Link](https://huggingface.co/Gen-Verse/MMaDA-8B-MixCoT) |
 | 1 | Unknown | FreedomIntelligence/Janus-4o-7BAny-to-Any | Updatedabout 8 hours ago | [Link](https://huggingface.co/FreedomIntelligence/Janus-4o-7B) |
 | 1 | Unknown | DFloat11/OmniGen2-mllm-DF11Any-to-Any | Updatedabout 22 hours ago | [Link](https://huggingface.co/DFloat11/OmniGen2-mllm-DF11) |
+| 1 | Unknown | calcuis/omnigen2-ggufAny-to-Any | Updatedabout 2 hours ago | [Link](https://huggingface.co/calcuis/omnigen2-gguf) |
 
 ## Audio Classification
 
@@ -1667,6 +1668,7 @@ Updated on 2025-06-26
 | 16.1k | 106 | bytedance-research/UI-TARS-72B-DPOImage-Text-to-Text | UpdatedJan 25 | [Link](https://huggingface.co/bytedance-research/UI-TARS-72B-DPO) |
 | 500 | 99 | meta-llama/Llama-4-Maverick-17B-128E-InstructImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct) |
 | 1.15k | 98 | ContactDoctor/Bio-Medical-MultiModal-Llama-3-8B-V1Image-Text-to-Text | UpdatedOct 17, 2024 | [Link](https://huggingface.co/ContactDoctor/Bio-Medical-MultiModal-Llama-3-8B-V1) |
+| 1.69k | 88 | google/gemma-3n-E4B-itImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/google/gemma-3n-E4B-it) |
 | 10.9k | 80 | ibm-granite/granite-vision-3 | Updatedabout 7 hours ago | [Link](https://huggingface.co/ibm-granite/granite-vision-3.1-2b-preview) |
 | 1.06k | 71 | AIDC-AI/Ovis2-16BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-16B) |
 | 89 | 69 | CohereForAI/aya-vision-8bImage-Text-to-Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/CohereForAI/aya-vision-8b) |
@@ -1707,6 +1709,7 @@ Updated on 2025-06-26
 | 1.6k | 28 | unsloth/Llama-4-Scout-17B-16E-Instruct-GGUFImage-Text-to-Text | Updatedabout 16 hours ago | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct-GGUF) |
 | 5 | 27 | openfree/Gemma-3-R1984-12B-Q8_0-GGUFImage-Text-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/openfree/Gemma-3-R1984-12B-Q8_0-GGUF) |
 | 4 | 27 | openfree/Gemma-3-R1984-12B-Q6_K-GGUFImage-Text-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/openfree/Gemma-3-R1984-12B-Q6_K-GGUF) |
+| 1.18k | 27 | google/gemma-3n-E2B-itImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/google/gemma-3n-E2B-it) |
 | 3 | 26 | openfree/Gemma-3-R1984-27B-Q8_0-GGUFImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/openfree/Gemma-3-R1984-27B-Q8_0-GGUF) |
 | 4 | 26 | openfree/Gemma-3-R1984-27B-Q6_K-GGUFImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/openfree/Gemma-3-R1984-27B-Q6_K-GGUF) |
 | 3 | 26 | openfree/Mistral-Small-3 | Updatedabout 8 hours ago | [Link](https://huggingface.co/openfree/Mistral-Small-3.1-24B-Instruct-2503-Q8_0-GGUF) |
@@ -1730,6 +1733,7 @@ Updated on 2025-06-26
 | 456 | 17 | moondream/moondream-2b-2025-04-14-4bitImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/moondream/moondream-2b-2025-04-14-4bit) |
 | 558 | 17 | xlangai/Jedi-7B-1080pImage-Text-to-Text | Updated12 days ago | [Link](https://huggingface.co/xlangai/Jedi-7B-1080p) |
 | 79 | 17 | lingshu-medical-mllm/Lingshu-7BImage-Text-to-Text | Updated13 minutes ago | [Link](https://huggingface.co/lingshu-medical-mllm/Lingshu-7B) |
+| 131 | 17 | google/gemma-3n-E4BImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/google/gemma-3n-E4B) |
 | 14 | 15 | Sony/AKI-4B-phi-3 | Updated2 days ago | [Link](https://huggingface.co/Sony/AKI-4B-phi-3.5-mini) |
 | 296 | 14 | Fancy-MLLM/R1-Onevision-7BImage-Text-to-Text | Updatedabout 12 hours ago | [Link](https://huggingface.co/Fancy-MLLM/R1-Onevision-7B) |
 | 80 | 14 | google/gemma-3-27b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-pt) |
@@ -1761,6 +1765,7 @@ Updated on 2025-06-26
 | 6 | 11 | nvidia/DAM-3B-Self-ContainedImage-Text-to-Text | Updatedabout 2 hours ago | [Link](https://huggingface.co/nvidia/DAM-3B-Self-Contained) |
 | 6.45k | 11 | unsloth/medgemma-4b-it-GGUFImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/unsloth/medgemma-4b-it-GGUF) |
 | 70 | 11 | XiaomiMiMo/MiMo-VL-7B-SFTImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/XiaomiMiMo/MiMo-VL-7B-SFT) |
+| 206 | 11 | google/gemma-3n-E2BImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/google/gemma-3n-E2B) |
 | 185 | 10 | prithivMLmods/Tokenized-OCRImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/prithivMLmods/Tokenized-OCR) |
 | 25 | 10 | prithivMLmods/Qwen2-VL-OCR2-2B-InstructImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/Qwen2-VL-OCR2-2B-Instruct) |
 | 9 | 10 | google/gemma-3-12b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-12b-pt) |
@@ -1841,6 +1846,7 @@ Updated on 2025-06-26
 | 109 | Unknown | echo840/MonkeyOCRImage-Text-to-Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/echo840/MonkeyOCR) |
 | 28 | Unknown | moonshotai/Kimi-VL-A3B-Thinking-2506Image-Text-to-Text | Updated16 minutes ago | [Link](https://huggingface.co/moonshotai/Kimi-VL-A3B-Thinking-2506) |
 | 9 | Unknown | Kwai-Keye/Keye-VL-8B-PreviewImage-Text-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/Kwai-Keye/Keye-VL-8B-Preview) |
+| 25 | Unknown | unsloth/gemma-3n-E4B-it-GGUFImage-Text-to-Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/unsloth/gemma-3n-E4B-it-GGUF) |
 
 ## Image-to-3D
 
@@ -2083,6 +2089,12 @@ Updated on 2025-06-26
 | 3 | Unknown | davidelobba/TEMU-VTOFFImage-to-Image | Updated22 days ago | [Link](https://huggingface.co/davidelobba/TEMU-VTOFF) |
 | 3 | Unknown | GenieLamp/VTONImage-to-Image | UpdatedMay 12 | [Link](https://huggingface.co/GenieLamp/VTON) |
 | 41 | Unknown | rizavelioglu/tryoffdiffImage-to-Image | UpdatedMay 23 | [Link](https://huggingface.co/rizavelioglu/tryoffdiff) |
+| 41 | Unknown | bullerwins/FLUX | Updatedabout 9 hours ago | [Link](https://huggingface.co/bullerwins/FLUX.1-Kontext-dev-GGUF) |
+| 13 | Unknown | QuantStack/FLUX | Updatedabout 6 hours ago | [Link](https://huggingface.co/QuantStack/FLUX.1-Kontext-dev-GGUF) |
+| 4 | Unknown | fal/Wojak-Kontext-Dev-LoRAImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/fal/Wojak-Kontext-Dev-LoRA) |
+| 3 | Unknown | fal/Broccoli-Hair-Kontext-Dev-LoRAImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/fal/Broccoli-Hair-Kontext-Dev-LoRA) |
+| 3 | Unknown | fal/Plushie-Kontext-Dev-LoRAImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/fal/Plushie-Kontext-Dev-LoRA) |
+| 3 | Unknown | calcuis/kontext-ggufImage-to-Image | Updated24 minutes ago | [Link](https://huggingface.co/calcuis/kontext-gguf) |
 
 ## Image-to-Text
 
@@ -4252,6 +4264,7 @@ Updated on 2025-06-26
 | 11 | 9 | ShoufaChen/PixelFlow-Text2ImageText-to-Image | Updatedabout 19 hours ago | [Link](https://huggingface.co/ShoufaChen/PixelFlow-Text2Image) |
 | 8.2k | 9 | azaneko/HiDream-I1-Dev-nf4Text-to-Image | Updated6 days ago | [Link](https://huggingface.co/azaneko/HiDream-I1-Dev-nf4) |
 | 233 | 9 | nvidia/Cosmos-Predict2-2B-Text2ImageText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/Cosmos-Predict2-2B-Text2Image) |
+| 169 | 9 | briaai/BRIA-3 | Updatedabout 16 hours ago | [Link](https://huggingface.co/briaai/BRIA-3.2) |
 | 215 | 8 | tensorart/stable-diffusion-3 | Updated8 minutes ago | [Link](https://huggingface.co/tensorart/stable-diffusion-3.5-large-TurboX) |
 | 34 | 8 | renderartist/coloringbookhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/coloringbookhidream) |
 | 1.79k | 8 | MaxedOut/ComfyUI-Starter-PacksText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/MaxedOut/ComfyUI-Starter-Packs) |

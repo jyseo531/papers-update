@@ -23,7 +23,7 @@
 |**2025-06-25**|**Enhanced Robotic Navigation in Deformable Environments using Learning from Demonstration and Dynamic Modulation**|Lingyun Chen et.al.|[2506.20376v1](http://arxiv.org/abs/2506.20376v1)|**2025-06-25**|null|
 |**2025-06-25**|**CARMA: Context-Aware Situational Grounding of Human-Robot Group Interactions by Combining Vision-Language Models with Object and Action Recognition**|Joerg Deigmoeller et.al.|[2506.20373v1](http://arxiv.org/abs/2506.20373v1)|**2025-06-25**|null|
 |**2025-06-25**|**PIMBS: Efficient Body Schema Learning for Musculoskeletal Humanoids with Physics-Informed Neural Networks**|Kento Kawaharazuka et.al.|[2506.20343v1](http://arxiv.org/abs/2506.20343v1)|**2025-06-25**|null|
-|**2025-06-25**|**Finding the Easy Way Through -- the Probabilistic Gap Planner for Social Robot Navigation**|Malte Probst et.al.|[2506.20320v1](http://arxiv.org/abs/2506.20320v1)|**2025-06-25**|null|
+|**2025-06-25**|**Finding the Easy Way Through -- the Probabilistic Gap Planner for Social Robot Navigation**|Malte Probst et.al.|[2506.20320v2](http://arxiv.org/abs/2506.20320v2)|**2025-06-26**|null|
 |**2025-06-25**|**Building Forest Inventories with Autonomous Legged Robots -- System, Lessons, and Challenges Ahead**|Matías Mattamala et.al.|[2506.20315v1](http://arxiv.org/abs/2506.20315v1)|**2025-06-25**|null|
 |**2025-06-25**|**Near Time-Optimal Hybrid Motion Planning for Timber Cranes**|Marc-Philip Ecker et.al.|[2506.20314v1](http://arxiv.org/abs/2506.20314v1)|**2025-06-25**|null|
 |**2025-06-25**|**Real-Time Obstacle Avoidance Algorithms for Unmanned Aerial and Ground Vehicles**|Jingwen Wei et.al.|[2506.20311v1](http://arxiv.org/abs/2506.20311v1)|**2025-06-25**|null|
