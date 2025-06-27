@@ -1747,6 +1747,7 @@ Updated on 2025-06-27
 | 74 | 13 | OpenGVLab/InternVL3-1BImage-Text-to-Text | Updated39 minutes ago | [Link](https://huggingface.co/OpenGVLab/InternVL3-1B) |
 | 50 | 13 | OpenGVLab/InternVL3-38BImage-Text-to-Text | Updatedabout 15 hours ago | [Link](https://huggingface.co/OpenGVLab/InternVL3-38B) |
 | 102 | 13 | OpenGVLab/InternVL3-9BImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/OpenGVLab/InternVL3-9B) |
+| 2.81k | 13 | unsloth/gemma-3n-E2B-it-GGUFImage-Text-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/unsloth/gemma-3n-E2B-it-GGUF) |
 | 225 | 12 | ds4sd/SmolDocling-256M-preview-mlx-bf16Image-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/ds4sd/SmolDocling-256M-preview-mlx-bf16) |
 | 1.94k | 12 | bartowski/google_gemma-3-27b-it-qat-GGUFImage-Text-to-Text | Updatedabout 19 hours ago | [Link](https://huggingface.co/bartowski/google_gemma-3-27b-it-qat-GGUF) |
 | 856 | 12 | bartowski/google_gemma-3-12b-it-qat-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/bartowski/google_gemma-3-12b-it-qat-GGUF) |
@@ -2013,6 +2014,7 @@ Updated on 2025-06-27
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
+| 3.41k | 3 | caidas/swin2SR-classical-sr-x4-64Image-to-Image | UpdatedMar 27, 2024 | [Link](https://huggingface.co/caidas/swin2SR-classical-sr-x4-64) |
 | 67 | 2 | SherryXTChen/InstructCLIP-InstructPix2PixImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/SherryXTChen/InstructCLIP-InstructPix2Pix) |
 | 17 | 2 | SherryXTChen/Instruct-CLIPImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/SherryXTChen/Instruct-CLIP) |
 | 76 | 2 | VisualCloze/VisualClozePipeline-384Image-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/VisualCloze/VisualClozePipeline-384) |
@@ -2229,6 +2231,8 @@ Updated on 2025-06-27
 | 4 | Unknown | baudm/parseq-smallImage-to-Text | UpdatedAug 28, 2022 | [Link](https://huggingface.co/baudm/parseq-small) |
 | 1 | Unknown | Kansallisarkisto/cyrillic-htr-modelImage-to-Text | Updatedabout 17 hours ago | [Link](https://huggingface.co/Kansallisarkisto/cyrillic-htr-model) |
 | 1 | Unknown | myeongkyunkang/medcap-textplus-pmcoa-patients-llama3 | Updatedabout 10 hours ago | [Link](https://huggingface.co/myeongkyunkang/medcap-textplus-pmcoa-patients-llama3.1) |
+| 6 | Unknown | Teklia/pylaia-casia-hwdb2Image-to-Text | UpdatedSep 10, 2024 | [Link](https://huggingface.co/Teklia/pylaia-casia-hwdb2) |
+| 18 | Unknown | BAAI/tokenize-anythingImage-to-Text | UpdatedMay 28, 2024 | [Link](https://huggingface.co/BAAI/tokenize-anything) |
 
 ## Image-to-Video
 
@@ -3949,6 +3953,7 @@ Updated on 2025-06-27
 | 44 | Unknown | Menlo/Jan-nano-128kText | Updatedabout 4 hours ago | [Link](https://huggingface.co/Menlo/Jan-nano-128k) |
 | 21 | Unknown | Menlo/Jan-nano-128k-ggufText | Updatedabout 15 hours ago | [Link](https://huggingface.co/Menlo/Jan-nano-128k-gguf) |
 | 17 | Unknown | unsloth/Jan-nano-128k-GGUFText | Updatedabout 16 hours ago | [Link](https://huggingface.co/unsloth/Jan-nano-128k-GGUF) |
+| 169 | Unknown | tencent/Hunyuan-A13B-InstructText | Updatedabout 3 hours ago | [Link](https://huggingface.co/tencent/Hunyuan-A13B-Instruct) |
 
 ## Text Ranking
 
@@ -4668,6 +4673,7 @@ Updated on 2025-06-27
 | 27 | Unknown | gdhe17/Self-ForcingText-to-Video | Updatedabout 8 hours ago | [Link](https://huggingface.co/gdhe17/Self-Forcing) |
 | 2 | Unknown | Skywork/SkyReels-V2-DF-14B-540P-DiffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-DF-14B-540P-Diffusers) |
 | 2 | Unknown | Skywork/SkyReels-V2-T2V-14B-720P-DiffusersText-to-Video | Updated7 days ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-T2V-14B-720P-Diffusers) |
+| 16 | Unknown | APRIL-AIGC/UltraWanText-to-Video | Updatedabout 11 hours ago | [Link](https://huggingface.co/APRIL-AIGC/UltraWan) |
 
 ## Text2Text Generation
 

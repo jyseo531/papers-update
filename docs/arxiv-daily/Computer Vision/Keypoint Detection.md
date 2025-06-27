@@ -2,6 +2,12 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-26**|**Lipschitz Bounds for Persistent Laplacian Eigenvalues under One-Simplex Insertions**|Le Vu Anh et.al.|[2506.21352v1](http://arxiv.org/abs/2506.21352v1)|**2025-06-26**|null|
+|**2025-06-26**|**LLaVA-Pose: Enhancing Human Pose and Action Understanding via Keypoint-Integrated Instruction Tuning**|Dewen Zhang et.al.|[2506.21317v1](http://arxiv.org/abs/2506.21317v1)|**2025-06-26**|null|
+|**2025-06-26**|**ACTLLM: Action Consistency Tuned Large Language Model**|Jing Bi et.al.|[2506.21250v1](http://arxiv.org/abs/2506.21250v1)|**2025-06-26**|null|
+|**2025-06-26**|**Topology-Aware Modeling for Unsupervised Simulation-to-Reality Point Cloud Recognition**|Longkun Zou et.al.|[2506.21165v1](http://arxiv.org/abs/2506.21165v1)|**2025-06-26**|null|
+|**2025-06-26**|**Knowledge-Driven Imitation Learning: Enabling Generalization Across Diverse Conditions**|Zhuochen Miao et.al.|[2506.21057v1](http://arxiv.org/abs/2506.21057v1)|**2025-06-26**|null|
+|**2025-06-26**|**Rethink Sparse Signals for Pose-guided Text-to-image Generation**|Wenjie Xuan et.al.|[2506.20983v1](http://arxiv.org/abs/2506.20983v1)|**2025-06-26**|null|
 |**2025-06-25**|**AI-assisted radiographic analysis in detecting alveolar bone-loss severity and patterns**|Chathura Wimalasiri et.al.|[2506.20522v1](http://arxiv.org/abs/2506.20522v1)|**2025-06-25**|null|
 |**2025-06-25**|**Feature Hallucination for Self-supervised Action Recognition**|Lei Wang et.al.|[2506.20342v1](http://arxiv.org/abs/2506.20342v1)|**2025-06-25**|null|
 |**2025-06-24**|**Complete polyhedral description of chemical graphs of maximum degree at most 3**|Valentin Dusollier et.al.|[2506.19768v1](http://arxiv.org/abs/2506.19768v1)|**2025-06-24**|null|
@@ -26,9 +32,3 @@
 |**2025-06-19**|**Unveiling defect motifs in amorphous GeSe using machine learning interatomic potentials**|Minseok Moon et.al.|[2506.15934v1](http://arxiv.org/abs/2506.15934v1)|**2025-06-19**|null|
 |**2025-06-18**|**A new Surrogate Microstructure Generator for Porous Materials with Applications to the Buffer Layer of TRISO Nuclear Fuel Particles**|Philipp Eisenhardt et.al.|[2506.15874v1](http://arxiv.org/abs/2506.15874v1)|**2025-06-18**|null|
 |**2025-06-18**|**Descriptor-based Foundation Models for Molecular Property Prediction**|Jackson Burns et.al.|[2506.15792v1](http://arxiv.org/abs/2506.15792v1)|**2025-06-18**|null|
-|**2025-06-18**|**Maximizing solubility in rock salt high-entropy oxides**|Matthew Furst et.al.|[2506.15604v1](http://arxiv.org/abs/2506.15604v1)|**2025-06-18**|null|
-|**2025-06-18**|**MCOO-SLAM: A Multi-Camera Omnidirectional Object SLAM System**|Miaoxin Pan et.al.|[2506.15402v1](http://arxiv.org/abs/2506.15402v1)|**2025-06-18**|null|
-|**2025-06-18**|**High-Entropy Skutterudites as Thermoelectrics: Synthesizability and Band Convergence via the Cocktail Effect**|Jose J. Plata et.al.|[2506.15324v1](http://arxiv.org/abs/2506.15324v1)|**2025-06-18**|null|
-|**2025-06-18**|**SHeRLoc: Synchronized Heterogeneous Radar Place Recognition for Cross-Modal Localization**|Hanjun Kim et.al.|[2506.15175v1](http://arxiv.org/abs/2506.15175v1)|**2025-06-18**|null|
-|**2025-06-18**|**Enhancing point cloud analysis via neighbor aggregation correction based on cross-stage structure correlation**|Jiaqi Shi et.al.|[2506.15160v1](http://arxiv.org/abs/2506.15160v1)|**2025-06-18**|[link](https://github.com/agent9717/pointdistribution)|
-|**2025-06-18**|**VIMS: A Visual-Inertial-Magnetic-Sonar SLAM System in Underwater Environments**|Bingbing Zhang et.al.|[2506.15126v1](http://arxiv.org/abs/2506.15126v1)|**2025-06-18**|null|

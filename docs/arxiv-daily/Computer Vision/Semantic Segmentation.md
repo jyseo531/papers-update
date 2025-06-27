@@ -2,33 +2,33 @@
 ### Semantic Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-25**|**IPFormer: Visual 3D Panoptic Scene Completion with Context-Adaptive Instance Proposals**|Markus Gross et.al.|[2506.20671v1](http://arxiv.org/abs/2506.20671v1)|**2025-06-25**|null|
-|**2025-06-25**|**Shape2Animal: Creative Animal Generation from Natural Silhouettes**|Quoc-Duy Tran et.al.|[2506.20616v1](http://arxiv.org/abs/2506.20616v1)|**2025-06-25**|null|
-|**2025-06-25**|**Weighted Mean Frequencies: a handcraft Fourier feature for 4D Flow MRI segmentation**|Simon Perrin et.al.|[2506.20614v1](http://arxiv.org/abs/2506.20614v1)|**2025-06-25**|null|
-|**2025-06-25**|**Video Perception Models for 3D Scene Synthesis**|Rui Huang et.al.|[2506.20601v1](http://arxiv.org/abs/2506.20601v1)|**2025-06-25**|null|
-|**2025-06-25**|**CogGen: A Learner-Centered Generative AI Architecture for Intelligent Tutoring with Programming Video**|Wengxi Li et.al.|[2506.20600v1](http://arxiv.org/abs/2506.20600v1)|**2025-06-25**|null|
-|**2025-06-25**|**Dense Video Captioning using Graph-based Sentence Summarization**|Zhiwang Zhang et.al.|[2506.20583v1](http://arxiv.org/abs/2506.20583v1)|**2025-06-25**|null|
-|**2025-06-25**|**Show, Tell and Summarize: Dense Video Captioning Using Visual Cue Aided Sentence Summarization**|Zhiwang Zhang et.al.|[2506.20567v1](http://arxiv.org/abs/2506.20567v1)|**2025-06-25**|null|
-|**2025-06-25**|**AdvMIM: Adversarial Masked Image Modeling for Semi-Supervised Medical Image Segmentation**|Lei Zhu et.al.|[2506.20563v1](http://arxiv.org/abs/2506.20563v1)|**2025-06-25**|null|
-|**2025-06-25**|**Case-based Reasoning Augmented Large Language Model Framework for Decision Making in Realistic Safety-Critical Driving Scenarios**|Wenbin Gan et.al.|[2506.20531v1](http://arxiv.org/abs/2506.20531v1)|**2025-06-25**|null|
-|**2025-06-25**|**AI-assisted radiographic analysis in detecting alveolar bone-loss severity and patterns**|Chathura Wimalasiri et.al.|[2506.20522v1](http://arxiv.org/abs/2506.20522v1)|**2025-06-25**|null|
-|**2025-06-25**|**Line Aspect Ratio**|Arash Vaezi et.al.|[2506.20508v1](http://arxiv.org/abs/2506.20508v1)|**2025-06-25**|null|
-|**2025-06-25**|**Critical Anatomy-Preserving & Terrain-Augmenting Navigation (CAPTAiN): Application to Laminectomy Surgical Education**|Jonathan Wang et.al.|[2506.20496v1](http://arxiv.org/abs/2506.20496v1)|**2025-06-25**|null|
-|**2025-06-25**|**Mixtures of Neural Cellular Automata: A Stochastic Framework for Growth Modelling and Self-Organization**|Salvatore Milite et.al.|[2506.20486v1](http://arxiv.org/abs/2506.20486v1)|**2025-06-25**|null|
-|**2025-06-25**|**Surrogate-Assisted Evolution for Efficient Multi-branch Connection Design in Deep Neural Networks**|Fergal Stapleton et.al.|[2506.20469v1](http://arxiv.org/abs/2506.20469v1)|**2025-06-25**|null|
-|**2025-06-25**|**A Deep Learning Approach to Identify Rock Bolts in Complex 3D Point Clouds of Underground Mines Captured Using Mobile Laser Scanners**|Dibyayan Patra et.al.|[2506.20464v1](http://arxiv.org/abs/2506.20464v1)|**2025-06-25**|null|
-|**2025-06-25**|**On plane cycles in geometric multipartite graphs**|Marco Ricci et.al.|[2506.20421v1](http://arxiv.org/abs/2506.20421v1)|**2025-06-25**|null|
-|**2025-06-25**|**Semantic Caching for Improving Web Affordability**|Hafsa Akbar et.al.|[2506.20420v1](http://arxiv.org/abs/2506.20420v1)|**2025-06-25**|null|
-|**2025-06-25**|**SPARK: Graph-Based Online Semantic Integration System for Robot Task Planning**|Mimo Shirasaka et.al.|[2506.20394v1](http://arxiv.org/abs/2506.20394v1)|**2025-06-25**|null|
-|**2025-06-25**|**InvZW: Invariant Feature Learning via Noise-Adversarial Training for Robust Image Zero-Watermarking**|Abdullah All Tanvir et.al.|[2506.20370v1](http://arxiv.org/abs/2506.20370v1)|**2025-06-25**|null|
-|**2025-06-25**|**Feature Hallucination for Self-supervised Action Recognition**|Lei Wang et.al.|[2506.20342v1](http://arxiv.org/abs/2506.20342v1)|**2025-06-25**|null|
-|**2025-06-25**|**EAGLE: An Efficient Global Attention Lesion Segmentation Model for Hepatic Echinococcosis**|Jiayan Chen et.al.|[2506.20333v1](http://arxiv.org/abs/2506.20333v1)|**2025-06-25**|null|
-|**2025-06-25**|**Semantic-enhanced Modality-asymmetric Retrieval for Online E-commerce Search**|Zhigong Zhou et.al.|[2506.20330v1](http://arxiv.org/abs/2506.20330v1)|**2025-06-25**|null|
-|**2025-06-25**|**A Literature Review on Simulation in Conversational Recommender Systems**|Haoran Zhang et.al.|[2506.20291v1](http://arxiv.org/abs/2506.20291v1)|**2025-06-25**|null|
-|**2025-06-25**|**Lightweight Target-Speaker-Based Overlap Transcription for Practical Streaming ASR**|Aleš Pražák et.al.|[2506.20288v1](http://arxiv.org/abs/2506.20288v1)|**2025-06-25**|null|
-|**2025-06-25**|**Hierarchical Mask-Enhanced Dual Reconstruction Network for Few-Shot Fine-Grained Image Classification**|Ning Luo et.al.|[2506.20263v1](http://arxiv.org/abs/2506.20263v1)|**2025-06-25**|null|
-|**2025-06-25**|**Argumentative Ensembling for Robust Recourse under Model Multiplicity**|Junqi Jiang et.al.|[2506.20260v1](http://arxiv.org/abs/2506.20260v1)|**2025-06-25**|null|
-|**2025-06-25**|**CBF-AFA: Chunk-Based Multi-SSL Fusion for Automatic Fluency Assessment**|Papa Séga Wade et.al.|[2506.20243v1](http://arxiv.org/abs/2506.20243v1)|**2025-06-25**|null|
-|**2025-06-25**|**UniCode$^2$: Cascaded Large-scale Codebooks for Unified Multimodal Understanding and Generation**|Yanzhe Chen et.al.|[2506.20214v1](http://arxiv.org/abs/2506.20214v1)|**2025-06-25**|null|
-|**2025-06-25**|**Volumetric segmentation of muscle compartments using in vivo imaging and architectural validation in human finger flexors**|Yang Li et.al.|[2506.20206v1](http://arxiv.org/abs/2506.20206v1)|**2025-06-25**|null|
-|**2025-06-25**|**Intrinsic vs. Extrinsic Evaluation of Czech Sentence Embeddings: Semantic Relevance Doesn't Help with MT Evaluation**|Petra Barančíková et.al.|[2506.20203v1](http://arxiv.org/abs/2506.20203v1)|**2025-06-25**|null|
+|**2025-06-26**|**SiM3D: Single-instance Multiview Multimodal and Multisetup 3D Anomaly Detection Benchmark**|Alex Costanzino et.al.|[2506.21549v1](http://arxiv.org/abs/2506.21549v1)|**2025-06-26**|null|
+|**2025-06-26**|**SAM4D: Segment Anything in Camera and LiDAR Streams**|Jianyun Xu et.al.|[2506.21547v1](http://arxiv.org/abs/2506.21547v1)|**2025-06-26**|null|
+|**2025-06-26**|**HalluSegBench: Counterfactual Visual Reasoning for Segmentation Hallucination Evaluation**|Xinzhuo Li et.al.|[2506.21546v1](http://arxiv.org/abs/2506.21546v1)|**2025-06-26**|null|
+|**2025-06-26**|**Maximal Matching Matters: Preventing Representation Collapse for Robust Cross-Modal Retrieval**|Hani Alomari et.al.|[2506.21538v1](http://arxiv.org/abs/2506.21538v1)|**2025-06-26**|null|
+|**2025-06-26**|**Exploring the Design Space of 3D MLLMs for CT Report Generation**|Mohammed Baharoon et.al.|[2506.21535v1](http://arxiv.org/abs/2506.21535v1)|**2025-06-26**|null|
+|**2025-06-26**|**Mitigating Hallucination of Large Vision-Language Models via Dynamic Logits Calibration**|Jiahe Chen et.al.|[2506.21509v1](http://arxiv.org/abs/2506.21509v1)|**2025-06-26**|null|
+|**2025-06-26**|**Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection**|Tobias J. Riedlinger et.al.|[2506.21486v1](http://arxiv.org/abs/2506.21486v1)|**2025-06-26**|null|
+|**2025-06-26**|**Global and Local Entailment Learning for Natural World Imagery**|Srikumar Sastry et.al.|[2506.21476v1](http://arxiv.org/abs/2506.21476v1)|**2025-06-26**|null|
+|**2025-06-26**|**Aligning Spoken Dialogue Models from User Interactions**|Anne Wu et.al.|[2506.21463v1](http://arxiv.org/abs/2506.21463v1)|**2025-06-26**|null|
+|**2025-06-26**|**ThinkSound: Chain-of-Thought Reasoning in Multimodal Large Language Models for Audio Generation and Editing**|Huadai Liu et.al.|[2506.21448v1](http://arxiv.org/abs/2506.21448v1)|**2025-06-26**|null|
+|**2025-06-26**|**Domain Knowledge-Enhanced LLMs for Fraud and Concept Drift Detection**|Ali Şenol et.al.|[2506.21443v1](http://arxiv.org/abs/2506.21443v1)|**2025-06-26**|null|
+|**2025-06-26**|**HyperSORT: Self-Organising Robust Training with hyper-networks**|Samuel Joutard et.al.|[2506.21430v1](http://arxiv.org/abs/2506.21430v1)|**2025-06-26**|null|
+|**2025-06-26**|**XVerse: Consistent Multi-Subject Control of Identity and Semantic Attributes via DiT Modulation**|Bowen Chen et.al.|[2506.21416v1](http://arxiv.org/abs/2506.21416v1)|**2025-06-26**|null|
+|**2025-06-26**|**Accelerating GNN Training through Locality-aware Dropout and Merge**|Gongjian Sun et.al.|[2506.21414v1](http://arxiv.org/abs/2506.21414v1)|**2025-06-26**|null|
+|**2025-06-26**|**TableMoE: Neuro-Symbolic Routing for Structured Expert Reasoning in Multimodal Table Understanding**|Junwen Zhang et.al.|[2506.21393v1](http://arxiv.org/abs/2506.21393v1)|**2025-06-26**|null|
+|**2025-06-26**|**PanSt3R: Multi-view Consistent Panoptic Segmentation**|Lojze Zust et.al.|[2506.21348v1](http://arxiv.org/abs/2506.21348v1)|**2025-06-26**|null|
+|**2025-06-26**|**HieraSurg: Hierarchy-Aware Diffusion Model for Surgical Video Generation**|Diego Biagini et.al.|[2506.21287v1](http://arxiv.org/abs/2506.21287v1)|**2025-06-26**|null|
+|**2025-06-26**|**Temporal Rate Reduction Clustering for Human Motion Segmentation**|Xianghan Meng et.al.|[2506.21249v1](http://arxiv.org/abs/2506.21249v1)|**2025-06-26**|null|
+|**2025-06-26**|**GANet-Seg: Adversarial Learning for Brain Tumor Segmentation with Hybrid Generative Models**|Qifei Cui et.al.|[2506.21245v1](http://arxiv.org/abs/2506.21245v1)|**2025-06-26**|null|
+|**2025-06-26**|**ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation**|Xiwei Xuan et.al.|[2506.21233v1](http://arxiv.org/abs/2506.21233v1)|**2025-06-26**|null|
+|**2025-06-26**|**Enhancing Automatic Term Extraction with Large Language Models via Syntactic Retrieval**|Yongchan Chun et.al.|[2506.21222v1](http://arxiv.org/abs/2506.21222v1)|**2025-06-26**|null|
+|**2025-06-26**|**Robust and efficient pre-processing techniques for particle-based methods including dynamic boundary generation**|Niklas S. Neher et.al.|[2506.21206v1](http://arxiv.org/abs/2506.21206v1)|**2025-06-26**|null|
+|**2025-06-26**|**MedPrompt: LLM-CNN Fusion with Weight Routing for Medical Image Segmentation and Classification**|Shadman Sobhan et.al.|[2506.21199v1](http://arxiv.org/abs/2506.21199v1)|**2025-06-26**|null|
+|**2025-06-26**|**Unlocking Constraints: Source-Free Occlusion-Aware Seamless Segmentation**|Yihong Cao et.al.|[2506.21198v1](http://arxiv.org/abs/2506.21198v1)|**2025-06-26**|null|
+|**2025-06-26**|**Out-of-Distribution Semantic Occupancy Prediction**|Yuheng Zhang et.al.|[2506.21185v1](http://arxiv.org/abs/2506.21185v1)|**2025-06-26**|null|
+|**2025-06-26**|**Performance improvement of spatial semantic segmentation with enriched audio features and agent-based error correction for DCASE 2025 Challenge Task 4**|Jongyeon Park et.al.|[2506.21174v1](http://arxiv.org/abs/2506.21174v1)|**2025-06-26**|null|
+|**2025-06-26**|**Compressed and Smooth Latent Space for Text Diffusion Modeling**|Viacheslav Meshchaninov et.al.|[2506.21170v1](http://arxiv.org/abs/2506.21170v1)|**2025-06-26**|null|
+|**2025-06-26**|**Topology-Aware Modeling for Unsupervised Simulation-to-Reality Point Cloud Recognition**|Longkun Zou et.al.|[2506.21165v1](http://arxiv.org/abs/2506.21165v1)|**2025-06-26**|null|
+|**2025-06-26**|**Robust Deep Learning for Myocardial Scar Segmentation in Cardiac MRI with Noisy Labels**|Aida Moafi et.al.|[2506.21151v1](http://arxiv.org/abs/2506.21151v1)|**2025-06-26**|null|
+|**2025-06-26**|**Tree-based Semantic Losses: Application to Sparsely-supervised Large Multi-class Hyperspectral Segmentation**|Junwen Wang et.al.|[2506.21150v1](http://arxiv.org/abs/2506.21150v1)|**2025-06-26**|null|
