@@ -61,6 +61,7 @@ Updated on 2025-06-28
 | 41 | 1 | EPFL-VILAB/4M-7_XL_CC12MAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-7_XL_CC12M) |
 | 2 | 1 | unsloth/Qwen2 | Updatedabout 12 hours ago | [Link](https://huggingface.co/unsloth/Qwen2.5-Omni-7B) |
 | 648 | 1 | Mungert/Qwen2 | Updated2 days ago | [Link](https://huggingface.co/Mungert/Qwen2.5-Omni-3B-GGUF) |
+| 593 | 1 | DFloat11/OmniGen2-transformer-DF11Any-to-Any | Updated3 days ago | [Link](https://huggingface.co/DFloat11/OmniGen2-transformer-DF11) |
 | 2 | Unknown | guanwenhao/MonoSpeechAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/guanwenhao/MonoSpeech) |
 | 22 | Unknown | Goekdeniz-Guelmez/J | UpdatedOct 29, 2024 | [Link](https://huggingface.co/Goekdeniz-Guelmez/J.O.S.I.E.v4o) |
 | 1 | Unknown | hfcsrd/cryptographyAny-to-Any | UpdatedNov 17, 2024 | [Link](https://huggingface.co/hfcsrd/cryptography) |
@@ -1665,6 +1666,7 @@ Updated on 2025-06-28
 | 404 | 136 | allenai/olmOCR-7B-0225-previewImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview) |
 | 1.28k | 115 | AIDC-AI/Ovis2-34BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-34B) |
 | 26.7k | 114 | HuggingFaceTB/SmolVLM-500M-InstructImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-500M-Instruct) |
+| Updated16 days ago | 109 | ChatDOC/OCRFlux-3BImage-Text-to-Text | 4B | [Link](https://huggingface.co/ChatDOC/OCRFlux-3B) |
 | 16.1k | 106 | bytedance-research/UI-TARS-72B-DPOImage-Text-to-Text | UpdatedJan 25 | [Link](https://huggingface.co/bytedance-research/UI-TARS-72B-DPO) |
 | 500 | 99 | meta-llama/Llama-4-Maverick-17B-128E-InstructImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct) |
 | 1.15k | 98 | ContactDoctor/Bio-Medical-MultiModal-Llama-3-8B-V1Image-Text-to-Text | UpdatedOct 17, 2024 | [Link](https://huggingface.co/ContactDoctor/Bio-Medical-MultiModal-Llama-3-8B-V1) |
@@ -1767,6 +1769,7 @@ Updated on 2025-06-28
 | 6.45k | 11 | unsloth/medgemma-4b-it-GGUFImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/unsloth/medgemma-4b-it-GGUF) |
 | 70 | 11 | XiaomiMiMo/MiMo-VL-7B-SFTImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/XiaomiMiMo/MiMo-VL-7B-SFT) |
 | 206 | 11 | google/gemma-3n-E2BImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/google/gemma-3n-E2B) |
+| 36 | 11 | onnx-community/gemma-3n-E2B-it-ONNXImage-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/onnx-community/gemma-3n-E2B-it-ONNX) |
 | 185 | 10 | prithivMLmods/Tokenized-OCRImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/prithivMLmods/Tokenized-OCR) |
 | 25 | 10 | prithivMLmods/Qwen2-VL-OCR2-2B-InstructImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/Qwen2-VL-OCR2-2B-Instruct) |
 | 9 | 10 | google/gemma-3-12b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-12b-pt) |
@@ -3724,6 +3727,7 @@ Updated on 2025-06-28
 | 3.22k | 72 | sarvamai/sarvam-1Text | UpdatedNov 8, 2024 | [Link](https://huggingface.co/sarvamai/sarvam-1) |
 | 37 | 71 | microsoft/Phi-4-reasoning-plusText | Updated13 days ago | [Link](https://huggingface.co/microsoft/Phi-4-reasoning-plus) |
 | 172 | 65 | microsoft/Phi-4-reasoningText | Updated16 days ago | [Link](https://huggingface.co/microsoft/Phi-4-reasoning) |
+| Updated4 days ago | 64 | katanemo/Arch-Router-1 | 2B | [Link](https://huggingface.co/katanemo/Arch-Router-1.5B) |
 | 224 | 63 | GSAI-ML/LLaDA-8B-InstructText | Updatedabout 23 hours ago | [Link](https://huggingface.co/GSAI-ML/LLaDA-8B-Instruct) |
 | 251 | 63 | ByteDance-Seed/Seed-Coder-8B-ReasoningText | Updatedabout 6 hours ago | [Link](https://huggingface.co/ByteDance-Seed/Seed-Coder-8B-Reasoning) |
 | Updated2 days ago | 60 | Alibaba-NLP/WebDancer-32BText | 33B | [Link](https://huggingface.co/Alibaba-NLP/WebDancer-32B) |
@@ -3749,6 +3753,7 @@ Updated on 2025-06-28
 | 3.37k | 42 | Qwen/QwQ-32B-AWQText | Updatedabout 3 hours ago | [Link](https://huggingface.co/Qwen/QwQ-32B-AWQ) |
 | 796 | 41 | inclusionAI/Ling-liteText | Updated1 day ago | [Link](https://huggingface.co/inclusionAI/Ling-lite) |
 | 75 | 41 | tngtech/DeepSeek-R1T-ChimeraText | Updatedabout 1 hour ago | [Link](https://huggingface.co/tngtech/DeepSeek-R1T-Chimera) |
+| Updatedabout 19 hours ago | 41 | tencent/Hunyuan-A13B-Instruct-FP8Text | 80B | [Link](https://huggingface.co/tencent/Hunyuan-A13B-Instruct-FP8) |
 | 3 | 40 | MiniMaxAI/MiniMax-M1-40kText | Updatedabout 10 hours ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M1-40k) |
 | 4 | 39 | Qwen/Qwen3-14BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-14B) |
 | 227 | 38 | LGAI-EXAONE/EXAONE-Deep-7 | Updated4 minutes ago | [Link](https://huggingface.co/LGAI-EXAONE/EXAONE-Deep-7.8B) |
