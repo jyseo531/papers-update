@@ -3882,6 +3882,7 @@ Updated on 2025-06-28
 | 372 | 17 | nvidia/DeepSeek-R1-0528-FP4Text | Updated2 days ago | [Link](https://huggingface.co/nvidia/DeepSeek-R1-0528-FP4) |
 | 52 | 17 | OpenBuddy/OpenBuddy-R1-0528-Distill-Qwen3-32B-Preview0-QATText | Updatedabout 20 hours ago | [Link](https://huggingface.co/OpenBuddy/OpenBuddy-R1-0528-Distill-Qwen3-32B-Preview0-QAT) |
 | 33 | 17 | katanemo/Arch-Agent-7BText | Updated2 days ago | [Link](https://huggingface.co/katanemo/Arch-Agent-7B) |
+| Updated23 minutes ago | 17 | tencent/Hunyuan-A13B-Instruct-GPTQ-Int4Text | 12B | [Link](https://huggingface.co/tencent/Hunyuan-A13B-Instruct-GPTQ-Int4) |
 | 938 | 16 | ubergarm/DeepSeek-V3-0324-GGUFText | Updated3 days ago | [Link](https://huggingface.co/ubergarm/DeepSeek-V3-0324-GGUF) |
 | 2.09k | 16 | google/gemma-3-1b-it-qat-q4_0-ggufText | Updated3 days ago | [Link](https://huggingface.co/google/gemma-3-1b-it-qat-q4_0-gguf) |
 | 2.94k | 16 | nvidia/AceMath-RL-Nemotron-7BText | Updated4 days ago | [Link](https://huggingface.co/nvidia/AceMath-RL-Nemotron-7B) |
