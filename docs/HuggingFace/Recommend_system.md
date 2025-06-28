@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-06-27
+Updated on 2025-06-28
 
 > Generated from the Hugging Face database.
 
@@ -2097,6 +2097,7 @@ Updated on 2025-06-27
 | 3 | Unknown | fal/Broccoli-Hair-Kontext-Dev-LoRAImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/fal/Broccoli-Hair-Kontext-Dev-LoRA) |
 | 3 | Unknown | fal/Plushie-Kontext-Dev-LoRAImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/fal/Plushie-Kontext-Dev-LoRA) |
 | 3 | Unknown | calcuis/kontext-ggufImage-to-Image | Updated24 minutes ago | [Link](https://huggingface.co/calcuis/kontext-gguf) |
+| 3 | Unknown | ostris/kontext_big_head_loraImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/ostris/kontext_big_head_lora) |
 
 ## Image-to-Text
 
@@ -2113,6 +2114,7 @@ Updated on 2025-06-27
 | 246 | 40 | selvakumarcts/sk_invoice_receiptsImage-to-Text | UpdatedOct 20, 2023 | [Link](https://huggingface.co/selvakumarcts/sk_invoice_receipts) |
 | 7.54k | 36 | breezedeus/pix2text-mfrImage-to-Text | UpdatedMay 5, 2024 | [Link](https://huggingface.co/breezedeus/pix2text-mfr) |
 | 42.7k | 35 | microsoft/trocr-small-printedImage-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-small-printed) |
+| UpdatedJan 11 | 35 | AdamCodd/donut-receipts-extractImage-to-Text | 0.2B | [Link](https://huggingface.co/AdamCodd/donut-receipts-extract) |
 | 6.34k | 32 | thwri/CogFlorence-2 | UpdatedSep 28, 2024 | [Link](https://huggingface.co/thwri/CogFlorence-2.2-Large) |
 | 637 | 31 | U4R/StructTable-InternVL2-1BImage-to-Text | UpdatedDec 12, 2024 | [Link](https://huggingface.co/U4R/StructTable-InternVL2-1B) |
 | 9.9k | 31 | OleehyO/TexTellerImage-to-Text | UpdatedJun 22, 2024 | [Link](https://huggingface.co/OleehyO/TexTeller) |
@@ -2144,6 +2146,7 @@ Updated on 2025-06-27
 | 68 | 10 | Flova/omr_transformerImage-to-Text | UpdatedOct 5, 2023 | [Link](https://huggingface.co/Flova/omr_transformer) |
 | 475 | 9 | DunnBC22/trocr-base-printed_license_plates_ocrImage-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-base-printed_license_plates_ocr) |
 | 455 | 9 | fhswf/TrOCR_german_handwrittenImage-to-Text | UpdatedJun 18, 2024 | [Link](https://huggingface.co/fhswf/TrOCR_german_handwritten) |
+| UpdatedNov 20, 2023 | 9.05k | facebook/nougat-smallImage-to-Text | 0.2B | [Link](https://huggingface.co/facebook/nougat-small) |
 | 452 | 8 | nathansutton/generate-cxrImage-to-Text | UpdatedFeb 23, 2024 | [Link](https://huggingface.co/nathansutton/generate-cxr) |
 | 2 | 8 | espnet/iam_handwriting_ocrImage-to-Text | UpdatedNov 8, 2022 | [Link](https://huggingface.co/espnet/iam_handwriting_ocr) |
 | 2.53k | 8 | openthaigpt/thai-trocrImage-to-Text | UpdatedNov 4, 2024 | [Link](https://huggingface.co/openthaigpt/thai-trocr) |
@@ -3723,6 +3726,7 @@ Updated on 2025-06-27
 | 172 | 65 | microsoft/Phi-4-reasoningText | Updated16 days ago | [Link](https://huggingface.co/microsoft/Phi-4-reasoning) |
 | 224 | 63 | GSAI-ML/LLaDA-8B-InstructText | Updatedabout 23 hours ago | [Link](https://huggingface.co/GSAI-ML/LLaDA-8B-Instruct) |
 | 251 | 63 | ByteDance-Seed/Seed-Coder-8B-ReasoningText | Updatedabout 6 hours ago | [Link](https://huggingface.co/ByteDance-Seed/Seed-Coder-8B-Reasoning) |
+| Updated2 days ago | 60 | Alibaba-NLP/WebDancer-32BText | 33B | [Link](https://huggingface.co/Alibaba-NLP/WebDancer-32B) |
 | 406 | 57 | LatitudeGames/Wayfarer-Large-70B-Llama-3 | Updated6 days ago | [Link](https://huggingface.co/LatitudeGames/Wayfarer-Large-70B-Llama-3.3) |
 | 46 | 57 | a-m-team/AM-Thinking-v1Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/a-m-team/AM-Thinking-v1) |
 | 143 | 55 | unsloth/DeepSeek-R1-0528-GGUFText | Updatedabout 1 hour ago | [Link](https://huggingface.co/unsloth/DeepSeek-R1-0528-GGUF) |
@@ -4492,6 +4496,7 @@ Updated on 2025-06-27
 | 55 | 2 | unsloth/Spark-TTS-0 | Updated2 days ago | [Link](https://huggingface.co/unsloth/Spark-TTS-0.5B) |
 | 70 | 2 | calcuis/dia-ggufText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/calcuis/dia-gguf) |
 | 57 | 2 | lunarlist/tts-thaiText-to-Speech | UpdatedJul 27, 2023 | [Link](https://huggingface.co/lunarlist/tts-thai) |
+| UpdatedSep 1, 2023 | 1.78k | facebook/mms-tts-turText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-tur) |
 | 302 | Unknown | lj1995/GPT-SoVITSText-to-Speech | Updated14 days ago | [Link](https://huggingface.co/lj1995/GPT-SoVITS) |
 | 436 | Unknown | myshell-ai/OpenVoiceText-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoice) |
 | 365 | Unknown | myshell-ai/OpenVoiceV2Text-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoiceV2) |
