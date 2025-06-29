@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-06-28
+Updated on 2025-06-29
 
 > Generated from the Hugging Face database.
 
@@ -25,6 +25,7 @@ Updated on 2025-06-28
 | 621 | 16 | EPFL-VILAB/4M-7_B_CC12MAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-7_B_CC12M) |
 | 470 | 15 | showlab/show-oAny-to-Any | UpdatedAug 27, 2024 | [Link](https://huggingface.co/showlab/show-o) |
 | 1.03k | 14 | onnx-community/Janus-1 | UpdatedNov 28, 2024 | [Link](https://huggingface.co/onnx-community/Janus-1.3B-ONNX) |
+| Updatedabout 1 hour ago | 14 | AIDC-AI/Ovis-U1-3BAny-to-Any | 4B | [Link](https://huggingface.co/AIDC-AI/Ovis-U1-3B) |
 | 23 | 9 | Alpha-VLLM/Lumina-mGPT-7B-1024Any-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-1024) |
 | 612 | 7 | internlm/internlm-xcomposer2d5-7b-rewardAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/internlm/internlm-xcomposer2d5-7b-reward) |
 | 16 | 7 | FunAGI/Qwen2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/FunAGI/Qwen2.5-Omni-7B-GPTQ-4bit) |
@@ -49,6 +50,7 @@ Updated on 2025-06-28
 | 401 | 2 | second-state/MiniCPM-o-2_6-GGUFAny-to-Any | Updated17 days ago | [Link](https://huggingface.co/second-state/MiniCPM-o-2_6-GGUF) |
 | 5 | 2 | VARGPT-family/VARGPT-v1 | Updated1 day ago | [Link](https://huggingface.co/VARGPT-family/VARGPT-v1.1) |
 | 91 | 2 | EPFL-VILAB/4M-7-SR_L_CC12MAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-7-SR_L_CC12M) |
+| Updated33 minutes ago | 2 | Gen-Verse/MMaDA-8B-PretrainAny-to-Any | 8B | [Link](https://huggingface.co/Gen-Verse/MMaDA-8B-Pretrain) |
 | 170 | 1 | tezuesh/moshi_generalAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/tezuesh/moshi_general) |
 | 35 | 1 | tezuesh/IBLlama_v1Any-to-Any | UpdatedJan 24 | [Link](https://huggingface.co/tezuesh/IBLlama_v1) |
 | 43 | 1 | Athagi/Janus-Pro-7BAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/Athagi/Janus-Pro-7B) |
@@ -2101,6 +2103,7 @@ Updated on 2025-06-28
 | 3 | Unknown | fal/Plushie-Kontext-Dev-LoRAImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/fal/Plushie-Kontext-Dev-LoRA) |
 | 3 | Unknown | calcuis/kontext-ggufImage-to-Image | Updated24 minutes ago | [Link](https://huggingface.co/calcuis/kontext-gguf) |
 | 3 | Unknown | ostris/kontext_big_head_loraImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/ostris/kontext_big_head_lora) |
+| 5 | Unknown | 6chan/flux1-kontext-dev-fp8Image-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/6chan/flux1-kontext-dev-fp8) |
 
 ## Image-to-Text
 
