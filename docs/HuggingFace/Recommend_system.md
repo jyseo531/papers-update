@@ -4396,6 +4396,7 @@ Updated on 2025-06-29
 | 5 | Unknown | calcuis/cosmos-predict2-ggufText-to-Image | Updated29 minutes ago | [Link](https://huggingface.co/calcuis/cosmos-predict2-gguf) |
 | 5 | Unknown | ippanorc/animetic_lightText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/ippanorc/animetic_light) |
 | 486 | Unknown | Djrango/Qwen2vl-FluxText-to-Image | UpdatedDec 6, 2024 | [Link](https://huggingface.co/Djrango/Qwen2vl-Flux) |
+| 9 | Unknown | drbaph/GlassPrism-kontext-LoRAText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/drbaph/GlassPrism-kontext-LoRA) |
 
 ## Text-to-Speech
 
