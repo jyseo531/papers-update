@@ -2,6 +2,9 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336v1](http://arxiv.org/abs/2506.22336v1)|**2025-06-27**|null|
+|**2025-06-27**|**SDRNET: Stacked Deep Residual Network for Accurate Semantic Segmentation of Fine-Resolution Remotely Sensed Images**|Naftaly Wambugu et.al.|[2506.21945v1](http://arxiv.org/abs/2506.21945v1)|**2025-06-27**|null|
+|**2025-06-27**|**ZeroReg3D: A Zero-shot Registration Pipeline for 3D Consecutive Histopathology Image Reconstruction**|Juming Xiong et.al.|[2506.21923v1](http://arxiv.org/abs/2506.21923v1)|**2025-06-27**|null|
 |**2025-06-26**|**Lipschitz Bounds for Persistent Laplacian Eigenvalues under One-Simplex Insertions**|Le Vu Anh et.al.|[2506.21352v1](http://arxiv.org/abs/2506.21352v1)|**2025-06-26**|null|
 |**2025-06-26**|**LLaVA-Pose: Enhancing Human Pose and Action Understanding via Keypoint-Integrated Instruction Tuning**|Dewen Zhang et.al.|[2506.21317v1](http://arxiv.org/abs/2506.21317v1)|**2025-06-26**|null|
 |**2025-06-26**|**ACTLLM: Action Consistency Tuned Large Language Model**|Jing Bi et.al.|[2506.21250v1](http://arxiv.org/abs/2506.21250v1)|**2025-06-26**|null|
@@ -29,6 +32,3 @@
 |**2025-06-20**|**The simplest chaos indicator derived from Lagrangian descriptors**|Javier Jiménez-López et.al.|[2506.16660v1](http://arxiv.org/abs/2506.16660v1)|**2025-06-20**|null|
 |**2025-06-19**|**How Far Can Off-the-Shelf Multimodal Large Language Models Go in Online Episodic Memory Question Answering?**|Giuseppe Lando et.al.|[2506.16450v1](http://arxiv.org/abs/2506.16450v1)|**2025-06-19**|null|
 |**2025-06-19**|**STAR-Pose: Efficient Low-Resolution Video Human Pose Estimation via Spatial-Temporal Adaptive Super-Resolution**|Yucheng Jin et.al.|[2506.16061v1](http://arxiv.org/abs/2506.16061v1)|**2025-06-19**|null|
-|**2025-06-19**|**Unveiling defect motifs in amorphous GeSe using machine learning interatomic potentials**|Minseok Moon et.al.|[2506.15934v1](http://arxiv.org/abs/2506.15934v1)|**2025-06-19**|null|
-|**2025-06-18**|**A new Surrogate Microstructure Generator for Porous Materials with Applications to the Buffer Layer of TRISO Nuclear Fuel Particles**|Philipp Eisenhardt et.al.|[2506.15874v1](http://arxiv.org/abs/2506.15874v1)|**2025-06-18**|null|
-|**2025-06-18**|**Descriptor-based Foundation Models for Molecular Property Prediction**|Jackson Burns et.al.|[2506.15792v1](http://arxiv.org/abs/2506.15792v1)|**2025-06-18**|null|

@@ -2,33 +2,33 @@
 ### Point Cloud Registration
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-26**|**Whole-Body Conditioned Egocentric Video Prediction**|Yutong Bai et.al.|[2506.21552v1](http://arxiv.org/abs/2506.21552v1)|**2025-06-26**|null|
-|**2025-06-26**|**SiM3D: Single-instance Multiview Multimodal and Multisetup 3D Anomaly Detection Benchmark**|Alex Costanzino et.al.|[2506.21549v1](http://arxiv.org/abs/2506.21549v1)|**2025-06-26**|null|
-|**2025-06-26**|**Natal kick by early-asymmetrical pairs of jets to the neutron star of supernova remnant S147**|Dmitry Shishkin et.al.|[2506.21548v1](http://arxiv.org/abs/2506.21548v1)|**2025-06-26**|null|
-|**2025-06-26**|**SAM4D: Segment Anything in Camera and LiDAR Streams**|Jianyun Xu et.al.|[2506.21547v1](http://arxiv.org/abs/2506.21547v1)|**2025-06-26**|null|
-|**2025-06-26**|**StruMamba3D: Exploring Structural Mamba for Self-supervised Point Cloud Representation Learning**|Chuxin Wang et.al.|[2506.21541v1](http://arxiv.org/abs/2506.21541v1)|**2025-06-26**|null|
-|**2025-06-26**|**Continuous symmetry breaking in 1D spin chains and 1+1D field theory**|Adam Nahum et.al.|[2506.21540v1](http://arxiv.org/abs/2506.21540v1)|**2025-06-26**|null|
-|**2025-06-26**|**On the Invariance of Expansive Measures for Flows**|Eduardo Pedrosa et.al.|[2506.21533v1](http://arxiv.org/abs/2506.21533v1)|**2025-06-26**|null|
-|**2025-06-26**|**Landau levels of a Dirac electron in graphene from non-uniform magnetic fields**|Aritra Ghosh et.al.|[2506.21529v1](http://arxiv.org/abs/2506.21529v1)|**2025-06-26**|null|
-|**2025-06-26**|**The spectrum of global representations for families of bounded rank and VI-modules**|Miguel Barrero et.al.|[2506.21525v1](http://arxiv.org/abs/2506.21525v1)|**2025-06-26**|null|
-|**2025-06-26**|**Hunting for UVdim stars in Galactic Open clusters. Clues from ultraviolet photometry**|G. Cordoni et.al.|[2506.21519v1](http://arxiv.org/abs/2506.21519v1)|**2025-06-26**|null|
-|**2025-06-26**|**On the visibility window for Brownian interlacements, Poisson cylinders and Boolean models**|Yingxin Mu et.al.|[2506.21516v1](http://arxiv.org/abs/2506.21516v1)|**2025-06-26**|null|
-|**2025-06-26**|**Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection**|Tobias J. Riedlinger et.al.|[2506.21486v1](http://arxiv.org/abs/2506.21486v1)|**2025-06-26**|null|
-|**2025-06-26**|**Deciding Robust Instances of an Escape Problem for Dynamical Systems in Euclidean Space**|Eike Neumann et.al.|[2506.21481v1](http://arxiv.org/abs/2506.21481v1)|**2025-06-26**|null|
-|**2025-06-26**|**Conformal maps and critical points of Eisenstein series**|Mario Bonk et.al.|[2506.21471v1](http://arxiv.org/abs/2506.21471v1)|**2025-06-26**|null|
-|**2025-06-26**|**Linear and Second-order-cone Valid Inequalities for Problems with Storage**|Juan M. Morales et.al.|[2506.21470v1](http://arxiv.org/abs/2506.21470v1)|**2025-06-26**|null|
-|**2025-06-26**|**Efficient and Reuseable Cloud Configuration Search Using Discovery Spaces**|Michael Johnston et.al.|[2506.21467v1](http://arxiv.org/abs/2506.21467v1)|**2025-06-26**|null|
-|**2025-06-26**|**An Iterative Methodology for Unitary Quantum Channel Search**|Matthew M. Lin et.al.|[2506.21455v1](http://arxiv.org/abs/2506.21455v1)|**2025-06-26**|null|
-|**2025-06-26**|**Asymptotic stability of solutions to semilinear evolution equations in Banach spaces**|Francesco Cellarosi et.al.|[2506.21437v1](http://arxiv.org/abs/2506.21437v1)|**2025-06-26**|null|
-|**2025-06-26**|**Carbon-Aware Microservice Deployment for Optimal User Experience on a Budget**|Kevin Kreutz et.al.|[2506.21422v1](http://arxiv.org/abs/2506.21422v1)|**2025-06-26**|null|
-|**2025-06-26**|**Vantage Point Selection Algorithms for Bottleneck Capacity Estimation**|Vikrant Ashvinkumar et.al.|[2506.21418v1](http://arxiv.org/abs/2506.21418v1)|**2025-06-26**|null|
-|**2025-06-26**|**Modular fixed points in equivariant homotopy theory**|Yorick Fuhrmann et.al.|[2506.21413v1](http://arxiv.org/abs/2506.21413v1)|**2025-06-26**|null|
-|**2025-06-26**|**Sifting for a Stream: The Morphology of the $300S$ Stellar Stream**|Benjamin Cohen et.al.|[2506.21410v1](http://arxiv.org/abs/2506.21410v1)|**2025-06-26**|null|
-|**2025-06-26**|**Mechanically Reconfigurable GRIN Lens Concept for Focusing and Beamforming Applications**|K. Kaboutari et.al.|[2506.21404v1](http://arxiv.org/abs/2506.21404v1)|**2025-06-26**|null|
-|**2025-06-26**|**Ultrafast photocurrent detection reveals that device efficiency is dominated by ultrafast exciton dissociation not exciton diffusion**|Zachary M. Faitz et.al.|[2506.21402v1](http://arxiv.org/abs/2506.21402v1)|**2025-06-26**|null|
-|**2025-06-26**|**Curve-Aware Gaussian Splatting for 3D Parametric Curve Reconstruction**|Zhirui Gao. Renjiao Yi et.al.|[2506.21401v1](http://arxiv.org/abs/2506.21401v1)|**2025-06-26**|null|
-|**2025-06-26**|**CA-I2P: Channel-Adaptive Registration Network with Global Optimal Selection**|Zhixin Cheng et.al.|[2506.21364v1](http://arxiv.org/abs/2506.21364v1)|**2025-06-26**|null|
-|**2025-06-26**|**Efficient parameter-robust preconditioners for linear poroelasticity and elasticity in the primal formulation**|Weizhang Huang et.al.|[2506.21361v1](http://arxiv.org/abs/2506.21361v1)|**2025-06-26**|null|
-|**2025-06-26**|**Three-point functions from integrability in $\mathcal{N}=2$ orbifold theories**|Dennis le Plat et.al.|[2506.21323v1](http://arxiv.org/abs/2506.21323v1)|**2025-06-26**|null|
-|**2025-06-26**|**An H$α$ Cloud in the HI Tail: Recent Star Formation in the Outskirts of NGC 4258 Revealed by Nanshan 1-m Telescope**|Cheng Cheng et.al.|[2506.21321v1](http://arxiv.org/abs/2506.21321v1)|**2025-06-26**|null|
-|**2025-06-26**|**Quantum thermal state preparation for near-term quantum processors**|Jerome Lloyd et.al.|[2506.21318v1](http://arxiv.org/abs/2506.21318v1)|**2025-06-26**|null|
+|**2025-06-27**|**WarpRF: Multi-View Consistency for Training-Free Uncertainty Quantification and Applications in Radiance Fields**|Sadra Safadoust et.al.|[2506.22433v1](http://arxiv.org/abs/2506.22433v1)|**2025-06-27**|null|
+|**2025-06-27**|**Augmented Lagrangian methods for infeasible convex optimization problems and diverging proximal-point algorithms**|Roland Andrews et.al.|[2506.22428v1](http://arxiv.org/abs/2506.22428v1)|**2025-06-27**|null|
+|**2025-06-27**|**An iterated random function with Lipschitz number one**|Aaron Abrams et.al.|[2506.22420v1](http://arxiv.org/abs/2506.22420v1)|**2025-06-27**|null|
+|**2025-06-27**|**Spin Seebeck Effect of Triangular-lattice Spin Supersolid**|Yuan Gao et.al.|[2506.22414v1](http://arxiv.org/abs/2506.22414v1)|**2025-06-27**|null|
+|**2025-06-27**|**QCD sum rule analysis of $J^{PC}=1^{--}$ light hybrid mesons**|Shuang-Hong Li et.al.|[2506.22412v1](http://arxiv.org/abs/2506.22412v1)|**2025-06-27**|null|
+|**2025-06-27**|**HyperCLOVA X THINK Technical Report**|NAVER Cloud HyperCLOVA X Team et.al.|[2506.22403v1](http://arxiv.org/abs/2506.22403v1)|**2025-06-27**|null|
+|**2025-06-27**|**Test-Time Consistency in Vision Language Models**|Shih-Han Chou et.al.|[2506.22395v1](http://arxiv.org/abs/2506.22395v1)|**2025-06-27**|null|
+|**2025-06-27**|**MeerKAT radio continuum imaging of nearby star-forming spirals in the NGC 6221, NGC 3256/3263, and NGC 2434 galaxy groups**|J. Saponara et.al.|[2506.22382v1](http://arxiv.org/abs/2506.22382v1)|**2025-06-27**|null|
+|**2025-06-27**|**Modeling the Mass Distribution and Gravitational Potential of Nearby Disk Galaxies: Implications for the ISM Dynamical Equilibrium**|Vivek Vijayakumar et.al.|[2506.22381v1](http://arxiv.org/abs/2506.22381v1)|**2025-06-27**|null|
+|**2025-06-27**|**Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation**|Tiankai Chen et.al.|[2506.22375v1](http://arxiv.org/abs/2506.22375v1)|**2025-06-27**|null|
+|**2025-06-27**|**Binary black holes in the heat of merger**|Samanwaya Mukherjee et.al.|[2506.22363v1](http://arxiv.org/abs/2506.22363v1)|**2025-06-27**|null|
+|**2025-06-27**|**A Deep Learning framework for building damage assessment using VHR SAR and geospatial data: demonstration on the 2023 Turkiye Earthquake**|Luigi Russo et.al.|[2506.22338v1](http://arxiv.org/abs/2506.22338v1)|**2025-06-27**|null|
+|**2025-06-27**|**Second-order methods for provably escaping strict saddle points in composite nonconvex and nonsmooth optimization**|Alexander Bodard et.al.|[2506.22332v1](http://arxiv.org/abs/2506.22332v1)|**2025-06-27**|null|
+|**2025-06-27**|**Hawaii conjecture through the lens of Cauchy indices**|Dmitry Gnatyuk et.al.|[2506.22330v1](http://arxiv.org/abs/2506.22330v1)|**2025-06-27**|null|
+|**2025-06-27**|**A free boundary approach to non-scattering obstacles with vanishing contrast**|Mikko Salo et.al.|[2506.22328v1](http://arxiv.org/abs/2506.22328v1)|**2025-06-27**|null|
+|**2025-06-27**|**Recovering the Topology in One Point Interaction Problem on Extended Non-Local Star Graphs**|Lung-Hui Chen et.al.|[2506.22322v1](http://arxiv.org/abs/2506.22322v1)|**2025-06-27**|null|
+|**2025-06-27**|**Phase field approximation for Plateau's problem: a curve geodesic distance penalty approach**|Matthieu Bonnivard et.al.|[2506.22273v1](http://arxiv.org/abs/2506.22273v1)|**2025-06-27**|null|
+|**2025-06-27**|**The evasion of tipping: pattern formation near a Turing-fold bifurcation**|Dock Staal et.al.|[2506.22251v1](http://arxiv.org/abs/2506.22251v1)|**2025-06-27**|null|
+|**2025-06-27**|**Relaxation enhancement by controlling incompressible fluid flows**|Kai Koike et.al.|[2506.22233v1](http://arxiv.org/abs/2506.22233v1)|**2025-06-27**|null|
+|**2025-06-27**|**Cardiovascular disease classification using radiomics and geometric features from cardiac CT**|Ajay Mittal et.al.|[2506.22226v1](http://arxiv.org/abs/2506.22226v1)|**2025-06-27**|null|
+|**2025-06-27**|**V2X Intention Sharing for Cooperative Electrically Power-Assisted Cycles**|Felipe Valle Quiroz et.al.|[2506.22223v1](http://arxiv.org/abs/2506.22223v1)|**2025-06-27**|null|
+|**2025-06-27**|**UiS-IAI@LiveRAG: Retrieval-Augmented Information Nugget-Based Generation of Responses**|Weronika Łajewska et.al.|[2506.22210v1](http://arxiv.org/abs/2506.22210v1)|**2025-06-27**|null|
+|**2025-06-27**|**A synthetic Lorentzian Cartan-Hadamard theorem**|Darius Erös et.al.|[2506.22197v1](http://arxiv.org/abs/2506.22197v1)|**2025-06-27**|null|
+|**2025-06-27**|**Quantum theory of asymptotically flat spacetimes**|Carlos N. Kozameh et.al.|[2506.22195v1](http://arxiv.org/abs/2506.22195v1)|**2025-06-27**|null|
+|**2025-06-27**|**Robust and Accurate Multi-view 2D/3D Image Registration with Differentiable X-ray Rendering and Dual Cross-view Constraints**|Yuxin Cui et.al.|[2506.22191v1](http://arxiv.org/abs/2506.22191v1)|**2025-06-27**|null|
+|**2025-06-27**|**Autonomic Microservice Management via Agentic AI and MAPE-K Integration**|Matteo Esposito et.al.|[2506.22185v1](http://arxiv.org/abs/2506.22185v1)|**2025-06-27**|null|
+|**2025-06-27**|**On hot-spots free subregions of convex domains**|Jonathan Rohleder et.al.|[2506.22184v1](http://arxiv.org/abs/2506.22184v1)|**2025-06-27**|null|
+|**2025-06-27**|**Existence and decay for a Grushin problem in $\mathbb{R}^N$ with singular, convective, critical reaction**|Laura Baldelli et.al.|[2506.22177v1](http://arxiv.org/abs/2506.22177v1)|**2025-06-27**|null|
+|**2025-06-27**|**RM-Dijkstra: A surface optimal path planning algorithm based on Riemannian metric**|Yu Zhang et.al.|[2506.22170v1](http://arxiv.org/abs/2506.22170v1)|**2025-06-27**|null|
+|**2025-06-27**|**The Missing Link: Joint Legal Citation Prediction using Heterogeneous Graph Enrichment**|Lorenz Wendlinger et.al.|[2506.22165v1](http://arxiv.org/abs/2506.22165v1)|**2025-06-27**|null|

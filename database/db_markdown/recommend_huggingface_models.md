@@ -2010,6 +2010,7 @@ Updated on 2025-06-30
 | 80 | 5 | jasperai/LBM_relightingImage-to-Image | Updated8 days ago | [Link](https://huggingface.co/jasperai/LBM_relighting) |
 | 6 | 5 | carsonkatri/stable-diffusion-2-depth-diffusersImage-to-Image | UpdatedDec 2, 2022 | [Link](https://huggingface.co/carsonkatri/stable-diffusion-2-depth-diffusers) |
 | 128 | 5 | qualcomm/LaMa-DilatedImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/qualcomm/LaMa-Dilated) |
+| Updated12 minutes ago | 5 | unsloth/FLUX | 12B | [Link](https://huggingface.co/unsloth/FLUX.1-Kontext-dev-GGUF) |
 | 575 | 4 | prs-eth/marigold-normals-v1-1Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-normals-v1-1) |
 | 1k | 4 | stanfordmimi/MedVAEImage-to-Image | UpdatedMar 31 | [Link](https://huggingface.co/stanfordmimi/MedVAE) |
 | 3 | 4 | wikeeyang/UniWorld-V1-NF4Image-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/wikeeyang/UniWorld-V1-NF4) |
@@ -2106,6 +2107,7 @@ Updated on 2025-06-30
 | 5 | Unknown | 6chan/flux1-kontext-dev-fp8Image-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/6chan/flux1-kontext-dev-fp8) |
 | 12 | Unknown | drbaph/GlassPrism-kontext-LoRAImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/drbaph/GlassPrism-kontext-LoRA) |
 | 2 | Unknown | orabazes/caricature_kontext_loraImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/orabazes/caricature_kontext_lora) |
+| 8 | Unknown | fal/Youtube-Thumbnails-Kontext-Dev-LoRAImage-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/fal/Youtube-Thumbnails-Kontext-Dev-LoRA) |
 
 ## Image-to-Text
 
@@ -2198,6 +2200,11 @@ Updated on 2025-06-30
 | 202 | 1 | mradermacher/Qari-OCR-0 | Updated5 days ago | [Link](https://huggingface.co/mradermacher/Qari-OCR-0.3-SNAPSHOT-VL-2B-Instruct-merged-GGUF) |
 | 542 | 1 | logasanjeev/indian-id-validatorImage-to-Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/logasanjeev/indian-id-validator) |
 | 55 | 1 | humbleakh/qwen2 | Updated14 days ago | [Link](https://huggingface.co/humbleakh/qwen2.5-vl-3b-8bit-chain-of-zoom) |
+| 1.44k | 1 | PaddlePaddle/PP-OCRv5_mobile_detImage-to-Text | Updated4 days ago | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv5_mobile_det) |
+| 19.2k | 1 | PaddlePaddle/PP-OCRv5_server_recImage-to-Text | Updated4 days ago | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv5_server_rec) |
+| 1.09k | 1 | PaddlePaddle/PP-OCRv5_mobile_recImage-to-Text | Updated4 days ago | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv5_mobile_rec) |
+| 23k | 1 | PaddlePaddle/PP-LCNet_x1_0_doc_oriImage-to-Text | Updated4 days ago | [Link](https://huggingface.co/PaddlePaddle/PP-LCNet_x1_0_doc_ori) |
+| 4.43k | 1 | PaddlePaddle/PP-DocLayout_plus-LImage-to-Text | Updated4 days ago | [Link](https://huggingface.co/PaddlePaddle/PP-DocLayout_plus-L) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -3779,6 +3786,7 @@ Updated on 2025-06-30
 | 115 | 33 | shuttleai/shuttle-3 | Updated2 days ago | [Link](https://huggingface.co/shuttleai/shuttle-3.5) |
 | 4.66k | 33 | Qwen/Qwen3-32B-AWQText | Updated5 days ago | [Link](https://huggingface.co/Qwen/Qwen3-32B-AWQ) |
 | 23 | 33 | rednote-hilab/dots | Updatedabout 9 hours ago | [Link](https://huggingface.co/rednote-hilab/dots.llm1.inst) |
+| Updatedabout 4 hours ago | 33 | baidu/ERNIE-4 | 22B | [Link](https://huggingface.co/baidu/ERNIE-4.5-21B-A3B-PT) |
 | 5.81k | 32 | trillionlabs/Trillion-7B-previewText | Updatedabout 3 hours ago | [Link](https://huggingface.co/trillionlabs/Trillion-7B-preview) |
 | 224 | 32 | JetBrains/Mellum-4b-sft-pythonText | Updated6 days ago | [Link](https://huggingface.co/JetBrains/Mellum-4b-sft-python) |
 | 131 | 32 | nvidia/AceReason-Nemotron-14BText | Updatedabout 3 hours ago | [Link](https://huggingface.co/nvidia/AceReason-Nemotron-14B) |
@@ -4509,6 +4517,7 @@ Updated on 2025-06-30
 | 70 | 2 | calcuis/dia-ggufText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/calcuis/dia-gguf) |
 | 57 | 2 | lunarlist/tts-thaiText-to-Speech | UpdatedJul 27, 2023 | [Link](https://huggingface.co/lunarlist/tts-thai) |
 | UpdatedSep 1, 2023 | 1.78k | facebook/mms-tts-turText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-tur) |
+| UpdatedSep 1, 2023 | 1.05k | facebook/mms-tts-porText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-por) |
 | 302 | Unknown | lj1995/GPT-SoVITSText-to-Speech | Updated14 days ago | [Link](https://huggingface.co/lj1995/GPT-SoVITS) |
 | 436 | Unknown | myshell-ai/OpenVoiceText-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoice) |
 | 365 | Unknown | myshell-ai/OpenVoiceV2Text-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoiceV2) |
