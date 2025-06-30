@@ -2148,6 +2148,7 @@ Updated on 2025-06-30
 | 159 | 14 | yayayaaa/florence-2-large-ft-moredetailedImage-to-Text | UpdatedJul 16, 2024 | [Link](https://huggingface.co/yayayaaa/florence-2-large-ft-moredetailed) |
 | 207 | 13 | DGurgurov/im2latexImage-to-Text | UpdatedOct 23, 2024 | [Link](https://huggingface.co/DGurgurov/im2latex) |
 | 24.8k | 13 | microsoft/trocr-base-stage1Image-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-base-stage1) |
+| UpdatedMay 4 | 13 | ragunath-ravi/blip-histopathology-finetunedImage-to-Text | 0.2B | [Link](https://huggingface.co/ragunath-ravi/blip-histopathology-finetuned) |
 | 3.63k | 12 | microsoft/trocr-small-stage1Image-to-Text | UpdatedJan 24, 2023 | [Link](https://huggingface.co/microsoft/trocr-small-stage1) |
 | 2.29k | 12 | MohamedRashad/arabic-large-nougatImage-to-Text | UpdatedNov 28, 2024 | [Link](https://huggingface.co/MohamedRashad/arabic-large-nougat) |
 | 658 | 11 | prithivMLmods/Florence-2-VLM-Doc-VQAImage-to-Text | UpdatedOct 26, 2024 | [Link](https://huggingface.co/prithivMLmods/Florence-2-VLM-Doc-VQA) |
@@ -2166,6 +2167,7 @@ Updated on 2025-06-30
 | 285 | 7 | purna419/invoice-parserImage-to-Text | UpdatedJul 10, 2023 | [Link](https://huggingface.co/purna419/invoice-parser) |
 | 6 | 7 | sujet-ai/Lutece-Vision-BaseImage-to-Text | UpdatedJul 14, 2024 | [Link](https://huggingface.co/sujet-ai/Lutece-Vision-Base) |
 | 624 | 6 | fhswf/TrOCR_Math_handwrittenImage-to-Text | UpdatedOct 21, 2024 | [Link](https://huggingface.co/fhswf/TrOCR_Math_handwritten) |
+| 511 | 6 | microsoft/trocr-base-strImage-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-base-str) |
 | 7 | 5 | laicsiifes/swin-gportuguese-2Image-to-Text | UpdatedMar 31 | [Link](https://huggingface.co/laicsiifes/swin-gportuguese-2) |
 | 5 | 5 | Yodazon/3DPrintFailureTypeImage-to-Text | UpdatedOct 18, 2024 | [Link](https://huggingface.co/Yodazon/3DPrintFailureType) |
 | 17 | 4 | MixTex/tiny-ZhEn-for-onnxImage-to-Text | UpdatedFeb 23 | [Link](https://huggingface.co/MixTex/tiny-ZhEn-for-onnx) |
