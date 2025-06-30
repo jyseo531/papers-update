@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-06-29
+Updated on 2025-06-30
 
 > Generated from the Hugging Face database.
 
@@ -2104,6 +2104,8 @@ Updated on 2025-06-29
 | 3 | Unknown | calcuis/kontext-ggufImage-to-Image | Updated24 minutes ago | [Link](https://huggingface.co/calcuis/kontext-gguf) |
 | 3 | Unknown | ostris/kontext_big_head_loraImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/ostris/kontext_big_head_lora) |
 | 5 | Unknown | 6chan/flux1-kontext-dev-fp8Image-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/6chan/flux1-kontext-dev-fp8) |
+| 12 | Unknown | drbaph/GlassPrism-kontext-LoRAImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/drbaph/GlassPrism-kontext-LoRA) |
+| 2 | Unknown | orabazes/caricature_kontext_loraImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/orabazes/caricature_kontext_lora) |
 
 ## Image-to-Text
 

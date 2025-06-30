@@ -30,5 +30,5 @@
 |**2025-06-26**|**Control of Marine Robots in the Era of Data-Driven Intelligence**|Lin Hong et.al.|[2506.21063v1](http://arxiv.org/abs/2506.21063v1)|**2025-06-26**|null|
 |**2025-06-26**|**Knowledge-Driven Imitation Learning: Enabling Generalization Across Diverse Conditions**|Zhuochen Miao et.al.|[2506.21057v1](http://arxiv.org/abs/2506.21057v1)|**2025-06-26**|null|
 |**2025-06-26**|**V2X-REALM: Vision-Language Model-Based Robust End-to-End Cooperative Autonomous Driving with Adaptive Long-Tail Modeling**|Junwei You et.al.|[2506.21041v1](http://arxiv.org/abs/2506.21041v1)|**2025-06-26**|null|
-|**2025-06-26**|**DidSee: Diffusion-Based Depth Completion for Material-Agnostic Robotic Perception and Manipulation**|Wenzhou Lyu et.al.|[2506.21034v1](http://arxiv.org/abs/2506.21034v1)|**2025-06-26**|null|
+|**2025-06-26**|**DidSee: Diffusion-Based Depth Completion for Material-Agnostic Robotic Perception and Manipulation**|Wenzhou Lyu et.al.|[2506.21034v2](http://arxiv.org/abs/2506.21034v2)|**2025-06-27**|null|
 |**2025-06-26**|**STEP Planner: Constructing cross-hierarchical subgoal tree as an embodied long-horizon task planner**|Zhou Tianxing et.al.|[2506.21030v1](http://arxiv.org/abs/2506.21030v1)|**2025-06-26**|null|

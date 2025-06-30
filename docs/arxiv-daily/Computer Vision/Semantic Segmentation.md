@@ -21,7 +21,7 @@
 |**2025-06-26**|**HieraSurg: Hierarchy-Aware Diffusion Model for Surgical Video Generation**|Diego Biagini et.al.|[2506.21287v1](http://arxiv.org/abs/2506.21287v1)|**2025-06-26**|null|
 |**2025-06-26**|**Temporal Rate Reduction Clustering for Human Motion Segmentation**|Xianghan Meng et.al.|[2506.21249v1](http://arxiv.org/abs/2506.21249v1)|**2025-06-26**|null|
 |**2025-06-26**|**GANet-Seg: Adversarial Learning for Brain Tumor Segmentation with Hybrid Generative Models**|Qifei Cui et.al.|[2506.21245v1](http://arxiv.org/abs/2506.21245v1)|**2025-06-26**|null|
-|**2025-06-26**|**ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation**|Xiwei Xuan et.al.|[2506.21233v1](http://arxiv.org/abs/2506.21233v1)|**2025-06-26**|null|
+|**2025-06-26**|**ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation**|Xiwei Xuan et.al.|[2506.21233v2](http://arxiv.org/abs/2506.21233v2)|**2025-06-27**|null|
 |**2025-06-26**|**Enhancing Automatic Term Extraction with Large Language Models via Syntactic Retrieval**|Yongchan Chun et.al.|[2506.21222v1](http://arxiv.org/abs/2506.21222v1)|**2025-06-26**|null|
 |**2025-06-26**|**Robust and efficient pre-processing techniques for particle-based methods including dynamic boundary generation**|Niklas S. Neher et.al.|[2506.21206v1](http://arxiv.org/abs/2506.21206v1)|**2025-06-26**|null|
 |**2025-06-26**|**MedPrompt: LLM-CNN Fusion with Weight Routing for Medical Image Segmentation and Classification**|Shadman Sobhan et.al.|[2506.21199v1](http://arxiv.org/abs/2506.21199v1)|**2025-06-26**|null|
