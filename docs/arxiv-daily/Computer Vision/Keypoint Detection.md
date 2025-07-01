@@ -2,6 +2,13 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-30**|**HiNeuS: High-fidelity Neural Surface Mitigating Low-texture and Reflective Ambiguity**|Yida Wang et.al.|[2506.23854v1](http://arxiv.org/abs/2506.23854v1)|**2025-06-30**|null|
+|**2025-06-29**|**RoboScape: Physics-informed Embodied World Model**|Yu Shang et.al.|[2506.23135v1](http://arxiv.org/abs/2506.23135v1)|**2025-06-29**|null|
+|**2025-06-29**|**Insights into Ionic Diffusion in C-S-H Gel Pore from MD Simulations: Spatial Distributions, Energy Barriers, and Structural Descriptor**|Weiqiang Chen et.al.|[2506.23089v1](http://arxiv.org/abs/2506.23089v1)|**2025-06-29**|null|
+|**2025-06-28**|**SemFaceEdit: Semantic Face Editing on Generative Radiance Manifolds**|Shashikant Verma et.al.|[2506.22833v1](http://arxiv.org/abs/2506.22833v1)|**2025-06-28**|null|
+|**2025-06-28**|**Learning Efficient Robotic Garment Manipulation with Standardization**|Changshi Zhou et.al.|[2506.22769v1](http://arxiv.org/abs/2506.22769v1)|**2025-06-28**|null|
+|**2025-06-28**|**Deterministic Object Pose Confidence Region Estimation**|Jinghao Wang et.al.|[2506.22720v1](http://arxiv.org/abs/2506.22720v1)|**2025-06-28**|null|
+|**2025-06-28**|**The diffuse supernova neutrino background: a modern approach**|Cecilia Lunardini et.al.|[2506.22699v1](http://arxiv.org/abs/2506.22699v1)|**2025-06-28**|null|
 |**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336v1](http://arxiv.org/abs/2506.22336v1)|**2025-06-27**|null|
 |**2025-06-27**|**SDRNET: Stacked Deep Residual Network for Accurate Semantic Segmentation of Fine-Resolution Remotely Sensed Images**|Naftaly Wambugu et.al.|[2506.21945v1](http://arxiv.org/abs/2506.21945v1)|**2025-06-27**|null|
 |**2025-06-27**|**ZeroReg3D: A Zero-shot Registration Pipeline for 3D Consecutive Histopathology Image Reconstruction**|Juming Xiong et.al.|[2506.21923v1](http://arxiv.org/abs/2506.21923v1)|**2025-06-27**|null|
@@ -25,10 +32,3 @@
 |**2025-06-23**|**Sequential keypoint density estimator: an overlooked baseline of skeleton-based video anomaly detection**|Anja Delić et.al.|[2506.18368v1](http://arxiv.org/abs/2506.18368v1)|**2025-06-23**|null|
 |**2025-06-22**|**ADA-DPM: A Neural Descriptors-based Adaptive Noise Point Filtering Strategy for SLAM**|Yongxin Shao et.al.|[2506.18016v1](http://arxiv.org/abs/2506.18016v1)|**2025-06-22**|null|
 |**2025-06-22**|**Fast Neural Inverse Kinematics on Human Body Motions**|David Tolpin et.al.|[2506.17996v1](http://arxiv.org/abs/2506.17996v1)|**2025-06-22**|null|
-|**2025-06-22**|**An entropy-optimal path to humble AI**|Davide Bassetti et.al.|[2506.17940v1](http://arxiv.org/abs/2506.17940v1)|**2025-06-22**|null|
-|**2025-06-21**|**Fetuses Made Simple: Modeling and Tracking of Fetal Shape and Pose**|Yingcheng Liu et.al.|[2506.17858v2](http://arxiv.org/abs/2506.17858v2)|**2025-06-29**|null|
-|**2025-06-20**|**Refining Tc Prediction in Hydrides via Symbolic-Regression-Enhanced Electron-Localization-Function-Based Descriptors**|Francesco Belli et.al.|[2506.17456v1](http://arxiv.org/abs/2506.17456v1)|**2025-06-20**|null|
-|**2025-06-20**|**Class Agnostic Instance-level Descriptor for Visual Instance Search**|Qi-Ying Sun et.al.|[2506.16745v1](http://arxiv.org/abs/2506.16745v1)|**2025-06-20**|null|
-|**2025-06-20**|**The simplest chaos indicator derived from Lagrangian descriptors**|Javier Jiménez-López et.al.|[2506.16660v1](http://arxiv.org/abs/2506.16660v1)|**2025-06-20**|null|
-|**2025-06-19**|**How Far Can Off-the-Shelf Multimodal Large Language Models Go in Online Episodic Memory Question Answering?**|Giuseppe Lando et.al.|[2506.16450v1](http://arxiv.org/abs/2506.16450v1)|**2025-06-19**|null|
-|**2025-06-19**|**STAR-Pose: Efficient Low-Resolution Video Human Pose Estimation via Spatial-Temporal Adaptive Super-Resolution**|Yucheng Jin et.al.|[2506.16061v1](http://arxiv.org/abs/2506.16061v1)|**2025-06-19**|null|

@@ -4264,6 +4264,7 @@ Updated on 2025-07-01
 | 2.23k | 42 | aoxo/flux | Updatedabout 2 hours ago | [Link](https://huggingface.co/aoxo/flux.1dev-abliteratedv2) |
 | 5.59k | 33 | hashu786/HYVRewardText-to-Image | Updated5 days ago | [Link](https://huggingface.co/hashu786/HYVReward) |
 | 2.49k | 33 | Heartsync/NSFW-UncensoredText-to-Image | Updated7 days ago | [Link](https://huggingface.co/Heartsync/NSFW-Uncensored) |
+| 145 | 28 | ByteDance/XVerseText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/ByteDance/XVerse) |
 | 5.26k | 20 | mit-han-lab/svdq-int4-flux | Updated22 days ago | [Link](https://huggingface.co/mit-han-lab/svdq-int4-flux.1-dev) |
 | 2 | 20 | HiDream-ai/HiDream-I1-FullText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/HiDream-ai/HiDream-I1-Full) |
 |  | 18 | multimodalart/isometric-skeumorphic-3d-bnbText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/multimodalart/isometric-skeumorphic-3d-bnb) |
@@ -4307,6 +4308,7 @@ Updated on 2025-07-01
 | 1.07k | 6 | DFloat11/FLUX | Updated1 day ago | [Link](https://huggingface.co/DFloat11/FLUX.1-dev-DF11) |
 | 836 | 6 | Minthy/RouWei-0 | Updated3 days ago | [Link](https://huggingface.co/Minthy/RouWei-0.8) |
 | 169 | 6 | PosterCraft/PosterCraft-v1_RLText-to-Image | Updated2 days ago | [Link](https://huggingface.co/PosterCraft/PosterCraft-v1_RL) |
+| 68 | 6 | day-dream/MechAnything-Kontext-Dev-LoraText-to-Image | Updated2 days ago | [Link](https://huggingface.co/day-dream/MechAnything-Kontext-Dev-Lora) |
 | 42 | 5 | Shakker-Labs/RepTextText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Shakker-Labs/RepText) |
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
@@ -4452,6 +4454,7 @@ Updated on 2025-07-01
 | 943k | 22 | myshell-ai/MeloTTS-KoreanText-to-Speech | UpdatedFeb 29, 2024 | [Link](https://huggingface.co/myshell-ai/MeloTTS-Korean) |
 | 431 | 21 | firstpixel/F5-TTS-pt-brText-to-Speech | Updated13 days ago | [Link](https://huggingface.co/firstpixel/F5-TTS-pt-br) |
 | 48 | 21 | senstella/csm-expressiva-1bText-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/senstella/csm-expressiva-1b) |
+| 857 | 20 | MBZUAI/speecht5_tts_clartts_arText-to-Speech | UpdatedFeb 23, 2024 | [Link](https://huggingface.co/MBZUAI/speecht5_tts_clartts_ar) |
 | 1.54k | 19 | HKUSTAudio/Llasa-1B-MultilingualText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-1B-Multilingual) |
 | 18.9k | 19 | myshell-ai/MeloTTS-SpanishText-to-Speech | UpdatedMar 1, 2024 | [Link](https://huggingface.co/myshell-ai/MeloTTS-Spanish) |
 | 26 | 19 | fishaudio/openaudio-s1-miniText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/fishaudio/openaudio-s1-mini) |
