@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-06-30
+Updated on 2025-07-01
 
 > Generated from the Hugging Face database.
 
@@ -98,6 +98,7 @@ Updated on 2025-06-30
 | 1 | Unknown | FreedomIntelligence/Janus-4o-7BAny-to-Any | Updatedabout 8 hours ago | [Link](https://huggingface.co/FreedomIntelligence/Janus-4o-7B) |
 | 1 | Unknown | DFloat11/OmniGen2-mllm-DF11Any-to-Any | Updatedabout 22 hours ago | [Link](https://huggingface.co/DFloat11/OmniGen2-mllm-DF11) |
 | 1 | Unknown | calcuis/omnigen2-ggufAny-to-Any | Updatedabout 2 hours ago | [Link](https://huggingface.co/calcuis/omnigen2-gguf) |
+| 3 | Unknown | BAAI/OmniGen2Any-to-Any | Updatedabout 13 hours ago | [Link](https://huggingface.co/BAAI/OmniGen2) |
 
 ## Audio Classification
 
@@ -2108,6 +2109,7 @@ Updated on 2025-06-30
 | 12 | Unknown | drbaph/GlassPrism-kontext-LoRAImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/drbaph/GlassPrism-kontext-LoRA) |
 | 2 | Unknown | orabazes/caricature_kontext_loraImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/orabazes/caricature_kontext_lora) |
 | 8 | Unknown | fal/Youtube-Thumbnails-Kontext-Dev-LoRAImage-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/fal/Youtube-Thumbnails-Kontext-Dev-LoRA) |
+| 2 | Unknown | Calligrapher2025/CalligrapherImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/Calligrapher2025/Calligrapher) |
 
 ## Image-to-Text
 

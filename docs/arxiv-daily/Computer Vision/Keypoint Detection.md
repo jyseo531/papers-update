@@ -26,7 +26,7 @@
 |**2025-06-22**|**ADA-DPM: A Neural Descriptors-based Adaptive Noise Point Filtering Strategy for SLAM**|Yongxin Shao et.al.|[2506.18016v1](http://arxiv.org/abs/2506.18016v1)|**2025-06-22**|null|
 |**2025-06-22**|**Fast Neural Inverse Kinematics on Human Body Motions**|David Tolpin et.al.|[2506.17996v1](http://arxiv.org/abs/2506.17996v1)|**2025-06-22**|null|
 |**2025-06-22**|**An entropy-optimal path to humble AI**|Davide Bassetti et.al.|[2506.17940v1](http://arxiv.org/abs/2506.17940v1)|**2025-06-22**|null|
-|**2025-06-21**|**Fetuses Made Simple: Modeling and Tracking of Fetal Shape and Pose**|Yingcheng Liu et.al.|[2506.17858v1](http://arxiv.org/abs/2506.17858v1)|**2025-06-21**|null|
+|**2025-06-21**|**Fetuses Made Simple: Modeling and Tracking of Fetal Shape and Pose**|Yingcheng Liu et.al.|[2506.17858v2](http://arxiv.org/abs/2506.17858v2)|**2025-06-29**|null|
 |**2025-06-20**|**Refining Tc Prediction in Hydrides via Symbolic-Regression-Enhanced Electron-Localization-Function-Based Descriptors**|Francesco Belli et.al.|[2506.17456v1](http://arxiv.org/abs/2506.17456v1)|**2025-06-20**|null|
 |**2025-06-20**|**Class Agnostic Instance-level Descriptor for Visual Instance Search**|Qi-Ying Sun et.al.|[2506.16745v1](http://arxiv.org/abs/2506.16745v1)|**2025-06-20**|null|
 |**2025-06-20**|**The simplest chaos indicator derived from Lagrangian descriptors**|Javier Jiménez-López et.al.|[2506.16660v1](http://arxiv.org/abs/2506.16660v1)|**2025-06-20**|null|
