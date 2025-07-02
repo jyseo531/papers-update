@@ -11,6 +11,7 @@ Updated on 2025-07-02
 | 189k | 577 | deepseek-ai/Janus-1 | Updated29 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-1.3B) |
 | 121k | 381 | deepseek-ai/Janus-Pro-1BAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-1B) |
 | 488 | 260 | gpt-omni/mini-omni2Any-to-Any | UpdatedOct 24, 2024 | [Link](https://huggingface.co/gpt-omni/mini-omni2) |
+| Updatedabout 7 hours ago | 253 | csuhan/Tar-1 | 3B | [Link](https://huggingface.co/csuhan/Tar-1.5B) |
 | 1.68k | 208 | BAAI/Emu3-GenAny-to-Any | UpdatedOct 23, 2024 | [Link](https://huggingface.co/BAAI/Emu3-Gen) |
 | 9.96k | 141 | deepseek-ai/JanusFlow-1 | Updated29 days ago | [Link](https://huggingface.co/deepseek-ai/JanusFlow-1.3B) |
 | 4.22k | 97 | inclusionAI/Ming-Lite-OmniAny-to-Any | Updatedabout 3 hours ago | [Link](https://huggingface.co/inclusionAI/Ming-Lite-Omni) |
@@ -64,6 +65,7 @@ Updated on 2025-07-02
 | 2 | 1 | unsloth/Qwen2 | Updatedabout 12 hours ago | [Link](https://huggingface.co/unsloth/Qwen2.5-Omni-7B) |
 | 648 | 1 | Mungert/Qwen2 | Updated2 days ago | [Link](https://huggingface.co/Mungert/Qwen2.5-Omni-3B-GGUF) |
 | 593 | 1 | DFloat11/OmniGen2-transformer-DF11Any-to-Any | Updated3 days ago | [Link](https://huggingface.co/DFloat11/OmniGen2-transformer-DF11) |
+| Updatedabout 7 hours ago | 1 | ByteDance-Seed/Tar-7BAny-to-Any | 9B | [Link](https://huggingface.co/ByteDance-Seed/Tar-7B) |
 | 2 | Unknown | guanwenhao/MonoSpeechAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/guanwenhao/MonoSpeech) |
 | 22 | Unknown | Goekdeniz-Guelmez/J | UpdatedOct 29, 2024 | [Link](https://huggingface.co/Goekdeniz-Guelmez/J.O.S.I.E.v4o) |
 | 1 | Unknown | hfcsrd/cryptographyAny-to-Any | UpdatedNov 17, 2024 | [Link](https://huggingface.co/hfcsrd/cryptography) |
@@ -1661,6 +1663,7 @@ Updated on 2025-07-02
 | 7.06k | 180 | meta-llama/Llama-4-Scout-17B-16E-InstructImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct) |
 | 116 | 167 | google/gemma-3-27b-itImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-it) |
 | 38.8k | 163 | stepfun-ai/GOT-OCR-2 | Updated25 days ago | [Link](https://huggingface.co/stepfun-ai/GOT-OCR-2.0-hf) |
+| Updatedabout 3 hours ago | 163 | THUDM/GLM-4 | 10B | [Link](https://huggingface.co/THUDM/GLM-4.1V-9B-Thinking) |
 | 39.1k | 159 | HuggingFaceTB/SmolVLM-256M-InstructImage-Text-to-Text | Updated22 days ago | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-256M-Instruct) |
 | 3.21k | 154 | bytedance-research/UI-TARS-7B-SFTImage-Text-to-Text | UpdatedJan 25 | [Link](https://huggingface.co/bytedance-research/UI-TARS-7B-SFT) |
 | 98.7k | 146 | deepseek-ai/deepseek-vl2-tinyImage-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2-tiny) |
@@ -2110,11 +2113,13 @@ Updated on 2025-07-02
 | 2 | Unknown | orabazes/caricature_kontext_loraImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/orabazes/caricature_kontext_lora) |
 | 8 | Unknown | fal/Youtube-Thumbnails-Kontext-Dev-LoRAImage-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/fal/Youtube-Thumbnails-Kontext-Dev-LoRA) |
 | 2 | Unknown | Calligrapher2025/CalligrapherImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/Calligrapher2025/Calligrapher) |
+| 5 | Unknown | starsfriday/Kontext-Remover-General-LoRAImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/starsfriday/Kontext-Remover-General-LoRA) |
 
 ## Image-to-Text
 
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
+| UpdatedAug 26, 2024 | 467 | LeroyDyer/SpydazWebAI_Image_ProjectorsImage-to-Text | 7B | [Link](https://huggingface.co/LeroyDyer/SpydazWebAI_Image_Projectors) |
 | 7.46k | 213 | xtuner/llava-llama-3-8b-v1_1-ggufImage-to-Text | UpdatedApr 30, 2024 | [Link](https://huggingface.co/xtuner/llava-llama-3-8b-v1_1-gguf) |
 | 170k | 159 | microsoft/kosmos-2-patch14-224Image-to-Text | UpdatedNov 28, 2023 | [Link](https://huggingface.co/microsoft/kosmos-2-patch14-224) |
 | 1.69k | 134 | xtuner/llava-phi-3-mini-ggufImage-to-Text | UpdatedApr 29, 2024 | [Link](https://huggingface.co/xtuner/llava-phi-3-mini-gguf) |
@@ -3722,6 +3727,7 @@ Updated on 2025-07-02
 | 6.18k | 156 | google/medgemma-27b-text-itText | Updated18 minutes ago | [Link](https://huggingface.co/google/medgemma-27b-text-it) |
 | 2.25k | 153 | open-thoughts/OpenThinker-32BText | Updated11 days ago | [Link](https://huggingface.co/open-thoughts/OpenThinker-32B) |
 | 38 | 143 | qihoo360/TinyR1-32B-PreviewText | Updatedabout 17 hours ago | [Link](https://huggingface.co/qihoo360/TinyR1-32B-Preview) |
+| Updated6 days ago | 140 | zerofata/MS3 | 24B | [Link](https://huggingface.co/zerofata/MS3.2-PaintedFantasy-24B) |
 | 324 | 133 | moonshotai/Kimi-Dev-72BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-Dev-72B) |
 | 176 | 109 | nvidia/DeepSeek-R1-FP4Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/nvidia/DeepSeek-R1-FP4) |
 | 3 | 107 | MiniMaxAI/MiniMax-M1-80kText | Updatedabout 10 hours ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M1-80k) |
@@ -4417,6 +4423,7 @@ Updated on 2025-07-02
 | 486 | Unknown | Djrango/Qwen2vl-FluxText-to-Image | UpdatedDec 6, 2024 | [Link](https://huggingface.co/Djrango/Qwen2vl-Flux) |
 | 9 | Unknown | drbaph/GlassPrism-kontext-LoRAText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/drbaph/GlassPrism-kontext-LoRA) |
 | 153k |  | stabilityai/stable-diffusion-3-medium-diffusersText-to-Image | UpdatedJun 19, 2024 | [Link](https://huggingface.co/stabilityai/stable-diffusion-3-medium-diffusers) |
+| 6 | Unknown | bluepen5805/true_pencil-XLText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/bluepen5805/true_pencil-XL) |
 
 ## Text-to-Speech
 
