@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-07-01
+Updated on 2025-07-02
 
 > Generated from the Hugging Face database.
 
@@ -2139,6 +2139,7 @@ Updated on 2025-07-01
 | 4.06k | 22 | noamrot/FuseCap_Image_CaptioningImage-to-Text | UpdatedJan 25, 2024 | [Link](https://huggingface.co/noamrot/FuseCap_Image_Captioning) |
 | 130 | 20 | Mozilla/distilvitImage-to-Text | UpdatedNov 25, 2024 | [Link](https://huggingface.co/Mozilla/distilvit) |
 | 376 | 19 | to-be/donut-base-finetuned-invoicesImage-to-Text | UpdatedMar 3, 2023 | [Link](https://huggingface.co/to-be/donut-base-finetuned-invoices) |
+| UpdatedOct 15, 2024 | 19 | Joctor/qwen2-vl-7b-instruct-ogiriImage-to-Text | 8B | [Link](https://huggingface.co/Joctor/qwen2-vl-7b-instruct-ogiri) |
 | 433 | 17 | kpyu/video-blip-opt-2 | UpdatedMay 17, 2023 | [Link](https://huggingface.co/kpyu/video-blip-opt-2.7b-ego4d) |
 | 207 | 16 | bipin/image-caption-generatorImage-to-Text | UpdatedJul 27, 2024 | [Link](https://huggingface.co/bipin/image-caption-generator) |
 | 225 | 15 | DunnBC22/trocr-base-handwritten-OCR-handwriting_recognition_v2Image-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-base-handwritten-OCR-handwriting_recognition_v2) |
@@ -3724,6 +3725,7 @@ Updated on 2025-07-01
 | 324 | 133 | moonshotai/Kimi-Dev-72BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-Dev-72B) |
 | 176 | 109 | nvidia/DeepSeek-R1-FP4Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/nvidia/DeepSeek-R1-FP4) |
 | 3 | 107 | MiniMaxAI/MiniMax-M1-80kText | Updatedabout 10 hours ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M1-80k) |
+| UpdatedMay 26 | 105k | mistralai/Devstral-Small-2505Text | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2505) |
 | 683 | 104 | Tongyi-Zhiwen/QwenLong-L1-32BText | Updatedabout 5 hours ago | [Link](https://huggingface.co/Tongyi-Zhiwen/QwenLong-L1-32B) |
 | 1.55k | 102 | Tesslate/UIGEN-T2-7B-Q8_0-GGUFText | Updatedabout 10 hours ago | [Link](https://huggingface.co/Tesslate/UIGEN-T2-7B-Q8_0-GGUF) |
 | 1.24k | 101 | nvidia/Nemotron-Research-Reasoning-Qwen-1 | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/Nemotron-Research-Reasoning-Qwen-1.5B) |
@@ -3923,6 +3925,7 @@ Updated on 2025-07-01
 | 1k | 14 | unsloth/DeepSeek-R1-0528Text | Updated2 days ago | [Link](https://huggingface.co/unsloth/DeepSeek-R1-0528) |
 | 57 | 14 | katanemo/Arch-Agent-32BText | Updated3 days ago | [Link](https://huggingface.co/katanemo/Arch-Agent-32B) |
 | 578k | 6.11k | meta-llama/Meta-Llama-3-8BText | UpdatedSep 27, 2024 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) |
+| Updatedabout 18 hours ago | 6 | apple/sage-ft-mixtral-8x7bText | 47B | [Link](https://huggingface.co/apple/sage-ft-mixtral-8x7b) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
@@ -4413,6 +4416,7 @@ Updated on 2025-07-01
 | 5 | Unknown | ippanorc/animetic_lightText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/ippanorc/animetic_light) |
 | 486 | Unknown | Djrango/Qwen2vl-FluxText-to-Image | UpdatedDec 6, 2024 | [Link](https://huggingface.co/Djrango/Qwen2vl-Flux) |
 | 9 | Unknown | drbaph/GlassPrism-kontext-LoRAText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/drbaph/GlassPrism-kontext-LoRA) |
+| 153k |  | stabilityai/stable-diffusion-3-medium-diffusersText-to-Image | UpdatedJun 19, 2024 | [Link](https://huggingface.co/stabilityai/stable-diffusion-3-medium-diffusers) |
 
 ## Text-to-Speech
 
@@ -4525,6 +4529,7 @@ Updated on 2025-07-01
 | 57 | 2 | lunarlist/tts-thaiText-to-Speech | UpdatedJul 27, 2023 | [Link](https://huggingface.co/lunarlist/tts-thai) |
 | UpdatedSep 1, 2023 | 1.78k | facebook/mms-tts-turText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-tur) |
 | UpdatedSep 1, 2023 | 1.05k | facebook/mms-tts-porText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-por) |
+| Updated16 days ago | 1.21k | Mungert/orpheus-3b-0 | 4B | [Link](https://huggingface.co/Mungert/orpheus-3b-0.1-ft-GGUF) |
 | 302 | Unknown | lj1995/GPT-SoVITSText-to-Speech | Updated14 days ago | [Link](https://huggingface.co/lj1995/GPT-SoVITS) |
 | 436 | Unknown | myshell-ai/OpenVoiceText-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoice) |
 | 365 | Unknown | myshell-ai/OpenVoiceV2Text-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoiceV2) |

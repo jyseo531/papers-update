@@ -18,7 +18,7 @@
 |**2025-06-30**|**IMPACT: Inflectional Morphology Probes Across Complex Typologies**|Mohammed J. Saeed et.al.|[2506.23929v1](http://arxiv.org/abs/2506.23929v1)|**2025-06-30**|null|
 |**2025-06-30**|**Rothman diagrams: the geometry of association measure modification and collapsibility**|Eben Kenah et.al.|[2506.23927v1](http://arxiv.org/abs/2506.23927v1)|**2025-06-30**|null|
 |**2025-06-30**|**Exploring the Wolf Approach to Constraining NIR Extinction Laws in the Corona Australis Molecular Cloud**|Botao Jiang et.al.|[2506.23915v1](http://arxiv.org/abs/2506.23915v1)|**2025-06-30**|null|
-|**2025-06-30**|**Classification of Toda-type tt*-structures and $\mathbb{Z}_{n+1}$-fixed points**|Tadashi Udagawa et.al.|[2506.23886v1](http://arxiv.org/abs/2506.23886v1)|**2025-06-30**|null|
+|**2025-06-30**|**Classification of Toda-type tt*-structures and $\mathbb{Z}_{n+1}$-fixed points**|Tadashi Udagawa et.al.|[2506.23886v2](http://arxiv.org/abs/2506.23886v2)|**2025-07-01**|null|
 |**2025-06-30**|**Spectropolarimetric synthesis of forbidden lines in MHD models of coronal bright points**|Ernest Alsina Ballester et.al.|[2506.23884v1](http://arxiv.org/abs/2506.23884v1)|**2025-06-30**|null|
 |**2025-06-30**|**Higher path groupoids and the holonomy of formal power series connections**|Matthew Cellot et.al.|[2506.23880v1](http://arxiv.org/abs/2506.23880v1)|**2025-06-30**|null|
 |**2025-06-30**|**Degenerate perturbations of infinite graph-directed iterated function systems**|Haruyoshi Tanaka et.al.|[2506.23877v1](http://arxiv.org/abs/2506.23877v1)|**2025-06-30**|null|

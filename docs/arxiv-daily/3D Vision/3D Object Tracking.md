@@ -18,7 +18,7 @@
 |**2025-06-30**|**Ella: Embodied Social Agents with Lifelong Memory**|Hongxin Zhang et.al.|[2506.24019v1](http://arxiv.org/abs/2506.24019v1)|**2025-06-30**|null|
 |**2025-06-30**|**Minimax and Bayes Optimal Best-arm Identification: Adaptive Experimental Design for Treatment Choice**|Masahiro Kato et.al.|[2506.24007v1](http://arxiv.org/abs/2506.24007v1)|**2025-06-30**|null|
 |**2025-06-30**|**Predictive Risk Analysis and Safe Trajectory Planning for Intelligent and Connected Vehicles**|Zeyu Han et.al.|[2506.23999v1](http://arxiv.org/abs/2506.23999v1)|**2025-06-30**|null|
-|**2025-06-30**|**StreamFlow: Streaming Flow Matching with Block-wise Guided Attention Mask for Speech Token Decoding**|Dake Guo et.al.|[2506.23986v1](http://arxiv.org/abs/2506.23986v1)|**2025-06-30**|null|
+|**2025-06-30**|**StreamFlow: Streaming Flow Matching with Block-wise Guided Attention Mask for Speech Token Decoding**|Dake Guo et.al.|[2506.23986v2](http://arxiv.org/abs/2506.23986v2)|**2025-07-01**|null|
 |**2025-06-30**|**StyleDrive: Towards Driving-Style Aware Benchmarking of End-To-End Autonomous Driving**|Ruiyang Hao et.al.|[2506.23982v1](http://arxiv.org/abs/2506.23982v1)|**2025-06-30**|null|
 |**2025-06-30**|**A Scalable Approach for Safe and Robust Learning via Lipschitz-Constrained Networks**|Zain ul Abdeen et.al.|[2506.23977v1](http://arxiv.org/abs/2506.23977v1)|**2025-06-30**|null|
 |**2025-06-30**|**Visual and Memory Dual Adapter for Multi-Modal Object Tracking**|Boyue Xu et.al.|[2506.23972v1](http://arxiv.org/abs/2506.23972v1)|**2025-06-30**|null|
@@ -27,7 +27,7 @@
 |**2025-06-30**|**Variability-finding in Rubin Data Preview 1 with LSDB**|Konstantin Malanchev et.al.|[2506.23955v1](http://arxiv.org/abs/2506.23955v1)|**2025-06-30**|null|
 |**2025-06-30**|**Predicting Instabilities in Transient Landforms and Interconnected Ecosystems**|Taylor Smith et.al.|[2506.23946v1](http://arxiv.org/abs/2506.23946v1)|**2025-06-30**|null|
 |**2025-06-30**|**Sagittarius A* near-infrared flares polarization as a probe of space-time I: Non-rotating exotic compact objects**|Nicolas Aimar et.al.|[2506.23931v1](http://arxiv.org/abs/2506.23931v1)|**2025-06-30**|null|
-|**2025-06-30**|**Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers**|Zhaochen Su et.al.|[2506.23918v1](http://arxiv.org/abs/2506.23918v1)|**2025-06-30**|null|
+|**2025-06-30**|**Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers**|Zhaochen Su et.al.|[2506.23918v2](http://arxiv.org/abs/2506.23918v2)|**2025-07-01**|null|
 |**2025-06-30**|**Exploring the Wolf Approach to Constraining NIR Extinction Laws in the Corona Australis Molecular Cloud**|Botao Jiang et.al.|[2506.23915v1](http://arxiv.org/abs/2506.23915v1)|**2025-06-30**|null|
 |**2025-06-30**|**Learning robust parameter inference and density reconstruction in flyer plate impact experiments**|Evan Bell et.al.|[2506.23914v1](http://arxiv.org/abs/2506.23914v1)|**2025-06-30**|null|
 |**2025-06-30**|**Beyond Statistical Learning: Exact Learning Is Essential for General Intelligence**|András György et.al.|[2506.23908v1](http://arxiv.org/abs/2506.23908v1)|**2025-06-30**|null|

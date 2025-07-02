@@ -24,11 +24,11 @@
 |**2025-06-30**|**Spatial QUBO: Convolutional Formulation of Large-Scale Binary Optimization with Dense Interactions**|Hiroshi Yamashita et.al.|[2506.24008v1](http://arxiv.org/abs/2506.24008v1)|**2025-06-30**|null|
 |**2025-06-30**|**Fantastic Flips and Where to Find Them: A General Framework for Parameterized Local Search on Partitioning Problem**|Niels Grüttemeier et.al.|[2506.24001v1](http://arxiv.org/abs/2506.24001v1)|**2025-06-30**|null|
 |**2025-06-30**|**Factorization norms and an inverse theorem for MaxCut**|Igor Balla et.al.|[2506.23989v1](http://arxiv.org/abs/2506.23989v1)|**2025-06-30**|null|
-|**2025-06-30**|**StreamFlow: Streaming Flow Matching with Block-wise Guided Attention Mask for Speech Token Decoding**|Dake Guo et.al.|[2506.23986v1](http://arxiv.org/abs/2506.23986v1)|**2025-06-30**|null|
+|**2025-06-30**|**StreamFlow: Streaming Flow Matching with Block-wise Guided Attention Mask for Speech Token Decoding**|Dake Guo et.al.|[2506.23986v2](http://arxiv.org/abs/2506.23986v2)|**2025-07-01**|null|
 |**2025-06-30**|**LLM Agents Are the Antidote to Walled Gardens**|Samuele Marro et.al.|[2506.23978v1](http://arxiv.org/abs/2506.23978v1)|**2025-06-30**|null|
 |**2025-06-30**|**A Scalable Approach for Safe and Robust Learning via Lipschitz-Constrained Networks**|Zain ul Abdeen et.al.|[2506.23977v1](http://arxiv.org/abs/2506.23977v1)|**2025-06-30**|null|
 |**2025-06-30**|**Approximate Itai-Zehavi conjecture for random graphs**|Lawrence Hollom et.al.|[2506.23970v1](http://arxiv.org/abs/2506.23970v1)|**2025-06-30**|null|
 |**2025-06-30**|**Pinching-Antenna Systems with In-Waveguide Attenuation: Performance Analysis and Algorithm Design**|Yanqing Xu et.al.|[2506.23966v1](http://arxiv.org/abs/2506.23966v1)|**2025-06-30**|null|
 |**2025-06-30**|**Learning Constraints Directly from Network Data**|Hongyu Hè et.al.|[2506.23964v1](http://arxiv.org/abs/2506.23964v1)|**2025-06-30**|null|
-|**2025-06-30**|**The Neighbour Sum Problem on Trees**|Sayan Dutta et.al.|[2506.23965v1](http://arxiv.org/abs/2506.23965v1)|**2025-06-30**|null|
+|**2025-06-30**|**The Neighbour Sum Problem on Trees**|Sayan Dutta et.al.|[2506.23965v2](http://arxiv.org/abs/2506.23965v2)|**2025-07-01**|null|
 |**2025-06-30**|**Boundary Value Problems in graph Lipschitz domains in the plane with $A_{\infty}$-measures on the boundary**|Fernando Ballesta-Yagüe et.al.|[2506.23961v1](http://arxiv.org/abs/2506.23961v1)|**2025-06-30**|null|

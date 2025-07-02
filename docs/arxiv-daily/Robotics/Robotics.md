@@ -7,7 +7,7 @@
 |**2025-06-30**|**Predictive Risk Analysis and Safe Trajectory Planning for Intelligent and Connected Vehicles**|Zeyu Han et.al.|[2506.23999v1](http://arxiv.org/abs/2506.23999v1)|**2025-06-30**|null|
 |**2025-06-30**|**STCLocker: Deadlock Avoidance Testing for Autonomous Driving Systems**|Mingfei Cheng et.al.|[2506.23995v1](http://arxiv.org/abs/2506.23995v1)|**2025-06-30**|null|
 |**2025-06-30**|**StyleDrive: Towards Driving-Style Aware Benchmarking of End-To-End Autonomous Driving**|Ruiyang Hao et.al.|[2506.23982v1](http://arxiv.org/abs/2506.23982v1)|**2025-06-30**|null|
-|**2025-06-30**|**Adapt Your Body: Mitigating Proprioception Shifts in Imitation Learning**|Fuhang Kuang et.al.|[2506.23944v1](http://arxiv.org/abs/2506.23944v1)|**2025-06-30**|null|
+|**2025-06-30**|**Adapt Your Body: Mitigating Proprioception Shifts in Imitation Learning**|Fuhang Kuang et.al.|[2506.23944v2](http://arxiv.org/abs/2506.23944v2)|**2025-07-01**|null|
 |**2025-06-30**|**World4Omni: A Zero-Shot Framework from Image Generation World Model to Robotic Manipulation**|Haonan Chen et.al.|[2506.23919v1](http://arxiv.org/abs/2506.23919v1)|**2025-06-30**|null|
 |**2025-06-30**|**RGC-VQA: An Exploration Database for Robotic-Generated Video Quality Assessment**|Jianing Jin et.al.|[2506.23852v1](http://arxiv.org/abs/2506.23852v1)|**2025-06-30**|null|
 |**2025-06-30**|**Advancing Learnable Multi-Agent Pathfinding Solvers with Active Fine-Tuning**|Anton Andreychuk et.al.|[2506.23793v1](http://arxiv.org/abs/2506.23793v1)|**2025-06-30**|null|
@@ -22,7 +22,7 @@
 |**2025-06-30**|**Cybersecurity AI: The Dangerous Gap Between Automation and Autonomy**|Víctor Mayoral-Vilches et.al.|[2506.23592v1](http://arxiv.org/abs/2506.23592v1)|**2025-06-30**|null|
 |**2025-06-30**|**Online Human Action Detection during Escorting**|Siddhartha Mondal et.al.|[2506.23573v1](http://arxiv.org/abs/2506.23573v1)|**2025-06-30**|null|
 |**2025-06-30**|**Lightweight Temporal Transformer Decomposition for Federated Autonomous Driving**|Tuong Do et.al.|[2506.23523v1](http://arxiv.org/abs/2506.23523v1)|**2025-06-30**|null|
-|**2025-06-30**|**ChemActor: Enhancing Automated Extraction of Chemical Synthesis Actions with LLM-Generated Data**|Yu Zhang et.al.|[2506.23520v1](http://arxiv.org/abs/2506.23520v1)|**2025-06-30**|null|
+|**2025-06-30**|**ChemActor: Enhancing Automated Extraction of Chemical Synthesis Actions with LLM-Generated Data**|Yu Zhang et.al.|[2506.23520v2](http://arxiv.org/abs/2506.23520v2)|**2025-07-01**|null|
 |**2025-06-30**|**MGPRL: Distributed Multi-Gaussian Processes for Wi-Fi-based Multi-Robot Relative Localization in Large Indoor Environments**|Sai Krishna Ghanta et.al.|[2506.23514v1](http://arxiv.org/abs/2506.23514v1)|**2025-06-30**|null|
 |**2025-06-30**|**Improve Underwater Object Detection through YOLOv12 Architecture and Physics-informed Augmentation**|Tinh Nguyen et.al.|[2506.23505v1](http://arxiv.org/abs/2506.23505v1)|**2025-06-30**|null|
 |**2025-06-30**|**Towards foundational LiDAR world models with efficient latent flow matching**|Tianran Liu et.al.|[2506.23434v1](http://arxiv.org/abs/2506.23434v1)|**2025-06-30**|null|

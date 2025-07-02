@@ -2,18 +2,18 @@
 ### Semantic Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-30**|**Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives**|Dong Sixun et.al.|[2506.24124v1](http://arxiv.org/abs/2506.24124v1)|**2025-06-30**|null|
+|**2025-06-30**|**Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives**|Sixun Dong et.al.|[2506.24124v2](http://arxiv.org/abs/2506.24124v2)|**2025-07-01**|null|
 |**2025-06-30**|**C3VDv2 -- Colonoscopy 3D video dataset with enhanced realism**|Mayank V. Golhar et.al.|[2506.24074v1](http://arxiv.org/abs/2506.24074v1)|**2025-06-30**|null|
 |**2025-06-30**|**Scout-Dose-TCM: Direct and Prospective Scout-Based Estimation of Personalized Organ Doses from Tube Current Modulated CT Exams**|Maria Jose Medrano et.al.|[2506.24062v1](http://arxiv.org/abs/2506.24062v1)|**2025-06-30**|null|
 |**2025-06-30**|**Foundation Models for Zero-Shot Segmentation of Scientific Images without AI-Ready Data**|Shubhabrata Mukherjee et.al.|[2506.24039v1](http://arxiv.org/abs/2506.24039v1)|**2025-06-30**|null|
 |**2025-06-30**|**Ella: Embodied Social Agents with Lifelong Memory**|Hongxin Zhang et.al.|[2506.24019v1](http://arxiv.org/abs/2506.24019v1)|**2025-06-30**|null|
 |**2025-06-30**|**ShapeKit**|Junqi Liu et.al.|[2506.24003v1](http://arxiv.org/abs/2506.24003v1)|**2025-06-30**|null|
-|**2025-06-30**|**StreamFlow: Streaming Flow Matching with Block-wise Guided Attention Mask for Speech Token Decoding**|Dake Guo et.al.|[2506.23986v1](http://arxiv.org/abs/2506.23986v1)|**2025-06-30**|null|
+|**2025-06-30**|**StreamFlow: Streaming Flow Matching with Block-wise Guided Attention Mask for Speech Token Decoding**|Dake Guo et.al.|[2506.23986v2](http://arxiv.org/abs/2506.23986v2)|**2025-07-01**|null|
 |**2025-06-30**|**StyleDrive: Towards Driving-Style Aware Benchmarking of End-To-End Autonomous Driving**|Ruiyang Hao et.al.|[2506.23982v1](http://arxiv.org/abs/2506.23982v1)|**2025-06-30**|null|
 |**2025-06-30**|**Learning Constraints Directly from Network Data**|Hongyu Hè et.al.|[2506.23964v1](http://arxiv.org/abs/2506.23964v1)|**2025-06-30**|null|
 |**2025-06-30**|**Bridging the Gap with Retrieval-Augmented Generation: Making Prosthetic Device User Manuals Available in Marginalised Languages**|Ikechukwu Ogbonna et.al.|[2506.23958v1](http://arxiv.org/abs/2506.23958v1)|**2025-06-30**|null|
 |**2025-06-30**|**World4Omni: A Zero-Shot Framework from Image Generation World Model to Robotic Manipulation**|Haonan Chen et.al.|[2506.23919v1](http://arxiv.org/abs/2506.23919v1)|**2025-06-30**|null|
-|**2025-06-30**|**Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers**|Zhaochen Su et.al.|[2506.23918v1](http://arxiv.org/abs/2506.23918v1)|**2025-06-30**|null|
+|**2025-06-30**|**Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers**|Zhaochen Su et.al.|[2506.23918v2](http://arxiv.org/abs/2506.23918v2)|**2025-07-01**|null|
 |**2025-06-30**|**Segmented Operations using Matrix Multiplications**|Aleksandros Sobczyk et.al.|[2506.23906v1](http://arxiv.org/abs/2506.23906v1)|**2025-06-30**|null|
 |**2025-06-30**|**GroundingDINO-US-SAM: Text-Prompted Multi-Organ Segmentation in Ultrasound with LoRA-Tuned Vision-Language Models**|Hamza Rasaee et.al.|[2506.23903v1](http://arxiv.org/abs/2506.23903v1)|**2025-06-30**|null|
 |**2025-06-30**|**Garbage In, Reasoning Out? Why Benchmark Scores are Unreliable and What to Do About It**|Seyed Mahed Mousavi et.al.|[2506.23864v1](http://arxiv.org/abs/2506.23864v1)|**2025-06-30**|null|
