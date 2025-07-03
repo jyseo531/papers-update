@@ -2,33 +2,33 @@
 ### Semantic Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-30**|**Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives**|Sixun Dong et.al.|[2506.24124v2](http://arxiv.org/abs/2506.24124v2)|**2025-07-01**|null|
-|**2025-06-30**|**C3VDv2 -- Colonoscopy 3D video dataset with enhanced realism**|Mayank V. Golhar et.al.|[2506.24074v1](http://arxiv.org/abs/2506.24074v1)|**2025-06-30**|null|
-|**2025-06-30**|**Scout-Dose-TCM: Direct and Prospective Scout-Based Estimation of Personalized Organ Doses from Tube Current Modulated CT Exams**|Maria Jose Medrano et.al.|[2506.24062v1](http://arxiv.org/abs/2506.24062v1)|**2025-06-30**|null|
-|**2025-06-30**|**Foundation Models for Zero-Shot Segmentation of Scientific Images without AI-Ready Data**|Shubhabrata Mukherjee et.al.|[2506.24039v1](http://arxiv.org/abs/2506.24039v1)|**2025-06-30**|null|
-|**2025-06-30**|**Ella: Embodied Social Agents with Lifelong Memory**|Hongxin Zhang et.al.|[2506.24019v1](http://arxiv.org/abs/2506.24019v1)|**2025-06-30**|null|
-|**2025-06-30**|**ShapeKit**|Junqi Liu et.al.|[2506.24003v1](http://arxiv.org/abs/2506.24003v1)|**2025-06-30**|null|
-|**2025-06-30**|**StreamFlow: Streaming Flow Matching with Block-wise Guided Attention Mask for Speech Token Decoding**|Dake Guo et.al.|[2506.23986v2](http://arxiv.org/abs/2506.23986v2)|**2025-07-01**|null|
-|**2025-06-30**|**StyleDrive: Towards Driving-Style Aware Benchmarking of End-To-End Autonomous Driving**|Ruiyang Hao et.al.|[2506.23982v1](http://arxiv.org/abs/2506.23982v1)|**2025-06-30**|null|
-|**2025-06-30**|**Learning Constraints Directly from Network Data**|Hongyu Hè et.al.|[2506.23964v1](http://arxiv.org/abs/2506.23964v1)|**2025-06-30**|null|
-|**2025-06-30**|**Bridging the Gap with Retrieval-Augmented Generation: Making Prosthetic Device User Manuals Available in Marginalised Languages**|Ikechukwu Ogbonna et.al.|[2506.23958v1](http://arxiv.org/abs/2506.23958v1)|**2025-06-30**|null|
-|**2025-06-30**|**World4Omni: A Zero-Shot Framework from Image Generation World Model to Robotic Manipulation**|Haonan Chen et.al.|[2506.23919v1](http://arxiv.org/abs/2506.23919v1)|**2025-06-30**|null|
-|**2025-06-30**|**Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers**|Zhaochen Su et.al.|[2506.23918v2](http://arxiv.org/abs/2506.23918v2)|**2025-07-01**|null|
-|**2025-06-30**|**Segmented Operations using Matrix Multiplications**|Aleksandros Sobczyk et.al.|[2506.23906v1](http://arxiv.org/abs/2506.23906v1)|**2025-06-30**|null|
-|**2025-06-30**|**GroundingDINO-US-SAM: Text-Prompted Multi-Organ Segmentation in Ultrasound with LoRA-Tuned Vision-Language Models**|Hamza Rasaee et.al.|[2506.23903v1](http://arxiv.org/abs/2506.23903v1)|**2025-06-30**|null|
-|**2025-06-30**|**Garbage In, Reasoning Out? Why Benchmark Scores are Unreliable and What to Do About It**|Seyed Mahed Mousavi et.al.|[2506.23864v1](http://arxiv.org/abs/2506.23864v1)|**2025-06-30**|null|
-|**2025-06-30**|**Large Language Models for Statistical Inference: Context Augmentation with Applications to the Two-Sample Problem and Regression**|Marc Ratkovic et.al.|[2506.23862v1](http://arxiv.org/abs/2506.23862v1)|**2025-06-30**|null|
-|**2025-06-30**|**EFPI: Elastic Formation and Position Identification in Football (Soccer) using Template Matching and Linear Assignment**|Joris Bekkers et.al.|[2506.23843v1](http://arxiv.org/abs/2506.23843v1)|**2025-06-30**|null|
-|**2025-06-30**|**An ontological lens on attack trees: Toward adequacy and interoperability**|Ítalo Oliveira et.al.|[2506.23841v1](http://arxiv.org/abs/2506.23841v1)|**2025-06-30**|null|
-|**2025-06-30**|**Interpretable Zero-Shot Learning with Locally-Aligned Vision-Language Model**|Shiming Chen et.al.|[2506.23822v1](http://arxiv.org/abs/2506.23822v1)|**2025-06-30**|null|
-|**2025-06-30**|**MadCLIP: Few-shot Medical Anomaly Detection with CLIP**|Mahshid Shiri et.al.|[2506.23810v1](http://arxiv.org/abs/2506.23810v1)|**2025-06-30**|null|
-|**2025-06-30**|**Controllable Reference-Based Real-World Remote Sensing Image Super-Resolution with Generative Diffusion Priors**|Ce Wang et.al.|[2506.23801v1](http://arxiv.org/abs/2506.23801v1)|**2025-06-30**|null|
-|**2025-06-30**|**Querying Attack-Fault-Defense Trees: Property Specification in Smart Grid and Aerospace Case Studies**|Reza Soltani et.al.|[2506.23789v1](http://arxiv.org/abs/2506.23789v1)|**2025-06-30**|null|
-|**2025-06-30**|**Spatio-Temporal Representation Decoupling and Enhancement for Federated Instrument Segmentation in Surgical Videos**|Zheng Fang et.al.|[2506.23759v1](http://arxiv.org/abs/2506.23759v1)|**2025-06-30**|null|
-|**2025-06-30**|**Can We Challenge Open-Vocabulary Object Detectors with Generated Content in Street Scenes?**|Annika Mütze et.al.|[2506.23751v1](http://arxiv.org/abs/2506.23751v1)|**2025-06-30**|null|
-|**2025-06-30**|**A Survey of LLM-based Automated Program Repair: Taxonomies, Design Paradigms, and Applications**|Boyang Yang et.al.|[2506.23749v1](http://arxiv.org/abs/2506.23749v1)|**2025-06-30**|null|
-|**2025-06-30**|**AutoEvoEval: An Automated Framework for Evolving Close-Ended LLM Evaluation Data**|JiaRu Wu et.al.|[2506.23735v1](http://arxiv.org/abs/2506.23735v1)|**2025-06-30**|null|
-|**2025-06-30**|**Deep Learning-Based Semantic Segmentation for Real-Time Kidney Imaging and Measurements with Augmented Reality-Assisted Ultrasound**|Gijs Luijten et.al.|[2506.23721v1](http://arxiv.org/abs/2506.23721v1)|**2025-06-30**|null|
-|**2025-06-30**|**Towards an Automated Multimodal Approach for Video Summarization: Building a Bridge Between Text, Audio and Facial Cue-Based Summarization**|Md Moinul Islam et.al.|[2506.23714v1](http://arxiv.org/abs/2506.23714v1)|**2025-06-30**|null|
-|**2025-06-30**|**Subjective Camera: Bridging Human Cognition and Visual Reconstruction through Sequence-Aware Sketch-Guided Diffusion**|Haoyang Chen et.al.|[2506.23711v1](http://arxiv.org/abs/2506.23711v1)|**2025-06-30**|null|
-|**2025-06-30**|**Single Image Test-Time Adaptation via Multi-View Co-Training**|Smriti Joshi et.al.|[2506.23705v1](http://arxiv.org/abs/2506.23705v1)|**2025-06-30**|null|
+|**2025-07-02**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961v1](http://arxiv.org/abs/2507.01961v1)|**2025-07-02**|null|
+|**2025-07-02**|**How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation Models on Standard Computer Vision Tasks**|Rahul Ramachandran et.al.|[2507.01955v1](http://arxiv.org/abs/2507.01955v1)|**2025-07-02**|null|
+|**2025-07-02**|**FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model**|Yukang Cao et.al.|[2507.01953v1](http://arxiv.org/abs/2507.01953v1)|**2025-07-02**|null|
+|**2025-07-02**|**LongAnimation: Long Animation Generation with Dynamic Global-Local Memory**|Nan Chen et.al.|[2507.01945v1](http://arxiv.org/abs/2507.01945v1)|**2025-07-02**|null|
+|**2025-07-02**|**Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations**|Wenhao Wang et.al.|[2507.01930v1](http://arxiv.org/abs/2507.01930v1)|**2025-07-02**|null|
+|**2025-07-02**|**3D Reconstruction and Information Fusion between Dormant and Canopy Seasons in Commercial Orchards Using Deep Learning and Fast GICP**|Ranjan Sapkota et.al.|[2507.01912v1](http://arxiv.org/abs/2507.01912v1)|**2025-07-02**|null|
+|**2025-07-02**|**Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning**|Qingdong He et.al.|[2507.01908v1](http://arxiv.org/abs/2507.01908v1)|**2025-07-02**|null|
+|**2025-07-02**|**An in-silico lung phantom to assess the performance of pulmonary artery segmentation using angiogram**|Sunder Neelakantan et.al.|[2507.01867v1](http://arxiv.org/abs/2507.01867v1)|**2025-07-02**|null|
+|**2025-07-02**|**Refining Gelfond Rationality Principle Towards More Comprehensive Foundational Principles for Answer Set Semantics**|Yi-Dong Shen et.al.|[2507.01833v1](http://arxiv.org/abs/2507.01833v1)|**2025-07-02**|null|
+|**2025-07-02**|**Autoadaptive Medical Segment Anything Model**|Tyler Ward et.al.|[2507.01828v1](http://arxiv.org/abs/2507.01828v1)|**2025-07-02**|null|
+|**2025-07-02**|**Boosting Adversarial Transferability Against Defenses via Multi-Scale Transformation**|Zihong Guo et.al.|[2507.01791v1](http://arxiv.org/abs/2507.01791v1)|**2025-07-02**|null|
+|**2025-07-02**|**Are Vision Transformer Representations Semantically Meaningful? A Case Study in Medical Imaging**|Montasir Shams et.al.|[2507.01788v1](http://arxiv.org/abs/2507.01788v1)|**2025-07-02**|null|
+|**2025-07-02**|**A Deterministic Partition Tree and Applications**|Haitao Wang et.al.|[2507.01775v1](http://arxiv.org/abs/2507.01775v1)|**2025-07-02**|null|
+|**2025-07-02**|**Calibrated Self-supervised Vision Transformers Improve Intracranial Arterial Calcification Segmentation from Clinical CT Head Scans**|Benjamin Jin et.al.|[2507.01744v1](http://arxiv.org/abs/2507.01744v1)|**2025-07-02**|null|
+|**2025-07-02**|**DeRIS: Decoupling Perception and Cognition for Enhanced Referring Image Segmentation through Loopback Synergy**|Ming Dai et.al.|[2507.01738v1](http://arxiv.org/abs/2507.01738v1)|**2025-07-02**|null|
+|**2025-07-02**|**Soft Self-labeling and Potts Relaxations for Weakly-Supervised Segmentation**|Zhongwen Zhang et.al.|[2507.01721v1](http://arxiv.org/abs/2507.01721v1)|**2025-07-02**|null|
+|**2025-07-02**|**Facial Emotion Learning with Text-Guided Multiview Fusion via Vision-Language Model for 3D/4D Facial Expression Recognition**|Muzammil Behzad et.al.|[2507.01673v1](http://arxiv.org/abs/2507.01673v1)|**2025-07-02**|null|
+|**2025-07-02**|**SAILViT: Towards Robust and Generalizable Visual Backbones for MLLMs via Gradual Feature Refinement**|Weijie Yin et.al.|[2507.01643v1](http://arxiv.org/abs/2507.01643v1)|**2025-07-02**|null|
+|**2025-07-02**|**Depth Anything at Any Condition**|Boyuan Sun et.al.|[2507.01634v1](http://arxiv.org/abs/2507.01634v1)|**2025-07-02**|null|
+|**2025-07-02**|**Tile and Slide : A New Framework for Scaling NeRF from Local to Global 3D Earth Observation**|Camille Billouard et.al.|[2507.01631v1](http://arxiv.org/abs/2507.01631v1)|**2025-07-02**|null|
+|**2025-07-02**|**Prompt Guidance and Human Proximal Perception for HOT Prediction with Regional Joint Loss**|Yuxiao Wang et.al.|[2507.01630v1](http://arxiv.org/abs/2507.01630v1)|**2025-07-02**|null|
+|**2025-07-02**|**Perception-Oriented Latent Coding for High-Performance Compressed Domain Semantic Inference**|Xu Zhang et.al.|[2507.01608v1](http://arxiv.org/abs/2507.01608v1)|**2025-07-02**|null|
+|**2025-07-02**|**Data Agent: A Holistic Architecture for Orchestrating Data+AI Ecosystems**|Zhaoyan Sun et.al.|[2507.01599v1](http://arxiv.org/abs/2507.01599v1)|**2025-07-02**|null|
+|**2025-07-02**|**Vision-Aided ISAC in Low-Altitude Economy Networks via De-Diffused Visual Priors**|Yulan Gao et.al.|[2507.01574v1](http://arxiv.org/abs/2507.01574v1)|**2025-07-02**|null|
+|**2025-07-02**|**A Gift from the Integration of Discriminative and Diffusion-based Generative Learning: Boundary Refinement Remote Sensing Semantic Segmentation**|Hao Wang et.al.|[2507.01573v1](http://arxiv.org/abs/2507.01573v1)|**2025-07-02**|null|
+|**2025-07-02**|**Real-Time Emergency Vehicle Siren Detection with Efficient CNNs on Embedded Hardware**|Marco Giordano et.al.|[2507.01563v1](http://arxiv.org/abs/2507.01563v1)|**2025-07-02**|null|
+|**2025-07-02**|**Mamba Guided Boundary Prior Matters: A New Perspective for Generalized Polyp Segmentation**|Tapas K. Dutta et.al.|[2507.01509v1](http://arxiv.org/abs/2507.01509v1)|**2025-07-02**|null|
+|**2025-07-02**|**Following the Clues: Experiments on Person Re-ID using Cross-Modal Intelligence**|Robert Aufschläger et.al.|[2507.01504v1](http://arxiv.org/abs/2507.01504v1)|**2025-07-02**|null|
+|**2025-07-02**|**Integrating Traditional and Deep Learning Methods to Detect Tree Crowns in Satellite Images**|Ozan Durgut et.al.|[2507.01502v1](http://arxiv.org/abs/2507.01502v1)|**2025-07-02**|null|
+|**2025-07-02**|**Representation Entanglement for Generation:Training Diffusion Transformers Is Much Easier Than You Think**|Ge Wu et.al.|[2507.01467v1](http://arxiv.org/abs/2507.01467v1)|**2025-07-02**|null|

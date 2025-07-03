@@ -2,33 +2,33 @@
 ### Robotics
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-06-30**|**Exploring Accelerated Skill Acquisition via Tandem Training for Colonoscopy**|Olivia Richards et.al.|[2506.24046v1](http://arxiv.org/abs/2506.24046v1)|**2025-06-30**|null|
-|**2025-06-30**|**A Survey on Vision-Language-Action Models for Autonomous Driving**|Sicong Jiang et.al.|[2506.24044v1](http://arxiv.org/abs/2506.24044v1)|**2025-06-30**|null|
-|**2025-06-30**|**Predictive Risk Analysis and Safe Trajectory Planning for Intelligent and Connected Vehicles**|Zeyu Han et.al.|[2506.23999v1](http://arxiv.org/abs/2506.23999v1)|**2025-06-30**|null|
-|**2025-06-30**|**STCLocker: Deadlock Avoidance Testing for Autonomous Driving Systems**|Mingfei Cheng et.al.|[2506.23995v1](http://arxiv.org/abs/2506.23995v1)|**2025-06-30**|null|
-|**2025-06-30**|**StyleDrive: Towards Driving-Style Aware Benchmarking of End-To-End Autonomous Driving**|Ruiyang Hao et.al.|[2506.23982v1](http://arxiv.org/abs/2506.23982v1)|**2025-06-30**|null|
-|**2025-06-30**|**Adapt Your Body: Mitigating Proprioception Shifts in Imitation Learning**|Fuhang Kuang et.al.|[2506.23944v2](http://arxiv.org/abs/2506.23944v2)|**2025-07-01**|null|
-|**2025-06-30**|**World4Omni: A Zero-Shot Framework from Image Generation World Model to Robotic Manipulation**|Haonan Chen et.al.|[2506.23919v1](http://arxiv.org/abs/2506.23919v1)|**2025-06-30**|null|
-|**2025-06-30**|**RGC-VQA: An Exploration Database for Robotic-Generated Video Quality Assessment**|Jianing Jin et.al.|[2506.23852v1](http://arxiv.org/abs/2506.23852v1)|**2025-06-30**|null|
-|**2025-06-30**|**Advancing Learnable Multi-Agent Pathfinding Solvers with Active Fine-Tuning**|Anton Andreychuk et.al.|[2506.23793v1](http://arxiv.org/abs/2506.23793v1)|**2025-06-30**|null|
-|**2025-06-30**|**Data-Driven Predictive Planning and Control for Aerial 3D Inspection with Back-face Elimination**|Savvas Papaioannou et.al.|[2506.23781v1](http://arxiv.org/abs/2506.23781v1)|**2025-06-30**|null|
-|**2025-06-30**|**Multi-Timescale Hierarchical Reinforcement Learning for Unified Behavior and Control of Autonomous Driving**|Guizhe Jin et.al.|[2506.23771v1](http://arxiv.org/abs/2506.23771v1)|**2025-06-30**|null|
-|**2025-06-30**|**Motion Tracking with Muscles: Predictive Control of a Parametric Musculoskeletal Canine Model**|Vittorio La Barbera et.al.|[2506.23768v1](http://arxiv.org/abs/2506.23768v1)|**2025-06-30**|null|
-|**2025-06-30**|**Validation of AI-Based 3D Human Pose Estimation in a Cyber-Physical Environment**|Lisa Marie Otto et.al.|[2506.23739v1](http://arxiv.org/abs/2506.23739v1)|**2025-06-30**|null|
-|**2025-06-30**|**PAC Bench: Do Foundation Models Understand Prerequisites for Executing Manipulation Policies?**|Atharva Gundawar et.al.|[2506.23725v1](http://arxiv.org/abs/2506.23725v1)|**2025-06-30**|null|
-|**2025-06-30**|**A comprehensive control architecture for semi-autonomous dual-arm robots in agriculture settings**|Jozsef Palmieri et.al.|[2506.23723v1](http://arxiv.org/abs/2506.23723v1)|**2025-06-30**|null|
-|**2025-06-30**|**Towards Universal Shared Control in Teleoperation Without Haptic Feedback**|Max Grobbel et.al.|[2506.23624v1](http://arxiv.org/abs/2506.23624v1)|**2025-06-30**|null|
-|**2025-06-30**|**Passage-traversing optimal path planning with sampling-based algorithms**|Jing Huang et.al.|[2506.23614v1](http://arxiv.org/abs/2506.23614v1)|**2025-06-30**|null|
-|**2025-06-30**|**Cybersecurity AI: The Dangerous Gap Between Automation and Autonomy**|Víctor Mayoral-Vilches et.al.|[2506.23592v1](http://arxiv.org/abs/2506.23592v1)|**2025-06-30**|null|
-|**2025-06-30**|**Online Human Action Detection during Escorting**|Siddhartha Mondal et.al.|[2506.23573v1](http://arxiv.org/abs/2506.23573v1)|**2025-06-30**|null|
-|**2025-06-30**|**Lightweight Temporal Transformer Decomposition for Federated Autonomous Driving**|Tuong Do et.al.|[2506.23523v1](http://arxiv.org/abs/2506.23523v1)|**2025-06-30**|null|
-|**2025-06-30**|**ChemActor: Enhancing Automated Extraction of Chemical Synthesis Actions with LLM-Generated Data**|Yu Zhang et.al.|[2506.23520v2](http://arxiv.org/abs/2506.23520v2)|**2025-07-01**|null|
-|**2025-06-30**|**MGPRL: Distributed Multi-Gaussian Processes for Wi-Fi-based Multi-Robot Relative Localization in Large Indoor Environments**|Sai Krishna Ghanta et.al.|[2506.23514v1](http://arxiv.org/abs/2506.23514v1)|**2025-06-30**|null|
-|**2025-06-30**|**Improve Underwater Object Detection through YOLOv12 Architecture and Physics-informed Augmentation**|Tinh Nguyen et.al.|[2506.23505v1](http://arxiv.org/abs/2506.23505v1)|**2025-06-30**|null|
-|**2025-06-30**|**Towards foundational LiDAR world models with efficient latent flow matching**|Tianran Liu et.al.|[2506.23434v1](http://arxiv.org/abs/2506.23434v1)|**2025-06-30**|null|
-|**2025-06-30**|**Risk-Based Filtering of Valuable Driving Situations in the Waymo Open Motion Dataset**|Tim Puphal et.al.|[2506.23433v1](http://arxiv.org/abs/2506.23433v1)|**2025-06-30**|null|
-|**2025-06-29**|**Data-Driven Multiscale Topology Optimization of Soft Functionally Graded Materials with Large Deformations**|Shiguang Deng et.al.|[2506.23422v1](http://arxiv.org/abs/2506.23422v1)|**2025-06-29**|null|
-|**2025-06-29**|**A Model Predictive Control Framework to Enhance Safety and Quality in Mobile Additive Manufacturing Systems**|Yifei Li et.al.|[2506.23400v1](http://arxiv.org/abs/2506.23400v1)|**2025-06-29**|null|
-|**2025-06-29**|**GS-NBV: a Geometry-based, Semantics-aware Viewpoint Planning Algorithm for Avocado Harvesting under Occlusions**|Xiao'ao Song et.al.|[2506.23369v1](http://arxiv.org/abs/2506.23369v1)|**2025-06-29**|null|
-|**2025-06-29**|**Benchmarking Generalizable Bimanual Manipulation: RoboTwin Dual-Arm Collaboration Challenge at CVPR 2025 MEIS Workshop**|Tianxing Chen et.al.|[2506.23351v1](http://arxiv.org/abs/2506.23351v1)|**2025-06-29**|null|
-|**2025-06-29**|**Safe and Performant Deployment of Autonomous Systems via Model Predictive Control and Hamilton-Jacobi Reachability Analysis**|Hao Wang et.al.|[2506.23346v1](http://arxiv.org/abs/2506.23346v1)|**2025-06-29**|null|
+|**2025-07-02**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961v1](http://arxiv.org/abs/2507.01961v1)|**2025-07-02**|null|
+|**2025-07-02**|**Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations**|Wenhao Wang et.al.|[2507.01930v1](http://arxiv.org/abs/2507.01930v1)|**2025-07-02**|null|
+|**2025-07-02**|**A Survey on Vision-Language-Action Models: An Action Tokenization Perspective**|Yifan Zhong et.al.|[2507.01925v1](http://arxiv.org/abs/2507.01925v1)|**2025-07-02**|null|
+|**2025-07-02**|**3D Reconstruction and Information Fusion between Dormant and Canopy Seasons in Commercial Orchards Using Deep Learning and Fast GICP**|Ranjan Sapkota et.al.|[2507.01912v1](http://arxiv.org/abs/2507.01912v1)|**2025-07-02**|null|
+|**2025-07-02**|**TypeTele: Releasing Dexterity in Teleoperation by Dexterous Manipulation Types**|Yuhao Lin et.al.|[2507.01857v1](http://arxiv.org/abs/2507.01857v1)|**2025-07-02**|null|
+|**2025-07-02**|**MoIRA: Modular Instruction Routing Architecture for Multi-Task Robotics**|Dmytro Kuzmenko et.al.|[2507.01843v1](http://arxiv.org/abs/2507.01843v1)|**2025-07-02**|null|
+|**2025-07-02**|**TD-MPC-Opt: Distilling Model-Based Multi-Task Reinforcement Learning Agents**|Dmytro Kuzmenko et.al.|[2507.01823v1](http://arxiv.org/abs/2507.01823v1)|**2025-07-02**|null|
+|**2025-07-02**|**Towards Design and Development of a Concentric Tube Steerable Drilling Robot for Creating S-shape Tunnels for Pelvic Fixation Procedures**|Yash Kulkarni et.al.|[2507.01811v1](http://arxiv.org/abs/2507.01811v1)|**2025-07-02**|null|
+|**2025-07-02**|**S3D: A Spatial Steerable Surgical Drilling Framework for Robotic Spinal Fixation Procedures**|Daniyal Maroufi et.al.|[2507.01779v1](http://arxiv.org/abs/2507.01779v1)|**2025-07-02**|null|
+|**2025-07-02**|**Augmented Bridge Spinal Fixation: A New Concept for Addressing Pedicle Screw Pullout via a Steerable Drilling Robot and Flexible Pedicle Screws**|Yash Kulkarni et.al.|[2507.01753v1](http://arxiv.org/abs/2507.01753v1)|**2025-07-02**|null|
+|**2025-07-02**|**SE(3)-Equivariant Diffusion Policy in Spherical Fourier Space**|Xupeng Zhu et.al.|[2507.01723v1](http://arxiv.org/abs/2507.01723v1)|**2025-07-02**|null|
+|**2025-07-02**|**Efficient Collision Detection for Long and Slender Robotic Links in Euclidean Distance Fields: Application to a Forestry Crane**|Marc-Philip Ecker et.al.|[2507.01705v1](http://arxiv.org/abs/2507.01705v1)|**2025-07-02**|null|
+|**2025-07-02**|**An RRT* algorithm based on Riemannian metric model for optimal path planning**|Yu Zhang et.al.|[2507.01697v1](http://arxiv.org/abs/2507.01697v1)|**2025-07-02**|null|
+|**2025-07-02**|**PERTINENCE: Input-based Opportunistic Neural Network Dynamic Execution**|Omkar Shende et.al.|[2507.01695v1](http://arxiv.org/abs/2507.01695v1)|**2025-07-02**|null|
+|**2025-07-02**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667v1](http://arxiv.org/abs/2507.01667v1)|**2025-07-02**|null|
+|**2025-07-02**|**Time-Varying Coverage Control: A Distributed Tracker-Planner MPC Framework**|Patrick Benito Eberhard et.al.|[2507.01567v1](http://arxiv.org/abs/2507.01567v1)|**2025-07-02**|null|
+|**2025-07-02**|**Self-Closing Suction Grippers for Industrial Grasping via Form-Flexible Design**|Huijiang Wang et.al.|[2507.01561v1](http://arxiv.org/abs/2507.01561v1)|**2025-07-02**|null|
+|**2025-07-02**|**Dynamic System Model Generation for Online Fault Detection and Diagnosis of Robotic Systems**|Johannes Kohl et.al.|[2507.01550v1](http://arxiv.org/abs/2507.01550v1)|**2025-07-02**|null|
+|**2025-07-02**|**BioMARS: A Multi-Agent Robotic System for Autonomous Biological Experiments**|Yibo Qiu et.al.|[2507.01485v1](http://arxiv.org/abs/2507.01485v1)|**2025-07-02**|null|
+|**2025-07-02**|**Quantum-Assisted Automatic Path-Planning for Robotic Quality Inspection in Industry 4.0**|Eneko Osaba et.al.|[2507.01462v1](http://arxiv.org/abs/2507.01462v1)|**2025-07-02**|null|
+|**2025-07-02**|**Robust Input Shaping Control for Flexible Structures Based on Unscented Kalman Filter**|Weiyi Yang et.al.|[2507.01460v1](http://arxiv.org/abs/2507.01460v1)|**2025-07-02**|null|
+|**2025-07-02**|**Approximation-free Control of Unknown Euler-Lagrangian Systems under Input Constraints**|Ratnangshu Das et.al.|[2507.01426v1](http://arxiv.org/abs/2507.01426v1)|**2025-07-02**|null|
+|**2025-07-02**|**TriVLA: A Unified Triple-System-Based Unified Vision-Language-Action Model for General Robot Control**|Zhenyang Liu et.al.|[2507.01424v1](http://arxiv.org/abs/2507.01424v1)|**2025-07-02**|null|
+|**2025-07-02**|**RALLY: Role-Adaptive LLM-Driven Yoked Navigation for Agentic UAV Swarms**|Ziyao Wang et.al.|[2507.01378v1](http://arxiv.org/abs/2507.01378v1)|**2025-07-02**|null|
+|**2025-07-02**|**Cooperative Target Capture in 3D Engagements over Switched Dynamic Graphs**|Abhinav Sinha et.al.|[2507.01350v1](http://arxiv.org/abs/2507.01350v1)|**2025-07-02**|null|
+|**2025-07-02**|**LANet: A Lane Boundaries-Aware Approach For Robust Trajectory Prediction**|Muhammad Atta ur Rahman et.al.|[2507.01308v1](http://arxiv.org/abs/2507.01308v1)|**2025-07-02**|null|
+|**2025-07-02**|**Optimal Dispersion Under Asynchrony**|Debasish Pattanayak et.al.|[2507.01298v1](http://arxiv.org/abs/2507.01298v1)|**2025-07-02**|null|
+|**2025-07-02**|**VLAD: A VLM-Augmented Autonomous Driving Framework with Hierarchical Planning and Interpretable Decision Process**|Cristian Gariboldi et.al.|[2507.01284v1](http://arxiv.org/abs/2507.01284v1)|**2025-07-02**|null|
+|**2025-07-02**|**LLM-based Realistic Safety-Critical Driving Video Generation**|Yongjie Fu et.al.|[2507.01264v1](http://arxiv.org/abs/2507.01264v1)|**2025-07-02**|null|
+|**2025-07-01**|**Jump-Start Reinforcement Learning with Self-Evolving Priors for Extreme Monopedal Locomotion**|Ziang Zheng et.al.|[2507.01243v1](http://arxiv.org/abs/2507.01243v1)|**2025-07-01**|null|

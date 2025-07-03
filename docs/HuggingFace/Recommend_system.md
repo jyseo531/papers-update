@@ -3914,6 +3914,7 @@ Updated on 2025-07-03
 | 52 | 17 | OpenBuddy/OpenBuddy-R1-0528-Distill-Qwen3-32B-Preview0-QATText | Updatedabout 20 hours ago | [Link](https://huggingface.co/OpenBuddy/OpenBuddy-R1-0528-Distill-Qwen3-32B-Preview0-QAT) |
 | 33 | 17 | katanemo/Arch-Agent-7BText | Updated2 days ago | [Link](https://huggingface.co/katanemo/Arch-Agent-7B) |
 | Updated23 minutes ago | 17 | tencent/Hunyuan-A13B-Instruct-GPTQ-Int4Text | 12B | [Link](https://huggingface.co/tencent/Hunyuan-A13B-Instruct-GPTQ-Int4) |
+| Updatedabout 6 hours ago | 17 | tngtech/DeepSeek-TNG-R1T2-ChimeraText | 685B | [Link](https://huggingface.co/tngtech/DeepSeek-TNG-R1T2-Chimera) |
 | 938 | 16 | ubergarm/DeepSeek-V3-0324-GGUFText | Updated3 days ago | [Link](https://huggingface.co/ubergarm/DeepSeek-V3-0324-GGUF) |
 | 2.09k | 16 | google/gemma-3-1b-it-qat-q4_0-ggufText | Updated3 days ago | [Link](https://huggingface.co/google/gemma-3-1b-it-qat-q4_0-gguf) |
 | 2.94k | 16 | nvidia/AceMath-RL-Nemotron-7BText | Updated4 days ago | [Link](https://huggingface.co/nvidia/AceMath-RL-Nemotron-7B) |
@@ -4444,6 +4445,7 @@ Updated on 2025-07-03
 | 8.56k | 455 | HKUSTAudio/Llasa-3BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-3B) |
 | 199 | 451 | CAMB-AI/MARS5-TTSText-to-Speech | UpdatedJul 5, 2024 | [Link](https://huggingface.co/CAMB-AI/MARS5-TTS) |
 | 5.64k | 352 | parler-tts/parler_tts_mini_v0 | UpdatedApr 30, 2024 | [Link](https://huggingface.co/parler-tts/parler_tts_mini_v0.1) |
+| UpdatedMay 25, 2024 | 323 | utrobinmv/tts_ru_free_hf_vits_high_multispeakerText-to-Speech | 0.0B | [Link](https://huggingface.co/utrobinmv/tts_ru_free_hf_vits_high_multispeaker) |
 | 171 | 276 | amphion/MaskGCTText-to-Speech | UpdatedDec 22, 2024 | [Link](https://huggingface.co/amphion/MaskGCT) |
 | 1.5k | 272 | facebook/fastspeech2-en-ljspeechText-to-Speech | UpdatedJan 28, 2022 | [Link](https://huggingface.co/facebook/fastspeech2-en-ljspeech) |
 | 116k | 255 | myshell-ai/MeloTTS-EnglishText-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/MeloTTS-English) |
@@ -4496,6 +4498,7 @@ Updated on 2025-07-03
 | 9 | 7 | canopylabs/3b-zh-pretrain-research_releaseText-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/canopylabs/3b-zh-pretrain-research_release) |
 | 618 | 7 | canopylabs/3b-de-pretrain-research_releaseText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/canopylabs/3b-de-pretrain-research_release) |
 | 27 | 7 | canopylabs/3b-hi-ft-research_releaseText-to-Speech | Updatedabout 23 hours ago | [Link](https://huggingface.co/canopylabs/3b-hi-ft-research_release) |
+| 73 | 7 | onnx-community/orpheus-3b-0 | UpdatedMar 26 | [Link](https://huggingface.co/onnx-community/orpheus-3b-0.1-ft-ONNX) |
 | 13 | 6 | ntdgo/ttsviText-to-Speech | UpdatedApr 17, 2024 | [Link](https://huggingface.co/ntdgo/ttsvi) |
 | 29 | 6 | erax-ai/EraX-Smile-UnixSex-F5Text-to-Speech | Updatedabout 8 hours ago | [Link](https://huggingface.co/erax-ai/EraX-Smile-UnixSex-F5) |
 | 29 | 6 | ICTNLP/SLED-TTS-Streaming-LibriheavyText-to-Speech | Updatedabout 18 hours ago | [Link](https://huggingface.co/ICTNLP/SLED-TTS-Streaming-Libriheavy) |

@@ -2,6 +2,13 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-02**|**Advancing Magnetic Materials Discovery -- A structure-based machine learning approach for magnetic ordering and magnetic moment prediction**|Apoorv Verma et.al.|[2507.01913v1](http://arxiv.org/abs/2507.01913v1)|**2025-07-02**|null|
+|**2025-07-01**|**ShapeEmbed: a self-supervised learning framework for 2D contour quantification**|Anna Foix Romero et.al.|[2507.01009v1](http://arxiv.org/abs/2507.01009v1)|**2025-07-01**|null|
+|**2025-07-01**|**Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations**|Shivansh Patel et.al.|[2507.00990v1](http://arxiv.org/abs/2507.00990v1)|**2025-07-01**|null|
+|**2025-07-01**|**Analyzing Time-Varying Scalar Fields using Piecewise-Linear Morse-Cerf Theory**|Amritendu Dhar et.al.|[2507.00725v1](http://arxiv.org/abs/2507.00725v1)|**2025-07-01**|null|
+|**2025-07-01**|**Chaoticus: a parallel approach to the computation of chaos indicators**|Javier Jiménez-López et.al.|[2507.00622v1](http://arxiv.org/abs/2507.00622v1)|**2025-07-01**|null|
+|**2025-07-01**|**Process-aware and high-fidelity microstructure generation using stable diffusion**|Hoang Cuong Phan et.al.|[2507.00459v1](http://arxiv.org/abs/2507.00459v1)|**2025-07-01**|null|
+|**2025-06-30**|**Nine circles of elastic brittle fracture: A series of challenge problems to assess fracture models**|Farhad Kamarei et.al.|[2507.00266v1](http://arxiv.org/abs/2507.00266v1)|**2025-06-30**|null|
 |**2025-06-30**|**HiNeuS: High-fidelity Neural Surface Mitigating Low-texture and Reflective Ambiguity**|Yida Wang et.al.|[2506.23854v1](http://arxiv.org/abs/2506.23854v1)|**2025-06-30**|null|
 |**2025-06-29**|**RoboScape: Physics-informed Embodied World Model**|Yu Shang et.al.|[2506.23135v1](http://arxiv.org/abs/2506.23135v1)|**2025-06-29**|null|
 |**2025-06-29**|**Insights into Ionic Diffusion in C-S-H Gel Pore from MD Simulations: Spatial Distributions, Energy Barriers, and Structural Descriptor**|Weiqiang Chen et.al.|[2506.23089v1](http://arxiv.org/abs/2506.23089v1)|**2025-06-29**|null|
@@ -25,10 +32,3 @@
 |**2025-06-24**|**Learning to assess subjective impressions from speech**|Yuto Kondo et.al.|[2506.19335v1](http://arxiv.org/abs/2506.19335v1)|**2025-06-24**|null|
 |**2025-06-24**|**Scaffolding Dexterous Manipulation with Vision-Language Models**|Vincent de Bakker et.al.|[2506.19212v1](http://arxiv.org/abs/2506.19212v1)|**2025-06-24**|null|
 |**2025-06-23**|**Binsparse: A Specification for Cross-Platform Storage of Sparse Matrices and Tensors**|Benjamin Brock et.al.|[2506.19175v1](http://arxiv.org/abs/2506.19175v1)|**2025-06-23**|null|
-|**2025-06-23**|**Generalized energy band alignment model for van der Waals heterostructures with a charge spillage dipole**|Seungjun Lee et.al.|[2506.18850v1](http://arxiv.org/abs/2506.18850v1)|**2025-06-23**|null|
-|**2025-06-23**|**Offline Goal-Conditioned Reinforcement Learning with Projective Quasimetric Planning**|Anthony Kobanda et.al.|[2506.18847v2](http://arxiv.org/abs/2506.18847v2)|**2025-06-25**|null|
-|**2025-06-23**|**TDACloud: Point Cloud Recognition Using Topological Data Analysis**|Anirban Ghosh et.al.|[2506.18725v1](http://arxiv.org/abs/2506.18725v1)|**2025-06-23**|null|
-|**2025-06-23**|**Including Semantic Information via Word Embeddings for Skeleton-based Action Recognition**|Dustin Aganian et.al.|[2506.18721v1](http://arxiv.org/abs/2506.18721v1)|**2025-06-23**|null|
-|**2025-06-23**|**Sequential keypoint density estimator: an overlooked baseline of skeleton-based video anomaly detection**|Anja Delić et.al.|[2506.18368v2](http://arxiv.org/abs/2506.18368v2)|**2025-07-02**|null|
-|**2025-06-22**|**ADA-DPM: A Neural Descriptors-based Adaptive Noise Point Filtering Strategy for SLAM**|Yongxin Shao et.al.|[2506.18016v1](http://arxiv.org/abs/2506.18016v1)|**2025-06-22**|null|
-|**2025-06-22**|**Fast Neural Inverse Kinematics on Human Body Motions**|David Tolpin et.al.|[2506.17996v1](http://arxiv.org/abs/2506.17996v1)|**2025-06-22**|null|
