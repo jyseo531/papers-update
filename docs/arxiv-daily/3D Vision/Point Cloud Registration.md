@@ -22,7 +22,7 @@
 |**2025-06-30**|**Spectropolarimetric synthesis of forbidden lines in MHD models of coronal bright points**|Ernest Alsina Ballester et.al.|[2506.23884v1](http://arxiv.org/abs/2506.23884v1)|**2025-06-30**|null|
 |**2025-06-30**|**Higher path groupoids and the holonomy of formal power series connections**|Matthew Cellot et.al.|[2506.23880v1](http://arxiv.org/abs/2506.23880v1)|**2025-06-30**|null|
 |**2025-06-30**|**Degenerate perturbations of infinite graph-directed iterated function systems**|Haruyoshi Tanaka et.al.|[2506.23877v1](http://arxiv.org/abs/2506.23877v1)|**2025-06-30**|null|
-|**2025-06-30**|**Exploring Privacy and Security as Drivers for Environmental Sustainability in Cloud-Based Office Solutions**|Jason Kayembe et.al.|[2506.23866v1](http://arxiv.org/abs/2506.23866v1)|**2025-06-30**|null|
+|**2025-06-30**|**Exploring Privacy and Security as Drivers for Environmental Sustainability in Cloud-Based Office Solutions**|Jason Kayembe et.al.|[2506.23866v2](http://arxiv.org/abs/2506.23866v2)|**2025-07-02**|null|
 |**2025-06-30**|**Non-local random deposition models for earthquakes and energy propagation**|Philippe Carmona et.al.|[2506.23853v1](http://arxiv.org/abs/2506.23853v1)|**2025-06-30**|null|
 |**2025-06-30**|**Comparative Studies: Cloud-Enabled Adaptive Learning System for Scalable Education in Sub-Saharan**|Israel Fianyi et.al.|[2506.23851v1](http://arxiv.org/abs/2506.23851v1)|**2025-06-30**|null|
 |**2025-06-30**|**Polynomial stability conditions for vector bundles: Positivity, equivariance and blow-ups**|Rémi Delloque et.al.|[2506.23842v1](http://arxiv.org/abs/2506.23842v1)|**2025-06-30**|null|

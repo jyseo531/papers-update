@@ -29,6 +29,6 @@
 |**2025-06-23**|**Offline Goal-Conditioned Reinforcement Learning with Projective Quasimetric Planning**|Anthony Kobanda et.al.|[2506.18847v2](http://arxiv.org/abs/2506.18847v2)|**2025-06-25**|null|
 |**2025-06-23**|**TDACloud: Point Cloud Recognition Using Topological Data Analysis**|Anirban Ghosh et.al.|[2506.18725v1](http://arxiv.org/abs/2506.18725v1)|**2025-06-23**|null|
 |**2025-06-23**|**Including Semantic Information via Word Embeddings for Skeleton-based Action Recognition**|Dustin Aganian et.al.|[2506.18721v1](http://arxiv.org/abs/2506.18721v1)|**2025-06-23**|null|
-|**2025-06-23**|**Sequential keypoint density estimator: an overlooked baseline of skeleton-based video anomaly detection**|Anja Delić et.al.|[2506.18368v1](http://arxiv.org/abs/2506.18368v1)|**2025-06-23**|null|
+|**2025-06-23**|**Sequential keypoint density estimator: an overlooked baseline of skeleton-based video anomaly detection**|Anja Delić et.al.|[2506.18368v2](http://arxiv.org/abs/2506.18368v2)|**2025-07-02**|null|
 |**2025-06-22**|**ADA-DPM: A Neural Descriptors-based Adaptive Noise Point Filtering Strategy for SLAM**|Yongxin Shao et.al.|[2506.18016v1](http://arxiv.org/abs/2506.18016v1)|**2025-06-22**|null|
 |**2025-06-22**|**Fast Neural Inverse Kinematics on Human Body Motions**|David Tolpin et.al.|[2506.17996v1](http://arxiv.org/abs/2506.17996v1)|**2025-06-22**|null|

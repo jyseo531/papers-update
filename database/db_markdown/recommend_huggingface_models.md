@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-07-02
+Updated on 2025-07-03
 
 > Generated from the Hugging Face database.
 
@@ -52,6 +52,7 @@ Updated on 2025-07-02
 | 5 | 2 | VARGPT-family/VARGPT-v1 | Updated1 day ago | [Link](https://huggingface.co/VARGPT-family/VARGPT-v1.1) |
 | 91 | 2 | EPFL-VILAB/4M-7-SR_L_CC12MAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-7-SR_L_CC12M) |
 | Updated33 minutes ago | 2 | Gen-Verse/MMaDA-8B-PretrainAny-to-Any | 8B | [Link](https://huggingface.co/Gen-Verse/MMaDA-8B-Pretrain) |
+| Updatedabout 20 hours ago | 2 | ByteDance-Seed/Tar-1 | 3B | [Link](https://huggingface.co/ByteDance-Seed/Tar-1.5B) |
 | 170 | 1 | tezuesh/moshi_generalAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/tezuesh/moshi_general) |
 | 35 | 1 | tezuesh/IBLlama_v1Any-to-Any | UpdatedJan 24 | [Link](https://huggingface.co/tezuesh/IBLlama_v1) |
 | 43 | 1 | Athagi/Janus-Pro-7BAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/Athagi/Janus-Pro-7B) |
@@ -66,6 +67,7 @@ Updated on 2025-07-02
 | 648 | 1 | Mungert/Qwen2 | Updated2 days ago | [Link](https://huggingface.co/Mungert/Qwen2.5-Omni-3B-GGUF) |
 | 593 | 1 | DFloat11/OmniGen2-transformer-DF11Any-to-Any | Updated3 days ago | [Link](https://huggingface.co/DFloat11/OmniGen2-transformer-DF11) |
 | Updatedabout 7 hours ago | 1 | ByteDance-Seed/Tar-7BAny-to-Any | 9B | [Link](https://huggingface.co/ByteDance-Seed/Tar-7B) |
+| Updated30 days ago | 1.59k | deepseek-community/Janus-Pro-7BAny-to-Any | 7B | [Link](https://huggingface.co/deepseek-community/Janus-Pro-7B) |
 | 2 | Unknown | guanwenhao/MonoSpeechAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/guanwenhao/MonoSpeech) |
 | 22 | Unknown | Goekdeniz-Guelmez/J | UpdatedOct 29, 2024 | [Link](https://huggingface.co/Goekdeniz-Guelmez/J.O.S.I.E.v4o) |
 | 1 | Unknown | hfcsrd/cryptographyAny-to-Any | UpdatedNov 17, 2024 | [Link](https://huggingface.co/hfcsrd/cryptography) |
@@ -2114,6 +2116,7 @@ Updated on 2025-07-02
 | 8 | Unknown | fal/Youtube-Thumbnails-Kontext-Dev-LoRAImage-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/fal/Youtube-Thumbnails-Kontext-Dev-LoRA) |
 | 2 | Unknown | Calligrapher2025/CalligrapherImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/Calligrapher2025/Calligrapher) |
 | 5 | Unknown | starsfriday/Kontext-Remover-General-LoRAImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/starsfriday/Kontext-Remover-General-LoRA) |
+| 9 | Unknown | ByteDance-Seed/VINCIE-3BImage-to-Image | Updatedabout 18 hours ago | [Link](https://huggingface.co/ByteDance-Seed/VINCIE-3B) |
 
 ## Image-to-Text
 
@@ -3720,6 +3723,7 @@ Updated on 2025-07-02
 |  | 339 | deepseek-ai/DeepSeek-Prover-V2-671BText | Updatedabout 1 hour ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-Prover-V2-671B) |
 |  | 295 | deepseek-ai/DeepSeek-R1-0528-Qwen3-8BText | Updatedabout 13 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B) |
 | 6.51k | 262 | NousResearch/DeepHermes-3-Llama-3-8B-PreviewText | Updated6 days ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview) |
+| Updatedabout 2 hours ago | 255 | agentica-org/DeepSWE-PreviewText | 33B | [Link](https://huggingface.co/agentica-org/DeepSWE-Preview) |
 | 2.13k | 215 | XiaomiMiMo/MiMo-7B-RLText | Updatedabout 12 hours ago | [Link](https://huggingface.co/XiaomiMiMo/MiMo-7B-RL) |
 | 427 | 204 | microsoft/MAI-DS-R1Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/microsoft/MAI-DS-R1) |
 | 11.7k | 196 | smirki/UIGEN-T1-Qwen-7bText | Updated5 days ago | [Link](https://huggingface.co/smirki/UIGEN-T1-Qwen-7b) |
@@ -3736,6 +3740,7 @@ Updated on 2025-07-02
 | 1.55k | 102 | Tesslate/UIGEN-T2-7B-Q8_0-GGUFText | Updatedabout 10 hours ago | [Link](https://huggingface.co/Tesslate/UIGEN-T2-7B-Q8_0-GGUF) |
 | 1.24k | 101 | nvidia/Nemotron-Research-Reasoning-Qwen-1 | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/Nemotron-Research-Reasoning-Qwen-1.5B) |
 | 2 | 95 | Qwen/Qwen3-30B-A3BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B) |
+| Updatedabout 10 hours ago | 92 | HelpingAI/Dhanishtha-2 | 15B | [Link](https://huggingface.co/HelpingAI/Dhanishtha-2.0-preview) |
 | 448 | 91 | starvector/starvector-8b-im2svgText | Updated2 days ago | [Link](https://huggingface.co/starvector/starvector-8b-im2svg) |
 | 695 | 90 | moonshotai/Moonlight-16B-A3B-InstructText | Updated2 days ago | [Link](https://huggingface.co/moonshotai/Moonlight-16B-A3B-Instruct) |
 | 322 | 90 | XiaomiMiMo/MiMo-7B-BaseText | Updatedabout 12 hours ago | [Link](https://huggingface.co/XiaomiMiMo/MiMo-7B-Base) |
@@ -3819,6 +3824,7 @@ Updated on 2025-07-02
 | 488 | 29 | ByteDance-Seed/Seed-Coder-8B-BaseText | Updatedabout 3 hours ago | [Link](https://huggingface.co/ByteDance-Seed/Seed-Coder-8B-Base) |
 | 12 | 29 | PKU-DS-LAB/FairyR1-32BText | Updatedabout 12 hours ago | [Link](https://huggingface.co/PKU-DS-LAB/FairyR1-32B) |
 | 3.29k | 29 | Menlo/Jan-nanoText | Updatedabout 9 hours ago | [Link](https://huggingface.co/Menlo/Jan-nano) |
+| Updatedabout 3 hours ago | 29 | skt/A | 72B | [Link](https://huggingface.co/skt/A.X-4.0) |
 | 426 | 28 | LGAI-EXAONE/EXAONE-Deep-32B-GGUFText | Updatedabout 13 hours ago | [Link](https://huggingface.co/LGAI-EXAONE/EXAONE-Deep-32B-GGUF) |
 | 319 | 28 | nvidia/Llama-3 | Updated3 days ago | [Link](https://huggingface.co/nvidia/Llama-3.1-Nemotron-Nano-8B-v1) |
 | 7.28k | 28 | bartowski/Qwen_Qwen3-32B-GGUFText | Updated1 day ago | [Link](https://huggingface.co/bartowski/Qwen_Qwen3-32B-GGUF) |
@@ -4585,6 +4591,7 @@ Updated on 2025-07-02
 | 3 | Unknown | Jimmi42/chatterbox-tts-apple-silicon-codeText-to-Speech | Updated17 days ago | [Link](https://huggingface.co/Jimmi42/chatterbox-tts-apple-silicon-code) |
 | 33 | Unknown | maya-research/VeenaText-to-Speech | Updatedabout 15 hours ago | [Link](https://huggingface.co/maya-research/Veena) |
 | 2 | Unknown | re-skill/orpheus-tj-early-mlx-fp16Text-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/re-skill/orpheus-tj-early-mlx-fp16) |
+| 6 | Unknown | zhu-han/ZipVoiceText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/zhu-han/ZipVoice) |
 
 ## Text-to-Video
 
