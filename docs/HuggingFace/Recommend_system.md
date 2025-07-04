@@ -2117,6 +2117,7 @@ Updated on 2025-07-04
 | 2 | Unknown | Calligrapher2025/CalligrapherImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/Calligrapher2025/Calligrapher) |
 | 5 | Unknown | starsfriday/Kontext-Remover-General-LoRAImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/starsfriday/Kontext-Remover-General-LoRA) |
 | 9 | Unknown | ByteDance-Seed/VINCIE-3BImage-to-Image | Updatedabout 18 hours ago | [Link](https://huggingface.co/ByteDance-Seed/VINCIE-3B) |
+| 4 | Unknown | Owen777/Kontext-Style-LorasImage-to-Image | Updated11 minutes ago | [Link](https://huggingface.co/Owen777/Kontext-Style-Loras) |
 
 ## Image-to-Text
 
