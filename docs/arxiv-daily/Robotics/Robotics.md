@@ -2,8 +2,8 @@
 ### Robotics
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-02**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961v1](http://arxiv.org/abs/2507.01961v1)|**2025-07-02**|null|
-|**2025-07-02**|**Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations**|Wenhao Wang et.al.|[2507.01930v1](http://arxiv.org/abs/2507.01930v1)|**2025-07-02**|null|
+|**2025-07-02**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961v2](http://arxiv.org/abs/2507.01961v2)|**2025-07-03**|null|
+|**2025-07-02**|**Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations**|Wenhao Wang et.al.|[2507.01930v2](http://arxiv.org/abs/2507.01930v2)|**2025-07-03**|null|
 |**2025-07-02**|**A Survey on Vision-Language-Action Models: An Action Tokenization Perspective**|Yifan Zhong et.al.|[2507.01925v1](http://arxiv.org/abs/2507.01925v1)|**2025-07-02**|null|
 |**2025-07-02**|**3D Reconstruction and Information Fusion between Dormant and Canopy Seasons in Commercial Orchards Using Deep Learning and Fast GICP**|Ranjan Sapkota et.al.|[2507.01912v1](http://arxiv.org/abs/2507.01912v1)|**2025-07-02**|null|
 |**2025-07-02**|**TypeTele: Releasing Dexterity in Teleoperation by Dexterous Manipulation Types**|Yuhao Lin et.al.|[2507.01857v1](http://arxiv.org/abs/2507.01857v1)|**2025-07-02**|null|
@@ -24,7 +24,7 @@
 |**2025-07-02**|**Quantum-Assisted Automatic Path-Planning for Robotic Quality Inspection in Industry 4.0**|Eneko Osaba et.al.|[2507.01462v1](http://arxiv.org/abs/2507.01462v1)|**2025-07-02**|null|
 |**2025-07-02**|**Robust Input Shaping Control for Flexible Structures Based on Unscented Kalman Filter**|Weiyi Yang et.al.|[2507.01460v1](http://arxiv.org/abs/2507.01460v1)|**2025-07-02**|null|
 |**2025-07-02**|**Approximation-free Control of Unknown Euler-Lagrangian Systems under Input Constraints**|Ratnangshu Das et.al.|[2507.01426v1](http://arxiv.org/abs/2507.01426v1)|**2025-07-02**|null|
-|**2025-07-02**|**TriVLA: A Unified Triple-System-Based Unified Vision-Language-Action Model for General Robot Control**|Zhenyang Liu et.al.|[2507.01424v1](http://arxiv.org/abs/2507.01424v1)|**2025-07-02**|null|
+|**2025-07-02**|**TriVLA: A Triple-System-Based Unified Vision-Language-Action Model for General Robot Control**|Zhenyang Liu et.al.|[2507.01424v2](http://arxiv.org/abs/2507.01424v2)|**2025-07-03**|null|
 |**2025-07-02**|**RALLY: Role-Adaptive LLM-Driven Yoked Navigation for Agentic UAV Swarms**|Ziyao Wang et.al.|[2507.01378v1](http://arxiv.org/abs/2507.01378v1)|**2025-07-02**|null|
 |**2025-07-02**|**Cooperative Target Capture in 3D Engagements over Switched Dynamic Graphs**|Abhinav Sinha et.al.|[2507.01350v1](http://arxiv.org/abs/2507.01350v1)|**2025-07-02**|null|
 |**2025-07-02**|**LANet: A Lane Boundaries-Aware Approach For Robust Trajectory Prediction**|Muhammad Atta ur Rahman et.al.|[2507.01308v1](http://arxiv.org/abs/2507.01308v1)|**2025-07-02**|null|

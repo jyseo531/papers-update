@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-07-03
+Updated on 2025-07-04
 
 > Generated from the Hugging Face database.
 
@@ -2264,6 +2264,7 @@ Updated on 2025-07-03
 | 1 | Unknown | myeongkyunkang/medcap-textplus-pmcoa-patients-llama3 | Updatedabout 10 hours ago | [Link](https://huggingface.co/myeongkyunkang/medcap-textplus-pmcoa-patients-llama3.1) |
 | 6 | Unknown | Teklia/pylaia-casia-hwdb2Image-to-Text | UpdatedSep 10, 2024 | [Link](https://huggingface.co/Teklia/pylaia-casia-hwdb2) |
 | 18 | Unknown | BAAI/tokenize-anythingImage-to-Text | UpdatedMay 28, 2024 | [Link](https://huggingface.co/BAAI/tokenize-anything) |
+| 2 | Unknown | MeissonFlow/MudditImage-to-Text | Updatedabout 12 hours ago | [Link](https://huggingface.co/MeissonFlow/Muddit) |
 
 ## Image-to-Video
 
@@ -4456,6 +4457,7 @@ Updated on 2025-07-03
 | 19.6k | 127 | onnx-community/Kokoro-82M-ONNXText-to-Speech | Updated17 days ago | [Link](https://huggingface.co/onnx-community/Kokoro-82M-ONNX) |
 | 29.7k | 105 | ai4bharat/indic-parler-ttsText-to-Speech | UpdatedDec 9, 2024 | [Link](https://huggingface.co/ai4bharat/indic-parler-tts) |
 | 1.68k | 104 | parler-tts/parler-tts-mini-expressoText-to-Speech | UpdatedMay 21, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-mini-expresso) |
+| 1.44k | 90 | kyutai/tts-1 | Updatedabout 14 hours ago | [Link](https://huggingface.co/kyutai/tts-1.6b-en_fr) |
 | 3.52k | 87 | HKUSTAudio/Llasa-1BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-1B) |
 | 2.42k | 77 | FunAudioLLM/CosyVoice2-0 | UpdatedDec 27, 2024 | [Link](https://huggingface.co/FunAudioLLM/CosyVoice2-0.5B) |
 | 162 | 72 | canopylabs/orpheus-3b-0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/canopylabs/orpheus-3b-0.1-ft) |

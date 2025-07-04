@@ -3,11 +3,11 @@
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-07-02**|**Sub-keV dark matter can strongly ionize molecular clouds**|Pedro De la Torre Luque et.al.|[2507.01962v1](http://arxiv.org/abs/2507.01962v1)|**2025-07-02**|null|
-|**2025-07-02**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961v1](http://arxiv.org/abs/2507.01961v1)|**2025-07-02**|null|
+|**2025-07-02**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961v2](http://arxiv.org/abs/2507.01961v2)|**2025-07-03**|null|
 |**2025-07-02**|**The Roper Resonance $N^*(1440)$ in Nucleon-Nucleon Collisions and the Issue of Dibaryons**|Heinz Clement et.al.|[2507.01937v1](http://arxiv.org/abs/2507.01937v1)|**2025-07-02**|null|
 |**2025-07-02**|**A first-order method for nonconvex-nonconcave minimax problems under a local Kurdyka-Łojasiewicz condition**|Zhaosong Lu et.al.|[2507.01932v1](http://arxiv.org/abs/2507.01932v1)|**2025-07-02**|null|
 |**2025-07-02**|**3D Reconstruction and Information Fusion between Dormant and Canopy Seasons in Commercial Orchards Using Deep Learning and Fast GICP**|Ranjan Sapkota et.al.|[2507.01912v1](http://arxiv.org/abs/2507.01912v1)|**2025-07-02**|null|
-|**2025-07-02**|**Modality Agnostic, patient-specific digital twins modeling temporally varying digestive motion**|Jorge Tapias Gomez et.al.|[2507.01909v1](http://arxiv.org/abs/2507.01909v1)|**2025-07-02**|null|
+|**2025-07-02**|**Modality-agnostic, patient-specific digital twins modeling temporally varying digestive motion**|Jorge Tapias Gomez et.al.|[2507.01909v2](http://arxiv.org/abs/2507.01909v2)|**2025-07-03**|null|
 |**2025-07-02**|**Spacetime reconstruction by order and number**|Mathias Braun et.al.|[2507.01907v1](http://arxiv.org/abs/2507.01907v1)|**2025-07-02**|null|
 |**2025-07-02**|**Joint Power Control and Precoding for Cell-Free Massive MIMO Systems With Sparse Multi-Dimensional Graph Neural Networks**|Yukun Ma et.al.|[2507.01876v1](http://arxiv.org/abs/2507.01876v1)|**2025-07-02**|null|
 |**2025-07-02**|**Transient dispersion in oscillatory flows: auxiliary-time extension method for concentration moments**|Weiquan Jiang et.al.|[2507.01870v1](http://arxiv.org/abs/2507.01870v1)|**2025-07-02**|null|

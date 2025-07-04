@@ -3,14 +3,14 @@
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |**2025-07-02**|**Sub-keV dark matter can strongly ionize molecular clouds**|Pedro De la Torre Luque et.al.|[2507.01962v1](http://arxiv.org/abs/2507.01962v1)|**2025-07-02**|null|
-|**2025-07-02**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961v1](http://arxiv.org/abs/2507.01961v1)|**2025-07-02**|null|
+|**2025-07-02**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961v2](http://arxiv.org/abs/2507.01961v2)|**2025-07-03**|null|
 |**2025-07-02**|**How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation Models on Standard Computer Vision Tasks**|Rahul Ramachandran et.al.|[2507.01955v1](http://arxiv.org/abs/2507.01955v1)|**2025-07-02**|null|
 |**2025-07-02**|**The Lockman-SpReSO project. Spectroscopic analysis of Type 1 AGN**|Castalia Alenka Negrete et.al.|[2507.01952v1](http://arxiv.org/abs/2507.01952v1)|**2025-07-02**|null|
-|**2025-07-02**|**Decision-oriented Text Evaluation**|Yu-Shiang Huang et.al.|[2507.01923v1](http://arxiv.org/abs/2507.01923v1)|**2025-07-02**|null|
+|**2025-07-02**|**Decision-Oriented Text Evaluation**|Yu-Shiang Huang et.al.|[2507.01923v2](http://arxiv.org/abs/2507.01923v2)|**2025-07-03**|null|
 |**2025-07-02**|**PDE-Constrained High-Order Mesh Optimization**|Tzanio Kolev et.al.|[2507.01917v1](http://arxiv.org/abs/2507.01917v1)|**2025-07-02**|null|
 |**2025-07-02**|**Gradient-Adaptive Policy Optimization: Towards Multi-Objective Alignment of Large Language Models**|Chengao Li et.al.|[2507.01915v1](http://arxiv.org/abs/2507.01915v1)|**2025-07-02**|null|
 |**2025-07-02**|**3D Reconstruction and Information Fusion between Dormant and Canopy Seasons in Commercial Orchards Using Deep Learning and Fast GICP**|Ranjan Sapkota et.al.|[2507.01912v1](http://arxiv.org/abs/2507.01912v1)|**2025-07-02**|null|
-|**2025-07-02**|**Modality Agnostic, patient-specific digital twins modeling temporally varying digestive motion**|Jorge Tapias Gomez et.al.|[2507.01909v1](http://arxiv.org/abs/2507.01909v1)|**2025-07-02**|null|
+|**2025-07-02**|**Modality-agnostic, patient-specific digital twins modeling temporally varying digestive motion**|Jorge Tapias Gomez et.al.|[2507.01909v2](http://arxiv.org/abs/2507.01909v2)|**2025-07-03**|null|
 |**2025-07-02**|**Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning**|Qingdong He et.al.|[2507.01908v1](http://arxiv.org/abs/2507.01908v1)|**2025-07-02**|null|
 |**2025-07-02**|**Simulation and analysis of turbulent flame and its effect on the wall of aero engine combustor**|A. Mokhtari et.al.|[2507.01892v1](http://arxiv.org/abs/2507.01892v1)|**2025-07-02**|null|
 |**2025-07-02**|**Circuit compression for 2D quantum dynamics**|Matteo D'Anna et.al.|[2507.01883v1](http://arxiv.org/abs/2507.01883v1)|**2025-07-02**|null|

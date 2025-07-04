@@ -7,7 +7,7 @@
 |**2025-07-02**|**Deep BSVIEs Parametrization and Learning-Based Applications**|Nacira Agram et.al.|[2507.01948v1](http://arxiv.org/abs/2507.01948v1)|**2025-07-02**|null|
 |**2025-07-02**|**Characterizing control between interacting subsystems with deep Jacobian estimation**|Adam J. Eisen et.al.|[2507.01946v1](http://arxiv.org/abs/2507.01946v1)|**2025-07-02**|null|
 |**2025-07-02**|**Adaptability of ASR Models on Low-Resource Language: A Comparative Study of Whisper and Wav2Vec-BERT on Bangla**|Md Sazzadul Islam Ridoy et.al.|[2507.01931v1](http://arxiv.org/abs/2507.01931v1)|**2025-07-02**|null|
-|**2025-07-02**|**The independence and clique cover numbers of the squarefree graph**|Boris Alexeev et.al.|[2507.01928v1](http://arxiv.org/abs/2507.01928v1)|**2025-07-02**|null|
+|**2025-07-02**|**The independence and clique cover numbers of the squarefree graph**|Boris Alexeev et.al.|[2507.01928v2](http://arxiv.org/abs/2507.01928v2)|**2025-07-03**|null|
 |**2025-07-02**|**evMLP: An Efficient Event-Driven MLP Architecture for Vision**|Zhentan Zheng et.al.|[2507.01927v1](http://arxiv.org/abs/2507.01927v1)|**2025-07-02**|null|
 |**2025-07-02**|**Exploring a Hybrid Deep Learning Approach for Anomaly Detection in Mental Healthcare Provider Billing: Addressing Label Scarcity through Semi-Supervised Anomaly Detection**|Samirah Bakker et.al.|[2507.01924v1](http://arxiv.org/abs/2507.01924v1)|**2025-07-02**|null|
 |**2025-07-02**|**Efficient stochastic simulation of gene regulatory networks using hybrid models of transcriptional bursting**|Mathilde Gaillard et.al.|[2507.01922v1](http://arxiv.org/abs/2507.01922v1)|**2025-07-02**|null|

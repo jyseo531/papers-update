@@ -8,7 +8,7 @@
 |**2025-07-01**|**Analyzing Time-Varying Scalar Fields using Piecewise-Linear Morse-Cerf Theory**|Amritendu Dhar et.al.|[2507.00725v1](http://arxiv.org/abs/2507.00725v1)|**2025-07-01**|null|
 |**2025-07-01**|**Chaoticus: a parallel approach to the computation of chaos indicators**|Javier Jiménez-López et.al.|[2507.00622v1](http://arxiv.org/abs/2507.00622v1)|**2025-07-01**|null|
 |**2025-07-01**|**Process-aware and high-fidelity microstructure generation using stable diffusion**|Hoang Cuong Phan et.al.|[2507.00459v1](http://arxiv.org/abs/2507.00459v1)|**2025-07-01**|null|
-|**2025-06-30**|**Nine circles of elastic brittle fracture: A series of challenge problems to assess fracture models**|Farhad Kamarei et.al.|[2507.00266v1](http://arxiv.org/abs/2507.00266v1)|**2025-06-30**|null|
+|**2025-06-30**|**Nine circles of elastic brittle fracture: A series of challenge problems to assess fracture models**|Farhad Kamarei et.al.|[2507.00266v2](http://arxiv.org/abs/2507.00266v2)|**2025-07-03**|null|
 |**2025-06-30**|**HiNeuS: High-fidelity Neural Surface Mitigating Low-texture and Reflective Ambiguity**|Yida Wang et.al.|[2506.23854v1](http://arxiv.org/abs/2506.23854v1)|**2025-06-30**|null|
 |**2025-06-29**|**RoboScape: Physics-informed Embodied World Model**|Yu Shang et.al.|[2506.23135v1](http://arxiv.org/abs/2506.23135v1)|**2025-06-29**|null|
 |**2025-06-29**|**Insights into Ionic Diffusion in C-S-H Gel Pore from MD Simulations: Spatial Distributions, Energy Barriers, and Structural Descriptor**|Weiqiang Chen et.al.|[2506.23089v1](http://arxiv.org/abs/2506.23089v1)|**2025-06-29**|null|
