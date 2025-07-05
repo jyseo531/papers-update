@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-07-04
+Updated on 2025-07-05
 
 > Generated from the Hugging Face database.
 
@@ -2008,10 +2008,12 @@ Updated on 2025-07-04
 | 424 | 11 | camenduru/IDM-VTON-F16Image-to-Image | UpdatedApr 23, 2024 | [Link](https://huggingface.co/camenduru/IDM-VTON-F16) |
 | 91 | 11 | TencentARC/t2iadapter_color_sd14v1Image-to-Image | UpdatedJul 31, 2023 | [Link](https://huggingface.co/TencentARC/t2iadapter_color_sd14v1) |
 | 21 | 10 | philschmid/stable-diffusion-2-inpainting-endpointImage-to-Image | UpdatedSep 29, 2023 | [Link](https://huggingface.co/philschmid/stable-diffusion-2-inpainting-endpoint) |
+| 270 | 10 | drbaph/Fluffy-kontext-LoRAImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/drbaph/Fluffy-kontext-LoRA) |
 | 11 | 9 | keras-io/conditional-ganImage-to-Image | UpdatedJul 5, 2024 | [Link](https://huggingface.co/keras-io/conditional-gan) |
 | 10.5k | 9 | hafsa000/interior-designImage-to-Image | UpdatedMay 16, 2024 | [Link](https://huggingface.co/hafsa000/interior-design) |
 | 59 | 8 | qualcomm/AOT-GANImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/qualcomm/AOT-GAN) |
 | 1.74k | 7 | xiaozaa/catvton-flux-betaImage-to-Image | UpdatedJan 16 | [Link](https://huggingface.co/xiaozaa/catvton-flux-beta) |
+| 33 | 7 | kontext-community/relighting-kontext-dev-lora-v3Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/kontext-community/relighting-kontext-dev-lora-v3) |
 | 1.97k | 6 | TencentARC/t2iadapter_sketch_sd15v2Image-to-Image | UpdatedAug 1, 2023 | [Link](https://huggingface.co/TencentARC/t2iadapter_sketch_sd15v2) |
 | 80 | 5 | jasperai/LBM_relightingImage-to-Image | Updated8 days ago | [Link](https://huggingface.co/jasperai/LBM_relighting) |
 | 6 | 5 | carsonkatri/stable-diffusion-2-depth-diffusersImage-to-Image | UpdatedDec 2, 2022 | [Link](https://huggingface.co/carsonkatri/stable-diffusion-2-depth-diffusers) |
@@ -2118,6 +2120,7 @@ Updated on 2025-07-04
 | 5 | Unknown | starsfriday/Kontext-Remover-General-LoRAImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/starsfriday/Kontext-Remover-General-LoRA) |
 | 9 | Unknown | ByteDance-Seed/VINCIE-3BImage-to-Image | Updatedabout 18 hours ago | [Link](https://huggingface.co/ByteDance-Seed/VINCIE-3B) |
 | 4 | Unknown | Owen777/Kontext-Style-LorasImage-to-Image | Updated11 minutes ago | [Link](https://huggingface.co/Owen777/Kontext-Style-Loras) |
+| 3 | Unknown | ilkerzgi/metallic-objects-kontext-dev-loraImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/ilkerzgi/metallic-objects-kontext-dev-lora) |
 
 ## Image-to-Text
 
