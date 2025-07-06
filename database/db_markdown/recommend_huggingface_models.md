@@ -2025,6 +2025,7 @@ Updated on 2025-07-06
 | 38 | 4 | rafiaashraf/tryOn_modelImage-to-Image | UpdatedFeb 22 | [Link](https://huggingface.co/rafiaashraf/tryOn_model) |
 | 273 | 4 | radames/stable-diffusion-2-1-unclip-img2imgImage-to-Image | UpdatedMay 17, 2023 | [Link](https://huggingface.co/radames/stable-diffusion-2-1-unclip-img2img) |
 | 34 | 4 | gradient-spaces/ReStyle3DImage-to-Image | Updated29 days ago | [Link](https://huggingface.co/gradient-spaces/ReStyle3D) |
+| 52 | 4 | fal/3D-Game-Assets-Kontext-Dev-LoRAImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/fal/3D-Game-Assets-Kontext-Dev-LoRA) |
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
@@ -4442,6 +4443,7 @@ Updated on 2025-07-06
 | 9 | Unknown | drbaph/GlassPrism-kontext-LoRAText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/drbaph/GlassPrism-kontext-LoRA) |
 | 153k |  | stabilityai/stable-diffusion-3-medium-diffusersText-to-Image | UpdatedJun 19, 2024 | [Link](https://huggingface.co/stabilityai/stable-diffusion-3-medium-diffusers) |
 | 6 | Unknown | bluepen5805/true_pencil-XLText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/bluepen5805/true_pencil-XL) |
+| 8 | Unknown | Calligrapher2025/CalligrapherText-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/Calligrapher2025/Calligrapher) |
 
 ## Text-to-Speech
 
@@ -4742,6 +4744,7 @@ Updated on 2025-07-06
 | 2 | Unknown | Skywork/SkyReels-V2-DF-14B-540P-DiffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-DF-14B-540P-Diffusers) |
 | 2 | Unknown | Skywork/SkyReels-V2-T2V-14B-720P-DiffusersText-to-Video | Updated7 days ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-T2V-14B-720P-Diffusers) |
 | 16 | Unknown | APRIL-AIGC/UltraWanText-to-Video | Updatedabout 11 hours ago | [Link](https://huggingface.co/APRIL-AIGC/UltraWan) |
+| 8 | Unknown | kohya-ss/HunyuanVideo-fp8_e4m3fn-unofficialText-to-Video | UpdatedJan 11 | [Link](https://huggingface.co/kohya-ss/HunyuanVideo-fp8_e4m3fn-unofficial) |
 
 ## Text2Text Generation
 
