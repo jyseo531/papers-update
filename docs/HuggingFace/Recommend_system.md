@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-07-05
+Updated on 2025-07-06
 
 > Generated from the Hugging Face database.
 
@@ -2130,6 +2130,7 @@ Updated on 2025-07-05
 | 7.46k | 213 | xtuner/llava-llama-3-8b-v1_1-ggufImage-to-Text | UpdatedApr 30, 2024 | [Link](https://huggingface.co/xtuner/llava-llama-3-8b-v1_1-gguf) |
 | 170k | 159 | microsoft/kosmos-2-patch14-224Image-to-Text | UpdatedNov 28, 2023 | [Link](https://huggingface.co/microsoft/kosmos-2-patch14-224) |
 | 1.69k | 134 | xtuner/llava-phi-3-mini-ggufImage-to-Text | UpdatedApr 29, 2024 | [Link](https://huggingface.co/xtuner/llava-phi-3-mini-gguf) |
+| Updated3 days ago | 78 | Rainnighttram/GLM-4 | 10B | [Link](https://huggingface.co/Rainnighttram/GLM-4.1V-9B-Thinking-bnb-4bit) |
 | 6.2k | 77 | unum-cloud/uform-gen2-qwen-500mImage-to-Text | UpdatedApr 24, 2024 | [Link](https://huggingface.co/unum-cloud/uform-gen2-qwen-500m) |
 | UpdatedNov 19, 2024 | 77 | ashok2216/vit-gpt2-image-captioning_COCO_FineTunedImage-to-Text | 0.2B | [Link](https://huggingface.co/ashok2216/vit-gpt2-image-captioning_COCO_FineTuned) |
 | 131 | 71 | keras-io/ocr-for-captchaImage-to-Text | UpdatedMay 29, 2022 | [Link](https://huggingface.co/keras-io/ocr-for-captcha) |
