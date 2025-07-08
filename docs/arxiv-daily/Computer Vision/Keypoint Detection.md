@@ -2,6 +2,17 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-07**|**Spatial and Semantic Embedding Integration for Stereo Sound Event Localization and Detection in Regular Videos**|Davide Berghi et.al.|[2507.04845v1](http://arxiv.org/abs/2507.04845v1)|**2025-07-07**|null|
+|**2025-07-07**|**RIPE: Reinforcement Learning on Unlabeled Image Pairs for Robust Keypoint Extraction**|Johannes Künzel et.al.|[2507.04839v1](http://arxiv.org/abs/2507.04839v1)|**2025-07-07**|null|
+|**2025-07-06**|**MoReMouse: Monocular Reconstruction of Laboratory Mouse**|Yuan Zhong et.al.|[2507.04258v1](http://arxiv.org/abs/2507.04258v1)|**2025-07-06**|null|
+|**2025-07-06**|**Grid-Reg: Grid-Based SAR and Optical Image Registration Across Platforms**|Xiaochen Wei et.al.|[2507.04233v1](http://arxiv.org/abs/2507.04233v1)|**2025-07-06**|null|
+|**2025-07-05**|**Combining Graph Neural Networks and Mixed Integer Linear Programming for Molecular Inference under the Two-Layered Model**|Jianshen Zhu et.al.|[2507.03920v1](http://arxiv.org/abs/2507.03920v1)|**2025-07-05**|null|
+|**2025-07-04**|**Query-Based Adaptive Aggregation for Multi-Dataset Joint Training Toward Universal Visual Place Recognition**|Jiuhong Xiao et.al.|[2507.03831v1](http://arxiv.org/abs/2507.03831v1)|**2025-07-04**|null|
+|**2025-07-04**|**Beyond Accuracy: Metrics that Uncover What Makes a `Good' Visual Descriptor**|Ethan Lin et.al.|[2507.03542v1](http://arxiv.org/abs/2507.03542v1)|**2025-07-04**|null|
+|**2025-07-04**|**Molecular Machine Learning Using Euler Characteristic Transforms**|Victor Toscano-Duran et.al.|[2507.03474v1](http://arxiv.org/abs/2507.03474v1)|**2025-07-04**|null|
+|**2025-07-04**|**Helping CLIP See Both the Forest and the Trees: A Decomposition and Description Approach**|Leyan Xue et.al.|[2507.03458v1](http://arxiv.org/abs/2507.03458v1)|**2025-07-04**|null|
+|**2025-07-04**|**Pose-Star: Anatomy-Aware Editing for Open-World Fashion Images**|Yuran Dong et.al.|[2507.03402v1](http://arxiv.org/abs/2507.03402v1)|**2025-07-04**|null|
+|**2025-07-03**|**LANTERN: A Machine Learning Framework for Lipid Nanoparticle Transfection Efficiency Prediction**|Asal Mehradfar et.al.|[2507.03209v1](http://arxiv.org/abs/2507.03209v1)|**2025-07-03**|null|
 |**2025-07-03**|**UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation**|Qin Guo et.al.|[2507.02713v2](http://arxiv.org/abs/2507.02713v2)|**2025-07-04**|null|
 |**2025-07-03**|**Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning**|Buzhen Huang et.al.|[2507.02565v1](http://arxiv.org/abs/2507.02565v1)|**2025-07-03**|null|
 |**2025-07-03**|**LMPNet for Weakly-supervised Keypoint Discovery**|Pei Guo et.al.|[2507.02308v1](http://arxiv.org/abs/2507.02308v1)|**2025-07-03**|null|
@@ -21,14 +32,3 @@
 |**2025-06-28**|**Deterministic Object Pose Confidence Region Estimation**|Jinghao Wang et.al.|[2506.22720v1](http://arxiv.org/abs/2506.22720v1)|**2025-06-28**|null|
 |**2025-06-28**|**The diffuse supernova neutrino background: a modern approach**|Cecilia Lunardini et.al.|[2506.22699v1](http://arxiv.org/abs/2506.22699v1)|**2025-06-28**|null|
 |**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336v1](http://arxiv.org/abs/2506.22336v1)|**2025-06-27**|null|
-|**2025-06-27**|**SDRNET: Stacked Deep Residual Network for Accurate Semantic Segmentation of Fine-Resolution Remotely Sensed Images**|Naftaly Wambugu et.al.|[2506.21945v1](http://arxiv.org/abs/2506.21945v1)|**2025-06-27**|null|
-|**2025-06-27**|**ZeroReg3D: A Zero-shot Registration Pipeline for 3D Consecutive Histopathology Image Reconstruction**|Juming Xiong et.al.|[2506.21923v1](http://arxiv.org/abs/2506.21923v1)|**2025-06-27**|null|
-|**2025-06-26**|**Lipschitz Bounds for Persistent Laplacian Eigenvalues under One-Simplex Insertions**|Le Vu Anh et.al.|[2506.21352v1](http://arxiv.org/abs/2506.21352v1)|**2025-06-26**|null|
-|**2025-06-26**|**LLaVA-Pose: Enhancing Human Pose and Action Understanding via Keypoint-Integrated Instruction Tuning**|Dewen Zhang et.al.|[2506.21317v1](http://arxiv.org/abs/2506.21317v1)|**2025-06-26**|null|
-|**2025-06-26**|**ACTLLM: Action Consistency Tuned Large Language Model**|Jing Bi et.al.|[2506.21250v1](http://arxiv.org/abs/2506.21250v1)|**2025-06-26**|null|
-|**2025-06-26**|**Topology-Aware Modeling for Unsupervised Simulation-to-Reality Point Cloud Recognition**|Longkun Zou et.al.|[2506.21165v1](http://arxiv.org/abs/2506.21165v1)|**2025-06-26**|null|
-|**2025-06-26**|**Knowledge-Driven Imitation Learning: Enabling Generalization Across Diverse Conditions**|Zhuochen Miao et.al.|[2506.21057v1](http://arxiv.org/abs/2506.21057v1)|**2025-06-26**|null|
-|**2025-06-26**|**Rethink Sparse Signals for Pose-guided Text-to-image Generation**|Wenjie Xuan et.al.|[2506.20983v1](http://arxiv.org/abs/2506.20983v1)|**2025-06-26**|null|
-|**2025-06-25**|**AI-assisted radiographic analysis in detecting alveolar bone-loss severity and patterns**|Chathura Wimalasiri et.al.|[2506.20522v1](http://arxiv.org/abs/2506.20522v1)|**2025-06-25**|null|
-|**2025-06-25**|**Feature Hallucination for Self-supervised Action Recognition**|Lei Wang et.al.|[2506.20342v1](http://arxiv.org/abs/2506.20342v1)|**2025-06-25**|null|
-|**2025-06-24**|**Complete polyhedral description of chemical graphs of maximum degree at most 3**|Valentin Dusollier et.al.|[2506.19768v1](http://arxiv.org/abs/2506.19768v1)|**2025-06-24**|null|

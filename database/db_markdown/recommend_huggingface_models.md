@@ -2136,7 +2136,10 @@ Updated on 2025-07-08
 | UpdatedAug 26, 2024 | 467 | LeroyDyer/SpydazWebAI_Image_ProjectorsImage-to-Text | 7B | [Link](https://huggingface.co/LeroyDyer/SpydazWebAI_Image_Projectors) |
 | 7.46k | 213 | xtuner/llava-llama-3-8b-v1_1-ggufImage-to-Text | UpdatedApr 30, 2024 | [Link](https://huggingface.co/xtuner/llava-llama-3-8b-v1_1-gguf) |
 | 170k | 159 | microsoft/kosmos-2-patch14-224Image-to-Text | UpdatedNov 28, 2023 | [Link](https://huggingface.co/microsoft/kosmos-2-patch14-224) |
+| Updated27 days ago | 154k | nvidia/Cosmos-Reason1-7BImage-to-Text | 8B | [Link](https://huggingface.co/nvidia/Cosmos-Reason1-7B) |
 | 1.69k | 134 | xtuner/llava-phi-3-mini-ggufImage-to-Text | UpdatedApr 29, 2024 | [Link](https://huggingface.co/xtuner/llava-phi-3-mini-gguf) |
+| UpdatedFeb 25 | 117k | allenai/olmOCR-7B-0225-previewImage-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview) |
+| UpdatedApr 2 | 116k | reducto/RolmOCRImage-to-Text | 8B | [Link](https://huggingface.co/reducto/RolmOCR) |
 | Updated3 days ago | 78 | Rainnighttram/GLM-4 | 10B | [Link](https://huggingface.co/Rainnighttram/GLM-4.1V-9B-Thinking-bnb-4bit) |
 | 6.2k | 77 | unum-cloud/uform-gen2-qwen-500mImage-to-Text | UpdatedApr 24, 2024 | [Link](https://huggingface.co/unum-cloud/uform-gen2-qwen-500m) |
 | UpdatedNov 19, 2024 | 77 | ashok2216/vit-gpt2-image-captioning_COCO_FineTunedImage-to-Text | 0.2B | [Link](https://huggingface.co/ashok2216/vit-gpt2-image-captioning_COCO_FineTuned) |
@@ -2160,6 +2163,7 @@ Updated on 2025-07-08
 | 68 | 25 | Ertugrul/Pixtral-12B-Captioner-RelaxedImage-to-Text | UpdatedOct 1, 2024 | [Link](https://huggingface.co/Ertugrul/Pixtral-12B-Captioner-Relaxed) |
 | 4.54k | 23 | raxtemur/trocr-base-ruImage-to-Text | UpdatedMay 29, 2024 | [Link](https://huggingface.co/raxtemur/trocr-base-ru) |
 | 4.06k | 22 | noamrot/FuseCap_Image_CaptioningImage-to-Text | UpdatedJan 25, 2024 | [Link](https://huggingface.co/noamrot/FuseCap_Image_Captioning) |
+| UpdatedDec 12, 2023 | 22 | kmewhort/blip2-flan-t5-xxl-safetensorsImage-to-Text | 12B | [Link](https://huggingface.co/kmewhort/blip2-flan-t5-xxl-safetensors) |
 | 130 | 20 | Mozilla/distilvitImage-to-Text | UpdatedNov 25, 2024 | [Link](https://huggingface.co/Mozilla/distilvit) |
 | UpdatedAug 1, 2023 | 20 | michelecafagna26/blip-base-captioning-ft-hl-scenesImage-to-Text | 0.2B | [Link](https://huggingface.co/michelecafagna26/blip-base-captioning-ft-hl-scenes) |
 | 376 | 19 | to-be/donut-base-finetuned-invoicesImage-to-Text | UpdatedMar 3, 2023 | [Link](https://huggingface.co/to-be/donut-base-finetuned-invoices) |
@@ -2195,8 +2199,10 @@ Updated on 2025-07-08
 | 6 | 7 | sujet-ai/Lutece-Vision-BaseImage-to-Text | UpdatedJul 14, 2024 | [Link](https://huggingface.co/sujet-ai/Lutece-Vision-Base) |
 | 624 | 6 | fhswf/TrOCR_Math_handwrittenImage-to-Text | UpdatedOct 21, 2024 | [Link](https://huggingface.co/fhswf/TrOCR_Math_handwritten) |
 | 511 | 6 | microsoft/trocr-base-strImage-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-base-str) |
+| Updated21 days ago | 6.36k | allenai/olmOCR-7B-0225-preview-FP8Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview-FP8) |
 | 7 | 5 | laicsiifes/swin-gportuguese-2Image-to-Text | UpdatedMar 31 | [Link](https://huggingface.co/laicsiifes/swin-gportuguese-2) |
 | 5 | 5 | Yodazon/3DPrintFailureTypeImage-to-Text | UpdatedOct 18, 2024 | [Link](https://huggingface.co/Yodazon/3DPrintFailureType) |
+| Updated5 days ago | 5.7k | ChatDOC/OCRFlux-3BImage-to-Text | 4B | [Link](https://huggingface.co/ChatDOC/OCRFlux-3B) |
 | 17 | 4 | MixTex/tiny-ZhEn-for-onnxImage-to-Text | UpdatedFeb 23 | [Link](https://huggingface.co/MixTex/tiny-ZhEn-for-onnx) |
 | 14 | 4 | unalignment/Pixtral-12B-Captioner-RelaxedImage-to-Text | UpdatedJan 22 | [Link](https://huggingface.co/unalignment/Pixtral-12B-Captioner-Relaxed) |
 | 3.42k | 4 | breezedeus/pix2text-mfdImage-to-Text | UpdatedJul 10, 2024 | [Link](https://huggingface.co/breezedeus/pix2text-mfd) |
@@ -2217,6 +2223,7 @@ Updated on 2025-07-08
 | 96 | 2 | cxfajar197/urdu-ocrImage-to-Text | UpdatedNov 26, 2024 | [Link](https://huggingface.co/cxfajar197/urdu-ocr) |
 | 46 | 2 | Gregor/mblip-bloomz-7bImage-to-Text | UpdatedApr 28, 2024 | [Link](https://huggingface.co/Gregor/mblip-bloomz-7b) |
 | 8.72k | 2 | PaddlePaddle/PP-OCRv5_server_detImage-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv5_server_det) |
+| UpdatedApr 19, 2024 | 2.09k | mychen76/invoice-and-receipts_donut_v1Image-to-Text | 0.2B | [Link](https://huggingface.co/mychen76/invoice-and-receipts_donut_v1) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -2281,6 +2288,7 @@ Updated on 2025-07-08
 | 6 | Unknown | Teklia/pylaia-casia-hwdb2Image-to-Text | UpdatedSep 10, 2024 | [Link](https://huggingface.co/Teklia/pylaia-casia-hwdb2) |
 | 18 | Unknown | BAAI/tokenize-anythingImage-to-Text | UpdatedMay 28, 2024 | [Link](https://huggingface.co/BAAI/tokenize-anything) |
 | 2 | Unknown | MeissonFlow/MudditImage-to-Text | Updatedabout 12 hours ago | [Link](https://huggingface.co/MeissonFlow/Muddit) |
+| 21 | Unknown | TRI-ML/prismatic-vlmsImage-to-Text | UpdatedMay 6, 2024 | [Link](https://huggingface.co/TRI-ML/prismatic-vlms) |
 
 ## Image-to-Video
 
@@ -4457,6 +4465,7 @@ Updated on 2025-07-08
 | 6 | Unknown | bluepen5805/true_pencil-XLText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/bluepen5805/true_pencil-XL) |
 | 8 | Unknown | Calligrapher2025/CalligrapherText-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/Calligrapher2025/Calligrapher) |
 | 257 |  | dataautogpt3/FLUX-AestheticAnimeText-to-Image | UpdatedAug 16, 2024 | [Link](https://huggingface.co/dataautogpt3/FLUX-AestheticAnime) |
+| 8 | Unknown | NovelAI/nai-anime-v2Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/NovelAI/nai-anime-v2) |
 
 ## Text-to-Speech
 
