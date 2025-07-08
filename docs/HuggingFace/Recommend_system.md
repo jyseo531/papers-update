@@ -2127,6 +2127,7 @@ Updated on 2025-07-08
 | 4 | Unknown | Owen777/Kontext-Style-LorasImage-to-Image | Updated11 minutes ago | [Link](https://huggingface.co/Owen777/Kontext-Style-Loras) |
 | 3 | Unknown | ilkerzgi/metallic-objects-kontext-dev-loraImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/ilkerzgi/metallic-objects-kontext-dev-lora) |
 | 5 | Unknown | xiaolxl/HXHY-Asian-style-realism-Realistic-KontextLoRAImage-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/xiaolxl/HXHY-Asian-style-realism-Realistic-KontextLoRA) |
+| 8 |  | ilkerzgi/embroidery-patch-kontext-dev-loraImage-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/ilkerzgi/embroidery-patch-kontext-dev-lora) |
 
 ## Image-to-Text
 
