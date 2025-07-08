@@ -9,7 +9,7 @@
 |**2025-07-03**|**Trajectory Optimization for Differential Drive Mobile Manipulators via Topological Paths Search and Arc Length-Yaw Parameterization**|Long Xu et.al.|[2507.02761v1](http://arxiv.org/abs/2507.02761v1)|**2025-07-03**|null|
 |**2025-07-03**|**Multi-agent Auditory Scene Analysis**|Caleb Rascon et.al.|[2507.02755v1](http://arxiv.org/abs/2507.02755v1)|**2025-07-03**|null|
 |**2025-07-03**|**DexVLG: Dexterous Vision-Language-Grasp Model at Scale**|Jiawei He et.al.|[2507.02747v1](http://arxiv.org/abs/2507.02747v1)|**2025-07-03**|null|
-|**2025-07-03**|**Optimizing Start Locations in Ergodic Search for Disaster Response**|Ananya Rao et.al.|[2507.02708v1](http://arxiv.org/abs/2507.02708v1)|**2025-07-03**|null|
+|**2025-07-03**|**Optimizing Start Locations in Ergodic Search for Disaster Response**|Ananya Rao et.al.|[2507.02708v2](http://arxiv.org/abs/2507.02708v2)|**2025-07-04**|null|
 |**2025-07-03**|**Integrating path-planning and control for robotic unicycles**|Máté B. Vizi et.al.|[2507.02700v1](http://arxiv.org/abs/2507.02700v1)|**2025-07-03**|null|
 |**2025-07-03**|**MISCGrasp: Leveraging Multiple Integrated Scales and Contrastive Learning for Enhanced Volumetric Grasping**|Qingyu Fan et.al.|[2507.02672v1](http://arxiv.org/abs/2507.02672v1)|**2025-07-03**|null|
 |**2025-07-03**|**ArtGS:3D Gaussian Splatting for Interactive Visual-Physical Modeling and Manipulation of Articulated Objects**|Qiaojun Yu et.al.|[2507.02600v1](http://arxiv.org/abs/2507.02600v1)|**2025-07-03**|null|
@@ -23,7 +23,7 @@
 |**2025-07-03**|**Path Planning using a One-shot-sampling Skeleton Map**|Gabriel O. Flores-Aquino et.al.|[2507.02328v1](http://arxiv.org/abs/2507.02328v1)|**2025-07-03**|null|
 |**2025-07-03**|**A Vehicle-in-the-Loop Simulator with AI-Powered Digital Twins for Testing Automated Driving Controllers**|Zengjie Zhang et.al.|[2507.02313v1](http://arxiv.org/abs/2507.02313v1)|**2025-07-03**|null|
 |**2025-07-03**|**Uncertainty-aware Reward Design Process**|Yang Yang et.al.|[2507.02256v1](http://arxiv.org/abs/2507.02256v1)|**2025-07-03**|null|
-|**2025-07-03**|**CoInfra: A Large-Scale Cooperative Infrastructure Perception System and Dataset in Adverse Weather**|Minghao Ning et.al.|[2507.02245v1](http://arxiv.org/abs/2507.02245v1)|**2025-07-03**|null|
+|**2025-07-03**|**CoInfra: A Large-Scale Cooperative Infrastructure Perception System and Dataset in Adverse Weather**|Minghao Ning et.al.|[2507.02245v2](http://arxiv.org/abs/2507.02245v2)|**2025-07-04**|null|
 |**2025-07-03**|**Understanding Trade offs When Conditioning Synthetic Data**|Brandon Trabucco et.al.|[2507.02217v1](http://arxiv.org/abs/2507.02217v1)|**2025-07-03**|null|
 |**2025-07-02**|**GPS-DRIFT: Marine Surface Robot Localization using IMU-GPS Fusion and Invariant Filtering**|Surya Pratap Singh et.al.|[2507.02198v1](http://arxiv.org/abs/2507.02198v1)|**2025-07-02**|null|
 |**2025-07-02**|**cVLA: Towards Efficient Camera-Space VLAs**|Max Argus et.al.|[2507.02190v1](http://arxiv.org/abs/2507.02190v1)|**2025-07-02**|null|

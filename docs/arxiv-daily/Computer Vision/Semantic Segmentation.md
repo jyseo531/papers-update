@@ -5,7 +5,7 @@
 |**2025-07-03**|**Subtyping in DHOL -- Extended preprint**|Colin Rothgang et.al.|[2507.02855v1](http://arxiv.org/abs/2507.02855v1)|**2025-07-03**|null|
 |**2025-07-03**|**Legal Requirements Translation from Law**|Anmol Singhal et.al.|[2507.02846v1](http://arxiv.org/abs/2507.02846v1)|**2025-07-03**|null|
 |**2025-07-03**|**Visual Contextual Attack: Jailbreaking MLLMs with Image-Driven Context Injection**|Ziqi Miao et.al.|[2507.02844v1](http://arxiv.org/abs/2507.02844v1)|**2025-07-03**|null|
-|**2025-07-03**|**Confidence-driven Gradient Modulation for Multimodal Human Activity Recognition: A Dynamic Contrastive Dual-Path Learning Approach**|Panpan Ji et.al.|[2507.02826v1](http://arxiv.org/abs/2507.02826v1)|**2025-07-03**|null|
+|**2025-07-03**|**Confidence-driven Gradient Modulation for Multimodal Human Activity Recognition: A Dynamic Contrastive Dual-Path Learning Approach**|Panpan Ji et.al.|[2507.02826v2](http://arxiv.org/abs/2507.02826v2)|**2025-07-04**|null|
 |**2025-07-03**|**LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion**|Fangfu Liu et.al.|[2507.02813v1](http://arxiv.org/abs/2507.02813v1)|**2025-07-03**|null|
 |**2025-07-03**|**No time to train! Training-Free Reference-Based Instance Segmentation**|Miguel Espinosa et.al.|[2507.02798v1](http://arxiv.org/abs/2507.02798v1)|**2025-07-03**|null|
 |**2025-07-03**|**From Long Videos to Engaging Clips: A Human-Inspired Video Editing Framework with Multimodal Narrative Understanding**|Xiangfeng Wang et.al.|[2507.02790v1](http://arxiv.org/abs/2507.02790v1)|**2025-07-03**|null|

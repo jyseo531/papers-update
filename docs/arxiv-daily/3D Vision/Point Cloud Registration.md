@@ -28,7 +28,7 @@
 |**2025-07-03**|**Density dependent speed of sound and its consequences in neutron stars**|Suman Pal et.al.|[2507.02669v1](http://arxiv.org/abs/2507.02669v1)|**2025-07-03**|null|
 |**2025-07-03**|**The pure condition for incidence geometries**|Daniel Irving Bernstein et.al.|[2507.02661v1](http://arxiv.org/abs/2507.02661v1)|**2025-07-03**|null|
 |**2025-07-03**|**OmniDraft: A Cross-vocabulary, Online Adaptive Drafter for On-device Speculative Decoding**|Ramchalam Kinattinkara Ramakrishnan et.al.|[2507.02659v1](http://arxiv.org/abs/2507.02659v1)|**2025-07-03**|null|
-|**2025-07-03**|**Pinching-Antenna-Assisted Index Modulation: Channel Modeling, Transceiver Design, and Performance Analysis**|Shuaixin Yang et.al.|[2507.02641v1](http://arxiv.org/abs/2507.02641v1)|**2025-07-03**|null|
+|**2025-07-03**|**Pinching-Antenna-Assisted Index Modulation: Channel Modeling, Transceiver Design, and Performance Analysis**|Shuaixin Yang et.al.|[2507.02641v2](http://arxiv.org/abs/2507.02641v2)|**2025-07-04**|null|
 |**2025-07-03**|**Classification of $f(R)$ Theories Of Inflation And The Uniqueness of Starobinsky Model**|Marco Piva et.al.|[2507.02637v1](http://arxiv.org/abs/2507.02637v1)|**2025-07-03**|null|
 |**2025-07-03**|**High-Order Deep Meta-Learning with Category-Theoretic Interpretation**|David H. Mguni et.al.|[2507.02634v1](http://arxiv.org/abs/2507.02634v1)|**2025-07-03**|null|
 |**2025-07-03**|**Spherically Symmetric Accretion with Self-Gravity: Analytical Formulae and Numerical Validation**|Cheng-Liang Jiao et.al.|[2507.02621v1](http://arxiv.org/abs/2507.02621v1)|**2025-07-03**|null|

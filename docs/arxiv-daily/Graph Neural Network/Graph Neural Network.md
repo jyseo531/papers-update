@@ -7,8 +7,8 @@
 |**2025-07-03**|**Free boundary regularity for a tumor growth model with obstacle**|Giulia Bevilacqua et.al.|[2507.02837v1](http://arxiv.org/abs/2507.02837v1)|**2025-07-03**|null|
 |**2025-07-03**|**LCQNN: Linear Combination of Quantum Neural Networks**|Hongshun Yao et.al.|[2507.02832v1](http://arxiv.org/abs/2507.02832v1)|**2025-07-03**|null|
 |**2025-07-03**|**USAD: An Unsupervised Data Augmentation Spatio-Temporal Attention Diffusion Network**|Ying Yu et.al.|[2507.02827v1](http://arxiv.org/abs/2507.02827v1)|**2025-07-03**|null|
-|**2025-07-03**|**Confidence-driven Gradient Modulation for Multimodal Human Activity Recognition: A Dynamic Contrastive Dual-Path Learning Approach**|Panpan Ji et.al.|[2507.02826v1](http://arxiv.org/abs/2507.02826v1)|**2025-07-03**|null|
-|**2025-07-03**|**DNN-Based Precoding in RIS-Aided mmWave MIMO Systems With Practical Phase Shift**|Po-Heng Chou et.al.|[2507.02824v1](http://arxiv.org/abs/2507.02824v1)|**2025-07-03**|null|
+|**2025-07-03**|**Confidence-driven Gradient Modulation for Multimodal Human Activity Recognition: A Dynamic Contrastive Dual-Path Learning Approach**|Panpan Ji et.al.|[2507.02826v2](http://arxiv.org/abs/2507.02826v2)|**2025-07-04**|null|
+|**2025-07-03**|**DNN-Based Precoding in RIS-Aided mmWave MIMO Systems With Practical Phase Shift**|Po-Heng Chou et.al.|[2507.02824v2](http://arxiv.org/abs/2507.02824v2)|**2025-07-04**|null|
 |**2025-07-03**|**Time-Masked Transformers with Lightweight Test-Time Adaptation for Neural Speech Decoding**|Ebrahim Feghhi et.al.|[2507.02800v1](http://arxiv.org/abs/2507.02800v1)|**2025-07-03**|null|
 |**2025-07-03**|**From Pixels to Damage Severity: Estimating Earthquake Impacts Using Semantic Segmentation of Social Media Images**|Danrong Zhang et.al.|[2507.02781v1](http://arxiv.org/abs/2507.02781v1)|**2025-07-03**|null|
 |**2025-07-03**|**Connected k-Median with Disjoint and Non-disjoint Clusters**|Jan Eube et.al.|[2507.02774v1](http://arxiv.org/abs/2507.02774v1)|**2025-07-03**|null|

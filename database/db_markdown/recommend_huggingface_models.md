@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-07-07
+Updated on 2025-07-08
 
 > Generated from the Hugging Face database.
 
@@ -2031,6 +2031,7 @@ Updated on 2025-07-07
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
 | 3.41k | 3 | caidas/swin2SR-classical-sr-x4-64Image-to-Image | UpdatedMar 27, 2024 | [Link](https://huggingface.co/caidas/swin2SR-classical-sr-x4-64) |
+|  | 3 | fal/Realism-Detailer-Kontext-Dev-LoRAImage-to-Image | Updatedabout 16 hours ago | [Link](https://huggingface.co/fal/Realism-Detailer-Kontext-Dev-LoRA) |
 | 67 | 2 | SherryXTChen/InstructCLIP-InstructPix2PixImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/SherryXTChen/InstructCLIP-InstructPix2Pix) |
 | 17 | 2 | SherryXTChen/Instruct-CLIPImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/SherryXTChen/Instruct-CLIP) |
 | 76 | 2 | VisualCloze/VisualClozePipeline-384Image-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/VisualCloze/VisualClozePipeline-384) |
@@ -2125,11 +2126,13 @@ Updated on 2025-07-07
 | 9 | Unknown | ByteDance-Seed/VINCIE-3BImage-to-Image | Updatedabout 18 hours ago | [Link](https://huggingface.co/ByteDance-Seed/VINCIE-3B) |
 | 4 | Unknown | Owen777/Kontext-Style-LorasImage-to-Image | Updated11 minutes ago | [Link](https://huggingface.co/Owen777/Kontext-Style-Loras) |
 | 3 | Unknown | ilkerzgi/metallic-objects-kontext-dev-loraImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/ilkerzgi/metallic-objects-kontext-dev-lora) |
+| 5 | Unknown | xiaolxl/HXHY-Asian-style-realism-Realistic-KontextLoRAImage-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/xiaolxl/HXHY-Asian-style-realism-Realistic-KontextLoRA) |
 
 ## Image-to-Text
 
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
+| UpdatedApr 28 | 631 | Hyphonical/Pixtral-12B-Captioner-Relaxed-Q4_K_M-GGUFImage-to-Text | 12B | [Link](https://huggingface.co/Hyphonical/Pixtral-12B-Captioner-Relaxed-Q4_K_M-GGUF) |
 | UpdatedAug 26, 2024 | 467 | LeroyDyer/SpydazWebAI_Image_ProjectorsImage-to-Text | 7B | [Link](https://huggingface.co/LeroyDyer/SpydazWebAI_Image_Projectors) |
 | 7.46k | 213 | xtuner/llava-llama-3-8b-v1_1-ggufImage-to-Text | UpdatedApr 30, 2024 | [Link](https://huggingface.co/xtuner/llava-llama-3-8b-v1_1-gguf) |
 | 170k | 159 | microsoft/kosmos-2-patch14-224Image-to-Text | UpdatedNov 28, 2023 | [Link](https://huggingface.co/microsoft/kosmos-2-patch14-224) |
@@ -2145,10 +2148,12 @@ Updated on 2025-07-07
 | 7.54k | 36 | breezedeus/pix2text-mfrImage-to-Text | UpdatedMay 5, 2024 | [Link](https://huggingface.co/breezedeus/pix2text-mfr) |
 | 42.7k | 35 | microsoft/trocr-small-printedImage-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-small-printed) |
 | UpdatedJan 11 | 35 | AdamCodd/donut-receipts-extractImage-to-Text | 0.2B | [Link](https://huggingface.co/AdamCodd/donut-receipts-extract) |
+| Updated11 days ago | 35 | Daniil-Domino/trocr-base-ru-dialecticImage-to-Text | 0.3B | [Link](https://huggingface.co/Daniil-Domino/trocr-base-ru-dialectic) |
 | 6.34k | 32 | thwri/CogFlorence-2 | UpdatedSep 28, 2024 | [Link](https://huggingface.co/thwri/CogFlorence-2.2-Large) |
 | 637 | 31 | U4R/StructTable-InternVL2-1BImage-to-Text | UpdatedDec 12, 2024 | [Link](https://huggingface.co/U4R/StructTable-InternVL2-1B) |
 | 9.9k | 31 | OleehyO/TexTellerImage-to-Text | UpdatedJun 22, 2024 | [Link](https://huggingface.co/OleehyO/TexTeller) |
 | 1.65k | 29 | microsoft/git-large-textcapsImage-to-Text | UpdatedFeb 8, 2023 | [Link](https://huggingface.co/microsoft/git-large-textcaps) |
+| Updated6 days ago | 28 | daniel3303/QwenStoryteller2Image-to-Text | 8B | [Link](https://huggingface.co/daniel3303/QwenStoryteller2) |
 | 809 | 27 | MixTex/ZhEn-Latex-OCRImage-to-Text | UpdatedJul 30, 2024 | [Link](https://huggingface.co/MixTex/ZhEn-Latex-OCR) |
 | 290 | 26 | paragon-AI/blip2-image-to-textImage-to-Text | UpdatedJun 24, 2023 | [Link](https://huggingface.co/paragon-AI/blip2-image-to-text) |
 | 7.18k | 25 | ddobokki/ko-trocrImage-to-Text | UpdatedOct 22, 2024 | [Link](https://huggingface.co/ddobokki/ko-trocr) |
@@ -4451,6 +4456,7 @@ Updated on 2025-07-07
 | 153k |  | stabilityai/stable-diffusion-3-medium-diffusersText-to-Image | UpdatedJun 19, 2024 | [Link](https://huggingface.co/stabilityai/stable-diffusion-3-medium-diffusers) |
 | 6 | Unknown | bluepen5805/true_pencil-XLText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/bluepen5805/true_pencil-XL) |
 | 8 | Unknown | Calligrapher2025/CalligrapherText-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/Calligrapher2025/Calligrapher) |
+| 257 |  | dataautogpt3/FLUX-AestheticAnimeText-to-Image | UpdatedAug 16, 2024 | [Link](https://huggingface.co/dataautogpt3/FLUX-AestheticAnime) |
 
 ## Text-to-Speech
 
@@ -4755,6 +4761,7 @@ Updated on 2025-07-07
 | 2 | Unknown | Skywork/SkyReels-V2-T2V-14B-720P-DiffusersText-to-Video | Updated7 days ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-T2V-14B-720P-Diffusers) |
 | 16 | Unknown | APRIL-AIGC/UltraWanText-to-Video | Updatedabout 11 hours ago | [Link](https://huggingface.co/APRIL-AIGC/UltraWan) |
 | 8 | Unknown | kohya-ss/HunyuanVideo-fp8_e4m3fn-unofficialText-to-Video | UpdatedJan 11 | [Link](https://huggingface.co/kohya-ss/HunyuanVideo-fp8_e4m3fn-unofficial) |
+| 23 | Unknown | BAAI/MTVCraftText-to-Video | Updatedabout 9 hours ago | [Link](https://huggingface.co/BAAI/MTVCraft) |
 
 ## Text2Text Generation
 

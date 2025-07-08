@@ -2,13 +2,13 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-03**|**UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation**|Qin Guo et.al.|[2507.02713v1](http://arxiv.org/abs/2507.02713v1)|**2025-07-03**|null|
+|**2025-07-03**|**UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation**|Qin Guo et.al.|[2507.02713v2](http://arxiv.org/abs/2507.02713v2)|**2025-07-04**|null|
 |**2025-07-03**|**Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning**|Buzhen Huang et.al.|[2507.02565v1](http://arxiv.org/abs/2507.02565v1)|**2025-07-03**|null|
 |**2025-07-03**|**LMPNet for Weakly-supervised Keypoint Discovery**|Pei Guo et.al.|[2507.02308v1](http://arxiv.org/abs/2507.02308v1)|**2025-07-03**|null|
 |**2025-07-03**|**GDC Cohort Copilot: An AI Copilot for Curating Cohorts from the Genomic Data Commons**|Steven Song et.al.|[2507.02221v1](http://arxiv.org/abs/2507.02221v1)|**2025-07-03**|null|
 |**2025-07-02**|**Advancing Magnetic Materials Discovery -- A structure-based machine learning approach for magnetic ordering and magnetic moment prediction**|Apoorv Verma et.al.|[2507.01913v1](http://arxiv.org/abs/2507.01913v1)|**2025-07-02**|null|
 |**2025-07-01**|**ShapeEmbed: a self-supervised learning framework for 2D contour quantification**|Anna Foix Romero et.al.|[2507.01009v1](http://arxiv.org/abs/2507.01009v1)|**2025-07-01**|null|
-|**2025-07-01**|**Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations**|Shivansh Patel et.al.|[2507.00990v1](http://arxiv.org/abs/2507.00990v1)|**2025-07-01**|null|
+|**2025-07-01**|**Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations**|Shivansh Patel et.al.|[2507.00990v2](http://arxiv.org/abs/2507.00990v2)|**2025-07-04**|null|
 |**2025-07-01**|**Analyzing Time-Varying Scalar Fields using Piecewise-Linear Morse-Cerf Theory**|Amritendu Dhar et.al.|[2507.00725v1](http://arxiv.org/abs/2507.00725v1)|**2025-07-01**|null|
 |**2025-07-01**|**Chaoticus: a parallel approach to the computation of chaos indicators**|Javier Jiménez-López et.al.|[2507.00622v1](http://arxiv.org/abs/2507.00622v1)|**2025-07-01**|null|
 |**2025-07-01**|**Process-aware and high-fidelity microstructure generation using stable diffusion**|Hoang Cuong Phan et.al.|[2507.00459v1](http://arxiv.org/abs/2507.00459v1)|**2025-07-01**|null|
