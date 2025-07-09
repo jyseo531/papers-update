@@ -13,7 +13,7 @@
 |**2025-07-07**|**Train-before-Test Harmonizes Language Model Rankings**|Guanhua Zhang et.al.|[2507.05195v1](http://arxiv.org/abs/2507.05195v1)|**2025-07-07**|null|
 |**2025-07-07**|**Satellite-based Rabi rice paddy field mapping in India: a case study on Telangana state**|Prashanth Reddy Putta et.al.|[2507.05189v1](http://arxiv.org/abs/2507.05189v1)|**2025-07-07**|null|
 |**2025-07-07**|**Intuitive dissection of the Gaussian information bottleneck method with an application to optimal prediction**|Vahe Galstyan et.al.|[2507.05183v1](http://arxiv.org/abs/2507.05183v1)|**2025-07-07**|null|
-|**2025-07-07**|**Electromagnetic energy calibration of the SoLid detector with horizontal muons**|SoLid collaboration et.al.|[2507.05180v1](http://arxiv.org/abs/2507.05180v1)|**2025-07-07**|null|
+|**2025-07-07**|**Electromagnetic energy calibration of the SoLid detector with horizontal muons**|SoLid collaboration et.al.|[2507.05180v2](http://arxiv.org/abs/2507.05180v2)|**2025-07-08**|null|
 |**2025-07-07**|**Blind Targeting: Personalization under Third-Party Privacy Constraints**|Anya Shchetkina et.al.|[2507.05175v1](http://arxiv.org/abs/2507.05175v1)|**2025-07-07**|null|
 |**2025-07-07**|**A Dynamical Systems Perspective on the Analysis of Neural Networks**|Dennis Chemnitz et.al.|[2507.05164v1](http://arxiv.org/abs/2507.05164v1)|**2025-07-07**|null|
 |**2025-07-07**|**Spectroscopy of Free-Floating Planetary-Mass Objects and their disks with JWST**|Belinda Damian et.al.|[2507.05155v1](http://arxiv.org/abs/2507.05155v1)|**2025-07-07**|null|

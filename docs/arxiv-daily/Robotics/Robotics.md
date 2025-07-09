@@ -22,7 +22,7 @@
 |**2025-07-07**|**Automated UAV-based Wind Turbine Blade Inspection: Blade Stop Angle Estimation and Blade Detail Prioritized Exposure Adjustment**|Yichuan Shi et.al.|[2507.04922v1](http://arxiv.org/abs/2507.04922v1)|**2025-07-07**|null|
 |**2025-07-07**|**Leadership Detection via Time-Lagged Correlation-Based Network Inference**|Thayanne França da Silva et.al.|[2507.04917v1](http://arxiv.org/abs/2507.04917v1)|**2025-07-07**|null|
 |**2025-07-07**|**Piggyback Camera: Easy-to-Deploy Visual Surveillance by Mobile Sensing on Commercial Robot Vacuums**|Ryo Yonetani et.al.|[2507.04910v1](http://arxiv.org/abs/2507.04910v1)|**2025-07-07**|null|
-|**2025-07-07**|**Dynamics and multi-stability of a rotor-actuated Twistcar robot with passive steering joint**|Anna Zigelman et.al.|[2507.04846v1](http://arxiv.org/abs/2507.04846v1)|**2025-07-07**|null|
+|**2025-07-07**|**Dynamics and multi-stability of a rotor-actuated Twistcar robot with passive steering joint**|Anna Zigelman et.al.|[2507.04846v2](http://arxiv.org/abs/2507.04846v2)|**2025-07-08**|null|
 |**2025-07-07**|**Safe Bimanual Teleoperation with Language-Guided Collision Avoidance**|Dionis Totsila et.al.|[2507.04791v1](http://arxiv.org/abs/2507.04791v1)|**2025-07-07**|null|
 |**2025-07-07**|**Interaction-Merged Motion Planning: Effectively Leveraging Diverse Motion Datasets for Robust Planning**|Giwon Lee et.al.|[2507.04790v1](http://arxiv.org/abs/2507.04790v1)|**2025-07-07**|null|
 |**2025-07-07**|**Training-free Generation of Temporally Consistent Rewards from VLMs**|Yinuo Zhao et.al.|[2507.04789v1](http://arxiv.org/abs/2507.04789v1)|**2025-07-07**|null|

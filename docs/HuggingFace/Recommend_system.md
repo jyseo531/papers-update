@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-07-08
+Updated on 2025-07-09
 
 > Generated from the Hugging Face database.
 
@@ -2170,6 +2170,7 @@ Updated on 2025-07-08
 | 376 | 19 | to-be/donut-base-finetuned-invoicesImage-to-Text | UpdatedMar 3, 2023 | [Link](https://huggingface.co/to-be/donut-base-finetuned-invoices) |
 | UpdatedOct 15, 2024 | 19 | Joctor/qwen2-vl-7b-instruct-ogiriImage-to-Text | 8B | [Link](https://huggingface.co/Joctor/qwen2-vl-7b-instruct-ogiri) |
 | 433 | 17 | kpyu/video-blip-opt-2 | UpdatedMay 17, 2023 | [Link](https://huggingface.co/kpyu/video-blip-opt-2.7b-ego4d) |
+| Updated15 days ago | 17.2k | scb10x/typhoon-ocr-7bImage-to-Text | 8B | [Link](https://huggingface.co/scb10x/typhoon-ocr-7b) |
 | 207 | 16 | bipin/image-caption-generatorImage-to-Text | UpdatedJul 27, 2024 | [Link](https://huggingface.co/bipin/image-caption-generator) |
 | 225 | 15 | DunnBC22/trocr-base-handwritten-OCR-handwriting_recognition_v2Image-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-base-handwritten-OCR-handwriting_recognition_v2) |
 | 1.31k | 15 | microsoft/git-largeImage-to-Text | UpdatedFeb 8, 2023 | [Link](https://huggingface.co/microsoft/git-large) |
@@ -3972,6 +3973,8 @@ Updated on 2025-07-08
 | Updatedabout 18 hours ago | 6 | apple/sage-ft-mixtral-8x7bText | 47B | [Link](https://huggingface.co/apple/sage-ft-mixtral-8x7b) |
 | Updated6 days ago | 2.04k | marcelbinz/Llama-3 | 71B | [Link](https://huggingface.co/marcelbinz/Llama-3.1-Centaur-70B) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
+| Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
+| Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -4489,6 +4492,7 @@ Updated on 2025-07-08
 | 27.5k | 194 | suno/bark-smallText-to-Speech | UpdatedNov 10, 2023 | [Link](https://huggingface.co/suno/bark-small) |
 | Updated3 days ago | 182 | fnlp/MOSS-TTSD-v0 | 2B | [Link](https://huggingface.co/fnlp/MOSS-TTSD-v0.5) |
 | 1.22k | 141 | stepfun-ai/Step-Audio-TTS-3BText-to-Speech | Updated8 days ago | [Link](https://huggingface.co/stepfun-ai/Step-Audio-TTS-3B) |
+| UpdatedSep 1, 2023 | 141 | facebook/mms-tts-tgkText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-tgk) |
 | 18.2k | 136 | parler-tts/parler-tts-mini-v1Text-to-Speech | UpdatedNov 25, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-mini-v1) |
 | 19.6k | 127 | onnx-community/Kokoro-82M-ONNXText-to-Speech | Updated17 days ago | [Link](https://huggingface.co/onnx-community/Kokoro-82M-ONNX) |
 | 29.7k | 105 | ai4bharat/indic-parler-ttsText-to-Speech | UpdatedDec 9, 2024 | [Link](https://huggingface.co/ai4bharat/indic-parler-tts) |
@@ -4772,6 +4776,9 @@ Updated on 2025-07-08
 | 16 | Unknown | APRIL-AIGC/UltraWanText-to-Video | Updatedabout 11 hours ago | [Link](https://huggingface.co/APRIL-AIGC/UltraWan) |
 | 8 | Unknown | kohya-ss/HunyuanVideo-fp8_e4m3fn-unofficialText-to-Video | UpdatedJan 11 | [Link](https://huggingface.co/kohya-ss/HunyuanVideo-fp8_e4m3fn-unofficial) |
 | 23 | Unknown | BAAI/MTVCraftText-to-Video | Updatedabout 9 hours ago | [Link](https://huggingface.co/BAAI/MTVCraft) |
+| 6 | Unknown | Lightricks/LTX-Video-ICLoRA-pose-13b-0 | Updatedabout 6 hours ago | [Link](https://huggingface.co/Lightricks/LTX-Video-ICLoRA-pose-13b-0.9.7) |
+| 4 | Unknown | Lightricks/LTX-Video-ICLoRA-depth-13b-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/Lightricks/LTX-Video-ICLoRA-depth-13b-0.9.7) |
+| 4 | Unknown | Lightricks/LTX-Video-ICLoRA-canny-13b-0 | Updatedabout 16 hours ago | [Link](https://huggingface.co/Lightricks/LTX-Video-ICLoRA-canny-13b-0.9.7) |
 
 ## Text2Text Generation
 

@@ -13,7 +13,7 @@
 |**2025-07-07**|**Neuralocks: Real-Time Dynamic Neural Hair Simulation**|Gene Wei-Chin Lin et.al.|[2507.05191v1](http://arxiv.org/abs/2507.05191v1)|**2025-07-07**|null|
 |**2025-07-07**|**QMoE: A Quantum Mixture of Experts Framework for Scalable Quantum Neural Networks**|Hoang-Quan Nguyen et.al.|[2507.05190v1](http://arxiv.org/abs/2507.05190v1)|**2025-07-07**|null|
 |**2025-07-07**|**Intuitive dissection of the Gaussian information bottleneck method with an application to optimal prediction**|Vahe Galstyan et.al.|[2507.05183v1](http://arxiv.org/abs/2507.05183v1)|**2025-07-07**|null|
-|**2025-07-07**|**Electromagnetic energy calibration of the SoLid detector with horizontal muons**|SoLid collaboration et.al.|[2507.05180v1](http://arxiv.org/abs/2507.05180v1)|**2025-07-07**|null|
+|**2025-07-07**|**Electromagnetic energy calibration of the SoLid detector with horizontal muons**|SoLid collaboration et.al.|[2507.05180v2](http://arxiv.org/abs/2507.05180v2)|**2025-07-08**|null|
 |**2025-07-07**|**Dynamics and chaotic properties of the fully disordered Kuramoto model**|Iván León et.al.|[2507.05168v1](http://arxiv.org/abs/2507.05168v1)|**2025-07-07**|null|
 |**2025-07-07**|**Differential Attention for Multimodal Crisis Event Analysis**|Nusrat Munia et.al.|[2507.05165v1](http://arxiv.org/abs/2507.05165v1)|**2025-07-07**|null|
 |**2025-07-07**|**A Dynamical Systems Perspective on the Analysis of Neural Networks**|Dennis Chemnitz et.al.|[2507.05164v1](http://arxiv.org/abs/2507.05164v1)|**2025-07-07**|null|
@@ -27,7 +27,7 @@
 |**2025-07-07**|**Self-consistent moment dynamics for networks of spiking neurons**|Gianni Valerio Vinci et.al.|[2507.05117v1](http://arxiv.org/abs/2507.05117v1)|**2025-07-07**|null|
 |**2025-07-07**|**CLIP-Guided Backdoor Defense through Entropy-Based Poisoned Dataset Separation**|Binyan Xu et.al.|[2507.05113v1](http://arxiv.org/abs/2507.05113v1)|**2025-07-07**|null|
 |**2025-07-07**|**A Federated Learning-based Lightweight Network with Zero Trust for UAV Authentication**|Hao Zhang et.al.|[2507.05111v1](http://arxiv.org/abs/2507.05111v1)|**2025-07-07**|null|
-|**2025-07-07**|**Rule Learning for Knowledge Graph Reasoning under Agnostic Distribution Shift**|Shixuan Liu et.al.|[2507.05110v1](http://arxiv.org/abs/2507.05110v1)|**2025-07-07**|null|
+|**2025-07-07**|**Rule Learning for Knowledge Graph Reasoning under Agnostic Distribution Shift**|Shixuan Liu et.al.|[2507.05110v2](http://arxiv.org/abs/2507.05110v2)|**2025-07-08**|null|
 |**2025-07-07**|**PRING: Rethinking Protein-Protein Interaction Prediction from Pairs to Graphs**|Xinzhe Zheng et.al.|[2507.05101v1](http://arxiv.org/abs/2507.05101v1)|**2025-07-07**|null|
 |**2025-07-07**|**Real-Time Graph-based Point Cloud Networks on FPGAs via Stall-Free Deep Pipelining**|Marc Neu et.al.|[2507.05099v1](http://arxiv.org/abs/2507.05099v1)|**2025-07-07**|null|
 |**2025-07-07**|**Topological defect modes in bilayer acoustic networks**|Renaud Cote et.al.|[2507.05095v1](http://arxiv.org/abs/2507.05095v1)|**2025-07-07**|null|
