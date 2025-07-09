@@ -2128,6 +2128,9 @@ Updated on 2025-07-09
 | 3 | Unknown | ilkerzgi/metallic-objects-kontext-dev-loraImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/ilkerzgi/metallic-objects-kontext-dev-lora) |
 | 5 | Unknown | xiaolxl/HXHY-Asian-style-realism-Realistic-KontextLoRAImage-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/xiaolxl/HXHY-Asian-style-realism-Realistic-KontextLoRA) |
 | 8 |  | ilkerzgi/embroidery-patch-kontext-dev-loraImage-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/ilkerzgi/embroidery-patch-kontext-dev-lora) |
+| 94 |  | fal/Pencil-Drawing-Kontext-Dev-LoRAImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/fal/Pencil-Drawing-Kontext-Dev-LoRA) |
+| 77 |  | Kontext-Style/Line_loraImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/Kontext-Style/Line_lora) |
+| 68 |  | Kontext-Style/Rick_Morty_loraImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/Kontext-Style/Rick_Morty_lora) |
 
 ## Image-to-Text
 
@@ -2243,6 +2246,7 @@ Updated on 2025-07-09
 | 1.09k | 1 | PaddlePaddle/PP-OCRv5_mobile_recImage-to-Text | Updated4 days ago | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv5_mobile_rec) |
 | 23k | 1 | PaddlePaddle/PP-LCNet_x1_0_doc_oriImage-to-Text | Updated4 days ago | [Link](https://huggingface.co/PaddlePaddle/PP-LCNet_x1_0_doc_ori) |
 | 4.43k | 1 | PaddlePaddle/PP-DocLayout_plus-LImage-to-Text | Updated4 days ago | [Link](https://huggingface.co/PaddlePaddle/PP-DocLayout_plus-L) |
+| UpdatedJan 4 | 1.8k | Bllossom/llama-3 | 8B | [Link](https://huggingface.co/Bllossom/llama-3.1-Korean-Bllossom-Vision-8B) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -3910,6 +3914,7 @@ Updated on 2025-07-09
 | 5 | 23 | fantos/QwQ-32B-bnb-4bitText | UpdatedMar 20 | [Link](https://huggingface.co/fantos/QwQ-32B-bnb-4bit) |
 | 108 | 23 | nvidia/OpenCodeReasoning-Nemotron-7BText | Updated2 days ago | [Link](https://huggingface.co/nvidia/OpenCodeReasoning-Nemotron-7B) |
 | 381 | 23 | pfnet/plamo-2-translateText | Updatedabout 21 hours ago | [Link](https://huggingface.co/pfnet/plamo-2-translate) |
+| Updated27 days ago | 23 | microsoft/NextCoder-32BText | 33B | [Link](https://huggingface.co/microsoft/NextCoder-32B) |
 | 44 | 22 | deepcogito/cogito-v1-preview-llama-3BText | Updatedabout 12 hours ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-llama-3B) |
 | 10.2k | 22 | bartowski/THUDM_GLM-4-32B-0414-GGUFText | Updated6 days ago | [Link](https://huggingface.co/bartowski/THUDM_GLM-4-32B-0414-GGUF) |
 | 6.82k | 22 | bartowski/deepseek-ai_DeepSeek-R1-0528-Qwen3-8B-GGUFText | Updatedabout 23 hours ago | [Link](https://huggingface.co/bartowski/deepseek-ai_DeepSeek-R1-0528-Qwen3-8B-GGUF) |
@@ -3918,6 +3923,7 @@ Updated on 2025-07-09
 | 275 | 21 | ServiceNow-AI/Apriel-5B-InstructText | Updated3 days ago | [Link](https://huggingface.co/ServiceNow-AI/Apriel-5B-Instruct) |
 | 4.53k | 21 | bartowski/nvidia_Llama-3 | Updated7 days ago | [Link](https://huggingface.co/bartowski/nvidia_Llama-3.1-8B-UltraLong-4M-Instruct-GGUF) |
 | 106 | 21 | inclusionAI/Ring-lite-distill-previewText | Updated12 days ago | [Link](https://huggingface.co/inclusionAI/Ring-lite-distill-preview) |
+| Updated1 day ago | 21 | nvidia/OpenCodeReasoning-Nemotron-1 | 33B | [Link](https://huggingface.co/nvidia/OpenCodeReasoning-Nemotron-1.1-32B) |
 | 335 | 20 | google/txgemma-27b-chatText | Updated2 days ago | [Link](https://huggingface.co/google/txgemma-27b-chat) |
 | 473 | 20 | google/txgemma-9b-chatText | Updated4 days ago | [Link](https://huggingface.co/google/txgemma-9b-chat) |
 | 15 | 20 | Intelligent-Internet/II-Medical-8B-1706Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/Intelligent-Internet/II-Medical-8B-1706) |
@@ -4470,6 +4476,7 @@ Updated on 2025-07-09
 | 8 | Unknown | Calligrapher2025/CalligrapherText-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/Calligrapher2025/Calligrapher) |
 | 257 |  | dataautogpt3/FLUX-AestheticAnimeText-to-Image | UpdatedAug 16, 2024 | [Link](https://huggingface.co/dataautogpt3/FLUX-AestheticAnime) |
 | 8 | Unknown | NovelAI/nai-anime-v2Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/NovelAI/nai-anime-v2) |
+| 331 |  | renderartist/coloringbookfluxText-to-Image | UpdatedSep 25, 2024 | [Link](https://huggingface.co/renderartist/coloringbookflux) |
 
 ## Text-to-Speech
 

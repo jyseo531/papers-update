@@ -2,33 +2,33 @@
 ### Point Cloud Registration
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-07**|**Self-Supervised Real-Time Tracking of Military Vehicles in Low-FPS UAV Footage**|Markiyan Kostiv et.al.|[2507.05229v1](http://arxiv.org/abs/2507.05229v1)|**2025-07-07**|null|
-|**2025-07-07**|**QuEst: Enhancing Estimates of Quantile-Based Distributional Measures Using Model Predictions**|Zhun Deng et.al.|[2507.05220v1](http://arxiv.org/abs/2507.05220v1)|**2025-07-07**|null|
-|**2025-07-07**|**Interleaving Logic and Counting**|Johan van Benthem et.al.|[2507.05219v1](http://arxiv.org/abs/2507.05219v1)|**2025-07-07**|null|
-|**2025-07-07**|**Bridging Prediction and Intervention Problems in Social Systems**|Lydia T. Liu et.al.|[2507.05216v1](http://arxiv.org/abs/2507.05216v1)|**2025-07-07**|null|
-|**2025-07-07**|**Testing the ubiquitous presence of very high energy emission in gamma-ray bursts with the MAGIC telescopes**|S. Abe et.al.|[2507.05215v1](http://arxiv.org/abs/2507.05215v1)|**2025-07-07**|null|
-|**2025-07-07**|**All in One: Visual-Description-Guided Unified Point Cloud Segmentation**|Zongyan Han et.al.|[2507.05211v1](http://arxiv.org/abs/2507.05211v1)|**2025-07-07**|null|
-|**2025-07-07**|**Identification of Causal Effects with a Bunching Design**|Carolina Caetano et.al.|[2507.05210v1](http://arxiv.org/abs/2507.05210v1)|**2025-07-07**|null|
-|**2025-07-07**|**Interacting Scalar Fields as Dark Energy and Dark Matter in Einstein scalar Gauss Bonnet Gravity**|Saddam Hussain et.al.|[2507.05207v1](http://arxiv.org/abs/2507.05207v1)|**2025-07-07**|null|
-|**2025-07-07**|**Train-before-Test Harmonizes Language Model Rankings**|Guanhua Zhang et.al.|[2507.05195v1](http://arxiv.org/abs/2507.05195v1)|**2025-07-07**|null|
-|**2025-07-07**|**Satellite-based Rabi rice paddy field mapping in India: a case study on Telangana state**|Prashanth Reddy Putta et.al.|[2507.05189v1](http://arxiv.org/abs/2507.05189v1)|**2025-07-07**|null|
-|**2025-07-07**|**Intuitive dissection of the Gaussian information bottleneck method with an application to optimal prediction**|Vahe Galstyan et.al.|[2507.05183v1](http://arxiv.org/abs/2507.05183v1)|**2025-07-07**|null|
-|**2025-07-07**|**Electromagnetic energy calibration of the SoLid detector with horizontal muons**|SoLid collaboration et.al.|[2507.05180v2](http://arxiv.org/abs/2507.05180v2)|**2025-07-08**|null|
-|**2025-07-07**|**Blind Targeting: Personalization under Third-Party Privacy Constraints**|Anya Shchetkina et.al.|[2507.05175v1](http://arxiv.org/abs/2507.05175v1)|**2025-07-07**|null|
-|**2025-07-07**|**A Dynamical Systems Perspective on the Analysis of Neural Networks**|Dennis Chemnitz et.al.|[2507.05164v1](http://arxiv.org/abs/2507.05164v1)|**2025-07-07**|null|
-|**2025-07-07**|**Spectroscopy of Free-Floating Planetary-Mass Objects and their disks with JWST**|Belinda Damian et.al.|[2507.05155v1](http://arxiv.org/abs/2507.05155v1)|**2025-07-07**|null|
-|**2025-07-07**|**OGF: An Online Gradient Flow Method for Optimizing the Statistical Steady-State Time Averages of Unsteady Turbulent Flows**|Tom Hickling et.al.|[2507.05149v1](http://arxiv.org/abs/2507.05149v1)|**2025-07-07**|null|
-|**2025-07-07**|**Pseudo-likelihood produces associative memories able to generalize, even for asymmetric couplings**|Francesco D'Amico et.al.|[2507.05147v1](http://arxiv.org/abs/2507.05147v1)|**2025-07-07**|null|
-|**2025-07-07**|**DICE: Discrete inverse continuity equation for learning population dynamics**|Tobias Blickhan et.al.|[2507.05107v1](http://arxiv.org/abs/2507.05107v1)|**2025-07-07**|null|
-|**2025-07-07**|**Real-Time Graph-based Point Cloud Networks on FPGAs via Stall-Free Deep Pipelining**|Marc Neu et.al.|[2507.05099v1](http://arxiv.org/abs/2507.05099v1)|**2025-07-07**|null|
-|**2025-07-07**|**An exact solution of planar QCD by a complex matrix ensemble**|Alexander Migdal et.al.|[2507.05096v1](http://arxiv.org/abs/2507.05096v1)|**2025-07-07**|null|
-|**2025-07-07**|**Bounding destruction timescales of minor planets orbiting white dwarfs with the sesquinary catastrophe**|Dimitri Veras et.al.|[2507.05090v1](http://arxiv.org/abs/2507.05090v1)|**2025-07-07**|null|
-|**2025-07-07**|**Cubic spline functions revisited**|Florian Jarre et.al.|[2507.05083v1](http://arxiv.org/abs/2507.05083v1)|**2025-07-07**|null|
-|**2025-07-07**|**Recent studies on heavy-flavor femtoscopy in heavy-ion collisions by STAR**|Priyanka Roy Chowdhury et.al.|[2507.05076v1](http://arxiv.org/abs/2507.05076v1)|**2025-07-07**|null|
-|**2025-07-07**|**Quantifying Resolution Limits in Pedestal Profile Measurements with Gaussian Process Regression**|Norman M. Cao et.al.|[2507.05067v1](http://arxiv.org/abs/2507.05067v1)|**2025-07-07**|null|
-|**2025-07-07**|**Vecchia-Inducing-Points Full-Scale Approximations for Gaussian Processes**|Tim Gyger et.al.|[2507.05064v1](http://arxiv.org/abs/2507.05064v1)|**2025-07-07**|null|
-|**2025-07-07**|**Profinite geometric iterated monodromy groups of postcritically finite polynomials in degree 3**|Mikhail Hlushchanka et.al.|[2507.05033v1](http://arxiv.org/abs/2507.05033v1)|**2025-07-07**|null|
-|**2025-07-07**|**Estimating Object Physical Properties from RGB-D Vision and Depth Robot Sensors Using Deep Learning**|Ricardo Cardoso et.al.|[2507.05029v1](http://arxiv.org/abs/2507.05029v1)|**2025-07-07**|null|
-|**2025-07-07**|**Growth of generalized greatest common divisors along orbits of self-rational maps on projective varieties**|Yohsuke Matsuzawa et.al.|[2507.05027v1](http://arxiv.org/abs/2507.05027v1)|**2025-07-07**|null|
-|**2025-07-07**|**Centrally concentrated star formation in young clusters**|Adilkhan Assilkhan et.al.|[2507.05016v1](http://arxiv.org/abs/2507.05016v1)|**2025-07-07**|null|
-|**2025-07-07**|**Anderson-Skin dualism**|Shan-Zhong Li et.al.|[2507.05013v1](http://arxiv.org/abs/2507.05013v1)|**2025-07-07**|null|
+|**2025-07-08**|**Learning to Track Any Points from Human Motion**|Inès Hyeonsu Kim et.al.|[2507.06233v1](http://arxiv.org/abs/2507.06233v1)|**2025-07-08**|null|
+|**2025-07-08**|**Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving**|Xiangru Tang et.al.|[2507.06229v1](http://arxiv.org/abs/2507.06229v1)|**2025-07-08**|null|
+|**2025-07-08**|**Consistency and Inconsistency in $K$-Means Clustering**|Moïse Blanchard et.al.|[2507.06226v1](http://arxiv.org/abs/2507.06226v1)|**2025-07-08**|null|
+|**2025-07-08**|**Bridging Machine Learning and Glassy Dynamics Theory for Predictive Polymer Modeling**|Anh D. Phan et.al.|[2507.06194v1](http://arxiv.org/abs/2507.06194v1)|**2025-07-08**|null|
+|**2025-07-08**|**Conservative approximation-based feedforward neural network for WENO schemes**|Kwanghyuk Park et.al.|[2507.06190v1](http://arxiv.org/abs/2507.06190v1)|**2025-07-08**|null|
+|**2025-07-08**|**The Delta Learning Hypothesis: Preference Tuning on Weak Data can Yield Strong Gains**|Scott Geng et.al.|[2507.06187v1](http://arxiv.org/abs/2507.06187v1)|**2025-07-08**|null|
+|**2025-07-08**|**An explanation of the number or points and symmetries of starbursts**|Sergio Barbero et.al.|[2507.06170v1](http://arxiv.org/abs/2507.06170v1)|**2025-07-08**|null|
+|**2025-07-08**|**"Ideal" Topological Heavy Fermion Model in Two-dimensional Moiré Heterostructures with Type-II Band Alignment**|Yunzhe Liu et.al.|[2507.06168v1](http://arxiv.org/abs/2507.06168v1)|**2025-07-08**|null|
+|**2025-07-08**|**Normalizing Diffusion Kernels with Optimal Transport**|Nathan Kessler et.al.|[2507.06161v1](http://arxiv.org/abs/2507.06161v1)|**2025-07-08**|null|
+|**2025-07-08**|**A Homothetic Gauge Theory**|Fereidoun Sabetghadam et.al.|[2507.06153v1](http://arxiv.org/abs/2507.06153v1)|**2025-07-08**|null|
+|**2025-07-08**|**Fast and Accurate Collision Probability Estimation for Autonomous Vehicles using Adaptive Sigma-Point Sampling**|Charles Champagne Cossette et.al.|[2507.06149v1](http://arxiv.org/abs/2507.06149v1)|**2025-07-08**|null|
+|**2025-07-08**|**Bridging Sequential Deep Operator Network and Video Diffusion: Residual Refinement of Spatio-Temporal PDE Solutions**|Jaewan Park et.al.|[2507.06133v1](http://arxiv.org/abs/2507.06133v1)|**2025-07-08**|null|
+|**2025-07-08**|**On Jiang's Bounded Index Property for products of nilmanifolds**|Peng Wang et.al.|[2507.06132v1](http://arxiv.org/abs/2507.06132v1)|**2025-07-08**|null|
+|**2025-07-08**|**The HI-to-H2 transition in the Draco cloud**|Nicola Schneider et.al.|[2507.06131v1](http://arxiv.org/abs/2507.06131v1)|**2025-07-08**|null|
+|**2025-07-08**|**Unit lattices of $D_4$-quartic number fields with signature $(2,1)$**|Sergio Ricardo Zapata Ceballos et.al.|[2507.06130v1](http://arxiv.org/abs/2507.06130v1)|**2025-07-08**|null|
+|**2025-07-08**|**Unconditional Diffusion for Generative Sequential Recommendation**|Yimeng Bai et.al.|[2507.06121v1](http://arxiv.org/abs/2507.06121v1)|**2025-07-08**|null|
+|**2025-07-08**|**Constraining the contribution of Seyfert galaxies to the diffuse neutrino flux in light of point source observations**|Lena Saurenhaus et.al.|[2507.06110v1](http://arxiv.org/abs/2507.06110v1)|**2025-07-08**|null|
+|**2025-07-08**|**LighthouseGS: Indoor Structure-aware 3D Gaussian Splatting for Panorama-Style Mobile Captures**|Seungoh Han et.al.|[2507.06109v1](http://arxiv.org/abs/2507.06109v1)|**2025-07-08**|null|
+|**2025-07-08**|**Two-point measurement correlations beyond the quantum regression theorem**|Leonardo Santos et.al.|[2507.06088v1](http://arxiv.org/abs/2507.06088v1)|**2025-07-08**|null|
+|**2025-07-08**|**Enhancing Synthetic CT from CBCT via Multimodal Fusion and End-To-End Registration**|Maximilian Tschuchnig et.al.|[2507.06067v1](http://arxiv.org/abs/2507.06067v1)|**2025-07-08**|null|
+|**2025-07-08**|**Few-Shot Learning by Explicit Physics Integration: An Application to Groundwater Heat Transport**|Julia Pelzer et.al.|[2507.06062v1](http://arxiv.org/abs/2507.06062v1)|**2025-07-08**|null|
+|**2025-07-08**|**Estimating prevalence with precision and accuracy**|Aime Bienfait Igiraneza et.al.|[2507.06061v1](http://arxiv.org/abs/2507.06061v1)|**2025-07-08**|null|
+|**2025-07-08**|**Fredholm Neural Networks for forward and inverse problems in elliptic PDEs**|Kyriakos Georgiou et.al.|[2507.06038v1](http://arxiv.org/abs/2507.06038v1)|**2025-07-08**|null|
+|**2025-07-08**|**Liquid-Gas Criticality of Hyperuniform Fluids**|Shang Gao et.al.|[2507.06023v1](http://arxiv.org/abs/2507.06023v1)|**2025-07-08**|null|
+|**2025-07-08**|**Cluster-diagrammatic D-TRILEX approach to non-local electronic correlations**|Félix Fossati et.al.|[2507.06015v1](http://arxiv.org/abs/2507.06015v1)|**2025-07-08**|null|
+|**2025-07-08**|**Geo-Registration of Terrestrial LiDAR Point Clouds with Satellite Images without GNSS**|Xinyu Wang et.al.|[2507.05999v1](http://arxiv.org/abs/2507.05999v1)|**2025-07-08**|null|
+|**2025-07-08**|**Finite-size scaling of percolation on scale-free networks**|Xuewei Zhao et.al.|[2507.05998v1](http://arxiv.org/abs/2507.05998v1)|**2025-07-08**|null|
+|**2025-07-08**|**Drag modelling for flows through assemblies of spherical particles with machine learning: A comparison of approaches**|Julia Reuter et.al.|[2507.05983v1](http://arxiv.org/abs/2507.05983v1)|**2025-07-08**|null|
+|**2025-07-08**|**Second-Order Conductivity Probes a Cascade of Singularities in a Moiré Superlattice**|Tanweer Ahmed et.al.|[2507.05969v1](http://arxiv.org/abs/2507.05969v1)|**2025-07-08**|null|
+|**2025-07-08**|**Light Induced Half-Metallic Phase in Insulators and Correlated Metals**|Suryashekhar Kusari et.al.|[2507.05935v1](http://arxiv.org/abs/2507.05935v1)|**2025-07-08**|null|
