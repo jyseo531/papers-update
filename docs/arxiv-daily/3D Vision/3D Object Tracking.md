@@ -1,34 +1,15 @@
+# 3D Object Tracking
 
-### 3D Object Tracking
-|Publish Date|Title|Authors|PDF|Last Updated|Code|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-08**|**Learning to Track Any Points from Human Motion**|Inès Hyeonsu Kim et.al.|[2507.06233v1](http://arxiv.org/abs/2507.06233v1)|**2025-07-08**|null|
-|**2025-07-08**|**Feed-Forward SceneDINO for Unsupervised Semantic Scene Completion**|Aleksandar Jevtić et.al.|[2507.06230v1](http://arxiv.org/abs/2507.06230v1)|**2025-07-08**|null|
-|**2025-07-08**|**EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow**|Yixiang Chen et.al.|[2507.06224v1](http://arxiv.org/abs/2507.06224v1)|**2025-07-08**|null|
-|**2025-07-08**|**What ZTF Saw Where Rubin Looked: Anomaly Hunting in DR23**|Maria V. Pruzhinskaya et.al.|[2507.06217v1](http://arxiv.org/abs/2507.06217v1)|**2025-07-08**|null|
-|**2025-07-08**|**Structural and rigidity properties of Lie skew braces**|Marco Damele et.al.|[2507.06214v1](http://arxiv.org/abs/2507.06214v1)|**2025-07-08**|null|
-|**2025-07-08**|**Direct imaging discovery of a young giant planet orbiting on Solar System scales**|T. Stolker et.al.|[2507.06206v1](http://arxiv.org/abs/2507.06206v1)|**2025-07-08**|null|
-|**2025-07-08**|**A Generalized $\ell_1$-Merit Function SQP Method Using Function Approximations with Tunable Accuracy**|Dane S. Grundvig et.al.|[2507.06199v1](http://arxiv.org/abs/2507.06199v1)|**2025-07-08**|null|
-|**2025-07-08**|**DS@GT at CheckThat! 2025: Detecting Subjectivity via Transfer-Learning and Corrective Data Augmentation**|Maximilian Heil et.al.|[2507.06189v1](http://arxiv.org/abs/2507.06189v1)|**2025-07-08**|null|
-|**2025-07-08**|**IceCat-2: Updated IceCube Event Catalog of Alert Tracks**|Angela Zegarelli et.al.|[2507.06176v1](http://arxiv.org/abs/2507.06176v1)|**2025-07-08**|null|
-|**2025-07-08**|**OmniPart: Part-Aware 3D Generation with Semantic Decoupling and Structural Cohesion**|Yunhan Yang et.al.|[2507.06165v1](http://arxiv.org/abs/2507.06165v1)|**2025-07-08**|null|
-|**2025-07-08**|**Normalizing Diffusion Kernels with Optimal Transport**|Nathan Kessler et.al.|[2507.06161v1](http://arxiv.org/abs/2507.06161v1)|**2025-07-08**|null|
-|**2025-07-08**|**Aliasing in Convnets: A Frame-Theoretic Perspective**|Daniel Haider et.al.|[2507.06152v1](http://arxiv.org/abs/2507.06152v1)|**2025-07-08**|null|
-|**2025-07-08**|**Fast and Accurate Collision Probability Estimation for Autonomous Vehicles using Adaptive Sigma-Point Sampling**|Charles Champagne Cossette et.al.|[2507.06149v1](http://arxiv.org/abs/2507.06149v1)|**2025-07-08**|null|
-|**2025-07-08**|**Prompt-Free Conditional Diffusion for Multi-object Image Augmentation**|Haoyu Wang et.al.|[2507.06146v1](http://arxiv.org/abs/2507.06146v1)|**2025-07-08**|null|
-|**2025-07-08**|**Non-linear stability analysis of $\ell$-Proca stars**|Claudio Lazarte et.al.|[2507.06145v1](http://arxiv.org/abs/2507.06145v1)|**2025-07-08**|null|
-|**2025-07-08**|**The HI-to-H2 transition in the Draco cloud**|Nicola Schneider et.al.|[2507.06131v1](http://arxiv.org/abs/2507.06131v1)|**2025-07-08**|null|
-|**2025-07-08**|**Subspace-based Approximate Hessian Method for Zeroth-Order Optimization**|Dongyoon Kim et.al.|[2507.06125v1](http://arxiv.org/abs/2507.06125v1)|**2025-07-08**|null|
-|**2025-07-08**|**A Bayesian circular mixed-effects model for explaining variability in directional movement in American football**|Quang Nguyen et.al.|[2507.06122v1](http://arxiv.org/abs/2507.06122v1)|**2025-07-08**|null|
-|**2025-07-08**|**LighthouseGS: Indoor Structure-aware 3D Gaussian Splatting for Panorama-Style Mobile Captures**|Seungoh Han et.al.|[2507.06109v1](http://arxiv.org/abs/2507.06109v1)|**2025-07-08**|null|
-|**2025-07-08**|**Reflections Unlock: Geometry-Aware Reflection Disentanglement in 3D Gaussian Splatting for Photorealistic Scenes Rendering**|Jiayi Song et.al.|[2507.06103v1](http://arxiv.org/abs/2507.06103v1)|**2025-07-08**|null|
-|**2025-07-08**|**Magnetic White Dwarfs in the SDSS 100 pc Sample: Further Evidence of Two Formation Channels**|Adam Moss et.al.|[2507.06102v1](http://arxiv.org/abs/2507.06102v1)|**2025-07-08**|null|
-|**2025-07-08**|**Traveling waves in a continuum model for schooling swimmers**|Anand U. Oza et.al.|[2507.06095v1](http://arxiv.org/abs/2507.06095v1)|**2025-07-08**|null|
-|**2025-07-08**|**Combining IceCube Muon Tracks and Cascades to measure the Galactic Diffuse Neutrino Flux**|Jonas Hellrung et.al.|[2507.06089v1](http://arxiv.org/abs/2507.06089v1)|**2025-07-08**|null|
-|**2025-07-08**|**Discontinuity-aware Normal Integration for Generic Central Camera Models**|Francesco Milano et.al.|[2507.06075v1](http://arxiv.org/abs/2507.06075v1)|**2025-07-08**|null|
-|**2025-07-08**|**MEDTalk: Multimodal Controlled 3D Facial Animation with Dynamic Emotions by Disentangled Embedding**|Chang Liu et.al.|[2507.06071v1](http://arxiv.org/abs/2507.06071v1)|**2025-07-08**|null|
-|**2025-07-08**|**VisualSpeaker: Visually-Guided 3D Avatar Lip Synthesis**|Alexandre Symeonidis-Herzig et.al.|[2507.06060v1](http://arxiv.org/abs/2507.06060v1)|**2025-07-08**|null|
-|**2025-07-08**|**Analysis of RF Sheath-Driven Tungsten Erosion at RF Antenna in the WEST Tokamak**|A. Kumar et.al.|[2507.06059v1](http://arxiv.org/abs/2507.06059v1)|**2025-07-08**|null|
-|**2025-07-08**|**Rotation dynamics and torque efficiency of cometary nuclei**|Matthias Laeuter et.al.|[2507.06036v1](http://arxiv.org/abs/2507.06036v1)|**2025-07-08**|null|
-|**2025-07-08**|**Rethinking Pricing in Energy Markets: Pay-as-Bid vs Pay-as-Clear**|Ioannis Caragiannis et.al.|[2507.06035v1](http://arxiv.org/abs/2507.06035v1)|**2025-07-08**|null|
-|**2025-07-08**|**CogniSQL-R1-Zero: Lightweight Reinforced Reasoning for Efficient SQL Generation**|Kushal Gajjar et.al.|[2507.06013v1](http://arxiv.org/abs/2507.06013v1)|**2025-07-08**|null|
+| Publish Date | Title | Authors | PDF | Code |
+|-------------|----------------|-------------|------|------|
+|**2025-05-18**|**DIMM: Decoupled Multi-hierarchy Kalman Filter for 3D Object Tracking**|Jirong Zha et.al.|[2505.12340v1](http://arxiv.org/abs/2505.12340v1)|null|
+|**2025-04-25**|**S3MOT: Monocular 3D Object Tracking with Selective State Space Model**|Zhuohao Yan et.al.|[2504.18068v1](http://arxiv.org/abs/2504.18068v1)|null|
+|**2025-04-17**|**Self-Supervised Pre-training with Combined Datasets for 3D Perception in Autonomous Driving**|Shumin Wang et.al.|[2504.12709v1](http://arxiv.org/abs/2504.12709v1)|null|
+|**2025-03-20**|**Dynamic Point Maps: A Versatile Representation for Dynamic 3D Reconstruction**|Edgar Sucar et.al.|[2503.16318v1](http://arxiv.org/abs/2503.16318v1)|null|
+|**2025-03-11**|**TrackOcc: Camera-based 4D Panoptic Occupancy Tracking**|Zhuoguang Chen et.al.|[2503.08471v1](http://arxiv.org/abs/2503.08471v1)|**[link](https://github.com/tsinghua-mars-lab/trackocc)**|
+|**2025-03-06**|**A Modular Pipeline for 3D Object Tracking Using RGB Cameras**|Lars Bredereke et.al.|[2503.04322v1](http://arxiv.org/abs/2503.04322v1)|**[link](https://github.com/larsbredereke/object_tracking)**|
+|**2024-12-03**|**GSOT3D: Towards Generic 3D Single Object Tracking in the Wild**|Yifan Jiao et.al.|[2412.02129v1](http://arxiv.org/abs/2412.02129v1)|**[link](https://github.com/ailovejinx/gsot3d)**|
+|**2024-10-28**|**Evaluating the Robustness of LiDAR Point Cloud Tracking Against Adversarial Attack**|Shengjing Tian et.al.|[2410.20893v2](http://arxiv.org/abs/2410.20893v2)|null|
+|**2024-08-14**|**Panacea+: Panoramic and Controllable Video Generation for Autonomous Driving**|Yuqing Wen et.al.|[2408.07605v1](http://arxiv.org/abs/2408.07605v1)|null|
+|**2024-08-05**|**VoxelTrack: Exploring Voxel Representation for 3D Point Cloud Object Tracking**|Yuxuan Lu et.al.|[2408.02263v1](http://arxiv.org/abs/2408.02263v1)|null|
+

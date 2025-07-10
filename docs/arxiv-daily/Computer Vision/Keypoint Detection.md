@@ -2,6 +2,12 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-09**|**Reading a Ruler in the Wild**|Yimu Pan et.al.|[2507.07077v1](http://arxiv.org/abs/2507.07077v1)|**2025-07-09**|null|
+|**2025-07-09**|**Real-space understanding of electron-phonon coupling in superconducting hydrides**|Trinidad Novoa et.al.|[2507.06749v1](http://arxiv.org/abs/2507.06749v1)|**2025-07-09**|null|
+|**2025-07-09**|**MK-Pose: Category-Level Object Pose Estimation via Multimodal-Based Keypoint Learning**|Yifan Yang et.al.|[2507.06662v1](http://arxiv.org/abs/2507.06662v1)|**2025-07-09**|null|
+|**2025-07-09**|**Learning from Sparse Point Labels for Dense Carcinosis Localization in Advanced Ovarian Cancer Assessment**|Farahdiba Zarin et.al.|[2507.06643v1](http://arxiv.org/abs/2507.06643v1)|**2025-07-09**|null|
+|**2025-07-09**|**ILNet: Trajectory Prediction with Inverse Learning Attention for Enhancing Intention Capture**|Mingjin Zeng et.al.|[2507.06531v1](http://arxiv.org/abs/2507.06531v1)|**2025-07-09**|null|
+|**2025-07-09**|**Speak2Sign3D: A Multi-modal Pipeline for English Speech to American Sign Language Animation**|Kazi Mahathir Rahman et.al.|[2507.06530v1](http://arxiv.org/abs/2507.06530v1)|**2025-07-09**|null|
 |**2025-07-07**|**Spatial and Semantic Embedding Integration for Stereo Sound Event Localization and Detection in Regular Videos**|Davide Berghi et.al.|[2507.04845v1](http://arxiv.org/abs/2507.04845v1)|**2025-07-07**|null|
 |**2025-07-07**|**RIPE: Reinforcement Learning on Unlabeled Image Pairs for Robust Keypoint Extraction**|Johannes Künzel et.al.|[2507.04839v1](http://arxiv.org/abs/2507.04839v1)|**2025-07-07**|null|
 |**2025-07-06**|**MoReMouse: Monocular Reconstruction of Laboratory Mouse**|Yuan Zhong et.al.|[2507.04258v1](http://arxiv.org/abs/2507.04258v1)|**2025-07-06**|null|
@@ -26,9 +32,3 @@
 |**2025-06-30**|**Nine circles of elastic brittle fracture: A series of challenge problems to assess fracture models**|Farhad Kamarei et.al.|[2507.00266v2](http://arxiv.org/abs/2507.00266v2)|**2025-07-03**|null|
 |**2025-06-30**|**HiNeuS: High-fidelity Neural Surface Mitigating Low-texture and Reflective Ambiguity**|Yida Wang et.al.|[2506.23854v1](http://arxiv.org/abs/2506.23854v1)|**2025-06-30**|null|
 |**2025-06-29**|**RoboScape: Physics-informed Embodied World Model**|Yu Shang et.al.|[2506.23135v1](http://arxiv.org/abs/2506.23135v1)|**2025-06-29**|null|
-|**2025-06-29**|**Insights into Ionic Diffusion in C-S-H Gel Pore from MD Simulations: Spatial Distributions, Energy Barriers, and Structural Descriptor**|Weiqiang Chen et.al.|[2506.23089v1](http://arxiv.org/abs/2506.23089v1)|**2025-06-29**|null|
-|**2025-06-28**|**SemFaceEdit: Semantic Face Editing on Generative Radiance Manifolds**|Shashikant Verma et.al.|[2506.22833v1](http://arxiv.org/abs/2506.22833v1)|**2025-06-28**|null|
-|**2025-06-28**|**Learning Efficient Robotic Garment Manipulation with Standardization**|Changshi Zhou et.al.|[2506.22769v1](http://arxiv.org/abs/2506.22769v1)|**2025-06-28**|null|
-|**2025-06-28**|**Deterministic Object Pose Confidence Region Estimation**|Jinghao Wang et.al.|[2506.22720v1](http://arxiv.org/abs/2506.22720v1)|**2025-06-28**|null|
-|**2025-06-28**|**The diffuse supernova neutrino background: a modern approach**|Cecilia Lunardini et.al.|[2506.22699v1](http://arxiv.org/abs/2506.22699v1)|**2025-06-28**|null|
-|**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336v1](http://arxiv.org/abs/2506.22336v1)|**2025-06-27**|null|
