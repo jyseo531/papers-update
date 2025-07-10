@@ -24,10 +24,10 @@
 |**2025-07-08**|**Enhancing Synthetic CT from CBCT via Multimodal Fusion and End-To-End Registration**|Maximilian Tschuchnig et.al.|[2507.06067v1](http://arxiv.org/abs/2507.06067v1)|**2025-07-08**|null|
 |**2025-07-08**|**Few-Shot Learning by Explicit Physics Integration: An Application to Groundwater Heat Transport**|Julia Pelzer et.al.|[2507.06062v1](http://arxiv.org/abs/2507.06062v1)|**2025-07-08**|null|
 |**2025-07-08**|**Estimating prevalence with precision and accuracy**|Aime Bienfait Igiraneza et.al.|[2507.06061v1](http://arxiv.org/abs/2507.06061v1)|**2025-07-08**|null|
-|**2025-07-08**|**Fredholm Neural Networks for forward and inverse problems in elliptic PDEs**|Kyriakos Georgiou et.al.|[2507.06038v1](http://arxiv.org/abs/2507.06038v1)|**2025-07-08**|null|
+|**2025-07-08**|**Fredholm Neural Networks for forward and inverse problems in elliptic PDEs**|Kyriakos Georgiou et.al.|[2507.06038v2](http://arxiv.org/abs/2507.06038v2)|**2025-07-09**|null|
 |**2025-07-08**|**Liquid-Gas Criticality of Hyperuniform Fluids**|Shang Gao et.al.|[2507.06023v1](http://arxiv.org/abs/2507.06023v1)|**2025-07-08**|null|
 |**2025-07-08**|**Cluster-diagrammatic D-TRILEX approach to non-local electronic correlations**|Félix Fossati et.al.|[2507.06015v1](http://arxiv.org/abs/2507.06015v1)|**2025-07-08**|null|
-|**2025-07-08**|**Geo-Registration of Terrestrial LiDAR Point Clouds with Satellite Images without GNSS**|Xinyu Wang et.al.|[2507.05999v1](http://arxiv.org/abs/2507.05999v1)|**2025-07-08**|null|
+|**2025-07-08**|**Geo-Registration of Terrestrial LiDAR Point Clouds with Satellite Images without GNSS**|Xinyu Wang et.al.|[2507.05999v2](http://arxiv.org/abs/2507.05999v2)|**2025-07-09**|null|
 |**2025-07-08**|**Finite-size scaling of percolation on scale-free networks**|Xuewei Zhao et.al.|[2507.05998v1](http://arxiv.org/abs/2507.05998v1)|**2025-07-08**|null|
 |**2025-07-08**|**Drag modelling for flows through assemblies of spherical particles with machine learning: A comparison of approaches**|Julia Reuter et.al.|[2507.05983v1](http://arxiv.org/abs/2507.05983v1)|**2025-07-08**|null|
 |**2025-07-08**|**Second-Order Conductivity Probes a Cascade of Singularities in a Moiré Superlattice**|Tanweer Ahmed et.al.|[2507.05969v1](http://arxiv.org/abs/2507.05969v1)|**2025-07-08**|null|

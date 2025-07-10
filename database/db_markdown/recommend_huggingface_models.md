@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-07-09
+Updated on 2025-07-10
 
 > Generated from the Hugging Face database.
 
@@ -1751,6 +1751,7 @@ Updated on 2025-07-09
 | 20 | 14 | lusxvr/nanoVLM-222MImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/lusxvr/nanoVLM-222M) |
 | 501 | 14 | CEIA-UFG/Gemma-3-Gaia-PT-BR-4b-itImage-Text-to-Text | Updatedabout 22 hours ago | [Link](https://huggingface.co/CEIA-UFG/Gemma-3-Gaia-PT-BR-4b-it) |
 | 2.16k | 14 | unsloth/Mistral-Small-3 | Updatedabout 9 hours ago | [Link](https://huggingface.co/unsloth/Mistral-Small-3.2-24B-Instruct-2506-GGUF) |
+| Updated23 minutes ago | 14 | google/medgemma-27b-itImage-Text-to-Text | 29B | [Link](https://huggingface.co/google/medgemma-27b-it) |
 | 582 | 13 | google/gemma-3-4b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-4b-pt) |
 | 4.2k | 13 | mlabonne/gemma-3-12b-it-abliterated-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-12b-it-abliterated-GGUF) |
 | 10.7k | 13 | unsloth/Llama-4-Maverick-17B-128E-Instruct-GGUFImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/unsloth/Llama-4-Maverick-17B-128E-Instruct-GGUF) |
@@ -1825,6 +1826,7 @@ Updated on 2025-07-09
 | 338 | 7 | allenai/olmOCR-7B-0225-preview-FP8Image-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview-FP8) |
 | 160 | 6 | MIL-UT/Asagi-14BImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/MIL-UT/Asagi-14B) |
 | 168 | 5 | MBZUAI/AINImage-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/MBZUAI/AIN) |
+| Updatedabout 9 hours ago | 5 | Skywork/Skywork-R1V3-38BImage-Text-to-Text | 38B | [Link](https://huggingface.co/Skywork/Skywork-R1V3-38B) |
 | 2.72k | 1.62k | microsoft/OmniParserImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/microsoft/OmniParser) |
 | 100k | 1.4k | stepfun-ai/GOT-OCR2_0Image-Text-to-Text | Updated21 days ago | [Link](https://huggingface.co/stepfun-ai/GOT-OCR2_0) |
 | 1.78M | 1.42k | microsoft/Florence-2-largeImage-Text-to-Text | UpdatedDec 8, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-large) |
@@ -2131,14 +2133,17 @@ Updated on 2025-07-09
 | 94 |  | fal/Pencil-Drawing-Kontext-Dev-LoRAImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/fal/Pencil-Drawing-Kontext-Dev-LoRA) |
 | 77 |  | Kontext-Style/Line_loraImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/Kontext-Style/Line_lora) |
 | 68 |  | Kontext-Style/Rick_Morty_loraImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/Kontext-Style/Rick_Morty_lora) |
+| 54 |  | fal/Minimalist-Art-Kontext-Dev-LoRAImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/fal/Minimalist-Art-Kontext-Dev-LoRA) |
 
 ## Image-to-Text
 
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
 | UpdatedApr 28 | 631 | Hyphonical/Pixtral-12B-Captioner-Relaxed-Q4_K_M-GGUFImage-to-Text | 12B | [Link](https://huggingface.co/Hyphonical/Pixtral-12B-Captioner-Relaxed-Q4_K_M-GGUF) |
+| Updated1 day ago | 570 | HelloKKMe/GTA1-7BImage-to-Text | 8B | [Link](https://huggingface.co/HelloKKMe/GTA1-7B) |
 | UpdatedAug 26, 2024 | 467 | LeroyDyer/SpydazWebAI_Image_ProjectorsImage-to-Text | 7B | [Link](https://huggingface.co/LeroyDyer/SpydazWebAI_Image_Projectors) |
 | 7.46k | 213 | xtuner/llava-llama-3-8b-v1_1-ggufImage-to-Text | UpdatedApr 30, 2024 | [Link](https://huggingface.co/xtuner/llava-llama-3-8b-v1_1-gguf) |
+| Updated1 day ago | 163 | HelloKKMe/GTA1-72BImage-to-Text | 73B | [Link](https://huggingface.co/HelloKKMe/GTA1-72B) |
 | 170k | 159 | microsoft/kosmos-2-patch14-224Image-to-Text | UpdatedNov 28, 2023 | [Link](https://huggingface.co/microsoft/kosmos-2-patch14-224) |
 | Updated27 days ago | 154k | nvidia/Cosmos-Reason1-7BImage-to-Text | 8B | [Link](https://huggingface.co/nvidia/Cosmos-Reason1-7B) |
 | 1.69k | 134 | xtuner/llava-phi-3-mini-ggufImage-to-Text | UpdatedApr 29, 2024 | [Link](https://huggingface.co/xtuner/llava-phi-3-mini-gguf) |
@@ -2216,6 +2221,7 @@ Updated on 2025-07-09
 | 55 | 3 | sbintuitions/sarashina2-vision-8bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-8b) |
 | 720 | 3 | zhiyuanyou/DeQA-Score-Mix3Image-to-Text | UpdatedMar 25 | [Link](https://huggingface.co/zhiyuanyou/DeQA-Score-Mix3) |
 | 22 | 3 | kusumakar/hashtagGeneraterImage-to-Text | UpdatedJul 15, 2023 | [Link](https://huggingface.co/kusumakar/hashtagGenerater) |
+| Updatedabout 21 hours ago | 3 | allura-org/MS3 | 24B | [Link](https://huggingface.co/allura-org/MS3.2-24b-Angel) |
 | 51 | 2 | microsoft/git-base-msrvtt-qaImage-to-Text | UpdatedApr 4, 2024 | [Link](https://huggingface.co/microsoft/git-base-msrvtt-qa) |
 | 32 | 2 | baseplate/vit-gpt2-image-captioningImage-to-Text | UpdatedApr 5, 2023 | [Link](https://huggingface.co/baseplate/vit-gpt2-image-captioning) |
 | 38 | 2 | sbintuitions/sarashina2-vision-14bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-14b) |
@@ -3940,6 +3946,7 @@ Updated on 2025-07-09
 | 197 | 18 | tiiuae/Falcon-E-3B-InstructText | Updated1 day ago | [Link](https://huggingface.co/tiiuae/Falcon-E-3B-Instruct) |
 | 2.11k | 18 | FractalAIResearch/Fathom-R1-14BText | Updatedabout 1 hour ago | [Link](https://huggingface.co/FractalAIResearch/Fathom-R1-14B) |
 | 224 | 18 | DeepMount00/Murai-350M-v0 | Updated2 days ago | [Link](https://huggingface.co/DeepMount00/Murai-350M-v0.1-beta) |
+| Updated28 days ago | 18 | microsoft/NextCoder-7BText | 8B | [Link](https://huggingface.co/microsoft/NextCoder-7B) |
 | 60 | 17 | open-thoughts/OpenThinker2-32BText | Updated1 day ago | [Link](https://huggingface.co/open-thoughts/OpenThinker2-32B) |
 | 274 | 17 | microsoft/MAI-DS-R1-FP8Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/microsoft/MAI-DS-R1-FP8) |
 | 40 | 17 | nvidia/OpenMath-Nemotron-32BText | Updated1 day ago | [Link](https://huggingface.co/nvidia/OpenMath-Nemotron-32B) |

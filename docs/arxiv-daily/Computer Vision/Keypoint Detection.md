@@ -8,7 +8,7 @@
 |**2025-07-06**|**Grid-Reg: Grid-Based SAR and Optical Image Registration Across Platforms**|Xiaochen Wei et.al.|[2507.04233v1](http://arxiv.org/abs/2507.04233v1)|**2025-07-06**|null|
 |**2025-07-05**|**Combining Graph Neural Networks and Mixed Integer Linear Programming for Molecular Inference under the Two-Layered Model**|Jianshen Zhu et.al.|[2507.03920v1](http://arxiv.org/abs/2507.03920v1)|**2025-07-05**|null|
 |**2025-07-04**|**Query-Based Adaptive Aggregation for Multi-Dataset Joint Training Toward Universal Visual Place Recognition**|Jiuhong Xiao et.al.|[2507.03831v1](http://arxiv.org/abs/2507.03831v1)|**2025-07-04**|null|
-|**2025-07-04**|**Beyond Accuracy: Metrics that Uncover What Makes a `Good' Visual Descriptor**|Ethan Lin et.al.|[2507.03542v1](http://arxiv.org/abs/2507.03542v1)|**2025-07-04**|null|
+|**2025-07-04**|**Beyond Accuracy: Metrics that Uncover What Makes a 'Good' Visual Descriptor**|Ethan Lin et.al.|[2507.03542v2](http://arxiv.org/abs/2507.03542v2)|**2025-07-09**|null|
 |**2025-07-04**|**Molecular Machine Learning Using Euler Characteristic Transforms**|Victor Toscano-Duran et.al.|[2507.03474v1](http://arxiv.org/abs/2507.03474v1)|**2025-07-04**|null|
 |**2025-07-04**|**Helping CLIP See Both the Forest and the Trees: A Decomposition and Description Approach**|Leyan Xue et.al.|[2507.03458v1](http://arxiv.org/abs/2507.03458v1)|**2025-07-04**|null|
 |**2025-07-04**|**Pose-Star: Anatomy-Aware Editing for Open-World Fashion Images**|Yuran Dong et.al.|[2507.03402v1](http://arxiv.org/abs/2507.03402v1)|**2025-07-04**|null|

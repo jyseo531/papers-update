@@ -21,7 +21,7 @@
 |**2025-07-08**|**TextPixs: Glyph-Conditioned Diffusion with Character-Aware Attention and OCR-Guided Supervision**|Syeda Anshrah Gillani et.al.|[2507.06033v1](http://arxiv.org/abs/2507.06033v1)|**2025-07-08**|null|
 |**2025-07-08**|**CogniSQL-R1-Zero: Lightweight Reinforced Reasoning for Efficient SQL Generation**|Kushal Gajjar et.al.|[2507.06013v1](http://arxiv.org/abs/2507.06013v1)|**2025-07-08**|null|
 |**2025-07-08**|**The Impact of Event Data Partitioning on Privacy-aware Process Discovery**|Jungeun Lim et.al.|[2507.06008v1](http://arxiv.org/abs/2507.06008v1)|**2025-07-08**|null|
-|**2025-07-08**|**Geo-Registration of Terrestrial LiDAR Point Clouds with Satellite Images without GNSS**|Xinyu Wang et.al.|[2507.05999v1](http://arxiv.org/abs/2507.05999v1)|**2025-07-08**|null|
+|**2025-07-08**|**Geo-Registration of Terrestrial LiDAR Point Clouds with Satellite Images without GNSS**|Xinyu Wang et.al.|[2507.05999v2](http://arxiv.org/abs/2507.05999v2)|**2025-07-09**|null|
 |**2025-07-08**|**Exploring Partial Multi-Label Learning via Integrating Semantic Co-occurrence Knowledge**|Xin Wu et.al.|[2507.05992v1](http://arxiv.org/abs/2507.05992v1)|**2025-07-08**|null|
 |**2025-07-08**|**AURA-CVC: Autonomous Ultrasound-guided Robotic Assistance for Central Venous Catheterization**|Deepak Raina et.al.|[2507.05979v1](http://arxiv.org/abs/2507.05979v1)|**2025-07-08**|null|
 |**2025-07-08**|**FineGrasp: Towards Robust Grasping for Delicate Objects**|Yun Du et.al.|[2507.05978v1](http://arxiv.org/abs/2507.05978v1)|**2025-07-08**|null|
