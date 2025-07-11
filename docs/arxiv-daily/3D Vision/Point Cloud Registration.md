@@ -2,33 +2,33 @@
 ### Point Cloud Registration
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-09**|**Sensitivity and Topology of Exceptional Rings in Nonlinear Non-Hermitian Planar Optical Microcavities**|Jan Wingenbach et.al.|[2507.07099v1](http://arxiv.org/abs/2507.07099v1)|**2025-07-09**|null|
-|**2025-07-09**|**IceCube population constraints on neutrino emission by Fermi-LAT detected active galactic nuclei**|Sam Hori et.al.|[2507.07098v1](http://arxiv.org/abs/2507.07098v1)|**2025-07-09**|null|
-|**2025-07-09**|**Numbers with three close factorizations and central lattice points on hyperbolas**|Tsz Ho Chan et.al.|[2507.07094v1](http://arxiv.org/abs/2507.07094v1)|**2025-07-09**|null|
-|**2025-07-09**|**Monodromy Representations: Decomposing Rank-Three Bundles over the Projective Line with Three Marked Points**|Diego Yépez et.al.|[2507.07080v1](http://arxiv.org/abs/2507.07080v1)|**2025-07-09**|null|
-|**2025-07-09**|**Temperature induced tipping in a two box ocean circulation model**|Jasmine Noory et.al.|[2507.07078v1](http://arxiv.org/abs/2507.07078v1)|**2025-07-09**|null|
-|**2025-07-09**|**An AI Approach for Learning the Spectrum of the Laplace-Beltrami Operator**|Yulin An et.al.|[2507.07073v1](http://arxiv.org/abs/2507.07073v1)|**2025-07-09**|null|
-|**2025-07-09**|**Exciton transport driven by spin excitations in an antiferromagnet**|Florian Dirnberger et.al.|[2507.07071v2](http://arxiv.org/abs/2507.07071v2)|**2025-07-10**|null|
-|**2025-07-09**|**Influence of interstellar environment near the solar system on cosmic-ray spectra and dipole anisotropy**|Zhangxi Xue et.al.|[2507.07057v1](http://arxiv.org/abs/2507.07057v1)|**2025-07-09**|null|
-|**2025-07-09**|**Classifying integral Grothendieck rings up to rank 5 and beyond**|Max A. Alekseyev et.al.|[2507.07023v1](http://arxiv.org/abs/2507.07023v1)|**2025-07-09**|null|
-|**2025-07-09**|**Early Warning From Eccentric Compact Binaries: Template Initialization And Sub-dominant Mode Effects**|Priyanka Sinha et.al.|[2507.07021v1](http://arxiv.org/abs/2507.07021v1)|**2025-07-09**|null|
-|**2025-07-09**|**First Return, Entropy-Eliciting Explore**|Tianyu Zheng et.al.|[2507.07017v1](http://arxiv.org/abs/2507.07017v1)|**2025-07-09**|null|
-|**2025-07-09**|**Sloan Digital Sky Survey-V: Pioneering Panoptic Spectroscopy**|Juna A. Kollmeier et.al.|[2507.06989v1](http://arxiv.org/abs/2507.06989v1)|**2025-07-09**|null|
-|**2025-07-09**|**A Principled Framework for Multi-View Contrastive Learning**|Panagiotis Koromilas et.al.|[2507.06979v1](http://arxiv.org/abs/2507.06979v1)|**2025-07-09**|null|
-|**2025-07-09**|**Segmentation Regularized Training for Multi-Domain Deep Learning Registration applied to MR-Guided Prostate Cancer Radiotherapy**|Sudharsan Madhavan et.al.|[2507.06966v1](http://arxiv.org/abs/2507.06966v1)|**2025-07-09**|null|
-|**2025-07-09**|**A hybrid dosimetry approach for remote audits in Ir-192 HDR interstitial brachytherapy: Development and pilot implementation**|Eleftherios P Pappas et.al.|[2507.06958v1](http://arxiv.org/abs/2507.06958v1)|**2025-07-09**|null|
-|**2025-07-09**|**Probabilistic thresholds of turbulence decay in transitional shear flows**|Daniel Morón et.al.|[2507.06918v1](http://arxiv.org/abs/2507.06918v1)|**2025-07-09**|null|
-|**2025-07-09**|**Existence of simple non-cyclic abelian varieties over arbitrary finite fields and of a given dimension $g>1$**|Alejandro J. Giangreco Maidana et.al.|[2507.06916v1](http://arxiv.org/abs/2507.06916v1)|**2025-07-09**|null|
-|**2025-07-09**|**Beyond Connectivity: An Open Architecture for AI-RAN Convergence in 6G**|Michele Polese et.al.|[2507.06911v1](http://arxiv.org/abs/2507.06911v1)|**2025-07-09**|null|
-|**2025-07-09**|**SemRaFiner: Panoptic Segmentation in Sparse and Noisy Radar Point Clouds**|Matthias Zeller et.al.|[2507.06906v1](http://arxiv.org/abs/2507.06906v1)|**2025-07-09**|null|
-|**2025-07-09**|**Reversibility, balance and expansivity of non-uniform cellular automata**|Katariina Paturi et.al.|[2507.06896v1](http://arxiv.org/abs/2507.06896v1)|**2025-07-09**|null|
-|**2025-07-09**|**A Single-Point Measurement Framework for Robust Cyber-Attack Diagnosis in Smart Microgrids Using Dual Fractional-Order Feature Analysis**|Yifan Wang et.al.|[2507.06890v1](http://arxiv.org/abs/2507.06890v1)|**2025-07-09**|null|
-|**2025-07-09**|**Discovery of High-Temperature Charge Order and Time-Reversal Symmetry-Breaking in the Kagome Superconductor YRu3Si2**|P. Kràl et.al.|[2507.06885v1](http://arxiv.org/abs/2507.06885v1)|**2025-07-09**|null|
-|**2025-07-09**|**Kummers, spinors, and heights**|Jef Laga et.al.|[2507.06865v1](http://arxiv.org/abs/2507.06865v1)|**2025-07-09**|null|
-|**2025-07-09**|**Renormalised Models for Variable Coefficient Singular SPDEs**|Lucas Broux et.al.|[2507.06851v1](http://arxiv.org/abs/2507.06851v1)|**2025-07-09**|null|
-|**2025-07-09**|**OpenDPDv2: A Unified Learning and Optimization Framework for Neural Network Digital Predistortion**|Yizhuo Wu et.al.|[2507.06849v1](http://arxiv.org/abs/2507.06849v1)|**2025-07-09**|null|
-|**2025-07-09**|**Connecting the Unconnected -- Sentiment Analysis of Field Survey of Internet Connectivity in Emerging Economies**|Dibakar Das et.al.|[2507.06827v1](http://arxiv.org/abs/2507.06827v1)|**2025-07-09**|null|
-|**2025-07-09**|**Hierarchical Reinforcement Learning for Articulated Tool Manipulation with Multifingered Hand**|Wei Xu et.al.|[2507.06822v1](http://arxiv.org/abs/2507.06822v1)|**2025-07-09**|null|
-|**2025-07-09**|**A model for baryon production in spin-dependent string fragmentation**|Albi Kerbizi et.al.|[2507.06810v1](http://arxiv.org/abs/2507.06810v1)|**2025-07-09**|null|
-|**2025-07-09**|**Guided filtering and smoothing for infinite-dimensional diffusions**|Thorben Pieper-Sethmacher et.al.|[2507.06786v1](http://arxiv.org/abs/2507.06786v1)|**2025-07-09**|null|
-|**2025-07-09**|**A derivative-free Levenberg-Marquardt method for sparse nonlinear least squares problems**|Yuchen Feng et.al.|[2507.06772v1](http://arxiv.org/abs/2507.06772v1)|**2025-07-09**|null|
+|**2025-07-10**|**PyVision: Agentic Vision with Dynamic Tooling**|Shitian Zhao et.al.|[2507.07998v1](http://arxiv.org/abs/2507.07998v1)|**2025-07-10**|null|
+|**2025-07-10**|**Baryonification II: Constraining feedback with X-ray and kinematic Sunyaev-Zel'dovich observations**|Michael Kovač et.al.|[2507.07991v1](http://arxiv.org/abs/2507.07991v1)|**2025-07-10**|null|
+|**2025-07-10**|**Multiple Axions Save High-Scale Inflation**|Dan Kondo et.al.|[2507.07973v1](http://arxiv.org/abs/2507.07973v1)|**2025-07-10**|null|
+|**2025-07-10**|**Non-holomorphic Contributions in GMSB with Adjoint Messengers**|Busra Nis et.al.|[2507.07970v1](http://arxiv.org/abs/2507.07970v1)|**2025-07-10**|null|
+|**2025-07-10**|**A Semi-Analytic model for Effects of Fuzzy Dark Matter Granule Perturbations on Orbital Motion**|Yu Zhao et.al.|[2507.07963v1](http://arxiv.org/abs/2507.07963v1)|**2025-07-10**|null|
+|**2025-07-10**|**Spin-only dynamics of the multi-species nonreciprocal Dicke model**|Joseph Jachinowski et.al.|[2507.07960v1](http://arxiv.org/abs/2507.07960v1)|**2025-07-10**|null|
+|**2025-07-10**|**Invariants of twisted current algebras and related Poisson-commutative subalgebras**|Dmitri Panyushev et.al.|[2507.07958v1](http://arxiv.org/abs/2507.07958v1)|**2025-07-10**|null|
+|**2025-07-10**|**Macroscopic dynamics of oscillator ensembles with communities, higher-order interactions, and phase lags**|Sabina Adhikari et.al.|[2507.07956v1](http://arxiv.org/abs/2507.07956v1)|**2025-07-10**|null|
+|**2025-07-10**|**Constructing Optimal Kobon Triangle Arrangements via Table Encoding, SAT Solving, and Heuristic Straightening**|Pavlo Savchuk et.al.|[2507.07951v1](http://arxiv.org/abs/2507.07951v1)|**2025-07-10**|null|
+|**2025-07-10**|**Type IIB at eight derivatives: Five-Point Axio-Dilaton Couplings**|James Liu et.al.|[2507.07934v1](http://arxiv.org/abs/2507.07934v1)|**2025-07-10**|null|
+|**2025-07-10**|**Constrained quantization for discrete distributions**|Bismark Bimpong et.al.|[2507.07923v1](http://arxiv.org/abs/2507.07923v1)|**2025-07-10**|null|
+|**2025-07-10**|**Generalised ultracategories and conceptual completeness of geometric logic**|Ali Hamad et.al.|[2507.07922v1](http://arxiv.org/abs/2507.07922v1)|**2025-07-10**|null|
+|**2025-07-10**|**Strong time-periodic solutions to a multilayered fluid-structure interaction problem**|Felix Brandt et.al.|[2507.07918v1](http://arxiv.org/abs/2507.07918v1)|**2025-07-10**|null|
+|**2025-07-10**|**Hardware-Aware Feature Extraction Quantisation for Real-Time Visual Odometry on FPGA Platforms**|Mateusz Wasala et.al.|[2507.07903v1](http://arxiv.org/abs/2507.07903v1)|**2025-07-10**|null|
+|**2025-07-10**|**Capturing quantum phase transition in the ultraviolet region by holography**|Fang-Jing Cheng et.al.|[2507.07899v1](http://arxiv.org/abs/2507.07899v1)|**2025-07-10**|null|
+|**2025-07-10**|**CO desorption from interstellar icy grains induced by IR excitation of superhydrogenated PAHs**|L. Slumstrup et.al.|[2507.07896v1](http://arxiv.org/abs/2507.07896v1)|**2025-07-10**|null|
+|**2025-07-10**|**LISTEN: Lightweight Industrial Sound-representable Transformer for Edge Notification**|Changheon Han et.al.|[2507.07879v1](http://arxiv.org/abs/2507.07879v1)|**2025-07-10**|null|
+|**2025-07-10**|**Alpay Algebra V: Multi-Layered Semantic Games and Transfinite Fixed-Point Simulation**|Bugra Kilictas et.al.|[2507.07868v1](http://arxiv.org/abs/2507.07868v1)|**2025-07-10**|null|
+|**2025-07-10**|**Dynamics of interacting cavity solitons**|Amir Leshem et.al.|[2507.07851v1](http://arxiv.org/abs/2507.07851v1)|**2025-07-10**|null|
+|**2025-07-10**|**A fast algorithm for the wave equation using time-windowed Fourier projection**|Nour G. Al Hassanieh et.al.|[2507.07823v1](http://arxiv.org/abs/2507.07823v1)|**2025-07-10**|null|
+|**2025-07-10**|**On the Effect of Instruction Tuning Loss on Generalization**|Anwoy Chatterjee et.al.|[2507.07817v1](http://arxiv.org/abs/2507.07817v1)|**2025-07-10**|null|
+|**2025-07-10**|**Vecchia approximated Bayesian heteroskedastic Gaussian processes**|Parul V. Patil et.al.|[2507.07815v1](http://arxiv.org/abs/2507.07815v1)|**2025-07-10**|null|
+|**2025-07-10**|**Probing ultra-high-energy neutrinos with the IceCube-Gen2 in-ice radio array**|Christian Glaser et.al.|[2507.07813v1](http://arxiv.org/abs/2507.07813v1)|**2025-07-10**|null|
+|**2025-07-10**|**Dissipativity-based time domain decomposition for optimal control of hyperbolic PDEs**|Bálint Farkas et.al.|[2507.07812v1](http://arxiv.org/abs/2507.07812v1)|**2025-07-10**|null|
+|**2025-07-10**|**Collaborative Human-Robot Surgery for Mandibular Angle Split Osteotomy: Optical Tracking based Approach**|Zhe Han et.al.|[2507.07794v1](http://arxiv.org/abs/2507.07794v1)|**2025-07-10**|null|
+|**2025-07-10**|**Hyperuniformity at the Absorbing State Transition: Perturbative RG for Random Organization**|Xiao Ma et.al.|[2507.07793v1](http://arxiv.org/abs/2507.07793v1)|**2025-07-10**|null|
+|**2025-07-10**|**Space-Filling Regularization for Robust and Interpretable Nonlinear State Space Models**|Hermann Klein et.al.|[2507.07792v1](http://arxiv.org/abs/2507.07792v1)|**2025-07-10**|null|
+|**2025-07-10**|**Reversible local strain engineering of $\mathrm{WS}_2$ using a micro-mechanical spring**|Eric Herrmann et.al.|[2507.07784v1](http://arxiv.org/abs/2507.07784v1)|**2025-07-10**|null|
+|**2025-07-10**|**Temporal and spatial separations between spin glass and short-range order**|Margarita G. Dronova et.al.|[2507.07783v1](http://arxiv.org/abs/2507.07783v1)|**2025-07-10**|null|
+|**2025-07-10**|**A study on preservation of parallel pairs and triangle equality attainment pairs**|Jayanta Manna et.al.|[2507.07774v1](http://arxiv.org/abs/2507.07774v1)|**2025-07-10**|null|

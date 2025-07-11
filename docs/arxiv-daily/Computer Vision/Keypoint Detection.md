@@ -2,6 +2,13 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-10**|**Doodle Your Keypoints: Sketch-Based Few-Shot Keypoint Detection**|Subhajit Maity et.al.|[2507.07994v1](http://arxiv.org/abs/2507.07994v1)|**2025-07-10**|null|
+|**2025-07-10**|**Growth of Structural Lengthscale in Kob Andersen Binary Mixtures: Role of medium range order**|Sanket Kumawat et.al.|[2507.07819v1](http://arxiv.org/abs/2507.07819v1)|**2025-07-10**|null|
+|**2025-07-10**|**SecureSpeech: Prompt-based Speaker and Content Protection**|Belinda Soh Hui Hui et.al.|[2507.07799v1](http://arxiv.org/abs/2507.07799v1)|**2025-07-10**|null|
+|**2025-07-10**|**A Semi-Empirical Descriptor for Open Circuit Voltage**|Sourav Baiju et.al.|[2507.07760v1](http://arxiv.org/abs/2507.07760v1)|**2025-07-10**|null|
+|**2025-07-10**|**Attend-and-Refine: Interactive keypoint estimation and quantitative cervical vertebrae analysis for bone age assessment**|Jinhee Kim et.al.|[2507.07670v1](http://arxiv.org/abs/2507.07670v1)|**2025-07-10**|null|
+|**2025-07-10**|**Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects**|Yuqi Cheng et.al.|[2507.07435v1](http://arxiv.org/abs/2507.07435v1)|**2025-07-10**|null|
+|**2025-07-10**|**KeyRe-ID: Keypoint-Guided Person Re-Identification using Part-Aware Representation in Videos**|Jinseong Kim et.al.|[2507.07393v1](http://arxiv.org/abs/2507.07393v1)|**2025-07-10**|null|
 |**2025-07-09**|**Reading a Ruler in the Wild**|Yimu Pan et.al.|[2507.07077v1](http://arxiv.org/abs/2507.07077v1)|**2025-07-09**|null|
 |**2025-07-09**|**Real-space understanding of electron-phonon coupling in superconducting hydrides**|Trinidad Novoa et.al.|[2507.06749v1](http://arxiv.org/abs/2507.06749v1)|**2025-07-09**|null|
 |**2025-07-09**|**MK-Pose: Category-Level Object Pose Estimation via Multimodal-Based Keypoint Learning**|Yifan Yang et.al.|[2507.06662v1](http://arxiv.org/abs/2507.06662v1)|**2025-07-09**|null|
@@ -25,10 +32,3 @@
 |**2025-07-03**|**GDC Cohort Copilot: An AI Copilot for Curating Cohorts from the Genomic Data Commons**|Steven Song et.al.|[2507.02221v1](http://arxiv.org/abs/2507.02221v1)|**2025-07-03**|null|
 |**2025-07-02**|**Advancing Magnetic Materials Discovery -- A structure-based machine learning approach for magnetic ordering and magnetic moment prediction**|Apoorv Verma et.al.|[2507.01913v1](http://arxiv.org/abs/2507.01913v1)|**2025-07-02**|null|
 |**2025-07-01**|**ShapeEmbed: a self-supervised learning framework for 2D contour quantification**|Anna Foix Romero et.al.|[2507.01009v1](http://arxiv.org/abs/2507.01009v1)|**2025-07-01**|null|
-|**2025-07-01**|**Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations**|Shivansh Patel et.al.|[2507.00990v2](http://arxiv.org/abs/2507.00990v2)|**2025-07-04**|null|
-|**2025-07-01**|**Analyzing Time-Varying Scalar Fields using Piecewise-Linear Morse-Cerf Theory**|Amritendu Dhar et.al.|[2507.00725v1](http://arxiv.org/abs/2507.00725v1)|**2025-07-01**|null|
-|**2025-07-01**|**Chaoticus: a parallel approach to the computation of chaos indicators**|Javier Jiménez-López et.al.|[2507.00622v1](http://arxiv.org/abs/2507.00622v1)|**2025-07-01**|null|
-|**2025-07-01**|**Process-aware and high-fidelity microstructure generation using stable diffusion**|Hoang Cuong Phan et.al.|[2507.00459v1](http://arxiv.org/abs/2507.00459v1)|**2025-07-01**|null|
-|**2025-06-30**|**Nine circles of elastic brittle fracture: A series of challenge problems to assess fracture models**|Farhad Kamarei et.al.|[2507.00266v2](http://arxiv.org/abs/2507.00266v2)|**2025-07-03**|null|
-|**2025-06-30**|**HiNeuS: High-fidelity Neural Surface Mitigating Low-texture and Reflective Ambiguity**|Yida Wang et.al.|[2506.23854v1](http://arxiv.org/abs/2506.23854v1)|**2025-06-30**|null|
-|**2025-06-29**|**RoboScape: Physics-informed Embodied World Model**|Yu Shang et.al.|[2506.23135v1](http://arxiv.org/abs/2506.23135v1)|**2025-06-29**|null|

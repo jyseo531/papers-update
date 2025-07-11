@@ -2034,6 +2034,7 @@ Updated on 2025-07-11
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
 | 3.41k | 3 | caidas/swin2SR-classical-sr-x4-64Image-to-Image | UpdatedMar 27, 2024 | [Link](https://huggingface.co/caidas/swin2SR-classical-sr-x4-64) |
 |  | 3 | fal/Realism-Detailer-Kontext-Dev-LoRAImage-to-Image | Updatedabout 16 hours ago | [Link](https://huggingface.co/fal/Realism-Detailer-Kontext-Dev-LoRA) |
+| 282 | 3 | xiaolxl/HXHY-Takeclothes-KontextLoRAImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/xiaolxl/HXHY-Takeclothes-KontextLoRA) |
 | 67 | 2 | SherryXTChen/InstructCLIP-InstructPix2PixImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/SherryXTChen/InstructCLIP-InstructPix2Pix) |
 | 17 | 2 | SherryXTChen/Instruct-CLIPImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/SherryXTChen/Instruct-CLIP) |
 | 76 | 2 | VisualCloze/VisualClozePipeline-384Image-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/VisualCloze/VisualClozePipeline-384) |
@@ -2236,6 +2237,8 @@ Updated on 2025-07-11
 | 46 | 2 | Gregor/mblip-bloomz-7bImage-to-Text | UpdatedApr 28, 2024 | [Link](https://huggingface.co/Gregor/mblip-bloomz-7b) |
 | 8.72k | 2 | PaddlePaddle/PP-OCRv5_server_detImage-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv5_server_det) |
 | UpdatedApr 19, 2024 | 2.09k | mychen76/invoice-and-receipts_donut_v1Image-to-Text | 0.2B | [Link](https://huggingface.co/mychen76/invoice-and-receipts_donut_v1) |
+| UpdatedDec 29, 2024 | 2.03k | JackChew/Qwen2-VL-2B-OCRImage-to-Text | 2B | [Link](https://huggingface.co/JackChew/Qwen2-VL-2B-OCR) |
+| UpdatedJul 27, 2024 | 2.06k | ahmed-masry/chartgemmaImage-to-Text | 3B | [Link](https://huggingface.co/ahmed-masry/chartgemma) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -3990,6 +3993,7 @@ Updated on 2025-07-11
 | 57 | 14 | katanemo/Arch-Agent-32BText | Updated3 days ago | [Link](https://huggingface.co/katanemo/Arch-Agent-32B) |
 | 578k | 6.11k | meta-llama/Meta-Llama-3-8BText | UpdatedSep 27, 2024 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) |
 | Updatedabout 18 hours ago | 6 | apple/sage-ft-mixtral-8x7bText | 47B | [Link](https://huggingface.co/apple/sage-ft-mixtral-8x7b) |
+| Updatedabout 21 hours ago | 4.52k | unsloth/Devstral-Small-2507-GGUFText | 24B | [Link](https://huggingface.co/unsloth/Devstral-Small-2507-GGUF) |
 | Updated6 days ago | 2.04k | marcelbinz/Llama-3 | 71B | [Link](https://huggingface.co/marcelbinz/Llama-3.1-Centaur-70B) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
@@ -4554,6 +4558,7 @@ Updated on 2025-07-11
 | 367 | 10 | IbrahimSalah/F5-TTS-ArabicText-to-Speech | UpdatedFeb 15 | [Link](https://huggingface.co/IbrahimSalah/F5-TTS-Arabic) |
 | 1.76k | 10 | facebook/mms-tts-korText-to-Speech | UpdatedSep 1, 2023 | [Link](https://huggingface.co/facebook/mms-tts-kor) |
 | 27.9k | 10 | unsloth/orpheus-3b-0 | UpdatedMar 24 | [Link](https://huggingface.co/unsloth/orpheus-3b-0.1-ft-unsloth-bnb-4bit) |
+| 22 | 10 | hynt/F5-TTS-Vietnamese-ViVoiceText-to-Speech | Updated35 minutes ago | [Link](https://huggingface.co/hynt/F5-TTS-Vietnamese-ViVoice) |
 | 63 | 8 | isaiahbjork/orpheus-3b-0 | Updatedabout 9 hours ago | [Link](https://huggingface.co/isaiahbjork/orpheus-3b-0.1-ft-Q4_K_M-GGUF) |
 | 17 | 8 | MYZY-AI/Muyan-TTSText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/MYZY-AI/Muyan-TTS) |
 | 31 | 8 | marianbasti/XTTS-v2-argentinian-spanishText-to-Speech | UpdatedJul 22, 2024 | [Link](https://huggingface.co/marianbasti/XTTS-v2-argentinian-spanish) |
