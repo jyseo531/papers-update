@@ -8,7 +8,7 @@
 |**2025-07-09**|**Monodromy Representations: Decomposing Rank-Three Bundles over the Projective Line with Three Marked Points**|Diego Yépez et.al.|[2507.07080v1](http://arxiv.org/abs/2507.07080v1)|**2025-07-09**|null|
 |**2025-07-09**|**Temperature induced tipping in a two box ocean circulation model**|Jasmine Noory et.al.|[2507.07078v1](http://arxiv.org/abs/2507.07078v1)|**2025-07-09**|null|
 |**2025-07-09**|**An AI Approach for Learning the Spectrum of the Laplace-Beltrami Operator**|Yulin An et.al.|[2507.07073v1](http://arxiv.org/abs/2507.07073v1)|**2025-07-09**|null|
-|**2025-07-09**|**Exciton transport driven by spin excitations in an antiferromagnet**|Florian Dirnberger et.al.|[2507.07071v1](http://arxiv.org/abs/2507.07071v1)|**2025-07-09**|null|
+|**2025-07-09**|**Exciton transport driven by spin excitations in an antiferromagnet**|Florian Dirnberger et.al.|[2507.07071v2](http://arxiv.org/abs/2507.07071v2)|**2025-07-10**|null|
 |**2025-07-09**|**Influence of interstellar environment near the solar system on cosmic-ray spectra and dipole anisotropy**|Zhangxi Xue et.al.|[2507.07057v1](http://arxiv.org/abs/2507.07057v1)|**2025-07-09**|null|
 |**2025-07-09**|**Classifying integral Grothendieck rings up to rank 5 and beyond**|Max A. Alekseyev et.al.|[2507.07023v1](http://arxiv.org/abs/2507.07023v1)|**2025-07-09**|null|
 |**2025-07-09**|**Early Warning From Eccentric Compact Binaries: Template Initialization And Sub-dominant Mode Effects**|Priyanka Sinha et.al.|[2507.07021v1](http://arxiv.org/abs/2507.07021v1)|**2025-07-09**|null|
