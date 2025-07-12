@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-07-11
+Updated on 2025-07-12
 
 > Generated from the Hugging Face database.
 
@@ -3785,6 +3785,7 @@ Updated on 2025-07-11
 | 1.24k | 101 | nvidia/Nemotron-Research-Reasoning-Qwen-1 | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/Nemotron-Research-Reasoning-Qwen-1.5B) |
 | 2 | 95 | Qwen/Qwen3-30B-A3BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B) |
 | Updatedabout 10 hours ago | 92 | HelpingAI/Dhanishtha-2 | 15B | [Link](https://huggingface.co/HelpingAI/Dhanishtha-2.0-preview) |
+| 3 | 92 | moonshotai/Kimi-K2-BaseText | Updatedabout 10 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-K2-Base) |
 | 448 | 91 | starvector/starvector-8b-im2svgText | Updated2 days ago | [Link](https://huggingface.co/starvector/starvector-8b-im2svg) |
 | 695 | 90 | moonshotai/Moonlight-16B-A3B-InstructText | Updated2 days ago | [Link](https://huggingface.co/moonshotai/Moonlight-16B-A3B-Instruct) |
 | 322 | 90 | XiaomiMiMo/MiMo-7B-BaseText | Updatedabout 12 hours ago | [Link](https://huggingface.co/XiaomiMiMo/MiMo-7B-Base) |
@@ -4055,6 +4056,7 @@ Updated on 2025-07-11
 | 21 | Unknown | Menlo/Jan-nano-128k-ggufText | Updatedabout 15 hours ago | [Link](https://huggingface.co/Menlo/Jan-nano-128k-gguf) |
 | 17 | Unknown | unsloth/Jan-nano-128k-GGUFText | Updatedabout 16 hours ago | [Link](https://huggingface.co/unsloth/Jan-nano-128k-GGUF) |
 | 169 | Unknown | tencent/Hunyuan-A13B-InstructText | Updatedabout 3 hours ago | [Link](https://huggingface.co/tencent/Hunyuan-A13B-Instruct) |
+| 12.2k |  | moonshotai/Kimi-K2-InstructText | Updatedabout 10 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-K2-Instruct) |
 
 ## Text Ranking
 
@@ -4322,6 +4324,7 @@ Updated on 2025-07-11
 | 26.8k | 386 | ostris/Flex | UpdatedJan 19 | [Link](https://huggingface.co/ostris/Flex.1-alpha) |
 | 275 | 375 | dalle-mini/dalle-miniText-to-Image | UpdatedJan 11, 2023 | [Link](https://huggingface.co/dalle-mini/dalle-mini) |
 | 89.5k | 370 | OnomaAIResearch/Illustrious-xl-early-release-v0Text-to-Image | UpdatedFeb 13 | [Link](https://huggingface.co/OnomaAIResearch/Illustrious-xl-early-release-v0) |
+| 31.8k | 362 | thibaud/controlnet-openpose-sdxl-1 | UpdatedSep 3, 2023 | [Link](https://huggingface.co/thibaud/controlnet-openpose-sdxl-1.0) |
 | 8.52k | 350 | fofr/sdxl-emojiText-to-Image | UpdatedJun 27, 2024 | [Link](https://huggingface.co/fofr/sdxl-emoji) |
 | 14.6k | 321 | JujoHotaru/loraText-to-Image | UpdatedApr 28 | [Link](https://huggingface.co/JujoHotaru/lora) |
 | 3.97k | 317 | Shitao/OmniGen-v1Text-to-Image | UpdatedNov 7, 2024 | [Link](https://huggingface.co/Shitao/OmniGen-v1) |
