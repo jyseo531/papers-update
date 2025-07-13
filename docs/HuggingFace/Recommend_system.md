@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-07-12
+Updated on 2025-07-13
 
 > Generated from the Hugging Face database.
 
@@ -1831,6 +1831,7 @@ Updated on 2025-07-12
 | 100k | 1.4k | stepfun-ai/GOT-OCR2_0Image-Text-to-Text | Updated21 days ago | [Link](https://huggingface.co/stepfun-ai/GOT-OCR2_0) |
 | 1.78M | 1.42k | microsoft/Florence-2-largeImage-Text-to-Text | UpdatedDec 8, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-large) |
 | 124k | 1.05k | vikhyatk/moondream2Image-Text-to-Text | UpdatedJan 9 | [Link](https://huggingface.co/vikhyatk/moondream2) |
+| Updated3 days ago | 1.61k | unsloth/medgemma-27b-it-GGUFImage-Text-to-Text | 27B | [Link](https://huggingface.co/unsloth/medgemma-27b-it-GGUF) |
 | 1.07M |  | meta-llama/Llama-3 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) |
 | 1.49M |  | Qwen/Qwen2-VL-7B-InstructImage-Text-to-Text | Updated19 days ago | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) |
 | 288k |  | microsoft/Phi-3 | UpdatedSep 26, 2024 | [Link](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) |
@@ -2035,6 +2036,7 @@ Updated on 2025-07-12
 | 3.41k | 3 | caidas/swin2SR-classical-sr-x4-64Image-to-Image | UpdatedMar 27, 2024 | [Link](https://huggingface.co/caidas/swin2SR-classical-sr-x4-64) |
 |  | 3 | fal/Realism-Detailer-Kontext-Dev-LoRAImage-to-Image | Updatedabout 16 hours ago | [Link](https://huggingface.co/fal/Realism-Detailer-Kontext-Dev-LoRA) |
 | 282 | 3 | xiaolxl/HXHY-Takeclothes-KontextLoRAImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/xiaolxl/HXHY-Takeclothes-KontextLoRA) |
+|  | 3 | fofr/flux-kontext-dev-ps1-loraImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/fofr/flux-kontext-dev-ps1-lora) |
 | 67 | 2 | SherryXTChen/InstructCLIP-InstructPix2PixImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/SherryXTChen/InstructCLIP-InstructPix2Pix) |
 | 17 | 2 | SherryXTChen/Instruct-CLIPImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/SherryXTChen/Instruct-CLIP) |
 | 76 | 2 | VisualCloze/VisualClozePipeline-384Image-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/VisualCloze/VisualClozePipeline-384) |
@@ -4811,6 +4813,7 @@ Updated on 2025-07-12
 | 6 | Unknown | Lightricks/LTX-Video-ICLoRA-pose-13b-0 | Updatedabout 6 hours ago | [Link](https://huggingface.co/Lightricks/LTX-Video-ICLoRA-pose-13b-0.9.7) |
 | 4 | Unknown | Lightricks/LTX-Video-ICLoRA-depth-13b-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/Lightricks/LTX-Video-ICLoRA-depth-13b-0.9.7) |
 | 4 | Unknown | Lightricks/LTX-Video-ICLoRA-canny-13b-0 | Updatedabout 16 hours ago | [Link](https://huggingface.co/Lightricks/LTX-Video-ICLoRA-canny-13b-0.9.7) |
+| 3 | Unknown | Cseti/wan-14b-wallace_and_gromit-style-lora-v1Text-to-Video | Updated6 days ago | [Link](https://huggingface.co/Cseti/wan-14b-wallace_and_gromit-style-lora-v1) |
 
 ## Text2Text Generation
 
