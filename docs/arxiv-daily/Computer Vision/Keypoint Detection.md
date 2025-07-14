@@ -2,6 +2,9 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-11**|**An Efficient Approach for Muscle Segmentation and 3D Reconstruction Using Keypoint Tracking in MRI Scan**|Mengyuan Liu et.al.|[2507.08690v1](http://arxiv.org/abs/2507.08690v1)|**2025-07-11**|null|
+|**2025-07-11**|**RadiomicsRetrieval: A Customizable Framework for Medical Image Retrieval Using Radiomics Features**|Inye Na et.al.|[2507.08546v1](http://arxiv.org/abs/2507.08546v1)|**2025-07-11**|null|
+|**2025-07-10**|**AmpLyze: A Deep Learning Model for Predicting the Hemolytic Concentration**|Peng Qiu et.al.|[2507.08162v1](http://arxiv.org/abs/2507.08162v1)|**2025-07-10**|null|
 |**2025-07-10**|**Doodle Your Keypoints: Sketch-Based Few-Shot Keypoint Detection**|Subhajit Maity et.al.|[2507.07994v2](http://arxiv.org/abs/2507.07994v2)|**2025-07-11**|null|
 |**2025-07-10**|**Growth of Structural Lengthscale in Kob Andersen Binary Mixtures: Role of medium range order**|Sanket Kumawat et.al.|[2507.07819v1](http://arxiv.org/abs/2507.07819v1)|**2025-07-10**|null|
 |**2025-07-10**|**SecureSpeech: Prompt-based Speaker and Content Protection**|Belinda Soh Hui Hui et.al.|[2507.07799v1](http://arxiv.org/abs/2507.07799v1)|**2025-07-10**|null|
@@ -15,6 +18,7 @@
 |**2025-07-09**|**Learning from Sparse Point Labels for Dense Carcinosis Localization in Advanced Ovarian Cancer Assessment**|Farahdiba Zarin et.al.|[2507.06643v1](http://arxiv.org/abs/2507.06643v1)|**2025-07-09**|null|
 |**2025-07-09**|**ILNet: Trajectory Prediction with Inverse Learning Attention for Enhancing Intention Capture**|Mingjin Zeng et.al.|[2507.06531v1](http://arxiv.org/abs/2507.06531v1)|**2025-07-09**|null|
 |**2025-07-09**|**Speak2Sign3D: A Multi-modal Pipeline for English Speech to American Sign Language Animation**|Kazi Mahathir Rahman et.al.|[2507.06530v1](http://arxiv.org/abs/2507.06530v1)|**2025-07-09**|null|
+|**2025-07-08**|**Development of a Canada-Wide Morphology Map for the ITU-R P. 1411 Propagation Model**|Jennifer P. T. Nguyen et.al.|[2507.08026v1](http://arxiv.org/abs/2507.08026v1)|**2025-07-08**|null|
 |**2025-07-07**|**Spatial and Semantic Embedding Integration for Stereo Sound Event Localization and Detection in Regular Videos**|Davide Berghi et.al.|[2507.04845v1](http://arxiv.org/abs/2507.04845v1)|**2025-07-07**|null|
 |**2025-07-07**|**RIPE: Reinforcement Learning on Unlabeled Image Pairs for Robust Keypoint Extraction**|Johannes Künzel et.al.|[2507.04839v1](http://arxiv.org/abs/2507.04839v1)|**2025-07-07**|null|
 |**2025-07-06**|**MoReMouse: Monocular Reconstruction of Laboratory Mouse**|Yuan Zhong et.al.|[2507.04258v1](http://arxiv.org/abs/2507.04258v1)|**2025-07-06**|null|
@@ -28,7 +32,3 @@
 |**2025-07-03**|**LANTERN: A Machine Learning Framework for Lipid Nanoparticle Transfection Efficiency Prediction**|Asal Mehradfar et.al.|[2507.03209v1](http://arxiv.org/abs/2507.03209v1)|**2025-07-03**|null|
 |**2025-07-03**|**UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation**|Qin Guo et.al.|[2507.02713v2](http://arxiv.org/abs/2507.02713v2)|**2025-07-04**|null|
 |**2025-07-03**|**Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning**|Buzhen Huang et.al.|[2507.02565v1](http://arxiv.org/abs/2507.02565v1)|**2025-07-03**|null|
-|**2025-07-03**|**LMPNet for Weakly-supervised Keypoint Discovery**|Pei Guo et.al.|[2507.02308v1](http://arxiv.org/abs/2507.02308v1)|**2025-07-03**|null|
-|**2025-07-03**|**GDC Cohort Copilot: An AI Copilot for Curating Cohorts from the Genomic Data Commons**|Steven Song et.al.|[2507.02221v1](http://arxiv.org/abs/2507.02221v1)|**2025-07-03**|null|
-|**2025-07-02**|**Advancing Magnetic Materials Discovery -- A structure-based machine learning approach for magnetic ordering and magnetic moment prediction**|Apoorv Verma et.al.|[2507.01913v1](http://arxiv.org/abs/2507.01913v1)|**2025-07-02**|null|
-|**2025-07-01**|**ShapeEmbed: a self-supervised learning framework for 2D contour quantification**|Anna Foix Romero et.al.|[2507.01009v1](http://arxiv.org/abs/2507.01009v1)|**2025-07-01**|null|

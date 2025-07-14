@@ -2232,6 +2232,7 @@ Updated on 2025-07-14
 | 22 | 3 | kusumakar/hashtagGeneraterImage-to-Text | UpdatedJul 15, 2023 | [Link](https://huggingface.co/kusumakar/hashtagGenerater) |
 | Updatedabout 21 hours ago | 3 | allura-org/MS3 | 24B | [Link](https://huggingface.co/allura-org/MS3.2-24b-Angel) |
 | UpdatedFeb 26, 2024 | 3.75k | Norm/nougat-latex-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/Norm/nougat-latex-base) |
+| UpdatedMay 9 | 3.33k | tngtech/olmOCR-7B-faithfulImage-to-Text | 8B | [Link](https://huggingface.co/tngtech/olmOCR-7B-faithful) |
 | 51 | 2 | microsoft/git-base-msrvtt-qaImage-to-Text | UpdatedApr 4, 2024 | [Link](https://huggingface.co/microsoft/git-base-msrvtt-qa) |
 | 32 | 2 | baseplate/vit-gpt2-image-captioningImage-to-Text | UpdatedApr 5, 2023 | [Link](https://huggingface.co/baseplate/vit-gpt2-image-captioning) |
 | 38 | 2 | sbintuitions/sarashina2-vision-14bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-14b) |
