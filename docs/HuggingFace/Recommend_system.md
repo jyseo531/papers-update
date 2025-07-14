@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-07-13
+Updated on 2025-07-14
 
 > Generated from the Hugging Face database.
 
@@ -1832,6 +1832,7 @@ Updated on 2025-07-13
 | 1.78M | 1.42k | microsoft/Florence-2-largeImage-Text-to-Text | UpdatedDec 8, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-large) |
 | 124k | 1.05k | vikhyatk/moondream2Image-Text-to-Text | UpdatedJan 9 | [Link](https://huggingface.co/vikhyatk/moondream2) |
 | Updated3 days ago | 1.61k | unsloth/medgemma-27b-it-GGUFImage-Text-to-Text | 27B | [Link](https://huggingface.co/unsloth/medgemma-27b-it-GGUF) |
+| Updated1 day ago | 1.38k | bartowski/mistralai_Devstral-Small-2507-GGUFImage-Text-to-Text | 24B | [Link](https://huggingface.co/bartowski/mistralai_Devstral-Small-2507-GGUF) |
 | 1.07M |  | meta-llama/Llama-3 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) |
 | 1.49M |  | Qwen/Qwen2-VL-7B-InstructImage-Text-to-Text | Updated19 days ago | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) |
 | 288k |  | microsoft/Phi-3 | UpdatedSep 26, 2024 | [Link](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) |
@@ -2037,6 +2038,7 @@ Updated on 2025-07-13
 |  | 3 | fal/Realism-Detailer-Kontext-Dev-LoRAImage-to-Image | Updatedabout 16 hours ago | [Link](https://huggingface.co/fal/Realism-Detailer-Kontext-Dev-LoRA) |
 | 282 | 3 | xiaolxl/HXHY-Takeclothes-KontextLoRAImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/xiaolxl/HXHY-Takeclothes-KontextLoRA) |
 |  | 3 | fofr/flux-kontext-dev-ps1-loraImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/fofr/flux-kontext-dev-ps1-lora) |
+|  | 3 | fofr/flux-kontext-dev-jpeg-compression-fix-loraImage-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/fofr/flux-kontext-dev-jpeg-compression-fix-lora) |
 | 67 | 2 | SherryXTChen/InstructCLIP-InstructPix2PixImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/SherryXTChen/InstructCLIP-InstructPix2Pix) |
 | 17 | 2 | SherryXTChen/Instruct-CLIPImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/SherryXTChen/Instruct-CLIP) |
 | 76 | 2 | VisualCloze/VisualClozePipeline-384Image-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/VisualCloze/VisualClozePipeline-384) |
@@ -2137,6 +2139,8 @@ Updated on 2025-07-13
 | 77 |  | Kontext-Style/Line_loraImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/Kontext-Style/Line_lora) |
 | 68 |  | Kontext-Style/Rick_Morty_loraImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/Kontext-Style/Rick_Morty_lora) |
 | 54 |  | fal/Minimalist-Art-Kontext-Dev-LoRAImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/fal/Minimalist-Art-Kontext-Dev-LoRA) |
+| 24 |  | gokaygokay/Oil-Paint-Kontext-Dev-LoRAImage-to-Image | Updated5 days ago | [Link](https://huggingface.co/gokaygokay/Oil-Paint-Kontext-Dev-LoRA) |
+| 115 |  | gokaygokay/Pencil-Drawing-Kontext-Dev-LoRAImage-to-Image | Updated5 days ago | [Link](https://huggingface.co/gokaygokay/Pencil-Drawing-Kontext-Dev-LoRA) |
 
 ## Image-to-Text
 
@@ -2227,6 +2231,7 @@ Updated on 2025-07-13
 | 720 | 3 | zhiyuanyou/DeQA-Score-Mix3Image-to-Text | UpdatedMar 25 | [Link](https://huggingface.co/zhiyuanyou/DeQA-Score-Mix3) |
 | 22 | 3 | kusumakar/hashtagGeneraterImage-to-Text | UpdatedJul 15, 2023 | [Link](https://huggingface.co/kusumakar/hashtagGenerater) |
 | Updatedabout 21 hours ago | 3 | allura-org/MS3 | 24B | [Link](https://huggingface.co/allura-org/MS3.2-24b-Angel) |
+| UpdatedFeb 26, 2024 | 3.75k | Norm/nougat-latex-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/Norm/nougat-latex-base) |
 | 51 | 2 | microsoft/git-base-msrvtt-qaImage-to-Text | UpdatedApr 4, 2024 | [Link](https://huggingface.co/microsoft/git-base-msrvtt-qa) |
 | 32 | 2 | baseplate/vit-gpt2-image-captioningImage-to-Text | UpdatedApr 5, 2023 | [Link](https://huggingface.co/baseplate/vit-gpt2-image-captioning) |
 | 38 | 2 | sbintuitions/sarashina2-vision-14bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-14b) |

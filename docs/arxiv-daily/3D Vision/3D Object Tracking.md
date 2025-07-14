@@ -13,7 +13,7 @@
 |**2025-07-10**|**Prospective Learning in Retrospect**|Yuxin Bai et.al.|[2507.07965v1](http://arxiv.org/abs/2507.07965v1)|**2025-07-10**|null|
 |**2025-07-10**|**On-Manifold Low-Thrust Maneuvering of Quasi-Periodic Orbits**|Ian M. Down et.al.|[2507.07940v1](http://arxiv.org/abs/2507.07940v1)|**2025-07-10**|null|
 |**2025-07-10**|**Meek Models Shall Inherit the Earth**|Hans Gundlach et.al.|[2507.07931v1](http://arxiv.org/abs/2507.07931v1)|**2025-07-10**|null|
-|**2025-07-10**|**Probing Experts' Perspectives on AI-Assisted Public Speaking Training**|Nesrine Fourati et.al.|[2507.07930v1](http://arxiv.org/abs/2507.07930v1)|**2025-07-10**|null|
+|**2025-07-10**|**Probing Experts' Perspectives on AI-Assisted Public Speaking Training**|Nesrine Fourati et.al.|[2507.07930v2](http://arxiv.org/abs/2507.07930v2)|**2025-07-11**|null|
 |**2025-07-10**|**Towards Continuous Home Cage Monitoring: An Evaluation of Tracking and Identification Strategies for Laboratory Mice**|Juan Pablo Oberhauser et.al.|[2507.07929v1](http://arxiv.org/abs/2507.07929v1)|**2025-07-10**|null|
 |**2025-07-10**|**ArteryX: Advancing Brain Artery Feature Extraction with Vessel-Fused Networks and a Robust Validation Framework**|Abrar Faiyaz et.al.|[2507.07920v1](http://arxiv.org/abs/2507.07920v1)|**2025-07-10**|null|
 |**2025-07-10**|**Strong time-periodic solutions to a multilayered fluid-structure interaction problem**|Felix Brandt et.al.|[2507.07918v1](http://arxiv.org/abs/2507.07918v1)|**2025-07-10**|null|
@@ -23,7 +23,7 @@
 |**2025-07-10**|**Hardware-Aware Feature Extraction Quantisation for Real-Time Visual Odometry on FPGA Platforms**|Mateusz Wasala et.al.|[2507.07903v1](http://arxiv.org/abs/2507.07903v1)|**2025-07-10**|null|
 |**2025-07-10**|**CO desorption from interstellar icy grains induced by IR excitation of superhydrogenated PAHs**|L. Slumstrup et.al.|[2507.07896v1](http://arxiv.org/abs/2507.07896v1)|**2025-07-10**|null|
 |**2025-07-10**|**Pseudoperiodic Spherical Boundary Conditions: Efficient And Isotropic 3D Particle Simulations Without Lattice Artifacts**|Manuel Dedola et.al.|[2507.07888v1](http://arxiv.org/abs/2507.07888v1)|**2025-07-10**|null|
-|**2025-07-10**|**LISTEN: Lightweight Industrial Sound-representable Transformer for Edge Notification**|Changheon Han et.al.|[2507.07879v1](http://arxiv.org/abs/2507.07879v1)|**2025-07-10**|null|
+|**2025-07-10**|**LISTEN: Lightweight Industrial Sound-representable Transformer for Edge Notification**|Changheon Han et.al.|[2507.07879v2](http://arxiv.org/abs/2507.07879v2)|**2025-07-11**|null|
 |**2025-07-10**|**Improving AEBS Validation Through Objective Intervention Classification Leveraging the Prediction Divergence Principle**|Daniel Betschinske et.al.|[2507.07872v1](http://arxiv.org/abs/2507.07872v1)|**2025-07-10**|null|
 |**2025-07-10**|**Temperature Dependent Optical Response Of High- Tc Yba2cu3o7-δ (Ybco) Thin Films**|Vivek Khichar et.al.|[2507.07866v1](http://arxiv.org/abs/2507.07866v1)|**2025-07-10**|null|
 |**2025-07-10**|**Principled Foundations for Preference Optimization**|Wenxuan Zhou et.al.|[2507.07855v1](http://arxiv.org/abs/2507.07855v1)|**2025-07-10**|null|

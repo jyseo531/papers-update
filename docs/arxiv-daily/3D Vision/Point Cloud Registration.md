@@ -18,7 +18,7 @@
 |**2025-07-10**|**Hardware-Aware Feature Extraction Quantisation for Real-Time Visual Odometry on FPGA Platforms**|Mateusz Wasala et.al.|[2507.07903v1](http://arxiv.org/abs/2507.07903v1)|**2025-07-10**|null|
 |**2025-07-10**|**Capturing quantum phase transition in the ultraviolet region by holography**|Fang-Jing Cheng et.al.|[2507.07899v1](http://arxiv.org/abs/2507.07899v1)|**2025-07-10**|null|
 |**2025-07-10**|**CO desorption from interstellar icy grains induced by IR excitation of superhydrogenated PAHs**|L. Slumstrup et.al.|[2507.07896v1](http://arxiv.org/abs/2507.07896v1)|**2025-07-10**|null|
-|**2025-07-10**|**LISTEN: Lightweight Industrial Sound-representable Transformer for Edge Notification**|Changheon Han et.al.|[2507.07879v1](http://arxiv.org/abs/2507.07879v1)|**2025-07-10**|null|
+|**2025-07-10**|**LISTEN: Lightweight Industrial Sound-representable Transformer for Edge Notification**|Changheon Han et.al.|[2507.07879v2](http://arxiv.org/abs/2507.07879v2)|**2025-07-11**|null|
 |**2025-07-10**|**Alpay Algebra V: Multi-Layered Semantic Games and Transfinite Fixed-Point Simulation**|Bugra Kilictas et.al.|[2507.07868v1](http://arxiv.org/abs/2507.07868v1)|**2025-07-10**|null|
 |**2025-07-10**|**Dynamics of interacting cavity solitons**|Amir Leshem et.al.|[2507.07851v1](http://arxiv.org/abs/2507.07851v1)|**2025-07-10**|null|
 |**2025-07-10**|**A fast algorithm for the wave equation using time-windowed Fourier projection**|Nour G. Al Hassanieh et.al.|[2507.07823v1](http://arxiv.org/abs/2507.07823v1)|**2025-07-10**|null|
