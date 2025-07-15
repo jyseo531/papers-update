@@ -2,33 +2,33 @@
 ### Point Cloud Registration
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-11**|**The THESAN-ZOOM project: Mystery N/O more -- uncovering the origin of peculiar chemical abundances and a not-so-fundamental metallicity relation at $3<z<12$**|William McClymont et.al.|[2507.08787v1](http://arxiv.org/abs/2507.08787v1)|**2025-07-11**|null|
-|**2025-07-11**|**Varifold solutions to Volume-Preserving Mean Curvature Flow: existence and weak-strong uniqueness**|Andrea Poiatti et.al.|[2507.08783v1](http://arxiv.org/abs/2507.08783v1)|**2025-07-11**|null|
-|**2025-07-11**|**Routing Quantum Control of Causal Order**|Maarten Grothus et.al.|[2507.08781v1](http://arxiv.org/abs/2507.08781v1)|**2025-07-11**|null|
-|**2025-07-11**|**The thermal backreaction of a scalar field in de Sitter spacetime**|Nikos Irges et.al.|[2507.08774v1](http://arxiv.org/abs/2507.08774v1)|**2025-07-11**|null|
-|**2025-07-11**|**Recent Advances in Understanding R-Process Nucleosynthesis in Metal-Poor Stars and Stellar Systems**|Avrajit Bandyopadhyay et.al.|[2507.08760v1](http://arxiv.org/abs/2507.08760v1)|**2025-07-11**|null|
-|**2025-07-11**|**Measuring the Astrophysical Galactic Plane Neutrino Flux and Searching for Galactic PeVatrons using the IceCube Multi-Flavor Astrophysical Neutrino Sample**|Matthias Thiesmeyer et.al.|[2507.08753v1](http://arxiv.org/abs/2507.08753v1)|**2025-07-11**|null|
-|**2025-07-11**|**Low-latency neutrino follow-up combining diverse IceCube selections**|Christoph Raab et.al.|[2507.08748v1](http://arxiv.org/abs/2507.08748v1)|**2025-07-11**|null|
-|**2025-07-11**|**Influence of river incision on landslides triggered in Nepal by the Gorkha earthquake: Results from a pixel-based susceptibility model using inlabru**|Man Ho Suen et.al.|[2507.08742v1](http://arxiv.org/abs/2507.08742v1)|**2025-07-11**|null|
-|**2025-07-11**|**Monitoring Risks in Test-Time Adaptation**|Mona Schirmer et.al.|[2507.08721v1](http://arxiv.org/abs/2507.08721v1)|**2025-07-11**|null|
-|**2025-07-11**|**Unambiguous GeV gamma-rays from molecular clouds illuminated by particles diffusing from the adjacent supernova remnant G335.2+0.1 that is confined in an expanding bubble**|Chen Huang et.al.|[2507.08709v1](http://arxiv.org/abs/2507.08709v1)|**2025-07-11**|null|
-|**2025-07-11**|**Beer Path Problems in Temporal Graphs**|Andrea D'Ascenzo et.al.|[2507.08685v1](http://arxiv.org/abs/2507.08685v1)|**2025-07-11**|null|
-|**2025-07-11**|**Search for a Dark Gauge Boson Within Einstein-Cartan Theory at the ILC Using Multivariate Analysis**|Hossam Taha et.al.|[2507.08678v1](http://arxiv.org/abs/2507.08678v1)|**2025-07-11**|null|
-|**2025-07-11**|**Lower bounds on heights of odd degree points of hyperelliptic curves**|Jef Laga et.al.|[2507.08652v1](http://arxiv.org/abs/2507.08652v1)|**2025-07-11**|null|
-|**2025-07-11**|**Robust inference under Benford's law**|Lucio Barabesi et.al.|[2507.08650v1](http://arxiv.org/abs/2507.08650v1)|**2025-07-11**|null|
-|**2025-07-11**|**Root stack valuative criterion for good moduli spaces**|Dori Bejleri et.al.|[2507.08642v1](http://arxiv.org/abs/2507.08642v1)|**2025-07-11**|null|
-|**2025-07-11**|**Metal-THINGS: gas metallicity gradients in nearby galaxies**|Guillermo Valé et.al.|[2507.08633v1](http://arxiv.org/abs/2507.08633v1)|**2025-07-11**|null|
-|**2025-07-11**|**Minimum-norm interpolation for unknown surface reconstruction**|Alex Shiu Lun Chu et.al.|[2507.08632v1](http://arxiv.org/abs/2507.08632v1)|**2025-07-11**|null|
-|**2025-07-11**|**Data-Driven Stabilisation of Unstable Periodic Orbits of the Three-Body Problem**|Owen M. Brook et.al.|[2507.08630v1](http://arxiv.org/abs/2507.08630v1)|**2025-07-11**|null|
-|**2025-07-11**|**Nonparametric predictive inference for discrete data via Metropolis-adjusted Dirichlet sequences**|Davide Agnoletto et.al.|[2507.08629v1](http://arxiv.org/abs/2507.08629v1)|**2025-07-11**|null|
-|**2025-07-11**|**Local persistence exponent and its log-periodic oscillations**|Yilin Ye et.al.|[2507.08628v1](http://arxiv.org/abs/2507.08628v1)|**2025-07-11**|null|
-|**2025-07-11**|**Neutron-induced opalescence in silica glass**|S. A. Vasiliev et.al.|[2507.08618v1](http://arxiv.org/abs/2507.08618v1)|**2025-07-11**|null|
-|**2025-07-11**|**Emergent Natural Language with Communication Games for Improving Image Captioning Capabilities without Additional Data**|Parag Dutta et.al.|[2507.08610v1](http://arxiv.org/abs/2507.08610v1)|**2025-07-11**|null|
-|**2025-07-11**|**Counting the number of $2$-periodic integral points of a discrete dynamical system with applications from arithmetic statistics, IV**|Brian Kintu et.al.|[2507.08601v1](http://arxiv.org/abs/2507.08601v1)|**2025-07-11**|null|
-|**2025-07-11**|**A new type-1 transition in NGC 1346 revealed by (spectro)polarimetry**|F. Marin et.al.|[2507.08589v1](http://arxiv.org/abs/2507.08589v1)|**2025-07-11**|null|
-|**2025-07-11**|**Symmetries and operators in $T\bar{T}$ deformed CFTs**|Liangyu Chen et.al.|[2507.08588v1](http://arxiv.org/abs/2507.08588v1)|**2025-07-11**|null|
-|**2025-07-11**|**Robotic Calibration Based on Haptic Feedback Improves Sim-to-Real Transfer**|Juraj Gavura et.al.|[2507.08572v1](http://arxiv.org/abs/2507.08572v1)|**2025-07-11**|null|
-|**2025-07-11**|**Relation between bicrossed products and crossed extensions of fusion categories**|Monique Müller et.al.|[2507.08562v1](http://arxiv.org/abs/2507.08562v1)|**2025-07-11**|null|
-|**2025-07-11**|**RadiomicsRetrieval: A Customizable Framework for Medical Image Retrieval Using Radiomics Features**|Inye Na et.al.|[2507.08546v1](http://arxiv.org/abs/2507.08546v1)|**2025-07-11**|null|
-|**2025-07-11**|**Anisotropic Diffusion of $e^\pm$ in Pulsar Halos over Multiple Coherence of Magnetic Field**|Kai Yan et.al.|[2507.08526v1](http://arxiv.org/abs/2507.08526v1)|**2025-07-11**|null|
-|**2025-07-11**|**Random Sperner lemma and random Brouwer fixed point theorem**|Qiang Tu et.al.|[2507.08521v1](http://arxiv.org/abs/2507.08521v1)|**2025-07-11**|null|
+|**2025-07-14**|**Angular-momentum pairs in spherical systems: applications to the Galactic centre**|Taras Panamarev et.al.|[2507.10551v1](http://arxiv.org/abs/2507.10551v1)|**2025-07-14**|null|
+|**2025-07-14**|**Observational biases on rotation curves from IFU data at cosmic noon**|Amanda E. de Araujo-Carvalho et.al.|[2507.10544v1](http://arxiv.org/abs/2507.10544v1)|**2025-07-14**|null|
+|**2025-07-14**|**MP1: Mean Flow Tames Policy Learning in 1-step for Robotic Manipulation**|Juyi Sheng et.al.|[2507.10543v1](http://arxiv.org/abs/2507.10543v1)|**2025-07-14**|null|
+|**2025-07-14**|**ScaffoldAvatar: High-Fidelity Gaussian Avatars with Patch Expressions**|Shivangi Aneja et.al.|[2507.10542v1](http://arxiv.org/abs/2507.10542v1)|**2025-07-14**|null|
+|**2025-07-14**|**Resolving Degeneracies in Complex $\mathbb{R}\times S^3$ and $θ$-KSW**|Manishankar Ailiga et.al.|[2507.10537v1](http://arxiv.org/abs/2507.10537v1)|**2025-07-14**|null|
+|**2025-07-14**|**CodeJudgeBench: Benchmarking LLM-as-a-Judge for Coding Tasks**|Hongchao Jiang et.al.|[2507.10535v1](http://arxiv.org/abs/2507.10535v1)|**2025-07-14**|null|
+|**2025-07-14**|**Accurate generation of chemical reaction transition states by conditional flow matching**|Ping Tuo et.al.|[2507.10530v1](http://arxiv.org/abs/2507.10530v1)|**2025-07-14**|null|
+|**2025-07-14**|**Bifurcation Analysis of 3D Filippov Systems around Cusp-Fold Singularities**|Oscar A. R. Cespedes et.al.|[2507.10514v1](http://arxiv.org/abs/2507.10514v1)|**2025-07-14**|null|
+|**2025-07-14**|**Topological phases and Edge states in an exactly solvable Gamma matrix model**|Akhil Pravin Furtado et.al.|[2507.10509v1](http://arxiv.org/abs/2507.10509v1)|**2025-07-14**|null|
+|**2025-07-14**|**Spectral properties of the zero temperature Edwards-Anderson model**|Mriganka Basu Roy Chowdhury et.al.|[2507.10507v1](http://arxiv.org/abs/2507.10507v1)|**2025-07-14**|null|
+|**2025-07-14**|**Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance**|Kyungtae Han et.al.|[2507.10500v1](http://arxiv.org/abs/2507.10500v1)|**2025-07-14**|null|
+|**2025-07-14**|**Multiobjective Aerodynamic Design Optimization of the NASA Common Research Model**|Kade Carlson et.al.|[2507.10488v1](http://arxiv.org/abs/2507.10488v1)|**2025-07-14**|null|
+|**2025-07-14**|**Imprints of turbulence on heterogeneous deposition of adhesive particles**|Max P. Herzog et.al.|[2507.10480v1](http://arxiv.org/abs/2507.10480v1)|**2025-07-14**|null|
+|**2025-07-14**|**Solving the compute crisis with physics-based ASICs**|Maxwell Aifer et.al.|[2507.10463v1](http://arxiv.org/abs/2507.10463v1)|**2025-07-14**|null|
+|**2025-07-14**|**Charged Black Hole with String Cloud Deformation: Entanglement and Chaos**|Shagun Kaushal et.al.|[2507.10455v1](http://arxiv.org/abs/2507.10455v1)|**2025-07-14**|null|
+|**2025-07-14**|**Nonlinear Quantum Sensing with a Frustrated Kitaev Trimer**|C. Huerta Alderete et.al.|[2507.10418v1](http://arxiv.org/abs/2507.10418v1)|**2025-07-14**|null|
+|**2025-07-14**|**Polaritonic Machine Learning for Graph-based Data Analysis**|Yuan Wang et.al.|[2507.10415v1](http://arxiv.org/abs/2507.10415v1)|**2025-07-14**|null|
+|**2025-07-14**|**Enhanced superconductivity in the compressively strained bilayer nickelate thin films by pressure**|Qing Li et.al.|[2507.10399v1](http://arxiv.org/abs/2507.10399v1)|**2025-07-14**|null|
+|**2025-07-14**|**Instance-Optimized String Fingerprints**|Mihail Stoian et.al.|[2507.10391v1](http://arxiv.org/abs/2507.10391v1)|**2025-07-14**|null|
+|**2025-07-14**|**Existence of a plane without edge crossings in projections of the random geometric graph**|Lianne de Jonge et.al.|[2507.10389v1](http://arxiv.org/abs/2507.10389v1)|**2025-07-14**|null|
+|**2025-07-14**|**Dynamical stability for dense patterns in discrete attractor neural networks**|Uri Cohen et.al.|[2507.10383v1](http://arxiv.org/abs/2507.10383v1)|**2025-07-14**|null|
+|**2025-07-14**|**Leveraging RAG-LLMs for Urban Mobility Simulation and Analysis**|Yue Ding et.al.|[2507.10382v1](http://arxiv.org/abs/2507.10382v1)|**2025-07-14**|null|
+|**2025-07-14**|**Gas-phase Elemental abundances in Molecular cloudS (GEMS) XI. The evolution of HCN, HNC, and N2H+ isotopic ratios in starless cores**|A. Tasa-Chaveli et.al.|[2507.10380v1](http://arxiv.org/abs/2507.10380v1)|**2025-07-14**|null|
+|**2025-07-14**|**Post-reduction inference for confidence sets of models**|Heather Battey et.al.|[2507.10373v1](http://arxiv.org/abs/2507.10373v1)|**2025-07-14**|null|
+|**2025-07-14**|**Stellar properties indicating the presence of hyperons in neutron stars**|Andreas Bauswein et.al.|[2507.10372v1](http://arxiv.org/abs/2507.10372v1)|**2025-07-14**|null|
+|**2025-07-14**|**Dynamic off-the-grid untangling of curves by Riemannian metric**|Bastien Laville et.al.|[2507.10359v1](http://arxiv.org/abs/2507.10359v1)|**2025-07-14**|null|
+|**2025-07-14**|**Short-time existence of Lagrangian mean curvature flow**|Spandan Ghosh et.al.|[2507.10341v1](http://arxiv.org/abs/2507.10341v1)|**2025-07-14**|null|
+|**2025-07-14**|**MoCap-Impute: A Comprehensive Benchmark and Comparative Analysis of Imputation Methods for IMU-based Motion Capture Data**|Mahmoud Bekhit et.al.|[2507.10334v1](http://arxiv.org/abs/2507.10334v1)|**2025-07-14**|null|
+|**2025-07-14**|**Computing the probability of intersection**|Alexander Barvinok et.al.|[2507.10329v1](http://arxiv.org/abs/2507.10329v1)|**2025-07-14**|null|
+|**2025-07-14**|**Gaussian Process Methods for Very Large Astrometric Data Sets**|Timothy Hapitas et.al.|[2507.10317v1](http://arxiv.org/abs/2507.10317v1)|**2025-07-14**|null|

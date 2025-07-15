@@ -2141,6 +2141,7 @@ Updated on 2025-07-15
 | 54 |  | fal/Minimalist-Art-Kontext-Dev-LoRAImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/fal/Minimalist-Art-Kontext-Dev-LoRA) |
 | 24 |  | gokaygokay/Oil-Paint-Kontext-Dev-LoRAImage-to-Image | Updated5 days ago | [Link](https://huggingface.co/gokaygokay/Oil-Paint-Kontext-Dev-LoRA) |
 | 115 |  | gokaygokay/Pencil-Drawing-Kontext-Dev-LoRAImage-to-Image | Updated5 days ago | [Link](https://huggingface.co/gokaygokay/Pencil-Drawing-Kontext-Dev-LoRA) |
+| 49 |  | drbaph/Synthwave-kontext-LoRAImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/drbaph/Synthwave-kontext-LoRA) |
 
 ## Image-to-Text
 
@@ -4681,6 +4682,8 @@ Updated on 2025-07-15
 | 6 | Unknown | zhu-han/ZipVoiceText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/zhu-han/ZipVoice) |
 | 3 | Unknown | havok2/Kartoffelbox-v0 | Updated8 days ago | [Link](https://huggingface.co/havok2/Kartoffelbox-v0.1_0.65h2) |
 | 4 | Unknown | PapaRazi/Ijazah_Palsu_V2Text-to-Speech | Updated5 days ago | [Link](https://huggingface.co/PapaRazi/Ijazah_Palsu_V2) |
+| 11 | Unknown | k2-fsa/ZipVoiceText-to-Speech | Updatedabout 2 hours ago | [Link](https://huggingface.co/k2-fsa/ZipVoice) |
+| 12 | Unknown | OpenSound/CapSpeech-modelsText-to-Speech | Updated19 days ago | [Link](https://huggingface.co/OpenSound/CapSpeech-models) |
 
 ## Text-to-Video
 
