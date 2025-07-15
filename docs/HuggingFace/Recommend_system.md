@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-07-14
+Updated on 2025-07-15
 
 > Generated from the Hugging Face database.
 
@@ -3891,6 +3891,7 @@ Updated on 2025-07-14
 | 7.28k | 28 | bartowski/Qwen_Qwen3-32B-GGUFText | Updated1 day ago | [Link](https://huggingface.co/bartowski/Qwen_Qwen3-32B-GGUF) |
 | 13.9k | 28 | Qwen/Qwen3-32B-GGUFText | Updatedabout 6 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-32B-GGUF) |
 | 30 | 28 | arcee-ai/HomunculusText | Updatedabout 12 hours ago | [Link](https://huggingface.co/arcee-ai/Homunculus) |
+| Updated22 minutes ago | 28 | LGAI-EXAONE/EXAONE-4 | 32B | [Link](https://huggingface.co/LGAI-EXAONE/EXAONE-4.0-32B) |
 | 256 | 27 | amd/Instella-3BText | Updated5 days ago | [Link](https://huggingface.co/amd/Instella-3B) |
 | 2 | 27 | allenai/OLMo-2-0325-32B-InstructText | Updatedabout 3 hours ago | [Link](https://huggingface.co/allenai/OLMo-2-0325-32B-Instruct) |
 | 9.01k | 27 | lmstudio-community/Mistral-Small-3 | Updated2 days ago | [Link](https://huggingface.co/lmstudio-community/Mistral-Small-3.1-24B-Instruct-2503-GGUF) |
@@ -4003,6 +4004,7 @@ Updated on 2025-07-14
 | 57 | 14 | katanemo/Arch-Agent-32BText | Updated3 days ago | [Link](https://huggingface.co/katanemo/Arch-Agent-32B) |
 | 578k | 6.11k | meta-llama/Meta-Llama-3-8BText | UpdatedSep 27, 2024 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) |
 | Updatedabout 18 hours ago | 6 | apple/sage-ft-mixtral-8x7bText | 47B | [Link](https://huggingface.co/apple/sage-ft-mixtral-8x7b) |
+| Updated28 minutes ago | 5 | unsloth/Kimi-K2-Instruct-GGUFText | 1026B | [Link](https://huggingface.co/unsloth/Kimi-K2-Instruct-GGUF) |
 | Updatedabout 21 hours ago | 4.52k | unsloth/Devstral-Small-2507-GGUFText | 24B | [Link](https://huggingface.co/unsloth/Devstral-Small-2507-GGUF) |
 | Updated6 days ago | 2.04k | marcelbinz/Llama-3 | 71B | [Link](https://huggingface.co/marcelbinz/Llama-3.1-Centaur-70B) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
@@ -4678,6 +4680,7 @@ Updated on 2025-07-14
 | 2 | Unknown | re-skill/orpheus-tj-early-mlx-fp16Text-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/re-skill/orpheus-tj-early-mlx-fp16) |
 | 6 | Unknown | zhu-han/ZipVoiceText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/zhu-han/ZipVoice) |
 | 3 | Unknown | havok2/Kartoffelbox-v0 | Updated8 days ago | [Link](https://huggingface.co/havok2/Kartoffelbox-v0.1_0.65h2) |
+| 4 | Unknown | PapaRazi/Ijazah_Palsu_V2Text-to-Speech | Updated5 days ago | [Link](https://huggingface.co/PapaRazi/Ijazah_Palsu_V2) |
 
 ## Text-to-Video
 
