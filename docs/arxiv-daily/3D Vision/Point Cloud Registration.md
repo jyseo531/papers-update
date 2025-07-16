@@ -2,33 +2,33 @@
 ### Point Cloud Registration
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-14**|**Angular-momentum pairs in spherical systems: applications to the Galactic centre**|Taras Panamarev et.al.|[2507.10551v1](http://arxiv.org/abs/2507.10551v1)|**2025-07-14**|null|
-|**2025-07-14**|**Observational biases on rotation curves from IFU data at cosmic noon**|Amanda E. de Araujo-Carvalho et.al.|[2507.10544v1](http://arxiv.org/abs/2507.10544v1)|**2025-07-14**|null|
-|**2025-07-14**|**MP1: Mean Flow Tames Policy Learning in 1-step for Robotic Manipulation**|Juyi Sheng et.al.|[2507.10543v1](http://arxiv.org/abs/2507.10543v1)|**2025-07-14**|null|
-|**2025-07-14**|**ScaffoldAvatar: High-Fidelity Gaussian Avatars with Patch Expressions**|Shivangi Aneja et.al.|[2507.10542v1](http://arxiv.org/abs/2507.10542v1)|**2025-07-14**|null|
-|**2025-07-14**|**Resolving Degeneracies in Complex $\mathbb{R}\times S^3$ and $θ$-KSW**|Manishankar Ailiga et.al.|[2507.10537v1](http://arxiv.org/abs/2507.10537v1)|**2025-07-14**|null|
-|**2025-07-14**|**CodeJudgeBench: Benchmarking LLM-as-a-Judge for Coding Tasks**|Hongchao Jiang et.al.|[2507.10535v1](http://arxiv.org/abs/2507.10535v1)|**2025-07-14**|null|
-|**2025-07-14**|**Accurate generation of chemical reaction transition states by conditional flow matching**|Ping Tuo et.al.|[2507.10530v1](http://arxiv.org/abs/2507.10530v1)|**2025-07-14**|null|
-|**2025-07-14**|**Bifurcation Analysis of 3D Filippov Systems around Cusp-Fold Singularities**|Oscar A. R. Cespedes et.al.|[2507.10514v1](http://arxiv.org/abs/2507.10514v1)|**2025-07-14**|null|
-|**2025-07-14**|**Topological phases and Edge states in an exactly solvable Gamma matrix model**|Akhil Pravin Furtado et.al.|[2507.10509v1](http://arxiv.org/abs/2507.10509v1)|**2025-07-14**|null|
-|**2025-07-14**|**Spectral properties of the zero temperature Edwards-Anderson model**|Mriganka Basu Roy Chowdhury et.al.|[2507.10507v1](http://arxiv.org/abs/2507.10507v1)|**2025-07-14**|null|
-|**2025-07-14**|**Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance**|Kyungtae Han et.al.|[2507.10500v1](http://arxiv.org/abs/2507.10500v1)|**2025-07-14**|null|
-|**2025-07-14**|**Multiobjective Aerodynamic Design Optimization of the NASA Common Research Model**|Kade Carlson et.al.|[2507.10488v1](http://arxiv.org/abs/2507.10488v1)|**2025-07-14**|null|
-|**2025-07-14**|**Imprints of turbulence on heterogeneous deposition of adhesive particles**|Max P. Herzog et.al.|[2507.10480v1](http://arxiv.org/abs/2507.10480v1)|**2025-07-14**|null|
-|**2025-07-14**|**Solving the compute crisis with physics-based ASICs**|Maxwell Aifer et.al.|[2507.10463v1](http://arxiv.org/abs/2507.10463v1)|**2025-07-14**|null|
-|**2025-07-14**|**Charged Black Hole with String Cloud Deformation: Entanglement and Chaos**|Shagun Kaushal et.al.|[2507.10455v1](http://arxiv.org/abs/2507.10455v1)|**2025-07-14**|null|
-|**2025-07-14**|**Nonlinear Quantum Sensing with a Frustrated Kitaev Trimer**|C. Huerta Alderete et.al.|[2507.10418v1](http://arxiv.org/abs/2507.10418v1)|**2025-07-14**|null|
-|**2025-07-14**|**Polaritonic Machine Learning for Graph-based Data Analysis**|Yuan Wang et.al.|[2507.10415v1](http://arxiv.org/abs/2507.10415v1)|**2025-07-14**|null|
-|**2025-07-14**|**Enhanced superconductivity in the compressively strained bilayer nickelate thin films by pressure**|Qing Li et.al.|[2507.10399v1](http://arxiv.org/abs/2507.10399v1)|**2025-07-14**|null|
-|**2025-07-14**|**Instance-Optimized String Fingerprints**|Mihail Stoian et.al.|[2507.10391v1](http://arxiv.org/abs/2507.10391v1)|**2025-07-14**|null|
-|**2025-07-14**|**Existence of a plane without edge crossings in projections of the random geometric graph**|Lianne de Jonge et.al.|[2507.10389v1](http://arxiv.org/abs/2507.10389v1)|**2025-07-14**|null|
-|**2025-07-14**|**Dynamical stability for dense patterns in discrete attractor neural networks**|Uri Cohen et.al.|[2507.10383v1](http://arxiv.org/abs/2507.10383v1)|**2025-07-14**|null|
-|**2025-07-14**|**Leveraging RAG-LLMs for Urban Mobility Simulation and Analysis**|Yue Ding et.al.|[2507.10382v1](http://arxiv.org/abs/2507.10382v1)|**2025-07-14**|null|
-|**2025-07-14**|**Gas-phase Elemental abundances in Molecular cloudS (GEMS) XI. The evolution of HCN, HNC, and N2H+ isotopic ratios in starless cores**|A. Tasa-Chaveli et.al.|[2507.10380v1](http://arxiv.org/abs/2507.10380v1)|**2025-07-14**|null|
-|**2025-07-14**|**Post-reduction inference for confidence sets of models**|Heather Battey et.al.|[2507.10373v1](http://arxiv.org/abs/2507.10373v1)|**2025-07-14**|null|
-|**2025-07-14**|**Stellar properties indicating the presence of hyperons in neutron stars**|Andreas Bauswein et.al.|[2507.10372v1](http://arxiv.org/abs/2507.10372v1)|**2025-07-14**|null|
-|**2025-07-14**|**Dynamic off-the-grid untangling of curves by Riemannian metric**|Bastien Laville et.al.|[2507.10359v1](http://arxiv.org/abs/2507.10359v1)|**2025-07-14**|null|
-|**2025-07-14**|**Short-time existence of Lagrangian mean curvature flow**|Spandan Ghosh et.al.|[2507.10341v1](http://arxiv.org/abs/2507.10341v1)|**2025-07-14**|null|
-|**2025-07-14**|**MoCap-Impute: A Comprehensive Benchmark and Comparative Analysis of Imputation Methods for IMU-based Motion Capture Data**|Mahmoud Bekhit et.al.|[2507.10334v1](http://arxiv.org/abs/2507.10334v1)|**2025-07-14**|null|
-|**2025-07-14**|**Computing the probability of intersection**|Alexander Barvinok et.al.|[2507.10329v1](http://arxiv.org/abs/2507.10329v1)|**2025-07-14**|null|
-|**2025-07-14**|**Gaussian Process Methods for Very Large Astrometric Data Sets**|Timothy Hapitas et.al.|[2507.10317v1](http://arxiv.org/abs/2507.10317v1)|**2025-07-14**|null|
+|**2025-07-15**|**CharaConsist: Fine-Grained Consistent Character Generation**|Mengyu Wang et.al.|[2507.11533v1](http://arxiv.org/abs/2507.11533v1)|**2025-07-15**|null|
+|**2025-07-15**|**Critical and super-critical scatterings in baryogenesis and leptogenesis**|Marcos M. Flores et.al.|[2507.11532v1](http://arxiv.org/abs/2507.11532v1)|**2025-07-15**|null|
+|**2025-07-15**|**Dam breaks in the discrete nonlinear Schrödinger equation**|Shrohan Mohapatra et.al.|[2507.11529v1](http://arxiv.org/abs/2507.11529v1)|**2025-07-15**|null|
+|**2025-07-15**|**AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air**|Shiyi Yang et.al.|[2507.11515v1](http://arxiv.org/abs/2507.11515v1)|**2025-07-15**|null|
+|**2025-07-15**|**Recursive Bound-Constrained AdaGrad with Applications to Multilevel and Domain Decomposition Minimization**|Serge Gratton et.al.|[2507.11513v1](http://arxiv.org/abs/2507.11513v1)|**2025-07-15**|null|
+|**2025-07-15**|**A Transiting Giant on a 7.7-Year Orbit Revealed by TTVs in the TOI-201 System**|Gracjan Maciejewski et.al.|[2507.11504v1](http://arxiv.org/abs/2507.11504v1)|**2025-07-15**|null|
+|**2025-07-15**|**High temperature modulations, meso-scale interactions and hyperscaling breakdown in Ising models with frustration: some insights from thermodynamic geometry**|Soumen Khatua et.al.|[2507.11472v1](http://arxiv.org/abs/2507.11472v1)|**2025-07-15**|null|
+|**2025-07-15**|**LF: Online Multi-Robot Path Planning Meets Optimal Trajectory Control**|Ajay Shankar et.al.|[2507.11464v1](http://arxiv.org/abs/2507.11464v1)|**2025-07-15**|null|
+|**2025-07-15**|**Deep Equilibrium models for Poisson Imaging Inverse problems via Mirror Descent**|Christian Daniele et.al.|[2507.11461v1](http://arxiv.org/abs/2507.11461v1)|**2025-07-15**|null|
+|**2025-07-15**|**Timescales for stochastic barrier crossing: inferring the potential from nonequilibrium data**|A. J. Archer et.al.|[2507.11456v1](http://arxiv.org/abs/2507.11456v1)|**2025-07-15**|null|
+|**2025-07-15**|**Decay character theory for partially dissipative hyperbolic systems of balance laws**|Ling-Yun Shou et.al.|[2507.11450v1](http://arxiv.org/abs/2507.11450v1)|**2025-07-15**|null|
+|**2025-07-15**|**A magneto-optical trap of silver and potassium atoms**|Michael Vayninger et.al.|[2507.11434v1](http://arxiv.org/abs/2507.11434v1)|**2025-07-15**|null|
+|**2025-07-15**|**Second Quantization for the Kepler Problem**|John C. Baez et.al.|[2507.11428v1](http://arxiv.org/abs/2507.11428v1)|**2025-07-15**|null|
+|**2025-07-15**|**A Stochastic RAGE Theorem and Enhanced Dissipation for Transport Noise**|Michele Coti Zelati et.al.|[2507.11422v1](http://arxiv.org/abs/2507.11422v1)|**2025-07-15**|null|
+|**2025-07-15**|**Performance Bounds of Ranging Precision in SPAD-Based dToF LiDAR**|Hao Wu et.al.|[2507.11404v1](http://arxiv.org/abs/2507.11404v1)|**2025-07-15**|null|
+|**2025-07-15**|**The Evolution of Pointwise Statistics in Hyperbolic Equations with Random Data**|Alina Chertock et.al.|[2507.11399v1](http://arxiv.org/abs/2507.11399v1)|**2025-07-15**|null|
+|**2025-07-15**|**Solving Distance-Based Optimization Problems Using Optical Hardware**|Guangyao Li et.al.|[2507.11378v1](http://arxiv.org/abs/2507.11378v1)|**2025-07-15**|null|
+|**2025-07-15**|**On Kolmogorov-typical properties of symplectic dynamics**|Pierre Berger et.al.|[2507.11375v1](http://arxiv.org/abs/2507.11375v1)|**2025-07-15**|null|
+|**2025-07-15**|**The escaping set in transcendental dynamics**|Walter Bergweiler et.al.|[2507.11370v1](http://arxiv.org/abs/2507.11370v1)|**2025-07-15**|null|
+|**2025-07-15**|**Odd-even parity dependent transport in an annular Kitaev chain**|Wei Wang et.al.|[2507.11354v1](http://arxiv.org/abs/2507.11354v1)|**2025-07-15**|null|
+|**2025-07-15**|**Distributionally Robust Optimization is a Multi-Objective Problem**|Jun-ya Gotoh et.al.|[2507.11350v1](http://arxiv.org/abs/2507.11350v1)|**2025-07-15**|null|
+|**2025-07-15**|**Geometric Criticality in Scale-Invariant Networks**|Lorenzo Lucarini et.al.|[2507.11348v1](http://arxiv.org/abs/2507.11348v1)|**2025-07-15**|null|
+|**2025-07-15**|**Beyond the Clouds: Advanced Data Analysis of a Dutch Sky Quality Meter Network**|Farhan R. Shah et.al.|[2507.11343v1](http://arxiv.org/abs/2507.11343v1)|**2025-07-15**|null|
+|**2025-07-15**|**MonoMVSNet: Monocular Priors Guided Multi-View Stereo Network**|Jianfei Jiang et.al.|[2507.11333v1](http://arxiv.org/abs/2507.11333v1)|**2025-07-15**|null|
+|**2025-07-15**|**A highly-compact and ultra-fast homogeneous electromagnetic calorimeter based on oriented lead tungstate crystals**|L. Bandiera et.al.|[2507.11332v1](http://arxiv.org/abs/2507.11332v1)|**2025-07-15**|null|
+|**2025-07-15**|**SystolicAttention: Fusing FlashAttention within a Single Systolic Array**|Jiawei Lin et.al.|[2507.11331v1](http://arxiv.org/abs/2507.11331v1)|**2025-07-15**|null|
+|**2025-07-15**|**Nonlinear Joint Spectral Radius**|Piero Deidda et.al.|[2507.11314v1](http://arxiv.org/abs/2507.11314v1)|**2025-07-15**|null|
+|**2025-07-15**|**Mesoscopic Fluctuations and Multifractality at and across Measurement-Induced Phase Transition**|Igor Poboiko et.al.|[2507.11312v1](http://arxiv.org/abs/2507.11312v1)|**2025-07-15**|null|
+|**2025-07-15**|**Localization Transition for Interacting Quantum Particles in Colored-Noise Disorder**|Giacomo Morpurgo et.al.|[2507.11308v1](http://arxiv.org/abs/2507.11308v1)|**2025-07-15**|null|
+|**2025-07-15**|**On the Tschirnhausen module of coverings of curves on decomposable ruled surfaces and applications**|Youngook Choi et.al.|[2507.11304v1](http://arxiv.org/abs/2507.11304v1)|**2025-07-15**|null|

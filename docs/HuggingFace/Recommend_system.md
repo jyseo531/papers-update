@@ -104,6 +104,7 @@ Updated on 2025-07-16
 | 1 | Unknown | DFloat11/OmniGen2-mllm-DF11Any-to-Any | Updatedabout 22 hours ago | [Link](https://huggingface.co/DFloat11/OmniGen2-mllm-DF11) |
 | 1 | Unknown | calcuis/omnigen2-ggufAny-to-Any | Updatedabout 2 hours ago | [Link](https://huggingface.co/calcuis/omnigen2-gguf) |
 | 3 | Unknown | BAAI/OmniGen2Any-to-Any | Updatedabout 13 hours ago | [Link](https://huggingface.co/BAAI/OmniGen2) |
+| 1 | Unknown | lithiumice/models_hubAny-to-Any | UpdatedDec 4, 2024 | [Link](https://huggingface.co/lithiumice/models_hub) |
 
 ## Audio Classification
 
@@ -2016,6 +2017,7 @@ Updated on 2025-07-16
 | 270 | 10 | drbaph/Fluffy-kontext-LoRAImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/drbaph/Fluffy-kontext-LoRA) |
 | 11 | 9 | keras-io/conditional-ganImage-to-Image | UpdatedJul 5, 2024 | [Link](https://huggingface.co/keras-io/conditional-gan) |
 | 10.5k | 9 | hafsa000/interior-designImage-to-Image | UpdatedMay 16, 2024 | [Link](https://huggingface.co/hafsa000/interior-design) |
+|  | 9 | ilkerzgi/Overlay-Kontext-Dev-LoRAImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/ilkerzgi/Overlay-Kontext-Dev-LoRA) |
 | 59 | 8 | qualcomm/AOT-GANImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/qualcomm/AOT-GAN) |
 | 1.74k | 7 | xiaozaa/catvton-flux-betaImage-to-Image | UpdatedJan 16 | [Link](https://huggingface.co/xiaozaa/catvton-flux-beta) |
 | 33 | 7 | kontext-community/relighting-kontext-dev-lora-v3Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/kontext-community/relighting-kontext-dev-lora-v3) |
@@ -2024,6 +2026,7 @@ Updated on 2025-07-16
 | 6 | 5 | carsonkatri/stable-diffusion-2-depth-diffusersImage-to-Image | UpdatedDec 2, 2022 | [Link](https://huggingface.co/carsonkatri/stable-diffusion-2-depth-diffusers) |
 | 128 | 5 | qualcomm/LaMa-DilatedImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/qualcomm/LaMa-Dilated) |
 | Updated12 minutes ago | 5 | unsloth/FLUX | 12B | [Link](https://huggingface.co/unsloth/FLUX.1-Kontext-dev-GGUF) |
+|  | 5 | gokaygokay/Fuse-it-Kontext-Dev-LoRAImage-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/gokaygokay/Fuse-it-Kontext-Dev-LoRA) |
 | 575 | 4 | prs-eth/marigold-normals-v1-1Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-normals-v1-1) |
 | 1k | 4 | stanfordmimi/MedVAEImage-to-Image | UpdatedMar 31 | [Link](https://huggingface.co/stanfordmimi/MedVAE) |
 | 3 | 4 | wikeeyang/UniWorld-V1-NF4Image-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/wikeeyang/UniWorld-V1-NF4) |
@@ -2031,6 +2034,7 @@ Updated on 2025-07-16
 | 273 | 4 | radames/stable-diffusion-2-1-unclip-img2imgImage-to-Image | UpdatedMay 17, 2023 | [Link](https://huggingface.co/radames/stable-diffusion-2-1-unclip-img2img) |
 | 34 | 4 | gradient-spaces/ReStyle3DImage-to-Image | Updated29 days ago | [Link](https://huggingface.co/gradient-spaces/ReStyle3D) |
 | 52 | 4 | fal/3D-Game-Assets-Kontext-Dev-LoRAImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/fal/3D-Game-Assets-Kontext-Dev-LoRA) |
+|  | 4 | gokaygokay/Light-Fix-Kontext-Dev-LoRAImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/gokaygokay/Light-Fix-Kontext-Dev-LoRA) |
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
@@ -2142,6 +2146,7 @@ Updated on 2025-07-16
 | 24 |  | gokaygokay/Oil-Paint-Kontext-Dev-LoRAImage-to-Image | Updated5 days ago | [Link](https://huggingface.co/gokaygokay/Oil-Paint-Kontext-Dev-LoRA) |
 | 115 |  | gokaygokay/Pencil-Drawing-Kontext-Dev-LoRAImage-to-Image | Updated5 days ago | [Link](https://huggingface.co/gokaygokay/Pencil-Drawing-Kontext-Dev-LoRA) |
 | 49 |  | drbaph/Synthwave-kontext-LoRAImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/drbaph/Synthwave-kontext-LoRA) |
+| 68 |  | gokaygokay/Pastel-Flux-Kontext-Dev-LoRAImage-to-Image | Updated7 days ago | [Link](https://huggingface.co/gokaygokay/Pastel-Flux-Kontext-Dev-LoRA) |
 
 ## Image-to-Text
 
@@ -3802,6 +3807,7 @@ Updated on 2025-07-16
 | 322 | 90 | XiaomiMiMo/MiMo-7B-BaseText | Updatedabout 12 hours ago | [Link](https://huggingface.co/XiaomiMiMo/MiMo-7B-Base) |
 | 420 | 88 | all-hands/openhands-lm-32b-v0 | Updatedabout 16 hours ago | [Link](https://huggingface.co/all-hands/openhands-lm-32b-v0.1) |
 | 3.93k | 86 | PocketDoc/Dans-PersonalityEngine-V1 | Updated24 days ago | [Link](https://huggingface.co/PocketDoc/Dans-PersonalityEngine-V1.2.0-24b) |
+| Updated6 days ago | 85 | AI-MO/Kimina-Prover-72BText | 73B | [Link](https://huggingface.co/AI-MO/Kimina-Prover-72B) |
 | 966 | 82 | ServiceNow-AI/Apriel-Nemotron-15b-ThinkerText | Updatedabout 5 hours ago | [Link](https://huggingface.co/ServiceNow-AI/Apriel-Nemotron-15b-Thinker) |
 | 21.7k | 78 | unsloth/r1-1776-GGUFText | Updated6 days ago | [Link](https://huggingface.co/unsloth/r1-1776-GGUF) |
 | 10 | 78 | JetBrains/Mellum-4b-baseText | Updatedabout 15 hours ago | [Link](https://huggingface.co/JetBrains/Mellum-4b-base) |
@@ -4329,6 +4335,7 @@ Updated on 2025-07-16
 | 151k | 971 | Lykon/DreamShaperText-to-Image | UpdatedApr 14, 2024 | [Link](https://huggingface.co/Lykon/DreamShaper) |
 | 249k | 892 | city96/FLUX | UpdatedAug 18, 2024 | [Link](https://huggingface.co/city96/FLUX.1-dev-gguf) |
 | 101k | 791 | InstantX/InstantIDText-to-Image | UpdatedJan 22, 2024 | [Link](https://huggingface.co/InstantX/InstantID) |
+| 241k | 683 | stabilityai/stable-diffusion-2-1-baseText-to-Image | UpdatedJul 5, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-2-1-base) |
 | 8.63k | 644 | ostris/OpenFLUX | UpdatedOct 3, 2024 | [Link](https://huggingface.co/ostris/OpenFLUX.1) |
 | 28.8k | 470 | Shakker-Labs/AWPortrait-FLText-to-Image | UpdatedSep 5, 2024 | [Link](https://huggingface.co/Shakker-Labs/AWPortrait-FL) |
 | 49.2k | 457 | Shakker-Labs/FLUX | UpdatedAug 29, 2024 | [Link](https://huggingface.co/Shakker-Labs/FLUX.1-dev-ControlNet-Union-Pro) |
