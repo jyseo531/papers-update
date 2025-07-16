@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-07-15
+Updated on 2025-07-16
 
 > Generated from the Hugging Face database.
 
@@ -2199,6 +2199,7 @@ Updated on 2025-07-15
 | 207 | 13 | DGurgurov/im2latexImage-to-Text | UpdatedOct 23, 2024 | [Link](https://huggingface.co/DGurgurov/im2latex) |
 | 24.8k | 13 | microsoft/trocr-base-stage1Image-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-base-stage1) |
 | UpdatedMay 4 | 13 | ragunath-ravi/blip-histopathology-finetunedImage-to-Text | 0.2B | [Link](https://huggingface.co/ragunath-ravi/blip-histopathology-finetuned) |
+| UpdatedMay 16, 2024 | 13.2k | LanguageBind/Video-LLaVA-7B-hfImage-to-Text | 7B | [Link](https://huggingface.co/LanguageBind/Video-LLaVA-7B-hf) |
 | 3.63k | 12 | microsoft/trocr-small-stage1Image-to-Text | UpdatedJan 24, 2023 | [Link](https://huggingface.co/microsoft/trocr-small-stage1) |
 | 2.29k | 12 | MohamedRashad/arabic-large-nougatImage-to-Text | UpdatedNov 28, 2024 | [Link](https://huggingface.co/MohamedRashad/arabic-large-nougat) |
 | 658 | 11 | prithivMLmods/Florence-2-VLM-Doc-VQAImage-to-Text | UpdatedOct 26, 2024 | [Link](https://huggingface.co/prithivMLmods/Florence-2-VLM-Doc-VQA) |
@@ -4005,6 +4006,7 @@ Updated on 2025-07-15
 | 57 | 14 | katanemo/Arch-Agent-32BText | Updated3 days ago | [Link](https://huggingface.co/katanemo/Arch-Agent-32B) |
 | 578k | 6.11k | meta-llama/Meta-Llama-3-8BText | UpdatedSep 27, 2024 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) |
 | Updatedabout 18 hours ago | 6 | apple/sage-ft-mixtral-8x7bText | 47B | [Link](https://huggingface.co/apple/sage-ft-mixtral-8x7b) |
+| Updated5 days ago | 6.94k | mistralai/Devstral-Small-2507_ggufText | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2507_gguf) |
 | Updated28 minutes ago | 5 | unsloth/Kimi-K2-Instruct-GGUFText | 1026B | [Link](https://huggingface.co/unsloth/Kimi-K2-Instruct-GGUF) |
 | Updatedabout 21 hours ago | 4.52k | unsloth/Devstral-Small-2507-GGUFText | 24B | [Link](https://huggingface.co/unsloth/Devstral-Small-2507-GGUF) |
 | Updated6 days ago | 2.04k | marcelbinz/Llama-3 | 71B | [Link](https://huggingface.co/marcelbinz/Llama-3.1-Centaur-70B) |
@@ -4827,6 +4829,7 @@ Updated on 2025-07-15
 | 4 | Unknown | Lightricks/LTX-Video-ICLoRA-depth-13b-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/Lightricks/LTX-Video-ICLoRA-depth-13b-0.9.7) |
 | 4 | Unknown | Lightricks/LTX-Video-ICLoRA-canny-13b-0 | Updatedabout 16 hours ago | [Link](https://huggingface.co/Lightricks/LTX-Video-ICLoRA-canny-13b-0.9.7) |
 | 3 | Unknown | Cseti/wan-14b-wallace_and_gromit-style-lora-v1Text-to-Video | Updated6 days ago | [Link](https://huggingface.co/Cseti/wan-14b-wallace_and_gromit-style-lora-v1) |
+| 2 | Unknown | JonneyWang/EchoShotText-to-Video | Updated1 day ago | [Link](https://huggingface.co/JonneyWang/EchoShot) |
 
 ## Text2Text Generation
 

@@ -9,7 +9,7 @@
 |**2025-07-14**|**MLAR: Multi-layer Large Language Model-based Robotic Process Automation Applicant Tracking**|Mohamed T. Younes et.al.|[2507.10472v1](http://arxiv.org/abs/2507.10472v1)|**2025-07-14**|null|
 |**2025-07-14**|**A Quantum Programming Language for Coherent Control**|Kathlee Barsse et.al.|[2507.10466v1](http://arxiv.org/abs/2507.10466v1)|**2025-07-14**|null|
 |**2025-07-14**|**4D-Animal: Freely Reconstructing Animatable 3D Animals from Videos**|Shanshan Zhong et.al.|[2507.10437v1](http://arxiv.org/abs/2507.10437v1)|**2025-07-14**|null|
-|**2025-07-14**|**Text-Visual Semantic Constrained AI-Generated Image Quality Assessment**|Qiang Li et.al.|[2507.10432v1](http://arxiv.org/abs/2507.10432v1)|**2025-07-14**|null|
+|**2025-07-14**|**Text-Visual Semantic Constrained AI-Generated Image Quality Assessment**|Qiang Li et.al.|[2507.10432v2](http://arxiv.org/abs/2507.10432v2)|**2025-07-15**|null|
 |**2025-07-14**|**Text-to-Remote-Sensing-Image Retrieval beyond RGB Sources**|Daniele Rege Cambrin et.al.|[2507.10403v1](http://arxiv.org/abs/2507.10403v1)|**2025-07-14**|null|
 |**2025-07-14**|**Existence of a plane without edge crossings in projections of the random geometric graph**|Lianne de Jonge et.al.|[2507.10389v1](http://arxiv.org/abs/2507.10389v1)|**2025-07-14**|null|
 |**2025-07-14**|**Extracting Important Tokens in E-Commerce Queries with a Tag Interaction-Aware Transformer Model**|Md. Ahsanul Kabir et.al.|[2507.10385v1](http://arxiv.org/abs/2507.10385v1)|**2025-07-14**|null|
