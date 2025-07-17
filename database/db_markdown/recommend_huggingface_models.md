@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-07-16
+Updated on 2025-07-17
 
 > Generated from the Hugging Face database.
 
@@ -105,6 +105,7 @@ Updated on 2025-07-16
 | 1 | Unknown | calcuis/omnigen2-ggufAny-to-Any | Updatedabout 2 hours ago | [Link](https://huggingface.co/calcuis/omnigen2-gguf) |
 | 3 | Unknown | BAAI/OmniGen2Any-to-Any | Updatedabout 13 hours ago | [Link](https://huggingface.co/BAAI/OmniGen2) |
 | 1 | Unknown | lithiumice/models_hubAny-to-Any | UpdatedDec 4, 2024 | [Link](https://huggingface.co/lithiumice/models_hub) |
+| 23 | Unknown | HiDream-ai/HiDream-E1-1Any-to-Any | Updatedabout 10 hours ago | [Link](https://huggingface.co/HiDream-ai/HiDream-E1-1) |
 
 ## Audio Classification
 
@@ -1805,6 +1806,7 @@ Updated on 2025-07-16
 | 31 | 9 | qingy2024/GRMR-V3-G4BImage-Text-to-Text | Updatedabout 22 hours ago | [Link](https://huggingface.co/qingy2024/GRMR-V3-G4B) |
 | 163 | 9 | microsoft/GUI-Actor-2B-Qwen2-VLImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/microsoft/GUI-Actor-2B-Qwen2-VL) |
 | 12.7k | 9 | unsloth/Nanonets-OCR-s-GGUFImage-Text-to-Text | Updated4 days ago | [Link](https://huggingface.co/unsloth/Nanonets-OCR-s-GGUF) |
+| Updatedabout 15 hours ago | 9 | NCSOFT/VARCO-VISION-2 | 15B | [Link](https://huggingface.co/NCSOFT/VARCO-VISION-2.0-14B) |
 | 9.71k | 8 | lmstudio-community/gemma-3-27b-it-GGUFImage-Text-to-Text | Updatedabout 18 hours ago | [Link](https://huggingface.co/lmstudio-community/gemma-3-27b-it-GGUF) |
 | 2.95k | 8 | bartowski/google_gemma-3-4b-it-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF) |
 | 725 | 8 | Mungert/gemma-3-4b-it-ggufImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/Mungert/gemma-3-4b-it-gguf) |
@@ -2147,6 +2149,8 @@ Updated on 2025-07-16
 | 115 |  | gokaygokay/Pencil-Drawing-Kontext-Dev-LoRAImage-to-Image | Updated5 days ago | [Link](https://huggingface.co/gokaygokay/Pencil-Drawing-Kontext-Dev-LoRA) |
 | 49 |  | drbaph/Synthwave-kontext-LoRAImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/drbaph/Synthwave-kontext-LoRA) |
 | 68 |  | gokaygokay/Pastel-Flux-Kontext-Dev-LoRAImage-to-Image | Updated7 days ago | [Link](https://huggingface.co/gokaygokay/Pastel-Flux-Kontext-Dev-LoRA) |
+| 151 |  | fal/Watercolor-Art-Kontext-Dev-LoRAImage-to-Image | Updated11 days ago | [Link](https://huggingface.co/fal/Watercolor-Art-Kontext-Dev-LoRA) |
+| 31 |  | gokaygokay/Low-Poly-Kontext-Dev-LoRAImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/gokaygokay/Low-Poly-Kontext-Dev-LoRA) |
 
 ## Image-to-Text
 
@@ -3774,6 +3778,7 @@ Updated on 2025-07-16
 |:----------|:------|:-----------|:------------|:------|
 | 4.08M | 912 | unsloth/DeepSeek-R1-GGUFText | Updated12 days ago | [Link](https://huggingface.co/unsloth/DeepSeek-R1-GGUF) |
 |  | 682 | deepseek-ai/DeepSeek-V3-0324Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3-0324) |
+| Updated5 days ago | 661 | LiquidAI/LFM2-700M-GGUFText | 0.7B | [Link](https://huggingface.co/LiquidAI/LFM2-700M-GGUF) |
 |  | 565 | deepseek-ai/DeepSeek-R1-0528Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528) |
 | 894k | 486 | deepseek-ai/DeepSeek-R1-Distill-Qwen-7BText | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B) |
 |  | 356 | Qwen/QwQ-32BText | Updatedabout 8 hours ago | [Link](https://huggingface.co/Qwen/QwQ-32B) |
@@ -4528,6 +4533,7 @@ Updated on 2025-07-16
 | 38.8k | 991 | Zyphra/Zonos-v0 | Updated10 days ago | [Link](https://huggingface.co/Zyphra/Zonos-v0.1-hybrid) |
 | 1.09M | 916 | SWivid/F5-TTSText-to-Speech | UpdatedNov 8, 2024 | [Link](https://huggingface.co/SWivid/F5-TTS) |
 | 1.16k | 785 | metavoiceio/metavoice-1B-v0 | UpdatedApr 3, 2024 | [Link](https://huggingface.co/metavoiceio/metavoice-1B-v0.1) |
+| UpdatedSep 1, 2023 | 775 | facebook/mms-tts-telText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-tel) |
 | 155k | 733 | microsoft/speecht5_ttsText-to-Speech | UpdatedNov 8, 2023 | [Link](https://huggingface.co/microsoft/speecht5_tts) |
 | 11.8k | 480 | fishaudio/fish-speech-1 | UpdatedDec 3, 2024 | [Link](https://huggingface.co/fishaudio/fish-speech-1.5) |
 | 5.67k | 478 | nari-labs/Dia-1 | Updatedabout 9 hours ago | [Link](https://huggingface.co/nari-labs/Dia-1.6B) |
@@ -4837,6 +4843,7 @@ Updated on 2025-07-16
 | 4 | Unknown | Lightricks/LTX-Video-ICLoRA-canny-13b-0 | Updatedabout 16 hours ago | [Link](https://huggingface.co/Lightricks/LTX-Video-ICLoRA-canny-13b-0.9.7) |
 | 3 | Unknown | Cseti/wan-14b-wallace_and_gromit-style-lora-v1Text-to-Video | Updated6 days ago | [Link](https://huggingface.co/Cseti/wan-14b-wallace_and_gromit-style-lora-v1) |
 | 2 | Unknown | JonneyWang/EchoShotText-to-Video | Updated1 day ago | [Link](https://huggingface.co/JonneyWang/EchoShot) |
+| 2 | Unknown | Lightricks/LTX-Video-ICLoRA-detailer-13b-0 | Updatedabout 12 hours ago | [Link](https://huggingface.co/Lightricks/LTX-Video-ICLoRA-detailer-13b-0.9.8) |
 
 ## Text2Text Generation
 
