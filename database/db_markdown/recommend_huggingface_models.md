@@ -1867,6 +1867,7 @@ Updated on 2025-07-17
 | 28 | Unknown | moonshotai/Kimi-VL-A3B-Thinking-2506Image-Text-to-Text | Updated16 minutes ago | [Link](https://huggingface.co/moonshotai/Kimi-VL-A3B-Thinking-2506) |
 | 9 | Unknown | Kwai-Keye/Keye-VL-8B-PreviewImage-Text-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/Kwai-Keye/Keye-VL-8B-Preview) |
 | 25 | Unknown | unsloth/gemma-3n-E4B-it-GGUFImage-Text-to-Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/unsloth/gemma-3n-E4B-it-GGUF) |
+| 42 | Unknown | merve/smol-visionImage-Text-to-Text | Updatedabout 2 hours ago | [Link](https://huggingface.co/merve/smol-vision) |
 
 ## Image-to-3D
 
@@ -2151,6 +2152,7 @@ Updated on 2025-07-17
 | 68 |  | gokaygokay/Pastel-Flux-Kontext-Dev-LoRAImage-to-Image | Updated7 days ago | [Link](https://huggingface.co/gokaygokay/Pastel-Flux-Kontext-Dev-LoRA) |
 | 151 |  | fal/Watercolor-Art-Kontext-Dev-LoRAImage-to-Image | Updated11 days ago | [Link](https://huggingface.co/fal/Watercolor-Art-Kontext-Dev-LoRA) |
 | 31 |  | gokaygokay/Low-Poly-Kontext-Dev-LoRAImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/gokaygokay/Low-Poly-Kontext-Dev-LoRA) |
+| 44 |  | gokaygokay/Bronze-Sculpture-Kontext-Dev-LoRAImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/gokaygokay/Bronze-Sculpture-Kontext-Dev-LoRA) |
 
 ## Image-to-Text
 
@@ -4417,6 +4419,7 @@ Updated on 2025-07-17
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
 |  | 5 | multimodalart/reachyText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/multimodalart/reachy) |
+| 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 2.56k | 3.84k | WarriorMama777/OrangeMixsText-to-Image | UpdatedJan 7, 2024 | [Link](https://huggingface.co/WarriorMama777/OrangeMixs) |
 | 2 | 2.77k | CompVis/stable-diffusion-v-1-4-originalText-to-Image | UpdatedNov 9, 2022 | [Link](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original) |
 | 5.16k | 2.44k | hakurei/waifu-diffusionText-to-Image | UpdatedJul 5, 2023 | [Link](https://huggingface.co/hakurei/waifu-diffusion) |

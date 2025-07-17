@@ -2,33 +2,33 @@
 ### Robotics
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-15**|**Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation**|Zhen Xu et.al.|[2507.11540v1](http://arxiv.org/abs/2507.11540v1)|**2025-07-15**|null|
-|**2025-07-15**|**LLM-based ambiguity detection in natural language instructions for collaborative surgical robots**|Ana Davila et.al.|[2507.11525v1](http://arxiv.org/abs/2507.11525v1)|**2025-07-15**|null|
-|**2025-07-15**|**Robot Drummer: Learning Rhythmic Skills for Humanoid Drumming**|Asad Ali Shahid et.al.|[2507.11498v2](http://arxiv.org/abs/2507.11498v2)|**2025-07-16**|null|
-|**2025-07-15**|**3C-FBI: A Combinatorial method using Convolutions for Circle Fitting in Blurry Images**|Esteban Román Catafau et.al.|[2507.11476v1](http://arxiv.org/abs/2507.11476v1)|**2025-07-15**|null|
-|**2025-07-15**|**LF: Online Multi-Robot Path Planning Meets Optimal Trajectory Control**|Ajay Shankar et.al.|[2507.11464v1](http://arxiv.org/abs/2507.11464v1)|**2025-07-15**|null|
-|**2025-07-15**|**Human-Robot collaboration in surgery: Advances and challenges towards autonomous surgical assistants**|Jacinto Colan et.al.|[2507.11460v1](http://arxiv.org/abs/2507.11460v1)|**2025-07-15**|null|
-|**2025-07-15**|**Multi-IMU Sensor Fusion for Legged Robots**|Shuo Yang et.al.|[2507.11447v1](http://arxiv.org/abs/2507.11447v1)|**2025-07-15**|null|
-|**2025-07-15**|**Uniting the World by Dividing it: Federated Maps to Enable Spatial Applications**|Sagar Bharadwaj et.al.|[2507.11437v1](http://arxiv.org/abs/2507.11437v1)|**2025-07-15**|null|
-|**2025-07-15**|**From Production Logistics to Smart Manufacturing: The Vision for a New RoboCup Industrial League**|Supun Dissanayaka et.al.|[2507.11402v1](http://arxiv.org/abs/2507.11402v1)|**2025-07-15**|null|
-|**2025-07-15**|**From Chaos to Automation: Enabling the Use of Unstructured Data for Robotic Process Automation**|Kelly Kurowski et.al.|[2507.11364v1](http://arxiv.org/abs/2507.11364v1)|**2025-07-15**|null|
-|**2025-07-15**|**Acting and Planning with Hierarchical Operational Models on a Mobile Robot: A Study with RAE+UPOM**|Oscar Lima et.al.|[2507.11345v1](http://arxiv.org/abs/2507.11345v1)|**2025-07-15**|null|
-|**2025-07-15**|**CogDDN: A Cognitive Demand-Driven Navigation with Decision Optimization and Dual-Process Thinking**|Yuehao Huang et.al.|[2507.11334v1](http://arxiv.org/abs/2507.11334v1)|**2025-07-15**|null|
-|**2025-07-15**|**All Eyes, no IMU: Learning Flight Attitude from Vision Alone**|Jesse J. Hagenaars et.al.|[2507.11302v1](http://arxiv.org/abs/2507.11302v1)|**2025-07-15**|null|
-|**2025-07-15**|**Diffusion-Based Imaginative Coordination for Bimanual Manipulation**|Huilin Xu et.al.|[2507.11296v1](http://arxiv.org/abs/2507.11296v1)|**2025-07-15**|null|
-|**2025-07-15**|**Task-Oriented Human Grasp Synthesis via Context- and Task-Aware Diffusers**|An-Lun Liu et.al.|[2507.11287v1](http://arxiv.org/abs/2507.11287v1)|**2025-07-15**|null|
-|**2025-07-15**|**Ocean Diviner: A Diffusion-Augmented Reinforcement Learning for AUV Robust Control in the Underwater Tasks**|Weiyi Liu et.al.|[2507.11283v1](http://arxiv.org/abs/2507.11283v1)|**2025-07-15**|null|
-|**2025-07-15**|**Development of an Autonomous Mobile Robotic System for Efficient and Precise Disinfection**|Ting-Wei Ou et.al.|[2507.11270v1](http://arxiv.org/abs/2507.11270v1)|**2025-07-15**|null|
-|**2025-07-15**|**Comparison of Localization Algorithms between Reduced-Scale and Real-Sized Vehicles Using Visual and Inertial Sensors**|Tobias Kern et.al.|[2507.11241v1](http://arxiv.org/abs/2507.11241v1)|**2025-07-15**|null|
-|**2025-07-15**|**MPC-based Coarse-to-Fine Motion Planning for Robotic Object Transportation in Cluttered Environments**|Chen Cai et.al.|[2507.11211v1](http://arxiv.org/abs/2507.11211v1)|**2025-07-15**|null|
-|**2025-07-15**|**Wallpaper Group-Based Mechanical Metamaterials: Dataset Including Mechanical Responses**|Fleur Hendriks et.al.|[2507.11195v1](http://arxiv.org/abs/2507.11195v1)|**2025-07-15**|null|
-|**2025-07-15**|**A Robust Controller based on Gaussian Processes for Robotic Manipulators with Unknown Uncertainty**|Giulio Giacomuzzo et.al.|[2507.11170v1](http://arxiv.org/abs/2507.11170v1)|**2025-07-15**|null|
-|**2025-07-15**|**Force-Based Viscosity and Elasticity Measurements for Material Biomechanical Characterisation with a Collaborative Robotic Arm**|Luca Beber et.al.|[2507.11133v1](http://arxiv.org/abs/2507.11133v1)|**2025-07-15**|null|
-|**2025-07-15**|**Closed Form Time Derivatives of the Equations of Motion of Rigid Body Systems**|Andreas Mueller et.al.|[2507.11076v1](http://arxiv.org/abs/2507.11076v1)|**2025-07-15**|null|
-|**2025-07-15**|**TRAN-D: 2D Gaussian Splatting-based Sparse-view Transparent Object Depth Reconstruction via Physics Simulation for Scene Update**|Jeongyun Kim et.al.|[2507.11069v2](http://arxiv.org/abs/2507.11069v2)|**2025-07-16**|null|
-|**2025-07-15**|**A Multi-View High-Resolution Foot-Ankle Complex Point Cloud Dataset During Gait for Occlusion-Robust 3D Completion**|Jie-Wen Li et.al.|[2507.11037v1](http://arxiv.org/abs/2507.11037v1)|**2025-07-15**|null|
-|**2025-07-15**|**Relative Entropy Pathwise Policy Optimization**|Claas Voelcker et.al.|[2507.11019v1](http://arxiv.org/abs/2507.11019v1)|**2025-07-15**|null|
-|**2025-07-15**|**Enhancing Autonomous Manipulator Control with Human-in-loop for Uncertain Assembly Environments**|Ashutosh Mishra et.al.|[2507.11006v1](http://arxiv.org/abs/2507.11006v1)|**2025-07-15**|null|
-|**2025-07-15**|**Learning to Tune Like an Expert: Interpretable and Scene-Aware Navigation via MLLM Reasoning and CVAE-Based Adaptation**|Yanbo Wang et.al.|[2507.11001v1](http://arxiv.org/abs/2507.11001v1)|**2025-07-15**|null|
-|**2025-07-15**|**ILCL: Inverse Logic-Constraint Learning from Temporally Constrained Demonstrations**|Minwoo Cho et.al.|[2507.11000v1](http://arxiv.org/abs/2507.11000v1)|**2025-07-15**|null|
-|**2025-07-15**|**Uncertainty Aware Mapping for Vision-Based Underwater Robots**|Abhimanyu Bhowmik et.al.|[2507.10991v1](http://arxiv.org/abs/2507.10991v1)|**2025-07-15**|null|
+|**2025-07-16**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Ruihan Yang et.al.|[2507.12440v1](http://arxiv.org/abs/2507.12440v1)|**2025-07-16**|null|
+|**2025-07-16**|**Design and Development of an Automated Contact Angle Tester (ACAT) for Surface Wettability Measurement**|Connor Burgess et.al.|[2507.12431v1](http://arxiv.org/abs/2507.12431v1)|**2025-07-16**|null|
+|**2025-07-16**|**AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models**|Santosh Vasa et.al.|[2507.12414v1](http://arxiv.org/abs/2507.12414v1)|**2025-07-16**|null|
+|**2025-07-16**|**Regrasp Maps for Sequential Manipulation Planning**|Svetlana Levit et.al.|[2507.12407v1](http://arxiv.org/abs/2507.12407v1)|**2025-07-16**|null|
+|**2025-07-16**|**Assessing the Value of Visual Input: A Benchmark of Multimodal Large Language Models for Robotic Path Planning**|Jacinto Colan et.al.|[2507.12391v1](http://arxiv.org/abs/2507.12391v1)|**2025-07-16**|null|
+|**2025-07-16**|**Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction with an Agentic Robot**|Luca Garello et.al.|[2507.12273v1](http://arxiv.org/abs/2507.12273v1)|**2025-07-16**|null|
+|**2025-07-16**|**UniLGL: Learning Uniform Place Recognition for FOV-limited/Panoramic LiDAR Global Localization**|Hongming Shen et.al.|[2507.12194v1](http://arxiv.org/abs/2507.12194v1)|**2025-07-16**|null|
+|**2025-07-16**|**Fast and Scalable Game-Theoretic Trajectory Planning with Intentional Uncertainties**|Zhenmin Huang et.al.|[2507.12174v1](http://arxiv.org/abs/2507.12174v1)|**2025-07-16**|null|
+|**2025-07-16**|**Probabilistic Safety Verification for an Autonomous Ground Vehicle: A Situation Coverage Grid Approach**|Nawshin Mannan Proma et.al.|[2507.12158v1](http://arxiv.org/abs/2507.12158v1)|**2025-07-16**|null|
+|**2025-07-16**|**Leveraging Sidewalk Robots for Walkability-Related Analyses**|Xing Tong et.al.|[2507.12148v1](http://arxiv.org/abs/2507.12148v1)|**2025-07-16**|null|
+|**2025-07-16**|**Tree-SLAM: semantic object SLAM for efficient mapping of individual trees in orchards**|David Rapado-Rincon et.al.|[2507.12093v1](http://arxiv.org/abs/2507.12093v1)|**2025-07-16**|null|
+|**2025-07-16**|**Foresight in Motion: Reinforcing Trajectory Prediction with Reward Heuristics**|Muleilan Pei et.al.|[2507.12083v1](http://arxiv.org/abs/2507.12083v1)|**2025-07-16**|null|
+|**2025-07-16**|**Robust Route Planning for Sidewalk Delivery Robots**|Xing Tong et.al.|[2507.12067v1](http://arxiv.org/abs/2507.12067v1)|**2025-07-16**|null|
+|**2025-07-16**|**SGLoc: Semantic Localization System for Camera Pose Estimation from 3D Gaussian Splatting Representation**|Beining Xu et.al.|[2507.12027v1](http://arxiv.org/abs/2507.12027v1)|**2025-07-16**|null|
+|**2025-07-16**|**Robust Planning for Autonomous Vehicles with Diffusion-Based Failure Samplers**|Juanran Wang et.al.|[2507.11991v1](http://arxiv.org/abs/2507.11991v1)|**2025-07-16**|null|
+|**2025-07-16**|**Online Training and Pruning of Deep Reinforcement Learning Networks**|Valentin Frank Ingmar Guenter et.al.|[2507.11975v1](http://arxiv.org/abs/2507.11975v1)|**2025-07-16**|null|
+|**2025-07-16**|**A Review of Generative AI in Aquaculture: Foundations, Applications, and Future Directions for Smart and Sustainable Farming**|Waseem Akram et.al.|[2507.11974v1](http://arxiv.org/abs/2507.11974v1)|**2025-07-16**|null|
+|**2025-07-16**|**MOSPA: Human Motion Generation Driven by Spatial Audio**|Shuyang Xu et.al.|[2507.11949v1](http://arxiv.org/abs/2507.11949v1)|**2025-07-16**|null|
+|**2025-07-16**|**IANN-MPPI: Interaction-Aware Neural Network-Enhanced Model Predictive Path Integral Approach for Autonomous Driving**|Kanghyun Ryu et.al.|[2507.11940v1](http://arxiv.org/abs/2507.11940v1)|**2025-07-16**|null|
+|**2025-07-16**|**A Multi-Level Similarity Approach for Single-View Object Grasping: Matching, Planning, and Fine-Tuning**|Hao Chen et.al.|[2507.11938v1](http://arxiv.org/abs/2507.11938v1)|**2025-07-16**|null|
+|**2025-07-16**|**Hybrid Conformal Prediction-based Risk-Aware Model Predictive Planning in Dense, Uncertain Environments**|Jeongyong Yang et.al.|[2507.11920v1](http://arxiv.org/abs/2507.11920v1)|**2025-07-16**|null|
+|**2025-07-16**|**NemeSys: An Online Underwater Explorer with Goal-Driven Adaptive Autonomy**|Adnan Abdullah et.al.|[2507.11889v1](http://arxiv.org/abs/2507.11889v1)|**2025-07-16**|null|
+|**2025-07-16**|**A Fast Method for Planning All Optimal Homotopic Configurations for Tethered Robots and Its Extended Applications**|Jinyuan Liu et.al.|[2507.11880v1](http://arxiv.org/abs/2507.11880v1)|**2025-07-16**|null|
+|**2025-07-16**|**Algorithm Design and Comparative Test of Natural Gradient Gaussian Approximation Filter**|Wenhan Cao et.al.|[2507.11872v1](http://arxiv.org/abs/2507.11872v1)|**2025-07-16**|null|
+|**2025-07-16**|**Towards Autonomous Riding: A Review of Perception, Planning, and Control in Intelligent Two-Wheelers**|Mohammed Hassanin et.al.|[2507.11852v1](http://arxiv.org/abs/2507.11852v1)|**2025-07-16**|null|
+|**2025-07-16**|**The Developments and Challenges towards Dexterous and Embodied Robotic Manipulation: A Survey**|Gaofeng Li et.al.|[2507.11840v1](http://arxiv.org/abs/2507.11840v1)|**2025-07-16**|null|
+|**2025-07-15**|**Generating Actionable Robot Knowledge Bases by Combining 3D Scene Graphs with Robot Ontologies**|Giang Nguyen et.al.|[2507.11770v1](http://arxiv.org/abs/2507.11770v1)|**2025-07-15**|null|
+|**2025-07-15**|**CoNav Chair: Development and Evaluation of a Shared Control based Wheelchair for the Built Environment**|Yifan Xu et.al.|[2507.11716v1](http://arxiv.org/abs/2507.11716v1)|**2025-07-15**|null|
+|**2025-07-15**|**Let's Think in Two Steps: Mitigating Agreement Bias in MLLMs with Self-Grounded Verification**|Moises Andrade et.al.|[2507.11662v1](http://arxiv.org/abs/2507.11662v1)|**2025-07-15**|null|
+|**2025-07-15**|**VISTA: Monocular Segmentation-Based Mapping for Appearance and View-Invariant Global Localization**|Hannah Shafferman et.al.|[2507.11653v1](http://arxiv.org/abs/2507.11653v1)|**2025-07-15**|null|

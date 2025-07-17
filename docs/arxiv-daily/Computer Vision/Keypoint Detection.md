@@ -2,7 +2,16 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-16**|**Neural Network-Guided Symbolic Regression for Interpretable Descriptor Discovery in Perovskite Catalysts**|Yeming Xian et.al.|[2507.12404v1](http://arxiv.org/abs/2507.12404v1)|**2025-07-16**|null|
+|**2025-07-16**|**Heat Kernel Goes Topological**|Maximilian Krahn et.al.|[2507.12380v1](http://arxiv.org/abs/2507.12380v1)|**2025-07-16**|null|
+|**2025-07-16**|**Unsupervised Monocular 3D Keypoint Discovery from Multi-View Diffusion Priors**|Subin Jeon et.al.|[2507.12336v1](http://arxiv.org/abs/2507.12336v1)|**2025-07-16**|null|
+|**2025-07-16**|**UniLGL: Learning Uniform Place Recognition for FOV-limited/Panoramic LiDAR Global Localization**|Hongming Shen et.al.|[2507.12194v1](http://arxiv.org/abs/2507.12194v1)|**2025-07-16**|null|
+|**2025-07-16**|**SGLoc: Semantic Localization System for Camera Pose Estimation from 3D Gaussian Splatting Representation**|Beining Xu et.al.|[2507.12027v1](http://arxiv.org/abs/2507.12027v1)|**2025-07-16**|null|
+|**2025-07-16**|**Unsupervised Part Discovery via Descriptor-Based Masked Image Restoration with Optimized Constraints**|Jiahao Xia et.al.|[2507.11985v1](http://arxiv.org/abs/2507.11985v1)|**2025-07-16**|null|
+|**2025-07-16**|**A Multi-Level Similarity Approach for Single-View Object Grasping: Matching, Planning, and Fine-Tuning**|Hao Chen et.al.|[2507.11938v1](http://arxiv.org/abs/2507.11938v1)|**2025-07-16**|null|
+|**2025-07-16**|**SEPose: A Synthetic Event-based Human Pose Estimation Dataset for Pedestrian Monitoring**|Kaustav Chanda et.al.|[2507.11910v1](http://arxiv.org/abs/2507.11910v1)|**2025-07-16**|null|
 |**2025-07-15**|**Effects of Epoxy Composition on the Thermal and Network Properties of Crosslinked Thermosets: A Molecular-Dynamics Study**|Venkata Rama Manoj Pola et.al.|[2507.11453v1](http://arxiv.org/abs/2507.11453v1)|**2025-07-15**|null|
+|**2025-07-15**|**Deciphering Delivery Mobility: A City-Scale, Path-Reconstructed Trajectory Dataset of Instant Delivery Riders**|Chengbo Zhang et.al.|[2507.11584v1](http://arxiv.org/abs/2507.11584v1)|**2025-07-15**|null|
 |**2025-07-15**|**Wallpaper Group-Based Mechanical Metamaterials: Dataset Including Mechanical Responses**|Fleur Hendriks et.al.|[2507.11195v1](http://arxiv.org/abs/2507.11195v1)|**2025-07-15**|null|
 |**2025-07-15**|**KptLLM++: Towards Generic Keypoint Comprehension with Large Language Model**|Jie Yang et.al.|[2507.11102v1](http://arxiv.org/abs/2507.11102v1)|**2025-07-15**|null|
 |**2025-07-15**|**GKNet: Graph-based Keypoints Network for Monocular Pose Estimation of Non-cooperative Spacecraft**|Weizhao Ma et.al.|[2507.11077v1](http://arxiv.org/abs/2507.11077v1)|**2025-07-15**|null|
@@ -23,12 +32,3 @@
 |**2025-07-10**|**Growth of Structural Lengthscale in Kob Andersen Binary Mixtures: Role of medium range order**|Sanket Kumawat et.al.|[2507.07819v1](http://arxiv.org/abs/2507.07819v1)|**2025-07-10**|null|
 |**2025-07-10**|**SecureSpeech: Prompt-based Speaker and Content Protection**|Belinda Soh Hui Hui et.al.|[2507.07799v1](http://arxiv.org/abs/2507.07799v1)|**2025-07-10**|null|
 |**2025-07-10**|**A Semi-Empirical Descriptor for Open Circuit Voltage**|Sourav Baiju et.al.|[2507.07760v2](http://arxiv.org/abs/2507.07760v2)|**2025-07-16**|null|
-|**2025-07-10**|**Attend-and-Refine: Interactive keypoint estimation and quantitative cervical vertebrae analysis for bone age assessment**|Jinhee Kim et.al.|[2507.07670v1](http://arxiv.org/abs/2507.07670v1)|**2025-07-10**|null|
-|**2025-07-10**|**Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects**|Yuqi Cheng et.al.|[2507.07435v1](http://arxiv.org/abs/2507.07435v1)|**2025-07-10**|null|
-|**2025-07-10**|**KeyRe-ID: Keypoint-Guided Person Re-Identification using Part-Aware Representation in Videos**|Jinseong Kim et.al.|[2507.07393v2](http://arxiv.org/abs/2507.07393v2)|**2025-07-11**|null|
-|**2025-07-09**|**Reading a Ruler in the Wild**|Yimu Pan et.al.|[2507.07077v1](http://arxiv.org/abs/2507.07077v1)|**2025-07-09**|null|
-|**2025-07-09**|**Real-space understanding of electron-phonon coupling in superconducting hydrides**|Trinidad Novoa et.al.|[2507.06749v1](http://arxiv.org/abs/2507.06749v1)|**2025-07-09**|null|
-|**2025-07-09**|**MK-Pose: Category-Level Object Pose Estimation via Multimodal-Based Keypoint Learning**|Yifan Yang et.al.|[2507.06662v1](http://arxiv.org/abs/2507.06662v1)|**2025-07-09**|null|
-|**2025-07-09**|**Learning from Sparse Point Labels for Dense Carcinosis Localization in Advanced Ovarian Cancer Assessment**|Farahdiba Zarin et.al.|[2507.06643v1](http://arxiv.org/abs/2507.06643v1)|**2025-07-09**|null|
-|**2025-07-09**|**ILNet: Trajectory Prediction with Inverse Learning Attention for Enhancing Intention Capture**|Mingjin Zeng et.al.|[2507.06531v1](http://arxiv.org/abs/2507.06531v1)|**2025-07-09**|null|
-|**2025-07-09**|**Speak2Sign3D: A Multi-modal Pipeline for English Speech to American Sign Language Animation**|Kazi Mahathir Rahman et.al.|[2507.06530v1](http://arxiv.org/abs/2507.06530v1)|**2025-07-09**|null|
