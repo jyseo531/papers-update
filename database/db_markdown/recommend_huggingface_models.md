@@ -2157,6 +2157,7 @@ Updated on 2025-07-18
 | 31 |  | gokaygokay/Low-Poly-Kontext-Dev-LoRAImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/gokaygokay/Low-Poly-Kontext-Dev-LoRA) |
 | 44 |  | gokaygokay/Bronze-Sculpture-Kontext-Dev-LoRAImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/gokaygokay/Bronze-Sculpture-Kontext-Dev-LoRA) |
 | 57 |  | fofr/kontext-old-and-damaged-photoImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/fofr/kontext-old-and-damaged-photo) |
+| 4 | Unknown | ilkerzgi/Glittering-Portrait-Kontext-Dev-LoraImage-to-Image | Updatedabout 18 hours ago | [Link](https://huggingface.co/ilkerzgi/Glittering-Portrait-Kontext-Dev-Lora) |
 
 ## Image-to-Text
 
