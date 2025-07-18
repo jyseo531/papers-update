@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-07-17
+Updated on 2025-07-18
 
 > Generated from the Hugging Face database.
 
@@ -1830,6 +1830,7 @@ Updated on 2025-07-17
 | 160 | 6 | MIL-UT/Asagi-14BImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/MIL-UT/Asagi-14B) |
 | 168 | 5 | MBZUAI/AINImage-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/MBZUAI/AIN) |
 | Updatedabout 9 hours ago | 5 | Skywork/Skywork-R1V3-38BImage-Text-to-Text | 38B | [Link](https://huggingface.co/Skywork/Skywork-R1V3-38B) |
+| Updatedabout 7 hours ago | 2.63k | nvidia/Eagle2 | 8B | [Link](https://huggingface.co/nvidia/Eagle2.5-8B) |
 | 2.72k | 1.62k | microsoft/OmniParserImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/microsoft/OmniParser) |
 | 100k | 1.4k | stepfun-ai/GOT-OCR2_0Image-Text-to-Text | Updated21 days ago | [Link](https://huggingface.co/stepfun-ai/GOT-OCR2_0) |
 | 1.78M | 1.42k | microsoft/Florence-2-largeImage-Text-to-Text | UpdatedDec 8, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-large) |
@@ -2228,6 +2229,7 @@ Updated on 2025-07-17
 | 24.7k | 7 | Riksarkivet/trocr-base-handwritten-hist-swe-2Image-to-Text | Updated11 days ago | [Link](https://huggingface.co/Riksarkivet/trocr-base-handwritten-hist-swe-2) |
 | 285 | 7 | purna419/invoice-parserImage-to-Text | UpdatedJul 10, 2023 | [Link](https://huggingface.co/purna419/invoice-parser) |
 | 6 | 7 | sujet-ai/Lutece-Vision-BaseImage-to-Text | UpdatedJul 14, 2024 | [Link](https://huggingface.co/sujet-ai/Lutece-Vision-Base) |
+| 18 | 7 | kirmorozov/mage-captcha-solverImage-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/kirmorozov/mage-captcha-solver) |
 | 624 | 6 | fhswf/TrOCR_Math_handwrittenImage-to-Text | UpdatedOct 21, 2024 | [Link](https://huggingface.co/fhswf/TrOCR_Math_handwritten) |
 | 511 | 6 | microsoft/trocr-base-strImage-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-base-str) |
 | Updated21 days ago | 6.36k | allenai/olmOCR-7B-0225-preview-FP8Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview-FP8) |
@@ -2327,6 +2329,7 @@ Updated on 2025-07-17
 | 18 | Unknown | BAAI/tokenize-anythingImage-to-Text | UpdatedMay 28, 2024 | [Link](https://huggingface.co/BAAI/tokenize-anything) |
 | 2 | Unknown | MeissonFlow/MudditImage-to-Text | Updatedabout 12 hours ago | [Link](https://huggingface.co/MeissonFlow/Muddit) |
 | 21 | Unknown | TRI-ML/prismatic-vlmsImage-to-Text | UpdatedMay 6, 2024 | [Link](https://huggingface.co/TRI-ML/prismatic-vlms) |
+| 18 | Unknown | OpenFace-CQUPT/FLIPImage-to-Text | UpdatedJun 9 | [Link](https://huggingface.co/OpenFace-CQUPT/FLIP) |
 
 ## Image-to-Video
 
@@ -4026,6 +4029,7 @@ Updated on 2025-07-17
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
 | Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
+| Updated6 days ago | 1.51k | LiquidAI/LFM2-350M-GGUFText | 0.4B | [Link](https://huggingface.co/LiquidAI/LFM2-350M-GGUF) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |

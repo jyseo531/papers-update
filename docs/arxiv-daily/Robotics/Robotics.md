@@ -2,12 +2,12 @@
 ### Robotics
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-16**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Ruihan Yang et.al.|[2507.12440v1](http://arxiv.org/abs/2507.12440v1)|**2025-07-16**|null|
+|**2025-07-16**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Ruihan Yang et.al.|[2507.12440v2](http://arxiv.org/abs/2507.12440v2)|**2025-07-17**|null|
 |**2025-07-16**|**Design and Development of an Automated Contact Angle Tester (ACAT) for Surface Wettability Measurement**|Connor Burgess et.al.|[2507.12431v1](http://arxiv.org/abs/2507.12431v1)|**2025-07-16**|null|
 |**2025-07-16**|**AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models**|Santosh Vasa et.al.|[2507.12414v1](http://arxiv.org/abs/2507.12414v1)|**2025-07-16**|null|
 |**2025-07-16**|**Regrasp Maps for Sequential Manipulation Planning**|Svetlana Levit et.al.|[2507.12407v1](http://arxiv.org/abs/2507.12407v1)|**2025-07-16**|null|
 |**2025-07-16**|**Assessing the Value of Visual Input: A Benchmark of Multimodal Large Language Models for Robotic Path Planning**|Jacinto Colan et.al.|[2507.12391v1](http://arxiv.org/abs/2507.12391v1)|**2025-07-16**|null|
-|**2025-07-16**|**Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction with an Agentic Robot**|Luca Garello et.al.|[2507.12273v1](http://arxiv.org/abs/2507.12273v1)|**2025-07-16**|null|
+|**2025-07-16**|**Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction with an Agentic Robot**|Luca Garello et.al.|[2507.12273v2](http://arxiv.org/abs/2507.12273v2)|**2025-07-17**|null|
 |**2025-07-16**|**UniLGL: Learning Uniform Place Recognition for FOV-limited/Panoramic LiDAR Global Localization**|Hongming Shen et.al.|[2507.12194v1](http://arxiv.org/abs/2507.12194v1)|**2025-07-16**|null|
 |**2025-07-16**|**Fast and Scalable Game-Theoretic Trajectory Planning with Intentional Uncertainties**|Zhenmin Huang et.al.|[2507.12174v1](http://arxiv.org/abs/2507.12174v1)|**2025-07-16**|null|
 |**2025-07-16**|**Probabilistic Safety Verification for an Autonomous Ground Vehicle: A Situation Coverage Grid Approach**|Nawshin Mannan Proma et.al.|[2507.12158v1](http://arxiv.org/abs/2507.12158v1)|**2025-07-16**|null|

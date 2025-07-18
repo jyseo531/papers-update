@@ -8,7 +8,7 @@
 |**2025-07-16**|**Do Cosmic String Segments Emit Gravitational Waves?**|Akifumi Chitose et.al.|[2507.12386v1](http://arxiv.org/abs/2507.12386v1)|**2025-07-16**|null|
 |**2025-07-16**|**Text-driven Multiplanar Visual Interaction for Semi-supervised Medical Image Segmentation**|Kaiwen Huang et.al.|[2507.12382v1](http://arxiv.org/abs/2507.12382v1)|**2025-07-16**|null|
 |**2025-07-16**|**Nonlinear Concept Erasure: a Density Matching Approach**|Antoine Saillenfest et.al.|[2507.12341v1](http://arxiv.org/abs/2507.12341v1)|**2025-07-16**|null|
-|**2025-07-16**|**Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models**|Samuel Lavoie et.al.|[2507.12318v1](http://arxiv.org/abs/2507.12318v1)|**2025-07-16**|null|
+|**2025-07-16**|**Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models**|Samuel Lavoie et.al.|[2507.12318v2](http://arxiv.org/abs/2507.12318v2)|**2025-07-17**|null|
 |**2025-07-16**|**An Ecosystem for Ontology Interoperability**|Zhangcheng Qiang et.al.|[2507.12311v1](http://arxiv.org/abs/2507.12311v1)|**2025-07-16**|null|
 |**2025-07-16**|**RegCL: Continual Adaptation of Segment Anything Model via Model Merging**|Yuan-Chen Shu et.al.|[2507.12297v1](http://arxiv.org/abs/2507.12297v1)|**2025-07-16**|null|
 |**2025-07-16**|**Efficient Calisthenics Skills Classification through Foreground Instance Selection and Depth Estimation**|Antonio Finocchiaro et.al.|[2507.12292v1](http://arxiv.org/abs/2507.12292v1)|**2025-07-16**|null|
@@ -27,7 +27,7 @@
 |**2025-07-16**|**Tree-SLAM: semantic object SLAM for efficient mapping of individual trees in orchards**|David Rapado-Rincon et.al.|[2507.12093v1](http://arxiv.org/abs/2507.12093v1)|**2025-07-16**|null|
 |**2025-07-16**|**Benchmarking and Explaining Deep Learning Cortical Lesion MRI Segmentation in Multiple Sclerosis**|Nataliia Molchanova et.al.|[2507.12092v1](http://arxiv.org/abs/2507.12092v1)|**2025-07-16**|null|
 |**2025-07-16**|**LLAMA: Multi-Feedback Smart Contract Fuzzing Framework with LLM-Guided Seed Generation**|Keke Gai et.al.|[2507.12084v1](http://arxiv.org/abs/2507.12084v1)|**2025-07-16**|null|
-|**2025-07-16**|**VoxATtack: A Multimodal Attack on Voice Anonymization Systems**|Ahmad Aloradi et.al.|[2507.12081v1](http://arxiv.org/abs/2507.12081v1)|**2025-07-16**|null|
+|**2025-07-16**|**VoxATtack: A Multimodal Attack on Voice Anonymization Systems**|Ahmad Aloradi et.al.|[2507.12081v2](http://arxiv.org/abs/2507.12081v2)|**2025-07-17**|null|
 |**2025-07-16**|**A thermofield-double model of Uhlmann anholonomy**|Péter Lévay et.al.|[2507.12071v1](http://arxiv.org/abs/2507.12071v1)|**2025-07-16**|null|
 |**2025-07-16**|**MS-DETR: Towards Effective Video Moment Retrieval and Highlight Detection by Joint Motion-Semantic Learning**|Hongxu Ma et.al.|[2507.12062v1](http://arxiv.org/abs/2507.12062v1)|**2025-07-16**|null|
 |**2025-07-16**|**InstructFLIP: Exploring Unified Vision-Language Model for Face Anti-spoofing**|Kun-Hsiang Lin et.al.|[2507.12060v1](http://arxiv.org/abs/2507.12060v1)|**2025-07-16**|null|

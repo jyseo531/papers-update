@@ -2,7 +2,7 @@
 ### 3D Object Tracking
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-16**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziang Cao et.al.|[2507.12465v1](http://arxiv.org/abs/2507.12465v1)|**2025-07-16**|null|
+|**2025-07-16**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziang Cao et.al.|[2507.12465v2](http://arxiv.org/abs/2507.12465v2)|**2025-07-17**|null|
 |**2025-07-16**|**SpatialTrackerV2: 3D Point Tracking Made Easy**|Yuxi Xiao et.al.|[2507.12462v1](http://arxiv.org/abs/2507.12462v1)|**2025-07-16**|null|
 |**2025-07-16**|**Interpreting Radiologist's Intention from Eye Movements in Chest X-ray Diagnosis**|Trong-Thang Pham et.al.|[2507.12461v1](http://arxiv.org/abs/2507.12461v1)|**2025-07-16**|null|
 |**2025-07-16**|**On One-Shot Signatures, Quantum vs Classical Binding, and Obfuscating Permutations**|Omri Shmueli et.al.|[2507.12456v1](http://arxiv.org/abs/2507.12456v1)|**2025-07-16**|null|
@@ -22,7 +22,7 @@
 |**2025-07-16**|**OD-VIRAT: A Large-Scale Benchmark for Object Detection in Realistic Surveillance Environments**|Hayat Ullah et.al.|[2507.12396v1](http://arxiv.org/abs/2507.12396v1)|**2025-07-16**|null|
 |**2025-07-16**|**Convergence of drift-diffusion PDEs arising as Wasserstein gradient flows of convex functions**|Lénaïc Chizat et.al.|[2507.12385v1](http://arxiv.org/abs/2507.12385v1)|**2025-07-16**|null|
 |**2025-07-16**|**Text-driven Multiplanar Visual Interaction for Semi-supervised Medical Image Segmentation**|Kaiwen Huang et.al.|[2507.12382v1](http://arxiv.org/abs/2507.12382v1)|**2025-07-16**|null|
-|**2025-07-16**|**Deconstructing Implicit Beliefs in Visual Data Journalism: Unstable Meanings Behind Data as Truth & Design for Insight**|Ke Er Amy Zhang et.al.|[2507.12377v1](http://arxiv.org/abs/2507.12377v1)|**2025-07-16**|null|
+|**2025-07-16**|**Deconstructing Implicit Beliefs in Visual Data Journalism: Unstable Meanings Behind Data as Truth & Design for Insight**|Ke Er Amy Zhang et.al.|[2507.12377v2](http://arxiv.org/abs/2507.12377v2)|**2025-07-17**|null|
 |**2025-07-16**|**FactorHD: A Hyperdimensional Computing Model for Multi-Object Multi-Class Representation and Factorization**|Yifei Zhou et.al.|[2507.12366v1](http://arxiv.org/abs/2507.12366v1)|**2025-07-16**|null|
 |**2025-07-16**|**Rethinking the confidential cloud through a unified low-level abstraction for composable isolation**|Adrien Ghosn et.al.|[2507.12364v1](http://arxiv.org/abs/2507.12364v1)|**2025-07-16**|null|
 |**2025-07-16**|**Cluster Contrast for Unsupervised Visual Representation Learning**|Nikolaos Giakoumoglou et.al.|[2507.12359v1](http://arxiv.org/abs/2507.12359v1)|**2025-07-16**|null|
@@ -30,5 +30,5 @@
 |**2025-07-16**|**Improving Lightweight Weed Detection via Knowledge Distillation**|Ahmet Oğuz Saltık et.al.|[2507.12344v1](http://arxiv.org/abs/2507.12344v1)|**2025-07-16**|null|
 |**2025-07-16**|**Unsupervised Monocular 3D Keypoint Discovery from Multi-View Diffusion Priors**|Subin Jeon et.al.|[2507.12336v1](http://arxiv.org/abs/2507.12336v1)|**2025-07-16**|null|
 |**2025-07-16**|**Mixed-integer Second-Order Cone Programming for Multi-period Scheduling of Flexible AC Transmission System Devices**|Mohamad Charara et.al.|[2507.12327v1](http://arxiv.org/abs/2507.12327v1)|**2025-07-16**|null|
-|**2025-07-16**|**Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models**|Samuel Lavoie et.al.|[2507.12318v1](http://arxiv.org/abs/2507.12318v1)|**2025-07-16**|null|
+|**2025-07-16**|**Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models**|Samuel Lavoie et.al.|[2507.12318v2](http://arxiv.org/abs/2507.12318v2)|**2025-07-17**|null|
 |**2025-07-16**|**TrialCompass: Visual Analytics for Enhancing the Eligibility Criteria Design of Clinical Trials**|Rui Sheng et.al.|[2507.12298v1](http://arxiv.org/abs/2507.12298v1)|**2025-07-16**|null|
