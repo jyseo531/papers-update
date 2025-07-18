@@ -2,33 +2,33 @@
 ### Point Cloud Registration
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-16**|**SpatialTrackerV2: 3D Point Tracking Made Easy**|Yuxi Xiao et.al.|[2507.12462v1](http://arxiv.org/abs/2507.12462v1)|**2025-07-16**|null|
-|**2025-07-16**|**CRAFT: Latency and Cost-Aware Genetic-Based Framework for Node Placement in Edge-Fog Environments**|Soheil Mahdizadeh et.al.|[2507.12445v1](http://arxiv.org/abs/2507.12445v1)|**2025-07-16**|null|
-|**2025-07-16**|**LLM-Based Config Synthesis requires Disambiguation**|Rajdeep Mondal et.al.|[2507.12443v1](http://arxiv.org/abs/2507.12443v1)|**2025-07-16**|null|
-|**2025-07-16**|**Describe Anything Model for Visual Question Answering on Text-rich Images**|Yen-Linh Vu et.al.|[2507.12441v1](http://arxiv.org/abs/2507.12441v1)|**2025-07-16**|null|
-|**2025-07-16**|**A Bayesian Incentive Mechanism for Poison-Resilient Federated Learning**|Daniel Commey et.al.|[2507.12439v1](http://arxiv.org/abs/2507.12439v1)|**2025-07-16**|null|
-|**2025-07-16**|**Hierarchical Temporal Point Process Modeling of Aggressive Behavior Onset in Psychiatric Inpatient Youth with Autism for Branching Factor Estimation**|Michael Potter et.al.|[2507.12424v1](http://arxiv.org/abs/2507.12424v1)|**2025-07-16**|null|
-|**2025-07-16**|**Mixture of Raytraced Experts**|Andrea Perin et.al.|[2507.12419v1](http://arxiv.org/abs/2507.12419v1)|**2025-07-16**|null|
-|**2025-07-16**|**Two classification results for stationary surfaces of the least moment of inertia**|Rafael López et.al.|[2507.12398v1](http://arxiv.org/abs/2507.12398v1)|**2025-07-16**|null|
-|**2025-07-16**|**A model-agnostic likelihood for the reinterpretation of the $\boldsymbol{B^{+}\to K^{+} ν\barν}$ measurement at Belle II**|Belle II Collaboration et.al.|[2507.12393v1](http://arxiv.org/abs/2507.12393v1)|**2025-07-16**|null|
-|**2025-07-16**|**Towards dislocation-driven quantum interconnects**|Cunzhi Zhang et.al.|[2507.12387v1](http://arxiv.org/abs/2507.12387v1)|**2025-07-16**|null|
-|**2025-07-16**|**A connection between minimal surfaces and the two-dimensional analogues of a problem of Euler**|Rafael López et.al.|[2507.12371v1](http://arxiv.org/abs/2507.12371v1)|**2025-07-16**|null|
-|**2025-07-16**|**Rethinking the confidential cloud through a unified low-level abstraction for composable isolation**|Adrien Ghosn et.al.|[2507.12364v1](http://arxiv.org/abs/2507.12364v1)|**2025-07-16**|null|
-|**2025-07-16**|**Term Assignment and Categorical Models for Intuitionistic Linear Logic with Subexponentials**|Daniel Rogozin et.al.|[2507.12360v1](http://arxiv.org/abs/2507.12360v1)|**2025-07-16**|null|
-|**2025-07-16**|**First Constraints from Marked Angular Power Spectra with Subaru Hyper Suprime-Cam Survey First-Year Data**|Jessica A. Cowell et.al.|[2507.12315v1](http://arxiv.org/abs/2507.12315v1)|**2025-07-16**|null|
-|**2025-07-16**|**Velocity Distribution and Diffusion of an Athermal Inertial Run-and-Tumble Particle in a Shear-Thickening Medium**|Subhanker Howlader et.al.|[2507.12313v1](http://arxiv.org/abs/2507.12313v1)|**2025-07-16**|null|
-|**2025-07-16**|**Panchromatic characterization of the Y0 brown dwarf WISEP J173835.52+273258.9 using JWST/MIRI**|Malavika Vasist et.al.|[2507.12264v1](http://arxiv.org/abs/2507.12264v1)|**2025-07-16**|null|
-|**2025-07-16**|**Electrically tunable heavy fermion and quantum criticality in magic-angle twisted trilayer graphene**|Le Zhang et.al.|[2507.12254v1](http://arxiv.org/abs/2507.12254v1)|**2025-07-16**|null|
-|**2025-07-16**|**Looking for Fairness in Recommender Systems**|Cécile Logé et.al.|[2507.12242v1](http://arxiv.org/abs/2507.12242v1)|**2025-07-16**|null|
-|**2025-07-16**|**Fixed points on null and tame flows for groups of automorphisms**|Alessandro Codenotti et.al.|[2507.12239v1](http://arxiv.org/abs/2507.12239v1)|**2025-07-16**|null|
-|**2025-07-16**|**Frequency-responsive RCS characteristics and scaling implications for ISAC development**|Saúl Fenollosa et.al.|[2507.12235v1](http://arxiv.org/abs/2507.12235v1)|**2025-07-16**|null|
-|**2025-07-16**|**Universal Fourier Neural Operators for Micromechanics**|Binh Huy Nguyen et.al.|[2507.12233v1](http://arxiv.org/abs/2507.12233v1)|**2025-07-16**|null|
-|**2025-07-16**|**Xiangqi-R1: Enhancing Spatial Strategic Reasoning in LLMs for Chinese Chess via Reinforcement Learning**|Yuhao Chen et.al.|[2507.12215v1](http://arxiv.org/abs/2507.12215v1)|**2025-07-16**|null|
-|**2025-07-16**|**UniLGL: Learning Uniform Place Recognition for FOV-limited/Panoramic LiDAR Global Localization**|Hongming Shen et.al.|[2507.12194v1](http://arxiv.org/abs/2507.12194v1)|**2025-07-16**|null|
-|**2025-07-16**|**Emergent Symmetry and Phase Transitions on the Domain Wall of $\mathbb{Z}_{2}$ Topological Orders**|Hong-Hao Song et.al.|[2507.12193v1](http://arxiv.org/abs/2507.12193v1)|**2025-07-16**|null|
-|**2025-07-16**|**The effect of non-uniformity density structure on the molecular cloud-cores magnetic braking in the ideal MHD framework**|Abbas Ebrahimi et.al.|[2507.12179v1](http://arxiv.org/abs/2507.12179v1)|**2025-07-16**|null|
-|**2025-07-16**|**Integrated Switched Capacitor Array and Synchronous Charge Extraction with Adaptive Hybrid MPPT for Piezoelectric Harvesters**|Pramit Karmakar et.al.|[2507.12163v1](http://arxiv.org/abs/2507.12163v1)|**2025-07-16**|null|
-|**2025-07-16**|**Hexagonal 3-webs of circles with polar twisted cubic**|Sergey I. Agafonov et.al.|[2507.12139v1](http://arxiv.org/abs/2507.12139v1)|**2025-07-16**|null|
-|**2025-07-16**|**Weighted $k$-Server Admits an Exponentially Competitive Algorithm**|Adithya Bijoy et.al.|[2507.12130v1](http://arxiv.org/abs/2507.12130v1)|**2025-07-16**|null|
-|**2025-07-16**|**Theta-invariants of $\mathbb{Z}π$-homology equivalences to spherical 3-manifolds**|Hisatoshi Kodani et.al.|[2507.12121v1](http://arxiv.org/abs/2507.12121v1)|**2025-07-16**|null|
-|**2025-07-16**|**No evidence for Keplerian taper of far-out galactic rotation**|Adriana Bariego-Quintana et.al.|[2507.12120v1](http://arxiv.org/abs/2507.12120v1)|**2025-07-16**|null|
+|**2025-07-17**|**Challenges for describing unitary evolution in nontrivial geometries: pictures and representations**|Steven B. Giddings et.al.|[2507.13351v1](http://arxiv.org/abs/2507.13351v1)|**2025-07-17**|null|
+|**2025-07-17**|**$π^3$: Scalable Permutation-Equivariant Visual Geometry Learning**|Yifan Wang et.al.|[2507.13347v1](http://arxiv.org/abs/2507.13347v1)|**2025-07-17**|null|
+|**2025-07-17**|**$\texttt{raccoon}$: A Python package for removing wiggle artifacts in the JWST NIRSpec integral field spectroscopy**|Anowar J. Shajib et.al.|[2507.13341v1](http://arxiv.org/abs/2507.13341v1)|**2025-07-17**|null|
+|**2025-07-17**|**SpectraLift: Physics-Guided Spectral-Inversion Network for Self-Supervised Hyperspectral Image Super-Resolution**|Ritik Shah et.al.|[2507.13339v1](http://arxiv.org/abs/2507.13339v1)|**2025-07-17**|null|
+|**2025-07-17**|**Training Transformers with Enforced Lipschitz Constants**|Laker Newhouse et.al.|[2507.13338v1](http://arxiv.org/abs/2507.13338v1)|**2025-07-17**|null|
+|**2025-07-17**|**N Bugs on a Circle**|Josh Briley et.al.|[2507.13333v1](http://arxiv.org/abs/2507.13333v1)|**2025-07-17**|null|
+|**2025-07-17**|**Where is the Supervirial Gas? III. Insights from X-ray Shadow Observations and a revised Model for the Soft Diffuse X-ray Background**|Anjali Gupta et.al.|[2507.13331v1](http://arxiv.org/abs/2507.13331v1)|**2025-07-17**|null|
+|**2025-07-17**|**The Algebraic Structure Underlying Pole-Skipping Points**|Zhenkang Lu et.al.|[2507.13306v1](http://arxiv.org/abs/2507.13306v1)|**2025-07-17**|null|
+|**2025-07-17**|**Efficiently Constructing Sparse Navigable Graphs**|Alex Conway et.al.|[2507.13296v1](http://arxiv.org/abs/2507.13296v1)|**2025-07-17**|null|
+|**2025-07-17**|**The Directed Spanning Forest: coalescence versus dimension**|Tom Garcia-Sanchez et.al.|[2507.13289v1](http://arxiv.org/abs/2507.13289v1)|**2025-07-17**|null|
+|**2025-07-17**|**Solving SAT By Computing A Stable Set Of Points In Clusters**|Eugene Goldberg et.al.|[2507.13282v1](http://arxiv.org/abs/2507.13282v1)|**2025-07-17**|null|
+|**2025-07-17**|**High-precision baryon number cumulants from lattice QCD in a finite box: cumulant ratios, Lee-Yang zeros and critical endpoint predictions**|Alexander Adam et.al.|[2507.13254v1](http://arxiv.org/abs/2507.13254v1)|**2025-07-17**|null|
+|**2025-07-17**|**The carbon cost of materials discovery: Can machine learning really accelerate the discovery of new photovoltaics?**|Matthew Walker et.al.|[2507.13246v1](http://arxiv.org/abs/2507.13246v1)|**2025-07-17**|null|
+|**2025-07-17**|**Distributed Nash Equilibrium Seeking in Non-Monotone Games over the Simplex**|Tatiana Tatarenko et.al.|[2507.13244v1](http://arxiv.org/abs/2507.13244v1)|**2025-07-17**|null|
+|**2025-07-17**|**Quantitative contact Hamiltonian dynamics**|Danijel Djordjević et.al.|[2507.13234v1](http://arxiv.org/abs/2507.13234v1)|**2025-07-17**|null|
+|**2025-07-17**|**Explicit linearization of multi-dimensional germs and vector fields through Ecalle's tree expansions**|Frédéric Fauvet et.al.|[2507.13216v1](http://arxiv.org/abs/2507.13216v1)|**2025-07-17**|null|
+|**2025-07-17**|**The fantastic single-molecule techniques**|Huang Tang et.al.|[2507.13211v1](http://arxiv.org/abs/2507.13211v1)|**2025-07-17**|null|
+|**2025-07-17**|**Few-shot transfer of tool-use skills using human demonstrations with proximity and tactile sensing**|Marina Y. Aoyama et.al.|[2507.13200v1](http://arxiv.org/abs/2507.13200v1)|**2025-07-17**|null|
+|**2025-07-17**|**Degrees of points with rational $j$-invariant on $X_{0}(n)$ and $X_{1}(n)$**|Kenji Terao et.al.|[2507.13199v1](http://arxiv.org/abs/2507.13199v1)|**2025-07-17**|null|
+|**2025-07-17**|**Multiple normalized solutions for two coupled Gross-Pitaevskii equations with attractive interactions and mass constriants**|Zhang Jianjun et.al.|[2507.13172v1](http://arxiv.org/abs/2507.13172v1)|**2025-07-17**|null|
+|**2025-07-17**|**On the Nature of Stationary Integral Varifolds near Multiplicity 2 Planes**|Spencer Becker-Kahn et.al.|[2507.13148v1](http://arxiv.org/abs/2507.13148v1)|**2025-07-17**|null|
+|**2025-07-17**|**fastWDM3D: Fast and Accurate 3D Healthy Tissue Inpainting**|Alicia Durrer et.al.|[2507.13146v1](http://arxiv.org/abs/2507.13146v1)|**2025-07-17**|null|
+|**2025-07-17**|**Some concerns on the border rank of Kronecker products of the Coppersmith-Winograd tensor**|Daiki Kawabe et.al.|[2507.13126v1](http://arxiv.org/abs/2507.13126v1)|**2025-07-17**|null|
+|**2025-07-17**|**Search for Z/2 eigenfunctions on the sphere using machine learning**|Andriy Haydys et.al.|[2507.13122v1](http://arxiv.org/abs/2507.13122v1)|**2025-07-17**|null|
+|**2025-07-17**|**3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering**|Zi Wang et.al.|[2507.13110v1](http://arxiv.org/abs/2507.13110v1)|**2025-07-17**|null|
+|**2025-07-17**|**Ultrafast thermal boundary conductance under large temperature discontinuities of ultrathin epitaxial Pb films on Si(111)**|Christian Brand et.al.|[2507.13109v1](http://arxiv.org/abs/2507.13109v1)|**2025-07-17**|null|
+|**2025-07-17**|**Asymptotics of spin-spin correlators weighted by fermion number measurements with low rapidity threshold in the 2D Ising free-fermion QFT**|Yizhuang Liu et.al.|[2507.13093v1](http://arxiv.org/abs/2507.13093v1)|**2025-07-17**|null|
+|**2025-07-17**|**Angle Estimation of a Single Source with Massive Uniform Circular Arrays**|Mingyan Gong et.al.|[2507.13086v1](http://arxiv.org/abs/2507.13086v1)|**2025-07-17**|null|
+|**2025-07-17**|**Do Governments React to Public Debt Accumulation? A Cross-Country Analysis**|Paolo Canofari et.al.|[2507.13084v1](http://arxiv.org/abs/2507.13084v1)|**2025-07-17**|null|
+|**2025-07-17**|**Probabilistic algorithm for computing all local minimizers of Morse functions on a compact domain**|Mohab Safey El Din et.al.|[2507.13071v1](http://arxiv.org/abs/2507.13071v1)|**2025-07-17**|null|

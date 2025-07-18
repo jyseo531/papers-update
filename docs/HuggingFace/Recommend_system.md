@@ -19,6 +19,7 @@ Updated on 2025-07-18
 | 32.5k | 44 | onnx-community/Janus-Pro-1B-ONNXAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/onnx-community/Janus-Pro-1B-ONNX) |
 | 16.8k | 38 | openbmb/MiniCPM-o-2_6-int4Any-to-Any | UpdatedJan 22 | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6-int4) |
 | 94 | 34 | EPFL-VILAB/4M-21_XLAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-21_XL) |
+| Updatedabout 2 hours ago | 24 | inclusionAI/Ming-Lite-Omni-1 | 19B | [Link](https://huggingface.co/inclusionAI/Ming-Lite-Omni-1.5) |
 | 2.09k | 22 | THUdyh/Ola-7bAny-to-Any | Updated6 days ago | [Link](https://huggingface.co/THUdyh/Ola-7b) |
 | 3.1k | 22 | Alpha-VLLM/Lumina-mGPT-7B-768Any-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-768) |
 | 253 | 20 | LanguageBind/UniWorld-V1Any-to-Any | Updatedabout 6 hours ago | [Link](https://huggingface.co/LanguageBind/UniWorld-V1) |
@@ -54,6 +55,7 @@ Updated on 2025-07-18
 | 91 | 2 | EPFL-VILAB/4M-7-SR_L_CC12MAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-7-SR_L_CC12M) |
 | Updated33 minutes ago | 2 | Gen-Verse/MMaDA-8B-PretrainAny-to-Any | 8B | [Link](https://huggingface.co/Gen-Verse/MMaDA-8B-Pretrain) |
 | Updatedabout 20 hours ago | 2 | ByteDance-Seed/Tar-1 | 3B | [Link](https://huggingface.co/ByteDance-Seed/Tar-1.5B) |
+| Updatedabout 17 hours ago | 2 | iitolstykh/Bagel-NHR-EditAny-to-Any | 15B | [Link](https://huggingface.co/iitolstykh/Bagel-NHR-Edit) |
 | 170 | 1 | tezuesh/moshi_generalAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/tezuesh/moshi_general) |
 | 35 | 1 | tezuesh/IBLlama_v1Any-to-Any | UpdatedJan 24 | [Link](https://huggingface.co/tezuesh/IBLlama_v1) |
 | 43 | 1 | Athagi/Janus-Pro-7BAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/Athagi/Janus-Pro-7B) |
@@ -2154,6 +2156,7 @@ Updated on 2025-07-18
 | 151 |  | fal/Watercolor-Art-Kontext-Dev-LoRAImage-to-Image | Updated11 days ago | [Link](https://huggingface.co/fal/Watercolor-Art-Kontext-Dev-LoRA) |
 | 31 |  | gokaygokay/Low-Poly-Kontext-Dev-LoRAImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/gokaygokay/Low-Poly-Kontext-Dev-LoRA) |
 | 44 |  | gokaygokay/Bronze-Sculpture-Kontext-Dev-LoRAImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/gokaygokay/Bronze-Sculpture-Kontext-Dev-LoRA) |
+| 57 |  | fofr/kontext-old-and-damaged-photoImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/fofr/kontext-old-and-damaged-photo) |
 
 ## Image-to-Text
 
@@ -2281,6 +2284,7 @@ Updated on 2025-07-18
 | 23k | 1 | PaddlePaddle/PP-LCNet_x1_0_doc_oriImage-to-Text | Updated4 days ago | [Link](https://huggingface.co/PaddlePaddle/PP-LCNet_x1_0_doc_ori) |
 | 4.43k | 1 | PaddlePaddle/PP-DocLayout_plus-LImage-to-Text | Updated4 days ago | [Link](https://huggingface.co/PaddlePaddle/PP-DocLayout_plus-L) |
 | UpdatedJan 4 | 1.8k | Bllossom/llama-3 | 8B | [Link](https://huggingface.co/Bllossom/llama-3.1-Korean-Bllossom-Vision-8B) |
+| 6 | 1 | seodaegal/git-base-sketchImage-to-Text | UpdatedAug 15, 2023 | [Link](https://huggingface.co/seodaegal/git-base-sketch) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -4789,6 +4793,7 @@ Updated on 2025-07-18
 | 321 | 2 | lym00/Wan14BT2VFusionX_fp8_GGUFText-to-Video | Updated10 minutes ago | [Link](https://huggingface.co/lym00/Wan14BT2VFusionX_fp8_GGUF) |
 | 82 | 2 | Remade-AI/CatsText-to-Video | UpdatedMar 24 | [Link](https://huggingface.co/Remade-AI/Cats) |
 | 85 | 2 | Remade-AI/DogsText-to-Video | UpdatedMar 24 | [Link](https://huggingface.co/Remade-AI/Dogs) |
+| 15 | 2 | rhymes-ai/Allegro-T2V-40x360PText-to-Video | UpdatedDec 26, 2024 | [Link](https://huggingface.co/rhymes-ai/Allegro-T2V-40x360P) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 7.59k |  | tencent/HunyuanVideoText-to-Video | UpdatedJan 21 | [Link](https://huggingface.co/tencent/HunyuanVideo) |

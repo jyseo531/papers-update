@@ -2,33 +2,33 @@
 ### Semantic Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-16**|**Can We Predict Alignment Before Models Finish Thinking? Towards Monitoring Misaligned Reasoning Models**|Yik Siu Chan et.al.|[2507.12428v1](http://arxiv.org/abs/2507.12428v1)|**2025-07-16**|null|
-|**2025-07-16**|**Unit-Based Histopathology Tissue Segmentation via Multi-Level Feature Representation**|Ashkan Shakarami et.al.|[2507.12427v1](http://arxiv.org/abs/2507.12427v1)|**2025-07-16**|null|
-|**2025-07-16**|**Advancing Retrieval-Augmented Generation for Structured Enterprise and Internal Data**|Chandana Cheerla et.al.|[2507.12425v1](http://arxiv.org/abs/2507.12425v1)|**2025-07-16**|null|
-|**2025-07-16**|**Do Cosmic String Segments Emit Gravitational Waves?**|Akifumi Chitose et.al.|[2507.12386v1](http://arxiv.org/abs/2507.12386v1)|**2025-07-16**|null|
-|**2025-07-16**|**Text-driven Multiplanar Visual Interaction for Semi-supervised Medical Image Segmentation**|Kaiwen Huang et.al.|[2507.12382v1](http://arxiv.org/abs/2507.12382v1)|**2025-07-16**|null|
-|**2025-07-16**|**Nonlinear Concept Erasure: a Density Matching Approach**|Antoine Saillenfest et.al.|[2507.12341v1](http://arxiv.org/abs/2507.12341v1)|**2025-07-16**|null|
-|**2025-07-16**|**Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models**|Samuel Lavoie et.al.|[2507.12318v2](http://arxiv.org/abs/2507.12318v2)|**2025-07-17**|null|
-|**2025-07-16**|**An Ecosystem for Ontology Interoperability**|Zhangcheng Qiang et.al.|[2507.12311v1](http://arxiv.org/abs/2507.12311v1)|**2025-07-16**|null|
-|**2025-07-16**|**RegCL: Continual Adaptation of Segment Anything Model via Model Merging**|Yuan-Chen Shu et.al.|[2507.12297v1](http://arxiv.org/abs/2507.12297v1)|**2025-07-16**|null|
-|**2025-07-16**|**Efficient Calisthenics Skills Classification through Foreground Instance Selection and Depth Estimation**|Antonio Finocchiaro et.al.|[2507.12292v1](http://arxiv.org/abs/2507.12292v1)|**2025-07-16**|null|
-|**2025-07-16**|**SHACL Validation in the Presence of Ontologies: Semantics and Rewriting Techniques**|Anouk Oudshoorn et.al.|[2507.12286v1](http://arxiv.org/abs/2507.12286v1)|**2025-07-16**|null|
-|**2025-07-16**|**Configurational forces explain echelon cracks in soft materials**|Angel Santarossa et.al.|[2507.12247v1](http://arxiv.org/abs/2507.12247v1)|**2025-07-16**|null|
-|**2025-07-16**|**Calisthenics Skills Temporal Video Segmentation**|Antonio Finocchiaro et.al.|[2507.12245v1](http://arxiv.org/abs/2507.12245v1)|**2025-07-16**|null|
-|**2025-07-16**|**MGFFD-VLM: Multi-Granularity Prompt Learning for Face Forgery Detection with VLM**|Tao Chen et.al.|[2507.12232v1](http://arxiv.org/abs/2507.12232v1)|**2025-07-16**|null|
-|**2025-07-16**|**Quantize More, Lose Less: Autoregressive Generation from Residually Quantized Speech Representations**|Yichen Han et.al.|[2507.12197v1](http://arxiv.org/abs/2507.12197v1)|**2025-07-16**|null|
-|**2025-07-16**|**Revealing the Ancient Beauty: Digital Reconstruction of Temple Tiles using Computer Vision**|Arkaprabha Basu et.al.|[2507.12195v1](http://arxiv.org/abs/2507.12195v1)|**2025-07-16**|null|
-|**2025-07-16**|**Leveraging Sidewalk Robots for Walkability-Related Analyses**|Xing Tong et.al.|[2507.12148v1](http://arxiv.org/abs/2507.12148v1)|**2025-07-16**|null|
-|**2025-07-16**|**PRISM: Distributed Inference for Foundation Models at Edge**|Muhammad Azlan Qazi et.al.|[2507.12145v1](http://arxiv.org/abs/2507.12145v1)|**2025-07-16**|null|
-|**2025-07-16**|**AD-GS: Object-Aware B-Spline Gaussian Splatting for Self-Supervised Autonomous Driving**|Jiawei Xu et.al.|[2507.12137v1](http://arxiv.org/abs/2507.12137v1)|**2025-07-16**|null|
-|**2025-07-16**|**Iterative Augmentation with Summarization Refinement (IASR) Evaluation for Unstructured Survey data Modeling and Analysis**|Payal Bhattad et.al.|[2507.12126v1](http://arxiv.org/abs/2507.12126v1)|**2025-07-16**|null|
-|**2025-07-16**|**Open-Vocabulary Indoor Object Grounding with 3D Hierarchical Scene Graph**|Sergey Linok et.al.|[2507.12123v1](http://arxiv.org/abs/2507.12123v1)|**2025-07-16**|null|
-|**2025-07-16**|**Out-of-distribution data supervision towards biomedical semantic segmentation**|Yiquan Gao et.al.|[2507.12105v1](http://arxiv.org/abs/2507.12105v1)|**2025-07-16**|null|
-|**2025-07-16**|**Tree-SLAM: semantic object SLAM for efficient mapping of individual trees in orchards**|David Rapado-Rincon et.al.|[2507.12093v1](http://arxiv.org/abs/2507.12093v1)|**2025-07-16**|null|
-|**2025-07-16**|**Benchmarking and Explaining Deep Learning Cortical Lesion MRI Segmentation in Multiple Sclerosis**|Nataliia Molchanova et.al.|[2507.12092v1](http://arxiv.org/abs/2507.12092v1)|**2025-07-16**|null|
-|**2025-07-16**|**LLAMA: Multi-Feedback Smart Contract Fuzzing Framework with LLM-Guided Seed Generation**|Keke Gai et.al.|[2507.12084v1](http://arxiv.org/abs/2507.12084v1)|**2025-07-16**|null|
-|**2025-07-16**|**VoxATtack: A Multimodal Attack on Voice Anonymization Systems**|Ahmad Aloradi et.al.|[2507.12081v2](http://arxiv.org/abs/2507.12081v2)|**2025-07-17**|null|
-|**2025-07-16**|**A thermofield-double model of Uhlmann anholonomy**|Péter Lévay et.al.|[2507.12071v1](http://arxiv.org/abs/2507.12071v1)|**2025-07-16**|null|
-|**2025-07-16**|**MS-DETR: Towards Effective Video Moment Retrieval and Highlight Detection by Joint Motion-Semantic Learning**|Hongxu Ma et.al.|[2507.12062v1](http://arxiv.org/abs/2507.12062v1)|**2025-07-16**|null|
-|**2025-07-16**|**InstructFLIP: Exploring Unified Vision-Language Model for Face Anti-spoofing**|Kun-Hsiang Lin et.al.|[2507.12060v1](http://arxiv.org/abs/2507.12060v1)|**2025-07-16**|null|
-|**2025-07-16**|**SGLoc: Semantic Localization System for Camera Pose Estimation from 3D Gaussian Splatting Representation**|Beining Xu et.al.|[2507.12027v1](http://arxiv.org/abs/2507.12027v1)|**2025-07-16**|null|
+|**2025-07-17**|**VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding**|Shihao Wang et.al.|[2507.13353v1](http://arxiv.org/abs/2507.13353v1)|**2025-07-17**|null|
+|**2025-07-17**|**FashionPose: Text to Pose to Relight Image Generation for Personalized Fashion Visualization**|Chuancheng Shi et.al.|[2507.13311v1](http://arxiv.org/abs/2507.13311v1)|**2025-07-17**|null|
+|**2025-07-17**|**Well-balanced path-conservative discontinuous Galerkin methods with equilibrium preserving space for shallow water linearized moment equations**|Ruilin Fan et.al.|[2507.13284v1](http://arxiv.org/abs/2507.13284v1)|**2025-07-17**|null|
+|**2025-07-17**|**VITA: Vision-to-Action Flow Matching Policy**|Dechen Gao et.al.|[2507.13231v1](http://arxiv.org/abs/2507.13231v1)|**2025-07-17**|null|
+|**2025-07-17**|**GEMMAS: Graph-based Evaluation Metrics for Multi Agent Systems**|Jisoo Lee et.al.|[2507.13190v1](http://arxiv.org/abs/2507.13190v1)|**2025-07-17**|null|
+|**2025-07-17**|**Impact and Performance of Randomized Test-Generation using Prolog**|Marcus Gelderie et.al.|[2507.13178v1](http://arxiv.org/abs/2507.13178v1)|**2025-07-17**|null|
+|**2025-07-17**|**DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model**|Maulana Bisyir Azhari et.al.|[2507.13145v1](http://arxiv.org/abs/2507.13145v1)|**2025-07-17**|null|
+|**2025-07-17**|**NGTM: Substructure-based Neural Graph Topic Model for Interpretable Graph Generation**|Yuanxin Zhuang et.al.|[2507.13133v1](http://arxiv.org/abs/2507.13133v1)|**2025-07-17**|null|
+|**2025-07-17**|**RS-TinyNet: Stage-wise Feature Fusion Network for Detecting Tiny Objects in Remote Sensing Images**|Xiaozheng Jiang et.al.|[2507.13120v1](http://arxiv.org/abs/2507.13120v1)|**2025-07-17**|null|
+|**2025-07-17**|**Inferring Attributed Grammars from Parser Implementations**|Andreas Pointner et.al.|[2507.13117v1](http://arxiv.org/abs/2507.13117v1)|**2025-07-17**|null|
+|**2025-07-17**|**Deep Learning-Based Fetal Lung Segmentation from Diffusion-weighted MRI Images and Lung Maturity Evaluation for Fetal Growth Restriction**|Zhennan Xiao et.al.|[2507.13106v1](http://arxiv.org/abs/2507.13106v1)|**2025-07-17**|null|
+|**2025-07-17**|**SemCSE: Semantic Contrastive Sentence Embeddings Using LLM-Generated Summaries For Scientific Abstracts**|Marc Brinner et.al.|[2507.13105v1](http://arxiv.org/abs/2507.13105v1)|**2025-07-17**|null|
+|**2025-07-17**|**Uncertainty-Aware Cross-Modal Knowledge Distillation with Prototype Learning for Multimodal Brain-Computer Interfaces**|Hyo-Jeong Jang et.al.|[2507.13092v1](http://arxiv.org/abs/2507.13092v1)|**2025-07-17**|null|
+|**2025-07-17**|**Formal Verification for JavaScript Regular Expressions: a Proven Semantics and its Applications**|Aurèle Barrière et.al.|[2507.13091v1](http://arxiv.org/abs/2507.13091v1)|**2025-07-17**|null|
+|**2025-07-17**|**DiffOSeg: Omni Medical Image Segmentation via Multi-Expert Collaboration Diffusion Model**|Han Zhang et.al.|[2507.13087v1](http://arxiv.org/abs/2507.13087v1)|**2025-07-17**|null|
+|**2025-07-17**|**Channel-wise Motion Features for Efficient Motion Segmentation**|Riku Inoue et.al.|[2507.13082v1](http://arxiv.org/abs/2507.13082v1)|**2025-07-17**|null|
+|**2025-07-17**|**Advancing Complex Wide-Area Scene Understanding with Hierarchical Coresets Selection**|Jingyao Wang et.al.|[2507.13061v1](http://arxiv.org/abs/2507.13061v1)|**2025-07-17**|null|
+|**2025-07-17**|**Beyond Fully Supervised Pixel Annotations: Scribble-Driven Weakly-Supervised Framework for Image Manipulation Localization**|Songlin Li et.al.|[2507.13018v1](http://arxiv.org/abs/2507.13018v1)|**2025-07-17**|null|
+|**2025-07-17**|**A Translation of Probabilistic Event Calculus into Markov Decision Processes**|Lyris Xu et.al.|[2507.12989v1](http://arxiv.org/abs/2507.12989v1)|**2025-07-17**|null|
+|**2025-07-17**|**From Variability To Accuracy: Conditional Bernoulli Diffusion Models with Consensus-Driven Correction for Thin Structure Segmentation**|Jinseo An et.al.|[2507.12985v1](http://arxiv.org/abs/2507.12985v1)|**2025-07-17**|null|
+|**2025-07-17**|**cIDIR: Conditioned Implicit Neural Representation for Regularized Deformable Image Registration**|Sidaty El Hadramy et.al.|[2507.12953v1](http://arxiv.org/abs/2507.12953v1)|**2025-07-17**|null|
+|**2025-07-17**|**LoViC: Efficient Long Video Generation with Context Compression**|Jiaxiu Jiang et.al.|[2507.12952v1](http://arxiv.org/abs/2507.12952v1)|**2025-07-17**|null|
+|**2025-07-17**|**Unleashing Vision Foundation Models for Coronary Artery Segmentation: Parallel ViT-CNN Encoding and Variational Fusion**|Caixia Dong et.al.|[2507.12938v1](http://arxiv.org/abs/2507.12938v1)|**2025-07-17**|null|
+|**2025-07-17**|**Enterprise Security Incident Analysis and Countermeasures Based on the T-Mobile Data Breach**|Zhuohan Cui et.al.|[2507.12937v1](http://arxiv.org/abs/2507.12937v1)|**2025-07-17**|null|
+|**2025-07-17**|**Generalist Bimanual Manipulation via Foundation Video Diffusion Models**|Yao Feng et.al.|[2507.12898v1](http://arxiv.org/abs/2507.12898v1)|**2025-07-17**|null|
+|**2025-07-17**|**Camera-based implicit mind reading by capturing higher-order semantic dynamics of human gaze within environmental context**|Mengke Song et.al.|[2507.12889v1](http://arxiv.org/abs/2507.12889v1)|**2025-07-17**|null|
+|**2025-07-17**|**HRSeg: High-Resolution Visual Perception and Enhancement for Reasoning Segmentation**|Weihuang Lin et.al.|[2507.12883v1](http://arxiv.org/abs/2507.12883v1)|**2025-07-17**|null|
+|**2025-07-17**|**Generative Multi-Target Cross-Domain Recommendation**|Jinqiu Jin et.al.|[2507.12871v1](http://arxiv.org/abs/2507.12871v1)|**2025-07-17**|null|
+|**2025-07-17**|**SCORE: Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation**|Shiqi Huang et.al.|[2507.12857v1](http://arxiv.org/abs/2507.12857v1)|**2025-07-17**|null|
+|**2025-07-17**|**Simulate, Refocus and Ensemble: An Attention-Refocusing Scheme for Domain Generalization**|Ziyi Wang et.al.|[2507.12851v1](http://arxiv.org/abs/2507.12851v1)|**2025-07-17**|null|
