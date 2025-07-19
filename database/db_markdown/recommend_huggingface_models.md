@@ -2226,6 +2226,7 @@ Updated on 2025-07-19
 | 475 | 9 | DunnBC22/trocr-base-printed_license_plates_ocrImage-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-base-printed_license_plates_ocr) |
 | 455 | 9 | fhswf/TrOCR_german_handwrittenImage-to-Text | UpdatedJun 18, 2024 | [Link](https://huggingface.co/fhswf/TrOCR_german_handwritten) |
 | UpdatedNov 20, 2023 | 9.05k | facebook/nougat-smallImage-to-Text | 0.2B | [Link](https://huggingface.co/facebook/nougat-small) |
+| UpdatedMar 19, 2024 | 9 | Steven-GU-Yu-Di/Visual-Question-AnsweringImage-to-Text | 0.2B | [Link](https://huggingface.co/Steven-GU-Yu-Di/Visual-Question-Answering) |
 | 452 | 8 | nathansutton/generate-cxrImage-to-Text | UpdatedFeb 23, 2024 | [Link](https://huggingface.co/nathansutton/generate-cxr) |
 | 2 | 8 | espnet/iam_handwriting_ocrImage-to-Text | UpdatedNov 8, 2022 | [Link](https://huggingface.co/espnet/iam_handwriting_ocr) |
 | 2.53k | 8 | openthaigpt/thai-trocrImage-to-Text | UpdatedNov 4, 2024 | [Link](https://huggingface.co/openthaigpt/thai-trocr) |
@@ -2235,6 +2236,7 @@ Updated on 2025-07-19
 | 285 | 7 | purna419/invoice-parserImage-to-Text | UpdatedJul 10, 2023 | [Link](https://huggingface.co/purna419/invoice-parser) |
 | 6 | 7 | sujet-ai/Lutece-Vision-BaseImage-to-Text | UpdatedJul 14, 2024 | [Link](https://huggingface.co/sujet-ai/Lutece-Vision-Base) |
 | 18 | 7 | kirmorozov/mage-captcha-solverImage-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/kirmorozov/mage-captcha-solver) |
+| 55 | 7 | binery/donut_receipt_v2 | UpdatedNov 29, 2022 | [Link](https://huggingface.co/binery/donut_receipt_v2.29) |
 | 624 | 6 | fhswf/TrOCR_Math_handwrittenImage-to-Text | UpdatedOct 21, 2024 | [Link](https://huggingface.co/fhswf/TrOCR_Math_handwritten) |
 | 511 | 6 | microsoft/trocr-base-strImage-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-base-str) |
 | Updated21 days ago | 6.36k | allenai/olmOCR-7B-0225-preview-FP8Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview-FP8) |
@@ -3850,6 +3852,7 @@ Updated on 2025-07-19
 | 660 | 52 | nvidia/Llama-3_3-Nemotron-Super-49B-v1Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/nvidia/Llama-3_3-Nemotron-Super-49B-v1) |
 | 22 | 52 | Qwen/Qwen3-0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-0.6B) |
 | 325 | 51 | moonshotai/Moonlight-16B-A3BText | Updated2 days ago | [Link](https://huggingface.co/moonshotai/Moonlight-16B-A3B) |
+| Updatedabout 14 hours ago | 51 | nvidia/OpenReasoning-Nemotron-32BText | 33B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-32B) |
 | 1.45k | 50 | ALLaM-AI/ALLaM-7B-Instruct-previewText | Updated8 days ago | [Link](https://huggingface.co/ALLaM-AI/ALLaM-7B-Instruct-preview) |
 | 5 | 50 | microsoft/Phi-4-mini-reasoningText | Updatedabout 11 hours ago | [Link](https://huggingface.co/microsoft/Phi-4-mini-reasoning) |
 | Updatedabout 16 hours ago | 48 | osmosis-ai/Osmosis-Apply-1 | 2B | [Link](https://huggingface.co/osmosis-ai/Osmosis-Apply-1.7B) |
@@ -4540,6 +4543,8 @@ Updated on 2025-07-19
 | 257 |  | dataautogpt3/FLUX-AestheticAnimeText-to-Image | UpdatedAug 16, 2024 | [Link](https://huggingface.co/dataautogpt3/FLUX-AestheticAnime) |
 | 8 | Unknown | NovelAI/nai-anime-v2Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/NovelAI/nai-anime-v2) |
 | 331 |  | renderartist/coloringbookfluxText-to-Image | UpdatedSep 25, 2024 | [Link](https://huggingface.co/renderartist/coloringbookflux) |
+| 106 |  | alvdansen/flux_film_fotoText-to-Image | UpdatedAug 14, 2024 | [Link](https://huggingface.co/alvdansen/flux_film_foto) |
+| 91 |  | renderartist/classic-painting-fluxText-to-Image | Updated3 days ago | [Link](https://huggingface.co/renderartist/classic-painting-flux) |
 
 ## Text-to-Speech
 
@@ -4577,6 +4582,7 @@ Updated on 2025-07-19
 | 38.3k | 48 | SWivid/E2-TTSText-to-Speech | UpdatedMar 12 | [Link](https://huggingface.co/SWivid/E2-TTS) |
 | 73.1k | 45 | onnx-community/Kokoro-82M-v1 | Updated17 days ago | [Link](https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX) |
 | 5.2k | 39 | speechbrain/tts-hifigan-ljspeechText-to-Speech | UpdatedFeb 25, 2024 | [Link](https://huggingface.co/speechbrain/tts-hifigan-ljspeech) |
+| 1.07k | 38 | nvidia/tts_hifiganText-to-Speech | UpdatedJun 29, 2022 | [Link](https://huggingface.co/nvidia/tts_hifigan) |
 | 2.04k | 37 | kakao-enterprise/vits-ljsText-to-Speech | UpdatedSep 7, 2023 | [Link](https://huggingface.co/kakao-enterprise/vits-ljs) |
 | 375 | 34 | mrfakename/OpenF5-TTS-BaseText-to-Speech | Updatedabout 1 hour ago | [Link](https://huggingface.co/mrfakename/OpenF5-TTS-Base) |
 | 25 | 31 | amphion/VevoText-to-Speech | Updated10 days ago | [Link](https://huggingface.co/amphion/Vevo) |
