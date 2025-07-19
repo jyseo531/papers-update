@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-07-18
+Updated on 2025-07-19
 
 > Generated from the Hugging Face database.
 
@@ -2006,6 +2006,7 @@ Updated on 2025-07-18
 | 8.53k | 29 | lllyasviel/control_v11p_sd15_scribbleImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_scribble) |
 | 1.87k | 28 | lllyasviel/sd-controlnet-hedImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-hed) |
 | 421 | 26 | BertChristiaens/controlnet-seg-roomImage-to-Image | UpdatedMay 25, 2023 | [Link](https://huggingface.co/BertChristiaens/controlnet-seg-room) |
+|  | 25 | peteromallet/Flux-Kontext-InSceneImage-to-Image | Updated3 minutes ago | [Link](https://huggingface.co/peteromallet/Flux-Kontext-InScene) |
 | 52 | 22 | sayakpaul/whitebox-cartoonizerImage-to-Image | UpdatedMar 17, 2023 | [Link](https://huggingface.co/sayakpaul/whitebox-cartoonizer) |
 | 260k | 22 | Lykon/dreamshaper-8-inpaintingImage-to-Image | UpdatedSep 17, 2024 | [Link](https://huggingface.co/Lykon/dreamshaper-8-inpainting) |
 | 12.1k | 19 | lllyasviel/control_v11p_sd15_softedgeImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_softedge) |
@@ -3964,6 +3965,7 @@ Updated on 2025-07-18
 | 108 | 23 | nvidia/OpenCodeReasoning-Nemotron-7BText | Updated2 days ago | [Link](https://huggingface.co/nvidia/OpenCodeReasoning-Nemotron-7B) |
 | 381 | 23 | pfnet/plamo-2-translateText | Updatedabout 21 hours ago | [Link](https://huggingface.co/pfnet/plamo-2-translate) |
 | Updated27 days ago | 23 | microsoft/NextCoder-32BText | 33B | [Link](https://huggingface.co/microsoft/NextCoder-32B) |
+| Updatedabout 17 hours ago | 23 | Menlo/Lucy-128kText | 2B | [Link](https://huggingface.co/Menlo/Lucy-128k) |
 | 44 | 22 | deepcogito/cogito-v1-preview-llama-3BText | Updatedabout 12 hours ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-llama-3B) |
 | 10.2k | 22 | bartowski/THUDM_GLM-4-32B-0414-GGUFText | Updated6 days ago | [Link](https://huggingface.co/bartowski/THUDM_GLM-4-32B-0414-GGUF) |
 | 6.82k | 22 | bartowski/deepseek-ai_DeepSeek-R1-0528-Qwen3-8B-GGUFText | Updatedabout 23 hours ago | [Link](https://huggingface.co/bartowski/deepseek-ai_DeepSeek-R1-0528-Qwen3-8B-GGUF) |
@@ -3990,6 +3992,7 @@ Updated on 2025-07-18
 | 2.11k | 18 | FractalAIResearch/Fathom-R1-14BText | Updatedabout 1 hour ago | [Link](https://huggingface.co/FractalAIResearch/Fathom-R1-14B) |
 | 224 | 18 | DeepMount00/Murai-350M-v0 | Updated2 days ago | [Link](https://huggingface.co/DeepMount00/Murai-350M-v0.1-beta) |
 | Updated28 days ago | 18 | microsoft/NextCoder-7BText | 8B | [Link](https://huggingface.co/microsoft/NextCoder-7B) |
+| Updatedabout 17 hours ago | 18 | Menlo/LucyText | 2B | [Link](https://huggingface.co/Menlo/Lucy) |
 | 60 | 17 | open-thoughts/OpenThinker2-32BText | Updated1 day ago | [Link](https://huggingface.co/open-thoughts/OpenThinker2-32B) |
 | 274 | 17 | microsoft/MAI-DS-R1-FP8Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/microsoft/MAI-DS-R1-FP8) |
 | 40 | 17 | nvidia/OpenMath-Nemotron-32BText | Updated1 day ago | [Link](https://huggingface.co/nvidia/OpenMath-Nemotron-32B) |
@@ -4711,6 +4714,7 @@ Updated on 2025-07-18
 | 4 | Unknown | PapaRazi/Ijazah_Palsu_V2Text-to-Speech | Updated5 days ago | [Link](https://huggingface.co/PapaRazi/Ijazah_Palsu_V2) |
 | 11 | Unknown | k2-fsa/ZipVoiceText-to-Speech | Updatedabout 2 hours ago | [Link](https://huggingface.co/k2-fsa/ZipVoice) |
 | 12 | Unknown | OpenSound/CapSpeech-modelsText-to-Speech | Updated19 days ago | [Link](https://huggingface.co/OpenSound/CapSpeech-models) |
+| 6 | Unknown | hynt/ZipVoice-Vietnamese-150hText-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/hynt/ZipVoice-Vietnamese-150h) |
 
 ## Text-to-Video
 
@@ -4763,6 +4767,7 @@ Updated on 2025-07-18
 | 35 | 4 | jbilcke-hf/HunyuanVideoGP-HFIEText-to-Video | UpdatedFeb 28 | [Link](https://huggingface.co/jbilcke-hf/HunyuanVideoGP-HFIE) |
 | 4.64k | 3 | guoyww/animatediff-motion-lora-pan-rightText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-pan-right) |
 | 28 | 3 | finetrainers/3dgs-v0Text-to-Video | UpdatedJan 29 | [Link](https://huggingface.co/finetrainers/3dgs-v0) |
+| 1 | 3 | longlian/text-to-video-lvd-msText-to-Video | UpdatedMay 1, 2024 | [Link](https://huggingface.co/longlian/text-to-video-lvd-ms) |
 | 69 | 2 | obvious-research/onlyflowText-to-Video | Updated5 days ago | [Link](https://huggingface.co/obvious-research/onlyflow) |
 | 42 | 2 | jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIEText-to-Video | Updated7 days ago | [Link](https://huggingface.co/jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIE) |
 | 10 | 2 | vdo/Hotshot-XLText-to-Video | UpdatedOct 4, 2023 | [Link](https://huggingface.co/vdo/Hotshot-XL) |
