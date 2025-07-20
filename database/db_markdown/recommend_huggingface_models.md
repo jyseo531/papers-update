@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-07-19
+Updated on 2025-07-20
 
 > Generated from the Hugging Face database.
 
@@ -2042,6 +2042,7 @@ Updated on 2025-07-19
 | 34 | 4 | gradient-spaces/ReStyle3DImage-to-Image | Updated29 days ago | [Link](https://huggingface.co/gradient-spaces/ReStyle3D) |
 | 52 | 4 | fal/3D-Game-Assets-Kontext-Dev-LoRAImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/fal/3D-Game-Assets-Kontext-Dev-LoRA) |
 |  | 4 | gokaygokay/Light-Fix-Kontext-Dev-LoRAImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/gokaygokay/Light-Fix-Kontext-Dev-LoRA) |
+| 63 | 4 | valiantcat/Kontext-Remover-General-LoRAImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/valiantcat/Kontext-Remover-General-LoRA) |
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
@@ -3803,6 +3804,7 @@ Updated on 2025-07-19
 | 2.13k | 215 | XiaomiMiMo/MiMo-7B-RLText | Updatedabout 12 hours ago | [Link](https://huggingface.co/XiaomiMiMo/MiMo-7B-RL) |
 | 427 | 204 | microsoft/MAI-DS-R1Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/microsoft/MAI-DS-R1) |
 | 11.7k | 196 | smirki/UIGEN-T1-Qwen-7bText | Updated5 days ago | [Link](https://huggingface.co/smirki/UIGEN-T1-Qwen-7b) |
+| Updated1 day ago | 179 | nvidia/OpenReasoning-Nemotron-7BText | 8B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-7B) |
 | 77 | 159 | manycore-research/SpatialLM-Llama-1BText | Updated4 days ago | [Link](https://huggingface.co/manycore-research/SpatialLM-Llama-1B) |
 | 6.18k | 156 | google/medgemma-27b-text-itText | Updated18 minutes ago | [Link](https://huggingface.co/google/medgemma-27b-text-it) |
 | 2.25k | 153 | open-thoughts/OpenThinker-32BText | Updated11 days ago | [Link](https://huggingface.co/open-thoughts/OpenThinker-32B) |
@@ -3870,6 +3872,7 @@ Updated on 2025-07-19
 | 75 | 41 | tngtech/DeepSeek-R1T-ChimeraText | Updatedabout 1 hour ago | [Link](https://huggingface.co/tngtech/DeepSeek-R1T-Chimera) |
 | Updatedabout 19 hours ago | 41 | tencent/Hunyuan-A13B-Instruct-FP8Text | 80B | [Link](https://huggingface.co/tencent/Hunyuan-A13B-Instruct-FP8) |
 | 3 | 40 | MiniMaxAI/MiniMax-M1-40kText | Updatedabout 10 hours ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M1-40k) |
+| Updated2 days ago | 40 | Tesslate/UIGEN-X-8BText | 8B | [Link](https://huggingface.co/Tesslate/UIGEN-X-8B) |
 | 4 | 39 | Qwen/Qwen3-14BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-14B) |
 | 227 | 38 | LGAI-EXAONE/EXAONE-Deep-7 | Updated4 minutes ago | [Link](https://huggingface.co/LGAI-EXAONE/EXAONE-Deep-7.8B) |
 | 9.86k | 38 | starvector/starvector-1b-im2svgText | Updated2 days ago | [Link](https://huggingface.co/starvector/starvector-1b-im2svg) |
