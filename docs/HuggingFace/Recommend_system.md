@@ -32,6 +32,7 @@ Updated on 2025-07-21
 | 23 | 9 | Alpha-VLLM/Lumina-mGPT-7B-1024Any-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-1024) |
 | 612 | 7 | internlm/internlm-xcomposer2d5-7b-rewardAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/internlm/internlm-xcomposer2d5-7b-reward) |
 | 16 | 7 | FunAGI/Qwen2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/FunAGI/Qwen2.5-Omni-7B-GPTQ-4bit) |
+| Updatedabout 5 hours ago | 7 | wikeeyang/Nexus-GenV2-nf4-fp8Any-to-Any | 5B | [Link](https://huggingface.co/wikeeyang/Nexus-GenV2-nf4-fp8) |
 | 1.15k | 6 | EPFL-VILAB/4M-21_BAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-21_B) |
 | 186 | 6 | showlab/show-o2-7BAny-to-Any | Updatedabout 9 hours ago | [Link](https://huggingface.co/showlab/show-o2-7B) |
 | 1.63k | 5 | PKU-Alignment/AA-chameleon-7b-plusAny-to-Any | UpdatedSep 13, 2024 | [Link](https://huggingface.co/PKU-Alignment/AA-chameleon-7b-plus) |
@@ -1980,6 +1981,7 @@ Updated on 2025-07-21
 | 39.2k | 129 | prs-eth/marigold-depth-v1-0Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-depth-v1-0) |
 | 14.4k | 124 | Yuanshi/OminiControlImage-to-Image | UpdatedDec 10, 2024 | [Link](https://huggingface.co/Yuanshi/OminiControl) |
 | 719 | 116 | destitech/controlnet-inpaint-dreamer-sdxlImage-to-Image | UpdatedApr 23, 2024 | [Link](https://huggingface.co/destitech/controlnet-inpaint-dreamer-sdxl) |
+| 71k | 114 | mit-han-lab/nunchaku-flux | Updatedabout 8 hours ago | [Link](https://huggingface.co/mit-han-lab/nunchaku-flux.1-kontext-dev) |
 | 28.7k | 113 | lllyasviel/control_v11p_sd15_inpaintImage-to-Image | UpdatedMay 26, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_inpaint) |
 | 13.5k | 113 | lllyasviel/control_v11f1e_sd15_tileImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11f1e_sd15_tile) |
 | 15.3k | 109 | lllyasviel/control_v11p_sd15_openposeImage-to-Image | UpdatedAug 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_openpose) |
@@ -3801,6 +3803,7 @@ Updated on 2025-07-21
 |  | 356 | Qwen/QwQ-32BText | Updatedabout 8 hours ago | [Link](https://huggingface.co/Qwen/QwQ-32B) |
 | Updatedabout 6 hours ago | 351 | K-intelligence/Midm-2 | 12B | [Link](https://huggingface.co/K-intelligence/Midm-2.0-Base-Instruct) |
 |  | 339 | deepseek-ai/DeepSeek-Prover-V2-671BText | Updatedabout 1 hour ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-Prover-V2-671B) |
+| Updated3 days ago | 327 | nvidia/OpenReasoning-Nemotron-1 | 2B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-1.5B) |
 |  | 295 | deepseek-ai/DeepSeek-R1-0528-Qwen3-8BText | Updatedabout 13 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B) |
 | 6.51k | 262 | NousResearch/DeepHermes-3-Llama-3-8B-PreviewText | Updated6 days ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview) |
 | Updatedabout 2 hours ago | 255 | agentica-org/DeepSWE-PreviewText | 33B | [Link](https://huggingface.co/agentica-org/DeepSWE-Preview) |
@@ -4554,6 +4557,7 @@ Updated on 2025-07-21
 | 91 |  | renderartist/classic-painting-fluxText-to-Image | Updated3 days ago | [Link](https://huggingface.co/renderartist/classic-painting-flux) |
 | 617k |  | playgroundai/playground-v2 | UpdatedMar 15, 2024 | [Link](https://huggingface.co/playgroundai/playground-v2.5-1024px-aesthetic) |
 | 292 |  | Norod78/Flux_1_Dev_LoRA_Paper-Cutout-StyleText-to-Image | UpdatedAug 16, 2024 | [Link](https://huggingface.co/Norod78/Flux_1_Dev_LoRA_Paper-Cutout-Style) |
+| 5 | Unknown | Motif-Technologies/Motif-Vision-6B-PreviewText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/Motif-Technologies/Motif-Vision-6B-Preview) |
 
 ## Text-to-Speech
 

@@ -2,6 +2,8 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-18**|**Feature Engineering is Not Dead: Reviving Classical Machine Learning with Entropy, HOG, and LBP Feature Fusion for Image Classification**|Abhijit Sen et.al.|[2507.13772v1](http://arxiv.org/abs/2507.13772v1)|**2025-07-18**|null|
+|**2025-07-18**|**Topological signatures of jamming in granular force networks via persistent homology**|Vishali S et.al.|[2507.13690v1](http://arxiv.org/abs/2507.13690v1)|**2025-07-18**|null|
 |**2025-07-17**|**Merge Kernel for Bayesian Optimization on Permutation Space**|Zikai Xie et.al.|[2507.13263v2](http://arxiv.org/abs/2507.13263v2)|**2025-07-18**|null|
 |**2025-07-17**|**DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model**|Maulana Bisyir Azhari et.al.|[2507.13145v1](http://arxiv.org/abs/2507.13145v1)|**2025-07-17**|null|
 |**2025-07-17**|**3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering**|Zi Wang et.al.|[2507.13110v1](http://arxiv.org/abs/2507.13110v1)|**2025-07-17**|null|
@@ -30,5 +32,3 @@
 |**2025-07-12**|**PoseLLM: Enhancing Language-Guided Human Pose Estimation with MLP Alignment**|Dewen Zhang et.al.|[2507.09139v1](http://arxiv.org/abs/2507.09139v1)|**2025-07-12**|null|
 |**2025-07-11**|**An Efficient Approach for Muscle Segmentation and 3D Reconstruction Using Keypoint Tracking in MRI Scan**|Mengyuan Liu et.al.|[2507.08690v1](http://arxiv.org/abs/2507.08690v1)|**2025-07-11**|null|
 |**2025-07-11**|**RadiomicsRetrieval: A Customizable Framework for Medical Image Retrieval Using Radiomics Features**|Inye Na et.al.|[2507.08546v1](http://arxiv.org/abs/2507.08546v1)|**2025-07-11**|null|
-|**2025-07-10**|**AmpLyze: A Deep Learning Model for Predicting the Hemolytic Concentration**|Peng Qiu et.al.|[2507.08162v1](http://arxiv.org/abs/2507.08162v1)|**2025-07-10**|null|
-|**2025-07-10**|**Doodle Your Keypoints: Sketch-Based Few-Shot Keypoint Detection**|Subhajit Maity et.al.|[2507.07994v2](http://arxiv.org/abs/2507.07994v2)|**2025-07-11**|null|
