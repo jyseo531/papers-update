@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-07-20
+Updated on 2025-07-21
 
 > Generated from the Hugging Face database.
 
@@ -2161,6 +2161,7 @@ Updated on 2025-07-20
 | 44 |  | gokaygokay/Bronze-Sculpture-Kontext-Dev-LoRAImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/gokaygokay/Bronze-Sculpture-Kontext-Dev-LoRA) |
 | 57 |  | fofr/kontext-old-and-damaged-photoImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/fofr/kontext-old-and-damaged-photo) |
 | 4 | Unknown | ilkerzgi/Glittering-Portrait-Kontext-Dev-LoraImage-to-Image | Updatedabout 18 hours ago | [Link](https://huggingface.co/ilkerzgi/Glittering-Portrait-Kontext-Dev-Lora) |
+| 53 |  | fofr/kontext-make-person-realImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/fofr/kontext-make-person-real) |
 
 ## Image-to-Text
 
@@ -4551,6 +4552,8 @@ Updated on 2025-07-20
 | 331 |  | renderartist/coloringbookfluxText-to-Image | UpdatedSep 25, 2024 | [Link](https://huggingface.co/renderartist/coloringbookflux) |
 | 106 |  | alvdansen/flux_film_fotoText-to-Image | UpdatedAug 14, 2024 | [Link](https://huggingface.co/alvdansen/flux_film_foto) |
 | 91 |  | renderartist/classic-painting-fluxText-to-Image | Updated3 days ago | [Link](https://huggingface.co/renderartist/classic-painting-flux) |
+| 617k |  | playgroundai/playground-v2 | UpdatedMar 15, 2024 | [Link](https://huggingface.co/playgroundai/playground-v2.5-1024px-aesthetic) |
+| 292 |  | Norod78/Flux_1_Dev_LoRA_Paper-Cutout-StyleText-to-Image | UpdatedAug 16, 2024 | [Link](https://huggingface.co/Norod78/Flux_1_Dev_LoRA_Paper-Cutout-Style) |
 
 ## Text-to-Speech
 

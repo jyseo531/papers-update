@@ -29,6 +29,6 @@
 |**2025-07-17**|**Generalist Bimanual Manipulation via Foundation Video Diffusion Models**|Yao Feng et.al.|[2507.12898v1](http://arxiv.org/abs/2507.12898v1)|**2025-07-17**|null|
 |**2025-07-17**|**Camera-based implicit mind reading by capturing higher-order semantic dynamics of human gaze within environmental context**|Mengke Song et.al.|[2507.12889v1](http://arxiv.org/abs/2507.12889v1)|**2025-07-17**|null|
 |**2025-07-17**|**HRSeg: High-Resolution Visual Perception and Enhancement for Reasoning Segmentation**|Weihuang Lin et.al.|[2507.12883v1](http://arxiv.org/abs/2507.12883v1)|**2025-07-17**|null|
-|**2025-07-17**|**Generative Multi-Target Cross-Domain Recommendation**|Jinqiu Jin et.al.|[2507.12871v1](http://arxiv.org/abs/2507.12871v1)|**2025-07-17**|null|
+|**2025-07-17**|**Generative Multi-Target Cross-Domain Recommendation**|Jinqiu Jin et.al.|[2507.12871v2](http://arxiv.org/abs/2507.12871v2)|**2025-07-18**|null|
 |**2025-07-17**|**SCORE: Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation**|Shiqi Huang et.al.|[2507.12857v1](http://arxiv.org/abs/2507.12857v1)|**2025-07-17**|null|
 |**2025-07-17**|**Simulate, Refocus and Ensemble: An Attention-Refocusing Scheme for Domain Generalization**|Ziyi Wang et.al.|[2507.12851v1](http://arxiv.org/abs/2507.12851v1)|**2025-07-17**|null|

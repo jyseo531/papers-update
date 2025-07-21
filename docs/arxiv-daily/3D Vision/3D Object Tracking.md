@@ -14,10 +14,10 @@
 |**2025-07-17**|**A hierarchy of blood vessel models, Part I: 3D-1D to 1D**|Laurel Ohm et.al.|[2507.13316v1](http://arxiv.org/abs/2507.13316v1)|**2025-07-17**|null|
 |**2025-07-17**|**Analytical Optimization for Antenna Placement in Pinching-Antenna Systems**|Zhiguo Ding et.al.|[2507.13307v1](http://arxiv.org/abs/2507.13307v1)|**2025-07-17**|null|
 |**2025-07-17**|**Stochastic Weakly Convex Optimization Under Heavy-Tailed Noises**|Tianxi Zhu et.al.|[2507.13283v1](http://arxiv.org/abs/2507.13283v1)|**2025-07-17**|null|
-|**2025-07-17**|**Merge Kernel for Bayesian Optimization on Permutation Space**|Zikai Xie et.al.|[2507.13263v1](http://arxiv.org/abs/2507.13263v1)|**2025-07-17**|null|
+|**2025-07-17**|**Merge Kernel for Bayesian Optimization on Permutation Space**|Zikai Xie et.al.|[2507.13263v2](http://arxiv.org/abs/2507.13263v2)|**2025-07-18**|null|
 |**2025-07-17**|**BSDE Approach for $α$-Potential Stochastic Differential Games**|Xin Guo et.al.|[2507.13256v1](http://arxiv.org/abs/2507.13256v1)|**2025-07-17**|null|
 |**2025-07-17**|**High-precision baryon number cumulants from lattice QCD in a finite box: cumulant ratios, Lee-Yang zeros and critical endpoint predictions**|Alexander Adam et.al.|[2507.13254v1](http://arxiv.org/abs/2507.13254v1)|**2025-07-17**|null|
-|**2025-07-17**|**A Torus Remnant Revealed by the Infrared Echo of TDE AT2019qiz: Implications for the Missing Energy and QPE Formation**|Mingxin Wu et.al.|[2507.13251v1](http://arxiv.org/abs/2507.13251v1)|**2025-07-17**|null|
+|**2025-07-17**|**A Torus Remnant Revealed by the Infrared Echo of TDE AT2019qiz: Implications for the Missing Energy and QPE Formation**|Mingxin Wu et.al.|[2507.13251v2](http://arxiv.org/abs/2507.13251v2)|**2025-07-18**|null|
 |**2025-07-17**|**Distributed Nash Equilibrium Seeking in Non-Monotone Games over the Simplex**|Tatiana Tatarenko et.al.|[2507.13244v1](http://arxiv.org/abs/2507.13244v1)|**2025-07-17**|null|
 |**2025-07-17**|**QTCAJOSA: Low-Complexity Joint Offloading and Subchannel Allocation for NTN-Enabled IoMT**|Alejandro Flores C. et.al.|[2507.13242v1](http://arxiv.org/abs/2507.13242v1)|**2025-07-17**|null|
 |**2025-07-17**|**Unraveling the Feedback-Regulated Star Formation Activities around the Expanding Galactic MIR Bubble [HKS2019] E71**|Aayushi Verma et.al.|[2507.13232v1](http://arxiv.org/abs/2507.13232v1)|**2025-07-17**|null|

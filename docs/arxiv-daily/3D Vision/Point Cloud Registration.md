@@ -27,8 +27,8 @@
 |**2025-07-17**|**Some concerns on the border rank of Kronecker products of the Coppersmith-Winograd tensor**|Daiki Kawabe et.al.|[2507.13126v1](http://arxiv.org/abs/2507.13126v1)|**2025-07-17**|null|
 |**2025-07-17**|**Search for Z/2 eigenfunctions on the sphere using machine learning**|Andriy Haydys et.al.|[2507.13122v1](http://arxiv.org/abs/2507.13122v1)|**2025-07-17**|null|
 |**2025-07-17**|**3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering**|Zi Wang et.al.|[2507.13110v1](http://arxiv.org/abs/2507.13110v1)|**2025-07-17**|null|
-|**2025-07-17**|**Ultrafast thermal boundary conductance under large temperature discontinuities of ultrathin epitaxial Pb films on Si(111)**|Christian Brand et.al.|[2507.13109v1](http://arxiv.org/abs/2507.13109v1)|**2025-07-17**|null|
-|**2025-07-17**|**Asymptotics of spin-spin correlators weighted by fermion number measurements with low rapidity threshold in the 2D Ising free-fermion QFT**|Yizhuang Liu et.al.|[2507.13093v1](http://arxiv.org/abs/2507.13093v1)|**2025-07-17**|null|
+|**2025-07-17**|**Ultrafast thermal boundary conductance under large temperature discontinuities of ultrathin epitaxial Pb films on Si(111)**|Christian Brand et.al.|[2507.13109v2](http://arxiv.org/abs/2507.13109v2)|**2025-07-18**|null|
+|**2025-07-17**|**Asymptotics of spin-spin correlators weighted by fermion number measurements with low rapidity threshold in the 2D Ising free-fermion QFT**|Yizhuang Liu et.al.|[2507.13093v2](http://arxiv.org/abs/2507.13093v2)|**2025-07-18**|null|
 |**2025-07-17**|**Angle Estimation of a Single Source with Massive Uniform Circular Arrays**|Mingyan Gong et.al.|[2507.13086v1](http://arxiv.org/abs/2507.13086v1)|**2025-07-17**|null|
 |**2025-07-17**|**Do Governments React to Public Debt Accumulation? A Cross-Country Analysis**|Paolo Canofari et.al.|[2507.13084v1](http://arxiv.org/abs/2507.13084v1)|**2025-07-17**|null|
 |**2025-07-17**|**Probabilistic algorithm for computing all local minimizers of Morse functions on a compact domain**|Mohab Safey El Din et.al.|[2507.13071v1](http://arxiv.org/abs/2507.13071v1)|**2025-07-17**|null|

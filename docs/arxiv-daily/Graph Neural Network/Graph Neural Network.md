@@ -13,7 +13,7 @@
 |**2025-07-17**|**Long-time storage of a decoherence-free subspace logical qubit in a dual-type quantum memory**|Y. L. Xu et.al.|[2507.13320v1](http://arxiv.org/abs/2507.13320v1)|**2025-07-17**|null|
 |**2025-07-17**|**A Crowdsensing Intrusion Detection Dataset For Decentralized Federated Learning Models**|Chao Feng et.al.|[2507.13313v1](http://arxiv.org/abs/2507.13313v1)|**2025-07-17**|null|
 |**2025-07-17**|**Bidirectional Age of Incorrect Information: A Performance Metric for Status Updates in Virtual Dynamic Environments**|Chiara Schiavo et.al.|[2507.13312v1](http://arxiv.org/abs/2507.13312v1)|**2025-07-17**|null|
-|**2025-07-17**|**Modelling the spillover from online engagement to offline protest: stochastic dynamics and mean-field approximations on networks**|Moyi Tian et.al.|[2507.13310v1](http://arxiv.org/abs/2507.13310v1)|**2025-07-17**|null|
+|**2025-07-17**|**Modelling the spillover from online engagement to offline protest: stochastic dynamics and mean-field approximations on networks**|Moyi Tian et.al.|[2507.13310v2](http://arxiv.org/abs/2507.13310v2)|**2025-07-18**|null|
 |**2025-07-17**|**Boosting Team Modeling through Tempo-Relational Representation Learning**|Vincenzo Marco De Luca et.al.|[2507.13305v1](http://arxiv.org/abs/2507.13305v1)|**2025-07-17**|null|
 |**2025-07-17**|**Beyond the MaxCut problem in $H$-free graphs**|Zhihan Jin et.al.|[2507.13298v1](http://arxiv.org/abs/2507.13298v1)|**2025-07-17**|null|
 |**2025-07-17**|**Efficiently Constructing Sparse Navigable Graphs**|Alex Conway et.al.|[2507.13296v1](http://arxiv.org/abs/2507.13296v1)|**2025-07-17**|null|
@@ -25,7 +25,7 @@
 |**2025-07-17**|**QTCAJOSA: Low-Complexity Joint Offloading and Subchannel Allocation for NTN-Enabled IoMT**|Alejandro Flores C. et.al.|[2507.13242v1](http://arxiv.org/abs/2507.13242v1)|**2025-07-17**|null|
 |**2025-07-17**|**Topology-Enhanced Superconducting Qubit Networks for In-Sensor Quantum Information Processing**|J. Settino et.al.|[2507.13228v1](http://arxiv.org/abs/2507.13228v1)|**2025-07-17**|null|
 |**2025-07-17**|**Synthesizing Reality: Leveraging the Generative AI-Powered Platform Midjourney for Construction Worker Detection**|Hongyang Zhao et.al.|[2507.13221v1](http://arxiv.org/abs/2507.13221v1)|**2025-07-17**|null|
-|**2025-07-17**|**MoTM: Towards a Foundation Model for Time Series Imputation based on Continuous Modeling**|Etienne Le Naour et.al.|[2507.13207v1](http://arxiv.org/abs/2507.13207v1)|**2025-07-17**|null|
+|**2025-07-17**|**MoTM: Towards a Foundation Model for Time Series Imputation based on Continuous Modeling**|Etienne Le Naour et.al.|[2507.13207v2](http://arxiv.org/abs/2507.13207v2)|**2025-07-18**|null|
 |**2025-07-17**|**GradNetOT: Learning Optimal Transport Maps with GradNets**|Shreyas Chaudhari et.al.|[2507.13191v1](http://arxiv.org/abs/2507.13191v1)|**2025-07-17**|null|
 |**2025-07-17**|**GEMMAS: Graph-based Evaluation Metrics for Multi Agent Systems**|Jisoo Lee et.al.|[2507.13190v1](http://arxiv.org/abs/2507.13190v1)|**2025-07-17**|null|
 |**2025-07-17**|**Predictability-Aware Motion Prediction for Edge XR via High-Order Error-State Kalman Filtering**|Ziyu Zhong et.al.|[2507.13179v1](http://arxiv.org/abs/2507.13179v1)|**2025-07-17**|null|

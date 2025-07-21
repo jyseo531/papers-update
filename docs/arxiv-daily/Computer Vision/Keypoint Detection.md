@@ -2,7 +2,7 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-17**|**Merge Kernel for Bayesian Optimization on Permutation Space**|Zikai Xie et.al.|[2507.13263v1](http://arxiv.org/abs/2507.13263v1)|**2025-07-17**|null|
+|**2025-07-17**|**Merge Kernel for Bayesian Optimization on Permutation Space**|Zikai Xie et.al.|[2507.13263v2](http://arxiv.org/abs/2507.13263v2)|**2025-07-18**|null|
 |**2025-07-17**|**DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model**|Maulana Bisyir Azhari et.al.|[2507.13145v1](http://arxiv.org/abs/2507.13145v1)|**2025-07-17**|null|
 |**2025-07-17**|**3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering**|Zi Wang et.al.|[2507.13110v1](http://arxiv.org/abs/2507.13110v1)|**2025-07-17**|null|
 |**2025-07-16**|**Neural Network-Guided Symbolic Regression for Interpretable Descriptor Discovery in Perovskite Catalysts**|Yeming Xian et.al.|[2507.12404v1](http://arxiv.org/abs/2507.12404v1)|**2025-07-16**|null|
