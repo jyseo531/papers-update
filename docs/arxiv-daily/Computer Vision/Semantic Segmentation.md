@@ -24,10 +24,10 @@
 |**2025-07-18**|**Transient QPOs of Fermi-LAT blazars with Linearly Multiplicative Oscillations**|P. Penil et.al.|[2507.13906v1](http://arxiv.org/abs/2507.13906v1)|**2025-07-18**|null|
 |**2025-07-18**|**Software architecture and manual for novel versatile CT image analysis toolbox -- AnatomyArchive**|Lei Xu et.al.|[2507.13901v1](http://arxiv.org/abs/2507.13901v1)|**2025-07-18**|null|
 |**2025-07-18**|**Enhancing LiDAR Point Features with Foundation Model Priors for 3D Object Detection**|Yujian Mo et.al.|[2507.13899v1](http://arxiv.org/abs/2507.13899v1)|**2025-07-18**|null|
-|**2025-07-18**|**PCR-GS: COLMAP-Free 3D Gaussian Splatting via Pose Co-Regularizations**|Yu Wei et.al.|[2507.13891v1](http://arxiv.org/abs/2507.13891v1)|**2025-07-18**|null|
+|**2025-07-18**|**PCR-GS: COLMAP-Free 3D Gaussian Splatting via Pose Co-Regularizations**|Yu Wei et.al.|[2507.13891v2](http://arxiv.org/abs/2507.13891v2)|**2025-07-21**|null|
 |**2025-07-18**|**A Hidden Pulse: Uncovering a New Timing Signal in Cygnus X-1 with AstroSat**|Sandeep K. Rout et.al.|[2507.13884v1](http://arxiv.org/abs/2507.13884v1)|**2025-07-18**|null|
 |**2025-07-18**|**Muon tracking in a LiquidO opaque scintillator detector**|LiquidO Collaboration et.al.|[2507.13864v1](http://arxiv.org/abs/2507.13864v1)|**2025-07-18**|null|
-|**2025-07-18**|**PositionIC: Unified Position and Identity Consistency for Image Customization**|Junjie Hu et.al.|[2507.13861v1](http://arxiv.org/abs/2507.13861v1)|**2025-07-18**|null|
+|**2025-07-18**|**PositionIC: Unified Position and Identity Consistency for Image Customization**|Junjie Hu et.al.|[2507.13861v2](http://arxiv.org/abs/2507.13861v2)|**2025-07-21**|null|
 |**2025-07-18**|**Depth3DLane: Fusing Monocular 3D Lane Detection with Self-Supervised Monocular Depth Estimation**|Max van den Hoven et.al.|[2507.13857v1](http://arxiv.org/abs/2507.13857v1)|**2025-07-18**|null|
 |**2025-07-18**|**A Quantum-assisted Attention U-Net for Building Segmentation over Tunis using Sentinel-1 Data**|Luigi Russo et.al.|[2507.13852v1](http://arxiv.org/abs/2507.13852v1)|**2025-07-18**|null|
 |**2025-07-18**|**Divide and Conquer: A Large-Scale Dataset and Model for Left-Right Breast MRI Segmentation**|Maximilian Rokuss et.al.|[2507.13830v1](http://arxiv.org/abs/2507.13830v1)|**2025-07-18**|null|
