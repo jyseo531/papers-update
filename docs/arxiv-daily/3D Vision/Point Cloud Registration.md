@@ -2,33 +2,33 @@
 ### Point Cloud Registration
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-18**|**Toward Temporal Causal Representation Learning with Tensor Decomposition**|Jianhong Chen et.al.|[2507.14126v1](http://arxiv.org/abs/2507.14126v1)|**2025-07-18**|null|
-|**2025-07-18**|**AdS$\times$S Mellin Bootstrap, Hidden 10d Symmetry and Five-point Kaluza-Klein Functions in $\mathcal{N}=4$ SYM**|Bruno Fernandes et.al.|[2507.14124v1](http://arxiv.org/abs/2507.14124v1)|**2025-07-18**|null|
-|**2025-07-18**|**Multiple $\wp$-Functions and Their Applications**|Hayato Kanno et.al.|[2507.14118v1](http://arxiv.org/abs/2507.14118v1)|**2025-07-18**|null|
-|**2025-07-18**|**Spatiotemporal Order and Parametric Instabilities from First-Principles**|Daniel Kaplan et.al.|[2507.14110v1](http://arxiv.org/abs/2507.14110v1)|**2025-07-18**|null|
-|**2025-07-18**|**The Emotion-Memory Link: Do Memorability Annotations Matter for Intelligent Systems?**|Maria Tsfasman et.al.|[2507.14084v1](http://arxiv.org/abs/2507.14084v1)|**2025-07-18**|null|
-|**2025-07-18**|**Proceedings of the 15th International Workshop on Non-Classical Models of Automata and Applications**|Nelma Moreira et.al.|[2507.14082v1](http://arxiv.org/abs/2507.14082v1)|**2025-07-18**|null|
-|**2025-07-18**|**Edge Intelligence with Spiking Neural Networks**|Shuiguang Deng et.al.|[2507.14069v1](http://arxiv.org/abs/2507.14069v1)|**2025-07-18**|null|
-|**2025-07-18**|**Comment to "The asymptotically-free gauge theories"**|Giacomo Cacciapaglia et.al.|[2507.14037v1](http://arxiv.org/abs/2507.14037v1)|**2025-07-18**|null|
-|**2025-07-18**|**Contact point geometry governs structural build-up at rest in Portland cement-limestone blends**|Luca Michel et.al.|[2507.14029v1](http://arxiv.org/abs/2507.14029v1)|**2025-07-18**|null|
-|**2025-07-18**|**Conformalized Regression for Continuous Bounded Outcomes**|Zhanli Wu et.al.|[2507.14023v1](http://arxiv.org/abs/2507.14023v1)|**2025-07-18**|null|
-|**2025-07-18**|**Byzantine-resilient federated online learning for Gaussian process regression**|Xu Zhang et.al.|[2507.14021v1](http://arxiv.org/abs/2507.14021v1)|**2025-07-18**|null|
-|**2025-07-18**|**Liquid Drop Model for Nuclear Matter in the Low Density Limit**|Rupert L. Frank et.al.|[2507.14012v1](http://arxiv.org/abs/2507.14012v1)|**2025-07-18**|null|
-|**2025-07-18**|**Identification and Computation of Slow Manifolds Using the Isostable Coordinate System**|Dan Wilson et.al.|[2507.13997v1](http://arxiv.org/abs/2507.13997v1)|**2025-07-18**|null|
-|**2025-07-18**|**Sub-kelvin measurement of silicon thermal expansion with a Fabry-Pérot cavity stabilized laser**|Pierre Roset et.al.|[2507.13976v1](http://arxiv.org/abs/2507.13976v1)|**2025-07-18**|null|
-|**2025-07-18**|**Continuity of Functions on Bare Representation of Graphs under Star Topology**|Rodolfo E. Maza et.al.|[2507.13968v1](http://arxiv.org/abs/2507.13968v1)|**2025-07-18**|null|
-|**2025-07-18**|**Exact versus Approximate Representations of Boolean Functions in the De Morgan Basis**|Arkadev Chattopadhyay et.al.|[2507.13963v1](http://arxiv.org/abs/2507.13963v1)|**2025-07-18**|null|
-|**2025-07-18**|**Generalist Forecasting with Frozen Video Models via Latent Diffusion**|Jacob C Walker et.al.|[2507.13942v1](http://arxiv.org/abs/2507.13942v1)|**2025-07-18**|null|
-|**2025-07-18**|**Automated Route-based Conflation Between Linear Referencing System Maps And OpenStreetMap Using Open-source Tools**|Gibran Ali et.al.|[2507.13939v1](http://arxiv.org/abs/2507.13939v1)|**2025-07-18**|null|
-|**2025-07-18**|**Improved measurement of $η/ η^{\prime}$ mixing in $B^{0}_{(s)} \rightarrow J/ψη^{(\prime)}$ decays**|LHCb collaboration et.al.|[2507.13914v1](http://arxiv.org/abs/2507.13914v1)|**2025-07-18**|null|
-|**2025-07-18**|**AeroThrow: An Autonomous Aerial Throwing System for Precise Payload Delivery**|Ziliang Li et.al.|[2507.13903v1](http://arxiv.org/abs/2507.13903v1)|**2025-07-18**|null|
-|**2025-07-18**|**Enhancing LiDAR Point Features with Foundation Model Priors for 3D Object Detection**|Yujian Mo et.al.|[2507.13899v1](http://arxiv.org/abs/2507.13899v1)|**2025-07-18**|null|
-|**2025-07-18**|**Application Placement with Constraint Relaxation**|Damiano Azzolini et.al.|[2507.13895v1](http://arxiv.org/abs/2507.13895v1)|**2025-07-18**|null|
-|**2025-07-18**|**Fixed time convergence guarantees for Higher Order Control Barrier Functions**|Janani S K et.al.|[2507.13888v1](http://arxiv.org/abs/2507.13888v1)|**2025-07-18**|null|
-|**2025-07-18**|**Probing the singularity at the holographic screen via $q$-holography**|Andreas Belaey et.al.|[2507.13873v1](http://arxiv.org/abs/2507.13873v1)|**2025-07-18**|null|
-|**2025-07-18**|**Moments and the Basic Equilibrium Equations**|Eduardo S. G. Leandro et.al.|[2507.13865v1](http://arxiv.org/abs/2507.13865v1)|**2025-07-18**|null|
-|**2025-07-18**|**Nonequilibrium steady states in multi-bath quantum collision models**|Ronan McElvogue et.al.|[2507.13860v1](http://arxiv.org/abs/2507.13860v1)|**2025-07-18**|null|
-|**2025-07-18**|**Depth3DLane: Fusing Monocular 3D Lane Detection with Self-Supervised Monocular Depth Estimation**|Max van den Hoven et.al.|[2507.13857v1](http://arxiv.org/abs/2507.13857v1)|**2025-07-18**|null|
-|**2025-07-18**|**Exploiting scattering-based point spread functions for snapshot 5D and modality-switchable lensless imaging**|Ze Zheng et.al.|[2507.13813v1](http://arxiv.org/abs/2507.13813v1)|**2025-07-18**|null|
-|**2025-07-18**|**SkySense V2: A Unified Foundation Model for Multi-modal Remote Sensing**|Yingying Zhang et.al.|[2507.13812v1](http://arxiv.org/abs/2507.13812v1)|**2025-07-18**|null|
-|**2025-07-18**|**Less is more: removing a single bond increases the toughness of elastic networks**|Antoine Sanner et.al.|[2507.13806v1](http://arxiv.org/abs/2507.13806v1)|**2025-07-18**|null|
+|**2025-07-21**|**Simulating the LOcal Web (SLOW) V. Thermodynamic Properties and Evolution of Local Galaxy Clusters**|Elena Hernández-Martínez et.al.|[2507.15858v1](http://arxiv.org/abs/2507.15858v1)|**2025-07-21**|null|
+|**2025-07-21**|**Overcast mornings and clear evenings in hot Jupiter exoplanet atmospheres**|Guangwei Fu et.al.|[2507.15854v1](http://arxiv.org/abs/2507.15854v1)|**2025-07-21**|null|
+|**2025-07-21**|**The Other Mind: How Language Models Exhibit Human Temporal Cognition**|Lingyu Li et.al.|[2507.15851v1](http://arxiv.org/abs/2507.15851v1)|**2025-07-21**|null|
+|**2025-07-21**|**The Impact of Language Mixing on Bilingual LLM Reasoning**|Yihao Li et.al.|[2507.15849v1](http://arxiv.org/abs/2507.15849v1)|**2025-07-21**|null|
+|**2025-07-21**|**GUI-G$^2$: Gaussian Reward Modeling for GUI Grounding**|Fei Tang et.al.|[2507.15846v1](http://arxiv.org/abs/2507.15846v1)|**2025-07-21**|null|
+|**2025-07-21**|**Quantum computational sensing using quantum signal processing, quantum neural networks, and Hamiltonian engineering**|Saeed A. Khan et.al.|[2507.15845v1](http://arxiv.org/abs/2507.15845v1)|**2025-07-21**|null|
+|**2025-07-21**|**Closure Conversion, Flat Environments, and the Complexity of Abstract Machines**|Beniamino Accattoli et.al.|[2507.15843v1](http://arxiv.org/abs/2507.15843v1)|**2025-07-21**|null|
+|**2025-07-21**|**Some Lagrangian quiver Grassmannians for the equioriented cycle**|Matteo Micheli et.al.|[2507.15841v1](http://arxiv.org/abs/2507.15841v1)|**2025-07-21**|null|
+|**2025-07-21**|**A Framework for Analyzing Abnormal Emergence in Service Ecosystems Through LLM-based Agent Intention Mining**|Yifan Shen et.al.|[2507.15770v1](http://arxiv.org/abs/2507.15770v1)|**2025-07-21**|null|
+|**2025-07-21**|**Meson mass spectrum in Ising Field Theory**|Alexey Litvinov et.al.|[2507.15766v1](http://arxiv.org/abs/2507.15766v1)|**2025-07-21**|null|
+|**2025-07-21**|**Spectral analysis of ultraluminous X-ray pulsars with models of X-ray pulsars**|Manish Kumar et.al.|[2507.15764v1](http://arxiv.org/abs/2507.15764v1)|**2025-07-21**|null|
+|**2025-07-21**|**Generic cuspidal points and their localization**|Luca Dieci et.al.|[2507.15762v1](http://arxiv.org/abs/2507.15762v1)|**2025-07-21**|null|
+|**2025-07-21**|**Interaction as Intelligence: Deep Research With Human-AI Partnership**|Lyumanshan Ye et.al.|[2507.15759v1](http://arxiv.org/abs/2507.15759v1)|**2025-07-21**|null|
+|**2025-07-21**|**Simulating a Gaussian stochastic gravitational wave background signal in pulsar timing arrays**|Reginald Christian Bernardo et.al.|[2507.15756v1](http://arxiv.org/abs/2507.15756v1)|**2025-07-21**|null|
+|**2025-07-21**|**Dynamical analysis of bulk viscous cosmological model in $F(T)$ gravity**|Partha Sarathi Debnath et.al.|[2507.15754v1](http://arxiv.org/abs/2507.15754v1)|**2025-07-21**|null|
+|**2025-07-21**|**The Probable Direct-Imaging Detection of the Stellar Companion to Betelgeuse**|Steve B. Howell et.al.|[2507.15749v1](http://arxiv.org/abs/2507.15749v1)|**2025-07-21**|null|
+|**2025-07-21**|**Infinitely many non-radial solutions to a critical Choquard equation**|Sabrina Caputo et.al.|[2507.15747v1](http://arxiv.org/abs/2507.15747v1)|**2025-07-21**|null|
+|**2025-07-21**|**Minimal horizontal triods: Analysis and computation**|Robert Nürnberg et.al.|[2507.15740v1](http://arxiv.org/abs/2507.15740v1)|**2025-07-21**|null|
+|**2025-07-21**|**Superlinear gradient growth for 2D Euler equation without boundary**|In-Jee Jeong et.al.|[2507.15739v1](http://arxiv.org/abs/2507.15739v1)|**2025-07-21**|null|
+|**2025-07-21**|**Polarization Vortex for Enhanced Refractive Index Sensing**|Ravshanjon Nazarov et.al.|[2507.15705v1](http://arxiv.org/abs/2507.15705v1)|**2025-07-21**|null|
+|**2025-07-21**|**LINR-PCGC: Lossless Implicit Neural Representations for Point Cloud Geometry Compression**|Wenjie Huang et.al.|[2507.15686v1](http://arxiv.org/abs/2507.15686v1)|**2025-07-21**|null|
+|**2025-07-21**|**Erdős's unit distance problem and rigidity**|János Pach et.al.|[2507.15679v1](http://arxiv.org/abs/2507.15679v1)|**2025-07-21**|null|
+|**2025-07-21**|**Data-Driven MPC with Data Selection for Flexible Cable-Driven Robotic Arms**|Huayue Liang et.al.|[2507.15677v1](http://arxiv.org/abs/2507.15677v1)|**2025-07-21**|null|
+|**2025-07-21**|**Point Cloud Streaming with Latency-Driven Implicit Adaptation using MoQ**|Andrew Freeman et.al.|[2507.15673v1](http://arxiv.org/abs/2507.15673v1)|**2025-07-21**|null|
+|**2025-07-21**|**Vehicular Cloud Computing: A cost-effective alternative to Edge Computing in 5G networks**|Rosario Patanè et.al.|[2507.15670v1](http://arxiv.org/abs/2507.15670v1)|**2025-07-21**|null|
+|**2025-07-21**|**Sensor network localization has a benign landscape after low-dimensional relaxation**|Christopher Criscitiello et.al.|[2507.15662v1](http://arxiv.org/abs/2507.15662v1)|**2025-07-21**|null|
+|**2025-07-21**|**Fixed point results via a new class of Ad-contractions**|Prasun Panthi et.al.|[2507.15635v1](http://arxiv.org/abs/2507.15635v1)|**2025-07-21**|null|
+|**2025-07-21**|**Tightness of approximations to metrics on non-simple conformal loop ensemble gaskets**|Valeria Ambrosio et.al.|[2507.15589v1](http://arxiv.org/abs/2507.15589v1)|**2025-07-21**|null|
+|**2025-07-21**|**Compress-Align-Detect: onboard change detection from unregistered images**|Gabriele Inzerillo et.al.|[2507.15578v1](http://arxiv.org/abs/2507.15578v1)|**2025-07-21**|null|
+|**2025-07-21**|**Assessment of the AlUla Manara astronomical site in Saudi Arabia using ECMWF ERA5 Reanalysis data**|G. Lombardi et.al.|[2507.15572v1](http://arxiv.org/abs/2507.15572v1)|**2025-07-21**|null|

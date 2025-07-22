@@ -2,33 +2,33 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-18**|**Do mixed states exhibit deep thermalisation?**|Alan Sherry et.al.|[2507.14135v1](http://arxiv.org/abs/2507.14135v1)|**2025-07-18**|null|
-|**2025-07-18**|**Learning the non-Markovian features of subsystem dynamics**|Michele Coppola et.al.|[2507.14133v1](http://arxiv.org/abs/2507.14133v1)|**2025-07-18**|null|
-|**2025-07-18**|**Design framework for programmable three-dimensional woven metamaterials**|Molly Carton et.al.|[2507.14130v1](http://arxiv.org/abs/2507.14130v1)|**2025-07-18**|null|
-|**2025-07-18**|**Toward Temporal Causal Representation Learning with Tensor Decomposition**|Jianhong Chen et.al.|[2507.14126v1](http://arxiv.org/abs/2507.14126v1)|**2025-07-18**|null|
-|**2025-07-18**|**Kolmogorov Arnold Networks (KANs) for Imbalanced Data -- An Empirical Perspective**|Pankaj Yadav et.al.|[2507.14121v1](http://arxiv.org/abs/2507.14121v1)|**2025-07-18**|null|
-|**2025-07-18**|**Quantum Boltzmann Machines using Parallel Annealing for Medical Image Classification**|Daniëlle Schuman et.al.|[2507.14116v1](http://arxiv.org/abs/2507.14116v1)|**2025-07-18**|null|
-|**2025-07-18**|**Weighted Matching in a Poly-Streaming Model**|Ahammed Ullah et.al.|[2507.14114v1](http://arxiv.org/abs/2507.14114v1)|**2025-07-18**|null|
-|**2025-07-18**|**Spatiotemporal Order and Parametric Instabilities from First-Principles**|Daniel Kaplan et.al.|[2507.14110v1](http://arxiv.org/abs/2507.14110v1)|**2025-07-18**|null|
-|**2025-07-18**|**An Adversarial-Driven Experimental Study on Deep Learning for RF Fingerprinting**|Xinyu Cao et.al.|[2507.14109v1](http://arxiv.org/abs/2507.14109v1)|**2025-07-18**|null|
-|**2025-07-18**|**Context-Aware Behavior Learning with Heuristic Motion Memory for Underwater Manipulation**|Markus Buchholz et.al.|[2507.14099v1](http://arxiv.org/abs/2507.14099v1)|**2025-07-18**|null|
-|**2025-07-18**|**C-DOG: Training-Free Multi-View Multi-Object Association in Dense Scenes Without Visual Feature via Connected δ-Overlap Graphs**|Yung-Hong Sun et.al.|[2507.14095v1](http://arxiv.org/abs/2507.14095v1)|**2025-07-18**|null|
-|**2025-07-18**|**Machine Learning-aided Optimal Control of a noisy qubit**|Riccardo Cantone et.al.|[2507.14085v1](http://arxiv.org/abs/2507.14085v1)|**2025-07-18**|null|
-|**2025-07-18**|**Edge Intelligence with Spiking Neural Networks**|Shuiguang Deng et.al.|[2507.14069v1](http://arxiv.org/abs/2507.14069v1)|**2025-07-18**|null|
-|**2025-07-18**|**Directionality measures in evolutionary ecological networks: Insights from the Tangled Nature model**|Andrea Marchetti et.al.|[2507.14062v1](http://arxiv.org/abs/2507.14062v1)|**2025-07-18**|null|
-|**2025-07-18**|**Sparse Navigable Graphs for Nearest Neighbor Search: Algorithms and Hardness**|Sanjeev Khanna et.al.|[2507.14060v1](http://arxiv.org/abs/2507.14060v1)|**2025-07-18**|null|
-|**2025-07-18**|**Noradrenergic-inspired gain modulation attenuates the stability gap in joint training**|Alejandro Rodriguez-Garcia et.al.|[2507.14056v1](http://arxiv.org/abs/2507.14056v1)|**2025-07-18**|null|
-|**2025-07-18**|**Real time observation of glass-like carbon formation from SU-8 using X-ray and ultraviolet photoelectron spectroscopy**|Simon Astley et.al.|[2507.14053v1](http://arxiv.org/abs/2507.14053v1)|**2025-07-18**|null|
-|**2025-07-18**|**Physics-guided gated recurrent units for inversion-based feedforward control**|Mingdao Lin et.al.|[2507.14052v1](http://arxiv.org/abs/2507.14052v1)|**2025-07-18**|null|
-|**2025-07-18**|**D2IP: Deep Dynamic Image Prior for 3D Time-sequence Pulmonary Impedance Imaging**|Hao Fang et.al.|[2507.14046v1](http://arxiv.org/abs/2507.14046v1)|**2025-07-18**|null|
-|**2025-07-18**|**DONUT: Physics-aware Machine Learning for Real-time X-ray Nanodiffraction Analysis**|Aileen Luo et.al.|[2507.14038v1](http://arxiv.org/abs/2507.14038v1)|**2025-07-18**|null|
-|**2025-07-18**|**Toward Practical Fluid Antenna Systems: Co-Optimizing Hardware and Software for Port Selection and Beamforming**|Sai Xu et.al.|[2507.14035v1](http://arxiv.org/abs/2507.14035v1)|**2025-07-18**|null|
-|**2025-07-18**|**QuantEIT: Ultra-Lightweight Quantum-Assisted Inference for Chest Electrical Impedance Tomography**|Hao Fang et.al.|[2507.14031v1](http://arxiv.org/abs/2507.14031v1)|**2025-07-18**|null|
-|**2025-07-18**|**Reference-Free Iterative Learning Model Predictive Control with Neural Certificates**|Wataru Hashimoto et.al.|[2507.14025v1](http://arxiv.org/abs/2507.14025v1)|**2025-07-18**|null|
-|**2025-07-18**|**Conceptual and Design Principles for a Self-Referential Algorithm Mimicking Neuronal Assembly Functions**|Paolo Totaro et.al.|[2507.14011v1](http://arxiv.org/abs/2507.14011v1)|**2025-07-18**|null|
-|**2025-07-18**|**Automatic Classification and Segmentation of Tunnel Cracks Based on Deep Learning and Visual Explanations**|Yong Feng et.al.|[2507.14010v1](http://arxiv.org/abs/2507.14010v1)|**2025-07-18**|null|
-|**2025-07-18**|**Smart fault detection in satellite electrical power system**|Niloofar Nobahari et.al.|[2507.14004v1](http://arxiv.org/abs/2507.14004v1)|**2025-07-18**|null|
-|**2025-07-18**|**The Proportional Fair Scheduler in Wavelength-Multiplexed Quantum Networks**|Sanidhay Bhambay et.al.|[2507.13999v1](http://arxiv.org/abs/2507.13999v1)|**2025-07-18**|null|
-|**2025-07-18**|**Optimal antimatroid sorting**|Benjamin Aram Berendsohn et.al.|[2507.13994v1](http://arxiv.org/abs/2507.13994v1)|**2025-07-18**|null|
-|**2025-07-18**|**OrthoInsight: Rib Fracture Diagnosis and Report Generation Based on Multi-Modal Large Models**|Ningyong Wu et.al.|[2507.13993v1](http://arxiv.org/abs/2507.13993v1)|**2025-07-18**|null|
-|**2025-07-18**|**Structural Connectome Harmonization Using Deep Learning: The Strength of Graph Neural Networks**|Jagruti Patel et.al.|[2507.13992v1](http://arxiv.org/abs/2507.13992v1)|**2025-07-18**|null|
+|**2025-07-21**|**Quantum computational sensing using quantum signal processing, quantum neural networks, and Hamiltonian engineering**|Saeed A. Khan et.al.|[2507.15845v1](http://arxiv.org/abs/2507.15845v1)|**2025-07-21**|null|
+|**2025-07-21**|**Identifying Conditional Causal Effects in MPDAGs**|Sara LaPlante et.al.|[2507.15842v1](http://arxiv.org/abs/2507.15842v1)|**2025-07-21**|null|
+|**2025-07-21**|**Multi-Strategy Improved Snake Optimizer Accelerated CNN-LSTM-Attention-Adaboost for Trajectory Prediction**|Shiyang Li et.al.|[2507.15832v1](http://arxiv.org/abs/2507.15832v1)|**2025-07-21**|null|
+|**2025-07-21**|**Rigorous dense graph limit of a model for biological transportation networks**|Nuno J. Alves et.al.|[2507.15829v1](http://arxiv.org/abs/2507.15829v1)|**2025-07-21**|null|
+|**2025-07-21**|**Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation**|Alessandro B. Melchiorre et.al.|[2507.15826v1](http://arxiv.org/abs/2507.15826v1)|**2025-07-21**|null|
+|**2025-07-21**|**Operationalizing AI for Good: Spotlight on Deployment and Integration of AI Models in Humanitarian Work**|Anton Abilov et.al.|[2507.15823v1](http://arxiv.org/abs/2507.15823v1)|**2025-07-21**|null|
+|**2025-07-21**|**The Capacity of Semantic Private Information Retrieval with Colluding Servers**|Mohamed Nomeir et.al.|[2507.15818v1](http://arxiv.org/abs/2507.15818v1)|**2025-07-21**|null|
+|**2025-07-21**|**Federated Split Learning with Improved Communication and Storage Efficiency**|Yujia Mu et.al.|[2507.15816v1](http://arxiv.org/abs/2507.15816v1)|**2025-07-21**|null|
+|**2025-07-21**|**Diffusion models for multivariate subsurface generation and efficient probabilistic inversion**|Roberto Miele et.al.|[2507.15809v1](http://arxiv.org/abs/2507.15809v1)|**2025-07-21**|null|
+|**2025-07-21**|**Power-Constrained Policy Gradient Methods for LQR**|Ashwin Verma et.al.|[2507.15806v1](http://arxiv.org/abs/2507.15806v1)|**2025-07-21**|null|
+|**2025-07-21**|**Fluid Antenna-enabled Near-Field Integrated Sensing, Computing and Semantic Communication for Emerging Applications**|Yinchao Yang et.al.|[2507.15800v1](http://arxiv.org/abs/2507.15800v1)|**2025-07-21**|null|
+|**2025-07-21**|**Exploring Superposition and Interference in State-of-the-Art Low-Parameter Vision Models**|Lilian Hollard et.al.|[2507.15798v1](http://arxiv.org/abs/2507.15798v1)|**2025-07-21**|null|
+|**2025-07-21**|**Biological detail and graph structure in network neuroscience**|David Papo et.al.|[2507.15789v1](http://arxiv.org/abs/2507.15789v1)|**2025-07-21**|null|
+|**2025-07-21**|**Missing Physics Discovery through Fully Differentiable Finite Element-Based Machine Learning**|Ado Farsi et.al.|[2507.15787v1](http://arxiv.org/abs/2507.15787v1)|**2025-07-21**|null|
+|**2025-07-21**|**Toric intersections**|Anargyros Katsabekis et.al.|[2507.15785v1](http://arxiv.org/abs/2507.15785v1)|**2025-07-21**|null|
+|**2025-07-21**|**Graph Attention Specialized Expert Fusion Model for Node Classification: Based on Cora and Pubmed Datasets**|Zihang Ma et.al.|[2507.15784v1](http://arxiv.org/abs/2507.15784v1)|**2025-07-21**|null|
+|**2025-07-21**|**Interleaved LLM and Motion Planning for Generalized Multi-Object Collection in Large Scene Graphs**|Ruochu Yang et.al.|[2507.15782v1](http://arxiv.org/abs/2507.15782v1)|**2025-07-21**|null|
+|**2025-07-21**|**Learning Null Geodesics for Gravitational Lensing Rendering in General Relativity**|Mingyuan Sun et.al.|[2507.15775v1](http://arxiv.org/abs/2507.15775v1)|**2025-07-21**|null|
+|**2025-07-21**|**Multi-Modal Sensor Fusion for Proactive Blockage Prediction in mmWave Vehicular Networks**|Ahmad M. Nazar et.al.|[2507.15769v1](http://arxiv.org/abs/2507.15769v1)|**2025-07-21**|null|
+|**2025-07-21**|**Toward an event-level analysis of hadron structure using differential programming**|Kevin Braga et.al.|[2507.15768v1](http://arxiv.org/abs/2507.15768v1)|**2025-07-21**|null|
+|**2025-07-21**|**Asymptotic normality of embedding distributions of some families of graphs**|Yichao Chen et.al.|[2507.15751v1](http://arxiv.org/abs/2507.15751v1)|**2025-07-21**|null|
+|**2025-07-21**|**Conformal and kNN Predictive Uncertainty Quantification Algorithms in Metric Spaces**|Gábor Lugosi et.al.|[2507.15741v1](http://arxiv.org/abs/2507.15741v1)|**2025-07-21**|null|
+|**2025-07-21**|**Minimal horizontal triods: Analysis and computation**|Robert Nürnberg et.al.|[2507.15740v1](http://arxiv.org/abs/2507.15740v1)|**2025-07-21**|null|
+|**2025-07-21**|**TONUS: Neuromorphic human pose estimation for artistic sound co-creation**|Jules Lecomte et.al.|[2507.15734v1](http://arxiv.org/abs/2507.15734v1)|**2025-07-21**|null|
+|**2025-07-21**|**The theory of reachability in trace-pushdown systems**|Dietrich Kuske et.al.|[2507.15733v1](http://arxiv.org/abs/2507.15733v1)|**2025-07-21**|null|
+|**2025-07-21**|**Sidorenko-Type Inequalities for Even Subdivisions over Finite Abelian Groups**|Yuqi Zhao et.al.|[2507.15723v1](http://arxiv.org/abs/2507.15723v1)|**2025-07-21**|null|
+|**2025-07-21**|**Estimating Rate-Distortion Functions Using the Energy-Based Model**|Shitong Wu et.al.|[2507.15700v1](http://arxiv.org/abs/2507.15700v1)|**2025-07-21**|null|
+|**2025-07-21**|**CoLD: Counterfactually-Guided Length Debiasing for Process Reward Models**|Congmin Zheng et.al.|[2507.15698v1](http://arxiv.org/abs/2507.15698v1)|**2025-07-21**|null|
+|**2025-07-21**|**Giant Reversible Piezoelectricity from Symmetry-Governed Stochastic Dipole Hopping**|Denan Li et.al.|[2507.15687v1](http://arxiv.org/abs/2507.15687v1)|**2025-07-21**|null|
+|**2025-07-21**|**LINR-PCGC: Lossless Implicit Neural Representations for Point Cloud Geometry Compression**|Wenjie Huang et.al.|[2507.15686v1](http://arxiv.org/abs/2507.15686v1)|**2025-07-21**|null|

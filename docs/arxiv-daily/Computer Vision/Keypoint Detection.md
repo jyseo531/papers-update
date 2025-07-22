@@ -2,6 +2,12 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-21**|**Minutiae-Anchored Local Dense Representation for Fingerprint Matching**|Zhiyu Pan et.al.|[2507.15297v1](http://arxiv.org/abs/2507.15297v1)|**2025-07-21**|null|
+|**2025-07-21**|**MinCD-PnP: Learning 2D-3D Correspondences with Approximate Blind PnP**|Pei An et.al.|[2507.15257v1](http://arxiv.org/abs/2507.15257v1)|**2025-07-21**|null|
+|**2025-07-20**|**LoopNet: A Multitasking Few-Shot Learning Approach for Loop Closure in Large Scale SLAM**|Mohammad-Maher Nakshbandi et.al.|[2507.15109v1](http://arxiv.org/abs/2507.15109v1)|**2025-07-20**|null|
+|**2025-07-20**|**KGN-Pro: Keypoint-Based Grasp Prediction through Probabilistic 2D-3D Correspondence Learning**|Bingran Chen et.al.|[2507.14820v1](http://arxiv.org/abs/2507.14820v1)|**2025-07-20**|null|
+|**2025-07-19**|**OptiCorNet: Optimizing Sequence-Based Context Correlation for Visual Place Recognition**|Zhenyu Li et.al.|[2507.14477v1](http://arxiv.org/abs/2507.14477v1)|**2025-07-19**|null|
+|**2025-07-18**|**Classification of Histopathology Slides with Persistence Homology Convolutions**|Shrunal Pothagoni et.al.|[2507.14378v1](http://arxiv.org/abs/2507.14378v1)|**2025-07-18**|null|
 |**2025-07-18**|**Feature Engineering is Not Dead: Reviving Classical Machine Learning with Entropy, HOG, and LBP Feature Fusion for Image Classification**|Abhijit Sen et.al.|[2507.13772v1](http://arxiv.org/abs/2507.13772v1)|**2025-07-18**|null|
 |**2025-07-18**|**Topological signatures of jamming in granular force networks via persistent homology**|Vishali S et.al.|[2507.13690v1](http://arxiv.org/abs/2507.13690v1)|**2025-07-18**|null|
 |**2025-07-17**|**Merge Kernel for Bayesian Optimization on Permutation Space**|Zikai Xie et.al.|[2507.13263v2](http://arxiv.org/abs/2507.13263v2)|**2025-07-18**|null|
@@ -26,9 +32,3 @@
 |**2025-07-14**|**4D-Animal: Freely Reconstructing Animatable 3D Animals from Videos**|Shanshan Zhong et.al.|[2507.10437v1](http://arxiv.org/abs/2507.10437v1)|**2025-07-14**|null|
 |**2025-07-14**|**Single-site diagonal quantities capture off-diagonal long-range order**|M. Sanino et.al.|[2507.10328v1](http://arxiv.org/abs/2507.10328v1)|**2025-07-14**|null|
 |**2025-07-14**|**Quantum-Annealing Enhanced Machine Learning for Interpretable Phase Classification of High-Entropy Alloys**|Diego Ibarra Hoyos et.al.|[2507.10237v1](http://arxiv.org/abs/2507.10237v1)|**2025-07-14**|null|
-|**2025-07-14**|**Natural Language-based Assessment of L2 Oral Proficiency using LLMs**|Stefano Bannò et.al.|[2507.10200v1](http://arxiv.org/abs/2507.10200v1)|**2025-07-14**|null|
-|**2025-07-14**|**Lightweight Model for Poultry Disease Detection from Fecal Images Using Multi-Color Space Feature Optimization and Machine Learning**|A. K. M. Shoriful Islam et.al.|[2507.10056v1](http://arxiv.org/abs/2507.10056v1)|**2025-07-14**|null|
-|**2025-07-13**|**VST-Pose: A Velocity-Integrated Spatiotem-poral Attention Network for Human WiFi Pose Estimation**|Xinyu Zhang et.al.|[2507.09672v1](http://arxiv.org/abs/2507.09672v1)|**2025-07-13**|null|
-|**2025-07-12**|**PoseLLM: Enhancing Language-Guided Human Pose Estimation with MLP Alignment**|Dewen Zhang et.al.|[2507.09139v1](http://arxiv.org/abs/2507.09139v1)|**2025-07-12**|null|
-|**2025-07-11**|**An Efficient Approach for Muscle Segmentation and 3D Reconstruction Using Keypoint Tracking in MRI Scan**|Mengyuan Liu et.al.|[2507.08690v1](http://arxiv.org/abs/2507.08690v1)|**2025-07-11**|null|
-|**2025-07-11**|**RadiomicsRetrieval: A Customizable Framework for Medical Image Retrieval Using Radiomics Features**|Inye Na et.al.|[2507.08546v1](http://arxiv.org/abs/2507.08546v1)|**2025-07-11**|null|
