@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-07-22
+Updated on 2025-07-23
 
 > Generated from the Hugging Face database.
 
@@ -11,6 +11,7 @@ Updated on 2025-07-22
 | 189k | 577 | deepseek-ai/Janus-1 | Updated29 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-1.3B) |
 | 121k | 381 | deepseek-ai/Janus-Pro-1BAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-1B) |
 | 488 | 260 | gpt-omni/mini-omni2Any-to-Any | UpdatedOct 24, 2024 | [Link](https://huggingface.co/gpt-omni/mini-omni2) |
+| Updated1 day ago | 254 | NexaAI/Qwen2 | 3B | [Link](https://huggingface.co/NexaAI/Qwen2.5-Omni-3B-GGUF) |
 | Updatedabout 7 hours ago | 253 | csuhan/Tar-1 | 3B | [Link](https://huggingface.co/csuhan/Tar-1.5B) |
 | 1.68k | 208 | BAAI/Emu3-GenAny-to-Any | UpdatedOct 23, 2024 | [Link](https://huggingface.co/BAAI/Emu3-Gen) |
 | 9.96k | 141 | deepseek-ai/JanusFlow-1 | Updated29 days ago | [Link](https://huggingface.co/deepseek-ai/JanusFlow-1.3B) |
@@ -2055,6 +2056,8 @@ Updated on 2025-07-22
 |  | 3 | fofr/flux-kontext-dev-ps1-loraImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/fofr/flux-kontext-dev-ps1-lora) |
 |  | 3 | fofr/flux-kontext-dev-jpeg-compression-fix-loraImage-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/fofr/flux-kontext-dev-jpeg-compression-fix-lora) |
 |  | 3 | Tagbliton/kontext_extract_clothes_loraImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/Tagbliton/kontext_extract_clothes_lora) |
+| 1.09k | 3 | nunchaku-tech/nunchaku-flux | Updated2 days ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-flux.1-kontext-dev) |
+|  | 3 | reverentelusarca/flux-kontext-zoom-out-loraImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/reverentelusarca/flux-kontext-zoom-out-lora) |
 | 67 | 2 | SherryXTChen/InstructCLIP-InstructPix2PixImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/SherryXTChen/InstructCLIP-InstructPix2Pix) |
 | 17 | 2 | SherryXTChen/Instruct-CLIPImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/SherryXTChen/Instruct-CLIP) |
 | 76 | 2 | VisualCloze/VisualClozePipeline-384Image-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/VisualCloze/VisualClozePipeline-384) |
@@ -2165,6 +2168,7 @@ Updated on 2025-07-22
 | 57 |  | fofr/kontext-old-and-damaged-photoImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/fofr/kontext-old-and-damaged-photo) |
 | 4 | Unknown | ilkerzgi/Glittering-Portrait-Kontext-Dev-LoraImage-to-Image | Updatedabout 18 hours ago | [Link](https://huggingface.co/ilkerzgi/Glittering-Portrait-Kontext-Dev-Lora) |
 | 53 |  | fofr/kontext-make-person-realImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/fofr/kontext-make-person-real) |
+| 24 |  | eggnog/Stereogram_Kontext_LoRaImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/eggnog/Stereogram_Kontext_LoRa) |
 
 ## Image-to-Text
 
@@ -3952,6 +3956,7 @@ Updated on 2025-07-22
 | 12 | 26 | Qwen/Qwen3-1 | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-1.7B) |
 | 15.6k | 26 | unsloth/Qwen3-32B-GGUFText | Updatedabout 14 hours ago | [Link](https://huggingface.co/unsloth/Qwen3-32B-GGUF) |
 | 273 | 26 | open-thoughts/OpenThinker3-7BText | Updatedabout 20 hours ago | [Link](https://huggingface.co/open-thoughts/OpenThinker3-7B) |
+| Updated38 minutes ago | 26 | unsloth/Qwen3-Coder-480B-A35B-Instruct-GGUFText | 480B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-GGUF) |
 | 513 | 25 | CohereForAI/c4ai-command-r7b-arabic-02-2025Text | Updated2 days ago | [Link](https://huggingface.co/CohereForAI/c4ai-command-r7b-arabic-02-2025) |
 | 3.12k | 25 | ibm-granite/granite-3 | Updated9 days ago | [Link](https://huggingface.co/ibm-granite/granite-3.2-8b-instruct) |
 | 568 | 25 | GSAI-ML/LLaDA-8B-BaseText | Updated3 days ago | [Link](https://huggingface.co/GSAI-ML/LLaDA-8B-Base) |
@@ -4120,6 +4125,7 @@ Updated on 2025-07-22
 | 17 | Unknown | unsloth/Jan-nano-128k-GGUFText | Updatedabout 16 hours ago | [Link](https://huggingface.co/unsloth/Jan-nano-128k-GGUF) |
 | 169 | Unknown | tencent/Hunyuan-A13B-InstructText | Updatedabout 3 hours ago | [Link](https://huggingface.co/tencent/Hunyuan-A13B-Instruct) |
 | 12.2k |  | moonshotai/Kimi-K2-InstructText | Updatedabout 10 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-K2-Instruct) |
+| Updatedabout 6 hours ago |  | Qwen/Qwen3-Coder-480B-A35B-InstructText | 480B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-480B-A35B-Instruct) |
 
 ## Text Ranking
 
@@ -4570,6 +4576,7 @@ Updated on 2025-07-22
 | 617k |  | playgroundai/playground-v2 | UpdatedMar 15, 2024 | [Link](https://huggingface.co/playgroundai/playground-v2.5-1024px-aesthetic) |
 | 292 |  | Norod78/Flux_1_Dev_LoRA_Paper-Cutout-StyleText-to-Image | UpdatedAug 16, 2024 | [Link](https://huggingface.co/Norod78/Flux_1_Dev_LoRA_Paper-Cutout-Style) |
 | 5 | Unknown | Motif-Technologies/Motif-Vision-6B-PreviewText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/Motif-Technologies/Motif-Vision-6B-Preview) |
+| 87 | Unknown | mit-han-lab/nunchakuText-to-Image | Updated2 days ago | [Link](https://huggingface.co/mit-han-lab/nunchaku) |
 
 ## Text-to-Speech
 
@@ -4580,6 +4587,7 @@ Updated on 2025-07-22
 | 1.16k | 785 | metavoiceio/metavoice-1B-v0 | UpdatedApr 3, 2024 | [Link](https://huggingface.co/metavoiceio/metavoice-1B-v0.1) |
 | UpdatedSep 1, 2023 | 775 | facebook/mms-tts-telText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-tel) |
 | 155k | 733 | microsoft/speecht5_ttsText-to-Speech | UpdatedNov 8, 2023 | [Link](https://huggingface.co/microsoft/speecht5_tts) |
+| Updatedabout 9 hours ago | 515 | bosonai/higgs-audio-v2-generation-3B-baseText-to-Speech | 6B | [Link](https://huggingface.co/bosonai/higgs-audio-v2-generation-3B-base) |
 | 11.8k | 480 | fishaudio/fish-speech-1 | UpdatedDec 3, 2024 | [Link](https://huggingface.co/fishaudio/fish-speech-1.5) |
 | 5.67k | 478 | nari-labs/Dia-1 | Updatedabout 9 hours ago | [Link](https://huggingface.co/nari-labs/Dia-1.6B) |
 | 8.56k | 455 | HKUSTAudio/Llasa-3BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-3B) |

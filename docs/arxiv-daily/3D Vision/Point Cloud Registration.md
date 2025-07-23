@@ -6,7 +6,7 @@
 |**2025-07-21**|**Overcast mornings and clear evenings in hot Jupiter exoplanet atmospheres**|Guangwei Fu et.al.|[2507.15854v1](http://arxiv.org/abs/2507.15854v1)|**2025-07-21**|null|
 |**2025-07-21**|**The Other Mind: How Language Models Exhibit Human Temporal Cognition**|Lingyu Li et.al.|[2507.15851v1](http://arxiv.org/abs/2507.15851v1)|**2025-07-21**|null|
 |**2025-07-21**|**The Impact of Language Mixing on Bilingual LLM Reasoning**|Yihao Li et.al.|[2507.15849v1](http://arxiv.org/abs/2507.15849v1)|**2025-07-21**|null|
-|**2025-07-21**|**GUI-G$^2$: Gaussian Reward Modeling for GUI Grounding**|Fei Tang et.al.|[2507.15846v1](http://arxiv.org/abs/2507.15846v1)|**2025-07-21**|null|
+|**2025-07-21**|**GUI-G$^2$: Gaussian Reward Modeling for GUI Grounding**|Fei Tang et.al.|[2507.15846v2](http://arxiv.org/abs/2507.15846v2)|**2025-07-22**|null|
 |**2025-07-21**|**Quantum computational sensing using quantum signal processing, quantum neural networks, and Hamiltonian engineering**|Saeed A. Khan et.al.|[2507.15845v1](http://arxiv.org/abs/2507.15845v1)|**2025-07-21**|null|
 |**2025-07-21**|**Closure Conversion, Flat Environments, and the Complexity of Abstract Machines**|Beniamino Accattoli et.al.|[2507.15843v1](http://arxiv.org/abs/2507.15843v1)|**2025-07-21**|null|
 |**2025-07-21**|**Some Lagrangian quiver Grassmannians for the equioriented cycle**|Matteo Micheli et.al.|[2507.15841v1](http://arxiv.org/abs/2507.15841v1)|**2025-07-21**|null|

@@ -21,7 +21,7 @@
 |**2025-07-21**|**FollowUpBot: An LLM-Based Conversational Robot for Automatic Postoperative Follow-up**|Chen Chen et.al.|[2507.15502v1](http://arxiv.org/abs/2507.15502v1)|**2025-07-21**|null|
 |**2025-07-21**|**CLEVER: Stream-based Active Learning for Robust Semantic Perception from Human Instructions**|Jongseok Lee et.al.|[2507.15499v1](http://arxiv.org/abs/2507.15499v1)|**2025-07-21**|null|
 |**2025-07-21**|**Dense-depth map guided deep Lidar-Visual Odometry with Sparse Point Clouds and Images**|JunYing Huang et.al.|[2507.15496v1](http://arxiv.org/abs/2507.15496v1)|**2025-07-21**|null|
-|**2025-07-21**|**GR-3 Technical Report**|Chilam Cheang et.al.|[2507.15493v1](http://arxiv.org/abs/2507.15493v1)|**2025-07-21**|null|
+|**2025-07-21**|**GR-3 Technical Report**|Chilam Cheang et.al.|[2507.15493v2](http://arxiv.org/abs/2507.15493v2)|**2025-07-22**|null|
 |**2025-07-21**|**Robots for Kiwifruit Harvesting and Pollination**|Jamie Bell et.al.|[2507.15484v1](http://arxiv.org/abs/2507.15484v1)|**2025-07-21**|null|
 |**2025-07-21**|**The Constitutional Controller: Doubt-Calibrated Steering of Compliant Agents**|Simon Kohaut et.al.|[2507.15478v1](http://arxiv.org/abs/2507.15478v1)|**2025-07-21**|null|
 |**2025-07-21**|**All-UWB SLAM Using UWB Radar and UWB AOA**|Charith Premachandra et.al.|[2507.15474v1](http://arxiv.org/abs/2507.15474v1)|**2025-07-21**|null|

@@ -2,7 +2,7 @@
 ### Semantic Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-21**|**SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**|Zhixiong Zhang et.al.|[2507.15852v1](http://arxiv.org/abs/2507.15852v1)|**2025-07-21**|null|
+|**2025-07-21**|**SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**|Zhixiong Zhang et.al.|[2507.15852v2](http://arxiv.org/abs/2507.15852v2)|**2025-07-22**|null|
 |**2025-07-21**|**Look, Focus, Act: Efficient and Robust Robot Learning via Human Gaze and Foveated Vision Transformers**|Ian Chuang et.al.|[2507.15833v1](http://arxiv.org/abs/2507.15833v1)|**2025-07-21**|null|
 |**2025-07-21**|**The Capacity of Semantic Private Information Retrieval with Colluding Servers**|Mohamed Nomeir et.al.|[2507.15818v1](http://arxiv.org/abs/2507.15818v1)|**2025-07-21**|null|
 |**2025-07-21**|**ConformalSAM: Unlocking the Potential of Foundational Segmentation Models in Semi-Supervised Semantic Segmentation with Conformal Prediction**|Danhui Chen et.al.|[2507.15803v1](http://arxiv.org/abs/2507.15803v1)|**2025-07-21**|null|
@@ -23,7 +23,7 @@
 |**2025-07-21**|**CLEVER: Stream-based Active Learning for Robust Semantic Perception from Human Instructions**|Jongseok Lee et.al.|[2507.15499v1](http://arxiv.org/abs/2507.15499v1)|**2025-07-21**|null|
 |**2025-07-21**|**Prompt-aware of Frame Sampling for Efficient Text-Video Retrieval**|Deyu Zhang et.al.|[2507.15491v1](http://arxiv.org/abs/2507.15491v1)|**2025-07-21**|null|
 |**2025-07-21**|**ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting**|Ruijie Zhu et.al.|[2507.15454v1](http://arxiv.org/abs/2507.15454v1)|**2025-07-21**|null|
-|**2025-07-21**|**A SHACL-based Data Consistency Solution for Contract Compliance Verification**|Robert David et.al.|[2507.15420v1](http://arxiv.org/abs/2507.15420v1)|**2025-07-21**|null|
+|**2025-07-21**|**A SHACL-based Data Consistency Solution for Contract Compliance Verification**|Robert David et.al.|[2507.15420v2](http://arxiv.org/abs/2507.15420v2)|**2025-07-22**|null|
 |**2025-07-21**|**Rethinking Occlusion in FER: A Semantic-Aware Perspective and Go Beyond**|Huiyu Zhai et.al.|[2507.15401v1](http://arxiv.org/abs/2507.15401v1)|**2025-07-21**|null|
 |**2025-07-21**|**Learning to Gridize: Segment Physical World by Wireless Communication Channel**|Juntao Wang et.al.|[2507.15386v1](http://arxiv.org/abs/2507.15386v1)|**2025-07-21**|null|
 |**2025-07-21**|**DAViD: Data-efficient and Accurate Vision Models from Synthetic Data**|Fatemeh Saleh et.al.|[2507.15365v1](http://arxiv.org/abs/2507.15365v1)|**2025-07-21**|null|
