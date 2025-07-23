@@ -4581,6 +4581,7 @@ Updated on 2025-07-23
 | 292 |  | Norod78/Flux_1_Dev_LoRA_Paper-Cutout-StyleText-to-Image | UpdatedAug 16, 2024 | [Link](https://huggingface.co/Norod78/Flux_1_Dev_LoRA_Paper-Cutout-Style) |
 | 5 | Unknown | Motif-Technologies/Motif-Vision-6B-PreviewText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/Motif-Technologies/Motif-Vision-6B-Preview) |
 | 87 | Unknown | mit-han-lab/nunchakuText-to-Image | Updated2 days ago | [Link](https://huggingface.co/mit-han-lab/nunchaku) |
+| 48 |  | renderartist/technically-color-fluxText-to-Image | Updated3 days ago | [Link](https://huggingface.co/renderartist/technically-color-flux) |
 
 ## Text-to-Speech
 
