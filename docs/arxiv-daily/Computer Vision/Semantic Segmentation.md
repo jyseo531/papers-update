@@ -2,33 +2,33 @@
 ### Semantic Segmentation
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-21**|**SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**|Zhixiong Zhang et.al.|[2507.15852v2](http://arxiv.org/abs/2507.15852v2)|**2025-07-22**|null|
-|**2025-07-21**|**Look, Focus, Act: Efficient and Robust Robot Learning via Human Gaze and Foveated Vision Transformers**|Ian Chuang et.al.|[2507.15833v1](http://arxiv.org/abs/2507.15833v1)|**2025-07-21**|null|
-|**2025-07-21**|**The Capacity of Semantic Private Information Retrieval with Colluding Servers**|Mohamed Nomeir et.al.|[2507.15818v1](http://arxiv.org/abs/2507.15818v1)|**2025-07-21**|null|
-|**2025-07-21**|**ConformalSAM: Unlocking the Potential of Foundational Segmentation Models in Semi-Supervised Semantic Segmentation with Conformal Prediction**|Danhui Chen et.al.|[2507.15803v1](http://arxiv.org/abs/2507.15803v1)|**2025-07-21**|null|
-|**2025-07-21**|**Fluid Antenna-enabled Near-Field Integrated Sensing, Computing and Semantic Communication for Emerging Applications**|Yinchao Yang et.al.|[2507.15800v1](http://arxiv.org/abs/2507.15800v1)|**2025-07-21**|null|
-|**2025-07-21**|**Regularized Low-Rank Adaptation for Few-Shot Organ Segmentation**|Ghassen Baklouti et.al.|[2507.15793v1](http://arxiv.org/abs/2507.15793v1)|**2025-07-21**|null|
-|**2025-07-21**|**Stabilizing Knowledge, Promoting Reasoning: Dual-Token Constraints for RLVR**|Jiakang Wang et.al.|[2507.15778v1](http://arxiv.org/abs/2507.15778v1)|**2025-07-21**|null|
-|**2025-07-21**|**Label tree semantic losses for rich multi-class medical image segmentation**|Junwen Wang et.al.|[2507.15777v1](http://arxiv.org/abs/2507.15777v1)|**2025-07-21**|null|
-|**2025-07-21**|**TokensGen: Harnessing Condensed Tokens for Long Video Generation**|Wenqi Ouyang et.al.|[2507.15728v1](http://arxiv.org/abs/2507.15728v1)|**2025-07-21**|null|
-|**2025-07-21**|**CoLD: Counterfactually-Guided Length Debiasing for Process Reward Models**|Congmin Zheng et.al.|[2507.15698v1](http://arxiv.org/abs/2507.15698v1)|**2025-07-21**|null|
-|**2025-07-21**|**Hi^2-GSLoc: Dual-Hierarchical Gaussian-Specific Visual Relocalization for Remote Sensing**|Boni Hu et.al.|[2507.15683v1](http://arxiv.org/abs/2507.15683v1)|**2025-07-21**|null|
-|**2025-07-21**|**A Voxel-Wise Uncertainty-Guided Framework for Glioma Segmentation Using Spherical Projection-Based U-Net and Localized Refinement in Multi-Parametric MRI**|Zhenyu Yang et.al.|[2507.15622v1](http://arxiv.org/abs/2507.15622v1)|**2025-07-21**|null|
-|**2025-07-21**|**Formal Analysis of Networked PLC Controllers Interacting with Physical Environments**|Jaeseo Lee et.al.|[2507.15596v1](http://arxiv.org/abs/2507.15596v1)|**2025-07-21**|null|
-|**2025-07-21**|**SegDT: A Diffusion Transformer-Based Segmentation Model for Medical Imaging**|Salah Eddine Bekhouche et.al.|[2507.15595v1](http://arxiv.org/abs/2507.15595v1)|**2025-07-21**|null|
-|**2025-07-21**|**GeMix: Conditional GAN-Based Mixup for Improved Medical Image Augmentation**|Hugo Carlesso et.al.|[2507.15577v1](http://arxiv.org/abs/2507.15577v1)|**2025-07-21**|null|
-|**2025-07-21**|**Bayesian Separation Logic**|Shing Hin Ho et.al.|[2507.15530v1](http://arxiv.org/abs/2507.15530v1)|**2025-07-21**|null|
-|**2025-07-21**|**RARE-UNet: Resolution-Aligned Routing Entry for Adaptive Medical Image Segmentation**|Simon Winther Albertsen et.al.|[2507.15524v1](http://arxiv.org/abs/2507.15524v1)|**2025-07-21**|null|
-|**2025-07-21**|**Quantifying and Narrowing the Unknown: Interactive Text-to-Video Retrieval via Uncertainty Minimization**|Bingqing Zhang et.al.|[2507.15504v1](http://arxiv.org/abs/2507.15504v1)|**2025-07-21**|null|
-|**2025-07-21**|**CLEVER: Stream-based Active Learning for Robust Semantic Perception from Human Instructions**|Jongseok Lee et.al.|[2507.15499v1](http://arxiv.org/abs/2507.15499v1)|**2025-07-21**|null|
-|**2025-07-21**|**Prompt-aware of Frame Sampling for Efficient Text-Video Retrieval**|Deyu Zhang et.al.|[2507.15491v1](http://arxiv.org/abs/2507.15491v1)|**2025-07-21**|null|
-|**2025-07-21**|**ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting**|Ruijie Zhu et.al.|[2507.15454v1](http://arxiv.org/abs/2507.15454v1)|**2025-07-21**|null|
-|**2025-07-21**|**A SHACL-based Data Consistency Solution for Contract Compliance Verification**|Robert David et.al.|[2507.15420v2](http://arxiv.org/abs/2507.15420v2)|**2025-07-22**|null|
-|**2025-07-21**|**Rethinking Occlusion in FER: A Semantic-Aware Perspective and Go Beyond**|Huiyu Zhai et.al.|[2507.15401v1](http://arxiv.org/abs/2507.15401v1)|**2025-07-21**|null|
-|**2025-07-21**|**Learning to Gridize: Segment Physical World by Wireless Communication Channel**|Juntao Wang et.al.|[2507.15386v1](http://arxiv.org/abs/2507.15386v1)|**2025-07-21**|null|
-|**2025-07-21**|**DAViD: Data-efficient and Accurate Vision Models from Synthetic Data**|Fatemeh Saleh et.al.|[2507.15365v1](http://arxiv.org/abs/2507.15365v1)|**2025-07-21**|null|
-|**2025-07-21**|**Latent Space Synergy: Text-Guided Data Augmentation for Direct Diffusion Biomedical Segmentation**|Muhammad Aqeel et.al.|[2507.15361v1](http://arxiv.org/abs/2507.15361v1)|**2025-07-21**|null|
-|**2025-07-21**|**MedSR-Impact: Transformer-Based Super-Resolution for Lung CT Segmentation, Radiomics, Classification, and Prognosis**|Marc Boubnovski Martell et.al.|[2507.15340v1](http://arxiv.org/abs/2507.15340v1)|**2025-07-21**|null|
-|**2025-07-21**|**Minutiae-Anchored Local Dense Representation for Fingerprint Matching**|Zhiyu Pan et.al.|[2507.15297v1](http://arxiv.org/abs/2507.15297v1)|**2025-07-21**|null|
-|**2025-07-21**|**RepILN: Reparameterized Inertial Localization Network**|Shanshan Zhang et.al.|[2507.15293v1](http://arxiv.org/abs/2507.15293v1)|**2025-07-21**|null|
-|**2025-07-21**|**Conditional Video Generation for High-Efficiency Video Compression**|Fangqiu Yi et.al.|[2507.15269v1](http://arxiv.org/abs/2507.15269v1)|**2025-07-21**|null|
+|**2025-07-22**|**Rethinking LLM-Based RTL Code Optimization Via Timing Logic Metamorphosis**|Zhihao Xu et.al.|[2507.16808v1](http://arxiv.org/abs/2507.16808v1)|**2025-07-22**|null|
+|**2025-07-22**|**MultiTaskDeltaNet: Change Detection-based Image Segmentation for Operando ETEM with Application to Carbon Gasification Kinetics**|Yushuo Niu et.al.|[2507.16803v1](http://arxiv.org/abs/2507.16803v1)|**2025-07-22**|null|
+|**2025-07-22**|**Decoding Translation-Related Functional Sequences in 5'UTRs Using Interpretable Deep Learning Models**|Yuxi Lin et.al.|[2507.16801v1](http://arxiv.org/abs/2507.16801v1)|**2025-07-22**|null|
+|**2025-07-22**|**Improving U-Net Confidence on TEM Image Data with L2-Regularization, Transfer Learning, and Deep Fine-Tuning**|Aiden Ochoa et.al.|[2507.16779v1](http://arxiv.org/abs/2507.16779v1)|**2025-07-22**|null|
+|**2025-07-22**|**When LLMs Copy to Think: Uncovering Copy-Guided Attacks in Reasoning LLMs**|Yue Li et.al.|[2507.16773v1](http://arxiv.org/abs/2507.16773v1)|**2025-07-22**|null|
+|**2025-07-22**|**CMP: A Composable Meta Prompt for SAM-Based Cross-Domain Few-Shot Segmentation**|Shuai Chen et.al.|[2507.16753v1](http://arxiv.org/abs/2507.16753v1)|**2025-07-22**|null|
+|**2025-07-22**|**DFR: A Decompose-Fuse-Reconstruct Framework for Multi-Modal Few-Shot Segmentation**|Shuai Chen et.al.|[2507.16736v1](http://arxiv.org/abs/2507.16736v1)|**2025-07-22**|null|
+|**2025-07-22**|**SALM: Spatial Audio Language Model with Structured Embeddings for Understanding and Editing**|Jinbo Hu et.al.|[2507.16724v1](http://arxiv.org/abs/2507.16724v1)|**2025-07-22**|null|
+|**2025-07-22**|**Temporally-Constrained Video Reasoning Segmentation and Automated Benchmark Construction**|Yiqing Shen et.al.|[2507.16718v1](http://arxiv.org/abs/2507.16718v1)|**2025-07-22**|null|
+|**2025-07-22**|**Latent Space Alignment for AI-Native MIMO Semantic Communications**|Mario Edoardo Pandolfo et.al.|[2507.16680v1](http://arxiv.org/abs/2507.16680v1)|**2025-07-22**|null|
+|**2025-07-22**|**VulCoCo: A Simple Yet Effective Method for Detecting Vulnerable Code Clones**|Tan Bui et.al.|[2507.16661v1](http://arxiv.org/abs/2507.16661v1)|**2025-07-22**|null|
+|**2025-07-22**|**Synthetic Data Matters: Re-training with Geo-typical Synthetic Labels for Building Detection**|Shuang Song et.al.|[2507.16657v1](http://arxiv.org/abs/2507.16657v1)|**2025-07-22**|null|
+|**2025-07-22**|**A2Mamba: Attention-augmented State Space Models for Visual Recognition**|Meng Lou et.al.|[2507.16624v1](http://arxiv.org/abs/2507.16624v1)|**2025-07-22**|null|
+|**2025-07-22**|**Automatic Fine-grained Segmentation-assisted Report Generation**|Frederic Jonske et.al.|[2507.16623v1](http://arxiv.org/abs/2507.16623v1)|**2025-07-22**|null|
+|**2025-07-22**|**Transordinal Fixed-Point Operators and Self-Referential Games: A Categorical Framework for Reflective Semantic Convergence**|Faruk Alpay et.al.|[2507.16620v1](http://arxiv.org/abs/2507.16620v1)|**2025-07-22**|null|
+|**2025-07-22**|**CTSL: Codebook-based Temporal-Spatial Learning for Accurate Non-Contrast Cardiac Risk Prediction Using Cine MRIs**|Haoyang Su et.al.|[2507.16612v1](http://arxiv.org/abs/2507.16612v1)|**2025-07-22**|null|
+|**2025-07-22**|**A Multimodal Deviation Perceiving Framework for Weakly-Supervised Temporal Forgery Localization**|Wenbo Xu et.al.|[2507.16596v1](http://arxiv.org/abs/2507.16596v1)|**2025-07-22**|null|
+|**2025-07-22**|**LLMxCPG: Context-Aware Vulnerability Detection Through Code Property Graph-Guided Large Language Models**|Ahmed Lekssays et.al.|[2507.16585v1](http://arxiv.org/abs/2507.16585v1)|**2025-07-22**|null|
+|**2025-07-22**|**Semantic Segmentation for Preoperative Planning in Transcatheter Aortic Valve Replacement**|Cedric Zöllner et.al.|[2507.16573v1](http://arxiv.org/abs/2507.16573v1)|**2025-07-22**|null|
+|**2025-07-22**|**TTMBA: Towards Text To Multiple Sources Binaural Audio Generation**|Yuxuan He et.al.|[2507.16564v1](http://arxiv.org/abs/2507.16564v1)|**2025-07-22**|null|
+|**2025-07-22**|**Comparative validation of surgical phase recognition, instrument keypoint estimation, and instrument instance segmentation in endoscopy: Results of the PhaKIR 2024 challenge**|Tobias Rueckert et.al.|[2507.16559v1](http://arxiv.org/abs/2507.16559v1)|**2025-07-22**|null|
+|**2025-07-22**|**Optimization of DNN-based HSI Segmentation FPGA-based SoC for ADS: A Practical Approach**|Jon Gutiérrez-Zaballa et.al.|[2507.16556v1](http://arxiv.org/abs/2507.16556v1)|**2025-07-22**|null|
+|**2025-07-22**|**Explainable Vulnerability Detection in C/C++ Using Edge-Aware Graph Attention Networks**|Radowanul Haque et.al.|[2507.16540v1](http://arxiv.org/abs/2507.16540v1)|**2025-07-22**|null|
+|**2025-07-22**|**Symbolic Graph Intelligence: Hypervector Message Passing for Learning Graph-Level Patterns with Tsetlin Machines**|Christian D. Blakely et.al.|[2507.16537v1](http://arxiv.org/abs/2507.16537v1)|**2025-07-22**|null|
+|**2025-07-22**|**EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion**|Shang Liu et.al.|[2507.16535v1](http://arxiv.org/abs/2507.16535v1)|**2025-07-22**|null|
+|**2025-07-22**|**Spatial 3D-LLM: Exploring Spatial Awareness in 3D Vision-Language Models**|Xiaoyan Wang et.al.|[2507.16524v1](http://arxiv.org/abs/2507.16524v1)|**2025-07-22**|null|
+|**2025-07-22**|**Introducing Quality Estimation to Machine Translation Post-editing Workflow: An Empirical Study on Its Usefulness**|Siqi Liu et.al.|[2507.16515v1](http://arxiv.org/abs/2507.16515v1)|**2025-07-22**|null|
+|**2025-07-22**|**PlantSAM: An Object Detection-Driven Segmentation Pipeline for Herbarium Specimens**|Youcef Sklab et.al.|[2507.16506v1](http://arxiv.org/abs/2507.16506v1)|**2025-07-22**|null|
+|**2025-07-22**|**Combining Language and Topic Models for Hierarchical Text Classification**|Jaco du Toit et.al.|[2507.16490v1](http://arxiv.org/abs/2507.16490v1)|**2025-07-22**|null|
+|**2025-07-22**|**DenseSR: Image Shadow Removal as Dense Prediction**|Yu-Fan Lin et.al.|[2507.16472v1](http://arxiv.org/abs/2507.16472v1)|**2025-07-22**|null|

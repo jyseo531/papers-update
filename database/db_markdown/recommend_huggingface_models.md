@@ -73,6 +73,7 @@ Updated on 2025-07-23
 | 593 | 1 | DFloat11/OmniGen2-transformer-DF11Any-to-Any | Updated3 days ago | [Link](https://huggingface.co/DFloat11/OmniGen2-transformer-DF11) |
 | Updatedabout 7 hours ago | 1 | ByteDance-Seed/Tar-7BAny-to-Any | 9B | [Link](https://huggingface.co/ByteDance-Seed/Tar-7B) |
 | Updated30 days ago | 1.59k | deepseek-community/Janus-Pro-7BAny-to-Any | 7B | [Link](https://huggingface.co/deepseek-community/Janus-Pro-7B) |
+| 7 | 1 | multimodal-reasoning-lab/Bagel-Zebra-CoTAny-to-Any | Updatedabout 8 hours ago | [Link](https://huggingface.co/multimodal-reasoning-lab/Bagel-Zebra-CoT) |
 | 2 | Unknown | guanwenhao/MonoSpeechAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/guanwenhao/MonoSpeech) |
 | 22 | Unknown | Goekdeniz-Guelmez/J | UpdatedOct 29, 2024 | [Link](https://huggingface.co/Goekdeniz-Guelmez/J.O.S.I.E.v4o) |
 | 1 | Unknown | hfcsrd/cryptographyAny-to-Any | UpdatedNov 17, 2024 | [Link](https://huggingface.co/hfcsrd/cryptography) |
@@ -1743,6 +1744,7 @@ Updated on 2025-07-23
 | 4 | 20 | Tesslate/Synthia-S1-27bImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/Tesslate/Synthia-S1-27b) |
 | 2 | 20 | nvidia/DAM-3B-VideoImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/DAM-3B-Video) |
 | 3.71k | 19 | google/paligemma2-10b-mix-448Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-10b-mix-448) |
+| Updated3 days ago | 19 | OpenGVLab/Docopilot-2BImage-Text-to-Text | 2B | [Link](https://huggingface.co/OpenGVLab/Docopilot-2B) |
 | 9 | 18 | nvidia/DAM-3BImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/DAM-3B) |
 | 1.49k | 17 | google/paligemma2-3b-mix-224Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-3b-mix-224) |
 | 247 | 17 | ds4sd/SmolDocling-256M-previewImage-Text-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/ds4sd/SmolDocling-256M-preview) |
@@ -2019,6 +2021,7 @@ Updated on 2025-07-23
 | 37.8k | 16 | caidas/swin2SR-realworld-sr-x4-64-bsrgan-psnrImage-to-Image | UpdatedJan 21, 2023 | [Link](https://huggingface.co/caidas/swin2SR-realworld-sr-x4-64-bsrgan-psnr) |
 | 13.9k | 15 | lllyasviel/control_v11p_sd15_mlsdImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_mlsd) |
 | 8.6k | 13 | lllyasviel/control_v11p_sd15_segImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_seg) |
+|  | 13 | reverentelusarca/kontext-turnaround-sheet-lora-v1Image-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/reverentelusarca/kontext-turnaround-sheet-lora-v1) |
 | 1.03k | 11 | xiaozaa/cat-tryoff-fluxImage-to-Image | UpdatedDec 6, 2024 | [Link](https://huggingface.co/xiaozaa/cat-tryoff-flux) |
 | 1.19k | 11 | prs-eth/marigold-depth-v1-1Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-depth-v1-1) |
 | 424 | 11 | camenduru/IDM-VTON-F16Image-to-Image | UpdatedApr 23, 2024 | [Link](https://huggingface.co/camenduru/IDM-VTON-F16) |
@@ -3912,6 +3915,7 @@ Updated on 2025-07-23
 | 4.66k | 33 | Qwen/Qwen3-32B-AWQText | Updated5 days ago | [Link](https://huggingface.co/Qwen/Qwen3-32B-AWQ) |
 | 23 | 33 | rednote-hilab/dots | Updatedabout 9 hours ago | [Link](https://huggingface.co/rednote-hilab/dots.llm1.inst) |
 | Updatedabout 4 hours ago | 33 | baidu/ERNIE-4 | 22B | [Link](https://huggingface.co/baidu/ERNIE-4.5-21B-A3B-PT) |
+| Updatedabout 6 hours ago | 33 | Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8Text | 480B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8) |
 | 5.81k | 32 | trillionlabs/Trillion-7B-previewText | Updatedabout 3 hours ago | [Link](https://huggingface.co/trillionlabs/Trillion-7B-preview) |
 | 224 | 32 | JetBrains/Mellum-4b-sft-pythonText | Updated6 days ago | [Link](https://huggingface.co/JetBrains/Mellum-4b-sft-python) |
 | 131 | 32 | nvidia/AceReason-Nemotron-14BText | Updatedabout 3 hours ago | [Link](https://huggingface.co/nvidia/AceReason-Nemotron-14B) |

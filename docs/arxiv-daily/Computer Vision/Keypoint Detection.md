@@ -2,6 +2,13 @@
 ### Keypoint Detection
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-22**|**DFR: A Decompose-Fuse-Reconstruct Framework for Multi-Modal Few-Shot Segmentation**|Shuai Chen et.al.|[2507.16736v1](http://arxiv.org/abs/2507.16736v1)|**2025-07-22**|null|
+|**2025-07-22**|**Impact of Ethanol and Methanol on NOx Emissions in Ammonia-Methane Combustion: ReaxFF Simulations and ML-Based Extrapolation**|Amirali Shateri et.al.|[2507.16568v1](http://arxiv.org/abs/2507.16568v1)|**2025-07-22**|null|
+|**2025-07-22**|**Comparative validation of surgical phase recognition, instrument keypoint estimation, and instrument instance segmentation in endoscopy: Results of the PhaKIR 2024 challenge**|Tobias Rueckert et.al.|[2507.16559v1](http://arxiv.org/abs/2507.16559v1)|**2025-07-22**|null|
+|**2025-07-22**|**Navigating Large-Pose Challenge for High-Fidelity Face Reenactment with Video Diffusion Model**|Mingtao Guo et.al.|[2507.16341v1](http://arxiv.org/abs/2507.16341v1)|**2025-07-22**|null|
+|**2025-07-22**|**Aligned Manifold Property and Topology Point Clouds for Learning Molecular Properties**|Alexander Mihalcea et.al.|[2507.16223v1](http://arxiv.org/abs/2507.16223v1)|**2025-07-22**|null|
+|**2025-07-22**|**Stability by Design: Atomistic Insights into Hydrolysis-Driven MOF Degradation**|Ashok Yacham et.al.|[2507.16197v1](http://arxiv.org/abs/2507.16197v1)|**2025-07-22**|null|
+|**2025-07-21**|**Radiological and Biological Dictionary of Radiomics Features: Addressing Understandable AI Issues in Personalized Breast Cancer; Dictionary Version BM1.0**|Arman Gorji et.al.|[2507.16041v1](http://arxiv.org/abs/2507.16041v1)|**2025-07-21**|null|
 |**2025-07-21**|**Minutiae-Anchored Local Dense Representation for Fingerprint Matching**|Zhiyu Pan et.al.|[2507.15297v1](http://arxiv.org/abs/2507.15297v1)|**2025-07-21**|null|
 |**2025-07-21**|**MinCD-PnP: Learning 2D-3D Correspondences with Approximate Blind PnP**|Pei An et.al.|[2507.15257v1](http://arxiv.org/abs/2507.15257v1)|**2025-07-21**|null|
 |**2025-07-20**|**LoopNet: A Multitasking Few-Shot Learning Approach for Loop Closure in Large Scale SLAM**|Mohammad-Maher Nakshbandi et.al.|[2507.15109v1](http://arxiv.org/abs/2507.15109v1)|**2025-07-20**|null|
@@ -25,10 +32,3 @@
 |**2025-07-15**|**Deciphering Delivery Mobility: A City-Scale, Path-Reconstructed Trajectory Dataset of Instant Delivery Riders**|Chengbo Zhang et.al.|[2507.11584v1](http://arxiv.org/abs/2507.11584v1)|**2025-07-15**|null|
 |**2025-07-15**|**Wallpaper Group-Based Mechanical Metamaterials: Dataset Including Mechanical Responses**|Fleur Hendriks et.al.|[2507.11195v1](http://arxiv.org/abs/2507.11195v1)|**2025-07-15**|null|
 |**2025-07-15**|**KptLLM++: Towards Generic Keypoint Comprehension with Large Language Model**|Jie Yang et.al.|[2507.11102v1](http://arxiv.org/abs/2507.11102v1)|**2025-07-15**|null|
-|**2025-07-15**|**GKNet: Graph-based Keypoints Network for Monocular Pose Estimation of Non-cooperative Spacecraft**|Weizhao Ma et.al.|[2507.11077v1](http://arxiv.org/abs/2507.11077v1)|**2025-07-15**|null|
-|**2025-07-15**|**Joint angle model based learning to refine kinematic human pose estimation**|Chang Peng et.al.|[2507.11075v1](http://arxiv.org/abs/2507.11075v1)|**2025-07-15**|null|
-|**2025-07-15**|**EquiContact: A Hierarchical SE(3) Vision-to-Force Equivariant Policy for Spatially Generalizable Contact-rich Tasks**|Joohwan Seo et.al.|[2507.10961v1](http://arxiv.org/abs/2507.10961v1)|**2025-07-15**|null|
-|**2025-07-14**|**FPC-Net: Revisiting SuperPoint with Descriptor-Free Keypoint Detection via Feature Pyramids and Consistency-Based Implicit Matching**|Ionuţ Grigore et.al.|[2507.10770v1](http://arxiv.org/abs/2507.10770v1)|**2025-07-14**|null|
-|**2025-07-14**|**4D-Animal: Freely Reconstructing Animatable 3D Animals from Videos**|Shanshan Zhong et.al.|[2507.10437v1](http://arxiv.org/abs/2507.10437v1)|**2025-07-14**|null|
-|**2025-07-14**|**Single-site diagonal quantities capture off-diagonal long-range order**|M. Sanino et.al.|[2507.10328v1](http://arxiv.org/abs/2507.10328v1)|**2025-07-14**|null|
-|**2025-07-14**|**Quantum-Annealing Enhanced Machine Learning for Interpretable Phase Classification of High-Entropy Alloys**|Diego Ibarra Hoyos et.al.|[2507.10237v1](http://arxiv.org/abs/2507.10237v1)|**2025-07-14**|null|
