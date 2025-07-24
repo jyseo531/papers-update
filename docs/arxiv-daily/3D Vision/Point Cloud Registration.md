@@ -2,33 +2,33 @@
 ### Point Cloud Registration
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-22**|**Elastic turbulence hides in the small scales of inertial polymeric turbulence**|Piyush Garg et.al.|[2507.16789v1](http://arxiv.org/abs/2507.16789v1)|**2025-07-22**|null|
-|**2025-07-22**|**On the consistency of non-commutative geometry inspired Reissner-Nordström black hole solution**|Gokhan Alkac et.al.|[2507.16780v1](http://arxiv.org/abs/2507.16780v1)|**2025-07-22**|null|
-|**2025-07-22**|**Dynamic Activation and Assignment of SDN Controllers in LEO Satellite Constellations**|Wafa Hasanain et.al.|[2507.16774v1](http://arxiv.org/abs/2507.16774v1)|**2025-07-22**|null|
-|**2025-07-22**|**Generalized non-reciprocal phase transitions in multipopulation systems**|Cheyne Weis et.al.|[2507.16763v1](http://arxiv.org/abs/2507.16763v1)|**2025-07-22**|null|
-|**2025-07-22**|**Almost uniform vs. pointwise convergence from a linear point of view**|L. Bernal-González et.al.|[2507.16762v1](http://arxiv.org/abs/2507.16762v1)|**2025-07-22**|null|
-|**2025-07-22**|**Efficient Bayesian Inference for Discretely Observed Continuous Time Markov Chains**|Tao Tang et.al.|[2507.16756v1](http://arxiv.org/abs/2507.16756v1)|**2025-07-22**|null|
-|**2025-07-22**|**Denoising-While-Completing Network (DWCNet): Robust Point Cloud Completion Under Corruption**|Keneni W. Tesema et.al.|[2507.16743v1](http://arxiv.org/abs/2507.16743v1)|**2025-07-22**|null|
-|**2025-07-22**|**Considering contact forces during the formation of planetesimals by gravitational collapse: mutual orbits, spin states, and shapes**|Jackson T. Barnes et.al.|[2507.16739v1](http://arxiv.org/abs/2507.16739v1)|**2025-07-22**|null|
-|**2025-07-22**|**Large anisotropic magnetoresistance in $α$-MnTe induced by strain**|Bao-Feng Chen et.al.|[2507.16738v1](http://arxiv.org/abs/2507.16738v1)|**2025-07-22**|null|
-|**2025-07-22**|**Generative Diffusion Models for Wireless Networks: Fundamental, Architecture, and State-of-the-Art**|Dayu Fan et.al.|[2507.16733v1](http://arxiv.org/abs/2507.16733v1)|**2025-07-22**|null|
-|**2025-07-22**|**Collaborative Inference and Learning between Edge SLMs and Cloud LLMs: A Survey of Algorithms, Execution, and Open Challenges**|Senyao Li et.al.|[2507.16731v1](http://arxiv.org/abs/2507.16731v1)|**2025-07-22**|null|
-|**2025-07-22**|**RAVine: Reality-Aligned Evaluation for Agentic Search**|Yilong Xu et.al.|[2507.16725v1](http://arxiv.org/abs/2507.16725v1)|**2025-07-22**|null|
-|**2025-07-22**|**Hybrid concept of detection for a wide-field gamma-ray observatory using Cherenkov telescopes**|Alena Bakalová et.al.|[2507.16719v2](http://arxiv.org/abs/2507.16719v2)|**2025-07-23**|null|
-|**2025-07-22**|**Particle systems and the supercooled Stefan problem with non-integrable initial data**|Thomas Blore et.al.|[2507.16703v1](http://arxiv.org/abs/2507.16703v1)|**2025-07-22**|null|
-|**2025-07-22**|**Pixel-Resolved Long-Context Learning for Turbulence at Exascale: Resolving Small-scale Eddies Toward the Viscous Limit**|Junqi Yin et.al.|[2507.16697v1](http://arxiv.org/abs/2507.16697v1)|**2025-07-22**|null|
-|**2025-07-22**|**Linear codes arising from the point-hyperplane geometry -- Part II: the twisted embedding**|Ilaria Cardinali et.al.|[2507.16694v1](http://arxiv.org/abs/2507.16694v1)|**2025-07-22**|null|
-|**2025-07-22**|**Accommodating the Analysis Model in Multiple Imputation for the Weibull Mixture Cure Model:Performance under Penalized Likelihood**|Changchang Xu et.al.|[2507.16690v1](http://arxiv.org/abs/2507.16690v1)|**2025-07-22**|null|
-|**2025-07-22**|**FOGNITE: Federated Learning-Enhanced Fog-Cloud Architecture**|Somayeh Sobati-M et.al.|[2507.16668v1](http://arxiv.org/abs/2507.16668v1)|**2025-07-22**|null|
-|**2025-07-22**|**Reconfigurable Intelligent Surface-Enabled Green and Secure Offloading for Mobile Edge Computing Networks**|Tong-Xing Zheng et.al.|[2507.16666v1](http://arxiv.org/abs/2507.16666v1)|**2025-07-22**|null|
-|**2025-07-22**|**To see the forest for the trees: On the infinite divisibility of unlabeled forests**|Michal Bassan et.al.|[2507.16650v1](http://arxiv.org/abs/2507.16650v1)|**2025-07-22**|null|
-|**2025-07-22**|**Thermal correction on the Casimir energy in a Horava-Lifshitz Lorentz-violating scenario**|E. R. Bezerra de Mello et.al.|[2507.16634v1](http://arxiv.org/abs/2507.16634v1)|**2025-07-22**|null|
-|**2025-07-22**|**Transordinal Fixed-Point Operators and Self-Referential Games: A Categorical Framework for Reflective Semantic Convergence**|Faruk Alpay et.al.|[2507.16620v1](http://arxiv.org/abs/2507.16620v1)|**2025-07-22**|null|
-|**2025-07-22**|**Dyna3DGR: 4D Cardiac Motion Tracking with Dynamic 3D Gaussian Representation**|Xueming Fu et.al.|[2507.16608v1](http://arxiv.org/abs/2507.16608v1)|**2025-07-22**|null|
-|**2025-07-22**|**Estimating Transition Rates in Two-State Non-Homogeneous Markov Jump Processes with Intermittent Observations: A Pseudo-Marginal McMC Approach via Honest Times**|Dario Gasbarra et.al.|[2507.16603v1](http://arxiv.org/abs/2507.16603v1)|**2025-07-22**|null|
-|**2025-07-22**|**Trace and Observability Inequalities for Laplace Eigenfunctions on the Torus**|Nicolas Burq et.al.|[2507.16599v1](http://arxiv.org/abs/2507.16599v1)|**2025-07-22**|null|
-|**2025-07-22**|**Low D/H ratio for benzonitrile in TMC-1: Implication for the origin of polycyclic aromatic hydrocarbons in cold dark clouds**|A. L. Steber et.al.|[2507.16552v1](http://arxiv.org/abs/2507.16552v1)|**2025-07-22**|null|
-|**2025-07-22**|**Probing subradiant dynamics in cold atomic ensembles via population and emitted light measurements**|Antoine Glicenstein et.al.|[2507.16549v1](http://arxiv.org/abs/2507.16549v1)|**2025-07-22**|null|
-|**2025-07-22**|**Bayesian Variational Inference for Mixed Data Mixture Models**|Junyang Wang et.al.|[2507.16545v1](http://arxiv.org/abs/2507.16545v1)|**2025-07-22**|null|
-|**2025-07-22**|**"Odd" Toric Code in a tilted field: Higgs-confinement multicriticality, spontaneous self-duality symmetry breaking, and valence bond solids**|Umberto Borla et.al.|[2507.16523v1](http://arxiv.org/abs/2507.16523v1)|**2025-07-22**|null|
-|**2025-07-22**|**A Finite Volume and Levenberg-Marquardt Optimization Framework for Benchmarking MHD Flows over Backward-Facing Steps**|Spyridon C. Katsoudas et.al.|[2507.16509v1](http://arxiv.org/abs/2507.16509v1)|**2025-07-22**|null|
+|**2025-07-23**|**Application of new conformal cooling layouts to the green injection molding of complex slender polymeric parts with high dimensional specifications**|Abelardo Torres Alba et.al.|[2507.17723v1](http://arxiv.org/abs/2507.17723v1)|**2025-07-23**|null|
+|**2025-07-23**|**Quantum Software Security Challenges within Shared Quantum Computing Environments**|Samuel Ovaskainen et.al.|[2507.17712v1](http://arxiv.org/abs/2507.17712v1)|**2025-07-23**|null|
+|**2025-07-23**|**Frequentist Asymptotics of Variational Laplace**|Janis Keck et.al.|[2507.17697v1](http://arxiv.org/abs/2507.17697v1)|**2025-07-23**|null|
+|**2025-07-23**|**Effect of Group-V Impurities on the Electronic Properties of Germanium Detectors: An Insight from First-Principles Calculations**|Sandip Aryal et.al.|[2507.17676v1](http://arxiv.org/abs/2507.17676v1)|**2025-07-23**|null|
+|**2025-07-23**|**Mapping ground-based coronagraphic images to Helioprojective-Cartesian coordinate system by image registration**|Feiyang Sha et.al.|[2507.17670v1](http://arxiv.org/abs/2507.17670v1)|**2025-07-23**|null|
+|**2025-07-23**|**A Further Generalization of the Gale-Nikaido-Debreu Market Equilibrium Theorem**|Ranjit Vohra et.al.|[2507.17669v1](http://arxiv.org/abs/2507.17669v1)|**2025-07-23**|null|
+|**2025-07-23**|**Symmetric decompositions and Euler-Stirling statistics on Stirling permutations**|Shi-Mei Ma et.al.|[2507.17667v1](http://arxiv.org/abs/2507.17667v1)|**2025-07-23**|null|
+|**2025-07-23**|**Rethinking HSM and TPM Security in the Cloud: Real-World Attacks and Next-Gen Defenses**|Shams Shaikh et.al.|[2507.17655v1](http://arxiv.org/abs/2507.17655v1)|**2025-07-23**|null|
+|**2025-07-23**|**CNS-Bench: Benchmarking Image Classifier Robustness Under Continuous Nuisance Shifts**|Olaf Dünkel et.al.|[2507.17651v1](http://arxiv.org/abs/2507.17651v1)|**2025-07-23**|null|
+|**2025-07-23**|**Event Detection for Active Lower Limb Prosthesis**|J. D. Clark et.al.|[2507.17649v1](http://arxiv.org/abs/2507.17649v1)|**2025-07-23**|null|
+|**2025-07-23**|**Arithmetic Degrees are Cohomological Lyapunov Multipliers**|Jiarui Song et.al.|[2507.17643v1](http://arxiv.org/abs/2507.17643v1)|**2025-07-23**|null|
+|**2025-07-23**|**Segregated solutions for a class of systems with Lotka-Volterra interaction**|Qing Guo et.al.|[2507.17644v1](http://arxiv.org/abs/2507.17644v1)|**2025-07-23**|null|
+|**2025-07-23**|**Motivic classes of fixed-generators Hilbert schemes of unibranch curve singularities and Igusa zeta functions**|Ilaria Rossinelli et.al.|[2507.17642v1](http://arxiv.org/abs/2507.17642v1)|**2025-07-23**|null|
+|**2025-07-23**|**A deep search for radio pulsations from the 1.3 M$_{\odot}$ compact-object binary companion of young pulsar PSR J1906+0746**|Yuyang Wang et.al.|[2507.17641v1](http://arxiv.org/abs/2507.17641v1)|**2025-07-23**|null|
+|**2025-07-23**|**A Galactic Self-Portrait: Density Structure and Integrated Properties of the Milky Way Disk**|Julie Imig et.al.|[2507.17629v1](http://arxiv.org/abs/2507.17629v1)|**2025-07-23**|null|
+|**2025-07-23**|**Quotegraph: A Social Network Extracted from Millions of News Quotations**|Marko Čuljak et.al.|[2507.17626v1](http://arxiv.org/abs/2507.17626v1)|**2025-07-23**|null|
+|**2025-07-23**|**Nonparametric inference for nonstationary spatial point processes**|Izabel Nolau et.al.|[2507.17600v1](http://arxiv.org/abs/2507.17600v1)|**2025-07-23**|null|
+|**2025-07-23**|**Explainable AI for Collaborative Assessment of 2D/3D Registration Quality**|Sue Min Cho et.al.|[2507.17597v1](http://arxiv.org/abs/2507.17597v1)|**2025-07-23**|null|
+|**2025-07-23**|**Inflationary Fossils Beyond Perturbation Theory**|Riccardo Impavido et.al.|[2507.17593v1](http://arxiv.org/abs/2507.17593v1)|**2025-07-23**|null|
+|**2025-07-23**|**Interaction between Rydberg Excitons in Cuprous Oxide Revealed through Second Harmonic Generation**|Dirk Semkat et.al.|[2507.17592v1](http://arxiv.org/abs/2507.17592v1)|**2025-07-23**|null|
+|**2025-07-23**|**Encrypted-State Quantum Compilation Scheme Based on Quantum Circuit Obfuscation**|Chenyi Zhang et.al.|[2507.17589v1](http://arxiv.org/abs/2507.17589v1)|**2025-07-23**|null|
+|**2025-07-23**|**Evaluation of centroiding algorithms for an autonomous star tracker**|Marcio Afonso Arimura Fialho et.al.|[2507.17560v1](http://arxiv.org/abs/2507.17560v1)|**2025-07-23**|null|
+|**2025-07-23**|**Sub-sampled Trust-Region Methods with Deterministic Worst-Case Complexity Guarantees**|Max L. N. Goncalves et.al.|[2507.17556v1](http://arxiv.org/abs/2507.17556v1)|**2025-07-23**|null|
+|**2025-07-23**|**Hybrid Boundary Physics-Informed Neural Networks for Solving Navier-Stokes Equations with Complex Boundary**|Chuyu Zhou et.al.|[2507.17535v1](http://arxiv.org/abs/2507.17535v1)|**2025-07-23**|null|
+|**2025-07-23**|**Multi-modal Multi-task Pre-training for Improved Point Cloud Understanding**|Liwen Liu et.al.|[2507.17533v1](http://arxiv.org/abs/2507.17533v1)|**2025-07-23**|null|
+|**2025-07-23**|**When and Where Localization Fails: An Analysis of the Iterative Closest Point in Evolving Environment**|Abdel-Raouf Dannaoui et.al.|[2507.17531v1](http://arxiv.org/abs/2507.17531v1)|**2025-07-23**|null|
+|**2025-07-23**|**One year of ASPEX-SWIS operation -- Characteristic features, observations and science potential**|Abhishek Kumar et.al.|[2507.17523v1](http://arxiv.org/abs/2507.17523v1)|**2025-07-23**|null|
+|**2025-07-23**|**STQE: Spatial-Temporal Quality Enhancement for G-PCC Compressed Dynamic Point Clouds**|Tian Guo et.al.|[2507.17522v1](http://arxiv.org/abs/2507.17522v1)|**2025-07-23**|null|
+|**2025-07-23**|**Single-photon loading of polar molecules into an optical trap**|Bart J. Schellenberg et.al.|[2507.17521v1](http://arxiv.org/abs/2507.17521v1)|**2025-07-23**|null|
+|**2025-07-23**|**Graph Neural Network Approach to Predicting Magnetization in Quasi-One-Dimensional Ising Systems**|V. Slavin et.al.|[2507.17509v1](http://arxiv.org/abs/2507.17509v1)|**2025-07-23**|null|

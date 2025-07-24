@@ -2,33 +2,33 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Last Updated|Code|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|**2025-07-22**|**Bipartite Turán numbers via edge-gluing**|Zihao Jin et.al.|[2507.16804v1](http://arxiv.org/abs/2507.16804v1)|**2025-07-22**|null|
-|**2025-07-22**|**MultiTaskDeltaNet: Change Detection-based Image Segmentation for Operando ETEM with Application to Carbon Gasification Kinetics**|Yushuo Niu et.al.|[2507.16803v1](http://arxiv.org/abs/2507.16803v1)|**2025-07-22**|null|
-|**2025-07-22**|**Random graphs, expanding families and the construction of noncompact hyperbolic surfaces with uniform spectral gaps**|Qi Guo et.al.|[2507.16794v1](http://arxiv.org/abs/2507.16794v1)|**2025-07-22**|null|
-|**2025-07-22**|**Task-Specific Zero-shot Quantization-Aware Training for Object Detection**|Changhao Li et.al.|[2507.16782v1](http://arxiv.org/abs/2507.16782v1)|**2025-07-22**|null|
-|**2025-07-22**|**Dynamic Activation and Assignment of SDN Controllers in LEO Satellite Constellations**|Wafa Hasanain et.al.|[2507.16774v1](http://arxiv.org/abs/2507.16774v1)|**2025-07-22**|null|
-|**2025-07-22**|**On the Isoperimetric functions of a class of Artin Groups**|Arye Juhasz et.al.|[2507.16770v1](http://arxiv.org/abs/2507.16770v1)|**2025-07-22**|null|
-|**2025-07-22**|**Generalized non-reciprocal phase transitions in multipopulation systems**|Cheyne Weis et.al.|[2507.16763v1](http://arxiv.org/abs/2507.16763v1)|**2025-07-22**|null|
-|**2025-07-22**|**Faithful, Interpretable Chest X-ray Diagnosis with Anti-Aliased B-cos Networks**|Marcel Kleinmann et.al.|[2507.16761v1](http://arxiv.org/abs/2507.16761v1)|**2025-07-22**|null|
-|**2025-07-22**|**Algorithmic methods of finite discrete structures. Topological graph drawing (part IV)**|Sergey Kurapov et.al.|[2507.16759v1](http://arxiv.org/abs/2507.16759v1)|**2025-07-22**|null|
-|**2025-07-22**|**Denoising-While-Completing Network (DWCNet): Robust Point Cloud Completion Under Corruption**|Keneni W. Tesema et.al.|[2507.16743v1](http://arxiv.org/abs/2507.16743v1)|**2025-07-22**|null|
-|**2025-07-22**|**Computational aspects of the trace norm contraction coefficient**|Idris Delsol et.al.|[2507.16737v1](http://arxiv.org/abs/2507.16737v1)|**2025-07-22**|null|
-|**2025-07-22**|**Generative Diffusion Models for Wireless Networks: Fundamental, Architecture, and State-of-the-Art**|Dayu Fan et.al.|[2507.16733v1](http://arxiv.org/abs/2507.16733v1)|**2025-07-22**|null|
-|**2025-07-22**|**Almost all cographs have a cospectral mate**|Wei Wang et.al.|[2507.16730v1](http://arxiv.org/abs/2507.16730v1)|**2025-07-22**|null|
-|**2025-07-22**|**Dwell-Time Model Simulation Assistance for Advancing Iron 3D Nano-Printing of Via Focused Electron Beam Induced Deposition**|Sameh Okasha et.al.|[2507.16709v1](http://arxiv.org/abs/2507.16709v1)|**2025-07-22**|null|
-|**2025-07-22**|**Dyadic data with ordered outcome variables**|Chris Muris et.al.|[2507.16689v1](http://arxiv.org/abs/2507.16689v1)|**2025-07-22**|null|
-|**2025-07-22**|**Latent Space Alignment for AI-Native MIMO Semantic Communications**|Mario Edoardo Pandolfo et.al.|[2507.16680v1](http://arxiv.org/abs/2507.16680v1)|**2025-07-22**|null|
-|**2025-07-22**|**Deep Unfolding Network for Nonlinear Multi-Frequency Electrical Impedance Tomography**|Giovanni S. Alberti et.al.|[2507.16678v1](http://arxiv.org/abs/2507.16678v1)|**2025-07-22**|null|
-|**2025-07-22**|**GASPnet: Global Agreement to Synchronize Phases**|Andrea Alamiaa et.al.|[2507.16674v1](http://arxiv.org/abs/2507.16674v1)|**2025-07-22**|null|
-|**2025-07-22**|**Meta-Learning for Cold-Start Personalization in Prompt-Tuned LLMs**|Yushang Zhao et.al.|[2507.16672v1](http://arxiv.org/abs/2507.16672v1)|**2025-07-22**|null|
-|**2025-07-22**|**Reconfigurable qubit states and quantum trajectories in a synthetic artificial neuron network with a process to direct information generation from co-integrated burst-mode spiking under non-Markovianity**|Osama M. Nayfeh et.al.|[2507.16669v1](http://arxiv.org/abs/2507.16669v1)|**2025-07-22**|null|
-|**2025-07-22**|**FOGNITE: Federated Learning-Enhanced Fog-Cloud Architecture**|Somayeh Sobati-M et.al.|[2507.16668v1](http://arxiv.org/abs/2507.16668v1)|**2025-07-22**|null|
-|**2025-07-22**|**Reconfigurable Intelligent Surface-Enabled Green and Secure Offloading for Mobile Edge Computing Networks**|Tong-Xing Zheng et.al.|[2507.16666v1](http://arxiv.org/abs/2507.16666v1)|**2025-07-22**|null|
-|**2025-07-22**|**Enhancing Compiler Optimization Efficiency through Grammatical Decompositions of Control-Flow Graphs**|Xuran Cai et.al.|[2507.16660v1](http://arxiv.org/abs/2507.16660v1)|**2025-07-22**|null|
-|**2025-07-22**|**Synthetic Data Matters: Re-training with Geo-typical Synthetic Labels for Building Detection**|Shuang Song et.al.|[2507.16657v1](http://arxiv.org/abs/2507.16657v1)|**2025-07-22**|null|
-|**2025-07-22**|**Building Intuition for Dynamical Mean-Field Theory: A Simple Model and the Cavity Method**|Emmy Blumenthal et.al.|[2507.16654v1](http://arxiv.org/abs/2507.16654v1)|**2025-07-22**|null|
-|**2025-07-22**|**Studies of properties of bipartite graphs with quantum programming**|Kh. P. Gnatenko et.al.|[2507.16653v1](http://arxiv.org/abs/2507.16653v1)|**2025-07-22**|null|
-|**2025-07-22**|**Morpheus: A Neural-driven Animatronic Face with Hybrid Actuation and Diverse Emotion Control**|Zongzheng Zhang et.al.|[2507.16645v1](http://arxiv.org/abs/2507.16645v1)|**2025-07-22**|null|
-|**2025-07-22**|**Hybrid Reward-Driven Reinforcement Learning for Efficient Quantum Circuit Synthesis**|Sara Giordano et.al.|[2507.16641v1](http://arxiv.org/abs/2507.16641v1)|**2025-07-22**|null|
-|**2025-07-22**|**Physics-Informed Neural Networks for High-Precision Grad-Shafranov Equilibrium Reconstruction**|Cuizhi Zhou et.al.|[2507.16636v1](http://arxiv.org/abs/2507.16636v1)|**2025-07-22**|null|
-|**2025-07-22**|**Novel Multi-Agent Action Masked Deep Reinforcement Learning for General Industrial Assembly Lines Balancing Problems**|Ali Mohamed Ali et.al.|[2507.16635v1](http://arxiv.org/abs/2507.16635v1)|**2025-07-22**|null|
+|**2025-07-23**|**Large Learning Rates Simultaneously Achieve Robustness to Spurious Correlations and Compressibility**|Melih Barsbey et.al.|[2507.17748v1](http://arxiv.org/abs/2507.17748v1)|**2025-07-23**|null|
+|**2025-07-23**|**Yume: An Interactive World Generation Model**|Xiaofeng Mao et.al.|[2507.17744v1](http://arxiv.org/abs/2507.17744v1)|**2025-07-23**|null|
+|**2025-07-23**|**Optimal stability results on color-biased Hamilton cycles**|Wenchong Chen et.al.|[2507.17739v1](http://arxiv.org/abs/2507.17739v1)|**2025-07-23**|null|
+|**2025-07-23**|**Symmetric Private Information Retrieval (SPIR) on Graph-Based Replicated Systems**|Shreya Meel et.al.|[2507.17736v1](http://arxiv.org/abs/2507.17736v1)|**2025-07-23**|null|
+|**2025-07-23**|**Flow Matching Meets Biology and Life Science: A Survey**|Zihao Li et.al.|[2507.17731v1](http://arxiv.org/abs/2507.17731v1)|**2025-07-23**|null|
+|**2025-07-23**|**Deep Generative Learning of Magnetic Frustration in Artificial Spin Ice from Magnetic Force Microscopy Images**|Arnab Neogi et.al.|[2507.17726v1](http://arxiv.org/abs/2507.17726v1)|**2025-07-23**|null|
+|**2025-07-23**|**On the Interaction of Compressibility and Adversarial Robustness**|Melih Barsbey et.al.|[2507.17725v1](http://arxiv.org/abs/2507.17725v1)|**2025-07-23**|null|
+|**2025-07-23**|**BetterCheck: Towards Safeguarding VLMs for Automotive Perception Systems**|Malsha Ashani Mahawatta Dona et.al.|[2507.17722v1](http://arxiv.org/abs/2507.17722v1)|**2025-07-23**|null|
+|**2025-07-23**|**The Plateau's Problem for intrinsic graphs in the Heisenberg Group**|Roberto Monti et.al.|[2507.17714v1](http://arxiv.org/abs/2507.17714v1)|**2025-07-23**|null|
+|**2025-07-23**|**Reasoning about Rare-Event Reachability in Stochastic Vector Addition Systems via Affine Vector Spaces**|Joshua Jeppson et.al.|[2507.17711v1](http://arxiv.org/abs/2507.17711v1)|**2025-07-23**|null|
+|**2025-07-23**|**From Atoms to Dynamics: Learning the Committor Without Collective Variables**|Sergio Contreras Arredondo et.al.|[2507.17700v1](http://arxiv.org/abs/2507.17700v1)|**2025-07-23**|null|
+|**2025-07-23**|**Symbiotic Agents: A Novel Paradigm for Trustworthy AGI-driven Networks**|Ilias Chatzistefanidis et.al.|[2507.17695v1](http://arxiv.org/abs/2507.17695v1)|**2025-07-23**|null|
+|**2025-07-23**|**Joint Asymmetric Loss for Learning with Noisy Labels**|Jialiang Wang et.al.|[2507.17692v1](http://arxiv.org/abs/2507.17692v1)|**2025-07-23**|null|
+|**2025-07-23**|**Towards Effective Open-set Graph Class-incremental Learning**|Jiazhen Chen et.al.|[2507.17687v1](http://arxiv.org/abs/2507.17687v1)|**2025-07-23**|null|
+|**2025-07-23**|**Generalized Dual Discriminator GANs**|Penukonda Naga Chandana et.al.|[2507.17684v1](http://arxiv.org/abs/2507.17684v1)|**2025-07-23**|null|
+|**2025-07-23**|**MCM: Mamba-based Cardiac Motion Tracking using Sequential Images in MRI**|Jiahui Yin et.al.|[2507.17678v1](http://arxiv.org/abs/2507.17678v1)|**2025-07-23**|null|
+|**2025-07-23**|**Carleman estimate with piecewise weight and applications to inverse problems for first-order transport equations**|P. Cannarsa et.al.|[2507.17675v1](http://arxiv.org/abs/2507.17675v1)|**2025-07-23**|null|
+|**2025-07-23**|**Monocular Semantic Scene Completion via Masked Recurrent Networks**|Xuzhi Wang et.al.|[2507.17661v1](http://arxiv.org/abs/2507.17661v1)|**2025-07-23**|null|
+|**2025-07-23**|**Rethinking HSM and TPM Security in the Cloud: Real-World Attacks and Next-Gen Defenses**|Shams Shaikh et.al.|[2507.17655v1](http://arxiv.org/abs/2507.17655v1)|**2025-07-23**|null|
+|**2025-07-23**|**SHINE: A Scalable HNSW Index in Disaggregated Memory**|Manuel Widmoser et.al.|[2507.17647v1](http://arxiv.org/abs/2507.17647v1)|**2025-07-23**|null|
+|**2025-07-23**|**Quaternion-Domain Super MDS for Robust 3D Localization**|Alessio Lukaj et.al.|[2507.17645v1](http://arxiv.org/abs/2507.17645v1)|**2025-07-23**|null|
+|**2025-07-23**|**On Maker-Breaker domination game critical graphs**|Boštjan Brešar et.al.|[2507.17646v1](http://arxiv.org/abs/2507.17646v1)|**2025-07-23**|null|
+|**2025-07-23**|**Quotegraph: A Social Network Extracted from Millions of News Quotations**|Marko Čuljak et.al.|[2507.17626v1](http://arxiv.org/abs/2507.17626v1)|**2025-07-23**|null|
+|**2025-07-23**|**Reusing Attention for One-stage Lane Topology Understanding**|Yang Li et.al.|[2507.17617v1](http://arxiv.org/abs/2507.17617v1)|**2025-07-23**|null|
+|**2025-07-23**|**Time Deep Gradient Flow Method for pricing American options**|Jasper Rou et.al.|[2507.17606v1](http://arxiv.org/abs/2507.17606v1)|**2025-07-23**|null|
+|**2025-07-23**|**Citation Recommendation using Deep Canonical Correlation Analysis**|Conor McNamara et.al.|[2507.17603v1](http://arxiv.org/abs/2507.17603v1)|**2025-07-23**|null|
+|**2025-07-23**|**RemixFusion: Residual-based Mixed Representation for Large-scale Online RGB-D Reconstruction**|Yuqing Lan et.al.|[2507.17594v1](http://arxiv.org/abs/2507.17594v1)|**2025-07-23**|null|
+|**2025-07-23**|**A Joint Planning Model for Fixed and Mobile Electric Vehicle Charging Stations Considering Flexible Capacity Strategy**|Zhe Yu et.al.|[2507.17587v1](http://arxiv.org/abs/2507.17587v1)|**2025-07-23**|null|
+|**2025-07-23**|**Local Connectivity of Right-angled Coxeter group boundaries**|Michael Mihalik et.al.|[2507.17574v1](http://arxiv.org/abs/2507.17574v1)|**2025-07-23**|null|
+|**2025-07-23**|**Linearity of fundamental groups of graphs of virtually cyclic groups**|Hsuan-Yu Wang et.al.|[2507.17570v1](http://arxiv.org/abs/2507.17570v1)|**2025-07-23**|null|

@@ -2172,6 +2172,7 @@ Updated on 2025-07-24
 | 4 | Unknown | ilkerzgi/Glittering-Portrait-Kontext-Dev-LoraImage-to-Image | Updatedabout 18 hours ago | [Link](https://huggingface.co/ilkerzgi/Glittering-Portrait-Kontext-Dev-Lora) |
 | 53 |  | fofr/kontext-make-person-realImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/fofr/kontext-make-person-real) |
 | 24 |  | eggnog/Stereogram_Kontext_LoRaImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/eggnog/Stereogram_Kontext_LoRa) |
+| 41 |  | lucataco/kontext-realearthImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/lucataco/kontext-realearth) |
 
 ## Image-to-Text
 
@@ -2246,6 +2247,7 @@ Updated on 2025-07-24
 | 2.53k | 8 | openthaigpt/thai-trocrImage-to-Text | UpdatedNov 4, 2024 | [Link](https://huggingface.co/openthaigpt/thai-trocr) |
 | 11 | 8 | sachin/vit2distilgpt2Image-to-Text | UpdatedAug 17, 2023 | [Link](https://huggingface.co/sachin/vit2distilgpt2) |
 | Updatedabout 4 hours ago | 8 | allenai/olmOCR-7B-0725Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0725) |
+| 34 | 8 | qantev/trocr-small-spanishImage-to-Text | UpdatedJul 18, 2024 | [Link](https://huggingface.co/qantev/trocr-small-spanish) |
 | 1.58k | 7 | DunnBC22/trocr-base-printed_captcha_ocrImage-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-base-printed_captcha_ocr) |
 | 24.7k | 7 | Riksarkivet/trocr-base-handwritten-hist-swe-2Image-to-Text | Updated11 days ago | [Link](https://huggingface.co/Riksarkivet/trocr-base-handwritten-hist-swe-2) |
 | 285 | 7 | purna419/invoice-parserImage-to-Text | UpdatedJul 10, 2023 | [Link](https://huggingface.co/purna419/invoice-parser) |
@@ -4850,6 +4852,7 @@ Updated on 2025-07-24
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
+| 795 | 1 | chaowenguo/AnimateLCMText-to-Video | UpdatedFeb 28 | [Link](https://huggingface.co/chaowenguo/AnimateLCM) |
 | 7.59k |  | tencent/HunyuanVideoText-to-Video | UpdatedJan 21 | [Link](https://huggingface.co/tencent/HunyuanVideo) |
 | 26.6k |  | genmo/mochi-1-previewText-to-Video | UpdatedDec 18, 2024 | [Link](https://huggingface.co/genmo/mochi-1-preview) |
 | 91.5k |  | THUDM/CogVideoX-5bText-to-Video | UpdatedNov 23, 2024 | [Link](https://huggingface.co/THUDM/CogVideoX-5b) |
