@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-07-23
+Updated on 2025-07-24
 
 > Generated from the Hugging Face database.
 
@@ -2245,6 +2245,7 @@ Updated on 2025-07-23
 | 2 | 8 | espnet/iam_handwriting_ocrImage-to-Text | UpdatedNov 8, 2022 | [Link](https://huggingface.co/espnet/iam_handwriting_ocr) |
 | 2.53k | 8 | openthaigpt/thai-trocrImage-to-Text | UpdatedNov 4, 2024 | [Link](https://huggingface.co/openthaigpt/thai-trocr) |
 | 11 | 8 | sachin/vit2distilgpt2Image-to-Text | UpdatedAug 17, 2023 | [Link](https://huggingface.co/sachin/vit2distilgpt2) |
+| Updatedabout 4 hours ago | 8 | allenai/olmOCR-7B-0725Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0725) |
 | 1.58k | 7 | DunnBC22/trocr-base-printed_captcha_ocrImage-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-base-printed_captcha_ocr) |
 | 24.7k | 7 | Riksarkivet/trocr-base-handwritten-hist-swe-2Image-to-Text | Updated11 days ago | [Link](https://huggingface.co/Riksarkivet/trocr-base-handwritten-hist-swe-2) |
 | 285 | 7 | purna419/invoice-parserImage-to-Text | UpdatedJul 10, 2023 | [Link](https://huggingface.co/purna419/invoice-parser) |
@@ -2269,6 +2270,7 @@ Updated on 2025-07-23
 | Updatedabout 21 hours ago | 3 | allura-org/MS3 | 24B | [Link](https://huggingface.co/allura-org/MS3.2-24b-Angel) |
 | UpdatedFeb 26, 2024 | 3.75k | Norm/nougat-latex-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/Norm/nougat-latex-base) |
 | UpdatedMay 9 | 3.33k | tngtech/olmOCR-7B-faithfulImage-to-Text | 8B | [Link](https://huggingface.co/tngtech/olmOCR-7B-faithful) |
+| Updatedabout 4 hours ago | 3 | allenai/olmOCR-7B-0725-FP8Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0725-FP8) |
 | 51 | 2 | microsoft/git-base-msrvtt-qaImage-to-Text | UpdatedApr 4, 2024 | [Link](https://huggingface.co/microsoft/git-base-msrvtt-qa) |
 | 32 | 2 | baseplate/vit-gpt2-image-captioningImage-to-Text | UpdatedApr 5, 2023 | [Link](https://huggingface.co/baseplate/vit-gpt2-image-captioning) |
 | 38 | 2 | sbintuitions/sarashina2-vision-14bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-14b) |
@@ -4847,6 +4849,7 @@ Updated on 2025-07-23
 | 15 | 2 | rhymes-ai/Allegro-T2V-40x360PText-to-Video | UpdatedDec 26, 2024 | [Link](https://huggingface.co/rhymes-ai/Allegro-T2V-40x360P) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
+| 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
 | 7.59k |  | tencent/HunyuanVideoText-to-Video | UpdatedJan 21 | [Link](https://huggingface.co/tencent/HunyuanVideo) |
 | 26.6k |  | genmo/mochi-1-previewText-to-Video | UpdatedDec 18, 2024 | [Link](https://huggingface.co/genmo/mochi-1-preview) |
 | 91.5k |  | THUDM/CogVideoX-5bText-to-Video | UpdatedNov 23, 2024 | [Link](https://huggingface.co/THUDM/CogVideoX-5b) |

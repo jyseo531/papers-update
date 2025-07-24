@@ -14,7 +14,7 @@
 |**2025-07-22**|**Generative Diffusion Models for Wireless Networks: Fundamental, Architecture, and State-of-the-Art**|Dayu Fan et.al.|[2507.16733v1](http://arxiv.org/abs/2507.16733v1)|**2025-07-22**|null|
 |**2025-07-22**|**Collaborative Inference and Learning between Edge SLMs and Cloud LLMs: A Survey of Algorithms, Execution, and Open Challenges**|Senyao Li et.al.|[2507.16731v1](http://arxiv.org/abs/2507.16731v1)|**2025-07-22**|null|
 |**2025-07-22**|**RAVine: Reality-Aligned Evaluation for Agentic Search**|Yilong Xu et.al.|[2507.16725v1](http://arxiv.org/abs/2507.16725v1)|**2025-07-22**|null|
-|**2025-07-22**|**Hybrid concept of detection for a wide-field gamma-ray observatory using Cherenkov telescopes**|Alena Bakalová et.al.|[2507.16719v1](http://arxiv.org/abs/2507.16719v1)|**2025-07-22**|null|
+|**2025-07-22**|**Hybrid concept of detection for a wide-field gamma-ray observatory using Cherenkov telescopes**|Alena Bakalová et.al.|[2507.16719v2](http://arxiv.org/abs/2507.16719v2)|**2025-07-23**|null|
 |**2025-07-22**|**Particle systems and the supercooled Stefan problem with non-integrable initial data**|Thomas Blore et.al.|[2507.16703v1](http://arxiv.org/abs/2507.16703v1)|**2025-07-22**|null|
 |**2025-07-22**|**Pixel-Resolved Long-Context Learning for Turbulence at Exascale: Resolving Small-scale Eddies Toward the Viscous Limit**|Junqi Yin et.al.|[2507.16697v1](http://arxiv.org/abs/2507.16697v1)|**2025-07-22**|null|
 |**2025-07-22**|**Linear codes arising from the point-hyperplane geometry -- Part II: the twisted embedding**|Ilaria Cardinali et.al.|[2507.16694v1](http://arxiv.org/abs/2507.16694v1)|**2025-07-22**|null|

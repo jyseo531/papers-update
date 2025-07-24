@@ -26,7 +26,7 @@
 |**2025-07-22**|**Optimization of DNN-based HSI Segmentation FPGA-based SoC for ADS: A Practical Approach**|Jon Gutiérrez-Zaballa et.al.|[2507.16556v1](http://arxiv.org/abs/2507.16556v1)|**2025-07-22**|null|
 |**2025-07-22**|**Explainable Vulnerability Detection in C/C++ Using Edge-Aware Graph Attention Networks**|Radowanul Haque et.al.|[2507.16540v1](http://arxiv.org/abs/2507.16540v1)|**2025-07-22**|null|
 |**2025-07-22**|**Symbolic Graph Intelligence: Hypervector Message Passing for Learning Graph-Level Patterns with Tsetlin Machines**|Christian D. Blakely et.al.|[2507.16537v1](http://arxiv.org/abs/2507.16537v1)|**2025-07-22**|null|
-|**2025-07-22**|**EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion**|Shang Liu et.al.|[2507.16535v1](http://arxiv.org/abs/2507.16535v1)|**2025-07-22**|null|
+|**2025-07-22**|**EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion**|Shang Liu et.al.|[2507.16535v2](http://arxiv.org/abs/2507.16535v2)|**2025-07-23**|null|
 |**2025-07-22**|**Spatial 3D-LLM: Exploring Spatial Awareness in 3D Vision-Language Models**|Xiaoyan Wang et.al.|[2507.16524v1](http://arxiv.org/abs/2507.16524v1)|**2025-07-22**|null|
 |**2025-07-22**|**Introducing Quality Estimation to Machine Translation Post-editing Workflow: An Empirical Study on Its Usefulness**|Siqi Liu et.al.|[2507.16515v1](http://arxiv.org/abs/2507.16515v1)|**2025-07-22**|null|
 |**2025-07-22**|**PlantSAM: An Object Detection-Driven Segmentation Pipeline for Herbarium Specimens**|Youcef Sklab et.al.|[2507.16506v1](http://arxiv.org/abs/2507.16506v1)|**2025-07-22**|null|
