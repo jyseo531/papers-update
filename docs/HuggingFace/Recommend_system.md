@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-07-24
+Updated on 2025-07-25
 
 > Generated from the Hugging Face database.
 
@@ -9,6 +9,7 @@ Updated on 2025-07-24
 |:----------|:------|:-----------|:------------|:------|
 | 617k | 999 | openbmb/MiniCPM-o-2_6Any-to-Any | Updated5 days ago | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6) |
 | 189k | 577 | deepseek-ai/Janus-1 | Updated29 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-1.3B) |
+| Updatedabout 16 hours ago | 398 | QuantStack/HiDream-E1-1-GGUFAny-to-Any | 17B | [Link](https://huggingface.co/QuantStack/HiDream-E1-1-GGUF) |
 | 121k | 381 | deepseek-ai/Janus-Pro-1BAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-1B) |
 | 488 | 260 | gpt-omni/mini-omni2Any-to-Any | UpdatedOct 24, 2024 | [Link](https://huggingface.co/gpt-omni/mini-omni2) |
 | Updated1 day ago | 254 | NexaAI/Qwen2 | 3B | [Link](https://huggingface.co/NexaAI/Qwen2.5-Omni-3B-GGUF) |
@@ -2173,6 +2174,8 @@ Updated on 2025-07-24
 | 53 |  | fofr/kontext-make-person-realImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/fofr/kontext-make-person-real) |
 | 24 |  | eggnog/Stereogram_Kontext_LoRaImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/eggnog/Stereogram_Kontext_LoRa) |
 | 41 |  | lucataco/kontext-realearthImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/lucataco/kontext-realearth) |
+| 67 |  | ilkerzgi/Tattoo-Kontext-Dev-LoraImage-to-Image | Updatedabout 16 hours ago | [Link](https://huggingface.co/ilkerzgi/Tattoo-Kontext-Dev-Lora) |
+| 4 | Unknown | yumenojmd/LineShadowFillLoraImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/yumenojmd/LineShadowFillLora) |
 
 ## Image-to-Text
 
@@ -2288,6 +2291,7 @@ Updated on 2025-07-24
 | UpdatedApr 19, 2024 | 2.09k | mychen76/invoice-and-receipts_donut_v1Image-to-Text | 0.2B | [Link](https://huggingface.co/mychen76/invoice-and-receipts_donut_v1) |
 | UpdatedDec 29, 2024 | 2.03k | JackChew/Qwen2-VL-2B-OCRImage-to-Text | 2B | [Link](https://huggingface.co/JackChew/Qwen2-VL-2B-OCR) |
 | UpdatedJul 27, 2024 | 2.06k | ahmed-masry/chartgemmaImage-to-Text | 3B | [Link](https://huggingface.co/ahmed-masry/chartgemma) |
+| 12 | 2 | a0a7/gregg-recognitionImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/a0a7/gregg-recognition) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -2308,6 +2312,7 @@ Updated on 2025-07-24
 | UpdatedJan 4 | 1.8k | Bllossom/llama-3 | 8B | [Link](https://huggingface.co/Bllossom/llama-3.1-Korean-Bllossom-Vision-8B) |
 | 6 | 1 | seodaegal/git-base-sketchImage-to-Text | UpdatedAug 15, 2023 | [Link](https://huggingface.co/seodaegal/git-base-sketch) |
 | Updated10 days ago | 1.33k | RedHatAI/Qwen2 | 13B | [Link](https://huggingface.co/RedHatAI/Qwen2.5-VL-72B-Instruct-quantized.w4a16) |
+| UpdatedJun 12, 2024 | 1.13k | cyberagent/llava-calm2-siglipImage-to-Text | 7B | [Link](https://huggingface.co/cyberagent/llava-calm2-siglip) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -3860,6 +3865,7 @@ Updated on 2025-07-24
 | 1.65k | 72 | perplexity-ai/r1-1776-distill-llama-70bText | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776-distill-llama-70b) |
 | 3.22k | 72 | sarvamai/sarvam-1Text | UpdatedNov 8, 2024 | [Link](https://huggingface.co/sarvamai/sarvam-1) |
 | 37 | 71 | microsoft/Phi-4-reasoning-plusText | Updated13 days ago | [Link](https://huggingface.co/microsoft/Phi-4-reasoning-plus) |
+| Updatedabout 3 hours ago | 67 | Qwen/Qwen3-235B-A22B-Thinking-2507Text | 235B | [Link](https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507) |
 | 172 | 65 | microsoft/Phi-4-reasoningText | Updated16 days ago | [Link](https://huggingface.co/microsoft/Phi-4-reasoning) |
 | Updated4 days ago | 64 | katanemo/Arch-Router-1 | 2B | [Link](https://huggingface.co/katanemo/Arch-Router-1.5B) |
 | 224 | 63 | GSAI-ML/LLaDA-8B-InstructText | Updatedabout 23 hours ago | [Link](https://huggingface.co/GSAI-ML/LLaDA-8B-Instruct) |
@@ -4783,6 +4789,8 @@ Updated on 2025-07-24
 | 30.2k | 141 | city96/HunyuanVideo-ggufText-to-Video | UpdatedDec 17, 2024 | [Link](https://huggingface.co/city96/HunyuanVideo-gguf) |
 | 9 | 71 | LanguageBind/Open-Sora-Plan-v1 | UpdatedDec 5, 2024 | [Link](https://huggingface.co/LanguageBind/Open-Sora-Plan-v1.3.0) |
 | 15.2k | 65 | Skywork/SkyReels-V1-Hunyuan-T2VText-to-Video | Updatedabout 21 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-T2V) |
+| UpdatedApr 16, 2024 | 55 | nagayama0706/video_generation_modelText-to-Video | 7B | [Link](https://huggingface.co/nagayama0706/video_generation_model) |
+| Updatedabout 12 hours ago | 50 | Nichonauta/Self-Forcing2 | 1B | [Link](https://huggingface.co/Nichonauta/Self-Forcing2.1-T2V-1.3B-GGUF) |
 | 12.7k | 48 | calcuis/hunyuan-ggufText-to-Video | UpdatedDec 21, 2024 | [Link](https://huggingface.co/calcuis/hunyuan-gguf) |
 | 15.7k | 46 | calcuis/ltxv-ggufText-to-Video | Updated2 days ago | [Link](https://huggingface.co/calcuis/ltxv-gguf) |
 | 3 | 43 | bertjiazheng/KoolCogVideoX-5bText-to-Video | UpdatedSep 13, 2024 | [Link](https://huggingface.co/bertjiazheng/KoolCogVideoX-5b) |
