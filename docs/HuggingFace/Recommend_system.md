@@ -4677,6 +4677,7 @@ Updated on 2025-07-27
 | 618 | 7 | canopylabs/3b-de-pretrain-research_releaseText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/canopylabs/3b-de-pretrain-research_release) |
 | 27 | 7 | canopylabs/3b-hi-ft-research_releaseText-to-Speech | Updatedabout 23 hours ago | [Link](https://huggingface.co/canopylabs/3b-hi-ft-research_release) |
 | 73 | 7 | onnx-community/orpheus-3b-0 | UpdatedMar 26 | [Link](https://huggingface.co/onnx-community/orpheus-3b-0.1-ft-ONNX) |
+| 6 | 7 | nassimaODL/ssml-breaks2ssml-fr-loraText-to-Speech | Updatedabout 21 hours ago | [Link](https://huggingface.co/nassimaODL/ssml-breaks2ssml-fr-lora) |
 | 13 | 6 | ntdgo/ttsviText-to-Speech | UpdatedApr 17, 2024 | [Link](https://huggingface.co/ntdgo/ttsvi) |
 | 29 | 6 | erax-ai/EraX-Smile-UnixSex-F5Text-to-Speech | Updatedabout 8 hours ago | [Link](https://huggingface.co/erax-ai/EraX-Smile-UnixSex-F5) |
 | 29 | 6 | ICTNLP/SLED-TTS-Streaming-LibriheavyText-to-Speech | Updatedabout 18 hours ago | [Link](https://huggingface.co/ICTNLP/SLED-TTS-Streaming-Libriheavy) |
