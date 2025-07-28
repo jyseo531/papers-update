@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-07-27
+Updated on 2025-07-28
 
 > Generated from the Hugging Face database.
 
@@ -2368,6 +2368,7 @@ Updated on 2025-07-27
 | 2 | Unknown | MeissonFlow/MudditImage-to-Text | Updatedabout 12 hours ago | [Link](https://huggingface.co/MeissonFlow/Muddit) |
 | 21 | Unknown | TRI-ML/prismatic-vlmsImage-to-Text | UpdatedMay 6, 2024 | [Link](https://huggingface.co/TRI-ML/prismatic-vlms) |
 | 18 | Unknown | OpenFace-CQUPT/FLIPImage-to-Text | UpdatedJun 9 | [Link](https://huggingface.co/OpenFace-CQUPT/FLIP) |
+| 2 | Unknown | nomanmanzoor/image-prompt-modelImage-to-Text | Updated5 days ago | [Link](https://huggingface.co/nomanmanzoor/image-prompt-model) |
 
 ## Image-to-Video
 
@@ -4718,6 +4719,7 @@ Updated on 2025-07-27
 | 1.23k | 3 | mmwillet2/Kokoro_GGUFText-to-Speech | Updated6 days ago | [Link](https://huggingface.co/mmwillet2/Kokoro_GGUF) |
 | 287 | 3 | calcuis/openaudio-ggufText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/calcuis/openaudio-gguf) |
 | 10 | 3 | fnlp/MOSS-TTSD-v0Text-to-Speech | Updatedabout 3 hours ago | [Link](https://huggingface.co/fnlp/MOSS-TTSD-v0) |
+| UpdatedSep 1, 2023 | 3.75k | facebook/mms-tts-indText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-ind) |
 | 2.36M | 2.41k | coqui/XTTS-v2Text-to-Speech | UpdatedDec 11, 2023 | [Link](https://huggingface.co/coqui/XTTS-v2) |
 | 153 | 2 | mmwillet2/Dia_GGUFText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/mmwillet2/Dia_GGUF) |
 | 55 | 2 | unsloth/Spark-TTS-0 | Updated2 days ago | [Link](https://huggingface.co/unsloth/Spark-TTS-0.5B) |
