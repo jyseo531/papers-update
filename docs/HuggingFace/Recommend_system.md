@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-07-28
+Updated on 2025-07-29
 
 > Generated from the Hugging Face database.
 
@@ -50,6 +50,7 @@ Updated on 2025-07-28
 | 136 | 3 | OmniGen2/OmniGen2Any-to-Any | Updatedabout 13 hours ago | [Link](https://huggingface.co/OmniGen2/OmniGen2) |
 | 3 | 3 | ICTNLP/stream-omni-8bAny-to-Any | Updatedabout 4 hours ago | [Link](https://huggingface.co/ICTNLP/stream-omni-8b) |
 | 139 | 3 | showlab/show-o2-1 | Updatedabout 9 hours ago | [Link](https://huggingface.co/showlab/show-o2-1.5B) |
+| Updatedabout 6 hours ago | 3 | ngxson/Home-Cook-Mistral-Small-Omni-24B-2507-GGUFAny-to-Any | 24B | [Link](https://huggingface.co/ngxson/Home-Cook-Mistral-Small-Omni-24B-2507-GGUF) |
 | 47 | 2 | PKU-Alignment/AnyRewardModelAny-to-Any | UpdatedDec 28, 2024 | [Link](https://huggingface.co/PKU-Alignment/AnyRewardModel) |
 | 585 | 2 | wnma3mz/Janus-Pro-1B-4bitAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/wnma3mz/Janus-Pro-1B-4bit) |
 | 3 | 2 | lintw/HealthGPT-XL32Any-to-Any | Updatedabout 18 hours ago | [Link](https://huggingface.co/lintw/HealthGPT-XL32) |
@@ -2185,11 +2186,13 @@ Updated on 2025-07-28
 | 4 | Unknown | yumenojmd/LineShadowFillLoraImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/yumenojmd/LineShadowFillLora) |
 | 81 |  | prithivMLmods/FLUX | Updated2 days ago | [Link](https://huggingface.co/prithivMLmods/FLUX.1-Kontext-Cinematic-Relighting) |
 | 10 |  | gokaygokay/Rotation-Fix-Kontext-Dev-LoRAImage-to-Image | Updatedabout 14 hours ago | [Link](https://huggingface.co/gokaygokay/Rotation-Fix-Kontext-Dev-LoRA) |
+| 140 |  | Kontext-Style/Paper_Cutting_loraImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/Kontext-Style/Paper_Cutting_lora) |
 
 ## Image-to-Text
 
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
+| UpdatedJan 20 | 893 | HuggingFaceTB/SmolVLM-500M-BaseImage-to-Text | 0.5B | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-500M-Base) |
 | UpdatedApr 28 | 631 | Hyphonical/Pixtral-12B-Captioner-Relaxed-Q4_K_M-GGUFImage-to-Text | 12B | [Link](https://huggingface.co/Hyphonical/Pixtral-12B-Captioner-Relaxed-Q4_K_M-GGUF) |
 | Updated1 day ago | 570 | HelloKKMe/GTA1-7BImage-to-Text | 8B | [Link](https://huggingface.co/HelloKKMe/GTA1-7B) |
 | Updated4 days ago | 485 | mradermacher/Qwen2 | 8B | [Link](https://huggingface.co/mradermacher/Qwen2.5-VL-7B-Abliterated-Caption-it-GGUF) |
@@ -4852,6 +4855,7 @@ Updated on 2025-07-28
 | 28 | 3 | finetrainers/3dgs-v0Text-to-Video | UpdatedJan 29 | [Link](https://huggingface.co/finetrainers/3dgs-v0) |
 | 1 | 3 | longlian/text-to-video-lvd-msText-to-Video | UpdatedMay 1, 2024 | [Link](https://huggingface.co/longlian/text-to-video-lvd-ms) |
 | 3 | 3 | FastVideo/FastWan2 | Updatedabout 13 hours ago | [Link](https://huggingface.co/FastVideo/FastWan2.1-T2V-14B-480P-Diffusers) |
+| Updatedabout 9 hours ago | 3 | bullerwins/Wan2 | 14B | [Link](https://huggingface.co/bullerwins/Wan2.2-T2V-A14B-GGUF) |
 | 69 | 2 | obvious-research/onlyflowText-to-Video | Updated5 days ago | [Link](https://huggingface.co/obvious-research/onlyflow) |
 | 42 | 2 | jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIEText-to-Video | Updated7 days ago | [Link](https://huggingface.co/jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIE) |
 | 10 | 2 | vdo/Hotshot-XLText-to-Video | UpdatedOct 4, 2023 | [Link](https://huggingface.co/vdo/Hotshot-XL) |
