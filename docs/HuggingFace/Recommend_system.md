@@ -2050,6 +2050,7 @@ Updated on 2025-07-29
 | 128 | 5 | qualcomm/LaMa-DilatedImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/qualcomm/LaMa-Dilated) |
 | Updated12 minutes ago | 5 | unsloth/FLUX | 12B | [Link](https://huggingface.co/unsloth/FLUX.1-Kontext-dev-GGUF) |
 |  | 5 | gokaygokay/Fuse-it-Kontext-Dev-LoRAImage-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/gokaygokay/Fuse-it-Kontext-Dev-LoRA) |
+| 75 | 5 | xiaolxl/HXHY-GuoHua-KontextLoRAImage-to-Image | Updated21 days ago | [Link](https://huggingface.co/xiaolxl/HXHY-GuoHua-KontextLoRA) |
 | 575 | 4 | prs-eth/marigold-normals-v1-1Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-normals-v1-1) |
 | 1k | 4 | stanfordmimi/MedVAEImage-to-Image | UpdatedMar 31 | [Link](https://huggingface.co/stanfordmimi/MedVAE) |
 | 3 | 4 | wikeeyang/UniWorld-V1-NF4Image-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/wikeeyang/UniWorld-V1-NF4) |
@@ -4647,6 +4648,7 @@ Updated on 2025-07-29
 | 1.68k | 104 | parler-tts/parler-tts-mini-expressoText-to-Speech | UpdatedMay 21, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-mini-expresso) |
 | 1.44k | 90 | kyutai/tts-1 | Updatedabout 14 hours ago | [Link](https://huggingface.co/kyutai/tts-1.6b-en_fr) |
 | 3.52k | 87 | HKUSTAudio/Llasa-1BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-1B) |
+| 24.4k | 83 | myshell-ai/MeloTTS-ChineseText-to-Speech | UpdatedMar 1, 2024 | [Link](https://huggingface.co/myshell-ai/MeloTTS-Chinese) |
 | 2.42k | 77 | FunAudioLLM/CosyVoice2-0 | UpdatedDec 27, 2024 | [Link](https://huggingface.co/FunAudioLLM/CosyVoice2-0.5B) |
 | 162 | 72 | canopylabs/orpheus-3b-0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/canopylabs/orpheus-3b-0.1-ft) |
 | 2.93k | 65 | capleaf/viXTTSText-to-Speech | UpdatedApr 7, 2024 | [Link](https://huggingface.co/capleaf/viXTTS) |
