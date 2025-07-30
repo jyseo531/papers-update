@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-07-29
+Updated on 2025-07-30
 
 > Generated from the Hugging Face database.
 
@@ -2210,6 +2210,7 @@ Updated on 2025-07-29
 | 6.2k | 77 | unum-cloud/uform-gen2-qwen-500mImage-to-Text | UpdatedApr 24, 2024 | [Link](https://huggingface.co/unum-cloud/uform-gen2-qwen-500m) |
 | UpdatedNov 19, 2024 | 77 | ashok2216/vit-gpt2-image-captioning_COCO_FineTunedImage-to-Text | 0.2B | [Link](https://huggingface.co/ashok2216/vit-gpt2-image-captioning_COCO_FineTuned) |
 | 131 | 71 | keras-io/ocr-for-captchaImage-to-Text | UpdatedMay 29, 2022 | [Link](https://huggingface.co/keras-io/ocr-for-captcha) |
+| Updated6 days ago | 68 | smolagents/Qwen2 | 4B | [Link](https://huggingface.co/smolagents/Qwen2.5-VL-3B-Instruct-Agentic) |
 | 8.31k | 64 | alibaba-damo/mgp-str-baseImage-to-Text | UpdatedDec 11, 2023 | [Link](https://huggingface.co/alibaba-damo/mgp-str-base) |
 | UpdatedApr 17, 2024 | 54 | hoang-quoc-trung/sumen-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/hoang-quoc-trung/sumen-base) |
 | 71 | 49 | stabilityai/japanese-stable-vlmImage-to-Text | UpdatedJul 10, 2024 | [Link](https://huggingface.co/stabilityai/japanese-stable-vlm) |
@@ -3990,6 +3991,7 @@ Updated on 2025-07-29
 | 15.6k | 26 | unsloth/Qwen3-32B-GGUFText | Updatedabout 14 hours ago | [Link](https://huggingface.co/unsloth/Qwen3-32B-GGUF) |
 | 273 | 26 | open-thoughts/OpenThinker3-7BText | Updatedabout 20 hours ago | [Link](https://huggingface.co/open-thoughts/OpenThinker3-7B) |
 | Updated38 minutes ago | 26 | unsloth/Qwen3-Coder-480B-A35B-Instruct-GGUFText | 480B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-GGUF) |
+| Updatedabout 6 hours ago | 26 | arcee-ai/AFM-4 | 5B | [Link](https://huggingface.co/arcee-ai/AFM-4.5B) |
 | 513 | 25 | CohereForAI/c4ai-command-r7b-arabic-02-2025Text | Updated2 days ago | [Link](https://huggingface.co/CohereForAI/c4ai-command-r7b-arabic-02-2025) |
 | 3.12k | 25 | ibm-granite/granite-3 | Updated9 days ago | [Link](https://huggingface.co/ibm-granite/granite-3.2-8b-instruct) |
 | 568 | 25 | GSAI-ML/LLaDA-8B-BaseText | Updated3 days ago | [Link](https://huggingface.co/GSAI-ML/LLaDA-8B-Base) |
@@ -4036,6 +4038,7 @@ Updated on 2025-07-29
 | 4.53k | 21 | bartowski/nvidia_Llama-3 | Updated7 days ago | [Link](https://huggingface.co/bartowski/nvidia_Llama-3.1-8B-UltraLong-4M-Instruct-GGUF) |
 | 106 | 21 | inclusionAI/Ring-lite-distill-previewText | Updated12 days ago | [Link](https://huggingface.co/inclusionAI/Ring-lite-distill-preview) |
 | Updated1 day ago | 21 | nvidia/OpenCodeReasoning-Nemotron-1 | 33B | [Link](https://huggingface.co/nvidia/OpenCodeReasoning-Nemotron-1.1-32B) |
+| Updatedabout 13 hours ago | 21 | Qwen/Qwen3-30B-A3B-Instruct-2507Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507) |
 | 335 | 20 | google/txgemma-27b-chatText | Updated2 days ago | [Link](https://huggingface.co/google/txgemma-27b-chat) |
 | 473 | 20 | google/txgemma-9b-chatText | Updated4 days ago | [Link](https://huggingface.co/google/txgemma-9b-chat) |
 | 15 | 20 | Intelligent-Internet/II-Medical-8B-1706Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/Intelligent-Internet/II-Medical-8B-1706) |
@@ -4104,6 +4107,7 @@ Updated on 2025-07-29
 | Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
 | Updated6 days ago | 1.51k | LiquidAI/LFM2-350M-GGUFText | 0.4B | [Link](https://huggingface.co/LiquidAI/LFM2-350M-GGUF) |
 | Updatedabout 9 hours ago | 1.41k | t-tech/T-pro-it-2 | 33B | [Link](https://huggingface.co/t-tech/T-pro-it-2.0) |
+| Updatedabout 14 hours ago | 1.58k | Qwen/Qwen3-235B-A22B-Thinking-2507-FP8Text | 235B | [Link](https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507-FP8) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -4615,6 +4619,7 @@ Updated on 2025-07-29
 | 5 | Unknown | Motif-Technologies/Motif-Vision-6B-PreviewText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/Motif-Technologies/Motif-Vision-6B-Preview) |
 | 87 | Unknown | mit-han-lab/nunchakuText-to-Image | Updated2 days ago | [Link](https://huggingface.co/mit-han-lab/nunchaku) |
 | 48 |  | renderartist/technically-color-fluxText-to-Image | Updated3 days ago | [Link](https://huggingface.co/renderartist/technically-color-flux) |
+| 6 | Unknown | Skywork/Skywork-UniPic-1 | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/Skywork-UniPic-1.5B) |
 
 ## Text-to-Speech
 
@@ -4711,6 +4716,7 @@ Updated on 2025-07-29
 | 40 | 4 | mlx-community/Dia-1 | Updated1 day ago | [Link](https://huggingface.co/mlx-community/Dia-1.6B) |
 | 263 | 4 | thepushkarp/Dia-1 | Updated3 days ago | [Link](https://huggingface.co/thepushkarp/Dia-1.6B-safetensors-fp16) |
 | 136 | 4 | mlx-community/Kokoro-82M-8bitText-to-Speech | UpdatedMar 8 | [Link](https://huggingface.co/mlx-community/Kokoro-82M-8bit) |
+| Updatedabout 3 hours ago | 4 | calcuis/higgs-ggufText-to-Speech | 6B | [Link](https://huggingface.co/calcuis/higgs-gguf) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 1.22k | 3 | CONCREE/Adia_TTSText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/CONCREE/Adia_TTS) |
