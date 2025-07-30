@@ -4108,6 +4108,7 @@ Updated on 2025-07-30
 | Updated6 days ago | 1.51k | LiquidAI/LFM2-350M-GGUFText | 0.4B | [Link](https://huggingface.co/LiquidAI/LFM2-350M-GGUF) |
 | Updatedabout 9 hours ago | 1.41k | t-tech/T-pro-it-2 | 33B | [Link](https://huggingface.co/t-tech/T-pro-it-2.0) |
 | Updatedabout 14 hours ago | 1.58k | Qwen/Qwen3-235B-A22B-Thinking-2507-FP8Text | 235B | [Link](https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507-FP8) |
+| Updatedabout 23 hours ago | 1.95k | Qwen/Qwen3-30B-A3B-Instruct-2507-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507-FP8) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -4812,6 +4813,7 @@ Updated on 2025-07-30
 |:----------|:------|:-----------|:------------|:------|
 | 882k | 892 | ByteDance/AnimateDiff-LightningText-to-Video | UpdatedJan 6 | [Link](https://huggingface.co/ByteDance/AnimateDiff-Lightning) |
 | 16.5k | 612 | ali-vilab/text-to-video-ms-1 | UpdatedDec 1, 2023 | [Link](https://huggingface.co/ali-vilab/text-to-video-ms-1.7b) |
+| Updatedabout 3 hours ago | 496 | calcuis/wan2-ggufText-to-Video | 0.1B | [Link](https://huggingface.co/calcuis/wan2-gguf) |
 | 23.8k | 473 | cerspense/zeroscope_v2_576wText-to-Video | UpdatedJul 1, 2023 | [Link](https://huggingface.co/cerspense/zeroscope_v2_576w) |
 | 4.01k | 461 | ali-vilab/modelscope-damo-text-to-video-synthesisText-to-Video | UpdatedMar 29, 2023 | [Link](https://huggingface.co/ali-vilab/modelscope-damo-text-to-video-synthesis) |
 | 1.17k | 353 | stepfun-ai/stepvideo-t2vText-to-Video | Updated6 days ago | [Link](https://huggingface.co/stepfun-ai/stepvideo-t2v) |
