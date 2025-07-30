@@ -2188,6 +2188,7 @@ Updated on 2025-07-30
 | 81 |  | prithivMLmods/FLUX | Updated2 days ago | [Link](https://huggingface.co/prithivMLmods/FLUX.1-Kontext-Cinematic-Relighting) |
 | 10 |  | gokaygokay/Rotation-Fix-Kontext-Dev-LoRAImage-to-Image | Updatedabout 14 hours ago | [Link](https://huggingface.co/gokaygokay/Rotation-Fix-Kontext-Dev-LoRA) |
 | 140 |  | Kontext-Style/Paper_Cutting_loraImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/Kontext-Style/Paper_Cutting_lora) |
+| 7 | Unknown | UCSC-VLAA/gpt-image-edit-trainingImage-to-Image | Updated7 minutes ago | [Link](https://huggingface.co/UCSC-VLAA/gpt-image-edit-training) |
 
 ## Image-to-Text
 
