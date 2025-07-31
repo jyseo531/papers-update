@@ -1666,6 +1666,7 @@ Updated on 2025-07-31
 | 4.89k | 934 | microsoft/OmniParser-v2 | Updated7 days ago | [Link](https://huggingface.co/microsoft/OmniParser-v2.0) |
 | 57.2k | 851 | mistralai/Mistral-Small-3 | Updatedabout 11 hours ago | [Link](https://huggingface.co/mistralai/Mistral-Small-3.1-24B-Instruct-2503) |
 |  | 615 | mistralai/Pixtral-12B-2409Image-Text-to-Text | UpdatedDec 26, 2024 | [Link](https://huggingface.co/mistralai/Pixtral-12B-2409) |
+| Updatedabout 12 hours ago | 598 | deepcogito/cogito-v2-preview-llama-109B-MoEImage-Text-to-Text | 109B | [Link](https://huggingface.co/deepcogito/cogito-v2-preview-llama-109B-MoE) |
 | 1.67M | 546 | Qwen/Qwen2 | Updated10 days ago | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct) |
 | 820k | 421 | liuhaotian/llava-v1 | UpdatedMay 8, 2024 | [Link](https://huggingface.co/liuhaotian/llava-v1.5-7b) |
 | 112k | 395 | HuggingFaceTB/SmolVLM-InstructImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-Instruct) |
@@ -2189,6 +2190,7 @@ Updated on 2025-07-31
 | 10 |  | gokaygokay/Rotation-Fix-Kontext-Dev-LoRAImage-to-Image | Updatedabout 14 hours ago | [Link](https://huggingface.co/gokaygokay/Rotation-Fix-Kontext-Dev-LoRA) |
 | 140 |  | Kontext-Style/Paper_Cutting_loraImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/Kontext-Style/Paper_Cutting_lora) |
 | 7 | Unknown | UCSC-VLAA/gpt-image-edit-trainingImage-to-Image | Updated7 minutes ago | [Link](https://huggingface.co/UCSC-VLAA/gpt-image-edit-training) |
+| 64 |  | starsfriday/Kontext-Emoji-LoRAImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/starsfriday/Kontext-Emoji-LoRA) |
 
 ## Image-to-Text
 
@@ -4509,6 +4511,7 @@ Updated on 2025-07-31
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
 |  | 5 | multimodalart/reachyText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/multimodalart/reachy) |
+| 169 | 5 | lodestones/Chroma1-BaseText-to-Image | Updated2 days ago | [Link](https://huggingface.co/lodestones/Chroma1-Base) |
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 2.56k | 3.84k | WarriorMama777/OrangeMixsText-to-Image | UpdatedJan 7, 2024 | [Link](https://huggingface.co/WarriorMama777/OrangeMixs) |
 | 2 | 2.77k | CompVis/stable-diffusion-v-1-4-originalText-to-Image | UpdatedNov 9, 2022 | [Link](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original) |
@@ -4970,6 +4973,7 @@ Updated on 2025-07-31
 | 2 | Unknown | JonneyWang/EchoShotText-to-Video | Updated1 day ago | [Link](https://huggingface.co/JonneyWang/EchoShot) |
 | 2 | Unknown | Lightricks/LTX-Video-ICLoRA-detailer-13b-0 | Updatedabout 12 hours ago | [Link](https://huggingface.co/Lightricks/LTX-Video-ICLoRA-detailer-13b-0.9.8) |
 | 23.6k |  | zai-org/CogVideoX-5bText-to-Video | UpdatedNov 23, 2024 | [Link](https://huggingface.co/zai-org/CogVideoX-5b) |
+| 2 | Unknown | deadman44/WAN_T2i_LoRAText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/deadman44/WAN_T2i_LoRA) |
 
 ## Text2Text Generation
 
