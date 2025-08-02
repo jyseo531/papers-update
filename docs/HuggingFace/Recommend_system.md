@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-08-01
+Updated on 2025-08-02
 
 > Generated from the Hugging Face database.
 
@@ -4460,6 +4460,7 @@ Updated on 2025-08-01
 | 55k | 234 | SG161222/Realistic_Vision_V6 | UpdatedOct 8, 2024 | [Link](https://huggingface.co/SG161222/Realistic_Vision_V6.0_B1_noVAE) |
 | 126k | 206 | RunDiffusion/Juggernaut-XL-v9Text-to-Image | UpdatedDec 11, 2024 | [Link](https://huggingface.co/RunDiffusion/Juggernaut-XL-v9) |
 | 37.6k | 156 | tianweiy/DMD2Text-to-Image | UpdatedJun 11, 2024 | [Link](https://huggingface.co/tianweiy/DMD2) |
+| Updatedabout 16 hours ago | 124 | calcuis/krea-ggufText-to-Image | 12B | [Link](https://huggingface.co/calcuis/krea-gguf) |
 | 3.01k | 81 | RunDiffusion/Juggernaut-XI-v11Text-to-Image | UpdatedAug 29, 2024 | [Link](https://huggingface.co/RunDiffusion/Juggernaut-XI-v11) |
 | 8.76k | 66 | Freepik/flux | UpdatedDec 30, 2024 | [Link](https://huggingface.co/Freepik/flux.1-lite-8B) |
 | 9.8k | 66 | cyberdelia/CyberRealisticText-to-Image | Updated12 days ago | [Link](https://huggingface.co/cyberdelia/CyberRealistic) |
@@ -4517,6 +4518,7 @@ Updated on 2025-08-01
 | 836 | 6 | Minthy/RouWei-0 | Updated3 days ago | [Link](https://huggingface.co/Minthy/RouWei-0.8) |
 | 169 | 6 | PosterCraft/PosterCraft-v1_RLText-to-Image | Updated2 days ago | [Link](https://huggingface.co/PosterCraft/PosterCraft-v1_RL) |
 | 68 | 6 | day-dream/MechAnything-Kontext-Dev-LoraText-to-Image | Updated2 days ago | [Link](https://huggingface.co/day-dream/MechAnything-Kontext-Dev-Lora) |
+| 50 | 6 | ostris/wan22_5b_i2v_crush_it_loraText-to-Image | Updated2 days ago | [Link](https://huggingface.co/ostris/wan22_5b_i2v_crush_it_lora) |
 | 42 | 5 | Shakker-Labs/RepTextText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Shakker-Labs/RepText) |
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
