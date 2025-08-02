@@ -1671,6 +1671,7 @@ Updated on 2025-08-02
 | 820k | 421 | liuhaotian/llava-v1 | UpdatedMay 8, 2024 | [Link](https://huggingface.co/liuhaotian/llava-v1.5-7b) |
 | 112k | 395 | HuggingFaceTB/SmolVLM-InstructImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-Instruct) |
 | 860k | 376 | Salesforce/blip2-opt-2 | UpdatedFeb 3 | [Link](https://huggingface.co/Salesforce/blip2-opt-2.7b) |
+| Updatedabout 7 hours ago | 365 | stepfun-ai/step3Image-Text-to-Text | 321B | [Link](https://huggingface.co/stepfun-ai/step3) |
 | 17.9k | 287 | deepseek-ai/deepseek-vl2Image-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2) |
 | 26.4k | 267 | MiniMaxAI/MiniMax-VL-01Image-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-VL-01) |
 | 353k | 236 | microsoft/Florence-2-baseImage-Text-to-Text | UpdatedNov 4, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-base) |
@@ -1762,6 +1763,7 @@ Updated on 2025-08-02
 | 79 | 17 | lingshu-medical-mllm/Lingshu-7BImage-Text-to-Text | Updated13 minutes ago | [Link](https://huggingface.co/lingshu-medical-mllm/Lingshu-7B) |
 | 131 | 17 | google/gemma-3n-E4BImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/google/gemma-3n-E4B) |
 | 14 | 15 | Sony/AKI-4B-phi-3 | Updated2 days ago | [Link](https://huggingface.co/Sony/AKI-4B-phi-3.5-mini) |
+| 1.82k | 15 | stepfun-ai/step3-fp8Image-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/stepfun-ai/step3-fp8) |
 | 296 | 14 | Fancy-MLLM/R1-Onevision-7BImage-Text-to-Text | Updatedabout 12 hours ago | [Link](https://huggingface.co/Fancy-MLLM/R1-Onevision-7B) |
 | 80 | 14 | google/gemma-3-27b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-pt) |
 | 20 | 14 | lusxvr/nanoVLM-222MImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/lusxvr/nanoVLM-222M) |
@@ -4643,6 +4645,7 @@ Updated on 2025-08-02
 | 6 | Unknown | Skywork/Skywork-UniPic-1 | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/Skywork-UniPic-1.5B) |
 | 543 | Unknown | gsdf/Counterfeit-V3 | UpdatedNov 9, 2023 | [Link](https://huggingface.co/gsdf/Counterfeit-V3.0) |
 | 5 | Unknown | Fihade/Apple_Emoji_Style_Kontext_LoRAText-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/Fihade/Apple_Emoji_Style_Kontext_LoRA) |
+| 68 |  | tarfandoon/farshchian_fluxText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/tarfandoon/farshchian_flux) |
 
 ## Text-to-Speech
 
