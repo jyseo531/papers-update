@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-08-02
+Updated on 2025-08-03
 
 > Generated from the Hugging Face database.
 
@@ -2055,6 +2055,7 @@ Updated on 2025-08-02
 | Updated12 minutes ago | 5 | unsloth/FLUX | 12B | [Link](https://huggingface.co/unsloth/FLUX.1-Kontext-dev-GGUF) |
 |  | 5 | gokaygokay/Fuse-it-Kontext-Dev-LoRAImage-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/gokaygokay/Fuse-it-Kontext-Dev-LoRA) |
 | 75 | 5 | xiaolxl/HXHY-GuoHua-KontextLoRAImage-to-Image | Updated21 days ago | [Link](https://huggingface.co/xiaolxl/HXHY-GuoHua-KontextLoRA) |
+| Updatedabout 10 hours ago | 5 | Alpha-VLLM/Lumina-mGPT-2 | 8B | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-2.0-Omni) |
 | 575 | 4 | prs-eth/marigold-normals-v1-1Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-normals-v1-1) |
 | 1k | 4 | stanfordmimi/MedVAEImage-to-Image | UpdatedMar 31 | [Link](https://huggingface.co/stanfordmimi/MedVAE) |
 | 3 | 4 | wikeeyang/UniWorld-V1-NF4Image-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/wikeeyang/UniWorld-V1-NF4) |
@@ -4111,6 +4112,7 @@ Updated on 2025-08-02
 | 57 | 14 | katanemo/Arch-Agent-32BText | Updated3 days ago | [Link](https://huggingface.co/katanemo/Arch-Agent-32B) |
 | Updatedabout 10 hours ago | 11.9k | unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUFText | 31B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUF) |
 | Updated3 days ago | 8.32k | trillionlabs/Tri-21BText | 21B | [Link](https://huggingface.co/trillionlabs/Tri-21B) |
+| Updated2 days ago | 7.65k | Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8) |
 | 578k | 6.11k | meta-llama/Meta-Llama-3-8BText | UpdatedSep 27, 2024 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) |
 | Updatedabout 18 hours ago | 6 | apple/sage-ft-mixtral-8x7bText | 47B | [Link](https://huggingface.co/apple/sage-ft-mixtral-8x7b) |
 | Updated5 days ago | 6.94k | mistralai/Devstral-Small-2507_ggufText | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2507_gguf) |
@@ -4646,6 +4648,7 @@ Updated on 2025-08-02
 | 543 | Unknown | gsdf/Counterfeit-V3 | UpdatedNov 9, 2023 | [Link](https://huggingface.co/gsdf/Counterfeit-V3.0) |
 | 5 | Unknown | Fihade/Apple_Emoji_Style_Kontext_LoRAText-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/Fihade/Apple_Emoji_Style_Kontext_LoRA) |
 | 68 |  | tarfandoon/farshchian_fluxText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/tarfandoon/farshchian_flux) |
+| 11 | Unknown | kpsss34/Stable-Diffusion-3 | Updatedabout 10 hours ago | [Link](https://huggingface.co/kpsss34/Stable-Diffusion-3.5-Small-Preview1) |
 
 ## Text-to-Speech
 
@@ -4925,6 +4928,7 @@ Updated on 2025-08-02
 | 85 | 2 | Remade-AI/DogsText-to-Video | UpdatedMar 24 | [Link](https://huggingface.co/Remade-AI/Dogs) |
 | 15 | 2 | rhymes-ai/Allegro-T2V-40x360PText-to-Video | UpdatedDec 26, 2024 | [Link](https://huggingface.co/rhymes-ai/Allegro-T2V-40x360P) |
 | 17 | 2 | ai-forever/Wan2 | Updated1 day ago | [Link](https://huggingface.co/ai-forever/Wan2.1-T2V-14B-NABLA-0.7) |
+| 43 | 2 | DFloat11/Wan2 | Updated1 day ago | [Link](https://huggingface.co/DFloat11/Wan2.2-T2V-A14B-2-DF11) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
