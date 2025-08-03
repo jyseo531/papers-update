@@ -8,6 +8,7 @@ Updated on 2025-08-03
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
 | 617k | 999 | openbmb/MiniCPM-o-2_6Any-to-Any | Updated5 days ago | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6) |
+| Updated6 days ago | 798 | modelscope/Nexus-GenAny-to-Any | 8B | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 189k | 577 | deepseek-ai/Janus-1 | Updated29 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-1.3B) |
 | Updatedabout 16 hours ago | 398 | QuantStack/HiDream-E1-1-GGUFAny-to-Any | 17B | [Link](https://huggingface.co/QuantStack/HiDream-E1-1-GGUF) |
 | 121k | 381 | deepseek-ai/Janus-Pro-1BAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-1B) |
@@ -2292,6 +2293,7 @@ Updated on 2025-08-03
 | 5 | 5 | Yodazon/3DPrintFailureTypeImage-to-Text | UpdatedOct 18, 2024 | [Link](https://huggingface.co/Yodazon/3DPrintFailureType) |
 | Updated5 days ago | 5.7k | ChatDOC/OCRFlux-3BImage-to-Text | 4B | [Link](https://huggingface.co/ChatDOC/OCRFlux-3B) |
 | UpdatedJan 20 | 5.45k | HuggingFaceTB/SmolVLM-256M-BaseImage-to-Text | 0.3B | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-256M-Base) |
+| UpdatedAug 23, 2023 | 5 | AIris-Channel/vit-gpt2-verifycode-captionImage-to-Text | 0.2B | [Link](https://huggingface.co/AIris-Channel/vit-gpt2-verifycode-caption) |
 | 17 | 4 | MixTex/tiny-ZhEn-for-onnxImage-to-Text | UpdatedFeb 23 | [Link](https://huggingface.co/MixTex/tiny-ZhEn-for-onnx) |
 | 14 | 4 | unalignment/Pixtral-12B-Captioner-RelaxedImage-to-Text | UpdatedJan 22 | [Link](https://huggingface.co/unalignment/Pixtral-12B-Captioner-Relaxed) |
 | 3.42k | 4 | breezedeus/pix2text-mfdImage-to-Text | UpdatedJul 10, 2024 | [Link](https://huggingface.co/breezedeus/pix2text-mfd) |
@@ -3972,6 +3974,7 @@ Updated on 2025-08-03
 | 76 | 31 | manycore-research/SpatialLM-Qwen-0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/manycore-research/SpatialLM-Qwen-0.5B) |
 | 4 | 31 | Qwen/Qwen3-Embedding-8BText | Updatedabout 10 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-Embedding-8B) |
 | Updated27 days ago | 31 | Chain-GPT/Solidity-LLMText | 3B | [Link](https://huggingface.co/Chain-GPT/Solidity-LLM) |
+| Updated4 days ago | 31.2k | PowerInfer/SmallThinker-21BA3B-Instruct-GGUFText | 22B | [Link](https://huggingface.co/PowerInfer/SmallThinker-21BA3B-Instruct-GGUF) |
 | 277 | 30 | kakaocorp/kanana-nano-2 | Updatedabout 22 hours ago | [Link](https://huggingface.co/kakaocorp/kanana-nano-2.1b-instruct) |
 | 2.75k | 30 | allenai/OLMo-2-0425-1BText | Updated6 days ago | [Link](https://huggingface.co/allenai/OLMo-2-0425-1B) |
 | 509 | 30 | SWE-bench/SWE-agent-LM-32BText | Updatedabout 10 hours ago | [Link](https://huggingface.co/SWE-bench/SWE-agent-LM-32B) |
@@ -4649,6 +4652,7 @@ Updated on 2025-08-03
 | 5 | Unknown | Fihade/Apple_Emoji_Style_Kontext_LoRAText-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/Fihade/Apple_Emoji_Style_Kontext_LoRA) |
 | 68 |  | tarfandoon/farshchian_fluxText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/tarfandoon/farshchian_flux) |
 | 11 | Unknown | kpsss34/Stable-Diffusion-3 | Updatedabout 10 hours ago | [Link](https://huggingface.co/kpsss34/Stable-Diffusion-3.5-Small-Preview1) |
+| 33 | Unknown | MintLab/FLUX-Krea-BLAZEText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/MintLab/FLUX-Krea-BLAZE) |
 
 ## Text-to-Speech
 
@@ -4870,6 +4874,7 @@ Updated on 2025-08-03
 | 8.22k | 26 | Searchium-ai/clip4clip-webvid150kText-to-Video | UpdatedOct 27, 2024 | [Link](https://huggingface.co/Searchium-ai/clip4clip-webvid150k) |
 | 417 | 25 | ByteDance/ContentV-8BText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/ByteDance/ContentV-8B) |
 | 3.47k | 22 | Skywork/SkyReels-V2-T2V-14B-720PText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-T2V-14B-720P) |
+| 1.12k | 21 | maxin-cn/Latte-1Text-to-Video | UpdatedSep 2, 2024 | [Link](https://huggingface.co/maxin-cn/Latte-1) |
 | 119 | 20 | PAIR/text2video-zero-controlnet-canny-animeText-to-Video | UpdatedApr 6, 2023 | [Link](https://huggingface.co/PAIR/text2video-zero-controlnet-canny-anime) |
 | 433 | 20 | Skywork/SkyReels-V2-DF-1 | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-DF-1.3B-540P) |
 | 34 | 19 | FastVideo/FastMochi-diffusersText-to-Video | UpdatedDec 16, 2024 | [Link](https://huggingface.co/FastVideo/FastMochi-diffusers) |
