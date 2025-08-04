@@ -2345,6 +2345,7 @@ Updated on 2025-08-04
 | 6 | 1 | seodaegal/git-base-sketchImage-to-Text | UpdatedAug 15, 2023 | [Link](https://huggingface.co/seodaegal/git-base-sketch) |
 | Updated10 days ago | 1.33k | RedHatAI/Qwen2 | 13B | [Link](https://huggingface.co/RedHatAI/Qwen2.5-VL-72B-Instruct-quantized.w4a16) |
 | UpdatedJun 12, 2024 | 1.13k | cyberagent/llava-calm2-siglipImage-to-Text | 7B | [Link](https://huggingface.co/cyberagent/llava-calm2-siglip) |
+| 2 | 1 | dsupa/mangaocr-hoogberta-v2Image-to-Text | UpdatedApr 23, 2023 | [Link](https://huggingface.co/dsupa/mangaocr-hoogberta-v2) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
