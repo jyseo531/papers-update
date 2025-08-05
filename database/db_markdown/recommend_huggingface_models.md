@@ -2325,6 +2325,7 @@ Updated on 2025-08-05
 | 12 | 2 | a0a7/gregg-recognitionImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/a0a7/gregg-recognition) |
 | UpdatedMar 30 | 2 | huaXiaKyrie/Qwen2-VL-MedCaption2Image-to-Text | 8B | [Link](https://huggingface.co/huaXiaKyrie/Qwen2-VL-MedCaption2) |
 | UpdatedSep 7, 2023 | 2.17k | google/pix2struct-textcaps-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/google/pix2struct-textcaps-base) |
+| 11 | 2 | michelecafagna26/vinvl-base-image-captioningImage-to-Text | UpdatedJul 27, 2023 | [Link](https://huggingface.co/michelecafagna26/vinvl-base-image-captioning) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -3870,6 +3871,7 @@ Updated on 2025-08-05
 | 77 | 159 | manycore-research/SpatialLM-Llama-1BText | Updated4 days ago | [Link](https://huggingface.co/manycore-research/SpatialLM-Llama-1B) |
 | Updatedabout 10 hours ago | 159 | Qwen/Qwen3-235B-A22B-Instruct-2507Text | 235B | [Link](https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507) |
 | 6.18k | 156 | google/medgemma-27b-text-itText | Updated18 minutes ago | [Link](https://huggingface.co/google/medgemma-27b-text-it) |
+| Updatedabout 7 hours ago | 154 | tencent/Hunyuan-0 | 0.5B | [Link](https://huggingface.co/tencent/Hunyuan-0.5B-Instruct) |
 | 2.25k | 153 | open-thoughts/OpenThinker-32BText | Updated11 days ago | [Link](https://huggingface.co/open-thoughts/OpenThinker-32B) |
 | 38 | 143 | qihoo360/TinyR1-32B-PreviewText | Updatedabout 17 hours ago | [Link](https://huggingface.co/qihoo360/TinyR1-32B-Preview) |
 | Updated6 days ago | 140 | zerofata/MS3 | 24B | [Link](https://huggingface.co/zerofata/MS3.2-PaintedFantasy-24B) |
@@ -4130,6 +4132,7 @@ Updated on 2025-08-05
 | Updatedabout 4 hours ago | 5 | tencent/Hunyuan-1 | 2B | [Link](https://huggingface.co/tencent/Hunyuan-1.8B-Instruct) |
 | Updatedabout 21 hours ago | 4.52k | unsloth/Devstral-Small-2507-GGUFText | 24B | [Link](https://huggingface.co/unsloth/Devstral-Small-2507-GGUF) |
 | Updated2 days ago | 3.87k | unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUFText | 480B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUF) |
+| Updated6 days ago | 3.39k | Qwen/Qwen3-30B-A3B-Thinking-2507-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507-FP8) |
 | Updated6 days ago | 2.04k | marcelbinz/Llama-3 | 71B | [Link](https://huggingface.co/marcelbinz/Llama-3.1-Centaur-70B) |
 | Updatedabout 2 hours ago | 2.66k | unsloth/Qwen3-235B-A22B-Instruct-2507-GGUFText | 235B | [Link](https://huggingface.co/unsloth/Qwen3-235B-A22B-Instruct-2507-GGUF) |
 | Updatedabout 10 hours ago | 2 | Qwen/Qwen3-30B-A3B-Thinking-2507Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507) |
@@ -4521,6 +4524,7 @@ Updated on 2025-08-05
 | 8.2k | 9 | azaneko/HiDream-I1-Dev-nf4Text-to-Image | Updated6 days ago | [Link](https://huggingface.co/azaneko/HiDream-I1-Dev-nf4) |
 | 233 | 9 | nvidia/Cosmos-Predict2-2B-Text2ImageText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/Cosmos-Predict2-2B-Text2Image) |
 | 169 | 9 | briaai/BRIA-3 | Updatedabout 16 hours ago | [Link](https://huggingface.co/briaai/BRIA-3.2) |
+| 54 | 9 | gokaygokay/Flux-Krea-Realism-LoRAText-to-Image | Updatedabout 14 hours ago | [Link](https://huggingface.co/gokaygokay/Flux-Krea-Realism-LoRA) |
 | 215 | 8 | tensorart/stable-diffusion-3 | Updated8 minutes ago | [Link](https://huggingface.co/tensorart/stable-diffusion-3.5-large-TurboX) |
 | 34 | 8 | renderartist/coloringbookhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/coloringbookhidream) |
 | 1.79k | 8 | MaxedOut/ComfyUI-Starter-PacksText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/MaxedOut/ComfyUI-Starter-Packs) |
@@ -4663,6 +4667,7 @@ Updated on 2025-08-05
 | 11 | Unknown | kpsss34/Stable-Diffusion-3 | Updatedabout 10 hours ago | [Link](https://huggingface.co/kpsss34/Stable-Diffusion-3.5-Small-Preview1) |
 | 33 | Unknown | MintLab/FLUX-Krea-BLAZEText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/MintLab/FLUX-Krea-BLAZE) |
 | 6 | Unknown | PlayDustinDB/FLUX | Updated2 days ago | [Link](https://huggingface.co/PlayDustinDB/FLUX.1-Krea-dev-LoRA) |
+| 9.72k |  | Qwen/Qwen-ImageText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/Qwen/Qwen-Image) |
 
 ## Text-to-Speech
 
@@ -4724,6 +4729,7 @@ Updated on 2025-08-05
 | 2.61k | 14 | SPRINGLab/F5-Hindi-24KHzText-to-Speech | UpdatedJan 1 | [Link](https://huggingface.co/SPRINGLab/F5-Hindi-24KHz) |
 | 6 | 13 | OuteAI/Llama-OuteTTS-1 | Updatedabout 2 hours ago | [Link](https://huggingface.co/OuteAI/Llama-OuteTTS-1.0-1B) |
 | Updated5 days ago | 13 | OmniAICreator/Galgame-Llasa-3BText-to-Speech | 4B | [Link](https://huggingface.co/OmniAICreator/Galgame-Llasa-3B) |
+| 9 | 13 | hi-paris/ssml-breaks2ssml-fr-loraText-to-Speech | Updatedabout 3 hours ago | [Link](https://huggingface.co/hi-paris/ssml-breaks2ssml-fr-lora) |
 | 73 | 12 | geneing/KokoroText-to-Speech | UpdatedJan 10 | [Link](https://huggingface.co/geneing/Kokoro) |
 | 125 | 12 | Kamtera/persian-tts-female-vitsText-to-Speech | UpdatedMar 19, 2023 | [Link](https://huggingface.co/Kamtera/persian-tts-female-vits) |
 | 109 | 11 | NeuroDonu/RU-XTTS-DonuModelText-to-Speech | UpdatedMay 1, 2024 | [Link](https://huggingface.co/NeuroDonu/RU-XTTS-DonuModel) |
