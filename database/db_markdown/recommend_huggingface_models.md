@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-08-04
+Updated on 2025-08-05
 
 > Generated from the Hugging Face database.
 
@@ -2324,6 +2324,7 @@ Updated on 2025-08-04
 | UpdatedJul 27, 2024 | 2.06k | ahmed-masry/chartgemmaImage-to-Text | 3B | [Link](https://huggingface.co/ahmed-masry/chartgemma) |
 | 12 | 2 | a0a7/gregg-recognitionImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/a0a7/gregg-recognition) |
 | UpdatedMar 30 | 2 | huaXiaKyrie/Qwen2-VL-MedCaption2Image-to-Text | 8B | [Link](https://huggingface.co/huaXiaKyrie/Qwen2-VL-MedCaption2) |
+| UpdatedSep 7, 2023 | 2.17k | google/pix2struct-textcaps-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/google/pix2struct-textcaps-base) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -3894,6 +3895,7 @@ Updated on 2025-08-04
 | Updated6 days ago | 85 | AI-MO/Kimina-Prover-72BText | 73B | [Link](https://huggingface.co/AI-MO/Kimina-Prover-72B) |
 | 966 | 82 | ServiceNow-AI/Apriel-Nemotron-15b-ThinkerText | Updatedabout 5 hours ago | [Link](https://huggingface.co/ServiceNow-AI/Apriel-Nemotron-15b-Thinker) |
 | Updatedabout 2 hours ago | 81 | stepfun-ai/step3Text | 321B | [Link](https://huggingface.co/stepfun-ai/step3) |
+| Updated2 minutes ago | 79 | Skywork/MindLink-32B-0801Text | 33B | [Link](https://huggingface.co/Skywork/MindLink-32B-0801) |
 | 21.7k | 78 | unsloth/r1-1776-GGUFText | Updated6 days ago | [Link](https://huggingface.co/unsloth/r1-1776-GGUF) |
 | 10 | 78 | JetBrains/Mellum-4b-baseText | Updatedabout 15 hours ago | [Link](https://huggingface.co/JetBrains/Mellum-4b-base) |
 | 902 | 77 | qihoo360/Light-R1-32BText | Updatedabout 22 hours ago | [Link](https://huggingface.co/qihoo360/Light-R1-32B) |
@@ -5008,6 +5010,7 @@ Updated on 2025-08-04
 | 2 | Unknown | Lightricks/LTX-Video-ICLoRA-detailer-13b-0 | Updatedabout 12 hours ago | [Link](https://huggingface.co/Lightricks/LTX-Video-ICLoRA-detailer-13b-0.9.8) |
 | 23.6k |  | zai-org/CogVideoX-5bText-to-Video | UpdatedNov 23, 2024 | [Link](https://huggingface.co/zai-org/CogVideoX-5b) |
 | 2 | Unknown | deadman44/WAN_T2i_LoRAText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/deadman44/WAN_T2i_LoRA) |
+| 13 | Unknown | Leoxing/Live2DiffText-to-Video | UpdatedJul 17, 2024 | [Link](https://huggingface.co/Leoxing/Live2Diff) |
 
 ## Text2Text Generation
 
