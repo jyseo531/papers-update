@@ -4518,6 +4518,7 @@ Updated on 2025-08-05
 |  | 10 | openfree/paul-cezanneText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/openfree/paul-cezanne) |
 |  | 10 | openfree/van-goghText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/openfree/van-gogh) |
 |  | 10 | openfree/winslow-homerText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/openfree/winslow-homer) |
+| Updated3 minutes ago | 10 | city96/Qwen-Image-ggufText-to-Image | 20B | [Link](https://huggingface.co/city96/Qwen-Image-gguf) |
 |  | 9 | ART-Release/ART_v1 | Updatedabout 23 hours ago | [Link](https://huggingface.co/ART-Release/ART_v1.0) |
 | 9 | 9 | motimalu/wan-flat-color-v2Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/motimalu/wan-flat-color-v2) |
 | 11 | 9 | ShoufaChen/PixelFlow-Text2ImageText-to-Image | Updatedabout 19 hours ago | [Link](https://huggingface.co/ShoufaChen/PixelFlow-Text2Image) |
