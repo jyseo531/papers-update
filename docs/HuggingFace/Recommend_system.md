@@ -2289,6 +2289,7 @@ Updated on 2025-08-06
 | 6 | 7 | sujet-ai/Lutece-Vision-BaseImage-to-Text | UpdatedJul 14, 2024 | [Link](https://huggingface.co/sujet-ai/Lutece-Vision-Base) |
 | 18 | 7 | kirmorozov/mage-captcha-solverImage-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/kirmorozov/mage-captcha-solver) |
 | 55 | 7 | binery/donut_receipt_v2 | UpdatedNov 29, 2022 | [Link](https://huggingface.co/binery/donut_receipt_v2.29) |
+| 2.8k | 7 | hezarai/crnn-base-fa-v2Image-to-Text | UpdatedApr 14 | [Link](https://huggingface.co/hezarai/crnn-base-fa-v2) |
 | 624 | 6 | fhswf/TrOCR_Math_handwrittenImage-to-Text | UpdatedOct 21, 2024 | [Link](https://huggingface.co/fhswf/TrOCR_Math_handwritten) |
 | 511 | 6 | microsoft/trocr-base-strImage-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-base-str) |
 | Updated21 days ago | 6.36k | allenai/olmOCR-7B-0225-preview-FP8Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview-FP8) |
