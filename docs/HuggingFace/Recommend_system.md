@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-08-05
+Updated on 2025-08-06
 
 > Generated from the Hugging Face database.
 
@@ -1701,6 +1701,7 @@ Updated on 2025-08-05
 | 89 | 69 | CohereForAI/aya-vision-8bImage-Text-to-Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/CohereForAI/aya-vision-8b) |
 | 174 | 68 | VIDraft/Gemma-3-R1984-27BImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/VIDraft/Gemma-3-R1984-27B) |
 | 275 | 66 | microsoft/Magma-8BImage-Text-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/microsoft/Magma-8B) |
+| Updatedabout 13 hours ago | 66 | openbmb/MiniCPM-V-4Image-Text-to-Text | 4B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4) |
 | 1.47k | 64 | AIDC-AI/Ovis2-1BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-1B) |
 | 1.64k | 62 | google/gemma-3-4b-itImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-4b-it) |
 | 69 | 61 | google/gemma-3-12b-itImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-12b-it) |
@@ -3886,6 +3887,7 @@ Updated on 2025-08-05
 | 683 | 104 | Tongyi-Zhiwen/QwenLong-L1-32BText | Updatedabout 5 hours ago | [Link](https://huggingface.co/Tongyi-Zhiwen/QwenLong-L1-32B) |
 | 1.55k | 102 | Tesslate/UIGEN-T2-7B-Q8_0-GGUFText | Updatedabout 10 hours ago | [Link](https://huggingface.co/Tesslate/UIGEN-T2-7B-Q8_0-GGUF) |
 | 1.24k | 101 | nvidia/Nemotron-Research-Reasoning-Qwen-1 | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/Nemotron-Research-Reasoning-Qwen-1.5B) |
+| Updatedabout 3 hours ago | 98 | unsloth/gpt-oss-20b-GGUFText | 21B | [Link](https://huggingface.co/unsloth/gpt-oss-20b-GGUF) |
 | 2 | 95 | Qwen/Qwen3-30B-A3BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B) |
 | Updatedabout 10 hours ago | 92 | HelpingAI/Dhanishtha-2 | 15B | [Link](https://huggingface.co/HelpingAI/Dhanishtha-2.0-preview) |
 | 3 | 92 | moonshotai/Kimi-K2-BaseText | Updatedabout 10 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-K2-Base) |
@@ -3940,6 +3942,7 @@ Updated on 2025-08-05
 | 2.08k | 45 | google/gemma-3-1b-itText | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-1b-it) |
 | 170 | 44 | open-r1/OlympicCoder-7BText | Updatedabout 5 hours ago | [Link](https://huggingface.co/open-r1/OlympicCoder-7B) |
 | 5 | 44 | Qwen/Qwen3-8BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-8B) |
+| Updatedabout 3 hours ago | 44 | unsloth/gpt-oss-120b-GGUFText | 117B | [Link](https://huggingface.co/unsloth/gpt-oss-120b-GGUF) |
 | 52 | 43 | facebook/KernelLLMText | Updatedabout 11 hours ago | [Link](https://huggingface.co/facebook/KernelLLM) |
 | Updatedabout 10 hours ago | 43 | LiquidAI/LFM2-350MText | 0.4B | [Link](https://huggingface.co/LiquidAI/LFM2-350M) |
 | 1.49k | 43 | OmniSVG/OmniSVGText | Updated1 day ago | [Link](https://huggingface.co/OmniSVG/OmniSVG) |
@@ -4128,11 +4131,13 @@ Updated on 2025-08-05
 | 578k | 6.11k | meta-llama/Meta-Llama-3-8BText | UpdatedSep 27, 2024 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) |
 | Updatedabout 18 hours ago | 6 | apple/sage-ft-mixtral-8x7bText | 47B | [Link](https://huggingface.co/apple/sage-ft-mixtral-8x7b) |
 | Updated5 days ago | 6.94k | mistralai/Devstral-Small-2507_ggufText | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2507_gguf) |
+| Updatedabout 3 hours ago | 6.82k | openai/gpt-oss-20bText | 12B | [Link](https://huggingface.co/openai/gpt-oss-20b) |
 | Updated28 minutes ago | 5 | unsloth/Kimi-K2-Instruct-GGUFText | 1026B | [Link](https://huggingface.co/unsloth/Kimi-K2-Instruct-GGUF) |
 | Updatedabout 4 hours ago | 5 | tencent/Hunyuan-1 | 2B | [Link](https://huggingface.co/tencent/Hunyuan-1.8B-Instruct) |
 | Updatedabout 21 hours ago | 4.52k | unsloth/Devstral-Small-2507-GGUFText | 24B | [Link](https://huggingface.co/unsloth/Devstral-Small-2507-GGUF) |
 | Updated2 days ago | 3.87k | unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUFText | 480B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUF) |
 | Updated6 days ago | 3.39k | Qwen/Qwen3-30B-A3B-Thinking-2507-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507-FP8) |
+| Updatedabout 4 hours ago | 3.61k | openai/gpt-oss-120bText | 63B | [Link](https://huggingface.co/openai/gpt-oss-120b) |
 | Updated6 days ago | 2.04k | marcelbinz/Llama-3 | 71B | [Link](https://huggingface.co/marcelbinz/Llama-3.1-Centaur-70B) |
 | Updatedabout 2 hours ago | 2.66k | unsloth/Qwen3-235B-A22B-Instruct-2507-GGUFText | 235B | [Link](https://huggingface.co/unsloth/Qwen3-235B-A22B-Instruct-2507-GGUF) |
 | Updatedabout 10 hours ago | 2 | Qwen/Qwen3-30B-A3B-Thinking-2507Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507) |
