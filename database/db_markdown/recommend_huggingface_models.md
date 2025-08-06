@@ -22,6 +22,7 @@ Updated on 2025-08-06
 | 32.5k | 44 | onnx-community/Janus-Pro-1B-ONNXAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/onnx-community/Janus-Pro-1B-ONNX) |
 | 16.8k | 38 | openbmb/MiniCPM-o-2_6-int4Any-to-Any | UpdatedJan 22 | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6-int4) |
 | 94 | 34 | EPFL-VILAB/4M-21_XLAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-21_XL) |
+| Updated14 days ago | 29 | multimodal-reasoning-lab/Anole-Zebra-CoTAny-to-Any | 7B | [Link](https://huggingface.co/multimodal-reasoning-lab/Anole-Zebra-CoT) |
 | Updatedabout 2 hours ago | 24 | inclusionAI/Ming-Lite-Omni-1 | 19B | [Link](https://huggingface.co/inclusionAI/Ming-Lite-Omni-1.5) |
 | 2.09k | 22 | THUdyh/Ola-7bAny-to-Any | Updated6 days ago | [Link](https://huggingface.co/THUdyh/Ola-7b) |
 | 3.1k | 22 | Alpha-VLLM/Lumina-mGPT-7B-768Any-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-768) |
@@ -2226,6 +2227,7 @@ Updated on 2025-08-06
 | UpdatedApr 17, 2024 | 54 | hoang-quoc-trung/sumen-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/hoang-quoc-trung/sumen-base) |
 | 71 | 49 | stabilityai/japanese-stable-vlmImage-to-Text | UpdatedJul 10, 2024 | [Link](https://huggingface.co/stabilityai/japanese-stable-vlm) |
 | 5.28k | 48 | Ertugrul/Qwen2-VL-7B-Captioner-RelaxedImage-to-Text | UpdatedSep 26, 2024 | [Link](https://huggingface.co/Ertugrul/Qwen2-VL-7B-Captioner-Relaxed) |
+| UpdatedMay 18, 2024 | 41 | moranyanuka/blip-image-captioning-large-mochaImage-to-Text | 0.5B | [Link](https://huggingface.co/moranyanuka/blip-image-captioning-large-mocha) |
 | 246 | 40 | selvakumarcts/sk_invoice_receiptsImage-to-Text | UpdatedOct 20, 2023 | [Link](https://huggingface.co/selvakumarcts/sk_invoice_receipts) |
 | 7.54k | 36 | breezedeus/pix2text-mfrImage-to-Text | UpdatedMay 5, 2024 | [Link](https://huggingface.co/breezedeus/pix2text-mfr) |
 | 42.7k | 35 | microsoft/trocr-small-printedImage-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-small-printed) |
@@ -4462,6 +4464,7 @@ Updated on 2025-08-06
 
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
+| Updatedabout 11 hours ago | 994 | QuantStack/Qwen-Image-GGUFText-to-Image | 20B | [Link](https://huggingface.co/QuantStack/Qwen-Image-GGUF) |
 | 151k | 971 | Lykon/DreamShaperText-to-Image | UpdatedApr 14, 2024 | [Link](https://huggingface.co/Lykon/DreamShaper) |
 | 249k | 892 | city96/FLUX | UpdatedAug 18, 2024 | [Link](https://huggingface.co/city96/FLUX.1-dev-gguf) |
 | 101k | 791 | InstantX/InstantIDText-to-Image | UpdatedJan 22, 2024 | [Link](https://huggingface.co/InstantX/InstantID) |
