@@ -2200,6 +2200,8 @@ Updated on 2025-08-07
 | 7 | Unknown | UCSC-VLAA/gpt-image-edit-trainingImage-to-Image | Updated7 minutes ago | [Link](https://huggingface.co/UCSC-VLAA/gpt-image-edit-training) |
 | 64 |  | starsfriday/Kontext-Emoji-LoRAImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/starsfriday/Kontext-Emoji-LoRA) |
 | 58 |  | gokaygokay/Sketch-to-Image-Kontext-Dev-LoRAImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/gokaygokay/Sketch-to-Image-Kontext-Dev-LoRA) |
+| 28 | Unknown | GD-ML/FLUX-TextImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/GD-ML/FLUX-Text) |
+| 3 | Unknown | saquiboye/omini-kontext-characterImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/saquiboye/omini-kontext-character) |
 
 ## Image-to-Text
 
@@ -2236,6 +2238,7 @@ Updated on 2025-08-07
 | UpdatedJan 11 | 35 | AdamCodd/donut-receipts-extractImage-to-Text | 0.2B | [Link](https://huggingface.co/AdamCodd/donut-receipts-extract) |
 | Updated11 days ago | 35 | Daniil-Domino/trocr-base-ru-dialecticImage-to-Text | 0.3B | [Link](https://huggingface.co/Daniil-Domino/trocr-base-ru-dialectic) |
 | 6.34k | 32 | thwri/CogFlorence-2 | UpdatedSep 28, 2024 | [Link](https://huggingface.co/thwri/CogFlorence-2.2-Large) |
+| Updatedabout 4 hours ago | 32 | junyoung-00/Phi-3 | 4B | [Link](https://huggingface.co/junyoung-00/Phi-3.5-vision-instruct-ChartCap) |
 | 637 | 31 | U4R/StructTable-InternVL2-1BImage-to-Text | UpdatedDec 12, 2024 | [Link](https://huggingface.co/U4R/StructTable-InternVL2-1B) |
 | 9.9k | 31 | OleehyO/TexTellerImage-to-Text | UpdatedJun 22, 2024 | [Link](https://huggingface.co/OleehyO/TexTeller) |
 | 1.65k | 29 | microsoft/git-large-textcapsImage-to-Text | UpdatedFeb 8, 2023 | [Link](https://huggingface.co/microsoft/git-large-textcaps) |
@@ -3962,6 +3965,7 @@ Updated on 2025-08-07
 | 9.86k | 38 | starvector/starvector-1b-im2svgText | Updated2 days ago | [Link](https://huggingface.co/starvector/starvector-1b-im2svg) |
 | 278 | 38 | deepcogito/cogito-v1-preview-qwen-32BText | Updated1 day ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-qwen-32B) |
 | 63 | 38 | ibm-granite/granite-4 | Updated1 day ago | [Link](https://huggingface.co/ibm-granite/granite-4.0-tiny-preview) |
+| Updatedabout 10 hours ago | 38 | huihui-ai/Huihui-gpt-oss-20b-BF16-abliteratedText | 21B | [Link](https://huggingface.co/huihui-ai/Huihui-gpt-oss-20b-BF16-abliterated) |
 | 125 | 37 | microsoft/Phi-4-mini-instructText | Updatedabout 2 hours ago | [Link](https://huggingface.co/microsoft/Phi-4-mini-instruct) |
 | Updatedabout 13 hours ago | 37 | Tesslate/UIGEN-X-32B-0727Text | 0.0B | [Link](https://huggingface.co/Tesslate/UIGEN-X-32B-0727) |
 | 60 | 36 | Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1) |
@@ -4470,6 +4474,7 @@ Updated on 2025-08-07
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
 | Updatedabout 11 hours ago | 994 | QuantStack/Qwen-Image-GGUFText-to-Image | 20B | [Link](https://huggingface.co/QuantStack/Qwen-Image-GGUF) |
+| Updated1 day ago | 991 | QuantStack/Qwen-Image-Distill-GGUFText-to-Image | 20B | [Link](https://huggingface.co/QuantStack/Qwen-Image-Distill-GGUF) |
 | 151k | 971 | Lykon/DreamShaperText-to-Image | UpdatedApr 14, 2024 | [Link](https://huggingface.co/Lykon/DreamShaper) |
 | 249k | 892 | city96/FLUX | UpdatedAug 18, 2024 | [Link](https://huggingface.co/city96/FLUX.1-dev-gguf) |
 | 101k | 791 | InstantX/InstantIDText-to-Image | UpdatedJan 22, 2024 | [Link](https://huggingface.co/InstantX/InstantID) |
@@ -4700,6 +4705,7 @@ Updated on 2025-08-07
 | 5.67k | 478 | nari-labs/Dia-1 | Updatedabout 9 hours ago | [Link](https://huggingface.co/nari-labs/Dia-1.6B) |
 | 8.56k | 455 | HKUSTAudio/Llasa-3BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-3B) |
 | 199 | 451 | CAMB-AI/MARS5-TTSText-to-Speech | UpdatedJul 5, 2024 | [Link](https://huggingface.co/CAMB-AI/MARS5-TTS) |
+| Updated17 days ago | 383 | tensorblock/maya-research_Veena-GGUFText-to-Speech | 4B | [Link](https://huggingface.co/tensorblock/maya-research_Veena-GGUF) |
 | 5.64k | 352 | parler-tts/parler_tts_mini_v0 | UpdatedApr 30, 2024 | [Link](https://huggingface.co/parler-tts/parler_tts_mini_v0.1) |
 | UpdatedMay 25, 2024 | 323 | utrobinmv/tts_ru_free_hf_vits_high_multispeakerText-to-Speech | 0.0B | [Link](https://huggingface.co/utrobinmv/tts_ru_free_hf_vits_high_multispeaker) |
 | 171 | 276 | amphion/MaskGCTText-to-Speech | UpdatedDec 22, 2024 | [Link](https://huggingface.co/amphion/MaskGCT) |
@@ -4759,6 +4765,7 @@ Updated on 2025-08-07
 | 17 | 8 | MYZY-AI/Muyan-TTSText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/MYZY-AI/Muyan-TTS) |
 | 31 | 8 | marianbasti/XTTS-v2-argentinian-spanishText-to-Speech | UpdatedJul 22, 2024 | [Link](https://huggingface.co/marianbasti/XTTS-v2-argentinian-spanish) |
 | 495 | 8 | alien79/F5-TTS-italianText-to-Speech | UpdatedDec 12, 2024 | [Link](https://huggingface.co/alien79/F5-TTS-italian) |
+| Updated2 days ago | 8 | OmniAICreator/Galgame-Llasa-1B-v2Text-to-Speech | 1B | [Link](https://huggingface.co/OmniAICreator/Galgame-Llasa-1B-v2) |
 | 1.11k | 7 | DragonLineageAI/Vi-SparkTTS-0 | Updatedabout 10 hours ago | [Link](https://huggingface.co/DragonLineageAI/Vi-SparkTTS-0.5B) |
 | 9 | 7 | canopylabs/3b-zh-pretrain-research_releaseText-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/canopylabs/3b-zh-pretrain-research_release) |
 | 618 | 7 | canopylabs/3b-de-pretrain-research_releaseText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/canopylabs/3b-de-pretrain-research_release) |
@@ -5034,6 +5041,8 @@ Updated on 2025-08-07
 | 23.6k |  | zai-org/CogVideoX-5bText-to-Video | UpdatedNov 23, 2024 | [Link](https://huggingface.co/zai-org/CogVideoX-5b) |
 | 2 | Unknown | deadman44/WAN_T2i_LoRAText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/deadman44/WAN_T2i_LoRA) |
 | 13 | Unknown | Leoxing/Live2DiffText-to-Video | UpdatedJul 17, 2024 | [Link](https://huggingface.co/Leoxing/Live2Diff) |
+| 3 | Unknown | CCP6/FakeVace2 | Updatedabout 10 hours ago | [Link](https://huggingface.co/CCP6/FakeVace2.2) |
+| 3 | Unknown | Skywork/SkyReels-V2-DF-14B-720P-DiffusersText-to-Video | UpdatedJun 14 | [Link](https://huggingface.co/Skywork/SkyReels-V2-DF-14B-720P-Diffusers) |
 
 ## Text2Text Generation
 
