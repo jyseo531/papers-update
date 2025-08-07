@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-08-06
+Updated on 2025-08-07
 
 > Generated from the Hugging Face database.
 
@@ -1851,6 +1851,7 @@ Updated on 2025-08-06
 | 168 | 5 | MBZUAI/AINImage-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/MBZUAI/AIN) |
 | Updatedabout 9 hours ago | 5 | Skywork/Skywork-R1V3-38BImage-Text-to-Text | 38B | [Link](https://huggingface.co/Skywork/Skywork-R1V3-38B) |
 | Updatedabout 7 hours ago | 5 | internlm/Intern-S1Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1) |
+| Updated5 minutes ago | 3.08k | openbmb/MiniCPM-V-4-ggufImage-Text-to-Text | 4B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4-gguf) |
 | Updatedabout 7 hours ago | 2.63k | nvidia/Eagle2 | 8B | [Link](https://huggingface.co/nvidia/Eagle2.5-8B) |
 | Updatedabout 7 hours ago | 2 | internlm/Intern-S1-FP8Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1-FP8) |
 | 2.72k | 1.62k | microsoft/OmniParserImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/microsoft/OmniParser) |
@@ -2198,6 +2199,7 @@ Updated on 2025-08-06
 | 140 |  | Kontext-Style/Paper_Cutting_loraImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/Kontext-Style/Paper_Cutting_lora) |
 | 7 | Unknown | UCSC-VLAA/gpt-image-edit-trainingImage-to-Image | Updated7 minutes ago | [Link](https://huggingface.co/UCSC-VLAA/gpt-image-edit-training) |
 | 64 |  | starsfriday/Kontext-Emoji-LoRAImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/starsfriday/Kontext-Emoji-LoRA) |
+| 58 |  | gokaygokay/Sketch-to-Image-Kontext-Dev-LoRAImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/gokaygokay/Sketch-to-Image-Kontext-Dev-LoRA) |
 
 ## Image-to-Text
 
@@ -4210,6 +4212,8 @@ Updated on 2025-08-06
 | 169 | Unknown | tencent/Hunyuan-A13B-InstructText | Updatedabout 3 hours ago | [Link](https://huggingface.co/tencent/Hunyuan-A13B-Instruct) |
 | 12.2k |  | moonshotai/Kimi-K2-InstructText | Updatedabout 10 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-K2-Instruct) |
 | Updatedabout 6 hours ago |  | Qwen/Qwen3-Coder-480B-A35B-InstructText | 480B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-480B-A35B-Instruct) |
+| Updatedabout 15 hours ago |  | Qwen/Qwen3-4B-Thinking-2507Text | 4B | [Link](https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507) |
+| Updatedabout 15 hours ago |  | Qwen/Qwen3-4B-Instruct-2507Text | 4B | [Link](https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507) |
 
 ## Text Ranking
 
@@ -4678,6 +4682,8 @@ Updated on 2025-08-06
 | 33 | Unknown | MintLab/FLUX-Krea-BLAZEText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/MintLab/FLUX-Krea-BLAZE) |
 | 6 | Unknown | PlayDustinDB/FLUX | Updated2 days ago | [Link](https://huggingface.co/PlayDustinDB/FLUX.1-Krea-dev-LoRA) |
 | 9.72k |  | Qwen/Qwen-ImageText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/Qwen/Qwen-Image) |
+| 8 | Unknown | flymy-ai/qwen-image-realism-loraText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/flymy-ai/qwen-image-realism-lora) |
+| 7 | Unknown | MCG-NJU/PixNerd-XXL-P16-T2IText-to-Image | Updated2 days ago | [Link](https://huggingface.co/MCG-NJU/PixNerd-XXL-P16-T2I) |
 
 ## Text-to-Speech
 
@@ -4884,6 +4890,7 @@ Updated on 2025-08-06
 | 28k | 169 | ali-vilab/i2vgen-xlText-to-Video | UpdatedFeb 9, 2024 | [Link](https://huggingface.co/ali-vilab/i2vgen-xl) |
 | 30.2k | 141 | city96/HunyuanVideo-ggufText-to-Video | UpdatedDec 17, 2024 | [Link](https://huggingface.co/city96/HunyuanVideo-gguf) |
 | 9 | 71 | LanguageBind/Open-Sora-Plan-v1 | UpdatedDec 5, 2024 | [Link](https://huggingface.co/LanguageBind/Open-Sora-Plan-v1.3.0) |
+| 1.6k | 71 | OmniAvatar/OmniAvatar-14BText-to-Video | Updatedabout 11 hours ago | [Link](https://huggingface.co/OmniAvatar/OmniAvatar-14B) |
 | 15.2k | 65 | Skywork/SkyReels-V1-Hunyuan-T2VText-to-Video | Updatedabout 21 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-T2V) |
 | UpdatedApr 16, 2024 | 55 | nagayama0706/video_generation_modelText-to-Video | 7B | [Link](https://huggingface.co/nagayama0706/video_generation_model) |
 | Updatedabout 12 hours ago | 50 | Nichonauta/Self-Forcing2 | 1B | [Link](https://huggingface.co/Nichonauta/Self-Forcing2.1-T2V-1.3B-GGUF) |
