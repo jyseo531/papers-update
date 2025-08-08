@@ -62,6 +62,7 @@ Updated on 2025-08-08
 | Updated33 minutes ago | 2 | Gen-Verse/MMaDA-8B-PretrainAny-to-Any | 8B | [Link](https://huggingface.co/Gen-Verse/MMaDA-8B-Pretrain) |
 | Updatedabout 20 hours ago | 2 | ByteDance-Seed/Tar-1 | 3B | [Link](https://huggingface.co/ByteDance-Seed/Tar-1.5B) |
 | Updatedabout 17 hours ago | 2 | iitolstykh/Bagel-NHR-EditAny-to-Any | 15B | [Link](https://huggingface.co/iitolstykh/Bagel-NHR-Edit) |
+| 10 | 2 | Fr0zencr4nE/UniCoT-7B-MoTAny-to-Any | Updated2 minutes ago | [Link](https://huggingface.co/Fr0zencr4nE/UniCoT-7B-MoT) |
 | 170 | 1 | tezuesh/moshi_generalAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/tezuesh/moshi_general) |
 | 35 | 1 | tezuesh/IBLlama_v1Any-to-Any | UpdatedJan 24 | [Link](https://huggingface.co/tezuesh/IBLlama_v1) |
 | 43 | 1 | Athagi/Janus-Pro-7BAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/Athagi/Janus-Pro-7B) |
