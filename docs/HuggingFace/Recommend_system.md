@@ -79,6 +79,7 @@ Updated on 2025-08-08
 | Updated30 days ago | 1.59k | deepseek-community/Janus-Pro-7BAny-to-Any | 7B | [Link](https://huggingface.co/deepseek-community/Janus-Pro-7B) |
 | 7 | 1 | multimodal-reasoning-lab/Bagel-Zebra-CoTAny-to-Any | Updatedabout 8 hours ago | [Link](https://huggingface.co/multimodal-reasoning-lab/Bagel-Zebra-CoT) |
 | Updated25 minutes ago | 1 | wikeeyang/Ming-Lite-Omni-v1 | 10B | [Link](https://huggingface.co/wikeeyang/Ming-Lite-Omni-v1.5-NF4) |
+| 3 | 1 | imkebe/Janus-Pro-1B-rk3588-1 | UpdatedApr 16 | [Link](https://huggingface.co/imkebe/Janus-Pro-1B-rk3588-1.2.0) |
 | 2 | Unknown | guanwenhao/MonoSpeechAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/guanwenhao/MonoSpeech) |
 | 22 | Unknown | Goekdeniz-Guelmez/J | UpdatedOct 29, 2024 | [Link](https://huggingface.co/Goekdeniz-Guelmez/J.O.S.I.E.v4o) |
 | 1 | Unknown | hfcsrd/cryptographyAny-to-Any | UpdatedNov 17, 2024 | [Link](https://huggingface.co/hfcsrd/cryptography) |
@@ -1827,6 +1828,8 @@ Updated on 2025-08-08
 | 12.7k | 9 | unsloth/Nanonets-OCR-s-GGUFImage-Text-to-Text | Updated4 days ago | [Link](https://huggingface.co/unsloth/Nanonets-OCR-s-GGUF) |
 | Updatedabout 15 hours ago | 9 | NCSOFT/VARCO-VISION-2 | 15B | [Link](https://huggingface.co/NCSOFT/VARCO-VISION-2.0-14B) |
 | Updatedabout 13 hours ago | 9 | unsloth/GLM-4 | 9B | [Link](https://huggingface.co/unsloth/GLM-4.1V-9B-Thinking-GGUF) |
+| Updatedabout 1 hour ago | 9 | XiaomiMiMo/MiMo-VL-7B-SFT-2508Image-Text-to-Text | 8B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-VL-7B-SFT-2508) |
+| Updatedabout 1 hour ago | 9 | XiaomiMiMo/MiMo-VL-7B-RL-2508Image-Text-to-Text | 8B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-VL-7B-RL-2508) |
 | 9.71k | 8 | lmstudio-community/gemma-3-27b-it-GGUFImage-Text-to-Text | Updatedabout 18 hours ago | [Link](https://huggingface.co/lmstudio-community/gemma-3-27b-it-GGUF) |
 | 2.95k | 8 | bartowski/google_gemma-3-4b-it-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF) |
 | 725 | 8 | Mungert/gemma-3-4b-it-ggufImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/Mungert/gemma-3-4b-it-gguf) |
@@ -1892,6 +1895,7 @@ Updated on 2025-08-08
 | 9 | Unknown | Kwai-Keye/Keye-VL-8B-PreviewImage-Text-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/Kwai-Keye/Keye-VL-8B-Preview) |
 | 25 | Unknown | unsloth/gemma-3n-E4B-it-GGUFImage-Text-to-Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/unsloth/gemma-3n-E4B-it-GGUF) |
 | 42 | Unknown | merve/smol-visionImage-Text-to-Text | Updatedabout 2 hours ago | [Link](https://huggingface.co/merve/smol-vision) |
+| 9 | Unknown | MizzenAI/HPSv3Image-Text-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/MizzenAI/HPSv3) |
 
 ## Image-to-3D
 
@@ -2279,6 +2283,7 @@ Updated on 2025-08-08
 | 22 | 11 | daekeun-ml/ko-trocr-base-nsmc-news-chatbotImage-to-Text | UpdatedOct 5, 2023 | [Link](https://huggingface.co/daekeun-ml/ko-trocr-base-nsmc-news-chatbot) |
 | 2.98k | 11 | kazars24/trocr-base-handwritten-ruImage-to-Text | UpdatedOct 27, 2024 | [Link](https://huggingface.co/kazars24/trocr-base-handwritten-ru) |
 | 68 | 10 | Flova/omr_transformerImage-to-Text | UpdatedOct 5, 2023 | [Link](https://huggingface.co/Flova/omr_transformer) |
+| Updatedabout 17 hours ago | 10 | SauravCh11/Donut-CORDImage-to-Text | 0.2B | [Link](https://huggingface.co/SauravCh11/Donut-CORD) |
 | 475 | 9 | DunnBC22/trocr-base-printed_license_plates_ocrImage-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-base-printed_license_plates_ocr) |
 | 455 | 9 | fhswf/TrOCR_german_handwrittenImage-to-Text | UpdatedJun 18, 2024 | [Link](https://huggingface.co/fhswf/TrOCR_german_handwritten) |
 | UpdatedNov 20, 2023 | 9.05k | facebook/nougat-smallImage-to-Text | 0.2B | [Link](https://huggingface.co/facebook/nougat-small) |
@@ -3960,6 +3965,7 @@ Updated on 2025-08-08
 | 796 | 41 | inclusionAI/Ling-liteText | Updated1 day ago | [Link](https://huggingface.co/inclusionAI/Ling-lite) |
 | 75 | 41 | tngtech/DeepSeek-R1T-ChimeraText | Updatedabout 1 hour ago | [Link](https://huggingface.co/tngtech/DeepSeek-R1T-Chimera) |
 | Updatedabout 19 hours ago | 41 | tencent/Hunyuan-A13B-Instruct-FP8Text | 80B | [Link](https://huggingface.co/tencent/Hunyuan-A13B-Instruct-FP8) |
+| Updatedabout 2 hours ago | 41 | Intelligent-Internet/II-Search-4BText | 4B | [Link](https://huggingface.co/Intelligent-Internet/II-Search-4B) |
 | 3 | 40 | MiniMaxAI/MiniMax-M1-40kText | Updatedabout 10 hours ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M1-40k) |
 | Updated2 days ago | 40 | Tesslate/UIGEN-X-8BText | 8B | [Link](https://huggingface.co/Tesslate/UIGEN-X-8B) |
 | 4 | 39 | Qwen/Qwen3-14BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-14B) |
@@ -4691,6 +4697,7 @@ Updated on 2025-08-08
 | 9.72k |  | Qwen/Qwen-ImageText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/Qwen/Qwen-Image) |
 | 8 | Unknown | flymy-ai/qwen-image-realism-loraText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/flymy-ai/qwen-image-realism-lora) |
 | 7 | Unknown | MCG-NJU/PixNerd-XXL-P16-T2IText-to-Image | Updated2 days ago | [Link](https://huggingface.co/MCG-NJU/PixNerd-XXL-P16-T2I) |
+| 7 | Unknown | lodestones/Chroma1-HDText-to-Image | Updated31 minutes ago | [Link](https://huggingface.co/lodestones/Chroma1-HD) |
 
 ## Text-to-Speech
 
