@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-08-07
+Updated on 2025-08-08
 
 > Generated from the Hugging Face database.
 
@@ -2234,6 +2234,7 @@ Updated on 2025-08-07
 | UpdatedMay 18, 2024 | 41 | moranyanuka/blip-image-captioning-large-mochaImage-to-Text | 0.5B | [Link](https://huggingface.co/moranyanuka/blip-image-captioning-large-mocha) |
 | 246 | 40 | selvakumarcts/sk_invoice_receiptsImage-to-Text | UpdatedOct 20, 2023 | [Link](https://huggingface.co/selvakumarcts/sk_invoice_receipts) |
 | 7.54k | 36 | breezedeus/pix2text-mfrImage-to-Text | UpdatedMay 5, 2024 | [Link](https://huggingface.co/breezedeus/pix2text-mfr) |
+| Updated1 day ago | 36 | helizac/dots | 2B | [Link](https://huggingface.co/helizac/dots.ocr-4bit) |
 | 42.7k | 35 | microsoft/trocr-small-printedImage-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-small-printed) |
 | UpdatedJan 11 | 35 | AdamCodd/donut-receipts-extractImage-to-Text | 0.2B | [Link](https://huggingface.co/AdamCodd/donut-receipts-extract) |
 | Updated11 days ago | 35 | Daniil-Domino/trocr-base-ru-dialecticImage-to-Text | 0.3B | [Link](https://huggingface.co/Daniil-Domino/trocr-base-ru-dialectic) |
@@ -2250,6 +2251,7 @@ Updated on 2025-08-07
 | 4.54k | 23 | raxtemur/trocr-base-ruImage-to-Text | UpdatedMay 29, 2024 | [Link](https://huggingface.co/raxtemur/trocr-base-ru) |
 | 4.06k | 22 | noamrot/FuseCap_Image_CaptioningImage-to-Text | UpdatedJan 25, 2024 | [Link](https://huggingface.co/noamrot/FuseCap_Image_Captioning) |
 | UpdatedDec 12, 2023 | 22 | kmewhort/blip2-flan-t5-xxl-safetensorsImage-to-Text | 12B | [Link](https://huggingface.co/kmewhort/blip2-flan-t5-xxl-safetensors) |
+| Updatedabout 9 hours ago | 21 | numind/NuMarkdown-8B-ThinkingImage-to-Text | 8B | [Link](https://huggingface.co/numind/NuMarkdown-8B-Thinking) |
 | 130 | 20 | Mozilla/distilvitImage-to-Text | UpdatedNov 25, 2024 | [Link](https://huggingface.co/Mozilla/distilvit) |
 | UpdatedAug 1, 2023 | 20 | michelecafagna26/blip-base-captioning-ft-hl-scenesImage-to-Text | 0.2B | [Link](https://huggingface.co/michelecafagna26/blip-base-captioning-ft-hl-scenes) |
 | 376 | 19 | to-be/donut-base-finetuned-invoicesImage-to-Text | UpdatedMar 3, 2023 | [Link](https://huggingface.co/to-be/donut-base-finetuned-invoices) |
@@ -4789,6 +4791,7 @@ Updated on 2025-08-07
 | 263 | 4 | thepushkarp/Dia-1 | Updated3 days ago | [Link](https://huggingface.co/thepushkarp/Dia-1.6B-safetensors-fp16) |
 | 136 | 4 | mlx-community/Kokoro-82M-8bitText-to-Speech | UpdatedMar 8 | [Link](https://huggingface.co/mlx-community/Kokoro-82M-8bit) |
 | Updatedabout 3 hours ago | 4 | calcuis/higgs-ggufText-to-Speech | 6B | [Link](https://huggingface.co/calcuis/higgs-gguf) |
+| 79 | 4 | onnx-community/kitten-tts-nano-0 | Updated1 day ago | [Link](https://huggingface.co/onnx-community/kitten-tts-nano-0.1-ONNX) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 1.22k | 3 | CONCREE/Adia_TTSText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/CONCREE/Adia_TTS) |
@@ -4877,6 +4880,7 @@ Updated on 2025-08-07
 | 11 | Unknown | k2-fsa/ZipVoiceText-to-Speech | Updatedabout 2 hours ago | [Link](https://huggingface.co/k2-fsa/ZipVoice) |
 | 12 | Unknown | OpenSound/CapSpeech-modelsText-to-Speech | Updated19 days ago | [Link](https://huggingface.co/OpenSound/CapSpeech-models) |
 | 6 | Unknown | hynt/ZipVoice-Vietnamese-150hText-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/hynt/ZipVoice-Vietnamese-150h) |
+| 4 | Unknown | hynt/ZipVoice-Vietnamese-2500hText-to-Speech | Updatedabout 14 hours ago | [Link](https://huggingface.co/hynt/ZipVoice-Vietnamese-2500h) |
 
 ## Text-to-Video
 
@@ -5043,6 +5047,7 @@ Updated on 2025-08-07
 | 13 | Unknown | Leoxing/Live2DiffText-to-Video | UpdatedJul 17, 2024 | [Link](https://huggingface.co/Leoxing/Live2Diff) |
 | 3 | Unknown | CCP6/FakeVace2 | Updatedabout 10 hours ago | [Link](https://huggingface.co/CCP6/FakeVace2.2) |
 | 3 | Unknown | Skywork/SkyReels-V2-DF-14B-720P-DiffusersText-to-Video | UpdatedJun 14 | [Link](https://huggingface.co/Skywork/SkyReels-V2-DF-14B-720P-Diffusers) |
+| 3 | Unknown | CometAPI/veo3Text-to-Video | Updated16 days ago | [Link](https://huggingface.co/CometAPI/veo3) |
 
 ## Text2Text Generation
 
