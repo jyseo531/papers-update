@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-08-08
+Updated on 2025-08-09
 
 > Generated from the Hugging Face database.
 
@@ -2343,6 +2343,7 @@ Updated on 2025-08-08
 | UpdatedMar 30 | 2 | huaXiaKyrie/Qwen2-VL-MedCaption2Image-to-Text | 8B | [Link](https://huggingface.co/huaXiaKyrie/Qwen2-VL-MedCaption2) |
 | UpdatedSep 7, 2023 | 2.17k | google/pix2struct-textcaps-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/google/pix2struct-textcaps-base) |
 | 11 | 2 | michelecafagna26/vinvl-base-image-captioningImage-to-Text | UpdatedJul 27, 2023 | [Link](https://huggingface.co/michelecafagna26/vinvl-base-image-captioning) |
+| Updatedabout 3 hours ago | 2 | tcpipuk/rednote-hilab-dots | 2B | [Link](https://huggingface.co/tcpipuk/rednote-hilab-dots.ocr-GGUF) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -4159,6 +4160,7 @@ Updated on 2025-08-08
 | Updated6 days ago | 2.04k | marcelbinz/Llama-3 | 71B | [Link](https://huggingface.co/marcelbinz/Llama-3.1-Centaur-70B) |
 | Updatedabout 2 hours ago | 2.66k | unsloth/Qwen3-235B-A22B-Instruct-2507-GGUFText | 235B | [Link](https://huggingface.co/unsloth/Qwen3-235B-A22B-Instruct-2507-GGUF) |
 | Updatedabout 10 hours ago | 2 | Qwen/Qwen3-30B-A3B-Thinking-2507Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507) |
+| Updatedabout 6 hours ago | 2.73k | unsloth/gpt-oss-20bText | 22B | [Link](https://huggingface.co/unsloth/gpt-oss-20b) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
 | Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
@@ -5056,6 +5058,7 @@ Updated on 2025-08-08
 | 3 | Unknown | CCP6/FakeVace2 | Updatedabout 10 hours ago | [Link](https://huggingface.co/CCP6/FakeVace2.2) |
 | 3 | Unknown | Skywork/SkyReels-V2-DF-14B-720P-DiffusersText-to-Video | UpdatedJun 14 | [Link](https://huggingface.co/Skywork/SkyReels-V2-DF-14B-720P-Diffusers) |
 | 3 | Unknown | CometAPI/veo3Text-to-Video | Updated16 days ago | [Link](https://huggingface.co/CometAPI/veo3) |
+| 2 | Unknown | deadman44/Wan2 | Updatedabout 22 hours ago | [Link](https://huggingface.co/deadman44/Wan2.2_Workflow_for_myxx_series_LoRA) |
 
 ## Text2Text Generation
 
