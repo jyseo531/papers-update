@@ -2283,6 +2283,7 @@ Updated on 2025-08-09
 | 658 | 11 | prithivMLmods/Florence-2-VLM-Doc-VQAImage-to-Text | UpdatedOct 26, 2024 | [Link](https://huggingface.co/prithivMLmods/Florence-2-VLM-Doc-VQA) |
 | 22 | 11 | daekeun-ml/ko-trocr-base-nsmc-news-chatbotImage-to-Text | UpdatedOct 5, 2023 | [Link](https://huggingface.co/daekeun-ml/ko-trocr-base-nsmc-news-chatbot) |
 | 2.98k | 11 | kazars24/trocr-base-handwritten-ruImage-to-Text | UpdatedOct 27, 2024 | [Link](https://huggingface.co/kazars24/trocr-base-handwritten-ru) |
+| UpdatedJul 12, 2023 | 11 | nttdataspain/vit-gpt2-stablediffusion2-loraImage-to-Text | 0.3B | [Link](https://huggingface.co/nttdataspain/vit-gpt2-stablediffusion2-lora) |
 | 68 | 10 | Flova/omr_transformerImage-to-Text | UpdatedOct 5, 2023 | [Link](https://huggingface.co/Flova/omr_transformer) |
 | Updatedabout 17 hours ago | 10 | SauravCh11/Donut-CORDImage-to-Text | 0.2B | [Link](https://huggingface.co/SauravCh11/Donut-CORD) |
 | 475 | 9 | DunnBC22/trocr-base-printed_license_plates_ocrImage-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-base-printed_license_plates_ocr) |
@@ -4576,6 +4577,7 @@ Updated on 2025-08-09
 | 169 | 5 | lodestones/Chroma1-BaseText-to-Image | Updated2 days ago | [Link](https://huggingface.co/lodestones/Chroma1-Base) |
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 2.56k | 3.84k | WarriorMama777/OrangeMixsText-to-Image | UpdatedJan 7, 2024 | [Link](https://huggingface.co/WarriorMama777/OrangeMixs) |
+| Updatedabout 2 hours ago | 3.74k | calcuis/qwen-image-ggufText-to-Image | 20B | [Link](https://huggingface.co/calcuis/qwen-image-gguf) |
 | 2 | 2.77k | CompVis/stable-diffusion-v-1-4-originalText-to-Image | UpdatedNov 9, 2022 | [Link](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original) |
 | 5.16k | 2.44k | hakurei/waifu-diffusionText-to-Image | UpdatedJul 5, 2023 | [Link](https://huggingface.co/hakurei/waifu-diffusion) |
 | 90.4k | 1.31k | xinsir/controlnet-union-sdxl-1 | UpdatedJul 30, 2024 | [Link](https://huggingface.co/xinsir/controlnet-union-sdxl-1.0) |
@@ -4723,6 +4725,7 @@ Updated on 2025-08-09
 | 171 | 276 | amphion/MaskGCTText-to-Speech | UpdatedDec 22, 2024 | [Link](https://huggingface.co/amphion/MaskGCT) |
 | 1.5k | 272 | facebook/fastspeech2-en-ljspeechText-to-Speech | UpdatedJan 28, 2022 | [Link](https://huggingface.co/facebook/fastspeech2-en-ljspeech) |
 | 116k | 255 | myshell-ai/MeloTTS-EnglishText-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/MeloTTS-English) |
+| UpdatedSep 1, 2023 | 251 | facebook/mms-tts-hebText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-heb) |
 | 19.5k | 241 | parler-tts/parler-tts-large-v1Text-to-Speech | UpdatedNov 22, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-large-v1) |
 | 27.5k | 194 | suno/bark-smallText-to-Speech | UpdatedNov 10, 2023 | [Link](https://huggingface.co/suno/bark-small) |
 | Updated3 days ago | 182 | fnlp/MOSS-TTSD-v0 | 2B | [Link](https://huggingface.co/fnlp/MOSS-TTSD-v0.5) |
