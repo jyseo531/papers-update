@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-08-09
+Updated on 2025-08-10
 
 > Generated from the Hugging Face database.
 
@@ -4703,6 +4703,7 @@ Updated on 2025-08-09
 | 8 | Unknown | flymy-ai/qwen-image-realism-loraText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/flymy-ai/qwen-image-realism-lora) |
 | 7 | Unknown | MCG-NJU/PixNerd-XXL-P16-T2IText-to-Image | Updated2 days ago | [Link](https://huggingface.co/MCG-NJU/PixNerd-XXL-P16-T2I) |
 | 7 | Unknown | lodestones/Chroma1-HDText-to-Image | Updated31 minutes ago | [Link](https://huggingface.co/lodestones/Chroma1-HD) |
+| 19 | Unknown | lightx2v/Qwen-Image-LightningText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/lightx2v/Qwen-Image-Lightning) |
 
 ## Text-to-Speech
 
@@ -4829,6 +4830,7 @@ Updated on 2025-08-09
 | 287 | 3 | calcuis/openaudio-ggufText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/calcuis/openaudio-gguf) |
 | 10 | 3 | fnlp/MOSS-TTSD-v0Text-to-Speech | Updatedabout 3 hours ago | [Link](https://huggingface.co/fnlp/MOSS-TTSD-v0) |
 | UpdatedSep 1, 2023 | 3.75k | facebook/mms-tts-indText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-ind) |
+| Updatedabout 12 hours ago | 3 | Vyvo/VyvoTTS-v0-Qwen3-0 | 0.8B | [Link](https://huggingface.co/Vyvo/VyvoTTS-v0-Qwen3-0.6B) |
 | 2.36M | 2.41k | coqui/XTTS-v2Text-to-Speech | UpdatedDec 11, 2023 | [Link](https://huggingface.co/coqui/XTTS-v2) |
 | 153 | 2 | mmwillet2/Dia_GGUFText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/mmwillet2/Dia_GGUF) |
 | 55 | 2 | unsloth/Spark-TTS-0 | Updated2 days ago | [Link](https://huggingface.co/unsloth/Spark-TTS-0.5B) |
