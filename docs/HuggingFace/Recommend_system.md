@@ -2304,6 +2304,7 @@ Updated on 2025-08-10
 | 18 | 7 | kirmorozov/mage-captcha-solverImage-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/kirmorozov/mage-captcha-solver) |
 | 55 | 7 | binery/donut_receipt_v2 | UpdatedNov 29, 2022 | [Link](https://huggingface.co/binery/donut_receipt_v2.29) |
 | 2.8k | 7 | hezarai/crnn-base-fa-v2Image-to-Text | UpdatedApr 14 | [Link](https://huggingface.co/hezarai/crnn-base-fa-v2) |
+| UpdatedJan 19, 2024 | 7 | fireworks-ai/FireLLaVA-13bImage-to-Text | 13B | [Link](https://huggingface.co/fireworks-ai/FireLLaVA-13b) |
 | 624 | 6 | fhswf/TrOCR_Math_handwrittenImage-to-Text | UpdatedOct 21, 2024 | [Link](https://huggingface.co/fhswf/TrOCR_Math_handwritten) |
 | 511 | 6 | microsoft/trocr-base-strImage-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-base-str) |
 | Updated21 days ago | 6.36k | allenai/olmOCR-7B-0225-preview-FP8Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview-FP8) |
@@ -3870,6 +3871,7 @@ Updated on 2025-08-10
 |:----------|:------|:-----------|:------------|:------|
 | 4.08M | 912 | unsloth/DeepSeek-R1-GGUFText | Updated12 days ago | [Link](https://huggingface.co/unsloth/DeepSeek-R1-GGUF) |
 |  | 682 | deepseek-ai/DeepSeek-V3-0324Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3-0324) |
+| Updated5 days ago | 663k | lmstudio-community/gpt-oss-20b-MLX-8bitText | 21B | [Link](https://huggingface.co/lmstudio-community/gpt-oss-20b-MLX-8bit) |
 | Updated5 days ago | 661 | LiquidAI/LFM2-700M-GGUFText | 0.7B | [Link](https://huggingface.co/LiquidAI/LFM2-700M-GGUF) |
 |  | 565 | deepseek-ai/DeepSeek-R1-0528Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528) |
 | 894k | 486 | deepseek-ai/DeepSeek-R1-Distill-Qwen-7BText | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B) |
