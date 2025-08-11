@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-08-10
+Updated on 2025-08-11
 
 > Generated from the Hugging Face database.
 
@@ -4029,6 +4029,7 @@ Updated on 2025-08-10
 | 13.9k | 28 | Qwen/Qwen3-32B-GGUFText | Updatedabout 6 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-32B-GGUF) |
 | 30 | 28 | arcee-ai/HomunculusText | Updatedabout 12 hours ago | [Link](https://huggingface.co/arcee-ai/Homunculus) |
 | Updated22 minutes ago | 28 | LGAI-EXAONE/EXAONE-4 | 32B | [Link](https://huggingface.co/LGAI-EXAONE/EXAONE-4.0-32B) |
+| Updated3 days ago | 28.2k | DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-ggufText | 21B | [Link](https://huggingface.co/DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf) |
 | 256 | 27 | amd/Instella-3BText | Updated5 days ago | [Link](https://huggingface.co/amd/Instella-3B) |
 | 2 | 27 | allenai/OLMo-2-0325-32B-InstructText | Updatedabout 3 hours ago | [Link](https://huggingface.co/allenai/OLMo-2-0325-32B-Instruct) |
 | 9.01k | 27 | lmstudio-community/Mistral-Small-3 | Updated2 days ago | [Link](https://huggingface.co/lmstudio-community/Mistral-Small-3.1-24B-Instruct-2503-GGUF) |
