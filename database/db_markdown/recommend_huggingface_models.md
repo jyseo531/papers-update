@@ -4158,6 +4158,7 @@ Updated on 2025-08-11
 | Updated28 minutes ago | 5 | unsloth/Kimi-K2-Instruct-GGUFText | 1026B | [Link](https://huggingface.co/unsloth/Kimi-K2-Instruct-GGUF) |
 | Updatedabout 4 hours ago | 5 | tencent/Hunyuan-1 | 2B | [Link](https://huggingface.co/tencent/Hunyuan-1.8B-Instruct) |
 | Updatedabout 21 hours ago | 4.52k | unsloth/Devstral-Small-2507-GGUFText | 24B | [Link](https://huggingface.co/unsloth/Devstral-Small-2507-GGUF) |
+| Updatedabout 6 hours ago | 4 | baichuan-inc/Baichuan-M2-32BText | 33B | [Link](https://huggingface.co/baichuan-inc/Baichuan-M2-32B) |
 | Updated2 days ago | 3.87k | unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUFText | 480B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUF) |
 | Updated6 days ago | 3.39k | Qwen/Qwen3-30B-A3B-Thinking-2507-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507-FP8) |
 | Updatedabout 4 hours ago | 3.61k | openai/gpt-oss-120bText | 63B | [Link](https://huggingface.co/openai/gpt-oss-120b) |
@@ -4707,6 +4708,7 @@ Updated on 2025-08-11
 | 7 | Unknown | MCG-NJU/PixNerd-XXL-P16-T2IText-to-Image | Updated2 days ago | [Link](https://huggingface.co/MCG-NJU/PixNerd-XXL-P16-T2I) |
 | 7 | Unknown | lodestones/Chroma1-HDText-to-Image | Updated31 minutes ago | [Link](https://huggingface.co/lodestones/Chroma1-HD) |
 | 19 | Unknown | lightx2v/Qwen-Image-LightningText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/lightx2v/Qwen-Image-Lightning) |
+| 6 | Unknown | janekm/analog_filmText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/janekm/analog_film) |
 
 ## Text-to-Speech
 
