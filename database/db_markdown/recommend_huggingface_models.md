@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-08-11
+Updated on 2025-08-12
 
 > Generated from the Hugging Face database.
 
@@ -118,6 +118,7 @@ Updated on 2025-08-11
 | 3 | Unknown | BAAI/OmniGen2Any-to-Any | Updatedabout 13 hours ago | [Link](https://huggingface.co/BAAI/OmniGen2) |
 | 1 | Unknown | lithiumice/models_hubAny-to-Any | UpdatedDec 4, 2024 | [Link](https://huggingface.co/lithiumice/models_hub) |
 | 23 | Unknown | HiDream-ai/HiDream-E1-1Any-to-Any | Updatedabout 10 hours ago | [Link](https://huggingface.co/HiDream-ai/HiDream-E1-1) |
+| 1 | Unknown | sanaka87/BAGEL-ReAlignAny-to-Any | Updatedabout 1 hour ago | [Link](https://huggingface.co/sanaka87/BAGEL-ReAlign) |
 
 ## Audio Classification
 
@@ -2207,6 +2208,7 @@ Updated on 2025-08-11
 | 58 |  | gokaygokay/Sketch-to-Image-Kontext-Dev-LoRAImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/gokaygokay/Sketch-to-Image-Kontext-Dev-LoRA) |
 | 28 | Unknown | GD-ML/FLUX-TextImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/GD-ML/FLUX-Text) |
 | 3 | Unknown | saquiboye/omini-kontext-characterImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/saquiboye/omini-kontext-character) |
+| 259 |  | gokaygokay/Marble-Sculpture-Kontext-Dev-LoRAImage-to-Image | Updated28 days ago | [Link](https://huggingface.co/gokaygokay/Marble-Sculpture-Kontext-Dev-LoRA) |
 
 ## Image-to-Text
 
@@ -2264,6 +2266,7 @@ Updated on 2025-08-11
 | 433 | 17 | kpyu/video-blip-opt-2 | UpdatedMay 17, 2023 | [Link](https://huggingface.co/kpyu/video-blip-opt-2.7b-ego4d) |
 | Updated15 days ago | 17.2k | scb10x/typhoon-ocr-7bImage-to-Text | 8B | [Link](https://huggingface.co/scb10x/typhoon-ocr-7b) |
 | 207 | 16 | bipin/image-caption-generatorImage-to-Text | UpdatedJul 27, 2024 | [Link](https://huggingface.co/bipin/image-caption-generator) |
+| UpdatedSep 20, 2024 | 16 | xeko56/simple-html-generator-tokensImage-to-Text | 0.2B | [Link](https://huggingface.co/xeko56/simple-html-generator-tokens) |
 | 225 | 15 | DunnBC22/trocr-base-handwritten-OCR-handwriting_recognition_v2Image-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-base-handwritten-OCR-handwriting_recognition_v2) |
 | 1.31k | 15 | microsoft/git-largeImage-to-Text | UpdatedFeb 8, 2023 | [Link](https://huggingface.co/microsoft/git-large) |
 | 11.5k | 15 | Salesforce/blip2-flan-t5-xl-cocoImage-to-Text | UpdatedFeb 3 | [Link](https://huggingface.co/Salesforce/blip2-flan-t5-xl-coco) |
@@ -2297,6 +2300,7 @@ Updated on 2025-08-11
 | Updatedabout 4 hours ago | 8 | allenai/olmOCR-7B-0725Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0725) |
 | 34 | 8 | qantev/trocr-small-spanishImage-to-Text | UpdatedJul 18, 2024 | [Link](https://huggingface.co/qantev/trocr-small-spanish) |
 | Updated13 days ago | 8 | CraftJarvis/base-text-action-qwen2vl-7b-250717-8800-stepImage-to-Text | 8B | [Link](https://huggingface.co/CraftJarvis/base-text-action-qwen2vl-7b-250717-8800-step) |
+| UpdatedMay 23, 2024 | 8 | waleko/TikZ-llava-1 | 7B | [Link](https://huggingface.co/waleko/TikZ-llava-1.5-7b) |
 | 1.58k | 7 | DunnBC22/trocr-base-printed_captcha_ocrImage-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-base-printed_captcha_ocr) |
 | 24.7k | 7 | Riksarkivet/trocr-base-handwritten-hist-swe-2Image-to-Text | Updated11 days ago | [Link](https://huggingface.co/Riksarkivet/trocr-base-handwritten-hist-swe-2) |
 | 285 | 7 | purna419/invoice-parserImage-to-Text | UpdatedJul 10, 2023 | [Link](https://huggingface.co/purna419/invoice-parser) |
@@ -2346,6 +2350,7 @@ Updated on 2025-08-11
 | UpdatedSep 7, 2023 | 2.17k | google/pix2struct-textcaps-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/google/pix2struct-textcaps-base) |
 | 11 | 2 | michelecafagna26/vinvl-base-image-captioningImage-to-Text | UpdatedJul 27, 2023 | [Link](https://huggingface.co/michelecafagna26/vinvl-base-image-captioning) |
 | Updatedabout 3 hours ago | 2 | tcpipuk/rednote-hilab-dots | 2B | [Link](https://huggingface.co/tcpipuk/rednote-hilab-dots.ocr-GGUF) |
+| UpdatedSep 20, 2024 | 2 | Isotr0py/HuatuoGPT-Vision-7B-hfImage-to-Text | 8B | [Link](https://huggingface.co/Isotr0py/HuatuoGPT-Vision-7B-hf) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
