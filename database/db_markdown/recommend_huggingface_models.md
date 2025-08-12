@@ -119,6 +119,8 @@ Updated on 2025-08-12
 | 1 | Unknown | lithiumice/models_hubAny-to-Any | UpdatedDec 4, 2024 | [Link](https://huggingface.co/lithiumice/models_hub) |
 | 23 | Unknown | HiDream-ai/HiDream-E1-1Any-to-Any | Updatedabout 10 hours ago | [Link](https://huggingface.co/HiDream-ai/HiDream-E1-1) |
 | 1 | Unknown | sanaka87/BAGEL-ReAlignAny-to-Any | Updatedabout 1 hour ago | [Link](https://huggingface.co/sanaka87/BAGEL-ReAlign) |
+| 3 | Unknown | Skywork/UniPic2-Metaquery-9BAny-to-Any | Updatedabout 1 hour ago | [Link](https://huggingface.co/Skywork/UniPic2-Metaquery-9B) |
+| 2 | Unknown | Skywork/UniPic2-SD3 | Updatedabout 1 hour ago | [Link](https://huggingface.co/Skywork/UniPic2-SD3.5M-Kontext-2B) |
 
 ## Audio Classification
 
@@ -1898,6 +1900,7 @@ Updated on 2025-08-12
 | 25 | Unknown | unsloth/gemma-3n-E4B-it-GGUFImage-Text-to-Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/unsloth/gemma-3n-E4B-it-GGUF) |
 | 42 | Unknown | merve/smol-visionImage-Text-to-Text | Updatedabout 2 hours ago | [Link](https://huggingface.co/merve/smol-vision) |
 | 9 | Unknown | MizzenAI/HPSv3Image-Text-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/MizzenAI/HPSv3) |
+| 25 | Unknown | inclusionAI/Ming-Lite-UniImage-Text-to-Text | UpdatedMay 14 | [Link](https://huggingface.co/inclusionAI/Ming-Lite-Uni) |
 
 ## Image-to-3D
 
@@ -2301,6 +2304,7 @@ Updated on 2025-08-12
 | 34 | 8 | qantev/trocr-small-spanishImage-to-Text | UpdatedJul 18, 2024 | [Link](https://huggingface.co/qantev/trocr-small-spanish) |
 | Updated13 days ago | 8 | CraftJarvis/base-text-action-qwen2vl-7b-250717-8800-stepImage-to-Text | 8B | [Link](https://huggingface.co/CraftJarvis/base-text-action-qwen2vl-7b-250717-8800-step) |
 | UpdatedMay 23, 2024 | 8 | waleko/TikZ-llava-1 | 7B | [Link](https://huggingface.co/waleko/TikZ-llava-1.5-7b) |
+| Updatedabout 3 hours ago | 8 | xlangai/OpenCUA-7BImage-to-Text | 8B | [Link](https://huggingface.co/xlangai/OpenCUA-7B) |
 | 1.58k | 7 | DunnBC22/trocr-base-printed_captcha_ocrImage-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-base-printed_captcha_ocr) |
 | 24.7k | 7 | Riksarkivet/trocr-base-handwritten-hist-swe-2Image-to-Text | Updated11 days ago | [Link](https://huggingface.co/Riksarkivet/trocr-base-handwritten-hist-swe-2) |
 | 285 | 7 | purna419/invoice-parserImage-to-Text | UpdatedJul 10, 2023 | [Link](https://huggingface.co/purna419/invoice-parser) |
@@ -2351,6 +2355,7 @@ Updated on 2025-08-12
 | 11 | 2 | michelecafagna26/vinvl-base-image-captioningImage-to-Text | UpdatedJul 27, 2023 | [Link](https://huggingface.co/michelecafagna26/vinvl-base-image-captioning) |
 | Updatedabout 3 hours ago | 2 | tcpipuk/rednote-hilab-dots | 2B | [Link](https://huggingface.co/tcpipuk/rednote-hilab-dots.ocr-GGUF) |
 | UpdatedSep 20, 2024 | 2 | Isotr0py/HuatuoGPT-Vision-7B-hfImage-to-Text | 8B | [Link](https://huggingface.co/Isotr0py/HuatuoGPT-Vision-7B-hf) |
+| 2.29k | 2 | PaddlePaddle/korean_PP-OCRv5_mobile_recImage-to-Text | Updated21 days ago | [Link](https://huggingface.co/PaddlePaddle/korean_PP-OCRv5_mobile_rec) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -3944,6 +3949,7 @@ Updated on 2025-08-12
 | Updated1 day ago | 62 | Tesslate/UIGEN-X-4B-0729Text | 4B | [Link](https://huggingface.co/Tesslate/UIGEN-X-4B-0729) |
 | Updated1 day ago | 61 | KurmaAI/AQUA-7BText | 7B | [Link](https://huggingface.co/KurmaAI/AQUA-7B) |
 | Updated2 days ago | 60 | Alibaba-NLP/WebDancer-32BText | 33B | [Link](https://huggingface.co/Alibaba-NLP/WebDancer-32B) |
+| Updatedabout 1 hour ago | 59 | janhq/Jan-v1-4BText | 4B | [Link](https://huggingface.co/janhq/Jan-v1-4B) |
 | Updatedabout 17 hours ago | 58 | microsoft/Phi-4-mini-flash-reasoningText | 4B | [Link](https://huggingface.co/microsoft/Phi-4-mini-flash-reasoning) |
 | Updatedabout 10 hours ago | 58 | unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUFText | 31B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF) |
 | 406 | 57 | LatitudeGames/Wayfarer-Large-70B-Llama-3 | Updated6 days ago | [Link](https://huggingface.co/LatitudeGames/Wayfarer-Large-70B-Llama-3.3) |
@@ -4160,10 +4166,12 @@ Updated on 2025-08-12
 | Updatedabout 18 hours ago | 6 | apple/sage-ft-mixtral-8x7bText | 47B | [Link](https://huggingface.co/apple/sage-ft-mixtral-8x7b) |
 | Updated5 days ago | 6.94k | mistralai/Devstral-Small-2507_ggufText | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2507_gguf) |
 | Updatedabout 3 hours ago | 6.82k | openai/gpt-oss-20bText | 12B | [Link](https://huggingface.co/openai/gpt-oss-20b) |
+| Updated2 days ago | 6 | inclusionAI/Ling-lite-1 | 17B | [Link](https://huggingface.co/inclusionAI/Ling-lite-1.5-2507) |
 | Updated28 minutes ago | 5 | unsloth/Kimi-K2-Instruct-GGUFText | 1026B | [Link](https://huggingface.co/unsloth/Kimi-K2-Instruct-GGUF) |
 | Updatedabout 4 hours ago | 5 | tencent/Hunyuan-1 | 2B | [Link](https://huggingface.co/tencent/Hunyuan-1.8B-Instruct) |
 | Updatedabout 21 hours ago | 4.52k | unsloth/Devstral-Small-2507-GGUFText | 24B | [Link](https://huggingface.co/unsloth/Devstral-Small-2507-GGUF) |
 | Updatedabout 6 hours ago | 4 | baichuan-inc/Baichuan-M2-32BText | 33B | [Link](https://huggingface.co/baichuan-inc/Baichuan-M2-32B) |
+| UpdatedMay 14 | 4 | inclusionAI/Ling-lite-base-1 | 17B | [Link](https://huggingface.co/inclusionAI/Ling-lite-base-1.5) |
 | Updated2 days ago | 3.87k | unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUFText | 480B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUF) |
 | Updated6 days ago | 3.39k | Qwen/Qwen3-30B-A3B-Thinking-2507-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507-FP8) |
 | Updatedabout 4 hours ago | 3.61k | openai/gpt-oss-120bText | 63B | [Link](https://huggingface.co/openai/gpt-oss-120b) |
