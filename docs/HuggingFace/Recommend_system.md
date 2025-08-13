@@ -122,6 +122,8 @@ Updated on 2025-08-13
 | 3 | Unknown | Skywork/UniPic2-Metaquery-9BAny-to-Any | Updatedabout 1 hour ago | [Link](https://huggingface.co/Skywork/UniPic2-Metaquery-9B) |
 | 2 | Unknown | Skywork/UniPic2-SD3 | Updatedabout 1 hour ago | [Link](https://huggingface.co/Skywork/UniPic2-SD3.5M-Kontext-2B) |
 | 2 | Unknown | Skywork/UniPic2-Metaquery-FlashAny-to-Any | Updatedabout 9 hours ago | [Link](https://huggingface.co/Skywork/UniPic2-Metaquery-Flash) |
+| 3 | Unknown | Skywork/UniPic2-Metaquery-GRPO-FlashAny-to-Any | Updatedabout 5 hours ago | [Link](https://huggingface.co/Skywork/UniPic2-Metaquery-GRPO-Flash) |
+| 2 | Unknown | Skywork/UniPic2-Metaquery-GRPO-9BAny-to-Any | Updatedabout 9 hours ago | [Link](https://huggingface.co/Skywork/UniPic2-Metaquery-GRPO-9B) |
 
 ## Audio Classification
 
@@ -4173,6 +4175,7 @@ Updated on 2025-08-13
 | Updated5 days ago | 6.94k | mistralai/Devstral-Small-2507_ggufText | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2507_gguf) |
 | Updatedabout 3 hours ago | 6.82k | openai/gpt-oss-20bText | 12B | [Link](https://huggingface.co/openai/gpt-oss-20b) |
 | Updated2 days ago | 6 | inclusionAI/Ling-lite-1 | 17B | [Link](https://huggingface.co/inclusionAI/Ling-lite-1.5-2507) |
+| UpdatedApr 14 | 6 | inclusionAI/Ling-plusText | 293B | [Link](https://huggingface.co/inclusionAI/Ling-plus) |
 | Updated28 minutes ago | 5 | unsloth/Kimi-K2-Instruct-GGUFText | 1026B | [Link](https://huggingface.co/unsloth/Kimi-K2-Instruct-GGUF) |
 | Updatedabout 4 hours ago | 5 | tencent/Hunyuan-1 | 2B | [Link](https://huggingface.co/tencent/Hunyuan-1.8B-Instruct) |
 | Updatedabout 21 hours ago | 4.52k | unsloth/Devstral-Small-2507-GGUFText | 24B | [Link](https://huggingface.co/unsloth/Devstral-Small-2507-GGUF) |
@@ -4587,6 +4590,7 @@ Updated on 2025-08-13
 | 58 | 7 | Freepik/F-Lite-TextureText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Freepik/F-Lite-Texture) |
 | 41 | 7 | renderartist/simplevectorhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/simplevectorhidream) |
 | 26 | 7 | ooutlierr/fuse-ditText-to-Image | Updated3 days ago | [Link](https://huggingface.co/ooutlierr/fuse-dit) |
+| 6 | 7 | Arrexel/pattern-diffusionText-to-Image | Updated5 days ago | [Link](https://huggingface.co/Arrexel/pattern-diffusion) |
 | 1.07k | 6 | DFloat11/FLUX | Updated1 day ago | [Link](https://huggingface.co/DFloat11/FLUX.1-dev-DF11) |
 | 836 | 6 | Minthy/RouWei-0 | Updated3 days ago | [Link](https://huggingface.co/Minthy/RouWei-0.8) |
 | 169 | 6 | PosterCraft/PosterCraft-v1_RLText-to-Image | Updated2 days ago | [Link](https://huggingface.co/PosterCraft/PosterCraft-v1_RL) |
@@ -4729,6 +4733,7 @@ Updated on 2025-08-13
 | 7 | Unknown | lodestones/Chroma1-HDText-to-Image | Updated31 minutes ago | [Link](https://huggingface.co/lodestones/Chroma1-HD) |
 | 19 | Unknown | lightx2v/Qwen-Image-LightningText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/lightx2v/Qwen-Image-Lightning) |
 | 6 | Unknown | janekm/analog_filmText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/janekm/analog_film) |
+| 6 | Unknown | alfredplpl/qwen-image-modern-anime-loraText-to-Image | Updated10 minutes ago | [Link](https://huggingface.co/alfredplpl/qwen-image-modern-anime-lora) |
 
 ## Text-to-Speech
 
