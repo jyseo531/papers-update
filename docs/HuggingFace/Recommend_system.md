@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-08-12
+Updated on 2025-08-13
 
 > Generated from the Hugging Face database.
 
@@ -121,6 +121,7 @@ Updated on 2025-08-12
 | 1 | Unknown | sanaka87/BAGEL-ReAlignAny-to-Any | Updatedabout 1 hour ago | [Link](https://huggingface.co/sanaka87/BAGEL-ReAlign) |
 | 3 | Unknown | Skywork/UniPic2-Metaquery-9BAny-to-Any | Updatedabout 1 hour ago | [Link](https://huggingface.co/Skywork/UniPic2-Metaquery-9B) |
 | 2 | Unknown | Skywork/UniPic2-SD3 | Updatedabout 1 hour ago | [Link](https://huggingface.co/Skywork/UniPic2-SD3.5M-Kontext-2B) |
+| 2 | Unknown | Skywork/UniPic2-Metaquery-FlashAny-to-Any | Updatedabout 9 hours ago | [Link](https://huggingface.co/Skywork/UniPic2-Metaquery-Flash) |
 
 ## Audio Classification
 
@@ -1745,12 +1746,14 @@ Updated on 2025-08-12
 | 5 | 27 | openfree/Gemma-3-R1984-12B-Q8_0-GGUFImage-Text-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/openfree/Gemma-3-R1984-12B-Q8_0-GGUF) |
 | 4 | 27 | openfree/Gemma-3-R1984-12B-Q6_K-GGUFImage-Text-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/openfree/Gemma-3-R1984-12B-Q6_K-GGUF) |
 | 1.18k | 27 | google/gemma-3n-E2B-itImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/google/gemma-3n-E2B-it) |
+| Updatedabout 8 hours ago | 27 | LiquidAI/LFM2-VL-1 | 2B | [Link](https://huggingface.co/LiquidAI/LFM2-VL-1.6B) |
 | 3 | 26 | openfree/Gemma-3-R1984-27B-Q8_0-GGUFImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/openfree/Gemma-3-R1984-27B-Q8_0-GGUF) |
 | 4 | 26 | openfree/Gemma-3-R1984-27B-Q6_K-GGUFImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/openfree/Gemma-3-R1984-27B-Q6_K-GGUF) |
 | 3 | 26 | openfree/Mistral-Small-3 | Updatedabout 8 hours ago | [Link](https://huggingface.co/openfree/Mistral-Small-3.1-24B-Instruct-2503-Q8_0-GGUF) |
 | 190 | 26 | facebook/Perception-LM-8BImage-Text-to-Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/facebook/Perception-LM-8B) |
 | 10 | 25 | openfree/Gemma-3-R1984-27B-Q4_K_M-GGUFImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/openfree/Gemma-3-R1984-27B-Q4_K_M-GGUF) |
 | 66 | 25 | google/gemma-3-4b-it-qat-q4_0-ggufImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/google/gemma-3-4b-it-qat-q4_0-gguf) |
+| Updatedabout 8 hours ago | 25 | LiquidAI/LFM2-VL-450MImage-Text-to-Text | 0.5B | [Link](https://huggingface.co/LiquidAI/LFM2-VL-450M) |
 | 280 | 24 | google/paligemma2-28b-mix-448Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-28b-mix-448) |
 | 667 | 24 | nvidia/Eagle2-2BImage-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/nvidia/Eagle2-2B) |
 | 27 | 22 | ByteDance-Seed/UI-TARS-1 | Updated14 minutes ago | [Link](https://huggingface.co/ByteDance-Seed/UI-TARS-1.5-7B) |
@@ -2356,6 +2359,8 @@ Updated on 2025-08-12
 | Updatedabout 3 hours ago | 2 | tcpipuk/rednote-hilab-dots | 2B | [Link](https://huggingface.co/tcpipuk/rednote-hilab-dots.ocr-GGUF) |
 | UpdatedSep 20, 2024 | 2 | Isotr0py/HuatuoGPT-Vision-7B-hfImage-to-Text | 8B | [Link](https://huggingface.co/Isotr0py/HuatuoGPT-Vision-7B-hf) |
 | 2.29k | 2 | PaddlePaddle/korean_PP-OCRv5_mobile_recImage-to-Text | Updated21 days ago | [Link](https://huggingface.co/PaddlePaddle/korean_PP-OCRv5_mobile_rec) |
+| Updated18 minutes ago | 2 | xlangai/OpenCUA-32BImage-to-Text | 33B | [Link](https://huggingface.co/xlangai/OpenCUA-32B) |
+| UpdatedAug 10, 2024 | 2 | us4/trocr-mathwritingImage-to-Text | 0.6B | [Link](https://huggingface.co/us4/trocr-mathwriting) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -4160,6 +4165,7 @@ Updated on 2025-08-12
 | 57 | 14 | katanemo/Arch-Agent-32BText | Updated3 days ago | [Link](https://huggingface.co/katanemo/Arch-Agent-32B) |
 | Updatedabout 10 hours ago | 11.9k | unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUFText | 31B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUF) |
 | Updated3 days ago | 8.32k | trillionlabs/Tri-21BText | 21B | [Link](https://huggingface.co/trillionlabs/Tri-21B) |
+| Updatedabout 14 hours ago | 8 | janhq/Jan-v1-4B-GGUFText | 4B | [Link](https://huggingface.co/janhq/Jan-v1-4B-GGUF) |
 | Updated2 days ago | 7.65k | Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8) |
 | Updatedabout 4 hours ago | 7 | tencent/Hunyuan-7B-InstructText | 8B | [Link](https://huggingface.co/tencent/Hunyuan-7B-Instruct) |
 | 578k | 6.11k | meta-llama/Meta-Llama-3-8BText | UpdatedSep 27, 2024 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) |
@@ -4587,6 +4593,7 @@ Updated on 2025-08-12
 | 68 | 6 | day-dream/MechAnything-Kontext-Dev-LoraText-to-Image | Updated2 days ago | [Link](https://huggingface.co/day-dream/MechAnything-Kontext-Dev-Lora) |
 | 50 | 6 | ostris/wan22_5b_i2v_crush_it_loraText-to-Image | Updated2 days ago | [Link](https://huggingface.co/ostris/wan22_5b_i2v_crush_it_lora) |
 | 23 | 6 | prithivMLmods/Flux | Updated3 days ago | [Link](https://huggingface.co/prithivMLmods/Flux.1-Krea-Merged-Dev) |
+| 273 | 6 | lodestones/Chroma1-FlashText-to-Image | Updated3 days ago | [Link](https://huggingface.co/lodestones/Chroma1-Flash) |
 | 42 | 5 | Shakker-Labs/RepTextText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Shakker-Labs/RepText) |
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
