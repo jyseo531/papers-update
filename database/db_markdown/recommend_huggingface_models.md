@@ -4595,6 +4595,7 @@ Updated on 2025-08-14
 | 41 | 7 | renderartist/simplevectorhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/simplevectorhidream) |
 | 26 | 7 | ooutlierr/fuse-ditText-to-Image | Updated3 days ago | [Link](https://huggingface.co/ooutlierr/fuse-dit) |
 | 6 | 7 | Arrexel/pattern-diffusionText-to-Image | Updated5 days ago | [Link](https://huggingface.co/Arrexel/pattern-diffusion) |
+| 37 | 7 | opendiffusionai/sd-flow-alphaText-to-Image | Updated1 day ago | [Link](https://huggingface.co/opendiffusionai/sd-flow-alpha) |
 | 1.07k | 6 | DFloat11/FLUX | Updated1 day ago | [Link](https://huggingface.co/DFloat11/FLUX.1-dev-DF11) |
 | 836 | 6 | Minthy/RouWei-0 | Updated3 days ago | [Link](https://huggingface.co/Minthy/RouWei-0.8) |
 | 169 | 6 | PosterCraft/PosterCraft-v1_RLText-to-Image | Updated2 days ago | [Link](https://huggingface.co/PosterCraft/PosterCraft-v1_RL) |
@@ -5099,6 +5100,7 @@ Updated on 2025-08-14
 | 3 | Unknown | Skywork/SkyReels-V2-DF-14B-720P-DiffusersText-to-Video | UpdatedJun 14 | [Link](https://huggingface.co/Skywork/SkyReels-V2-DF-14B-720P-Diffusers) |
 | 3 | Unknown | CometAPI/veo3Text-to-Video | Updated16 days ago | [Link](https://huggingface.co/CometAPI/veo3) |
 | 2 | Unknown | deadman44/Wan2 | Updatedabout 22 hours ago | [Link](https://huggingface.co/deadman44/Wan2.2_Workflow_for_myxx_series_LoRA) |
+| 17 | Unknown | BowenXue/Stand-InText-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/BowenXue/Stand-In) |
 
 ## Text2Text Generation
 
