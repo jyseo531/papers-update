@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-08-13
+Updated on 2025-08-14
 
 > Generated from the Hugging Face database.
 
@@ -2217,6 +2217,7 @@ Updated on 2025-08-13
 | 28 | Unknown | GD-ML/FLUX-TextImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/GD-ML/FLUX-Text) |
 | 3 | Unknown | saquiboye/omini-kontext-characterImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/saquiboye/omini-kontext-character) |
 | 259 |  | gokaygokay/Marble-Sculpture-Kontext-Dev-LoRAImage-to-Image | Updated28 days ago | [Link](https://huggingface.co/gokaygokay/Marble-Sculpture-Kontext-Dev-LoRA) |
+| 4 | Unknown | Arm/neural-super-samplingImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/Arm/neural-super-sampling) |
 
 ## Image-to-Text
 
@@ -2363,6 +2364,8 @@ Updated on 2025-08-13
 | 2.29k | 2 | PaddlePaddle/korean_PP-OCRv5_mobile_recImage-to-Text | Updated21 days ago | [Link](https://huggingface.co/PaddlePaddle/korean_PP-OCRv5_mobile_rec) |
 | Updated18 minutes ago | 2 | xlangai/OpenCUA-32BImage-to-Text | 33B | [Link](https://huggingface.co/xlangai/OpenCUA-32B) |
 | UpdatedAug 10, 2024 | 2 | us4/trocr-mathwritingImage-to-Text | 0.6B | [Link](https://huggingface.co/us4/trocr-mathwriting) |
+| Updatedabout 5 hours ago | 2 | allenai/olmOCR-7B-0825Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0825) |
+| UpdatedJun 17 | 2.19k | thesby/Qwen2 | 8B | [Link](https://huggingface.co/thesby/Qwen2.5-VL-7B-NSFW-Caption-V3) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -3934,6 +3937,7 @@ Updated on 2025-08-13
 | 420 | 88 | all-hands/openhands-lm-32b-v0 | Updatedabout 16 hours ago | [Link](https://huggingface.co/all-hands/openhands-lm-32b-v0.1) |
 | 3.93k | 86 | PocketDoc/Dans-PersonalityEngine-V1 | Updated24 days ago | [Link](https://huggingface.co/PocketDoc/Dans-PersonalityEngine-V1.2.0-24b) |
 | Updated6 days ago | 85 | AI-MO/Kimina-Prover-72BText | 73B | [Link](https://huggingface.co/AI-MO/Kimina-Prover-72B) |
+| Updatedabout 3 hours ago | 83 | jxm/gpt-oss-20b-baseText | 21B | [Link](https://huggingface.co/jxm/gpt-oss-20b-base) |
 | 966 | 82 | ServiceNow-AI/Apriel-Nemotron-15b-ThinkerText | Updatedabout 5 hours ago | [Link](https://huggingface.co/ServiceNow-AI/Apriel-Nemotron-15b-Thinker) |
 | Updatedabout 2 hours ago | 81 | stepfun-ai/step3Text | 321B | [Link](https://huggingface.co/stepfun-ai/step3) |
 | Updated2 minutes ago | 79 | Skywork/MindLink-32B-0801Text | 33B | [Link](https://huggingface.co/Skywork/MindLink-32B-0801) |
@@ -4818,6 +4822,7 @@ Updated on 2025-08-13
 | 27 | 7 | canopylabs/3b-hi-ft-research_releaseText-to-Speech | Updatedabout 23 hours ago | [Link](https://huggingface.co/canopylabs/3b-hi-ft-research_release) |
 | 73 | 7 | onnx-community/orpheus-3b-0 | UpdatedMar 26 | [Link](https://huggingface.co/onnx-community/orpheus-3b-0.1-ft-ONNX) |
 | 6 | 7 | nassimaODL/ssml-breaks2ssml-fr-loraText-to-Speech | Updatedabout 21 hours ago | [Link](https://huggingface.co/nassimaODL/ssml-breaks2ssml-fr-lora) |
+| Updatedabout 5 hours ago | 7 | Vyvo/VyvoTTS-LFM2-350M-JennyText-to-Speech | 0.4B | [Link](https://huggingface.co/Vyvo/VyvoTTS-LFM2-350M-Jenny) |
 | 13 | 6 | ntdgo/ttsviText-to-Speech | UpdatedApr 17, 2024 | [Link](https://huggingface.co/ntdgo/ttsvi) |
 | 29 | 6 | erax-ai/EraX-Smile-UnixSex-F5Text-to-Speech | Updatedabout 8 hours ago | [Link](https://huggingface.co/erax-ai/EraX-Smile-UnixSex-F5) |
 | 29 | 6 | ICTNLP/SLED-TTS-Streaming-LibriheavyText-to-Speech | Updatedabout 18 hours ago | [Link](https://huggingface.co/ICTNLP/SLED-TTS-Streaming-Libriheavy) |
