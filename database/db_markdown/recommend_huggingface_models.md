@@ -4590,6 +4590,7 @@ Updated on 2025-08-14
 | 34 | 8 | renderartist/coloringbookhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/coloringbookhidream) |
 | 1.79k | 8 | MaxedOut/ComfyUI-Starter-PacksText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/MaxedOut/ComfyUI-Starter-Packs) |
 | 1.09k | 8 | Clybius/FLUX | Updatedabout 20 hours ago | [Link](https://huggingface.co/Clybius/FLUX.1-Krea-dev-scaled-fp8) |
+| 4 | 8 | KBlueLeaf/HDM-xut-340M-animeText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/KBlueLeaf/HDM-xut-340M-anime) |
 | 1.69k | 7 | silveroxides/Chroma-GGUFText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/silveroxides/Chroma-GGUF) |
 | 58 | 7 | Freepik/F-Lite-TextureText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Freepik/F-Lite-Texture) |
 | 41 | 7 | renderartist/simplevectorhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/simplevectorhidream) |
