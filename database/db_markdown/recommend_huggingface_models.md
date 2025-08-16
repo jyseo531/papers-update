@@ -2222,6 +2222,9 @@ Updated on 2025-08-16
 | 3 | Unknown | saquiboye/omini-kontext-characterImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/saquiboye/omini-kontext-character) |
 | 259 |  | gokaygokay/Marble-Sculpture-Kontext-Dev-LoRAImage-to-Image | Updated28 days ago | [Link](https://huggingface.co/gokaygokay/Marble-Sculpture-Kontext-Dev-LoRA) |
 | 4 | Unknown | Arm/neural-super-samplingImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/Arm/neural-super-sampling) |
+| 3 | Unknown | LongfeiHuang/SDMatteImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/LongfeiHuang/SDMatte) |
+| 3 | Unknown | Abhinavexists/SeeSharpImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/Abhinavexists/SeeSharp) |
+| 6 | Unknown | Phips/4xNomos8kSCHAT-LImage-to-Image | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Phips/4xNomos8kSCHAT-L) |
 
 ## Image-to-Text
 
@@ -4942,6 +4945,7 @@ Updated on 2025-08-16
 | 12 | Unknown | OpenSound/CapSpeech-modelsText-to-Speech | Updated19 days ago | [Link](https://huggingface.co/OpenSound/CapSpeech-models) |
 | 6 | Unknown | hynt/ZipVoice-Vietnamese-150hText-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/hynt/ZipVoice-Vietnamese-150h) |
 | 4 | Unknown | hynt/ZipVoice-Vietnamese-2500hText-to-Speech | Updatedabout 14 hours ago | [Link](https://huggingface.co/hynt/ZipVoice-Vietnamese-2500h) |
+| 5 | Unknown | cosrigel/dia-finetuning-vneseText-to-Speech | Updatedabout 8 hours ago | [Link](https://huggingface.co/cosrigel/dia-finetuning-vnese) |
 
 ## Text-to-Video
 
