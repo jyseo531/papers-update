@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-08-15
+Updated on 2025-08-16
 
 > Generated from the Hugging Face database.
 
@@ -1722,6 +1722,7 @@ Updated on 2025-08-15
 | 1.38k | 54 | ByteDance/Sa2VA-8BImage-Text-to-Text | UpdatedJan 14 | [Link](https://huggingface.co/ByteDance/Sa2VA-8B) |
 | 6.92k | 53 | 5CD-AI/Vintern-1B-v3_5Image-Text-to-Text | UpdatedFeb 12 | [Link](https://huggingface.co/5CD-AI/Vintern-1B-v3_5) |
 | 88 | 53 | nanonets/Nanonets-OCR-sImage-Text-to-Text | Updatedabout 15 hours ago | [Link](https://huggingface.co/nanonets/Nanonets-OCR-s) |
+| Updated2 days ago | 52 | inference-net/ClipTagger-12bImage-Text-to-Text | 12B | [Link](https://huggingface.co/inference-net/ClipTagger-12b) |
 | 1.27k | 51 | AIDC-AI/Ovis2-8BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-8B) |
 | 848 | 47 | AIDC-AI/Ovis2-2BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-2B) |
 | 79.7k | 47 | Qwen/Qwen2-VL-7BImage-Text-to-Text | UpdatedJan 12 | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B) |
@@ -1734,6 +1735,7 @@ Updated on 2025-08-15
 | 12.4k | 38 | zhibinlan/LLaVE-2BImage-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/zhibinlan/LLaVE-2B) |
 | 7.23k | 38 | nvidia/Cosmos-Reason1-7BImage-Text-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/nvidia/Cosmos-Reason1-7B) |
 | 3.51k | 37 | HuggingFaceTB/SmolVLM2-500M-Video-InstructImage-Text-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM2-500M-Video-Instruct) |
+| Updated1 day ago | 37 | xlangai/OpenCUA-32BImage-Text-to-Text | 33B | [Link](https://huggingface.co/xlangai/OpenCUA-32B) |
 | 23 | 35 | google/gemma-3-27b-it-qat-q4_0-ggufImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-it-qat-q4_0-gguf) |
 | 1.51k | 35 | unsloth/Llama-4-Scout-17B-16E-Instruct-unsloth-bnb-4bitImage-Text-to-Text | Updatedabout 2 hours ago | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct-unsloth-bnb-4bit) |
 | 810 | 35 | fancyfeast/llama-joycaption-beta-one-hf-llavaImage-Text-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/fancyfeast/llama-joycaption-beta-one-hf-llava) |
@@ -4784,6 +4786,7 @@ Updated on 2025-08-15
 | 24.4k | 83 | myshell-ai/MeloTTS-ChineseText-to-Speech | UpdatedMar 1, 2024 | [Link](https://huggingface.co/myshell-ai/MeloTTS-Chinese) |
 | 2.42k | 77 | FunAudioLLM/CosyVoice2-0 | UpdatedDec 27, 2024 | [Link](https://huggingface.co/FunAudioLLM/CosyVoice2-0.5B) |
 | 162 | 72 | canopylabs/orpheus-3b-0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/canopylabs/orpheus-3b-0.1-ft) |
+| Updated1 day ago | 72 | Vyvo/VyvoTTS-LFM2-JennyText-to-Speech | 0.4B | [Link](https://huggingface.co/Vyvo/VyvoTTS-LFM2-Jenny) |
 | 2.93k | 65 | capleaf/viXTTSText-to-Speech | UpdatedApr 7, 2024 | [Link](https://huggingface.co/capleaf/viXTTS) |
 | 2.99k | 63 | HKUSTAudio/Llasa-8BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-8B) |
 | 38.3k | 48 | SWivid/E2-TTSText-to-Speech | UpdatedMar 12 | [Link](https://huggingface.co/SWivid/E2-TTS) |
@@ -4950,6 +4953,7 @@ Updated on 2025-08-15
 | 23.8k | 473 | cerspense/zeroscope_v2_576wText-to-Video | UpdatedJul 1, 2023 | [Link](https://huggingface.co/cerspense/zeroscope_v2_576w) |
 | 4.01k | 461 | ali-vilab/modelscope-damo-text-to-video-synthesisText-to-Video | UpdatedMar 29, 2023 | [Link](https://huggingface.co/ali-vilab/modelscope-damo-text-to-video-synthesis) |
 | 1.17k | 353 | stepfun-ai/stepvideo-t2vText-to-Video | Updated6 days ago | [Link](https://huggingface.co/stepfun-ai/stepvideo-t2v) |
+| 56.9k | 332 | zai-org/CogVideoX-2bText-to-Video | UpdatedNov 23, 2024 | [Link](https://huggingface.co/zai-org/CogVideoX-2b) |
 | 81.9k | 322 | wangfuyun/AnimateLCMText-to-Video | UpdatedOct 16, 2024 | [Link](https://huggingface.co/wangfuyun/AnimateLCM) |
 | 34.1k | 321 | THUDM/CogVideoX-2bText-to-Video | UpdatedNov 23, 2024 | [Link](https://huggingface.co/THUDM/CogVideoX-2b) |
 | 4.43k | 306 | hotshotco/Hotshot-XLText-to-Video | UpdatedOct 11, 2023 | [Link](https://huggingface.co/hotshotco/Hotshot-XL) |
