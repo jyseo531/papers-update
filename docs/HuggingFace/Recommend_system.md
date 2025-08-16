@@ -2330,6 +2330,7 @@ Updated on 2025-08-16
 | 511 | 6 | microsoft/trocr-base-strImage-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-base-str) |
 | Updated21 days ago | 6.36k | allenai/olmOCR-7B-0225-preview-FP8Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview-FP8) |
 | 2.52k | 6 | VLM2Vec/VLM2Vec-V2 | Updatedabout 3 hours ago | [Link](https://huggingface.co/VLM2Vec/VLM2Vec-V2.0) |
+| UpdatedJun 2 | 6.4k | unsloth/MiMo-VL-7B-RL-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/unsloth/MiMo-VL-7B-RL-GGUF) |
 | 7 | 5 | laicsiifes/swin-gportuguese-2Image-to-Text | UpdatedMar 31 | [Link](https://huggingface.co/laicsiifes/swin-gportuguese-2) |
 | 5 | 5 | Yodazon/3DPrintFailureTypeImage-to-Text | UpdatedOct 18, 2024 | [Link](https://huggingface.co/Yodazon/3DPrintFailureType) |
 | Updated5 days ago | 5.7k | ChatDOC/OCRFlux-3BImage-to-Text | 4B | [Link](https://huggingface.co/ChatDOC/OCRFlux-3B) |
