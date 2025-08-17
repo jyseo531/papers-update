@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-08-16
+Updated on 2025-08-17
 
 > Generated from the Hugging Face database.
 
@@ -4887,6 +4887,7 @@ Updated on 2025-08-16
 | 70 | 2 | calcuis/dia-ggufText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/calcuis/dia-gguf) |
 | 57 | 2 | lunarlist/tts-thaiText-to-Speech | UpdatedJul 27, 2023 | [Link](https://huggingface.co/lunarlist/tts-thai) |
 | UpdatedSep 1, 2023 | 2.16k | facebook/mms-tts-fraText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-fra) |
+| Updated7 days ago | 2.45k | prithivMLmods/VyvoTTS-v0-Qwen3-0 | 0.6B | [Link](https://huggingface.co/prithivMLmods/VyvoTTS-v0-Qwen3-0.6B-GGUF) |
 | UpdatedSep 1, 2023 | 1.78k | facebook/mms-tts-turText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-tur) |
 | UpdatedSep 1, 2023 | 1.05k | facebook/mms-tts-porText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-por) |
 | Updated16 days ago | 1.21k | Mungert/orpheus-3b-0 | 4B | [Link](https://huggingface.co/Mungert/orpheus-3b-0.1-ft-GGUF) |
