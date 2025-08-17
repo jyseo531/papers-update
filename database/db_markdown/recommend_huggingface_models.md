@@ -3908,6 +3908,7 @@ Updated on 2025-08-17
 | Updatedabout 6 hours ago | 351 | K-intelligence/Midm-2 | 12B | [Link](https://huggingface.co/K-intelligence/Midm-2.0-Base-Instruct) |
 |  | 339 | deepseek-ai/DeepSeek-Prover-V2-671BText | Updatedabout 1 hour ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-Prover-V2-671B) |
 | Updated3 days ago | 327 | nvidia/OpenReasoning-Nemotron-1 | 2B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-1.5B) |
+| Updated3 days ago | 321 | Jinx-org/Jinx-gpt-oss-20bText | 21B | [Link](https://huggingface.co/Jinx-org/Jinx-gpt-oss-20b) |
 |  | 295 | deepseek-ai/DeepSeek-R1-0528-Qwen3-8BText | Updatedabout 13 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B) |
 | 6.51k | 262 | NousResearch/DeepHermes-3-Llama-3-8B-PreviewText | Updated6 days ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview) |
 | Updatedabout 2 hours ago | 255 | agentica-org/DeepSWE-PreviewText | 33B | [Link](https://huggingface.co/agentica-org/DeepSWE-Preview) |
@@ -4575,6 +4576,7 @@ Updated on 2025-08-17
 | 52 | 13 | codermert/bahartek_fluxxxText-to-Image | Updated4 days ago | [Link](https://huggingface.co/codermert/bahartek_fluxxx) |
 | 713 | 13 | ABDALLALSWAITI/FLUX | Updated3 days ago | [Link](https://huggingface.co/ABDALLALSWAITI/FLUX.1-dev-ControlNet-Union-Pro-2.0-fp8) |
 | 217 | 12 | city96/HiDream-I1-Dev-ggufText-to-Image | Updated1 day ago | [Link](https://huggingface.co/city96/HiDream-I1-Dev-gguf) |
+| Updatedabout 4 hours ago | 12 | stepfun-ai/NextStep-1-LargeText-to-Image | 15B | [Link](https://huggingface.co/stepfun-ai/NextStep-1-Large) |
 | 116 | 11 | Efficient-Large-Model/SANA1 | Updatedabout 6 hours ago | [Link](https://huggingface.co/Efficient-Large-Model/SANA1.5_4.8B_1024px) |
 | 687 | 11 | azaneko/HiDream-I1-Full-nf4Text-to-Image | Updated3 days ago | [Link](https://huggingface.co/azaneko/HiDream-I1-Full-nf4) |
 | 945 | 11 | calcuis/hidream-ggufText-to-Image | Updated20 minutes ago | [Link](https://huggingface.co/calcuis/hidream-gguf) |
