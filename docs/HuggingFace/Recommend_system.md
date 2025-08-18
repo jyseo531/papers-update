@@ -2026,6 +2026,7 @@ Updated on 2025-08-18
 | 44 | 80 | keras-io/low-light-image-enhancementImage-to-Image | UpdatedJul 9, 2024 | [Link](https://huggingface.co/keras-io/low-light-image-enhancement) |
 | 378 | 74 | instruction-tuning-sd/cartoonizerImage-to-Image | UpdatedMay 13, 2023 | [Link](https://huggingface.co/instruction-tuning-sd/cartoonizer) |
 | 95 | 65 | rsortino/ColorizeNetImage-to-Image | UpdatedJul 31, 2023 | [Link](https://huggingface.co/rsortino/ColorizeNet) |
+| Updatedabout 10 hours ago | 60 | stepfun-ai/NextStep-1-Large-EditImage-to-Image | 15B | [Link](https://huggingface.co/stepfun-ai/NextStep-1-Large-Edit) |
 | 5.02k | 54 | lllyasviel/sd-controlnet-scribbleImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-scribble) |
 | 326 | 53 | openai/shap-e-img2imgImage-to-Image | UpdatedJul 20, 2023 | [Link](https://huggingface.co/openai/shap-e-img2img) |
 | 12.4k | 52 | lllyasviel/sd-controlnet-segImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-seg) |
@@ -2225,6 +2226,7 @@ Updated on 2025-08-18
 | 3 | Unknown | LongfeiHuang/SDMatteImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/LongfeiHuang/SDMatte) |
 | 3 | Unknown | Abhinavexists/SeeSharpImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/Abhinavexists/SeeSharp) |
 | 6 | Unknown | Phips/4xNomos8kSCHAT-LImage-to-Image | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Phips/4xNomos8kSCHAT-L) |
+| 6 | Unknown | thedeoxen/FLUX | Updated1 day ago | [Link](https://huggingface.co/thedeoxen/FLUX.1-Kontext-dev-reference-depth-fusion-LORA) |
 
 ## Image-to-Text
 
@@ -3912,6 +3914,7 @@ Updated on 2025-08-18
 |  | 295 | deepseek-ai/DeepSeek-R1-0528-Qwen3-8BText | Updatedabout 13 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B) |
 | 6.51k | 262 | NousResearch/DeepHermes-3-Llama-3-8B-PreviewText | Updated6 days ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview) |
 | Updatedabout 2 hours ago | 255 | agentica-org/DeepSWE-PreviewText | 33B | [Link](https://huggingface.co/agentica-org/DeepSWE-Preview) |
+| UpdatedApr 22 | 246 | inclusionAI/Ling-Coder-liteText | 17B | [Link](https://huggingface.co/inclusionAI/Ling-Coder-lite) |
 | Updatedabout 18 hours ago | 217 | google/gemma-3-270mText | 0.3B | [Link](https://huggingface.co/google/gemma-3-270m) |
 | 2.13k | 215 | XiaomiMiMo/MiMo-7B-RLText | Updatedabout 12 hours ago | [Link](https://huggingface.co/XiaomiMiMo/MiMo-7B-RL) |
 | 427 | 204 | microsoft/MAI-DS-R1Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/microsoft/MAI-DS-R1) |
@@ -3991,6 +3994,7 @@ Updated on 2025-08-18
 | 415 | 46 | LGAI-EXAONE/EXAONE-Deep-2 | Updated4 minutes ago | [Link](https://huggingface.co/LGAI-EXAONE/EXAONE-Deep-2.4B) |
 | 151 | 46 | bytedance-research/ChatTS-14BText | Updated2 days ago | [Link](https://huggingface.co/bytedance-research/ChatTS-14B) |
 | 13 | 46 | Qwen/Qwen3-4BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-4B) |
+| UpdatedApr 14 | 46 | inclusionAI/Ling-lite-baseText | 17B | [Link](https://huggingface.co/inclusionAI/Ling-lite-base) |
 | 2.08k | 45 | google/gemma-3-1b-itText | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-1b-it) |
 | 170 | 44 | open-r1/OlympicCoder-7BText | Updatedabout 5 hours ago | [Link](https://huggingface.co/open-r1/OlympicCoder-7B) |
 | 5 | 44 | Qwen/Qwen3-8BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-8B) |
@@ -4125,6 +4129,7 @@ Updated on 2025-08-18
 | 106 | 21 | inclusionAI/Ring-lite-distill-previewText | Updated12 days ago | [Link](https://huggingface.co/inclusionAI/Ring-lite-distill-preview) |
 | Updated1 day ago | 21 | nvidia/OpenCodeReasoning-Nemotron-1 | 33B | [Link](https://huggingface.co/nvidia/OpenCodeReasoning-Nemotron-1.1-32B) |
 | Updatedabout 13 hours ago | 21 | Qwen/Qwen3-30B-A3B-Instruct-2507Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507) |
+| Updatedabout 10 hours ago | 21 | inclusionAI/Ring-liteText | 17B | [Link](https://huggingface.co/inclusionAI/Ring-lite) |
 | 335 | 20 | google/txgemma-27b-chatText | Updated2 days ago | [Link](https://huggingface.co/google/txgemma-27b-chat) |
 | 473 | 20 | google/txgemma-9b-chatText | Updated4 days ago | [Link](https://huggingface.co/google/txgemma-9b-chat) |
 | 15 | 20 | Intelligent-Internet/II-Medical-8B-1706Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/Intelligent-Internet/II-Medical-8B-1706) |
