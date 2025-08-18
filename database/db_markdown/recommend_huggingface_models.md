@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-08-17
+Updated on 2025-08-18
 
 > Generated from the Hugging Face database.
 
@@ -4754,6 +4754,7 @@ Updated on 2025-08-17
 | 6 | Unknown | janekm/analog_filmText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/janekm/analog_film) |
 | 6 | Unknown | alfredplpl/qwen-image-modern-anime-loraText-to-Image | Updated10 minutes ago | [Link](https://huggingface.co/alfredplpl/qwen-image-modern-anime-lora) |
 | 14 | Unknown | nunchaku-tech/nunchaku-qwen-imageText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-qwen-image) |
+| 8 | Unknown | lucaeyring/HyperNoise_Sana_Sprint_0 | Updated3 days ago | [Link](https://huggingface.co/lucaeyring/HyperNoise_Sana_Sprint_0.6B) |
 
 ## Text-to-Speech
 
