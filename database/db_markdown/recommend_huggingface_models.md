@@ -1787,6 +1787,7 @@ Updated on 2025-08-19
 | 501 | 14 | CEIA-UFG/Gemma-3-Gaia-PT-BR-4b-itImage-Text-to-Text | Updatedabout 22 hours ago | [Link](https://huggingface.co/CEIA-UFG/Gemma-3-Gaia-PT-BR-4b-it) |
 | 2.16k | 14 | unsloth/Mistral-Small-3 | Updatedabout 9 hours ago | [Link](https://huggingface.co/unsloth/Mistral-Small-3.2-24B-Instruct-2506-GGUF) |
 | Updated23 minutes ago | 14 | google/medgemma-27b-itImage-Text-to-Text | 29B | [Link](https://huggingface.co/google/medgemma-27b-it) |
+| Updatedabout 10 hours ago | 14 | inclusionAI/UI-Venus-Ground-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/inclusionAI/UI-Venus-Ground-7B) |
 | 582 | 13 | google/gemma-3-4b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-4b-pt) |
 | 4.2k | 13 | mlabonne/gemma-3-12b-it-abliterated-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-12b-it-abliterated-GGUF) |
 | 10.7k | 13 | unsloth/Llama-4-Maverick-17B-128E-Instruct-GGUFImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/unsloth/Llama-4-Maverick-17B-128E-Instruct-GGUF) |
@@ -2050,6 +2051,7 @@ Updated on 2025-08-19
 | 1.87k | 28 | lllyasviel/sd-controlnet-hedImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-hed) |
 | 421 | 26 | BertChristiaens/controlnet-seg-roomImage-to-Image | UpdatedMay 25, 2023 | [Link](https://huggingface.co/BertChristiaens/controlnet-seg-room) |
 |  | 25 | peteromallet/Flux-Kontext-InSceneImage-to-Image | Updated3 minutes ago | [Link](https://huggingface.co/peteromallet/Flux-Kontext-InScene) |
+| Updatedabout 8 hours ago | 24 | QuantStack/Qwen-Image-Edit-GGUFImage-to-Image | 20B | [Link](https://huggingface.co/QuantStack/Qwen-Image-Edit-GGUF) |
 | 52 | 22 | sayakpaul/whitebox-cartoonizerImage-to-Image | UpdatedMar 17, 2023 | [Link](https://huggingface.co/sayakpaul/whitebox-cartoonizer) |
 | 260k | 22 | Lykon/dreamshaper-8-inpaintingImage-to-Image | UpdatedSep 17, 2024 | [Link](https://huggingface.co/Lykon/dreamshaper-8-inpainting) |
 | 12.1k | 19 | lllyasviel/control_v11p_sd15_softedgeImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_softedge) |
@@ -2229,6 +2231,8 @@ Updated on 2025-08-19
 | 3 | Unknown | Abhinavexists/SeeSharpImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/Abhinavexists/SeeSharp) |
 | 6 | Unknown | Phips/4xNomos8kSCHAT-LImage-to-Image | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Phips/4xNomos8kSCHAT-L) |
 | 6 | Unknown | thedeoxen/FLUX | Updated1 day ago | [Link](https://huggingface.co/thedeoxen/FLUX.1-Kontext-dev-reference-depth-fusion-LORA) |
+| 3 | Unknown | Runware/Qwen-Image-EditImage-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/Runware/Qwen-Image-Edit) |
+| 3 | Unknown | ovedrive/qwen-image-edit-4bitImage-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/ovedrive/qwen-image-edit-4bit) |
 
 ## Image-to-Text
 
@@ -2300,6 +2304,7 @@ Updated on 2025-08-19
 | 24.8k | 13 | microsoft/trocr-base-stage1Image-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-base-stage1) |
 | UpdatedMay 4 | 13 | ragunath-ravi/blip-histopathology-finetunedImage-to-Text | 0.2B | [Link](https://huggingface.co/ragunath-ravi/blip-histopathology-finetuned) |
 | UpdatedMay 16, 2024 | 13.2k | LanguageBind/Video-LLaVA-7B-hfImage-to-Text | 7B | [Link](https://huggingface.co/LanguageBind/Video-LLaVA-7B-hf) |
+| UpdatedNov 3, 2024 | 13 | Vikhrmodels/Vikhr-2-VL-2b-Instruct-experimentalImage-to-Text | 2B | [Link](https://huggingface.co/Vikhrmodels/Vikhr-2-VL-2b-Instruct-experimental) |
 | 3.63k | 12 | microsoft/trocr-small-stage1Image-to-Text | UpdatedJan 24, 2023 | [Link](https://huggingface.co/microsoft/trocr-small-stage1) |
 | 2.29k | 12 | MohamedRashad/arabic-large-nougatImage-to-Text | UpdatedNov 28, 2024 | [Link](https://huggingface.co/MohamedRashad/arabic-large-nougat) |
 | UpdatedDec 28, 2024 | 12 | grascii/gregg-vision-v0 | 0.0B | [Link](https://huggingface.co/grascii/gregg-vision-v0.2.1) |
@@ -4137,6 +4142,7 @@ Updated on 2025-08-19
 | 473 | 20 | google/txgemma-9b-chatText | Updated4 days ago | [Link](https://huggingface.co/google/txgemma-9b-chat) |
 | 15 | 20 | Intelligent-Internet/II-Medical-8B-1706Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/Intelligent-Internet/II-Medical-8B-1706) |
 | Updatedabout 1 hour ago | 20 | PowerInfer/SmallThinker-21BA3B-InstructText | 22B | [Link](https://huggingface.co/PowerInfer/SmallThinker-21BA3B-Instruct) |
+| Updatedabout 13 hours ago | 20 | nvidia/NVIDIA-Nemotron-Nano-12B-v2-BaseText | 12B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-12B-v2-Base) |
 | 14.1k | 19 | alamios/Mistral-Small-3 | Updated10 days ago | [Link](https://huggingface.co/alamios/Mistral-Small-3.1-DRAFT-0.5B) |
 | 358 | 19 | all-hands/openhands-lm-7b-v0 | Updated1 day ago | [Link](https://huggingface.co/all-hands/openhands-lm-7b-v0.1) |
 | 105 | 19 | nvidia/OpenCodeReasoning-Nemotron-32B-IOIText | Updated6 days ago | [Link](https://huggingface.co/nvidia/OpenCodeReasoning-Nemotron-32B-IOI) |
@@ -4207,6 +4213,7 @@ Updated on 2025-08-19
 | Updated2 days ago | 3.87k | unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUFText | 480B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUF) |
 | Updated6 days ago | 3.39k | Qwen/Qwen3-30B-A3B-Thinking-2507-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507-FP8) |
 | Updatedabout 4 hours ago | 3.61k | openai/gpt-oss-120bText | 63B | [Link](https://huggingface.co/openai/gpt-oss-120b) |
+| Updated25 days ago | 3.38k | dphn/Dolphin-Mistral-24B-Venice-EditionText | 24B | [Link](https://huggingface.co/dphn/Dolphin-Mistral-24B-Venice-Edition) |
 | Updated6 days ago | 2.04k | marcelbinz/Llama-3 | 71B | [Link](https://huggingface.co/marcelbinz/Llama-3.1-Centaur-70B) |
 | Updatedabout 2 hours ago | 2.66k | unsloth/Qwen3-235B-A22B-Instruct-2507-GGUFText | 235B | [Link](https://huggingface.co/unsloth/Qwen3-235B-A22B-Instruct-2507-GGUF) |
 | Updatedabout 10 hours ago | 2 | Qwen/Qwen3-30B-A3B-Thinking-2507Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507) |
