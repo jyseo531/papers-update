@@ -1845,6 +1845,7 @@ Updated on 2025-08-20
 | Updatedabout 13 hours ago | 9 | unsloth/GLM-4 | 9B | [Link](https://huggingface.co/unsloth/GLM-4.1V-9B-Thinking-GGUF) |
 | Updatedabout 1 hour ago | 9 | XiaomiMiMo/MiMo-VL-7B-SFT-2508Image-Text-to-Text | 8B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-VL-7B-SFT-2508) |
 | Updatedabout 1 hour ago | 9 | XiaomiMiMo/MiMo-VL-7B-RL-2508Image-Text-to-Text | 8B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-VL-7B-RL-2508) |
+| Updated2 days ago | 9 | Kwai-Keye/Thyme-RLImage-Text-to-Text | 8B | [Link](https://huggingface.co/Kwai-Keye/Thyme-RL) |
 | 9.71k | 8 | lmstudio-community/gemma-3-27b-it-GGUFImage-Text-to-Text | Updatedabout 18 hours ago | [Link](https://huggingface.co/lmstudio-community/gemma-3-27b-it-GGUF) |
 | 2.95k | 8 | bartowski/google_gemma-3-4b-it-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF) |
 | 725 | 8 | Mungert/gemma-3-4b-it-ggufImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/Mungert/gemma-3-4b-it-gguf) |
@@ -2349,6 +2350,7 @@ Updated on 2025-08-20
 | 17 | 4 | MixTex/tiny-ZhEn-for-onnxImage-to-Text | UpdatedFeb 23 | [Link](https://huggingface.co/MixTex/tiny-ZhEn-for-onnx) |
 | 14 | 4 | unalignment/Pixtral-12B-Captioner-RelaxedImage-to-Text | UpdatedJan 22 | [Link](https://huggingface.co/unalignment/Pixtral-12B-Captioner-Relaxed) |
 | 3.42k | 4 | breezedeus/pix2text-mfdImage-to-Text | UpdatedJul 10, 2024 | [Link](https://huggingface.co/breezedeus/pix2text-mfd) |
+| Updated7 days ago | 4.05k | allenai/olmOCR-7B-0825-FP8Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0825-FP8) |
 | 299 | 3 | cnmoro/nano-image-captioningImage-to-Text | Updatedabout 1 month ago | [Link](https://huggingface.co/cnmoro/nano-image-captioning) |
 | 45 | 3 | braintacles/brainblipImage-to-Text | UpdatedJun 27, 2024 | [Link](https://huggingface.co/braintacles/brainblip) |
 | 55 | 3 | sbintuitions/sarashina2-vision-8bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-8b) |
@@ -4773,6 +4775,7 @@ Updated on 2025-08-20
 | 6 | Unknown | alfredplpl/qwen-image-modern-anime-loraText-to-Image | Updated10 minutes ago | [Link](https://huggingface.co/alfredplpl/qwen-image-modern-anime-lora) |
 | 14 | Unknown | nunchaku-tech/nunchaku-qwen-imageText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-qwen-image) |
 | 8 | Unknown | lucaeyring/HyperNoise_Sana_Sprint_0 | Updated3 days ago | [Link](https://huggingface.co/lucaeyring/HyperNoise_Sana_Sprint_0.6B) |
+| 12 | Unknown | flymy-ai/qwen-image-anime-irl-loraText-to-Image | Updated7 days ago | [Link](https://huggingface.co/flymy-ai/qwen-image-anime-irl-lora) |
 
 ## Text-to-Speech
 
