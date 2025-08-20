@@ -4131,6 +4131,7 @@ Updated on 2025-08-20
 | Updated27 days ago | 23 | microsoft/NextCoder-32BText | 33B | [Link](https://huggingface.co/microsoft/NextCoder-32B) |
 | Updatedabout 17 hours ago | 23 | Menlo/Lucy-128kText | 2B | [Link](https://huggingface.co/Menlo/Lucy-128k) |
 | 121 | 23 | pytorch/SmolLM3-3B-8da4wText | Updated3 days ago | [Link](https://huggingface.co/pytorch/SmolLM3-3B-8da4w) |
+| Updatedabout 2 hours ago | 23 | DatarusAI/Datarus-R1-14B-previewText | 15B | [Link](https://huggingface.co/DatarusAI/Datarus-R1-14B-preview) |
 | 44 | 22 | deepcogito/cogito-v1-preview-llama-3BText | Updatedabout 12 hours ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-llama-3B) |
 | 10.2k | 22 | bartowski/THUDM_GLM-4-32B-0414-GGUFText | Updated6 days ago | [Link](https://huggingface.co/bartowski/THUDM_GLM-4-32B-0414-GGUF) |
 | 6.82k | 22 | bartowski/deepseek-ai_DeepSeek-R1-0528-Qwen3-8B-GGUFText | Updatedabout 23 hours ago | [Link](https://huggingface.co/bartowski/deepseek-ai_DeepSeek-R1-0528-Qwen3-8B-GGUF) |
