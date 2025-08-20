@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-08-19
+Updated on 2025-08-20
 
 > Generated from the Hugging Face database.
 
@@ -2233,6 +2233,7 @@ Updated on 2025-08-19
 | 6 | Unknown | thedeoxen/FLUX | Updated1 day ago | [Link](https://huggingface.co/thedeoxen/FLUX.1-Kontext-dev-reference-depth-fusion-LORA) |
 | 3 | Unknown | Runware/Qwen-Image-EditImage-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/Runware/Qwen-Image-Edit) |
 | 3 | Unknown | ovedrive/qwen-image-edit-4bitImage-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/ovedrive/qwen-image-edit-4bit) |
+| 4 | Unknown | DFloat11/Qwen-Image-Edit-DF11Image-to-Image | Updatedabout 17 hours ago | [Link](https://huggingface.co/DFloat11/Qwen-Image-Edit-DF11) |
 
 ## Image-to-Text
 
@@ -4036,6 +4037,7 @@ Updated on 2025-08-19
 | 296 | 35 | lmms-lab/Aero-1-AudioText | Updated4 days ago | [Link](https://huggingface.co/lmms-lab/Aero-1-Audio) |
 | 56.7k | 35 | unsloth/Phi-4-reasoning-plus-GGUFText | Updated4 days ago | [Link](https://huggingface.co/unsloth/Phi-4-reasoning-plus-GGUF) |
 | 4.1k | 34 | bartowski/mistralai_Mistral-Small-3 | Updatedabout 18 hours ago | [Link](https://huggingface.co/bartowski/mistralai_Mistral-Small-3.1-24B-Instruct-2503-GGUF) |
+| Updated1 day ago | 34 | nvidia/NVIDIA-Nemotron-Nano-9B-v2-BaseText | 9B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2-Base) |
 | 566 | 33 | deepcogito/cogito-v1-preview-qwen-14BText | Updated1 day ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-qwen-14B) |
 | 115 | 33 | shuttleai/shuttle-3 | Updated2 days ago | [Link](https://huggingface.co/shuttleai/shuttle-3.5) |
 | 4.66k | 33 | Qwen/Qwen3-32B-AWQText | Updated5 days ago | [Link](https://huggingface.co/Qwen/Qwen3-32B-AWQ) |
@@ -4625,6 +4627,7 @@ Updated on 2025-08-19
 | 26 | 7 | ooutlierr/fuse-ditText-to-Image | Updated3 days ago | [Link](https://huggingface.co/ooutlierr/fuse-dit) |
 | 6 | 7 | Arrexel/pattern-diffusionText-to-Image | Updated5 days ago | [Link](https://huggingface.co/Arrexel/pattern-diffusion) |
 | 37 | 7 | opendiffusionai/sd-flow-alphaText-to-Image | Updated1 day ago | [Link](https://huggingface.co/opendiffusionai/sd-flow-alpha) |
+| Updatedabout 22 hours ago | 7 | stepfun-ai/NextStep-1-Large-PretrainText-to-Image | 15B | [Link](https://huggingface.co/stepfun-ai/NextStep-1-Large-Pretrain) |
 | 1.07k | 6 | DFloat11/FLUX | Updated1 day ago | [Link](https://huggingface.co/DFloat11/FLUX.1-dev-DF11) |
 | 836 | 6 | Minthy/RouWei-0 | Updated3 days ago | [Link](https://huggingface.co/Minthy/RouWei-0.8) |
 | 169 | 6 | PosterCraft/PosterCraft-v1_RLText-to-Image | Updated2 days ago | [Link](https://huggingface.co/PosterCraft/PosterCraft-v1_RL) |
@@ -4863,6 +4866,7 @@ Updated on 2025-08-19
 | 26 | 5 | 2121-8/canary-tts-0 | Updatedabout 19 hours ago | [Link](https://huggingface.co/2121-8/canary-tts-0.5b) |
 | 12 | 5 | MYZY-AI/Muyan-TTS-SFTText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/MYZY-AI/Muyan-TTS-SFT) |
 | 436 | 5 | ICTNLP/SLED-TTS-LibriheavyText-to-Speech | Updated15 days ago | [Link](https://huggingface.co/ICTNLP/SLED-TTS-Libriheavy) |
+| Updatedabout 9 hours ago | 5 | cartesia/azzurra-voiceText-to-Speech | 2B | [Link](https://huggingface.co/cartesia/azzurra-voice) |
 | 5 | 4 | lunahr/csm-1b-safetensors-fp16Text-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-fp16) |
 | 2 | 4 | VAGOsolutions/SauerkrautTTS-Preview-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/VAGOsolutions/SauerkrautTTS-Preview-0.1) |
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
