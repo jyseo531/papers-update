@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-08-20
+Updated on 2025-08-21
 
 > Generated from the Hugging Face database.
 
@@ -1829,6 +1829,7 @@ Updated on 2025-08-20
 | 7 | 10 | mlabonne/gemma-3-27b-it-abliterated-v2Image-Text-to-Text | Updatedabout 16 hours ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-abliterated-v2) |
 | 125 | 10 | mlabonne/gemma-3-27b-it-abliterated-v2-GGUFImage-Text-to-Text | Updatedabout 15 hours ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-abliterated-v2-GGUF) |
 | 330 | 10 | microsoft/GUI-Actor-7B-Qwen2 | Updated6 days ago | [Link](https://huggingface.co/microsoft/GUI-Actor-7B-Qwen2.5-VL) |
+| Updatedabout 18 hours ago | 10 | internlm/Intern-S1-miniImage-Text-to-Text | 9B | [Link](https://huggingface.co/internlm/Intern-S1-mini) |
 | 9.49k | 9 | unsloth/gemma-3-27b-it-bnb-4bitImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-bnb-4bit) |
 | 40.9k | 9 | lmstudio-community/gemma-3-12b-it-GGUFImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/lmstudio-community/gemma-3-12b-it-GGUF) |
 | 1.89k | 9 | Mungert/gemma-3-12b-it-ggufImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/Mungert/gemma-3-12b-it-gguf) |
@@ -2093,6 +2094,7 @@ Updated on 2025-08-20
 | 52 | 4 | fal/3D-Game-Assets-Kontext-Dev-LoRAImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/fal/3D-Game-Assets-Kontext-Dev-LoRA) |
 |  | 4 | gokaygokay/Light-Fix-Kontext-Dev-LoRAImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/gokaygokay/Light-Fix-Kontext-Dev-LoRA) |
 | 63 | 4 | valiantcat/Kontext-Remover-General-LoRAImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/valiantcat/Kontext-Remover-General-LoRA) |
+| Updated25 minutes ago | 4 | calcuis/qwen-image-edit-ggufImage-to-Image | 20B | [Link](https://huggingface.co/calcuis/qwen-image-edit-gguf) |
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
@@ -2235,6 +2237,7 @@ Updated on 2025-08-20
 | 3 | Unknown | Runware/Qwen-Image-EditImage-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/Runware/Qwen-Image-Edit) |
 | 3 | Unknown | ovedrive/qwen-image-edit-4bitImage-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/ovedrive/qwen-image-edit-4bit) |
 | 4 | Unknown | DFloat11/Qwen-Image-Edit-DF11Image-to-Image | Updatedabout 17 hours ago | [Link](https://huggingface.co/DFloat11/Qwen-Image-Edit-DF11) |
+| 5 | Unknown | flymy-ai/qwen-image-edit-inscene-loraImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/flymy-ai/qwen-image-edit-inscene-lora) |
 
 ## Image-to-Text
 
@@ -3970,6 +3973,7 @@ Updated on 2025-08-20
 | 902 | 77 | qihoo360/Light-R1-32BText | Updatedabout 22 hours ago | [Link](https://huggingface.co/qihoo360/Light-R1-32B) |
 | Updatedabout 10 hours ago | 77 | LiquidAI/LFM2-1 | 1B | [Link](https://huggingface.co/LiquidAI/LFM2-1.2B) |
 | 2 | 74 | Qwen/Qwen3-32BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-32B) |
+| Updatedabout 10 hours ago | 74 | ByteDance-Seed/Seed-OSS-36B-InstructText | 36B | [Link](https://huggingface.co/ByteDance-Seed/Seed-OSS-36B-Instruct) |
 | 21 | 73 | nvidia/Llama-3_1-Nemotron-Ultra-253B-v1Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/nvidia/Llama-3_1-Nemotron-Ultra-253B-v1) |
 | 1.65k | 72 | perplexity-ai/r1-1776-distill-llama-70bText | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776-distill-llama-70b) |
 | 3.22k | 72 | sarvamai/sarvam-1Text | UpdatedNov 8, 2024 | [Link](https://huggingface.co/sarvamai/sarvam-1) |
@@ -4094,6 +4098,7 @@ Updated on 2025-08-20
 | 273 | 26 | open-thoughts/OpenThinker3-7BText | Updatedabout 20 hours ago | [Link](https://huggingface.co/open-thoughts/OpenThinker3-7B) |
 | Updated38 minutes ago | 26 | unsloth/Qwen3-Coder-480B-A35B-Instruct-GGUFText | 480B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-GGUF) |
 | Updatedabout 6 hours ago | 26 | arcee-ai/AFM-4 | 5B | [Link](https://huggingface.co/arcee-ai/AFM-4.5B) |
+| Updatedabout 9 hours ago | 26 | ByteDance-Seed/Seed-OSS-36B-Base-woSynText | 36B | [Link](https://huggingface.co/ByteDance-Seed/Seed-OSS-36B-Base-woSyn) |
 | 513 | 25 | CohereForAI/c4ai-command-r7b-arabic-02-2025Text | Updated2 days ago | [Link](https://huggingface.co/CohereForAI/c4ai-command-r7b-arabic-02-2025) |
 | 3.12k | 25 | ibm-granite/granite-3 | Updated9 days ago | [Link](https://huggingface.co/ibm-granite/granite-3.2-8b-instruct) |
 | 568 | 25 | GSAI-ML/LLaDA-8B-BaseText | Updated3 days ago | [Link](https://huggingface.co/GSAI-ML/LLaDA-8B-Base) |
@@ -4826,6 +4831,7 @@ Updated on 2025-08-20
 | 375 | 34 | mrfakename/OpenF5-TTS-BaseText-to-Speech | Updatedabout 1 hour ago | [Link](https://huggingface.co/mrfakename/OpenF5-TTS-Base) |
 | 25 | 31 | amphion/VevoText-to-Speech | Updated10 days ago | [Link](https://huggingface.co/amphion/Vevo) |
 | 3.72k | 29 | parler-tts/parler-tts-mini-multilingual-v1 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-mini-multilingual-v1.1) |
+| 1.34k | 29 | Xenova/speecht5_ttsText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/Xenova/speecht5_tts) |
 | 1.2k | 27 | saheedniyi/YarnGPTText-to-Speech | UpdatedJan 29 | [Link](https://huggingface.co/saheedniyi/YarnGPT) |
 | 152 | 23 | OmarSamir/EGTTS-V0 | Updated27 days ago | [Link](https://huggingface.co/OmarSamir/EGTTS-V0.1) |
 | 943k | 22 | myshell-ai/MeloTTS-KoreanText-to-Speech | UpdatedFeb 29, 2024 | [Link](https://huggingface.co/myshell-ai/MeloTTS-Korean) |
@@ -5144,6 +5150,7 @@ Updated on 2025-08-20
 | 3 | Unknown | CometAPI/veo3Text-to-Video | Updated16 days ago | [Link](https://huggingface.co/CometAPI/veo3) |
 | 2 | Unknown | deadman44/Wan2 | Updatedabout 22 hours ago | [Link](https://huggingface.co/deadman44/Wan2.2_Workflow_for_myxx_series_LoRA) |
 | 17 | Unknown | BowenXue/Stand-InText-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/BowenXue/Stand-In) |
+| 4 | Unknown | Kunbyte/LumenText-to-Video | Updatedabout 23 hours ago | [Link](https://huggingface.co/Kunbyte/Lumen) |
 
 ## Text2Text Generation
 
