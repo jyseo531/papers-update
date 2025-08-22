@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-08-21
+Updated on 2025-08-22
 
 > Generated from the Hugging Face database.
 
@@ -124,6 +124,7 @@ Updated on 2025-08-21
 | 2 | Unknown | Skywork/UniPic2-Metaquery-FlashAny-to-Any | Updatedabout 9 hours ago | [Link](https://huggingface.co/Skywork/UniPic2-Metaquery-Flash) |
 | 3 | Unknown | Skywork/UniPic2-Metaquery-GRPO-FlashAny-to-Any | Updatedabout 5 hours ago | [Link](https://huggingface.co/Skywork/UniPic2-Metaquery-GRPO-Flash) |
 | 2 | Unknown | Skywork/UniPic2-Metaquery-GRPO-9BAny-to-Any | Updatedabout 9 hours ago | [Link](https://huggingface.co/Skywork/UniPic2-Metaquery-GRPO-9B) |
+| 4 | Unknown | HiDream-ai/VAREditAny-to-Any | Updatedabout 11 hours ago | [Link](https://huggingface.co/HiDream-ai/VAREdit) |
 
 ## Audio Classification
 
@@ -2106,6 +2107,7 @@ Updated on 2025-08-21
 |  | 3 | Tagbliton/kontext_extract_clothes_loraImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/Tagbliton/kontext_extract_clothes_lora) |
 | 1.09k | 3 | nunchaku-tech/nunchaku-flux | Updated2 days ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-flux.1-kontext-dev) |
 |  | 3 | reverentelusarca/flux-kontext-zoom-out-loraImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/reverentelusarca/flux-kontext-zoom-out-lora) |
+|  | 3 | mixiopro/flux-kontext-extract-clothes-loraImage-to-Image | Updated17 days ago | [Link](https://huggingface.co/mixiopro/flux-kontext-extract-clothes-lora) |
 | 67 | 2 | SherryXTChen/InstructCLIP-InstructPix2PixImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/SherryXTChen/InstructCLIP-InstructPix2Pix) |
 | 17 | 2 | SherryXTChen/Instruct-CLIPImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/SherryXTChen/Instruct-CLIP) |
 | 76 | 2 | VisualCloze/VisualClozePipeline-384Image-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/VisualCloze/VisualClozePipeline-384) |
@@ -3992,6 +3994,7 @@ Updated on 2025-08-21
 | Updatedabout 1 hour ago | 59 | janhq/Jan-v1-4BText | 4B | [Link](https://huggingface.co/janhq/Jan-v1-4B) |
 | Updatedabout 17 hours ago | 58 | microsoft/Phi-4-mini-flash-reasoningText | 4B | [Link](https://huggingface.co/microsoft/Phi-4-mini-flash-reasoning) |
 | Updatedabout 10 hours ago | 58 | unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUFText | 31B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF) |
+| Updatedabout 11 hours ago | 58 | CohereLabs/command-a-reasoning-08-2025Text | 111B | [Link](https://huggingface.co/CohereLabs/command-a-reasoning-08-2025) |
 | 406 | 57 | LatitudeGames/Wayfarer-Large-70B-Llama-3 | Updated6 days ago | [Link](https://huggingface.co/LatitudeGames/Wayfarer-Large-70B-Llama-3.3) |
 | 46 | 57 | a-m-team/AM-Thinking-v1Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/a-m-team/AM-Thinking-v1) |
 | 143 | 55 | unsloth/DeepSeek-R1-0528-GGUFText | Updatedabout 1 hour ago | [Link](https://huggingface.co/unsloth/DeepSeek-R1-0528-GGUF) |
@@ -4036,6 +4039,7 @@ Updated on 2025-08-21
 | 60 | 36 | Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1) |
 | Updated1 day ago | 36 | KurmaAI/AQUA-1BText | 1.0B | [Link](https://huggingface.co/KurmaAI/AQUA-1B) |
 | Updatedabout 10 hours ago | 36 | LiquidAI/LFM2-700MText | 0.7B | [Link](https://huggingface.co/LiquidAI/LFM2-700M) |
+| Updated1 day ago | 36 | inclusionAI/GroveMoE-InstText | 33B | [Link](https://huggingface.co/inclusionAI/GroveMoE-Inst) |
 | 3.68k | 35 | arcee-ai/Arcee-Maestro-7B-PreviewText | Updated4 days ago | [Link](https://huggingface.co/arcee-ai/Arcee-Maestro-7B-Preview) |
 | 2.14k | 35 | google/gemma-3-1b-ptText | Updatedabout 17 hours ago | [Link](https://huggingface.co/google/gemma-3-1b-pt) |
 | 1.6k | 35 | Menlo/ReZero-v0 | Updatedabout 3 hours ago | [Link](https://huggingface.co/Menlo/ReZero-v0.1-llama-3.2-3b-it-grpo-250404) |
