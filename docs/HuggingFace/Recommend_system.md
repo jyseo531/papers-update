@@ -4661,6 +4661,7 @@ Updated on 2025-08-23
 | Updatedabout 2 hours ago | 3.74k | calcuis/qwen-image-ggufText-to-Image | 20B | [Link](https://huggingface.co/calcuis/qwen-image-gguf) |
 | 2 | 2.77k | CompVis/stable-diffusion-v-1-4-originalText-to-Image | UpdatedNov 9, 2022 | [Link](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original) |
 | 5.16k | 2.44k | hakurei/waifu-diffusionText-to-Image | UpdatedJul 5, 2023 | [Link](https://huggingface.co/hakurei/waifu-diffusion) |
+| Updated8 days ago | 2.03k | StableDiffusionVN/FluxText-to-Image | 5B | [Link](https://huggingface.co/StableDiffusionVN/Flux) |
 | 90.4k | 1.31k | xinsir/controlnet-union-sdxl-1 | UpdatedJul 30, 2024 | [Link](https://huggingface.co/xinsir/controlnet-union-sdxl-1.0) |
 | 387k | 1.66k | h94/IP-Adapter-FaceIDText-to-Image | UpdatedApr 16, 2024 | [Link](https://huggingface.co/h94/IP-Adapter-FaceID) |
 | 1.84M |  | black-forest-labs/FLUX | UpdatedAug 16, 2024 | [Link](https://huggingface.co/black-forest-labs/FLUX.1-dev) |
@@ -4989,6 +4990,7 @@ Updated on 2025-08-23
 | 6 | Unknown | hynt/ZipVoice-Vietnamese-150hText-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/hynt/ZipVoice-Vietnamese-150h) |
 | 4 | Unknown | hynt/ZipVoice-Vietnamese-2500hText-to-Speech | Updatedabout 14 hours ago | [Link](https://huggingface.co/hynt/ZipVoice-Vietnamese-2500h) |
 | 5 | Unknown | cosrigel/dia-finetuning-vneseText-to-Speech | Updatedabout 8 hours ago | [Link](https://huggingface.co/cosrigel/dia-finetuning-vnese) |
+| 20 | Unknown | marduk-ra/F5-TTS-TurkishText-to-Speech | UpdatedNov 16, 2024 | [Link](https://huggingface.co/marduk-ra/F5-TTS-Turkish) |
 
 ## Text-to-Video
 
