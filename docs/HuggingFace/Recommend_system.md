@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-08-22
+Updated on 2025-08-23
 
 > Generated from the Hugging Face database.
 
@@ -2240,6 +2240,7 @@ Updated on 2025-08-22
 | 3 | Unknown | ovedrive/qwen-image-edit-4bitImage-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/ovedrive/qwen-image-edit-4bit) |
 | 4 | Unknown | DFloat11/Qwen-Image-Edit-DF11Image-to-Image | Updatedabout 17 hours ago | [Link](https://huggingface.co/DFloat11/Qwen-Image-Edit-DF11) |
 | 5 | Unknown | flymy-ai/qwen-image-edit-inscene-loraImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/flymy-ai/qwen-image-edit-inscene-lora) |
+| 6 | Unknown | HiDream-ai/VAREditImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/HiDream-ai/VAREdit) |
 
 ## Image-to-Text
 
