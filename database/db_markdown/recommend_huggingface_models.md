@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-08-23
+Updated on 2025-08-24
 
 > Generated from the Hugging Face database.
 
@@ -81,6 +81,7 @@ Updated on 2025-08-23
 | 7 | 1 | multimodal-reasoning-lab/Bagel-Zebra-CoTAny-to-Any | Updatedabout 8 hours ago | [Link](https://huggingface.co/multimodal-reasoning-lab/Bagel-Zebra-CoT) |
 | Updated25 minutes ago | 1 | wikeeyang/Ming-Lite-Omni-v1 | 10B | [Link](https://huggingface.co/wikeeyang/Ming-Lite-Omni-v1.5-NF4) |
 | 3 | 1 | imkebe/Janus-Pro-1B-rk3588-1 | UpdatedApr 16 | [Link](https://huggingface.co/imkebe/Janus-Pro-1B-rk3588-1.2.0) |
+| Updatedabout 2 hours ago | 1 | Guilherme34/Samantha-omniAny-to-Any | 9B | [Link](https://huggingface.co/Guilherme34/Samantha-omni) |
 | 2 | Unknown | guanwenhao/MonoSpeechAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/guanwenhao/MonoSpeech) |
 | 22 | Unknown | Goekdeniz-Guelmez/J | UpdatedOct 29, 2024 | [Link](https://huggingface.co/Goekdeniz-Guelmez/J.O.S.I.E.v4o) |
 | 1 | Unknown | hfcsrd/cryptographyAny-to-Any | UpdatedNov 17, 2024 | [Link](https://huggingface.co/hfcsrd/cryptography) |
@@ -4855,6 +4856,7 @@ Updated on 2025-08-23
 | 77 | 16 | Mofa-Xingche/girl-style-bert-vits2-JPExtra-modelsText-to-Speech | UpdatedMay 31, 2024 | [Link](https://huggingface.co/Mofa-Xingche/girl-style-bert-vits2-JPExtra-models) |
 | 179 | 16 | esnya/japanese_speecht5_ttsText-to-Speech | UpdatedAug 9, 2023 | [Link](https://huggingface.co/esnya/japanese_speecht5_tts) |
 | 2.61k | 14 | SPRINGLab/F5-Hindi-24KHzText-to-Speech | UpdatedJan 1 | [Link](https://huggingface.co/SPRINGLab/F5-Hindi-24KHz) |
+| Updated8 days ago | 14 | niobures/OuteTTSText-to-Speech | 1B | [Link](https://huggingface.co/niobures/OuteTTS) |
 | 6 | 13 | OuteAI/Llama-OuteTTS-1 | Updatedabout 2 hours ago | [Link](https://huggingface.co/OuteAI/Llama-OuteTTS-1.0-1B) |
 | Updated5 days ago | 13 | OmniAICreator/Galgame-Llasa-3BText-to-Speech | 4B | [Link](https://huggingface.co/OmniAICreator/Galgame-Llasa-3B) |
 | 9 | 13 | hi-paris/ssml-breaks2ssml-fr-loraText-to-Speech | Updatedabout 3 hours ago | [Link](https://huggingface.co/hi-paris/ssml-breaks2ssml-fr-lora) |
@@ -4879,6 +4881,7 @@ Updated on 2025-08-23
 | 73 | 7 | onnx-community/orpheus-3b-0 | UpdatedMar 26 | [Link](https://huggingface.co/onnx-community/orpheus-3b-0.1-ft-ONNX) |
 | 6 | 7 | nassimaODL/ssml-breaks2ssml-fr-loraText-to-Speech | Updatedabout 21 hours ago | [Link](https://huggingface.co/nassimaODL/ssml-breaks2ssml-fr-lora) |
 | Updatedabout 5 hours ago | 7 | Vyvo/VyvoTTS-LFM2-350M-JennyText-to-Speech | 0.4B | [Link](https://huggingface.co/Vyvo/VyvoTTS-LFM2-350M-Jenny) |
+| Updatedabout 9 hours ago | 7 | DeepMount00/Sibilia-TTSText-to-Speech | 2B | [Link](https://huggingface.co/DeepMount00/Sibilia-TTS) |
 | 13 | 6 | ntdgo/ttsviText-to-Speech | UpdatedApr 17, 2024 | [Link](https://huggingface.co/ntdgo/ttsvi) |
 | 29 | 6 | erax-ai/EraX-Smile-UnixSex-F5Text-to-Speech | Updatedabout 8 hours ago | [Link](https://huggingface.co/erax-ai/EraX-Smile-UnixSex-F5) |
 | 29 | 6 | ICTNLP/SLED-TTS-Streaming-LibriheavyText-to-Speech | Updatedabout 18 hours ago | [Link](https://huggingface.co/ICTNLP/SLED-TTS-Streaming-Libriheavy) |
