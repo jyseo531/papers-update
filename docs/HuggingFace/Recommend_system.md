@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-08-24
+Updated on 2025-08-25
 
 > Generated from the Hugging Face database.
 
@@ -4792,6 +4792,7 @@ Updated on 2025-08-24
 | 14 | Unknown | nunchaku-tech/nunchaku-qwen-imageText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-qwen-image) |
 | 8 | Unknown | lucaeyring/HyperNoise_Sana_Sprint_0 | Updated3 days ago | [Link](https://huggingface.co/lucaeyring/HyperNoise_Sana_Sprint_0.6B) |
 | 12 | Unknown | flymy-ai/qwen-image-anime-irl-loraText-to-Image | Updated7 days ago | [Link](https://huggingface.co/flymy-ai/qwen-image-anime-irl-lora) |
+| 36 |  | damnthatai/Apple_QuickTake_150_Digital_Camera_QwenText-to-Image | Updated3 days ago | [Link](https://huggingface.co/damnthatai/Apple_QuickTake_150_Digital_Camera_Qwen) |
 
 ## Text-to-Speech
 
