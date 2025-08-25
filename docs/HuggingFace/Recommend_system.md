@@ -2109,6 +2109,7 @@ Updated on 2025-08-25
 | 1.09k | 3 | nunchaku-tech/nunchaku-flux | Updated2 days ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-flux.1-kontext-dev) |
 |  | 3 | reverentelusarca/flux-kontext-zoom-out-loraImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/reverentelusarca/flux-kontext-zoom-out-lora) |
 |  | 3 | mixiopro/flux-kontext-extract-clothes-loraImage-to-Image | Updated17 days ago | [Link](https://huggingface.co/mixiopro/flux-kontext-extract-clothes-lora) |
+|  | 3 | thedeoxen/refcontrol-flux-kontext-reference-pose-loraImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/thedeoxen/refcontrol-flux-kontext-reference-pose-lora) |
 | 67 | 2 | SherryXTChen/InstructCLIP-InstructPix2PixImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/SherryXTChen/InstructCLIP-InstructPix2Pix) |
 | 17 | 2 | SherryXTChen/Instruct-CLIPImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/SherryXTChen/Instruct-CLIP) |
 | 76 | 2 | VisualCloze/VisualClozePipeline-384Image-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/VisualCloze/VisualClozePipeline-384) |
@@ -4817,6 +4818,7 @@ Updated on 2025-08-25
 | 116k | 255 | myshell-ai/MeloTTS-EnglishText-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/MeloTTS-English) |
 | UpdatedSep 1, 2023 | 251 | facebook/mms-tts-hebText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-heb) |
 | 19.5k | 241 | parler-tts/parler-tts-large-v1Text-to-Speech | UpdatedNov 22, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-large-v1) |
+| Updated8 days ago | 239 | wcy1122/MGM-Omni-TTS-0 | 0.7B | [Link](https://huggingface.co/wcy1122/MGM-Omni-TTS-0.6B) |
 | 27.5k | 194 | suno/bark-smallText-to-Speech | UpdatedNov 10, 2023 | [Link](https://huggingface.co/suno/bark-small) |
 | Updated3 days ago | 182 | fnlp/MOSS-TTSD-v0 | 2B | [Link](https://huggingface.co/fnlp/MOSS-TTSD-v0.5) |
 | 1.22k | 141 | stepfun-ai/Step-Audio-TTS-3BText-to-Speech | Updated8 days ago | [Link](https://huggingface.co/stepfun-ai/Step-Audio-TTS-3B) |
