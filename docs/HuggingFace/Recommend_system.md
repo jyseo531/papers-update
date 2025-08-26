@@ -63,6 +63,10 @@ Updated on 2025-08-26
 | Updatedabout 20 hours ago | 2 | ByteDance-Seed/Tar-1 | 3B | [Link](https://huggingface.co/ByteDance-Seed/Tar-1.5B) |
 | Updatedabout 17 hours ago | 2 | iitolstykh/Bagel-NHR-EditAny-to-Any | 15B | [Link](https://huggingface.co/iitolstykh/Bagel-NHR-Edit) |
 | 10 | 2 | Fr0zencr4nE/UniCoT-7B-MoTAny-to-Any | Updated2 minutes ago | [Link](https://huggingface.co/Fr0zencr4nE/UniCoT-7B-MoT) |
+| 5 | 2 | sanaka87/Harmon-1 | Updatedabout 10 hours ago | [Link](https://huggingface.co/sanaka87/Harmon-1.5B-ReAlign) |
+| 7 | 2 | sanaka87/Harmon-0 | Updatedabout 10 hours ago | [Link](https://huggingface.co/sanaka87/Harmon-0.5B-ReAlign) |
+| 8 | 2 | sanaka87/Show-o-ReAlignAny-to-Any | Updatedabout 9 hours ago | [Link](https://huggingface.co/sanaka87/Show-o-ReAlign) |
+| 8 | 2 | sanaka87/Show-o-512x512-ReAlignAny-to-Any | Updatedabout 9 hours ago | [Link](https://huggingface.co/sanaka87/Show-o-512x512-ReAlign) |
 | 170 | 1 | tezuesh/moshi_generalAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/tezuesh/moshi_general) |
 | 35 | 1 | tezuesh/IBLlama_v1Any-to-Any | UpdatedJan 24 | [Link](https://huggingface.co/tezuesh/IBLlama_v1) |
 | 43 | 1 | Athagi/Janus-Pro-7BAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/Athagi/Janus-Pro-7B) |
@@ -1690,6 +1694,7 @@ Updated on 2025-08-26
 | 353k | 236 | microsoft/Florence-2-baseImage-Text-to-Text | UpdatedNov 4, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-base) |
 | Updatedabout 14 hours ago | 228 | CohereLabs/command-a-vision-07-2025Image-Text-to-Text | 112B | [Link](https://huggingface.co/CohereLabs/command-a-vision-07-2025) |
 | 7.06k | 180 | meta-llama/Llama-4-Scout-17B-16E-InstructImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct) |
+| Updatedabout 7 hours ago | 171 | OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-PreviewImage-Text-to-Text | 0.4B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-Preview) |
 | 116 | 167 | google/gemma-3-27b-itImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-it) |
 | 38.8k | 163 | stepfun-ai/GOT-OCR-2 | Updated25 days ago | [Link](https://huggingface.co/stepfun-ai/GOT-OCR-2.0-hf) |
 | Updatedabout 3 hours ago | 163 | THUDM/GLM-4 | 10B | [Link](https://huggingface.co/THUDM/GLM-4.1V-9B-Thinking) |
@@ -1721,6 +1726,7 @@ Updated on 2025-08-26
 | 3.25k | 61 | meta-llama/Llama-4-Scout-17B-16EImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E) |
 | 18.5k | 57 | prithivMLmods/Qwen2-VL-OCR-2B-InstructImage-Text-to-Text | UpdatedJan 11 | [Link](https://huggingface.co/prithivMLmods/Qwen2-VL-OCR-2B-Instruct) |
 | 944 | 56 | nvidia/Eagle2-9BImage-Text-to-Text | UpdatedJan 28 | [Link](https://huggingface.co/nvidia/Eagle2-9B) |
+| Updatedabout 7 hours ago | 55 | OpenGVLab/InternVL3_5-30B-A3BImage-Text-to-Text | 31B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-30B-A3B) |
 | 1.38k | 54 | ByteDance/Sa2VA-8BImage-Text-to-Text | UpdatedJan 14 | [Link](https://huggingface.co/ByteDance/Sa2VA-8B) |
 | 6.92k | 53 | 5CD-AI/Vintern-1B-v3_5Image-Text-to-Text | UpdatedFeb 12 | [Link](https://huggingface.co/5CD-AI/Vintern-1B-v3_5) |
 | 88 | 53 | nanonets/Nanonets-OCR-sImage-Text-to-Text | Updatedabout 15 hours ago | [Link](https://huggingface.co/nanonets/Nanonets-OCR-s) |
@@ -1734,6 +1740,7 @@ Updated on 2025-08-26
 | 1.59k | 44 | meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8Image-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8) |
 | 6 | 40 | convergence-ai/proxy-lite-3bImage-Text-to-Text | Updatedabout 15 hours ago | [Link](https://huggingface.co/convergence-ai/proxy-lite-3b) |
 | 25 | 40 | Hcompany/Holo1-7BImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/Hcompany/Holo1-7B) |
+| Updatedabout 7 hours ago | 39 | OpenGVLab/InternVL3_5-38BImage-Text-to-Text | 38B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-38B) |
 | 12.4k | 38 | zhibinlan/LLaVE-2BImage-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/zhibinlan/LLaVE-2B) |
 | 7.23k | 38 | nvidia/Cosmos-Reason1-7BImage-Text-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/nvidia/Cosmos-Reason1-7B) |
 | 3.51k | 37 | HuggingFaceTB/SmolVLM2-500M-Video-InstructImage-Text-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM2-500M-Video-Instruct) |
@@ -1748,6 +1755,7 @@ Updated on 2025-08-26
 | 41 | 29 | VIDraft/Gemma-3-R1984-4BImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/VIDraft/Gemma-3-R1984-4B) |
 | 228 | 29 | XiaomiMiMo/MiMo-VL-7B-RLImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/XiaomiMiMo/MiMo-VL-7B-RL) |
 | 184 | 29 | Hcompany/Holo1-3BImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/Hcompany/Holo1-3B) |
+| Updatedabout 7 hours ago | 29 | OpenGVLab/InternVL3_5-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-8B) |
 | 26 | 28 | VIDraft/Gemma-3-R1984-12BImage-Text-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/VIDraft/Gemma-3-R1984-12B) |
 | 36 | 28 | meta-llama/Llama-4-Maverick-17B-128EImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E) |
 | 1.6k | 28 | unsloth/Llama-4-Scout-17B-16E-Instruct-GGUFImage-Text-to-Text | Updatedabout 16 hours ago | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct-GGUF) |
@@ -1785,6 +1793,7 @@ Updated on 2025-08-26
 | 131 | 17 | google/gemma-3n-E4BImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/google/gemma-3n-E4B) |
 | 14 | 15 | Sony/AKI-4B-phi-3 | Updated2 days ago | [Link](https://huggingface.co/Sony/AKI-4B-phi-3.5-mini) |
 | 1.82k | 15 | stepfun-ai/step3-fp8Image-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/stepfun-ai/step3-fp8) |
+| Updatedabout 7 hours ago | 15 | OpenGVLab/InternVL3_5-14BImage-Text-to-Text | 15B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-14B) |
 | 296 | 14 | Fancy-MLLM/R1-Onevision-7BImage-Text-to-Text | Updatedabout 12 hours ago | [Link](https://huggingface.co/Fancy-MLLM/R1-Onevision-7B) |
 | 80 | 14 | google/gemma-3-27b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-pt) |
 | 20 | 14 | lusxvr/nanoVLM-222MImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/lusxvr/nanoVLM-222M) |
@@ -2112,6 +2121,7 @@ Updated on 2025-08-26
 |  | 3 | reverentelusarca/flux-kontext-zoom-out-loraImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/reverentelusarca/flux-kontext-zoom-out-lora) |
 |  | 3 | mixiopro/flux-kontext-extract-clothes-loraImage-to-Image | Updated17 days ago | [Link](https://huggingface.co/mixiopro/flux-kontext-extract-clothes-lora) |
 |  | 3 | thedeoxen/refcontrol-flux-kontext-reference-pose-loraImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/thedeoxen/refcontrol-flux-kontext-reference-pose-lora) |
+| 114 | 3 | manycore-research/SpatialGen-1 | Updatedabout 3 hours ago | [Link](https://huggingface.co/manycore-research/SpatialGen-1.0) |
 | 67 | 2 | SherryXTChen/InstructCLIP-InstructPix2PixImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/SherryXTChen/InstructCLIP-InstructPix2Pix) |
 | 17 | 2 | SherryXTChen/Instruct-CLIPImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/SherryXTChen/Instruct-CLIP) |
 | 76 | 2 | VisualCloze/VisualClozePipeline-384Image-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/VisualCloze/VisualClozePipeline-384) |
