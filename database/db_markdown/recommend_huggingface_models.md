@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-08-25
+Updated on 2025-08-26
 
 > Generated from the Hugging Face database.
 
@@ -1764,11 +1764,13 @@ Updated on 2025-08-25
 | Updatedabout 8 hours ago | 25 | LiquidAI/LFM2-VL-450MImage-Text-to-Text | 0.5B | [Link](https://huggingface.co/LiquidAI/LFM2-VL-450M) |
 | 280 | 24 | google/paligemma2-28b-mix-448Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-28b-mix-448) |
 | 667 | 24 | nvidia/Eagle2-2BImage-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/nvidia/Eagle2-2B) |
+| Updatedabout 4 hours ago | 23 | openbmb/MiniCPM-V-4_5Image-Text-to-Text | 9B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4_5) |
 | 27 | 22 | ByteDance-Seed/UI-TARS-1 | Updated14 minutes ago | [Link](https://huggingface.co/ByteDance-Seed/UI-TARS-1.5-7B) |
 | 9 | 21 | Skywork/Skywork-R1V-38BImage-Text-to-Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/Skywork/Skywork-R1V-38B) |
 | 29 | 21 | google/gemma-3-12b-it-qat-q4_0-ggufImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/google/gemma-3-12b-it-qat-q4_0-gguf) |
 | 3 | 21 | OpenGVLab/InternVL3-78BImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/OpenGVLab/InternVL3-78B) |
 | 56 | 21 | lingshu-medical-mllm/Lingshu-32BImage-Text-to-Text | Updated13 minutes ago | [Link](https://huggingface.co/lingshu-medical-mllm/Lingshu-32B) |
+| Updatedabout 1 hour ago | 21 | OpenGVLab/InternVL3_5-241B-A28BImage-Text-to-Text | 241B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-241B-A28B) |
 | 4 | 20 | Tesslate/Synthia-S1-27bImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/Tesslate/Synthia-S1-27b) |
 | 2 | 20 | nvidia/DAM-3B-VideoImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/DAM-3B-Video) |
 | 3.71k | 19 | google/paligemma2-10b-mix-448Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-10b-mix-448) |
@@ -2318,6 +2320,8 @@ Updated on 2025-08-25
 | 3.63k | 12 | microsoft/trocr-small-stage1Image-to-Text | UpdatedJan 24, 2023 | [Link](https://huggingface.co/microsoft/trocr-small-stage1) |
 | 2.29k | 12 | MohamedRashad/arabic-large-nougatImage-to-Text | UpdatedNov 28, 2024 | [Link](https://huggingface.co/MohamedRashad/arabic-large-nougat) |
 | UpdatedDec 28, 2024 | 12 | grascii/gregg-vision-v0 | 0.0B | [Link](https://huggingface.co/grascii/gregg-vision-v0.2.1) |
+| Updated2 days ago | 12 | sanchit97/chart-rvr-hard-3bImage-to-Text | 4B | [Link](https://huggingface.co/sanchit97/chart-rvr-hard-3b) |
+| UpdatedJun 13 | 12 | mikewang/PVD-160k-Mistral-7bImage-to-Text | 7B | [Link](https://huggingface.co/mikewang/PVD-160k-Mistral-7b) |
 | 658 | 11 | prithivMLmods/Florence-2-VLM-Doc-VQAImage-to-Text | UpdatedOct 26, 2024 | [Link](https://huggingface.co/prithivMLmods/Florence-2-VLM-Doc-VQA) |
 | 22 | 11 | daekeun-ml/ko-trocr-base-nsmc-news-chatbotImage-to-Text | UpdatedOct 5, 2023 | [Link](https://huggingface.co/daekeun-ml/ko-trocr-base-nsmc-news-chatbot) |
 | 2.98k | 11 | kazars24/trocr-base-handwritten-ruImage-to-Text | UpdatedOct 27, 2024 | [Link](https://huggingface.co/kazars24/trocr-base-handwritten-ru) |
@@ -4237,6 +4241,7 @@ Updated on 2025-08-25
 | Updatedabout 2 hours ago | 2.66k | unsloth/Qwen3-235B-A22B-Instruct-2507-GGUFText | 235B | [Link](https://huggingface.co/unsloth/Qwen3-235B-A22B-Instruct-2507-GGUF) |
 | Updatedabout 10 hours ago | 2 | Qwen/Qwen3-30B-A3B-Thinking-2507Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507) |
 | Updatedabout 6 hours ago | 2.73k | unsloth/gpt-oss-20bText | 22B | [Link](https://huggingface.co/unsloth/gpt-oss-20b) |
+| 314 | 2.36k | xai-org/grok-1Text | UpdatedMar 28, 2024 | [Link](https://huggingface.co/xai-org/grok-1) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
 | Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
@@ -4819,6 +4824,7 @@ Updated on 2025-08-25
 | UpdatedSep 1, 2023 | 251 | facebook/mms-tts-hebText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-heb) |
 | 19.5k | 241 | parler-tts/parler-tts-large-v1Text-to-Speech | UpdatedNov 22, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-large-v1) |
 | Updated8 days ago | 239 | wcy1122/MGM-Omni-TTS-0 | 0.7B | [Link](https://huggingface.co/wcy1122/MGM-Omni-TTS-0.6B) |
+| Updatedabout 9 hours ago | 216 | microsoft/VibeVoice-1 | 3B | [Link](https://huggingface.co/microsoft/VibeVoice-1.5B) |
 | 27.5k | 194 | suno/bark-smallText-to-Speech | UpdatedNov 10, 2023 | [Link](https://huggingface.co/suno/bark-small) |
 | Updated3 days ago | 182 | fnlp/MOSS-TTSD-v0 | 2B | [Link](https://huggingface.co/fnlp/MOSS-TTSD-v0.5) |
 | 1.22k | 141 | stepfun-ai/Step-Audio-TTS-3BText-to-Speech | Updated8 days ago | [Link](https://huggingface.co/stepfun-ai/Step-Audio-TTS-3B) |
@@ -4936,10 +4942,12 @@ Updated on 2025-08-25
 | 57 | 2 | lunarlist/tts-thaiText-to-Speech | UpdatedJul 27, 2023 | [Link](https://huggingface.co/lunarlist/tts-thai) |
 | UpdatedSep 1, 2023 | 2.16k | facebook/mms-tts-fraText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-fra) |
 | Updated7 days ago | 2.45k | prithivMLmods/VyvoTTS-v0-Qwen3-0 | 0.6B | [Link](https://huggingface.co/prithivMLmods/VyvoTTS-v0-Qwen3-0.6B-GGUF) |
+| Updated16 minutes ago | 2 | amphion/TaDiCodec-TTS-AR-Qwen2 | 0.5B | [Link](https://huggingface.co/amphion/TaDiCodec-TTS-AR-Qwen2.5-0.5B) |
 | UpdatedSep 1, 2023 | 1.78k | facebook/mms-tts-turText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-tur) |
 | UpdatedSep 1, 2023 | 1.05k | facebook/mms-tts-porText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-por) |
 | Updated16 days ago | 1.21k | Mungert/orpheus-3b-0 | 4B | [Link](https://huggingface.co/Mungert/orpheus-3b-0.1-ft-GGUF) |
 | UpdatedMar 28 | 1.36k | asif00/orpheus-bangla-ttsText-to-Speech | 3B | [Link](https://huggingface.co/asif00/orpheus-bangla-tts) |
+| Updated19 minutes ago | 1 | amphion/TaDiCodecText-to-Speech | 0.5B | [Link](https://huggingface.co/amphion/TaDiCodec) |
 | 302 | Unknown | lj1995/GPT-SoVITSText-to-Speech | Updated14 days ago | [Link](https://huggingface.co/lj1995/GPT-SoVITS) |
 | 436 | Unknown | myshell-ai/OpenVoiceText-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoice) |
 | 365 | Unknown | myshell-ai/OpenVoiceV2Text-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoiceV2) |
