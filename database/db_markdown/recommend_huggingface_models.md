@@ -1885,6 +1885,7 @@ Updated on 2025-08-27
 | 168 | 5 | MBZUAI/AINImage-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/MBZUAI/AIN) |
 | Updatedabout 9 hours ago | 5 | Skywork/Skywork-R1V3-38BImage-Text-to-Text | 38B | [Link](https://huggingface.co/Skywork/Skywork-R1V3-38B) |
 | Updatedabout 7 hours ago | 5 | internlm/Intern-S1Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1) |
+| Updated1 day ago | 4.45k | openbmb/MiniCPM-V-4_5-ggufImage-Text-to-Text | 8B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4_5-gguf) |
 | Updated5 minutes ago | 3.08k | openbmb/MiniCPM-V-4-ggufImage-Text-to-Text | 4B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4-gguf) |
 | Updatedabout 7 hours ago | 2.63k | nvidia/Eagle2 | 8B | [Link](https://huggingface.co/nvidia/Eagle2.5-8B) |
 | Updatedabout 7 hours ago | 2 | internlm/Intern-S1-FP8Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1-FP8) |
@@ -2088,6 +2089,7 @@ Updated on 2025-08-27
 | 11 | 9 | keras-io/conditional-ganImage-to-Image | UpdatedJul 5, 2024 | [Link](https://huggingface.co/keras-io/conditional-gan) |
 | 10.5k | 9 | hafsa000/interior-designImage-to-Image | UpdatedMay 16, 2024 | [Link](https://huggingface.co/hafsa000/interior-design) |
 |  | 9 | ilkerzgi/Overlay-Kontext-Dev-LoRAImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/ilkerzgi/Overlay-Kontext-Dev-LoRA) |
+| 109k | 9 | HighCWu/FLUX | UpdatedJul 5 | [Link](https://huggingface.co/HighCWu/FLUX.1-Kontext-dev-bnb-hqq-4bit) |
 | 59 | 8 | qualcomm/AOT-GANImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/qualcomm/AOT-GAN) |
 | 1.74k | 7 | xiaozaa/catvton-flux-betaImage-to-Image | UpdatedJan 16 | [Link](https://huggingface.co/xiaozaa/catvton-flux-beta) |
 | 33 | 7 | kontext-community/relighting-kontext-dev-lora-v3Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/kontext-community/relighting-kontext-dev-lora-v3) |
@@ -2277,6 +2279,7 @@ Updated on 2025-08-27
 | 1.69k | 134 | xtuner/llava-phi-3-mini-ggufImage-to-Text | UpdatedApr 29, 2024 | [Link](https://huggingface.co/xtuner/llava-phi-3-mini-gguf) |
 | UpdatedFeb 25 | 117k | allenai/olmOCR-7B-0225-previewImage-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview) |
 | UpdatedApr 2 | 116k | reducto/RolmOCRImage-to-Text | 8B | [Link](https://huggingface.co/reducto/RolmOCR) |
+| UpdatedMar 3 | 79 | mlx-community/olmOCR-7B-0225-preview-bf16Image-to-Text | 8B | [Link](https://huggingface.co/mlx-community/olmOCR-7B-0225-preview-bf16) |
 | Updated3 days ago | 78 | Rainnighttram/GLM-4 | 10B | [Link](https://huggingface.co/Rainnighttram/GLM-4.1V-9B-Thinking-bnb-4bit) |
 | 6.2k | 77 | unum-cloud/uform-gen2-qwen-500mImage-to-Text | UpdatedApr 24, 2024 | [Link](https://huggingface.co/unum-cloud/uform-gen2-qwen-500m) |
 | UpdatedNov 19, 2024 | 77 | ashok2216/vit-gpt2-image-captioning_COCO_FineTunedImage-to-Text | 0.2B | [Link](https://huggingface.co/ashok2216/vit-gpt2-image-captioning_COCO_FineTuned) |
@@ -3966,6 +3969,7 @@ Updated on 2025-08-27
 | Updated6 days ago | 140 | zerofata/MS3 | 24B | [Link](https://huggingface.co/zerofata/MS3.2-PaintedFantasy-24B) |
 | Updatedabout 6 hours ago | 136 | naver-hyperclovax/HyperCLOVAX-SEED-Think-14BText | 15B | [Link](https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Think-14B) |
 | 324 | 133 | moonshotai/Kimi-Dev-72BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-Dev-72B) |
+| Updatedabout 18 hours ago | 125 | NousResearch/Hermes-4-405BText | 406B | [Link](https://huggingface.co/NousResearch/Hermes-4-405B) |
 | Updated3 days ago | 121 | nvidia/OpenReasoning-Nemotron-14BText | 15B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-14B) |
 | Updatedabout 11 hours ago | 115 | mistralai/Devstral-Small-2507Text | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2507) |
 | Updated1 day ago | 111 | moelanoby/phi-3-M3-coderText | 4B | [Link](https://huggingface.co/moelanoby/phi-3-M3-coder) |
@@ -4658,6 +4662,7 @@ Updated on 2025-08-27
 | 1.09k | 8 | Clybius/FLUX | Updatedabout 20 hours ago | [Link](https://huggingface.co/Clybius/FLUX.1-Krea-dev-scaled-fp8) |
 | 4 | 8 | KBlueLeaf/HDM-xut-340M-animeText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/KBlueLeaf/HDM-xut-340M-anime) |
 | 94 | 8 | ostris/wan22_i2v_14b_orbit_shot_loraText-to-Image | Updatedabout 19 hours ago | [Link](https://huggingface.co/ostris/wan22_i2v_14b_orbit_shot_lora) |
+| 546 | 8 | duongve/NetaYume-Lumina-Image-2 | Updated5 days ago | [Link](https://huggingface.co/duongve/NetaYume-Lumina-Image-2.0) |
 | 1.69k | 7 | silveroxides/Chroma-GGUFText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/silveroxides/Chroma-GGUF) |
 | 58 | 7 | Freepik/F-Lite-TextureText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Freepik/F-Lite-Texture) |
 | 41 | 7 | renderartist/simplevectorhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/simplevectorhidream) |
