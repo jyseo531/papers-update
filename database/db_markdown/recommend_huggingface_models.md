@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-08-26
+Updated on 2025-08-27
 
 > Generated from the Hugging Face database.
 
@@ -1738,6 +1738,7 @@ Updated on 2025-08-26
 | 22.7k | 46 | OpenGVLab/InternVL2_5-8B-MPOImage-Text-to-Text | Updated30 days ago | [Link](https://huggingface.co/OpenGVLab/InternVL2_5-8B-MPO) |
 | 2.74k | 45 | OpenGVLab/InternVL2_5-78B-MPOImage-Text-to-Text | UpdatedFeb 5 | [Link](https://huggingface.co/OpenGVLab/InternVL2_5-78B-MPO) |
 | 1.59k | 44 | meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8Image-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8) |
+| Updatedabout 11 hours ago | 41 | OpenGVLab/InternVL3_5-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-4B) |
 | 6 | 40 | convergence-ai/proxy-lite-3bImage-Text-to-Text | Updatedabout 15 hours ago | [Link](https://huggingface.co/convergence-ai/proxy-lite-3b) |
 | 25 | 40 | Hcompany/Holo1-7BImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/Hcompany/Holo1-7B) |
 | Updatedabout 7 hours ago | 39 | OpenGVLab/InternVL3_5-38BImage-Text-to-Text | 38B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-38B) |
@@ -2070,6 +2071,7 @@ Updated on 2025-08-26
 | 52 | 22 | sayakpaul/whitebox-cartoonizerImage-to-Image | UpdatedMar 17, 2023 | [Link](https://huggingface.co/sayakpaul/whitebox-cartoonizer) |
 | 260k | 22 | Lykon/dreamshaper-8-inpaintingImage-to-Image | UpdatedSep 17, 2024 | [Link](https://huggingface.co/Lykon/dreamshaper-8-inpainting) |
 | 12.1k | 19 | lllyasviel/control_v11p_sd15_softedgeImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_softedge) |
+| 10 | 18 | InstantX/Qwen-Image-ControlNet-UnionImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/InstantX/Qwen-Image-ControlNet-Union) |
 | 10.1k | 17 | Stable-X/yoso-delight-v0-4-baseImage-to-Image | UpdatedSep 26, 2024 | [Link](https://huggingface.co/Stable-X/yoso-delight-v0-4-base) |
 | 29 | 17 | RedRocket/furception_vaeImage-to-Image | UpdatedJan 17, 2024 | [Link](https://huggingface.co/RedRocket/furception_vae) |
 | 4.17k | 17 | ohayonguy/PMRF_blind_face_image_restorationImage-to-Image | UpdatedOct 3, 2024 | [Link](https://huggingface.co/ohayonguy/PMRF_blind_face_image_restoration) |
@@ -3980,6 +3982,7 @@ Updated on 2025-08-26
 | 448 | 91 | starvector/starvector-8b-im2svgText | Updated2 days ago | [Link](https://huggingface.co/starvector/starvector-8b-im2svg) |
 | 695 | 90 | moonshotai/Moonlight-16B-A3B-InstructText | Updated2 days ago | [Link](https://huggingface.co/moonshotai/Moonlight-16B-A3B-Instruct) |
 | 322 | 90 | XiaomiMiMo/MiMo-7B-BaseText | Updatedabout 12 hours ago | [Link](https://huggingface.co/XiaomiMiMo/MiMo-7B-Base) |
+| Updatedabout 7 hours ago | 90 | NousResearch/Hermes-4-70BText | 71B | [Link](https://huggingface.co/NousResearch/Hermes-4-70B) |
 | 420 | 88 | all-hands/openhands-lm-32b-v0 | Updatedabout 16 hours ago | [Link](https://huggingface.co/all-hands/openhands-lm-32b-v0.1) |
 | 3.93k | 86 | PocketDoc/Dans-PersonalityEngine-V1 | Updated24 days ago | [Link](https://huggingface.co/PocketDoc/Dans-PersonalityEngine-V1.2.0-24b) |
 | Updated6 days ago | 85 | AI-MO/Kimina-Prover-72BText | 73B | [Link](https://huggingface.co/AI-MO/Kimina-Prover-72B) |
@@ -4641,6 +4644,7 @@ Updated on 2025-08-26
 |  | 10 | openfree/van-goghText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/openfree/van-gogh) |
 |  | 10 | openfree/winslow-homerText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/openfree/winslow-homer) |
 | Updated3 minutes ago | 10 | city96/Qwen-Image-ggufText-to-Image | 20B | [Link](https://huggingface.co/city96/Qwen-Image-gguf) |
+|  | 10 | Shakker-Labs/AWPortrait-QWText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/Shakker-Labs/AWPortrait-QW) |
 |  | 9 | ART-Release/ART_v1 | Updatedabout 23 hours ago | [Link](https://huggingface.co/ART-Release/ART_v1.0) |
 | 9 | 9 | motimalu/wan-flat-color-v2Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/motimalu/wan-flat-color-v2) |
 | 11 | 9 | ShoufaChen/PixelFlow-Text2ImageText-to-Image | Updatedabout 19 hours ago | [Link](https://huggingface.co/ShoufaChen/PixelFlow-Text2Image) |
