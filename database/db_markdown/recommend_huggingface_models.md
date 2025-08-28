@@ -1685,6 +1685,7 @@ Updated on 2025-08-28
 |  | 615 | mistralai/Pixtral-12B-2409Image-Text-to-Text | UpdatedDec 26, 2024 | [Link](https://huggingface.co/mistralai/Pixtral-12B-2409) |
 | Updatedabout 12 hours ago | 598 | deepcogito/cogito-v2-preview-llama-109B-MoEImage-Text-to-Text | 109B | [Link](https://huggingface.co/deepcogito/cogito-v2-preview-llama-109B-MoE) |
 | 1.67M | 546 | Qwen/Qwen2 | Updated10 days ago | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct) |
+| Updated2 days ago | 531 | OpenGVLab/InternVL3_5-2BImage-Text-to-Text | 2B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-2B) |
 | Updated3 days ago | 468 | QuantTrio/GLM-4 | 17B | [Link](https://huggingface.co/QuantTrio/GLM-4.5V-AWQ) |
 | 820k | 421 | liuhaotian/llava-v1 | UpdatedMay 8, 2024 | [Link](https://huggingface.co/liuhaotian/llava-v1.5-7b) |
 | 112k | 395 | HuggingFaceTB/SmolVLM-InstructImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-Instruct) |
@@ -2088,6 +2089,7 @@ Updated on 2025-08-28
 | 91 | 11 | TencentARC/t2iadapter_color_sd14v1Image-to-Image | UpdatedJul 31, 2023 | [Link](https://huggingface.co/TencentARC/t2iadapter_color_sd14v1) |
 | 21 | 10 | philschmid/stable-diffusion-2-inpainting-endpointImage-to-Image | UpdatedSep 29, 2023 | [Link](https://huggingface.co/philschmid/stable-diffusion-2-inpainting-endpoint) |
 | 270 | 10 | drbaph/Fluffy-kontext-LoRAImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/drbaph/Fluffy-kontext-LoRA) |
+| 4 | 10 | bytedance-research/USOImage-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/bytedance-research/USO) |
 | 11 | 9 | keras-io/conditional-ganImage-to-Image | UpdatedJul 5, 2024 | [Link](https://huggingface.co/keras-io/conditional-gan) |
 | 10.5k | 9 | hafsa000/interior-designImage-to-Image | UpdatedMay 16, 2024 | [Link](https://huggingface.co/hafsa000/interior-design) |
 |  | 9 | ilkerzgi/Overlay-Kontext-Dev-LoRAImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/ilkerzgi/Overlay-Kontext-Dev-LoRA) |
@@ -2279,6 +2281,8 @@ Updated on 2025-08-28
 | Updated1 day ago | 163 | HelloKKMe/GTA1-72BImage-to-Text | 73B | [Link](https://huggingface.co/HelloKKMe/GTA1-72B) |
 | 170k | 159 | microsoft/kosmos-2-patch14-224Image-to-Text | UpdatedNov 28, 2023 | [Link](https://huggingface.co/microsoft/kosmos-2-patch14-224) |
 | Updated27 days ago | 154k | nvidia/Cosmos-Reason1-7BImage-to-Text | 8B | [Link](https://huggingface.co/nvidia/Cosmos-Reason1-7B) |
+| UpdatedMay 27 | 150 | songhieng/khmer-trocr-ocr-v1 | 0.4B | [Link](https://huggingface.co/songhieng/khmer-trocr-ocr-v1.0) |
+| UpdatedMay 24 | 137 | unsloth/Cosmos-Reason1-7BImage-to-Text | 8B | [Link](https://huggingface.co/unsloth/Cosmos-Reason1-7B) |
 | 1.69k | 134 | xtuner/llava-phi-3-mini-ggufImage-to-Text | UpdatedApr 29, 2024 | [Link](https://huggingface.co/xtuner/llava-phi-3-mini-gguf) |
 | UpdatedFeb 25 | 117k | allenai/olmOCR-7B-0225-previewImage-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview) |
 | UpdatedApr 2 | 116k | reducto/RolmOCRImage-to-Text | 8B | [Link](https://huggingface.co/reducto/RolmOCR) |
@@ -4005,6 +4009,7 @@ Updated on 2025-08-28
 | 2 | 74 | Qwen/Qwen3-32BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-32B) |
 | Updatedabout 10 hours ago | 74 | ByteDance-Seed/Seed-OSS-36B-InstructText | 36B | [Link](https://huggingface.co/ByteDance-Seed/Seed-OSS-36B-Instruct) |
 | 21 | 73 | nvidia/Llama-3_1-Nemotron-Ultra-253B-v1Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/nvidia/Llama-3_1-Nemotron-Ultra-253B-v1) |
+| Updated3 days ago | 73 | kurakurai/Luth-LFM2-1 | 1B | [Link](https://huggingface.co/kurakurai/Luth-LFM2-1.2B) |
 | 1.65k | 72 | perplexity-ai/r1-1776-distill-llama-70bText | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776-distill-llama-70b) |
 | 3.22k | 72 | sarvamai/sarvam-1Text | UpdatedNov 8, 2024 | [Link](https://huggingface.co/sarvamai/sarvam-1) |
 | 37 | 71 | microsoft/Phi-4-reasoning-plusText | Updated13 days ago | [Link](https://huggingface.co/microsoft/Phi-4-reasoning-plus) |
@@ -4131,6 +4136,7 @@ Updated on 2025-08-28
 | Updated38 minutes ago | 26 | unsloth/Qwen3-Coder-480B-A35B-Instruct-GGUFText | 480B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-GGUF) |
 | Updatedabout 6 hours ago | 26 | arcee-ai/AFM-4 | 5B | [Link](https://huggingface.co/arcee-ai/AFM-4.5B) |
 | Updatedabout 9 hours ago | 26 | ByteDance-Seed/Seed-OSS-36B-Base-woSynText | 36B | [Link](https://huggingface.co/ByteDance-Seed/Seed-OSS-36B-Base-woSyn) |
+| Updated4 days ago | 26.3k | unsloth/Seed-OSS-36B-Instruct-GGUFText | 36B | [Link](https://huggingface.co/unsloth/Seed-OSS-36B-Instruct-GGUF) |
 | 513 | 25 | CohereForAI/c4ai-command-r7b-arabic-02-2025Text | Updated2 days ago | [Link](https://huggingface.co/CohereForAI/c4ai-command-r7b-arabic-02-2025) |
 | 3.12k | 25 | ibm-granite/granite-3 | Updated9 days ago | [Link](https://huggingface.co/ibm-granite/granite-3.2-8b-instruct) |
 | 568 | 25 | GSAI-ML/LLaDA-8B-BaseText | Updated3 days ago | [Link](https://huggingface.co/GSAI-ML/LLaDA-8B-Base) |
@@ -5063,6 +5069,7 @@ Updated on 2025-08-28
 | 847 | 35 | benjamin-paine/steamboat-willie-14bText-to-Video | Updatedabout 12 hours ago | [Link](https://huggingface.co/benjamin-paine/steamboat-willie-14b) |
 | 48 | 30 | PAIR/text2video-zero-controlnet-canny-arcaneText-to-Video | UpdatedApr 6, 2023 | [Link](https://huggingface.co/PAIR/text2video-zero-controlnet-canny-arcane) |
 | 8.22k | 26 | Searchium-ai/clip4clip-webvid150kText-to-Video | UpdatedOct 27, 2024 | [Link](https://huggingface.co/Searchium-ai/clip4clip-webvid150k) |
+| 1.96k | 26 | guoyww/animatediff-motion-adapter-v1-5-2Text-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-adapter-v1-5-2) |
 | 417 | 25 | ByteDance/ContentV-8BText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/ByteDance/ContentV-8B) |
 | 3.47k | 22 | Skywork/SkyReels-V2-T2V-14B-720PText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-T2V-14B-720P) |
 | 1.12k | 21 | maxin-cn/Latte-1Text-to-Video | UpdatedSep 2, 2024 | [Link](https://huggingface.co/maxin-cn/Latte-1) |
