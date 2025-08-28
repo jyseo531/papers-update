@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-08-27
+Updated on 2025-08-28
 
 > Generated from the Hugging Face database.
 
@@ -1680,6 +1680,7 @@ Updated on 2025-08-27
 |:----------|:------|:-----------|:------------|:------|
 | 109k | 939 | openbmb/MiniCPM-V-2_6Image-Text-to-Text | UpdatedJan 15 | [Link](https://huggingface.co/openbmb/MiniCPM-V-2_6) |
 | 4.89k | 934 | microsoft/OmniParser-v2 | Updated7 days ago | [Link](https://huggingface.co/microsoft/OmniParser-v2.0) |
+| Updated1 day ago | 906 | OpenGVLab/InternVL3_5-1BImage-Text-to-Text | 1B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-1B) |
 | 57.2k | 851 | mistralai/Mistral-Small-3 | Updatedabout 11 hours ago | [Link](https://huggingface.co/mistralai/Mistral-Small-3.1-24B-Instruct-2503) |
 |  | 615 | mistralai/Pixtral-12B-2409Image-Text-to-Text | UpdatedDec 26, 2024 | [Link](https://huggingface.co/mistralai/Pixtral-12B-2409) |
 | Updatedabout 12 hours ago | 598 | deepcogito/cogito-v2-preview-llama-109B-MoEImage-Text-to-Text | 109B | [Link](https://huggingface.co/deepcogito/cogito-v2-preview-llama-109B-MoE) |
@@ -1704,6 +1705,7 @@ Updated on 2025-08-27
 | 98.7k | 146 | deepseek-ai/deepseek-vl2-tinyImage-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2-tiny) |
 | 30.2k | 145 | bytedance-research/UI-TARS-7B-DPOImage-Text-to-Text | UpdatedJan 25 | [Link](https://huggingface.co/bytedance-research/UI-TARS-7B-DPO) |
 | 38.6k | 144 | deepseek-ai/deepseek-vl2-smallImage-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2-small) |
+| Updated1 day ago | 143 | OpenGVLab/InternVL3_5-30B-A3B-InstructImage-Text-to-Text | 31B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-30B-A3B-Instruct) |
 | 404 | 136 | allenai/olmOCR-7B-0225-previewImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview) |
 | 1.28k | 115 | AIDC-AI/Ovis2-34BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-34B) |
 | 26.7k | 114 | HuggingFaceTB/SmolVLM-500M-InstructImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-500M-Instruct) |
@@ -2102,6 +2104,7 @@ Updated on 2025-08-27
 |  | 5 | gokaygokay/Fuse-it-Kontext-Dev-LoRAImage-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/gokaygokay/Fuse-it-Kontext-Dev-LoRA) |
 | 75 | 5 | xiaolxl/HXHY-GuoHua-KontextLoRAImage-to-Image | Updated21 days ago | [Link](https://huggingface.co/xiaolxl/HXHY-GuoHua-KontextLoRA) |
 | Updatedabout 10 hours ago | 5 | Alpha-VLLM/Lumina-mGPT-2 | 8B | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-2.0-Omni) |
+| 39 | 5 | starsfriday/Qwen-Image-Edit-Remove-ClothesImage-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/starsfriday/Qwen-Image-Edit-Remove-Clothes) |
 | 575 | 4 | prs-eth/marigold-normals-v1-1Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-normals-v1-1) |
 | 1k | 4 | stanfordmimi/MedVAEImage-to-Image | UpdatedMar 31 | [Link](https://huggingface.co/stanfordmimi/MedVAE) |
 | 3 | 4 | wikeeyang/UniWorld-V1-NF4Image-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/wikeeyang/UniWorld-V1-NF4) |
