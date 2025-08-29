@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-08-28
+Updated on 2025-08-29
 
 > Generated from the Hugging Face database.
 
@@ -2131,6 +2131,7 @@ Updated on 2025-08-28
 |  | 3 | mixiopro/flux-kontext-extract-clothes-loraImage-to-Image | Updated17 days ago | [Link](https://huggingface.co/mixiopro/flux-kontext-extract-clothes-lora) |
 |  | 3 | thedeoxen/refcontrol-flux-kontext-reference-pose-loraImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/thedeoxen/refcontrol-flux-kontext-reference-pose-lora) |
 | 114 | 3 | manycore-research/SpatialGen-1 | Updatedabout 3 hours ago | [Link](https://huggingface.co/manycore-research/SpatialGen-1.0) |
+| 113 | 3 | valiantcat/Qwen-Image-Edit-Remover-General-LoRAImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/valiantcat/Qwen-Image-Edit-Remover-General-LoRA) |
 | 67 | 2 | SherryXTChen/InstructCLIP-InstructPix2PixImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/SherryXTChen/InstructCLIP-InstructPix2Pix) |
 | 17 | 2 | SherryXTChen/Instruct-CLIPImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/SherryXTChen/Instruct-CLIP) |
 | 76 | 2 | VisualCloze/VisualClozePipeline-384Image-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/VisualCloze/VisualClozePipeline-384) |
@@ -2282,6 +2283,7 @@ Updated on 2025-08-28
 | 170k | 159 | microsoft/kosmos-2-patch14-224Image-to-Text | UpdatedNov 28, 2023 | [Link](https://huggingface.co/microsoft/kosmos-2-patch14-224) |
 | Updated27 days ago | 154k | nvidia/Cosmos-Reason1-7BImage-to-Text | 8B | [Link](https://huggingface.co/nvidia/Cosmos-Reason1-7B) |
 | UpdatedMay 27 | 150 | songhieng/khmer-trocr-ocr-v1 | 0.4B | [Link](https://huggingface.co/songhieng/khmer-trocr-ocr-v1.0) |
+| UpdatedMar 25 | 145 | dh-unibe/trocr-kurrentImage-to-Text | 0.3B | [Link](https://huggingface.co/dh-unibe/trocr-kurrent) |
 | UpdatedMay 24 | 137 | unsloth/Cosmos-Reason1-7BImage-to-Text | 8B | [Link](https://huggingface.co/unsloth/Cosmos-Reason1-7B) |
 | 1.69k | 134 | xtuner/llava-phi-3-mini-ggufImage-to-Text | UpdatedApr 29, 2024 | [Link](https://huggingface.co/xtuner/llava-phi-3-mini-gguf) |
 | UpdatedFeb 25 | 117k | allenai/olmOCR-7B-0225-previewImage-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview) |
@@ -4241,6 +4243,7 @@ Updated on 2025-08-28
 | 65 | 15 | ICONNAI/ICONN-e1Text | Updated3 days ago | [Link](https://huggingface.co/ICONNAI/ICONN-e1) |
 | 1k | 14 | unsloth/DeepSeek-R1-0528Text | Updated2 days ago | [Link](https://huggingface.co/unsloth/DeepSeek-R1-0528) |
 | 57 | 14 | katanemo/Arch-Agent-32BText | Updated3 days ago | [Link](https://huggingface.co/katanemo/Arch-Agent-32B) |
+| Updatedabout 11 hours ago | 14 | CohereLabs/command-a-translate-08-2025Text | 111B | [Link](https://huggingface.co/CohereLabs/command-a-translate-08-2025) |
 | Updatedabout 10 hours ago | 11.9k | unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUFText | 31B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUF) |
 | Updatedabout 1 hour ago | 10.3k | unsloth/gemma-3-270m-it-GGUFText | 0.3B | [Link](https://huggingface.co/unsloth/gemma-3-270m-it-GGUF) |
 | Updated3 days ago | 8.32k | trillionlabs/Tri-21BText | 21B | [Link](https://huggingface.co/trillionlabs/Tri-21B) |
@@ -4827,6 +4830,7 @@ Updated on 2025-08-28
 | 8 | Unknown | lucaeyring/HyperNoise_Sana_Sprint_0 | Updated3 days ago | [Link](https://huggingface.co/lucaeyring/HyperNoise_Sana_Sprint_0.6B) |
 | 12 | Unknown | flymy-ai/qwen-image-anime-irl-loraText-to-Image | Updated7 days ago | [Link](https://huggingface.co/flymy-ai/qwen-image-anime-irl-lora) |
 | 36 |  | damnthatai/Apple_QuickTake_150_Digital_Camera_QwenText-to-Image | Updated3 days ago | [Link](https://huggingface.co/damnthatai/Apple_QuickTake_150_Digital_Camera_Qwen) |
+| 7 | Unknown | Phr00t/Chroma-Rapid-AIOText-to-Image | Updated2 days ago | [Link](https://huggingface.co/Phr00t/Chroma-Rapid-AIO) |
 
 ## Text-to-Speech
 
