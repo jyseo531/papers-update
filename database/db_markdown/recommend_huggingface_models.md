@@ -1741,6 +1741,7 @@ Updated on 2025-08-29
 | 22.7k | 46 | OpenGVLab/InternVL2_5-8B-MPOImage-Text-to-Text | Updated30 days ago | [Link](https://huggingface.co/OpenGVLab/InternVL2_5-8B-MPO) |
 | 2.74k | 45 | OpenGVLab/InternVL2_5-78B-MPOImage-Text-to-Text | UpdatedFeb 5 | [Link](https://huggingface.co/OpenGVLab/InternVL2_5-78B-MPO) |
 | 1.59k | 44 | meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8Image-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8) |
+| Updatedabout 3 hours ago | 43 | OpenGVLab/InternVL3_5-241B-A28B-InstructImage-Text-to-Text | 241B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-241B-A28B-Instruct) |
 | Updatedabout 11 hours ago | 41 | OpenGVLab/InternVL3_5-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-4B) |
 | 6 | 40 | convergence-ai/proxy-lite-3bImage-Text-to-Text | Updatedabout 15 hours ago | [Link](https://huggingface.co/convergence-ai/proxy-lite-3b) |
 | 25 | 40 | Hcompany/Holo1-7BImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/Hcompany/Holo1-7B) |
@@ -2396,6 +2397,7 @@ Updated on 2025-08-29
 | UpdatedFeb 26, 2024 | 3.75k | Norm/nougat-latex-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/Norm/nougat-latex-base) |
 | UpdatedMay 9 | 3.33k | tngtech/olmOCR-7B-faithfulImage-to-Text | 8B | [Link](https://huggingface.co/tngtech/olmOCR-7B-faithful) |
 | Updatedabout 4 hours ago | 3 | allenai/olmOCR-7B-0725-FP8Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0725-FP8) |
+| 143 | 3 | mobiuslabsgmbh/Qwen2 | UpdatedJun 6 | [Link](https://huggingface.co/mobiuslabsgmbh/Qwen2.5-VL-7B-Instruct_gemlite-ao_a8w8) |
 | 51 | 2 | microsoft/git-base-msrvtt-qaImage-to-Text | UpdatedApr 4, 2024 | [Link](https://huggingface.co/microsoft/git-base-msrvtt-qa) |
 | 32 | 2 | baseplate/vit-gpt2-image-captioningImage-to-Text | UpdatedApr 5, 2023 | [Link](https://huggingface.co/baseplate/vit-gpt2-image-captioning) |
 | 38 | 2 | sbintuitions/sarashina2-vision-14bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-14b) |
@@ -4831,6 +4833,7 @@ Updated on 2025-08-29
 | 12 | Unknown | flymy-ai/qwen-image-anime-irl-loraText-to-Image | Updated7 days ago | [Link](https://huggingface.co/flymy-ai/qwen-image-anime-irl-lora) |
 | 36 |  | damnthatai/Apple_QuickTake_150_Digital_Camera_QwenText-to-Image | Updated3 days ago | [Link](https://huggingface.co/damnthatai/Apple_QuickTake_150_Digital_Camera_Qwen) |
 | 7 | Unknown | Phr00t/Chroma-Rapid-AIOText-to-Image | Updated2 days ago | [Link](https://huggingface.co/Phr00t/Chroma-Rapid-AIO) |
+| 8 | Unknown | speach1sdef178/PJ0_QwenImage_Realistic_FP8_HF_Stage_2Text-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/speach1sdef178/PJ0_QwenImage_Realistic_FP8_HF_Stage_2) |
 
 ## Text-to-Speech
 
