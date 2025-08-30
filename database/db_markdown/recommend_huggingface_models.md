@@ -32,6 +32,7 @@ Updated on 2025-08-30
 | 470 | 15 | showlab/show-oAny-to-Any | UpdatedAug 27, 2024 | [Link](https://huggingface.co/showlab/show-o) |
 | 1.03k | 14 | onnx-community/Janus-1 | UpdatedNov 28, 2024 | [Link](https://huggingface.co/onnx-community/Janus-1.3B-ONNX) |
 | Updatedabout 1 hour ago | 14 | AIDC-AI/Ovis-U1-3BAny-to-Any | 4B | [Link](https://huggingface.co/AIDC-AI/Ovis-U1-3B) |
+| Updated2 days ago | 12 | EasonXiao-888/HaploOmniAny-to-Any | 9B | [Link](https://huggingface.co/EasonXiao-888/HaploOmni) |
 | UpdatedApr 26 | 11 | yujiepan/qwen2 | 0.0B | [Link](https://huggingface.co/yujiepan/qwen2.5-omni-tiny-random) |
 | 23 | 9 | Alpha-VLLM/Lumina-mGPT-7B-1024Any-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-1024) |
 | 612 | 7 | internlm/internlm-xcomposer2d5-7b-rewardAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/internlm/internlm-xcomposer2d5-7b-reward) |
@@ -1768,6 +1769,7 @@ Updated on 2025-08-30
 | 4 | 27 | openfree/Gemma-3-R1984-12B-Q6_K-GGUFImage-Text-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/openfree/Gemma-3-R1984-12B-Q6_K-GGUF) |
 | 1.18k | 27 | google/gemma-3n-E2B-itImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/google/gemma-3n-E2B-it) |
 | Updatedabout 8 hours ago | 27 | LiquidAI/LFM2-VL-1 | 2B | [Link](https://huggingface.co/LiquidAI/LFM2-VL-1.6B) |
+| 2.54k | 27 | onnx-community/FastVLM-0 | UpdatedJul 1 | [Link](https://huggingface.co/onnx-community/FastVLM-0.5B-ONNX) |
 | 3 | 26 | openfree/Gemma-3-R1984-27B-Q8_0-GGUFImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/openfree/Gemma-3-R1984-27B-Q8_0-GGUF) |
 | 4 | 26 | openfree/Gemma-3-R1984-27B-Q6_K-GGUFImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/openfree/Gemma-3-R1984-27B-Q6_K-GGUF) |
 | 3 | 26 | openfree/Mistral-Small-3 | Updatedabout 8 hours ago | [Link](https://huggingface.co/openfree/Mistral-Small-3.1-24B-Instruct-2503-Q8_0-GGUF) |
@@ -2118,6 +2120,7 @@ Updated on 2025-08-30
 |  | 4 | gokaygokay/Light-Fix-Kontext-Dev-LoRAImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/gokaygokay/Light-Fix-Kontext-Dev-LoRA) |
 | 63 | 4 | valiantcat/Kontext-Remover-General-LoRAImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/valiantcat/Kontext-Remover-General-LoRA) |
 | Updated25 minutes ago | 4 | calcuis/qwen-image-edit-ggufImage-to-Image | 20B | [Link](https://huggingface.co/calcuis/qwen-image-edit-gguf) |
+| 18 | 4 | TsienDragon/qwen-image-edit-lora-face-segmentationImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/TsienDragon/qwen-image-edit-lora-face-segmentation) |
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
@@ -2322,6 +2325,7 @@ Updated on 2025-08-30
 | 4.06k | 22 | noamrot/FuseCap_Image_CaptioningImage-to-Text | UpdatedJan 25, 2024 | [Link](https://huggingface.co/noamrot/FuseCap_Image_Captioning) |
 | UpdatedDec 12, 2023 | 22 | kmewhort/blip2-flan-t5-xxl-safetensorsImage-to-Text | 12B | [Link](https://huggingface.co/kmewhort/blip2-flan-t5-xxl-safetensors) |
 | Updatedabout 9 hours ago | 21 | numind/NuMarkdown-8B-ThinkingImage-to-Text | 8B | [Link](https://huggingface.co/numind/NuMarkdown-8B-Thinking) |
+| 3.75k | 21 | laion/mscoco_finetuned_CoCa-ViT-L-14-laion2B-s13B-b90kImage-to-Text | UpdatedJan 16, 2024 | [Link](https://huggingface.co/laion/mscoco_finetuned_CoCa-ViT-L-14-laion2B-s13B-b90k) |
 | 130 | 20 | Mozilla/distilvitImage-to-Text | UpdatedNov 25, 2024 | [Link](https://huggingface.co/Mozilla/distilvit) |
 | UpdatedAug 1, 2023 | 20 | michelecafagna26/blip-base-captioning-ft-hl-scenesImage-to-Text | 0.2B | [Link](https://huggingface.co/michelecafagna26/blip-base-captioning-ft-hl-scenes) |
 | 376 | 19 | to-be/donut-base-finetuned-invoicesImage-to-Text | UpdatedMar 3, 2023 | [Link](https://huggingface.co/to-be/donut-base-finetuned-invoices) |
@@ -4252,6 +4256,7 @@ Updated on 2025-08-30
 | Updatedabout 1 hour ago | 10.3k | unsloth/gemma-3-270m-it-GGUFText | 0.3B | [Link](https://huggingface.co/unsloth/gemma-3-270m-it-GGUF) |
 | Updated3 days ago | 8.32k | trillionlabs/Tri-21BText | 21B | [Link](https://huggingface.co/trillionlabs/Tri-21B) |
 | Updatedabout 14 hours ago | 8 | janhq/Jan-v1-4B-GGUFText | 4B | [Link](https://huggingface.co/janhq/Jan-v1-4B-GGUF) |
+| Updatedabout 16 hours ago | 8.51k | nvidia/NVIDIA-Nemotron-Nano-12B-v2Text | 12B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-12B-v2) |
 | Updated2 days ago | 7.65k | Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8) |
 | Updatedabout 4 hours ago | 7 | tencent/Hunyuan-7B-InstructText | 8B | [Link](https://huggingface.co/tencent/Hunyuan-7B-Instruct) |
 | 578k | 6.11k | meta-llama/Meta-Llama-3-8BText | UpdatedSep 27, 2024 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) |
