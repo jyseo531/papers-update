@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-08-29
+Updated on 2025-08-30
 
 > Generated from the Hugging Face database.
 
@@ -2266,6 +2266,7 @@ Updated on 2025-08-29
 | 4 | Unknown | DFloat11/Qwen-Image-Edit-DF11Image-to-Image | Updatedabout 17 hours ago | [Link](https://huggingface.co/DFloat11/Qwen-Image-Edit-DF11) |
 | 5 | Unknown | flymy-ai/qwen-image-edit-inscene-loraImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/flymy-ai/qwen-image-edit-inscene-lora) |
 | 6 | Unknown | HiDream-ai/VAREditImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/HiDream-ai/VAREdit) |
+| 8 | Unknown | peteromallet/Qwen-Image-Edit-InStyleImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/peteromallet/Qwen-Image-Edit-InStyle) |
 
 ## Image-to-Text
 
@@ -2273,6 +2274,7 @@ Updated on 2025-08-29
 |:----------|:------|:-----------|:------------|:------|
 | UpdatedJan 20 | 893 | HuggingFaceTB/SmolVLM-500M-BaseImage-to-Text | 0.5B | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-500M-Base) |
 | UpdatedApr 28 | 631 | Hyphonical/Pixtral-12B-Captioner-Relaxed-Q4_K_M-GGUFImage-to-Text | 12B | [Link](https://huggingface.co/Hyphonical/Pixtral-12B-Captioner-Relaxed-Q4_K_M-GGUF) |
+| UpdatedJan 29 | 586 | chatpig/llava-llama3Image-to-Text | 8B | [Link](https://huggingface.co/chatpig/llava-llama3) |
 | Updated1 day ago | 570 | HelloKKMe/GTA1-7BImage-to-Text | 8B | [Link](https://huggingface.co/HelloKKMe/GTA1-7B) |
 | UpdatedApr 24, 2024 | 541 | unum-cloud/uform-gen2-dpoImage-to-Text | 1B | [Link](https://huggingface.co/unum-cloud/uform-gen2-dpo) |
 | Updated4 days ago | 485 | mradermacher/Qwen2 | 8B | [Link](https://huggingface.co/mradermacher/Qwen2.5-VL-7B-Abliterated-Caption-it-GGUF) |
@@ -4264,6 +4266,7 @@ Updated on 2025-08-29
 | Updatedabout 21 hours ago | 4.52k | unsloth/Devstral-Small-2507-GGUFText | 24B | [Link](https://huggingface.co/unsloth/Devstral-Small-2507-GGUF) |
 | Updatedabout 6 hours ago | 4 | baichuan-inc/Baichuan-M2-32BText | 33B | [Link](https://huggingface.co/baichuan-inc/Baichuan-M2-32B) |
 | UpdatedMay 14 | 4 | inclusionAI/Ling-lite-base-1 | 17B | [Link](https://huggingface.co/inclusionAI/Ling-lite-base-1.5) |
+| Updatedabout 8 hours ago | 4 | apple/FastVLM-7BText | 8B | [Link](https://huggingface.co/apple/FastVLM-7B) |
 | Updated2 days ago | 3.87k | unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUFText | 480B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUF) |
 | Updated6 days ago | 3.39k | Qwen/Qwen3-30B-A3B-Thinking-2507-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507-FP8) |
 | Updatedabout 4 hours ago | 3.61k | openai/gpt-oss-120bText | 63B | [Link](https://huggingface.co/openai/gpt-oss-120b) |
@@ -4281,6 +4284,7 @@ Updated on 2025-08-29
 | Updatedabout 14 hours ago | 1.58k | Qwen/Qwen3-235B-A22B-Thinking-2507-FP8Text | 235B | [Link](https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507-FP8) |
 | Updatedabout 23 hours ago | 1.95k | Qwen/Qwen3-30B-A3B-Instruct-2507-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507-FP8) |
 | Updatedabout 18 hours ago | 1.14k | google/gemma-3-270m-itText | 0.3B | [Link](https://huggingface.co/google/gemma-3-270m-it) |
+| Updatedabout 8 hours ago | 1 | apple/FastVLM-0 | 0.8B | [Link](https://huggingface.co/apple/FastVLM-0.5B) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -4704,6 +4708,7 @@ Updated on 2025-08-29
 | Updated8 days ago | 2.03k | StableDiffusionVN/FluxText-to-Image | 5B | [Link](https://huggingface.co/StableDiffusionVN/Flux) |
 | 90.4k | 1.31k | xinsir/controlnet-union-sdxl-1 | UpdatedJul 30, 2024 | [Link](https://huggingface.co/xinsir/controlnet-union-sdxl-1.0) |
 | 387k | 1.66k | h94/IP-Adapter-FaceIDText-to-Image | UpdatedApr 16, 2024 | [Link](https://huggingface.co/h94/IP-Adapter-FaceID) |
+| Updated6 days ago | 1.58k | QuantStack/Chroma1-HD-GGUFText-to-Image | 9B | [Link](https://huggingface.co/QuantStack/Chroma1-HD-GGUF) |
 | 1.84M |  | black-forest-labs/FLUX | UpdatedAug 16, 2024 | [Link](https://huggingface.co/black-forest-labs/FLUX.1-dev) |
 | 268k |  | stabilityai/stable-diffusion-3 | UpdatedOct 22, 2024 | [Link](https://huggingface.co/stabilityai/stable-diffusion-3.5-large) |
 | 3.52M |  | stabilityai/stable-diffusion-xl-base-1 | UpdatedOct 30, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) |
@@ -4834,6 +4839,7 @@ Updated on 2025-08-29
 | 36 |  | damnthatai/Apple_QuickTake_150_Digital_Camera_QwenText-to-Image | Updated3 days ago | [Link](https://huggingface.co/damnthatai/Apple_QuickTake_150_Digital_Camera_Qwen) |
 | 7 | Unknown | Phr00t/Chroma-Rapid-AIOText-to-Image | Updated2 days ago | [Link](https://huggingface.co/Phr00t/Chroma-Rapid-AIO) |
 | 8 | Unknown | speach1sdef178/PJ0_QwenImage_Realistic_FP8_HF_Stage_2Text-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/speach1sdef178/PJ0_QwenImage_Realistic_FP8_HF_Stage_2) |
+| 219 |  | prithivMLmods/Qwen-Image-Studio-RealismText-to-Image | Updated6 days ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Studio-Realism) |
 
 ## Text-to-Speech
 
