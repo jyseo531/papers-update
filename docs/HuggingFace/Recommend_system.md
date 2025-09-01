@@ -1757,6 +1757,7 @@ Updated on 2025-09-01
 | 810 | 35 | fancyfeast/llama-joycaption-beta-one-hf-llavaImage-Text-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/fancyfeast/llama-joycaption-beta-one-hf-llava) |
 | Updated4 days ago | 33 | prithivMLmods/Qwen2 | 8B | [Link](https://huggingface.co/prithivMLmods/Qwen2.5-VL-7B-Abliterated-Caption-it) |
 | 4.01k | 31 | google/paligemma2-3b-mix-448Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-3b-mix-448) |
+| UpdatedSep 21, 2024 | 30k | google/paligemma-3b-pt-224Image-Text-to-Text | 3B | [Link](https://huggingface.co/google/paligemma-3b-pt-224) |
 | 2.75k | 29 | HuggingFaceTB/SmolVLM2-256M-Video-InstructImage-Text-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM2-256M-Video-Instruct) |
 | 2.28k | 29 | unsloth/Llama-4-Scout-17B-16E-InstructImage-Text-to-Text | Updatedabout 12 hours ago | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct) |
 | 41 | 29 | VIDraft/Gemma-3-R1984-4BImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/VIDraft/Gemma-3-R1984-4B) |
@@ -2138,6 +2139,10 @@ Updated on 2025-09-01
 | 114 | 3 | manycore-research/SpatialGen-1 | Updatedabout 3 hours ago | [Link](https://huggingface.co/manycore-research/SpatialGen-1.0) |
 | 113 | 3 | valiantcat/Qwen-Image-Edit-Remover-General-LoRAImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/valiantcat/Qwen-Image-Edit-Remover-General-LoRA) |
 |  | 3 | thedeoxen/refcontrol-flux-kontext-reference-canny-loraImage-to-Image | Updatedabout 15 hours ago | [Link](https://huggingface.co/thedeoxen/refcontrol-flux-kontext-reference-canny-lora) |
+| 9 | 3 | TencentARC/IC-CustomImage-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/TencentARC/IC-Custom) |
+| 293 | 3 | starsfriday/Qwen-Image-Edit-Remover-General-LoRAImage-to-Image | Updated7 days ago | [Link](https://huggingface.co/starsfriday/Qwen-Image-Edit-Remover-General-LoRA) |
+| 50 | 3 | stepfun-ai/Step1X-Edit-v1p1-diffusersImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/stepfun-ai/Step1X-Edit-v1p1-diffusers) |
+| 83 | 3 | drbaph/Qwen-Image-Edit-Remove-Clothing-LoRAImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/drbaph/Qwen-Image-Edit-Remove-Clothing-LoRA) |
 | 67 | 2 | SherryXTChen/InstructCLIP-InstructPix2PixImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/SherryXTChen/InstructCLIP-InstructPix2Pix) |
 | 17 | 2 | SherryXTChen/Instruct-CLIPImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/SherryXTChen/Instruct-CLIP) |
 | 76 | 2 | VisualCloze/VisualClozePipeline-384Image-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/VisualCloze/VisualClozePipeline-384) |
@@ -2311,6 +2316,7 @@ Updated on 2025-09-01
 | 246 | 40 | selvakumarcts/sk_invoice_receiptsImage-to-Text | UpdatedOct 20, 2023 | [Link](https://huggingface.co/selvakumarcts/sk_invoice_receipts) |
 | 7.54k | 36 | breezedeus/pix2text-mfrImage-to-Text | UpdatedMay 5, 2024 | [Link](https://huggingface.co/breezedeus/pix2text-mfr) |
 | Updated1 day ago | 36 | helizac/dots | 2B | [Link](https://huggingface.co/helizac/dots.ocr-4bit) |
+| UpdatedJul 6, 2024 | 36 | medieval-data/trocr-medieval-printImage-to-Text | 0.3B | [Link](https://huggingface.co/medieval-data/trocr-medieval-print) |
 | 42.7k | 35 | microsoft/trocr-small-printedImage-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-small-printed) |
 | UpdatedJan 11 | 35 | AdamCodd/donut-receipts-extractImage-to-Text | 0.2B | [Link](https://huggingface.co/AdamCodd/donut-receipts-extract) |
 | Updated11 days ago | 35 | Daniil-Domino/trocr-base-ru-dialecticImage-to-Text | 0.3B | [Link](https://huggingface.co/Daniil-Domino/trocr-base-ru-dialectic) |
@@ -3957,6 +3963,7 @@ Updated on 2025-09-01
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
 | 4.08M | 912 | unsloth/DeepSeek-R1-GGUFText | Updated12 days ago | [Link](https://huggingface.co/unsloth/DeepSeek-R1-GGUF) |
+| Updated3 days ago | 786 | apple/FastVLM-1 | 2B | [Link](https://huggingface.co/apple/FastVLM-1.5B) |
 | Updatedabout 2 hours ago | 722 | nvidia/NVIDIA-Nemotron-Nano-9B-v2Text | 9B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2) |
 |  | 682 | deepseek-ai/DeepSeek-V3-0324Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3-0324) |
 | Updated5 days ago | 663k | lmstudio-community/gpt-oss-20b-MLX-8bitText | 21B | [Link](https://huggingface.co/lmstudio-community/gpt-oss-20b-MLX-8bit) |
@@ -4852,6 +4859,7 @@ Updated on 2025-09-01
 | 8 | Unknown | speach1sdef178/PJ0_QwenImage_Realistic_FP8_HF_Stage_2Text-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/speach1sdef178/PJ0_QwenImage_Realistic_FP8_HF_Stage_2) |
 | 219 |  | prithivMLmods/Qwen-Image-Studio-RealismText-to-Image | Updated6 days ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Studio-Realism) |
 | 197 |  | blurgy/CoMPaSS-FLUX | Updated5 days ago | [Link](https://huggingface.co/blurgy/CoMPaSS-FLUX.1) |
+| 109 |  | Raelina/Raena-Qwen-ImageText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/Raelina/Raena-Qwen-Image) |
 
 ## Text-to-Speech
 
@@ -4903,6 +4911,7 @@ Updated on 2025-09-01
 | 2.04k | 37 | kakao-enterprise/vits-ljsText-to-Speech | UpdatedSep 7, 2023 | [Link](https://huggingface.co/kakao-enterprise/vits-ljs) |
 | 375 | 34 | mrfakename/OpenF5-TTS-BaseText-to-Speech | Updatedabout 1 hour ago | [Link](https://huggingface.co/mrfakename/OpenF5-TTS-Base) |
 | 25 | 31 | amphion/VevoText-to-Speech | Updated10 days ago | [Link](https://huggingface.co/amphion/Vevo) |
+| Updatedabout 7 hours ago | 30 | microsoft/VibeVoice-LargeText-to-Speech | 9B | [Link](https://huggingface.co/microsoft/VibeVoice-Large) |
 | 3.72k | 29 | parler-tts/parler-tts-mini-multilingual-v1 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-mini-multilingual-v1.1) |
 | 1.34k | 29 | Xenova/speecht5_ttsText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/Xenova/speecht5_tts) |
 | 1.2k | 27 | saheedniyi/YarnGPTText-to-Speech | UpdatedJan 29 | [Link](https://huggingface.co/saheedniyi/YarnGPT) |
@@ -4963,6 +4972,7 @@ Updated on 2025-09-01
 | 136 | 4 | mlx-community/Kokoro-82M-8bitText-to-Speech | UpdatedMar 8 | [Link](https://huggingface.co/mlx-community/Kokoro-82M-8bit) |
 | Updatedabout 3 hours ago | 4 | calcuis/higgs-ggufText-to-Speech | 6B | [Link](https://huggingface.co/calcuis/higgs-gguf) |
 | 79 | 4 | onnx-community/kitten-tts-nano-0 | Updated1 day ago | [Link](https://huggingface.co/onnx-community/kitten-tts-nano-0.1-ONNX) |
+| 44 | 4 | VIZINTZOR/F5-TTS-TH-V2Text-to-Speech | Updated24 days ago | [Link](https://huggingface.co/VIZINTZOR/F5-TTS-TH-V2) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 1.22k | 3 | CONCREE/Adia_TTSText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/CONCREE/Adia_TTS) |
