@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-08-31
+Updated on 2025-09-01
 
 > Generated from the Hugging Face database.
 
@@ -2137,6 +2137,7 @@ Updated on 2025-08-31
 |  | 3 | thedeoxen/refcontrol-flux-kontext-reference-pose-loraImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/thedeoxen/refcontrol-flux-kontext-reference-pose-lora) |
 | 114 | 3 | manycore-research/SpatialGen-1 | Updatedabout 3 hours ago | [Link](https://huggingface.co/manycore-research/SpatialGen-1.0) |
 | 113 | 3 | valiantcat/Qwen-Image-Edit-Remover-General-LoRAImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/valiantcat/Qwen-Image-Edit-Remover-General-LoRA) |
+|  | 3 | thedeoxen/refcontrol-flux-kontext-reference-canny-loraImage-to-Image | Updatedabout 15 hours ago | [Link](https://huggingface.co/thedeoxen/refcontrol-flux-kontext-reference-canny-lora) |
 | 67 | 2 | SherryXTChen/InstructCLIP-InstructPix2PixImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/SherryXTChen/InstructCLIP-InstructPix2Pix) |
 | 17 | 2 | SherryXTChen/Instruct-CLIPImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/SherryXTChen/Instruct-CLIP) |
 | 76 | 2 | VisualCloze/VisualClozePipeline-384Image-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/VisualCloze/VisualClozePipeline-384) |
