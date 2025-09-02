@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-09-01
+Updated on 2025-09-02
 
 > Generated from the Hugging Face database.
 
@@ -2322,6 +2322,7 @@ Updated on 2025-09-01
 | Updated11 days ago | 35 | Daniil-Domino/trocr-base-ru-dialecticImage-to-Text | 0.3B | [Link](https://huggingface.co/Daniil-Domino/trocr-base-ru-dialectic) |
 | 6.34k | 32 | thwri/CogFlorence-2 | UpdatedSep 28, 2024 | [Link](https://huggingface.co/thwri/CogFlorence-2.2-Large) |
 | Updatedabout 4 hours ago | 32 | junyoung-00/Phi-3 | 4B | [Link](https://huggingface.co/junyoung-00/Phi-3.5-vision-instruct-ChartCap) |
+| UpdatedJul 8, 2024 | 32 | medieval-data/trocr-medieval-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/medieval-data/trocr-medieval-base) |
 | 637 | 31 | U4R/StructTable-InternVL2-1BImage-to-Text | UpdatedDec 12, 2024 | [Link](https://huggingface.co/U4R/StructTable-InternVL2-1B) |
 | 9.9k | 31 | OleehyO/TexTellerImage-to-Text | UpdatedJun 22, 2024 | [Link](https://huggingface.co/OleehyO/TexTeller) |
 | 1.65k | 29 | microsoft/git-large-textcapsImage-to-Text | UpdatedFeb 8, 2023 | [Link](https://huggingface.co/microsoft/git-large-textcaps) |
@@ -4055,6 +4056,7 @@ Updated on 2025-09-01
 | Updatedabout 19 hours ago | 55 | PhysicsWallahAI/Aryabhata-1 | 8B | [Link](https://huggingface.co/PhysicsWallahAI/Aryabhata-1.0) |
 | 926 | 54 | arcee-ai/Arcee-BlitzText | Updated4 days ago | [Link](https://huggingface.co/arcee-ai/Arcee-Blitz) |
 | 658 | 54 | ByteDance-Seed/Seed-Coder-8B-InstructText | Updatedabout 6 hours ago | [Link](https://huggingface.co/ByteDance-Seed/Seed-Coder-8B-Instruct) |
+| Updated2 days ago | 54 | S4nfs/Neeto-1 | 8B | [Link](https://huggingface.co/S4nfs/Neeto-1.0-8b) |
 | 660 | 52 | nvidia/Llama-3_3-Nemotron-Super-49B-v1Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/nvidia/Llama-3_3-Nemotron-Super-49B-v1) |
 | 22 | 52 | Qwen/Qwen3-0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-0.6B) |
 | 325 | 51 | moonshotai/Moonlight-16B-A3BText | Updated2 days ago | [Link](https://huggingface.co/moonshotai/Moonlight-16B-A3B) |
@@ -5011,6 +5013,7 @@ Updated on 2025-09-01
 | Updated16 days ago | 1.21k | Mungert/orpheus-3b-0 | 4B | [Link](https://huggingface.co/Mungert/orpheus-3b-0.1-ft-GGUF) |
 | UpdatedMar 28 | 1.36k | asif00/orpheus-bangla-ttsText-to-Speech | 3B | [Link](https://huggingface.co/asif00/orpheus-bangla-tts) |
 | Updated19 minutes ago | 1 | amphion/TaDiCodecText-to-Speech | 0.5B | [Link](https://huggingface.co/amphion/TaDiCodec) |
+| UpdatedApr 16 | 1.2k | Karayakar/Orpheus-TTS-Turkish-PT-5000Text-to-Speech | 3B | [Link](https://huggingface.co/Karayakar/Orpheus-TTS-Turkish-PT-5000) |
 | 302 | Unknown | lj1995/GPT-SoVITSText-to-Speech | Updated14 days ago | [Link](https://huggingface.co/lj1995/GPT-SoVITS) |
 | 436 | Unknown | myshell-ai/OpenVoiceText-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoice) |
 | 365 | Unknown | myshell-ai/OpenVoiceV2Text-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoiceV2) |
@@ -5068,6 +5071,7 @@ Updated on 2025-09-01
 | 4 | Unknown | hynt/ZipVoice-Vietnamese-2500hText-to-Speech | Updatedabout 14 hours ago | [Link](https://huggingface.co/hynt/ZipVoice-Vietnamese-2500h) |
 | 5 | Unknown | cosrigel/dia-finetuning-vneseText-to-Speech | Updatedabout 8 hours ago | [Link](https://huggingface.co/cosrigel/dia-finetuning-vnese) |
 | 20 | Unknown | marduk-ra/F5-TTS-TurkishText-to-Speech | UpdatedNov 16, 2024 | [Link](https://huggingface.co/marduk-ra/F5-TTS-Turkish) |
+| 4 | Unknown | DevParker/VibeVoice7b-low-vramText-to-Speech | Updatedabout 1 hour ago | [Link](https://huggingface.co/DevParker/VibeVoice7b-low-vram) |
 
 ## Text-to-Video
 
