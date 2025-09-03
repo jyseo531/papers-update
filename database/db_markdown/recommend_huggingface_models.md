@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-09-02
+Updated on 2025-09-03
 
 > Generated from the Hugging Face database.
 
@@ -4119,6 +4119,7 @@ Updated on 2025-09-02
 | 131 | 32 | nvidia/AceReason-Nemotron-14BText | Updatedabout 3 hours ago | [Link](https://huggingface.co/nvidia/AceReason-Nemotron-14B) |
 | Updatedabout 10 hours ago | 32 | Qwen/Qwen3-235B-A22B-Instruct-2507-FP8Text | 235B | [Link](https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507-FP8) |
 | Updated1 day ago | 32 | Kwaipilot/KAT-V1-40BText | 41B | [Link](https://huggingface.co/Kwaipilot/KAT-V1-40B) |
+| Updatedabout 10 hours ago | 32 | swiss-ai/Apertus-8B-2509Text | 8B | [Link](https://huggingface.co/swiss-ai/Apertus-8B-2509) |
 | 172 | 31 | huihui-ai/QwQ-32B-abliteratedText | Updated2 days ago | [Link](https://huggingface.co/huihui-ai/QwQ-32B-abliterated) |
 | 76 | 31 | manycore-research/SpatialLM-Qwen-0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/manycore-research/SpatialLM-Qwen-0.5B) |
 | 4 | 31 | Qwen/Qwen3-Embedding-8BText | Updatedabout 10 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-Embedding-8B) |
@@ -4147,6 +4148,7 @@ Updated on 2025-09-02
 | 30 | 28 | arcee-ai/HomunculusText | Updatedabout 12 hours ago | [Link](https://huggingface.co/arcee-ai/Homunculus) |
 | Updated22 minutes ago | 28 | LGAI-EXAONE/EXAONE-4 | 32B | [Link](https://huggingface.co/LGAI-EXAONE/EXAONE-4.0-32B) |
 | Updated3 days ago | 28.2k | DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-ggufText | 21B | [Link](https://huggingface.co/DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf) |
+| Updatedabout 10 hours ago | 28 | swiss-ai/Apertus-70B-2509Text | 71B | [Link](https://huggingface.co/swiss-ai/Apertus-70B-2509) |
 | 256 | 27 | amd/Instella-3BText | Updated5 days ago | [Link](https://huggingface.co/amd/Instella-3B) |
 | 2 | 27 | allenai/OLMo-2-0325-32B-InstructText | Updatedabout 3 hours ago | [Link](https://huggingface.co/allenai/OLMo-2-0325-32B-Instruct) |
 | 9.01k | 27 | lmstudio-community/Mistral-Small-3 | Updated2 days ago | [Link](https://huggingface.co/lmstudio-community/Mistral-Small-3.1-24B-Instruct-2503-GGUF) |
@@ -5077,6 +5079,7 @@ Updated on 2025-09-02
 | 5 | Unknown | cosrigel/dia-finetuning-vneseText-to-Speech | Updatedabout 8 hours ago | [Link](https://huggingface.co/cosrigel/dia-finetuning-vnese) |
 | 20 | Unknown | marduk-ra/F5-TTS-TurkishText-to-Speech | UpdatedNov 16, 2024 | [Link](https://huggingface.co/marduk-ra/F5-TTS-Turkish) |
 | 4 | Unknown | DevParker/VibeVoice7b-low-vramText-to-Speech | Updatedabout 1 hour ago | [Link](https://huggingface.co/DevParker/VibeVoice7b-low-vram) |
+| 6 | Unknown | Thomcles/Chatterbox-TTS-FrenchText-to-Speech | Updated19 days ago | [Link](https://huggingface.co/Thomcles/Chatterbox-TTS-French) |
 
 ## Text-to-Video
 
