@@ -1717,6 +1717,7 @@ Updated on 2025-09-03
 | 500 | 99 | meta-llama/Llama-4-Maverick-17B-128E-InstructImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct) |
 | 1.15k | 98 | ContactDoctor/Bio-Medical-MultiModal-Llama-3-8B-V1Image-Text-to-Text | UpdatedOct 17, 2024 | [Link](https://huggingface.co/ContactDoctor/Bio-Medical-MultiModal-Llama-3-8B-V1) |
 | Updatedabout 4 hours ago | 96 | AIDC-AI/Ovis2 | 9B | [Link](https://huggingface.co/AIDC-AI/Ovis2.5-9B) |
+| Updated5 days ago | 96 | prithivMLmods/DeepCaption-VLA-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/prithivMLmods/DeepCaption-VLA-7B) |
 | 1.69k | 88 | google/gemma-3n-E4B-itImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/google/gemma-3n-E4B-it) |
 | Updated20 days ago | 81.8k | zai-org/GLM-4 | 10B | [Link](https://huggingface.co/zai-org/GLM-4.1V-9B-Thinking) |
 | 10.9k | 80 | ibm-granite/granite-vision-3 | Updatedabout 7 hours ago | [Link](https://huggingface.co/ibm-granite/granite-vision-3.1-2b-preview) |
@@ -3975,6 +3976,7 @@ Updated on 2025-09-03
 |  | 565 | deepseek-ai/DeepSeek-R1-0528Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528) |
 | 894k | 486 | deepseek-ai/DeepSeek-R1-Distill-Qwen-7BText | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B) |
 | Updatedabout 24 hours ago | 463 | PowerInfer/SmallThinker-4BA0 | 4B | [Link](https://huggingface.co/PowerInfer/SmallThinker-4BA0.6B-Instruct) |
+| Updated2 days ago | 419 | rstar2-reproduce/rStar2-Agent-14BText | 15B | [Link](https://huggingface.co/rstar2-reproduce/rStar2-Agent-14B) |
 | Updated5 days ago | 376 | NousResearch/Hermes-4-70B-FP8Text | 71B | [Link](https://huggingface.co/NousResearch/Hermes-4-70B-FP8) |
 |  | 356 | Qwen/QwQ-32BText | Updatedabout 8 hours ago | [Link](https://huggingface.co/Qwen/QwQ-32B) |
 | Updatedabout 6 hours ago | 351 | K-intelligence/Midm-2 | 12B | [Link](https://huggingface.co/K-intelligence/Midm-2.0-Base-Instruct) |
@@ -4869,6 +4871,7 @@ Updated on 2025-09-03
 | 219 |  | prithivMLmods/Qwen-Image-Studio-RealismText-to-Image | Updated6 days ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Studio-Realism) |
 | 197 |  | blurgy/CoMPaSS-FLUX | Updated5 days ago | [Link](https://huggingface.co/blurgy/CoMPaSS-FLUX.1) |
 | 109 |  | Raelina/Raena-Qwen-ImageText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/Raelina/Raena-Qwen-Image) |
+| 5 | Unknown | blurgy/CoMPaSS-SD1 | Updated8 days ago | [Link](https://huggingface.co/blurgy/CoMPaSS-SD1.5) |
 
 ## Text-to-Speech
 
@@ -5131,6 +5134,7 @@ Updated on 2025-09-03
 | 363 | 9 | Skywork/SkyReels-V2-T2V-14B-540PText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-T2V-14B-540P) |
 | 638 | 8 | calcuis/mochiText-to-Video | Updated22 days ago | [Link](https://huggingface.co/calcuis/mochi) |
 | 123k | 8 | guoyww/animatediff-motion-lora-zoom-inText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-zoom-in) |
+| 680 | 8 | a-r-r-o-w/LTX-Video-0 | UpdatedMar 18 | [Link](https://huggingface.co/a-r-r-o-w/LTX-Video-0.9.1-diffusers) |
 | 5.9k | 7 | SVECTOR-CORPORATION/Spectro-2BText-to-Video | UpdatedDec 25, 2024 | [Link](https://huggingface.co/SVECTOR-CORPORATION/Spectro-2B) |
 | 863 | 6 | guoyww/animatediff-motion-adapter-v1-5-3Text-to-Video | UpdatedJul 8, 2024 | [Link](https://huggingface.co/guoyww/animatediff-motion-adapter-v1-5-3) |
 | 184 | 6 | BAAI/nova-d48w1024-osp480Text-to-Video | UpdatedDec 21, 2024 | [Link](https://huggingface.co/BAAI/nova-d48w1024-osp480) |
