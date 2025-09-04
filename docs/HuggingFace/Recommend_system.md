@@ -68,6 +68,7 @@ Updated on 2025-09-04
 | 7 | 2 | sanaka87/Harmon-0 | Updatedabout 10 hours ago | [Link](https://huggingface.co/sanaka87/Harmon-0.5B-ReAlign) |
 | 8 | 2 | sanaka87/Show-o-ReAlignAny-to-Any | Updatedabout 9 hours ago | [Link](https://huggingface.co/sanaka87/Show-o-ReAlign) |
 | 8 | 2 | sanaka87/Show-o-512x512-ReAlignAny-to-Any | Updatedabout 9 hours ago | [Link](https://huggingface.co/sanaka87/Show-o-512x512-ReAlign) |
+| Updatedabout 7 hours ago | 2.12k | stepfun-ai/Step-Audio-2-miniAny-to-Any | 8B | [Link](https://huggingface.co/stepfun-ai/Step-Audio-2-mini) |
 | 170 | 1 | tezuesh/moshi_generalAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/tezuesh/moshi_general) |
 | 35 | 1 | tezuesh/IBLlama_v1Any-to-Any | UpdatedJan 24 | [Link](https://huggingface.co/tezuesh/IBLlama_v1) |
 | 43 | 1 | Athagi/Janus-Pro-7BAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/Athagi/Janus-Pro-7B) |
@@ -131,6 +132,7 @@ Updated on 2025-09-04
 | 3 | Unknown | Skywork/UniPic2-Metaquery-GRPO-FlashAny-to-Any | Updatedabout 5 hours ago | [Link](https://huggingface.co/Skywork/UniPic2-Metaquery-GRPO-Flash) |
 | 2 | Unknown | Skywork/UniPic2-Metaquery-GRPO-9BAny-to-Any | Updatedabout 9 hours ago | [Link](https://huggingface.co/Skywork/UniPic2-Metaquery-GRPO-9B) |
 | 4 | Unknown | HiDream-ai/VAREditAny-to-Any | Updatedabout 11 hours ago | [Link](https://huggingface.co/HiDream-ai/VAREdit) |
+| 1 | Unknown | sovthpaw/senter-omni-modelAny-to-Any | Updatedabout 4 hours ago | [Link](https://huggingface.co/sovthpaw/senter-omni-model) |
 
 ## Audio Classification
 
@@ -2305,6 +2307,7 @@ Updated on 2025-09-04
 | 1.69k | 134 | xtuner/llava-phi-3-mini-ggufImage-to-Text | UpdatedApr 29, 2024 | [Link](https://huggingface.co/xtuner/llava-phi-3-mini-gguf) |
 | UpdatedFeb 25 | 117k | allenai/olmOCR-7B-0225-previewImage-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview) |
 | UpdatedApr 2 | 116k | reducto/RolmOCRImage-to-Text | 8B | [Link](https://huggingface.co/reducto/RolmOCR) |
+| Updatedabout 19 hours ago | 96 | davanstrien/iconclass-vlmImage-to-Text | 4B | [Link](https://huggingface.co/davanstrien/iconclass-vlm) |
 | UpdatedMar 3 | 79 | mlx-community/olmOCR-7B-0225-preview-bf16Image-to-Text | 8B | [Link](https://huggingface.co/mlx-community/olmOCR-7B-0225-preview-bf16) |
 | Updated3 days ago | 78 | Rainnighttram/GLM-4 | 10B | [Link](https://huggingface.co/Rainnighttram/GLM-4.1V-9B-Thinking-bnb-4bit) |
 | 6.2k | 77 | unum-cloud/uform-gen2-qwen-500mImage-to-Text | UpdatedApr 24, 2024 | [Link](https://huggingface.co/unum-cloud/uform-gen2-qwen-500m) |
@@ -4876,6 +4879,7 @@ Updated on 2025-09-04
 | 109 |  | Raelina/Raena-Qwen-ImageText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/Raelina/Raena-Qwen-Image) |
 | 5 | Unknown | blurgy/CoMPaSS-SD1 | Updated8 days ago | [Link](https://huggingface.co/blurgy/CoMPaSS-SD1.5) |
 | 14 | Unknown | ostris/qwen_image_edit_inpaintingText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/ostris/qwen_image_edit_inpainting) |
+| 81 |  | kudzueye/boreal-qwen-imageText-to-Image | Updated1 day ago | [Link](https://huggingface.co/kudzueye/boreal-qwen-image) |
 
 ## Text-to-Speech
 
@@ -4927,6 +4931,7 @@ Updated on 2025-09-04
 | 2.04k | 37 | kakao-enterprise/vits-ljsText-to-Speech | UpdatedSep 7, 2023 | [Link](https://huggingface.co/kakao-enterprise/vits-ljs) |
 | 375 | 34 | mrfakename/OpenF5-TTS-BaseText-to-Speech | Updatedabout 1 hour ago | [Link](https://huggingface.co/mrfakename/OpenF5-TTS-Base) |
 | 25 | 31 | amphion/VevoText-to-Speech | Updated10 days ago | [Link](https://huggingface.co/amphion/Vevo) |
+| Updatedabout 8 hours ago | 31 | aoi-ot/VibeVoice-LargeText-to-Speech | 9B | [Link](https://huggingface.co/aoi-ot/VibeVoice-Large) |
 | Updatedabout 7 hours ago | 30 | microsoft/VibeVoice-LargeText-to-Speech | 9B | [Link](https://huggingface.co/microsoft/VibeVoice-Large) |
 | 3.72k | 29 | parler-tts/parler-tts-mini-multilingual-v1 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-mini-multilingual-v1.1) |
 | 1.34k | 29 | Xenova/speecht5_ttsText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/Xenova/speecht5_tts) |
@@ -4990,6 +4995,7 @@ Updated on 2025-09-04
 | Updatedabout 3 hours ago | 4 | calcuis/higgs-ggufText-to-Speech | 6B | [Link](https://huggingface.co/calcuis/higgs-gguf) |
 | 79 | 4 | onnx-community/kitten-tts-nano-0 | Updated1 day ago | [Link](https://huggingface.co/onnx-community/kitten-tts-nano-0.1-ONNX) |
 | 44 | 4 | VIZINTZOR/F5-TTS-TH-V2Text-to-Speech | Updated24 days ago | [Link](https://huggingface.co/VIZINTZOR/F5-TTS-TH-V2) |
+| Updatedabout 7 hours ago | 4 | aoi-ot/VibeVoice-7BText-to-Speech | 9B | [Link](https://huggingface.co/aoi-ot/VibeVoice-7B) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 1.22k | 3 | CONCREE/Adia_TTSText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/CONCREE/Adia_TTS) |
