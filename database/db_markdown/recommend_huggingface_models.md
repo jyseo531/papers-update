@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-09-03
+Updated on 2025-09-04
 
 > Generated from the Hugging Face database.
 
@@ -2294,6 +2294,7 @@ Updated on 2025-09-03
 | UpdatedAug 26, 2024 | 467 | LeroyDyer/SpydazWebAI_Image_ProjectorsImage-to-Text | 7B | [Link](https://huggingface.co/LeroyDyer/SpydazWebAI_Image_Projectors) |
 | Updated2 days ago | 230 | HelloKKMe/GTA1-32BImage-to-Text | 33B | [Link](https://huggingface.co/HelloKKMe/GTA1-32B) |
 | 7.46k | 213 | xtuner/llava-llama-3-8b-v1_1-ggufImage-to-Text | UpdatedApr 30, 2024 | [Link](https://huggingface.co/xtuner/llava-llama-3-8b-v1_1-gguf) |
+| UpdatedMar 5 | 180 | r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUF) |
 | UpdatedJun 20 | 174k | BCCard/Qwen2 | 33B | [Link](https://huggingface.co/BCCard/Qwen2.5-VL-32B-Instruct-FP8-Dynamic) |
 | Updated1 day ago | 163 | HelloKKMe/GTA1-72BImage-to-Text | 73B | [Link](https://huggingface.co/HelloKKMe/GTA1-72B) |
 | 170k | 159 | microsoft/kosmos-2-patch14-224Image-to-Text | UpdatedNov 28, 2023 | [Link](https://huggingface.co/microsoft/kosmos-2-patch14-224) |
@@ -4207,6 +4208,7 @@ Updated on 2025-09-03
 | Updatedabout 17 hours ago | 23 | Menlo/Lucy-128kText | 2B | [Link](https://huggingface.co/Menlo/Lucy-128k) |
 | 121 | 23 | pytorch/SmolLM3-3B-8da4wText | Updated3 days ago | [Link](https://huggingface.co/pytorch/SmolLM3-3B-8da4w) |
 | Updatedabout 2 hours ago | 23 | DatarusAI/Datarus-R1-14B-previewText | 15B | [Link](https://huggingface.co/DatarusAI/Datarus-R1-14B-preview) |
+| Updated1 day ago | 23 | Tesslate/WEBGEN-4B-PreviewText | 4B | [Link](https://huggingface.co/Tesslate/WEBGEN-4B-Preview) |
 | 44 | 22 | deepcogito/cogito-v1-preview-llama-3BText | Updatedabout 12 hours ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-llama-3B) |
 | 10.2k | 22 | bartowski/THUDM_GLM-4-32B-0414-GGUFText | Updated6 days ago | [Link](https://huggingface.co/bartowski/THUDM_GLM-4-32B-0414-GGUF) |
 | 6.82k | 22 | bartowski/deepseek-ai_DeepSeek-R1-0528-Qwen3-8B-GGUFText | Updatedabout 23 hours ago | [Link](https://huggingface.co/bartowski/deepseek-ai_DeepSeek-R1-0528-Qwen3-8B-GGUF) |
@@ -4313,6 +4315,7 @@ Updated on 2025-09-03
 | Updatedabout 23 hours ago | 1.95k | Qwen/Qwen3-30B-A3B-Instruct-2507-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507-FP8) |
 | Updatedabout 18 hours ago | 1.14k | google/gemma-3-270m-itText | 0.3B | [Link](https://huggingface.co/google/gemma-3-270m-it) |
 | Updatedabout 8 hours ago | 1 | apple/FastVLM-0 | 0.8B | [Link](https://huggingface.co/apple/FastVLM-0.5B) |
+| Updatedabout 3 hours ago | 1.35k | NousResearch/Hermes-4-14BText | 0.0B | [Link](https://huggingface.co/NousResearch/Hermes-4-14B) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -4872,6 +4875,7 @@ Updated on 2025-09-03
 | 197 |  | blurgy/CoMPaSS-FLUX | Updated5 days ago | [Link](https://huggingface.co/blurgy/CoMPaSS-FLUX.1) |
 | 109 |  | Raelina/Raena-Qwen-ImageText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/Raelina/Raena-Qwen-Image) |
 | 5 | Unknown | blurgy/CoMPaSS-SD1 | Updated8 days ago | [Link](https://huggingface.co/blurgy/CoMPaSS-SD1.5) |
+| 14 | Unknown | ostris/qwen_image_edit_inpaintingText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/ostris/qwen_image_edit_inpainting) |
 
 ## Text-to-Speech
 
@@ -4946,6 +4950,7 @@ Updated on 2025-09-03
 | 73 | 12 | geneing/KokoroText-to-Speech | UpdatedJan 10 | [Link](https://huggingface.co/geneing/Kokoro) |
 | 125 | 12 | Kamtera/persian-tts-female-vitsText-to-Speech | UpdatedMar 19, 2023 | [Link](https://huggingface.co/Kamtera/persian-tts-female-vits) |
 | 109 | 11 | NeuroDonu/RU-XTTS-DonuModelText-to-Speech | UpdatedMay 1, 2024 | [Link](https://huggingface.co/NeuroDonu/RU-XTTS-DonuModel) |
+| 36 | 11 | Abhinay45/XTTS-Hindi-finetunedText-to-Speech | UpdatedJan 11 | [Link](https://huggingface.co/Abhinay45/XTTS-Hindi-finetuned) |
 | 27 | 10 | hexgrad/Kokoro-82M-v1 | Updatedabout 7 hours ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M-v1.1-zh) |
 | 879 | 10 | FunAudioLLM/CosyVoice-300M-SFTText-to-Speech | UpdatedDec 27, 2024 | [Link](https://huggingface.co/FunAudioLLM/CosyVoice-300M-SFT) |
 | 367 | 10 | IbrahimSalah/F5-TTS-ArabicText-to-Speech | UpdatedFeb 15 | [Link](https://huggingface.co/IbrahimSalah/F5-TTS-Arabic) |
