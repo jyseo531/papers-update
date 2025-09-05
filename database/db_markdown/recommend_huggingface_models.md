@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-09-04
+Updated on 2025-09-05
 
 > Generated from the Hugging Face database.
 
@@ -1711,6 +1711,7 @@ Updated on 2025-09-04
 | 30.2k | 145 | bytedance-research/UI-TARS-7B-DPOImage-Text-to-Text | UpdatedJan 25 | [Link](https://huggingface.co/bytedance-research/UI-TARS-7B-DPO) |
 | 38.6k | 144 | deepseek-ai/deepseek-vl2-smallImage-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2-small) |
 | Updated1 day ago | 143 | OpenGVLab/InternVL3_5-30B-A3B-InstructImage-Text-to-Text | 31B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-30B-A3B-Instruct) |
+| Updatedabout 11 hours ago | 140 | tencent/POINTS-ReaderImage-Text-to-Text | 4B | [Link](https://huggingface.co/tencent/POINTS-Reader) |
 | 404 | 136 | allenai/olmOCR-7B-0225-previewImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview) |
 | 1.28k | 115 | AIDC-AI/Ovis2-34BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-34B) |
 | 26.7k | 114 | HuggingFaceTB/SmolVLM-500M-InstructImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-500M-Instruct) |
@@ -2128,6 +2129,7 @@ Updated on 2025-09-04
 | 63 | 4 | valiantcat/Kontext-Remover-General-LoRAImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/valiantcat/Kontext-Remover-General-LoRA) |
 | Updated25 minutes ago | 4 | calcuis/qwen-image-edit-ggufImage-to-Image | 20B | [Link](https://huggingface.co/calcuis/qwen-image-edit-gguf) |
 | 18 | 4 | TsienDragon/qwen-image-edit-lora-face-segmentationImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/TsienDragon/qwen-image-edit-lora-face-segmentation) |
+|  | 4 | chflame163/kontext_hiresImage-to-Image | Updatedabout 15 hours ago | [Link](https://huggingface.co/chflame163/kontext_hires) |
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
@@ -2520,6 +2522,7 @@ Updated on 2025-09-04
 | 21 | Unknown | TRI-ML/prismatic-vlmsImage-to-Text | UpdatedMay 6, 2024 | [Link](https://huggingface.co/TRI-ML/prismatic-vlms) |
 | 18 | Unknown | OpenFace-CQUPT/FLIPImage-to-Text | UpdatedJun 9 | [Link](https://huggingface.co/OpenFace-CQUPT/FLIP) |
 | 2 | Unknown | nomanmanzoor/image-prompt-modelImage-to-Text | Updated5 days ago | [Link](https://huggingface.co/nomanmanzoor/image-prompt-model) |
+| 2 | Unknown | asmud/ds4sd-docling-models-onnxImage-to-Text | Updated2 days ago | [Link](https://huggingface.co/asmud/ds4sd-docling-models-onnx) |
 
 ## Image-to-Video
 
@@ -3980,6 +3983,7 @@ Updated on 2025-09-04
 |  | 565 | deepseek-ai/DeepSeek-R1-0528Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528) |
 | 894k | 486 | deepseek-ai/DeepSeek-R1-Distill-Qwen-7BText | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B) |
 | Updatedabout 24 hours ago | 463 | PowerInfer/SmallThinker-4BA0 | 4B | [Link](https://huggingface.co/PowerInfer/SmallThinker-4BA0.6B-Instruct) |
+| Updatedabout 12 hours ago | 425 | Nikity/lille-130m-instructText | 0.1B | [Link](https://huggingface.co/Nikity/lille-130m-instruct) |
 | Updated2 days ago | 419 | rstar2-reproduce/rStar2-Agent-14BText | 15B | [Link](https://huggingface.co/rstar2-reproduce/rStar2-Agent-14B) |
 | Updated5 days ago | 376 | NousResearch/Hermes-4-70B-FP8Text | 71B | [Link](https://huggingface.co/NousResearch/Hermes-4-70B-FP8) |
 |  | 356 | Qwen/QwQ-32BText | Updatedabout 8 hours ago | [Link](https://huggingface.co/Qwen/QwQ-32B) |
@@ -4304,6 +4308,7 @@ Updated on 2025-09-04
 | Updated6 days ago | 3.39k | Qwen/Qwen3-30B-A3B-Thinking-2507-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507-FP8) |
 | Updatedabout 4 hours ago | 3.61k | openai/gpt-oss-120bText | 63B | [Link](https://huggingface.co/openai/gpt-oss-120b) |
 | Updated25 days ago | 3.38k | dphn/Dolphin-Mistral-24B-Venice-EditionText | 24B | [Link](https://huggingface.co/dphn/Dolphin-Mistral-24B-Venice-Edition) |
+| Updated5 days ago | 3.98k | meituan-longcat/LongCat-Flash-Chat-FP8Text | 562B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Chat-FP8) |
 | Updated6 days ago | 2.04k | marcelbinz/Llama-3 | 71B | [Link](https://huggingface.co/marcelbinz/Llama-3.1-Centaur-70B) |
 | Updatedabout 2 hours ago | 2.66k | unsloth/Qwen3-235B-A22B-Instruct-2507-GGUFText | 235B | [Link](https://huggingface.co/unsloth/Qwen3-235B-A22B-Instruct-2507-GGUF) |
 | Updatedabout 10 hours ago | 2 | Qwen/Qwen3-30B-A3B-Thinking-2507Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507) |
@@ -4978,6 +4983,7 @@ Updated on 2025-09-04
 | 13 | 6 | ntdgo/ttsviText-to-Speech | UpdatedApr 17, 2024 | [Link](https://huggingface.co/ntdgo/ttsvi) |
 | 29 | 6 | erax-ai/EraX-Smile-UnixSex-F5Text-to-Speech | Updatedabout 8 hours ago | [Link](https://huggingface.co/erax-ai/EraX-Smile-UnixSex-F5) |
 | 29 | 6 | ICTNLP/SLED-TTS-Streaming-LibriheavyText-to-Speech | Updatedabout 18 hours ago | [Link](https://huggingface.co/ICTNLP/SLED-TTS-Streaming-Libriheavy) |
+| Updatedabout 5 hours ago | 6 | vibevoice/VibeVoice-7BText-to-Speech | 9B | [Link](https://huggingface.co/vibevoice/VibeVoice-7B) |
 | 87 | 5 | lunahr/csm-1b-safetensors-quantsText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-quants) |
 | 26 | 5 | 2121-8/canary-tts-0 | Updatedabout 19 hours ago | [Link](https://huggingface.co/2121-8/canary-tts-0.5b) |
 | 12 | 5 | MYZY-AI/Muyan-TTS-SFTText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/MYZY-AI/Muyan-TTS-SFT) |
@@ -5021,6 +5027,7 @@ Updated on 2025-09-04
 | 10 | 3 | fnlp/MOSS-TTSD-v0Text-to-Speech | Updatedabout 3 hours ago | [Link](https://huggingface.co/fnlp/MOSS-TTSD-v0) |
 | UpdatedSep 1, 2023 | 3.75k | facebook/mms-tts-indText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-ind) |
 | Updatedabout 12 hours ago | 3 | Vyvo/VyvoTTS-v0-Qwen3-0 | 0.8B | [Link](https://huggingface.co/Vyvo/VyvoTTS-v0-Qwen3-0.6B) |
+| Updatedabout 17 hours ago | 3 | rsxdalv/VibeVoice-LargeText-to-Speech | 9B | [Link](https://huggingface.co/rsxdalv/VibeVoice-Large) |
 | 2.36M | 2.41k | coqui/XTTS-v2Text-to-Speech | UpdatedDec 11, 2023 | [Link](https://huggingface.co/coqui/XTTS-v2) |
 | 153 | 2 | mmwillet2/Dia_GGUFText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/mmwillet2/Dia_GGUF) |
 | 55 | 2 | unsloth/Spark-TTS-0 | Updated2 days ago | [Link](https://huggingface.co/unsloth/Spark-TTS-0.5B) |
