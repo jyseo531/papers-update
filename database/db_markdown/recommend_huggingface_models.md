@@ -4385,6 +4385,7 @@ Updated on 2025-09-05
 | Updatedabout 6 hours ago |  | Qwen/Qwen3-Coder-480B-A35B-InstructText | 480B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-480B-A35B-Instruct) |
 | Updatedabout 15 hours ago |  | Qwen/Qwen3-4B-Thinking-2507Text | 4B | [Link](https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507) |
 | Updatedabout 15 hours ago |  | Qwen/Qwen3-4B-Instruct-2507Text | 4B | [Link](https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507) |
+| 97 |  | moonshotai/Kimi-K2-Instruct-0905Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-K2-Instruct-0905) |
 
 ## Text Ranking
 
@@ -5201,6 +5202,7 @@ Updated on 2025-09-05
 | 15 | 2 | rhymes-ai/Allegro-T2V-40x360PText-to-Video | UpdatedDec 26, 2024 | [Link](https://huggingface.co/rhymes-ai/Allegro-T2V-40x360P) |
 | 17 | 2 | ai-forever/Wan2 | Updated1 day ago | [Link](https://huggingface.co/ai-forever/Wan2.1-T2V-14B-NABLA-0.7) |
 | 43 | 2 | DFloat11/Wan2 | Updated1 day ago | [Link](https://huggingface.co/DFloat11/Wan2.2-T2V-A14B-2-DF11) |
+| 14 | 2 | valiantcat/one_finger_wan21_t2v_loraText-to-Video | Updated11 days ago | [Link](https://huggingface.co/valiantcat/one_finger_wan21_t2v_lora) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
