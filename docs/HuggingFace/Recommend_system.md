@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-09-05
+Updated on 2025-09-06
 
 > Generated from the Hugging Face database.
 
@@ -88,6 +88,7 @@ Updated on 2025-09-05
 | Updated25 minutes ago | 1 | wikeeyang/Ming-Lite-Omni-v1 | 10B | [Link](https://huggingface.co/wikeeyang/Ming-Lite-Omni-v1.5-NF4) |
 | 3 | 1 | imkebe/Janus-Pro-1B-rk3588-1 | UpdatedApr 16 | [Link](https://huggingface.co/imkebe/Janus-Pro-1B-rk3588-1.2.0) |
 | Updatedabout 2 hours ago | 1 | Guilherme34/Samantha-omniAny-to-Any | 9B | [Link](https://huggingface.co/Guilherme34/Samantha-omni) |
+| UpdatedJun 3 | 1.97k | deepseek-community/Janus-Pro-1BAny-to-Any | 2B | [Link](https://huggingface.co/deepseek-community/Janus-Pro-1B) |
 | 2 | Unknown | guanwenhao/MonoSpeechAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/guanwenhao/MonoSpeech) |
 | 22 | Unknown | Goekdeniz-Guelmez/J | UpdatedOct 29, 2024 | [Link](https://huggingface.co/Goekdeniz-Guelmez/J.O.S.I.E.v4o) |
 | 1 | Unknown | hfcsrd/cryptographyAny-to-Any | UpdatedNov 17, 2024 | [Link](https://huggingface.co/hfcsrd/cryptography) |
@@ -2296,6 +2297,7 @@ Updated on 2025-09-05
 | UpdatedApr 24, 2024 | 541 | unum-cloud/uform-gen2-dpoImage-to-Text | 1B | [Link](https://huggingface.co/unum-cloud/uform-gen2-dpo) |
 | Updated4 days ago | 485 | mradermacher/Qwen2 | 8B | [Link](https://huggingface.co/mradermacher/Qwen2.5-VL-7B-Abliterated-Caption-it-GGUF) |
 | UpdatedAug 26, 2024 | 467 | LeroyDyer/SpydazWebAI_Image_ProjectorsImage-to-Text | 7B | [Link](https://huggingface.co/LeroyDyer/SpydazWebAI_Image_Projectors) |
+| UpdatedJan 6, 2024 | 441 | Ransaka/TrOCR-SinhalaImage-to-Text | 0.3B | [Link](https://huggingface.co/Ransaka/TrOCR-Sinhala) |
 | Updated2 days ago | 230 | HelloKKMe/GTA1-32BImage-to-Text | 33B | [Link](https://huggingface.co/HelloKKMe/GTA1-32B) |
 | 7.46k | 213 | xtuner/llava-llama-3-8b-v1_1-ggufImage-to-Text | UpdatedApr 30, 2024 | [Link](https://huggingface.co/xtuner/llava-llama-3-8b-v1_1-gguf) |
 | UpdatedMar 5 | 180 | r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUF) |
@@ -2410,6 +2412,7 @@ Updated on 2025-09-05
 | Updated5 days ago | 5.7k | ChatDOC/OCRFlux-3BImage-to-Text | 4B | [Link](https://huggingface.co/ChatDOC/OCRFlux-3B) |
 | UpdatedJan 20 | 5.45k | HuggingFaceTB/SmolVLM-256M-BaseImage-to-Text | 0.3B | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-256M-Base) |
 | UpdatedAug 23, 2023 | 5 | AIris-Channel/vit-gpt2-verifycode-captionImage-to-Text | 0.2B | [Link](https://huggingface.co/AIris-Channel/vit-gpt2-verifycode-caption) |
+| UpdatedFeb 19 | 5 | moot20/SmolVLM-256M-Base-MLXImage-to-Text | 0.3B | [Link](https://huggingface.co/moot20/SmolVLM-256M-Base-MLX) |
 | 17 | 4 | MixTex/tiny-ZhEn-for-onnxImage-to-Text | UpdatedFeb 23 | [Link](https://huggingface.co/MixTex/tiny-ZhEn-for-onnx) |
 | 14 | 4 | unalignment/Pixtral-12B-Captioner-RelaxedImage-to-Text | UpdatedJan 22 | [Link](https://huggingface.co/unalignment/Pixtral-12B-Captioner-Relaxed) |
 | 3.42k | 4 | breezedeus/pix2text-mfdImage-to-Text | UpdatedJul 10, 2024 | [Link](https://huggingface.co/breezedeus/pix2text-mfd) |
@@ -4118,12 +4121,14 @@ Updated on 2025-09-05
 | 56.7k | 35 | unsloth/Phi-4-reasoning-plus-GGUFText | Updated4 days ago | [Link](https://huggingface.co/unsloth/Phi-4-reasoning-plus-GGUF) |
 | 4.1k | 34 | bartowski/mistralai_Mistral-Small-3 | Updatedabout 18 hours ago | [Link](https://huggingface.co/bartowski/mistralai_Mistral-Small-3.1-24B-Instruct-2503-GGUF) |
 | Updated1 day ago | 34 | nvidia/NVIDIA-Nemotron-Nano-9B-v2-BaseText | 9B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2-Base) |
+| Updatedabout 6 hours ago | 34 | continuedev/instinctText | 8B | [Link](https://huggingface.co/continuedev/instinct) |
 | 566 | 33 | deepcogito/cogito-v1-preview-qwen-14BText | Updated1 day ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-qwen-14B) |
 | 115 | 33 | shuttleai/shuttle-3 | Updated2 days ago | [Link](https://huggingface.co/shuttleai/shuttle-3.5) |
 | 4.66k | 33 | Qwen/Qwen3-32B-AWQText | Updated5 days ago | [Link](https://huggingface.co/Qwen/Qwen3-32B-AWQ) |
 | 23 | 33 | rednote-hilab/dots | Updatedabout 9 hours ago | [Link](https://huggingface.co/rednote-hilab/dots.llm1.inst) |
 | Updatedabout 4 hours ago | 33 | baidu/ERNIE-4 | 22B | [Link](https://huggingface.co/baidu/ERNIE-4.5-21B-A3B-PT) |
 | Updatedabout 6 hours ago | 33 | Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8Text | 480B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8) |
+| Updatedabout 1 hour ago | 33 | Kwai-Klear/Klear-46B-A2 | 46B | [Link](https://huggingface.co/Kwai-Klear/Klear-46B-A2.5B-Instruct) |
 | 5.81k | 32 | trillionlabs/Trillion-7B-previewText | Updatedabout 3 hours ago | [Link](https://huggingface.co/trillionlabs/Trillion-7B-preview) |
 | 224 | 32 | JetBrains/Mellum-4b-sft-pythonText | Updated6 days ago | [Link](https://huggingface.co/JetBrains/Mellum-4b-sft-python) |
 | 131 | 32 | nvidia/AceReason-Nemotron-14BText | Updatedabout 3 hours ago | [Link](https://huggingface.co/nvidia/AceReason-Nemotron-14B) |
