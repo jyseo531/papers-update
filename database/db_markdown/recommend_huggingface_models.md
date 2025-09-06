@@ -2308,6 +2308,7 @@ Updated on 2025-09-06
 | UpdatedMay 27 | 150 | songhieng/khmer-trocr-ocr-v1 | 0.4B | [Link](https://huggingface.co/songhieng/khmer-trocr-ocr-v1.0) |
 | UpdatedMar 25 | 145 | dh-unibe/trocr-kurrentImage-to-Text | 0.3B | [Link](https://huggingface.co/dh-unibe/trocr-kurrent) |
 | UpdatedMay 24 | 137 | unsloth/Cosmos-Reason1-7BImage-to-Text | 8B | [Link](https://huggingface.co/unsloth/Cosmos-Reason1-7B) |
+| UpdatedJul 22 | 135 | sugiv/cardvaultplus-500m-ggufImage-to-Text | 0.4B | [Link](https://huggingface.co/sugiv/cardvaultplus-500m-gguf) |
 | 1.69k | 134 | xtuner/llava-phi-3-mini-ggufImage-to-Text | UpdatedApr 29, 2024 | [Link](https://huggingface.co/xtuner/llava-phi-3-mini-gguf) |
 | UpdatedFeb 25 | 117k | allenai/olmOCR-7B-0225-previewImage-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview) |
 | UpdatedApr 2 | 116k | reducto/RolmOCRImage-to-Text | 8B | [Link](https://huggingface.co/reducto/RolmOCR) |
@@ -4237,6 +4238,7 @@ Updated on 2025-09-06
 | 15 | 20 | Intelligent-Internet/II-Medical-8B-1706Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/Intelligent-Internet/II-Medical-8B-1706) |
 | Updatedabout 1 hour ago | 20 | PowerInfer/SmallThinker-21BA3B-InstructText | 22B | [Link](https://huggingface.co/PowerInfer/SmallThinker-21BA3B-Instruct) |
 | Updatedabout 13 hours ago | 20 | nvidia/NVIDIA-Nemotron-Nano-12B-v2-BaseText | 12B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-12B-v2-Base) |
+| Updatedabout 22 hours ago | 20 | openbmb/MiniCPM4 | 8B | [Link](https://huggingface.co/openbmb/MiniCPM4.1-8B) |
 | 14.1k | 19 | alamios/Mistral-Small-3 | Updated10 days ago | [Link](https://huggingface.co/alamios/Mistral-Small-3.1-DRAFT-0.5B) |
 | 358 | 19 | all-hands/openhands-lm-7b-v0 | Updated1 day ago | [Link](https://huggingface.co/all-hands/openhands-lm-7b-v0.1) |
 | 105 | 19 | nvidia/OpenCodeReasoning-Nemotron-32B-IOIText | Updated6 days ago | [Link](https://huggingface.co/nvidia/OpenCodeReasoning-Nemotron-32B-IOI) |
@@ -4923,6 +4925,7 @@ Updated on 2025-09-06
 | UpdatedSep 1, 2023 | 141 | facebook/mms-tts-tgkText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-tgk) |
 | 18.2k | 136 | parler-tts/parler-tts-mini-v1Text-to-Speech | UpdatedNov 25, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-mini-v1) |
 | 19.6k | 127 | onnx-community/Kokoro-82M-ONNXText-to-Speech | Updated17 days ago | [Link](https://huggingface.co/onnx-community/Kokoro-82M-ONNX) |
+| Updated1 day ago | 115 | vibevoice/VibeVoice-1 | 3B | [Link](https://huggingface.co/vibevoice/VibeVoice-1.5B) |
 | 29.7k | 105 | ai4bharat/indic-parler-ttsText-to-Speech | UpdatedDec 9, 2024 | [Link](https://huggingface.co/ai4bharat/indic-parler-tts) |
 | Updatedabout 2 hours ago | 105 | webbigdata/VoiceCoreText-to-Speech | 3B | [Link](https://huggingface.co/webbigdata/VoiceCore) |
 | 1.68k | 104 | parler-tts/parler-tts-mini-expressoText-to-Speech | UpdatedMay 21, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-mini-expresso) |
