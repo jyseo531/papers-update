@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-09-06
+Updated on 2025-09-07
 
 > Generated from the Hugging Face database.
 
@@ -4019,6 +4019,7 @@ Updated on 2025-09-06
 | Updated3 days ago | 121 | nvidia/OpenReasoning-Nemotron-14BText | 15B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-14B) |
 | Updatedabout 11 hours ago | 115 | mistralai/Devstral-Small-2507Text | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2507) |
 | Updated1 day ago | 111 | moelanoby/phi-3-M3-coderText | 4B | [Link](https://huggingface.co/moelanoby/phi-3-M3-coder) |
+| Updated4 days ago | 110 | LatitudeGames/Wayfarer-2-12BText | 12B | [Link](https://huggingface.co/LatitudeGames/Wayfarer-2-12B) |
 | 176 | 109 | nvidia/DeepSeek-R1-FP4Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/nvidia/DeepSeek-R1-FP4) |
 | 3 | 107 | MiniMaxAI/MiniMax-M1-80kText | Updatedabout 10 hours ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M1-80k) |
 | UpdatedMay 26 | 105k | mistralai/Devstral-Small-2505Text | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2505) |
@@ -4912,6 +4913,7 @@ Updated on 2025-09-06
 | Updated17 days ago | 383 | tensorblock/maya-research_Veena-GGUFText-to-Speech | 4B | [Link](https://huggingface.co/tensorblock/maya-research_Veena-GGUF) |
 | 5.64k | 352 | parler-tts/parler_tts_mini_v0 | UpdatedApr 30, 2024 | [Link](https://huggingface.co/parler-tts/parler_tts_mini_v0.1) |
 | UpdatedMay 25, 2024 | 323 | utrobinmv/tts_ru_free_hf_vits_high_multispeakerText-to-Speech | 0.0B | [Link](https://huggingface.co/utrobinmv/tts_ru_free_hf_vits_high_multispeaker) |
+| Updated3 days ago | 279 | sheliak/VibeVoice-Large_MirrorText-to-Speech | 9B | [Link](https://huggingface.co/sheliak/VibeVoice-Large_Mirror) |
 | 171 | 276 | amphion/MaskGCTText-to-Speech | UpdatedDec 22, 2024 | [Link](https://huggingface.co/amphion/MaskGCT) |
 | 1.5k | 272 | facebook/fastspeech2-en-ljspeechText-to-Speech | UpdatedJan 28, 2022 | [Link](https://huggingface.co/facebook/fastspeech2-en-ljspeech) |
 | 116k | 255 | myshell-ai/MeloTTS-EnglishText-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/MeloTTS-English) |
@@ -5284,6 +5286,7 @@ Updated on 2025-09-06
 | 2 | Unknown | deadman44/Wan2 | Updatedabout 22 hours ago | [Link](https://huggingface.co/deadman44/Wan2.2_Workflow_for_myxx_series_LoRA) |
 | 17 | Unknown | BowenXue/Stand-InText-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/BowenXue/Stand-In) |
 | 4 | Unknown | Kunbyte/LumenText-to-Video | Updatedabout 23 hours ago | [Link](https://huggingface.co/Kunbyte/Lumen) |
+| 5 | Unknown | Eyeline-Labs/CineScaleText-to-Video | Updated7 days ago | [Link](https://huggingface.co/Eyeline-Labs/CineScale) |
 
 ## Text2Text Generation
 
