@@ -4016,6 +4016,7 @@ Updated on 2025-09-07
 | Updatedabout 6 hours ago | 136 | naver-hyperclovax/HyperCLOVAX-SEED-Think-14BText | 15B | [Link](https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Think-14B) |
 | 324 | 133 | moonshotai/Kimi-Dev-72BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-Dev-72B) |
 | Updatedabout 18 hours ago | 125 | NousResearch/Hermes-4-405BText | 406B | [Link](https://huggingface.co/NousResearch/Hermes-4-405B) |
+| Updated3 days ago | 125 | janhq/Jan-v1-edgeText | 2B | [Link](https://huggingface.co/janhq/Jan-v1-edge) |
 | Updated3 days ago | 121 | nvidia/OpenReasoning-Nemotron-14BText | 15B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-14B) |
 | Updatedabout 11 hours ago | 115 | mistralai/Devstral-Small-2507Text | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2507) |
 | Updated1 day ago | 111 | moelanoby/phi-3-M3-coderText | 4B | [Link](https://huggingface.co/moelanoby/phi-3-M3-coder) |
@@ -5287,6 +5288,7 @@ Updated on 2025-09-07
 | 17 | Unknown | BowenXue/Stand-InText-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/BowenXue/Stand-In) |
 | 4 | Unknown | Kunbyte/LumenText-to-Video | Updatedabout 23 hours ago | [Link](https://huggingface.co/Kunbyte/Lumen) |
 | 5 | Unknown | Eyeline-Labs/CineScaleText-to-Video | Updated7 days ago | [Link](https://huggingface.co/Eyeline-Labs/CineScale) |
+| 5 | Unknown | Cseti/wan2 | Updated5 days ago | [Link](https://huggingface.co/Cseti/wan2.2-14B-Kinestasis_concept-lora-v1) |
 
 ## Text2Text Generation
 
