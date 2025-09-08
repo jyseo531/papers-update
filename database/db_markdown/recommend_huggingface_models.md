@@ -34,6 +34,7 @@ Updated on 2025-09-08
 | Updatedabout 1 hour ago | 14 | AIDC-AI/Ovis-U1-3BAny-to-Any | 4B | [Link](https://huggingface.co/AIDC-AI/Ovis-U1-3B) |
 | Updated2 days ago | 12 | EasonXiao-888/HaploOmniAny-to-Any | 9B | [Link](https://huggingface.co/EasonXiao-888/HaploOmni) |
 | UpdatedApr 26 | 11 | yujiepan/qwen2 | 0.0B | [Link](https://huggingface.co/yujiepan/qwen2.5-omni-tiny-random) |
+| 42 | 10 | sanaka87/BAGEL-RecAAny-to-Any | Updated2 days ago | [Link](https://huggingface.co/sanaka87/BAGEL-RecA) |
 | 23 | 9 | Alpha-VLLM/Lumina-mGPT-7B-1024Any-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-1024) |
 | 612 | 7 | internlm/internlm-xcomposer2d5-7b-rewardAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/internlm/internlm-xcomposer2d5-7b-reward) |
 | 16 | 7 | FunAGI/Qwen2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/FunAGI/Qwen2.5-Omni-7B-GPTQ-4bit) |
@@ -2111,6 +2112,7 @@ Updated on 2025-09-08
 | 33 | 7 | kontext-community/relighting-kontext-dev-lora-v3Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/kontext-community/relighting-kontext-dev-lora-v3) |
 | 1.97k | 6 | TencentARC/t2iadapter_sketch_sd15v2Image-to-Image | UpdatedAug 1, 2023 | [Link](https://huggingface.co/TencentARC/t2iadapter_sketch_sd15v2) |
 | 443 | 6 | LPX55/FLUX | Updated6 days ago | [Link](https://huggingface.co/LPX55/FLUX.1_Kontext-Lightning) |
+| 8 | 6 | stepfun-ai/Step1X-Edit-v1p2-previewImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/stepfun-ai/Step1X-Edit-v1p2-preview) |
 | 80 | 5 | jasperai/LBM_relightingImage-to-Image | Updated8 days ago | [Link](https://huggingface.co/jasperai/LBM_relighting) |
 | 6 | 5 | carsonkatri/stable-diffusion-2-depth-diffusersImage-to-Image | UpdatedDec 2, 2022 | [Link](https://huggingface.co/carsonkatri/stable-diffusion-2-depth-diffusers) |
 | 128 | 5 | qualcomm/LaMa-DilatedImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/qualcomm/LaMa-Dilated) |
@@ -2428,6 +2430,7 @@ Updated on 2025-09-08
 | UpdatedMay 9 | 3.33k | tngtech/olmOCR-7B-faithfulImage-to-Text | 8B | [Link](https://huggingface.co/tngtech/olmOCR-7B-faithful) |
 | Updatedabout 4 hours ago | 3 | allenai/olmOCR-7B-0725-FP8Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0725-FP8) |
 | 143 | 3 | mobiuslabsgmbh/Qwen2 | UpdatedJun 6 | [Link](https://huggingface.co/mobiuslabsgmbh/Qwen2.5-VL-7B-Instruct_gemlite-ao_a8w8) |
+| Updated1 day ago | 3 | snskrt/sanskrit-ocr-qwen2vlImage-to-Text | 2B | [Link](https://huggingface.co/snskrt/sanskrit-ocr-qwen2vl) |
 | 51 | 2 | microsoft/git-base-msrvtt-qaImage-to-Text | UpdatedApr 4, 2024 | [Link](https://huggingface.co/microsoft/git-base-msrvtt-qa) |
 | 32 | 2 | baseplate/vit-gpt2-image-captioningImage-to-Text | UpdatedApr 5, 2023 | [Link](https://huggingface.co/baseplate/vit-gpt2-image-captioning) |
 | 38 | 2 | sbintuitions/sarashina2-vision-14bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-14b) |
@@ -4912,6 +4915,7 @@ Updated on 2025-09-08
 | 5.67k | 478 | nari-labs/Dia-1 | Updatedabout 9 hours ago | [Link](https://huggingface.co/nari-labs/Dia-1.6B) |
 | 8.56k | 455 | HKUSTAudio/Llasa-3BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-3B) |
 | 199 | 451 | CAMB-AI/MARS5-TTSText-to-Speech | UpdatedJul 5, 2024 | [Link](https://huggingface.co/CAMB-AI/MARS5-TTS) |
+| Updatedabout 11 hours ago | 389 | calcuis/vibevoice-ggufText-to-Speech | 3B | [Link](https://huggingface.co/calcuis/vibevoice-gguf) |
 | Updated17 days ago | 383 | tensorblock/maya-research_Veena-GGUFText-to-Speech | 4B | [Link](https://huggingface.co/tensorblock/maya-research_Veena-GGUF) |
 | 5.64k | 352 | parler-tts/parler_tts_mini_v0 | UpdatedApr 30, 2024 | [Link](https://huggingface.co/parler-tts/parler_tts_mini_v0.1) |
 | UpdatedMay 25, 2024 | 323 | utrobinmv/tts_ru_free_hf_vits_high_multispeakerText-to-Speech | 0.0B | [Link](https://huggingface.co/utrobinmv/tts_ru_free_hf_vits_high_multispeaker) |
