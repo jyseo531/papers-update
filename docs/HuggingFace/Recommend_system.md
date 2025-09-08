@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-09-07
+Updated on 2025-09-08
 
 > Generated from the Hugging Face database.
 
@@ -4895,6 +4895,7 @@ Updated on 2025-09-07
 | 5 | Unknown | blurgy/CoMPaSS-SD1 | Updated8 days ago | [Link](https://huggingface.co/blurgy/CoMPaSS-SD1.5) |
 | 14 | Unknown | ostris/qwen_image_edit_inpaintingText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/ostris/qwen_image_edit_inpainting) |
 | 81 |  | kudzueye/boreal-qwen-imageText-to-Image | Updated1 day ago | [Link](https://huggingface.co/kudzueye/boreal-qwen-image) |
+| 24 |  | prithivMLmods/Qwen-Image-HeadshotXText-to-Image | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-HeadshotX) |
 
 ## Text-to-Speech
 
@@ -4992,6 +4993,7 @@ Updated on 2025-09-07
 | 6 | 7 | nassimaODL/ssml-breaks2ssml-fr-loraText-to-Speech | Updatedabout 21 hours ago | [Link](https://huggingface.co/nassimaODL/ssml-breaks2ssml-fr-lora) |
 | Updatedabout 5 hours ago | 7 | Vyvo/VyvoTTS-LFM2-350M-JennyText-to-Speech | 0.4B | [Link](https://huggingface.co/Vyvo/VyvoTTS-LFM2-350M-Jenny) |
 | Updatedabout 9 hours ago | 7 | DeepMount00/Sibilia-TTSText-to-Speech | 2B | [Link](https://huggingface.co/DeepMount00/Sibilia-TTS) |
+| 12 | 7 | AhmedEladl/saudi-ttsText-to-Speech | Updated7 days ago | [Link](https://huggingface.co/AhmedEladl/saudi-tts) |
 | 13 | 6 | ntdgo/ttsviText-to-Speech | UpdatedApr 17, 2024 | [Link](https://huggingface.co/ntdgo/ttsvi) |
 | 29 | 6 | erax-ai/EraX-Smile-UnixSex-F5Text-to-Speech | Updatedabout 8 hours ago | [Link](https://huggingface.co/erax-ai/EraX-Smile-UnixSex-F5) |
 | 29 | 6 | ICTNLP/SLED-TTS-Streaming-LibriheavyText-to-Speech | Updatedabout 18 hours ago | [Link](https://huggingface.co/ICTNLP/SLED-TTS-Streaming-Libriheavy) |
