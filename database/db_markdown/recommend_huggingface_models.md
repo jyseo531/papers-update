@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-09-08
+Updated on 2025-09-09
 
 > Generated from the Hugging Face database.
 
@@ -2479,6 +2479,7 @@ Updated on 2025-09-08
 | Updated10 days ago | 1.33k | RedHatAI/Qwen2 | 13B | [Link](https://huggingface.co/RedHatAI/Qwen2.5-VL-72B-Instruct-quantized.w4a16) |
 | UpdatedJun 12, 2024 | 1.13k | cyberagent/llava-calm2-siglipImage-to-Text | 7B | [Link](https://huggingface.co/cyberagent/llava-calm2-siglip) |
 | 2 | 1 | dsupa/mangaocr-hoogberta-v2Image-to-Text | UpdatedApr 23, 2023 | [Link](https://huggingface.co/dsupa/mangaocr-hoogberta-v2) |
+| 6 | 1 | agestau/fashion_captioning_v3Image-to-Text | UpdatedMay 15, 2023 | [Link](https://huggingface.co/agestau/fashion_captioning_v3) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -4673,6 +4674,7 @@ Updated on 2025-09-08
 | 14.6k | 321 | JujoHotaru/loraText-to-Image | UpdatedApr 28 | [Link](https://huggingface.co/JujoHotaru/lora) |
 | 3.97k | 317 | Shitao/OmniGen-v1Text-to-Image | UpdatedNov 7, 2024 | [Link](https://huggingface.co/Shitao/OmniGen-v1) |
 | 15.3k | 254 | InstantX/FLUX | UpdatedNov 23, 2024 | [Link](https://huggingface.co/InstantX/FLUX.1-dev-IP-Adapter) |
+| 28.5k | 241 | xinsir/controlnet-openpose-sdxl-1 | UpdatedJul 9, 2024 | [Link](https://huggingface.co/xinsir/controlnet-openpose-sdxl-1.0) |
 | 55k | 234 | SG161222/Realistic_Vision_V6 | UpdatedOct 8, 2024 | [Link](https://huggingface.co/SG161222/Realistic_Vision_V6.0_B1_noVAE) |
 | 126k | 206 | RunDiffusion/Juggernaut-XL-v9Text-to-Image | UpdatedDec 11, 2024 | [Link](https://huggingface.co/RunDiffusion/Juggernaut-XL-v9) |
 | 37.6k | 156 | tianweiy/DMD2Text-to-Image | UpdatedJun 11, 2024 | [Link](https://huggingface.co/tianweiy/DMD2) |
