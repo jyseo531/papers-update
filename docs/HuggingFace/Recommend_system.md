@@ -48,6 +48,7 @@ Updated on 2025-09-09
 | 26 | 4 | EPFL-VILAB/4M-7-T2I_XL_CC12MAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-7-T2I_XL_CC12M) |
 | 8 | 4 | DFloat11/BAGEL-7B-MoT-DF11Any-to-Any | Updatedabout 23 hours ago | [Link](https://huggingface.co/DFloat11/BAGEL-7B-MoT-DF11) |
 | 12 | 4 | wikeeyang/UniWorld-V1-NF4Any-to-Any | Updatedabout 5 hours ago | [Link](https://huggingface.co/wikeeyang/UniWorld-V1-NF4) |
+| Updatedabout 1 hour ago | 4 | Alpha-VLLM/Lumina-DiMOOAny-to-Any | 8B | [Link](https://huggingface.co/Alpha-VLLM/Lumina-DiMOO) |
 | 481k | 3.11k | deepseek-ai/Janus-Pro-7BAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-7B) |
 | 78 | 3 | VARGPT-family/VARGPT_LLaVA-v1Any-to-Any | UpdatedJan 23 | [Link](https://huggingface.co/VARGPT-family/VARGPT_LLaVA-v1) |
 | 2 | 3 | impactframes/Janus-1 | UpdatedOct 19, 2024 | [Link](https://huggingface.co/impactframes/Janus-1.3B) |
@@ -2287,6 +2288,7 @@ Updated on 2025-09-09
 | 5 | Unknown | flymy-ai/qwen-image-edit-inscene-loraImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/flymy-ai/qwen-image-edit-inscene-lora) |
 | 6 | Unknown | HiDream-ai/VAREditImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/HiDream-ai/VAREdit) |
 | 8 | Unknown | peteromallet/Qwen-Image-Edit-InStyleImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/peteromallet/Qwen-Image-Edit-InStyle) |
+| 573 |  | Kontext-Style/Ghibli_loraImage-to-Image | UpdatedJul 5 | [Link](https://huggingface.co/Kontext-Style/Ghibli_lora) |
 
 ## Image-to-Text
 
@@ -2397,6 +2399,7 @@ Updated on 2025-09-09
 | Updated13 days ago | 8 | CraftJarvis/base-text-action-qwen2vl-7b-250717-8800-stepImage-to-Text | 8B | [Link](https://huggingface.co/CraftJarvis/base-text-action-qwen2vl-7b-250717-8800-step) |
 | UpdatedMay 23, 2024 | 8 | waleko/TikZ-llava-1 | 7B | [Link](https://huggingface.co/waleko/TikZ-llava-1.5-7b) |
 | Updatedabout 3 hours ago | 8 | xlangai/OpenCUA-7BImage-to-Text | 8B | [Link](https://huggingface.co/xlangai/OpenCUA-7B) |
+| UpdatedJul 13, 2024 | 8 | matthh/git-image-to-g-codeImage-to-Text | 0.2B | [Link](https://huggingface.co/matthh/git-image-to-g-code) |
 | 1.58k | 7 | DunnBC22/trocr-base-printed_captcha_ocrImage-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-base-printed_captcha_ocr) |
 | 24.7k | 7 | Riksarkivet/trocr-base-handwritten-hist-swe-2Image-to-Text | Updated11 days ago | [Link](https://huggingface.co/Riksarkivet/trocr-base-handwritten-hist-swe-2) |
 | 285 | 7 | purna419/invoice-parserImage-to-Text | UpdatedJul 10, 2023 | [Link](https://huggingface.co/purna419/invoice-parser) |
@@ -4706,6 +4709,7 @@ Updated on 2025-09-09
 | 713 | 13 | ABDALLALSWAITI/FLUX | Updated3 days ago | [Link](https://huggingface.co/ABDALLALSWAITI/FLUX.1-dev-ControlNet-Union-Pro-2.0-fp8) |
 | 217 | 12 | city96/HiDream-I1-Dev-ggufText-to-Image | Updated1 day ago | [Link](https://huggingface.co/city96/HiDream-I1-Dev-gguf) |
 | Updatedabout 4 hours ago | 12 | stepfun-ai/NextStep-1-LargeText-to-Image | 15B | [Link](https://huggingface.co/stepfun-ai/NextStep-1-Large) |
+| 59 | 12 | bytedance-research/UMOText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/bytedance-research/UMO) |
 | 116 | 11 | Efficient-Large-Model/SANA1 | Updatedabout 6 hours ago | [Link](https://huggingface.co/Efficient-Large-Model/SANA1.5_4.8B_1024px) |
 | 687 | 11 | azaneko/HiDream-I1-Full-nf4Text-to-Image | Updated3 days ago | [Link](https://huggingface.co/azaneko/HiDream-I1-Full-nf4) |
 | 945 | 11 | calcuis/hidream-ggufText-to-Image | Updated20 minutes ago | [Link](https://huggingface.co/calcuis/hidream-gguf) |
@@ -4901,6 +4905,7 @@ Updated on 2025-09-09
 | 14 | Unknown | ostris/qwen_image_edit_inpaintingText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/ostris/qwen_image_edit_inpainting) |
 | 81 |  | kudzueye/boreal-qwen-imageText-to-Image | Updated1 day ago | [Link](https://huggingface.co/kudzueye/boreal-qwen-image) |
 | 24 |  | prithivMLmods/Qwen-Image-HeadshotXText-to-Image | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-HeadshotX) |
+| 227 | Unknown | tencent/HunyuanImage-2 | Updatedabout 2 hours ago | [Link](https://huggingface.co/tencent/HunyuanImage-2.1) |
 
 ## Text-to-Speech
 
@@ -4935,6 +4940,7 @@ Updated on 2025-09-09
 | UpdatedSep 1, 2023 | 141 | facebook/mms-tts-tgkText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-tgk) |
 | 18.2k | 136 | parler-tts/parler-tts-mini-v1Text-to-Speech | UpdatedNov 25, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-mini-v1) |
 | 19.6k | 127 | onnx-community/Kokoro-82M-ONNXText-to-Speech | Updated17 days ago | [Link](https://huggingface.co/onnx-community/Kokoro-82M-ONNX) |
+| UpdatedJun 1 | 123 | keanteng/sesame-csm-eliseText-to-Speech | 2B | [Link](https://huggingface.co/keanteng/sesame-csm-elise) |
 | Updated1 day ago | 115 | vibevoice/VibeVoice-1 | 3B | [Link](https://huggingface.co/vibevoice/VibeVoice-1.5B) |
 | 29.7k | 105 | ai4bharat/indic-parler-ttsText-to-Speech | UpdatedDec 9, 2024 | [Link](https://huggingface.co/ai4bharat/indic-parler-tts) |
 | Updatedabout 2 hours ago | 105 | webbigdata/VoiceCoreText-to-Speech | 3B | [Link](https://huggingface.co/webbigdata/VoiceCore) |
