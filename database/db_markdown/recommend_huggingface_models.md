@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-09-09
+Updated on 2025-09-10
 
 > Generated from the Hugging Face database.
 
@@ -2302,6 +2302,7 @@ Updated on 2025-09-09
 | Updated4 days ago | 485 | mradermacher/Qwen2 | 8B | [Link](https://huggingface.co/mradermacher/Qwen2.5-VL-7B-Abliterated-Caption-it-GGUF) |
 | UpdatedAug 26, 2024 | 467 | LeroyDyer/SpydazWebAI_Image_ProjectorsImage-to-Text | 7B | [Link](https://huggingface.co/LeroyDyer/SpydazWebAI_Image_Projectors) |
 | UpdatedJan 6, 2024 | 441 | Ransaka/TrOCR-SinhalaImage-to-Text | 0.3B | [Link](https://huggingface.co/Ransaka/TrOCR-Sinhala) |
+| UpdatedNov 28, 2024 | 429 | MohamedRashad/arabic-small-nougatImage-to-Text | 0.2B | [Link](https://huggingface.co/MohamedRashad/arabic-small-nougat) |
 | Updated2 days ago | 230 | HelloKKMe/GTA1-32BImage-to-Text | 33B | [Link](https://huggingface.co/HelloKKMe/GTA1-32B) |
 | 7.46k | 213 | xtuner/llava-llama-3-8b-v1_1-ggufImage-to-Text | UpdatedApr 30, 2024 | [Link](https://huggingface.co/xtuner/llava-llama-3-8b-v1_1-gguf) |
 | UpdatedMar 5 | 180 | r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUF) |
@@ -4092,6 +4093,7 @@ Updated on 2025-09-09
 | Updatedabout 1 hour ago | 49 | swiss-ai/Apertus-8B-Instruct-2509Text | 8B | [Link](https://huggingface.co/swiss-ai/Apertus-8B-Instruct-2509) |
 | Updatedabout 16 hours ago | 48 | osmosis-ai/Osmosis-Apply-1 | 2B | [Link](https://huggingface.co/osmosis-ai/Osmosis-Apply-1.7B) |
 | 39 | 47 | open-r1/OlympicCoder-32BText | Updatedabout 17 hours ago | [Link](https://huggingface.co/open-r1/OlympicCoder-32B) |
+| Updatedabout 13 hours ago | 47 | LLM360/K2-ThinkText | 33B | [Link](https://huggingface.co/LLM360/K2-Think) |
 | 415 | 46 | LGAI-EXAONE/EXAONE-Deep-2 | Updated4 minutes ago | [Link](https://huggingface.co/LGAI-EXAONE/EXAONE-Deep-2.4B) |
 | 151 | 46 | bytedance-research/ChatTS-14BText | Updated2 days ago | [Link](https://huggingface.co/bytedance-research/ChatTS-14B) |
 | 13 | 46 | Qwen/Qwen3-4BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-4B) |
@@ -4707,6 +4709,7 @@ Updated on 2025-09-09
 | 2.1k | 13 | city96/HiDream-I1-Full-ggufText-to-Image | Updated1 day ago | [Link](https://huggingface.co/city96/HiDream-I1-Full-gguf) |
 | 52 | 13 | codermert/bahartek_fluxxxText-to-Image | Updated4 days ago | [Link](https://huggingface.co/codermert/bahartek_fluxxx) |
 | 713 | 13 | ABDALLALSWAITI/FLUX | Updated3 days ago | [Link](https://huggingface.co/ABDALLALSWAITI/FLUX.1-dev-ControlNet-Union-Pro-2.0-fp8) |
+| Updated26 minutes ago | 13 | calcuis/hunyuanimage-ggufText-to-Image | 15B | [Link](https://huggingface.co/calcuis/hunyuanimage-gguf) |
 | 217 | 12 | city96/HiDream-I1-Dev-ggufText-to-Image | Updated1 day ago | [Link](https://huggingface.co/city96/HiDream-I1-Dev-gguf) |
 | Updatedabout 4 hours ago | 12 | stepfun-ai/NextStep-1-LargeText-to-Image | 15B | [Link](https://huggingface.co/stepfun-ai/NextStep-1-Large) |
 | 59 | 12 | bytedance-research/UMOText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/bytedance-research/UMO) |
