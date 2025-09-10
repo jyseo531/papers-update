@@ -35,6 +35,7 @@ Updated on 2025-09-10
 | Updated2 days ago | 12 | EasonXiao-888/HaploOmniAny-to-Any | 9B | [Link](https://huggingface.co/EasonXiao-888/HaploOmni) |
 | UpdatedApr 26 | 11 | yujiepan/qwen2 | 0.0B | [Link](https://huggingface.co/yujiepan/qwen2.5-omni-tiny-random) |
 | 42 | 10 | sanaka87/BAGEL-RecAAny-to-Any | Updated2 days ago | [Link](https://huggingface.co/sanaka87/BAGEL-RecA) |
+| 6 | 10 | dorni/UniVerse-1-BaseAny-to-Any | Updatedabout 10 hours ago | [Link](https://huggingface.co/dorni/UniVerse-1-Base) |
 | 23 | 9 | Alpha-VLLM/Lumina-mGPT-7B-1024Any-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-1024) |
 | 612 | 7 | internlm/internlm-xcomposer2d5-7b-rewardAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/internlm/internlm-xcomposer2d5-7b-reward) |
 | 16 | 7 | FunAGI/Qwen2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/FunAGI/Qwen2.5-Omni-7B-GPTQ-4bit) |
@@ -2109,6 +2110,7 @@ Updated on 2025-09-10
 |  | 9 | ilkerzgi/Overlay-Kontext-Dev-LoRAImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/ilkerzgi/Overlay-Kontext-Dev-LoRA) |
 | 109k | 9 | HighCWu/FLUX | UpdatedJul 5 | [Link](https://huggingface.co/HighCWu/FLUX.1-Kontext-dev-bnb-hqq-4bit) |
 | 59 | 8 | qualcomm/AOT-GANImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/qualcomm/AOT-GAN) |
+|  | 8 | xuminglong/kontext-tryon7Image-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/xuminglong/kontext-tryon7) |
 | 1.74k | 7 | xiaozaa/catvton-flux-betaImage-to-Image | UpdatedJan 16 | [Link](https://huggingface.co/xiaozaa/catvton-flux-beta) |
 | 33 | 7 | kontext-community/relighting-kontext-dev-lora-v3Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/kontext-community/relighting-kontext-dev-lora-v3) |
 | 1.97k | 6 | TencentARC/t2iadapter_sketch_sd15v2Image-to-Image | UpdatedAug 1, 2023 | [Link](https://huggingface.co/TencentARC/t2iadapter_sketch_sd15v2) |
@@ -2154,6 +2156,7 @@ Updated on 2025-09-10
 | 293 | 3 | starsfriday/Qwen-Image-Edit-Remover-General-LoRAImage-to-Image | Updated7 days ago | [Link](https://huggingface.co/starsfriday/Qwen-Image-Edit-Remover-General-LoRA) |
 | 50 | 3 | stepfun-ai/Step1X-Edit-v1p1-diffusersImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/stepfun-ai/Step1X-Edit-v1p1-diffusers) |
 | 83 | 3 | drbaph/Qwen-Image-Edit-Remove-Clothing-LoRAImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/drbaph/Qwen-Image-Edit-Remove-Clothing-LoRA) |
+| 20 | 3 | drbaph/Qwen-Image-Edit-Middle-Finger-LoRAImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/drbaph/Qwen-Image-Edit-Middle-Finger-LoRA) |
 | 67 | 2 | SherryXTChen/InstructCLIP-InstructPix2PixImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/SherryXTChen/InstructCLIP-InstructPix2Pix) |
 | 17 | 2 | SherryXTChen/Instruct-CLIPImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/SherryXTChen/Instruct-CLIP) |
 | 76 | 2 | VisualCloze/VisualClozePipeline-384Image-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/VisualCloze/VisualClozePipeline-384) |
@@ -2355,6 +2358,7 @@ Updated on 2025-09-10
 | 3.75k | 21 | laion/mscoco_finetuned_CoCa-ViT-L-14-laion2B-s13B-b90kImage-to-Text | UpdatedJan 16, 2024 | [Link](https://huggingface.co/laion/mscoco_finetuned_CoCa-ViT-L-14-laion2B-s13B-b90k) |
 | 130 | 20 | Mozilla/distilvitImage-to-Text | UpdatedNov 25, 2024 | [Link](https://huggingface.co/Mozilla/distilvit) |
 | UpdatedAug 1, 2023 | 20 | michelecafagna26/blip-base-captioning-ft-hl-scenesImage-to-Text | 0.2B | [Link](https://huggingface.co/michelecafagna26/blip-base-captioning-ft-hl-scenes) |
+| UpdatedMar 21, 2024 | 20 | SakanaAI/EvoVLM-JP-v1-7BImage-to-Text | 8B | [Link](https://huggingface.co/SakanaAI/EvoVLM-JP-v1-7B) |
 | 376 | 19 | to-be/donut-base-finetuned-invoicesImage-to-Text | UpdatedMar 3, 2023 | [Link](https://huggingface.co/to-be/donut-base-finetuned-invoices) |
 | UpdatedOct 15, 2024 | 19 | Joctor/qwen2-vl-7b-instruct-ogiriImage-to-Text | 8B | [Link](https://huggingface.co/Joctor/qwen2-vl-7b-instruct-ogiri) |
 | 433 | 17 | kpyu/video-blip-opt-2 | UpdatedMay 17, 2023 | [Link](https://huggingface.co/kpyu/video-blip-opt-2.7b-ego4d) |
@@ -4762,6 +4766,7 @@ Updated on 2025-09-10
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
 |  | 5 | multimodalart/reachyText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/multimodalart/reachy) |
 | 169 | 5 | lodestones/Chroma1-BaseText-to-Image | Updated2 days ago | [Link](https://huggingface.co/lodestones/Chroma1-Base) |
+| 431 | 5 | wikeeyang/Magic-Wan-Image-v1 | Updated5 days ago | [Link](https://huggingface.co/wikeeyang/Magic-Wan-Image-v1.0) |
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 2.56k | 3.84k | WarriorMama777/OrangeMixsText-to-Image | UpdatedJan 7, 2024 | [Link](https://huggingface.co/WarriorMama777/OrangeMixs) |
 | Updatedabout 2 hours ago | 3.74k | calcuis/qwen-image-ggufText-to-Image | 20B | [Link](https://huggingface.co/calcuis/qwen-image-gguf) |
@@ -4909,6 +4914,8 @@ Updated on 2025-09-10
 | 81 |  | kudzueye/boreal-qwen-imageText-to-Image | Updated1 day ago | [Link](https://huggingface.co/kudzueye/boreal-qwen-image) |
 | 24 |  | prithivMLmods/Qwen-Image-HeadshotXText-to-Image | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-HeadshotX) |
 | 227 | Unknown | tencent/HunyuanImage-2 | Updatedabout 2 hours ago | [Link](https://huggingface.co/tencent/HunyuanImage-2.1) |
+| 27 | Unknown | nunchaku-tech/nunchaku-qwen-image-editText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-qwen-image-edit) |
+| 7 | Unknown | drbaph/HunyuanImage-2 | Updatedabout 4 hours ago | [Link](https://huggingface.co/drbaph/HunyuanImage-2.1_fp8) |
 
 ## Text-to-Speech
 
