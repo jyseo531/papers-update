@@ -92,6 +92,7 @@ Updated on 2025-09-11
 | 3 | 1 | imkebe/Janus-Pro-1B-rk3588-1 | UpdatedApr 16 | [Link](https://huggingface.co/imkebe/Janus-Pro-1B-rk3588-1.2.0) |
 | Updatedabout 2 hours ago | 1 | Guilherme34/Samantha-omniAny-to-Any | 9B | [Link](https://huggingface.co/Guilherme34/Samantha-omni) |
 | UpdatedJun 3 | 1.97k | deepseek-community/Janus-Pro-1BAny-to-Any | 2B | [Link](https://huggingface.co/deepseek-community/Janus-Pro-1B) |
+| 28 | 1 | AarambhAI/gemma-like-multimodal-speech-vision-textAny-to-Any | Updatedabout 23 hours ago | [Link](https://huggingface.co/AarambhAI/gemma-like-multimodal-speech-vision-text) |
 | 2 | Unknown | guanwenhao/MonoSpeechAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/guanwenhao/MonoSpeech) |
 | 22 | Unknown | Goekdeniz-Guelmez/J | UpdatedOct 29, 2024 | [Link](https://huggingface.co/Goekdeniz-Guelmez/J.O.S.I.E.v4o) |
 | 1 | Unknown | hfcsrd/cryptographyAny-to-Any | UpdatedNov 17, 2024 | [Link](https://huggingface.co/hfcsrd/cryptography) |
@@ -2313,6 +2314,7 @@ Updated on 2025-09-11
 | UpdatedJun 20 | 174k | BCCard/Qwen2 | 33B | [Link](https://huggingface.co/BCCard/Qwen2.5-VL-32B-Instruct-FP8-Dynamic) |
 | Updated1 day ago | 163 | HelloKKMe/GTA1-72BImage-to-Text | 73B | [Link](https://huggingface.co/HelloKKMe/GTA1-72B) |
 | 170k | 159 | microsoft/kosmos-2-patch14-224Image-to-Text | UpdatedNov 28, 2023 | [Link](https://huggingface.co/microsoft/kosmos-2-patch14-224) |
+| UpdatedApr 27, 2024 | 158 | gospacedev/blip-image-captioning-base-bf16Image-to-Text | 0.2B | [Link](https://huggingface.co/gospacedev/blip-image-captioning-base-bf16) |
 | Updated27 days ago | 154k | nvidia/Cosmos-Reason1-7BImage-to-Text | 8B | [Link](https://huggingface.co/nvidia/Cosmos-Reason1-7B) |
 | UpdatedMay 27 | 150 | songhieng/khmer-trocr-ocr-v1 | 0.4B | [Link](https://huggingface.co/songhieng/khmer-trocr-ocr-v1.0) |
 | UpdatedMar 25 | 145 | dh-unibe/trocr-kurrentImage-to-Text | 0.3B | [Link](https://huggingface.co/dh-unibe/trocr-kurrent) |
@@ -4699,6 +4701,7 @@ Updated on 2025-09-11
 | 36 | 51 | THUDM/CogView4-6BText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/THUDM/CogView4-6B) |
 | 87 | 44 | Freepik/F-LiteText-to-Image | Updatedabout 15 hours ago | [Link](https://huggingface.co/Freepik/F-Lite) |
 | 2.23k | 42 | aoxo/flux | Updatedabout 2 hours ago | [Link](https://huggingface.co/aoxo/flux.1dev-abliteratedv2) |
+| 1.18k | 40 | tencent/SRPOText-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/tencent/SRPO) |
 | 5.59k | 33 | hashu786/HYVRewardText-to-Image | Updated5 days ago | [Link](https://huggingface.co/hashu786/HYVReward) |
 | 2.49k | 33 | Heartsync/NSFW-UncensoredText-to-Image | Updated7 days ago | [Link](https://huggingface.co/Heartsync/NSFW-Uncensored) |
 | 145 | 28 | ByteDance/XVerseText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/ByteDance/XVerse) |
@@ -4708,6 +4711,7 @@ Updated on 2025-09-11
 | 59 | 17 | HiDream-ai/HiDream-I1-DevText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/HiDream-ai/HiDream-I1-Dev) |
 | 66 | 16 | HiDream-ai/HiDream-I1-FastText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/HiDream-ai/HiDream-I1-Fast) |
 | 42 | 16 | codermert/burcuufinal_fluxxText-to-Image | Updated5 days ago | [Link](https://huggingface.co/codermert/burcuufinal_fluxx) |
+| 326 | 16 | rockerBOO/flux | Updatedabout 10 hours ago | [Link](https://huggingface.co/rockerBOO/flux.1-dev-SRPO) |
 | 8 | 14 | mikeyandfriends/PixelWave_FLUX | Updated1 day ago | [Link](https://huggingface.co/mikeyandfriends/PixelWave_FLUX.1-schnell_04) |
 |  | 13 | aaronaftab/mirage-ghibliText-to-Image | Updatedabout 14 hours ago | [Link](https://huggingface.co/aaronaftab/mirage-ghibli) |
 | 4 | 13 | fumeisama/drawatoon-v1Text-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/fumeisama/drawatoon-v1) |
