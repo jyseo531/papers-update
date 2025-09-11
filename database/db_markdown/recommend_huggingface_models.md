@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-09-10
+Updated on 2025-09-11
 
 > Generated from the Hugging Face database.
 
@@ -2292,6 +2292,7 @@ Updated on 2025-09-10
 | 6 | Unknown | HiDream-ai/VAREditImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/HiDream-ai/VAREdit) |
 | 8 | Unknown | peteromallet/Qwen-Image-Edit-InStyleImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/peteromallet/Qwen-Image-Edit-InStyle) |
 | 573 |  | Kontext-Style/Ghibli_loraImage-to-Image | UpdatedJul 5 | [Link](https://huggingface.co/Kontext-Style/Ghibli_lora) |
+| 3 | Unknown | danhtran2mind/Real-ESRGAN-Anime-finetuningImage-to-Image | Updated20 days ago | [Link](https://huggingface.co/danhtran2mind/Real-ESRGAN-Anime-finetuning) |
 
 ## Image-to-Text
 
