@@ -72,6 +72,7 @@ Updated on 2025-09-12
 | 8 | 2 | sanaka87/Show-o-ReAlignAny-to-Any | Updatedabout 9 hours ago | [Link](https://huggingface.co/sanaka87/Show-o-ReAlign) |
 | 8 | 2 | sanaka87/Show-o-512x512-ReAlignAny-to-Any | Updatedabout 9 hours ago | [Link](https://huggingface.co/sanaka87/Show-o-512x512-ReAlign) |
 | Updatedabout 7 hours ago | 2.12k | stepfun-ai/Step-Audio-2-miniAny-to-Any | 8B | [Link](https://huggingface.co/stepfun-ai/Step-Audio-2-mini) |
+| Updated1 day ago | 2 | iitolstykh/Bagel-NHR-Edit-V2Any-to-Any | 15B | [Link](https://huggingface.co/iitolstykh/Bagel-NHR-Edit-V2) |
 | 170 | 1 | tezuesh/moshi_generalAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/tezuesh/moshi_general) |
 | 35 | 1 | tezuesh/IBLlama_v1Any-to-Any | UpdatedJan 24 | [Link](https://huggingface.co/tezuesh/IBLlama_v1) |
 | 43 | 1 | Athagi/Janus-Pro-7BAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/Athagi/Janus-Pro-7B) |
@@ -93,6 +94,7 @@ Updated on 2025-09-12
 | Updatedabout 2 hours ago | 1 | Guilherme34/Samantha-omniAny-to-Any | 9B | [Link](https://huggingface.co/Guilherme34/Samantha-omni) |
 | UpdatedJun 3 | 1.97k | deepseek-community/Janus-Pro-1BAny-to-Any | 2B | [Link](https://huggingface.co/deepseek-community/Janus-Pro-1B) |
 | 28 | 1 | AarambhAI/gemma-like-multimodal-speech-vision-textAny-to-Any | Updatedabout 23 hours ago | [Link](https://huggingface.co/AarambhAI/gemma-like-multimodal-speech-vision-text) |
+| 16 | 1 | ILLUME-MLLM/illume_plus-qwen2_5-7b-hfAny-to-Any | UpdatedJun 18 | [Link](https://huggingface.co/ILLUME-MLLM/illume_plus-qwen2_5-7b-hf) |
 | 2 | Unknown | guanwenhao/MonoSpeechAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/guanwenhao/MonoSpeech) |
 | 22 | Unknown | Goekdeniz-Guelmez/J | UpdatedOct 29, 2024 | [Link](https://huggingface.co/Goekdeniz-Guelmez/J.O.S.I.E.v4o) |
 | 1 | Unknown | hfcsrd/cryptographyAny-to-Any | UpdatedNov 17, 2024 | [Link](https://huggingface.co/hfcsrd/cryptography) |
@@ -4017,6 +4019,7 @@ Updated on 2025-09-12
 | 6.51k | 262 | NousResearch/DeepHermes-3-Llama-3-8B-PreviewText | Updated6 days ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview) |
 | Updatedabout 2 hours ago | 255 | agentica-org/DeepSWE-PreviewText | 33B | [Link](https://huggingface.co/agentica-org/DeepSWE-Preview) |
 | UpdatedApr 22 | 246 | inclusionAI/Ling-Coder-liteText | 17B | [Link](https://huggingface.co/inclusionAI/Ling-Coder-lite) |
+| Updatedabout 10 hours ago | 232 | inclusionAI/Ling-mini-2 | 16B | [Link](https://huggingface.co/inclusionAI/Ling-mini-2.0) |
 | Updatedabout 18 hours ago | 217 | google/gemma-3-270mText | 0.3B | [Link](https://huggingface.co/google/gemma-3-270m) |
 | 2.13k | 215 | XiaomiMiMo/MiMo-7B-RLText | Updatedabout 12 hours ago | [Link](https://huggingface.co/XiaomiMiMo/MiMo-7B-RL) |
 | 427 | 204 | microsoft/MAI-DS-R1Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/microsoft/MAI-DS-R1) |
@@ -4062,6 +4065,7 @@ Updated on 2025-09-12
 | Updated2 minutes ago | 79 | Skywork/MindLink-32B-0801Text | 33B | [Link](https://huggingface.co/Skywork/MindLink-32B-0801) |
 | 21.7k | 78 | unsloth/r1-1776-GGUFText | Updated6 days ago | [Link](https://huggingface.co/unsloth/r1-1776-GGUF) |
 | 10 | 78 | JetBrains/Mellum-4b-baseText | Updatedabout 15 hours ago | [Link](https://huggingface.co/JetBrains/Mellum-4b-base) |
+| Updatedabout 17 hours ago | 78 | unsloth/Qwen3-Next-80B-A3B-InstructText | 81B | [Link](https://huggingface.co/unsloth/Qwen3-Next-80B-A3B-Instruct) |
 | 902 | 77 | qihoo360/Light-R1-32BText | Updatedabout 22 hours ago | [Link](https://huggingface.co/qihoo360/Light-R1-32B) |
 | Updatedabout 10 hours ago | 77 | LiquidAI/LFM2-1 | 1B | [Link](https://huggingface.co/LiquidAI/LFM2-1.2B) |
 | Updatedabout 19 hours ago | 76 | ByteDance-Seed/Seed-OSS-36B-BaseText | 36B | [Link](https://huggingface.co/ByteDance-Seed/Seed-OSS-36B-Base) |
