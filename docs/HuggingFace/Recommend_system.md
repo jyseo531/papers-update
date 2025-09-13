@@ -4130,6 +4130,7 @@ Updated on 2025-09-13
 | Updatedabout 2 hours ago | 41 | Intelligent-Internet/II-Search-4BText | 4B | [Link](https://huggingface.co/Intelligent-Internet/II-Search-4B) |
 | 3 | 40 | MiniMaxAI/MiniMax-M1-40kText | Updatedabout 10 hours ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M1-40k) |
 | Updated2 days ago | 40 | Tesslate/UIGEN-X-8BText | 8B | [Link](https://huggingface.co/Tesslate/UIGEN-X-8B) |
+| Updatedabout 3 hours ago | 40 | MachineLearningLM/MachineLearningLM-7B-v1Text | 8B | [Link](https://huggingface.co/MachineLearningLM/MachineLearningLM-7B-v1) |
 | 4 | 39 | Qwen/Qwen3-14BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-14B) |
 | 227 | 38 | LGAI-EXAONE/EXAONE-Deep-7 | Updated4 minutes ago | [Link](https://huggingface.co/LGAI-EXAONE/EXAONE-Deep-7.8B) |
 | 9.86k | 38 | starvector/starvector-1b-im2svgText | Updated2 days ago | [Link](https://huggingface.co/starvector/starvector-1b-im2svg) |
@@ -4934,6 +4935,7 @@ Updated on 2025-09-13
 | 227 | Unknown | tencent/HunyuanImage-2 | Updatedabout 2 hours ago | [Link](https://huggingface.co/tencent/HunyuanImage-2.1) |
 | 27 | Unknown | nunchaku-tech/nunchaku-qwen-image-editText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-qwen-image-edit) |
 | 7 | Unknown | drbaph/HunyuanImage-2 | Updatedabout 4 hours ago | [Link](https://huggingface.co/drbaph/HunyuanImage-2.1_fp8) |
+| 7 | Unknown | wikeeyang/SRPO-Refine-Quantized-v1 | Updated10 minutes ago | [Link](https://huggingface.co/wikeeyang/SRPO-Refine-Quantized-v1.0) |
 
 ## Text-to-Speech
 
