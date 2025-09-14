@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-09-13
+Updated on 2025-09-14
 
 > Generated from the Hugging Face database.
 
@@ -140,6 +140,7 @@ Updated on 2025-09-13
 | 2 | Unknown | Skywork/UniPic2-Metaquery-GRPO-9BAny-to-Any | Updatedabout 9 hours ago | [Link](https://huggingface.co/Skywork/UniPic2-Metaquery-GRPO-9B) |
 | 4 | Unknown | HiDream-ai/VAREditAny-to-Any | Updatedabout 11 hours ago | [Link](https://huggingface.co/HiDream-ai/VAREdit) |
 | 1 | Unknown | sovthpaw/senter-omni-modelAny-to-Any | Updatedabout 4 hours ago | [Link](https://huggingface.co/sovthpaw/senter-omni-model) |
+| 1 | Unknown | keisoft/omega-meta-llama-3-8B-v02Any-to-Any | UpdatedAug 7, 2024 | [Link](https://huggingface.co/keisoft/omega-meta-llama-3-8B-v02) |
 
 ## Audio Classification
 
