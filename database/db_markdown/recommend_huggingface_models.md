@@ -4060,8 +4060,10 @@ Updated on 2025-09-14
 | 695 | 90 | moonshotai/Moonlight-16B-A3B-InstructText | Updated2 days ago | [Link](https://huggingface.co/moonshotai/Moonlight-16B-A3B-Instruct) |
 | 322 | 90 | XiaomiMiMo/MiMo-7B-BaseText | Updatedabout 12 hours ago | [Link](https://huggingface.co/XiaomiMiMo/MiMo-7B-Base) |
 | Updatedabout 7 hours ago | 90 | NousResearch/Hermes-4-70BText | 71B | [Link](https://huggingface.co/NousResearch/Hermes-4-70B) |
+| 27.1k | 89 | google/gemma-3n-E4B-it-litert-lmText | Updated12 days ago | [Link](https://huggingface.co/google/gemma-3n-E4B-it-litert-lm) |
 | 420 | 88 | all-hands/openhands-lm-32b-v0 | Updatedabout 16 hours ago | [Link](https://huggingface.co/all-hands/openhands-lm-32b-v0.1) |
 | 3.93k | 86 | PocketDoc/Dans-PersonalityEngine-V1 | Updated24 days ago | [Link](https://huggingface.co/PocketDoc/Dans-PersonalityEngine-V1.2.0-24b) |
+| Updatedabout 18 hours ago | 86 | Tesslate/WEBGEN-OSS-20BText | 21B | [Link](https://huggingface.co/Tesslate/WEBGEN-OSS-20B) |
 | Updated6 days ago | 85 | AI-MO/Kimina-Prover-72BText | 73B | [Link](https://huggingface.co/AI-MO/Kimina-Prover-72B) |
 | Updatedabout 3 hours ago | 83 | jxm/gpt-oss-20b-baseText | 21B | [Link](https://huggingface.co/jxm/gpt-oss-20b-base) |
 | 966 | 82 | ServiceNow-AI/Apriel-Nemotron-15b-ThinkerText | Updatedabout 5 hours ago | [Link](https://huggingface.co/ServiceNow-AI/Apriel-Nemotron-15b-Thinker) |
