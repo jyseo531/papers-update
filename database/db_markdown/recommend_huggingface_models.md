@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-09-14
+Updated on 2025-09-15
 
 > Generated from the Hugging Face database.
 
@@ -2498,6 +2498,7 @@ Updated on 2025-09-14
 | UpdatedJun 12, 2024 | 1.13k | cyberagent/llava-calm2-siglipImage-to-Text | 7B | [Link](https://huggingface.co/cyberagent/llava-calm2-siglip) |
 | 2 | 1 | dsupa/mangaocr-hoogberta-v2Image-to-Text | UpdatedApr 23, 2023 | [Link](https://huggingface.co/dsupa/mangaocr-hoogberta-v2) |
 | 6 | 1 | agestau/fashion_captioning_v3Image-to-Text | UpdatedMay 15, 2023 | [Link](https://huggingface.co/agestau/fashion_captioning_v3) |
+| UpdatedAug 1, 2024 | 1.19k | SakanaAI/Llama-3-EvoVLM-JP-v2Image-to-Text | 8B | [Link](https://huggingface.co/SakanaAI/Llama-3-EvoVLM-JP-v2) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -4278,6 +4279,7 @@ Updated on 2025-09-14
 | 105 | 19 | nvidia/OpenCodeReasoning-Nemotron-32B-IOIText | Updated6 days ago | [Link](https://huggingface.co/nvidia/OpenCodeReasoning-Nemotron-32B-IOI) |
 | 1.43k | 19 | Motif-Technologies/Motif-2 | Updatedabout 10 hours ago | [Link](https://huggingface.co/Motif-Technologies/Motif-2.6B) |
 | 85 | 19 | THU-KEG/LongWriter-Zero-32BText | Updatedabout 23 hours ago | [Link](https://huggingface.co/THU-KEG/LongWriter-Zero-32B) |
+| Updated5 days ago | 19.6k | unsloth/ERNIE-4 | 22B | [Link](https://huggingface.co/unsloth/ERNIE-4.5-21B-A3B-Thinking-GGUF) |
 | 969 | 18 | bartowski/all-hands_openhands-lm-32b-v0 | Updated2 days ago | [Link](https://huggingface.co/bartowski/all-hands_openhands-lm-32b-v0.1-GGUF) |
 | 256 | 18 | Trendyol/Trendyol-LLM-7B-chat-v4 | Updated3 days ago | [Link](https://huggingface.co/Trendyol/Trendyol-LLM-7B-chat-v4.1.0) |
 | 1.11k | 18 | bartowski/Zyphra_ZR1-1 | Updated1 day ago | [Link](https://huggingface.co/bartowski/Zyphra_ZR1-1.5B-GGUF) |
