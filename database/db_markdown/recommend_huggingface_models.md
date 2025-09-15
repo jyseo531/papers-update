@@ -1747,6 +1747,7 @@ Updated on 2025-09-15
 | 1.38k | 54 | ByteDance/Sa2VA-8BImage-Text-to-Text | UpdatedJan 14 | [Link](https://huggingface.co/ByteDance/Sa2VA-8B) |
 | 6.92k | 53 | 5CD-AI/Vintern-1B-v3_5Image-Text-to-Text | UpdatedFeb 12 | [Link](https://huggingface.co/5CD-AI/Vintern-1B-v3_5) |
 | 88 | 53 | nanonets/Nanonets-OCR-sImage-Text-to-Text | Updatedabout 15 hours ago | [Link](https://huggingface.co/nanonets/Nanonets-OCR-s) |
+| Updatedabout 5 hours ago | 53 | prithivMLmods/Gliese-OCR-7B-Post1 | 8B | [Link](https://huggingface.co/prithivMLmods/Gliese-OCR-7B-Post1.0) |
 | Updated2 days ago | 52 | inference-net/ClipTagger-12bImage-Text-to-Text | 12B | [Link](https://huggingface.co/inference-net/ClipTagger-12b) |
 | 1.27k | 51 | AIDC-AI/Ovis2-8BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-8B) |
 | 848 | 47 | AIDC-AI/Ovis2-2BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-2B) |
@@ -1794,6 +1795,7 @@ Updated on 2025-09-15
 | Updatedabout 8 hours ago | 25 | LiquidAI/LFM2-VL-450MImage-Text-to-Text | 0.5B | [Link](https://huggingface.co/LiquidAI/LFM2-VL-450M) |
 | 280 | 24 | google/paligemma2-28b-mix-448Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-28b-mix-448) |
 | 667 | 24 | nvidia/Eagle2-2BImage-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/nvidia/Eagle2-2B) |
+| Updatedabout 4 hours ago | 24 | Hcompany/Holo1 | 8B | [Link](https://huggingface.co/Hcompany/Holo1.5-7B) |
 | Updatedabout 4 hours ago | 23 | openbmb/MiniCPM-V-4_5Image-Text-to-Text | 9B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4_5) |
 | 27 | 22 | ByteDance-Seed/UI-TARS-1 | Updated14 minutes ago | [Link](https://huggingface.co/ByteDance-Seed/UI-TARS-1.5-7B) |
 | 9 | 21 | Skywork/Skywork-R1V-38BImage-Text-to-Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/Skywork/Skywork-R1V-38B) |
@@ -2299,6 +2301,7 @@ Updated on 2025-09-15
 | 8 | Unknown | peteromallet/Qwen-Image-Edit-InStyleImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/peteromallet/Qwen-Image-Edit-InStyle) |
 | 573 |  | Kontext-Style/Ghibli_loraImage-to-Image | UpdatedJul 5 | [Link](https://huggingface.co/Kontext-Style/Ghibli_lora) |
 | 3 | Unknown | danhtran2mind/Real-ESRGAN-Anime-finetuningImage-to-Image | Updated20 days ago | [Link](https://huggingface.co/danhtran2mind/Real-ESRGAN-Anime-finetuning) |
+| 69 |  | finegrain/finegrain-product-placement-loraImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/finegrain/finegrain-product-placement-lora) |
 
 ## Image-to-Text
 
@@ -4031,6 +4034,7 @@ Updated on 2025-09-15
 | Updated1 day ago | 179 | nvidia/OpenReasoning-Nemotron-7BText | 8B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-7B) |
 | Updated4 days ago | 173 | deepcogito/cogito-v2-preview-deepseek-671B-MoEText | 671B | [Link](https://huggingface.co/deepcogito/cogito-v2-preview-deepseek-671B-MoE) |
 | Updated33 minutes ago | 167 | Qwen/Qwen3-Coder-30B-A3B-InstructText | 31B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct) |
+| Updated2 days ago | 164 | driaforall/mem-agentText | 0.0B | [Link](https://huggingface.co/driaforall/mem-agent) |
 | 77 | 159 | manycore-research/SpatialLM-Llama-1BText | Updated4 days ago | [Link](https://huggingface.co/manycore-research/SpatialLM-Llama-1B) |
 | Updatedabout 10 hours ago | 159 | Qwen/Qwen3-235B-A22B-Instruct-2507Text | 235B | [Link](https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507) |
 | 6.18k | 156 | google/medgemma-27b-text-itText | Updated18 minutes ago | [Link](https://huggingface.co/google/medgemma-27b-text-it) |
@@ -4054,6 +4058,7 @@ Updated on 2025-09-15
 | 1.55k | 102 | Tesslate/UIGEN-T2-7B-Q8_0-GGUFText | Updatedabout 10 hours ago | [Link](https://huggingface.co/Tesslate/UIGEN-T2-7B-Q8_0-GGUF) |
 | 1.24k | 101 | nvidia/Nemotron-Research-Reasoning-Qwen-1 | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/Nemotron-Research-Reasoning-Qwen-1.5B) |
 | Updatedabout 3 hours ago | 98 | unsloth/gpt-oss-20b-GGUFText | 21B | [Link](https://huggingface.co/unsloth/gpt-oss-20b-GGUF) |
+| 26.5k | 97 | google/gemma-3n-E2B-it-litert-lmText | Updated13 days ago | [Link](https://huggingface.co/google/gemma-3n-E2B-it-litert-lm) |
 | 2 | 95 | Qwen/Qwen3-30B-A3BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B) |
 | Updatedabout 10 hours ago | 92 | HelpingAI/Dhanishtha-2 | 15B | [Link](https://huggingface.co/HelpingAI/Dhanishtha-2.0-preview) |
 | 3 | 92 | moonshotai/Kimi-K2-BaseText | Updatedabout 10 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-K2-Base) |
