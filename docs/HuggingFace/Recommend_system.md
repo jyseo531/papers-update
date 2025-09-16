@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-09-15
+Updated on 2025-09-16
 
 > Generated from the Hugging Face database.
 
@@ -1744,6 +1744,7 @@ Updated on 2025-09-15
 | 18.5k | 57 | prithivMLmods/Qwen2-VL-OCR-2B-InstructImage-Text-to-Text | UpdatedJan 11 | [Link](https://huggingface.co/prithivMLmods/Qwen2-VL-OCR-2B-Instruct) |
 | 944 | 56 | nvidia/Eagle2-9BImage-Text-to-Text | UpdatedJan 28 | [Link](https://huggingface.co/nvidia/Eagle2-9B) |
 | Updatedabout 7 hours ago | 55 | OpenGVLab/InternVL3_5-30B-A3BImage-Text-to-Text | 31B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-30B-A3B) |
+| Updated5 days ago | 55 | hkust-nlp/WebExplorer-8BImage-Text-to-Text | 8B | [Link](https://huggingface.co/hkust-nlp/WebExplorer-8B) |
 | 1.38k | 54 | ByteDance/Sa2VA-8BImage-Text-to-Text | UpdatedJan 14 | [Link](https://huggingface.co/ByteDance/Sa2VA-8B) |
 | 6.92k | 53 | 5CD-AI/Vintern-1B-v3_5Image-Text-to-Text | UpdatedFeb 12 | [Link](https://huggingface.co/5CD-AI/Vintern-1B-v3_5) |
 | 88 | 53 | nanonets/Nanonets-OCR-sImage-Text-to-Text | Updatedabout 15 hours ago | [Link](https://huggingface.co/nanonets/Nanonets-OCR-s) |
@@ -4031,6 +4032,7 @@ Updated on 2025-09-15
 | 2.13k | 215 | XiaomiMiMo/MiMo-7B-RLText | Updatedabout 12 hours ago | [Link](https://huggingface.co/XiaomiMiMo/MiMo-7B-RL) |
 | 427 | 204 | microsoft/MAI-DS-R1Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/microsoft/MAI-DS-R1) |
 | 11.7k | 196 | smirki/UIGEN-T1-Qwen-7bText | Updated5 days ago | [Link](https://huggingface.co/smirki/UIGEN-T1-Qwen-7b) |
+| Updated7 days ago | 181 | janhq/Jan-v1-2509Text | 0.0B | [Link](https://huggingface.co/janhq/Jan-v1-2509) |
 | Updated1 day ago | 179 | nvidia/OpenReasoning-Nemotron-7BText | 8B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-7B) |
 | Updated4 days ago | 173 | deepcogito/cogito-v2-preview-deepseek-671B-MoEText | 671B | [Link](https://huggingface.co/deepcogito/cogito-v2-preview-deepseek-671B-MoE) |
 | Updated33 minutes ago | 167 | Qwen/Qwen3-Coder-30B-A3B-InstructText | 31B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct) |
@@ -5345,6 +5347,7 @@ Updated on 2025-09-15
 | 4 | Unknown | Kunbyte/LumenText-to-Video | Updatedabout 23 hours ago | [Link](https://huggingface.co/Kunbyte/Lumen) |
 | 5 | Unknown | Eyeline-Labs/CineScaleText-to-Video | Updated7 days ago | [Link](https://huggingface.co/Eyeline-Labs/CineScale) |
 | 5 | Unknown | Cseti/wan2 | Updated5 days ago | [Link](https://huggingface.co/Cseti/wan2.2-14B-Kinestasis_concept-lora-v1) |
+| 1 | Unknown | yumasco/UniGenAiText-to-Video | UpdatedJun 13 | [Link](https://huggingface.co/yumasco/UniGenAi) |
 
 ## Text2Text Generation
 
