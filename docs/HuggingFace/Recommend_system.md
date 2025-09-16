@@ -4792,6 +4792,7 @@ Updated on 2025-09-16
 | 50 | 6 | ostris/wan22_5b_i2v_crush_it_loraText-to-Image | Updated2 days ago | [Link](https://huggingface.co/ostris/wan22_5b_i2v_crush_it_lora) |
 | 23 | 6 | prithivMLmods/Flux | Updated3 days ago | [Link](https://huggingface.co/prithivMLmods/Flux.1-Krea-Merged-Dev) |
 | 273 | 6 | lodestones/Chroma1-FlashText-to-Image | Updated3 days ago | [Link](https://huggingface.co/lodestones/Chroma1-Flash) |
+| Updatedabout 3 hours ago | 6 | wikeeyang/SRPO-for-ComfyUIText-to-Image | 12B | [Link](https://huggingface.co/wikeeyang/SRPO-for-ComfyUI) |
 | 42 | 5 | Shakker-Labs/RepTextText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Shakker-Labs/RepText) |
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
@@ -5018,6 +5019,7 @@ Updated on 2025-09-16
 | 18.9k | 19 | myshell-ai/MeloTTS-SpanishText-to-Speech | UpdatedMar 1, 2024 | [Link](https://huggingface.co/myshell-ai/MeloTTS-Spanish) |
 | 26 | 19 | fishaudio/openaudio-s1-miniText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/fishaudio/openaudio-s1-mini) |
 | 2.35k | 18 | 2121-8/japanese-parler-tts-miniText-to-Speech | UpdatedDec 5, 2024 | [Link](https://huggingface.co/2121-8/japanese-parler-tts-mini) |
+| Updated2 days ago | 18 | NandemoGHS/Anime-Llasa-3BText-to-Speech | 3B | [Link](https://huggingface.co/NandemoGHS/Anime-Llasa-3B) |
 | 77 | 16 | Mofa-Xingche/girl-style-bert-vits2-JPExtra-modelsText-to-Speech | UpdatedMay 31, 2024 | [Link](https://huggingface.co/Mofa-Xingche/girl-style-bert-vits2-JPExtra-models) |
 | 179 | 16 | esnya/japanese_speecht5_ttsText-to-Speech | UpdatedAug 9, 2023 | [Link](https://huggingface.co/esnya/japanese_speecht5_tts) |
 | 2.61k | 14 | SPRINGLab/F5-Hindi-24KHzText-to-Speech | UpdatedJan 1 | [Link](https://huggingface.co/SPRINGLab/F5-Hindi-24KHz) |
