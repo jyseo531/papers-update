@@ -2504,6 +2504,7 @@ Updated on 2025-09-17
 | 2 | 1 | dsupa/mangaocr-hoogberta-v2Image-to-Text | UpdatedApr 23, 2023 | [Link](https://huggingface.co/dsupa/mangaocr-hoogberta-v2) |
 | 6 | 1 | agestau/fashion_captioning_v3Image-to-Text | UpdatedMay 15, 2023 | [Link](https://huggingface.co/agestau/fashion_captioning_v3) |
 | UpdatedAug 1, 2024 | 1.19k | SakanaAI/Llama-3-EvoVLM-JP-v2Image-to-Text | 8B | [Link](https://huggingface.co/SakanaAI/Llama-3-EvoVLM-JP-v2) |
+| UpdatedApr 3, 2024 | 1.05k | sashakunitsyn/vlrm-blip2-opt-2 | 4B | [Link](https://huggingface.co/sashakunitsyn/vlrm-blip2-opt-2.7b) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -4038,6 +4039,7 @@ Updated on 2025-09-17
 | Updated4 days ago | 173 | deepcogito/cogito-v2-preview-deepseek-671B-MoEText | 671B | [Link](https://huggingface.co/deepcogito/cogito-v2-preview-deepseek-671B-MoE) |
 | Updated33 minutes ago | 167 | Qwen/Qwen3-Coder-30B-A3B-InstructText | 31B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct) |
 | Updated2 days ago | 164 | driaforall/mem-agentText | 0.0B | [Link](https://huggingface.co/driaforall/mem-agent) |
+| Updatedabout 3 hours ago | 163 | Alibaba-NLP/Tongyi-DeepResearch-30B-A3BText | 31B | [Link](https://huggingface.co/Alibaba-NLP/Tongyi-DeepResearch-30B-A3B) |
 | 77 | 159 | manycore-research/SpatialLM-Llama-1BText | Updated4 days ago | [Link](https://huggingface.co/manycore-research/SpatialLM-Llama-1B) |
 | Updatedabout 10 hours ago | 159 | Qwen/Qwen3-235B-A22B-Instruct-2507Text | 235B | [Link](https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507) |
 | 6.18k | 156 | google/medgemma-27b-text-itText | Updated18 minutes ago | [Link](https://huggingface.co/google/medgemma-27b-text-it) |
@@ -4179,6 +4181,7 @@ Updated on 2025-09-17
 | Updatedabout 10 hours ago | 32 | Qwen/Qwen3-235B-A22B-Instruct-2507-FP8Text | 235B | [Link](https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507-FP8) |
 | Updated1 day ago | 32 | Kwaipilot/KAT-V1-40BText | 41B | [Link](https://huggingface.co/Kwaipilot/KAT-V1-40B) |
 | Updatedabout 10 hours ago | 32 | swiss-ai/Apertus-8B-2509Text | 8B | [Link](https://huggingface.co/swiss-ai/Apertus-8B-2509) |
+| Updatedabout 1 hour ago | 32 | inclusionAI/Ling-flash-2 | 103B | [Link](https://huggingface.co/inclusionAI/Ling-flash-2.0) |
 | 172 | 31 | huihui-ai/QwQ-32B-abliteratedText | Updated2 days ago | [Link](https://huggingface.co/huihui-ai/QwQ-32B-abliterated) |
 | 76 | 31 | manycore-research/SpatialLM-Qwen-0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/manycore-research/SpatialLM-Qwen-0.5B) |
 | 4 | 31 | Qwen/Qwen3-Embedding-8BText | Updatedabout 10 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-Embedding-8B) |
