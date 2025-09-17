@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-09-16
+Updated on 2025-09-17
 
 > Generated from the Hugging Face database.
 
@@ -2303,6 +2303,7 @@ Updated on 2025-09-16
 | 573 |  | Kontext-Style/Ghibli_loraImage-to-Image | UpdatedJul 5 | [Link](https://huggingface.co/Kontext-Style/Ghibli_lora) |
 | 3 | Unknown | danhtran2mind/Real-ESRGAN-Anime-finetuningImage-to-Image | Updated20 days ago | [Link](https://huggingface.co/danhtran2mind/Real-ESRGAN-Anime-finetuning) |
 | 69 |  | finegrain/finegrain-product-placement-loraImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/finegrain/finegrain-product-placement-lora) |
+| 967 |  | xuminglong/kontext-tryonImage-to-Image | UpdatedAug 6 | [Link](https://huggingface.co/xuminglong/kontext-tryon) |
 
 ## Image-to-Text
 
@@ -5173,6 +5174,7 @@ Updated on 2025-09-16
 | 20 | Unknown | marduk-ra/F5-TTS-TurkishText-to-Speech | UpdatedNov 16, 2024 | [Link](https://huggingface.co/marduk-ra/F5-TTS-Turkish) |
 | 4 | Unknown | DevParker/VibeVoice7b-low-vramText-to-Speech | Updatedabout 1 hour ago | [Link](https://huggingface.co/DevParker/VibeVoice7b-low-vram) |
 | 6 | Unknown | Thomcles/Chatterbox-TTS-FrenchText-to-Speech | Updated19 days ago | [Link](https://huggingface.co/Thomcles/Chatterbox-TTS-French) |
+| 46 | Unknown | openbmb/VoxCPM-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/openbmb/VoxCPM-0.5B) |
 
 ## Text-to-Video
 
