@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-09-17
+Updated on 2025-09-18
 
 > Generated from the Hugging Face database.
 
@@ -1841,6 +1841,7 @@ Updated on 2025-09-17
 | 93 | 12 | meta-llama/Llama-Guard-4-12BImage-Text-to-Text | Updatedabout 19 hours ago | [Link](https://huggingface.co/meta-llama/Llama-Guard-4-12B) |
 | 173 | 12 | microsoft/GUI-Actor-7B-Qwen2-VLImage-Text-to-Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/microsoft/GUI-Actor-7B-Qwen2-VL) |
 | 136 | 12 | bharatgenai/patram-7b-instructImage-Text-to-Text | Updatedabout 19 hours ago | [Link](https://huggingface.co/bharatgenai/patram-7b-instruct) |
+| Updatedabout 14 hours ago | 12 | ibm-granite/granite-docling-258M-mlxImage-Text-to-Text | 0.3B | [Link](https://huggingface.co/ibm-granite/granite-docling-258M-mlx) |
 | 918 | 11 | mlabonne/gemma-3-27b-it-abliterated-GGUFImage-Text-to-Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-abliterated-GGUF) |
 | 4.38k | 11 | bartowski/mlabonne_gemma-3-27b-it-abliterated-GGUFImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/bartowski/mlabonne_gemma-3-27b-it-abliterated-GGUF) |
 | 862 | 11 | mlabonne/gemma-3-4b-it-abliteratedImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-4b-it-abliterated) |
@@ -1910,6 +1911,7 @@ Updated on 2025-09-17
 | Updatedabout 9 hours ago | 5 | Skywork/Skywork-R1V3-38BImage-Text-to-Text | 38B | [Link](https://huggingface.co/Skywork/Skywork-R1V3-38B) |
 | Updatedabout 7 hours ago | 5 | internlm/Intern-S1Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1) |
 | Updated1 day ago | 4.45k | openbmb/MiniCPM-V-4_5-ggufImage-Text-to-Text | 8B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4_5-gguf) |
+| Updatedabout 12 hours ago | 4 | ibm-granite/granite-docling-258MImage-Text-to-Text | 0.3B | [Link](https://huggingface.co/ibm-granite/granite-docling-258M) |
 | Updated5 minutes ago | 3.08k | openbmb/MiniCPM-V-4-ggufImage-Text-to-Text | 4B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4-gguf) |
 | Updatedabout 7 hours ago | 2.63k | nvidia/Eagle2 | 8B | [Link](https://huggingface.co/nvidia/Eagle2.5-8B) |
 | Updatedabout 7 hours ago | 2 | internlm/Intern-S1-FP8Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1-FP8) |
@@ -4165,9 +4167,11 @@ Updated on 2025-09-17
 | 201 | 35 | PleIAs/Pleias-RAG-1BText | Updatedabout 2 hours ago | [Link](https://huggingface.co/PleIAs/Pleias-RAG-1B) |
 | 296 | 35 | lmms-lab/Aero-1-AudioText | Updated4 days ago | [Link](https://huggingface.co/lmms-lab/Aero-1-Audio) |
 | 56.7k | 35 | unsloth/Phi-4-reasoning-plus-GGUFText | Updated4 days ago | [Link](https://huggingface.co/unsloth/Phi-4-reasoning-plus-GGUF) |
+| Updated2 days ago | 35 | Writer/palmyra-miniText | 2B | [Link](https://huggingface.co/Writer/palmyra-mini) |
 | 4.1k | 34 | bartowski/mistralai_Mistral-Small-3 | Updatedabout 18 hours ago | [Link](https://huggingface.co/bartowski/mistralai_Mistral-Small-3.1-24B-Instruct-2503-GGUF) |
 | Updated1 day ago | 34 | nvidia/NVIDIA-Nemotron-Nano-9B-v2-BaseText | 9B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2-Base) |
 | Updatedabout 6 hours ago | 34 | continuedev/instinctText | 8B | [Link](https://huggingface.co/continuedev/instinct) |
+| Updated2 days ago | 34 | Writer/palmyra-mini-thinking-bText | 2B | [Link](https://huggingface.co/Writer/palmyra-mini-thinking-b) |
 | 566 | 33 | deepcogito/cogito-v1-preview-qwen-14BText | Updated1 day ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-qwen-14B) |
 | 115 | 33 | shuttleai/shuttle-3 | Updated2 days ago | [Link](https://huggingface.co/shuttleai/shuttle-3.5) |
 | 4.66k | 33 | Qwen/Qwen3-32B-AWQText | Updated5 days ago | [Link](https://huggingface.co/Qwen/Qwen3-32B-AWQ) |
@@ -4203,6 +4207,7 @@ Updated on 2025-09-17
 | 12 | 29 | PKU-DS-LAB/FairyR1-32BText | Updatedabout 12 hours ago | [Link](https://huggingface.co/PKU-DS-LAB/FairyR1-32B) |
 | 3.29k | 29 | Menlo/Jan-nanoText | Updatedabout 9 hours ago | [Link](https://huggingface.co/Menlo/Jan-nano) |
 | Updatedabout 3 hours ago | 29 | skt/A | 72B | [Link](https://huggingface.co/skt/A.X-4.0) |
+| Updated2 days ago | 29 | Writer/palmyra-mini-thinking-aText | 2B | [Link](https://huggingface.co/Writer/palmyra-mini-thinking-a) |
 | 426 | 28 | LGAI-EXAONE/EXAONE-Deep-32B-GGUFText | Updatedabout 13 hours ago | [Link](https://huggingface.co/LGAI-EXAONE/EXAONE-Deep-32B-GGUF) |
 | 319 | 28 | nvidia/Llama-3 | Updated3 days ago | [Link](https://huggingface.co/nvidia/Llama-3.1-Nemotron-Nano-8B-v1) |
 | 7.28k | 28 | bartowski/Qwen_Qwen3-32B-GGUFText | Updated1 day ago | [Link](https://huggingface.co/bartowski/Qwen_Qwen3-32B-GGUF) |
