@@ -1782,6 +1782,7 @@ Updated on 2025-09-18
 | 26 | 28 | VIDraft/Gemma-3-R1984-12BImage-Text-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/VIDraft/Gemma-3-R1984-12B) |
 | 36 | 28 | meta-llama/Llama-4-Maverick-17B-128EImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E) |
 | 1.6k | 28 | unsloth/Llama-4-Scout-17B-16E-Instruct-GGUFImage-Text-to-Text | Updatedabout 16 hours ago | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct-GGUF) |
+| Updatedabout 19 hours ago | 28 | opendatalab/MinerU2 | 1B | [Link](https://huggingface.co/opendatalab/MinerU2.5-2509-1.2B) |
 | 5 | 27 | openfree/Gemma-3-R1984-12B-Q8_0-GGUFImage-Text-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/openfree/Gemma-3-R1984-12B-Q8_0-GGUF) |
 | 4 | 27 | openfree/Gemma-3-R1984-12B-Q6_K-GGUFImage-Text-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/openfree/Gemma-3-R1984-12B-Q6_K-GGUF) |
 | 1.18k | 27 | google/gemma-3n-E2B-itImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/google/gemma-3n-E2B-it) |
@@ -4245,6 +4246,7 @@ Updated on 2025-09-18
 | 335 | 25 | mlx-community/DeepSeek-V3-0324-4bitText | Updated2 days ago | [Link](https://huggingface.co/mlx-community/DeepSeek-V3-0324-4bit) |
 | 217 | 25 | THUDM/GLM-Z1-9B-0414Text | Updated1 day ago | [Link](https://huggingface.co/THUDM/GLM-Z1-9B-0414) |
 | 6 | 25 | Qwen/Qwen3-Reranker-8BText | Updatedabout 10 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-Reranker-8B) |
+| 1.69k | 25 | Intel/Qwen3-Next-80B-A3B-Thinking-int4-mixed-AutoRoundText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Intel/Qwen3-Next-80B-A3B-Thinking-int4-mixed-AutoRound) |
 | 8.8k | 24 | unsloth/QwQ-32B-GGUFText | Updatedabout 1 hour ago | [Link](https://huggingface.co/unsloth/QwQ-32B-GGUF) |
 | 90.1k | 24 | allenai/OLMo-2-0325-32BText | Updated3 days ago | [Link](https://huggingface.co/allenai/OLMo-2-0325-32B) |
 | 722 | 24 | qihoo360/Light-R1-14B-DSText | Updatedabout 9 hours ago | [Link](https://huggingface.co/qihoo360/Light-R1-14B-DS) |
@@ -4273,6 +4275,7 @@ Updated on 2025-09-18
 | 121 | 23 | pytorch/SmolLM3-3B-8da4wText | Updated3 days ago | [Link](https://huggingface.co/pytorch/SmolLM3-3B-8da4w) |
 | Updatedabout 2 hours ago | 23 | DatarusAI/Datarus-R1-14B-previewText | 15B | [Link](https://huggingface.co/DatarusAI/Datarus-R1-14B-preview) |
 | Updated1 day ago | 23 | Tesslate/WEBGEN-4B-PreviewText | 4B | [Link](https://huggingface.co/Tesslate/WEBGEN-4B-Preview) |
+| 45.7k | 23 | cpatonn/Qwen3-Next-80B-A3B-Instruct-AWQ-4bitText | Updated5 days ago | [Link](https://huggingface.co/cpatonn/Qwen3-Next-80B-A3B-Instruct-AWQ-4bit) |
 | 44 | 22 | deepcogito/cogito-v1-preview-llama-3BText | Updatedabout 12 hours ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-llama-3B) |
 | 10.2k | 22 | bartowski/THUDM_GLM-4-32B-0414-GGUFText | Updated6 days ago | [Link](https://huggingface.co/bartowski/THUDM_GLM-4-32B-0414-GGUF) |
 | 6.82k | 22 | bartowski/deepseek-ai_DeepSeek-R1-0528-Qwen3-8B-GGUFText | Updatedabout 23 hours ago | [Link](https://huggingface.co/bartowski/deepseek-ai_DeepSeek-R1-0528-Qwen3-8B-GGUF) |
@@ -4958,6 +4961,7 @@ Updated on 2025-09-18
 | 27 | Unknown | nunchaku-tech/nunchaku-qwen-image-editText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-qwen-image-edit) |
 | 7 | Unknown | drbaph/HunyuanImage-2 | Updatedabout 4 hours ago | [Link](https://huggingface.co/drbaph/HunyuanImage-2.1_fp8) |
 | 7 | Unknown | wikeeyang/SRPO-Refine-Quantized-v1 | Updated10 minutes ago | [Link](https://huggingface.co/wikeeyang/SRPO-Refine-Quantized-v1.0) |
+| 52 |  | ostris/qwen_image_detail_sliderText-to-Image | Updatedabout 18 hours ago | [Link](https://huggingface.co/ostris/qwen_image_detail_slider) |
 
 ## Text-to-Speech
 
@@ -5031,6 +5035,7 @@ Updated on 2025-09-18
 | Updated2 days ago | 18 | NandemoGHS/Anime-Llasa-3BText-to-Speech | 3B | [Link](https://huggingface.co/NandemoGHS/Anime-Llasa-3B) |
 | 77 | 16 | Mofa-Xingche/girl-style-bert-vits2-JPExtra-modelsText-to-Speech | UpdatedMay 31, 2024 | [Link](https://huggingface.co/Mofa-Xingche/girl-style-bert-vits2-JPExtra-models) |
 | 179 | 16 | esnya/japanese_speecht5_ttsText-to-Speech | UpdatedAug 9, 2023 | [Link](https://huggingface.co/esnya/japanese_speecht5_tts) |
+| 147 | 15 | dangvansam/viet-ttsText-to-Speech | UpdatedDec 11, 2024 | [Link](https://huggingface.co/dangvansam/viet-tts) |
 | 2.61k | 14 | SPRINGLab/F5-Hindi-24KHzText-to-Speech | UpdatedJan 1 | [Link](https://huggingface.co/SPRINGLab/F5-Hindi-24KHz) |
 | Updated8 days ago | 14 | niobures/OuteTTSText-to-Speech | 1B | [Link](https://huggingface.co/niobures/OuteTTS) |
 | 6 | 13 | OuteAI/Llama-OuteTTS-1 | Updatedabout 2 hours ago | [Link](https://huggingface.co/OuteAI/Llama-OuteTTS-1.0-1B) |
