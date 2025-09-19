@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-09-18
+Updated on 2025-09-19
 
 > Generated from the Hugging Face database.
 
@@ -2085,6 +2085,7 @@ Updated on 2025-09-18
 | 105 | 44 | ghoskno/Color-Canny-Controlnet-modelImage-to-Image | UpdatedMay 25, 2023 | [Link](https://huggingface.co/ghoskno/Color-Canny-Controlnet-model) |
 | 16k | 44 | lllyasviel/control_v11p_sd15_cannyImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_canny) |
 | 1.31k | 41 | xiaozaa/catvton-flux-alphaImage-to-Image | UpdatedNov 26, 2024 | [Link](https://huggingface.co/xiaozaa/catvton-flux-alpha) |
+| 50 | 37 | yichengup/flux | Updatedabout 11 hours ago | [Link](https://huggingface.co/yichengup/flux.1-fill-dev-OneReward) |
 | 102 | 34 | keras-io/lowlight-enhance-mirnetImage-to-Image | UpdatedJul 5, 2024 | [Link](https://huggingface.co/keras-io/lowlight-enhance-mirnet) |
 | 8.66k | 33 | caidas/swin2SR-classical-sr-x2-64Image-to-Image | UpdatedMar 27, 2024 | [Link](https://huggingface.co/caidas/swin2SR-classical-sr-x2-64) |
 | 2.24k | 33 | drbaph/Qwen-Image-Edit-Mannequin-Clipper-LoRAImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/drbaph/Qwen-Image-Edit-Mannequin-Clipper-LoRA) |
@@ -4045,9 +4046,11 @@ Updated on 2025-09-18
 | Updatedabout 3 hours ago | 163 | Alibaba-NLP/Tongyi-DeepResearch-30B-A3BText | 31B | [Link](https://huggingface.co/Alibaba-NLP/Tongyi-DeepResearch-30B-A3B) |
 | 77 | 159 | manycore-research/SpatialLM-Llama-1BText | Updated4 days ago | [Link](https://huggingface.co/manycore-research/SpatialLM-Llama-1B) |
 | Updatedabout 10 hours ago | 159 | Qwen/Qwen3-235B-A22B-Instruct-2507Text | 235B | [Link](https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507) |
+| Updatedabout 5 hours ago | 159 | PerceptronAI/Isaac-0 | 3B | [Link](https://huggingface.co/PerceptronAI/Isaac-0.1) |
 | 6.18k | 156 | google/medgemma-27b-text-itText | Updated18 minutes ago | [Link](https://huggingface.co/google/medgemma-27b-text-it) |
 | Updatedabout 7 hours ago | 154 | tencent/Hunyuan-0 | 0.5B | [Link](https://huggingface.co/tencent/Hunyuan-0.5B-Instruct) |
 | 2.25k | 153 | open-thoughts/OpenThinker-32BText | Updated11 days ago | [Link](https://huggingface.co/open-thoughts/OpenThinker-32B) |
+| Updatedabout 4 hours ago | 151 | moondream/moondream3-previewText | 9B | [Link](https://huggingface.co/moondream/moondream3-preview) |
 | 38 | 143 | qihoo360/TinyR1-32B-PreviewText | Updatedabout 17 hours ago | [Link](https://huggingface.co/qihoo360/TinyR1-32B-Preview) |
 | Updated6 days ago | 140 | zerofata/MS3 | 24B | [Link](https://huggingface.co/zerofata/MS3.2-PaintedFantasy-24B) |
 | Updatedabout 10 hours ago | 139 | google/vaultgemma-1bText | 1B | [Link](https://huggingface.co/google/vaultgemma-1b) |
@@ -5114,6 +5117,7 @@ Updated on 2025-09-18
 | UpdatedSep 1, 2023 | 3.75k | facebook/mms-tts-indText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-ind) |
 | Updatedabout 12 hours ago | 3 | Vyvo/VyvoTTS-v0-Qwen3-0 | 0.8B | [Link](https://huggingface.co/Vyvo/VyvoTTS-v0-Qwen3-0.6B) |
 | Updatedabout 17 hours ago | 3 | rsxdalv/VibeVoice-LargeText-to-Speech | 9B | [Link](https://huggingface.co/rsxdalv/VibeVoice-Large) |
+| Updatedabout 2 hours ago | 3 | nineninesix/kani-tts-450m-0 | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-450m-0.2-ft) |
 | 2.36M | 2.41k | coqui/XTTS-v2Text-to-Speech | UpdatedDec 11, 2023 | [Link](https://huggingface.co/coqui/XTTS-v2) |
 | 153 | 2 | mmwillet2/Dia_GGUFText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/mmwillet2/Dia_GGUF) |
 | 55 | 2 | unsloth/Spark-TTS-0 | Updated2 days ago | [Link](https://huggingface.co/unsloth/Spark-TTS-0.5B) |
