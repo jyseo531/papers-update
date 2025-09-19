@@ -95,6 +95,7 @@ Updated on 2025-09-19
 | UpdatedJun 3 | 1.97k | deepseek-community/Janus-Pro-1BAny-to-Any | 2B | [Link](https://huggingface.co/deepseek-community/Janus-Pro-1B) |
 | 28 | 1 | AarambhAI/gemma-like-multimodal-speech-vision-textAny-to-Any | Updatedabout 23 hours ago | [Link](https://huggingface.co/AarambhAI/gemma-like-multimodal-speech-vision-text) |
 | 16 | 1 | ILLUME-MLLM/illume_plus-qwen2_5-7b-hfAny-to-Any | UpdatedJun 18 | [Link](https://huggingface.co/ILLUME-MLLM/illume_plus-qwen2_5-7b-hf) |
+| 2 | 1 | Fr0zencr4nE/UniCoT-7B-MoT-v0 | Updatedabout 10 hours ago | [Link](https://huggingface.co/Fr0zencr4nE/UniCoT-7B-MoT-v0.2) |
 | 2 | Unknown | guanwenhao/MonoSpeechAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/guanwenhao/MonoSpeech) |
 | 22 | Unknown | Goekdeniz-Guelmez/J | UpdatedOct 29, 2024 | [Link](https://huggingface.co/Goekdeniz-Guelmez/J.O.S.I.E.v4o) |
 | 1 | Unknown | hfcsrd/cryptographyAny-to-Any | UpdatedNov 17, 2024 | [Link](https://huggingface.co/hfcsrd/cryptography) |
@@ -1843,6 +1844,7 @@ Updated on 2025-09-19
 | 173 | 12 | microsoft/GUI-Actor-7B-Qwen2-VLImage-Text-to-Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/microsoft/GUI-Actor-7B-Qwen2-VL) |
 | 136 | 12 | bharatgenai/patram-7b-instructImage-Text-to-Text | Updatedabout 19 hours ago | [Link](https://huggingface.co/bharatgenai/patram-7b-instruct) |
 | Updatedabout 14 hours ago | 12 | ibm-granite/granite-docling-258M-mlxImage-Text-to-Text | 0.3B | [Link](https://huggingface.co/ibm-granite/granite-docling-258M-mlx) |
+| Updated1 day ago | 12 | OpenGVLab/ScaleCUA-32BImage-Text-to-Text | 33B | [Link](https://huggingface.co/OpenGVLab/ScaleCUA-32B) |
 | 918 | 11 | mlabonne/gemma-3-27b-it-abliterated-GGUFImage-Text-to-Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-abliterated-GGUF) |
 | 4.38k | 11 | bartowski/mlabonne_gemma-3-27b-it-abliterated-GGUFImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/bartowski/mlabonne_gemma-3-27b-it-abliterated-GGUF) |
 | 862 | 11 | mlabonne/gemma-3-4b-it-abliteratedImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-4b-it-abliterated) |
