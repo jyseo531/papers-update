@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-09-19
+Updated on 2025-09-20
 
 > Generated from the Hugging Face database.
 
@@ -1704,6 +1704,7 @@ Updated on 2025-09-19
 | 112k | 395 | HuggingFaceTB/SmolVLM-InstructImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-Instruct) |
 | 860k | 376 | Salesforce/blip2-opt-2 | UpdatedFeb 3 | [Link](https://huggingface.co/Salesforce/blip2-opt-2.7b) |
 | Updatedabout 7 hours ago | 365 | stepfun-ai/step3Image-Text-to-Text | 321B | [Link](https://huggingface.co/stepfun-ai/step3) |
+| Updatedabout 2 hours ago | 349 | moondream/moondream3-previewImage-Text-to-Text | 9B | [Link](https://huggingface.co/moondream/moondream3-preview) |
 | 17.9k | 287 | deepseek-ai/deepseek-vl2Image-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2) |
 | 26.4k | 267 | MiniMaxAI/MiniMax-VL-01Image-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-VL-01) |
 | 353k | 236 | microsoft/Florence-2-baseImage-Text-to-Text | UpdatedNov 4, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-base) |
@@ -2172,6 +2173,7 @@ Updated on 2025-09-19
 | 50 | 3 | stepfun-ai/Step1X-Edit-v1p1-diffusersImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/stepfun-ai/Step1X-Edit-v1p1-diffusers) |
 | 83 | 3 | drbaph/Qwen-Image-Edit-Remove-Clothing-LoRAImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/drbaph/Qwen-Image-Edit-Remove-Clothing-LoRA) |
 | 20 | 3 | drbaph/Qwen-Image-Edit-Middle-Finger-LoRAImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/drbaph/Qwen-Image-Edit-Middle-Finger-LoRA) |
+| 217 | 3 | ShinoharaHare/Waifu-Inpaint-XLImage-to-Image | Updated19 days ago | [Link](https://huggingface.co/ShinoharaHare/Waifu-Inpaint-XL) |
 | 67 | 2 | SherryXTChen/InstructCLIP-InstructPix2PixImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/SherryXTChen/InstructCLIP-InstructPix2Pix) |
 | 17 | 2 | SherryXTChen/Instruct-CLIPImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/SherryXTChen/Instruct-CLIP) |
 | 76 | 2 | VisualCloze/VisualClozePipeline-384Image-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/VisualCloze/VisualClozePipeline-384) |
@@ -2562,6 +2564,7 @@ Updated on 2025-09-19
 | 18 | Unknown | OpenFace-CQUPT/FLIPImage-to-Text | UpdatedJun 9 | [Link](https://huggingface.co/OpenFace-CQUPT/FLIP) |
 | 2 | Unknown | nomanmanzoor/image-prompt-modelImage-to-Text | Updated5 days ago | [Link](https://huggingface.co/nomanmanzoor/image-prompt-model) |
 | 2 | Unknown | asmud/ds4sd-docling-models-onnxImage-to-Text | Updated2 days ago | [Link](https://huggingface.co/asmud/ds4sd-docling-models-onnx) |
+| 1 | Unknown | cpans/idcard_ocrImage-to-Text | UpdatedFeb 1, 2024 | [Link](https://huggingface.co/cpans/idcard_ocr) |
 
 ## Image-to-Video
 
@@ -4185,6 +4188,7 @@ Updated on 2025-09-19
 | Updatedabout 4 hours ago | 33 | baidu/ERNIE-4 | 22B | [Link](https://huggingface.co/baidu/ERNIE-4.5-21B-A3B-PT) |
 | Updatedabout 6 hours ago | 33 | Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8Text | 480B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8) |
 | Updatedabout 1 hour ago | 33 | Kwai-Klear/Klear-46B-A2 | 46B | [Link](https://huggingface.co/Kwai-Klear/Klear-46B-A2.5B-Instruct) |
+| Updatedabout 14 hours ago | 33 | inclusionAI/Ring-flash-2 | 103B | [Link](https://huggingface.co/inclusionAI/Ring-flash-2.0) |
 | 5.81k | 32 | trillionlabs/Trillion-7B-previewText | Updatedabout 3 hours ago | [Link](https://huggingface.co/trillionlabs/Trillion-7B-preview) |
 | 224 | 32 | JetBrains/Mellum-4b-sft-pythonText | Updated6 days ago | [Link](https://huggingface.co/JetBrains/Mellum-4b-sft-python) |
 | 131 | 32 | nvidia/AceReason-Nemotron-14BText | Updatedabout 3 hours ago | [Link](https://huggingface.co/nvidia/AceReason-Nemotron-14B) |
