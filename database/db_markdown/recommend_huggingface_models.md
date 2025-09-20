@@ -4803,6 +4803,7 @@ Updated on 2025-09-20
 | 4 | 8 | KBlueLeaf/HDM-xut-340M-animeText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/KBlueLeaf/HDM-xut-340M-anime) |
 | 94 | 8 | ostris/wan22_i2v_14b_orbit_shot_loraText-to-Image | Updatedabout 19 hours ago | [Link](https://huggingface.co/ostris/wan22_i2v_14b_orbit_shot_lora) |
 | 546 | 8 | duongve/NetaYume-Lumina-Image-2 | Updated5 days ago | [Link](https://huggingface.co/duongve/NetaYume-Lumina-Image-2.0) |
+| 35 | 8 | OPPOer/Qwen-Image-PruningText-to-Image | Updated8 days ago | [Link](https://huggingface.co/OPPOer/Qwen-Image-Pruning) |
 | 1.69k | 7 | silveroxides/Chroma-GGUFText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/silveroxides/Chroma-GGUF) |
 | 58 | 7 | Freepik/F-Lite-TextureText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Freepik/F-Lite-Texture) |
 | 41 | 7 | renderartist/simplevectorhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/simplevectorhidream) |
