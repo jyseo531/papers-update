@@ -1747,6 +1747,7 @@ Updated on 2025-09-20
 | 944 | 56 | nvidia/Eagle2-9BImage-Text-to-Text | UpdatedJan 28 | [Link](https://huggingface.co/nvidia/Eagle2-9B) |
 | Updatedabout 7 hours ago | 55 | OpenGVLab/InternVL3_5-30B-A3BImage-Text-to-Text | 31B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-30B-A3B) |
 | Updated5 days ago | 55 | hkust-nlp/WebExplorer-8BImage-Text-to-Text | 8B | [Link](https://huggingface.co/hkust-nlp/WebExplorer-8B) |
+| Updated3 days ago | 55 | OpenGVLab/ScaleCUA-3BImage-Text-to-Text | 4B | [Link](https://huggingface.co/OpenGVLab/ScaleCUA-3B) |
 | 1.38k | 54 | ByteDance/Sa2VA-8BImage-Text-to-Text | UpdatedJan 14 | [Link](https://huggingface.co/ByteDance/Sa2VA-8B) |
 | 6.92k | 53 | 5CD-AI/Vintern-1B-v3_5Image-Text-to-Text | UpdatedFeb 12 | [Link](https://huggingface.co/5CD-AI/Vintern-1B-v3_5) |
 | 88 | 53 | nanonets/Nanonets-OCR-sImage-Text-to-Text | Updatedabout 15 hours ago | [Link](https://huggingface.co/nanonets/Nanonets-OCR-s) |
@@ -2513,6 +2514,7 @@ Updated on 2025-09-20
 | 6 | 1 | agestau/fashion_captioning_v3Image-to-Text | UpdatedMay 15, 2023 | [Link](https://huggingface.co/agestau/fashion_captioning_v3) |
 | UpdatedAug 1, 2024 | 1.19k | SakanaAI/Llama-3-EvoVLM-JP-v2Image-to-Text | 8B | [Link](https://huggingface.co/SakanaAI/Llama-3-EvoVLM-JP-v2) |
 | UpdatedApr 3, 2024 | 1.05k | sashakunitsyn/vlrm-blip2-opt-2 | 4B | [Link](https://huggingface.co/sashakunitsyn/vlrm-blip2-opt-2.7b) |
+| UpdatedFeb 13 | 1.52k | RedHatAI/Llama-3 | 3B | [Link](https://huggingface.co/RedHatAI/Llama-3.2-11B-Vision-Instruct-quantized.w4a16) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -2565,6 +2567,7 @@ Updated on 2025-09-20
 | 2 | Unknown | nomanmanzoor/image-prompt-modelImage-to-Text | Updated5 days ago | [Link](https://huggingface.co/nomanmanzoor/image-prompt-model) |
 | 2 | Unknown | asmud/ds4sd-docling-models-onnxImage-to-Text | Updated2 days ago | [Link](https://huggingface.co/asmud/ds4sd-docling-models-onnx) |
 | 1 | Unknown | cpans/idcard_ocrImage-to-Text | UpdatedFeb 1, 2024 | [Link](https://huggingface.co/cpans/idcard_ocr) |
+| 3 | Unknown | anyforge/anyocrImage-to-Text | UpdatedMay 13 | [Link](https://huggingface.co/anyforge/anyocr) |
 
 ## Image-to-Video
 
@@ -4133,6 +4136,7 @@ Updated on 2025-09-20
 | 1.45k | 50 | ALLaM-AI/ALLaM-7B-Instruct-previewText | Updated8 days ago | [Link](https://huggingface.co/ALLaM-AI/ALLaM-7B-Instruct-preview) |
 | 5 | 50 | microsoft/Phi-4-mini-reasoningText | Updatedabout 11 hours ago | [Link](https://huggingface.co/microsoft/Phi-4-mini-reasoning) |
 | Updatedabout 1 hour ago | 49 | swiss-ai/Apertus-8B-Instruct-2509Text | 8B | [Link](https://huggingface.co/swiss-ai/Apertus-8B-Instruct-2509) |
+| Updated2 days ago | 49 | inclusionAI/Ling-flash-base-2 | 106B | [Link](https://huggingface.co/inclusionAI/Ling-flash-base-2.0) |
 | Updatedabout 16 hours ago | 48 | osmosis-ai/Osmosis-Apply-1 | 2B | [Link](https://huggingface.co/osmosis-ai/Osmosis-Apply-1.7B) |
 | 39 | 47 | open-r1/OlympicCoder-32BText | Updatedabout 17 hours ago | [Link](https://huggingface.co/open-r1/OlympicCoder-32B) |
 | Updatedabout 13 hours ago | 47 | LLM360/K2-ThinkText | 33B | [Link](https://huggingface.co/LLM360/K2-Think) |
