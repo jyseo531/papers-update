@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-09-20
+Updated on 2025-09-21
 
 > Generated from the Hugging Face database.
 
@@ -2122,6 +2122,7 @@ Updated on 2025-09-20
 | 21 | 10 | philschmid/stable-diffusion-2-inpainting-endpointImage-to-Image | UpdatedSep 29, 2023 | [Link](https://huggingface.co/philschmid/stable-diffusion-2-inpainting-endpoint) |
 | 270 | 10 | drbaph/Fluffy-kontext-LoRAImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/drbaph/Fluffy-kontext-LoRA) |
 | 4 | 10 | bytedance-research/USOImage-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/bytedance-research/USO) |
+| 467 | 10 | buildborderless/FLUX | UpdatedJul 14 | [Link](https://huggingface.co/buildborderless/FLUX.MF-Kontext_Lightning-8s-4bit_nf4) |
 | 11 | 9 | keras-io/conditional-ganImage-to-Image | UpdatedJul 5, 2024 | [Link](https://huggingface.co/keras-io/conditional-gan) |
 | 10.5k | 9 | hafsa000/interior-designImage-to-Image | UpdatedMay 16, 2024 | [Link](https://huggingface.co/hafsa000/interior-design) |
 |  | 9 | ilkerzgi/Overlay-Kontext-Dev-LoRAImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/ilkerzgi/Overlay-Kontext-Dev-LoRA) |
@@ -2489,6 +2490,7 @@ Updated on 2025-09-20
 | UpdatedAug 10, 2024 | 2 | us4/trocr-mathwritingImage-to-Text | 0.6B | [Link](https://huggingface.co/us4/trocr-mathwriting) |
 | Updatedabout 5 hours ago | 2 | allenai/olmOCR-7B-0825Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0825) |
 | UpdatedJun 17 | 2.19k | thesby/Qwen2 | 8B | [Link](https://huggingface.co/thesby/Qwen2.5-VL-7B-NSFW-Caption-V3) |
+| Updatedabout 9 hours ago | 2 | yasserrmd/SinaReason-Magistral-2509Image-to-Text | 24B | [Link](https://huggingface.co/yasserrmd/SinaReason-Magistral-2509) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -4976,6 +4978,7 @@ Updated on 2025-09-20
 | 7 | Unknown | drbaph/HunyuanImage-2 | Updatedabout 4 hours ago | [Link](https://huggingface.co/drbaph/HunyuanImage-2.1_fp8) |
 | 7 | Unknown | wikeeyang/SRPO-Refine-Quantized-v1 | Updated10 minutes ago | [Link](https://huggingface.co/wikeeyang/SRPO-Refine-Quantized-v1.0) |
 | 52 |  | ostris/qwen_image_detail_sliderText-to-Image | Updatedabout 18 hours ago | [Link](https://huggingface.co/ostris/qwen_image_detail_slider) |
+| 8 | Unknown | nunchaku-tech/nunchaku-sdxlText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-sdxl) |
 
 ## Text-to-Speech
 
