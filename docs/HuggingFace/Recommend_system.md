@@ -2314,6 +2314,7 @@ Updated on 2025-09-21
 | 3 | Unknown | danhtran2mind/Real-ESRGAN-Anime-finetuningImage-to-Image | Updated20 days ago | [Link](https://huggingface.co/danhtran2mind/Real-ESRGAN-Anime-finetuning) |
 | 69 |  | finegrain/finegrain-product-placement-loraImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/finegrain/finegrain-product-placement-lora) |
 | 967 |  | xuminglong/kontext-tryonImage-to-Image | UpdatedAug 6 | [Link](https://huggingface.co/xuminglong/kontext-tryon) |
+| 2 | Unknown | TsienDragon/qwen-image-edit-character-compositionImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/TsienDragon/qwen-image-edit-character-composition) |
 
 ## Image-to-Text
 
