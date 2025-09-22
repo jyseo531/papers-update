@@ -4986,6 +4986,7 @@ Updated on 2025-09-22
 | 7 | Unknown | wikeeyang/SRPO-Refine-Quantized-v1 | Updated10 minutes ago | [Link](https://huggingface.co/wikeeyang/SRPO-Refine-Quantized-v1.0) |
 | 52 |  | ostris/qwen_image_detail_sliderText-to-Image | Updatedabout 18 hours ago | [Link](https://huggingface.co/ostris/qwen_image_detail_slider) |
 | 8 | Unknown | nunchaku-tech/nunchaku-sdxlText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-sdxl) |
+| 35 | Unknown | Alissonerdx/flux | Updated7 minutes ago | [Link](https://huggingface.co/Alissonerdx/flux.1-dev-SRPO-LoRas) |
 
 ## Text-to-Speech
 
