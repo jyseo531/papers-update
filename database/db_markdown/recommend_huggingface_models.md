@@ -1838,6 +1838,7 @@ Updated on 2025-09-22
 | 50 | 13 | OpenGVLab/InternVL3-38BImage-Text-to-Text | Updatedabout 15 hours ago | [Link](https://huggingface.co/OpenGVLab/InternVL3-38B) |
 | 102 | 13 | OpenGVLab/InternVL3-9BImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/OpenGVLab/InternVL3-9B) |
 | 2.81k | 13 | unsloth/gemma-3n-E2B-it-GGUFImage-Text-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/unsloth/gemma-3n-E2B-it-GGUF) |
+| Updated3 days ago | 13 | baidu/Qianfan-VL-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/baidu/Qianfan-VL-8B) |
 | 225 | 12 | ds4sd/SmolDocling-256M-preview-mlx-bf16Image-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/ds4sd/SmolDocling-256M-preview-mlx-bf16) |
 | 1.94k | 12 | bartowski/google_gemma-3-27b-it-qat-GGUFImage-Text-to-Text | Updatedabout 19 hours ago | [Link](https://huggingface.co/bartowski/google_gemma-3-27b-it-qat-GGUF) |
 | 856 | 12 | bartowski/google_gemma-3-12b-it-qat-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/bartowski/google_gemma-3-12b-it-qat-GGUF) |
@@ -1874,6 +1875,7 @@ Updated on 2025-09-22
 | 125 | 10 | mlabonne/gemma-3-27b-it-abliterated-v2-GGUFImage-Text-to-Text | Updatedabout 15 hours ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-abliterated-v2-GGUF) |
 | 330 | 10 | microsoft/GUI-Actor-7B-Qwen2 | Updated6 days ago | [Link](https://huggingface.co/microsoft/GUI-Actor-7B-Qwen2.5-VL) |
 | Updatedabout 18 hours ago | 10 | internlm/Intern-S1-miniImage-Text-to-Text | 9B | [Link](https://huggingface.co/internlm/Intern-S1-mini) |
+| Updated3 days ago | 10 | baidu/Qianfan-VL-3BImage-Text-to-Text | 4B | [Link](https://huggingface.co/baidu/Qianfan-VL-3B) |
 | 9.49k | 9 | unsloth/gemma-3-27b-it-bnb-4bitImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-bnb-4bit) |
 | 40.9k | 9 | lmstudio-community/gemma-3-12b-it-GGUFImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/lmstudio-community/gemma-3-12b-it-GGUF) |
 | 1.89k | 9 | Mungert/gemma-3-12b-it-ggufImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/Mungert/gemma-3-12b-it-gguf) |
@@ -1927,6 +1929,7 @@ Updated on 2025-09-22
 | Updated3 days ago | 1.61k | unsloth/medgemma-27b-it-GGUFImage-Text-to-Text | 27B | [Link](https://huggingface.co/unsloth/medgemma-27b-it-GGUF) |
 | Updated1 day ago | 1.38k | bartowski/mistralai_Devstral-Small-2507-GGUFImage-Text-to-Text | 24B | [Link](https://huggingface.co/bartowski/mistralai_Devstral-Small-2507-GGUF) |
 | Updated1 day ago | 1.19k | huihui-ai/Huihui-MiniCPM-V-4_5-abliteratedImage-Text-to-Text | 9B | [Link](https://huggingface.co/huihui-ai/Huihui-MiniCPM-V-4_5-abliterated) |
+| Updated3 days ago | 1 | baidu/Qianfan-VL-70BImage-Text-to-Text | 72B | [Link](https://huggingface.co/baidu/Qianfan-VL-70B) |
 | 1.07M |  | meta-llama/Llama-3 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) |
 | 1.49M |  | Qwen/Qwen2-VL-7B-InstructImage-Text-to-Text | Updated19 days ago | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) |
 | 288k |  | microsoft/Phi-3 | UpdatedSep 26, 2024 | [Link](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) |
@@ -2518,6 +2521,7 @@ Updated on 2025-09-22
 | UpdatedAug 1, 2024 | 1.19k | SakanaAI/Llama-3-EvoVLM-JP-v2Image-to-Text | 8B | [Link](https://huggingface.co/SakanaAI/Llama-3-EvoVLM-JP-v2) |
 | UpdatedApr 3, 2024 | 1.05k | sashakunitsyn/vlrm-blip2-opt-2 | 4B | [Link](https://huggingface.co/sashakunitsyn/vlrm-blip2-opt-2.7b) |
 | UpdatedFeb 13 | 1.52k | RedHatAI/Llama-3 | 3B | [Link](https://huggingface.co/RedHatAI/Llama-3.2-11B-Vision-Instruct-quantized.w4a16) |
+| 4 | 1 | Sebabrata/dof-passport-1Image-to-Text | UpdatedNov 17, 2022 | [Link](https://huggingface.co/Sebabrata/dof-passport-1) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -4999,6 +5003,7 @@ Updated on 2025-09-22
 | 8.56k | 455 | HKUSTAudio/Llasa-3BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-3B) |
 | 199 | 451 | CAMB-AI/MARS5-TTSText-to-Speech | UpdatedJul 5, 2024 | [Link](https://huggingface.co/CAMB-AI/MARS5-TTS) |
 | Updatedabout 11 hours ago | 389 | calcuis/vibevoice-ggufText-to-Speech | 3B | [Link](https://huggingface.co/calcuis/vibevoice-gguf) |
+| UpdatedSep 5, 2024 | 389 | wasmdashai/vits-arText-to-Speech | 0.0B | [Link](https://huggingface.co/wasmdashai/vits-ar) |
 | Updated17 days ago | 383 | tensorblock/maya-research_Veena-GGUFText-to-Speech | 4B | [Link](https://huggingface.co/tensorblock/maya-research_Veena-GGUF) |
 | 5.64k | 352 | parler-tts/parler_tts_mini_v0 | UpdatedApr 30, 2024 | [Link](https://huggingface.co/parler-tts/parler_tts_mini_v0.1) |
 | UpdatedMay 25, 2024 | 323 | utrobinmv/tts_ru_free_hf_vits_high_multispeakerText-to-Speech | 0.0B | [Link](https://huggingface.co/utrobinmv/tts_ru_free_hf_vits_high_multispeaker) |
