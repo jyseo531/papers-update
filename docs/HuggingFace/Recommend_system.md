@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-09-21
+Updated on 2025-09-22
 
 > Generated from the Hugging Face database.
 
@@ -4184,6 +4184,7 @@ Updated on 2025-09-21
 | 296 | 35 | lmms-lab/Aero-1-AudioText | Updated4 days ago | [Link](https://huggingface.co/lmms-lab/Aero-1-Audio) |
 | 56.7k | 35 | unsloth/Phi-4-reasoning-plus-GGUFText | Updated4 days ago | [Link](https://huggingface.co/unsloth/Phi-4-reasoning-plus-GGUF) |
 | Updated2 days ago | 35 | Writer/palmyra-miniText | 2B | [Link](https://huggingface.co/Writer/palmyra-mini) |
+| Updatedabout 1 hour ago | 35 | meituan-longcat/LongCat-Flash-ThinkingText | 562B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Thinking) |
 | 4.1k | 34 | bartowski/mistralai_Mistral-Small-3 | Updatedabout 18 hours ago | [Link](https://huggingface.co/bartowski/mistralai_Mistral-Small-3.1-24B-Instruct-2503-GGUF) |
 | Updated1 day ago | 34 | nvidia/NVIDIA-Nemotron-Nano-9B-v2-BaseText | 9B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2-Base) |
 | Updatedabout 6 hours ago | 34 | continuedev/instinctText | 8B | [Link](https://huggingface.co/continuedev/instinct) |
@@ -4814,6 +4815,7 @@ Updated on 2025-09-21
 | 6 | 7 | Arrexel/pattern-diffusionText-to-Image | Updated5 days ago | [Link](https://huggingface.co/Arrexel/pattern-diffusion) |
 | 37 | 7 | opendiffusionai/sd-flow-alphaText-to-Image | Updated1 day ago | [Link](https://huggingface.co/opendiffusionai/sd-flow-alpha) |
 | Updatedabout 22 hours ago | 7 | stepfun-ai/NextStep-1-Large-PretrainText-to-Image | 15B | [Link](https://huggingface.co/stepfun-ai/NextStep-1-Large-Pretrain) |
+| 503 | 7 | nunchaku-tech/nunchaku-sdxl-turboText-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-sdxl-turbo) |
 | 1.07k | 6 | DFloat11/FLUX | Updated1 day ago | [Link](https://huggingface.co/DFloat11/FLUX.1-dev-DF11) |
 | 836 | 6 | Minthy/RouWei-0 | Updated3 days ago | [Link](https://huggingface.co/Minthy/RouWei-0.8) |
 | 169 | 6 | PosterCraft/PosterCraft-v1_RLText-to-Image | Updated2 days ago | [Link](https://huggingface.co/PosterCraft/PosterCraft-v1_RL) |
