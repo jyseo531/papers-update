@@ -5157,6 +5157,7 @@ Updated on 2025-09-23
 | Updatedabout 12 hours ago | 3 | Vyvo/VyvoTTS-v0-Qwen3-0 | 0.8B | [Link](https://huggingface.co/Vyvo/VyvoTTS-v0-Qwen3-0.6B) |
 | Updatedabout 17 hours ago | 3 | rsxdalv/VibeVoice-LargeText-to-Speech | 9B | [Link](https://huggingface.co/rsxdalv/VibeVoice-Large) |
 | Updatedabout 2 hours ago | 3 | nineninesix/kani-tts-450m-0 | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-450m-0.2-ft) |
+| 98 | 3 | herimor/voxtreamText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/herimor/voxtream) |
 | 2.36M | 2.41k | coqui/XTTS-v2Text-to-Speech | UpdatedDec 11, 2023 | [Link](https://huggingface.co/coqui/XTTS-v2) |
 | 153 | 2 | mmwillet2/Dia_GGUFText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/mmwillet2/Dia_GGUF) |
 | 55 | 2 | unsloth/Spark-TTS-0 | Updated2 days ago | [Link](https://huggingface.co/unsloth/Spark-TTS-0.5B) |
@@ -5232,6 +5233,7 @@ Updated on 2025-09-23
 | 4 | Unknown | DevParker/VibeVoice7b-low-vramText-to-Speech | Updatedabout 1 hour ago | [Link](https://huggingface.co/DevParker/VibeVoice7b-low-vram) |
 | 6 | Unknown | Thomcles/Chatterbox-TTS-FrenchText-to-Speech | Updated19 days ago | [Link](https://huggingface.co/Thomcles/Chatterbox-TTS-French) |
 | 46 | Unknown | openbmb/VoxCPM-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/openbmb/VoxCPM-0.5B) |
+| 3 | Unknown | pevers/parkietText-to-Speech | Updatedabout 2 hours ago | [Link](https://huggingface.co/pevers/parkiet) |
 
 ## Text-to-Video
 
