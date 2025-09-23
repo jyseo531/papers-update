@@ -9,12 +9,14 @@ Updated on 2025-09-23
 |:----------|:------|:-----------|:------------|:------|
 | 617k | 999 | openbmb/MiniCPM-o-2_6Any-to-Any | Updated5 days ago | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6) |
 | Updated6 days ago | 798 | modelscope/Nexus-GenAny-to-Any | 8B | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
+| Updatedabout 1 hour ago | 718 | XiaomiMiMo/MiMo-Audio-7B-InstructAny-to-Any | 8B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-Audio-7B-Instruct) |
 | 189k | 577 | deepseek-ai/Janus-1 | Updated29 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-1.3B) |
 | Updatedabout 16 hours ago | 398 | QuantStack/HiDream-E1-1-GGUFAny-to-Any | 17B | [Link](https://huggingface.co/QuantStack/HiDream-E1-1-GGUF) |
 | 121k | 381 | deepseek-ai/Janus-Pro-1BAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-1B) |
 | 488 | 260 | gpt-omni/mini-omni2Any-to-Any | UpdatedOct 24, 2024 | [Link](https://huggingface.co/gpt-omni/mini-omni2) |
 | Updated1 day ago | 254 | NexaAI/Qwen2 | 3B | [Link](https://huggingface.co/NexaAI/Qwen2.5-Omni-3B-GGUF) |
 | Updatedabout 7 hours ago | 253 | csuhan/Tar-1 | 3B | [Link](https://huggingface.co/csuhan/Tar-1.5B) |
+| Updatedabout 1 hour ago | 215 | XiaomiMiMo/MiMo-Audio-7B-BaseAny-to-Any | 8B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-Audio-7B-Base) |
 | 1.68k | 208 | BAAI/Emu3-GenAny-to-Any | UpdatedOct 23, 2024 | [Link](https://huggingface.co/BAAI/Emu3-Gen) |
 | 9.96k | 141 | deepseek-ai/JanusFlow-1 | Updated29 days ago | [Link](https://huggingface.co/deepseek-ai/JanusFlow-1.3B) |
 | 4.22k | 97 | inclusionAI/Ming-Lite-OmniAny-to-Any | Updatedabout 3 hours ago | [Link](https://huggingface.co/inclusionAI/Ming-Lite-Omni) |
@@ -1697,6 +1699,7 @@ Updated on 2025-09-23
 | 4.89k | 934 | microsoft/OmniParser-v2 | Updated7 days ago | [Link](https://huggingface.co/microsoft/OmniParser-v2.0) |
 | Updated1 day ago | 906 | OpenGVLab/InternVL3_5-1BImage-Text-to-Text | 1B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-1B) |
 | 57.2k | 851 | mistralai/Mistral-Small-3 | Updatedabout 11 hours ago | [Link](https://huggingface.co/mistralai/Mistral-Small-3.1-24B-Instruct-2503) |
+| Updatedabout 4 hours ago | 829 | lmms-lab/LLaVA-OneVision-1 | 9B | [Link](https://huggingface.co/lmms-lab/LLaVA-OneVision-1.5-8B-Instruct) |
 |  | 615 | mistralai/Pixtral-12B-2409Image-Text-to-Text | UpdatedDec 26, 2024 | [Link](https://huggingface.co/mistralai/Pixtral-12B-2409) |
 | Updatedabout 12 hours ago | 598 | deepcogito/cogito-v2-preview-llama-109B-MoEImage-Text-to-Text | 109B | [Link](https://huggingface.co/deepcogito/cogito-v2-preview-llama-109B-MoE) |
 | 1.67M | 546 | Qwen/Qwen2 | Updated10 days ago | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct) |
@@ -2324,6 +2327,8 @@ Updated on 2025-09-23
 | 967 |  | xuminglong/kontext-tryonImage-to-Image | UpdatedAug 6 | [Link](https://huggingface.co/xuminglong/kontext-tryon) |
 | 2 | Unknown | TsienDragon/qwen-image-edit-character-compositionImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/TsienDragon/qwen-image-edit-character-composition) |
 | 120 | Unknown | Qwen/Qwen-Image-Edit-2509Image-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/Qwen/Qwen-Image-Edit-2509) |
+| 58 |  | prithivMLmods/PhotoCleanser-i2iImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/PhotoCleanser-i2i) |
+| 161 |  | prithivMLmods/Photo-Restore-i2iImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/prithivMLmods/Photo-Restore-i2i) |
 
 ## Image-to-Text
 
@@ -5166,6 +5171,7 @@ Updated on 2025-09-23
 | UpdatedMar 28 | 1.36k | asif00/orpheus-bangla-ttsText-to-Speech | 3B | [Link](https://huggingface.co/asif00/orpheus-bangla-tts) |
 | Updated19 minutes ago | 1 | amphion/TaDiCodecText-to-Speech | 0.5B | [Link](https://huggingface.co/amphion/TaDiCodec) |
 | UpdatedApr 16 | 1.2k | Karayakar/Orpheus-TTS-Turkish-PT-5000Text-to-Speech | 3B | [Link](https://huggingface.co/Karayakar/Orpheus-TTS-Turkish-PT-5000) |
+| UpdatedMay 2 | 1.51k | 11mlabs/indri-0 | 0.1B | [Link](https://huggingface.co/11mlabs/indri-0.1-124m-tts) |
 | 302 | Unknown | lj1995/GPT-SoVITSText-to-Speech | Updated14 days ago | [Link](https://huggingface.co/lj1995/GPT-SoVITS) |
 | 436 | Unknown | myshell-ai/OpenVoiceText-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoice) |
 | 365 | Unknown | myshell-ai/OpenVoiceV2Text-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoiceV2) |
