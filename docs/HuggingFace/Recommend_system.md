@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-09-22
+Updated on 2025-09-23
 
 > Generated from the Hugging Face database.
 
@@ -28,6 +28,7 @@ Updated on 2025-09-22
 | 3.1k | 22 | Alpha-VLLM/Lumina-mGPT-7B-768Any-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-768) |
 | 253 | 20 | LanguageBind/UniWorld-V1Any-to-Any | Updatedabout 6 hours ago | [Link](https://huggingface.co/LanguageBind/UniWorld-V1) |
 | 142 | 19 | mit-han-lab/vila-u-7b-256Any-to-Any | UpdatedOct 29, 2024 | [Link](https://huggingface.co/mit-han-lab/vila-u-7b-256) |
+| Updatedabout 11 hours ago | 19 | Qwen/Qwen3-Omni-30B-A3B-InstructAny-to-Any | 35B | [Link](https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Instruct) |
 | 621 | 16 | EPFL-VILAB/4M-7_B_CC12MAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-7_B_CC12M) |
 | 470 | 15 | showlab/show-oAny-to-Any | UpdatedAug 27, 2024 | [Link](https://huggingface.co/showlab/show-o) |
 | 1.03k | 14 | onnx-community/Janus-1 | UpdatedNov 28, 2024 | [Link](https://huggingface.co/onnx-community/Janus-1.3B-ONNX) |
@@ -42,6 +43,7 @@ Updated on 2025-09-22
 | Updatedabout 5 hours ago | 7 | wikeeyang/Nexus-GenV2-nf4-fp8Any-to-Any | 5B | [Link](https://huggingface.co/wikeeyang/Nexus-GenV2-nf4-fp8) |
 | 1.15k | 6 | EPFL-VILAB/4M-21_BAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-21_B) |
 | 186 | 6 | showlab/show-o2-7BAny-to-Any | Updatedabout 9 hours ago | [Link](https://huggingface.co/showlab/show-o2-7B) |
+| Updatedabout 11 hours ago | 6 | Qwen/Qwen3-Omni-30B-A3B-ThinkingAny-to-Any | 32B | [Link](https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Thinking) |
 | 1.63k | 5 | PKU-Alignment/AA-chameleon-7b-plusAny-to-Any | UpdatedSep 13, 2024 | [Link](https://huggingface.co/PKU-Alignment/AA-chameleon-7b-plus) |
 | 2.67k | 5 | Junfeng5/Liquid_V1_7BAny-to-Any | Updated8 days ago | [Link](https://huggingface.co/Junfeng5/Liquid_V1_7B) |
 | 126 | 4 | Alpha-VLLM/Chameleon_7B_mGPTAny-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Chameleon_7B_mGPT) |
@@ -50,6 +52,7 @@ Updated on 2025-09-22
 | 8 | 4 | DFloat11/BAGEL-7B-MoT-DF11Any-to-Any | Updatedabout 23 hours ago | [Link](https://huggingface.co/DFloat11/BAGEL-7B-MoT-DF11) |
 | 12 | 4 | wikeeyang/UniWorld-V1-NF4Any-to-Any | Updatedabout 5 hours ago | [Link](https://huggingface.co/wikeeyang/UniWorld-V1-NF4) |
 | Updatedabout 1 hour ago | 4 | Alpha-VLLM/Lumina-DiMOOAny-to-Any | 8B | [Link](https://huggingface.co/Alpha-VLLM/Lumina-DiMOO) |
+| Updatedabout 12 hours ago | 4 | Qwen/Qwen3-Omni-30B-A3B-CaptionerAny-to-Any | 32B | [Link](https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Captioner) |
 | 481k | 3.11k | deepseek-ai/Janus-Pro-7BAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-7B) |
 | 78 | 3 | VARGPT-family/VARGPT_LLaVA-v1Any-to-Any | UpdatedJan 23 | [Link](https://huggingface.co/VARGPT-family/VARGPT_LLaVA-v1) |
 | 2 | 3 | impactframes/Janus-1 | UpdatedOct 19, 2024 | [Link](https://huggingface.co/impactframes/Janus-1.3B) |
@@ -2116,6 +2119,7 @@ Updated on 2025-09-22
 | 37.8k | 16 | caidas/swin2SR-realworld-sr-x4-64-bsrgan-psnrImage-to-Image | UpdatedJan 21, 2023 | [Link](https://huggingface.co/caidas/swin2SR-realworld-sr-x4-64-bsrgan-psnr) |
 | 13.9k | 15 | lllyasviel/control_v11p_sd15_mlsdImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_mlsd) |
 | 12 | 14 | InstantX/Qwen-Image-ControlNet-InpaintingImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/InstantX/Qwen-Image-ControlNet-Inpainting) |
+| Updated24 minutes ago | 14 | QuantStack/Qwen-Image-Edit-2509-GGUFImage-to-Image | 20B | [Link](https://huggingface.co/QuantStack/Qwen-Image-Edit-2509-GGUF) |
 | 8.6k | 13 | lllyasviel/control_v11p_sd15_segImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_seg) |
 |  | 13 | reverentelusarca/kontext-turnaround-sheet-lora-v1Image-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/reverentelusarca/kontext-turnaround-sheet-lora-v1) |
 | 1.03k | 11 | xiaozaa/cat-tryoff-fluxImage-to-Image | UpdatedDec 6, 2024 | [Link](https://huggingface.co/xiaozaa/cat-tryoff-flux) |
@@ -2145,6 +2149,7 @@ Updated on 2025-09-22
 | 75 | 5 | xiaolxl/HXHY-GuoHua-KontextLoRAImage-to-Image | Updated21 days ago | [Link](https://huggingface.co/xiaolxl/HXHY-GuoHua-KontextLoRA) |
 | Updatedabout 10 hours ago | 5 | Alpha-VLLM/Lumina-mGPT-2 | 8B | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-2.0-Omni) |
 | 39 | 5 | starsfriday/Qwen-Image-Edit-Remove-ClothesImage-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/starsfriday/Qwen-Image-Edit-Remove-Clothes) |
+| Updated17 minutes ago | 5 | calcuis/qwen-image-edit-plus-ggufImage-to-Image | 20B | [Link](https://huggingface.co/calcuis/qwen-image-edit-plus-gguf) |
 | 575 | 4 | prs-eth/marigold-normals-v1-1Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-normals-v1-1) |
 | 1k | 4 | stanfordmimi/MedVAEImage-to-Image | UpdatedMar 31 | [Link](https://huggingface.co/stanfordmimi/MedVAE) |
 | 3 | 4 | wikeeyang/UniWorld-V1-NF4Image-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/wikeeyang/UniWorld-V1-NF4) |
@@ -2318,6 +2323,7 @@ Updated on 2025-09-22
 | 69 |  | finegrain/finegrain-product-placement-loraImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/finegrain/finegrain-product-placement-lora) |
 | 967 |  | xuminglong/kontext-tryonImage-to-Image | UpdatedAug 6 | [Link](https://huggingface.co/xuminglong/kontext-tryon) |
 | 2 | Unknown | TsienDragon/qwen-image-edit-character-compositionImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/TsienDragon/qwen-image-edit-character-composition) |
+| 120 | Unknown | Qwen/Qwen-Image-Edit-2509Image-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/Qwen/Qwen-Image-Edit-2509) |
 
 ## Image-to-Text
 
@@ -2441,6 +2447,7 @@ Updated on 2025-09-22
 | 55 | 7 | binery/donut_receipt_v2 | UpdatedNov 29, 2022 | [Link](https://huggingface.co/binery/donut_receipt_v2.29) |
 | 2.8k | 7 | hezarai/crnn-base-fa-v2Image-to-Text | UpdatedApr 14 | [Link](https://huggingface.co/hezarai/crnn-base-fa-v2) |
 | UpdatedJan 19, 2024 | 7 | fireworks-ai/FireLLaVA-13bImage-to-Text | 13B | [Link](https://huggingface.co/fireworks-ai/FireLLaVA-13b) |
+| 52 | 7 | Xenova/trocr-small-handwrittenImage-to-Text | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Xenova/trocr-small-handwritten) |
 | 624 | 6 | fhswf/TrOCR_Math_handwrittenImage-to-Text | UpdatedOct 21, 2024 | [Link](https://huggingface.co/fhswf/TrOCR_Math_handwritten) |
 | 511 | 6 | microsoft/trocr-base-strImage-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-base-str) |
 | Updated21 days ago | 6.36k | allenai/olmOCR-7B-0225-preview-FP8Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview-FP8) |
@@ -2456,6 +2463,7 @@ Updated on 2025-09-22
 | 14 | 4 | unalignment/Pixtral-12B-Captioner-RelaxedImage-to-Text | UpdatedJan 22 | [Link](https://huggingface.co/unalignment/Pixtral-12B-Captioner-Relaxed) |
 | 3.42k | 4 | breezedeus/pix2text-mfdImage-to-Text | UpdatedJul 10, 2024 | [Link](https://huggingface.co/breezedeus/pix2text-mfd) |
 | Updated7 days ago | 4.05k | allenai/olmOCR-7B-0825-FP8Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0825-FP8) |
+| 205 | 4 | Xenova/trocr-small-printedImage-to-Text | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Xenova/trocr-small-printed) |
 | 299 | 3 | cnmoro/nano-image-captioningImage-to-Text | Updatedabout 1 month ago | [Link](https://huggingface.co/cnmoro/nano-image-captioning) |
 | 45 | 3 | braintacles/brainblipImage-to-Text | UpdatedJun 27, 2024 | [Link](https://huggingface.co/braintacles/brainblip) |
 | 55 | 3 | sbintuitions/sarashina2-vision-8bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-8b) |
@@ -2468,6 +2476,7 @@ Updated on 2025-09-22
 | 143 | 3 | mobiuslabsgmbh/Qwen2 | UpdatedJun 6 | [Link](https://huggingface.co/mobiuslabsgmbh/Qwen2.5-VL-7B-Instruct_gemlite-ao_a8w8) |
 | Updated1 day ago | 3 | snskrt/sanskrit-ocr-qwen2vlImage-to-Text | 2B | [Link](https://huggingface.co/snskrt/sanskrit-ocr-qwen2vl) |
 | 156k | 3 | PaddlePaddle/UVDocImage-to-Text | UpdatedJul 22 | [Link](https://huggingface.co/PaddlePaddle/UVDoc) |
+| 250 | 3 | Xenova/trocr-base-handwrittenImage-to-Text | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Xenova/trocr-base-handwritten) |
 | 51 | 2 | microsoft/git-base-msrvtt-qaImage-to-Text | UpdatedApr 4, 2024 | [Link](https://huggingface.co/microsoft/git-base-msrvtt-qa) |
 | 32 | 2 | baseplate/vit-gpt2-image-captioningImage-to-Text | UpdatedApr 5, 2023 | [Link](https://huggingface.co/baseplate/vit-gpt2-image-captioning) |
 | 38 | 2 | sbintuitions/sarashina2-vision-14bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-14b) |
@@ -2522,6 +2531,7 @@ Updated on 2025-09-22
 | UpdatedApr 3, 2024 | 1.05k | sashakunitsyn/vlrm-blip2-opt-2 | 4B | [Link](https://huggingface.co/sashakunitsyn/vlrm-blip2-opt-2.7b) |
 | UpdatedFeb 13 | 1.52k | RedHatAI/Llama-3 | 3B | [Link](https://huggingface.co/RedHatAI/Llama-3.2-11B-Vision-Instruct-quantized.w4a16) |
 | 4 | 1 | Sebabrata/dof-passport-1Image-to-Text | UpdatedNov 17, 2022 | [Link](https://huggingface.co/Sebabrata/dof-passport-1) |
+| 1.25k | 1 | Xenova/trocr-base-printedImage-to-Text | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Xenova/trocr-base-printed) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -4470,6 +4480,7 @@ Updated on 2025-09-22
 | Updatedabout 15 hours ago |  | Qwen/Qwen3-4B-Thinking-2507Text | 4B | [Link](https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507) |
 | Updatedabout 15 hours ago |  | Qwen/Qwen3-4B-Instruct-2507Text | 4B | [Link](https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507) |
 | 97 |  | moonshotai/Kimi-K2-Instruct-0905Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-K2-Instruct-0905) |
+| 22 | Unknown | Qwen/Qwen3-Next-80B-A3B-Instruct-FP8Text | Updatedabout 20 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct-FP8) |
 
 ## Text Ranking
 
