@@ -4064,6 +4064,7 @@ Updated on 2025-09-24
 | Updated3 days ago | 327 | nvidia/OpenReasoning-Nemotron-1 | 2B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-1.5B) |
 | Updated3 days ago | 321 | Jinx-org/Jinx-gpt-oss-20bText | 21B | [Link](https://huggingface.co/Jinx-org/Jinx-gpt-oss-20b) |
 |  | 295 | deepseek-ai/DeepSeek-R1-0528-Qwen3-8BText | Updatedabout 13 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B) |
+| Updatedabout 4 hours ago | 293 | Qwen/Qwen3Guard-Gen-0 | 0.8B | [Link](https://huggingface.co/Qwen/Qwen3Guard-Gen-0.6B) |
 | 6.51k | 262 | NousResearch/DeepHermes-3-Llama-3-8B-PreviewText | Updated6 days ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview) |
 | Updatedabout 2 hours ago | 255 | agentica-org/DeepSWE-PreviewText | 33B | [Link](https://huggingface.co/agentica-org/DeepSWE-Preview) |
 | UpdatedApr 22 | 246 | inclusionAI/Ling-Coder-liteText | 17B | [Link](https://huggingface.co/inclusionAI/Ling-Coder-lite) |
@@ -4084,6 +4085,7 @@ Updated on 2025-09-24
 | 6.18k | 156 | google/medgemma-27b-text-itText | Updated18 minutes ago | [Link](https://huggingface.co/google/medgemma-27b-text-it) |
 | Updatedabout 7 hours ago | 154 | tencent/Hunyuan-0 | 0.5B | [Link](https://huggingface.co/tencent/Hunyuan-0.5B-Instruct) |
 | 2.25k | 153 | open-thoughts/OpenThinker-32BText | Updated11 days ago | [Link](https://huggingface.co/open-thoughts/OpenThinker-32B) |
+| Updatedabout 4 hours ago | 153 | Qwen/Qwen3Guard-Gen-8BText | 8B | [Link](https://huggingface.co/Qwen/Qwen3Guard-Gen-8B) |
 | Updatedabout 4 hours ago | 151 | moondream/moondream3-previewText | 9B | [Link](https://huggingface.co/moondream/moondream3-preview) |
 | 38 | 143 | qihoo360/TinyR1-32B-PreviewText | Updatedabout 17 hours ago | [Link](https://huggingface.co/qihoo360/TinyR1-32B-Preview) |
 | Updated6 days ago | 140 | zerofata/MS3 | 24B | [Link](https://huggingface.co/zerofata/MS3.2-PaintedFantasy-24B) |
@@ -4785,6 +4787,7 @@ Updated on 2025-09-24
 | 5.59k | 33 | hashu786/HYVRewardText-to-Image | Updated5 days ago | [Link](https://huggingface.co/hashu786/HYVReward) |
 | 2.49k | 33 | Heartsync/NSFW-UncensoredText-to-Image | Updated7 days ago | [Link](https://huggingface.co/Heartsync/NSFW-Uncensored) |
 | 145 | 28 | ByteDance/XVerseText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/ByteDance/XVerse) |
+| 8 | 22 | nunchaku-tech/nunchaku-qwen-image-edit-2509Text-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-qwen-image-edit-2509) |
 | 5.26k | 20 | mit-han-lab/svdq-int4-flux | Updated22 days ago | [Link](https://huggingface.co/mit-han-lab/svdq-int4-flux.1-dev) |
 | 2 | 20 | HiDream-ai/HiDream-I1-FullText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/HiDream-ai/HiDream-I1-Full) |
 |  | 18 | multimodalart/isometric-skeumorphic-3d-bnbText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/multimodalart/isometric-skeumorphic-3d-bnb) |
@@ -5008,6 +5011,7 @@ Updated on 2025-09-24
 | 52 |  | ostris/qwen_image_detail_sliderText-to-Image | Updatedabout 18 hours ago | [Link](https://huggingface.co/ostris/qwen_image_detail_slider) |
 | 8 | Unknown | nunchaku-tech/nunchaku-sdxlText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-sdxl) |
 | 35 | Unknown | Alissonerdx/flux | Updated7 minutes ago | [Link](https://huggingface.co/Alissonerdx/flux.1-dev-SRPO-LoRas) |
+| 6 | Unknown | deadman44/Qwen-Image_LoRAText-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/deadman44/Qwen-Image_LoRA) |
 
 ## Text-to-Speech
 
