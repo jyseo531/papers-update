@@ -2431,6 +2431,7 @@ Updated on 2025-09-25
 | UpdatedDec 28, 2024 | 12 | grascii/gregg-vision-v0 | 0.0B | [Link](https://huggingface.co/grascii/gregg-vision-v0.2.1) |
 | Updated2 days ago | 12 | sanchit97/chart-rvr-hard-3bImage-to-Text | 4B | [Link](https://huggingface.co/sanchit97/chart-rvr-hard-3b) |
 | UpdatedJun 13 | 12 | mikewang/PVD-160k-Mistral-7bImage-to-Text | 7B | [Link](https://huggingface.co/mikewang/PVD-160k-Mistral-7b) |
+| 118 | 12 | Akajackson/donut_rusImage-to-Text | UpdatedApr 27, 2023 | [Link](https://huggingface.co/Akajackson/donut_rus) |
 | 658 | 11 | prithivMLmods/Florence-2-VLM-Doc-VQAImage-to-Text | UpdatedOct 26, 2024 | [Link](https://huggingface.co/prithivMLmods/Florence-2-VLM-Doc-VQA) |
 | 22 | 11 | daekeun-ml/ko-trocr-base-nsmc-news-chatbotImage-to-Text | UpdatedOct 5, 2023 | [Link](https://huggingface.co/daekeun-ml/ko-trocr-base-nsmc-news-chatbot) |
 | 2.98k | 11 | kazars24/trocr-base-handwritten-ruImage-to-Text | UpdatedOct 27, 2024 | [Link](https://huggingface.co/kazars24/trocr-base-handwritten-ru) |
@@ -4872,6 +4873,7 @@ Updated on 2025-09-25
 | 90.4k | 1.31k | xinsir/controlnet-union-sdxl-1 | UpdatedJul 30, 2024 | [Link](https://huggingface.co/xinsir/controlnet-union-sdxl-1.0) |
 | 387k | 1.66k | h94/IP-Adapter-FaceIDText-to-Image | UpdatedApr 16, 2024 | [Link](https://huggingface.co/h94/IP-Adapter-FaceID) |
 | Updated6 days ago | 1.58k | QuantStack/Chroma1-HD-GGUFText-to-Image | 9B | [Link](https://huggingface.co/QuantStack/Chroma1-HD-GGUF) |
+| Updated4 days ago | 1.3k | wikeeyang/Qwen-Image-Pruning-for-ComfyUIText-to-Image | 14B | [Link](https://huggingface.co/wikeeyang/Qwen-Image-Pruning-for-ComfyUI) |
 | 1.84M |  | black-forest-labs/FLUX | UpdatedAug 16, 2024 | [Link](https://huggingface.co/black-forest-labs/FLUX.1-dev) |
 | 268k |  | stabilityai/stable-diffusion-3 | UpdatedOct 22, 2024 | [Link](https://huggingface.co/stabilityai/stable-diffusion-3.5-large) |
 | 3.52M |  | stabilityai/stable-diffusion-xl-base-1 | UpdatedOct 30, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) |
@@ -5144,6 +5146,8 @@ Updated on 2025-09-25
 | 79 | 4 | onnx-community/kitten-tts-nano-0 | Updated1 day ago | [Link](https://huggingface.co/onnx-community/kitten-tts-nano-0.1-ONNX) |
 | 44 | 4 | VIZINTZOR/F5-TTS-TH-V2Text-to-Speech | Updated24 days ago | [Link](https://huggingface.co/VIZINTZOR/F5-TTS-TH-V2) |
 | Updatedabout 7 hours ago | 4 | aoi-ot/VibeVoice-7BText-to-Speech | 9B | [Link](https://huggingface.co/aoi-ot/VibeVoice-7B) |
+| 47 | 4 | MrEzzat/Spark_TTS_ArabicText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/MrEzzat/Spark_TTS_Arabic) |
+| 75 | 4 | onnx-community/chatterbox-ONNXText-to-Speech | Updatedabout 7 hours ago | [Link](https://huggingface.co/onnx-community/chatterbox-ONNX) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 1.22k | 3 | CONCREE/Adia_TTSText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/CONCREE/Adia_TTS) |
