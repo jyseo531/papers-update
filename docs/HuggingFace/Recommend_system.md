@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-09-24
+Updated on 2025-09-25
 
 > Generated from the Hugging Face database.
 
@@ -1715,6 +1715,7 @@ Updated on 2025-09-24
 | Updatedabout 2 hours ago | 349 | moondream/moondream3-previewImage-Text-to-Text | 9B | [Link](https://huggingface.co/moondream/moondream3-preview) |
 | 17.9k | 287 | deepseek-ai/deepseek-vl2Image-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2) |
 | 26.4k | 267 | MiniMaxAI/MiniMax-VL-01Image-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-VL-01) |
+| Updated1 day ago | 252 | Qwen/Qwen3-VL-235B-A22B-ThinkingImage-Text-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Thinking) |
 | 353k | 236 | microsoft/Florence-2-baseImage-Text-to-Text | UpdatedNov 4, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-base) |
 | Updatedabout 14 hours ago | 228 | CohereLabs/command-a-vision-07-2025Image-Text-to-Text | 112B | [Link](https://huggingface.co/CohereLabs/command-a-vision-07-2025) |
 | 7.06k | 180 | meta-llama/Llama-4-Scout-17B-16E-InstructImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct) |
@@ -1931,6 +1932,7 @@ Updated on 2025-09-24
 | Updated5 minutes ago | 3.08k | openbmb/MiniCPM-V-4-ggufImage-Text-to-Text | 4B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4-gguf) |
 | Updatedabout 7 hours ago | 2.63k | nvidia/Eagle2 | 8B | [Link](https://huggingface.co/nvidia/Eagle2.5-8B) |
 | Updatedabout 7 hours ago | 2 | internlm/Intern-S1-FP8Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1-FP8) |
+| Updated1 day ago | 2.26k | Qwen/Qwen3-VL-235B-A22B-InstructImage-Text-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct) |
 | 2.72k | 1.62k | microsoft/OmniParserImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/microsoft/OmniParser) |
 | 100k | 1.4k | stepfun-ai/GOT-OCR2_0Image-Text-to-Text | Updated21 days ago | [Link](https://huggingface.co/stepfun-ai/GOT-OCR2_0) |
 | 1.78M | 1.42k | microsoft/Florence-2-largeImage-Text-to-Text | UpdatedDec 8, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-large) |
@@ -2332,6 +2334,7 @@ Updated on 2025-09-24
 | 120 | Unknown | Qwen/Qwen-Image-Edit-2509Image-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/Qwen/Qwen-Image-Edit-2509) |
 | 58 |  | prithivMLmods/PhotoCleanser-i2iImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/PhotoCleanser-i2i) |
 | 161 |  | prithivMLmods/Photo-Restore-i2iImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/prithivMLmods/Photo-Restore-i2i) |
+| 164 |  | prithivMLmods/Monochrome-PencilImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/prithivMLmods/Monochrome-Pencil) |
 
 ## Image-to-Text
 
@@ -4341,6 +4344,7 @@ Updated on 2025-09-24
 | 1.43k | 19 | Motif-Technologies/Motif-2 | Updatedabout 10 hours ago | [Link](https://huggingface.co/Motif-Technologies/Motif-2.6B) |
 | 85 | 19 | THU-KEG/LongWriter-Zero-32BText | Updatedabout 23 hours ago | [Link](https://huggingface.co/THU-KEG/LongWriter-Zero-32B) |
 | Updated5 days ago | 19.6k | unsloth/ERNIE-4 | 22B | [Link](https://huggingface.co/unsloth/ERNIE-4.5-21B-A3B-Thinking-GGUF) |
+| 4 | 19 | xTimeCrystal/MiniModel-200M-BaseText | Updatedabout 21 hours ago | [Link](https://huggingface.co/xTimeCrystal/MiniModel-200M-Base) |
 | 969 | 18 | bartowski/all-hands_openhands-lm-32b-v0 | Updated2 days ago | [Link](https://huggingface.co/bartowski/all-hands_openhands-lm-32b-v0.1-GGUF) |
 | 256 | 18 | Trendyol/Trendyol-LLM-7B-chat-v4 | Updated3 days ago | [Link](https://huggingface.co/Trendyol/Trendyol-LLM-7B-chat-v4.1.0) |
 | 1.11k | 18 | bartowski/Zyphra_ZR1-1 | Updated1 day ago | [Link](https://huggingface.co/bartowski/Zyphra_ZR1-1.5B-GGUF) |
@@ -4430,6 +4434,7 @@ Updated on 2025-09-24
 | Updatedabout 18 hours ago | 1.14k | google/gemma-3-270m-itText | 0.3B | [Link](https://huggingface.co/google/gemma-3-270m-it) |
 | Updatedabout 8 hours ago | 1 | apple/FastVLM-0 | 0.8B | [Link](https://huggingface.co/apple/FastVLM-0.5B) |
 | Updatedabout 3 hours ago | 1.35k | NousResearch/Hermes-4-14BText | 0.0B | [Link](https://huggingface.co/NousResearch/Hermes-4-14B) |
+| Updated3 days ago | 1.8k | Manojb/Qwen3-4B-toolcalling-gguf-codexText | 4B | [Link](https://huggingface.co/Manojb/Qwen3-4B-toolcalling-gguf-codex) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
