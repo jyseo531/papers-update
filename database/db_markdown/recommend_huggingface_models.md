@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-09-25
+Updated on 2025-09-26
 
 > Generated from the Hugging Face database.
 
@@ -1699,6 +1699,7 @@ Updated on 2025-09-25
 |:----------|:------|:-----------|:------------|:------|
 | 109k | 939 | openbmb/MiniCPM-V-2_6Image-Text-to-Text | UpdatedJan 15 | [Link](https://huggingface.co/openbmb/MiniCPM-V-2_6) |
 | 4.89k | 934 | microsoft/OmniParser-v2 | Updated7 days ago | [Link](https://huggingface.co/microsoft/OmniParser-v2.0) |
+| Updated8 days ago | 908 | OpenGVLab/ScaleCUA-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/OpenGVLab/ScaleCUA-7B) |
 | Updated1 day ago | 906 | OpenGVLab/InternVL3_5-1BImage-Text-to-Text | 1B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-1B) |
 | 57.2k | 851 | mistralai/Mistral-Small-3 | Updatedabout 11 hours ago | [Link](https://huggingface.co/mistralai/Mistral-Small-3.1-24B-Instruct-2503) |
 | Updatedabout 4 hours ago | 829 | lmms-lab/LLaVA-OneVision-1 | 9B | [Link](https://huggingface.co/lmms-lab/LLaVA-OneVision-1.5-8B-Instruct) |
@@ -2170,6 +2171,7 @@ Updated on 2025-09-25
 | Updated25 minutes ago | 4 | calcuis/qwen-image-edit-ggufImage-to-Image | 20B | [Link](https://huggingface.co/calcuis/qwen-image-edit-gguf) |
 | 18 | 4 | TsienDragon/qwen-image-edit-lora-face-segmentationImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/TsienDragon/qwen-image-edit-lora-face-segmentation) |
 |  | 4 | chflame163/kontext_hiresImage-to-Image | Updatedabout 15 hours ago | [Link](https://huggingface.co/chflame163/kontext_hires) |
+| 371 | 4 | ovedrive/Qwen-Image-Edit-2509-4bitImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/ovedrive/Qwen-Image-Edit-2509-4bit) |
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
