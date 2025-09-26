@@ -4068,6 +4068,7 @@ Updated on 2025-09-26
 |  | 356 | Qwen/QwQ-32BText | Updatedabout 8 hours ago | [Link](https://huggingface.co/Qwen/QwQ-32B) |
 | Updatedabout 6 hours ago | 351 | K-intelligence/Midm-2 | 12B | [Link](https://huggingface.co/K-intelligence/Midm-2.0-Base-Instruct) |
 |  | 339 | deepseek-ai/DeepSeek-Prover-V2-671BText | Updatedabout 1 hour ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-Prover-V2-671B) |
+| Updatedabout 9 hours ago | 329 | Kwaipilot/KAT-DevText | 33B | [Link](https://huggingface.co/Kwaipilot/KAT-Dev) |
 | Updated3 days ago | 327 | nvidia/OpenReasoning-Nemotron-1 | 2B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-1.5B) |
 | Updated3 days ago | 321 | Jinx-org/Jinx-gpt-oss-20bText | 21B | [Link](https://huggingface.co/Jinx-org/Jinx-gpt-oss-20b) |
 |  | 295 | deepseek-ai/DeepSeek-R1-0528-Qwen3-8BText | Updatedabout 13 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B) |
@@ -4102,6 +4103,7 @@ Updated on 2025-09-26
 | Updatedabout 18 hours ago | 125 | NousResearch/Hermes-4-405BText | 406B | [Link](https://huggingface.co/NousResearch/Hermes-4-405B) |
 | Updated3 days ago | 125 | janhq/Jan-v1-edgeText | 2B | [Link](https://huggingface.co/janhq/Jan-v1-edge) |
 | Updated3 days ago | 121 | nvidia/OpenReasoning-Nemotron-14BText | 15B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-14B) |
+| Updated1 day ago | 119 | LiquidAI/LFM2-350M-ExtractText | 0.4B | [Link](https://huggingface.co/LiquidAI/LFM2-350M-Extract) |
 | Updatedabout 11 hours ago | 115 | mistralai/Devstral-Small-2507Text | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2507) |
 | Updated1 day ago | 111 | moelanoby/phi-3-M3-coderText | 4B | [Link](https://huggingface.co/moelanoby/phi-3-M3-coder) |
 | Updated4 days ago | 110 | LatitudeGames/Wayfarer-2-12BText | 12B | [Link](https://huggingface.co/LatitudeGames/Wayfarer-2-12B) |
