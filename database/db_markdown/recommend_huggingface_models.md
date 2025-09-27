@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-09-26
+Updated on 2025-09-27
 
 > Generated from the Hugging Face database.
 
@@ -5024,6 +5024,7 @@ Updated on 2025-09-26
 | 8 | Unknown | nunchaku-tech/nunchaku-sdxlText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-sdxl) |
 | 35 | Unknown | Alissonerdx/flux | Updated7 minutes ago | [Link](https://huggingface.co/Alissonerdx/flux.1-dev-SRPO-LoRas) |
 | 6 | Unknown | deadman44/Qwen-Image_LoRAText-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/deadman44/Qwen-Image_LoRA) |
+| 7 | Unknown | sda7/ICBINFText-to-Image | Updated5 days ago | [Link](https://huggingface.co/sda7/ICBINF) |
 
 ## Text-to-Speech
 
