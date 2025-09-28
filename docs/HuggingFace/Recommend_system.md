@@ -39,6 +39,7 @@ Updated on 2025-09-28
 | UpdatedApr 26 | 11 | yujiepan/qwen2 | 0.0B | [Link](https://huggingface.co/yujiepan/qwen2.5-omni-tiny-random) |
 | 42 | 10 | sanaka87/BAGEL-RecAAny-to-Any | Updated2 days ago | [Link](https://huggingface.co/sanaka87/BAGEL-RecA) |
 | 6 | 10 | dorni/UniVerse-1-BaseAny-to-Any | Updatedabout 10 hours ago | [Link](https://huggingface.co/dorni/UniVerse-1-Base) |
+| UpdatedDec 12, 2024 | 10 | Alpha-VLLM/Lumina-mGPT-7B-768-OmniAny-to-Any | 7B | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-768-Omni) |
 | 23 | 9 | Alpha-VLLM/Lumina-mGPT-7B-1024Any-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-1024) |
 | 612 | 7 | internlm/internlm-xcomposer2d5-7b-rewardAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/internlm/internlm-xcomposer2d5-7b-reward) |
 | 16 | 7 | FunAGI/Qwen2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/FunAGI/Qwen2.5-Omni-7B-GPTQ-4bit) |
@@ -2195,6 +2196,7 @@ Updated on 2025-09-28
 | 83 | 3 | drbaph/Qwen-Image-Edit-Remove-Clothing-LoRAImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/drbaph/Qwen-Image-Edit-Remove-Clothing-LoRA) |
 | 20 | 3 | drbaph/Qwen-Image-Edit-Middle-Finger-LoRAImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/drbaph/Qwen-Image-Edit-Middle-Finger-LoRA) |
 | 217 | 3 | ShinoharaHare/Waifu-Inpaint-XLImage-to-Image | Updated19 days ago | [Link](https://huggingface.co/ShinoharaHare/Waifu-Inpaint-XL) |
+| 77 | 3 | peteromallet/Qwen-Image-Edit-InSubjectImage-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/peteromallet/Qwen-Image-Edit-InSubject) |
 | 67 | 2 | SherryXTChen/InstructCLIP-InstructPix2PixImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/SherryXTChen/InstructCLIP-InstructPix2Pix) |
 | 17 | 2 | SherryXTChen/Instruct-CLIPImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/SherryXTChen/Instruct-CLIP) |
 | 76 | 2 | VisualCloze/VisualClozePipeline-384Image-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/VisualCloze/VisualClozePipeline-384) |
@@ -2338,6 +2340,7 @@ Updated on 2025-09-28
 | 58 |  | prithivMLmods/PhotoCleanser-i2iImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/PhotoCleanser-i2i) |
 | 161 |  | prithivMLmods/Photo-Restore-i2iImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/prithivMLmods/Photo-Restore-i2i) |
 | 164 |  | prithivMLmods/Monochrome-PencilImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/prithivMLmods/Monochrome-Pencil) |
+| 3 | Unknown | OPPOer/Qwen-Image-Edit-PruningImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/OPPOer/Qwen-Image-Edit-Pruning) |
 
 ## Image-to-Text
 
@@ -4798,6 +4801,7 @@ Updated on 2025-09-28
 | 3.27M | 64 | stable-diffusion-v1-5/stable-diffusion-inpaintingText-to-Image | UpdatedSep 6, 2024 | [Link](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-inpainting) |
 | 8.42k | 59 | cyberdelia/CyberRealisticPonyText-to-Image | Updated3 days ago | [Link](https://huggingface.co/cyberdelia/CyberRealisticPony) |
 | 36 | 51 | THUDM/CogView4-6BText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/THUDM/CogView4-6B) |
+| Updatedabout 9 hours ago | 51 | tencent/HunyuanImage-3 | 83B | [Link](https://huggingface.co/tencent/HunyuanImage-3.0) |
 | 87 | 44 | Freepik/F-LiteText-to-Image | Updatedabout 15 hours ago | [Link](https://huggingface.co/Freepik/F-Lite) |
 | 2.23k | 42 | aoxo/flux | Updatedabout 2 hours ago | [Link](https://huggingface.co/aoxo/flux.1dev-abliteratedv2) |
 | 1.18k | 40 | tencent/SRPOText-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/tencent/SRPO) |
