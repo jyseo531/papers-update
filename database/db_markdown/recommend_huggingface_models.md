@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-09-27
+Updated on 2025-09-28
 
 > Generated from the Hugging Face database.
 
@@ -1719,6 +1719,7 @@ Updated on 2025-09-27
 | Updated1 day ago | 252 | Qwen/Qwen3-VL-235B-A22B-ThinkingImage-Text-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Thinking) |
 | 353k | 236 | microsoft/Florence-2-baseImage-Text-to-Text | UpdatedNov 4, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-base) |
 | Updatedabout 14 hours ago | 228 | CohereLabs/command-a-vision-07-2025Image-Text-to-Text | 112B | [Link](https://huggingface.co/CohereLabs/command-a-vision-07-2025) |
+| Updatedabout 13 hours ago | 211 | INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v1 | 12B | [Link](https://huggingface.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v1.0) |
 | 7.06k | 180 | meta-llama/Llama-4-Scout-17B-16E-InstructImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct) |
 | Updatedabout 7 hours ago | 171 | OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-PreviewImage-Text-to-Text | 0.4B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-Preview) |
 | 116 | 167 | google/gemma-3-27b-itImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-it) |
@@ -2428,6 +2429,7 @@ Updated on 2025-09-27
 | UpdatedMay 4 | 13 | ragunath-ravi/blip-histopathology-finetunedImage-to-Text | 0.2B | [Link](https://huggingface.co/ragunath-ravi/blip-histopathology-finetuned) |
 | UpdatedMay 16, 2024 | 13.2k | LanguageBind/Video-LLaVA-7B-hfImage-to-Text | 7B | [Link](https://huggingface.co/LanguageBind/Video-LLaVA-7B-hf) |
 | UpdatedNov 3, 2024 | 13 | Vikhrmodels/Vikhr-2-VL-2b-Instruct-experimentalImage-to-Text | 2B | [Link](https://huggingface.co/Vikhrmodels/Vikhr-2-VL-2b-Instruct-experimental) |
+| 214 | 13 | tifa-benchmark/promptcap-coco-vqaImage-to-Text | UpdatedDec 11, 2023 | [Link](https://huggingface.co/tifa-benchmark/promptcap-coco-vqa) |
 | 3.63k | 12 | microsoft/trocr-small-stage1Image-to-Text | UpdatedJan 24, 2023 | [Link](https://huggingface.co/microsoft/trocr-small-stage1) |
 | 2.29k | 12 | MohamedRashad/arabic-large-nougatImage-to-Text | UpdatedNov 28, 2024 | [Link](https://huggingface.co/MohamedRashad/arabic-large-nougat) |
 | UpdatedDec 28, 2024 | 12 | grascii/gregg-vision-v0 | 0.0B | [Link](https://huggingface.co/grascii/gregg-vision-v0.2.1) |
@@ -2600,6 +2602,7 @@ Updated on 2025-09-27
 | 2 | Unknown | asmud/ds4sd-docling-models-onnxImage-to-Text | Updated2 days ago | [Link](https://huggingface.co/asmud/ds4sd-docling-models-onnx) |
 | 1 | Unknown | cpans/idcard_ocrImage-to-Text | UpdatedFeb 1, 2024 | [Link](https://huggingface.co/cpans/idcard_ocr) |
 | 3 | Unknown | anyforge/anyocrImage-to-Text | UpdatedMay 13 | [Link](https://huggingface.co/anyforge/anyocr) |
+| 2 | Unknown | lamco-development/granite-docling-258M-onnxImage-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/lamco-development/granite-docling-258M-onnx) |
 
 ## Image-to-Video
 
@@ -4374,6 +4377,7 @@ Updated on 2025-09-27
 | 33 | 17 | katanemo/Arch-Agent-7BText | Updated2 days ago | [Link](https://huggingface.co/katanemo/Arch-Agent-7B) |
 | Updated23 minutes ago | 17 | tencent/Hunyuan-A13B-Instruct-GPTQ-Int4Text | 12B | [Link](https://huggingface.co/tencent/Hunyuan-A13B-Instruct-GPTQ-Int4) |
 | Updatedabout 6 hours ago | 17 | tngtech/DeepSeek-TNG-R1T2-ChimeraText | 685B | [Link](https://huggingface.co/tngtech/DeepSeek-TNG-R1T2-Chimera) |
+| Updated1 day ago | 17 | inclusionAI/Ring-mini-linear-2 | 16B | [Link](https://huggingface.co/inclusionAI/Ring-mini-linear-2.0) |
 | 938 | 16 | ubergarm/DeepSeek-V3-0324-GGUFText | Updated3 days ago | [Link](https://huggingface.co/ubergarm/DeepSeek-V3-0324-GGUF) |
 | 2.09k | 16 | google/gemma-3-1b-it-qat-q4_0-ggufText | Updated3 days ago | [Link](https://huggingface.co/google/gemma-3-1b-it-qat-q4_0-gguf) |
 | 2.94k | 16 | nvidia/AceMath-RL-Nemotron-7BText | Updated4 days ago | [Link](https://huggingface.co/nvidia/AceMath-RL-Nemotron-7B) |
