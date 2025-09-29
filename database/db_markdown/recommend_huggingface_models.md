@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-09-28
+Updated on 2025-09-29
 
 > Generated from the Hugging Face database.
 
@@ -63,6 +63,7 @@ Updated on 2025-09-28
 | 3 | 3 | ICTNLP/stream-omni-8bAny-to-Any | Updatedabout 4 hours ago | [Link](https://huggingface.co/ICTNLP/stream-omni-8b) |
 | 139 | 3 | showlab/show-o2-1 | Updatedabout 9 hours ago | [Link](https://huggingface.co/showlab/show-o2-1.5B) |
 | Updatedabout 6 hours ago | 3 | ngxson/Home-Cook-Mistral-Small-Omni-24B-2507-GGUFAny-to-Any | 24B | [Link](https://huggingface.co/ngxson/Home-Cook-Mistral-Small-Omni-24B-2507-GGUF) |
+| Updatedabout 5 hours ago | 3 | cpatonn/Qwen3-Omni-30B-A3B-Instruct-AWQ-4bitAny-to-Any | 10B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Instruct-AWQ-4bit) |
 | 47 | 2 | PKU-Alignment/AnyRewardModelAny-to-Any | UpdatedDec 28, 2024 | [Link](https://huggingface.co/PKU-Alignment/AnyRewardModel) |
 | 585 | 2 | wnma3mz/Janus-Pro-1B-4bitAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/wnma3mz/Janus-Pro-1B-4bit) |
 | 3 | 2 | lintw/HealthGPT-XL32Any-to-Any | Updatedabout 18 hours ago | [Link](https://huggingface.co/lintw/HealthGPT-XL32) |
@@ -2197,6 +2198,7 @@ Updated on 2025-09-28
 | 20 | 3 | drbaph/Qwen-Image-Edit-Middle-Finger-LoRAImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/drbaph/Qwen-Image-Edit-Middle-Finger-LoRA) |
 | 217 | 3 | ShinoharaHare/Waifu-Inpaint-XLImage-to-Image | Updated19 days ago | [Link](https://huggingface.co/ShinoharaHare/Waifu-Inpaint-XL) |
 | 77 | 3 | peteromallet/Qwen-Image-Edit-InSubjectImage-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/peteromallet/Qwen-Image-Edit-InSubject) |
+| 570 | 3 | flymy-ai/qwen-image-edit-2509-inscene-loraImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/flymy-ai/qwen-image-edit-2509-inscene-lora) |
 | 67 | 2 | SherryXTChen/InstructCLIP-InstructPix2PixImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/SherryXTChen/InstructCLIP-InstructPix2Pix) |
 | 17 | 2 | SherryXTChen/Instruct-CLIPImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/SherryXTChen/Instruct-CLIP) |
 | 76 | 2 | VisualCloze/VisualClozePipeline-384Image-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/VisualCloze/VisualClozePipeline-384) |
@@ -2459,6 +2461,7 @@ Updated on 2025-09-28
 | UpdatedMay 23, 2024 | 8 | waleko/TikZ-llava-1 | 7B | [Link](https://huggingface.co/waleko/TikZ-llava-1.5-7b) |
 | Updatedabout 3 hours ago | 8 | xlangai/OpenCUA-7BImage-to-Text | 8B | [Link](https://huggingface.co/xlangai/OpenCUA-7B) |
 | UpdatedJul 13, 2024 | 8 | matthh/git-image-to-g-codeImage-to-Text | 0.2B | [Link](https://huggingface.co/matthh/git-image-to-g-code) |
+| Updatedabout 11 hours ago | 8 | internlm/CapRL-3BImage-to-Text | 4B | [Link](https://huggingface.co/internlm/CapRL-3B) |
 | 1.58k | 7 | DunnBC22/trocr-base-printed_captcha_ocrImage-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-base-printed_captcha_ocr) |
 | 24.7k | 7 | Riksarkivet/trocr-base-handwritten-hist-swe-2Image-to-Text | Updated11 days ago | [Link](https://huggingface.co/Riksarkivet/trocr-base-handwritten-hist-swe-2) |
 | 285 | 7 | purna419/invoice-parserImage-to-Text | UpdatedJul 10, 2023 | [Link](https://huggingface.co/purna419/invoice-parser) |
