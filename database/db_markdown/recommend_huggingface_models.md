@@ -1745,6 +1745,7 @@ Updated on 2025-09-29
 | Updatedabout 4 hours ago | 96 | AIDC-AI/Ovis2 | 9B | [Link](https://huggingface.co/AIDC-AI/Ovis2.5-9B) |
 | Updated5 days ago | 96 | prithivMLmods/DeepCaption-VLA-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/prithivMLmods/DeepCaption-VLA-7B) |
 | 1.69k | 88 | google/gemma-3n-E4B-itImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/google/gemma-3n-E4B-it) |
+| Updated2 days ago | 87 | INSAIT-Institute/MamayLM-Gemma-3-4B-IT-v1 | 4B | [Link](https://huggingface.co/INSAIT-Institute/MamayLM-Gemma-3-4B-IT-v1.0) |
 | Updated20 days ago | 81.8k | zai-org/GLM-4 | 10B | [Link](https://huggingface.co/zai-org/GLM-4.1V-9B-Thinking) |
 | 10.9k | 80 | ibm-granite/granite-vision-3 | Updatedabout 7 hours ago | [Link](https://huggingface.co/ibm-granite/granite-vision-3.1-2b-preview) |
 | 1.06k | 71 | AIDC-AI/Ovis2-16BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-16B) |
@@ -2343,6 +2344,7 @@ Updated on 2025-09-29
 | 161 |  | prithivMLmods/Photo-Restore-i2iImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/prithivMLmods/Photo-Restore-i2i) |
 | 164 |  | prithivMLmods/Monochrome-PencilImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/prithivMLmods/Monochrome-Pencil) |
 | 3 | Unknown | OPPOer/Qwen-Image-Edit-PruningImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/OPPOer/Qwen-Image-Edit-Pruning) |
+| 56 |  | ovi054/extract-clothes-kontext-dev-loraImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/ovi054/extract-clothes-kontext-dev-lora) |
 
 ## Image-to-Text
 
@@ -5038,6 +5040,7 @@ Updated on 2025-09-29
 | 35 | Unknown | Alissonerdx/flux | Updated7 minutes ago | [Link](https://huggingface.co/Alissonerdx/flux.1-dev-SRPO-LoRas) |
 | 6 | Unknown | deadman44/Qwen-Image_LoRAText-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/deadman44/Qwen-Image_LoRA) |
 | 7 | Unknown | sda7/ICBINFText-to-Image | Updated5 days ago | [Link](https://huggingface.co/sda7/ICBINF) |
+| 5 | Unknown | speach1sdef178/Project0_PJ0_Krea_v2_FP8_FP16Text-to-Image | Updated5 days ago | [Link](https://huggingface.co/speach1sdef178/Project0_PJ0_Krea_v2_FP8_FP16) |
 
 ## Text-to-Speech
 
@@ -5167,6 +5170,7 @@ Updated on 2025-09-29
 | Updatedabout 7 hours ago | 4 | aoi-ot/VibeVoice-7BText-to-Speech | 9B | [Link](https://huggingface.co/aoi-ot/VibeVoice-7B) |
 | 47 | 4 | MrEzzat/Spark_TTS_ArabicText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/MrEzzat/Spark_TTS_Arabic) |
 | 75 | 4 | onnx-community/chatterbox-ONNXText-to-Speech | Updatedabout 7 hours ago | [Link](https://huggingface.co/onnx-community/chatterbox-ONNX) |
+| 96 | 4 | onnx-community/chatterbox-multilingual-ONNXText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/onnx-community/chatterbox-multilingual-ONNX) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 1.22k | 3 | CONCREE/Adia_TTSText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/CONCREE/Adia_TTS) |
