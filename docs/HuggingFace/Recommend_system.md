@@ -2529,6 +2529,7 @@ Updated on 2025-09-29
 | Updatedabout 5 hours ago | 2 | allenai/olmOCR-7B-0825Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0825) |
 | UpdatedJun 17 | 2.19k | thesby/Qwen2 | 8B | [Link](https://huggingface.co/thesby/Qwen2.5-VL-7B-NSFW-Caption-V3) |
 | Updatedabout 9 hours ago | 2 | yasserrmd/SinaReason-Magistral-2509Image-to-Text | 24B | [Link](https://huggingface.co/yasserrmd/SinaReason-Magistral-2509) |
+| 63 | 2 | farbodpya/Persian-OCRImage-to-Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/farbodpya/Persian-OCR) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
