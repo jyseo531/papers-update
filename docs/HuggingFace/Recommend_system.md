@@ -2346,6 +2346,7 @@ Updated on 2025-09-30
 | 164 |  | prithivMLmods/Monochrome-PencilImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/prithivMLmods/Monochrome-Pencil) |
 | 3 | Unknown | OPPOer/Qwen-Image-Edit-PruningImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/OPPOer/Qwen-Image-Edit-Pruning) |
 | 56 |  | ovi054/extract-clothes-kontext-dev-loraImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/ovi054/extract-clothes-kontext-dev-lora) |
+| 3 | Unknown | kpsss34/LucyEdit_hybridImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/kpsss34/LucyEdit_hybrid) |
 
 ## Image-to-Text
 
@@ -2433,6 +2434,7 @@ Updated on 2025-09-30
 | 135k | 14 | naver-clova-ix/donut-base-finetuned-rvlcdipImage-to-Text | UpdatedMar 9, 2024 | [Link](https://huggingface.co/naver-clova-ix/donut-base-finetuned-rvlcdip) |
 | 159 | 14 | yayayaaa/florence-2-large-ft-moredetailedImage-to-Text | UpdatedJul 16, 2024 | [Link](https://huggingface.co/yayayaaa/florence-2-large-ft-moredetailed) |
 | UpdatedMar 6 | 14 | ankitelastiq/llama-3-2-11b-vision-electrical-components-instructImage-to-Text | 11B | [Link](https://huggingface.co/ankitelastiq/llama-3-2-11b-vision-electrical-components-instruct) |
+| 944 | 14 | qualcomm/TrOCRImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/qualcomm/TrOCR) |
 | 207 | 13 | DGurgurov/im2latexImage-to-Text | UpdatedOct 23, 2024 | [Link](https://huggingface.co/DGurgurov/im2latex) |
 | 24.8k | 13 | microsoft/trocr-base-stage1Image-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-base-stage1) |
 | UpdatedMay 4 | 13 | ragunath-ravi/blip-histopathology-finetunedImage-to-Text | 0.2B | [Link](https://huggingface.co/ragunath-ravi/blip-histopathology-finetuned) |
@@ -5067,6 +5069,7 @@ Updated on 2025-09-30
 | Updatedabout 11 hours ago | 389 | calcuis/vibevoice-ggufText-to-Speech | 3B | [Link](https://huggingface.co/calcuis/vibevoice-gguf) |
 | UpdatedSep 5, 2024 | 389 | wasmdashai/vits-arText-to-Speech | 0.0B | [Link](https://huggingface.co/wasmdashai/vits-ar) |
 | Updated17 days ago | 383 | tensorblock/maya-research_Veena-GGUFText-to-Speech | 4B | [Link](https://huggingface.co/tensorblock/maya-research_Veena-GGUF) |
+| UpdatedSep 1, 2023 | 357 | facebook/mms-tts-uig-script_arabicText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-uig-script_arabic) |
 | 5.64k | 352 | parler-tts/parler_tts_mini_v0 | UpdatedApr 30, 2024 | [Link](https://huggingface.co/parler-tts/parler_tts_mini_v0.1) |
 | UpdatedMay 25, 2024 | 323 | utrobinmv/tts_ru_free_hf_vits_high_multispeakerText-to-Speech | 0.0B | [Link](https://huggingface.co/utrobinmv/tts_ru_free_hf_vits_high_multispeaker) |
 | Updated3 days ago | 279 | sheliak/VibeVoice-Large_MirrorText-to-Speech | 9B | [Link](https://huggingface.co/sheliak/VibeVoice-Large_Mirror) |
@@ -5282,6 +5285,7 @@ Updated on 2025-09-30
 | 6 | Unknown | Thomcles/Chatterbox-TTS-FrenchText-to-Speech | Updated19 days ago | [Link](https://huggingface.co/Thomcles/Chatterbox-TTS-French) |
 | 46 | Unknown | openbmb/VoxCPM-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/openbmb/VoxCPM-0.5B) |
 | 3 | Unknown | pevers/parkietText-to-Speech | Updatedabout 2 hours ago | [Link](https://huggingface.co/pevers/parkiet) |
+| 3 | Unknown | ABDALLALSWAITI/vibevoice-arabic-ZText-to-Speech | Updatedabout 3 hours ago | [Link](https://huggingface.co/ABDALLALSWAITI/vibevoice-arabic-Z) |
 
 ## Text-to-Video
 
@@ -5460,6 +5464,7 @@ Updated on 2025-09-30
 | 5 | Unknown | Cseti/wan2 | Updated5 days ago | [Link](https://huggingface.co/Cseti/wan2.2-14B-Kinestasis_concept-lora-v1) |
 | 1 | Unknown | yumasco/UniGenAiText-to-Video | UpdatedJun 13 | [Link](https://huggingface.co/yumasco/UniGenAi) |
 | 2 | Unknown | htdong/Wan-Alpha_ComfyUIText-to-Video | Updatedabout 11 hours ago | [Link](https://huggingface.co/htdong/Wan-Alpha_ComfyUI) |
+| 6 | Unknown | htdong/Wan-AlphaText-to-Video | Updatedabout 9 hours ago | [Link](https://huggingface.co/htdong/Wan-Alpha) |
 
 ## Text2Text Generation
 
