@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-09-29
+Updated on 2025-09-30
 
 > Generated from the Hugging Face database.
 
@@ -21,6 +21,7 @@ Updated on 2025-09-29
 | 9.96k | 141 | deepseek-ai/JanusFlow-1 | Updated29 days ago | [Link](https://huggingface.co/deepseek-ai/JanusFlow-1.3B) |
 | 4.22k | 97 | inclusionAI/Ming-Lite-OmniAny-to-Any | Updatedabout 3 hours ago | [Link](https://huggingface.co/inclusionAI/Ming-Lite-Omni) |
 | 36.8k | 83 | openbmb/MiniCPM-o-2_6-ggufAny-to-Any | UpdatedJan 17 | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6-gguf) |
+| Updated1 day ago | 53 | cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-4bitAny-to-Any | 6B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-4bit) |
 | 32.5k | 44 | onnx-community/Janus-Pro-1B-ONNXAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/onnx-community/Janus-Pro-1B-ONNX) |
 | 16.8k | 38 | openbmb/MiniCPM-o-2_6-int4Any-to-Any | UpdatedJan 22 | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6-int4) |
 | 94 | 34 | EPFL-VILAB/4M-21_XLAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-21_XL) |
@@ -2361,6 +2362,7 @@ Updated on 2025-09-29
 | UpdatedAug 26, 2024 | 467 | LeroyDyer/SpydazWebAI_Image_ProjectorsImage-to-Text | 7B | [Link](https://huggingface.co/LeroyDyer/SpydazWebAI_Image_Projectors) |
 | UpdatedJan 6, 2024 | 441 | Ransaka/TrOCR-SinhalaImage-to-Text | 0.3B | [Link](https://huggingface.co/Ransaka/TrOCR-Sinhala) |
 | UpdatedNov 28, 2024 | 429 | MohamedRashad/arabic-small-nougatImage-to-Text | 0.2B | [Link](https://huggingface.co/MohamedRashad/arabic-small-nougat) |
+| UpdatedJul 18 | 323 | loay/ArabicOCR-Qwen2 | 8B | [Link](https://huggingface.co/loay/ArabicOCR-Qwen2.5-VL-7B-Vision) |
 | Updated2 days ago | 230 | HelloKKMe/GTA1-32BImage-to-Text | 33B | [Link](https://huggingface.co/HelloKKMe/GTA1-32B) |
 | 7.46k | 213 | xtuner/llava-llama-3-8b-v1_1-ggufImage-to-Text | UpdatedApr 30, 2024 | [Link](https://huggingface.co/xtuner/llava-llama-3-8b-v1_1-gguf) |
 | UpdatedMar 5 | 180 | r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUF) |
@@ -2489,6 +2491,7 @@ Updated on 2025-09-29
 | 3.42k | 4 | breezedeus/pix2text-mfdImage-to-Text | UpdatedJul 10, 2024 | [Link](https://huggingface.co/breezedeus/pix2text-mfd) |
 | Updated7 days ago | 4.05k | allenai/olmOCR-7B-0825-FP8Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0825-FP8) |
 | 205 | 4 | Xenova/trocr-small-printedImage-to-Text | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Xenova/trocr-small-printed) |
+| 11 | 4 | turing-motors/heron-chat-blip-ja-stablelm-base-7b-v1Image-to-Text | UpdatedFeb 27, 2024 | [Link](https://huggingface.co/turing-motors/heron-chat-blip-ja-stablelm-base-7b-v1) |
 | 299 | 3 | cnmoro/nano-image-captioningImage-to-Text | Updatedabout 1 month ago | [Link](https://huggingface.co/cnmoro/nano-image-captioning) |
 | 45 | 3 | braintacles/brainblipImage-to-Text | UpdatedJun 27, 2024 | [Link](https://huggingface.co/braintacles/brainblip) |
 | 55 | 3 | sbintuitions/sarashina2-vision-8bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-8b) |
@@ -4178,6 +4181,7 @@ Updated on 2025-09-29
 | 926 | 54 | arcee-ai/Arcee-BlitzText | Updated4 days ago | [Link](https://huggingface.co/arcee-ai/Arcee-Blitz) |
 | 658 | 54 | ByteDance-Seed/Seed-Coder-8B-InstructText | Updatedabout 6 hours ago | [Link](https://huggingface.co/ByteDance-Seed/Seed-Coder-8B-Instruct) |
 | Updated2 days ago | 54 | S4nfs/Neeto-1 | 8B | [Link](https://huggingface.co/S4nfs/Neeto-1.0-8b) |
+| Updated6 days ago | 53 | GAIR/LIMIText | 353B | [Link](https://huggingface.co/GAIR/LIMI) |
 | 660 | 52 | nvidia/Llama-3_3-Nemotron-Super-49B-v1Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/nvidia/Llama-3_3-Nemotron-Super-49B-v1) |
 | 22 | 52 | Qwen/Qwen3-0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-0.6B) |
 | 325 | 51 | moonshotai/Moonlight-16B-A3BText | Updated2 days ago | [Link](https://huggingface.co/moonshotai/Moonlight-16B-A3B) |
@@ -4189,6 +4193,7 @@ Updated on 2025-09-29
 | Updatedabout 16 hours ago | 48 | osmosis-ai/Osmosis-Apply-1 | 2B | [Link](https://huggingface.co/osmosis-ai/Osmosis-Apply-1.7B) |
 | 39 | 47 | open-r1/OlympicCoder-32BText | Updatedabout 17 hours ago | [Link](https://huggingface.co/open-r1/OlympicCoder-32B) |
 | Updatedabout 13 hours ago | 47 | LLM360/K2-ThinkText | 33B | [Link](https://huggingface.co/LLM360/K2-Think) |
+| Updatedabout 10 hours ago | 47 | inclusionAI/Ring-1T-previewText | 1000B | [Link](https://huggingface.co/inclusionAI/Ring-1T-preview) |
 | 415 | 46 | LGAI-EXAONE/EXAONE-Deep-2 | Updated4 minutes ago | [Link](https://huggingface.co/LGAI-EXAONE/EXAONE-Deep-2.4B) |
 | 151 | 46 | bytedance-research/ChatTS-14BText | Updated2 days ago | [Link](https://huggingface.co/bytedance-research/ChatTS-14B) |
 | 13 | 46 | Qwen/Qwen3-4BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-4B) |
@@ -4218,6 +4223,7 @@ Updated on 2025-09-29
 | Updatedabout 10 hours ago | 38 | inclusionAI/Ring-mini-2 | 16B | [Link](https://huggingface.co/inclusionAI/Ring-mini-2.0) |
 | 125 | 37 | microsoft/Phi-4-mini-instructText | Updatedabout 2 hours ago | [Link](https://huggingface.co/microsoft/Phi-4-mini-instruct) |
 | Updatedabout 13 hours ago | 37 | Tesslate/UIGEN-X-32B-0727Text | 0.0B | [Link](https://huggingface.co/Tesslate/UIGEN-X-32B-0727) |
+| Updated1 day ago | 37 | Shekswess/trlm-135mText | 0.1B | [Link](https://huggingface.co/Shekswess/trlm-135m) |
 | 60 | 36 | Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1) |
 | Updated1 day ago | 36 | KurmaAI/AQUA-1BText | 1.0B | [Link](https://huggingface.co/KurmaAI/AQUA-1B) |
 | Updatedabout 10 hours ago | 36 | LiquidAI/LFM2-700MText | 0.7B | [Link](https://huggingface.co/LiquidAI/LFM2-700M) |
@@ -5453,6 +5459,7 @@ Updated on 2025-09-29
 | 5 | Unknown | Eyeline-Labs/CineScaleText-to-Video | Updated7 days ago | [Link](https://huggingface.co/Eyeline-Labs/CineScale) |
 | 5 | Unknown | Cseti/wan2 | Updated5 days ago | [Link](https://huggingface.co/Cseti/wan2.2-14B-Kinestasis_concept-lora-v1) |
 | 1 | Unknown | yumasco/UniGenAiText-to-Video | UpdatedJun 13 | [Link](https://huggingface.co/yumasco/UniGenAi) |
+| 2 | Unknown | htdong/Wan-Alpha_ComfyUIText-to-Video | Updatedabout 11 hours ago | [Link](https://huggingface.co/htdong/Wan-Alpha_ComfyUI) |
 
 ## Text2Text Generation
 
