@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-09-30
+Updated on 2025-10-01
 
 > Generated from the Hugging Face database.
 
@@ -2393,6 +2393,7 @@ Updated on 2025-09-30
 | 5.28k | 48 | Ertugrul/Qwen2-VL-7B-Captioner-RelaxedImage-to-Text | UpdatedSep 26, 2024 | [Link](https://huggingface.co/Ertugrul/Qwen2-VL-7B-Captioner-Relaxed) |
 | UpdatedMay 18, 2024 | 41 | moranyanuka/blip-image-captioning-large-mochaImage-to-Text | 0.5B | [Link](https://huggingface.co/moranyanuka/blip-image-captioning-large-mocha) |
 | 246 | 40 | selvakumarcts/sk_invoice_receiptsImage-to-Text | UpdatedOct 20, 2023 | [Link](https://huggingface.co/selvakumarcts/sk_invoice_receipts) |
+| 573 | 39 | katanaml-org/invoices-donut-model-v1Image-to-Text | UpdatedMay 11, 2023 | [Link](https://huggingface.co/katanaml-org/invoices-donut-model-v1) |
 | 7.54k | 36 | breezedeus/pix2text-mfrImage-to-Text | UpdatedMay 5, 2024 | [Link](https://huggingface.co/breezedeus/pix2text-mfr) |
 | Updated1 day ago | 36 | helizac/dots | 2B | [Link](https://huggingface.co/helizac/dots.ocr-4bit) |
 | UpdatedJul 6, 2024 | 36 | medieval-data/trocr-medieval-printImage-to-Text | 0.3B | [Link](https://huggingface.co/medieval-data/trocr-medieval-print) |
@@ -4193,6 +4194,7 @@ Updated on 2025-09-30
 | Updatedabout 1 hour ago | 49 | swiss-ai/Apertus-8B-Instruct-2509Text | 8B | [Link](https://huggingface.co/swiss-ai/Apertus-8B-Instruct-2509) |
 | Updated2 days ago | 49 | inclusionAI/Ling-flash-base-2 | 106B | [Link](https://huggingface.co/inclusionAI/Ling-flash-base-2.0) |
 | Updatedabout 16 hours ago | 48 | osmosis-ai/Osmosis-Apply-1 | 2B | [Link](https://huggingface.co/osmosis-ai/Osmosis-Apply-1.7B) |
+| Updatedabout 7 hours ago | 48 | ServiceNow-AI/Apriel-1 | 15B | [Link](https://huggingface.co/ServiceNow-AI/Apriel-1.5-15b-Thinker) |
 | 39 | 47 | open-r1/OlympicCoder-32BText | Updatedabout 17 hours ago | [Link](https://huggingface.co/open-r1/OlympicCoder-32B) |
 | Updatedabout 13 hours ago | 47 | LLM360/K2-ThinkText | 33B | [Link](https://huggingface.co/LLM360/K2-Think) |
 | Updatedabout 10 hours ago | 47 | inclusionAI/Ring-1T-previewText | 1000B | [Link](https://huggingface.co/inclusionAI/Ring-1T-preview) |
@@ -5114,6 +5116,7 @@ Updated on 2025-09-30
 | 1.34k | 29 | Xenova/speecht5_ttsText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/Xenova/speecht5_tts) |
 | 1.2k | 27 | saheedniyi/YarnGPTText-to-Speech | UpdatedJan 29 | [Link](https://huggingface.co/saheedniyi/YarnGPT) |
 | 152 | 23 | OmarSamir/EGTTS-V0 | Updated27 days ago | [Link](https://huggingface.co/OmarSamir/EGTTS-V0.1) |
+| Updatedabout 15 hours ago | 23 | wcy1122/MGM-Omni-TTS-2B-0927Text-to-Speech | 2B | [Link](https://huggingface.co/wcy1122/MGM-Omni-TTS-2B-0927) |
 | 943k | 22 | myshell-ai/MeloTTS-KoreanText-to-Speech | UpdatedFeb 29, 2024 | [Link](https://huggingface.co/myshell-ai/MeloTTS-Korean) |
 | 431 | 21 | firstpixel/F5-TTS-pt-brText-to-Speech | Updated13 days ago | [Link](https://huggingface.co/firstpixel/F5-TTS-pt-br) |
 | 48 | 21 | senstella/csm-expressiva-1bText-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/senstella/csm-expressiva-1b) |
@@ -5347,6 +5350,7 @@ Updated on 2025-09-30
 | 5.05k | 4 | a-r-r-o-w/LTX-Video-diffusersText-to-Video | UpdatedDec 25, 2024 | [Link](https://huggingface.co/a-r-r-o-w/LTX-Video-diffusers) |
 | 490 | 4 | lym00/Wan2 | Updated1 minute ago | [Link](https://huggingface.co/lym00/Wan2.1-14B-T2V-FusionX-FP8-GGUF) |
 | 35 | 4 | jbilcke-hf/HunyuanVideoGP-HFIEText-to-Video | UpdatedFeb 28 | [Link](https://huggingface.co/jbilcke-hf/HunyuanVideoGP-HFIE) |
+| 109 | 4 | Remade-AI/FireText-to-Video | UpdatedMar 20 | [Link](https://huggingface.co/Remade-AI/Fire) |
 | 4.64k | 3 | guoyww/animatediff-motion-lora-pan-rightText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-pan-right) |
 | 28 | 3 | finetrainers/3dgs-v0Text-to-Video | UpdatedJan 29 | [Link](https://huggingface.co/finetrainers/3dgs-v0) |
 | 1 | 3 | longlian/text-to-video-lvd-msText-to-Video | UpdatedMay 1, 2024 | [Link](https://huggingface.co/longlian/text-to-video-lvd-ms) |
