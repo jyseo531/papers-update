@@ -2347,6 +2347,7 @@ Updated on 2025-10-01
 | 3 | Unknown | OPPOer/Qwen-Image-Edit-PruningImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/OPPOer/Qwen-Image-Edit-Pruning) |
 | 56 |  | ovi054/extract-clothes-kontext-dev-loraImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/ovi054/extract-clothes-kontext-dev-lora) |
 | 3 | Unknown | kpsss34/LucyEdit_hybridImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/kpsss34/LucyEdit_hybrid) |
+| 18 | Unknown | W2GenAI/LucidFluxImage-to-Image | Updated37 minutes ago | [Link](https://huggingface.co/W2GenAI/LucidFlux) |
 
 ## Image-to-Text
 
@@ -2489,6 +2490,7 @@ Updated on 2025-10-01
 | UpdatedJan 20 | 5.45k | HuggingFaceTB/SmolVLM-256M-BaseImage-to-Text | 0.3B | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-256M-Base) |
 | UpdatedAug 23, 2023 | 5 | AIris-Channel/vit-gpt2-verifycode-captionImage-to-Text | 0.2B | [Link](https://huggingface.co/AIris-Channel/vit-gpt2-verifycode-caption) |
 | UpdatedFeb 19 | 5 | moot20/SmolVLM-256M-Base-MLXImage-to-Text | 0.3B | [Link](https://huggingface.co/moot20/SmolVLM-256M-Base-MLX) |
+| Updatedabout 10 hours ago | 5 | facebook/DepthLMImage-to-Text | 13B | [Link](https://huggingface.co/facebook/DepthLM) |
 | 17 | 4 | MixTex/tiny-ZhEn-for-onnxImage-to-Text | UpdatedFeb 23 | [Link](https://huggingface.co/MixTex/tiny-ZhEn-for-onnx) |
 | 14 | 4 | unalignment/Pixtral-12B-Captioner-RelaxedImage-to-Text | UpdatedJan 22 | [Link](https://huggingface.co/unalignment/Pixtral-12B-Captioner-Relaxed) |
 | 3.42k | 4 | breezedeus/pix2text-mfdImage-to-Text | UpdatedJul 10, 2024 | [Link](https://huggingface.co/breezedeus/pix2text-mfd) |
@@ -5391,6 +5393,7 @@ Updated on 2025-10-01
 | 17 | 2 | ai-forever/Wan2 | Updated1 day ago | [Link](https://huggingface.co/ai-forever/Wan2.1-T2V-14B-NABLA-0.7) |
 | 43 | 2 | DFloat11/Wan2 | Updated1 day ago | [Link](https://huggingface.co/DFloat11/Wan2.2-T2V-A14B-2-DF11) |
 | 14 | 2 | valiantcat/one_finger_wan21_t2v_loraText-to-Video | Updated11 days ago | [Link](https://huggingface.co/valiantcat/one_finger_wan21_t2v_lora) |
+| 36.6k | 2 | wlsaidhi/SFWan2 | Updated22 days ago | [Link](https://huggingface.co/wlsaidhi/SFWan2.1-T2V-1.3B-Diffusers) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
