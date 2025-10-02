@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-10-01
+Updated on 2025-10-02
 
 > Generated from the Hugging Face database.
 
@@ -2470,6 +2470,7 @@ Updated on 2025-10-01
 | Updatedabout 3 hours ago | 8 | xlangai/OpenCUA-7BImage-to-Text | 8B | [Link](https://huggingface.co/xlangai/OpenCUA-7B) |
 | UpdatedJul 13, 2024 | 8 | matthh/git-image-to-g-codeImage-to-Text | 0.2B | [Link](https://huggingface.co/matthh/git-image-to-g-code) |
 | Updatedabout 11 hours ago | 8 | internlm/CapRL-3BImage-to-Text | 4B | [Link](https://huggingface.co/internlm/CapRL-3B) |
+| Updated2 days ago | 8 | ob11/Qwen-VL-PRM-7BImage-to-Text | 8B | [Link](https://huggingface.co/ob11/Qwen-VL-PRM-7B) |
 | 1.58k | 7 | DunnBC22/trocr-base-printed_captcha_ocrImage-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-base-printed_captcha_ocr) |
 | 24.7k | 7 | Riksarkivet/trocr-base-handwritten-hist-swe-2Image-to-Text | Updated11 days ago | [Link](https://huggingface.co/Riksarkivet/trocr-base-handwritten-hist-swe-2) |
 | 285 | 7 | purna419/invoice-parserImage-to-Text | UpdatedJul 10, 2023 | [Link](https://huggingface.co/purna419/invoice-parser) |
@@ -2566,6 +2567,7 @@ Updated on 2025-10-01
 | UpdatedFeb 13 | 1.52k | RedHatAI/Llama-3 | 3B | [Link](https://huggingface.co/RedHatAI/Llama-3.2-11B-Vision-Instruct-quantized.w4a16) |
 | 4 | 1 | Sebabrata/dof-passport-1Image-to-Text | UpdatedNov 17, 2022 | [Link](https://huggingface.co/Sebabrata/dof-passport-1) |
 | 1.25k | 1 | Xenova/trocr-base-printedImage-to-Text | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Xenova/trocr-base-printed) |
+| 10 | 1 | mrm8488/ViT2GPT-2-esImage-to-Text | UpdatedFeb 25, 2022 | [Link](https://huggingface.co/mrm8488/ViT2GPT-2-es) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -5160,6 +5162,7 @@ Updated on 2025-10-01
 | Updatedabout 5 hours ago | 7 | Vyvo/VyvoTTS-LFM2-350M-JennyText-to-Speech | 0.4B | [Link](https://huggingface.co/Vyvo/VyvoTTS-LFM2-350M-Jenny) |
 | Updatedabout 9 hours ago | 7 | DeepMount00/Sibilia-TTSText-to-Speech | 2B | [Link](https://huggingface.co/DeepMount00/Sibilia-TTS) |
 | 12 | 7 | AhmedEladl/saudi-ttsText-to-Speech | Updated7 days ago | [Link](https://huggingface.co/AhmedEladl/saudi-tts) |
+| Updated1 day ago | 7 | nineninesix/kani-tts-370mText-to-Speech | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-370m) |
 | 13 | 6 | ntdgo/ttsviText-to-Speech | UpdatedApr 17, 2024 | [Link](https://huggingface.co/ntdgo/ttsvi) |
 | 29 | 6 | erax-ai/EraX-Smile-UnixSex-F5Text-to-Speech | Updatedabout 8 hours ago | [Link](https://huggingface.co/erax-ai/EraX-Smile-UnixSex-F5) |
 | 29 | 6 | ICTNLP/SLED-TTS-Streaming-LibriheavyText-to-Speech | Updatedabout 18 hours ago | [Link](https://huggingface.co/ICTNLP/SLED-TTS-Streaming-Libriheavy) |
