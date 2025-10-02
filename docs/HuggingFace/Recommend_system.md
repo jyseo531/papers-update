@@ -5059,6 +5059,7 @@ Updated on 2025-10-02
 | 6 | Unknown | deadman44/Qwen-Image_LoRAText-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/deadman44/Qwen-Image_LoRA) |
 | 7 | Unknown | sda7/ICBINFText-to-Image | Updated5 days ago | [Link](https://huggingface.co/sda7/ICBINF) |
 | 5 | Unknown | speach1sdef178/Project0_PJ0_Krea_v2_FP8_FP16Text-to-Image | Updated5 days ago | [Link](https://huggingface.co/speach1sdef178/Project0_PJ0_Krea_v2_FP8_FP16) |
+| 5 | Unknown | Phr00t/Qwen-Rapid-AIOText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/Phr00t/Qwen-Rapid-AIO) |
 
 ## Text-to-Speech
 
