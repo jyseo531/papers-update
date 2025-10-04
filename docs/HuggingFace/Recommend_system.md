@@ -2572,6 +2572,7 @@ Updated on 2025-10-04
 | 4 | 1 | Sebabrata/dof-passport-1Image-to-Text | UpdatedNov 17, 2022 | [Link](https://huggingface.co/Sebabrata/dof-passport-1) |
 | 1.25k | 1 | Xenova/trocr-base-printedImage-to-Text | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Xenova/trocr-base-printed) |
 | 10 | 1 | mrm8488/ViT2GPT-2-esImage-to-Text | UpdatedFeb 25, 2022 | [Link](https://huggingface.co/mrm8488/ViT2GPT-2-es) |
+| UpdatedMay 25 | 1.63k | unsloth/Cosmos-Reason1-7B-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/unsloth/Cosmos-Reason1-7B-GGUF) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -5303,6 +5304,7 @@ Updated on 2025-10-04
 | 46 | Unknown | openbmb/VoxCPM-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/openbmb/VoxCPM-0.5B) |
 | 3 | Unknown | pevers/parkietText-to-Speech | Updatedabout 2 hours ago | [Link](https://huggingface.co/pevers/parkiet) |
 | 3 | Unknown | ABDALLALSWAITI/vibevoice-arabic-ZText-to-Speech | Updatedabout 3 hours ago | [Link](https://huggingface.co/ABDALLALSWAITI/vibevoice-arabic-Z) |
+| 4 | Unknown | campwill/HAL-9000-Piper-TTSText-to-Speech | UpdatedApr 13 | [Link](https://huggingface.co/campwill/HAL-9000-Piper-TTS) |
 
 ## Text-to-Video
 
