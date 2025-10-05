@@ -1755,6 +1755,7 @@ Updated on 2025-10-05
 | Updated2 days ago | 87 | INSAIT-Institute/MamayLM-Gemma-3-4B-IT-v1 | 4B | [Link](https://huggingface.co/INSAIT-Institute/MamayLM-Gemma-3-4B-IT-v1.0) |
 | Updated20 days ago | 81.8k | zai-org/GLM-4 | 10B | [Link](https://huggingface.co/zai-org/GLM-4.1V-9B-Thinking) |
 | 10.9k | 80 | ibm-granite/granite-vision-3 | Updatedabout 7 hours ago | [Link](https://huggingface.co/ibm-granite/granite-vision-3.1-2b-preview) |
+| Updated5 days ago | 73 | neovateai/UI-UG-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/neovateai/UI-UG-7B) |
 | 1.06k | 71 | AIDC-AI/Ovis2-16BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-16B) |
 | Updated5 days ago | 70 | smolagents/SmolVLM2-2 | 2B | [Link](https://huggingface.co/smolagents/SmolVLM2-2.2B-Instruct-Agentic-GUI) |
 | 89 | 69 | CohereForAI/aya-vision-8bImage-Text-to-Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/CohereForAI/aya-vision-8b) |
@@ -4897,6 +4898,7 @@ Updated on 2025-10-05
 | 37 | 7 | opendiffusionai/sd-flow-alphaText-to-Image | Updated1 day ago | [Link](https://huggingface.co/opendiffusionai/sd-flow-alpha) |
 | Updatedabout 22 hours ago | 7 | stepfun-ai/NextStep-1-Large-PretrainText-to-Image | 15B | [Link](https://huggingface.co/stepfun-ai/NextStep-1-Large-Pretrain) |
 | 503 | 7 | nunchaku-tech/nunchaku-sdxl-turboText-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-sdxl-turbo) |
+|  | 7 | Danrisi/Qwen-image_SamsungCam_UltraRealText-to-Image | Updated2 days ago | [Link](https://huggingface.co/Danrisi/Qwen-image_SamsungCam_UltraReal) |
 | 1.07k | 6 | DFloat11/FLUX | Updated1 day ago | [Link](https://huggingface.co/DFloat11/FLUX.1-dev-DF11) |
 | 836 | 6 | Minthy/RouWei-0 | Updated3 days ago | [Link](https://huggingface.co/Minthy/RouWei-0.8) |
 | 169 | 6 | PosterCraft/PosterCraft-v1_RLText-to-Image | Updated2 days ago | [Link](https://huggingface.co/PosterCraft/PosterCraft-v1_RL) |
