@@ -5494,6 +5494,7 @@ Updated on 2025-10-06
 | 1 | Unknown | yumasco/UniGenAiText-to-Video | UpdatedJun 13 | [Link](https://huggingface.co/yumasco/UniGenAi) |
 | 2 | Unknown | htdong/Wan-Alpha_ComfyUIText-to-Video | Updatedabout 11 hours ago | [Link](https://huggingface.co/htdong/Wan-Alpha_ComfyUI) |
 | 6 | Unknown | htdong/Wan-AlphaText-to-Video | Updatedabout 9 hours ago | [Link](https://huggingface.co/htdong/Wan-Alpha) |
+| 4 | Unknown | phazei/phazei-SkyReels-V2-fp8-e5m2Text-to-Video | UpdatedMay 25 | [Link](https://huggingface.co/phazei/phazei-SkyReels-V2-fp8-e5m2) |
 
 ## Text2Text Generation
 
