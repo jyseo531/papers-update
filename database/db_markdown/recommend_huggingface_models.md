@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-10-06
+Updated on 2025-10-07
 
 > Generated from the Hugging Face database.
 
@@ -4157,6 +4157,7 @@ Updated on 2025-10-06
 | 322 | 90 | XiaomiMiMo/MiMo-7B-BaseText | Updatedabout 12 hours ago | [Link](https://huggingface.co/XiaomiMiMo/MiMo-7B-Base) |
 | Updatedabout 7 hours ago | 90 | NousResearch/Hermes-4-70BText | 71B | [Link](https://huggingface.co/NousResearch/Hermes-4-70B) |
 | 27.1k | 89 | google/gemma-3n-E4B-it-litert-lmText | Updated12 days ago | [Link](https://huggingface.co/google/gemma-3n-E4B-it-litert-lm) |
+| Updated3 days ago | 89 | Salesforce/CoDA-v0-InstructText | 2B | [Link](https://huggingface.co/Salesforce/CoDA-v0-Instruct) |
 | 420 | 88 | all-hands/openhands-lm-32b-v0 | Updatedabout 16 hours ago | [Link](https://huggingface.co/all-hands/openhands-lm-32b-v0.1) |
 | 3.93k | 86 | PocketDoc/Dans-PersonalityEngine-V1 | Updated24 days ago | [Link](https://huggingface.co/PocketDoc/Dans-PersonalityEngine-V1.2.0-24b) |
 | Updatedabout 18 hours ago | 86 | Tesslate/WEBGEN-OSS-20BText | 21B | [Link](https://huggingface.co/Tesslate/WEBGEN-OSS-20B) |
@@ -5071,6 +5072,7 @@ Updated on 2025-10-06
 | 7 | Unknown | sda7/ICBINFText-to-Image | Updated5 days ago | [Link](https://huggingface.co/sda7/ICBINF) |
 | 5 | Unknown | speach1sdef178/Project0_PJ0_Krea_v2_FP8_FP16Text-to-Image | Updated5 days ago | [Link](https://huggingface.co/speach1sdef178/Project0_PJ0_Krea_v2_FP8_FP16) |
 | 5 | Unknown | Phr00t/Qwen-Rapid-AIOText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/Phr00t/Qwen-Rapid-AIO) |
+| 18 | Unknown | Phr00t/Qwen-Image-Edit-Rapid-AIOText-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/Phr00t/Qwen-Image-Edit-Rapid-AIO) |
 
 ## Text-to-Speech
 
@@ -5087,6 +5089,7 @@ Updated on 2025-10-06
 | 5.67k | 478 | nari-labs/Dia-1 | Updatedabout 9 hours ago | [Link](https://huggingface.co/nari-labs/Dia-1.6B) |
 | 8.56k | 455 | HKUSTAudio/Llasa-3BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-3B) |
 | 199 | 451 | CAMB-AI/MARS5-TTSText-to-Speech | UpdatedJul 5, 2024 | [Link](https://huggingface.co/CAMB-AI/MARS5-TTS) |
+| Updated4 days ago | 448 | Ken-Z/latin_SpeechT5Text-to-Speech | 0.1B | [Link](https://huggingface.co/Ken-Z/latin_SpeechT5) |
 | Updatedabout 11 hours ago | 389 | calcuis/vibevoice-ggufText-to-Speech | 3B | [Link](https://huggingface.co/calcuis/vibevoice-gguf) |
 | UpdatedSep 5, 2024 | 389 | wasmdashai/vits-arText-to-Speech | 0.0B | [Link](https://huggingface.co/wasmdashai/vits-ar) |
 | Updated17 days ago | 383 | tensorblock/maya-research_Veena-GGUFText-to-Speech | 4B | [Link](https://huggingface.co/tensorblock/maya-research_Veena-GGUF) |
