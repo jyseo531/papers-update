@@ -19,6 +19,7 @@ Updated on 2025-10-07
 | Updated1 day ago | 254 | NexaAI/Qwen2 | 3B | [Link](https://huggingface.co/NexaAI/Qwen2.5-Omni-3B-GGUF) |
 | Updatedabout 7 hours ago | 253 | csuhan/Tar-1 | 3B | [Link](https://huggingface.co/csuhan/Tar-1.5B) |
 | Updatedabout 1 hour ago | 215 | XiaomiMiMo/MiMo-Audio-7B-BaseAny-to-Any | 8B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-Audio-7B-Base) |
+| Updatedabout 3 hours ago | 215 | inclusionAI/Ming-UniAudio-16B-A3BAny-to-Any | 18B | [Link](https://huggingface.co/inclusionAI/Ming-UniAudio-16B-A3B) |
 | 1.68k | 208 | BAAI/Emu3-GenAny-to-Any | UpdatedOct 23, 2024 | [Link](https://huggingface.co/BAAI/Emu3-Gen) |
 | 455 | 149 | NexaAI/OmniNeural-4BAny-to-Any | Updated4 days ago | [Link](https://huggingface.co/NexaAI/OmniNeural-4B) |
 | 9.96k | 141 | deepseek-ai/JanusFlow-1 | Updated29 days ago | [Link](https://huggingface.co/deepseek-ai/JanusFlow-1.3B) |
@@ -2088,6 +2089,7 @@ Updated on 2025-10-07
 | 1.52k | 564 | CrucibleAI/ControlNetMediaPipeFaceImage-to-Image | UpdatedMay 19, 2023 | [Link](https://huggingface.co/CrucibleAI/ControlNetMediaPipeFace) |
 | 129k | 550 | yisol/IDM-VTONImage-to-Image | UpdatedApr 22, 2024 | [Link](https://huggingface.co/yisol/IDM-VTON) |
 | 169k | 534 | stabilityai/stable-diffusion-2-inpaintingImage-to-Image | UpdatedJul 5, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-2-inpainting) |
+| Updatedabout 6 hours ago | 349 | inclusionAI/MingTok-VisionImage-to-Image | 0.7B | [Link](https://huggingface.co/inclusionAI/MingTok-Vision) |
 | 3.02k | 268 | fal/AuraSR-v2Image-to-Image | UpdatedAug 7, 2024 | [Link](https://huggingface.co/fal/AuraSR-v2) |
 | 6.24k | 260 | enhanceaiteam/Flux-Uncensored-V2Image-to-Image | UpdatedOct 11, 2024 | [Link](https://huggingface.co/enhanceaiteam/Flux-Uncensored-V2) |
 |  | 243 | Qwen/Qwen-Image-EditImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/Qwen/Qwen-Image-Edit) |
@@ -2431,6 +2433,7 @@ Updated on 2025-10-07
 | UpdatedMar 21, 2024 | 20 | SakanaAI/EvoVLM-JP-v1-7BImage-to-Text | 8B | [Link](https://huggingface.co/SakanaAI/EvoVLM-JP-v1-7B) |
 | 376 | 19 | to-be/donut-base-finetuned-invoicesImage-to-Text | UpdatedMar 3, 2023 | [Link](https://huggingface.co/to-be/donut-base-finetuned-invoices) |
 | UpdatedOct 15, 2024 | 19 | Joctor/qwen2-vl-7b-instruct-ogiriImage-to-Text | 8B | [Link](https://huggingface.co/Joctor/qwen2-vl-7b-instruct-ogiri) |
+| Updated5 days ago | 19 | OfficerChul/Qwen2 | 8B | [Link](https://huggingface.co/OfficerChul/Qwen2.5-VL-7B-Instruct-Android-Control-5a) |
 | 433 | 17 | kpyu/video-blip-opt-2 | UpdatedMay 17, 2023 | [Link](https://huggingface.co/kpyu/video-blip-opt-2.7b-ego4d) |
 | Updated15 days ago | 17.2k | scb10x/typhoon-ocr-7bImage-to-Text | 8B | [Link](https://huggingface.co/scb10x/typhoon-ocr-7b) |
 | 207 | 16 | bipin/image-caption-generatorImage-to-Text | UpdatedJul 27, 2024 | [Link](https://huggingface.co/bipin/image-caption-generator) |
@@ -4456,6 +4459,7 @@ Updated on 2025-10-07
 | Updated28 minutes ago | 5 | unsloth/Kimi-K2-Instruct-GGUFText | 1026B | [Link](https://huggingface.co/unsloth/Kimi-K2-Instruct-GGUF) |
 | Updatedabout 4 hours ago | 5 | tencent/Hunyuan-1 | 2B | [Link](https://huggingface.co/tencent/Hunyuan-1.8B-Instruct) |
 | Updatedabout 6 hours ago | 5.68k | deepseek-ai/DeepSeek-V3 | 685B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3.1-Base) |
+| Updated5 days ago | 5.93k | ubergarm/GLM-4 | 357B | [Link](https://huggingface.co/ubergarm/GLM-4.6-GGUF) |
 | Updatedabout 21 hours ago | 4.52k | unsloth/Devstral-Small-2507-GGUFText | 24B | [Link](https://huggingface.co/unsloth/Devstral-Small-2507-GGUF) |
 | Updatedabout 6 hours ago | 4 | baichuan-inc/Baichuan-M2-32BText | 33B | [Link](https://huggingface.co/baichuan-inc/Baichuan-M2-32B) |
 | UpdatedMay 14 | 4 | inclusionAI/Ling-lite-base-1 | 17B | [Link](https://huggingface.co/inclusionAI/Ling-lite-base-1.5) |
@@ -4915,6 +4919,7 @@ Updated on 2025-10-07
 | 169 | 5 | lodestones/Chroma1-BaseText-to-Image | Updated2 days ago | [Link](https://huggingface.co/lodestones/Chroma1-Base) |
 | 431 | 5 | wikeeyang/Magic-Wan-Image-v1 | Updated5 days ago | [Link](https://huggingface.co/wikeeyang/Magic-Wan-Image-v1.0) |
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
+| 46 | 4 | Sherwinroger002/fashion_mnist_diffusion_class_conditionalText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Sherwinroger002/fashion_mnist_diffusion_class_conditional) |
 | 2.56k | 3.84k | WarriorMama777/OrangeMixsText-to-Image | UpdatedJan 7, 2024 | [Link](https://huggingface.co/WarriorMama777/OrangeMixs) |
 | Updatedabout 2 hours ago | 3.74k | calcuis/qwen-image-ggufText-to-Image | 20B | [Link](https://huggingface.co/calcuis/qwen-image-gguf) |
 | 2 | 2.77k | CompVis/stable-diffusion-v-1-4-originalText-to-Image | UpdatedNov 9, 2022 | [Link](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original) |
