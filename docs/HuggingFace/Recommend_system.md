@@ -2554,6 +2554,7 @@ Updated on 2025-10-08
 | Updatedabout 9 hours ago | 2 | yasserrmd/SinaReason-Magistral-2509Image-to-Text | 24B | [Link](https://huggingface.co/yasserrmd/SinaReason-Magistral-2509) |
 | 63 | 2 | farbodpya/Persian-OCRImage-to-Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/farbodpya/Persian-OCR) |
 | UpdatedJun 26 | 2 | manifestasi/smolVLM-161M-q4-manifestasi-v2Image-to-Text | 0.2B | [Link](https://huggingface.co/manifestasi/smolVLM-161M-q4-manifestasi-v2) |
+| 6 | 2 | mychen76/invoices-donut-v1Image-to-Text | UpdatedSep 22, 2023 | [Link](https://huggingface.co/mychen76/invoices-donut-v1) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -4332,6 +4333,7 @@ Updated on 2025-10-08
 | Updatedabout 6 hours ago | 26 | arcee-ai/AFM-4 | 5B | [Link](https://huggingface.co/arcee-ai/AFM-4.5B) |
 | Updatedabout 9 hours ago | 26 | ByteDance-Seed/Seed-OSS-36B-Base-woSynText | 36B | [Link](https://huggingface.co/ByteDance-Seed/Seed-OSS-36B-Base-woSyn) |
 | Updated4 days ago | 26.3k | unsloth/Seed-OSS-36B-Instruct-GGUFText | 36B | [Link](https://huggingface.co/unsloth/Seed-OSS-36B-Instruct-GGUF) |
+| Updatedabout 5 hours ago | 26.7k | TildeAI/TildeOpen-30bText | 31B | [Link](https://huggingface.co/TildeAI/TildeOpen-30b) |
 | 513 | 25 | CohereForAI/c4ai-command-r7b-arabic-02-2025Text | Updated2 days ago | [Link](https://huggingface.co/CohereForAI/c4ai-command-r7b-arabic-02-2025) |
 | 3.12k | 25 | ibm-granite/granite-3 | Updated9 days ago | [Link](https://huggingface.co/ibm-granite/granite-3.2-8b-instruct) |
 | 568 | 25 | GSAI-ML/LLaDA-8B-BaseText | Updated3 days ago | [Link](https://huggingface.co/GSAI-ML/LLaDA-8B-Base) |
@@ -5327,6 +5329,7 @@ Updated on 2025-10-08
 | 3 | Unknown | pevers/parkietText-to-Speech | Updatedabout 2 hours ago | [Link](https://huggingface.co/pevers/parkiet) |
 | 3 | Unknown | ABDALLALSWAITI/vibevoice-arabic-ZText-to-Speech | Updatedabout 3 hours ago | [Link](https://huggingface.co/ABDALLALSWAITI/vibevoice-arabic-Z) |
 | 4 | Unknown | campwill/HAL-9000-Piper-TTSText-to-Speech | UpdatedApr 13 | [Link](https://huggingface.co/campwill/HAL-9000-Piper-TTS) |
+| 3 | Unknown | tharindumihi/tts-si-F5-TTSText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/tharindumihi/tts-si-F5-TTS) |
 
 ## Text-to-Video
 
