@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-10-07
+Updated on 2025-10-08
 
 > Generated from the Hugging Face database.
 
@@ -16,6 +16,7 @@ Updated on 2025-10-07
 | 121k | 381 | deepseek-ai/Janus-Pro-1BAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-1B) |
 | Updatedabout 10 hours ago | 316 | wcy1122/MGM-Omni-TTS-2B-0927Any-to-Any | 2B | [Link](https://huggingface.co/wcy1122/MGM-Omni-TTS-2B-0927) |
 | 488 | 260 | gpt-omni/mini-omni2Any-to-Any | UpdatedOct 24, 2024 | [Link](https://huggingface.co/gpt-omni/mini-omni2) |
+| Updated7 days ago | 259 | cpatonn/Qwen3-Omni-30B-A3B-Captioner-AWQ-4bitAny-to-Any | 6B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Captioner-AWQ-4bit) |
 | Updated1 day ago | 254 | NexaAI/Qwen2 | 3B | [Link](https://huggingface.co/NexaAI/Qwen2.5-Omni-3B-GGUF) |
 | Updatedabout 7 hours ago | 253 | csuhan/Tar-1 | 3B | [Link](https://huggingface.co/csuhan/Tar-1.5B) |
 | Updatedabout 1 hour ago | 215 | XiaomiMiMo/MiMo-Audio-7B-BaseAny-to-Any | 8B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-Audio-7B-Base) |
@@ -1947,6 +1948,7 @@ Updated on 2025-10-07
 | Updatedabout 7 hours ago | 2.63k | nvidia/Eagle2 | 8B | [Link](https://huggingface.co/nvidia/Eagle2.5-8B) |
 | Updatedabout 7 hours ago | 2 | internlm/Intern-S1-FP8Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1-FP8) |
 | Updated1 day ago | 2.26k | Qwen/Qwen3-VL-235B-A22B-InstructImage-Text-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct) |
+| UpdatedApr 1 | 2.75k | huihui-ai/Qwen2 | 8B | [Link](https://huggingface.co/huihui-ai/Qwen2.5-VL-7B-Instruct-abliterated) |
 | 2.72k | 1.62k | microsoft/OmniParserImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/microsoft/OmniParser) |
 | 100k | 1.4k | stepfun-ai/GOT-OCR2_0Image-Text-to-Text | Updated21 days ago | [Link](https://huggingface.co/stepfun-ai/GOT-OCR2_0) |
 | 1.78M | 1.42k | microsoft/Florence-2-largeImage-Text-to-Text | UpdatedDec 8, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-large) |
@@ -2551,6 +2553,7 @@ Updated on 2025-10-07
 | UpdatedJun 17 | 2.19k | thesby/Qwen2 | 8B | [Link](https://huggingface.co/thesby/Qwen2.5-VL-7B-NSFW-Caption-V3) |
 | Updatedabout 9 hours ago | 2 | yasserrmd/SinaReason-Magistral-2509Image-to-Text | 24B | [Link](https://huggingface.co/yasserrmd/SinaReason-Magistral-2509) |
 | 63 | 2 | farbodpya/Persian-OCRImage-to-Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/farbodpya/Persian-OCR) |
+| UpdatedJun 26 | 2 | manifestasi/smolVLM-161M-q4-manifestasi-v2Image-to-Text | 0.2B | [Link](https://huggingface.co/manifestasi/smolVLM-161M-q4-manifestasi-v2) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -4198,6 +4201,7 @@ Updated on 2025-10-07
 | Updatedabout 11 hours ago | 58 | CohereLabs/command-a-reasoning-08-2025Text | 111B | [Link](https://huggingface.co/CohereLabs/command-a-reasoning-08-2025) |
 | 406 | 57 | LatitudeGames/Wayfarer-Large-70B-Llama-3 | Updated6 days ago | [Link](https://huggingface.co/LatitudeGames/Wayfarer-Large-70B-Llama-3.3) |
 | 46 | 57 | a-m-team/AM-Thinking-v1Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/a-m-team/AM-Thinking-v1) |
+| Updatedabout 5 hours ago | 57 | LiquidAI/LFM2-8B-A1BText | 8B | [Link](https://huggingface.co/LiquidAI/LFM2-8B-A1B) |
 | 143 | 55 | unsloth/DeepSeek-R1-0528-GGUFText | Updatedabout 1 hour ago | [Link](https://huggingface.co/unsloth/DeepSeek-R1-0528-GGUF) |
 | 7 | 55 | Qwen/Qwen3-Embedding-0 | Updatedabout 10 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B) |
 | Updatedabout 19 hours ago | 55 | PhysicsWallahAI/Aryabhata-1 | 8B | [Link](https://huggingface.co/PhysicsWallahAI/Aryabhata-1.0) |
@@ -4356,6 +4360,7 @@ Updated on 2025-10-07
 | 433 | 24 | dreamgen/lucid-v1-nemoText | Updatedabout 17 hours ago | [Link](https://huggingface.co/dreamgen/lucid-v1-nemo) |
 | 7 | 24 | Qwen/Qwen3-Embedding-4BText | Updatedabout 10 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-Embedding-4B) |
 | 11 | 24 | nvidia/AceReason-Nemotron-1 | Updatedabout 20 hours ago | [Link](https://huggingface.co/nvidia/AceReason-Nemotron-1.1-7B) |
+| Updatedabout 8 hours ago | 24 | LiquidAI/LFM2-8B-A1B-GGUFText | 8B | [Link](https://huggingface.co/LiquidAI/LFM2-8B-A1B-GGUF) |
 | 10.3k | 23 | unsloth/Phi-4-mini-instruct-GGUFText | Updated4 days ago | [Link](https://huggingface.co/unsloth/Phi-4-mini-instruct-GGUF) |
 | 26.8k | 23 | lmstudio-community/QwQ-32B-GGUFText | Updated1 day ago | [Link](https://huggingface.co/lmstudio-community/QwQ-32B-GGUF) |
 | 1.47k | 23 | NousResearch/DeepHermes-3-Llama-3-3B-PreviewText | Updated4 days ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-3B-Preview) |
@@ -5078,6 +5083,7 @@ Updated on 2025-10-07
 | 5 | Unknown | speach1sdef178/Project0_PJ0_Krea_v2_FP8_FP16Text-to-Image | Updated5 days ago | [Link](https://huggingface.co/speach1sdef178/Project0_PJ0_Krea_v2_FP8_FP16) |
 | 5 | Unknown | Phr00t/Qwen-Rapid-AIOText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/Phr00t/Qwen-Rapid-AIO) |
 | 18 | Unknown | Phr00t/Qwen-Image-Edit-Rapid-AIOText-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/Phr00t/Qwen-Image-Edit-Rapid-AIO) |
+| 11 | Unknown | bageldotcom/parisText-to-Image | Updatedabout 24 hours ago | [Link](https://huggingface.co/bageldotcom/paris) |
 
 ## Text-to-Speech
 
