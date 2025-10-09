@@ -2648,6 +2648,7 @@ Updated on 2025-10-09
 | 1 | Unknown | cpans/idcard_ocrImage-to-Text | UpdatedFeb 1, 2024 | [Link](https://huggingface.co/cpans/idcard_ocr) |
 | 3 | Unknown | anyforge/anyocrImage-to-Text | UpdatedMay 13 | [Link](https://huggingface.co/anyforge/anyocr) |
 | 2 | Unknown | lamco-development/granite-docling-258M-onnxImage-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/lamco-development/granite-docling-258M-onnx) |
+| 2 | Unknown | monkt/paddleocr-onnxImage-to-Text | Updated2 days ago | [Link](https://huggingface.co/monkt/paddleocr-onnx) |
 
 ## Image-to-Video
 
