@@ -1751,6 +1751,7 @@ Updated on 2025-10-09
 | 16.1k | 106 | bytedance-research/UI-TARS-72B-DPOImage-Text-to-Text | UpdatedJan 25 | [Link](https://huggingface.co/bytedance-research/UI-TARS-72B-DPO) |
 | 500 | 99 | meta-llama/Llama-4-Maverick-17B-128E-InstructImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct) |
 | 1.15k | 98 | ContactDoctor/Bio-Medical-MultiModal-Llama-3-8B-V1Image-Text-to-Text | UpdatedOct 17, 2024 | [Link](https://huggingface.co/ContactDoctor/Bio-Medical-MultiModal-Llama-3-8B-V1) |
+| Updatedabout 8 hours ago | 98.8k | Qwen/Qwen3-VL-30B-A3B-InstructImage-Text-to-Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Instruct) |
 | Updatedabout 4 hours ago | 96 | AIDC-AI/Ovis2 | 9B | [Link](https://huggingface.co/AIDC-AI/Ovis2.5-9B) |
 | Updated5 days ago | 96 | prithivMLmods/DeepCaption-VLA-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/prithivMLmods/DeepCaption-VLA-7B) |
 | 1.69k | 88 | google/gemma-3n-E4B-itImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/google/gemma-3n-E4B-it) |
@@ -1759,6 +1760,7 @@ Updated on 2025-10-09
 | 10.9k | 80 | ibm-granite/granite-vision-3 | Updatedabout 7 hours ago | [Link](https://huggingface.co/ibm-granite/granite-vision-3.1-2b-preview) |
 | Updated5 days ago | 73 | neovateai/UI-UG-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/neovateai/UI-UG-7B) |
 | 1.06k | 71 | AIDC-AI/Ovis2-16BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-16B) |
+| Updatedabout 8 hours ago | 71.1k | Qwen/Qwen3-VL-30B-A3B-Thinking-FP8Image-Text-to-Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Thinking-FP8) |
 | Updated5 days ago | 70 | smolagents/SmolVLM2-2 | 2B | [Link](https://huggingface.co/smolagents/SmolVLM2-2.2B-Instruct-Agentic-GUI) |
 | 89 | 69 | CohereForAI/aya-vision-8bImage-Text-to-Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/CohereForAI/aya-vision-8b) |
 | 174 | 68 | VIDraft/Gemma-3-R1984-27BImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/VIDraft/Gemma-3-R1984-27B) |
@@ -1848,6 +1850,7 @@ Updated on 2025-10-09
 | 14 | 15 | Sony/AKI-4B-phi-3 | Updated2 days ago | [Link](https://huggingface.co/Sony/AKI-4B-phi-3.5-mini) |
 | 1.82k | 15 | stepfun-ai/step3-fp8Image-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/stepfun-ai/step3-fp8) |
 | Updatedabout 7 hours ago | 15 | OpenGVLab/InternVL3_5-14BImage-Text-to-Text | 15B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-14B) |
+| Updatedabout 8 hours ago | 15.8k | Qwen/Qwen3-VL-30B-A3B-Instruct-FP8Image-Text-to-Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Instruct-FP8) |
 | 296 | 14 | Fancy-MLLM/R1-Onevision-7BImage-Text-to-Text | Updatedabout 12 hours ago | [Link](https://huggingface.co/Fancy-MLLM/R1-Onevision-7B) |
 | 80 | 14 | google/gemma-3-27b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-pt) |
 | 20 | 14 | lusxvr/nanoVLM-222MImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/lusxvr/nanoVLM-222M) |
@@ -1918,6 +1921,7 @@ Updated on 2025-10-09
 | Updatedabout 1 hour ago | 9 | XiaomiMiMo/MiMo-VL-7B-SFT-2508Image-Text-to-Text | 8B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-VL-7B-SFT-2508) |
 | Updatedabout 1 hour ago | 9 | XiaomiMiMo/MiMo-VL-7B-RL-2508Image-Text-to-Text | 8B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-VL-7B-RL-2508) |
 | Updated2 days ago | 9 | Kwai-Keye/Thyme-RLImage-Text-to-Text | 8B | [Link](https://huggingface.co/Kwai-Keye/Thyme-RL) |
+| Updatedabout 8 hours ago | 9.7k | Qwen/Qwen3-VL-235B-A22B-Instruct-FP8Image-Text-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct-FP8) |
 | 9.71k | 8 | lmstudio-community/gemma-3-27b-it-GGUFImage-Text-to-Text | Updatedabout 18 hours ago | [Link](https://huggingface.co/lmstudio-community/gemma-3-27b-it-GGUF) |
 | 2.95k | 8 | bartowski/google_gemma-3-4b-it-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF) |
 | 725 | 8 | Mungert/gemma-3-4b-it-ggufImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/Mungert/gemma-3-4b-it-gguf) |
@@ -1939,6 +1943,7 @@ Updated on 2025-10-09
 | 317 | 7 | numind/NuExtract-2 | Updated6 days ago | [Link](https://huggingface.co/numind/NuExtract-2.0-2B) |
 | 338 | 7 | allenai/olmOCR-7B-0225-preview-FP8Image-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview-FP8) |
 | 160 | 6 | MIL-UT/Asagi-14BImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/MIL-UT/Asagi-14B) |
+| Updatedabout 8 hours ago | 6.26k | Qwen/Qwen3-VL-30B-A3B-ThinkingImage-Text-to-Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Thinking) |
 | 168 | 5 | MBZUAI/AINImage-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/MBZUAI/AIN) |
 | Updatedabout 9 hours ago | 5 | Skywork/Skywork-R1V3-38BImage-Text-to-Text | 38B | [Link](https://huggingface.co/Skywork/Skywork-R1V3-38B) |
 | Updatedabout 7 hours ago | 5 | internlm/Intern-S1Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1) |
@@ -1957,6 +1962,7 @@ Updated on 2025-10-09
 | Updated1 day ago | 1.38k | bartowski/mistralai_Devstral-Small-2507-GGUFImage-Text-to-Text | 24B | [Link](https://huggingface.co/bartowski/mistralai_Devstral-Small-2507-GGUF) |
 | Updated1 day ago | 1.19k | huihui-ai/Huihui-MiniCPM-V-4_5-abliteratedImage-Text-to-Text | 9B | [Link](https://huggingface.co/huihui-ai/Huihui-MiniCPM-V-4_5-abliterated) |
 | Updated3 days ago | 1 | baidu/Qianfan-VL-70BImage-Text-to-Text | 72B | [Link](https://huggingface.co/baidu/Qianfan-VL-70B) |
+| Updatedabout 8 hours ago | 1.99k | Qwen/Qwen3-VL-235B-A22B-Thinking-FP8Image-Text-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Thinking-FP8) |
 | 1.07M |  | meta-llama/Llama-3 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) |
 | 1.49M |  | Qwen/Qwen2-VL-7B-InstructImage-Text-to-Text | Updated19 days ago | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) |
 | 288k |  | microsoft/Phi-3 | UpdatedSep 26, 2024 | [Link](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) |
@@ -2361,6 +2367,7 @@ Updated on 2025-10-09
 | 3 | Unknown | kpsss34/LucyEdit_hybridImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/kpsss34/LucyEdit_hybrid) |
 | 18 | Unknown | W2GenAI/LucidFluxImage-to-Image | Updated37 minutes ago | [Link](https://huggingface.co/W2GenAI/LucidFlux) |
 | 98 |  | ovi054/virtual-tryon-kontext-loraImage-to-Image | Updated13 days ago | [Link](https://huggingface.co/ovi054/virtual-tryon-kontext-lora) |
+| 11 | Unknown | lovis93/next-scene-qwen-image-lora-2509Image-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/lovis93/next-scene-qwen-image-lora-2509) |
 
 ## Image-to-Text
 
@@ -4436,6 +4443,7 @@ Updated on 2025-10-09
 | 89 | 16 | ytu-ce-cosmos/Turkish-Gemma-9b-v0 | Updated5 days ago | [Link](https://huggingface.co/ytu-ce-cosmos/Turkish-Gemma-9b-v0.1) |
 | 504 | 16 | openbmb/MiniCPM4-MCPText | Updatedabout 11 hours ago | [Link](https://huggingface.co/openbmb/MiniCPM4-MCP) |
 | 2.7k | 16 | Menlo/Jan-nano-ggufText | Updatedabout 19 hours ago | [Link](https://huggingface.co/Menlo/Jan-nano-gguf) |
+| Updatedabout 22 hours ago | 16k | QuantTrio/Qwen3-VL-30B-A3B-Instruct-AWQText | 31B | [Link](https://huggingface.co/QuantTrio/Qwen3-VL-30B-A3B-Instruct-AWQ) |
 | 60 | 15 | Zhihu-ai/Zhi-writing-dsr1-14bText | Updated3 days ago | [Link](https://huggingface.co/Zhihu-ai/Zhi-writing-dsr1-14b) |
 | 72 | 15 | DMindAI/DMind-1Text | Updatedabout 23 hours ago | [Link](https://huggingface.co/DMindAI/DMind-1) |
 | 23 | 15 | sarvamai/sarvam-mText | Updatedabout 2 hours ago | [Link](https://huggingface.co/sarvamai/sarvam-m) |
