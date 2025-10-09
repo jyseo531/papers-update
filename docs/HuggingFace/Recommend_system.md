@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-10-08
+Updated on 2025-10-09
 
 > Generated from the Hugging Face database.
 
@@ -2360,6 +2360,7 @@ Updated on 2025-10-08
 | 56 |  | ovi054/extract-clothes-kontext-dev-loraImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/ovi054/extract-clothes-kontext-dev-lora) |
 | 3 | Unknown | kpsss34/LucyEdit_hybridImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/kpsss34/LucyEdit_hybrid) |
 | 18 | Unknown | W2GenAI/LucidFluxImage-to-Image | Updated37 minutes ago | [Link](https://huggingface.co/W2GenAI/LucidFlux) |
+| 98 |  | ovi054/virtual-tryon-kontext-loraImage-to-Image | Updated13 days ago | [Link](https://huggingface.co/ovi054/virtual-tryon-kontext-lora) |
 
 ## Image-to-Text
 
@@ -4243,6 +4244,7 @@ Updated on 2025-10-08
 | 3 | 40 | MiniMaxAI/MiniMax-M1-40kText | Updatedabout 10 hours ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M1-40k) |
 | Updated2 days ago | 40 | Tesslate/UIGEN-X-8BText | 8B | [Link](https://huggingface.co/Tesslate/UIGEN-X-8B) |
 | Updatedabout 3 hours ago | 40 | MachineLearningLM/MachineLearningLM-7B-v1Text | 8B | [Link](https://huggingface.co/MachineLearningLM/MachineLearningLM-7B-v1) |
+| Updatedabout 13 hours ago | 40 | ai21labs/AI21-Jamba-Reasoning-3BText | 3B | [Link](https://huggingface.co/ai21labs/AI21-Jamba-Reasoning-3B) |
 | 4 | 39 | Qwen/Qwen3-14BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-14B) |
 | 227 | 38 | LGAI-EXAONE/EXAONE-Deep-7 | Updated4 minutes ago | [Link](https://huggingface.co/LGAI-EXAONE/EXAONE-Deep-7.8B) |
 | 9.86k | 38 | starvector/starvector-1b-im2svgText | Updated2 days ago | [Link](https://huggingface.co/starvector/starvector-1b-im2svg) |
@@ -4494,6 +4496,7 @@ Updated on 2025-10-08
 | Updatedabout 8 hours ago | 1 | apple/FastVLM-0 | 0.8B | [Link](https://huggingface.co/apple/FastVLM-0.5B) |
 | Updatedabout 3 hours ago | 1.35k | NousResearch/Hermes-4-14BText | 0.0B | [Link](https://huggingface.co/NousResearch/Hermes-4-14B) |
 | Updated3 days ago | 1.8k | Manojb/Qwen3-4B-toolcalling-gguf-codexText | 4B | [Link](https://huggingface.co/Manojb/Qwen3-4B-toolcalling-gguf-codex) |
+| Updatedabout 11 hours ago | 1 | inclusionAI/Ling-1TText | 1000B | [Link](https://huggingface.co/inclusionAI/Ling-1T) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -5096,6 +5099,7 @@ Updated on 2025-10-08
 | 1.16k | 785 | metavoiceio/metavoice-1B-v0 | UpdatedApr 3, 2024 | [Link](https://huggingface.co/metavoiceio/metavoice-1B-v0.1) |
 | UpdatedSep 1, 2023 | 775 | facebook/mms-tts-telText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-tel) |
 | 155k | 733 | microsoft/speecht5_ttsText-to-Speech | UpdatedNov 8, 2023 | [Link](https://huggingface.co/microsoft/speecht5_tts) |
+| Updatedabout 4 hours ago | 695 | nineninesix/kani-tts-370m-MLXText-to-Speech | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-370m-MLX) |
 | Updated9 days ago | 679 | snorbyte/snorTTS-Indic-v0Text-to-Speech | 4B | [Link](https://huggingface.co/snorbyte/snorTTS-Indic-v0) |
 | Updatedabout 9 hours ago | 515 | bosonai/higgs-audio-v2-generation-3B-baseText-to-Speech | 6B | [Link](https://huggingface.co/bosonai/higgs-audio-v2-generation-3B-base) |
 | 11.8k | 480 | fishaudio/fish-speech-1 | UpdatedDec 3, 2024 | [Link](https://huggingface.co/fishaudio/fish-speech-1.5) |
