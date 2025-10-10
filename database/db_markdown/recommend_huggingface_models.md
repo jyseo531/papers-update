@@ -2369,6 +2369,7 @@ Updated on 2025-10-10
 | 98 |  | ovi054/virtual-tryon-kontext-loraImage-to-Image | Updated13 days ago | [Link](https://huggingface.co/ovi054/virtual-tryon-kontext-lora) |
 | 11 | Unknown | lovis93/next-scene-qwen-image-lora-2509Image-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/lovis93/next-scene-qwen-image-lora-2509) |
 | 126 |  | prithivMLmods/Outfit-Cut-SpecifiedImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/prithivMLmods/Outfit-Cut-Specified) |
+| 4 | Unknown | OPPOer/Qwen-Image-Edit-2509-PruningImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/OPPOer/Qwen-Image-Edit-2509-Pruning) |
 
 ## Image-to-Text
 
@@ -4127,6 +4128,7 @@ Updated on 2025-10-10
 | Updatedabout 2 hours ago | 255 | agentica-org/DeepSWE-PreviewText | 33B | [Link](https://huggingface.co/agentica-org/DeepSWE-Preview) |
 | UpdatedApr 22 | 246 | inclusionAI/Ling-Coder-liteText | 17B | [Link](https://huggingface.co/inclusionAI/Ling-Coder-lite) |
 | Updated5 days ago | 244 | jet-ai/Jet-Nemotron-4BText | 4B | [Link](https://huggingface.co/jet-ai/Jet-Nemotron-4B) |
+| Updatedabout 20 hours ago | 234 | radicalnumerics/RND1-Base-0910Text | 31B | [Link](https://huggingface.co/radicalnumerics/RND1-Base-0910) |
 | Updatedabout 10 hours ago | 232 | inclusionAI/Ling-mini-2 | 16B | [Link](https://huggingface.co/inclusionAI/Ling-mini-2.0) |
 | Updatedabout 18 hours ago | 217 | google/gemma-3-270mText | 0.3B | [Link](https://huggingface.co/google/gemma-3-270m) |
 | 2.13k | 215 | XiaomiMiMo/MiMo-7B-RLText | Updatedabout 12 hours ago | [Link](https://huggingface.co/XiaomiMiMo/MiMo-7B-RL) |
@@ -4346,6 +4348,7 @@ Updated on 2025-10-10
 | Updatedabout 9 hours ago | 26 | ByteDance-Seed/Seed-OSS-36B-Base-woSynText | 36B | [Link](https://huggingface.co/ByteDance-Seed/Seed-OSS-36B-Base-woSyn) |
 | Updated4 days ago | 26.3k | unsloth/Seed-OSS-36B-Instruct-GGUFText | 36B | [Link](https://huggingface.co/unsloth/Seed-OSS-36B-Instruct-GGUF) |
 | Updatedabout 5 hours ago | 26.7k | TildeAI/TildeOpen-30bText | 31B | [Link](https://huggingface.co/TildeAI/TildeOpen-30b) |
+| Updated14 days ago | 26 | vngrs-ai/Kumru-2BText | 2B | [Link](https://huggingface.co/vngrs-ai/Kumru-2B) |
 | 513 | 25 | CohereForAI/c4ai-command-r7b-arabic-02-2025Text | Updated2 days ago | [Link](https://huggingface.co/CohereForAI/c4ai-command-r7b-arabic-02-2025) |
 | 3.12k | 25 | ibm-granite/granite-3 | Updated9 days ago | [Link](https://huggingface.co/ibm-granite/granite-3.2-8b-instruct) |
 | 568 | 25 | GSAI-ML/LLaDA-8B-BaseText | Updated3 days ago | [Link](https://huggingface.co/GSAI-ML/LLaDA-8B-Base) |
