@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-10-09
+Updated on 2025-10-10
 
 > Generated from the Hugging Face database.
 
@@ -2368,6 +2368,7 @@ Updated on 2025-10-09
 | 18 | Unknown | W2GenAI/LucidFluxImage-to-Image | Updated37 minutes ago | [Link](https://huggingface.co/W2GenAI/LucidFlux) |
 | 98 |  | ovi054/virtual-tryon-kontext-loraImage-to-Image | Updated13 days ago | [Link](https://huggingface.co/ovi054/virtual-tryon-kontext-lora) |
 | 11 | Unknown | lovis93/next-scene-qwen-image-lora-2509Image-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/lovis93/next-scene-qwen-image-lora-2509) |
+| 126 |  | prithivMLmods/Outfit-Cut-SpecifiedImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/prithivMLmods/Outfit-Cut-Specified) |
 
 ## Image-to-Text
 
@@ -4333,6 +4334,7 @@ Updated on 2025-10-09
 | 383 | 27 | mlabonne/Qwen3-14B-abliteratedText | Updated1 day ago | [Link](https://huggingface.co/mlabonne/Qwen3-14B-abliterated) |
 | 19 | 27 | Qwen/Qwen3-Reranker-0 | Updatedabout 10 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-Reranker-0.6B) |
 | 54 | 27 | openbmb/MiniCPM4-8BText | Updatedabout 3 hours ago | [Link](https://huggingface.co/openbmb/MiniCPM4-8B) |
+| Updatedabout 4 hours ago | 27 | microsoft/UserLM-8bText | 8B | [Link](https://huggingface.co/microsoft/UserLM-8b) |
 | 7.18k | 26 | bartowski/RekaAI_reka-flash-3-GGUFText | Updated2 days ago | [Link](https://huggingface.co/bartowski/RekaAI_reka-flash-3-GGUF) |
 | 499 | 26 | mixedbread-ai/mxbai-rerank-large-v2Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/mixedbread-ai/mxbai-rerank-large-v2) |
 | 1 | 26 | openfree/QwQ-32B-Q8_0-GGUFText | Updatedabout 7 hours ago | [Link](https://huggingface.co/openfree/QwQ-32B-Q8_0-GGUF) |
