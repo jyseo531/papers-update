@@ -4496,6 +4496,7 @@ Updated on 2025-10-11
 | Updatedabout 4 hours ago | 3.61k | openai/gpt-oss-120bText | 63B | [Link](https://huggingface.co/openai/gpt-oss-120b) |
 | Updated25 days ago | 3.38k | dphn/Dolphin-Mistral-24B-Venice-EditionText | 24B | [Link](https://huggingface.co/dphn/Dolphin-Mistral-24B-Venice-Edition) |
 | Updated5 days ago | 3.98k | meituan-longcat/LongCat-Flash-Chat-FP8Text | 562B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Chat-FP8) |
+| Updated3 days ago | 3.63k | unsloth/LFM2-8B-A1B-GGUFText | 8B | [Link](https://huggingface.co/unsloth/LFM2-8B-A1B-GGUF) |
 | Updated6 days ago | 2.04k | marcelbinz/Llama-3 | 71B | [Link](https://huggingface.co/marcelbinz/Llama-3.1-Centaur-70B) |
 | Updatedabout 2 hours ago | 2.66k | unsloth/Qwen3-235B-A22B-Instruct-2507-GGUFText | 235B | [Link](https://huggingface.co/unsloth/Qwen3-235B-A22B-Instruct-2507-GGUF) |
 | Updatedabout 10 hours ago | 2 | Qwen/Qwen3-30B-A3B-Thinking-2507Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507) |
@@ -4952,6 +4953,7 @@ Updated on 2025-10-11
 | 2 | 2.77k | CompVis/stable-diffusion-v-1-4-originalText-to-Image | UpdatedNov 9, 2022 | [Link](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original) |
 | 5.16k | 2.44k | hakurei/waifu-diffusionText-to-Image | UpdatedJul 5, 2023 | [Link](https://huggingface.co/hakurei/waifu-diffusion) |
 | Updated8 days ago | 2.03k | StableDiffusionVN/FluxText-to-Image | 5B | [Link](https://huggingface.co/StableDiffusionVN/Flux) |
+| UpdatedApr 24 | 2.38k | calcuis/illustriousText-to-Image | 3B | [Link](https://huggingface.co/calcuis/illustrious) |
 | 90.4k | 1.31k | xinsir/controlnet-union-sdxl-1 | UpdatedJul 30, 2024 | [Link](https://huggingface.co/xinsir/controlnet-union-sdxl-1.0) |
 | 387k | 1.66k | h94/IP-Adapter-FaceIDText-to-Image | UpdatedApr 16, 2024 | [Link](https://huggingface.co/h94/IP-Adapter-FaceID) |
 | Updated6 days ago | 1.58k | QuantStack/Chroma1-HD-GGUFText-to-Image | 9B | [Link](https://huggingface.co/QuantStack/Chroma1-HD-GGUF) |
