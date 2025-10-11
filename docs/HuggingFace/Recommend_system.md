@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-10-10
+Updated on 2025-10-11
 
 > Generated from the Hugging Face database.
 
@@ -2235,6 +2235,7 @@ Updated on 2025-10-10
 | 7 | 2 | imaginairy/idm-vton-safetensorsImage-to-Image | UpdatedApr 28, 2024 | [Link](https://huggingface.co/imaginairy/idm-vton-safetensors) |
 | 201 | 2 | egorchistov/optical-flow-MEMFOF-Tartan-T-TSKHImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/egorchistov/optical-flow-MEMFOF-Tartan-T-TSKH) |
 | 231 | 2 | kontext-community/relighting-kontext-dev-loraImage-to-Image | Updated5 days ago | [Link](https://huggingface.co/kontext-community/relighting-kontext-dev-lora) |
+| 27 | 2 | lrzjason/qwen_image_edit_plus_nf4Image-to-Image | Updated18 days ago | [Link](https://huggingface.co/lrzjason/qwen_image_edit_plus_nf4) |
 | 12 | 1 | Jorgvt/CycleGAN_GTA_REALImage-to-Image | UpdatedJul 11, 2024 | [Link](https://huggingface.co/Jorgvt/CycleGAN_GTA_REAL) |
 | 41 | 1 | Estabousi/MIPHEI-vitImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/Estabousi/MIPHEI-vit) |
 | 1.54M |  | stabilityai/stable-diffusion-xl-refiner-1 | UpdatedSep 25, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0) |
@@ -2596,6 +2597,7 @@ Updated on 2025-10-10
 | 10 | 1 | mrm8488/ViT2GPT-2-esImage-to-Text | UpdatedFeb 25, 2022 | [Link](https://huggingface.co/mrm8488/ViT2GPT-2-es) |
 | UpdatedMay 25 | 1.63k | unsloth/Cosmos-Reason1-7B-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/unsloth/Cosmos-Reason1-7B-GGUF) |
 | UpdatedJun 12, 2024 | 1.05k | tiiuae/falcon-11B-vlmImage-to-Text | 11B | [Link](https://huggingface.co/tiiuae/falcon-11B-vlm) |
+| UpdatedJul 19, 2024 | 1 | mirceatlx/openvla-ft-lora-02-fp16Image-to-Text | 8B | [Link](https://huggingface.co/mirceatlx/openvla-ft-lora-02-fp16) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -4120,6 +4122,7 @@ Updated on 2025-10-10
 | Updatedabout 6 hours ago | 351 | K-intelligence/Midm-2 | 12B | [Link](https://huggingface.co/K-intelligence/Midm-2.0-Base-Instruct) |
 |  | 339 | deepseek-ai/DeepSeek-Prover-V2-671BText | Updatedabout 1 hour ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-Prover-V2-671B) |
 | Updatedabout 9 hours ago | 329 | Kwaipilot/KAT-DevText | 33B | [Link](https://huggingface.co/Kwaipilot/KAT-Dev) |
+| Updatedabout 4 hours ago | 329 | FractalAIResearch/Fathom-Search-4BText | 4B | [Link](https://huggingface.co/FractalAIResearch/Fathom-Search-4B) |
 | Updated3 days ago | 327 | nvidia/OpenReasoning-Nemotron-1 | 2B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-1.5B) |
 | Updated3 days ago | 321 | Jinx-org/Jinx-gpt-oss-20bText | 21B | [Link](https://huggingface.co/Jinx-org/Jinx-gpt-oss-20b) |
 |  | 295 | deepseek-ai/DeepSeek-R1-0528-Qwen3-8BText | Updatedabout 13 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B) |
