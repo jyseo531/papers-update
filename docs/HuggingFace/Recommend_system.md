@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-10-11
+Updated on 2025-10-12
 
 > Generated from the Hugging Face database.
 
@@ -1767,6 +1767,7 @@ Updated on 2025-10-11
 | 275 | 66 | microsoft/Magma-8BImage-Text-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/microsoft/Magma-8B) |
 | Updatedabout 13 hours ago | 66 | openbmb/MiniCPM-V-4Image-Text-to-Text | 4B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4) |
 | 1.47k | 64 | AIDC-AI/Ovis2-1BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-1B) |
+| Updatedabout 17 hours ago | 64 | prithivMLmods/DeepCaption-VLA-V2 | 8B | [Link](https://huggingface.co/prithivMLmods/DeepCaption-VLA-V2.0-7B) |
 | 1.64k | 62 | google/gemma-3-4b-itImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-4b-it) |
 | 69 | 61 | google/gemma-3-12b-itImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-12b-it) |
 | 3.25k | 61 | meta-llama/Llama-4-Scout-17B-16EImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E) |
