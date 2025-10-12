@@ -2654,6 +2654,7 @@ Updated on 2025-10-12
 | 3 | Unknown | anyforge/anyocrImage-to-Text | UpdatedMay 13 | [Link](https://huggingface.co/anyforge/anyocr) |
 | 2 | Unknown | lamco-development/granite-docling-258M-onnxImage-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/lamco-development/granite-docling-258M-onnx) |
 | 2 | Unknown | monkt/paddleocr-onnxImage-to-Text | Updated2 days ago | [Link](https://huggingface.co/monkt/paddleocr-onnx) |
+| 3 | Unknown | pitapo/suryaImage-to-Text | UpdatedAug 3 | [Link](https://huggingface.co/pitapo/surya) |
 
 ## Image-to-Video
 
@@ -5275,6 +5276,7 @@ Updated on 2025-10-12
 | Updatedabout 17 hours ago | 3 | rsxdalv/VibeVoice-LargeText-to-Speech | 9B | [Link](https://huggingface.co/rsxdalv/VibeVoice-Large) |
 | Updatedabout 2 hours ago | 3 | nineninesix/kani-tts-450m-0 | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-450m-0.2-ft) |
 | 98 | 3 | herimor/voxtreamText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/herimor/voxtream) |
+| Updated2 days ago | 3 | Cseti/VibeVoice_7B_hun_v2Text-to-Speech | 9B | [Link](https://huggingface.co/Cseti/VibeVoice_7B_hun_v2) |
 | 2.36M | 2.41k | coqui/XTTS-v2Text-to-Speech | UpdatedDec 11, 2023 | [Link](https://huggingface.co/coqui/XTTS-v2) |
 | 153 | 2 | mmwillet2/Dia_GGUFText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/mmwillet2/Dia_GGUF) |
 | 55 | 2 | unsloth/Spark-TTS-0 | Updated2 days ago | [Link](https://huggingface.co/unsloth/Spark-TTS-0.5B) |
@@ -5457,6 +5459,7 @@ Updated on 2025-10-12
 | 43 | 2 | DFloat11/Wan2 | Updated1 day ago | [Link](https://huggingface.co/DFloat11/Wan2.2-T2V-A14B-2-DF11) |
 | 14 | 2 | valiantcat/one_finger_wan21_t2v_loraText-to-Video | Updated11 days ago | [Link](https://huggingface.co/valiantcat/one_finger_wan21_t2v_lora) |
 | 36.6k | 2 | wlsaidhi/SFWan2 | Updated22 days ago | [Link](https://huggingface.co/wlsaidhi/SFWan2.1-T2V-1.3B-Diffusers) |
+|  | 2 | akhaliq/sora-2Text-to-Video | Updated3 days ago | [Link](https://huggingface.co/akhaliq/sora-2) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
