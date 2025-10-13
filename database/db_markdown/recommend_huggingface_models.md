@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-10-12
+Updated on 2025-10-13
 
 > Generated from the Hugging Face database.
 
@@ -160,6 +160,7 @@ Updated on 2025-10-12
 | 4 | Unknown | HiDream-ai/VAREditAny-to-Any | Updatedabout 11 hours ago | [Link](https://huggingface.co/HiDream-ai/VAREdit) |
 | 1 | Unknown | sovthpaw/senter-omni-modelAny-to-Any | Updatedabout 4 hours ago | [Link](https://huggingface.co/sovthpaw/senter-omni-model) |
 | 1 | Unknown | keisoft/omega-meta-llama-3-8B-v02Any-to-Any | UpdatedAug 7, 2024 | [Link](https://huggingface.co/keisoft/omega-meta-llama-3-8B-v02) |
+| 2 | Unknown | PIOTRsus123/BUMCYKCYKAny-to-Any | UpdatedOct 21, 2024 | [Link](https://huggingface.co/PIOTRsus123/BUMCYKCYK) |
 
 ## Audio Classification
 
@@ -4505,6 +4506,7 @@ Updated on 2025-10-12
 | Updatedabout 6 hours ago | 2.73k | unsloth/gpt-oss-20bText | 22B | [Link](https://huggingface.co/unsloth/gpt-oss-20b) |
 | 314 | 2.36k | xai-org/grok-1Text | UpdatedMar 28, 2024 | [Link](https://huggingface.co/xai-org/grok-1) |
 | Updatedabout 11 hours ago | 2 | LiquidAI/LFM2-2 | 3B | [Link](https://huggingface.co/LiquidAI/LFM2-2.6B) |
+| Updatedabout 17 hours ago | 2.21k | ai21labs/AI21-Jamba-Reasoning-3B-GGUFText | 3B | [Link](https://huggingface.co/ai21labs/AI21-Jamba-Reasoning-3B-GGUF) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
 | Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
@@ -5539,6 +5541,7 @@ Updated on 2025-10-12
 | 2 | Unknown | htdong/Wan-Alpha_ComfyUIText-to-Video | Updatedabout 11 hours ago | [Link](https://huggingface.co/htdong/Wan-Alpha_ComfyUI) |
 | 6 | Unknown | htdong/Wan-AlphaText-to-Video | Updatedabout 9 hours ago | [Link](https://huggingface.co/htdong/Wan-Alpha) |
 | 4 | Unknown | phazei/phazei-SkyReels-V2-fp8-e5m2Text-to-Video | UpdatedMay 25 | [Link](https://huggingface.co/phazei/phazei-SkyReels-V2-fp8-e5m2) |
+| 2 | Unknown | yaleiyaleichiling/Anime-AlchemistText-to-Video | Updated2 days ago | [Link](https://huggingface.co/yaleiyaleichiling/Anime-Alchemist) |
 
 ## Text2Text Generation
 
