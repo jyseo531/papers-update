@@ -2451,6 +2451,7 @@ Updated on 2025-10-13
 | Updated5 days ago | 19 | OfficerChul/Qwen2 | 8B | [Link](https://huggingface.co/OfficerChul/Qwen2.5-VL-7B-Instruct-Android-Control-5a) |
 | 433 | 17 | kpyu/video-blip-opt-2 | UpdatedMay 17, 2023 | [Link](https://huggingface.co/kpyu/video-blip-opt-2.7b-ego4d) |
 | Updated15 days ago | 17.2k | scb10x/typhoon-ocr-7bImage-to-Text | 8B | [Link](https://huggingface.co/scb10x/typhoon-ocr-7b) |
+| UpdatedMar 24, 2024 | 17 | Cdywalst/donut-base-handwriting_recognitionImage-to-Text | 0.2B | [Link](https://huggingface.co/Cdywalst/donut-base-handwriting_recognition) |
 | 207 | 16 | bipin/image-caption-generatorImage-to-Text | UpdatedJul 27, 2024 | [Link](https://huggingface.co/bipin/image-caption-generator) |
 | UpdatedSep 20, 2024 | 16 | xeko56/simple-html-generator-tokensImage-to-Text | 0.2B | [Link](https://huggingface.co/xeko56/simple-html-generator-tokens) |
 | UpdatedOct 31, 2024 | 16.1k | royokong/e5-vImage-to-Text | 8B | [Link](https://huggingface.co/royokong/e5-v) |
@@ -4169,6 +4170,7 @@ Updated on 2025-10-13
 | 176 | 109 | nvidia/DeepSeek-R1-FP4Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/nvidia/DeepSeek-R1-FP4) |
 | 3 | 107 | MiniMaxAI/MiniMax-M1-80kText | Updatedabout 10 hours ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M1-80k) |
 | UpdatedMay 26 | 105k | mistralai/Devstral-Small-2505Text | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2505) |
+| Updatedabout 3 hours ago | 105 | KORMo-Team/KORMo-10B-sftText | 11B | [Link](https://huggingface.co/KORMo-Team/KORMo-10B-sft) |
 | 683 | 104 | Tongyi-Zhiwen/QwenLong-L1-32BText | Updatedabout 5 hours ago | [Link](https://huggingface.co/Tongyi-Zhiwen/QwenLong-L1-32B) |
 | 1.55k | 102 | Tesslate/UIGEN-T2-7B-Q8_0-GGUFText | Updatedabout 10 hours ago | [Link](https://huggingface.co/Tesslate/UIGEN-T2-7B-Q8_0-GGUF) |
 | 1.24k | 101 | nvidia/Nemotron-Research-Reasoning-Qwen-1 | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/Nemotron-Research-Reasoning-Qwen-1.5B) |
@@ -4519,6 +4521,7 @@ Updated on 2025-10-13
 | Updatedabout 3 hours ago | 1.35k | NousResearch/Hermes-4-14BText | 0.0B | [Link](https://huggingface.co/NousResearch/Hermes-4-14B) |
 | Updated3 days ago | 1.8k | Manojb/Qwen3-4B-toolcalling-gguf-codexText | 4B | [Link](https://huggingface.co/Manojb/Qwen3-4B-toolcalling-gguf-codex) |
 | Updatedabout 11 hours ago | 1 | inclusionAI/Ling-1TText | 1000B | [Link](https://huggingface.co/inclusionAI/Ling-1T) |
+| Updatedabout 5 hours ago | 1.52k | Kwaipilot/KAT-Dev-72B-ExpText | 73B | [Link](https://huggingface.co/Kwaipilot/KAT-Dev-72B-Exp) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -5112,6 +5115,7 @@ Updated on 2025-10-13
 | 5 | Unknown | Phr00t/Qwen-Rapid-AIOText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/Phr00t/Qwen-Rapid-AIO) |
 | 18 | Unknown | Phr00t/Qwen-Image-Edit-Rapid-AIOText-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/Phr00t/Qwen-Image-Edit-Rapid-AIO) |
 | 11 | Unknown | bageldotcom/parisText-to-Image | Updatedabout 24 hours ago | [Link](https://huggingface.co/bageldotcom/paris) |
+| 4 | Unknown | Danrisi/Lenovo_UltraReal_ChromaText-to-Image | Updated3 days ago | [Link](https://huggingface.co/Danrisi/Lenovo_UltraReal_Chroma) |
 
 ## Text-to-Speech
 
