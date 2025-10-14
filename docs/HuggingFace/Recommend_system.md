@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-10-13
+Updated on 2025-10-14
 
 > Generated from the Hugging Face database.
 
@@ -21,6 +21,7 @@ Updated on 2025-10-13
 | Updatedabout 7 hours ago | 253 | csuhan/Tar-1 | 3B | [Link](https://huggingface.co/csuhan/Tar-1.5B) |
 | Updatedabout 1 hour ago | 215 | XiaomiMiMo/MiMo-Audio-7B-BaseAny-to-Any | 8B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-Audio-7B-Base) |
 | Updatedabout 3 hours ago | 215 | inclusionAI/Ming-UniAudio-16B-A3BAny-to-Any | 18B | [Link](https://huggingface.co/inclusionAI/Ming-UniAudio-16B-A3B) |
+| Updated4 days ago | 212 | PaDT-MLLM/PaDT_Pro_3BAny-to-Any | 4B | [Link](https://huggingface.co/PaDT-MLLM/PaDT_Pro_3B) |
 | 1.68k | 208 | BAAI/Emu3-GenAny-to-Any | UpdatedOct 23, 2024 | [Link](https://huggingface.co/BAAI/Emu3-Gen) |
 | 455 | 149 | NexaAI/OmniNeural-4BAny-to-Any | Updated4 days ago | [Link](https://huggingface.co/NexaAI/OmniNeural-4B) |
 | 9.96k | 141 | deepseek-ai/JanusFlow-1 | Updated29 days ago | [Link](https://huggingface.co/deepseek-ai/JanusFlow-1.3B) |
@@ -34,6 +35,7 @@ Updated on 2025-10-13
 | Updatedabout 6 hours ago | 37 | inclusionAI/Ming-UniVision-16B-A3BAny-to-Any | 19B | [Link](https://huggingface.co/inclusionAI/Ming-UniVision-16B-A3B) |
 | 94 | 34 | EPFL-VILAB/4M-21_XLAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-21_XL) |
 | Updated14 days ago | 29 | multimodal-reasoning-lab/Anole-Zebra-CoTAny-to-Any | 7B | [Link](https://huggingface.co/multimodal-reasoning-lab/Anole-Zebra-CoT) |
+| Updated4 days ago | 29 | PaDT-MLLM/PaDT_Pro_7BAny-to-Any | 8B | [Link](https://huggingface.co/PaDT-MLLM/PaDT_Pro_7B) |
 | Updatedabout 2 hours ago | 24 | inclusionAI/Ming-Lite-Omni-1 | 19B | [Link](https://huggingface.co/inclusionAI/Ming-Lite-Omni-1.5) |
 | 2.09k | 22 | THUdyh/Ola-7bAny-to-Any | Updated6 days ago | [Link](https://huggingface.co/THUdyh/Ola-7b) |
 | 3.1k | 22 | Alpha-VLLM/Lumina-mGPT-7B-768Any-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-768) |
@@ -1783,6 +1785,7 @@ Updated on 2025-10-13
 | Updatedabout 5 hours ago | 53 | prithivMLmods/Gliese-OCR-7B-Post1 | 8B | [Link](https://huggingface.co/prithivMLmods/Gliese-OCR-7B-Post1.0) |
 | Updated2 days ago | 52 | inference-net/ClipTagger-12bImage-Text-to-Text | 12B | [Link](https://huggingface.co/inference-net/ClipTagger-12b) |
 | 1.27k | 51 | AIDC-AI/Ovis2-8BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-8B) |
+| Updatedabout 10 hours ago | 49 | nanonets/Nanonets-OCR2-3BImage-Text-to-Text | 4B | [Link](https://huggingface.co/nanonets/Nanonets-OCR2-3B) |
 | 848 | 47 | AIDC-AI/Ovis2-2BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-2B) |
 | 79.7k | 47 | Qwen/Qwen2-VL-7BImage-Text-to-Text | UpdatedJan 12 | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B) |
 | 8 | 46 | CohereForAI/aya-vision-32bImage-Text-to-Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/CohereForAI/aya-vision-32b) |
@@ -1841,6 +1844,7 @@ Updated on 2025-10-13
 | 2 | 20 | nvidia/DAM-3B-VideoImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/DAM-3B-Video) |
 | 3.71k | 19 | google/paligemma2-10b-mix-448Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-10b-mix-448) |
 | Updated3 days ago | 19 | OpenGVLab/Docopilot-2BImage-Text-to-Text | 2B | [Link](https://huggingface.co/OpenGVLab/Docopilot-2B) |
+| Updatedabout 10 hours ago | 19 | nanonets/Nanonets-OCR2-1 | 2B | [Link](https://huggingface.co/nanonets/Nanonets-OCR2-1.5B-exp) |
 | 9 | 18 | nvidia/DAM-3BImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/DAM-3B) |
 | 1.49k | 17 | google/paligemma2-3b-mix-224Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-3b-mix-224) |
 | 247 | 17 | ds4sd/SmolDocling-256M-previewImage-Text-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/ds4sd/SmolDocling-256M-preview) |
@@ -2373,6 +2377,7 @@ Updated on 2025-10-13
 | 11 | Unknown | lovis93/next-scene-qwen-image-lora-2509Image-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/lovis93/next-scene-qwen-image-lora-2509) |
 | 126 |  | prithivMLmods/Outfit-Cut-SpecifiedImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/prithivMLmods/Outfit-Cut-Specified) |
 | 4 | Unknown | OPPOer/Qwen-Image-Edit-2509-PruningImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/OPPOer/Qwen-Image-Edit-2509-Pruning) |
+| 6 | Unknown | Viglong/Orient-AnythingImage-to-Image | UpdatedApr 1 | [Link](https://huggingface.co/Viglong/Orient-Anything) |
 
 ## Image-to-Text
 
@@ -2569,6 +2574,7 @@ Updated on 2025-10-13
 | 63 | 2 | farbodpya/Persian-OCRImage-to-Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/farbodpya/Persian-OCR) |
 | UpdatedJun 26 | 2 | manifestasi/smolVLM-161M-q4-manifestasi-v2Image-to-Text | 0.2B | [Link](https://huggingface.co/manifestasi/smolVLM-161M-q4-manifestasi-v2) |
 | 6 | 2 | mychen76/invoices-donut-v1Image-to-Text | UpdatedSep 22, 2023 | [Link](https://huggingface.co/mychen76/invoices-donut-v1) |
+| Updatedabout 1 hour ago | 2 | mradermacher/Nanonets-OCR2-3B-GGUFImage-to-Text | 3B | [Link](https://huggingface.co/mradermacher/Nanonets-OCR2-3B-GGUF) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -4299,6 +4305,7 @@ Updated on 2025-10-13
 | Updatedabout 6 hours ago | 33 | Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8Text | 480B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8) |
 | Updatedabout 1 hour ago | 33 | Kwai-Klear/Klear-46B-A2 | 46B | [Link](https://huggingface.co/Kwai-Klear/Klear-46B-A2.5B-Instruct) |
 | Updatedabout 14 hours ago | 33 | inclusionAI/Ring-flash-2 | 103B | [Link](https://huggingface.co/inclusionAI/Ring-flash-2.0) |
+| Updatedabout 2 hours ago | 33 | inclusionAI/Ring-1TText | 1000B | [Link](https://huggingface.co/inclusionAI/Ring-1T) |
 | 5.81k | 32 | trillionlabs/Trillion-7B-previewText | Updatedabout 3 hours ago | [Link](https://huggingface.co/trillionlabs/Trillion-7B-preview) |
 | 224 | 32 | JetBrains/Mellum-4b-sft-pythonText | Updated6 days ago | [Link](https://huggingface.co/JetBrains/Mellum-4b-sft-python) |
 | 131 | 32 | nvidia/AceReason-Nemotron-14BText | Updatedabout 3 hours ago | [Link](https://huggingface.co/nvidia/AceReason-Nemotron-14B) |
@@ -4502,6 +4509,7 @@ Updated on 2025-10-13
 | Updated25 days ago | 3.38k | dphn/Dolphin-Mistral-24B-Venice-EditionText | 24B | [Link](https://huggingface.co/dphn/Dolphin-Mistral-24B-Venice-Edition) |
 | Updated5 days ago | 3.98k | meituan-longcat/LongCat-Flash-Chat-FP8Text | 562B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Chat-FP8) |
 | Updated3 days ago | 3.63k | unsloth/LFM2-8B-A1B-GGUFText | 8B | [Link](https://huggingface.co/unsloth/LFM2-8B-A1B-GGUF) |
+| Updated1 day ago | 3 | LiquidAI/LFM2-350M-PII-Extract-JPText | 0.4B | [Link](https://huggingface.co/LiquidAI/LFM2-350M-PII-Extract-JP) |
 | Updated6 days ago | 2.04k | marcelbinz/Llama-3 | 71B | [Link](https://huggingface.co/marcelbinz/Llama-3.1-Centaur-70B) |
 | Updatedabout 2 hours ago | 2.66k | unsloth/Qwen3-235B-A22B-Instruct-2507-GGUFText | 235B | [Link](https://huggingface.co/unsloth/Qwen3-235B-A22B-Instruct-2507-GGUF) |
 | Updatedabout 10 hours ago | 2 | Qwen/Qwen3-30B-A3B-Thinking-2507Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507) |
@@ -5116,6 +5124,7 @@ Updated on 2025-10-13
 | 18 | Unknown | Phr00t/Qwen-Image-Edit-Rapid-AIOText-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/Phr00t/Qwen-Image-Edit-Rapid-AIO) |
 | 11 | Unknown | bageldotcom/parisText-to-Image | Updatedabout 24 hours ago | [Link](https://huggingface.co/bageldotcom/paris) |
 | 4 | Unknown | Danrisi/Lenovo_UltraReal_ChromaText-to-Image | Updated3 days ago | [Link](https://huggingface.co/Danrisi/Lenovo_UltraReal_Chroma) |
+| 16 | Unknown | ByteDance/FaceCLIPText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/ByteDance/FaceCLIP) |
 
 ## Text-to-Speech
 
