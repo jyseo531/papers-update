@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-10-14
+Updated on 2025-10-15
 
 > Generated from the Hugging Face database.
 
@@ -1741,6 +1741,7 @@ Updated on 2025-10-14
 | Updatedabout 3 hours ago | 163 | THUDM/GLM-4 | 10B | [Link](https://huggingface.co/THUDM/GLM-4.1V-9B-Thinking) |
 | Updatedabout 6 hours ago | 160 | internlm/Intern-S1-GGUFImage-Text-to-Text | 6B | [Link](https://huggingface.co/internlm/Intern-S1-GGUF) |
 | 39.1k | 159 | HuggingFaceTB/SmolVLM-256M-InstructImage-Text-to-Text | Updated22 days ago | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-256M-Instruct) |
+| Updatedabout 14 hours ago | 156 | Qwen/Qwen3-VL-4B-InstructImage-Text-to-Text | 4B | [Link](https://huggingface.co/Qwen/Qwen3-VL-4B-Instruct) |
 | 3.21k | 154 | bytedance-research/UI-TARS-7B-SFTImage-Text-to-Text | UpdatedJan 25 | [Link](https://huggingface.co/bytedance-research/UI-TARS-7B-SFT) |
 | 98.7k | 146 | deepseek-ai/deepseek-vl2-tinyImage-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2-tiny) |
 | 30.2k | 145 | bytedance-research/UI-TARS-7B-DPOImage-Text-to-Text | UpdatedJan 25 | [Link](https://huggingface.co/bytedance-research/UI-TARS-7B-DPO) |
@@ -1800,6 +1801,7 @@ Updated on 2025-10-14
 | Updatedabout 7 hours ago | 39 | OpenGVLab/InternVL3_5-38BImage-Text-to-Text | 38B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-38B) |
 | 12.4k | 38 | zhibinlan/LLaVE-2BImage-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/zhibinlan/LLaVE-2B) |
 | 7.23k | 38 | nvidia/Cosmos-Reason1-7BImage-Text-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/nvidia/Cosmos-Reason1-7B) |
+| Updatedabout 14 hours ago | 38 | Qwen/Qwen3-VL-4B-ThinkingImage-Text-to-Text | 4B | [Link](https://huggingface.co/Qwen/Qwen3-VL-4B-Thinking) |
 | 3.51k | 37 | HuggingFaceTB/SmolVLM2-500M-Video-InstructImage-Text-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM2-500M-Video-Instruct) |
 | Updated1 day ago | 37 | xlangai/OpenCUA-32BImage-Text-to-Text | 33B | [Link](https://huggingface.co/xlangai/OpenCUA-32B) |
 | 23 | 35 | google/gemma-3-27b-it-qat-q4_0-ggufImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-it-qat-q4_0-gguf) |
@@ -1941,6 +1943,7 @@ Updated on 2025-10-14
 | 3.68k | 8 | mlabonne/gemma-3-12b-it-abliterated-v2-GGUFImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/mlabonne/gemma-3-12b-it-abliterated-v2-GGUF) |
 | 31 | 8 | microsoft/GUI-Actor-Verifier-2BImage-Text-to-Text | Updatedabout 2 hours ago | [Link](https://huggingface.co/microsoft/GUI-Actor-Verifier-2B) |
 | 281 | 8 | gabriellarson/Nanonets-OCR-s-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/gabriellarson/Nanonets-OCR-s-GGUF) |
+| Updatedabout 13 hours ago | 8 | Qwen/Qwen3-VL-8B-Thinking-FP8Image-Text-to-Text | 9B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Thinking-FP8) |
 | 27 | 7 | ByteDance-Seed/SAIL-7BImage-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/ByteDance-Seed/SAIL-7B) |
 | 677 | 7 | turing-motors/Heron-NVILA-Lite-15BImage-Text-to-Text | Updated14 days ago | [Link](https://huggingface.co/turing-motors/Heron-NVILA-Lite-15B) |
 | 25 | 7 | mlabonne/gemma-3-27b-it-qat-abliteratedImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-qat-abliterated) |
@@ -1951,16 +1954,21 @@ Updated on 2025-10-14
 | 338 | 7 | allenai/olmOCR-7B-0225-preview-FP8Image-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview-FP8) |
 | 160 | 6 | MIL-UT/Asagi-14BImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/MIL-UT/Asagi-14B) |
 | Updatedabout 8 hours ago | 6.26k | Qwen/Qwen3-VL-30B-A3B-ThinkingImage-Text-to-Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Thinking) |
+| Updatedabout 14 hours ago | 6 | Qwen/Qwen3-VL-8B-InstructImage-Text-to-Text | 9B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct) |
 | 168 | 5 | MBZUAI/AINImage-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/MBZUAI/AIN) |
 | Updatedabout 9 hours ago | 5 | Skywork/Skywork-R1V3-38BImage-Text-to-Text | 38B | [Link](https://huggingface.co/Skywork/Skywork-R1V3-38B) |
 | Updatedabout 7 hours ago | 5 | internlm/Intern-S1Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1) |
 | Updated1 day ago | 4.45k | openbmb/MiniCPM-V-4_5-ggufImage-Text-to-Text | 8B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4_5-gguf) |
 | Updatedabout 12 hours ago | 4 | ibm-granite/granite-docling-258MImage-Text-to-Text | 0.3B | [Link](https://huggingface.co/ibm-granite/granite-docling-258M) |
 | Updated5 minutes ago | 3.08k | openbmb/MiniCPM-V-4-ggufImage-Text-to-Text | 4B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4-gguf) |
+| Updatedabout 14 hours ago | 3 | Qwen/Qwen3-VL-8B-ThinkingImage-Text-to-Text | 9B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Thinking) |
+| Updatedabout 13 hours ago | 3 | Qwen/Qwen3-VL-4B-Thinking-FP8Image-Text-to-Text | 5B | [Link](https://huggingface.co/Qwen/Qwen3-VL-4B-Thinking-FP8) |
+| Updatedabout 13 hours ago | 3 | Qwen/Qwen3-VL-4B-Instruct-FP8Image-Text-to-Text | 5B | [Link](https://huggingface.co/Qwen/Qwen3-VL-4B-Instruct-FP8) |
 | Updatedabout 7 hours ago | 2.63k | nvidia/Eagle2 | 8B | [Link](https://huggingface.co/nvidia/Eagle2.5-8B) |
 | Updatedabout 7 hours ago | 2 | internlm/Intern-S1-FP8Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1-FP8) |
 | Updated1 day ago | 2.26k | Qwen/Qwen3-VL-235B-A22B-InstructImage-Text-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct) |
 | UpdatedApr 1 | 2.75k | huihui-ai/Qwen2 | 8B | [Link](https://huggingface.co/huihui-ai/Qwen2.5-VL-7B-Instruct-abliterated) |
+| Updatedabout 13 hours ago | 2 | Qwen/Qwen3-VL-8B-Instruct-FP8Image-Text-to-Text | 9B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct-FP8) |
 | 2.72k | 1.62k | microsoft/OmniParserImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/microsoft/OmniParser) |
 | 100k | 1.4k | stepfun-ai/GOT-OCR2_0Image-Text-to-Text | Updated21 days ago | [Link](https://huggingface.co/stepfun-ai/GOT-OCR2_0) |
 | 1.78M | 1.42k | microsoft/Florence-2-largeImage-Text-to-Text | UpdatedDec 8, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-large) |
