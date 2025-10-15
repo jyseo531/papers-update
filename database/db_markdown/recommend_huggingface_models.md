@@ -1876,6 +1876,7 @@ Updated on 2025-10-15
 | 102 | 13 | OpenGVLab/InternVL3-9BImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/OpenGVLab/InternVL3-9B) |
 | 2.81k | 13 | unsloth/gemma-3n-E2B-it-GGUFImage-Text-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/unsloth/gemma-3n-E2B-it-GGUF) |
 | Updated3 days ago | 13 | baidu/Qianfan-VL-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/baidu/Qianfan-VL-8B) |
+| Updatedabout 16 hours ago | 13 | NexaAI/Qwen3-VL-4B-Instruct-GGUFImage-Text-to-Text | 4B | [Link](https://huggingface.co/NexaAI/Qwen3-VL-4B-Instruct-GGUF) |
 | 225 | 12 | ds4sd/SmolDocling-256M-preview-mlx-bf16Image-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/ds4sd/SmolDocling-256M-preview-mlx-bf16) |
 | 1.94k | 12 | bartowski/google_gemma-3-27b-it-qat-GGUFImage-Text-to-Text | Updatedabout 19 hours ago | [Link](https://huggingface.co/bartowski/google_gemma-3-27b-it-qat-GGUF) |
 | 856 | 12 | bartowski/google_gemma-3-12b-it-qat-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/bartowski/google_gemma-3-12b-it-qat-GGUF) |
@@ -4124,6 +4125,7 @@ Updated on 2025-10-15
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
 | 4.08M | 912 | unsloth/DeepSeek-R1-GGUFText | Updated12 days ago | [Link](https://huggingface.co/unsloth/DeepSeek-R1-GGUF) |
+| Updatedabout 8 hours ago | 886 | KORMo-Team/KORMo-10B-baseText | 11B | [Link](https://huggingface.co/KORMo-Team/KORMo-10B-base) |
 | Updated23 minutes ago | 854 | Qwen/Qwen3-Next-80B-A3B-InstructText | 81B | [Link](https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct) |
 | Updated3 days ago | 786 | apple/FastVLM-1 | 2B | [Link](https://huggingface.co/apple/FastVLM-1.5B) |
 | Updatedabout 18 hours ago | 769 | LiquidAI/LFM2-350M-MathText | 0.4B | [Link](https://huggingface.co/LiquidAI/LFM2-350M-Math) |
