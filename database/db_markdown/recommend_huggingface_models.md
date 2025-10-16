@@ -1946,6 +1946,7 @@ Updated on 2025-10-16
 | 281 | 8 | gabriellarson/Nanonets-OCR-s-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/gabriellarson/Nanonets-OCR-s-GGUF) |
 | Updatedabout 13 hours ago | 8 | Qwen/Qwen3-VL-8B-Thinking-FP8Image-Text-to-Text | 9B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Thinking-FP8) |
 | 3 | 8 | OPPOer/AndesVL-4B-ThinkingImage-Text-to-Text | Updatedabout 21 hours ago | [Link](https://huggingface.co/OPPOer/AndesVL-4B-Thinking) |
+| 36 | 8 | OPPOer/AndesVL-4B-InstructImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/OPPOer/AndesVL-4B-Instruct) |
 | 27 | 7 | ByteDance-Seed/SAIL-7BImage-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/ByteDance-Seed/SAIL-7B) |
 | 677 | 7 | turing-motors/Heron-NVILA-Lite-15BImage-Text-to-Text | Updated14 days ago | [Link](https://huggingface.co/turing-motors/Heron-NVILA-Lite-15B) |
 | 25 | 7 | mlabonne/gemma-3-27b-it-qat-abliteratedImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-qat-abliterated) |
@@ -2253,6 +2254,7 @@ Updated on 2025-10-16
 | 201 | 2 | egorchistov/optical-flow-MEMFOF-Tartan-T-TSKHImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/egorchistov/optical-flow-MEMFOF-Tartan-T-TSKH) |
 | 231 | 2 | kontext-community/relighting-kontext-dev-loraImage-to-Image | Updated5 days ago | [Link](https://huggingface.co/kontext-community/relighting-kontext-dev-lora) |
 | 27 | 2 | lrzjason/qwen_image_edit_plus_nf4Image-to-Image | Updated18 days ago | [Link](https://huggingface.co/lrzjason/qwen_image_edit_plus_nf4) |
+| 69 | 2 | chestnutlzj/UniWorld-R1-Qwen-Image-Edit-2509Image-to-Image | Updated6 days ago | [Link](https://huggingface.co/chestnutlzj/UniWorld-R1-Qwen-Image-Edit-2509) |
 | 12 | 1 | Jorgvt/CycleGAN_GTA_REALImage-to-Image | UpdatedJul 11, 2024 | [Link](https://huggingface.co/Jorgvt/CycleGAN_GTA_REAL) |
 | 41 | 1 | Estabousi/MIPHEI-vitImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/Estabousi/MIPHEI-vit) |
 | 1.54M |  | stabilityai/stable-diffusion-xl-refiner-1 | UpdatedSep 25, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0) |
@@ -4233,6 +4235,7 @@ Updated on 2025-10-16
 | 251 | 63 | ByteDance-Seed/Seed-Coder-8B-ReasoningText | Updatedabout 6 hours ago | [Link](https://huggingface.co/ByteDance-Seed/Seed-Coder-8B-Reasoning) |
 | Updated1 day ago | 62 | Tesslate/UIGEN-X-4B-0729Text | 4B | [Link](https://huggingface.co/Tesslate/UIGEN-X-4B-0729) |
 | Updated1 day ago | 61 | KurmaAI/AQUA-7BText | 7B | [Link](https://huggingface.co/KurmaAI/AQUA-7B) |
+| Updatedabout 23 hours ago | 61 | vandijklab/C2S-Scale-Gemma-2-27BText | 28B | [Link](https://huggingface.co/vandijklab/C2S-Scale-Gemma-2-27B) |
 | Updated2 days ago | 60 | Alibaba-NLP/WebDancer-32BText | 33B | [Link](https://huggingface.co/Alibaba-NLP/WebDancer-32B) |
 | Updatedabout 1 hour ago | 59 | janhq/Jan-v1-4BText | 4B | [Link](https://huggingface.co/janhq/Jan-v1-4B) |
 | Updatedabout 17 hours ago | 58 | microsoft/Phi-4-mini-flash-reasoningText | 4B | [Link](https://huggingface.co/microsoft/Phi-4-mini-flash-reasoning) |
