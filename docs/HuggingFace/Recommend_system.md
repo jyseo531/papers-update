@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-10-15
+Updated on 2025-10-16
 
 > Generated from the Hugging Face database.
 
@@ -1945,6 +1945,7 @@ Updated on 2025-10-15
 | 31 | 8 | microsoft/GUI-Actor-Verifier-2BImage-Text-to-Text | Updatedabout 2 hours ago | [Link](https://huggingface.co/microsoft/GUI-Actor-Verifier-2B) |
 | 281 | 8 | gabriellarson/Nanonets-OCR-s-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/gabriellarson/Nanonets-OCR-s-GGUF) |
 | Updatedabout 13 hours ago | 8 | Qwen/Qwen3-VL-8B-Thinking-FP8Image-Text-to-Text | 9B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Thinking-FP8) |
+| 3 | 8 | OPPOer/AndesVL-4B-ThinkingImage-Text-to-Text | Updatedabout 21 hours ago | [Link](https://huggingface.co/OPPOer/AndesVL-4B-Thinking) |
 | 27 | 7 | ByteDance-Seed/SAIL-7BImage-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/ByteDance-Seed/SAIL-7B) |
 | 677 | 7 | turing-motors/Heron-NVILA-Lite-15BImage-Text-to-Text | Updated14 days ago | [Link](https://huggingface.co/turing-motors/Heron-NVILA-Lite-15B) |
 | 25 | 7 | mlabonne/gemma-3-27b-it-qat-abliteratedImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-qat-abliterated) |
@@ -4958,6 +4959,7 @@ Updated on 2025-10-15
 | Updatedabout 22 hours ago | 7 | stepfun-ai/NextStep-1-Large-PretrainText-to-Image | 15B | [Link](https://huggingface.co/stepfun-ai/NextStep-1-Large-Pretrain) |
 | 503 | 7 | nunchaku-tech/nunchaku-sdxl-turboText-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-sdxl-turbo) |
 |  | 7 | Danrisi/Qwen-image_SamsungCam_UltraRealText-to-Image | Updated2 days ago | [Link](https://huggingface.co/Danrisi/Qwen-image_SamsungCam_UltraReal) |
+| 28 | 7 | spooknik/CenKreChro-SVDQText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/spooknik/CenKreChro-SVDQ) |
 | 1.07k | 6 | DFloat11/FLUX | Updated1 day ago | [Link](https://huggingface.co/DFloat11/FLUX.1-dev-DF11) |
 | 836 | 6 | Minthy/RouWei-0 | Updated3 days ago | [Link](https://huggingface.co/Minthy/RouWei-0.8) |
 | 169 | 6 | PosterCraft/PosterCraft-v1_RLText-to-Image | Updated2 days ago | [Link](https://huggingface.co/PosterCraft/PosterCraft-v1_RL) |
@@ -5567,6 +5569,7 @@ Updated on 2025-10-15
 | 6 | Unknown | htdong/Wan-AlphaText-to-Video | Updatedabout 9 hours ago | [Link](https://huggingface.co/htdong/Wan-Alpha) |
 | 4 | Unknown | phazei/phazei-SkyReels-V2-fp8-e5m2Text-to-Video | UpdatedMay 25 | [Link](https://huggingface.co/phazei/phazei-SkyReels-V2-fp8-e5m2) |
 | 2 | Unknown | yaleiyaleichiling/Anime-AlchemistText-to-Video | Updated2 days ago | [Link](https://huggingface.co/yaleiyaleichiling/Anime-Alchemist) |
+| 2 | Unknown | wangkanai/wan22-fp16-i2v-lorasText-to-Video | Updated1 day ago | [Link](https://huggingface.co/wangkanai/wan22-fp16-i2v-loras) |
 
 ## Text2Text Generation
 
