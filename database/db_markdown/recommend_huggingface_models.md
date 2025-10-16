@@ -2015,6 +2015,7 @@ Updated on 2025-10-16
 | 42 | Unknown | merve/smol-visionImage-Text-to-Text | Updatedabout 2 hours ago | [Link](https://huggingface.co/merve/smol-vision) |
 | 9 | Unknown | MizzenAI/HPSv3Image-Text-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/MizzenAI/HPSv3) |
 | 25 | Unknown | inclusionAI/Ming-Lite-UniImage-Text-to-Text | UpdatedMay 14 | [Link](https://huggingface.co/inclusionAI/Ming-Lite-Uni) |
+| 25 | Unknown | PaddlePaddle/PaddleOCR-VLImage-Text-to-Text | Updated21 minutes ago | [Link](https://huggingface.co/PaddlePaddle/PaddleOCR-VL) |
 
 ## Image-to-3D
 
