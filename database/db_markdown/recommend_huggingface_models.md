@@ -1958,6 +1958,7 @@ Updated on 2025-10-17
 | 160 | 6 | MIL-UT/Asagi-14BImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/MIL-UT/Asagi-14B) |
 | Updatedabout 8 hours ago | 6.26k | Qwen/Qwen3-VL-30B-A3B-ThinkingImage-Text-to-Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Thinking) |
 | Updatedabout 14 hours ago | 6 | Qwen/Qwen3-VL-8B-InstructImage-Text-to-Text | 9B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct) |
+| Updated1 day ago | 6.07k | IDEA-Research/Rex-OmniImage-Text-to-Text | 4B | [Link](https://huggingface.co/IDEA-Research/Rex-Omni) |
 | 168 | 5 | MBZUAI/AINImage-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/MBZUAI/AIN) |
 | Updatedabout 9 hours ago | 5 | Skywork/Skywork-R1V3-38BImage-Text-to-Text | 38B | [Link](https://huggingface.co/Skywork/Skywork-R1V3-38B) |
 | Updatedabout 7 hours ago | 5 | internlm/Intern-S1Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1) |
@@ -2392,6 +2393,7 @@ Updated on 2025-10-17
 | 126 |  | prithivMLmods/Outfit-Cut-SpecifiedImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/prithivMLmods/Outfit-Cut-Specified) |
 | 4 | Unknown | OPPOer/Qwen-Image-Edit-2509-PruningImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/OPPOer/Qwen-Image-Edit-2509-Pruning) |
 | 6 | Unknown | Viglong/Orient-AnythingImage-to-Image | UpdatedApr 1 | [Link](https://huggingface.co/Viglong/Orient-Anything) |
+| 6 | Unknown | WithAnyone/WithAnyoneImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/WithAnyone/WithAnyone) |
 
 ## Image-to-Text
 
@@ -2437,6 +2439,7 @@ Updated on 2025-10-17
 | UpdatedApr 17, 2024 | 54 | hoang-quoc-trung/sumen-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/hoang-quoc-trung/sumen-base) |
 | 71 | 49 | stabilityai/japanese-stable-vlmImage-to-Text | UpdatedJul 10, 2024 | [Link](https://huggingface.co/stabilityai/japanese-stable-vlm) |
 | 5.28k | 48 | Ertugrul/Qwen2-VL-7B-Captioner-RelaxedImage-to-Text | UpdatedSep 26, 2024 | [Link](https://huggingface.co/Ertugrul/Qwen2-VL-7B-Captioner-Relaxed) |
+| Updated23 days ago | 43 | Jaireyu/Qwen2 | 8B | [Link](https://huggingface.co/Jaireyu/Qwen2.5-VL-UniSVG-finetuned) |
 | UpdatedMay 18, 2024 | 41 | moranyanuka/blip-image-captioning-large-mochaImage-to-Text | 0.5B | [Link](https://huggingface.co/moranyanuka/blip-image-captioning-large-mocha) |
 | 246 | 40 | selvakumarcts/sk_invoice_receiptsImage-to-Text | UpdatedOct 20, 2023 | [Link](https://huggingface.co/selvakumarcts/sk_invoice_receipts) |
 | 573 | 39 | katanaml-org/invoices-donut-model-v1Image-to-Text | UpdatedMay 11, 2023 | [Link](https://huggingface.co/katanaml-org/invoices-donut-model-v1) |
@@ -4185,6 +4188,7 @@ Updated on 2025-10-17
 | Updated3 days ago | 125 | janhq/Jan-v1-edgeText | 2B | [Link](https://huggingface.co/janhq/Jan-v1-edge) |
 | Updated3 days ago | 121 | nvidia/OpenReasoning-Nemotron-14BText | 15B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-14B) |
 | Updated1 day ago | 119 | LiquidAI/LFM2-350M-ExtractText | 0.4B | [Link](https://huggingface.co/LiquidAI/LFM2-350M-Extract) |
+| Updated7 days ago | 119 | gustavecortal/Beck-8BText | 8B | [Link](https://huggingface.co/gustavecortal/Beck-8B) |
 | Updatedabout 11 hours ago | 115 | mistralai/Devstral-Small-2507Text | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2507) |
 | Updated1 day ago | 111 | moelanoby/phi-3-M3-coderText | 4B | [Link](https://huggingface.co/moelanoby/phi-3-M3-coder) |
 | Updated4 days ago | 110 | LatitudeGames/Wayfarer-2-12BText | 12B | [Link](https://huggingface.co/LatitudeGames/Wayfarer-2-12B) |
@@ -5143,6 +5147,7 @@ Updated on 2025-10-17
 | 11 | Unknown | bageldotcom/parisText-to-Image | Updatedabout 24 hours ago | [Link](https://huggingface.co/bageldotcom/paris) |
 | 4 | Unknown | Danrisi/Lenovo_UltraReal_ChromaText-to-Image | Updated3 days ago | [Link](https://huggingface.co/Danrisi/Lenovo_UltraReal_Chroma) |
 | 16 | Unknown | ByteDance/FaceCLIPText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/ByteDance/FaceCLIP) |
+| 7 | Unknown | Insta360-Research/DiT360-Panorama-Image-GenerationText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/Insta360-Research/DiT360-Panorama-Image-Generation) |
 
 ## Text-to-Speech
 
