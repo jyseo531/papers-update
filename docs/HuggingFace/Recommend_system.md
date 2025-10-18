@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-10-17
+Updated on 2025-10-18
 
 > Generated from the Hugging Face database.
 
@@ -2449,6 +2449,7 @@ Updated on 2025-10-17
 | 42.7k | 35 | microsoft/trocr-small-printedImage-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-small-printed) |
 | UpdatedJan 11 | 35 | AdamCodd/donut-receipts-extractImage-to-Text | 0.2B | [Link](https://huggingface.co/AdamCodd/donut-receipts-extract) |
 | Updated11 days ago | 35 | Daniil-Domino/trocr-base-ru-dialecticImage-to-Text | 0.3B | [Link](https://huggingface.co/Daniil-Domino/trocr-base-ru-dialectic) |
+| UpdatedDec 4, 2024 | 35 | shashikanth-a/Llama-3 | 1B | [Link](https://huggingface.co/shashikanth-a/Llama-3.2-11B-Vision-4bit) |
 | 6.34k | 32 | thwri/CogFlorence-2 | UpdatedSep 28, 2024 | [Link](https://huggingface.co/thwri/CogFlorence-2.2-Large) |
 | Updatedabout 4 hours ago | 32 | junyoung-00/Phi-3 | 4B | [Link](https://huggingface.co/junyoung-00/Phi-3.5-vision-instruct-ChartCap) |
 | UpdatedJul 8, 2024 | 32 | medieval-data/trocr-medieval-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/medieval-data/trocr-medieval-base) |
@@ -4131,6 +4132,7 @@ Updated on 2025-10-17
 
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
+| UpdatedSep 9 | 924k | inference-net/Schematron-3BText | 3B | [Link](https://huggingface.co/inference-net/Schematron-3B) |
 | 4.08M | 912 | unsloth/DeepSeek-R1-GGUFText | Updated12 days ago | [Link](https://huggingface.co/unsloth/DeepSeek-R1-GGUF) |
 | Updatedabout 8 hours ago | 886 | KORMo-Team/KORMo-10B-baseText | 11B | [Link](https://huggingface.co/KORMo-Team/KORMo-10B-base) |
 | Updated23 minutes ago | 854 | Qwen/Qwen3-Next-80B-A3B-InstructText | 81B | [Link](https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct) |
@@ -4976,6 +4978,7 @@ Updated on 2025-10-17
 | 23 | 6 | prithivMLmods/Flux | Updated3 days ago | [Link](https://huggingface.co/prithivMLmods/Flux.1-Krea-Merged-Dev) |
 | 273 | 6 | lodestones/Chroma1-FlashText-to-Image | Updated3 days ago | [Link](https://huggingface.co/lodestones/Chroma1-Flash) |
 | Updatedabout 3 hours ago | 6 | wikeeyang/SRPO-for-ComfyUIText-to-Image | 12B | [Link](https://huggingface.co/wikeeyang/SRPO-for-ComfyUI) |
+| Updatedabout 5 hours ago | 6.93k | Phil2Sat/Qwen-Image-Edit-Rapid-AIO-GGUFText-to-Image | 20B | [Link](https://huggingface.co/Phil2Sat/Qwen-Image-Edit-Rapid-AIO-GGUF) |
 | 42 | 5 | Shakker-Labs/RepTextText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Shakker-Labs/RepText) |
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
@@ -5498,6 +5501,7 @@ Updated on 2025-10-17
 | 14 | 2 | valiantcat/one_finger_wan21_t2v_loraText-to-Video | Updated11 days ago | [Link](https://huggingface.co/valiantcat/one_finger_wan21_t2v_lora) |
 | 36.6k | 2 | wlsaidhi/SFWan2 | Updated22 days ago | [Link](https://huggingface.co/wlsaidhi/SFWan2.1-T2V-1.3B-Diffusers) |
 |  | 2 | akhaliq/sora-2Text-to-Video | Updated3 days ago | [Link](https://huggingface.co/akhaliq/sora-2) |
+|  | 2 | akhaliq/veo3 | Updated2 days ago | [Link](https://huggingface.co/akhaliq/veo3.1-fast) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
