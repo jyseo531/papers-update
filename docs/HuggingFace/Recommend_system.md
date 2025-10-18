@@ -1728,6 +1728,7 @@ Updated on 2025-10-18
 | 860k | 376 | Salesforce/blip2-opt-2 | UpdatedFeb 3 | [Link](https://huggingface.co/Salesforce/blip2-opt-2.7b) |
 | Updatedabout 7 hours ago | 365 | stepfun-ai/step3Image-Text-to-Text | 321B | [Link](https://huggingface.co/stepfun-ai/step3) |
 | Updatedabout 2 hours ago | 349 | moondream/moondream3-previewImage-Text-to-Text | 9B | [Link](https://huggingface.co/moondream/moondream3-preview) |
+| Updated2 days ago | 311 | Open-Bee/Bee-8B-RLImage-Text-to-Text | 9B | [Link](https://huggingface.co/Open-Bee/Bee-8B-RL) |
 | 17.9k | 287 | deepseek-ai/deepseek-vl2Image-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2) |
 | 26.4k | 267 | MiniMaxAI/MiniMax-VL-01Image-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-VL-01) |
 | Updated1 day ago | 252 | Qwen/Qwen3-VL-235B-A22B-ThinkingImage-Text-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Thinking) |
@@ -1947,6 +1948,7 @@ Updated on 2025-10-18
 | Updatedabout 13 hours ago | 8 | Qwen/Qwen3-VL-8B-Thinking-FP8Image-Text-to-Text | 9B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Thinking-FP8) |
 | 3 | 8 | OPPOer/AndesVL-4B-ThinkingImage-Text-to-Text | Updatedabout 21 hours ago | [Link](https://huggingface.co/OPPOer/AndesVL-4B-Thinking) |
 | 36 | 8 | OPPOer/AndesVL-4B-InstructImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/OPPOer/AndesVL-4B-Instruct) |
+| Updated3 days ago | 8.51k | NexaAI/Qwen3-VL-8B-Instruct-GGUFImage-Text-to-Text | 8B | [Link](https://huggingface.co/NexaAI/Qwen3-VL-8B-Instruct-GGUF) |
 | 27 | 7 | ByteDance-Seed/SAIL-7BImage-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/ByteDance-Seed/SAIL-7B) |
 | 677 | 7 | turing-motors/Heron-NVILA-Lite-15BImage-Text-to-Text | Updated14 days ago | [Link](https://huggingface.co/turing-motors/Heron-NVILA-Lite-15B) |
 | 25 | 7 | mlabonne/gemma-3-27b-it-qat-abliteratedImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-qat-abliterated) |
@@ -2257,6 +2259,7 @@ Updated on 2025-10-18
 | 231 | 2 | kontext-community/relighting-kontext-dev-loraImage-to-Image | Updated5 days ago | [Link](https://huggingface.co/kontext-community/relighting-kontext-dev-lora) |
 | 27 | 2 | lrzjason/qwen_image_edit_plus_nf4Image-to-Image | Updated18 days ago | [Link](https://huggingface.co/lrzjason/qwen_image_edit_plus_nf4) |
 | 69 | 2 | chestnutlzj/UniWorld-R1-Qwen-Image-Edit-2509Image-to-Image | Updated6 days ago | [Link](https://huggingface.co/chestnutlzj/UniWorld-R1-Qwen-Image-Edit-2509) |
+| 5 | 2 | radames/stable-diffusion-2-1-unclip-small-img2imgImage-to-Image | UpdatedMay 8, 2023 | [Link](https://huggingface.co/radames/stable-diffusion-2-1-unclip-small-img2img) |
 | 12 | 1 | Jorgvt/CycleGAN_GTA_REALImage-to-Image | UpdatedJul 11, 2024 | [Link](https://huggingface.co/Jorgvt/CycleGAN_GTA_REAL) |
 | 41 | 1 | Estabousi/MIPHEI-vitImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/Estabousi/MIPHEI-vit) |
 | 1.54M |  | stabilityai/stable-diffusion-xl-refiner-1 | UpdatedSep 25, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0) |
@@ -4244,6 +4247,7 @@ Updated on 2025-10-18
 | Updated1 day ago | 61 | KurmaAI/AQUA-7BText | 7B | [Link](https://huggingface.co/KurmaAI/AQUA-7B) |
 | Updatedabout 23 hours ago | 61 | vandijklab/C2S-Scale-Gemma-2-27BText | 28B | [Link](https://huggingface.co/vandijklab/C2S-Scale-Gemma-2-27B) |
 | Updated2 days ago | 60 | Alibaba-NLP/WebDancer-32BText | 33B | [Link](https://huggingface.co/Alibaba-NLP/WebDancer-32B) |
+| Updatedabout 20 hours ago | 60 | inclusionAI/LLaDA2 | 16B | [Link](https://huggingface.co/inclusionAI/LLaDA2.0-mini-preview) |
 | Updatedabout 1 hour ago | 59 | janhq/Jan-v1-4BText | 4B | [Link](https://huggingface.co/janhq/Jan-v1-4B) |
 | Updatedabout 17 hours ago | 58 | microsoft/Phi-4-mini-flash-reasoningText | 4B | [Link](https://huggingface.co/microsoft/Phi-4-mini-flash-reasoning) |
 | Updatedabout 10 hours ago | 58 | unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUFText | 31B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF) |
@@ -5333,6 +5337,7 @@ Updated on 2025-10-18
 | Updated19 minutes ago | 1 | amphion/TaDiCodecText-to-Speech | 0.5B | [Link](https://huggingface.co/amphion/TaDiCodec) |
 | UpdatedApr 16 | 1.2k | Karayakar/Orpheus-TTS-Turkish-PT-5000Text-to-Speech | 3B | [Link](https://huggingface.co/Karayakar/Orpheus-TTS-Turkish-PT-5000) |
 | UpdatedMay 2 | 1.51k | 11mlabs/indri-0 | 0.1B | [Link](https://huggingface.co/11mlabs/indri-0.1-124m-tts) |
+| UpdatedSep 8 | 1.87k | gguf-org/vibevoice-ggufText-to-Speech | 3B | [Link](https://huggingface.co/gguf-org/vibevoice-gguf) |
 | 302 | Unknown | lj1995/GPT-SoVITSText-to-Speech | Updated14 days ago | [Link](https://huggingface.co/lj1995/GPT-SoVITS) |
 | 436 | Unknown | myshell-ai/OpenVoiceText-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoice) |
 | 365 | Unknown | myshell-ai/OpenVoiceV2Text-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoiceV2) |
@@ -5502,6 +5507,7 @@ Updated on 2025-10-18
 | 36.6k | 2 | wlsaidhi/SFWan2 | Updated22 days ago | [Link](https://huggingface.co/wlsaidhi/SFWan2.1-T2V-1.3B-Diffusers) |
 |  | 2 | akhaliq/sora-2Text-to-Video | Updated3 days ago | [Link](https://huggingface.co/akhaliq/sora-2) |
 |  | 2 | akhaliq/veo3 | Updated2 days ago | [Link](https://huggingface.co/akhaliq/veo3.1-fast) |
+| 5 | 2 | artificialguybr/OffSeasonSanta-Redmond-WAN2-T2V-14BText-to-Video | Updatedabout 20 hours ago | [Link](https://huggingface.co/artificialguybr/OffSeasonSanta-Redmond-WAN2-T2V-14B) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
