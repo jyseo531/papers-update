@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-10-18
+Updated on 2025-10-19
 
 > Generated from the Hugging Face database.
 
@@ -2552,6 +2552,7 @@ Updated on 2025-10-18
 | Updated7 days ago | 4.05k | allenai/olmOCR-7B-0825-FP8Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0825-FP8) |
 | 205 | 4 | Xenova/trocr-small-printedImage-to-Text | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Xenova/trocr-small-printed) |
 | 11 | 4 | turing-motors/heron-chat-blip-ja-stablelm-base-7b-v1Image-to-Text | UpdatedFeb 27, 2024 | [Link](https://huggingface.co/turing-motors/heron-chat-blip-ja-stablelm-base-7b-v1) |
+| UpdatedJan 28 | 4.35k | cnmoro/tiny-image-captioningImage-to-Text | 26.4M | [Link](https://huggingface.co/cnmoro/tiny-image-captioning) |
 | 299 | 3 | cnmoro/nano-image-captioningImage-to-Text | Updatedabout 1 month ago | [Link](https://huggingface.co/cnmoro/nano-image-captioning) |
 | 45 | 3 | braintacles/brainblipImage-to-Text | UpdatedJun 27, 2024 | [Link](https://huggingface.co/braintacles/brainblip) |
 | 55 | 3 | sbintuitions/sarashina2-vision-8bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-8b) |
