@@ -1735,6 +1735,7 @@ Updated on 2025-10-19
 | 353k | 236 | microsoft/Florence-2-baseImage-Text-to-Text | UpdatedNov 4, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-base) |
 | Updatedabout 14 hours ago | 228 | CohereLabs/command-a-vision-07-2025Image-Text-to-Text | 112B | [Link](https://huggingface.co/CohereLabs/command-a-vision-07-2025) |
 | Updatedabout 13 hours ago | 211 | INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v1 | 12B | [Link](https://huggingface.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v1.0) |
+| Updated2 days ago | 187 | huihui-ai/Huihui-Qwen3-VL-8B-Instruct-abliteratedImage-Text-to-Text | 9B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3-VL-8B-Instruct-abliterated) |
 | 7.06k | 180 | meta-llama/Llama-4-Scout-17B-16E-InstructImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct) |
 | Updatedabout 7 hours ago | 171 | OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-PreviewImage-Text-to-Text | 0.4B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-Preview) |
 | 116 | 167 | google/gemma-3-27b-itImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-it) |
@@ -2397,6 +2398,7 @@ Updated on 2025-10-19
 | 4 | Unknown | OPPOer/Qwen-Image-Edit-2509-PruningImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/OPPOer/Qwen-Image-Edit-2509-Pruning) |
 | 6 | Unknown | Viglong/Orient-AnythingImage-to-Image | UpdatedApr 1 | [Link](https://huggingface.co/Viglong/Orient-Anything) |
 | 6 | Unknown | WithAnyone/WithAnyoneImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/WithAnyone/WithAnyone) |
+| 2 | Unknown | Jiakui/MaskDCPTImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/Jiakui/MaskDCPT) |
 
 ## Image-to-Text
 
@@ -4208,6 +4210,7 @@ Updated on 2025-10-19
 | Updatedabout 3 hours ago | 98 | unsloth/gpt-oss-20b-GGUFText | 21B | [Link](https://huggingface.co/unsloth/gpt-oss-20b-GGUF) |
 | 26.5k | 97 | google/gemma-3n-E2B-it-litert-lmText | Updated13 days ago | [Link](https://huggingface.co/google/gemma-3n-E2B-it-litert-lm) |
 | 2 | 95 | Qwen/Qwen3-30B-A3BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B) |
+| 251 | 95 | facebook/MobileLLM-ProText | Updatedabout 7 hours ago | [Link](https://huggingface.co/facebook/MobileLLM-Pro) |
 | Updatedabout 10 hours ago | 92 | HelpingAI/Dhanishtha-2 | 15B | [Link](https://huggingface.co/HelpingAI/Dhanishtha-2.0-preview) |
 | 3 | 92 | moonshotai/Kimi-K2-BaseText | Updatedabout 10 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-K2-Base) |
 | 448 | 91 | starvector/starvector-8b-im2svgText | Updated2 days ago | [Link](https://huggingface.co/starvector/starvector-8b-im2svg) |
@@ -4991,6 +4994,7 @@ Updated on 2025-10-19
 | 169 | 5 | lodestones/Chroma1-BaseText-to-Image | Updated2 days ago | [Link](https://huggingface.co/lodestones/Chroma1-Base) |
 | 431 | 5 | wikeeyang/Magic-Wan-Image-v1 | Updated5 days ago | [Link](https://huggingface.co/wikeeyang/Magic-Wan-Image-v1.0) |
 | 8 | 5 | wikeeyang/Hunyuan-Image-30-Qint4Text-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/wikeeyang/Hunyuan-Image-30-Qint4) |
+| 109 | 5 | ostris/qwen_image_edit_2509_shirt_designText-to-Image | Updated2 days ago | [Link](https://huggingface.co/ostris/qwen_image_edit_2509_shirt_design) |
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 46 | 4 | Sherwinroger002/fashion_mnist_diffusion_class_conditionalText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Sherwinroger002/fashion_mnist_diffusion_class_conditional) |
 | 2.56k | 3.84k | WarriorMama777/OrangeMixsText-to-Image | UpdatedJan 7, 2024 | [Link](https://huggingface.co/WarriorMama777/OrangeMixs) |
@@ -5403,6 +5407,7 @@ Updated on 2025-10-19
 | 3 | Unknown | ABDALLALSWAITI/vibevoice-arabic-ZText-to-Speech | Updatedabout 3 hours ago | [Link](https://huggingface.co/ABDALLALSWAITI/vibevoice-arabic-Z) |
 | 4 | Unknown | campwill/HAL-9000-Piper-TTSText-to-Speech | UpdatedApr 13 | [Link](https://huggingface.co/campwill/HAL-9000-Piper-TTS) |
 | 3 | Unknown | tharindumihi/tts-si-F5-TTSText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/tharindumihi/tts-si-F5-TTS) |
+| 3 | Unknown | moiraai2024/GreekTTS-1 | Updated5 days ago | [Link](https://huggingface.co/moiraai2024/GreekTTS-1.5) |
 
 ## Text-to-Video
 
@@ -5509,6 +5514,7 @@ Updated on 2025-10-19
 |  | 2 | akhaliq/sora-2Text-to-Video | Updated3 days ago | [Link](https://huggingface.co/akhaliq/sora-2) |
 |  | 2 | akhaliq/veo3 | Updated2 days ago | [Link](https://huggingface.co/akhaliq/veo3.1-fast) |
 | 5 | 2 | artificialguybr/OffSeasonSanta-Redmond-WAN2-T2V-14BText-to-Video | Updatedabout 20 hours ago | [Link](https://huggingface.co/artificialguybr/OffSeasonSanta-Redmond-WAN2-T2V-14B) |
+| 43 | 2 | guoyww/animatediff-motion-lora-rolling-clockwiseText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-rolling-clockwise) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
