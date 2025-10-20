@@ -1753,6 +1753,7 @@ Updated on 2025-10-20
 | 404 | 136 | allenai/olmOCR-7B-0225-previewImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview) |
 | 1.28k | 115 | AIDC-AI/Ovis2-34BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-34B) |
 | 26.7k | 114 | HuggingFaceTB/SmolVLM-500M-InstructImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-500M-Instruct) |
+| Updatedabout 8 hours ago | 111 | deepseek-ai/DeepSeek-OCRImage-Text-to-Text | 3B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-OCR) |
 | Updated16 days ago | 109 | ChatDOC/OCRFlux-3BImage-Text-to-Text | 4B | [Link](https://huggingface.co/ChatDOC/OCRFlux-3B) |
 | 16.1k | 106 | bytedance-research/UI-TARS-72B-DPOImage-Text-to-Text | UpdatedJan 25 | [Link](https://huggingface.co/bytedance-research/UI-TARS-72B-DPO) |
 | 500 | 99 | meta-llama/Llama-4-Maverick-17B-128E-InstructImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct) |
@@ -2418,6 +2419,7 @@ Updated on 2025-10-20
 | UpdatedNov 28, 2024 | 429 | MohamedRashad/arabic-small-nougatImage-to-Text | 0.2B | [Link](https://huggingface.co/MohamedRashad/arabic-small-nougat) |
 | UpdatedJul 18 | 323 | loay/ArabicOCR-Qwen2 | 8B | [Link](https://huggingface.co/loay/ArabicOCR-Qwen2.5-VL-7B-Vision) |
 | UpdatedNov 15, 2024 | 242 | TIGER-Lab/Mantis-8B-Idefics2Image-to-Text | 8B | [Link](https://huggingface.co/TIGER-Lab/Mantis-8B-Idefics2) |
+| UpdatedMar 8 | 234 | convergence-ai/proxy-lite-3bImage-to-Text | 4B | [Link](https://huggingface.co/convergence-ai/proxy-lite-3b) |
 | Updated2 days ago | 230 | HelloKKMe/GTA1-32BImage-to-Text | 33B | [Link](https://huggingface.co/HelloKKMe/GTA1-32B) |
 | 7.46k | 213 | xtuner/llava-llama-3-8b-v1_1-ggufImage-to-Text | UpdatedApr 30, 2024 | [Link](https://huggingface.co/xtuner/llava-llama-3-8b-v1_1-gguf) |
 | UpdatedMar 5 | 180 | r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUF) |
@@ -2512,6 +2514,7 @@ Updated on 2025-10-20
 | UpdatedJul 12, 2023 | 11 | nttdataspain/vit-gpt2-stablediffusion2-loraImage-to-Text | 0.3B | [Link](https://huggingface.co/nttdataspain/vit-gpt2-stablediffusion2-lora) |
 | 68 | 10 | Flova/omr_transformerImage-to-Text | UpdatedOct 5, 2023 | [Link](https://huggingface.co/Flova/omr_transformer) |
 | Updatedabout 17 hours ago | 10 | SauravCh11/Donut-CORDImage-to-Text | 0.2B | [Link](https://huggingface.co/SauravCh11/Donut-CORD) |
+| 13.7k | 10 | TIGER-Lab/VLM2Vec-Qwen2VL-7BImage-to-Text | UpdatedMay 3 | [Link](https://huggingface.co/TIGER-Lab/VLM2Vec-Qwen2VL-7B) |
 | 475 | 9 | DunnBC22/trocr-base-printed_license_plates_ocrImage-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-base-printed_license_plates_ocr) |
 | 455 | 9 | fhswf/TrOCR_german_handwrittenImage-to-Text | UpdatedJun 18, 2024 | [Link](https://huggingface.co/fhswf/TrOCR_german_handwritten) |
 | UpdatedNov 20, 2023 | 9.05k | facebook/nougat-smallImage-to-Text | 0.2B | [Link](https://huggingface.co/facebook/nougat-small) |
@@ -4979,6 +4982,7 @@ Updated on 2025-10-20
 | 503 | 7 | nunchaku-tech/nunchaku-sdxl-turboText-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-sdxl-turbo) |
 |  | 7 | Danrisi/Qwen-image_SamsungCam_UltraRealText-to-Image | Updated2 days ago | [Link](https://huggingface.co/Danrisi/Qwen-image_SamsungCam_UltraReal) |
 | 28 | 7 | spooknik/CenKreChro-SVDQText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/spooknik/CenKreChro-SVDQ) |
+| 13 | 7 | spooknik/Fluxmania-SVDQText-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/spooknik/Fluxmania-SVDQ) |
 | 1.07k | 6 | DFloat11/FLUX | Updated1 day ago | [Link](https://huggingface.co/DFloat11/FLUX.1-dev-DF11) |
 | 836 | 6 | Minthy/RouWei-0 | Updated3 days ago | [Link](https://huggingface.co/Minthy/RouWei-0.8) |
 | 169 | 6 | PosterCraft/PosterCraft-v1_RLText-to-Image | Updated2 days ago | [Link](https://huggingface.co/PosterCraft/PosterCraft-v1_RL) |
@@ -5161,6 +5165,7 @@ Updated on 2025-10-20
 | 4 | Unknown | Danrisi/Lenovo_UltraReal_ChromaText-to-Image | Updated3 days ago | [Link](https://huggingface.co/Danrisi/Lenovo_UltraReal_Chroma) |
 | 16 | Unknown | ByteDance/FaceCLIPText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/ByteDance/FaceCLIP) |
 | 7 | Unknown | Insta360-Research/DiT360-Panorama-Image-GenerationText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/Insta360-Research/DiT360-Panorama-Image-Generation) |
+| 12 | Unknown | WithAnyone/WithAnyoneText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/WithAnyone/WithAnyone) |
 
 ## Text-to-Speech
 
