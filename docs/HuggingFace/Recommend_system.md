@@ -4511,6 +4511,7 @@ Updated on 2025-10-21
 | 1.37k | 15 | ubergarm/DeepSeek-R1-0528-GGUFText | Updated1 day ago | [Link](https://huggingface.co/ubergarm/DeepSeek-R1-0528-GGUF) |
 | 10.7k | 15 | lmstudio-community/Magistral-Small-2506-GGUFText | Updated5 days ago | [Link](https://huggingface.co/lmstudio-community/Magistral-Small-2506-GGUF) |
 | 65 | 15 | ICONNAI/ICONN-e1Text | Updated3 days ago | [Link](https://huggingface.co/ICONNAI/ICONN-e1) |
+| 45 | 15 | cerebras/Qwen3-Coder-REAP-25B-A3BText | Updatedabout 19 hours ago | [Link](https://huggingface.co/cerebras/Qwen3-Coder-REAP-25B-A3B) |
 | 1k | 14 | unsloth/DeepSeek-R1-0528Text | Updated2 days ago | [Link](https://huggingface.co/unsloth/DeepSeek-R1-0528) |
 | 57 | 14 | katanemo/Arch-Agent-32BText | Updated3 days ago | [Link](https://huggingface.co/katanemo/Arch-Agent-32B) |
 | Updatedabout 11 hours ago | 14 | CohereLabs/command-a-translate-08-2025Text | 111B | [Link](https://huggingface.co/CohereLabs/command-a-translate-08-2025) |
