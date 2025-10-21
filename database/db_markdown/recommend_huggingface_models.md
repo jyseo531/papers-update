@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-10-20
+Updated on 2025-10-21
 
 > Generated from the Hugging Face database.
 
@@ -12,6 +12,7 @@ Updated on 2025-10-20
 | Updatedabout 1 hour ago | 718 | XiaomiMiMo/MiMo-Audio-7B-InstructAny-to-Any | 8B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-Audio-7B-Instruct) |
 | 189k | 577 | deepseek-ai/Janus-1 | Updated29 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-1.3B) |
 | Updated3 days ago | 443 | cpatonn/Qwen3-Omni-30B-A3B-Instruct-AWQ-8bitAny-to-Any | 14B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Instruct-AWQ-8bit) |
+| Updated22 days ago | 408 | cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-8bitAny-to-Any | 10B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-8bit) |
 | Updatedabout 16 hours ago | 398 | QuantStack/HiDream-E1-1-GGUFAny-to-Any | 17B | [Link](https://huggingface.co/QuantStack/HiDream-E1-1-GGUF) |
 | 121k | 381 | deepseek-ai/Janus-Pro-1BAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-1B) |
 | Updatedabout 10 hours ago | 316 | wcy1122/MGM-Omni-TTS-2B-0927Any-to-Any | 2B | [Link](https://huggingface.co/wcy1122/MGM-Omni-TTS-2B-0927) |
@@ -4627,6 +4628,7 @@ Updated on 2025-10-20
 | Updatedabout 15 hours ago |  | Qwen/Qwen3-4B-Instruct-2507Text | 4B | [Link](https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507) |
 | 97 |  | moonshotai/Kimi-K2-Instruct-0905Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-K2-Instruct-0905) |
 | 22 | Unknown | Qwen/Qwen3-Next-80B-A3B-Instruct-FP8Text | Updatedabout 20 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct-FP8) |
+| 18 | Unknown | sdobson/nanochatText | Updated6 days ago | [Link](https://huggingface.co/sdobson/nanochat) |
 
 ## Text Ranking
 
@@ -5602,6 +5604,8 @@ Updated on 2025-10-20
 | 4 | Unknown | phazei/phazei-SkyReels-V2-fp8-e5m2Text-to-Video | UpdatedMay 25 | [Link](https://huggingface.co/phazei/phazei-SkyReels-V2-fp8-e5m2) |
 | 2 | Unknown | yaleiyaleichiling/Anime-AlchemistText-to-Video | Updated2 days ago | [Link](https://huggingface.co/yaleiyaleichiling/Anime-Alchemist) |
 | 2 | Unknown | wangkanai/wan22-fp16-i2v-lorasText-to-Video | Updated1 day ago | [Link](https://huggingface.co/wangkanai/wan22-fp16-i2v-loras) |
+| 33 | Unknown | krea/krea-realtime-videoText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/krea/krea-realtime-video) |
+| 2 | Unknown | EmmyHenz001/veo3 | Updated4 days ago | [Link](https://huggingface.co/EmmyHenz001/veo3.1-fast) |
 
 ## Text2Text Generation
 
