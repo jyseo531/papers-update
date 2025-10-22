@@ -165,6 +165,7 @@ Updated on 2025-10-22
 | 1 | Unknown | sovthpaw/senter-omni-modelAny-to-Any | Updatedabout 4 hours ago | [Link](https://huggingface.co/sovthpaw/senter-omni-model) |
 | 1 | Unknown | keisoft/omega-meta-llama-3-8B-v02Any-to-Any | UpdatedAug 7, 2024 | [Link](https://huggingface.co/keisoft/omega-meta-llama-3-8B-v02) |
 | 2 | Unknown | PIOTRsus123/BUMCYKCYKAny-to-Any | UpdatedOct 21, 2024 | [Link](https://huggingface.co/PIOTRsus123/BUMCYKCYK) |
+| 2 | Unknown | General-Medical-AI/UniMedVLAny-to-Any | Updatedabout 19 hours ago | [Link](https://huggingface.co/General-Medical-AI/UniMedVL) |
 
 ## Audio Classification
 
@@ -5625,6 +5626,7 @@ Updated on 2025-10-22
 | 2 | Unknown | wangkanai/wan22-fp16-i2v-lorasText-to-Video | Updated1 day ago | [Link](https://huggingface.co/wangkanai/wan22-fp16-i2v-loras) |
 | 33 | Unknown | krea/krea-realtime-videoText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/krea/krea-realtime-video) |
 | 2 | Unknown | EmmyHenz001/veo3 | Updated4 days ago | [Link](https://huggingface.co/EmmyHenz001/veo3.1-fast) |
+| 2 | Unknown | TencentARC/RollingForcingText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/TencentARC/RollingForcing) |
 
 ## Text2Text Generation
 
