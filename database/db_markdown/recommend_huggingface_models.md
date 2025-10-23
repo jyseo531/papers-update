@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-10-22
+Updated on 2025-10-23
 
 > Generated from the Hugging Face database.
 
@@ -1760,6 +1760,7 @@ Updated on 2025-10-22
 | Updatedabout 8 hours ago | 111 | deepseek-ai/DeepSeek-OCRImage-Text-to-Text | 3B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-OCR) |
 | Updated16 days ago | 109 | ChatDOC/OCRFlux-3BImage-Text-to-Text | 4B | [Link](https://huggingface.co/ChatDOC/OCRFlux-3B) |
 | 16.1k | 106 | bytedance-research/UI-TARS-72B-DPOImage-Text-to-Text | UpdatedJan 25 | [Link](https://huggingface.co/bytedance-research/UI-TARS-72B-DPO) |
+| Updatedabout 1 hour ago | 101 | LiquidAI/LFM2-VL-3BImage-Text-to-Text | 3B | [Link](https://huggingface.co/LiquidAI/LFM2-VL-3B) |
 | 500 | 99 | meta-llama/Llama-4-Maverick-17B-128E-InstructImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct) |
 | 1.15k | 98 | ContactDoctor/Bio-Medical-MultiModal-Llama-3-8B-V1Image-Text-to-Text | UpdatedOct 17, 2024 | [Link](https://huggingface.co/ContactDoctor/Bio-Medical-MultiModal-Llama-3-8B-V1) |
 | Updatedabout 8 hours ago | 98.8k | Qwen/Qwen3-VL-30B-A3B-InstructImage-Text-to-Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Instruct) |
@@ -2254,6 +2255,7 @@ Updated on 2025-10-22
 | 570 | 3 | flymy-ai/qwen-image-edit-2509-inscene-loraImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/flymy-ai/qwen-image-edit-2509-inscene-lora) |
 | 314 | 3 | manycore-research/FLUX | Updated12 days ago | [Link](https://huggingface.co/manycore-research/FLUX.1-Wireframe-dev-lora) |
 | 1 | 3 | REPA-E/e2e-qwenimage-vaeImage-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/REPA-E/e2e-qwenimage-vae) |
+| 52 | 3 | REPA-E/e2e-flux-vaeImage-to-Image | Updatedabout 13 hours ago | [Link](https://huggingface.co/REPA-E/e2e-flux-vae) |
 | 67 | 2 | SherryXTChen/InstructCLIP-InstructPix2PixImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/SherryXTChen/InstructCLIP-InstructPix2Pix) |
 | 17 | 2 | SherryXTChen/Instruct-CLIPImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/SherryXTChen/Instruct-CLIP) |
 | 76 | 2 | VisualCloze/VisualClozePipeline-384Image-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/VisualCloze/VisualClozePipeline-384) |
