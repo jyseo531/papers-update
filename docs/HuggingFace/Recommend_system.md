@@ -1720,6 +1720,7 @@ Updated on 2025-10-23
 | Updated1 day ago | 906 | OpenGVLab/InternVL3_5-1BImage-Text-to-Text | 1B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-1B) |
 | 57.2k | 851 | mistralai/Mistral-Small-3 | Updatedabout 11 hours ago | [Link](https://huggingface.co/mistralai/Mistral-Small-3.1-24B-Instruct-2503) |
 | Updatedabout 4 hours ago | 829 | lmms-lab/LLaVA-OneVision-1 | 9B | [Link](https://huggingface.co/lmms-lab/LLaVA-OneVision-1.5-8B-Instruct) |
+| Updated3 days ago | 759 | Qwen/Qwen3-VL-2B-Instruct-FP8Image-Text-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct-FP8) |
 |  | 615 | mistralai/Pixtral-12B-2409Image-Text-to-Text | UpdatedDec 26, 2024 | [Link](https://huggingface.co/mistralai/Pixtral-12B-2409) |
 | Updatedabout 12 hours ago | 598 | deepcogito/cogito-v2-preview-llama-109B-MoEImage-Text-to-Text | 109B | [Link](https://huggingface.co/deepcogito/cogito-v2-preview-llama-109B-MoE) |
 | 1.67M | 546 | Qwen/Qwen2 | Updated10 days ago | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct) |
@@ -2256,6 +2257,7 @@ Updated on 2025-10-23
 | 314 | 3 | manycore-research/FLUX | Updated12 days ago | [Link](https://huggingface.co/manycore-research/FLUX.1-Wireframe-dev-lora) |
 | 1 | 3 | REPA-E/e2e-qwenimage-vaeImage-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/REPA-E/e2e-qwenimage-vae) |
 | 52 | 3 | REPA-E/e2e-flux-vaeImage-to-Image | Updatedabout 13 hours ago | [Link](https://huggingface.co/REPA-E/e2e-flux-vae) |
+| 146 | 3 | chestnutlzj/Edit-R1-FLUX | Updated1 day ago | [Link](https://huggingface.co/chestnutlzj/Edit-R1-FLUX.1-Kontext-dev) |
 | 67 | 2 | SherryXTChen/InstructCLIP-InstructPix2PixImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/SherryXTChen/InstructCLIP-InstructPix2Pix) |
 | 17 | 2 | SherryXTChen/Instruct-CLIPImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/SherryXTChen/Instruct-CLIP) |
 | 76 | 2 | VisualCloze/VisualClozePipeline-384Image-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/VisualCloze/VisualClozePipeline-384) |
@@ -4573,6 +4575,7 @@ Updated on 2025-10-23
 | 314 | 2.36k | xai-org/grok-1Text | UpdatedMar 28, 2024 | [Link](https://huggingface.co/xai-org/grok-1) |
 | Updatedabout 11 hours ago | 2 | LiquidAI/LFM2-2 | 3B | [Link](https://huggingface.co/LiquidAI/LFM2-2.6B) |
 | Updatedabout 17 hours ago | 2.21k | ai21labs/AI21-Jamba-Reasoning-3B-GGUFText | 3B | [Link](https://huggingface.co/ai21labs/AI21-Jamba-Reasoning-3B-GGUF) |
+| Updatedabout 5 hours ago | 2.98k | PokeeAI/pokee_research_7bText | 8B | [Link](https://huggingface.co/PokeeAI/pokee_research_7b) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
 | Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
@@ -5189,6 +5192,8 @@ Updated on 2025-10-23
 | 16 | Unknown | ByteDance/FaceCLIPText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/ByteDance/FaceCLIP) |
 | 7 | Unknown | Insta360-Research/DiT360-Panorama-Image-GenerationText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/Insta360-Research/DiT360-Panorama-Image-Generation) |
 | 12 | Unknown | WithAnyone/WithAnyoneText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/WithAnyone/WithAnyone) |
+| 22 | Unknown | lrzjason/QwenImage-RebalanceText-to-Image | Updated21 minutes ago | [Link](https://huggingface.co/lrzjason/QwenImage-Rebalance) |
+| 6 | Unknown | DD32/MagicNodesText-to-Image | Updated1 day ago | [Link](https://huggingface.co/DD32/MagicNodes) |
 
 ## Text-to-Speech
 
