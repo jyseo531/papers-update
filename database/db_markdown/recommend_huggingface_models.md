@@ -5030,6 +5030,7 @@ Updated on 2025-10-24
 | 8 | 5 | wikeeyang/Hunyuan-Image-30-Qint4Text-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/wikeeyang/Hunyuan-Image-30-Qint4) |
 | 109 | 5 | ostris/qwen_image_edit_2509_shirt_designText-to-Image | Updated2 days ago | [Link](https://huggingface.co/ostris/qwen_image_edit_2509_shirt_design) |
 | 398 | 5 | spooknik/PixelWave-SVDQText-to-Image | Updated3 days ago | [Link](https://huggingface.co/spooknik/PixelWave-SVDQ) |
+| 738 | 5 | spooknik/CyberRealistic-Flux-SVDQText-to-Image | Updated1 day ago | [Link](https://huggingface.co/spooknik/CyberRealistic-Flux-SVDQ) |
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 46 | 4 | Sherwinroger002/fashion_mnist_diffusion_class_conditionalText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Sherwinroger002/fashion_mnist_diffusion_class_conditional) |
 | 2.56k | 3.84k | WarriorMama777/OrangeMixsText-to-Image | UpdatedJan 7, 2024 | [Link](https://huggingface.co/WarriorMama777/OrangeMixs) |
@@ -5642,6 +5643,7 @@ Updated on 2025-10-24
 | 2 | Unknown | EmmyHenz001/veo3 | Updated4 days ago | [Link](https://huggingface.co/EmmyHenz001/veo3.1-fast) |
 | 2 | Unknown | TencentARC/RollingForcingText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/TencentARC/RollingForcing) |
 | 2 | Unknown | artificialguybr/FollowCam-Redmond-WAN2-T2V-14BText-to-Video | Updatedabout 7 hours ago | [Link](https://huggingface.co/artificialguybr/FollowCam-Redmond-WAN2-T2V-14B) |
+| 2 | Unknown | aquif-ai/aquif-Dream-6B-ExpText-to-Video | Updated2 days ago | [Link](https://huggingface.co/aquif-ai/aquif-Dream-6B-Exp) |
 
 ## Text2Text Generation
 
