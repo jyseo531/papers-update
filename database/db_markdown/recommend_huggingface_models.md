@@ -2179,6 +2179,7 @@ Updated on 2025-10-25
 | 52 | 22 | sayakpaul/whitebox-cartoonizerImage-to-Image | UpdatedMar 17, 2023 | [Link](https://huggingface.co/sayakpaul/whitebox-cartoonizer) |
 | 260k | 22 | Lykon/dreamshaper-8-inpaintingImage-to-Image | UpdatedSep 17, 2024 | [Link](https://huggingface.co/Lykon/dreamshaper-8-inpainting) |
 | 12.1k | 19 | lllyasviel/control_v11p_sd15_softedgeImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_softedge) |
+| 365 | 19 | valiantcat/Qwen-Image-Edit-MeiTuImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/valiantcat/Qwen-Image-Edit-MeiTu) |
 | 10 | 18 | InstantX/Qwen-Image-ControlNet-UnionImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/InstantX/Qwen-Image-ControlNet-Union) |
 | 10.1k | 17 | Stable-X/yoso-delight-v0-4-baseImage-to-Image | UpdatedSep 26, 2024 | [Link](https://huggingface.co/Stable-X/yoso-delight-v0-4-base) |
 | 29 | 17 | RedRocket/furception_vaeImage-to-Image | UpdatedJan 17, 2024 | [Link](https://huggingface.co/RedRocket/furception_vae) |
@@ -2714,6 +2715,7 @@ Updated on 2025-10-25
 | 2 | Unknown | lamco-development/granite-docling-258M-onnxImage-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/lamco-development/granite-docling-258M-onnx) |
 | 2 | Unknown | monkt/paddleocr-onnxImage-to-Text | Updated2 days ago | [Link](https://huggingface.co/monkt/paddleocr-onnx) |
 | 3 | Unknown | pitapo/suryaImage-to-Text | UpdatedAug 3 | [Link](https://huggingface.co/pitapo/surya) |
+| 4 | Unknown | nvidia/nemoretriever-ocr-v1Image-to-Text | Updatedabout 22 hours ago | [Link](https://huggingface.co/nvidia/nemoretriever-ocr-v1) |
 
 ## Image-to-Video
 
@@ -4993,6 +4995,7 @@ Updated on 2025-10-25
 | 233 | 9 | nvidia/Cosmos-Predict2-2B-Text2ImageText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/Cosmos-Predict2-2B-Text2Image) |
 | 169 | 9 | briaai/BRIA-3 | Updatedabout 16 hours ago | [Link](https://huggingface.co/briaai/BRIA-3.2) |
 | 54 | 9 | gokaygokay/Flux-Krea-Realism-LoRAText-to-Image | Updatedabout 14 hours ago | [Link](https://huggingface.co/gokaygokay/Flux-Krea-Realism-LoRA) |
+|  | 9 | Instara/1girl-qwen-imageText-to-Image | Updated3 days ago | [Link](https://huggingface.co/Instara/1girl-qwen-image) |
 | 215 | 8 | tensorart/stable-diffusion-3 | Updated8 minutes ago | [Link](https://huggingface.co/tensorart/stable-diffusion-3.5-large-TurboX) |
 | 34 | 8 | renderartist/coloringbookhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/coloringbookhidream) |
 | 1.79k | 8 | MaxedOut/ComfyUI-Starter-PacksText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/MaxedOut/ComfyUI-Starter-Packs) |
