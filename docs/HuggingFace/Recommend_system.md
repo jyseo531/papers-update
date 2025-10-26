@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-10-25
+Updated on 2025-10-26
 
 > Generated from the Hugging Face database.
 
@@ -1734,6 +1734,7 @@ Updated on 2025-10-25
 | Updatedabout 7 hours ago | 365 | stepfun-ai/step3Image-Text-to-Text | 321B | [Link](https://huggingface.co/stepfun-ai/step3) |
 | Updatedabout 2 hours ago | 349 | moondream/moondream3-previewImage-Text-to-Text | 9B | [Link](https://huggingface.co/moondream/moondream3-preview) |
 | Updated2 days ago | 311 | Open-Bee/Bee-8B-RLImage-Text-to-Text | 9B | [Link](https://huggingface.co/Open-Bee/Bee-8B-RL) |
+| Updated5 days ago | 302 | Qwen/Qwen3-VL-2B-Thinking-FP8Image-Text-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-2B-Thinking-FP8) |
 | 17.9k | 287 | deepseek-ai/deepseek-vl2Image-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2) |
 | 26.4k | 267 | MiniMaxAI/MiniMax-VL-01Image-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-VL-01) |
 | Updated1 day ago | 252 | Qwen/Qwen3-VL-235B-A22B-ThinkingImage-Text-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Thinking) |
@@ -2561,6 +2562,7 @@ Updated on 2025-10-25
 | 2.8k | 7 | hezarai/crnn-base-fa-v2Image-to-Text | UpdatedApr 14 | [Link](https://huggingface.co/hezarai/crnn-base-fa-v2) |
 | UpdatedJan 19, 2024 | 7 | fireworks-ai/FireLLaVA-13bImage-to-Text | 13B | [Link](https://huggingface.co/fireworks-ai/FireLLaVA-13b) |
 | 52 | 7 | Xenova/trocr-small-handwrittenImage-to-Text | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Xenova/trocr-small-handwritten) |
+| 188 | 7 | WeightedAI/Persian_OCRImage-to-Text | Updated26 days ago | [Link](https://huggingface.co/WeightedAI/Persian_OCR) |
 | 624 | 6 | fhswf/TrOCR_Math_handwrittenImage-to-Text | UpdatedOct 21, 2024 | [Link](https://huggingface.co/fhswf/TrOCR_Math_handwritten) |
 | 511 | 6 | microsoft/trocr-base-strImage-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-base-str) |
 | Updated21 days ago | 6.36k | allenai/olmOCR-7B-0225-preview-FP8Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview-FP8) |
@@ -4955,6 +4957,7 @@ Updated on 2025-10-25
 | 2.49k | 33 | Heartsync/NSFW-UncensoredText-to-Image | Updated7 days ago | [Link](https://huggingface.co/Heartsync/NSFW-Uncensored) |
 | 145 | 28 | ByteDance/XVerseText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/ByteDance/XVerse) |
 | 8 | 22 | nunchaku-tech/nunchaku-qwen-image-edit-2509Text-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-qwen-image-edit-2509) |
+| Updatedabout 14 hours ago | 22 | purplesmartai/pony-v7-baseText-to-Image | 7B | [Link](https://huggingface.co/purplesmartai/pony-v7-base) |
 | 5.26k | 20 | mit-han-lab/svdq-int4-flux | Updated22 days ago | [Link](https://huggingface.co/mit-han-lab/svdq-int4-flux.1-dev) |
 | 2 | 20 | HiDream-ai/HiDream-I1-FullText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/HiDream-ai/HiDream-I1-Full) |
 |  | 18 | multimodalart/isometric-skeumorphic-3d-bnbText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/multimodalart/isometric-skeumorphic-3d-bnb) |
@@ -5034,6 +5037,7 @@ Updated on 2025-10-25
 | 109 | 5 | ostris/qwen_image_edit_2509_shirt_designText-to-Image | Updated2 days ago | [Link](https://huggingface.co/ostris/qwen_image_edit_2509_shirt_design) |
 | 398 | 5 | spooknik/PixelWave-SVDQText-to-Image | Updated3 days ago | [Link](https://huggingface.co/spooknik/PixelWave-SVDQ) |
 | 738 | 5 | spooknik/CyberRealistic-Flux-SVDQText-to-Image | Updated1 day ago | [Link](https://huggingface.co/spooknik/CyberRealistic-Flux-SVDQ) |
+| 49 | 5 | amd/Nitro-EText-to-Image | Updated1 day ago | [Link](https://huggingface.co/amd/Nitro-E) |
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 46 | 4 | Sherwinroger002/fashion_mnist_diffusion_class_conditionalText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Sherwinroger002/fashion_mnist_diffusion_class_conditional) |
 | 2.56k | 3.84k | WarriorMama777/OrangeMixsText-to-Image | UpdatedJan 7, 2024 | [Link](https://huggingface.co/WarriorMama777/OrangeMixs) |
@@ -5648,6 +5652,7 @@ Updated on 2025-10-25
 | 2 | Unknown | TencentARC/RollingForcingText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/TencentARC/RollingForcing) |
 | 2 | Unknown | artificialguybr/FollowCam-Redmond-WAN2-T2V-14BText-to-Video | Updatedabout 7 hours ago | [Link](https://huggingface.co/artificialguybr/FollowCam-Redmond-WAN2-T2V-14B) |
 | 2 | Unknown | aquif-ai/aquif-Dream-6B-ExpText-to-Video | Updated2 days ago | [Link](https://huggingface.co/aquif-ai/aquif-Dream-6B-Exp) |
+| 72 | Unknown | meituan-longcat/LongCat-VideoText-to-Video | Updatedabout 9 hours ago | [Link](https://huggingface.co/meituan-longcat/LongCat-Video) |
 
 ## Text2Text Generation
 
