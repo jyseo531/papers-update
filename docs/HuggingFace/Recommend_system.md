@@ -1717,6 +1717,7 @@ Updated on 2025-10-26
 | 109k | 939 | openbmb/MiniCPM-V-2_6Image-Text-to-Text | UpdatedJan 15 | [Link](https://huggingface.co/openbmb/MiniCPM-V-2_6) |
 | 4.89k | 934 | microsoft/OmniParser-v2 | Updated7 days ago | [Link](https://huggingface.co/microsoft/OmniParser-v2.0) |
 | Updated8 days ago | 908 | OpenGVLab/ScaleCUA-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/OpenGVLab/ScaleCUA-7B) |
+| Updated1 day ago | 908 | ZJU-AI4H/Hulu-Med-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/ZJU-AI4H/Hulu-Med-7B) |
 | Updated1 day ago | 906 | OpenGVLab/InternVL3_5-1BImage-Text-to-Text | 1B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-1B) |
 | 57.2k | 851 | mistralai/Mistral-Small-3 | Updatedabout 11 hours ago | [Link](https://huggingface.co/mistralai/Mistral-Small-3.1-24B-Instruct-2503) |
 | Updatedabout 4 hours ago | 829 | lmms-lab/LLaVA-OneVision-1 | 9B | [Link](https://huggingface.co/lmms-lab/LLaVA-OneVision-1.5-8B-Instruct) |
@@ -1733,6 +1734,7 @@ Updated on 2025-10-26
 | 860k | 376 | Salesforce/blip2-opt-2 | UpdatedFeb 3 | [Link](https://huggingface.co/Salesforce/blip2-opt-2.7b) |
 | Updatedabout 7 hours ago | 365 | stepfun-ai/step3Image-Text-to-Text | 321B | [Link](https://huggingface.co/stepfun-ai/step3) |
 | Updatedabout 2 hours ago | 349 | moondream/moondream3-previewImage-Text-to-Text | 9B | [Link](https://huggingface.co/moondream/moondream3-preview) |
+| Updated1 day ago | 317 | ZJU-AI4H/Hulu-Med-14BImage-Text-to-Text | 15B | [Link](https://huggingface.co/ZJU-AI4H/Hulu-Med-14B) |
 | Updated2 days ago | 311 | Open-Bee/Bee-8B-RLImage-Text-to-Text | 9B | [Link](https://huggingface.co/Open-Bee/Bee-8B-RL) |
 | Updated5 days ago | 302 | Qwen/Qwen3-VL-2B-Thinking-FP8Image-Text-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-2B-Thinking-FP8) |
 | 17.9k | 287 | deepseek-ai/deepseek-vl2Image-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2) |
@@ -2451,6 +2453,7 @@ Updated on 2025-10-26
 | UpdatedMay 24 | 137 | unsloth/Cosmos-Reason1-7BImage-to-Text | 8B | [Link](https://huggingface.co/unsloth/Cosmos-Reason1-7B) |
 | UpdatedJul 22 | 135 | sugiv/cardvaultplus-500m-ggufImage-to-Text | 0.4B | [Link](https://huggingface.co/sugiv/cardvaultplus-500m-gguf) |
 | 1.69k | 134 | xtuner/llava-phi-3-mini-ggufImage-to-Text | UpdatedApr 29, 2024 | [Link](https://huggingface.co/xtuner/llava-phi-3-mini-gguf) |
+| Updated4 days ago | 134 | mlx-community/olmOCR-2-7B-1025-bf16Image-to-Text | 8B | [Link](https://huggingface.co/mlx-community/olmOCR-2-7B-1025-bf16) |
 | UpdatedFeb 25 | 117k | allenai/olmOCR-7B-0225-previewImage-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview) |
 | UpdatedApr 2 | 116k | reducto/RolmOCRImage-to-Text | 8B | [Link](https://huggingface.co/reducto/RolmOCR) |
 | Updated5 days ago | 110 | Svngoku/Qwen3-VL-TimeTravelImage-to-Text | 9B | [Link](https://huggingface.co/Svngoku/Qwen3-VL-TimeTravel) |
@@ -4184,6 +4187,7 @@ Updated on 2025-10-26
 | Updatedabout 24 hours ago | 463 | PowerInfer/SmallThinker-4BA0 | 4B | [Link](https://huggingface.co/PowerInfer/SmallThinker-4BA0.6B-Instruct) |
 | Updatedabout 12 hours ago | 425 | Nikity/lille-130m-instructText | 0.1B | [Link](https://huggingface.co/Nikity/lille-130m-instruct) |
 | Updated2 days ago | 419 | rstar2-reproduce/rStar2-Agent-14BText | 15B | [Link](https://huggingface.co/rstar2-reproduce/rStar2-Agent-14B) |
+| Updatedabout 5 hours ago | 384 | RUC-DataLab/DeepAnalyze-8BText | 8B | [Link](https://huggingface.co/RUC-DataLab/DeepAnalyze-8B) |
 | Updated5 days ago | 376 | NousResearch/Hermes-4-70B-FP8Text | 71B | [Link](https://huggingface.co/NousResearch/Hermes-4-70B-FP8) |
 |  | 356 | Qwen/QwQ-32BText | Updatedabout 8 hours ago | [Link](https://huggingface.co/Qwen/QwQ-32B) |
 | Updatedabout 6 hours ago | 351 | K-intelligence/Midm-2 | 12B | [Link](https://huggingface.co/K-intelligence/Midm-2.0-Base-Instruct) |
@@ -5207,6 +5211,7 @@ Updated on 2025-10-26
 | 22 | Unknown | lrzjason/QwenImage-RebalanceText-to-Image | Updated21 minutes ago | [Link](https://huggingface.co/lrzjason/QwenImage-Rebalance) |
 | 6 | Unknown | DD32/MagicNodesText-to-Image | Updated1 day ago | [Link](https://huggingface.co/DD32/MagicNodes) |
 | 8 | Unknown | spooknik/Jib-Mix-Flux-SVDQText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/spooknik/Jib-Mix-Flux-SVDQ) |
+| 898 |  | Danrisi/2000sAnalogCore_Qwen-imageText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Danrisi/2000sAnalogCore_Qwen-image) |
 
 ## Text-to-Speech
 
