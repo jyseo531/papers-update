@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-10-26
+Updated on 2025-10-27
 
 > Generated from the Hugging Face database.
 
@@ -2420,6 +2420,7 @@ Updated on 2025-10-26
 | 6 | Unknown | Viglong/Orient-AnythingImage-to-Image | UpdatedApr 1 | [Link](https://huggingface.co/Viglong/Orient-Anything) |
 | 6 | Unknown | WithAnyone/WithAnyoneImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/WithAnyone/WithAnyone) |
 | 2 | Unknown | Jiakui/MaskDCPTImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/Jiakui/MaskDCPT) |
+| 96 |  | Kontext-Style/3D_Chibi_loraImage-to-Image | UpdatedJul 5 | [Link](https://huggingface.co/Kontext-Style/3D_Chibi_lora) |
 
 ## Image-to-Text
 
@@ -4556,6 +4557,7 @@ Updated on 2025-10-26
 | Updatedabout 16 hours ago | 8.51k | nvidia/NVIDIA-Nemotron-Nano-12B-v2Text | 12B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-12B-v2) |
 | Updated2 days ago | 7.65k | Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8) |
 | Updatedabout 4 hours ago | 7 | tencent/Hunyuan-7B-InstructText | 8B | [Link](https://huggingface.co/tencent/Hunyuan-7B-Instruct) |
+| Updated4 days ago | 7k | bartowski/cerebras_GLM-4 | 85B | [Link](https://huggingface.co/bartowski/cerebras_GLM-4.5-Air-REAP-82B-A12B-GGUF) |
 | 578k | 6.11k | meta-llama/Meta-Llama-3-8BText | UpdatedSep 27, 2024 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) |
 | Updatedabout 18 hours ago | 6 | apple/sage-ft-mixtral-8x7bText | 47B | [Link](https://huggingface.co/apple/sage-ft-mixtral-8x7b) |
 | Updated5 days ago | 6.94k | mistralai/Devstral-Small-2507_ggufText | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2507_gguf) |
