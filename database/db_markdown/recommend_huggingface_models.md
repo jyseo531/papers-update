@@ -2263,6 +2263,7 @@ Updated on 2025-10-27
 | 1 | 3 | REPA-E/e2e-qwenimage-vaeImage-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/REPA-E/e2e-qwenimage-vae) |
 | 52 | 3 | REPA-E/e2e-flux-vaeImage-to-Image | Updatedabout 13 hours ago | [Link](https://huggingface.co/REPA-E/e2e-flux-vae) |
 | 146 | 3 | chestnutlzj/Edit-R1-FLUX | Updated1 day ago | [Link](https://huggingface.co/chestnutlzj/Edit-R1-FLUX.1-Kontext-dev) |
+|  | 3 | prithivMLmods/Kontext-Watermark-RemoverImage-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/prithivMLmods/Kontext-Watermark-Remover) |
 | 67 | 2 | SherryXTChen/InstructCLIP-InstructPix2PixImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/SherryXTChen/InstructCLIP-InstructPix2Pix) |
 | 17 | 2 | SherryXTChen/Instruct-CLIPImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/SherryXTChen/Instruct-CLIP) |
 | 76 | 2 | VisualCloze/VisualClozePipeline-384Image-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/VisualCloze/VisualClozePipeline-384) |
@@ -2421,6 +2422,8 @@ Updated on 2025-10-27
 | 6 | Unknown | WithAnyone/WithAnyoneImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/WithAnyone/WithAnyone) |
 | 2 | Unknown | Jiakui/MaskDCPTImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/Jiakui/MaskDCPT) |
 | 96 |  | Kontext-Style/3D_Chibi_loraImage-to-Image | UpdatedJul 5 | [Link](https://huggingface.co/Kontext-Style/3D_Chibi_lora) |
+| 51 | Unknown | dx8152/RelightImage-to-Image | Updated1 minute ago | [Link](https://huggingface.co/dx8152/Relight) |
+| 31 | Unknown | dx8152/White_to_SceneImage-to-Image | Updated19 minutes ago | [Link](https://huggingface.co/dx8152/White_to_Scene) |
 
 ## Image-to-Text
 
