@@ -2632,6 +2632,7 @@ Updated on 2025-10-27
 | 6 | 2 | mychen76/invoices-donut-v1Image-to-Text | UpdatedSep 22, 2023 | [Link](https://huggingface.co/mychen76/invoices-donut-v1) |
 | Updatedabout 1 hour ago | 2 | mradermacher/Nanonets-OCR2-3B-GGUFImage-to-Text | 3B | [Link](https://huggingface.co/mradermacher/Nanonets-OCR2-3B-GGUF) |
 | UpdatedMar 14 | 2.44k | IAMJB/chexpert-mimic-cxr-findings-baselineImage-to-Text | 61.3M | [Link](https://huggingface.co/IAMJB/chexpert-mimic-cxr-findings-baseline) |
+| 92 | 2 | mlx-community/chandra-4bitImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/mlx-community/chandra-4bit) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -4183,6 +4184,7 @@ Updated on 2025-10-27
 |  | 682 | deepseek-ai/DeepSeek-V3-0324Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3-0324) |
 | Updated5 days ago | 663k | lmstudio-community/gpt-oss-20b-MLX-8bitText | 21B | [Link](https://huggingface.co/lmstudio-community/gpt-oss-20b-MLX-8bit) |
 | Updated5 days ago | 661 | LiquidAI/LFM2-700M-GGUFText | 0.7B | [Link](https://huggingface.co/LiquidAI/LFM2-700M-GGUF) |
+| Updatedabout 4 hours ago | 570 | MiniMaxAI/MiniMax-M2Text | 229B | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M2) |
 |  | 565 | deepseek-ai/DeepSeek-R1-0528Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528) |
 | 894k | 486 | deepseek-ai/DeepSeek-R1-Distill-Qwen-7BText | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B) |
 | Updatedabout 24 hours ago | 463 | PowerInfer/SmallThinker-4BA0 | 4B | [Link](https://huggingface.co/PowerInfer/SmallThinker-4BA0.6B-Instruct) |
