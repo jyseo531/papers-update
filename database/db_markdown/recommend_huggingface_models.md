@@ -4236,6 +4236,7 @@ Updated on 2025-10-28
 | 38 | 143 | qihoo360/TinyR1-32B-PreviewText | Updatedabout 17 hours ago | [Link](https://huggingface.co/qihoo360/TinyR1-32B-Preview) |
 | Updated6 days ago | 140 | zerofata/MS3 | 24B | [Link](https://huggingface.co/zerofata/MS3.2-PaintedFantasy-24B) |
 | Updatedabout 10 hours ago | 139 | google/vaultgemma-1bText | 1B | [Link](https://huggingface.co/google/vaultgemma-1b) |
+| Updatedabout 4 hours ago | 138 | AvitoTech/avibeText | 8B | [Link](https://huggingface.co/AvitoTech/avibe) |
 | Updatedabout 6 hours ago | 136 | naver-hyperclovax/HyperCLOVAX-SEED-Think-14BText | 15B | [Link](https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Think-14B) |
 | 324 | 133 | moonshotai/Kimi-Dev-72BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-Dev-72B) |
 | Updatedabout 18 hours ago | 125 | NousResearch/Hermes-4-405BText | 406B | [Link](https://huggingface.co/NousResearch/Hermes-4-405B) |
@@ -5247,6 +5248,7 @@ Updated on 2025-10-28
 | Updated17 days ago | 383 | tensorblock/maya-research_Veena-GGUFText-to-Speech | 4B | [Link](https://huggingface.co/tensorblock/maya-research_Veena-GGUF) |
 | UpdatedSep 1, 2023 | 357 | facebook/mms-tts-uig-script_arabicText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-uig-script_arabic) |
 | 5.64k | 352 | parler-tts/parler_tts_mini_v0 | UpdatedApr 30, 2024 | [Link](https://huggingface.co/parler-tts/parler_tts_mini_v0.1) |
+| Updatedabout 19 hours ago | 330 | kenpath/svara-tts-v1Text-to-Speech | 3B | [Link](https://huggingface.co/kenpath/svara-tts-v1) |
 | UpdatedMay 25, 2024 | 323 | utrobinmv/tts_ru_free_hf_vits_high_multispeakerText-to-Speech | 0.0B | [Link](https://huggingface.co/utrobinmv/tts_ru_free_hf_vits_high_multispeaker) |
 | Updated3 days ago | 279 | sheliak/VibeVoice-Large_MirrorText-to-Speech | 9B | [Link](https://huggingface.co/sheliak/VibeVoice-Large_Mirror) |
 | Updated7 days ago | 278 | aoi-ot/VibeVoice-1 | 3B | [Link](https://huggingface.co/aoi-ot/VibeVoice-1.5B) |
@@ -5314,6 +5316,7 @@ Updated on 2025-10-28
 | 6 | 13 | OuteAI/Llama-OuteTTS-1 | Updatedabout 2 hours ago | [Link](https://huggingface.co/OuteAI/Llama-OuteTTS-1.0-1B) |
 | Updated5 days ago | 13 | OmniAICreator/Galgame-Llasa-3BText-to-Speech | 4B | [Link](https://huggingface.co/OmniAICreator/Galgame-Llasa-3B) |
 | 9 | 13 | hi-paris/ssml-breaks2ssml-fr-loraText-to-Speech | Updatedabout 3 hours ago | [Link](https://huggingface.co/hi-paris/ssml-breaks2ssml-fr-lora) |
+| Updatedabout 8 hours ago | 13 | Soul-AILab/SoulX-Podcast-1 | 2B | [Link](https://huggingface.co/Soul-AILab/SoulX-Podcast-1.7B) |
 | 73 | 12 | geneing/KokoroText-to-Speech | UpdatedJan 10 | [Link](https://huggingface.co/geneing/Kokoro) |
 | 125 | 12 | Kamtera/persian-tts-female-vitsText-to-Speech | UpdatedMar 19, 2023 | [Link](https://huggingface.co/Kamtera/persian-tts-female-vits) |
 | 109 | 11 | NeuroDonu/RU-XTTS-DonuModelText-to-Speech | UpdatedMay 1, 2024 | [Link](https://huggingface.co/NeuroDonu/RU-XTTS-DonuModel) |
