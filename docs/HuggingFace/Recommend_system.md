@@ -4624,6 +4624,7 @@ Updated on 2025-10-29
 | Updated3 days ago | 1.8k | Manojb/Qwen3-4B-toolcalling-gguf-codexText | 4B | [Link](https://huggingface.co/Manojb/Qwen3-4B-toolcalling-gguf-codex) |
 | Updatedabout 11 hours ago | 1 | inclusionAI/Ling-1TText | 1000B | [Link](https://huggingface.co/inclusionAI/Ling-1T) |
 | Updatedabout 5 hours ago | 1.52k | Kwaipilot/KAT-Dev-72B-ExpText | 73B | [Link](https://huggingface.co/Kwaipilot/KAT-Dev-72B-Exp) |
+| Updatedabout 1 hour ago | 1.21k | openai/gpt-oss-safeguard-20bText | 22B | [Link](https://huggingface.co/openai/gpt-oss-safeguard-20b) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
