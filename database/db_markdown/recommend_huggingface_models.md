@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-10-28
+Updated on 2025-10-29
 
 > Generated from the Hugging Face database.
 
@@ -1775,6 +1775,7 @@ Updated on 2025-10-28
 | Updated2 days ago | 87 | INSAIT-Institute/MamayLM-Gemma-3-4B-IT-v1 | 4B | [Link](https://huggingface.co/INSAIT-Institute/MamayLM-Gemma-3-4B-IT-v1.0) |
 | Updated20 days ago | 81.8k | zai-org/GLM-4 | 10B | [Link](https://huggingface.co/zai-org/GLM-4.1V-9B-Thinking) |
 | 10.9k | 80 | ibm-granite/granite-vision-3 | Updatedabout 7 hours ago | [Link](https://huggingface.co/ibm-granite/granite-vision-3.1-2b-preview) |
+| Updated6 days ago | 77 | AvitoTech/avisionImage-Text-to-Text | 7B | [Link](https://huggingface.co/AvitoTech/avision) |
 | Updated5 days ago | 73 | neovateai/UI-UG-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/neovateai/UI-UG-7B) |
 | 1.06k | 71 | AIDC-AI/Ovis2-16BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-16B) |
 | Updatedabout 8 hours ago | 71.1k | Qwen/Qwen3-VL-30B-A3B-Thinking-FP8Image-Text-to-Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Thinking-FP8) |
@@ -2437,6 +2438,7 @@ Updated on 2025-10-28
 | UpdatedApr 28 | 631 | Hyphonical/Pixtral-12B-Captioner-Relaxed-Q4_K_M-GGUFImage-to-Text | 12B | [Link](https://huggingface.co/Hyphonical/Pixtral-12B-Captioner-Relaxed-Q4_K_M-GGUF) |
 | UpdatedJan 29 | 586 | chatpig/llava-llama3Image-to-Text | 8B | [Link](https://huggingface.co/chatpig/llava-llama3) |
 | Updated1 day ago | 570 | HelloKKMe/GTA1-7BImage-to-Text | 8B | [Link](https://huggingface.co/HelloKKMe/GTA1-7B) |
+| Updated5 days ago | 552 | thesby/Qwen3-VL-8B-NSFW-Caption-V4Image-to-Text | 9B | [Link](https://huggingface.co/thesby/Qwen3-VL-8B-NSFW-Caption-V4) |
 | UpdatedApr 24, 2024 | 541 | unum-cloud/uform-gen2-dpoImage-to-Text | 1B | [Link](https://huggingface.co/unum-cloud/uform-gen2-dpo) |
 | UpdatedApr 20, 2024 | 537 | toshi456/llava-jp-1 | 2B | [Link](https://huggingface.co/toshi456/llava-jp-1.3b-v1.1) |
 | Updated4 days ago | 485 | mradermacher/Qwen2 | 8B | [Link](https://huggingface.co/mradermacher/Qwen2.5-VL-7B-Abliterated-Caption-it-GGUF) |
@@ -4569,6 +4571,7 @@ Updated on 2025-10-28
 | Updated2 days ago | 7.65k | Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8) |
 | Updatedabout 4 hours ago | 7 | tencent/Hunyuan-7B-InstructText | 8B | [Link](https://huggingface.co/tencent/Hunyuan-7B-Instruct) |
 | Updated4 days ago | 7k | bartowski/cerebras_GLM-4 | 85B | [Link](https://huggingface.co/bartowski/cerebras_GLM-4.5-Air-REAP-82B-A12B-GGUF) |
+| UpdatedDec 9, 2024 | 7.08k | utter-project/EuroLLM-9BText | 9B | [Link](https://huggingface.co/utter-project/EuroLLM-9B) |
 | 578k | 6.11k | meta-llama/Meta-Llama-3-8BText | UpdatedSep 27, 2024 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) |
 | Updatedabout 18 hours ago | 6 | apple/sage-ft-mixtral-8x7bText | 47B | [Link](https://huggingface.co/apple/sage-ft-mixtral-8x7b) |
 | Updated5 days ago | 6.94k | mistralai/Devstral-Small-2507_ggufText | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2507_gguf) |
@@ -5673,6 +5676,7 @@ Updated on 2025-10-28
 | 2 | Unknown | artificialguybr/FollowCam-Redmond-WAN2-T2V-14BText-to-Video | Updatedabout 7 hours ago | [Link](https://huggingface.co/artificialguybr/FollowCam-Redmond-WAN2-T2V-14B) |
 | 2 | Unknown | aquif-ai/aquif-Dream-6B-ExpText-to-Video | Updated2 days ago | [Link](https://huggingface.co/aquif-ai/aquif-Dream-6B-Exp) |
 | 72 | Unknown | meituan-longcat/LongCat-VideoText-to-Video | Updatedabout 9 hours ago | [Link](https://huggingface.co/meituan-longcat/LongCat-Video) |
+| 6 | Unknown | yhzhai/mcmText-to-Video | UpdatedJun 16, 2024 | [Link](https://huggingface.co/yhzhai/mcm) |
 
 ## Text2Text Generation
 
