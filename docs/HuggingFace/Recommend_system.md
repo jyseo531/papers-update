@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-10-29
+Updated on 2025-10-30
 
 > Generated from the Hugging Face database.
 
@@ -1716,6 +1716,7 @@ Updated on 2025-10-29
 
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
+| Updated1 day ago | 941 | nvidia/NVIDIA-Nemotron-Nano-12B-v2-VL-BF16Image-Text-to-Text | 13B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-12B-v2-VL-BF16) |
 | 109k | 939 | openbmb/MiniCPM-V-2_6Image-Text-to-Text | UpdatedJan 15 | [Link](https://huggingface.co/openbmb/MiniCPM-V-2_6) |
 | 4.89k | 934 | microsoft/OmniParser-v2 | Updated7 days ago | [Link](https://huggingface.co/microsoft/OmniParser-v2.0) |
 | Updated8 days ago | 908 | OpenGVLab/ScaleCUA-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/OpenGVLab/ScaleCUA-7B) |
@@ -4243,6 +4244,7 @@ Updated on 2025-10-29
 | 2.25k | 153 | open-thoughts/OpenThinker-32BText | Updated11 days ago | [Link](https://huggingface.co/open-thoughts/OpenThinker-32B) |
 | Updatedabout 4 hours ago | 153 | Qwen/Qwen3Guard-Gen-8BText | 8B | [Link](https://huggingface.co/Qwen/Qwen3Guard-Gen-8B) |
 | Updatedabout 4 hours ago | 151 | moondream/moondream3-previewText | 9B | [Link](https://huggingface.co/moondream/moondream3-preview) |
+| Updatedabout 15 hours ago | 149 | openai/gpt-oss-safeguard-120bText | 120B | [Link](https://huggingface.co/openai/gpt-oss-safeguard-120b) |
 | 38 | 143 | qihoo360/TinyR1-32B-PreviewText | Updatedabout 17 hours ago | [Link](https://huggingface.co/qihoo360/TinyR1-32B-Preview) |
 | Updated6 days ago | 140 | zerofata/MS3 | 24B | [Link](https://huggingface.co/zerofata/MS3.2-PaintedFantasy-24B) |
 | Updatedabout 10 hours ago | 139 | google/vaultgemma-1bText | 1B | [Link](https://huggingface.co/google/vaultgemma-1b) |
@@ -4977,6 +4979,7 @@ Updated on 2025-10-29
 | 15.9k | 65 | neta-art/Neta-LuminaText-to-Image | Updated7 minutes ago | [Link](https://huggingface.co/neta-art/Neta-Lumina) |
 | 3.27M | 64 | stable-diffusion-v1-5/stable-diffusion-inpaintingText-to-Image | UpdatedSep 6, 2024 | [Link](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-inpainting) |
 | 8.42k | 59 | cyberdelia/CyberRealisticPonyText-to-Image | Updated3 days ago | [Link](https://huggingface.co/cyberdelia/CyberRealisticPony) |
+| 328 | 54 | briaai/FIBOText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/briaai/FIBO) |
 | 36 | 51 | THUDM/CogView4-6BText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/THUDM/CogView4-6B) |
 | Updatedabout 9 hours ago | 51 | tencent/HunyuanImage-3 | 83B | [Link](https://huggingface.co/tencent/HunyuanImage-3.0) |
 | 87 | 44 | Freepik/F-LiteText-to-Image | Updatedabout 15 hours ago | [Link](https://huggingface.co/Freepik/F-Lite) |
@@ -5427,6 +5430,7 @@ Updated on 2025-10-29
 | UpdatedApr 16 | 1.2k | Karayakar/Orpheus-TTS-Turkish-PT-5000Text-to-Speech | 3B | [Link](https://huggingface.co/Karayakar/Orpheus-TTS-Turkish-PT-5000) |
 | UpdatedMay 2 | 1.51k | 11mlabs/indri-0 | 0.1B | [Link](https://huggingface.co/11mlabs/indri-0.1-124m-tts) |
 | UpdatedSep 8 | 1.87k | gguf-org/vibevoice-ggufText-to-Speech | 3B | [Link](https://huggingface.co/gguf-org/vibevoice-gguf) |
+| UpdatedMar 24 | 1.09k | lex-au/Orpheus-3b-FT-Q4_K_M | 4B | [Link](https://huggingface.co/lex-au/Orpheus-3b-FT-Q4_K_M.gguf) |
 | 302 | Unknown | lj1995/GPT-SoVITSText-to-Speech | Updated14 days ago | [Link](https://huggingface.co/lj1995/GPT-SoVITS) |
 | 436 | Unknown | myshell-ai/OpenVoiceText-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoice) |
 | 365 | Unknown | myshell-ai/OpenVoiceV2Text-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoiceV2) |
