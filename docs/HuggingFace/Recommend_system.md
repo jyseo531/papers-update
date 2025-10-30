@@ -35,6 +35,7 @@ Updated on 2025-10-30
 | Updatedabout 6 hours ago | 39 | inclusionAI/MingTok-VisionAny-to-Any | 0.7B | [Link](https://huggingface.co/inclusionAI/MingTok-Vision) |
 | 16.8k | 38 | openbmb/MiniCPM-o-2_6-int4Any-to-Any | UpdatedJan 22 | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6-int4) |
 | Updatedabout 6 hours ago | 37 | inclusionAI/Ming-UniVision-16B-A3BAny-to-Any | 19B | [Link](https://huggingface.co/inclusionAI/Ming-UniVision-16B-A3B) |
+| Updated14 days ago | 37 | sensefvg/InteractiveOmni-8BAny-to-Any | 10B | [Link](https://huggingface.co/sensefvg/InteractiveOmni-8B) |
 | 94 | 34 | EPFL-VILAB/4M-21_XLAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-21_XL) |
 | Updated14 days ago | 29 | multimodal-reasoning-lab/Anole-Zebra-CoTAny-to-Any | 7B | [Link](https://huggingface.co/multimodal-reasoning-lab/Anole-Zebra-CoT) |
 | Updated4 days ago | 29 | PaDT-MLLM/PaDT_Pro_7BAny-to-Any | 8B | [Link](https://huggingface.co/PaDT-MLLM/PaDT_Pro_7B) |
@@ -1811,6 +1812,7 @@ Updated on 2025-10-30
 | 22.7k | 46 | OpenGVLab/InternVL2_5-8B-MPOImage-Text-to-Text | Updated30 days ago | [Link](https://huggingface.co/OpenGVLab/InternVL2_5-8B-MPO) |
 | 2.74k | 45 | OpenGVLab/InternVL2_5-78B-MPOImage-Text-to-Text | UpdatedFeb 5 | [Link](https://huggingface.co/OpenGVLab/InternVL2_5-78B-MPO) |
 | 1.59k | 44 | meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8Image-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8) |
+| Updatedabout 10 hours ago | 44 | internlm/JanusCoder-14BImage-Text-to-Text | 15B | [Link](https://huggingface.co/internlm/JanusCoder-14B) |
 | Updatedabout 3 hours ago | 43 | OpenGVLab/InternVL3_5-241B-A28B-InstructImage-Text-to-Text | 241B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-241B-A28B-Instruct) |
 | Updatedabout 21 hours ago | 43 | ZJU-AI4H/Hulu-Med-32BImage-Text-to-Text | 33B | [Link](https://huggingface.co/ZJU-AI4H/Hulu-Med-32B) |
 | Updatedabout 11 hours ago | 41 | OpenGVLab/InternVL3_5-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-4B) |
@@ -1856,6 +1858,7 @@ Updated on 2025-10-30
 | 667 | 24 | nvidia/Eagle2-2BImage-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/nvidia/Eagle2-2B) |
 | Updatedabout 4 hours ago | 24 | Hcompany/Holo1 | 8B | [Link](https://huggingface.co/Hcompany/Holo1.5-7B) |
 | Updatedabout 4 hours ago | 23 | openbmb/MiniCPM-V-4_5Image-Text-to-Text | 9B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4_5) |
+| Updatedabout 10 hours ago | 23 | internlm/JanusCoderV-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/internlm/JanusCoderV-7B) |
 | 27 | 22 | ByteDance-Seed/UI-TARS-1 | Updated14 minutes ago | [Link](https://huggingface.co/ByteDance-Seed/UI-TARS-1.5-7B) |
 | Updatedabout 8 hours ago | 22 | Qwen/Qwen3-VL-32B-ThinkingImage-Text-to-Text | 33B | [Link](https://huggingface.co/Qwen/Qwen3-VL-32B-Thinking) |
 | 9 | 21 | Skywork/Skywork-R1V-38BImage-Text-to-Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/Skywork/Skywork-R1V-38B) |
@@ -2209,6 +2212,7 @@ Updated on 2025-10-30
 | 270 | 10 | drbaph/Fluffy-kontext-LoRAImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/drbaph/Fluffy-kontext-LoRA) |
 | 4 | 10 | bytedance-research/USOImage-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/bytedance-research/USO) |
 | 467 | 10 | buildborderless/FLUX | UpdatedJul 14 | [Link](https://huggingface.co/buildborderless/FLUX.MF-Kontext_Lightning-8s-4bit_nf4) |
+| 36 | 10 | nvidia/ChronoEdit-14B-DiffusersImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/nvidia/ChronoEdit-14B-Diffusers) |
 | 11 | 9 | keras-io/conditional-ganImage-to-Image | UpdatedJul 5, 2024 | [Link](https://huggingface.co/keras-io/conditional-gan) |
 | 10.5k | 9 | hafsa000/interior-designImage-to-Image | UpdatedMay 16, 2024 | [Link](https://huggingface.co/hafsa000/interior-design) |
 |  | 9 | ilkerzgi/Overlay-Kontext-Dev-LoRAImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/ilkerzgi/Overlay-Kontext-Dev-LoRA) |
@@ -2243,6 +2247,7 @@ Updated on 2025-10-30
 | 18 | 4 | TsienDragon/qwen-image-edit-lora-face-segmentationImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/TsienDragon/qwen-image-edit-lora-face-segmentation) |
 |  | 4 | chflame163/kontext_hiresImage-to-Image | Updatedabout 15 hours ago | [Link](https://huggingface.co/chflame163/kontext_hires) |
 | 371 | 4 | ovedrive/Qwen-Image-Edit-2509-4bitImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/ovedrive/Qwen-Image-Edit-2509-4bit) |
+| 78 | 4 | valiantcat/Qwen-Image-Edit-2509-photousImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/valiantcat/Qwen-Image-Edit-2509-photous) |
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
@@ -5240,6 +5245,7 @@ Updated on 2025-10-30
 | 6 | Unknown | DD32/MagicNodesText-to-Image | Updated1 day ago | [Link](https://huggingface.co/DD32/MagicNodes) |
 | 8 | Unknown | spooknik/Jib-Mix-Flux-SVDQText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/spooknik/Jib-Mix-Flux-SVDQ) |
 | 898 |  | Danrisi/2000sAnalogCore_Qwen-imageText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Danrisi/2000sAnalogCore_Qwen-image) |
+| 74 | Unknown | xiabs/DreamOmni2Text-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/xiabs/DreamOmni2) |
 
 ## Text-to-Speech
 
@@ -5252,6 +5258,7 @@ Updated on 2025-10-30
 | 155k | 733 | microsoft/speecht5_ttsText-to-Speech | UpdatedNov 8, 2023 | [Link](https://huggingface.co/microsoft/speecht5_tts) |
 | Updatedabout 4 hours ago | 695 | nineninesix/kani-tts-370m-MLXText-to-Speech | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-370m-MLX) |
 | Updated9 days ago | 679 | snorbyte/snorTTS-Indic-v0Text-to-Speech | 4B | [Link](https://huggingface.co/snorbyte/snorTTS-Indic-v0) |
+| Updated1 day ago | 646 | nineninesix/kani-tts-400m-0 | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-400m-0.3-pt) |
 | Updatedabout 9 hours ago | 515 | bosonai/higgs-audio-v2-generation-3B-baseText-to-Speech | 6B | [Link](https://huggingface.co/bosonai/higgs-audio-v2-generation-3B-base) |
 | 11.8k | 480 | fishaudio/fish-speech-1 | UpdatedDec 3, 2024 | [Link](https://huggingface.co/fishaudio/fish-speech-1.5) |
 | 5.67k | 478 | nari-labs/Dia-1 | Updatedabout 9 hours ago | [Link](https://huggingface.co/nari-labs/Dia-1.6B) |
