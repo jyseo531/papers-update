@@ -1790,6 +1790,7 @@ Updated on 2025-10-31
 | Updated5 days ago | 70 | smolagents/SmolVLM2-2 | 2B | [Link](https://huggingface.co/smolagents/SmolVLM2-2.2B-Instruct-Agentic-GUI) |
 | 89 | 69 | CohereForAI/aya-vision-8bImage-Text-to-Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/CohereForAI/aya-vision-8b) |
 | 174 | 68 | VIDraft/Gemma-3-R1984-27BImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/VIDraft/Gemma-3-R1984-27B) |
+| Updated1 day ago | 67 | internlm/JanusCoder-8BImage-Text-to-Text | 8B | [Link](https://huggingface.co/internlm/JanusCoder-8B) |
 | 275 | 66 | microsoft/Magma-8BImage-Text-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/microsoft/Magma-8B) |
 | Updatedabout 13 hours ago | 66 | openbmb/MiniCPM-V-4Image-Text-to-Text | 4B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4) |
 | 1.47k | 64 | AIDC-AI/Ovis2-1BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-1B) |
@@ -4202,6 +4203,7 @@ Updated on 2025-10-31
 
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
+| Updatedabout 21 hours ago | 971 | marin-community/marin-32b-baseText | 33B | [Link](https://huggingface.co/marin-community/marin-32b-base) |
 | UpdatedSep 9 | 924k | inference-net/Schematron-3BText | 3B | [Link](https://huggingface.co/inference-net/Schematron-3B) |
 | 4.08M | 912 | unsloth/DeepSeek-R1-GGUFText | Updated12 days ago | [Link](https://huggingface.co/unsloth/DeepSeek-R1-GGUF) |
 | Updatedabout 8 hours ago | 886 | KORMo-Team/KORMo-10B-baseText | 11B | [Link](https://huggingface.co/KORMo-Team/KORMo-10B-base) |
@@ -4266,6 +4268,7 @@ Updated on 2025-10-31
 | Updated1 day ago | 119 | LiquidAI/LFM2-350M-ExtractText | 0.4B | [Link](https://huggingface.co/LiquidAI/LFM2-350M-Extract) |
 | Updated7 days ago | 119 | gustavecortal/Beck-8BText | 8B | [Link](https://huggingface.co/gustavecortal/Beck-8B) |
 | Updatedabout 11 hours ago | 115 | mistralai/Devstral-Small-2507Text | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2507) |
+| Updatedabout 10 hours ago | 112 | nvidia/Qwen3-Nemotron-32B-RLBFFText | 33B | [Link](https://huggingface.co/nvidia/Qwen3-Nemotron-32B-RLBFF) |
 | Updated1 day ago | 111 | moelanoby/phi-3-M3-coderText | 4B | [Link](https://huggingface.co/moelanoby/phi-3-M3-coder) |
 | Updated4 days ago | 110 | LatitudeGames/Wayfarer-2-12BText | 12B | [Link](https://huggingface.co/LatitudeGames/Wayfarer-2-12B) |
 | 176 | 109 | nvidia/DeepSeek-R1-FP4Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/nvidia/DeepSeek-R1-FP4) |
@@ -4522,6 +4525,7 @@ Updated on 2025-10-31
 | Updatedabout 1 hour ago | 20 | PowerInfer/SmallThinker-21BA3B-InstructText | 22B | [Link](https://huggingface.co/PowerInfer/SmallThinker-21BA3B-Instruct) |
 | Updatedabout 13 hours ago | 20 | nvidia/NVIDIA-Nemotron-Nano-12B-v2-BaseText | 12B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-12B-v2-Base) |
 | Updatedabout 22 hours ago | 20 | openbmb/MiniCPM4 | 8B | [Link](https://huggingface.co/openbmb/MiniCPM4.1-8B) |
+| 94 | 20 | ByteDance/Ouro-1 | Updated2 days ago | [Link](https://huggingface.co/ByteDance/Ouro-1.4B) |
 | 14.1k | 19 | alamios/Mistral-Small-3 | Updated10 days ago | [Link](https://huggingface.co/alamios/Mistral-Small-3.1-DRAFT-0.5B) |
 | 358 | 19 | all-hands/openhands-lm-7b-v0 | Updated1 day ago | [Link](https://huggingface.co/all-hands/openhands-lm-7b-v0.1) |
 | 105 | 19 | nvidia/OpenCodeReasoning-Nemotron-32B-IOIText | Updated6 days ago | [Link](https://huggingface.co/nvidia/OpenCodeReasoning-Nemotron-32B-IOI) |
@@ -4997,6 +5001,7 @@ Updated on 2025-10-31
 | 5.59k | 33 | hashu786/HYVRewardText-to-Image | Updated5 days ago | [Link](https://huggingface.co/hashu786/HYVReward) |
 | 2.49k | 33 | Heartsync/NSFW-UncensoredText-to-Image | Updated7 days ago | [Link](https://huggingface.co/Heartsync/NSFW-Uncensored) |
 | 145 | 28 | ByteDance/XVerseText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/ByteDance/XVerse) |
+| 41 | 26 | SG161222/SPARK | Updatedabout 17 hours ago | [Link](https://huggingface.co/SG161222/SPARK.Chroma_preview) |
 | 8 | 22 | nunchaku-tech/nunchaku-qwen-image-edit-2509Text-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-qwen-image-edit-2509) |
 | Updatedabout 14 hours ago | 22 | purplesmartai/pony-v7-baseText-to-Image | 7B | [Link](https://huggingface.co/purplesmartai/pony-v7-base) |
 | 5.26k | 20 | mit-han-lab/svdq-int4-flux | Updated22 days ago | [Link](https://huggingface.co/mit-han-lab/svdq-int4-flux.1-dev) |
@@ -5091,6 +5096,7 @@ Updated on 2025-10-31
 | 387k | 1.66k | h94/IP-Adapter-FaceIDText-to-Image | UpdatedApr 16, 2024 | [Link](https://huggingface.co/h94/IP-Adapter-FaceID) |
 | Updated6 days ago | 1.58k | QuantStack/Chroma1-HD-GGUFText-to-Image | 9B | [Link](https://huggingface.co/QuantStack/Chroma1-HD-GGUF) |
 | Updated4 days ago | 1.3k | wikeeyang/Qwen-Image-Pruning-for-ComfyUIText-to-Image | 14B | [Link](https://huggingface.co/wikeeyang/Qwen-Image-Pruning-for-ComfyUI) |
+| UpdatedSep 25 | 1.62k | wikeeyang/Real-Qwen-Image-v1 | 20B | [Link](https://huggingface.co/wikeeyang/Real-Qwen-Image-v1.0) |
 | 1.84M |  | black-forest-labs/FLUX | UpdatedAug 16, 2024 | [Link](https://huggingface.co/black-forest-labs/FLUX.1-dev) |
 | 268k |  | stabilityai/stable-diffusion-3 | UpdatedOct 22, 2024 | [Link](https://huggingface.co/stabilityai/stable-diffusion-3.5-large) |
 | 3.52M |  | stabilityai/stable-diffusion-xl-base-1 | UpdatedOct 30, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) |
