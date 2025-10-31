@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-10-30
+Updated on 2025-10-31
 
 > Generated from the Hugging Face database.
 
@@ -32,6 +32,7 @@ Updated on 2025-10-30
 | UpdatedAug 20 | 64 | Frane92O/Qwen2 | 8B | [Link](https://huggingface.co/Frane92O/Qwen2.5-Omni-7B-Q4_0-GGUF) |
 | Updated1 day ago | 53 | cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-4bitAny-to-Any | 6B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-4bit) |
 | 32.5k | 44 | onnx-community/Janus-Pro-1B-ONNXAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/onnx-community/Janus-Pro-1B-ONNX) |
+| 1 | 42 | lehduong/OneDiffusionAny-to-Any | UpdatedJul 24 | [Link](https://huggingface.co/lehduong/OneDiffusion) |
 | Updatedabout 6 hours ago | 39 | inclusionAI/MingTok-VisionAny-to-Any | 0.7B | [Link](https://huggingface.co/inclusionAI/MingTok-Vision) |
 | 16.8k | 38 | openbmb/MiniCPM-o-2_6-int4Any-to-Any | UpdatedJan 22 | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6-int4) |
 | Updatedabout 6 hours ago | 37 | inclusionAI/Ming-UniVision-16B-A3BAny-to-Any | 19B | [Link](https://huggingface.co/inclusionAI/Ming-UniVision-16B-A3B) |
@@ -1726,6 +1727,7 @@ Updated on 2025-10-30
 | 57.2k | 851 | mistralai/Mistral-Small-3 | Updatedabout 11 hours ago | [Link](https://huggingface.co/mistralai/Mistral-Small-3.1-24B-Instruct-2503) |
 | Updatedabout 4 hours ago | 829 | lmms-lab/LLaVA-OneVision-1 | 9B | [Link](https://huggingface.co/lmms-lab/LLaVA-OneVision-1.5-8B-Instruct) |
 | Updated3 days ago | 759 | Qwen/Qwen3-VL-2B-Instruct-FP8Image-Text-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct-FP8) |
+| Updated14 days ago | 681 | ByteDance/Dolphin-1 | 0.4B | [Link](https://huggingface.co/ByteDance/Dolphin-1.5) |
 |  | 615 | mistralai/Pixtral-12B-2409Image-Text-to-Text | UpdatedDec 26, 2024 | [Link](https://huggingface.co/mistralai/Pixtral-12B-2409) |
 | Updatedabout 12 hours ago | 598 | deepcogito/cogito-v2-preview-llama-109B-MoEImage-Text-to-Text | 109B | [Link](https://huggingface.co/deepcogito/cogito-v2-preview-llama-109B-MoE) |
 | 1.67M | 546 | Qwen/Qwen2 | Updated10 days ago | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct) |
@@ -1774,6 +1776,7 @@ Updated on 2025-10-30
 | 500 | 99 | meta-llama/Llama-4-Maverick-17B-128E-InstructImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct) |
 | 1.15k | 98 | ContactDoctor/Bio-Medical-MultiModal-Llama-3-8B-V1Image-Text-to-Text | UpdatedOct 17, 2024 | [Link](https://huggingface.co/ContactDoctor/Bio-Medical-MultiModal-Llama-3-8B-V1) |
 | Updatedabout 8 hours ago | 98.8k | Qwen/Qwen3-VL-30B-A3B-InstructImage-Text-to-Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Instruct) |
+| Updatedabout 23 hours ago | 98 | internlm/JanusCoderV-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/internlm/JanusCoderV-8B) |
 | Updatedabout 4 hours ago | 96 | AIDC-AI/Ovis2 | 9B | [Link](https://huggingface.co/AIDC-AI/Ovis2.5-9B) |
 | Updated5 days ago | 96 | prithivMLmods/DeepCaption-VLA-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/prithivMLmods/DeepCaption-VLA-7B) |
 | 1.69k | 88 | google/gemma-3n-E4B-itImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/google/gemma-3n-E4B-it) |
@@ -2440,6 +2443,7 @@ Updated on 2025-10-30
 | 32 | Unknown | dx8152/Fusion_loraImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/dx8152/Fusion_lora) |
 | 8 | Unknown | dx8152/White_film_to_renderingImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/dx8152/White_film_to_rendering) |
 | 3 | Unknown | dx8152/Qwen-Edit-2509Image-to-Image | Updated2 days ago | [Link](https://huggingface.co/dx8152/Qwen-Edit-2509) |
+| 5 | Unknown | dx8152/Qwen-Edit-2509-workflowImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/dx8152/Qwen-Edit-2509-workflow) |
 
 ## Image-to-Text
 
@@ -5246,6 +5250,7 @@ Updated on 2025-10-30
 | 8 | Unknown | spooknik/Jib-Mix-Flux-SVDQText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/spooknik/Jib-Mix-Flux-SVDQ) |
 | 898 |  | Danrisi/2000sAnalogCore_Qwen-imageText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Danrisi/2000sAnalogCore_Qwen-image) |
 | 74 | Unknown | xiabs/DreamOmni2Text-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/xiabs/DreamOmni2) |
+| 6 | Unknown | OPPOer/Qwen-Image-10BText-to-Image | Updatedabout 13 hours ago | [Link](https://huggingface.co/OPPOer/Qwen-Image-10B) |
 
 ## Text-to-Speech
 
@@ -5612,6 +5617,7 @@ Updated on 2025-10-30
 |  | 2 | akhaliq/veo3 | Updated2 days ago | [Link](https://huggingface.co/akhaliq/veo3.1-fast) |
 | 5 | 2 | artificialguybr/OffSeasonSanta-Redmond-WAN2-T2V-14BText-to-Video | Updatedabout 20 hours ago | [Link](https://huggingface.co/artificialguybr/OffSeasonSanta-Redmond-WAN2-T2V-14B) |
 | 43 | 2 | guoyww/animatediff-motion-lora-rolling-clockwiseText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-rolling-clockwise) |
+| Updatedabout 6 hours ago | 2 | QuantStack/HoloCine-GGUFText-to-Video | 14B | [Link](https://huggingface.co/QuantStack/HoloCine-GGUF) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
