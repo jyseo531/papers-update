@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-10-31
+Updated on 2025-11-01
 
 > Generated from the Hugging Face database.
 
@@ -2445,6 +2445,7 @@ Updated on 2025-10-31
 | 8 | Unknown | dx8152/White_film_to_renderingImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/dx8152/White_film_to_rendering) |
 | 3 | Unknown | dx8152/Qwen-Edit-2509Image-to-Image | Updated2 days ago | [Link](https://huggingface.co/dx8152/Qwen-Edit-2509) |
 | 5 | Unknown | dx8152/Qwen-Edit-2509-workflowImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/dx8152/Qwen-Edit-2509-workflow) |
+| 36 | Unknown | dx8152/Qwen-Edit-2509-Multiple-anglesImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/dx8152/Qwen-Edit-2509-Multiple-angles) |
 
 ## Image-to-Text
 
@@ -5257,6 +5258,7 @@ Updated on 2025-10-31
 | 898 |  | Danrisi/2000sAnalogCore_Qwen-imageText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Danrisi/2000sAnalogCore_Qwen-image) |
 | 74 | Unknown | xiabs/DreamOmni2Text-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/xiabs/DreamOmni2) |
 | 6 | Unknown | OPPOer/Qwen-Image-10BText-to-Image | Updatedabout 13 hours ago | [Link](https://huggingface.co/OPPOer/Qwen-Image-10B) |
+| 9.2k |  | UmeAiRT/FLUX | UpdatedSep 26, 2024 | [Link](https://huggingface.co/UmeAiRT/FLUX.1-dev-LoRA-Modern_Pixel_art) |
 
 ## Text-to-Speech
 
@@ -5583,6 +5585,7 @@ Updated on 2025-10-31
 | 3 | 3 | FastVideo/FastWan2 | Updatedabout 13 hours ago | [Link](https://huggingface.co/FastVideo/FastWan2.1-T2V-14B-480P-Diffusers) |
 | Updatedabout 9 hours ago | 3 | bullerwins/Wan2 | 14B | [Link](https://huggingface.co/bullerwins/Wan2.2-T2V-A14B-GGUF) |
 | 58 | 3 | BAAI/URSA-1 | Updatedabout 7 hours ago | [Link](https://huggingface.co/BAAI/URSA-1.7B-FSQ320) |
+| 8 | 3 | Efficient-Large-Model/SANA-Video_2B_480pText-to-Video | Updated3 days ago | [Link](https://huggingface.co/Efficient-Large-Model/SANA-Video_2B_480p) |
 | 69 | 2 | obvious-research/onlyflowText-to-Video | Updated5 days ago | [Link](https://huggingface.co/obvious-research/onlyflow) |
 | 42 | 2 | jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIEText-to-Video | Updated7 days ago | [Link](https://huggingface.co/jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIE) |
 | 10 | 2 | vdo/Hotshot-XLText-to-Video | UpdatedOct 4, 2023 | [Link](https://huggingface.co/vdo/Hotshot-XL) |
