@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-11-01
+Updated on 2025-11-02
 
 > Generated from the Hugging Face database.
 
@@ -2007,6 +2007,7 @@ Updated on 2025-11-01
 | UpdatedApr 1 | 2.75k | huihui-ai/Qwen2 | 8B | [Link](https://huggingface.co/huihui-ai/Qwen2.5-VL-7B-Instruct-abliterated) |
 | Updatedabout 13 hours ago | 2 | Qwen/Qwen3-VL-8B-Instruct-FP8Image-Text-to-Text | 9B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct-FP8) |
 | Updated1 day ago | 2 | Qwen/Qwen3-VL-2B-ThinkingImage-Text-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-2B-Thinking) |
+| Updated5 days ago | 2.87k | mlx-community/DeepSeek-OCR-8bitImage-Text-to-Text | 1B | [Link](https://huggingface.co/mlx-community/DeepSeek-OCR-8bit) |
 | 2.72k | 1.62k | microsoft/OmniParserImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/microsoft/OmniParser) |
 | 100k | 1.4k | stepfun-ai/GOT-OCR2_0Image-Text-to-Text | Updated21 days ago | [Link](https://huggingface.co/stepfun-ai/GOT-OCR2_0) |
 | 1.78M | 1.42k | microsoft/Florence-2-largeImage-Text-to-Text | UpdatedDec 8, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-large) |
@@ -4533,6 +4534,7 @@ Updated on 2025-11-01
 | Updatedabout 13 hours ago | 20 | nvidia/NVIDIA-Nemotron-Nano-12B-v2-BaseText | 12B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-12B-v2-Base) |
 | Updatedabout 22 hours ago | 20 | openbmb/MiniCPM4 | 8B | [Link](https://huggingface.co/openbmb/MiniCPM4.1-8B) |
 | 94 | 20 | ByteDance/Ouro-1 | Updated2 days ago | [Link](https://huggingface.co/ByteDance/Ouro-1.4B) |
+| 227 | 20 | ByteDance/Ouro-2 | Updated1 day ago | [Link](https://huggingface.co/ByteDance/Ouro-2.6B) |
 | 14.1k | 19 | alamios/Mistral-Small-3 | Updated10 days ago | [Link](https://huggingface.co/alamios/Mistral-Small-3.1-DRAFT-0.5B) |
 | 358 | 19 | all-hands/openhands-lm-7b-v0 | Updated1 day ago | [Link](https://huggingface.co/all-hands/openhands-lm-7b-v0.1) |
 | 105 | 19 | nvidia/OpenCodeReasoning-Nemotron-32B-IOIText | Updated6 days ago | [Link](https://huggingface.co/nvidia/OpenCodeReasoning-Nemotron-32B-IOI) |
@@ -5290,6 +5292,7 @@ Updated on 2025-11-01
 | Updated17 days ago | 383 | tensorblock/maya-research_Veena-GGUFText-to-Speech | 4B | [Link](https://huggingface.co/tensorblock/maya-research_Veena-GGUF) |
 | UpdatedSep 1, 2023 | 357 | facebook/mms-tts-uig-script_arabicText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-uig-script_arabic) |
 | 5.64k | 352 | parler-tts/parler_tts_mini_v0 | UpdatedApr 30, 2024 | [Link](https://huggingface.co/parler-tts/parler_tts_mini_v0.1) |
+| Updated5 days ago | 342 | mradermacher/SoulX-Podcast-1 | 2B | [Link](https://huggingface.co/mradermacher/SoulX-Podcast-1.7B-GGUF) |
 | Updatedabout 19 hours ago | 330 | kenpath/svara-tts-v1Text-to-Speech | 3B | [Link](https://huggingface.co/kenpath/svara-tts-v1) |
 | UpdatedMay 25, 2024 | 323 | utrobinmv/tts_ru_free_hf_vits_high_multispeakerText-to-Speech | 0.0B | [Link](https://huggingface.co/utrobinmv/tts_ru_free_hf_vits_high_multispeaker) |
 | Updated3 days ago | 279 | sheliak/VibeVoice-Large_MirrorText-to-Speech | 9B | [Link](https://huggingface.co/sheliak/VibeVoice-Large_Mirror) |
@@ -5413,6 +5416,7 @@ Updated on 2025-11-01
 | 47 | 4 | MrEzzat/Spark_TTS_ArabicText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/MrEzzat/Spark_TTS_Arabic) |
 | 75 | 4 | onnx-community/chatterbox-ONNXText-to-Speech | Updatedabout 7 hours ago | [Link](https://huggingface.co/onnx-community/chatterbox-ONNX) |
 | 96 | 4 | onnx-community/chatterbox-multilingual-ONNXText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/onnx-community/chatterbox-multilingual-ONNX) |
+| Updatedabout 13 hours ago | 4 | dinhthuan/neutts-air-viText-to-Speech | 0.6B | [Link](https://huggingface.co/dinhthuan/neutts-air-vi) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 1.22k | 3 | CONCREE/Adia_TTSText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/CONCREE/Adia_TTS) |
