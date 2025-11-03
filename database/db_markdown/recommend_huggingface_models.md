@@ -64,6 +64,7 @@ Updated on 2025-11-03
 | 1.15k | 6 | EPFL-VILAB/4M-21_BAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-21_B) |
 | 186 | 6 | showlab/show-o2-7BAny-to-Any | Updatedabout 9 hours ago | [Link](https://huggingface.co/showlab/show-o2-7B) |
 | Updatedabout 11 hours ago | 6 | Qwen/Qwen3-Omni-30B-A3B-ThinkingAny-to-Any | 32B | [Link](https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Thinking) |
+| 6 | 6 | ThinkMorph/ThinkMorph-7BAny-to-Any | Updatedabout 10 hours ago | [Link](https://huggingface.co/ThinkMorph/ThinkMorph-7B) |
 | 1.63k | 5 | PKU-Alignment/AA-chameleon-7b-plusAny-to-Any | UpdatedSep 13, 2024 | [Link](https://huggingface.co/PKU-Alignment/AA-chameleon-7b-plus) |
 | 2.67k | 5 | Junfeng5/Liquid_V1_7BAny-to-Any | Updated8 days ago | [Link](https://huggingface.co/Junfeng5/Liquid_V1_7B) |
 | 126 | 4 | Alpha-VLLM/Chameleon_7B_mGPTAny-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Chameleon_7B_mGPT) |
@@ -1964,6 +1965,7 @@ Updated on 2025-11-03
 | Updatedabout 1 hour ago | 9 | XiaomiMiMo/MiMo-VL-7B-RL-2508Image-Text-to-Text | 8B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-VL-7B-RL-2508) |
 | Updated2 days ago | 9 | Kwai-Keye/Thyme-RLImage-Text-to-Text | 8B | [Link](https://huggingface.co/Kwai-Keye/Thyme-RL) |
 | Updatedabout 8 hours ago | 9.7k | Qwen/Qwen3-VL-235B-A22B-Instruct-FP8Image-Text-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct-FP8) |
+| Updated3 days ago | 9.24k | unsloth/Qwen3-VL-32B-Instruct-GGUFImage-Text-to-Text | 33B | [Link](https://huggingface.co/unsloth/Qwen3-VL-32B-Instruct-GGUF) |
 | 9.71k | 8 | lmstudio-community/gemma-3-27b-it-GGUFImage-Text-to-Text | Updatedabout 18 hours ago | [Link](https://huggingface.co/lmstudio-community/gemma-3-27b-it-GGUF) |
 | 2.95k | 8 | bartowski/google_gemma-3-4b-it-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF) |
 | 725 | 8 | Mungert/gemma-3-4b-it-ggufImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/Mungert/gemma-3-4b-it-gguf) |
@@ -5100,6 +5102,7 @@ Updated on 2025-11-03
 | 398 | 5 | spooknik/PixelWave-SVDQText-to-Image | Updated3 days ago | [Link](https://huggingface.co/spooknik/PixelWave-SVDQ) |
 | 738 | 5 | spooknik/CyberRealistic-Flux-SVDQText-to-Image | Updated1 day ago | [Link](https://huggingface.co/spooknik/CyberRealistic-Flux-SVDQ) |
 | 49 | 5 | amd/Nitro-EText-to-Image | Updated1 day ago | [Link](https://huggingface.co/amd/Nitro-E) |
+| 122 | 5 | valiantcat/Qwen-Image-Edit-CosplayText-to-Image | Updated3 days ago | [Link](https://huggingface.co/valiantcat/Qwen-Image-Edit-Cosplay) |
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 46 | 4 | Sherwinroger002/fashion_mnist_diffusion_class_conditionalText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Sherwinroger002/fashion_mnist_diffusion_class_conditional) |
 | 2.56k | 3.84k | WarriorMama777/OrangeMixsText-to-Image | UpdatedJan 7, 2024 | [Link](https://huggingface.co/WarriorMama777/OrangeMixs) |
