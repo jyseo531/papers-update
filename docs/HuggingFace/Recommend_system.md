@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-11-02
+Updated on 2025-11-03
 
 > Generated from the Hugging Face database.
 
@@ -1917,6 +1917,7 @@ Updated on 2025-11-02
 | 136 | 12 | bharatgenai/patram-7b-instructImage-Text-to-Text | Updatedabout 19 hours ago | [Link](https://huggingface.co/bharatgenai/patram-7b-instruct) |
 | Updatedabout 14 hours ago | 12 | ibm-granite/granite-docling-258M-mlxImage-Text-to-Text | 0.3B | [Link](https://huggingface.co/ibm-granite/granite-docling-258M-mlx) |
 | Updated1 day ago | 12 | OpenGVLab/ScaleCUA-32BImage-Text-to-Text | 33B | [Link](https://huggingface.co/OpenGVLab/ScaleCUA-32B) |
+| Updated2 days ago | 12.8k | unsloth/Qwen3-VL-30B-A3B-Thinking-GGUFImage-Text-to-Text | 31B | [Link](https://huggingface.co/unsloth/Qwen3-VL-30B-A3B-Thinking-GGUF) |
 | 918 | 11 | mlabonne/gemma-3-27b-it-abliterated-GGUFImage-Text-to-Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-abliterated-GGUF) |
 | 4.38k | 11 | bartowski/mlabonne_gemma-3-27b-it-abliterated-GGUFImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/bartowski/mlabonne_gemma-3-27b-it-abliterated-GGUF) |
 | 862 | 11 | mlabonne/gemma-3-4b-it-abliteratedImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-4b-it-abliterated) |
@@ -2003,6 +2004,7 @@ Updated on 2025-11-02
 | Updatedabout 14 hours ago | 3 | Qwen/Qwen3-VL-8B-ThinkingImage-Text-to-Text | 9B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Thinking) |
 | Updatedabout 13 hours ago | 3 | Qwen/Qwen3-VL-4B-Thinking-FP8Image-Text-to-Text | 5B | [Link](https://huggingface.co/Qwen/Qwen3-VL-4B-Thinking-FP8) |
 | Updatedabout 13 hours ago | 3 | Qwen/Qwen3-VL-4B-Instruct-FP8Image-Text-to-Text | 5B | [Link](https://huggingface.co/Qwen/Qwen3-VL-4B-Instruct-FP8) |
+| Updated2 days ago | 3.35k | huihui-ai/Huihui-Qwen3-VL-4B-Instruct-abliteratedImage-Text-to-Text | 4B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3-VL-4B-Instruct-abliterated) |
 | Updatedabout 7 hours ago | 2.63k | nvidia/Eagle2 | 8B | [Link](https://huggingface.co/nvidia/Eagle2.5-8B) |
 | Updatedabout 7 hours ago | 2 | internlm/Intern-S1-FP8Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1-FP8) |
 | Updated1 day ago | 2.26k | Qwen/Qwen3-VL-235B-A22B-InstructImage-Text-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct) |
@@ -2573,6 +2575,7 @@ Updated on 2025-11-02
 | 22 | 11 | daekeun-ml/ko-trocr-base-nsmc-news-chatbotImage-to-Text | UpdatedOct 5, 2023 | [Link](https://huggingface.co/daekeun-ml/ko-trocr-base-nsmc-news-chatbot) |
 | 2.98k | 11 | kazars24/trocr-base-handwritten-ruImage-to-Text | UpdatedOct 27, 2024 | [Link](https://huggingface.co/kazars24/trocr-base-handwritten-ru) |
 | UpdatedJul 12, 2023 | 11 | nttdataspain/vit-gpt2-stablediffusion2-loraImage-to-Text | 0.3B | [Link](https://huggingface.co/nttdataspain/vit-gpt2-stablediffusion2-lora) |
+| 63 | 11 | onnx-community/Qwen2-VL-2B-InstructImage-to-Text | UpdatedMar 6 | [Link](https://huggingface.co/onnx-community/Qwen2-VL-2B-Instruct) |
 | 68 | 10 | Flova/omr_transformerImage-to-Text | UpdatedOct 5, 2023 | [Link](https://huggingface.co/Flova/omr_transformer) |
 | Updatedabout 17 hours ago | 10 | SauravCh11/Donut-CORDImage-to-Text | 0.2B | [Link](https://huggingface.co/SauravCh11/Donut-CORD) |
 | 13.7k | 10 | TIGER-Lab/VLM2Vec-Qwen2VL-7BImage-to-Text | UpdatedMay 3 | [Link](https://huggingface.co/TIGER-Lab/VLM2Vec-Qwen2VL-7B) |
@@ -5730,6 +5733,7 @@ Updated on 2025-11-02
 | 2 | Unknown | aquif-ai/aquif-Dream-6B-ExpText-to-Video | Updated2 days ago | [Link](https://huggingface.co/aquif-ai/aquif-Dream-6B-Exp) |
 | 72 | Unknown | meituan-longcat/LongCat-VideoText-to-Video | Updatedabout 9 hours ago | [Link](https://huggingface.co/meituan-longcat/LongCat-Video) |
 | 6 | Unknown | yhzhai/mcmText-to-Video | UpdatedJun 16, 2024 | [Link](https://huggingface.co/yhzhai/mcm) |
+| 2 | Unknown | BAAI/URSA-0 | Updatedabout 22 hours ago | [Link](https://huggingface.co/BAAI/URSA-0.6B-FSQ320) |
 
 ## Text2Text Generation
 
