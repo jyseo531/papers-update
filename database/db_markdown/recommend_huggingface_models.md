@@ -2459,6 +2459,7 @@ Updated on 2025-11-04
 | 5 | Unknown | dx8152/Qwen-Edit-2509-workflowImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/dx8152/Qwen-Edit-2509-workflow) |
 | 36 | Unknown | dx8152/Qwen-Edit-2509-Multiple-anglesImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/dx8152/Qwen-Edit-2509-Multiple-angles) |
 | 6 | Unknown | peteromallet/Qwen-Image-Edit-InSceneImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/peteromallet/Qwen-Image-Edit-InScene) |
+| 17 | Unknown | YaoJiefu/multiple-charactersImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/YaoJiefu/multiple-characters) |
 
 ## Image-to-Text
 
@@ -2711,6 +2712,8 @@ Updated on 2025-11-04
 | UpdatedJul 19, 2024 | 1 | mirceatlx/openvla-ft-lora-02-fp16Image-to-Text | 8B | [Link](https://huggingface.co/mirceatlx/openvla-ft-lora-02-fp16) |
 | UpdatedApr 25, 2024 | 1.7k | xtuner/llava-phi-3-mini-hfImage-to-Text | 4B | [Link](https://huggingface.co/xtuner/llava-phi-3-mini-hf) |
 | UpdatedMay 23 | 1 | andreidima/Llama-3 | 11B | [Link](https://huggingface.co/andreidima/Llama-3.2-11B-Vision-Instruct-RoVQA) |
+| 8.52k | 1 | PaddlePaddle/PP-DocBlockLayoutImage-to-Text | UpdatedJul 22 | [Link](https://huggingface.co/PaddlePaddle/PP-DocBlockLayout) |
+| 36 | 1 | PaddlePaddle/PP-DocBee-2BImage-to-Text | UpdatedAug 27 | [Link](https://huggingface.co/PaddlePaddle/PP-DocBee-2B) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -4295,6 +4298,7 @@ Updated on 2025-11-04
 | 1.55k | 102 | Tesslate/UIGEN-T2-7B-Q8_0-GGUFText | Updatedabout 10 hours ago | [Link](https://huggingface.co/Tesslate/UIGEN-T2-7B-Q8_0-GGUF) |
 | Updatedabout 15 hours ago | 102 | cerebras/GLM-4 | 82B | [Link](https://huggingface.co/cerebras/GLM-4.5-Air-REAP-82B-A12B) |
 | 1.24k | 101 | nvidia/Nemotron-Research-Reasoning-Qwen-1 | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/Nemotron-Research-Reasoning-Qwen-1.5B) |
+| 12.5k | 99 | utter-project/EuroLLM-1 | UpdatedNov 27, 2024 | [Link](https://huggingface.co/utter-project/EuroLLM-1.7B) |
 | Updatedabout 3 hours ago | 98 | unsloth/gpt-oss-20b-GGUFText | 21B | [Link](https://huggingface.co/unsloth/gpt-oss-20b-GGUF) |
 | 26.5k | 97 | google/gemma-3n-E2B-it-litert-lmText | Updated13 days ago | [Link](https://huggingface.co/google/gemma-3n-E2B-it-litert-lm) |
 | 2 | 95 | Qwen/Qwen3-30B-A3BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B) |
@@ -5039,6 +5043,7 @@ Updated on 2025-11-04
 | 52 | 13 | codermert/bahartek_fluxxxText-to-Image | Updated4 days ago | [Link](https://huggingface.co/codermert/bahartek_fluxxx) |
 | 713 | 13 | ABDALLALSWAITI/FLUX | Updated3 days ago | [Link](https://huggingface.co/ABDALLALSWAITI/FLUX.1-dev-ControlNet-Union-Pro-2.0-fp8) |
 | Updated26 minutes ago | 13 | calcuis/hunyuanimage-ggufText-to-Image | 15B | [Link](https://huggingface.co/calcuis/hunyuanimage-gguf) |
+| 187 | 13 | tlennon-ie/qwen-edit-skinText-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/tlennon-ie/qwen-edit-skin) |
 | 217 | 12 | city96/HiDream-I1-Dev-ggufText-to-Image | Updated1 day ago | [Link](https://huggingface.co/city96/HiDream-I1-Dev-gguf) |
 | Updatedabout 4 hours ago | 12 | stepfun-ai/NextStep-1-LargeText-to-Image | 15B | [Link](https://huggingface.co/stepfun-ai/NextStep-1-Large) |
 | 59 | 12 | bytedance-research/UMOText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/bytedance-research/UMO) |
