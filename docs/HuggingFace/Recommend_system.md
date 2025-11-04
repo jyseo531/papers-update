@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-11-03
+Updated on 2025-11-04
 
 > Generated from the Hugging Face database.
 
@@ -1993,6 +1993,7 @@ Updated on 2025-11-03
 | 317 | 7 | numind/NuExtract-2 | Updated6 days ago | [Link](https://huggingface.co/numind/NuExtract-2.0-2B) |
 | 338 | 7 | allenai/olmOCR-7B-0225-preview-FP8Image-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview-FP8) |
 | Updated2 days ago | 7.9k | unsloth/Qwen3-VL-4B-Instruct-GGUFImage-Text-to-Text | 4B | [Link](https://huggingface.co/unsloth/Qwen3-VL-4B-Instruct-GGUF) |
+| Updated3 days ago | 7.61k | unsloth/Qwen3-VL-32B-Thinking-GGUFImage-Text-to-Text | 33B | [Link](https://huggingface.co/unsloth/Qwen3-VL-32B-Thinking-GGUF) |
 | 160 | 6 | MIL-UT/Asagi-14BImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/MIL-UT/Asagi-14B) |
 | Updatedabout 8 hours ago | 6.26k | Qwen/Qwen3-VL-30B-A3B-ThinkingImage-Text-to-Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Thinking) |
 | Updatedabout 14 hours ago | 6 | Qwen/Qwen3-VL-8B-InstructImage-Text-to-Text | 9B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct) |
@@ -2709,6 +2710,7 @@ Updated on 2025-11-03
 | UpdatedJun 12, 2024 | 1.05k | tiiuae/falcon-11B-vlmImage-to-Text | 11B | [Link](https://huggingface.co/tiiuae/falcon-11B-vlm) |
 | UpdatedJul 19, 2024 | 1 | mirceatlx/openvla-ft-lora-02-fp16Image-to-Text | 8B | [Link](https://huggingface.co/mirceatlx/openvla-ft-lora-02-fp16) |
 | UpdatedApr 25, 2024 | 1.7k | xtuner/llava-phi-3-mini-hfImage-to-Text | 4B | [Link](https://huggingface.co/xtuner/llava-phi-3-mini-hf) |
+| UpdatedMay 23 | 1 | andreidima/Llama-3 | 11B | [Link](https://huggingface.co/andreidima/Llama-3.2-11B-Vision-Instruct-RoVQA) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -4602,6 +4604,7 @@ Updated on 2025-11-03
 | Updatedabout 11 hours ago | 14 | CohereLabs/command-a-translate-08-2025Text | 111B | [Link](https://huggingface.co/CohereLabs/command-a-translate-08-2025) |
 | Updatedabout 23 hours ago | 13 | inclusionAI/Ring-flash-linear-2 | 104B | [Link](https://huggingface.co/inclusionAI/Ring-flash-linear-2.0) |
 | Updatedabout 10 hours ago | 11.9k | unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUFText | 31B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUF) |
+| Updatedabout 16 hours ago | 11.6k | unsloth/MiniMax-M2-GGUFText | 229B | [Link](https://huggingface.co/unsloth/MiniMax-M2-GGUF) |
 | Updatedabout 1 hour ago | 10.3k | unsloth/gemma-3-270m-it-GGUFText | 0.3B | [Link](https://huggingface.co/unsloth/gemma-3-270m-it-GGUF) |
 | Updatedabout 4 hours ago | 9 | meituan-longcat/LongCat-Flash-ChatText | 562B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Chat) |
 | Updatedabout 7 hours ago | 9 | facebook/MobileLLM-R1-950MText | 0.9B | [Link](https://huggingface.co/facebook/MobileLLM-R1-950M) |
@@ -5455,6 +5458,7 @@ Updated on 2025-11-03
 | Updatedabout 2 hours ago | 3 | nineninesix/kani-tts-450m-0 | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-450m-0.2-ft) |
 | 98 | 3 | herimor/voxtreamText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/herimor/voxtream) |
 | Updated2 days ago | 3 | Cseti/VibeVoice_7B_hun_v2Text-to-Speech | 9B | [Link](https://huggingface.co/Cseti/VibeVoice_7B_hun_v2) |
+| Updatedabout 7 hours ago | 3 | maya-research/maya-1-voiceText-to-Speech | 3B | [Link](https://huggingface.co/maya-research/maya-1-voice) |
 | 2.36M | 2.41k | coqui/XTTS-v2Text-to-Speech | UpdatedDec 11, 2023 | [Link](https://huggingface.co/coqui/XTTS-v2) |
 | 153 | 2 | mmwillet2/Dia_GGUFText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/mmwillet2/Dia_GGUF) |
 | 55 | 2 | unsloth/Spark-TTS-0 | Updated2 days ago | [Link](https://huggingface.co/unsloth/Spark-TTS-0.5B) |
