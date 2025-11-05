@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-11-04
+Updated on 2025-11-05
 
 > Generated from the Hugging Face database.
 
@@ -12,6 +12,7 @@ Updated on 2025-11-04
 | Updatedabout 1 hour ago | 718 | XiaomiMiMo/MiMo-Audio-7B-InstructAny-to-Any | 8B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-Audio-7B-Instruct) |
 | 189k | 577 | deepseek-ai/Janus-1 | Updated29 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-1.3B) |
 | Updatedabout 10 hours ago | 571 | inclusionAI/Ming-flash-omni-PreviewAny-to-Any | 104B | [Link](https://huggingface.co/inclusionAI/Ming-flash-omni-Preview) |
+| Updated3 days ago | 500 | thenexthub/EverosAny-to-Any | 1000B | [Link](https://huggingface.co/thenexthub/Everos) |
 | Updated3 days ago | 443 | cpatonn/Qwen3-Omni-30B-A3B-Instruct-AWQ-8bitAny-to-Any | 14B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Instruct-AWQ-8bit) |
 | Updated22 days ago | 408 | cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-8bitAny-to-Any | 10B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-8bit) |
 | Updatedabout 16 hours ago | 398 | QuantStack/HiDream-E1-1-GGUFAny-to-Any | 17B | [Link](https://huggingface.co/QuantStack/HiDream-E1-1-GGUF) |
@@ -2645,6 +2646,7 @@ Updated on 2025-11-04
 | 250 | 3 | Xenova/trocr-base-handwrittenImage-to-Text | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Xenova/trocr-base-handwritten) |
 | 198 | 3 | l0wgear/manga-ocr-2025-onnxImage-to-Text | UpdatedJun 30 | [Link](https://huggingface.co/l0wgear/manga-ocr-2025-onnx) |
 | 7 | 3 | shreyanshu09/block_diagram_global_informationImage-to-Text | UpdatedJun 3, 2024 | [Link](https://huggingface.co/shreyanshu09/block_diagram_global_information) |
+| Updatedabout 3 hours ago | 3.06k | noctrex/Chandra-OCR-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/noctrex/Chandra-OCR-GGUF) |
 | 51 | 2 | microsoft/git-base-msrvtt-qaImage-to-Text | UpdatedApr 4, 2024 | [Link](https://huggingface.co/microsoft/git-base-msrvtt-qa) |
 | 32 | 2 | baseplate/vit-gpt2-image-captioningImage-to-Text | UpdatedApr 5, 2023 | [Link](https://huggingface.co/baseplate/vit-gpt2-image-captioning) |
 | 38 | 2 | sbintuitions/sarashina2-vision-14bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-14b) |
@@ -4346,6 +4348,7 @@ Updated on 2025-11-04
 | Updated2 days ago | 60 | Alibaba-NLP/WebDancer-32BText | 33B | [Link](https://huggingface.co/Alibaba-NLP/WebDancer-32B) |
 | Updatedabout 20 hours ago | 60 | inclusionAI/LLaDA2 | 16B | [Link](https://huggingface.co/inclusionAI/LLaDA2.0-mini-preview) |
 | Updatedabout 1 hour ago | 59 | janhq/Jan-v1-4BText | 4B | [Link](https://huggingface.co/janhq/Jan-v1-4B) |
+| Updated2 days ago | 59 | Motif-Technologies/Motif-2-12 | 13B | [Link](https://huggingface.co/Motif-Technologies/Motif-2-12.7B-Instruct) |
 | Updatedabout 17 hours ago | 58 | microsoft/Phi-4-mini-flash-reasoningText | 4B | [Link](https://huggingface.co/microsoft/Phi-4-mini-flash-reasoning) |
 | Updatedabout 10 hours ago | 58 | unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUFText | 31B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF) |
 | Updatedabout 11 hours ago | 58 | CohereLabs/command-a-reasoning-08-2025Text | 111B | [Link](https://huggingface.co/CohereLabs/command-a-reasoning-08-2025) |
@@ -4500,6 +4503,7 @@ Updated on 2025-11-04
 | 217 | 25 | THUDM/GLM-Z1-9B-0414Text | Updated1 day ago | [Link](https://huggingface.co/THUDM/GLM-Z1-9B-0414) |
 | 6 | 25 | Qwen/Qwen3-Reranker-8BText | Updatedabout 10 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-Reranker-8B) |
 | 1.69k | 25 | Intel/Qwen3-Next-80B-A3B-Thinking-int4-mixed-AutoRoundText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Intel/Qwen3-Next-80B-A3B-Thinking-int4-mixed-AutoRound) |
+| 101 | 25 | salakash/SamKash-TolstoyText | Updatedabout 2 hours ago | [Link](https://huggingface.co/salakash/SamKash-Tolstoy) |
 | 8.8k | 24 | unsloth/QwQ-32B-GGUFText | Updatedabout 1 hour ago | [Link](https://huggingface.co/unsloth/QwQ-32B-GGUF) |
 | 90.1k | 24 | allenai/OLMo-2-0325-32BText | Updated3 days ago | [Link](https://huggingface.co/allenai/OLMo-2-0325-32B) |
 | 722 | 24 | qihoo360/Light-R1-14B-DSText | Updatedabout 9 hours ago | [Link](https://huggingface.co/qihoo360/Light-R1-14B-DS) |
@@ -5344,8 +5348,10 @@ Updated on 2025-11-04
 | 2.42k | 77 | FunAudioLLM/CosyVoice2-0 | UpdatedDec 27, 2024 | [Link](https://huggingface.co/FunAudioLLM/CosyVoice2-0.5B) |
 | 162 | 72 | canopylabs/orpheus-3b-0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/canopylabs/orpheus-3b-0.1-ft) |
 | Updated1 day ago | 72 | Vyvo/VyvoTTS-LFM2-JennyText-to-Speech | 0.4B | [Link](https://huggingface.co/Vyvo/VyvoTTS-LFM2-Jenny) |
+| Updated1 day ago | 72 | jaeyong2/neutts-air-hi-previewText-to-Speech | 0.6B | [Link](https://huggingface.co/jaeyong2/neutts-air-hi-preview) |
 | 2.93k | 65 | capleaf/viXTTSText-to-Speech | UpdatedApr 7, 2024 | [Link](https://huggingface.co/capleaf/viXTTS) |
 | 2.99k | 63 | HKUSTAudio/Llasa-8BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-8B) |
+| Updatedabout 7 hours ago | 61 | maya-research/maya1Text-to-Speech | 3B | [Link](https://huggingface.co/maya-research/maya1) |
 | Updatedabout 13 hours ago | 58 | NandemoGHS/Anime-Llasa-3B-CaptionsText-to-Speech | 3B | [Link](https://huggingface.co/NandemoGHS/Anime-Llasa-3B-Captions) |
 | Updated1 day ago | 54 | nineninesix/kani-tts-370m-expo2025-osaka-jaText-to-Speech | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-370m-expo2025-osaka-ja) |
 | Updatedabout 8 hours ago | 51 | neuphonic/neutts-air-q8-ggufText-to-Speech | 0.7B | [Link](https://huggingface.co/neuphonic/neutts-air-q8-gguf) |
