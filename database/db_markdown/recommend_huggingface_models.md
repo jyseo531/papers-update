@@ -1893,6 +1893,7 @@ Updated on 2025-11-06
 | 558 | 17 | xlangai/Jedi-7B-1080pImage-Text-to-Text | Updated12 days ago | [Link](https://huggingface.co/xlangai/Jedi-7B-1080p) |
 | 79 | 17 | lingshu-medical-mllm/Lingshu-7BImage-Text-to-Text | Updated13 minutes ago | [Link](https://huggingface.co/lingshu-medical-mllm/Lingshu-7B) |
 | 131 | 17 | google/gemma-3n-E4BImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/google/gemma-3n-E4B) |
+| Updated6 days ago | 17.3k | unsloth/Qwen3-VL-8B-Thinking-GGUFImage-Text-to-Text | 8B | [Link](https://huggingface.co/unsloth/Qwen3-VL-8B-Thinking-GGUF) |
 | 14 | 15 | Sony/AKI-4B-phi-3 | Updated2 days ago | [Link](https://huggingface.co/Sony/AKI-4B-phi-3.5-mini) |
 | 1.82k | 15 | stepfun-ai/step3-fp8Image-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/stepfun-ai/step3-fp8) |
 | Updatedabout 7 hours ago | 15 | OpenGVLab/InternVL3_5-14BImage-Text-to-Text | 15B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-14B) |
@@ -2179,6 +2180,8 @@ Updated on 2025-11-06
 | 8.65k | 135 | lllyasviel/sd-controlnet-openposeImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-openpose) |
 | 39.2k | 129 | prs-eth/marigold-depth-v1-0Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-depth-v1-0) |
 | 14.4k | 124 | Yuanshi/OminiControlImage-to-Image | UpdatedDec 10, 2024 | [Link](https://huggingface.co/Yuanshi/OminiControl) |
+| 4.36k | 119 | dx8152/Qwen-Image-Edit-2509-FusionImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/dx8152/Qwen-Image-Edit-2509-Fusion) |
+| 3.46k | 118 | dx8152/Qwen-Image-Edit-2509-RelightImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/dx8152/Qwen-Image-Edit-2509-Relight) |
 | 719 | 116 | destitech/controlnet-inpaint-dreamer-sdxlImage-to-Image | UpdatedApr 23, 2024 | [Link](https://huggingface.co/destitech/controlnet-inpaint-dreamer-sdxl) |
 | 71k | 114 | mit-han-lab/nunchaku-flux | Updatedabout 8 hours ago | [Link](https://huggingface.co/mit-han-lab/nunchaku-flux.1-kontext-dev) |
 | 28.7k | 113 | lllyasviel/control_v11p_sd15_inpaintImage-to-Image | UpdatedMay 26, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_inpaint) |
@@ -2187,6 +2190,7 @@ Updated on 2025-11-06
 | 44 | 80 | keras-io/low-light-image-enhancementImage-to-Image | UpdatedJul 9, 2024 | [Link](https://huggingface.co/keras-io/low-light-image-enhancement) |
 | 378 | 74 | instruction-tuning-sd/cartoonizerImage-to-Image | UpdatedMay 13, 2023 | [Link](https://huggingface.co/instruction-tuning-sd/cartoonizer) |
 | 95 | 65 | rsortino/ColorizeNetImage-to-Image | UpdatedJul 31, 2023 | [Link](https://huggingface.co/rsortino/ColorizeNet) |
+| 2.06k | 64 | dx8152/Qwen-Image-Edit-2509-White_to_SceneImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/dx8152/Qwen-Image-Edit-2509-White_to_Scene) |
 | Updatedabout 10 hours ago | 60 | stepfun-ai/NextStep-1-Large-EditImage-to-Image | 15B | [Link](https://huggingface.co/stepfun-ai/NextStep-1-Large-Edit) |
 | 5.02k | 54 | lllyasviel/sd-controlnet-scribbleImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-scribble) |
 | 326 | 53 | openai/shap-e-img2imgImage-to-Image | UpdatedJul 20, 2023 | [Link](https://huggingface.co/openai/shap-e-img2img) |
@@ -2217,6 +2221,7 @@ Updated on 2025-11-06
 | 12.1k | 19 | lllyasviel/control_v11p_sd15_softedgeImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_softedge) |
 | 365 | 19 | valiantcat/Qwen-Image-Edit-MeiTuImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/valiantcat/Qwen-Image-Edit-MeiTu) |
 | 10 | 18 | InstantX/Qwen-Image-ControlNet-UnionImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/InstantX/Qwen-Image-ControlNet-Union) |
+| 743 | 18 | dx8152/Qwen-Image-Edit-2509-White_film_to_renderingImage-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/dx8152/Qwen-Image-Edit-2509-White_film_to_rendering) |
 | 10.1k | 17 | Stable-X/yoso-delight-v0-4-baseImage-to-Image | UpdatedSep 26, 2024 | [Link](https://huggingface.co/Stable-X/yoso-delight-v0-4-base) |
 | 29 | 17 | RedRocket/furception_vaeImage-to-Image | UpdatedJan 17, 2024 | [Link](https://huggingface.co/RedRocket/furception_vae) |
 | 4.17k | 17 | ohayonguy/PMRF_blind_face_image_restorationImage-to-Image | UpdatedOct 3, 2024 | [Link](https://huggingface.co/ohayonguy/PMRF_blind_face_image_restoration) |
@@ -2656,6 +2661,7 @@ Updated on 2025-11-06
 | 7 | 3 | shreyanshu09/block_diagram_global_informationImage-to-Text | UpdatedJun 3, 2024 | [Link](https://huggingface.co/shreyanshu09/block_diagram_global_information) |
 | Updatedabout 3 hours ago | 3.06k | noctrex/Chandra-OCR-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/noctrex/Chandra-OCR-GGUF) |
 | UpdatedAug 25 | 3 | NYUAD-ComNets/Llama3 | 11B | [Link](https://huggingface.co/NYUAD-ComNets/Llama3.2_MultiModal_Memes_Hate_Detector) |
+| UpdatedJul 11 | 3.13k | scb10x/typhoon-ocr-3bImage-to-Text | 4B | [Link](https://huggingface.co/scb10x/typhoon-ocr-3b) |
 | 51 | 2 | microsoft/git-base-msrvtt-qaImage-to-Text | UpdatedApr 4, 2024 | [Link](https://huggingface.co/microsoft/git-base-msrvtt-qa) |
 | 32 | 2 | baseplate/vit-gpt2-image-captioningImage-to-Text | UpdatedApr 5, 2023 | [Link](https://huggingface.co/baseplate/vit-gpt2-image-captioning) |
 | 38 | 2 | sbintuitions/sarashina2-vision-14bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-14b) |
@@ -5375,6 +5381,7 @@ Updated on 2025-11-06
 | 25 | 31 | amphion/VevoText-to-Speech | Updated10 days ago | [Link](https://huggingface.co/amphion/Vevo) |
 | Updatedabout 8 hours ago | 31 | aoi-ot/VibeVoice-LargeText-to-Speech | 9B | [Link](https://huggingface.co/aoi-ot/VibeVoice-Large) |
 | Updatedabout 7 hours ago | 30 | microsoft/VibeVoice-LargeText-to-Speech | 9B | [Link](https://huggingface.co/microsoft/VibeVoice-Large) |
+| Updatedabout 20 hours ago | 30 | SVECTOR-CORPORATION/Continue-TTSText-to-Speech | 4B | [Link](https://huggingface.co/SVECTOR-CORPORATION/Continue-TTS) |
 | 3.72k | 29 | parler-tts/parler-tts-mini-multilingual-v1 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-mini-multilingual-v1.1) |
 | 1.34k | 29 | Xenova/speecht5_ttsText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/Xenova/speecht5_tts) |
 | 1.2k | 27 | saheedniyi/YarnGPTText-to-Speech | UpdatedJan 29 | [Link](https://huggingface.co/saheedniyi/YarnGPT) |
@@ -5764,6 +5771,7 @@ Updated on 2025-11-06
 | 2 | Unknown | BAAI/URSA-0 | Updatedabout 22 hours ago | [Link](https://huggingface.co/BAAI/URSA-0.6B-FSQ320) |
 | 2 | Unknown | Efficient-Large-Model/SANA-Video_2B_480p_diffusersText-to-Video | Updated1 day ago | [Link](https://huggingface.co/Efficient-Large-Model/SANA-Video_2B_480p_diffusers) |
 | 4 | Unknown | Vchitect/RepVideoText-to-Video | UpdatedJan 17 | [Link](https://huggingface.co/Vchitect/RepVideo) |
+| 1 | Unknown | liuming9157/Wan2 | UpdatedJul 11 | [Link](https://huggingface.co/liuming9157/Wan2.1-T2V-1.3B-Diffusers-ov-fp16) |
 
 ## Text2Text Generation
 
