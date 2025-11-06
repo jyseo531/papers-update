@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-11-05
+Updated on 2025-11-06
 
 > Generated from the Hugging Face database.
 
@@ -1838,6 +1838,7 @@ Updated on 2025-11-05
 | 23 | 35 | google/gemma-3-27b-it-qat-q4_0-ggufImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-it-qat-q4_0-gguf) |
 | 1.51k | 35 | unsloth/Llama-4-Scout-17B-16E-Instruct-unsloth-bnb-4bitImage-Text-to-Text | Updatedabout 2 hours ago | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct-unsloth-bnb-4bit) |
 | 810 | 35 | fancyfeast/llama-joycaption-beta-one-hf-llavaImage-Text-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/fancyfeast/llama-joycaption-beta-one-hf-llava) |
+| Updated5 days ago | 35.7k | unsloth/Qwen3-VL-8B-Instruct-GGUFImage-Text-to-Text | 8B | [Link](https://huggingface.co/unsloth/Qwen3-VL-8B-Instruct-GGUF) |
 | Updated4 days ago | 33 | prithivMLmods/Qwen2 | 8B | [Link](https://huggingface.co/prithivMLmods/Qwen2.5-VL-7B-Abliterated-Caption-it) |
 | 4.01k | 31 | google/paligemma2-3b-mix-448Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-3b-mix-448) |
 | Updatedabout 11 hours ago | 31.6k | YannQi/R-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/YannQi/R-4B) |
@@ -2637,6 +2638,7 @@ Updated on 2025-11-05
 | 11 | 4 | turing-motors/heron-chat-blip-ja-stablelm-base-7b-v1Image-to-Text | UpdatedFeb 27, 2024 | [Link](https://huggingface.co/turing-motors/heron-chat-blip-ja-stablelm-base-7b-v1) |
 | UpdatedJan 28 | 4.35k | cnmoro/tiny-image-captioningImage-to-Text | 26.4M | [Link](https://huggingface.co/cnmoro/tiny-image-captioning) |
 | UpdatedDec 18, 2024 | 4 | merve/paligemma_vqav2Image-to-Text | 3B | [Link](https://huggingface.co/merve/paligemma_vqav2) |
+| 1.23k | 4 | PaddlePaddle/PP-DocLayout-LImage-to-Text | UpdatedJul 22 | [Link](https://huggingface.co/PaddlePaddle/PP-DocLayout-L) |
 | 299 | 3 | cnmoro/nano-image-captioningImage-to-Text | Updatedabout 1 month ago | [Link](https://huggingface.co/cnmoro/nano-image-captioning) |
 | 45 | 3 | braintacles/brainblipImage-to-Text | UpdatedJun 27, 2024 | [Link](https://huggingface.co/braintacles/brainblip) |
 | 55 | 3 | sbintuitions/sarashina2-vision-8bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-8b) |
@@ -2653,6 +2655,7 @@ Updated on 2025-11-05
 | 198 | 3 | l0wgear/manga-ocr-2025-onnxImage-to-Text | UpdatedJun 30 | [Link](https://huggingface.co/l0wgear/manga-ocr-2025-onnx) |
 | 7 | 3 | shreyanshu09/block_diagram_global_informationImage-to-Text | UpdatedJun 3, 2024 | [Link](https://huggingface.co/shreyanshu09/block_diagram_global_information) |
 | Updatedabout 3 hours ago | 3.06k | noctrex/Chandra-OCR-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/noctrex/Chandra-OCR-GGUF) |
+| UpdatedAug 25 | 3 | NYUAD-ComNets/Llama3 | 11B | [Link](https://huggingface.co/NYUAD-ComNets/Llama3.2_MultiModal_Memes_Hate_Detector) |
 | 51 | 2 | microsoft/git-base-msrvtt-qaImage-to-Text | UpdatedApr 4, 2024 | [Link](https://huggingface.co/microsoft/git-base-msrvtt-qa) |
 | 32 | 2 | baseplate/vit-gpt2-image-captioningImage-to-Text | UpdatedApr 5, 2023 | [Link](https://huggingface.co/baseplate/vit-gpt2-image-captioning) |
 | 38 | 2 | sbintuitions/sarashina2-vision-14bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-14b) |
