@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-11-06
+Updated on 2025-11-07
 
 > Generated from the Hugging Face database.
 
@@ -1735,6 +1735,7 @@ Updated on 2025-11-06
 | Updated14 days ago | 681 | ByteDance/Dolphin-1 | 0.4B | [Link](https://huggingface.co/ByteDance/Dolphin-1.5) |
 |  | 615 | mistralai/Pixtral-12B-2409Image-Text-to-Text | UpdatedDec 26, 2024 | [Link](https://huggingface.co/mistralai/Pixtral-12B-2409) |
 | Updatedabout 12 hours ago | 598 | deepcogito/cogito-v2-preview-llama-109B-MoEImage-Text-to-Text | 109B | [Link](https://huggingface.co/deepcogito/cogito-v2-preview-llama-109B-MoE) |
+| Updated6 days ago | 583 | Qwen/Qwen3-VL-235B-A22B-Instruct-GGUFImage-Text-to-Text | 235B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct-GGUF) |
 | 1.67M | 546 | Qwen/Qwen2 | Updated10 days ago | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct) |
 | Updated2 days ago | 531 | OpenGVLab/InternVL3_5-2BImage-Text-to-Text | 2B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-2B) |
 | Updated3 days ago | 490 | Kwai-Keye/Keye-VL-1_5-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/Kwai-Keye/Keye-VL-1_5-8B) |
@@ -4269,6 +4270,7 @@ Updated on 2025-11-06
 | Updatedabout 4 hours ago | 293 | Qwen/Qwen3Guard-Gen-0 | 0.8B | [Link](https://huggingface.co/Qwen/Qwen3Guard-Gen-0.6B) |
 | 6.51k | 262 | NousResearch/DeepHermes-3-Llama-3-8B-PreviewText | Updated6 days ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview) |
 | Updatedabout 2 hours ago | 255 | agentica-org/DeepSWE-PreviewText | 33B | [Link](https://huggingface.co/agentica-org/DeepSWE-Preview) |
+| 117 | 248 | moonshotai/Kimi-K2-ThinkingText | Updatedabout 10 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-K2-Thinking) |
 | UpdatedApr 22 | 246 | inclusionAI/Ling-Coder-liteText | 17B | [Link](https://huggingface.co/inclusionAI/Ling-Coder-lite) |
 | Updated5 days ago | 244 | jet-ai/Jet-Nemotron-4BText | 4B | [Link](https://huggingface.co/jet-ai/Jet-Nemotron-4B) |
 | Updatedabout 20 hours ago | 234 | radicalnumerics/RND1-Base-0910Text | 31B | [Link](https://huggingface.co/radicalnumerics/RND1-Base-0910) |
@@ -5131,6 +5133,7 @@ Updated on 2025-11-06
 | 738 | 5 | spooknik/CyberRealistic-Flux-SVDQText-to-Image | Updated1 day ago | [Link](https://huggingface.co/spooknik/CyberRealistic-Flux-SVDQ) |
 | 49 | 5 | amd/Nitro-EText-to-Image | Updated1 day ago | [Link](https://huggingface.co/amd/Nitro-E) |
 | 122 | 5 | valiantcat/Qwen-Image-Edit-CosplayText-to-Image | Updated3 days ago | [Link](https://huggingface.co/valiantcat/Qwen-Image-Edit-Cosplay) |
+| 22 | 5 | eigen-ai-labs/eigen-banana-qwen-image-editText-to-Image | Updated3 days ago | [Link](https://huggingface.co/eigen-ai-labs/eigen-banana-qwen-image-edit) |
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 46 | 4 | Sherwinroger002/fashion_mnist_diffusion_class_conditionalText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Sherwinroger002/fashion_mnist_diffusion_class_conditional) |
 | 2.56k | 3.84k | WarriorMama777/OrangeMixsText-to-Image | UpdatedJan 7, 2024 | [Link](https://huggingface.co/WarriorMama777/OrangeMixs) |
