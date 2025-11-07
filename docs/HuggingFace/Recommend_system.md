@@ -2571,6 +2571,7 @@ Updated on 2025-11-07
 | 142 | 15 | HuggingFaceH4/vsft-llava-1 | UpdatedApr 11, 2024 | [Link](https://huggingface.co/HuggingFaceH4/vsft-llava-1.5-7b-hf-trl) |
 | 312 | 15 | IDEA-CCNL/Taiyi-BLIP-750M-ChineseImage-to-Text | UpdatedJun 6, 2023 | [Link](https://huggingface.co/IDEA-CCNL/Taiyi-BLIP-750M-Chinese) |
 | UpdatedDec 10, 2024 | 15.5k | unsloth/Llama-3 | 11B | [Link](https://huggingface.co/unsloth/Llama-3.2-11B-Vision-Instruct) |
+| Updatedabout 9 hours ago | 15 | nyu-visionx/Cambrian-S-7BImage-to-Text | 8B | [Link](https://huggingface.co/nyu-visionx/Cambrian-S-7B) |
 | 135k | 14 | naver-clova-ix/donut-base-finetuned-rvlcdipImage-to-Text | UpdatedMar 9, 2024 | [Link](https://huggingface.co/naver-clova-ix/donut-base-finetuned-rvlcdip) |
 | 159 | 14 | yayayaaa/florence-2-large-ft-moredetailedImage-to-Text | UpdatedJul 16, 2024 | [Link](https://huggingface.co/yayayaaa/florence-2-large-ft-moredetailed) |
 | UpdatedMar 6 | 14 | ankitelastiq/llama-3-2-11b-vision-electrical-components-instructImage-to-Text | 11B | [Link](https://huggingface.co/ankitelastiq/llama-3-2-11b-vision-electrical-components-instruct) |
@@ -2588,6 +2589,7 @@ Updated on 2025-11-07
 | Updated2 days ago | 12 | sanchit97/chart-rvr-hard-3bImage-to-Text | 4B | [Link](https://huggingface.co/sanchit97/chart-rvr-hard-3b) |
 | UpdatedJun 13 | 12 | mikewang/PVD-160k-Mistral-7bImage-to-Text | 7B | [Link](https://huggingface.co/mikewang/PVD-160k-Mistral-7b) |
 | 118 | 12 | Akajackson/donut_rusImage-to-Text | UpdatedApr 27, 2023 | [Link](https://huggingface.co/Akajackson/donut_rus) |
+| Updatedabout 9 hours ago | 12 | nyu-visionx/Cambrian-S-0 | 0.9B | [Link](https://huggingface.co/nyu-visionx/Cambrian-S-0.5B) |
 | 658 | 11 | prithivMLmods/Florence-2-VLM-Doc-VQAImage-to-Text | UpdatedOct 26, 2024 | [Link](https://huggingface.co/prithivMLmods/Florence-2-VLM-Doc-VQA) |
 | 22 | 11 | daekeun-ml/ko-trocr-base-nsmc-news-chatbotImage-to-Text | UpdatedOct 5, 2023 | [Link](https://huggingface.co/daekeun-ml/ko-trocr-base-nsmc-news-chatbot) |
 | 2.98k | 11 | kazars24/trocr-base-handwritten-ruImage-to-Text | UpdatedOct 27, 2024 | [Link](https://huggingface.co/kazars24/trocr-base-handwritten-ru) |
@@ -2601,6 +2603,7 @@ Updated on 2025-11-07
 | UpdatedNov 20, 2023 | 9.05k | facebook/nougat-smallImage-to-Text | 0.2B | [Link](https://huggingface.co/facebook/nougat-small) |
 | UpdatedMar 19, 2024 | 9 | Steven-GU-Yu-Di/Visual-Question-AnsweringImage-to-Text | 0.2B | [Link](https://huggingface.co/Steven-GU-Yu-Di/Visual-Question-Answering) |
 | Updatedabout 17 hours ago | 9 | allenai/olmOCR-2-7B-1025Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-2-7B-1025) |
+| Updatedabout 9 hours ago | 9 | nyu-visionx/Cambrian-S-1 | 2B | [Link](https://huggingface.co/nyu-visionx/Cambrian-S-1.5B) |
 | 452 | 8 | nathansutton/generate-cxrImage-to-Text | UpdatedFeb 23, 2024 | [Link](https://huggingface.co/nathansutton/generate-cxr) |
 | 2 | 8 | espnet/iam_handwriting_ocrImage-to-Text | UpdatedNov 8, 2022 | [Link](https://huggingface.co/espnet/iam_handwriting_ocr) |
 | 2.53k | 8 | openthaigpt/thai-trocrImage-to-Text | UpdatedNov 4, 2024 | [Link](https://huggingface.co/openthaigpt/thai-trocr) |
@@ -5368,6 +5371,7 @@ Updated on 2025-11-07
 | 162 | 72 | canopylabs/orpheus-3b-0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/canopylabs/orpheus-3b-0.1-ft) |
 | Updated1 day ago | 72 | Vyvo/VyvoTTS-LFM2-JennyText-to-Speech | 0.4B | [Link](https://huggingface.co/Vyvo/VyvoTTS-LFM2-Jenny) |
 | Updated1 day ago | 72 | jaeyong2/neutts-air-hi-previewText-to-Speech | 0.6B | [Link](https://huggingface.co/jaeyong2/neutts-air-hi-preview) |
+| Updatedabout 2 hours ago | 67 | stepfun-ai/Step-Audio-EditXText-to-Speech | 4B | [Link](https://huggingface.co/stepfun-ai/Step-Audio-EditX) |
 | 2.93k | 65 | capleaf/viXTTSText-to-Speech | UpdatedApr 7, 2024 | [Link](https://huggingface.co/capleaf/viXTTS) |
 | 2.99k | 63 | HKUSTAudio/Llasa-8BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-8B) |
 | Updatedabout 7 hours ago | 61 | maya-research/maya1Text-to-Speech | 3B | [Link](https://huggingface.co/maya-research/maya1) |
@@ -5490,6 +5494,7 @@ Updated on 2025-11-07
 | 98 | 3 | herimor/voxtreamText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/herimor/voxtream) |
 | Updated2 days ago | 3 | Cseti/VibeVoice_7B_hun_v2Text-to-Speech | 9B | [Link](https://huggingface.co/Cseti/VibeVoice_7B_hun_v2) |
 | Updatedabout 7 hours ago | 3 | maya-research/maya-1-voiceText-to-Speech | 3B | [Link](https://huggingface.co/maya-research/maya-1-voice) |
+| 16 | 3 | ASLP-lab/MeanVCText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/ASLP-lab/MeanVC) |
 | 2.36M | 2.41k | coqui/XTTS-v2Text-to-Speech | UpdatedDec 11, 2023 | [Link](https://huggingface.co/coqui/XTTS-v2) |
 | 153 | 2 | mmwillet2/Dia_GGUFText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/mmwillet2/Dia_GGUF) |
 | 55 | 2 | unsloth/Spark-TTS-0 | Updated2 days ago | [Link](https://huggingface.co/unsloth/Spark-TTS-0.5B) |
