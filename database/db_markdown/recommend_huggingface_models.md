@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-11-07
+Updated on 2025-11-08
 
 > Generated from the Hugging Face database.
 
@@ -2473,6 +2473,7 @@ Updated on 2025-11-07
 | 36 | Unknown | dx8152/Qwen-Edit-2509-Multiple-anglesImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/dx8152/Qwen-Edit-2509-Multiple-angles) |
 | 6 | Unknown | peteromallet/Qwen-Image-Edit-InSceneImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/peteromallet/Qwen-Image-Edit-InScene) |
 | 17 | Unknown | YaoJiefu/multiple-charactersImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/YaoJiefu/multiple-characters) |
+| 17 | Unknown | dx8152/Qwen-Image-Edit-2509-Light_restorationImage-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/dx8152/Qwen-Image-Edit-2509-Light_restoration) |
 
 ## Image-to-Text
 
@@ -2525,6 +2526,7 @@ Updated on 2025-11-07
 | UpdatedApr 17, 2024 | 54 | hoang-quoc-trung/sumen-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/hoang-quoc-trung/sumen-base) |
 | 71 | 49 | stabilityai/japanese-stable-vlmImage-to-Text | UpdatedJul 10, 2024 | [Link](https://huggingface.co/stabilityai/japanese-stable-vlm) |
 | 5.28k | 48 | Ertugrul/Qwen2-VL-7B-Captioner-RelaxedImage-to-Text | UpdatedSep 26, 2024 | [Link](https://huggingface.co/Ertugrul/Qwen2-VL-7B-Captioner-Relaxed) |
+| UpdatedMay 21 | 47.2k | llamaindex/vdr-2b-multi-v1Image-to-Text | 2B | [Link](https://huggingface.co/llamaindex/vdr-2b-multi-v1) |
 | Updated23 days ago | 43 | Jaireyu/Qwen2 | 8B | [Link](https://huggingface.co/Jaireyu/Qwen2.5-VL-UniSVG-finetuned) |
 | UpdatedMay 18, 2024 | 41 | moranyanuka/blip-image-captioning-large-mochaImage-to-Text | 0.5B | [Link](https://huggingface.co/moranyanuka/blip-image-captioning-large-mocha) |
 | 246 | 40 | selvakumarcts/sk_invoice_receiptsImage-to-Text | UpdatedOct 20, 2023 | [Link](https://huggingface.co/selvakumarcts/sk_invoice_receipts) |
@@ -5495,6 +5497,7 @@ Updated on 2025-11-07
 | Updated2 days ago | 3 | Cseti/VibeVoice_7B_hun_v2Text-to-Speech | 9B | [Link](https://huggingface.co/Cseti/VibeVoice_7B_hun_v2) |
 | Updatedabout 7 hours ago | 3 | maya-research/maya-1-voiceText-to-Speech | 3B | [Link](https://huggingface.co/maya-research/maya-1-voice) |
 | 16 | 3 | ASLP-lab/MeanVCText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/ASLP-lab/MeanVC) |
+| Updated7 days ago | 3.07k | OpenMOSS-Team/MOSS-TTSD-v0 | 2B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTSD-v0.7) |
 | 2.36M | 2.41k | coqui/XTTS-v2Text-to-Speech | UpdatedDec 11, 2023 | [Link](https://huggingface.co/coqui/XTTS-v2) |
 | 153 | 2 | mmwillet2/Dia_GGUFText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/mmwillet2/Dia_GGUF) |
 | 55 | 2 | unsloth/Spark-TTS-0 | Updated2 days ago | [Link](https://huggingface.co/unsloth/Spark-TTS-0.5B) |
