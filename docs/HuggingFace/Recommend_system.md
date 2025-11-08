@@ -2513,6 +2513,7 @@ Updated on 2025-11-08
 | UpdatedApr 2 | 116k | reducto/RolmOCRImage-to-Text | 8B | [Link](https://huggingface.co/reducto/RolmOCR) |
 | Updated5 days ago | 110 | Svngoku/Qwen3-VL-TimeTravelImage-to-Text | 9B | [Link](https://huggingface.co/Svngoku/Qwen3-VL-TimeTravel) |
 | Updatedabout 19 hours ago | 96 | davanstrien/iconclass-vlmImage-to-Text | 4B | [Link](https://huggingface.co/davanstrien/iconclass-vlm) |
+| UpdatedNov 29, 2024 | 81 | fancyfeast/llama-joycaption-alpha-two-vqa-test-1Image-to-Text | 8B | [Link](https://huggingface.co/fancyfeast/llama-joycaption-alpha-two-vqa-test-1) |
 | UpdatedMar 3 | 79 | mlx-community/olmOCR-7B-0225-preview-bf16Image-to-Text | 8B | [Link](https://huggingface.co/mlx-community/olmOCR-7B-0225-preview-bf16) |
 | Updated3 days ago | 78 | Rainnighttram/GLM-4 | 10B | [Link](https://huggingface.co/Rainnighttram/GLM-4.1V-9B-Thinking-bnb-4bit) |
 | 6.2k | 77 | unum-cloud/uform-gen2-qwen-500mImage-to-Text | UpdatedApr 24, 2024 | [Link](https://huggingface.co/unum-cloud/uform-gen2-qwen-500m) |
@@ -2701,6 +2702,7 @@ Updated on 2025-11-08
 | Updatedabout 1 hour ago | 2 | mradermacher/Nanonets-OCR2-3B-GGUFImage-to-Text | 3B | [Link](https://huggingface.co/mradermacher/Nanonets-OCR2-3B-GGUF) |
 | UpdatedMar 14 | 2.44k | IAMJB/chexpert-mimic-cxr-findings-baselineImage-to-Text | 61.3M | [Link](https://huggingface.co/IAMJB/chexpert-mimic-cxr-findings-baseline) |
 | 92 | 2 | mlx-community/chandra-4bitImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/mlx-community/chandra-4bit) |
+| 6.14k | 2 | PaddlePaddle/PP-Chart2TableImage-to-Text | UpdatedJul 22 | [Link](https://huggingface.co/PaddlePaddle/PP-Chart2Table) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -4390,6 +4392,7 @@ Updated on 2025-11-08
 | Updatedabout 14 hours ago | 51 | nvidia/OpenReasoning-Nemotron-32BText | 33B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-32B) |
 | 1.45k | 50 | ALLaM-AI/ALLaM-7B-Instruct-previewText | Updated8 days ago | [Link](https://huggingface.co/ALLaM-AI/ALLaM-7B-Instruct-preview) |
 | 5 | 50 | microsoft/Phi-4-mini-reasoningText | Updatedabout 11 hours ago | [Link](https://huggingface.co/microsoft/Phi-4-mini-reasoning) |
+| Updated1 day ago | 50 | cerebras/Kimi-Linear-REAP-35B-A3B-InstructText | 35B | [Link](https://huggingface.co/cerebras/Kimi-Linear-REAP-35B-A3B-Instruct) |
 | Updatedabout 1 hour ago | 49 | swiss-ai/Apertus-8B-Instruct-2509Text | 8B | [Link](https://huggingface.co/swiss-ai/Apertus-8B-Instruct-2509) |
 | Updated2 days ago | 49 | inclusionAI/Ling-flash-base-2 | 106B | [Link](https://huggingface.co/inclusionAI/Ling-flash-base-2.0) |
 | Updatedabout 16 hours ago | 48 | osmosis-ai/Osmosis-Apply-1 | 2B | [Link](https://huggingface.co/osmosis-ai/Osmosis-Apply-1.7B) |
