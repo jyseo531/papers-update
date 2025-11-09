@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-11-08
+Updated on 2025-11-09
 
 > Generated from the Hugging Face database.
 
@@ -1786,6 +1786,7 @@ Updated on 2025-11-08
 | Updatedabout 23 hours ago | 98 | internlm/JanusCoderV-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/internlm/JanusCoderV-8B) |
 | Updatedabout 4 hours ago | 96 | AIDC-AI/Ovis2 | 9B | [Link](https://huggingface.co/AIDC-AI/Ovis2.5-9B) |
 | Updated5 days ago | 96 | prithivMLmods/DeepCaption-VLA-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/prithivMLmods/DeepCaption-VLA-7B) |
+| Updated5 days ago | 95 | internlm/Spatial-SSRL-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/internlm/Spatial-SSRL-7B) |
 | 1.69k | 88 | google/gemma-3n-E4B-itImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/google/gemma-3n-E4B-it) |
 | Updated2 days ago | 87 | INSAIT-Institute/MamayLM-Gemma-3-4B-IT-v1 | 4B | [Link](https://huggingface.co/INSAIT-Institute/MamayLM-Gemma-3-4B-IT-v1.0) |
 | Updated20 days ago | 81.8k | zai-org/GLM-4 | 10B | [Link](https://huggingface.co/zai-org/GLM-4.1V-9B-Thinking) |
@@ -2474,6 +2475,7 @@ Updated on 2025-11-08
 | 6 | Unknown | peteromallet/Qwen-Image-Edit-InSceneImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/peteromallet/Qwen-Image-Edit-InScene) |
 | 17 | Unknown | YaoJiefu/multiple-charactersImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/YaoJiefu/multiple-characters) |
 | 17 | Unknown | dx8152/Qwen-Image-Edit-2509-Light_restorationImage-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/dx8152/Qwen-Image-Edit-2509-Light_restoration) |
+| 149 |  | Kontext-Style/American_Cartoon_loraImage-to-Image | UpdatedJul 5 | [Link](https://huggingface.co/Kontext-Style/American_Cartoon_lora) |
 
 ## Image-to-Text
 
@@ -5142,6 +5144,7 @@ Updated on 2025-11-08
 | 49 | 5 | amd/Nitro-EText-to-Image | Updated1 day ago | [Link](https://huggingface.co/amd/Nitro-E) |
 | 122 | 5 | valiantcat/Qwen-Image-Edit-CosplayText-to-Image | Updated3 days ago | [Link](https://huggingface.co/valiantcat/Qwen-Image-Edit-Cosplay) |
 | 22 | 5 | eigen-ai-labs/eigen-banana-qwen-image-editText-to-Image | Updated3 days ago | [Link](https://huggingface.co/eigen-ai-labs/eigen-banana-qwen-image-edit) |
+| 202 | 5 | renderartist/technically-color-wanText-to-Image | Updated2 days ago | [Link](https://huggingface.co/renderartist/technically-color-wan) |
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 46 | 4 | Sherwinroger002/fashion_mnist_diffusion_class_conditionalText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Sherwinroger002/fashion_mnist_diffusion_class_conditional) |
 | 2.56k | 3.84k | WarriorMama777/OrangeMixsText-to-Image | UpdatedJan 7, 2024 | [Link](https://huggingface.co/WarriorMama777/OrangeMixs) |
@@ -5698,6 +5701,7 @@ Updated on 2025-11-08
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
 | 795 | 1 | chaowenguo/AnimateLCMText-to-Video | UpdatedFeb 28 | [Link](https://huggingface.co/chaowenguo/AnimateLCM) |
+| 1.83k | 1 | Isi99999/Wan2 | UpdatedMar 9 | [Link](https://huggingface.co/Isi99999/Wan2.1-T2V-14B) |
 | 7.59k |  | tencent/HunyuanVideoText-to-Video | UpdatedJan 21 | [Link](https://huggingface.co/tencent/HunyuanVideo) |
 | 26.6k |  | genmo/mochi-1-previewText-to-Video | UpdatedDec 18, 2024 | [Link](https://huggingface.co/genmo/mochi-1-preview) |
 | 91.5k |  | THUDM/CogVideoX-5bText-to-Video | UpdatedNov 23, 2024 | [Link](https://huggingface.co/THUDM/CogVideoX-5b) |
