@@ -127,6 +127,8 @@ Updated on 2025-11-10
 | 16 | 1 | ILLUME-MLLM/illume_plus-qwen2_5-7b-hfAny-to-Any | UpdatedJun 18 | [Link](https://huggingface.co/ILLUME-MLLM/illume_plus-qwen2_5-7b-hf) |
 | 2 | 1 | Fr0zencr4nE/UniCoT-7B-MoT-v0 | Updatedabout 10 hours ago | [Link](https://huggingface.co/Fr0zencr4nE/UniCoT-7B-MoT-v0.2) |
 | 96 | 1 | showlab/show-o2-7B-w-video-undAny-to-Any | Updated18 days ago | [Link](https://huggingface.co/showlab/show-o2-7B-w-video-und) |
+| 17 | 1 | NexaAI/OmniNeural-4B-mobileAny-to-Any | Updated3 days ago | [Link](https://huggingface.co/NexaAI/OmniNeural-4B-mobile) |
+| 313 | 1 | AbstractPhil/vae-lyraAny-to-Any | Updated3 days ago | [Link](https://huggingface.co/AbstractPhil/vae-lyra) |
 | 2 | Unknown | guanwenhao/MonoSpeechAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/guanwenhao/MonoSpeech) |
 | 22 | Unknown | Goekdeniz-Guelmez/J | UpdatedOct 29, 2024 | [Link](https://huggingface.co/Goekdeniz-Guelmez/J.O.S.I.E.v4o) |
 | 1 | Unknown | hfcsrd/cryptographyAny-to-Any | UpdatedNov 17, 2024 | [Link](https://huggingface.co/hfcsrd/cryptography) |
@@ -2480,6 +2482,7 @@ Updated on 2025-11-10
 | 17 | Unknown | YaoJiefu/multiple-charactersImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/YaoJiefu/multiple-characters) |
 | 17 | Unknown | dx8152/Qwen-Image-Edit-2509-Light_restorationImage-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/dx8152/Qwen-Image-Edit-2509-Light_restoration) |
 | 149 |  | Kontext-Style/American_Cartoon_loraImage-to-Image | UpdatedJul 5 | [Link](https://huggingface.co/Kontext-Style/American_Cartoon_lora) |
+| 4 | Unknown | qihoo360/EVTARImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/qihoo360/EVTAR) |
 
 ## Image-to-Text
 
@@ -2531,6 +2534,7 @@ Updated on 2025-11-10
 | 8.31k | 64 | alibaba-damo/mgp-str-baseImage-to-Text | UpdatedDec 11, 2023 | [Link](https://huggingface.co/alibaba-damo/mgp-str-base) |
 | UpdatedMar 25, 2024 | 61 | emisilab/model-ocr-ktp-v1Image-to-Text | 0.2B | [Link](https://huggingface.co/emisilab/model-ocr-ktp-v1) |
 | UpdatedApr 17, 2024 | 54 | hoang-quoc-trung/sumen-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/hoang-quoc-trung/sumen-base) |
+| UpdatedAug 30, 2024 | 51.3k | U4R/StructTable-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/U4R/StructTable-base) |
 | 71 | 49 | stabilityai/japanese-stable-vlmImage-to-Text | UpdatedJul 10, 2024 | [Link](https://huggingface.co/stabilityai/japanese-stable-vlm) |
 | 5.28k | 48 | Ertugrul/Qwen2-VL-7B-Captioner-RelaxedImage-to-Text | UpdatedSep 26, 2024 | [Link](https://huggingface.co/Ertugrul/Qwen2-VL-7B-Captioner-Relaxed) |
 | UpdatedMay 21 | 47.2k | llamaindex/vdr-2b-multi-v1Image-to-Text | 2B | [Link](https://huggingface.co/llamaindex/vdr-2b-multi-v1) |
@@ -2657,6 +2661,7 @@ Updated on 2025-11-10
 | UpdatedJan 28 | 4.35k | cnmoro/tiny-image-captioningImage-to-Text | 26.4M | [Link](https://huggingface.co/cnmoro/tiny-image-captioning) |
 | UpdatedDec 18, 2024 | 4 | merve/paligemma_vqav2Image-to-Text | 3B | [Link](https://huggingface.co/merve/paligemma_vqav2) |
 | 1.23k | 4 | PaddlePaddle/PP-DocLayout-LImage-to-Text | UpdatedJul 22 | [Link](https://huggingface.co/PaddlePaddle/PP-DocLayout-L) |
+| Updated1 day ago | 4.13k | mradermacher/Qwen3-VL-8B-Abliterated-Caption-it-i1-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/mradermacher/Qwen3-VL-8B-Abliterated-Caption-it-i1-GGUF) |
 | 299 | 3 | cnmoro/nano-image-captioningImage-to-Text | Updatedabout 1 month ago | [Link](https://huggingface.co/cnmoro/nano-image-captioning) |
 | 45 | 3 | braintacles/brainblipImage-to-Text | UpdatedJun 27, 2024 | [Link](https://huggingface.co/braintacles/brainblip) |
 | 55 | 3 | sbintuitions/sarashina2-vision-8bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-8b) |
@@ -2709,6 +2714,7 @@ Updated on 2025-11-10
 | UpdatedMar 14 | 2.44k | IAMJB/chexpert-mimic-cxr-findings-baselineImage-to-Text | 61.3M | [Link](https://huggingface.co/IAMJB/chexpert-mimic-cxr-findings-baseline) |
 | 92 | 2 | mlx-community/chandra-4bitImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/mlx-community/chandra-4bit) |
 | 6.14k | 2 | PaddlePaddle/PP-Chart2TableImage-to-Text | UpdatedJul 22 | [Link](https://huggingface.co/PaddlePaddle/PP-Chart2Table) |
+| Updated1 day ago | 2.26k | mradermacher/Qwen3-VL-8B-Abliterated-Caption-it-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/mradermacher/Qwen3-VL-8B-Abliterated-Caption-it-GGUF) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -5648,6 +5654,8 @@ Updated on 2025-11-10
 | 5.9k | 7 | SVECTOR-CORPORATION/Spectro-2BText-to-Video | UpdatedDec 25, 2024 | [Link](https://huggingface.co/SVECTOR-CORPORATION/Spectro-2B) |
 | 863 | 6 | guoyww/animatediff-motion-adapter-v1-5-3Text-to-Video | UpdatedJul 8, 2024 | [Link](https://huggingface.co/guoyww/animatediff-motion-adapter-v1-5-3) |
 | 184 | 6 | BAAI/nova-d48w1024-osp480Text-to-Video | UpdatedDec 21, 2024 | [Link](https://huggingface.co/BAAI/nova-d48w1024-osp480) |
+| 6.29k | 6 | guoyww/animatediff-motion-lora-zoom-outText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-zoom-out) |
+| 5.95k | 5 | guoyww/animatediff-motion-lora-tilt-downText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-tilt-down) |
 | 56 | 4 | Skywork/SkyReels-V2-DF-14B-720PText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-DF-14B-720P) |
 | 410 | 4 | guoyww/animatediff-motion-adapter-v1-5Text-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-adapter-v1-5) |
 | 40 | 4 | QuantStack/MoviiGen1 | Updated16 minutes ago | [Link](https://huggingface.co/QuantStack/MoviiGen1.1-VACE-GGUF) |
@@ -5662,6 +5670,7 @@ Updated on 2025-11-10
 | Updatedabout 9 hours ago | 3 | bullerwins/Wan2 | 14B | [Link](https://huggingface.co/bullerwins/Wan2.2-T2V-A14B-GGUF) |
 | 58 | 3 | BAAI/URSA-1 | Updatedabout 7 hours ago | [Link](https://huggingface.co/BAAI/URSA-1.7B-FSQ320) |
 | 8 | 3 | Efficient-Large-Model/SANA-Video_2B_480pText-to-Video | Updated3 days ago | [Link](https://huggingface.co/Efficient-Large-Model/SANA-Video_2B_480p) |
+| 5.95k | 3 | guoyww/animatediff-motion-lora-pan-leftText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-pan-left) |
 | 69 | 2 | obvious-research/onlyflowText-to-Video | Updated5 days ago | [Link](https://huggingface.co/obvious-research/onlyflow) |
 | 42 | 2 | jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIEText-to-Video | Updated7 days ago | [Link](https://huggingface.co/jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIE) |
 | 10 | 2 | vdo/Hotshot-XLText-to-Video | UpdatedOct 4, 2023 | [Link](https://huggingface.co/vdo/Hotshot-XL) |
@@ -5703,6 +5712,7 @@ Updated on 2025-11-10
 | 5 | 2 | artificialguybr/OffSeasonSanta-Redmond-WAN2-T2V-14BText-to-Video | Updatedabout 20 hours ago | [Link](https://huggingface.co/artificialguybr/OffSeasonSanta-Redmond-WAN2-T2V-14B) |
 | 43 | 2 | guoyww/animatediff-motion-lora-rolling-clockwiseText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-rolling-clockwise) |
 | Updatedabout 6 hours ago | 2 | QuantStack/HoloCine-GGUFText-to-Video | 14B | [Link](https://huggingface.co/QuantStack/HoloCine-GGUF) |
+| 6k | 2 | guoyww/animatediff-motion-lora-tilt-upText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-tilt-up) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
