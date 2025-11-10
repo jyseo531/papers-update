@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-11-09
+Updated on 2025-11-10
 
 > Generated from the Hugging Face database.
 
@@ -2013,6 +2013,7 @@ Updated on 2025-11-09
 | Updatedabout 7 hours ago | 5 | internlm/Intern-S1Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1) |
 | Updated1 day ago | 4.45k | openbmb/MiniCPM-V-4_5-ggufImage-Text-to-Text | 8B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4_5-gguf) |
 | Updatedabout 12 hours ago | 4 | ibm-granite/granite-docling-258MImage-Text-to-Text | 0.3B | [Link](https://huggingface.co/ibm-granite/granite-docling-258M) |
+| Updated12 days ago | 4.44k | Jalea96/DeepSeek-OCR-bnb-4bit-NF4Image-Text-to-Text | 3B | [Link](https://huggingface.co/Jalea96/DeepSeek-OCR-bnb-4bit-NF4) |
 | Updated5 minutes ago | 3.08k | openbmb/MiniCPM-V-4-ggufImage-Text-to-Text | 4B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4-gguf) |
 | Updatedabout 14 hours ago | 3 | Qwen/Qwen3-VL-8B-ThinkingImage-Text-to-Text | 9B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Thinking) |
 | Updatedabout 13 hours ago | 3 | Qwen/Qwen3-VL-4B-Thinking-FP8Image-Text-to-Text | 5B | [Link](https://huggingface.co/Qwen/Qwen3-VL-4B-Thinking-FP8) |
@@ -2309,6 +2310,7 @@ Updated on 2025-11-09
 | 52 | 3 | REPA-E/e2e-flux-vaeImage-to-Image | Updatedabout 13 hours ago | [Link](https://huggingface.co/REPA-E/e2e-flux-vae) |
 | 146 | 3 | chestnutlzj/Edit-R1-FLUX | Updated1 day ago | [Link](https://huggingface.co/chestnutlzj/Edit-R1-FLUX.1-Kontext-dev) |
 |  | 3 | prithivMLmods/Kontext-Watermark-RemoverImage-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/prithivMLmods/Kontext-Watermark-Remover) |
+| 132 | 3 | valiantcat/Qwen-Image-Edit-2509-Passionate-kissImage-to-Image | Updated12 days ago | [Link](https://huggingface.co/valiantcat/Qwen-Image-Edit-2509-Passionate-kiss) |
 | 67 | 2 | SherryXTChen/InstructCLIP-InstructPix2PixImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/SherryXTChen/InstructCLIP-InstructPix2Pix) |
 | 17 | 2 | SherryXTChen/Instruct-CLIPImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/SherryXTChen/Instruct-CLIP) |
 | 76 | 2 | VisualCloze/VisualClozePipeline-384Image-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/VisualCloze/VisualClozePipeline-384) |
@@ -4677,6 +4679,7 @@ Updated on 2025-11-09
 | Updated5 days ago | 3.98k | meituan-longcat/LongCat-Flash-Chat-FP8Text | 562B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Chat-FP8) |
 | Updated3 days ago | 3.63k | unsloth/LFM2-8B-A1B-GGUFText | 8B | [Link](https://huggingface.co/unsloth/LFM2-8B-A1B-GGUF) |
 | Updated1 day ago | 3 | LiquidAI/LFM2-350M-PII-Extract-JPText | 0.4B | [Link](https://huggingface.co/LiquidAI/LFM2-350M-PII-Extract-JP) |
+| Updated1 day ago | 3.29k | ubergarm/Kimi-K2-Thinking-GGUFText | 1T | [Link](https://huggingface.co/ubergarm/Kimi-K2-Thinking-GGUF) |
 | Updated6 days ago | 2.04k | marcelbinz/Llama-3 | 71B | [Link](https://huggingface.co/marcelbinz/Llama-3.1-Centaur-70B) |
 | Updatedabout 2 hours ago | 2.66k | unsloth/Qwen3-235B-A22B-Instruct-2507-GGUFText | 235B | [Link](https://huggingface.co/unsloth/Qwen3-235B-A22B-Instruct-2507-GGUF) |
 | Updatedabout 10 hours ago | 2 | Qwen/Qwen3-30B-A3B-Thinking-2507Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507) |
@@ -5321,6 +5324,7 @@ Updated on 2025-11-09
 | 74 | Unknown | xiabs/DreamOmni2Text-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/xiabs/DreamOmni2) |
 | 6 | Unknown | OPPOer/Qwen-Image-10BText-to-Image | Updatedabout 13 hours ago | [Link](https://huggingface.co/OPPOer/Qwen-Image-10B) |
 | 9.2k |  | UmeAiRT/FLUX | UpdatedSep 26, 2024 | [Link](https://huggingface.co/UmeAiRT/FLUX.1-dev-LoRA-Modern_Pixel_art) |
+| 11 | Unknown | Lakonik/pi-Qwen-ImageText-to-Image | Updated4 days ago | [Link](https://huggingface.co/Lakonik/pi-Qwen-Image) |
 
 ## Text-to-Speech
 
