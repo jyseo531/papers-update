@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-11-10
+Updated on 2025-11-11
 
 > Generated from the Hugging Face database.
 
@@ -2029,6 +2029,7 @@ Updated on 2025-11-10
 | Updated1 day ago | 2 | Qwen/Qwen3-VL-2B-ThinkingImage-Text-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-2B-Thinking) |
 | Updated5 days ago | 2.87k | mlx-community/DeepSeek-OCR-8bitImage-Text-to-Text | 1B | [Link](https://huggingface.co/mlx-community/DeepSeek-OCR-8bit) |
 | Updated8 days ago | 2.72k | Qwen/Qwen3-VL-8B-Thinking-GGUFImage-Text-to-Text | 8B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Thinking-GGUF) |
+| Updated10 days ago | 2.91k | Qwen/Qwen3-VL-4B-Instruct-GGUFImage-Text-to-Text | 4B | [Link](https://huggingface.co/Qwen/Qwen3-VL-4B-Instruct-GGUF) |
 | 2.72k | 1.62k | microsoft/OmniParserImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/microsoft/OmniParser) |
 | 100k | 1.4k | stepfun-ai/GOT-OCR2_0Image-Text-to-Text | Updated21 days ago | [Link](https://huggingface.co/stepfun-ai/GOT-OCR2_0) |
 | 1.78M | 1.42k | microsoft/Florence-2-largeImage-Text-to-Text | UpdatedDec 8, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-large) |
@@ -2243,6 +2244,7 @@ Updated on 2025-11-10
 | 1.19k | 11 | prs-eth/marigold-depth-v1-1Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-depth-v1-1) |
 | 424 | 11 | camenduru/IDM-VTON-F16Image-to-Image | UpdatedApr 23, 2024 | [Link](https://huggingface.co/camenduru/IDM-VTON-F16) |
 | 91 | 11 | TencentARC/t2iadapter_color_sd14v1Image-to-Image | UpdatedJul 31, 2023 | [Link](https://huggingface.co/TencentARC/t2iadapter_color_sd14v1) |
+| 192 | 11 | Alissonerdx/BFS-Best-Face-SwapImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap) |
 | 21 | 10 | philschmid/stable-diffusion-2-inpainting-endpointImage-to-Image | UpdatedSep 29, 2023 | [Link](https://huggingface.co/philschmid/stable-diffusion-2-inpainting-endpoint) |
 | 270 | 10 | drbaph/Fluffy-kontext-LoRAImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/drbaph/Fluffy-kontext-LoRA) |
 | 4 | 10 | bytedance-research/USOImage-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/bytedance-research/USO) |
@@ -2483,6 +2485,7 @@ Updated on 2025-11-10
 | 17 | Unknown | dx8152/Qwen-Image-Edit-2509-Light_restorationImage-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/dx8152/Qwen-Image-Edit-2509-Light_restoration) |
 | 149 |  | Kontext-Style/American_Cartoon_loraImage-to-Image | UpdatedJul 5 | [Link](https://huggingface.co/Kontext-Style/American_Cartoon_lora) |
 | 4 | Unknown | qihoo360/EVTARImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/qihoo360/EVTAR) |
+| 15 | Unknown | autoweeb/Qwen-Image-Edit-2509-Photo-to-AnimeImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/autoweeb/Qwen-Image-Edit-2509-Photo-to-Anime) |
 
 ## Image-to-Text
 
@@ -2564,6 +2567,7 @@ Updated on 2025-11-10
 | 4.54k | 23 | raxtemur/trocr-base-ruImage-to-Text | UpdatedMay 29, 2024 | [Link](https://huggingface.co/raxtemur/trocr-base-ru) |
 | 4.06k | 22 | noamrot/FuseCap_Image_CaptioningImage-to-Text | UpdatedJan 25, 2024 | [Link](https://huggingface.co/noamrot/FuseCap_Image_Captioning) |
 | UpdatedDec 12, 2023 | 22 | kmewhort/blip2-flan-t5-xxl-safetensorsImage-to-Text | 12B | [Link](https://huggingface.co/kmewhort/blip2-flan-t5-xxl-safetensors) |
+| 75 | 22 | nvidia/nemotron-ocr-v1Image-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/nvidia/nemotron-ocr-v1) |
 | Updatedabout 9 hours ago | 21 | numind/NuMarkdown-8B-ThinkingImage-to-Text | 8B | [Link](https://huggingface.co/numind/NuMarkdown-8B-Thinking) |
 | 3.75k | 21 | laion/mscoco_finetuned_CoCa-ViT-L-14-laion2B-s13B-b90kImage-to-Text | UpdatedJan 16, 2024 | [Link](https://huggingface.co/laion/mscoco_finetuned_CoCa-ViT-L-14-laion2B-s13B-b90k) |
 | 130 | 20 | Mozilla/distilvitImage-to-Text | UpdatedNov 25, 2024 | [Link](https://huggingface.co/Mozilla/distilvit) |
