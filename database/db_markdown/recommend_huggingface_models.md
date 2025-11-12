@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-11-11
+Updated on 2025-11-12
 
 > Generated from the Hugging Face database.
 
@@ -130,6 +130,7 @@ Updated on 2025-11-11
 | 96 | 1 | showlab/show-o2-7B-w-video-undAny-to-Any | Updated18 days ago | [Link](https://huggingface.co/showlab/show-o2-7B-w-video-und) |
 | 17 | 1 | NexaAI/OmniNeural-4B-mobileAny-to-Any | Updated3 days ago | [Link](https://huggingface.co/NexaAI/OmniNeural-4B-mobile) |
 | 313 | 1 | AbstractPhil/vae-lyraAny-to-Any | Updated3 days ago | [Link](https://huggingface.co/AbstractPhil/vae-lyra) |
+| 92 | 1 | WeiChow/Bagel-weaveAny-to-Any | Updated1 day ago | [Link](https://huggingface.co/WeiChow/Bagel-weave) |
 | 2 | Unknown | guanwenhao/MonoSpeechAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/guanwenhao/MonoSpeech) |
 | 22 | Unknown | Goekdeniz-Guelmez/J | UpdatedOct 29, 2024 | [Link](https://huggingface.co/Goekdeniz-Guelmez/J.O.S.I.E.v4o) |
 | 1 | Unknown | hfcsrd/cryptographyAny-to-Any | UpdatedNov 17, 2024 | [Link](https://huggingface.co/hfcsrd/cryptography) |
@@ -1755,6 +1756,7 @@ Updated on 2025-11-11
 | Updated5 days ago | 302 | Qwen/Qwen3-VL-2B-Thinking-FP8Image-Text-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-2B-Thinking-FP8) |
 | 17.9k | 287 | deepseek-ai/deepseek-vl2Image-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2) |
 | 26.4k | 267 | MiniMaxAI/MiniMax-VL-01Image-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-VL-01) |
+| Updatedabout 14 hours ago | 260 | QuixiAI/Prisma-VL-8BImage-Text-to-Text | 770k | [Link](https://huggingface.co/QuixiAI/Prisma-VL-8B) |
 | Updated1 day ago | 252 | Qwen/Qwen3-VL-235B-A22B-ThinkingImage-Text-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Thinking) |
 | 353k | 236 | microsoft/Florence-2-baseImage-Text-to-Text | UpdatedNov 4, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-base) |
 | Updatedabout 14 hours ago | 228 | CohereLabs/command-a-vision-07-2025Image-Text-to-Text | 112B | [Link](https://huggingface.co/CohereLabs/command-a-vision-07-2025) |
@@ -1900,6 +1902,7 @@ Updated on 2025-11-11
 | 79 | 17 | lingshu-medical-mllm/Lingshu-7BImage-Text-to-Text | Updated13 minutes ago | [Link](https://huggingface.co/lingshu-medical-mllm/Lingshu-7B) |
 | 131 | 17 | google/gemma-3n-E4BImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/google/gemma-3n-E4B) |
 | Updated6 days ago | 17.3k | unsloth/Qwen3-VL-8B-Thinking-GGUFImage-Text-to-Text | 8B | [Link](https://huggingface.co/unsloth/Qwen3-VL-8B-Thinking-GGUF) |
+| Updatedabout 2 hours ago | 17 | ServiceNow/GroundNext-7B-V0Image-Text-to-Text | 8B | [Link](https://huggingface.co/ServiceNow/GroundNext-7B-V0) |
 | 14 | 15 | Sony/AKI-4B-phi-3 | Updated2 days ago | [Link](https://huggingface.co/Sony/AKI-4B-phi-3.5-mini) |
 | 1.82k | 15 | stepfun-ai/step3-fp8Image-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/stepfun-ai/step3-fp8) |
 | Updatedabout 7 hours ago | 15 | OpenGVLab/InternVL3_5-14BImage-Text-to-Text | 15B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-14B) |
@@ -2490,6 +2493,7 @@ Updated on 2025-11-11
 | 149 |  | Kontext-Style/American_Cartoon_loraImage-to-Image | UpdatedJul 5 | [Link](https://huggingface.co/Kontext-Style/American_Cartoon_lora) |
 | 4 | Unknown | qihoo360/EVTARImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/qihoo360/EVTAR) |
 | 15 | Unknown | autoweeb/Qwen-Image-Edit-2509-Photo-to-AnimeImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/autoweeb/Qwen-Image-Edit-2509-Photo-to-Anime) |
+| 168 |  | strangerzonehf/Flux-Kontext-Ultimate-LoRAImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/strangerzonehf/Flux-Kontext-Ultimate-LoRA) |
 
 ## Image-to-Text
 
@@ -4324,6 +4328,7 @@ Updated on 2025-11-11
 | Updatedabout 15 hours ago | 149 | openai/gpt-oss-safeguard-120bText | 120B | [Link](https://huggingface.co/openai/gpt-oss-safeguard-120b) |
 | 38 | 143 | qihoo360/TinyR1-32B-PreviewText | Updatedabout 17 hours ago | [Link](https://huggingface.co/qihoo360/TinyR1-32B-Preview) |
 | Updated6 days ago | 140 | zerofata/MS3 | 24B | [Link](https://huggingface.co/zerofata/MS3.2-PaintedFantasy-24B) |
+| Updated1 day ago | 140 | PleIAs/MonadText | 56.7M | [Link](https://huggingface.co/PleIAs/Monad) |
 | Updatedabout 10 hours ago | 139 | google/vaultgemma-1bText | 1B | [Link](https://huggingface.co/google/vaultgemma-1b) |
 | Updatedabout 4 hours ago | 138 | AvitoTech/avibeText | 8B | [Link](https://huggingface.co/AvitoTech/avibe) |
 | Updatedabout 6 hours ago | 136 | naver-hyperclovax/HyperCLOVAX-SEED-Think-14BText | 15B | [Link](https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Think-14B) |
