@@ -2261,6 +2261,7 @@ Updated on 2025-11-12
 | 10.5k | 9 | hafsa000/interior-designImage-to-Image | UpdatedMay 16, 2024 | [Link](https://huggingface.co/hafsa000/interior-design) |
 |  | 9 | ilkerzgi/Overlay-Kontext-Dev-LoRAImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/ilkerzgi/Overlay-Kontext-Dev-LoRA) |
 | 109k | 9 | HighCWu/FLUX | UpdatedJul 5 | [Link](https://huggingface.co/HighCWu/FLUX.1-Kontext-dev-bnb-hqq-4bit) |
+| 41 | 9 | rsshekhawat/Qwen-Edit-3DChibi-LoRAImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/rsshekhawat/Qwen-Edit-3DChibi-LoRA) |
 | 59 | 8 | qualcomm/AOT-GANImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/qualcomm/AOT-GAN) |
 |  | 8 | xuminglong/kontext-tryon7Image-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/xuminglong/kontext-tryon7) |
 | 1.74k | 7 | xiaozaa/catvton-flux-betaImage-to-Image | UpdatedJan 16 | [Link](https://huggingface.co/xiaozaa/catvton-flux-beta) |
@@ -5157,6 +5158,7 @@ Updated on 2025-11-12
 | 273 | 6 | lodestones/Chroma1-FlashText-to-Image | Updated3 days ago | [Link](https://huggingface.co/lodestones/Chroma1-Flash) |
 | Updatedabout 3 hours ago | 6 | wikeeyang/SRPO-for-ComfyUIText-to-Image | 12B | [Link](https://huggingface.co/wikeeyang/SRPO-for-ComfyUI) |
 | Updatedabout 5 hours ago | 6.93k | Phil2Sat/Qwen-Image-Edit-Rapid-AIO-GGUFText-to-Image | 20B | [Link](https://huggingface.co/Phil2Sat/Qwen-Image-Edit-Rapid-AIO-GGUF) |
+| 65 | 6 | FractalAIResearch/Kalaido-qwen-image-loraText-to-Image | Updated1 day ago | [Link](https://huggingface.co/FractalAIResearch/Kalaido-qwen-image-lora) |
 | 42 | 5 | Shakker-Labs/RepTextText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Shakker-Labs/RepText) |
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
@@ -5346,6 +5348,7 @@ Updated on 2025-11-12
 | 6 | Unknown | OPPOer/Qwen-Image-10BText-to-Image | Updatedabout 13 hours ago | [Link](https://huggingface.co/OPPOer/Qwen-Image-10B) |
 | 9.2k |  | UmeAiRT/FLUX | UpdatedSep 26, 2024 | [Link](https://huggingface.co/UmeAiRT/FLUX.1-dev-LoRA-Modern_Pixel_art) |
 | 11 | Unknown | Lakonik/pi-Qwen-ImageText-to-Image | Updated4 days ago | [Link](https://huggingface.co/Lakonik/pi-Qwen-Image) |
+| 1.51k |  | Daverrrr75/Qwen-Remove-ClothingText-to-Image | UpdatedSep 10 | [Link](https://huggingface.co/Daverrrr75/Qwen-Remove-Clothing) |
 
 ## Text-to-Speech
 
