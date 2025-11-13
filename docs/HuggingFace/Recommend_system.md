@@ -33,6 +33,7 @@ Updated on 2025-11-13
 | 4.22k | 97 | inclusionAI/Ming-Lite-OmniAny-to-Any | Updatedabout 3 hours ago | [Link](https://huggingface.co/inclusionAI/Ming-Lite-Omni) |
 | 36.8k | 83 | openbmb/MiniCPM-o-2_6-ggufAny-to-Any | UpdatedJan 17 | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6-gguf) |
 | UpdatedAug 20 | 64 | Frane92O/Qwen2 | 8B | [Link](https://huggingface.co/Frane92O/Qwen2.5-Omni-7B-Q4_0-GGUF) |
+| Updatedabout 1 hour ago | 63 | wikeeyang/Emu35-NF4Any-to-Any | 35B | [Link](https://huggingface.co/wikeeyang/Emu35-NF4) |
 | Updated1 day ago | 53 | cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-4bitAny-to-Any | 6B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-4bit) |
 | Updated17 days ago | 53 | sensefvg/InteractiveOmni-4BAny-to-Any | 6B | [Link](https://huggingface.co/sensefvg/InteractiveOmni-4B) |
 | 32.5k | 44 | onnx-community/Janus-Pro-1B-ONNXAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/onnx-community/Janus-Pro-1B-ONNX) |
@@ -1934,6 +1935,7 @@ Updated on 2025-11-13
 | Updatedabout 14 hours ago | 12 | ibm-granite/granite-docling-258M-mlxImage-Text-to-Text | 0.3B | [Link](https://huggingface.co/ibm-granite/granite-docling-258M-mlx) |
 | Updated1 day ago | 12 | OpenGVLab/ScaleCUA-32BImage-Text-to-Text | 33B | [Link](https://huggingface.co/OpenGVLab/ScaleCUA-32B) |
 | Updated2 days ago | 12.8k | unsloth/Qwen3-VL-30B-A3B-Thinking-GGUFImage-Text-to-Text | 31B | [Link](https://huggingface.co/unsloth/Qwen3-VL-30B-A3B-Thinking-GGUF) |
+| Updatedabout 3 hours ago | 12 | janhq/Jan-v2-VL-highImage-Text-to-Text | 9B | [Link](https://huggingface.co/janhq/Jan-v2-VL-high) |
 | 918 | 11 | mlabonne/gemma-3-27b-it-abliterated-GGUFImage-Text-to-Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-abliterated-GGUF) |
 | 4.38k | 11 | bartowski/mlabonne_gemma-3-27b-it-abliterated-GGUFImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/bartowski/mlabonne_gemma-3-27b-it-abliterated-GGUF) |
 | 862 | 11 | mlabonne/gemma-3-4b-it-abliteratedImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-4b-it-abliterated) |
@@ -2257,6 +2259,7 @@ Updated on 2025-11-13
 | 4 | 10 | bytedance-research/USOImage-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/bytedance-research/USO) |
 | 467 | 10 | buildborderless/FLUX | UpdatedJul 14 | [Link](https://huggingface.co/buildborderless/FLUX.MF-Kontext_Lightning-8s-4bit_nf4) |
 | 36 | 10 | nvidia/ChronoEdit-14B-DiffusersImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/nvidia/ChronoEdit-14B-Diffusers) |
+| 24 | 10 | tarn59/apply_texture_qwen_image_edit_2509Image-to-Image | Updated10 minutes ago | [Link](https://huggingface.co/tarn59/apply_texture_qwen_image_edit_2509) |
 | 11 | 9 | keras-io/conditional-ganImage-to-Image | UpdatedJul 5, 2024 | [Link](https://huggingface.co/keras-io/conditional-gan) |
 | 10.5k | 9 | hafsa000/interior-designImage-to-Image | UpdatedMay 16, 2024 | [Link](https://huggingface.co/hafsa000/interior-design) |
 |  | 9 | ilkerzgi/Overlay-Kontext-Dev-LoRAImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/ilkerzgi/Overlay-Kontext-Dev-LoRA) |
@@ -2518,6 +2521,7 @@ Updated on 2025-11-13
 | Updated2 days ago | 230 | HelloKKMe/GTA1-32BImage-to-Text | 33B | [Link](https://huggingface.co/HelloKKMe/GTA1-32B) |
 | 7.46k | 213 | xtuner/llava-llama-3-8b-v1_1-ggufImage-to-Text | UpdatedApr 30, 2024 | [Link](https://huggingface.co/xtuner/llava-llama-3-8b-v1_1-gguf) |
 | UpdatedMar 5 | 180 | r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUF) |
+| Updated6 days ago | 177 | thesby/Qwen3-VL-8B-NSFW-Caption-V4 | 9B | [Link](https://huggingface.co/thesby/Qwen3-VL-8B-NSFW-Caption-V4.5) |
 | UpdatedJun 20 | 174k | BCCard/Qwen2 | 33B | [Link](https://huggingface.co/BCCard/Qwen2.5-VL-32B-Instruct-FP8-Dynamic) |
 | Updated1 day ago | 163 | HelloKKMe/GTA1-72BImage-to-Text | 73B | [Link](https://huggingface.co/HelloKKMe/GTA1-72B) |
 | 170k | 159 | microsoft/kosmos-2-patch14-224Image-to-Text | UpdatedNov 28, 2023 | [Link](https://huggingface.co/microsoft/kosmos-2-patch14-224) |
@@ -2728,6 +2732,7 @@ Updated on 2025-11-13
 | 92 | 2 | mlx-community/chandra-4bitImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/mlx-community/chandra-4bit) |
 | 6.14k | 2 | PaddlePaddle/PP-Chart2TableImage-to-Text | UpdatedJul 22 | [Link](https://huggingface.co/PaddlePaddle/PP-Chart2Table) |
 | Updated1 day ago | 2.26k | mradermacher/Qwen3-VL-8B-Abliterated-Caption-it-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/mradermacher/Qwen3-VL-8B-Abliterated-Caption-it-GGUF) |
+| 1.06k | 2 | PaddlePaddle/arabic_PP-OCRv5_mobile_recImage-to-Text | Updated28 days ago | [Link](https://huggingface.co/PaddlePaddle/arabic_PP-OCRv5_mobile_rec) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -4311,6 +4316,7 @@ Updated on 2025-11-13
 | Updatedabout 18 hours ago | 217 | google/gemma-3-270mText | 0.3B | [Link](https://huggingface.co/google/gemma-3-270m) |
 | 2.13k | 215 | XiaomiMiMo/MiMo-7B-RLText | Updatedabout 12 hours ago | [Link](https://huggingface.co/XiaomiMiMo/MiMo-7B-RL) |
 | 427 | 204 | microsoft/MAI-DS-R1Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/microsoft/MAI-DS-R1) |
+| Updated15 days ago | 201 | SamuelBang/AesCoder-4BText | 4B | [Link](https://huggingface.co/SamuelBang/AesCoder-4B) |
 | 11.7k | 196 | smirki/UIGEN-T1-Qwen-7bText | Updated5 days ago | [Link](https://huggingface.co/smirki/UIGEN-T1-Qwen-7b) |
 | Updated7 days ago | 181 | janhq/Jan-v1-2509Text | 0.0B | [Link](https://huggingface.co/janhq/Jan-v1-2509) |
 | Updated1 day ago | 179 | nvidia/OpenReasoning-Nemotron-7BText | 8B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-7B) |
