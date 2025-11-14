@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-11-13
+Updated on 2025-11-14
 
 > Generated from the Hugging Face database.
 
@@ -1936,6 +1936,7 @@ Updated on 2025-11-13
 | Updated1 day ago | 12 | OpenGVLab/ScaleCUA-32BImage-Text-to-Text | 33B | [Link](https://huggingface.co/OpenGVLab/ScaleCUA-32B) |
 | Updated2 days ago | 12.8k | unsloth/Qwen3-VL-30B-A3B-Thinking-GGUFImage-Text-to-Text | 31B | [Link](https://huggingface.co/unsloth/Qwen3-VL-30B-A3B-Thinking-GGUF) |
 | Updatedabout 3 hours ago | 12 | janhq/Jan-v2-VL-highImage-Text-to-Text | 9B | [Link](https://huggingface.co/janhq/Jan-v2-VL-high) |
+| Updatedabout 1 hour ago | 12 | janhq/Jan-v2-VL-medImage-Text-to-Text | 9B | [Link](https://huggingface.co/janhq/Jan-v2-VL-med) |
 | 918 | 11 | mlabonne/gemma-3-27b-it-abliterated-GGUFImage-Text-to-Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-abliterated-GGUF) |
 | 4.38k | 11 | bartowski/mlabonne_gemma-3-27b-it-abliterated-GGUFImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/bartowski/mlabonne_gemma-3-27b-it-abliterated-GGUF) |
 | 862 | 11 | mlabonne/gemma-3-4b-it-abliteratedImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-4b-it-abliterated) |
@@ -1984,6 +1985,7 @@ Updated on 2025-11-13
 | Updatedabout 8 hours ago | 9.7k | Qwen/Qwen3-VL-235B-A22B-Instruct-FP8Image-Text-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct-FP8) |
 | Updated3 days ago | 9.24k | unsloth/Qwen3-VL-32B-Instruct-GGUFImage-Text-to-Text | 33B | [Link](https://huggingface.co/unsloth/Qwen3-VL-32B-Instruct-GGUF) |
 | Updated5 days ago | 9.66k | unsloth/Qwen3-VL-4B-Thinking-GGUFImage-Text-to-Text | 4B | [Link](https://huggingface.co/unsloth/Qwen3-VL-4B-Thinking-GGUF) |
+| 95 | 9 | NyxKrage/moondream3-hfImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/NyxKrage/moondream3-hf) |
 | 9.71k | 8 | lmstudio-community/gemma-3-27b-it-GGUFImage-Text-to-Text | Updatedabout 18 hours ago | [Link](https://huggingface.co/lmstudio-community/gemma-3-27b-it-GGUF) |
 | 2.95k | 8 | bartowski/google_gemma-3-4b-it-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF) |
 | 725 | 8 | Mungert/gemma-3-4b-it-ggufImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/Mungert/gemma-3-4b-it-gguf) |
@@ -2002,6 +2004,9 @@ Updated on 2025-11-13
 | Updated3 days ago | 8.51k | NexaAI/Qwen3-VL-8B-Instruct-GGUFImage-Text-to-Text | 8B | [Link](https://huggingface.co/NexaAI/Qwen3-VL-8B-Instruct-GGUF) |
 | Updated1 day ago | 8 | Qwen/Qwen3-VL-2B-InstructImage-Text-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct) |
 | Updatedabout 22 hours ago | 8.12k | unsloth/Qwen3-VL-30B-A3B-Instruct-GGUFImage-Text-to-Text | 31B | [Link](https://huggingface.co/unsloth/Qwen3-VL-30B-A3B-Instruct-GGUF) |
+| Updatedabout 1 hour ago | 8 | janhq/Jan-v2-VL-lowImage-Text-to-Text | 9B | [Link](https://huggingface.co/janhq/Jan-v2-VL-low) |
+| Updatedabout 9 hours ago | 8 | Hcompany/Holo2-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/Hcompany/Holo2-8B) |
+| Updatedabout 9 hours ago | 8 | Hcompany/Holo2-30B-A3BImage-Text-to-Text | 31B | [Link](https://huggingface.co/Hcompany/Holo2-30B-A3B) |
 | 27 | 7 | ByteDance-Seed/SAIL-7BImage-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/ByteDance-Seed/SAIL-7B) |
 | 677 | 7 | turing-motors/Heron-NVILA-Lite-15BImage-Text-to-Text | Updated14 days ago | [Link](https://huggingface.co/turing-motors/Heron-NVILA-Lite-15B) |
 | 25 | 7 | mlabonne/gemma-3-27b-it-qat-abliteratedImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-qat-abliterated) |
@@ -2498,6 +2503,7 @@ Updated on 2025-11-13
 | 4 | Unknown | qihoo360/EVTARImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/qihoo360/EVTAR) |
 | 15 | Unknown | autoweeb/Qwen-Image-Edit-2509-Photo-to-AnimeImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/autoweeb/Qwen-Image-Edit-2509-Photo-to-Anime) |
 | 168 |  | strangerzonehf/Flux-Kontext-Ultimate-LoRAImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/strangerzonehf/Flux-Kontext-Ultimate-LoRA) |
+| 13 | Unknown | tarn59/extract_texture_qwen_image_edit_2509Image-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/tarn59/extract_texture_qwen_image_edit_2509) |
 
 ## Image-to-Text
 
@@ -2679,6 +2685,7 @@ Updated on 2025-11-13
 | UpdatedDec 18, 2024 | 4 | merve/paligemma_vqav2Image-to-Text | 3B | [Link](https://huggingface.co/merve/paligemma_vqav2) |
 | 1.23k | 4 | PaddlePaddle/PP-DocLayout-LImage-to-Text | UpdatedJul 22 | [Link](https://huggingface.co/PaddlePaddle/PP-DocLayout-L) |
 | Updated1 day ago | 4.13k | mradermacher/Qwen3-VL-8B-Abliterated-Caption-it-i1-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/mradermacher/Qwen3-VL-8B-Abliterated-Caption-it-i1-GGUF) |
+| UpdatedJun 22, 2024 | 4 | ryomenkizaru/model-ocr-invoice-banghid-v1Image-to-Text | 0.2B | [Link](https://huggingface.co/ryomenkizaru/model-ocr-invoice-banghid-v1) |
 | 299 | 3 | cnmoro/nano-image-captioningImage-to-Text | Updatedabout 1 month ago | [Link](https://huggingface.co/cnmoro/nano-image-captioning) |
 | 45 | 3 | braintacles/brainblipImage-to-Text | UpdatedJun 27, 2024 | [Link](https://huggingface.co/braintacles/brainblip) |
 | 55 | 3 | sbintuitions/sarashina2-vision-8bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-8b) |
@@ -4612,6 +4619,7 @@ Updated on 2025-11-13
 | Updatedabout 22 hours ago | 20 | openbmb/MiniCPM4 | 8B | [Link](https://huggingface.co/openbmb/MiniCPM4.1-8B) |
 | 94 | 20 | ByteDance/Ouro-1 | Updated2 days ago | [Link](https://huggingface.co/ByteDance/Ouro-1.4B) |
 | 227 | 20 | ByteDance/Ouro-2 | Updated1 day ago | [Link](https://huggingface.co/ByteDance/Ouro-2.6B) |
+| Updatedabout 15 hours ago | 20 | miromind-ai/MiroThinker-v1 | 73B | [Link](https://huggingface.co/miromind-ai/MiroThinker-v1.0-72B) |
 | 14.1k | 19 | alamios/Mistral-Small-3 | Updated10 days ago | [Link](https://huggingface.co/alamios/Mistral-Small-3.1-DRAFT-0.5B) |
 | 358 | 19 | all-hands/openhands-lm-7b-v0 | Updated1 day ago | [Link](https://huggingface.co/all-hands/openhands-lm-7b-v0.1) |
 | 105 | 19 | nvidia/OpenCodeReasoning-Nemotron-32B-IOIText | Updated6 days ago | [Link](https://huggingface.co/nvidia/OpenCodeReasoning-Nemotron-32B-IOI) |
@@ -5101,6 +5109,7 @@ Updated on 2025-11-13
 | 66 | 16 | HiDream-ai/HiDream-I1-FastText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/HiDream-ai/HiDream-I1-Fast) |
 | 42 | 16 | codermert/burcuufinal_fluxxText-to-Image | Updated5 days ago | [Link](https://huggingface.co/codermert/burcuufinal_fluxx) |
 | 326 | 16 | rockerBOO/flux | Updatedabout 10 hours ago | [Link](https://huggingface.co/rockerBOO/flux.1-dev-SRPO) |
+| 247 | 16 | Photoroom/prx-1024-t2i-betaText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/Photoroom/prx-1024-t2i-beta) |
 | 8 | 14 | mikeyandfriends/PixelWave_FLUX | Updated1 day ago | [Link](https://huggingface.co/mikeyandfriends/PixelWave_FLUX.1-schnell_04) |
 |  | 13 | aaronaftab/mirage-ghibliText-to-Image | Updatedabout 14 hours ago | [Link](https://huggingface.co/aaronaftab/mirage-ghibli) |
 | 4 | 13 | fumeisama/drawatoon-v1Text-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/fumeisama/drawatoon-v1) |
