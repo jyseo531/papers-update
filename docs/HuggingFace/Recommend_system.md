@@ -2506,6 +2506,7 @@ Updated on 2025-11-14
 | 168 |  | strangerzonehf/Flux-Kontext-Ultimate-LoRAImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/strangerzonehf/Flux-Kontext-Ultimate-LoRA) |
 | 13 | Unknown | tarn59/extract_texture_qwen_image_edit_2509Image-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/tarn59/extract_texture_qwen_image_edit_2509) |
 | 23 |  | prithivMLmods/Kontext-Top-Down-ViewImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/prithivMLmods/Kontext-Top-Down-View) |
+| 4 | Unknown | linoyts/Qwen-Image-Edit-Rapid-AIOImage-to-Image | Updated21 days ago | [Link](https://huggingface.co/linoyts/Qwen-Image-Edit-Rapid-AIO) |
 
 ## Image-to-Text
 
