@@ -1986,6 +1986,7 @@ Updated on 2025-11-14
 | Updated3 days ago | 9.24k | unsloth/Qwen3-VL-32B-Instruct-GGUFImage-Text-to-Text | 33B | [Link](https://huggingface.co/unsloth/Qwen3-VL-32B-Instruct-GGUF) |
 | Updated5 days ago | 9.66k | unsloth/Qwen3-VL-4B-Thinking-GGUFImage-Text-to-Text | 4B | [Link](https://huggingface.co/unsloth/Qwen3-VL-4B-Thinking-GGUF) |
 | 95 | 9 | NyxKrage/moondream3-hfImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/NyxKrage/moondream3-hf) |
+| Updatedabout 1 hour ago | 9 | Hcompany/Holo2-4BImage-Text-to-Text | 4B | [Link](https://huggingface.co/Hcompany/Holo2-4B) |
 | 9.71k | 8 | lmstudio-community/gemma-3-27b-it-GGUFImage-Text-to-Text | Updatedabout 18 hours ago | [Link](https://huggingface.co/lmstudio-community/gemma-3-27b-it-GGUF) |
 | 2.95k | 8 | bartowski/google_gemma-3-4b-it-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF) |
 | 725 | 8 | Mungert/gemma-3-4b-it-ggufImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/Mungert/gemma-3-4b-it-gguf) |
@@ -2504,6 +2505,7 @@ Updated on 2025-11-14
 | 15 | Unknown | autoweeb/Qwen-Image-Edit-2509-Photo-to-AnimeImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/autoweeb/Qwen-Image-Edit-2509-Photo-to-Anime) |
 | 168 |  | strangerzonehf/Flux-Kontext-Ultimate-LoRAImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/strangerzonehf/Flux-Kontext-Ultimate-LoRA) |
 | 13 | Unknown | tarn59/extract_texture_qwen_image_edit_2509Image-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/tarn59/extract_texture_qwen_image_edit_2509) |
+| 23 |  | prithivMLmods/Kontext-Top-Down-ViewImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/prithivMLmods/Kontext-Top-Down-View) |
 
 ## Image-to-Text
 
@@ -2543,6 +2545,7 @@ Updated on 2025-11-14
 | UpdatedFeb 25 | 117k | allenai/olmOCR-7B-0225-previewImage-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview) |
 | UpdatedApr 2 | 116k | reducto/RolmOCRImage-to-Text | 8B | [Link](https://huggingface.co/reducto/RolmOCR) |
 | Updated5 days ago | 110 | Svngoku/Qwen3-VL-TimeTravelImage-to-Text | 9B | [Link](https://huggingface.co/Svngoku/Qwen3-VL-TimeTravel) |
+| Updatedabout 20 hours ago | 110 | scb10x/typhoon-ocr1 | 2B | [Link](https://huggingface.co/scb10x/typhoon-ocr1.5-2b) |
 | Updatedabout 19 hours ago | 96 | davanstrien/iconclass-vlmImage-to-Text | 4B | [Link](https://huggingface.co/davanstrien/iconclass-vlm) |
 | UpdatedNov 29, 2024 | 81 | fancyfeast/llama-joycaption-alpha-two-vqa-test-1Image-to-Text | 8B | [Link](https://huggingface.co/fancyfeast/llama-joycaption-alpha-two-vqa-test-1) |
 | UpdatedMar 3 | 79 | mlx-community/olmOCR-7B-0225-preview-bf16Image-to-Text | 8B | [Link](https://huggingface.co/mlx-community/olmOCR-7B-0225-preview-bf16) |
@@ -5201,6 +5204,7 @@ Updated on 2025-11-14
 | Updated6 days ago | 1.58k | QuantStack/Chroma1-HD-GGUFText-to-Image | 9B | [Link](https://huggingface.co/QuantStack/Chroma1-HD-GGUF) |
 | Updated4 days ago | 1.3k | wikeeyang/Qwen-Image-Pruning-for-ComfyUIText-to-Image | 14B | [Link](https://huggingface.co/wikeeyang/Qwen-Image-Pruning-for-ComfyUI) |
 | UpdatedSep 25 | 1.62k | wikeeyang/Real-Qwen-Image-v1 | 20B | [Link](https://huggingface.co/wikeeyang/Real-Qwen-Image-v1.0) |
+| UpdatedApr 14, 2024 | 1.81k | UnfilteredAI/NSFW-GEN-ANIMEText-to-Image | 3B | [Link](https://huggingface.co/UnfilteredAI/NSFW-GEN-ANIME) |
 | 1.84M |  | black-forest-labs/FLUX | UpdatedAug 16, 2024 | [Link](https://huggingface.co/black-forest-labs/FLUX.1-dev) |
 | 268k |  | stabilityai/stable-diffusion-3 | UpdatedOct 22, 2024 | [Link](https://huggingface.co/stabilityai/stable-diffusion-3.5-large) |
 | 3.52M |  | stabilityai/stable-diffusion-xl-base-1 | UpdatedOct 30, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) |
