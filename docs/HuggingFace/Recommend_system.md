@@ -1951,6 +1951,7 @@ Updated on 2025-11-15
 | 206 | 11 | google/gemma-3n-E2BImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/google/gemma-3n-E2B) |
 | 36 | 11 | onnx-community/gemma-3n-E2B-it-ONNXImage-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/onnx-community/gemma-3n-E2B-it-ONNX) |
 | Updatedabout 8 hours ago | 11 | LiquidAI/LFM2-VL-450M-GGUFImage-Text-to-Text | 0.4B | [Link](https://huggingface.co/LiquidAI/LFM2-VL-450M-GGUF) |
+| 247 | 11 | NyxKrage/moondream3-preview-hfImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/NyxKrage/moondream3-preview-hf) |
 | 185 | 10 | prithivMLmods/Tokenized-OCRImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/prithivMLmods/Tokenized-OCR) |
 | 25 | 10 | prithivMLmods/Qwen2-VL-OCR2-2B-InstructImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/Qwen2-VL-OCR2-2B-Instruct) |
 | 9 | 10 | google/gemma-3-12b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-12b-pt) |
@@ -2029,6 +2030,7 @@ Updated on 2025-11-15
 | Updated1 day ago | 4.45k | openbmb/MiniCPM-V-4_5-ggufImage-Text-to-Text | 8B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4_5-gguf) |
 | Updatedabout 12 hours ago | 4 | ibm-granite/granite-docling-258MImage-Text-to-Text | 0.3B | [Link](https://huggingface.co/ibm-granite/granite-docling-258M) |
 | Updated12 days ago | 4.44k | Jalea96/DeepSeek-OCR-bnb-4bit-NF4Image-Text-to-Text | 3B | [Link](https://huggingface.co/Jalea96/DeepSeek-OCR-bnb-4bit-NF4) |
+| Updated1 day ago | 4.89k | janhq/Jan-v2-VL-med-ggufImage-Text-to-Text | 8B | [Link](https://huggingface.co/janhq/Jan-v2-VL-med-gguf) |
 | Updated5 minutes ago | 3.08k | openbmb/MiniCPM-V-4-ggufImage-Text-to-Text | 4B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4-gguf) |
 | Updatedabout 14 hours ago | 3 | Qwen/Qwen3-VL-8B-ThinkingImage-Text-to-Text | 9B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Thinking) |
 | Updatedabout 13 hours ago | 3 | Qwen/Qwen3-VL-4B-Thinking-FP8Image-Text-to-Text | 5B | [Link](https://huggingface.co/Qwen/Qwen3-VL-4B-Thinking-FP8) |
@@ -2262,6 +2264,7 @@ Updated on 2025-11-15
 | 424 | 11 | camenduru/IDM-VTON-F16Image-to-Image | UpdatedApr 23, 2024 | [Link](https://huggingface.co/camenduru/IDM-VTON-F16) |
 | 91 | 11 | TencentARC/t2iadapter_color_sd14v1Image-to-Image | UpdatedJul 31, 2023 | [Link](https://huggingface.co/TencentARC/t2iadapter_color_sd14v1) |
 | 192 | 11 | Alissonerdx/BFS-Best-Face-SwapImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap) |
+|  | 11 | AmirKerr/ThisPersonImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/AmirKerr/ThisPerson) |
 | 21 | 10 | philschmid/stable-diffusion-2-inpainting-endpointImage-to-Image | UpdatedSep 29, 2023 | [Link](https://huggingface.co/philschmid/stable-diffusion-2-inpainting-endpoint) |
 | 270 | 10 | drbaph/Fluffy-kontext-LoRAImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/drbaph/Fluffy-kontext-LoRA) |
 | 4 | 10 | bytedance-research/USOImage-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/bytedance-research/USO) |
@@ -2782,6 +2785,7 @@ Updated on 2025-11-15
 | UpdatedMay 23 | 1 | andreidima/Llama-3 | 11B | [Link](https://huggingface.co/andreidima/Llama-3.2-11B-Vision-Instruct-RoVQA) |
 | 8.52k | 1 | PaddlePaddle/PP-DocBlockLayoutImage-to-Text | UpdatedJul 22 | [Link](https://huggingface.co/PaddlePaddle/PP-DocBlockLayout) |
 | 36 | 1 | PaddlePaddle/PP-DocBee-2BImage-to-Text | UpdatedAug 27 | [Link](https://huggingface.co/PaddlePaddle/PP-DocBee-2B) |
+| 6 | 1 | AnyaSchen/vit-rugpt3-large-poetry-ftImage-to-Text | UpdatedJun 1, 2023 | [Link](https://huggingface.co/AnyaSchen/vit-rugpt3-large-poetry-ft) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -2839,6 +2843,7 @@ Updated on 2025-11-15
 | 2 | Unknown | monkt/paddleocr-onnxImage-to-Text | Updated2 days ago | [Link](https://huggingface.co/monkt/paddleocr-onnx) |
 | 3 | Unknown | pitapo/suryaImage-to-Text | UpdatedAug 3 | [Link](https://huggingface.co/pitapo/surya) |
 | 4 | Unknown | nvidia/nemoretriever-ocr-v1Image-to-Text | Updatedabout 22 hours ago | [Link](https://huggingface.co/nvidia/nemoretriever-ocr-v1) |
+| 15 | Unknown | bidiptas/PG-InstructBLIPImage-to-Text | UpdatedJan 22, 2024 | [Link](https://huggingface.co/bidiptas/PG-InstructBLIP) |
 
 ## Image-to-Video
 
@@ -5195,6 +5200,7 @@ Updated on 2025-11-15
 | 122 | 5 | valiantcat/Qwen-Image-Edit-CosplayText-to-Image | Updated3 days ago | [Link](https://huggingface.co/valiantcat/Qwen-Image-Edit-Cosplay) |
 | 22 | 5 | eigen-ai-labs/eigen-banana-qwen-image-editText-to-Image | Updated3 days ago | [Link](https://huggingface.co/eigen-ai-labs/eigen-banana-qwen-image-edit) |
 | 202 | 5 | renderartist/technically-color-wanText-to-Image | Updated2 days ago | [Link](https://huggingface.co/renderartist/technically-color-wan) |
+| 70 | 5 | rzgar/Qwen-Image-Edit-smoothifyText-to-Image | Updated3 days ago | [Link](https://huggingface.co/rzgar/Qwen-Image-Edit-smoothify) |
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 46 | 4 | Sherwinroger002/fashion_mnist_diffusion_class_conditionalText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Sherwinroger002/fashion_mnist_diffusion_class_conditional) |
 | 2.56k | 3.84k | WarriorMama777/OrangeMixsText-to-Image | UpdatedJan 7, 2024 | [Link](https://huggingface.co/WarriorMama777/OrangeMixs) |
@@ -5642,6 +5648,7 @@ Updated on 2025-11-15
 | 3 | Unknown | moiraai2024/GreekTTS-1 | Updated5 days ago | [Link](https://huggingface.co/moiraai2024/GreekTTS-1.5) |
 | 5 | Unknown | Cseti/VibeVoice_7B_Diffusion-head-LoRA_Hungarian-CV17Text-to-Speech | Updated23 days ago | [Link](https://huggingface.co/Cseti/VibeVoice_7B_Diffusion-head-LoRA_Hungarian-CV17) |
 | 4 | Unknown | Thomcles/Chatterbox-TTS-Persian-FarsiText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/Thomcles/Chatterbox-TTS-Persian-Farsi) |
+| 4 | Unknown | Thomcles/Chatterbox-TTS-CzechText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/Thomcles/Chatterbox-TTS-Czech) |
 
 ## Text-to-Video
 
