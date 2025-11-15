@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-11-14
+Updated on 2025-11-15
 
 > Generated from the Hugging Face database.
 
@@ -2034,6 +2034,7 @@ Updated on 2025-11-14
 | Updatedabout 13 hours ago | 3 | Qwen/Qwen3-VL-4B-Thinking-FP8Image-Text-to-Text | 5B | [Link](https://huggingface.co/Qwen/Qwen3-VL-4B-Thinking-FP8) |
 | Updatedabout 13 hours ago | 3 | Qwen/Qwen3-VL-4B-Instruct-FP8Image-Text-to-Text | 5B | [Link](https://huggingface.co/Qwen/Qwen3-VL-4B-Instruct-FP8) |
 | Updated2 days ago | 3.35k | huihui-ai/Huihui-Qwen3-VL-4B-Instruct-abliteratedImage-Text-to-Text | 4B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3-VL-4B-Instruct-abliterated) |
+| Updated1 day ago | 3.18k | janhq/Jan-v2-VL-high-ggufImage-Text-to-Text | 8B | [Link](https://huggingface.co/janhq/Jan-v2-VL-high-gguf) |
 | Updatedabout 7 hours ago | 2.63k | nvidia/Eagle2 | 8B | [Link](https://huggingface.co/nvidia/Eagle2.5-8B) |
 | Updatedabout 7 hours ago | 2 | internlm/Intern-S1-FP8Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1-FP8) |
 | Updated1 day ago | 2.26k | Qwen/Qwen3-VL-235B-A22B-InstructImage-Text-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct) |
@@ -2055,6 +2056,7 @@ Updated on 2025-11-14
 | Updated1 day ago | 1.37k | LiquidAI/LFM2-VL-3B-GGUFImage-Text-to-Text | 3B | [Link](https://huggingface.co/LiquidAI/LFM2-VL-3B-GGUF) |
 | Updated4 days ago | 1.55k | lapa-llm/lapa-12b-ptImage-Text-to-Text | 12B | [Link](https://huggingface.co/lapa-llm/lapa-12b-pt) |
 | Updatedabout 7 hours ago | 1.36k | unsloth/DeepSeek-OCRImage-Text-to-Text | 3B | [Link](https://huggingface.co/unsloth/DeepSeek-OCR) |
+| Updatedabout 7 hours ago | 1.17k | mlfoundations/Gelato-30B-A3BImage-Text-to-Text | 31B | [Link](https://huggingface.co/mlfoundations/Gelato-30B-A3B) |
 | 1.07M |  | meta-llama/Llama-3 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) |
 | 1.49M |  | Qwen/Qwen2-VL-7B-InstructImage-Text-to-Text | Updated19 days ago | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) |
 | 288k |  | microsoft/Phi-3 | UpdatedSep 26, 2024 | [Link](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) |
@@ -5082,6 +5084,7 @@ Updated on 2025-11-14
 | 14.6k | 321 | JujoHotaru/loraText-to-Image | UpdatedApr 28 | [Link](https://huggingface.co/JujoHotaru/lora) |
 | 3.97k | 317 | Shitao/OmniGen-v1Text-to-Image | UpdatedNov 7, 2024 | [Link](https://huggingface.co/Shitao/OmniGen-v1) |
 | 15.3k | 254 | InstantX/FLUX | UpdatedNov 23, 2024 | [Link](https://huggingface.co/InstantX/FLUX.1-dev-IP-Adapter) |
+| Updated1 day ago | 244 | wikeeyang/Magic-Wan-Image-V2Text-to-Image | 14B | [Link](https://huggingface.co/wikeeyang/Magic-Wan-Image-V2) |
 | 28.5k | 241 | xinsir/controlnet-openpose-sdxl-1 | UpdatedJul 9, 2024 | [Link](https://huggingface.co/xinsir/controlnet-openpose-sdxl-1.0) |
 | 55k | 234 | SG161222/Realistic_Vision_V6 | UpdatedOct 8, 2024 | [Link](https://huggingface.co/SG161222/Realistic_Vision_V6.0_B1_noVAE) |
 | 126k | 206 | RunDiffusion/Juggernaut-XL-v9Text-to-Image | UpdatedDec 11, 2024 | [Link](https://huggingface.co/RunDiffusion/Juggernaut-XL-v9) |
@@ -5638,6 +5641,7 @@ Updated on 2025-11-14
 | 3 | Unknown | tharindumihi/tts-si-F5-TTSText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/tharindumihi/tts-si-F5-TTS) |
 | 3 | Unknown | moiraai2024/GreekTTS-1 | Updated5 days ago | [Link](https://huggingface.co/moiraai2024/GreekTTS-1.5) |
 | 5 | Unknown | Cseti/VibeVoice_7B_Diffusion-head-LoRA_Hungarian-CV17Text-to-Speech | Updated23 days ago | [Link](https://huggingface.co/Cseti/VibeVoice_7B_Diffusion-head-LoRA_Hungarian-CV17) |
+| 4 | Unknown | Thomcles/Chatterbox-TTS-Persian-FarsiText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/Thomcles/Chatterbox-TTS-Persian-Farsi) |
 
 ## Text-to-Video
 
