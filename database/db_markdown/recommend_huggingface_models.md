@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-11-15
+Updated on 2025-11-16
 
 > Generated from the Hugging Face database.
 
@@ -4690,6 +4690,7 @@ Updated on 2025-11-15
 | 57 | 14 | katanemo/Arch-Agent-32BText | Updated3 days ago | [Link](https://huggingface.co/katanemo/Arch-Agent-32B) |
 | Updatedabout 11 hours ago | 14 | CohereLabs/command-a-translate-08-2025Text | 111B | [Link](https://huggingface.co/CohereLabs/command-a-translate-08-2025) |
 | Updatedabout 23 hours ago | 13 | inclusionAI/Ring-flash-linear-2 | 104B | [Link](https://huggingface.co/inclusionAI/Ring-flash-linear-2.0) |
+| Updated1 day ago | 13 | cerebras/MiniMax-M2-REAP-162B-A10BText | 162B | [Link](https://huggingface.co/cerebras/MiniMax-M2-REAP-162B-A10B) |
 | Updatedabout 10 hours ago | 11.9k | unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUFText | 31B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUF) |
 | Updatedabout 16 hours ago | 11.6k | unsloth/MiniMax-M2-GGUFText | 229B | [Link](https://huggingface.co/unsloth/MiniMax-M2-GGUF) |
 | Updatedabout 1 hour ago | 10.3k | unsloth/gemma-3-270m-it-GGUFText | 0.3B | [Link](https://huggingface.co/unsloth/gemma-3-270m-it-GGUF) |
