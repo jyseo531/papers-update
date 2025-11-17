@@ -2276,6 +2276,7 @@ Updated on 2025-11-17
 |  | 9 | ilkerzgi/Overlay-Kontext-Dev-LoRAImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/ilkerzgi/Overlay-Kontext-Dev-LoRA) |
 | 109k | 9 | HighCWu/FLUX | UpdatedJul 5 | [Link](https://huggingface.co/HighCWu/FLUX.1-Kontext-dev-bnb-hqq-4bit) |
 | 41 | 9 | rsshekhawat/Qwen-Edit-3DChibi-LoRAImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/rsshekhawat/Qwen-Edit-3DChibi-LoRA) |
+| 25 | 9 | nvidia/ChronoEdit-14B-Diffusers-Paint-Brush-LoraImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/nvidia/ChronoEdit-14B-Diffusers-Paint-Brush-Lora) |
 | 59 | 8 | qualcomm/AOT-GANImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/qualcomm/AOT-GAN) |
 |  | 8 | xuminglong/kontext-tryon7Image-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/xuminglong/kontext-tryon7) |
 | 1.74k | 7 | xiaozaa/catvton-flux-betaImage-to-Image | UpdatedJan 16 | [Link](https://huggingface.co/xiaozaa/catvton-flux-beta) |
@@ -4332,6 +4333,7 @@ Updated on 2025-11-17
 | UpdatedApr 22 | 246 | inclusionAI/Ling-Coder-liteText | 17B | [Link](https://huggingface.co/inclusionAI/Ling-Coder-lite) |
 | Updated5 days ago | 244 | jet-ai/Jet-Nemotron-4BText | 4B | [Link](https://huggingface.co/jet-ai/Jet-Nemotron-4B) |
 | Updatedabout 20 hours ago | 234 | radicalnumerics/RND1-Base-0910Text | 31B | [Link](https://huggingface.co/radicalnumerics/RND1-Base-0910) |
+| Updated1 day ago | 234 | p-e-w/gpt-oss-20b-hereticText | 21B | [Link](https://huggingface.co/p-e-w/gpt-oss-20b-heretic) |
 | Updatedabout 10 hours ago | 232 | inclusionAI/Ling-mini-2 | 16B | [Link](https://huggingface.co/inclusionAI/Ling-mini-2.0) |
 | Updatedabout 18 hours ago | 217 | google/gemma-3-270mText | 0.3B | [Link](https://huggingface.co/google/gemma-3-270m) |
 | 2.13k | 215 | XiaomiMiMo/MiMo-7B-RLText | Updatedabout 12 hours ago | [Link](https://huggingface.co/XiaomiMiMo/MiMo-7B-RL) |
