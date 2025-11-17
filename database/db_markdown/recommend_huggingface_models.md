@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-11-16
+Updated on 2025-11-17
 
 > Generated from the Hugging Face database.
 
@@ -2512,6 +2512,7 @@ Updated on 2025-11-16
 | 13 | Unknown | tarn59/extract_texture_qwen_image_edit_2509Image-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/tarn59/extract_texture_qwen_image_edit_2509) |
 | 23 |  | prithivMLmods/Kontext-Top-Down-ViewImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/prithivMLmods/Kontext-Top-Down-View) |
 | 4 | Unknown | linoyts/Qwen-Image-Edit-Rapid-AIOImage-to-Image | Updated21 days ago | [Link](https://huggingface.co/linoyts/Qwen-Image-Edit-Rapid-AIO) |
+| 34 | Unknown | dx8152/Qwen-Edit-2509-Multi-Angle-LightingImage-to-Image | Updated26 minutes ago | [Link](https://huggingface.co/dx8152/Qwen-Edit-2509-Multi-Angle-Lighting) |
 
 ## Image-to-Text
 
@@ -2604,6 +2605,7 @@ Updated on 2025-11-16
 | 376 | 19 | to-be/donut-base-finetuned-invoicesImage-to-Text | UpdatedMar 3, 2023 | [Link](https://huggingface.co/to-be/donut-base-finetuned-invoices) |
 | UpdatedOct 15, 2024 | 19 | Joctor/qwen2-vl-7b-instruct-ogiriImage-to-Text | 8B | [Link](https://huggingface.co/Joctor/qwen2-vl-7b-instruct-ogiri) |
 | Updated5 days ago | 19 | OfficerChul/Qwen2 | 8B | [Link](https://huggingface.co/OfficerChul/Qwen2.5-VL-7B-Instruct-Android-Control-5a) |
+| UpdatedJan 29 | 19 | John6666/llama-joycaption-alpha-two-hf-llava-nf4Image-to-Text | 3B | [Link](https://huggingface.co/John6666/llama-joycaption-alpha-two-hf-llava-nf4) |
 | 433 | 17 | kpyu/video-blip-opt-2 | UpdatedMay 17, 2023 | [Link](https://huggingface.co/kpyu/video-blip-opt-2.7b-ego4d) |
 | Updated15 days ago | 17.2k | scb10x/typhoon-ocr-7bImage-to-Text | 8B | [Link](https://huggingface.co/scb10x/typhoon-ocr-7b) |
 | UpdatedMar 24, 2024 | 17 | Cdywalst/donut-base-handwriting_recognitionImage-to-Text | 0.2B | [Link](https://huggingface.co/Cdywalst/donut-base-handwriting_recognition) |
