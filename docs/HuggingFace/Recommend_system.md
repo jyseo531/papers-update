@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-11-17
+Updated on 2025-11-18
 
 > Generated from the Hugging Face database.
 
@@ -2514,6 +2514,9 @@ Updated on 2025-11-17
 | 23 |  | prithivMLmods/Kontext-Top-Down-ViewImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/prithivMLmods/Kontext-Top-Down-View) |
 | 4 | Unknown | linoyts/Qwen-Image-Edit-Rapid-AIOImage-to-Image | Updated21 days ago | [Link](https://huggingface.co/linoyts/Qwen-Image-Edit-Rapid-AIO) |
 | 34 | Unknown | dx8152/Qwen-Edit-2509-Multi-Angle-LightingImage-to-Image | Updated26 minutes ago | [Link](https://huggingface.co/dx8152/Qwen-Edit-2509-Multi-Angle-Lighting) |
+| 23.9k |  | vafipas663/Qwen-Edit-2509-Upscale-LoRAImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/vafipas663/Qwen-Edit-2509-Upscale-LoRA) |
+| 1.35k |  | lrzjason/QwenEdit-Anything2Real_AlphaImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/lrzjason/QwenEdit-Anything2Real_Alpha) |
+| 45 | Unknown | FoxBaze/Try_On_Qwen_Edit_Lora_AlphaImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/FoxBaze/Try_On_Qwen_Edit_Lora_Alpha) |
 
 ## Image-to-Text
 
