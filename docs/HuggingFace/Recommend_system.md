@@ -180,6 +180,7 @@ Updated on 2025-11-18
 | 1 | Unknown | keisoft/omega-meta-llama-3-8B-v02Any-to-Any | UpdatedAug 7, 2024 | [Link](https://huggingface.co/keisoft/omega-meta-llama-3-8B-v02) |
 | 2 | Unknown | PIOTRsus123/BUMCYKCYKAny-to-Any | UpdatedOct 21, 2024 | [Link](https://huggingface.co/PIOTRsus123/BUMCYKCYK) |
 | 2 | Unknown | General-Medical-AI/UniMedVLAny-to-Any | Updatedabout 19 hours ago | [Link](https://huggingface.co/General-Medical-AI/UniMedVL) |
+| 5 | Unknown | MTDoven/Recurrent-Parameter-GenerationAny-to-Any | UpdatedSep 24 | [Link](https://huggingface.co/MTDoven/Recurrent-Parameter-Generation) |
 
 ## Audio Classification
 
@@ -1738,6 +1739,7 @@ Updated on 2025-11-18
 | Updatedabout 4 hours ago | 829 | lmms-lab/LLaVA-OneVision-1 | 9B | [Link](https://huggingface.co/lmms-lab/LLaVA-OneVision-1.5-8B-Instruct) |
 | Updated3 days ago | 759 | Qwen/Qwen3-VL-2B-Instruct-FP8Image-Text-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct-FP8) |
 | Updated14 days ago | 681 | ByteDance/Dolphin-1 | 0.4B | [Link](https://huggingface.co/ByteDance/Dolphin-1.5) |
+| Updated3 days ago | 618 | p-e-w/gemma-3-12b-it-hereticImage-Text-to-Text | 12B | [Link](https://huggingface.co/p-e-w/gemma-3-12b-it-heretic) |
 |  | 615 | mistralai/Pixtral-12B-2409Image-Text-to-Text | UpdatedDec 26, 2024 | [Link](https://huggingface.co/mistralai/Pixtral-12B-2409) |
 | Updatedabout 12 hours ago | 598 | deepcogito/cogito-v2-preview-llama-109B-MoEImage-Text-to-Text | 109B | [Link](https://huggingface.co/deepcogito/cogito-v2-preview-llama-109B-MoE) |
 | Updated6 days ago | 583 | Qwen/Qwen3-VL-235B-A22B-Instruct-GGUFImage-Text-to-Text | 235B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct-GGUF) |
@@ -5657,6 +5659,7 @@ Updated on 2025-11-18
 | 5 | Unknown | Cseti/VibeVoice_7B_Diffusion-head-LoRA_Hungarian-CV17Text-to-Speech | Updated23 days ago | [Link](https://huggingface.co/Cseti/VibeVoice_7B_Diffusion-head-LoRA_Hungarian-CV17) |
 | 4 | Unknown | Thomcles/Chatterbox-TTS-Persian-FarsiText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/Thomcles/Chatterbox-TTS-Persian-Farsi) |
 | 4 | Unknown | Thomcles/Chatterbox-TTS-CzechText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/Thomcles/Chatterbox-TTS-Czech) |
+| 3 | Unknown | Supertone/supertonicText-to-Speech | Updatedabout 1 hour ago | [Link](https://huggingface.co/Supertone/supertonic) |
 
 ## Text-to-Video
 
@@ -5729,6 +5732,7 @@ Updated on 2025-11-18
 | 58 | 3 | BAAI/URSA-1 | Updatedabout 7 hours ago | [Link](https://huggingface.co/BAAI/URSA-1.7B-FSQ320) |
 | 8 | 3 | Efficient-Large-Model/SANA-Video_2B_480pText-to-Video | Updated3 days ago | [Link](https://huggingface.co/Efficient-Large-Model/SANA-Video_2B_480p) |
 | 5.95k | 3 | guoyww/animatediff-motion-lora-pan-leftText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-pan-left) |
+| 561 | 3 | 6chan/krea-realtime-video-fp8Text-to-Video | Updated26 days ago | [Link](https://huggingface.co/6chan/krea-realtime-video-fp8) |
 | 69 | 2 | obvious-research/onlyflowText-to-Video | Updated5 days ago | [Link](https://huggingface.co/obvious-research/onlyflow) |
 | 42 | 2 | jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIEText-to-Video | Updated7 days ago | [Link](https://huggingface.co/jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIE) |
 | 10 | 2 | vdo/Hotshot-XLText-to-Video | UpdatedOct 4, 2023 | [Link](https://huggingface.co/vdo/Hotshot-XL) |
