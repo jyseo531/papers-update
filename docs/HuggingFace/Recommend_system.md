@@ -1954,6 +1954,7 @@ Updated on 2025-11-19
 | 36 | 11 | onnx-community/gemma-3n-E2B-it-ONNXImage-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/onnx-community/gemma-3n-E2B-it-ONNX) |
 | Updatedabout 8 hours ago | 11 | LiquidAI/LFM2-VL-450M-GGUFImage-Text-to-Text | 0.4B | [Link](https://huggingface.co/LiquidAI/LFM2-VL-450M-GGUF) |
 | 247 | 11 | NyxKrage/moondream3-preview-hfImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/NyxKrage/moondream3-preview-hf) |
+| 197 | 11 | nvidia/NVIDIA-Nemotron-Parse-v1 | Updated1 day ago | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Parse-v1.1) |
 | 185 | 10 | prithivMLmods/Tokenized-OCRImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/prithivMLmods/Tokenized-OCR) |
 | 25 | 10 | prithivMLmods/Qwen2-VL-OCR2-2B-InstructImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/Qwen2-VL-OCR2-2B-Instruct) |
 | 9 | 10 | google/gemma-3-12b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-12b-pt) |
@@ -2519,6 +2520,7 @@ Updated on 2025-11-19
 | 23.9k |  | vafipas663/Qwen-Edit-2509-Upscale-LoRAImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/vafipas663/Qwen-Edit-2509-Upscale-LoRA) |
 | 1.35k |  | lrzjason/QwenEdit-Anything2Real_AlphaImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/lrzjason/QwenEdit-Anything2Real_Alpha) |
 | 45 | Unknown | FoxBaze/Try_On_Qwen_Edit_Lora_AlphaImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/FoxBaze/Try_On_Qwen_Edit_Lora_Alpha) |
+| 14 |  | tarn59/book_flatten_and_crop_qwen_image_edit_2509Image-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/tarn59/book_flatten_and_crop_qwen_image_edit_2509) |
 
 ## Image-to-Text
 
@@ -5718,6 +5720,7 @@ Updated on 2025-11-19
 | 184 | 6 | BAAI/nova-d48w1024-osp480Text-to-Video | UpdatedDec 21, 2024 | [Link](https://huggingface.co/BAAI/nova-d48w1024-osp480) |
 | 6.29k | 6 | guoyww/animatediff-motion-lora-zoom-outText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-zoom-out) |
 | 5.95k | 5 | guoyww/animatediff-motion-lora-tilt-downText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-tilt-down) |
+| 504 | 5 | guoyww/animatediff-motion-lora-v1-5-3Text-to-Video | UpdatedJul 23, 2024 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-v1-5-3) |
 | 56 | 4 | Skywork/SkyReels-V2-DF-14B-720PText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-DF-14B-720P) |
 | 410 | 4 | guoyww/animatediff-motion-adapter-v1-5Text-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-adapter-v1-5) |
 | 40 | 4 | QuantStack/MoviiGen1 | Updated16 minutes ago | [Link](https://huggingface.co/QuantStack/MoviiGen1.1-VACE-GGUF) |
