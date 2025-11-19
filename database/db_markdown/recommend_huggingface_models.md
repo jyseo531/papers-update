@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-11-18
+Updated on 2025-11-19
 
 > Generated from the Hugging Face database.
 
@@ -5465,6 +5465,7 @@ Updated on 2025-11-18
 | 375 | 34 | mrfakename/OpenF5-TTS-BaseText-to-Speech | Updatedabout 1 hour ago | [Link](https://huggingface.co/mrfakename/OpenF5-TTS-Base) |
 | 25 | 31 | amphion/VevoText-to-Speech | Updated10 days ago | [Link](https://huggingface.co/amphion/Vevo) |
 | Updatedabout 8 hours ago | 31 | aoi-ot/VibeVoice-LargeText-to-Speech | 9B | [Link](https://huggingface.co/aoi-ot/VibeVoice-Large) |
+| Updatedabout 12 hours ago | 31 | pnnbao-ump/VieNeu-TTS-1000hText-to-Speech | 0.6B | [Link](https://huggingface.co/pnnbao-ump/VieNeu-TTS-1000h) |
 | Updatedabout 7 hours ago | 30 | microsoft/VibeVoice-LargeText-to-Speech | 9B | [Link](https://huggingface.co/microsoft/VibeVoice-Large) |
 | Updatedabout 20 hours ago | 30 | SVECTOR-CORPORATION/Continue-TTSText-to-Speech | 4B | [Link](https://huggingface.co/SVECTOR-CORPORATION/Continue-TTS) |
 | 3.72k | 29 | parler-tts/parler-tts-mini-multilingual-v1 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-mini-multilingual-v1.1) |
