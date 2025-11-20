@@ -2521,6 +2521,7 @@ Updated on 2025-11-20
 | 1.35k |  | lrzjason/QwenEdit-Anything2Real_AlphaImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/lrzjason/QwenEdit-Anything2Real_Alpha) |
 | 45 | Unknown | FoxBaze/Try_On_Qwen_Edit_Lora_AlphaImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/FoxBaze/Try_On_Qwen_Edit_Lora_Alpha) |
 | 14 |  | tarn59/book_flatten_and_crop_qwen_image_edit_2509Image-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/tarn59/book_flatten_and_crop_qwen_image_edit_2509) |
+| 8 | Unknown | qihoo360/RefVTONImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/qihoo360/RefVTON) |
 
 ## Image-to-Text
 
@@ -4611,6 +4612,7 @@ Updated on 2025-11-20
 | 7 | 24 | Qwen/Qwen3-Embedding-4BText | Updatedabout 10 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-Embedding-4B) |
 | 11 | 24 | nvidia/AceReason-Nemotron-1 | Updatedabout 20 hours ago | [Link](https://huggingface.co/nvidia/AceReason-Nemotron-1.1-7B) |
 | Updatedabout 8 hours ago | 24 | LiquidAI/LFM2-8B-A1B-GGUFText | 8B | [Link](https://huggingface.co/LiquidAI/LFM2-8B-A1B-GGUF) |
+| Updatedabout 1 hour ago | 24 | ai-sage/GigaChat3-702B-A36B-previewText | 715B | [Link](https://huggingface.co/ai-sage/GigaChat3-702B-A36B-preview) |
 | 10.3k | 23 | unsloth/Phi-4-mini-instruct-GGUFText | Updated4 days ago | [Link](https://huggingface.co/unsloth/Phi-4-mini-instruct-GGUF) |
 | 26.8k | 23 | lmstudio-community/QwQ-32B-GGUFText | Updated1 day ago | [Link](https://huggingface.co/lmstudio-community/QwQ-32B-GGUF) |
 | 1.47k | 23 | NousResearch/DeepHermes-3-Llama-3-3B-PreviewText | Updated4 days ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-3B-Preview) |
@@ -4652,6 +4654,7 @@ Updated on 2025-11-20
 | Updated5 days ago | 19.6k | unsloth/ERNIE-4 | 22B | [Link](https://huggingface.co/unsloth/ERNIE-4.5-21B-A3B-Thinking-GGUF) |
 | 4 | 19 | xTimeCrystal/MiniModel-200M-BaseText | Updatedabout 21 hours ago | [Link](https://huggingface.co/xTimeCrystal/MiniModel-200M-Base) |
 | Updatedabout 2 hours ago | 19 | inclusionAI/Ring-mini-sparse-2 | 16B | [Link](https://huggingface.co/inclusionAI/Ring-mini-sparse-2.0-exp) |
+| Updated1 day ago | 19 | deepcogito/cogito-671b-v2 | 671B | [Link](https://huggingface.co/deepcogito/cogito-671b-v2.1) |
 | 969 | 18 | bartowski/all-hands_openhands-lm-32b-v0 | Updated2 days ago | [Link](https://huggingface.co/bartowski/all-hands_openhands-lm-32b-v0.1-GGUF) |
 | 256 | 18 | Trendyol/Trendyol-LLM-7B-chat-v4 | Updated3 days ago | [Link](https://huggingface.co/Trendyol/Trendyol-LLM-7B-chat-v4.1.0) |
 | 1.11k | 18 | bartowski/Zyphra_ZR1-1 | Updated1 day ago | [Link](https://huggingface.co/bartowski/Zyphra_ZR1-1.5B-GGUF) |
@@ -5156,6 +5159,7 @@ Updated on 2025-11-20
 | 5.64k | 11 | city96/HiDream-I1-Fast-ggufText-to-Image | Updated7 days ago | [Link](https://huggingface.co/city96/HiDream-I1-Fast-gguf) |
 | 28 | 11 | Freepik/F-Lite-7BText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Freepik/F-Lite-7B) |
 | 192 | 11 | nvidia/Cosmos-Predict2-14B-Text2ImageText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/Cosmos-Predict2-14B-Text2Image) |
+| 77 | 11 | Kwai-Kolors/CoTyleText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/Kwai-Kolors/CoTyle) |
 |  | 10 | strangerzonehf/Real-ClaymationText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/strangerzonehf/Real-Claymation) |
 | 17 | 10 | zhang0jhon/flux_waveletText-to-Image | Updated5 days ago | [Link](https://huggingface.co/zhang0jhon/flux_wavelet) |
 | 36 | 10 | codermert/ozgeefinalText-to-Image | Updated6 days ago | [Link](https://huggingface.co/codermert/ozgeefinal) |
