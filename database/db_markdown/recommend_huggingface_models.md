@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-11-19
+Updated on 2025-11-20
 
 > Generated from the Hugging Face database.
 
@@ -2526,6 +2526,7 @@ Updated on 2025-11-19
 
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
+| UpdatedAug 25 | 929 | shenasa/persian-image-captioningImage-to-Text | 0.2B | [Link](https://huggingface.co/shenasa/persian-image-captioning) |
 | UpdatedJan 20 | 893 | HuggingFaceTB/SmolVLM-500M-BaseImage-to-Text | 0.5B | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-500M-Base) |
 | UpdatedApr 28 | 631 | Hyphonical/Pixtral-12B-Captioner-Relaxed-Q4_K_M-GGUFImage-to-Text | 12B | [Link](https://huggingface.co/Hyphonical/Pixtral-12B-Captioner-Relaxed-Q4_K_M-GGUF) |
 | UpdatedJan 29 | 586 | chatpig/llava-llama3Image-to-Text | 8B | [Link](https://huggingface.co/chatpig/llava-llama3) |
@@ -4320,6 +4321,7 @@ Updated on 2025-11-19
 |  | 565 | deepseek-ai/DeepSeek-R1-0528Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528) |
 | 894k | 486 | deepseek-ai/DeepSeek-R1-Distill-Qwen-7BText | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B) |
 | Updatedabout 24 hours ago | 463 | PowerInfer/SmallThinker-4BA0 | 4B | [Link](https://huggingface.co/PowerInfer/SmallThinker-4BA0.6B-Instruct) |
+| Updatedabout 16 hours ago | 461 | MaziyarPanahi/VibeThinker-1 | 2B | [Link](https://huggingface.co/MaziyarPanahi/VibeThinker-1.5B-GGUF) |
 | Updatedabout 12 hours ago | 425 | Nikity/lille-130m-instructText | 0.1B | [Link](https://huggingface.co/Nikity/lille-130m-instruct) |
 | Updated2 days ago | 419 | rstar2-reproduce/rStar2-Agent-14BText | 15B | [Link](https://huggingface.co/rstar2-reproduce/rStar2-Agent-14B) |
 | Updatedabout 5 hours ago | 384 | RUC-DataLab/DeepAnalyze-8BText | 8B | [Link](https://huggingface.co/RUC-DataLab/DeepAnalyze-8B) |
@@ -5098,12 +5100,14 @@ Updated on 2025-11-19
 | 89.5k | 370 | OnomaAIResearch/Illustrious-xl-early-release-v0Text-to-Image | UpdatedFeb 13 | [Link](https://huggingface.co/OnomaAIResearch/Illustrious-xl-early-release-v0) |
 | 31.8k | 362 | thibaud/controlnet-openpose-sdxl-1 | UpdatedSep 3, 2023 | [Link](https://huggingface.co/thibaud/controlnet-openpose-sdxl-1.0) |
 | 8.52k | 350 | fofr/sdxl-emojiText-to-Image | UpdatedJun 27, 2024 | [Link](https://huggingface.co/fofr/sdxl-emoji) |
+| 252k | 347 | diffusers/stable-diffusion-xl-1 | UpdatedSep 3, 2023 | [Link](https://huggingface.co/diffusers/stable-diffusion-xl-1.0-inpainting-0.1) |
 | 14.6k | 321 | JujoHotaru/loraText-to-Image | UpdatedApr 28 | [Link](https://huggingface.co/JujoHotaru/lora) |
 | 3.97k | 317 | Shitao/OmniGen-v1Text-to-Image | UpdatedNov 7, 2024 | [Link](https://huggingface.co/Shitao/OmniGen-v1) |
 | 15.3k | 254 | InstantX/FLUX | UpdatedNov 23, 2024 | [Link](https://huggingface.co/InstantX/FLUX.1-dev-IP-Adapter) |
 | Updated1 day ago | 244 | wikeeyang/Magic-Wan-Image-V2Text-to-Image | 14B | [Link](https://huggingface.co/wikeeyang/Magic-Wan-Image-V2) |
 | 28.5k | 241 | xinsir/controlnet-openpose-sdxl-1 | UpdatedJul 9, 2024 | [Link](https://huggingface.co/xinsir/controlnet-openpose-sdxl-1.0) |
 | 55k | 234 | SG161222/Realistic_Vision_V6 | UpdatedOct 8, 2024 | [Link](https://huggingface.co/SG161222/Realistic_Vision_V6.0_B1_noVAE) |
+| 247k | 227 | SG161222/Realistic_Vision_V5 | Updated20 days ago | [Link](https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE) |
 | 126k | 206 | RunDiffusion/Juggernaut-XL-v9Text-to-Image | UpdatedDec 11, 2024 | [Link](https://huggingface.co/RunDiffusion/Juggernaut-XL-v9) |
 | 37.6k | 156 | tianweiy/DMD2Text-to-Image | UpdatedJun 11, 2024 | [Link](https://huggingface.co/tianweiy/DMD2) |
 | Updatedabout 16 hours ago | 124 | calcuis/krea-ggufText-to-Image | 12B | [Link](https://huggingface.co/calcuis/krea-gguf) |
@@ -5213,6 +5217,7 @@ Updated on 2025-11-19
 | 22 | 5 | eigen-ai-labs/eigen-banana-qwen-image-editText-to-Image | Updated3 days ago | [Link](https://huggingface.co/eigen-ai-labs/eigen-banana-qwen-image-edit) |
 | 202 | 5 | renderartist/technically-color-wanText-to-Image | Updated2 days ago | [Link](https://huggingface.co/renderartist/technically-color-wan) |
 | 70 | 5 | rzgar/Qwen-Image-Edit-smoothifyText-to-Image | Updated3 days ago | [Link](https://huggingface.co/rzgar/Qwen-Image-Edit-smoothify) |
+| 4.9k | 5 | Manojb/stable-diffusion-2-1-baseText-to-Image | UpdatedJun 13 | [Link](https://huggingface.co/Manojb/stable-diffusion-2-1-base) |
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 46 | 4 | Sherwinroger002/fashion_mnist_diffusion_class_conditionalText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Sherwinroger002/fashion_mnist_diffusion_class_conditional) |
 | 2.56k | 3.84k | WarriorMama777/OrangeMixsText-to-Image | UpdatedJan 7, 2024 | [Link](https://huggingface.co/WarriorMama777/OrangeMixs) |
@@ -5528,6 +5533,7 @@ Updated on 2025-11-19
 | 436 | 5 | ICTNLP/SLED-TTS-LibriheavyText-to-Speech | Updated15 days ago | [Link](https://huggingface.co/ICTNLP/SLED-TTS-Libriheavy) |
 | Updatedabout 9 hours ago | 5 | cartesia/azzurra-voiceText-to-Speech | 2B | [Link](https://huggingface.co/cartesia/azzurra-voice) |
 | 53 | 5 | kyutai/tts-0 | Updatedabout 10 hours ago | [Link](https://huggingface.co/kyutai/tts-0.75b-en-public) |
+| 411 | 5 | nari-labs/Dia2-2BText-to-Speech | Updatedabout 21 hours ago | [Link](https://huggingface.co/nari-labs/Dia2-2B) |
 | 5 | 4 | lunahr/csm-1b-safetensors-fp16Text-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-fp16) |
 | 2 | 4 | VAGOsolutions/SauerkrautTTS-Preview-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/VAGOsolutions/SauerkrautTTS-Preview-0.1) |
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
