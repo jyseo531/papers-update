@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-11-20
+Updated on 2025-11-21
 
 > Generated from the Hugging Face database.
 
@@ -1889,6 +1889,7 @@ Updated on 2025-11-20
 | 3 | 21 | OpenGVLab/InternVL3-78BImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/OpenGVLab/InternVL3-78B) |
 | 56 | 21 | lingshu-medical-mllm/Lingshu-32BImage-Text-to-Text | Updated13 minutes ago | [Link](https://huggingface.co/lingshu-medical-mllm/Lingshu-32B) |
 | Updatedabout 1 hour ago | 21 | OpenGVLab/InternVL3_5-241B-A28BImage-Text-to-Text | 241B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-241B-A28B) |
+| Updated9 days ago | 21 | zai-org/WebVIA-AgentImage-Text-to-Text | 10B | [Link](https://huggingface.co/zai-org/WebVIA-Agent) |
 | 4 | 20 | Tesslate/Synthia-S1-27bImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/Tesslate/Synthia-S1-27b) |
 | 2 | 20 | nvidia/DAM-3B-VideoImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/DAM-3B-Video) |
 | Updated3 days ago | 20 | zai-org/GlyphImage-Text-to-Text | 10B | [Link](https://huggingface.co/zai-org/Glyph) |
@@ -2034,6 +2035,7 @@ Updated on 2025-11-20
 | Updatedabout 12 hours ago | 4 | ibm-granite/granite-docling-258MImage-Text-to-Text | 0.3B | [Link](https://huggingface.co/ibm-granite/granite-docling-258M) |
 | Updated12 days ago | 4.44k | Jalea96/DeepSeek-OCR-bnb-4bit-NF4Image-Text-to-Text | 3B | [Link](https://huggingface.co/Jalea96/DeepSeek-OCR-bnb-4bit-NF4) |
 | Updated1 day ago | 4.89k | janhq/Jan-v2-VL-med-ggufImage-Text-to-Text | 8B | [Link](https://huggingface.co/janhq/Jan-v2-VL-med-gguf) |
+| Updated7 days ago | 4.72k | janhq/Jan-v2-VL-low-ggufImage-Text-to-Text | 8B | [Link](https://huggingface.co/janhq/Jan-v2-VL-low-gguf) |
 | Updated5 minutes ago | 3.08k | openbmb/MiniCPM-V-4-ggufImage-Text-to-Text | 4B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4-gguf) |
 | Updatedabout 14 hours ago | 3 | Qwen/Qwen3-VL-8B-ThinkingImage-Text-to-Text | 9B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Thinking) |
 | Updatedabout 13 hours ago | 3 | Qwen/Qwen3-VL-4B-Thinking-FP8Image-Text-to-Text | 5B | [Link](https://huggingface.co/Qwen/Qwen3-VL-4B-Thinking-FP8) |
@@ -2761,6 +2763,7 @@ Updated on 2025-11-20
 | 6.14k | 2 | PaddlePaddle/PP-Chart2TableImage-to-Text | UpdatedJul 22 | [Link](https://huggingface.co/PaddlePaddle/PP-Chart2Table) |
 | Updated1 day ago | 2.26k | mradermacher/Qwen3-VL-8B-Abliterated-Caption-it-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/mradermacher/Qwen3-VL-8B-Abliterated-Caption-it-GGUF) |
 | 1.06k | 2 | PaddlePaddle/arabic_PP-OCRv5_mobile_recImage-to-Text | Updated28 days ago | [Link](https://huggingface.co/PaddlePaddle/arabic_PP-OCRv5_mobile_rec) |
+| Updatedabout 20 hours ago | 2 | eagerworks/eager-embed-v1Image-to-Text | 4B | [Link](https://huggingface.co/eagerworks/eager-embed-v1) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -4378,6 +4381,7 @@ Updated on 2025-11-20
 | Updated1 day ago | 119 | LiquidAI/LFM2-350M-ExtractText | 0.4B | [Link](https://huggingface.co/LiquidAI/LFM2-350M-Extract) |
 | Updated7 days ago | 119 | gustavecortal/Beck-8BText | 8B | [Link](https://huggingface.co/gustavecortal/Beck-8B) |
 | Updatedabout 11 hours ago | 115 | mistralai/Devstral-Small-2507Text | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2507) |
+| Updated1 day ago | 113 | mlx-community/VibeThinker-1 | 0.2B | [Link](https://huggingface.co/mlx-community/VibeThinker-1.5B-mlx-4bit) |
 | Updatedabout 10 hours ago | 112 | nvidia/Qwen3-Nemotron-32B-RLBFFText | 33B | [Link](https://huggingface.co/nvidia/Qwen3-Nemotron-32B-RLBFF) |
 | Updated1 day ago | 111 | moelanoby/phi-3-M3-coderText | 4B | [Link](https://huggingface.co/moelanoby/phi-3-M3-coder) |
 | Updated4 days ago | 110 | LatitudeGames/Wayfarer-2-12BText | 12B | [Link](https://huggingface.co/LatitudeGames/Wayfarer-2-12B) |
@@ -4752,6 +4756,7 @@ Updated on 2025-11-20
 | Updatedabout 11 hours ago | 2 | LiquidAI/LFM2-2 | 3B | [Link](https://huggingface.co/LiquidAI/LFM2-2.6B) |
 | Updatedabout 17 hours ago | 2.21k | ai21labs/AI21-Jamba-Reasoning-3B-GGUFText | 3B | [Link](https://huggingface.co/ai21labs/AI21-Jamba-Reasoning-3B-GGUF) |
 | Updatedabout 5 hours ago | 2.98k | PokeeAI/pokee_research_7bText | 8B | [Link](https://huggingface.co/PokeeAI/pokee_research_7b) |
+| Updatedabout 3 hours ago | 2 | ai-sage/GigaChat3-10B-A1 | 11B | [Link](https://huggingface.co/ai-sage/GigaChat3-10B-A1.8B) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
 | Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
