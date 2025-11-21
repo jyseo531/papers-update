@@ -2524,6 +2524,7 @@ Updated on 2025-11-21
 | 45 | Unknown | FoxBaze/Try_On_Qwen_Edit_Lora_AlphaImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/FoxBaze/Try_On_Qwen_Edit_Lora_Alpha) |
 | 14 |  | tarn59/book_flatten_and_crop_qwen_image_edit_2509Image-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/tarn59/book_flatten_and_crop_qwen_image_edit_2509) |
 | 8 | Unknown | qihoo360/RefVTONImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/qihoo360/RefVTON) |
+| 16 |  | tlennon-ie/QwenEdit2509-FlatLogColorImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/tlennon-ie/QwenEdit2509-FlatLogColor) |
 
 ## Image-to-Text
 
@@ -2690,6 +2691,7 @@ Updated on 2025-11-21
 | Updated21 days ago | 6.36k | allenai/olmOCR-7B-0225-preview-FP8Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview-FP8) |
 | 2.52k | 6 | VLM2Vec/VLM2Vec-V2 | Updatedabout 3 hours ago | [Link](https://huggingface.co/VLM2Vec/VLM2Vec-V2.0) |
 | UpdatedJun 2 | 6.4k | unsloth/MiMo-VL-7B-RL-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/unsloth/MiMo-VL-7B-RL-GGUF) |
+| Updatedabout 1 hour ago | 6 | XiaomiMiMo/MiMo-Embodied-7BImage-to-Text | 8B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-Embodied-7B) |
 | 7 | 5 | laicsiifes/swin-gportuguese-2Image-to-Text | UpdatedMar 31 | [Link](https://huggingface.co/laicsiifes/swin-gportuguese-2) |
 | 5 | 5 | Yodazon/3DPrintFailureTypeImage-to-Text | UpdatedOct 18, 2024 | [Link](https://huggingface.co/Yodazon/3DPrintFailureType) |
 | Updated5 days ago | 5.7k | ChatDOC/OCRFlux-3BImage-to-Text | 4B | [Link](https://huggingface.co/ChatDOC/OCRFlux-3B) |
@@ -5887,6 +5889,7 @@ Updated on 2025-11-21
 | 2 | Unknown | Efficient-Large-Model/SANA-Video_2B_480p_diffusersText-to-Video | Updated1 day ago | [Link](https://huggingface.co/Efficient-Large-Model/SANA-Video_2B_480p_diffusers) |
 | 4 | Unknown | Vchitect/RepVideoText-to-Video | UpdatedJan 17 | [Link](https://huggingface.co/Vchitect/RepVideo) |
 | 1 | Unknown | liuming9157/Wan2 | UpdatedJul 11 | [Link](https://huggingface.co/liuming9157/Wan2.1-T2V-1.3B-Diffusers-ov-fp16) |
+| 181 | Unknown | tencent/HunyuanVideo-1 | Updatedabout 5 hours ago | [Link](https://huggingface.co/tencent/HunyuanVideo-1.5) |
 
 ## Text2Text Generation
 
