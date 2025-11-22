@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-11-21
+Updated on 2025-11-22
 
 > Generated from the Hugging Face database.
 
@@ -10,6 +10,7 @@ Updated on 2025-11-21
 | 617k | 999 | openbmb/MiniCPM-o-2_6Any-to-Any | Updated5 days ago | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6) |
 | Updated6 days ago | 798 | modelscope/Nexus-GenAny-to-Any | 8B | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | Updatedabout 1 hour ago | 718 | XiaomiMiMo/MiMo-Audio-7B-InstructAny-to-Any | 8B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-Audio-7B-Instruct) |
+| Updatedabout 10 hours ago | 654 | HIT-TMG/Uni-MoE-2 | 33B | [Link](https://huggingface.co/HIT-TMG/Uni-MoE-2.0-Omni) |
 | Updatedabout 10 hours ago | 629 | meituan-longcat/LongCat-Flash-OmniAny-to-Any | 561B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Omni) |
 | 189k | 577 | deepseek-ai/Janus-1 | Updated29 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-1.3B) |
 | Updatedabout 10 hours ago | 571 | inclusionAI/Ming-flash-omni-PreviewAny-to-Any | 104B | [Link](https://huggingface.co/inclusionAI/Ming-flash-omni-Preview) |
@@ -4750,6 +4751,7 @@ Updated on 2025-11-21
 | Updated3 days ago | 3.63k | unsloth/LFM2-8B-A1B-GGUFText | 8B | [Link](https://huggingface.co/unsloth/LFM2-8B-A1B-GGUF) |
 | Updated1 day ago | 3 | LiquidAI/LFM2-350M-PII-Extract-JPText | 0.4B | [Link](https://huggingface.co/LiquidAI/LFM2-350M-PII-Extract-JP) |
 | Updated1 day ago | 3.29k | ubergarm/Kimi-K2-Thinking-GGUFText | 1T | [Link](https://huggingface.co/ubergarm/Kimi-K2-Thinking-GGUF) |
+| Updatedabout 10 hours ago | 3.72k | allenai/Olmo-3-1125-32BText | 32B | [Link](https://huggingface.co/allenai/Olmo-3-1125-32B) |
 | Updated6 days ago | 2.04k | marcelbinz/Llama-3 | 71B | [Link](https://huggingface.co/marcelbinz/Llama-3.1-Centaur-70B) |
 | Updatedabout 2 hours ago | 2.66k | unsloth/Qwen3-235B-A22B-Instruct-2507-GGUFText | 235B | [Link](https://huggingface.co/unsloth/Qwen3-235B-A22B-Instruct-2507-GGUF) |
 | Updatedabout 10 hours ago | 2 | Qwen/Qwen3-30B-A3B-Thinking-2507Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507) |
@@ -4759,6 +4761,8 @@ Updated on 2025-11-21
 | Updatedabout 17 hours ago | 2.21k | ai21labs/AI21-Jamba-Reasoning-3B-GGUFText | 3B | [Link](https://huggingface.co/ai21labs/AI21-Jamba-Reasoning-3B-GGUF) |
 | Updatedabout 5 hours ago | 2.98k | PokeeAI/pokee_research_7bText | 8B | [Link](https://huggingface.co/PokeeAI/pokee_research_7b) |
 | Updatedabout 3 hours ago | 2 | ai-sage/GigaChat3-10B-A1 | 11B | [Link](https://huggingface.co/ai-sage/GigaChat3-10B-A1.8B) |
+| Updatedabout 6 hours ago | 2.63k | allenai/Olmo-3-7B-ThinkText | 528k | [Link](https://huggingface.co/allenai/Olmo-3-7B-Think) |
+| Updatedabout 7 hours ago | 2.43k | allenai/Olmo-3-1025-7BText | 7B | [Link](https://huggingface.co/allenai/Olmo-3-1025-7B) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
 | Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
@@ -4773,6 +4777,7 @@ Updated on 2025-11-21
 | Updatedabout 11 hours ago | 1 | inclusionAI/Ling-1TText | 1000B | [Link](https://huggingface.co/inclusionAI/Ling-1T) |
 | Updatedabout 5 hours ago | 1.52k | Kwaipilot/KAT-Dev-72B-ExpText | 73B | [Link](https://huggingface.co/Kwaipilot/KAT-Dev-72B-Exp) |
 | Updatedabout 1 hour ago | 1.21k | openai/gpt-oss-safeguard-20bText | 22B | [Link](https://huggingface.co/openai/gpt-oss-safeguard-20b) |
+| Updatedabout 6 hours ago | 1.06k | allenai/Olmo-3-7B-InstructText | 528k | [Link](https://huggingface.co/allenai/Olmo-3-7B-Instruct) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -5732,6 +5737,7 @@ Updated on 2025-11-21
 | 638 | 8 | calcuis/mochiText-to-Video | Updated22 days ago | [Link](https://huggingface.co/calcuis/mochi) |
 | 123k | 8 | guoyww/animatediff-motion-lora-zoom-inText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-zoom-in) |
 | 680 | 8 | a-r-r-o-w/LTX-Video-0 | UpdatedMar 18 | [Link](https://huggingface.co/a-r-r-o-w/LTX-Video-0.9.1-diffusers) |
+| 34 | 8 | yaleiyaleichiling/NSFW-Anime-wan-5BText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/yaleiyaleichiling/NSFW-Anime-wan-5B) |
 | 5.9k | 7 | SVECTOR-CORPORATION/Spectro-2BText-to-Video | UpdatedDec 25, 2024 | [Link](https://huggingface.co/SVECTOR-CORPORATION/Spectro-2B) |
 | 863 | 6 | guoyww/animatediff-motion-adapter-v1-5-3Text-to-Video | UpdatedJul 8, 2024 | [Link](https://huggingface.co/guoyww/animatediff-motion-adapter-v1-5-3) |
 | 184 | 6 | BAAI/nova-d48w1024-osp480Text-to-Video | UpdatedDec 21, 2024 | [Link](https://huggingface.co/BAAI/nova-d48w1024-osp480) |
