@@ -2804,6 +2804,7 @@ Updated on 2025-11-22
 | 8.52k | 1 | PaddlePaddle/PP-DocBlockLayoutImage-to-Text | UpdatedJul 22 | [Link](https://huggingface.co/PaddlePaddle/PP-DocBlockLayout) |
 | 36 | 1 | PaddlePaddle/PP-DocBee-2BImage-to-Text | UpdatedAug 27 | [Link](https://huggingface.co/PaddlePaddle/PP-DocBee-2B) |
 | 6 | 1 | AnyaSchen/vit-rugpt3-large-poetry-ftImage-to-Text | UpdatedJun 1, 2023 | [Link](https://huggingface.co/AnyaSchen/vit-rugpt3-large-poetry-ft) |
+| 5.57k | 1 | TIGER-Lab/VLM2Vec-Qwen2VL-2BImage-to-Text | UpdatedMar 13 | [Link](https://huggingface.co/TIGER-Lab/VLM2Vec-Qwen2VL-2B) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -5234,6 +5235,7 @@ Updated on 2025-11-22
 | 202 | 5 | renderartist/technically-color-wanText-to-Image | Updated2 days ago | [Link](https://huggingface.co/renderartist/technically-color-wan) |
 | 70 | 5 | rzgar/Qwen-Image-Edit-smoothifyText-to-Image | Updated3 days ago | [Link](https://huggingface.co/rzgar/Qwen-Image-Edit-smoothify) |
 | 4.9k | 5 | Manojb/stable-diffusion-2-1-baseText-to-Image | UpdatedJun 13 | [Link](https://huggingface.co/Manojb/stable-diffusion-2-1-base) |
+| 76 | 5 | kandinskylab/Kandinsky-5 | Updated2 days ago | [Link](https://huggingface.co/kandinskylab/Kandinsky-5.0-T2I-Lite-sft-Diffusers) |
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 46 | 4 | Sherwinroger002/fashion_mnist_diffusion_class_conditionalText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Sherwinroger002/fashion_mnist_diffusion_class_conditional) |
 | 2.56k | 3.84k | WarriorMama777/OrangeMixsText-to-Image | UpdatedJan 7, 2024 | [Link](https://huggingface.co/WarriorMama777/OrangeMixs) |
