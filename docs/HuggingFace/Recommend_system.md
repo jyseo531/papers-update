@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-11-22
+Updated on 2025-11-23
 
 > Generated from the Hugging Face database.
 
@@ -5707,6 +5707,7 @@ Updated on 2025-11-22
 | 315 | 175 | FastVideo/FastHunyuanText-to-Video | UpdatedJan 8 | [Link](https://huggingface.co/FastVideo/FastHunyuan) |
 | 28k | 169 | ali-vilab/i2vgen-xlText-to-Video | UpdatedFeb 9, 2024 | [Link](https://huggingface.co/ali-vilab/i2vgen-xl) |
 | 30.2k | 141 | city96/HunyuanVideo-ggufText-to-Video | UpdatedDec 17, 2024 | [Link](https://huggingface.co/city96/HunyuanVideo-gguf) |
+| Updated1 day ago | 101 | jayn7/HunyuanVideo-1 | 8B | [Link](https://huggingface.co/jayn7/HunyuanVideo-1.5_T2V_720p-GGUF) |
 | 9 | 71 | LanguageBind/Open-Sora-Plan-v1 | UpdatedDec 5, 2024 | [Link](https://huggingface.co/LanguageBind/Open-Sora-Plan-v1.3.0) |
 | 1.6k | 71 | OmniAvatar/OmniAvatar-14BText-to-Video | Updatedabout 11 hours ago | [Link](https://huggingface.co/OmniAvatar/OmniAvatar-14B) |
 | 15.2k | 65 | Skywork/SkyReels-V1-Hunyuan-T2VText-to-Video | Updatedabout 21 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-T2V) |
