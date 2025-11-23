@@ -1766,6 +1766,7 @@ Updated on 2025-11-23
 | Updatedabout 14 hours ago | 228 | CohereLabs/command-a-vision-07-2025Image-Text-to-Text | 112B | [Link](https://huggingface.co/CohereLabs/command-a-vision-07-2025) |
 | Updatedabout 13 hours ago | 211 | INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v1 | 12B | [Link](https://huggingface.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v1.0) |
 | Updatedabout 20 hours ago | 206 | nvidia/NVIDIA-Nemotron-Nano-12B-v2-VL-FP8Image-Text-to-Text | 13B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-12B-v2-VL-FP8) |
+| Updated16 days ago | 200 | grimjim/gemma-3-12b-it-norm-preserved-biprojected-abliteratedImage-Text-to-Text | 12B | [Link](https://huggingface.co/grimjim/gemma-3-12b-it-norm-preserved-biprojected-abliterated) |
 | Updated2 days ago | 187 | huihui-ai/Huihui-Qwen3-VL-8B-Instruct-abliteratedImage-Text-to-Text | 9B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3-VL-8B-Instruct-abliterated) |
 | 7.06k | 180 | meta-llama/Llama-4-Scout-17B-16E-InstructImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct) |
 | Updatedabout 7 hours ago | 171 | OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-PreviewImage-Text-to-Text | 0.4B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-Preview) |
