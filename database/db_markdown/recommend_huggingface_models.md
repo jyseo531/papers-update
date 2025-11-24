@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-11-23
+Updated on 2025-11-24
 
 > Generated from the Hugging Face database.
 
@@ -1745,6 +1745,7 @@ Updated on 2025-11-23
 | Updatedabout 12 hours ago | 598 | deepcogito/cogito-v2-preview-llama-109B-MoEImage-Text-to-Text | 109B | [Link](https://huggingface.co/deepcogito/cogito-v2-preview-llama-109B-MoE) |
 | Updated6 days ago | 583 | Qwen/Qwen3-VL-235B-A22B-Instruct-GGUFImage-Text-to-Text | 235B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct-GGUF) |
 | 1.67M | 546 | Qwen/Qwen2 | Updated10 days ago | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct) |
+| Updatedabout 8 hours ago | 544 | sensenova/SenseNova-SI-1 | 8B | [Link](https://huggingface.co/sensenova/SenseNova-SI-1.1-InternVL3-8B) |
 | Updated2 days ago | 531 | OpenGVLab/InternVL3_5-2BImage-Text-to-Text | 2B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-2B) |
 | Updated3 days ago | 490 | Kwai-Keye/Keye-VL-1_5-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/Kwai-Keye/Keye-VL-1_5-8B) |
 | Updated3 days ago | 468 | QuantTrio/GLM-4 | 17B | [Link](https://huggingface.co/QuantTrio/GLM-4.5V-AWQ) |
@@ -2603,6 +2604,7 @@ Updated on 2025-11-23
 | 9.9k | 31 | OleehyO/TexTellerImage-to-Text | UpdatedJun 22, 2024 | [Link](https://huggingface.co/OleehyO/TexTeller) |
 | 1.65k | 29 | microsoft/git-large-textcapsImage-to-Text | UpdatedFeb 8, 2023 | [Link](https://huggingface.co/microsoft/git-large-textcaps) |
 | Updated6 days ago | 28 | daniel3303/QwenStoryteller2Image-to-Text | 8B | [Link](https://huggingface.co/daniel3303/QwenStoryteller2) |
+| UpdatedOct 18 | 28 | ardaocak/llava-1 | 7B | [Link](https://huggingface.co/ardaocak/llava-1.5-7b-food-calorie-estimator) |
 | 809 | 27 | MixTex/ZhEn-Latex-OCRImage-to-Text | UpdatedJul 30, 2024 | [Link](https://huggingface.co/MixTex/ZhEn-Latex-OCR) |
 | 290 | 26 | paragon-AI/blip2-image-to-textImage-to-Text | UpdatedJun 24, 2023 | [Link](https://huggingface.co/paragon-AI/blip2-image-to-text) |
 | 7.18k | 25 | ddobokki/ko-trocrImage-to-Text | UpdatedOct 22, 2024 | [Link](https://huggingface.co/ddobokki/ko-trocr) |
@@ -2806,6 +2808,7 @@ Updated on 2025-11-23
 | 36 | 1 | PaddlePaddle/PP-DocBee-2BImage-to-Text | UpdatedAug 27 | [Link](https://huggingface.co/PaddlePaddle/PP-DocBee-2B) |
 | 6 | 1 | AnyaSchen/vit-rugpt3-large-poetry-ftImage-to-Text | UpdatedJun 1, 2023 | [Link](https://huggingface.co/AnyaSchen/vit-rugpt3-large-poetry-ft) |
 | 5.57k | 1 | TIGER-Lab/VLM2Vec-Qwen2VL-2BImage-to-Text | UpdatedMar 13 | [Link](https://huggingface.co/TIGER-Lab/VLM2Vec-Qwen2VL-2B) |
+| 9 | 1 | onnx-community/Dolphin-ONNXImage-to-Text | UpdatedAug 27 | [Link](https://huggingface.co/onnx-community/Dolphin-ONNX) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -4492,6 +4495,7 @@ Updated on 2025-11-23
 | 75 | 41 | tngtech/DeepSeek-R1T-ChimeraText | Updatedabout 1 hour ago | [Link](https://huggingface.co/tngtech/DeepSeek-R1T-Chimera) |
 | Updatedabout 19 hours ago | 41 | tencent/Hunyuan-A13B-Instruct-FP8Text | 80B | [Link](https://huggingface.co/tencent/Hunyuan-A13B-Instruct-FP8) |
 | Updatedabout 2 hours ago | 41 | Intelligent-Internet/II-Search-4BText | 4B | [Link](https://huggingface.co/Intelligent-Internet/II-Search-4B) |
+| Updated4 days ago | 41 | nvidia/Nemotron-Elastic-12BText | 12B | [Link](https://huggingface.co/nvidia/Nemotron-Elastic-12B) |
 | 3 | 40 | MiniMaxAI/MiniMax-M1-40kText | Updatedabout 10 hours ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M1-40k) |
 | Updated2 days ago | 40 | Tesslate/UIGEN-X-8BText | 8B | [Link](https://huggingface.co/Tesslate/UIGEN-X-8B) |
 | Updatedabout 3 hours ago | 40 | MachineLearningLM/MachineLearningLM-7B-v1Text | 8B | [Link](https://huggingface.co/MachineLearningLM/MachineLearningLM-7B-v1) |
@@ -5237,6 +5241,7 @@ Updated on 2025-11-23
 | 70 | 5 | rzgar/Qwen-Image-Edit-smoothifyText-to-Image | Updated3 days ago | [Link](https://huggingface.co/rzgar/Qwen-Image-Edit-smoothify) |
 | 4.9k | 5 | Manojb/stable-diffusion-2-1-baseText-to-Image | UpdatedJun 13 | [Link](https://huggingface.co/Manojb/stable-diffusion-2-1-base) |
 | 76 | 5 | kandinskylab/Kandinsky-5 | Updated2 days ago | [Link](https://huggingface.co/kandinskylab/Kandinsky-5.0-T2I-Lite-sft-Diffusers) |
+| 158 | 5 | Owen777/UltraFlux-v1Text-to-Image | Updated3 days ago | [Link](https://huggingface.co/Owen777/UltraFlux-v1) |
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 46 | 4 | Sherwinroger002/fashion_mnist_diffusion_class_conditionalText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Sherwinroger002/fashion_mnist_diffusion_class_conditional) |
 | 2.56k | 3.84k | WarriorMama777/OrangeMixsText-to-Image | UpdatedJan 7, 2024 | [Link](https://huggingface.co/WarriorMama777/OrangeMixs) |
