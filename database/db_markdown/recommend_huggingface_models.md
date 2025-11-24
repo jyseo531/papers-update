@@ -1799,6 +1799,7 @@ Updated on 2025-11-24
 | Updatedabout 4 hours ago | 96 | AIDC-AI/Ovis2 | 9B | [Link](https://huggingface.co/AIDC-AI/Ovis2.5-9B) |
 | Updated5 days ago | 96 | prithivMLmods/DeepCaption-VLA-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/prithivMLmods/DeepCaption-VLA-7B) |
 | Updated5 days ago | 95 | internlm/Spatial-SSRL-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/internlm/Spatial-SSRL-7B) |
+| Updated3 days ago | 94 | OpenMMReasoner/OpenMMReasoner-RLImage-Text-to-Text | 8B | [Link](https://huggingface.co/OpenMMReasoner/OpenMMReasoner-RL) |
 | 1.69k | 88 | google/gemma-3n-E4B-itImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/google/gemma-3n-E4B-it) |
 | Updated2 days ago | 87 | INSAIT-Institute/MamayLM-Gemma-3-4B-IT-v1 | 4B | [Link](https://huggingface.co/INSAIT-Institute/MamayLM-Gemma-3-4B-IT-v1.0) |
 | Updated20 days ago | 81.8k | zai-org/GLM-4 | 10B | [Link](https://huggingface.co/zai-org/GLM-4.1V-9B-Thinking) |
@@ -2528,6 +2529,7 @@ Updated on 2025-11-24
 | 14 |  | tarn59/book_flatten_and_crop_qwen_image_edit_2509Image-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/tarn59/book_flatten_and_crop_qwen_image_edit_2509) |
 | 8 | Unknown | qihoo360/RefVTONImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/qihoo360/RefVTON) |
 | 16 |  | tlennon-ie/QwenEdit2509-FlatLogColorImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/tlennon-ie/QwenEdit2509-FlatLogColor) |
+| 254 |  | drbaph/Qwen-Image-Edit-2509-Caricature-LoRAImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/drbaph/Qwen-Image-Edit-2509-Caricature-LoRA) |
 
 ## Image-to-Text
 
@@ -2607,6 +2609,7 @@ Updated on 2025-11-24
 | UpdatedOct 18 | 28 | ardaocak/llava-1 | 7B | [Link](https://huggingface.co/ardaocak/llava-1.5-7b-food-calorie-estimator) |
 | 809 | 27 | MixTex/ZhEn-Latex-OCRImage-to-Text | UpdatedJul 30, 2024 | [Link](https://huggingface.co/MixTex/ZhEn-Latex-OCR) |
 | 290 | 26 | paragon-AI/blip2-image-to-textImage-to-Text | UpdatedJun 24, 2023 | [Link](https://huggingface.co/paragon-AI/blip2-image-to-text) |
+| 2.31k | 26 | Xenova/vit-gpt2-image-captioningImage-to-Text | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Xenova/vit-gpt2-image-captioning) |
 | 7.18k | 25 | ddobokki/ko-trocrImage-to-Text | UpdatedOct 22, 2024 | [Link](https://huggingface.co/ddobokki/ko-trocr) |
 | 68 | 25 | Ertugrul/Pixtral-12B-Captioner-RelaxedImage-to-Text | UpdatedOct 1, 2024 | [Link](https://huggingface.co/Ertugrul/Pixtral-12B-Captioner-Relaxed) |
 | Updatedabout 10 hours ago | 24 | CodeGoat24/UniGenBench-EvalModel-qwen-72b-v1Image-to-Text | 73B | [Link](https://huggingface.co/CodeGoat24/UniGenBench-EvalModel-qwen-72b-v1) |
@@ -2770,6 +2773,7 @@ Updated on 2025-11-24
 | Updated1 day ago | 2.26k | mradermacher/Qwen3-VL-8B-Abliterated-Caption-it-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/mradermacher/Qwen3-VL-8B-Abliterated-Caption-it-GGUF) |
 | 1.06k | 2 | PaddlePaddle/arabic_PP-OCRv5_mobile_recImage-to-Text | Updated28 days ago | [Link](https://huggingface.co/PaddlePaddle/arabic_PP-OCRv5_mobile_rec) |
 | Updatedabout 20 hours ago | 2 | eagerworks/eager-embed-v1Image-to-Text | 4B | [Link](https://huggingface.co/eagerworks/eager-embed-v1) |
+| 16 | 2 | NexaAI/paddleocr-npu-mobileImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/NexaAI/paddleocr-npu-mobile) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -5575,6 +5579,7 @@ Updated on 2025-11-24
 | 75 | 4 | onnx-community/chatterbox-ONNXText-to-Speech | Updatedabout 7 hours ago | [Link](https://huggingface.co/onnx-community/chatterbox-ONNX) |
 | 96 | 4 | onnx-community/chatterbox-multilingual-ONNXText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/onnx-community/chatterbox-multilingual-ONNX) |
 | Updatedabout 13 hours ago | 4 | dinhthuan/neutts-air-viText-to-Speech | 0.6B | [Link](https://huggingface.co/dinhthuan/neutts-air-vi) |
+| 132 | 4 | nari-labs/Dia2-1BText-to-Speech | Updated6 days ago | [Link](https://huggingface.co/nari-labs/Dia2-1B) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 1.22k | 3 | CONCREE/Adia_TTSText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/CONCREE/Adia_TTS) |
@@ -5905,6 +5910,7 @@ Updated on 2025-11-24
 | 4 | Unknown | Vchitect/RepVideoText-to-Video | UpdatedJan 17 | [Link](https://huggingface.co/Vchitect/RepVideo) |
 | 1 | Unknown | liuming9157/Wan2 | UpdatedJul 11 | [Link](https://huggingface.co/liuming9157/Wan2.1-T2V-1.3B-Diffusers-ov-fp16) |
 | 181 | Unknown | tencent/HunyuanVideo-1 | Updatedabout 5 hours ago | [Link](https://huggingface.co/tencent/HunyuanVideo-1.5) |
+| 2 | Unknown | lightx2v/Hy1 | Updatedabout 1 hour ago | [Link](https://huggingface.co/lightx2v/Hy1.5-Distill-Models) |
 
 ## Text2Text Generation
 
