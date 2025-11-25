@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-11-24
+Updated on 2025-11-25
 
 > Generated from the Hugging Face database.
 
@@ -2813,6 +2813,7 @@ Updated on 2025-11-24
 | 6 | 1 | AnyaSchen/vit-rugpt3-large-poetry-ftImage-to-Text | UpdatedJun 1, 2023 | [Link](https://huggingface.co/AnyaSchen/vit-rugpt3-large-poetry-ft) |
 | 5.57k | 1 | TIGER-Lab/VLM2Vec-Qwen2VL-2BImage-to-Text | UpdatedMar 13 | [Link](https://huggingface.co/TIGER-Lab/VLM2Vec-Qwen2VL-2B) |
 | 9 | 1 | onnx-community/Dolphin-ONNXImage-to-Text | UpdatedAug 27 | [Link](https://huggingface.co/onnx-community/Dolphin-ONNX) |
+| 4.78k | 1 | rtr46/meiki | Updated19 days ago | [Link](https://huggingface.co/rtr46/meiki.text.detect.v0) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -4788,6 +4789,7 @@ Updated on 2025-11-24
 | Updatedabout 5 hours ago | 1.52k | Kwaipilot/KAT-Dev-72B-ExpText | 73B | [Link](https://huggingface.co/Kwaipilot/KAT-Dev-72B-Exp) |
 | Updatedabout 1 hour ago | 1.21k | openai/gpt-oss-safeguard-20bText | 22B | [Link](https://huggingface.co/openai/gpt-oss-safeguard-20b) |
 | Updatedabout 6 hours ago | 1.06k | allenai/Olmo-3-7B-InstructText | 528k | [Link](https://huggingface.co/allenai/Olmo-3-7B-Instruct) |
+| Updatedabout 8 hours ago | 1.55k | allenai/Olmo-3-32B-ThinkText | 1.05M | [Link](https://huggingface.co/allenai/Olmo-3-32B-Think) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -5580,6 +5582,7 @@ Updated on 2025-11-24
 | 96 | 4 | onnx-community/chatterbox-multilingual-ONNXText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/onnx-community/chatterbox-multilingual-ONNX) |
 | Updatedabout 13 hours ago | 4 | dinhthuan/neutts-air-viText-to-Speech | 0.6B | [Link](https://huggingface.co/dinhthuan/neutts-air-vi) |
 | 132 | 4 | nari-labs/Dia2-1BText-to-Speech | Updated6 days ago | [Link](https://huggingface.co/nari-labs/Dia2-1B) |
+| 335 | 4 | onnx-community/Supertonic-TTS-ONNXText-to-Speech | Updatedabout 5 hours ago | [Link](https://huggingface.co/onnx-community/Supertonic-TTS-ONNX) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 1.22k | 3 | CONCREE/Adia_TTSText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/CONCREE/Adia_TTS) |
@@ -5911,6 +5914,7 @@ Updated on 2025-11-24
 | 1 | Unknown | liuming9157/Wan2 | UpdatedJul 11 | [Link](https://huggingface.co/liuming9157/Wan2.1-T2V-1.3B-Diffusers-ov-fp16) |
 | 181 | Unknown | tencent/HunyuanVideo-1 | Updatedabout 5 hours ago | [Link](https://huggingface.co/tencent/HunyuanVideo-1.5) |
 | 2 | Unknown | lightx2v/Hy1 | Updatedabout 1 hour ago | [Link](https://huggingface.co/lightx2v/Hy1.5-Distill-Models) |
+| 16 | Unknown | Phr00t/HunyuanVideo-1 | Updatedabout 3 hours ago | [Link](https://huggingface.co/Phr00t/HunyuanVideo-1.5-Rapid-AIO) |
 
 ## Text2Text Generation
 
