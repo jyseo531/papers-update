@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-11-25
+Updated on 2025-11-26
 
 > Generated from the Hugging Face database.
 
@@ -1845,6 +1845,7 @@ Updated on 2025-11-25
 | Updatedabout 11 hours ago | 41 | OpenGVLab/InternVL3_5-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-4B) |
 | 6 | 40 | convergence-ai/proxy-lite-3bImage-Text-to-Text | Updatedabout 15 hours ago | [Link](https://huggingface.co/convergence-ai/proxy-lite-3b) |
 | 25 | 40 | Hcompany/Holo1-7BImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/Hcompany/Holo1-7B) |
+| Updatedabout 6 hours ago | 40 | microsoft/Fara-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/microsoft/Fara-7B) |
 | Updatedabout 7 hours ago | 39 | OpenGVLab/InternVL3_5-38BImage-Text-to-Text | 38B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-38B) |
 | 12.4k | 38 | zhibinlan/LLaVE-2BImage-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/zhibinlan/LLaVE-2B) |
 | 7.23k | 38 | nvidia/Cosmos-Reason1-7BImage-Text-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/nvidia/Cosmos-Reason1-7B) |
@@ -2069,6 +2070,7 @@ Updated on 2025-11-25
 | Updated4 days ago | 1.55k | lapa-llm/lapa-12b-ptImage-Text-to-Text | 12B | [Link](https://huggingface.co/lapa-llm/lapa-12b-pt) |
 | Updatedabout 7 hours ago | 1.36k | unsloth/DeepSeek-OCRImage-Text-to-Text | 3B | [Link](https://huggingface.co/unsloth/DeepSeek-OCR) |
 | Updatedabout 7 hours ago | 1.17k | mlfoundations/Gelato-30B-A3BImage-Text-to-Text | 31B | [Link](https://huggingface.co/mlfoundations/Gelato-30B-A3B) |
+| Updated1 day ago | 1.2k | bartowski/microsoft_Fara-7B-GGUFImage-Text-to-Text | 8B | [Link](https://huggingface.co/bartowski/microsoft_Fara-7B-GGUF) |
 | 1.07M |  | meta-llama/Llama-3 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) |
 | 1.49M |  | Qwen/Qwen2-VL-7B-InstructImage-Text-to-Text | Updated19 days ago | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) |
 | 288k |  | microsoft/Phi-3 | UpdatedSep 26, 2024 | [Link](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) |
