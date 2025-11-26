@@ -2277,6 +2277,7 @@ Updated on 2025-11-26
 | 91 | 11 | TencentARC/t2iadapter_color_sd14v1Image-to-Image | UpdatedJul 31, 2023 | [Link](https://huggingface.co/TencentARC/t2iadapter_color_sd14v1) |
 | 192 | 11 | Alissonerdx/BFS-Best-Face-SwapImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap) |
 |  | 11 | AmirKerr/ThisPersonImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/AmirKerr/ThisPerson) |
+| 2 | 11 | diffusers/FLUX | Updatedabout 6 hours ago | [Link](https://huggingface.co/diffusers/FLUX.2-dev-bnb-4bit) |
 | 21 | 10 | philschmid/stable-diffusion-2-inpainting-endpointImage-to-Image | UpdatedSep 29, 2023 | [Link](https://huggingface.co/philschmid/stable-diffusion-2-inpainting-endpoint) |
 | 270 | 10 | drbaph/Fluffy-kontext-LoRAImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/drbaph/Fluffy-kontext-LoRA) |
 | 4 | 10 | bytedance-research/USOImage-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/bytedance-research/USO) |
@@ -2293,6 +2294,7 @@ Updated on 2025-11-26
 |  | 8 | xuminglong/kontext-tryon7Image-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/xuminglong/kontext-tryon7) |
 | 1.74k | 7 | xiaozaa/catvton-flux-betaImage-to-Image | UpdatedJan 16 | [Link](https://huggingface.co/xiaozaa/catvton-flux-beta) |
 | 33 | 7 | kontext-community/relighting-kontext-dev-lora-v3Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/kontext-community/relighting-kontext-dev-lora-v3) |
+| Updatedabout 1 hour ago | 7 | chatpig/flux2-dev-ggufImage-to-Image | 18B | [Link](https://huggingface.co/chatpig/flux2-dev-gguf) |
 | 1.97k | 6 | TencentARC/t2iadapter_sketch_sd15v2Image-to-Image | UpdatedAug 1, 2023 | [Link](https://huggingface.co/TencentARC/t2iadapter_sketch_sd15v2) |
 | 443 | 6 | LPX55/FLUX | Updated6 days ago | [Link](https://huggingface.co/LPX55/FLUX.1_Kontext-Lightning) |
 | 8 | 6 | stepfun-ai/Step1X-Edit-v1p2-previewImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/stepfun-ai/Step1X-Edit-v1p2-preview) |
@@ -2669,6 +2671,7 @@ Updated on 2025-11-26
 | 68 | 10 | Flova/omr_transformerImage-to-Text | UpdatedOct 5, 2023 | [Link](https://huggingface.co/Flova/omr_transformer) |
 | Updatedabout 17 hours ago | 10 | SauravCh11/Donut-CORDImage-to-Text | 0.2B | [Link](https://huggingface.co/SauravCh11/Donut-CORD) |
 | 13.7k | 10 | TIGER-Lab/VLM2Vec-Qwen2VL-7BImage-to-Text | UpdatedMay 3 | [Link](https://huggingface.co/TIGER-Lab/VLM2Vec-Qwen2VL-7B) |
+| 566 | 10 | hezarai/crnn-fa-license-plate-recognitionImage-to-Text | UpdatedNov 3, 2024 | [Link](https://huggingface.co/hezarai/crnn-fa-license-plate-recognition) |
 | 475 | 9 | DunnBC22/trocr-base-printed_license_plates_ocrImage-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-base-printed_license_plates_ocr) |
 | 455 | 9 | fhswf/TrOCR_german_handwrittenImage-to-Text | UpdatedJun 18, 2024 | [Link](https://huggingface.co/fhswf/TrOCR_german_handwritten) |
 | UpdatedNov 20, 2023 | 9.05k | facebook/nougat-smallImage-to-Text | 0.2B | [Link](https://huggingface.co/facebook/nougat-small) |
@@ -2740,6 +2743,7 @@ Updated on 2025-11-26
 | Updatedabout 3 hours ago | 3.06k | noctrex/Chandra-OCR-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/noctrex/Chandra-OCR-GGUF) |
 | UpdatedAug 25 | 3 | NYUAD-ComNets/Llama3 | 11B | [Link](https://huggingface.co/NYUAD-ComNets/Llama3.2_MultiModal_Memes_Hate_Detector) |
 | UpdatedJul 11 | 3.13k | scb10x/typhoon-ocr-3bImage-to-Text | 4B | [Link](https://huggingface.co/scb10x/typhoon-ocr-3b) |
+| 951 | 3 | hezarai/crnn-fa-license-plate-recognition-v2Image-to-Text | UpdatedJun 2 | [Link](https://huggingface.co/hezarai/crnn-fa-license-plate-recognition-v2) |
 | 51 | 2 | microsoft/git-base-msrvtt-qaImage-to-Text | UpdatedApr 4, 2024 | [Link](https://huggingface.co/microsoft/git-base-msrvtt-qa) |
 | 32 | 2 | baseplate/vit-gpt2-image-captioningImage-to-Text | UpdatedApr 5, 2023 | [Link](https://huggingface.co/baseplate/vit-gpt2-image-captioning) |
 | 38 | 2 | sbintuitions/sarashina2-vision-14bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-14b) |
@@ -5430,6 +5434,7 @@ Updated on 2025-11-26
 | 9.2k |  | UmeAiRT/FLUX | UpdatedSep 26, 2024 | [Link](https://huggingface.co/UmeAiRT/FLUX.1-dev-LoRA-Modern_Pixel_art) |
 | 11 | Unknown | Lakonik/pi-Qwen-ImageText-to-Image | Updated4 days ago | [Link](https://huggingface.co/Lakonik/pi-Qwen-Image) |
 | 1.51k |  | Daverrrr75/Qwen-Remove-ClothingText-to-Image | UpdatedSep 10 | [Link](https://huggingface.co/Daverrrr75/Qwen-Remove-Clothing) |
+| 9 | Unknown | ostris/flux2_berthe_morisotText-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/ostris/flux2_berthe_morisot) |
 
 ## Text-to-Speech
 
