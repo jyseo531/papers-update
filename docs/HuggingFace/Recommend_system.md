@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-11-26
+Updated on 2025-11-27
 
 > Generated from the Hugging Face database.
 
@@ -2271,6 +2271,7 @@ Updated on 2025-11-26
 | 8.6k | 13 | lllyasviel/control_v11p_sd15_segImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_seg) |
 |  | 13 | reverentelusarca/kontext-turnaround-sheet-lora-v1Image-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/reverentelusarca/kontext-turnaround-sheet-lora-v1) |
 | 27 | 13 | Xenova/4x_APISR_GRL_GAN_generator-onnxImage-to-Image | UpdatedJul 7 | [Link](https://huggingface.co/Xenova/4x_APISR_GRL_GAN_generator-onnx) |
+| Updatedabout 1 hour ago | 12 | gguf-org/flux2-dev-ggufImage-to-Image | 18B | [Link](https://huggingface.co/gguf-org/flux2-dev-gguf) |
 | 1.03k | 11 | xiaozaa/cat-tryoff-fluxImage-to-Image | UpdatedDec 6, 2024 | [Link](https://huggingface.co/xiaozaa/cat-tryoff-flux) |
 | 1.19k | 11 | prs-eth/marigold-depth-v1-1Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-depth-v1-1) |
 | 424 | 11 | camenduru/IDM-VTON-F16Image-to-Image | UpdatedApr 23, 2024 | [Link](https://huggingface.co/camenduru/IDM-VTON-F16) |
@@ -2535,6 +2536,7 @@ Updated on 2025-11-26
 | 8 | Unknown | qihoo360/RefVTONImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/qihoo360/RefVTON) |
 | 16 |  | tlennon-ie/QwenEdit2509-FlatLogColorImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/tlennon-ie/QwenEdit2509-FlatLogColor) |
 | 254 |  | drbaph/Qwen-Image-Edit-2509-Caricature-LoRAImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/drbaph/Qwen-Image-Edit-2509-Caricature-LoRA) |
+| 5 | Unknown | silveroxides/FLUX | Updatedabout 14 hours ago | [Link](https://huggingface.co/silveroxides/FLUX.2-dev-fp8_scaled) |
 
 ## Image-to-Text
 
@@ -4739,6 +4741,7 @@ Updated on 2025-11-26
 | Updatedabout 1 hour ago | 10.3k | unsloth/gemma-3-270m-it-GGUFText | 0.3B | [Link](https://huggingface.co/unsloth/gemma-3-270m-it-GGUF) |
 | Updatedabout 4 hours ago | 9 | meituan-longcat/LongCat-Flash-ChatText | 562B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Chat) |
 | Updatedabout 7 hours ago | 9 | facebook/MobileLLM-R1-950MText | 0.9B | [Link](https://huggingface.co/facebook/MobileLLM-R1-950M) |
+| Updatedabout 5 hours ago | 9 | Zyphra/ZAYA1-baseText | 9B | [Link](https://huggingface.co/Zyphra/ZAYA1-base) |
 | Updated3 days ago | 8.32k | trillionlabs/Tri-21BText | 21B | [Link](https://huggingface.co/trillionlabs/Tri-21B) |
 | Updatedabout 14 hours ago | 8 | janhq/Jan-v1-4B-GGUFText | 4B | [Link](https://huggingface.co/janhq/Jan-v1-4B-GGUF) |
 | Updatedabout 16 hours ago | 8.51k | nvidia/NVIDIA-Nemotron-Nano-12B-v2Text | 12B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-12B-v2) |
@@ -5435,6 +5438,8 @@ Updated on 2025-11-26
 | 11 | Unknown | Lakonik/pi-Qwen-ImageText-to-Image | Updated4 days ago | [Link](https://huggingface.co/Lakonik/pi-Qwen-Image) |
 | 1.51k |  | Daverrrr75/Qwen-Remove-ClothingText-to-Image | UpdatedSep 10 | [Link](https://huggingface.co/Daverrrr75/Qwen-Remove-Clothing) |
 | 9 | Unknown | ostris/flux2_berthe_morisotText-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/ostris/flux2_berthe_morisot) |
+| 190 | Unknown | Tongyi-MAI/Z-Image-TurboText-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/Tongyi-MAI/Z-Image-Turbo) |
+| 7 | Unknown | T5B/Z-Image-Turbo-FP8Text-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/T5B/Z-Image-Turbo-FP8) |
 
 ## Text-to-Speech
 
