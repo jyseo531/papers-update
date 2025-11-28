@@ -2556,6 +2556,7 @@ Updated on 2025-11-28
 | 16 |  | tlennon-ie/QwenEdit2509-FlatLogColorImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/tlennon-ie/QwenEdit2509-FlatLogColor) |
 | 254 |  | drbaph/Qwen-Image-Edit-2509-Caricature-LoRAImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/drbaph/Qwen-Image-Edit-2509-Caricature-LoRA) |
 | 5 | Unknown | silveroxides/FLUX | Updatedabout 14 hours ago | [Link](https://huggingface.co/silveroxides/FLUX.2-dev-fp8_scaled) |
+| 109 |  | tarn59/character_turnaround_sheet_qwen_image_edit_2509Image-to-Image | Updated6 days ago | [Link](https://huggingface.co/tarn59/character_turnaround_sheet_qwen_image_edit_2509) |
 
 ## Image-to-Text
 
@@ -5155,6 +5156,7 @@ Updated on 2025-11-28
 | 49.2k | 457 | Shakker-Labs/FLUX | UpdatedAug 29, 2024 | [Link](https://huggingface.co/Shakker-Labs/FLUX.1-dev-ControlNet-Union-Pro) |
 | 39.9k | 449 | alimama-creative/FLUX | UpdatedOct 15, 2024 | [Link](https://huggingface.co/alimama-creative/FLUX.1-Turbo-Alpha) |
 | 37.6k | 445 | XLabs-AI/flux-controlnet-collectionsText-to-Image | UpdatedAug 30, 2024 | [Link](https://huggingface.co/XLabs-AI/flux-controlnet-collections) |
+| Updated4 days ago | 412 | easygoing0114/Qwen-Image-Edit-2509_clearText-to-Image | 20B | [Link](https://huggingface.co/easygoing0114/Qwen-Image-Edit-2509_clear) |
 | 779k | 392 | stabilityai/sd-turboText-to-Image | UpdatedJul 10, 2024 | [Link](https://huggingface.co/stabilityai/sd-turbo) |
 | 26.8k | 386 | ostris/Flex | UpdatedJan 19 | [Link](https://huggingface.co/ostris/Flex.1-alpha) |
 | 275 | 375 | dalle-mini/dalle-miniText-to-Image | UpdatedJan 11, 2023 | [Link](https://huggingface.co/dalle-mini/dalle-mini) |
