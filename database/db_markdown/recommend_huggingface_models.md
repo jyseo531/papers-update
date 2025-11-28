@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-11-27
+Updated on 2025-11-28
 
 > Generated from the Hugging Face database.
 
@@ -1822,6 +1822,7 @@ Updated on 2025-11-27
 | Updated2 days ago | 87 | INSAIT-Institute/MamayLM-Gemma-3-4B-IT-v1 | 4B | [Link](https://huggingface.co/INSAIT-Institute/MamayLM-Gemma-3-4B-IT-v1.0) |
 | Updated20 days ago | 81.8k | zai-org/GLM-4 | 10B | [Link](https://huggingface.co/zai-org/GLM-4.1V-9B-Thinking) |
 | 10.9k | 80 | ibm-granite/granite-vision-3 | Updatedabout 7 hours ago | [Link](https://huggingface.co/ibm-granite/granite-vision-3.1-2b-preview) |
+| Updated3 days ago | 78 | internlm/Spatial-SSRL-Qwen3VL-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/internlm/Spatial-SSRL-Qwen3VL-4B) |
 | Updated6 days ago | 77 | AvitoTech/avisionImage-Text-to-Text | 7B | [Link](https://huggingface.co/AvitoTech/avision) |
 | Updatedabout 1 hour ago | 76.7k | huihui-ai/Huihui-Qwen3-VL-30B-A3B-Instruct-abliteratedImage-Text-to-Text | 31B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3-VL-30B-A3B-Instruct-abliterated) |
 | Updated5 days ago | 73 | neovateai/UI-UG-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/neovateai/UI-UG-7B) |
@@ -2046,6 +2047,7 @@ Updated on 2025-11-27
 | 338 | 7 | allenai/olmOCR-7B-0225-preview-FP8Image-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview-FP8) |
 | Updated2 days ago | 7.9k | unsloth/Qwen3-VL-4B-Instruct-GGUFImage-Text-to-Text | 4B | [Link](https://huggingface.co/unsloth/Qwen3-VL-4B-Instruct-GGUF) |
 | Updated3 days ago | 7.61k | unsloth/Qwen3-VL-32B-Thinking-GGUFImage-Text-to-Text | 33B | [Link](https://huggingface.co/unsloth/Qwen3-VL-32B-Thinking-GGUF) |
+| Updatedabout 17 hours ago | 7 | ByteDance/Sa2VA-Qwen3-VL-2BImage-Text-to-Text | 3B | [Link](https://huggingface.co/ByteDance/Sa2VA-Qwen3-VL-2B) |
 | 160 | 6 | MIL-UT/Asagi-14BImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/MIL-UT/Asagi-14B) |
 | Updatedabout 8 hours ago | 6.26k | Qwen/Qwen3-VL-30B-A3B-ThinkingImage-Text-to-Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Thinking) |
 | Updatedabout 14 hours ago | 6 | Qwen/Qwen3-VL-8B-InstructImage-Text-to-Text | 9B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct) |
@@ -4584,6 +4586,7 @@ Updated on 2025-11-27
 | 4 | 31 | Qwen/Qwen3-Embedding-8BText | Updatedabout 10 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-Embedding-8B) |
 | Updated27 days ago | 31 | Chain-GPT/Solidity-LLMText | 3B | [Link](https://huggingface.co/Chain-GPT/Solidity-LLM) |
 | Updated4 days ago | 31.2k | PowerInfer/SmallThinker-21BA3B-Instruct-GGUFText | 22B | [Link](https://huggingface.co/PowerInfer/SmallThinker-21BA3B-Instruct-GGUF) |
+| Updatedabout 13 hours ago | 31 | ArliAI/gpt-oss-20b-DerestrictedText | 21B | [Link](https://huggingface.co/ArliAI/gpt-oss-20b-Derestricted) |
 | 277 | 30 | kakaocorp/kanana-nano-2 | Updatedabout 22 hours ago | [Link](https://huggingface.co/kakaocorp/kanana-nano-2.1b-instruct) |
 | 2.75k | 30 | allenai/OLMo-2-0425-1BText | Updated6 days ago | [Link](https://huggingface.co/allenai/OLMo-2-0425-1B) |
 | 509 | 30 | SWE-bench/SWE-agent-LM-32BText | Updatedabout 10 hours ago | [Link](https://huggingface.co/SWE-bench/SWE-agent-LM-32B) |
@@ -5208,6 +5211,7 @@ Updated on 2025-11-27
 | 217 | 12 | city96/HiDream-I1-Dev-ggufText-to-Image | Updated1 day ago | [Link](https://huggingface.co/city96/HiDream-I1-Dev-gguf) |
 | Updatedabout 4 hours ago | 12 | stepfun-ai/NextStep-1-LargeText-to-Image | 15B | [Link](https://huggingface.co/stepfun-ai/NextStep-1-Large) |
 | 59 | 12 | bytedance-research/UMOText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/bytedance-research/UMO) |
+| 154 | 12 | drbaph/Z-Image-Turbo-FP8Text-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/drbaph/Z-Image-Turbo-FP8) |
 | 116 | 11 | Efficient-Large-Model/SANA1 | Updatedabout 6 hours ago | [Link](https://huggingface.co/Efficient-Large-Model/SANA1.5_4.8B_1024px) |
 | 687 | 11 | azaneko/HiDream-I1-Full-nf4Text-to-Image | Updated3 days ago | [Link](https://huggingface.co/azaneko/HiDream-I1-Full-nf4) |
 | 945 | 11 | calcuis/hidream-ggufText-to-Image | Updated20 minutes ago | [Link](https://huggingface.co/calcuis/hidream-gguf) |
@@ -5460,6 +5464,7 @@ Updated on 2025-11-27
 | 9 | Unknown | ostris/flux2_berthe_morisotText-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/ostris/flux2_berthe_morisot) |
 | 190 | Unknown | Tongyi-MAI/Z-Image-TurboText-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/Tongyi-MAI/Z-Image-Turbo) |
 | 7 | Unknown | T5B/Z-Image-Turbo-FP8Text-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/T5B/Z-Image-Turbo-FP8) |
+| 221 |  | 00quebec/iPhone_realismText-to-Image | Updated5 days ago | [Link](https://huggingface.co/00quebec/iPhone_realism) |
 
 ## Text-to-Speech
 
