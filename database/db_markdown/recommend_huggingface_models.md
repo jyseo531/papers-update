@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-11-28
+Updated on 2025-11-29
 
 > Generated from the Hugging Face database.
 
@@ -39,6 +39,7 @@ Updated on 2025-11-28
 | Updated5 days ago | 76 | DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-ExtremeAny-to-Any | 4B | [Link](https://huggingface.co/DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-Extreme) |
 | UpdatedAug 20 | 64 | Frane92O/Qwen2 | 8B | [Link](https://huggingface.co/Frane92O/Qwen2.5-Omni-7B-Q4_0-GGUF) |
 | Updatedabout 1 hour ago | 63 | wikeeyang/Emu35-NF4Any-to-Any | 35B | [Link](https://huggingface.co/wikeeyang/Emu35-NF4) |
+| UpdatedMay 12 | 55.1k | unsloth/gemma-3-4b-it-unsloth-bnb-4bitAny-to-Any | 3B | [Link](https://huggingface.co/unsloth/gemma-3-4b-it-unsloth-bnb-4bit) |
 | Updated1 day ago | 53 | cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-4bitAny-to-Any | 6B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-4bit) |
 | Updated17 days ago | 53 | sensefvg/InteractiveOmni-4BAny-to-Any | 6B | [Link](https://huggingface.co/sensefvg/InteractiveOmni-4B) |
 | UpdatedAug 14 | 48k | unsloth/gemma-3-4b-it-GGUFAny-to-Any | 4B | [Link](https://huggingface.co/unsloth/gemma-3-4b-it-GGUF) |
@@ -2342,6 +2343,7 @@ Updated on 2025-11-28
 |  | 4 | chflame163/kontext_hiresImage-to-Image | Updatedabout 15 hours ago | [Link](https://huggingface.co/chflame163/kontext_hires) |
 | 371 | 4 | ovedrive/Qwen-Image-Edit-2509-4bitImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/ovedrive/Qwen-Image-Edit-2509-4bit) |
 | 78 | 4 | valiantcat/Qwen-Image-Edit-2509-photousImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/valiantcat/Qwen-Image-Edit-2509-photous) |
+| 32 | 4 | stepfun-ai/Step1X-Edit-v1p2Image-to-Image | Updated1 day ago | [Link](https://huggingface.co/stepfun-ai/Step1X-Edit-v1p2) |
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
@@ -2690,6 +2692,7 @@ Updated on 2025-11-28
 | 2.98k | 11 | kazars24/trocr-base-handwritten-ruImage-to-Text | UpdatedOct 27, 2024 | [Link](https://huggingface.co/kazars24/trocr-base-handwritten-ru) |
 | UpdatedJul 12, 2023 | 11 | nttdataspain/vit-gpt2-stablediffusion2-loraImage-to-Text | 0.3B | [Link](https://huggingface.co/nttdataspain/vit-gpt2-stablediffusion2-lora) |
 | 63 | 11 | onnx-community/Qwen2-VL-2B-InstructImage-to-Text | UpdatedMar 6 | [Link](https://huggingface.co/onnx-community/Qwen2-VL-2B-Instruct) |
+| Updatedabout 9 hours ago | 11 | WaveCut/FLUX | 6B | [Link](https://huggingface.co/WaveCut/FLUX.2-TE-Trimmed-7L-Distil) |
 | 68 | 10 | Flova/omr_transformerImage-to-Text | UpdatedOct 5, 2023 | [Link](https://huggingface.co/Flova/omr_transformer) |
 | Updatedabout 17 hours ago | 10 | SauravCh11/Donut-CORDImage-to-Text | 0.2B | [Link](https://huggingface.co/SauravCh11/Donut-CORD) |
 | 13.7k | 10 | TIGER-Lab/VLM2Vec-Qwen2VL-7BImage-to-Text | UpdatedMay 3 | [Link](https://huggingface.co/TIGER-Lab/VLM2Vec-Qwen2VL-7B) |
@@ -4364,6 +4367,7 @@ Updated on 2025-11-28
 |  | 682 | deepseek-ai/DeepSeek-V3-0324Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3-0324) |
 | Updated5 days ago | 663k | lmstudio-community/gpt-oss-20b-MLX-8bitText | 21B | [Link](https://huggingface.co/lmstudio-community/gpt-oss-20b-MLX-8bit) |
 | Updated5 days ago | 661 | LiquidAI/LFM2-700M-GGUFText | 0.7B | [Link](https://huggingface.co/LiquidAI/LFM2-700M-GGUF) |
+| Updated2 days ago | 628 | PrimeIntellect/INTELLECT-3-FP8Text | 107B | [Link](https://huggingface.co/PrimeIntellect/INTELLECT-3-FP8) |
 | Updated1 day ago | 608 | ArliAI/GLM-4 | 110B | [Link](https://huggingface.co/ArliAI/GLM-4.5-Air-Derestricted) |
 | Updatedabout 4 hours ago | 570 | MiniMaxAI/MiniMax-M2Text | 229B | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M2) |
 |  | 565 | deepseek-ai/DeepSeek-R1-0528Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528) |
@@ -4588,6 +4592,7 @@ Updated on 2025-11-28
 | Updated27 days ago | 31 | Chain-GPT/Solidity-LLMText | 3B | [Link](https://huggingface.co/Chain-GPT/Solidity-LLM) |
 | Updated4 days ago | 31.2k | PowerInfer/SmallThinker-21BA3B-Instruct-GGUFText | 22B | [Link](https://huggingface.co/PowerInfer/SmallThinker-21BA3B-Instruct-GGUF) |
 | Updatedabout 13 hours ago | 31 | ArliAI/gpt-oss-20b-DerestrictedText | 21B | [Link](https://huggingface.co/ArliAI/gpt-oss-20b-Derestricted) |
+| Updatedabout 11 hours ago | 31 | unsloth/Qwen3-Next-80B-A3B-Instruct-GGUFText | 80B | [Link](https://huggingface.co/unsloth/Qwen3-Next-80B-A3B-Instruct-GGUF) |
 | 277 | 30 | kakaocorp/kanana-nano-2 | Updatedabout 22 hours ago | [Link](https://huggingface.co/kakaocorp/kanana-nano-2.1b-instruct) |
 | 2.75k | 30 | allenai/OLMo-2-0425-1BText | Updated6 days ago | [Link](https://huggingface.co/allenai/OLMo-2-0425-1B) |
 | 509 | 30 | SWE-bench/SWE-agent-LM-32BText | Updatedabout 10 hours ago | [Link](https://huggingface.co/SWE-bench/SWE-agent-LM-32B) |
@@ -5222,6 +5227,7 @@ Updated on 2025-11-28
 | 28 | 11 | Freepik/F-Lite-7BText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Freepik/F-Lite-7B) |
 | 192 | 11 | nvidia/Cosmos-Predict2-14B-Text2ImageText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/Cosmos-Predict2-14B-Text2Image) |
 | 77 | 11 | Kwai-Kolors/CoTyleText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/Kwai-Kolors/CoTyle) |
+|  | 11 | bdsqlsz/qinglong_DetailedEyes_Z-ImageText-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/bdsqlsz/qinglong_DetailedEyes_Z-Image) |
 |  | 10 | strangerzonehf/Real-ClaymationText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/strangerzonehf/Real-Claymation) |
 | 17 | 10 | zhang0jhon/flux_waveletText-to-Image | Updated5 days ago | [Link](https://huggingface.co/zhang0jhon/flux_wavelet) |
 | 36 | 10 | codermert/ozgeefinalText-to-Image | Updated6 days ago | [Link](https://huggingface.co/codermert/ozgeefinal) |
