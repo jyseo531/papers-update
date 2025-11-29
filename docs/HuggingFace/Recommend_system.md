@@ -88,6 +88,7 @@ Updated on 2025-11-29
 | UpdatedMay 12 | 6.52k | unsloth/gemma-3-4b-it-bnb-4bitAny-to-Any | 3B | [Link](https://huggingface.co/unsloth/gemma-3-4b-it-bnb-4bit) |
 | 1.63k | 5 | PKU-Alignment/AA-chameleon-7b-plusAny-to-Any | UpdatedSep 13, 2024 | [Link](https://huggingface.co/PKU-Alignment/AA-chameleon-7b-plus) |
 | 2.67k | 5 | Junfeng5/Liquid_V1_7BAny-to-Any | Updated8 days ago | [Link](https://huggingface.co/Junfeng5/Liquid_V1_7B) |
+| UpdatedMay 9 | 5.89k | unsloth/gemma-3-27b-it-qat-GGUFAny-to-Any | 27B | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-qat-GGUF) |
 | 126 | 4 | Alpha-VLLM/Chameleon_7B_mGPTAny-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Chameleon_7B_mGPT) |
 | 37 | 4 | Alpha-VLLM/Lumina-mGPT-7B-512-MultiImageAny-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-512-MultiImage) |
 | 26 | 4 | EPFL-VILAB/4M-7-T2I_XL_CC12MAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-7-T2I_XL_CC12M) |
@@ -2091,6 +2092,7 @@ Updated on 2025-11-29
 | Updatedabout 7 hours ago | 1.36k | unsloth/DeepSeek-OCRImage-Text-to-Text | 3B | [Link](https://huggingface.co/unsloth/DeepSeek-OCR) |
 | Updatedabout 7 hours ago | 1.17k | mlfoundations/Gelato-30B-A3BImage-Text-to-Text | 31B | [Link](https://huggingface.co/mlfoundations/Gelato-30B-A3B) |
 | Updated1 day ago | 1.2k | bartowski/microsoft_Fara-7B-GGUFImage-Text-to-Text | 8B | [Link](https://huggingface.co/bartowski/microsoft_Fara-7B-GGUF) |
+| Updatedabout 16 hours ago | 1.7k | SerialKicked/Qwen3-VL-32B-Thinking-heretic-GGUFImage-Text-to-Text | 33B | [Link](https://huggingface.co/SerialKicked/Qwen3-VL-32B-Thinking-heretic-GGUF) |
 | 1.07M |  | meta-llama/Llama-3 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) |
 | 1.49M |  | Qwen/Qwen2-VL-7B-InstructImage-Text-to-Text | Updated19 days ago | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) |
 | 288k |  | microsoft/Phi-3 | UpdatedSep 26, 2024 | [Link](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) |
@@ -4543,6 +4545,7 @@ Updated on 2025-11-29
 | Updatedabout 3 hours ago | 40 | MachineLearningLM/MachineLearningLM-7B-v1Text | 8B | [Link](https://huggingface.co/MachineLearningLM/MachineLearningLM-7B-v1) |
 | Updatedabout 13 hours ago | 40 | ai21labs/AI21-Jamba-Reasoning-3BText | 3B | [Link](https://huggingface.co/ai21labs/AI21-Jamba-Reasoning-3B) |
 | 4 | 39 | Qwen/Qwen3-14BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-14B) |
+| UpdatedJun 8 | 39.4k | unsloth/Qwen3-4B-GGUFText | 4B | [Link](https://huggingface.co/unsloth/Qwen3-4B-GGUF) |
 | 227 | 38 | LGAI-EXAONE/EXAONE-Deep-7 | Updated4 minutes ago | [Link](https://huggingface.co/LGAI-EXAONE/EXAONE-Deep-7.8B) |
 | 9.86k | 38 | starvector/starvector-1b-im2svgText | Updated2 days ago | [Link](https://huggingface.co/starvector/starvector-1b-im2svg) |
 | 278 | 38 | deepcogito/cogito-v1-preview-qwen-32BText | Updated1 day ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-qwen-32B) |
@@ -4764,6 +4767,7 @@ Updated on 2025-11-29
 | Updatedabout 11 hours ago | 14 | CohereLabs/command-a-translate-08-2025Text | 111B | [Link](https://huggingface.co/CohereLabs/command-a-translate-08-2025) |
 | Updatedabout 23 hours ago | 13 | inclusionAI/Ring-flash-linear-2 | 104B | [Link](https://huggingface.co/inclusionAI/Ring-flash-linear-2.0) |
 | Updated1 day ago | 13 | cerebras/MiniMax-M2-REAP-162B-A10BText | 162B | [Link](https://huggingface.co/cerebras/MiniMax-M2-REAP-162B-A10B) |
+| Updatedabout 22 hours ago | 13.2k | unsloth/Qwen3-Next-80B-A3B-Thinking-GGUFText | 80B | [Link](https://huggingface.co/unsloth/Qwen3-Next-80B-A3B-Thinking-GGUF) |
 | Updatedabout 10 hours ago | 11.9k | unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUFText | 31B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUF) |
 | Updatedabout 16 hours ago | 11.6k | unsloth/MiniMax-M2-GGUFText | 229B | [Link](https://huggingface.co/unsloth/MiniMax-M2-GGUF) |
 | Updatedabout 1 hour ago | 10.3k | unsloth/gemma-3-270m-it-GGUFText | 0.3B | [Link](https://huggingface.co/unsloth/gemma-3-270m-it-GGUF) |
@@ -5264,6 +5268,7 @@ Updated on 2025-11-29
 |  | 7 | Danrisi/Qwen-image_SamsungCam_UltraRealText-to-Image | Updated2 days ago | [Link](https://huggingface.co/Danrisi/Qwen-image_SamsungCam_UltraReal) |
 | 28 | 7 | spooknik/CenKreChro-SVDQText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/spooknik/CenKreChro-SVDQ) |
 | 13 | 7 | spooknik/Fluxmania-SVDQText-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/spooknik/Fluxmania-SVDQ) |
+| 19 | 7 | AIDC-AI/Ovis-Image-7BText-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/AIDC-AI/Ovis-Image-7B) |
 | 1.07k | 6 | DFloat11/FLUX | Updated1 day ago | [Link](https://huggingface.co/DFloat11/FLUX.1-dev-DF11) |
 | 836 | 6 | Minthy/RouWei-0 | Updated3 days ago | [Link](https://huggingface.co/Minthy/RouWei-0.8) |
 | 169 | 6 | PosterCraft/PosterCraft-v1_RLText-to-Image | Updated2 days ago | [Link](https://huggingface.co/PosterCraft/PosterCraft-v1_RL) |
