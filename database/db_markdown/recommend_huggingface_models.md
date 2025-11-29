@@ -5232,6 +5232,7 @@ Updated on 2025-11-29
 | 192 | 11 | nvidia/Cosmos-Predict2-14B-Text2ImageText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/Cosmos-Predict2-14B-Text2Image) |
 | 77 | 11 | Kwai-Kolors/CoTyleText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/Kwai-Kolors/CoTyle) |
 |  | 11 | bdsqlsz/qinglong_DetailedEyes_Z-ImageText-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/bdsqlsz/qinglong_DetailedEyes_Z-Image) |
+|  | 11 | ostris/zimage_turbo_training_adapterText-to-Image | Updated5 minutes ago | [Link](https://huggingface.co/ostris/zimage_turbo_training_adapter) |
 |  | 10 | strangerzonehf/Real-ClaymationText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/strangerzonehf/Real-Claymation) |
 | 17 | 10 | zhang0jhon/flux_waveletText-to-Image | Updated5 days ago | [Link](https://huggingface.co/zhang0jhon/flux_wavelet) |
 | 36 | 10 | codermert/ozgeefinalText-to-Image | Updated6 days ago | [Link](https://huggingface.co/codermert/ozgeefinal) |
