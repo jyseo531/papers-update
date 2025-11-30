@@ -2561,6 +2561,7 @@ Updated on 2025-11-30
 | 254 |  | drbaph/Qwen-Image-Edit-2509-Caricature-LoRAImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/drbaph/Qwen-Image-Edit-2509-Caricature-LoRA) |
 | 5 | Unknown | silveroxides/FLUX | Updatedabout 14 hours ago | [Link](https://huggingface.co/silveroxides/FLUX.2-dev-fp8_scaled) |
 | 109 |  | tarn59/character_turnaround_sheet_qwen_image_edit_2509Image-to-Image | Updated6 days ago | [Link](https://huggingface.co/tarn59/character_turnaround_sheet_qwen_image_edit_2509) |
+| 116 |  | valiantcat/Qwen-Image-Edit-2509-Upscale2KImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/valiantcat/Qwen-Image-Edit-2509-Upscale2K) |
 
 ## Image-to-Text
 
@@ -4783,6 +4784,7 @@ Updated on 2025-11-30
 | Updated4 days ago | 7k | bartowski/cerebras_GLM-4 | 85B | [Link](https://huggingface.co/bartowski/cerebras_GLM-4.5-Air-REAP-82B-A12B-GGUF) |
 | UpdatedDec 9, 2024 | 7.08k | utter-project/EuroLLM-9BText | 9B | [Link](https://huggingface.co/utter-project/EuroLLM-9B) |
 | Updatedabout 2 hours ago | 7.91k | moonshotai/Kimi-Linear-48B-A3B-InstructText | 49B | [Link](https://huggingface.co/moonshotai/Kimi-Linear-48B-A3B-Instruct) |
+| Updated3 days ago | 7.04k | bartowski/PrimeIntellect_INTELLECT-3-GGUFText | 107B | [Link](https://huggingface.co/bartowski/PrimeIntellect_INTELLECT-3-GGUF) |
 | 578k | 6.11k | meta-llama/Meta-Llama-3-8BText | UpdatedSep 27, 2024 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) |
 | Updatedabout 18 hours ago | 6 | apple/sage-ft-mixtral-8x7bText | 47B | [Link](https://huggingface.co/apple/sage-ft-mixtral-8x7b) |
 | Updated5 days ago | 6.94k | mistralai/Devstral-Small-2507_ggufText | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2507_gguf) |
@@ -5481,6 +5483,7 @@ Updated on 2025-11-30
 | 7 | Unknown | T5B/Z-Image-Turbo-FP8Text-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/T5B/Z-Image-Turbo-FP8) |
 | 221 |  | 00quebec/iPhone_realismText-to-Image | Updated5 days ago | [Link](https://huggingface.co/00quebec/iPhone_realism) |
 | 5 |  | renderartist/Technically-Color-Z-Image-TurboText-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/renderartist/Technically-Color-Z-Image-Turbo) |
+| 41 | Unknown | NewBie-AI/NewBie-image-v0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/NewBie-AI/NewBie-image-v0.1-exp-model-repo) |
 
 ## Text-to-Speech
 
@@ -5537,6 +5540,7 @@ Updated on 2025-11-30
 | 3.52k | 87 | HKUSTAudio/Llasa-1BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-1B) |
 | 24.4k | 83 | myshell-ai/MeloTTS-ChineseText-to-Speech | UpdatedMar 1, 2024 | [Link](https://huggingface.co/myshell-ai/MeloTTS-Chinese) |
 | Updated4 days ago | 83 | wcy1122/MGM-Omni-TTS-4BText-to-Speech | 5B | [Link](https://huggingface.co/wcy1122/MGM-Omni-TTS-4B) |
+| UpdatedMar 14 | 79 | saheedniyi/YarnGPT2bText-to-Speech | 0.4B | [Link](https://huggingface.co/saheedniyi/YarnGPT2b) |
 | 2.42k | 77 | FunAudioLLM/CosyVoice2-0 | UpdatedDec 27, 2024 | [Link](https://huggingface.co/FunAudioLLM/CosyVoice2-0.5B) |
 | 162 | 72 | canopylabs/orpheus-3b-0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/canopylabs/orpheus-3b-0.1-ft) |
 | Updated1 day ago | 72 | Vyvo/VyvoTTS-LFM2-JennyText-to-Speech | 0.4B | [Link](https://huggingface.co/Vyvo/VyvoTTS-LFM2-Jenny) |
