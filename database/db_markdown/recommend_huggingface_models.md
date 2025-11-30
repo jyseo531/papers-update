@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-11-29
+Updated on 2025-11-30
 
 > Generated from the Hugging Face database.
 
@@ -4437,6 +4437,7 @@ Updated on 2025-11-29
 | Updated4 days ago | 110 | LatitudeGames/Wayfarer-2-12BText | 12B | [Link](https://huggingface.co/LatitudeGames/Wayfarer-2-12B) |
 | 176 | 109 | nvidia/DeepSeek-R1-FP4Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/nvidia/DeepSeek-R1-FP4) |
 | 3 | 107 | MiniMaxAI/MiniMax-M1-80kText | Updatedabout 10 hours ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M1-80k) |
+| Updated1 day ago | 106 | opendatalab/MinerU-HTMLText | 0.8B | [Link](https://huggingface.co/opendatalab/MinerU-HTML) |
 | UpdatedMay 26 | 105k | mistralai/Devstral-Small-2505Text | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2505) |
 | Updatedabout 3 hours ago | 105 | KORMo-Team/KORMo-10B-sftText | 11B | [Link](https://huggingface.co/KORMo-Team/KORMo-10B-sft) |
 | 683 | 104 | Tongyi-Zhiwen/QwenLong-L1-32BText | Updatedabout 5 hours ago | [Link](https://huggingface.co/Tongyi-Zhiwen/QwenLong-L1-32B) |
@@ -5479,6 +5480,7 @@ Updated on 2025-11-29
 | 190 | Unknown | Tongyi-MAI/Z-Image-TurboText-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/Tongyi-MAI/Z-Image-Turbo) |
 | 7 | Unknown | T5B/Z-Image-Turbo-FP8Text-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/T5B/Z-Image-Turbo-FP8) |
 | 221 |  | 00quebec/iPhone_realismText-to-Image | Updated5 days ago | [Link](https://huggingface.co/00quebec/iPhone_realism) |
+| 5 |  | renderartist/Technically-Color-Z-Image-TurboText-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/renderartist/Technically-Color-Z-Image-Turbo) |
 
 ## Text-to-Speech
 
@@ -5544,6 +5546,7 @@ Updated on 2025-11-29
 | 2.99k | 63 | HKUSTAudio/Llasa-8BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-8B) |
 | Updatedabout 7 hours ago | 61 | maya-research/maya1Text-to-Speech | 3B | [Link](https://huggingface.co/maya-research/maya1) |
 | Updatedabout 13 hours ago | 58 | NandemoGHS/Anime-Llasa-3B-CaptionsText-to-Speech | 3B | [Link](https://huggingface.co/NandemoGHS/Anime-Llasa-3B-Captions) |
+| UpdatedMar 14 | 58 | saheedniyi/YarnGPT-localText-to-Speech | 0.4B | [Link](https://huggingface.co/saheedniyi/YarnGPT-local) |
 | Updated1 day ago | 54 | nineninesix/kani-tts-370m-expo2025-osaka-jaText-to-Speech | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-370m-expo2025-osaka-ja) |
 | Updatedabout 8 hours ago | 51 | neuphonic/neutts-air-q8-ggufText-to-Speech | 0.7B | [Link](https://huggingface.co/neuphonic/neutts-air-q8-gguf) |
 | Updated3 days ago | 50 | nineninesix/kani-tts-400m-koText-to-Speech | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-400m-ko) |
