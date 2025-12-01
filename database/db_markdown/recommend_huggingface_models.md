@@ -21,6 +21,7 @@ Updated on 2025-12-01
 | 121k | 381 | deepseek-ai/Janus-Pro-1BAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-1B) |
 | Updatedabout 10 hours ago | 316 | wcy1122/MGM-Omni-TTS-2B-0927Any-to-Any | 2B | [Link](https://huggingface.co/wcy1122/MGM-Omni-TTS-2B-0927) |
 | Updatedabout 3 hours ago | 306 | BAAI/Emu3 | 34B | [Link](https://huggingface.co/BAAI/Emu3.5) |
+| UpdatedSep 7, 2024 | 293 | ljnlonoljpiljm/florence-2-large-nsfw-pretrainAny-to-Any | 0.8B | [Link](https://huggingface.co/ljnlonoljpiljm/florence-2-large-nsfw-pretrain) |
 | UpdatedJul 18, 2024 | 271 | MiaoshouAI/Florence-2-base-PromptGenAny-to-Any | 0.3B | [Link](https://huggingface.co/MiaoshouAI/Florence-2-base-PromptGen) |
 | 488 | 260 | gpt-omni/mini-omni2Any-to-Any | UpdatedOct 24, 2024 | [Link](https://huggingface.co/gpt-omni/mini-omni2) |
 | Updated7 days ago | 259 | cpatonn/Qwen3-Omni-30B-A3B-Captioner-AWQ-4bitAny-to-Any | 6B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Captioner-AWQ-4bit) |
@@ -2291,6 +2292,7 @@ Updated on 2025-12-01
 | 4.17k | 17 | ohayonguy/PMRF_blind_face_image_restorationImage-to-Image | UpdatedOct 3, 2024 | [Link](https://huggingface.co/ohayonguy/PMRF_blind_face_image_restoration) |
 | 37.8k | 16 | caidas/swin2SR-realworld-sr-x4-64-bsrgan-psnrImage-to-Image | UpdatedJan 21, 2023 | [Link](https://huggingface.co/caidas/swin2SR-realworld-sr-x4-64-bsrgan-psnr) |
 | 13.9k | 15 | lllyasviel/control_v11p_sd15_mlsdImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_mlsd) |
+| 179 | 15 | Kr1sJ/iMontageImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/Kr1sJ/iMontage) |
 | 12 | 14 | InstantX/Qwen-Image-ControlNet-InpaintingImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/InstantX/Qwen-Image-ControlNet-Inpainting) |
 | Updated24 minutes ago | 14 | QuantStack/Qwen-Image-Edit-2509-GGUFImage-to-Image | 20B | [Link](https://huggingface.co/QuantStack/Qwen-Image-Edit-2509-GGUF) |
 | 8.6k | 13 | lllyasviel/control_v11p_sd15_segImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_seg) |
@@ -2602,6 +2604,7 @@ Updated on 2025-12-01
 | UpdatedJul 22 | 135 | sugiv/cardvaultplus-500m-ggufImage-to-Text | 0.4B | [Link](https://huggingface.co/sugiv/cardvaultplus-500m-gguf) |
 | 1.69k | 134 | xtuner/llava-phi-3-mini-ggufImage-to-Text | UpdatedApr 29, 2024 | [Link](https://huggingface.co/xtuner/llava-phi-3-mini-gguf) |
 | Updated4 days ago | 134 | mlx-community/olmOCR-2-7B-1025-bf16Image-to-Text | 8B | [Link](https://huggingface.co/mlx-community/olmOCR-2-7B-1025-bf16) |
+| Updated32 minutes ago | 119 | stepfun-ai/GELab-Zero-4B-previewImage-to-Text | 4B | [Link](https://huggingface.co/stepfun-ai/GELab-Zero-4B-preview) |
 | UpdatedFeb 25 | 117k | allenai/olmOCR-7B-0225-previewImage-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview) |
 | UpdatedApr 2 | 116k | reducto/RolmOCRImage-to-Text | 8B | [Link](https://huggingface.co/reducto/RolmOCR) |
 | Updated5 days ago | 110 | Svngoku/Qwen3-VL-TimeTravelImage-to-Text | 9B | [Link](https://huggingface.co/Svngoku/Qwen3-VL-TimeTravel) |
@@ -5487,6 +5490,7 @@ Updated on 2025-12-01
 | 221 |  | 00quebec/iPhone_realismText-to-Image | Updated5 days ago | [Link](https://huggingface.co/00quebec/iPhone_realism) |
 | 5 |  | renderartist/Technically-Color-Z-Image-TurboText-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/renderartist/Technically-Color-Z-Image-Turbo) |
 | 41 | Unknown | NewBie-AI/NewBie-image-v0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/NewBie-AI/NewBie-image-v0.1-exp-model-repo) |
+| 260 |  | ostris/z_image_turbo_childrens_drawingsText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ostris/z_image_turbo_childrens_drawings) |
 
 ## Text-to-Speech
 
