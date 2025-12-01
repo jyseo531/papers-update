@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-11-30
+Updated on 2025-12-01
 
 > Generated from the Hugging Face database.
 
@@ -21,6 +21,7 @@ Updated on 2025-11-30
 | 121k | 381 | deepseek-ai/Janus-Pro-1BAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-1B) |
 | Updatedabout 10 hours ago | 316 | wcy1122/MGM-Omni-TTS-2B-0927Any-to-Any | 2B | [Link](https://huggingface.co/wcy1122/MGM-Omni-TTS-2B-0927) |
 | Updatedabout 3 hours ago | 306 | BAAI/Emu3 | 34B | [Link](https://huggingface.co/BAAI/Emu3.5) |
+| UpdatedJul 18, 2024 | 271 | MiaoshouAI/Florence-2-base-PromptGenAny-to-Any | 0.3B | [Link](https://huggingface.co/MiaoshouAI/Florence-2-base-PromptGen) |
 | 488 | 260 | gpt-omni/mini-omni2Any-to-Any | UpdatedOct 24, 2024 | [Link](https://huggingface.co/gpt-omni/mini-omni2) |
 | Updated7 days ago | 259 | cpatonn/Qwen3-Omni-30B-A3B-Captioner-AWQ-4bitAny-to-Any | 6B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Captioner-AWQ-4bit) |
 | Updated1 day ago | 254 | NexaAI/Qwen2 | 3B | [Link](https://huggingface.co/NexaAI/Qwen2.5-Omni-3B-GGUF) |
@@ -1755,6 +1756,7 @@ Updated on 2025-11-30
 | Updated8 days ago | 908 | OpenGVLab/ScaleCUA-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/OpenGVLab/ScaleCUA-7B) |
 | Updated1 day ago | 908 | ZJU-AI4H/Hulu-Med-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/ZJU-AI4H/Hulu-Med-7B) |
 | Updated1 day ago | 906 | OpenGVLab/InternVL3_5-1BImage-Text-to-Text | 1B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-1B) |
+| Updated1 day ago | 872 | prithivMLmods/Qwen3-VisionCaption-2B-GGUFImage-Text-to-Text | 2B | [Link](https://huggingface.co/prithivMLmods/Qwen3-VisionCaption-2B-GGUF) |
 | 57.2k | 851 | mistralai/Mistral-Small-3 | Updatedabout 11 hours ago | [Link](https://huggingface.co/mistralai/Mistral-Small-3.1-24B-Instruct-2503) |
 | Updatedabout 4 hours ago | 829 | lmms-lab/LLaVA-OneVision-1 | 9B | [Link](https://huggingface.co/lmms-lab/LLaVA-OneVision-1.5-8B-Instruct) |
 | Updated3 days ago | 759 | Qwen/Qwen3-VL-2B-Instruct-FP8Image-Text-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct-FP8) |
@@ -1767,6 +1769,7 @@ Updated on 2025-11-30
 | 1.67M | 546 | Qwen/Qwen2 | Updated10 days ago | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct) |
 | Updatedabout 8 hours ago | 544 | sensenova/SenseNova-SI-1 | 8B | [Link](https://huggingface.co/sensenova/SenseNova-SI-1.1-InternVL3-8B) |
 | Updated2 days ago | 531 | OpenGVLab/InternVL3_5-2BImage-Text-to-Text | 2B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-2B) |
+| Updated18 days ago | 503 | prithivMLmods/Qwen3-VL-8B-Instruct-abliterated-v2Image-Text-to-Text | 9B | [Link](https://huggingface.co/prithivMLmods/Qwen3-VL-8B-Instruct-abliterated-v2) |
 | Updated3 days ago | 490 | Kwai-Keye/Keye-VL-1_5-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/Kwai-Keye/Keye-VL-1_5-8B) |
 | Updated3 days ago | 468 | QuantTrio/GLM-4 | 17B | [Link](https://huggingface.co/QuantTrio/GLM-4.5V-AWQ) |
 | Updatedabout 10 hours ago | 454 | Qwen/Qwen3-VL-32B-Instruct-FP8Image-Text-to-Text | 33B | [Link](https://huggingface.co/Qwen/Qwen3-VL-32B-Instruct-FP8) |
