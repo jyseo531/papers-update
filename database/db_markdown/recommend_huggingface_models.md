@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-12-01
+Updated on 2025-12-02
 
 > Generated from the Hugging Face database.
 
@@ -88,6 +88,7 @@ Updated on 2025-12-01
 | 6 | 6 | ThinkMorph/ThinkMorph-7BAny-to-Any | Updatedabout 10 hours ago | [Link](https://huggingface.co/ThinkMorph/ThinkMorph-7B) |
 | UpdatedJun 15 | 6.82k | unsloth/gemma-3-4b-it-qat-GGUFAny-to-Any | 4B | [Link](https://huggingface.co/unsloth/gemma-3-4b-it-qat-GGUF) |
 | UpdatedMay 12 | 6.52k | unsloth/gemma-3-4b-it-bnb-4bitAny-to-Any | 3B | [Link](https://huggingface.co/unsloth/gemma-3-4b-it-bnb-4bit) |
+| Updated2 days ago | 6 | sensenova/InteractiveOmni-8BAny-to-Any | 10B | [Link](https://huggingface.co/sensenova/InteractiveOmni-8B) |
 | 1.63k | 5 | PKU-Alignment/AA-chameleon-7b-plusAny-to-Any | UpdatedSep 13, 2024 | [Link](https://huggingface.co/PKU-Alignment/AA-chameleon-7b-plus) |
 | 2.67k | 5 | Junfeng5/Liquid_V1_7BAny-to-Any | Updated8 days ago | [Link](https://huggingface.co/Junfeng5/Liquid_V1_7B) |
 | UpdatedMay 9 | 5.89k | unsloth/gemma-3-27b-it-qat-GGUFAny-to-Any | 27B | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-qat-GGUF) |
@@ -2299,6 +2300,7 @@ Updated on 2025-12-01
 |  | 13 | reverentelusarca/kontext-turnaround-sheet-lora-v1Image-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/reverentelusarca/kontext-turnaround-sheet-lora-v1) |
 | 27 | 13 | Xenova/4x_APISR_GRL_GAN_generator-onnxImage-to-Image | UpdatedJul 7 | [Link](https://huggingface.co/Xenova/4x_APISR_GRL_GAN_generator-onnx) |
 | Updatedabout 1 hour ago | 12 | gguf-org/flux2-dev-ggufImage-to-Image | 18B | [Link](https://huggingface.co/gguf-org/flux2-dev-gguf) |
+|  | 12 | lovis93/Flux-2-Multi-Angles-LoRA-v2Image-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/lovis93/Flux-2-Multi-Angles-LoRA-v2) |
 | 1.03k | 11 | xiaozaa/cat-tryoff-fluxImage-to-Image | UpdatedDec 6, 2024 | [Link](https://huggingface.co/xiaozaa/cat-tryoff-flux) |
 | 1.19k | 11 | prs-eth/marigold-depth-v1-1Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-depth-v1-1) |
 | 424 | 11 | camenduru/IDM-VTON-F16Image-to-Image | UpdatedApr 23, 2024 | [Link](https://huggingface.co/camenduru/IDM-VTON-F16) |
@@ -4597,6 +4599,7 @@ Updated on 2025-12-01
 | Updatedabout 10 hours ago | 32 | swiss-ai/Apertus-8B-2509Text | 8B | [Link](https://huggingface.co/swiss-ai/Apertus-8B-2509) |
 | Updatedabout 1 hour ago | 32 | inclusionAI/Ling-flash-2 | 103B | [Link](https://huggingface.co/inclusionAI/Ling-flash-2.0) |
 | Updatedabout 14 hours ago | 32 | meituan-longcat/LongCat-Flash-OmniText | 561B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Omni) |
+| Updatedabout 5 hours ago | 32 | arcee-ai/Trinity-MiniText | 26B | [Link](https://huggingface.co/arcee-ai/Trinity-Mini) |
 | 172 | 31 | huihui-ai/QwQ-32B-abliteratedText | Updated2 days ago | [Link](https://huggingface.co/huihui-ai/QwQ-32B-abliterated) |
 | 76 | 31 | manycore-research/SpatialLM-Qwen-0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/manycore-research/SpatialLM-Qwen-0.5B) |
 | 4 | 31 | Qwen/Qwen3-Embedding-8BText | Updatedabout 10 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-Embedding-8B) |
@@ -5315,6 +5318,7 @@ Updated on 2025-12-01
 | 5.16k | 2.44k | hakurei/waifu-diffusionText-to-Image | UpdatedJul 5, 2023 | [Link](https://huggingface.co/hakurei/waifu-diffusion) |
 | Updated8 days ago | 2.03k | StableDiffusionVN/FluxText-to-Image | 5B | [Link](https://huggingface.co/StableDiffusionVN/Flux) |
 | UpdatedApr 24 | 2.38k | calcuis/illustriousText-to-Image | 3B | [Link](https://huggingface.co/calcuis/illustrious) |
+| Updated4 days ago | 2.33k | vantagewithai/Z-Image-Turbo-GGUFText-to-Image | 6B | [Link](https://huggingface.co/vantagewithai/Z-Image-Turbo-GGUF) |
 | 90.4k | 1.31k | xinsir/controlnet-union-sdxl-1 | UpdatedJul 30, 2024 | [Link](https://huggingface.co/xinsir/controlnet-union-sdxl-1.0) |
 | 387k | 1.66k | h94/IP-Adapter-FaceIDText-to-Image | UpdatedApr 16, 2024 | [Link](https://huggingface.co/h94/IP-Adapter-FaceID) |
 | Updated6 days ago | 1.58k | QuantStack/Chroma1-HD-GGUFText-to-Image | 9B | [Link](https://huggingface.co/QuantStack/Chroma1-HD-GGUF) |
