@@ -2569,6 +2569,7 @@ Updated on 2025-12-02
 | 5 | Unknown | silveroxides/FLUX | Updatedabout 14 hours ago | [Link](https://huggingface.co/silveroxides/FLUX.2-dev-fp8_scaled) |
 | 109 |  | tarn59/character_turnaround_sheet_qwen_image_edit_2509Image-to-Image | Updated6 days ago | [Link](https://huggingface.co/tarn59/character_turnaround_sheet_qwen_image_edit_2509) |
 | 116 |  | valiantcat/Qwen-Image-Edit-2509-Upscale2KImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/valiantcat/Qwen-Image-Edit-2509-Upscale2K) |
+| 3 | Unknown | nvidia/FixerImage-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/nvidia/Fixer) |
 
 ## Image-to-Text
 
@@ -2858,6 +2859,7 @@ Updated on 2025-12-02
 | 5.57k | 1 | TIGER-Lab/VLM2Vec-Qwen2VL-2BImage-to-Text | UpdatedMar 13 | [Link](https://huggingface.co/TIGER-Lab/VLM2Vec-Qwen2VL-2B) |
 | 9 | 1 | onnx-community/Dolphin-ONNXImage-to-Text | UpdatedAug 27 | [Link](https://huggingface.co/onnx-community/Dolphin-ONNX) |
 | 4.78k | 1 | rtr46/meiki | Updated19 days ago | [Link](https://huggingface.co/rtr46/meiki.text.detect.v0) |
+| 4 | 1 | SawanStack/gpt2-image-captioning-onnxImage-to-Text | UpdatedNov 13, 2023 | [Link](https://huggingface.co/SawanStack/gpt2-image-captioning-onnx) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -4376,12 +4378,14 @@ Updated on 2025-12-02
 | Updatedabout 18 hours ago | 769 | LiquidAI/LFM2-350M-MathText | 0.4B | [Link](https://huggingface.co/LiquidAI/LFM2-350M-Math) |
 | Updatedabout 2 hours ago | 722 | nvidia/NVIDIA-Nemotron-Nano-9B-v2Text | 9B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2) |
 |  | 682 | deepseek-ai/DeepSeek-V3-0324Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3-0324) |
+| Updatedabout 6 hours ago | 670 | nvidia/Orchestrator-8BText | 8B | [Link](https://huggingface.co/nvidia/Orchestrator-8B) |
 | Updated5 days ago | 663k | lmstudio-community/gpt-oss-20b-MLX-8bitText | 21B | [Link](https://huggingface.co/lmstudio-community/gpt-oss-20b-MLX-8bit) |
 | Updated5 days ago | 661 | LiquidAI/LFM2-700M-GGUFText | 0.7B | [Link](https://huggingface.co/LiquidAI/LFM2-700M-GGUF) |
 | Updated2 days ago | 628 | PrimeIntellect/INTELLECT-3-FP8Text | 107B | [Link](https://huggingface.co/PrimeIntellect/INTELLECT-3-FP8) |
 | Updated1 day ago | 608 | ArliAI/GLM-4 | 110B | [Link](https://huggingface.co/ArliAI/GLM-4.5-Air-Derestricted) |
 | Updatedabout 4 hours ago | 570 | MiniMaxAI/MiniMax-M2Text | 229B | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M2) |
 |  | 565 | deepseek-ai/DeepSeek-R1-0528Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528) |
+| Updated3 days ago | 540 | ArliAI/gpt-oss-120b-DerestrictedText | 117B | [Link](https://huggingface.co/ArliAI/gpt-oss-120b-Derestricted) |
 | 894k | 486 | deepseek-ai/DeepSeek-R1-Distill-Qwen-7BText | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B) |
 | Updatedabout 24 hours ago | 463 | PowerInfer/SmallThinker-4BA0 | 4B | [Link](https://huggingface.co/PowerInfer/SmallThinker-4BA0.6B-Instruct) |
 | Updatedabout 16 hours ago | 461 | MaziyarPanahi/VibeThinker-1 | 2B | [Link](https://huggingface.co/MaziyarPanahi/VibeThinker-1.5B-GGUF) |
@@ -4511,6 +4515,7 @@ Updated on 2025-12-02
 | 406 | 57 | LatitudeGames/Wayfarer-Large-70B-Llama-3 | Updated6 days ago | [Link](https://huggingface.co/LatitudeGames/Wayfarer-Large-70B-Llama-3.3) |
 | 46 | 57 | a-m-team/AM-Thinking-v1Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/a-m-team/AM-Thinking-v1) |
 | Updatedabout 5 hours ago | 57 | LiquidAI/LFM2-8B-A1BText | 8B | [Link](https://huggingface.co/LiquidAI/LFM2-8B-A1B) |
+| Updatedabout 16 hours ago | 57 | arcee-ai/Trinity-Nano-PreviewText | 6B | [Link](https://huggingface.co/arcee-ai/Trinity-Nano-Preview) |
 | 143 | 55 | unsloth/DeepSeek-R1-0528-GGUFText | Updatedabout 1 hour ago | [Link](https://huggingface.co/unsloth/DeepSeek-R1-0528-GGUF) |
 | 7 | 55 | Qwen/Qwen3-Embedding-0 | Updatedabout 10 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B) |
 | Updatedabout 19 hours ago | 55 | PhysicsWallahAI/Aryabhata-1 | 8B | [Link](https://huggingface.co/PhysicsWallahAI/Aryabhata-1.0) |
@@ -5774,6 +5779,7 @@ Updated on 2025-12-02
 | 4 | Unknown | Thomcles/Chatterbox-TTS-Persian-FarsiText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/Thomcles/Chatterbox-TTS-Persian-Farsi) |
 | 4 | Unknown | Thomcles/Chatterbox-TTS-CzechText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/Thomcles/Chatterbox-TTS-Czech) |
 | 3 | Unknown | Supertone/supertonicText-to-Speech | Updatedabout 1 hour ago | [Link](https://huggingface.co/Supertone/supertonic) |
+| 4 | Unknown | AIDC-AI/Marco-VoiceText-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/AIDC-AI/Marco-Voice) |
 
 ## Text-to-Video
 
