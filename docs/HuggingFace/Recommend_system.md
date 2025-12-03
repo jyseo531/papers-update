@@ -2823,6 +2823,7 @@ Updated on 2025-12-03
 | 1.06k | 2 | PaddlePaddle/arabic_PP-OCRv5_mobile_recImage-to-Text | Updated28 days ago | [Link](https://huggingface.co/PaddlePaddle/arabic_PP-OCRv5_mobile_rec) |
 | Updatedabout 20 hours ago | 2 | eagerworks/eager-embed-v1Image-to-Text | 4B | [Link](https://huggingface.co/eagerworks/eager-embed-v1) |
 | 16 | 2 | NexaAI/paddleocr-npu-mobileImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/NexaAI/paddleocr-npu-mobile) |
+| 35 | 2 | Float16-cloud/typhoon-ocr1 | Updated10 days ago | [Link](https://huggingface.co/Float16-cloud/typhoon-ocr1.5-2b-int8) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
