@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-12-02
+Updated on 2025-12-03
 
 > Generated from the Hugging Face database.
 
@@ -73,6 +73,7 @@ Updated on 2025-12-02
 | Updatedabout 1 hour ago | 14 | AIDC-AI/Ovis-U1-3BAny-to-Any | 4B | [Link](https://huggingface.co/AIDC-AI/Ovis-U1-3B) |
 | Updated2 days ago | 12 | EasonXiao-888/HaploOmniAny-to-Any | 9B | [Link](https://huggingface.co/EasonXiao-888/HaploOmni) |
 | UpdatedApr 26 | 11 | yujiepan/qwen2 | 0.0B | [Link](https://huggingface.co/yujiepan/qwen2.5-omni-tiny-random) |
+| UpdatedDec 12, 2024 | 11 | Alpha-VLLM/Lumina-mGPT-34B-512Any-to-Any | 34B | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-34B-512) |
 | 42 | 10 | sanaka87/BAGEL-RecAAny-to-Any | Updated2 days ago | [Link](https://huggingface.co/sanaka87/BAGEL-RecA) |
 | 6 | 10 | dorni/UniVerse-1-BaseAny-to-Any | Updatedabout 10 hours ago | [Link](https://huggingface.co/dorni/UniVerse-1-Base) |
 | UpdatedDec 12, 2024 | 10 | Alpha-VLLM/Lumina-mGPT-7B-768-OmniAny-to-Any | 7B | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-768-Omni) |
@@ -2570,6 +2571,7 @@ Updated on 2025-12-02
 | 109 |  | tarn59/character_turnaround_sheet_qwen_image_edit_2509Image-to-Image | Updated6 days ago | [Link](https://huggingface.co/tarn59/character_turnaround_sheet_qwen_image_edit_2509) |
 | 116 |  | valiantcat/Qwen-Image-Edit-2509-Upscale2KImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/valiantcat/Qwen-Image-Edit-2509-Upscale2K) |
 | 3 | Unknown | nvidia/FixerImage-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/nvidia/Fixer) |
+| 18 | Unknown | oumoumad/Qwen-Edit-2509-Material-transferImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/oumoumad/Qwen-Edit-2509-Material-transfer) |
 
 ## Image-to-Text
 
@@ -4824,6 +4826,8 @@ Updated on 2025-12-02
 | Updated1 day ago | 3 | LiquidAI/LFM2-350M-PII-Extract-JPText | 0.4B | [Link](https://huggingface.co/LiquidAI/LFM2-350M-PII-Extract-JP) |
 | Updated1 day ago | 3.29k | ubergarm/Kimi-K2-Thinking-GGUFText | 1T | [Link](https://huggingface.co/ubergarm/Kimi-K2-Thinking-GGUF) |
 | Updatedabout 10 hours ago | 3.72k | allenai/Olmo-3-1125-32BText | 32B | [Link](https://huggingface.co/allenai/Olmo-3-1125-32B) |
+| Updated3 days ago | 3.33k | bartowski/nvidia_Orchestrator-8B-GGUFText | 8B | [Link](https://huggingface.co/bartowski/nvidia_Orchestrator-8B-GGUF) |
+| Updated5 days ago | 3.04k | nvidia/Nemotron-Flash-3B-InstructText | 3B | [Link](https://huggingface.co/nvidia/Nemotron-Flash-3B-Instruct) |
 | Updated6 days ago | 2.04k | marcelbinz/Llama-3 | 71B | [Link](https://huggingface.co/marcelbinz/Llama-3.1-Centaur-70B) |
 | Updatedabout 2 hours ago | 2.66k | unsloth/Qwen3-235B-A22B-Instruct-2507-GGUFText | 235B | [Link](https://huggingface.co/unsloth/Qwen3-235B-A22B-Instruct-2507-GGUF) |
 | Updatedabout 10 hours ago | 2 | Qwen/Qwen3-30B-A3B-Thinking-2507Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507) |
