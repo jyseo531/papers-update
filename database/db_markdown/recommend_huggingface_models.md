@@ -205,6 +205,7 @@ Updated on 2025-12-03
 | 2 | Unknown | PIOTRsus123/BUMCYKCYKAny-to-Any | UpdatedOct 21, 2024 | [Link](https://huggingface.co/PIOTRsus123/BUMCYKCYK) |
 | 2 | Unknown | General-Medical-AI/UniMedVLAny-to-Any | Updatedabout 19 hours ago | [Link](https://huggingface.co/General-Medical-AI/UniMedVL) |
 | 5 | Unknown | MTDoven/Recurrent-Parameter-GenerationAny-to-Any | UpdatedSep 24 | [Link](https://huggingface.co/MTDoven/Recurrent-Parameter-Generation) |
+| 12 | Unknown | Yuanshi/ViBTAny-to-Any | Updatedabout 10 hours ago | [Link](https://huggingface.co/Yuanshi/ViBT) |
 
 ## Audio Classification
 
@@ -2045,6 +2046,7 @@ Updated on 2025-12-03
 | Updatedabout 1 hour ago | 8 | janhq/Jan-v2-VL-lowImage-Text-to-Text | 9B | [Link](https://huggingface.co/janhq/Jan-v2-VL-low) |
 | Updatedabout 9 hours ago | 8 | Hcompany/Holo2-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/Hcompany/Holo2-8B) |
 | Updatedabout 9 hours ago | 8 | Hcompany/Holo2-30B-A3BImage-Text-to-Text | 31B | [Link](https://huggingface.co/Hcompany/Holo2-30B-A3B) |
+| 833 | 8 | mistralai/Ministral-3-3B-Instruct-2512-ONNXImage-Text-to-Text | Updatedabout 22 hours ago | [Link](https://huggingface.co/mistralai/Ministral-3-3B-Instruct-2512-ONNX) |
 | 27 | 7 | ByteDance-Seed/SAIL-7BImage-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/ByteDance-Seed/SAIL-7B) |
 | 677 | 7 | turing-motors/Heron-NVILA-Lite-15BImage-Text-to-Text | Updated14 days ago | [Link](https://huggingface.co/turing-motors/Heron-NVILA-Lite-15B) |
 | 25 | 7 | mlabonne/gemma-3-27b-it-qat-abliteratedImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-qat-abliterated) |
@@ -5504,6 +5506,7 @@ Updated on 2025-12-03
 | 5 |  | renderartist/Technically-Color-Z-Image-TurboText-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/renderartist/Technically-Color-Z-Image-Turbo) |
 | 41 | Unknown | NewBie-AI/NewBie-image-v0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/NewBie-AI/NewBie-image-v0.1-exp-model-repo) |
 | 260 |  | ostris/z_image_turbo_childrens_drawingsText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ostris/z_image_turbo_childrens_drawings) |
+| 86 |  | CSU-JPG/GlanceText-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/CSU-JPG/Glance) |
 
 ## Text-to-Speech
 
@@ -5529,6 +5532,7 @@ Updated on 2025-12-03
 | UpdatedSep 1, 2023 | 357 | facebook/mms-tts-uig-script_arabicText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-uig-script_arabic) |
 | 5.64k | 352 | parler-tts/parler_tts_mini_v0 | UpdatedApr 30, 2024 | [Link](https://huggingface.co/parler-tts/parler_tts_mini_v0.1) |
 | Updated5 days ago | 342 | mradermacher/SoulX-Podcast-1 | 2B | [Link](https://huggingface.co/mradermacher/SoulX-Podcast-1.7B-GGUF) |
+| UpdatedAug 6 | 338 | akhbar/chatterbox-tts-norwegianText-to-Speech | 0.5B | [Link](https://huggingface.co/akhbar/chatterbox-tts-norwegian) |
 | Updatedabout 19 hours ago | 330 | kenpath/svara-tts-v1Text-to-Speech | 3B | [Link](https://huggingface.co/kenpath/svara-tts-v1) |
 | UpdatedMay 25, 2024 | 323 | utrobinmv/tts_ru_free_hf_vits_high_multispeakerText-to-Speech | 0.0B | [Link](https://huggingface.co/utrobinmv/tts_ru_free_hf_vits_high_multispeaker) |
 | Updated3 days ago | 279 | sheliak/VibeVoice-Large_MirrorText-to-Speech | 9B | [Link](https://huggingface.co/sheliak/VibeVoice-Large_Mirror) |
@@ -5999,6 +6003,7 @@ Updated on 2025-12-03
 | 181 | Unknown | tencent/HunyuanVideo-1 | Updatedabout 5 hours ago | [Link](https://huggingface.co/tencent/HunyuanVideo-1.5) |
 | 2 | Unknown | lightx2v/Hy1 | Updatedabout 1 hour ago | [Link](https://huggingface.co/lightx2v/Hy1.5-Distill-Models) |
 | 16 | Unknown | Phr00t/HunyuanVideo-1 | Updatedabout 3 hours ago | [Link](https://huggingface.co/Phr00t/HunyuanVideo-1.5-Rapid-AIO) |
+| 2 | Unknown | ramu0e/minisora-dmlabText-to-Video | Updated1 day ago | [Link](https://huggingface.co/ramu0e/minisora-dmlab) |
 
 ## Text2Text Generation
 
