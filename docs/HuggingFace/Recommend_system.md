@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-12-03
+Updated on 2025-12-04
 
 > Generated from the Hugging Face database.
 
@@ -4418,6 +4418,7 @@ Updated on 2025-12-03
 | Updatedabout 10 hours ago | 232 | inclusionAI/Ling-mini-2 | 16B | [Link](https://huggingface.co/inclusionAI/Ling-mini-2.0) |
 | Updatedabout 18 hours ago | 217 | google/gemma-3-270mText | 0.3B | [Link](https://huggingface.co/google/gemma-3-270m) |
 | 2.13k | 215 | XiaomiMiMo/MiMo-7B-RLText | Updatedabout 12 hours ago | [Link](https://huggingface.co/XiaomiMiMo/MiMo-7B-RL) |
+| Updatedabout 11 hours ago | 206 | NousResearch/Hermes-4 | 36B | [Link](https://huggingface.co/NousResearch/Hermes-4.3-36B) |
 | 427 | 204 | microsoft/MAI-DS-R1Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/microsoft/MAI-DS-R1) |
 | Updated15 days ago | 201 | SamuelBang/AesCoder-4BText | 4B | [Link](https://huggingface.co/SamuelBang/AesCoder-4B) |
 | 11.7k | 196 | smirki/UIGEN-T1-Qwen-7bText | Updated5 days ago | [Link](https://huggingface.co/smirki/UIGEN-T1-Qwen-7b) |
@@ -5337,6 +5338,7 @@ Updated on 2025-12-03
 | Updated4 days ago | 1.3k | wikeeyang/Qwen-Image-Pruning-for-ComfyUIText-to-Image | 14B | [Link](https://huggingface.co/wikeeyang/Qwen-Image-Pruning-for-ComfyUI) |
 | UpdatedSep 25 | 1.62k | wikeeyang/Real-Qwen-Image-v1 | 20B | [Link](https://huggingface.co/wikeeyang/Real-Qwen-Image-v1.0) |
 | UpdatedApr 14, 2024 | 1.81k | UnfilteredAI/NSFW-GEN-ANIMEText-to-Image | 3B | [Link](https://huggingface.co/UnfilteredAI/NSFW-GEN-ANIME) |
+| Updated1 day ago | 1.46k | leejet/Z-Image-Turbo-GGUFText-to-Image | 6B | [Link](https://huggingface.co/leejet/Z-Image-Turbo-GGUF) |
 | 1.84M |  | black-forest-labs/FLUX | UpdatedAug 16, 2024 | [Link](https://huggingface.co/black-forest-labs/FLUX.1-dev) |
 | 268k |  | stabilityai/stable-diffusion-3 | UpdatedOct 22, 2024 | [Link](https://huggingface.co/stabilityai/stable-diffusion-3.5-large) |
 | 3.52M |  | stabilityai/stable-diffusion-xl-base-1 | UpdatedOct 30, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) |
@@ -5508,6 +5510,7 @@ Updated on 2025-12-03
 | 41 | Unknown | NewBie-AI/NewBie-image-v0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/NewBie-AI/NewBie-image-v0.1-exp-model-repo) |
 | 260 |  | ostris/z_image_turbo_childrens_drawingsText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ostris/z_image_turbo_childrens_drawings) |
 | 86 |  | CSU-JPG/GlanceText-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/CSU-JPG/Glance) |
+| 7 | Unknown | filipstrand/Z-Image-Turbo-mflux-4bitText-to-Image | Updated1 day ago | [Link](https://huggingface.co/filipstrand/Z-Image-Turbo-mflux-4bit) |
 
 ## Text-to-Speech
 
@@ -6005,6 +6008,7 @@ Updated on 2025-12-03
 | 2 | Unknown | lightx2v/Hy1 | Updatedabout 1 hour ago | [Link](https://huggingface.co/lightx2v/Hy1.5-Distill-Models) |
 | 16 | Unknown | Phr00t/HunyuanVideo-1 | Updatedabout 3 hours ago | [Link](https://huggingface.co/Phr00t/HunyuanVideo-1.5-Rapid-AIO) |
 | 2 | Unknown | ramu0e/minisora-dmlabText-to-Video | Updated1 day ago | [Link](https://huggingface.co/ramu0e/minisora-dmlab) |
+| 2 | Unknown | TensorStack/Wan2 | Updated12 days ago | [Link](https://huggingface.co/TensorStack/Wan2.1-T2V-1.3B-onnx) |
 
 ## Text2Text Generation
 
