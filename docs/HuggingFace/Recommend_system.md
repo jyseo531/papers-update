@@ -2058,6 +2058,7 @@ Updated on 2025-12-04
 | Updated2 days ago | 7.9k | unsloth/Qwen3-VL-4B-Instruct-GGUFImage-Text-to-Text | 4B | [Link](https://huggingface.co/unsloth/Qwen3-VL-4B-Instruct-GGUF) |
 | Updated3 days ago | 7.61k | unsloth/Qwen3-VL-32B-Thinking-GGUFImage-Text-to-Text | 33B | [Link](https://huggingface.co/unsloth/Qwen3-VL-32B-Thinking-GGUF) |
 | Updatedabout 17 hours ago | 7 | ByteDance/Sa2VA-Qwen3-VL-2BImage-Text-to-Text | 3B | [Link](https://huggingface.co/ByteDance/Sa2VA-Qwen3-VL-2B) |
+| 18 | 7 | NexaAI/AutoNeuralImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/NexaAI/AutoNeural) |
 | 160 | 6 | MIL-UT/Asagi-14BImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/MIL-UT/Asagi-14B) |
 | Updatedabout 8 hours ago | 6.26k | Qwen/Qwen3-VL-30B-A3B-ThinkingImage-Text-to-Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Thinking) |
 | Updatedabout 14 hours ago | 6 | Qwen/Qwen3-VL-8B-InstructImage-Text-to-Text | 9B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct) |
@@ -2136,6 +2137,7 @@ Updated on 2025-12-04
 | 9 | Unknown | MizzenAI/HPSv3Image-Text-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/MizzenAI/HPSv3) |
 | 25 | Unknown | inclusionAI/Ming-Lite-UniImage-Text-to-Text | UpdatedMay 14 | [Link](https://huggingface.co/inclusionAI/Ming-Lite-Uni) |
 | 25 | Unknown | PaddlePaddle/PaddleOCR-VLImage-Text-to-Text | Updated21 minutes ago | [Link](https://huggingface.co/PaddlePaddle/PaddleOCR-VL) |
+| 9 | Unknown | Skywork/R1V4Image-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/Skywork/R1V4) |
 
 ## Image-to-3D
 
@@ -4407,6 +4409,7 @@ Updated on 2025-12-04
 | Updated3 days ago | 321 | Jinx-org/Jinx-gpt-oss-20bText | 21B | [Link](https://huggingface.co/Jinx-org/Jinx-gpt-oss-20b) |
 |  | 295 | deepseek-ai/DeepSeek-R1-0528-Qwen3-8BText | Updatedabout 13 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B) |
 | Updatedabout 4 hours ago | 293 | Qwen/Qwen3Guard-Gen-0 | 0.8B | [Link](https://huggingface.co/Qwen/Qwen3Guard-Gen-0.6B) |
+| Updated8 days ago | 283 | perplexity-ai/browsesafeText | 31B | [Link](https://huggingface.co/perplexity-ai/browsesafe) |
 | 6.51k | 262 | NousResearch/DeepHermes-3-Llama-3-8B-PreviewText | Updated6 days ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview) |
 | Updatedabout 2 hours ago | 255 | agentica-org/DeepSWE-PreviewText | 33B | [Link](https://huggingface.co/agentica-org/DeepSWE-Preview) |
 | 117 | 248 | moonshotai/Kimi-K2-ThinkingText | Updatedabout 10 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-K2-Thinking) |
@@ -5275,6 +5278,7 @@ Updated on 2025-12-04
 | 169 | 9 | briaai/BRIA-3 | Updatedabout 16 hours ago | [Link](https://huggingface.co/briaai/BRIA-3.2) |
 | 54 | 9 | gokaygokay/Flux-Krea-Realism-LoRAText-to-Image | Updatedabout 14 hours ago | [Link](https://huggingface.co/gokaygokay/Flux-Krea-Realism-LoRA) |
 |  | 9 | Instara/1girl-qwen-imageText-to-Image | Updated3 days ago | [Link](https://huggingface.co/Instara/1girl-qwen-image) |
+| 29 | 9 | SeeSee21/Z-Image-Turbo-AIOText-to-Image | Updated40 minutes ago | [Link](https://huggingface.co/SeeSee21/Z-Image-Turbo-AIO) |
 | 215 | 8 | tensorart/stable-diffusion-3 | Updated8 minutes ago | [Link](https://huggingface.co/tensorart/stable-diffusion-3.5-large-TurboX) |
 | 34 | 8 | renderartist/coloringbookhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/coloringbookhidream) |
 | 1.79k | 8 | MaxedOut/ComfyUI-Starter-PacksText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/MaxedOut/ComfyUI-Starter-Packs) |
@@ -5608,6 +5612,7 @@ Updated on 2025-12-04
 | 26 | 19 | fishaudio/openaudio-s1-miniText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/fishaudio/openaudio-s1-mini) |
 | 2.35k | 18 | 2121-8/japanese-parler-tts-miniText-to-Speech | UpdatedDec 5, 2024 | [Link](https://huggingface.co/2121-8/japanese-parler-tts-mini) |
 | Updated2 days ago | 18 | NandemoGHS/Anime-Llasa-3BText-to-Speech | 3B | [Link](https://huggingface.co/NandemoGHS/Anime-Llasa-3B) |
+| Updatedabout 2 hours ago | 17 | microsoft/VibeVoice-Realtime-0 | 1B | [Link](https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B) |
 | 77 | 16 | Mofa-Xingche/girl-style-bert-vits2-JPExtra-modelsText-to-Speech | UpdatedMay 31, 2024 | [Link](https://huggingface.co/Mofa-Xingche/girl-style-bert-vits2-JPExtra-models) |
 | 179 | 16 | esnya/japanese_speecht5_ttsText-to-Speech | UpdatedAug 9, 2023 | [Link](https://huggingface.co/esnya/japanese_speecht5_tts) |
 | 147 | 15 | dangvansam/viet-ttsText-to-Speech | UpdatedDec 11, 2024 | [Link](https://huggingface.co/dangvansam/viet-tts) |
