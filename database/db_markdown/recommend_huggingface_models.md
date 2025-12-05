@@ -2621,6 +2621,7 @@ Updated on 2025-12-05
 | Updated5 days ago | 110 | Svngoku/Qwen3-VL-TimeTravelImage-to-Text | 9B | [Link](https://huggingface.co/Svngoku/Qwen3-VL-TimeTravel) |
 | Updatedabout 20 hours ago | 110 | scb10x/typhoon-ocr1 | 2B | [Link](https://huggingface.co/scb10x/typhoon-ocr1.5-2b) |
 | Updatedabout 19 hours ago | 96 | davanstrien/iconclass-vlmImage-to-Text | 4B | [Link](https://huggingface.co/davanstrien/iconclass-vlm) |
+| UpdatedOct 5, 2024 | 82 | syubraj/TrOCR_NepaliImage-to-Text | 0.2B | [Link](https://huggingface.co/syubraj/TrOCR_Nepali) |
 | UpdatedNov 29, 2024 | 81 | fancyfeast/llama-joycaption-alpha-two-vqa-test-1Image-to-Text | 8B | [Link](https://huggingface.co/fancyfeast/llama-joycaption-alpha-two-vqa-test-1) |
 | UpdatedMar 3 | 79 | mlx-community/olmOCR-7B-0225-preview-bf16Image-to-Text | 8B | [Link](https://huggingface.co/mlx-community/olmOCR-7B-0225-preview-bf16) |
 | Updated3 days ago | 78 | Rainnighttram/GLM-4 | 10B | [Link](https://huggingface.co/Rainnighttram/GLM-4.1V-9B-Thinking-bnb-4bit) |
@@ -5802,6 +5803,8 @@ Updated on 2025-12-05
 | 4 | Unknown | Thomcles/Chatterbox-TTS-CzechText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/Thomcles/Chatterbox-TTS-Czech) |
 | 3 | Unknown | Supertone/supertonicText-to-Speech | Updatedabout 1 hour ago | [Link](https://huggingface.co/Supertone/supertonic) |
 | 4 | Unknown | AIDC-AI/Marco-VoiceText-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/AIDC-AI/Marco-Voice) |
+| 5 | Unknown | openbmb/VoxCPM1 | Updatedabout 3 hours ago | [Link](https://huggingface.co/openbmb/VoxCPM1.5) |
+| 3 | Unknown | dolly-vn/viterboxText-to-Speech | Updated14 minutes ago | [Link](https://huggingface.co/dolly-vn/viterbox) |
 
 ## Text-to-Video
 
