@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-12-04
+Updated on 2025-12-05
 
 > Generated from the Hugging Face database.
 
@@ -55,6 +55,7 @@ Updated on 2025-12-04
 | Updated14 days ago | 37 | sensefvg/InteractiveOmni-8BAny-to-Any | 10B | [Link](https://huggingface.co/sensefvg/InteractiveOmni-8B) |
 | Updated6 days ago | 36 | CalmState/gemma-3-4b-polyglot-v1Any-to-Any | 4B | [Link](https://huggingface.co/CalmState/gemma-3-4b-polyglot-v1) |
 | 94 | 34 | EPFL-VILAB/4M-21_XLAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-21_XL) |
+| Updated1 day ago | 31 | sensenova/InteractiveOmni-4BAny-to-Any | 6B | [Link](https://huggingface.co/sensenova/InteractiveOmni-4B) |
 | Updated14 days ago | 29 | multimodal-reasoning-lab/Anole-Zebra-CoTAny-to-Any | 7B | [Link](https://huggingface.co/multimodal-reasoning-lab/Anole-Zebra-CoT) |
 | Updated4 days ago | 29 | PaDT-MLLM/PaDT_Pro_7BAny-to-Any | 8B | [Link](https://huggingface.co/PaDT-MLLM/PaDT_Pro_7B) |
 | UpdatedJun 17 | 26.1k | unsloth/Llama-4-Scout-17B-16E-Instruct-GGUFAny-to-Any | 108B | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct-GGUF) |
@@ -1764,6 +1765,7 @@ Updated on 2025-12-04
 | 57.2k | 851 | mistralai/Mistral-Small-3 | Updatedabout 11 hours ago | [Link](https://huggingface.co/mistralai/Mistral-Small-3.1-24B-Instruct-2503) |
 | Updatedabout 4 hours ago | 829 | lmms-lab/LLaVA-OneVision-1 | 9B | [Link](https://huggingface.co/lmms-lab/LLaVA-OneVision-1.5-8B-Instruct) |
 | Updated3 days ago | 759 | Qwen/Qwen3-VL-2B-Instruct-FP8Image-Text-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct-FP8) |
+| Updatedabout 7 hours ago | 757 | jinaai/jina-vlmImage-Text-to-Text | 2B | [Link](https://huggingface.co/jinaai/jina-vlm) |
 | Updated14 days ago | 681 | ByteDance/Dolphin-1 | 0.4B | [Link](https://huggingface.co/ByteDance/Dolphin-1.5) |
 | Updatedabout 5 hours ago | 626 | tencent/HunyuanOCRImage-Text-to-Text | 1.0B | [Link](https://huggingface.co/tencent/HunyuanOCR) |
 | Updated3 days ago | 618 | p-e-w/gemma-3-12b-it-hereticImage-Text-to-Text | 12B | [Link](https://huggingface.co/p-e-w/gemma-3-12b-it-heretic) |
@@ -4846,6 +4848,7 @@ Updated on 2025-12-04
 | Updatedabout 3 hours ago | 2 | ai-sage/GigaChat3-10B-A1 | 11B | [Link](https://huggingface.co/ai-sage/GigaChat3-10B-A1.8B) |
 | Updatedabout 6 hours ago | 2.63k | allenai/Olmo-3-7B-ThinkText | 528k | [Link](https://huggingface.co/allenai/Olmo-3-7B-Think) |
 | Updatedabout 7 hours ago | 2.43k | allenai/Olmo-3-1025-7BText | 7B | [Link](https://huggingface.co/allenai/Olmo-3-1025-7B) |
+| Updated3 days ago | 2.09k | nvidia/Nemotron-Orchestrator-8BText | 8B | [Link](https://huggingface.co/nvidia/Nemotron-Orchestrator-8B) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
 | Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
@@ -5515,6 +5518,8 @@ Updated on 2025-12-04
 | 260 |  | ostris/z_image_turbo_childrens_drawingsText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ostris/z_image_turbo_childrens_drawings) |
 | 86 |  | CSU-JPG/GlanceText-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/CSU-JPG/Glance) |
 | 7 | Unknown | filipstrand/Z-Image-Turbo-mflux-4bitText-to-Image | Updated1 day ago | [Link](https://huggingface.co/filipstrand/Z-Image-Turbo-mflux-4bit) |
+| 41 | Unknown | ostris/Z-Image-De-TurboText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/ostris/Z-Image-De-Turbo) |
+| 638 |  | wcde/Z-Image-Turbo-DeJPEG-LoraText-to-Image | Updated2 days ago | [Link](https://huggingface.co/wcde/Z-Image-Turbo-DeJPEG-Lora) |
 
 ## Text-to-Speech
 
