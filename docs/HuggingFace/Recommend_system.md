@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-12-05
+Updated on 2025-12-06
 
 > Generated from the Hugging Face database.
 
@@ -37,6 +37,7 @@ Updated on 2025-12-05
 | UpdatedApr 8 | 144 | summykai/gemma3-27b-abliterated-dpoAny-to-Any | 27B | [Link](https://huggingface.co/summykai/gemma3-27b-abliterated-dpo) |
 | 9.96k | 141 | deepseek-ai/JanusFlow-1 | Updated29 days ago | [Link](https://huggingface.co/deepseek-ai/JanusFlow-1.3B) |
 | 4.22k | 97 | inclusionAI/Ming-Lite-OmniAny-to-Any | Updatedabout 3 hours ago | [Link](https://huggingface.co/inclusionAI/Ming-Lite-Omni) |
+| UpdatedMay 22 | 88.7k | meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8Any-to-Any | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8) |
 | 36.8k | 83 | openbmb/MiniCPM-o-2_6-ggufAny-to-Any | UpdatedJan 17 | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6-gguf) |
 | Updated5 days ago | 76 | DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-ExtremeAny-to-Any | 4B | [Link](https://huggingface.co/DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-Extreme) |
 | UpdatedAug 20 | 64 | Frane92O/Qwen2 | 8B | [Link](https://huggingface.co/Frane92O/Qwen2.5-Omni-7B-Q4_0-GGUF) |
@@ -2276,6 +2277,7 @@ Updated on 2025-12-05
 | 1.31k | 41 | xiaozaa/catvton-flux-alphaImage-to-Image | UpdatedNov 26, 2024 | [Link](https://huggingface.co/xiaozaa/catvton-flux-alpha) |
 | 50 | 37 | yichengup/flux | Updatedabout 11 hours ago | [Link](https://huggingface.co/yichengup/flux.1-fill-dev-OneReward) |
 | 102 | 34 | keras-io/lowlight-enhance-mirnetImage-to-Image | UpdatedJul 5, 2024 | [Link](https://huggingface.co/keras-io/lowlight-enhance-mirnet) |
+|  | 34 | meituan-longcat/LongCat-Image-EditImage-to-Image | Updatedabout 13 hours ago | [Link](https://huggingface.co/meituan-longcat/LongCat-Image-Edit) |
 | 8.66k | 33 | caidas/swin2SR-classical-sr-x2-64Image-to-Image | UpdatedMar 27, 2024 | [Link](https://huggingface.co/caidas/swin2SR-classical-sr-x2-64) |
 | 2.24k | 33 | drbaph/Qwen-Image-Edit-Mannequin-Clipper-LoRAImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/drbaph/Qwen-Image-Edit-Mannequin-Clipper-LoRA) |
 | 7.79k | 31 | lllyasviel/control_v11p_sd15s2_lineart_animeImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15s2_lineart_anime) |
@@ -2621,6 +2623,7 @@ Updated on 2025-12-05
 | Updated5 days ago | 110 | Svngoku/Qwen3-VL-TimeTravelImage-to-Text | 9B | [Link](https://huggingface.co/Svngoku/Qwen3-VL-TimeTravel) |
 | Updatedabout 20 hours ago | 110 | scb10x/typhoon-ocr1 | 2B | [Link](https://huggingface.co/scb10x/typhoon-ocr1.5-2b) |
 | Updatedabout 19 hours ago | 96 | davanstrien/iconclass-vlmImage-to-Text | 4B | [Link](https://huggingface.co/davanstrien/iconclass-vlm) |
+| Updated3 days ago | 87 | shkb/MemeLeakImage-to-Text | 9B | [Link](https://huggingface.co/shkb/MemeLeak) |
 | UpdatedOct 5, 2024 | 82 | syubraj/TrOCR_NepaliImage-to-Text | 0.2B | [Link](https://huggingface.co/syubraj/TrOCR_Nepali) |
 | UpdatedNov 29, 2024 | 81 | fancyfeast/llama-joycaption-alpha-two-vqa-test-1Image-to-Text | 8B | [Link](https://huggingface.co/fancyfeast/llama-joycaption-alpha-two-vqa-test-1) |
 | UpdatedMar 3 | 79 | mlx-community/olmOCR-7B-0225-preview-bf16Image-to-Text | 8B | [Link](https://huggingface.co/mlx-community/olmOCR-7B-0225-preview-bf16) |
@@ -5221,6 +5224,7 @@ Updated on 2025-12-05
 | 9.8k | 66 | cyberdelia/CyberRealisticText-to-Image | Updated12 days ago | [Link](https://huggingface.co/cyberdelia/CyberRealistic) |
 | 15.9k | 65 | neta-art/Neta-LuminaText-to-Image | Updated7 minutes ago | [Link](https://huggingface.co/neta-art/Neta-Lumina) |
 | 3.27M | 64 | stable-diffusion-v1-5/stable-diffusion-inpaintingText-to-Image | UpdatedSep 6, 2024 | [Link](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-inpainting) |
+|  | 61 | meituan-longcat/LongCat-ImageText-to-Image | Updatedabout 13 hours ago | [Link](https://huggingface.co/meituan-longcat/LongCat-Image) |
 | 8.42k | 59 | cyberdelia/CyberRealisticPonyText-to-Image | Updated3 days ago | [Link](https://huggingface.co/cyberdelia/CyberRealisticPony) |
 | 328 | 54 | briaai/FIBOText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/briaai/FIBO) |
 | 36 | 51 | THUDM/CogView4-6BText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/THUDM/CogView4-6B) |
@@ -5521,6 +5525,7 @@ Updated on 2025-12-05
 | 7 | Unknown | filipstrand/Z-Image-Turbo-mflux-4bitText-to-Image | Updated1 day ago | [Link](https://huggingface.co/filipstrand/Z-Image-Turbo-mflux-4bit) |
 | 41 | Unknown | ostris/Z-Image-De-TurboText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/ostris/Z-Image-De-Turbo) |
 | 638 |  | wcde/Z-Image-Turbo-DeJPEG-LoraText-to-Image | Updated2 days ago | [Link](https://huggingface.co/wcde/Z-Image-Turbo-DeJPEG-Lora) |
+| 16 | Unknown | meituan-longcat/LongCat-Image-DevText-to-Image | Updatedabout 13 hours ago | [Link](https://huggingface.co/meituan-longcat/LongCat-Image-Dev) |
 
 ## Text-to-Speech
 
@@ -5805,6 +5810,7 @@ Updated on 2025-12-05
 | 4 | Unknown | AIDC-AI/Marco-VoiceText-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/AIDC-AI/Marco-Voice) |
 | 5 | Unknown | openbmb/VoxCPM1 | Updatedabout 3 hours ago | [Link](https://huggingface.co/openbmb/VoxCPM1.5) |
 | 3 | Unknown | dolly-vn/viterboxText-to-Speech | Updated14 minutes ago | [Link](https://huggingface.co/dolly-vn/viterbox) |
+| 4 | Unknown | jordand/echo-tts-baseText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/jordand/echo-tts-base) |
 
 ## Text-to-Video
 
