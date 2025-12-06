@@ -2657,6 +2657,7 @@ Updated on 2025-12-06
 | UpdatedJul 8, 2024 | 32 | medieval-data/trocr-medieval-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/medieval-data/trocr-medieval-base) |
 | 637 | 31 | U4R/StructTable-InternVL2-1BImage-to-Text | UpdatedDec 12, 2024 | [Link](https://huggingface.co/U4R/StructTable-InternVL2-1B) |
 | 9.9k | 31 | OleehyO/TexTellerImage-to-Text | UpdatedJun 22, 2024 | [Link](https://huggingface.co/OleehyO/TexTeller) |
+| UpdatedMay 25 | 30 | infly/INF-AZ-7B-0524Image-to-Text | 8B | [Link](https://huggingface.co/infly/INF-AZ-7B-0524) |
 | 1.65k | 29 | microsoft/git-large-textcapsImage-to-Text | UpdatedFeb 8, 2023 | [Link](https://huggingface.co/microsoft/git-large-textcaps) |
 | Updated6 days ago | 28 | daniel3303/QwenStoryteller2Image-to-Text | 8B | [Link](https://huggingface.co/daniel3303/QwenStoryteller2) |
 | UpdatedOct 18 | 28 | ardaocak/llava-1 | 7B | [Link](https://huggingface.co/ardaocak/llava-1.5-7b-food-calorie-estimator) |
@@ -4416,6 +4417,7 @@ Updated on 2025-12-06
 |  | 295 | deepseek-ai/DeepSeek-R1-0528-Qwen3-8BText | Updatedabout 13 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B) |
 | Updatedabout 4 hours ago | 293 | Qwen/Qwen3Guard-Gen-0 | 0.8B | [Link](https://huggingface.co/Qwen/Qwen3Guard-Gen-0.6B) |
 | Updated8 days ago | 283 | perplexity-ai/browsesafeText | 31B | [Link](https://huggingface.co/perplexity-ai/browsesafe) |
+| Updated5 days ago | 264 | arcee-ai/Trinity-Nano-BaseText | 6B | [Link](https://huggingface.co/arcee-ai/Trinity-Nano-Base) |
 | 6.51k | 262 | NousResearch/DeepHermes-3-Llama-3-8B-PreviewText | Updated6 days ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview) |
 | Updatedabout 2 hours ago | 255 | agentica-org/DeepSWE-PreviewText | 33B | [Link](https://huggingface.co/agentica-org/DeepSWE-Preview) |
 | 117 | 248 | moonshotai/Kimi-K2-ThinkingText | Updatedabout 10 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-K2-Thinking) |
