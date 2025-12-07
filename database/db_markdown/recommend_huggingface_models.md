@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-12-06
+Updated on 2025-12-07
 
 > Generated from the Hugging Face database.
 
@@ -50,6 +50,7 @@ Updated on 2025-12-06
 | 32.5k | 44 | onnx-community/Janus-Pro-1B-ONNXAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/onnx-community/Janus-Pro-1B-ONNX) |
 | UpdatedAug 14 | 43.6k | unsloth/gemma-3-27b-it-GGUFAny-to-Any | 27B | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-GGUF) |
 | 1 | 42 | lehduong/OneDiffusionAny-to-Any | UpdatedJul 24 | [Link](https://huggingface.co/lehduong/OneDiffusion) |
+| Updatedabout 19 hours ago | 40 | OneThink/OneThinker-8BAny-to-Any | 9B | [Link](https://huggingface.co/OneThink/OneThinker-8B) |
 | Updatedabout 6 hours ago | 39 | inclusionAI/MingTok-VisionAny-to-Any | 0.7B | [Link](https://huggingface.co/inclusionAI/MingTok-Vision) |
 | 16.8k | 38 | openbmb/MiniCPM-o-2_6-int4Any-to-Any | UpdatedJan 22 | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6-int4) |
 | Updatedabout 6 hours ago | 37 | inclusionAI/Ming-UniVision-16B-A3BAny-to-Any | 19B | [Link](https://huggingface.co/inclusionAI/Ming-UniVision-16B-A3B) |
@@ -2932,6 +2933,7 @@ Updated on 2025-12-06
 | 3 | Unknown | pitapo/suryaImage-to-Text | UpdatedAug 3 | [Link](https://huggingface.co/pitapo/surya) |
 | 4 | Unknown | nvidia/nemoretriever-ocr-v1Image-to-Text | Updatedabout 22 hours ago | [Link](https://huggingface.co/nvidia/nemoretriever-ocr-v1) |
 | 15 | Unknown | bidiptas/PG-InstructBLIPImage-to-Text | UpdatedJan 22, 2024 | [Link](https://huggingface.co/bidiptas/PG-InstructBLIP) |
+| 12 | Unknown | deepghs/paddleocrImage-to-Text | Updated20 days ago | [Link](https://huggingface.co/deepghs/paddleocr) |
 
 ## Image-to-Video
 
@@ -5528,6 +5530,7 @@ Updated on 2025-12-06
 | 41 | Unknown | ostris/Z-Image-De-TurboText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/ostris/Z-Image-De-Turbo) |
 | 638 |  | wcde/Z-Image-Turbo-DeJPEG-LoraText-to-Image | Updated2 days ago | [Link](https://huggingface.co/wcde/Z-Image-Turbo-DeJPEG-Lora) |
 | 16 | Unknown | meituan-longcat/LongCat-Image-DevText-to-Image | Updatedabout 13 hours ago | [Link](https://huggingface.co/meituan-longcat/LongCat-Image-Dev) |
+| 10 | Unknown | aquif-ai/aquif-Image-14BText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/aquif-ai/aquif-Image-14B) |
 
 ## Text-to-Speech
 
