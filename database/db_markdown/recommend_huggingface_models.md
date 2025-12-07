@@ -5535,6 +5535,7 @@ Updated on 2025-12-07
 | 638 |  | wcde/Z-Image-Turbo-DeJPEG-LoraText-to-Image | Updated2 days ago | [Link](https://huggingface.co/wcde/Z-Image-Turbo-DeJPEG-Lora) |
 | 16 | Unknown | meituan-longcat/LongCat-Image-DevText-to-Image | Updatedabout 13 hours ago | [Link](https://huggingface.co/meituan-longcat/LongCat-Image-Dev) |
 | 10 | Unknown | aquif-ai/aquif-Image-14BText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/aquif-ai/aquif-Image-14B) |
+| 279 |  | AIImageStudio/ReversalFilmGravure_z_Image_turboText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AIImageStudio/ReversalFilmGravure_z_Image_turbo) |
 
 ## Text-to-Speech
 
