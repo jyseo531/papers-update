@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-12-07
+Updated on 2025-12-08
 
 > Generated from the Hugging Face database.
 
@@ -2299,6 +2299,7 @@ Updated on 2025-12-07
 | 365 | 19 | valiantcat/Qwen-Image-Edit-MeiTuImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/valiantcat/Qwen-Image-Edit-MeiTu) |
 | 10 | 18 | InstantX/Qwen-Image-ControlNet-UnionImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/InstantX/Qwen-Image-ControlNet-Union) |
 | 743 | 18 | dx8152/Qwen-Image-Edit-2509-White_film_to_renderingImage-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/dx8152/Qwen-Image-Edit-2509-White_film_to_rendering) |
+|  | 18 | dx8152/Qwen-Edit-2509-Light-igrationImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/dx8152/Qwen-Edit-2509-Light-igration) |
 | 10.1k | 17 | Stable-X/yoso-delight-v0-4-baseImage-to-Image | UpdatedSep 26, 2024 | [Link](https://huggingface.co/Stable-X/yoso-delight-v0-4-base) |
 | 29 | 17 | RedRocket/furception_vaeImage-to-Image | UpdatedJan 17, 2024 | [Link](https://huggingface.co/RedRocket/furception_vae) |
 | 4.17k | 17 | ohayonguy/PMRF_blind_face_image_restorationImage-to-Image | UpdatedOct 3, 2024 | [Link](https://huggingface.co/ohayonguy/PMRF_blind_face_image_restoration) |
@@ -2582,6 +2583,7 @@ Updated on 2025-12-07
 | 116 |  | valiantcat/Qwen-Image-Edit-2509-Upscale2KImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/valiantcat/Qwen-Image-Edit-2509-Upscale2K) |
 | 3 | Unknown | nvidia/FixerImage-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/nvidia/Fixer) |
 | 18 | Unknown | oumoumad/Qwen-Edit-2509-Material-transferImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/oumoumad/Qwen-Edit-2509-Material-transfer) |
+| 8 | Unknown | huawei-bayerlab/windowseat-reflection-removal-v1-0Image-to-Image | Updated2 days ago | [Link](https://huggingface.co/huawei-bayerlab/windowseat-reflection-removal-v1-0) |
 
 ## Image-to-Text
 
@@ -2836,6 +2838,7 @@ Updated on 2025-12-07
 | Updatedabout 20 hours ago | 2 | eagerworks/eager-embed-v1Image-to-Text | 4B | [Link](https://huggingface.co/eagerworks/eager-embed-v1) |
 | 16 | 2 | NexaAI/paddleocr-npu-mobileImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/NexaAI/paddleocr-npu-mobile) |
 | 35 | 2 | Float16-cloud/typhoon-ocr1 | Updated10 days ago | [Link](https://huggingface.co/Float16-cloud/typhoon-ocr1.5-2b-int8) |
+| Updatedabout 9 hours ago | 2 | prithivMLmods/LightOnOCR-1B-1025-AIO-GGUFImage-to-Text | 0.8B | [Link](https://huggingface.co/prithivMLmods/LightOnOCR-1B-1025-AIO-GGUF) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -4459,6 +4462,7 @@ Updated on 2025-12-07
 | Updatedabout 4 hours ago | 138 | AvitoTech/avibeText | 8B | [Link](https://huggingface.co/AvitoTech/avibe) |
 | Updatedabout 6 hours ago | 136 | naver-hyperclovax/HyperCLOVAX-SEED-Think-14BText | 15B | [Link](https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Think-14B) |
 | 324 | 133 | moonshotai/Kimi-Dev-72BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-Dev-72B) |
+| Updated6 days ago | 128 | arcee-ai/Trinity-Mini-BaseText | 26B | [Link](https://huggingface.co/arcee-ai/Trinity-Mini-Base) |
 | Updatedabout 18 hours ago | 125 | NousResearch/Hermes-4-405BText | 406B | [Link](https://huggingface.co/NousResearch/Hermes-4-405B) |
 | Updated3 days ago | 125 | janhq/Jan-v1-edgeText | 2B | [Link](https://huggingface.co/janhq/Jan-v1-edge) |
 | Updated3 days ago | 121 | nvidia/OpenReasoning-Nemotron-14BText | 15B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-14B) |
@@ -5601,6 +5605,7 @@ Updated on 2025-12-07
 | Updatedabout 2 hours ago | 67 | stepfun-ai/Step-Audio-EditXText-to-Speech | 4B | [Link](https://huggingface.co/stepfun-ai/Step-Audio-EditX) |
 | 2.93k | 65 | capleaf/viXTTSText-to-Speech | UpdatedApr 7, 2024 | [Link](https://huggingface.co/capleaf/viXTTS) |
 | 2.99k | 63 | HKUSTAudio/Llasa-8BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-8B) |
+| 1.54k | 62 | facebook/hf-seamless-m4t-largeText-to-Speech | UpdatedDec 8, 2023 | [Link](https://huggingface.co/facebook/hf-seamless-m4t-large) |
 | Updatedabout 7 hours ago | 61 | maya-research/maya1Text-to-Speech | 3B | [Link](https://huggingface.co/maya-research/maya1) |
 | Updatedabout 13 hours ago | 58 | NandemoGHS/Anime-Llasa-3B-CaptionsText-to-Speech | 3B | [Link](https://huggingface.co/NandemoGHS/Anime-Llasa-3B-Captions) |
 | UpdatedMar 14 | 58 | saheedniyi/YarnGPT-localText-to-Speech | 0.4B | [Link](https://huggingface.co/saheedniyi/YarnGPT-local) |
