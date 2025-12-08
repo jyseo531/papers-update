@@ -70,6 +70,7 @@ Updated on 2025-12-08
 | UpdatedMay 12 | 20.6k | unsloth/gemma-3-27b-itAny-to-Any | 27B | [Link](https://huggingface.co/unsloth/gemma-3-27b-it) |
 | 142 | 19 | mit-han-lab/vila-u-7b-256Any-to-Any | UpdatedOct 29, 2024 | [Link](https://huggingface.co/mit-han-lab/vila-u-7b-256) |
 | Updatedabout 11 hours ago | 19 | Qwen/Qwen3-Omni-30B-A3B-InstructAny-to-Any | 35B | [Link](https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Instruct) |
+| UpdatedApr 27 | 19 | Tokymin/SmolVLM2-2 | 2B | [Link](https://huggingface.co/Tokymin/SmolVLM2-2.2B-Instruct-video-feedback) |
 | 621 | 16 | EPFL-VILAB/4M-7_B_CC12MAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-7_B_CC12M) |
 | 470 | 15 | showlab/show-oAny-to-Any | UpdatedAug 27, 2024 | [Link](https://huggingface.co/showlab/show-o) |
 | 1.03k | 14 | onnx-community/Janus-1 | UpdatedNov 28, 2024 | [Link](https://huggingface.co/onnx-community/Janus-1.3B-ONNX) |
@@ -93,6 +94,7 @@ Updated on 2025-12-08
 | UpdatedJun 15 | 6.82k | unsloth/gemma-3-4b-it-qat-GGUFAny-to-Any | 4B | [Link](https://huggingface.co/unsloth/gemma-3-4b-it-qat-GGUF) |
 | UpdatedMay 12 | 6.52k | unsloth/gemma-3-4b-it-bnb-4bitAny-to-Any | 3B | [Link](https://huggingface.co/unsloth/gemma-3-4b-it-bnb-4bit) |
 | Updated2 days ago | 6 | sensenova/InteractiveOmni-8BAny-to-Any | 10B | [Link](https://huggingface.co/sensenova/InteractiveOmni-8B) |
+| UpdatedJun 18 | 6.36k | unsloth/Llama-4-Maverick-17B-128E-Instruct-GGUFAny-to-Any | 401B | [Link](https://huggingface.co/unsloth/Llama-4-Maverick-17B-128E-Instruct-GGUF) |
 | 1.63k | 5 | PKU-Alignment/AA-chameleon-7b-plusAny-to-Any | UpdatedSep 13, 2024 | [Link](https://huggingface.co/PKU-Alignment/AA-chameleon-7b-plus) |
 | 2.67k | 5 | Junfeng5/Liquid_V1_7BAny-to-Any | Updated8 days ago | [Link](https://huggingface.co/Junfeng5/Liquid_V1_7B) |
 | UpdatedMay 9 | 5.89k | unsloth/gemma-3-27b-it-qat-GGUFAny-to-Any | 27B | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-qat-GGUF) |
@@ -2584,6 +2586,7 @@ Updated on 2025-12-08
 | 3 | Unknown | nvidia/FixerImage-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/nvidia/Fixer) |
 | 18 | Unknown | oumoumad/Qwen-Edit-2509-Material-transferImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/oumoumad/Qwen-Edit-2509-Material-transfer) |
 | 8 | Unknown | huawei-bayerlab/windowseat-reflection-removal-v1-0Image-to-Image | Updated2 days ago | [Link](https://huggingface.co/huawei-bayerlab/windowseat-reflection-removal-v1-0) |
+| 122 |  | dx8152/Qwen-Edit-2509-Light-MigrationImage-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/dx8152/Qwen-Edit-2509-Light-Migration) |
 
 ## Image-to-Text
 
@@ -5231,6 +5234,7 @@ Updated on 2025-12-08
 | Updatedabout 16 hours ago | 124 | calcuis/krea-ggufText-to-Image | 12B | [Link](https://huggingface.co/calcuis/krea-gguf) |
 | 3.01k | 81 | RunDiffusion/Juggernaut-XI-v11Text-to-Image | UpdatedAug 29, 2024 | [Link](https://huggingface.co/RunDiffusion/Juggernaut-XI-v11) |
 | 128 | 75 | bytedance-research/USOText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/bytedance-research/USO) |
+| 1.96k | 71 | aquif-ai/Reupload-Magic-Wan-Image-v1 | Updated34 minutes ago | [Link](https://huggingface.co/aquif-ai/Reupload-Magic-Wan-Image-v1.0) |
 | 8.76k | 66 | Freepik/flux | UpdatedDec 30, 2024 | [Link](https://huggingface.co/Freepik/flux.1-lite-8B) |
 | 9.8k | 66 | cyberdelia/CyberRealisticText-to-Image | Updated12 days ago | [Link](https://huggingface.co/cyberdelia/CyberRealistic) |
 | 15.9k | 65 | neta-art/Neta-LuminaText-to-Image | Updated7 minutes ago | [Link](https://huggingface.co/neta-art/Neta-Lumina) |
@@ -5242,6 +5246,7 @@ Updated on 2025-12-08
 | 36 | 51 | THUDM/CogView4-6BText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/THUDM/CogView4-6B) |
 | Updatedabout 9 hours ago | 51 | tencent/HunyuanImage-3 | 83B | [Link](https://huggingface.co/tencent/HunyuanImage-3.0) |
 | 87 | 44 | Freepik/F-LiteText-to-Image | Updatedabout 15 hours ago | [Link](https://huggingface.co/Freepik/F-Lite) |
+| 17.9k | 43 | Disty0/Z-Image-Turbo-SDNQ-uint4-svd-r32Text-to-Image | Updated5 days ago | [Link](https://huggingface.co/Disty0/Z-Image-Turbo-SDNQ-uint4-svd-r32) |
 | 2.23k | 42 | aoxo/flux | Updatedabout 2 hours ago | [Link](https://huggingface.co/aoxo/flux.1dev-abliteratedv2) |
 | 1.18k | 40 | tencent/SRPOText-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/tencent/SRPO) |
 | 5.59k | 33 | hashu786/HYVRewardText-to-Image | Updated5 days ago | [Link](https://huggingface.co/hashu786/HYVReward) |
@@ -5299,6 +5304,7 @@ Updated on 2025-12-08
 | 54 | 9 | gokaygokay/Flux-Krea-Realism-LoRAText-to-Image | Updatedabout 14 hours ago | [Link](https://huggingface.co/gokaygokay/Flux-Krea-Realism-LoRA) |
 |  | 9 | Instara/1girl-qwen-imageText-to-Image | Updated3 days ago | [Link](https://huggingface.co/Instara/1girl-qwen-image) |
 | 29 | 9 | SeeSee21/Z-Image-Turbo-AIOText-to-Image | Updated40 minutes ago | [Link](https://huggingface.co/SeeSee21/Z-Image-Turbo-AIO) |
+| 496 | 9 | Disty0/Z-Image-Turbo-SDNQ-int8Text-to-Image | Updated6 days ago | [Link](https://huggingface.co/Disty0/Z-Image-Turbo-SDNQ-int8) |
 | 215 | 8 | tensorart/stable-diffusion-3 | Updated8 minutes ago | [Link](https://huggingface.co/tensorart/stable-diffusion-3.5-large-TurboX) |
 | 34 | 8 | renderartist/coloringbookhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/coloringbookhidream) |
 | 1.79k | 8 | MaxedOut/ComfyUI-Starter-PacksText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/MaxedOut/ComfyUI-Starter-Packs) |
@@ -5950,6 +5956,7 @@ Updated on 2025-12-08
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
 | 795 | 1 | chaowenguo/AnimateLCMText-to-Video | UpdatedFeb 28 | [Link](https://huggingface.co/chaowenguo/AnimateLCM) |
 | 1.83k | 1 | Isi99999/Wan2 | UpdatedMar 9 | [Link](https://huggingface.co/Isi99999/Wan2.1-T2V-14B) |
+| 208 | 1 | AlekseyCalvin/VladimirLENIN_Wan2 | UpdatedApr 1 | [Link](https://huggingface.co/AlekseyCalvin/VladimirLENIN_Wan2.1_1.3B_T2V_LoRA) |
 | 7.59k |  | tencent/HunyuanVideoText-to-Video | UpdatedJan 21 | [Link](https://huggingface.co/tencent/HunyuanVideo) |
 | 26.6k |  | genmo/mochi-1-previewText-to-Video | UpdatedDec 18, 2024 | [Link](https://huggingface.co/genmo/mochi-1-preview) |
 | 91.5k |  | THUDM/CogVideoX-5bText-to-Video | UpdatedNov 23, 2024 | [Link](https://huggingface.co/THUDM/CogVideoX-5b) |
