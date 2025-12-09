@@ -161,6 +161,7 @@ Updated on 2025-12-09
 | 313 | 1 | AbstractPhil/vae-lyraAny-to-Any | Updated3 days ago | [Link](https://huggingface.co/AbstractPhil/vae-lyra) |
 | 92 | 1 | WeiChow/Bagel-weaveAny-to-Any | Updated1 day ago | [Link](https://huggingface.co/WeiChow/Bagel-weave) |
 | UpdatedJul 21 | 1.74k | CEIA-UFG/Gemma-3-Gaia-PT-BR-4b-itAny-to-Any | 4B | [Link](https://huggingface.co/CEIA-UFG/Gemma-3-Gaia-PT-BR-4b-it) |
+| UpdatedJun 17 | 1.4k | unsloth/Llama-4-Scout-17B-16E-InstructAny-to-Any | 109B | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct) |
 | 2 | Unknown | guanwenhao/MonoSpeechAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/guanwenhao/MonoSpeech) |
 | 22 | Unknown | Goekdeniz-Guelmez/J | UpdatedOct 29, 2024 | [Link](https://huggingface.co/Goekdeniz-Guelmez/J.O.S.I.E.v4o) |
 | 1 | Unknown | hfcsrd/cryptographyAny-to-Any | UpdatedNov 17, 2024 | [Link](https://huggingface.co/hfcsrd/cryptography) |
@@ -1798,6 +1799,7 @@ Updated on 2025-12-09
 | Updated1 day ago | 252 | Qwen/Qwen3-VL-235B-A22B-ThinkingImage-Text-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Thinking) |
 | 353k | 236 | microsoft/Florence-2-baseImage-Text-to-Text | UpdatedNov 4, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-base) |
 | Updatedabout 14 hours ago | 228 | CohereLabs/command-a-vision-07-2025Image-Text-to-Text | 112B | [Link](https://huggingface.co/CohereLabs/command-a-vision-07-2025) |
+| Updated3 days ago | 218 | OctoMed/OctoMed-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/OctoMed/OctoMed-7B) |
 | Updatedabout 13 hours ago | 211 | INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v1 | 12B | [Link](https://huggingface.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v1.0) |
 | Updatedabout 20 hours ago | 206 | nvidia/NVIDIA-Nemotron-Nano-12B-v2-VL-FP8Image-Text-to-Text | 13B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-12B-v2-VL-FP8) |
 | Updated16 days ago | 200 | grimjim/gemma-3-12b-it-norm-preserved-biprojected-abliteratedImage-Text-to-Text | 12B | [Link](https://huggingface.co/grimjim/gemma-3-12b-it-norm-preserved-biprojected-abliterated) |
@@ -4839,6 +4841,7 @@ Updated on 2025-12-09
 | Updatedabout 3 hours ago | 6.82k | openai/gpt-oss-20bText | 12B | [Link](https://huggingface.co/openai/gpt-oss-20b) |
 | Updated2 days ago | 6 | inclusionAI/Ling-lite-1 | 17B | [Link](https://huggingface.co/inclusionAI/Ling-lite-1.5-2507) |
 | UpdatedApr 14 | 6 | inclusionAI/Ling-plusText | 293B | [Link](https://huggingface.co/inclusionAI/Ling-plus) |
+| Updatedabout 4 hours ago | 6.23k | nn-tech/MetalGPT-1Text | 33B | [Link](https://huggingface.co/nn-tech/MetalGPT-1) |
 | Updated28 minutes ago | 5 | unsloth/Kimi-K2-Instruct-GGUFText | 1026B | [Link](https://huggingface.co/unsloth/Kimi-K2-Instruct-GGUF) |
 | Updatedabout 4 hours ago | 5 | tencent/Hunyuan-1 | 2B | [Link](https://huggingface.co/tencent/Hunyuan-1.8B-Instruct) |
 | Updatedabout 6 hours ago | 5.68k | deepseek-ai/DeepSeek-V3 | 685B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3.1-Base) |
