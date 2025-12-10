@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-12-09
+Updated on 2025-12-10
 
 > Generated from the Hugging Face database.
 
@@ -1970,6 +1970,7 @@ Updated on 2025-12-09
 | 2.81k | 13 | unsloth/gemma-3n-E2B-it-GGUFImage-Text-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/unsloth/gemma-3n-E2B-it-GGUF) |
 | Updated3 days ago | 13 | baidu/Qianfan-VL-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/baidu/Qianfan-VL-8B) |
 | Updatedabout 16 hours ago | 13 | NexaAI/Qwen3-VL-4B-Instruct-GGUFImage-Text-to-Text | 4B | [Link](https://huggingface.co/NexaAI/Qwen3-VL-4B-Instruct-GGUF) |
+| Updatedabout 11 hours ago | 13 | zai-org/AutoGLM-Phone-9B-MultilingualImage-Text-to-Text | 934k | [Link](https://huggingface.co/zai-org/AutoGLM-Phone-9B-Multilingual) |
 | 225 | 12 | ds4sd/SmolDocling-256M-preview-mlx-bf16Image-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/ds4sd/SmolDocling-256M-preview-mlx-bf16) |
 | 1.94k | 12 | bartowski/google_gemma-3-27b-it-qat-GGUFImage-Text-to-Text | Updatedabout 19 hours ago | [Link](https://huggingface.co/bartowski/google_gemma-3-27b-it-qat-GGUF) |
 | 856 | 12 | bartowski/google_gemma-3-12b-it-qat-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/bartowski/google_gemma-3-12b-it-qat-GGUF) |
@@ -2342,6 +2343,7 @@ Updated on 2025-12-09
 | 1.74k | 7 | xiaozaa/catvton-flux-betaImage-to-Image | UpdatedJan 16 | [Link](https://huggingface.co/xiaozaa/catvton-flux-beta) |
 | 33 | 7 | kontext-community/relighting-kontext-dev-lora-v3Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/kontext-community/relighting-kontext-dev-lora-v3) |
 | Updatedabout 1 hour ago | 7 | chatpig/flux2-dev-ggufImage-to-Image | 18B | [Link](https://huggingface.co/chatpig/flux2-dev-gguf) |
+| 2 | 7 | prov-gigatime/GigaTIMEImage-to-Image | Updatedabout 18 hours ago | [Link](https://huggingface.co/prov-gigatime/GigaTIME) |
 | 1.97k | 6 | TencentARC/t2iadapter_sketch_sd15v2Image-to-Image | UpdatedAug 1, 2023 | [Link](https://huggingface.co/TencentARC/t2iadapter_sketch_sd15v2) |
 | 443 | 6 | LPX55/FLUX | Updated6 days ago | [Link](https://huggingface.co/LPX55/FLUX.1_Kontext-Lightning) |
 | 8 | 6 | stepfun-ai/Step1X-Edit-v1p2-previewImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/stepfun-ai/Step1X-Edit-v1p2-preview) |
@@ -4791,6 +4793,7 @@ Updated on 2025-12-09
 | Updated23 minutes ago | 17 | tencent/Hunyuan-A13B-Instruct-GPTQ-Int4Text | 12B | [Link](https://huggingface.co/tencent/Hunyuan-A13B-Instruct-GPTQ-Int4) |
 | Updatedabout 6 hours ago | 17 | tngtech/DeepSeek-TNG-R1T2-ChimeraText | 685B | [Link](https://huggingface.co/tngtech/DeepSeek-TNG-R1T2-Chimera) |
 | Updated1 day ago | 17 | inclusionAI/Ring-mini-linear-2 | 16B | [Link](https://huggingface.co/inclusionAI/Ring-mini-linear-2.0) |
+| Updatedabout 5 hours ago | 17 | bartowski/mistralai_Devstral-Small-2-24B-Instruct-2512-GGUFText | 24B | [Link](https://huggingface.co/bartowski/mistralai_Devstral-Small-2-24B-Instruct-2512-GGUF) |
 | 938 | 16 | ubergarm/DeepSeek-V3-0324-GGUFText | Updated3 days ago | [Link](https://huggingface.co/ubergarm/DeepSeek-V3-0324-GGUF) |
 | 2.09k | 16 | google/gemma-3-1b-it-qat-q4_0-ggufText | Updated3 days ago | [Link](https://huggingface.co/google/gemma-3-1b-it-qat-q4_0-gguf) |
 | 2.94k | 16 | nvidia/AceMath-RL-Nemotron-7BText | Updated4 days ago | [Link](https://huggingface.co/nvidia/AceMath-RL-Nemotron-7B) |
