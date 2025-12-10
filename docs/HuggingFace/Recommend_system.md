@@ -6067,6 +6067,7 @@ Updated on 2025-12-10
 | 2 | Unknown | ramu0e/minisora-dmlabText-to-Video | Updated1 day ago | [Link](https://huggingface.co/ramu0e/minisora-dmlab) |
 | 2 | Unknown | TensorStack/Wan2 | Updated12 days ago | [Link](https://huggingface.co/TensorStack/Wan2.1-T2V-1.3B-onnx) |
 | 9 | Unknown | worstcoder/rcm-WanText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/worstcoder/rcm-Wan) |
+| 2 | Unknown | Efficient-Large-Model/SANA-Video_2B_480p_LongLive_diffusersText-to-Video | Updatedabout 23 hours ago | [Link](https://huggingface.co/Efficient-Large-Model/SANA-Video_2B_480p_LongLive_diffusers) |
 
 ## Text2Text Generation
 
