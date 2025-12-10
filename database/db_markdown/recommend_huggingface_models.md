@@ -2610,6 +2610,7 @@ Updated on 2025-12-10
 | Updated20 days ago | 480 | sanchit97/chart-rvr-3bImage-to-Text | 4B | [Link](https://huggingface.co/sanchit97/chart-rvr-3b) |
 | UpdatedAug 26, 2024 | 467 | LeroyDyer/SpydazWebAI_Image_ProjectorsImage-to-Text | 7B | [Link](https://huggingface.co/LeroyDyer/SpydazWebAI_Image_Projectors) |
 | UpdatedJan 6, 2024 | 441 | Ransaka/TrOCR-SinhalaImage-to-Text | 0.3B | [Link](https://huggingface.co/Ransaka/TrOCR-Sinhala) |
+| UpdatedSep 28 | 436 | mradermacher/dunhuang-qwen2 | 8B | [Link](https://huggingface.co/mradermacher/dunhuang-qwen2.5-vl-7b-GGUF) |
 | UpdatedNov 28, 2024 | 429 | MohamedRashad/arabic-small-nougatImage-to-Text | 0.2B | [Link](https://huggingface.co/MohamedRashad/arabic-small-nougat) |
 | UpdatedJul 18 | 323 | loay/ArabicOCR-Qwen2 | 8B | [Link](https://huggingface.co/loay/ArabicOCR-Qwen2.5-VL-7B-Vision) |
 | UpdatedNov 15, 2024 | 242 | TIGER-Lab/Mantis-8B-Idefics2Image-to-Text | 8B | [Link](https://huggingface.co/TIGER-Lab/Mantis-8B-Idefics2) |
@@ -2763,6 +2764,7 @@ Updated on 2025-12-10
 | UpdatedJan 19, 2024 | 7 | fireworks-ai/FireLLaVA-13bImage-to-Text | 13B | [Link](https://huggingface.co/fireworks-ai/FireLLaVA-13b) |
 | 52 | 7 | Xenova/trocr-small-handwrittenImage-to-Text | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Xenova/trocr-small-handwritten) |
 | 188 | 7 | WeightedAI/Persian_OCRImage-to-Text | Updated26 days ago | [Link](https://huggingface.co/WeightedAI/Persian_OCR) |
+| Updated26 days ago | 7 | Cosmobillian/radiologist_llamaImage-to-Text | 11B | [Link](https://huggingface.co/Cosmobillian/radiologist_llama) |
 | 624 | 6 | fhswf/TrOCR_Math_handwrittenImage-to-Text | UpdatedOct 21, 2024 | [Link](https://huggingface.co/fhswf/TrOCR_Math_handwritten) |
 | 511 | 6 | microsoft/trocr-base-strImage-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-base-str) |
 | Updated21 days ago | 6.36k | allenai/olmOCR-7B-0225-preview-FP8Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview-FP8) |
@@ -4406,6 +4408,7 @@ Updated on 2025-12-10
 | Updated23 minutes ago | 854 | Qwen/Qwen3-Next-80B-A3B-InstructText | 81B | [Link](https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct) |
 | Updated3 days ago | 786 | apple/FastVLM-1 | 2B | [Link](https://huggingface.co/apple/FastVLM-1.5B) |
 | Updatedabout 18 hours ago | 769 | LiquidAI/LFM2-350M-MathText | 0.4B | [Link](https://huggingface.co/LiquidAI/LFM2-350M-Math) |
+| Updatedabout 24 hours ago | 752 | thu-pacman/PCMind-2 | 2B | [Link](https://huggingface.co/thu-pacman/PCMind-2.1-Kaiyuan-2B) |
 | Updatedabout 2 hours ago | 722 | nvidia/NVIDIA-Nemotron-Nano-9B-v2Text | 9B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2) |
 |  | 682 | deepseek-ai/DeepSeek-V3-0324Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3-0324) |
 | Updatedabout 6 hours ago | 670 | nvidia/Orchestrator-8BText | 8B | [Link](https://huggingface.co/nvidia/Orchestrator-8B) |
@@ -4435,6 +4438,7 @@ Updated on 2025-12-10
 |  | 295 | deepseek-ai/DeepSeek-R1-0528-Qwen3-8BText | Updatedabout 13 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B) |
 | Updatedabout 4 hours ago | 293 | Qwen/Qwen3Guard-Gen-0 | 0.8B | [Link](https://huggingface.co/Qwen/Qwen3Guard-Gen-0.6B) |
 | Updated8 days ago | 283 | perplexity-ai/browsesafeText | 31B | [Link](https://huggingface.co/perplexity-ai/browsesafe) |
+| Updated2 days ago | 266 | FutureMa/Qwen3-8B-Drama-ThinkingText | 308k | [Link](https://huggingface.co/FutureMa/Qwen3-8B-Drama-Thinking) |
 | Updated5 days ago | 264 | arcee-ai/Trinity-Nano-BaseText | 6B | [Link](https://huggingface.co/arcee-ai/Trinity-Nano-Base) |
 | 6.51k | 262 | NousResearch/DeepHermes-3-Llama-3-8B-PreviewText | Updated6 days ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview) |
 | Updatedabout 2 hours ago | 255 | agentica-org/DeepSWE-PreviewText | 33B | [Link](https://huggingface.co/agentica-org/DeepSWE-Preview) |
@@ -5920,6 +5924,7 @@ Updated on 2025-12-10
 | 8 | 3 | Efficient-Large-Model/SANA-Video_2B_480pText-to-Video | Updated3 days ago | [Link](https://huggingface.co/Efficient-Large-Model/SANA-Video_2B_480p) |
 | 5.95k | 3 | guoyww/animatediff-motion-lora-pan-leftText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-pan-left) |
 | 561 | 3 | 6chan/krea-realtime-video-fp8Text-to-Video | Updated26 days ago | [Link](https://huggingface.co/6chan/krea-realtime-video-fp8) |
+| 173 | 3 | vdo/animov-512xText-to-Video | UpdatedMay 7, 2023 | [Link](https://huggingface.co/vdo/animov-512x) |
 | 69 | 2 | obvious-research/onlyflowText-to-Video | Updated5 days ago | [Link](https://huggingface.co/obvious-research/onlyflow) |
 | 42 | 2 | jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIEText-to-Video | Updated7 days ago | [Link](https://huggingface.co/jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIE) |
 | 10 | 2 | vdo/Hotshot-XLText-to-Video | UpdatedOct 4, 2023 | [Link](https://huggingface.co/vdo/Hotshot-XL) |
@@ -6061,6 +6066,7 @@ Updated on 2025-12-10
 | 16 | Unknown | Phr00t/HunyuanVideo-1 | Updatedabout 3 hours ago | [Link](https://huggingface.co/Phr00t/HunyuanVideo-1.5-Rapid-AIO) |
 | 2 | Unknown | ramu0e/minisora-dmlabText-to-Video | Updated1 day ago | [Link](https://huggingface.co/ramu0e/minisora-dmlab) |
 | 2 | Unknown | TensorStack/Wan2 | Updated12 days ago | [Link](https://huggingface.co/TensorStack/Wan2.1-T2V-1.3B-onnx) |
+| 9 | Unknown | worstcoder/rcm-WanText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/worstcoder/rcm-Wan) |
 
 ## Text2Text Generation
 
