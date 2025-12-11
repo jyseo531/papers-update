@@ -163,6 +163,7 @@ Updated on 2025-12-11
 | 92 | 1 | WeiChow/Bagel-weaveAny-to-Any | Updated1 day ago | [Link](https://huggingface.co/WeiChow/Bagel-weave) |
 | UpdatedJul 21 | 1.74k | CEIA-UFG/Gemma-3-Gaia-PT-BR-4b-itAny-to-Any | 4B | [Link](https://huggingface.co/CEIA-UFG/Gemma-3-Gaia-PT-BR-4b-it) |
 | UpdatedJun 17 | 1.4k | unsloth/Llama-4-Scout-17B-16E-InstructAny-to-Any | 109B | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct) |
+| 7 | 1 | imkebe/Janus-Pro-7B-rk3588-1 | UpdatedApr 15 | [Link](https://huggingface.co/imkebe/Janus-Pro-7B-rk3588-1.2.0) |
 | 2 | Unknown | guanwenhao/MonoSpeechAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/guanwenhao/MonoSpeech) |
 | 22 | Unknown | Goekdeniz-Guelmez/J | UpdatedOct 29, 2024 | [Link](https://huggingface.co/Goekdeniz-Guelmez/J.O.S.I.E.v4o) |
 | 1 | Unknown | hfcsrd/cryptographyAny-to-Any | UpdatedNov 17, 2024 | [Link](https://huggingface.co/hfcsrd/cryptography) |
@@ -2083,6 +2084,7 @@ Updated on 2025-12-11
 | Updated12 days ago | 4.44k | Jalea96/DeepSeek-OCR-bnb-4bit-NF4Image-Text-to-Text | 3B | [Link](https://huggingface.co/Jalea96/DeepSeek-OCR-bnb-4bit-NF4) |
 | Updated1 day ago | 4.89k | janhq/Jan-v2-VL-med-ggufImage-Text-to-Text | 8B | [Link](https://huggingface.co/janhq/Jan-v2-VL-med-gguf) |
 | Updated7 days ago | 4.72k | janhq/Jan-v2-VL-low-ggufImage-Text-to-Text | 8B | [Link](https://huggingface.co/janhq/Jan-v2-VL-low-gguf) |
+| Updated1 day ago | 4.56k | bartowski/ServiceNow-AI_Apriel-1 | 14B | [Link](https://huggingface.co/bartowski/ServiceNow-AI_Apriel-1.6-15b-Thinker-GGUF) |
 | Updated5 minutes ago | 3.08k | openbmb/MiniCPM-V-4-ggufImage-Text-to-Text | 4B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4-gguf) |
 | Updatedabout 14 hours ago | 3 | Qwen/Qwen3-VL-8B-ThinkingImage-Text-to-Text | 9B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Thinking) |
 | Updatedabout 13 hours ago | 3 | Qwen/Qwen3-VL-4B-Thinking-FP8Image-Text-to-Text | 5B | [Link](https://huggingface.co/Qwen/Qwen3-VL-4B-Thinking-FP8) |
@@ -2658,6 +2660,7 @@ Updated on 2025-12-11
 | 5.28k | 48 | Ertugrul/Qwen2-VL-7B-Captioner-RelaxedImage-to-Text | UpdatedSep 26, 2024 | [Link](https://huggingface.co/Ertugrul/Qwen2-VL-7B-Captioner-Relaxed) |
 | UpdatedMay 21 | 47.2k | llamaindex/vdr-2b-multi-v1Image-to-Text | 2B | [Link](https://huggingface.co/llamaindex/vdr-2b-multi-v1) |
 | Updated23 days ago | 43 | Jaireyu/Qwen2 | 8B | [Link](https://huggingface.co/Jaireyu/Qwen2.5-VL-UniSVG-finetuned) |
+| UpdatedJul 5 | 43 | QuickHawk/trocr-indicImage-to-Text | 0.3B | [Link](https://huggingface.co/QuickHawk/trocr-indic) |
 | UpdatedMay 18, 2024 | 41 | moranyanuka/blip-image-captioning-large-mochaImage-to-Text | 0.5B | [Link](https://huggingface.co/moranyanuka/blip-image-captioning-large-mocha) |
 | 246 | 40 | selvakumarcts/sk_invoice_receiptsImage-to-Text | UpdatedOct 20, 2023 | [Link](https://huggingface.co/selvakumarcts/sk_invoice_receipts) |
 | 573 | 39 | katanaml-org/invoices-donut-model-v1Image-to-Text | UpdatedMay 11, 2023 | [Link](https://huggingface.co/katanaml-org/invoices-donut-model-v1) |
@@ -4407,6 +4410,7 @@ Updated on 2025-12-11
 | Updatedabout 21 hours ago | 971 | marin-community/marin-32b-baseText | 33B | [Link](https://huggingface.co/marin-community/marin-32b-base) |
 | UpdatedSep 9 | 924k | inference-net/Schematron-3BText | 3B | [Link](https://huggingface.co/inference-net/Schematron-3B) |
 | 4.08M | 912 | unsloth/DeepSeek-R1-GGUFText | Updated12 days ago | [Link](https://huggingface.co/unsloth/DeepSeek-R1-GGUF) |
+| Updated1 day ago | 906 | Nanbeige/Nanbeige4-3B-Thinking-2511Text | 4B | [Link](https://huggingface.co/Nanbeige/Nanbeige4-3B-Thinking-2511) |
 | Updatedabout 8 hours ago | 886 | KORMo-Team/KORMo-10B-baseText | 11B | [Link](https://huggingface.co/KORMo-Team/KORMo-10B-base) |
 | Updated23 minutes ago | 854 | Qwen/Qwen3-Next-80B-A3B-InstructText | 81B | [Link](https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct) |
 | Updated3 days ago | 786 | apple/FastVLM-1 | 2B | [Link](https://huggingface.co/apple/FastVLM-1.5B) |
@@ -4532,6 +4536,7 @@ Updated on 2025-12-11
 | 902 | 77 | qihoo360/Light-R1-32BText | Updatedabout 22 hours ago | [Link](https://huggingface.co/qihoo360/Light-R1-32B) |
 | Updatedabout 10 hours ago | 77 | LiquidAI/LFM2-1 | 1B | [Link](https://huggingface.co/LiquidAI/LFM2-1.2B) |
 | Updatedabout 19 hours ago | 76 | ByteDance-Seed/Seed-OSS-36B-BaseText | 36B | [Link](https://huggingface.co/ByteDance-Seed/Seed-OSS-36B-Base) |
+| Updatedabout 23 hours ago | 75 | inceptionai/Jais-2-70B-ChatText | 72B | [Link](https://huggingface.co/inceptionai/Jais-2-70B-Chat) |
 | 2 | 74 | Qwen/Qwen3-32BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-32B) |
 | Updatedabout 10 hours ago | 74 | ByteDance-Seed/Seed-OSS-36B-InstructText | 36B | [Link](https://huggingface.co/ByteDance-Seed/Seed-OSS-36B-Instruct) |
 | 21 | 73 | nvidia/Llama-3_1-Nemotron-Ultra-253B-v1Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/nvidia/Llama-3_1-Nemotron-Ultra-253B-v1) |
@@ -4901,6 +4906,7 @@ Updated on 2025-12-11
 | Updatedabout 1 hour ago | 1.21k | openai/gpt-oss-safeguard-20bText | 22B | [Link](https://huggingface.co/openai/gpt-oss-safeguard-20b) |
 | Updatedabout 6 hours ago | 1.06k | allenai/Olmo-3-7B-InstructText | 528k | [Link](https://huggingface.co/allenai/Olmo-3-7B-Instruct) |
 | Updatedabout 8 hours ago | 1.55k | allenai/Olmo-3-32B-ThinkText | 1.05M | [Link](https://huggingface.co/allenai/Olmo-3-32B-Think) |
+| UpdatedMar 17, 2024 | 1.82M | TinyLlama/TinyLlama-1 | 1B | [Link](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -5564,6 +5570,7 @@ Updated on 2025-12-11
 | 16 | Unknown | meituan-longcat/LongCat-Image-DevText-to-Image | Updatedabout 13 hours ago | [Link](https://huggingface.co/meituan-longcat/LongCat-Image-Dev) |
 | 10 | Unknown | aquif-ai/aquif-Image-14BText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/aquif-ai/aquif-Image-14B) |
 | 279 |  | AIImageStudio/ReversalFilmGravure_z_Image_turboText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AIImageStudio/ReversalFilmGravure_z_Image_turbo) |
+| 30 | Unknown | inclusionAI/TwinFlowText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/inclusionAI/TwinFlow) |
 
 ## Text-to-Speech
 
