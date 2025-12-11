@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-12-10
+Updated on 2025-12-11
 
 > Generated from the Hugging Face database.
 
@@ -42,6 +42,7 @@ Updated on 2025-12-10
 | Updated5 days ago | 76 | DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-ExtremeAny-to-Any | 4B | [Link](https://huggingface.co/DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-Extreme) |
 | UpdatedAug 20 | 64 | Frane92O/Qwen2 | 8B | [Link](https://huggingface.co/Frane92O/Qwen2.5-Omni-7B-Q4_0-GGUF) |
 | Updatedabout 1 hour ago | 63 | wikeeyang/Emu35-NF4Any-to-Any | 35B | [Link](https://huggingface.co/wikeeyang/Emu35-NF4) |
+| UpdatedApr 29 | 60.5k | meta-llama/Llama-Guard-4-12BAny-to-Any | 12B | [Link](https://huggingface.co/meta-llama/Llama-Guard-4-12B) |
 | UpdatedMay 12 | 55.1k | unsloth/gemma-3-4b-it-unsloth-bnb-4bitAny-to-Any | 3B | [Link](https://huggingface.co/unsloth/gemma-3-4b-it-unsloth-bnb-4bit) |
 | Updated1 day ago | 53 | cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-4bitAny-to-Any | 6B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-4bit) |
 | Updated17 days ago | 53 | sensefvg/InteractiveOmni-4BAny-to-Any | 6B | [Link](https://huggingface.co/sensefvg/InteractiveOmni-4B) |
@@ -2592,6 +2593,7 @@ Updated on 2025-12-10
 | 18 | Unknown | oumoumad/Qwen-Edit-2509-Material-transferImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/oumoumad/Qwen-Edit-2509-Material-transfer) |
 | 8 | Unknown | huawei-bayerlab/windowseat-reflection-removal-v1-0Image-to-Image | Updated2 days ago | [Link](https://huggingface.co/huawei-bayerlab/windowseat-reflection-removal-v1-0) |
 | 122 |  | dx8152/Qwen-Edit-2509-Light-MigrationImage-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/dx8152/Qwen-Edit-2509-Light-Migration) |
+| 117 |  | starsfriday/Qwen-Image-Edit-2509-Upscale2KImage-to-Image | Updated13 days ago | [Link](https://huggingface.co/starsfriday/Qwen-Image-Edit-2509-Upscale2K) |
 
 ## Image-to-Text
 
@@ -2950,6 +2952,7 @@ Updated on 2025-12-10
 | 4 | Unknown | nvidia/nemoretriever-ocr-v1Image-to-Text | Updatedabout 22 hours ago | [Link](https://huggingface.co/nvidia/nemoretriever-ocr-v1) |
 | 15 | Unknown | bidiptas/PG-InstructBLIPImage-to-Text | UpdatedJan 22, 2024 | [Link](https://huggingface.co/bidiptas/PG-InstructBLIP) |
 | 12 | Unknown | deepghs/paddleocrImage-to-Text | Updated20 days ago | [Link](https://huggingface.co/deepghs/paddleocr) |
+| 2 | Unknown | asmud/EasyOCR-onnxImage-to-Text | UpdatedSep 2 | [Link](https://huggingface.co/asmud/EasyOCR-onnx) |
 
 ## Image-to-Video
 
@@ -5847,6 +5850,7 @@ Updated on 2025-12-10
 | 5 | Unknown | openbmb/VoxCPM1 | Updatedabout 3 hours ago | [Link](https://huggingface.co/openbmb/VoxCPM1.5) |
 | 3 | Unknown | dolly-vn/viterboxText-to-Speech | Updated14 minutes ago | [Link](https://huggingface.co/dolly-vn/viterbox) |
 | 4 | Unknown | jordand/echo-tts-baseText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/jordand/echo-tts-base) |
+| 54 | Unknown | zai-org/GLM-TTSText-to-Speech | Updatedabout 11 hours ago | [Link](https://huggingface.co/zai-org/GLM-TTS) |
 
 ## Text-to-Video
 
