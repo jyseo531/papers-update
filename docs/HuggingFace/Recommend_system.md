@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-12-11
+Updated on 2025-12-12
 
 > Generated from the Hugging Face database.
 
@@ -214,6 +214,7 @@ Updated on 2025-12-11
 | 2 | Unknown | General-Medical-AI/UniMedVLAny-to-Any | Updatedabout 19 hours ago | [Link](https://huggingface.co/General-Medical-AI/UniMedVL) |
 | 5 | Unknown | MTDoven/Recurrent-Parameter-GenerationAny-to-Any | UpdatedSep 24 | [Link](https://huggingface.co/MTDoven/Recurrent-Parameter-Generation) |
 | 12 | Unknown | Yuanshi/ViBTAny-to-Any | Updatedabout 10 hours ago | [Link](https://huggingface.co/Yuanshi/ViBT) |
+| 16 | Unknown | zai-org/RealVideoAny-to-Any | Updatedabout 14 hours ago | [Link](https://huggingface.co/zai-org/RealVideo) |
 
 ## Audio Classification
 
@@ -4569,6 +4570,7 @@ Updated on 2025-12-11
 | 143 | 55 | unsloth/DeepSeek-R1-0528-GGUFText | Updatedabout 1 hour ago | [Link](https://huggingface.co/unsloth/DeepSeek-R1-0528-GGUF) |
 | 7 | 55 | Qwen/Qwen3-Embedding-0 | Updatedabout 10 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B) |
 | Updatedabout 19 hours ago | 55 | PhysicsWallahAI/Aryabhata-1 | 8B | [Link](https://huggingface.co/PhysicsWallahAI/Aryabhata-1.0) |
+| Updated11 days ago | 55.6k | DavidAU/Llama-3 | 18B | [Link](https://huggingface.co/DavidAU/Llama-3.2-8X3B-MOE-Dark-Champion-Instruct-uncensored-abliterated-18.4B-GGUF) |
 | 926 | 54 | arcee-ai/Arcee-BlitzText | Updated4 days ago | [Link](https://huggingface.co/arcee-ai/Arcee-Blitz) |
 | 658 | 54 | ByteDance-Seed/Seed-Coder-8B-InstructText | Updatedabout 6 hours ago | [Link](https://huggingface.co/ByteDance-Seed/Seed-Coder-8B-Instruct) |
 | Updated2 days ago | 54 | S4nfs/Neeto-1 | 8B | [Link](https://huggingface.co/S4nfs/Neeto-1.0-8b) |
@@ -5349,6 +5351,7 @@ Updated on 2025-12-11
 | 28 | 7 | spooknik/CenKreChro-SVDQText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/spooknik/CenKreChro-SVDQ) |
 | 13 | 7 | spooknik/Fluxmania-SVDQText-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/spooknik/Fluxmania-SVDQ) |
 | 19 | 7 | AIDC-AI/Ovis-Image-7BText-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/AIDC-AI/Ovis-Image-7B) |
+| 810 | 7 | tsqn/Z-Image-Turbo_fp32-fp16-bf16_full_and_ema-onlyText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/tsqn/Z-Image-Turbo_fp32-fp16-bf16_full_and_ema-only) |
 | 1.07k | 6 | DFloat11/FLUX | Updated1 day ago | [Link](https://huggingface.co/DFloat11/FLUX.1-dev-DF11) |
 | 836 | 6 | Minthy/RouWei-0 | Updated3 days ago | [Link](https://huggingface.co/Minthy/RouWei-0.8) |
 | 169 | 6 | PosterCraft/PosterCraft-v1_RLText-to-Image | Updated2 days ago | [Link](https://huggingface.co/PosterCraft/PosterCraft-v1_RL) |
