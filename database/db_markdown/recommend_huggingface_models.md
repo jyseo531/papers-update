@@ -164,6 +164,7 @@ Updated on 2025-12-12
 | UpdatedJul 21 | 1.74k | CEIA-UFG/Gemma-3-Gaia-PT-BR-4b-itAny-to-Any | 4B | [Link](https://huggingface.co/CEIA-UFG/Gemma-3-Gaia-PT-BR-4b-it) |
 | UpdatedJun 17 | 1.4k | unsloth/Llama-4-Scout-17B-16E-InstructAny-to-Any | 109B | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct) |
 | 7 | 1 | imkebe/Janus-Pro-7B-rk3588-1 | UpdatedApr 15 | [Link](https://huggingface.co/imkebe/Janus-Pro-7B-rk3588-1.2.0) |
+| UpdatedJun 9 | 1.86k | RedHatAI/gemma-3-12b-it-FP8-dynamicAny-to-Any | 12B | [Link](https://huggingface.co/RedHatAI/gemma-3-12b-it-FP8-dynamic) |
 | 2 | Unknown | guanwenhao/MonoSpeechAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/guanwenhao/MonoSpeech) |
 | 22 | Unknown | Goekdeniz-Guelmez/J | UpdatedOct 29, 2024 | [Link](https://huggingface.co/Goekdeniz-Guelmez/J.O.S.I.E.v4o) |
 | 1 | Unknown | hfcsrd/cryptographyAny-to-Any | UpdatedNov 17, 2024 | [Link](https://huggingface.co/hfcsrd/cryptography) |
@@ -2651,6 +2652,7 @@ Updated on 2025-12-12
 | UpdatedNov 19, 2024 | 77 | ashok2216/vit-gpt2-image-captioning_COCO_FineTunedImage-to-Text | 0.2B | [Link](https://huggingface.co/ashok2216/vit-gpt2-image-captioning_COCO_FineTuned) |
 | 2.27k | 77 | lightonai/LightOnOCR-1B-1025Image-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/lightonai/LightOnOCR-1B-1025) |
 | 131 | 71 | keras-io/ocr-for-captchaImage-to-Text | UpdatedMay 29, 2022 | [Link](https://huggingface.co/keras-io/ocr-for-captcha) |
+| UpdatedSep 24, 2024 | 69 | impactframes/Qwen2-VL-7B-CaptionerImage-to-Text | 8B | [Link](https://huggingface.co/impactframes/Qwen2-VL-7B-Captioner) |
 | Updated6 days ago | 68 | smolagents/Qwen2 | 4B | [Link](https://huggingface.co/smolagents/Qwen2.5-VL-3B-Instruct-Agentic) |
 | UpdatedJul 22, 2024 | 68 | lenamerkli/ingredient-scannerImage-to-Text | 0.5B | [Link](https://huggingface.co/lenamerkli/ingredient-scanner) |
 | 8.31k | 64 | alibaba-damo/mgp-str-baseImage-to-Text | UpdatedDec 11, 2023 | [Link](https://huggingface.co/alibaba-damo/mgp-str-base) |
@@ -4450,6 +4452,7 @@ Updated on 2025-12-12
 | Updated5 days ago | 264 | arcee-ai/Trinity-Nano-BaseText | 6B | [Link](https://huggingface.co/arcee-ai/Trinity-Nano-Base) |
 | 6.51k | 262 | NousResearch/DeepHermes-3-Llama-3-8B-PreviewText | Updated6 days ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview) |
 | Updatedabout 2 hours ago | 255 | agentica-org/DeepSWE-PreviewText | 33B | [Link](https://huggingface.co/agentica-org/DeepSWE-Preview) |
+| Updated3 days ago | 249 | cerebras/DeepSeek-V3 | 345B | [Link](https://huggingface.co/cerebras/DeepSeek-V3.2-REAP-345B-A37B) |
 | 117 | 248 | moonshotai/Kimi-K2-ThinkingText | Updatedabout 10 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-K2-Thinking) |
 | Updatedabout 17 hours ago | 247 | PleIAs/BaguettotronText | 0.3B | [Link](https://huggingface.co/PleIAs/Baguettotron) |
 | UpdatedApr 22 | 246 | inclusionAI/Ling-Coder-liteText | 17B | [Link](https://huggingface.co/inclusionAI/Ling-Coder-lite) |
@@ -5861,6 +5864,7 @@ Updated on 2025-12-12
 | 3 | Unknown | dolly-vn/viterboxText-to-Speech | Updated14 minutes ago | [Link](https://huggingface.co/dolly-vn/viterbox) |
 | 4 | Unknown | jordand/echo-tts-baseText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/jordand/echo-tts-base) |
 | 54 | Unknown | zai-org/GLM-TTSText-to-Speech | Updatedabout 11 hours ago | [Link](https://huggingface.co/zai-org/GLM-TTS) |
+| 7 | Unknown | IbrahimSalah/Arabic-F5-TTS-v2Text-to-Speech | Updated29 days ago | [Link](https://huggingface.co/IbrahimSalah/Arabic-F5-TTS-v2) |
 
 ## Text-to-Video
 
