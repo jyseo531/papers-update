@@ -2658,6 +2658,7 @@ Updated on 2025-12-13
 | UpdatedJul 22, 2024 | 68 | lenamerkli/ingredient-scannerImage-to-Text | 0.5B | [Link](https://huggingface.co/lenamerkli/ingredient-scanner) |
 | 8.31k | 64 | alibaba-damo/mgp-str-baseImage-to-Text | UpdatedDec 11, 2023 | [Link](https://huggingface.co/alibaba-damo/mgp-str-base) |
 | UpdatedMar 25, 2024 | 61 | emisilab/model-ocr-ktp-v1Image-to-Text | 0.2B | [Link](https://huggingface.co/emisilab/model-ocr-ktp-v1) |
+| Updated1 day ago | 56 | huihui-ai/Huihui-Devstral-Small-2-24B-Instruct-2512-abliteratedImage-to-Text | 24B | [Link](https://huggingface.co/huihui-ai/Huihui-Devstral-Small-2-24B-Instruct-2512-abliterated) |
 | UpdatedApr 17, 2024 | 54 | hoang-quoc-trung/sumen-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/hoang-quoc-trung/sumen-base) |
 | UpdatedAug 30, 2024 | 51.3k | U4R/StructTable-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/U4R/StructTable-base) |
 | 71 | 49 | stabilityai/japanese-stable-vlmImage-to-Text | UpdatedJul 10, 2024 | [Link](https://huggingface.co/stabilityai/japanese-stable-vlm) |
@@ -4427,6 +4428,7 @@ Updated on 2025-12-13
 | Updated5 days ago | 661 | LiquidAI/LFM2-700M-GGUFText | 0.7B | [Link](https://huggingface.co/LiquidAI/LFM2-700M-GGUF) |
 | Updated2 days ago | 628 | PrimeIntellect/INTELLECT-3-FP8Text | 107B | [Link](https://huggingface.co/PrimeIntellect/INTELLECT-3-FP8) |
 | Updated1 day ago | 608 | ArliAI/GLM-4 | 110B | [Link](https://huggingface.co/ArliAI/GLM-4.5-Air-Derestricted) |
+| Updated1 day ago | 580 | allenai/Olmo-3 | 32B | [Link](https://huggingface.co/allenai/Olmo-3.1-32B-Think) |
 | Updatedabout 4 hours ago | 570 | MiniMaxAI/MiniMax-M2Text | 229B | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M2) |
 |  | 565 | deepseek-ai/DeepSeek-R1-0528Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528) |
 | Updated3 days ago | 540 | ArliAI/gpt-oss-120b-DerestrictedText | 117B | [Link](https://huggingface.co/ArliAI/gpt-oss-120b-Derestricted) |
@@ -5367,6 +5369,7 @@ Updated on 2025-12-13
 | Updatedabout 3 hours ago | 6 | wikeeyang/SRPO-for-ComfyUIText-to-Image | 12B | [Link](https://huggingface.co/wikeeyang/SRPO-for-ComfyUI) |
 | Updatedabout 5 hours ago | 6.93k | Phil2Sat/Qwen-Image-Edit-Rapid-AIO-GGUFText-to-Image | 20B | [Link](https://huggingface.co/Phil2Sat/Qwen-Image-Edit-Rapid-AIO-GGUF) |
 | 65 | 6 | FractalAIResearch/Kalaido-qwen-image-loraText-to-Image | Updated1 day ago | [Link](https://huggingface.co/FractalAIResearch/Kalaido-qwen-image-lora) |
+| 333 | 6 | GuangyuanSD/Z-Image-Re-Turbo-LoRAText-to-Image | Updated6 days ago | [Link](https://huggingface.co/GuangyuanSD/Z-Image-Re-Turbo-LoRA) |
 | 42 | 5 | Shakker-Labs/RepTextText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Shakker-Labs/RepText) |
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
@@ -5579,6 +5582,7 @@ Updated on 2025-12-13
 | 10 | Unknown | aquif-ai/aquif-Image-14BText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/aquif-ai/aquif-Image-14B) |
 | 279 |  | AIImageStudio/ReversalFilmGravure_z_Image_turboText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AIImageStudio/ReversalFilmGravure_z_Image_turbo) |
 | 30 | Unknown | inclusionAI/TwinFlowText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/inclusionAI/TwinFlow) |
+| 98.8k |  | tarn59/pixel_art_style_lora_z_image_turboText-to-Image | Updated13 days ago | [Link](https://huggingface.co/tarn59/pixel_art_style_lora_z_image_turbo) |
 
 ## Text-to-Speech
 
@@ -5631,6 +5635,7 @@ Updated on 2025-12-13
 | 1.68k | 104 | parler-tts/parler-tts-mini-expressoText-to-Speech | UpdatedMay 21, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-mini-expresso) |
 | Updatedabout 8 hours ago | 101 | neuphonic/neutts-air-q4-ggufText-to-Speech | 0.7B | [Link](https://huggingface.co/neuphonic/neutts-air-q4-gguf) |
 | Updatedabout 11 hours ago | 99 | pnnbao-ump/VieNeu-TTSText-to-Speech | 0.6B | [Link](https://huggingface.co/pnnbao-ump/VieNeu-TTS) |
+| UpdatedMay 13 | 99 | wasmdashai/vits-ar-sa-huba-v2Text-to-Speech | 83M | [Link](https://huggingface.co/wasmdashai/vits-ar-sa-huba-v2) |
 | 1.44k | 90 | kyutai/tts-1 | Updatedabout 14 hours ago | [Link](https://huggingface.co/kyutai/tts-1.6b-en_fr) |
 | UpdatedApr 18 | 90 | lex-au/Orpheus-3b-French-FT-Q8_0 | 3B | [Link](https://huggingface.co/lex-au/Orpheus-3b-French-FT-Q8_0.gguf) |
 | 3.52k | 87 | HKUSTAudio/Llasa-1BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-1B) |
@@ -5648,6 +5653,7 @@ Updated on 2025-12-13
 | Updatedabout 7 hours ago | 61 | maya-research/maya1Text-to-Speech | 3B | [Link](https://huggingface.co/maya-research/maya1) |
 | Updatedabout 13 hours ago | 58 | NandemoGHS/Anime-Llasa-3B-CaptionsText-to-Speech | 3B | [Link](https://huggingface.co/NandemoGHS/Anime-Llasa-3B-Captions) |
 | UpdatedMar 14 | 58 | saheedniyi/YarnGPT-localText-to-Speech | 0.4B | [Link](https://huggingface.co/saheedniyi/YarnGPT-local) |
+| Updated3 days ago | 57 | mlx-community/VoxCPM1 | 0.9B | [Link](https://huggingface.co/mlx-community/VoxCPM1.5) |
 | Updated1 day ago | 54 | nineninesix/kani-tts-370m-expo2025-osaka-jaText-to-Speech | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-370m-expo2025-osaka-ja) |
 | Updatedabout 8 hours ago | 51 | neuphonic/neutts-air-q8-ggufText-to-Speech | 0.7B | [Link](https://huggingface.co/neuphonic/neutts-air-q8-gguf) |
 | Updated3 days ago | 50 | nineninesix/kani-tts-400m-koText-to-Speech | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-400m-ko) |
@@ -6088,6 +6094,7 @@ Updated on 2025-12-13
 | 2 | Unknown | TensorStack/Wan2 | Updated12 days ago | [Link](https://huggingface.co/TensorStack/Wan2.1-T2V-1.3B-onnx) |
 | 9 | Unknown | worstcoder/rcm-WanText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/worstcoder/rcm-Wan) |
 | 2 | Unknown | Efficient-Large-Model/SANA-Video_2B_480p_LongLive_diffusersText-to-Video | Updatedabout 23 hours ago | [Link](https://huggingface.co/Efficient-Large-Model/SANA-Video_2B_480p_LongLive_diffusers) |
+| 2 | Unknown | TensorStack/Locomotion-amuseText-to-Video | UpdatedApr 1 | [Link](https://huggingface.co/TensorStack/Locomotion-amuse) |
 
 ## Text2Text Generation
 
