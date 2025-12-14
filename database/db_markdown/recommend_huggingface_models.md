@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-12-13
+Updated on 2025-12-14
 
 > Generated from the Hugging Face database.
 
@@ -2363,6 +2363,7 @@ Updated on 2025-12-13
 | Updatedabout 10 hours ago | 5 | Alpha-VLLM/Lumina-mGPT-2 | 8B | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-2.0-Omni) |
 | 39 | 5 | starsfriday/Qwen-Image-Edit-Remove-ClothesImage-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/starsfriday/Qwen-Image-Edit-Remove-Clothes) |
 | Updated17 minutes ago | 5 | calcuis/qwen-image-edit-plus-ggufImage-to-Image | 20B | [Link](https://huggingface.co/calcuis/qwen-image-edit-plus-gguf) |
+| 26 | 5 | casiatao/Qwen-Edit-2509-FTImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/casiatao/Qwen-Edit-2509-FT) |
 | 575 | 4 | prs-eth/marigold-normals-v1-1Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-normals-v1-1) |
 | 1k | 4 | stanfordmimi/MedVAEImage-to-Image | UpdatedMar 31 | [Link](https://huggingface.co/stanfordmimi/MedVAE) |
 | 3 | 4 | wikeeyang/UniWorld-V1-NF4Image-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/wikeeyang/UniWorld-V1-NF4) |
@@ -2901,6 +2902,7 @@ Updated on 2025-12-13
 | 9 | 1 | onnx-community/Dolphin-ONNXImage-to-Text | UpdatedAug 27 | [Link](https://huggingface.co/onnx-community/Dolphin-ONNX) |
 | 4.78k | 1 | rtr46/meiki | Updated19 days ago | [Link](https://huggingface.co/rtr46/meiki.text.detect.v0) |
 | 4 | 1 | SawanStack/gpt2-image-captioning-onnxImage-to-Text | UpdatedNov 13, 2023 | [Link](https://huggingface.co/SawanStack/gpt2-image-captioning-onnx) |
+| 5 | 1 | misoda/htr-mlw-bestImage-to-Text | UpdatedMay 14, 2023 | [Link](https://huggingface.co/misoda/htr-mlw-best) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -4515,6 +4517,7 @@ Updated on 2025-12-13
 | Updatedabout 9 hours ago | 100 | PrimeIntellect/INTELLECT-3Text | 107B | [Link](https://huggingface.co/PrimeIntellect/INTELLECT-3) |
 | 12.5k | 99 | utter-project/EuroLLM-1 | UpdatedNov 27, 2024 | [Link](https://huggingface.co/utter-project/EuroLLM-1.7B) |
 | Updatedabout 3 hours ago | 98 | unsloth/gpt-oss-20b-GGUFText | 21B | [Link](https://huggingface.co/unsloth/gpt-oss-20b-GGUF) |
+| Updated5 days ago | 98 | haykgrigorian/v2mini-eval1Text | 0.3B | [Link](https://huggingface.co/haykgrigorian/v2mini-eval1) |
 | 26.5k | 97 | google/gemma-3n-E2B-it-litert-lmText | Updated13 days ago | [Link](https://huggingface.co/google/gemma-3n-E2B-it-litert-lm) |
 | 2 | 95 | Qwen/Qwen3-30B-A3BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B) |
 | 251 | 95 | facebook/MobileLLM-ProText | Updatedabout 7 hours ago | [Link](https://huggingface.co/facebook/MobileLLM-Pro) |
@@ -4780,6 +4783,7 @@ Updated on 2025-12-13
 | 94 | 20 | ByteDance/Ouro-1 | Updated2 days ago | [Link](https://huggingface.co/ByteDance/Ouro-1.4B) |
 | 227 | 20 | ByteDance/Ouro-2 | Updated1 day ago | [Link](https://huggingface.co/ByteDance/Ouro-2.6B) |
 | Updatedabout 15 hours ago | 20 | miromind-ai/MiroThinker-v1 | 73B | [Link](https://huggingface.co/miromind-ai/MiroThinker-v1.0-72B) |
+| 32 | 20 | nvidia/gpt-oss-120b-Eagle3-throughputText | Updated4 days ago | [Link](https://huggingface.co/nvidia/gpt-oss-120b-Eagle3-throughput) |
 | 14.1k | 19 | alamios/Mistral-Small-3 | Updated10 days ago | [Link](https://huggingface.co/alamios/Mistral-Small-3.1-DRAFT-0.5B) |
 | 358 | 19 | all-hands/openhands-lm-7b-v0 | Updated1 day ago | [Link](https://huggingface.co/all-hands/openhands-lm-7b-v0.1) |
 | 105 | 19 | nvidia/OpenCodeReasoning-Nemotron-32B-IOIText | Updated6 days ago | [Link](https://huggingface.co/nvidia/OpenCodeReasoning-Nemotron-32B-IOI) |
@@ -5583,6 +5587,7 @@ Updated on 2025-12-13
 | 279 |  | AIImageStudio/ReversalFilmGravure_z_Image_turboText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AIImageStudio/ReversalFilmGravure_z_Image_turbo) |
 | 30 | Unknown | inclusionAI/TwinFlowText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/inclusionAI/TwinFlow) |
 | 98.8k |  | tarn59/pixel_art_style_lora_z_image_turboText-to-Image | Updated13 days ago | [Link](https://huggingface.co/tarn59/pixel_art_style_lora_z_image_turbo) |
+| 65 |  | alvdansen/littletiniesText-to-Image | UpdatedJun 16, 2024 | [Link](https://huggingface.co/alvdansen/littletinies) |
 
 ## Text-to-Speech
 
