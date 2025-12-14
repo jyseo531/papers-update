@@ -2624,6 +2624,7 @@ Updated on 2025-12-14
 | UpdatedNov 15, 2024 | 242 | TIGER-Lab/Mantis-8B-Idefics2Image-to-Text | 8B | [Link](https://huggingface.co/TIGER-Lab/Mantis-8B-Idefics2) |
 | UpdatedMar 8 | 234 | convergence-ai/proxy-lite-3bImage-to-Text | 4B | [Link](https://huggingface.co/convergence-ai/proxy-lite-3b) |
 | Updated2 days ago | 230 | HelloKKMe/GTA1-32BImage-to-Text | 33B | [Link](https://huggingface.co/HelloKKMe/GTA1-32B) |
+| UpdatedMar 28 | 229 | David-Magdy/TR_OCR_LARGEImage-to-Text | 0.6B | [Link](https://huggingface.co/David-Magdy/TR_OCR_LARGE) |
 | 7.46k | 213 | xtuner/llava-llama-3-8b-v1_1-ggufImage-to-Text | UpdatedApr 30, 2024 | [Link](https://huggingface.co/xtuner/llava-llama-3-8b-v1_1-gguf) |
 | UpdatedMar 5 | 180 | r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUF) |
 | Updated6 days ago | 177 | thesby/Qwen3-VL-8B-NSFW-Caption-V4 | 9B | [Link](https://huggingface.co/thesby/Qwen3-VL-8B-NSFW-Caption-V4.5) |
@@ -5301,6 +5302,7 @@ Updated on 2025-12-14
 | 42 | 16 | codermert/burcuufinal_fluxxText-to-Image | Updated5 days ago | [Link](https://huggingface.co/codermert/burcuufinal_fluxx) |
 | 326 | 16 | rockerBOO/flux | Updatedabout 10 hours ago | [Link](https://huggingface.co/rockerBOO/flux.1-dev-SRPO) |
 | 247 | 16 | Photoroom/prx-1024-t2i-betaText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/Photoroom/prx-1024-t2i-beta) |
+|  | 15 | Shakker-Labs/AWPortrait-ZText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/Shakker-Labs/AWPortrait-Z) |
 | 8 | 14 | mikeyandfriends/PixelWave_FLUX | Updated1 day ago | [Link](https://huggingface.co/mikeyandfriends/PixelWave_FLUX.1-schnell_04) |
 |  | 13 | aaronaftab/mirage-ghibliText-to-Image | Updatedabout 14 hours ago | [Link](https://huggingface.co/aaronaftab/mirage-ghibli) |
 | 4 | 13 | fumeisama/drawatoon-v1Text-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/fumeisama/drawatoon-v1) |
@@ -5588,6 +5590,7 @@ Updated on 2025-12-14
 | 30 | Unknown | inclusionAI/TwinFlowText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/inclusionAI/TwinFlow) |
 | 98.8k |  | tarn59/pixel_art_style_lora_z_image_turboText-to-Image | Updated13 days ago | [Link](https://huggingface.co/tarn59/pixel_art_style_lora_z_image_turbo) |
 | 65 |  | alvdansen/littletiniesText-to-Image | UpdatedJun 16, 2024 | [Link](https://huggingface.co/alvdansen/littletinies) |
+| 9 | Unknown | ProGamerGov/qwen-360-diffusionText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/ProGamerGov/qwen-360-diffusion) |
 
 ## Text-to-Speech
 
@@ -5674,6 +5677,7 @@ Updated on 2025-12-14
 | Updatedabout 12 hours ago | 31 | pnnbao-ump/VieNeu-TTS-1000hText-to-Speech | 0.6B | [Link](https://huggingface.co/pnnbao-ump/VieNeu-TTS-1000h) |
 | Updatedabout 7 hours ago | 30 | microsoft/VibeVoice-LargeText-to-Speech | 9B | [Link](https://huggingface.co/microsoft/VibeVoice-Large) |
 | Updatedabout 20 hours ago | 30 | SVECTOR-CORPORATION/Continue-TTSText-to-Speech | 4B | [Link](https://huggingface.co/SVECTOR-CORPORATION/Continue-TTS) |
+| Updatedabout 3 hours ago | 30 | Aratako/T5Gemma-TTS-2b-2bText-to-Speech | 5B | [Link](https://huggingface.co/Aratako/T5Gemma-TTS-2b-2b) |
 | 3.72k | 29 | parler-tts/parler-tts-mini-multilingual-v1 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-mini-multilingual-v1.1) |
 | 1.34k | 29 | Xenova/speecht5_ttsText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/Xenova/speecht5_tts) |
 | 1.2k | 27 | saheedniyi/YarnGPTText-to-Speech | UpdatedJan 29 | [Link](https://huggingface.co/saheedniyi/YarnGPT) |
@@ -5998,6 +6002,7 @@ Updated on 2025-12-14
 | 43 | 2 | guoyww/animatediff-motion-lora-rolling-clockwiseText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-rolling-clockwise) |
 | Updatedabout 6 hours ago | 2 | QuantStack/HoloCine-GGUFText-to-Video | 14B | [Link](https://huggingface.co/QuantStack/HoloCine-GGUF) |
 | 6k | 2 | guoyww/animatediff-motion-lora-tilt-upText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-tilt-up) |
+| 22 | 2 | artificialguybr/FishEye-Redmond-WAN2-T2V-14BText-to-Video | Updated1 day ago | [Link](https://huggingface.co/artificialguybr/FishEye-Redmond-WAN2-T2V-14B) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
