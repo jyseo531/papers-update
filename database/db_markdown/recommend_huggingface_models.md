@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-12-14
+Updated on 2025-12-15
 
 > Generated from the Hugging Face database.
 
@@ -5352,6 +5352,7 @@ Updated on 2025-12-14
 | 94 | 8 | ostris/wan22_i2v_14b_orbit_shot_loraText-to-Image | Updatedabout 19 hours ago | [Link](https://huggingface.co/ostris/wan22_i2v_14b_orbit_shot_lora) |
 | 546 | 8 | duongve/NetaYume-Lumina-Image-2 | Updated5 days ago | [Link](https://huggingface.co/duongve/NetaYume-Lumina-Image-2.0) |
 | 35 | 8 | OPPOer/Qwen-Image-PruningText-to-Image | Updated8 days ago | [Link](https://huggingface.co/OPPOer/Qwen-Image-Pruning) |
+| 10 | 8 | lokiz666/Realgen-detection-modelsText-to-Image | Updated4 days ago | [Link](https://huggingface.co/lokiz666/Realgen-detection-models) |
 | 1.69k | 7 | silveroxides/Chroma-GGUFText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/silveroxides/Chroma-GGUF) |
 | 58 | 7 | Freepik/F-Lite-TextureText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Freepik/F-Lite-Texture) |
 | 41 | 7 | renderartist/simplevectorhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/simplevectorhidream) |
