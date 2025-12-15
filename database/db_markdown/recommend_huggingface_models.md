@@ -2620,6 +2620,7 @@ Updated on 2025-12-15
 | UpdatedJan 6, 2024 | 441 | Ransaka/TrOCR-SinhalaImage-to-Text | 0.3B | [Link](https://huggingface.co/Ransaka/TrOCR-Sinhala) |
 | UpdatedSep 28 | 436 | mradermacher/dunhuang-qwen2 | 8B | [Link](https://huggingface.co/mradermacher/dunhuang-qwen2.5-vl-7b-GGUF) |
 | UpdatedNov 28, 2024 | 429 | MohamedRashad/arabic-small-nougatImage-to-Text | 0.2B | [Link](https://huggingface.co/MohamedRashad/arabic-small-nougat) |
+| Updated9 days ago | 424 | InternScience/StructTable-InternVL2-1BImage-to-Text | 0.9B | [Link](https://huggingface.co/InternScience/StructTable-InternVL2-1B) |
 | UpdatedJul 18 | 323 | loay/ArabicOCR-Qwen2 | 8B | [Link](https://huggingface.co/loay/ArabicOCR-Qwen2.5-VL-7B-Vision) |
 | UpdatedNov 15, 2024 | 242 | TIGER-Lab/Mantis-8B-Idefics2Image-to-Text | 8B | [Link](https://huggingface.co/TIGER-Lab/Mantis-8B-Idefics2) |
 | UpdatedMar 8 | 234 | convergence-ai/proxy-lite-3bImage-to-Text | 4B | [Link](https://huggingface.co/convergence-ai/proxy-lite-3b) |
@@ -5592,6 +5593,7 @@ Updated on 2025-12-15
 | 98.8k |  | tarn59/pixel_art_style_lora_z_image_turboText-to-Image | Updated13 days ago | [Link](https://huggingface.co/tarn59/pixel_art_style_lora_z_image_turbo) |
 | 65 |  | alvdansen/littletiniesText-to-Image | UpdatedJun 16, 2024 | [Link](https://huggingface.co/alvdansen/littletinies) |
 | 9 | Unknown | ProGamerGov/qwen-360-diffusionText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/ProGamerGov/qwen-360-diffusion) |
+| 8 | Unknown | MutantSparrow/RayText-to-Image | Updated2 days ago | [Link](https://huggingface.co/MutantSparrow/Ray) |
 
 ## Text-to-Speech
 
@@ -6106,6 +6108,7 @@ Updated on 2025-12-15
 | 9 | Unknown | worstcoder/rcm-WanText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/worstcoder/rcm-Wan) |
 | 2 | Unknown | Efficient-Large-Model/SANA-Video_2B_480p_LongLive_diffusersText-to-Video | Updatedabout 23 hours ago | [Link](https://huggingface.co/Efficient-Large-Model/SANA-Video_2B_480p_LongLive_diffusers) |
 | 2 | Unknown | TensorStack/Locomotion-amuseText-to-Video | UpdatedApr 1 | [Link](https://huggingface.co/TensorStack/Locomotion-amuse) |
+| 2 | Unknown | Aquiles-ai/Wan2 | Updatedabout 10 hours ago | [Link](https://huggingface.co/Aquiles-ai/Wan2.2-Turbo) |
 
 ## Text2Text Generation
 
