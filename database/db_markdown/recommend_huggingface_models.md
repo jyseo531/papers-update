@@ -48,6 +48,7 @@ Updated on 2025-12-16
 | UpdatedMay 12 | 55.1k | unsloth/gemma-3-4b-it-unsloth-bnb-4bitAny-to-Any | 3B | [Link](https://huggingface.co/unsloth/gemma-3-4b-it-unsloth-bnb-4bit) |
 | Updated1 day ago | 53 | cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-4bitAny-to-Any | 6B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-4bit) |
 | Updated17 days ago | 53 | sensefvg/InteractiveOmni-4BAny-to-Any | 6B | [Link](https://huggingface.co/sensefvg/InteractiveOmni-4B) |
+| UpdatedApr 23 | 53 | unsloth/Llama-4-Scout-17B-16E-unsloth-bnb-8bitAny-to-Any | 109B | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-unsloth-bnb-8bit) |
 | UpdatedAug 14 | 48k | unsloth/gemma-3-4b-it-GGUFAny-to-Any | 4B | [Link](https://huggingface.co/unsloth/gemma-3-4b-it-GGUF) |
 | UpdatedSep 11, 2024 | 47 | ljnlonoljpiljm/florence-2-large-nsfw-ptAny-to-Any | 0.8B | [Link](https://huggingface.co/ljnlonoljpiljm/florence-2-large-nsfw-pt) |
 | 32.5k | 44 | onnx-community/Janus-Pro-1B-ONNXAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/onnx-community/Janus-Pro-1B-ONNX) |
@@ -1883,6 +1884,7 @@ Updated on 2025-12-16
 | Updatedabout 10 hours ago | 44 | internlm/JanusCoder-14BImage-Text-to-Text | 15B | [Link](https://huggingface.co/internlm/JanusCoder-14B) |
 | Updatedabout 3 hours ago | 43 | OpenGVLab/InternVL3_5-241B-A28B-InstructImage-Text-to-Text | 241B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-241B-A28B-Instruct) |
 | Updatedabout 21 hours ago | 43 | ZJU-AI4H/Hulu-Med-32BImage-Text-to-Text | 33B | [Link](https://huggingface.co/ZJU-AI4H/Hulu-Med-32B) |
+| Updated6 days ago | 43 | allura-org/Luna-27B-v0Image-Text-to-Text | 27B | [Link](https://huggingface.co/allura-org/Luna-27B-v0) |
 | Updatedabout 11 hours ago | 41 | OpenGVLab/InternVL3_5-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-4B) |
 | 6 | 40 | convergence-ai/proxy-lite-3bImage-Text-to-Text | Updatedabout 15 hours ago | [Link](https://huggingface.co/convergence-ai/proxy-lite-3b) |
 | 25 | 40 | Hcompany/Holo1-7BImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/Hcompany/Holo1-7B) |
@@ -4449,6 +4451,7 @@ Updated on 2025-12-16
 | Updatedabout 5 hours ago | 384 | RUC-DataLab/DeepAnalyze-8BText | 8B | [Link](https://huggingface.co/RUC-DataLab/DeepAnalyze-8B) |
 | Updated5 days ago | 376 | NousResearch/Hermes-4-70B-FP8Text | 71B | [Link](https://huggingface.co/NousResearch/Hermes-4-70B-FP8) |
 |  | 356 | Qwen/QwQ-32BText | Updatedabout 8 hours ago | [Link](https://huggingface.co/Qwen/QwQ-32B) |
+| Updated3 days ago | 355 | Nanbeige/Nanbeige4-3B-BaseText | 4B | [Link](https://huggingface.co/Nanbeige/Nanbeige4-3B-Base) |
 | Updatedabout 6 hours ago | 351 | K-intelligence/Midm-2 | 12B | [Link](https://huggingface.co/K-intelligence/Midm-2.0-Base-Instruct) |
 |  | 339 | deepseek-ai/DeepSeek-Prover-V2-671BText | Updatedabout 1 hour ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-Prover-V2-671B) |
 | Updatedabout 9 hours ago | 329 | Kwaipilot/KAT-DevText | 33B | [Link](https://huggingface.co/Kwaipilot/KAT-Dev) |
@@ -4589,6 +4592,7 @@ Updated on 2025-12-16
 | 926 | 54 | arcee-ai/Arcee-BlitzText | Updated4 days ago | [Link](https://huggingface.co/arcee-ai/Arcee-Blitz) |
 | 658 | 54 | ByteDance-Seed/Seed-Coder-8B-InstructText | Updatedabout 6 hours ago | [Link](https://huggingface.co/ByteDance-Seed/Seed-Coder-8B-Instruct) |
 | Updated2 days ago | 54 | S4nfs/Neeto-1 | 8B | [Link](https://huggingface.co/S4nfs/Neeto-1.0-8b) |
+| Updatedabout 23 hours ago | 54 | allenai/Bolmo-7BText | 8B | [Link](https://huggingface.co/allenai/Bolmo-7B) |
 | Updated6 days ago | 53 | GAIR/LIMIText | 353B | [Link](https://huggingface.co/GAIR/LIMI) |
 | 660 | 52 | nvidia/Llama-3_3-Nemotron-Super-49B-v1Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/nvidia/Llama-3_3-Nemotron-Super-49B-v1) |
 | 22 | 52 | Qwen/Qwen3-0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-0.6B) |
@@ -5945,6 +5949,7 @@ Updated on 2025-12-16
 | 141 | 12 | finetrainers/pika-dissolve-v0Text-to-Video | UpdatedJan 16 | [Link](https://huggingface.co/finetrainers/pika-dissolve-v0) |
 | 53 | 11 | lucataco/hunyuan-musubi-lora-heygen-6Text-to-Video | UpdatedJan 13 | [Link](https://huggingface.co/lucataco/hunyuan-musubi-lora-heygen-6) |
 | 471 | 11 | Skywork/SkyReels-V2-DF-14B-540PText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-DF-14B-540P) |
+| 23 | 10 | APRIL-AIGC/T3-VideoText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/APRIL-AIGC/T3-Video) |
 | 363 | 9 | Skywork/SkyReels-V2-T2V-14B-540PText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-T2V-14B-540P) |
 | 638 | 8 | calcuis/mochiText-to-Video | Updated22 days ago | [Link](https://huggingface.co/calcuis/mochi) |
 | 123k | 8 | guoyww/animatediff-motion-lora-zoom-inText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-zoom-in) |
