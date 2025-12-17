@@ -18,6 +18,7 @@ Updated on 2025-12-17
 | Updated3 days ago | 500 | thenexthub/EverosAny-to-Any | 1000B | [Link](https://huggingface.co/thenexthub/Everos) |
 | Updated3 days ago | 443 | cpatonn/Qwen3-Omni-30B-A3B-Instruct-AWQ-8bitAny-to-Any | 14B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Instruct-AWQ-8bit) |
 | Updated22 days ago | 408 | cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-8bitAny-to-Any | 10B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-8bit) |
+| UpdatedJun 9 | 405 | RedHatAI/gemma-3-4b-it-FP8-dynamicAny-to-Any | 4B | [Link](https://huggingface.co/RedHatAI/gemma-3-4b-it-FP8-dynamic) |
 | Updatedabout 16 hours ago | 398 | QuantStack/HiDream-E1-1-GGUFAny-to-Any | 17B | [Link](https://huggingface.co/QuantStack/HiDream-E1-1-GGUF) |
 | 121k | 381 | deepseek-ai/Janus-Pro-1BAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-1B) |
 | Updatedabout 10 hours ago | 316 | wcy1122/MGM-Omni-TTS-2B-0927Any-to-Any | 2B | [Link](https://huggingface.co/wcy1122/MGM-Omni-TTS-2B-0927) |
@@ -4859,6 +4860,7 @@ Updated on 2025-12-17
 | 1k | 14 | unsloth/DeepSeek-R1-0528Text | Updated2 days ago | [Link](https://huggingface.co/unsloth/DeepSeek-R1-0528) |
 | 57 | 14 | katanemo/Arch-Agent-32BText | Updated3 days ago | [Link](https://huggingface.co/katanemo/Arch-Agent-32B) |
 | Updatedabout 11 hours ago | 14 | CohereLabs/command-a-translate-08-2025Text | 111B | [Link](https://huggingface.co/CohereLabs/command-a-translate-08-2025) |
+| Updated1 day ago | 14 | nvidia/Nemotron-Cascade-14B-ThinkingText | 15B | [Link](https://huggingface.co/nvidia/Nemotron-Cascade-14B-Thinking) |
 | Updatedabout 23 hours ago | 13 | inclusionAI/Ring-flash-linear-2 | 104B | [Link](https://huggingface.co/inclusionAI/Ring-flash-linear-2.0) |
 | Updated1 day ago | 13 | cerebras/MiniMax-M2-REAP-162B-A10BText | 162B | [Link](https://huggingface.co/cerebras/MiniMax-M2-REAP-162B-A10B) |
 | Updatedabout 22 hours ago | 13.2k | unsloth/Qwen3-Next-80B-A3B-Thinking-GGUFText | 80B | [Link](https://huggingface.co/unsloth/Qwen3-Next-80B-A3B-Thinking-GGUF) |
@@ -4872,6 +4874,7 @@ Updated on 2025-12-17
 | Updated3 days ago | 8.32k | trillionlabs/Tri-21BText | 21B | [Link](https://huggingface.co/trillionlabs/Tri-21B) |
 | Updatedabout 14 hours ago | 8 | janhq/Jan-v1-4B-GGUFText | 4B | [Link](https://huggingface.co/janhq/Jan-v1-4B-GGUF) |
 | Updatedabout 16 hours ago | 8.51k | nvidia/NVIDIA-Nemotron-Nano-12B-v2Text | 12B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-12B-v2) |
+| Updated1 day ago | 8 | nvidia/Nemotron-Cascade-8BText | 8B | [Link](https://huggingface.co/nvidia/Nemotron-Cascade-8B) |
 | Updated2 days ago | 7.65k | Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8) |
 | Updatedabout 4 hours ago | 7 | tencent/Hunyuan-7B-InstructText | 8B | [Link](https://huggingface.co/tencent/Hunyuan-7B-Instruct) |
 | Updated4 days ago | 7k | bartowski/cerebras_GLM-4 | 85B | [Link](https://huggingface.co/bartowski/cerebras_GLM-4.5-Air-REAP-82B-A12B-GGUF) |
@@ -5351,6 +5354,7 @@ Updated on 2025-12-17
 |  | 10 | openfree/winslow-homerText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/openfree/winslow-homer) |
 | Updated3 minutes ago | 10 | city96/Qwen-Image-ggufText-to-Image | 20B | [Link](https://huggingface.co/city96/Qwen-Image-gguf) |
 |  | 10 | Shakker-Labs/AWPortrait-QWText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/Shakker-Labs/AWPortrait-QW) |
+| 88 | 10 | mrfakename/Z-Image-TurboText-to-Image | Updated21 days ago | [Link](https://huggingface.co/mrfakename/Z-Image-Turbo) |
 |  | 9 | ART-Release/ART_v1 | Updatedabout 23 hours ago | [Link](https://huggingface.co/ART-Release/ART_v1.0) |
 | 9 | 9 | motimalu/wan-flat-color-v2Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/motimalu/wan-flat-color-v2) |
 | 11 | 9 | ShoufaChen/PixelFlow-Text2ImageText-to-Image | Updatedabout 19 hours ago | [Link](https://huggingface.co/ShoufaChen/PixelFlow-Text2Image) |
@@ -5903,6 +5907,7 @@ Updated on 2025-12-17
 | 7 | Unknown | IbrahimSalah/Arabic-F5-TTS-v2Text-to-Speech | Updated29 days ago | [Link](https://huggingface.co/IbrahimSalah/Arabic-F5-TTS-v2) |
 | 64 | Unknown | ResembleAI/chatterbox-turboText-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/ResembleAI/chatterbox-turbo) |
 | 12 | Unknown | ResembleAI/chatterbox-turbo-ONNXText-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/ResembleAI/chatterbox-turbo-ONNX) |
+| 172 | Unknown | FunAudioLLM/Fun-CosyVoice3-0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512) |
 
 ## Text-to-Video
 
