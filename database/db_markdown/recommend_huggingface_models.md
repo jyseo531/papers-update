@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-12-16
+Updated on 2025-12-17
 
 > Generated from the Hugging Face database.
 
@@ -59,6 +59,7 @@ Updated on 2025-12-16
 | 16.8k | 38 | openbmb/MiniCPM-o-2_6-int4Any-to-Any | UpdatedJan 22 | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6-int4) |
 | Updatedabout 6 hours ago | 37 | inclusionAI/Ming-UniVision-16B-A3BAny-to-Any | 19B | [Link](https://huggingface.co/inclusionAI/Ming-UniVision-16B-A3B) |
 | Updated14 days ago | 37 | sensefvg/InteractiveOmni-8BAny-to-Any | 10B | [Link](https://huggingface.co/sensefvg/InteractiveOmni-8B) |
+| UpdatedAug 14 | 37k | unsloth/gemma-3-12b-it-GGUFAny-to-Any | 12B | [Link](https://huggingface.co/unsloth/gemma-3-12b-it-GGUF) |
 | Updated6 days ago | 36 | CalmState/gemma-3-4b-polyglot-v1Any-to-Any | 4B | [Link](https://huggingface.co/CalmState/gemma-3-4b-polyglot-v1) |
 | 94 | 34 | EPFL-VILAB/4M-21_XLAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-21_XL) |
 | Updated1 day ago | 31 | sensenova/InteractiveOmni-4BAny-to-Any | 6B | [Link](https://huggingface.co/sensenova/InteractiveOmni-4B) |
@@ -2123,6 +2124,7 @@ Updated on 2025-12-16
 | Updatedabout 7 hours ago | 1.17k | mlfoundations/Gelato-30B-A3BImage-Text-to-Text | 31B | [Link](https://huggingface.co/mlfoundations/Gelato-30B-A3B) |
 | Updated1 day ago | 1.2k | bartowski/microsoft_Fara-7B-GGUFImage-Text-to-Text | 8B | [Link](https://huggingface.co/bartowski/microsoft_Fara-7B-GGUF) |
 | Updatedabout 16 hours ago | 1.7k | SerialKicked/Qwen3-VL-32B-Thinking-heretic-GGUFImage-Text-to-Text | 33B | [Link](https://huggingface.co/SerialKicked/Qwen3-VL-32B-Thinking-heretic-GGUF) |
+| Updatedabout 4 hours ago | 1.44k | browser-use/bu-30b-a3b-previewImage-Text-to-Text | 31B | [Link](https://huggingface.co/browser-use/bu-30b-a3b-preview) |
 | 1.07M |  | meta-llama/Llama-3 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) |
 | 1.49M |  | Qwen/Qwen2-VL-7B-InstructImage-Text-to-Text | Updated19 days ago | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) |
 | 288k |  | microsoft/Phi-3 | UpdatedSep 26, 2024 | [Link](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) |
@@ -4502,6 +4504,7 @@ Updated on 2025-12-16
 | Updatedabout 4 hours ago | 138 | AvitoTech/avibeText | 8B | [Link](https://huggingface.co/AvitoTech/avibe) |
 | Updatedabout 6 hours ago | 136 | naver-hyperclovax/HyperCLOVAX-SEED-Think-14BText | 15B | [Link](https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Think-14B) |
 | 324 | 133 | moonshotai/Kimi-Dev-72BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-Dev-72B) |
+| Updated1 day ago | 129 | allenai/Bolmo-1BText | 1B | [Link](https://huggingface.co/allenai/Bolmo-1B) |
 | Updated6 days ago | 128 | arcee-ai/Trinity-Mini-BaseText | 26B | [Link](https://huggingface.co/arcee-ai/Trinity-Mini-Base) |
 | Updatedabout 18 hours ago | 125 | NousResearch/Hermes-4-405BText | 406B | [Link](https://huggingface.co/NousResearch/Hermes-4-405B) |
 | Updated3 days ago | 125 | janhq/Jan-v1-edgeText | 2B | [Link](https://huggingface.co/janhq/Jan-v1-edge) |
@@ -4527,6 +4530,7 @@ Updated on 2025-12-16
 | 12.5k | 99 | utter-project/EuroLLM-1 | UpdatedNov 27, 2024 | [Link](https://huggingface.co/utter-project/EuroLLM-1.7B) |
 | Updatedabout 3 hours ago | 98 | unsloth/gpt-oss-20b-GGUFText | 21B | [Link](https://huggingface.co/unsloth/gpt-oss-20b-GGUF) |
 | Updated5 days ago | 98 | haykgrigorian/v2mini-eval1Text | 0.3B | [Link](https://huggingface.co/haykgrigorian/v2mini-eval1) |
+| Updatedabout 2 hours ago | 98 | XiaomiMiMo/MiMo-V2-FlashText | 310B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash) |
 | 26.5k | 97 | google/gemma-3n-E2B-it-litert-lmText | Updated13 days ago | [Link](https://huggingface.co/google/gemma-3n-E2B-it-litert-lm) |
 | 2 | 95 | Qwen/Qwen3-30B-A3BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B) |
 | 251 | 95 | facebook/MobileLLM-ProText | Updatedabout 7 hours ago | [Link](https://huggingface.co/facebook/MobileLLM-Pro) |
