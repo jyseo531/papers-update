@@ -2608,6 +2608,7 @@ Updated on 2025-12-18
 | 8 | Unknown | huawei-bayerlab/windowseat-reflection-removal-v1-0Image-to-Image | Updated2 days ago | [Link](https://huggingface.co/huawei-bayerlab/windowseat-reflection-removal-v1-0) |
 | 122 |  | dx8152/Qwen-Edit-2509-Light-MigrationImage-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/dx8152/Qwen-Edit-2509-Light-Migration) |
 | 117 |  | starsfriday/Qwen-Image-Edit-2509-Upscale2KImage-to-Image | Updated13 days ago | [Link](https://huggingface.co/starsfriday/Qwen-Image-Edit-2509-Upscale2K) |
+| 3 | Unknown | prs-eth/stereospace-v1-0Image-to-Image | Updated6 days ago | [Link](https://huggingface.co/prs-eth/stereospace-v1-0) |
 
 ## Image-to-Text
 
@@ -4440,6 +4441,7 @@ Updated on 2025-12-18
 | Updated5 days ago | 663k | lmstudio-community/gpt-oss-20b-MLX-8bitText | 21B | [Link](https://huggingface.co/lmstudio-community/gpt-oss-20b-MLX-8bit) |
 | Updated5 days ago | 661 | LiquidAI/LFM2-700M-GGUFText | 0.7B | [Link](https://huggingface.co/LiquidAI/LFM2-700M-GGUF) |
 | Updated2 days ago | 628 | PrimeIntellect/INTELLECT-3-FP8Text | 107B | [Link](https://huggingface.co/PrimeIntellect/INTELLECT-3-FP8) |
+| Updatedabout 5 hours ago | 623 | NousResearch/nomos-1Text | 31B | [Link](https://huggingface.co/NousResearch/nomos-1) |
 | Updated1 day ago | 608 | ArliAI/GLM-4 | 110B | [Link](https://huggingface.co/ArliAI/GLM-4.5-Air-Derestricted) |
 | Updated1 day ago | 580 | allenai/Olmo-3 | 32B | [Link](https://huggingface.co/allenai/Olmo-3.1-32B-Think) |
 | Updatedabout 4 hours ago | 570 | MiniMaxAI/MiniMax-M2Text | 229B | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M2) |
@@ -4675,6 +4677,7 @@ Updated on 2025-12-18
 | Updatedabout 1 hour ago | 33 | Kwai-Klear/Klear-46B-A2 | 46B | [Link](https://huggingface.co/Kwai-Klear/Klear-46B-A2.5B-Instruct) |
 | Updatedabout 14 hours ago | 33 | inclusionAI/Ring-flash-2 | 103B | [Link](https://huggingface.co/inclusionAI/Ring-flash-2.0) |
 | Updatedabout 2 hours ago | 33 | inclusionAI/Ring-1TText | 1000B | [Link](https://huggingface.co/inclusionAI/Ring-1T) |
+| Updated1 day ago | 33 | XiaomiMiMo/MiMo-V2-Flash-BaseText | 310B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash-Base) |
 | 5.81k | 32 | trillionlabs/Trillion-7B-previewText | Updatedabout 3 hours ago | [Link](https://huggingface.co/trillionlabs/Trillion-7B-preview) |
 | 224 | 32 | JetBrains/Mellum-4b-sft-pythonText | Updated6 days ago | [Link](https://huggingface.co/JetBrains/Mellum-4b-sft-python) |
 | 131 | 32 | nvidia/AceReason-Nemotron-14BText | Updatedabout 3 hours ago | [Link](https://huggingface.co/nvidia/AceReason-Nemotron-14B) |
@@ -5701,6 +5704,7 @@ Updated on 2025-12-18
 | 25 | 31 | amphion/VevoText-to-Speech | Updated10 days ago | [Link](https://huggingface.co/amphion/Vevo) |
 | Updatedabout 8 hours ago | 31 | aoi-ot/VibeVoice-LargeText-to-Speech | 9B | [Link](https://huggingface.co/aoi-ot/VibeVoice-Large) |
 | Updatedabout 12 hours ago | 31 | pnnbao-ump/VieNeu-TTS-1000hText-to-Speech | 0.6B | [Link](https://huggingface.co/pnnbao-ump/VieNeu-TTS-1000h) |
+| Updatedabout 11 hours ago | 31 | YatharthS/MiraTTSText-to-Speech | 0.5B | [Link](https://huggingface.co/YatharthS/MiraTTS) |
 | Updatedabout 7 hours ago | 30 | microsoft/VibeVoice-LargeText-to-Speech | 9B | [Link](https://huggingface.co/microsoft/VibeVoice-Large) |
 | Updatedabout 20 hours ago | 30 | SVECTOR-CORPORATION/Continue-TTSText-to-Speech | 4B | [Link](https://huggingface.co/SVECTOR-CORPORATION/Continue-TTS) |
 | Updatedabout 3 hours ago | 30 | Aratako/T5Gemma-TTS-2b-2bText-to-Speech | 5B | [Link](https://huggingface.co/Aratako/T5Gemma-TTS-2b-2b) |
@@ -6033,6 +6037,7 @@ Updated on 2025-12-18
 | Updatedabout 6 hours ago | 2 | QuantStack/HoloCine-GGUFText-to-Video | 14B | [Link](https://huggingface.co/QuantStack/HoloCine-GGUF) |
 | 6k | 2 | guoyww/animatediff-motion-lora-tilt-upText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-tilt-up) |
 | 22 | 2 | artificialguybr/FishEye-Redmond-WAN2-T2V-14BText-to-Video | Updated1 day ago | [Link](https://huggingface.co/artificialguybr/FishEye-Redmond-WAN2-T2V-14B) |
+| 71 | 2 | htdong/Wan-Alpha-v2 | Updatedabout 21 hours ago | [Link](https://huggingface.co/htdong/Wan-Alpha-v2.0) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
