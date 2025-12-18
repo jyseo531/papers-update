@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-12-17
+Updated on 2025-12-18
 
 > Generated from the Hugging Face database.
 
@@ -2083,6 +2083,7 @@ Updated on 2025-12-17
 | Updatedabout 8 hours ago | 6.26k | Qwen/Qwen3-VL-30B-A3B-ThinkingImage-Text-to-Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Thinking) |
 | Updatedabout 14 hours ago | 6 | Qwen/Qwen3-VL-8B-InstructImage-Text-to-Text | 9B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct) |
 | Updated1 day ago | 6.07k | IDEA-Research/Rex-OmniImage-Text-to-Text | 4B | [Link](https://huggingface.co/IDEA-Research/Rex-Omni) |
+| Updatedabout 4 hours ago | 6.08k | bartowski/zai-org_GLM-4 | 9B | [Link](https://huggingface.co/bartowski/zai-org_GLM-4.6V-Flash-GGUF) |
 | 168 | 5 | MBZUAI/AINImage-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/MBZUAI/AIN) |
 | Updatedabout 9 hours ago | 5 | Skywork/Skywork-R1V3-38BImage-Text-to-Text | 38B | [Link](https://huggingface.co/Skywork/Skywork-R1V3-38B) |
 | Updatedabout 7 hours ago | 5 | internlm/Intern-S1Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1) |
@@ -4476,6 +4477,7 @@ Updated on 2025-12-17
 | Updatedabout 20 hours ago | 234 | radicalnumerics/RND1-Base-0910Text | 31B | [Link](https://huggingface.co/radicalnumerics/RND1-Base-0910) |
 | Updated1 day ago | 234 | p-e-w/gpt-oss-20b-hereticText | 21B | [Link](https://huggingface.co/p-e-w/gpt-oss-20b-heretic) |
 | Updatedabout 10 hours ago | 232 | inclusionAI/Ling-mini-2 | 16B | [Link](https://huggingface.co/inclusionAI/Ling-mini-2.0) |
+| Updated2 days ago | 220 | utter-project/EuroLLM-22B-Instruct-2512Text | 23B | [Link](https://huggingface.co/utter-project/EuroLLM-22B-Instruct-2512) |
 | Updatedabout 18 hours ago | 217 | google/gemma-3-270mText | 0.3B | [Link](https://huggingface.co/google/gemma-3-270m) |
 | 2.13k | 215 | XiaomiMiMo/MiMo-7B-RLText | Updatedabout 12 hours ago | [Link](https://huggingface.co/XiaomiMiMo/MiMo-7B-RL) |
 | Updatedabout 11 hours ago | 206 | NousResearch/Hermes-4 | 36B | [Link](https://huggingface.co/NousResearch/Hermes-4.3-36B) |
@@ -5324,6 +5326,7 @@ Updated on 2025-12-17
 | 112 | 16 | KlingTeam/SVG-T2IText-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/KlingTeam/SVG-T2I) |
 |  | 15 | Shakker-Labs/AWPortrait-ZText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/Shakker-Labs/AWPortrait-Z) |
 | 8 | 14 | mikeyandfriends/PixelWave_FLUX | Updated1 day ago | [Link](https://huggingface.co/mikeyandfriends/PixelWave_FLUX.1-schnell_04) |
+| 2.23k | 14 | mingyi456/Z-Image-Turbo-DF11-ComfyUIText-to-Image | Updated16 days ago | [Link](https://huggingface.co/mingyi456/Z-Image-Turbo-DF11-ComfyUI) |
 |  | 13 | aaronaftab/mirage-ghibliText-to-Image | Updatedabout 14 hours ago | [Link](https://huggingface.co/aaronaftab/mirage-ghibli) |
 | 4 | 13 | fumeisama/drawatoon-v1Text-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/fumeisama/drawatoon-v1) |
 | 2.1k | 13 | city96/HiDream-I1-Full-ggufText-to-Image | Updated1 day ago | [Link](https://huggingface.co/city96/HiDream-I1-Full-gguf) |
