@@ -38,6 +38,7 @@ Updated on 2025-12-19
 | 455 | 149 | NexaAI/OmniNeural-4BAny-to-Any | Updated4 days ago | [Link](https://huggingface.co/NexaAI/OmniNeural-4B) |
 | UpdatedApr 8 | 144 | summykai/gemma3-27b-abliterated-dpoAny-to-Any | 27B | [Link](https://huggingface.co/summykai/gemma3-27b-abliterated-dpo) |
 | 9.96k | 141 | deepseek-ai/JanusFlow-1 | Updated29 days ago | [Link](https://huggingface.co/deepseek-ai/JanusFlow-1.3B) |
+| UpdatedMay 12 | 101k | unsloth/gemma-3-12b-it-unsloth-bnb-4bitAny-to-Any | 12B | [Link](https://huggingface.co/unsloth/gemma-3-12b-it-unsloth-bnb-4bit) |
 | 4.22k | 97 | inclusionAI/Ming-Lite-OmniAny-to-Any | Updatedabout 3 hours ago | [Link](https://huggingface.co/inclusionAI/Ming-Lite-Omni) |
 | UpdatedMay 22 | 88.7k | meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8Any-to-Any | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8) |
 | 36.8k | 83 | openbmb/MiniCPM-o-2_6-ggufAny-to-Any | UpdatedJan 17 | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6-gguf) |
@@ -2130,6 +2131,7 @@ Updated on 2025-12-19
 | Updated1 day ago | 1.2k | bartowski/microsoft_Fara-7B-GGUFImage-Text-to-Text | 8B | [Link](https://huggingface.co/bartowski/microsoft_Fara-7B-GGUF) |
 | Updatedabout 16 hours ago | 1.7k | SerialKicked/Qwen3-VL-32B-Thinking-heretic-GGUFImage-Text-to-Text | 33B | [Link](https://huggingface.co/SerialKicked/Qwen3-VL-32B-Thinking-heretic-GGUF) |
 | Updatedabout 4 hours ago | 1.44k | browser-use/bu-30b-a3b-previewImage-Text-to-Text | 31B | [Link](https://huggingface.co/browser-use/bu-30b-a3b-preview) |
+| Updatedabout 6 hours ago | 1.45k | stepfun-ai/GELab-Zero-4B-previewImage-Text-to-Text | 4B | [Link](https://huggingface.co/stepfun-ai/GELab-Zero-4B-preview) |
 | 1.07M |  | meta-llama/Llama-3 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) |
 | 1.49M |  | Qwen/Qwen2-VL-7B-InstructImage-Text-to-Text | Updated19 days ago | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) |
 | 288k |  | microsoft/Phi-3 | UpdatedSep 26, 2024 | [Link](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) |
@@ -4930,6 +4932,7 @@ Updated on 2025-12-19
 | Updatedabout 6 hours ago | 2.63k | allenai/Olmo-3-7B-ThinkText | 528k | [Link](https://huggingface.co/allenai/Olmo-3-7B-Think) |
 | Updatedabout 7 hours ago | 2.43k | allenai/Olmo-3-1025-7BText | 7B | [Link](https://huggingface.co/allenai/Olmo-3-1025-7B) |
 | Updated3 days ago | 2.09k | nvidia/Nemotron-Orchestrator-8BText | 8B | [Link](https://huggingface.co/nvidia/Nemotron-Orchestrator-8B) |
+| Updatedabout 3 hours ago | 2.17k | unsloth/functiongemma-270m-it-GGUFText | 0.3B | [Link](https://huggingface.co/unsloth/functiongemma-270m-it-GGUF) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
 | Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
@@ -6148,6 +6151,7 @@ Updated on 2025-12-19
 | 2 | Unknown | TensorStack/Locomotion-amuseText-to-Video | UpdatedApr 1 | [Link](https://huggingface.co/TensorStack/Locomotion-amuse) |
 | 2 | Unknown | Aquiles-ai/Wan2 | Updatedabout 10 hours ago | [Link](https://huggingface.co/Aquiles-ai/Wan2.2-Turbo) |
 | 2 | Unknown | TurboDiffusion/TurboWan2 | Updatedabout 6 hours ago | [Link](https://huggingface.co/TurboDiffusion/TurboWan2.1-T2V-1.3B-480P) |
+| 3 | Unknown | KlingTeam/MemFlowText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/KlingTeam/MemFlow) |
 
 ## Text2Text Generation
 
