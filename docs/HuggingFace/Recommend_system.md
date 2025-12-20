@@ -2273,6 +2273,7 @@ Updated on 2025-12-20
 | 6.24k | 260 | enhanceaiteam/Flux-Uncensored-V2Image-to-Image | UpdatedOct 11, 2024 | [Link](https://huggingface.co/enhanceaiteam/Flux-Uncensored-V2) |
 |  | 243 | Qwen/Qwen-Image-EditImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/Qwen/Qwen-Image-Edit) |
 | 51.7k | 241 | DionTimmer/controlnet_qrcode-control_v1p_sd15Image-to-Image | UpdatedJun 15, 2023 | [Link](https://huggingface.co/DionTimmer/controlnet_qrcode-control_v1p_sd15) |
+| Updatedabout 13 hours ago | 222 | unsloth/Qwen-Image-Edit-GGUFImage-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-Edit-GGUF) |
 | 13.9k | 205 | XLabs-AI/flux-ip-adapter-v2Image-to-Image | UpdatedOct 24, 2024 | [Link](https://huggingface.co/XLabs-AI/flux-ip-adapter-v2) |
 | 1 | 167 | InstantX/InstantIRImage-to-Image | UpdatedNov 7, 2024 | [Link](https://huggingface.co/InstantX/InstantIR) |
 | Updated1 day ago | 138 | rafacost/DreamOmni2-7 | 8B | [Link](https://huggingface.co/rafacost/DreamOmni2-7.6B-GGUF) |
@@ -2878,6 +2879,7 @@ Updated on 2025-12-20
 | 16 | 2 | NexaAI/paddleocr-npu-mobileImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/NexaAI/paddleocr-npu-mobile) |
 | 35 | 2 | Float16-cloud/typhoon-ocr1 | Updated10 days ago | [Link](https://huggingface.co/Float16-cloud/typhoon-ocr1.5-2b-int8) |
 | Updatedabout 9 hours ago | 2 | prithivMLmods/LightOnOCR-1B-1025-AIO-GGUFImage-to-Text | 0.8B | [Link](https://huggingface.co/prithivMLmods/LightOnOCR-1B-1025-AIO-GGUF) |
+| 2.76k | 2 | PaddlePaddle/en_PP-OCRv4_mobile_recImage-to-Text | UpdatedJul 22 | [Link](https://huggingface.co/PaddlePaddle/en_PP-OCRv4_mobile_rec) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -4438,6 +4440,7 @@ Updated on 2025-12-20
 | Updatedabout 8 hours ago | 886 | KORMo-Team/KORMo-10B-baseText | 11B | [Link](https://huggingface.co/KORMo-Team/KORMo-10B-base) |
 | Updated23 minutes ago | 854 | Qwen/Qwen3-Next-80B-A3B-InstructText | 81B | [Link](https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct) |
 | Updated3 days ago | 786 | apple/FastVLM-1 | 2B | [Link](https://huggingface.co/apple/FastVLM-1.5B) |
+| Updated1 day ago | 771 | nvidia/Nemotron-Cascade-8B-ThinkingText | 8B | [Link](https://huggingface.co/nvidia/Nemotron-Cascade-8B-Thinking) |
 | Updatedabout 18 hours ago | 769 | LiquidAI/LFM2-350M-MathText | 0.4B | [Link](https://huggingface.co/LiquidAI/LFM2-350M-Math) |
 | Updatedabout 24 hours ago | 752 | thu-pacman/PCMind-2 | 2B | [Link](https://huggingface.co/thu-pacman/PCMind-2.1-Kaiyuan-2B) |
 | Updatedabout 2 hours ago | 722 | nvidia/NVIDIA-Nemotron-Nano-9B-v2Text | 9B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2) |
@@ -5628,6 +5631,7 @@ Updated on 2025-12-20
 | 9 | Unknown | ProGamerGov/qwen-360-diffusionText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/ProGamerGov/qwen-360-diffusion) |
 | 8 | Unknown | MutantSparrow/RayText-to-Image | Updated2 days ago | [Link](https://huggingface.co/MutantSparrow/Ray) |
 | 7 | Unknown | Lakonik/pi-FLUX | Updated6 days ago | [Link](https://huggingface.co/Lakonik/pi-FLUX.2) |
+| 8 | Unknown | ChenkinNoob/ChenkinNoob-XL-V0 | Updated1 day ago | [Link](https://huggingface.co/ChenkinNoob/ChenkinNoob-XL-V0.2) |
 
 ## Text-to-Speech
 
@@ -6003,6 +6007,7 @@ Updated on 2025-12-20
 | 5.95k | 3 | guoyww/animatediff-motion-lora-pan-leftText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-pan-left) |
 | 561 | 3 | 6chan/krea-realtime-video-fp8Text-to-Video | Updated26 days ago | [Link](https://huggingface.co/6chan/krea-realtime-video-fp8) |
 | 173 | 3 | vdo/animov-512xText-to-Video | UpdatedMay 7, 2023 | [Link](https://huggingface.co/vdo/animov-512x) |
+| 7 | 3 | rhymes-ai/Allegro-T2V-40x720PText-to-Video | UpdatedDec 28, 2024 | [Link](https://huggingface.co/rhymes-ai/Allegro-T2V-40x720P) |
 | 69 | 2 | obvious-research/onlyflowText-to-Video | Updated5 days ago | [Link](https://huggingface.co/obvious-research/onlyflow) |
 | 42 | 2 | jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIEText-to-Video | Updated7 days ago | [Link](https://huggingface.co/jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIE) |
 | 10 | 2 | vdo/Hotshot-XLText-to-Video | UpdatedOct 4, 2023 | [Link](https://huggingface.co/vdo/Hotshot-XL) |
