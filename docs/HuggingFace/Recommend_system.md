@@ -2265,6 +2265,7 @@ Updated on 2025-12-21
 
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
+| Updated2 days ago | 734 | TainU/RePlan-Qwen2 | 8B | [Link](https://huggingface.co/TainU/RePlan-Qwen2.5-VL-7B) |
 | 11.6k | 607 | jasperai/Flux | UpdatedSep 30, 2024 | [Link](https://huggingface.co/jasperai/Flux.1-dev-Controlnet-Upscaler) |
 | 1.52k | 564 | CrucibleAI/ControlNetMediaPipeFaceImage-to-Image | UpdatedMay 19, 2023 | [Link](https://huggingface.co/CrucibleAI/ControlNetMediaPipeFace) |
 | 129k | 550 | yisol/IDM-VTONImage-to-Image | UpdatedApr 22, 2024 | [Link](https://huggingface.co/yisol/IDM-VTON) |
@@ -5326,6 +5327,7 @@ Updated on 2025-12-21
 | 1.18k | 40 | tencent/SRPOText-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/tencent/SRPO) |
 | 5.59k | 33 | hashu786/HYVRewardText-to-Image | Updated5 days ago | [Link](https://huggingface.co/hashu786/HYVReward) |
 | 2.49k | 33 | Heartsync/NSFW-UncensoredText-to-Image | Updated7 days ago | [Link](https://huggingface.co/Heartsync/NSFW-Uncensored) |
+| 1.59k | 29 | nunchaku-tech/nunchaku-z-image-turboText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-z-image-turbo) |
 | 145 | 28 | ByteDance/XVerseText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/ByteDance/XVerse) |
 | 41 | 26 | SG161222/SPARK | Updatedabout 17 hours ago | [Link](https://huggingface.co/SG161222/SPARK.Chroma_preview) |
 | 8 | 22 | nunchaku-tech/nunchaku-qwen-image-edit-2509Text-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-qwen-image-edit-2509) |
