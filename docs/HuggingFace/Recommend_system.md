@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-12-20
+Updated on 2025-12-21
 
 > Generated from the Hugging Face database.
 
@@ -34,6 +34,7 @@ Updated on 2025-12-20
 | Updatedabout 3 hours ago | 215 | inclusionAI/Ming-UniAudio-16B-A3BAny-to-Any | 18B | [Link](https://huggingface.co/inclusionAI/Ming-UniAudio-16B-A3B) |
 | Updated4 days ago | 212 | PaDT-MLLM/PaDT_Pro_3BAny-to-Any | 4B | [Link](https://huggingface.co/PaDT-MLLM/PaDT_Pro_3B) |
 | 1.68k | 208 | BAAI/Emu3-GenAny-to-Any | UpdatedOct 23, 2024 | [Link](https://huggingface.co/BAAI/Emu3-Gen) |
+| UpdatedApr 9 | 203 | Tesslate/Synthia-S1-27bAny-to-Any | 27B | [Link](https://huggingface.co/Tesslate/Synthia-S1-27b) |
 | Updated16 days ago | 193 | OddTheGreat/Mars_27B_V | 29B | [Link](https://huggingface.co/OddTheGreat/Mars_27B_V.1) |
 | 455 | 149 | NexaAI/OmniNeural-4BAny-to-Any | Updated4 days ago | [Link](https://huggingface.co/NexaAI/OmniNeural-4B) |
 | UpdatedApr 8 | 144 | summykai/gemma3-27b-abliterated-dpoAny-to-Any | 27B | [Link](https://huggingface.co/summykai/gemma3-27b-abliterated-dpo) |
@@ -2274,6 +2275,7 @@ Updated on 2025-12-20
 |  | 243 | Qwen/Qwen-Image-EditImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/Qwen/Qwen-Image-Edit) |
 | 51.7k | 241 | DionTimmer/controlnet_qrcode-control_v1p_sd15Image-to-Image | UpdatedJun 15, 2023 | [Link](https://huggingface.co/DionTimmer/controlnet_qrcode-control_v1p_sd15) |
 | Updatedabout 13 hours ago | 222 | unsloth/Qwen-Image-Edit-GGUFImage-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-Edit-GGUF) |
+| Updated1 day ago | 206 | unsloth/Qwen-Image-Edit-2509-GGUFImage-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-Edit-2509-GGUF) |
 | 13.9k | 205 | XLabs-AI/flux-ip-adapter-v2Image-to-Image | UpdatedOct 24, 2024 | [Link](https://huggingface.co/XLabs-AI/flux-ip-adapter-v2) |
 | 1 | 167 | InstantX/InstantIRImage-to-Image | UpdatedNov 7, 2024 | [Link](https://huggingface.co/InstantX/InstantIR) |
 | Updated1 day ago | 138 | rafacost/DreamOmni2-7 | 8B | [Link](https://huggingface.co/rafacost/DreamOmni2-7.6B-GGUF) |
@@ -2922,6 +2924,7 @@ Updated on 2025-12-20
 | 4.78k | 1 | rtr46/meiki | Updated19 days ago | [Link](https://huggingface.co/rtr46/meiki.text.detect.v0) |
 | 4 | 1 | SawanStack/gpt2-image-captioning-onnxImage-to-Text | UpdatedNov 13, 2023 | [Link](https://huggingface.co/SawanStack/gpt2-image-captioning-onnx) |
 | 5 | 1 | misoda/htr-mlw-bestImage-to-Text | UpdatedMay 14, 2023 | [Link](https://huggingface.co/misoda/htr-mlw-best) |
+| Updated25 days ago | 1.11k | sherif1313/Arabic-handwritten-OCR-4bit-Qwen2 | 4B | [Link](https://huggingface.co/sherif1313/Arabic-handwritten-OCR-4bit-Qwen2.5-VL-3B-v2) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
