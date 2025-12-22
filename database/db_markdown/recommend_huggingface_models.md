@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-12-21
+Updated on 2025-12-22
 
 > Generated from the Hugging Face database.
 
@@ -2670,6 +2670,7 @@ Updated on 2025-12-21
 | UpdatedNov 29, 2024 | 81 | fancyfeast/llama-joycaption-alpha-two-vqa-test-1Image-to-Text | 8B | [Link](https://huggingface.co/fancyfeast/llama-joycaption-alpha-two-vqa-test-1) |
 | UpdatedMar 3 | 79 | mlx-community/olmOCR-7B-0225-preview-bf16Image-to-Text | 8B | [Link](https://huggingface.co/mlx-community/olmOCR-7B-0225-preview-bf16) |
 | Updated3 days ago | 78 | Rainnighttram/GLM-4 | 10B | [Link](https://huggingface.co/Rainnighttram/GLM-4.1V-9B-Thinking-bnb-4bit) |
+| Updated16 days ago | 78.3k | InternScience/StructTable-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/InternScience/StructTable-base) |
 | 6.2k | 77 | unum-cloud/uform-gen2-qwen-500mImage-to-Text | UpdatedApr 24, 2024 | [Link](https://huggingface.co/unum-cloud/uform-gen2-qwen-500m) |
 | UpdatedNov 19, 2024 | 77 | ashok2216/vit-gpt2-image-captioning_COCO_FineTunedImage-to-Text | 0.2B | [Link](https://huggingface.co/ashok2216/vit-gpt2-image-captioning_COCO_FineTuned) |
 | 2.27k | 77 | lightonai/LightOnOCR-1B-1025Image-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/lightonai/LightOnOCR-1B-1025) |
