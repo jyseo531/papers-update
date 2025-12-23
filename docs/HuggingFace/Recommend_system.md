@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-12-22
+Updated on 2025-12-23
 
 > Generated from the Hugging Face database.
 
@@ -65,6 +65,7 @@ Updated on 2025-12-22
 | Updated14 days ago | 37 | sensefvg/InteractiveOmni-8BAny-to-Any | 10B | [Link](https://huggingface.co/sensefvg/InteractiveOmni-8B) |
 | UpdatedAug 14 | 37k | unsloth/gemma-3-12b-it-GGUFAny-to-Any | 12B | [Link](https://huggingface.co/unsloth/gemma-3-12b-it-GGUF) |
 | Updated6 days ago | 36 | CalmState/gemma-3-4b-polyglot-v1Any-to-Any | 4B | [Link](https://huggingface.co/CalmState/gemma-3-4b-polyglot-v1) |
+| UpdatedMar 28 | 35 | allura-org/Gemma-3-Glitter-12BAny-to-Any | 12B | [Link](https://huggingface.co/allura-org/Gemma-3-Glitter-12B) |
 | 94 | 34 | EPFL-VILAB/4M-21_XLAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-21_XL) |
 | Updated1 day ago | 31 | sensenova/InteractiveOmni-4BAny-to-Any | 6B | [Link](https://huggingface.co/sensenova/InteractiveOmni-4B) |
 | Updated14 days ago | 29 | multimodal-reasoning-lab/Anole-Zebra-CoTAny-to-Any | 7B | [Link](https://huggingface.co/multimodal-reasoning-lab/Anole-Zebra-CoT) |
@@ -1987,6 +1988,7 @@ Updated on 2025-12-22
 | Updated3 days ago | 13 | baidu/Qianfan-VL-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/baidu/Qianfan-VL-8B) |
 | Updatedabout 16 hours ago | 13 | NexaAI/Qwen3-VL-4B-Instruct-GGUFImage-Text-to-Text | 4B | [Link](https://huggingface.co/NexaAI/Qwen3-VL-4B-Instruct-GGUF) |
 | Updatedabout 11 hours ago | 13 | zai-org/AutoGLM-Phone-9B-MultilingualImage-Text-to-Text | 934k | [Link](https://huggingface.co/zai-org/AutoGLM-Phone-9B-Multilingual) |
+| Updated3 days ago | 13.3k | nvidia/Cosmos-Reason2-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/nvidia/Cosmos-Reason2-8B) |
 | 225 | 12 | ds4sd/SmolDocling-256M-preview-mlx-bf16Image-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/ds4sd/SmolDocling-256M-preview-mlx-bf16) |
 | 1.94k | 12 | bartowski/google_gemma-3-27b-it-qat-GGUFImage-Text-to-Text | Updatedabout 19 hours ago | [Link](https://huggingface.co/bartowski/google_gemma-3-27b-it-qat-GGUF) |
 | 856 | 12 | bartowski/google_gemma-3-12b-it-qat-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/bartowski/google_gemma-3-12b-it-qat-GGUF) |
@@ -2015,6 +2017,7 @@ Updated on 2025-12-22
 | Updatedabout 8 hours ago | 11 | LiquidAI/LFM2-VL-450M-GGUFImage-Text-to-Text | 0.4B | [Link](https://huggingface.co/LiquidAI/LFM2-VL-450M-GGUF) |
 | 247 | 11 | NyxKrage/moondream3-preview-hfImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/NyxKrage/moondream3-preview-hf) |
 | 197 | 11 | nvidia/NVIDIA-Nemotron-Parse-v1 | Updated1 day ago | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Parse-v1.1) |
+| Updatedabout 17 hours ago | 11 | janhq/Jan-v2-VL-max-FP8Image-Text-to-Text | 31B | [Link](https://huggingface.co/janhq/Jan-v2-VL-max-FP8) |
 | 185 | 10 | prithivMLmods/Tokenized-OCRImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/prithivMLmods/Tokenized-OCR) |
 | 25 | 10 | prithivMLmods/Qwen2-VL-OCR2-2B-InstructImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/Qwen2-VL-OCR2-2B-Instruct) |
 | 9 | 10 | google/gemma-3-12b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-12b-pt) |
@@ -2620,6 +2623,7 @@ Updated on 2025-12-22
 | 122 |  | dx8152/Qwen-Edit-2509-Light-MigrationImage-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/dx8152/Qwen-Edit-2509-Light-Migration) |
 | 117 |  | starsfriday/Qwen-Image-Edit-2509-Upscale2KImage-to-Image | Updated13 days ago | [Link](https://huggingface.co/starsfriday/Qwen-Image-Edit-2509-Upscale2K) |
 | 3 | Unknown | prs-eth/stereospace-v1-0Image-to-Image | Updated6 days ago | [Link](https://huggingface.co/prs-eth/stereospace-v1-0) |
+| 4 | Unknown | nycu-cplab/Genfocus-ModelImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/nycu-cplab/Genfocus-Model) |
 
 ## Image-to-Text
 
@@ -2771,6 +2775,7 @@ Updated on 2025-12-22
 | Updatedabout 17 hours ago | 10 | SauravCh11/Donut-CORDImage-to-Text | 0.2B | [Link](https://huggingface.co/SauravCh11/Donut-CORD) |
 | 13.7k | 10 | TIGER-Lab/VLM2Vec-Qwen2VL-7BImage-to-Text | UpdatedMay 3 | [Link](https://huggingface.co/TIGER-Lab/VLM2Vec-Qwen2VL-7B) |
 | 566 | 10 | hezarai/crnn-fa-license-plate-recognitionImage-to-Text | UpdatedNov 3, 2024 | [Link](https://huggingface.co/hezarai/crnn-fa-license-plate-recognition) |
+| UpdatedApr 10, 2024 | 10 | atasoglu/vit-small-patch16-224-turkish-small-bert-uncasedImage-to-Text | 55.8M | [Link](https://huggingface.co/atasoglu/vit-small-patch16-224-turkish-small-bert-uncased) |
 | 475 | 9 | DunnBC22/trocr-base-printed_license_plates_ocrImage-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-base-printed_license_plates_ocr) |
 | 455 | 9 | fhswf/TrOCR_german_handwrittenImage-to-Text | UpdatedJun 18, 2024 | [Link](https://huggingface.co/fhswf/TrOCR_german_handwritten) |
 | UpdatedNov 20, 2023 | 9.05k | facebook/nougat-smallImage-to-Text | 0.2B | [Link](https://huggingface.co/facebook/nougat-small) |
@@ -5718,6 +5723,7 @@ Updated on 2025-12-22
 | 38.3k | 48 | SWivid/E2-TTSText-to-Speech | UpdatedMar 12 | [Link](https://huggingface.co/SWivid/E2-TTS) |
 | 73.1k | 45 | onnx-community/Kokoro-82M-v1 | Updated17 days ago | [Link](https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX) |
 | 5.2k | 39 | speechbrain/tts-hifigan-ljspeechText-to-Speech | UpdatedFeb 25, 2024 | [Link](https://huggingface.co/speechbrain/tts-hifigan-ljspeech) |
+| Updatedabout 23 hours ago | 39 | ekwek/Soprano-80MText-to-Speech | 79.7M | [Link](https://huggingface.co/ekwek/Soprano-80M) |
 | 1.07k | 38 | nvidia/tts_hifiganText-to-Speech | UpdatedJun 29, 2022 | [Link](https://huggingface.co/nvidia/tts_hifigan) |
 | 2.04k | 37 | kakao-enterprise/vits-ljsText-to-Speech | UpdatedSep 7, 2023 | [Link](https://huggingface.co/kakao-enterprise/vits-ljs) |
 | Updatedabout 6 hours ago | 37 | pnnbao-ump/kani-tts-370m-vieText-to-Speech | 0.4B | [Link](https://huggingface.co/pnnbao-ump/kani-tts-370m-vie) |
