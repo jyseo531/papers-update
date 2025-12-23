@@ -86,6 +86,7 @@ Updated on 2025-12-23
 | 1.03k | 14 | onnx-community/Janus-1 | UpdatedNov 28, 2024 | [Link](https://huggingface.co/onnx-community/Janus-1.3B-ONNX) |
 | Updatedabout 1 hour ago | 14 | AIDC-AI/Ovis-U1-3BAny-to-Any | 4B | [Link](https://huggingface.co/AIDC-AI/Ovis-U1-3B) |
 | Updated2 days ago | 12 | EasonXiao-888/HaploOmniAny-to-Any | 9B | [Link](https://huggingface.co/EasonXiao-888/HaploOmni) |
+| Updatedabout 7 hours ago | 12 | FunAudioLLM/Fun-Audio-Chat-8BAny-to-Any | 9B | [Link](https://huggingface.co/FunAudioLLM/Fun-Audio-Chat-8B) |
 | UpdatedApr 26 | 11 | yujiepan/qwen2 | 0.0B | [Link](https://huggingface.co/yujiepan/qwen2.5-omni-tiny-random) |
 | UpdatedDec 12, 2024 | 11 | Alpha-VLLM/Lumina-mGPT-34B-512Any-to-Any | 34B | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-34B-512) |
 | 42 | 10 | sanaka87/BAGEL-RecAAny-to-Any | Updated2 days ago | [Link](https://huggingface.co/sanaka87/BAGEL-RecA) |
@@ -2692,6 +2693,7 @@ Updated on 2025-12-23
 | 71 | 49 | stabilityai/japanese-stable-vlmImage-to-Text | UpdatedJul 10, 2024 | [Link](https://huggingface.co/stabilityai/japanese-stable-vlm) |
 | 5.28k | 48 | Ertugrul/Qwen2-VL-7B-Captioner-RelaxedImage-to-Text | UpdatedSep 26, 2024 | [Link](https://huggingface.co/Ertugrul/Qwen2-VL-7B-Captioner-Relaxed) |
 | UpdatedMay 21 | 47.2k | llamaindex/vdr-2b-multi-v1Image-to-Text | 2B | [Link](https://huggingface.co/llamaindex/vdr-2b-multi-v1) |
+| Updatedabout 5 hours ago | 46 | mohajesmaeili/Qwen3-VL-2B-Persian-Arabic-Ocr-v1 | 2B | [Link](https://huggingface.co/mohajesmaeili/Qwen3-VL-2B-Persian-Arabic-Ocr-v1.0) |
 | Updated23 days ago | 43 | Jaireyu/Qwen2 | 8B | [Link](https://huggingface.co/Jaireyu/Qwen2.5-VL-UniSVG-finetuned) |
 | UpdatedJul 5 | 43 | QuickHawk/trocr-indicImage-to-Text | 0.3B | [Link](https://huggingface.co/QuickHawk/trocr-indic) |
 | UpdatedMay 18, 2024 | 41 | moranyanuka/blip-image-captioning-large-mochaImage-to-Text | 0.5B | [Link](https://huggingface.co/moranyanuka/blip-image-captioning-large-mocha) |
@@ -5646,6 +5648,7 @@ Updated on 2025-12-23
 | 8 | Unknown | MutantSparrow/RayText-to-Image | Updated2 days ago | [Link](https://huggingface.co/MutantSparrow/Ray) |
 | 7 | Unknown | Lakonik/pi-FLUX | Updated6 days ago | [Link](https://huggingface.co/Lakonik/pi-FLUX.2) |
 | 8 | Unknown | ChenkinNoob/ChenkinNoob-XL-V0 | Updated1 day ago | [Link](https://huggingface.co/ChenkinNoob/ChenkinNoob-XL-V0.2) |
+| 9 | Unknown | Nurburgring/BEYOND_REALITY_Z_IMAGEText-to-Image | Updated2 days ago | [Link](https://huggingface.co/Nurburgring/BEYOND_REALITY_Z_IMAGE) |
 
 ## Text-to-Speech
 
@@ -5984,11 +5987,13 @@ Updated on 2025-12-23
 | 417 | 25 | ByteDance/ContentV-8BText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/ByteDance/ContentV-8B) |
 | 3.47k | 22 | Skywork/SkyReels-V2-T2V-14B-720PText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-T2V-14B-720P) |
 | 21 | 22 | aidealab/AIdeaLab-VideoJPText-to-Video | UpdatedJan 14 | [Link](https://huggingface.co/aidealab/AIdeaLab-VideoJP) |
+| Updatedabout 2 hours ago | 22 | burakkizil/LAMP-Qwen-2 | 8B | [Link](https://huggingface.co/burakkizil/LAMP-Qwen-2.5-VL) |
 | 1.12k | 21 | maxin-cn/Latte-1Text-to-Video | UpdatedSep 2, 2024 | [Link](https://huggingface.co/maxin-cn/Latte-1) |
 | 119 | 20 | PAIR/text2video-zero-controlnet-canny-animeText-to-Video | UpdatedApr 6, 2023 | [Link](https://huggingface.co/PAIR/text2video-zero-controlnet-canny-anime) |
 | 433 | 20 | Skywork/SkyReels-V2-DF-1 | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-DF-1.3B-540P) |
 | 34 | 19 | FastVideo/FastMochi-diffusersText-to-Video | UpdatedDec 16, 2024 | [Link](https://huggingface.co/FastVideo/FastMochi-diffusers) |
 | 3.74k | 17 | calcuis/hyvidText-to-Video | Updated24 days ago | [Link](https://huggingface.co/calcuis/hyvid) |
+| Updatedabout 1 hour ago | 15 | burakkizil/LAMP-editText-to-Video | 8B | [Link](https://huggingface.co/burakkizil/LAMP-edit) |
 | 189 | 14 | showlab/show-1-baseText-to-Video | UpdatedOct 12, 2023 | [Link](https://huggingface.co/showlab/show-1-base) |
 | 141 | 12 | finetrainers/pika-dissolve-v0Text-to-Video | UpdatedJan 16 | [Link](https://huggingface.co/finetrainers/pika-dissolve-v0) |
 | 53 | 11 | lucataco/hunyuan-musubi-lora-heygen-6Text-to-Video | UpdatedJan 13 | [Link](https://huggingface.co/lucataco/hunyuan-musubi-lora-heygen-6) |
