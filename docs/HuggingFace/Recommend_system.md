@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-12-23
+Updated on 2025-12-24
 
 > Generated from the Hugging Face database.
 
@@ -144,6 +144,7 @@ Updated on 2025-12-23
 | 15 | 2 | EasonXiao-888/MindOmniAny-to-Any | UpdatedJun 16 | [Link](https://huggingface.co/EasonXiao-888/MindOmni) |
 | 72 | 2 | showlab/show-o-512x512Any-to-Any | UpdatedJun 21 | [Link](https://huggingface.co/showlab/show-o-512x512) |
 | UpdatedApr 11 | 2.69k | unsloth/gemma-3-4b-ptAny-to-Any | 4B | [Link](https://huggingface.co/unsloth/gemma-3-4b-pt) |
+| Updatedabout 11 hours ago | 2 | AiAsistent/gemma-3-4b-it-Cognitive-LibertyAny-to-Any | 4B | [Link](https://huggingface.co/AiAsistent/gemma-3-4b-it-Cognitive-Liberty) |
 | 170 | 1 | tezuesh/moshi_generalAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/tezuesh/moshi_general) |
 | 35 | 1 | tezuesh/IBLlama_v1Any-to-Any | UpdatedJan 24 | [Link](https://huggingface.co/tezuesh/IBLlama_v1) |
 | 43 | 1 | Athagi/Janus-Pro-7BAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/Athagi/Janus-Pro-7B) |
@@ -2312,6 +2313,7 @@ Updated on 2025-12-23
 | 105 | 44 | ghoskno/Color-Canny-Controlnet-modelImage-to-Image | UpdatedMay 25, 2023 | [Link](https://huggingface.co/ghoskno/Color-Canny-Controlnet-model) |
 | 16k | 44 | lllyasviel/control_v11p_sd15_cannyImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_canny) |
 | 1.31k | 41 | xiaozaa/catvton-flux-alphaImage-to-Image | UpdatedNov 26, 2024 | [Link](https://huggingface.co/xiaozaa/catvton-flux-alpha) |
+| Updatedabout 9 hours ago | 38 | unsloth/Qwen-Image-Edit-2511-GGUFImage-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-Edit-2511-GGUF) |
 | 50 | 37 | yichengup/flux | Updatedabout 11 hours ago | [Link](https://huggingface.co/yichengup/flux.1-fill-dev-OneReward) |
 | 102 | 34 | keras-io/lowlight-enhance-mirnetImage-to-Image | UpdatedJul 5, 2024 | [Link](https://huggingface.co/keras-io/lowlight-enhance-mirnet) |
 |  | 34 | meituan-longcat/LongCat-Image-EditImage-to-Image | Updatedabout 13 hours ago | [Link](https://huggingface.co/meituan-longcat/LongCat-Image-Edit) |
@@ -2625,6 +2627,7 @@ Updated on 2025-12-23
 | 117 |  | starsfriday/Qwen-Image-Edit-2509-Upscale2KImage-to-Image | Updated13 days ago | [Link](https://huggingface.co/starsfriday/Qwen-Image-Edit-2509-Upscale2K) |
 | 3 | Unknown | prs-eth/stereospace-v1-0Image-to-Image | Updated6 days ago | [Link](https://huggingface.co/prs-eth/stereospace-v1-0) |
 | 4 | Unknown | nycu-cplab/Genfocus-ModelImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/nycu-cplab/Genfocus-Model) |
+| 220 |  | Qwen/Qwen-Image-Edit-2511Image-to-Image | Updatedabout 13 hours ago | [Link](https://huggingface.co/Qwen/Qwen-Image-Edit-2511) |
 
 ## Image-to-Text
 
@@ -2773,6 +2776,7 @@ Updated on 2025-12-23
 | UpdatedJul 12, 2023 | 11 | nttdataspain/vit-gpt2-stablediffusion2-loraImage-to-Text | 0.3B | [Link](https://huggingface.co/nttdataspain/vit-gpt2-stablediffusion2-lora) |
 | 63 | 11 | onnx-community/Qwen2-VL-2B-InstructImage-to-Text | UpdatedMar 6 | [Link](https://huggingface.co/onnx-community/Qwen2-VL-2B-Instruct) |
 | Updatedabout 9 hours ago | 11 | WaveCut/FLUX | 6B | [Link](https://huggingface.co/WaveCut/FLUX.2-TE-Trimmed-7L-Distil) |
+| UpdatedSep 12, 2024 | 11 | snorfyang/llava-v1 | 7B | [Link](https://huggingface.co/snorfyang/llava-v1.5-7b-pretrain-hf) |
 | 68 | 10 | Flova/omr_transformerImage-to-Text | UpdatedOct 5, 2023 | [Link](https://huggingface.co/Flova/omr_transformer) |
 | Updatedabout 17 hours ago | 10 | SauravCh11/Donut-CORDImage-to-Text | 0.2B | [Link](https://huggingface.co/SauravCh11/Donut-CORD) |
 | 13.7k | 10 | TIGER-Lab/VLM2Vec-Qwen2VL-7BImage-to-Text | UpdatedMay 3 | [Link](https://huggingface.co/TIGER-Lab/VLM2Vec-Qwen2VL-7B) |
@@ -2833,6 +2837,7 @@ Updated on 2025-12-23
 | Updated1 day ago | 4.13k | mradermacher/Qwen3-VL-8B-Abliterated-Caption-it-i1-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/mradermacher/Qwen3-VL-8B-Abliterated-Caption-it-i1-GGUF) |
 | UpdatedJun 22, 2024 | 4 | ryomenkizaru/model-ocr-invoice-banghid-v1Image-to-Text | 0.2B | [Link](https://huggingface.co/ryomenkizaru/model-ocr-invoice-banghid-v1) |
 | 79 | 4 | hezarai/trocr-base-fa-v2Image-to-Text | UpdatedNov 14, 2024 | [Link](https://huggingface.co/hezarai/trocr-base-fa-v2) |
+| Updated7 days ago | 4 | OralGPT/OralGPT-Omni-7B-InstructImage-to-Text | 8B | [Link](https://huggingface.co/OralGPT/OralGPT-Omni-7B-Instruct) |
 | 299 | 3 | cnmoro/nano-image-captioningImage-to-Text | Updatedabout 1 month ago | [Link](https://huggingface.co/cnmoro/nano-image-captioning) |
 | 45 | 3 | braintacles/brainblipImage-to-Text | UpdatedJun 27, 2024 | [Link](https://huggingface.co/braintacles/brainblip) |
 | 55 | 3 | sbintuitions/sarashina2-vision-8bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-8b) |
