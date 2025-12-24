@@ -89,6 +89,7 @@ Updated on 2025-12-24
 | Updatedabout 7 hours ago | 12 | FunAudioLLM/Fun-Audio-Chat-8BAny-to-Any | 9B | [Link](https://huggingface.co/FunAudioLLM/Fun-Audio-Chat-8B) |
 | UpdatedApr 26 | 11 | yujiepan/qwen2 | 0.0B | [Link](https://huggingface.co/yujiepan/qwen2.5-omni-tiny-random) |
 | UpdatedDec 12, 2024 | 11 | Alpha-VLLM/Lumina-mGPT-34B-512Any-to-Any | 34B | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-34B-512) |
+| UpdatedMar 20 | 11 | Kfjjdjdjdhdhd/Gemma-3-4b-it-Uncensored-DBL-X-int2-quantizedAny-to-Any | 5B | [Link](https://huggingface.co/Kfjjdjdjdhdhd/Gemma-3-4b-it-Uncensored-DBL-X-int2-quantized) |
 | 42 | 10 | sanaka87/BAGEL-RecAAny-to-Any | Updated2 days ago | [Link](https://huggingface.co/sanaka87/BAGEL-RecA) |
 | 6 | 10 | dorni/UniVerse-1-BaseAny-to-Any | Updatedabout 10 hours ago | [Link](https://huggingface.co/dorni/UniVerse-1-Base) |
 | UpdatedDec 12, 2024 | 10 | Alpha-VLLM/Lumina-mGPT-7B-768-OmniAny-to-Any | 7B | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-768-Omni) |
@@ -4467,6 +4468,7 @@ Updated on 2025-12-24
 | Updatedabout 6 hours ago | 670 | nvidia/Orchestrator-8BText | 8B | [Link](https://huggingface.co/nvidia/Orchestrator-8B) |
 | Updated5 days ago | 663k | lmstudio-community/gpt-oss-20b-MLX-8bitText | 21B | [Link](https://huggingface.co/lmstudio-community/gpt-oss-20b-MLX-8bit) |
 | Updated5 days ago | 661 | LiquidAI/LFM2-700M-GGUFText | 0.7B | [Link](https://huggingface.co/LiquidAI/LFM2-700M-GGUF) |
+| Updated6 days ago | 630 | kakaocorp/kanana-2-30b-a3b-instructText | 31B | [Link](https://huggingface.co/kakaocorp/kanana-2-30b-a3b-instruct) |
 | Updated2 days ago | 628 | PrimeIntellect/INTELLECT-3-FP8Text | 107B | [Link](https://huggingface.co/PrimeIntellect/INTELLECT-3-FP8) |
 | Updatedabout 5 hours ago | 623 | NousResearch/nomos-1Text | 31B | [Link](https://huggingface.co/NousResearch/nomos-1) |
 | Updated1 day ago | 608 | ArliAI/GLM-4 | 110B | [Link](https://huggingface.co/ArliAI/GLM-4.5-Air-Derestricted) |
@@ -5424,6 +5426,7 @@ Updated on 2025-12-24
 | 13 | 7 | spooknik/Fluxmania-SVDQText-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/spooknik/Fluxmania-SVDQ) |
 | 19 | 7 | AIDC-AI/Ovis-Image-7BText-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/AIDC-AI/Ovis-Image-7B) |
 | 810 | 7 | tsqn/Z-Image-Turbo_fp32-fp16-bf16_full_and_ema-onlyText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/tsqn/Z-Image-Turbo_fp32-fp16-bf16_full_and_ema-only) |
+| Updatedabout 21 hours ago | 7 | stepfun-ai/NextStep-1 | 15B | [Link](https://huggingface.co/stepfun-ai/NextStep-1.1) |
 | 1.07k | 6 | DFloat11/FLUX | Updated1 day ago | [Link](https://huggingface.co/DFloat11/FLUX.1-dev-DF11) |
 | 836 | 6 | Minthy/RouWei-0 | Updated3 days ago | [Link](https://huggingface.co/Minthy/RouWei-0.8) |
 | 169 | 6 | PosterCraft/PosterCraft-v1_RLText-to-Image | Updated2 days ago | [Link](https://huggingface.co/PosterCraft/PosterCraft-v1_RL) |
@@ -5824,6 +5827,7 @@ Updated on 2025-12-24
 | 132 | 4 | nari-labs/Dia2-1BText-to-Speech | Updated6 days ago | [Link](https://huggingface.co/nari-labs/Dia2-1B) |
 | 335 | 4 | onnx-community/Supertonic-TTS-ONNXText-to-Speech | Updatedabout 5 hours ago | [Link](https://huggingface.co/onnx-community/Supertonic-TTS-ONNX) |
 | 38 | 4 | mlx-community/chatterbox-turbo-fp16Text-to-Speech | Updated1 day ago | [Link](https://huggingface.co/mlx-community/chatterbox-turbo-fp16) |
+| 51 | 4 | JayLL13/VoxCPM-1 | Updated5 days ago | [Link](https://huggingface.co/JayLL13/VoxCPM-1.5-VN) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 1.22k | 3 | CONCREE/Adia_TTSText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/CONCREE/Adia_TTS) |
@@ -6182,6 +6186,7 @@ Updated on 2025-12-24
 | 2 | Unknown | Aquiles-ai/Wan2 | Updatedabout 10 hours ago | [Link](https://huggingface.co/Aquiles-ai/Wan2.2-Turbo) |
 | 2 | Unknown | TurboDiffusion/TurboWan2 | Updatedabout 6 hours ago | [Link](https://huggingface.co/TurboDiffusion/TurboWan2.1-T2V-1.3B-480P) |
 | 3 | Unknown | KlingTeam/MemFlowText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/KlingTeam/MemFlow) |
+| 17 | Unknown | Kevin-thu/StoryMemText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/Kevin-thu/StoryMem) |
 
 ## Text2Text Generation
 
