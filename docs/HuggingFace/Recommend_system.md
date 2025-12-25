@@ -5475,6 +5475,7 @@ Updated on 2025-12-25
 | UpdatedSep 25 | 1.62k | wikeeyang/Real-Qwen-Image-v1 | 20B | [Link](https://huggingface.co/wikeeyang/Real-Qwen-Image-v1.0) |
 | UpdatedApr 14, 2024 | 1.81k | UnfilteredAI/NSFW-GEN-ANIMEText-to-Image | 3B | [Link](https://huggingface.co/UnfilteredAI/NSFW-GEN-ANIME) |
 | Updated1 day ago | 1.46k | leejet/Z-Image-Turbo-GGUFText-to-Image | 6B | [Link](https://huggingface.co/leejet/Z-Image-Turbo-GGUF) |
+| Updated3 days ago | 1.78k | unsloth/Z-Image-Turbo-GGUFText-to-Image | 6B | [Link](https://huggingface.co/unsloth/Z-Image-Turbo-GGUF) |
 | 1.84M |  | black-forest-labs/FLUX | UpdatedAug 16, 2024 | [Link](https://huggingface.co/black-forest-labs/FLUX.1-dev) |
 | 268k |  | stabilityai/stable-diffusion-3 | UpdatedOct 22, 2024 | [Link](https://huggingface.co/stabilityai/stable-diffusion-3.5-large) |
 | 3.52M |  | stabilityai/stable-diffusion-xl-base-1 | UpdatedOct 30, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) |
