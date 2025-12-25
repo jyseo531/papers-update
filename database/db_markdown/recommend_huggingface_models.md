@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-12-24
+Updated on 2025-12-25
 
 > Generated from the Hugging Face database.
 
@@ -2390,6 +2390,7 @@ Updated on 2025-12-24
 | 39 | 5 | starsfriday/Qwen-Image-Edit-Remove-ClothesImage-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/starsfriday/Qwen-Image-Edit-Remove-Clothes) |
 | Updated17 minutes ago | 5 | calcuis/qwen-image-edit-plus-ggufImage-to-Image | 20B | [Link](https://huggingface.co/calcuis/qwen-image-edit-plus-gguf) |
 | 26 | 5 | casiatao/Qwen-Edit-2509-FTImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/casiatao/Qwen-Edit-2509-FT) |
+| 168 | 5 | 1038lab/Qwen-Image-Edit-2511-FP8Image-to-Image | Updated1 day ago | [Link](https://huggingface.co/1038lab/Qwen-Image-Edit-2511-FP8) |
 | 575 | 4 | prs-eth/marigold-normals-v1-1Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-normals-v1-1) |
 | 1k | 4 | stanfordmimi/MedVAEImage-to-Image | UpdatedMar 31 | [Link](https://huggingface.co/stanfordmimi/MedVAE) |
 | 3 | 4 | wikeeyang/UniWorld-V1-NF4Image-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/wikeeyang/UniWorld-V1-NF4) |
@@ -2405,6 +2406,7 @@ Updated on 2025-12-24
 | 371 | 4 | ovedrive/Qwen-Image-Edit-2509-4bitImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/ovedrive/Qwen-Image-Edit-2509-4bit) |
 | 78 | 4 | valiantcat/Qwen-Image-Edit-2509-photousImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/valiantcat/Qwen-Image-Edit-2509-photous) |
 | 32 | 4 | stepfun-ai/Step1X-Edit-v1p2Image-to-Image | Updated1 day ago | [Link](https://huggingface.co/stepfun-ai/Step1X-Edit-v1p2) |
+| 390 | 4 | drbaph/Qwen-Image-Edit-2511-FP8Image-to-Image | Updated1 day ago | [Link](https://huggingface.co/drbaph/Qwen-Image-Edit-2511-FP8) |
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
@@ -4493,6 +4495,7 @@ Updated on 2025-12-24
 | Updatedabout 4 hours ago | 329 | FractalAIResearch/Fathom-Search-4BText | 4B | [Link](https://huggingface.co/FractalAIResearch/Fathom-Search-4B) |
 | Updated3 days ago | 327 | nvidia/OpenReasoning-Nemotron-1 | 2B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-1.5B) |
 | Updated3 days ago | 321 | Jinx-org/Jinx-gpt-oss-20bText | 21B | [Link](https://huggingface.co/Jinx-org/Jinx-gpt-oss-20b) |
+| Updatedabout 20 hours ago | 296 | Maincode/Maincoder-1BText | 1B | [Link](https://huggingface.co/Maincode/Maincoder-1B) |
 |  | 295 | deepseek-ai/DeepSeek-R1-0528-Qwen3-8BText | Updatedabout 13 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B) |
 | Updatedabout 4 hours ago | 293 | Qwen/Qwen3Guard-Gen-0 | 0.8B | [Link](https://huggingface.co/Qwen/Qwen3Guard-Gen-0.6B) |
 | Updated8 days ago | 283 | perplexity-ai/browsesafeText | 31B | [Link](https://huggingface.co/perplexity-ai/browsesafe) |
