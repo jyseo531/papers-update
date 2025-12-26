@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-12-25
+Updated on 2025-12-26
 
 > Generated from the Hugging Face database.
 
@@ -73,6 +73,7 @@ Updated on 2025-12-25
 | UpdatedJun 17 | 26.1k | unsloth/Llama-4-Scout-17B-16E-Instruct-GGUFAny-to-Any | 108B | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct-GGUF) |
 | Updatedabout 2 hours ago | 24 | inclusionAI/Ming-Lite-Omni-1 | 19B | [Link](https://huggingface.co/inclusionAI/Ming-Lite-Omni-1.5) |
 | UpdatedMay 22 | 24.3k | meta-llama/Llama-4-Maverick-17B-128E-InstructAny-to-Any | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct) |
+| Updated14 days ago | 24 | kr-cen/BLIP3o-Next-MICoAny-to-Any | 5B | [Link](https://huggingface.co/kr-cen/BLIP3o-Next-MICo) |
 | 2.09k | 22 | THUdyh/Ola-7bAny-to-Any | Updated6 days ago | [Link](https://huggingface.co/THUdyh/Ola-7b) |
 | 3.1k | 22 | Alpha-VLLM/Lumina-mGPT-7B-768Any-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-768) |
 | 253 | 20 | LanguageBind/UniWorld-V1Any-to-Any | Updatedabout 6 hours ago | [Link](https://huggingface.co/LanguageBind/UniWorld-V1) |
