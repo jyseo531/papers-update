@@ -54,6 +54,7 @@ Updated on 2025-12-26
 | UpdatedApr 23 | 53 | unsloth/Llama-4-Scout-17B-16E-unsloth-bnb-8bitAny-to-Any | 109B | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-unsloth-bnb-8bit) |
 | UpdatedAug 14 | 48k | unsloth/gemma-3-4b-it-GGUFAny-to-Any | 4B | [Link](https://huggingface.co/unsloth/gemma-3-4b-it-GGUF) |
 | UpdatedSep 11, 2024 | 47 | ljnlonoljpiljm/florence-2-large-nsfw-ptAny-to-Any | 0.8B | [Link](https://huggingface.co/ljnlonoljpiljm/florence-2-large-nsfw-pt) |
+| UpdatedNov 4, 2023 | 47.8k | adept/fuyu-8bAny-to-Any | 9B | [Link](https://huggingface.co/adept/fuyu-8b) |
 | 32.5k | 44 | onnx-community/Janus-Pro-1B-ONNXAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/onnx-community/Janus-Pro-1B-ONNX) |
 | UpdatedAug 14 | 43.6k | unsloth/gemma-3-27b-it-GGUFAny-to-Any | 27B | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-GGUF) |
 | 1 | 42 | lehduong/OneDiffusionAny-to-Any | UpdatedJul 24 | [Link](https://huggingface.co/lehduong/OneDiffusion) |
@@ -2408,6 +2409,7 @@ Updated on 2025-12-26
 | 78 | 4 | valiantcat/Qwen-Image-Edit-2509-photousImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/valiantcat/Qwen-Image-Edit-2509-photous) |
 | 32 | 4 | stepfun-ai/Step1X-Edit-v1p2Image-to-Image | Updated1 day ago | [Link](https://huggingface.co/stepfun-ai/Step1X-Edit-v1p2) |
 | 390 | 4 | drbaph/Qwen-Image-Edit-2511-FP8Image-to-Image | Updated1 day ago | [Link](https://huggingface.co/drbaph/Qwen-Image-Edit-2511-FP8) |
+| 99 | 4 | Disty0/Qwen-Image-Edit-2511-SDNQ-uint4-svd-r32Image-to-Image | Updated3 days ago | [Link](https://huggingface.co/Disty0/Qwen-Image-Edit-2511-SDNQ-uint4-svd-r32) |
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
@@ -2945,6 +2947,7 @@ Updated on 2025-12-26
 | 4 | 1 | SawanStack/gpt2-image-captioning-onnxImage-to-Text | UpdatedNov 13, 2023 | [Link](https://huggingface.co/SawanStack/gpt2-image-captioning-onnx) |
 | 5 | 1 | misoda/htr-mlw-bestImage-to-Text | UpdatedMay 14, 2023 | [Link](https://huggingface.co/misoda/htr-mlw-best) |
 | Updated25 days ago | 1.11k | sherif1313/Arabic-handwritten-OCR-4bit-Qwen2 | 4B | [Link](https://huggingface.co/sherif1313/Arabic-handwritten-OCR-4bit-Qwen2.5-VL-3B-v2) |
+| 20 | 1 | unni12345/MedBlip2Image-to-Text | UpdatedJul 27, 2023 | [Link](https://huggingface.co/unni12345/MedBlip2) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -4548,6 +4551,7 @@ Updated on 2025-12-26
 | Updated3 days ago | 125 | janhq/Jan-v1-edgeText | 2B | [Link](https://huggingface.co/janhq/Jan-v1-edge) |
 | Updated3 days ago | 121 | nvidia/OpenReasoning-Nemotron-14BText | 15B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-14B) |
 | Updatedabout 5 hours ago | 121k | EssentialAI/rnj-1Text | 8B | [Link](https://huggingface.co/EssentialAI/rnj-1) |
+| Updatedabout 5 hours ago | 121 | MiniMaxAI/MiniMax-M2 | 229B | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M2.1) |
 | Updated1 day ago | 119 | LiquidAI/LFM2-350M-ExtractText | 0.4B | [Link](https://huggingface.co/LiquidAI/LFM2-350M-Extract) |
 | Updated7 days ago | 119 | gustavecortal/Beck-8BText | 8B | [Link](https://huggingface.co/gustavecortal/Beck-8B) |
 | Updatedabout 11 hours ago | 115 | mistralai/Devstral-Small-2507Text | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2507) |
