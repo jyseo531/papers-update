@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-12-26
+Updated on 2025-12-27
 
 > Generated from the Hugging Face database.
 
@@ -4748,6 +4748,7 @@ Updated on 2025-12-26
 | 3.29k | 29 | Menlo/Jan-nanoText | Updatedabout 9 hours ago | [Link](https://huggingface.co/Menlo/Jan-nano) |
 | Updatedabout 3 hours ago | 29 | skt/A | 72B | [Link](https://huggingface.co/skt/A.X-4.0) |
 | Updated2 days ago | 29 | Writer/palmyra-mini-thinking-aText | 2B | [Link](https://huggingface.co/Writer/palmyra-mini-thinking-a) |
+| Updatedabout 5 hours ago | 29 | unsloth/MiniMax-M2 | 229B | [Link](https://huggingface.co/unsloth/MiniMax-M2.1-GGUF) |
 | 426 | 28 | LGAI-EXAONE/EXAONE-Deep-32B-GGUFText | Updatedabout 13 hours ago | [Link](https://huggingface.co/LGAI-EXAONE/EXAONE-Deep-32B-GGUF) |
 | 319 | 28 | nvidia/Llama-3 | Updated3 days ago | [Link](https://huggingface.co/nvidia/Llama-3.1-Nemotron-Nano-8B-v1) |
 | 7.28k | 28 | bartowski/Qwen_Qwen3-32B-GGUFText | Updated1 day ago | [Link](https://huggingface.co/bartowski/Qwen_Qwen3-32B-GGUF) |
