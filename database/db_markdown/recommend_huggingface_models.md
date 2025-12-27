@@ -2282,6 +2282,7 @@ Updated on 2025-12-27
 | 169k | 534 | stabilityai/stable-diffusion-2-inpaintingImage-to-Image | UpdatedJul 5, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-2-inpainting) |
 | Updatedabout 6 hours ago | 349 | inclusionAI/MingTok-VisionImage-to-Image | 0.7B | [Link](https://huggingface.co/inclusionAI/MingTok-Vision) |
 | 3.02k | 268 | fal/AuraSR-v2Image-to-Image | UpdatedAug 7, 2024 | [Link](https://huggingface.co/fal/AuraSR-v2) |
+| Updatedabout 10 hours ago | 262 | vantagewithai/Qwen-Image-Edit-2511-GGUFImage-to-Image | 20B | [Link](https://huggingface.co/vantagewithai/Qwen-Image-Edit-2511-GGUF) |
 | 6.24k | 260 | enhanceaiteam/Flux-Uncensored-V2Image-to-Image | UpdatedOct 11, 2024 | [Link](https://huggingface.co/enhanceaiteam/Flux-Uncensored-V2) |
 |  | 243 | Qwen/Qwen-Image-EditImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/Qwen/Qwen-Image-Edit) |
 | 51.7k | 241 | DionTimmer/controlnet_qrcode-control_v1p_sd15Image-to-Image | UpdatedJun 15, 2023 | [Link](https://huggingface.co/DionTimmer/controlnet_qrcode-control_v1p_sd15) |
@@ -3008,6 +3009,7 @@ Updated on 2025-12-27
 | 15 | Unknown | bidiptas/PG-InstructBLIPImage-to-Text | UpdatedJan 22, 2024 | [Link](https://huggingface.co/bidiptas/PG-InstructBLIP) |
 | 12 | Unknown | deepghs/paddleocrImage-to-Text | Updated20 days ago | [Link](https://huggingface.co/deepghs/paddleocr) |
 | 2 | Unknown | asmud/EasyOCR-onnxImage-to-Text | UpdatedSep 2 | [Link](https://huggingface.co/asmud/EasyOCR-onnx) |
+| 4 | Unknown | marsena/paddleocr-onnx-modelsImage-to-Text | UpdatedSep 1 | [Link](https://huggingface.co/marsena/paddleocr-onnx-models) |
 
 ## Image-to-Video
 
