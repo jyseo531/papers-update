@@ -4956,6 +4956,7 @@ Updated on 2025-12-28
 | Updatedabout 10 hours ago | 3.72k | allenai/Olmo-3-1125-32BText | 32B | [Link](https://huggingface.co/allenai/Olmo-3-1125-32B) |
 | Updated3 days ago | 3.33k | bartowski/nvidia_Orchestrator-8B-GGUFText | 8B | [Link](https://huggingface.co/bartowski/nvidia_Orchestrator-8B-GGUF) |
 | Updated5 days ago | 3.04k | nvidia/Nemotron-Flash-3B-InstructText | 3B | [Link](https://huggingface.co/nvidia/Nemotron-Flash-3B-Instruct) |
+| Updated3 days ago | 3.17k | codelion/dhara-70mText | 71.3M | [Link](https://huggingface.co/codelion/dhara-70m) |
 | Updated6 days ago | 2.04k | marcelbinz/Llama-3 | 71B | [Link](https://huggingface.co/marcelbinz/Llama-3.1-Centaur-70B) |
 | Updatedabout 2 hours ago | 2.66k | unsloth/Qwen3-235B-A22B-Instruct-2507-GGUFText | 235B | [Link](https://huggingface.co/unsloth/Qwen3-235B-A22B-Instruct-2507-GGUF) |
 | Updatedabout 10 hours ago | 2 | Qwen/Qwen3-30B-A3B-Thinking-2507Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507) |
@@ -4988,6 +4989,7 @@ Updated on 2025-12-28
 | UpdatedMar 17, 2024 | 1.82M | TinyLlama/TinyLlama-1 | 1B | [Link](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0) |
 | Updatedabout 2 hours ago | 1.45k | nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-FP8Text | 32B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-FP8) |
 | Updatedabout 5 hours ago | 1.32k | google/functiongemma-270m-itText | 0.3B | [Link](https://huggingface.co/google/functiongemma-270m-it) |
+| Updated2 days ago | 1.51k | AaryanK/MiniMax-M2 | 229B | [Link](https://huggingface.co/AaryanK/MiniMax-M2.1-GGUF) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
