@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-12-27
+Updated on 2025-12-28
 
 > Generated from the Hugging Face database.
 
@@ -109,6 +109,7 @@ Updated on 2025-12-27
 | UpdatedMay 12 | 6.52k | unsloth/gemma-3-4b-it-bnb-4bitAny-to-Any | 3B | [Link](https://huggingface.co/unsloth/gemma-3-4b-it-bnb-4bit) |
 | Updated2 days ago | 6 | sensenova/InteractiveOmni-8BAny-to-Any | 10B | [Link](https://huggingface.co/sensenova/InteractiveOmni-8B) |
 | UpdatedJun 18 | 6.36k | unsloth/Llama-4-Maverick-17B-128E-Instruct-GGUFAny-to-Any | 401B | [Link](https://huggingface.co/unsloth/Llama-4-Maverick-17B-128E-Instruct-GGUF) |
+| UpdatedFeb 14 | 6 | Nikhil-aka-Nick/FlorenceDropout2Any-to-Any | 0.8B | [Link](https://huggingface.co/Nikhil-aka-Nick/FlorenceDropout2) |
 | 1.63k | 5 | PKU-Alignment/AA-chameleon-7b-plusAny-to-Any | UpdatedSep 13, 2024 | [Link](https://huggingface.co/PKU-Alignment/AA-chameleon-7b-plus) |
 | 2.67k | 5 | Junfeng5/Liquid_V1_7BAny-to-Any | Updated8 days ago | [Link](https://huggingface.co/Junfeng5/Liquid_V1_7B) |
 | UpdatedMay 9 | 5.89k | unsloth/gemma-3-27b-it-qat-GGUFAny-to-Any | 27B | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-qat-GGUF) |
@@ -6199,6 +6200,7 @@ Updated on 2025-12-27
 | 2 | Unknown | TurboDiffusion/TurboWan2 | Updatedabout 6 hours ago | [Link](https://huggingface.co/TurboDiffusion/TurboWan2.1-T2V-1.3B-480P) |
 | 3 | Unknown | KlingTeam/MemFlowText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/KlingTeam/MemFlow) |
 | 17 | Unknown | Kevin-thu/StoryMemText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/Kevin-thu/StoryMem) |
+| 2 | Unknown | CongWei1230/MoCha-DemoText-to-Video | Updatedabout 11 hours ago | [Link](https://huggingface.co/CongWei1230/MoCha-Demo) |
 
 ## Text2Text Generation
 
