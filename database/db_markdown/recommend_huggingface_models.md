@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-12-29
+Updated on 2025-12-30
 
 > Generated from the Hugging Face database.
 
@@ -66,6 +66,7 @@ Updated on 2025-12-29
 | Updated14 days ago | 37 | sensefvg/InteractiveOmni-8BAny-to-Any | 10B | [Link](https://huggingface.co/sensefvg/InteractiveOmni-8B) |
 | UpdatedAug 14 | 37k | unsloth/gemma-3-12b-it-GGUFAny-to-Any | 12B | [Link](https://huggingface.co/unsloth/gemma-3-12b-it-GGUF) |
 | Updated6 days ago | 36 | CalmState/gemma-3-4b-polyglot-v1Any-to-Any | 4B | [Link](https://huggingface.co/CalmState/gemma-3-4b-polyglot-v1) |
+| Updated10 days ago | 36 | Lambent/IsoC-Gemma-3-12BAny-to-Any | 12B | [Link](https://huggingface.co/Lambent/IsoC-Gemma-3-12B) |
 | UpdatedMar 28 | 35 | allura-org/Gemma-3-Glitter-12BAny-to-Any | 12B | [Link](https://huggingface.co/allura-org/Gemma-3-Glitter-12B) |
 | 94 | 34 | EPFL-VILAB/4M-21_XLAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-21_XL) |
 | Updated1 day ago | 31 | sensenova/InteractiveOmni-4BAny-to-Any | 6B | [Link](https://huggingface.co/sensenova/InteractiveOmni-4B) |
@@ -2637,6 +2638,8 @@ Updated on 2025-12-29
 | 4 | Unknown | nycu-cplab/Genfocus-ModelImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/nycu-cplab/Genfocus-Model) |
 | 220 |  | Qwen/Qwen-Image-Edit-2511Image-to-Image | Updatedabout 13 hours ago | [Link](https://huggingface.co/Qwen/Qwen-Image-Edit-2511) |
 | 142 | Unknown | lilylilith/AnyPoseImage-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/lilylilith/AnyPose) |
+| 9 | Unknown | valiantcat/Qwen-Image-Edit-2511-Upscale2KImage-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/valiantcat/Qwen-Image-Edit-2511-Upscale2K) |
+| 7 | Unknown | WeiChow/EditMGTImage-to-Image | Updated10 days ago | [Link](https://huggingface.co/WeiChow/EditMGT) |
 
 ## Image-to-Text
 
@@ -5358,6 +5361,7 @@ Updated on 2025-12-29
 | 69 | 54 | NewBie-AI/NewBie-image-Exp0 | Updatedabout 11 hours ago | [Link](https://huggingface.co/NewBie-AI/NewBie-image-Exp0.1) |
 | 36 | 51 | THUDM/CogView4-6BText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/THUDM/CogView4-6B) |
 | Updatedabout 9 hours ago | 51 | tencent/HunyuanImage-3 | 83B | [Link](https://huggingface.co/tencent/HunyuanImage-3.0) |
+|  | 46 | fal/FLUX | Updatedabout 5 hours ago | [Link](https://huggingface.co/fal/FLUX.2-dev-Turbo) |
 | 87 | 44 | Freepik/F-LiteText-to-Image | Updatedabout 15 hours ago | [Link](https://huggingface.co/Freepik/F-Lite) |
 | 17.9k | 43 | Disty0/Z-Image-Turbo-SDNQ-uint4-svd-r32Text-to-Image | Updated5 days ago | [Link](https://huggingface.co/Disty0/Z-Image-Turbo-SDNQ-uint4-svd-r32) |
 | 2.23k | 42 | aoxo/flux | Updatedabout 2 hours ago | [Link](https://huggingface.co/aoxo/flux.1dev-abliteratedv2) |
