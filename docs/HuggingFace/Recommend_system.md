@@ -8,6 +8,7 @@ Updated on 2025-12-30
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
 | 617k | 999 | openbmb/MiniCPM-o-2_6Any-to-Any | Updated5 days ago | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6) |
+| UpdatedJun 9 | 806 | RedHatAI/gemma-3-4b-it-quantized | 2B | [Link](https://huggingface.co/RedHatAI/gemma-3-4b-it-quantized.w4a16) |
 | Updated6 days ago | 798 | modelscope/Nexus-GenAny-to-Any | 8B | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | Updatedabout 1 hour ago | 718 | XiaomiMiMo/MiMo-Audio-7B-InstructAny-to-Any | 8B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-Audio-7B-Instruct) |
 | Updatedabout 10 hours ago | 654 | HIT-TMG/Uni-MoE-2 | 33B | [Link](https://huggingface.co/HIT-TMG/Uni-MoE-2.0-Omni) |
@@ -41,6 +42,7 @@ Updated on 2025-12-30
 | 9.96k | 141 | deepseek-ai/JanusFlow-1 | Updated29 days ago | [Link](https://huggingface.co/deepseek-ai/JanusFlow-1.3B) |
 | UpdatedMay 12 | 101k | unsloth/gemma-3-12b-it-unsloth-bnb-4bitAny-to-Any | 12B | [Link](https://huggingface.co/unsloth/gemma-3-12b-it-unsloth-bnb-4bit) |
 | 4.22k | 97 | inclusionAI/Ming-Lite-OmniAny-to-Any | Updatedabout 3 hours ago | [Link](https://huggingface.co/inclusionAI/Ming-Lite-Omni) |
+| UpdatedMay 28 | 92 | Gunulhona/Gemma-3-4BAny-to-Any | 4B | [Link](https://huggingface.co/Gunulhona/Gemma-3-4B) |
 | UpdatedMay 22 | 88.7k | meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8Any-to-Any | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8) |
 | 36.8k | 83 | openbmb/MiniCPM-o-2_6-ggufAny-to-Any | UpdatedJan 17 | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6-gguf) |
 | Updated5 days ago | 76 | DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-ExtremeAny-to-Any | 4B | [Link](https://huggingface.co/DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-Extreme) |
@@ -2286,6 +2288,7 @@ Updated on 2025-12-30
 | 3.02k | 268 | fal/AuraSR-v2Image-to-Image | UpdatedAug 7, 2024 | [Link](https://huggingface.co/fal/AuraSR-v2) |
 | Updatedabout 10 hours ago | 262 | vantagewithai/Qwen-Image-Edit-2511-GGUFImage-to-Image | 20B | [Link](https://huggingface.co/vantagewithai/Qwen-Image-Edit-2511-GGUF) |
 | 6.24k | 260 | enhanceaiteam/Flux-Uncensored-V2Image-to-Image | UpdatedOct 11, 2024 | [Link](https://huggingface.co/enhanceaiteam/Flux-Uncensored-V2) |
+| 158k | 245 | lightx2v/Qwen-Image-Edit-2511-LightningImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/lightx2v/Qwen-Image-Edit-2511-Lightning) |
 |  | 243 | Qwen/Qwen-Image-EditImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/Qwen/Qwen-Image-Edit) |
 | 51.7k | 241 | DionTimmer/controlnet_qrcode-control_v1p_sd15Image-to-Image | UpdatedJun 15, 2023 | [Link](https://huggingface.co/DionTimmer/controlnet_qrcode-control_v1p_sd15) |
 | Updatedabout 13 hours ago | 222 | unsloth/Qwen-Image-Edit-GGUFImage-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-Edit-GGUF) |
@@ -2413,6 +2416,7 @@ Updated on 2025-12-30
 | 32 | 4 | stepfun-ai/Step1X-Edit-v1p2Image-to-Image | Updated1 day ago | [Link](https://huggingface.co/stepfun-ai/Step1X-Edit-v1p2) |
 | 390 | 4 | drbaph/Qwen-Image-Edit-2511-FP8Image-to-Image | Updated1 day ago | [Link](https://huggingface.co/drbaph/Qwen-Image-Edit-2511-FP8) |
 | 99 | 4 | Disty0/Qwen-Image-Edit-2511-SDNQ-uint4-svd-r32Image-to-Image | Updated3 days ago | [Link](https://huggingface.co/Disty0/Qwen-Image-Edit-2511-SDNQ-uint4-svd-r32) |
+| 441 | 4 | starsfriday/Qwen-Image-Edit-2511-Upscale2KImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/starsfriday/Qwen-Image-Edit-2511-Upscale2K) |
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
