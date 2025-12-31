@@ -2313,6 +2313,7 @@ Updated on 2025-12-31
 | 95 | 65 | rsortino/ColorizeNetImage-to-Image | UpdatedJul 31, 2023 | [Link](https://huggingface.co/rsortino/ColorizeNet) |
 | 2.06k | 64 | dx8152/Qwen-Image-Edit-2509-White_to_SceneImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/dx8152/Qwen-Image-Edit-2509-White_to_Scene) |
 | Updatedabout 10 hours ago | 60 | stepfun-ai/NextStep-1-Large-EditImage-to-Image | 15B | [Link](https://huggingface.co/stepfun-ai/NextStep-1-Large-Edit) |
+| 1 | 56 | bytedance-research/OneRewardImage-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/bytedance-research/OneReward) |
 | 5.02k | 54 | lllyasviel/sd-controlnet-scribbleImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-scribble) |
 | 326 | 53 | openai/shap-e-img2imgImage-to-Image | UpdatedJul 20, 2023 | [Link](https://huggingface.co/openai/shap-e-img2img) |
 | 12.4k | 52 | lllyasviel/sd-controlnet-segImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-seg) |
@@ -5694,6 +5695,7 @@ Updated on 2025-12-31
 | 9 | Unknown | Nurburgring/BEYOND_REALITY_Z_IMAGEText-to-Image | Updated2 days ago | [Link](https://huggingface.co/Nurburgring/BEYOND_REALITY_Z_IMAGE) |
 | 20 | Unknown | inclusionAI/TwinFlow-Z-Image-TurboText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/inclusionAI/TwinFlow-Z-Image-Turbo) |
 | 172 |  | Qwen/Qwen-Image-2512Text-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/Qwen/Qwen-Image-2512) |
+| 8 | Unknown | lightx2v/Qwen-Image-2512-LightningText-to-Image | Updated20 minutes ago | [Link](https://huggingface.co/lightx2v/Qwen-Image-2512-Lightning) |
 
 ## Text-to-Speech
 
