@@ -2101,6 +2101,7 @@ Updated on 2026-01-01
 | Updated3 days ago | 7.61k | unsloth/Qwen3-VL-32B-Thinking-GGUFImage-Text-to-Text | 33B | [Link](https://huggingface.co/unsloth/Qwen3-VL-32B-Thinking-GGUF) |
 | Updatedabout 17 hours ago | 7 | ByteDance/Sa2VA-Qwen3-VL-2BImage-Text-to-Text | 3B | [Link](https://huggingface.co/ByteDance/Sa2VA-Qwen3-VL-2B) |
 | 18 | 7 | NexaAI/AutoNeuralImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/NexaAI/AutoNeural) |
+| 126 | 7 | kacperwikiel/RysOCRImage-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/kacperwikiel/RysOCR) |
 | 160 | 6 | MIL-UT/Asagi-14BImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/MIL-UT/Asagi-14B) |
 | Updatedabout 8 hours ago | 6.26k | Qwen/Qwen3-VL-30B-A3B-ThinkingImage-Text-to-Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Thinking) |
 | Updatedabout 14 hours ago | 6 | Qwen/Qwen3-VL-8B-InstructImage-Text-to-Text | 9B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct) |
@@ -4771,6 +4772,7 @@ Updated on 2026-01-01
 | Updatedabout 3 hours ago | 29 | skt/A | 72B | [Link](https://huggingface.co/skt/A.X-4.0) |
 | Updated2 days ago | 29 | Writer/palmyra-mini-thinking-aText | 2B | [Link](https://huggingface.co/Writer/palmyra-mini-thinking-a) |
 | Updatedabout 5 hours ago | 29 | unsloth/MiniMax-M2 | 229B | [Link](https://huggingface.co/unsloth/MiniMax-M2.1-GGUF) |
+| Updatedabout 19 hours ago | 29 | IQuestLab/IQuest-Coder-V1-40B-InstructText | 40B | [Link](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Instruct) |
 | 426 | 28 | LGAI-EXAONE/EXAONE-Deep-32B-GGUFText | Updatedabout 13 hours ago | [Link](https://huggingface.co/LGAI-EXAONE/EXAONE-Deep-32B-GGUF) |
 | 319 | 28 | nvidia/Llama-3 | Updated3 days ago | [Link](https://huggingface.co/nvidia/Llama-3.1-Nemotron-Nano-8B-v1) |
 | 7.28k | 28 | bartowski/Qwen_Qwen3-32B-GGUFText | Updated1 day ago | [Link](https://huggingface.co/bartowski/Qwen_Qwen3-32B-GGUF) |
@@ -4788,6 +4790,7 @@ Updated on 2026-01-01
 | 19 | 27 | Qwen/Qwen3-Reranker-0 | Updatedabout 10 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-Reranker-0.6B) |
 | 54 | 27 | openbmb/MiniCPM4-8BText | Updatedabout 3 hours ago | [Link](https://huggingface.co/openbmb/MiniCPM4-8B) |
 | Updatedabout 4 hours ago | 27 | microsoft/UserLM-8bText | 8B | [Link](https://huggingface.co/microsoft/UserLM-8b) |
+| Updatedabout 19 hours ago | 27 | IQuestLab/IQuest-Coder-V1-40B-Loop-InstructText | 40B | [Link](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Loop-Instruct) |
 | 7.18k | 26 | bartowski/RekaAI_reka-flash-3-GGUFText | Updated2 days ago | [Link](https://huggingface.co/bartowski/RekaAI_reka-flash-3-GGUF) |
 | 499 | 26 | mixedbread-ai/mxbai-rerank-large-v2Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/mixedbread-ai/mxbai-rerank-large-v2) |
 | 1 | 26 | openfree/QwQ-32B-Q8_0-GGUFText | Updatedabout 7 hours ago | [Link](https://huggingface.co/openfree/QwQ-32B-Q8_0-GGUF) |
@@ -5702,6 +5705,7 @@ Updated on 2026-01-01
 | 8 | Unknown | lightx2v/Qwen-Image-2512-LightningText-to-Image | Updated20 minutes ago | [Link](https://huggingface.co/lightx2v/Qwen-Image-2512-Lightning) |
 | 30 | Unknown | Wuli-art/Qwen-Image-2512-Turbo-LoRAText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/Wuli-art/Qwen-Image-2512-Turbo-LoRA) |
 | 22 | Unknown | lodestones/Zeta-ChromaText-to-Image | Updated34 minutes ago | [Link](https://huggingface.co/lodestones/Zeta-Chroma) |
+| 8 | Unknown | unsloth/Qwen-Image-2512-FP8Text-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/unsloth/Qwen-Image-2512-FP8) |
 
 ## Text-to-Speech
 
