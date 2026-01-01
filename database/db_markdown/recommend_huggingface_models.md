@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2025-12-31
+Updated on 2026-01-01
 
 > Generated from the Hugging Face database.
 
@@ -74,6 +74,7 @@ Updated on 2025-12-31
 | Updated1 day ago | 31 | sensenova/InteractiveOmni-4BAny-to-Any | 6B | [Link](https://huggingface.co/sensenova/InteractiveOmni-4B) |
 | Updated14 days ago | 29 | multimodal-reasoning-lab/Anole-Zebra-CoTAny-to-Any | 7B | [Link](https://huggingface.co/multimodal-reasoning-lab/Anole-Zebra-CoT) |
 | Updated4 days ago | 29 | PaDT-MLLM/PaDT_Pro_7BAny-to-Any | 8B | [Link](https://huggingface.co/PaDT-MLLM/PaDT_Pro_7B) |
+| UpdatedMar 13, 2025 | 27 | ericrisco/gemma-3-4b-reasoningAny-to-Any | 4B | [Link](https://huggingface.co/ericrisco/gemma-3-4b-reasoning) |
 | UpdatedJun 17 | 26.1k | unsloth/Llama-4-Scout-17B-16E-Instruct-GGUFAny-to-Any | 108B | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct-GGUF) |
 | Updatedabout 2 hours ago | 24 | inclusionAI/Ming-Lite-Omni-1 | 19B | [Link](https://huggingface.co/inclusionAI/Ming-Lite-Omni-1.5) |
 | UpdatedMay 22 | 24.3k | meta-llama/Llama-4-Maverick-17B-128E-InstructAny-to-Any | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct) |
@@ -2011,6 +2012,7 @@ Updated on 2025-12-31
 | Updated2 days ago | 12.8k | unsloth/Qwen3-VL-30B-A3B-Thinking-GGUFImage-Text-to-Text | 31B | [Link](https://huggingface.co/unsloth/Qwen3-VL-30B-A3B-Thinking-GGUF) |
 | Updatedabout 3 hours ago | 12 | janhq/Jan-v2-VL-highImage-Text-to-Text | 9B | [Link](https://huggingface.co/janhq/Jan-v2-VL-high) |
 | Updatedabout 1 hour ago | 12 | janhq/Jan-v2-VL-medImage-Text-to-Text | 9B | [Link](https://huggingface.co/janhq/Jan-v2-VL-med) |
+| Updatedabout 15 hours ago | 12 | janhq/Jan-v2-VL-max-Instruct-FP8Image-Text-to-Text | 31B | [Link](https://huggingface.co/janhq/Jan-v2-VL-max-Instruct-FP8) |
 | 918 | 11 | mlabonne/gemma-3-27b-it-abliterated-GGUFImage-Text-to-Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-abliterated-GGUF) |
 | 4.38k | 11 | bartowski/mlabonne_gemma-3-27b-it-abliterated-GGUFImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/bartowski/mlabonne_gemma-3-27b-it-abliterated-GGUF) |
 | 862 | 11 | mlabonne/gemma-3-4b-it-abliteratedImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-4b-it-abliterated) |
@@ -4711,6 +4713,7 @@ Updated on 2025-12-31
 | Updated1 day ago | 36 | KurmaAI/AQUA-1BText | 1.0B | [Link](https://huggingface.co/KurmaAI/AQUA-1B) |
 | Updatedabout 10 hours ago | 36 | LiquidAI/LFM2-700MText | 0.7B | [Link](https://huggingface.co/LiquidAI/LFM2-700M) |
 | Updated1 day ago | 36 | inclusionAI/GroveMoE-InstText | 33B | [Link](https://huggingface.co/inclusionAI/GroveMoE-Inst) |
+| Updatedabout 13 hours ago | 36 | tencent/Youtu-LLM-2BText | 2B | [Link](https://huggingface.co/tencent/Youtu-LLM-2B) |
 | 3.68k | 35 | arcee-ai/Arcee-Maestro-7B-PreviewText | Updated4 days ago | [Link](https://huggingface.co/arcee-ai/Arcee-Maestro-7B-Preview) |
 | 2.14k | 35 | google/gemma-3-1b-ptText | Updatedabout 17 hours ago | [Link](https://huggingface.co/google/gemma-3-1b-pt) |
 | 1.6k | 35 | Menlo/ReZero-v0 | Updatedabout 3 hours ago | [Link](https://huggingface.co/Menlo/ReZero-v0.1-llama-3.2-3b-it-grpo-250404) |
@@ -4963,6 +4966,7 @@ Updated on 2025-12-31
 | Updated3 days ago | 4.4k | unsloth/Apriel-1 | 14B | [Link](https://huggingface.co/unsloth/Apriel-1.5-15b-Thinker-GGUF) |
 | Updatedabout 9 hours ago | 4.64k | lefromage/Qwen3-Next-80B-A3B-Instruct-GGUFText | 80B | [Link](https://huggingface.co/lefromage/Qwen3-Next-80B-A3B-Instruct-GGUF) |
 | Updatedabout 2 hours ago | 4 | tencent/WeDLM-8B-InstructText | 8B | [Link](https://huggingface.co/tencent/WeDLM-8B-Instruct) |
+| Updatedabout 11 hours ago | 4 | speakleash/Bielik-11B-v3 | 11B | [Link](https://huggingface.co/speakleash/Bielik-11B-v3.0-Instruct) |
 | Updated2 days ago | 3.87k | unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUFText | 480B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUF) |
 | Updated6 days ago | 3.39k | Qwen/Qwen3-30B-A3B-Thinking-2507-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507-FP8) |
 | Updatedabout 4 hours ago | 3.61k | openai/gpt-oss-120bText | 63B | [Link](https://huggingface.co/openai/gpt-oss-120b) |
@@ -5696,6 +5700,8 @@ Updated on 2025-12-31
 | 20 | Unknown | inclusionAI/TwinFlow-Z-Image-TurboText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/inclusionAI/TwinFlow-Z-Image-Turbo) |
 | 172 |  | Qwen/Qwen-Image-2512Text-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/Qwen/Qwen-Image-2512) |
 | 8 | Unknown | lightx2v/Qwen-Image-2512-LightningText-to-Image | Updated20 minutes ago | [Link](https://huggingface.co/lightx2v/Qwen-Image-2512-Lightning) |
+| 30 | Unknown | Wuli-art/Qwen-Image-2512-Turbo-LoRAText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/Wuli-art/Qwen-Image-2512-Turbo-LoRA) |
+| 22 | Unknown | lodestones/Zeta-ChromaText-to-Image | Updated34 minutes ago | [Link](https://huggingface.co/lodestones/Zeta-Chroma) |
 
 ## Text-to-Speech
 
