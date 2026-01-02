@@ -2650,6 +2650,7 @@ Updated on 2026-01-02
 | 9 | Unknown | valiantcat/Qwen-Image-Edit-2511-Upscale2KImage-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/valiantcat/Qwen-Image-Edit-2511-Upscale2K) |
 | 7 | Unknown | WeiChow/EditMGTImage-to-Image | Updated10 days ago | [Link](https://huggingface.co/WeiChow/EditMGT) |
 | 6 | Unknown | lightx2v/Qwen-Image-Edit-2512-LightningImage-to-Image | Updated17 minutes ago | [Link](https://huggingface.co/lightx2v/Qwen-Image-Edit-2512-Lightning) |
+| 4 | Unknown | Kokoboyaw/PanelPainter-ProjectImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/Kokoboyaw/PanelPainter-Project) |
 
 ## Image-to-Text
 
@@ -4632,6 +4633,7 @@ Updated on 2026-01-02
 | 37 | 71 | microsoft/Phi-4-reasoning-plusText | Updated13 days ago | [Link](https://huggingface.co/microsoft/Phi-4-reasoning-plus) |
 | Updatedabout 2 hours ago | 71 | moonshotai/Kimi-Linear-48B-A3B-BaseText | 49B | [Link](https://huggingface.co/moonshotai/Kimi-Linear-48B-A3B-Base) |
 | Updatedabout 3 hours ago | 67 | Qwen/Qwen3-235B-A22B-Thinking-2507Text | 235B | [Link](https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507) |
+| Updatedabout 7 hours ago | 67 | DavidAU/Llama3 | 8B | [Link](https://huggingface.co/DavidAU/Llama3.3-8B-Instruct-Thinking-Claude-4.5-Opus-High-Reasoning) |
 | Updatedabout 19 hours ago | 66 | nvidia/Llama-3_3-Nemotron-Super-49B-v1_5Text | 50B | [Link](https://huggingface.co/nvidia/Llama-3_3-Nemotron-Super-49B-v1_5) |
 | 172 | 65 | microsoft/Phi-4-reasoningText | Updated16 days ago | [Link](https://huggingface.co/microsoft/Phi-4-reasoning) |
 | Updated4 days ago | 64 | katanemo/Arch-Router-1 | 2B | [Link](https://huggingface.co/katanemo/Arch-Router-1.5B) |
@@ -5344,6 +5346,7 @@ Updated on 2026-01-02
 | 8.63k | 644 | ostris/OpenFLUX | UpdatedOct 3, 2024 | [Link](https://huggingface.co/ostris/OpenFLUX.1) |
 | Updatedabout 5 hours ago | 494 | unsloth/Qwen-Image-GGUFText-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-GGUF) |
 | 28.8k | 470 | Shakker-Labs/AWPortrait-FLText-to-Image | UpdatedSep 5, 2024 | [Link](https://huggingface.co/Shakker-Labs/AWPortrait-FL) |
+| Updated3 days ago | 461 | wbruna/TwinFlow-Z-Image-Turbo-sdcpp-GGUFText-to-Image | 6B | [Link](https://huggingface.co/wbruna/TwinFlow-Z-Image-Turbo-sdcpp-GGUF) |
 | 49.2k | 457 | Shakker-Labs/FLUX | UpdatedAug 29, 2024 | [Link](https://huggingface.co/Shakker-Labs/FLUX.1-dev-ControlNet-Union-Pro) |
 | 39.9k | 449 | alimama-creative/FLUX | UpdatedOct 15, 2024 | [Link](https://huggingface.co/alimama-creative/FLUX.1-Turbo-Alpha) |
 | 37.6k | 445 | XLabs-AI/flux-controlnet-collectionsText-to-Image | UpdatedAug 30, 2024 | [Link](https://huggingface.co/XLabs-AI/flux-controlnet-collections) |
