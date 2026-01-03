@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-01-02
+Updated on 2026-01-03
 
 > Generated from the Hugging Face database.
 
@@ -236,6 +236,7 @@ Updated on 2026-01-02
 | 5 | Unknown | MTDoven/Recurrent-Parameter-GenerationAny-to-Any | UpdatedSep 24 | [Link](https://huggingface.co/MTDoven/Recurrent-Parameter-Generation) |
 | 12 | Unknown | Yuanshi/ViBTAny-to-Any | Updatedabout 10 hours ago | [Link](https://huggingface.co/Yuanshi/ViBT) |
 | 16 | Unknown | zai-org/RealVideoAny-to-Any | Updatedabout 14 hours ago | [Link](https://huggingface.co/zai-org/RealVideo) |
+| 2 | Unknown | claustrophobic/audio_pure_urewoseiAny-to-Any | Updatedabout 9 hours ago | [Link](https://huggingface.co/claustrophobic/audio_pure_urewosei) |
 
 ## Audio Classification
 
