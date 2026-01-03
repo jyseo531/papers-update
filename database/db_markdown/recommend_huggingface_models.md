@@ -118,6 +118,7 @@ Updated on 2026-01-03
 | 1.63k | 5 | PKU-Alignment/AA-chameleon-7b-plusAny-to-Any | UpdatedSep 13, 2024 | [Link](https://huggingface.co/PKU-Alignment/AA-chameleon-7b-plus) |
 | 2.67k | 5 | Junfeng5/Liquid_V1_7BAny-to-Any | Updated8 days ago | [Link](https://huggingface.co/Junfeng5/Liquid_V1_7B) |
 | UpdatedMay 9 | 5.89k | unsloth/gemma-3-27b-it-qat-GGUFAny-to-Any | 27B | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-qat-GGUF) |
+| UpdatedApr 26, 2025 | 5 | OddTheGreat/Planetoid_27B_V | 27B | [Link](https://huggingface.co/OddTheGreat/Planetoid_27B_V.2) |
 | 126 | 4 | Alpha-VLLM/Chameleon_7B_mGPTAny-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Chameleon_7B_mGPT) |
 | 37 | 4 | Alpha-VLLM/Lumina-mGPT-7B-512-MultiImageAny-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-512-MultiImage) |
 | 26 | 4 | EPFL-VILAB/4M-7-T2I_XL_CC12MAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-7-T2I_XL_CC12M) |
@@ -2423,6 +2424,7 @@ Updated on 2026-01-03
 | 390 | 4 | drbaph/Qwen-Image-Edit-2511-FP8Image-to-Image | Updated1 day ago | [Link](https://huggingface.co/drbaph/Qwen-Image-Edit-2511-FP8) |
 | 99 | 4 | Disty0/Qwen-Image-Edit-2511-SDNQ-uint4-svd-r32Image-to-Image | Updated3 days ago | [Link](https://huggingface.co/Disty0/Qwen-Image-Edit-2511-SDNQ-uint4-svd-r32) |
 | 441 | 4 | starsfriday/Qwen-Image-Edit-2511-Upscale2KImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/starsfriday/Qwen-Image-Edit-2511-Upscale2K) |
+| 397 | 4 | ovedrive/Qwen-Image-Edit-2511-4bitImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/ovedrive/Qwen-Image-Edit-2511-4bit) |
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
@@ -2453,6 +2455,7 @@ Updated on 2026-01-03
 | 146 | 3 | chestnutlzj/Edit-R1-FLUX | Updated1 day ago | [Link](https://huggingface.co/chestnutlzj/Edit-R1-FLUX.1-Kontext-dev) |
 |  | 3 | prithivMLmods/Kontext-Watermark-RemoverImage-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/prithivMLmods/Kontext-Watermark-Remover) |
 | 132 | 3 | valiantcat/Qwen-Image-Edit-2509-Passionate-kissImage-to-Image | Updated12 days ago | [Link](https://huggingface.co/valiantcat/Qwen-Image-Edit-2509-Passionate-kiss) |
+| 522 | 3 | Jonny001/Qwen-Image-Edit-Remove-ClothesImage-to-Image | UpdatedAug 29, 2025 | [Link](https://huggingface.co/Jonny001/Qwen-Image-Edit-Remove-Clothes) |
 | 67 | 2 | SherryXTChen/InstructCLIP-InstructPix2PixImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/SherryXTChen/InstructCLIP-InstructPix2Pix) |
 | 17 | 2 | SherryXTChen/Instruct-CLIPImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/SherryXTChen/Instruct-CLIP) |
 | 76 | 2 | VisualCloze/VisualClozePipeline-384Image-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/VisualCloze/VisualClozePipeline-384) |
@@ -2712,6 +2715,7 @@ Updated on 2026-01-03
 | UpdatedSep 24, 2024 | 69 | impactframes/Qwen2-VL-7B-CaptionerImage-to-Text | 8B | [Link](https://huggingface.co/impactframes/Qwen2-VL-7B-Captioner) |
 | Updated6 days ago | 68 | smolagents/Qwen2 | 4B | [Link](https://huggingface.co/smolagents/Qwen2.5-VL-3B-Instruct-Agentic) |
 | UpdatedJul 22, 2024 | 68 | lenamerkli/ingredient-scannerImage-to-Text | 0.5B | [Link](https://huggingface.co/lenamerkli/ingredient-scanner) |
+| UpdatedJan 27, 2025 | 65 | cnmoro/mini-image-captioningImage-to-Text | 34.2M | [Link](https://huggingface.co/cnmoro/mini-image-captioning) |
 | 8.31k | 64 | alibaba-damo/mgp-str-baseImage-to-Text | UpdatedDec 11, 2023 | [Link](https://huggingface.co/alibaba-damo/mgp-str-base) |
 | UpdatedMar 25, 2024 | 61 | emisilab/model-ocr-ktp-v1Image-to-Text | 0.2B | [Link](https://huggingface.co/emisilab/model-ocr-ktp-v1) |
 | Updated1 day ago | 56 | huihui-ai/Huihui-Devstral-Small-2-24B-Instruct-2512-abliteratedImage-to-Text | 24B | [Link](https://huggingface.co/huihui-ai/Huihui-Devstral-Small-2-24B-Instruct-2512-abliterated) |
@@ -4527,6 +4531,7 @@ Updated on 2026-01-03
 | Updated2 days ago | 266 | FutureMa/Qwen3-8B-Drama-ThinkingText | 308k | [Link](https://huggingface.co/FutureMa/Qwen3-8B-Drama-Thinking) |
 | Updated5 days ago | 264 | arcee-ai/Trinity-Nano-BaseText | 6B | [Link](https://huggingface.co/arcee-ai/Trinity-Nano-Base) |
 | 6.51k | 262 | NousResearch/DeepHermes-3-Llama-3-8B-PreviewText | Updated6 days ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview) |
+| Updatedabout 22 hours ago | 256 | NC-AI-consortium-VAETKI/VAETKIText | 112B | [Link](https://huggingface.co/NC-AI-consortium-VAETKI/VAETKI) |
 | Updatedabout 2 hours ago | 255 | agentica-org/DeepSWE-PreviewText | 33B | [Link](https://huggingface.co/agentica-org/DeepSWE-Preview) |
 | Updated3 days ago | 249 | cerebras/DeepSeek-V3 | 345B | [Link](https://huggingface.co/cerebras/DeepSeek-V3.2-REAP-345B-A37B) |
 | 117 | 248 | moonshotai/Kimi-K2-ThinkingText | Updatedabout 10 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-K2-Thinking) |
@@ -4998,6 +5003,7 @@ Updated on 2026-01-03
 | Updatedabout 7 hours ago | 2.43k | allenai/Olmo-3-1025-7BText | 7B | [Link](https://huggingface.co/allenai/Olmo-3-1025-7B) |
 | Updated3 days ago | 2.09k | nvidia/Nemotron-Orchestrator-8BText | 8B | [Link](https://huggingface.co/nvidia/Nemotron-Orchestrator-8B) |
 | Updatedabout 3 hours ago | 2.17k | unsloth/functiongemma-270m-it-GGUFText | 0.3B | [Link](https://huggingface.co/unsloth/functiongemma-270m-it-GGUF) |
+| Updatedabout 10 hours ago | 2.55k | IQuestLab/IQuest-Coder-V1-40B-BaseText | 40B | [Link](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Base) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
 | Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
