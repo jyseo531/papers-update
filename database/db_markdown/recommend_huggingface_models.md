@@ -10,6 +10,7 @@ Updated on 2026-01-04
 | 617k | 999 | openbmb/MiniCPM-o-2_6Any-to-Any | Updated5 days ago | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6) |
 | UpdatedJun 9 | 806 | RedHatAI/gemma-3-4b-it-quantized | 2B | [Link](https://huggingface.co/RedHatAI/gemma-3-4b-it-quantized.w4a16) |
 | Updated6 days ago | 798 | modelscope/Nexus-GenAny-to-Any | 8B | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
+| UpdatedApr 9, 2025 | 728 | meta-llama/Llama-4-Maverick-17B-128EAny-to-Any | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E) |
 | Updatedabout 1 hour ago | 718 | XiaomiMiMo/MiMo-Audio-7B-InstructAny-to-Any | 8B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-Audio-7B-Instruct) |
 | Updatedabout 10 hours ago | 654 | HIT-TMG/Uni-MoE-2 | 33B | [Link](https://huggingface.co/HIT-TMG/Uni-MoE-2.0-Omni) |
 | Updatedabout 10 hours ago | 629 | meituan-longcat/LongCat-Flash-OmniAny-to-Any | 561B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Omni) |
@@ -2387,6 +2388,7 @@ Updated on 2026-01-04
 | 25 | 9 | nvidia/ChronoEdit-14B-Diffusers-Paint-Brush-LoraImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/nvidia/ChronoEdit-14B-Diffusers-Paint-Brush-Lora) |
 | 59 | 8 | qualcomm/AOT-GANImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/qualcomm/AOT-GAN) |
 |  | 8 | xuminglong/kontext-tryon7Image-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/xuminglong/kontext-tryon7) |
+| 160 | 8 | Jamichsu/Stream-DiffVSRImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/Jamichsu/Stream-DiffVSR) |
 | 1.74k | 7 | xiaozaa/catvton-flux-betaImage-to-Image | UpdatedJan 16 | [Link](https://huggingface.co/xiaozaa/catvton-flux-beta) |
 | 33 | 7 | kontext-community/relighting-kontext-dev-lora-v3Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/kontext-community/relighting-kontext-dev-lora-v3) |
 | Updatedabout 1 hour ago | 7 | chatpig/flux2-dev-ggufImage-to-Image | 18B | [Link](https://huggingface.co/chatpig/flux2-dev-gguf) |
@@ -2657,6 +2659,7 @@ Updated on 2026-01-04
 | 6 | Unknown | lightx2v/Qwen-Image-Edit-2512-LightningImage-to-Image | Updated17 minutes ago | [Link](https://huggingface.co/lightx2v/Qwen-Image-Edit-2512-Lightning) |
 | 4 | Unknown | Kokoboyaw/PanelPainter-ProjectImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/Kokoboyaw/PanelPainter-Project) |
 | 4 |  | prithivMLmods/Qwen-Image-Edit-2511-AnimeImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-2511-Anime) |
+| 64 |  | prithivMLmods/Qwen-Image-Edit-2511-Object-RemoverImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-2511-Object-Remover) |
 
 ## Image-to-Text
 
@@ -4599,6 +4602,7 @@ Updated on 2026-01-04
 | 1.55k | 102 | Tesslate/UIGEN-T2-7B-Q8_0-GGUFText | Updatedabout 10 hours ago | [Link](https://huggingface.co/Tesslate/UIGEN-T2-7B-Q8_0-GGUF) |
 | Updatedabout 15 hours ago | 102 | cerebras/GLM-4 | 82B | [Link](https://huggingface.co/cerebras/GLM-4.5-Air-REAP-82B-A12B) |
 | 1.24k | 101 | nvidia/Nemotron-Research-Reasoning-Qwen-1 | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/Nemotron-Research-Reasoning-Qwen-1.5B) |
+| Updatedabout 7 hours ago | 101 | tencent/Youtu-LLM-2B-BaseText | 2B | [Link](https://huggingface.co/tencent/Youtu-LLM-2B-Base) |
 | Updatedabout 9 hours ago | 100 | PrimeIntellect/INTELLECT-3Text | 107B | [Link](https://huggingface.co/PrimeIntellect/INTELLECT-3) |
 | 12.5k | 99 | utter-project/EuroLLM-1 | UpdatedNov 27, 2024 | [Link](https://huggingface.co/utter-project/EuroLLM-1.7B) |
 | Updatedabout 3 hours ago | 98 | unsloth/gpt-oss-20b-GGUFText | 21B | [Link](https://huggingface.co/unsloth/gpt-oss-20b-GGUF) |
@@ -5721,6 +5725,7 @@ Updated on 2026-01-04
 | 30 | Unknown | Wuli-art/Qwen-Image-2512-Turbo-LoRAText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/Wuli-art/Qwen-Image-2512-Turbo-LoRA) |
 | 22 | Unknown | lodestones/Zeta-ChromaText-to-Image | Updated34 minutes ago | [Link](https://huggingface.co/lodestones/Zeta-Chroma) |
 | 8 | Unknown | unsloth/Qwen-Image-2512-FP8Text-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/unsloth/Qwen-Image-2512-FP8) |
+| 10 | Unknown | azazeal2/TwinFlow-Z-Image-Turbo-repackedText-to-Image | Updated3 days ago | [Link](https://huggingface.co/azazeal2/TwinFlow-Z-Image-Turbo-repacked) |
 
 ## Text-to-Speech
 
@@ -6021,6 +6026,8 @@ Updated on 2026-01-04
 | 64 | Unknown | ResembleAI/chatterbox-turboText-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/ResembleAI/chatterbox-turbo) |
 | 12 | Unknown | ResembleAI/chatterbox-turbo-ONNXText-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/ResembleAI/chatterbox-turbo-ONNX) |
 | 172 | Unknown | FunAudioLLM/Fun-CosyVoice3-0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512) |
+| 4 | Unknown | vadimbelsky/emirati-fastpitch-bilingual-v1 | Updatedabout 6 hours ago | [Link](https://huggingface.co/vadimbelsky/emirati-fastpitch-bilingual-v1.0) |
+| 10 | Unknown | Eempostor/F5-TTS-INDO-FINETUNE-V2Text-to-Speech | UpdatedOct 12, 2025 | [Link](https://huggingface.co/Eempostor/F5-TTS-INDO-FINETUNE-V2) |
 
 ## Text-to-Video
 
