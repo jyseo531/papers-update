@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-01-03
+Updated on 2026-01-04
 
 > Generated from the Hugging Face database.
 
@@ -2391,6 +2391,7 @@ Updated on 2026-01-03
 | 33 | 7 | kontext-community/relighting-kontext-dev-lora-v3Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/kontext-community/relighting-kontext-dev-lora-v3) |
 | Updatedabout 1 hour ago | 7 | chatpig/flux2-dev-ggufImage-to-Image | 18B | [Link](https://huggingface.co/chatpig/flux2-dev-gguf) |
 | 2 | 7 | prov-gigatime/GigaTIMEImage-to-Image | Updatedabout 18 hours ago | [Link](https://huggingface.co/prov-gigatime/GigaTIME) |
+|  | 7 | lrzjason/Anything2Real_2601Image-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/lrzjason/Anything2Real_2601) |
 | 1.97k | 6 | TencentARC/t2iadapter_sketch_sd15v2Image-to-Image | UpdatedAug 1, 2023 | [Link](https://huggingface.co/TencentARC/t2iadapter_sketch_sd15v2) |
 | 443 | 6 | LPX55/FLUX | Updated6 days ago | [Link](https://huggingface.co/LPX55/FLUX.1_Kontext-Lightning) |
 | 8 | 6 | stepfun-ai/Step1X-Edit-v1p2-previewImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/stepfun-ai/Step1X-Edit-v1p2-preview) |
@@ -2655,6 +2656,7 @@ Updated on 2026-01-03
 | 7 | Unknown | WeiChow/EditMGTImage-to-Image | Updated10 days ago | [Link](https://huggingface.co/WeiChow/EditMGT) |
 | 6 | Unknown | lightx2v/Qwen-Image-Edit-2512-LightningImage-to-Image | Updated17 minutes ago | [Link](https://huggingface.co/lightx2v/Qwen-Image-Edit-2512-Lightning) |
 | 4 | Unknown | Kokoboyaw/PanelPainter-ProjectImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/Kokoboyaw/PanelPainter-Project) |
+| 4 |  | prithivMLmods/Qwen-Image-Edit-2511-AnimeImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-2511-Anime) |
 
 ## Image-to-Text
 
@@ -2853,6 +2855,7 @@ Updated on 2026-01-03
 | UpdatedFeb 19 | 5 | moot20/SmolVLM-256M-Base-MLXImage-to-Text | 0.3B | [Link](https://huggingface.co/moot20/SmolVLM-256M-Base-MLX) |
 | Updatedabout 10 hours ago | 5 | facebook/DepthLMImage-to-Text | 13B | [Link](https://huggingface.co/facebook/DepthLM) |
 | UpdatedJul 3, 2024 | 5 | medieval-data/trocr-medieval-textualisImage-to-Text | 0.3B | [Link](https://huggingface.co/medieval-data/trocr-medieval-textualis) |
+| 45 | 5 | hezarai/crnn-base-fa-v1Image-to-Text | UpdatedApr 14, 2025 | [Link](https://huggingface.co/hezarai/crnn-base-fa-v1) |
 | 17 | 4 | MixTex/tiny-ZhEn-for-onnxImage-to-Text | UpdatedFeb 23 | [Link](https://huggingface.co/MixTex/tiny-ZhEn-for-onnx) |
 | 14 | 4 | unalignment/Pixtral-12B-Captioner-RelaxedImage-to-Text | UpdatedJan 22 | [Link](https://huggingface.co/unalignment/Pixtral-12B-Captioner-Relaxed) |
 | 3.42k | 4 | breezedeus/pix2text-mfdImage-to-Text | UpdatedJul 10, 2024 | [Link](https://huggingface.co/breezedeus/pix2text-mfd) |
@@ -2926,6 +2929,7 @@ Updated on 2026-01-03
 | 35 | 2 | Float16-cloud/typhoon-ocr1 | Updated10 days ago | [Link](https://huggingface.co/Float16-cloud/typhoon-ocr1.5-2b-int8) |
 | Updatedabout 9 hours ago | 2 | prithivMLmods/LightOnOCR-1B-1025-AIO-GGUFImage-to-Text | 0.8B | [Link](https://huggingface.co/prithivMLmods/LightOnOCR-1B-1025-AIO-GGUF) |
 | 2.76k | 2 | PaddlePaddle/en_PP-OCRv4_mobile_recImage-to-Text | UpdatedJul 22 | [Link](https://huggingface.co/PaddlePaddle/en_PP-OCRv4_mobile_rec) |
+| 50 | 2 | topdu/unirec-0 | Updated10 days ago | [Link](https://huggingface.co/topdu/unirec-0.1b) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -5024,6 +5028,7 @@ Updated on 2026-01-03
 | Updatedabout 2 hours ago | 1.45k | nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-FP8Text | 32B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-FP8) |
 | Updatedabout 5 hours ago | 1.32k | google/functiongemma-270m-itText | 0.3B | [Link](https://huggingface.co/google/functiongemma-270m-it) |
 | Updated2 days ago | 1.51k | AaryanK/MiniMax-M2 | 229B | [Link](https://huggingface.co/AaryanK/MiniMax-M2.1-GGUF) |
+| Updated1 day ago | 1.21k | Ex0bit/MiniMax-M2 | 229B | [Link](https://huggingface.co/Ex0bit/MiniMax-M2.1-PRISM) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
