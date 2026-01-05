@@ -5866,6 +5866,7 @@ Updated on 2026-01-05
 | Updatedabout 9 hours ago | 7 | DeepMount00/Sibilia-TTSText-to-Speech | 2B | [Link](https://huggingface.co/DeepMount00/Sibilia-TTS) |
 | 12 | 7 | AhmedEladl/saudi-ttsText-to-Speech | Updated7 days ago | [Link](https://huggingface.co/AhmedEladl/saudi-tts) |
 | Updated1 day ago | 7 | nineninesix/kani-tts-370mText-to-Speech | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-370m) |
+| 10 | 7 | tarun7r/vibevoice-hindi-loraText-to-Speech | UpdatedNov 1, 2025 | [Link](https://huggingface.co/tarun7r/vibevoice-hindi-lora) |
 | 13 | 6 | ntdgo/ttsviText-to-Speech | UpdatedApr 17, 2024 | [Link](https://huggingface.co/ntdgo/ttsvi) |
 | 29 | 6 | erax-ai/EraX-Smile-UnixSex-F5Text-to-Speech | Updatedabout 8 hours ago | [Link](https://huggingface.co/erax-ai/EraX-Smile-UnixSex-F5) |
 | 29 | 6 | ICTNLP/SLED-TTS-Streaming-LibriheavyText-to-Speech | Updatedabout 18 hours ago | [Link](https://huggingface.co/ICTNLP/SLED-TTS-Streaming-Libriheavy) |
