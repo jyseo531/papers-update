@@ -2660,6 +2660,7 @@ Updated on 2026-01-05
 | 4 | Unknown | Kokoboyaw/PanelPainter-ProjectImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/Kokoboyaw/PanelPainter-Project) |
 | 4 |  | prithivMLmods/Qwen-Image-Edit-2511-AnimeImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-2511-Anime) |
 | 64 |  | prithivMLmods/Qwen-Image-Edit-2511-Object-RemoverImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-2511-Object-Remover) |
+| 6 | Unknown | yhx12/DiffThinkerImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/yhx12/DiffThinker) |
 
 ## Image-to-Text
 
@@ -4505,6 +4506,7 @@ Updated on 2026-01-05
 | Updatedabout 6 hours ago | 670 | nvidia/Orchestrator-8BText | 8B | [Link](https://huggingface.co/nvidia/Orchestrator-8B) |
 | Updated5 days ago | 663k | lmstudio-community/gpt-oss-20b-MLX-8bitText | 21B | [Link](https://huggingface.co/lmstudio-community/gpt-oss-20b-MLX-8bit) |
 | Updated5 days ago | 661 | LiquidAI/LFM2-700M-GGUFText | 0.7B | [Link](https://huggingface.co/LiquidAI/LFM2-700M-GGUF) |
+| Updated1 day ago | 635 | 0xSero/GLM-4 | 2B | [Link](https://huggingface.co/0xSero/GLM-4.7-REAP-50-W4A16) |
 | Updated6 days ago | 630 | kakaocorp/kanana-2-30b-a3b-instructText | 31B | [Link](https://huggingface.co/kakaocorp/kanana-2-30b-a3b-instruct) |
 | Updated2 days ago | 628 | PrimeIntellect/INTELLECT-3-FP8Text | 107B | [Link](https://huggingface.co/PrimeIntellect/INTELLECT-3-FP8) |
 | Updatedabout 5 hours ago | 623 | NousResearch/nomos-1Text | 31B | [Link](https://huggingface.co/NousResearch/nomos-1) |
