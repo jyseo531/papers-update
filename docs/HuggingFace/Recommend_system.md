@@ -122,6 +122,8 @@ Updated on 2026-01-06
 | UpdatedMay 9 | 5.89k | unsloth/gemma-3-27b-it-qat-GGUFAny-to-Any | 27B | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-qat-GGUF) |
 | UpdatedApr 26, 2025 | 5 | OddTheGreat/Planetoid_27B_V | 27B | [Link](https://huggingface.co/OddTheGreat/Planetoid_27B_V.2) |
 | UpdatedApr 11, 2025 | 5.17k | unsloth/gemma-3-4b-pt-unsloth-bnb-4bitAny-to-Any | 4B | [Link](https://huggingface.co/unsloth/gemma-3-4b-pt-unsloth-bnb-4bit) |
+| Updatedabout 10 hours ago | 5 | AIM-Intelligence/COMPASS_gemma-3-4b-it_LoRAAny-to-Any | 4B | [Link](https://huggingface.co/AIM-Intelligence/COMPASS_gemma-3-4b-it_LoRA) |
+| UpdatedApr 6, 2025 | 5 | YoussefHosni/Gemma-3-4B-medical-QA-ReasoningAny-to-Any | 4B | [Link](https://huggingface.co/YoussefHosni/Gemma-3-4B-medical-QA-Reasoning) |
 | 126 | 4 | Alpha-VLLM/Chameleon_7B_mGPTAny-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Chameleon_7B_mGPT) |
 | 37 | 4 | Alpha-VLLM/Lumina-mGPT-7B-512-MultiImageAny-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-512-MultiImage) |
 | 26 | 4 | EPFL-VILAB/4M-7-T2I_XL_CC12MAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-7-T2I_XL_CC12M) |
@@ -5041,6 +5043,7 @@ Updated on 2026-01-06
 | Updated2 days ago | 1.51k | AaryanK/MiniMax-M2 | 229B | [Link](https://huggingface.co/AaryanK/MiniMax-M2.1-GGUF) |
 | Updated1 day ago | 1.21k | Ex0bit/MiniMax-M2 | 229B | [Link](https://huggingface.co/Ex0bit/MiniMax-M2.1-PRISM) |
 | Updatedabout 3 hours ago | 1.33k | upstage/Solar-Open-100BText | 103B | [Link](https://huggingface.co/upstage/Solar-Open-100B) |
+| Updatedabout 12 hours ago | 1.24k | LiquidAI/LFM2 | 1B | [Link](https://huggingface.co/LiquidAI/LFM2.5-1.2B-Instruct) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -6038,6 +6041,7 @@ Updated on 2026-01-06
 | 172 | Unknown | FunAudioLLM/Fun-CosyVoice3-0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512) |
 | 4 | Unknown | vadimbelsky/emirati-fastpitch-bilingual-v1 | Updatedabout 6 hours ago | [Link](https://huggingface.co/vadimbelsky/emirati-fastpitch-bilingual-v1.0) |
 | 10 | Unknown | Eempostor/F5-TTS-INDO-FINETUNE-V2Text-to-Speech | UpdatedOct 12, 2025 | [Link](https://huggingface.co/Eempostor/F5-TTS-INDO-FINETUNE-V2) |
+| 11 | Unknown | Supertone/supertonic-2Text-to-Speech | Updatedabout 5 hours ago | [Link](https://huggingface.co/Supertone/supertonic-2) |
 
 ## Text-to-Video
 
@@ -6274,6 +6278,7 @@ Updated on 2026-01-06
 | 2 | Unknown | CongWei1230/MoCha-DemoText-to-Video | Updatedabout 11 hours ago | [Link](https://huggingface.co/CongWei1230/MoCha-Demo) |
 | 11 | Unknown | nkp37/OpenVid-1MText-to-Video | UpdatedJul 10, 2024 | [Link](https://huggingface.co/nkp37/OpenVid-1M) |
 | 4 | Unknown | convertor/scaled-ltxvText-to-Video | UpdatedMar 6, 2025 | [Link](https://huggingface.co/convertor/scaled-ltxv) |
+| 2 | Unknown | Lightricks/LTX-2-19b-IC-LoRA-Canny-ControlText-to-Video | Updatedabout 17 hours ago | [Link](https://huggingface.co/Lightricks/LTX-2-19b-IC-LoRA-Canny-Control) |
 
 ## Text2Text Generation
 
