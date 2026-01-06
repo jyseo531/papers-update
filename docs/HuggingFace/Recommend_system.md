@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-01-05
+Updated on 2026-01-06
 
 > Generated from the Hugging Face database.
 
@@ -41,6 +41,7 @@ Updated on 2026-01-05
 | 455 | 149 | NexaAI/OmniNeural-4BAny-to-Any | Updated4 days ago | [Link](https://huggingface.co/NexaAI/OmniNeural-4B) |
 | UpdatedApr 8 | 144 | summykai/gemma3-27b-abliterated-dpoAny-to-Any | 27B | [Link](https://huggingface.co/summykai/gemma3-27b-abliterated-dpo) |
 | 9.96k | 141 | deepseek-ai/JanusFlow-1 | Updated29 days ago | [Link](https://huggingface.co/deepseek-ai/JanusFlow-1.3B) |
+| UpdatedMar 28, 2025 | 109 | ToastyPigeon/Gemma-3-Starshine-12BAny-to-Any | 12B | [Link](https://huggingface.co/ToastyPigeon/Gemma-3-Starshine-12B) |
 | UpdatedMay 12 | 101k | unsloth/gemma-3-12b-it-unsloth-bnb-4bitAny-to-Any | 12B | [Link](https://huggingface.co/unsloth/gemma-3-12b-it-unsloth-bnb-4bit) |
 | 4.22k | 97 | inclusionAI/Ming-Lite-OmniAny-to-Any | Updatedabout 3 hours ago | [Link](https://huggingface.co/inclusionAI/Ming-Lite-Omni) |
 | UpdatedMay 28 | 92 | Gunulhona/Gemma-3-4BAny-to-Any | 4B | [Link](https://huggingface.co/Gunulhona/Gemma-3-4B) |
@@ -120,6 +121,7 @@ Updated on 2026-01-05
 | 2.67k | 5 | Junfeng5/Liquid_V1_7BAny-to-Any | Updated8 days ago | [Link](https://huggingface.co/Junfeng5/Liquid_V1_7B) |
 | UpdatedMay 9 | 5.89k | unsloth/gemma-3-27b-it-qat-GGUFAny-to-Any | 27B | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-qat-GGUF) |
 | UpdatedApr 26, 2025 | 5 | OddTheGreat/Planetoid_27B_V | 27B | [Link](https://huggingface.co/OddTheGreat/Planetoid_27B_V.2) |
+| UpdatedApr 11, 2025 | 5.17k | unsloth/gemma-3-4b-pt-unsloth-bnb-4bitAny-to-Any | 4B | [Link](https://huggingface.co/unsloth/gemma-3-4b-pt-unsloth-bnb-4bit) |
 | 126 | 4 | Alpha-VLLM/Chameleon_7B_mGPTAny-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Chameleon_7B_mGPT) |
 | 37 | 4 | Alpha-VLLM/Lumina-mGPT-7B-512-MultiImageAny-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-512-MultiImage) |
 | 26 | 4 | EPFL-VILAB/4M-7-T2I_XL_CC12MAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-7-T2I_XL_CC12M) |
@@ -2661,6 +2663,7 @@ Updated on 2026-01-05
 | 4 |  | prithivMLmods/Qwen-Image-Edit-2511-AnimeImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-2511-Anime) |
 | 64 |  | prithivMLmods/Qwen-Image-Edit-2511-Object-RemoverImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-2511-Object-Remover) |
 | 6 | Unknown | yhx12/DiffThinkerImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/yhx12/DiffThinker) |
+| 116 |  | prithivMLmods/Qwen-Image-Edit-2511-Object-AdderImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-2511-Object-Adder) |
 
 ## Image-to-Text
 
@@ -2934,6 +2937,7 @@ Updated on 2026-01-05
 | Updatedabout 9 hours ago | 2 | prithivMLmods/LightOnOCR-1B-1025-AIO-GGUFImage-to-Text | 0.8B | [Link](https://huggingface.co/prithivMLmods/LightOnOCR-1B-1025-AIO-GGUF) |
 | 2.76k | 2 | PaddlePaddle/en_PP-OCRv4_mobile_recImage-to-Text | UpdatedJul 22 | [Link](https://huggingface.co/PaddlePaddle/en_PP-OCRv4_mobile_rec) |
 | 50 | 2 | topdu/unirec-0 | Updated10 days ago | [Link](https://huggingface.co/topdu/unirec-0.1b) |
+| Updatedabout 12 hours ago | 2 | sugartai/Qwen3-VL-4B-Uni-MuMER-FinalImage-to-Text | 4B | [Link](https://huggingface.co/sugartai/Qwen3-VL-4B-Uni-MuMER-Final) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -4500,6 +4504,7 @@ Updated on 2026-01-05
 | Updated3 days ago | 786 | apple/FastVLM-1 | 2B | [Link](https://huggingface.co/apple/FastVLM-1.5B) |
 | Updated1 day ago | 771 | nvidia/Nemotron-Cascade-8B-ThinkingText | 8B | [Link](https://huggingface.co/nvidia/Nemotron-Cascade-8B-Thinking) |
 | Updatedabout 18 hours ago | 769 | LiquidAI/LFM2-350M-MathText | 0.4B | [Link](https://huggingface.co/LiquidAI/LFM2-350M-Math) |
+| Updatedabout 18 hours ago | 758 | tiiuae/Falcon-H1R-7BText | 8B | [Link](https://huggingface.co/tiiuae/Falcon-H1R-7B) |
 | Updatedabout 24 hours ago | 752 | thu-pacman/PCMind-2 | 2B | [Link](https://huggingface.co/thu-pacman/PCMind-2.1-Kaiyuan-2B) |
 | Updatedabout 2 hours ago | 722 | nvidia/NVIDIA-Nemotron-Nano-9B-v2Text | 9B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2) |
 |  | 682 | deepseek-ai/DeepSeek-V3-0324Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3-0324) |
@@ -5035,6 +5040,7 @@ Updated on 2026-01-05
 | Updatedabout 5 hours ago | 1.32k | google/functiongemma-270m-itText | 0.3B | [Link](https://huggingface.co/google/functiongemma-270m-it) |
 | Updated2 days ago | 1.51k | AaryanK/MiniMax-M2 | 229B | [Link](https://huggingface.co/AaryanK/MiniMax-M2.1-GGUF) |
 | Updated1 day ago | 1.21k | Ex0bit/MiniMax-M2 | 229B | [Link](https://huggingface.co/Ex0bit/MiniMax-M2.1-PRISM) |
+| Updatedabout 3 hours ago | 1.33k | upstage/Solar-Open-100BText | 103B | [Link](https://huggingface.co/upstage/Solar-Open-100B) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -5466,6 +5472,7 @@ Updated on 2026-01-05
 |  | 9 | Instara/1girl-qwen-imageText-to-Image | Updated3 days ago | [Link](https://huggingface.co/Instara/1girl-qwen-image) |
 | 29 | 9 | SeeSee21/Z-Image-Turbo-AIOText-to-Image | Updated40 minutes ago | [Link](https://huggingface.co/SeeSee21/Z-Image-Turbo-AIO) |
 | 496 | 9 | Disty0/Z-Image-Turbo-SDNQ-int8Text-to-Image | Updated6 days ago | [Link](https://huggingface.co/Disty0/Z-Image-Turbo-SDNQ-int8) |
+| 1.62k | 9 | zooeyy/Style-TransferText-to-Image | Updatedabout 14 hours ago | [Link](https://huggingface.co/zooeyy/Style-Transfer) |
 | 215 | 8 | tensorart/stable-diffusion-3 | Updated8 minutes ago | [Link](https://huggingface.co/tensorart/stable-diffusion-3.5-large-TurboX) |
 | 34 | 8 | renderartist/coloringbookhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/coloringbookhidream) |
 | 1.79k | 8 | MaxedOut/ComfyUI-Starter-PacksText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/MaxedOut/ComfyUI-Starter-Packs) |
@@ -6266,6 +6273,7 @@ Updated on 2026-01-05
 | 17 | Unknown | Kevin-thu/StoryMemText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/Kevin-thu/StoryMem) |
 | 2 | Unknown | CongWei1230/MoCha-DemoText-to-Video | Updatedabout 11 hours ago | [Link](https://huggingface.co/CongWei1230/MoCha-Demo) |
 | 11 | Unknown | nkp37/OpenVid-1MText-to-Video | UpdatedJul 10, 2024 | [Link](https://huggingface.co/nkp37/OpenVid-1M) |
+| 4 | Unknown | convertor/scaled-ltxvText-to-Video | UpdatedMar 6, 2025 | [Link](https://huggingface.co/convertor/scaled-ltxv) |
 
 ## Text2Text Generation
 
