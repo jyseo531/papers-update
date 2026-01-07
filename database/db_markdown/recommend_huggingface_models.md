@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-01-06
+Updated on 2026-01-07
 
 > Generated from the Hugging Face database.
 
@@ -243,6 +243,7 @@ Updated on 2026-01-06
 | 12 | Unknown | Yuanshi/ViBTAny-to-Any | Updatedabout 10 hours ago | [Link](https://huggingface.co/Yuanshi/ViBT) |
 | 16 | Unknown | zai-org/RealVideoAny-to-Any | Updatedabout 14 hours ago | [Link](https://huggingface.co/zai-org/RealVideo) |
 | 2 | Unknown | claustrophobic/audio_pure_urewoseiAny-to-Any | Updatedabout 9 hours ago | [Link](https://huggingface.co/claustrophobic/audio_pure_urewosei) |
+| 2 | Unknown | miche8082/omega_5yi8hAny-to-Any | Updatedabout 10 hours ago | [Link](https://huggingface.co/miche8082/omega_5yi8h) |
 
 ## Audio Classification
 
@@ -1987,6 +1988,7 @@ Updated on 2026-01-06
 | 1.82k | 15 | stepfun-ai/step3-fp8Image-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/stepfun-ai/step3-fp8) |
 | Updatedabout 7 hours ago | 15 | OpenGVLab/InternVL3_5-14BImage-Text-to-Text | 15B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-14B) |
 | Updatedabout 8 hours ago | 15.8k | Qwen/Qwen3-VL-30B-A3B-Instruct-FP8Image-Text-to-Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Instruct-FP8) |
+| 7.01k | 15 | nvidia/Cosmos-Reason2-2BImage-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/nvidia/Cosmos-Reason2-2B) |
 | 296 | 14 | Fancy-MLLM/R1-Onevision-7BImage-Text-to-Text | Updatedabout 12 hours ago | [Link](https://huggingface.co/Fancy-MLLM/R1-Onevision-7B) |
 | 80 | 14 | google/gemma-3-27b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-pt) |
 | 20 | 14 | lusxvr/nanoVLM-222MImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/lusxvr/nanoVLM-222M) |
@@ -2413,6 +2415,7 @@ Updated on 2026-01-06
 | Updated17 minutes ago | 5 | calcuis/qwen-image-edit-plus-ggufImage-to-Image | 20B | [Link](https://huggingface.co/calcuis/qwen-image-edit-plus-gguf) |
 | 26 | 5 | casiatao/Qwen-Edit-2509-FTImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/casiatao/Qwen-Edit-2509-FT) |
 | 168 | 5 | 1038lab/Qwen-Image-Edit-2511-FP8Image-to-Image | Updated1 day ago | [Link](https://huggingface.co/1038lab/Qwen-Image-Edit-2511-FP8) |
+| 65 | 5 | iitolstykh/VIBE-Image-EditImage-to-Image | Updatedabout 19 hours ago | [Link](https://huggingface.co/iitolstykh/VIBE-Image-Edit) |
 | 575 | 4 | prs-eth/marigold-normals-v1-1Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-normals-v1-1) |
 | 1k | 4 | stanfordmimi/MedVAEImage-to-Image | UpdatedMar 31 | [Link](https://huggingface.co/stanfordmimi/MedVAE) |
 | 3 | 4 | wikeeyang/UniWorld-V1-NF4Image-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/wikeeyang/UniWorld-V1-NF4) |
@@ -6279,6 +6282,7 @@ Updated on 2026-01-06
 | 11 | Unknown | nkp37/OpenVid-1MText-to-Video | UpdatedJul 10, 2024 | [Link](https://huggingface.co/nkp37/OpenVid-1M) |
 | 4 | Unknown | convertor/scaled-ltxvText-to-Video | UpdatedMar 6, 2025 | [Link](https://huggingface.co/convertor/scaled-ltxv) |
 | 2 | Unknown | Lightricks/LTX-2-19b-IC-LoRA-Canny-ControlText-to-Video | Updatedabout 17 hours ago | [Link](https://huggingface.co/Lightricks/LTX-2-19b-IC-LoRA-Canny-Control) |
+| 2 | Unknown | Ashmotv/paint_smearText-to-Video | Updated3 days ago | [Link](https://huggingface.co/Ashmotv/paint_smear) |
 
 ## Text2Text Generation
 
