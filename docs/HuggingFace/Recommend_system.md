@@ -2143,6 +2143,7 @@ Updated on 2026-01-07
 | Updated8 days ago | 2.72k | Qwen/Qwen3-VL-8B-Thinking-GGUFImage-Text-to-Text | 8B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Thinking-GGUF) |
 | Updated10 days ago | 2.91k | Qwen/Qwen3-VL-4B-Instruct-GGUFImage-Text-to-Text | 4B | [Link](https://huggingface.co/Qwen/Qwen3-VL-4B-Instruct-GGUF) |
 | Updated10 days ago | 2.22k | ZJU-AI4H/Hulu-Med-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/ZJU-AI4H/Hulu-Med-4B) |
+| UpdatedApr 15, 2025 | 2.7k | google/gemma-3-12b-it-qat-q4_0-unquantizedImage-Text-to-Text | 12B | [Link](https://huggingface.co/google/gemma-3-12b-it-qat-q4_0-unquantized) |
 | 2.72k | 1.62k | microsoft/OmniParserImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/microsoft/OmniParser) |
 | 100k | 1.4k | stepfun-ai/GOT-OCR2_0Image-Text-to-Text | Updated21 days ago | [Link](https://huggingface.co/stepfun-ai/GOT-OCR2_0) |
 | 1.78M | 1.42k | microsoft/Florence-2-largeImage-Text-to-Text | UpdatedDec 8, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-large) |
@@ -5892,6 +5893,7 @@ Updated on 2026-01-07
 | Updatedabout 9 hours ago | 5 | cartesia/azzurra-voiceText-to-Speech | 2B | [Link](https://huggingface.co/cartesia/azzurra-voice) |
 | 53 | 5 | kyutai/tts-0 | Updatedabout 10 hours ago | [Link](https://huggingface.co/kyutai/tts-0.75b-en-public) |
 | 411 | 5 | nari-labs/Dia2-2BText-to-Speech | Updatedabout 21 hours ago | [Link](https://huggingface.co/nari-labs/Dia2-2B) |
+| Updatedabout 1 hour ago | 5 | ASLP-lab/VoiceSculptor-VDText-to-Speech | 4B | [Link](https://huggingface.co/ASLP-lab/VoiceSculptor-VD) |
 | 5 | 4 | lunahr/csm-1b-safetensors-fp16Text-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-fp16) |
 | 2 | 4 | VAGOsolutions/SauerkrautTTS-Preview-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/VAGOsolutions/SauerkrautTTS-Preview-0.1) |
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
@@ -6283,6 +6285,7 @@ Updated on 2026-01-07
 | 4 | Unknown | convertor/scaled-ltxvText-to-Video | UpdatedMar 6, 2025 | [Link](https://huggingface.co/convertor/scaled-ltxv) |
 | 2 | Unknown | Lightricks/LTX-2-19b-IC-LoRA-Canny-ControlText-to-Video | Updatedabout 17 hours ago | [Link](https://huggingface.co/Lightricks/LTX-2-19b-IC-LoRA-Canny-Control) |
 | 2 | Unknown | Ashmotv/paint_smearText-to-Video | Updated3 days ago | [Link](https://huggingface.co/Ashmotv/paint_smear) |
+| 2 | Unknown | Lightricks/LTX-2-19b-IC-LoRA-Depth-ControlText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Lightricks/LTX-2-19b-IC-LoRA-Depth-Control) |
 
 ## Text2Text Generation
 
