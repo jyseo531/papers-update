@@ -245,6 +245,8 @@ Updated on 2026-01-08
 | 16 | Unknown | zai-org/RealVideoAny-to-Any | Updatedabout 14 hours ago | [Link](https://huggingface.co/zai-org/RealVideo) |
 | 2 | Unknown | claustrophobic/audio_pure_urewoseiAny-to-Any | Updatedabout 9 hours ago | [Link](https://huggingface.co/claustrophobic/audio_pure_urewosei) |
 | 2 | Unknown | miche8082/omega_5yi8hAny-to-Any | Updatedabout 10 hours ago | [Link](https://huggingface.co/miche8082/omega_5yi8h) |
+| 6 | Unknown | KlingTeam/UniVideoAny-to-Any | Updatedabout 3 hours ago | [Link](https://huggingface.co/KlingTeam/UniVideo) |
+| 5 | Unknown | Lightricks/LTX-2-19b-IC-LoRA-Canny-ControlAny-to-Any | Updatedabout 6 hours ago | [Link](https://huggingface.co/Lightricks/LTX-2-19b-IC-LoRA-Canny-Control) |
 
 ## Audio Classification
 
@@ -2121,6 +2123,7 @@ Updated on 2026-01-08
 | Updatedabout 9 hours ago | 5 | Skywork/Skywork-R1V3-38BImage-Text-to-Text | 38B | [Link](https://huggingface.co/Skywork/Skywork-R1V3-38B) |
 | Updatedabout 7 hours ago | 5 | internlm/Intern-S1Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1) |
 | Updated10 days ago | 5.88k | Qwen/Qwen3-VL-8B-Instruct-GGUFImage-Text-to-Text | 8B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct-GGUF) |
+| Updatedabout 11 hours ago | 5 | meituan/EvoCUA-32B-20260105Image-Text-to-Text | 33B | [Link](https://huggingface.co/meituan/EvoCUA-32B-20260105) |
 | Updated1 day ago | 4.45k | openbmb/MiniCPM-V-4_5-ggufImage-Text-to-Text | 8B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4_5-gguf) |
 | Updatedabout 12 hours ago | 4 | ibm-granite/granite-docling-258MImage-Text-to-Text | 0.3B | [Link](https://huggingface.co/ibm-granite/granite-docling-258M) |
 | Updated12 days ago | 4.44k | Jalea96/DeepSeek-OCR-bnb-4bit-NF4Image-Text-to-Text | 3B | [Link](https://huggingface.co/Jalea96/DeepSeek-OCR-bnb-4bit-NF4) |
@@ -4546,6 +4549,7 @@ Updated on 2026-01-08
 | Updatedabout 4 hours ago | 329 | FractalAIResearch/Fathom-Search-4BText | 4B | [Link](https://huggingface.co/FractalAIResearch/Fathom-Search-4B) |
 | Updated3 days ago | 327 | nvidia/OpenReasoning-Nemotron-1 | 2B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-1.5B) |
 | Updated3 days ago | 321 | Jinx-org/Jinx-gpt-oss-20bText | 21B | [Link](https://huggingface.co/Jinx-org/Jinx-gpt-oss-20b) |
+| Updated3 days ago | 309 | MultiverseComputingCAI/HyperNova-60BText | 60B | [Link](https://huggingface.co/MultiverseComputingCAI/HyperNova-60B) |
 | Updatedabout 20 hours ago | 296 | Maincode/Maincoder-1BText | 1B | [Link](https://huggingface.co/Maincode/Maincoder-1B) |
 |  | 295 | deepseek-ai/DeepSeek-R1-0528-Qwen3-8BText | Updatedabout 13 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B) |
 | Updatedabout 4 hours ago | 293 | Qwen/Qwen3Guard-Gen-0 | 0.8B | [Link](https://huggingface.co/Qwen/Qwen3Guard-Gen-0.6B) |
@@ -5852,6 +5856,7 @@ Updated on 2026-01-08
 | 77 | 16 | Mofa-Xingche/girl-style-bert-vits2-JPExtra-modelsText-to-Speech | UpdatedMay 31, 2024 | [Link](https://huggingface.co/Mofa-Xingche/girl-style-bert-vits2-JPExtra-models) |
 | 179 | 16 | esnya/japanese_speecht5_ttsText-to-Speech | UpdatedAug 9, 2023 | [Link](https://huggingface.co/esnya/japanese_speecht5_tts) |
 | 147 | 15 | dangvansam/viet-ttsText-to-Speech | UpdatedDec 11, 2024 | [Link](https://huggingface.co/dangvansam/viet-tts) |
+| Updatedabout 18 hours ago | 15 | samuel-vitorino/soproText-to-Speech | 0.2B | [Link](https://huggingface.co/samuel-vitorino/sopro) |
 | 2.61k | 14 | SPRINGLab/F5-Hindi-24KHzText-to-Speech | UpdatedJan 1 | [Link](https://huggingface.co/SPRINGLab/F5-Hindi-24KHz) |
 | Updated8 days ago | 14 | niobures/OuteTTSText-to-Speech | 1B | [Link](https://huggingface.co/niobures/OuteTTS) |
 | 6 | 13 | OuteAI/Llama-OuteTTS-1 | Updatedabout 2 hours ago | [Link](https://huggingface.co/OuteAI/Llama-OuteTTS-1.0-1B) |
@@ -6178,6 +6183,7 @@ Updated on 2026-01-08
 | 6k | 2 | guoyww/animatediff-motion-lora-tilt-upText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-tilt-up) |
 | 22 | 2 | artificialguybr/FishEye-Redmond-WAN2-T2V-14BText-to-Video | Updated1 day ago | [Link](https://huggingface.co/artificialguybr/FishEye-Redmond-WAN2-T2V-14B) |
 | 71 | 2 | htdong/Wan-Alpha-v2 | Updatedabout 21 hours ago | [Link](https://huggingface.co/htdong/Wan-Alpha-v2.0) |
+| 37 | 2 | mingyi456/Wan2 | Updatedabout 9 hours ago | [Link](https://huggingface.co/mingyi456/Wan2.2-BF16) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
@@ -6290,6 +6296,9 @@ Updated on 2026-01-08
 | 2 | Unknown | Lightricks/LTX-2-19b-IC-LoRA-Canny-ControlText-to-Video | Updatedabout 17 hours ago | [Link](https://huggingface.co/Lightricks/LTX-2-19b-IC-LoRA-Canny-Control) |
 | 2 | Unknown | Ashmotv/paint_smearText-to-Video | Updated3 days ago | [Link](https://huggingface.co/Ashmotv/paint_smear) |
 | 2 | Unknown | Lightricks/LTX-2-19b-IC-LoRA-Depth-ControlText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Lightricks/LTX-2-19b-IC-LoRA-Depth-Control) |
+| 4 | Unknown | Lightricks/LTX-2-19b-IC-LoRA-Pose-ControlText-to-Video | Updated3 days ago | [Link](https://huggingface.co/Lightricks/LTX-2-19b-IC-LoRA-Pose-Control) |
+| 2 | Unknown | Lightricks/LTX-2-19b-LoRA-Camera-Control-Dolly-LeftText-to-Video | Updated3 days ago | [Link](https://huggingface.co/Lightricks/LTX-2-19b-LoRA-Camera-Control-Dolly-Left) |
+| 2 | Unknown | Lightricks/LTX-2-19b-LoRA-Camera-Control-Dolly-RightText-to-Video | Updated3 days ago | [Link](https://huggingface.co/Lightricks/LTX-2-19b-LoRA-Camera-Control-Dolly-Right) |
 
 ## Text2Text Generation
 
