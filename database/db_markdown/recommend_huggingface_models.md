@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-01-07
+Updated on 2026-01-08
 
 > Generated from the Hugging Face database.
 
@@ -117,6 +117,7 @@ Updated on 2026-01-07
 | Updated2 days ago | 6 | sensenova/InteractiveOmni-8BAny-to-Any | 10B | [Link](https://huggingface.co/sensenova/InteractiveOmni-8B) |
 | UpdatedJun 18 | 6.36k | unsloth/Llama-4-Maverick-17B-128E-Instruct-GGUFAny-to-Any | 401B | [Link](https://huggingface.co/unsloth/Llama-4-Maverick-17B-128E-Instruct-GGUF) |
 | UpdatedFeb 14 | 6 | Nikhil-aka-Nick/FlorenceDropout2Any-to-Any | 0.8B | [Link](https://huggingface.co/Nikhil-aka-Nick/FlorenceDropout2) |
+| UpdatedMay 12, 2025 | 6.86k | unsloth/gemma-3-12b-it-bnb-4bitAny-to-Any | 13B | [Link](https://huggingface.co/unsloth/gemma-3-12b-it-bnb-4bit) |
 | 1.63k | 5 | PKU-Alignment/AA-chameleon-7b-plusAny-to-Any | UpdatedSep 13, 2024 | [Link](https://huggingface.co/PKU-Alignment/AA-chameleon-7b-plus) |
 | 2.67k | 5 | Junfeng5/Liquid_V1_7BAny-to-Any | Updated8 days ago | [Link](https://huggingface.co/Junfeng5/Liquid_V1_7B) |
 | UpdatedMay 9 | 5.89k | unsloth/gemma-3-27b-it-qat-GGUFAny-to-Any | 27B | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-qat-GGUF) |
@@ -2337,6 +2338,7 @@ Updated on 2026-01-07
 | 105 | 44 | ghoskno/Color-Canny-Controlnet-modelImage-to-Image | UpdatedMay 25, 2023 | [Link](https://huggingface.co/ghoskno/Color-Canny-Controlnet-model) |
 | 16k | 44 | lllyasviel/control_v11p_sd15_cannyImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_canny) |
 | 1.31k | 41 | xiaozaa/catvton-flux-alphaImage-to-Image | UpdatedNov 26, 2024 | [Link](https://huggingface.co/xiaozaa/catvton-flux-alpha) |
+|  | 40 | fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRAImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA) |
 | Updatedabout 9 hours ago | 38 | unsloth/Qwen-Image-Edit-2511-GGUFImage-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-Edit-2511-GGUF) |
 | 50 | 37 | yichengup/flux | Updatedabout 11 hours ago | [Link](https://huggingface.co/yichengup/flux.1-fill-dev-OneReward) |
 | 102 | 34 | keras-io/lowlight-enhance-mirnetImage-to-Image | UpdatedJul 5, 2024 | [Link](https://huggingface.co/keras-io/lowlight-enhance-mirnet) |
@@ -4876,6 +4878,7 @@ Updated on 2026-01-07
 | Updatedabout 2 hours ago | 23 | DatarusAI/Datarus-R1-14B-previewText | 15B | [Link](https://huggingface.co/DatarusAI/Datarus-R1-14B-preview) |
 | Updated1 day ago | 23 | Tesslate/WEBGEN-4B-PreviewText | 4B | [Link](https://huggingface.co/Tesslate/WEBGEN-4B-Preview) |
 | 45.7k | 23 | cpatonn/Qwen3-Next-80B-A3B-Instruct-AWQ-4bitText | Updated5 days ago | [Link](https://huggingface.co/cpatonn/Qwen3-Next-80B-A3B-Instruct-AWQ-4bit) |
+| Updated2 days ago | 23 | NousResearch/NousCoder-14BText | 15B | [Link](https://huggingface.co/NousResearch/NousCoder-14B) |
 | 44 | 22 | deepcogito/cogito-v1-preview-llama-3BText | Updatedabout 12 hours ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-llama-3B) |
 | 10.2k | 22 | bartowski/THUDM_GLM-4-32B-0414-GGUFText | Updated6 days ago | [Link](https://huggingface.co/bartowski/THUDM_GLM-4-32B-0414-GGUF) |
 | 6.82k | 22 | bartowski/deepseek-ai_DeepSeek-R1-0528-Qwen3-8B-GGUFText | Updatedabout 23 hours ago | [Link](https://huggingface.co/bartowski/deepseek-ai_DeepSeek-R1-0528-Qwen3-8B-GGUF) |
@@ -5894,6 +5897,7 @@ Updated on 2026-01-07
 | 53 | 5 | kyutai/tts-0 | Updatedabout 10 hours ago | [Link](https://huggingface.co/kyutai/tts-0.75b-en-public) |
 | 411 | 5 | nari-labs/Dia2-2BText-to-Speech | Updatedabout 21 hours ago | [Link](https://huggingface.co/nari-labs/Dia2-2B) |
 | Updatedabout 1 hour ago | 5 | ASLP-lab/VoiceSculptor-VDText-to-Speech | 4B | [Link](https://huggingface.co/ASLP-lab/VoiceSculptor-VD) |
+| Updatedabout 22 hours ago | 5 | oddadmix/chatterbox-egyptian-v0Text-to-Speech | 0.5B | [Link](https://huggingface.co/oddadmix/chatterbox-egyptian-v0) |
 | 5 | 4 | lunahr/csm-1b-safetensors-fp16Text-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-fp16) |
 | 2 | 4 | VAGOsolutions/SauerkrautTTS-Preview-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/VAGOsolutions/SauerkrautTTS-Preview-0.1) |
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
