@@ -2165,6 +2165,7 @@ Updated on 2026-01-09
 | Updatedabout 16 hours ago | 1.7k | SerialKicked/Qwen3-VL-32B-Thinking-heretic-GGUFImage-Text-to-Text | 33B | [Link](https://huggingface.co/SerialKicked/Qwen3-VL-32B-Thinking-heretic-GGUF) |
 | Updatedabout 4 hours ago | 1.44k | browser-use/bu-30b-a3b-previewImage-Text-to-Text | 31B | [Link](https://huggingface.co/browser-use/bu-30b-a3b-preview) |
 | Updatedabout 6 hours ago | 1.45k | stepfun-ai/GELab-Zero-4B-previewImage-Text-to-Text | 4B | [Link](https://huggingface.co/stepfun-ai/GELab-Zero-4B-preview) |
+| Updatedabout 4 hours ago | 1.59k | Tongyi-MAI/MAI-UI-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/Tongyi-MAI/MAI-UI-8B) |
 | 1.07M |  | meta-llama/Llama-3 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) |
 | 1.49M |  | Qwen/Qwen2-VL-7B-InstructImage-Text-to-Text | Updated19 days ago | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) |
 | 288k |  | microsoft/Phi-3 | UpdatedSep 26, 2024 | [Link](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) |
@@ -5003,6 +5004,7 @@ Updated on 2026-01-09
 | Updatedabout 6 hours ago | 5.68k | deepseek-ai/DeepSeek-V3 | 685B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3.1-Base) |
 | Updated5 days ago | 5.93k | ubergarm/GLM-4 | 357B | [Link](https://huggingface.co/ubergarm/GLM-4.6-GGUF) |
 | Updatedabout 2 hours ago | 5.91k | nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16Text | 32B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16) |
+| Updatedabout 8 hours ago | 5.06k | tiiuae/Falcon-H1R-7B-GGUFText | 8B | [Link](https://huggingface.co/tiiuae/Falcon-H1R-7B-GGUF) |
 | Updatedabout 21 hours ago | 4.52k | unsloth/Devstral-Small-2507-GGUFText | 24B | [Link](https://huggingface.co/unsloth/Devstral-Small-2507-GGUF) |
 | Updatedabout 6 hours ago | 4 | baichuan-inc/Baichuan-M2-32BText | 33B | [Link](https://huggingface.co/baichuan-inc/Baichuan-M2-32B) |
 | UpdatedMay 14 | 4 | inclusionAI/Ling-lite-base-1 | 17B | [Link](https://huggingface.co/inclusionAI/Ling-lite-base-1.5) |
@@ -6062,6 +6064,7 @@ Updated on 2026-01-09
 | 4 | Unknown | vadimbelsky/emirati-fastpitch-bilingual-v1 | Updatedabout 6 hours ago | [Link](https://huggingface.co/vadimbelsky/emirati-fastpitch-bilingual-v1.0) |
 | 10 | Unknown | Eempostor/F5-TTS-INDO-FINETUNE-V2Text-to-Speech | UpdatedOct 12, 2025 | [Link](https://huggingface.co/Eempostor/F5-TTS-INDO-FINETUNE-V2) |
 | 11 | Unknown | Supertone/supertonic-2Text-to-Speech | Updatedabout 5 hours ago | [Link](https://huggingface.co/Supertone/supertonic-2) |
+| 6 | Unknown | PatnaikAshish/Sonya-TTSText-to-Speech | Updatedabout 16 hours ago | [Link](https://huggingface.co/PatnaikAshish/Sonya-TTS) |
 
 ## Text-to-Video
 
