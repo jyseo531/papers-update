@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-01-08
+Updated on 2026-01-09
 
 > Generated from the Hugging Face database.
 
@@ -2741,6 +2741,7 @@ Updated on 2026-01-08
 | Updated1 day ago | 56 | huihui-ai/Huihui-Devstral-Small-2-24B-Instruct-2512-abliteratedImage-to-Text | 24B | [Link](https://huggingface.co/huihui-ai/Huihui-Devstral-Small-2-24B-Instruct-2512-abliterated) |
 | UpdatedApr 17, 2024 | 54 | hoang-quoc-trung/sumen-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/hoang-quoc-trung/sumen-base) |
 | UpdatedAug 30, 2024 | 51.3k | U4R/StructTable-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/U4R/StructTable-base) |
+| Updatedabout 17 hours ago | 50 | Qwen/Qwen3-VL-Embedding-8BImage-to-Text | 8B | [Link](https://huggingface.co/Qwen/Qwen3-VL-Embedding-8B) |
 | 71 | 49 | stabilityai/japanese-stable-vlmImage-to-Text | UpdatedJul 10, 2024 | [Link](https://huggingface.co/stabilityai/japanese-stable-vlm) |
 | 5.28k | 48 | Ertugrul/Qwen2-VL-7B-Captioner-RelaxedImage-to-Text | UpdatedSep 26, 2024 | [Link](https://huggingface.co/Ertugrul/Qwen2-VL-7B-Captioner-Relaxed) |
 | UpdatedMay 21 | 47.2k | llamaindex/vdr-2b-multi-v1Image-to-Text | 2B | [Link](https://huggingface.co/llamaindex/vdr-2b-multi-v1) |
@@ -2787,6 +2788,7 @@ Updated on 2026-01-08
 | UpdatedOct 15, 2024 | 19 | Joctor/qwen2-vl-7b-instruct-ogiriImage-to-Text | 8B | [Link](https://huggingface.co/Joctor/qwen2-vl-7b-instruct-ogiri) |
 | Updated5 days ago | 19 | OfficerChul/Qwen2 | 8B | [Link](https://huggingface.co/OfficerChul/Qwen2.5-VL-7B-Instruct-Android-Control-5a) |
 | UpdatedJan 29 | 19 | John6666/llama-joycaption-alpha-two-hf-llava-nf4Image-to-Text | 3B | [Link](https://huggingface.co/John6666/llama-joycaption-alpha-two-hf-llava-nf4) |
+| Updatedabout 17 hours ago | 18 | Qwen/Qwen3-VL-Reranker-2BImage-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-Reranker-2B) |
 | 433 | 17 | kpyu/video-blip-opt-2 | UpdatedMay 17, 2023 | [Link](https://huggingface.co/kpyu/video-blip-opt-2.7b-ego4d) |
 | Updated15 days ago | 17.2k | scb10x/typhoon-ocr-7bImage-to-Text | 8B | [Link](https://huggingface.co/scb10x/typhoon-ocr-7b) |
 | UpdatedMar 24, 2024 | 17 | Cdywalst/donut-base-handwriting_recognitionImage-to-Text | 0.2B | [Link](https://huggingface.co/Cdywalst/donut-base-handwriting_recognition) |
@@ -2865,6 +2867,7 @@ Updated on 2026-01-08
 | 2.52k | 6 | VLM2Vec/VLM2Vec-V2 | Updatedabout 3 hours ago | [Link](https://huggingface.co/VLM2Vec/VLM2Vec-V2.0) |
 | UpdatedJun 2 | 6.4k | unsloth/MiMo-VL-7B-RL-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/unsloth/MiMo-VL-7B-RL-GGUF) |
 | Updatedabout 1 hour ago | 6 | XiaomiMiMo/MiMo-Embodied-7BImage-to-Text | 8B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-Embodied-7B) |
+| Updatedabout 17 hours ago | 6 | Qwen/Qwen3-VL-Embedding-2BImage-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-Embedding-2B) |
 | 7 | 5 | laicsiifes/swin-gportuguese-2Image-to-Text | UpdatedMar 31 | [Link](https://huggingface.co/laicsiifes/swin-gportuguese-2) |
 | 5 | 5 | Yodazon/3DPrintFailureTypeImage-to-Text | UpdatedOct 18, 2024 | [Link](https://huggingface.co/Yodazon/3DPrintFailureType) |
 | Updated5 days ago | 5.7k | ChatDOC/OCRFlux-3BImage-to-Text | 4B | [Link](https://huggingface.co/ChatDOC/OCRFlux-3B) |
@@ -2874,6 +2877,7 @@ Updated on 2026-01-08
 | Updatedabout 10 hours ago | 5 | facebook/DepthLMImage-to-Text | 13B | [Link](https://huggingface.co/facebook/DepthLM) |
 | UpdatedJul 3, 2024 | 5 | medieval-data/trocr-medieval-textualisImage-to-Text | 0.3B | [Link](https://huggingface.co/medieval-data/trocr-medieval-textualis) |
 | 45 | 5 | hezarai/crnn-base-fa-v1Image-to-Text | UpdatedApr 14, 2025 | [Link](https://huggingface.co/hezarai/crnn-base-fa-v1) |
+| Updatedabout 13 hours ago | 5 | snuh/mvl-rrg-1 | 770k | [Link](https://huggingface.co/snuh/mvl-rrg-1.0) |
 | 17 | 4 | MixTex/tiny-ZhEn-for-onnxImage-to-Text | UpdatedFeb 23 | [Link](https://huggingface.co/MixTex/tiny-ZhEn-for-onnx) |
 | 14 | 4 | unalignment/Pixtral-12B-Captioner-RelaxedImage-to-Text | UpdatedJan 22 | [Link](https://huggingface.co/unalignment/Pixtral-12B-Captioner-Relaxed) |
 | 3.42k | 4 | breezedeus/pix2text-mfdImage-to-Text | UpdatedJul 10, 2024 | [Link](https://huggingface.co/breezedeus/pix2text-mfd) |
@@ -2993,6 +2997,7 @@ Updated on 2026-01-08
 | 5 | 1 | misoda/htr-mlw-bestImage-to-Text | UpdatedMay 14, 2023 | [Link](https://huggingface.co/misoda/htr-mlw-best) |
 | Updated25 days ago | 1.11k | sherif1313/Arabic-handwritten-OCR-4bit-Qwen2 | 4B | [Link](https://huggingface.co/sherif1313/Arabic-handwritten-OCR-4bit-Qwen2.5-VL-3B-v2) |
 | 20 | 1 | unni12345/MedBlip2Image-to-Text | UpdatedJul 27, 2023 | [Link](https://huggingface.co/unni12345/MedBlip2) |
+| Updatedabout 17 hours ago | 1 | Qwen/Qwen3-VL-Reranker-8BImage-to-Text | 9B | [Link](https://huggingface.co/Qwen/Qwen3-VL-Reranker-8B) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -5853,6 +5858,7 @@ Updated on 2026-01-08
 | 2.35k | 18 | 2121-8/japanese-parler-tts-miniText-to-Speech | UpdatedDec 5, 2024 | [Link](https://huggingface.co/2121-8/japanese-parler-tts-mini) |
 | Updated2 days ago | 18 | NandemoGHS/Anime-Llasa-3BText-to-Speech | 3B | [Link](https://huggingface.co/NandemoGHS/Anime-Llasa-3B) |
 | Updatedabout 2 hours ago | 17 | microsoft/VibeVoice-Realtime-0 | 1B | [Link](https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B) |
+| Updatedabout 12 hours ago | 17 | pnnbao-ump/VieNeu-TTS-0 | 0.3B | [Link](https://huggingface.co/pnnbao-ump/VieNeu-TTS-0.3B) |
 | 77 | 16 | Mofa-Xingche/girl-style-bert-vits2-JPExtra-modelsText-to-Speech | UpdatedMay 31, 2024 | [Link](https://huggingface.co/Mofa-Xingche/girl-style-bert-vits2-JPExtra-models) |
 | 179 | 16 | esnya/japanese_speecht5_ttsText-to-Speech | UpdatedAug 9, 2023 | [Link](https://huggingface.co/esnya/japanese_speecht5_tts) |
 | 147 | 15 | dangvansam/viet-ttsText-to-Speech | UpdatedDec 11, 2024 | [Link](https://huggingface.co/dangvansam/viet-tts) |
@@ -6299,6 +6305,12 @@ Updated on 2026-01-08
 | 4 | Unknown | Lightricks/LTX-2-19b-IC-LoRA-Pose-ControlText-to-Video | Updated3 days ago | [Link](https://huggingface.co/Lightricks/LTX-2-19b-IC-LoRA-Pose-Control) |
 | 2 | Unknown | Lightricks/LTX-2-19b-LoRA-Camera-Control-Dolly-LeftText-to-Video | Updated3 days ago | [Link](https://huggingface.co/Lightricks/LTX-2-19b-LoRA-Camera-Control-Dolly-Left) |
 | 2 | Unknown | Lightricks/LTX-2-19b-LoRA-Camera-Control-Dolly-RightText-to-Video | Updated3 days ago | [Link](https://huggingface.co/Lightricks/LTX-2-19b-LoRA-Camera-Control-Dolly-Right) |
+| 2 | Unknown | xiaruize/text2signText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/xiaruize/text2sign) |
+| 2 | Unknown | Lightricks/LTX-2-19b-LoRA-Camera-Control-Dolly-InText-to-Video | Updated3 days ago | [Link](https://huggingface.co/Lightricks/LTX-2-19b-LoRA-Camera-Control-Dolly-In) |
+| 2 | Unknown | Lightricks/LTX-2-19b-LoRA-Camera-Control-Dolly-OutText-to-Video | Updated3 days ago | [Link](https://huggingface.co/Lightricks/LTX-2-19b-LoRA-Camera-Control-Dolly-Out) |
+| 2 | Unknown | Lightricks/LTX-2-19b-LoRA-Camera-Control-Jib-DownText-to-Video | Updated3 days ago | [Link](https://huggingface.co/Lightricks/LTX-2-19b-LoRA-Camera-Control-Jib-Down) |
+| 2 | Unknown | Lightricks/LTX-2-19b-LoRA-Camera-Control-Jib-UpText-to-Video | Updated3 days ago | [Link](https://huggingface.co/Lightricks/LTX-2-19b-LoRA-Camera-Control-Jib-Up) |
+| 2 | Unknown | Lightricks/LTX-2-19b-LoRA-Camera-Control-StaticText-to-Video | Updated3 days ago | [Link](https://huggingface.co/Lightricks/LTX-2-19b-LoRA-Camera-Control-Static) |
 
 ## Text2Text Generation
 
