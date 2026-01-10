@@ -132,6 +132,7 @@ Updated on 2026-01-10
 | 12 | 4 | wikeeyang/UniWorld-V1-NF4Any-to-Any | Updatedabout 5 hours ago | [Link](https://huggingface.co/wikeeyang/UniWorld-V1-NF4) |
 | Updatedabout 1 hour ago | 4 | Alpha-VLLM/Lumina-DiMOOAny-to-Any | 8B | [Link](https://huggingface.co/Alpha-VLLM/Lumina-DiMOO) |
 | Updatedabout 12 hours ago | 4 | Qwen/Qwen3-Omni-30B-A3B-CaptionerAny-to-Any | 32B | [Link](https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Captioner) |
+| UpdatedJan 22, 2025 | 4 | joonsong/hand_recog_florence2-finetuned_v1Any-to-Any | 0.3B | [Link](https://huggingface.co/joonsong/hand_recog_florence2-finetuned_v1) |
 | 481k | 3.11k | deepseek-ai/Janus-Pro-7BAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-7B) |
 | 78 | 3 | VARGPT-family/VARGPT_LLaVA-v1Any-to-Any | UpdatedJan 23 | [Link](https://huggingface.co/VARGPT-family/VARGPT_LLaVA-v1) |
 | 2 | 3 | impactframes/Janus-1 | UpdatedOct 19, 2024 | [Link](https://huggingface.co/impactframes/Janus-1.3B) |
@@ -4661,6 +4662,7 @@ Updated on 2026-01-10
 | Updatedabout 2 hours ago | 78 | deepseek-ai/DeepSeek-Math-V2Text | 685B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-Math-V2) |
 | 902 | 77 | qihoo360/Light-R1-32BText | Updatedabout 22 hours ago | [Link](https://huggingface.co/qihoo360/Light-R1-32B) |
 | Updatedabout 10 hours ago | 77 | LiquidAI/LFM2-1 | 1B | [Link](https://huggingface.co/LiquidAI/LFM2-1.2B) |
+| Updatedabout 24 hours ago | 77 | ai21labs/AI21-Jamba2-MiniText | 52B | [Link](https://huggingface.co/ai21labs/AI21-Jamba2-Mini) |
 | Updatedabout 19 hours ago | 76 | ByteDance-Seed/Seed-OSS-36B-BaseText | 36B | [Link](https://huggingface.co/ByteDance-Seed/Seed-OSS-36B-Base) |
 | Updatedabout 23 hours ago | 75 | inceptionai/Jais-2-70B-ChatText | 72B | [Link](https://huggingface.co/inceptionai/Jais-2-70B-Chat) |
 | 2 | 74 | Qwen/Qwen3-32BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-32B) |
@@ -4999,6 +5001,7 @@ Updated on 2026-01-10
 | Updated2 days ago | 6 | inclusionAI/Ling-lite-1 | 17B | [Link](https://huggingface.co/inclusionAI/Ling-lite-1.5-2507) |
 | UpdatedApr 14 | 6 | inclusionAI/Ling-plusText | 293B | [Link](https://huggingface.co/inclusionAI/Ling-plus) |
 | Updatedabout 4 hours ago | 6.23k | nn-tech/MetalGPT-1Text | 33B | [Link](https://huggingface.co/nn-tech/MetalGPT-1) |
+| Updated4 days ago | 6.7k | byteshape/Qwen3-30B-A3B-Instruct-2507-GGUFText | 31B | [Link](https://huggingface.co/byteshape/Qwen3-30B-A3B-Instruct-2507-GGUF) |
 | Updated28 minutes ago | 5 | unsloth/Kimi-K2-Instruct-GGUFText | 1026B | [Link](https://huggingface.co/unsloth/Kimi-K2-Instruct-GGUF) |
 | Updatedabout 4 hours ago | 5 | tencent/Hunyuan-1 | 2B | [Link](https://huggingface.co/tencent/Hunyuan-1.8B-Instruct) |
 | Updatedabout 6 hours ago | 5.68k | deepseek-ai/DeepSeek-V3 | 685B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3.1-Base) |
@@ -5757,6 +5760,7 @@ Updated on 2026-01-10
 | 22 | Unknown | lodestones/Zeta-ChromaText-to-Image | Updated34 minutes ago | [Link](https://huggingface.co/lodestones/Zeta-Chroma) |
 | 8 | Unknown | unsloth/Qwen-Image-2512-FP8Text-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/unsloth/Qwen-Image-2512-FP8) |
 | 10 | Unknown | azazeal2/TwinFlow-Z-Image-Turbo-repackedText-to-Image | Updated3 days ago | [Link](https://huggingface.co/azazeal2/TwinFlow-Z-Image-Turbo-repacked) |
+| 9 | Unknown | Juice2002/Z-Image-Turbo-LorasText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/Juice2002/Z-Image-Turbo-Loras) |
 
 ## Text-to-Speech
 
@@ -6073,6 +6077,7 @@ Updated on 2026-01-10
 |:----------|:------|:-----------|:------------|:------|
 | 882k | 892 | ByteDance/AnimateDiff-LightningText-to-Video | UpdatedJan 6 | [Link](https://huggingface.co/ByteDance/AnimateDiff-Lightning) |
 | 16.5k | 612 | ali-vilab/text-to-video-ms-1 | UpdatedDec 1, 2023 | [Link](https://huggingface.co/ali-vilab/text-to-video-ms-1.7b) |
+| Updated19 days ago | 571 | vantagewithai/TurboWan2 | 14B | [Link](https://huggingface.co/vantagewithai/TurboWan2.1-T2V-14B-720P-ComfyUI-GGUF) |
 | Updatedabout 3 hours ago | 496 | calcuis/wan2-ggufText-to-Video | 0.1B | [Link](https://huggingface.co/calcuis/wan2-gguf) |
 | 23.8k | 473 | cerspense/zeroscope_v2_576wText-to-Video | UpdatedJul 1, 2023 | [Link](https://huggingface.co/cerspense/zeroscope_v2_576w) |
 | 4.01k | 461 | ali-vilab/modelscope-damo-text-to-video-synthesisText-to-Video | UpdatedMar 29, 2023 | [Link](https://huggingface.co/ali-vilab/modelscope-damo-text-to-video-synthesis) |
