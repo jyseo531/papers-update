@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-01-09
+Updated on 2026-01-10
 
 > Generated from the Hugging Face database.
 
@@ -5556,6 +5556,7 @@ Updated on 2026-01-09
 | Updated8 days ago | 2.03k | StableDiffusionVN/FluxText-to-Image | 5B | [Link](https://huggingface.co/StableDiffusionVN/Flux) |
 | UpdatedApr 24 | 2.38k | calcuis/illustriousText-to-Image | 3B | [Link](https://huggingface.co/calcuis/illustrious) |
 | Updated4 days ago | 2.33k | vantagewithai/Z-Image-Turbo-GGUFText-to-Image | 6B | [Link](https://huggingface.co/vantagewithai/Z-Image-Turbo-GGUF) |
+| UpdatedNov 19, 2025 | 2.29k | kpsss34/FHDR_UncensoredText-to-Image | 12B | [Link](https://huggingface.co/kpsss34/FHDR_Uncensored) |
 | 90.4k | 1.31k | xinsir/controlnet-union-sdxl-1 | UpdatedJul 30, 2024 | [Link](https://huggingface.co/xinsir/controlnet-union-sdxl-1.0) |
 | 387k | 1.66k | h94/IP-Adapter-FaceIDText-to-Image | UpdatedApr 16, 2024 | [Link](https://huggingface.co/h94/IP-Adapter-FaceID) |
 | Updated6 days ago | 1.58k | QuantStack/Chroma1-HD-GGUFText-to-Image | 9B | [Link](https://huggingface.co/QuantStack/Chroma1-HD-GGUF) |
