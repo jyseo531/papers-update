@@ -2677,6 +2677,7 @@ Updated on 2026-01-11
 | 64 |  | prithivMLmods/Qwen-Image-Edit-2511-Object-RemoverImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-2511-Object-Remover) |
 | 6 | Unknown | yhx12/DiffThinkerImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/yhx12/DiffThinker) |
 | 116 |  | prithivMLmods/Qwen-Image-Edit-2511-Object-AdderImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-2511-Object-Adder) |
+| 201 |  | WarmBloodAban/Anything_to_Real_Characters_2511Image-to-Image | Updated2 days ago | [Link](https://huggingface.co/WarmBloodAban/Anything_to_Real_Characters_2511) |
 
 ## Image-to-Text
 
@@ -5408,6 +5409,7 @@ Updated on 2026-01-11
 | 252k | 347 | diffusers/stable-diffusion-xl-1 | UpdatedSep 3, 2023 | [Link](https://huggingface.co/diffusers/stable-diffusion-xl-1.0-inpainting-0.1) |
 | 14.6k | 321 | JujoHotaru/loraText-to-Image | UpdatedApr 28 | [Link](https://huggingface.co/JujoHotaru/lora) |
 | 3.97k | 317 | Shitao/OmniGen-v1Text-to-Image | UpdatedNov 7, 2024 | [Link](https://huggingface.co/Shitao/OmniGen-v1) |
+| 70.7k | 272 | nunchaku-ai/nunchaku-qwen-image-edit-2509Text-to-Image | UpdatedNov 16, 2025 | [Link](https://huggingface.co/nunchaku-ai/nunchaku-qwen-image-edit-2509) |
 | 15.3k | 254 | InstantX/FLUX | UpdatedNov 23, 2024 | [Link](https://huggingface.co/InstantX/FLUX.1-dev-IP-Adapter) |
 | Updated1 day ago | 244 | wikeeyang/Magic-Wan-Image-V2Text-to-Image | 14B | [Link](https://huggingface.co/wikeeyang/Magic-Wan-Image-V2) |
 | 28.5k | 241 | xinsir/controlnet-openpose-sdxl-1 | UpdatedJul 9, 2024 | [Link](https://huggingface.co/xinsir/controlnet-openpose-sdxl-1.0) |
@@ -5415,6 +5417,7 @@ Updated on 2026-01-11
 | 247k | 227 | SG161222/Realistic_Vision_V5 | Updated20 days ago | [Link](https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE) |
 | 126k | 206 | RunDiffusion/Juggernaut-XL-v9Text-to-Image | UpdatedDec 11, 2024 | [Link](https://huggingface.co/RunDiffusion/Juggernaut-XL-v9) |
 | 37.6k | 156 | tianweiy/DMD2Text-to-Image | UpdatedJun 11, 2024 | [Link](https://huggingface.co/tianweiy/DMD2) |
+| 35.7k | 147 | nunchaku-ai/nunchaku-z-image-turboText-to-Image | Updated15 days ago | [Link](https://huggingface.co/nunchaku-ai/nunchaku-z-image-turbo) |
 | Updatedabout 16 hours ago | 124 | calcuis/krea-ggufText-to-Image | 12B | [Link](https://huggingface.co/calcuis/krea-gguf) |
 | 3.01k | 81 | RunDiffusion/Juggernaut-XI-v11Text-to-Image | UpdatedAug 29, 2024 | [Link](https://huggingface.co/RunDiffusion/Juggernaut-XI-v11) |
 | 128 | 75 | bytedance-research/USOText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/bytedance-research/USO) |
@@ -5531,6 +5534,7 @@ Updated on 2026-01-11
 | Updatedabout 5 hours ago | 6.93k | Phil2Sat/Qwen-Image-Edit-Rapid-AIO-GGUFText-to-Image | 20B | [Link](https://huggingface.co/Phil2Sat/Qwen-Image-Edit-Rapid-AIO-GGUF) |
 | 65 | 6 | FractalAIResearch/Kalaido-qwen-image-loraText-to-Image | Updated1 day ago | [Link](https://huggingface.co/FractalAIResearch/Kalaido-qwen-image-lora) |
 | 333 | 6 | GuangyuanSD/Z-Image-Re-Turbo-LoRAText-to-Image | Updated6 days ago | [Link](https://huggingface.co/GuangyuanSD/Z-Image-Re-Turbo-LoRA) |
+| 431 | 6 | unsloth/Qwen-Image-2512-unsloth-bnb-4bitText-to-Image | Updated4 days ago | [Link](https://huggingface.co/unsloth/Qwen-Image-2512-unsloth-bnb-4bit) |
 | 42 | 5 | Shakker-Labs/RepTextText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Shakker-Labs/RepText) |
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
