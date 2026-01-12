@@ -249,6 +249,8 @@ Updated on 2026-01-12
 | 2 | Unknown | miche8082/omega_5yi8hAny-to-Any | Updatedabout 10 hours ago | [Link](https://huggingface.co/miche8082/omega_5yi8h) |
 | 6 | Unknown | KlingTeam/UniVideoAny-to-Any | Updatedabout 3 hours ago | [Link](https://huggingface.co/KlingTeam/UniVideo) |
 | 5 | Unknown | Lightricks/LTX-2-19b-IC-LoRA-Canny-ControlAny-to-Any | Updatedabout 6 hours ago | [Link](https://huggingface.co/Lightricks/LTX-2-19b-IC-LoRA-Canny-Control) |
+| 2 | Unknown | Skywork/Unipic3-Consistency-ModelAny-to-Any | Updated4 minutes ago | [Link](https://huggingface.co/Skywork/Unipic3-Consistency-Model) |
+| 2 | Unknown | Skywork/Unipic3-DMDAny-to-Any | Updated1 minute ago | [Link](https://huggingface.co/Skywork/Unipic3-DMD) |
 
 ## Audio Classification
 
@@ -1806,6 +1808,7 @@ Updated on 2026-01-12
 | Updated1 day ago | 872 | prithivMLmods/Qwen3-VisionCaption-2B-GGUFImage-Text-to-Text | 2B | [Link](https://huggingface.co/prithivMLmods/Qwen3-VisionCaption-2B-GGUF) |
 | 57.2k | 851 | mistralai/Mistral-Small-3 | Updatedabout 11 hours ago | [Link](https://huggingface.co/mistralai/Mistral-Small-3.1-24B-Instruct-2503) |
 | Updatedabout 4 hours ago | 829 | lmms-lab/LLaVA-OneVision-1 | 9B | [Link](https://huggingface.co/lmms-lab/LLaVA-OneVision-1.5-8B-Instruct) |
+| Updated2 days ago | 764 | unsloth/LFM2 | 1B | [Link](https://huggingface.co/unsloth/LFM2.5-VL-1.6B-GGUF) |
 | Updated3 days ago | 759 | Qwen/Qwen3-VL-2B-Instruct-FP8Image-Text-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct-FP8) |
 | Updatedabout 7 hours ago | 757 | jinaai/jina-vlmImage-Text-to-Text | 2B | [Link](https://huggingface.co/jinaai/jina-vlm) |
 | Updated14 days ago | 681 | ByteDance/Dolphin-1 | 0.4B | [Link](https://huggingface.co/ByteDance/Dolphin-1.5) |
@@ -2679,6 +2682,7 @@ Updated on 2026-01-12
 | 6 | Unknown | yhx12/DiffThinkerImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/yhx12/DiffThinker) |
 | 116 |  | prithivMLmods/Qwen-Image-Edit-2511-Object-AdderImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-2511-Object-Adder) |
 | 201 |  | WarmBloodAban/Anything_to_Real_Characters_2511Image-to-Image | Updated2 days ago | [Link](https://huggingface.co/WarmBloodAban/Anything_to_Real_Characters_2511) |
+| 1.13k |  | prithivMLmods/Qwen-Image-Edit-2511-Polaroid-PhotoImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-2511-Polaroid-Photo) |
 
 ## Image-to-Text
 
@@ -2725,6 +2729,7 @@ Updated on 2026-01-12
 | UpdatedApr 2 | 116k | reducto/RolmOCRImage-to-Text | 8B | [Link](https://huggingface.co/reducto/RolmOCR) |
 | Updated5 days ago | 110 | Svngoku/Qwen3-VL-TimeTravelImage-to-Text | 9B | [Link](https://huggingface.co/Svngoku/Qwen3-VL-TimeTravel) |
 | Updatedabout 20 hours ago | 110 | scb10x/typhoon-ocr1 | 2B | [Link](https://huggingface.co/scb10x/typhoon-ocr1.5-2b) |
+| UpdatedSep 7, 2024 | 99 | antoniorv6/smt-camera-grandstaffImage-to-Text | 21.4M | [Link](https://huggingface.co/antoniorv6/smt-camera-grandstaff) |
 | Updatedabout 19 hours ago | 96 | davanstrien/iconclass-vlmImage-to-Text | 4B | [Link](https://huggingface.co/davanstrien/iconclass-vlm) |
 | Updated3 days ago | 87 | shkb/MemeLeakImage-to-Text | 9B | [Link](https://huggingface.co/shkb/MemeLeak) |
 | UpdatedOct 5, 2024 | 82 | syubraj/TrOCR_NepaliImage-to-Text | 0.2B | [Link](https://huggingface.co/syubraj/TrOCR_Nepali) |
