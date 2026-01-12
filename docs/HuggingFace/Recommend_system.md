@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-01-11
+Updated on 2026-01-12
 
 > Generated from the Hugging Face database.
 
@@ -59,6 +59,7 @@ Updated on 2026-01-11
 | UpdatedAug 14 | 48k | unsloth/gemma-3-4b-it-GGUFAny-to-Any | 4B | [Link](https://huggingface.co/unsloth/gemma-3-4b-it-GGUF) |
 | UpdatedSep 11, 2024 | 47 | ljnlonoljpiljm/florence-2-large-nsfw-ptAny-to-Any | 0.8B | [Link](https://huggingface.co/ljnlonoljpiljm/florence-2-large-nsfw-pt) |
 | UpdatedNov 4, 2023 | 47.8k | adept/fuyu-8bAny-to-Any | 9B | [Link](https://huggingface.co/adept/fuyu-8b) |
+| Updated4 days ago | 47 | AiAsistent/xthos-v2-the-sovereign-architectAny-to-Any | 4B | [Link](https://huggingface.co/AiAsistent/xthos-v2-the-sovereign-architect) |
 | 32.5k | 44 | onnx-community/Janus-Pro-1B-ONNXAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/onnx-community/Janus-Pro-1B-ONNX) |
 | UpdatedAug 14 | 43.6k | unsloth/gemma-3-27b-it-GGUFAny-to-Any | 27B | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-GGUF) |
 | 1 | 42 | lehduong/OneDiffusionAny-to-Any | UpdatedJul 24 | [Link](https://huggingface.co/lehduong/OneDiffusion) |
@@ -5523,6 +5524,7 @@ Updated on 2026-01-11
 | 19 | 7 | AIDC-AI/Ovis-Image-7BText-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/AIDC-AI/Ovis-Image-7B) |
 | 810 | 7 | tsqn/Z-Image-Turbo_fp32-fp16-bf16_full_and_ema-onlyText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/tsqn/Z-Image-Turbo_fp32-fp16-bf16_full_and_ema-only) |
 | Updatedabout 21 hours ago | 7 | stepfun-ai/NextStep-1 | 15B | [Link](https://huggingface.co/stepfun-ai/NextStep-1.1) |
+| 181 | 7 | Danrisi/Lenovo_ChromaRadianceText-to-Image | Updated3 days ago | [Link](https://huggingface.co/Danrisi/Lenovo_ChromaRadiance) |
 | 1.07k | 6 | DFloat11/FLUX | Updated1 day ago | [Link](https://huggingface.co/DFloat11/FLUX.1-dev-DF11) |
 | 836 | 6 | Minthy/RouWei-0 | Updated3 days ago | [Link](https://huggingface.co/Minthy/RouWei-0.8) |
 | 169 | 6 | PosterCraft/PosterCraft-v1_RLText-to-Image | Updated2 days ago | [Link](https://huggingface.co/PosterCraft/PosterCraft-v1_RL) |
@@ -5920,6 +5922,7 @@ Updated on 2026-01-11
 | 411 | 5 | nari-labs/Dia2-2BText-to-Speech | Updatedabout 21 hours ago | [Link](https://huggingface.co/nari-labs/Dia2-2B) |
 | Updatedabout 1 hour ago | 5 | ASLP-lab/VoiceSculptor-VDText-to-Speech | 4B | [Link](https://huggingface.co/ASLP-lab/VoiceSculptor-VD) |
 | Updatedabout 22 hours ago | 5 | oddadmix/chatterbox-egyptian-v0Text-to-Speech | 0.5B | [Link](https://huggingface.co/oddadmix/chatterbox-egyptian-v0) |
+| 3 | 5 | LEMAS-Project/LEMAS-TTSText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/LEMAS-Project/LEMAS-TTS) |
 | 5 | 4 | lunahr/csm-1b-safetensors-fp16Text-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-fp16) |
 | 2 | 4 | VAGOsolutions/SauerkrautTTS-Preview-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/VAGOsolutions/SauerkrautTTS-Preview-0.1) |
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
