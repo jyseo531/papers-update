@@ -52,6 +52,7 @@ Updated on 2026-01-13
 | Updatedabout 1 hour ago | 63 | wikeeyang/Emu35-NF4Any-to-Any | 35B | [Link](https://huggingface.co/wikeeyang/Emu35-NF4) |
 | UpdatedApr 29 | 60.5k | meta-llama/Llama-Guard-4-12BAny-to-Any | 12B | [Link](https://huggingface.co/meta-llama/Llama-Guard-4-12B) |
 | Updated24 days ago | 59 | DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-balancedAny-to-Any | 4B | [Link](https://huggingface.co/DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-balanced) |
+| UpdatedApr 17, 2025 | 59 | OddTheGreat/Meteor_4B_V | 4B | [Link](https://huggingface.co/OddTheGreat/Meteor_4B_V.1) |
 | UpdatedMay 12 | 55.1k | unsloth/gemma-3-4b-it-unsloth-bnb-4bitAny-to-Any | 3B | [Link](https://huggingface.co/unsloth/gemma-3-4b-it-unsloth-bnb-4bit) |
 | Updated1 day ago | 53 | cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-4bitAny-to-Any | 6B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-4bit) |
 | Updated17 days ago | 53 | sensefvg/InteractiveOmni-4BAny-to-Any | 6B | [Link](https://huggingface.co/sensefvg/InteractiveOmni-4B) |
@@ -103,6 +104,7 @@ Updated on 2026-01-13
 | 6 | 10 | dorni/UniVerse-1-BaseAny-to-Any | Updatedabout 10 hours ago | [Link](https://huggingface.co/dorni/UniVerse-1-Base) |
 | UpdatedDec 12, 2024 | 10 | Alpha-VLLM/Lumina-mGPT-7B-768-OmniAny-to-Any | 7B | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-768-Omni) |
 | UpdatedApr 9 | 10.5k | meta-llama/Llama-4-Scout-17B-16EAny-to-Any | 109B | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E) |
+| 348 | 10 | mlx-community/Llama-4-Scout-17B-16E-Instruct-4bitAny-to-Any | UpdatedMay 3, 2025 | [Link](https://huggingface.co/mlx-community/Llama-4-Scout-17B-16E-Instruct-4bit) |
 | 23 | 9 | Alpha-VLLM/Lumina-mGPT-7B-1024Any-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-1024) |
 | UpdatedJul 9 | 8 | toandev/donglao-gemma-3-4b-it-viAny-to-Any | 4B | [Link](https://huggingface.co/toandev/donglao-gemma-3-4b-it-vi) |
 | 612 | 7 | internlm/internlm-xcomposer2d5-7b-rewardAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/internlm/internlm-xcomposer2d5-7b-reward) |
@@ -4549,6 +4551,7 @@ Updated on 2026-01-13
 | Updatedabout 4 hours ago | 570 | MiniMaxAI/MiniMax-M2Text | 229B | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M2) |
 |  | 565 | deepseek-ai/DeepSeek-R1-0528Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528) |
 | Updated3 days ago | 540 | ArliAI/gpt-oss-120b-DerestrictedText | 117B | [Link](https://huggingface.co/ArliAI/gpt-oss-120b-Derestricted) |
+| Updated4 days ago | 517 | ai21labs/AI21-Jamba2-3BText | 3B | [Link](https://huggingface.co/ai21labs/AI21-Jamba2-3B) |
 | 894k | 486 | deepseek-ai/DeepSeek-R1-Distill-Qwen-7BText | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B) |
 | Updated6 days ago | 480 | huihui-ai/Huihui-GLM-4 | 353B | [Link](https://huggingface.co/huihui-ai/Huihui-GLM-4.6-abliterated-mlx-4bit) |
 | Updatedabout 24 hours ago | 463 | PowerInfer/SmallThinker-4BA0 | 4B | [Link](https://huggingface.co/PowerInfer/SmallThinker-4BA0.6B-Instruct) |
@@ -4698,6 +4701,7 @@ Updated on 2026-01-13
 | Updated35 minutes ago | 61 | naver-hyperclovax/HyperCLOVAX-SEED-Omni-8BText | 11B | [Link](https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Omni-8B) |
 | Updated2 days ago | 60 | Alibaba-NLP/WebDancer-32BText | 33B | [Link](https://huggingface.co/Alibaba-NLP/WebDancer-32B) |
 | Updatedabout 20 hours ago | 60 | inclusionAI/LLaDA2 | 16B | [Link](https://huggingface.co/inclusionAI/LLaDA2.0-mini-preview) |
+| Updatedabout 13 hours ago | 60 | haykgrigorian/TimeCapsuleLLM-v2-llama-1 | 1B | [Link](https://huggingface.co/haykgrigorian/TimeCapsuleLLM-v2-llama-1.2B) |
 | Updatedabout 1 hour ago | 59 | janhq/Jan-v1-4BText | 4B | [Link](https://huggingface.co/janhq/Jan-v1-4B) |
 | Updated2 days ago | 59 | Motif-Technologies/Motif-2-12 | 13B | [Link](https://huggingface.co/Motif-Technologies/Motif-2-12.7B-Instruct) |
 | Updatedabout 17 hours ago | 58 | microsoft/Phi-4-mini-flash-reasoningText | 4B | [Link](https://huggingface.co/microsoft/Phi-4-mini-flash-reasoning) |
@@ -5816,6 +5820,7 @@ Updated on 2026-01-13
 | Updatedabout 9 hours ago | 216 | microsoft/VibeVoice-1 | 3B | [Link](https://huggingface.co/microsoft/VibeVoice-1.5B) |
 | 27.5k | 194 | suno/bark-smallText-to-Speech | UpdatedNov 10, 2023 | [Link](https://huggingface.co/suno/bark-small) |
 | Updated3 days ago | 182 | fnlp/MOSS-TTSD-v0 | 2B | [Link](https://huggingface.co/fnlp/MOSS-TTSD-v0.5) |
+| Updated1 day ago | 164 | kugelaudio/kugelaudio-0-openText-to-Speech | 9B | [Link](https://huggingface.co/kugelaudio/kugelaudio-0-open) |
 | Updatedabout 8 hours ago | 160 | neuphonic/neutts-airText-to-Speech | 0.7B | [Link](https://huggingface.co/neuphonic/neutts-air) |
 | 1.22k | 141 | stepfun-ai/Step-Audio-TTS-3BText-to-Speech | Updated8 days ago | [Link](https://huggingface.co/stepfun-ai/Step-Audio-TTS-3B) |
 | UpdatedSep 1, 2023 | 141 | facebook/mms-tts-tgkText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-tgk) |
