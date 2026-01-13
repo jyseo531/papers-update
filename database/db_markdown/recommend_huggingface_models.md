@@ -196,6 +196,7 @@ Updated on 2026-01-13
 | UpdatedJun 17 | 1.4k | unsloth/Llama-4-Scout-17B-16E-InstructAny-to-Any | 109B | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct) |
 | 7 | 1 | imkebe/Janus-Pro-7B-rk3588-1 | UpdatedApr 15 | [Link](https://huggingface.co/imkebe/Janus-Pro-7B-rk3588-1.2.0) |
 | UpdatedJun 9 | 1.86k | RedHatAI/gemma-3-12b-it-FP8-dynamicAny-to-Any | 12B | [Link](https://huggingface.co/RedHatAI/gemma-3-12b-it-FP8-dynamic) |
+| 1 | 1 | CostaliyA/UniCornAny-to-Any | Updated5 minutes ago | [Link](https://huggingface.co/CostaliyA/UniCorn) |
 | 2 | Unknown | guanwenhao/MonoSpeechAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/guanwenhao/MonoSpeech) |
 | 22 | Unknown | Goekdeniz-Guelmez/J | UpdatedOct 29, 2024 | [Link](https://huggingface.co/Goekdeniz-Guelmez/J.O.S.I.E.v4o) |
 | 1 | Unknown | hfcsrd/cryptographyAny-to-Any | UpdatedNov 17, 2024 | [Link](https://huggingface.co/hfcsrd/cryptography) |
@@ -253,6 +254,8 @@ Updated on 2026-01-13
 | 5 | Unknown | Lightricks/LTX-2-19b-IC-LoRA-Canny-ControlAny-to-Any | Updatedabout 6 hours ago | [Link](https://huggingface.co/Lightricks/LTX-2-19b-IC-LoRA-Canny-Control) |
 | 2 | Unknown | Skywork/Unipic3-Consistency-ModelAny-to-Any | Updated4 minutes ago | [Link](https://huggingface.co/Skywork/Unipic3-Consistency-Model) |
 | 2 | Unknown | Skywork/Unipic3-DMDAny-to-Any | Updated1 minute ago | [Link](https://huggingface.co/Skywork/Unipic3-DMD) |
+| 1 | Unknown | miche8082/omega_i4glzAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/miche8082/omega_i4glz) |
+| 1 | Unknown | james1600/omega_i3vs8Any-to-Any | Updated7 days ago | [Link](https://huggingface.co/james1600/omega_i3vs8) |
 
 ## Audio Classification
 
@@ -2409,6 +2412,7 @@ Updated on 2026-01-13
 | 59 | 8 | qualcomm/AOT-GANImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/qualcomm/AOT-GAN) |
 |  | 8 | xuminglong/kontext-tryon7Image-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/xuminglong/kontext-tryon7) |
 | 160 | 8 | Jamichsu/Stream-DiffVSRImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/Jamichsu/Stream-DiffVSR) |
+|  | 8 | prithivMLmods/Qwen-Image-Edit-2511-Unblur-UpscaleImage-to-Image | Updated15 minutes ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-2511-Unblur-Upscale) |
 | 1.74k | 7 | xiaozaa/catvton-flux-betaImage-to-Image | UpdatedJan 16 | [Link](https://huggingface.co/xiaozaa/catvton-flux-beta) |
 | 33 | 7 | kontext-community/relighting-kontext-dev-lora-v3Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/kontext-community/relighting-kontext-dev-lora-v3) |
 | Updatedabout 1 hour ago | 7 | chatpig/flux2-dev-ggufImage-to-Image | 18B | [Link](https://huggingface.co/chatpig/flux2-dev-gguf) |
@@ -2693,12 +2697,14 @@ Updated on 2026-01-13
 | UpdatedAug 25 | 929 | shenasa/persian-image-captioningImage-to-Text | 0.2B | [Link](https://huggingface.co/shenasa/persian-image-captioning) |
 | UpdatedJan 20 | 893 | HuggingFaceTB/SmolVLM-500M-BaseImage-to-Text | 0.5B | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-500M-Base) |
 | UpdatedApr 28 | 631 | Hyphonical/Pixtral-12B-Captioner-Relaxed-Q4_K_M-GGUFImage-to-Text | 12B | [Link](https://huggingface.co/Hyphonical/Pixtral-12B-Captioner-Relaxed-Q4_K_M-GGUF) |
+| UpdatedApr 9, 2025 | 599 | meta-llama/Llama-4-Maverick-17B-128EImage-to-Text | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E) |
 | UpdatedJan 29 | 586 | chatpig/llava-llama3Image-to-Text | 8B | [Link](https://huggingface.co/chatpig/llava-llama3) |
 | Updated1 day ago | 570 | HelloKKMe/GTA1-7BImage-to-Text | 8B | [Link](https://huggingface.co/HelloKKMe/GTA1-7B) |
 | UpdatedJul 1, 2023 | 563 | team-lucid/trocr-small-koreanImage-to-Text | 54.5M | [Link](https://huggingface.co/team-lucid/trocr-small-korean) |
 | Updated5 days ago | 552 | thesby/Qwen3-VL-8B-NSFW-Caption-V4Image-to-Text | 9B | [Link](https://huggingface.co/thesby/Qwen3-VL-8B-NSFW-Caption-V4) |
 | UpdatedApr 24, 2024 | 541 | unum-cloud/uform-gen2-dpoImage-to-Text | 1B | [Link](https://huggingface.co/unum-cloud/uform-gen2-dpo) |
 | UpdatedApr 20, 2024 | 537 | toshi456/llava-jp-1 | 2B | [Link](https://huggingface.co/toshi456/llava-jp-1.3b-v1.1) |
+| Updated21 days ago | 510 | AiAsistent/gemma-3-4b-it-Cognitive-LibertyImage-to-Text | 4B | [Link](https://huggingface.co/AiAsistent/gemma-3-4b-it-Cognitive-Liberty) |
 | Updated4 days ago | 485 | mradermacher/Qwen2 | 8B | [Link](https://huggingface.co/mradermacher/Qwen2.5-VL-7B-Abliterated-Caption-it-GGUF) |
 | Updated20 days ago | 480 | sanchit97/chart-rvr-3bImage-to-Text | 4B | [Link](https://huggingface.co/sanchit97/chart-rvr-3b) |
 | UpdatedAug 26, 2024 | 467 | LeroyDyer/SpydazWebAI_Image_ProjectorsImage-to-Text | 7B | [Link](https://huggingface.co/LeroyDyer/SpydazWebAI_Image_Projectors) |
@@ -2712,6 +2718,7 @@ Updated on 2026-01-13
 | Updated2 days ago | 230 | HelloKKMe/GTA1-32BImage-to-Text | 33B | [Link](https://huggingface.co/HelloKKMe/GTA1-32B) |
 | UpdatedMar 28 | 229 | David-Magdy/TR_OCR_LARGEImage-to-Text | 0.6B | [Link](https://huggingface.co/David-Magdy/TR_OCR_LARGE) |
 | 7.46k | 213 | xtuner/llava-llama-3-8b-v1_1-ggufImage-to-Text | UpdatedApr 30, 2024 | [Link](https://huggingface.co/xtuner/llava-llama-3-8b-v1_1-gguf) |
+| UpdatedMay 22, 2025 | 208k | meta-llama/Llama-4-Scout-17B-16E-InstructImage-to-Text | 109B | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct) |
 | UpdatedMar 5 | 180 | r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUF) |
 | Updated6 days ago | 177 | thesby/Qwen3-VL-8B-NSFW-Caption-V4 | 9B | [Link](https://huggingface.co/thesby/Qwen3-VL-8B-NSFW-Caption-V4.5) |
 | UpdatedJun 20 | 174k | BCCard/Qwen2 | 33B | [Link](https://huggingface.co/BCCard/Qwen2.5-VL-32B-Instruct-FP8-Dynamic) |
@@ -2755,9 +2762,13 @@ Updated on 2026-01-13
 | UpdatedAug 30, 2024 | 51.3k | U4R/StructTable-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/U4R/StructTable-base) |
 | Updatedabout 17 hours ago | 50 | Qwen/Qwen3-VL-Embedding-8BImage-to-Text | 8B | [Link](https://huggingface.co/Qwen/Qwen3-VL-Embedding-8B) |
 | UpdatedNov 26, 2025 | 50.3k | Qwen/Qwen3-VL-235B-A22B-ThinkingImage-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Thinking) |
+| UpdatedApr 29, 2025 | 50.1k | meta-llama/Llama-Guard-4-12BImage-to-Text | 12B | [Link](https://huggingface.co/meta-llama/Llama-Guard-4-12B) |
 | 71 | 49 | stabilityai/japanese-stable-vlmImage-to-Text | UpdatedJul 10, 2024 | [Link](https://huggingface.co/stabilityai/japanese-stable-vlm) |
 | 5.28k | 48 | Ertugrul/Qwen2-VL-7B-Captioner-RelaxedImage-to-Text | UpdatedSep 26, 2024 | [Link](https://huggingface.co/Ertugrul/Qwen2-VL-7B-Captioner-Relaxed) |
+| UpdatedAug 14, 2025 | 48.5k | unsloth/gemma-3-4b-it-GGUFImage-to-Text | 4B | [Link](https://huggingface.co/unsloth/gemma-3-4b-it-GGUF) |
 | UpdatedMay 21 | 47.2k | llamaindex/vdr-2b-multi-v1Image-to-Text | 2B | [Link](https://huggingface.co/llamaindex/vdr-2b-multi-v1) |
+| UpdatedAug 14, 2025 | 47.3k | unsloth/gemma-3-12b-it-GGUFImage-to-Text | 12B | [Link](https://huggingface.co/unsloth/gemma-3-12b-it-GGUF) |
+| Updated6 days ago | 47 | AiAsistent/xthos-v2-the-sovereign-architectImage-to-Text | 4B | [Link](https://huggingface.co/AiAsistent/xthos-v2-the-sovereign-architect) |
 | Updatedabout 5 hours ago | 46 | mohajesmaeili/Qwen3-VL-2B-Persian-Arabic-Ocr-v1 | 2B | [Link](https://huggingface.co/mohajesmaeili/Qwen3-VL-2B-Persian-Arabic-Ocr-v1.0) |
 | Updated23 days ago | 43 | Jaireyu/Qwen2 | 8B | [Link](https://huggingface.co/Jaireyu/Qwen2.5-VL-UniSVG-finetuned) |
 | UpdatedJul 5 | 43 | QuickHawk/trocr-indicImage-to-Text | 0.3B | [Link](https://huggingface.co/QuickHawk/trocr-indic) |
@@ -2789,6 +2800,7 @@ Updated on 2026-01-13
 | 68 | 25 | Ertugrul/Pixtral-12B-Captioner-RelaxedImage-to-Text | UpdatedOct 1, 2024 | [Link](https://huggingface.co/Ertugrul/Pixtral-12B-Captioner-Relaxed) |
 | Updatedabout 10 hours ago | 24 | CodeGoat24/UniGenBench-EvalModel-qwen-72b-v1Image-to-Text | 73B | [Link](https://huggingface.co/CodeGoat24/UniGenBench-EvalModel-qwen-72b-v1) |
 | 4.54k | 23 | raxtemur/trocr-base-ruImage-to-Text | UpdatedMay 29, 2024 | [Link](https://huggingface.co/raxtemur/trocr-base-ru) |
+| UpdatedJun 17, 2025 | 23.6k | unsloth/Llama-4-Scout-17B-16E-Instruct-GGUFImage-to-Text | 108B | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct-GGUF) |
 | 4.06k | 22 | noamrot/FuseCap_Image_CaptioningImage-to-Text | UpdatedJan 25, 2024 | [Link](https://huggingface.co/noamrot/FuseCap_Image_Captioning) |
 | UpdatedDec 12, 2023 | 22 | kmewhort/blip2-flan-t5-xxl-safetensorsImage-to-Text | 12B | [Link](https://huggingface.co/kmewhort/blip2-flan-t5-xxl-safetensors) |
 | 75 | 22 | nvidia/nemotron-ocr-v1Image-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/nvidia/nemotron-ocr-v1) |
@@ -2833,6 +2845,7 @@ Updated on 2026-01-13
 | UpdatedJun 13 | 12 | mikewang/PVD-160k-Mistral-7bImage-to-Text | 7B | [Link](https://huggingface.co/mikewang/PVD-160k-Mistral-7b) |
 | 118 | 12 | Akajackson/donut_rusImage-to-Text | UpdatedApr 27, 2023 | [Link](https://huggingface.co/Akajackson/donut_rus) |
 | Updatedabout 9 hours ago | 12 | nyu-visionx/Cambrian-S-0 | 0.9B | [Link](https://huggingface.co/nyu-visionx/Cambrian-S-0.5B) |
+| UpdatedApr 9, 2025 | 12k | meta-llama/Llama-4-Scout-17B-16EImage-to-Text | 109B | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E) |
 | 658 | 11 | prithivMLmods/Florence-2-VLM-Doc-VQAImage-to-Text | UpdatedOct 26, 2024 | [Link](https://huggingface.co/prithivMLmods/Florence-2-VLM-Doc-VQA) |
 | 22 | 11 | daekeun-ml/ko-trocr-base-nsmc-news-chatbotImage-to-Text | UpdatedOct 5, 2023 | [Link](https://huggingface.co/daekeun-ml/ko-trocr-base-nsmc-news-chatbot) |
 | 2.98k | 11 | kazars24/trocr-base-handwritten-ruImage-to-Text | UpdatedOct 27, 2024 | [Link](https://huggingface.co/kazars24/trocr-base-handwritten-ru) |
@@ -2875,6 +2888,7 @@ Updated on 2026-01-13
 | 52 | 7 | Xenova/trocr-small-handwrittenImage-to-Text | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Xenova/trocr-small-handwritten) |
 | 188 | 7 | WeightedAI/Persian_OCRImage-to-Text | Updated26 days ago | [Link](https://huggingface.co/WeightedAI/Persian_OCR) |
 | Updated26 days ago | 7 | Cosmobillian/radiologist_llamaImage-to-Text | 11B | [Link](https://huggingface.co/Cosmobillian/radiologist_llama) |
+| UpdatedMay 12, 2025 | 7.07k | unsloth/gemma-3-12b-it-bnb-4bitImage-to-Text | 13B | [Link](https://huggingface.co/unsloth/gemma-3-12b-it-bnb-4bit) |
 | 624 | 6 | fhswf/TrOCR_Math_handwrittenImage-to-Text | UpdatedOct 21, 2024 | [Link](https://huggingface.co/fhswf/TrOCR_Math_handwritten) |
 | 511 | 6 | microsoft/trocr-base-strImage-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-base-str) |
 | Updated21 days ago | 6.36k | allenai/olmOCR-7B-0225-preview-FP8Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview-FP8) |
@@ -4786,6 +4800,7 @@ Updated on 2026-01-13
 | Updated1 day ago | 34 | nvidia/NVIDIA-Nemotron-Nano-9B-v2-BaseText | 9B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2-Base) |
 | Updatedabout 6 hours ago | 34 | continuedev/instinctText | 8B | [Link](https://huggingface.co/continuedev/instinct) |
 | Updated2 days ago | 34 | Writer/palmyra-mini-thinking-bText | 2B | [Link](https://huggingface.co/Writer/palmyra-mini-thinking-b) |
+| Updatedabout 24 hours ago | 34 | FutureMa/Eva-4BText | 4B | [Link](https://huggingface.co/FutureMa/Eva-4B) |
 | 566 | 33 | deepcogito/cogito-v1-preview-qwen-14BText | Updated1 day ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-qwen-14B) |
 | 115 | 33 | shuttleai/shuttle-3 | Updated2 days ago | [Link](https://huggingface.co/shuttleai/shuttle-3.5) |
 | 4.66k | 33 | Qwen/Qwen3-32B-AWQText | Updated5 days ago | [Link](https://huggingface.co/Qwen/Qwen3-32B-AWQ) |
