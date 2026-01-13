@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-01-12
+Updated on 2026-01-13
 
 > Generated from the Hugging Face database.
 
@@ -2713,6 +2713,7 @@ Updated on 2026-01-12
 | UpdatedMar 5 | 180 | r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUF) |
 | Updated6 days ago | 177 | thesby/Qwen3-VL-8B-NSFW-Caption-V4 | 9B | [Link](https://huggingface.co/thesby/Qwen3-VL-8B-NSFW-Caption-V4.5) |
 | UpdatedJun 20 | 174k | BCCard/Qwen2 | 33B | [Link](https://huggingface.co/BCCard/Qwen2.5-VL-32B-Instruct-FP8-Dynamic) |
+| UpdatedNov 26, 2025 | 164k | Qwen/Qwen3-VL-235B-A22B-InstructImage-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct) |
 | Updated1 day ago | 163 | HelloKKMe/GTA1-72BImage-to-Text | 73B | [Link](https://huggingface.co/HelloKKMe/GTA1-72B) |
 | 170k | 159 | microsoft/kosmos-2-patch14-224Image-to-Text | UpdatedNov 28, 2023 | [Link](https://huggingface.co/microsoft/kosmos-2-patch14-224) |
 | UpdatedApr 27, 2024 | 158 | gospacedev/blip-image-captioning-base-bf16Image-to-Text | 0.2B | [Link](https://huggingface.co/gospacedev/blip-image-captioning-base-bf16) |
@@ -2751,6 +2752,7 @@ Updated on 2026-01-12
 | UpdatedApr 17, 2024 | 54 | hoang-quoc-trung/sumen-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/hoang-quoc-trung/sumen-base) |
 | UpdatedAug 30, 2024 | 51.3k | U4R/StructTable-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/U4R/StructTable-base) |
 | Updatedabout 17 hours ago | 50 | Qwen/Qwen3-VL-Embedding-8BImage-to-Text | 8B | [Link](https://huggingface.co/Qwen/Qwen3-VL-Embedding-8B) |
+| UpdatedNov 26, 2025 | 50.3k | Qwen/Qwen3-VL-235B-A22B-ThinkingImage-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Thinking) |
 | 71 | 49 | stabilityai/japanese-stable-vlmImage-to-Text | UpdatedJul 10, 2024 | [Link](https://huggingface.co/stabilityai/japanese-stable-vlm) |
 | 5.28k | 48 | Ertugrul/Qwen2-VL-7B-Captioner-RelaxedImage-to-Text | UpdatedSep 26, 2024 | [Link](https://huggingface.co/Ertugrul/Qwen2-VL-7B-Captioner-Relaxed) |
 | UpdatedMay 21 | 47.2k | llamaindex/vdr-2b-multi-v1Image-to-Text | 2B | [Link](https://huggingface.co/llamaindex/vdr-2b-multi-v1) |
@@ -2859,6 +2861,7 @@ Updated on 2026-01-12
 | UpdatedJul 13, 2024 | 8 | matthh/git-image-to-g-codeImage-to-Text | 0.2B | [Link](https://huggingface.co/matthh/git-image-to-g-code) |
 | Updatedabout 11 hours ago | 8 | internlm/CapRL-3BImage-to-Text | 4B | [Link](https://huggingface.co/internlm/CapRL-3B) |
 | Updated2 days ago | 8 | ob11/Qwen-VL-PRM-7BImage-to-Text | 8B | [Link](https://huggingface.co/ob11/Qwen-VL-PRM-7B) |
+| UpdatedApr 2, 2024 | 8 | unstructuredio/donut-base-labelstudio-A1 | 0.2B | [Link](https://huggingface.co/unstructuredio/donut-base-labelstudio-A1.0) |
 | 1.58k | 7 | DunnBC22/trocr-base-printed_captcha_ocrImage-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-base-printed_captcha_ocr) |
 | 24.7k | 7 | Riksarkivet/trocr-base-handwritten-hist-swe-2Image-to-Text | Updated11 days ago | [Link](https://huggingface.co/Riksarkivet/trocr-base-handwritten-hist-swe-2) |
 | 285 | 7 | purna419/invoice-parserImage-to-Text | UpdatedJul 10, 2023 | [Link](https://huggingface.co/purna419/invoice-parser) |
@@ -3007,6 +3010,7 @@ Updated on 2026-01-12
 | Updated25 days ago | 1.11k | sherif1313/Arabic-handwritten-OCR-4bit-Qwen2 | 4B | [Link](https://huggingface.co/sherif1313/Arabic-handwritten-OCR-4bit-Qwen2.5-VL-3B-v2) |
 | 20 | 1 | unni12345/MedBlip2Image-to-Text | UpdatedJul 27, 2023 | [Link](https://huggingface.co/unni12345/MedBlip2) |
 | Updatedabout 17 hours ago | 1 | Qwen/Qwen3-VL-Reranker-8BImage-to-Text | 9B | [Link](https://huggingface.co/Qwen/Qwen3-VL-Reranker-8B) |
+| 12 | 1 | shivalikasingh/donut-cheque-parserImage-to-Text | UpdatedNov 10, 2022 | [Link](https://huggingface.co/shivalikasingh/donut-cheque-parser) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -5420,6 +5424,7 @@ Updated on 2026-01-12
 | Updated1 day ago | 244 | wikeeyang/Magic-Wan-Image-V2Text-to-Image | 14B | [Link](https://huggingface.co/wikeeyang/Magic-Wan-Image-V2) |
 | 28.5k | 241 | xinsir/controlnet-openpose-sdxl-1 | UpdatedJul 9, 2024 | [Link](https://huggingface.co/xinsir/controlnet-openpose-sdxl-1.0) |
 | 55k | 234 | SG161222/Realistic_Vision_V6 | UpdatedOct 8, 2024 | [Link](https://huggingface.co/SG161222/Realistic_Vision_V6.0_B1_noVAE) |
+| UpdatedNov 17, 2024 | 229 | advokat/AnimePro-FLUXText-to-Image | 12B | [Link](https://huggingface.co/advokat/AnimePro-FLUX) |
 | 247k | 227 | SG161222/Realistic_Vision_V5 | Updated20 days ago | [Link](https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE) |
 | 126k | 206 | RunDiffusion/Juggernaut-XL-v9Text-to-Image | UpdatedDec 11, 2024 | [Link](https://huggingface.co/RunDiffusion/Juggernaut-XL-v9) |
 | 37.6k | 156 | tianweiy/DMD2Text-to-Image | UpdatedJun 11, 2024 | [Link](https://huggingface.co/tianweiy/DMD2) |
@@ -5848,6 +5853,7 @@ Updated on 2026-01-12
 | Updated3 days ago | 50 | nineninesix/kani-tts-400m-koText-to-Speech | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-400m-ko) |
 | 38.3k | 48 | SWivid/E2-TTSText-to-Speech | UpdatedMar 12 | [Link](https://huggingface.co/SWivid/E2-TTS) |
 | 73.1k | 45 | onnx-community/Kokoro-82M-v1 | Updated17 days ago | [Link](https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX) |
+| 482 | 44 | nvidia/magpie_tts_multilingual_357mText-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/nvidia/magpie_tts_multilingual_357m) |
 | 5.2k | 39 | speechbrain/tts-hifigan-ljspeechText-to-Speech | UpdatedFeb 25, 2024 | [Link](https://huggingface.co/speechbrain/tts-hifigan-ljspeech) |
 | Updatedabout 23 hours ago | 39 | ekwek/Soprano-80MText-to-Speech | 79.7M | [Link](https://huggingface.co/ekwek/Soprano-80M) |
 | 1.07k | 38 | nvidia/tts_hifiganText-to-Speech | UpdatedJun 29, 2022 | [Link](https://huggingface.co/nvidia/tts_hifigan) |
@@ -6332,6 +6338,7 @@ Updated on 2026-01-12
 | 2 | Unknown | Lightricks/LTX-2-19b-LoRA-Camera-Control-Jib-DownText-to-Video | Updated3 days ago | [Link](https://huggingface.co/Lightricks/LTX-2-19b-LoRA-Camera-Control-Jib-Down) |
 | 2 | Unknown | Lightricks/LTX-2-19b-LoRA-Camera-Control-Jib-UpText-to-Video | Updated3 days ago | [Link](https://huggingface.co/Lightricks/LTX-2-19b-LoRA-Camera-Control-Jib-Up) |
 | 2 | Unknown | Lightricks/LTX-2-19b-LoRA-Camera-Control-StaticText-to-Video | Updated3 days ago | [Link](https://huggingface.co/Lightricks/LTX-2-19b-LoRA-Camera-Control-Static) |
+| 3 | Unknown | GitMylo/Wan_2 | Updatedabout 14 hours ago | [Link](https://huggingface.co/GitMylo/Wan_2.2_nvfp4) |
 
 ## Text2Text Generation
 
