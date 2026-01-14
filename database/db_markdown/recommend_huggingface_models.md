@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-01-13
+Updated on 2026-01-14
 
 > Generated from the Hugging Face database.
 
@@ -2124,6 +2124,7 @@ Updated on 2026-01-13
 | Updatedabout 17 hours ago | 7 | ByteDance/Sa2VA-Qwen3-VL-2BImage-Text-to-Text | 3B | [Link](https://huggingface.co/ByteDance/Sa2VA-Qwen3-VL-2B) |
 | 18 | 7 | NexaAI/AutoNeuralImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/NexaAI/AutoNeural) |
 | 126 | 7 | kacperwikiel/RysOCRImage-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/kacperwikiel/RysOCR) |
+| Updatedabout 4 hours ago | 7 | google/medgemma-1 | 4B | [Link](https://huggingface.co/google/medgemma-1.5-4b-it) |
 | 160 | 6 | MIL-UT/Asagi-14BImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/MIL-UT/Asagi-14B) |
 | Updatedabout 8 hours ago | 6.26k | Qwen/Qwen3-VL-30B-A3B-ThinkingImage-Text-to-Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Thinking) |
 | Updatedabout 14 hours ago | 6 | Qwen/Qwen3-VL-8B-InstructImage-Text-to-Text | 9B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct) |
@@ -2368,6 +2369,7 @@ Updated on 2026-01-13
 | 1.87k | 28 | lllyasviel/sd-controlnet-hedImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-hed) |
 | 13 | 28 | nvidia/ChronoEdit-14B-Diffusers-Upscaler-LoraImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/ChronoEdit-14B-Diffusers-Upscaler-Lora) |
 | 421 | 26 | BertChristiaens/controlnet-seg-roomImage-to-Image | UpdatedMay 25, 2023 | [Link](https://huggingface.co/BertChristiaens/controlnet-seg-room) |
+|  | 26 | dx8152/Qwen-Image-Edit-2511-Gaussian-SplashImage-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/dx8152/Qwen-Image-Edit-2511-Gaussian-Splash) |
 |  | 25 | peteromallet/Flux-Kontext-InSceneImage-to-Image | Updated3 minutes ago | [Link](https://huggingface.co/peteromallet/Flux-Kontext-InScene) |
 | Updatedabout 8 hours ago | 24 | QuantStack/Qwen-Image-Edit-GGUFImage-to-Image | 20B | [Link](https://huggingface.co/QuantStack/Qwen-Image-Edit-GGUF) |
 | 52 | 22 | sayakpaul/whitebox-cartoonizerImage-to-Image | UpdatedMar 17, 2023 | [Link](https://huggingface.co/sayakpaul/whitebox-cartoonizer) |
@@ -4767,6 +4769,7 @@ Updated on 2026-01-13
 | Updatedabout 19 hours ago | 41 | tencent/Hunyuan-A13B-Instruct-FP8Text | 80B | [Link](https://huggingface.co/tencent/Hunyuan-A13B-Instruct-FP8) |
 | Updatedabout 2 hours ago | 41 | Intelligent-Internet/II-Search-4BText | 4B | [Link](https://huggingface.co/Intelligent-Internet/II-Search-4B) |
 | Updated4 days ago | 41 | nvidia/Nemotron-Elastic-12BText | 12B | [Link](https://huggingface.co/nvidia/Nemotron-Elastic-12B) |
+| Updatedabout 17 hours ago | 41 | baichuan-inc/Baichuan-M3-235BText | 235B | [Link](https://huggingface.co/baichuan-inc/Baichuan-M3-235B) |
 | 3 | 40 | MiniMaxAI/MiniMax-M1-40kText | Updatedabout 10 hours ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M1-40k) |
 | Updated2 days ago | 40 | Tesslate/UIGEN-X-8BText | 8B | [Link](https://huggingface.co/Tesslate/UIGEN-X-8B) |
 | Updatedabout 3 hours ago | 40 | MachineLearningLM/MachineLearningLM-7B-v1Text | 8B | [Link](https://huggingface.co/MachineLearningLM/MachineLearningLM-7B-v1) |
@@ -5462,6 +5465,7 @@ Updated on 2026-01-13
 | 69 | 54 | NewBie-AI/NewBie-image-Exp0 | Updatedabout 11 hours ago | [Link](https://huggingface.co/NewBie-AI/NewBie-image-Exp0.1) |
 | 36 | 51 | THUDM/CogView4-6BText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/THUDM/CogView4-6B) |
 | Updatedabout 9 hours ago | 51 | tencent/HunyuanImage-3 | 83B | [Link](https://huggingface.co/tencent/HunyuanImage-3.0) |
+|  | 50 | zai-org/GLM-ImageText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/zai-org/GLM-Image) |
 |  | 46 | fal/FLUX | Updatedabout 5 hours ago | [Link](https://huggingface.co/fal/FLUX.2-dev-Turbo) |
 | 87 | 44 | Freepik/F-LiteText-to-Image | Updatedabout 15 hours ago | [Link](https://huggingface.co/Freepik/F-Lite) |
 | 17.9k | 43 | Disty0/Z-Image-Turbo-SDNQ-uint4-svd-r32Text-to-Image | Updated5 days ago | [Link](https://huggingface.co/Disty0/Z-Image-Turbo-SDNQ-uint4-svd-r32) |
@@ -5976,6 +5980,7 @@ Updated on 2026-01-13
 | 38 | 4 | mlx-community/chatterbox-turbo-fp16Text-to-Speech | Updated1 day ago | [Link](https://huggingface.co/mlx-community/chatterbox-turbo-fp16) |
 | 51 | 4 | JayLL13/VoxCPM-1 | Updated5 days ago | [Link](https://huggingface.co/JayLL13/VoxCPM-1.5-VN) |
 | 8 | 4 | ThreadAbort/IndexTTS-RustText-to-Speech | Updated24 days ago | [Link](https://huggingface.co/ThreadAbort/IndexTTS-Rust) |
+| 48 | 4 | onnx-community/Supertonic-TTS-2-ONNXText-to-Speech | Updated7 days ago | [Link](https://huggingface.co/onnx-community/Supertonic-TTS-2-ONNX) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 1.22k | 3 | CONCREE/Adia_TTSText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/CONCREE/Adia_TTS) |
