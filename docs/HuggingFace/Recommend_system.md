@@ -6369,6 +6369,7 @@ Updated on 2026-01-14
 | 2 | Unknown | Lightricks/LTX-2-19b-LoRA-Camera-Control-Jib-UpText-to-Video | Updated3 days ago | [Link](https://huggingface.co/Lightricks/LTX-2-19b-LoRA-Camera-Control-Jib-Up) |
 | 2 | Unknown | Lightricks/LTX-2-19b-LoRA-Camera-Control-StaticText-to-Video | Updated3 days ago | [Link](https://huggingface.co/Lightricks/LTX-2-19b-LoRA-Camera-Control-Static) |
 | 3 | Unknown | GitMylo/Wan_2 | Updatedabout 14 hours ago | [Link](https://huggingface.co/GitMylo/Wan_2.2_nvfp4) |
+| 2 | Unknown | MihaiPopa-1/LTX-2-Lite-2 | Updatedabout 6 hours ago | [Link](https://huggingface.co/MihaiPopa-1/LTX-2-Lite-2.4B) |
 
 ## Text2Text Generation
 
