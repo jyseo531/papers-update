@@ -256,6 +256,7 @@ Updated on 2026-01-14
 | 2 | Unknown | Skywork/Unipic3-DMDAny-to-Any | Updated1 minute ago | [Link](https://huggingface.co/Skywork/Unipic3-DMD) |
 | 1 | Unknown | miche8082/omega_i4glzAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/miche8082/omega_i4glz) |
 | 1 | Unknown | james1600/omega_i3vs8Any-to-Any | Updated7 days ago | [Link](https://huggingface.co/james1600/omega_i3vs8) |
+| 4 | Unknown | Skywork/Unipic3Any-to-Any | Updated1 day ago | [Link](https://huggingface.co/Skywork/Unipic3) |
 
 ## Audio Classification
 
@@ -2130,6 +2131,7 @@ Updated on 2026-01-14
 | Updatedabout 14 hours ago | 6 | Qwen/Qwen3-VL-8B-InstructImage-Text-to-Text | 9B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct) |
 | Updated1 day ago | 6.07k | IDEA-Research/Rex-OmniImage-Text-to-Text | 4B | [Link](https://huggingface.co/IDEA-Research/Rex-Omni) |
 | Updatedabout 4 hours ago | 6.08k | bartowski/zai-org_GLM-4 | 9B | [Link](https://huggingface.co/bartowski/zai-org_GLM-4.6V-Flash-GGUF) |
+| Updatedabout 6 hours ago | 6 | meituan/EvoCUA-8B-20260105Image-Text-to-Text | 9B | [Link](https://huggingface.co/meituan/EvoCUA-8B-20260105) |
 | 168 | 5 | MBZUAI/AINImage-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/MBZUAI/AIN) |
 | Updatedabout 9 hours ago | 5 | Skywork/Skywork-R1V3-38BImage-Text-to-Text | 38B | [Link](https://huggingface.co/Skywork/Skywork-R1V3-38B) |
 | Updatedabout 7 hours ago | 5 | internlm/Intern-S1Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1) |
@@ -2772,6 +2774,7 @@ Updated on 2026-01-14
 | UpdatedAug 14, 2025 | 47.3k | unsloth/gemma-3-12b-it-GGUFImage-to-Text | 12B | [Link](https://huggingface.co/unsloth/gemma-3-12b-it-GGUF) |
 | Updated6 days ago | 47 | AiAsistent/xthos-v2-the-sovereign-architectImage-to-Text | 4B | [Link](https://huggingface.co/AiAsistent/xthos-v2-the-sovereign-architect) |
 | Updatedabout 5 hours ago | 46 | mohajesmaeili/Qwen3-VL-2B-Persian-Arabic-Ocr-v1 | 2B | [Link](https://huggingface.co/mohajesmaeili/Qwen3-VL-2B-Persian-Arabic-Ocr-v1.0) |
+| Updatedabout 5 hours ago | 45 | LastRef/gemma-3-12b-it-heretic-xImage-to-Text | 12B | [Link](https://huggingface.co/LastRef/gemma-3-12b-it-heretic-x) |
 | Updated23 days ago | 43 | Jaireyu/Qwen2 | 8B | [Link](https://huggingface.co/Jaireyu/Qwen2.5-VL-UniSVG-finetuned) |
 | UpdatedJul 5 | 43 | QuickHawk/trocr-indicImage-to-Text | 0.3B | [Link](https://huggingface.co/QuickHawk/trocr-indic) |
 | UpdatedMay 18, 2024 | 41 | moranyanuka/blip-image-captioning-large-mochaImage-to-Text | 0.5B | [Link](https://huggingface.co/moranyanuka/blip-image-captioning-large-mocha) |
@@ -3091,6 +3094,7 @@ Updated on 2026-01-14
 | 2 | Unknown | asmud/EasyOCR-onnxImage-to-Text | UpdatedSep 2 | [Link](https://huggingface.co/asmud/EasyOCR-onnx) |
 | 4 | Unknown | marsena/paddleocr-onnx-modelsImage-to-Text | UpdatedSep 1 | [Link](https://huggingface.co/marsena/paddleocr-onnx-models) |
 | 3 | Unknown | baudm/parseq-tinyImage-to-Text | UpdatedAug 28, 2022 | [Link](https://huggingface.co/baudm/parseq-tiny) |
+| 3 | Unknown | monaaaaaa/MS2-SMILES-AlignNetImage-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/monaaaaaa/MS2-SMILES-AlignNet) |
 
 ## Image-to-Video
 
@@ -4693,6 +4697,7 @@ Updated on 2026-01-14
 | 902 | 77 | qihoo360/Light-R1-32BText | Updatedabout 22 hours ago | [Link](https://huggingface.co/qihoo360/Light-R1-32B) |
 | Updatedabout 10 hours ago | 77 | LiquidAI/LFM2-1 | 1B | [Link](https://huggingface.co/LiquidAI/LFM2-1.2B) |
 | Updatedabout 24 hours ago | 77 | ai21labs/AI21-Jamba2-MiniText | 52B | [Link](https://huggingface.co/ai21labs/AI21-Jamba2-Mini) |
+| Updatedabout 4 hours ago | 77 | openbmb/AgentCPM-ExploreText | 4B | [Link](https://huggingface.co/openbmb/AgentCPM-Explore) |
 | Updatedabout 19 hours ago | 76 | ByteDance-Seed/Seed-OSS-36B-BaseText | 36B | [Link](https://huggingface.co/ByteDance-Seed/Seed-OSS-36B-Base) |
 | Updatedabout 23 hours ago | 75 | inceptionai/Jais-2-70B-ChatText | 72B | [Link](https://huggingface.co/inceptionai/Jais-2-70B-Chat) |
 | 2 | 74 | Qwen/Qwen3-32BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-32B) |
