@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-01-14
+Updated on 2026-01-15
 
 > Generated from the Hugging Face database.
 
@@ -5904,6 +5904,7 @@ Updated on 2026-01-14
 | 943k | 22 | myshell-ai/MeloTTS-KoreanText-to-Speech | UpdatedFeb 29, 2024 | [Link](https://huggingface.co/myshell-ai/MeloTTS-Korean) |
 | 431 | 21 | firstpixel/F5-TTS-pt-brText-to-Speech | Updated13 days ago | [Link](https://huggingface.co/firstpixel/F5-TTS-pt-br) |
 | 48 | 21 | senstella/csm-expressiva-1bText-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/senstella/csm-expressiva-1b) |
+| Updatedabout 8 hours ago | 21 | ekwek/Soprano-1 | 79.7M | [Link](https://huggingface.co/ekwek/Soprano-1.1-80M) |
 | 857 | 20 | MBZUAI/speecht5_tts_clartts_arText-to-Speech | UpdatedFeb 23, 2024 | [Link](https://huggingface.co/MBZUAI/speecht5_tts_clartts_ar) |
 | 1.54k | 19 | HKUSTAudio/Llasa-1B-MultilingualText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-1B-Multilingual) |
 | 18.9k | 19 | myshell-ai/MeloTTS-SpanishText-to-Speech | UpdatedMar 1, 2024 | [Link](https://huggingface.co/myshell-ai/MeloTTS-Spanish) |
@@ -6118,6 +6119,7 @@ Updated on 2026-01-14
 | 10 | Unknown | Eempostor/F5-TTS-INDO-FINETUNE-V2Text-to-Speech | UpdatedOct 12, 2025 | [Link](https://huggingface.co/Eempostor/F5-TTS-INDO-FINETUNE-V2) |
 | 11 | Unknown | Supertone/supertonic-2Text-to-Speech | Updatedabout 5 hours ago | [Link](https://huggingface.co/Supertone/supertonic-2) |
 | 6 | Unknown | PatnaikAshish/Sonya-TTSText-to-Speech | Updatedabout 16 hours ago | [Link](https://huggingface.co/PatnaikAshish/Sonya-TTS) |
+| 5 | Unknown | kyutai/pocket-tts-without-voice-cloningText-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/kyutai/pocket-tts-without-voice-cloning) |
 
 ## Text-to-Video
 
