@@ -2150,6 +2150,7 @@ Updated on 2026-01-15
 | Updated2 days ago | 3.35k | huihui-ai/Huihui-Qwen3-VL-4B-Instruct-abliteratedImage-Text-to-Text | 4B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3-VL-4B-Instruct-abliterated) |
 | Updated1 day ago | 3.18k | janhq/Jan-v2-VL-high-ggufImage-Text-to-Text | 8B | [Link](https://huggingface.co/janhq/Jan-v2-VL-high-gguf) |
 | Updatedabout 20 hours ago | 3 | ByteDance/Dolphin-v2Image-Text-to-Text | 4B | [Link](https://huggingface.co/ByteDance/Dolphin-v2) |
+| Updated1 day ago | 3.6k | unsloth/medgemma-1 | 4B | [Link](https://huggingface.co/unsloth/medgemma-1.5-4b-it-GGUF) |
 | Updatedabout 7 hours ago | 2.63k | nvidia/Eagle2 | 8B | [Link](https://huggingface.co/nvidia/Eagle2.5-8B) |
 | Updatedabout 7 hours ago | 2 | internlm/Intern-S1-FP8Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1-FP8) |
 | Updated1 day ago | 2.26k | Qwen/Qwen3-VL-235B-A22B-InstructImage-Text-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct) |
@@ -2728,6 +2729,7 @@ Updated on 2026-01-15
 | UpdatedJun 20 | 174k | BCCard/Qwen2 | 33B | [Link](https://huggingface.co/BCCard/Qwen2.5-VL-32B-Instruct-FP8-Dynamic) |
 | UpdatedNov 26, 2025 | 164k | Qwen/Qwen3-VL-235B-A22B-InstructImage-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct) |
 | Updated1 day ago | 163 | HelloKKMe/GTA1-72BImage-to-Text | 73B | [Link](https://huggingface.co/HelloKKMe/GTA1-72B) |
+| UpdatedMay 22, 2025 | 161k | meta-llama/Llama-4-Maverick-17B-128E-InstructImage-to-Text | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct) |
 | 170k | 159 | microsoft/kosmos-2-patch14-224Image-to-Text | UpdatedNov 28, 2023 | [Link](https://huggingface.co/microsoft/kosmos-2-patch14-224) |
 | UpdatedApr 27, 2024 | 158 | gospacedev/blip-image-captioning-base-bf16Image-to-Text | 0.2B | [Link](https://huggingface.co/gospacedev/blip-image-captioning-base-bf16) |
 | Updatedabout 17 hours ago | 156 | allenai/olmOCR-2-7B-1025-FP8Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-2-7B-1025-FP8) |
@@ -4781,6 +4783,7 @@ Updated on 2026-01-15
 | Updatedabout 13 hours ago | 40 | ai21labs/AI21-Jamba-Reasoning-3BText | 3B | [Link](https://huggingface.co/ai21labs/AI21-Jamba-Reasoning-3B) |
 | 4 | 39 | Qwen/Qwen3-14BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-14B) |
 | UpdatedJun 8 | 39.4k | unsloth/Qwen3-4B-GGUFText | 4B | [Link](https://huggingface.co/unsloth/Qwen3-4B-GGUF) |
+| Updatedabout 2 hours ago | 39 | meituan-longcat/LongCat-Flash-Thinking-2601Text | 562B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Thinking-2601) |
 | 227 | 38 | LGAI-EXAONE/EXAONE-Deep-7 | Updated4 minutes ago | [Link](https://huggingface.co/LGAI-EXAONE/EXAONE-Deep-7.8B) |
 | 9.86k | 38 | starvector/starvector-1b-im2svgText | Updated2 days ago | [Link](https://huggingface.co/starvector/starvector-1b-im2svg) |
 | 278 | 38 | deepcogito/cogito-v1-preview-qwen-32BText | Updated1 day ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-qwen-32B) |
@@ -5015,6 +5018,7 @@ Updated on 2026-01-15
 | Updated1 day ago | 13 | cerebras/MiniMax-M2-REAP-162B-A10BText | 162B | [Link](https://huggingface.co/cerebras/MiniMax-M2-REAP-162B-A10B) |
 | Updatedabout 22 hours ago | 13.2k | unsloth/Qwen3-Next-80B-A3B-Thinking-GGUFText | 80B | [Link](https://huggingface.co/unsloth/Qwen3-Next-80B-A3B-Thinking-GGUF) |
 | Updatedabout 18 hours ago | 13 | openai/circuit-sparsityText | 0.4B | [Link](https://huggingface.co/openai/circuit-sparsity) |
+| Updatedabout 6 hours ago | 12 | Alibaba-Apsara/DASD-4B-ThinkingText | 4B | [Link](https://huggingface.co/Alibaba-Apsara/DASD-4B-Thinking) |
 | Updatedabout 10 hours ago | 11.9k | unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUFText | 31B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUF) |
 | Updatedabout 16 hours ago | 11.6k | unsloth/MiniMax-M2-GGUFText | 229B | [Link](https://huggingface.co/unsloth/MiniMax-M2-GGUF) |
 | Updatedabout 3 hours ago | 11 | LGAI-EXAONE/K-EXAONE-236B-A23BText | 237B | [Link](https://huggingface.co/LGAI-EXAONE/K-EXAONE-236B-A23B) |
@@ -5539,6 +5543,7 @@ Updated on 2026-01-15
 | 29 | 9 | SeeSee21/Z-Image-Turbo-AIOText-to-Image | Updated40 minutes ago | [Link](https://huggingface.co/SeeSee21/Z-Image-Turbo-AIO) |
 | 496 | 9 | Disty0/Z-Image-Turbo-SDNQ-int8Text-to-Image | Updated6 days ago | [Link](https://huggingface.co/Disty0/Z-Image-Turbo-SDNQ-int8) |
 | 1.62k | 9 | zooeyy/Style-TransferText-to-Image | Updatedabout 14 hours ago | [Link](https://huggingface.co/zooeyy/Style-Transfer) |
+| 49 | 9 | zooeyy/Qwen-Edit-2511_LightingRemap_Alpha0 | Updated1 day ago | [Link](https://huggingface.co/zooeyy/Qwen-Edit-2511_LightingRemap_Alpha0.2) |
 | 215 | 8 | tensorart/stable-diffusion-3 | Updated8 minutes ago | [Link](https://huggingface.co/tensorart/stable-diffusion-3.5-large-TurboX) |
 | 34 | 8 | renderartist/coloringbookhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/coloringbookhidream) |
 | 1.79k | 8 | MaxedOut/ComfyUI-Starter-PacksText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/MaxedOut/ComfyUI-Starter-Packs) |
@@ -5818,6 +5823,7 @@ Updated on 2026-01-15
 | Updatedabout 4 hours ago | 695 | nineninesix/kani-tts-370m-MLXText-to-Speech | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-370m-MLX) |
 | Updated9 days ago | 679 | snorbyte/snorTTS-Indic-v0Text-to-Speech | 4B | [Link](https://huggingface.co/snorbyte/snorTTS-Indic-v0) |
 | Updated1 day ago | 646 | nineninesix/kani-tts-400m-0 | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-400m-0.3-pt) |
+| Updatedabout 4 hours ago | 607 | neuphonic/neutts-nano-q4-ggufText-to-Speech | 0.3B | [Link](https://huggingface.co/neuphonic/neutts-nano-q4-gguf) |
 | Updatedabout 9 hours ago | 515 | bosonai/higgs-audio-v2-generation-3B-baseText-to-Speech | 6B | [Link](https://huggingface.co/bosonai/higgs-audio-v2-generation-3B-base) |
 | 11.8k | 480 | fishaudio/fish-speech-1 | UpdatedDec 3, 2024 | [Link](https://huggingface.co/fishaudio/fish-speech-1.5) |
 | 5.67k | 478 | nari-labs/Dia-1 | Updatedabout 9 hours ago | [Link](https://huggingface.co/nari-labs/Dia-1.6B) |
@@ -5842,6 +5848,7 @@ Updated on 2026-01-15
 | 19.5k | 241 | parler-tts/parler-tts-large-v1Text-to-Speech | UpdatedNov 22, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-large-v1) |
 | Updated8 days ago | 239 | wcy1122/MGM-Omni-TTS-0 | 0.7B | [Link](https://huggingface.co/wcy1122/MGM-Omni-TTS-0.6B) |
 | Updatedabout 9 hours ago | 216 | microsoft/VibeVoice-1 | 3B | [Link](https://huggingface.co/microsoft/VibeVoice-1.5B) |
+| Updatedabout 4 hours ago | 214 | neuphonic/neutts-nanoText-to-Speech | 0.3B | [Link](https://huggingface.co/neuphonic/neutts-nano) |
 | 27.5k | 194 | suno/bark-smallText-to-Speech | UpdatedNov 10, 2023 | [Link](https://huggingface.co/suno/bark-small) |
 | Updated3 days ago | 182 | fnlp/MOSS-TTSD-v0 | 2B | [Link](https://huggingface.co/fnlp/MOSS-TTSD-v0.5) |
 | Updated1 day ago | 164 | kugelaudio/kugelaudio-0-openText-to-Speech | 9B | [Link](https://huggingface.co/kugelaudio/kugelaudio-0-open) |
