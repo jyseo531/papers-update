@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-01-15
+Updated on 2026-01-16
 
 > Generated from the Hugging Face database.
 
@@ -1873,6 +1873,7 @@ Updated on 2026-01-15
 | Updated16 days ago | 109 | ChatDOC/OCRFlux-3BImage-Text-to-Text | 4B | [Link](https://huggingface.co/ChatDOC/OCRFlux-3B) |
 | 16.1k | 106 | bytedance-research/UI-TARS-72B-DPOImage-Text-to-Text | UpdatedJan 25 | [Link](https://huggingface.co/bytedance-research/UI-TARS-72B-DPO) |
 | Updatedabout 1 hour ago | 101 | LiquidAI/LFM2-VL-3BImage-Text-to-Text | 3B | [Link](https://huggingface.co/LiquidAI/LFM2-VL-3B) |
+| Updatedabout 12 hours ago | 100 | google/translategemma-4b-itImage-Text-to-Text | 5B | [Link](https://huggingface.co/google/translategemma-4b-it) |
 | 500 | 99 | meta-llama/Llama-4-Maverick-17B-128E-InstructImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct) |
 | 1.15k | 98 | ContactDoctor/Bio-Medical-MultiModal-Llama-3-8B-V1Image-Text-to-Text | UpdatedOct 17, 2024 | [Link](https://huggingface.co/ContactDoctor/Bio-Medical-MultiModal-Llama-3-8B-V1) |
 | Updatedabout 8 hours ago | 98.8k | Qwen/Qwen3-VL-30B-A3B-InstructImage-Text-to-Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Instruct) |
@@ -1983,6 +1984,7 @@ Updated on 2026-01-15
 | 4 | 20 | Tesslate/Synthia-S1-27bImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/Tesslate/Synthia-S1-27b) |
 | 2 | 20 | nvidia/DAM-3B-VideoImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/DAM-3B-Video) |
 | Updated3 days ago | 20 | zai-org/GlyphImage-Text-to-Text | 10B | [Link](https://huggingface.co/zai-org/Glyph) |
+| Updatedabout 12 hours ago | 20 | google/translategemma-27b-itImage-Text-to-Text | 29B | [Link](https://huggingface.co/google/translategemma-27b-it) |
 | 3.71k | 19 | google/paligemma2-10b-mix-448Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-10b-mix-448) |
 | Updated3 days ago | 19 | OpenGVLab/Docopilot-2BImage-Text-to-Text | 2B | [Link](https://huggingface.co/OpenGVLab/Docopilot-2B) |
 | Updatedabout 10 hours ago | 19 | nanonets/Nanonets-OCR2-1 | 2B | [Link](https://huggingface.co/nanonets/Nanonets-OCR2-1.5B-exp) |
@@ -1998,6 +2000,7 @@ Updated on 2026-01-15
 | Updated6 days ago | 17.3k | unsloth/Qwen3-VL-8B-Thinking-GGUFImage-Text-to-Text | 8B | [Link](https://huggingface.co/unsloth/Qwen3-VL-8B-Thinking-GGUF) |
 | Updatedabout 2 hours ago | 17 | ServiceNow/GroundNext-7B-V0Image-Text-to-Text | 8B | [Link](https://huggingface.co/ServiceNow/GroundNext-7B-V0) |
 | Updatedabout 8 hours ago | 17 | google/t5gemma-2-1b-1bImage-Text-to-Text | 2B | [Link](https://huggingface.co/google/t5gemma-2-1b-1b) |
+| Updatedabout 12 hours ago | 17 | google/translategemma-12b-itImage-Text-to-Text | 13B | [Link](https://huggingface.co/google/translategemma-12b-it) |
 | 14 | 15 | Sony/AKI-4B-phi-3 | Updated2 days ago | [Link](https://huggingface.co/Sony/AKI-4B-phi-3.5-mini) |
 | 1.82k | 15 | stepfun-ai/step3-fp8Image-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/stepfun-ai/step3-fp8) |
 | Updatedabout 7 hours ago | 15 | OpenGVLab/InternVL3_5-14BImage-Text-to-Text | 15B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-14B) |
@@ -2801,6 +2804,7 @@ Updated on 2026-01-15
 | UpdatedOct 18 | 28 | ardaocak/llava-1 | 7B | [Link](https://huggingface.co/ardaocak/llava-1.5-7b-food-calorie-estimator) |
 | Updated5 days ago | 28 | sbintuitions/sarashina2 | 4B | [Link](https://huggingface.co/sbintuitions/sarashina2.2-vision-3b) |
 | 809 | 27 | MixTex/ZhEn-Latex-OCRImage-to-Text | UpdatedJul 30, 2024 | [Link](https://huggingface.co/MixTex/ZhEn-Latex-OCR) |
+| UpdatedMay 22, 2025 | 27.9k | meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8Image-to-Text | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8) |
 | 290 | 26 | paragon-AI/blip2-image-to-textImage-to-Text | UpdatedJun 24, 2023 | [Link](https://huggingface.co/paragon-AI/blip2-image-to-text) |
 | 2.31k | 26 | Xenova/vit-gpt2-image-captioningImage-to-Text | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Xenova/vit-gpt2-image-captioning) |
 | 7.18k | 25 | ddobokki/ko-trocrImage-to-Text | UpdatedOct 22, 2024 | [Link](https://huggingface.co/ddobokki/ko-trocr) |
@@ -4999,6 +5003,7 @@ Updated on 2026-01-15
 | 2.7k | 16 | Menlo/Jan-nano-ggufText | Updatedabout 19 hours ago | [Link](https://huggingface.co/Menlo/Jan-nano-gguf) |
 | Updatedabout 22 hours ago | 16k | QuantTrio/Qwen3-VL-30B-A3B-Instruct-AWQText | 31B | [Link](https://huggingface.co/QuantTrio/Qwen3-VL-30B-A3B-Instruct-AWQ) |
 | Updatedabout 15 hours ago | 16 | aquif-ai/aquif-3 | 42B | [Link](https://huggingface.co/aquif-ai/aquif-3.5-Max-42B-A3B) |
+| Updatedabout 19 hours ago | 16 | Alibaba-Apsara/DASD-30B-A3B-Thinking-PreviewText | 31B | [Link](https://huggingface.co/Alibaba-Apsara/DASD-30B-A3B-Thinking-Preview) |
 | 60 | 15 | Zhihu-ai/Zhi-writing-dsr1-14bText | Updated3 days ago | [Link](https://huggingface.co/Zhihu-ai/Zhi-writing-dsr1-14b) |
 | 72 | 15 | DMindAI/DMind-1Text | Updatedabout 23 hours ago | [Link](https://huggingface.co/DMindAI/DMind-1) |
 | 23 | 15 | sarvamai/sarvam-mText | Updatedabout 2 hours ago | [Link](https://huggingface.co/sarvamai/sarvam-m) |
@@ -6211,6 +6216,7 @@ Updated on 2026-01-15
 | 561 | 3 | 6chan/krea-realtime-video-fp8Text-to-Video | Updated26 days ago | [Link](https://huggingface.co/6chan/krea-realtime-video-fp8) |
 | 173 | 3 | vdo/animov-512xText-to-Video | UpdatedMay 7, 2023 | [Link](https://huggingface.co/vdo/animov-512x) |
 | 7 | 3 | rhymes-ai/Allegro-T2V-40x720PText-to-Video | UpdatedDec 28, 2024 | [Link](https://huggingface.co/rhymes-ai/Allegro-T2V-40x720P) |
+|  | 3 | oumoumad/deepzoom-loraText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/oumoumad/deepzoom-lora) |
 | 69 | 2 | obvious-research/onlyflowText-to-Video | Updated5 days ago | [Link](https://huggingface.co/obvious-research/onlyflow) |
 | 42 | 2 | jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIEText-to-Video | Updated7 days ago | [Link](https://huggingface.co/jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIE) |
 | 10 | 2 | vdo/Hotshot-XLText-to-Video | UpdatedOct 4, 2023 | [Link](https://huggingface.co/vdo/Hotshot-XL) |
