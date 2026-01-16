@@ -197,6 +197,7 @@ Updated on 2026-01-16
 | 7 | 1 | imkebe/Janus-Pro-7B-rk3588-1 | UpdatedApr 15 | [Link](https://huggingface.co/imkebe/Janus-Pro-7B-rk3588-1.2.0) |
 | UpdatedJun 9 | 1.86k | RedHatAI/gemma-3-12b-it-FP8-dynamicAny-to-Any | 12B | [Link](https://huggingface.co/RedHatAI/gemma-3-12b-it-FP8-dynamic) |
 | 1 | 1 | CostaliyA/UniCornAny-to-Any | Updated5 minutes ago | [Link](https://huggingface.co/CostaliyA/UniCorn) |
+| Updated12 days ago | 1.57k | TrevorJS/Qwen3-Omni-30B-A3B-GGUFAny-to-Any | 4B | [Link](https://huggingface.co/TrevorJS/Qwen3-Omni-30B-A3B-GGUF) |
 | 2 | Unknown | guanwenhao/MonoSpeechAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/guanwenhao/MonoSpeech) |
 | 22 | Unknown | Goekdeniz-Guelmez/J | UpdatedOct 29, 2024 | [Link](https://huggingface.co/Goekdeniz-Guelmez/J.O.S.I.E.v4o) |
 | 1 | Unknown | hfcsrd/cryptographyAny-to-Any | UpdatedNov 17, 2024 | [Link](https://huggingface.co/hfcsrd/cryptography) |
@@ -4694,6 +4695,7 @@ Updated on 2026-01-16
 | Updatedabout 2 hours ago | 83 | WeiboAI/VibeThinker-1 | 2B | [Link](https://huggingface.co/WeiboAI/VibeThinker-1.5B) |
 | Updated36 minutes ago | 83 | naver-hyperclovax/HyperCLOVAX-SEED-Think-32BText | 33B | [Link](https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Think-32B) |
 | 966 | 82 | ServiceNow-AI/Apriel-Nemotron-15b-ThinkerText | Updatedabout 5 hours ago | [Link](https://huggingface.co/ServiceNow-AI/Apriel-Nemotron-15b-Thinker) |
+| Updated1 day ago | 82 | kakaocorp/kanana-2-30b-a3b-instruct-2601Text | 31B | [Link](https://huggingface.co/kakaocorp/kanana-2-30b-a3b-instruct-2601) |
 | Updatedabout 2 hours ago | 81 | stepfun-ai/step3Text | 321B | [Link](https://huggingface.co/stepfun-ai/step3) |
 | Updated2 minutes ago | 79 | Skywork/MindLink-32B-0801Text | 33B | [Link](https://huggingface.co/Skywork/MindLink-32B-0801) |
 | 21.7k | 78 | unsloth/r1-1776-GGUFText | Updated6 days ago | [Link](https://huggingface.co/unsloth/r1-1776-GGUF) |
@@ -4705,6 +4707,7 @@ Updated on 2026-01-16
 | Updatedabout 24 hours ago | 77 | ai21labs/AI21-Jamba2-MiniText | 52B | [Link](https://huggingface.co/ai21labs/AI21-Jamba2-Mini) |
 | Updatedabout 4 hours ago | 77 | openbmb/AgentCPM-ExploreText | 4B | [Link](https://huggingface.co/openbmb/AgentCPM-Explore) |
 | Updatedabout 19 hours ago | 76 | ByteDance-Seed/Seed-OSS-36B-BaseText | 36B | [Link](https://huggingface.co/ByteDance-Seed/Seed-OSS-36B-Base) |
+| Updatedabout 23 hours ago | 76 | microsoft/FrogMini-14B-2510Text | 425k | [Link](https://huggingface.co/microsoft/FrogMini-14B-2510) |
 | Updatedabout 23 hours ago | 75 | inceptionai/Jais-2-70B-ChatText | 72B | [Link](https://huggingface.co/inceptionai/Jais-2-70B-Chat) |
 | 2 | 74 | Qwen/Qwen3-32BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-32B) |
 | Updatedabout 10 hours ago | 74 | ByteDance-Seed/Seed-OSS-36B-InstructText | 36B | [Link](https://huggingface.co/ByteDance-Seed/Seed-OSS-36B-Instruct) |
@@ -4714,6 +4717,7 @@ Updated on 2026-01-16
 | 3.22k | 72 | sarvamai/sarvam-1Text | UpdatedNov 8, 2024 | [Link](https://huggingface.co/sarvamai/sarvam-1) |
 | 37 | 71 | microsoft/Phi-4-reasoning-plusText | Updated13 days ago | [Link](https://huggingface.co/microsoft/Phi-4-reasoning-plus) |
 | Updatedabout 2 hours ago | 71 | moonshotai/Kimi-Linear-48B-A3B-BaseText | 49B | [Link](https://huggingface.co/moonshotai/Kimi-Linear-48B-A3B-Base) |
+| Updated1 day ago | 69 | kakaocorp/kanana-2-30b-a3b-thinking-2601Text | 31B | [Link](https://huggingface.co/kakaocorp/kanana-2-30b-a3b-thinking-2601) |
 | Updatedabout 3 hours ago | 67 | Qwen/Qwen3-235B-A22B-Thinking-2507Text | 235B | [Link](https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507) |
 | Updatedabout 7 hours ago | 67 | DavidAU/Llama3 | 8B | [Link](https://huggingface.co/DavidAU/Llama3.3-8B-Instruct-Thinking-Claude-4.5-Opus-High-Reasoning) |
 | Updatedabout 19 hours ago | 66 | nvidia/Llama-3_3-Nemotron-Super-49B-v1_5Text | 50B | [Link](https://huggingface.co/nvidia/Llama-3_3-Nemotron-Super-49B-v1_5) |
@@ -5821,6 +5825,7 @@ Updated on 2026-01-16
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
 | 38.8k | 991 | Zyphra/Zonos-v0 | Updated10 days ago | [Link](https://huggingface.co/Zyphra/Zonos-v0.1-hybrid) |
+| Updated1 day ago | 920 | neuphonic/neutts-nano-q8-ggufText-to-Speech | 0.3B | [Link](https://huggingface.co/neuphonic/neutts-nano-q8-gguf) |
 | 1.09M | 916 | SWivid/F5-TTSText-to-Speech | UpdatedNov 8, 2024 | [Link](https://huggingface.co/SWivid/F5-TTS) |
 | 1.16k | 785 | metavoiceio/metavoice-1B-v0 | UpdatedApr 3, 2024 | [Link](https://huggingface.co/metavoiceio/metavoice-1B-v0.1) |
 | UpdatedSep 1, 2023 | 775 | facebook/mms-tts-telText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-tel) |
