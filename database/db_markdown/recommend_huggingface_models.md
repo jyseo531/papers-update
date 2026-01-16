@@ -2418,6 +2418,7 @@ Updated on 2026-01-16
 | 109k | 9 | HighCWu/FLUX | UpdatedJul 5 | [Link](https://huggingface.co/HighCWu/FLUX.1-Kontext-dev-bnb-hqq-4bit) |
 | 41 | 9 | rsshekhawat/Qwen-Edit-3DChibi-LoRAImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/rsshekhawat/Qwen-Edit-3DChibi-LoRA) |
 | 25 | 9 | nvidia/ChronoEdit-14B-Diffusers-Paint-Brush-LoraImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/nvidia/ChronoEdit-14B-Diffusers-Paint-Brush-Lora) |
+| 344 | 9 | YaoJiefu/Line-drawing-generates-special-effectsImage-to-Image | Updated18 days ago | [Link](https://huggingface.co/YaoJiefu/Line-drawing-generates-special-effects) |
 | 59 | 8 | qualcomm/AOT-GANImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/qualcomm/AOT-GAN) |
 |  | 8 | xuminglong/kontext-tryon7Image-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/xuminglong/kontext-tryon7) |
 | 160 | 8 | Jamichsu/Stream-DiffVSRImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/Jamichsu/Stream-DiffVSR) |
