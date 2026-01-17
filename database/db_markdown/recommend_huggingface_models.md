@@ -2919,6 +2919,7 @@ Updated on 2026-01-17
 | UpdatedJul 3, 2024 | 5 | medieval-data/trocr-medieval-textualisImage-to-Text | 0.3B | [Link](https://huggingface.co/medieval-data/trocr-medieval-textualis) |
 | 45 | 5 | hezarai/crnn-base-fa-v1Image-to-Text | UpdatedApr 14, 2025 | [Link](https://huggingface.co/hezarai/crnn-base-fa-v1) |
 | Updatedabout 13 hours ago | 5 | snuh/mvl-rrg-1 | 770k | [Link](https://huggingface.co/snuh/mvl-rrg-1.0) |
+| UpdatedNov 16, 2025 | 5.78k | typhoon-ai/typhoon-ocr1 | 2B | [Link](https://huggingface.co/typhoon-ai/typhoon-ocr1.5-2b) |
 | 17 | 4 | MixTex/tiny-ZhEn-for-onnxImage-to-Text | UpdatedFeb 23 | [Link](https://huggingface.co/MixTex/tiny-ZhEn-for-onnx) |
 | 14 | 4 | unalignment/Pixtral-12B-Captioner-RelaxedImage-to-Text | UpdatedJan 22 | [Link](https://huggingface.co/unalignment/Pixtral-12B-Captioner-Relaxed) |
 | 3.42k | 4 | breezedeus/pix2text-mfdImage-to-Text | UpdatedJul 10, 2024 | [Link](https://huggingface.co/breezedeus/pix2text-mfd) |
@@ -5060,6 +5061,7 @@ Updated on 2026-01-17
 | Updated5 days ago | 5.93k | ubergarm/GLM-4 | 357B | [Link](https://huggingface.co/ubergarm/GLM-4.6-GGUF) |
 | Updatedabout 2 hours ago | 5.91k | nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16Text | 32B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16) |
 | Updatedabout 8 hours ago | 5.06k | tiiuae/Falcon-H1R-7B-GGUFText | 8B | [Link](https://huggingface.co/tiiuae/Falcon-H1R-7B-GGUF) |
+| Updated6 days ago | 5.06k | DreamFast/gemma-3-12b-it-hereticText | 12B | [Link](https://huggingface.co/DreamFast/gemma-3-12b-it-heretic) |
 | Updatedabout 21 hours ago | 4.52k | unsloth/Devstral-Small-2507-GGUFText | 24B | [Link](https://huggingface.co/unsloth/Devstral-Small-2507-GGUF) |
 | Updatedabout 6 hours ago | 4 | baichuan-inc/Baichuan-M2-32BText | 33B | [Link](https://huggingface.co/baichuan-inc/Baichuan-M2-32B) |
 | UpdatedMay 14 | 4 | inclusionAI/Ling-lite-base-1 | 17B | [Link](https://huggingface.co/inclusionAI/Ling-lite-base-1.5) |
