@@ -38,6 +38,7 @@ Updated on 2026-01-18
 | 1.68k | 208 | BAAI/Emu3-GenAny-to-Any | UpdatedOct 23, 2024 | [Link](https://huggingface.co/BAAI/Emu3-Gen) |
 | UpdatedApr 9 | 203 | Tesslate/Synthia-S1-27bAny-to-Any | 27B | [Link](https://huggingface.co/Tesslate/Synthia-S1-27b) |
 | Updated16 days ago | 193 | OddTheGreat/Mars_27B_V | 29B | [Link](https://huggingface.co/OddTheGreat/Mars_27B_V.1) |
+| Updated12 days ago | 166 | Saktsant/Qwen3-Omni-30B-A3B-Instruct-AWQAny-to-Any | 10B | [Link](https://huggingface.co/Saktsant/Qwen3-Omni-30B-A3B-Instruct-AWQ) |
 | 455 | 149 | NexaAI/OmniNeural-4BAny-to-Any | Updated4 days ago | [Link](https://huggingface.co/NexaAI/OmniNeural-4B) |
 | UpdatedApr 8 | 144 | summykai/gemma3-27b-abliterated-dpoAny-to-Any | 27B | [Link](https://huggingface.co/summykai/gemma3-27b-abliterated-dpo) |
 | 9.96k | 141 | deepseek-ai/JanusFlow-1 | Updated29 days ago | [Link](https://huggingface.co/deepseek-ai/JanusFlow-1.3B) |
@@ -5072,6 +5073,7 @@ Updated on 2026-01-18
 | Updatedabout 9 hours ago | 4.64k | lefromage/Qwen3-Next-80B-A3B-Instruct-GGUFText | 80B | [Link](https://huggingface.co/lefromage/Qwen3-Next-80B-A3B-Instruct-GGUF) |
 | Updatedabout 2 hours ago | 4 | tencent/WeDLM-8B-InstructText | 8B | [Link](https://huggingface.co/tencent/WeDLM-8B-Instruct) |
 | Updatedabout 11 hours ago | 4 | speakleash/Bielik-11B-v3 | 11B | [Link](https://huggingface.co/speakleash/Bielik-11B-v3.0-Instruct) |
+| Updated1 day ago | 4.97k | ymcki/Kimi-Linear-48B-A3B-Instruct-GGUFText | 49B | [Link](https://huggingface.co/ymcki/Kimi-Linear-48B-A3B-Instruct-GGUF) |
 | Updated2 days ago | 3.87k | unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUFText | 480B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUF) |
 | Updated6 days ago | 3.39k | Qwen/Qwen3-30B-A3B-Thinking-2507-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507-FP8) |
 | Updatedabout 4 hours ago | 3.61k | openai/gpt-oss-120bText | 63B | [Link](https://huggingface.co/openai/gpt-oss-120b) |
@@ -5612,6 +5614,7 @@ Updated on 2026-01-18
 | 4.9k | 5 | Manojb/stable-diffusion-2-1-baseText-to-Image | UpdatedJun 13 | [Link](https://huggingface.co/Manojb/stable-diffusion-2-1-base) |
 | 76 | 5 | kandinskylab/Kandinsky-5 | Updated2 days ago | [Link](https://huggingface.co/kandinskylab/Kandinsky-5.0-T2I-Lite-sft-Diffusers) |
 | 158 | 5 | Owen777/UltraFlux-v1Text-to-Image | Updated3 days ago | [Link](https://huggingface.co/Owen777/UltraFlux-v1) |
+| 528 | 5 | Disty0/GLM-Image-SDNQ-4bit-dynamicText-to-Image | Updated3 days ago | [Link](https://huggingface.co/Disty0/GLM-Image-SDNQ-4bit-dynamic) |
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 46 | 4 | Sherwinroger002/fashion_mnist_diffusion_class_conditionalText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Sherwinroger002/fashion_mnist_diffusion_class_conditional) |
 | Updatedabout 1 hour ago | 4 | unsloth/Qwen-Image-2512-GGUFText-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-2512-GGUF) |
