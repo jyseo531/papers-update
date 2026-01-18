@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-01-17
+Updated on 2026-01-18
 
 > Generated from the Hugging Face database.
 
@@ -1928,6 +1928,7 @@ Updated on 2026-01-17
 | Updated6 days ago | 43 | allura-org/Luna-27B-v0Image-Text-to-Text | 27B | [Link](https://huggingface.co/allura-org/Luna-27B-v0) |
 | Updatedabout 11 hours ago | 41 | OpenGVLab/InternVL3_5-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-4B) |
 | Updated7 days ago | 41.4k | huihui-ai/Huihui-Qwen3-VL-32B-Instruct-abliteratedImage-Text-to-Text | 33B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3-VL-32B-Instruct-abliterated) |
+| Updatedabout 9 hours ago | 41 | stepfun-ai/Step3-VL-10B-BaseImage-Text-to-Text | 10B | [Link](https://huggingface.co/stepfun-ai/Step3-VL-10B-Base) |
 | 6 | 40 | convergence-ai/proxy-lite-3bImage-Text-to-Text | Updatedabout 15 hours ago | [Link](https://huggingface.co/convergence-ai/proxy-lite-3b) |
 | 25 | 40 | Hcompany/Holo1-7BImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/Hcompany/Holo1-7B) |
 | Updatedabout 6 hours ago | 40 | microsoft/Fara-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/microsoft/Fara-7B) |
@@ -2147,6 +2148,7 @@ Updated on 2026-01-17
 | Updated1 day ago | 4.89k | janhq/Jan-v2-VL-med-ggufImage-Text-to-Text | 8B | [Link](https://huggingface.co/janhq/Jan-v2-VL-med-gguf) |
 | Updated7 days ago | 4.72k | janhq/Jan-v2-VL-low-ggufImage-Text-to-Text | 8B | [Link](https://huggingface.co/janhq/Jan-v2-VL-low-gguf) |
 | Updated1 day ago | 4.56k | bartowski/ServiceNow-AI_Apriel-1 | 14B | [Link](https://huggingface.co/bartowski/ServiceNow-AI_Apriel-1.6-15b-Thinker-GGUF) |
+| Updatedabout 9 hours ago | 4.22k | stepfun-ai/Step3-VL-10BImage-Text-to-Text | 10B | [Link](https://huggingface.co/stepfun-ai/Step3-VL-10B) |
 | Updated5 minutes ago | 3.08k | openbmb/MiniCPM-V-4-ggufImage-Text-to-Text | 4B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4-gguf) |
 | Updatedabout 14 hours ago | 3 | Qwen/Qwen3-VL-8B-ThinkingImage-Text-to-Text | 9B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Thinking) |
 | Updatedabout 13 hours ago | 3 | Qwen/Qwen3-VL-4B-Thinking-FP8Image-Text-to-Text | 5B | [Link](https://huggingface.co/Qwen/Qwen3-VL-4B-Thinking-FP8) |
