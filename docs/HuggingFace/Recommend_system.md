@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-01-18
+Updated on 2026-01-19
 
 > Generated from the Hugging Face database.
 
@@ -5477,6 +5477,7 @@ Updated on 2026-01-18
 | 37.6k | 156 | tianweiy/DMD2Text-to-Image | UpdatedJun 11, 2024 | [Link](https://huggingface.co/tianweiy/DMD2) |
 | 35.7k | 147 | nunchaku-ai/nunchaku-z-image-turboText-to-Image | Updated15 days ago | [Link](https://huggingface.co/nunchaku-ai/nunchaku-z-image-turbo) |
 | Updatedabout 16 hours ago | 124 | calcuis/krea-ggufText-to-Image | 12B | [Link](https://huggingface.co/calcuis/krea-gguf) |
+| Updatedabout 17 hours ago | 116 | wikeeyang/Real-Qwen-Image-V2Text-to-Image | 20B | [Link](https://huggingface.co/wikeeyang/Real-Qwen-Image-V2) |
 | 3.01k | 81 | RunDiffusion/Juggernaut-XI-v11Text-to-Image | UpdatedAug 29, 2024 | [Link](https://huggingface.co/RunDiffusion/Juggernaut-XI-v11) |
 | 128 | 75 | bytedance-research/USOText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/bytedance-research/USO) |
 | 1.96k | 71 | aquif-ai/Reupload-Magic-Wan-Image-v1 | Updated34 minutes ago | [Link](https://huggingface.co/aquif-ai/Reupload-Magic-Wan-Image-v1.0) |
@@ -6145,6 +6146,7 @@ Updated on 2026-01-18
 | 11 | Unknown | Supertone/supertonic-2Text-to-Speech | Updatedabout 5 hours ago | [Link](https://huggingface.co/Supertone/supertonic-2) |
 | 6 | Unknown | PatnaikAshish/Sonya-TTSText-to-Speech | Updatedabout 16 hours ago | [Link](https://huggingface.co/PatnaikAshish/Sonya-TTS) |
 | 5 | Unknown | kyutai/pocket-tts-without-voice-cloningText-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/kyutai/pocket-tts-without-voice-cloning) |
+| 5 | Unknown | ayousanz/cosy-voice3-onnxText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/ayousanz/cosy-voice3-onnx) |
 
 ## Text-to-Video
 
@@ -6398,6 +6400,7 @@ Updated on 2026-01-18
 | 2 | Unknown | Lightricks/LTX-2-19b-LoRA-Camera-Control-StaticText-to-Video | Updated3 days ago | [Link](https://huggingface.co/Lightricks/LTX-2-19b-LoRA-Camera-Control-Static) |
 | 3 | Unknown | GitMylo/Wan_2 | Updatedabout 14 hours ago | [Link](https://huggingface.co/GitMylo/Wan_2.2_nvfp4) |
 | 2 | Unknown | MihaiPopa-1/LTX-2-Lite-2 | Updatedabout 6 hours ago | [Link](https://huggingface.co/MihaiPopa-1/LTX-2-Lite-2.4B) |
+| 3 | Unknown | oumoumad/ltx-2_IC_LUMIPARTICLESText-to-Video | Updatedabout 14 hours ago | [Link](https://huggingface.co/oumoumad/ltx-2_IC_LUMIPARTICLES) |
 
 ## Text2Text Generation
 
