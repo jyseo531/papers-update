@@ -2755,6 +2755,7 @@ Updated on 2026-01-19
 | Updatedabout 20 hours ago | 110 | scb10x/typhoon-ocr1 | 2B | [Link](https://huggingface.co/scb10x/typhoon-ocr1.5-2b) |
 | UpdatedSep 7, 2024 | 99 | antoniorv6/smt-camera-grandstaffImage-to-Text | 21.4M | [Link](https://huggingface.co/antoniorv6/smt-camera-grandstaff) |
 | Updatedabout 19 hours ago | 96 | davanstrien/iconclass-vlmImage-to-Text | 4B | [Link](https://huggingface.co/davanstrien/iconclass-vlm) |
+| Updated1 day ago | 93 | EpistemeAI/Audiogemma-3N-finetuneImage-to-Text | 8B | [Link](https://huggingface.co/EpistemeAI/Audiogemma-3N-finetune) |
 | Updated3 days ago | 87 | shkb/MemeLeakImage-to-Text | 9B | [Link](https://huggingface.co/shkb/MemeLeak) |
 | UpdatedOct 5, 2024 | 82 | syubraj/TrOCR_NepaliImage-to-Text | 0.2B | [Link](https://huggingface.co/syubraj/TrOCR_Nepali) |
 | UpdatedNov 29, 2024 | 81 | fancyfeast/llama-joycaption-alpha-two-vqa-test-1Image-to-Text | 8B | [Link](https://huggingface.co/fancyfeast/llama-joycaption-alpha-two-vqa-test-1) |
@@ -4851,6 +4852,7 @@ Updated on 2026-01-19
 | Updated4 days ago | 31.2k | PowerInfer/SmallThinker-21BA3B-Instruct-GGUFText | 22B | [Link](https://huggingface.co/PowerInfer/SmallThinker-21BA3B-Instruct-GGUF) |
 | Updatedabout 13 hours ago | 31 | ArliAI/gpt-oss-20b-DerestrictedText | 21B | [Link](https://huggingface.co/ArliAI/gpt-oss-20b-Derestricted) |
 | Updatedabout 11 hours ago | 31 | unsloth/Qwen3-Next-80B-A3B-Instruct-GGUFText | 80B | [Link](https://huggingface.co/unsloth/Qwen3-Next-80B-A3B-Instruct-GGUF) |
+| Updated4 days ago | 31 | kakaocorp/kanana-2-30b-a3b-mid-2601Text | 31B | [Link](https://huggingface.co/kakaocorp/kanana-2-30b-a3b-mid-2601) |
 | 277 | 30 | kakaocorp/kanana-nano-2 | Updatedabout 22 hours ago | [Link](https://huggingface.co/kakaocorp/kanana-nano-2.1b-instruct) |
 | 2.75k | 30 | allenai/OLMo-2-0425-1BText | Updated6 days ago | [Link](https://huggingface.co/allenai/OLMo-2-0425-1B) |
 | 509 | 30 | SWE-bench/SWE-agent-LM-32BText | Updatedabout 10 hours ago | [Link](https://huggingface.co/SWE-bench/SWE-agent-LM-32B) |
@@ -5828,6 +5830,7 @@ Updated on 2026-01-19
 | 8 | Unknown | unsloth/Qwen-Image-2512-FP8Text-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/unsloth/Qwen-Image-2512-FP8) |
 | 10 | Unknown | azazeal2/TwinFlow-Z-Image-Turbo-repackedText-to-Image | Updated3 days ago | [Link](https://huggingface.co/azazeal2/TwinFlow-Z-Image-Turbo-repacked) |
 | 9 | Unknown | Juice2002/Z-Image-Turbo-LorasText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/Juice2002/Z-Image-Turbo-Loras) |
+| 146 |  | salomonsky/flux-lora-uncensoredText-to-Image | UpdatedMar 31, 2025 | [Link](https://huggingface.co/salomonsky/flux-lora-uncensored) |
 
 ## Text-to-Speech
 
