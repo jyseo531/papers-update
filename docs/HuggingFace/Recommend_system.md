@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-01-19
+Updated on 2026-01-20
 
 > Generated from the Hugging Face database.
 
@@ -2409,6 +2409,7 @@ Updated on 2026-01-19
 | 192 | 11 | Alissonerdx/BFS-Best-Face-SwapImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap) |
 |  | 11 | AmirKerr/ThisPersonImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/AmirKerr/ThisPerson) |
 | 2 | 11 | diffusers/FLUX | Updatedabout 6 hours ago | [Link](https://huggingface.co/diffusers/FLUX.2-dev-bnb-4bit) |
+|  | 11 | fal/flux-2-klein-4b-spritesheet-loraImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/fal/flux-2-klein-4b-spritesheet-lora) |
 | 21 | 10 | philschmid/stable-diffusion-2-inpainting-endpointImage-to-Image | UpdatedSep 29, 2023 | [Link](https://huggingface.co/philschmid/stable-diffusion-2-inpainting-endpoint) |
 | 270 | 10 | drbaph/Fluffy-kontext-LoRAImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/drbaph/Fluffy-kontext-LoRA) |
 | 4 | 10 | bytedance-research/USOImage-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/bytedance-research/USO) |
@@ -2849,6 +2850,7 @@ Updated on 2026-01-19
 | UpdatedMar 6 | 14 | ankitelastiq/llama-3-2-11b-vision-electrical-components-instructImage-to-Text | 11B | [Link](https://huggingface.co/ankitelastiq/llama-3-2-11b-vision-electrical-components-instruct) |
 | 944 | 14 | qualcomm/TrOCRImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/qualcomm/TrOCR) |
 | Updatedabout 11 hours ago | 14 | datalab-to/chandraImage-to-Text | 9B | [Link](https://huggingface.co/datalab-to/chandra) |
+| Updatedabout 9 hours ago | 14 | lightonai/LightOnOCR-2-1BImage-to-Text | 1B | [Link](https://huggingface.co/lightonai/LightOnOCR-2-1B) |
 | 207 | 13 | DGurgurov/im2latexImage-to-Text | UpdatedOct 23, 2024 | [Link](https://huggingface.co/DGurgurov/im2latex) |
 | 24.8k | 13 | microsoft/trocr-base-stage1Image-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-base-stage1) |
 | UpdatedMay 4 | 13 | ragunath-ravi/blip-histopathology-finetunedImage-to-Text | 0.2B | [Link](https://huggingface.co/ragunath-ravi/blip-histopathology-finetuned) |
@@ -5983,6 +5985,7 @@ Updated on 2026-01-19
 | 29 | 6 | ICTNLP/SLED-TTS-Streaming-LibriheavyText-to-Speech | Updatedabout 18 hours ago | [Link](https://huggingface.co/ICTNLP/SLED-TTS-Streaming-Libriheavy) |
 | Updatedabout 5 hours ago | 6 | vibevoice/VibeVoice-7BText-to-Speech | 9B | [Link](https://huggingface.co/vibevoice/VibeVoice-7B) |
 | 1.3k | 6 | IbrahimSalah/Arabic-TTS-SparkText-to-Speech | Updatedabout 3 hours ago | [Link](https://huggingface.co/IbrahimSalah/Arabic-TTS-Spark) |
+| Updatedabout 14 hours ago | 6 | AutoArk-AI/GPAText-to-Speech | 0.3B | [Link](https://huggingface.co/AutoArk-AI/GPA) |
 | 87 | 5 | lunahr/csm-1b-safetensors-quantsText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-quants) |
 | 26 | 5 | 2121-8/canary-tts-0 | Updatedabout 19 hours ago | [Link](https://huggingface.co/2121-8/canary-tts-0.5b) |
 | 12 | 5 | MYZY-AI/Muyan-TTS-SFTText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/MYZY-AI/Muyan-TTS-SFT) |
