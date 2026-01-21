@@ -106,6 +106,7 @@ Updated on 2026-01-21
 | UpdatedDec 12, 2024 | 10 | Alpha-VLLM/Lumina-mGPT-7B-768-OmniAny-to-Any | 7B | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-768-Omni) |
 | UpdatedApr 9 | 10.5k | meta-llama/Llama-4-Scout-17B-16EAny-to-Any | 109B | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E) |
 | 348 | 10 | mlx-community/Llama-4-Scout-17B-16E-Instruct-4bitAny-to-Any | UpdatedMay 3, 2025 | [Link](https://huggingface.co/mlx-community/Llama-4-Scout-17B-16E-Instruct-4bit) |
+| Updatedabout 1 hour ago | 10 | FlashLabs/Chroma-4BAny-to-Any | 6B | [Link](https://huggingface.co/FlashLabs/Chroma-4B) |
 | 23 | 9 | Alpha-VLLM/Lumina-mGPT-7B-1024Any-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-1024) |
 | UpdatedJul 9 | 8 | toandev/donglao-gemma-3-4b-it-viAny-to-Any | 4B | [Link](https://huggingface.co/toandev/donglao-gemma-3-4b-it-vi) |
 | 612 | 7 | internlm/internlm-xcomposer2d5-7b-rewardAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/internlm/internlm-xcomposer2d5-7b-reward) |
@@ -1855,6 +1856,7 @@ Updated on 2026-01-21
 | Updated16 days ago | 200 | grimjim/gemma-3-12b-it-norm-preserved-biprojected-abliteratedImage-Text-to-Text | 12B | [Link](https://huggingface.co/grimjim/gemma-3-12b-it-norm-preserved-biprojected-abliterated) |
 | Updated2 days ago | 187 | huihui-ai/Huihui-Qwen3-VL-8B-Instruct-abliteratedImage-Text-to-Text | 9B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3-VL-8B-Instruct-abliterated) |
 | 7.06k | 180 | meta-llama/Llama-4-Scout-17B-16E-InstructImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct) |
+| Updatedabout 12 hours ago | 176 | huihui-ai/Huihui-Step3-VL-10B-abliteratedImage-Text-to-Text | 10B | [Link](https://huggingface.co/huihui-ai/Huihui-Step3-VL-10B-abliterated) |
 | Updatedabout 7 hours ago | 171 | OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-PreviewImage-Text-to-Text | 0.4B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-Preview) |
 | 116 | 167 | google/gemma-3-27b-itImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-it) |
 | 38.8k | 163 | stepfun-ai/GOT-OCR-2 | Updated25 days ago | [Link](https://huggingface.co/stepfun-ai/GOT-OCR-2.0-hf) |
@@ -2414,6 +2416,7 @@ Updated on 2026-01-21
 |  | 11 | AmirKerr/ThisPersonImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/AmirKerr/ThisPerson) |
 | 2 | 11 | diffusers/FLUX | Updatedabout 6 hours ago | [Link](https://huggingface.co/diffusers/FLUX.2-dev-bnb-4bit) |
 |  | 11 | fal/flux-2-klein-4b-spritesheet-loraImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/fal/flux-2-klein-4b-spritesheet-lora) |
+|  | 11 | fal/flux-2-klein-4B-outpaint-loraImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/fal/flux-2-klein-4B-outpaint-lora) |
 | 21 | 10 | philschmid/stable-diffusion-2-inpainting-endpointImage-to-Image | UpdatedSep 29, 2023 | [Link](https://huggingface.co/philschmid/stable-diffusion-2-inpainting-endpoint) |
 | 270 | 10 | drbaph/Fluffy-kontext-LoRAImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/drbaph/Fluffy-kontext-LoRA) |
 | 4 | 10 | bytedance-research/USOImage-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/bytedance-research/USO) |
@@ -5135,6 +5138,7 @@ Updated on 2026-01-21
 | Updated1 day ago | 1.21k | Ex0bit/MiniMax-M2 | 229B | [Link](https://huggingface.co/Ex0bit/MiniMax-M2.1-PRISM) |
 | Updatedabout 3 hours ago | 1.33k | upstage/Solar-Open-100BText | 103B | [Link](https://huggingface.co/upstage/Solar-Open-100B) |
 | Updatedabout 12 hours ago | 1.24k | LiquidAI/LFM2 | 1B | [Link](https://huggingface.co/LiquidAI/LFM2.5-1.2B-Instruct) |
+| Updated2 days ago | 1.92k | mlx-community/GLM-4 | 30B | [Link](https://huggingface.co/mlx-community/GLM-4.7-Flash-4bit) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -5537,6 +5541,7 @@ Updated on 2026-01-21
 | 713 | 13 | ABDALLALSWAITI/FLUX | Updated3 days ago | [Link](https://huggingface.co/ABDALLALSWAITI/FLUX.1-dev-ControlNet-Union-Pro-2.0-fp8) |
 | Updated26 minutes ago | 13 | calcuis/hunyuanimage-ggufText-to-Image | 15B | [Link](https://huggingface.co/calcuis/hunyuanimage-gguf) |
 | 187 | 13 | tlennon-ie/qwen-edit-skinText-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/tlennon-ie/qwen-edit-skin) |
+| 7.11k | 13 | nphSi/Z-Image-LoraText-to-Image | Updated40 minutes ago | [Link](https://huggingface.co/nphSi/Z-Image-Lora) |
 | 217 | 12 | city96/HiDream-I1-Dev-ggufText-to-Image | Updated1 day ago | [Link](https://huggingface.co/city96/HiDream-I1-Dev-gguf) |
 | Updatedabout 4 hours ago | 12 | stepfun-ai/NextStep-1-LargeText-to-Image | 15B | [Link](https://huggingface.co/stepfun-ai/NextStep-1-Large) |
 | 59 | 12 | bytedance-research/UMOText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/bytedance-research/UMO) |
@@ -6296,6 +6301,7 @@ Updated on 2026-01-21
 | 71 | 2 | htdong/Wan-Alpha-v2 | Updatedabout 21 hours ago | [Link](https://huggingface.co/htdong/Wan-Alpha-v2.0) |
 | 37 | 2 | mingyi456/Wan2 | Updatedabout 9 hours ago | [Link](https://huggingface.co/mingyi456/Wan2.2-BF16) |
 | 31 | 2 | TheMindExpansionNetwork/claymation_stoners_LTX_V1Text-to-Video | Updated10 days ago | [Link](https://huggingface.co/TheMindExpansionNetwork/claymation_stoners_LTX_V1) |
+| 10 | 2 | TheMindExpansionNetwork/questro_LTXText-to-Video | Updated11 days ago | [Link](https://huggingface.co/TheMindExpansionNetwork/questro_LTX) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
