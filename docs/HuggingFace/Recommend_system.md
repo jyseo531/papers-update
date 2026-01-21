@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-01-20
+Updated on 2026-01-21
 
 > Generated from the Hugging Face database.
 
@@ -2379,6 +2379,7 @@ Updated on 2026-01-20
 | 3 | 30 | vllab/controlnet-handsImage-to-Image | UpdatedMay 19, 2023 | [Link](https://huggingface.co/vllab/controlnet-hands) |
 | 298 | 29 | ixarchakos/tryOffAnyoneImage-to-Image | UpdatedDec 13, 2024 | [Link](https://huggingface.co/ixarchakos/tryOffAnyone) |
 | 8.53k | 29 | lllyasviel/control_v11p_sd15_scribbleImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_scribble) |
+| 187 | 29 | briaai/Fibo-EditImage-to-Image | Updatedabout 16 hours ago | [Link](https://huggingface.co/briaai/Fibo-Edit) |
 | 1.87k | 28 | lllyasviel/sd-controlnet-hedImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-hed) |
 | 13 | 28 | nvidia/ChronoEdit-14B-Diffusers-Upscaler-LoraImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/ChronoEdit-14B-Diffusers-Upscaler-Lora) |
 | 421 | 26 | BertChristiaens/controlnet-seg-roomImage-to-Image | UpdatedMay 25, 2023 | [Link](https://huggingface.co/BertChristiaens/controlnet-seg-room) |
@@ -2918,6 +2919,7 @@ Updated on 2026-01-20
 | UpdatedJun 2 | 6.4k | unsloth/MiMo-VL-7B-RL-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/unsloth/MiMo-VL-7B-RL-GGUF) |
 | Updatedabout 1 hour ago | 6 | XiaomiMiMo/MiMo-Embodied-7BImage-to-Text | 8B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-Embodied-7B) |
 | Updatedabout 17 hours ago | 6 | Qwen/Qwen3-VL-Embedding-2BImage-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-Embedding-2B) |
+| 9 | 6 | philschmid/donut-base-finetuned-cord-v2Image-to-Text | UpdatedOct 18, 2022 | [Link](https://huggingface.co/philschmid/donut-base-finetuned-cord-v2) |
 | 7 | 5 | laicsiifes/swin-gportuguese-2Image-to-Text | UpdatedMar 31 | [Link](https://huggingface.co/laicsiifes/swin-gportuguese-2) |
 | 5 | 5 | Yodazon/3DPrintFailureTypeImage-to-Text | UpdatedOct 18, 2024 | [Link](https://huggingface.co/Yodazon/3DPrintFailureType) |
 | Updated5 days ago | 5.7k | ChatDOC/OCRFlux-3BImage-to-Text | 4B | [Link](https://huggingface.co/ChatDOC/OCRFlux-3B) |
@@ -5839,6 +5841,7 @@ Updated on 2026-01-20
 | 10 | Unknown | azazeal2/TwinFlow-Z-Image-Turbo-repackedText-to-Image | Updated3 days ago | [Link](https://huggingface.co/azazeal2/TwinFlow-Z-Image-Turbo-repacked) |
 | 9 | Unknown | Juice2002/Z-Image-Turbo-LorasText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/Juice2002/Z-Image-Turbo-Loras) |
 | 146 |  | salomonsky/flux-lora-uncensoredText-to-Image | UpdatedMar 31, 2025 | [Link](https://huggingface.co/salomonsky/flux-lora-uncensored) |
+| 1.17k |  | RomixERR/Pornmaster_v1-Z-Images-TurboText-to-Image | Updated27 days ago | [Link](https://huggingface.co/RomixERR/Pornmaster_v1-Z-Images-Turbo) |
 
 ## Text-to-Speech
 
@@ -5854,6 +5857,7 @@ Updated on 2026-01-20
 | Updated9 days ago | 679 | snorbyte/snorTTS-Indic-v0Text-to-Speech | 4B | [Link](https://huggingface.co/snorbyte/snorTTS-Indic-v0) |
 | Updated1 day ago | 646 | nineninesix/kani-tts-400m-0 | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-400m-0.3-pt) |
 | Updatedabout 4 hours ago | 607 | neuphonic/neutts-nano-q4-ggufText-to-Speech | 0.3B | [Link](https://huggingface.co/neuphonic/neutts-nano-q4-gguf) |
+| 18.5k | 603 | IndexTeam/IndexTTS-2Text-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/IndexTeam/IndexTTS-2) |
 | Updatedabout 9 hours ago | 515 | bosonai/higgs-audio-v2-generation-3B-baseText-to-Speech | 6B | [Link](https://huggingface.co/bosonai/higgs-audio-v2-generation-3B-base) |
 | 11.8k | 480 | fishaudio/fish-speech-1 | UpdatedDec 3, 2024 | [Link](https://huggingface.co/fishaudio/fish-speech-1.5) |
 | 5.67k | 478 | nari-labs/Dia-1 | Updatedabout 9 hours ago | [Link](https://huggingface.co/nari-labs/Dia-1.6B) |
@@ -6159,6 +6163,7 @@ Updated on 2026-01-20
 | 6 | Unknown | PatnaikAshish/Sonya-TTSText-to-Speech | Updatedabout 16 hours ago | [Link](https://huggingface.co/PatnaikAshish/Sonya-TTS) |
 | 5 | Unknown | kyutai/pocket-tts-without-voice-cloningText-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/kyutai/pocket-tts-without-voice-cloning) |
 | 5 | Unknown | ayousanz/cosy-voice3-onnxText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/ayousanz/cosy-voice3-onnx) |
+| 5 | Unknown | KevinAHM/pocket-tts-onnxText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/KevinAHM/pocket-tts-onnx) |
 
 ## Text-to-Video
 
@@ -6290,6 +6295,7 @@ Updated on 2026-01-20
 | 22 | 2 | artificialguybr/FishEye-Redmond-WAN2-T2V-14BText-to-Video | Updated1 day ago | [Link](https://huggingface.co/artificialguybr/FishEye-Redmond-WAN2-T2V-14B) |
 | 71 | 2 | htdong/Wan-Alpha-v2 | Updatedabout 21 hours ago | [Link](https://huggingface.co/htdong/Wan-Alpha-v2.0) |
 | 37 | 2 | mingyi456/Wan2 | Updatedabout 9 hours ago | [Link](https://huggingface.co/mingyi456/Wan2.2-BF16) |
+| 31 | 2 | TheMindExpansionNetwork/claymation_stoners_LTX_V1Text-to-Video | Updated10 days ago | [Link](https://huggingface.co/TheMindExpansionNetwork/claymation_stoners_LTX_V1) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
