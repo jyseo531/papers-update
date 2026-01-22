@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-01-21
+Updated on 2026-01-22
 
 > Generated from the Hugging Face database.
 
@@ -5059,6 +5059,7 @@ Updated on 2026-01-21
 | Updatedabout 14 hours ago | 8 | janhq/Jan-v1-4B-GGUFText | 4B | [Link](https://huggingface.co/janhq/Jan-v1-4B-GGUF) |
 | Updatedabout 16 hours ago | 8.51k | nvidia/NVIDIA-Nemotron-Nano-12B-v2Text | 12B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-12B-v2) |
 | Updated1 day ago | 8 | nvidia/Nemotron-Cascade-8BText | 8B | [Link](https://huggingface.co/nvidia/Nemotron-Cascade-8B) |
+| Updated1 day ago | 8.42k | GadflyII/GLM-4 | 18B | [Link](https://huggingface.co/GadflyII/GLM-4.7-Flash-NVFP4) |
 | Updated2 days ago | 7.65k | Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8) |
 | Updatedabout 4 hours ago | 7 | tencent/Hunyuan-7B-InstructText | 8B | [Link](https://huggingface.co/tencent/Hunyuan-7B-Instruct) |
 | Updated4 days ago | 7k | bartowski/cerebras_GLM-4 | 85B | [Link](https://huggingface.co/bartowski/cerebras_GLM-4.5-Air-REAP-82B-A12B-GGUF) |
@@ -5847,6 +5848,7 @@ Updated on 2026-01-21
 | 9 | Unknown | Juice2002/Z-Image-Turbo-LorasText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/Juice2002/Z-Image-Turbo-Loras) |
 | 146 |  | salomonsky/flux-lora-uncensoredText-to-Image | UpdatedMar 31, 2025 | [Link](https://huggingface.co/salomonsky/flux-lora-uncensored) |
 | 1.17k |  | RomixERR/Pornmaster_v1-Z-Images-TurboText-to-Image | Updated27 days ago | [Link](https://huggingface.co/RomixERR/Pornmaster_v1-Z-Images-Turbo) |
+| 10 | Unknown | QuantFunc/Nunchaku-Qwen-Image-2512Text-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/QuantFunc/Nunchaku-Qwen-Image-2512) |
 
 ## Text-to-Speech
 
@@ -6302,6 +6304,7 @@ Updated on 2026-01-21
 | 37 | 2 | mingyi456/Wan2 | Updatedabout 9 hours ago | [Link](https://huggingface.co/mingyi456/Wan2.2-BF16) |
 | 31 | 2 | TheMindExpansionNetwork/claymation_stoners_LTX_V1Text-to-Video | Updated10 days ago | [Link](https://huggingface.co/TheMindExpansionNetwork/claymation_stoners_LTX_V1) |
 | 10 | 2 | TheMindExpansionNetwork/questro_LTXText-to-Video | Updated11 days ago | [Link](https://huggingface.co/TheMindExpansionNetwork/questro_LTX) |
+| 31 | 2 | zulense/z1Text-to-Video | Updatedabout 23 hours ago | [Link](https://huggingface.co/zulense/z1) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
