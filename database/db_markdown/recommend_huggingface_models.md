@@ -1829,6 +1829,7 @@ Updated on 2026-01-22
 | Updated6 days ago | 583 | Qwen/Qwen3-VL-235B-A22B-Instruct-GGUFImage-Text-to-Text | 235B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct-GGUF) |
 | 1.67M | 546 | Qwen/Qwen2 | Updated10 days ago | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct) |
 | Updatedabout 8 hours ago | 544 | sensenova/SenseNova-SI-1 | 8B | [Link](https://huggingface.co/sensenova/SenseNova-SI-1.1-InternVL3-8B) |
+| Updated1 day ago | 534 | lightonai/LightOnOCR-2-1B-bboxImage-Text-to-Text | 1B | [Link](https://huggingface.co/lightonai/LightOnOCR-2-1B-bbox) |
 | Updated2 days ago | 531 | OpenGVLab/InternVL3_5-2BImage-Text-to-Text | 2B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-2B) |
 | Updated18 days ago | 503 | prithivMLmods/Qwen3-VL-8B-Instruct-abliterated-v2Image-Text-to-Text | 9B | [Link](https://huggingface.co/prithivMLmods/Qwen3-VL-8B-Instruct-abliterated-v2) |
 | Updated3 days ago | 490 | Kwai-Keye/Keye-VL-1_5-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/Kwai-Keye/Keye-VL-1_5-8B) |
@@ -2793,6 +2794,7 @@ Updated on 2026-01-22
 | UpdatedAug 14, 2025 | 47.3k | unsloth/gemma-3-12b-it-GGUFImage-to-Text | 12B | [Link](https://huggingface.co/unsloth/gemma-3-12b-it-GGUF) |
 | Updated6 days ago | 47 | AiAsistent/xthos-v2-the-sovereign-architectImage-to-Text | 4B | [Link](https://huggingface.co/AiAsistent/xthos-v2-the-sovereign-architect) |
 | Updatedabout 5 hours ago | 46 | mohajesmaeili/Qwen3-VL-2B-Persian-Arabic-Ocr-v1 | 2B | [Link](https://huggingface.co/mohajesmaeili/Qwen3-VL-2B-Persian-Arabic-Ocr-v1.0) |
+| Updated2 days ago | 46 | vvangfaye/SocioReasoner-3BImage-to-Text | 4B | [Link](https://huggingface.co/vvangfaye/SocioReasoner-3B) |
 | Updatedabout 5 hours ago | 45 | LastRef/gemma-3-12b-it-heretic-xImage-to-Text | 12B | [Link](https://huggingface.co/LastRef/gemma-3-12b-it-heretic-x) |
 | Updated23 days ago | 43 | Jaireyu/Qwen2 | 8B | [Link](https://huggingface.co/Jaireyu/Qwen2.5-VL-UniSVG-finetuned) |
 | UpdatedJul 5 | 43 | QuickHawk/trocr-indicImage-to-Text | 0.3B | [Link](https://huggingface.co/QuickHawk/trocr-indic) |
@@ -6429,6 +6431,7 @@ Updated on 2026-01-22
 | 3 | Unknown | GitMylo/Wan_2 | Updatedabout 14 hours ago | [Link](https://huggingface.co/GitMylo/Wan_2.2_nvfp4) |
 | 2 | Unknown | MihaiPopa-1/LTX-2-Lite-2 | Updatedabout 6 hours ago | [Link](https://huggingface.co/MihaiPopa-1/LTX-2-Lite-2.4B) |
 | 3 | Unknown | oumoumad/ltx-2_IC_LUMIPARTICLESText-to-Video | Updatedabout 14 hours ago | [Link](https://huggingface.co/oumoumad/ltx-2_IC_LUMIPARTICLES) |
+| 3 | Unknown | Linum-AI/linum-v2-360pText-to-Video | Updated1 day ago | [Link](https://huggingface.co/Linum-AI/linum-v2-360p) |
 
 ## Text2Text Generation
 
