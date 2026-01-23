@@ -2023,6 +2023,7 @@ Updated on 2026-01-23
 | Updated23 minutes ago | 14 | google/medgemma-27b-itImage-Text-to-Text | 29B | [Link](https://huggingface.co/google/medgemma-27b-it) |
 | Updatedabout 10 hours ago | 14 | inclusionAI/UI-Venus-Ground-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/inclusionAI/UI-Venus-Ground-7B) |
 | Updatedabout 12 hours ago | 14 | zai-org/AutoGLM-Phone-9BImage-Text-to-Text | 934k | [Link](https://huggingface.co/zai-org/AutoGLM-Phone-9B) |
+| Updatedabout 17 hours ago | 14 | rootsautomation/GutenOCR-3BImage-Text-to-Text | 756k | [Link](https://huggingface.co/rootsautomation/GutenOCR-3B) |
 | 582 | 13 | google/gemma-3-4b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-4b-pt) |
 | 4.2k | 13 | mlabonne/gemma-3-12b-it-abliterated-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-12b-it-abliterated-GGUF) |
 | 10.7k | 13 | unsloth/Llama-4-Maverick-17B-128E-Instruct-GGUFImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/unsloth/Llama-4-Maverick-17B-128E-Instruct-GGUF) |
@@ -2102,6 +2103,7 @@ Updated on 2026-01-23
 | Updated5 days ago | 9.66k | unsloth/Qwen3-VL-4B-Thinking-GGUFImage-Text-to-Text | 4B | [Link](https://huggingface.co/unsloth/Qwen3-VL-4B-Thinking-GGUF) |
 | 95 | 9 | NyxKrage/moondream3-hfImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/NyxKrage/moondream3-hf) |
 | Updatedabout 1 hour ago | 9 | Hcompany/Holo2-4BImage-Text-to-Text | 4B | [Link](https://huggingface.co/Hcompany/Holo2-4B) |
+| Updatedabout 17 hours ago | 9 | rootsautomation/GutenOCR-7BImage-Text-to-Text | 756k | [Link](https://huggingface.co/rootsautomation/GutenOCR-7B) |
 | 9.71k | 8 | lmstudio-community/gemma-3-27b-it-GGUFImage-Text-to-Text | Updatedabout 18 hours ago | [Link](https://huggingface.co/lmstudio-community/gemma-3-27b-it-GGUF) |
 | 2.95k | 8 | bartowski/google_gemma-3-4b-it-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF) |
 | 725 | 8 | Mungert/gemma-3-4b-it-ggufImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/Mungert/gemma-3-4b-it-gguf) |
@@ -2354,6 +2356,7 @@ Updated on 2026-01-23
 | 13.5k | 113 | lllyasviel/control_v11f1e_sd15_tileImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11f1e_sd15_tile) |
 | 15.3k | 109 | lllyasviel/control_v11p_sd15_openposeImage-to-Image | UpdatedAug 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_openpose) |
 | 4.13k | 88 | tlennon-ie/qwen-edit-skinImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/tlennon-ie/qwen-edit-skin) |
+| 6.03k | 85 | DiffSynth-Studio/Qwen-Image-Edit-F2PImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/DiffSynth-Studio/Qwen-Image-Edit-F2P) |
 | 44 | 80 | keras-io/low-light-image-enhancementImage-to-Image | UpdatedJul 9, 2024 | [Link](https://huggingface.co/keras-io/low-light-image-enhancement) |
 | 378 | 74 | instruction-tuning-sd/cartoonizerImage-to-Image | UpdatedMay 13, 2023 | [Link](https://huggingface.co/instruction-tuning-sd/cartoonizer) |
 | 95 | 65 | rsortino/ColorizeNetImage-to-Image | UpdatedJul 31, 2023 | [Link](https://huggingface.co/rsortino/ColorizeNet) |
@@ -2426,6 +2429,7 @@ Updated on 2026-01-23
 | 467 | 10 | buildborderless/FLUX | UpdatedJul 14 | [Link](https://huggingface.co/buildborderless/FLUX.MF-Kontext_Lightning-8s-4bit_nf4) |
 | 36 | 10 | nvidia/ChronoEdit-14B-DiffusersImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/nvidia/ChronoEdit-14B-Diffusers) |
 | 24 | 10 | tarn59/apply_texture_qwen_image_edit_2509Image-to-Image | Updated10 minutes ago | [Link](https://huggingface.co/tarn59/apply_texture_qwen_image_edit_2509) |
+|  | 10 | fal/flux-2-klein-4B-background-remove-loraImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/fal/flux-2-klein-4B-background-remove-lora) |
 | 11 | 9 | keras-io/conditional-ganImage-to-Image | UpdatedJul 5, 2024 | [Link](https://huggingface.co/keras-io/conditional-gan) |
 | 10.5k | 9 | hafsa000/interior-designImage-to-Image | UpdatedMay 16, 2024 | [Link](https://huggingface.co/hafsa000/interior-design) |
 |  | 9 | ilkerzgi/Overlay-Kontext-Dev-LoRAImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/ilkerzgi/Overlay-Kontext-Dev-LoRA) |
@@ -2820,6 +2824,7 @@ Updated on 2026-01-23
 | 9.9k | 31 | OleehyO/TexTellerImage-to-Text | UpdatedJun 22, 2024 | [Link](https://huggingface.co/OleehyO/TexTeller) |
 | UpdatedMay 25 | 30 | infly/INF-AZ-7B-0524Image-to-Text | 8B | [Link](https://huggingface.co/infly/INF-AZ-7B-0524) |
 | 1.65k | 29 | microsoft/git-large-textcapsImage-to-Text | UpdatedFeb 8, 2023 | [Link](https://huggingface.co/microsoft/git-large-textcaps) |
+| Updated9 days ago | 29 | unicorn-team/Unicorn-VL-R3Image-to-Text | 9B | [Link](https://huggingface.co/unicorn-team/Unicorn-VL-R3) |
 | Updated6 days ago | 28 | daniel3303/QwenStoryteller2Image-to-Text | 8B | [Link](https://huggingface.co/daniel3303/QwenStoryteller2) |
 | UpdatedOct 18 | 28 | ardaocak/llava-1 | 7B | [Link](https://huggingface.co/ardaocak/llava-1.5-7b-food-calorie-estimator) |
 | Updated5 days ago | 28 | sbintuitions/sarashina2 | 4B | [Link](https://huggingface.co/sbintuitions/sarashina2.2-vision-3b) |
@@ -4817,6 +4822,7 @@ Updated on 2026-01-23
 | 4 | 39 | Qwen/Qwen3-14BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-14B) |
 | UpdatedJun 8 | 39.4k | unsloth/Qwen3-4B-GGUFText | 4B | [Link](https://huggingface.co/unsloth/Qwen3-4B-GGUF) |
 | Updatedabout 2 hours ago | 39 | meituan-longcat/LongCat-Flash-Thinking-2601Text | 562B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Thinking-2601) |
+| Updatedabout 4 hours ago | 39k | cyankiwi/GLM-4 | 6B | [Link](https://huggingface.co/cyankiwi/GLM-4.7-Flash-AWQ-4bit) |
 | 227 | 38 | LGAI-EXAONE/EXAONE-Deep-7 | Updated4 minutes ago | [Link](https://huggingface.co/LGAI-EXAONE/EXAONE-Deep-7.8B) |
 | 9.86k | 38 | starvector/starvector-1b-im2svgText | Updated2 days ago | [Link](https://huggingface.co/starvector/starvector-1b-im2svg) |
 | 278 | 38 | deepcogito/cogito-v1-preview-qwen-32BText | Updated1 day ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-qwen-32B) |
@@ -6199,6 +6205,7 @@ Updated on 2026-01-23
 | 7.53k | 218 | nvidia/Cosmos-1 | Updated10 days ago | [Link](https://huggingface.co/nvidia/Cosmos-1.0-Diffusion-7B-Text2World) |
 | 315 | 175 | FastVideo/FastHunyuanText-to-Video | UpdatedJan 8 | [Link](https://huggingface.co/FastVideo/FastHunyuan) |
 | 28k | 169 | ali-vilab/i2vgen-xlText-to-Video | UpdatedFeb 9, 2024 | [Link](https://huggingface.co/ali-vilab/i2vgen-xl) |
+| 68 | 160 | camenduru/potat1Text-to-Video | UpdatedJun 15, 2023 | [Link](https://huggingface.co/camenduru/potat1) |
 | 30.2k | 141 | city96/HunyuanVideo-ggufText-to-Video | UpdatedDec 17, 2024 | [Link](https://huggingface.co/city96/HunyuanVideo-gguf) |
 | Updated1 day ago | 101 | jayn7/HunyuanVideo-1 | 8B | [Link](https://huggingface.co/jayn7/HunyuanVideo-1.5_T2V_720p-GGUF) |
 | 9 | 71 | LanguageBind/Open-Sora-Plan-v1 | UpdatedDec 5, 2024 | [Link](https://huggingface.co/LanguageBind/Open-Sora-Plan-v1.3.0) |
@@ -6240,6 +6247,7 @@ Updated on 2026-01-23
 | 680 | 8 | a-r-r-o-w/LTX-Video-0 | UpdatedMar 18 | [Link](https://huggingface.co/a-r-r-o-w/LTX-Video-0.9.1-diffusers) |
 | 34 | 8 | yaleiyaleichiling/NSFW-Anime-wan-5BText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/yaleiyaleichiling/NSFW-Anime-wan-5B) |
 | 5.9k | 7 | SVECTOR-CORPORATION/Spectro-2BText-to-Video | UpdatedDec 25, 2024 | [Link](https://huggingface.co/SVECTOR-CORPORATION/Spectro-2B) |
+| 15 | 7 | DREX-Institute/potat1 | UpdatedJun 8, 2023 | [Link](https://huggingface.co/DREX-Institute/potat1.pth) |
 | 863 | 6 | guoyww/animatediff-motion-adapter-v1-5-3Text-to-Video | UpdatedJul 8, 2024 | [Link](https://huggingface.co/guoyww/animatediff-motion-adapter-v1-5-3) |
 | 184 | 6 | BAAI/nova-d48w1024-osp480Text-to-Video | UpdatedDec 21, 2024 | [Link](https://huggingface.co/BAAI/nova-d48w1024-osp480) |
 | 6.29k | 6 | guoyww/animatediff-motion-lora-zoom-outText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-zoom-out) |
@@ -6440,6 +6448,7 @@ Updated on 2026-01-23
 | 3 | Unknown | Linum-AI/linum-v2-360pText-to-Video | Updated1 day ago | [Link](https://huggingface.co/Linum-AI/linum-v2-360p) |
 | 10 | Unknown | Linum-AI/linum-v2-720pText-to-Video | Updated3 days ago | [Link](https://huggingface.co/Linum-AI/linum-v2-720p) |
 | 1 | Unknown | Vibek/OpText-to-Video | UpdatedMay 14, 2023 | [Link](https://huggingface.co/Vibek/Op) |
+| 1 | Unknown | Mesnyankin/KkkText-to-Video | UpdatedMay 18, 2023 | [Link](https://huggingface.co/Mesnyankin/Kkk) |
 
 ## Text2Text Generation
 
