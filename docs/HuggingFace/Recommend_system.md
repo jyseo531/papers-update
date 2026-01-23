@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-01-22
+Updated on 2026-01-23
 
 > Generated from the Hugging Face database.
 
@@ -1916,6 +1916,7 @@ Updated on 2026-01-22
 | Updated5 days ago | 55 | hkust-nlp/WebExplorer-8BImage-Text-to-Text | 8B | [Link](https://huggingface.co/hkust-nlp/WebExplorer-8B) |
 | Updated3 days ago | 55 | OpenGVLab/ScaleCUA-3BImage-Text-to-Text | 4B | [Link](https://huggingface.co/OpenGVLab/ScaleCUA-3B) |
 | 1.38k | 54 | ByteDance/Sa2VA-8BImage-Text-to-Text | UpdatedJan 14 | [Link](https://huggingface.co/ByteDance/Sa2VA-8B) |
+| Updatedabout 1 hour ago | 54.5k | allenai/Molmo2-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/allenai/Molmo2-8B) |
 | 6.92k | 53 | 5CD-AI/Vintern-1B-v3_5Image-Text-to-Text | UpdatedFeb 12 | [Link](https://huggingface.co/5CD-AI/Vintern-1B-v3_5) |
 | 88 | 53 | nanonets/Nanonets-OCR-sImage-Text-to-Text | Updatedabout 15 hours ago | [Link](https://huggingface.co/nanonets/Nanonets-OCR-s) |
 | Updatedabout 5 hours ago | 53 | prithivMLmods/Gliese-OCR-7B-Post1 | 8B | [Link](https://huggingface.co/prithivMLmods/Gliese-OCR-7B-Post1.0) |
@@ -2418,6 +2419,7 @@ Updated on 2026-01-22
 | 2 | 11 | diffusers/FLUX | Updatedabout 6 hours ago | [Link](https://huggingface.co/diffusers/FLUX.2-dev-bnb-4bit) |
 |  | 11 | fal/flux-2-klein-4b-spritesheet-loraImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/fal/flux-2-klein-4b-spritesheet-lora) |
 |  | 11 | fal/flux-2-klein-4B-outpaint-loraImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/fal/flux-2-klein-4B-outpaint-lora) |
+|  | 11 | fal/flux-2-klein-4B-zoom-loraImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/fal/flux-2-klein-4B-zoom-lora) |
 | 21 | 10 | philschmid/stable-diffusion-2-inpainting-endpointImage-to-Image | UpdatedSep 29, 2023 | [Link](https://huggingface.co/philschmid/stable-diffusion-2-inpainting-endpoint) |
 | 270 | 10 | drbaph/Fluffy-kontext-LoRAImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/drbaph/Fluffy-kontext-LoRA) |
 | 4 | 10 | bytedance-research/USOImage-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/bytedance-research/USO) |
@@ -2711,6 +2713,7 @@ Updated on 2026-01-22
 | 116 |  | prithivMLmods/Qwen-Image-Edit-2511-Object-AdderImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-2511-Object-Adder) |
 | 201 |  | WarmBloodAban/Anything_to_Real_Characters_2511Image-to-Image | Updated2 days ago | [Link](https://huggingface.co/WarmBloodAban/Anything_to_Real_Characters_2511) |
 | 1.13k |  | prithivMLmods/Qwen-Image-Edit-2511-Polaroid-PhotoImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-2511-Polaroid-Photo) |
+| 12 | Unknown | QuantFunc/Nunchaku-Qwen-Image-EDIT-2511Image-to-Image | Updatedabout 16 hours ago | [Link](https://huggingface.co/QuantFunc/Nunchaku-Qwen-Image-EDIT-2511) |
 
 ## Image-to-Text
 
@@ -2762,6 +2765,7 @@ Updated on 2026-01-22
 | UpdatedApr 2 | 116k | reducto/RolmOCRImage-to-Text | 8B | [Link](https://huggingface.co/reducto/RolmOCR) |
 | Updated5 days ago | 110 | Svngoku/Qwen3-VL-TimeTravelImage-to-Text | 9B | [Link](https://huggingface.co/Svngoku/Qwen3-VL-TimeTravel) |
 | Updatedabout 20 hours ago | 110 | scb10x/typhoon-ocr1 | 2B | [Link](https://huggingface.co/scb10x/typhoon-ocr1.5-2b) |
+| UpdatedAug 14, 2025 | 105k | unsloth/gemma-3-27b-it-GGUFImage-to-Text | 27B | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-GGUF) |
 | UpdatedSep 7, 2024 | 99 | antoniorv6/smt-camera-grandstaffImage-to-Text | 21.4M | [Link](https://huggingface.co/antoniorv6/smt-camera-grandstaff) |
 | Updatedabout 19 hours ago | 96 | davanstrien/iconclass-vlmImage-to-Text | 4B | [Link](https://huggingface.co/davanstrien/iconclass-vlm) |
 | Updated1 day ago | 93 | EpistemeAI/Audiogemma-3N-finetuneImage-to-Text | 8B | [Link](https://huggingface.co/EpistemeAI/Audiogemma-3N-finetune) |
@@ -4930,6 +4934,7 @@ Updated on 2026-01-22
 | 6 | 25 | Qwen/Qwen3-Reranker-8BText | Updatedabout 10 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-Reranker-8B) |
 | 1.69k | 25 | Intel/Qwen3-Next-80B-A3B-Thinking-int4-mixed-AutoRoundText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Intel/Qwen3-Next-80B-A3B-Thinking-int4-mixed-AutoRound) |
 | 101 | 25 | salakash/SamKash-TolstoyText | Updatedabout 2 hours ago | [Link](https://huggingface.co/salakash/SamKash-Tolstoy) |
+| 193 | 25 | salakash/AskBuddyXText | Updated9 days ago | [Link](https://huggingface.co/salakash/AskBuddyX) |
 | 8.8k | 24 | unsloth/QwQ-32B-GGUFText | Updatedabout 1 hour ago | [Link](https://huggingface.co/unsloth/QwQ-32B-GGUF) |
 | 90.1k | 24 | allenai/OLMo-2-0325-32BText | Updated3 days ago | [Link](https://huggingface.co/allenai/OLMo-2-0325-32B) |
 | 722 | 24 | qihoo360/Light-R1-14B-DSText | Updatedabout 9 hours ago | [Link](https://huggingface.co/qihoo360/Light-R1-14B-DS) |
@@ -5617,6 +5622,7 @@ Updated on 2026-01-22
 | 65 | 6 | FractalAIResearch/Kalaido-qwen-image-loraText-to-Image | Updated1 day ago | [Link](https://huggingface.co/FractalAIResearch/Kalaido-qwen-image-lora) |
 | 333 | 6 | GuangyuanSD/Z-Image-Re-Turbo-LoRAText-to-Image | Updated6 days ago | [Link](https://huggingface.co/GuangyuanSD/Z-Image-Re-Turbo-LoRA) |
 | 431 | 6 | unsloth/Qwen-Image-2512-unsloth-bnb-4bitText-to-Image | Updated4 days ago | [Link](https://huggingface.co/unsloth/Qwen-Image-2512-unsloth-bnb-4bit) |
+| 890 | 6 | Disty0/FLUX | Updated5 days ago | [Link](https://huggingface.co/Disty0/FLUX.2-klein-9B-SDNQ-4bit-dynamic-svd-r32) |
 | 42 | 5 | Shakker-Labs/RepTextText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Shakker-Labs/RepText) |
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
@@ -6432,6 +6438,8 @@ Updated on 2026-01-22
 | 2 | Unknown | MihaiPopa-1/LTX-2-Lite-2 | Updatedabout 6 hours ago | [Link](https://huggingface.co/MihaiPopa-1/LTX-2-Lite-2.4B) |
 | 3 | Unknown | oumoumad/ltx-2_IC_LUMIPARTICLESText-to-Video | Updatedabout 14 hours ago | [Link](https://huggingface.co/oumoumad/ltx-2_IC_LUMIPARTICLES) |
 | 3 | Unknown | Linum-AI/linum-v2-360pText-to-Video | Updated1 day ago | [Link](https://huggingface.co/Linum-AI/linum-v2-360p) |
+| 10 | Unknown | Linum-AI/linum-v2-720pText-to-Video | Updated3 days ago | [Link](https://huggingface.co/Linum-AI/linum-v2-720p) |
+| 1 | Unknown | Vibek/OpText-to-Video | UpdatedMay 14, 2023 | [Link](https://huggingface.co/Vibek/Op) |
 
 ## Text2Text Generation
 
