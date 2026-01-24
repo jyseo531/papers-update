@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-01-23
+Updated on 2026-01-24
 
 > Generated from the Hugging Face database.
 
@@ -2718,6 +2718,7 @@ Updated on 2026-01-23
 | 201 |  | WarmBloodAban/Anything_to_Real_Characters_2511Image-to-Image | Updated2 days ago | [Link](https://huggingface.co/WarmBloodAban/Anything_to_Real_Characters_2511) |
 | 1.13k |  | prithivMLmods/Qwen-Image-Edit-2511-Polaroid-PhotoImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-2511-Polaroid-Photo) |
 | 12 | Unknown | QuantFunc/Nunchaku-Qwen-Image-EDIT-2511Image-to-Image | Updatedabout 16 hours ago | [Link](https://huggingface.co/QuantFunc/Nunchaku-Qwen-Image-EDIT-2511) |
+| 91 |  | lilylilith/QIE-2511-MP-AnyLightImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/lilylilith/QIE-2511-MP-AnyLight) |
 
 ## Image-to-Text
 
@@ -5491,6 +5492,7 @@ Updated on 2026-01-23
 | 26.8k | 386 | ostris/Flex | UpdatedJan 19 | [Link](https://huggingface.co/ostris/Flex.1-alpha) |
 | 275 | 375 | dalle-mini/dalle-miniText-to-Image | UpdatedJan 11, 2023 | [Link](https://huggingface.co/dalle-mini/dalle-mini) |
 | 89.5k | 370 | OnomaAIResearch/Illustrious-xl-early-release-v0Text-to-Image | UpdatedFeb 13 | [Link](https://huggingface.co/OnomaAIResearch/Illustrious-xl-early-release-v0) |
+| Updated7 days ago | 363 | leejet/FLUX | 4B | [Link](https://huggingface.co/leejet/FLUX.2-klein-base-4B-GGUF) |
 | 31.8k | 362 | thibaud/controlnet-openpose-sdxl-1 | UpdatedSep 3, 2023 | [Link](https://huggingface.co/thibaud/controlnet-openpose-sdxl-1.0) |
 | 8.52k | 350 | fofr/sdxl-emojiText-to-Image | UpdatedJun 27, 2024 | [Link](https://huggingface.co/fofr/sdxl-emoji) |
 | 252k | 347 | diffusers/stable-diffusion-xl-1 | UpdatedSep 3, 2023 | [Link](https://huggingface.co/diffusers/stable-diffusion-xl-1.0-inpainting-0.1) |
@@ -5515,6 +5517,7 @@ Updated on 2026-01-23
 | 9.8k | 66 | cyberdelia/CyberRealisticText-to-Image | Updated12 days ago | [Link](https://huggingface.co/cyberdelia/CyberRealistic) |
 | 15.9k | 65 | neta-art/Neta-LuminaText-to-Image | Updated7 minutes ago | [Link](https://huggingface.co/neta-art/Neta-Lumina) |
 | 3.27M | 64 | stable-diffusion-v1-5/stable-diffusion-inpaintingText-to-Image | UpdatedSep 6, 2024 | [Link](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-inpainting) |
+| 10.3k | 64 | LyliaEngine/Pony_Diffusion_V6_XLText-to-Image | UpdatedMay 25, 2024 | [Link](https://huggingface.co/LyliaEngine/Pony_Diffusion_V6_XL) |
 |  | 61 | meituan-longcat/LongCat-ImageText-to-Image | Updatedabout 13 hours ago | [Link](https://huggingface.co/meituan-longcat/LongCat-Image) |
 | 8.42k | 59 | cyberdelia/CyberRealisticPonyText-to-Image | Updated3 days ago | [Link](https://huggingface.co/cyberdelia/CyberRealisticPony) |
 | 328 | 54 | briaai/FIBOText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/briaai/FIBO) |
@@ -5863,6 +5866,7 @@ Updated on 2026-01-23
 | 146 |  | salomonsky/flux-lora-uncensoredText-to-Image | UpdatedMar 31, 2025 | [Link](https://huggingface.co/salomonsky/flux-lora-uncensored) |
 | 1.17k |  | RomixERR/Pornmaster_v1-Z-Images-TurboText-to-Image | Updated27 days ago | [Link](https://huggingface.co/RomixERR/Pornmaster_v1-Z-Images-Turbo) |
 | 10 | Unknown | QuantFunc/Nunchaku-Qwen-Image-2512Text-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/QuantFunc/Nunchaku-Qwen-Image-2512) |
+| 4 |  | baptle/Z-Image-Japan-ExpertText-to-Image | Updated1 day ago | [Link](https://huggingface.co/baptle/Z-Image-Japan-Expert) |
 
 ## Text-to-Speech
 
@@ -5950,6 +5954,7 @@ Updated on 2026-01-23
 | 1.07k | 38 | nvidia/tts_hifiganText-to-Speech | UpdatedJun 29, 2022 | [Link](https://huggingface.co/nvidia/tts_hifigan) |
 | 2.04k | 37 | kakao-enterprise/vits-ljsText-to-Speech | UpdatedSep 7, 2023 | [Link](https://huggingface.co/kakao-enterprise/vits-ljs) |
 | Updatedabout 6 hours ago | 37 | pnnbao-ump/kani-tts-370m-vieText-to-Speech | 0.4B | [Link](https://huggingface.co/pnnbao-ump/kani-tts-370m-vie) |
+| Updated1 day ago | 35 | mlx-community/Qwen3-TTS-12Hz-0 | 0.3B | [Link](https://huggingface.co/mlx-community/Qwen3-TTS-12Hz-0.6B-CustomVoice-8bit) |
 | 375 | 34 | mrfakename/OpenF5-TTS-BaseText-to-Speech | Updatedabout 1 hour ago | [Link](https://huggingface.co/mrfakename/OpenF5-TTS-Base) |
 | 25 | 31 | amphion/VevoText-to-Speech | Updated10 days ago | [Link](https://huggingface.co/amphion/Vevo) |
 | Updatedabout 8 hours ago | 31 | aoi-ot/VibeVoice-LargeText-to-Speech | 9B | [Link](https://huggingface.co/aoi-ot/VibeVoice-Large) |
@@ -5979,6 +5984,7 @@ Updated on 2026-01-23
 | 179 | 16 | esnya/japanese_speecht5_ttsText-to-Speech | UpdatedAug 9, 2023 | [Link](https://huggingface.co/esnya/japanese_speecht5_tts) |
 | 147 | 15 | dangvansam/viet-ttsText-to-Speech | UpdatedDec 11, 2024 | [Link](https://huggingface.co/dangvansam/viet-tts) |
 | Updatedabout 18 hours ago | 15 | samuel-vitorino/soproText-to-Speech | 0.2B | [Link](https://huggingface.co/samuel-vitorino/sopro) |
+| 11 | 15 | YatharthS/LuxTTSText-to-Speech | Updatedabout 5 hours ago | [Link](https://huggingface.co/YatharthS/LuxTTS) |
 | 2.61k | 14 | SPRINGLab/F5-Hindi-24KHzText-to-Speech | UpdatedJan 1 | [Link](https://huggingface.co/SPRINGLab/F5-Hindi-24KHz) |
 | Updated8 days ago | 14 | niobures/OuteTTSText-to-Speech | 1B | [Link](https://huggingface.co/niobures/OuteTTS) |
 | 6 | 13 | OuteAI/Llama-OuteTTS-1 | Updatedabout 2 hours ago | [Link](https://huggingface.co/OuteAI/Llama-OuteTTS-1.0-1B) |
