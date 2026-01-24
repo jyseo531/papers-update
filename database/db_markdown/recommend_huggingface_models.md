@@ -2437,6 +2437,7 @@ Updated on 2026-01-24
 | 41 | 9 | rsshekhawat/Qwen-Edit-3DChibi-LoRAImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/rsshekhawat/Qwen-Edit-3DChibi-LoRA) |
 | 25 | 9 | nvidia/ChronoEdit-14B-Diffusers-Paint-Brush-LoraImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/nvidia/ChronoEdit-14B-Diffusers-Paint-Brush-Lora) |
 | 344 | 9 | YaoJiefu/Line-drawing-generates-special-effectsImage-to-Image | Updated18 days ago | [Link](https://huggingface.co/YaoJiefu/Line-drawing-generates-special-effects) |
+|  | 9 | fal/flux-2-klein-4B-object-remove-loraImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/fal/flux-2-klein-4B-object-remove-lora) |
 | 59 | 8 | qualcomm/AOT-GANImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/qualcomm/AOT-GAN) |
 |  | 8 | xuminglong/kontext-tryon7Image-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/xuminglong/kontext-tryon7) |
 | 160 | 8 | Jamichsu/Stream-DiffVSRImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/Jamichsu/Stream-DiffVSR) |
@@ -4810,6 +4811,7 @@ Updated on 2026-01-24
 | 1.49k | 43 | OmniSVG/OmniSVGText | Updated1 day ago | [Link](https://huggingface.co/OmniSVG/OmniSVG) |
 | Updated23 minutes ago | 43 | Qwen/Qwen3-Next-80B-A3B-ThinkingText | 81B | [Link](https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Thinking) |
 | 3.37k | 42 | Qwen/QwQ-32B-AWQText | Updatedabout 3 hours ago | [Link](https://huggingface.co/Qwen/QwQ-32B-AWQ) |
+| Updated1 day ago | 42 | ByteDance-Seed/Stable-DiffCoder-8B-InstructText | 8B | [Link](https://huggingface.co/ByteDance-Seed/Stable-DiffCoder-8B-Instruct) |
 | 796 | 41 | inclusionAI/Ling-liteText | Updated1 day ago | [Link](https://huggingface.co/inclusionAI/Ling-lite) |
 | 75 | 41 | tngtech/DeepSeek-R1T-ChimeraText | Updatedabout 1 hour ago | [Link](https://huggingface.co/tngtech/DeepSeek-R1T-Chimera) |
 | Updatedabout 19 hours ago | 41 | tencent/Hunyuan-A13B-Instruct-FP8Text | 80B | [Link](https://huggingface.co/tencent/Hunyuan-A13B-Instruct-FP8) |
@@ -5867,6 +5869,7 @@ Updated on 2026-01-24
 | 1.17k |  | RomixERR/Pornmaster_v1-Z-Images-TurboText-to-Image | Updated27 days ago | [Link](https://huggingface.co/RomixERR/Pornmaster_v1-Z-Images-Turbo) |
 | 10 | Unknown | QuantFunc/Nunchaku-Qwen-Image-2512Text-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/QuantFunc/Nunchaku-Qwen-Image-2512) |
 | 4 |  | baptle/Z-Image-Japan-ExpertText-to-Image | Updated1 day ago | [Link](https://huggingface.co/baptle/Z-Image-Japan-Expert) |
+| 97 |  | AIImageStudio/RadianceChromeVoluptuous_z_image_turbo_v1 | Updated4 days ago | [Link](https://huggingface.co/AIImageStudio/RadianceChromeVoluptuous_z_image_turbo_v1.0) |
 
 ## Text-to-Speech
 
