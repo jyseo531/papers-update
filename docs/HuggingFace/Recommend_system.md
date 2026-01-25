@@ -5636,6 +5636,7 @@ Updated on 2026-01-25
 | 333 | 6 | GuangyuanSD/Z-Image-Re-Turbo-LoRAText-to-Image | Updated6 days ago | [Link](https://huggingface.co/GuangyuanSD/Z-Image-Re-Turbo-LoRA) |
 | 431 | 6 | unsloth/Qwen-Image-2512-unsloth-bnb-4bitText-to-Image | Updated4 days ago | [Link](https://huggingface.co/unsloth/Qwen-Image-2512-unsloth-bnb-4bit) |
 | 890 | 6 | Disty0/FLUX | Updated5 days ago | [Link](https://huggingface.co/Disty0/FLUX.2-klein-9B-SDNQ-4bit-dynamic-svd-r32) |
+| 154 | 6 | DeverStyle/Flux | Updatedabout 15 hours ago | [Link](https://huggingface.co/DeverStyle/Flux.2-Klein-Loras) |
 | 42 | 5 | Shakker-Labs/RepTextText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Shakker-Labs/RepText) |
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
