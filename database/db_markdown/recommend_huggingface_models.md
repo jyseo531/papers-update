@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-01-24
+Updated on 2026-01-25
 
 > Generated from the Hugging Face database.
 
@@ -2738,6 +2738,7 @@ Updated on 2026-01-24
 | Updated21 days ago | 510 | AiAsistent/gemma-3-4b-it-Cognitive-LibertyImage-to-Text | 4B | [Link](https://huggingface.co/AiAsistent/gemma-3-4b-it-Cognitive-Liberty) |
 | Updated4 days ago | 485 | mradermacher/Qwen2 | 8B | [Link](https://huggingface.co/mradermacher/Qwen2.5-VL-7B-Abliterated-Caption-it-GGUF) |
 | Updated20 days ago | 480 | sanchit97/chart-rvr-3bImage-to-Text | 4B | [Link](https://huggingface.co/sanchit97/chart-rvr-3b) |
+| Updated1 day ago | 471 | noctrex/LightOnOCR-2-1B-GGUFImage-to-Text | 0.6B | [Link](https://huggingface.co/noctrex/LightOnOCR-2-1B-GGUF) |
 | UpdatedAug 26, 2024 | 467 | LeroyDyer/SpydazWebAI_Image_ProjectorsImage-to-Text | 7B | [Link](https://huggingface.co/LeroyDyer/SpydazWebAI_Image_Projectors) |
 | UpdatedJan 6, 2024 | 441 | Ransaka/TrOCR-SinhalaImage-to-Text | 0.3B | [Link](https://huggingface.co/Ransaka/TrOCR-Sinhala) |
 | UpdatedSep 28 | 436 | mradermacher/dunhuang-qwen2 | 8B | [Link](https://huggingface.co/mradermacher/dunhuang-qwen2.5-vl-7b-GGUF) |
@@ -2960,6 +2961,7 @@ Updated on 2026-01-24
 | UpdatedJun 22, 2024 | 4 | ryomenkizaru/model-ocr-invoice-banghid-v1Image-to-Text | 0.2B | [Link](https://huggingface.co/ryomenkizaru/model-ocr-invoice-banghid-v1) |
 | 79 | 4 | hezarai/trocr-base-fa-v2Image-to-Text | UpdatedNov 14, 2024 | [Link](https://huggingface.co/hezarai/trocr-base-fa-v2) |
 | Updated7 days ago | 4 | OralGPT/OralGPT-Omni-7B-InstructImage-to-Text | 8B | [Link](https://huggingface.co/OralGPT/OralGPT-Omni-7B-Instruct) |
+| 87 | 4 | mrrtmob/kiri-ocrImage-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/mrrtmob/kiri-ocr) |
 | 299 | 3 | cnmoro/nano-image-captioningImage-to-Text | Updatedabout 1 month ago | [Link](https://huggingface.co/cnmoro/nano-image-captioning) |
 | 45 | 3 | braintacles/brainblipImage-to-Text | UpdatedJun 27, 2024 | [Link](https://huggingface.co/braintacles/brainblip) |
 | 55 | 3 | sbintuitions/sarashina2-vision-8bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-8b) |
@@ -5870,6 +5872,7 @@ Updated on 2026-01-24
 | 10 | Unknown | QuantFunc/Nunchaku-Qwen-Image-2512Text-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/QuantFunc/Nunchaku-Qwen-Image-2512) |
 | 4 |  | baptle/Z-Image-Japan-ExpertText-to-Image | Updated1 day ago | [Link](https://huggingface.co/baptle/Z-Image-Japan-Expert) |
 | 97 |  | AIImageStudio/RadianceChromeVoluptuous_z_image_turbo_v1 | Updated4 days ago | [Link](https://huggingface.co/AIImageStudio/RadianceChromeVoluptuous_z_image_turbo_v1.0) |
+| 14 | Unknown | lodestones/Chroma2-KaleidoscopeText-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/lodestones/Chroma2-Kaleidoscope) |
 
 ## Text-to-Speech
 
@@ -5952,6 +5955,7 @@ Updated on 2026-01-24
 | 38.3k | 48 | SWivid/E2-TTSText-to-Speech | UpdatedMar 12 | [Link](https://huggingface.co/SWivid/E2-TTS) |
 | 73.1k | 45 | onnx-community/Kokoro-82M-v1 | Updated17 days ago | [Link](https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX) |
 | 482 | 44 | nvidia/magpie_tts_multilingual_357mText-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/nvidia/magpie_tts_multilingual_357m) |
+| Updatedabout 1 month ago | 41 | Anilosan15/kani-tts-400m-0 | 0.4B | [Link](https://huggingface.co/Anilosan15/kani-tts-400m-0.3-tr) |
 | 5.2k | 39 | speechbrain/tts-hifigan-ljspeechText-to-Speech | UpdatedFeb 25, 2024 | [Link](https://huggingface.co/speechbrain/tts-hifigan-ljspeech) |
 | Updatedabout 23 hours ago | 39 | ekwek/Soprano-80MText-to-Speech | 79.7M | [Link](https://huggingface.co/ekwek/Soprano-80M) |
 | 1.07k | 38 | nvidia/tts_hifiganText-to-Speech | UpdatedJun 29, 2022 | [Link](https://huggingface.co/nvidia/tts_hifigan) |
@@ -6194,6 +6198,7 @@ Updated on 2026-01-24
 | 5 | Unknown | kyutai/pocket-tts-without-voice-cloningText-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/kyutai/pocket-tts-without-voice-cloning) |
 | 5 | Unknown | ayousanz/cosy-voice3-onnxText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/ayousanz/cosy-voice3-onnx) |
 | 5 | Unknown | KevinAHM/pocket-tts-onnxText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/KevinAHM/pocket-tts-onnx) |
+| 7 | Unknown | Anilosan15/Dia-1 | Updatedabout 1 month ago | [Link](https://huggingface.co/Anilosan15/Dia-1.6B-tr) |
 
 ## Text-to-Video
 
@@ -6458,6 +6463,8 @@ Updated on 2026-01-24
 | 10 | Unknown | Linum-AI/linum-v2-720pText-to-Video | Updated3 days ago | [Link](https://huggingface.co/Linum-AI/linum-v2-720p) |
 | 1 | Unknown | Vibek/OpText-to-Video | UpdatedMay 14, 2023 | [Link](https://huggingface.co/Vibek/Op) |
 | 1 | Unknown | Mesnyankin/KkkText-to-Video | UpdatedMay 18, 2023 | [Link](https://huggingface.co/Mesnyankin/Kkk) |
+| 1 | Unknown | thinkamconnect/ThinkSitesText-to-Video | UpdatedJun 25, 2023 | [Link](https://huggingface.co/thinkamconnect/ThinkSites) |
+| 1 | Unknown | Tyffuss86/PolskText-to-Video | UpdatedJul 7, 2023 | [Link](https://huggingface.co/Tyffuss86/Polsk) |
 
 ## Text2Text Generation
 
