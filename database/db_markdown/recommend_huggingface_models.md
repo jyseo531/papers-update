@@ -2196,6 +2196,7 @@ Updated on 2026-01-26
 | Updatedabout 4 hours ago | 1.44k | browser-use/bu-30b-a3b-previewImage-Text-to-Text | 31B | [Link](https://huggingface.co/browser-use/bu-30b-a3b-preview) |
 | Updatedabout 6 hours ago | 1.45k | stepfun-ai/GELab-Zero-4B-previewImage-Text-to-Text | 4B | [Link](https://huggingface.co/stepfun-ai/GELab-Zero-4B-preview) |
 | Updatedabout 4 hours ago | 1.59k | Tongyi-MAI/MAI-UI-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/Tongyi-MAI/MAI-UI-8B) |
+| Updated5 days ago | 1.04k | lightonai/LightOnOCR-2-1B-bbox-soupImage-Text-to-Text | 1B | [Link](https://huggingface.co/lightonai/LightOnOCR-2-1B-bbox-soup) |
 | 1.07M |  | meta-llama/Llama-3 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) |
 | 1.49M |  | Qwen/Qwen2-VL-7B-InstructImage-Text-to-Text | Updated19 days ago | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) |
 | 288k |  | microsoft/Phi-3 | UpdatedSep 26, 2024 | [Link](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) |
@@ -2813,6 +2814,7 @@ Updated on 2026-01-26
 | UpdatedMay 18, 2024 | 41 | moranyanuka/blip-image-captioning-large-mochaImage-to-Text | 0.5B | [Link](https://huggingface.co/moranyanuka/blip-image-captioning-large-mocha) |
 | 246 | 40 | selvakumarcts/sk_invoice_receiptsImage-to-Text | UpdatedOct 20, 2023 | [Link](https://huggingface.co/selvakumarcts/sk_invoice_receipts) |
 | 573 | 39 | katanaml-org/invoices-donut-model-v1Image-to-Text | UpdatedMay 11, 2023 | [Link](https://huggingface.co/katanaml-org/invoices-donut-model-v1) |
+| UpdatedNov 4, 2023 | 38.2k | adept/fuyu-8bImage-to-Text | 9B | [Link](https://huggingface.co/adept/fuyu-8b) |
 | 7.54k | 36 | breezedeus/pix2text-mfrImage-to-Text | UpdatedMay 5, 2024 | [Link](https://huggingface.co/breezedeus/pix2text-mfr) |
 | Updated1 day ago | 36 | helizac/dots | 2B | [Link](https://huggingface.co/helizac/dots.ocr-4bit) |
 | UpdatedJul 6, 2024 | 36 | medieval-data/trocr-medieval-printImage-to-Text | 0.3B | [Link](https://huggingface.co/medieval-data/trocr-medieval-print) |
