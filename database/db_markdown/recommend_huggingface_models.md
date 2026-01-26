@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-01-25
+Updated on 2026-01-26
 
 > Generated from the Hugging Face database.
 
@@ -2793,6 +2793,7 @@ Updated on 2026-01-25
 | 8.31k | 64 | alibaba-damo/mgp-str-baseImage-to-Text | UpdatedDec 11, 2023 | [Link](https://huggingface.co/alibaba-damo/mgp-str-base) |
 | UpdatedMar 25, 2024 | 61 | emisilab/model-ocr-ktp-v1Image-to-Text | 0.2B | [Link](https://huggingface.co/emisilab/model-ocr-ktp-v1) |
 | Updated1 day ago | 56 | huihui-ai/Huihui-Devstral-Small-2-24B-Instruct-2512-abliteratedImage-to-Text | 24B | [Link](https://huggingface.co/huihui-ai/Huihui-Devstral-Small-2-24B-Instruct-2512-abliterated) |
+| UpdatedOct 14, 2025 | 56 | Disty0/Florence-2-large-PromptGen-v2 | 0.8B | [Link](https://huggingface.co/Disty0/Florence-2-large-PromptGen-v2.0) |
 | UpdatedApr 17, 2024 | 54 | hoang-quoc-trung/sumen-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/hoang-quoc-trung/sumen-base) |
 | UpdatedAug 30, 2024 | 51.3k | U4R/StructTable-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/U4R/StructTable-base) |
 | Updatedabout 17 hours ago | 50 | Qwen/Qwen3-VL-Embedding-8BImage-to-Text | 8B | [Link](https://huggingface.co/Qwen/Qwen3-VL-Embedding-8B) |
@@ -5033,6 +5034,7 @@ Updated on 2026-01-25
 | Updatedabout 6 hours ago | 17 | tngtech/DeepSeek-TNG-R1T2-ChimeraText | 685B | [Link](https://huggingface.co/tngtech/DeepSeek-TNG-R1T2-Chimera) |
 | Updated1 day ago | 17 | inclusionAI/Ring-mini-linear-2 | 16B | [Link](https://huggingface.co/inclusionAI/Ring-mini-linear-2.0) |
 | Updatedabout 5 hours ago | 17 | bartowski/mistralai_Devstral-Small-2-24B-Instruct-2512-GGUFText | 24B | [Link](https://huggingface.co/bartowski/mistralai_Devstral-Small-2-24B-Instruct-2512-GGUF) |
+| Updated2 days ago | 17 | meituan-longcat/LongCat-Flash-Thinking-ZigZagText | 562B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Thinking-ZigZag) |
 | 938 | 16 | ubergarm/DeepSeek-V3-0324-GGUFText | Updated3 days ago | [Link](https://huggingface.co/ubergarm/DeepSeek-V3-0324-GGUF) |
 | 2.09k | 16 | google/gemma-3-1b-it-qat-q4_0-ggufText | Updated3 days ago | [Link](https://huggingface.co/google/gemma-3-1b-it-qat-q4_0-gguf) |
 | 2.94k | 16 | nvidia/AceMath-RL-Nemotron-7BText | Updated4 days ago | [Link](https://huggingface.co/nvidia/AceMath-RL-Nemotron-7B) |
