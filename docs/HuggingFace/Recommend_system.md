@@ -4992,6 +4992,7 @@ Updated on 2026-01-26
 | Updated1 day ago | 21 | nvidia/OpenCodeReasoning-Nemotron-1 | 33B | [Link](https://huggingface.co/nvidia/OpenCodeReasoning-Nemotron-1.1-32B) |
 | Updatedabout 13 hours ago | 21 | Qwen/Qwen3-30B-A3B-Instruct-2507Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507) |
 | Updatedabout 10 hours ago | 21 | inclusionAI/Ring-liteText | 17B | [Link](https://huggingface.co/inclusionAI/Ring-lite) |
+| Updatedabout 7 hours ago | 21 | nota-ai/Solar-Open-100B-NotaMoEQuant-Int4Text | 2B | [Link](https://huggingface.co/nota-ai/Solar-Open-100B-NotaMoEQuant-Int4) |
 | 335 | 20 | google/txgemma-27b-chatText | Updated2 days ago | [Link](https://huggingface.co/google/txgemma-27b-chat) |
 | 473 | 20 | google/txgemma-9b-chatText | Updated4 days ago | [Link](https://huggingface.co/google/txgemma-9b-chat) |
 | 15 | 20 | Intelligent-Internet/II-Medical-8B-1706Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/Intelligent-Internet/II-Medical-8B-1706) |
