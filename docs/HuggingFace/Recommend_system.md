@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-01-26
+Updated on 2026-01-27
 
 > Generated from the Hugging Face database.
 
@@ -8,6 +8,7 @@ Updated on 2026-01-26
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
 | 617k | 999 | openbmb/MiniCPM-o-2_6Any-to-Any | Updated5 days ago | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6) |
+| UpdatedSep 28, 2025 | 832 | cyankiwi/Qwen3-Omni-30B-A3B-Thinking-AWQ-4bitAny-to-Any | 6B | [Link](https://huggingface.co/cyankiwi/Qwen3-Omni-30B-A3B-Thinking-AWQ-4bit) |
 | UpdatedJun 9 | 806 | RedHatAI/gemma-3-4b-it-quantized | 2B | [Link](https://huggingface.co/RedHatAI/gemma-3-4b-it-quantized.w4a16) |
 | Updated6 days ago | 798 | modelscope/Nexus-GenAny-to-Any | 8B | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | UpdatedApr 9, 2025 | 728 | meta-llama/Llama-4-Maverick-17B-128EAny-to-Any | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E) |
@@ -2721,6 +2722,7 @@ Updated on 2026-01-26
 | 1.13k |  | prithivMLmods/Qwen-Image-Edit-2511-Polaroid-PhotoImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-2511-Polaroid-Photo) |
 | 12 | Unknown | QuantFunc/Nunchaku-Qwen-Image-EDIT-2511Image-to-Image | Updatedabout 16 hours ago | [Link](https://huggingface.co/QuantFunc/Nunchaku-Qwen-Image-EDIT-2511) |
 | 91 |  | lilylilith/QIE-2511-MP-AnyLightImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/lilylilith/QIE-2511-MP-AnyLight) |
+| 692 |  | prithivMLmods/QIE-2511-Zoom-MasterImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/prithivMLmods/QIE-2511-Zoom-Master) |
 
 ## Image-to-Text
 
@@ -2787,6 +2789,7 @@ Updated on 2026-01-26
 | UpdatedNov 19, 2024 | 77 | ashok2216/vit-gpt2-image-captioning_COCO_FineTunedImage-to-Text | 0.2B | [Link](https://huggingface.co/ashok2216/vit-gpt2-image-captioning_COCO_FineTuned) |
 | 2.27k | 77 | lightonai/LightOnOCR-1B-1025Image-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/lightonai/LightOnOCR-1B-1025) |
 | 131 | 71 | keras-io/ocr-for-captchaImage-to-Text | UpdatedMay 29, 2022 | [Link](https://huggingface.co/keras-io/ocr-for-captcha) |
+| Updated5 days ago | 70 | virtuous7373/Lambent-Mira-EratoImage-to-Text | 27B | [Link](https://huggingface.co/virtuous7373/Lambent-Mira-Erato) |
 | UpdatedSep 24, 2024 | 69 | impactframes/Qwen2-VL-7B-CaptionerImage-to-Text | 8B | [Link](https://huggingface.co/impactframes/Qwen2-VL-7B-Captioner) |
 | Updated6 days ago | 68 | smolagents/Qwen2 | 4B | [Link](https://huggingface.co/smolagents/Qwen2.5-VL-3B-Instruct-Agentic) |
 | UpdatedJul 22, 2024 | 68 | lenamerkli/ingredient-scannerImage-to-Text | 0.5B | [Link](https://huggingface.co/lenamerkli/ingredient-scanner) |
