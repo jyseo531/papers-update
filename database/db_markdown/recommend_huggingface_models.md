@@ -2871,6 +2871,7 @@ Updated on 2026-01-28
 | 207 | 16 | bipin/image-caption-generatorImage-to-Text | UpdatedJul 27, 2024 | [Link](https://huggingface.co/bipin/image-caption-generator) |
 | UpdatedSep 20, 2024 | 16 | xeko56/simple-html-generator-tokensImage-to-Text | 0.2B | [Link](https://huggingface.co/xeko56/simple-html-generator-tokens) |
 | UpdatedOct 31, 2024 | 16.1k | royokong/e5-vImage-to-Text | 8B | [Link](https://huggingface.co/royokong/e5-v) |
+| Updatedabout 19 hours ago | 16 | principled-intelligence/scope-guard-4B-g-2601Image-to-Text | 4B | [Link](https://huggingface.co/principled-intelligence/scope-guard-4B-g-2601) |
 | 225 | 15 | DunnBC22/trocr-base-handwritten-OCR-handwriting_recognition_v2Image-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-base-handwritten-OCR-handwriting_recognition_v2) |
 | 1.31k | 15 | microsoft/git-largeImage-to-Text | UpdatedFeb 8, 2023 | [Link](https://huggingface.co/microsoft/git-large) |
 | 11.5k | 15 | Salesforce/blip2-flan-t5-xl-cocoImage-to-Text | UpdatedFeb 3 | [Link](https://huggingface.co/Salesforce/blip2-flan-t5-xl-coco) |
@@ -4879,6 +4880,7 @@ Updated on 2026-01-28
 | Updatedabout 14 hours ago | 33 | inclusionAI/Ring-flash-2 | 103B | [Link](https://huggingface.co/inclusionAI/Ring-flash-2.0) |
 | Updatedabout 2 hours ago | 33 | inclusionAI/Ring-1TText | 1000B | [Link](https://huggingface.co/inclusionAI/Ring-1T) |
 | Updated1 day ago | 33 | XiaomiMiMo/MiMo-V2-Flash-BaseText | 310B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash-Base) |
+| Updatedabout 16 hours ago | 33 | arcee-ai/Trinity-Large-TrueBaseText | 399B | [Link](https://huggingface.co/arcee-ai/Trinity-Large-TrueBase) |
 | 5.81k | 32 | trillionlabs/Trillion-7B-previewText | Updatedabout 3 hours ago | [Link](https://huggingface.co/trillionlabs/Trillion-7B-preview) |
 | 224 | 32 | JetBrains/Mellum-4b-sft-pythonText | Updated6 days ago | [Link](https://huggingface.co/JetBrains/Mellum-4b-sft-python) |
 | 131 | 32 | nvidia/AceReason-Nemotron-14BText | Updatedabout 3 hours ago | [Link](https://huggingface.co/nvidia/AceReason-Nemotron-14B) |
@@ -4933,6 +4935,7 @@ Updated on 2026-01-28
 | 54 | 27 | openbmb/MiniCPM4-8BText | Updatedabout 3 hours ago | [Link](https://huggingface.co/openbmb/MiniCPM4-8B) |
 | Updatedabout 4 hours ago | 27 | microsoft/UserLM-8bText | 8B | [Link](https://huggingface.co/microsoft/UserLM-8b) |
 | Updatedabout 19 hours ago | 27 | IQuestLab/IQuest-Coder-V1-40B-Loop-InstructText | 40B | [Link](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Loop-Instruct) |
+| Updatedabout 16 hours ago | 27 | arcee-ai/Trinity-Large-BaseText | 399B | [Link](https://huggingface.co/arcee-ai/Trinity-Large-Base) |
 | 7.18k | 26 | bartowski/RekaAI_reka-flash-3-GGUFText | Updated2 days ago | [Link](https://huggingface.co/bartowski/RekaAI_reka-flash-3-GGUF) |
 | 499 | 26 | mixedbread-ai/mxbai-rerank-large-v2Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/mixedbread-ai/mxbai-rerank-large-v2) |
 | 1 | 26 | openfree/QwQ-32B-Q8_0-GGUFText | Updatedabout 7 hours ago | [Link](https://huggingface.co/openfree/QwQ-32B-Q8_0-GGUF) |
