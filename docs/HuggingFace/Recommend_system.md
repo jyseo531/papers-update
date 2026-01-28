@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-01-27
+Updated on 2026-01-28
 
 > Generated from the Hugging Face database.
 
@@ -2974,6 +2974,7 @@ Updated on 2026-01-27
 | 79 | 4 | hezarai/trocr-base-fa-v2Image-to-Text | UpdatedNov 14, 2024 | [Link](https://huggingface.co/hezarai/trocr-base-fa-v2) |
 | Updated7 days ago | 4 | OralGPT/OralGPT-Omni-7B-InstructImage-to-Text | 8B | [Link](https://huggingface.co/OralGPT/OralGPT-Omni-7B-Instruct) |
 | 87 | 4 | mrrtmob/kiri-ocrImage-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/mrrtmob/kiri-ocr) |
+| Updatedabout 14 hours ago | 4 | gateremark/kikuyu_translategemma_12b_mergedImage-to-Text | 13B | [Link](https://huggingface.co/gateremark/kikuyu_translategemma_12b_merged) |
 | 299 | 3 | cnmoro/nano-image-captioningImage-to-Text | Updatedabout 1 month ago | [Link](https://huggingface.co/cnmoro/nano-image-captioning) |
 | 45 | 3 | braintacles/brainblipImage-to-Text | UpdatedJun 27, 2024 | [Link](https://huggingface.co/braintacles/brainblip) |
 | 55 | 3 | sbintuitions/sarashina2-vision-8bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-8b) |
@@ -4994,6 +4995,7 @@ Updated on 2026-01-27
 | 10.2k | 22 | bartowski/THUDM_GLM-4-32B-0414-GGUFText | Updated6 days ago | [Link](https://huggingface.co/bartowski/THUDM_GLM-4-32B-0414-GGUF) |
 | 6.82k | 22 | bartowski/deepseek-ai_DeepSeek-R1-0528-Qwen3-8B-GGUFText | Updatedabout 23 hours ago | [Link](https://huggingface.co/bartowski/deepseek-ai_DeepSeek-R1-0528-Qwen3-8B-GGUF) |
 | Updated1 day ago | 22 | nota-ai/Solar-Open-100B-Nota-FP8Text | 103B | [Link](https://huggingface.co/nota-ai/Solar-Open-100B-Nota-FP8) |
+| Updatedabout 3 hours ago | 22 | arcee-ai/Trinity-Large-PreviewText | 399B | [Link](https://huggingface.co/arcee-ai/Trinity-Large-Preview) |
 | 34 | 21 | ai21labs/AI21-Jamba-Mini-1 | Updatedabout 13 hours ago | [Link](https://huggingface.co/ai21labs/AI21-Jamba-Mini-1.6) |
 | 7.93k | 21 | lmstudio-community/Llama-4-Scout-17B-16E-Instruct-GGUFText | Updated1 day ago | [Link](https://huggingface.co/lmstudio-community/Llama-4-Scout-17B-16E-Instruct-GGUF) |
 | 275 | 21 | ServiceNow-AI/Apriel-5B-InstructText | Updated3 days ago | [Link](https://huggingface.co/ServiceNow-AI/Apriel-5B-Instruct) |
@@ -5511,6 +5513,7 @@ Updated on 2026-01-27
 | 26.8k | 386 | ostris/Flex | UpdatedJan 19 | [Link](https://huggingface.co/ostris/Flex.1-alpha) |
 | 275 | 375 | dalle-mini/dalle-miniText-to-Image | UpdatedJan 11, 2023 | [Link](https://huggingface.co/dalle-mini/dalle-mini) |
 | 89.5k | 370 | OnomaAIResearch/Illustrious-xl-early-release-v0Text-to-Image | UpdatedFeb 13 | [Link](https://huggingface.co/OnomaAIResearch/Illustrious-xl-early-release-v0) |
+|  | 366 | Tongyi-MAI/Z-ImageText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/Tongyi-MAI/Z-Image) |
 | Updated7 days ago | 363 | leejet/FLUX | 4B | [Link](https://huggingface.co/leejet/FLUX.2-klein-base-4B-GGUF) |
 | 31.8k | 362 | thibaud/controlnet-openpose-sdxl-1 | UpdatedSep 3, 2023 | [Link](https://huggingface.co/thibaud/controlnet-openpose-sdxl-1.0) |
 | 8.52k | 350 | fofr/sdxl-emojiText-to-Image | UpdatedJun 27, 2024 | [Link](https://huggingface.co/fofr/sdxl-emoji) |
@@ -5554,6 +5557,7 @@ Updated on 2026-01-27
 | 1.59k | 29 | nunchaku-tech/nunchaku-z-image-turboText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-z-image-turbo) |
 | 145 | 28 | ByteDance/XVerseText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/ByteDance/XVerse) |
 | 41 | 26 | SG161222/SPARK | Updatedabout 17 hours ago | [Link](https://huggingface.co/SG161222/SPARK.Chroma_preview) |
+| Updatedabout 8 hours ago | 24 | jayn7/Z-Image-GGUFText-to-Image | 6B | [Link](https://huggingface.co/jayn7/Z-Image-GGUF) |
 | 8 | 22 | nunchaku-tech/nunchaku-qwen-image-edit-2509Text-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-qwen-image-edit-2509) |
 | Updatedabout 14 hours ago | 22 | purplesmartai/pony-v7-baseText-to-Image | 7B | [Link](https://huggingface.co/purplesmartai/pony-v7-base) |
 | 5.26k | 20 | mit-han-lab/svdq-int4-flux | Updated22 days ago | [Link](https://huggingface.co/mit-han-lab/svdq-int4-flux.1-dev) |
@@ -5638,6 +5642,7 @@ Updated on 2026-01-27
 | 810 | 7 | tsqn/Z-Image-Turbo_fp32-fp16-bf16_full_and_ema-onlyText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/tsqn/Z-Image-Turbo_fp32-fp16-bf16_full_and_ema-only) |
 | Updatedabout 21 hours ago | 7 | stepfun-ai/NextStep-1 | 15B | [Link](https://huggingface.co/stepfun-ai/NextStep-1.1) |
 | 181 | 7 | Danrisi/Lenovo_ChromaRadianceText-to-Image | Updated3 days ago | [Link](https://huggingface.co/Danrisi/Lenovo_ChromaRadiance) |
+| Updated11 minutes ago | 7 | unsloth/Z-Image-GGUFText-to-Image | 6B | [Link](https://huggingface.co/unsloth/Z-Image-GGUF) |
 | 1.07k | 6 | DFloat11/FLUX | Updated1 day ago | [Link](https://huggingface.co/DFloat11/FLUX.1-dev-DF11) |
 | 836 | 6 | Minthy/RouWei-0 | Updated3 days ago | [Link](https://huggingface.co/Minthy/RouWei-0.8) |
 | 169 | 6 | PosterCraft/PosterCraft-v1_RLText-to-Image | Updated2 days ago | [Link](https://huggingface.co/PosterCraft/PosterCraft-v1_RL) |
