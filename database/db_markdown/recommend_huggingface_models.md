@@ -1952,6 +1952,7 @@ Updated on 2026-01-29
 | 1.51k | 35 | unsloth/Llama-4-Scout-17B-16E-Instruct-unsloth-bnb-4bitImage-Text-to-Text | Updatedabout 2 hours ago | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct-unsloth-bnb-4bit) |
 | 810 | 35 | fancyfeast/llama-joycaption-beta-one-hf-llavaImage-Text-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/fancyfeast/llama-joycaption-beta-one-hf-llava) |
 | Updated5 days ago | 35.7k | unsloth/Qwen3-VL-8B-Instruct-GGUFImage-Text-to-Text | 8B | [Link](https://huggingface.co/unsloth/Qwen3-VL-8B-Instruct-GGUF) |
+| Updatedabout 3 hours ago | 35 | PaddlePaddle/PaddleOCR-VL-1 | 1.0B | [Link](https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.5) |
 | Updated4 days ago | 33 | prithivMLmods/Qwen2 | 8B | [Link](https://huggingface.co/prithivMLmods/Qwen2.5-VL-7B-Abliterated-Caption-it) |
 | 4.01k | 31 | google/paligemma2-3b-mix-448Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-3b-mix-448) |
 | Updatedabout 11 hours ago | 31.6k | YannQi/R-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/YannQi/R-4B) |
@@ -2735,6 +2736,7 @@ Updated on 2026-01-29
 
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
+| Updated5 days ago | 951 | noctrex/LightOnOCR-2-1B-ocr-soup-GGUFImage-to-Text | 0.6B | [Link](https://huggingface.co/noctrex/LightOnOCR-2-1B-ocr-soup-GGUF) |
 | UpdatedAug 25 | 929 | shenasa/persian-image-captioningImage-to-Text | 0.2B | [Link](https://huggingface.co/shenasa/persian-image-captioning) |
 | UpdatedJan 20 | 893 | HuggingFaceTB/SmolVLM-500M-BaseImage-to-Text | 0.5B | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-500M-Base) |
 | UpdatedApr 28 | 631 | Hyphonical/Pixtral-12B-Captioner-Relaxed-Q4_K_M-GGUFImage-to-Text | 12B | [Link](https://huggingface.co/Hyphonical/Pixtral-12B-Captioner-Relaxed-Q4_K_M-GGUF) |
@@ -5106,6 +5108,7 @@ Updated on 2026-01-29
 | UpdatedDec 9, 2024 | 7.08k | utter-project/EuroLLM-9BText | 9B | [Link](https://huggingface.co/utter-project/EuroLLM-9B) |
 | Updatedabout 2 hours ago | 7.91k | moonshotai/Kimi-Linear-48B-A3B-InstructText | 49B | [Link](https://huggingface.co/moonshotai/Kimi-Linear-48B-A3B-Instruct) |
 | Updated3 days ago | 7.04k | bartowski/PrimeIntellect_INTELLECT-3-GGUFText | 107B | [Link](https://huggingface.co/bartowski/PrimeIntellect_INTELLECT-3-GGUF) |
+| Updatedabout 20 hours ago | 7.1k | nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-NVFP4Text | 18B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-NVFP4) |
 | 578k | 6.11k | meta-llama/Meta-Llama-3-8BText | UpdatedSep 27, 2024 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) |
 | Updatedabout 18 hours ago | 6 | apple/sage-ft-mixtral-8x7bText | 47B | [Link](https://huggingface.co/apple/sage-ft-mixtral-8x7b) |
 | Updated5 days ago | 6.94k | mistralai/Devstral-Small-2507_ggufText | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2507_gguf) |
@@ -5601,6 +5604,7 @@ Updated on 2026-01-29
 | 77 | 11 | Kwai-Kolors/CoTyleText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/Kwai-Kolors/CoTyle) |
 |  | 11 | bdsqlsz/qinglong_DetailedEyes_Z-ImageText-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/bdsqlsz/qinglong_DetailedEyes_Z-Image) |
 |  | 11 | ostris/zimage_turbo_training_adapterText-to-Image | Updated5 minutes ago | [Link](https://huggingface.co/ostris/zimage_turbo_training_adapter) |
+| 43 | 11 | WarmBloodAban/Flux2_Klein_Anything_to_Real_CharactersText-to-Image | Updated1 day ago | [Link](https://huggingface.co/WarmBloodAban/Flux2_Klein_Anything_to_Real_Characters) |
 |  | 10 | strangerzonehf/Real-ClaymationText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/strangerzonehf/Real-Claymation) |
 | 17 | 10 | zhang0jhon/flux_waveletText-to-Image | Updated5 days ago | [Link](https://huggingface.co/zhang0jhon/flux_wavelet) |
 | 36 | 10 | codermert/ozgeefinalText-to-Image | Updated6 days ago | [Link](https://huggingface.co/codermert/ozgeefinal) |
@@ -5943,8 +5947,10 @@ Updated on 2026-01-29
 | Updatedabout 4 hours ago | 214 | neuphonic/neutts-nanoText-to-Speech | 0.3B | [Link](https://huggingface.co/neuphonic/neutts-nano) |
 | 27.5k | 194 | suno/bark-smallText-to-Speech | UpdatedNov 10, 2023 | [Link](https://huggingface.co/suno/bark-small) |
 | Updated3 days ago | 182 | fnlp/MOSS-TTSD-v0 | 2B | [Link](https://huggingface.co/fnlp/MOSS-TTSD-v0.5) |
+| Updatedabout 5 hours ago | 169k | Qwen/Qwen3-TTS-12Hz-1 | 2B | [Link](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice) |
 | Updated1 day ago | 164 | kugelaudio/kugelaudio-0-openText-to-Speech | 9B | [Link](https://huggingface.co/kugelaudio/kugelaudio-0-open) |
 | Updatedabout 8 hours ago | 160 | neuphonic/neutts-airText-to-Speech | 0.7B | [Link](https://huggingface.co/neuphonic/neutts-air) |
+| 86.4k | 142 | Qwen/Qwen3-TTS-12Hz-0 | Updatedabout 5 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-0.6B-Base) |
 | 1.22k | 141 | stepfun-ai/Step-Audio-TTS-3BText-to-Speech | Updated8 days ago | [Link](https://huggingface.co/stepfun-ai/Step-Audio-TTS-3B) |
 | UpdatedSep 1, 2023 | 141 | facebook/mms-tts-tgkText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-tgk) |
 | 18.2k | 136 | parler-tts/parler-tts-mini-v1Text-to-Speech | UpdatedNov 25, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-mini-v1) |
