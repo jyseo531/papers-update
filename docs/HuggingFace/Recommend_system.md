@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-01-28
+Updated on 2026-01-29
 
 > Generated from the Hugging Face database.
 
@@ -2729,6 +2729,7 @@ Updated on 2026-01-28
 | 12 | Unknown | QuantFunc/Nunchaku-Qwen-Image-EDIT-2511Image-to-Image | Updatedabout 16 hours ago | [Link](https://huggingface.co/QuantFunc/Nunchaku-Qwen-Image-EDIT-2511) |
 | 91 |  | lilylilith/QIE-2511-MP-AnyLightImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/lilylilith/QIE-2511-MP-AnyLight) |
 | 692 |  | prithivMLmods/QIE-2511-Zoom-MasterImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/prithivMLmods/QIE-2511-Zoom-Master) |
+| 15 | Unknown | fashn-ai/fashn-vton-1 | Updated9 days ago | [Link](https://huggingface.co/fashn-ai/fashn-vton-1.5) |
 
 ## Image-to-Text
 
@@ -4826,6 +4827,7 @@ Updated on 2026-01-28
 | Updatedabout 10 hours ago | 43 | LiquidAI/LFM2-350MText | 0.4B | [Link](https://huggingface.co/LiquidAI/LFM2-350M) |
 | 1.49k | 43 | OmniSVG/OmniSVGText | Updated1 day ago | [Link](https://huggingface.co/OmniSVG/OmniSVG) |
 | Updated23 minutes ago | 43 | Qwen/Qwen3-Next-80B-A3B-ThinkingText | 81B | [Link](https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Thinking) |
+| Updatedabout 10 hours ago | 43 | meituan-longcat/LongCat-Flash-LiteText | 100B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Lite) |
 | 3.37k | 42 | Qwen/QwQ-32B-AWQText | Updatedabout 3 hours ago | [Link](https://huggingface.co/Qwen/QwQ-32B-AWQ) |
 | Updated1 day ago | 42 | ByteDance-Seed/Stable-DiffCoder-8B-InstructText | 8B | [Link](https://huggingface.co/ByteDance-Seed/Stable-DiffCoder-8B-Instruct) |
 | 796 | 41 | inclusionAI/Ling-liteText | Updated1 day ago | [Link](https://huggingface.co/inclusionAI/Ling-lite) |
