@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-01-29
+Updated on 2026-01-30
 
 > Generated from the Hugging Face database.
 
@@ -262,6 +262,7 @@ Updated on 2026-01-29
 | 1 | Unknown | miche8082/omega_i4glzAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/miche8082/omega_i4glz) |
 | 1 | Unknown | james1600/omega_i3vs8Any-to-Any | Updated7 days ago | [Link](https://huggingface.co/james1600/omega_i3vs8) |
 | 4 | Unknown | Skywork/Unipic3Any-to-Any | Updated1 day ago | [Link](https://huggingface.co/Skywork/Unipic3) |
+| 4 | Unknown | Lightricks/LTX-2-19b-IC-LoRA-Union-ControlAny-to-Any | Updatedabout 5 hours ago | [Link](https://huggingface.co/Lightricks/LTX-2-19b-IC-LoRA-Union-Control) |
 
 ## Audio Classification
 
@@ -2204,6 +2205,7 @@ Updated on 2026-01-29
 | Updatedabout 6 hours ago | 1.45k | stepfun-ai/GELab-Zero-4B-previewImage-Text-to-Text | 4B | [Link](https://huggingface.co/stepfun-ai/GELab-Zero-4B-preview) |
 | Updatedabout 4 hours ago | 1.59k | Tongyi-MAI/MAI-UI-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/Tongyi-MAI/MAI-UI-8B) |
 | Updated5 days ago | 1.04k | lightonai/LightOnOCR-2-1B-bbox-soupImage-Text-to-Text | 1B | [Link](https://huggingface.co/lightonai/LightOnOCR-2-1B-bbox-soup) |
+| Updatedabout 19 hours ago | 1.28k | unsloth/DeepSeek-OCR-2Image-Text-to-Text | 3B | [Link](https://huggingface.co/unsloth/DeepSeek-OCR-2) |
 | 1.07M |  | meta-llama/Llama-3 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) |
 | 1.49M |  | Qwen/Qwen2-VL-7B-InstructImage-Text-to-Text | Updated19 days ago | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) |
 | 288k |  | microsoft/Phi-3 | UpdatedSep 26, 2024 | [Link](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) |
