@@ -2735,6 +2735,8 @@ Updated on 2026-01-31
 | 91 |  | lilylilith/QIE-2511-MP-AnyLightImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/lilylilith/QIE-2511-MP-AnyLight) |
 | 692 |  | prithivMLmods/QIE-2511-Zoom-MasterImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/prithivMLmods/QIE-2511-Zoom-Master) |
 | 15 | Unknown | fashn-ai/fashn-vton-1 | Updated9 days ago | [Link](https://huggingface.co/fashn-ai/fashn-vton-1.5) |
+| 354 |  | nappa114514/Qwen-Image-Edit-2511-torn-clothesImage-to-Image | Updated27 days ago | [Link](https://huggingface.co/nappa114514/Qwen-Image-Edit-2511-torn-clothes) |
+| 64.1k |  | lrzjason/Anything2RealImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/lrzjason/Anything2Real) |
 
 ## Image-to-Text
 
