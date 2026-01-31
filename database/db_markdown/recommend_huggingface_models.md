@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-01-30
+Updated on 2026-01-31
 
 > Generated from the Hugging Face database.
 
@@ -5598,6 +5598,7 @@ Updated on 2026-01-30
 | Updated26 minutes ago | 13 | calcuis/hunyuanimage-ggufText-to-Image | 15B | [Link](https://huggingface.co/calcuis/hunyuanimage-gguf) |
 | 187 | 13 | tlennon-ie/qwen-edit-skinText-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/tlennon-ie/qwen-edit-skin) |
 | 7.11k | 13 | nphSi/Z-Image-LoraText-to-Image | Updated40 minutes ago | [Link](https://huggingface.co/nphSi/Z-Image-Lora) |
+| Updated40 minutes ago | 13 | wikeeyang/Z-Image-Turbo-ArtText-to-Image | 6B | [Link](https://huggingface.co/wikeeyang/Z-Image-Turbo-Art) |
 | 217 | 12 | city96/HiDream-I1-Dev-ggufText-to-Image | Updated1 day ago | [Link](https://huggingface.co/city96/HiDream-I1-Dev-gguf) |
 | Updatedabout 4 hours ago | 12 | stepfun-ai/NextStep-1-LargeText-to-Image | 15B | [Link](https://huggingface.co/stepfun-ai/NextStep-1-Large) |
 | 59 | 12 | bytedance-research/UMOText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/bytedance-research/UMO) |
