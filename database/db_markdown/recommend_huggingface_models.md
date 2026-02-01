@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-01-31
+Updated on 2026-02-01
 
 > Generated from the Hugging Face database.
 
@@ -5095,6 +5095,7 @@ Updated on 2026-01-31
 | 57 | 14 | katanemo/Arch-Agent-32BText | Updated3 days ago | [Link](https://huggingface.co/katanemo/Arch-Agent-32B) |
 | Updatedabout 11 hours ago | 14 | CohereLabs/command-a-translate-08-2025Text | 111B | [Link](https://huggingface.co/CohereLabs/command-a-translate-08-2025) |
 | Updated1 day ago | 14 | nvidia/Nemotron-Cascade-14B-ThinkingText | 15B | [Link](https://huggingface.co/nvidia/Nemotron-Cascade-14B-Thinking) |
+| Updated3 days ago | 14.9k | janhq/Jan-v3-4B-base-instruct-ggufText | 4B | [Link](https://huggingface.co/janhq/Jan-v3-4B-base-instruct-gguf) |
 | Updatedabout 23 hours ago | 13 | inclusionAI/Ring-flash-linear-2 | 104B | [Link](https://huggingface.co/inclusionAI/Ring-flash-linear-2.0) |
 | Updated1 day ago | 13 | cerebras/MiniMax-M2-REAP-162B-A10BText | 162B | [Link](https://huggingface.co/cerebras/MiniMax-M2-REAP-162B-A10B) |
 | Updatedabout 22 hours ago | 13.2k | unsloth/Qwen3-Next-80B-A3B-Thinking-GGUFText | 80B | [Link](https://huggingface.co/unsloth/Qwen3-Next-80B-A3B-Thinking-GGUF) |
@@ -5516,6 +5517,7 @@ Updated on 2026-01-31
 | Updated1 day ago | 991 | QuantStack/Qwen-Image-Distill-GGUFText-to-Image | 20B | [Link](https://huggingface.co/QuantStack/Qwen-Image-Distill-GGUF) |
 | 151k | 971 | Lykon/DreamShaperText-to-Image | UpdatedApr 14, 2024 | [Link](https://huggingface.co/Lykon/DreamShaper) |
 | 249k | 892 | city96/FLUX | UpdatedAug 18, 2024 | [Link](https://huggingface.co/city96/FLUX.1-dev-gguf) |
+| Updated4 days ago | 852 | babakarto/z-image-base-ggufText-to-Image | 6B | [Link](https://huggingface.co/babakarto/z-image-base-gguf) |
 | 101k | 791 | InstantX/InstantIDText-to-Image | UpdatedJan 22, 2024 | [Link](https://huggingface.co/InstantX/InstantID) |
 | 334k | 698 | cagliostrolab/animagine-xl-3 | UpdatedMar 18, 2024 | [Link](https://huggingface.co/cagliostrolab/animagine-xl-3.1) |
 | 241k | 683 | stabilityai/stable-diffusion-2-1-baseText-to-Image | UpdatedJul 5, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-2-1-base) |
