@@ -265,6 +265,7 @@ Updated on 2026-02-01
 | 4 | Unknown | Skywork/Unipic3Any-to-Any | Updated1 day ago | [Link](https://huggingface.co/Skywork/Unipic3) |
 | 4 | Unknown | Lightricks/LTX-2-19b-IC-LoRA-Union-ControlAny-to-Any | Updatedabout 5 hours ago | [Link](https://huggingface.co/Lightricks/LTX-2-19b-IC-LoRA-Union-Control) |
 | 2 | Unknown | Tele-AI/TeleStyleAny-to-Any | Updatedabout 5 hours ago | [Link](https://huggingface.co/Tele-AI/TeleStyle) |
+| 1 | Unknown | ModalityDance/AR-Omni-Pretrain-v0 | Updated5 days ago | [Link](https://huggingface.co/ModalityDance/AR-Omni-Pretrain-v0.1) |
 
 ## Audio Classification
 
@@ -5582,6 +5583,7 @@ Updated on 2026-02-01
 | Updatedabout 14 hours ago | 22 | purplesmartai/pony-v7-baseText-to-Image | 7B | [Link](https://huggingface.co/purplesmartai/pony-v7-base) |
 | 5.26k | 20 | mit-han-lab/svdq-int4-flux | Updated22 days ago | [Link](https://huggingface.co/mit-han-lab/svdq-int4-flux.1-dev) |
 | 2 | 20 | HiDream-ai/HiDream-I1-FullText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/HiDream-ai/HiDream-I1-Full) |
+| 182 | 19 | GuangyuanSD/Z-Image-DistilledText-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/GuangyuanSD/Z-Image-Distilled) |
 |  | 18 | multimodalart/isometric-skeumorphic-3d-bnbText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/multimodalart/isometric-skeumorphic-3d-bnb) |
 | Updatedabout 3 hours ago | 18 | jayn7/Z-Image-Turbo-GGUFText-to-Image | 6B | [Link](https://huggingface.co/jayn7/Z-Image-Turbo-GGUF) |
 | 59 | 17 | HiDream-ai/HiDream-I1-DevText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/HiDream-ai/HiDream-I1-Dev) |
