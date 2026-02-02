@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-02-01
+Updated on 2026-02-02
 
 > Generated from the Hugging Face database.
 
@@ -2738,6 +2738,7 @@ Updated on 2026-02-01
 | 15 | Unknown | fashn-ai/fashn-vton-1 | Updated9 days ago | [Link](https://huggingface.co/fashn-ai/fashn-vton-1.5) |
 | 354 |  | nappa114514/Qwen-Image-Edit-2511-torn-clothesImage-to-Image | Updated27 days ago | [Link](https://huggingface.co/nappa114514/Qwen-Image-Edit-2511-torn-clothes) |
 | 64.1k |  | lrzjason/Anything2RealImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/lrzjason/Anything2Real) |
+| 1.2k |  | prithivMLmods/QIE-2511-Extract-OutfitImage-to-Image | Updated7 days ago | [Link](https://huggingface.co/prithivMLmods/QIE-2511-Extract-Outfit) |
 
 ## Image-to-Text
 
@@ -2846,6 +2847,7 @@ Updated on 2026-02-01
 | 6.34k | 32 | thwri/CogFlorence-2 | UpdatedSep 28, 2024 | [Link](https://huggingface.co/thwri/CogFlorence-2.2-Large) |
 | Updatedabout 4 hours ago | 32 | junyoung-00/Phi-3 | 4B | [Link](https://huggingface.co/junyoung-00/Phi-3.5-vision-instruct-ChartCap) |
 | UpdatedJul 8, 2024 | 32 | medieval-data/trocr-medieval-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/medieval-data/trocr-medieval-base) |
+| Updatedabout 4 hours ago | 32 | vanta-research/PE-Type-2-Alma-4BImage-to-Text | 4B | [Link](https://huggingface.co/vanta-research/PE-Type-2-Alma-4B) |
 | 637 | 31 | U4R/StructTable-InternVL2-1BImage-to-Text | UpdatedDec 12, 2024 | [Link](https://huggingface.co/U4R/StructTable-InternVL2-1B) |
 | 9.9k | 31 | OleehyO/TexTellerImage-to-Text | UpdatedJun 22, 2024 | [Link](https://huggingface.co/OleehyO/TexTeller) |
 | UpdatedMay 25 | 30 | infly/INF-AZ-7B-0524Image-to-Text | 8B | [Link](https://huggingface.co/infly/INF-AZ-7B-0524) |
@@ -5921,6 +5923,7 @@ Updated on 2026-02-01
 | 97 |  | AIImageStudio/RadianceChromeVoluptuous_z_image_turbo_v1 | Updated4 days ago | [Link](https://huggingface.co/AIImageStudio/RadianceChromeVoluptuous_z_image_turbo_v1.0) |
 | 14 | Unknown | lodestones/Chroma2-KaleidoscopeText-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/lodestones/Chroma2-Kaleidoscope) |
 | 8 | Unknown | Wuli-art/Qwen-Image-2512-Turbo-LoRA-2-StepsText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/Wuli-art/Qwen-Image-2512-Turbo-LoRA-2-Steps) |
+| 8 | Unknown | RamonGuthrie/z_image_base-nvfp8-mixedText-to-Image | Updated3 days ago | [Link](https://huggingface.co/RamonGuthrie/z_image_base-nvfp8-mixed) |
 
 ## Text-to-Speech
 
@@ -6517,6 +6520,7 @@ Updated on 2026-02-01
 | 1 | Unknown | Mesnyankin/KkkText-to-Video | UpdatedMay 18, 2023 | [Link](https://huggingface.co/Mesnyankin/Kkk) |
 | 1 | Unknown | thinkamconnect/ThinkSitesText-to-Video | UpdatedJun 25, 2023 | [Link](https://huggingface.co/thinkamconnect/ThinkSites) |
 | 1 | Unknown | Tyffuss86/PolskText-to-Video | UpdatedJul 7, 2023 | [Link](https://huggingface.co/Tyffuss86/Polsk) |
+| 2 | Unknown | CodeGoat24/Wan2 | Updatedabout 6 hours ago | [Link](https://huggingface.co/CodeGoat24/Wan2.1-T2V-14B-UnifiedReward-Flex-lora) |
 
 ## Text2Text Generation
 
