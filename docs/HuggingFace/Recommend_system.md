@@ -2035,6 +2035,7 @@ Updated on 2026-02-03
 | Updatedabout 10 hours ago | 14 | inclusionAI/UI-Venus-Ground-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/inclusionAI/UI-Venus-Ground-7B) |
 | Updatedabout 12 hours ago | 14 | zai-org/AutoGLM-Phone-9BImage-Text-to-Text | 934k | [Link](https://huggingface.co/zai-org/AutoGLM-Phone-9B) |
 | Updatedabout 17 hours ago | 14 | rootsautomation/GutenOCR-3BImage-Text-to-Text | 756k | [Link](https://huggingface.co/rootsautomation/GutenOCR-3B) |
+| Updatedabout 4 hours ago | 14 | Hcompany/Holo2-235B-A22BImage-Text-to-Text | 236B | [Link](https://huggingface.co/Hcompany/Holo2-235B-A22B) |
 | 582 | 13 | google/gemma-3-4b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-4b-pt) |
 | 4.2k | 13 | mlabonne/gemma-3-12b-it-abliterated-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-12b-it-abliterated-GGUF) |
 | 10.7k | 13 | unsloth/Llama-4-Maverick-17B-128E-Instruct-GGUFImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/unsloth/Llama-4-Maverick-17B-128E-Instruct-GGUF) |
@@ -2741,6 +2742,7 @@ Updated on 2026-02-03
 | 354 |  | nappa114514/Qwen-Image-Edit-2511-torn-clothesImage-to-Image | Updated27 days ago | [Link](https://huggingface.co/nappa114514/Qwen-Image-Edit-2511-torn-clothes) |
 | 64.1k |  | lrzjason/Anything2RealImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/lrzjason/Anything2Real) |
 | 1.2k |  | prithivMLmods/QIE-2511-Extract-OutfitImage-to-Image | Updated7 days ago | [Link](https://huggingface.co/prithivMLmods/QIE-2511-Extract-Outfit) |
+| 9 | Unknown | meituan-longcat/LongCat-Image-Edit-TurboImage-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/meituan-longcat/LongCat-Image-Edit-Turbo) |
 
 ## Image-to-Text
 
@@ -5200,6 +5202,7 @@ Updated on 2026-02-03
 | Updatedabout 3 hours ago | 1.33k | upstage/Solar-Open-100BText | 103B | [Link](https://huggingface.co/upstage/Solar-Open-100B) |
 | Updatedabout 12 hours ago | 1.24k | LiquidAI/LFM2 | 1B | [Link](https://huggingface.co/LiquidAI/LFM2.5-1.2B-Instruct) |
 | Updated2 days ago | 1.92k | mlx-community/GLM-4 | 30B | [Link](https://huggingface.co/mlx-community/GLM-4.7-Flash-4bit) |
+| Updatedabout 4 hours ago | 1.83k | stepfun-ai/Step-3 | 199B | [Link](https://huggingface.co/stepfun-ai/Step-3.5-Flash) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -6043,6 +6046,7 @@ Updated on 2026-02-03
 | Updated2 days ago | 18 | NandemoGHS/Anime-Llasa-3BText-to-Speech | 3B | [Link](https://huggingface.co/NandemoGHS/Anime-Llasa-3B) |
 | Updatedabout 2 hours ago | 17 | microsoft/VibeVoice-Realtime-0 | 1B | [Link](https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B) |
 | Updatedabout 12 hours ago | 17 | pnnbao-ump/VieNeu-TTS-0 | 0.3B | [Link](https://huggingface.co/pnnbao-ump/VieNeu-TTS-0.3B) |
+| Updated5 days ago | 17 | NAMAA-Space/NAMAA-Saudi-TTSText-to-Speech | 0.5B | [Link](https://huggingface.co/NAMAA-Space/NAMAA-Saudi-TTS) |
 | 77 | 16 | Mofa-Xingche/girl-style-bert-vits2-JPExtra-modelsText-to-Speech | UpdatedMay 31, 2024 | [Link](https://huggingface.co/Mofa-Xingche/girl-style-bert-vits2-JPExtra-models) |
 | 179 | 16 | esnya/japanese_speecht5_ttsText-to-Speech | UpdatedAug 9, 2023 | [Link](https://huggingface.co/esnya/japanese_speecht5_tts) |
 | 147 | 15 | dangvansam/viet-ttsText-to-Speech | UpdatedDec 11, 2024 | [Link](https://huggingface.co/dangvansam/viet-tts) |
@@ -6256,6 +6260,7 @@ Updated on 2026-02-03
 | 5 | Unknown | ayousanz/cosy-voice3-onnxText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/ayousanz/cosy-voice3-onnx) |
 | 5 | Unknown | KevinAHM/pocket-tts-onnxText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/KevinAHM/pocket-tts-onnx) |
 | 7 | Unknown | Anilosan15/Dia-1 | Updatedabout 1 month ago | [Link](https://huggingface.co/Anilosan15/Dia-1.6B-tr) |
+| 5 | Unknown | zukky/Qwen3-TTS-ONNX-DLLText-to-Speech | Updated7 days ago | [Link](https://huggingface.co/zukky/Qwen3-TTS-ONNX-DLL) |
 
 ## Text-to-Video
 
