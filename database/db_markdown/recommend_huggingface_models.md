@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-02-02
+Updated on 2026-02-03
 
 > Generated from the Hugging Face database.
 
@@ -3163,6 +3163,7 @@ Updated on 2026-02-02
 | 4 | Unknown | marsena/paddleocr-onnx-modelsImage-to-Text | UpdatedSep 1 | [Link](https://huggingface.co/marsena/paddleocr-onnx-models) |
 | 3 | Unknown | baudm/parseq-tinyImage-to-Text | UpdatedAug 28, 2022 | [Link](https://huggingface.co/baudm/parseq-tiny) |
 | 3 | Unknown | monaaaaaa/MS2-SMILES-AlignNetImage-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/monaaaaaa/MS2-SMILES-AlignNet) |
+| 63 | Unknown | zai-org/GLM-OCRImage-to-Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/zai-org/GLM-OCR) |
 
 ## Image-to-Video
 
@@ -6392,6 +6393,7 @@ Updated on 2026-02-02
 | 31 | 2 | TheMindExpansionNetwork/claymation_stoners_LTX_V1Text-to-Video | Updated10 days ago | [Link](https://huggingface.co/TheMindExpansionNetwork/claymation_stoners_LTX_V1) |
 | 10 | 2 | TheMindExpansionNetwork/questro_LTXText-to-Video | Updated11 days ago | [Link](https://huggingface.co/TheMindExpansionNetwork/questro_LTX) |
 | 31 | 2 | zulense/z1Text-to-Video | Updatedabout 23 hours ago | [Link](https://huggingface.co/zulense/z1) |
+| 8 | 2 | Harahan/QVGen-Wan-1_3B-W4A4Text-to-Video | Updatedabout 18 hours ago | [Link](https://huggingface.co/Harahan/QVGen-Wan-1_3B-W4A4) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
