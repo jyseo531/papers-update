@@ -1947,6 +1947,7 @@ Updated on 2026-02-04
 | Updatedabout 11 hours ago | 41 | OpenGVLab/InternVL3_5-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-4B) |
 | Updated7 days ago | 41.4k | huihui-ai/Huihui-Qwen3-VL-32B-Instruct-abliteratedImage-Text-to-Text | 33B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3-VL-32B-Instruct-abliterated) |
 | Updatedabout 9 hours ago | 41 | stepfun-ai/Step3-VL-10B-BaseImage-Text-to-Text | 10B | [Link](https://huggingface.co/stepfun-ai/Step3-VL-10B-Base) |
+| Updatedabout 8 hours ago | 41 | trillionlabs/gWorld-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/trillionlabs/gWorld-8B) |
 | 6 | 40 | convergence-ai/proxy-lite-3bImage-Text-to-Text | Updatedabout 15 hours ago | [Link](https://huggingface.co/convergence-ai/proxy-lite-3b) |
 | 25 | 40 | Hcompany/Holo1-7BImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/Hcompany/Holo1-7B) |
 | Updatedabout 6 hours ago | 40 | microsoft/Fara-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/microsoft/Fara-7B) |
@@ -2772,6 +2773,7 @@ Updated on 2026-02-04
 | UpdatedNov 28, 2024 | 429 | MohamedRashad/arabic-small-nougatImage-to-Text | 0.2B | [Link](https://huggingface.co/MohamedRashad/arabic-small-nougat) |
 | Updated9 days ago | 424 | InternScience/StructTable-InternVL2-1BImage-to-Text | 0.9B | [Link](https://huggingface.co/InternScience/StructTable-InternVL2-1B) |
 | UpdatedJul 18 | 323 | loay/ArabicOCR-Qwen2 | 8B | [Link](https://huggingface.co/loay/ArabicOCR-Qwen2.5-VL-7B-Vision) |
+| Updatedabout 1 month ago | 274 | ZihCiLin/trocr-traditional-chinese-baselineImage-to-Text | 0.3B | [Link](https://huggingface.co/ZihCiLin/trocr-traditional-chinese-baseline) |
 | UpdatedNov 15, 2024 | 242 | TIGER-Lab/Mantis-8B-Idefics2Image-to-Text | 8B | [Link](https://huggingface.co/TIGER-Lab/Mantis-8B-Idefics2) |
 | UpdatedMar 8 | 234 | convergence-ai/proxy-lite-3bImage-to-Text | 4B | [Link](https://huggingface.co/convergence-ai/proxy-lite-3b) |
 | Updated2 days ago | 230 | HelloKKMe/GTA1-32BImage-to-Text | 33B | [Link](https://huggingface.co/HelloKKMe/GTA1-32B) |
@@ -2997,6 +2999,7 @@ Updated on 2026-02-04
 | Updated7 days ago | 4 | OralGPT/OralGPT-Omni-7B-InstructImage-to-Text | 8B | [Link](https://huggingface.co/OralGPT/OralGPT-Omni-7B-Instruct) |
 | 87 | 4 | mrrtmob/kiri-ocrImage-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/mrrtmob/kiri-ocr) |
 | Updatedabout 14 hours ago | 4 | gateremark/kikuyu_translategemma_12b_mergedImage-to-Text | 13B | [Link](https://huggingface.co/gateremark/kikuyu_translategemma_12b_merged) |
+| 61 | 4 | numind/NuMarkdown-8B-Thinking-mlx-8bitsImage-to-Text | UpdatedNov 24, 2025 | [Link](https://huggingface.co/numind/NuMarkdown-8B-Thinking-mlx-8bits) |
 | 299 | 3 | cnmoro/nano-image-captioningImage-to-Text | Updatedabout 1 month ago | [Link](https://huggingface.co/cnmoro/nano-image-captioning) |
 | 45 | 3 | braintacles/brainblipImage-to-Text | UpdatedJun 27, 2024 | [Link](https://huggingface.co/braintacles/brainblip) |
 | 55 | 3 | sbintuitions/sarashina2-vision-8bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-8b) |
@@ -4926,6 +4929,7 @@ Updated on 2026-02-04
 | Updatedabout 13 hours ago | 31 | ArliAI/gpt-oss-20b-DerestrictedText | 21B | [Link](https://huggingface.co/ArliAI/gpt-oss-20b-Derestricted) |
 | Updatedabout 11 hours ago | 31 | unsloth/Qwen3-Next-80B-A3B-Instruct-GGUFText | 80B | [Link](https://huggingface.co/unsloth/Qwen3-Next-80B-A3B-Instruct-GGUF) |
 | Updated4 days ago | 31 | kakaocorp/kanana-2-30b-a3b-mid-2601Text | 31B | [Link](https://huggingface.co/kakaocorp/kanana-2-30b-a3b-mid-2601) |
+| Updated7 days ago | 31.9k | DavidAU/GLM-4 | 30B | [Link](https://huggingface.co/DavidAU/GLM-4.7-Flash-Uncensored-Heretic-NEO-CODE-Imatrix-MAX-GGUF) |
 | 277 | 30 | kakaocorp/kanana-nano-2 | Updatedabout 22 hours ago | [Link](https://huggingface.co/kakaocorp/kanana-nano-2.1b-instruct) |
 | 2.75k | 30 | allenai/OLMo-2-0425-1BText | Updated6 days ago | [Link](https://huggingface.co/allenai/OLMo-2-0425-1B) |
 | 509 | 30 | SWE-bench/SWE-agent-LM-32BText | Updatedabout 10 hours ago | [Link](https://huggingface.co/SWE-bench/SWE-agent-LM-32B) |
@@ -5028,6 +5032,7 @@ Updated on 2026-02-04
 | Updated1 day ago | 22 | nota-ai/Solar-Open-100B-Nota-FP8Text | 103B | [Link](https://huggingface.co/nota-ai/Solar-Open-100B-Nota-FP8) |
 | Updatedabout 3 hours ago | 22 | arcee-ai/Trinity-Large-PreviewText | 399B | [Link](https://huggingface.co/arcee-ai/Trinity-Large-Preview) |
 | Updatedabout 12 hours ago | 22 | Qwen/Qwen3-Coder-Next-FP8Text | 80B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-Next-FP8) |
+| Updatedabout 23 hours ago | 22 | Qwen/Qwen3-Coder-Next-BaseText | 80B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-Next-Base) |
 | 34 | 21 | ai21labs/AI21-Jamba-Mini-1 | Updatedabout 13 hours ago | [Link](https://huggingface.co/ai21labs/AI21-Jamba-Mini-1.6) |
 | 7.93k | 21 | lmstudio-community/Llama-4-Scout-17B-16E-Instruct-GGUFText | Updated1 day ago | [Link](https://huggingface.co/lmstudio-community/Llama-4-Scout-17B-16E-Instruct-GGUF) |
 | 275 | 21 | ServiceNow-AI/Apriel-5B-InstructText | Updated3 days ago | [Link](https://huggingface.co/ServiceNow-AI/Apriel-5B-Instruct) |
