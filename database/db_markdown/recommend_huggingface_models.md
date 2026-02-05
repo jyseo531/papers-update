@@ -270,6 +270,7 @@ Updated on 2026-02-05
 | 2 | Unknown | Tele-AI/TeleStyleAny-to-Any | Updatedabout 5 hours ago | [Link](https://huggingface.co/Tele-AI/TeleStyle) |
 | 1 | Unknown | ModalityDance/AR-Omni-Pretrain-v0 | Updated5 days ago | [Link](https://huggingface.co/ModalityDance/AR-Omni-Pretrain-v0.1) |
 | 2 | Unknown | openbmb/MiniCPM-o-4_5-awqAny-to-Any | Updatedabout 8 hours ago | [Link](https://huggingface.co/openbmb/MiniCPM-o-4_5-awq) |
+| 2 | Unknown | Alex11556666/UniReasonAny-to-Any | Updatedabout 4 hours ago | [Link](https://huggingface.co/Alex11556666/UniReason) |
 
 ## Audio Classification
 
@@ -2888,6 +2889,7 @@ Updated on 2026-02-05
 | UpdatedOct 15, 2024 | 19 | Joctor/qwen2-vl-7b-instruct-ogiriImage-to-Text | 8B | [Link](https://huggingface.co/Joctor/qwen2-vl-7b-instruct-ogiri) |
 | Updated5 days ago | 19 | OfficerChul/Qwen2 | 8B | [Link](https://huggingface.co/OfficerChul/Qwen2.5-VL-7B-Instruct-Android-Control-5a) |
 | UpdatedJan 29 | 19 | John6666/llama-joycaption-alpha-two-hf-llava-nf4Image-to-Text | 3B | [Link](https://huggingface.co/John6666/llama-joycaption-alpha-two-hf-llava-nf4) |
+| Updated1 day ago | 19 | aisingapore/Qwen-SEA-Guard-8B-040226Image-to-Text | 770k | [Link](https://huggingface.co/aisingapore/Qwen-SEA-Guard-8B-040226) |
 | Updatedabout 17 hours ago | 18 | Qwen/Qwen3-VL-Reranker-2BImage-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-Reranker-2B) |
 | 433 | 17 | kpyu/video-blip-opt-2 | UpdatedMay 17, 2023 | [Link](https://huggingface.co/kpyu/video-blip-opt-2.7b-ego4d) |
 | Updated15 days ago | 17.2k | scb10x/typhoon-ocr-7bImage-to-Text | 8B | [Link](https://huggingface.co/scb10x/typhoon-ocr-7b) |
@@ -2966,6 +2968,7 @@ Updated on 2026-02-05
 | 188 | 7 | WeightedAI/Persian_OCRImage-to-Text | Updated26 days ago | [Link](https://huggingface.co/WeightedAI/Persian_OCR) |
 | Updated26 days ago | 7 | Cosmobillian/radiologist_llamaImage-to-Text | 11B | [Link](https://huggingface.co/Cosmobillian/radiologist_llama) |
 | UpdatedMay 12, 2025 | 7.07k | unsloth/gemma-3-12b-it-bnb-4bitImage-to-Text | 13B | [Link](https://huggingface.co/unsloth/gemma-3-12b-it-bnb-4bit) |
+| UpdatedNov 24, 2025 | 7 | jKqfO84n/Qwen3-VL-8B-Instruct-HereticImage-to-Text | 9B | [Link](https://huggingface.co/jKqfO84n/Qwen3-VL-8B-Instruct-Heretic) |
 | 624 | 6 | fhswf/TrOCR_Math_handwrittenImage-to-Text | UpdatedOct 21, 2024 | [Link](https://huggingface.co/fhswf/TrOCR_Math_handwritten) |
 | 511 | 6 | microsoft/trocr-base-strImage-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-base-str) |
 | Updated21 days ago | 6.36k | allenai/olmOCR-7B-0225-preview-FP8Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview-FP8) |
@@ -2974,6 +2977,7 @@ Updated on 2026-02-05
 | Updatedabout 1 hour ago | 6 | XiaomiMiMo/MiMo-Embodied-7BImage-to-Text | 8B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-Embodied-7B) |
 | Updatedabout 17 hours ago | 6 | Qwen/Qwen3-VL-Embedding-2BImage-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-Embedding-2B) |
 | 9 | 6 | philschmid/donut-base-finetuned-cord-v2Image-to-Text | UpdatedOct 18, 2022 | [Link](https://huggingface.co/philschmid/donut-base-finetuned-cord-v2) |
+| Updated1 day ago | 6 | aisingapore/Qwen-SEA-Guard-4B-040226Image-to-Text | 570k | [Link](https://huggingface.co/aisingapore/Qwen-SEA-Guard-4B-040226) |
 | 7 | 5 | laicsiifes/swin-gportuguese-2Image-to-Text | UpdatedMar 31 | [Link](https://huggingface.co/laicsiifes/swin-gportuguese-2) |
 | 5 | 5 | Yodazon/3DPrintFailureTypeImage-to-Text | UpdatedOct 18, 2024 | [Link](https://huggingface.co/Yodazon/3DPrintFailureType) |
 | Updated5 days ago | 5.7k | ChatDOC/OCRFlux-3BImage-to-Text | 4B | [Link](https://huggingface.co/ChatDOC/OCRFlux-3B) |
@@ -4643,6 +4647,7 @@ Updated on 2026-02-05
 | Updatedabout 6 hours ago | 670 | nvidia/Orchestrator-8BText | 8B | [Link](https://huggingface.co/nvidia/Orchestrator-8B) |
 | Updated5 days ago | 663k | lmstudio-community/gpt-oss-20b-MLX-8bitText | 21B | [Link](https://huggingface.co/lmstudio-community/gpt-oss-20b-MLX-8bit) |
 | Updated5 days ago | 661 | LiquidAI/LFM2-700M-GGUFText | 0.7B | [Link](https://huggingface.co/LiquidAI/LFM2-700M-GGUF) |
+| Updated14 days ago | 656 | TeichAI/GLM-4 | 31B | [Link](https://huggingface.co/TeichAI/GLM-4.7-Flash-Claude-Opus-4.5-High-Reasoning-Distill) |
 | Updated1 day ago | 635 | 0xSero/GLM-4 | 2B | [Link](https://huggingface.co/0xSero/GLM-4.7-REAP-50-W4A16) |
 | Updated6 days ago | 630 | kakaocorp/kanana-2-30b-a3b-instructText | 31B | [Link](https://huggingface.co/kakaocorp/kanana-2-30b-a3b-instruct) |
 | Updated2 days ago | 628 | PrimeIntellect/INTELLECT-3-FP8Text | 107B | [Link](https://huggingface.co/PrimeIntellect/INTELLECT-3-FP8) |
