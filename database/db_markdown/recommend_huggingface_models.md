@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-02-04
+Updated on 2026-02-05
 
 > Generated from the Hugging Face database.
 
@@ -2253,6 +2253,7 @@ Updated on 2026-02-04
 | 25 | Unknown | PaddlePaddle/PaddleOCR-VLImage-Text-to-Text | Updated21 minutes ago | [Link](https://huggingface.co/PaddlePaddle/PaddleOCR-VL) |
 | 9 | Unknown | Skywork/R1V4Image-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/Skywork/R1V4) |
 | 11k |  | moonshotai/Kimi-K2 | Updatedabout 1 hour ago | [Link](https://huggingface.co/moonshotai/Kimi-K2.5) |
+| 53 | Unknown | internlm/Intern-S1-ProImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/internlm/Intern-S1-Pro) |
 
 ## Image-to-3D
 
@@ -2747,6 +2748,7 @@ Updated on 2026-02-04
 | 64.1k |  | lrzjason/Anything2RealImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/lrzjason/Anything2Real) |
 | 1.2k |  | prithivMLmods/QIE-2511-Extract-OutfitImage-to-Image | Updated7 days ago | [Link](https://huggingface.co/prithivMLmods/QIE-2511-Extract-Outfit) |
 | 9 | Unknown | meituan-longcat/LongCat-Image-Edit-TurboImage-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/meituan-longcat/LongCat-Image-Edit-Turbo) |
+| 360 |  | prithivMLmods/QIE-2511-Studio-DeLightImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/prithivMLmods/QIE-2511-Studio-DeLight) |
 
 ## Image-to-Text
 
@@ -5641,6 +5643,7 @@ Updated on 2026-02-04
 |  | 11 | bdsqlsz/qinglong_DetailedEyes_Z-ImageText-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/bdsqlsz/qinglong_DetailedEyes_Z-Image) |
 |  | 11 | ostris/zimage_turbo_training_adapterText-to-Image | Updated5 minutes ago | [Link](https://huggingface.co/ostris/zimage_turbo_training_adapter) |
 | 43 | 11 | WarmBloodAban/Flux2_Klein_Anything_to_Real_CharactersText-to-Image | Updated1 day ago | [Link](https://huggingface.co/WarmBloodAban/Flux2_Klein_Anything_to_Real_Characters) |
+| 109 | 11 | UDCAI/Z-Image-Fun-Distill-ComfyUIText-to-Image | Updated1 day ago | [Link](https://huggingface.co/UDCAI/Z-Image-Fun-Distill-ComfyUI) |
 |  | 10 | strangerzonehf/Real-ClaymationText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/strangerzonehf/Real-Claymation) |
 | 17 | 10 | zhang0jhon/flux_waveletText-to-Image | Updated5 days ago | [Link](https://huggingface.co/zhang0jhon/flux_wavelet) |
 | 36 | 10 | codermert/ozgeefinalText-to-Image | Updated6 days ago | [Link](https://huggingface.co/codermert/ozgeefinal) |
