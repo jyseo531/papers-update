@@ -2879,6 +2879,7 @@ Updated on 2026-02-06
 | Updatedabout 10 hours ago | 24 | CodeGoat24/UniGenBench-EvalModel-qwen-72b-v1Image-to-Text | 73B | [Link](https://huggingface.co/CodeGoat24/UniGenBench-EvalModel-qwen-72b-v1) |
 | 4.54k | 23 | raxtemur/trocr-base-ruImage-to-Text | UpdatedMay 29, 2024 | [Link](https://huggingface.co/raxtemur/trocr-base-ru) |
 | UpdatedJun 17, 2025 | 23.6k | unsloth/Llama-4-Scout-17B-16E-Instruct-GGUFImage-to-Text | 108B | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct-GGUF) |
+| UpdatedJun 9, 2025 | 23.9k | RedHatAI/gemma-3-27b-it-FP8-dynamicImage-to-Text | 27B | [Link](https://huggingface.co/RedHatAI/gemma-3-27b-it-FP8-dynamic) |
 | 4.06k | 22 | noamrot/FuseCap_Image_CaptioningImage-to-Text | UpdatedJan 25, 2024 | [Link](https://huggingface.co/noamrot/FuseCap_Image_Captioning) |
 | UpdatedDec 12, 2023 | 22 | kmewhort/blip2-flan-t5-xxl-safetensorsImage-to-Text | 12B | [Link](https://huggingface.co/kmewhort/blip2-flan-t5-xxl-safetensors) |
 | 75 | 22 | nvidia/nemotron-ocr-v1Image-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/nvidia/nemotron-ocr-v1) |
@@ -5145,6 +5146,7 @@ Updated on 2026-02-06
 | Updatedabout 16 hours ago | 8.51k | nvidia/NVIDIA-Nemotron-Nano-12B-v2Text | 12B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-12B-v2) |
 | Updated1 day ago | 8 | nvidia/Nemotron-Cascade-8BText | 8B | [Link](https://huggingface.co/nvidia/Nemotron-Cascade-8B) |
 | Updated1 day ago | 8.42k | GadflyII/GLM-4 | 18B | [Link](https://huggingface.co/GadflyII/GLM-4.7-Flash-NVFP4) |
+| Updated3 days ago | 8.66k | unsloth/Qwen3-Coder-Next-FP8-DynamicText | 80B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-Next-FP8-Dynamic) |
 | Updated2 days ago | 7.65k | Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8) |
 | Updatedabout 4 hours ago | 7 | tencent/Hunyuan-7B-InstructText | 8B | [Link](https://huggingface.co/tencent/Hunyuan-7B-Instruct) |
 | Updated4 days ago | 7k | bartowski/cerebras_GLM-4 | 85B | [Link](https://huggingface.co/bartowski/cerebras_GLM-4.5-Air-REAP-82B-A12B-GGUF) |
@@ -5701,6 +5703,7 @@ Updated on 2026-02-06
 | Updatedabout 21 hours ago | 7 | stepfun-ai/NextStep-1 | 15B | [Link](https://huggingface.co/stepfun-ai/NextStep-1.1) |
 | 181 | 7 | Danrisi/Lenovo_ChromaRadianceText-to-Image | Updated3 days ago | [Link](https://huggingface.co/Danrisi/Lenovo_ChromaRadiance) |
 | Updated11 minutes ago | 7 | unsloth/Z-Image-GGUFText-to-Image | 6B | [Link](https://huggingface.co/unsloth/Z-Image-GGUF) |
+| 14 | 7 | SnJake/Ref2FontText-to-Image | Updated3 days ago | [Link](https://huggingface.co/SnJake/Ref2Font) |
 | 1.07k | 6 | DFloat11/FLUX | Updated1 day ago | [Link](https://huggingface.co/DFloat11/FLUX.1-dev-DF11) |
 | 836 | 6 | Minthy/RouWei-0 | Updated3 days ago | [Link](https://huggingface.co/Minthy/RouWei-0.8) |
 | 169 | 6 | PosterCraft/PosterCraft-v1_RLText-to-Image | Updated2 days ago | [Link](https://huggingface.co/PosterCraft/PosterCraft-v1_RL) |
@@ -6558,6 +6561,7 @@ Updated on 2026-02-06
 | 2 | Unknown | CodeGoat24/Wan2 | Updatedabout 6 hours ago | [Link](https://huggingface.co/CodeGoat24/Wan2.1-T2V-14B-UnifiedReward-Flex-lora) |
 | 4 | Unknown | zhuhz22/Causal-ForcingText-to-Video | Updated29 minutes ago | [Link](https://huggingface.co/zhuhz22/Causal-Forcing) |
 | 2 | Unknown | inference-sh/Wan2 | UpdatedJul 28, 2025 | [Link](https://huggingface.co/inference-sh/Wan2.2-TI2V-5B-Diffusers) |
+| 2 | Unknown | NumlockUknowSth/CineTrans-DiTText-to-Video | Updated3 days ago | [Link](https://huggingface.co/NumlockUknowSth/CineTrans-DiT) |
 
 ## Text2Text Generation
 
