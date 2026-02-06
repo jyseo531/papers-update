@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-02-05
+Updated on 2026-02-06
 
 > Generated from the Hugging Face database.
 
@@ -271,6 +271,7 @@ Updated on 2026-02-05
 | 1 | Unknown | ModalityDance/AR-Omni-Pretrain-v0 | Updated5 days ago | [Link](https://huggingface.co/ModalityDance/AR-Omni-Pretrain-v0.1) |
 | 2 | Unknown | openbmb/MiniCPM-o-4_5-awqAny-to-Any | Updatedabout 8 hours ago | [Link](https://huggingface.co/openbmb/MiniCPM-o-4_5-awq) |
 | 2 | Unknown | Alex11556666/UniReasonAny-to-Any | Updatedabout 4 hours ago | [Link](https://huggingface.co/Alex11556666/UniReason) |
+| 1 | Unknown | liquid9212/yc6iz4nAny-to-Any | UpdatedAug 9, 2024 | [Link](https://huggingface.co/liquid9212/yc6iz4n) |
 
 ## Audio Classification
 
@@ -1868,6 +1869,7 @@ Updated on 2026-02-05
 | Updated16 days ago | 200 | grimjim/gemma-3-12b-it-norm-preserved-biprojected-abliteratedImage-Text-to-Text | 12B | [Link](https://huggingface.co/grimjim/gemma-3-12b-it-norm-preserved-biprojected-abliterated) |
 | Updated2 days ago | 187 | huihui-ai/Huihui-Qwen3-VL-8B-Instruct-abliteratedImage-Text-to-Text | 9B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3-VL-8B-Instruct-abliterated) |
 | 7.06k | 180 | meta-llama/Llama-4-Scout-17B-16E-InstructImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct) |
+| Updated2 days ago | 180 | trillionlabs/gWorld-32BImage-Text-to-Text | 33B | [Link](https://huggingface.co/trillionlabs/gWorld-32B) |
 | Updatedabout 12 hours ago | 176 | huihui-ai/Huihui-Step3-VL-10B-abliteratedImage-Text-to-Text | 10B | [Link](https://huggingface.co/huihui-ai/Huihui-Step3-VL-10B-abliterated) |
 | Updatedabout 7 hours ago | 171 | OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-PreviewImage-Text-to-Text | 0.4B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-Preview) |
 | 116 | 167 | google/gemma-3-27b-itImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-it) |
@@ -2890,6 +2892,7 @@ Updated on 2026-02-05
 | Updated5 days ago | 19 | OfficerChul/Qwen2 | 8B | [Link](https://huggingface.co/OfficerChul/Qwen2.5-VL-7B-Instruct-Android-Control-5a) |
 | UpdatedJan 29 | 19 | John6666/llama-joycaption-alpha-two-hf-llava-nf4Image-to-Text | 3B | [Link](https://huggingface.co/John6666/llama-joycaption-alpha-two-hf-llava-nf4) |
 | Updated1 day ago | 19 | aisingapore/Qwen-SEA-Guard-8B-040226Image-to-Text | 770k | [Link](https://huggingface.co/aisingapore/Qwen-SEA-Guard-8B-040226) |
+| Updatedabout 1 hour ago | 19 | aisingapore/Qwen-SEA-Guard-8B-2602Image-to-Text | 770k | [Link](https://huggingface.co/aisingapore/Qwen-SEA-Guard-8B-2602) |
 | Updatedabout 17 hours ago | 18 | Qwen/Qwen3-VL-Reranker-2BImage-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-Reranker-2B) |
 | 433 | 17 | kpyu/video-blip-opt-2 | UpdatedMay 17, 2023 | [Link](https://huggingface.co/kpyu/video-blip-opt-2.7b-ego4d) |
 | Updated15 days ago | 17.2k | scb10x/typhoon-ocr-7bImage-to-Text | 8B | [Link](https://huggingface.co/scb10x/typhoon-ocr-7b) |
@@ -2978,6 +2981,7 @@ Updated on 2026-02-05
 | Updatedabout 17 hours ago | 6 | Qwen/Qwen3-VL-Embedding-2BImage-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-Embedding-2B) |
 | 9 | 6 | philschmid/donut-base-finetuned-cord-v2Image-to-Text | UpdatedOct 18, 2022 | [Link](https://huggingface.co/philschmid/donut-base-finetuned-cord-v2) |
 | Updated1 day ago | 6 | aisingapore/Qwen-SEA-Guard-4B-040226Image-to-Text | 570k | [Link](https://huggingface.co/aisingapore/Qwen-SEA-Guard-4B-040226) |
+| Updatedabout 1 hour ago | 6 | aisingapore/Qwen-SEA-Guard-4B-2602Image-to-Text | 570k | [Link](https://huggingface.co/aisingapore/Qwen-SEA-Guard-4B-2602) |
 | 7 | 5 | laicsiifes/swin-gportuguese-2Image-to-Text | UpdatedMar 31 | [Link](https://huggingface.co/laicsiifes/swin-gportuguese-2) |
 | 5 | 5 | Yodazon/3DPrintFailureTypeImage-to-Text | UpdatedOct 18, 2024 | [Link](https://huggingface.co/Yodazon/3DPrintFailureType) |
 | Updated5 days ago | 5.7k | ChatDOC/OCRFlux-3BImage-to-Text | 4B | [Link](https://huggingface.co/ChatDOC/OCRFlux-3B) |
