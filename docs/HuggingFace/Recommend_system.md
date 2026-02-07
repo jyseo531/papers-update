@@ -1871,6 +1871,7 @@ Updated on 2026-02-07
 | 7.06k | 180 | meta-llama/Llama-4-Scout-17B-16E-InstructImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct) |
 | Updated2 days ago | 180 | trillionlabs/gWorld-32BImage-Text-to-Text | 33B | [Link](https://huggingface.co/trillionlabs/gWorld-32B) |
 | Updatedabout 12 hours ago | 176 | huihui-ai/Huihui-Step3-VL-10B-abliteratedImage-Text-to-Text | 10B | [Link](https://huggingface.co/huihui-ai/Huihui-Step3-VL-10B-abliterated) |
+| Updated5 days ago | 175 | DavidAU/gemma-3-12b-it-vl-GLM-4 | 12B | [Link](https://huggingface.co/DavidAU/gemma-3-12b-it-vl-GLM-4.7-Flash-Heretic-Uncensored-Thinking) |
 | Updatedabout 7 hours ago | 171 | OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-PreviewImage-Text-to-Text | 0.4B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-Preview) |
 | 116 | 167 | google/gemma-3-27b-itImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-it) |
 | 38.8k | 163 | stepfun-ai/GOT-OCR-2 | Updated25 days ago | [Link](https://huggingface.co/stepfun-ai/GOT-OCR-2.0-hf) |
@@ -6292,6 +6293,7 @@ Updated on 2026-02-07
 | 5 | Unknown | KevinAHM/pocket-tts-onnxText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/KevinAHM/pocket-tts-onnx) |
 | 7 | Unknown | Anilosan15/Dia-1 | Updatedabout 1 month ago | [Link](https://huggingface.co/Anilosan15/Dia-1.6B-tr) |
 | 5 | Unknown | zukky/Qwen3-TTS-ONNX-DLLText-to-Speech | Updated7 days ago | [Link](https://huggingface.co/zukky/Qwen3-TTS-ONNX-DLL) |
+| 4 | Unknown | Soul-AILab/SoulX-SingerText-to-Speech | Updatedabout 11 hours ago | [Link](https://huggingface.co/Soul-AILab/SoulX-Singer) |
 
 ## Text-to-Video
 
