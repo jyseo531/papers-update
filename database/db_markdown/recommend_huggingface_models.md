@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-02-06
+Updated on 2026-02-07
 
 > Generated from the Hugging Face database.
 
@@ -2760,6 +2760,7 @@ Updated on 2026-02-06
 | Updated5 days ago | 951 | noctrex/LightOnOCR-2-1B-ocr-soup-GGUFImage-to-Text | 0.6B | [Link](https://huggingface.co/noctrex/LightOnOCR-2-1B-ocr-soup-GGUF) |
 | UpdatedAug 25 | 929 | shenasa/persian-image-captioningImage-to-Text | 0.2B | [Link](https://huggingface.co/shenasa/persian-image-captioning) |
 | UpdatedJan 20 | 893 | HuggingFaceTB/SmolVLM-500M-BaseImage-to-Text | 0.5B | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-500M-Base) |
+| Updated3 days ago | 858 | mlx-community/GLM-OCR-bf16Image-to-Text | 1B | [Link](https://huggingface.co/mlx-community/GLM-OCR-bf16) |
 | UpdatedApr 28 | 631 | Hyphonical/Pixtral-12B-Captioner-Relaxed-Q4_K_M-GGUFImage-to-Text | 12B | [Link](https://huggingface.co/Hyphonical/Pixtral-12B-Captioner-Relaxed-Q4_K_M-GGUF) |
 | UpdatedApr 9, 2025 | 599 | meta-llama/Llama-4-Maverick-17B-128EImage-to-Text | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E) |
 | UpdatedJan 29 | 586 | chatpig/llava-llama3Image-to-Text | 8B | [Link](https://huggingface.co/chatpig/llava-llama3) |
@@ -5974,6 +5975,7 @@ Updated on 2026-02-06
 | Updated1 day ago | 646 | nineninesix/kani-tts-400m-0 | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-400m-0.3-pt) |
 | Updatedabout 4 hours ago | 607 | neuphonic/neutts-nano-q4-ggufText-to-Speech | 0.3B | [Link](https://huggingface.co/neuphonic/neutts-nano-q4-gguf) |
 | 18.5k | 603 | IndexTeam/IndexTTS-2Text-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/IndexTeam/IndexTTS-2) |
+| 4.86k | 570 | fishaudio/s1-miniText-to-Speech | Updatedabout 15 hours ago | [Link](https://huggingface.co/fishaudio/s1-mini) |
 | Updatedabout 9 hours ago | 515 | bosonai/higgs-audio-v2-generation-3B-baseText-to-Speech | 6B | [Link](https://huggingface.co/bosonai/higgs-audio-v2-generation-3B-base) |
 | 11.8k | 480 | fishaudio/fish-speech-1 | UpdatedDec 3, 2024 | [Link](https://huggingface.co/fishaudio/fish-speech-1.5) |
 | 5.67k | 478 | nari-labs/Dia-1 | Updatedabout 9 hours ago | [Link](https://huggingface.co/nari-labs/Dia-1.6B) |
