@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-02-07
+Updated on 2026-02-08
 
 > Generated from the Hugging Face database.
 
@@ -3121,6 +3121,7 @@ Updated on 2026-02-07
 | 20 | 1 | unni12345/MedBlip2Image-to-Text | UpdatedJul 27, 2023 | [Link](https://huggingface.co/unni12345/MedBlip2) |
 | Updatedabout 17 hours ago | 1 | Qwen/Qwen3-VL-Reranker-8BImage-to-Text | 9B | [Link](https://huggingface.co/Qwen/Qwen3-VL-Reranker-8B) |
 | 12 | 1 | shivalikasingh/donut-cheque-parserImage-to-Text | UpdatedNov 10, 2022 | [Link](https://huggingface.co/shivalikasingh/donut-cheque-parser) |
+| UpdatedJul 21, 2025 | 1.22k | CEIA-UFG/Gemma-3-Gaia-PT-BR-4b-itImage-to-Text | 4B | [Link](https://huggingface.co/CEIA-UFG/Gemma-3-Gaia-PT-BR-4b-it) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -5206,6 +5207,7 @@ Updated on 2026-02-07
 | Updated3 days ago | 2.09k | nvidia/Nemotron-Orchestrator-8BText | 8B | [Link](https://huggingface.co/nvidia/Nemotron-Orchestrator-8B) |
 | Updatedabout 3 hours ago | 2.17k | unsloth/functiongemma-270m-it-GGUFText | 0.3B | [Link](https://huggingface.co/unsloth/functiongemma-270m-it-GGUF) |
 | Updatedabout 10 hours ago | 2.55k | IQuestLab/IQuest-Coder-V1-40B-BaseText | 40B | [Link](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Base) |
+| UpdatedDec 12, 2025 | 2.15k | UCSB-SURFI/VulnLLM-R-7BText | 8B | [Link](https://huggingface.co/UCSB-SURFI/VulnLLM-R-7B) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
 | Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
@@ -6294,6 +6296,7 @@ Updated on 2026-02-07
 | 7 | Unknown | Anilosan15/Dia-1 | Updatedabout 1 month ago | [Link](https://huggingface.co/Anilosan15/Dia-1.6B-tr) |
 | 5 | Unknown | zukky/Qwen3-TTS-ONNX-DLLText-to-Speech | Updated7 days ago | [Link](https://huggingface.co/zukky/Qwen3-TTS-ONNX-DLL) |
 | 4 | Unknown | Soul-AILab/SoulX-SingerText-to-Speech | Updatedabout 11 hours ago | [Link](https://huggingface.co/Soul-AILab/SoulX-Singer) |
+| 5 | Unknown | ipsilondev/chatterbox-multilingual-ONNX-q4Text-to-Speech | Updated26 days ago | [Link](https://huggingface.co/ipsilondev/chatterbox-multilingual-ONNX-q4) |
 
 ## Text-to-Video
 
