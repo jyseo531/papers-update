@@ -1851,6 +1851,7 @@ Updated on 2026-02-08
 | 860k | 376 | Salesforce/blip2-opt-2 | UpdatedFeb 3 | [Link](https://huggingface.co/Salesforce/blip2-opt-2.7b) |
 | Updatedabout 7 hours ago | 365 | stepfun-ai/step3Image-Text-to-Text | 321B | [Link](https://huggingface.co/stepfun-ai/step3) |
 | Updatedabout 2 hours ago | 349 | moondream/moondream3-previewImage-Text-to-Text | 9B | [Link](https://huggingface.co/moondream/moondream3-preview) |
+| Updated4 days ago | 341 | bakrianoo/arabic-legal-documents-ocr-1 | 4B | [Link](https://huggingface.co/bakrianoo/arabic-legal-documents-ocr-1.0) |
 | Updated2 days ago | 338 | lapa-llm/lapa-v0 | 12B | [Link](https://huggingface.co/lapa-llm/lapa-v0.1.2-instruct) |
 | Updated1 day ago | 317 | ZJU-AI4H/Hulu-Med-14BImage-Text-to-Text | 15B | [Link](https://huggingface.co/ZJU-AI4H/Hulu-Med-14B) |
 | Updated2 days ago | 311 | Open-Bee/Bee-8B-RLImage-Text-to-Text | 9B | [Link](https://huggingface.co/Open-Bee/Bee-8B-RL) |
@@ -2753,6 +2754,7 @@ Updated on 2026-02-08
 | 1.2k |  | prithivMLmods/QIE-2511-Extract-OutfitImage-to-Image | Updated7 days ago | [Link](https://huggingface.co/prithivMLmods/QIE-2511-Extract-Outfit) |
 | 9 | Unknown | meituan-longcat/LongCat-Image-Edit-TurboImage-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/meituan-longcat/LongCat-Image-Edit-Turbo) |
 | 360 |  | prithivMLmods/QIE-2511-Studio-DeLightImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/prithivMLmods/QIE-2511-Studio-DeLight) |
+| 2.11k |  | strangerzonehf/Qwen-Image-Edit-LoRA-CollectionImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/strangerzonehf/Qwen-Image-Edit-LoRA-Collection) |
 
 ## Image-to-Text
 
