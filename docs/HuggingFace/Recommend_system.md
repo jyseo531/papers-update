@@ -41,6 +41,7 @@ Updated on 2026-02-09
 | Updated16 days ago | 193 | OddTheGreat/Mars_27B_V | 29B | [Link](https://huggingface.co/OddTheGreat/Mars_27B_V.1) |
 | Updated12 days ago | 166 | Saktsant/Qwen3-Omni-30B-A3B-Instruct-AWQAny-to-Any | 10B | [Link](https://huggingface.co/Saktsant/Qwen3-Omni-30B-A3B-Instruct-AWQ) |
 | UpdatedOct 23, 2024 | 153 | BAAI/Emu3-Stage1Any-to-Any | 8B | [Link](https://huggingface.co/BAAI/Emu3-Stage1) |
+| UpdatedDec 24, 2025 | 151 | mlx-community/Qwen3-Omni-30B-A3B-Instruct-bf16Any-to-Any | 35B | [Link](https://huggingface.co/mlx-community/Qwen3-Omni-30B-A3B-Instruct-bf16) |
 | 455 | 149 | NexaAI/OmniNeural-4BAny-to-Any | Updated4 days ago | [Link](https://huggingface.co/NexaAI/OmniNeural-4B) |
 | UpdatedApr 8 | 144 | summykai/gemma3-27b-abliterated-dpoAny-to-Any | 27B | [Link](https://huggingface.co/summykai/gemma3-27b-abliterated-dpo) |
 | 9.96k | 141 | deepseek-ai/JanusFlow-1 | Updated29 days ago | [Link](https://huggingface.co/deepseek-ai/JanusFlow-1.3B) |
@@ -142,6 +143,7 @@ Updated on 2026-02-09
 | Updatedabout 12 hours ago | 4 | Qwen/Qwen3-Omni-30B-A3B-CaptionerAny-to-Any | 32B | [Link](https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Captioner) |
 | UpdatedJan 22, 2025 | 4 | joonsong/hand_recog_florence2-finetuned_v1Any-to-Any | 0.3B | [Link](https://huggingface.co/joonsong/hand_recog_florence2-finetuned_v1) |
 | Updatedabout 8 hours ago | 4 | openbmb/MiniCPM-o-4_5-ggufAny-to-Any | 8B | [Link](https://huggingface.co/openbmb/MiniCPM-o-4_5-gguf) |
+| UpdatedApr 26, 2025 | 4 | tiny-random/qwen2 | 5.39M | [Link](https://huggingface.co/tiny-random/qwen2.5-omni) |
 | 481k | 3.11k | deepseek-ai/Janus-Pro-7BAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-7B) |
 | 78 | 3 | VARGPT-family/VARGPT_LLaVA-v1Any-to-Any | UpdatedJan 23 | [Link](https://huggingface.co/VARGPT-family/VARGPT_LLaVA-v1) |
 | 2 | 3 | impactframes/Janus-1 | UpdatedOct 19, 2024 | [Link](https://huggingface.co/impactframes/Janus-1.3B) |
@@ -2755,6 +2757,7 @@ Updated on 2026-02-09
 | 9 | Unknown | meituan-longcat/LongCat-Image-Edit-TurboImage-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/meituan-longcat/LongCat-Image-Edit-Turbo) |
 | 360 |  | prithivMLmods/QIE-2511-Studio-DeLightImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/prithivMLmods/QIE-2511-Studio-DeLight) |
 | 2.11k |  | strangerzonehf/Qwen-Image-Edit-LoRA-CollectionImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/strangerzonehf/Qwen-Image-Edit-LoRA-Collection) |
+| 6 | Unknown | iitolstykh/VIBE-Image-Edit-DistilledCFGImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/iitolstykh/VIBE-Image-Edit-DistilledCFG) |
 
 ## Image-to-Text
 
@@ -2792,6 +2795,7 @@ Updated on 2026-02-09
 | UpdatedMay 22, 2025 | 208k | meta-llama/Llama-4-Scout-17B-16E-InstructImage-to-Text | 109B | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct) |
 | UpdatedMar 5 | 180 | r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUF) |
 | Updated6 days ago | 177 | thesby/Qwen3-VL-8B-NSFW-Caption-V4 | 9B | [Link](https://huggingface.co/thesby/Qwen3-VL-8B-NSFW-Caption-V4.5) |
+| Updated4 days ago | 175 | EZCon/GLM-OCR-4bit-g32-mxfp4-mixed_4_8-mlxImage-to-Text | 0.6B | [Link](https://huggingface.co/EZCon/GLM-OCR-4bit-g32-mxfp4-mixed_4_8-mlx) |
 | UpdatedJun 20 | 174k | BCCard/Qwen2 | 33B | [Link](https://huggingface.co/BCCard/Qwen2.5-VL-32B-Instruct-FP8-Dynamic) |
 | UpdatedNov 26, 2025 | 164k | Qwen/Qwen3-VL-235B-A22B-InstructImage-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct) |
 | Updated1 day ago | 163 | HelloKKMe/GTA1-72BImage-to-Text | 73B | [Link](https://huggingface.co/HelloKKMe/GTA1-72B) |
