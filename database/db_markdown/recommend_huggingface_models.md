@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-02-08
+Updated on 2026-02-09
 
 > Generated from the Hugging Face database.
 
@@ -2764,6 +2764,7 @@ Updated on 2026-02-08
 | UpdatedAug 25 | 929 | shenasa/persian-image-captioningImage-to-Text | 0.2B | [Link](https://huggingface.co/shenasa/persian-image-captioning) |
 | UpdatedJan 20 | 893 | HuggingFaceTB/SmolVLM-500M-BaseImage-to-Text | 0.5B | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-500M-Base) |
 | Updated3 days ago | 858 | mlx-community/GLM-OCR-bf16Image-to-Text | 1B | [Link](https://huggingface.co/mlx-community/GLM-OCR-bf16) |
+| Updated6 days ago | 699 | mlx-community/GLM-OCR-8bitImage-to-Text | 0.6B | [Link](https://huggingface.co/mlx-community/GLM-OCR-8bit) |
 | UpdatedApr 28 | 631 | Hyphonical/Pixtral-12B-Captioner-Relaxed-Q4_K_M-GGUFImage-to-Text | 12B | [Link](https://huggingface.co/Hyphonical/Pixtral-12B-Captioner-Relaxed-Q4_K_M-GGUF) |
 | UpdatedApr 9, 2025 | 599 | meta-llama/Llama-4-Maverick-17B-128EImage-to-Text | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E) |
 | UpdatedJan 29 | 586 | chatpig/llava-llama3Image-to-Text | 8B | [Link](https://huggingface.co/chatpig/llava-llama3) |
@@ -4641,6 +4642,7 @@ Updated on 2026-02-08
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
 | Updatedabout 21 hours ago | 971 | marin-community/marin-32b-baseText | 33B | [Link](https://huggingface.co/marin-community/marin-32b-base) |
+| UpdatedSep 12, 2025 | 958 | ytu-ce-cosmos/Turkish-Gemma-9b-T1Text | 9B | [Link](https://huggingface.co/ytu-ce-cosmos/Turkish-Gemma-9b-T1) |
 | UpdatedSep 9 | 924k | inference-net/Schematron-3BText | 3B | [Link](https://huggingface.co/inference-net/Schematron-3B) |
 | 4.08M | 912 | unsloth/DeepSeek-R1-GGUFText | Updated12 days ago | [Link](https://huggingface.co/unsloth/DeepSeek-R1-GGUF) |
 | Updated5 days ago | 911 | kakaocorp/kanana-2-30b-a3b-base-2601Text | 31B | [Link](https://huggingface.co/kakaocorp/kanana-2-30b-a3b-base-2601) |
