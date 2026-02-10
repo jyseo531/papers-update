@@ -1900,6 +1900,7 @@ Updated on 2026-02-10
 | 16.1k | 106 | bytedance-research/UI-TARS-72B-DPOImage-Text-to-Text | UpdatedJan 25 | [Link](https://huggingface.co/bytedance-research/UI-TARS-72B-DPO) |
 | Updatedabout 1 hour ago | 101 | LiquidAI/LFM2-VL-3BImage-Text-to-Text | 3B | [Link](https://huggingface.co/LiquidAI/LFM2-VL-3B) |
 | Updatedabout 12 hours ago | 100 | google/translategemma-4b-itImage-Text-to-Text | 5B | [Link](https://huggingface.co/google/translategemma-4b-it) |
+| Updatedabout 23 hours ago | 100 | inclusionAI/UI-Venus-1 | 9B | [Link](https://huggingface.co/inclusionAI/UI-Venus-1.5-8B) |
 | 500 | 99 | meta-llama/Llama-4-Maverick-17B-128E-InstructImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct) |
 | 1.15k | 98 | ContactDoctor/Bio-Medical-MultiModal-Llama-3-8B-V1Image-Text-to-Text | UpdatedOct 17, 2024 | [Link](https://huggingface.co/ContactDoctor/Bio-Medical-MultiModal-Llama-3-8B-V1) |
 | Updatedabout 8 hours ago | 98.8k | Qwen/Qwen3-VL-30B-A3B-InstructImage-Text-to-Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Instruct) |
@@ -2868,6 +2869,7 @@ Updated on 2026-02-10
 | Updated11 days ago | 35 | Daniil-Domino/trocr-base-ru-dialecticImage-to-Text | 0.3B | [Link](https://huggingface.co/Daniil-Domino/trocr-base-ru-dialectic) |
 | UpdatedDec 4, 2024 | 35 | shashikanth-a/Llama-3 | 1B | [Link](https://huggingface.co/shashikanth-a/Llama-3.2-11B-Vision-4bit) |
 | UpdatedApr 24, 2024 | 35 | HamAndCheese82/math-ocr-donut-v2Image-to-Text | 0.2B | [Link](https://huggingface.co/HamAndCheese82/math-ocr-donut-v2) |
+| UpdatedNov 22, 2025 | 34.4k | DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-ExtremeImage-to-Text | 4B | [Link](https://huggingface.co/DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-Extreme) |
 | 6.34k | 32 | thwri/CogFlorence-2 | UpdatedSep 28, 2024 | [Link](https://huggingface.co/thwri/CogFlorence-2.2-Large) |
 | Updatedabout 4 hours ago | 32 | junyoung-00/Phi-3 | 4B | [Link](https://huggingface.co/junyoung-00/Phi-3.5-vision-instruct-ChartCap) |
 | UpdatedJul 8, 2024 | 32 | medieval-data/trocr-medieval-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/medieval-data/trocr-medieval-base) |
@@ -5718,6 +5720,7 @@ Updated on 2026-02-10
 | 181 | 7 | Danrisi/Lenovo_ChromaRadianceText-to-Image | Updated3 days ago | [Link](https://huggingface.co/Danrisi/Lenovo_ChromaRadiance) |
 | Updated11 minutes ago | 7 | unsloth/Z-Image-GGUFText-to-Image | 6B | [Link](https://huggingface.co/unsloth/Z-Image-GGUF) |
 | 14 | 7 | SnJake/Ref2FontText-to-Image | Updated3 days ago | [Link](https://huggingface.co/SnJake/Ref2Font) |
+| 162 | 7 | CodeGoat24/FLUX | Updated2 days ago | [Link](https://huggingface.co/CodeGoat24/FLUX.2-klein-base-9B-UnifiedReward-Flex-lora) |
 | 1.07k | 6 | DFloat11/FLUX | Updated1 day ago | [Link](https://huggingface.co/DFloat11/FLUX.1-dev-DF11) |
 | 836 | 6 | Minthy/RouWei-0 | Updated3 days ago | [Link](https://huggingface.co/Minthy/RouWei-0.8) |
 | 169 | 6 | PosterCraft/PosterCraft-v1_RLText-to-Image | Updated2 days ago | [Link](https://huggingface.co/PosterCraft/PosterCraft-v1_RL) |
