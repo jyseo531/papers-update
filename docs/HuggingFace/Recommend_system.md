@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-02-09
+Updated on 2026-02-10
 
 > Generated from the Hugging Face database.
 
@@ -274,6 +274,7 @@ Updated on 2026-02-09
 | 2 | Unknown | openbmb/MiniCPM-o-4_5-awqAny-to-Any | Updatedabout 8 hours ago | [Link](https://huggingface.co/openbmb/MiniCPM-o-4_5-awq) |
 | 2 | Unknown | Alex11556666/UniReasonAny-to-Any | Updatedabout 4 hours ago | [Link](https://huggingface.co/Alex11556666/UniReason) |
 | 1 | Unknown | liquid9212/yc6iz4nAny-to-Any | UpdatedAug 9, 2024 | [Link](https://huggingface.co/liquid9212/yc6iz4n) |
+| 16 | Unknown | rkfg/Ovi-fp8_quantizedAny-to-Any | UpdatedOct 27, 2025 | [Link](https://huggingface.co/rkfg/Ovi-fp8_quantized) |
 
 ## Audio Classification
 
@@ -5035,6 +5036,7 @@ Updated on 2026-02-09
 | 11 | 24 | nvidia/AceReason-Nemotron-1 | Updatedabout 20 hours ago | [Link](https://huggingface.co/nvidia/AceReason-Nemotron-1.1-7B) |
 | Updatedabout 8 hours ago | 24 | LiquidAI/LFM2-8B-A1B-GGUFText | 8B | [Link](https://huggingface.co/LiquidAI/LFM2-8B-A1B-GGUF) |
 | Updatedabout 1 hour ago | 24 | ai-sage/GigaChat3-702B-A36B-previewText | 715B | [Link](https://huggingface.co/ai-sage/GigaChat3-702B-A36B-preview) |
+| 14.5k | 24 | nvidia/Kimi-K2 | Updated5 days ago | [Link](https://huggingface.co/nvidia/Kimi-K2.5-NVFP4) |
 | 10.3k | 23 | unsloth/Phi-4-mini-instruct-GGUFText | Updated4 days ago | [Link](https://huggingface.co/unsloth/Phi-4-mini-instruct-GGUF) |
 | 26.8k | 23 | lmstudio-community/QwQ-32B-GGUFText | Updated1 day ago | [Link](https://huggingface.co/lmstudio-community/QwQ-32B-GGUF) |
 | 1.47k | 23 | NousResearch/DeepHermes-3-Llama-3-3B-PreviewText | Updated4 days ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-3B-Preview) |
@@ -6165,6 +6167,7 @@ Updated on 2026-02-09
 | 8 | 4 | ThreadAbort/IndexTTS-RustText-to-Speech | Updated24 days ago | [Link](https://huggingface.co/ThreadAbort/IndexTTS-Rust) |
 | 48 | 4 | onnx-community/Supertonic-TTS-2-ONNXText-to-Speech | Updated7 days ago | [Link](https://huggingface.co/onnx-community/Supertonic-TTS-2-ONNX) |
 | 65 | 4 | Tundragoon/Kokoro-GermanText-to-Speech | Updated10 days ago | [Link](https://huggingface.co/Tundragoon/Kokoro-German) |
+| Updatedabout 16 hours ago | 4 | tsukemono/neuTTS-JP-150mText-to-Speech | 0.2B | [Link](https://huggingface.co/tsukemono/neuTTS-JP-150m) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 1.22k | 3 | CONCREE/Adia_TTSText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/CONCREE/Adia_TTS) |
