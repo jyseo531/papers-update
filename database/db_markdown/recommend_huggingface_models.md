@@ -69,6 +69,7 @@ Updated on 2026-02-11
 | 32.5k | 44 | onnx-community/Janus-Pro-1B-ONNXAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/onnx-community/Janus-Pro-1B-ONNX) |
 | UpdatedAug 14 | 43.6k | unsloth/gemma-3-27b-it-GGUFAny-to-Any | 27B | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-GGUF) |
 | 1 | 42 | lehduong/OneDiffusionAny-to-Any | UpdatedJul 24 | [Link](https://huggingface.co/lehduong/OneDiffusion) |
+| Updatedabout 1 hour ago | 42 | inclusionAI/Ming-flash-omni-2 | 104B | [Link](https://huggingface.co/inclusionAI/Ming-flash-omni-2.0) |
 | Updatedabout 19 hours ago | 40 | OneThink/OneThinker-8BAny-to-Any | 9B | [Link](https://huggingface.co/OneThink/OneThinker-8B) |
 | UpdatedSep 28 | 40.5k | cyankiwi/Qwen3-Omni-30B-A3B-Instruct-AWQ-4bitAny-to-Any | 10B | [Link](https://huggingface.co/cyankiwi/Qwen3-Omni-30B-A3B-Instruct-AWQ-4bit) |
 | Updatedabout 6 hours ago | 39 | inclusionAI/MingTok-VisionAny-to-Any | 0.7B | [Link](https://huggingface.co/inclusionAI/MingTok-Vision) |
@@ -4875,6 +4876,7 @@ Updated on 2026-02-11
 | 39 | 47 | open-r1/OlympicCoder-32BText | Updatedabout 17 hours ago | [Link](https://huggingface.co/open-r1/OlympicCoder-32B) |
 | Updatedabout 13 hours ago | 47 | LLM360/K2-ThinkText | 33B | [Link](https://huggingface.co/LLM360/K2-Think) |
 | Updatedabout 10 hours ago | 47 | inclusionAI/Ring-1T-previewText | 1000B | [Link](https://huggingface.co/inclusionAI/Ring-1T-preview) |
+| Updatedabout 5 hours ago | 47 | Nanbeige/Nanbeige4 | 4B | [Link](https://huggingface.co/Nanbeige/Nanbeige4.1-3B) |
 | 415 | 46 | LGAI-EXAONE/EXAONE-Deep-2 | Updated4 minutes ago | [Link](https://huggingface.co/LGAI-EXAONE/EXAONE-Deep-2.4B) |
 | 151 | 46 | bytedance-research/ChatTS-14BText | Updated2 days ago | [Link](https://huggingface.co/bytedance-research/ChatTS-14B) |
 | 13 | 46 | Qwen/Qwen3-4BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-4B) |
@@ -4911,6 +4913,7 @@ Updated on 2026-02-11
 | 63 | 38 | ibm-granite/granite-4 | Updated1 day ago | [Link](https://huggingface.co/ibm-granite/granite-4.0-tiny-preview) |
 | Updatedabout 10 hours ago | 38 | huihui-ai/Huihui-gpt-oss-20b-BF16-abliteratedText | 21B | [Link](https://huggingface.co/huihui-ai/Huihui-gpt-oss-20b-BF16-abliterated) |
 | Updatedabout 10 hours ago | 38 | inclusionAI/Ring-mini-2 | 16B | [Link](https://huggingface.co/inclusionAI/Ring-mini-2.0) |
+| Updatedabout 1 hour ago | 38 | openbmb/MiniCPM-SALAText | 9B | [Link](https://huggingface.co/openbmb/MiniCPM-SALA) |
 | 125 | 37 | microsoft/Phi-4-mini-instructText | Updatedabout 2 hours ago | [Link](https://huggingface.co/microsoft/Phi-4-mini-instruct) |
 | Updatedabout 13 hours ago | 37 | Tesslate/UIGEN-X-32B-0727Text | 0.0B | [Link](https://huggingface.co/Tesslate/UIGEN-X-32B-0727) |
 | Updated1 day ago | 37 | Shekswess/trlm-135mText | 0.1B | [Link](https://huggingface.co/Shekswess/trlm-135m) |
@@ -5678,6 +5681,7 @@ Updated on 2026-02-11
 |  | 11 | ostris/zimage_turbo_training_adapterText-to-Image | Updated5 minutes ago | [Link](https://huggingface.co/ostris/zimage_turbo_training_adapter) |
 | 43 | 11 | WarmBloodAban/Flux2_Klein_Anything_to_Real_CharactersText-to-Image | Updated1 day ago | [Link](https://huggingface.co/WarmBloodAban/Flux2_Klein_Anything_to_Real_Characters) |
 | 109 | 11 | UDCAI/Z-Image-Fun-Distill-ComfyUIText-to-Image | Updated1 day ago | [Link](https://huggingface.co/UDCAI/Z-Image-Fun-Distill-ComfyUI) |
+| 1.18k | 11 | linoyts/Flux2-Klein-Delight-LoRAText-to-Image | Updated13 days ago | [Link](https://huggingface.co/linoyts/Flux2-Klein-Delight-LoRA) |
 |  | 10 | strangerzonehf/Real-ClaymationText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/strangerzonehf/Real-Claymation) |
 | 17 | 10 | zhang0jhon/flux_waveletText-to-Image | Updated5 days ago | [Link](https://huggingface.co/zhang0jhon/flux_wavelet) |
 | 36 | 10 | codermert/ozgeefinalText-to-Image | Updated6 days ago | [Link](https://huggingface.co/codermert/ozgeefinal) |
@@ -6114,6 +6118,7 @@ Updated on 2026-02-11
 | Updatedabout 8 hours ago | 13 | Soul-AILab/SoulX-Podcast-1 | 2B | [Link](https://huggingface.co/Soul-AILab/SoulX-Podcast-1.7B) |
 | 73 | 12 | geneing/KokoroText-to-Speech | UpdatedJan 10 | [Link](https://huggingface.co/geneing/Kokoro) |
 | 125 | 12 | Kamtera/persian-tts-female-vitsText-to-Speech | UpdatedMar 19, 2023 | [Link](https://huggingface.co/Kamtera/persian-tts-female-vits) |
+| Updated1 day ago | 12 | Aratako/MioTTS-0 | 0.1B | [Link](https://huggingface.co/Aratako/MioTTS-0.1B) |
 | 109 | 11 | NeuroDonu/RU-XTTS-DonuModelText-to-Speech | UpdatedMay 1, 2024 | [Link](https://huggingface.co/NeuroDonu/RU-XTTS-DonuModel) |
 | 36 | 11 | Abhinay45/XTTS-Hindi-finetunedText-to-Speech | UpdatedJan 11 | [Link](https://huggingface.co/Abhinay45/XTTS-Hindi-finetuned) |
 | 27 | 10 | hexgrad/Kokoro-82M-v1 | Updatedabout 7 hours ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M-v1.1-zh) |
@@ -6144,6 +6149,7 @@ Updated on 2026-02-11
 | Updatedabout 5 hours ago | 6 | vibevoice/VibeVoice-7BText-to-Speech | 9B | [Link](https://huggingface.co/vibevoice/VibeVoice-7B) |
 | 1.3k | 6 | IbrahimSalah/Arabic-TTS-SparkText-to-Speech | Updatedabout 3 hours ago | [Link](https://huggingface.co/IbrahimSalah/Arabic-TTS-Spark) |
 | Updatedabout 14 hours ago | 6 | AutoArk-AI/GPAText-to-Speech | 0.3B | [Link](https://huggingface.co/AutoArk-AI/GPA) |
+| Updatedabout 22 hours ago | 6 | OpenMOSS-Team/MOSS-VoiceGeneratorText-to-Speech | 2B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-VoiceGenerator) |
 | 87 | 5 | lunahr/csm-1b-safetensors-quantsText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-quants) |
 | 26 | 5 | 2121-8/canary-tts-0 | Updatedabout 19 hours ago | [Link](https://huggingface.co/2121-8/canary-tts-0.5b) |
 | 12 | 5 | MYZY-AI/Muyan-TTS-SFTText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/MYZY-AI/Muyan-TTS-SFT) |
@@ -6220,6 +6226,7 @@ Updated on 2026-02-11
 | UpdatedSep 1, 2023 | 2.16k | facebook/mms-tts-fraText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-fra) |
 | Updated7 days ago | 2.45k | prithivMLmods/VyvoTTS-v0-Qwen3-0 | 0.6B | [Link](https://huggingface.co/prithivMLmods/VyvoTTS-v0-Qwen3-0.6B-GGUF) |
 | Updated16 minutes ago | 2 | amphion/TaDiCodec-TTS-AR-Qwen2 | 0.5B | [Link](https://huggingface.co/amphion/TaDiCodec-TTS-AR-Qwen2.5-0.5B) |
+| Updated1 day ago | 2 | Aratako/MioTTS-2 | 3B | [Link](https://huggingface.co/Aratako/MioTTS-2.6B) |
 | UpdatedSep 1, 2023 | 1.78k | facebook/mms-tts-turText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-tur) |
 | UpdatedSep 1, 2023 | 1.05k | facebook/mms-tts-porText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-por) |
 | Updated16 days ago | 1.21k | Mungert/orpheus-3b-0 | 4B | [Link](https://huggingface.co/Mungert/orpheus-3b-0.1-ft-GGUF) |
