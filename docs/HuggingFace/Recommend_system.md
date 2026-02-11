@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-02-10
+Updated on 2026-02-11
 
 > Generated from the Hugging Face database.
 
@@ -1859,6 +1859,7 @@ Updated on 2026-02-10
 | Updated1 day ago | 317 | ZJU-AI4H/Hulu-Med-14BImage-Text-to-Text | 15B | [Link](https://huggingface.co/ZJU-AI4H/Hulu-Med-14B) |
 | Updated2 days ago | 311 | Open-Bee/Bee-8B-RLImage-Text-to-Text | 9B | [Link](https://huggingface.co/Open-Bee/Bee-8B-RL) |
 | Updated5 days ago | 302 | Qwen/Qwen3-VL-2B-Thinking-FP8Image-Text-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-2B-Thinking-FP8) |
+| UpdatedOct 21, 2025 | 298k | datalab-to/chandraImage-Text-to-Text | 9B | [Link](https://huggingface.co/datalab-to/chandra) |
 | 17.9k | 287 | deepseek-ai/deepseek-vl2Image-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2) |
 | 26.4k | 267 | MiniMaxAI/MiniMax-VL-01Image-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-VL-01) |
 | Updatedabout 14 hours ago | 260 | QuixiAI/Prisma-VL-8BImage-Text-to-Text | 770k | [Link](https://huggingface.co/QuixiAI/Prisma-VL-8B) |
@@ -2769,6 +2770,7 @@ Updated on 2026-02-10
 | UpdatedAug 25 | 929 | shenasa/persian-image-captioningImage-to-Text | 0.2B | [Link](https://huggingface.co/shenasa/persian-image-captioning) |
 | UpdatedJan 20 | 893 | HuggingFaceTB/SmolVLM-500M-BaseImage-to-Text | 0.5B | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-500M-Base) |
 | Updated3 days ago | 858 | mlx-community/GLM-OCR-bf16Image-to-Text | 1B | [Link](https://huggingface.co/mlx-community/GLM-OCR-bf16) |
+| UpdatedSep 7, 2024 | 743 | antoniorv6/smt-grandstaffImage-to-Text | 21.4M | [Link](https://huggingface.co/antoniorv6/smt-grandstaff) |
 | Updated6 days ago | 699 | mlx-community/GLM-OCR-8bitImage-to-Text | 0.6B | [Link](https://huggingface.co/mlx-community/GLM-OCR-8bit) |
 | UpdatedApr 28 | 631 | Hyphonical/Pixtral-12B-Captioner-Relaxed-Q4_K_M-GGUFImage-to-Text | 12B | [Link](https://huggingface.co/Hyphonical/Pixtral-12B-Captioner-Relaxed-Q4_K_M-GGUF) |
 | UpdatedApr 9, 2025 | 599 | meta-llama/Llama-4-Maverick-17B-128EImage-to-Text | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E) |
@@ -2907,6 +2909,7 @@ Updated on 2026-02-10
 | Updated1 day ago | 19 | aisingapore/Qwen-SEA-Guard-8B-040226Image-to-Text | 770k | [Link](https://huggingface.co/aisingapore/Qwen-SEA-Guard-8B-040226) |
 | Updatedabout 1 hour ago | 19 | aisingapore/Qwen-SEA-Guard-8B-2602Image-to-Text | 770k | [Link](https://huggingface.co/aisingapore/Qwen-SEA-Guard-8B-2602) |
 | Updatedabout 17 hours ago | 18 | Qwen/Qwen3-VL-Reranker-2BImage-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-Reranker-2B) |
+| UpdatedMay 11, 2024 | 18 | calm-ai/donut-base-finetuned-forms-v1Image-to-Text | 0.2B | [Link](https://huggingface.co/calm-ai/donut-base-finetuned-forms-v1) |
 | 433 | 17 | kpyu/video-blip-opt-2 | UpdatedMay 17, 2023 | [Link](https://huggingface.co/kpyu/video-blip-opt-2.7b-ego4d) |
 | Updated15 days ago | 17.2k | scb10x/typhoon-ocr-7bImage-to-Text | 8B | [Link](https://huggingface.co/scb10x/typhoon-ocr-7b) |
 | UpdatedMar 24, 2024 | 17 | Cdywalst/donut-base-handwriting_recognitionImage-to-Text | 0.2B | [Link](https://huggingface.co/Cdywalst/donut-base-handwriting_recognition) |
@@ -2995,6 +2998,7 @@ Updated on 2026-02-10
 | 9 | 6 | philschmid/donut-base-finetuned-cord-v2Image-to-Text | UpdatedOct 18, 2022 | [Link](https://huggingface.co/philschmid/donut-base-finetuned-cord-v2) |
 | Updated1 day ago | 6 | aisingapore/Qwen-SEA-Guard-4B-040226Image-to-Text | 570k | [Link](https://huggingface.co/aisingapore/Qwen-SEA-Guard-4B-040226) |
 | Updatedabout 1 hour ago | 6 | aisingapore/Qwen-SEA-Guard-4B-2602Image-to-Text | 570k | [Link](https://huggingface.co/aisingapore/Qwen-SEA-Guard-4B-2602) |
+| 78 | 6 | DunnBC22/trocr-large-printed-cmc7_tesseract_MICR_ocrImage-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-large-printed-cmc7_tesseract_MICR_ocr) |
 | 7 | 5 | laicsiifes/swin-gportuguese-2Image-to-Text | UpdatedMar 31 | [Link](https://huggingface.co/laicsiifes/swin-gportuguese-2) |
 | 5 | 5 | Yodazon/3DPrintFailureTypeImage-to-Text | UpdatedOct 18, 2024 | [Link](https://huggingface.co/Yodazon/3DPrintFailureType) |
 | Updated5 days ago | 5.7k | ChatDOC/OCRFlux-3BImage-to-Text | 4B | [Link](https://huggingface.co/ChatDOC/OCRFlux-3B) |
@@ -3085,6 +3089,7 @@ Updated on 2026-02-10
 | 2.76k | 2 | PaddlePaddle/en_PP-OCRv4_mobile_recImage-to-Text | UpdatedJul 22 | [Link](https://huggingface.co/PaddlePaddle/en_PP-OCRv4_mobile_rec) |
 | 50 | 2 | topdu/unirec-0 | Updated10 days ago | [Link](https://huggingface.co/topdu/unirec-0.1b) |
 | Updatedabout 12 hours ago | 2 | sugartai/Qwen3-VL-4B-Uni-MuMER-FinalImage-to-Text | 4B | [Link](https://huggingface.co/sugartai/Qwen3-VL-4B-Uni-MuMER-Final) |
+| 58 | 2 | arpitingle/sanskrit-ocr-loraImage-to-Text | Updated1 day ago | [Link](https://huggingface.co/arpitingle/sanskrit-ocr-lora) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -3197,6 +3202,7 @@ Updated on 2026-02-10
 | 3 | Unknown | monaaaaaa/MS2-SMILES-AlignNetImage-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/monaaaaaa/MS2-SMILES-AlignNet) |
 | 63 | Unknown | zai-org/GLM-OCRImage-to-Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/zai-org/GLM-OCR) |
 | 4 | Unknown | unsloth/GLM-OCRImage-to-Text | Updatedabout 12 hours ago | [Link](https://huggingface.co/unsloth/GLM-OCR) |
+| 2 | Unknown | MadShift/SovaImage-to-Text | UpdatedOct 29, 2024 | [Link](https://huggingface.co/MadShift/Sova) |
 
 ## Image-to-Video
 
@@ -5205,6 +5211,7 @@ Updated on 2026-02-10
 | Updated3 days ago | 3.33k | bartowski/nvidia_Orchestrator-8B-GGUFText | 8B | [Link](https://huggingface.co/bartowski/nvidia_Orchestrator-8B-GGUF) |
 | Updated5 days ago | 3.04k | nvidia/Nemotron-Flash-3B-InstructText | 3B | [Link](https://huggingface.co/nvidia/Nemotron-Flash-3B-Instruct) |
 | Updated3 days ago | 3.17k | codelion/dhara-70mText | 71.3M | [Link](https://huggingface.co/codelion/dhara-70m) |
+| Updated21 days ago | 3.01k | ruv/ruvltra-claude-codeText | 0.5B | [Link](https://huggingface.co/ruv/ruvltra-claude-code) |
 | Updated6 days ago | 2.04k | marcelbinz/Llama-3 | 71B | [Link](https://huggingface.co/marcelbinz/Llama-3.1-Centaur-70B) |
 | Updatedabout 2 hours ago | 2.66k | unsloth/Qwen3-235B-A22B-Instruct-2507-GGUFText | 235B | [Link](https://huggingface.co/unsloth/Qwen3-235B-A22B-Instruct-2507-GGUF) |
 | Updatedabout 10 hours ago | 2 | Qwen/Qwen3-30B-A3B-Thinking-2507Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507) |
@@ -6047,6 +6054,7 @@ Updated on 2026-02-10
 | Updated1 day ago | 72 | Vyvo/VyvoTTS-LFM2-JennyText-to-Speech | 0.4B | [Link](https://huggingface.co/Vyvo/VyvoTTS-LFM2-Jenny) |
 | Updated1 day ago | 72 | jaeyong2/neutts-air-hi-previewText-to-Speech | 0.6B | [Link](https://huggingface.co/jaeyong2/neutts-air-hi-preview) |
 | Updatedabout 2 hours ago | 67 | stepfun-ai/Step-Audio-EditXText-to-Speech | 4B | [Link](https://huggingface.co/stepfun-ai/Step-Audio-EditX) |
+| Updatedabout 11 hours ago | 66 | OpenMOSS-Team/MOSS-TTSText-to-Speech | 8B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS) |
 | 2.93k | 65 | capleaf/viXTTSText-to-Speech | UpdatedApr 7, 2024 | [Link](https://huggingface.co/capleaf/viXTTS) |
 | 2.99k | 63 | HKUSTAudio/Llasa-8BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-8B) |
 | 1.54k | 62 | facebook/hf-seamless-m4t-largeText-to-Speech | UpdatedDec 8, 2023 | [Link](https://huggingface.co/facebook/hf-seamless-m4t-large) |
