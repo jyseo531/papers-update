@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-02-11
+Updated on 2026-02-12
 
 > Generated from the Hugging Face database.
 
@@ -46,6 +46,7 @@ Updated on 2026-02-11
 | UpdatedApr 8 | 144 | summykai/gemma3-27b-abliterated-dpoAny-to-Any | 27B | [Link](https://huggingface.co/summykai/gemma3-27b-abliterated-dpo) |
 | 9.96k | 141 | deepseek-ai/JanusFlow-1 | Updated29 days ago | [Link](https://huggingface.co/deepseek-ai/JanusFlow-1.3B) |
 | UpdatedMar 28, 2025 | 109 | ToastyPigeon/Gemma-3-Starshine-12BAny-to-Any | 12B | [Link](https://huggingface.co/ToastyPigeon/Gemma-3-Starshine-12B) |
+| 2k | 102 | OpenMOSS-Team/MOVA-720pAny-to-Any | Updatedabout 11 hours ago | [Link](https://huggingface.co/OpenMOSS-Team/MOVA-720p) |
 | UpdatedMay 12 | 101k | unsloth/gemma-3-12b-it-unsloth-bnb-4bitAny-to-Any | 12B | [Link](https://huggingface.co/unsloth/gemma-3-12b-it-unsloth-bnb-4bit) |
 | 4.22k | 97 | inclusionAI/Ming-Lite-OmniAny-to-Any | Updatedabout 3 hours ago | [Link](https://huggingface.co/inclusionAI/Ming-Lite-Omni) |
 | UpdatedMay 28 | 92 | Gunulhona/Gemma-3-4BAny-to-Any | 4B | [Link](https://huggingface.co/Gunulhona/Gemma-3-4B) |
@@ -4931,6 +4932,7 @@ Updated on 2026-02-11
 | 56.7k | 35 | unsloth/Phi-4-reasoning-plus-GGUFText | Updated4 days ago | [Link](https://huggingface.co/unsloth/Phi-4-reasoning-plus-GGUF) |
 | Updated2 days ago | 35 | Writer/palmyra-miniText | 2B | [Link](https://huggingface.co/Writer/palmyra-mini) |
 | Updatedabout 1 hour ago | 35 | meituan-longcat/LongCat-Flash-ThinkingText | 562B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Thinking) |
+| Updatedabout 1 hour ago | 35 | unsloth/GLM-5-GGUFText | 753B | [Link](https://huggingface.co/unsloth/GLM-5-GGUF) |
 | 4.1k | 34 | bartowski/mistralai_Mistral-Small-3 | Updatedabout 18 hours ago | [Link](https://huggingface.co/bartowski/mistralai_Mistral-Small-3.1-24B-Instruct-2503-GGUF) |
 | Updated1 day ago | 34 | nvidia/NVIDIA-Nemotron-Nano-9B-v2-BaseText | 9B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2-Base) |
 | Updatedabout 6 hours ago | 34 | continuedev/instinctText | 8B | [Link](https://huggingface.co/continuedev/instinct) |
@@ -4947,6 +4949,7 @@ Updated on 2026-02-11
 | Updatedabout 2 hours ago | 33 | inclusionAI/Ring-1TText | 1000B | [Link](https://huggingface.co/inclusionAI/Ring-1T) |
 | Updated1 day ago | 33 | XiaomiMiMo/MiMo-V2-Flash-BaseText | 310B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash-Base) |
 | Updatedabout 16 hours ago | 33 | arcee-ai/Trinity-Large-TrueBaseText | 399B | [Link](https://huggingface.co/arcee-ai/Trinity-Large-TrueBase) |
+| Updatedabout 10 hours ago | 33 | zai-org/GLM-5-FP8Text | 754B | [Link](https://huggingface.co/zai-org/GLM-5-FP8) |
 | 5.81k | 32 | trillionlabs/Trillion-7B-previewText | Updatedabout 3 hours ago | [Link](https://huggingface.co/trillionlabs/Trillion-7B-preview) |
 | 224 | 32 | JetBrains/Mellum-4b-sft-pythonText | Updated6 days ago | [Link](https://huggingface.co/JetBrains/Mellum-4b-sft-python) |
 | 131 | 32 | nvidia/AceReason-Nemotron-14BText | Updatedabout 3 hours ago | [Link](https://huggingface.co/nvidia/AceReason-Nemotron-14B) |
@@ -5319,6 +5322,7 @@ Updated on 2026-02-11
 | 97 |  | moonshotai/Kimi-K2-Instruct-0905Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-K2-Instruct-0905) |
 | 22 | Unknown | Qwen/Qwen3-Next-80B-A3B-Instruct-FP8Text | Updatedabout 20 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct-FP8) |
 | 18 | Unknown | sdobson/nanochatText | Updated6 days ago | [Link](https://huggingface.co/sdobson/nanochat) |
+| Updatedabout 10 hours ago |  | zai-org/GLM-5Text | 754B | [Link](https://huggingface.co/zai-org/GLM-5) |
 
 ## Text Ranking
 
@@ -6075,6 +6079,7 @@ Updated on 2026-02-11
 | Updatedabout 1 month ago | 41 | Anilosan15/kani-tts-400m-0 | 0.4B | [Link](https://huggingface.co/Anilosan15/kani-tts-400m-0.3-tr) |
 | 5.2k | 39 | speechbrain/tts-hifigan-ljspeechText-to-Speech | UpdatedFeb 25, 2024 | [Link](https://huggingface.co/speechbrain/tts-hifigan-ljspeech) |
 | Updatedabout 23 hours ago | 39 | ekwek/Soprano-80MText-to-Speech | 79.7M | [Link](https://huggingface.co/ekwek/Soprano-80M) |
+| Updatedabout 12 hours ago | 39 | OpenMOSS-Team/MOSS-TTSD-v1 | 8B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTSD-v1.0) |
 | 1.07k | 38 | nvidia/tts_hifiganText-to-Speech | UpdatedJun 29, 2022 | [Link](https://huggingface.co/nvidia/tts_hifigan) |
 | 2.04k | 37 | kakao-enterprise/vits-ljsText-to-Speech | UpdatedSep 7, 2023 | [Link](https://huggingface.co/kakao-enterprise/vits-ljs) |
 | Updatedabout 6 hours ago | 37 | pnnbao-ump/kani-tts-370m-vieText-to-Speech | 0.4B | [Link](https://huggingface.co/pnnbao-ump/kani-tts-370m-vie) |
@@ -6127,6 +6132,7 @@ Updated on 2026-02-11
 | 1.76k | 10 | facebook/mms-tts-korText-to-Speech | UpdatedSep 1, 2023 | [Link](https://huggingface.co/facebook/mms-tts-kor) |
 | 27.9k | 10 | unsloth/orpheus-3b-0 | UpdatedMar 24 | [Link](https://huggingface.co/unsloth/orpheus-3b-0.1-ft-unsloth-bnb-4bit) |
 | 22 | 10 | hynt/F5-TTS-Vietnamese-ViVoiceText-to-Speech | Updated35 minutes ago | [Link](https://huggingface.co/hynt/F5-TTS-Vietnamese-ViVoice) |
+| Updated1 day ago | 9 | OpenMOSS-Team/MOSS-TTS-RealtimeText-to-Speech | 2B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Realtime) |
 | 63 | 8 | isaiahbjork/orpheus-3b-0 | Updatedabout 9 hours ago | [Link](https://huggingface.co/isaiahbjork/orpheus-3b-0.1-ft-Q4_K_M-GGUF) |
 | 17 | 8 | MYZY-AI/Muyan-TTSText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/MYZY-AI/Muyan-TTS) |
 | 31 | 8 | marianbasti/XTTS-v2-argentinian-spanishText-to-Speech | UpdatedJul 22, 2024 | [Link](https://huggingface.co/marianbasti/XTTS-v2-argentinian-spanish) |
@@ -6150,6 +6156,7 @@ Updated on 2026-02-11
 | 1.3k | 6 | IbrahimSalah/Arabic-TTS-SparkText-to-Speech | Updatedabout 3 hours ago | [Link](https://huggingface.co/IbrahimSalah/Arabic-TTS-Spark) |
 | Updatedabout 14 hours ago | 6 | AutoArk-AI/GPAText-to-Speech | 0.3B | [Link](https://huggingface.co/AutoArk-AI/GPA) |
 | Updatedabout 22 hours ago | 6 | OpenMOSS-Team/MOSS-VoiceGeneratorText-to-Speech | 2B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-VoiceGenerator) |
+| Updated2 days ago | 6 | Aratako/MioTTS-1 | 2B | [Link](https://huggingface.co/Aratako/MioTTS-1.7B) |
 | 87 | 5 | lunahr/csm-1b-safetensors-quantsText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-quants) |
 | 26 | 5 | 2121-8/canary-tts-0 | Updatedabout 19 hours ago | [Link](https://huggingface.co/2121-8/canary-tts-0.5b) |
 | 12 | 5 | MYZY-AI/Muyan-TTS-SFTText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/MYZY-AI/Muyan-TTS-SFT) |
