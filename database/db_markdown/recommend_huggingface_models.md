@@ -2765,6 +2765,7 @@ Updated on 2026-02-13
 | 360 |  | prithivMLmods/QIE-2511-Studio-DeLightImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/prithivMLmods/QIE-2511-Studio-DeLight) |
 | 2.11k |  | strangerzonehf/Qwen-Image-Edit-LoRA-CollectionImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/strangerzonehf/Qwen-Image-Edit-LoRA-Collection) |
 | 6 | Unknown | iitolstykh/VIBE-Image-Edit-DistilledCFGImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/iitolstykh/VIBE-Image-Edit-DistilledCFG) |
+| 8 | Unknown | deepgenteam/DeepGen-1 | Updatedabout 1 hour ago | [Link](https://huggingface.co/deepgenteam/DeepGen-1.0) |
 
 ## Image-to-Text
 
@@ -5025,6 +5026,7 @@ Updated on 2026-02-13
 | Updated4 days ago | 26.3k | unsloth/Seed-OSS-36B-Instruct-GGUFText | 36B | [Link](https://huggingface.co/unsloth/Seed-OSS-36B-Instruct-GGUF) |
 | Updatedabout 5 hours ago | 26.7k | TildeAI/TildeOpen-30bText | 31B | [Link](https://huggingface.co/TildeAI/TildeOpen-30b) |
 | Updated14 days ago | 26 | vngrs-ai/Kumru-2BText | 2B | [Link](https://huggingface.co/vngrs-ai/Kumru-2B) |
+| 152 | 26 | salakash/MinimalismText | Updatedabout 20 hours ago | [Link](https://huggingface.co/salakash/Minimalism) |
 | 513 | 25 | CohereForAI/c4ai-command-r7b-arabic-02-2025Text | Updated2 days ago | [Link](https://huggingface.co/CohereForAI/c4ai-command-r7b-arabic-02-2025) |
 | 3.12k | 25 | ibm-granite/granite-3 | Updated9 days ago | [Link](https://huggingface.co/ibm-granite/granite-3.2-8b-instruct) |
 | 568 | 25 | GSAI-ML/LLaDA-8B-BaseText | Updated3 days ago | [Link](https://huggingface.co/GSAI-ML/LLaDA-8B-Base) |
@@ -6055,6 +6057,8 @@ Updated on 2026-02-13
 | 19.6k | 127 | onnx-community/Kokoro-82M-ONNXText-to-Speech | Updated17 days ago | [Link](https://huggingface.co/onnx-community/Kokoro-82M-ONNX) |
 | UpdatedJun 1 | 123 | keanteng/sesame-csm-eliseText-to-Speech | 2B | [Link](https://huggingface.co/keanteng/sesame-csm-elise) |
 | Updated1 day ago | 115 | vibevoice/VibeVoice-1 | 3B | [Link](https://huggingface.co/vibevoice/VibeVoice-1.5B) |
+| Updatedabout 22 hours ago | 110 | neuphonic/neutts-nano-frenchText-to-Speech | 0.2B | [Link](https://huggingface.co/neuphonic/neutts-nano-french) |
+| Updatedabout 22 hours ago | 106 | neuphonic/neutts-nano-germanText-to-Speech | 0.2B | [Link](https://huggingface.co/neuphonic/neutts-nano-german) |
 | 29.7k | 105 | ai4bharat/indic-parler-ttsText-to-Speech | UpdatedDec 9, 2024 | [Link](https://huggingface.co/ai4bharat/indic-parler-tts) |
 | Updatedabout 2 hours ago | 105 | webbigdata/VoiceCoreText-to-Speech | 3B | [Link](https://huggingface.co/webbigdata/VoiceCore) |
 | 1.68k | 104 | parler-tts/parler-tts-mini-expressoText-to-Speech | UpdatedMay 21, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-mini-expresso) |
@@ -6144,6 +6148,7 @@ Updated on 2026-02-13
 | 27.9k | 10 | unsloth/orpheus-3b-0 | UpdatedMar 24 | [Link](https://huggingface.co/unsloth/orpheus-3b-0.1-ft-unsloth-bnb-4bit) |
 | 22 | 10 | hynt/F5-TTS-Vietnamese-ViVoiceText-to-Speech | Updated35 minutes ago | [Link](https://huggingface.co/hynt/F5-TTS-Vietnamese-ViVoice) |
 | Updated1 day ago | 9 | OpenMOSS-Team/MOSS-TTS-RealtimeText-to-Speech | 2B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Realtime) |
+| 1.31k | 9 | OpenMOSS-Team/MOSS-TTS-Local-TransformerText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Local-Transformer) |
 | 63 | 8 | isaiahbjork/orpheus-3b-0 | Updatedabout 9 hours ago | [Link](https://huggingface.co/isaiahbjork/orpheus-3b-0.1-ft-Q4_K_M-GGUF) |
 | 17 | 8 | MYZY-AI/Muyan-TTSText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/MYZY-AI/Muyan-TTS) |
 | 31 | 8 | marianbasti/XTTS-v2-argentinian-spanishText-to-Speech | UpdatedJul 22, 2024 | [Link](https://huggingface.co/marianbasti/XTTS-v2-argentinian-spanish) |
