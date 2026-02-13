@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-02-12
+Updated on 2026-02-13
 
 > Generated from the Hugging Face database.
 
@@ -4847,6 +4847,7 @@ Updated on 2026-02-12
 | Updated1 day ago | 61 | KurmaAI/AQUA-7BText | 7B | [Link](https://huggingface.co/KurmaAI/AQUA-7B) |
 | Updatedabout 23 hours ago | 61 | vandijklab/C2S-Scale-Gemma-2-27BText | 28B | [Link](https://huggingface.co/vandijklab/C2S-Scale-Gemma-2-27B) |
 | Updated35 minutes ago | 61 | naver-hyperclovax/HyperCLOVAX-SEED-Omni-8BText | 11B | [Link](https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Omni-8B) |
+| Updated33 minutes ago | 61 | inclusionAI/Ring-2 | 1T | [Link](https://huggingface.co/inclusionAI/Ring-2.5-1T) |
 | Updated2 days ago | 60 | Alibaba-NLP/WebDancer-32BText | 33B | [Link](https://huggingface.co/Alibaba-NLP/WebDancer-32B) |
 | Updatedabout 20 hours ago | 60 | inclusionAI/LLaDA2 | 16B | [Link](https://huggingface.co/inclusionAI/LLaDA2.0-mini-preview) |
 | Updatedabout 13 hours ago | 60 | haykgrigorian/TimeCapsuleLLM-v2-llama-1 | 1B | [Link](https://huggingface.co/haykgrigorian/TimeCapsuleLLM-v2-llama-1.2B) |
@@ -6076,6 +6077,7 @@ Updated on 2026-02-12
 | 2.99k | 63 | HKUSTAudio/Llasa-8BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-8B) |
 | 1.54k | 62 | facebook/hf-seamless-m4t-largeText-to-Speech | UpdatedDec 8, 2023 | [Link](https://huggingface.co/facebook/hf-seamless-m4t-large) |
 | Updatedabout 7 hours ago | 61 | maya-research/maya1Text-to-Speech | 3B | [Link](https://huggingface.co/maya-research/maya1) |
+| Updatedabout 11 hours ago | 61 | neuphonic/neutts-nano-spanishText-to-Speech | 0.2B | [Link](https://huggingface.co/neuphonic/neutts-nano-spanish) |
 | Updatedabout 13 hours ago | 58 | NandemoGHS/Anime-Llasa-3B-CaptionsText-to-Speech | 3B | [Link](https://huggingface.co/NandemoGHS/Anime-Llasa-3B-Captions) |
 | UpdatedMar 14 | 58 | saheedniyi/YarnGPT-localText-to-Speech | 0.4B | [Link](https://huggingface.co/saheedniyi/YarnGPT-local) |
 | Updated3 days ago | 57 | mlx-community/VoxCPM1 | 0.9B | [Link](https://huggingface.co/mlx-community/VoxCPM1.5) |
