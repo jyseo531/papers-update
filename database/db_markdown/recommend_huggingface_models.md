@@ -1932,6 +1932,7 @@ Updated on 2026-02-14
 | Updatedabout 13 hours ago | 66 | openbmb/MiniCPM-V-4Image-Text-to-Text | 4B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4) |
 | 1.47k | 64 | AIDC-AI/Ovis2-1BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-1B) |
 | Updatedabout 17 hours ago | 64 | prithivMLmods/DeepCaption-VLA-V2 | 8B | [Link](https://huggingface.co/prithivMLmods/DeepCaption-VLA-V2.0-7B) |
+| Updatedabout 5 hours ago | 64 | inclusionAI/ZwZ-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/inclusionAI/ZwZ-8B) |
 | 1.64k | 62 | google/gemma-3-4b-itImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-4b-it) |
 | 69 | 61 | google/gemma-3-12b-itImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-12b-it) |
 | 3.25k | 61 | meta-llama/Llama-4-Scout-17B-16EImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E) |
@@ -2418,6 +2419,7 @@ Updated on 2026-02-14
 | 2.24k | 33 | drbaph/Qwen-Image-Edit-Mannequin-Clipper-LoRAImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/drbaph/Qwen-Image-Edit-Mannequin-Clipper-LoRA) |
 | 7.79k | 31 | lllyasviel/control_v11p_sd15s2_lineart_animeImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15s2_lineart_anime) |
 | 1.37k | 31 | LanguageBind/UniWorld-V1Image-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/LanguageBind/UniWorld-V1) |
+| 8 | 31 | FireRedTeam/FireRed-Image-Edit-1 | Updatedabout 3 hours ago | [Link](https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0) |
 | 303 | 30 | lllyasviel/sd-controlnet-normalImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-normal) |
 | 3 | 30 | vllab/controlnet-handsImage-to-Image | UpdatedMay 19, 2023 | [Link](https://huggingface.co/vllab/controlnet-hands) |
 | 298 | 29 | ixarchakos/tryOffAnyoneImage-to-Image | UpdatedDec 13, 2024 | [Link](https://huggingface.co/ixarchakos/tryOffAnyone) |
