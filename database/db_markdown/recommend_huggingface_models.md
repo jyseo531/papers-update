@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-02-13
+Updated on 2026-02-14
 
 > Generated from the Hugging Face database.
 
@@ -1901,6 +1901,7 @@ Updated on 2026-02-13
 | Updatedabout 8 hours ago | 111 | deepseek-ai/DeepSeek-OCRImage-Text-to-Text | 3B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-OCR) |
 | Updated16 days ago | 109 | ChatDOC/OCRFlux-3BImage-Text-to-Text | 4B | [Link](https://huggingface.co/ChatDOC/OCRFlux-3B) |
 | 16.1k | 106 | bytedance-research/UI-TARS-72B-DPOImage-Text-to-Text | UpdatedJan 25 | [Link](https://huggingface.co/bytedance-research/UI-TARS-72B-DPO) |
+| Updated4 days ago | 105 | Alibaba-DAMO-Academy/RynnBrain-30B-A3BImage-Text-to-Text | 17B | [Link](https://huggingface.co/Alibaba-DAMO-Academy/RynnBrain-30B-A3B) |
 | Updatedabout 1 hour ago | 101 | LiquidAI/LFM2-VL-3BImage-Text-to-Text | 3B | [Link](https://huggingface.co/LiquidAI/LFM2-VL-3B) |
 | Updatedabout 12 hours ago | 100 | google/translategemma-4b-itImage-Text-to-Text | 5B | [Link](https://huggingface.co/google/translategemma-4b-it) |
 | Updatedabout 23 hours ago | 100 | inclusionAI/UI-Venus-1 | 9B | [Link](https://huggingface.co/inclusionAI/UI-Venus-1.5-8B) |
@@ -3097,6 +3098,7 @@ Updated on 2026-02-13
 | 58 | 2 | arpitingle/sanskrit-ocr-loraImage-to-Text | Updated1 day ago | [Link](https://huggingface.co/arpitingle/sanskrit-ocr-lora) |
 | 4.97k | 2 | PaddlePaddle/PP-FormulaNet_plus-LImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PP-FormulaNet_plus-L) |
 | 4.43k | 2 | PaddlePaddle/th_PP-OCRv5_mobile_recImage-to-Text | UpdatedAug 29, 2025 | [Link](https://huggingface.co/PaddlePaddle/th_PP-OCRv5_mobile_rec) |
+| Updatedabout 16 hours ago | 2 | noctrex/ZwZ-8B-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/noctrex/ZwZ-8B-GGUF) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -4923,6 +4925,8 @@ Updated on 2026-02-13
 | Updatedabout 10 hours ago | 38 | huihui-ai/Huihui-gpt-oss-20b-BF16-abliteratedText | 21B | [Link](https://huggingface.co/huihui-ai/Huihui-gpt-oss-20b-BF16-abliterated) |
 | Updatedabout 10 hours ago | 38 | inclusionAI/Ring-mini-2 | 16B | [Link](https://huggingface.co/inclusionAI/Ring-mini-2.0) |
 | Updatedabout 1 hour ago | 38 | openbmb/MiniCPM-SALAText | 9B | [Link](https://huggingface.co/openbmb/MiniCPM-SALA) |
+| Updated18 days ago | 38 | DMindAI/DMind-3-miniText | 4B | [Link](https://huggingface.co/DMindAI/DMind-3-mini) |
+| Updated18 days ago | 38 | DMindAI/DMind-3Text | 21B | [Link](https://huggingface.co/DMindAI/DMind-3) |
 | 125 | 37 | microsoft/Phi-4-mini-instructText | Updatedabout 2 hours ago | [Link](https://huggingface.co/microsoft/Phi-4-mini-instruct) |
 | Updatedabout 13 hours ago | 37 | Tesslate/UIGEN-X-32B-0727Text | 0.0B | [Link](https://huggingface.co/Tesslate/UIGEN-X-32B-0727) |
 | Updated1 day ago | 37 | Shekswess/trlm-135mText | 0.1B | [Link](https://huggingface.co/Shekswess/trlm-135m) |
@@ -5333,6 +5337,7 @@ Updated on 2026-02-13
 | 22 | Unknown | Qwen/Qwen3-Next-80B-A3B-Instruct-FP8Text | Updatedabout 20 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct-FP8) |
 | 18 | Unknown | sdobson/nanochatText | Updated6 days ago | [Link](https://huggingface.co/sdobson/nanochat) |
 | Updatedabout 10 hours ago |  | zai-org/GLM-5Text | 754B | [Link](https://huggingface.co/zai-org/GLM-5) |
+| 40 | Unknown | DMindAI/DMind-3-nanoText | Updatedabout 19 hours ago | [Link](https://huggingface.co/DMindAI/DMind-3-nano) |
 
 ## Text Ranking
 
@@ -6376,6 +6381,7 @@ Updated on 2026-02-13
 | 9 | 71 | LanguageBind/Open-Sora-Plan-v1 | UpdatedDec 5, 2024 | [Link](https://huggingface.co/LanguageBind/Open-Sora-Plan-v1.3.0) |
 | 1.6k | 71 | OmniAvatar/OmniAvatar-14BText-to-Video | Updatedabout 11 hours ago | [Link](https://huggingface.co/OmniAvatar/OmniAvatar-14B) |
 | 15.2k | 65 | Skywork/SkyReels-V1-Hunyuan-T2VText-to-Video | Updatedabout 21 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-T2V) |
+| 136 | 58 | alibaba-pai/CogVideoX-Fun-V1 | UpdatedDec 11, 2025 | [Link](https://huggingface.co/alibaba-pai/CogVideoX-Fun-V1.1-Reward-LoRAs) |
 | UpdatedApr 16, 2024 | 55 | nagayama0706/video_generation_modelText-to-Video | 7B | [Link](https://huggingface.co/nagayama0706/video_generation_model) |
 | Updatedabout 12 hours ago | 50 | Nichonauta/Self-Forcing2 | 1B | [Link](https://huggingface.co/Nichonauta/Self-Forcing2.1-T2V-1.3B-GGUF) |
 | 12.7k | 48 | calcuis/hunyuan-ggufText-to-Video | UpdatedDec 21, 2024 | [Link](https://huggingface.co/calcuis/hunyuan-gguf) |
