@@ -1860,6 +1860,7 @@ Updated on 2026-02-15
 | Updated2 days ago | 338 | lapa-llm/lapa-v0 | 12B | [Link](https://huggingface.co/lapa-llm/lapa-v0.1.2-instruct) |
 | Updated1 day ago | 317 | ZJU-AI4H/Hulu-Med-14BImage-Text-to-Text | 15B | [Link](https://huggingface.co/ZJU-AI4H/Hulu-Med-14B) |
 | Updated2 days ago | 311 | Open-Bee/Bee-8B-RLImage-Text-to-Text | 9B | [Link](https://huggingface.co/Open-Bee/Bee-8B-RL) |
+| Updatedabout 21 hours ago | 309 | inclusionAI/ZwZ-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/inclusionAI/ZwZ-4B) |
 | Updated5 days ago | 302 | Qwen/Qwen3-VL-2B-Thinking-FP8Image-Text-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-2B-Thinking-FP8) |
 | UpdatedOct 21, 2025 | 298k | datalab-to/chandraImage-Text-to-Text | 9B | [Link](https://huggingface.co/datalab-to/chandra) |
 | 17.9k | 287 | deepseek-ai/deepseek-vl2Image-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2) |
