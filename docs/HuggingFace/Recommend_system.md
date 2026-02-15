@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-02-14
+Updated on 2026-02-15
 
 > Generated from the Hugging Face database.
 
@@ -6098,7 +6098,9 @@ Updated on 2026-02-14
 | 38.3k | 48 | SWivid/E2-TTSText-to-Speech | UpdatedMar 12 | [Link](https://huggingface.co/SWivid/E2-TTS) |
 | 73.1k | 45 | onnx-community/Kokoro-82M-v1 | Updated17 days ago | [Link](https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX) |
 | 482 | 44 | nvidia/magpie_tts_multilingual_357mText-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/nvidia/magpie_tts_multilingual_357m) |
+| Updated1 day ago | 44 | nineninesix/kani-tts-2-enText-to-Speech | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-2-en) |
 | Updatedabout 1 month ago | 41 | Anilosan15/kani-tts-400m-0 | 0.4B | [Link](https://huggingface.co/Anilosan15/kani-tts-400m-0.3-tr) |
+| Updated1 day ago | 41 | nineninesix/kani-tts-2-ptText-to-Speech | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-2-pt) |
 | 5.2k | 39 | speechbrain/tts-hifigan-ljspeechText-to-Speech | UpdatedFeb 25, 2024 | [Link](https://huggingface.co/speechbrain/tts-hifigan-ljspeech) |
 | Updatedabout 23 hours ago | 39 | ekwek/Soprano-80MText-to-Speech | 79.7M | [Link](https://huggingface.co/ekwek/Soprano-80M) |
 | Updatedabout 12 hours ago | 39 | OpenMOSS-Team/MOSS-TTSD-v1 | 8B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTSD-v1.0) |
