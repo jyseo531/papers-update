@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-02-15
+Updated on 2026-02-16
 
 > Generated from the Hugging Face database.
 
@@ -4758,6 +4758,7 @@ Updated on 2026-02-15
 | 2.25k | 153 | open-thoughts/OpenThinker-32BText | Updated11 days ago | [Link](https://huggingface.co/open-thoughts/OpenThinker-32B) |
 | Updatedabout 4 hours ago | 153 | Qwen/Qwen3Guard-Gen-8BText | 8B | [Link](https://huggingface.co/Qwen/Qwen3Guard-Gen-8B) |
 | Updatedabout 4 hours ago | 151 | moondream/moondream3-previewText | 9B | [Link](https://huggingface.co/moondream/moondream3-preview) |
+| Updated1 day ago | 150 | lm-provers/QED-NanoText | 4B | [Link](https://huggingface.co/lm-provers/QED-Nano) |
 | Updatedabout 15 hours ago | 149 | openai/gpt-oss-safeguard-120bText | 120B | [Link](https://huggingface.co/openai/gpt-oss-safeguard-120b) |
 | 38 | 143 | qihoo360/TinyR1-32B-PreviewText | Updatedabout 17 hours ago | [Link](https://huggingface.co/qihoo360/TinyR1-32B-Preview) |
 | Updated6 days ago | 140 | zerofata/MS3 | 24B | [Link](https://huggingface.co/zerofata/MS3.2-PaintedFantasy-24B) |
@@ -4862,6 +4863,7 @@ Updated on 2026-02-15
 | Updatedabout 17 hours ago | 58 | microsoft/Phi-4-mini-flash-reasoningText | 4B | [Link](https://huggingface.co/microsoft/Phi-4-mini-flash-reasoning) |
 | Updatedabout 10 hours ago | 58 | unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUFText | 31B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF) |
 | Updatedabout 11 hours ago | 58 | CohereLabs/command-a-reasoning-08-2025Text | 111B | [Link](https://huggingface.co/CohereLabs/command-a-reasoning-08-2025) |
+| Updatedabout 16 hours ago | 58 | jdopensource/JoyAI-LLM-FlashText | 49B | [Link](https://huggingface.co/jdopensource/JoyAI-LLM-Flash) |
 | 406 | 57 | LatitudeGames/Wayfarer-Large-70B-Llama-3 | Updated6 days ago | [Link](https://huggingface.co/LatitudeGames/Wayfarer-Large-70B-Llama-3.3) |
 | 46 | 57 | a-m-team/AM-Thinking-v1Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/a-m-team/AM-Thinking-v1) |
 | Updatedabout 5 hours ago | 57 | LiquidAI/LFM2-8B-A1BText | 8B | [Link](https://huggingface.co/LiquidAI/LFM2-8B-A1B) |
