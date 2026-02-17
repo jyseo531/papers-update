@@ -3108,6 +3108,7 @@ Updated on 2026-02-17
 | 4.43k | 2 | PaddlePaddle/th_PP-OCRv5_mobile_recImage-to-Text | UpdatedAug 29, 2025 | [Link](https://huggingface.co/PaddlePaddle/th_PP-OCRv5_mobile_rec) |
 | Updatedabout 16 hours ago | 2 | noctrex/ZwZ-8B-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/noctrex/ZwZ-8B-GGUF) |
 | Updatedabout 13 hours ago | 2 | ShayanCyan/phi4-multimodal-quantisized-ggufImage-to-Text | 4B | [Link](https://huggingface.co/ShayanCyan/phi4-multimodal-quantisized-gguf) |
+| 103 | 2 | bluolightning/manga-ocr-tfliteImage-to-Text | UpdatedDec 7, 2025 | [Link](https://huggingface.co/bluolightning/manga-ocr-tflite) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -5656,6 +5657,7 @@ Updated on 2026-02-17
 | 10.3k | 64 | LyliaEngine/Pony_Diffusion_V6_XLText-to-Image | UpdatedMay 25, 2024 | [Link](https://huggingface.co/LyliaEngine/Pony_Diffusion_V6_XL) |
 |  | 61 | meituan-longcat/LongCat-ImageText-to-Image | Updatedabout 13 hours ago | [Link](https://huggingface.co/meituan-longcat/LongCat-Image) |
 | 8.42k | 59 | cyberdelia/CyberRealisticPonyText-to-Image | Updated3 days ago | [Link](https://huggingface.co/cyberdelia/CyberRealisticPony) |
+| Updatedabout 9 hours ago | 55 | shallowdream204/BitDance-14B-64xText-to-Image | 15B | [Link](https://huggingface.co/shallowdream204/BitDance-14B-64x) |
 | 328 | 54 | briaai/FIBOText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/briaai/FIBO) |
 | 69 | 54 | NewBie-AI/NewBie-image-Exp0 | Updatedabout 11 hours ago | [Link](https://huggingface.co/NewBie-AI/NewBie-image-Exp0.1) |
 | 3.82k | 52 | alibaba-pai/Z-Image-Fun-Lora-DistillText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/alibaba-pai/Z-Image-Fun-Lora-Distill) |
@@ -5673,6 +5675,7 @@ Updated on 2026-02-17
 | 145 | 28 | ByteDance/XVerseText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/ByteDance/XVerse) |
 | 41 | 26 | SG161222/SPARK | Updatedabout 17 hours ago | [Link](https://huggingface.co/SG161222/SPARK.Chroma_preview) |
 | Updatedabout 8 hours ago | 24 | jayn7/Z-Image-GGUFText-to-Image | 6B | [Link](https://huggingface.co/jayn7/Z-Image-GGUF) |
+| Updatedabout 11 hours ago | 24 | shallowdream204/BitDance-14B-16xText-to-Image | 15B | [Link](https://huggingface.co/shallowdream204/BitDance-14B-16x) |
 | 8 | 22 | nunchaku-tech/nunchaku-qwen-image-edit-2509Text-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-qwen-image-edit-2509) |
 | Updatedabout 14 hours ago | 22 | purplesmartai/pony-v7-baseText-to-Image | 7B | [Link](https://huggingface.co/purplesmartai/pony-v7-base) |
 | 5.26k | 20 | mit-han-lab/svdq-int4-flux | Updated22 days ago | [Link](https://huggingface.co/mit-han-lab/svdq-int4-flux.1-dev) |
@@ -6061,6 +6064,7 @@ Updated on 2026-02-17
 | UpdatedSep 1, 2023 | 251 | facebook/mms-tts-hebText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-heb) |
 | 19.5k | 241 | parler-tts/parler-tts-large-v1Text-to-Speech | UpdatedNov 22, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-large-v1) |
 | Updated8 days ago | 239 | wcy1122/MGM-Omni-TTS-0 | 0.7B | [Link](https://huggingface.co/wcy1122/MGM-Omni-TTS-0.6B) |
+| Updated5 days ago | 237 | neuphonic/neutts-nano-german-q4-ggufText-to-Speech | 0.2B | [Link](https://huggingface.co/neuphonic/neutts-nano-german-q4-gguf) |
 | Updatedabout 9 hours ago | 216 | microsoft/VibeVoice-1 | 3B | [Link](https://huggingface.co/microsoft/VibeVoice-1.5B) |
 | Updatedabout 4 hours ago | 214 | neuphonic/neutts-nanoText-to-Speech | 0.3B | [Link](https://huggingface.co/neuphonic/neutts-nano) |
 | 27.5k | 194 | suno/bark-smallText-to-Speech | UpdatedNov 10, 2023 | [Link](https://huggingface.co/suno/bark-small) |
