@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-02-17
+Updated on 2026-02-18
 
 > Generated from the Hugging Face database.
 
@@ -2183,6 +2183,7 @@ Updated on 2026-02-17
 | Updated1 day ago | 6.07k | IDEA-Research/Rex-OmniImage-Text-to-Text | 4B | [Link](https://huggingface.co/IDEA-Research/Rex-Omni) |
 | Updatedabout 4 hours ago | 6.08k | bartowski/zai-org_GLM-4 | 9B | [Link](https://huggingface.co/bartowski/zai-org_GLM-4.6V-Flash-GGUF) |
 | Updatedabout 6 hours ago | 6 | meituan/EvoCUA-8B-20260105Image-Text-to-Text | 9B | [Link](https://huggingface.co/meituan/EvoCUA-8B-20260105) |
+| Updated21 days ago | 6.57k | Dogacel/Universal-DeepSeek-OCR-2Image-Text-to-Text | 3B | [Link](https://huggingface.co/Dogacel/Universal-DeepSeek-OCR-2) |
 | 168 | 5 | MBZUAI/AINImage-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/MBZUAI/AIN) |
 | Updatedabout 9 hours ago | 5 | Skywork/Skywork-R1V3-38BImage-Text-to-Text | 38B | [Link](https://huggingface.co/Skywork/Skywork-R1V3-38B) |
 | Updatedabout 7 hours ago | 5 | internlm/Intern-S1Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1) |
