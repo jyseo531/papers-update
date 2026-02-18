@@ -40,6 +40,7 @@ Updated on 2026-02-18
 | UpdatedApr 9 | 203 | Tesslate/Synthia-S1-27bAny-to-Any | 27B | [Link](https://huggingface.co/Tesslate/Synthia-S1-27b) |
 | Updated16 days ago | 193 | OddTheGreat/Mars_27B_V | 29B | [Link](https://huggingface.co/OddTheGreat/Mars_27B_V.1) |
 | Updated12 days ago | 166 | Saktsant/Qwen3-Omni-30B-A3B-Instruct-AWQAny-to-Any | 10B | [Link](https://huggingface.co/Saktsant/Qwen3-Omni-30B-A3B-Instruct-AWQ) |
+| UpdatedDec 24, 2025 | 166 | mlx-community/Qwen3-Omni-30B-A3B-Instruct-8bitAny-to-Any | 11B | [Link](https://huggingface.co/mlx-community/Qwen3-Omni-30B-A3B-Instruct-8bit) |
 | UpdatedOct 23, 2024 | 153 | BAAI/Emu3-Stage1Any-to-Any | 8B | [Link](https://huggingface.co/BAAI/Emu3-Stage1) |
 | UpdatedDec 24, 2025 | 151 | mlx-community/Qwen3-Omni-30B-A3B-Instruct-bf16Any-to-Any | 35B | [Link](https://huggingface.co/mlx-community/Qwen3-Omni-30B-A3B-Instruct-bf16) |
 | 455 | 149 | NexaAI/OmniNeural-4BAny-to-Any | Updated4 days ago | [Link](https://huggingface.co/NexaAI/OmniNeural-4B) |
@@ -277,6 +278,7 @@ Updated on 2026-02-18
 | 2 | Unknown | Alex11556666/UniReasonAny-to-Any | Updatedabout 4 hours ago | [Link](https://huggingface.co/Alex11556666/UniReason) |
 | 1 | Unknown | liquid9212/yc6iz4nAny-to-Any | UpdatedAug 9, 2024 | [Link](https://huggingface.co/liquid9212/yc6iz4n) |
 | 16 | Unknown | rkfg/Ovi-fp8_quantizedAny-to-Any | UpdatedOct 27, 2025 | [Link](https://huggingface.co/rkfg/Ovi-fp8_quantized) |
+| 86 | Unknown | xgen-universe/CapybaraAny-to-Any | Updatedabout 2 hours ago | [Link](https://huggingface.co/xgen-universe/Capybara) |
 
 ## Audio Classification
 
@@ -2163,6 +2165,7 @@ Updated on 2026-02-18
 | Updatedabout 9 hours ago | 8 | Hcompany/Holo2-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/Hcompany/Holo2-8B) |
 | Updatedabout 9 hours ago | 8 | Hcompany/Holo2-30B-A3BImage-Text-to-Text | 31B | [Link](https://huggingface.co/Hcompany/Holo2-30B-A3B) |
 | 833 | 8 | mistralai/Ministral-3-3B-Instruct-2512-ONNXImage-Text-to-Text | Updatedabout 22 hours ago | [Link](https://huggingface.co/mistralai/Ministral-3-3B-Instruct-2512-ONNX) |
+| 2.38k | 8 | vincentzed-hf/Qwen3 | Updatedabout 22 hours ago | [Link](https://huggingface.co/vincentzed-hf/Qwen3.5-397B-A17B-NVFP4) |
 | 27 | 7 | ByteDance-Seed/SAIL-7BImage-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/ByteDance-Seed/SAIL-7B) |
 | 677 | 7 | turing-motors/Heron-NVILA-Lite-15BImage-Text-to-Text | Updated14 days ago | [Link](https://huggingface.co/turing-motors/Heron-NVILA-Lite-15B) |
 | 25 | 7 | mlabonne/gemma-3-27b-it-qat-abliteratedImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-qat-abliterated) |
@@ -3158,6 +3161,7 @@ Updated on 2026-02-18
 | 12 | 1 | shivalikasingh/donut-cheque-parserImage-to-Text | UpdatedNov 10, 2022 | [Link](https://huggingface.co/shivalikasingh/donut-cheque-parser) |
 | UpdatedJul 21, 2025 | 1.22k | CEIA-UFG/Gemma-3-Gaia-PT-BR-4b-itImage-to-Text | 4B | [Link](https://huggingface.co/CEIA-UFG/Gemma-3-Gaia-PT-BR-4b-it) |
 | 2.64k | 1 | PaddlePaddle/eslav_PP-OCRv5_mobile_recImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/eslav_PP-OCRv5_mobile_rec) |
+| 1 | 1 | Kansallisarkisto/court-records-htrImage-to-Text | UpdatedSep 17, 2024 | [Link](https://huggingface.co/Kansallisarkisto/court-records-htr) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -6068,6 +6072,7 @@ Updated on 2026-02-18
 | Updated5 days ago | 237 | neuphonic/neutts-nano-german-q4-ggufText-to-Speech | 0.2B | [Link](https://huggingface.co/neuphonic/neutts-nano-german-q4-gguf) |
 | Updatedabout 9 hours ago | 216 | microsoft/VibeVoice-1 | 3B | [Link](https://huggingface.co/microsoft/VibeVoice-1.5B) |
 | Updatedabout 4 hours ago | 214 | neuphonic/neutts-nanoText-to-Speech | 0.3B | [Link](https://huggingface.co/neuphonic/neutts-nano) |
+| Updated6 days ago | 197 | neuphonic/neutts-nano-german-q8-ggufText-to-Speech | 0.2B | [Link](https://huggingface.co/neuphonic/neutts-nano-german-q8-gguf) |
 | 27.5k | 194 | suno/bark-smallText-to-Speech | UpdatedNov 10, 2023 | [Link](https://huggingface.co/suno/bark-small) |
 | Updated3 days ago | 182 | fnlp/MOSS-TTSD-v0 | 2B | [Link](https://huggingface.co/fnlp/MOSS-TTSD-v0.5) |
 | Updatedabout 5 hours ago | 169k | Qwen/Qwen3-TTS-12Hz-1 | 2B | [Link](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice) |
