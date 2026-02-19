@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-02-18
+Updated on 2026-02-19
 
 > Generated from the Hugging Face database.
 
@@ -279,6 +279,7 @@ Updated on 2026-02-18
 | 1 | Unknown | liquid9212/yc6iz4nAny-to-Any | UpdatedAug 9, 2024 | [Link](https://huggingface.co/liquid9212/yc6iz4n) |
 | 16 | Unknown | rkfg/Ovi-fp8_quantizedAny-to-Any | UpdatedOct 27, 2025 | [Link](https://huggingface.co/rkfg/Ovi-fp8_quantized) |
 | 86 | Unknown | xgen-universe/CapybaraAny-to-Any | Updatedabout 2 hours ago | [Link](https://huggingface.co/xgen-universe/Capybara) |
+| 3 | Unknown | shayzinasimulation/Red-Angel-SenateAny-to-Any | UpdatedDec 3, 2025 | [Link](https://huggingface.co/shayzinasimulation/Red-Angel-Senate) |
 
 ## Audio Classification
 
@@ -2046,6 +2047,7 @@ Updated on 2026-02-18
 | Updatedabout 2 hours ago | 17 | ServiceNow/GroundNext-7B-V0Image-Text-to-Text | 8B | [Link](https://huggingface.co/ServiceNow/GroundNext-7B-V0) |
 | Updatedabout 8 hours ago | 17 | google/t5gemma-2-1b-1bImage-Text-to-Text | 2B | [Link](https://huggingface.co/google/t5gemma-2-1b-1b) |
 | Updatedabout 12 hours ago | 17 | google/translategemma-12b-itImage-Text-to-Text | 13B | [Link](https://huggingface.co/google/translategemma-12b-it) |
+| Updated1 day ago | 16.1k | bartowski/moonshotai_Kimi-K2 | 1T | [Link](https://huggingface.co/bartowski/moonshotai_Kimi-K2.5-GGUF) |
 | 14 | 15 | Sony/AKI-4B-phi-3 | Updated2 days ago | [Link](https://huggingface.co/Sony/AKI-4B-phi-3.5-mini) |
 | 1.82k | 15 | stepfun-ai/step3-fp8Image-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/stepfun-ai/step3-fp8) |
 | Updatedabout 7 hours ago | 15 | OpenGVLab/InternVL3_5-14BImage-Text-to-Text | 15B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-14B) |
@@ -2831,6 +2833,7 @@ Updated on 2026-02-18
 | UpdatedJul 22 | 135 | sugiv/cardvaultplus-500m-ggufImage-to-Text | 0.4B | [Link](https://huggingface.co/sugiv/cardvaultplus-500m-gguf) |
 | 1.69k | 134 | xtuner/llava-phi-3-mini-ggufImage-to-Text | UpdatedApr 29, 2024 | [Link](https://huggingface.co/xtuner/llava-phi-3-mini-gguf) |
 | Updated4 days ago | 134 | mlx-community/olmOCR-2-7B-1025-bf16Image-to-Text | 8B | [Link](https://huggingface.co/mlx-community/olmOCR-2-7B-1025-bf16) |
+| UpdatedAug 14, 2025 | 129 | WafaaFraih/blip-roco-radiology-captioningImage-to-Text | 0.2B | [Link](https://huggingface.co/WafaaFraih/blip-roco-radiology-captioning) |
 | Updated32 minutes ago | 119 | stepfun-ai/GELab-Zero-4B-previewImage-to-Text | 4B | [Link](https://huggingface.co/stepfun-ai/GELab-Zero-4B-preview) |
 | UpdatedFeb 25 | 117k | allenai/olmOCR-7B-0225-previewImage-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview) |
 | UpdatedApr 2 | 116k | reducto/RolmOCRImage-to-Text | 8B | [Link](https://huggingface.co/reducto/RolmOCR) |
@@ -4755,6 +4758,7 @@ Updated on 2026-02-18
 | 2.13k | 215 | XiaomiMiMo/MiMo-7B-RLText | Updatedabout 12 hours ago | [Link](https://huggingface.co/XiaomiMiMo/MiMo-7B-RL) |
 | Updatedabout 11 hours ago | 206 | NousResearch/Hermes-4 | 36B | [Link](https://huggingface.co/NousResearch/Hermes-4.3-36B) |
 | 427 | 204 | microsoft/MAI-DS-R1Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/microsoft/MAI-DS-R1) |
+| Updatedabout 2 hours ago | 203 | nvidia/NVIDIA-Nemotron-Nano-9B-v2-JapaneseText | 9B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese) |
 | Updated25 minutes ago | 202 | shb777/Llama-3 | 8B | [Link](https://huggingface.co/shb777/Llama-3.3-8B-Instruct) |
 | Updated15 days ago | 201 | SamuelBang/AesCoder-4BText | 4B | [Link](https://huggingface.co/SamuelBang/AesCoder-4B) |
 | 11.7k | 196 | smirki/UIGEN-T1-Qwen-7bText | Updated5 days ago | [Link](https://huggingface.co/smirki/UIGEN-T1-Qwen-7b) |
@@ -4787,11 +4791,13 @@ Updated on 2026-02-18
 | Updated6 days ago | 128 | arcee-ai/Trinity-Mini-BaseText | 26B | [Link](https://huggingface.co/arcee-ai/Trinity-Mini-Base) |
 | Updatedabout 18 hours ago | 125 | NousResearch/Hermes-4-405BText | 406B | [Link](https://huggingface.co/NousResearch/Hermes-4-405B) |
 | Updated3 days ago | 125 | janhq/Jan-v1-edgeText | 2B | [Link](https://huggingface.co/janhq/Jan-v1-edge) |
+| Updated1 day ago | 122 | CohereLabs/tiny-aya-globalText | 3B | [Link](https://huggingface.co/CohereLabs/tiny-aya-global) |
 | Updated3 days ago | 121 | nvidia/OpenReasoning-Nemotron-14BText | 15B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-14B) |
 | Updatedabout 5 hours ago | 121k | EssentialAI/rnj-1Text | 8B | [Link](https://huggingface.co/EssentialAI/rnj-1) |
 | Updatedabout 5 hours ago | 121 | MiniMaxAI/MiniMax-M2 | 229B | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M2.1) |
 | Updated1 day ago | 119 | LiquidAI/LFM2-350M-ExtractText | 0.4B | [Link](https://huggingface.co/LiquidAI/LFM2-350M-Extract) |
 | Updated7 days ago | 119 | gustavecortal/Beck-8BText | 8B | [Link](https://huggingface.co/gustavecortal/Beck-8B) |
+| UpdatedJan 5 | 118 | Fortytwo-Network/Strand-Rust-Coder-14B-v1Text | 15B | [Link](https://huggingface.co/Fortytwo-Network/Strand-Rust-Coder-14B-v1) |
 | Updatedabout 11 hours ago | 115 | mistralai/Devstral-Small-2507Text | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2507) |
 | Updated1 day ago | 113 | mlx-community/VibeThinker-1 | 0.2B | [Link](https://huggingface.co/mlx-community/VibeThinker-1.5B-mlx-4bit) |
 | Updatedabout 10 hours ago | 112 | nvidia/Qwen3-Nemotron-32B-RLBFFText | 33B | [Link](https://huggingface.co/nvidia/Qwen3-Nemotron-32B-RLBFF) |
@@ -6086,6 +6092,7 @@ Updated on 2026-02-18
 | 19.6k | 127 | onnx-community/Kokoro-82M-ONNXText-to-Speech | Updated17 days ago | [Link](https://huggingface.co/onnx-community/Kokoro-82M-ONNX) |
 | UpdatedJun 1 | 123 | keanteng/sesame-csm-eliseText-to-Speech | 2B | [Link](https://huggingface.co/keanteng/sesame-csm-elise) |
 | Updated1 day ago | 115 | vibevoice/VibeVoice-1 | 3B | [Link](https://huggingface.co/vibevoice/VibeVoice-1.5B) |
+| Updatedabout 16 hours ago | 113 | syvai/plapre-nanoText-to-Speech | 0.3B | [Link](https://huggingface.co/syvai/plapre-nano) |
 | Updatedabout 22 hours ago | 110 | neuphonic/neutts-nano-frenchText-to-Speech | 0.2B | [Link](https://huggingface.co/neuphonic/neutts-nano-french) |
 | Updatedabout 22 hours ago | 106 | neuphonic/neutts-nano-germanText-to-Speech | 0.2B | [Link](https://huggingface.co/neuphonic/neutts-nano-german) |
 | 29.7k | 105 | ai4bharat/indic-parler-ttsText-to-Speech | UpdatedDec 9, 2024 | [Link](https://huggingface.co/ai4bharat/indic-parler-tts) |
