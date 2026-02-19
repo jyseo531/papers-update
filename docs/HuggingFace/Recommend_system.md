@@ -1875,6 +1875,7 @@ Updated on 2026-02-19
 | Updatedabout 2 hours ago | 232 | deepseek-ai/DeepSeek-OCR-2Image-Text-to-Text | 3B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-OCR-2) |
 | Updatedabout 14 hours ago | 228 | CohereLabs/command-a-vision-07-2025Image-Text-to-Text | 112B | [Link](https://huggingface.co/CohereLabs/command-a-vision-07-2025) |
 | Updatedabout 3 hours ago | 225 | lightonai/LightOnOCR-2-1BImage-Text-to-Text | 1B | [Link](https://huggingface.co/lightonai/LightOnOCR-2-1B) |
+| Updatedabout 21 hours ago | 220 | magibu/magibu-11b-v0 | 12B | [Link](https://huggingface.co/magibu/magibu-11b-v0.8) |
 | Updated3 days ago | 218 | OctoMed/OctoMed-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/OctoMed/OctoMed-7B) |
 | Updatedabout 13 hours ago | 211 | INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v1 | 12B | [Link](https://huggingface.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v1.0) |
 | Updatedabout 20 hours ago | 206 | nvidia/NVIDIA-Nemotron-Nano-12B-v2-VL-FP8Image-Text-to-Text | 13B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-12B-v2-VL-FP8) |
