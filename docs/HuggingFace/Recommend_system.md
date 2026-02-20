@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-02-19
+Updated on 2026-02-20
 
 > Generated from the Hugging Face database.
 
@@ -2123,6 +2123,7 @@ Updated on 2026-02-19
 | Updatedabout 8 hours ago | 10 | google/t5gemma-2-4b-4bImage-Text-to-Text | 9B | [Link](https://huggingface.co/google/t5gemma-2-4b-4b) |
 | Updatedabout 9 hours ago | 10 | tencent/Youtu-VL-4B-Instruct-GGUFImage-Text-to-Text | 5B | [Link](https://huggingface.co/tencent/Youtu-VL-4B-Instruct-GGUF) |
 | Updatedabout 23 hours ago | 10 | tencent/Youtu-ParsingImage-Text-to-Text | 3B | [Link](https://huggingface.co/tencent/Youtu-Parsing) |
+| Updatedabout 12 hours ago | 10 | Trendyol/Trendyol-LLM-Asure-12BImage-Text-to-Text | 12B | [Link](https://huggingface.co/Trendyol/Trendyol-LLM-Asure-12B) |
 | 9.49k | 9 | unsloth/gemma-3-27b-it-bnb-4bitImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-bnb-4bit) |
 | 40.9k | 9 | lmstudio-community/gemma-3-12b-it-GGUFImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/lmstudio-community/gemma-3-12b-it-GGUF) |
 | 1.89k | 9 | Mungert/gemma-3-12b-it-ggufImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/Mungert/gemma-3-12b-it-gguf) |
@@ -2781,6 +2782,7 @@ Updated on 2026-02-19
 | 2.11k |  | strangerzonehf/Qwen-Image-Edit-LoRA-CollectionImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/strangerzonehf/Qwen-Image-Edit-LoRA-Collection) |
 | 6 | Unknown | iitolstykh/VIBE-Image-Edit-DistilledCFGImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/iitolstykh/VIBE-Image-Edit-DistilledCFG) |
 | 8 | Unknown | deepgenteam/DeepGen-1 | Updatedabout 1 hour ago | [Link](https://huggingface.co/deepgenteam/DeepGen-1.0) |
+| 259 |  | prithivMLmods/QIE-2511-Guided-Head-Face-SwapImage-to-Image | Updated9 days ago | [Link](https://huggingface.co/prithivMLmods/QIE-2511-Guided-Head-Face-Swap) |
 
 ## Image-to-Text
 
@@ -2900,6 +2902,7 @@ Updated on 2026-02-19
 | Updatedabout 4 hours ago | 32 | vanta-research/PE-Type-2-Alma-4BImage-to-Text | 4B | [Link](https://huggingface.co/vanta-research/PE-Type-2-Alma-4B) |
 | 637 | 31 | U4R/StructTable-InternVL2-1BImage-to-Text | UpdatedDec 12, 2024 | [Link](https://huggingface.co/U4R/StructTable-InternVL2-1B) |
 | 9.9k | 31 | OleehyO/TexTellerImage-to-Text | UpdatedJun 22, 2024 | [Link](https://huggingface.co/OleehyO/TexTeller) |
+| UpdatedNov 11, 2025 | 31 | mlx-community/LightOnOCR-1B-1025-bf16Image-to-Text | 1B | [Link](https://huggingface.co/mlx-community/LightOnOCR-1B-1025-bf16) |
 | UpdatedMay 25 | 30 | infly/INF-AZ-7B-0524Image-to-Text | 8B | [Link](https://huggingface.co/infly/INF-AZ-7B-0524) |
 | 1.65k | 29 | microsoft/git-large-textcapsImage-to-Text | UpdatedFeb 8, 2023 | [Link](https://huggingface.co/microsoft/git-large-textcaps) |
 | Updated9 days ago | 29 | unicorn-team/Unicorn-VL-R3Image-to-Text | 9B | [Link](https://huggingface.co/unicorn-team/Unicorn-VL-R3) |
@@ -5011,6 +5014,7 @@ Updated on 2026-02-19
 | 509 | 30 | SWE-bench/SWE-agent-LM-32BText | Updatedabout 10 hours ago | [Link](https://huggingface.co/SWE-bench/SWE-agent-LM-32B) |
 | 34 | 30 | DavidAU/Qwen3-30B-A6B-16-ExtremeText | Updatedabout 12 hours ago | [Link](https://huggingface.co/DavidAU/Qwen3-30B-A6B-16-Extreme) |
 | Updatedabout 1 hour ago | 30 | swiss-ai/Apertus-70B-Instruct-2509Text | 71B | [Link](https://huggingface.co/swiss-ai/Apertus-70B-Instruct-2509) |
+| 74 | 30 | Shaligram-Dewangan/Dhi-5B-BaseText | Updated6 days ago | [Link](https://huggingface.co/Shaligram-Dewangan/Dhi-5B-Base) |
 | 323 | 29 | smirki/UIGEN-T1 | Updated6 days ago | [Link](https://huggingface.co/smirki/UIGEN-T1.1-Qwen-14B) |
 | 10 | 29 | ai21labs/AI21-Jamba-Large-1 | Updatedabout 13 hours ago | [Link](https://huggingface.co/ai21labs/AI21-Jamba-Large-1.6) |
 | 750 | 29 | amd/Instella-3B-InstructText | Updated4 days ago | [Link](https://huggingface.co/amd/Instella-3B-Instruct) |
@@ -6035,6 +6039,7 @@ Updated on 2026-02-19
 | 14 | Unknown | lodestones/Chroma2-KaleidoscopeText-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/lodestones/Chroma2-Kaleidoscope) |
 | 8 | Unknown | Wuli-art/Qwen-Image-2512-Turbo-LoRA-2-StepsText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/Wuli-art/Qwen-Image-2512-Turbo-LoRA-2-Steps) |
 | 8 | Unknown | RamonGuthrie/z_image_base-nvfp8-mixedText-to-Image | Updated3 days ago | [Link](https://huggingface.co/RamonGuthrie/z_image_base-nvfp8-mixed) |
+| 534 |  | ReCodePlus/Smnth_v1_NSFW1Text-to-Image | Updated18 days ago | [Link](https://huggingface.co/ReCodePlus/Smnth_v1_NSFW1) |
 
 ## Text-to-Speech
 
