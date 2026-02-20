@@ -2783,6 +2783,7 @@ Updated on 2026-02-20
 | 6 | Unknown | iitolstykh/VIBE-Image-Edit-DistilledCFGImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/iitolstykh/VIBE-Image-Edit-DistilledCFG) |
 | 8 | Unknown | deepgenteam/DeepGen-1 | Updatedabout 1 hour ago | [Link](https://huggingface.co/deepgenteam/DeepGen-1.0) |
 | 259 |  | prithivMLmods/QIE-2511-Guided-Head-Face-SwapImage-to-Image | Updated9 days ago | [Link](https://huggingface.co/prithivMLmods/QIE-2511-Guided-Head-Face-Swap) |
+| 35.4k |  | prithivMLmods/Qwen-Image-Edit-2511-Hyper-Realistic-PortraitImage-to-Image | UpdatedJan 16 | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-2511-Hyper-Realistic-Portrait) |
 
 ## Image-to-Text
 
@@ -4732,6 +4733,7 @@ Updated on 2026-02-20
 |  | 356 | Qwen/QwQ-32BText | Updatedabout 8 hours ago | [Link](https://huggingface.co/Qwen/QwQ-32B) |
 | Updated3 days ago | 355 | Nanbeige/Nanbeige4-3B-BaseText | 4B | [Link](https://huggingface.co/Nanbeige/Nanbeige4-3B-Base) |
 | Updatedabout 6 hours ago | 351 | K-intelligence/Midm-2 | 12B | [Link](https://huggingface.co/K-intelligence/Midm-2.0-Base-Instruct) |
+| Updated1 day ago | 344 | CohereLabs/tiny-aya-baseText | 3B | [Link](https://huggingface.co/CohereLabs/tiny-aya-base) |
 |  | 339 | deepseek-ai/DeepSeek-Prover-V2-671BText | Updatedabout 1 hour ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-Prover-V2-671B) |
 | Updatedabout 9 hours ago | 329 | Kwaipilot/KAT-DevText | 33B | [Link](https://huggingface.co/Kwaipilot/KAT-Dev) |
 | Updatedabout 4 hours ago | 329 | FractalAIResearch/Fathom-Search-4BText | 4B | [Link](https://huggingface.co/FractalAIResearch/Fathom-Search-4B) |
@@ -5250,6 +5252,7 @@ Updated on 2026-02-20
 | Updatedabout 2 hours ago | 4 | tencent/WeDLM-8B-InstructText | 8B | [Link](https://huggingface.co/tencent/WeDLM-8B-Instruct) |
 | Updatedabout 11 hours ago | 4 | speakleash/Bielik-11B-v3 | 11B | [Link](https://huggingface.co/speakleash/Bielik-11B-v3.0-Instruct) |
 | Updated1 day ago | 4.97k | ymcki/Kimi-Linear-48B-A3B-Instruct-GGUFText | 49B | [Link](https://huggingface.co/ymcki/Kimi-Linear-48B-A3B-Instruct-GGUF) |
+| Updated2 days ago | 4.46k | mmnga-o/NVIDIA-Nemotron-Nano-9B-v2-Japanese-ggufText | 9B | [Link](https://huggingface.co/mmnga-o/NVIDIA-Nemotron-Nano-9B-v2-Japanese-gguf) |
 | Updated2 days ago | 3.87k | unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUFText | 480B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUF) |
 | Updated6 days ago | 3.39k | Qwen/Qwen3-30B-A3B-Thinking-2507-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507-FP8) |
 | Updatedabout 4 hours ago | 3.61k | openai/gpt-oss-120bText | 63B | [Link](https://huggingface.co/openai/gpt-oss-120b) |
@@ -6393,6 +6396,7 @@ Updated on 2026-02-20
 | 5 | Unknown | zukky/Qwen3-TTS-ONNX-DLLText-to-Speech | Updated7 days ago | [Link](https://huggingface.co/zukky/Qwen3-TTS-ONNX-DLL) |
 | 4 | Unknown | Soul-AILab/SoulX-SingerText-to-Speech | Updatedabout 11 hours ago | [Link](https://huggingface.co/Soul-AILab/SoulX-Singer) |
 | 5 | Unknown | ipsilondev/chatterbox-multilingual-ONNX-q4Text-to-Speech | Updated26 days ago | [Link](https://huggingface.co/ipsilondev/chatterbox-multilingual-ONNX-q4) |
+| 6 | Unknown | vadimbelsky/emirati-vits-male-1 | Updatedabout 19 hours ago | [Link](https://huggingface.co/vadimbelsky/emirati-vits-male-1.0) |
 
 ## Text-to-Video
 
