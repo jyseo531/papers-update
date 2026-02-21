@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-02-20
+Updated on 2026-02-21
 
 > Generated from the Hugging Face database.
 
@@ -2784,6 +2784,7 @@ Updated on 2026-02-20
 | 8 | Unknown | deepgenteam/DeepGen-1 | Updatedabout 1 hour ago | [Link](https://huggingface.co/deepgenteam/DeepGen-1.0) |
 | 259 |  | prithivMLmods/QIE-2511-Guided-Head-Face-SwapImage-to-Image | Updated9 days ago | [Link](https://huggingface.co/prithivMLmods/QIE-2511-Guided-Head-Face-Swap) |
 | 35.4k |  | prithivMLmods/Qwen-Image-Edit-2511-Hyper-Realistic-PortraitImage-to-Image | UpdatedJan 16 | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-2511-Hyper-Realistic-Portrait) |
+| 3 | Unknown | prithivMLmods/Qwen-Image-Edit-AIO-fp8Image-to-Image | Updatedabout 17 hours ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-AIO-fp8) |
 
 ## Image-to-Text
 
@@ -4744,6 +4745,7 @@ Updated on 2026-02-20
 |  | 295 | deepseek-ai/DeepSeek-R1-0528-Qwen3-8BText | Updatedabout 13 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B) |
 | Updatedabout 4 hours ago | 293 | Qwen/Qwen3Guard-Gen-0 | 0.8B | [Link](https://huggingface.co/Qwen/Qwen3Guard-Gen-0.6B) |
 | Updated2 days ago | 288 | janhq/Jan-v3-4B-base-instructText | 4B | [Link](https://huggingface.co/janhq/Jan-v3-4B-base-instruct) |
+| Updated3 days ago | 287 | PrimeIntellect/INTELLECT-3 | 107B | [Link](https://huggingface.co/PrimeIntellect/INTELLECT-3.1) |
 | Updated8 days ago | 283 | perplexity-ai/browsesafeText | 31B | [Link](https://huggingface.co/perplexity-ai/browsesafe) |
 | Updated2 days ago | 266 | FutureMa/Qwen3-8B-Drama-ThinkingText | 308k | [Link](https://huggingface.co/FutureMa/Qwen3-8B-Drama-Thinking) |
 | Updated5 days ago | 264 | arcee-ai/Trinity-Nano-BaseText | 6B | [Link](https://huggingface.co/arcee-ai/Trinity-Nano-Base) |
@@ -5243,6 +5245,7 @@ Updated on 2026-02-20
 | Updatedabout 8 hours ago | 5.06k | tiiuae/Falcon-H1R-7B-GGUFText | 8B | [Link](https://huggingface.co/tiiuae/Falcon-H1R-7B-GGUF) |
 | Updated6 days ago | 5.06k | DreamFast/gemma-3-12b-it-hereticText | 12B | [Link](https://huggingface.co/DreamFast/gemma-3-12b-it-heretic) |
 | Updated4 days ago | 5.07k | ubergarm/Step-3 | 197B | [Link](https://huggingface.co/ubergarm/Step-3.5-Flash-GGUF) |
+| Updatedabout 17 hours ago | 5.07k | TeichAI/Qwen3-14B-Claude-4 | 15B | [Link](https://huggingface.co/TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF) |
 | Updatedabout 21 hours ago | 4.52k | unsloth/Devstral-Small-2507-GGUFText | 24B | [Link](https://huggingface.co/unsloth/Devstral-Small-2507-GGUF) |
 | Updatedabout 6 hours ago | 4 | baichuan-inc/Baichuan-M2-32BText | 33B | [Link](https://huggingface.co/baichuan-inc/Baichuan-M2-32B) |
 | UpdatedMay 14 | 4 | inclusionAI/Ling-lite-base-1 | 17B | [Link](https://huggingface.co/inclusionAI/Ling-lite-base-1.5) |
