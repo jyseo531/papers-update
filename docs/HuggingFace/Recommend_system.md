@@ -2785,6 +2785,8 @@ Updated on 2026-02-21
 | 259 |  | prithivMLmods/QIE-2511-Guided-Head-Face-SwapImage-to-Image | Updated9 days ago | [Link](https://huggingface.co/prithivMLmods/QIE-2511-Guided-Head-Face-Swap) |
 | 35.4k |  | prithivMLmods/Qwen-Image-Edit-2511-Hyper-Realistic-PortraitImage-to-Image | UpdatedJan 16 | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-2511-Hyper-Realistic-Portrait) |
 | 3 | Unknown | prithivMLmods/Qwen-Image-Edit-AIO-fp8Image-to-Image | Updatedabout 17 hours ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-AIO-fp8) |
+| 3 | Unknown | prithivMLmods/FireRed-Image-Edit-1 | Updatedabout 6 hours ago | [Link](https://huggingface.co/prithivMLmods/FireRed-Image-Edit-1.0-FP8) |
+| 3 | Unknown | prithivMLmods/Qwen-Image-Edit-AIO-FP8Image-to-Image | Updated14 minutes ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-AIO-FP8) |
 
 ## Image-to-Text
 
@@ -3122,6 +3124,7 @@ Updated on 2026-02-21
 | Updatedabout 16 hours ago | 2 | noctrex/ZwZ-8B-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/noctrex/ZwZ-8B-GGUF) |
 | Updatedabout 13 hours ago | 2 | ShayanCyan/phi4-multimodal-quantisized-ggufImage-to-Text | 4B | [Link](https://huggingface.co/ShayanCyan/phi4-multimodal-quantisized-gguf) |
 | 103 | 2 | bluolightning/manga-ocr-tfliteImage-to-Text | UpdatedDec 7, 2025 | [Link](https://huggingface.co/bluolightning/manga-ocr-tflite) |
+| UpdatedDec 26, 2025 | 2 | coredog64/fao-speciescode-handwrittenImage-to-Text | 0.3B | [Link](https://huggingface.co/coredog64/fao-speciescode-handwritten) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -5825,6 +5828,7 @@ Updated on 2026-02-21
 | 76 | 5 | kandinskylab/Kandinsky-5 | Updated2 days ago | [Link](https://huggingface.co/kandinskylab/Kandinsky-5.0-T2I-Lite-sft-Diffusers) |
 | 158 | 5 | Owen777/UltraFlux-v1Text-to-Image | Updated3 days ago | [Link](https://huggingface.co/Owen777/UltraFlux-v1) |
 | 528 | 5 | Disty0/GLM-Image-SDNQ-4bit-dynamicText-to-Image | Updated3 days ago | [Link](https://huggingface.co/Disty0/GLM-Image-SDNQ-4bit-dynamic) |
+| 233 | 5 | BiliSakura/BitDance-14B-64x-diffusersText-to-Image | Updated3 days ago | [Link](https://huggingface.co/BiliSakura/BitDance-14B-64x-diffusers) |
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 46 | 4 | Sherwinroger002/fashion_mnist_diffusion_class_conditionalText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Sherwinroger002/fashion_mnist_diffusion_class_conditional) |
 | Updatedabout 1 hour ago | 4 | unsloth/Qwen-Image-2512-GGUFText-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-2512-GGUF) |
@@ -6223,6 +6227,7 @@ Updated on 2026-02-21
 | Updatedabout 14 hours ago | 6 | AutoArk-AI/GPAText-to-Speech | 0.3B | [Link](https://huggingface.co/AutoArk-AI/GPA) |
 | Updatedabout 22 hours ago | 6 | OpenMOSS-Team/MOSS-VoiceGeneratorText-to-Speech | 2B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-VoiceGenerator) |
 | Updated2 days ago | 6 | Aratako/MioTTS-1 | 2B | [Link](https://huggingface.co/Aratako/MioTTS-1.7B) |
+| 222 | 6 | bharatgenai/sooktam2Text-to-Speech | Updatedabout 6 hours ago | [Link](https://huggingface.co/bharatgenai/sooktam2) |
 | 87 | 5 | lunahr/csm-1b-safetensors-quantsText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-quants) |
 | 26 | 5 | 2121-8/canary-tts-0 | Updatedabout 19 hours ago | [Link](https://huggingface.co/2121-8/canary-tts-0.5b) |
 | 12 | 5 | MYZY-AI/Muyan-TTS-SFTText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/MYZY-AI/Muyan-TTS-SFT) |
