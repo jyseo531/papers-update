@@ -5829,6 +5829,7 @@ Updated on 2026-02-21
 | 158 | 5 | Owen777/UltraFlux-v1Text-to-Image | Updated3 days ago | [Link](https://huggingface.co/Owen777/UltraFlux-v1) |
 | 528 | 5 | Disty0/GLM-Image-SDNQ-4bit-dynamicText-to-Image | Updated3 days ago | [Link](https://huggingface.co/Disty0/GLM-Image-SDNQ-4bit-dynamic) |
 | 233 | 5 | BiliSakura/BitDance-14B-64x-diffusersText-to-Image | Updated3 days ago | [Link](https://huggingface.co/BiliSakura/BitDance-14B-64x-diffusers) |
+| 233 | 5 | BiliSakura/BitDance-14B-16x-diffusersText-to-Image | Updated3 days ago | [Link](https://huggingface.co/BiliSakura/BitDance-14B-16x-diffusers) |
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 46 | 4 | Sherwinroger002/fashion_mnist_diffusion_class_conditionalText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Sherwinroger002/fashion_mnist_diffusion_class_conditional) |
 | Updatedabout 1 hour ago | 4 | unsloth/Qwen-Image-2512-GGUFText-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-2512-GGUF) |
