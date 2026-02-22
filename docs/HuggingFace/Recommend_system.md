@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-02-21
+Updated on 2026-02-22
 
 > Generated from the Hugging Face database.
 
@@ -1869,6 +1869,7 @@ Updated on 2026-02-21
 | 17.9k | 287 | deepseek-ai/deepseek-vl2Image-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2) |
 | 26.4k | 267 | MiniMaxAI/MiniMax-VL-01Image-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-VL-01) |
 | Updatedabout 14 hours ago | 260 | QuixiAI/Prisma-VL-8BImage-Text-to-Text | 770k | [Link](https://huggingface.co/QuixiAI/Prisma-VL-8B) |
+| Updated7 days ago | 253 | prithivMLmods/Qwen3-VL-8B-Instruct-Unredacted-MAXImage-Text-to-Text | 9B | [Link](https://huggingface.co/prithivMLmods/Qwen3-VL-8B-Instruct-Unredacted-MAX) |
 | Updated1 day ago | 252 | Qwen/Qwen3-VL-235B-A22B-ThinkingImage-Text-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Thinking) |
 | Updatedabout 2 hours ago | 252 | Qwen/Qwen3 | 403B | [Link](https://huggingface.co/Qwen/Qwen3.5-397B-A17B) |
 | 353k | 236 | microsoft/Florence-2-baseImage-Text-to-Text | UpdatedNov 4, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-base) |
@@ -1885,6 +1886,7 @@ Updated on 2026-02-21
 | Updated2 days ago | 180 | trillionlabs/gWorld-32BImage-Text-to-Text | 33B | [Link](https://huggingface.co/trillionlabs/gWorld-32B) |
 | Updatedabout 12 hours ago | 176 | huihui-ai/Huihui-Step3-VL-10B-abliteratedImage-Text-to-Text | 10B | [Link](https://huggingface.co/huihui-ai/Huihui-Step3-VL-10B-abliterated) |
 | Updated5 days ago | 175 | DavidAU/gemma-3-12b-it-vl-GLM-4 | 12B | [Link](https://huggingface.co/DavidAU/gemma-3-12b-it-vl-GLM-4.7-Flash-Heretic-Uncensored-Thinking) |
+| Updated19 days ago | 174 | GitMylo/nsfwvision-qwen3-vl-8b-v3-safetensorsImage-Text-to-Text | 9B | [Link](https://huggingface.co/GitMylo/nsfwvision-qwen3-vl-8b-v3-safetensors) |
 | Updatedabout 7 hours ago | 171 | OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-PreviewImage-Text-to-Text | 0.4B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-Preview) |
 | 116 | 167 | google/gemma-3-27b-itImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-it) |
 | 38.8k | 163 | stepfun-ai/GOT-OCR-2 | Updated25 days ago | [Link](https://huggingface.co/stepfun-ai/GOT-OCR-2.0-hf) |
@@ -1898,6 +1900,7 @@ Updated on 2026-02-21
 | 30.2k | 145 | bytedance-research/UI-TARS-7B-DPOImage-Text-to-Text | UpdatedJan 25 | [Link](https://huggingface.co/bytedance-research/UI-TARS-7B-DPO) |
 | 38.6k | 144 | deepseek-ai/deepseek-vl2-smallImage-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2-small) |
 | Updated1 day ago | 143 | OpenGVLab/InternVL3_5-30B-A3B-InstructImage-Text-to-Text | 31B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-30B-A3B-Instruct) |
+| Updatedabout 9 hours ago | 142 | prithivMLmods/Qwen3-VL-4B-Instruct-Unredacted-MAXImage-Text-to-Text | 4B | [Link](https://huggingface.co/prithivMLmods/Qwen3-VL-4B-Instruct-Unredacted-MAX) |
 | Updatedabout 11 hours ago | 140 | tencent/POINTS-ReaderImage-Text-to-Text | 4B | [Link](https://huggingface.co/tencent/POINTS-Reader) |
 | Updated5 days ago | 137 | nvidia/NV-Reason-CXR-3BImage-Text-to-Text | 4B | [Link](https://huggingface.co/nvidia/NV-Reason-CXR-3B) |
 | 404 | 136 | allenai/olmOCR-7B-0225-previewImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview) |
@@ -3125,6 +3128,7 @@ Updated on 2026-02-21
 | Updatedabout 13 hours ago | 2 | ShayanCyan/phi4-multimodal-quantisized-ggufImage-to-Text | 4B | [Link](https://huggingface.co/ShayanCyan/phi4-multimodal-quantisized-gguf) |
 | 103 | 2 | bluolightning/manga-ocr-tfliteImage-to-Text | UpdatedDec 7, 2025 | [Link](https://huggingface.co/bluolightning/manga-ocr-tflite) |
 | UpdatedDec 26, 2025 | 2 | coredog64/fao-speciescode-handwrittenImage-to-Text | 0.3B | [Link](https://huggingface.co/coredog64/fao-speciescode-handwritten) |
+| 6 | 2 | bluolightning/PaddleOCRv5-Server-Det-For-MangaImage-to-Text | UpdatedJan 8 | [Link](https://huggingface.co/bluolightning/PaddleOCRv5-Server-Det-For-Manga) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
