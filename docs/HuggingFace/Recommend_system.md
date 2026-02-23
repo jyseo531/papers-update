@@ -2067,6 +2067,7 @@ Updated on 2026-02-23
 | Updatedabout 12 hours ago | 14 | zai-org/AutoGLM-Phone-9BImage-Text-to-Text | 934k | [Link](https://huggingface.co/zai-org/AutoGLM-Phone-9B) |
 | Updatedabout 17 hours ago | 14 | rootsautomation/GutenOCR-3BImage-Text-to-Text | 756k | [Link](https://huggingface.co/rootsautomation/GutenOCR-3B) |
 | Updatedabout 4 hours ago | 14 | Hcompany/Holo2-235B-A22BImage-Text-to-Text | 236B | [Link](https://huggingface.co/Hcompany/Holo2-235B-A22B) |
+| Updatedabout 8 hours ago | 14.9k | Andycurrent/Gemma-3-4B-VL-it-Gemini-Pro-Heretic-Uncensored-Thinking_GGUFImage-Text-to-Text | 4B | [Link](https://huggingface.co/Andycurrent/Gemma-3-4B-VL-it-Gemini-Pro-Heretic-Uncensored-Thinking_GGUF) |
 | 582 | 13 | google/gemma-3-4b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-4b-pt) |
 | 4.2k | 13 | mlabonne/gemma-3-12b-it-abliterated-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-12b-it-abliterated-GGUF) |
 | 10.7k | 13 | unsloth/Llama-4-Maverick-17B-128E-Instruct-GGUFImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/unsloth/Llama-4-Maverick-17B-128E-Instruct-GGUF) |
@@ -2825,6 +2826,7 @@ Updated on 2026-02-23
 | UpdatedMar 8 | 234 | convergence-ai/proxy-lite-3bImage-to-Text | 4B | [Link](https://huggingface.co/convergence-ai/proxy-lite-3b) |
 | Updated2 days ago | 230 | HelloKKMe/GTA1-32BImage-to-Text | 33B | [Link](https://huggingface.co/HelloKKMe/GTA1-32B) |
 | UpdatedMar 28 | 229 | David-Magdy/TR_OCR_LARGEImage-to-Text | 0.6B | [Link](https://huggingface.co/David-Magdy/TR_OCR_LARGE) |
+| Updated14 days ago | 217 | sugam24/dots-ocr-awq-4bitImage-to-Text | 0.8B | [Link](https://huggingface.co/sugam24/dots-ocr-awq-4bit) |
 | 7.46k | 213 | xtuner/llava-llama-3-8b-v1_1-ggufImage-to-Text | UpdatedApr 30, 2024 | [Link](https://huggingface.co/xtuner/llava-llama-3-8b-v1_1-gguf) |
 | UpdatedMay 22, 2025 | 208k | meta-llama/Llama-4-Scout-17B-16E-InstructImage-to-Text | 109B | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct) |
 | UpdatedMar 5 | 180 | r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUF) |
@@ -2864,6 +2866,7 @@ Updated on 2026-02-23
 | 6.2k | 77 | unum-cloud/uform-gen2-qwen-500mImage-to-Text | UpdatedApr 24, 2024 | [Link](https://huggingface.co/unum-cloud/uform-gen2-qwen-500m) |
 | UpdatedNov 19, 2024 | 77 | ashok2216/vit-gpt2-image-captioning_COCO_FineTunedImage-to-Text | 0.2B | [Link](https://huggingface.co/ashok2216/vit-gpt2-image-captioning_COCO_FineTuned) |
 | 2.27k | 77 | lightonai/LightOnOCR-1B-1025Image-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/lightonai/LightOnOCR-1B-1025) |
+| Updated11 days ago | 73 | nightmedia/UI-Venus-1 | 8B | [Link](https://huggingface.co/nightmedia/UI-Venus-1.5-30B-A3B-qx86-hi-mlx) |
 | 131 | 71 | keras-io/ocr-for-captchaImage-to-Text | UpdatedMay 29, 2022 | [Link](https://huggingface.co/keras-io/ocr-for-captcha) |
 | Updated5 days ago | 70 | virtuous7373/Lambent-Mira-EratoImage-to-Text | 27B | [Link](https://huggingface.co/virtuous7373/Lambent-Mira-Erato) |
 | UpdatedSep 24, 2024 | 69 | impactframes/Qwen2-VL-7B-CaptionerImage-to-Text | 8B | [Link](https://huggingface.co/impactframes/Qwen2-VL-7B-Captioner) |
@@ -2893,6 +2896,7 @@ Updated on 2026-02-23
 | UpdatedJul 5 | 43 | QuickHawk/trocr-indicImage-to-Text | 0.3B | [Link](https://huggingface.co/QuickHawk/trocr-indic) |
 | UpdatedMay 18, 2024 | 41 | moranyanuka/blip-image-captioning-large-mochaImage-to-Text | 0.5B | [Link](https://huggingface.co/moranyanuka/blip-image-captioning-large-mocha) |
 | 246 | 40 | selvakumarcts/sk_invoice_receiptsImage-to-Text | UpdatedOct 20, 2023 | [Link](https://huggingface.co/selvakumarcts/sk_invoice_receipts) |
+| Updated16 days ago | 40 | JEILDLWLRMA/Qwen3-VL-4B-Instruct-NVFP4Image-to-Text | 3B | [Link](https://huggingface.co/JEILDLWLRMA/Qwen3-VL-4B-Instruct-NVFP4) |
 | 573 | 39 | katanaml-org/invoices-donut-model-v1Image-to-Text | UpdatedMay 11, 2023 | [Link](https://huggingface.co/katanaml-org/invoices-donut-model-v1) |
 | UpdatedNov 4, 2023 | 38.2k | adept/fuyu-8bImage-to-Text | 9B | [Link](https://huggingface.co/adept/fuyu-8b) |
 | 7.54k | 36 | breezedeus/pix2text-mfrImage-to-Text | UpdatedMay 5, 2024 | [Link](https://huggingface.co/breezedeus/pix2text-mfr) |
