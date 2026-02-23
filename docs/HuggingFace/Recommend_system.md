@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-02-22
+Updated on 2026-02-23
 
 > Generated from the Hugging Face database.
 
@@ -2518,6 +2518,7 @@ Updated on 2026-02-22
 | 168 | 5 | 1038lab/Qwen-Image-Edit-2511-FP8Image-to-Image | Updated1 day ago | [Link](https://huggingface.co/1038lab/Qwen-Image-Edit-2511-FP8) |
 | 65 | 5 | iitolstykh/VIBE-Image-EditImage-to-Image | Updatedabout 19 hours ago | [Link](https://huggingface.co/iitolstykh/VIBE-Image-Edit) |
 | 36 | 5 | prithivMLmods/Flux2-Klein-Cinematic-FlatLog-ControlImage-to-Image | Updated5 days ago | [Link](https://huggingface.co/prithivMLmods/Flux2-Klein-Cinematic-FlatLog-Control) |
+| 110 | 5 | MeiGen-AI/PosterOmni_v1Image-to-Image | Updatedabout 14 hours ago | [Link](https://huggingface.co/MeiGen-AI/PosterOmni_v1) |
 | 575 | 4 | prs-eth/marigold-normals-v1-1Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-normals-v1-1) |
 | 1k | 4 | stanfordmimi/MedVAEImage-to-Image | UpdatedMar 31 | [Link](https://huggingface.co/stanfordmimi/MedVAE) |
 | 3 | 4 | wikeeyang/UniWorld-V1-NF4Image-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/wikeeyang/UniWorld-V1-NF4) |
