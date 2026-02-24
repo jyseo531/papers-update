@@ -4911,6 +4911,7 @@ Updated on 2026-02-24
 | 46 | 57 | a-m-team/AM-Thinking-v1Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/a-m-team/AM-Thinking-v1) |
 | Updatedabout 5 hours ago | 57 | LiquidAI/LFM2-8B-A1BText | 8B | [Link](https://huggingface.co/LiquidAI/LFM2-8B-A1B) |
 | Updatedabout 16 hours ago | 57 | arcee-ai/Trinity-Nano-PreviewText | 6B | [Link](https://huggingface.co/arcee-ai/Trinity-Nano-Preview) |
+| Updated1 day ago | 57 | LocoreMind/LocoOperator-4BText | 4B | [Link](https://huggingface.co/LocoreMind/LocoOperator-4B) |
 | 143 | 55 | unsloth/DeepSeek-R1-0528-GGUFText | Updatedabout 1 hour ago | [Link](https://huggingface.co/unsloth/DeepSeek-R1-0528-GGUF) |
 | 7 | 55 | Qwen/Qwen3-Embedding-0 | Updatedabout 10 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B) |
 | Updatedabout 19 hours ago | 55 | PhysicsWallahAI/Aryabhata-1 | 8B | [Link](https://huggingface.co/PhysicsWallahAI/Aryabhata-1.0) |
@@ -4998,6 +4999,7 @@ Updated on 2026-02-24
 | Updatedabout 6 hours ago | 34 | continuedev/instinctText | 8B | [Link](https://huggingface.co/continuedev/instinct) |
 | Updated2 days ago | 34 | Writer/palmyra-mini-thinking-bText | 2B | [Link](https://huggingface.co/Writer/palmyra-mini-thinking-b) |
 | Updatedabout 24 hours ago | 34 | FutureMa/Eva-4BText | 4B | [Link](https://huggingface.co/FutureMa/Eva-4B) |
+| 49.7k | 34 | nvidia/Qwen3 | Updated6 days ago | [Link](https://huggingface.co/nvidia/Qwen3.5-397B-A17B-NVFP4) |
 | 566 | 33 | deepcogito/cogito-v1-preview-qwen-14BText | Updated1 day ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-qwen-14B) |
 | 115 | 33 | shuttleai/shuttle-3 | Updated2 days ago | [Link](https://huggingface.co/shuttleai/shuttle-3.5) |
 | 4.66k | 33 | Qwen/Qwen3-32B-AWQText | Updated5 days ago | [Link](https://huggingface.co/Qwen/Qwen3-32B-AWQ) |
@@ -5143,6 +5145,7 @@ Updated on 2026-02-24
 | Updatedabout 13 hours ago | 21 | Qwen/Qwen3-30B-A3B-Instruct-2507Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507) |
 | Updatedabout 10 hours ago | 21 | inclusionAI/Ring-liteText | 17B | [Link](https://huggingface.co/inclusionAI/Ring-lite) |
 | Updatedabout 7 hours ago | 21 | nota-ai/Solar-Open-100B-NotaMoEQuant-Int4Text | 2B | [Link](https://huggingface.co/nota-ai/Solar-Open-100B-NotaMoEQuant-Int4) |
+| Updatedabout 21 hours ago | 21 | guidelabs/steerling-8bText | 8B | [Link](https://huggingface.co/guidelabs/steerling-8b) |
 | 335 | 20 | google/txgemma-27b-chatText | Updated2 days ago | [Link](https://huggingface.co/google/txgemma-27b-chat) |
 | 473 | 20 | google/txgemma-9b-chatText | Updated4 days ago | [Link](https://huggingface.co/google/txgemma-9b-chat) |
 | 15 | 20 | Intelligent-Internet/II-Medical-8B-1706Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/Intelligent-Internet/II-Medical-8B-1706) |
@@ -6082,6 +6085,7 @@ Updated on 2026-02-24
 | 18.5k | 603 | IndexTeam/IndexTTS-2Text-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/IndexTeam/IndexTTS-2) |
 | 4.86k | 570 | fishaudio/s1-miniText-to-Speech | Updatedabout 15 hours ago | [Link](https://huggingface.co/fishaudio/s1-mini) |
 | Updatedabout 9 hours ago | 515 | bosonai/higgs-audio-v2-generation-3B-baseText-to-Speech | 6B | [Link](https://huggingface.co/bosonai/higgs-audio-v2-generation-3B-base) |
+| Updatedabout 9 hours ago | 499 | inclusionAI/Ming-omni-tts-0 | 2B | [Link](https://huggingface.co/inclusionAI/Ming-omni-tts-0.5B) |
 | 11.8k | 480 | fishaudio/fish-speech-1 | UpdatedDec 3, 2024 | [Link](https://huggingface.co/fishaudio/fish-speech-1.5) |
 | 5.67k | 478 | nari-labs/Dia-1 | Updatedabout 9 hours ago | [Link](https://huggingface.co/nari-labs/Dia-1.6B) |
 | 8.56k | 455 | HKUSTAudio/Llasa-3BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-3B) |
@@ -6141,6 +6145,7 @@ Updated on 2026-02-24
 | 162 | 72 | canopylabs/orpheus-3b-0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/canopylabs/orpheus-3b-0.1-ft) |
 | Updated1 day ago | 72 | Vyvo/VyvoTTS-LFM2-JennyText-to-Speech | 0.4B | [Link](https://huggingface.co/Vyvo/VyvoTTS-LFM2-Jenny) |
 | Updated1 day ago | 72 | jaeyong2/neutts-air-hi-previewText-to-Speech | 0.6B | [Link](https://huggingface.co/jaeyong2/neutts-air-hi-preview) |
+| Updatedabout 9 hours ago | 69 | inclusionAI/Ming-omni-tts-16 | 18B | [Link](https://huggingface.co/inclusionAI/Ming-omni-tts-16.8B-A3B) |
 | Updatedabout 2 hours ago | 67 | stepfun-ai/Step-Audio-EditXText-to-Speech | 4B | [Link](https://huggingface.co/stepfun-ai/Step-Audio-EditX) |
 | Updatedabout 11 hours ago | 66 | OpenMOSS-Team/MOSS-TTSText-to-Speech | 8B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS) |
 | 2.93k | 65 | capleaf/viXTTSText-to-Speech | UpdatedApr 7, 2024 | [Link](https://huggingface.co/capleaf/viXTTS) |
@@ -6695,6 +6700,7 @@ Updated on 2026-02-24
 | 2 | Unknown | inference-sh/Wan2 | UpdatedJul 28, 2025 | [Link](https://huggingface.co/inference-sh/Wan2.2-TI2V-5B-Diffusers) |
 | 2 | Unknown | NumlockUknowSth/CineTrans-DiTText-to-Video | Updated3 days ago | [Link](https://huggingface.co/NumlockUknowSth/CineTrans-DiT) |
 | 4 | Unknown | wangkanai/wan22-fp8-t2v-loras-nsfwText-to-Video | UpdatedOct 28, 2025 | [Link](https://huggingface.co/wangkanai/wan22-fp8-t2v-loras-nsfw) |
+| 2 | Unknown | gomirageai/Mirage-T2V-14B-MoEText-to-Video | Updated2 days ago | [Link](https://huggingface.co/gomirageai/Mirage-T2V-14B-MoE) |
 
 ## Text2Text Generation
 
