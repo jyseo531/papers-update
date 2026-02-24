@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-02-23
+Updated on 2026-02-24
 
 > Generated from the Hugging Face database.
 
@@ -1944,6 +1944,7 @@ Updated on 2026-02-23
 | Updatedabout 17 hours ago | 64 | prithivMLmods/DeepCaption-VLA-V2 | 8B | [Link](https://huggingface.co/prithivMLmods/DeepCaption-VLA-V2.0-7B) |
 | Updatedabout 5 hours ago | 64 | inclusionAI/ZwZ-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/inclusionAI/ZwZ-8B) |
 | 1.64k | 62 | google/gemma-3-4b-itImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-4b-it) |
+| Updated2 days ago | 62 | vincentkaufmann/gpt-oss-20b-vision-previewImage-Text-to-Text | 21B | [Link](https://huggingface.co/vincentkaufmann/gpt-oss-20b-vision-preview) |
 | 69 | 61 | google/gemma-3-12b-itImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-12b-it) |
 | 3.25k | 61 | meta-llama/Llama-4-Scout-17B-16EImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E) |
 | 18.5k | 57 | prithivMLmods/Qwen2-VL-OCR-2B-InstructImage-Text-to-Text | UpdatedJan 11 | [Link](https://huggingface.co/prithivMLmods/Qwen2-VL-OCR-2B-Instruct) |
@@ -3083,6 +3084,7 @@ Updated on 2026-02-23
 | UpdatedAug 25 | 3 | NYUAD-ComNets/Llama3 | 11B | [Link](https://huggingface.co/NYUAD-ComNets/Llama3.2_MultiModal_Memes_Hate_Detector) |
 | UpdatedJul 11 | 3.13k | scb10x/typhoon-ocr-3bImage-to-Text | 4B | [Link](https://huggingface.co/scb10x/typhoon-ocr-3b) |
 | 951 | 3 | hezarai/crnn-fa-license-plate-recognition-v2Image-to-Text | UpdatedJun 2 | [Link](https://huggingface.co/hezarai/crnn-fa-license-plate-recognition-v2) |
+| 19 | 3 | HassanB4/Ketab-OCR-LoRAImage-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/HassanB4/Ketab-OCR-LoRA) |
 | 51 | 2 | microsoft/git-base-msrvtt-qaImage-to-Text | UpdatedApr 4, 2024 | [Link](https://huggingface.co/microsoft/git-base-msrvtt-qa) |
 | 32 | 2 | baseplate/vit-gpt2-image-captioningImage-to-Text | UpdatedApr 5, 2023 | [Link](https://huggingface.co/baseplate/vit-gpt2-image-captioning) |
 | 38 | 2 | sbintuitions/sarashina2-vision-14bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-14b) |
@@ -4747,6 +4749,7 @@ Updated on 2026-02-23
 | Updated3 days ago | 355 | Nanbeige/Nanbeige4-3B-BaseText | 4B | [Link](https://huggingface.co/Nanbeige/Nanbeige4-3B-Base) |
 | Updatedabout 6 hours ago | 351 | K-intelligence/Midm-2 | 12B | [Link](https://huggingface.co/K-intelligence/Midm-2.0-Base-Instruct) |
 | Updated1 day ago | 344 | CohereLabs/tiny-aya-baseText | 3B | [Link](https://huggingface.co/CohereLabs/tiny-aya-base) |
+| Updated5 days ago | 342 | CohereLabs/tiny-aya-waterText | 3B | [Link](https://huggingface.co/CohereLabs/tiny-aya-water) |
 |  | 339 | deepseek-ai/DeepSeek-Prover-V2-671BText | Updatedabout 1 hour ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-Prover-V2-671B) |
 | Updatedabout 9 hours ago | 329 | Kwaipilot/KAT-DevText | 33B | [Link](https://huggingface.co/Kwaipilot/KAT-Dev) |
 | Updatedabout 4 hours ago | 329 | FractalAIResearch/Fathom-Search-4BText | 4B | [Link](https://huggingface.co/FractalAIResearch/Fathom-Search-4B) |
@@ -5249,6 +5252,7 @@ Updated on 2026-02-23
 | UpdatedApr 14 | 6 | inclusionAI/Ling-plusText | 293B | [Link](https://huggingface.co/inclusionAI/Ling-plus) |
 | Updatedabout 4 hours ago | 6.23k | nn-tech/MetalGPT-1Text | 33B | [Link](https://huggingface.co/nn-tech/MetalGPT-1) |
 | Updated4 days ago | 6.7k | byteshape/Qwen3-30B-A3B-Instruct-2507-GGUFText | 31B | [Link](https://huggingface.co/byteshape/Qwen3-30B-A3B-Instruct-2507-GGUF) |
+| Updated6 days ago | 6.21k | byteshape/Qwen3-Coder-30B-A3B-Instruct-GGUFText | 31B | [Link](https://huggingface.co/byteshape/Qwen3-Coder-30B-A3B-Instruct-GGUF) |
 | Updated28 minutes ago | 5 | unsloth/Kimi-K2-Instruct-GGUFText | 1026B | [Link](https://huggingface.co/unsloth/Kimi-K2-Instruct-GGUF) |
 | Updatedabout 4 hours ago | 5 | tencent/Hunyuan-1 | 2B | [Link](https://huggingface.co/tencent/Hunyuan-1.8B-Instruct) |
 | Updatedabout 6 hours ago | 5.68k | deepseek-ai/DeepSeek-V3 | 685B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3.1-Base) |
@@ -6458,6 +6462,7 @@ Updated on 2026-02-23
 | 8.22k | 26 | Searchium-ai/clip4clip-webvid150kText-to-Video | UpdatedOct 27, 2024 | [Link](https://huggingface.co/Searchium-ai/clip4clip-webvid150k) |
 | 1.96k | 26 | guoyww/animatediff-motion-adapter-v1-5-2Text-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-adapter-v1-5-2) |
 | 417 | 25 | ByteDance/ContentV-8BText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/ByteDance/ContentV-8B) |
+| 724 | 24 | obsxrver/wan2 | Updated4 days ago | [Link](https://huggingface.co/obsxrver/wan2.2-t2v-scat) |
 | 3.47k | 22 | Skywork/SkyReels-V2-T2V-14B-720PText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-T2V-14B-720P) |
 | 21 | 22 | aidealab/AIdeaLab-VideoJPText-to-Video | UpdatedJan 14 | [Link](https://huggingface.co/aidealab/AIdeaLab-VideoJP) |
 | Updatedabout 2 hours ago | 22 | burakkizil/LAMP-Qwen-2 | 8B | [Link](https://huggingface.co/burakkizil/LAMP-Qwen-2.5-VL) |
@@ -6560,6 +6565,7 @@ Updated on 2026-02-23
 | 795 | 1 | chaowenguo/AnimateLCMText-to-Video | UpdatedFeb 28 | [Link](https://huggingface.co/chaowenguo/AnimateLCM) |
 | 1.83k | 1 | Isi99999/Wan2 | UpdatedMar 9 | [Link](https://huggingface.co/Isi99999/Wan2.1-T2V-14B) |
 | 208 | 1 | AlekseyCalvin/VladimirLENIN_Wan2 | UpdatedApr 1 | [Link](https://huggingface.co/AlekseyCalvin/VladimirLENIN_Wan2.1_1.3B_T2V_LoRA) |
+| 7 | 1 | Davex256/Wan2 | Updated7 days ago | [Link](https://huggingface.co/Davex256/Wan2.2-TI2V-5B) |
 | 7.59k |  | tencent/HunyuanVideoText-to-Video | UpdatedJan 21 | [Link](https://huggingface.co/tencent/HunyuanVideo) |
 | 26.6k |  | genmo/mochi-1-previewText-to-Video | UpdatedDec 18, 2024 | [Link](https://huggingface.co/genmo/mochi-1-preview) |
 | 91.5k |  | THUDM/CogVideoX-5bText-to-Video | UpdatedNov 23, 2024 | [Link](https://huggingface.co/THUDM/CogVideoX-5b) |
@@ -6688,6 +6694,7 @@ Updated on 2026-02-23
 | 4 | Unknown | zhuhz22/Causal-ForcingText-to-Video | Updated29 minutes ago | [Link](https://huggingface.co/zhuhz22/Causal-Forcing) |
 | 2 | Unknown | inference-sh/Wan2 | UpdatedJul 28, 2025 | [Link](https://huggingface.co/inference-sh/Wan2.2-TI2V-5B-Diffusers) |
 | 2 | Unknown | NumlockUknowSth/CineTrans-DiTText-to-Video | Updated3 days ago | [Link](https://huggingface.co/NumlockUknowSth/CineTrans-DiT) |
+| 4 | Unknown | wangkanai/wan22-fp8-t2v-loras-nsfwText-to-Video | UpdatedOct 28, 2025 | [Link](https://huggingface.co/wangkanai/wan22-fp8-t2v-loras-nsfw) |
 
 ## Text2Text Generation
 
