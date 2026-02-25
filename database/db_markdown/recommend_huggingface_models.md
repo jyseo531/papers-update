@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-02-24
+Updated on 2026-02-25
 
 > Generated from the Hugging Face database.
 
@@ -2793,6 +2793,8 @@ Updated on 2026-02-24
 | 3 | Unknown | prithivMLmods/Qwen-Image-Edit-AIO-fp8Image-to-Image | Updatedabout 17 hours ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-AIO-fp8) |
 | 3 | Unknown | prithivMLmods/FireRed-Image-Edit-1 | Updatedabout 6 hours ago | [Link](https://huggingface.co/prithivMLmods/FireRed-Image-Edit-1.0-FP8) |
 | 3 | Unknown | prithivMLmods/Qwen-Image-Edit-AIO-FP8Image-to-Image | Updated14 minutes ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-AIO-FP8) |
+| 15 | Unknown | dx8152/Flux2-Klein-Enhanced-DetailsImage-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/dx8152/Flux2-Klein-Enhanced-Details) |
+| 10 | Unknown | fal/flux-klein-9b-virtual-tryon-loraImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/fal/flux-klein-9b-virtual-tryon-lora) |
 
 ## Image-to-Text
 
@@ -3136,6 +3138,7 @@ Updated on 2026-02-24
 | 103 | 2 | bluolightning/manga-ocr-tfliteImage-to-Text | UpdatedDec 7, 2025 | [Link](https://huggingface.co/bluolightning/manga-ocr-tflite) |
 | UpdatedDec 26, 2025 | 2 | coredog64/fao-speciescode-handwrittenImage-to-Text | 0.3B | [Link](https://huggingface.co/coredog64/fao-speciescode-handwritten) |
 | 6 | 2 | bluolightning/PaddleOCRv5-Server-Det-For-MangaImage-to-Text | UpdatedJan 8 | [Link](https://huggingface.co/bluolightning/PaddleOCRv5-Server-Det-For-Manga) |
+| 34.4k | 2 | PaddlePaddle/latin_PP-OCRv5_mobile_recImage-to-Text | UpdatedOct 16, 2025 | [Link](https://huggingface.co/PaddlePaddle/latin_PP-OCRv5_mobile_rec) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -4827,6 +4830,7 @@ Updated on 2026-02-24
 | Updated1 day ago | 111 | moelanoby/phi-3-M3-coderText | 4B | [Link](https://huggingface.co/moelanoby/phi-3-M3-coder) |
 | Updated4 days ago | 110 | LatitudeGames/Wayfarer-2-12BText | 12B | [Link](https://huggingface.co/LatitudeGames/Wayfarer-2-12B) |
 | 176 | 109 | nvidia/DeepSeek-R1-FP4Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/nvidia/DeepSeek-R1-FP4) |
+| Updated8 days ago | 109 | LiquidAI/LFM2-24B-A2B-GGUFText | 24B | [Link](https://huggingface.co/LiquidAI/LFM2-24B-A2B-GGUF) |
 | 3 | 107 | MiniMaxAI/MiniMax-M1-80kText | Updatedabout 10 hours ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M1-80k) |
 | Updated1 day ago | 106 | opendatalab/MinerU-HTMLText | 0.8B | [Link](https://huggingface.co/opendatalab/MinerU-HTML) |
 | UpdatedMay 26 | 105k | mistralai/Devstral-Small-2505Text | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2505) |
@@ -4841,6 +4845,7 @@ Updated on 2026-02-24
 | Updatedabout 3 hours ago | 98 | unsloth/gpt-oss-20b-GGUFText | 21B | [Link](https://huggingface.co/unsloth/gpt-oss-20b-GGUF) |
 | Updated5 days ago | 98 | haykgrigorian/v2mini-eval1Text | 0.3B | [Link](https://huggingface.co/haykgrigorian/v2mini-eval1) |
 | Updatedabout 2 hours ago | 98 | XiaomiMiMo/MiMo-V2-FlashText | 310B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash) |
+| Updatedabout 4 hours ago | 98 | LiquidAI/LFM2-24B-A2BText | 24B | [Link](https://huggingface.co/LiquidAI/LFM2-24B-A2B) |
 | 26.5k | 97 | google/gemma-3n-E2B-it-litert-lmText | Updated13 days ago | [Link](https://huggingface.co/google/gemma-3n-E2B-it-litert-lm) |
 | 2 | 95 | Qwen/Qwen3-30B-A3BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B) |
 | 251 | 95 | facebook/MobileLLM-ProText | Updatedabout 7 hours ago | [Link](https://huggingface.co/facebook/MobileLLM-Pro) |
@@ -5846,6 +5851,8 @@ Updated on 2026-02-24
 | 528 | 5 | Disty0/GLM-Image-SDNQ-4bit-dynamicText-to-Image | Updated3 days ago | [Link](https://huggingface.co/Disty0/GLM-Image-SDNQ-4bit-dynamic) |
 | 233 | 5 | BiliSakura/BitDance-14B-64x-diffusersText-to-Image | Updated3 days ago | [Link](https://huggingface.co/BiliSakura/BitDance-14B-64x-diffusers) |
 | 233 | 5 | BiliSakura/BitDance-14B-16x-diffusersText-to-Image | Updated3 days ago | [Link](https://huggingface.co/BiliSakura/BitDance-14B-16x-diffusers) |
+| Updatedabout 13 hours ago | 5 | Amshaker/Mobile-O-1 | 4B | [Link](https://huggingface.co/Amshaker/Mobile-O-1.5B) |
+| 18 | 5 | artificialguybr/CINEMATIC-FILMSTILL-REDMOND-FLUXKLEIN9BText-to-Image | Updated5 days ago | [Link](https://huggingface.co/artificialguybr/CINEMATIC-FILMSTILL-REDMOND-FLUXKLEIN9B) |
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 46 | 4 | Sherwinroger002/fashion_mnist_diffusion_class_conditionalText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Sherwinroger002/fashion_mnist_diffusion_class_conditional) |
 | Updatedabout 1 hour ago | 4 | unsloth/Qwen-Image-2512-GGUFText-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-2512-GGUF) |
