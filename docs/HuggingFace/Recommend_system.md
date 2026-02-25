@@ -1835,6 +1835,7 @@ Updated on 2026-02-25
 | Updated1 day ago | 908 | ZJU-AI4H/Hulu-Med-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/ZJU-AI4H/Hulu-Med-7B) |
 | Updated1 day ago | 906 | OpenGVLab/InternVL3_5-1BImage-Text-to-Text | 1B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-1B) |
 | Updated1 day ago | 872 | prithivMLmods/Qwen3-VisionCaption-2B-GGUFImage-Text-to-Text | 2B | [Link](https://huggingface.co/prithivMLmods/Qwen3-VisionCaption-2B-GGUF) |
+| Updated2 days ago | 858 | MBZUAI/MedMO-4BImage-Text-to-Text | 4B | [Link](https://huggingface.co/MBZUAI/MedMO-4B) |
 | 57.2k | 851 | mistralai/Mistral-Small-3 | Updatedabout 11 hours ago | [Link](https://huggingface.co/mistralai/Mistral-Small-3.1-24B-Instruct-2503) |
 | Updatedabout 4 hours ago | 829 | lmms-lab/LLaVA-OneVision-1 | 9B | [Link](https://huggingface.co/lmms-lab/LLaVA-OneVision-1.5-8B-Instruct) |
 | Updated2 days ago | 764 | unsloth/LFM2 | 1B | [Link](https://huggingface.co/unsloth/LFM2.5-VL-1.6B-GGUF) |
@@ -2795,6 +2796,7 @@ Updated on 2026-02-25
 | 3 | Unknown | prithivMLmods/Qwen-Image-Edit-AIO-FP8Image-to-Image | Updated14 minutes ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-AIO-FP8) |
 | 15 | Unknown | dx8152/Flux2-Klein-Enhanced-DetailsImage-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/dx8152/Flux2-Klein-Enhanced-Details) |
 | 10 | Unknown | fal/flux-klein-9b-virtual-tryon-loraImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/fal/flux-klein-9b-virtual-tryon-lora) |
+| 24 | Unknown | dx8152/Flux2-Klein-9B-Enhanced-DetailsImage-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/dx8152/Flux2-Klein-9B-Enhanced-Details) |
 
 ## Image-to-Text
 
@@ -3188,6 +3190,7 @@ Updated on 2026-02-25
 | UpdatedJul 21, 2025 | 1.22k | CEIA-UFG/Gemma-3-Gaia-PT-BR-4b-itImage-to-Text | 4B | [Link](https://huggingface.co/CEIA-UFG/Gemma-3-Gaia-PT-BR-4b-it) |
 | 2.64k | 1 | PaddlePaddle/eslav_PP-OCRv5_mobile_recImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/eslav_PP-OCRv5_mobile_rec) |
 | 1 | 1 | Kansallisarkisto/court-records-htrImage-to-Text | UpdatedSep 17, 2024 | [Link](https://huggingface.co/Kansallisarkisto/court-records-htr) |
+| 6.68k | 1 | PaddlePaddle/SLANeXt_wiredImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/SLANeXt_wired) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -5853,6 +5856,7 @@ Updated on 2026-02-25
 | 233 | 5 | BiliSakura/BitDance-14B-16x-diffusersText-to-Image | Updated3 days ago | [Link](https://huggingface.co/BiliSakura/BitDance-14B-16x-diffusers) |
 | Updatedabout 13 hours ago | 5 | Amshaker/Mobile-O-1 | 4B | [Link](https://huggingface.co/Amshaker/Mobile-O-1.5B) |
 | 18 | 5 | artificialguybr/CINEMATIC-FILMSTILL-REDMOND-FLUXKLEIN9BText-to-Image | Updated5 days ago | [Link](https://huggingface.co/artificialguybr/CINEMATIC-FILMSTILL-REDMOND-FLUXKLEIN9B) |
+| 66 | 5 | Amshaker/Mobile-O-0 | Updated1 day ago | [Link](https://huggingface.co/Amshaker/Mobile-O-0.5B) |
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 46 | 4 | Sherwinroger002/fashion_mnist_diffusion_class_conditionalText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Sherwinroger002/fashion_mnist_diffusion_class_conditional) |
 | Updatedabout 1 hour ago | 4 | unsloth/Qwen-Image-2512-GGUFText-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-2512-GGUF) |
