@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-02-25
+Updated on 2026-02-26
 
 > Generated from the Hugging Face database.
 
@@ -6231,6 +6231,7 @@ Updated on 2026-02-25
 | 1.76k | 10 | facebook/mms-tts-korText-to-Speech | UpdatedSep 1, 2023 | [Link](https://huggingface.co/facebook/mms-tts-kor) |
 | 27.9k | 10 | unsloth/orpheus-3b-0 | UpdatedMar 24 | [Link](https://huggingface.co/unsloth/orpheus-3b-0.1-ft-unsloth-bnb-4bit) |
 | 22 | 10 | hynt/F5-TTS-Vietnamese-ViVoiceText-to-Speech | Updated35 minutes ago | [Link](https://huggingface.co/hynt/F5-TTS-Vietnamese-ViVoice) |
+| Updatedabout 12 hours ago | 10 | Aratako/Irodori-TTS-500MText-to-Speech | 0.5B | [Link](https://huggingface.co/Aratako/Irodori-TTS-500M) |
 | Updated1 day ago | 9 | OpenMOSS-Team/MOSS-TTS-RealtimeText-to-Speech | 2B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Realtime) |
 | 1.31k | 9 | OpenMOSS-Team/MOSS-TTS-Local-TransformerText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Local-Transformer) |
 | 63 | 8 | isaiahbjork/orpheus-3b-0 | Updatedabout 9 hours ago | [Link](https://huggingface.co/isaiahbjork/orpheus-3b-0.1-ft-Q4_K_M-GGUF) |
@@ -6712,6 +6713,7 @@ Updated on 2026-02-25
 | 2 | Unknown | NumlockUknowSth/CineTrans-DiTText-to-Video | Updated3 days ago | [Link](https://huggingface.co/NumlockUknowSth/CineTrans-DiT) |
 | 4 | Unknown | wangkanai/wan22-fp8-t2v-loras-nsfwText-to-Video | UpdatedOct 28, 2025 | [Link](https://huggingface.co/wangkanai/wan22-fp8-t2v-loras-nsfw) |
 | 2 | Unknown | gomirageai/Mirage-T2V-14B-MoEText-to-Video | Updated2 days ago | [Link](https://huggingface.co/gomirageai/Mirage-T2V-14B-MoE) |
+| 3 | Unknown | wangkanai/wan22-vaeText-to-Video | UpdatedOct 28, 2025 | [Link](https://huggingface.co/wangkanai/wan22-vae) |
 
 ## Text2Text Generation
 
