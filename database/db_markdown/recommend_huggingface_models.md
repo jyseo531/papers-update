@@ -2130,6 +2130,7 @@ Updated on 2026-02-26
 | Updatedabout 9 hours ago | 10 | tencent/Youtu-VL-4B-Instruct-GGUFImage-Text-to-Text | 5B | [Link](https://huggingface.co/tencent/Youtu-VL-4B-Instruct-GGUF) |
 | Updatedabout 23 hours ago | 10 | tencent/Youtu-ParsingImage-Text-to-Text | 3B | [Link](https://huggingface.co/tencent/Youtu-Parsing) |
 | Updatedabout 12 hours ago | 10 | Trendyol/Trendyol-LLM-Asure-12BImage-Text-to-Text | 12B | [Link](https://huggingface.co/Trendyol/Trendyol-LLM-Asure-12B) |
+| Updated1 day ago | 10.1k | bartowski/Qwen_Qwen3 | 27B | [Link](https://huggingface.co/bartowski/Qwen_Qwen3.5-27B-GGUF) |
 | 9.49k | 9 | unsloth/gemma-3-27b-it-bnb-4bitImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-bnb-4bit) |
 | 40.9k | 9 | lmstudio-community/gemma-3-12b-it-GGUFImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/lmstudio-community/gemma-3-12b-it-GGUF) |
 | 1.89k | 9 | Mungert/gemma-3-12b-it-ggufImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/Mungert/gemma-3-12b-it-gguf) |
@@ -5694,6 +5695,7 @@ Updated on 2026-02-26
 | 126k | 206 | RunDiffusion/Juggernaut-XL-v9Text-to-Image | UpdatedDec 11, 2024 | [Link](https://huggingface.co/RunDiffusion/Juggernaut-XL-v9) |
 | 37.6k | 156 | tianweiy/DMD2Text-to-Image | UpdatedJun 11, 2024 | [Link](https://huggingface.co/tianweiy/DMD2) |
 | 35.7k | 147 | nunchaku-ai/nunchaku-z-image-turboText-to-Image | Updated15 days ago | [Link](https://huggingface.co/nunchaku-ai/nunchaku-z-image-turbo) |
+| 168k | 140 | SG161222/RealVisXL_V5 | UpdatedOct 8, 2024 | [Link](https://huggingface.co/SG161222/RealVisXL_V5.0) |
 | Updatedabout 16 hours ago | 124 | calcuis/krea-ggufText-to-Image | 12B | [Link](https://huggingface.co/calcuis/krea-gguf) |
 | Updatedabout 17 hours ago | 116 | wikeeyang/Real-Qwen-Image-V2Text-to-Image | 20B | [Link](https://huggingface.co/wikeeyang/Real-Qwen-Image-V2) |
 | 3.01k | 81 | RunDiffusion/Juggernaut-XI-v11Text-to-Image | UpdatedAug 29, 2024 | [Link](https://huggingface.co/RunDiffusion/Juggernaut-XI-v11) |
@@ -6714,6 +6716,7 @@ Updated on 2026-02-26
 | 4 | Unknown | wangkanai/wan22-fp8-t2v-loras-nsfwText-to-Video | UpdatedOct 28, 2025 | [Link](https://huggingface.co/wangkanai/wan22-fp8-t2v-loras-nsfw) |
 | 2 | Unknown | gomirageai/Mirage-T2V-14B-MoEText-to-Video | Updated2 days ago | [Link](https://huggingface.co/gomirageai/Mirage-T2V-14B-MoE) |
 | 3 | Unknown | wangkanai/wan22-vaeText-to-Video | UpdatedOct 28, 2025 | [Link](https://huggingface.co/wangkanai/wan22-vae) |
+| 19 | Unknown | gomirageai/Alice-T2V-14B-MoEText-to-Video | Updatedabout 9 hours ago | [Link](https://huggingface.co/gomirageai/Alice-T2V-14B-MoE) |
 
 ## Text2Text Generation
 
