@@ -1995,6 +1995,7 @@ Updated on 2026-02-28
 | Updated5 days ago | 35.7k | unsloth/Qwen3-VL-8B-Instruct-GGUFImage-Text-to-Text | 8B | [Link](https://huggingface.co/unsloth/Qwen3-VL-8B-Instruct-GGUF) |
 | Updatedabout 3 hours ago | 35 | PaddlePaddle/PaddleOCR-VL-1 | 1.0B | [Link](https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.5) |
 | Updated4 days ago | 33 | prithivMLmods/Qwen2 | 8B | [Link](https://huggingface.co/prithivMLmods/Qwen2.5-VL-7B-Abliterated-Caption-it) |
+| Updated3 days ago | 32.8k | cyankiwi/Qwen3 | 25B | [Link](https://huggingface.co/cyankiwi/Qwen3.5-122B-A10B-AWQ-4bit) |
 | 4.01k | 31 | google/paligemma2-3b-mix-448Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-3b-mix-448) |
 | Updatedabout 11 hours ago | 31.6k | YannQi/R-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/YannQi/R-4B) |
 | UpdatedSep 21, 2024 | 30k | google/paligemma-3b-pt-224Image-Text-to-Text | 3B | [Link](https://huggingface.co/google/paligemma-3b-pt-224) |
@@ -4793,6 +4794,7 @@ Updated on 2026-02-28
 | Updatedabout 11 hours ago | 206 | NousResearch/Hermes-4 | 36B | [Link](https://huggingface.co/NousResearch/Hermes-4.3-36B) |
 | 427 | 204 | microsoft/MAI-DS-R1Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/microsoft/MAI-DS-R1) |
 | Updatedabout 2 hours ago | 203 | nvidia/NVIDIA-Nemotron-Nano-9B-v2-JapaneseText | 9B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese) |
+| Updatedabout 14 hours ago | 203 | nvidia/Nemotron-Terminal-32BText | 33B | [Link](https://huggingface.co/nvidia/Nemotron-Terminal-32B) |
 | Updated25 minutes ago | 202 | shb777/Llama-3 | 8B | [Link](https://huggingface.co/shb777/Llama-3.3-8B-Instruct) |
 | Updated15 days ago | 201 | SamuelBang/AesCoder-4BText | 4B | [Link](https://huggingface.co/SamuelBang/AesCoder-4B) |
 | 11.7k | 196 | smirki/UIGEN-T1-Qwen-7bText | Updated5 days ago | [Link](https://huggingface.co/smirki/UIGEN-T1-Qwen-7b) |
@@ -6722,6 +6724,8 @@ Updated on 2026-02-28
 | 2 | Unknown | gomirageai/Mirage-T2V-14B-MoEText-to-Video | Updated2 days ago | [Link](https://huggingface.co/gomirageai/Mirage-T2V-14B-MoE) |
 | 3 | Unknown | wangkanai/wan22-vaeText-to-Video | UpdatedOct 28, 2025 | [Link](https://huggingface.co/wangkanai/wan22-vae) |
 | 19 | Unknown | gomirageai/Alice-T2V-14B-MoEText-to-Video | Updatedabout 9 hours ago | [Link](https://huggingface.co/gomirageai/Alice-T2V-14B-MoE) |
+| 1 | Unknown | dvstitles/90sclub-loraText-to-Video | UpdatedSep 30, 2025 | [Link](https://huggingface.co/dvstitles/90sclub-lora) |
+| 3 | Unknown | kairos-agi/kairos-sensenova-commonText-to-Video | Updatedabout 7 hours ago | [Link](https://huggingface.co/kairos-agi/kairos-sensenova-common) |
 
 ## Text2Text Generation
 
