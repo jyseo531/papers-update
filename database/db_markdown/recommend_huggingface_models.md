@@ -284,6 +284,7 @@ Updated on 2026-03-01
 | 16 | Unknown | rkfg/Ovi-fp8_quantizedAny-to-Any | UpdatedOct 27, 2025 | [Link](https://huggingface.co/rkfg/Ovi-fp8_quantized) |
 | 86 | Unknown | xgen-universe/CapybaraAny-to-Any | Updatedabout 2 hours ago | [Link](https://huggingface.co/xgen-universe/Capybara) |
 | 3 | Unknown | shayzinasimulation/Red-Angel-SenateAny-to-Any | UpdatedDec 3, 2025 | [Link](https://huggingface.co/shayzinasimulation/Red-Angel-Senate) |
+| 2 | Unknown | mythicgames/MAI-M4-Coder-FastAny-to-Any | Updatedabout 7 hours ago | [Link](https://huggingface.co/mythicgames/MAI-M4-Coder-Fast) |
 
 ## Audio Classification
 
@@ -4782,6 +4783,7 @@ Updated on 2026-03-01
 | Updated2 days ago | 266 | FutureMa/Qwen3-8B-Drama-ThinkingText | 308k | [Link](https://huggingface.co/FutureMa/Qwen3-8B-Drama-Thinking) |
 | Updated5 days ago | 264 | arcee-ai/Trinity-Nano-BaseText | 6B | [Link](https://huggingface.co/arcee-ai/Trinity-Nano-Base) |
 | 6.51k | 262 | NousResearch/DeepHermes-3-Llama-3-8B-PreviewText | Updated6 days ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview) |
+| Updated1 day ago | 260 | Jackrong/Qwen3 | 28B | [Link](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled) |
 | Updatedabout 22 hours ago | 256 | NC-AI-consortium-VAETKI/VAETKIText | 112B | [Link](https://huggingface.co/NC-AI-consortium-VAETKI/VAETKI) |
 | Updatedabout 2 hours ago | 255 | agentica-org/DeepSWE-PreviewText | 33B | [Link](https://huggingface.co/agentica-org/DeepSWE-Preview) |
 | Updated3 days ago | 249 | cerebras/DeepSeek-V3 | 345B | [Link](https://huggingface.co/cerebras/DeepSeek-V3.2-REAP-345B-A37B) |
