@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-01
+Updated on 2026-03-02
 
 > Generated from the Hugging Face database.
 
@@ -285,6 +285,7 @@ Updated on 2026-03-01
 | 86 | Unknown | xgen-universe/CapybaraAny-to-Any | Updatedabout 2 hours ago | [Link](https://huggingface.co/xgen-universe/Capybara) |
 | 3 | Unknown | shayzinasimulation/Red-Angel-SenateAny-to-Any | UpdatedDec 3, 2025 | [Link](https://huggingface.co/shayzinasimulation/Red-Angel-Senate) |
 | 2 | Unknown | mythicgames/MAI-M4-Coder-FastAny-to-Any | Updatedabout 7 hours ago | [Link](https://huggingface.co/mythicgames/MAI-M4-Coder-Fast) |
+| 1 | Unknown | kr-cen/Qwen-Image-MICoAny-to-Any | Updatedabout 15 hours ago | [Link](https://huggingface.co/kr-cen/Qwen-Image-MICo) |
 
 ## Audio Classification
 
@@ -6733,6 +6734,7 @@ Updated on 2026-03-01
 | 19 | Unknown | gomirageai/Alice-T2V-14B-MoEText-to-Video | Updatedabout 9 hours ago | [Link](https://huggingface.co/gomirageai/Alice-T2V-14B-MoE) |
 | 1 | Unknown | dvstitles/90sclub-loraText-to-Video | UpdatedSep 30, 2025 | [Link](https://huggingface.co/dvstitles/90sclub-lora) |
 | 3 | Unknown | kairos-agi/kairos-sensenova-commonText-to-Video | Updatedabout 7 hours ago | [Link](https://huggingface.co/kairos-agi/kairos-sensenova-common) |
+| 1 | Unknown | iedavidcastilloX/Candy_AIText-to-Video | UpdatedFeb 15, 2025 | [Link](https://huggingface.co/iedavidcastilloX/Candy_AI) |
 
 ## Text2Text Generation
 
