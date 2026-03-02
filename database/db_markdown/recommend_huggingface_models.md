@@ -1955,6 +1955,7 @@ Updated on 2026-03-02
 | Updated2 days ago | 62 | vincentkaufmann/gpt-oss-20b-vision-previewImage-Text-to-Text | 21B | [Link](https://huggingface.co/vincentkaufmann/gpt-oss-20b-vision-preview) |
 | 69 | 61 | google/gemma-3-12b-itImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-12b-it) |
 | 3.25k | 61 | meta-llama/Llama-4-Scout-17B-16EImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E) |
+| Updatedabout 1 hour ago | 61.9k | Sehyo/Qwen3 | 71B | [Link](https://huggingface.co/Sehyo/Qwen3.5-122B-A10B-NVFP4) |
 | 18.5k | 57 | prithivMLmods/Qwen2-VL-OCR-2B-InstructImage-Text-to-Text | UpdatedJan 11 | [Link](https://huggingface.co/prithivMLmods/Qwen2-VL-OCR-2B-Instruct) |
 | 944 | 56 | nvidia/Eagle2-9BImage-Text-to-Text | UpdatedJan 28 | [Link](https://huggingface.co/nvidia/Eagle2-9B) |
 | Updatedabout 7 hours ago | 55 | OpenGVLab/InternVL3_5-30B-A3BImage-Text-to-Text | 31B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-30B-A3B) |
@@ -3154,6 +3155,7 @@ Updated on 2026-03-02
 | UpdatedDec 26, 2025 | 2 | coredog64/fao-speciescode-handwrittenImage-to-Text | 0.3B | [Link](https://huggingface.co/coredog64/fao-speciescode-handwritten) |
 | 6 | 2 | bluolightning/PaddleOCRv5-Server-Det-For-MangaImage-to-Text | UpdatedJan 8 | [Link](https://huggingface.co/bluolightning/PaddleOCRv5-Server-Det-For-Manga) |
 | 34.4k | 2 | PaddlePaddle/latin_PP-OCRv5_mobile_recImage-to-Text | UpdatedOct 16, 2025 | [Link](https://huggingface.co/PaddlePaddle/latin_PP-OCRv5_mobile_rec) |
+| 629 | 2 | agomberto/trocr-large-handwritten-frImage-to-Text | UpdatedJul 20, 2023 | [Link](https://huggingface.co/agomberto/trocr-large-handwritten-fr) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -5159,6 +5161,7 @@ Updated on 2026-03-02
 | Updatedabout 3 hours ago | 22 | arcee-ai/Trinity-Large-PreviewText | 399B | [Link](https://huggingface.co/arcee-ai/Trinity-Large-Preview) |
 | Updatedabout 12 hours ago | 22 | Qwen/Qwen3-Coder-Next-FP8Text | 80B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-Next-FP8) |
 | Updatedabout 23 hours ago | 22 | Qwen/Qwen3-Coder-Next-BaseText | 80B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-Next-Base) |
+| Updated26 days ago | 22.1k | BennyDaBall/Qwen3-4b-Z-Image-Engineer-V4Text | 4B | [Link](https://huggingface.co/BennyDaBall/Qwen3-4b-Z-Image-Engineer-V4) |
 | 34 | 21 | ai21labs/AI21-Jamba-Mini-1 | Updatedabout 13 hours ago | [Link](https://huggingface.co/ai21labs/AI21-Jamba-Mini-1.6) |
 | 7.93k | 21 | lmstudio-community/Llama-4-Scout-17B-16E-Instruct-GGUFText | Updated1 day ago | [Link](https://huggingface.co/lmstudio-community/Llama-4-Scout-17B-16E-Instruct-GGUF) |
 | 275 | 21 | ServiceNow-AI/Apriel-5B-InstructText | Updated3 days ago | [Link](https://huggingface.co/ServiceNow-AI/Apriel-5B-Instruct) |
