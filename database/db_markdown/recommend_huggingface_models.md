@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-02
+Updated on 2026-03-03
 
 > Generated from the Hugging Face database.
 
@@ -5037,6 +5037,7 @@ Updated on 2026-03-02
 | Updated1 day ago | 33 | XiaomiMiMo/MiMo-V2-Flash-BaseText | 310B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash-Base) |
 | Updatedabout 16 hours ago | 33 | arcee-ai/Trinity-Large-TrueBaseText | 399B | [Link](https://huggingface.co/arcee-ai/Trinity-Large-TrueBase) |
 | Updatedabout 10 hours ago | 33 | zai-org/GLM-5-FP8Text | 754B | [Link](https://huggingface.co/zai-org/GLM-5-FP8) |
+| Updatedabout 20 hours ago | 33 | janhq/Jan-code-4bText | 4B | [Link](https://huggingface.co/janhq/Jan-code-4b) |
 | 5.81k | 32 | trillionlabs/Trillion-7B-previewText | Updatedabout 3 hours ago | [Link](https://huggingface.co/trillionlabs/Trillion-7B-preview) |
 | 224 | 32 | JetBrains/Mellum-4b-sft-pythonText | Updated6 days ago | [Link](https://huggingface.co/JetBrains/Mellum-4b-sft-python) |
 | 131 | 32 | nvidia/AceReason-Nemotron-14BText | Updatedabout 3 hours ago | [Link](https://huggingface.co/nvidia/AceReason-Nemotron-14B) |
@@ -6346,6 +6347,7 @@ Updated on 2026-03-02
 | 16 | 3 | ASLP-lab/MeanVCText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/ASLP-lab/MeanVC) |
 | Updated7 days ago | 3.07k | OpenMOSS-Team/MOSS-TTSD-v0 | 2B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTSD-v0.7) |
 | 281 | 3 | valtecAI-team/valtec-tts-pretrainedText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/valtecAI-team/valtec-tts-pretrained) |
+| 28 | 3 | CoRal-project/roest-v3-chatterbox-500mText-to-Speech | Updated5 days ago | [Link](https://huggingface.co/CoRal-project/roest-v3-chatterbox-500m) |
 | 2.36M | 2.41k | coqui/XTTS-v2Text-to-Speech | UpdatedDec 11, 2023 | [Link](https://huggingface.co/coqui/XTTS-v2) |
 | 153 | 2 | mmwillet2/Dia_GGUFText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/mmwillet2/Dia_GGUF) |
 | 55 | 2 | unsloth/Spark-TTS-0 | Updated2 days ago | [Link](https://huggingface.co/unsloth/Spark-TTS-0.5B) |
