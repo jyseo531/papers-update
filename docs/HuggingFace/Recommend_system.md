@@ -4754,6 +4754,7 @@ Updated on 2026-03-04
 |  | 565 | deepseek-ai/DeepSeek-R1-0528Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528) |
 | Updated3 days ago | 540 | ArliAI/gpt-oss-120b-DerestrictedText | 117B | [Link](https://huggingface.co/ArliAI/gpt-oss-120b-Derestricted) |
 | Updated3 days ago | 528 | huihui-ai/Huihui-Qwen3-Coder-Next-abliteratedText | 80B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3-Coder-Next-abliterated) |
+| Updated3 days ago | 528 | atbender/Qwen3 | 30B | [Link](https://huggingface.co/atbender/Qwen3.5-REAP-212B-A17B-W4A16) |
 | Updated4 days ago | 517 | ai21labs/AI21-Jamba2-3BText | 3B | [Link](https://huggingface.co/ai21labs/AI21-Jamba2-3B) |
 | 894k | 486 | deepseek-ai/DeepSeek-R1-Distill-Qwen-7BText | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B) |
 | Updated6 days ago | 480 | huihui-ai/Huihui-GLM-4 | 353B | [Link](https://huggingface.co/huihui-ai/Huihui-GLM-4.6-abliterated-mlx-4bit) |
@@ -5315,6 +5316,7 @@ Updated on 2026-03-04
 | Updated5 days ago | 3.04k | nvidia/Nemotron-Flash-3B-InstructText | 3B | [Link](https://huggingface.co/nvidia/Nemotron-Flash-3B-Instruct) |
 | Updated3 days ago | 3.17k | codelion/dhara-70mText | 71.3M | [Link](https://huggingface.co/codelion/dhara-70m) |
 | Updated21 days ago | 3.01k | ruv/ruvltra-claude-codeText | 0.5B | [Link](https://huggingface.co/ruv/ruvltra-claude-code) |
+| Updatedabout 8 hours ago | 3.53k | janhq/Jan-code-4b-ggufText | 4B | [Link](https://huggingface.co/janhq/Jan-code-4b-gguf) |
 | Updated6 days ago | 2.04k | marcelbinz/Llama-3 | 71B | [Link](https://huggingface.co/marcelbinz/Llama-3.1-Centaur-70B) |
 | Updatedabout 2 hours ago | 2.66k | unsloth/Qwen3-235B-A22B-Instruct-2507-GGUFText | 235B | [Link](https://huggingface.co/unsloth/Qwen3-235B-A22B-Instruct-2507-GGUF) |
 | Updatedabout 10 hours ago | 2 | Qwen/Qwen3-30B-A3B-Thinking-2507Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507) |
@@ -6460,6 +6462,8 @@ Updated on 2026-03-04
 | 5 | Unknown | ipsilondev/chatterbox-multilingual-ONNX-q4Text-to-Speech | Updated26 days ago | [Link](https://huggingface.co/ipsilondev/chatterbox-multilingual-ONNX-q4) |
 | 6 | Unknown | vadimbelsky/emirati-vits-male-1 | Updatedabout 19 hours ago | [Link](https://huggingface.co/vadimbelsky/emirati-vits-male-1.0) |
 | 4 | Unknown | elbruno/Qwen3-TTS-12Hz-0 | Updated5 days ago | [Link](https://huggingface.co/elbruno/Qwen3-TTS-12Hz-0.6B-Base-ONNX) |
+| 5 | Unknown | uzlm/sayro-tts-1 | Updatedabout 7 hours ago | [Link](https://huggingface.co/uzlm/sayro-tts-1.7B) |
+| 4 | Unknown | PatnaikAshish/kokocloneText-to-Speech | Updatedabout 5 hours ago | [Link](https://huggingface.co/PatnaikAshish/kokoclone) |
 
 ## Text-to-Video
 
@@ -6539,6 +6543,7 @@ Updated on 2026-03-04
 | 35 | 4 | jbilcke-hf/HunyuanVideoGP-HFIEText-to-Video | UpdatedFeb 28 | [Link](https://huggingface.co/jbilcke-hf/HunyuanVideoGP-HFIE) |
 | 109 | 4 | Remade-AI/FireText-to-Video | UpdatedMar 20 | [Link](https://huggingface.co/Remade-AI/Fire) |
 | 60 | 4 | Warvito/animatediff-motion-adapter-sdxl-v1-0-betaText-to-Video | UpdatedMar 15, 2024 | [Link](https://huggingface.co/Warvito/animatediff-motion-adapter-sdxl-v1-0-beta) |
+| 270 | 4 | BestWishYsh/Helios-DistilledText-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/BestWishYsh/Helios-Distilled) |
 | 4.64k | 3 | guoyww/animatediff-motion-lora-pan-rightText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-pan-right) |
 | 28 | 3 | finetrainers/3dgs-v0Text-to-Video | UpdatedJan 29 | [Link](https://huggingface.co/finetrainers/3dgs-v0) |
 | 1 | 3 | longlian/text-to-video-lvd-msText-to-Video | UpdatedMay 1, 2024 | [Link](https://huggingface.co/longlian/text-to-video-lvd-ms) |
@@ -6551,6 +6556,8 @@ Updated on 2026-03-04
 | 173 | 3 | vdo/animov-512xText-to-Video | UpdatedMay 7, 2023 | [Link](https://huggingface.co/vdo/animov-512x) |
 | 7 | 3 | rhymes-ai/Allegro-T2V-40x720PText-to-Video | UpdatedDec 28, 2024 | [Link](https://huggingface.co/rhymes-ai/Allegro-T2V-40x720P) |
 |  | 3 | oumoumad/deepzoom-loraText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/oumoumad/deepzoom-lora) |
+| 185 | 3 | BestWishYsh/Helios-BaseText-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/BestWishYsh/Helios-Base) |
+| 89 | 3 | BestWishYsh/Helios-MidText-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/BestWishYsh/Helios-Mid) |
 | 69 | 2 | obvious-research/onlyflowText-to-Video | Updated5 days ago | [Link](https://huggingface.co/obvious-research/onlyflow) |
 | 42 | 2 | jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIEText-to-Video | Updated7 days ago | [Link](https://huggingface.co/jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIE) |
 | 10 | 2 | vdo/Hotshot-XLText-to-Video | UpdatedOct 4, 2023 | [Link](https://huggingface.co/vdo/Hotshot-XL) |
