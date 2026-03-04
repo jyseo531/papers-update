@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-03
+Updated on 2026-03-04
 
 > Generated from the Hugging Face database.
 
@@ -6260,6 +6260,7 @@ Updated on 2026-03-03
 | 31 | 8 | marianbasti/XTTS-v2-argentinian-spanishText-to-Speech | UpdatedJul 22, 2024 | [Link](https://huggingface.co/marianbasti/XTTS-v2-argentinian-spanish) |
 | 495 | 8 | alien79/F5-TTS-italianText-to-Speech | UpdatedDec 12, 2024 | [Link](https://huggingface.co/alien79/F5-TTS-italian) |
 | Updated2 days ago | 8 | OmniAICreator/Galgame-Llasa-1B-v2Text-to-Speech | 1B | [Link](https://huggingface.co/OmniAICreator/Galgame-Llasa-1B-v2) |
+| UpdatedJan 21 | 8.3k | akh99/veena-hinglishText-to-Speech | 4B | [Link](https://huggingface.co/akh99/veena-hinglish) |
 | 1.11k | 7 | DragonLineageAI/Vi-SparkTTS-0 | Updatedabout 10 hours ago | [Link](https://huggingface.co/DragonLineageAI/Vi-SparkTTS-0.5B) |
 | 9 | 7 | canopylabs/3b-zh-pretrain-research_releaseText-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/canopylabs/3b-zh-pretrain-research_release) |
 | 618 | 7 | canopylabs/3b-de-pretrain-research_releaseText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/canopylabs/3b-de-pretrain-research_release) |
