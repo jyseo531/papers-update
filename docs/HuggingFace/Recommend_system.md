@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-04
+Updated on 2026-03-05
 
 > Generated from the Hugging Face database.
 
@@ -1986,6 +1986,7 @@ Updated on 2026-03-04
 | 6 | 40 | convergence-ai/proxy-lite-3bImage-Text-to-Text | Updatedabout 15 hours ago | [Link](https://huggingface.co/convergence-ai/proxy-lite-3b) |
 | 25 | 40 | Hcompany/Holo1-7BImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/Hcompany/Holo1-7B) |
 | Updatedabout 6 hours ago | 40 | microsoft/Fara-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/microsoft/Fara-7B) |
+| Updatedabout 8 hours ago | 40 | microsoft/Phi-4-reasoning-vision-15BImage-Text-to-Text | 15B | [Link](https://huggingface.co/microsoft/Phi-4-reasoning-vision-15B) |
 | Updatedabout 7 hours ago | 39 | OpenGVLab/InternVL3_5-38BImage-Text-to-Text | 38B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-38B) |
 | 12.4k | 38 | zhibinlan/LLaVE-2BImage-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/zhibinlan/LLaVE-2B) |
 | 7.23k | 38 | nvidia/Cosmos-Reason1-7BImage-Text-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/nvidia/Cosmos-Reason1-7B) |
@@ -2553,6 +2554,7 @@ Updated on 2026-03-04
 | 99 | 4 | Disty0/Qwen-Image-Edit-2511-SDNQ-uint4-svd-r32Image-to-Image | Updated3 days ago | [Link](https://huggingface.co/Disty0/Qwen-Image-Edit-2511-SDNQ-uint4-svd-r32) |
 | 441 | 4 | starsfriday/Qwen-Image-Edit-2511-Upscale2KImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/starsfriday/Qwen-Image-Edit-2511-Upscale2K) |
 | 397 | 4 | ovedrive/Qwen-Image-Edit-2511-4bitImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/ovedrive/Qwen-Image-Edit-2511-4bit) |
+|  | 4 | prithivMLmods/QIE-2509-Object-Remover-BboxImage-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/prithivMLmods/QIE-2509-Object-Remover-Bbox) |
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
@@ -2809,6 +2811,7 @@ Updated on 2026-03-04
 | 15 | Unknown | dx8152/Flux2-Klein-Enhanced-DetailsImage-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/dx8152/Flux2-Klein-Enhanced-Details) |
 | 10 | Unknown | fal/flux-klein-9b-virtual-tryon-loraImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/fal/flux-klein-9b-virtual-tryon-lora) |
 | 24 | Unknown | dx8152/Flux2-Klein-9B-Enhanced-DetailsImage-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/dx8152/Flux2-Klein-9B-Enhanced-Details) |
+| 49k |  | prithivMLmods/Qwen-Image-Edit-2511-Ultra-Realistic-PortraitImage-to-Image | UpdatedJan 18 | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-2511-Ultra-Realistic-Portrait) |
 
 ## Image-to-Text
 
@@ -3156,6 +3159,7 @@ Updated on 2026-03-04
 | 6 | 2 | bluolightning/PaddleOCRv5-Server-Det-For-MangaImage-to-Text | UpdatedJan 8 | [Link](https://huggingface.co/bluolightning/PaddleOCRv5-Server-Det-For-Manga) |
 | 34.4k | 2 | PaddlePaddle/latin_PP-OCRv5_mobile_recImage-to-Text | UpdatedOct 16, 2025 | [Link](https://huggingface.co/PaddlePaddle/latin_PP-OCRv5_mobile_rec) |
 | 629 | 2 | agomberto/trocr-large-handwritten-frImage-to-Text | UpdatedJul 20, 2023 | [Link](https://huggingface.co/agomberto/trocr-large-handwritten-fr) |
+| 27 | 2 | UBC-NLP/PeacockImage-to-Text | UpdatedNov 25, 2024 | [Link](https://huggingface.co/UBC-NLP/Peacock) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -6749,6 +6753,7 @@ Updated on 2026-03-04
 | 1 | Unknown | dvstitles/90sclub-loraText-to-Video | UpdatedSep 30, 2025 | [Link](https://huggingface.co/dvstitles/90sclub-lora) |
 | 3 | Unknown | kairos-agi/kairos-sensenova-commonText-to-Video | Updatedabout 7 hours ago | [Link](https://huggingface.co/kairos-agi/kairos-sensenova-common) |
 | 1 | Unknown | iedavidcastilloX/Candy_AIText-to-Video | UpdatedFeb 15, 2025 | [Link](https://huggingface.co/iedavidcastilloX/Candy_AI) |
+| 2 | Unknown | BestWishYsh/HeliosBench-WeightsText-to-Video | Updatedabout 17 hours ago | [Link](https://huggingface.co/BestWishYsh/HeliosBench-Weights) |
 
 ## Text2Text Generation
 
