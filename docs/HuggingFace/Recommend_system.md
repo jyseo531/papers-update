@@ -2812,6 +2812,7 @@ Updated on 2026-03-05
 | 10 | Unknown | fal/flux-klein-9b-virtual-tryon-loraImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/fal/flux-klein-9b-virtual-tryon-lora) |
 | 24 | Unknown | dx8152/Flux2-Klein-9B-Enhanced-DetailsImage-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/dx8152/Flux2-Klein-9B-Enhanced-Details) |
 | 49k |  | prithivMLmods/Qwen-Image-Edit-2511-Ultra-Realistic-PortraitImage-to-Image | UpdatedJan 18 | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-2511-Ultra-Realistic-Portrait) |
+| 5.31k |  | prithivMLmods/QIE-2511-Object-Remover-v2Image-to-Image | UpdatedJan 23 | [Link](https://huggingface.co/prithivMLmods/QIE-2511-Object-Remover-v2) |
 
 ## Image-to-Text
 
@@ -5884,6 +5885,7 @@ Updated on 2026-03-05
 | Updatedabout 13 hours ago | 5 | Amshaker/Mobile-O-1 | 4B | [Link](https://huggingface.co/Amshaker/Mobile-O-1.5B) |
 | 18 | 5 | artificialguybr/CINEMATIC-FILMSTILL-REDMOND-FLUXKLEIN9BText-to-Image | Updated5 days ago | [Link](https://huggingface.co/artificialguybr/CINEMATIC-FILMSTILL-REDMOND-FLUXKLEIN9B) |
 | 66 | 5 | Amshaker/Mobile-O-0 | Updated1 day ago | [Link](https://huggingface.co/Amshaker/Mobile-O-0.5B) |
+| 50 | 5 | ostris/sketch_to_image_klein_4bText-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/ostris/sketch_to_image_klein_4b) |
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 46 | 4 | Sherwinroger002/fashion_mnist_diffusion_class_conditionalText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Sherwinroger002/fashion_mnist_diffusion_class_conditional) |
 | Updatedabout 1 hour ago | 4 | unsloth/Qwen-Image-2512-GGUFText-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-2512-GGUF) |
@@ -6238,6 +6240,7 @@ Updated on 2026-03-05
 | Updated5 days ago | 17 | NAMAA-Space/NAMAA-Saudi-TTSText-to-Speech | 0.5B | [Link](https://huggingface.co/NAMAA-Space/NAMAA-Saudi-TTS) |
 | 77 | 16 | Mofa-Xingche/girl-style-bert-vits2-JPExtra-modelsText-to-Speech | UpdatedMay 31, 2024 | [Link](https://huggingface.co/Mofa-Xingche/girl-style-bert-vits2-JPExtra-models) |
 | 179 | 16 | esnya/japanese_speecht5_ttsText-to-Speech | UpdatedAug 9, 2023 | [Link](https://huggingface.co/esnya/japanese_speecht5_tts) |
+| Updatedabout 2 hours ago | 16 | OpenMOSS-Team/MOSS-TTS-GGUFText-to-Speech | 8B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-GGUF) |
 | 147 | 15 | dangvansam/viet-ttsText-to-Speech | UpdatedDec 11, 2024 | [Link](https://huggingface.co/dangvansam/viet-tts) |
 | Updatedabout 18 hours ago | 15 | samuel-vitorino/soproText-to-Speech | 0.2B | [Link](https://huggingface.co/samuel-vitorino/sopro) |
 | 11 | 15 | YatharthS/LuxTTSText-to-Speech | Updatedabout 5 hours ago | [Link](https://huggingface.co/YatharthS/LuxTTS) |
