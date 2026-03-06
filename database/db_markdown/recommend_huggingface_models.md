@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-05
+Updated on 2026-03-06
 
 > Generated from the Hugging Face database.
 
@@ -2813,6 +2813,8 @@ Updated on 2026-03-05
 | 24 | Unknown | dx8152/Flux2-Klein-9B-Enhanced-DetailsImage-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/dx8152/Flux2-Klein-9B-Enhanced-Details) |
 | 49k |  | prithivMLmods/Qwen-Image-Edit-2511-Ultra-Realistic-PortraitImage-to-Image | UpdatedJan 18 | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-2511-Ultra-Realistic-Portrait) |
 | 5.31k |  | prithivMLmods/QIE-2511-Object-Remover-v2Image-to-Image | UpdatedJan 23 | [Link](https://huggingface.co/prithivMLmods/QIE-2511-Object-Remover-v2) |
+| 10 | Unknown | dx8152/Flux2-Klein-9B-ConsistencyImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/dx8152/Flux2-Klein-9B-Consistency) |
+| 7 | Unknown | fal/virtual-tryoff-loraImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/fal/virtual-tryoff-lora) |
 
 ## Image-to-Text
 
@@ -5161,6 +5163,7 @@ Updated on 2026-03-05
 | Updated1 day ago | 23 | Tesslate/WEBGEN-4B-PreviewText | 4B | [Link](https://huggingface.co/Tesslate/WEBGEN-4B-Preview) |
 | 45.7k | 23 | cpatonn/Qwen3-Next-80B-A3B-Instruct-AWQ-4bitText | Updated5 days ago | [Link](https://huggingface.co/cpatonn/Qwen3-Next-80B-A3B-Instruct-AWQ-4bit) |
 | Updated2 days ago | 23 | NousResearch/NousCoder-14BText | 15B | [Link](https://huggingface.co/NousResearch/NousCoder-14B) |
+| 6.11k | 23 | allenai/Olmo-Hybrid-7BText | Updatedabout 11 hours ago | [Link](https://huggingface.co/allenai/Olmo-Hybrid-7B) |
 | 44 | 22 | deepcogito/cogito-v1-preview-llama-3BText | Updatedabout 12 hours ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-llama-3B) |
 | 10.2k | 22 | bartowski/THUDM_GLM-4-32B-0414-GGUFText | Updated6 days ago | [Link](https://huggingface.co/bartowski/THUDM_GLM-4-32B-0414-GGUF) |
 | 6.82k | 22 | bartowski/deepseek-ai_DeepSeek-R1-0528-Qwen3-8B-GGUFText | Updatedabout 23 hours ago | [Link](https://huggingface.co/bartowski/deepseek-ai_DeepSeek-R1-0528-Qwen3-8B-GGUF) |
@@ -5886,6 +5889,7 @@ Updated on 2026-03-05
 | 18 | 5 | artificialguybr/CINEMATIC-FILMSTILL-REDMOND-FLUXKLEIN9BText-to-Image | Updated5 days ago | [Link](https://huggingface.co/artificialguybr/CINEMATIC-FILMSTILL-REDMOND-FLUXKLEIN9B) |
 | 66 | 5 | Amshaker/Mobile-O-0 | Updated1 day ago | [Link](https://huggingface.co/Amshaker/Mobile-O-0.5B) |
 | 50 | 5 | ostris/sketch_to_image_klein_4bText-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/ostris/sketch_to_image_klein_4b) |
+| 158 | 5 | burnerbaby/hmfemme-realistic-1girl-lora-for-qwenText-to-Image | UpdatedNov 18, 2025 | [Link](https://huggingface.co/burnerbaby/hmfemme-realistic-1girl-lora-for-qwen) |
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 46 | 4 | Sherwinroger002/fashion_mnist_diffusion_class_conditionalText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Sherwinroger002/fashion_mnist_diffusion_class_conditional) |
 | Updatedabout 1 hour ago | 4 | unsloth/Qwen-Image-2512-GGUFText-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-2512-GGUF) |
