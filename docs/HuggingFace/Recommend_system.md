@@ -1934,6 +1934,7 @@ Updated on 2026-03-06
 | 1.69k | 88 | google/gemma-3n-E4B-itImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/google/gemma-3n-E4B-it) |
 | Updated2 days ago | 87 | INSAIT-Institute/MamayLM-Gemma-3-4B-IT-v1 | 4B | [Link](https://huggingface.co/INSAIT-Institute/MamayLM-Gemma-3-4B-IT-v1.0) |
 | Updated2 days ago | 85 | Alibaba-DAMO-Academy/RynnBrain-2BImage-Text-to-Text | 2B | [Link](https://huggingface.co/Alibaba-DAMO-Academy/RynnBrain-2B) |
+| Updatedabout 8 hours ago | 82 | KORMo-VL/KORMo-VLImage-Text-to-Text | 11B | [Link](https://huggingface.co/KORMo-VL/KORMo-VL) |
 | Updated20 days ago | 81.8k | zai-org/GLM-4 | 10B | [Link](https://huggingface.co/zai-org/GLM-4.1V-9B-Thinking) |
 | 10.9k | 80 | ibm-granite/granite-vision-3 | Updatedabout 7 hours ago | [Link](https://huggingface.co/ibm-granite/granite-vision-3.1-2b-preview) |
 | Updated3 days ago | 78 | internlm/Spatial-SSRL-Qwen3VL-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/internlm/Spatial-SSRL-Qwen3VL-4B) |
@@ -5365,6 +5366,7 @@ Updated on 2026-03-06
 | Updatedabout 12 hours ago | 1.24k | LiquidAI/LFM2 | 1B | [Link](https://huggingface.co/LiquidAI/LFM2.5-1.2B-Instruct) |
 | Updated2 days ago | 1.92k | mlx-community/GLM-4 | 30B | [Link](https://huggingface.co/mlx-community/GLM-4.7-Flash-4bit) |
 | Updatedabout 4 hours ago | 1.83k | stepfun-ai/Step-3 | 199B | [Link](https://huggingface.co/stepfun-ai/Step-3.5-Flash) |
+| Updated3 days ago | 1.74k | lukey03/Qwen3 | 9B | [Link](https://huggingface.co/lukey03/Qwen3.5-9B-abliterated) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -6329,6 +6331,7 @@ Updated on 2026-03-06
 | 48 | 4 | onnx-community/Supertonic-TTS-2-ONNXText-to-Speech | Updated7 days ago | [Link](https://huggingface.co/onnx-community/Supertonic-TTS-2-ONNX) |
 | 65 | 4 | Tundragoon/Kokoro-GermanText-to-Speech | Updated10 days ago | [Link](https://huggingface.co/Tundragoon/Kokoro-German) |
 | Updatedabout 16 hours ago | 4 | tsukemono/neuTTS-JP-150mText-to-Speech | 0.2B | [Link](https://huggingface.co/tsukemono/neuTTS-JP-150m) |
+| 58 | 4 | eduardem/xtts-v2-romanianText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/eduardem/xtts-v2-romanian) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 1.22k | 3 | CONCREE/Adia_TTSText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/CONCREE/Adia_TTS) |
