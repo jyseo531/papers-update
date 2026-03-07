@@ -3112,6 +3112,7 @@ Updated on 2026-03-07
 | UpdatedJul 11 | 3.13k | scb10x/typhoon-ocr-3bImage-to-Text | 4B | [Link](https://huggingface.co/scb10x/typhoon-ocr-3b) |
 | 951 | 3 | hezarai/crnn-fa-license-plate-recognition-v2Image-to-Text | UpdatedJun 2 | [Link](https://huggingface.co/hezarai/crnn-fa-license-plate-recognition-v2) |
 | 19 | 3 | HassanB4/Ketab-OCR-LoRAImage-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/HassanB4/Ketab-OCR-LoRA) |
+| Updated15 days ago | 3.02k | noctrex/PaddleOCR-VL-1 | 0.5B | [Link](https://huggingface.co/noctrex/PaddleOCR-VL-1.5-GGUF) |
 | 51 | 2 | microsoft/git-base-msrvtt-qaImage-to-Text | UpdatedApr 4, 2024 | [Link](https://huggingface.co/microsoft/git-base-msrvtt-qa) |
 | 32 | 2 | baseplate/vit-gpt2-image-captioningImage-to-Text | UpdatedApr 5, 2023 | [Link](https://huggingface.co/baseplate/vit-gpt2-image-captioning) |
 | 38 | 2 | sbintuitions/sarashina2-vision-14bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-14b) |
@@ -5915,6 +5916,7 @@ Updated on 2026-03-07
 | UpdatedApr 14, 2024 | 1.81k | UnfilteredAI/NSFW-GEN-ANIMEText-to-Image | 3B | [Link](https://huggingface.co/UnfilteredAI/NSFW-GEN-ANIME) |
 | Updated1 day ago | 1.46k | leejet/Z-Image-Turbo-GGUFText-to-Image | 6B | [Link](https://huggingface.co/leejet/Z-Image-Turbo-GGUF) |
 | Updated3 days ago | 1.78k | unsloth/Z-Image-Turbo-GGUFText-to-Image | 6B | [Link](https://huggingface.co/unsloth/Z-Image-Turbo-GGUF) |
+| 5 | 1.41k | stabilityai/sd-vae-ft-mse-originalText-to-Image | UpdatedDec 19, 2022 | [Link](https://huggingface.co/stabilityai/sd-vae-ft-mse-original) |
 | 1.84M |  | black-forest-labs/FLUX | UpdatedAug 16, 2024 | [Link](https://huggingface.co/black-forest-labs/FLUX.1-dev) |
 | 268k |  | stabilityai/stable-diffusion-3 | UpdatedOct 22, 2024 | [Link](https://huggingface.co/stabilityai/stable-diffusion-3.5-large) |
 | 3.52M |  | stabilityai/stable-diffusion-xl-base-1 | UpdatedOct 30, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) |
