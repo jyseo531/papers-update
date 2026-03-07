@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-06
+Updated on 2026-03-07
 
 > Generated from the Hugging Face database.
 
@@ -286,6 +286,7 @@ Updated on 2026-03-06
 | 3 | Unknown | shayzinasimulation/Red-Angel-SenateAny-to-Any | UpdatedDec 3, 2025 | [Link](https://huggingface.co/shayzinasimulation/Red-Angel-Senate) |
 | 2 | Unknown | mythicgames/MAI-M4-Coder-FastAny-to-Any | Updatedabout 7 hours ago | [Link](https://huggingface.co/mythicgames/MAI-M4-Coder-Fast) |
 | 1 | Unknown | kr-cen/Qwen-Image-MICoAny-to-Any | Updatedabout 15 hours ago | [Link](https://huggingface.co/kr-cen/Qwen-Image-MICo) |
+| 2 | Unknown | Lightricks/LTX-2 | Updatedabout 10 hours ago | [Link](https://huggingface.co/Lightricks/LTX-2.3-22b-IC-LoRA-Union-Control) |
 
 ## Audio Classification
 
@@ -2397,6 +2398,7 @@ Updated on 2026-03-06
 
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
+| Updated3 days ago | 850 | vantagewithai/FireRed-Image-Edit-1 | 20B | [Link](https://huggingface.co/vantagewithai/FireRed-Image-Edit-1.1-GGUF) |
 | Updated2 days ago | 734 | TainU/RePlan-Qwen2 | 8B | [Link](https://huggingface.co/TainU/RePlan-Qwen2.5-VL-7B) |
 | 11.6k | 607 | jasperai/Flux | UpdatedSep 30, 2024 | [Link](https://huggingface.co/jasperai/Flux.1-dev-Controlnet-Upscaler) |
 | 1.52k | 564 | CrucibleAI/ControlNetMediaPipeFaceImage-to-Image | UpdatedMay 19, 2023 | [Link](https://huggingface.co/CrucibleAI/ControlNetMediaPipeFace) |
@@ -4897,6 +4899,7 @@ Updated on 2026-03-06
 | 966 | 82 | ServiceNow-AI/Apriel-Nemotron-15b-ThinkerText | Updatedabout 5 hours ago | [Link](https://huggingface.co/ServiceNow-AI/Apriel-Nemotron-15b-Thinker) |
 | Updated1 day ago | 82 | kakaocorp/kanana-2-30b-a3b-instruct-2601Text | 31B | [Link](https://huggingface.co/kakaocorp/kanana-2-30b-a3b-instruct-2601) |
 | Updatedabout 2 hours ago | 81 | stepfun-ai/step3Text | 321B | [Link](https://huggingface.co/stepfun-ai/step3) |
+| Updatedabout 9 hours ago | 80 | sarvamai/sarvam-105bText | 106B | [Link](https://huggingface.co/sarvamai/sarvam-105b) |
 | Updated2 minutes ago | 79 | Skywork/MindLink-32B-0801Text | 33B | [Link](https://huggingface.co/Skywork/MindLink-32B-0801) |
 | 21.7k | 78 | unsloth/r1-1776-GGUFText | Updated6 days ago | [Link](https://huggingface.co/unsloth/r1-1776-GGUF) |
 | 10 | 78 | JetBrains/Mellum-4b-baseText | Updatedabout 15 hours ago | [Link](https://huggingface.co/JetBrains/Mellum-4b-base) |
@@ -4959,6 +4962,7 @@ Updated on 2026-03-06
 | 22 | 52 | Qwen/Qwen3-0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-0.6B) |
 | 325 | 51 | moonshotai/Moonlight-16B-A3BText | Updated2 days ago | [Link](https://huggingface.co/moonshotai/Moonlight-16B-A3B) |
 | Updatedabout 14 hours ago | 51 | nvidia/OpenReasoning-Nemotron-32BText | 33B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-32B) |
+| Updatedabout 9 hours ago | 51 | sarvamai/sarvam-30bText | 32B | [Link](https://huggingface.co/sarvamai/sarvam-30b) |
 | 1.45k | 50 | ALLaM-AI/ALLaM-7B-Instruct-previewText | Updated8 days ago | [Link](https://huggingface.co/ALLaM-AI/ALLaM-7B-Instruct-preview) |
 | 5 | 50 | microsoft/Phi-4-mini-reasoningText | Updatedabout 11 hours ago | [Link](https://huggingface.co/microsoft/Phi-4-mini-reasoning) |
 | Updated1 day ago | 50 | cerebras/Kimi-Linear-REAP-35B-A3B-InstructText | 35B | [Link](https://huggingface.co/cerebras/Kimi-Linear-REAP-35B-A3B-Instruct) |
