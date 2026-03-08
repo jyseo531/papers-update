@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-07
+Updated on 2026-03-08
 
 > Generated from the Hugging Face database.
 
@@ -4806,6 +4806,7 @@ Updated on 2026-03-07
 | Updatedabout 17 hours ago | 247 | PleIAs/BaguettotronText | 0.3B | [Link](https://huggingface.co/PleIAs/Baguettotron) |
 | UpdatedApr 22 | 246 | inclusionAI/Ling-Coder-liteText | 17B | [Link](https://huggingface.co/inclusionAI/Ling-Coder-lite) |
 | Updated5 days ago | 244 | jet-ai/Jet-Nemotron-4BText | 4B | [Link](https://huggingface.co/jet-ai/Jet-Nemotron-4B) |
+| 8.85k | 235 | microsoft/BioGPT-LargeText | UpdatedFeb 5, 2023 | [Link](https://huggingface.co/microsoft/BioGPT-Large) |
 | Updatedabout 20 hours ago | 234 | radicalnumerics/RND1-Base-0910Text | 31B | [Link](https://huggingface.co/radicalnumerics/RND1-Base-0910) |
 | Updated1 day ago | 234 | p-e-w/gpt-oss-20b-hereticText | 21B | [Link](https://huggingface.co/p-e-w/gpt-oss-20b-heretic) |
 | Updatedabout 10 hours ago | 233 | Qwen/Qwen3-Coder-NextText | 80B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-Next) |
