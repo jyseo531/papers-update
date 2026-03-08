@@ -2009,6 +2009,7 @@ Updated on 2026-03-08
 | UpdatedSep 21, 2024 | 30k | google/paligemma-3b-pt-224Image-Text-to-Text | 3B | [Link](https://huggingface.co/google/paligemma-3b-pt-224) |
 | Updatedabout 7 hours ago | 30 | Qwen/Qwen3-VL-32B-InstructImage-Text-to-Text | 33B | [Link](https://huggingface.co/Qwen/Qwen3-VL-32B-Instruct) |
 | Updatedabout 7 hours ago | 30 | tencent/Youtu-VL-4B-InstructImage-Text-to-Text | 5B | [Link](https://huggingface.co/tencent/Youtu-VL-4B-Instruct) |
+| Updated5 days ago | 30.4k | llmfan46/Qwen3 | 35B | [Link](https://huggingface.co/llmfan46/Qwen3.5-35B-A3B-heretic-v2-GGUF) |
 | 2.75k | 29 | HuggingFaceTB/SmolVLM2-256M-Video-InstructImage-Text-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM2-256M-Video-Instruct) |
 | 2.28k | 29 | unsloth/Llama-4-Scout-17B-16E-InstructImage-Text-to-Text | Updatedabout 12 hours ago | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct) |
 | 41 | 29 | VIDraft/Gemma-3-R1984-4BImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/VIDraft/Gemma-3-R1984-4B) |
@@ -3217,6 +3218,7 @@ Updated on 2026-03-08
 | 2.64k | 1 | PaddlePaddle/eslav_PP-OCRv5_mobile_recImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/eslav_PP-OCRv5_mobile_rec) |
 | 1 | 1 | Kansallisarkisto/court-records-htrImage-to-Text | UpdatedSep 17, 2024 | [Link](https://huggingface.co/Kansallisarkisto/court-records-htr) |
 | 6.68k | 1 | PaddlePaddle/SLANeXt_wiredImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/SLANeXt_wired) |
+| 544 | 1 | AlpachinoNLP/u2Qwen3-1 | UpdatedJan 17 | [Link](https://huggingface.co/AlpachinoNLP/u2Qwen3-1.7B-Instruct) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -6339,6 +6341,7 @@ Updated on 2026-03-08
 | 65 | 4 | Tundragoon/Kokoro-GermanText-to-Speech | Updated10 days ago | [Link](https://huggingface.co/Tundragoon/Kokoro-German) |
 | Updatedabout 16 hours ago | 4 | tsukemono/neuTTS-JP-150mText-to-Speech | 0.2B | [Link](https://huggingface.co/tsukemono/neuTTS-JP-150m) |
 | 58 | 4 | eduardem/xtts-v2-romanianText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/eduardem/xtts-v2-romanian) |
+| 60 | 4 | oddadmix/lahgtna-chatterbox-v0Text-to-Speech | Updatedabout 22 hours ago | [Link](https://huggingface.co/oddadmix/lahgtna-chatterbox-v0) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 1.22k | 3 | CONCREE/Adia_TTSText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/CONCREE/Adia_TTS) |
