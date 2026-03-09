@@ -3287,6 +3287,7 @@ Updated on 2026-03-09
 | 4 | Unknown | unsloth/GLM-OCRImage-to-Text | Updatedabout 12 hours ago | [Link](https://huggingface.co/unsloth/GLM-OCR) |
 | 2 | Unknown | MadShift/SovaImage-to-Text | UpdatedOct 29, 2024 | [Link](https://huggingface.co/MadShift/Sova) |
 | 1 | Unknown | Amirhossein75/VLM-Image-CaptioningImage-to-Text | UpdatedSep 1, 2025 | [Link](https://huggingface.co/Amirhossein75/VLM-Image-Captioning) |
+| 1 | Unknown | aoiandroid/glm-ocr-onnxImage-to-Text | Updated24 days ago | [Link](https://huggingface.co/aoiandroid/glm-ocr-onnx) |
 
 ## Image-to-Video
 
@@ -5772,6 +5773,7 @@ Updated on 2026-03-09
 | Updatedabout 14 hours ago | 22 | purplesmartai/pony-v7-baseText-to-Image | 7B | [Link](https://huggingface.co/purplesmartai/pony-v7-base) |
 | 5.26k | 20 | mit-han-lab/svdq-int4-flux | Updated22 days ago | [Link](https://huggingface.co/mit-han-lab/svdq-int4-flux.1-dev) |
 | 2 | 20 | HiDream-ai/HiDream-I1-FullText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/HiDream-ai/HiDream-I1-Full) |
+| 8.81k | 20 | sd2-community/stable-diffusion-2-1Text-to-Image | UpdatedNov 15, 2025 | [Link](https://huggingface.co/sd2-community/stable-diffusion-2-1) |
 | 182 | 19 | GuangyuanSD/Z-Image-DistilledText-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/GuangyuanSD/Z-Image-Distilled) |
 |  | 18 | multimodalart/isometric-skeumorphic-3d-bnbText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/multimodalart/isometric-skeumorphic-3d-bnb) |
 | Updatedabout 3 hours ago | 18 | jayn7/Z-Image-Turbo-GGUFText-to-Image | 6B | [Link](https://huggingface.co/jayn7/Z-Image-Turbo-GGUF) |
@@ -5902,6 +5904,7 @@ Updated on 2026-03-09
 | 66 | 5 | Amshaker/Mobile-O-0 | Updated1 day ago | [Link](https://huggingface.co/Amshaker/Mobile-O-0.5B) |
 | 50 | 5 | ostris/sketch_to_image_klein_4bText-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/ostris/sketch_to_image_klein_4b) |
 | 158 | 5 | burnerbaby/hmfemme-realistic-1girl-lora-for-qwenText-to-Image | UpdatedNov 18, 2025 | [Link](https://huggingface.co/burnerbaby/hmfemme-realistic-1girl-lora-for-qwen) |
+| 9 | 5 | Poralus/Poralus-Image-1357Text-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/Poralus/Poralus-Image-1357) |
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 46 | 4 | Sherwinroger002/fashion_mnist_diffusion_class_conditionalText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Sherwinroger002/fashion_mnist_diffusion_class_conditional) |
 | Updatedabout 1 hour ago | 4 | unsloth/Qwen-Image-2512-GGUFText-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-2512-GGUF) |
