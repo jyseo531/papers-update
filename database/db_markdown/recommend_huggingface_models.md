@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-08
+Updated on 2026-03-09
 
 > Generated from the Hugging Face database.
 
@@ -3219,6 +3219,7 @@ Updated on 2026-03-08
 | 1 | 1 | Kansallisarkisto/court-records-htrImage-to-Text | UpdatedSep 17, 2024 | [Link](https://huggingface.co/Kansallisarkisto/court-records-htr) |
 | 6.68k | 1 | PaddlePaddle/SLANeXt_wiredImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/SLANeXt_wired) |
 | 544 | 1 | AlpachinoNLP/u2Qwen3-1 | UpdatedJan 17 | [Link](https://huggingface.co/AlpachinoNLP/u2Qwen3-1.7B-Instruct) |
+| 29 | 1 | PaddlePaddle/UniMERNetImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/UniMERNet) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -4859,6 +4860,7 @@ Updated on 2026-03-08
 | Updated1 day ago | 119 | LiquidAI/LFM2-350M-ExtractText | 0.4B | [Link](https://huggingface.co/LiquidAI/LFM2-350M-Extract) |
 | Updated7 days ago | 119 | gustavecortal/Beck-8BText | 8B | [Link](https://huggingface.co/gustavecortal/Beck-8B) |
 | UpdatedJan 5 | 118 | Fortytwo-Network/Strand-Rust-Coder-14B-v1Text | 15B | [Link](https://huggingface.co/Fortytwo-Network/Strand-Rust-Coder-14B-v1) |
+| Updatedabout 4 hours ago | 116 | tencent/Penguin-VL-8BText | 9B | [Link](https://huggingface.co/tencent/Penguin-VL-8B) |
 | Updatedabout 11 hours ago | 115 | mistralai/Devstral-Small-2507Text | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2507) |
 | Updated1 day ago | 113 | mlx-community/VibeThinker-1 | 0.2B | [Link](https://huggingface.co/mlx-community/VibeThinker-1.5B-mlx-4bit) |
 | Updatedabout 10 hours ago | 112 | nvidia/Qwen3-Nemotron-32B-RLBFFText | 33B | [Link](https://huggingface.co/nvidia/Qwen3-Nemotron-32B-RLBFF) |
