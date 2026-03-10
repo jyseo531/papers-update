@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-09
+Updated on 2026-03-10
 
 > Generated from the Hugging Face database.
 
@@ -2244,6 +2244,7 @@ Updated on 2026-03-09
 | Updated10 days ago | 2.22k | ZJU-AI4H/Hulu-Med-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/ZJU-AI4H/Hulu-Med-4B) |
 | UpdatedApr 15, 2025 | 2.7k | google/gemma-3-12b-it-qat-q4_0-unquantizedImage-Text-to-Text | 12B | [Link](https://huggingface.co/google/gemma-3-12b-it-qat-q4_0-unquantized) |
 | Updated5 days ago | 2.11k | NikolayKozloff/translategemma-4b-it-Q8_0-GGUFImage-Text-to-Text | 4B | [Link](https://huggingface.co/NikolayKozloff/translategemma-4b-it-Q8_0-GGUF) |
+| Updated5 days ago | 2.36k | DavidAU/Qwen3 | 9B | [Link](https://huggingface.co/DavidAU/Qwen3.5-9B-Claude-4.6-HighIQ-THINKING-HERETIC-UNCENSORED) |
 | 2.72k | 1.62k | microsoft/OmniParserImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/microsoft/OmniParser) |
 | 100k | 1.4k | stepfun-ai/GOT-OCR2_0Image-Text-to-Text | Updated21 days ago | [Link](https://huggingface.co/stepfun-ai/GOT-OCR2_0) |
 | 1.78M | 1.42k | microsoft/Florence-2-largeImage-Text-to-Text | UpdatedDec 8, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-large) |
@@ -2847,6 +2848,7 @@ Updated on 2026-03-09
 | UpdatedSep 28 | 436 | mradermacher/dunhuang-qwen2 | 8B | [Link](https://huggingface.co/mradermacher/dunhuang-qwen2.5-vl-7b-GGUF) |
 | UpdatedNov 28, 2024 | 429 | MohamedRashad/arabic-small-nougatImage-to-Text | 0.2B | [Link](https://huggingface.co/MohamedRashad/arabic-small-nougat) |
 | Updated9 days ago | 424 | InternScience/StructTable-InternVL2-1BImage-to-Text | 0.9B | [Link](https://huggingface.co/InternScience/StructTable-InternVL2-1B) |
+| UpdatedJan 29 | 335 | StanfordAIMI/CheXagent-2-3b-srrg-findingsImage-to-Text | 3B | [Link](https://huggingface.co/StanfordAIMI/CheXagent-2-3b-srrg-findings) |
 | UpdatedJul 18 | 323 | loay/ArabicOCR-Qwen2 | 8B | [Link](https://huggingface.co/loay/ArabicOCR-Qwen2.5-VL-7B-Vision) |
 | Updatedabout 1 month ago | 274 | ZihCiLin/trocr-traditional-chinese-baselineImage-to-Text | 0.3B | [Link](https://huggingface.co/ZihCiLin/trocr-traditional-chinese-baseline) |
 | UpdatedNov 15, 2024 | 242 | TIGER-Lab/Mantis-8B-Idefics2Image-to-Text | 8B | [Link](https://huggingface.co/TIGER-Lab/Mantis-8B-Idefics2) |
@@ -2982,6 +2984,7 @@ Updated on 2026-03-09
 | UpdatedSep 20, 2024 | 16 | xeko56/simple-html-generator-tokensImage-to-Text | 0.2B | [Link](https://huggingface.co/xeko56/simple-html-generator-tokens) |
 | UpdatedOct 31, 2024 | 16.1k | royokong/e5-vImage-to-Text | 8B | [Link](https://huggingface.co/royokong/e5-v) |
 | Updatedabout 19 hours ago | 16 | principled-intelligence/scope-guard-4B-g-2601Image-to-Text | 4B | [Link](https://huggingface.co/principled-intelligence/scope-guard-4B-g-2601) |
+| Updated5 days ago | 16 | WARAJA/Tzefa-Word-OCR-TrOCRImage-to-Text | 61.6M | [Link](https://huggingface.co/WARAJA/Tzefa-Word-OCR-TrOCR) |
 | 225 | 15 | DunnBC22/trocr-base-handwritten-OCR-handwriting_recognition_v2Image-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-base-handwritten-OCR-handwriting_recognition_v2) |
 | 1.31k | 15 | microsoft/git-largeImage-to-Text | UpdatedFeb 8, 2023 | [Link](https://huggingface.co/microsoft/git-large) |
 | 11.5k | 15 | Salesforce/blip2-flan-t5-xl-cocoImage-to-Text | UpdatedFeb 3 | [Link](https://huggingface.co/Salesforce/blip2-flan-t5-xl-coco) |
@@ -3220,6 +3223,7 @@ Updated on 2026-03-09
 | 6.68k | 1 | PaddlePaddle/SLANeXt_wiredImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/SLANeXt_wired) |
 | 544 | 1 | AlpachinoNLP/u2Qwen3-1 | UpdatedJan 17 | [Link](https://huggingface.co/AlpachinoNLP/u2Qwen3-1.7B-Instruct) |
 | 29 | 1 | PaddlePaddle/UniMERNetImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/UniMERNet) |
+| 356 | 1 | iordanissap/handwritten-greek-ocrImage-to-Text | Updated5 days ago | [Link](https://huggingface.co/iordanissap/handwritten-greek-ocr) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -4900,6 +4904,7 @@ Updated on 2026-03-09
 | 3.93k | 86 | PocketDoc/Dans-PersonalityEngine-V1 | Updated24 days ago | [Link](https://huggingface.co/PocketDoc/Dans-PersonalityEngine-V1.2.0-24b) |
 | Updatedabout 18 hours ago | 86 | Tesslate/WEBGEN-OSS-20BText | 21B | [Link](https://huggingface.co/Tesslate/WEBGEN-OSS-20B) |
 | Updated6 days ago | 85 | AI-MO/Kimina-Prover-72BText | 73B | [Link](https://huggingface.co/AI-MO/Kimina-Prover-72B) |
+| Updatedabout 19 hours ago | 85 | tencent/Penguin-VL-2BText | 2B | [Link](https://huggingface.co/tencent/Penguin-VL-2B) |
 | Updatedabout 3 hours ago | 83 | jxm/gpt-oss-20b-baseText | 21B | [Link](https://huggingface.co/jxm/gpt-oss-20b-base) |
 | Updatedabout 2 hours ago | 83 | WeiboAI/VibeThinker-1 | 2B | [Link](https://huggingface.co/WeiboAI/VibeThinker-1.5B) |
 | Updated36 minutes ago | 83 | naver-hyperclovax/HyperCLOVAX-SEED-Think-32BText | 33B | [Link](https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Think-32B) |
