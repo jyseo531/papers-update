@@ -10,6 +10,7 @@ Updated on 2026-03-10
 | 617k | 999 | openbmb/MiniCPM-o-2_6Any-to-Any | Updated5 days ago | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6) |
 | UpdatedSep 28, 2025 | 832 | cyankiwi/Qwen3-Omni-30B-A3B-Thinking-AWQ-4bitAny-to-Any | 6B | [Link](https://huggingface.co/cyankiwi/Qwen3-Omni-30B-A3B-Thinking-AWQ-4bit) |
 | UpdatedJun 9 | 806 | RedHatAI/gemma-3-4b-it-quantized | 2B | [Link](https://huggingface.co/RedHatAI/gemma-3-4b-it-quantized.w4a16) |
+| Updated9 minutes ago | 806 | snu-aidas/Dynin-OmniAny-to-Any | 8B | [Link](https://huggingface.co/snu-aidas/Dynin-Omni) |
 | Updated6 days ago | 798 | modelscope/Nexus-GenAny-to-Any | 8B | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | UpdatedApr 9, 2025 | 728 | meta-llama/Llama-4-Maverick-17B-128EAny-to-Any | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E) |
 | Updatedabout 1 hour ago | 718 | XiaomiMiMo/MiMo-Audio-7B-InstructAny-to-Any | 8B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-Audio-7B-Instruct) |
@@ -3171,6 +3172,7 @@ Updated on 2026-03-10
 | 34.4k | 2 | PaddlePaddle/latin_PP-OCRv5_mobile_recImage-to-Text | UpdatedOct 16, 2025 | [Link](https://huggingface.co/PaddlePaddle/latin_PP-OCRv5_mobile_rec) |
 | 629 | 2 | agomberto/trocr-large-handwritten-frImage-to-Text | UpdatedJul 20, 2023 | [Link](https://huggingface.co/agomberto/trocr-large-handwritten-fr) |
 | 27 | 2 | UBC-NLP/PeacockImage-to-Text | UpdatedNov 25, 2024 | [Link](https://huggingface.co/UBC-NLP/Peacock) |
+| UpdatedJun 22, 2024 | 2 | mzbac/nougat-base-8bit-mlxImage-to-Text | 0.1B | [Link](https://huggingface.co/mzbac/nougat-base-8bit-mlx) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -6306,6 +6308,7 @@ Updated on 2026-03-10
 | 12 | 7 | AhmedEladl/saudi-ttsText-to-Speech | Updated7 days ago | [Link](https://huggingface.co/AhmedEladl/saudi-tts) |
 | Updated1 day ago | 7 | nineninesix/kani-tts-370mText-to-Speech | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-370m) |
 | 10 | 7 | tarun7r/vibevoice-hindi-loraText-to-Speech | UpdatedNov 1, 2025 | [Link](https://huggingface.co/tarun7r/vibevoice-hindi-lora) |
+| Updatedabout 9 hours ago | 7 | fishaudio/s2-proText-to-Speech | 5B | [Link](https://huggingface.co/fishaudio/s2-pro) |
 | 13 | 6 | ntdgo/ttsviText-to-Speech | UpdatedApr 17, 2024 | [Link](https://huggingface.co/ntdgo/ttsvi) |
 | 29 | 6 | erax-ai/EraX-Smile-UnixSex-F5Text-to-Speech | Updatedabout 8 hours ago | [Link](https://huggingface.co/erax-ai/EraX-Smile-UnixSex-F5) |
 | 29 | 6 | ICTNLP/SLED-TTS-Streaming-LibriheavyText-to-Speech | Updatedabout 18 hours ago | [Link](https://huggingface.co/ICTNLP/SLED-TTS-Streaming-Libriheavy) |
@@ -6784,6 +6787,7 @@ Updated on 2026-03-10
 | 3 | Unknown | kairos-agi/kairos-sensenova-commonText-to-Video | Updatedabout 7 hours ago | [Link](https://huggingface.co/kairos-agi/kairos-sensenova-common) |
 | 1 | Unknown | iedavidcastilloX/Candy_AIText-to-Video | UpdatedFeb 15, 2025 | [Link](https://huggingface.co/iedavidcastilloX/Candy_AI) |
 | 2 | Unknown | BestWishYsh/HeliosBench-WeightsText-to-Video | Updatedabout 17 hours ago | [Link](https://huggingface.co/BestWishYsh/HeliosBench-Weights) |
+| 2 | Unknown | jackyhate/HiARText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/jackyhate/HiAR) |
 
 ## Text2Text Generation
 
