@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-10
+Updated on 2026-03-11
 
 > Generated from the Hugging Face database.
 
@@ -1895,6 +1895,7 @@ Updated on 2026-03-10
 | 7.06k | 180 | meta-llama/Llama-4-Scout-17B-16E-InstructImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct) |
 | Updated2 days ago | 180 | trillionlabs/gWorld-32BImage-Text-to-Text | 33B | [Link](https://huggingface.co/trillionlabs/gWorld-32B) |
 | Updatedabout 12 hours ago | 176 | huihui-ai/Huihui-Step3-VL-10B-abliteratedImage-Text-to-Text | 10B | [Link](https://huggingface.co/huihui-ai/Huihui-Step3-VL-10B-abliterated) |
+| Updated3 days ago | 176 | z-lab/Qwen3 | 3B | [Link](https://huggingface.co/z-lab/Qwen3.5-9B-PARO) |
 | Updated5 days ago | 175 | DavidAU/gemma-3-12b-it-vl-GLM-4 | 12B | [Link](https://huggingface.co/DavidAU/gemma-3-12b-it-vl-GLM-4.7-Flash-Heretic-Uncensored-Thinking) |
 | Updated19 days ago | 174 | GitMylo/nsfwvision-qwen3-vl-8b-v3-safetensorsImage-Text-to-Text | 9B | [Link](https://huggingface.co/GitMylo/nsfwvision-qwen3-vl-8b-v3-safetensors) |
 | Updatedabout 7 hours ago | 171 | OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-PreviewImage-Text-to-Text | 0.4B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-Preview) |
@@ -2038,6 +2039,7 @@ Updated on 2026-03-10
 | Updatedabout 4 hours ago | 24 | Hcompany/Holo1 | 8B | [Link](https://huggingface.co/Hcompany/Holo1.5-7B) |
 | Updatedabout 4 hours ago | 23 | openbmb/MiniCPM-V-4_5Image-Text-to-Text | 9B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4_5) |
 | Updatedabout 10 hours ago | 23 | internlm/JanusCoderV-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/internlm/JanusCoderV-7B) |
+| Updatedabout 5 hours ago | 23 | HauhauCS/Qwen3 | 35B | [Link](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive) |
 | 27 | 22 | ByteDance-Seed/UI-TARS-1 | Updated14 minutes ago | [Link](https://huggingface.co/ByteDance-Seed/UI-TARS-1.5-7B) |
 | Updatedabout 8 hours ago | 22 | Qwen/Qwen3-VL-32B-ThinkingImage-Text-to-Text | 33B | [Link](https://huggingface.co/Qwen/Qwen3-VL-32B-Thinking) |
 | 9 | 21 | Skywork/Skywork-R1V-38BImage-Text-to-Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/Skywork/Skywork-R1V-38B) |
@@ -3226,6 +3228,7 @@ Updated on 2026-03-10
 | 544 | 1 | AlpachinoNLP/u2Qwen3-1 | UpdatedJan 17 | [Link](https://huggingface.co/AlpachinoNLP/u2Qwen3-1.7B-Instruct) |
 | 29 | 1 | PaddlePaddle/UniMERNetImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/UniMERNet) |
 | 356 | 1 | iordanissap/handwritten-greek-ocrImage-to-Text | Updated5 days ago | [Link](https://huggingface.co/iordanissap/handwritten-greek-ocr) |
+| 24 | 1 | Ligul/capriImage-to-Text | Updatedabout 23 hours ago | [Link](https://huggingface.co/Ligul/capri) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -6147,6 +6150,7 @@ Updated on 2026-03-10
 | 155k | 733 | microsoft/speecht5_ttsText-to-Speech | UpdatedNov 8, 2023 | [Link](https://huggingface.co/microsoft/speecht5_tts) |
 | Updatedabout 4 hours ago | 695 | nineninesix/kani-tts-370m-MLXText-to-Speech | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-370m-MLX) |
 | Updated9 days ago | 679 | snorbyte/snorTTS-Indic-v0Text-to-Speech | 4B | [Link](https://huggingface.co/snorbyte/snorTTS-Indic-v0) |
+| Updatedabout 11 hours ago | 668 | HumeAI/tada-3b-mlText-to-Speech | 4B | [Link](https://huggingface.co/HumeAI/tada-3b-ml) |
 | Updated1 day ago | 646 | nineninesix/kani-tts-400m-0 | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-400m-0.3-pt) |
 | Updatedabout 4 hours ago | 607 | neuphonic/neutts-nano-q4-ggufText-to-Speech | 0.3B | [Link](https://huggingface.co/neuphonic/neutts-nano-q4-gguf) |
 | 18.5k | 603 | IndexTeam/IndexTTS-2Text-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/IndexTeam/IndexTTS-2) |
@@ -6398,6 +6402,7 @@ Updated on 2026-03-10
 | Updated7 days ago | 2.45k | prithivMLmods/VyvoTTS-v0-Qwen3-0 | 0.6B | [Link](https://huggingface.co/prithivMLmods/VyvoTTS-v0-Qwen3-0.6B-GGUF) |
 | Updated16 minutes ago | 2 | amphion/TaDiCodec-TTS-AR-Qwen2 | 0.5B | [Link](https://huggingface.co/amphion/TaDiCodec-TTS-AR-Qwen2.5-0.5B) |
 | Updated1 day ago | 2 | Aratako/MioTTS-2 | 3B | [Link](https://huggingface.co/Aratako/MioTTS-2.6B) |
+| Updatedabout 2 hours ago | 2.24k | HumeAI/tada-1bText-to-Speech | 2B | [Link](https://huggingface.co/HumeAI/tada-1b) |
 | UpdatedSep 1, 2023 | 1.78k | facebook/mms-tts-turText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-tur) |
 | UpdatedSep 1, 2023 | 1.05k | facebook/mms-tts-porText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-por) |
 | Updated16 days ago | 1.21k | Mungert/orpheus-3b-0 | 4B | [Link](https://huggingface.co/Mungert/orpheus-3b-0.1-ft-GGUF) |
@@ -6501,6 +6506,7 @@ Updated on 2026-03-10
 | 4 | Unknown | elbruno/Qwen3-TTS-12Hz-0 | Updated5 days ago | [Link](https://huggingface.co/elbruno/Qwen3-TTS-12Hz-0.6B-Base-ONNX) |
 | 5 | Unknown | uzlm/sayro-tts-1 | Updatedabout 7 hours ago | [Link](https://huggingface.co/uzlm/sayro-tts-1.7B) |
 | 4 | Unknown | PatnaikAshish/kokocloneText-to-Speech | Updatedabout 5 hours ago | [Link](https://huggingface.co/PatnaikAshish/kokoclone) |
+| 8 | Unknown | HumeAI/tada-codecText-to-Speech | Updatedabout 2 hours ago | [Link](https://huggingface.co/HumeAI/tada-codec) |
 
 ## Text-to-Video
 
