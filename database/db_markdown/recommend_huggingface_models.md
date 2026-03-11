@@ -3297,6 +3297,7 @@ Updated on 2026-03-11
 | 2 | Unknown | MadShift/SovaImage-to-Text | UpdatedOct 29, 2024 | [Link](https://huggingface.co/MadShift/Sova) |
 | 1 | Unknown | Amirhossein75/VLM-Image-CaptioningImage-to-Text | UpdatedSep 1, 2025 | [Link](https://huggingface.co/Amirhossein75/VLM-Image-Captioning) |
 | 1 | Unknown | aoiandroid/glm-ocr-onnxImage-to-Text | Updated24 days ago | [Link](https://huggingface.co/aoiandroid/glm-ocr-onnx) |
+| 2 | Unknown | DAIR-Group/HTR-ConvTextImage-to-Text | UpdatedDec 17, 2025 | [Link](https://huggingface.co/DAIR-Group/HTR-ConvText) |
 
 ## Image-to-Video
 
@@ -5186,6 +5187,7 @@ Updated on 2026-03-11
 | 45.7k | 23 | cpatonn/Qwen3-Next-80B-A3B-Instruct-AWQ-4bitText | Updated5 days ago | [Link](https://huggingface.co/cpatonn/Qwen3-Next-80B-A3B-Instruct-AWQ-4bit) |
 | Updated2 days ago | 23 | NousResearch/NousCoder-14BText | 15B | [Link](https://huggingface.co/NousResearch/NousCoder-14B) |
 | 6.11k | 23 | allenai/Olmo-Hybrid-7BText | Updatedabout 11 hours ago | [Link](https://huggingface.co/allenai/Olmo-Hybrid-7B) |
+| Updatedabout 3 hours ago | 23 | miromind-ai/MiroThinker-1 | 235B | [Link](https://huggingface.co/miromind-ai/MiroThinker-1.7) |
 | 44 | 22 | deepcogito/cogito-v1-preview-llama-3BText | Updatedabout 12 hours ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-llama-3B) |
 | 10.2k | 22 | bartowski/THUDM_GLM-4-32B-0414-GGUFText | Updated6 days ago | [Link](https://huggingface.co/bartowski/THUDM_GLM-4-32B-0414-GGUF) |
 | 6.82k | 22 | bartowski/deepseek-ai_DeepSeek-R1-0528-Qwen3-8B-GGUFText | Updatedabout 23 hours ago | [Link](https://huggingface.co/bartowski/deepseek-ai_DeepSeek-R1-0528-Qwen3-8B-GGUF) |
