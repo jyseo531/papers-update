@@ -41,6 +41,7 @@ Updated on 2026-03-12
 | 1.68k | 208 | BAAI/Emu3-GenAny-to-Any | UpdatedOct 23, 2024 | [Link](https://huggingface.co/BAAI/Emu3-Gen) |
 | UpdatedApr 9 | 203 | Tesslate/Synthia-S1-27bAny-to-Any | 27B | [Link](https://huggingface.co/Tesslate/Synthia-S1-27b) |
 | Updated16 days ago | 193 | OddTheGreat/Mars_27B_V | 29B | [Link](https://huggingface.co/OddTheGreat/Mars_27B_V.1) |
+| Updatedabout 8 hours ago | 191 | lijiang/Omni-DiffusionAny-to-Any | 8B | [Link](https://huggingface.co/lijiang/Omni-Diffusion) |
 | Updated12 days ago | 166 | Saktsant/Qwen3-Omni-30B-A3B-Instruct-AWQAny-to-Any | 10B | [Link](https://huggingface.co/Saktsant/Qwen3-Omni-30B-A3B-Instruct-AWQ) |
 | UpdatedDec 24, 2025 | 166 | mlx-community/Qwen3-Omni-30B-A3B-Instruct-8bitAny-to-Any | 11B | [Link](https://huggingface.co/mlx-community/Qwen3-Omni-30B-A3B-Instruct-8bit) |
 | UpdatedOct 23, 2024 | 153 | BAAI/Emu3-Stage1Any-to-Any | 8B | [Link](https://huggingface.co/BAAI/Emu3-Stage1) |
@@ -4813,6 +4814,7 @@ Updated on 2026-03-12
 | Updated2 days ago | 266 | FutureMa/Qwen3-8B-Drama-ThinkingText | 308k | [Link](https://huggingface.co/FutureMa/Qwen3-8B-Drama-Thinking) |
 | Updated5 days ago | 264 | arcee-ai/Trinity-Nano-BaseText | 6B | [Link](https://huggingface.co/arcee-ai/Trinity-Nano-Base) |
 | 6.51k | 262 | NousResearch/DeepHermes-3-Llama-3-8B-PreviewText | Updated6 days ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview) |
+| Updated2 days ago | 262 | 1Covenant/Covenant-72BText | 73B | [Link](https://huggingface.co/1Covenant/Covenant-72B) |
 | Updated1 day ago | 260 | Jackrong/Qwen3 | 28B | [Link](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled) |
 | Updatedabout 22 hours ago | 256 | NC-AI-consortium-VAETKI/VAETKIText | 112B | [Link](https://huggingface.co/NC-AI-consortium-VAETKI/VAETKI) |
 | Updatedabout 2 hours ago | 255 | agentica-org/DeepSWE-PreviewText | 33B | [Link](https://huggingface.co/agentica-org/DeepSWE-Preview) |
@@ -5268,6 +5270,7 @@ Updated on 2026-03-12
 | Updatedabout 22 hours ago | 16k | QuantTrio/Qwen3-VL-30B-A3B-Instruct-AWQText | 31B | [Link](https://huggingface.co/QuantTrio/Qwen3-VL-30B-A3B-Instruct-AWQ) |
 | Updatedabout 15 hours ago | 16 | aquif-ai/aquif-3 | 42B | [Link](https://huggingface.co/aquif-ai/aquif-3.5-Max-42B-A3B) |
 | Updatedabout 19 hours ago | 16 | Alibaba-Apsara/DASD-30B-A3B-Thinking-PreviewText | 31B | [Link](https://huggingface.co/Alibaba-Apsara/DASD-30B-A3B-Thinking-Preview) |
+| Updatedabout 16 hours ago | 16.6k | unsloth/NVIDIA-Nemotron-3-Super-120B-A12B-GGUFText | 121B | [Link](https://huggingface.co/unsloth/NVIDIA-Nemotron-3-Super-120B-A12B-GGUF) |
 | 60 | 15 | Zhihu-ai/Zhi-writing-dsr1-14bText | Updated3 days ago | [Link](https://huggingface.co/Zhihu-ai/Zhi-writing-dsr1-14b) |
 | 72 | 15 | DMindAI/DMind-1Text | Updatedabout 23 hours ago | [Link](https://huggingface.co/DMindAI/DMind-1) |
 | 23 | 15 | sarvamai/sarvam-mText | Updatedabout 2 hours ago | [Link](https://huggingface.co/sarvamai/sarvam-m) |
@@ -6145,6 +6148,7 @@ Updated on 2026-03-12
 | 8 | Unknown | RamonGuthrie/z_image_base-nvfp8-mixedText-to-Image | Updated3 days ago | [Link](https://huggingface.co/RamonGuthrie/z_image_base-nvfp8-mixed) |
 | 534 |  | ReCodePlus/Smnth_v1_NSFW1Text-to-Image | Updated18 days ago | [Link](https://huggingface.co/ReCodePlus/Smnth_v1_NSFW1) |
 | 4 | Unknown | alfredplpl/z-image-modern-anime-loraText-to-Image | Updated7 days ago | [Link](https://huggingface.co/alfredplpl/z-image-modern-anime-lora) |
+| 4 | Unknown | F16/z-image-turbo-sdaText-to-Image | Updatedabout 17 hours ago | [Link](https://huggingface.co/F16/z-image-turbo-sda) |
 
 ## Text-to-Speech
 
