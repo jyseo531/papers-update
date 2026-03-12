@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-11
+Updated on 2026-03-12
 
 > Generated from the Hugging Face database.
 
@@ -2058,6 +2058,7 @@ Updated on 2026-03-11
 | Updatedabout 2 hours ago | 19 | unsloth/Kimi-K2 | 1T | [Link](https://huggingface.co/unsloth/Kimi-K2.5-GGUF) |
 | 9 | 18 | nvidia/DAM-3BImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/DAM-3B) |
 | Updatedabout 6 hours ago | 18 | jzhang533/PaddleOCR-VL-For-MangaImage-Text-to-Text | 1.0B | [Link](https://huggingface.co/jzhang533/PaddleOCR-VL-For-Manga) |
+| Updatedabout 10 hours ago | 18 | RekaAI/reka-edge-2603Image-Text-to-Text | 7B | [Link](https://huggingface.co/RekaAI/reka-edge-2603) |
 | 1.49k | 17 | google/paligemma2-3b-mix-224Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-3b-mix-224) |
 | 247 | 17 | ds4sd/SmolDocling-256M-previewImage-Text-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/ds4sd/SmolDocling-256M-preview) |
 | 31 | 17 | burtenshaw/GemmaCoder3-12BImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/burtenshaw/GemmaCoder3-12B) |
@@ -5196,6 +5197,7 @@ Updated on 2026-03-11
 | Updatedabout 12 hours ago | 22 | Qwen/Qwen3-Coder-Next-FP8Text | 80B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-Next-FP8) |
 | Updatedabout 23 hours ago | 22 | Qwen/Qwen3-Coder-Next-BaseText | 80B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-Next-Base) |
 | Updated26 days ago | 22.1k | BennyDaBall/Qwen3-4b-Z-Image-Engineer-V4Text | 4B | [Link](https://huggingface.co/BennyDaBall/Qwen3-4b-Z-Image-Engineer-V4) |
+| Updatedabout 10 hours ago | 22 | nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16Text | 124B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16) |
 | 34 | 21 | ai21labs/AI21-Jamba-Mini-1 | Updatedabout 13 hours ago | [Link](https://huggingface.co/ai21labs/AI21-Jamba-Mini-1.6) |
 | 7.93k | 21 | lmstudio-community/Llama-4-Scout-17B-16E-Instruct-GGUFText | Updated1 day ago | [Link](https://huggingface.co/lmstudio-community/Llama-4-Scout-17B-16E-Instruct-GGUF) |
 | 275 | 21 | ServiceNow-AI/Apriel-5B-InstructText | Updated3 days ago | [Link](https://huggingface.co/ServiceNow-AI/Apriel-5B-Instruct) |
@@ -5300,6 +5302,7 @@ Updated on 2026-03-11
 | Updated1 day ago | 8 | nvidia/Nemotron-Cascade-8BText | 8B | [Link](https://huggingface.co/nvidia/Nemotron-Cascade-8B) |
 | Updated1 day ago | 8.42k | GadflyII/GLM-4 | 18B | [Link](https://huggingface.co/GadflyII/GLM-4.7-Flash-NVFP4) |
 | Updated3 days ago | 8.66k | unsloth/Qwen3-Coder-Next-FP8-DynamicText | 80B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-Next-FP8-Dynamic) |
+| Updatedabout 10 hours ago | 8 | nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8Text | 124B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8) |
 | Updated2 days ago | 7.65k | Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8) |
 | Updatedabout 4 hours ago | 7 | tencent/Hunyuan-7B-InstructText | 8B | [Link](https://huggingface.co/tencent/Hunyuan-7B-Instruct) |
 | Updated4 days ago | 7k | bartowski/cerebras_GLM-4 | 85B | [Link](https://huggingface.co/bartowski/cerebras_GLM-4.5-Air-REAP-82B-A12B-GGUF) |
@@ -5316,6 +5319,7 @@ Updated on 2026-03-11
 | Updatedabout 4 hours ago | 6.23k | nn-tech/MetalGPT-1Text | 33B | [Link](https://huggingface.co/nn-tech/MetalGPT-1) |
 | Updated4 days ago | 6.7k | byteshape/Qwen3-30B-A3B-Instruct-2507-GGUFText | 31B | [Link](https://huggingface.co/byteshape/Qwen3-30B-A3B-Instruct-2507-GGUF) |
 | Updated6 days ago | 6.21k | byteshape/Qwen3-Coder-30B-A3B-Instruct-GGUFText | 31B | [Link](https://huggingface.co/byteshape/Qwen3-Coder-30B-A3B-Instruct-GGUF) |
+| Updatedabout 11 hours ago | 6 | nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4Text | 67B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4) |
 | Updated28 minutes ago | 5 | unsloth/Kimi-K2-Instruct-GGUFText | 1026B | [Link](https://huggingface.co/unsloth/Kimi-K2-Instruct-GGUF) |
 | Updatedabout 4 hours ago | 5 | tencent/Hunyuan-1 | 2B | [Link](https://huggingface.co/tencent/Hunyuan-1.8B-Instruct) |
 | Updatedabout 6 hours ago | 5.68k | deepseek-ai/DeepSeek-V3 | 685B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3.1-Base) |
@@ -5920,6 +5924,7 @@ Updated on 2026-03-11
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 46 | 4 | Sherwinroger002/fashion_mnist_diffusion_class_conditionalText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Sherwinroger002/fashion_mnist_diffusion_class_conditional) |
 | Updatedabout 1 hour ago | 4 | unsloth/Qwen-Image-2512-GGUFText-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-2512-GGUF) |
+| 634 | 4 | profpeng/blinkdoublepenetrationText-to-Image | Updated5 days ago | [Link](https://huggingface.co/profpeng/blinkdoublepenetration) |
 | 2.56k | 3.84k | WarriorMama777/OrangeMixsText-to-Image | UpdatedJan 7, 2024 | [Link](https://huggingface.co/WarriorMama777/OrangeMixs) |
 | Updatedabout 2 hours ago | 3.74k | calcuis/qwen-image-ggufText-to-Image | 20B | [Link](https://huggingface.co/calcuis/qwen-image-gguf) |
 | 2 | 2.77k | CompVis/stable-diffusion-v-1-4-originalText-to-Image | UpdatedNov 9, 2022 | [Link](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original) |
@@ -6139,6 +6144,7 @@ Updated on 2026-03-11
 | 8 | Unknown | Wuli-art/Qwen-Image-2512-Turbo-LoRA-2-StepsText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/Wuli-art/Qwen-Image-2512-Turbo-LoRA-2-Steps) |
 | 8 | Unknown | RamonGuthrie/z_image_base-nvfp8-mixedText-to-Image | Updated3 days ago | [Link](https://huggingface.co/RamonGuthrie/z_image_base-nvfp8-mixed) |
 | 534 |  | ReCodePlus/Smnth_v1_NSFW1Text-to-Image | Updated18 days ago | [Link](https://huggingface.co/ReCodePlus/Smnth_v1_NSFW1) |
+| 4 | Unknown | alfredplpl/z-image-modern-anime-loraText-to-Image | Updated7 days ago | [Link](https://huggingface.co/alfredplpl/z-image-modern-anime-lora) |
 
 ## Text-to-Speech
 
