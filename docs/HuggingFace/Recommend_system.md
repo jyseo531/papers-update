@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-12
+Updated on 2026-03-13
 
 > Generated from the Hugging Face database.
 
@@ -2237,6 +2237,7 @@ Updated on 2026-03-12
 | Updated1 day ago | 3.18k | janhq/Jan-v2-VL-high-ggufImage-Text-to-Text | 8B | [Link](https://huggingface.co/janhq/Jan-v2-VL-high-gguf) |
 | Updatedabout 20 hours ago | 3 | ByteDance/Dolphin-v2Image-Text-to-Text | 4B | [Link](https://huggingface.co/ByteDance/Dolphin-v2) |
 | Updated1 day ago | 3.6k | unsloth/medgemma-1 | 4B | [Link](https://huggingface.co/unsloth/medgemma-1.5-4b-it-GGUF) |
+| Updated1 day ago | 3.05k | AudioVisual-Caption/ASID-Captioner-3BImage-Text-to-Text | 5B | [Link](https://huggingface.co/AudioVisual-Caption/ASID-Captioner-3B) |
 | Updatedabout 7 hours ago | 2.63k | nvidia/Eagle2 | 8B | [Link](https://huggingface.co/nvidia/Eagle2.5-8B) |
 | Updatedabout 7 hours ago | 2 | internlm/Intern-S1-FP8Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1-FP8) |
 | Updated1 day ago | 2.26k | Qwen/Qwen3-VL-235B-A22B-InstructImage-Text-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct) |
@@ -2565,6 +2566,7 @@ Updated on 2026-03-12
 | 441 | 4 | starsfriday/Qwen-Image-Edit-2511-Upscale2KImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/starsfriday/Qwen-Image-Edit-2511-Upscale2K) |
 | 397 | 4 | ovedrive/Qwen-Image-Edit-2511-4bitImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/ovedrive/Qwen-Image-Edit-2511-4bit) |
 |  | 4 | prithivMLmods/QIE-2509-Object-Remover-BboxImage-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/prithivMLmods/QIE-2509-Object-Remover-Bbox) |
+| 133 | 4 | drbaph/FireRed-Image-Edit-1 | Updated2 days ago | [Link](https://huggingface.co/drbaph/FireRed-Image-Edit-1.1_ComfyUI_Quants) |
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
@@ -3300,6 +3302,7 @@ Updated on 2026-03-12
 | 1 | Unknown | Amirhossein75/VLM-Image-CaptioningImage-to-Text | UpdatedSep 1, 2025 | [Link](https://huggingface.co/Amirhossein75/VLM-Image-Captioning) |
 | 1 | Unknown | aoiandroid/glm-ocr-onnxImage-to-Text | Updated24 days ago | [Link](https://huggingface.co/aoiandroid/glm-ocr-onnx) |
 | 2 | Unknown | DAIR-Group/HTR-ConvTextImage-to-Text | UpdatedDec 17, 2025 | [Link](https://huggingface.co/DAIR-Group/HTR-ConvText) |
+| 1 | Unknown | sameenarshad786/llava-1 | UpdatedSep 20, 2025 | [Link](https://huggingface.co/sameenarshad786/llava-1.5-health-safety-captioning) |
 
 ## Image-to-Video
 
@@ -5397,6 +5400,7 @@ Updated on 2026-03-12
 | Updated2 days ago | 1.92k | mlx-community/GLM-4 | 30B | [Link](https://huggingface.co/mlx-community/GLM-4.7-Flash-4bit) |
 | Updatedabout 4 hours ago | 1.83k | stepfun-ai/Step-3 | 199B | [Link](https://huggingface.co/stepfun-ai/Step-3.5-Flash) |
 | Updated3 days ago | 1.74k | lukey03/Qwen3 | 9B | [Link](https://huggingface.co/lukey03/Qwen3.5-9B-abliterated) |
+| Updated13 days ago | 1.66k | bharatgenai/Param2-17B-A2 | 17B | [Link](https://huggingface.co/bharatgenai/Param2-17B-A2.4B-Thinking) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -5463,6 +5467,7 @@ Updated on 2026-03-12
 | 18 | Unknown | sdobson/nanochatText | Updated6 days ago | [Link](https://huggingface.co/sdobson/nanochat) |
 | Updatedabout 10 hours ago |  | zai-org/GLM-5Text | 754B | [Link](https://huggingface.co/zai-org/GLM-5) |
 | 40 | Unknown | DMindAI/DMind-3-nanoText | Updatedabout 19 hours ago | [Link](https://huggingface.co/DMindAI/DMind-3-nano) |
+| 51 | Unknown | Tesslate/OmniCoder-9BText | Updatedabout 5 hours ago | [Link](https://huggingface.co/Tesslate/OmniCoder-9B) |
 
 ## Text Ranking
 
@@ -5758,6 +5763,7 @@ Updated on 2026-03-12
 | 168k | 140 | SG161222/RealVisXL_V5 | UpdatedOct 8, 2024 | [Link](https://huggingface.co/SG161222/RealVisXL_V5.0) |
 | Updatedabout 16 hours ago | 124 | calcuis/krea-ggufText-to-Image | 12B | [Link](https://huggingface.co/calcuis/krea-gguf) |
 | Updatedabout 17 hours ago | 116 | wikeeyang/Real-Qwen-Image-V2Text-to-Image | 20B | [Link](https://huggingface.co/wikeeyang/Real-Qwen-Image-V2) |
+| 31.2k | 114 | nunchaku-ai/nunchaku-qwen-image-editText-to-Image | UpdatedNov 16, 2025 | [Link](https://huggingface.co/nunchaku-ai/nunchaku-qwen-image-edit) |
 | 56.2k | 98 | Lykon/dreamshaper-8Text-to-Image | UpdatedDec 7, 2023 | [Link](https://huggingface.co/Lykon/dreamshaper-8) |
 | 3.01k | 81 | RunDiffusion/Juggernaut-XI-v11Text-to-Image | UpdatedAug 29, 2024 | [Link](https://huggingface.co/RunDiffusion/Juggernaut-XI-v11) |
 | 128 | 75 | bytedance-research/USOText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/bytedance-research/USO) |
@@ -5897,6 +5903,7 @@ Updated on 2026-03-12
 | 890 | 6 | Disty0/FLUX | Updated5 days ago | [Link](https://huggingface.co/Disty0/FLUX.2-klein-9B-SDNQ-4bit-dynamic-svd-r32) |
 | 154 | 6 | DeverStyle/Flux | Updatedabout 15 hours ago | [Link](https://huggingface.co/DeverStyle/Flux.2-Klein-Loras) |
 | 412 | 6 | wikeeyang/Flux2-Klein-9B-True-V1Text-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/wikeeyang/Flux2-Klein-9B-True-V1) |
+| 1.08k | 6 | pmczip/FLUX | Updated7 days ago | [Link](https://huggingface.co/pmczip/FLUX.2-klein-9B_Models) |
 | 42 | 5 | Shakker-Labs/RepTextText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Shakker-Labs/RepText) |
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
@@ -6519,6 +6526,7 @@ Updated on 2026-03-12
 | 5 | Unknown | uzlm/sayro-tts-1 | Updatedabout 7 hours ago | [Link](https://huggingface.co/uzlm/sayro-tts-1.7B) |
 | 4 | Unknown | PatnaikAshish/kokocloneText-to-Speech | Updatedabout 5 hours ago | [Link](https://huggingface.co/PatnaikAshish/kokoclone) |
 | 8 | Unknown | HumeAI/tada-codecText-to-Speech | Updatedabout 2 hours ago | [Link](https://huggingface.co/HumeAI/tada-codec) |
+| 25 | Unknown | WarriorMama777/GLaDOS_TTSText-to-Speech | UpdatedMay 7, 2024 | [Link](https://huggingface.co/WarriorMama777/GLaDOS_TTS) |
 
 ## Text-to-Video
 
