@@ -4933,6 +4933,7 @@ Updated on 2026-03-13
 | Updatedabout 10 hours ago | 77 | LiquidAI/LFM2-1 | 1B | [Link](https://huggingface.co/LiquidAI/LFM2-1.2B) |
 | Updatedabout 24 hours ago | 77 | ai21labs/AI21-Jamba2-MiniText | 52B | [Link](https://huggingface.co/ai21labs/AI21-Jamba2-Mini) |
 | Updatedabout 4 hours ago | 77 | openbmb/AgentCPM-ExploreText | 4B | [Link](https://huggingface.co/openbmb/AgentCPM-Explore) |
+| Updatedabout 6 hours ago | 77 | LocoreMind/LocoTrainer-4BText | 4B | [Link](https://huggingface.co/LocoreMind/LocoTrainer-4B) |
 | Updatedabout 19 hours ago | 76 | ByteDance-Seed/Seed-OSS-36B-BaseText | 36B | [Link](https://huggingface.co/ByteDance-Seed/Seed-OSS-36B-Base) |
 | Updatedabout 23 hours ago | 76 | microsoft/FrogMini-14B-2510Text | 425k | [Link](https://huggingface.co/microsoft/FrogMini-14B-2510) |
 | Updatedabout 23 hours ago | 75 | inceptionai/Jais-2-70B-ChatText | 72B | [Link](https://huggingface.co/inceptionai/Jais-2-70B-Chat) |
@@ -6204,6 +6205,7 @@ Updated on 2026-03-13
 | Updatedabout 4 hours ago | 214 | neuphonic/neutts-nanoText-to-Speech | 0.3B | [Link](https://huggingface.co/neuphonic/neutts-nano) |
 | Updated6 days ago | 197 | neuphonic/neutts-nano-german-q8-ggufText-to-Speech | 0.2B | [Link](https://huggingface.co/neuphonic/neutts-nano-german-q8-gguf) |
 | 27.5k | 194 | suno/bark-smallText-to-Speech | UpdatedNov 10, 2023 | [Link](https://huggingface.co/suno/bark-small) |
+| Updatedabout 16 hours ago | 187 | mlx-community/fish-audio-s2-pro-bf16Text-to-Speech | 5B | [Link](https://huggingface.co/mlx-community/fish-audio-s2-pro-bf16) |
 | Updated3 days ago | 182 | fnlp/MOSS-TTSD-v0 | 2B | [Link](https://huggingface.co/fnlp/MOSS-TTSD-v0.5) |
 | Updatedabout 5 hours ago | 169k | Qwen/Qwen3-TTS-12Hz-1 | 2B | [Link](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice) |
 | Updated1 day ago | 164 | kugelaudio/kugelaudio-0-openText-to-Speech | 9B | [Link](https://huggingface.co/kugelaudio/kugelaudio-0-open) |
