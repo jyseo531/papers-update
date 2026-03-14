@@ -103,6 +103,7 @@ Updated on 2026-03-14
 | 142 | 19 | mit-han-lab/vila-u-7b-256Any-to-Any | UpdatedOct 29, 2024 | [Link](https://huggingface.co/mit-han-lab/vila-u-7b-256) |
 | Updatedabout 11 hours ago | 19 | Qwen/Qwen3-Omni-30B-A3B-InstructAny-to-Any | 35B | [Link](https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Instruct) |
 | UpdatedApr 27 | 19 | Tokymin/SmolVLM2-2 | 2B | [Link](https://huggingface.co/Tokymin/SmolVLM2-2.2B-Instruct-video-feedback) |
+| Updated3 days ago | 18 | ericleigh007/MiniCPM-o-4_5-BNB-Int4Any-to-Any | 10B | [Link](https://huggingface.co/ericleigh007/MiniCPM-o-4_5-BNB-Int4) |
 | 621 | 16 | EPFL-VILAB/4M-7_B_CC12MAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-7_B_CC12M) |
 | 470 | 15 | showlab/show-oAny-to-Any | UpdatedAug 27, 2024 | [Link](https://huggingface.co/showlab/show-o) |
 | 1.03k | 14 | onnx-community/Janus-1 | UpdatedNov 28, 2024 | [Link](https://huggingface.co/onnx-community/Janus-1.3B-ONNX) |
@@ -5733,6 +5734,7 @@ Updated on 2026-03-14
 | 101k | 791 | InstantX/InstantIDText-to-Image | UpdatedJan 22, 2024 | [Link](https://huggingface.co/InstantX/InstantID) |
 | 334k | 698 | cagliostrolab/animagine-xl-3 | UpdatedMar 18, 2024 | [Link](https://huggingface.co/cagliostrolab/animagine-xl-3.1) |
 | 241k | 683 | stabilityai/stable-diffusion-2-1-baseText-to-Image | UpdatedJul 5, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-2-1-base) |
+| Updated5 days ago | 662 | Gthalmie1/moody-real-mix-v4-dpo-ggufText-to-Image | 6B | [Link](https://huggingface.co/Gthalmie1/moody-real-mix-v4-dpo-gguf) |
 | 8.63k | 644 | ostris/OpenFLUX | UpdatedOct 3, 2024 | [Link](https://huggingface.co/ostris/OpenFLUX.1) |
 | Updatedabout 5 hours ago | 494 | unsloth/Qwen-Image-GGUFText-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-GGUF) |
 | 28.8k | 470 | Shakker-Labs/AWPortrait-FLText-to-Image | UpdatedSep 5, 2024 | [Link](https://huggingface.co/Shakker-Labs/AWPortrait-FL) |
@@ -6159,6 +6161,7 @@ Updated on 2026-03-14
 | 4 | Unknown | alfredplpl/z-image-modern-anime-loraText-to-Image | Updated7 days ago | [Link](https://huggingface.co/alfredplpl/z-image-modern-anime-lora) |
 | 4 | Unknown | F16/z-image-turbo-sdaText-to-Image | Updatedabout 17 hours ago | [Link](https://huggingface.co/F16/z-image-turbo-sda) |
 | 5 | Unknown | Nekofantasia/Nekofantasia-alphaText-to-Image | Updatedabout 13 hours ago | [Link](https://huggingface.co/Nekofantasia/Nekofantasia-alpha) |
+| 4 | Unknown | duongve/AnimaYumeText-to-Image | Updated6 days ago | [Link](https://huggingface.co/duongve/AnimaYume) |
 
 ## Text-to-Speech
 
