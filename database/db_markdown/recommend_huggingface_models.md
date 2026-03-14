@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-13
+Updated on 2026-03-14
 
 > Generated from the Hugging Face database.
 
@@ -2908,6 +2908,7 @@ Updated on 2026-03-13
 | UpdatedSep 24, 2024 | 69 | impactframes/Qwen2-VL-7B-CaptionerImage-to-Text | 8B | [Link](https://huggingface.co/impactframes/Qwen2-VL-7B-Captioner) |
 | Updated6 days ago | 68 | smolagents/Qwen2 | 4B | [Link](https://huggingface.co/smolagents/Qwen2.5-VL-3B-Instruct-Agentic) |
 | UpdatedJul 22, 2024 | 68 | lenamerkli/ingredient-scannerImage-to-Text | 0.5B | [Link](https://huggingface.co/lenamerkli/ingredient-scanner) |
+| Updated3 days ago | 68 | Piyush3142/trocr-sanskrit-ocrImage-to-Text | 0.3B | [Link](https://huggingface.co/Piyush3142/trocr-sanskrit-ocr) |
 | UpdatedJan 27, 2025 | 65 | cnmoro/mini-image-captioningImage-to-Text | 34.2M | [Link](https://huggingface.co/cnmoro/mini-image-captioning) |
 | 8.31k | 64 | alibaba-damo/mgp-str-baseImage-to-Text | UpdatedDec 11, 2023 | [Link](https://huggingface.co/alibaba-damo/mgp-str-base) |
 | UpdatedMar 25, 2024 | 61 | emisilab/model-ocr-ktp-v1Image-to-Text | 0.2B | [Link](https://huggingface.co/emisilab/model-ocr-ktp-v1) |
@@ -6157,6 +6158,7 @@ Updated on 2026-03-13
 | 534 |  | ReCodePlus/Smnth_v1_NSFW1Text-to-Image | Updated18 days ago | [Link](https://huggingface.co/ReCodePlus/Smnth_v1_NSFW1) |
 | 4 | Unknown | alfredplpl/z-image-modern-anime-loraText-to-Image | Updated7 days ago | [Link](https://huggingface.co/alfredplpl/z-image-modern-anime-lora) |
 | 4 | Unknown | F16/z-image-turbo-sdaText-to-Image | Updatedabout 17 hours ago | [Link](https://huggingface.co/F16/z-image-turbo-sda) |
+| 5 | Unknown | Nekofantasia/Nekofantasia-alphaText-to-Image | Updatedabout 13 hours ago | [Link](https://huggingface.co/Nekofantasia/Nekofantasia-alpha) |
 
 ## Text-to-Speech
 
@@ -6353,6 +6355,7 @@ Updated on 2026-03-13
 | Updatedabout 1 hour ago | 5 | ASLP-lab/VoiceSculptor-VDText-to-Speech | 4B | [Link](https://huggingface.co/ASLP-lab/VoiceSculptor-VD) |
 | Updatedabout 22 hours ago | 5 | oddadmix/chatterbox-egyptian-v0Text-to-Speech | 0.5B | [Link](https://huggingface.co/oddadmix/chatterbox-egyptian-v0) |
 | 3 | 5 | LEMAS-Project/LEMAS-TTSText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/LEMAS-Project/LEMAS-TTS) |
+| 96 | 5 | drbaph/s2-pro-fp8Text-to-Speech | Updated1 day ago | [Link](https://huggingface.co/drbaph/s2-pro-fp8) |
 | 5 | 4 | lunahr/csm-1b-safetensors-fp16Text-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-fp16) |
 | 2 | 4 | VAGOsolutions/SauerkrautTTS-Preview-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/VAGOsolutions/SauerkrautTTS-Preview-0.1) |
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
