@@ -6686,6 +6686,7 @@ Updated on 2026-03-15
 | 1.83k | 1 | Isi99999/Wan2 | UpdatedMar 9 | [Link](https://huggingface.co/Isi99999/Wan2.1-T2V-14B) |
 | 208 | 1 | AlekseyCalvin/VladimirLENIN_Wan2 | UpdatedApr 1 | [Link](https://huggingface.co/AlekseyCalvin/VladimirLENIN_Wan2.1_1.3B_T2V_LoRA) |
 | 7 | 1 | Davex256/Wan2 | Updated7 days ago | [Link](https://huggingface.co/Davex256/Wan2.2-TI2V-5B) |
+| 7 | 1 | AdamLucek/Wan2 | UpdatedMar 31, 2025 | [Link](https://huggingface.co/AdamLucek/Wan2.1-T2V-14B-OldBookIllustrations) |
 | 7.59k |  | tencent/HunyuanVideoText-to-Video | UpdatedJan 21 | [Link](https://huggingface.co/tencent/HunyuanVideo) |
 | 26.6k |  | genmo/mochi-1-previewText-to-Video | UpdatedDec 18, 2024 | [Link](https://huggingface.co/genmo/mochi-1-preview) |
 | 91.5k |  | THUDM/CogVideoX-5bText-to-Video | UpdatedNov 23, 2024 | [Link](https://huggingface.co/THUDM/CogVideoX-5b) |
