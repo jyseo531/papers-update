@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-14
+Updated on 2026-03-15
 
 > Generated from the Hugging Face database.
 
@@ -2915,6 +2915,7 @@ Updated on 2026-03-14
 | UpdatedMar 25, 2024 | 61 | emisilab/model-ocr-ktp-v1Image-to-Text | 0.2B | [Link](https://huggingface.co/emisilab/model-ocr-ktp-v1) |
 | Updated1 day ago | 56 | huihui-ai/Huihui-Devstral-Small-2-24B-Instruct-2512-abliteratedImage-to-Text | 24B | [Link](https://huggingface.co/huihui-ai/Huihui-Devstral-Small-2-24B-Instruct-2512-abliterated) |
 | UpdatedOct 14, 2025 | 56 | Disty0/Florence-2-large-PromptGen-v2 | 0.8B | [Link](https://huggingface.co/Disty0/Florence-2-large-PromptGen-v2.0) |
+| Updated1 day ago | 56 | badianeai/AnandaSkyImage-to-Text | 0.8B | [Link](https://huggingface.co/badianeai/AnandaSky) |
 | UpdatedApr 17, 2024 | 54 | hoang-quoc-trung/sumen-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/hoang-quoc-trung/sumen-base) |
 | UpdatedAug 30, 2024 | 51.3k | U4R/StructTable-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/U4R/StructTable-base) |
 | Updatedabout 17 hours ago | 50 | Qwen/Qwen3-VL-Embedding-8BImage-to-Text | 8B | [Link](https://huggingface.co/Qwen/Qwen3-VL-Embedding-8B) |
