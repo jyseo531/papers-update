@@ -2530,6 +2530,7 @@ Updated on 2026-03-16
 | 2 | 7 | prov-gigatime/GigaTIMEImage-to-Image | Updatedabout 18 hours ago | [Link](https://huggingface.co/prov-gigatime/GigaTIME) |
 |  | 7 | lrzjason/Anything2Real_2601Image-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/lrzjason/Anything2Real_2601) |
 | 285 | 7 | GuangyuanSD/FLUX | Updatedabout 15 hours ago | [Link](https://huggingface.co/GuangyuanSD/FLUX.2-klein-9B-Blitz-ComfyUI) |
+|  | 7 | prithivMLmods/QIE-2509-Object-Remover-Bbox-v3Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prithivMLmods/QIE-2509-Object-Remover-Bbox-v3) |
 | 1.97k | 6 | TencentARC/t2iadapter_sketch_sd15v2Image-to-Image | UpdatedAug 1, 2023 | [Link](https://huggingface.co/TencentARC/t2iadapter_sketch_sd15v2) |
 | 443 | 6 | LPX55/FLUX | Updated6 days ago | [Link](https://huggingface.co/LPX55/FLUX.1_Kontext-Lightning) |
 | 8 | 6 | stepfun-ai/Step1X-Edit-v1p2-previewImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/stepfun-ai/Step1X-Edit-v1p2-preview) |
@@ -2829,6 +2830,7 @@ Updated on 2026-03-16
 | 5.31k |  | prithivMLmods/QIE-2511-Object-Remover-v2Image-to-Image | UpdatedJan 23 | [Link](https://huggingface.co/prithivMLmods/QIE-2511-Object-Remover-v2) |
 | 10 | Unknown | dx8152/Flux2-Klein-9B-ConsistencyImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/dx8152/Flux2-Klein-9B-Consistency) |
 | 7 | Unknown | fal/virtual-tryoff-loraImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/fal/virtual-tryoff-lora) |
+| 7 | Unknown | internlm/EndoCoTImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/internlm/EndoCoT) |
 
 ## Image-to-Text
 
@@ -6215,6 +6217,7 @@ Updated on 2026-03-16
 | 27.5k | 194 | suno/bark-smallText-to-Speech | UpdatedNov 10, 2023 | [Link](https://huggingface.co/suno/bark-small) |
 | Updatedabout 16 hours ago | 187 | mlx-community/fish-audio-s2-pro-bf16Text-to-Speech | 5B | [Link](https://huggingface.co/mlx-community/fish-audio-s2-pro-bf16) |
 | Updated3 days ago | 182 | fnlp/MOSS-TTSD-v0 | 2B | [Link](https://huggingface.co/fnlp/MOSS-TTSD-v0.5) |
+| Updated6 days ago | 171 | baicai1145/s2-pro-w4a16Text-to-Speech | 5B | [Link](https://huggingface.co/baicai1145/s2-pro-w4a16) |
 | Updatedabout 5 hours ago | 169k | Qwen/Qwen3-TTS-12Hz-1 | 2B | [Link](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice) |
 | Updated1 day ago | 164 | kugelaudio/kugelaudio-0-openText-to-Speech | 9B | [Link](https://huggingface.co/kugelaudio/kugelaudio-0-open) |
 | Updatedabout 8 hours ago | 160 | neuphonic/neutts-airText-to-Speech | 0.7B | [Link](https://huggingface.co/neuphonic/neutts-air) |
