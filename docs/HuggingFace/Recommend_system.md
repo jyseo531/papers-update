@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-15
+Updated on 2026-03-16
 
 > Generated from the Hugging Face database.
 
@@ -80,6 +80,7 @@ Updated on 2026-03-15
 | UpdatedSep 28 | 40.5k | cyankiwi/Qwen3-Omni-30B-A3B-Instruct-AWQ-4bitAny-to-Any | 10B | [Link](https://huggingface.co/cyankiwi/Qwen3-Omni-30B-A3B-Instruct-AWQ-4bit) |
 | Updatedabout 6 hours ago | 39 | inclusionAI/MingTok-VisionAny-to-Any | 0.7B | [Link](https://huggingface.co/inclusionAI/MingTok-Vision) |
 | 16.8k | 38 | openbmb/MiniCPM-o-2_6-int4Any-to-Any | UpdatedJan 22 | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6-int4) |
+| 167 | 38 | InternVL-U/InternVL-UAny-to-Any | Updatedabout 11 hours ago | [Link](https://huggingface.co/InternVL-U/InternVL-U) |
 | Updatedabout 6 hours ago | 37 | inclusionAI/Ming-UniVision-16B-A3BAny-to-Any | 19B | [Link](https://huggingface.co/inclusionAI/Ming-UniVision-16B-A3B) |
 | Updated14 days ago | 37 | sensefvg/InteractiveOmni-8BAny-to-Any | 10B | [Link](https://huggingface.co/sensefvg/InteractiveOmni-8B) |
 | UpdatedAug 14 | 37k | unsloth/gemma-3-12b-it-GGUFAny-to-Any | 12B | [Link](https://huggingface.co/unsloth/gemma-3-12b-it-GGUF) |
@@ -3236,6 +3237,7 @@ Updated on 2026-03-15
 | 29 | 1 | PaddlePaddle/UniMERNetImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/UniMERNet) |
 | 356 | 1 | iordanissap/handwritten-greek-ocrImage-to-Text | Updated5 days ago | [Link](https://huggingface.co/iordanissap/handwritten-greek-ocr) |
 | 24 | 1 | Ligul/capriImage-to-Text | Updatedabout 23 hours ago | [Link](https://huggingface.co/Ligul/capri) |
+| 523 | 1 | PaddlePaddle/PP-FormulaNet_plus-MImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PP-FormulaNet_plus-M) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
