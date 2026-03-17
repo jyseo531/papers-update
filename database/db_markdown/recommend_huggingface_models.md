@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-16
+Updated on 2026-03-17
 
 > Generated from the Hugging Face database.
 
@@ -163,6 +163,7 @@ Updated on 2026-03-16
 | Updatedabout 6 hours ago | 3 | ngxson/Home-Cook-Mistral-Small-Omni-24B-2507-GGUFAny-to-Any | 24B | [Link](https://huggingface.co/ngxson/Home-Cook-Mistral-Small-Omni-24B-2507-GGUF) |
 | Updatedabout 5 hours ago | 3 | cpatonn/Qwen3-Omni-30B-A3B-Instruct-AWQ-4bitAny-to-Any | 10B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Instruct-AWQ-4bit) |
 | 116 | 3 | shiwk24/BAGEL-CanvasAny-to-Any | Updated13 days ago | [Link](https://huggingface.co/shiwk24/BAGEL-Canvas) |
+| 13 | 3 | AviadDahan/ID-LoRA-TalkVidAny-to-Any | Updatedabout 11 hours ago | [Link](https://huggingface.co/AviadDahan/ID-LoRA-TalkVid) |
 | 47 | 2 | PKU-Alignment/AnyRewardModelAny-to-Any | UpdatedDec 28, 2024 | [Link](https://huggingface.co/PKU-Alignment/AnyRewardModel) |
 | 585 | 2 | wnma3mz/Janus-Pro-1B-4bitAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/wnma3mz/Janus-Pro-1B-4bit) |
 | 3 | 2 | lintw/HealthGPT-XL32Any-to-Any | Updatedabout 18 hours ago | [Link](https://huggingface.co/lintw/HealthGPT-XL32) |
@@ -2520,6 +2521,7 @@ Updated on 2026-03-16
 | 25 | 9 | nvidia/ChronoEdit-14B-Diffusers-Paint-Brush-LoraImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/nvidia/ChronoEdit-14B-Diffusers-Paint-Brush-Lora) |
 | 344 | 9 | YaoJiefu/Line-drawing-generates-special-effectsImage-to-Image | Updated18 days ago | [Link](https://huggingface.co/YaoJiefu/Line-drawing-generates-special-effects) |
 |  | 9 | fal/flux-2-klein-4B-object-remove-loraImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/fal/flux-2-klein-4B-object-remove-lora) |
+| 67 | 9 | briaai/Fibo-Edit-RMBGImage-to-Image | Updatedabout 18 hours ago | [Link](https://huggingface.co/briaai/Fibo-Edit-RMBG) |
 | 59 | 8 | qualcomm/AOT-GANImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/qualcomm/AOT-GAN) |
 |  | 8 | xuminglong/kontext-tryon7Image-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/xuminglong/kontext-tryon7) |
 | 160 | 8 | Jamichsu/Stream-DiffVSRImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/Jamichsu/Stream-DiffVSR) |
@@ -3185,6 +3187,7 @@ Updated on 2026-03-16
 | 629 | 2 | agomberto/trocr-large-handwritten-frImage-to-Text | UpdatedJul 20, 2023 | [Link](https://huggingface.co/agomberto/trocr-large-handwritten-fr) |
 | 27 | 2 | UBC-NLP/PeacockImage-to-Text | UpdatedNov 25, 2024 | [Link](https://huggingface.co/UBC-NLP/Peacock) |
 | UpdatedJun 22, 2024 | 2 | mzbac/nougat-base-8bit-mlxImage-to-Text | 0.1B | [Link](https://huggingface.co/mzbac/nougat-base-8bit-mlx) |
+| Updatedabout 15 hours ago | 2 | Kansallisarkisto/cyrillic-large-stage1Image-to-Text | 0.6B | [Link](https://huggingface.co/Kansallisarkisto/cyrillic-large-stage1) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -6354,6 +6357,7 @@ Updated on 2026-03-16
 | Updatedabout 22 hours ago | 6 | OpenMOSS-Team/MOSS-VoiceGeneratorText-to-Speech | 2B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-VoiceGenerator) |
 | Updated2 days ago | 6 | Aratako/MioTTS-1 | 2B | [Link](https://huggingface.co/Aratako/MioTTS-1.7B) |
 | 222 | 6 | bharatgenai/sooktam2Text-to-Speech | Updatedabout 6 hours ago | [Link](https://huggingface.co/bharatgenai/sooktam2) |
+| 10 | 6 | silma-ai/silma-ttsText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/silma-ai/silma-tts) |
 | 87 | 5 | lunahr/csm-1b-safetensors-quantsText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-quants) |
 | 26 | 5 | 2121-8/canary-tts-0 | Updatedabout 19 hours ago | [Link](https://huggingface.co/2121-8/canary-tts-0.5b) |
 | 12 | 5 | MYZY-AI/Muyan-TTS-SFTText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/MYZY-AI/Muyan-TTS-SFT) |
