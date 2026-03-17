@@ -5086,6 +5086,7 @@ Updated on 2026-03-17
 | Updatedabout 16 hours ago | 33 | arcee-ai/Trinity-Large-TrueBaseText | 399B | [Link](https://huggingface.co/arcee-ai/Trinity-Large-TrueBase) |
 | Updatedabout 10 hours ago | 33 | zai-org/GLM-5-FP8Text | 754B | [Link](https://huggingface.co/zai-org/GLM-5-FP8) |
 | Updatedabout 20 hours ago | 33 | janhq/Jan-code-4bText | 4B | [Link](https://huggingface.co/janhq/Jan-code-4b) |
+| Updatedabout 9 hours ago | 33 | Rakuten/RakutenAI-3 | 671B | [Link](https://huggingface.co/Rakuten/RakutenAI-3.0) |
 | 5.81k | 32 | trillionlabs/Trillion-7B-previewText | Updatedabout 3 hours ago | [Link](https://huggingface.co/trillionlabs/Trillion-7B-preview) |
 | 224 | 32 | JetBrains/Mellum-4b-sft-pythonText | Updated6 days ago | [Link](https://huggingface.co/JetBrains/Mellum-4b-sft-python) |
 | 131 | 32 | nvidia/AceReason-Nemotron-14BText | Updatedabout 3 hours ago | [Link](https://huggingface.co/nvidia/AceReason-Nemotron-14B) |
