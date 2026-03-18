@@ -1928,6 +1928,7 @@ Updated on 2026-03-18
 | 16.1k | 106 | bytedance-research/UI-TARS-72B-DPOImage-Text-to-Text | UpdatedJan 25 | [Link](https://huggingface.co/bytedance-research/UI-TARS-72B-DPO) |
 | Updated4 days ago | 105 | Alibaba-DAMO-Academy/RynnBrain-30B-A3BImage-Text-to-Text | 17B | [Link](https://huggingface.co/Alibaba-DAMO-Academy/RynnBrain-30B-A3B) |
 | Updatedabout 1 hour ago | 101 | LiquidAI/LFM2-VL-3BImage-Text-to-Text | 3B | [Link](https://huggingface.co/LiquidAI/LFM2-VL-3B) |
+| Updated1 minute ago | 101 | baidu/Qianfan-OCRImage-Text-to-Text | 5B | [Link](https://huggingface.co/baidu/Qianfan-OCR) |
 | Updatedabout 12 hours ago | 100 | google/translategemma-4b-itImage-Text-to-Text | 5B | [Link](https://huggingface.co/google/translategemma-4b-it) |
 | Updatedabout 23 hours ago | 100 | inclusionAI/UI-Venus-1 | 9B | [Link](https://huggingface.co/inclusionAI/UI-Venus-1.5-8B) |
 | 500 | 99 | meta-llama/Llama-4-Maverick-17B-128E-InstructImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct) |
@@ -2227,6 +2228,7 @@ Updated on 2026-03-18
 | Updatedabout 7 hours ago | 5 | internlm/Intern-S1Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1) |
 | Updated10 days ago | 5.88k | Qwen/Qwen3-VL-8B-Instruct-GGUFImage-Text-to-Text | 8B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct-GGUF) |
 | Updatedabout 11 hours ago | 5 | meituan/EvoCUA-32B-20260105Image-Text-to-Text | 33B | [Link](https://huggingface.co/meituan/EvoCUA-32B-20260105) |
+| Updated7 days ago | 5.6k | prithivMLmods/Gliese-Qwen3 | 9B | [Link](https://huggingface.co/prithivMLmods/Gliese-Qwen3.5-9B-Abliterated-Caption) |
 | Updated1 day ago | 4.45k | openbmb/MiniCPM-V-4_5-ggufImage-Text-to-Text | 8B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4_5-gguf) |
 | Updatedabout 12 hours ago | 4 | ibm-granite/granite-docling-258MImage-Text-to-Text | 0.3B | [Link](https://huggingface.co/ibm-granite/granite-docling-258M) |
 | Updated12 days ago | 4.44k | Jalea96/DeepSeek-OCR-bnb-4bit-NF4Image-Text-to-Text | 3B | [Link](https://huggingface.co/Jalea96/DeepSeek-OCR-bnb-4bit-NF4) |
@@ -6401,6 +6403,7 @@ Updated on 2026-03-18
 | Updatedabout 16 hours ago | 4 | tsukemono/neuTTS-JP-150mText-to-Speech | 0.2B | [Link](https://huggingface.co/tsukemono/neuTTS-JP-150m) |
 | 58 | 4 | eduardem/xtts-v2-romanianText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/eduardem/xtts-v2-romanian) |
 | 60 | 4 | oddadmix/lahgtna-chatterbox-v0Text-to-Speech | Updatedabout 22 hours ago | [Link](https://huggingface.co/oddadmix/lahgtna-chatterbox-v0) |
+| Updatedabout 11 hours ago | 4 | rodrigomt/s2-pro-ggufText-to-Speech | 5B | [Link](https://huggingface.co/rodrigomt/s2-pro-gguf) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 1.22k | 3 | CONCREE/Adia_TTSText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/CONCREE/Adia_TTS) |
