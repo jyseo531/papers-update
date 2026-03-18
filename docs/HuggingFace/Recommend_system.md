@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-17
+Updated on 2026-03-18
 
 > Generated from the Hugging Face database.
 
@@ -42,6 +42,7 @@ Updated on 2026-03-17
 | UpdatedApr 9 | 203 | Tesslate/Synthia-S1-27bAny-to-Any | 27B | [Link](https://huggingface.co/Tesslate/Synthia-S1-27b) |
 | Updated16 days ago | 193 | OddTheGreat/Mars_27B_V | 29B | [Link](https://huggingface.co/OddTheGreat/Mars_27B_V.1) |
 | Updatedabout 8 hours ago | 191 | lijiang/Omni-DiffusionAny-to-Any | 8B | [Link](https://huggingface.co/lijiang/Omni-Diffusion) |
+| Updated27 days ago | 188 | rizkysulaeman/Gemma3N-4B-Conv-MM-Img-Audio-Text-Code-Reasoning-Q8_0-GGUFAny-to-Any | 7B | [Link](https://huggingface.co/rizkysulaeman/Gemma3N-4B-Conv-MM-Img-Audio-Text-Code-Reasoning-Q8_0-GGUF) |
 | Updated12 days ago | 166 | Saktsant/Qwen3-Omni-30B-A3B-Instruct-AWQAny-to-Any | 10B | [Link](https://huggingface.co/Saktsant/Qwen3-Omni-30B-A3B-Instruct-AWQ) |
 | UpdatedDec 24, 2025 | 166 | mlx-community/Qwen3-Omni-30B-A3B-Instruct-8bitAny-to-Any | 11B | [Link](https://huggingface.co/mlx-community/Qwen3-Omni-30B-A3B-Instruct-8bit) |
 | UpdatedOct 23, 2024 | 153 | BAAI/Emu3-Stage1Any-to-Any | 8B | [Link](https://huggingface.co/BAAI/Emu3-Stage1) |
@@ -2063,6 +2064,7 @@ Updated on 2026-03-17
 | 9 | 18 | nvidia/DAM-3BImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/DAM-3B) |
 | Updatedabout 6 hours ago | 18 | jzhang533/PaddleOCR-VL-For-MangaImage-Text-to-Text | 1.0B | [Link](https://huggingface.co/jzhang533/PaddleOCR-VL-For-Manga) |
 | Updatedabout 10 hours ago | 18 | RekaAI/reka-edge-2603Image-Text-to-Text | 7B | [Link](https://huggingface.co/RekaAI/reka-edge-2603) |
+| Updatedabout 15 hours ago | 18 | Hcompany/Holotron-12BImage-Text-to-Text | 13B | [Link](https://huggingface.co/Hcompany/Holotron-12B) |
 | 1.49k | 17 | google/paligemma2-3b-mix-224Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-3b-mix-224) |
 | 247 | 17 | ds4sd/SmolDocling-256M-previewImage-Text-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/ds4sd/SmolDocling-256M-preview) |
 | 31 | 17 | burtenshaw/GemmaCoder3-12BImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/burtenshaw/GemmaCoder3-12B) |
@@ -5157,6 +5159,7 @@ Updated on 2026-03-17
 | Updatedabout 5 hours ago | 26.7k | TildeAI/TildeOpen-30bText | 31B | [Link](https://huggingface.co/TildeAI/TildeOpen-30b) |
 | Updated14 days ago | 26 | vngrs-ai/Kumru-2BText | 2B | [Link](https://huggingface.co/vngrs-ai/Kumru-2B) |
 | 152 | 26 | salakash/MinimalismText | Updatedabout 20 hours ago | [Link](https://huggingface.co/salakash/Minimalism) |
+| 1.53k | 26 | nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16Text | Updated1 day ago | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16) |
 | 513 | 25 | CohereForAI/c4ai-command-r7b-arabic-02-2025Text | Updated2 days ago | [Link](https://huggingface.co/CohereForAI/c4ai-command-r7b-arabic-02-2025) |
 | 3.12k | 25 | ibm-granite/granite-3 | Updated9 days ago | [Link](https://huggingface.co/ibm-granite/granite-3.2-8b-instruct) |
 | 568 | 25 | GSAI-ML/LLaDA-8B-BaseText | Updated3 days ago | [Link](https://huggingface.co/GSAI-ML/LLaDA-8B-Base) |
@@ -5386,6 +5389,7 @@ Updated on 2026-03-17
 | Updatedabout 3 hours ago | 2.17k | unsloth/functiongemma-270m-it-GGUFText | 0.3B | [Link](https://huggingface.co/unsloth/functiongemma-270m-it-GGUF) |
 | Updatedabout 10 hours ago | 2.55k | IQuestLab/IQuest-Coder-V1-40B-BaseText | 40B | [Link](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Base) |
 | UpdatedDec 12, 2025 | 2.15k | UCSB-SURFI/VulnLLM-R-7BText | 8B | [Link](https://huggingface.co/UCSB-SURFI/VulnLLM-R-7B) |
+| Updated1 day ago | 2.9k | unsloth/NVIDIA-Nemotron-3-Nano-4B-GGUFText | 4B | [Link](https://huggingface.co/unsloth/NVIDIA-Nemotron-3-Nano-4B-GGUF) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
 | Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
@@ -6689,6 +6693,7 @@ Updated on 2026-03-17
 | 10 | 2 | TheMindExpansionNetwork/questro_LTXText-to-Video | Updated11 days ago | [Link](https://huggingface.co/TheMindExpansionNetwork/questro_LTX) |
 | 31 | 2 | zulense/z1Text-to-Video | Updatedabout 23 hours ago | [Link](https://huggingface.co/zulense/z1) |
 | 8 | 2 | Harahan/QVGen-Wan-1_3B-W4A4Text-to-Video | Updatedabout 18 hours ago | [Link](https://huggingface.co/Harahan/QVGen-Wan-1_3B-W4A4) |
+| 6 | 2 | Efficient-Large-Model/SANA-Video_2B_720pText-to-Video | Updated1 day ago | [Link](https://huggingface.co/Efficient-Large-Model/SANA-Video_2B_720p) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
