@@ -187,6 +187,7 @@ Updated on 2026-03-19
 | UpdatedApr 11 | 2.69k | unsloth/gemma-3-4b-ptAny-to-Any | 4B | [Link](https://huggingface.co/unsloth/gemma-3-4b-pt) |
 | Updatedabout 11 hours ago | 2 | AiAsistent/gemma-3-4b-it-Cognitive-LibertyAny-to-Any | 4B | [Link](https://huggingface.co/AiAsistent/gemma-3-4b-it-Cognitive-Liberty) |
 | 20 | 2 | AviadDahan/ID-LoRA-CelebVHQAny-to-Any | Updated2 days ago | [Link](https://huggingface.co/AviadDahan/ID-LoRA-CelebVHQ) |
+| 19 | 2 | AviadDahan/LTX-2 | Updatedabout 17 hours ago | [Link](https://huggingface.co/AviadDahan/LTX-2.3-ID-LoRA-CelebVHQ-3K) |
 | 170 | 1 | tezuesh/moshi_generalAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/tezuesh/moshi_general) |
 | 35 | 1 | tezuesh/IBLlama_v1Any-to-Any | UpdatedJan 24 | [Link](https://huggingface.co/tezuesh/IBLlama_v1) |
 | 43 | 1 | Athagi/Janus-Pro-7BAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/Athagi/Janus-Pro-7B) |
@@ -5845,6 +5846,7 @@ Updated on 2026-03-19
 | 187 | 13 | tlennon-ie/qwen-edit-skinText-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/tlennon-ie/qwen-edit-skin) |
 | 7.11k | 13 | nphSi/Z-Image-LoraText-to-Image | Updated40 minutes ago | [Link](https://huggingface.co/nphSi/Z-Image-Lora) |
 | Updated40 minutes ago | 13 | wikeeyang/Z-Image-Turbo-ArtText-to-Image | 6B | [Link](https://huggingface.co/wikeeyang/Z-Image-Turbo-Art) |
+| 67 | 13 | Vrizzo/indian-art-sd-modelText-to-Image | Updated4 days ago | [Link](https://huggingface.co/Vrizzo/indian-art-sd-model) |
 | 217 | 12 | city96/HiDream-I1-Dev-ggufText-to-Image | Updated1 day ago | [Link](https://huggingface.co/city96/HiDream-I1-Dev-gguf) |
 | Updatedabout 4 hours ago | 12 | stepfun-ai/NextStep-1-LargeText-to-Image | 15B | [Link](https://huggingface.co/stepfun-ai/NextStep-1-Large) |
 | 59 | 12 | bytedance-research/UMOText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/bytedance-research/UMO) |
