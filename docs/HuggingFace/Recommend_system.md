@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-18
+Updated on 2026-03-19
 
 > Generated from the Hugging Face database.
 
@@ -155,6 +155,7 @@ Updated on 2026-03-18
 | UpdatedJan 22, 2025 | 4 | joonsong/hand_recog_florence2-finetuned_v1Any-to-Any | 0.3B | [Link](https://huggingface.co/joonsong/hand_recog_florence2-finetuned_v1) |
 | Updatedabout 8 hours ago | 4 | openbmb/MiniCPM-o-4_5-ggufAny-to-Any | 8B | [Link](https://huggingface.co/openbmb/MiniCPM-o-4_5-gguf) |
 | UpdatedApr 26, 2025 | 4 | tiny-random/qwen2 | 5.39M | [Link](https://huggingface.co/tiny-random/qwen2.5-omni) |
+| UpdatedSep 11, 2025 | 4 | chaitnya26/Step-Audio-2-mini-forkAny-to-Any | 8B | [Link](https://huggingface.co/chaitnya26/Step-Audio-2-mini-fork) |
 | 481k | 3.11k | deepseek-ai/Janus-Pro-7BAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-7B) |
 | 78 | 3 | VARGPT-family/VARGPT_LLaVA-v1Any-to-Any | UpdatedJan 23 | [Link](https://huggingface.co/VARGPT-family/VARGPT_LLaVA-v1) |
 | 2 | 3 | impactframes/Janus-1 | UpdatedOct 19, 2024 | [Link](https://huggingface.co/impactframes/Janus-1.3B) |
@@ -185,6 +186,7 @@ Updated on 2026-03-18
 | 72 | 2 | showlab/show-o-512x512Any-to-Any | UpdatedJun 21 | [Link](https://huggingface.co/showlab/show-o-512x512) |
 | UpdatedApr 11 | 2.69k | unsloth/gemma-3-4b-ptAny-to-Any | 4B | [Link](https://huggingface.co/unsloth/gemma-3-4b-pt) |
 | Updatedabout 11 hours ago | 2 | AiAsistent/gemma-3-4b-it-Cognitive-LibertyAny-to-Any | 4B | [Link](https://huggingface.co/AiAsistent/gemma-3-4b-it-Cognitive-Liberty) |
+| 20 | 2 | AviadDahan/ID-LoRA-CelebVHQAny-to-Any | Updated2 days ago | [Link](https://huggingface.co/AviadDahan/ID-LoRA-CelebVHQ) |
 | 170 | 1 | tezuesh/moshi_generalAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/tezuesh/moshi_general) |
 | 35 | 1 | tezuesh/IBLlama_v1Any-to-Any | UpdatedJan 24 | [Link](https://huggingface.co/tezuesh/IBLlama_v1) |
 | 43 | 1 | Athagi/Janus-Pro-7BAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/Athagi/Janus-Pro-7B) |
@@ -2223,6 +2225,7 @@ Updated on 2026-03-18
 | Updatedabout 4 hours ago | 6.08k | bartowski/zai-org_GLM-4 | 9B | [Link](https://huggingface.co/bartowski/zai-org_GLM-4.6V-Flash-GGUF) |
 | Updatedabout 6 hours ago | 6 | meituan/EvoCUA-8B-20260105Image-Text-to-Text | 9B | [Link](https://huggingface.co/meituan/EvoCUA-8B-20260105) |
 | Updated21 days ago | 6.57k | Dogacel/Universal-DeepSeek-OCR-2Image-Text-to-Text | 3B | [Link](https://huggingface.co/Dogacel/Universal-DeepSeek-OCR-2) |
+| Updatedabout 8 hours ago | 6 | datalab-to/chandra-ocr-2Image-Text-to-Text | 5B | [Link](https://huggingface.co/datalab-to/chandra-ocr-2) |
 | 168 | 5 | MBZUAI/AINImage-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/MBZUAI/AIN) |
 | Updatedabout 9 hours ago | 5 | Skywork/Skywork-R1V3-38BImage-Text-to-Text | 38B | [Link](https://huggingface.co/Skywork/Skywork-R1V3-38B) |
 | Updatedabout 7 hours ago | 5 | internlm/Intern-S1Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1) |
@@ -2943,6 +2946,7 @@ Updated on 2026-03-18
 | Updated23 days ago | 43 | Jaireyu/Qwen2 | 8B | [Link](https://huggingface.co/Jaireyu/Qwen2.5-VL-UniSVG-finetuned) |
 | UpdatedJul 5 | 43 | QuickHawk/trocr-indicImage-to-Text | 0.3B | [Link](https://huggingface.co/QuickHawk/trocr-indic) |
 | UpdatedMay 18, 2024 | 41 | moranyanuka/blip-image-captioning-large-mochaImage-to-Text | 0.5B | [Link](https://huggingface.co/moranyanuka/blip-image-captioning-large-mocha) |
+| Updated2 days ago | 41 | clquwu/Clarity-OMRImage-to-Text | 0.2B | [Link](https://huggingface.co/clquwu/Clarity-OMR) |
 | 246 | 40 | selvakumarcts/sk_invoice_receiptsImage-to-Text | UpdatedOct 20, 2023 | [Link](https://huggingface.co/selvakumarcts/sk_invoice_receipts) |
 | Updated16 days ago | 40 | JEILDLWLRMA/Qwen3-VL-4B-Instruct-NVFP4Image-to-Text | 3B | [Link](https://huggingface.co/JEILDLWLRMA/Qwen3-VL-4B-Instruct-NVFP4) |
 | 573 | 39 | katanaml-org/invoices-donut-model-v1Image-to-Text | UpdatedMay 11, 2023 | [Link](https://huggingface.co/katanaml-org/invoices-donut-model-v1) |
@@ -4793,6 +4797,7 @@ Updated on 2026-03-18
 | Updated2 days ago | 628 | PrimeIntellect/INTELLECT-3-FP8Text | 107B | [Link](https://huggingface.co/PrimeIntellect/INTELLECT-3-FP8) |
 | Updatedabout 5 hours ago | 623 | NousResearch/nomos-1Text | 31B | [Link](https://huggingface.co/NousResearch/nomos-1) |
 | Updated1 day ago | 608 | ArliAI/GLM-4 | 110B | [Link](https://huggingface.co/ArliAI/GLM-4.5-Air-Derestricted) |
+| Updated2 days ago | 605 | nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUFText | 4B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUF) |
 | Updated1 day ago | 580 | allenai/Olmo-3 | 32B | [Link](https://huggingface.co/allenai/Olmo-3.1-32B-Think) |
 | Updatedabout 4 hours ago | 570 | MiniMaxAI/MiniMax-M2Text | 229B | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M2) |
 |  | 565 | deepseek-ai/DeepSeek-R1-0528Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528) |
@@ -6559,6 +6564,7 @@ Updated on 2026-03-18
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
 | 882k | 892 | ByteDance/AnimateDiff-LightningText-to-Video | UpdatedJan 6 | [Link](https://huggingface.co/ByteDance/AnimateDiff-Lightning) |
+| UpdatedJan 10 | 665 | oxide-lab/LTX-Video-0 | 5B | [Link](https://huggingface.co/oxide-lab/LTX-Video-0.9.8-2B-distilled) |
 | 16.5k | 612 | ali-vilab/text-to-video-ms-1 | UpdatedDec 1, 2023 | [Link](https://huggingface.co/ali-vilab/text-to-video-ms-1.7b) |
 | Updated19 days ago | 571 | vantagewithai/TurboWan2 | 14B | [Link](https://huggingface.co/vantagewithai/TurboWan2.1-T2V-14B-720P-ComfyUI-GGUF) |
 | Updatedabout 3 hours ago | 496 | calcuis/wan2-ggufText-to-Video | 0.1B | [Link](https://huggingface.co/calcuis/wan2-gguf) |
