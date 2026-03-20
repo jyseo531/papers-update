@@ -3121,6 +3121,7 @@ Updated on 2026-03-20
 | Updatedabout 14 hours ago | 4 | gateremark/kikuyu_translategemma_12b_mergedImage-to-Text | 13B | [Link](https://huggingface.co/gateremark/kikuyu_translategemma_12b_merged) |
 | 61 | 4 | numind/NuMarkdown-8B-Thinking-mlx-8bitsImage-to-Text | UpdatedNov 24, 2025 | [Link](https://huggingface.co/numind/NuMarkdown-8B-Thinking-mlx-8bits) |
 | 68 | 4 | HassanB4/Ketaba-OCR-LoRAImage-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/HassanB4/Ketaba-OCR-LoRA) |
+| 80 | 4 | jc-builds/CalorieCLIPImage-to-Text | Updatedabout 12 hours ago | [Link](https://huggingface.co/jc-builds/CalorieCLIP) |
 | 299 | 3 | cnmoro/nano-image-captioningImage-to-Text | Updatedabout 1 month ago | [Link](https://huggingface.co/cnmoro/nano-image-captioning) |
 | 45 | 3 | braintacles/brainblipImage-to-Text | UpdatedJun 27, 2024 | [Link](https://huggingface.co/braintacles/brainblip) |
 | 55 | 3 | sbintuitions/sarashina2-vision-8bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-8b) |
@@ -5267,6 +5268,7 @@ Updated on 2026-03-20
 | 224 | 18 | DeepMount00/Murai-350M-v0 | Updated2 days ago | [Link](https://huggingface.co/DeepMount00/Murai-350M-v0.1-beta) |
 | Updated28 days ago | 18 | microsoft/NextCoder-7BText | 8B | [Link](https://huggingface.co/microsoft/NextCoder-7B) |
 | Updatedabout 17 hours ago | 18 | Menlo/LucyText | 2B | [Link](https://huggingface.co/Menlo/Lucy) |
+| Updatedabout 8 hours ago | 18 | nvidia/Nemotron-Cascade-2-30B-A3BText | 32B | [Link](https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B) |
 | 60 | 17 | open-thoughts/OpenThinker2-32BText | Updated1 day ago | [Link](https://huggingface.co/open-thoughts/OpenThinker2-32B) |
 | 274 | 17 | microsoft/MAI-DS-R1-FP8Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/microsoft/MAI-DS-R1-FP8) |
 | 40 | 17 | nvidia/OpenMath-Nemotron-32BText | Updated1 day ago | [Link](https://huggingface.co/nvidia/OpenMath-Nemotron-32B) |
