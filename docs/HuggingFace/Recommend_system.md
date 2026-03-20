@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-19
+Updated on 2026-03-20
 
 > Generated from the Hugging Face database.
 
@@ -61,6 +61,7 @@ Updated on 2026-03-19
 | Updated5 days ago | 76 | DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-ExtremeAny-to-Any | 4B | [Link](https://huggingface.co/DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-Extreme) |
 | UpdatedAug 20 | 64 | Frane92O/Qwen2 | 8B | [Link](https://huggingface.co/Frane92O/Qwen2.5-Omni-7B-Q4_0-GGUF) |
 | Updatedabout 1 hour ago | 63 | wikeeyang/Emu35-NF4Any-to-Any | 35B | [Link](https://huggingface.co/wikeeyang/Emu35-NF4) |
+| Updated24 days ago | 63 | sovthpaw/Omni-Senter-3BAny-to-Any | 29.9M | [Link](https://huggingface.co/sovthpaw/Omni-Senter-3B) |
 | Updatedabout 2 hours ago | 61 | openbmb/MiniCPM-o-4_5Any-to-Any | 9B | [Link](https://huggingface.co/openbmb/MiniCPM-o-4_5) |
 | UpdatedApr 29 | 60.5k | meta-llama/Llama-Guard-4-12BAny-to-Any | 12B | [Link](https://huggingface.co/meta-llama/Llama-Guard-4-12B) |
 | Updated24 days ago | 59 | DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-balancedAny-to-Any | 4B | [Link](https://huggingface.co/DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-balanced) |
@@ -3197,6 +3198,7 @@ Updated on 2026-03-19
 | 27 | 2 | UBC-NLP/PeacockImage-to-Text | UpdatedNov 25, 2024 | [Link](https://huggingface.co/UBC-NLP/Peacock) |
 | UpdatedJun 22, 2024 | 2 | mzbac/nougat-base-8bit-mlxImage-to-Text | 0.1B | [Link](https://huggingface.co/mzbac/nougat-base-8bit-mlx) |
 | Updatedabout 15 hours ago | 2 | Kansallisarkisto/cyrillic-large-stage1Image-to-Text | 0.6B | [Link](https://huggingface.co/Kansallisarkisto/cyrillic-large-stage1) |
+| 15 | 2 | Kansallisarkisto/estonian-large-handwrittenImage-to-Text | Updated3 days ago | [Link](https://huggingface.co/Kansallisarkisto/estonian-large-handwritten) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
