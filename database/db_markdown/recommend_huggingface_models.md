@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-20
+Updated on 2026-03-21
 
 > Generated from the Hugging Face database.
 
@@ -48,6 +48,7 @@ Updated on 2026-03-20
 | UpdatedOct 23, 2024 | 153 | BAAI/Emu3-Stage1Any-to-Any | 8B | [Link](https://huggingface.co/BAAI/Emu3-Stage1) |
 | UpdatedDec 24, 2025 | 151 | mlx-community/Qwen3-Omni-30B-A3B-Instruct-bf16Any-to-Any | 35B | [Link](https://huggingface.co/mlx-community/Qwen3-Omni-30B-A3B-Instruct-bf16) |
 | 455 | 149 | NexaAI/OmniNeural-4BAny-to-Any | Updated4 days ago | [Link](https://huggingface.co/NexaAI/OmniNeural-4B) |
+| Updated7 days ago | 145 | diodel/Qwen3 | 0.8B | [Link](https://huggingface.co/diodel/Qwen3.5-0.8B-Q4_K_M-GGUF) |
 | UpdatedApr 8 | 144 | summykai/gemma3-27b-abliterated-dpoAny-to-Any | 27B | [Link](https://huggingface.co/summykai/gemma3-27b-abliterated-dpo) |
 | 9.96k | 141 | deepseek-ai/JanusFlow-1 | Updated29 days ago | [Link](https://huggingface.co/deepseek-ai/JanusFlow-1.3B) |
 | Updated12 days ago | 127 | andrewheins55/Ming-flash-omni-2 | 104B | [Link](https://huggingface.co/andrewheins55/Ming-flash-omni-2.1) |
@@ -2842,6 +2843,7 @@ Updated on 2026-03-20
 | 10 | Unknown | dx8152/Flux2-Klein-9B-ConsistencyImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/dx8152/Flux2-Klein-9B-Consistency) |
 | 7 | Unknown | fal/virtual-tryoff-loraImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/fal/virtual-tryoff-lora) |
 | 7 | Unknown | internlm/EndoCoTImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/internlm/EndoCoT) |
+| 6 | Unknown | vaskers5/LUA-FLUXImage-to-Image | Updated5 days ago | [Link](https://huggingface.co/vaskers5/LUA-FLUX) |
 
 ## Image-to-Text
 
@@ -4850,6 +4852,7 @@ Updated on 2026-03-20
 | UpdatedApr 22 | 246 | inclusionAI/Ling-Coder-liteText | 17B | [Link](https://huggingface.co/inclusionAI/Ling-Coder-lite) |
 | Updated5 days ago | 244 | jet-ai/Jet-Nemotron-4BText | 4B | [Link](https://huggingface.co/jet-ai/Jet-Nemotron-4B) |
 | 8.85k | 235 | microsoft/BioGPT-LargeText | UpdatedFeb 5, 2023 | [Link](https://huggingface.co/microsoft/BioGPT-Large) |
+| Updated2 days ago | 235 | Multilingual-Multimodal-NLP/IndustrialCoderText | 32B | [Link](https://huggingface.co/Multilingual-Multimodal-NLP/IndustrialCoder) |
 | Updatedabout 20 hours ago | 234 | radicalnumerics/RND1-Base-0910Text | 31B | [Link](https://huggingface.co/radicalnumerics/RND1-Base-0910) |
 | Updated1 day ago | 234 | p-e-w/gpt-oss-20b-hereticText | 21B | [Link](https://huggingface.co/p-e-w/gpt-oss-20b-heretic) |
 | Updatedabout 10 hours ago | 233 | Qwen/Qwen3-Coder-NextText | 80B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-Next) |
@@ -5185,6 +5188,7 @@ Updated on 2026-03-20
 | 1.69k | 25 | Intel/Qwen3-Next-80B-A3B-Thinking-int4-mixed-AutoRoundText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Intel/Qwen3-Next-80B-A3B-Thinking-int4-mixed-AutoRound) |
 | 101 | 25 | salakash/SamKash-TolstoyText | Updatedabout 2 hours ago | [Link](https://huggingface.co/salakash/SamKash-Tolstoy) |
 | 193 | 25 | salakash/AskBuddyXText | Updated9 days ago | [Link](https://huggingface.co/salakash/AskBuddyX) |
+| 89 | 25 | silx-ai/Quasar-10BText | Updated11 days ago | [Link](https://huggingface.co/silx-ai/Quasar-10B) |
 | 8.8k | 24 | unsloth/QwQ-32B-GGUFText | Updatedabout 1 hour ago | [Link](https://huggingface.co/unsloth/QwQ-32B-GGUF) |
 | 90.1k | 24 | allenai/OLMo-2-0325-32BText | Updated3 days ago | [Link](https://huggingface.co/allenai/OLMo-2-0325-32B) |
 | 722 | 24 | qihoo360/Light-R1-14B-DSText | Updatedabout 9 hours ago | [Link](https://huggingface.co/qihoo360/Light-R1-14B-DS) |
@@ -5918,6 +5922,7 @@ Updated on 2026-03-20
 | Updated11 minutes ago | 7 | unsloth/Z-Image-GGUFText-to-Image | 6B | [Link](https://huggingface.co/unsloth/Z-Image-GGUF) |
 | 14 | 7 | SnJake/Ref2FontText-to-Image | Updated3 days ago | [Link](https://huggingface.co/SnJake/Ref2Font) |
 | 162 | 7 | CodeGoat24/FLUX | Updated2 days ago | [Link](https://huggingface.co/CodeGoat24/FLUX.2-klein-base-9B-UnifiedReward-Flex-lora) |
+| 403 | 7 | Limbicnation/pixel-art-loraText-to-Image | UpdatedFeb 11 | [Link](https://huggingface.co/Limbicnation/pixel-art-lora) |
 | 1.07k | 6 | DFloat11/FLUX | Updated1 day ago | [Link](https://huggingface.co/DFloat11/FLUX.1-dev-DF11) |
 | 836 | 6 | Minthy/RouWei-0 | Updated3 days ago | [Link](https://huggingface.co/Minthy/RouWei-0.8) |
 | 169 | 6 | PosterCraft/PosterCraft-v1_RLText-to-Image | Updated2 days ago | [Link](https://huggingface.co/PosterCraft/PosterCraft-v1_RL) |
@@ -6226,6 +6231,7 @@ Updated on 2026-03-20
 | Updated3 days ago | 279 | sheliak/VibeVoice-Large_MirrorText-to-Speech | 9B | [Link](https://huggingface.co/sheliak/VibeVoice-Large_Mirror) |
 | Updated7 days ago | 278 | aoi-ot/VibeVoice-1 | 3B | [Link](https://huggingface.co/aoi-ot/VibeVoice-1.5B) |
 | 171 | 276 | amphion/MaskGCTText-to-Speech | UpdatedDec 22, 2024 | [Link](https://huggingface.co/amphion/MaskGCT) |
+| Updated3 days ago | 274 | herimor/voxtream2Text-to-Speech | 0.5B | [Link](https://huggingface.co/herimor/voxtream2) |
 | 1.5k | 272 | facebook/fastspeech2-en-ljspeechText-to-Speech | UpdatedJan 28, 2022 | [Link](https://huggingface.co/facebook/fastspeech2-en-ljspeech) |
 | 116k | 255 | myshell-ai/MeloTTS-EnglishText-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/MeloTTS-English) |
 | UpdatedSep 1, 2023 | 251 | facebook/mms-tts-hebText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-heb) |
@@ -6854,6 +6860,7 @@ Updated on 2026-03-20
 | 1 | Unknown | iedavidcastilloX/Candy_AIText-to-Video | UpdatedFeb 15, 2025 | [Link](https://huggingface.co/iedavidcastilloX/Candy_AI) |
 | 2 | Unknown | BestWishYsh/HeliosBench-WeightsText-to-Video | Updatedabout 17 hours ago | [Link](https://huggingface.co/BestWishYsh/HeliosBench-Weights) |
 | 2 | Unknown | jackyhate/HiARText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/jackyhate/HiAR) |
+| 2 | Unknown | Efficient-Large-Model/SANA-Video_2B_720p_diffusersText-to-Video | Updated5 days ago | [Link](https://huggingface.co/Efficient-Large-Model/SANA-Video_2B_720p_diffusers) |
 
 ## Text2Text Generation
 
