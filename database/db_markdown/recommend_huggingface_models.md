@@ -6715,6 +6715,7 @@ Updated on 2026-03-21
 | 31 | 2 | zulense/z1Text-to-Video | Updatedabout 23 hours ago | [Link](https://huggingface.co/zulense/z1) |
 | 8 | 2 | Harahan/QVGen-Wan-1_3B-W4A4Text-to-Video | Updatedabout 18 hours ago | [Link](https://huggingface.co/Harahan/QVGen-Wan-1_3B-W4A4) |
 | 6 | 2 | Efficient-Large-Model/SANA-Video_2B_720pText-to-Video | Updated1 day ago | [Link](https://huggingface.co/Efficient-Large-Model/SANA-Video_2B_720p) |
+| 12 | 2 | Alibaba-DAMO-Academy/LumosXText-to-Video | Updatedabout 4 hours ago | [Link](https://huggingface.co/Alibaba-DAMO-Academy/LumosX) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
