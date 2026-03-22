@@ -3202,6 +3202,7 @@ Updated on 2026-03-22
 | UpdatedJun 22, 2024 | 2 | mzbac/nougat-base-8bit-mlxImage-to-Text | 0.1B | [Link](https://huggingface.co/mzbac/nougat-base-8bit-mlx) |
 | Updatedabout 15 hours ago | 2 | Kansallisarkisto/cyrillic-large-stage1Image-to-Text | 0.6B | [Link](https://huggingface.co/Kansallisarkisto/cyrillic-large-stage1) |
 | 15 | 2 | Kansallisarkisto/estonian-large-handwrittenImage-to-Text | Updated3 days ago | [Link](https://huggingface.co/Kansallisarkisto/estonian-large-handwritten) |
+| 27 | 2 | Zhare-AI/janus-pro-7b-webgpuImage-to-Text | UpdatedSep 27, 2025 | [Link](https://huggingface.co/Zhare-AI/janus-pro-7b-webgpu) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
