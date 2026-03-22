@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-21
+Updated on 2026-03-22
 
 > Generated from the Hugging Face database.
 
