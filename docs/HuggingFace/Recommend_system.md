@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-22
+Updated on 2026-03-23
 
 > Generated from the Hugging Face database.
 
@@ -2853,6 +2853,8 @@ Updated on 2026-03-22
 | UpdatedAug 25 | 929 | shenasa/persian-image-captioningImage-to-Text | 0.2B | [Link](https://huggingface.co/shenasa/persian-image-captioning) |
 | UpdatedJan 20 | 893 | HuggingFaceTB/SmolVLM-500M-BaseImage-to-Text | 0.5B | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-500M-Base) |
 | Updated3 days ago | 858 | mlx-community/GLM-OCR-bf16Image-to-Text | 1B | [Link](https://huggingface.co/mlx-community/GLM-OCR-bf16) |
+| UpdatedFeb 2 | 834 | JEILDLWLRMA/Qwen3-VL-8B-Instruct-NVFP4Image-to-Text | 6B | [Link](https://huggingface.co/JEILDLWLRMA/Qwen3-VL-8B-Instruct-NVFP4) |
+| UpdatedFeb 3 | 814 | mlx-community/GLM-OCR-4bitImage-to-Text | 0.5B | [Link](https://huggingface.co/mlx-community/GLM-OCR-4bit) |
 | UpdatedSep 7, 2024 | 743 | antoniorv6/smt-grandstaffImage-to-Text | 21.4M | [Link](https://huggingface.co/antoniorv6/smt-grandstaff) |
 | Updated6 days ago | 699 | mlx-community/GLM-OCR-8bitImage-to-Text | 0.6B | [Link](https://huggingface.co/mlx-community/GLM-OCR-8bit) |
 | UpdatedApr 28 | 631 | Hyphonical/Pixtral-12B-Captioner-Relaxed-Q4_K_M-GGUFImage-to-Text | 12B | [Link](https://huggingface.co/Hyphonical/Pixtral-12B-Captioner-Relaxed-Q4_K_M-GGUF) |
@@ -2894,6 +2896,7 @@ Updated on 2026-03-22
 | Updatedabout 17 hours ago | 156 | allenai/olmOCR-2-7B-1025-FP8Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-2-7B-1025-FP8) |
 | Updated27 days ago | 154k | nvidia/Cosmos-Reason1-7BImage-to-Text | 8B | [Link](https://huggingface.co/nvidia/Cosmos-Reason1-7B) |
 | UpdatedMay 27 | 150 | songhieng/khmer-trocr-ocr-v1 | 0.4B | [Link](https://huggingface.co/songhieng/khmer-trocr-ocr-v1.0) |
+| UpdatedFeb 3 | 150 | mlx-community/GLM-OCR-6bitImage-to-Text | 0.6B | [Link](https://huggingface.co/mlx-community/GLM-OCR-6bit) |
 | UpdatedMar 25 | 145 | dh-unibe/trocr-kurrentImage-to-Text | 0.3B | [Link](https://huggingface.co/dh-unibe/trocr-kurrent) |
 | UpdatedMay 24 | 137 | unsloth/Cosmos-Reason1-7BImage-to-Text | 8B | [Link](https://huggingface.co/unsloth/Cosmos-Reason1-7B) |
 | UpdatedJul 22 | 135 | sugiv/cardvaultplus-500m-ggufImage-to-Text | 0.4B | [Link](https://huggingface.co/sugiv/cardvaultplus-500m-gguf) |
@@ -3258,6 +3261,9 @@ Updated on 2026-03-22
 | 356 | 1 | iordanissap/handwritten-greek-ocrImage-to-Text | Updated5 days ago | [Link](https://huggingface.co/iordanissap/handwritten-greek-ocr) |
 | 24 | 1 | Ligul/capriImage-to-Text | Updatedabout 23 hours ago | [Link](https://huggingface.co/Ligul/capri) |
 | 523 | 1 | PaddlePaddle/PP-FormulaNet_plus-MImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PP-FormulaNet_plus-M) |
+| 21 | 1 | langningchen/luogu-captcha-modelImage-to-Text | UpdatedOct 22, 2025 | [Link](https://huggingface.co/langningchen/luogu-captcha-model) |
+| 26 | 1 | Nagafi/moondream2-q4-onnxImage-to-Text | UpdatedJan 4 | [Link](https://huggingface.co/Nagafi/moondream2-q4-onnx) |
+| 34 | 1 | Ji-Ha/glm-ocr-onnxImage-to-Text | UpdatedFeb 10 | [Link](https://huggingface.co/Ji-Ha/glm-ocr-onnx) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -6422,6 +6428,7 @@ Updated on 2026-03-22
 | 58 | 4 | eduardem/xtts-v2-romanianText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/eduardem/xtts-v2-romanian) |
 | 60 | 4 | oddadmix/lahgtna-chatterbox-v0Text-to-Speech | Updatedabout 22 hours ago | [Link](https://huggingface.co/oddadmix/lahgtna-chatterbox-v0) |
 | Updatedabout 11 hours ago | 4 | rodrigomt/s2-pro-ggufText-to-Speech | 5B | [Link](https://huggingface.co/rodrigomt/s2-pro-gguf) |
+| 30 | 4 | oddadmix/lahgtna-chatterbox-v1Text-to-Speech | Updated5 days ago | [Link](https://huggingface.co/oddadmix/lahgtna-chatterbox-v1) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 1.22k | 3 | CONCREE/Adia_TTSText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/CONCREE/Adia_TTS) |
