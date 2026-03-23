@@ -2251,6 +2251,7 @@ Updated on 2026-03-23
 | Updatedabout 20 hours ago | 3 | ByteDance/Dolphin-v2Image-Text-to-Text | 4B | [Link](https://huggingface.co/ByteDance/Dolphin-v2) |
 | Updated1 day ago | 3.6k | unsloth/medgemma-1 | 4B | [Link](https://huggingface.co/unsloth/medgemma-1.5-4b-it-GGUF) |
 | Updated1 day ago | 3.05k | AudioVisual-Caption/ASID-Captioner-3BImage-Text-to-Text | 5B | [Link](https://huggingface.co/AudioVisual-Caption/ASID-Captioner-3B) |
+| Updatedabout 6 hours ago | 3.38k | LuffyTheFox/Qwen3 | 35B | [Link](https://huggingface.co/LuffyTheFox/Qwen3.5-35B-A3B-Uncensored-Kullback-Leibler) |
 | Updatedabout 7 hours ago | 2.63k | nvidia/Eagle2 | 8B | [Link](https://huggingface.co/nvidia/Eagle2.5-8B) |
 | Updatedabout 7 hours ago | 2 | internlm/Intern-S1-FP8Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1-FP8) |
 | Updated1 day ago | 2.26k | Qwen/Qwen3-VL-235B-A22B-InstructImage-Text-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct) |
