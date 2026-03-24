@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-23
+Updated on 2026-03-24
 
 > Generated from the Hugging Face database.
 
@@ -3207,6 +3207,7 @@ Updated on 2026-03-23
 | Updatedabout 15 hours ago | 2 | Kansallisarkisto/cyrillic-large-stage1Image-to-Text | 0.6B | [Link](https://huggingface.co/Kansallisarkisto/cyrillic-large-stage1) |
 | 15 | 2 | Kansallisarkisto/estonian-large-handwrittenImage-to-Text | Updated3 days ago | [Link](https://huggingface.co/Kansallisarkisto/estonian-large-handwritten) |
 | 27 | 2 | Zhare-AI/janus-pro-7b-webgpuImage-to-Text | UpdatedSep 27, 2025 | [Link](https://huggingface.co/Zhare-AI/janus-pro-7b-webgpu) |
+| 208k | 2 | PaddlePaddle/PP-LCNet_x1_0_textline_oriImage-to-Text | UpdatedAug 29, 2025 | [Link](https://huggingface.co/PaddlePaddle/PP-LCNet_x1_0_textline_ori) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -5324,6 +5325,7 @@ Updated on 2026-03-23
 | 10.7k | 15 | lmstudio-community/Magistral-Small-2506-GGUFText | Updated5 days ago | [Link](https://huggingface.co/lmstudio-community/Magistral-Small-2506-GGUF) |
 | 65 | 15 | ICONNAI/ICONN-e1Text | Updated3 days ago | [Link](https://huggingface.co/ICONNAI/ICONN-e1) |
 | 45 | 15 | cerebras/Qwen3-Coder-REAP-25B-A3BText | Updatedabout 19 hours ago | [Link](https://huggingface.co/cerebras/Qwen3-Coder-REAP-25B-A3B) |
+| Updated1 minute ago | 15 | meituan-longcat/LongCat-Flash-ProverText | 561B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Prover) |
 | 1k | 14 | unsloth/DeepSeek-R1-0528Text | Updated2 days ago | [Link](https://huggingface.co/unsloth/DeepSeek-R1-0528) |
 | 57 | 14 | katanemo/Arch-Agent-32BText | Updated3 days ago | [Link](https://huggingface.co/katanemo/Arch-Agent-32B) |
 | Updatedabout 11 hours ago | 14 | CohereLabs/command-a-translate-08-2025Text | 111B | [Link](https://huggingface.co/CohereLabs/command-a-translate-08-2025) |
@@ -6390,6 +6392,7 @@ Updated on 2026-03-23
 | Updated2 days ago | 6 | Aratako/MioTTS-1 | 2B | [Link](https://huggingface.co/Aratako/MioTTS-1.7B) |
 | 222 | 6 | bharatgenai/sooktam2Text-to-Speech | Updatedabout 6 hours ago | [Link](https://huggingface.co/bharatgenai/sooktam2) |
 | 10 | 6 | silma-ai/silma-ttsText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/silma-ai/silma-tts) |
+| Updatedabout 11 hours ago | 6 | Aratako/Irodori-TTS-500M-v2Text-to-Speech | 0.5B | [Link](https://huggingface.co/Aratako/Irodori-TTS-500M-v2) |
 | 87 | 5 | lunahr/csm-1b-safetensors-quantsText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-quants) |
 | 26 | 5 | 2121-8/canary-tts-0 | Updatedabout 19 hours ago | [Link](https://huggingface.co/2121-8/canary-tts-0.5b) |
 | 12 | 5 | MYZY-AI/Muyan-TTS-SFTText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/MYZY-AI/Muyan-TTS-SFT) |
