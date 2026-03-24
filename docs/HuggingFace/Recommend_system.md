@@ -2898,6 +2898,7 @@ Updated on 2026-03-24
 | Updated27 days ago | 154k | nvidia/Cosmos-Reason1-7BImage-to-Text | 8B | [Link](https://huggingface.co/nvidia/Cosmos-Reason1-7B) |
 | UpdatedMay 27 | 150 | songhieng/khmer-trocr-ocr-v1 | 0.4B | [Link](https://huggingface.co/songhieng/khmer-trocr-ocr-v1.0) |
 | UpdatedFeb 3 | 150 | mlx-community/GLM-OCR-6bitImage-to-Text | 0.6B | [Link](https://huggingface.co/mlx-community/GLM-OCR-6bit) |
+| Updated4 days ago | 146 | hquan21/ai-bike-pricingImage-to-Text | 0.2B | [Link](https://huggingface.co/hquan21/ai-bike-pricing) |
 | UpdatedMar 25 | 145 | dh-unibe/trocr-kurrentImage-to-Text | 0.3B | [Link](https://huggingface.co/dh-unibe/trocr-kurrent) |
 | UpdatedMay 24 | 137 | unsloth/Cosmos-Reason1-7BImage-to-Text | 8B | [Link](https://huggingface.co/unsloth/Cosmos-Reason1-7B) |
 | UpdatedJul 22 | 135 | sugiv/cardvaultplus-500m-ggufImage-to-Text | 0.4B | [Link](https://huggingface.co/sugiv/cardvaultplus-500m-gguf) |
@@ -4811,6 +4812,7 @@ Updated on 2026-03-24
 | Updated6 days ago | 630 | kakaocorp/kanana-2-30b-a3b-instructText | 31B | [Link](https://huggingface.co/kakaocorp/kanana-2-30b-a3b-instruct) |
 | Updated2 days ago | 628 | PrimeIntellect/INTELLECT-3-FP8Text | 107B | [Link](https://huggingface.co/PrimeIntellect/INTELLECT-3-FP8) |
 | Updatedabout 5 hours ago | 623 | NousResearch/nomos-1Text | 31B | [Link](https://huggingface.co/NousResearch/nomos-1) |
+| UpdatedJun 4, 2025 | 613 | AlicanKiraz0/Cybersecurity-BaronLLM_Offensive_Security_LLM_Q6_K_GGUFText | 8B | [Link](https://huggingface.co/AlicanKiraz0/Cybersecurity-BaronLLM_Offensive_Security_LLM_Q6_K_GGUF) |
 | Updated1 day ago | 608 | ArliAI/GLM-4 | 110B | [Link](https://huggingface.co/ArliAI/GLM-4.5-Air-Derestricted) |
 | Updated2 days ago | 605 | nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUFText | 4B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUF) |
 | Updated1 day ago | 580 | allenai/Olmo-3 | 32B | [Link](https://huggingface.co/allenai/Olmo-3.1-32B-Think) |
@@ -4820,6 +4822,7 @@ Updated on 2026-03-24
 | Updated3 days ago | 528 | huihui-ai/Huihui-Qwen3-Coder-Next-abliteratedText | 80B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3-Coder-Next-abliterated) |
 | Updated3 days ago | 528 | atbender/Qwen3 | 30B | [Link](https://huggingface.co/atbender/Qwen3.5-REAP-212B-A17B-W4A16) |
 | Updated4 days ago | 517 | ai21labs/AI21-Jamba2-3BText | 3B | [Link](https://huggingface.co/ai21labs/AI21-Jamba2-3B) |
+| Updated4 days ago | 489 | AlicanKiraz0/Kara-Kumru-v1 | 2B | [Link](https://huggingface.co/AlicanKiraz0/Kara-Kumru-v1.0-2B) |
 | 894k | 486 | deepseek-ai/DeepSeek-R1-Distill-Qwen-7BText | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B) |
 | Updated6 days ago | 480 | huihui-ai/Huihui-GLM-4 | 353B | [Link](https://huggingface.co/huihui-ai/Huihui-GLM-4.6-abliterated-mlx-4bit) |
 | Updatedabout 24 hours ago | 463 | PowerInfer/SmallThinker-4BA0 | 4B | [Link](https://huggingface.co/PowerInfer/SmallThinker-4BA0.6B-Instruct) |
@@ -5376,6 +5379,7 @@ Updated on 2026-03-24
 | Updated6 days ago | 5.06k | DreamFast/gemma-3-12b-it-hereticText | 12B | [Link](https://huggingface.co/DreamFast/gemma-3-12b-it-heretic) |
 | Updated4 days ago | 5.07k | ubergarm/Step-3 | 197B | [Link](https://huggingface.co/ubergarm/Step-3.5-Flash-GGUF) |
 | Updatedabout 17 hours ago | 5.07k | TeichAI/Qwen3-14B-Claude-4 | 15B | [Link](https://huggingface.co/TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF) |
+| Updated12 days ago | 5.65k | LEONW24/Qwen3 | 10B | [Link](https://huggingface.co/LEONW24/Qwen3.5-9B-Uncensored) |
 | Updatedabout 21 hours ago | 4.52k | unsloth/Devstral-Small-2507-GGUFText | 24B | [Link](https://huggingface.co/unsloth/Devstral-Small-2507-GGUF) |
 | Updatedabout 6 hours ago | 4 | baichuan-inc/Baichuan-M2-32BText | 33B | [Link](https://huggingface.co/baichuan-inc/Baichuan-M2-32B) |
 | UpdatedMay 14 | 4 | inclusionAI/Ling-lite-base-1 | 17B | [Link](https://huggingface.co/inclusionAI/Ling-lite-base-1.5) |
@@ -5980,6 +5984,7 @@ Updated on 2026-03-24
 | 46 | 4 | Sherwinroger002/fashion_mnist_diffusion_class_conditionalText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Sherwinroger002/fashion_mnist_diffusion_class_conditional) |
 | Updatedabout 1 hour ago | 4 | unsloth/Qwen-Image-2512-GGUFText-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-2512-GGUF) |
 | 634 | 4 | profpeng/blinkdoublepenetrationText-to-Image | Updated5 days ago | [Link](https://huggingface.co/profpeng/blinkdoublepenetration) |
+| 70 | 4 | Danrisi/Samsung_Qwen2512Text-to-Image | Updated1 day ago | [Link](https://huggingface.co/Danrisi/Samsung_Qwen2512) |
 | 2.56k | 3.84k | WarriorMama777/OrangeMixsText-to-Image | UpdatedJan 7, 2024 | [Link](https://huggingface.co/WarriorMama777/OrangeMixs) |
 | Updatedabout 2 hours ago | 3.74k | calcuis/qwen-image-ggufText-to-Image | 20B | [Link](https://huggingface.co/calcuis/qwen-image-gguf) |
 | 2 | 2.77k | CompVis/stable-diffusion-v-1-4-originalText-to-Image | UpdatedNov 9, 2022 | [Link](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original) |
