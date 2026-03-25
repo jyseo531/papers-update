@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-24
+Updated on 2026-03-25
 
 > Generated from the Hugging Face database.
 
@@ -5514,6 +5514,7 @@ Updated on 2026-03-24
 | Updatedabout 10 hours ago |  | zai-org/GLM-5Text | 754B | [Link](https://huggingface.co/zai-org/GLM-5) |
 | 40 | Unknown | DMindAI/DMind-3-nanoText | Updatedabout 19 hours ago | [Link](https://huggingface.co/DMindAI/DMind-3-nano) |
 | 51 | Unknown | Tesslate/OmniCoder-9BText | Updatedabout 5 hours ago | [Link](https://huggingface.co/Tesslate/OmniCoder-9B) |
+| 26 | Unknown | Tesslate/OmniCoder-2-9BText | Updatedabout 11 hours ago | [Link](https://huggingface.co/Tesslate/OmniCoder-2-9B) |
 
 ## Text Ranking
 
@@ -6270,6 +6271,7 @@ Updated on 2026-03-24
 | Updatedabout 14 hours ago | 131 | nineninesix/kani-tts-400m-enText-to-Speech | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-400m-en) |
 | 19.6k | 127 | onnx-community/Kokoro-82M-ONNXText-to-Speech | Updated17 days ago | [Link](https://huggingface.co/onnx-community/Kokoro-82M-ONNX) |
 | UpdatedJun 1 | 123 | keanteng/sesame-csm-eliseText-to-Speech | 2B | [Link](https://huggingface.co/keanteng/sesame-csm-elise) |
+| Updated4 days ago | 120 | mlx-community/fish-audio-s2-pro-8bitText-to-Speech | 1B | [Link](https://huggingface.co/mlx-community/fish-audio-s2-pro-8bit) |
 | Updated1 day ago | 115 | vibevoice/VibeVoice-1 | 3B | [Link](https://huggingface.co/vibevoice/VibeVoice-1.5B) |
 | Updatedabout 16 hours ago | 113 | syvai/plapre-nanoText-to-Speech | 0.3B | [Link](https://huggingface.co/syvai/plapre-nano) |
 | Updatedabout 22 hours ago | 110 | neuphonic/neutts-nano-frenchText-to-Speech | 0.2B | [Link](https://huggingface.co/neuphonic/neutts-nano-french) |
