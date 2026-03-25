@@ -2010,6 +2010,7 @@ Updated on 2026-03-25
 | Updatedabout 2 hours ago | 38 | unsloth/Qwen3 | 396B | [Link](https://huggingface.co/unsloth/Qwen3.5-397B-A17B-GGUF) |
 | 3.51k | 37 | HuggingFaceTB/SmolVLM2-500M-Video-InstructImage-Text-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM2-500M-Video-Instruct) |
 | Updated1 day ago | 37 | xlangai/OpenCUA-32BImage-Text-to-Text | 33B | [Link](https://huggingface.co/xlangai/OpenCUA-32B) |
+| Updated1 day ago | 36 | allenai/MolmoWeb-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/allenai/MolmoWeb-8B) |
 | 23 | 35 | google/gemma-3-27b-it-qat-q4_0-ggufImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-it-qat-q4_0-gguf) |
 | 1.51k | 35 | unsloth/Llama-4-Scout-17B-16E-Instruct-unsloth-bnb-4bitImage-Text-to-Text | Updatedabout 2 hours ago | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct-unsloth-bnb-4bit) |
 | 810 | 35 | fancyfeast/llama-joycaption-beta-one-hf-llavaImage-Text-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/fancyfeast/llama-joycaption-beta-one-hf-llava) |
@@ -2956,6 +2957,7 @@ Updated on 2026-03-25
 | UpdatedJul 5 | 43 | QuickHawk/trocr-indicImage-to-Text | 0.3B | [Link](https://huggingface.co/QuickHawk/trocr-indic) |
 | UpdatedMay 18, 2024 | 41 | moranyanuka/blip-image-captioning-large-mochaImage-to-Text | 0.5B | [Link](https://huggingface.co/moranyanuka/blip-image-captioning-large-mocha) |
 | Updated2 days ago | 41 | clquwu/Clarity-OMRImage-to-Text | 0.2B | [Link](https://huggingface.co/clquwu/Clarity-OMR) |
+| Updatedabout 8 hours ago | 41 | opendatalab/MinerU-Diffusion-V1-0320-2 | 3B | [Link](https://huggingface.co/opendatalab/MinerU-Diffusion-V1-0320-2.5B) |
 | 246 | 40 | selvakumarcts/sk_invoice_receiptsImage-to-Text | UpdatedOct 20, 2023 | [Link](https://huggingface.co/selvakumarcts/sk_invoice_receipts) |
 | Updated16 days ago | 40 | JEILDLWLRMA/Qwen3-VL-4B-Instruct-NVFP4Image-to-Text | 3B | [Link](https://huggingface.co/JEILDLWLRMA/Qwen3-VL-4B-Instruct-NVFP4) |
 | 573 | 39 | katanaml-org/invoices-donut-model-v1Image-to-Text | UpdatedMay 11, 2023 | [Link](https://huggingface.co/katanaml-org/invoices-donut-model-v1) |
@@ -3337,6 +3339,7 @@ Updated on 2026-03-25
 | 1 | Unknown | aoiandroid/glm-ocr-onnxImage-to-Text | Updated24 days ago | [Link](https://huggingface.co/aoiandroid/glm-ocr-onnx) |
 | 2 | Unknown | DAIR-Group/HTR-ConvTextImage-to-Text | UpdatedDec 17, 2025 | [Link](https://huggingface.co/DAIR-Group/HTR-ConvText) |
 | 1 | Unknown | sameenarshad786/llava-1 | UpdatedSep 20, 2025 | [Link](https://huggingface.co/sameenarshad786/llava-1.5-health-safety-captioning) |
+| 1 | Unknown | raykuo188/vlm-ssm-vision-encoders-checkpointsImage-to-Text | Updatedabout 18 hours ago | [Link](https://huggingface.co/raykuo188/vlm-ssm-vision-encoders-checkpoints) |
 
 ## Image-to-Video
 
@@ -5447,6 +5450,7 @@ Updated on 2026-03-25
 | Updatedabout 4 hours ago | 1.83k | stepfun-ai/Step-3 | 199B | [Link](https://huggingface.co/stepfun-ai/Step-3.5-Flash) |
 | Updated3 days ago | 1.74k | lukey03/Qwen3 | 9B | [Link](https://huggingface.co/lukey03/Qwen3.5-9B-abliterated) |
 | Updated13 days ago | 1.66k | bharatgenai/Param2-17B-A2 | 17B | [Link](https://huggingface.co/bharatgenai/Param2-17B-A2.4B-Thinking) |
+| Updatedabout 16 hours ago | 1.88k | ai-sage/GigaChat3 | 11B | [Link](https://huggingface.co/ai-sage/GigaChat3.1-10B-A1.8B-GGUF) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -5981,11 +5985,13 @@ Updated on 2026-03-25
 | 50 | 5 | ostris/sketch_to_image_klein_4bText-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/ostris/sketch_to_image_klein_4b) |
 | 158 | 5 | burnerbaby/hmfemme-realistic-1girl-lora-for-qwenText-to-Image | UpdatedNov 18, 2025 | [Link](https://huggingface.co/burnerbaby/hmfemme-realistic-1girl-lora-for-qwen) |
 | 9 | 5 | Poralus/Poralus-Image-1357Text-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/Poralus/Poralus-Image-1357) |
+| 58 | 5 | PixelSmile/PixelSmileText-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/PixelSmile/PixelSmile) |
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 46 | 4 | Sherwinroger002/fashion_mnist_diffusion_class_conditionalText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Sherwinroger002/fashion_mnist_diffusion_class_conditional) |
 | Updatedabout 1 hour ago | 4 | unsloth/Qwen-Image-2512-GGUFText-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-2512-GGUF) |
 | 634 | 4 | profpeng/blinkdoublepenetrationText-to-Image | Updated5 days ago | [Link](https://huggingface.co/profpeng/blinkdoublepenetration) |
 | 70 | 4 | Danrisi/Samsung_Qwen2512Text-to-Image | Updated1 day ago | [Link](https://huggingface.co/Danrisi/Samsung_Qwen2512) |
+| 193 | 4 | Danrisi/Nicegirls_qwen2512Text-to-Image | Updated3 days ago | [Link](https://huggingface.co/Danrisi/Nicegirls_qwen2512) |
 | 2.56k | 3.84k | WarriorMama777/OrangeMixsText-to-Image | UpdatedJan 7, 2024 | [Link](https://huggingface.co/WarriorMama777/OrangeMixs) |
 | Updatedabout 2 hours ago | 3.74k | calcuis/qwen-image-ggufText-to-Image | 20B | [Link](https://huggingface.co/calcuis/qwen-image-gguf) |
 | 2 | 2.77k | CompVis/stable-diffusion-v-1-4-originalText-to-Image | UpdatedNov 9, 2022 | [Link](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original) |
@@ -6670,6 +6676,9 @@ Updated on 2026-03-25
 | 109 | 4 | Remade-AI/FireText-to-Video | UpdatedMar 20 | [Link](https://huggingface.co/Remade-AI/Fire) |
 | 60 | 4 | Warvito/animatediff-motion-adapter-sdxl-v1-0-betaText-to-Video | UpdatedMar 15, 2024 | [Link](https://huggingface.co/Warvito/animatediff-motion-adapter-sdxl-v1-0-beta) |
 | 270 | 4 | BestWishYsh/Helios-DistilledText-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/BestWishYsh/Helios-Distilled) |
+| 11 | 4 | kairos-agi/kairos-sensenova-4B-720PText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/kairos-agi/kairos-sensenova-4B-720P) |
+| 13 | 4 | kairos-agi/kairos-sensenova-robot-4B-480P-distilledText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/kairos-agi/kairos-sensenova-robot-4B-480P-distilled) |
+| 31 | 4 | kairos-agi/kairos-sensenova-robotText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/kairos-agi/kairos-sensenova-robot) |
 | 4.64k | 3 | guoyww/animatediff-motion-lora-pan-rightText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-pan-right) |
 | 28 | 3 | finetrainers/3dgs-v0Text-to-Video | UpdatedJan 29 | [Link](https://huggingface.co/finetrainers/3dgs-v0) |
 | 1 | 3 | longlian/text-to-video-lvd-msText-to-Video | UpdatedMay 1, 2024 | [Link](https://huggingface.co/longlian/text-to-video-lvd-ms) |
@@ -6881,6 +6890,8 @@ Updated on 2026-03-25
 | 2 | Unknown | BestWishYsh/HeliosBench-WeightsText-to-Video | Updatedabout 17 hours ago | [Link](https://huggingface.co/BestWishYsh/HeliosBench-Weights) |
 | 2 | Unknown | jackyhate/HiARText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/jackyhate/HiAR) |
 | 2 | Unknown | Efficient-Large-Model/SANA-Video_2B_720p_diffusersText-to-Video | Updated5 days ago | [Link](https://huggingface.co/Efficient-Large-Model/SANA-Video_2B_720p_diffusers) |
+| 4 | Unknown | kairos-agi/kairos-sensenova-robot-4B-480PText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/kairos-agi/kairos-sensenova-robot-4B-480P) |
+| 3 | Unknown | kairos-agi/kairos-sensenova-4B-480P-pretrainedText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/kairos-agi/kairos-sensenova-4B-480P-pretrained) |
 
 ## Text2Text Generation
 
