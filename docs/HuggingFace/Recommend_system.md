@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-25
+Updated on 2026-03-26
 
 > Generated from the Hugging Face database.
 
@@ -92,6 +92,7 @@ Updated on 2026-03-25
 | UpdatedMar 28 | 35 | allura-org/Gemma-3-Glitter-12BAny-to-Any | 12B | [Link](https://huggingface.co/allura-org/Gemma-3-Glitter-12B) |
 | 94 | 34 | EPFL-VILAB/4M-21_XLAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-21_XL) |
 | Updated1 day ago | 31 | sensenova/InteractiveOmni-4BAny-to-Any | 6B | [Link](https://huggingface.co/sensenova/InteractiveOmni-4B) |
+| Updatedabout 10 hours ago | 30 | meituan-longcat/LongCat-NextAny-to-Any | 74B | [Link](https://huggingface.co/meituan-longcat/LongCat-Next) |
 | Updated14 days ago | 29 | multimodal-reasoning-lab/Anole-Zebra-CoTAny-to-Any | 7B | [Link](https://huggingface.co/multimodal-reasoning-lab/Anole-Zebra-CoT) |
 | Updated4 days ago | 29 | PaDT-MLLM/PaDT_Pro_7BAny-to-Any | 8B | [Link](https://huggingface.co/PaDT-MLLM/PaDT_Pro_7B) |
 | UpdatedMar 13, 2025 | 27 | ericrisco/gemma-3-4b-reasoningAny-to-Any | 4B | [Link](https://huggingface.co/ericrisco/gemma-3-4b-reasoning) |
@@ -2846,6 +2847,7 @@ Updated on 2026-03-25
 | 7 | Unknown | fal/virtual-tryoff-loraImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/fal/virtual-tryoff-lora) |
 | 7 | Unknown | internlm/EndoCoTImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/internlm/EndoCoT) |
 | 6 | Unknown | vaskers5/LUA-FLUXImage-to-Image | Updated5 days ago | [Link](https://huggingface.co/vaskers5/LUA-FLUX) |
+| 58 |  | PixelSmile/PixelSmileImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/PixelSmile/PixelSmile) |
 
 ## Image-to-Text
 
@@ -4954,6 +4956,7 @@ Updated on 2026-03-25
 | 27.1k | 89 | google/gemma-3n-E4B-it-litert-lmText | Updated12 days ago | [Link](https://huggingface.co/google/gemma-3n-E4B-it-litert-lm) |
 | Updated3 days ago | 89 | Salesforce/CoDA-v0-InstructText | 2B | [Link](https://huggingface.co/Salesforce/CoDA-v0-Instruct) |
 | 420 | 88 | all-hands/openhands-lm-32b-v0 | Updatedabout 16 hours ago | [Link](https://huggingface.co/all-hands/openhands-lm-32b-v0.1) |
+| UpdatedDec 2, 2025 | 88.4k | RedHatAI/Qwen3-8B-speculator | 1B | [Link](https://huggingface.co/RedHatAI/Qwen3-8B-speculator.eagle3) |
 | 3.93k | 86 | PocketDoc/Dans-PersonalityEngine-V1 | Updated24 days ago | [Link](https://huggingface.co/PocketDoc/Dans-PersonalityEngine-V1.2.0-24b) |
 | Updatedabout 18 hours ago | 86 | Tesslate/WEBGEN-OSS-20BText | 21B | [Link](https://huggingface.co/Tesslate/WEBGEN-OSS-20B) |
 | Updated6 days ago | 85 | AI-MO/Kimina-Prover-72BText | 73B | [Link](https://huggingface.co/AI-MO/Kimina-Prover-72B) |
@@ -5986,6 +5989,8 @@ Updated on 2026-03-25
 | 158 | 5 | burnerbaby/hmfemme-realistic-1girl-lora-for-qwenText-to-Image | UpdatedNov 18, 2025 | [Link](https://huggingface.co/burnerbaby/hmfemme-realistic-1girl-lora-for-qwen) |
 | 9 | 5 | Poralus/Poralus-Image-1357Text-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/Poralus/Poralus-Image-1357) |
 | 58 | 5 | PixelSmile/PixelSmileText-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/PixelSmile/PixelSmile) |
+|  | 5 | alvdansen/illustration-1 | Updated2 days ago | [Link](https://huggingface.co/alvdansen/illustration-1.0-flux-dev) |
+| Updatedabout 15 hours ago | 5 | moving-j/HyperCLOVAX-SEED-Omni-8B-VGText-to-Image | 10B | [Link](https://huggingface.co/moving-j/HyperCLOVAX-SEED-Omni-8B-VG) |
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 46 | 4 | Sherwinroger002/fashion_mnist_diffusion_class_conditionalText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Sherwinroger002/fashion_mnist_diffusion_class_conditional) |
 | Updatedabout 1 hour ago | 4 | unsloth/Qwen-Image-2512-GGUFText-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-2512-GGUF) |
