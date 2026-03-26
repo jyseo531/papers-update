@@ -8,6 +8,7 @@ Updated on 2026-03-26
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
 | 617k | 999 | openbmb/MiniCPM-o-2_6Any-to-Any | Updated5 days ago | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6) |
+| UpdatedSep 29, 2025 | 860 | cyankiwi/Qwen3-Omni-30B-A3B-Instruct-AWQ-8bitAny-to-Any | 14B | [Link](https://huggingface.co/cyankiwi/Qwen3-Omni-30B-A3B-Instruct-AWQ-8bit) |
 | UpdatedSep 28, 2025 | 832 | cyankiwi/Qwen3-Omni-30B-A3B-Thinking-AWQ-4bitAny-to-Any | 6B | [Link](https://huggingface.co/cyankiwi/Qwen3-Omni-30B-A3B-Thinking-AWQ-4bit) |
 | UpdatedJun 9 | 806 | RedHatAI/gemma-3-4b-it-quantized | 2B | [Link](https://huggingface.co/RedHatAI/gemma-3-4b-it-quantized.w4a16) |
 | Updated9 minutes ago | 806 | snu-aidas/Dynin-OmniAny-to-Any | 8B | [Link](https://huggingface.co/snu-aidas/Dynin-Omni) |
@@ -2880,6 +2881,7 @@ Updated on 2026-03-26
 | Updated9 days ago | 424 | InternScience/StructTable-InternVL2-1BImage-to-Text | 0.9B | [Link](https://huggingface.co/InternScience/StructTable-InternVL2-1B) |
 | UpdatedJan 29 | 335 | StanfordAIMI/CheXagent-2-3b-srrg-findingsImage-to-Text | 3B | [Link](https://huggingface.co/StanfordAIMI/CheXagent-2-3b-srrg-findings) |
 | UpdatedJul 18 | 323 | loay/ArabicOCR-Qwen2 | 8B | [Link](https://huggingface.co/loay/ArabicOCR-Qwen2.5-VL-7B-Vision) |
+| UpdatedFeb 23 | 313 | mradermacher/PaddleOCR-VL-0 | 0.5B | [Link](https://huggingface.co/mradermacher/PaddleOCR-VL-0.9B-GGUF) |
 | Updatedabout 1 month ago | 274 | ZihCiLin/trocr-traditional-chinese-baselineImage-to-Text | 0.3B | [Link](https://huggingface.co/ZihCiLin/trocr-traditional-chinese-baseline) |
 | UpdatedNov 15, 2024 | 242 | TIGER-Lab/Mantis-8B-Idefics2Image-to-Text | 8B | [Link](https://huggingface.co/TIGER-Lab/Mantis-8B-Idefics2) |
 | UpdatedMar 8 | 234 | convergence-ai/proxy-lite-3bImage-to-Text | 4B | [Link](https://huggingface.co/convergence-ai/proxy-lite-3b) |
@@ -5251,6 +5253,7 @@ Updated on 2026-03-26
 | Updatedabout 23 hours ago | 22 | Qwen/Qwen3-Coder-Next-BaseText | 80B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-Next-Base) |
 | Updated26 days ago | 22.1k | BennyDaBall/Qwen3-4b-Z-Image-Engineer-V4Text | 4B | [Link](https://huggingface.co/BennyDaBall/Qwen3-4b-Z-Image-Engineer-V4) |
 | Updatedabout 10 hours ago | 22 | nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16Text | 124B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16) |
+| Updatedabout 2 hours ago | 22 | nvidia/gpt-oss-puzzle-88BText | 91B | [Link](https://huggingface.co/nvidia/gpt-oss-puzzle-88B) |
 | 34 | 21 | ai21labs/AI21-Jamba-Mini-1 | Updatedabout 13 hours ago | [Link](https://huggingface.co/ai21labs/AI21-Jamba-Mini-1.6) |
 | 7.93k | 21 | lmstudio-community/Llama-4-Scout-17B-16E-Instruct-GGUFText | Updated1 day ago | [Link](https://huggingface.co/lmstudio-community/Llama-4-Scout-17B-16E-Instruct-GGUF) |
 | 275 | 21 | ServiceNow-AI/Apriel-5B-InstructText | Updated3 days ago | [Link](https://huggingface.co/ServiceNow-AI/Apriel-5B-Instruct) |
@@ -6897,6 +6900,7 @@ Updated on 2026-03-26
 | 2 | Unknown | Efficient-Large-Model/SANA-Video_2B_720p_diffusersText-to-Video | Updated5 days ago | [Link](https://huggingface.co/Efficient-Large-Model/SANA-Video_2B_720p_diffusers) |
 | 4 | Unknown | kairos-agi/kairos-sensenova-robot-4B-480PText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/kairos-agi/kairos-sensenova-robot-4B-480P) |
 | 3 | Unknown | kairos-agi/kairos-sensenova-4B-480P-pretrainedText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/kairos-agi/kairos-sensenova-4B-480P-pretrained) |
+| 2 | Unknown | SanDiegoDude/daVinci-MagiHuman-FP8Text-to-Video | Updatedabout 16 hours ago | [Link](https://huggingface.co/SanDiegoDude/daVinci-MagiHuman-FP8) |
 
 ## Text2Text Generation
 
