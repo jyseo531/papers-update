@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-26
+Updated on 2026-03-27
 
 > Generated from the Hugging Face database.
 
@@ -5274,6 +5274,7 @@ Updated on 2026-03-26
 | 227 | 20 | ByteDance/Ouro-2 | Updated1 day ago | [Link](https://huggingface.co/ByteDance/Ouro-2.6B) |
 | Updatedabout 15 hours ago | 20 | miromind-ai/MiroThinker-v1 | 73B | [Link](https://huggingface.co/miromind-ai/MiroThinker-v1.0-72B) |
 | 32 | 20 | nvidia/gpt-oss-120b-Eagle3-throughputText | Updated4 days ago | [Link](https://huggingface.co/nvidia/gpt-oss-120b-Eagle3-throughput) |
+| Updated3 days ago | 20 | zed-industries/zeta-2Text | 8B | [Link](https://huggingface.co/zed-industries/zeta-2) |
 | 14.1k | 19 | alamios/Mistral-Small-3 | Updated10 days ago | [Link](https://huggingface.co/alamios/Mistral-Small-3.1-DRAFT-0.5B) |
 | 358 | 19 | all-hands/openhands-lm-7b-v0 | Updated1 day ago | [Link](https://huggingface.co/all-hands/openhands-lm-7b-v0.1) |
 | 105 | 19 | nvidia/OpenCodeReasoning-Nemotron-32B-IOIText | Updated6 days ago | [Link](https://huggingface.co/nvidia/OpenCodeReasoning-Nemotron-32B-IOI) |
@@ -6270,6 +6271,7 @@ Updated on 2026-03-26
 | Updated5 days ago | 237 | neuphonic/neutts-nano-german-q4-ggufText-to-Speech | 0.2B | [Link](https://huggingface.co/neuphonic/neutts-nano-german-q4-gguf) |
 | Updatedabout 9 hours ago | 216 | microsoft/VibeVoice-1 | 3B | [Link](https://huggingface.co/microsoft/VibeVoice-1.5B) |
 | Updatedabout 4 hours ago | 214 | neuphonic/neutts-nanoText-to-Speech | 0.3B | [Link](https://huggingface.co/neuphonic/neutts-nano) |
+| 108 | 202 | mistralai/Voxtral-4B-TTS-2603Text-to-Speech | Updatedabout 11 hours ago | [Link](https://huggingface.co/mistralai/Voxtral-4B-TTS-2603) |
 | Updated6 days ago | 197 | neuphonic/neutts-nano-german-q8-ggufText-to-Speech | 0.2B | [Link](https://huggingface.co/neuphonic/neutts-nano-german-q8-gguf) |
 | 27.5k | 194 | suno/bark-smallText-to-Speech | UpdatedNov 10, 2023 | [Link](https://huggingface.co/suno/bark-small) |
 | Updatedabout 16 hours ago | 187 | mlx-community/fish-audio-s2-pro-bf16Text-to-Speech | 5B | [Link](https://huggingface.co/mlx-community/fish-audio-s2-pro-bf16) |
