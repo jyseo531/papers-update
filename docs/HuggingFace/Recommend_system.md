@@ -1864,6 +1864,7 @@ Updated on 2026-03-27
 | Updated14 days ago | 681 | ByteDance/Dolphin-1 | 0.4B | [Link](https://huggingface.co/ByteDance/Dolphin-1.5) |
 | Updatedabout 5 hours ago | 626 | tencent/HunyuanOCRImage-Text-to-Text | 1.0B | [Link](https://huggingface.co/tencent/HunyuanOCR) |
 | Updated3 days ago | 618 | p-e-w/gemma-3-12b-it-hereticImage-Text-to-Text | 12B | [Link](https://huggingface.co/p-e-w/gemma-3-12b-it-heretic) |
+| Updated3 days ago | 618 | allenai/MolmoWeb-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/allenai/MolmoWeb-4B) |
 |  | 615 | mistralai/Pixtral-12B-2409Image-Text-to-Text | UpdatedDec 26, 2024 | [Link](https://huggingface.co/mistralai/Pixtral-12B-2409) |
 | Updatedabout 12 hours ago | 598 | deepcogito/cogito-v2-preview-llama-109B-MoEImage-Text-to-Text | 109B | [Link](https://huggingface.co/deepcogito/cogito-v2-preview-llama-109B-MoE) |
 | Updated6 days ago | 583 | Qwen/Qwen3-VL-235B-A22B-Instruct-GGUFImage-Text-to-Text | 235B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct-GGUF) |
@@ -2890,6 +2891,7 @@ Updated on 2026-03-27
 | Updated14 days ago | 217 | sugam24/dots-ocr-awq-4bitImage-to-Text | 0.8B | [Link](https://huggingface.co/sugam24/dots-ocr-awq-4bit) |
 | 7.46k | 213 | xtuner/llava-llama-3-8b-v1_1-ggufImage-to-Text | UpdatedApr 30, 2024 | [Link](https://huggingface.co/xtuner/llava-llama-3-8b-v1_1-gguf) |
 | UpdatedMay 22, 2025 | 208k | meta-llama/Llama-4-Scout-17B-16E-InstructImage-to-Text | 109B | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct) |
+| UpdatedNov 7, 2025 | 200 | noctrex/Chandra-OCR-i1-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/noctrex/Chandra-OCR-i1-GGUF) |
 | UpdatedMar 5 | 180 | r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUF) |
 | Updated6 days ago | 177 | thesby/Qwen3-VL-8B-NSFW-Caption-V4 | 9B | [Link](https://huggingface.co/thesby/Qwen3-VL-8B-NSFW-Caption-V4.5) |
 | Updated4 days ago | 175 | EZCon/GLM-OCR-4bit-g32-mxfp4-mixed_4_8-mlxImage-to-Text | 0.6B | [Link](https://huggingface.co/EZCon/GLM-OCR-4bit-g32-mxfp4-mixed_4_8-mlx) |
