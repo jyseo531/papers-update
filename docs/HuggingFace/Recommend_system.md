@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-27
+Updated on 2026-03-28
 
 > Generated from the Hugging Face database.
 
@@ -5848,6 +5848,7 @@ Updated on 2026-03-27
 | 17.9k | 43 | Disty0/Z-Image-Turbo-SDNQ-uint4-svd-r32Text-to-Image | Updated5 days ago | [Link](https://huggingface.co/Disty0/Z-Image-Turbo-SDNQ-uint4-svd-r32) |
 | 2.23k | 42 | aoxo/flux | Updatedabout 2 hours ago | [Link](https://huggingface.co/aoxo/flux.1dev-abliteratedv2) |
 | 1.18k | 40 | tencent/SRPOText-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/tencent/SRPO) |
+| Updated1 day ago | 37 | wikeeyang/Flux2-Klein-9B-True-V2Text-to-Image | 9B | [Link](https://huggingface.co/wikeeyang/Flux2-Klein-9B-True-V2) |
 | 5.59k | 33 | hashu786/HYVRewardText-to-Image | Updated5 days ago | [Link](https://huggingface.co/hashu786/HYVReward) |
 | 2.49k | 33 | Heartsync/NSFW-UncensoredText-to-Image | Updated7 days ago | [Link](https://huggingface.co/Heartsync/NSFW-Uncensored) |
 | 1.59k | 29 | nunchaku-tech/nunchaku-z-image-turboText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-z-image-turbo) |
@@ -5873,6 +5874,7 @@ Updated on 2026-03-27
 | 8 | 14 | mikeyandfriends/PixelWave_FLUX | Updated1 day ago | [Link](https://huggingface.co/mikeyandfriends/PixelWave_FLUX.1-schnell_04) |
 | 2.23k | 14 | mingyi456/Z-Image-Turbo-DF11-ComfyUIText-to-Image | Updated16 days ago | [Link](https://huggingface.co/mingyi456/Z-Image-Turbo-DF11-ComfyUI) |
 | 9 | 14 | Applesay123456/REDland_Aesthetic_FLUX | UpdatedNov 24 | [Link](https://huggingface.co/Applesay123456/REDland_Aesthetic_FLUX.1_v1) |
+| 109 | 14 | AiArtLab/sdxs-1bText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/AiArtLab/sdxs-1b) |
 |  | 13 | aaronaftab/mirage-ghibliText-to-Image | Updatedabout 14 hours ago | [Link](https://huggingface.co/aaronaftab/mirage-ghibli) |
 | 4 | 13 | fumeisama/drawatoon-v1Text-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/fumeisama/drawatoon-v1) |
 | 2.1k | 13 | city96/HiDream-I1-Full-ggufText-to-Image | Updated1 day ago | [Link](https://huggingface.co/city96/HiDream-I1-Full-gguf) |
@@ -6607,6 +6609,7 @@ Updated on 2026-03-27
 | 4 | Unknown | PatnaikAshish/kokocloneText-to-Speech | Updatedabout 5 hours ago | [Link](https://huggingface.co/PatnaikAshish/kokoclone) |
 | 8 | Unknown | HumeAI/tada-codecText-to-Speech | Updatedabout 2 hours ago | [Link](https://huggingface.co/HumeAI/tada-codec) |
 | 25 | Unknown | WarriorMama777/GLaDOS_TTSText-to-Speech | UpdatedMay 7, 2024 | [Link](https://huggingface.co/WarriorMama777/GLaDOS_TTS) |
+| 4 | Unknown | HumeAI/mlx-tada-3bText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/HumeAI/mlx-tada-3b) |
 
 ## Text-to-Video
 
