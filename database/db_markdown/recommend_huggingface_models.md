@@ -300,6 +300,7 @@ Updated on 2026-03-28
 | 2 | Unknown | mythicgames/MAI-M4-Coder-FastAny-to-Any | Updatedabout 7 hours ago | [Link](https://huggingface.co/mythicgames/MAI-M4-Coder-Fast) |
 | 1 | Unknown | kr-cen/Qwen-Image-MICoAny-to-Any | Updatedabout 15 hours ago | [Link](https://huggingface.co/kr-cen/Qwen-Image-MICo) |
 | 2 | Unknown | Lightricks/LTX-2 | Updatedabout 10 hours ago | [Link](https://huggingface.co/Lightricks/LTX-2.3-22b-IC-LoRA-Union-Control) |
+| 1 | Unknown | bartendr604/Omni | Updated1 day ago | [Link](https://huggingface.co/bartendr604/Omni.Llammy.Blend) |
 
 ## Audio Classification
 
