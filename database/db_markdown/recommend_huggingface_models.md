@@ -301,6 +301,7 @@ Updated on 2026-03-29
 | 1 | Unknown | kr-cen/Qwen-Image-MICoAny-to-Any | Updatedabout 15 hours ago | [Link](https://huggingface.co/kr-cen/Qwen-Image-MICo) |
 | 2 | Unknown | Lightricks/LTX-2 | Updatedabout 10 hours ago | [Link](https://huggingface.co/Lightricks/LTX-2.3-22b-IC-LoRA-Union-Control) |
 | 1 | Unknown | bartendr604/Omni | Updated1 day ago | [Link](https://huggingface.co/bartendr604/Omni.Llammy.Blend) |
+| 1 | Unknown | bartendr604/LlammyAny-to-Any | Updated2 days ago | [Link](https://huggingface.co/bartendr604/Llammy) |
 
 ## Audio Classification
 
@@ -6239,6 +6240,7 @@ Updated on 2026-03-29
 | 38.8k | 991 | Zyphra/Zonos-v0 | Updated10 days ago | [Link](https://huggingface.co/Zyphra/Zonos-v0.1-hybrid) |
 | Updated1 day ago | 920 | neuphonic/neutts-nano-q8-ggufText-to-Speech | 0.3B | [Link](https://huggingface.co/neuphonic/neutts-nano-q8-gguf) |
 | 1.09M | 916 | SWivid/F5-TTSText-to-Speech | UpdatedNov 8, 2024 | [Link](https://huggingface.co/SWivid/F5-TTS) |
+| Updated2 days ago | 863 | mlx-community/Voxtral-4B-TTS-2603-mlx-4bitText-to-Speech | 0.8B | [Link](https://huggingface.co/mlx-community/Voxtral-4B-TTS-2603-mlx-4bit) |
 | 1.16k | 785 | metavoiceio/metavoice-1B-v0 | UpdatedApr 3, 2024 | [Link](https://huggingface.co/metavoiceio/metavoice-1B-v0.1) |
 | UpdatedSep 1, 2023 | 775 | facebook/mms-tts-telText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-tel) |
 | 155k | 733 | microsoft/speecht5_ttsText-to-Speech | UpdatedNov 8, 2023 | [Link](https://huggingface.co/microsoft/speecht5_tts) |
@@ -6911,6 +6913,7 @@ Updated on 2026-03-29
 | 4 | Unknown | kairos-agi/kairos-sensenova-robot-4B-480PText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/kairos-agi/kairos-sensenova-robot-4B-480P) |
 | 3 | Unknown | kairos-agi/kairos-sensenova-4B-480P-pretrainedText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/kairos-agi/kairos-sensenova-4B-480P-pretrained) |
 | 2 | Unknown | SanDiegoDude/daVinci-MagiHuman-FP8Text-to-Video | Updatedabout 16 hours ago | [Link](https://huggingface.co/SanDiegoDude/daVinci-MagiHuman-FP8) |
+| 4 | Unknown | dx8152/LTX2 | Updatedabout 4 hours ago | [Link](https://huggingface.co/dx8152/LTX2.3-Multifunctional) |
 
 ## Text2Text Generation
 
