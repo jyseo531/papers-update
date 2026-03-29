@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-28
+Updated on 2026-03-29
 
 > Generated from the Hugging Face database.
 
@@ -2851,6 +2851,7 @@ Updated on 2026-03-28
 | 7 | Unknown | internlm/EndoCoTImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/internlm/EndoCoT) |
 | 6 | Unknown | vaskers5/LUA-FLUXImage-to-Image | Updated5 days ago | [Link](https://huggingface.co/vaskers5/LUA-FLUX) |
 | 58 |  | PixelSmile/PixelSmileImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/PixelSmile/PixelSmile) |
+| 5 | Unknown | Kristen-Z/MegaFlowImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/Kristen-Z/MegaFlow) |
 
 ## Image-to-Text
 
@@ -4825,6 +4826,7 @@ Updated on 2026-03-28
 | UpdatedJun 4, 2025 | 613 | AlicanKiraz0/Cybersecurity-BaronLLM_Offensive_Security_LLM_Q6_K_GGUFText | 8B | [Link](https://huggingface.co/AlicanKiraz0/Cybersecurity-BaronLLM_Offensive_Security_LLM_Q6_K_GGUF) |
 | Updated1 day ago | 608 | ArliAI/GLM-4 | 110B | [Link](https://huggingface.co/ArliAI/GLM-4.5-Air-Derestricted) |
 | Updated2 days ago | 605 | nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUFText | 4B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUF) |
+| Updated1 day ago | 594 | bigatuna/Qwen3 | 9B | [Link](https://huggingface.co/bigatuna/Qwen3.5-9b-Sushi-Coder-RL-GGUF) |
 | Updated1 day ago | 580 | allenai/Olmo-3 | 32B | [Link](https://huggingface.co/allenai/Olmo-3.1-32B-Think) |
 | Updatedabout 4 hours ago | 570 | MiniMaxAI/MiniMax-M2Text | 229B | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M2) |
 |  | 565 | deepseek-ai/DeepSeek-R1-0528Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528) |
