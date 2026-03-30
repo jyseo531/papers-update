@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-29
+Updated on 2026-03-30
 
 > Generated from the Hugging Face database.
 
@@ -5464,6 +5464,7 @@ Updated on 2026-03-29
 | Updated3 days ago | 1.74k | lukey03/Qwen3 | 9B | [Link](https://huggingface.co/lukey03/Qwen3.5-9B-abliterated) |
 | Updated13 days ago | 1.66k | bharatgenai/Param2-17B-A2 | 17B | [Link](https://huggingface.co/bharatgenai/Param2-17B-A2.4B-Thinking) |
 | Updatedabout 16 hours ago | 1.88k | ai-sage/GigaChat3 | 11B | [Link](https://huggingface.co/ai-sage/GigaChat3.1-10B-A1.8B-GGUF) |
+| Updatedabout 2 hours ago | 1.09k | chromadb/context-1Text | 21B | [Link](https://huggingface.co/chromadb/context-1) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -6266,6 +6267,7 @@ Updated on 2026-03-29
 | 5.64k | 352 | parler-tts/parler_tts_mini_v0 | UpdatedApr 30, 2024 | [Link](https://huggingface.co/parler-tts/parler_tts_mini_v0.1) |
 | Updated5 days ago | 342 | mradermacher/SoulX-Podcast-1 | 2B | [Link](https://huggingface.co/mradermacher/SoulX-Podcast-1.7B-GGUF) |
 | UpdatedAug 6 | 338 | akhbar/chatterbox-tts-norwegianText-to-Speech | 0.5B | [Link](https://huggingface.co/akhbar/chatterbox-tts-norwegian) |
+| Updated1 day ago | 331 | TrevorJS/voxtral-tts-q4-ggufText-to-Speech | 4B | [Link](https://huggingface.co/TrevorJS/voxtral-tts-q4-gguf) |
 | Updatedabout 19 hours ago | 330 | kenpath/svara-tts-v1Text-to-Speech | 3B | [Link](https://huggingface.co/kenpath/svara-tts-v1) |
 | UpdatedMay 25, 2024 | 323 | utrobinmv/tts_ru_free_hf_vits_high_multispeakerText-to-Speech | 0.0B | [Link](https://huggingface.co/utrobinmv/tts_ru_free_hf_vits_high_multispeaker) |
 | Updated3 days ago | 279 | sheliak/VibeVoice-Large_MirrorText-to-Speech | 9B | [Link](https://huggingface.co/sheliak/VibeVoice-Large_Mirror) |
