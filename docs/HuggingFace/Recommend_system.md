@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-30
+Updated on 2026-03-31
 
 > Generated from the Hugging Face database.
 
@@ -2568,6 +2568,7 @@ Updated on 2026-03-30
 | 65 | 5 | iitolstykh/VIBE-Image-EditImage-to-Image | Updatedabout 19 hours ago | [Link](https://huggingface.co/iitolstykh/VIBE-Image-Edit) |
 | 36 | 5 | prithivMLmods/Flux2-Klein-Cinematic-FlatLog-ControlImage-to-Image | Updated5 days ago | [Link](https://huggingface.co/prithivMLmods/Flux2-Klein-Cinematic-FlatLog-Control) |
 | 110 | 5 | MeiGen-AI/PosterOmni_v1Image-to-Image | Updatedabout 14 hours ago | [Link](https://huggingface.co/MeiGen-AI/PosterOmni_v1) |
+| 16 | 5 | Azily/Macro-Qwen-Image-EditImage-to-Image | Updated17 days ago | [Link](https://huggingface.co/Azily/Macro-Qwen-Image-Edit) |
 | 575 | 4 | prs-eth/marigold-normals-v1-1Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-normals-v1-1) |
 | 1k | 4 | stanfordmimi/MedVAEImage-to-Image | UpdatedMar 31 | [Link](https://huggingface.co/stanfordmimi/MedVAE) |
 | 3 | 4 | wikeeyang/UniWorld-V1-NF4Image-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/wikeeyang/UniWorld-V1-NF4) |
@@ -3220,6 +3221,7 @@ Updated on 2026-03-30
 | 15 | 2 | Kansallisarkisto/estonian-large-handwrittenImage-to-Text | Updated3 days ago | [Link](https://huggingface.co/Kansallisarkisto/estonian-large-handwritten) |
 | 27 | 2 | Zhare-AI/janus-pro-7b-webgpuImage-to-Text | UpdatedSep 27, 2025 | [Link](https://huggingface.co/Zhare-AI/janus-pro-7b-webgpu) |
 | 208k | 2 | PaddlePaddle/PP-LCNet_x1_0_textline_oriImage-to-Text | UpdatedAug 29, 2025 | [Link](https://huggingface.co/PaddlePaddle/PP-LCNet_x1_0_textline_ori) |
+| 421 | 2 | PaddlePaddle/arabic_PP-OCRv3_mobile_recImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/arabic_PP-OCRv3_mobile_rec) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -5301,6 +5303,7 @@ Updated on 2026-03-30
 | Updated28 days ago | 18 | microsoft/NextCoder-7BText | 8B | [Link](https://huggingface.co/microsoft/NextCoder-7B) |
 | Updatedabout 17 hours ago | 18 | Menlo/LucyText | 2B | [Link](https://huggingface.co/Menlo/Lucy) |
 | Updatedabout 8 hours ago | 18 | nvidia/Nemotron-Cascade-2-30B-A3BText | 32B | [Link](https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B) |
+| Updated9 days ago | 18.1k | bartowski/nvidia_Nemotron-Cascade-2-30B-A3B-GGUFText | 32B | [Link](https://huggingface.co/bartowski/nvidia_Nemotron-Cascade-2-30B-A3B-GGUF) |
 | 60 | 17 | open-thoughts/OpenThinker2-32BText | Updated1 day ago | [Link](https://huggingface.co/open-thoughts/OpenThinker2-32B) |
 | 274 | 17 | microsoft/MAI-DS-R1-FP8Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/microsoft/MAI-DS-R1-FP8) |
 | 40 | 17 | nvidia/OpenMath-Nemotron-32BText | Updated1 day ago | [Link](https://huggingface.co/nvidia/OpenMath-Nemotron-32B) |
@@ -5436,6 +5439,7 @@ Updated on 2026-03-30
 | Updatedabout 10 hours ago | 2.55k | IQuestLab/IQuest-Coder-V1-40B-BaseText | 40B | [Link](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Base) |
 | UpdatedDec 12, 2025 | 2.15k | UCSB-SURFI/VulnLLM-R-7BText | 8B | [Link](https://huggingface.co/UCSB-SURFI/VulnLLM-R-7B) |
 | Updated1 day ago | 2.9k | unsloth/NVIDIA-Nemotron-3-Nano-4B-GGUFText | 4B | [Link](https://huggingface.co/unsloth/NVIDIA-Nemotron-3-Nano-4B-GGUF) |
+| Updated5 days ago | 2.42k | bartowski/zed-industries_zeta-2-GGUFText | 8B | [Link](https://huggingface.co/bartowski/zed-industries_zeta-2-GGUF) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
 | Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
@@ -6916,6 +6920,7 @@ Updated on 2026-03-30
 | 3 | Unknown | kairos-agi/kairos-sensenova-4B-480P-pretrainedText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/kairos-agi/kairos-sensenova-4B-480P-pretrained) |
 | 2 | Unknown | SanDiegoDude/daVinci-MagiHuman-FP8Text-to-Video | Updatedabout 16 hours ago | [Link](https://huggingface.co/SanDiegoDude/daVinci-MagiHuman-FP8) |
 | 4 | Unknown | dx8152/LTX2 | Updatedabout 4 hours ago | [Link](https://huggingface.co/dx8152/LTX2.3-Multifunctional) |
+| 7 | Unknown | KlingTeam/ShotStreamText-to-Video | Updated30 minutes ago | [Link](https://huggingface.co/KlingTeam/ShotStream) |
 
 ## Text2Text Generation
 
