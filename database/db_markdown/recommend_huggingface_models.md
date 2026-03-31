@@ -4822,6 +4822,7 @@ Updated on 2026-03-31
 | Updated5 days ago | 663k | lmstudio-community/gpt-oss-20b-MLX-8bitText | 21B | [Link](https://huggingface.co/lmstudio-community/gpt-oss-20b-MLX-8bit) |
 | Updated5 days ago | 661 | LiquidAI/LFM2-700M-GGUFText | 0.7B | [Link](https://huggingface.co/LiquidAI/LFM2-700M-GGUF) |
 | Updated14 days ago | 656 | TeichAI/GLM-4 | 31B | [Link](https://huggingface.co/TeichAI/GLM-4.7-Flash-Claude-Opus-4.5-High-Reasoning-Distill) |
+| Updated11 days ago | 655 | DataPilot/ArrowCanaria-Llama-8B-SFT-v0 | 8B | [Link](https://huggingface.co/DataPilot/ArrowCanaria-Llama-8B-SFT-v0.1) |
 | Updated1 day ago | 635 | 0xSero/GLM-4 | 2B | [Link](https://huggingface.co/0xSero/GLM-4.7-REAP-50-W4A16) |
 | Updated6 days ago | 630 | kakaocorp/kanana-2-30b-a3b-instructText | 31B | [Link](https://huggingface.co/kakaocorp/kanana-2-30b-a3b-instruct) |
 | Updated2 days ago | 628 | PrimeIntellect/INTELLECT-3-FP8Text | 107B | [Link](https://huggingface.co/PrimeIntellect/INTELLECT-3-FP8) |
@@ -6442,6 +6443,7 @@ Updated on 2026-03-31
 | Updatedabout 22 hours ago | 5 | oddadmix/chatterbox-egyptian-v0Text-to-Speech | 0.5B | [Link](https://huggingface.co/oddadmix/chatterbox-egyptian-v0) |
 | 3 | 5 | LEMAS-Project/LEMAS-TTSText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/LEMAS-Project/LEMAS-TTS) |
 | 96 | 5 | drbaph/s2-pro-fp8Text-to-Speech | Updated1 day ago | [Link](https://huggingface.co/drbaph/s2-pro-fp8) |
+| Updatedabout 3 hours ago | 5 | Aratako/Irodori-TTS-500M-v2-VoiceDesignText-to-Speech | 0.5B | [Link](https://huggingface.co/Aratako/Irodori-TTS-500M-v2-VoiceDesign) |
 | 5 | 4 | lunahr/csm-1b-safetensors-fp16Text-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-fp16) |
 | 2 | 4 | VAGOsolutions/SauerkrautTTS-Preview-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/VAGOsolutions/SauerkrautTTS-Preview-0.1) |
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
