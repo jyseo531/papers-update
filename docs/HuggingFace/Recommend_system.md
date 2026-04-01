@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-03-31
+Updated on 2026-04-01
 
 > Generated from the Hugging Face database.
 
@@ -1978,6 +1978,7 @@ Updated on 2026-03-31
 | Updatedabout 1 hour ago | 61.9k | Sehyo/Qwen3 | 71B | [Link](https://huggingface.co/Sehyo/Qwen3.5-122B-A10B-NVFP4) |
 | 18.5k | 57 | prithivMLmods/Qwen2-VL-OCR-2B-InstructImage-Text-to-Text | UpdatedJan 11 | [Link](https://huggingface.co/prithivMLmods/Qwen2-VL-OCR-2B-Instruct) |
 | 944 | 56 | nvidia/Eagle2-9BImage-Text-to-Text | UpdatedJan 28 | [Link](https://huggingface.co/nvidia/Eagle2-9B) |
+| Updatedabout 12 hours ago | 56 | Hcompany/Holo3-35B-A3BImage-Text-to-Text | 35B | [Link](https://huggingface.co/Hcompany/Holo3-35B-A3B) |
 | Updatedabout 7 hours ago | 55 | OpenGVLab/InternVL3_5-30B-A3BImage-Text-to-Text | 31B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-30B-A3B) |
 | Updated5 days ago | 55 | hkust-nlp/WebExplorer-8BImage-Text-to-Text | 8B | [Link](https://huggingface.co/hkust-nlp/WebExplorer-8B) |
 | Updated3 days ago | 55 | OpenGVLab/ScaleCUA-3BImage-Text-to-Text | 4B | [Link](https://huggingface.co/OpenGVLab/ScaleCUA-3B) |
@@ -2021,6 +2022,7 @@ Updated on 2026-03-31
 | 810 | 35 | fancyfeast/llama-joycaption-beta-one-hf-llavaImage-Text-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/fancyfeast/llama-joycaption-beta-one-hf-llava) |
 | Updated5 days ago | 35.7k | unsloth/Qwen3-VL-8B-Instruct-GGUFImage-Text-to-Text | 8B | [Link](https://huggingface.co/unsloth/Qwen3-VL-8B-Instruct-GGUF) |
 | Updatedabout 3 hours ago | 35 | PaddlePaddle/PaddleOCR-VL-1 | 1.0B | [Link](https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.5) |
+| Updatedabout 17 hours ago | 34 | Jackrong/Qwopus3 | 9B | [Link](https://huggingface.co/Jackrong/Qwopus3.5-9B-v3-GGUF) |
 | Updated4 days ago | 33 | prithivMLmods/Qwen2 | 8B | [Link](https://huggingface.co/prithivMLmods/Qwen2.5-VL-7B-Abliterated-Caption-it) |
 | Updated3 days ago | 32.8k | cyankiwi/Qwen3 | 25B | [Link](https://huggingface.co/cyankiwi/Qwen3.5-122B-A10B-AWQ-4bit) |
 | 4.01k | 31 | google/paligemma2-3b-mix-448Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-3b-mix-448) |
@@ -4979,6 +4981,7 @@ Updated on 2026-03-31
 | Updated1 day ago | 82 | kakaocorp/kanana-2-30b-a3b-instruct-2601Text | 31B | [Link](https://huggingface.co/kakaocorp/kanana-2-30b-a3b-instruct-2601) |
 | Updatedabout 2 hours ago | 81 | stepfun-ai/step3Text | 321B | [Link](https://huggingface.co/stepfun-ai/step3) |
 | Updatedabout 9 hours ago | 80 | sarvamai/sarvam-105bText | 106B | [Link](https://huggingface.co/sarvamai/sarvam-105b) |
+| Updatedabout 20 hours ago | 80 | prism-ml/Bonsai-8B-ggufText | 8B | [Link](https://huggingface.co/prism-ml/Bonsai-8B-gguf) |
 | Updated2 minutes ago | 79 | Skywork/MindLink-32B-0801Text | 33B | [Link](https://huggingface.co/Skywork/MindLink-32B-0801) |
 | 21.7k | 78 | unsloth/r1-1776-GGUFText | Updated6 days ago | [Link](https://huggingface.co/unsloth/r1-1776-GGUF) |
 | 10 | 78 | JetBrains/Mellum-4b-baseText | Updatedabout 15 hours ago | [Link](https://huggingface.co/JetBrains/Mellum-4b-base) |
@@ -5094,6 +5097,7 @@ Updated on 2026-03-31
 | Updatedabout 1 hour ago | 38 | openbmb/MiniCPM-SALAText | 9B | [Link](https://huggingface.co/openbmb/MiniCPM-SALA) |
 | Updated18 days ago | 38 | DMindAI/DMind-3-miniText | 4B | [Link](https://huggingface.co/DMindAI/DMind-3-mini) |
 | Updated18 days ago | 38 | DMindAI/DMind-3Text | 21B | [Link](https://huggingface.co/DMindAI/DMind-3) |
+| Updatedabout 20 hours ago | 38 | prism-ml/Bonsai-8B-mlx-1bitText | 0.4B | [Link](https://huggingface.co/prism-ml/Bonsai-8B-mlx-1bit) |
 | 125 | 37 | microsoft/Phi-4-mini-instructText | Updatedabout 2 hours ago | [Link](https://huggingface.co/microsoft/Phi-4-mini-instruct) |
 | Updatedabout 13 hours ago | 37 | Tesslate/UIGEN-X-32B-0727Text | 0.0B | [Link](https://huggingface.co/Tesslate/UIGEN-X-32B-0727) |
 | Updated1 day ago | 37 | Shekswess/trlm-135mText | 0.1B | [Link](https://huggingface.co/Shekswess/trlm-135m) |
@@ -6444,6 +6448,7 @@ Updated on 2026-03-31
 | 3 | 5 | LEMAS-Project/LEMAS-TTSText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/LEMAS-Project/LEMAS-TTS) |
 | 96 | 5 | drbaph/s2-pro-fp8Text-to-Speech | Updated1 day ago | [Link](https://huggingface.co/drbaph/s2-pro-fp8) |
 | Updatedabout 3 hours ago | 5 | Aratako/Irodori-TTS-500M-v2-VoiceDesignText-to-Speech | 0.5B | [Link](https://huggingface.co/Aratako/Irodori-TTS-500M-v2-VoiceDesign) |
+| 1 | 5 | drbaph/LongCat-AudioDiT-3 | Updated1 day ago | [Link](https://huggingface.co/drbaph/LongCat-AudioDiT-3.5B-fp8) |
 | 5 | 4 | lunahr/csm-1b-safetensors-fp16Text-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-fp16) |
 | 2 | 4 | VAGOsolutions/SauerkrautTTS-Preview-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/VAGOsolutions/SauerkrautTTS-Preview-0.1) |
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
