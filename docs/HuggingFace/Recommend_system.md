@@ -2878,6 +2878,7 @@ Updated on 2026-04-01
 | UpdatedApr 24, 2024 | 541 | unum-cloud/uform-gen2-dpoImage-to-Text | 1B | [Link](https://huggingface.co/unum-cloud/uform-gen2-dpo) |
 | UpdatedApr 20, 2024 | 537 | toshi456/llava-jp-1 | 2B | [Link](https://huggingface.co/toshi456/llava-jp-1.3b-v1.1) |
 | Updated21 days ago | 510 | AiAsistent/gemma-3-4b-it-Cognitive-LibertyImage-to-Text | 4B | [Link](https://huggingface.co/AiAsistent/gemma-3-4b-it-Cognitive-Liberty) |
+| UpdatedOct 20, 2025 | 505 | PJMixers-Images/Florence-2-base-Castollux-v0 | 0.2B | [Link](https://huggingface.co/PJMixers-Images/Florence-2-base-Castollux-v0.5) |
 | Updated4 days ago | 485 | mradermacher/Qwen2 | 8B | [Link](https://huggingface.co/mradermacher/Qwen2.5-VL-7B-Abliterated-Caption-it-GGUF) |
 | Updated20 days ago | 480 | sanchit97/chart-rvr-3bImage-to-Text | 4B | [Link](https://huggingface.co/sanchit97/chart-rvr-3b) |
 | Updated1 day ago | 471 | noctrex/LightOnOCR-2-1B-GGUFImage-to-Text | 0.6B | [Link](https://huggingface.co/noctrex/LightOnOCR-2-1B-GGUF) |
@@ -3044,6 +3045,7 @@ Updated on 2026-04-01
 | 944 | 14 | qualcomm/TrOCRImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/qualcomm/TrOCR) |
 | Updatedabout 11 hours ago | 14 | datalab-to/chandraImage-to-Text | 9B | [Link](https://huggingface.co/datalab-to/chandra) |
 | Updatedabout 9 hours ago | 14 | lightonai/LightOnOCR-2-1BImage-to-Text | 1B | [Link](https://huggingface.co/lightonai/LightOnOCR-2-1B) |
+| 96 | 14 | tiiuae/Falcon-OCRImage-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/tiiuae/Falcon-OCR) |
 | 207 | 13 | DGurgurov/im2latexImage-to-Text | UpdatedOct 23, 2024 | [Link](https://huggingface.co/DGurgurov/im2latex) |
 | 24.8k | 13 | microsoft/trocr-base-stage1Image-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-base-stage1) |
 | UpdatedMay 4 | 13 | ragunath-ravi/blip-histopathology-finetunedImage-to-Text | 0.2B | [Link](https://huggingface.co/ragunath-ravi/blip-histopathology-finetuned) |
@@ -4851,6 +4853,7 @@ Updated on 2026-04-01
 | Updatedabout 5 hours ago | 384 | RUC-DataLab/DeepAnalyze-8BText | 8B | [Link](https://huggingface.co/RUC-DataLab/DeepAnalyze-8B) |
 | Updated5 days ago | 376 | NousResearch/Hermes-4-70B-FP8Text | 71B | [Link](https://huggingface.co/NousResearch/Hermes-4-70B-FP8) |
 | Updated5 days ago | 376 | microsoft/FrogBoss-32B-2510Text | 677k | [Link](https://huggingface.co/microsoft/FrogBoss-32B-2510) |
+| Updated1 day ago | 375 | YTan2000/Qwen3 | 27B | [Link](https://huggingface.co/YTan2000/Qwen3.5-27B-TQ3_1S) |
 | Updated2 days ago | 358 | tencent/WeDLM-7B-InstructText | 8B | [Link](https://huggingface.co/tencent/WeDLM-7B-Instruct) |
 |  | 356 | Qwen/QwQ-32BText | Updatedabout 8 hours ago | [Link](https://huggingface.co/Qwen/QwQ-32B) |
 | Updated3 days ago | 355 | Nanbeige/Nanbeige4-3B-BaseText | 4B | [Link](https://huggingface.co/Nanbeige/Nanbeige4-3B-Base) |
@@ -5367,6 +5370,7 @@ Updated on 2026-04-01
 | Updatedabout 16 hours ago | 11.6k | unsloth/MiniMax-M2-GGUFText | 229B | [Link](https://huggingface.co/unsloth/MiniMax-M2-GGUF) |
 | Updatedabout 3 hours ago | 11 | LGAI-EXAONE/K-EXAONE-236B-A23BText | 237B | [Link](https://huggingface.co/LGAI-EXAONE/K-EXAONE-236B-A23B) |
 | Updatedabout 1 hour ago | 10.3k | unsloth/gemma-3-270m-it-GGUFText | 0.3B | [Link](https://huggingface.co/unsloth/gemma-3-270m-it-GGUF) |
+| Updated1 day ago | 10 | FINAL-Bench/Darwin-35B-A3B-OpusText | 36B | [Link](https://huggingface.co/FINAL-Bench/Darwin-35B-A3B-Opus) |
 | Updatedabout 4 hours ago | 9 | meituan-longcat/LongCat-Flash-ChatText | 562B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Chat) |
 | Updatedabout 7 hours ago | 9 | facebook/MobileLLM-R1-950MText | 0.9B | [Link](https://huggingface.co/facebook/MobileLLM-R1-950M) |
 | Updatedabout 5 hours ago | 9 | Zyphra/ZAYA1-baseText | 9B | [Link](https://huggingface.co/Zyphra/ZAYA1-base) |
@@ -6318,6 +6322,7 @@ Updated on 2026-04-01
 | Updatedabout 8 hours ago | 101 | neuphonic/neutts-air-q4-ggufText-to-Speech | 0.7B | [Link](https://huggingface.co/neuphonic/neutts-air-q4-gguf) |
 | Updatedabout 11 hours ago | 99 | pnnbao-ump/VieNeu-TTSText-to-Speech | 0.6B | [Link](https://huggingface.co/pnnbao-ump/VieNeu-TTS) |
 | UpdatedMay 13 | 99 | wasmdashai/vits-ar-sa-huba-v2Text-to-Speech | 83M | [Link](https://huggingface.co/wasmdashai/vits-ar-sa-huba-v2) |
+| Updatedabout 9 hours ago | 99 | pnnbao-ump/VieNeu-TTS-v2-TurboText-to-Speech | 0.1B | [Link](https://huggingface.co/pnnbao-ump/VieNeu-TTS-v2-Turbo) |
 | 1.44k | 90 | kyutai/tts-1 | Updatedabout 14 hours ago | [Link](https://huggingface.co/kyutai/tts-1.6b-en_fr) |
 | UpdatedApr 18 | 90 | lex-au/Orpheus-3b-French-FT-Q8_0 | 3B | [Link](https://huggingface.co/lex-au/Orpheus-3b-French-FT-Q8_0.gguf) |
 | 3.52k | 87 | HKUSTAudio/Llasa-1BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-1B) |
