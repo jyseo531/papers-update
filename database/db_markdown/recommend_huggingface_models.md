@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-04-01
+Updated on 2026-04-02
 
 > Generated from the Hugging Face database.
 
@@ -2541,6 +2541,7 @@ Updated on 2026-04-01
 | 344 | 9 | YaoJiefu/Line-drawing-generates-special-effectsImage-to-Image | Updated18 days ago | [Link](https://huggingface.co/YaoJiefu/Line-drawing-generates-special-effects) |
 |  | 9 | fal/flux-2-klein-4B-object-remove-loraImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/fal/flux-2-klein-4B-object-remove-lora) |
 | 67 | 9 | briaai/Fibo-Edit-RMBGImage-to-Image | Updatedabout 18 hours ago | [Link](https://huggingface.co/briaai/Fibo-Edit-RMBG) |
+| 2.15k | 9 | vafipas663/flux2-klein-base-9b-distill-loraImage-to-Image | UpdatedJan 30 | [Link](https://huggingface.co/vafipas663/flux2-klein-base-9b-distill-lora) |
 | 59 | 8 | qualcomm/AOT-GANImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/qualcomm/AOT-GAN) |
 |  | 8 | xuminglong/kontext-tryon7Image-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/xuminglong/kontext-tryon7) |
 | 160 | 8 | Jamichsu/Stream-DiffVSRImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/Jamichsu/Stream-DiffVSR) |
@@ -3355,6 +3356,7 @@ Updated on 2026-04-01
 | 2 | Unknown | DAIR-Group/HTR-ConvTextImage-to-Text | UpdatedDec 17, 2025 | [Link](https://huggingface.co/DAIR-Group/HTR-ConvText) |
 | 1 | Unknown | sameenarshad786/llava-1 | UpdatedSep 20, 2025 | [Link](https://huggingface.co/sameenarshad786/llava-1.5-health-safety-captioning) |
 | 1 | Unknown | raykuo188/vlm-ssm-vision-encoders-checkpointsImage-to-Text | Updatedabout 18 hours ago | [Link](https://huggingface.co/raykuo188/vlm-ssm-vision-encoders-checkpoints) |
+| 8 | Unknown | nvidia/nemotron-ocr-v2Image-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/nvidia/nemotron-ocr-v2) |
 
 ## Image-to-Video
 
@@ -4861,6 +4863,7 @@ Updated on 2026-04-01
 | Updated1 day ago | 344 | CohereLabs/tiny-aya-baseText | 3B | [Link](https://huggingface.co/CohereLabs/tiny-aya-base) |
 | Updated5 days ago | 342 | CohereLabs/tiny-aya-waterText | 3B | [Link](https://huggingface.co/CohereLabs/tiny-aya-water) |
 |  | 339 | deepseek-ai/DeepSeek-Prover-V2-671BText | Updatedabout 1 hour ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-Prover-V2-671B) |
+| Updated2 days ago | 332 | prism-ml/Bonsai-1 | 2B | [Link](https://huggingface.co/prism-ml/Bonsai-1.7B-gguf) |
 | Updatedabout 9 hours ago | 329 | Kwaipilot/KAT-DevText | 33B | [Link](https://huggingface.co/Kwaipilot/KAT-Dev) |
 | Updatedabout 4 hours ago | 329 | FractalAIResearch/Fathom-Search-4BText | 4B | [Link](https://huggingface.co/FractalAIResearch/Fathom-Search-4B) |
 | Updated3 days ago | 327 | nvidia/OpenReasoning-Nemotron-1 | 2B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-1.5B) |
@@ -5030,6 +5033,7 @@ Updated on 2026-04-01
 | Updatedabout 10 hours ago | 58 | unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUFText | 31B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF) |
 | Updatedabout 11 hours ago | 58 | CohereLabs/command-a-reasoning-08-2025Text | 111B | [Link](https://huggingface.co/CohereLabs/command-a-reasoning-08-2025) |
 | Updatedabout 16 hours ago | 58 | jdopensource/JoyAI-LLM-FlashText | 49B | [Link](https://huggingface.co/jdopensource/JoyAI-LLM-Flash) |
+| Updatedabout 9 hours ago | 58 | arcee-ai/Trinity-Large-ThinkingText | 399B | [Link](https://huggingface.co/arcee-ai/Trinity-Large-Thinking) |
 | 406 | 57 | LatitudeGames/Wayfarer-Large-70B-Llama-3 | Updated6 days ago | [Link](https://huggingface.co/LatitudeGames/Wayfarer-Large-70B-Llama-3.3) |
 | 46 | 57 | a-m-team/AM-Thinking-v1Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/a-m-team/AM-Thinking-v1) |
 | Updatedabout 5 hours ago | 57 | LiquidAI/LFM2-8B-A1BText | 8B | [Link](https://huggingface.co/LiquidAI/LFM2-8B-A1B) |
