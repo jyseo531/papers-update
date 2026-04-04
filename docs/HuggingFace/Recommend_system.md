@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-04-03
+Updated on 2026-04-04
 
 > Generated from the Hugging Face database.
 
@@ -157,6 +157,7 @@ Updated on 2026-04-03
 | Updatedabout 10 hours ago | 5 | AIM-Intelligence/COMPASS_gemma-3-4b-it_LoRAAny-to-Any | 4B | [Link](https://huggingface.co/AIM-Intelligence/COMPASS_gemma-3-4b-it_LoRA) |
 | UpdatedApr 6, 2025 | 5 | YoussefHosni/Gemma-3-4B-medical-QA-ReasoningAny-to-Any | 4B | [Link](https://huggingface.co/YoussefHosni/Gemma-3-4B-medical-QA-Reasoning) |
 | UpdatedSep 11, 2025 | 5 | chaitnya26/Qwen2 | 6B | [Link](https://huggingface.co/chaitnya26/Qwen2.5-Omni-3B-Fork) |
+| Updatedabout 13 hours ago | 5 | coder3101/gemma-4-E4B-it-hereticAny-to-Any | 8B | [Link](https://huggingface.co/coder3101/gemma-4-E4B-it-heretic) |
 | 126 | 4 | Alpha-VLLM/Chameleon_7B_mGPTAny-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Chameleon_7B_mGPT) |
 | 37 | 4 | Alpha-VLLM/Lumina-mGPT-7B-512-MultiImageAny-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-512-MultiImage) |
 | 26 | 4 | EPFL-VILAB/4M-7-T2I_XL_CC12MAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-7-T2I_XL_CC12M) |
@@ -180,6 +181,8 @@ Updated on 2026-04-03
 | 116 | 3 | shiwk24/BAGEL-CanvasAny-to-Any | Updated13 days ago | [Link](https://huggingface.co/shiwk24/BAGEL-Canvas) |
 | 13 | 3 | AviadDahan/ID-LoRA-TalkVidAny-to-Any | Updatedabout 11 hours ago | [Link](https://huggingface.co/AviadDahan/ID-LoRA-TalkVid) |
 | Updatedabout 9 hours ago | 3 | mlx-community/gemma-4-e4b-it-8bitAny-to-Any | 3B | [Link](https://huggingface.co/mlx-community/gemma-4-e4b-it-8bit) |
+| 33 | 3 | onnx-community/gemma-4-E4B-it-ONNXAny-to-Any | Updated1 day ago | [Link](https://huggingface.co/onnx-community/gemma-4-E4B-it-ONNX) |
+| Updatedabout 8 hours ago | 3 | Abhiray/gemma-4-E4B-it-heretic-GGUFAny-to-Any | 8B | [Link](https://huggingface.co/Abhiray/gemma-4-E4B-it-heretic-GGUF) |
 | 47 | 2 | PKU-Alignment/AnyRewardModelAny-to-Any | UpdatedDec 28, 2024 | [Link](https://huggingface.co/PKU-Alignment/AnyRewardModel) |
 | 585 | 2 | wnma3mz/Janus-Pro-1B-4bitAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/wnma3mz/Janus-Pro-1B-4bit) |
 | 3 | 2 | lintw/HealthGPT-XL32Any-to-Any | Updatedabout 18 hours ago | [Link](https://huggingface.co/lintw/HealthGPT-XL32) |
@@ -1863,6 +1866,7 @@ Updated on 2026-04-03
 
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
+| Updatedabout 7 hours ago | 952 | FINAL-Bench/Darwin-35B-A3B-OpusImage-Text-to-Text | 36B | [Link](https://huggingface.co/FINAL-Bench/Darwin-35B-A3B-Opus) |
 | Updated1 day ago | 941 | nvidia/NVIDIA-Nemotron-Nano-12B-v2-VL-BF16Image-Text-to-Text | 13B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-12B-v2-VL-BF16) |
 | 109k | 939 | openbmb/MiniCPM-V-2_6Image-Text-to-Text | UpdatedJan 15 | [Link](https://huggingface.co/openbmb/MiniCPM-V-2_6) |
 | 4.89k | 934 | microsoft/OmniParser-v2 | Updated7 days ago | [Link](https://huggingface.co/microsoft/OmniParser-v2.0) |
@@ -6668,6 +6672,7 @@ Updated on 2026-04-03
 | 8 | Unknown | HumeAI/tada-codecText-to-Speech | Updatedabout 2 hours ago | [Link](https://huggingface.co/HumeAI/tada-codec) |
 | 25 | Unknown | WarriorMama777/GLaDOS_TTSText-to-Speech | UpdatedMay 7, 2024 | [Link](https://huggingface.co/WarriorMama777/GLaDOS_TTS) |
 | 4 | Unknown | HumeAI/mlx-tada-3bText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/HumeAI/mlx-tada-3b) |
+| 8 | Unknown | g-group-ai-lab/gwen-tts-0 | Updatedabout 21 hours ago | [Link](https://huggingface.co/g-group-ai-lab/gwen-tts-0.6B) |
 
 ## Text-to-Video
 
