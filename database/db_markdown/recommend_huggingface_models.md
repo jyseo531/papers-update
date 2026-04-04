@@ -243,6 +243,7 @@ Updated on 2026-04-04
 | UpdatedDec 15, 2025 | 1 | TencentBAC/U-MARVEL-Qwen3VL-4B-InstructAny-to-Any | 4B | [Link](https://huggingface.co/TencentBAC/U-MARVEL-Qwen3VL-4B-Instruct) |
 | Updatedabout 15 hours ago | 1 | vantagewithai/Capybara-GGUFAny-to-Any | 8B | [Link](https://huggingface.co/vantagewithai/Capybara-GGUF) |
 | Updatedabout 11 hours ago | 1.21k | google/gemma-4-E4BAny-to-Any | 8B | [Link](https://huggingface.co/google/gemma-4-E4B) |
+| Updatedabout 16 hours ago | 1.27k | mlx-community/gemma-4-e4b-it-nvfp4Any-to-Any | 2B | [Link](https://huggingface.co/mlx-community/gemma-4-e4b-it-nvfp4) |
 | 2 | Unknown | guanwenhao/MonoSpeechAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/guanwenhao/MonoSpeech) |
 | 22 | Unknown | Goekdeniz-Guelmez/J | UpdatedOct 29, 2024 | [Link](https://huggingface.co/Goekdeniz-Guelmez/J.O.S.I.E.v4o) |
 | 1 | Unknown | hfcsrd/cryptographyAny-to-Any | UpdatedNov 17, 2024 | [Link](https://huggingface.co/hfcsrd/cryptography) |
@@ -6283,6 +6284,7 @@ Updated on 2026-04-04
 | 4 | Unknown | F16/z-image-turbo-sdaText-to-Image | Updatedabout 17 hours ago | [Link](https://huggingface.co/F16/z-image-turbo-sda) |
 | 5 | Unknown | Nekofantasia/Nekofantasia-alphaText-to-Image | Updatedabout 13 hours ago | [Link](https://huggingface.co/Nekofantasia/Nekofantasia-alpha) |
 | 4 | Unknown | duongve/AnimaYumeText-to-Image | Updated6 days ago | [Link](https://huggingface.co/duongve/AnimaYume) |
+| 5 | Unknown | SanDiegoDude/JoyAI-Image-Edit-FP8Text-to-Image | Updatedabout 16 hours ago | [Link](https://huggingface.co/SanDiegoDude/JoyAI-Image-Edit-FP8) |
 
 ## Text-to-Speech
 
