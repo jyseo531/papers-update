@@ -71,6 +71,7 @@ Updated on 2026-04-05
 | Updated24 days ago | 63 | sovthpaw/Omni-Senter-3BAny-to-Any | 29.9M | [Link](https://huggingface.co/sovthpaw/Omni-Senter-3B) |
 | Updatedabout 2 hours ago | 61 | openbmb/MiniCPM-o-4_5Any-to-Any | 9B | [Link](https://huggingface.co/openbmb/MiniCPM-o-4_5) |
 | UpdatedApr 29 | 60.5k | meta-llama/Llama-Guard-4-12BAny-to-Any | 12B | [Link](https://huggingface.co/meta-llama/Llama-Guard-4-12B) |
+| Updatedabout 9 hours ago | 60 | armand0e/gemma-4-E2B-it-Claude-Opus-DistillAny-to-Any | 5B | [Link](https://huggingface.co/armand0e/gemma-4-E2B-it-Claude-Opus-Distill) |
 | Updated24 days ago | 59 | DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-balancedAny-to-Any | 4B | [Link](https://huggingface.co/DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-balanced) |
 | UpdatedApr 17, 2025 | 59 | OddTheGreat/Meteor_4B_V | 4B | [Link](https://huggingface.co/OddTheGreat/Meteor_4B_V.1) |
 | UpdatedMay 12 | 55.1k | unsloth/gemma-3-4b-it-unsloth-bnb-4bitAny-to-Any | 3B | [Link](https://huggingface.co/unsloth/gemma-3-4b-it-unsloth-bnb-4bit) |
@@ -2953,6 +2954,7 @@ Updated on 2026-04-05
 | UpdatedApr 2 | 116k | reducto/RolmOCRImage-to-Text | 8B | [Link](https://huggingface.co/reducto/RolmOCR) |
 | Updated5 days ago | 110 | Svngoku/Qwen3-VL-TimeTravelImage-to-Text | 9B | [Link](https://huggingface.co/Svngoku/Qwen3-VL-TimeTravel) |
 | Updatedabout 20 hours ago | 110 | scb10x/typhoon-ocr1 | 2B | [Link](https://huggingface.co/scb10x/typhoon-ocr1.5-2b) |
+| Updatedabout 9 hours ago | 106 | manu02/LAnA-v2Image-to-Text | 0.3B | [Link](https://huggingface.co/manu02/LAnA-v2) |
 | UpdatedAug 14, 2025 | 105k | unsloth/gemma-3-27b-it-GGUFImage-to-Text | 27B | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-GGUF) |
 | UpdatedSep 7, 2024 | 99 | antoniorv6/smt-camera-grandstaffImage-to-Text | 21.4M | [Link](https://huggingface.co/antoniorv6/smt-camera-grandstaff) |
 | Updatedabout 19 hours ago | 96 | davanstrien/iconclass-vlmImage-to-Text | 4B | [Link](https://huggingface.co/davanstrien/iconclass-vlm) |
