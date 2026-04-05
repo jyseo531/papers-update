@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-04-04
+Updated on 2026-04-05
 
 > Generated from the Hugging Face database.
 
@@ -3051,6 +3051,7 @@ Updated on 2026-04-04
 | Updated1 day ago | 19 | aisingapore/Qwen-SEA-Guard-8B-040226Image-to-Text | 770k | [Link](https://huggingface.co/aisingapore/Qwen-SEA-Guard-8B-040226) |
 | Updatedabout 1 hour ago | 19 | aisingapore/Qwen-SEA-Guard-8B-2602Image-to-Text | 770k | [Link](https://huggingface.co/aisingapore/Qwen-SEA-Guard-8B-2602) |
 | Updatedabout 12 hours ago | 19 | FireRedTeam/FireRed-OCRImage-to-Text | 2B | [Link](https://huggingface.co/FireRedTeam/FireRed-OCR) |
+| UpdatedApr 27, 2023 | 19 | microsoft/git-large-rImage-to-Text | 0.4B | [Link](https://huggingface.co/microsoft/git-large-r) |
 | Updatedabout 17 hours ago | 18 | Qwen/Qwen3-VL-Reranker-2BImage-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-Reranker-2B) |
 | UpdatedMay 11, 2024 | 18 | calm-ai/donut-base-finetuned-forms-v1Image-to-Text | 0.2B | [Link](https://huggingface.co/calm-ai/donut-base-finetuned-forms-v1) |
 | 433 | 17 | kpyu/video-blip-opt-2 | UpdatedMay 17, 2023 | [Link](https://huggingface.co/kpyu/video-blip-opt-2.7b-ego4d) |
@@ -3096,6 +3097,8 @@ Updated on 2026-04-04
 | 63 | 11 | onnx-community/Qwen2-VL-2B-InstructImage-to-Text | UpdatedMar 6 | [Link](https://huggingface.co/onnx-community/Qwen2-VL-2B-Instruct) |
 | Updatedabout 9 hours ago | 11 | WaveCut/FLUX | 6B | [Link](https://huggingface.co/WaveCut/FLUX.2-TE-Trimmed-7L-Distil) |
 | UpdatedSep 12, 2024 | 11 | snorfyang/llava-v1 | 7B | [Link](https://huggingface.co/snorfyang/llava-v1.5-7b-pretrain-hf) |
+| 168 | 11 | microsoft/git-large-r-cocoImage-to-Text | UpdatedFeb 8, 2023 | [Link](https://huggingface.co/microsoft/git-large-r-coco) |
+| 22 | 11 | microsoft/git-large-r-textcapsImage-to-Text | UpdatedFeb 8, 2023 | [Link](https://huggingface.co/microsoft/git-large-r-textcaps) |
 | 68 | 10 | Flova/omr_transformerImage-to-Text | UpdatedOct 5, 2023 | [Link](https://huggingface.co/Flova/omr_transformer) |
 | Updatedabout 17 hours ago | 10 | SauravCh11/Donut-CORDImage-to-Text | 0.2B | [Link](https://huggingface.co/SauravCh11/Donut-CORD) |
 | 13.7k | 10 | TIGER-Lab/VLM2Vec-Qwen2VL-7BImage-to-Text | UpdatedMay 3 | [Link](https://huggingface.co/TIGER-Lab/VLM2Vec-Qwen2VL-7B) |
@@ -3195,6 +3198,7 @@ Updated on 2026-04-04
 | 951 | 3 | hezarai/crnn-fa-license-plate-recognition-v2Image-to-Text | UpdatedJun 2 | [Link](https://huggingface.co/hezarai/crnn-fa-license-plate-recognition-v2) |
 | 19 | 3 | HassanB4/Ketab-OCR-LoRAImage-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/HassanB4/Ketab-OCR-LoRA) |
 | Updated15 days ago | 3.02k | noctrex/PaddleOCR-VL-1 | 0.5B | [Link](https://huggingface.co/noctrex/PaddleOCR-VL-1.5-GGUF) |
+| 21 | 3 | microsoft/git-large-msrvtt-qaImage-to-Text | UpdatedJan 24, 2023 | [Link](https://huggingface.co/microsoft/git-large-msrvtt-qa) |
 | 51 | 2 | microsoft/git-base-msrvtt-qaImage-to-Text | UpdatedApr 4, 2024 | [Link](https://huggingface.co/microsoft/git-base-msrvtt-qa) |
 | 32 | 2 | baseplate/vit-gpt2-image-captioningImage-to-Text | UpdatedApr 5, 2023 | [Link](https://huggingface.co/baseplate/vit-gpt2-image-captioning) |
 | 38 | 2 | sbintuitions/sarashina2-vision-14bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-14b) |
@@ -5058,6 +5062,7 @@ Updated on 2026-04-04
 | Updatedabout 13 hours ago | 60 | haykgrigorian/TimeCapsuleLLM-v2-llama-1 | 1B | [Link](https://huggingface.co/haykgrigorian/TimeCapsuleLLM-v2-llama-1.2B) |
 | Updatedabout 1 hour ago | 59 | janhq/Jan-v1-4BText | 4B | [Link](https://huggingface.co/janhq/Jan-v1-4B) |
 | Updated2 days ago | 59 | Motif-Technologies/Motif-2-12 | 13B | [Link](https://huggingface.co/Motif-Technologies/Motif-2-12.7B-Instruct) |
+| Updated1 day ago | 59 | kai-os/Carnice-9bText | 9B | [Link](https://huggingface.co/kai-os/Carnice-9b) |
 | Updatedabout 17 hours ago | 58 | microsoft/Phi-4-mini-flash-reasoningText | 4B | [Link](https://huggingface.co/microsoft/Phi-4-mini-flash-reasoning) |
 | Updatedabout 10 hours ago | 58 | unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUFText | 31B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF) |
 | Updatedabout 11 hours ago | 58 | CohereLabs/command-a-reasoning-08-2025Text | 111B | [Link](https://huggingface.co/CohereLabs/command-a-reasoning-08-2025) |
@@ -5181,6 +5186,7 @@ Updated on 2026-04-04
 | Updatedabout 1 hour ago | 32 | inclusionAI/Ling-flash-2 | 103B | [Link](https://huggingface.co/inclusionAI/Ling-flash-2.0) |
 | Updatedabout 14 hours ago | 32 | meituan-longcat/LongCat-Flash-OmniText | 561B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Omni) |
 | Updatedabout 5 hours ago | 32 | arcee-ai/Trinity-MiniText | 26B | [Link](https://huggingface.co/arcee-ai/Trinity-Mini) |
+| Updatedabout 16 hours ago | 32 | dealignai/Gemma-4-31B-JANG_4M-CRACKText | 6B | [Link](https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK) |
 | 172 | 31 | huihui-ai/QwQ-32B-abliteratedText | Updated2 days ago | [Link](https://huggingface.co/huihui-ai/QwQ-32B-abliterated) |
 | 76 | 31 | manycore-research/SpatialLM-Qwen-0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/manycore-research/SpatialLM-Qwen-0.5B) |
 | 4 | 31 | Qwen/Qwen3-Embedding-8BText | Updatedabout 10 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-Embedding-8B) |
