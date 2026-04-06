@@ -2059,6 +2059,7 @@ Updated on 2026-04-06
 | 184 | 29 | Hcompany/Holo1-3BImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/Hcompany/Holo1-3B) |
 | Updatedabout 7 hours ago | 29 | OpenGVLab/InternVL3_5-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-8B) |
 | Updatedabout 16 hours ago | 29k | google/gemma-4-31B-itImage-Text-to-Text | 33B | [Link](https://huggingface.co/google/gemma-4-31B-it) |
+| Updated2 days ago | 29.6k | nohurry/gemma-4-26B-A4B-it-heretic-GUFFImage-Text-to-Text | 25B | [Link](https://huggingface.co/nohurry/gemma-4-26B-A4B-it-heretic-GUFF) |
 | 26 | 28 | VIDraft/Gemma-3-R1984-12BImage-Text-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/VIDraft/Gemma-3-R1984-12B) |
 | 36 | 28 | meta-llama/Llama-4-Maverick-17B-128EImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E) |
 | 1.6k | 28 | unsloth/Llama-4-Scout-17B-16E-Instruct-GGUFImage-Text-to-Text | Updatedabout 16 hours ago | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct-GGUF) |
@@ -5497,6 +5498,7 @@ Updated on 2026-04-06
 | Updated1 day ago | 2.9k | unsloth/NVIDIA-Nemotron-3-Nano-4B-GGUFText | 4B | [Link](https://huggingface.co/unsloth/NVIDIA-Nemotron-3-Nano-4B-GGUF) |
 | Updated5 days ago | 2.42k | bartowski/zed-industries_zeta-2-GGUFText | 8B | [Link](https://huggingface.co/bartowski/zed-industries_zeta-2-GGUF) |
 | Updatedabout 3 hours ago | 2.86k | Rta-AILabs/Nandi-Mini-150MText | 0.2B | [Link](https://huggingface.co/Rta-AILabs/Nandi-Mini-150M) |
+| Updated3 days ago | 2.4k | kai-os/Carnice-9b-GGUFText | 9B | [Link](https://huggingface.co/kai-os/Carnice-9b-GGUF) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
 | Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
@@ -6839,6 +6841,7 @@ Updated on 2026-04-06
 | 12 | 2 | Alibaba-DAMO-Academy/LumosXText-to-Video | Updatedabout 4 hours ago | [Link](https://huggingface.co/Alibaba-DAMO-Academy/LumosX) |
 | 75 | 2 | Kotajiro/LTX23-ruri_LoRAText-to-Video | Updated4 days ago | [Link](https://huggingface.co/Kotajiro/LTX23-ruri_LoRA) |
 | 139 | 2 | gajesh/LTX-2 | Updated7 days ago | [Link](https://huggingface.co/gajesh/LTX-2.3-mlx-q4) |
+|  | 2 | KoshiMazaki/muzed-motion-loraText-to-Video | Updated6 days ago | [Link](https://huggingface.co/KoshiMazaki/muzed-motion-lora) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
