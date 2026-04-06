@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-04-05
+Updated on 2026-04-06
 
 > Generated from the Hugging Face database.
 
@@ -2007,6 +2007,7 @@ Updated on 2026-04-05
 | 88 | 53 | nanonets/Nanonets-OCR-sImage-Text-to-Text | Updatedabout 15 hours ago | [Link](https://huggingface.co/nanonets/Nanonets-OCR-s) |
 | Updatedabout 5 hours ago | 53 | prithivMLmods/Gliese-OCR-7B-Post1 | 8B | [Link](https://huggingface.co/prithivMLmods/Gliese-OCR-7B-Post1.0) |
 | Updated2 days ago | 52 | inference-net/ClipTagger-12bImage-Text-to-Text | 12B | [Link](https://huggingface.co/inference-net/ClipTagger-12b) |
+| Updated2 days ago | 52.6k | bartowski/google_gemma-4-26B-A4B-it-GGUFImage-Text-to-Text | 25B | [Link](https://huggingface.co/bartowski/google_gemma-4-26B-A4B-it-GGUF) |
 | 1.27k | 51 | AIDC-AI/Ovis2-8BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-8B) |
 | Updatedabout 10 hours ago | 49 | nanonets/Nanonets-OCR2-3BImage-Text-to-Text | 4B | [Link](https://huggingface.co/nanonets/Nanonets-OCR2-3B) |
 | 848 | 47 | AIDC-AI/Ovis2-2BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-2B) |
@@ -5141,6 +5142,7 @@ Updated on 2026-04-05
 | Updated18 days ago | 38 | DMindAI/DMind-3-miniText | 4B | [Link](https://huggingface.co/DMindAI/DMind-3-mini) |
 | Updated18 days ago | 38 | DMindAI/DMind-3Text | 21B | [Link](https://huggingface.co/DMindAI/DMind-3) |
 | Updatedabout 20 hours ago | 38 | prism-ml/Bonsai-8B-mlx-1bitText | 0.4B | [Link](https://huggingface.co/prism-ml/Bonsai-8B-mlx-1bit) |
+| Updatedabout 9 hours ago | 38 | 0xSero/gemma-4-21b-a4b-it-REAPText | 21B | [Link](https://huggingface.co/0xSero/gemma-4-21b-a4b-it-REAP) |
 | 125 | 37 | microsoft/Phi-4-mini-instructText | Updatedabout 2 hours ago | [Link](https://huggingface.co/microsoft/Phi-4-mini-instruct) |
 | Updatedabout 13 hours ago | 37 | Tesslate/UIGEN-X-32B-0727Text | 0.0B | [Link](https://huggingface.co/Tesslate/UIGEN-X-32B-0727) |
 | Updated1 day ago | 37 | Shekswess/trlm-135mText | 0.1B | [Link](https://huggingface.co/Shekswess/trlm-135m) |
@@ -5462,6 +5464,7 @@ Updated on 2026-04-05
 | Updatedabout 11 hours ago | 4 | speakleash/Bielik-11B-v3 | 11B | [Link](https://huggingface.co/speakleash/Bielik-11B-v3.0-Instruct) |
 | Updated1 day ago | 4.97k | ymcki/Kimi-Linear-48B-A3B-Instruct-GGUFText | 49B | [Link](https://huggingface.co/ymcki/Kimi-Linear-48B-A3B-Instruct-GGUF) |
 | Updated2 days ago | 4.46k | mmnga-o/NVIDIA-Nemotron-Nano-9B-v2-Japanese-ggufText | 9B | [Link](https://huggingface.co/mmnga-o/NVIDIA-Nemotron-Nano-9B-v2-Japanese-gguf) |
+| Updated6 days ago | 4.97k | prism-ml/Bonsai-4B-ggufText | 4B | [Link](https://huggingface.co/prism-ml/Bonsai-4B-gguf) |
 | Updated2 days ago | 3.87k | unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUFText | 480B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUF) |
 | Updated6 days ago | 3.39k | Qwen/Qwen3-30B-A3B-Thinking-2507-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507-FP8) |
 | Updatedabout 4 hours ago | 3.61k | openai/gpt-oss-120bText | 63B | [Link](https://huggingface.co/openai/gpt-oss-120b) |
@@ -6293,6 +6296,7 @@ Updated on 2026-04-05
 | 5 | Unknown | Nekofantasia/Nekofantasia-alphaText-to-Image | Updatedabout 13 hours ago | [Link](https://huggingface.co/Nekofantasia/Nekofantasia-alpha) |
 | 4 | Unknown | duongve/AnimaYumeText-to-Image | Updated6 days ago | [Link](https://huggingface.co/duongve/AnimaYume) |
 | 5 | Unknown | SanDiegoDude/JoyAI-Image-Edit-FP8Text-to-Image | Updatedabout 16 hours ago | [Link](https://huggingface.co/SanDiegoDude/JoyAI-Image-Edit-FP8) |
+| 7 | Unknown | caiovicentino1/FLUX | Updatedabout 23 hours ago | [Link](https://huggingface.co/caiovicentino1/FLUX.2-klein-9B-PolarQuant-Q5) |
 
 ## Text-to-Speech
 
@@ -6503,6 +6507,7 @@ Updated on 2026-04-05
 | 96 | 5 | drbaph/s2-pro-fp8Text-to-Speech | Updated1 day ago | [Link](https://huggingface.co/drbaph/s2-pro-fp8) |
 | Updatedabout 3 hours ago | 5 | Aratako/Irodori-TTS-500M-v2-VoiceDesignText-to-Speech | 0.5B | [Link](https://huggingface.co/Aratako/Irodori-TTS-500M-v2-VoiceDesign) |
 | 1 | 5 | drbaph/LongCat-AudioDiT-3 | Updated1 day ago | [Link](https://huggingface.co/drbaph/LongCat-AudioDiT-3.5B-fp8) |
+| 377 | 5 | drbaph/OmniVoice-bf16Text-to-Speech | Updated3 days ago | [Link](https://huggingface.co/drbaph/OmniVoice-bf16) |
 | 5 | 4 | lunahr/csm-1b-safetensors-fp16Text-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-fp16) |
 | 2 | 4 | VAGOsolutions/SauerkrautTTS-Preview-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/VAGOsolutions/SauerkrautTTS-Preview-0.1) |
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
@@ -6833,6 +6838,7 @@ Updated on 2026-04-05
 | 6 | 2 | Efficient-Large-Model/SANA-Video_2B_720pText-to-Video | Updated1 day ago | [Link](https://huggingface.co/Efficient-Large-Model/SANA-Video_2B_720p) |
 | 12 | 2 | Alibaba-DAMO-Academy/LumosXText-to-Video | Updatedabout 4 hours ago | [Link](https://huggingface.co/Alibaba-DAMO-Academy/LumosX) |
 | 75 | 2 | Kotajiro/LTX23-ruri_LoRAText-to-Video | Updated4 days ago | [Link](https://huggingface.co/Kotajiro/LTX23-ruri_LoRA) |
+| 139 | 2 | gajesh/LTX-2 | Updated7 days ago | [Link](https://huggingface.co/gajesh/LTX-2.3-mlx-q4) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
