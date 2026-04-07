@@ -2590,6 +2590,7 @@ Updated on 2026-04-07
 | 443 | 6 | LPX55/FLUX | Updated6 days ago | [Link](https://huggingface.co/LPX55/FLUX.1_Kontext-Lightning) |
 | 8 | 6 | stepfun-ai/Step1X-Edit-v1p2-previewImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/stepfun-ai/Step1X-Edit-v1p2-preview) |
 | 24 | 6 | chestnutlzj/Edit-R1-Qwen-Image-Edit-2509Image-to-Image | Updated2 days ago | [Link](https://huggingface.co/chestnutlzj/Edit-R1-Qwen-Image-Edit-2509) |
+| 255 | 6 | canberkkkkk/bs-vton-outfit-klein-9bImage-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/canberkkkkk/bs-vton-outfit-klein-9b) |
 | 80 | 5 | jasperai/LBM_relightingImage-to-Image | Updated8 days ago | [Link](https://huggingface.co/jasperai/LBM_relighting) |
 | 6 | 5 | carsonkatri/stable-diffusion-2-depth-diffusersImage-to-Image | UpdatedDec 2, 2022 | [Link](https://huggingface.co/carsonkatri/stable-diffusion-2-depth-diffusers) |
 | 128 | 5 | qualcomm/LaMa-DilatedImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/qualcomm/LaMa-Dilated) |
@@ -5483,6 +5484,7 @@ Updated on 2026-04-07
 | Updated3 days ago | 3.17k | codelion/dhara-70mText | 71.3M | [Link](https://huggingface.co/codelion/dhara-70m) |
 | Updated21 days ago | 3.01k | ruv/ruvltra-claude-codeText | 0.5B | [Link](https://huggingface.co/ruv/ruvltra-claude-code) |
 | Updatedabout 8 hours ago | 3.53k | janhq/Jan-code-4b-ggufText | 4B | [Link](https://huggingface.co/janhq/Jan-code-4b-gguf) |
+| Updated5 days ago | 3.51k | llm-jp/llm-jp-4-8b-thinkingText | 9B | [Link](https://huggingface.co/llm-jp/llm-jp-4-8b-thinking) |
 | Updated6 days ago | 2.04k | marcelbinz/Llama-3 | 71B | [Link](https://huggingface.co/marcelbinz/Llama-3.1-Centaur-70B) |
 | Updatedabout 2 hours ago | 2.66k | unsloth/Qwen3-235B-A22B-Instruct-2507-GGUFText | 235B | [Link](https://huggingface.co/unsloth/Qwen3-235B-A22B-Instruct-2507-GGUF) |
 | Updatedabout 10 hours ago | 2 | Qwen/Qwen3-30B-A3B-Thinking-2507Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507) |
