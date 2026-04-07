@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-04-06
+Updated on 2026-04-07
 
 > Generated from the Hugging Face database.
 
@@ -16,6 +16,7 @@ Updated on 2026-04-06
 | UpdatedApr 9, 2025 | 728 | meta-llama/Llama-4-Maverick-17B-128EAny-to-Any | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E) |
 | Updatedabout 1 hour ago | 718 | XiaomiMiMo/MiMo-Audio-7B-InstructAny-to-Any | 8B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-Audio-7B-Instruct) |
 | Updatedabout 10 hours ago | 654 | HIT-TMG/Uni-MoE-2 | 33B | [Link](https://huggingface.co/HIT-TMG/Uni-MoE-2.0-Omni) |
+| Updated3 days ago | 638 | coder3101/gemma-4-E2B-it-hereticAny-to-Any | 5B | [Link](https://huggingface.co/coder3101/gemma-4-E2B-it-heretic) |
 | Updatedabout 10 hours ago | 629 | meituan-longcat/LongCat-Flash-OmniAny-to-Any | 561B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Omni) |
 | 189k | 577 | deepseek-ai/Janus-1 | Updated29 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-1.3B) |
 | Updatedabout 10 hours ago | 571 | inclusionAI/Ming-flash-omni-PreviewAny-to-Any | 104B | [Link](https://huggingface.co/inclusionAI/Ming-flash-omni-Preview) |
@@ -2060,6 +2061,7 @@ Updated on 2026-04-06
 | Updatedabout 7 hours ago | 29 | OpenGVLab/InternVL3_5-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-8B) |
 | Updatedabout 16 hours ago | 29k | google/gemma-4-31B-itImage-Text-to-Text | 33B | [Link](https://huggingface.co/google/gemma-4-31B-it) |
 | Updated2 days ago | 29.6k | nohurry/gemma-4-26B-A4B-it-heretic-GUFFImage-Text-to-Text | 25B | [Link](https://huggingface.co/nohurry/gemma-4-26B-A4B-it-heretic-GUFF) |
+| Updatedabout 23 hours ago | 29.9k | HauhauCS/Gemma-4-E2B-Uncensored-HauhauCS-AggressiveImage-Text-to-Text | 5B | [Link](https://huggingface.co/HauhauCS/Gemma-4-E2B-Uncensored-HauhauCS-Aggressive) |
 | 26 | 28 | VIDraft/Gemma-3-R1984-12BImage-Text-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/VIDraft/Gemma-3-R1984-12B) |
 | 36 | 28 | meta-llama/Llama-4-Maverick-17B-128EImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E) |
 | 1.6k | 28 | unsloth/Llama-4-Scout-17B-16E-Instruct-GGUFImage-Text-to-Text | Updatedabout 16 hours ago | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct-GGUF) |
@@ -2299,6 +2301,7 @@ Updated on 2026-04-06
 | UpdatedApr 15, 2025 | 2.7k | google/gemma-3-12b-it-qat-q4_0-unquantizedImage-Text-to-Text | 12B | [Link](https://huggingface.co/google/gemma-3-12b-it-qat-q4_0-unquantized) |
 | Updated5 days ago | 2.11k | NikolayKozloff/translategemma-4b-it-Q8_0-GGUFImage-Text-to-Text | 4B | [Link](https://huggingface.co/NikolayKozloff/translategemma-4b-it-Q8_0-GGUF) |
 | Updated5 days ago | 2.36k | DavidAU/Qwen3 | 9B | [Link](https://huggingface.co/DavidAU/Qwen3.5-9B-Claude-4.6-HighIQ-THINKING-HERETIC-UNCENSORED) |
+| Updated4 days ago | 2.57k | coder3101/gemma-4-26B-A4B-it-hereticImage-Text-to-Text | 26B | [Link](https://huggingface.co/coder3101/gemma-4-26B-A4B-it-heretic) |
 | 2.72k | 1.62k | microsoft/OmniParserImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/microsoft/OmniParser) |
 | 100k | 1.4k | stepfun-ai/GOT-OCR2_0Image-Text-to-Text | Updated21 days ago | [Link](https://huggingface.co/stepfun-ai/GOT-OCR2_0) |
 | 1.78M | 1.42k | microsoft/Florence-2-largeImage-Text-to-Text | UpdatedDec 8, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-large) |
@@ -6418,6 +6421,7 @@ Updated on 2026-04-06
 | Updatedabout 8 hours ago | 31 | aoi-ot/VibeVoice-LargeText-to-Speech | 9B | [Link](https://huggingface.co/aoi-ot/VibeVoice-Large) |
 | Updatedabout 12 hours ago | 31 | pnnbao-ump/VieNeu-TTS-1000hText-to-Speech | 0.6B | [Link](https://huggingface.co/pnnbao-ump/VieNeu-TTS-1000h) |
 | Updatedabout 11 hours ago | 31 | YatharthS/MiraTTSText-to-Speech | 0.5B | [Link](https://huggingface.co/YatharthS/MiraTTS) |
+| 28 | 31 | openbmb/VoxCPM2Text-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/openbmb/VoxCPM2) |
 | Updatedabout 7 hours ago | 30 | microsoft/VibeVoice-LargeText-to-Speech | 9B | [Link](https://huggingface.co/microsoft/VibeVoice-Large) |
 | Updatedabout 20 hours ago | 30 | SVECTOR-CORPORATION/Continue-TTSText-to-Speech | 4B | [Link](https://huggingface.co/SVECTOR-CORPORATION/Continue-TTS) |
 | Updatedabout 3 hours ago | 30 | Aratako/T5Gemma-TTS-2b-2bText-to-Speech | 5B | [Link](https://huggingface.co/Aratako/T5Gemma-TTS-2b-2b) |
