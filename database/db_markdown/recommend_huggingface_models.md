@@ -87,6 +87,7 @@ Updated on 2026-04-08
 | UpdatedAug 14 | 43.6k | unsloth/gemma-3-27b-it-GGUFAny-to-Any | 27B | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-GGUF) |
 | 1 | 42 | lehduong/OneDiffusionAny-to-Any | UpdatedJul 24 | [Link](https://huggingface.co/lehduong/OneDiffusion) |
 | Updatedabout 1 hour ago | 42 | inclusionAI/Ming-flash-omni-2 | 104B | [Link](https://huggingface.co/inclusionAI/Ming-flash-omni-2.0) |
+| Updated5 days ago | 42.6k | mlx-community/gemma-4-e2b-it-4bitAny-to-Any | 1B | [Link](https://huggingface.co/mlx-community/gemma-4-e2b-it-4bit) |
 | Updatedabout 19 hours ago | 40 | OneThink/OneThinker-8BAny-to-Any | 9B | [Link](https://huggingface.co/OneThink/OneThinker-8B) |
 | UpdatedSep 28 | 40.5k | cyankiwi/Qwen3-Omni-30B-A3B-Instruct-AWQ-4bitAny-to-Any | 10B | [Link](https://huggingface.co/cyankiwi/Qwen3-Omni-30B-A3B-Instruct-AWQ-4bit) |
 | Updatedabout 6 hours ago | 39 | inclusionAI/MingTok-VisionAny-to-Any | 0.7B | [Link](https://huggingface.co/inclusionAI/MingTok-Vision) |
@@ -122,6 +123,7 @@ Updated on 2026-04-08
 | 470 | 15 | showlab/show-oAny-to-Any | UpdatedAug 27, 2024 | [Link](https://huggingface.co/showlab/show-o) |
 | 1.03k | 14 | onnx-community/Janus-1 | UpdatedNov 28, 2024 | [Link](https://huggingface.co/onnx-community/Janus-1.3B-ONNX) |
 | Updatedabout 1 hour ago | 14 | AIDC-AI/Ovis-U1-3BAny-to-Any | 4B | [Link](https://huggingface.co/AIDC-AI/Ovis-U1-3B) |
+| Updated4 days ago | 14.5k | Abiray/gemma-4-E4B-it-heretic-GGUFAny-to-Any | 8B | [Link](https://huggingface.co/Abiray/gemma-4-E4B-it-heretic-GGUF) |
 | Updated2 days ago | 12 | EasonXiao-888/HaploOmniAny-to-Any | 9B | [Link](https://huggingface.co/EasonXiao-888/HaploOmni) |
 | Updatedabout 7 hours ago | 12 | FunAudioLLM/Fun-Audio-Chat-8BAny-to-Any | 9B | [Link](https://huggingface.co/FunAudioLLM/Fun-Audio-Chat-8B) |
 | UpdatedApr 26 | 11 | yujiepan/qwen2 | 0.0B | [Link](https://huggingface.co/yujiepan/qwen2.5-omni-tiny-random) |
@@ -172,6 +174,7 @@ Updated on 2026-04-08
 | UpdatedApr 26, 2025 | 4 | tiny-random/qwen2 | 5.39M | [Link](https://huggingface.co/tiny-random/qwen2.5-omni) |
 | UpdatedSep 11, 2025 | 4 | chaitnya26/Step-Audio-2-mini-forkAny-to-Any | 8B | [Link](https://huggingface.co/chaitnya26/Step-Audio-2-mini-fork) |
 | Updatedabout 16 hours ago | 4.64k | google/gemma-4-E4B-itAny-to-Any | 8B | [Link](https://huggingface.co/google/gemma-4-E4B-it) |
+| Updatedabout 2 hours ago | 4 | aifeifei798/Darkidol-Gemma-4-E4B-itAny-to-Any | 8B | [Link](https://huggingface.co/aifeifei798/Darkidol-Gemma-4-E4B-it) |
 | 481k | 3.11k | deepseek-ai/Janus-Pro-7BAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-7B) |
 | 78 | 3 | VARGPT-family/VARGPT_LLaVA-v1Any-to-Any | UpdatedJan 23 | [Link](https://huggingface.co/VARGPT-family/VARGPT_LLaVA-v1) |
 | 2 | 3 | impactframes/Janus-1 | UpdatedOct 19, 2024 | [Link](https://huggingface.co/impactframes/Janus-1.3B) |
