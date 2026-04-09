@@ -23,6 +23,7 @@ Updated on 2026-04-09
 | UpdatedApr 14 | 541 | second-state/Llama-4-Scout-17B-16E-Instruct-GGUFAny-to-Any | 108B | [Link](https://huggingface.co/second-state/Llama-4-Scout-17B-16E-Instruct-GGUF) |
 | Updatedabout 4 hours ago | 504 | Backup-bdg/Xoron-Dev-MultiMoeAny-to-Any | 4B | [Link](https://huggingface.co/Backup-bdg/Xoron-Dev-MultiMoe) |
 | Updated3 days ago | 500 | thenexthub/EverosAny-to-Any | 1000B | [Link](https://huggingface.co/thenexthub/Everos) |
+| Updated4 days ago | 480 | llmfan46/gemma-4-E4B-it-ultra-uncensored-hereticAny-to-Any | 8B | [Link](https://huggingface.co/llmfan46/gemma-4-E4B-it-ultra-uncensored-heretic) |
 | Updated3 days ago | 443 | cpatonn/Qwen3-Omni-30B-A3B-Instruct-AWQ-8bitAny-to-Any | 14B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Instruct-AWQ-8bit) |
 | Updated22 days ago | 408 | cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-8bitAny-to-Any | 10B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-8bit) |
 | UpdatedJun 9 | 405 | RedHatAI/gemma-3-4b-it-FP8-dynamicAny-to-Any | 4B | [Link](https://huggingface.co/RedHatAI/gemma-3-4b-it-FP8-dynamic) |
@@ -3406,6 +3407,7 @@ Updated on 2026-04-09
 | 1 | Unknown | sameenarshad786/llava-1 | UpdatedSep 20, 2025 | [Link](https://huggingface.co/sameenarshad786/llava-1.5-health-safety-captioning) |
 | 1 | Unknown | raykuo188/vlm-ssm-vision-encoders-checkpointsImage-to-Text | Updatedabout 18 hours ago | [Link](https://huggingface.co/raykuo188/vlm-ssm-vision-encoders-checkpoints) |
 | 8 | Unknown | nvidia/nemotron-ocr-v2Image-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/nvidia/nemotron-ocr-v2) |
+| 2 | Unknown | jnurik/viki-clip-modelsImage-to-Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/jnurik/viki-clip-models) |
 
 ## Image-to-Video
 
@@ -4866,6 +4868,7 @@ Updated on 2026-04-09
 | Updatedabout 8 hours ago | 886 | KORMo-Team/KORMo-10B-baseText | 11B | [Link](https://huggingface.co/KORMo-Team/KORMo-10B-base) |
 | Updatedabout 19 hours ago | 868 | inclusionAI/Ling-2 | 1T | [Link](https://huggingface.co/inclusionAI/Ling-2.5-1T) |
 | Updated23 minutes ago | 854 | Qwen/Qwen3-Next-80B-A3B-InstructText | 81B | [Link](https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct) |
+| Updated1 day ago | 789 | FINAL-Bench/Darwin-31B-OpusText | 33B | [Link](https://huggingface.co/FINAL-Bench/Darwin-31B-Opus) |
 | Updated3 days ago | 786 | apple/FastVLM-1 | 2B | [Link](https://huggingface.co/apple/FastVLM-1.5B) |
 | Updated1 day ago | 771 | nvidia/Nemotron-Cascade-8B-ThinkingText | 8B | [Link](https://huggingface.co/nvidia/Nemotron-Cascade-8B-Thinking) |
 | Updatedabout 18 hours ago | 769 | LiquidAI/LFM2-350M-MathText | 0.4B | [Link](https://huggingface.co/LiquidAI/LFM2-350M-Math) |
@@ -7013,6 +7016,7 @@ Updated on 2026-04-09
 | 4 | Unknown | dx8152/LTX2 | Updatedabout 4 hours ago | [Link](https://huggingface.co/dx8152/LTX2.3-Multifunctional) |
 | 7 | Unknown | KlingTeam/ShotStreamText-to-Video | Updated30 minutes ago | [Link](https://huggingface.co/KlingTeam/ShotStream) |
 | 3 | Unknown | caiovicentino1/HY-OmniWeaving-PolarQuant-Q5Text-to-Video | Updated1 day ago | [Link](https://huggingface.co/caiovicentino1/HY-OmniWeaving-PolarQuant-Q5) |
+| 5 | Unknown | happyhorseai/happyhorse-ai-video-generatorText-to-Video | Updated37 minutes ago | [Link](https://huggingface.co/happyhorseai/happyhorse-ai-video-generator) |
 
 ## Text2Text Generation
 
