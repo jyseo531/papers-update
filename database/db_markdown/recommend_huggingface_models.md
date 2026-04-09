@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-04-08
+Updated on 2026-04-09
 
 > Generated from the Hugging Face database.
 
@@ -325,6 +325,7 @@ Updated on 2026-04-08
 | 1 | Unknown | bartendr604/Omni | Updated1 day ago | [Link](https://huggingface.co/bartendr604/Omni.Llammy.Blend) |
 | 1 | Unknown | bartendr604/LlammyAny-to-Any | Updated2 days ago | [Link](https://huggingface.co/bartendr604/Llammy) |
 | 5 | Unknown | onnx-community/gemma-4-E2B-it-ONNXAny-to-Any | Updatedabout 7 hours ago | [Link](https://huggingface.co/onnx-community/gemma-4-E2B-it-ONNX) |
+| 7 | Unknown | huihui-ai/Huihui-gemma-4-E2B-it-abliteratedAny-to-Any | Updatedabout 11 hours ago | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-E2B-it-abliterated) |
 
 ## Audio Classification
 
@@ -1959,6 +1960,7 @@ Updated on 2026-04-08
 | 26.7k | 114 | HuggingFaceTB/SmolVLM-500M-InstructImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-500M-Instruct) |
 | Updatedabout 8 hours ago | 111 | deepseek-ai/DeepSeek-OCRImage-Text-to-Text | 3B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-OCR) |
 | Updated16 days ago | 109 | ChatDOC/OCRFlux-3BImage-Text-to-Text | 4B | [Link](https://huggingface.co/ChatDOC/OCRFlux-3B) |
+| Updated5 days ago | 109k | bartowski/google_gemma-4-31B-it-GGUFImage-Text-to-Text | 31B | [Link](https://huggingface.co/bartowski/google_gemma-4-31B-it-GGUF) |
 | 16.1k | 106 | bytedance-research/UI-TARS-72B-DPOImage-Text-to-Text | UpdatedJan 25 | [Link](https://huggingface.co/bytedance-research/UI-TARS-72B-DPO) |
 | Updated4 days ago | 105 | Alibaba-DAMO-Academy/RynnBrain-30B-A3BImage-Text-to-Text | 17B | [Link](https://huggingface.co/Alibaba-DAMO-Academy/RynnBrain-30B-A3B) |
 | Updatedabout 1 hour ago | 101 | LiquidAI/LFM2-VL-3BImage-Text-to-Text | 3B | [Link](https://huggingface.co/LiquidAI/LFM2-VL-3B) |
@@ -3331,6 +3333,7 @@ Updated on 2026-04-08
 | 21 | 1 | langningchen/luogu-captcha-modelImage-to-Text | UpdatedOct 22, 2025 | [Link](https://huggingface.co/langningchen/luogu-captcha-model) |
 | 26 | 1 | Nagafi/moondream2-q4-onnxImage-to-Text | UpdatedJan 4 | [Link](https://huggingface.co/Nagafi/moondream2-q4-onnx) |
 | 34 | 1 | Ji-Ha/glm-ocr-onnxImage-to-Text | UpdatedFeb 10 | [Link](https://huggingface.co/Ji-Ha/glm-ocr-onnx) |
+| UpdatedAug 1, 2024 | 1 | Junhoee/BLIP-FT-VETImage-to-Text | 0.2B | [Link](https://huggingface.co/Junhoee/BLIP-FT-VET) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
