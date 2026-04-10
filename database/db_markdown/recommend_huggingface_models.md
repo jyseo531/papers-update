@@ -137,6 +137,7 @@ Updated on 2026-04-10
 | UpdatedApr 9 | 10.5k | meta-llama/Llama-4-Scout-17B-16EAny-to-Any | 109B | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E) |
 | 348 | 10 | mlx-community/Llama-4-Scout-17B-16E-Instruct-4bitAny-to-Any | UpdatedMay 3, 2025 | [Link](https://huggingface.co/mlx-community/Llama-4-Scout-17B-16E-Instruct-4bit) |
 | Updatedabout 1 hour ago | 10 | FlashLabs/Chroma-4BAny-to-Any | 6B | [Link](https://huggingface.co/FlashLabs/Chroma-4B) |
+| Updatedabout 10 hours ago | 10 | huihui-ai/Huihui-gemma-4-31B-it-abliteratedAny-to-Any | 33B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-31B-it-abliterated) |
 | 23 | 9 | Alpha-VLLM/Lumina-mGPT-7B-1024Any-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-1024) |
 | Updatedabout 11 hours ago | 9.76k | google/gemma-4-E2BAny-to-Any | 5B | [Link](https://huggingface.co/google/gemma-4-E2B) |
 | Updatedabout 10 hours ago | 9 | p-e-w/gemma-4-E2B-it-heretic-araAny-to-Any | 5B | [Link](https://huggingface.co/p-e-w/gemma-4-E2B-it-heretic-ara) |
@@ -1920,6 +1921,7 @@ Updated on 2026-04-10
 | Updated5 days ago | 302 | Qwen/Qwen3-VL-2B-Thinking-FP8Image-Text-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-2B-Thinking-FP8) |
 | UpdatedOct 21, 2025 | 298k | datalab-to/chandraImage-Text-to-Text | 9B | [Link](https://huggingface.co/datalab-to/chandra) |
 | 17.9k | 287 | deepseek-ai/deepseek-vl2Image-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2) |
+| Updatedabout 11 hours ago | 272 | tencent/HY-Embodied-0 | 4B | [Link](https://huggingface.co/tencent/HY-Embodied-0.5) |
 | 26.4k | 267 | MiniMaxAI/MiniMax-VL-01Image-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-VL-01) |
 | Updatedabout 14 hours ago | 260 | QuixiAI/Prisma-VL-8BImage-Text-to-Text | 770k | [Link](https://huggingface.co/QuixiAI/Prisma-VL-8B) |
 | Updated7 days ago | 253 | prithivMLmods/Qwen3-VL-8B-Instruct-Unredacted-MAXImage-Text-to-Text | 9B | [Link](https://huggingface.co/prithivMLmods/Qwen3-VL-8B-Instruct-Unredacted-MAX) |
@@ -4906,6 +4908,7 @@ Updated on 2026-04-10
 | Updated4 days ago | 489 | AlicanKiraz0/Kara-Kumru-v1 | 2B | [Link](https://huggingface.co/AlicanKiraz0/Kara-Kumru-v1.0-2B) |
 | 894k | 486 | deepseek-ai/DeepSeek-R1-Distill-Qwen-7BText | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B) |
 | Updated6 days ago | 480 | huihui-ai/Huihui-GLM-4 | 353B | [Link](https://huggingface.co/huihui-ai/Huihui-GLM-4.6-abliterated-mlx-4bit) |
+| Updatedabout 10 hours ago | 466 | AIDC-AI/Marco-Nano-InstructText | 8B | [Link](https://huggingface.co/AIDC-AI/Marco-Nano-Instruct) |
 | Updatedabout 24 hours ago | 463 | PowerInfer/SmallThinker-4BA0 | 4B | [Link](https://huggingface.co/PowerInfer/SmallThinker-4BA0.6B-Instruct) |
 | Updatedabout 16 hours ago | 461 | MaziyarPanahi/VibeThinker-1 | 2B | [Link](https://huggingface.co/MaziyarPanahi/VibeThinker-1.5B-GGUF) |
 | Updatedabout 5 hours ago | 441k | EssentialAI/rnj-1-instructText | 8B | [Link](https://huggingface.co/EssentialAI/rnj-1-instruct) |
@@ -4935,6 +4938,7 @@ Updated on 2026-04-10
 | Updated2 days ago | 288 | janhq/Jan-v3-4B-base-instructText | 4B | [Link](https://huggingface.co/janhq/Jan-v3-4B-base-instruct) |
 | Updated3 days ago | 287 | PrimeIntellect/INTELLECT-3 | 107B | [Link](https://huggingface.co/PrimeIntellect/INTELLECT-3.1) |
 | Updated8 days ago | 283 | perplexity-ai/browsesafeText | 31B | [Link](https://huggingface.co/perplexity-ai/browsesafe) |
+| Updatedabout 11 hours ago | 278 | AIDC-AI/Marco-Mini-InstructText | 17B | [Link](https://huggingface.co/AIDC-AI/Marco-Mini-Instruct) |
 | Updated2 days ago | 266 | FutureMa/Qwen3-8B-Drama-ThinkingText | 308k | [Link](https://huggingface.co/FutureMa/Qwen3-8B-Drama-Thinking) |
 | Updated5 days ago | 264 | arcee-ai/Trinity-Nano-BaseText | 6B | [Link](https://huggingface.co/arcee-ai/Trinity-Nano-Base) |
 | 6.51k | 262 | NousResearch/DeepHermes-3-Llama-3-8B-PreviewText | Updated6 days ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview) |
@@ -5446,6 +5450,7 @@ Updated on 2026-04-10
 | Updatedabout 7 hours ago | 9 | facebook/MobileLLM-R1-950MText | 0.9B | [Link](https://huggingface.co/facebook/MobileLLM-R1-950M) |
 | Updatedabout 5 hours ago | 9 | Zyphra/ZAYA1-baseText | 9B | [Link](https://huggingface.co/Zyphra/ZAYA1-base) |
 | Updatedabout 15 hours ago | 9.27k | mudler/Qwen3 | 35B | [Link](https://huggingface.co/mudler/Qwen3.5-35B-A3B-APEX-GGUF) |
+| Updatedabout 11 hours ago | 9.14k | Jackrong/Gemopus-4-26B-A4B-it-GGUFText | 25B | [Link](https://huggingface.co/Jackrong/Gemopus-4-26B-A4B-it-GGUF) |
 | Updated3 days ago | 8.32k | trillionlabs/Tri-21BText | 21B | [Link](https://huggingface.co/trillionlabs/Tri-21B) |
 | Updatedabout 14 hours ago | 8 | janhq/Jan-v1-4B-GGUFText | 4B | [Link](https://huggingface.co/janhq/Jan-v1-4B-GGUF) |
 | Updatedabout 16 hours ago | 8.51k | nvidia/NVIDIA-Nemotron-Nano-12B-v2Text | 12B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-12B-v2) |
@@ -7025,6 +7030,7 @@ Updated on 2026-04-10
 | 3 | Unknown | caiovicentino1/HY-OmniWeaving-PolarQuant-Q5Text-to-Video | Updated1 day ago | [Link](https://huggingface.co/caiovicentino1/HY-OmniWeaving-PolarQuant-Q5) |
 | 5 | Unknown | happyhorseai/happyhorse-ai-video-generatorText-to-Video | Updated37 minutes ago | [Link](https://huggingface.co/happyhorseai/happyhorse-ai-video-generator) |
 | 20 | Unknown | happyhorseai/happy-horse-ai-video-generatorText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/happyhorseai/happy-horse-ai-video-generator) |
+| 2 | Unknown | happyhorse-ai/happyhorse-1 | Updatedabout 9 hours ago | [Link](https://huggingface.co/happyhorse-ai/happyhorse-1.0) |
 
 ## Text2Text Generation
 
