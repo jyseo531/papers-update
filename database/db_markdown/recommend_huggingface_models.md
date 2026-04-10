@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-04-09
+Updated on 2026-04-10
 
 > Generated from the Hugging Face database.
 
@@ -119,6 +119,7 @@ Updated on 2026-04-09
 | 142 | 19 | mit-han-lab/vila-u-7b-256Any-to-Any | UpdatedOct 29, 2024 | [Link](https://huggingface.co/mit-han-lab/vila-u-7b-256) |
 | Updatedabout 11 hours ago | 19 | Qwen/Qwen3-Omni-30B-A3B-InstructAny-to-Any | 35B | [Link](https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Instruct) |
 | UpdatedApr 27 | 19 | Tokymin/SmolVLM2-2 | 2B | [Link](https://huggingface.co/Tokymin/SmolVLM2-2.2B-Instruct-video-feedback) |
+| Updated6 days ago | 19.3k | mlx-community/gemma-4-e4b-it-4bitAny-to-Any | 2B | [Link](https://huggingface.co/mlx-community/gemma-4-e4b-it-4bit) |
 | Updated3 days ago | 18 | ericleigh007/MiniCPM-o-4_5-BNB-Int4Any-to-Any | 10B | [Link](https://huggingface.co/ericleigh007/MiniCPM-o-4_5-BNB-Int4) |
 | 621 | 16 | EPFL-VILAB/4M-7_B_CC12MAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-7_B_CC12M) |
 | 470 | 15 | showlab/show-oAny-to-Any | UpdatedAug 27, 2024 | [Link](https://huggingface.co/showlab/show-o) |
@@ -176,6 +177,7 @@ Updated on 2026-04-09
 | UpdatedSep 11, 2025 | 4 | chaitnya26/Step-Audio-2-mini-forkAny-to-Any | 8B | [Link](https://huggingface.co/chaitnya26/Step-Audio-2-mini-fork) |
 | Updatedabout 16 hours ago | 4.64k | google/gemma-4-E4B-itAny-to-Any | 8B | [Link](https://huggingface.co/google/gemma-4-E4B-it) |
 | Updatedabout 2 hours ago | 4 | aifeifei798/Darkidol-Gemma-4-E4B-itAny-to-Any | 8B | [Link](https://huggingface.co/aifeifei798/Darkidol-Gemma-4-E4B-it) |
+| 257 | 4 | DavidAU/gemma-4-E4B-it-The-DECKARD-HERETIC-UNCENSORED-ThinkingAny-to-Any | Updated1 day ago | [Link](https://huggingface.co/DavidAU/gemma-4-E4B-it-The-DECKARD-HERETIC-UNCENSORED-Thinking) |
 | 481k | 3.11k | deepseek-ai/Janus-Pro-7BAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-7B) |
 | 78 | 3 | VARGPT-family/VARGPT_LLaVA-v1Any-to-Any | UpdatedJan 23 | [Link](https://huggingface.co/VARGPT-family/VARGPT_LLaVA-v1) |
 | 2 | 3 | impactframes/Janus-1 | UpdatedOct 19, 2024 | [Link](https://huggingface.co/impactframes/Janus-1.3B) |
@@ -2003,6 +2005,7 @@ Updated on 2026-04-09
 | 69 | 61 | google/gemma-3-12b-itImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-12b-it) |
 | 3.25k | 61 | meta-llama/Llama-4-Scout-17B-16EImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E) |
 | Updatedabout 1 hour ago | 61.9k | Sehyo/Qwen3 | 71B | [Link](https://huggingface.co/Sehyo/Qwen3.5-122B-A10B-NVFP4) |
+| Updated3 minutes ago | 59.9k | dealignai/Gemma-4-31B-JANG_4M-CRACKImage-Text-to-Text | 6B | [Link](https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK) |
 | 18.5k | 57 | prithivMLmods/Qwen2-VL-OCR-2B-InstructImage-Text-to-Text | UpdatedJan 11 | [Link](https://huggingface.co/prithivMLmods/Qwen2-VL-OCR-2B-Instruct) |
 | 944 | 56 | nvidia/Eagle2-9BImage-Text-to-Text | UpdatedJan 28 | [Link](https://huggingface.co/nvidia/Eagle2-9B) |
 | Updatedabout 12 hours ago | 56 | Hcompany/Holo3-35B-A3BImage-Text-to-Text | 35B | [Link](https://huggingface.co/Hcompany/Holo3-35B-A3B) |
@@ -2183,6 +2186,7 @@ Updated on 2026-04-09
 | 197 | 11 | nvidia/NVIDIA-Nemotron-Parse-v1 | Updated1 day ago | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Parse-v1.1) |
 | Updatedabout 17 hours ago | 11 | janhq/Jan-v2-VL-max-FP8Image-Text-to-Text | 31B | [Link](https://huggingface.co/janhq/Jan-v2-VL-max-FP8) |
 | Updatedabout 10 hours ago | 11 | unsloth/gemma-4-31B-it-GGUFImage-Text-to-Text | 31B | [Link](https://huggingface.co/unsloth/gemma-4-31B-it-GGUF) |
+| Updated1 minute ago | 11.4k | dealignai/Gemma-4-26B-A4B-JANG_4M-CRACKImage-Text-to-Text | 5B | [Link](https://huggingface.co/dealignai/Gemma-4-26B-A4B-JANG_4M-CRACK) |
 | 185 | 10 | prithivMLmods/Tokenized-OCRImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/prithivMLmods/Tokenized-OCR) |
 | 25 | 10 | prithivMLmods/Qwen2-VL-OCR2-2B-InstructImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/Qwen2-VL-OCR2-2B-Instruct) |
 | 9 | 10 | google/gemma-3-12b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-12b-pt) |
@@ -2899,6 +2903,8 @@ Updated on 2026-04-09
 | 6 | Unknown | vaskers5/LUA-FLUXImage-to-Image | Updated5 days ago | [Link](https://huggingface.co/vaskers5/LUA-FLUX) |
 | 58 |  | PixelSmile/PixelSmileImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/PixelSmile/PixelSmile) |
 | 5 | Unknown | Kristen-Z/MegaFlowImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/Kristen-Z/MegaFlow) |
+| 82 | Unknown | jdopensource/JoyAI-Image-EditImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/jdopensource/JoyAI-Image-Edit) |
+| 7 | Unknown | CSU-JPG/FlowInOneImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/CSU-JPG/FlowInOne) |
 
 ## Image-to-Text
 
@@ -5548,6 +5554,7 @@ Updated on 2026-04-09
 | Updated13 days ago | 1.66k | bharatgenai/Param2-17B-A2 | 17B | [Link](https://huggingface.co/bharatgenai/Param2-17B-A2.4B-Thinking) |
 | Updatedabout 16 hours ago | 1.88k | ai-sage/GigaChat3 | 11B | [Link](https://huggingface.co/ai-sage/GigaChat3.1-10B-A1.8B-GGUF) |
 | Updatedabout 2 hours ago | 1.09k | chromadb/context-1Text | 21B | [Link](https://huggingface.co/chromadb/context-1) |
+| Updatedabout 4 hours ago | 1.27k | LilaRest/gemma-4-31B-it-NVFP4-turboText | 33B | [Link](https://huggingface.co/LilaRest/gemma-4-31B-it-NVFP4-turbo) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -7017,6 +7024,7 @@ Updated on 2026-04-09
 | 7 | Unknown | KlingTeam/ShotStreamText-to-Video | Updated30 minutes ago | [Link](https://huggingface.co/KlingTeam/ShotStream) |
 | 3 | Unknown | caiovicentino1/HY-OmniWeaving-PolarQuant-Q5Text-to-Video | Updated1 day ago | [Link](https://huggingface.co/caiovicentino1/HY-OmniWeaving-PolarQuant-Q5) |
 | 5 | Unknown | happyhorseai/happyhorse-ai-video-generatorText-to-Video | Updated37 minutes ago | [Link](https://huggingface.co/happyhorseai/happyhorse-ai-video-generator) |
+| 20 | Unknown | happyhorseai/happy-horse-ai-video-generatorText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/happyhorseai/happy-horse-ai-video-generator) |
 
 ## Text2Text Generation
 
