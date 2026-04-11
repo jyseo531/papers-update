@@ -156,6 +156,7 @@ Updated on 2026-04-11
 | UpdatedJun 18 | 6.36k | unsloth/Llama-4-Maverick-17B-128E-Instruct-GGUFAny-to-Any | 401B | [Link](https://huggingface.co/unsloth/Llama-4-Maverick-17B-128E-Instruct-GGUF) |
 | UpdatedFeb 14 | 6 | Nikhil-aka-Nick/FlorenceDropout2Any-to-Any | 0.8B | [Link](https://huggingface.co/Nikhil-aka-Nick/FlorenceDropout2) |
 | UpdatedMay 12, 2025 | 6.86k | unsloth/gemma-3-12b-it-bnb-4bitAny-to-Any | 13B | [Link](https://huggingface.co/unsloth/gemma-3-12b-it-bnb-4bit) |
+| Updatedabout 10 hours ago | 6 | huihui-ai/Huihui-gemma-4-26B-A4B-it-abliteratedAny-to-Any | 27B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-26B-A4B-it-abliterated) |
 | 1.63k | 5 | PKU-Alignment/AA-chameleon-7b-plusAny-to-Any | UpdatedSep 13, 2024 | [Link](https://huggingface.co/PKU-Alignment/AA-chameleon-7b-plus) |
 | 2.67k | 5 | Junfeng5/Liquid_V1_7BAny-to-Any | Updated8 days ago | [Link](https://huggingface.co/Junfeng5/Liquid_V1_7B) |
 | UpdatedMay 9 | 5.89k | unsloth/gemma-3-27b-it-qat-GGUFAny-to-Any | 27B | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-qat-GGUF) |
@@ -5561,6 +5562,7 @@ Updated on 2026-04-11
 | Updatedabout 16 hours ago | 1.88k | ai-sage/GigaChat3 | 11B | [Link](https://huggingface.co/ai-sage/GigaChat3.1-10B-A1.8B-GGUF) |
 | Updatedabout 2 hours ago | 1.09k | chromadb/context-1Text | 21B | [Link](https://huggingface.co/chromadb/context-1) |
 | Updatedabout 4 hours ago | 1.27k | LilaRest/gemma-4-31B-it-NVFP4-turboText | 33B | [Link](https://huggingface.co/LilaRest/gemma-4-31B-it-NVFP4-turbo) |
+| Updated3 days ago | 1.46k | kai-os/Carnice-27bText | 27B | [Link](https://huggingface.co/kai-os/Carnice-27b) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -6545,6 +6547,7 @@ Updated on 2026-04-11
 | Updatedabout 3 hours ago | 5 | Aratako/Irodori-TTS-500M-v2-VoiceDesignText-to-Speech | 0.5B | [Link](https://huggingface.co/Aratako/Irodori-TTS-500M-v2-VoiceDesign) |
 | 1 | 5 | drbaph/LongCat-AudioDiT-3 | Updated1 day ago | [Link](https://huggingface.co/drbaph/LongCat-AudioDiT-3.5B-fp8) |
 | 377 | 5 | drbaph/OmniVoice-bf16Text-to-Speech | Updated3 days ago | [Link](https://huggingface.co/drbaph/OmniVoice-bf16) |
+| 589 | 5 | mlx-community/VoxCPM2-4bitText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/mlx-community/VoxCPM2-4bit) |
 | 5 | 4 | lunahr/csm-1b-safetensors-fp16Text-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-fp16) |
 | 2 | 4 | VAGOsolutions/SauerkrautTTS-Preview-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/VAGOsolutions/SauerkrautTTS-Preview-0.1) |
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
