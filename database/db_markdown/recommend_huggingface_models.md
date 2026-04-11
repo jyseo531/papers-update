@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-04-10
+Updated on 2026-04-11
 
 > Generated from the Hugging Face database.
 
@@ -165,6 +165,7 @@ Updated on 2026-04-10
 | UpdatedApr 6, 2025 | 5 | YoussefHosni/Gemma-3-4B-medical-QA-ReasoningAny-to-Any | 4B | [Link](https://huggingface.co/YoussefHosni/Gemma-3-4B-medical-QA-Reasoning) |
 | UpdatedSep 11, 2025 | 5 | chaitnya26/Qwen2 | 6B | [Link](https://huggingface.co/chaitnya26/Qwen2.5-Omni-3B-Fork) |
 | Updatedabout 13 hours ago | 5 | coder3101/gemma-4-E4B-it-hereticAny-to-Any | 8B | [Link](https://huggingface.co/coder3101/gemma-4-E4B-it-heretic) |
+| 226 | 5 | DavidAU/gemma-4-E4B-it-The-DECKARD-Expresso-Universe-HERETIC-UNCENSORED-ThinkingAny-to-Any | Updated3 minutes ago | [Link](https://huggingface.co/DavidAU/gemma-4-E4B-it-The-DECKARD-Expresso-Universe-HERETIC-UNCENSORED-Thinking) |
 | 126 | 4 | Alpha-VLLM/Chameleon_7B_mGPTAny-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Chameleon_7B_mGPT) |
 | 37 | 4 | Alpha-VLLM/Lumina-mGPT-7B-512-MultiImageAny-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-512-MultiImage) |
 | 26 | 4 | EPFL-VILAB/4M-7-T2I_XL_CC12MAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-7-T2I_XL_CC12M) |
