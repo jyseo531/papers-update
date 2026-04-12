@@ -183,6 +183,7 @@ Updated on 2026-04-12
 | Updatedabout 2 hours ago | 4 | aifeifei798/Darkidol-Gemma-4-E4B-itAny-to-Any | 8B | [Link](https://huggingface.co/aifeifei798/Darkidol-Gemma-4-E4B-it) |
 | 257 | 4 | DavidAU/gemma-4-E4B-it-The-DECKARD-HERETIC-UNCENSORED-ThinkingAny-to-Any | Updated1 day ago | [Link](https://huggingface.co/DavidAU/gemma-4-E4B-it-The-DECKARD-HERETIC-UNCENSORED-Thinking) |
 | 76 | 4 | huihui-ai/Huihui-gemma-4-E4B-it-abliteratedAny-to-Any | Updated1 day ago | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-E4B-it-abliterated) |
+| 54 | 4 | huihui-ai/Huihui-gemma-4-E2B-it-abliterated-v2Any-to-Any | Updatedabout 17 hours ago | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-E2B-it-abliterated-v2) |
 | 481k | 3.11k | deepseek-ai/Janus-Pro-7BAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-7B) |
 | 78 | 3 | VARGPT-family/VARGPT_LLaVA-v1Any-to-Any | UpdatedJan 23 | [Link](https://huggingface.co/VARGPT-family/VARGPT_LLaVA-v1) |
 | 2 | 3 | impactframes/Janus-1 | UpdatedOct 19, 2024 | [Link](https://huggingface.co/impactframes/Janus-1.3B) |
@@ -2626,6 +2627,7 @@ Updated on 2026-04-12
 | 110 | 5 | MeiGen-AI/PosterOmni_v1Image-to-Image | Updatedabout 14 hours ago | [Link](https://huggingface.co/MeiGen-AI/PosterOmni_v1) |
 | 16 | 5 | Azily/Macro-Qwen-Image-EditImage-to-Image | Updated17 days ago | [Link](https://huggingface.co/Azily/Macro-Qwen-Image-Edit) |
 | 171 | 5 | tonera/FLUX | Updated3 days ago | [Link](https://huggingface.co/tonera/FLUX.2-klein-9B-Nunchaku) |
+| 338 | 5 | jdopensource/JoyAI-Image-Edit-DiffusersImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/jdopensource/JoyAI-Image-Edit-Diffusers) |
 | 575 | 4 | prs-eth/marigold-normals-v1-1Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-normals-v1-1) |
 | 1k | 4 | stanfordmimi/MedVAEImage-to-Image | UpdatedMar 31 | [Link](https://huggingface.co/stanfordmimi/MedVAE) |
 | 3 | 4 | wikeeyang/UniWorld-V1-NF4Image-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/wikeeyang/UniWorld-V1-NF4) |
