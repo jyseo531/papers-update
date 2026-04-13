@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-04-12
+Updated on 2026-04-13
 
 > Generated from the Hugging Face database.
 
@@ -4915,6 +4915,7 @@ Updated on 2026-04-12
 | Updated3 days ago | 528 | huihui-ai/Huihui-Qwen3-Coder-Next-abliteratedText | 80B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3-Coder-Next-abliterated) |
 | Updated3 days ago | 528 | atbender/Qwen3 | 30B | [Link](https://huggingface.co/atbender/Qwen3.5-REAP-212B-A17B-W4A16) |
 | Updated4 days ago | 517 | ai21labs/AI21-Jamba2-3BText | 3B | [Link](https://huggingface.co/ai21labs/AI21-Jamba2-3B) |
+| Updated2 days ago | 509 | Zigeng/DMax-Coder-16BText | 16B | [Link](https://huggingface.co/Zigeng/DMax-Coder-16B) |
 | Updated2 days ago | 490 | DJLougen/Harmonic-27B-GGUFText | 27B | [Link](https://huggingface.co/DJLougen/Harmonic-27B-GGUF) |
 | Updated4 days ago | 489 | AlicanKiraz0/Kara-Kumru-v1 | 2B | [Link](https://huggingface.co/AlicanKiraz0/Kara-Kumru-v1.0-2B) |
 | 894k | 486 | deepseek-ai/DeepSeek-R1-Distill-Qwen-7BText | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B) |
