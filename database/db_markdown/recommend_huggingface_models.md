@@ -128,6 +128,7 @@ Updated on 2026-04-13
 | Updated4 days ago | 14.5k | Abiray/gemma-4-E4B-it-heretic-GGUFAny-to-Any | 8B | [Link](https://huggingface.co/Abiray/gemma-4-E4B-it-heretic-GGUF) |
 | Updated2 days ago | 12 | EasonXiao-888/HaploOmniAny-to-Any | 9B | [Link](https://huggingface.co/EasonXiao-888/HaploOmni) |
 | Updatedabout 7 hours ago | 12 | FunAudioLLM/Fun-Audio-Chat-8BAny-to-Any | 9B | [Link](https://huggingface.co/FunAudioLLM/Fun-Audio-Chat-8B) |
+| Updated2 days ago | 12k | mradermacher/Gemma-4-Queen-31B-it-i1-GGUFAny-to-Any | 31B | [Link](https://huggingface.co/mradermacher/Gemma-4-Queen-31B-it-i1-GGUF) |
 | UpdatedApr 26 | 11 | yujiepan/qwen2 | 0.0B | [Link](https://huggingface.co/yujiepan/qwen2.5-omni-tiny-random) |
 | UpdatedDec 12, 2024 | 11 | Alpha-VLLM/Lumina-mGPT-34B-512Any-to-Any | 34B | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-34B-512) |
 | UpdatedMar 20 | 11 | Kfjjdjdjdhdhd/Gemma-3-4b-it-Uncensored-DBL-X-int2-quantizedAny-to-Any | 5B | [Link](https://huggingface.co/Kfjjdjdjdhdhd/Gemma-3-4b-it-Uncensored-DBL-X-int2-quantized) |
@@ -2047,6 +2048,7 @@ Updated on 2026-04-13
 | 25 | 40 | Hcompany/Holo1-7BImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/Hcompany/Holo1-7B) |
 | Updatedabout 6 hours ago | 40 | microsoft/Fara-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/microsoft/Fara-7B) |
 | Updatedabout 8 hours ago | 40 | microsoft/Phi-4-reasoning-vision-15BImage-Text-to-Text | 15B | [Link](https://huggingface.co/microsoft/Phi-4-reasoning-vision-15B) |
+| 132 | 40 | jason1966/CoPaw-Flash-9B-DataAnalyst-LoRAImage-Text-to-Text | Updated4 days ago | [Link](https://huggingface.co/jason1966/CoPaw-Flash-9B-DataAnalyst-LoRA) |
 | Updatedabout 7 hours ago | 39 | OpenGVLab/InternVL3_5-38BImage-Text-to-Text | 38B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-38B) |
 | 12.4k | 38 | zhibinlan/LLaVE-2BImage-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/zhibinlan/LLaVE-2B) |
 | 7.23k | 38 | nvidia/Cosmos-Reason1-7BImage-Text-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/nvidia/Cosmos-Reason1-7B) |
@@ -2649,6 +2651,7 @@ Updated on 2026-04-13
 | 397 | 4 | ovedrive/Qwen-Image-Edit-2511-4bitImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/ovedrive/Qwen-Image-Edit-2511-4bit) |
 |  | 4 | prithivMLmods/QIE-2509-Object-Remover-BboxImage-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/prithivMLmods/QIE-2509-Object-Remover-Bbox) |
 | 133 | 4 | drbaph/FireRed-Image-Edit-1 | Updated2 days ago | [Link](https://huggingface.co/drbaph/FireRed-Image-Edit-1.1_ComfyUI_Quants) |
+| 94 | 4 | linoyts/flux2-klein-bbox-drag-drop-loraImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/linoyts/flux2-klein-bbox-drag-drop-lora) |
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
@@ -5510,6 +5513,7 @@ Updated on 2026-04-13
 | Updated1 day ago | 4.97k | ymcki/Kimi-Linear-48B-A3B-Instruct-GGUFText | 49B | [Link](https://huggingface.co/ymcki/Kimi-Linear-48B-A3B-Instruct-GGUF) |
 | Updated2 days ago | 4.46k | mmnga-o/NVIDIA-Nemotron-Nano-9B-v2-Japanese-ggufText | 9B | [Link](https://huggingface.co/mmnga-o/NVIDIA-Nemotron-Nano-9B-v2-Japanese-gguf) |
 | Updated6 days ago | 4.97k | prism-ml/Bonsai-4B-ggufText | 4B | [Link](https://huggingface.co/prism-ml/Bonsai-4B-gguf) |
+| Updated7 days ago | 4.05k | kai-os/Carnice-27b-GGUFText | 27B | [Link](https://huggingface.co/kai-os/Carnice-27b-GGUF) |
 | Updated2 days ago | 3.87k | unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUFText | 480B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUF) |
 | Updated6 days ago | 3.39k | Qwen/Qwen3-30B-A3B-Thinking-2507-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507-FP8) |
 | Updatedabout 4 hours ago | 3.61k | openai/gpt-oss-120bText | 63B | [Link](https://huggingface.co/openai/gpt-oss-120b) |
@@ -6442,6 +6446,7 @@ Updated on 2026-04-13
 | 1.54k | 62 | facebook/hf-seamless-m4t-largeText-to-Speech | UpdatedDec 8, 2023 | [Link](https://huggingface.co/facebook/hf-seamless-m4t-large) |
 | Updatedabout 7 hours ago | 61 | maya-research/maya1Text-to-Speech | 3B | [Link](https://huggingface.co/maya-research/maya1) |
 | Updatedabout 11 hours ago | 61 | neuphonic/neutts-nano-spanishText-to-Speech | 0.2B | [Link](https://huggingface.co/neuphonic/neutts-nano-spanish) |
+| 1.59k | 61 | OpenMOSS-Team/MOSS-TTS-Nano-100MText-to-Speech | Updatedabout 4 hours ago | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Nano-100M) |
 | Updatedabout 13 hours ago | 58 | NandemoGHS/Anime-Llasa-3B-CaptionsText-to-Speech | 3B | [Link](https://huggingface.co/NandemoGHS/Anime-Llasa-3B-Captions) |
 | UpdatedMar 14 | 58 | saheedniyi/YarnGPT-localText-to-Speech | 0.4B | [Link](https://huggingface.co/saheedniyi/YarnGPT-local) |
 | Updated3 days ago | 57 | mlx-community/VoxCPM1 | 0.9B | [Link](https://huggingface.co/mlx-community/VoxCPM1.5) |
