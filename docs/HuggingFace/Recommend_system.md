@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-04-13
+Updated on 2026-04-14
 
 > Generated from the Hugging Face database.
 
@@ -2349,6 +2349,7 @@ Updated on 2026-04-13
 | Updatedabout 10 hours ago | 1 | unsloth/gemma-4-26B-A4B-it-GGUFImage-Text-to-Text | 25B | [Link](https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF) |
 | Updatedabout 8 hours ago | 1 | unsloth/gemma-4-E4B-it-GGUFImage-Text-to-Text | 8B | [Link](https://huggingface.co/unsloth/gemma-4-E4B-it-GGUF) |
 | Updatedabout 15 hours ago | 1.13k | HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-AggressiveImage-Text-to-Text | 8B | [Link](https://huggingface.co/HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive) |
+| Updated3 days ago | 1.83k | Ex0bit/MYTHOS-26B-A4B-PRISM-PRO-DQ-GGUFImage-Text-to-Text | 25B | [Link](https://huggingface.co/Ex0bit/MYTHOS-26B-A4B-PRISM-PRO-DQ-GGUF) |
 | 1.07M |  | meta-llama/Llama-3 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) |
 | 1.49M |  | Qwen/Qwen2-VL-7B-InstructImage-Text-to-Text | Updated19 days ago | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) |
 | 288k |  | microsoft/Phi-3 | UpdatedSep 26, 2024 | [Link](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) |
@@ -7052,6 +7053,7 @@ Updated on 2026-04-13
 | 5 | Unknown | happyhorseai/happyhorse-ai-video-generatorText-to-Video | Updated37 minutes ago | [Link](https://huggingface.co/happyhorseai/happyhorse-ai-video-generator) |
 | 20 | Unknown | happyhorseai/happy-horse-ai-video-generatorText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/happyhorseai/happy-horse-ai-video-generator) |
 | 2 | Unknown | happyhorse-ai/happyhorse-1 | Updatedabout 9 hours ago | [Link](https://huggingface.co/happyhorse-ai/happyhorse-1.0) |
+| 6 | Unknown | caiovicentino1/HY-OmniWeaving-HLWQ-Q5Text-to-Video | Updatedabout 8 hours ago | [Link](https://huggingface.co/caiovicentino1/HY-OmniWeaving-HLWQ-Q5) |
 
 ## Text2Text Generation
 
