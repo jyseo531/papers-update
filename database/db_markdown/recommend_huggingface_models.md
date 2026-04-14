@@ -15,6 +15,7 @@ Updated on 2026-04-14
 | Updated6 days ago | 798 | modelscope/Nexus-GenAny-to-Any | 8B | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | UpdatedApr 9, 2025 | 728 | meta-llama/Llama-4-Maverick-17B-128EAny-to-Any | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E) |
 | Updatedabout 1 hour ago | 718 | XiaomiMiMo/MiMo-Audio-7B-InstructAny-to-Any | 8B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-Audio-7B-Instruct) |
+| Updated3 days ago | 688 | mlx-community/gemma-4-e4b-it-OptiQ-4bitAny-to-Any | 8B | [Link](https://huggingface.co/mlx-community/gemma-4-e4b-it-OptiQ-4bit) |
 | Updatedabout 10 hours ago | 654 | HIT-TMG/Uni-MoE-2 | 33B | [Link](https://huggingface.co/HIT-TMG/Uni-MoE-2.0-Omni) |
 | Updated3 days ago | 638 | coder3101/gemma-4-E2B-it-hereticAny-to-Any | 5B | [Link](https://huggingface.co/coder3101/gemma-4-E2B-it-heretic) |
 | Updatedabout 10 hours ago | 629 | meituan-longcat/LongCat-Flash-OmniAny-to-Any | 561B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Omni) |
@@ -68,6 +69,7 @@ Updated on 2026-04-14
 | UpdatedMay 22 | 88.7k | meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8Any-to-Any | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8) |
 | 36.8k | 83 | openbmb/MiniCPM-o-2_6-ggufAny-to-Any | UpdatedJan 17 | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6-gguf) |
 | Updated5 days ago | 76 | DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-ExtremeAny-to-Any | 4B | [Link](https://huggingface.co/DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-Extreme) |
+| Updated6 days ago | 65 | alphakek/gemma-4-E4B-it-heretic-mythos-v1Any-to-Any | 8B | [Link](https://huggingface.co/alphakek/gemma-4-E4B-it-heretic-mythos-v1) |
 | UpdatedAug 20 | 64 | Frane92O/Qwen2 | 8B | [Link](https://huggingface.co/Frane92O/Qwen2.5-Omni-7B-Q4_0-GGUF) |
 | Updatedabout 1 hour ago | 63 | wikeeyang/Emu35-NF4Any-to-Any | 35B | [Link](https://huggingface.co/wikeeyang/Emu35-NF4) |
 | Updated24 days ago | 63 | sovthpaw/Omni-Senter-3BAny-to-Any | 29.9M | [Link](https://huggingface.co/sovthpaw/Omni-Senter-3B) |
@@ -185,6 +187,7 @@ Updated on 2026-04-14
 | 257 | 4 | DavidAU/gemma-4-E4B-it-The-DECKARD-HERETIC-UNCENSORED-ThinkingAny-to-Any | Updated1 day ago | [Link](https://huggingface.co/DavidAU/gemma-4-E4B-it-The-DECKARD-HERETIC-UNCENSORED-Thinking) |
 | 76 | 4 | huihui-ai/Huihui-gemma-4-E4B-it-abliteratedAny-to-Any | Updated1 day ago | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-E4B-it-abliterated) |
 | 54 | 4 | huihui-ai/Huihui-gemma-4-E2B-it-abliterated-v2Any-to-Any | Updatedabout 17 hours ago | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-E2B-it-abliterated-v2) |
+| 132 | 4 | DavidAU/gemma-4-E4B-it-The-DECKARD-Claude-Opus-Expresso-Universe-HERETIC-UNCENSORED-ThinkingAny-to-Any | Updatedabout 8 hours ago | [Link](https://huggingface.co/DavidAU/gemma-4-E4B-it-The-DECKARD-Claude-Opus-Expresso-Universe-HERETIC-UNCENSORED-Thinking) |
 | 481k | 3.11k | deepseek-ai/Janus-Pro-7BAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-7B) |
 | 78 | 3 | VARGPT-family/VARGPT_LLaVA-v1Any-to-Any | UpdatedJan 23 | [Link](https://huggingface.co/VARGPT-family/VARGPT_LLaVA-v1) |
 | 2 | 3 | impactframes/Janus-1 | UpdatedOct 19, 2024 | [Link](https://huggingface.co/impactframes/Janus-1.3B) |
@@ -2350,6 +2353,7 @@ Updated on 2026-04-14
 | Updatedabout 8 hours ago | 1 | unsloth/gemma-4-E4B-it-GGUFImage-Text-to-Text | 8B | [Link](https://huggingface.co/unsloth/gemma-4-E4B-it-GGUF) |
 | Updatedabout 15 hours ago | 1.13k | HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-AggressiveImage-Text-to-Text | 8B | [Link](https://huggingface.co/HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive) |
 | Updated3 days ago | 1.83k | Ex0bit/MYTHOS-26B-A4B-PRISM-PRO-DQ-GGUFImage-Text-to-Text | 25B | [Link](https://huggingface.co/Ex0bit/MYTHOS-26B-A4B-PRISM-PRO-DQ-GGUF) |
+| Updated2 days ago | 1.99k | Jiunsong/supergemma4-26b-abliterated-multimodalImage-Text-to-Text | 26B | [Link](https://huggingface.co/Jiunsong/supergemma4-26b-abliterated-multimodal) |
 | 1.07M |  | meta-llama/Llama-3 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) |
 | 1.49M |  | Qwen/Qwen2-VL-7B-InstructImage-Text-to-Text | Updated19 days ago | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) |
 | 288k |  | microsoft/Phi-3 | UpdatedSep 26, 2024 | [Link](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) |
@@ -2631,6 +2635,7 @@ Updated on 2026-04-14
 | 16 | 5 | Azily/Macro-Qwen-Image-EditImage-to-Image | Updated17 days ago | [Link](https://huggingface.co/Azily/Macro-Qwen-Image-Edit) |
 | 171 | 5 | tonera/FLUX | Updated3 days ago | [Link](https://huggingface.co/tonera/FLUX.2-klein-9B-Nunchaku) |
 | 338 | 5 | jdopensource/JoyAI-Image-Edit-DiffusersImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/jdopensource/JoyAI-Image-Edit-Diffusers) |
+| 120 | 5 | ilkerzgi/face-swapImage-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/ilkerzgi/face-swap) |
 | 575 | 4 | prs-eth/marigold-normals-v1-1Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-normals-v1-1) |
 | 1k | 4 | stanfordmimi/MedVAEImage-to-Image | UpdatedMar 31 | [Link](https://huggingface.co/stanfordmimi/MedVAE) |
 | 3 | 4 | wikeeyang/UniWorld-V1-NF4Image-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/wikeeyang/UniWorld-V1-NF4) |
@@ -3038,6 +3043,7 @@ Updated on 2026-04-14
 | 246 | 40 | selvakumarcts/sk_invoice_receiptsImage-to-Text | UpdatedOct 20, 2023 | [Link](https://huggingface.co/selvakumarcts/sk_invoice_receipts) |
 | Updated16 days ago | 40 | JEILDLWLRMA/Qwen3-VL-4B-Instruct-NVFP4Image-to-Text | 3B | [Link](https://huggingface.co/JEILDLWLRMA/Qwen3-VL-4B-Instruct-NVFP4) |
 | 573 | 39 | katanaml-org/invoices-donut-model-v1Image-to-Text | UpdatedMay 11, 2023 | [Link](https://huggingface.co/katanaml-org/invoices-donut-model-v1) |
+| UpdatedDec 21, 2025 | 39 | naazimsnh02/medocr-visionImage-to-Text | 1.0B | [Link](https://huggingface.co/naazimsnh02/medocr-vision) |
 | UpdatedNov 4, 2023 | 38.2k | adept/fuyu-8bImage-to-Text | 9B | [Link](https://huggingface.co/adept/fuyu-8b) |
 | 7.54k | 36 | breezedeus/pix2text-mfrImage-to-Text | UpdatedMay 5, 2024 | [Link](https://huggingface.co/breezedeus/pix2text-mfr) |
 | Updated1 day ago | 36 | helizac/dots | 2B | [Link](https://huggingface.co/helizac/dots.ocr-4bit) |
@@ -4900,6 +4906,7 @@ Updated on 2026-04-14
 | Updatedabout 2 hours ago | 722 | nvidia/NVIDIA-Nemotron-Nano-9B-v2Text | 9B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2) |
 |  | 682 | deepseek-ai/DeepSeek-V3-0324Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3-0324) |
 | Updatedabout 6 hours ago | 670 | nvidia/Orchestrator-8BText | 8B | [Link](https://huggingface.co/nvidia/Orchestrator-8B) |
+| Updatedabout 19 hours ago | 668 | Rta-AILabs/Nandi-Mini-150M-InstructText | 0.2B | [Link](https://huggingface.co/Rta-AILabs/Nandi-Mini-150M-Instruct) |
 | Updated5 days ago | 663k | lmstudio-community/gpt-oss-20b-MLX-8bitText | 21B | [Link](https://huggingface.co/lmstudio-community/gpt-oss-20b-MLX-8bit) |
 | Updated5 days ago | 661 | LiquidAI/LFM2-700M-GGUFText | 0.7B | [Link](https://huggingface.co/LiquidAI/LFM2-700M-GGUF) |
 | Updated14 days ago | 656 | TeichAI/GLM-4 | 31B | [Link](https://huggingface.co/TeichAI/GLM-4.7-Flash-Claude-Opus-4.5-High-Reasoning-Distill) |
@@ -7054,6 +7061,8 @@ Updated on 2026-04-14
 | 20 | Unknown | happyhorseai/happy-horse-ai-video-generatorText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/happyhorseai/happy-horse-ai-video-generator) |
 | 2 | Unknown | happyhorse-ai/happyhorse-1 | Updatedabout 9 hours ago | [Link](https://huggingface.co/happyhorse-ai/happyhorse-1.0) |
 | 6 | Unknown | caiovicentino1/HY-OmniWeaving-HLWQ-Q5Text-to-Video | Updatedabout 8 hours ago | [Link](https://huggingface.co/caiovicentino1/HY-OmniWeaving-HLWQ-Q5) |
+| 7 | Unknown | Motif-Technologies/Motif-Video-2BText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/Motif-Technologies/Motif-Video-2B) |
+| 2 | Unknown | Abiray/Wan2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/Abiray/Wan2.2-LightX2V-260412-4STEP-FP8-BF16) |
 
 ## Text2Text Generation
 
