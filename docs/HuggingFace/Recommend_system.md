@@ -340,6 +340,7 @@ Updated on 2026-04-15
 | 5 | Unknown | onnx-community/gemma-4-E2B-it-ONNXAny-to-Any | Updatedabout 7 hours ago | [Link](https://huggingface.co/onnx-community/gemma-4-E2B-it-ONNX) |
 | 7 | Unknown | huihui-ai/Huihui-gemma-4-E2B-it-abliteratedAny-to-Any | Updatedabout 11 hours ago | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-E2B-it-abliterated) |
 | 6 | Unknown | huihui-ai/Huihui-gemma-4-31B-it-abliterated-v2Any-to-Any | Updatedabout 9 hours ago | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-31B-it-abliterated-v2) |
+| 8 | Unknown | HKUSTAudio/Audio-OmniAny-to-Any | Updatedabout 6 hours ago | [Link](https://huggingface.co/HKUSTAudio/Audio-Omni) |
 
 ## Audio Classification
 
@@ -3441,6 +3442,7 @@ Updated on 2026-04-15
 | 2 | Unknown | jnurik/viki-clip-modelsImage-to-Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/jnurik/viki-clip-models) |
 | 1 | Unknown | baudm/trbaImage-to-Text | UpdatedAug 28, 2022 | [Link](https://huggingface.co/baudm/trba) |
 | 3 | Unknown | GetcharZp/go-ocrImage-to-Text | UpdatedJan 22 | [Link](https://huggingface.co/GetcharZp/go-ocr) |
+| 2 | Unknown | moxeeeem/dermlip-gpt2-captionerImage-to-Text | UpdatedAug 30, 2025 | [Link](https://huggingface.co/moxeeeem/dermlip-gpt2-captioner) |
 
 ## Image-to-Video
 
@@ -4939,6 +4941,7 @@ Updated on 2026-04-15
 | Updatedabout 24 hours ago | 463 | PowerInfer/SmallThinker-4BA0 | 4B | [Link](https://huggingface.co/PowerInfer/SmallThinker-4BA0.6B-Instruct) |
 | Updatedabout 16 hours ago | 461 | MaziyarPanahi/VibeThinker-1 | 2B | [Link](https://huggingface.co/MaziyarPanahi/VibeThinker-1.5B-GGUF) |
 | Updatedabout 5 hours ago | 441k | EssentialAI/rnj-1-instructText | 8B | [Link](https://huggingface.co/EssentialAI/rnj-1-instruct) |
+| Updatedabout 11 hours ago | 427 | Jiunsong/SuperGemma4-31b-abliterated-GGUFText | 31B | [Link](https://huggingface.co/Jiunsong/SuperGemma4-31b-abliterated-GGUF) |
 | Updatedabout 12 hours ago | 425 | Nikity/lille-130m-instructText | 0.1B | [Link](https://huggingface.co/Nikity/lille-130m-instruct) |
 | Updated2 days ago | 419 | rstar2-reproduce/rStar2-Agent-14BText | 15B | [Link](https://huggingface.co/rstar2-reproduce/rStar2-Agent-14B) |
 | Updatedabout 9 hours ago | 389 | zai-org/GLM-5 | 754B | [Link](https://huggingface.co/zai-org/GLM-5.1) |
@@ -5386,6 +5389,7 @@ Updated on 2026-04-15
 | Updatedabout 10 hours ago | 21 | inclusionAI/Ring-liteText | 17B | [Link](https://huggingface.co/inclusionAI/Ring-lite) |
 | Updatedabout 7 hours ago | 21 | nota-ai/Solar-Open-100B-NotaMoEQuant-Int4Text | 2B | [Link](https://huggingface.co/nota-ai/Solar-Open-100B-NotaMoEQuant-Int4) |
 | Updatedabout 21 hours ago | 21 | guidelabs/steerling-8bText | 8B | [Link](https://huggingface.co/guidelabs/steerling-8b) |
+| 907 | 21 | FINAL-Bench/Darwin-4B-DavidText | Updated4 days ago | [Link](https://huggingface.co/FINAL-Bench/Darwin-4B-David) |
 | 335 | 20 | google/txgemma-27b-chatText | Updated2 days ago | [Link](https://huggingface.co/google/txgemma-27b-chat) |
 | 473 | 20 | google/txgemma-9b-chatText | Updated4 days ago | [Link](https://huggingface.co/google/txgemma-9b-chat) |
 | 15 | 20 | Intelligent-Internet/II-Medical-8B-1706Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/Intelligent-Internet/II-Medical-8B-1706) |
@@ -5945,6 +5949,7 @@ Updated on 2026-04-15
 | 252k | 347 | diffusers/stable-diffusion-xl-1 | UpdatedSep 3, 2023 | [Link](https://huggingface.co/diffusers/stable-diffusion-xl-1.0-inpainting-0.1) |
 | 14.6k | 321 | JujoHotaru/loraText-to-Image | UpdatedApr 28 | [Link](https://huggingface.co/JujoHotaru/lora) |
 | 3.97k | 317 | Shitao/OmniGen-v1Text-to-Image | UpdatedNov 7, 2024 | [Link](https://huggingface.co/Shitao/OmniGen-v1) |
+| Updatedabout 14 hours ago | 311 | unsloth/ERNIE-Image-GGUFText-to-Image | 8B | [Link](https://huggingface.co/unsloth/ERNIE-Image-GGUF) |
 | 70.7k | 272 | nunchaku-ai/nunchaku-qwen-image-edit-2509Text-to-Image | UpdatedNov 16, 2025 | [Link](https://huggingface.co/nunchaku-ai/nunchaku-qwen-image-edit-2509) |
 | 15.3k | 254 | InstantX/FLUX | UpdatedNov 23, 2024 | [Link](https://huggingface.co/InstantX/FLUX.1-dev-IP-Adapter) |
 | Updated1 day ago | 244 | wikeeyang/Magic-Wan-Image-V2Text-to-Image | 14B | [Link](https://huggingface.co/wikeeyang/Magic-Wan-Image-V2) |
@@ -6369,6 +6374,7 @@ Updated on 2026-04-15
 | 4 | Unknown | duongve/AnimaYumeText-to-Image | Updated6 days ago | [Link](https://huggingface.co/duongve/AnimaYume) |
 | 5 | Unknown | SanDiegoDude/JoyAI-Image-Edit-FP8Text-to-Image | Updatedabout 16 hours ago | [Link](https://huggingface.co/SanDiegoDude/JoyAI-Image-Edit-FP8) |
 | 7 | Unknown | caiovicentino1/FLUX | Updatedabout 23 hours ago | [Link](https://huggingface.co/caiovicentino1/FLUX.2-klein-9B-PolarQuant-Q5) |
+| 6 | Unknown | Bedovyy/ERNIE-Image-QuantizedText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/Bedovyy/ERNIE-Image-Quantized) |
 
 ## Text-to-Speech
 
@@ -6765,6 +6771,7 @@ Updated on 2026-04-15
 | 25 | Unknown | WarriorMama777/GLaDOS_TTSText-to-Speech | UpdatedMay 7, 2024 | [Link](https://huggingface.co/WarriorMama777/GLaDOS_TTS) |
 | 4 | Unknown | HumeAI/mlx-tada-3bText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/HumeAI/mlx-tada-3b) |
 | 8 | Unknown | g-group-ai-lab/gwen-tts-0 | Updatedabout 21 hours ago | [Link](https://huggingface.co/g-group-ai-lab/gwen-tts-0.6B) |
+| 10 | Unknown | FINAL-Bench/Darwin-TTS-1 | Updatedabout 6 hours ago | [Link](https://huggingface.co/FINAL-Bench/Darwin-TTS-1.7B-Cross) |
 
 ## Text-to-Video
 
