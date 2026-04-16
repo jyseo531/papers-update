@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-04-15
+Updated on 2026-04-16
 
 > Generated from the Hugging Face database.
 
@@ -2357,6 +2357,7 @@ Updated on 2026-04-15
 | Updatedabout 15 hours ago | 1.13k | HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-AggressiveImage-Text-to-Text | 8B | [Link](https://huggingface.co/HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive) |
 | Updated3 days ago | 1.83k | Ex0bit/MYTHOS-26B-A4B-PRISM-PRO-DQ-GGUFImage-Text-to-Text | 25B | [Link](https://huggingface.co/Ex0bit/MYTHOS-26B-A4B-PRISM-PRO-DQ-GGUF) |
 | Updated2 days ago | 1.99k | Jiunsong/supergemma4-26b-abliterated-multimodalImage-Text-to-Text | 26B | [Link](https://huggingface.co/Jiunsong/supergemma4-26b-abliterated-multimodal) |
+| Updated4 days ago | 1.42k | Jiunsong/supergemma4-26b-abliterated-multimodal-mlx-4bitImage-Text-to-Text | 5B | [Link](https://huggingface.co/Jiunsong/supergemma4-26b-abliterated-multimodal-mlx-4bit) |
 | 1.07M |  | meta-llama/Llama-3 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) |
 | 1.49M |  | Qwen/Qwen2-VL-7B-InstructImage-Text-to-Text | Updated19 days ago | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) |
 | 288k |  | microsoft/Phi-3 | UpdatedSep 26, 2024 | [Link](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) |
@@ -5035,6 +5036,7 @@ Updated on 2026-04-15
 | UpdatedJan 5 | 118 | Fortytwo-Network/Strand-Rust-Coder-14B-v1Text | 15B | [Link](https://huggingface.co/Fortytwo-Network/Strand-Rust-Coder-14B-v1) |
 | Updatedabout 4 hours ago | 116 | tencent/Penguin-VL-8BText | 9B | [Link](https://huggingface.co/tencent/Penguin-VL-8B) |
 | Updatedabout 11 hours ago | 115 | mistralai/Devstral-Small-2507Text | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2507) |
+| Updatedabout 11 hours ago | 114 | OBLITERATUS/gemma-4-E4B-it-OBLITERATEDText | 8B | [Link](https://huggingface.co/OBLITERATUS/gemma-4-E4B-it-OBLITERATED) |
 | Updated1 day ago | 113 | mlx-community/VibeThinker-1 | 0.2B | [Link](https://huggingface.co/mlx-community/VibeThinker-1.5B-mlx-4bit) |
 | Updatedabout 10 hours ago | 112 | nvidia/Qwen3-Nemotron-32B-RLBFFText | 33B | [Link](https://huggingface.co/nvidia/Qwen3-Nemotron-32B-RLBFF) |
 | Updated1 day ago | 111 | moelanoby/phi-3-M3-coderText | 4B | [Link](https://huggingface.co/moelanoby/phi-3-M3-coder) |
@@ -5566,6 +5568,7 @@ Updated on 2026-04-15
 | Updated5 days ago | 2.42k | bartowski/zed-industries_zeta-2-GGUFText | 8B | [Link](https://huggingface.co/bartowski/zed-industries_zeta-2-GGUF) |
 | Updatedabout 3 hours ago | 2.86k | Rta-AILabs/Nandi-Mini-150MText | 0.2B | [Link](https://huggingface.co/Rta-AILabs/Nandi-Mini-150M) |
 | Updated3 days ago | 2.4k | kai-os/Carnice-9b-GGUFText | 9B | [Link](https://huggingface.co/kai-os/Carnice-9b-GGUF) |
+| Updated2 days ago | 2.25k | Youssofal/MiniMax-M2 | 229B | [Link](https://huggingface.co/Youssofal/MiniMax-M2.7-Abliterated-Heretic-GGUF) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
 | Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
