@@ -2983,6 +2983,7 @@ Updated on 2026-04-16
 | 170k | 159 | microsoft/kosmos-2-patch14-224Image-to-Text | UpdatedNov 28, 2023 | [Link](https://huggingface.co/microsoft/kosmos-2-patch14-224) |
 | UpdatedApr 27, 2024 | 158 | gospacedev/blip-image-captioning-base-bf16Image-to-Text | 0.2B | [Link](https://huggingface.co/gospacedev/blip-image-captioning-base-bf16) |
 | Updatedabout 17 hours ago | 156 | allenai/olmOCR-2-7B-1025-FP8Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-2-7B-1025-FP8) |
+| UpdatedJan 18 | 156 | srswti/Llama-3 | 11B | [Link](https://huggingface.co/srswti/Llama-3.2-11B-Vision-Instruct-abliterated) |
 | Updated27 days ago | 154k | nvidia/Cosmos-Reason1-7BImage-to-Text | 8B | [Link](https://huggingface.co/nvidia/Cosmos-Reason1-7B) |
 | UpdatedMay 27 | 150 | songhieng/khmer-trocr-ocr-v1 | 0.4B | [Link](https://huggingface.co/songhieng/khmer-trocr-ocr-v1.0) |
 | UpdatedFeb 3 | 150 | mlx-community/GLM-OCR-6bitImage-to-Text | 0.6B | [Link](https://huggingface.co/mlx-community/GLM-OCR-6bit) |
@@ -6783,6 +6784,7 @@ Updated on 2026-04-16
 | 882k | 892 | ByteDance/AnimateDiff-LightningText-to-Video | UpdatedJan 6 | [Link](https://huggingface.co/ByteDance/AnimateDiff-Lightning) |
 | UpdatedJan 10 | 665 | oxide-lab/LTX-Video-0 | 5B | [Link](https://huggingface.co/oxide-lab/LTX-Video-0.9.8-2B-distilled) |
 | 16.5k | 612 | ali-vilab/text-to-video-ms-1 | UpdatedDec 1, 2023 | [Link](https://huggingface.co/ali-vilab/text-to-video-ms-1.7b) |
+| Updated2 days ago | 590 | Abiray/LTX-2 | 21B | [Link](https://huggingface.co/Abiray/LTX-2.3-22B-DISTILLED-1.1-GGUF) |
 | Updated19 days ago | 571 | vantagewithai/TurboWan2 | 14B | [Link](https://huggingface.co/vantagewithai/TurboWan2.1-T2V-14B-720P-ComfyUI-GGUF) |
 | Updatedabout 3 hours ago | 496 | calcuis/wan2-ggufText-to-Video | 0.1B | [Link](https://huggingface.co/calcuis/wan2-gguf) |
 | 23.8k | 473 | cerspense/zeroscope_v2_576wText-to-Video | UpdatedJul 1, 2023 | [Link](https://huggingface.co/cerspense/zeroscope_v2_576w) |
