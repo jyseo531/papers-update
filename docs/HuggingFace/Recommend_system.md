@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-04-16
+Updated on 2026-04-17
 
 > Generated from the Hugging Face database.
 
@@ -2662,6 +2662,7 @@ Updated on 2026-04-16
 |  | 4 | prithivMLmods/QIE-2509-Object-Remover-BboxImage-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/prithivMLmods/QIE-2509-Object-Remover-Bbox) |
 | 133 | 4 | drbaph/FireRed-Image-Edit-1 | Updated2 days ago | [Link](https://huggingface.co/drbaph/FireRed-Image-Edit-1.1_ComfyUI_Quants) |
 | 94 | 4 | linoyts/flux2-klein-bbox-drag-drop-loraImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/linoyts/flux2-klein-bbox-drag-drop-lora) |
+| 72 | 4 | kyutai/ovieImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/kyutai/ovie) |
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
@@ -3047,6 +3048,7 @@ Updated on 2026-04-16
 | UpdatedMay 18, 2024 | 41 | moranyanuka/blip-image-captioning-large-mochaImage-to-Text | 0.5B | [Link](https://huggingface.co/moranyanuka/blip-image-captioning-large-mocha) |
 | Updated2 days ago | 41 | clquwu/Clarity-OMRImage-to-Text | 0.2B | [Link](https://huggingface.co/clquwu/Clarity-OMR) |
 | Updatedabout 8 hours ago | 41 | opendatalab/MinerU-Diffusion-V1-0320-2 | 3B | [Link](https://huggingface.co/opendatalab/MinerU-Diffusion-V1-0320-2.5B) |
+| Updated3 days ago | 41 | TIGER-Lab/RationalRewards-8B-T2IImage-to-Text | 9B | [Link](https://huggingface.co/TIGER-Lab/RationalRewards-8B-T2I) |
 | 246 | 40 | selvakumarcts/sk_invoice_receiptsImage-to-Text | UpdatedOct 20, 2023 | [Link](https://huggingface.co/selvakumarcts/sk_invoice_receipts) |
 | Updated16 days ago | 40 | JEILDLWLRMA/Qwen3-VL-4B-Instruct-NVFP4Image-to-Text | 3B | [Link](https://huggingface.co/JEILDLWLRMA/Qwen3-VL-4B-Instruct-NVFP4) |
 | 573 | 39 | katanaml-org/invoices-donut-model-v1Image-to-Text | UpdatedMay 11, 2023 | [Link](https://huggingface.co/katanaml-org/invoices-donut-model-v1) |
@@ -6801,6 +6803,7 @@ Updated on 2026-04-16
 | 28k | 169 | ali-vilab/i2vgen-xlText-to-Video | UpdatedFeb 9, 2024 | [Link](https://huggingface.co/ali-vilab/i2vgen-xl) |
 | 68 | 160 | camenduru/potat1Text-to-Video | UpdatedJun 15, 2023 | [Link](https://huggingface.co/camenduru/potat1) |
 | 30.2k | 141 | city96/HunyuanVideo-ggufText-to-Video | UpdatedDec 17, 2024 | [Link](https://huggingface.co/city96/HunyuanVideo-gguf) |
+| Updated14 days ago | 118 | Brian9999/game-editingText-to-Video | 1B | [Link](https://huggingface.co/Brian9999/game-editing) |
 | Updated1 day ago | 101 | jayn7/HunyuanVideo-1 | 8B | [Link](https://huggingface.co/jayn7/HunyuanVideo-1.5_T2V_720p-GGUF) |
 | 9 | 71 | LanguageBind/Open-Sora-Plan-v1 | UpdatedDec 5, 2024 | [Link](https://huggingface.co/LanguageBind/Open-Sora-Plan-v1.3.0) |
 | 1.6k | 71 | OmniAvatar/OmniAvatar-14BText-to-Video | Updatedabout 11 hours ago | [Link](https://huggingface.co/OmniAvatar/OmniAvatar-14B) |
