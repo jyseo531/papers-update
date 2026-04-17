@@ -3053,7 +3053,9 @@ Updated on 2026-04-17
 | Updated16 days ago | 40 | JEILDLWLRMA/Qwen3-VL-4B-Instruct-NVFP4Image-to-Text | 3B | [Link](https://huggingface.co/JEILDLWLRMA/Qwen3-VL-4B-Instruct-NVFP4) |
 | 573 | 39 | katanaml-org/invoices-donut-model-v1Image-to-Text | UpdatedMay 11, 2023 | [Link](https://huggingface.co/katanaml-org/invoices-donut-model-v1) |
 | UpdatedDec 21, 2025 | 39 | naazimsnh02/medocr-visionImage-to-Text | 1.0B | [Link](https://huggingface.co/naazimsnh02/medocr-vision) |
+| Updatedabout 8 hours ago | 39 | xingxm/HiVG-3B-BaseImage-to-Text | 4B | [Link](https://huggingface.co/xingxm/HiVG-3B-Base) |
 | UpdatedNov 4, 2023 | 38.2k | adept/fuyu-8bImage-to-Text | 9B | [Link](https://huggingface.co/adept/fuyu-8b) |
+| Updated3 days ago | 38 | TIGER-Lab/RationalRewards-8B-EditImage-to-Text | 9B | [Link](https://huggingface.co/TIGER-Lab/RationalRewards-8B-Edit) |
 | 7.54k | 36 | breezedeus/pix2text-mfrImage-to-Text | UpdatedMay 5, 2024 | [Link](https://huggingface.co/breezedeus/pix2text-mfr) |
 | Updated1 day ago | 36 | helizac/dots | 2B | [Link](https://huggingface.co/helizac/dots.ocr-4bit) |
 | UpdatedJul 6, 2024 | 36 | medieval-data/trocr-medieval-printImage-to-Text | 0.3B | [Link](https://huggingface.co/medieval-data/trocr-medieval-print) |
@@ -5572,6 +5574,7 @@ Updated on 2026-04-17
 | Updatedabout 3 hours ago | 2.86k | Rta-AILabs/Nandi-Mini-150MText | 0.2B | [Link](https://huggingface.co/Rta-AILabs/Nandi-Mini-150M) |
 | Updated3 days ago | 2.4k | kai-os/Carnice-9b-GGUFText | 9B | [Link](https://huggingface.co/kai-os/Carnice-9b-GGUF) |
 | Updated2 days ago | 2.25k | Youssofal/MiniMax-M2 | 229B | [Link](https://huggingface.co/Youssofal/MiniMax-M2.7-Abliterated-Heretic-GGUF) |
+| Updated2 days ago | 2.02k | Jiunsong/SuperGemma4-31b-abliterated-mlx-4bitText | 31B | [Link](https://huggingface.co/Jiunsong/SuperGemma4-31b-abliterated-mlx-4bit) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
 | Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
