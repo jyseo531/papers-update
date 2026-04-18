@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-04-17
+Updated on 2026-04-18
 
 > Generated from the Hugging Face database.
 
@@ -1919,6 +1919,7 @@ Updated on 2026-04-17
 | Updated18 days ago | 503 | prithivMLmods/Qwen3-VL-8B-Instruct-abliterated-v2Image-Text-to-Text | 9B | [Link](https://huggingface.co/prithivMLmods/Qwen3-VL-8B-Instruct-abliterated-v2) |
 | Updated3 days ago | 490 | Kwai-Keye/Keye-VL-1_5-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/Kwai-Keye/Keye-VL-1_5-8B) |
 | Updated3 days ago | 468 | QuantTrio/GLM-4 | 17B | [Link](https://huggingface.co/QuantTrio/GLM-4.5V-AWQ) |
+| Updated2 days ago | 461 | nvidia/Ising-Calibration-1-35B-A3BImage-Text-to-Text | 665k | [Link](https://huggingface.co/nvidia/Ising-Calibration-1-35B-A3B) |
 | Updatedabout 10 hours ago | 454 | Qwen/Qwen3-VL-32B-Instruct-FP8Image-Text-to-Text | 33B | [Link](https://huggingface.co/Qwen/Qwen3-VL-32B-Instruct-FP8) |
 | 820k | 421 | liuhaotian/llava-v1 | UpdatedMay 8, 2024 | [Link](https://huggingface.co/liuhaotian/llava-v1.5-7b) |
 | 112k | 395 | HuggingFaceTB/SmolVLM-InstructImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-Instruct) |
@@ -4900,6 +4901,7 @@ Updated on 2026-04-17
 
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
+| Updated1 day ago | 995 | DJLougen/Ornstein3 | 35B | [Link](https://huggingface.co/DJLougen/Ornstein3.6-35B-A3B-GGUF) |
 | Updatedabout 21 hours ago | 971 | marin-community/marin-32b-baseText | 33B | [Link](https://huggingface.co/marin-community/marin-32b-base) |
 | UpdatedSep 12, 2025 | 958 | ytu-ce-cosmos/Turkish-Gemma-9b-T1Text | 9B | [Link](https://huggingface.co/ytu-ce-cosmos/Turkish-Gemma-9b-T1) |
 | UpdatedSep 9 | 924k | inference-net/Schematron-3BText | 3B | [Link](https://huggingface.co/inference-net/Schematron-3B) |
@@ -4927,6 +4929,7 @@ Updated on 2026-04-17
 | Updated6 days ago | 630 | kakaocorp/kanana-2-30b-a3b-instructText | 31B | [Link](https://huggingface.co/kakaocorp/kanana-2-30b-a3b-instruct) |
 | Updated2 days ago | 628 | PrimeIntellect/INTELLECT-3-FP8Text | 107B | [Link](https://huggingface.co/PrimeIntellect/INTELLECT-3-FP8) |
 | Updatedabout 5 hours ago | 623 | NousResearch/nomos-1Text | 31B | [Link](https://huggingface.co/NousResearch/nomos-1) |
+| Updatedabout 4 hours ago | 614 | prism-ml/Ternary-Bonsai-8B-mlx-2bitText | 0.6B | [Link](https://huggingface.co/prism-ml/Ternary-Bonsai-8B-mlx-2bit) |
 | UpdatedJun 4, 2025 | 613 | AlicanKiraz0/Cybersecurity-BaronLLM_Offensive_Security_LLM_Q6_K_GGUFText | 8B | [Link](https://huggingface.co/AlicanKiraz0/Cybersecurity-BaronLLM_Offensive_Security_LLM_Q6_K_GGUF) |
 | Updated1 day ago | 608 | ArliAI/GLM-4 | 110B | [Link](https://huggingface.co/ArliAI/GLM-4.5-Air-Derestricted) |
 | Updated2 days ago | 605 | nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUFText | 4B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUF) |
@@ -6175,6 +6178,7 @@ Updated on 2026-04-17
 | Updated1 day ago | 1.46k | leejet/Z-Image-Turbo-GGUFText-to-Image | 6B | [Link](https://huggingface.co/leejet/Z-Image-Turbo-GGUF) |
 | Updated3 days ago | 1.78k | unsloth/Z-Image-Turbo-GGUFText-to-Image | 6B | [Link](https://huggingface.co/unsloth/Z-Image-Turbo-GGUF) |
 | 5 | 1.41k | stabilityai/sd-vae-ft-mse-originalText-to-Image | UpdatedDec 19, 2022 | [Link](https://huggingface.co/stabilityai/sd-vae-ft-mse-original) |
+| Updated7 days ago | 1.55k | Granddyser/BigLoveKlein-CollectionText-to-Image | 9B | [Link](https://huggingface.co/Granddyser/BigLoveKlein-Collection) |
 | 1.84M |  | black-forest-labs/FLUX | UpdatedAug 16, 2024 | [Link](https://huggingface.co/black-forest-labs/FLUX.1-dev) |
 | 268k |  | stabilityai/stable-diffusion-3 | UpdatedOct 22, 2024 | [Link](https://huggingface.co/stabilityai/stable-diffusion-3.5-large) |
 | 3.52M |  | stabilityai/stable-diffusion-xl-base-1 | UpdatedOct 30, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) |
