@@ -4950,6 +4950,7 @@ Updated on 2026-04-18
 | Updatedabout 24 hours ago | 463 | PowerInfer/SmallThinker-4BA0 | 4B | [Link](https://huggingface.co/PowerInfer/SmallThinker-4BA0.6B-Instruct) |
 | Updatedabout 16 hours ago | 461 | MaziyarPanahi/VibeThinker-1 | 2B | [Link](https://huggingface.co/MaziyarPanahi/VibeThinker-1.5B-GGUF) |
 | Updatedabout 5 hours ago | 441k | EssentialAI/rnj-1-instructText | 8B | [Link](https://huggingface.co/EssentialAI/rnj-1-instruct) |
+| Updatedabout 24 hours ago | 433 | Jiunsong/supergemma4-e4b-abliteratedText | 8B | [Link](https://huggingface.co/Jiunsong/supergemma4-e4b-abliterated) |
 | Updatedabout 11 hours ago | 427 | Jiunsong/SuperGemma4-31b-abliterated-GGUFText | 31B | [Link](https://huggingface.co/Jiunsong/SuperGemma4-31b-abliterated-GGUF) |
 | Updatedabout 12 hours ago | 425 | Nikity/lille-130m-instructText | 0.1B | [Link](https://huggingface.co/Nikity/lille-130m-instruct) |
 | Updated2 days ago | 419 | rstar2-reproduce/rStar2-Agent-14BText | 15B | [Link](https://huggingface.co/rstar2-reproduce/rStar2-Agent-14B) |
@@ -5239,6 +5240,7 @@ Updated on 2026-04-18
 | Updated2 days ago | 34 | Writer/palmyra-mini-thinking-bText | 2B | [Link](https://huggingface.co/Writer/palmyra-mini-thinking-b) |
 | Updatedabout 24 hours ago | 34 | FutureMa/Eva-4BText | 4B | [Link](https://huggingface.co/FutureMa/Eva-4B) |
 | 49.7k | 34 | nvidia/Qwen3 | Updated6 days ago | [Link](https://huggingface.co/nvidia/Qwen3.5-397B-A17B-NVFP4) |
+| Updated5 days ago | 34k | cyankiwi/MiniMax-M2 | 37B | [Link](https://huggingface.co/cyankiwi/MiniMax-M2.7-AWQ-4bit) |
 | 566 | 33 | deepcogito/cogito-v1-preview-qwen-14BText | Updated1 day ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-qwen-14B) |
 | 115 | 33 | shuttleai/shuttle-3 | Updated2 days ago | [Link](https://huggingface.co/shuttleai/shuttle-3.5) |
 | 4.66k | 33 | Qwen/Qwen3-32B-AWQText | Updated5 days ago | [Link](https://huggingface.co/Qwen/Qwen3-32B-AWQ) |
@@ -5520,6 +5522,7 @@ Updated on 2026-04-18
 | Updated4 days ago | 6.7k | byteshape/Qwen3-30B-A3B-Instruct-2507-GGUFText | 31B | [Link](https://huggingface.co/byteshape/Qwen3-30B-A3B-Instruct-2507-GGUF) |
 | Updated6 days ago | 6.21k | byteshape/Qwen3-Coder-30B-A3B-Instruct-GGUFText | 31B | [Link](https://huggingface.co/byteshape/Qwen3-Coder-30B-A3B-Instruct-GGUF) |
 | Updatedabout 11 hours ago | 6 | nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4Text | 67B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4) |
+| Updatedabout 6 hours ago | 6.31k | Jiunsong/supergemma4-26b-abliterated-multimodalText | 26B | [Link](https://huggingface.co/Jiunsong/supergemma4-26b-abliterated-multimodal) |
 | Updated28 minutes ago | 5 | unsloth/Kimi-K2-Instruct-GGUFText | 1026B | [Link](https://huggingface.co/unsloth/Kimi-K2-Instruct-GGUF) |
 | Updatedabout 4 hours ago | 5 | tencent/Hunyuan-1 | 2B | [Link](https://huggingface.co/tencent/Hunyuan-1.8B-Instruct) |
 | Updatedabout 6 hours ago | 5.68k | deepseek-ai/DeepSeek-V3 | 685B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3.1-Base) |
@@ -5609,6 +5612,7 @@ Updated on 2026-04-18
 | Updatedabout 2 hours ago | 1.09k | chromadb/context-1Text | 21B | [Link](https://huggingface.co/chromadb/context-1) |
 | Updatedabout 4 hours ago | 1.27k | LilaRest/gemma-4-31B-it-NVFP4-turboText | 33B | [Link](https://huggingface.co/LilaRest/gemma-4-31B-it-NVFP4-turbo) |
 | Updated3 days ago | 1.46k | kai-os/Carnice-27bText | 27B | [Link](https://huggingface.co/kai-os/Carnice-27b) |
+| Updated1 day ago | 1.76k | Rta-AILabs/Nandi-Mini-150M-Tool-CallingText | 0.2B | [Link](https://huggingface.co/Rta-AILabs/Nandi-Mini-150M-Tool-Calling) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -6155,6 +6159,7 @@ Updated on 2026-04-18
 |  | 5 | alvdansen/illustration-1 | Updated2 days ago | [Link](https://huggingface.co/alvdansen/illustration-1.0-flux-dev) |
 | Updatedabout 15 hours ago | 5 | moving-j/HyperCLOVAX-SEED-Omni-8B-VGText-to-Image | 10B | [Link](https://huggingface.co/moving-j/HyperCLOVAX-SEED-Omni-8B-VG) |
 | Updatedabout 22 hours ago | 5 | wikeeyang/Magic-Wan-T2IV-V3Text-to-Image | 14B | [Link](https://huggingface.co/wikeeyang/Magic-Wan-T2IV-V3) |
+| 1.3k | 5 | Abiray/ERNIE-Image-Turbo-FP8-NVFP4Text-to-Image | Updated3 days ago | [Link](https://huggingface.co/Abiray/ERNIE-Image-Turbo-FP8-NVFP4) |
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 46 | 4 | Sherwinroger002/fashion_mnist_diffusion_class_conditionalText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Sherwinroger002/fashion_mnist_diffusion_class_conditional) |
 | Updatedabout 1 hour ago | 4 | unsloth/Qwen-Image-2512-GGUFText-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-2512-GGUF) |
@@ -6785,6 +6790,7 @@ Updated on 2026-04-18
 | 4 | Unknown | HumeAI/mlx-tada-3bText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/HumeAI/mlx-tada-3b) |
 | 8 | Unknown | g-group-ai-lab/gwen-tts-0 | Updatedabout 21 hours ago | [Link](https://huggingface.co/g-group-ai-lab/gwen-tts-0.6B) |
 | 10 | Unknown | FINAL-Bench/Darwin-TTS-1 | Updatedabout 6 hours ago | [Link](https://huggingface.co/FINAL-Bench/Darwin-TTS-1.7B-Cross) |
+| 4 | Unknown | dida-80b/kokoro-german-hui-multispeaker-baseText-to-Speech | Updatedabout 2 hours ago | [Link](https://huggingface.co/dida-80b/kokoro-german-hui-multispeaker-base) |
 
 ## Text-to-Video
 
@@ -6939,6 +6945,7 @@ Updated on 2026-04-18
 | 75 | 2 | Kotajiro/LTX23-ruri_LoRAText-to-Video | Updated4 days ago | [Link](https://huggingface.co/Kotajiro/LTX23-ruri_LoRA) |
 | 139 | 2 | gajesh/LTX-2 | Updated7 days ago | [Link](https://huggingface.co/gajesh/LTX-2.3-mlx-q4) |
 |  | 2 | KoshiMazaki/muzed-motion-loraText-to-Video | Updated6 days ago | [Link](https://huggingface.co/KoshiMazaki/muzed-motion-lora) |
+| 38.8k | 2 | magespace/Wan2 | UpdatedAug 15, 2025 | [Link](https://huggingface.co/magespace/Wan2.2-I2V-A14B-Lightning-Diffusers) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
@@ -7097,6 +7104,7 @@ Updated on 2026-04-18
 | 6 | Unknown | caiovicentino1/HY-OmniWeaving-HLWQ-Q5Text-to-Video | Updatedabout 8 hours ago | [Link](https://huggingface.co/caiovicentino1/HY-OmniWeaving-HLWQ-Q5) |
 | 7 | Unknown | Motif-Technologies/Motif-Video-2BText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/Motif-Technologies/Motif-Video-2B) |
 | 2 | Unknown | Abiray/Wan2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/Abiray/Wan2.2-LightX2V-260412-4STEP-FP8-BF16) |
+| 3 | Unknown | wangkanai/wan21-vaeText-to-Video | UpdatedOct 14, 2025 | [Link](https://huggingface.co/wangkanai/wan21-vae) |
 
 ## Text2Text Generation
 
