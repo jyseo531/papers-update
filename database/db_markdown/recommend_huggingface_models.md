@@ -3376,6 +3376,8 @@ Updated on 2026-04-19
 | 26 | 1 | Nagafi/moondream2-q4-onnxImage-to-Text | UpdatedJan 4 | [Link](https://huggingface.co/Nagafi/moondream2-q4-onnx) |
 | 34 | 1 | Ji-Ha/glm-ocr-onnxImage-to-Text | UpdatedFeb 10 | [Link](https://huggingface.co/Ji-Ha/glm-ocr-onnx) |
 | UpdatedAug 1, 2024 | 1 | Junhoee/BLIP-FT-VETImage-to-Text | 0.2B | [Link](https://huggingface.co/Junhoee/BLIP-FT-VET) |
+| 114 | 1 | PaddlePaddle/PP-Chart2Table_safetensorsImage-to-Text | Updated16 days ago | [Link](https://huggingface.co/PaddlePaddle/PP-Chart2Table_safetensors) |
+| 93 | 1 | PaddlePaddle/UVDoc_safetensorsImage-to-Text | Updated16 days ago | [Link](https://huggingface.co/PaddlePaddle/UVDoc_safetensors) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -4928,6 +4930,7 @@ Updated on 2026-04-19
 | Updated14 days ago | 656 | TeichAI/GLM-4 | 31B | [Link](https://huggingface.co/TeichAI/GLM-4.7-Flash-Claude-Opus-4.5-High-Reasoning-Distill) |
 | Updated11 days ago | 655 | DataPilot/ArrowCanaria-Llama-8B-SFT-v0 | 8B | [Link](https://huggingface.co/DataPilot/ArrowCanaria-Llama-8B-SFT-v0.1) |
 | Updated1 day ago | 635 | 0xSero/GLM-4 | 2B | [Link](https://huggingface.co/0xSero/GLM-4.7-REAP-50-W4A16) |
+| Updatedabout 16 hours ago | 632 | KyleHessling1/Qwopus-GLM-18B-Merged-GGUFText | 16B | [Link](https://huggingface.co/KyleHessling1/Qwopus-GLM-18B-Merged-GGUF) |
 | Updated6 days ago | 630 | kakaocorp/kanana-2-30b-a3b-instructText | 31B | [Link](https://huggingface.co/kakaocorp/kanana-2-30b-a3b-instruct) |
 | Updated2 days ago | 628 | PrimeIntellect/INTELLECT-3-FP8Text | 107B | [Link](https://huggingface.co/PrimeIntellect/INTELLECT-3-FP8) |
 | Updatedabout 5 hours ago | 623 | NousResearch/nomos-1Text | 31B | [Link](https://huggingface.co/NousResearch/nomos-1) |
