@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-04-18
+Updated on 2026-04-19
 
 > Generated from the Hugging Face database.
 
@@ -99,6 +99,7 @@ Updated on 2026-04-18
 | Updatedabout 6 hours ago | 37 | inclusionAI/Ming-UniVision-16B-A3BAny-to-Any | 19B | [Link](https://huggingface.co/inclusionAI/Ming-UniVision-16B-A3B) |
 | Updated14 days ago | 37 | sensefvg/InteractiveOmni-8BAny-to-Any | 10B | [Link](https://huggingface.co/sensefvg/InteractiveOmni-8B) |
 | UpdatedAug 14 | 37k | unsloth/gemma-3-12b-it-GGUFAny-to-Any | 12B | [Link](https://huggingface.co/unsloth/gemma-3-12b-it-GGUF) |
+| Updated5 days ago | 37 | prithivMLmods/gemma-4-E4B-it-Uncensored-MAXAny-to-Any | 8B | [Link](https://huggingface.co/prithivMLmods/gemma-4-E4B-it-Uncensored-MAX) |
 | Updated6 days ago | 36 | CalmState/gemma-3-4b-polyglot-v1Any-to-Any | 4B | [Link](https://huggingface.co/CalmState/gemma-3-4b-polyglot-v1) |
 | Updated10 days ago | 36 | Lambent/IsoC-Gemma-3-12BAny-to-Any | 12B | [Link](https://huggingface.co/Lambent/IsoC-Gemma-3-12B) |
 | UpdatedMar 28 | 35 | allura-org/Gemma-3-Glitter-12BAny-to-Any | 12B | [Link](https://huggingface.co/allura-org/Gemma-3-Glitter-12B) |
@@ -188,6 +189,7 @@ Updated on 2026-04-18
 | 76 | 4 | huihui-ai/Huihui-gemma-4-E4B-it-abliteratedAny-to-Any | Updated1 day ago | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-E4B-it-abliterated) |
 | 54 | 4 | huihui-ai/Huihui-gemma-4-E2B-it-abliterated-v2Any-to-Any | Updatedabout 17 hours ago | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-E2B-it-abliterated-v2) |
 | 132 | 4 | DavidAU/gemma-4-E4B-it-The-DECKARD-Claude-Opus-Expresso-Universe-HERETIC-UNCENSORED-ThinkingAny-to-Any | Updatedabout 8 hours ago | [Link](https://huggingface.co/DavidAU/gemma-4-E4B-it-The-DECKARD-Claude-Opus-Expresso-Universe-HERETIC-UNCENSORED-Thinking) |
+| Updatedabout 18 hours ago | 4.03k | mradermacher/Darkidol-Gemma-4-E4B-it-i1-GGUFAny-to-Any | 8B | [Link](https://huggingface.co/mradermacher/Darkidol-Gemma-4-E4B-it-i1-GGUF) |
 | 481k | 3.11k | deepseek-ai/Janus-Pro-7BAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-7B) |
 | 78 | 3 | VARGPT-family/VARGPT_LLaVA-v1Any-to-Any | UpdatedJan 23 | [Link](https://huggingface.co/VARGPT-family/VARGPT_LLaVA-v1) |
 | 2 | 3 | impactframes/Janus-1 | UpdatedOct 19, 2024 | [Link](https://huggingface.co/impactframes/Janus-1.3B) |
@@ -5512,6 +5514,7 @@ Updated on 2026-04-18
 | Updatedabout 2 hours ago | 7.91k | moonshotai/Kimi-Linear-48B-A3B-InstructText | 49B | [Link](https://huggingface.co/moonshotai/Kimi-Linear-48B-A3B-Instruct) |
 | Updated3 days ago | 7.04k | bartowski/PrimeIntellect_INTELLECT-3-GGUFText | 107B | [Link](https://huggingface.co/bartowski/PrimeIntellect_INTELLECT-3-GGUF) |
 | Updatedabout 20 hours ago | 7.1k | nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-NVFP4Text | 18B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-NVFP4) |
+| Updatedabout 15 hours ago | 7 | Jackrong/Qwopus-GLM-18B-Merged-GGUFText | 16B | [Link](https://huggingface.co/Jackrong/Qwopus-GLM-18B-Merged-GGUF) |
 | 578k | 6.11k | meta-llama/Meta-Llama-3-8BText | UpdatedSep 27, 2024 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) |
 | Updatedabout 18 hours ago | 6 | apple/sage-ft-mixtral-8x7bText | 47B | [Link](https://huggingface.co/apple/sage-ft-mixtral-8x7b) |
 | Updated5 days ago | 6.94k | mistralai/Devstral-Small-2507_ggufText | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2507_gguf) |
@@ -6954,6 +6957,8 @@ Updated on 2026-04-18
 | 208 | 1 | AlekseyCalvin/VladimirLENIN_Wan2 | UpdatedApr 1 | [Link](https://huggingface.co/AlekseyCalvin/VladimirLENIN_Wan2.1_1.3B_T2V_LoRA) |
 | 7 | 1 | Davex256/Wan2 | Updated7 days ago | [Link](https://huggingface.co/Davex256/Wan2.2-TI2V-5B) |
 | 7 | 1 | AdamLucek/Wan2 | UpdatedMar 31, 2025 | [Link](https://huggingface.co/AdamLucek/Wan2.1-T2V-14B-OldBookIllustrations) |
+| 9 | 1 | AlekseyCalvin/UkraineWar_Wan21_14b_LoRA_BySAPText-to-Video | UpdatedJul 31, 2025 | [Link](https://huggingface.co/AlekseyCalvin/UkraineWar_Wan21_14b_LoRA_BySAP) |
+| 7 | 1 | AlekseyCalvin/UkraineWarA14b_wan2 | UpdatedJul 31, 2025 | [Link](https://huggingface.co/AlekseyCalvin/UkraineWarA14b_wan2.2_t2v-LoRA) |
 | 7.59k |  | tencent/HunyuanVideoText-to-Video | UpdatedJan 21 | [Link](https://huggingface.co/tencent/HunyuanVideo) |
 | 26.6k |  | genmo/mochi-1-previewText-to-Video | UpdatedDec 18, 2024 | [Link](https://huggingface.co/genmo/mochi-1-preview) |
 | 91.5k |  | THUDM/CogVideoX-5bText-to-Video | UpdatedNov 23, 2024 | [Link](https://huggingface.co/THUDM/CogVideoX-5b) |
