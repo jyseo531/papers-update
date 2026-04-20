@@ -3454,6 +3454,7 @@ Updated on 2026-04-20
 | 1 | Unknown | baudm/trbaImage-to-Text | UpdatedAug 28, 2022 | [Link](https://huggingface.co/baudm/trba) |
 | 3 | Unknown | GetcharZp/go-ocrImage-to-Text | UpdatedJan 22 | [Link](https://huggingface.co/GetcharZp/go-ocr) |
 | 2 | Unknown | moxeeeem/dermlip-gpt2-captionerImage-to-Text | UpdatedAug 30, 2025 | [Link](https://huggingface.co/moxeeeem/dermlip-gpt2-captioner) |
+| 1 | Unknown | Kreuzberg/paddleocr-onnx-modelsImage-to-Text | UpdatedMar 15 | [Link](https://huggingface.co/Kreuzberg/paddleocr-onnx-models) |
 
 ## Image-to-Video
 
@@ -6017,6 +6018,7 @@ Updated on 2026-04-20
 | 2.49k | 33 | Heartsync/NSFW-UncensoredText-to-Image | Updated7 days ago | [Link](https://huggingface.co/Heartsync/NSFW-Uncensored) |
 | 1.59k | 29 | nunchaku-tech/nunchaku-z-image-turboText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-z-image-turbo) |
 | 145 | 28 | ByteDance/XVerseText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/ByteDance/XVerse) |
+| 2.41k | 27 | stanfordmimi/MerlinText-to-Image | UpdatedMar 4 | [Link](https://huggingface.co/stanfordmimi/Merlin) |
 | 41 | 26 | SG161222/SPARK | Updatedabout 17 hours ago | [Link](https://huggingface.co/SG161222/SPARK.Chroma_preview) |
 | Updatedabout 8 hours ago | 24 | jayn7/Z-Image-GGUFText-to-Image | 6B | [Link](https://huggingface.co/jayn7/Z-Image-GGUF) |
 | Updatedabout 11 hours ago | 24 | shallowdream204/BitDance-14B-16xText-to-Image | 15B | [Link](https://huggingface.co/shallowdream204/BitDance-14B-16x) |
