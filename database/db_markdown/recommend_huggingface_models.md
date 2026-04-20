@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-04-19
+Updated on 2026-04-20
 
 > Generated from the Hugging Face database.
 
@@ -5619,6 +5619,7 @@ Updated on 2026-04-19
 | Updatedabout 4 hours ago | 1.27k | LilaRest/gemma-4-31B-it-NVFP4-turboText | 33B | [Link](https://huggingface.co/LilaRest/gemma-4-31B-it-NVFP4-turbo) |
 | Updated3 days ago | 1.46k | kai-os/Carnice-27bText | 27B | [Link](https://huggingface.co/kai-os/Carnice-27b) |
 | Updated1 day ago | 1.76k | Rta-AILabs/Nandi-Mini-150M-Tool-CallingText | 0.2B | [Link](https://huggingface.co/Rta-AILabs/Nandi-Mini-150M-Tool-Calling) |
+| Updated3 days ago | 1.05k | selimaktas/MiniMax-M2 | 453B | [Link](https://huggingface.co/selimaktas/MiniMax-M2.75-460B-A20B) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -6797,6 +6798,7 @@ Updated on 2026-04-19
 | 8 | Unknown | g-group-ai-lab/gwen-tts-0 | Updatedabout 21 hours ago | [Link](https://huggingface.co/g-group-ai-lab/gwen-tts-0.6B) |
 | 10 | Unknown | FINAL-Bench/Darwin-TTS-1 | Updatedabout 6 hours ago | [Link](https://huggingface.co/FINAL-Bench/Darwin-TTS-1.7B-Cross) |
 | 4 | Unknown | dida-80b/kokoro-german-hui-multispeaker-baseText-to-Speech | Updatedabout 2 hours ago | [Link](https://huggingface.co/dida-80b/kokoro-german-hui-multispeaker-base) |
+| 3 | Unknown | reenigne314/chatterbox-indic-loraText-to-Speech | Updated5 days ago | [Link](https://huggingface.co/reenigne314/chatterbox-indic-lora) |
 
 ## Text-to-Video
 
@@ -7113,6 +7115,7 @@ Updated on 2026-04-19
 | 7 | Unknown | Motif-Technologies/Motif-Video-2BText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/Motif-Technologies/Motif-Video-2B) |
 | 2 | Unknown | Abiray/Wan2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/Abiray/Wan2.2-LightX2V-260412-4STEP-FP8-BF16) |
 | 3 | Unknown | wangkanai/wan21-vaeText-to-Video | UpdatedOct 14, 2025 | [Link](https://huggingface.co/wangkanai/wan21-vae) |
+| 2 | Unknown | charlesw09/CLEAR-mask-free-video-subtitle-removal-CogvideoXText-to-Video | Updated18 days ago | [Link](https://huggingface.co/charlesw09/CLEAR-mask-free-video-subtitle-removal-CogvideoX) |
 
 ## Text2Text Generation
 
