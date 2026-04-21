@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-04-20
+Updated on 2026-04-21
 
 > Generated from the Hugging Face database.
 
@@ -3378,6 +3378,7 @@ Updated on 2026-04-20
 | UpdatedAug 1, 2024 | 1 | Junhoee/BLIP-FT-VETImage-to-Text | 0.2B | [Link](https://huggingface.co/Junhoee/BLIP-FT-VET) |
 | 114 | 1 | PaddlePaddle/PP-Chart2Table_safetensorsImage-to-Text | Updated16 days ago | [Link](https://huggingface.co/PaddlePaddle/PP-Chart2Table_safetensors) |
 | 93 | 1 | PaddlePaddle/UVDoc_safetensorsImage-to-Text | Updated16 days ago | [Link](https://huggingface.co/PaddlePaddle/UVDoc_safetensors) |
+| 577 | 1 | PaddlePaddle/SLANetImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/SLANet) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -5504,6 +5505,7 @@ Updated on 2026-04-20
 | Updatedabout 5 hours ago | 9 | Zyphra/ZAYA1-baseText | 9B | [Link](https://huggingface.co/Zyphra/ZAYA1-base) |
 | Updatedabout 15 hours ago | 9.27k | mudler/Qwen3 | 35B | [Link](https://huggingface.co/mudler/Qwen3.5-35B-A3B-APEX-GGUF) |
 | Updatedabout 11 hours ago | 9.14k | Jackrong/Gemopus-4-26B-A4B-it-GGUFText | 25B | [Link](https://huggingface.co/Jackrong/Gemopus-4-26B-A4B-it-GGUF) |
+| Updated2 days ago | 9.92k | hesamation/Qwen3 | 35B | [Link](https://huggingface.co/hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF) |
 | Updated3 days ago | 8.32k | trillionlabs/Tri-21BText | 21B | [Link](https://huggingface.co/trillionlabs/Tri-21B) |
 | Updatedabout 14 hours ago | 8 | janhq/Jan-v1-4B-GGUFText | 4B | [Link](https://huggingface.co/janhq/Jan-v1-4B-GGUF) |
 | Updatedabout 16 hours ago | 8.51k | nvidia/NVIDIA-Nemotron-Nano-12B-v2Text | 12B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-12B-v2) |
@@ -6646,6 +6648,7 @@ Updated on 2026-04-20
 | Updatedabout 11 hours ago | 4 | rodrigomt/s2-pro-ggufText-to-Speech | 5B | [Link](https://huggingface.co/rodrigomt/s2-pro-gguf) |
 | 30 | 4 | oddadmix/lahgtna-chatterbox-v1Text-to-Speech | Updated5 days ago | [Link](https://huggingface.co/oddadmix/lahgtna-chatterbox-v1) |
 | 380 | 4 | gluschenko/omnivoice-onnxText-to-Speech | Updated6 days ago | [Link](https://huggingface.co/gluschenko/omnivoice-onnx) |
+| Updated12 days ago | 4.44k | splendor1811/omnivoice-vietnameseText-to-Speech | 0.6B | [Link](https://huggingface.co/splendor1811/omnivoice-vietnamese) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 1.22k | 3 | CONCREE/Adia_TTSText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/CONCREE/Adia_TTS) |
@@ -7118,6 +7121,7 @@ Updated on 2026-04-20
 | 2 | Unknown | Abiray/Wan2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/Abiray/Wan2.2-LightX2V-260412-4STEP-FP8-BF16) |
 | 3 | Unknown | wangkanai/wan21-vaeText-to-Video | UpdatedOct 14, 2025 | [Link](https://huggingface.co/wangkanai/wan21-vae) |
 | 2 | Unknown | charlesw09/CLEAR-mask-free-video-subtitle-removal-CogvideoXText-to-Video | Updated18 days ago | [Link](https://huggingface.co/charlesw09/CLEAR-mask-free-video-subtitle-removal-CogvideoX) |
+| 11 | Unknown | lovis93/crt-animation-terminal-ltx-2 | Updatedabout 11 hours ago | [Link](https://huggingface.co/lovis93/crt-animation-terminal-ltx-2.3-lora) |
 
 ## Text2Text Generation
 
