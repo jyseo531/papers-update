@@ -3379,6 +3379,7 @@ Updated on 2026-04-21
 | 114 | 1 | PaddlePaddle/PP-Chart2Table_safetensorsImage-to-Text | Updated16 days ago | [Link](https://huggingface.co/PaddlePaddle/PP-Chart2Table_safetensors) |
 | 93 | 1 | PaddlePaddle/UVDoc_safetensorsImage-to-Text | Updated16 days ago | [Link](https://huggingface.co/PaddlePaddle/UVDoc_safetensors) |
 | 577 | 1 | PaddlePaddle/SLANetImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/SLANet) |
+| 457 | 1 | Kansallisarkisto/multicentury-htr-modelImage-to-Text | UpdatedNov 21, 2025 | [Link](https://huggingface.co/Kansallisarkisto/multicentury-htr-model) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -5623,6 +5624,7 @@ Updated on 2026-04-21
 | Updated3 days ago | 1.46k | kai-os/Carnice-27bText | 27B | [Link](https://huggingface.co/kai-os/Carnice-27b) |
 | Updated1 day ago | 1.76k | Rta-AILabs/Nandi-Mini-150M-Tool-CallingText | 0.2B | [Link](https://huggingface.co/Rta-AILabs/Nandi-Mini-150M-Tool-Calling) |
 | Updated3 days ago | 1.05k | selimaktas/MiniMax-M2 | 453B | [Link](https://huggingface.co/selimaktas/MiniMax-M2.75-460B-A20B) |
+| Updated1 day ago | 1.83k | lordx64/Qwen3 | 36B | [Link](https://huggingface.co/lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -6804,6 +6806,7 @@ Updated on 2026-04-21
 | 10 | Unknown | FINAL-Bench/Darwin-TTS-1 | Updatedabout 6 hours ago | [Link](https://huggingface.co/FINAL-Bench/Darwin-TTS-1.7B-Cross) |
 | 4 | Unknown | dida-80b/kokoro-german-hui-multispeaker-baseText-to-Speech | Updatedabout 2 hours ago | [Link](https://huggingface.co/dida-80b/kokoro-german-hui-multispeaker-base) |
 | 3 | Unknown | reenigne314/chatterbox-indic-loraText-to-Speech | Updated5 days ago | [Link](https://huggingface.co/reenigne314/chatterbox-indic-lora) |
+| 3 | Unknown | OpenMOSS-Team/MOSS-TTS-Nano-100M-ONNXText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Nano-100M-ONNX) |
 
 ## Text-to-Video
 
