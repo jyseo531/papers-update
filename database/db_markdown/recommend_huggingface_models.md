@@ -48,6 +48,7 @@ Updated on 2026-04-22
 | 1.68k | 208 | BAAI/Emu3-GenAny-to-Any | UpdatedOct 23, 2024 | [Link](https://huggingface.co/BAAI/Emu3-Gen) |
 | UpdatedApr 9 | 203 | Tesslate/Synthia-S1-27bAny-to-Any | 27B | [Link](https://huggingface.co/Tesslate/Synthia-S1-27b) |
 | Updated16 days ago | 193 | OddTheGreat/Mars_27B_V | 29B | [Link](https://huggingface.co/OddTheGreat/Mars_27B_V.1) |
+| Updated3 days ago | 193 | prithivMLmods/gemma-4-E2B-it-Uncensored-MAXAny-to-Any | 5B | [Link](https://huggingface.co/prithivMLmods/gemma-4-E2B-it-Uncensored-MAX) |
 | Updatedabout 8 hours ago | 191 | lijiang/Omni-DiffusionAny-to-Any | 8B | [Link](https://huggingface.co/lijiang/Omni-Diffusion) |
 | Updated27 days ago | 188 | rizkysulaeman/Gemma3N-4B-Conv-MM-Img-Audio-Text-Code-Reasoning-Q8_0-GGUFAny-to-Any | 7B | [Link](https://huggingface.co/rizkysulaeman/Gemma3N-4B-Conv-MM-Img-Audio-Text-Code-Reasoning-Q8_0-GGUF) |
 | Updated12 days ago | 166 | Saktsant/Qwen3-Omni-30B-A3B-Instruct-AWQAny-to-Any | 10B | [Link](https://huggingface.co/Saktsant/Qwen3-Omni-30B-A3B-Instruct-AWQ) |
@@ -2994,6 +2995,7 @@ Updated on 2026-04-22
 | Updated4 days ago | 146 | hquan21/ai-bike-pricingImage-to-Text | 0.2B | [Link](https://huggingface.co/hquan21/ai-bike-pricing) |
 | UpdatedMar 25 | 145 | dh-unibe/trocr-kurrentImage-to-Text | 0.3B | [Link](https://huggingface.co/dh-unibe/trocr-kurrent) |
 | UpdatedMay 24 | 137 | unsloth/Cosmos-Reason1-7BImage-to-Text | 8B | [Link](https://huggingface.co/unsloth/Cosmos-Reason1-7B) |
+| UpdatedMar 18 | 137 | Kansallisarkisto/cyrillic-large-handwrittenImage-to-Text | 0.6B | [Link](https://huggingface.co/Kansallisarkisto/cyrillic-large-handwritten) |
 | UpdatedJul 22 | 135 | sugiv/cardvaultplus-500m-ggufImage-to-Text | 0.4B | [Link](https://huggingface.co/sugiv/cardvaultplus-500m-gguf) |
 | 1.69k | 134 | xtuner/llava-phi-3-mini-ggufImage-to-Text | UpdatedApr 29, 2024 | [Link](https://huggingface.co/xtuner/llava-phi-3-mini-gguf) |
 | Updated4 days ago | 134 | mlx-community/olmOCR-2-7B-1025-bf16Image-to-Text | 8B | [Link](https://huggingface.co/mlx-community/olmOCR-2-7B-1025-bf16) |
@@ -5593,6 +5595,8 @@ Updated on 2026-04-22
 | Updated3 days ago | 2.4k | kai-os/Carnice-9b-GGUFText | 9B | [Link](https://huggingface.co/kai-os/Carnice-9b-GGUF) |
 | Updated2 days ago | 2.25k | Youssofal/MiniMax-M2 | 229B | [Link](https://huggingface.co/Youssofal/MiniMax-M2.7-Abliterated-Heretic-GGUF) |
 | Updated2 days ago | 2.02k | Jiunsong/SuperGemma4-31b-abliterated-mlx-4bitText | 31B | [Link](https://huggingface.co/Jiunsong/SuperGemma4-31b-abliterated-mlx-4bit) |
+| Updatedabout 2 hours ago | 2.46k | FrontiersMind/Nandi-Mini-150M-Tool-CallingText | 0.2B | [Link](https://huggingface.co/FrontiersMind/Nandi-Mini-150M-Tool-Calling) |
+| Updated5 days ago | 2.53k | Jiunsong/supergemma4-e4b-abliterated-mlxText | 1B | [Link](https://huggingface.co/Jiunsong/supergemma4-e4b-abliterated-mlx) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
 | Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
