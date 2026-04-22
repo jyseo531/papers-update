@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-04-21
+Updated on 2026-04-22
 
 > Generated from the Hugging Face database.
 
@@ -4950,6 +4950,8 @@ Updated on 2026-04-21
 | Updated3 days ago | 528 | atbender/Qwen3 | 30B | [Link](https://huggingface.co/atbender/Qwen3.5-REAP-212B-A17B-W4A16) |
 | Updated4 days ago | 517 | ai21labs/AI21-Jamba2-3BText | 3B | [Link](https://huggingface.co/ai21labs/AI21-Jamba2-3B) |
 | Updated2 days ago | 509 | Zigeng/DMax-Coder-16BText | 16B | [Link](https://huggingface.co/Zigeng/DMax-Coder-16B) |
+| Updated7 days ago | 498 | flwrlabs/Lizzy-7BText | 7B | [Link](https://huggingface.co/flwrlabs/Lizzy-7B) |
+| Updatedabout 13 hours ago | 492 | ubergarm/Kimi-K2 | 1T | [Link](https://huggingface.co/ubergarm/Kimi-K2.6-GGUF) |
 | Updated2 days ago | 490 | DJLougen/Harmonic-27B-GGUFText | 27B | [Link](https://huggingface.co/DJLougen/Harmonic-27B-GGUF) |
 | Updated4 days ago | 489 | AlicanKiraz0/Kara-Kumru-v1 | 2B | [Link](https://huggingface.co/AlicanKiraz0/Kara-Kumru-v1.0-2B) |
 | 894k | 486 | deepseek-ai/DeepSeek-R1-Distill-Qwen-7BText | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B) |
@@ -6173,6 +6175,7 @@ Updated on 2026-04-21
 | Updatedabout 15 hours ago | 5 | moving-j/HyperCLOVAX-SEED-Omni-8B-VGText-to-Image | 10B | [Link](https://huggingface.co/moving-j/HyperCLOVAX-SEED-Omni-8B-VG) |
 | Updatedabout 22 hours ago | 5 | wikeeyang/Magic-Wan-T2IV-V3Text-to-Image | 14B | [Link](https://huggingface.co/wikeeyang/Magic-Wan-T2IV-V3) |
 | 1.3k | 5 | Abiray/ERNIE-Image-Turbo-FP8-NVFP4Text-to-Image | Updated3 days ago | [Link](https://huggingface.co/Abiray/ERNIE-Image-Turbo-FP8-NVFP4) |
+| 83 | 5 | nvidia/PixelDiT-1300M-1024pxText-to-Image | Updated6 days ago | [Link](https://huggingface.co/nvidia/PixelDiT-1300M-1024px) |
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 46 | 4 | Sherwinroger002/fashion_mnist_diffusion_class_conditionalText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Sherwinroger002/fashion_mnist_diffusion_class_conditional) |
 | Updatedabout 1 hour ago | 4 | unsloth/Qwen-Image-2512-GGUFText-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-2512-GGUF) |
@@ -6807,6 +6810,7 @@ Updated on 2026-04-21
 | 4 | Unknown | dida-80b/kokoro-german-hui-multispeaker-baseText-to-Speech | Updatedabout 2 hours ago | [Link](https://huggingface.co/dida-80b/kokoro-german-hui-multispeaker-base) |
 | 3 | Unknown | reenigne314/chatterbox-indic-loraText-to-Speech | Updated5 days ago | [Link](https://huggingface.co/reenigne314/chatterbox-indic-lora) |
 | 3 | Unknown | OpenMOSS-Team/MOSS-TTS-Nano-100M-ONNXText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Nano-100M-ONNX) |
+| 4 | Unknown | Gigsu/vocoloco-onnxText-to-Speech | Updated13 days ago | [Link](https://huggingface.co/Gigsu/vocoloco-onnx) |
 
 ## Text-to-Video
 
