@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-04-22
+Updated on 2026-04-23
 
 > Generated from the Hugging Face database.
 
@@ -7133,6 +7133,7 @@ Updated on 2026-04-22
 | 3 | Unknown | wangkanai/wan21-vaeText-to-Video | UpdatedOct 14, 2025 | [Link](https://huggingface.co/wangkanai/wan21-vae) |
 | 2 | Unknown | charlesw09/CLEAR-mask-free-video-subtitle-removal-CogvideoXText-to-Video | Updated18 days ago | [Link](https://huggingface.co/charlesw09/CLEAR-mask-free-video-subtitle-removal-CogvideoX) |
 | 11 | Unknown | lovis93/crt-animation-terminal-ltx-2 | Updatedabout 11 hours ago | [Link](https://huggingface.co/lovis93/crt-animation-terminal-ltx-2.3-lora) |
+| 4 | Unknown | georgexin/cointeractText-to-Video | Updated1 day ago | [Link](https://huggingface.co/georgexin/cointeract) |
 
 ## Text2Text Generation
 
