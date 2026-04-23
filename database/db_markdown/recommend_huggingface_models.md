@@ -3030,6 +3030,7 @@ Updated on 2026-04-23
 | UpdatedJan 27, 2025 | 65 | cnmoro/mini-image-captioningImage-to-Text | 34.2M | [Link](https://huggingface.co/cnmoro/mini-image-captioning) |
 | 8.31k | 64 | alibaba-damo/mgp-str-baseImage-to-Text | UpdatedDec 11, 2023 | [Link](https://huggingface.co/alibaba-damo/mgp-str-base) |
 | UpdatedMar 25, 2024 | 61 | emisilab/model-ocr-ktp-v1Image-to-Text | 0.2B | [Link](https://huggingface.co/emisilab/model-ocr-ktp-v1) |
+| Updated10 days ago | 59 | phxember/Uni-MuMER-Qwen3 | 5B | [Link](https://huggingface.co/phxember/Uni-MuMER-Qwen3.5-4B) |
 | Updated1 day ago | 56 | huihui-ai/Huihui-Devstral-Small-2-24B-Instruct-2512-abliteratedImage-to-Text | 24B | [Link](https://huggingface.co/huihui-ai/Huihui-Devstral-Small-2-24B-Instruct-2512-abliterated) |
 | UpdatedOct 14, 2025 | 56 | Disty0/Florence-2-large-PromptGen-v2 | 0.8B | [Link](https://huggingface.co/Disty0/Florence-2-large-PromptGen-v2.0) |
 | Updated1 day ago | 56 | badianeai/AnandaSkyImage-to-Text | 0.8B | [Link](https://huggingface.co/badianeai/AnandaSky) |
@@ -5499,6 +5500,7 @@ Updated on 2026-04-23
 | Updated1 day ago | 13 | cerebras/MiniMax-M2-REAP-162B-A10BText | 162B | [Link](https://huggingface.co/cerebras/MiniMax-M2-REAP-162B-A10B) |
 | Updatedabout 22 hours ago | 13.2k | unsloth/Qwen3-Next-80B-A3B-Thinking-GGUFText | 80B | [Link](https://huggingface.co/unsloth/Qwen3-Next-80B-A3B-Thinking-GGUF) |
 | Updatedabout 18 hours ago | 13 | openai/circuit-sparsityText | 0.4B | [Link](https://huggingface.co/openai/circuit-sparsity) |
+| Updatedabout 3 hours ago | 13 | tencent/Hy3-previewText | 299B | [Link](https://huggingface.co/tencent/Hy3-preview) |
 | Updatedabout 6 hours ago | 12 | Alibaba-Apsara/DASD-4B-ThinkingText | 4B | [Link](https://huggingface.co/Alibaba-Apsara/DASD-4B-Thinking) |
 | Updatedabout 10 hours ago | 11.9k | unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUFText | 31B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUF) |
 | Updatedabout 16 hours ago | 11.6k | unsloth/MiniMax-M2-GGUFText | 229B | [Link](https://huggingface.co/unsloth/MiniMax-M2-GGUF) |
@@ -5537,6 +5539,7 @@ Updated on 2026-04-23
 | Updated6 days ago | 6.21k | byteshape/Qwen3-Coder-30B-A3B-Instruct-GGUFText | 31B | [Link](https://huggingface.co/byteshape/Qwen3-Coder-30B-A3B-Instruct-GGUF) |
 | Updatedabout 11 hours ago | 6 | nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4Text | 67B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4) |
 | Updatedabout 6 hours ago | 6.31k | Jiunsong/supergemma4-26b-abliterated-multimodalText | 26B | [Link](https://huggingface.co/Jiunsong/supergemma4-26b-abliterated-multimodal) |
+| Updated3 days ago | 6.57k | prism-ml/Ternary-Bonsai-8B-ggufText | 8B | [Link](https://huggingface.co/prism-ml/Ternary-Bonsai-8B-gguf) |
 | Updated28 minutes ago | 5 | unsloth/Kimi-K2-Instruct-GGUFText | 1026B | [Link](https://huggingface.co/unsloth/Kimi-K2-Instruct-GGUF) |
 | Updatedabout 4 hours ago | 5 | tencent/Hunyuan-1 | 2B | [Link](https://huggingface.co/tencent/Hunyuan-1.8B-Instruct) |
 | Updatedabout 6 hours ago | 5.68k | deepseek-ai/DeepSeek-V3 | 685B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3.1-Base) |
