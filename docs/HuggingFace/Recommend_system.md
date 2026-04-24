@@ -3462,6 +3462,7 @@ Updated on 2026-04-24
 | 3 | Unknown | GetcharZp/go-ocrImage-to-Text | UpdatedJan 22 | [Link](https://huggingface.co/GetcharZp/go-ocr) |
 | 2 | Unknown | moxeeeem/dermlip-gpt2-captionerImage-to-Text | UpdatedAug 30, 2025 | [Link](https://huggingface.co/moxeeeem/dermlip-gpt2-captioner) |
 | 1 | Unknown | Kreuzberg/paddleocr-onnx-modelsImage-to-Text | UpdatedMar 15 | [Link](https://huggingface.co/Kreuzberg/paddleocr-onnx-models) |
+| 1 | Unknown | ftaxats/gujarati-ocr-svtrImage-to-Text | UpdatedMar 11 | [Link](https://huggingface.co/ftaxats/gujarati-ocr-svtr) |
 
 ## Image-to-Video
 
@@ -6187,6 +6188,7 @@ Updated on 2026-04-24
 | Updatedabout 22 hours ago | 5 | wikeeyang/Magic-Wan-T2IV-V3Text-to-Image | 14B | [Link](https://huggingface.co/wikeeyang/Magic-Wan-T2IV-V3) |
 | 1.3k | 5 | Abiray/ERNIE-Image-Turbo-FP8-NVFP4Text-to-Image | Updated3 days ago | [Link](https://huggingface.co/Abiray/ERNIE-Image-Turbo-FP8-NVFP4) |
 | 83 | 5 | nvidia/PixelDiT-1300M-1024pxText-to-Image | Updated6 days ago | [Link](https://huggingface.co/nvidia/PixelDiT-1300M-1024px) |
+| 75 | 5 | SeeSee21/ERNIE-AIOText-to-Image | Updated4 days ago | [Link](https://huggingface.co/SeeSee21/ERNIE-AIO) |
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 46 | 4 | Sherwinroger002/fashion_mnist_diffusion_class_conditionalText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Sherwinroger002/fashion_mnist_diffusion_class_conditional) |
 | Updatedabout 1 hour ago | 4 | unsloth/Qwen-Image-2512-GGUFText-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-2512-GGUF) |
@@ -6555,6 +6557,7 @@ Updated on 2026-04-24
 | Updatedabout 8 hours ago | 21 | ekwek/Soprano-1 | 79.7M | [Link](https://huggingface.co/ekwek/Soprano-1.1-80M) |
 | 857 | 20 | MBZUAI/speecht5_tts_clartts_arText-to-Speech | UpdatedFeb 23, 2024 | [Link](https://huggingface.co/MBZUAI/speecht5_tts_clartts_ar) |
 | 234 | 20 | k2-fsa/OmniVoiceText-to-Speech | Updatedabout 1 hour ago | [Link](https://huggingface.co/k2-fsa/OmniVoice) |
+| Updated7 days ago | 20 | AMAImedia/Darwin-Qwen3-TTS-1 | 2B | [Link](https://huggingface.co/AMAImedia/Darwin-Qwen3-TTS-1.7B-Cross-AWQ-INT4-NOESIS) |
 | 1.54k | 19 | HKUSTAudio/Llasa-1B-MultilingualText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-1B-Multilingual) |
 | 18.9k | 19 | myshell-ai/MeloTTS-SpanishText-to-Speech | UpdatedMar 1, 2024 | [Link](https://huggingface.co/myshell-ai/MeloTTS-Spanish) |
 | 26 | 19 | fishaudio/openaudio-s1-miniText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/fishaudio/openaudio-s1-mini) |
@@ -6822,6 +6825,7 @@ Updated on 2026-04-24
 | 3 | Unknown | reenigne314/chatterbox-indic-loraText-to-Speech | Updated5 days ago | [Link](https://huggingface.co/reenigne314/chatterbox-indic-lora) |
 | 3 | Unknown | OpenMOSS-Team/MOSS-TTS-Nano-100M-ONNXText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Nano-100M-ONNX) |
 | 4 | Unknown | Gigsu/vocoloco-onnxText-to-Speech | Updated13 days ago | [Link](https://huggingface.co/Gigsu/vocoloco-onnx) |
+| 4 | Unknown | intellisr/sinhala-tts-piper-v1Text-to-Speech | Updatedabout 21 hours ago | [Link](https://huggingface.co/intellisr/sinhala-tts-piper-v1) |
 
 ## Text-to-Video
 
