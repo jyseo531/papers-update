@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-04-24
+Updated on 2026-04-25
 
 > Generated from the Hugging Face database.
 
@@ -5333,6 +5333,7 @@ Updated on 2026-04-24
 | Updatedabout 4 hours ago | 27 | microsoft/UserLM-8bText | 8B | [Link](https://huggingface.co/microsoft/UserLM-8b) |
 | Updatedabout 19 hours ago | 27 | IQuestLab/IQuest-Coder-V1-40B-Loop-InstructText | 40B | [Link](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Loop-Instruct) |
 | Updatedabout 16 hours ago | 27 | arcee-ai/Trinity-Large-BaseText | 399B | [Link](https://huggingface.co/arcee-ai/Trinity-Large-Base) |
+| Updatedabout 11 hours ago | 27 | unsloth/DeepSeek-V4-FlashText | 158B | [Link](https://huggingface.co/unsloth/DeepSeek-V4-Flash) |
 | 7.18k | 26 | bartowski/RekaAI_reka-flash-3-GGUFText | Updated2 days ago | [Link](https://huggingface.co/bartowski/RekaAI_reka-flash-3-GGUF) |
 | 499 | 26 | mixedbread-ai/mxbai-rerank-large-v2Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/mixedbread-ai/mxbai-rerank-large-v2) |
 | 1 | 26 | openfree/QwQ-32B-Q8_0-GGUFText | Updatedabout 7 hours ago | [Link](https://huggingface.co/openfree/QwQ-32B-Q8_0-GGUF) |
@@ -5409,6 +5410,7 @@ Updated on 2026-04-24
 | Updated26 days ago | 22.1k | BennyDaBall/Qwen3-4b-Z-Image-Engineer-V4Text | 4B | [Link](https://huggingface.co/BennyDaBall/Qwen3-4b-Z-Image-Engineer-V4) |
 | Updatedabout 10 hours ago | 22 | nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16Text | 124B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16) |
 | Updatedabout 2 hours ago | 22 | nvidia/gpt-oss-puzzle-88BText | 91B | [Link](https://huggingface.co/nvidia/gpt-oss-puzzle-88B) |
+| Updatedabout 15 hours ago | 22 | FINAL-Bench/Darwin-9B-NEGText | 10B | [Link](https://huggingface.co/FINAL-Bench/Darwin-9B-NEG) |
 | 34 | 21 | ai21labs/AI21-Jamba-Mini-1 | Updatedabout 13 hours ago | [Link](https://huggingface.co/ai21labs/AI21-Jamba-Mini-1.6) |
 | 7.93k | 21 | lmstudio-community/Llama-4-Scout-17B-16E-Instruct-GGUFText | Updated1 day ago | [Link](https://huggingface.co/lmstudio-community/Llama-4-Scout-17B-16E-Instruct-GGUF) |
 | 275 | 21 | ServiceNow-AI/Apriel-5B-InstructText | Updated3 days ago | [Link](https://huggingface.co/ServiceNow-AI/Apriel-5B-Instruct) |
@@ -5420,6 +5422,7 @@ Updated on 2026-04-24
 | Updatedabout 7 hours ago | 21 | nota-ai/Solar-Open-100B-NotaMoEQuant-Int4Text | 2B | [Link](https://huggingface.co/nota-ai/Solar-Open-100B-NotaMoEQuant-Int4) |
 | Updatedabout 21 hours ago | 21 | guidelabs/steerling-8bText | 8B | [Link](https://huggingface.co/guidelabs/steerling-8b) |
 | 907 | 21 | FINAL-Bench/Darwin-4B-DavidText | Updated4 days ago | [Link](https://huggingface.co/FINAL-Bench/Darwin-4B-David) |
+| Updatedabout 11 hours ago | 21 | unsloth/DeepSeek-V4-ProText | 862B | [Link](https://huggingface.co/unsloth/DeepSeek-V4-Pro) |
 | 335 | 20 | google/txgemma-27b-chatText | Updated2 days ago | [Link](https://huggingface.co/google/txgemma-27b-chat) |
 | 473 | 20 | google/txgemma-9b-chatText | Updated4 days ago | [Link](https://huggingface.co/google/txgemma-9b-chat) |
 | 15 | 20 | Intelligent-Internet/II-Medical-8B-1706Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/Intelligent-Internet/II-Medical-8B-1706) |
