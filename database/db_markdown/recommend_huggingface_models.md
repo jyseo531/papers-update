@@ -2669,6 +2669,7 @@ Updated on 2026-04-25
 | 133 | 4 | drbaph/FireRed-Image-Edit-1 | Updated2 days ago | [Link](https://huggingface.co/drbaph/FireRed-Image-Edit-1.1_ComfyUI_Quants) |
 | 94 | 4 | linoyts/flux2-klein-bbox-drag-drop-loraImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/linoyts/flux2-klein-bbox-drag-drop-lora) |
 | 72 | 4 | kyutai/ovieImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/kyutai/ovie) |
+|  | 4 | oumoumad/LumiPicImage-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/oumoumad/LumiPic) |
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
@@ -3385,6 +3386,7 @@ Updated on 2026-04-25
 | 93 | 1 | PaddlePaddle/UVDoc_safetensorsImage-to-Text | Updated16 days ago | [Link](https://huggingface.co/PaddlePaddle/UVDoc_safetensors) |
 | 577 | 1 | PaddlePaddle/SLANetImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/SLANet) |
 | 457 | 1 | Kansallisarkisto/multicentury-htr-modelImage-to-Text | UpdatedNov 21, 2025 | [Link](https://huggingface.co/Kansallisarkisto/multicentury-htr-model) |
+| 54 | 1 | uchihamadara1816/TROCR-ChessImage-to-Text | UpdatedDec 9, 2025 | [Link](https://huggingface.co/uchihamadara1816/TROCR-Chess) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -4970,6 +4972,7 @@ Updated on 2026-04-25
 | Updatedabout 11 hours ago | 427 | Jiunsong/SuperGemma4-31b-abliterated-GGUFText | 31B | [Link](https://huggingface.co/Jiunsong/SuperGemma4-31b-abliterated-GGUF) |
 | Updatedabout 12 hours ago | 425 | Nikity/lille-130m-instructText | 0.1B | [Link](https://huggingface.co/Nikity/lille-130m-instruct) |
 | Updated2 days ago | 419 | rstar2-reproduce/rStar2-Agent-14BText | 15B | [Link](https://huggingface.co/rstar2-reproduce/rStar2-Agent-14B) |
+| Updated2 days ago | 414 | FINAL-Bench/Darwin-36B-OpusText | 35B | [Link](https://huggingface.co/FINAL-Bench/Darwin-36B-Opus) |
 | Updated21 minutes ago | 395 | deepseek-ai/DeepSeek-V4-ProText | 862B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro) |
 | Updatedabout 9 hours ago | 389 | zai-org/GLM-5 | 754B | [Link](https://huggingface.co/zai-org/GLM-5.1) |
 | Updatedabout 5 hours ago | 384 | RUC-DataLab/DeepAnalyze-8BText | 8B | [Link](https://huggingface.co/RUC-DataLab/DeepAnalyze-8B) |
@@ -6705,6 +6708,7 @@ Updated on 2026-04-25
 | Updated7 days ago | 3.07k | OpenMOSS-Team/MOSS-TTSD-v0 | 2B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTSD-v0.7) |
 | 281 | 3 | valtecAI-team/valtec-tts-pretrainedText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/valtecAI-team/valtec-tts-pretrained) |
 | 28 | 3 | CoRal-project/roest-v3-chatterbox-500mText-to-Speech | Updated5 days ago | [Link](https://huggingface.co/CoRal-project/roest-v3-chatterbox-500m) |
+| 67 | 3 | NAMAA-Space/NAMAA-Saudi-TTS-V2Text-to-Speech | Updated4 days ago | [Link](https://huggingface.co/NAMAA-Space/NAMAA-Saudi-TTS-V2) |
 | 2.36M | 2.41k | coqui/XTTS-v2Text-to-Speech | UpdatedDec 11, 2023 | [Link](https://huggingface.co/coqui/XTTS-v2) |
 | 153 | 2 | mmwillet2/Dia_GGUFText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/mmwillet2/Dia_GGUF) |
 | 55 | 2 | unsloth/Spark-TTS-0 | Updated2 days ago | [Link](https://huggingface.co/unsloth/Spark-TTS-0.5B) |
@@ -7149,6 +7153,7 @@ Updated on 2026-04-25
 | 11 | Unknown | lovis93/crt-animation-terminal-ltx-2 | Updatedabout 11 hours ago | [Link](https://huggingface.co/lovis93/crt-animation-terminal-ltx-2.3-lora) |
 | 4 | Unknown | georgexin/cointeractText-to-Video | Updated1 day ago | [Link](https://huggingface.co/georgexin/cointeract) |
 | 3 | Unknown | vrgamedevgirl84/LTX_2 | Updatedabout 1 hour ago | [Link](https://huggingface.co/vrgamedevgirl84/LTX_2.3_Paper_Cut_Out_Style_LoRa) |
+| 2 | Unknown | Cseti/LTX2 | Updatedabout 2 hours ago | [Link](https://huggingface.co/Cseti/LTX2.3-22B_Arcane-Jinx_v1) |
 
 ## Text2Text Generation
 
