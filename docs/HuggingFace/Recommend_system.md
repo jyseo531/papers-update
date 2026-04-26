@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-04-25
+Updated on 2026-04-26
 
 > Generated from the Hugging Face database.
 
@@ -164,6 +164,7 @@ Updated on 2026-04-25
 | UpdatedFeb 14 | 6 | Nikhil-aka-Nick/FlorenceDropout2Any-to-Any | 0.8B | [Link](https://huggingface.co/Nikhil-aka-Nick/FlorenceDropout2) |
 | UpdatedMay 12, 2025 | 6.86k | unsloth/gemma-3-12b-it-bnb-4bitAny-to-Any | 13B | [Link](https://huggingface.co/unsloth/gemma-3-12b-it-bnb-4bit) |
 | Updatedabout 10 hours ago | 6 | huihui-ai/Huihui-gemma-4-26B-A4B-it-abliteratedAny-to-Any | 27B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-26B-A4B-it-abliterated) |
+| Updated15 days ago | 6.42k | DavidAU/gemma-4-E4B-it-The-DECKARD-Expresso-Universe-HERETIC-UNCENSORED-Thinking-GGUFAny-to-Any | 8B | [Link](https://huggingface.co/DavidAU/gemma-4-E4B-it-The-DECKARD-Expresso-Universe-HERETIC-UNCENSORED-Thinking-GGUF) |
 | 1.63k | 5 | PKU-Alignment/AA-chameleon-7b-plusAny-to-Any | UpdatedSep 13, 2024 | [Link](https://huggingface.co/PKU-Alignment/AA-chameleon-7b-plus) |
 | 2.67k | 5 | Junfeng5/Liquid_V1_7BAny-to-Any | Updated8 days ago | [Link](https://huggingface.co/Junfeng5/Liquid_V1_7B) |
 | UpdatedMay 9 | 5.89k | unsloth/gemma-3-27b-it-qat-GGUFAny-to-Any | 27B | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-qat-GGUF) |
@@ -2127,6 +2128,7 @@ Updated on 2026-04-25
 | 2 | 20 | nvidia/DAM-3B-VideoImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/DAM-3B-Video) |
 | Updated3 days ago | 20 | zai-org/GlyphImage-Text-to-Text | 10B | [Link](https://huggingface.co/zai-org/Glyph) |
 | Updatedabout 12 hours ago | 20 | google/translategemma-27b-itImage-Text-to-Text | 29B | [Link](https://huggingface.co/google/translategemma-27b-it) |
+| Updated3 days ago | 20.3k | Lorbus/Qwen3 | 6B | [Link](https://huggingface.co/Lorbus/Qwen3.6-27B-int4-AutoRound) |
 | 3.71k | 19 | google/paligemma2-10b-mix-448Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-10b-mix-448) |
 | Updated3 days ago | 19 | OpenGVLab/Docopilot-2BImage-Text-to-Text | 2B | [Link](https://huggingface.co/OpenGVLab/Docopilot-2B) |
 | Updatedabout 10 hours ago | 19 | nanonets/Nanonets-OCR2-1 | 2B | [Link](https://huggingface.co/nanonets/Nanonets-OCR2-1.5B-exp) |
