@@ -2703,6 +2703,7 @@ Updated on 2026-04-26
 |  | 3 | prithivMLmods/Kontext-Watermark-RemoverImage-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/prithivMLmods/Kontext-Watermark-Remover) |
 | 132 | 3 | valiantcat/Qwen-Image-Edit-2509-Passionate-kissImage-to-Image | Updated12 days ago | [Link](https://huggingface.co/valiantcat/Qwen-Image-Edit-2509-Passionate-kiss) |
 | 522 | 3 | Jonny001/Qwen-Image-Edit-Remove-ClothesImage-to-Image | UpdatedAug 29, 2025 | [Link](https://huggingface.co/Jonny001/Qwen-Image-Edit-Remove-Clothes) |
+| 221 | 3 | nhathoangfoto/Flux | Updated7 days ago | [Link](https://huggingface.co/nhathoangfoto/Flux.2-Klein-9B-Mannequin) |
 | 67 | 2 | SherryXTChen/InstructCLIP-InstructPix2PixImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/SherryXTChen/InstructCLIP-InstructPix2Pix) |
 | 17 | 2 | SherryXTChen/Instruct-CLIPImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/SherryXTChen/Instruct-CLIP) |
 | 76 | 2 | VisualCloze/VisualClozePipeline-384Image-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/VisualCloze/VisualClozePipeline-384) |
@@ -4952,6 +4953,7 @@ Updated on 2026-04-26
 | Updated1 day ago | 608 | ArliAI/GLM-4 | 110B | [Link](https://huggingface.co/ArliAI/GLM-4.5-Air-Derestricted) |
 | Updated2 days ago | 605 | nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUFText | 4B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUF) |
 | Updated1 day ago | 594 | bigatuna/Qwen3 | 9B | [Link](https://huggingface.co/bigatuna/Qwen3.5-9b-Sushi-Coder-RL-GGUF) |
+| Updatedabout 8 hours ago | 593 | AEON-7/Qwen3 | 27B | [Link](https://huggingface.co/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored) |
 | Updated1 day ago | 580 | allenai/Olmo-3 | 32B | [Link](https://huggingface.co/allenai/Olmo-3.1-32B-Think) |
 | Updatedabout 4 hours ago | 570 | MiniMaxAI/MiniMax-M2Text | 229B | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M2) |
 |  | 565 | deepseek-ai/DeepSeek-R1-0528Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528) |
@@ -6566,6 +6568,7 @@ Updated on 2026-04-26
 | 857 | 20 | MBZUAI/speecht5_tts_clartts_arText-to-Speech | UpdatedFeb 23, 2024 | [Link](https://huggingface.co/MBZUAI/speecht5_tts_clartts_ar) |
 | 234 | 20 | k2-fsa/OmniVoiceText-to-Speech | Updatedabout 1 hour ago | [Link](https://huggingface.co/k2-fsa/OmniVoice) |
 | Updated7 days ago | 20 | AMAImedia/Darwin-Qwen3-TTS-1 | 2B | [Link](https://huggingface.co/AMAImedia/Darwin-Qwen3-TTS-1.7B-Cross-AWQ-INT4-NOESIS) |
+| Updatedabout 6 hours ago | 20 | AMAImedia/Qwen3-1 | 2B | [Link](https://huggingface.co/AMAImedia/Qwen3-1.7B-TTS-Cross-Darwin-NOESIS-AWQ-INT4) |
 | 1.54k | 19 | HKUSTAudio/Llasa-1B-MultilingualText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-1B-Multilingual) |
 | 18.9k | 19 | myshell-ai/MeloTTS-SpanishText-to-Speech | UpdatedMar 1, 2024 | [Link](https://huggingface.co/myshell-ai/MeloTTS-Spanish) |
 | 26 | 19 | fishaudio/openaudio-s1-miniText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/fishaudio/openaudio-s1-mini) |
@@ -6676,6 +6679,7 @@ Updated on 2026-04-26
 | 30 | 4 | oddadmix/lahgtna-chatterbox-v1Text-to-Speech | Updated5 days ago | [Link](https://huggingface.co/oddadmix/lahgtna-chatterbox-v1) |
 | 380 | 4 | gluschenko/omnivoice-onnxText-to-Speech | Updated6 days ago | [Link](https://huggingface.co/gluschenko/omnivoice-onnx) |
 | Updated12 days ago | 4.44k | splendor1811/omnivoice-vietnameseText-to-Speech | 0.6B | [Link](https://huggingface.co/splendor1811/omnivoice-vietnamese) |
+| 701 | 4 | mlx-community/VoxCPM2-8bitText-to-Speech | Updated18 days ago | [Link](https://huggingface.co/mlx-community/VoxCPM2-8bit) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 1.22k | 3 | CONCREE/Adia_TTSText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/CONCREE/Adia_TTS) |
