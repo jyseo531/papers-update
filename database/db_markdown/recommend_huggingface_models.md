@@ -3079,6 +3079,7 @@ Updated on 2026-04-27
 | UpdatedDec 4, 2024 | 35 | shashikanth-a/Llama-3 | 1B | [Link](https://huggingface.co/shashikanth-a/Llama-3.2-11B-Vision-4bit) |
 | UpdatedApr 24, 2024 | 35 | HamAndCheese82/math-ocr-donut-v2Image-to-Text | 0.2B | [Link](https://huggingface.co/HamAndCheese82/math-ocr-donut-v2) |
 | UpdatedNov 22, 2025 | 34.4k | DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-ExtremeImage-to-Text | 4B | [Link](https://huggingface.co/DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-Extreme) |
+| Updated3 days ago | 33 | ENC-PSL/Medusa0 | 9B | [Link](https://huggingface.co/ENC-PSL/Medusa0.1Line-9B) |
 | 6.34k | 32 | thwri/CogFlorence-2 | UpdatedSep 28, 2024 | [Link](https://huggingface.co/thwri/CogFlorence-2.2-Large) |
 | Updatedabout 4 hours ago | 32 | junyoung-00/Phi-3 | 4B | [Link](https://huggingface.co/junyoung-00/Phi-3.5-vision-instruct-ChartCap) |
 | UpdatedJul 8, 2024 | 32 | medieval-data/trocr-medieval-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/medieval-data/trocr-medieval-base) |
@@ -3470,6 +3471,7 @@ Updated on 2026-04-27
 | 2 | Unknown | moxeeeem/dermlip-gpt2-captionerImage-to-Text | UpdatedAug 30, 2025 | [Link](https://huggingface.co/moxeeeem/dermlip-gpt2-captioner) |
 | 1 | Unknown | Kreuzberg/paddleocr-onnx-modelsImage-to-Text | UpdatedMar 15 | [Link](https://huggingface.co/Kreuzberg/paddleocr-onnx-models) |
 | 1 | Unknown | ftaxats/gujarati-ocr-svtrImage-to-Text | UpdatedMar 11 | [Link](https://huggingface.co/ftaxats/gujarati-ocr-svtr) |
+| 2 | Unknown | MeiGen-AI/PosterReward_v1Image-to-Text | Updated25 days ago | [Link](https://huggingface.co/MeiGen-AI/PosterReward_v1) |
 
 ## Image-to-Video
 
@@ -4960,6 +4962,7 @@ Updated on 2026-04-27
 | Updatedabout 4 hours ago | 570 | MiniMaxAI/MiniMax-M2Text | 229B | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M2) |
 |  | 565 | deepseek-ai/DeepSeek-R1-0528Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528) |
 | Updated3 days ago | 540 | ArliAI/gpt-oss-120b-DerestrictedText | 117B | [Link](https://huggingface.co/ArliAI/gpt-oss-120b-Derestricted) |
+| Updatedabout 15 hours ago | 536 | mlx-community/DeepSeek-V4-Flash-2bit-DQText | 284B | [Link](https://huggingface.co/mlx-community/DeepSeek-V4-Flash-2bit-DQ) |
 | Updated3 days ago | 528 | huihui-ai/Huihui-Qwen3-Coder-Next-abliteratedText | 80B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3-Coder-Next-abliterated) |
 | Updated3 days ago | 528 | atbender/Qwen3 | 30B | [Link](https://huggingface.co/atbender/Qwen3.5-REAP-212B-A17B-W4A16) |
 | Updated4 days ago | 517 | ai21labs/AI21-Jamba2-3BText | 3B | [Link](https://huggingface.co/ai21labs/AI21-Jamba2-3B) |
@@ -5651,6 +5654,7 @@ Updated on 2026-04-27
 | Updated1 day ago | 1.76k | Rta-AILabs/Nandi-Mini-150M-Tool-CallingText | 0.2B | [Link](https://huggingface.co/Rta-AILabs/Nandi-Mini-150M-Tool-Calling) |
 | Updated3 days ago | 1.05k | selimaktas/MiniMax-M2 | 453B | [Link](https://huggingface.co/selimaktas/MiniMax-M2.75-460B-A20B) |
 | Updated1 day ago | 1.83k | lordx64/Qwen3 | 36B | [Link](https://huggingface.co/lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled) |
+| Updated1 day ago | 1.03k | OsaurusAI/MiniMax-M2 | 10B | [Link](https://huggingface.co/OsaurusAI/MiniMax-M2.7-Small-JANGTQ) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -6029,6 +6033,7 @@ Updated on 2026-04-27
 | 15.9k | 65 | neta-art/Neta-LuminaText-to-Image | Updated7 minutes ago | [Link](https://huggingface.co/neta-art/Neta-Lumina) |
 | 3.27M | 64 | stable-diffusion-v1-5/stable-diffusion-inpaintingText-to-Image | UpdatedSep 6, 2024 | [Link](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-inpainting) |
 | 10.3k | 64 | LyliaEngine/Pony_Diffusion_V6_XLText-to-Image | UpdatedMay 25, 2024 | [Link](https://huggingface.co/LyliaEngine/Pony_Diffusion_V6_XL) |
+| Updatedabout 13 hours ago | 62 | SeeSee21/Z-AnimeText-to-Image | 6B | [Link](https://huggingface.co/SeeSee21/Z-Anime) |
 |  | 61 | meituan-longcat/LongCat-ImageText-to-Image | Updatedabout 13 hours ago | [Link](https://huggingface.co/meituan-longcat/LongCat-Image) |
 | 8.42k | 59 | cyberdelia/CyberRealisticPonyText-to-Image | Updated3 days ago | [Link](https://huggingface.co/cyberdelia/CyberRealisticPony) |
 | Updatedabout 9 hours ago | 55 | shallowdream204/BitDance-14B-64xText-to-Image | 15B | [Link](https://huggingface.co/shallowdream204/BitDance-14B-64x) |
