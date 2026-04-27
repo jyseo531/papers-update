@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-04-26
+Updated on 2026-04-27
 
 > Generated from the Hugging Face database.
 
@@ -22,6 +22,7 @@ Updated on 2026-04-26
 | 189k | 577 | deepseek-ai/Janus-1 | Updated29 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-1.3B) |
 | Updatedabout 10 hours ago | 571 | inclusionAI/Ming-flash-omni-PreviewAny-to-Any | 104B | [Link](https://huggingface.co/inclusionAI/Ming-flash-omni-Preview) |
 | UpdatedApr 14 | 541 | second-state/Llama-4-Scout-17B-16E-Instruct-GGUFAny-to-Any | 108B | [Link](https://huggingface.co/second-state/Llama-4-Scout-17B-16E-Instruct-GGUF) |
+| Updated4 days ago | 534 | WithinUsAI/Gemma4-Overlooked | 5B | [Link](https://huggingface.co/WithinUsAI/Gemma4-Overlooked.Thinker.Uncensored-E2B.gguf) |
 | Updatedabout 4 hours ago | 504 | Backup-bdg/Xoron-Dev-MultiMoeAny-to-Any | 4B | [Link](https://huggingface.co/Backup-bdg/Xoron-Dev-MultiMoe) |
 | Updated3 days ago | 500 | thenexthub/EverosAny-to-Any | 1000B | [Link](https://huggingface.co/thenexthub/Everos) |
 | Updated4 days ago | 480 | llmfan46/gemma-4-E4B-it-ultra-uncensored-hereticAny-to-Any | 8B | [Link](https://huggingface.co/llmfan46/gemma-4-E4B-it-ultra-uncensored-heretic) |
@@ -2003,6 +2004,7 @@ Updated on 2026-04-26
 | 1.69k | 88 | google/gemma-3n-E4B-itImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/google/gemma-3n-E4B-it) |
 | Updated2 days ago | 87 | INSAIT-Institute/MamayLM-Gemma-3-4B-IT-v1 | 4B | [Link](https://huggingface.co/INSAIT-Institute/MamayLM-Gemma-3-4B-IT-v1.0) |
 | Updated2 days ago | 85 | Alibaba-DAMO-Academy/RynnBrain-2BImage-Text-to-Text | 2B | [Link](https://huggingface.co/Alibaba-DAMO-Academy/RynnBrain-2B) |
+| Updatedabout 14 hours ago | 85 | kai-os/Carnice-V2-27bImage-Text-to-Text | 27B | [Link](https://huggingface.co/kai-os/Carnice-V2-27b) |
 | Updatedabout 8 hours ago | 82 | KORMo-VL/KORMo-VLImage-Text-to-Text | 11B | [Link](https://huggingface.co/KORMo-VL/KORMo-VL) |
 | Updated20 days ago | 81.8k | zai-org/GLM-4 | 10B | [Link](https://huggingface.co/zai-org/GLM-4.1V-9B-Thinking) |
 | 10.9k | 80 | ibm-granite/granite-vision-3 | Updatedabout 7 hours ago | [Link](https://huggingface.co/ibm-granite/granite-vision-3.1-2b-preview) |
