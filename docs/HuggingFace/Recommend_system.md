@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-04-27
+Updated on 2026-04-28
 
 > Generated from the Hugging Face database.
 
@@ -99,6 +99,7 @@ Updated on 2026-04-27
 | Updatedabout 6 hours ago | 39 | inclusionAI/MingTok-VisionAny-to-Any | 0.7B | [Link](https://huggingface.co/inclusionAI/MingTok-Vision) |
 | 16.8k | 38 | openbmb/MiniCPM-o-2_6-int4Any-to-Any | UpdatedJan 22 | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6-int4) |
 | 167 | 38 | InternVL-U/InternVL-UAny-to-Any | Updatedabout 11 hours ago | [Link](https://huggingface.co/InternVL-U/InternVL-U) |
+| Updatedabout 12 hours ago | 38 | sensenova/SenseNova-U1-8B-MoTAny-to-Any | 18B | [Link](https://huggingface.co/sensenova/SenseNova-U1-8B-MoT) |
 | Updatedabout 6 hours ago | 37 | inclusionAI/Ming-UniVision-16B-A3BAny-to-Any | 19B | [Link](https://huggingface.co/inclusionAI/Ming-UniVision-16B-A3B) |
 | Updated14 days ago | 37 | sensefvg/InteractiveOmni-8BAny-to-Any | 10B | [Link](https://huggingface.co/sensefvg/InteractiveOmni-8B) |
 | UpdatedAug 14 | 37k | unsloth/gemma-3-12b-it-GGUFAny-to-Any | 12B | [Link](https://huggingface.co/unsloth/gemma-3-12b-it-GGUF) |
@@ -177,6 +178,7 @@ Updated on 2026-04-27
 | Updatedabout 13 hours ago | 5 | coder3101/gemma-4-E4B-it-hereticAny-to-Any | 8B | [Link](https://huggingface.co/coder3101/gemma-4-E4B-it-heretic) |
 | 226 | 5 | DavidAU/gemma-4-E4B-it-The-DECKARD-Expresso-Universe-HERETIC-UNCENSORED-ThinkingAny-to-Any | Updated3 minutes ago | [Link](https://huggingface.co/DavidAU/gemma-4-E4B-it-The-DECKARD-Expresso-Universe-HERETIC-UNCENSORED-Thinking) |
 | Updatedabout 1 hour ago | 5 | groxaxo/Huihui-gemma-4-26B-A4B-it-abliterated-GGUFAny-to-Any | 25B | [Link](https://huggingface.co/groxaxo/Huihui-gemma-4-26B-A4B-it-abliterated-GGUF) |
+| Updatedabout 12 hours ago | 5 | sensenova/SenseNova-U1-8B-MoT-SFTAny-to-Any | 18B | [Link](https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-SFT) |
 | 126 | 4 | Alpha-VLLM/Chameleon_7B_mGPTAny-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Chameleon_7B_mGPT) |
 | 37 | 4 | Alpha-VLLM/Lumina-mGPT-7B-512-MultiImageAny-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-512-MultiImage) |
 | 26 | 4 | EPFL-VILAB/4M-7-T2I_XL_CC12MAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-7-T2I_XL_CC12M) |
@@ -5053,6 +5055,7 @@ Updated on 2026-04-27
 | Updated1 day ago | 150 | lm-provers/QED-NanoText | 4B | [Link](https://huggingface.co/lm-provers/QED-Nano) |
 | Updatedabout 15 hours ago | 149 | openai/gpt-oss-safeguard-120bText | 120B | [Link](https://huggingface.co/openai/gpt-oss-safeguard-120b) |
 | 38 | 143 | qihoo360/TinyR1-32B-PreviewText | Updatedabout 17 hours ago | [Link](https://huggingface.co/qihoo360/TinyR1-32B-Preview) |
+| Updatedabout 10 hours ago | 141 | XiaomiMiMo/MiMo-V2 | 1T | [Link](https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro) |
 | Updated6 days ago | 140 | zerofata/MS3 | 24B | [Link](https://huggingface.co/zerofata/MS3.2-PaintedFantasy-24B) |
 | Updated1 day ago | 140 | PleIAs/MonadText | 56.7M | [Link](https://huggingface.co/PleIAs/Monad) |
 | Updatedabout 10 hours ago | 139 | google/vaultgemma-1bText | 1B | [Link](https://huggingface.co/google/vaultgemma-1b) |
@@ -5582,6 +5585,7 @@ Updated on 2026-04-27
 | Updated2 days ago | 4.46k | mmnga-o/NVIDIA-Nemotron-Nano-9B-v2-Japanese-ggufText | 9B | [Link](https://huggingface.co/mmnga-o/NVIDIA-Nemotron-Nano-9B-v2-Japanese-gguf) |
 | Updated6 days ago | 4.97k | prism-ml/Bonsai-4B-ggufText | 4B | [Link](https://huggingface.co/prism-ml/Bonsai-4B-gguf) |
 | Updated7 days ago | 4.05k | kai-os/Carnice-27b-GGUFText | 27B | [Link](https://huggingface.co/kai-os/Carnice-27b-GGUF) |
+| Updated2 days ago | 4.19k | bartowski/FINAL-Bench_Darwin-36B-Opus-GGUFText | 35B | [Link](https://huggingface.co/bartowski/FINAL-Bench_Darwin-36B-Opus-GGUF) |
 | Updated2 days ago | 3.87k | unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUFText | 480B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUF) |
 | Updated6 days ago | 3.39k | Qwen/Qwen3-30B-A3B-Thinking-2507-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507-FP8) |
 | Updatedabout 4 hours ago | 3.61k | openai/gpt-oss-120bText | 63B | [Link](https://huggingface.co/openai/gpt-oss-120b) |
