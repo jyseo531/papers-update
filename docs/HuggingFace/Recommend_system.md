@@ -2676,6 +2676,7 @@ Updated on 2026-04-28
 | 94 | 4 | linoyts/flux2-klein-bbox-drag-drop-loraImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/linoyts/flux2-klein-bbox-drag-drop-lora) |
 | 72 | 4 | kyutai/ovieImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/kyutai/ovie) |
 |  | 4 | oumoumad/LumiPicImage-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/oumoumad/LumiPic) |
+|  | 4 | prithivMLmods/QIE-2511-3D-Paper-Cut-IllustrationImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/prithivMLmods/QIE-2511-3D-Paper-Cut-Illustration) |
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
