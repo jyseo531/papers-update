@@ -149,6 +149,7 @@ Updated on 2026-04-29
 | 23 | 9 | Alpha-VLLM/Lumina-mGPT-7B-1024Any-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-1024) |
 | Updatedabout 11 hours ago | 9.76k | google/gemma-4-E2BAny-to-Any | 5B | [Link](https://huggingface.co/google/gemma-4-E2B) |
 | Updatedabout 10 hours ago | 9 | p-e-w/gemma-4-E2B-it-heretic-araAny-to-Any | 5B | [Link](https://huggingface.co/p-e-w/gemma-4-E2B-it-heretic-ara) |
+| Updatedabout 10 hours ago | 9.82k | nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16Any-to-Any | 33B | [Link](https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16) |
 | UpdatedJul 9 | 8 | toandev/donglao-gemma-3-4b-it-viAny-to-Any | 4B | [Link](https://huggingface.co/toandev/donglao-gemma-3-4b-it-vi) |
 | Updated13 days ago | 8.66k | llmfan46/gemma-4-E4B-it-uncensored-heretic-GGUFAny-to-Any | 8B | [Link](https://huggingface.co/llmfan46/gemma-4-E4B-it-uncensored-heretic-GGUF) |
 | 612 | 7 | internlm/internlm-xcomposer2d5-7b-rewardAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/internlm/internlm-xcomposer2d5-7b-reward) |
@@ -4960,6 +4961,7 @@ Updated on 2026-04-29
 | UpdatedJun 4, 2025 | 613 | AlicanKiraz0/Cybersecurity-BaronLLM_Offensive_Security_LLM_Q6_K_GGUFText | 8B | [Link](https://huggingface.co/AlicanKiraz0/Cybersecurity-BaronLLM_Offensive_Security_LLM_Q6_K_GGUF) |
 | Updated1 day ago | 608 | ArliAI/GLM-4 | 110B | [Link](https://huggingface.co/ArliAI/GLM-4.5-Air-Derestricted) |
 | Updated2 days ago | 605 | nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUFText | 4B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUF) |
+| Updated6 days ago | 596 | tencent/Hy3-preview-BaseText | 299B | [Link](https://huggingface.co/tencent/Hy3-preview-Base) |
 | Updated1 day ago | 594 | bigatuna/Qwen3 | 9B | [Link](https://huggingface.co/bigatuna/Qwen3.5-9b-Sushi-Coder-RL-GGUF) |
 | Updatedabout 8 hours ago | 593 | AEON-7/Qwen3 | 27B | [Link](https://huggingface.co/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored) |
 | Updated1 day ago | 580 | allenai/Olmo-3 | 32B | [Link](https://huggingface.co/allenai/Olmo-3.1-32B-Think) |
@@ -6136,6 +6138,7 @@ Updated on 2026-04-29
 | 1.62k | 9 | zooeyy/Style-TransferText-to-Image | Updatedabout 14 hours ago | [Link](https://huggingface.co/zooeyy/Style-Transfer) |
 | 49 | 9 | zooeyy/Qwen-Edit-2511_LightingRemap_Alpha0 | Updated1 day ago | [Link](https://huggingface.co/zooeyy/Qwen-Edit-2511_LightingRemap_Alpha0.2) |
 | 744 | 9 | drbaph/Z-Image-fp8Text-to-Image | Updated3 days ago | [Link](https://huggingface.co/drbaph/Z-Image-fp8) |
+| 2.18k | 9 | diroverflo/FLux_Klein_9B_NSFWText-to-Image | UpdatedFeb 24 | [Link](https://huggingface.co/diroverflo/FLux_Klein_9B_NSFW) |
 | 215 | 8 | tensorart/stable-diffusion-3 | Updated8 minutes ago | [Link](https://huggingface.co/tensorart/stable-diffusion-3.5-large-TurboX) |
 | 34 | 8 | renderartist/coloringbookhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/coloringbookhidream) |
 | 1.79k | 8 | MaxedOut/ComfyUI-Starter-PacksText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/MaxedOut/ComfyUI-Starter-Packs) |
