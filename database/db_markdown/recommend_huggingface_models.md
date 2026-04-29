@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-04-28
+Updated on 2026-04-29
 
 > Generated from the Hugging Face database.
 
@@ -3090,6 +3090,7 @@ Updated on 2026-04-28
 | 637 | 31 | U4R/StructTable-InternVL2-1BImage-to-Text | UpdatedDec 12, 2024 | [Link](https://huggingface.co/U4R/StructTable-InternVL2-1B) |
 | 9.9k | 31 | OleehyO/TexTellerImage-to-Text | UpdatedJun 22, 2024 | [Link](https://huggingface.co/OleehyO/TexTeller) |
 | UpdatedNov 11, 2025 | 31 | mlx-community/LightOnOCR-1B-1025-bf16Image-to-Text | 1B | [Link](https://huggingface.co/mlx-community/LightOnOCR-1B-1025-bf16) |
+| Updatedabout 13 hours ago | 31 | ADSKAILab/Zero-To-CAD-qwen-vl-2BImage-to-Text | 2B | [Link](https://huggingface.co/ADSKAILab/Zero-To-CAD-qwen-vl-2B) |
 | UpdatedMay 25 | 30 | infly/INF-AZ-7B-0524Image-to-Text | 8B | [Link](https://huggingface.co/infly/INF-AZ-7B-0524) |
 | 1.65k | 29 | microsoft/git-large-textcapsImage-to-Text | UpdatedFeb 8, 2023 | [Link](https://huggingface.co/microsoft/git-large-textcaps) |
 | Updated9 days ago | 29 | unicorn-team/Unicorn-VL-R3Image-to-Text | 9B | [Link](https://huggingface.co/unicorn-team/Unicorn-VL-R3) |
@@ -5197,6 +5198,7 @@ Updated on 2026-04-28
 | 5 | 50 | microsoft/Phi-4-mini-reasoningText | Updatedabout 11 hours ago | [Link](https://huggingface.co/microsoft/Phi-4-mini-reasoning) |
 | Updated1 day ago | 50 | cerebras/Kimi-Linear-REAP-35B-A3B-InstructText | 35B | [Link](https://huggingface.co/cerebras/Kimi-Linear-REAP-35B-A3B-Instruct) |
 | Updatedabout 11 hours ago | 50 | unsloth/Nemotron-3-Nano-30B-A3B-GGUFText | 32B | [Link](https://huggingface.co/unsloth/Nemotron-3-Nano-30B-A3B-GGUF) |
+| Updatedabout 11 hours ago | 50 | unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUFText | 32B | [Link](https://huggingface.co/unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF) |
 | Updatedabout 1 hour ago | 49 | swiss-ai/Apertus-8B-Instruct-2509Text | 8B | [Link](https://huggingface.co/swiss-ai/Apertus-8B-Instruct-2509) |
 | Updated2 days ago | 49 | inclusionAI/Ling-flash-base-2 | 106B | [Link](https://huggingface.co/inclusionAI/Ling-flash-base-2.0) |
 | Updatedabout 7 hours ago | 49 | unsloth/GLM-5 | 754B | [Link](https://huggingface.co/unsloth/GLM-5.1-GGUF) |
@@ -5515,6 +5517,7 @@ Updated on 2026-04-28
 | 65 | 15 | ICONNAI/ICONN-e1Text | Updated3 days ago | [Link](https://huggingface.co/ICONNAI/ICONN-e1) |
 | 45 | 15 | cerebras/Qwen3-Coder-REAP-25B-A3BText | Updatedabout 19 hours ago | [Link](https://huggingface.co/cerebras/Qwen3-Coder-REAP-25B-A3B) |
 | Updated1 minute ago | 15 | meituan-longcat/LongCat-Flash-ProverText | 561B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Prover) |
+| Updatedabout 12 hours ago | 15 | poolside/Laguna-XS | 33B | [Link](https://huggingface.co/poolside/Laguna-XS.2) |
 | 1k | 14 | unsloth/DeepSeek-R1-0528Text | Updated2 days ago | [Link](https://huggingface.co/unsloth/DeepSeek-R1-0528) |
 | 57 | 14 | katanemo/Arch-Agent-32BText | Updated3 days ago | [Link](https://huggingface.co/katanemo/Arch-Agent-32B) |
 | Updatedabout 11 hours ago | 14 | CohereLabs/command-a-translate-08-2025Text | 111B | [Link](https://huggingface.co/CohereLabs/command-a-translate-08-2025) |
@@ -6177,6 +6180,7 @@ Updated on 2026-04-28
 | 154 | 6 | DeverStyle/Flux | Updatedabout 15 hours ago | [Link](https://huggingface.co/DeverStyle/Flux.2-Klein-Loras) |
 | 412 | 6 | wikeeyang/Flux2-Klein-9B-True-V1Text-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/wikeeyang/Flux2-Klein-9B-True-V1) |
 | 1.08k | 6 | pmczip/FLUX | Updated7 days ago | [Link](https://huggingface.co/pmczip/FLUX.2-klein-9B_Models) |
+| Updatedabout 11 hours ago | 6 | Yanran21/UniGenDetText-to-Image | 15B | [Link](https://huggingface.co/Yanran21/UniGenDet) |
 | 42 | 5 | Shakker-Labs/RepTextText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Shakker-Labs/RepText) |
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
@@ -6902,6 +6906,7 @@ Updated on 2026-04-28
 | 21 | 22 | aidealab/AIdeaLab-VideoJPText-to-Video | UpdatedJan 14 | [Link](https://huggingface.co/aidealab/AIdeaLab-VideoJP) |
 | Updatedabout 2 hours ago | 22 | burakkizil/LAMP-Qwen-2 | 8B | [Link](https://huggingface.co/burakkizil/LAMP-Qwen-2.5-VL) |
 | 7 | 22 | Tune-A-Video-library/mo-di-bear-guitarText-to-Video | UpdatedFeb 9, 2023 | [Link](https://huggingface.co/Tune-A-Video-library/mo-di-bear-guitar) |
+| Updatedabout 23 hours ago | 22 | Motif-Technologies/Motif-Video-2B-GGUFText-to-Video | 2B | [Link](https://huggingface.co/Motif-Technologies/Motif-Video-2B-GGUF) |
 | 1.12k | 21 | maxin-cn/Latte-1Text-to-Video | UpdatedSep 2, 2024 | [Link](https://huggingface.co/maxin-cn/Latte-1) |
 | 119 | 20 | PAIR/text2video-zero-controlnet-canny-animeText-to-Video | UpdatedApr 6, 2023 | [Link](https://huggingface.co/PAIR/text2video-zero-controlnet-canny-anime) |
 | 433 | 20 | Skywork/SkyReels-V2-DF-1 | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-DF-1.3B-540P) |
