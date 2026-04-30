@@ -2329,6 +2329,7 @@ Updated on 2026-04-30
 | Updated1 day ago | 3.05k | AudioVisual-Caption/ASID-Captioner-3BImage-Text-to-Text | 5B | [Link](https://huggingface.co/AudioVisual-Caption/ASID-Captioner-3B) |
 | Updatedabout 6 hours ago | 3.38k | LuffyTheFox/Qwen3 | 35B | [Link](https://huggingface.co/LuffyTheFox/Qwen3.5-35B-A3B-Uncensored-Kullback-Leibler) |
 | Updatedabout 11 hours ago | 3.19k | google/gemma-4-26B-A4BImage-Text-to-Text | 27B | [Link](https://huggingface.co/google/gemma-4-26B-A4B) |
+| Updated1 day ago | 3.9k | ibm-granite/granite-vision-4 | 4B | [Link](https://huggingface.co/ibm-granite/granite-vision-4.1-4b) |
 | Updatedabout 7 hours ago | 2.63k | nvidia/Eagle2 | 8B | [Link](https://huggingface.co/nvidia/Eagle2.5-8B) |
 | Updatedabout 7 hours ago | 2 | internlm/Intern-S1-FP8Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1-FP8) |
 | Updated1 day ago | 2.26k | Qwen/Qwen3-VL-235B-A22B-InstructImage-Text-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct) |
@@ -3479,6 +3480,7 @@ Updated on 2026-04-30
 | 1 | Unknown | Kreuzberg/paddleocr-onnx-modelsImage-to-Text | UpdatedMar 15 | [Link](https://huggingface.co/Kreuzberg/paddleocr-onnx-models) |
 | 1 | Unknown | ftaxats/gujarati-ocr-svtrImage-to-Text | UpdatedMar 11 | [Link](https://huggingface.co/ftaxats/gujarati-ocr-svtr) |
 | 2 | Unknown | MeiGen-AI/PosterReward_v1Image-to-Text | Updated25 days ago | [Link](https://huggingface.co/MeiGen-AI/PosterReward_v1) |
+| 1 | Unknown | mweinbach/nemotron-ocr-v2-mlxImage-to-Text | Updated26 days ago | [Link](https://huggingface.co/mweinbach/nemotron-ocr-v2-mlx) |
 
 ## Image-to-Video
 
