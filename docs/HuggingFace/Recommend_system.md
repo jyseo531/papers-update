@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-04-29
+Updated on 2026-04-30
 
 > Generated from the Hugging Face database.
 
@@ -2112,6 +2112,7 @@ Updated on 2026-04-29
 | 4 | 26 | openfree/Gemma-3-R1984-27B-Q6_K-GGUFImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/openfree/Gemma-3-R1984-27B-Q6_K-GGUF) |
 | 3 | 26 | openfree/Mistral-Small-3 | Updatedabout 8 hours ago | [Link](https://huggingface.co/openfree/Mistral-Small-3.1-24B-Instruct-2503-Q8_0-GGUF) |
 | 190 | 26 | facebook/Perception-LM-8BImage-Text-to-Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/facebook/Perception-LM-8B) |
+| Updated7 days ago | 26.5k | groxaxo/Qwen3 | 27B | [Link](https://huggingface.co/groxaxo/Qwen3.6-27B-GPTQ-Pro-4bit) |
 | 10 | 25 | openfree/Gemma-3-R1984-27B-Q4_K_M-GGUFImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/openfree/Gemma-3-R1984-27B-Q4_K_M-GGUF) |
 | 66 | 25 | google/gemma-3-4b-it-qat-q4_0-ggufImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/google/gemma-3-4b-it-qat-q4_0-gguf) |
 | Updatedabout 8 hours ago | 25 | LiquidAI/LFM2-VL-450MImage-Text-to-Text | 0.5B | [Link](https://huggingface.co/LiquidAI/LFM2-VL-450M) |
@@ -3398,6 +3399,7 @@ Updated on 2026-04-29
 | 577 | 1 | PaddlePaddle/SLANetImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/SLANet) |
 | 457 | 1 | Kansallisarkisto/multicentury-htr-modelImage-to-Text | UpdatedNov 21, 2025 | [Link](https://huggingface.co/Kansallisarkisto/multicentury-htr-model) |
 | 54 | 1 | uchihamadara1816/TROCR-ChessImage-to-Text | UpdatedDec 9, 2025 | [Link](https://huggingface.co/uchihamadara1816/TROCR-Chess) |
+| 15 | 1 | Word2Li/Electricity-Meter-OCR-7BImage-to-Text | UpdatedJul 24, 2025 | [Link](https://huggingface.co/Word2Li/Electricity-Meter-OCR-7B) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -6488,6 +6490,7 @@ Updated on 2026-04-29
 | Updated1 day ago | 331 | TrevorJS/voxtral-tts-q4-ggufText-to-Speech | 4B | [Link](https://huggingface.co/TrevorJS/voxtral-tts-q4-gguf) |
 | Updatedabout 19 hours ago | 330 | kenpath/svara-tts-v1Text-to-Speech | 3B | [Link](https://huggingface.co/kenpath/svara-tts-v1) |
 | UpdatedMay 25, 2024 | 323 | utrobinmv/tts_ru_free_hf_vits_high_multispeakerText-to-Speech | 0.0B | [Link](https://huggingface.co/utrobinmv/tts_ru_free_hf_vits_high_multispeaker) |
+| Updated13 days ago | 308 | ModelsLab/omnivoice-singingText-to-Speech | 0.6B | [Link](https://huggingface.co/ModelsLab/omnivoice-singing) |
 | Updated3 days ago | 279 | sheliak/VibeVoice-Large_MirrorText-to-Speech | 9B | [Link](https://huggingface.co/sheliak/VibeVoice-Large_Mirror) |
 | Updated7 days ago | 278 | aoi-ot/VibeVoice-1 | 3B | [Link](https://huggingface.co/aoi-ot/VibeVoice-1.5B) |
 | 171 | 276 | amphion/MaskGCTText-to-Speech | UpdatedDec 22, 2024 | [Link](https://huggingface.co/amphion/MaskGCT) |
