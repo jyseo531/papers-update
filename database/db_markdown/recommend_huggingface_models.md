@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-04-30
+Updated on 2026-05-01
 
 > Generated from the Hugging Face database.
 
@@ -211,6 +211,7 @@ Updated on 2026-04-30
 | Updatedabout 9 hours ago | 3 | mlx-community/gemma-4-e4b-it-8bitAny-to-Any | 3B | [Link](https://huggingface.co/mlx-community/gemma-4-e4b-it-8bit) |
 | 33 | 3 | onnx-community/gemma-4-E4B-it-ONNXAny-to-Any | Updated1 day ago | [Link](https://huggingface.co/onnx-community/gemma-4-E4B-it-ONNX) |
 | Updatedabout 8 hours ago | 3 | Abhiray/gemma-4-E4B-it-heretic-GGUFAny-to-Any | 8B | [Link](https://huggingface.co/Abhiray/gemma-4-E4B-it-heretic-GGUF) |
+| Updatedabout 14 hours ago | 3 | sensenova/SenseNova-U1-8B-MoT-8step-previewAny-to-Any | 18B | [Link](https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-8step-preview) |
 | 47 | 2 | PKU-Alignment/AnyRewardModelAny-to-Any | UpdatedDec 28, 2024 | [Link](https://huggingface.co/PKU-Alignment/AnyRewardModel) |
 | 585 | 2 | wnma3mz/Janus-Pro-1B-4bitAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/wnma3mz/Janus-Pro-1B-4bit) |
 | 3 | 2 | lintw/HealthGPT-XL32Any-to-Any | Updatedabout 18 hours ago | [Link](https://huggingface.co/lintw/HealthGPT-XL32) |
@@ -3110,6 +3111,7 @@ Updated on 2026-04-30
 | 4.54k | 23 | raxtemur/trocr-base-ruImage-to-Text | UpdatedMay 29, 2024 | [Link](https://huggingface.co/raxtemur/trocr-base-ru) |
 | UpdatedJun 17, 2025 | 23.6k | unsloth/Llama-4-Scout-17B-16E-Instruct-GGUFImage-to-Text | 108B | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct-GGUF) |
 | UpdatedJun 9, 2025 | 23.9k | RedHatAI/gemma-3-27b-it-FP8-dynamicImage-to-Text | 27B | [Link](https://huggingface.co/RedHatAI/gemma-3-27b-it-FP8-dynamic) |
+| UpdatedMar 31, 2025 | 23 | laicsiifes/swin-distilbertimbauImage-to-Text | 0.2B | [Link](https://huggingface.co/laicsiifes/swin-distilbertimbau) |
 | 4.06k | 22 | noamrot/FuseCap_Image_CaptioningImage-to-Text | UpdatedJan 25, 2024 | [Link](https://huggingface.co/noamrot/FuseCap_Image_Captioning) |
 | UpdatedDec 12, 2023 | 22 | kmewhort/blip2-flan-t5-xxl-safetensorsImage-to-Text | 12B | [Link](https://huggingface.co/kmewhort/blip2-flan-t5-xxl-safetensors) |
 | 75 | 22 | nvidia/nemotron-ocr-v1Image-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/nvidia/nemotron-ocr-v1) |
@@ -5535,6 +5537,7 @@ Updated on 2026-04-30
 | Updatedabout 18 hours ago | 13 | openai/circuit-sparsityText | 0.4B | [Link](https://huggingface.co/openai/circuit-sparsity) |
 | Updatedabout 3 hours ago | 13 | tencent/Hy3-previewText | 299B | [Link](https://huggingface.co/tencent/Hy3-preview) |
 | Updatedabout 6 hours ago | 12 | Alibaba-Apsara/DASD-4B-ThinkingText | 4B | [Link](https://huggingface.co/Alibaba-Apsara/DASD-4B-Thinking) |
+| Updated6 days ago | 12.5k | nvidia/MiniMax-M2 | 116B | [Link](https://huggingface.co/nvidia/MiniMax-M2.7-NVFP4) |
 | Updatedabout 10 hours ago | 11.9k | unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUFText | 31B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUF) |
 | Updatedabout 16 hours ago | 11.6k | unsloth/MiniMax-M2-GGUFText | 229B | [Link](https://huggingface.co/unsloth/MiniMax-M2-GGUF) |
 | Updatedabout 3 hours ago | 11 | LGAI-EXAONE/K-EXAONE-236B-A23BText | 237B | [Link](https://huggingface.co/LGAI-EXAONE/K-EXAONE-236B-A23B) |
@@ -6455,6 +6458,7 @@ Updated on 2026-04-30
 | 5 | Unknown | SanDiegoDude/JoyAI-Image-Edit-FP8Text-to-Image | Updatedabout 16 hours ago | [Link](https://huggingface.co/SanDiegoDude/JoyAI-Image-Edit-FP8) |
 | 7 | Unknown | caiovicentino1/FLUX | Updatedabout 23 hours ago | [Link](https://huggingface.co/caiovicentino1/FLUX.2-klein-9B-PolarQuant-Q5) |
 | 6 | Unknown | Bedovyy/ERNIE-Image-QuantizedText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/Bedovyy/ERNIE-Image-Quantized) |
+| 6 | Unknown | Emanon14/Nameless-AnimaText-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/Emanon14/Nameless-Anima) |
 
 ## Text-to-Speech
 
@@ -7185,6 +7189,7 @@ Updated on 2026-04-30
 | 4 | Unknown | georgexin/cointeractText-to-Video | Updated1 day ago | [Link](https://huggingface.co/georgexin/cointeract) |
 | 3 | Unknown | vrgamedevgirl84/LTX_2 | Updatedabout 1 hour ago | [Link](https://huggingface.co/vrgamedevgirl84/LTX_2.3_Paper_Cut_Out_Style_LoRa) |
 | 2 | Unknown | Cseti/LTX2 | Updatedabout 2 hours ago | [Link](https://huggingface.co/Cseti/LTX2.3-22B_Arcane-Jinx_v1) |
+| 2 | Unknown | Lora-Daddy/Ltx2 | Updatedabout 12 hours ago | [Link](https://huggingface.co/Lora-Daddy/Ltx2.3-real-nudity-early-alpha-30k-steps) |
 
 ## Text2Text Generation
 
