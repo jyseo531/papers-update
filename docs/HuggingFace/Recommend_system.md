@@ -3338,6 +3338,7 @@ Updated on 2026-05-01
 | 208k | 2 | PaddlePaddle/PP-LCNet_x1_0_textline_oriImage-to-Text | UpdatedAug 29, 2025 | [Link](https://huggingface.co/PaddlePaddle/PP-LCNet_x1_0_textline_ori) |
 | 421 | 2 | PaddlePaddle/arabic_PP-OCRv3_mobile_recImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/arabic_PP-OCRv3_mobile_rec) |
 | Updatedabout 8 hours ago | 2 | livadies/gemma-4-31B-Ghetto-NF4Image-to-Text | 32B | [Link](https://huggingface.co/livadies/gemma-4-31B-Ghetto-NF4) |
+| Updated18 days ago | 2.79k | KuroTo4ka/Qwen3-VL-8B-Instruct-Unredacted-MAX-Quants-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/KuroTo4ka/Qwen3-VL-8B-Instruct-Unredacted-MAX-Quants-GGUF) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
