@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-05-01
+Updated on 2026-05-02
 
 > Generated from the Hugging Face database.
 
@@ -14,6 +14,7 @@ Updated on 2026-05-01
 | Updated9 minutes ago | 806 | snu-aidas/Dynin-OmniAny-to-Any | 8B | [Link](https://huggingface.co/snu-aidas/Dynin-Omni) |
 | Updated6 days ago | 798 | modelscope/Nexus-GenAny-to-Any | 8B | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | UpdatedApr 9, 2025 | 728 | meta-llama/Llama-4-Maverick-17B-128EAny-to-Any | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E) |
+| Updatedabout 2 hours ago | 719 | AEON-7/Nemotron-3-Nano-Omni-AEON-Ultimate-Uncensored-NVFP4Any-to-Any | 20B | [Link](https://huggingface.co/AEON-7/Nemotron-3-Nano-Omni-AEON-Ultimate-Uncensored-NVFP4) |
 | Updatedabout 1 hour ago | 718 | XiaomiMiMo/MiMo-Audio-7B-InstructAny-to-Any | 8B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-Audio-7B-Instruct) |
 | Updated3 days ago | 688 | mlx-community/gemma-4-e4b-it-OptiQ-4bitAny-to-Any | 8B | [Link](https://huggingface.co/mlx-community/gemma-4-e4b-it-OptiQ-4bit) |
 | Updatedabout 10 hours ago | 654 | HIT-TMG/Uni-MoE-2 | 33B | [Link](https://huggingface.co/HIT-TMG/Uni-MoE-2.0-Omni) |
@@ -61,6 +62,7 @@ Updated on 2026-05-01
 | Updated7 days ago | 145 | diodel/Qwen3 | 0.8B | [Link](https://huggingface.co/diodel/Qwen3.5-0.8B-Q4_K_M-GGUF) |
 | UpdatedApr 8 | 144 | summykai/gemma3-27b-abliterated-dpoAny-to-Any | 27B | [Link](https://huggingface.co/summykai/gemma3-27b-abliterated-dpo) |
 | 9.96k | 141 | deepseek-ai/JanusFlow-1 | Updated29 days ago | [Link](https://huggingface.co/deepseek-ai/JanusFlow-1.3B) |
+| Updatedabout 7 hours ago | 138k | nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-NVFP4Any-to-Any | 18B | [Link](https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-NVFP4) |
 | Updatedabout 6 hours ago | 128 | KRAFTON/Raon-Speech-9B-AWQ-INT4Any-to-Any | 9B | [Link](https://huggingface.co/KRAFTON/Raon-Speech-9B-AWQ-INT4) |
 | Updated12 days ago | 127 | andrewheins55/Ming-flash-omni-2 | 104B | [Link](https://huggingface.co/andrewheins55/Ming-flash-omni-2.1) |
 | UpdatedMar 28, 2025 | 109 | ToastyPigeon/Gemma-3-Starshine-12BAny-to-Any | 12B | [Link](https://huggingface.co/ToastyPigeon/Gemma-3-Starshine-12B) |
@@ -76,6 +78,7 @@ Updated on 2026-05-01
 | UpdatedAug 20 | 64 | Frane92O/Qwen2 | 8B | [Link](https://huggingface.co/Frane92O/Qwen2.5-Omni-7B-Q4_0-GGUF) |
 | Updatedabout 1 hour ago | 63 | wikeeyang/Emu35-NF4Any-to-Any | 35B | [Link](https://huggingface.co/wikeeyang/Emu35-NF4) |
 | Updated24 days ago | 63 | sovthpaw/Omni-Senter-3BAny-to-Any | 29.9M | [Link](https://huggingface.co/sovthpaw/Omni-Senter-3B) |
+| Updatedabout 7 hours ago | 62.1k | nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-FP8Any-to-Any | 33B | [Link](https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-FP8) |
 | Updatedabout 2 hours ago | 61 | openbmb/MiniCPM-o-4_5Any-to-Any | 9B | [Link](https://huggingface.co/openbmb/MiniCPM-o-4_5) |
 | UpdatedApr 29 | 60.5k | meta-llama/Llama-Guard-4-12BAny-to-Any | 12B | [Link](https://huggingface.co/meta-llama/Llama-Guard-4-12B) |
 | Updatedabout 9 hours ago | 60 | armand0e/gemma-4-E2B-it-Claude-Opus-DistillAny-to-Any | 5B | [Link](https://huggingface.co/armand0e/gemma-4-E2B-it-Claude-Opus-Distill) |
@@ -2173,6 +2176,7 @@ Updated on 2026-05-01
 | Updatedabout 4 hours ago | 14 | Hcompany/Holo2-235B-A22BImage-Text-to-Text | 236B | [Link](https://huggingface.co/Hcompany/Holo2-235B-A22B) |
 | Updatedabout 8 hours ago | 14.9k | Andycurrent/Gemma-3-4B-VL-it-Gemini-Pro-Heretic-Uncensored-Thinking_GGUFImage-Text-to-Text | 4B | [Link](https://huggingface.co/Andycurrent/Gemma-3-4B-VL-it-Gemini-Pro-Heretic-Uncensored-Thinking_GGUF) |
 | Updatedabout 5 hours ago | 14 | huihui-ai/Huihui-Qwen3 | 36B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated) |
+| Updated3 days ago | 14.9k | sakamakismile/Huihui-Qwen3 | 17B | [Link](https://huggingface.co/sakamakismile/Huihui-Qwen3.6-27B-abliterated-NVFP4-MTP) |
 | 582 | 13 | google/gemma-3-4b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-4b-pt) |
 | 4.2k | 13 | mlabonne/gemma-3-12b-it-abliterated-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-12b-it-abliterated-GGUF) |
 | 10.7k | 13 | unsloth/Llama-4-Maverick-17B-128E-Instruct-GGUFImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/unsloth/Llama-4-Maverick-17B-128E-Instruct-GGUF) |
@@ -5173,6 +5177,7 @@ Updated on 2026-05-01
 | Updatedabout 23 hours ago | 61 | vandijklab/C2S-Scale-Gemma-2-27BText | 28B | [Link](https://huggingface.co/vandijklab/C2S-Scale-Gemma-2-27B) |
 | Updated35 minutes ago | 61 | naver-hyperclovax/HyperCLOVAX-SEED-Omni-8BText | 11B | [Link](https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Omni-8B) |
 | Updated33 minutes ago | 61 | inclusionAI/Ring-2 | 1T | [Link](https://huggingface.co/inclusionAI/Ring-2.5-1T) |
+| Updated3 days ago | 61.7k | sakamakismile/Qwen3 | 17B | [Link](https://huggingface.co/sakamakismile/Qwen3.6-27B-Text-NVFP4-MTP) |
 | Updated2 days ago | 60 | Alibaba-NLP/WebDancer-32BText | 33B | [Link](https://huggingface.co/Alibaba-NLP/WebDancer-32B) |
 | Updatedabout 20 hours ago | 60 | inclusionAI/LLaDA2 | 16B | [Link](https://huggingface.co/inclusionAI/LLaDA2.0-mini-preview) |
 | Updatedabout 13 hours ago | 60 | haykgrigorian/TimeCapsuleLLM-v2-llama-1 | 1B | [Link](https://huggingface.co/haykgrigorian/TimeCapsuleLLM-v2-llama-1.2B) |
@@ -6250,6 +6255,7 @@ Updated on 2026-05-01
 | Updated3 days ago | 1.78k | unsloth/Z-Image-Turbo-GGUFText-to-Image | 6B | [Link](https://huggingface.co/unsloth/Z-Image-Turbo-GGUF) |
 | 5 | 1.41k | stabilityai/sd-vae-ft-mse-originalText-to-Image | UpdatedDec 19, 2022 | [Link](https://huggingface.co/stabilityai/sd-vae-ft-mse-original) |
 | Updated7 days ago | 1.55k | Granddyser/BigLoveKlein-CollectionText-to-Image | 9B | [Link](https://huggingface.co/Granddyser/BigLoveKlein-Collection) |
+| Updated5 days ago | 1.98k | InsecureErasure/CyberRealisticXL-GGUFText-to-Image | 3B | [Link](https://huggingface.co/InsecureErasure/CyberRealisticXL-GGUF) |
 | 1.84M |  | black-forest-labs/FLUX | UpdatedAug 16, 2024 | [Link](https://huggingface.co/black-forest-labs/FLUX.1-dev) |
 | 268k |  | stabilityai/stable-diffusion-3 | UpdatedOct 22, 2024 | [Link](https://huggingface.co/stabilityai/stable-diffusion-3.5-large) |
 | 3.52M |  | stabilityai/stable-diffusion-xl-base-1 | UpdatedOct 30, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) |
@@ -6460,6 +6466,7 @@ Updated on 2026-05-01
 | 7 | Unknown | caiovicentino1/FLUX | Updatedabout 23 hours ago | [Link](https://huggingface.co/caiovicentino1/FLUX.2-klein-9B-PolarQuant-Q5) |
 | 6 | Unknown | Bedovyy/ERNIE-Image-QuantizedText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/Bedovyy/ERNIE-Image-Quantized) |
 | 6 | Unknown | Emanon14/Nameless-AnimaText-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/Emanon14/Nameless-Anima) |
+| 18 | Unknown | Winnougan/Must_Have_Klein_9b_lorasText-to-Image | UpdatedMar 26 | [Link](https://huggingface.co/Winnougan/Must_Have_Klein_9b_loras) |
 
 ## Text-to-Speech
 
