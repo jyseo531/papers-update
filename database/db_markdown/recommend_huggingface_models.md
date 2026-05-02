@@ -4949,6 +4949,7 @@ Updated on 2026-05-02
 | Updatedabout 8 hours ago | 886 | KORMo-Team/KORMo-10B-baseText | 11B | [Link](https://huggingface.co/KORMo-Team/KORMo-10B-base) |
 | Updatedabout 19 hours ago | 868 | inclusionAI/Ling-2 | 1T | [Link](https://huggingface.co/inclusionAI/Ling-2.5-1T) |
 | Updated23 minutes ago | 854 | Qwen/Qwen3-Next-80B-A3B-InstructText | 81B | [Link](https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct) |
+| Updated3 days ago | 809 | ibm-granite/granite-guardian-4 | 8B | [Link](https://huggingface.co/ibm-granite/granite-guardian-4.1-8b) |
 | Updated1 day ago | 789 | FINAL-Bench/Darwin-31B-OpusText | 33B | [Link](https://huggingface.co/FINAL-Bench/Darwin-31B-Opus) |
 | Updated3 days ago | 786 | apple/FastVLM-1 | 2B | [Link](https://huggingface.co/apple/FastVLM-1.5B) |
 | Updated1 day ago | 771 | nvidia/Nemotron-Cascade-8B-ThinkingText | 8B | [Link](https://huggingface.co/nvidia/Nemotron-Cascade-8B-Thinking) |
@@ -7031,6 +7032,7 @@ Updated on 2026-05-02
 | 139 | 2 | gajesh/LTX-2 | Updated7 days ago | [Link](https://huggingface.co/gajesh/LTX-2.3-mlx-q4) |
 |  | 2 | KoshiMazaki/muzed-motion-loraText-to-Video | Updated6 days ago | [Link](https://huggingface.co/KoshiMazaki/muzed-motion-lora) |
 | 38.8k | 2 | magespace/Wan2 | UpdatedAug 15, 2025 | [Link](https://huggingface.co/magespace/Wan2.2-I2V-A14B-Lightning-Diffusers) |
+| 9 | 2 | pharmacypractice16/Wan2 | Updated1 day ago | [Link](https://huggingface.co/pharmacypractice16/Wan2.1-T2V-1.3B-Diffusers) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
