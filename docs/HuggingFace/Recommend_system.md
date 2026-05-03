@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-05-02
+Updated on 2026-05-03
 
 > Generated from the Hugging Face database.
 
@@ -2996,6 +2996,7 @@ Updated on 2026-05-02
 | Updated14 days ago | 217 | sugam24/dots-ocr-awq-4bitImage-to-Text | 0.8B | [Link](https://huggingface.co/sugam24/dots-ocr-awq-4bit) |
 | 7.46k | 213 | xtuner/llava-llama-3-8b-v1_1-ggufImage-to-Text | UpdatedApr 30, 2024 | [Link](https://huggingface.co/xtuner/llava-llama-3-8b-v1_1-gguf) |
 | UpdatedMay 22, 2025 | 208k | meta-llama/Llama-4-Scout-17B-16E-InstructImage-to-Text | 109B | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct) |
+| UpdatedOct 29, 2024 | 206 | calcuis/sd3 | 8B | [Link](https://huggingface.co/calcuis/sd3.5-large-turbo) |
 | UpdatedNov 7, 2025 | 200 | noctrex/Chandra-OCR-i1-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/noctrex/Chandra-OCR-i1-GGUF) |
 | UpdatedMar 5 | 180 | r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUF) |
 | Updated6 days ago | 177 | thesby/Qwen3-VL-8B-NSFW-Caption-V4 | 9B | [Link](https://huggingface.co/thesby/Qwen3-VL-8B-NSFW-Caption-V4.5) |
@@ -3343,6 +3344,7 @@ Updated on 2026-05-02
 | 421 | 2 | PaddlePaddle/arabic_PP-OCRv3_mobile_recImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/arabic_PP-OCRv3_mobile_rec) |
 | Updatedabout 8 hours ago | 2 | livadies/gemma-4-31B-Ghetto-NF4Image-to-Text | 32B | [Link](https://huggingface.co/livadies/gemma-4-31B-Ghetto-NF4) |
 | Updated18 days ago | 2.79k | KuroTo4ka/Qwen3-VL-8B-Instruct-Unredacted-MAX-Quants-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/KuroTo4ka/Qwen3-VL-8B-Instruct-Unredacted-MAX-Quants-GGUF) |
+| 352k | 2 | PaddlePaddle/en_PP-OCRv5_mobile_recImage-to-Text | UpdatedAug 29, 2025 | [Link](https://huggingface.co/PaddlePaddle/en_PP-OCRv5_mobile_rec) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -5606,6 +5608,8 @@ Updated on 2026-05-02
 | Updated6 days ago | 4.97k | prism-ml/Bonsai-4B-ggufText | 4B | [Link](https://huggingface.co/prism-ml/Bonsai-4B-gguf) |
 | Updated7 days ago | 4.05k | kai-os/Carnice-27b-GGUFText | 27B | [Link](https://huggingface.co/kai-os/Carnice-27b-GGUF) |
 | Updated2 days ago | 4.19k | bartowski/FINAL-Bench_Darwin-36B-Opus-GGUFText | 35B | [Link](https://huggingface.co/bartowski/FINAL-Bench_Darwin-36B-Opus-GGUF) |
+| Updated1 day ago | 4.73k | nvidia/Gemma-4-26B-A4B-NVFP4Text | 14B | [Link](https://huggingface.co/nvidia/Gemma-4-26B-A4B-NVFP4) |
+| Updated4 days ago | 4.03k | lewtun/talkie-1930-13b-it-hfText | 13B | [Link](https://huggingface.co/lewtun/talkie-1930-13b-it-hf) |
 | Updated2 days ago | 3.87k | unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUFText | 480B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUF) |
 | Updated6 days ago | 3.39k | Qwen/Qwen3-30B-A3B-Thinking-2507-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507-FP8) |
 | Updatedabout 4 hours ago | 3.61k | openai/gpt-oss-120bText | 63B | [Link](https://huggingface.co/openai/gpt-oss-120b) |
@@ -6876,6 +6880,7 @@ Updated on 2026-05-02
 | 3 | Unknown | OpenMOSS-Team/MOSS-TTS-Nano-100M-ONNXText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Nano-100M-ONNX) |
 | 4 | Unknown | Gigsu/vocoloco-onnxText-to-Speech | Updated13 days ago | [Link](https://huggingface.co/Gigsu/vocoloco-onnx) |
 | 4 | Unknown | intellisr/sinhala-tts-piper-v1Text-to-Speech | Updatedabout 21 hours ago | [Link](https://huggingface.co/intellisr/sinhala-tts-piper-v1) |
+| 5 | Unknown | LH-Tech-AI/Flare-TTS-28MText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/LH-Tech-AI/Flare-TTS-28M) |
 
 ## Text-to-Video
 
@@ -6963,6 +6968,7 @@ Updated on 2026-05-02
 | 11 | 4 | kairos-agi/kairos-sensenova-4B-720PText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/kairos-agi/kairos-sensenova-4B-720P) |
 | 13 | 4 | kairos-agi/kairos-sensenova-robot-4B-480P-distilledText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/kairos-agi/kairos-sensenova-robot-4B-480P-distilled) |
 | 31 | 4 | kairos-agi/kairos-sensenova-robotText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/kairos-agi/kairos-sensenova-robot) |
+| Updated14 minutes ago | 4 | SulphurAI/Sulphur-2-baseText-to-Video | 9B | [Link](https://huggingface.co/SulphurAI/Sulphur-2-base) |
 | 4.64k | 3 | guoyww/animatediff-motion-lora-pan-rightText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-pan-right) |
 | 28 | 3 | finetrainers/3dgs-v0Text-to-Video | UpdatedJan 29 | [Link](https://huggingface.co/finetrainers/3dgs-v0) |
 | 1 | 3 | longlian/text-to-video-lvd-msText-to-Video | UpdatedMay 1, 2024 | [Link](https://huggingface.co/longlian/text-to-video-lvd-ms) |
@@ -7200,6 +7206,7 @@ Updated on 2026-05-02
 | 3 | Unknown | vrgamedevgirl84/LTX_2 | Updatedabout 1 hour ago | [Link](https://huggingface.co/vrgamedevgirl84/LTX_2.3_Paper_Cut_Out_Style_LoRa) |
 | 2 | Unknown | Cseti/LTX2 | Updatedabout 2 hours ago | [Link](https://huggingface.co/Cseti/LTX2.3-22B_Arcane-Jinx_v1) |
 | 2 | Unknown | Lora-Daddy/Ltx2 | Updatedabout 12 hours ago | [Link](https://huggingface.co/Lora-Daddy/Ltx2.3-real-nudity-early-alpha-30k-steps) |
+| 3 | Unknown | Lora-Daddy/LTX-2 | Updated2 days ago | [Link](https://huggingface.co/Lora-Daddy/LTX-2.3-animated-nudity-lora) |
 
 ## Text2Text Generation
 
