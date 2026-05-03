@@ -6016,6 +6016,7 @@ Updated on 2026-05-03
 | 334k | 698 | cagliostrolab/animagine-xl-3 | UpdatedMar 18, 2024 | [Link](https://huggingface.co/cagliostrolab/animagine-xl-3.1) |
 | 241k | 683 | stabilityai/stable-diffusion-2-1-baseText-to-Image | UpdatedJul 5, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-2-1-base) |
 | Updated5 days ago | 662 | Gthalmie1/moody-real-mix-v4-dpo-ggufText-to-Image | 6B | [Link](https://huggingface.co/Gthalmie1/moody-real-mix-v4-dpo-gguf) |
+| Updated1 day ago | 650 | ponpoke/flux2-klein-9b-uncensored-text-encoderText-to-Image | 8B | [Link](https://huggingface.co/ponpoke/flux2-klein-9b-uncensored-text-encoder) |
 | 8.63k | 644 | ostris/OpenFLUX | UpdatedOct 3, 2024 | [Link](https://huggingface.co/ostris/OpenFLUX.1) |
 | Updatedabout 5 hours ago | 494 | unsloth/Qwen-Image-GGUFText-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-GGUF) |
 | 28.8k | 470 | Shakker-Labs/AWPortrait-FLText-to-Image | UpdatedSep 5, 2024 | [Link](https://huggingface.co/Shakker-Labs/AWPortrait-FL) |
@@ -7207,6 +7208,7 @@ Updated on 2026-05-03
 | 2 | Unknown | Cseti/LTX2 | Updatedabout 2 hours ago | [Link](https://huggingface.co/Cseti/LTX2.3-22B_Arcane-Jinx_v1) |
 | 2 | Unknown | Lora-Daddy/Ltx2 | Updatedabout 12 hours ago | [Link](https://huggingface.co/Lora-Daddy/Ltx2.3-real-nudity-early-alpha-30k-steps) |
 | 3 | Unknown | Lora-Daddy/LTX-2 | Updated2 days ago | [Link](https://huggingface.co/Lora-Daddy/LTX-2.3-animated-nudity-lora) |
+| 3 | Unknown | Cseti/LTXV-13B-LoRA-Arcane-style-v1Text-to-Video | Updated8 days ago | [Link](https://huggingface.co/Cseti/LTXV-13B-LoRA-Arcane-style-v1) |
 
 ## Text2Text Generation
 
