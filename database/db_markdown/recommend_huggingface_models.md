@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-05-03
+Updated on 2026-05-04
 
 > Generated from the Hugging Face database.
 
@@ -65,6 +65,7 @@ Updated on 2026-05-03
 | Updatedabout 7 hours ago | 138k | nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-NVFP4Any-to-Any | 18B | [Link](https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-NVFP4) |
 | Updatedabout 6 hours ago | 128 | KRAFTON/Raon-Speech-9B-AWQ-INT4Any-to-Any | 9B | [Link](https://huggingface.co/KRAFTON/Raon-Speech-9B-AWQ-INT4) |
 | Updated12 days ago | 127 | andrewheins55/Ming-flash-omni-2 | 104B | [Link](https://huggingface.co/andrewheins55/Ming-flash-omni-2.1) |
+| Updatedabout 2 hours ago | 117 | llmfan46/gemma-4-E2B-it-ultra-uncensored-hereticAny-to-Any | 5B | [Link](https://huggingface.co/llmfan46/gemma-4-E2B-it-ultra-uncensored-heretic) |
 | UpdatedMar 28, 2025 | 109 | ToastyPigeon/Gemma-3-Starshine-12BAny-to-Any | 12B | [Link](https://huggingface.co/ToastyPigeon/Gemma-3-Starshine-12B) |
 | 2k | 102 | OpenMOSS-Team/MOVA-720pAny-to-Any | Updatedabout 11 hours ago | [Link](https://huggingface.co/OpenMOSS-Team/MOVA-720p) |
 | UpdatedMay 12 | 101k | unsloth/gemma-3-12b-it-unsloth-bnb-4bitAny-to-Any | 12B | [Link](https://huggingface.co/unsloth/gemma-3-12b-it-unsloth-bnb-4bit) |
@@ -3020,6 +3021,7 @@ Updated on 2026-05-03
 | 1.69k | 134 | xtuner/llava-phi-3-mini-ggufImage-to-Text | UpdatedApr 29, 2024 | [Link](https://huggingface.co/xtuner/llava-phi-3-mini-gguf) |
 | Updated4 days ago | 134 | mlx-community/olmOCR-2-7B-1025-bf16Image-to-Text | 8B | [Link](https://huggingface.co/mlx-community/olmOCR-2-7B-1025-bf16) |
 | UpdatedAug 14, 2025 | 129 | WafaaFraih/blip-roco-radiology-captioningImage-to-Text | 0.2B | [Link](https://huggingface.co/WafaaFraih/blip-roco-radiology-captioning) |
+| Updatedabout 13 hours ago | 124 | ADSKAILab/Zero-To-CAD-Qwen3-VL-2BImage-to-Text | 2B | [Link](https://huggingface.co/ADSKAILab/Zero-To-CAD-Qwen3-VL-2B) |
 | Updated32 minutes ago | 119 | stepfun-ai/GELab-Zero-4B-previewImage-to-Text | 4B | [Link](https://huggingface.co/stepfun-ai/GELab-Zero-4B-preview) |
 | UpdatedFeb 25 | 117k | allenai/olmOCR-7B-0225-previewImage-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview) |
 | UpdatedApr 2 | 116k | reducto/RolmOCRImage-to-Text | 8B | [Link](https://huggingface.co/reducto/RolmOCR) |
