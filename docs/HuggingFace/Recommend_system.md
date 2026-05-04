@@ -3492,6 +3492,7 @@ Updated on 2026-05-04
 | 1 | Unknown | ftaxats/gujarati-ocr-svtrImage-to-Text | UpdatedMar 11 | [Link](https://huggingface.co/ftaxats/gujarati-ocr-svtr) |
 | 2 | Unknown | MeiGen-AI/PosterReward_v1Image-to-Text | Updated25 days ago | [Link](https://huggingface.co/MeiGen-AI/PosterReward_v1) |
 | 1 | Unknown | mweinbach/nemotron-ocr-v2-mlxImage-to-Text | Updated26 days ago | [Link](https://huggingface.co/mweinbach/nemotron-ocr-v2-mlx) |
+| 1 | Unknown | leadingtorch/circuit-reasoning-google-gemma-4-31B-it-thinking-enabledImage-to-Text | Updated11 days ago | [Link](https://huggingface.co/leadingtorch/circuit-reasoning-google-gemma-4-31B-it-thinking-enabled) |
 
 ## Image-to-Video
 
