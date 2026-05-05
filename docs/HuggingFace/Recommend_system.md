@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-05-04
+Updated on 2026-05-05
 
 > Generated from the Hugging Face database.
 
@@ -5042,6 +5042,7 @@ Updated on 2026-05-04
 | 117 | 248 | moonshotai/Kimi-K2-ThinkingText | Updatedabout 10 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-K2-Thinking) |
 | Updatedabout 17 hours ago | 247 | PleIAs/BaguettotronText | 0.3B | [Link](https://huggingface.co/PleIAs/Baguettotron) |
 | UpdatedApr 22 | 246 | inclusionAI/Ling-Coder-liteText | 17B | [Link](https://huggingface.co/inclusionAI/Ling-Coder-lite) |
+| Updated2 days ago | 246 | nvidia/Efficient-DLM-4BText | 4B | [Link](https://huggingface.co/nvidia/Efficient-DLM-4B) |
 | Updated5 days ago | 244 | jet-ai/Jet-Nemotron-4BText | 4B | [Link](https://huggingface.co/jet-ai/Jet-Nemotron-4B) |
 | 8.85k | 235 | microsoft/BioGPT-LargeText | UpdatedFeb 5, 2023 | [Link](https://huggingface.co/microsoft/BioGPT-Large) |
 | Updated2 days ago | 235 | Multilingual-Multimodal-NLP/IndustrialCoderText | 32B | [Link](https://huggingface.co/Multilingual-Multimodal-NLP/IndustrialCoder) |
@@ -6041,6 +6042,7 @@ Updated on 2026-05-04
 | 3.97k | 317 | Shitao/OmniGen-v1Text-to-Image | UpdatedNov 7, 2024 | [Link](https://huggingface.co/Shitao/OmniGen-v1) |
 | Updatedabout 14 hours ago | 311 | unsloth/ERNIE-Image-GGUFText-to-Image | 8B | [Link](https://huggingface.co/unsloth/ERNIE-Image-GGUF) |
 | 70.7k | 272 | nunchaku-ai/nunchaku-qwen-image-edit-2509Text-to-Image | UpdatedNov 16, 2025 | [Link](https://huggingface.co/nunchaku-ai/nunchaku-qwen-image-edit-2509) |
+| Updatedabout 15 hours ago | 266 | Danrisi/UltraReal_FineTune_AnimaText-to-Image | 2B | [Link](https://huggingface.co/Danrisi/UltraReal_FineTune_Anima) |
 | 15.3k | 254 | InstantX/FLUX | UpdatedNov 23, 2024 | [Link](https://huggingface.co/InstantX/FLUX.1-dev-IP-Adapter) |
 | Updated1 day ago | 244 | wikeeyang/Magic-Wan-Image-V2Text-to-Image | 14B | [Link](https://huggingface.co/wikeeyang/Magic-Wan-Image-V2) |
 | 28.5k | 241 | xinsir/controlnet-openpose-sdxl-1 | UpdatedJul 9, 2024 | [Link](https://huggingface.co/xinsir/controlnet-openpose-sdxl-1.0) |
