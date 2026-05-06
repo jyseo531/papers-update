@@ -5072,6 +5072,7 @@ Updated on 2026-05-06
 | Updated4 days ago | 173 | deepcogito/cogito-v2-preview-deepseek-671B-MoEText | 671B | [Link](https://huggingface.co/deepcogito/cogito-v2-preview-deepseek-671B-MoE) |
 | Updated33 minutes ago | 167 | Qwen/Qwen3-Coder-30B-A3B-InstructText | 31B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct) |
 | Updated2 days ago | 164 | driaforall/mem-agentText | 0.0B | [Link](https://huggingface.co/driaforall/mem-agent) |
+| Updatedabout 17 hours ago | 164 | z-lab/gemma-4-26B-A4B-it-DFlashText | 0.4B | [Link](https://huggingface.co/z-lab/gemma-4-26B-A4B-it-DFlash) |
 | Updatedabout 3 hours ago | 163 | Alibaba-NLP/Tongyi-DeepResearch-30B-A3BText | 31B | [Link](https://huggingface.co/Alibaba-NLP/Tongyi-DeepResearch-30B-A3B) |
 | 77 | 159 | manycore-research/SpatialLM-Llama-1BText | Updated4 days ago | [Link](https://huggingface.co/manycore-research/SpatialLM-Llama-1B) |
 | Updatedabout 10 hours ago | 159 | Qwen/Qwen3-235B-A22B-Instruct-2507Text | 235B | [Link](https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507) |
@@ -5140,6 +5141,7 @@ Updated on 2026-05-06
 | Updatedabout 7 hours ago | 90 | NousResearch/Hermes-4-70BText | 71B | [Link](https://huggingface.co/NousResearch/Hermes-4-70B) |
 | 27.1k | 89 | google/gemma-3n-E4B-it-litert-lmText | Updated12 days ago | [Link](https://huggingface.co/google/gemma-3n-E4B-it-litert-lm) |
 | Updated3 days ago | 89 | Salesforce/CoDA-v0-InstructText | 2B | [Link](https://huggingface.co/Salesforce/CoDA-v0-Instruct) |
+| Updatedabout 12 hours ago | 89 | z-lab/gemma-4-31B-it-DFlashText | 2B | [Link](https://huggingface.co/z-lab/gemma-4-31B-it-DFlash) |
 | 420 | 88 | all-hands/openhands-lm-32b-v0 | Updatedabout 16 hours ago | [Link](https://huggingface.co/all-hands/openhands-lm-32b-v0.1) |
 | UpdatedDec 2, 2025 | 88.4k | RedHatAI/Qwen3-8B-speculator | 1B | [Link](https://huggingface.co/RedHatAI/Qwen3-8B-speculator.eagle3) |
 | 3.93k | 86 | PocketDoc/Dans-PersonalityEngine-V1 | Updated24 days ago | [Link](https://huggingface.co/PocketDoc/Dans-PersonalityEngine-V1.2.0-24b) |
@@ -6639,6 +6641,7 @@ Updated on 2026-05-06
 | 147 | 15 | dangvansam/viet-ttsText-to-Speech | UpdatedDec 11, 2024 | [Link](https://huggingface.co/dangvansam/viet-tts) |
 | Updatedabout 18 hours ago | 15 | samuel-vitorino/soproText-to-Speech | 0.2B | [Link](https://huggingface.co/samuel-vitorino/sopro) |
 | 11 | 15 | YatharthS/LuxTTSText-to-Speech | Updatedabout 5 hours ago | [Link](https://huggingface.co/YatharthS/LuxTTS) |
+| Updatedabout 4 hours ago | 15 | pnnbao-ump/VieNeu-TTS-v2Text-to-Speech | 0.3B | [Link](https://huggingface.co/pnnbao-ump/VieNeu-TTS-v2) |
 | 2.61k | 14 | SPRINGLab/F5-Hindi-24KHzText-to-Speech | UpdatedJan 1 | [Link](https://huggingface.co/SPRINGLab/F5-Hindi-24KHz) |
 | Updated8 days ago | 14 | niobures/OuteTTSText-to-Speech | 1B | [Link](https://huggingface.co/niobures/OuteTTS) |
 | 6 | 13 | OuteAI/Llama-OuteTTS-1 | Updatedabout 2 hours ago | [Link](https://huggingface.co/OuteAI/Llama-OuteTTS-1.0-1B) |
