@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-05-05
+Updated on 2026-05-06
 
 > Generated from the Hugging Face database.
 
@@ -26,7 +26,10 @@ Updated on 2026-05-05
 | Updated4 days ago | 534 | WithinUsAI/Gemma4-Overlooked | 5B | [Link](https://huggingface.co/WithinUsAI/Gemma4-Overlooked.Thinker.Uncensored-E2B.gguf) |
 | Updatedabout 4 hours ago | 504 | Backup-bdg/Xoron-Dev-MultiMoeAny-to-Any | 4B | [Link](https://huggingface.co/Backup-bdg/Xoron-Dev-MultiMoe) |
 | Updated3 days ago | 500 | thenexthub/EverosAny-to-Any | 1000B | [Link](https://huggingface.co/thenexthub/Everos) |
+| Updatedabout 12 hours ago | 489 | google/gemma-4-31B-it-assistantAny-to-Any | 0.5B | [Link](https://huggingface.co/google/gemma-4-31B-it-assistant) |
 | Updated4 days ago | 480 | llmfan46/gemma-4-E4B-it-ultra-uncensored-hereticAny-to-Any | 8B | [Link](https://huggingface.co/llmfan46/gemma-4-E4B-it-ultra-uncensored-heretic) |
+| Updatedabout 12 hours ago | 470 | google/gemma-4-26B-A4B-it-assistantAny-to-Any | 0.4B | [Link](https://huggingface.co/google/gemma-4-26B-A4B-it-assistant) |
+| Updatedabout 14 hours ago | 450 | google/gemma-4-E4B-it-assistantAny-to-Any | 78.8M | [Link](https://huggingface.co/google/gemma-4-E4B-it-assistant) |
 | Updated3 days ago | 443 | cpatonn/Qwen3-Omni-30B-A3B-Instruct-AWQ-8bitAny-to-Any | 14B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Instruct-AWQ-8bit) |
 | Updated22 days ago | 408 | cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-8bitAny-to-Any | 10B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-8bit) |
 | UpdatedJun 9 | 405 | RedHatAI/gemma-3-4b-it-FP8-dynamicAny-to-Any | 4B | [Link](https://huggingface.co/RedHatAI/gemma-3-4b-it-FP8-dynamic) |
@@ -278,6 +281,7 @@ Updated on 2026-05-05
 | Updatedabout 15 hours ago | 1 | vantagewithai/Capybara-GGUFAny-to-Any | 8B | [Link](https://huggingface.co/vantagewithai/Capybara-GGUF) |
 | Updatedabout 11 hours ago | 1.21k | google/gemma-4-E4BAny-to-Any | 8B | [Link](https://huggingface.co/google/gemma-4-E4B) |
 | Updatedabout 16 hours ago | 1.27k | mlx-community/gemma-4-e4b-it-nvfp4Any-to-Any | 2B | [Link](https://huggingface.co/mlx-community/gemma-4-e4b-it-nvfp4) |
+| Updatedabout 14 hours ago | 1.21k | google/gemma-4-E2B-it-assistantAny-to-Any | 78M | [Link](https://huggingface.co/google/gemma-4-E2B-it-assistant) |
 | 2 | Unknown | guanwenhao/MonoSpeechAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/guanwenhao/MonoSpeech) |
 | 22 | Unknown | Goekdeniz-Guelmez/J | UpdatedOct 29, 2024 | [Link](https://huggingface.co/Goekdeniz-Guelmez/J.O.S.I.E.v4o) |
 | 1 | Unknown | hfcsrd/cryptographyAny-to-Any | UpdatedNov 17, 2024 | [Link](https://huggingface.co/hfcsrd/cryptography) |
@@ -2351,6 +2355,7 @@ Updated on 2026-05-05
 | Updated5 days ago | 2.36k | DavidAU/Qwen3 | 9B | [Link](https://huggingface.co/DavidAU/Qwen3.5-9B-Claude-4.6-HighIQ-THINKING-HERETIC-UNCENSORED) |
 | Updated4 days ago | 2.57k | coder3101/gemma-4-26B-A4B-it-hereticImage-Text-to-Text | 26B | [Link](https://huggingface.co/coder3101/gemma-4-26B-A4B-it-heretic) |
 | Updated4 days ago | 2.62k | Ex0bit/Gemma4-26B-A4B-PRISM-PRO-DQ-GGUFImage-Text-to-Text | 25B | [Link](https://huggingface.co/Ex0bit/Gemma4-26B-A4B-PRISM-PRO-DQ-GGUF) |
+| Updated4 days ago | 2.27k | zlaabsi/Qwen3 | 27B | [Link](https://huggingface.co/zlaabsi/Qwen3.6-27B-OTQ-GGUF) |
 | 2.72k | 1.62k | microsoft/OmniParserImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/microsoft/OmniParser) |
 | 100k | 1.4k | stepfun-ai/GOT-OCR2_0Image-Text-to-Text | Updated21 days ago | [Link](https://huggingface.co/stepfun-ai/GOT-OCR2_0) |
 | 1.78M | 1.42k | microsoft/Florence-2-largeImage-Text-to-Text | UpdatedDec 8, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-large) |
@@ -2953,6 +2958,7 @@ Updated on 2026-05-05
 | 5 | Unknown | Kristen-Z/MegaFlowImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/Kristen-Z/MegaFlow) |
 | 82 | Unknown | jdopensource/JoyAI-Image-EditImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/jdopensource/JoyAI-Image-Edit) |
 | 7 | Unknown | CSU-JPG/FlowInOneImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/CSU-JPG/FlowInOne) |
+| 2 | Unknown | NorskRegnesentralSTI/DiffFuSRImage-to-Image | UpdatedJan 16 | [Link](https://huggingface.co/NorskRegnesentralSTI/DiffFuSR) |
 
 ## Image-to-Text
 
@@ -5062,6 +5068,7 @@ Updated on 2026-05-05
 | 11.7k | 196 | smirki/UIGEN-T1-Qwen-7bText | Updated5 days ago | [Link](https://huggingface.co/smirki/UIGEN-T1-Qwen-7b) |
 | Updated7 days ago | 181 | janhq/Jan-v1-2509Text | 0.0B | [Link](https://huggingface.co/janhq/Jan-v1-2509) |
 | Updated1 day ago | 179 | nvidia/OpenReasoning-Nemotron-7BText | 8B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-7B) |
+| Updated1 day ago | 175 | HuggingFaceTB/nanowhale-100mText | 0.1B | [Link](https://huggingface.co/HuggingFaceTB/nanowhale-100m) |
 | Updated4 days ago | 173 | deepcogito/cogito-v2-preview-deepseek-671B-MoEText | 671B | [Link](https://huggingface.co/deepcogito/cogito-v2-preview-deepseek-671B-MoE) |
 | Updated33 minutes ago | 167 | Qwen/Qwen3-Coder-30B-A3B-InstructText | 31B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct) |
 | Updated2 days ago | 164 | driaforall/mem-agentText | 0.0B | [Link](https://huggingface.co/driaforall/mem-agent) |
@@ -6208,6 +6215,7 @@ Updated on 2026-05-05
 | 412 | 6 | wikeeyang/Flux2-Klein-9B-True-V1Text-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/wikeeyang/Flux2-Klein-9B-True-V1) |
 | 1.08k | 6 | pmczip/FLUX | Updated7 days ago | [Link](https://huggingface.co/pmczip/FLUX.2-klein-9B_Models) |
 | Updatedabout 11 hours ago | 6 | Yanran21/UniGenDetText-to-Image | 15B | [Link](https://huggingface.co/Yanran21/UniGenDet) |
+| 143 | 6 | kpsss34/Walkyrie-1 | Updated25 minutes ago | [Link](https://huggingface.co/kpsss34/Walkyrie-1.3B-v1.0) |
 | 42 | 5 | Shakker-Labs/RepTextText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Shakker-Labs/RepText) |
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
@@ -6250,6 +6258,7 @@ Updated on 2026-05-05
 | 193 | 4 | Danrisi/Nicegirls_qwen2512Text-to-Image | Updated3 days ago | [Link](https://huggingface.co/Danrisi/Nicegirls_qwen2512) |
 | 2.56k | 3.84k | WarriorMama777/OrangeMixsText-to-Image | UpdatedJan 7, 2024 | [Link](https://huggingface.co/WarriorMama777/OrangeMixs) |
 | Updatedabout 2 hours ago | 3.74k | calcuis/qwen-image-ggufText-to-Image | 20B | [Link](https://huggingface.co/calcuis/qwen-image-gguf) |
+| Updatedabout 9 hours ago | 3.35k | jeremyhola/LORAsText-to-Image | 4B | [Link](https://huggingface.co/jeremyhola/LORAs) |
 | 2 | 2.77k | CompVis/stable-diffusion-v-1-4-originalText-to-Image | UpdatedNov 9, 2022 | [Link](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original) |
 | 5.16k | 2.44k | hakurei/waifu-diffusionText-to-Image | UpdatedJul 5, 2023 | [Link](https://huggingface.co/hakurei/waifu-diffusion) |
 | Updated8 days ago | 2.03k | StableDiffusionVN/FluxText-to-Image | 5B | [Link](https://huggingface.co/StableDiffusionVN/Flux) |
@@ -6762,6 +6771,7 @@ Updated on 2026-05-05
 | 281 | 3 | valtecAI-team/valtec-tts-pretrainedText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/valtecAI-team/valtec-tts-pretrained) |
 | 28 | 3 | CoRal-project/roest-v3-chatterbox-500mText-to-Speech | Updated5 days ago | [Link](https://huggingface.co/CoRal-project/roest-v3-chatterbox-500m) |
 | 67 | 3 | NAMAA-Space/NAMAA-Saudi-TTS-V2Text-to-Speech | Updated4 days ago | [Link](https://huggingface.co/NAMAA-Space/NAMAA-Saudi-TTS-V2) |
+| 74 | 3 | CompactAI-O/Flare-TTS-28MText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/CompactAI-O/Flare-TTS-28M) |
 | 2.36M | 2.41k | coqui/XTTS-v2Text-to-Speech | UpdatedDec 11, 2023 | [Link](https://huggingface.co/coqui/XTTS-v2) |
 | 153 | 2 | mmwillet2/Dia_GGUFText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/mmwillet2/Dia_GGUF) |
 | 55 | 2 | unsloth/Spark-TTS-0 | Updated2 days ago | [Link](https://huggingface.co/unsloth/Spark-TTS-0.5B) |
