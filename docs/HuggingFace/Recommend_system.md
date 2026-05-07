@@ -96,6 +96,7 @@ Updated on 2026-05-07
 | UpdatedSep 11, 2024 | 47 | ljnlonoljpiljm/florence-2-large-nsfw-ptAny-to-Any | 0.8B | [Link](https://huggingface.co/ljnlonoljpiljm/florence-2-large-nsfw-pt) |
 | UpdatedNov 4, 2023 | 47.8k | adept/fuyu-8bAny-to-Any | 9B | [Link](https://huggingface.co/adept/fuyu-8b) |
 | Updated4 days ago | 47 | AiAsistent/xthos-v2-the-sovereign-architectAny-to-Any | 4B | [Link](https://huggingface.co/AiAsistent/xthos-v2-the-sovereign-architect) |
+| Updated2 days ago | 46 | AuriAetherwiing/G4-E4B-Musica-v1Any-to-Any | 8B | [Link](https://huggingface.co/AuriAetherwiing/G4-E4B-Musica-v1) |
 | 32.5k | 44 | onnx-community/Janus-Pro-1B-ONNXAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/onnx-community/Janus-Pro-1B-ONNX) |
 | UpdatedAug 14 | 43.6k | unsloth/gemma-3-27b-it-GGUFAny-to-Any | 27B | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-GGUF) |
 | 1 | 42 | lehduong/OneDiffusionAny-to-Any | UpdatedJul 24 | [Link](https://huggingface.co/lehduong/OneDiffusion) |
@@ -2152,6 +2153,7 @@ Updated on 2026-05-07
 | Updatedabout 6 hours ago | 18 | jzhang533/PaddleOCR-VL-For-MangaImage-Text-to-Text | 1.0B | [Link](https://huggingface.co/jzhang533/PaddleOCR-VL-For-Manga) |
 | Updatedabout 10 hours ago | 18 | RekaAI/reka-edge-2603Image-Text-to-Text | 7B | [Link](https://huggingface.co/RekaAI/reka-edge-2603) |
 | Updatedabout 15 hours ago | 18 | Hcompany/Holotron-12BImage-Text-to-Text | 13B | [Link](https://huggingface.co/Hcompany/Holotron-12B) |
+| Updatedabout 5 hours ago | 18.5k | froggeric/Qwen3 | 27B | [Link](https://huggingface.co/froggeric/Qwen3.6-27B-MTP-GGUF) |
 | 1.49k | 17 | google/paligemma2-3b-mix-224Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-3b-mix-224) |
 | 247 | 17 | ds4sd/SmolDocling-256M-previewImage-Text-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/ds4sd/SmolDocling-256M-preview) |
 | 31 | 17 | burtenshaw/GemmaCoder3-12BImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/burtenshaw/GemmaCoder3-12B) |
@@ -2270,6 +2272,7 @@ Updated on 2026-05-07
 | Updatedabout 1 hour ago | 9 | Hcompany/Holo2-4BImage-Text-to-Text | 4B | [Link](https://huggingface.co/Hcompany/Holo2-4B) |
 | Updatedabout 17 hours ago | 9 | rootsautomation/GutenOCR-7BImage-Text-to-Text | 756k | [Link](https://huggingface.co/rootsautomation/GutenOCR-7B) |
 | Updatedabout 16 hours ago | 9.19k | google/gemma-4-26B-A4B-itImage-Text-to-Text | 27B | [Link](https://huggingface.co/google/gemma-4-26B-A4B-it) |
+| Updatedabout 16 hours ago | 9.12k | havenoammo/Qwen3 | 0.4B | [Link](https://huggingface.co/havenoammo/Qwen3.6-27B-MTP-UD-GGUF) |
 | 9.71k | 8 | lmstudio-community/gemma-3-27b-it-GGUFImage-Text-to-Text | Updatedabout 18 hours ago | [Link](https://huggingface.co/lmstudio-community/gemma-3-27b-it-GGUF) |
 | 2.95k | 8 | bartowski/google_gemma-3-4b-it-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF) |
 | 725 | 8 | Mungert/gemma-3-4b-it-ggufImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/Mungert/gemma-3-4b-it-gguf) |
@@ -2960,6 +2963,7 @@ Updated on 2026-05-07
 | 82 | Unknown | jdopensource/JoyAI-Image-EditImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/jdopensource/JoyAI-Image-Edit) |
 | 7 | Unknown | CSU-JPG/FlowInOneImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/CSU-JPG/FlowInOne) |
 | 2 | Unknown | NorskRegnesentralSTI/DiffFuSRImage-to-Image | UpdatedJan 16 | [Link](https://huggingface.co/NorskRegnesentralSTI/DiffFuSR) |
+| 25 |  | ovi054/QIE-2511-Color-Grade-Transfer-LoRAImage-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/ovi054/QIE-2511-Color-Grade-Transfer-LoRA) |
 
 ## Image-to-Text
 
