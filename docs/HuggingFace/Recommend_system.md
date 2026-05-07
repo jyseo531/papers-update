@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-05-06
+Updated on 2026-05-07
 
 > Generated from the Hugging Face database.
 
@@ -2723,6 +2723,7 @@ Updated on 2026-05-06
 | 132 | 3 | valiantcat/Qwen-Image-Edit-2509-Passionate-kissImage-to-Image | Updated12 days ago | [Link](https://huggingface.co/valiantcat/Qwen-Image-Edit-2509-Passionate-kiss) |
 | 522 | 3 | Jonny001/Qwen-Image-Edit-Remove-ClothesImage-to-Image | UpdatedAug 29, 2025 | [Link](https://huggingface.co/Jonny001/Qwen-Image-Edit-Remove-Clothes) |
 | 221 | 3 | nhathoangfoto/Flux | Updated7 days ago | [Link](https://huggingface.co/nhathoangfoto/Flux.2-Klein-9B-Mannequin) |
+|  | 3 | ovi054/QIE-2511-Draw2Photo-LoRAImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/ovi054/QIE-2511-Draw2Photo-LoRA) |
 | 67 | 2 | SherryXTChen/InstructCLIP-InstructPix2PixImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/SherryXTChen/InstructCLIP-InstructPix2Pix) |
 | 17 | 2 | SherryXTChen/Instruct-CLIPImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/SherryXTChen/Instruct-CLIP) |
 | 76 | 2 | VisualCloze/VisualClozePipeline-384Image-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/VisualCloze/VisualClozePipeline-384) |
@@ -3083,6 +3084,7 @@ Updated on 2026-05-06
 | Updated2 days ago | 41 | clquwu/Clarity-OMRImage-to-Text | 0.2B | [Link](https://huggingface.co/clquwu/Clarity-OMR) |
 | Updatedabout 8 hours ago | 41 | opendatalab/MinerU-Diffusion-V1-0320-2 | 3B | [Link](https://huggingface.co/opendatalab/MinerU-Diffusion-V1-0320-2.5B) |
 | Updated3 days ago | 41 | TIGER-Lab/RationalRewards-8B-T2IImage-to-Text | 9B | [Link](https://huggingface.co/TIGER-Lab/RationalRewards-8B-T2I) |
+| Updated1 day ago | 41 | PinkPixel/Snarkle-2BImage-to-Text | 2B | [Link](https://huggingface.co/PinkPixel/Snarkle-2B) |
 | 246 | 40 | selvakumarcts/sk_invoice_receiptsImage-to-Text | UpdatedOct 20, 2023 | [Link](https://huggingface.co/selvakumarcts/sk_invoice_receipts) |
 | Updated16 days ago | 40 | JEILDLWLRMA/Qwen3-VL-4B-Instruct-NVFP4Image-to-Text | 3B | [Link](https://huggingface.co/JEILDLWLRMA/Qwen3-VL-4B-Instruct-NVFP4) |
 | 573 | 39 | katanaml-org/invoices-donut-model-v1Image-to-Text | UpdatedMay 11, 2023 | [Link](https://huggingface.co/katanaml-org/invoices-donut-model-v1) |
@@ -6900,6 +6902,7 @@ Updated on 2026-05-06
 | 4 | Unknown | Gigsu/vocoloco-onnxText-to-Speech | Updated13 days ago | [Link](https://huggingface.co/Gigsu/vocoloco-onnx) |
 | 4 | Unknown | intellisr/sinhala-tts-piper-v1Text-to-Speech | Updatedabout 21 hours ago | [Link](https://huggingface.co/intellisr/sinhala-tts-piper-v1) |
 | 5 | Unknown | LH-Tech-AI/Flare-TTS-28MText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/LH-Tech-AI/Flare-TTS-28M) |
+| 8 | Unknown | Supertone/supertonic-3Text-to-Speech | Updatedabout 7 hours ago | [Link](https://huggingface.co/Supertone/supertonic-3) |
 
 ## Text-to-Video
 
