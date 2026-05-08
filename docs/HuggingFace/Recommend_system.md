@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-05-08
+Updated on 2026-05-09
 
 > Generated from the Hugging Face database.
 
@@ -3062,6 +3062,7 @@ Updated on 2026-05-08
 | UpdatedJul 22, 2024 | 68 | lenamerkli/ingredient-scannerImage-to-Text | 0.5B | [Link](https://huggingface.co/lenamerkli/ingredient-scanner) |
 | Updated3 days ago | 68 | Piyush3142/trocr-sanskrit-ocrImage-to-Text | 0.3B | [Link](https://huggingface.co/Piyush3142/trocr-sanskrit-ocr) |
 | UpdatedJan 27, 2025 | 65 | cnmoro/mini-image-captioningImage-to-Text | 34.2M | [Link](https://huggingface.co/cnmoro/mini-image-captioning) |
+| UpdatedFeb 6 | 65 | JEILDLWLRMA/Qwen3-VL-8B-Instruct-NVFP4-FP8-DynamicImage-to-Text | 6B | [Link](https://huggingface.co/JEILDLWLRMA/Qwen3-VL-8B-Instruct-NVFP4-FP8-Dynamic) |
 | 8.31k | 64 | alibaba-damo/mgp-str-baseImage-to-Text | UpdatedDec 11, 2023 | [Link](https://huggingface.co/alibaba-damo/mgp-str-base) |
 | UpdatedMar 25, 2024 | 61 | emisilab/model-ocr-ktp-v1Image-to-Text | 0.2B | [Link](https://huggingface.co/emisilab/model-ocr-ktp-v1) |
 | Updated10 days ago | 59 | phxember/Uni-MuMER-Qwen3 | 5B | [Link](https://huggingface.co/phxember/Uni-MuMER-Qwen3.5-4B) |
@@ -4976,6 +4977,7 @@ Updated on 2026-05-08
 | Updatedabout 24 hours ago | 752 | thu-pacman/PCMind-2 | 2B | [Link](https://huggingface.co/thu-pacman/PCMind-2.1-Kaiyuan-2B) |
 | Updatedabout 2 hours ago | 722 | nvidia/NVIDIA-Nemotron-Nano-9B-v2Text | 9B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2) |
 |  | 682 | deepseek-ai/DeepSeek-V3-0324Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3-0324) |
+| Updated6 days ago | 679 | manjunathshiva/gpt-oss-20b-tq3Text | 22B | [Link](https://huggingface.co/manjunathshiva/gpt-oss-20b-tq3) |
 | Updatedabout 6 hours ago | 670 | nvidia/Orchestrator-8BText | 8B | [Link](https://huggingface.co/nvidia/Orchestrator-8B) |
 | Updatedabout 19 hours ago | 668 | Rta-AILabs/Nandi-Mini-150M-InstructText | 0.2B | [Link](https://huggingface.co/Rta-AILabs/Nandi-Mini-150M-Instruct) |
 | Updated5 days ago | 663k | lmstudio-community/gpt-oss-20b-MLX-8bitText | 21B | [Link](https://huggingface.co/lmstudio-community/gpt-oss-20b-MLX-8bit) |
@@ -6189,6 +6191,7 @@ Updated on 2026-05-08
 | 546 | 8 | duongve/NetaYume-Lumina-Image-2 | Updated5 days ago | [Link](https://huggingface.co/duongve/NetaYume-Lumina-Image-2.0) |
 | 35 | 8 | OPPOer/Qwen-Image-PruningText-to-Image | Updated8 days ago | [Link](https://huggingface.co/OPPOer/Qwen-Image-Pruning) |
 | 10 | 8 | lokiz666/Realgen-detection-modelsText-to-Image | Updated4 days ago | [Link](https://huggingface.co/lokiz666/Realgen-detection-models) |
+| 45 | 8 | SearchingMan/Z-Image-Turbo-student-adapterText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/SearchingMan/Z-Image-Turbo-student-adapter) |
 | 1.69k | 7 | silveroxides/Chroma-GGUFText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/silveroxides/Chroma-GGUF) |
 | 58 | 7 | Freepik/F-Lite-TextureText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Freepik/F-Lite-Texture) |
 | 41 | 7 | renderartist/simplevectorhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/simplevectorhidream) |
@@ -6716,6 +6719,7 @@ Updated on 2026-05-08
 | 1 | 5 | drbaph/LongCat-AudioDiT-3 | Updated1 day ago | [Link](https://huggingface.co/drbaph/LongCat-AudioDiT-3.5B-fp8) |
 | 377 | 5 | drbaph/OmniVoice-bf16Text-to-Speech | Updated3 days ago | [Link](https://huggingface.co/drbaph/OmniVoice-bf16) |
 | 589 | 5 | mlx-community/VoxCPM2-4bitText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/mlx-community/VoxCPM2-4bit) |
+| Updated4 days ago | 5 | kizuna-intelligence/Irodori-TTS-500M-v2-duration-controlText-to-Speech | 0.5B | [Link](https://huggingface.co/kizuna-intelligence/Irodori-TTS-500M-v2-duration-control) |
 | 5 | 4 | lunahr/csm-1b-safetensors-fp16Text-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-fp16) |
 | 2 | 4 | VAGOsolutions/SauerkrautTTS-Preview-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/VAGOsolutions/SauerkrautTTS-Preview-0.1) |
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
