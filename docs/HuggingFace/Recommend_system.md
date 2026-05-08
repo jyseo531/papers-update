@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-05-07
+Updated on 2026-05-08
 
 > Generated from the Hugging Face database.
 
@@ -1941,6 +1941,7 @@ Updated on 2026-05-07
 | Updated3 days ago | 468 | QuantTrio/GLM-4 | 17B | [Link](https://huggingface.co/QuantTrio/GLM-4.5V-AWQ) |
 | Updated2 days ago | 461 | nvidia/Ising-Calibration-1-35B-A3BImage-Text-to-Text | 665k | [Link](https://huggingface.co/nvidia/Ising-Calibration-1-35B-A3B) |
 | Updatedabout 10 hours ago | 454 | Qwen/Qwen3-VL-32B-Instruct-FP8Image-Text-to-Text | 33B | [Link](https://huggingface.co/Qwen/Qwen3-VL-32B-Instruct-FP8) |
+| Updated13 days ago | 436 | SL-AI/GRaPE-2-ProImage-Text-to-Text | 28B | [Link](https://huggingface.co/SL-AI/GRaPE-2-Pro) |
 | 820k | 421 | liuhaotian/llava-v1 | UpdatedMay 8, 2024 | [Link](https://huggingface.co/liuhaotian/llava-v1.5-7b) |
 | 112k | 395 | HuggingFaceTB/SmolVLM-InstructImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-Instruct) |
 | 860k | 376 | Salesforce/blip2-opt-2 | UpdatedFeb 3 | [Link](https://huggingface.co/Salesforce/blip2-opt-2.7b) |
@@ -6178,6 +6179,7 @@ Updated on 2026-05-07
 | 49 | 9 | zooeyy/Qwen-Edit-2511_LightingRemap_Alpha0 | Updated1 day ago | [Link](https://huggingface.co/zooeyy/Qwen-Edit-2511_LightingRemap_Alpha0.2) |
 | 744 | 9 | drbaph/Z-Image-fp8Text-to-Image | Updated3 days ago | [Link](https://huggingface.co/drbaph/Z-Image-fp8) |
 | 2.18k | 9 | diroverflo/FLux_Klein_9B_NSFWText-to-Image | UpdatedFeb 24 | [Link](https://huggingface.co/diroverflo/FLux_Klein_9B_NSFW) |
+| Updatedabout 13 hours ago | 9 | RunDiffusion/Juggernaut-Z-ImageText-to-Image | 6B | [Link](https://huggingface.co/RunDiffusion/Juggernaut-Z-Image) |
 | 215 | 8 | tensorart/stable-diffusion-3 | Updated8 minutes ago | [Link](https://huggingface.co/tensorart/stable-diffusion-3.5-large-TurboX) |
 | 34 | 8 | renderartist/coloringbookhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/coloringbookhidream) |
 | 1.79k | 8 | MaxedOut/ComfyUI-Starter-PacksText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/MaxedOut/ComfyUI-Starter-Packs) |
@@ -6602,6 +6604,7 @@ Updated on 2026-05-07
 | 73.1k | 45 | onnx-community/Kokoro-82M-v1 | Updated17 days ago | [Link](https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX) |
 | 482 | 44 | nvidia/magpie_tts_multilingual_357mText-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/nvidia/magpie_tts_multilingual_357m) |
 | Updated1 day ago | 44 | nineninesix/kani-tts-2-enText-to-Speech | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-2-en) |
+| Updated1 day ago | 44 | Wfloat/wfloat-ttsText-to-Speech | 30.2M | [Link](https://huggingface.co/Wfloat/wfloat-tts) |
 | Updatedabout 1 month ago | 41 | Anilosan15/kani-tts-400m-0 | 0.4B | [Link](https://huggingface.co/Anilosan15/kani-tts-400m-0.3-tr) |
 | Updated1 day ago | 41 | nineninesix/kani-tts-2-ptText-to-Speech | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-2-pt) |
 | 5.2k | 39 | speechbrain/tts-hifigan-ljspeechText-to-Speech | UpdatedFeb 25, 2024 | [Link](https://huggingface.co/speechbrain/tts-hifigan-ljspeech) |
@@ -6802,6 +6805,7 @@ Updated on 2026-05-07
 | UpdatedMar 24 | 1.09k | lex-au/Orpheus-3b-FT-Q4_K_M | 4B | [Link](https://huggingface.co/lex-au/Orpheus-3b-FT-Q4_K_M.gguf) |
 | Updated5 days ago | 1.22k | mlx-community/Qwen3-TTS-12Hz-1 | 2B | [Link](https://huggingface.co/mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-bf16) |
 | Updated8 days ago | 1.76k | bluryar/VoxCPM-GGUFText-to-Speech | 0.7B | [Link](https://huggingface.co/bluryar/VoxCPM-GGUF) |
+| Updated8 days ago | 1.29k | Serveurperso/OmniVoice-GGUFText-to-Speech | 0.6B | [Link](https://huggingface.co/Serveurperso/OmniVoice-GGUF) |
 | 302 | Unknown | lj1995/GPT-SoVITSText-to-Speech | Updated14 days ago | [Link](https://huggingface.co/lj1995/GPT-SoVITS) |
 | 436 | Unknown | myshell-ai/OpenVoiceText-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoice) |
 | 365 | Unknown | myshell-ai/OpenVoiceV2Text-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoiceV2) |
@@ -7065,6 +7069,7 @@ Updated on 2026-05-07
 |  | 2 | KoshiMazaki/muzed-motion-loraText-to-Video | Updated6 days ago | [Link](https://huggingface.co/KoshiMazaki/muzed-motion-lora) |
 | 38.8k | 2 | magespace/Wan2 | UpdatedAug 15, 2025 | [Link](https://huggingface.co/magespace/Wan2.2-I2V-A14B-Lightning-Diffusers) |
 | 9 | 2 | pharmacypractice16/Wan2 | Updated1 day ago | [Link](https://huggingface.co/pharmacypractice16/Wan2.1-T2V-1.3B-Diffusers) |
+| 14 | 2 | Civitai/Sulphur-2-distilled-fp8Text-to-Video | Updated1 day ago | [Link](https://huggingface.co/Civitai/Sulphur-2-distilled-fp8) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
