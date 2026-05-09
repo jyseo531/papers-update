@@ -3005,6 +3005,7 @@ Updated on 2026-05-09
 | UpdatedSep 16, 2025 | 245 | mradermacher/Qwen2-VL-2B-Abliterated-Caption-it-GGUFImage-to-Text | 2B | [Link](https://huggingface.co/mradermacher/Qwen2-VL-2B-Abliterated-Caption-it-GGUF) |
 | UpdatedNov 15, 2024 | 242 | TIGER-Lab/Mantis-8B-Idefics2Image-to-Text | 8B | [Link](https://huggingface.co/TIGER-Lab/Mantis-8B-Idefics2) |
 | UpdatedMar 8 | 234 | convergence-ai/proxy-lite-3bImage-to-Text | 4B | [Link](https://huggingface.co/convergence-ai/proxy-lite-3b) |
+| Updatedabout 13 hours ago | 234 | PinkPixel/Pixel-2B-GGUFImage-to-Text | 2B | [Link](https://huggingface.co/PinkPixel/Pixel-2B-GGUF) |
 | Updated2 days ago | 230 | HelloKKMe/GTA1-32BImage-to-Text | 33B | [Link](https://huggingface.co/HelloKKMe/GTA1-32B) |
 | UpdatedMar 28 | 229 | David-Magdy/TR_OCR_LARGEImage-to-Text | 0.6B | [Link](https://huggingface.co/David-Magdy/TR_OCR_LARGE) |
 | Updated14 days ago | 217 | sugam24/dots-ocr-awq-4bitImage-to-Text | 0.8B | [Link](https://huggingface.co/sugam24/dots-ocr-awq-4bit) |
