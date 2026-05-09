@@ -2965,6 +2965,7 @@ Updated on 2026-05-09
 | 7 | Unknown | CSU-JPG/FlowInOneImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/CSU-JPG/FlowInOne) |
 | 2 | Unknown | NorskRegnesentralSTI/DiffFuSRImage-to-Image | UpdatedJan 16 | [Link](https://huggingface.co/NorskRegnesentralSTI/DiffFuSR) |
 | 25 |  | ovi054/QIE-2511-Color-Grade-Transfer-LoRAImage-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/ovi054/QIE-2511-Color-Grade-Transfer-LoRA) |
+| 11 | Unknown | isp-uv-es/superIXImage-to-Image | UpdatedMay 28, 2024 | [Link](https://huggingface.co/isp-uv-es/superIX) |
 
 ## Image-to-Text
 
@@ -5420,6 +5421,7 @@ Updated on 2026-05-09
 | 101 | 25 | salakash/SamKash-TolstoyText | Updatedabout 2 hours ago | [Link](https://huggingface.co/salakash/SamKash-Tolstoy) |
 | 193 | 25 | salakash/AskBuddyXText | Updated9 days ago | [Link](https://huggingface.co/salakash/AskBuddyX) |
 | 89 | 25 | silx-ai/Quasar-10BText | Updated11 days ago | [Link](https://huggingface.co/silx-ai/Quasar-10B) |
+| Updatedabout 15 hours ago | 25 | Qwen/WebWorld-32BText | 677k | [Link](https://huggingface.co/Qwen/WebWorld-32B) |
 | 8.8k | 24 | unsloth/QwQ-32B-GGUFText | Updatedabout 1 hour ago | [Link](https://huggingface.co/unsloth/QwQ-32B-GGUF) |
 | 90.1k | 24 | allenai/OLMo-2-0325-32BText | Updated3 days ago | [Link](https://huggingface.co/allenai/OLMo-2-0325-32B) |
 | 722 | 24 | qihoo360/Light-R1-14B-DSText | Updatedabout 9 hours ago | [Link](https://huggingface.co/qihoo360/Light-R1-14B-DS) |
