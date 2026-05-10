@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-05-09
+Updated on 2026-05-10
 
 > Generated from the Hugging Face database.
 
@@ -188,6 +188,7 @@ Updated on 2026-05-09
 | 226 | 5 | DavidAU/gemma-4-E4B-it-The-DECKARD-Expresso-Universe-HERETIC-UNCENSORED-ThinkingAny-to-Any | Updated3 minutes ago | [Link](https://huggingface.co/DavidAU/gemma-4-E4B-it-The-DECKARD-Expresso-Universe-HERETIC-UNCENSORED-Thinking) |
 | Updatedabout 1 hour ago | 5 | groxaxo/Huihui-gemma-4-26B-A4B-it-abliterated-GGUFAny-to-Any | 25B | [Link](https://huggingface.co/groxaxo/Huihui-gemma-4-26B-A4B-it-abliterated-GGUF) |
 | Updatedabout 12 hours ago | 5 | sensenova/SenseNova-U1-8B-MoT-SFTAny-to-Any | 18B | [Link](https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-SFT) |
+| Updated4 days ago | 5.84k | llmfan46/gemma-4-E2B-it-ultra-uncensored-heretic-GGUFAny-to-Any | 5B | [Link](https://huggingface.co/llmfan46/gemma-4-E2B-it-ultra-uncensored-heretic-GGUF) |
 | 126 | 4 | Alpha-VLLM/Chameleon_7B_mGPTAny-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Chameleon_7B_mGPT) |
 | 37 | 4 | Alpha-VLLM/Lumina-mGPT-7B-512-MultiImageAny-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-512-MultiImage) |
 | 26 | 4 | EPFL-VILAB/4M-7-T2I_XL_CC12MAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-7-T2I_XL_CC12M) |
@@ -2983,6 +2984,7 @@ Updated on 2026-05-09
 | UpdatedApr 9, 2025 | 599 | meta-llama/Llama-4-Maverick-17B-128EImage-to-Text | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E) |
 | UpdatedJan 29 | 586 | chatpig/llava-llama3Image-to-Text | 8B | [Link](https://huggingface.co/chatpig/llava-llama3) |
 | Updated1 day ago | 570 | HelloKKMe/GTA1-7BImage-to-Text | 8B | [Link](https://huggingface.co/HelloKKMe/GTA1-7B) |
+| Updated11 days ago | 564 | mradermacher/Garnet-OCR-3B-0422-GGUFImage-to-Text | 3B | [Link](https://huggingface.co/mradermacher/Garnet-OCR-3B-0422-GGUF) |
 | UpdatedJul 1, 2023 | 563 | team-lucid/trocr-small-koreanImage-to-Text | 54.5M | [Link](https://huggingface.co/team-lucid/trocr-small-korean) |
 | Updated5 days ago | 552 | thesby/Qwen3-VL-8B-NSFW-Caption-V4Image-to-Text | 9B | [Link](https://huggingface.co/thesby/Qwen3-VL-8B-NSFW-Caption-V4) |
 | UpdatedApr 24, 2024 | 541 | unum-cloud/uform-gen2-dpoImage-to-Text | 1B | [Link](https://huggingface.co/unum-cloud/uform-gen2-dpo) |
@@ -2996,6 +2998,7 @@ Updated on 2026-05-09
 | UpdatedAug 26, 2024 | 467 | LeroyDyer/SpydazWebAI_Image_ProjectorsImage-to-Text | 7B | [Link](https://huggingface.co/LeroyDyer/SpydazWebAI_Image_Projectors) |
 | UpdatedJan 6, 2024 | 441 | Ransaka/TrOCR-SinhalaImage-to-Text | 0.3B | [Link](https://huggingface.co/Ransaka/TrOCR-Sinhala) |
 | UpdatedSep 28 | 436 | mradermacher/dunhuang-qwen2 | 8B | [Link](https://huggingface.co/mradermacher/dunhuang-qwen2.5-vl-7b-GGUF) |
+| Updated17 days ago | 430 | samuraieng/sarashina2 | 3B | [Link](https://huggingface.co/samuraieng/sarashina2.2-vision-3b-gguf) |
 | UpdatedNov 28, 2024 | 429 | MohamedRashad/arabic-small-nougatImage-to-Text | 0.2B | [Link](https://huggingface.co/MohamedRashad/arabic-small-nougat) |
 | Updated9 days ago | 424 | InternScience/StructTable-InternVL2-1BImage-to-Text | 0.9B | [Link](https://huggingface.co/InternScience/StructTable-InternVL2-1B) |
 | UpdatedJan 29 | 335 | StanfordAIMI/CheXagent-2-3b-srrg-findingsImage-to-Text | 3B | [Link](https://huggingface.co/StanfordAIMI/CheXagent-2-3b-srrg-findings) |
@@ -3428,6 +3431,7 @@ Updated on 2026-05-09
 | 457 | 1 | Kansallisarkisto/multicentury-htr-modelImage-to-Text | UpdatedNov 21, 2025 | [Link](https://huggingface.co/Kansallisarkisto/multicentury-htr-model) |
 | 54 | 1 | uchihamadara1816/TROCR-ChessImage-to-Text | UpdatedDec 9, 2025 | [Link](https://huggingface.co/uchihamadara1816/TROCR-Chess) |
 | 15 | 1 | Word2Li/Electricity-Meter-OCR-7BImage-to-Text | UpdatedJul 24, 2025 | [Link](https://huggingface.co/Word2Li/Electricity-Meter-OCR-7B) |
+| Updated11 days ago | 1.79k | mradermacher/Garnet-OCR-3B-0422-i1-GGUFImage-to-Text | 3B | [Link](https://huggingface.co/mradermacher/Garnet-OCR-3B-0422-i1-GGUF) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -5095,6 +5099,7 @@ Updated on 2026-05-09
 | Updatedabout 4 hours ago | 151 | moondream/moondream3-previewText | 9B | [Link](https://huggingface.co/moondream/moondream3-preview) |
 | Updated1 day ago | 150 | lm-provers/QED-NanoText | 4B | [Link](https://huggingface.co/lm-provers/QED-Nano) |
 | Updatedabout 15 hours ago | 149 | openai/gpt-oss-safeguard-120bText | 120B | [Link](https://huggingface.co/openai/gpt-oss-safeguard-120b) |
+| Updated1 day ago | 147 | Qwen/WebWorld-8BText | 8B | [Link](https://huggingface.co/Qwen/WebWorld-8B) |
 | 38 | 143 | qihoo360/TinyR1-32B-PreviewText | Updatedabout 17 hours ago | [Link](https://huggingface.co/qihoo360/TinyR1-32B-Preview) |
 | Updatedabout 10 hours ago | 141 | XiaomiMiMo/MiMo-V2 | 1T | [Link](https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro) |
 | Updated6 days ago | 140 | zerofata/MS3 | 24B | [Link](https://huggingface.co/zerofata/MS3.2-PaintedFantasy-24B) |
@@ -6723,6 +6728,7 @@ Updated on 2026-05-09
 | 377 | 5 | drbaph/OmniVoice-bf16Text-to-Speech | Updated3 days ago | [Link](https://huggingface.co/drbaph/OmniVoice-bf16) |
 | 589 | 5 | mlx-community/VoxCPM2-4bitText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/mlx-community/VoxCPM2-4bit) |
 | Updated4 days ago | 5 | kizuna-intelligence/Irodori-TTS-500M-v2-duration-controlText-to-Speech | 0.5B | [Link](https://huggingface.co/kizuna-intelligence/Irodori-TTS-500M-v2-duration-control) |
+| 18 | 5 | XRXRX/X-VoiceText-to-Speech | Updated5 days ago | [Link](https://huggingface.co/XRXRX/X-Voice) |
 | 5 | 4 | lunahr/csm-1b-safetensors-fp16Text-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-fp16) |
 | 2 | 4 | VAGOsolutions/SauerkrautTTS-Preview-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/VAGOsolutions/SauerkrautTTS-Preview-0.1) |
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
