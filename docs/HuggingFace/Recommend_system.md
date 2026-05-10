@@ -6237,6 +6237,7 @@ Updated on 2026-05-10
 | 1.08k | 6 | pmczip/FLUX | Updated7 days ago | [Link](https://huggingface.co/pmczip/FLUX.2-klein-9B_Models) |
 | Updatedabout 11 hours ago | 6 | Yanran21/UniGenDetText-to-Image | 15B | [Link](https://huggingface.co/Yanran21/UniGenDet) |
 | 143 | 6 | kpsss34/Walkyrie-1 | Updated25 minutes ago | [Link](https://huggingface.co/kpsss34/Walkyrie-1.3B-v1.0) |
+| 79 | 6 | byliutao/Longcat-Image-TurboText-to-Image | Updated1 day ago | [Link](https://huggingface.co/byliutao/Longcat-Image-Turbo) |
 | 42 | 5 | Shakker-Labs/RepTextText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Shakker-Labs/RepText) |
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
@@ -7083,6 +7084,7 @@ Updated on 2026-05-10
 | 38.8k | 2 | magespace/Wan2 | UpdatedAug 15, 2025 | [Link](https://huggingface.co/magespace/Wan2.2-I2V-A14B-Lightning-Diffusers) |
 | 9 | 2 | pharmacypractice16/Wan2 | Updated1 day ago | [Link](https://huggingface.co/pharmacypractice16/Wan2.1-T2V-1.3B-Diffusers) |
 | 14 | 2 | Civitai/Sulphur-2-distilled-fp8Text-to-Video | Updated1 day ago | [Link](https://huggingface.co/Civitai/Sulphur-2-distilled-fp8) |
+| 2.02k | 2 | Seregil13th/Sulphur-2-baseText-to-Video | Updated5 days ago | [Link](https://huggingface.co/Seregil13th/Sulphur-2-base) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
