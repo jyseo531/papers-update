@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-05-10
+Updated on 2026-05-11
 
 > Generated from the Hugging Face database.
 
@@ -2333,6 +2333,7 @@ Updated on 2026-05-10
 | Updated7 days ago | 4.72k | janhq/Jan-v2-VL-low-ggufImage-Text-to-Text | 8B | [Link](https://huggingface.co/janhq/Jan-v2-VL-low-gguf) |
 | Updated1 day ago | 4.56k | bartowski/ServiceNow-AI_Apriel-1 | 14B | [Link](https://huggingface.co/bartowski/ServiceNow-AI_Apriel-1.6-15b-Thinker-GGUF) |
 | Updatedabout 9 hours ago | 4.22k | stepfun-ai/Step3-VL-10BImage-Text-to-Text | 10B | [Link](https://huggingface.co/stepfun-ai/Step3-VL-10B) |
+| Updated3 days ago | 4.66k | Jackrong/Negentropy-claude-opus-4 | 9B | [Link](https://huggingface.co/Jackrong/Negentropy-claude-opus-4.7-9B-GGUF) |
 | Updated5 minutes ago | 3.08k | openbmb/MiniCPM-V-4-ggufImage-Text-to-Text | 4B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4-gguf) |
 | Updatedabout 14 hours ago | 3 | Qwen/Qwen3-VL-8B-ThinkingImage-Text-to-Text | 9B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Thinking) |
 | Updatedabout 13 hours ago | 3 | Qwen/Qwen3-VL-4B-Thinking-FP8Image-Text-to-Text | 5B | [Link](https://huggingface.co/Qwen/Qwen3-VL-4B-Thinking-FP8) |
@@ -5250,6 +5251,7 @@ Updated on 2026-05-10
 | Updatedabout 7 hours ago | 49 | unsloth/GLM-5 | 754B | [Link](https://huggingface.co/unsloth/GLM-5.1-GGUF) |
 | Updatedabout 16 hours ago | 48 | osmosis-ai/Osmosis-Apply-1 | 2B | [Link](https://huggingface.co/osmosis-ai/Osmosis-Apply-1.7B) |
 | Updatedabout 7 hours ago | 48 | ServiceNow-AI/Apriel-1 | 15B | [Link](https://huggingface.co/ServiceNow-AI/Apriel-1.5-15b-Thinker) |
+| Updated3 days ago | 48 | nvidia/NVIDIA-Nemotron-Labs-3-Elastic-30B-A3B-BF16Text | 32B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-3-Elastic-30B-A3B-BF16) |
 | 39 | 47 | open-r1/OlympicCoder-32BText | Updatedabout 17 hours ago | [Link](https://huggingface.co/open-r1/OlympicCoder-32B) |
 | Updatedabout 13 hours ago | 47 | LLM360/K2-ThinkText | 33B | [Link](https://huggingface.co/LLM360/K2-Think) |
 | Updatedabout 10 hours ago | 47 | inclusionAI/Ring-1T-previewText | 1000B | [Link](https://huggingface.co/inclusionAI/Ring-1T-preview) |
@@ -5316,6 +5318,7 @@ Updated on 2026-05-10
 | Updated2 days ago | 35 | Writer/palmyra-miniText | 2B | [Link](https://huggingface.co/Writer/palmyra-mini) |
 | Updatedabout 1 hour ago | 35 | meituan-longcat/LongCat-Flash-ThinkingText | 562B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Thinking) |
 | Updatedabout 1 hour ago | 35 | unsloth/GLM-5-GGUFText | 753B | [Link](https://huggingface.co/unsloth/GLM-5-GGUF) |
+| Updatedabout 8 hours ago | 35.1k | antirez/deepseek-v4-ggufText | 284B | [Link](https://huggingface.co/antirez/deepseek-v4-gguf) |
 | 4.1k | 34 | bartowski/mistralai_Mistral-Small-3 | Updatedabout 18 hours ago | [Link](https://huggingface.co/bartowski/mistralai_Mistral-Small-3.1-24B-Instruct-2503-GGUF) |
 | Updated1 day ago | 34 | nvidia/NVIDIA-Nemotron-Nano-9B-v2-BaseText | 9B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2-Base) |
 | Updatedabout 6 hours ago | 34 | continuedev/instinctText | 8B | [Link](https://huggingface.co/continuedev/instinct) |
@@ -6925,6 +6928,7 @@ Updated on 2026-05-10
 | 4 | Unknown | intellisr/sinhala-tts-piper-v1Text-to-Speech | Updatedabout 21 hours ago | [Link](https://huggingface.co/intellisr/sinhala-tts-piper-v1) |
 | 5 | Unknown | LH-Tech-AI/Flare-TTS-28MText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/LH-Tech-AI/Flare-TTS-28M) |
 | 8 | Unknown | Supertone/supertonic-3Text-to-Speech | Updatedabout 7 hours ago | [Link](https://huggingface.co/Supertone/supertonic-3) |
+| 4 | Unknown | huggingFresse/Kokoro-82M-ONNX-German-MartinText-to-Speech | Updatedabout 5 hours ago | [Link](https://huggingface.co/huggingFresse/Kokoro-82M-ONNX-German-Martin) |
 
 ## Text-to-Video
 
