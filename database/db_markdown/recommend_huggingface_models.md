@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-05-11
+Updated on 2026-05-12
 
 > Generated from the Hugging Face database.
 
@@ -1910,6 +1910,7 @@ Updated on 2026-05-11
 
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
+| Updated4 days ago | 964 | OrionLLM/GRM-2 | 28B | [Link](https://huggingface.co/OrionLLM/GRM-2.6-Plus) |
 | Updatedabout 7 hours ago | 952 | FINAL-Bench/Darwin-35B-A3B-OpusImage-Text-to-Text | 36B | [Link](https://huggingface.co/FINAL-Bench/Darwin-35B-A3B-Opus) |
 | Updated1 day ago | 941 | nvidia/NVIDIA-Nemotron-Nano-12B-v2-VL-BF16Image-Text-to-Text | 13B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-12B-v2-VL-BF16) |
 | 109k | 939 | openbmb/MiniCPM-V-2_6Image-Text-to-Text | UpdatedJan 15 | [Link](https://huggingface.co/openbmb/MiniCPM-V-2_6) |
