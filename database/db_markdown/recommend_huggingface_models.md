@@ -1957,12 +1957,14 @@ Updated on 2026-05-12
 | Updated5 days ago | 302 | Qwen/Qwen3-VL-2B-Thinking-FP8Image-Text-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-2B-Thinking-FP8) |
 | UpdatedOct 21, 2025 | 298k | datalab-to/chandraImage-Text-to-Text | 9B | [Link](https://huggingface.co/datalab-to/chandra) |
 | 17.9k | 287 | deepseek-ai/deepseek-vl2Image-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2) |
+| Updatedabout 12 hours ago | 279 | openbmb/MiniCPM-V-4 | 1B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4.6) |
 | Updatedabout 11 hours ago | 272 | tencent/HY-Embodied-0 | 4B | [Link](https://huggingface.co/tencent/HY-Embodied-0.5) |
 | 26.4k | 267 | MiniMaxAI/MiniMax-VL-01Image-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-VL-01) |
 | Updatedabout 14 hours ago | 260 | QuixiAI/Prisma-VL-8BImage-Text-to-Text | 770k | [Link](https://huggingface.co/QuixiAI/Prisma-VL-8B) |
 | Updated7 days ago | 253 | prithivMLmods/Qwen3-VL-8B-Instruct-Unredacted-MAXImage-Text-to-Text | 9B | [Link](https://huggingface.co/prithivMLmods/Qwen3-VL-8B-Instruct-Unredacted-MAX) |
 | Updated1 day ago | 252 | Qwen/Qwen3-VL-235B-A22B-ThinkingImage-Text-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Thinking) |
 | Updatedabout 2 hours ago | 252 | Qwen/Qwen3 | 403B | [Link](https://huggingface.co/Qwen/Qwen3.5-397B-A17B) |
+| Updated3 days ago | 251 | Zyphra/ZAYA1-VL-8BImage-Text-to-Text | 10B | [Link](https://huggingface.co/Zyphra/ZAYA1-VL-8B) |
 | 353k | 236 | microsoft/Florence-2-baseImage-Text-to-Text | UpdatedNov 4, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-base) |
 | Updatedabout 2 hours ago | 232 | deepseek-ai/DeepSeek-OCR-2Image-Text-to-Text | 3B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-OCR-2) |
 | Updatedabout 14 hours ago | 228 | CohereLabs/command-a-vision-07-2025Image-Text-to-Text | 112B | [Link](https://huggingface.co/CohereLabs/command-a-vision-07-2025) |
@@ -5007,6 +5009,7 @@ Updated on 2026-05-12
 | Updated1 day ago | 580 | allenai/Olmo-3 | 32B | [Link](https://huggingface.co/allenai/Olmo-3.1-32B-Think) |
 | Updatedabout 4 hours ago | 570 | MiniMaxAI/MiniMax-M2Text | 229B | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M2) |
 |  | 565 | deepseek-ai/DeepSeek-R1-0528Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528) |
+| Updated3 days ago | 545 | zed-industries/zeta-2 | 8B | [Link](https://huggingface.co/zed-industries/zeta-2.1) |
 | Updated3 days ago | 540 | ArliAI/gpt-oss-120b-DerestrictedText | 117B | [Link](https://huggingface.co/ArliAI/gpt-oss-120b-Derestricted) |
 | Updatedabout 15 hours ago | 536 | mlx-community/DeepSeek-V4-Flash-2bit-DQText | 284B | [Link](https://huggingface.co/mlx-community/DeepSeek-V4-Flash-2bit-DQ) |
 | Updated3 days ago | 528 | huihui-ai/Huihui-Qwen3-Coder-Next-abliteratedText | 80B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3-Coder-Next-abliterated) |
@@ -5073,6 +5076,7 @@ Updated on 2026-05-12
 | Updated1 day ago | 234 | p-e-w/gpt-oss-20b-hereticText | 21B | [Link](https://huggingface.co/p-e-w/gpt-oss-20b-heretic) |
 | Updatedabout 10 hours ago | 233 | Qwen/Qwen3-Coder-NextText | 80B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-Next) |
 | Updatedabout 10 hours ago | 232 | inclusionAI/Ling-mini-2 | 16B | [Link](https://huggingface.co/inclusionAI/Ling-mini-2.0) |
+| Updated1 day ago | 231 | Abiray/LTX2 | 21B | [Link](https://huggingface.co/Abiray/LTX2.3-10Eros-GGUF) |
 | Updated2 days ago | 220 | utter-project/EuroLLM-22B-Instruct-2512Text | 23B | [Link](https://huggingface.co/utter-project/EuroLLM-22B-Instruct-2512) |
 | Updatedabout 18 hours ago | 217 | google/gemma-3-270mText | 0.3B | [Link](https://huggingface.co/google/gemma-3-270m) |
 | 2.13k | 215 | XiaomiMiMo/MiMo-7B-RLText | Updatedabout 12 hours ago | [Link](https://huggingface.co/XiaomiMiMo/MiMo-7B-RL) |
@@ -5087,6 +5091,7 @@ Updated on 2026-05-12
 | Updated1 day ago | 179 | nvidia/OpenReasoning-Nemotron-7BText | 8B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-7B) |
 | Updated1 day ago | 175 | HuggingFaceTB/nanowhale-100mText | 0.1B | [Link](https://huggingface.co/HuggingFaceTB/nanowhale-100m) |
 | Updated4 days ago | 173 | deepcogito/cogito-v2-preview-deepseek-671B-MoEText | 671B | [Link](https://huggingface.co/deepcogito/cogito-v2-preview-deepseek-671B-MoE) |
+| Updated4 days ago | 170 | Qwen/WebWorld-14BText | 15B | [Link](https://huggingface.co/Qwen/WebWorld-14B) |
 | Updated33 minutes ago | 167 | Qwen/Qwen3-Coder-30B-A3B-InstructText | 31B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct) |
 | Updated2 days ago | 164 | driaforall/mem-agentText | 0.0B | [Link](https://huggingface.co/driaforall/mem-agent) |
 | Updatedabout 17 hours ago | 164 | z-lab/gemma-4-26B-A4B-it-DFlashText | 0.4B | [Link](https://huggingface.co/z-lab/gemma-4-26B-A4B-it-DFlash) |
@@ -6242,6 +6247,8 @@ Updated on 2026-05-12
 | Updatedabout 11 hours ago | 6 | Yanran21/UniGenDetText-to-Image | 15B | [Link](https://huggingface.co/Yanran21/UniGenDet) |
 | 143 | 6 | kpsss34/Walkyrie-1 | Updated25 minutes ago | [Link](https://huggingface.co/kpsss34/Walkyrie-1.3B-v1.0) |
 | 79 | 6 | byliutao/Longcat-Image-TurboText-to-Image | Updated1 day ago | [Link](https://huggingface.co/byliutao/Longcat-Image-Turbo) |
+| 336 | 6 | Danrisi/UltraReal_FineTune_Anima3Text-to-Image | Updated5 days ago | [Link](https://huggingface.co/Danrisi/UltraReal_FineTune_Anima3) |
+| 103 | 6 | byliutao/stable-diffusion-3-medium-turboText-to-Image | Updated4 days ago | [Link](https://huggingface.co/byliutao/stable-diffusion-3-medium-turbo) |
 | 42 | 5 | Shakker-Labs/RepTextText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Shakker-Labs/RepText) |
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
@@ -6930,6 +6937,7 @@ Updated on 2026-05-12
 | 5 | Unknown | LH-Tech-AI/Flare-TTS-28MText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/LH-Tech-AI/Flare-TTS-28M) |
 | 8 | Unknown | Supertone/supertonic-3Text-to-Speech | Updatedabout 7 hours ago | [Link](https://huggingface.co/Supertone/supertonic-3) |
 | 4 | Unknown | huggingFresse/Kokoro-82M-ONNX-German-MartinText-to-Speech | Updatedabout 5 hours ago | [Link](https://huggingface.co/huggingFresse/Kokoro-82M-ONNX-German-Martin) |
+| 14 | Unknown | ScenemaAI/scenema-audioText-to-Speech | Updatedabout 2 hours ago | [Link](https://huggingface.co/ScenemaAI/scenema-audio) |
 
 ## Text-to-Video
 
