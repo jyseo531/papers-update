@@ -3005,6 +3005,7 @@ Updated on 2026-05-12
 | Updated17 days ago | 430 | samuraieng/sarashina2 | 3B | [Link](https://huggingface.co/samuraieng/sarashina2.2-vision-3b-gguf) |
 | UpdatedNov 28, 2024 | 429 | MohamedRashad/arabic-small-nougatImage-to-Text | 0.2B | [Link](https://huggingface.co/MohamedRashad/arabic-small-nougat) |
 | Updated9 days ago | 424 | InternScience/StructTable-InternVL2-1BImage-to-Text | 0.9B | [Link](https://huggingface.co/InternScience/StructTable-InternVL2-1B) |
+| UpdatedSep 6, 2023 | 382 | google/pix2struct-largeImage-to-Text | 1B | [Link](https://huggingface.co/google/pix2struct-large) |
 | UpdatedJan 29 | 335 | StanfordAIMI/CheXagent-2-3b-srrg-findingsImage-to-Text | 3B | [Link](https://huggingface.co/StanfordAIMI/CheXagent-2-3b-srrg-findings) |
 | UpdatedJul 18 | 323 | loay/ArabicOCR-Qwen2 | 8B | [Link](https://huggingface.co/loay/ArabicOCR-Qwen2.5-VL-7B-Vision) |
 | UpdatedFeb 23 | 313 | mradermacher/PaddleOCR-VL-0 | 0.5B | [Link](https://huggingface.co/mradermacher/PaddleOCR-VL-0.9B-GGUF) |
@@ -3307,6 +3308,7 @@ Updated on 2026-05-12
 | 19 | 3 | HassanB4/Ketab-OCR-LoRAImage-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/HassanB4/Ketab-OCR-LoRA) |
 | Updated15 days ago | 3.02k | noctrex/PaddleOCR-VL-1 | 0.5B | [Link](https://huggingface.co/noctrex/PaddleOCR-VL-1.5-GGUF) |
 | 21 | 3 | microsoft/git-large-msrvtt-qaImage-to-Text | UpdatedJan 24, 2023 | [Link](https://huggingface.co/microsoft/git-large-msrvtt-qa) |
+| 111 | 3 | lbm364dl/PaddleOCR-VL-1 | UpdatedMar 27 | [Link](https://huggingface.co/lbm364dl/PaddleOCR-VL-1.5-ONNX) |
 | 51 | 2 | microsoft/git-base-msrvtt-qaImage-to-Text | UpdatedApr 4, 2024 | [Link](https://huggingface.co/microsoft/git-base-msrvtt-qa) |
 | 32 | 2 | baseplate/vit-gpt2-image-captioningImage-to-Text | UpdatedApr 5, 2023 | [Link](https://huggingface.co/baseplate/vit-gpt2-image-captioning) |
 | 38 | 2 | sbintuitions/sarashina2-vision-14bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-14b) |
@@ -5195,6 +5197,7 @@ Updated on 2026-05-12
 | Updatedabout 23 hours ago | 75 | inceptionai/Jais-2-70B-ChatText | 72B | [Link](https://huggingface.co/inceptionai/Jais-2-70B-Chat) |
 | 2 | 74 | Qwen/Qwen3-32BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-32B) |
 | Updatedabout 10 hours ago | 74 | ByteDance-Seed/Seed-OSS-36B-InstructText | 36B | [Link](https://huggingface.co/ByteDance-Seed/Seed-OSS-36B-Instruct) |
+| Updatedabout 13 hours ago | 74 | IAAR-Shanghai/MemPrivacy-1 | 2B | [Link](https://huggingface.co/IAAR-Shanghai/MemPrivacy-1.7B-SFT) |
 | 21 | 73 | nvidia/Llama-3_1-Nemotron-Ultra-253B-v1Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/nvidia/Llama-3_1-Nemotron-Ultra-253B-v1) |
 | Updated3 days ago | 73 | kurakurai/Luth-LFM2-1 | 1B | [Link](https://huggingface.co/kurakurai/Luth-LFM2-1.2B) |
 | 1.65k | 72 | perplexity-ai/r1-1776-distill-llama-70bText | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776-distill-llama-70b) |
@@ -6957,6 +6960,7 @@ Updated on 2026-05-12
 | 81.9k | 322 | wangfuyun/AnimateLCMText-to-Video | UpdatedOct 16, 2024 | [Link](https://huggingface.co/wangfuyun/AnimateLCM) |
 | 34.1k | 321 | THUDM/CogVideoX-2bText-to-Video | UpdatedNov 23, 2024 | [Link](https://huggingface.co/THUDM/CogVideoX-2b) |
 | 4.43k | 306 | hotshotco/Hotshot-XLText-to-Video | UpdatedOct 11, 2023 | [Link](https://huggingface.co/hotshotco/Hotshot-XL) |
+| Updatedabout 10 hours ago | 260 | Abiray/Sulphur-2-base-GGUFText-to-Video | 21B | [Link](https://huggingface.co/Abiray/Sulphur-2-base-GGUF) |
 | 250 | 258 | rhymes-ai/AllegroText-to-Video | UpdatedOct 31, 2024 | [Link](https://huggingface.co/rhymes-ai/Allegro) |
 | 7.53k | 218 | nvidia/Cosmos-1 | Updated10 days ago | [Link](https://huggingface.co/nvidia/Cosmos-1.0-Diffusion-7B-Text2World) |
 | 315 | 175 | FastVideo/FastHunyuanText-to-Video | UpdatedJan 8 | [Link](https://huggingface.co/FastVideo/FastHunyuan) |
