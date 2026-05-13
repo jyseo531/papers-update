@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-05-12
+Updated on 2026-05-13
 
 > Generated from the Hugging Face database.
 
@@ -5094,6 +5094,7 @@ Updated on 2026-05-12
 | Updated1 day ago | 175 | HuggingFaceTB/nanowhale-100mText | 0.1B | [Link](https://huggingface.co/HuggingFaceTB/nanowhale-100m) |
 | Updated4 days ago | 173 | deepcogito/cogito-v2-preview-deepseek-671B-MoEText | 671B | [Link](https://huggingface.co/deepcogito/cogito-v2-preview-deepseek-671B-MoE) |
 | Updated4 days ago | 170 | Qwen/WebWorld-14BText | 15B | [Link](https://huggingface.co/Qwen/WebWorld-14B) |
+| Updated5 days ago | 170 | allenai/Emo_1b14b_1TText | 14B | [Link](https://huggingface.co/allenai/Emo_1b14b_1T) |
 | Updated33 minutes ago | 167 | Qwen/Qwen3-Coder-30B-A3B-InstructText | 31B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct) |
 | Updated2 days ago | 164 | driaforall/mem-agentText | 0.0B | [Link](https://huggingface.co/driaforall/mem-agent) |
 | Updatedabout 17 hours ago | 164 | z-lab/gemma-4-26B-A4B-it-DFlashText | 0.4B | [Link](https://huggingface.co/z-lab/gemma-4-26B-A4B-it-DFlash) |
@@ -6704,6 +6705,7 @@ Updated on 2026-05-12
 | 495 | 8 | alien79/F5-TTS-italianText-to-Speech | UpdatedDec 12, 2024 | [Link](https://huggingface.co/alien79/F5-TTS-italian) |
 | Updated2 days ago | 8 | OmniAICreator/Galgame-Llasa-1B-v2Text-to-Speech | 1B | [Link](https://huggingface.co/OmniAICreator/Galgame-Llasa-1B-v2) |
 | UpdatedJan 21 | 8.3k | akh99/veena-hinglishText-to-Speech | 4B | [Link](https://huggingface.co/akh99/veena-hinglish) |
+| Updatedabout 13 hours ago | 8 | Aratako/Irodori-TTS-500M-v3Text-to-Speech | 0.5B | [Link](https://huggingface.co/Aratako/Irodori-TTS-500M-v3) |
 | 1.11k | 7 | DragonLineageAI/Vi-SparkTTS-0 | Updatedabout 10 hours ago | [Link](https://huggingface.co/DragonLineageAI/Vi-SparkTTS-0.5B) |
 | 9 | 7 | canopylabs/3b-zh-pretrain-research_releaseText-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/canopylabs/3b-zh-pretrain-research_release) |
 | 618 | 7 | canopylabs/3b-de-pretrain-research_releaseText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/canopylabs/3b-de-pretrain-research_release) |
