@@ -362,6 +362,7 @@ Updated on 2026-05-13
 | 7 | Unknown | huihui-ai/Huihui-gemma-4-E2B-it-abliteratedAny-to-Any | Updatedabout 11 hours ago | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-E2B-it-abliterated) |
 | 6 | Unknown | huihui-ai/Huihui-gemma-4-31B-it-abliterated-v2Any-to-Any | Updatedabout 9 hours ago | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-31B-it-abliterated-v2) |
 | 8 | Unknown | HKUSTAudio/Audio-OmniAny-to-Any | Updatedabout 6 hours ago | [Link](https://huggingface.co/HKUSTAudio/Audio-Omni) |
+| 5 | Unknown | zghhui/OmniNFTAny-to-Any | Updated2 days ago | [Link](https://huggingface.co/zghhui/OmniNFT) |
 
 ## Audio Classification
 
@@ -2997,6 +2998,7 @@ Updated on 2026-05-13
 | Updated21 days ago | 510 | AiAsistent/gemma-3-4b-it-Cognitive-LibertyImage-to-Text | 4B | [Link](https://huggingface.co/AiAsistent/gemma-3-4b-it-Cognitive-Liberty) |
 | UpdatedOct 20, 2025 | 505 | PJMixers-Images/Florence-2-base-Castollux-v0 | 0.2B | [Link](https://huggingface.co/PJMixers-Images/Florence-2-base-Castollux-v0.5) |
 | Updated4 days ago | 485 | mradermacher/Qwen2 | 8B | [Link](https://huggingface.co/mradermacher/Qwen2.5-VL-7B-Abliterated-Caption-it-GGUF) |
+| Updated20 days ago | 482 | RepublicOfKorokke/GLM-OCR-oQ8-fp16Image-to-Text | 0.6B | [Link](https://huggingface.co/RepublicOfKorokke/GLM-OCR-oQ8-fp16) |
 | Updated20 days ago | 480 | sanchit97/chart-rvr-3bImage-to-Text | 4B | [Link](https://huggingface.co/sanchit97/chart-rvr-3b) |
 | Updated1 day ago | 471 | noctrex/LightOnOCR-2-1B-GGUFImage-to-Text | 0.6B | [Link](https://huggingface.co/noctrex/LightOnOCR-2-1B-GGUF) |
 | UpdatedAug 26, 2024 | 467 | LeroyDyer/SpydazWebAI_Image_ProjectorsImage-to-Text | 7B | [Link](https://huggingface.co/LeroyDyer/SpydazWebAI_Image_Projectors) |
@@ -6729,6 +6731,7 @@ Updated on 2026-05-13
 | 222 | 6 | bharatgenai/sooktam2Text-to-Speech | Updatedabout 6 hours ago | [Link](https://huggingface.co/bharatgenai/sooktam2) |
 | 10 | 6 | silma-ai/silma-ttsText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/silma-ai/silma-tts) |
 | Updatedabout 11 hours ago | 6 | Aratako/Irodori-TTS-500M-v2Text-to-Speech | 0.5B | [Link](https://huggingface.co/Aratako/Irodori-TTS-500M-v2) |
+| Updatedabout 9 hours ago | 6 | p1atdev/Irodori-TTS-500M-v2-Character-Voice-SigLIPText-to-Speech | 0.5B | [Link](https://huggingface.co/p1atdev/Irodori-TTS-500M-v2-Character-Voice-SigLIP) |
 | 87 | 5 | lunahr/csm-1b-safetensors-quantsText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-quants) |
 | 26 | 5 | 2121-8/canary-tts-0 | Updatedabout 19 hours ago | [Link](https://huggingface.co/2121-8/canary-tts-0.5b) |
 | 12 | 5 | MYZY-AI/Muyan-TTS-SFTText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/MYZY-AI/Muyan-TTS-SFT) |
@@ -6778,6 +6781,7 @@ Updated on 2026-05-13
 | 380 | 4 | gluschenko/omnivoice-onnxText-to-Speech | Updated6 days ago | [Link](https://huggingface.co/gluschenko/omnivoice-onnx) |
 | Updated12 days ago | 4.44k | splendor1811/omnivoice-vietnameseText-to-Speech | 0.6B | [Link](https://huggingface.co/splendor1811/omnivoice-vietnamese) |
 | 701 | 4 | mlx-community/VoxCPM2-8bitText-to-Speech | Updated18 days ago | [Link](https://huggingface.co/mlx-community/VoxCPM2-8bit) |
+| Updatedabout 9 hours ago | 4 | p1atdev/Irodori-TTS-500M-v2-Character-Voice-TaggerText-to-Speech | 0.5B | [Link](https://huggingface.co/p1atdev/Irodori-TTS-500M-v2-Character-Voice-Tagger) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 1.22k | 3 | CONCREE/Adia_TTSText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/CONCREE/Adia_TTS) |
@@ -7273,6 +7277,8 @@ Updated on 2026-05-13
 | 2 | Unknown | Lora-Daddy/Ltx2 | Updatedabout 12 hours ago | [Link](https://huggingface.co/Lora-Daddy/Ltx2.3-real-nudity-early-alpha-30k-steps) |
 | 3 | Unknown | Lora-Daddy/LTX-2 | Updated2 days ago | [Link](https://huggingface.co/Lora-Daddy/LTX-2.3-animated-nudity-lora) |
 | 3 | Unknown | Cseti/LTXV-13B-LoRA-Arcane-style-v1Text-to-Video | Updated8 days ago | [Link](https://huggingface.co/Cseti/LTXV-13B-LoRA-Arcane-style-v1) |
+| 5 | Unknown | nvidia/Wan2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/Wan2.2-T2V-A14B-Diffusers-FP8) |
+| 2 | Unknown | nvidia/AnyFlow-Wan2 | Updatedabout 2 hours ago | [Link](https://huggingface.co/nvidia/AnyFlow-Wan2.1-T2V-14B-Diffusers) |
 
 ## Text2Text Generation
 
