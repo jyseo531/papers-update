@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-05-13
+Updated on 2026-05-14
 
 > Generated from the Hugging Face database.
 
@@ -5104,6 +5104,7 @@ Updated on 2026-05-13
 | 77 | 159 | manycore-research/SpatialLM-Llama-1BText | Updated4 days ago | [Link](https://huggingface.co/manycore-research/SpatialLM-Llama-1B) |
 | Updatedabout 10 hours ago | 159 | Qwen/Qwen3-235B-A22B-Instruct-2507Text | 235B | [Link](https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507) |
 | Updatedabout 5 hours ago | 159 | PerceptronAI/Isaac-0 | 3B | [Link](https://huggingface.co/PerceptronAI/Isaac-0.1) |
+| Updated6 days ago | 159 | AIDC-AI/Marco-DeepResearch-8BText | 8B | [Link](https://huggingface.co/AIDC-AI/Marco-DeepResearch-8B) |
 | 6.18k | 156 | google/medgemma-27b-text-itText | Updated18 minutes ago | [Link](https://huggingface.co/google/medgemma-27b-text-it) |
 | Updatedabout 7 hours ago | 154 | tencent/Hunyuan-0 | 0.5B | [Link](https://huggingface.co/tencent/Hunyuan-0.5B-Instruct) |
 | 2.25k | 153 | open-thoughts/OpenThinker-32BText | Updated11 days ago | [Link](https://huggingface.co/open-thoughts/OpenThinker-32B) |
@@ -6655,6 +6656,7 @@ Updated on 2026-05-13
 | 3.72k | 29 | parler-tts/parler-tts-mini-multilingual-v1 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-mini-multilingual-v1.1) |
 | 1.34k | 29 | Xenova/speecht5_ttsText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/Xenova/speecht5_tts) |
 | 1.2k | 27 | saheedniyi/YarnGPTText-to-Speech | UpdatedJan 29 | [Link](https://huggingface.co/saheedniyi/YarnGPT) |
+| 4 | 27 | ResembleAI/DramaboxText-to-Speech | Updatedabout 11 hours ago | [Link](https://huggingface.co/ResembleAI/Dramabox) |
 | 152 | 23 | OmarSamir/EGTTS-V0 | Updated27 days ago | [Link](https://huggingface.co/OmarSamir/EGTTS-V0.1) |
 | Updatedabout 15 hours ago | 23 | wcy1122/MGM-Omni-TTS-2B-0927Text-to-Speech | 2B | [Link](https://huggingface.co/wcy1122/MGM-Omni-TTS-2B-0927) |
 | 943k | 22 | myshell-ai/MeloTTS-KoreanText-to-Speech | UpdatedFeb 29, 2024 | [Link](https://huggingface.co/myshell-ai/MeloTTS-Korean) |
