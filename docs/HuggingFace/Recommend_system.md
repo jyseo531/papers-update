@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-05-14
+Updated on 2026-05-15
 
 > Generated from the Hugging Face database.
 
@@ -5729,6 +5729,7 @@ Updated on 2026-05-14
 | Updated3 days ago | 1.05k | selimaktas/MiniMax-M2 | 453B | [Link](https://huggingface.co/selimaktas/MiniMax-M2.75-460B-A20B) |
 | Updated1 day ago | 1.83k | lordx64/Qwen3 | 36B | [Link](https://huggingface.co/lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled) |
 | Updated1 day ago | 1.03k | OsaurusAI/MiniMax-M2 | 10B | [Link](https://huggingface.co/OsaurusAI/MiniMax-M2.7-Small-JANGTQ) |
+| Updated7 days ago | 1.96k | Brian6145/Qwen3 | 20B | [Link](https://huggingface.co/Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -6133,6 +6134,7 @@ Updated on 2026-05-14
 | 41 | 26 | SG161222/SPARK | Updatedabout 17 hours ago | [Link](https://huggingface.co/SG161222/SPARK.Chroma_preview) |
 | Updatedabout 8 hours ago | 24 | jayn7/Z-Image-GGUFText-to-Image | 6B | [Link](https://huggingface.co/jayn7/Z-Image-GGUF) |
 | Updatedabout 11 hours ago | 24 | shallowdream204/BitDance-14B-16xText-to-Image | 15B | [Link](https://huggingface.co/shallowdream204/BitDance-14B-16x) |
+| 12 | 24 | Lakonik/AsymFLUX | Updatedabout 13 hours ago | [Link](https://huggingface.co/Lakonik/AsymFLUX.2-klein-9B) |
 | 8 | 22 | nunchaku-tech/nunchaku-qwen-image-edit-2509Text-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-qwen-image-edit-2509) |
 | Updatedabout 14 hours ago | 22 | purplesmartai/pony-v7-baseText-to-Image | 7B | [Link](https://huggingface.co/purplesmartai/pony-v7-base) |
 | 5.26k | 20 | mit-han-lab/svdq-int4-flux | Updated22 days ago | [Link](https://huggingface.co/mit-han-lab/svdq-int4-flux.1-dev) |
@@ -6527,6 +6529,7 @@ Updated on 2026-05-14
 | 6 | Unknown | Bedovyy/ERNIE-Image-QuantizedText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/Bedovyy/ERNIE-Image-Quantized) |
 | 6 | Unknown | Emanon14/Nameless-AnimaText-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/Emanon14/Nameless-Anima) |
 | 18 | Unknown | Winnougan/Must_Have_Klein_9b_lorasText-to-Image | UpdatedMar 26 | [Link](https://huggingface.co/Winnougan/Must_Have_Klein_9b_loras) |
+| 34 | Unknown | snwy/SD1 | Updatedabout 10 hours ago | [Link](https://huggingface.co/snwy/SD1.5-DALLE-2) |
 
 ## Text-to-Speech
 
@@ -7052,6 +7055,8 @@ Updated on 2026-05-14
 |  | 3 | oumoumad/deepzoom-loraText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/oumoumad/deepzoom-lora) |
 | 185 | 3 | BestWishYsh/Helios-BaseText-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/BestWishYsh/Helios-Base) |
 | 89 | 3 | BestWishYsh/Helios-MidText-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/BestWishYsh/Helios-Mid) |
+| 9 | 3 | nvidia/AnyFlow-FAR-Wan2 | Updatedabout 8 hours ago | [Link](https://huggingface.co/nvidia/AnyFlow-FAR-Wan2.1-1.3B-Diffusers) |
+| 5 | 3 | OmerHagage/ltx2-greenscreen-avatar-ic-lora-vertical-v1Text-to-Video | Updatedabout 18 hours ago | [Link](https://huggingface.co/OmerHagage/ltx2-greenscreen-avatar-ic-lora-vertical-v1) |
 | 69 | 2 | obvious-research/onlyflowText-to-Video | Updated5 days ago | [Link](https://huggingface.co/obvious-research/onlyflow) |
 | 42 | 2 | jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIEText-to-Video | Updated7 days ago | [Link](https://huggingface.co/jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIE) |
 | 10 | 2 | vdo/Hotshot-XLText-to-Video | UpdatedOct 4, 2023 | [Link](https://huggingface.co/vdo/Hotshot-XL) |
