@@ -2235,6 +2235,7 @@ Updated on 2026-05-15
 | Updatedabout 17 hours ago | 11 | janhq/Jan-v2-VL-max-FP8Image-Text-to-Text | 31B | [Link](https://huggingface.co/janhq/Jan-v2-VL-max-FP8) |
 | Updatedabout 10 hours ago | 11 | unsloth/gemma-4-31B-it-GGUFImage-Text-to-Text | 31B | [Link](https://huggingface.co/unsloth/gemma-4-31B-it-GGUF) |
 | Updated1 minute ago | 11.4k | dealignai/Gemma-4-26B-A4B-JANG_4M-CRACKImage-Text-to-Text | 5B | [Link](https://huggingface.co/dealignai/Gemma-4-26B-A4B-JANG_4M-CRACK) |
+| Updatedabout 10 hours ago | 11 | internlm/Intern-S2-PreviewImage-Text-to-Text | 36B | [Link](https://huggingface.co/internlm/Intern-S2-Preview) |
 | 185 | 10 | prithivMLmods/Tokenized-OCRImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/prithivMLmods/Tokenized-OCR) |
 | 25 | 10 | prithivMLmods/Qwen2-VL-OCR2-2B-InstructImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/Qwen2-VL-OCR2-2B-Instruct) |
 | 9 | 10 | google/gemma-3-12b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-12b-pt) |
@@ -3044,6 +3045,7 @@ Updated on 2026-05-15
 | UpdatedJul 22 | 135 | sugiv/cardvaultplus-500m-ggufImage-to-Text | 0.4B | [Link](https://huggingface.co/sugiv/cardvaultplus-500m-gguf) |
 | 1.69k | 134 | xtuner/llava-phi-3-mini-ggufImage-to-Text | UpdatedApr 29, 2024 | [Link](https://huggingface.co/xtuner/llava-phi-3-mini-gguf) |
 | Updated4 days ago | 134 | mlx-community/olmOCR-2-7B-1025-bf16Image-to-Text | 8B | [Link](https://huggingface.co/mlx-community/olmOCR-2-7B-1025-bf16) |
+| Updated7 days ago | 132 | PinkPixel/Pixel-2BImage-to-Text | 2B | [Link](https://huggingface.co/PinkPixel/Pixel-2B) |
 | UpdatedAug 14, 2025 | 129 | WafaaFraih/blip-roco-radiology-captioningImage-to-Text | 0.2B | [Link](https://huggingface.co/WafaaFraih/blip-roco-radiology-captioning) |
 | Updatedabout 13 hours ago | 124 | ADSKAILab/Zero-To-CAD-Qwen3-VL-2BImage-to-Text | 2B | [Link](https://huggingface.co/ADSKAILab/Zero-To-CAD-Qwen3-VL-2B) |
 | Updated32 minutes ago | 119 | stepfun-ai/GELab-Zero-4B-previewImage-to-Text | 4B | [Link](https://huggingface.co/stepfun-ai/GELab-Zero-4B-preview) |
@@ -3440,6 +3442,8 @@ Updated on 2026-05-15
 | 54 | 1 | uchihamadara1816/TROCR-ChessImage-to-Text | UpdatedDec 9, 2025 | [Link](https://huggingface.co/uchihamadara1816/TROCR-Chess) |
 | 15 | 1 | Word2Li/Electricity-Meter-OCR-7BImage-to-Text | UpdatedJul 24, 2025 | [Link](https://huggingface.co/Word2Li/Electricity-Meter-OCR-7B) |
 | Updated11 days ago | 1.79k | mradermacher/Garnet-OCR-3B-0422-i1-GGUFImage-to-Text | 3B | [Link](https://huggingface.co/mradermacher/Garnet-OCR-3B-0422-i1-GGUF) |
+| 99 | 1 | mudasir13cs/qwen25-vl-3b-floorplan-sftImage-to-Text | Updated5 days ago | [Link](https://huggingface.co/mudasir13cs/qwen25-vl-3b-floorplan-sft) |
+| 90 | 1 | mudasir13cs/qwen25-vl-3b-floorplan-grpoImage-to-Text | Updated5 days ago | [Link](https://huggingface.co/mudasir13cs/qwen25-vl-3b-floorplan-grpo) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -5091,6 +5095,7 @@ Updated on 2026-05-15
 | Updated25 minutes ago | 202 | shb777/Llama-3 | 8B | [Link](https://huggingface.co/shb777/Llama-3.3-8B-Instruct) |
 | Updated15 days ago | 201 | SamuelBang/AesCoder-4BText | 4B | [Link](https://huggingface.co/SamuelBang/AesCoder-4B) |
 | 11.7k | 196 | smirki/UIGEN-T1-Qwen-7bText | Updated5 days ago | [Link](https://huggingface.co/smirki/UIGEN-T1-Qwen-7b) |
+| Updatedabout 4 hours ago | 183 | FrontiersMind/Nandi-Mini-600M-Early-CheckpointText | 0.6B | [Link](https://huggingface.co/FrontiersMind/Nandi-Mini-600M-Early-Checkpoint) |
 | Updated7 days ago | 181 | janhq/Jan-v1-2509Text | 0.0B | [Link](https://huggingface.co/janhq/Jan-v1-2509) |
 | Updated1 day ago | 179 | nvidia/OpenReasoning-Nemotron-7BText | 8B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-7B) |
 | Updated1 day ago | 175 | HuggingFaceTB/nanowhale-100mText | 0.1B | [Link](https://huggingface.co/HuggingFaceTB/nanowhale-100m) |
