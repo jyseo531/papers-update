@@ -7286,6 +7286,7 @@ Updated on 2026-05-15
 | 3 | Unknown | Cseti/LTXV-13B-LoRA-Arcane-style-v1Text-to-Video | Updated8 days ago | [Link](https://huggingface.co/Cseti/LTXV-13B-LoRA-Arcane-style-v1) |
 | 5 | Unknown | nvidia/Wan2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/Wan2.2-T2V-A14B-Diffusers-FP8) |
 | 2 | Unknown | nvidia/AnyFlow-Wan2 | Updatedabout 2 hours ago | [Link](https://huggingface.co/nvidia/AnyFlow-Wan2.1-T2V-14B-Diffusers) |
+| 3 | Unknown | Andro0s/LTX_2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/Andro0s/LTX_2.3_Pixar_Toon_Style_LoRa) |
 
 ## Text2Text Generation
 
