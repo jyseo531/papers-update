@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-05-15
+Updated on 2026-05-16
 
 > Generated from the Hugging Face database.
 
@@ -160,6 +160,7 @@ Updated on 2026-05-15
 | Updatedabout 10 hours ago | 9.82k | nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16Any-to-Any | 33B | [Link](https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16) |
 | UpdatedJul 9 | 8 | toandev/donglao-gemma-3-4b-it-viAny-to-Any | 4B | [Link](https://huggingface.co/toandev/donglao-gemma-3-4b-it-vi) |
 | Updated13 days ago | 8.66k | llmfan46/gemma-4-E4B-it-uncensored-heretic-GGUFAny-to-Any | 8B | [Link](https://huggingface.co/llmfan46/gemma-4-E4B-it-uncensored-heretic-GGUF) |
+| Updatedabout 1 hour ago | 8 | sensenova/SenseNova-U1-8B-MoT-InfographicAny-to-Any | 18B | [Link](https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-Infographic) |
 | 612 | 7 | internlm/internlm-xcomposer2d5-7b-rewardAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/internlm/internlm-xcomposer2d5-7b-reward) |
 | 16 | 7 | FunAGI/Qwen2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/FunAGI/Qwen2.5-Omni-7B-GPTQ-4bit) |
 | Updatedabout 5 hours ago | 7 | wikeeyang/Nexus-GenV2-nf4-fp8Any-to-Any | 5B | [Link](https://huggingface.co/wikeeyang/Nexus-GenV2-nf4-fp8) |
@@ -2351,6 +2352,7 @@ Updated on 2026-05-15
 | Updatedabout 6 hours ago | 3.38k | LuffyTheFox/Qwen3 | 35B | [Link](https://huggingface.co/LuffyTheFox/Qwen3.5-35B-A3B-Uncensored-Kullback-Leibler) |
 | Updatedabout 11 hours ago | 3.19k | google/gemma-4-26B-A4BImage-Text-to-Text | 27B | [Link](https://huggingface.co/google/gemma-4-26B-A4B) |
 | Updated1 day ago | 3.9k | ibm-granite/granite-vision-4 | 4B | [Link](https://huggingface.co/ibm-granite/granite-vision-4.1-4b) |
+| Updated1 day ago | 3.38k | HauhauCS/Gemma4-26B-A4B-Uncensored-HauhauCS-BalancedImage-Text-to-Text | 25B | [Link](https://huggingface.co/HauhauCS/Gemma4-26B-A4B-Uncensored-HauhauCS-Balanced) |
 | Updatedabout 7 hours ago | 2.63k | nvidia/Eagle2 | 8B | [Link](https://huggingface.co/nvidia/Eagle2.5-8B) |
 | Updatedabout 7 hours ago | 2 | internlm/Intern-S1-FP8Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1-FP8) |
 | Updated1 day ago | 2.26k | Qwen/Qwen3-VL-235B-A22B-InstructImage-Text-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct) |
@@ -3130,6 +3132,7 @@ Updated on 2026-05-15
 | 9.9k | 31 | OleehyO/TexTellerImage-to-Text | UpdatedJun 22, 2024 | [Link](https://huggingface.co/OleehyO/TexTeller) |
 | UpdatedNov 11, 2025 | 31 | mlx-community/LightOnOCR-1B-1025-bf16Image-to-Text | 1B | [Link](https://huggingface.co/mlx-community/LightOnOCR-1B-1025-bf16) |
 | Updatedabout 13 hours ago | 31 | ADSKAILab/Zero-To-CAD-qwen-vl-2BImage-to-Text | 2B | [Link](https://huggingface.co/ADSKAILab/Zero-To-CAD-qwen-vl-2B) |
+| Updated6 days ago | 31 | PinkPixel/Mochi-2BImage-to-Text | 2B | [Link](https://huggingface.co/PinkPixel/Mochi-2B) |
 | UpdatedMay 25 | 30 | infly/INF-AZ-7B-0524Image-to-Text | 8B | [Link](https://huggingface.co/infly/INF-AZ-7B-0524) |
 | 1.65k | 29 | microsoft/git-large-textcapsImage-to-Text | UpdatedFeb 8, 2023 | [Link](https://huggingface.co/microsoft/git-large-textcaps) |
 | Updated9 days ago | 29 | unicorn-team/Unicorn-VL-R3Image-to-Text | 9B | [Link](https://huggingface.co/unicorn-team/Unicorn-VL-R3) |
@@ -6242,6 +6245,7 @@ Updated on 2026-05-15
 | 14 | 7 | SnJake/Ref2FontText-to-Image | Updated3 days ago | [Link](https://huggingface.co/SnJake/Ref2Font) |
 | 162 | 7 | CodeGoat24/FLUX | Updated2 days ago | [Link](https://huggingface.co/CodeGoat24/FLUX.2-klein-base-9B-UnifiedReward-Flex-lora) |
 | 403 | 7 | Limbicnation/pixel-art-loraText-to-Image | UpdatedFeb 11 | [Link](https://huggingface.co/Limbicnation/pixel-art-lora) |
+| 268 | 7 | BlackHat404/DefacationAnimaText-to-Image | Updated5 days ago | [Link](https://huggingface.co/BlackHat404/DefacationAnima) |
 | 1.07k | 6 | DFloat11/FLUX | Updated1 day ago | [Link](https://huggingface.co/DFloat11/FLUX.1-dev-DF11) |
 | 836 | 6 | Minthy/RouWei-0 | Updated3 days ago | [Link](https://huggingface.co/Minthy/RouWei-0.8) |
 | 169 | 6 | PosterCraft/PosterCraft-v1_RLText-to-Image | Updated2 days ago | [Link](https://huggingface.co/PosterCraft/PosterCraft-v1_RL) |
