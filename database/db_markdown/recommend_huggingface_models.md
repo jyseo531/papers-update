@@ -5033,6 +5033,7 @@ Updated on 2026-05-16
 | Updated4 days ago | 489 | AlicanKiraz0/Kara-Kumru-v1 | 2B | [Link](https://huggingface.co/AlicanKiraz0/Kara-Kumru-v1.0-2B) |
 | 894k | 486 | deepseek-ai/DeepSeek-R1-Distill-Qwen-7BText | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B) |
 | Updated6 days ago | 480 | huihui-ai/Huihui-GLM-4 | 353B | [Link](https://huggingface.co/huihui-ai/Huihui-GLM-4.6-abliterated-mlx-4bit) |
+| Updated3 days ago | 478 | JonasGeiping/stream-qwen3 | 27B | [Link](https://huggingface.co/JonasGeiping/stream-qwen3.5-27b) |
 | Updatedabout 10 hours ago | 466 | AIDC-AI/Marco-Nano-InstructText | 8B | [Link](https://huggingface.co/AIDC-AI/Marco-Nano-Instruct) |
 | Updatedabout 24 hours ago | 463 | PowerInfer/SmallThinker-4BA0 | 4B | [Link](https://huggingface.co/PowerInfer/SmallThinker-4BA0.6B-Instruct) |
 | Updatedabout 16 hours ago | 461 | MaziyarPanahi/VibeThinker-1 | 2B | [Link](https://huggingface.co/MaziyarPanahi/VibeThinker-1.5B-GGUF) |
