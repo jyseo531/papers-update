@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-05-16
+Updated on 2026-05-17
 
 > Generated from the Hugging Face database.
 
@@ -2281,6 +2281,7 @@ Updated on 2026-05-16
 | Updatedabout 17 hours ago | 9 | rootsautomation/GutenOCR-7BImage-Text-to-Text | 756k | [Link](https://huggingface.co/rootsautomation/GutenOCR-7B) |
 | Updatedabout 16 hours ago | 9.19k | google/gemma-4-26B-A4B-itImage-Text-to-Text | 27B | [Link](https://huggingface.co/google/gemma-4-26B-A4B-it) |
 | Updatedabout 16 hours ago | 9.12k | havenoammo/Qwen3 | 0.4B | [Link](https://huggingface.co/havenoammo/Qwen3.6-27B-MTP-UD-GGUF) |
+| Updated5 days ago | 9.7k | ggml-org/MiniCPM-V-4 | 0.8B | [Link](https://huggingface.co/ggml-org/MiniCPM-V-4.6-GGUF) |
 | 9.71k | 8 | lmstudio-community/gemma-3-27b-it-GGUFImage-Text-to-Text | Updatedabout 18 hours ago | [Link](https://huggingface.co/lmstudio-community/gemma-3-27b-it-GGUF) |
 | 2.95k | 8 | bartowski/google_gemma-3-4b-it-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF) |
 | 725 | 8 | Mungert/gemma-3-4b-it-ggufImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/Mungert/gemma-3-4b-it-gguf) |
@@ -2989,6 +2990,7 @@ Updated on 2026-05-16
 | UpdatedSep 7, 2024 | 743 | antoniorv6/smt-grandstaffImage-to-Text | 21.4M | [Link](https://huggingface.co/antoniorv6/smt-grandstaff) |
 | Updated6 days ago | 699 | mlx-community/GLM-OCR-8bitImage-to-Text | 0.6B | [Link](https://huggingface.co/mlx-community/GLM-OCR-8bit) |
 | UpdatedApr 28 | 631 | Hyphonical/Pixtral-12B-Captioner-Relaxed-Q4_K_M-GGUFImage-to-Text | 12B | [Link](https://huggingface.co/Hyphonical/Pixtral-12B-Captioner-Relaxed-Q4_K_M-GGUF) |
+| Updated7 days ago | 603 | PinkPixel/Mochi-2B-GGUFImage-to-Text | 2B | [Link](https://huggingface.co/PinkPixel/Mochi-2B-GGUF) |
 | UpdatedApr 9, 2025 | 599 | meta-llama/Llama-4-Maverick-17B-128EImage-to-Text | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E) |
 | UpdatedJan 29 | 586 | chatpig/llava-llama3Image-to-Text | 8B | [Link](https://huggingface.co/chatpig/llava-llama3) |
 | Updated1 day ago | 570 | HelloKKMe/GTA1-7BImage-to-Text | 8B | [Link](https://huggingface.co/HelloKKMe/GTA1-7B) |
@@ -3035,6 +3037,7 @@ Updated on 2026-05-16
 | UpdatedMay 22, 2025 | 161k | meta-llama/Llama-4-Maverick-17B-128E-InstructImage-to-Text | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct) |
 | 170k | 159 | microsoft/kosmos-2-patch14-224Image-to-Text | UpdatedNov 28, 2023 | [Link](https://huggingface.co/microsoft/kosmos-2-patch14-224) |
 | UpdatedApr 27, 2024 | 158 | gospacedev/blip-image-captioning-base-bf16Image-to-Text | 0.2B | [Link](https://huggingface.co/gospacedev/blip-image-captioning-base-bf16) |
+| Updated4 days ago | 158 | Awarebeyond/receipt-donutImage-to-Text | 0.2B | [Link](https://huggingface.co/Awarebeyond/receipt-donut) |
 | Updatedabout 17 hours ago | 156 | allenai/olmOCR-2-7B-1025-FP8Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-2-7B-1025-FP8) |
 | UpdatedJan 18 | 156 | srswti/Llama-3 | 11B | [Link](https://huggingface.co/srswti/Llama-3.2-11B-Vision-Instruct-abliterated) |
 | Updated27 days ago | 154k | nvidia/Cosmos-Reason1-7BImage-to-Text | 8B | [Link](https://huggingface.co/nvidia/Cosmos-Reason1-7B) |
@@ -5807,6 +5810,7 @@ Updated on 2026-05-16
 | 40 | Unknown | DMindAI/DMind-3-nanoText | Updatedabout 19 hours ago | [Link](https://huggingface.co/DMindAI/DMind-3-nano) |
 | 51 | Unknown | Tesslate/OmniCoder-9BText | Updatedabout 5 hours ago | [Link](https://huggingface.co/Tesslate/OmniCoder-9B) |
 | 26 | Unknown | Tesslate/OmniCoder-2-9BText | Updatedabout 11 hours ago | [Link](https://huggingface.co/Tesslate/OmniCoder-2-9B) |
+| 16 | Unknown | ByteDance-Seed/Cola-DLMText | Updated2 days ago | [Link](https://huggingface.co/ByteDance-Seed/Cola-DLM) |
 
 ## Text Ranking
 
