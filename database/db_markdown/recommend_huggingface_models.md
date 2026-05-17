@@ -364,6 +364,7 @@ Updated on 2026-05-17
 | 6 | Unknown | huihui-ai/Huihui-gemma-4-31B-it-abliterated-v2Any-to-Any | Updatedabout 9 hours ago | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-31B-it-abliterated-v2) |
 | 8 | Unknown | HKUSTAudio/Audio-OmniAny-to-Any | Updatedabout 6 hours ago | [Link](https://huggingface.co/HKUSTAudio/Audio-Omni) |
 | 5 | Unknown | zghhui/OmniNFTAny-to-Any | Updated2 days ago | [Link](https://huggingface.co/zghhui/OmniNFT) |
+| 18 | Unknown | bytedance-research/LanceAny-to-Any | Updatedabout 2 hours ago | [Link](https://huggingface.co/bytedance-research/Lance) |
 
 ## Audio Classification
 
@@ -5135,6 +5136,7 @@ Updated on 2026-05-17
 | Updatedabout 6 hours ago | 136 | naver-hyperclovax/HyperCLOVAX-SEED-Think-14BText | 15B | [Link](https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Think-14B) |
 | 324 | 133 | moonshotai/Kimi-Dev-72BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-Dev-72B) |
 | Updated5 days ago | 132 | microsoft/OptiMind-SFTText | 21B | [Link](https://huggingface.co/microsoft/OptiMind-SFT) |
+| Updated2 days ago | 132 | Gryphe/WorldSim-Opus-3 | 35B | [Link](https://huggingface.co/Gryphe/WorldSim-Opus-3.6-35B-A3B) |
 | Updated1 day ago | 129 | allenai/Bolmo-1BText | 1B | [Link](https://huggingface.co/allenai/Bolmo-1B) |
 | Updated6 days ago | 128 | arcee-ai/Trinity-Mini-BaseText | 26B | [Link](https://huggingface.co/arcee-ai/Trinity-Mini-Base) |
 | Updatedabout 18 hours ago | 125 | NousResearch/Hermes-4-405BText | 406B | [Link](https://huggingface.co/NousResearch/Hermes-4-405B) |
@@ -5548,6 +5550,7 @@ Updated on 2026-05-17
 | Updatedabout 17 hours ago | 18 | Menlo/LucyText | 2B | [Link](https://huggingface.co/Menlo/Lucy) |
 | Updatedabout 8 hours ago | 18 | nvidia/Nemotron-Cascade-2-30B-A3BText | 32B | [Link](https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B) |
 | Updated9 days ago | 18.1k | bartowski/nvidia_Nemotron-Cascade-2-30B-A3B-GGUFText | 32B | [Link](https://huggingface.co/bartowski/nvidia_Nemotron-Cascade-2-30B-A3B-GGUF) |
+| Updatedabout 5 hours ago | 18 | FINAL-Bench/Darwin-28B-REASONText | 27B | [Link](https://huggingface.co/FINAL-Bench/Darwin-28B-REASON) |
 | 60 | 17 | open-thoughts/OpenThinker2-32BText | Updated1 day ago | [Link](https://huggingface.co/open-thoughts/OpenThinker2-32B) |
 | 274 | 17 | microsoft/MAI-DS-R1-FP8Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/microsoft/MAI-DS-R1-FP8) |
 | 40 | 17 | nvidia/OpenMath-Nemotron-32BText | Updated1 day ago | [Link](https://huggingface.co/nvidia/OpenMath-Nemotron-32B) |
@@ -6601,6 +6604,7 @@ Updated on 2026-05-17
 | Updated3 days ago | 182 | fnlp/MOSS-TTSD-v0 | 2B | [Link](https://huggingface.co/fnlp/MOSS-TTSD-v0.5) |
 | Updated6 days ago | 171 | baicai1145/s2-pro-w4a16Text-to-Speech | 5B | [Link](https://huggingface.co/baicai1145/s2-pro-w4a16) |
 | Updatedabout 5 hours ago | 169k | Qwen/Qwen3-TTS-12Hz-1 | 2B | [Link](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice) |
+| Updated1 day ago | 165 | kjanh/KhanhTTS-OmniVoiceText-to-Speech | 0.6B | [Link](https://huggingface.co/kjanh/KhanhTTS-OmniVoice) |
 | Updated1 day ago | 164 | kugelaudio/kugelaudio-0-openText-to-Speech | 9B | [Link](https://huggingface.co/kugelaudio/kugelaudio-0-open) |
 | Updatedabout 8 hours ago | 160 | neuphonic/neutts-airText-to-Speech | 0.7B | [Link](https://huggingface.co/neuphonic/neutts-air) |
 | 86.4k | 142 | Qwen/Qwen3-TTS-12Hz-0 | Updatedabout 5 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-0.6B-Base) |
