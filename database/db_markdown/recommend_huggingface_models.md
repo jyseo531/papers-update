@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-05-17
+Updated on 2026-05-18
 
 > Generated from the Hugging Face database.
 
@@ -2977,6 +2977,7 @@ Updated on 2026-05-17
 | 2 | Unknown | NorskRegnesentralSTI/DiffFuSRImage-to-Image | UpdatedJan 16 | [Link](https://huggingface.co/NorskRegnesentralSTI/DiffFuSR) |
 | 25 |  | ovi054/QIE-2511-Color-Grade-Transfer-LoRAImage-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/ovi054/QIE-2511-Color-Grade-Transfer-LoRA) |
 | 11 | Unknown | isp-uv-es/superIXImage-to-Image | UpdatedMay 28, 2024 | [Link](https://huggingface.co/isp-uv-es/superIX) |
+| 4 | Unknown | tori29umai/QwenImageEdit2511_LoRAImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/tori29umai/QwenImageEdit2511_LoRA) |
 
 ## Image-to-Text
 
@@ -3077,6 +3078,7 @@ Updated on 2026-05-17
 | Updated11 days ago | 73 | nightmedia/UI-Venus-1 | 8B | [Link](https://huggingface.co/nightmedia/UI-Venus-1.5-30B-A3B-qx86-hi-mlx) |
 | 131 | 71 | keras-io/ocr-for-captchaImage-to-Text | UpdatedMay 29, 2022 | [Link](https://huggingface.co/keras-io/ocr-for-captcha) |
 | Updated5 days ago | 70 | virtuous7373/Lambent-Mira-EratoImage-to-Text | 27B | [Link](https://huggingface.co/virtuous7373/Lambent-Mira-Erato) |
+| Updated2 days ago | 70 | KrorngAI/TrorYongOCRImage-to-Text | 7.09M | [Link](https://huggingface.co/KrorngAI/TrorYongOCR) |
 | UpdatedSep 24, 2024 | 69 | impactframes/Qwen2-VL-7B-CaptionerImage-to-Text | 8B | [Link](https://huggingface.co/impactframes/Qwen2-VL-7B-Captioner) |
 | Updated6 days ago | 68 | smolagents/Qwen2 | 4B | [Link](https://huggingface.co/smolagents/Qwen2.5-VL-3B-Instruct-Agentic) |
 | UpdatedJul 22, 2024 | 68 | lenamerkli/ingredient-scannerImage-to-Text | 0.5B | [Link](https://huggingface.co/lenamerkli/ingredient-scanner) |
@@ -3451,6 +3453,7 @@ Updated on 2026-05-17
 | Updated11 days ago | 1.79k | mradermacher/Garnet-OCR-3B-0422-i1-GGUFImage-to-Text | 3B | [Link](https://huggingface.co/mradermacher/Garnet-OCR-3B-0422-i1-GGUF) |
 | 99 | 1 | mudasir13cs/qwen25-vl-3b-floorplan-sftImage-to-Text | Updated5 days ago | [Link](https://huggingface.co/mudasir13cs/qwen25-vl-3b-floorplan-sft) |
 | 90 | 1 | mudasir13cs/qwen25-vl-3b-floorplan-grpoImage-to-Text | Updated5 days ago | [Link](https://huggingface.co/mudasir13cs/qwen25-vl-3b-floorplan-grpo) |
+| 16 | 1 | Brusnicki/SAVANT-scene-description-loraImage-to-Text | Updated4 days ago | [Link](https://huggingface.co/Brusnicki/SAVANT-scene-description-lora) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -6081,6 +6084,7 @@ Updated on 2026-05-17
 | Updated5 days ago | 662 | Gthalmie1/moody-real-mix-v4-dpo-ggufText-to-Image | 6B | [Link](https://huggingface.co/Gthalmie1/moody-real-mix-v4-dpo-gguf) |
 | Updated1 day ago | 650 | ponpoke/flux2-klein-9b-uncensored-text-encoderText-to-Image | 8B | [Link](https://huggingface.co/ponpoke/flux2-klein-9b-uncensored-text-encoder) |
 | 8.63k | 644 | ostris/OpenFLUX | UpdatedOct 3, 2024 | [Link](https://huggingface.co/ostris/OpenFLUX.1) |
+| Updated6 days ago | 556 | mlx-community/HiDream-O1-Image-Dev-mlx-bf16Text-to-Image | 9B | [Link](https://huggingface.co/mlx-community/HiDream-O1-Image-Dev-mlx-bf16) |
 | Updatedabout 5 hours ago | 494 | unsloth/Qwen-Image-GGUFText-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-GGUF) |
 | 28.8k | 470 | Shakker-Labs/AWPortrait-FLText-to-Image | UpdatedSep 5, 2024 | [Link](https://huggingface.co/Shakker-Labs/AWPortrait-FL) |
 | Updated3 days ago | 461 | wbruna/TwinFlow-Z-Image-Turbo-sdcpp-GGUFText-to-Image | 6B | [Link](https://huggingface.co/wbruna/TwinFlow-Z-Image-Turbo-sdcpp-GGUF) |
