@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-05-18
+Updated on 2026-05-19
 
 > Generated from the Hugging Face database.
 
@@ -3140,6 +3140,7 @@ Updated on 2026-05-18
 | Updatedabout 13 hours ago | 31 | ADSKAILab/Zero-To-CAD-qwen-vl-2BImage-to-Text | 2B | [Link](https://huggingface.co/ADSKAILab/Zero-To-CAD-qwen-vl-2B) |
 | Updated6 days ago | 31 | PinkPixel/Mochi-2BImage-to-Text | 2B | [Link](https://huggingface.co/PinkPixel/Mochi-2B) |
 | UpdatedMay 25 | 30 | infly/INF-AZ-7B-0524Image-to-Text | 8B | [Link](https://huggingface.co/infly/INF-AZ-7B-0524) |
+| UpdatedJul 25, 2025 | 30 | Charansaiponnada/vijayawada-traffic-accessibility-v2-fixedImage-to-Text | 0.2B | [Link](https://huggingface.co/Charansaiponnada/vijayawada-traffic-accessibility-v2-fixed) |
 | 1.65k | 29 | microsoft/git-large-textcapsImage-to-Text | UpdatedFeb 8, 2023 | [Link](https://huggingface.co/microsoft/git-large-textcaps) |
 | Updated9 days ago | 29 | unicorn-team/Unicorn-VL-R3Image-to-Text | 9B | [Link](https://huggingface.co/unicorn-team/Unicorn-VL-R3) |
 | Updated6 days ago | 28 | daniel3303/QwenStoryteller2Image-to-Text | 8B | [Link](https://huggingface.co/daniel3303/QwenStoryteller2) |
@@ -3454,6 +3455,7 @@ Updated on 2026-05-18
 | 99 | 1 | mudasir13cs/qwen25-vl-3b-floorplan-sftImage-to-Text | Updated5 days ago | [Link](https://huggingface.co/mudasir13cs/qwen25-vl-3b-floorplan-sft) |
 | 90 | 1 | mudasir13cs/qwen25-vl-3b-floorplan-grpoImage-to-Text | Updated5 days ago | [Link](https://huggingface.co/mudasir13cs/qwen25-vl-3b-floorplan-grpo) |
 | 16 | 1 | Brusnicki/SAVANT-scene-description-loraImage-to-Text | Updated4 days ago | [Link](https://huggingface.co/Brusnicki/SAVANT-scene-description-lora) |
+| 4 | 1 | RogerFerrod/RSICRCImage-to-Text | UpdatedFeb 15 | [Link](https://huggingface.co/RogerFerrod/RSICRC) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -5098,6 +5100,7 @@ Updated on 2026-05-18
 | Updated1 day ago | 231 | Abiray/LTX2 | 21B | [Link](https://huggingface.co/Abiray/LTX2.3-10Eros-GGUF) |
 | Updated2 days ago | 220 | utter-project/EuroLLM-22B-Instruct-2512Text | 23B | [Link](https://huggingface.co/utter-project/EuroLLM-22B-Instruct-2512) |
 | Updatedabout 18 hours ago | 217 | google/gemma-3-270mText | 0.3B | [Link](https://huggingface.co/google/gemma-3-270m) |
+| Updated2 days ago | 216 | Simplified-Reasoning/SU-01Text | 31B | [Link](https://huggingface.co/Simplified-Reasoning/SU-01) |
 | 2.13k | 215 | XiaomiMiMo/MiMo-7B-RLText | Updatedabout 12 hours ago | [Link](https://huggingface.co/XiaomiMiMo/MiMo-7B-RL) |
 | Updatedabout 11 hours ago | 206 | NousResearch/Hermes-4 | 36B | [Link](https://huggingface.co/NousResearch/Hermes-4.3-36B) |
 | 427 | 204 | microsoft/MAI-DS-R1Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/microsoft/MAI-DS-R1) |
@@ -6551,6 +6554,7 @@ Updated on 2026-05-18
 | 6 | Unknown | Emanon14/Nameless-AnimaText-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/Emanon14/Nameless-Anima) |
 | 18 | Unknown | Winnougan/Must_Have_Klein_9b_lorasText-to-Image | UpdatedMar 26 | [Link](https://huggingface.co/Winnougan/Must_Have_Klein_9b_loras) |
 | 34 | Unknown | snwy/SD1 | Updatedabout 10 hours ago | [Link](https://huggingface.co/snwy/SD1.5-DALLE-2) |
+| 21.9k |  | kenerateai/Flux-uncensoredText-to-Image | Updated4 days ago | [Link](https://huggingface.co/kenerateai/Flux-uncensored) |
 
 ## Text-to-Speech
 
@@ -7309,6 +7313,8 @@ Updated on 2026-05-18
 | 5 | Unknown | nvidia/Wan2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/Wan2.2-T2V-A14B-Diffusers-FP8) |
 | 2 | Unknown | nvidia/AnyFlow-Wan2 | Updatedabout 2 hours ago | [Link](https://huggingface.co/nvidia/AnyFlow-Wan2.1-T2V-14B-Diffusers) |
 | 3 | Unknown | Andro0s/LTX_2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/Andro0s/LTX_2.3_Pixar_Toon_Style_LoRa) |
+| 3 | Unknown | INV-WZQ/ReactiveGWM-ModelsText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/INV-WZQ/ReactiveGWM-Models) |
+| 3 | Unknown | mvp-lab/RAVENText-to-Video | Updated3 days ago | [Link](https://huggingface.co/mvp-lab/RAVEN) |
 
 ## Text2Text Generation
 
