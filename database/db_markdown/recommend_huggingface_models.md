@@ -5260,6 +5260,7 @@ Updated on 2026-05-19
 | Updatedabout 5 hours ago | 57 | LiquidAI/LFM2-8B-A1BText | 8B | [Link](https://huggingface.co/LiquidAI/LFM2-8B-A1B) |
 | Updatedabout 16 hours ago | 57 | arcee-ai/Trinity-Nano-PreviewText | 6B | [Link](https://huggingface.co/arcee-ai/Trinity-Nano-Preview) |
 | Updated1 day ago | 57 | LocoreMind/LocoOperator-4BText | 4B | [Link](https://huggingface.co/LocoreMind/LocoOperator-4B) |
+| Updatedabout 21 hours ago | 57 | sapientinc/HRM-Text-1BText | 1B | [Link](https://huggingface.co/sapientinc/HRM-Text-1B) |
 | 143 | 55 | unsloth/DeepSeek-R1-0528-GGUFText | Updatedabout 1 hour ago | [Link](https://huggingface.co/unsloth/DeepSeek-R1-0528-GGUF) |
 | 7 | 55 | Qwen/Qwen3-Embedding-0 | Updatedabout 10 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B) |
 | Updatedabout 19 hours ago | 55 | PhysicsWallahAI/Aryabhata-1 | 8B | [Link](https://huggingface.co/PhysicsWallahAI/Aryabhata-1.0) |
@@ -5751,6 +5752,7 @@ Updated on 2026-05-19
 | Updated1 day ago | 1.83k | lordx64/Qwen3 | 36B | [Link](https://huggingface.co/lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled) |
 | Updated1 day ago | 1.03k | OsaurusAI/MiniMax-M2 | 10B | [Link](https://huggingface.co/OsaurusAI/MiniMax-M2.7-Small-JANGTQ) |
 | Updated7 days ago | 1.96k | Brian6145/Qwen3 | 20B | [Link](https://huggingface.co/Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP) |
+| Updated2 days ago | 1.54k | chiennv/Orthrus-Qwen3-8BText | 10B | [Link](https://huggingface.co/chiennv/Orthrus-Qwen3-8B) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -6282,6 +6284,7 @@ Updated on 2026-05-19
 | 79 | 6 | byliutao/Longcat-Image-TurboText-to-Image | Updated1 day ago | [Link](https://huggingface.co/byliutao/Longcat-Image-Turbo) |
 | 336 | 6 | Danrisi/UltraReal_FineTune_Anima3Text-to-Image | Updated5 days ago | [Link](https://huggingface.co/Danrisi/UltraReal_FineTune_Anima3) |
 | 103 | 6 | byliutao/stable-diffusion-3-medium-turboText-to-Image | Updated4 days ago | [Link](https://huggingface.co/byliutao/stable-diffusion-3-medium-turbo) |
+| 8 | 6 | SeeSee21/AniSeeText-to-Image | Updated1 day ago | [Link](https://huggingface.co/SeeSee21/AniSee) |
 | 42 | 5 | Shakker-Labs/RepTextText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Shakker-Labs/RepText) |
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
@@ -6555,6 +6558,7 @@ Updated on 2026-05-19
 | 18 | Unknown | Winnougan/Must_Have_Klein_9b_lorasText-to-Image | UpdatedMar 26 | [Link](https://huggingface.co/Winnougan/Must_Have_Klein_9b_loras) |
 | 34 | Unknown | snwy/SD1 | Updatedabout 10 hours ago | [Link](https://huggingface.co/snwy/SD1.5-DALLE-2) |
 | 21.9k |  | kenerateai/Flux-uncensoredText-to-Image | Updated4 days ago | [Link](https://huggingface.co/kenerateai/Flux-uncensored) |
+| 5 | Unknown | Abiray/Anima-base-v1 | Updated3 days ago | [Link](https://huggingface.co/Abiray/Anima-base-v1.0-FP8-INT8) |
 
 ## Text-to-Speech
 
@@ -7315,6 +7319,7 @@ Updated on 2026-05-19
 | 3 | Unknown | Andro0s/LTX_2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/Andro0s/LTX_2.3_Pixar_Toon_Style_LoRa) |
 | 3 | Unknown | INV-WZQ/ReactiveGWM-ModelsText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/INV-WZQ/ReactiveGWM-Models) |
 | 3 | Unknown | mvp-lab/RAVENText-to-Video | Updated3 days ago | [Link](https://huggingface.co/mvp-lab/RAVEN) |
+| 4 | Unknown | Efficient-Large-Model/LongLive-2 | Updatedabout 2 hours ago | [Link](https://huggingface.co/Efficient-Large-Model/LongLive-2.0-5B) |
 
 ## Text2Text Generation
 
