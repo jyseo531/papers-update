@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-05-19
+Updated on 2026-05-20
 
 > Generated from the Hugging Face database.
 
@@ -2320,6 +2320,7 @@ Updated on 2026-05-19
 | 18 | 7 | NexaAI/AutoNeuralImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/NexaAI/AutoNeural) |
 | 126 | 7 | kacperwikiel/RysOCRImage-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/kacperwikiel/RysOCR) |
 | Updatedabout 4 hours ago | 7 | google/medgemma-1 | 4B | [Link](https://huggingface.co/google/medgemma-1.5-4b-it) |
+| Updatedabout 3 hours ago | 7.05M | zai-org/GLM-OCRImage-Text-to-Text | 1B | [Link](https://huggingface.co/zai-org/GLM-OCR) |
 | 160 | 6 | MIL-UT/Asagi-14BImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/MIL-UT/Asagi-14B) |
 | Updatedabout 8 hours ago | 6.26k | Qwen/Qwen3-VL-30B-A3B-ThinkingImage-Text-to-Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Thinking) |
 | Updatedabout 14 hours ago | 6 | Qwen/Qwen3-VL-8B-InstructImage-Text-to-Text | 9B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct) |
@@ -6559,6 +6560,7 @@ Updated on 2026-05-19
 | 34 | Unknown | snwy/SD1 | Updatedabout 10 hours ago | [Link](https://huggingface.co/snwy/SD1.5-DALLE-2) |
 | 21.9k |  | kenerateai/Flux-uncensoredText-to-Image | Updated4 days ago | [Link](https://huggingface.co/kenerateai/Flux-uncensored) |
 | 5 | Unknown | Abiray/Anima-base-v1 | Updated3 days ago | [Link](https://huggingface.co/Abiray/Anima-base-v1.0-FP8-INT8) |
+| 254 |  | Efficient-Large-Model/Sana_1600M_1024pxText-to-Image | UpdatedOct 28, 2025 | [Link](https://huggingface.co/Efficient-Large-Model/Sana_1600M_1024px) |
 
 ## Text-to-Speech
 
@@ -6743,6 +6745,7 @@ Updated on 2026-05-19
 | Updated2 days ago | 8 | OmniAICreator/Galgame-Llasa-1B-v2Text-to-Speech | 1B | [Link](https://huggingface.co/OmniAICreator/Galgame-Llasa-1B-v2) |
 | UpdatedJan 21 | 8.3k | akh99/veena-hinglishText-to-Speech | 4B | [Link](https://huggingface.co/akh99/veena-hinglish) |
 | Updatedabout 13 hours ago | 8 | Aratako/Irodori-TTS-500M-v3Text-to-Speech | 0.5B | [Link](https://huggingface.co/Aratako/Irodori-TTS-500M-v3) |
+| 12 | 8 | ErnarBahat/Spark-TTS-KazakhText-to-Speech | UpdatedJan 20 | [Link](https://huggingface.co/ErnarBahat/Spark-TTS-Kazakh) |
 | 1.11k | 7 | DragonLineageAI/Vi-SparkTTS-0 | Updatedabout 10 hours ago | [Link](https://huggingface.co/DragonLineageAI/Vi-SparkTTS-0.5B) |
 | 9 | 7 | canopylabs/3b-zh-pretrain-research_releaseText-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/canopylabs/3b-zh-pretrain-research_release) |
 | 618 | 7 | canopylabs/3b-de-pretrain-research_releaseText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/canopylabs/3b-de-pretrain-research_release) |
