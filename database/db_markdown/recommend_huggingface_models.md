@@ -2400,6 +2400,7 @@ Updated on 2026-05-20
 | Updated3 days ago | 1.83k | Ex0bit/MYTHOS-26B-A4B-PRISM-PRO-DQ-GGUFImage-Text-to-Text | 25B | [Link](https://huggingface.co/Ex0bit/MYTHOS-26B-A4B-PRISM-PRO-DQ-GGUF) |
 | Updated2 days ago | 1.99k | Jiunsong/supergemma4-26b-abliterated-multimodalImage-Text-to-Text | 26B | [Link](https://huggingface.co/Jiunsong/supergemma4-26b-abliterated-multimodal) |
 | Updated4 days ago | 1.42k | Jiunsong/supergemma4-26b-abliterated-multimodal-mlx-4bitImage-Text-to-Text | 5B | [Link](https://huggingface.co/Jiunsong/supergemma4-26b-abliterated-multimodal-mlx-4bit) |
+| Updatedabout 9 hours ago | 1.16k | numind/NuExtract3Image-Text-to-Text | 5B | [Link](https://huggingface.co/numind/NuExtract3) |
 | 1.07M |  | meta-llama/Llama-3 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) |
 | 1.49M |  | Qwen/Qwen2-VL-7B-InstructImage-Text-to-Text | Updated19 days ago | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) |
 | 288k |  | microsoft/Phi-3 | UpdatedSep 26, 2024 | [Link](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) |
@@ -5619,6 +5620,7 @@ Updated on 2026-05-20
 | Updatedabout 10 hours ago | 11.9k | unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUFText | 31B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUF) |
 | Updatedabout 16 hours ago | 11.6k | unsloth/MiniMax-M2-GGUFText | 229B | [Link](https://huggingface.co/unsloth/MiniMax-M2-GGUF) |
 | Updatedabout 3 hours ago | 11 | LGAI-EXAONE/K-EXAONE-236B-A23BText | 237B | [Link](https://huggingface.co/LGAI-EXAONE/K-EXAONE-236B-A23B) |
+| Updatedabout 10 hours ago | 11 | nvidia/Nemotron-Labs-Diffusion-14BText | 14B | [Link](https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-14B) |
 | Updatedabout 1 hour ago | 10.3k | unsloth/gemma-3-270m-it-GGUFText | 0.3B | [Link](https://huggingface.co/unsloth/gemma-3-270m-it-GGUF) |
 | Updated1 day ago | 10 | FINAL-Bench/Darwin-35B-A3B-OpusText | 36B | [Link](https://huggingface.co/FINAL-Bench/Darwin-35B-A3B-Opus) |
 | Updatedabout 4 hours ago | 9 | meituan-longcat/LongCat-Flash-ChatText | 562B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Chat) |
@@ -7050,6 +7052,7 @@ Updated on 2026-05-20
 | 471 | 11 | Skywork/SkyReels-V2-DF-14B-540PText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-DF-14B-540P) |
 | 23 | 10 | APRIL-AIGC/T3-VideoText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/APRIL-AIGC/T3-Video) |
 | 363 | 9 | Skywork/SkyReels-V2-T2V-14B-540PText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-T2V-14B-540P) |
+| 96 | 9 | Scrappy-Doo/LTX_2 | Updated5 days ago | [Link](https://huggingface.co/Scrappy-Doo/LTX_2.3_Pixar_Toon_Style_LoRa) |
 | 638 | 8 | calcuis/mochiText-to-Video | Updated22 days ago | [Link](https://huggingface.co/calcuis/mochi) |
 | 123k | 8 | guoyww/animatediff-motion-lora-zoom-inText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-zoom-in) |
 | 680 | 8 | a-r-r-o-w/LTX-Video-0 | UpdatedMar 18 | [Link](https://huggingface.co/a-r-r-o-w/LTX-Video-0.9.1-diffusers) |
