@@ -2440,6 +2440,9 @@ Updated on 2026-05-21
 | 9 | Unknown | Skywork/R1V4Image-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/Skywork/R1V4) |
 | 11k |  | moonshotai/Kimi-K2 | Updatedabout 1 hour ago | [Link](https://huggingface.co/moonshotai/Kimi-K2.5) |
 | 53 | Unknown | internlm/Intern-S1-ProImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/internlm/Intern-S1-Pro) |
+| Updatedabout 12 hours ago |  | CohereLabs/command-a-plus-05-2026-w4a4Image-Text-to-Text | 126B | [Link](https://huggingface.co/CohereLabs/command-a-plus-05-2026-w4a4) |
+| Updatedabout 12 hours ago |  | CohereLabs/command-a-plus-05-2026-bf16Image-Text-to-Text | 219B | [Link](https://huggingface.co/CohereLabs/command-a-plus-05-2026-bf16) |
+| Updatedabout 12 hours ago |  | CohereLabs/command-a-plus-05-2026-fp8Image-Text-to-Text | 219B | [Link](https://huggingface.co/CohereLabs/command-a-plus-05-2026-fp8) |
 
 ## Image-to-3D
 
@@ -2981,6 +2984,7 @@ Updated on 2026-05-21
 | 25 |  | ovi054/QIE-2511-Color-Grade-Transfer-LoRAImage-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/ovi054/QIE-2511-Color-Grade-Transfer-LoRA) |
 | 11 | Unknown | isp-uv-es/superIXImage-to-Image | UpdatedMay 28, 2024 | [Link](https://huggingface.co/isp-uv-es/superIX) |
 | 4 | Unknown | tori29umai/QwenImageEdit2511_LoRAImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/tori29umai/QwenImageEdit2511_LoRA) |
+| 505 |  | zachyuan/Qwen-Image-Edit-2511-Multiple-Angles-LoRAImage-to-Image | UpdatedApr 1 | [Link](https://huggingface.co/zachyuan/Qwen-Image-Edit-2511-Multiple-Angles-LoRA) |
 
 ## Image-to-Text
 
@@ -6573,6 +6577,7 @@ Updated on 2026-05-21
 | 21.9k |  | kenerateai/Flux-uncensoredText-to-Image | Updated4 days ago | [Link](https://huggingface.co/kenerateai/Flux-uncensored) |
 | 5 | Unknown | Abiray/Anima-base-v1 | Updated3 days ago | [Link](https://huggingface.co/Abiray/Anima-base-v1.0-FP8-INT8) |
 | 254 |  | Efficient-Large-Model/Sana_1600M_1024pxText-to-Image | UpdatedOct 28, 2025 | [Link](https://huggingface.co/Efficient-Large-Model/Sana_1600M_1024px) |
+| 14 | Unknown | oron1208/OOO_AnimaText-to-Image | Updatedabout 15 hours ago | [Link](https://huggingface.co/oron1208/OOO_Anima) |
 
 ## Text-to-Speech
 
