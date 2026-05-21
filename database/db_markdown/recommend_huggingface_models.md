@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-05-21
+Updated on 2026-05-22
 
 > Generated from the Hugging Face database.
 
@@ -2994,6 +2994,7 @@ Updated on 2026-05-21
 | UpdatedAug 25 | 929 | shenasa/persian-image-captioningImage-to-Text | 0.2B | [Link](https://huggingface.co/shenasa/persian-image-captioning) |
 | UpdatedJan 20 | 893 | HuggingFaceTB/SmolVLM-500M-BaseImage-to-Text | 0.5B | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-500M-Base) |
 | Updated3 days ago | 858 | mlx-community/GLM-OCR-bf16Image-to-Text | 1B | [Link](https://huggingface.co/mlx-community/GLM-OCR-bf16) |
+| Updatedabout 3 hours ago | 854 | mradermacher/Bbox-caption-8b-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/mradermacher/Bbox-caption-8b-GGUF) |
 | UpdatedFeb 2 | 834 | JEILDLWLRMA/Qwen3-VL-8B-Instruct-NVFP4Image-to-Text | 6B | [Link](https://huggingface.co/JEILDLWLRMA/Qwen3-VL-8B-Instruct-NVFP4) |
 | UpdatedFeb 3 | 814 | mlx-community/GLM-OCR-4bitImage-to-Text | 0.5B | [Link](https://huggingface.co/mlx-community/GLM-OCR-4bit) |
 | UpdatedSep 7, 2024 | 743 | antoniorv6/smt-grandstaffImage-to-Text | 21.4M | [Link](https://huggingface.co/antoniorv6/smt-grandstaff) |
@@ -3154,6 +3155,7 @@ Updated on 2026-05-21
 | Updated6 days ago | 28 | daniel3303/QwenStoryteller2Image-to-Text | 8B | [Link](https://huggingface.co/daniel3303/QwenStoryteller2) |
 | UpdatedOct 18 | 28 | ardaocak/llava-1 | 7B | [Link](https://huggingface.co/ardaocak/llava-1.5-7b-food-calorie-estimator) |
 | Updated5 days ago | 28 | sbintuitions/sarashina2 | 4B | [Link](https://huggingface.co/sbintuitions/sarashina2.2-vision-3b) |
+| UpdatedFeb 10 | 28 | noctrex/UI-Venus-1 | 2B | [Link](https://huggingface.co/noctrex/UI-Venus-1.5-2B-GGUF) |
 | 809 | 27 | MixTex/ZhEn-Latex-OCRImage-to-Text | UpdatedJul 30, 2024 | [Link](https://huggingface.co/MixTex/ZhEn-Latex-OCR) |
 | UpdatedMay 22, 2025 | 27.9k | meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8Image-to-Text | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8) |
 | 290 | 26 | paragon-AI/blip2-image-to-textImage-to-Text | UpdatedJun 24, 2023 | [Link](https://huggingface.co/paragon-AI/blip2-image-to-text) |
@@ -3548,6 +3550,7 @@ Updated on 2026-05-21
 | 2 | Unknown | MeiGen-AI/PosterReward_v1Image-to-Text | Updated25 days ago | [Link](https://huggingface.co/MeiGen-AI/PosterReward_v1) |
 | 1 | Unknown | mweinbach/nemotron-ocr-v2-mlxImage-to-Text | Updated26 days ago | [Link](https://huggingface.co/mweinbach/nemotron-ocr-v2-mlx) |
 | 1 | Unknown | leadingtorch/circuit-reasoning-google-gemma-4-31B-it-thinking-enabledImage-to-Text | Updated11 days ago | [Link](https://huggingface.co/leadingtorch/circuit-reasoning-google-gemma-4-31B-it-thinking-enabled) |
+| 1 | Unknown | luisf-mc/gui-g2-3b-ccfImage-to-Text | Updated30 days ago | [Link](https://huggingface.co/luisf-mc/gui-g2-3b-ccf) |
 
 ## Image-to-Video
 
@@ -5428,6 +5431,7 @@ Updated on 2026-05-21
 | Updated2 days ago | 29 | Writer/palmyra-mini-thinking-aText | 2B | [Link](https://huggingface.co/Writer/palmyra-mini-thinking-a) |
 | Updatedabout 5 hours ago | 29 | unsloth/MiniMax-M2 | 229B | [Link](https://huggingface.co/unsloth/MiniMax-M2.1-GGUF) |
 | Updatedabout 19 hours ago | 29 | IQuestLab/IQuest-Coder-V1-40B-InstructText | 40B | [Link](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Instruct) |
+| Updated18 days ago | 29.5k | WithinUsAI/Opus4 | 4B | [Link](https://huggingface.co/WithinUsAI/Opus4.7-GODs.Ghost.Codex-4B.GGuF) |
 | 426 | 28 | LGAI-EXAONE/EXAONE-Deep-32B-GGUFText | Updatedabout 13 hours ago | [Link](https://huggingface.co/LGAI-EXAONE/EXAONE-Deep-32B-GGUF) |
 | 319 | 28 | nvidia/Llama-3 | Updated3 days ago | [Link](https://huggingface.co/nvidia/Llama-3.1-Nemotron-Nano-8B-v1) |
 | 7.28k | 28 | bartowski/Qwen_Qwen3-32B-GGUFText | Updated1 day ago | [Link](https://huggingface.co/bartowski/Qwen_Qwen3-32B-GGUF) |
@@ -6134,6 +6138,7 @@ Updated on 2026-05-21
 | UpdatedNov 17, 2024 | 229 | advokat/AnimePro-FLUXText-to-Image | 12B | [Link](https://huggingface.co/advokat/AnimePro-FLUX) |
 | 247k | 227 | SG161222/Realistic_Vision_V5 | Updated20 days ago | [Link](https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE) |
 | 126k | 206 | RunDiffusion/Juggernaut-XL-v9Text-to-Image | UpdatedDec 11, 2024 | [Link](https://huggingface.co/RunDiffusion/Juggernaut-XL-v9) |
+| Updated1 day ago | 189 | RockTalk/Lance-3B-MLXText-to-Image | 6B | [Link](https://huggingface.co/RockTalk/Lance-3B-MLX) |
 | 37.6k | 156 | tianweiy/DMD2Text-to-Image | UpdatedJun 11, 2024 | [Link](https://huggingface.co/tianweiy/DMD2) |
 | 35.7k | 147 | nunchaku-ai/nunchaku-z-image-turboText-to-Image | Updated15 days ago | [Link](https://huggingface.co/nunchaku-ai/nunchaku-z-image-turbo) |
 | 168k | 140 | SG161222/RealVisXL_V5 | UpdatedOct 8, 2024 | [Link](https://huggingface.co/SG161222/RealVisXL_V5.0) |
@@ -6787,6 +6792,7 @@ Updated on 2026-05-21
 | 10 | 6 | silma-ai/silma-ttsText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/silma-ai/silma-tts) |
 | Updatedabout 11 hours ago | 6 | Aratako/Irodori-TTS-500M-v2Text-to-Speech | 0.5B | [Link](https://huggingface.co/Aratako/Irodori-TTS-500M-v2) |
 | Updatedabout 9 hours ago | 6 | p1atdev/Irodori-TTS-500M-v2-Character-Voice-SigLIPText-to-Speech | 0.5B | [Link](https://huggingface.co/p1atdev/Irodori-TTS-500M-v2-Character-Voice-SigLIP) |
+| Updatedabout 2 hours ago | 6 | hotdogs/omnivoice-thaiText-to-Speech | 0.6B | [Link](https://huggingface.co/hotdogs/omnivoice-thai) |
 | 87 | 5 | lunahr/csm-1b-safetensors-quantsText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-quants) |
 | 26 | 5 | 2121-8/canary-tts-0 | Updatedabout 19 hours ago | [Link](https://huggingface.co/2121-8/canary-tts-0.5b) |
 | 12 | 5 | MYZY-AI/Muyan-TTS-SFTText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/MYZY-AI/Muyan-TTS-SFT) |
@@ -6873,6 +6879,7 @@ Updated on 2026-05-21
 | 28 | 3 | CoRal-project/roest-v3-chatterbox-500mText-to-Speech | Updated5 days ago | [Link](https://huggingface.co/CoRal-project/roest-v3-chatterbox-500m) |
 | 67 | 3 | NAMAA-Space/NAMAA-Saudi-TTS-V2Text-to-Speech | Updated4 days ago | [Link](https://huggingface.co/NAMAA-Space/NAMAA-Saudi-TTS-V2) |
 | 74 | 3 | CompactAI-O/Flare-TTS-28MText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/CompactAI-O/Flare-TTS-28M) |
+| 34 | 3 | modernjack3/Dramabox_DiT_SulfurText-to-Speech | Updatedabout 3 hours ago | [Link](https://huggingface.co/modernjack3/Dramabox_DiT_Sulfur) |
 | 2.36M | 2.41k | coqui/XTTS-v2Text-to-Speech | UpdatedDec 11, 2023 | [Link](https://huggingface.co/coqui/XTTS-v2) |
 | 153 | 2 | mmwillet2/Dia_GGUFText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/mmwillet2/Dia_GGUF) |
 | 55 | 2 | unsloth/Spark-TTS-0 | Updated2 days ago | [Link](https://huggingface.co/unsloth/Spark-TTS-0.5B) |
