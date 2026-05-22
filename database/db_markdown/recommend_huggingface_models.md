@@ -161,6 +161,7 @@ Updated on 2026-05-22
 | UpdatedJul 9 | 8 | toandev/donglao-gemma-3-4b-it-viAny-to-Any | 4B | [Link](https://huggingface.co/toandev/donglao-gemma-3-4b-it-vi) |
 | Updated13 days ago | 8.66k | llmfan46/gemma-4-E4B-it-uncensored-heretic-GGUFAny-to-Any | 8B | [Link](https://huggingface.co/llmfan46/gemma-4-E4B-it-uncensored-heretic-GGUF) |
 | Updatedabout 1 hour ago | 8 | sensenova/SenseNova-U1-8B-MoT-InfographicAny-to-Any | 18B | [Link](https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-Infographic) |
+| 211 | 8 | DavidAU/gemma-4-E4B-it-The-DECKARD-V3-Expresso-HERETIC-UNCENSORED-ThinkingAny-to-Any | UpdatedApr 14 | [Link](https://huggingface.co/DavidAU/gemma-4-E4B-it-The-DECKARD-V3-Expresso-HERETIC-UNCENSORED-Thinking) |
 | 612 | 7 | internlm/internlm-xcomposer2d5-7b-rewardAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/internlm/internlm-xcomposer2d5-7b-reward) |
 | 16 | 7 | FunAGI/Qwen2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/FunAGI/Qwen2.5-Omni-7B-GPTQ-4bit) |
 | Updatedabout 5 hours ago | 7 | wikeeyang/Nexus-GenV2-nf4-fp8Any-to-Any | 5B | [Link](https://huggingface.co/wikeeyang/Nexus-GenV2-nf4-fp8) |
@@ -365,6 +366,7 @@ Updated on 2026-05-22
 | 8 | Unknown | HKUSTAudio/Audio-OmniAny-to-Any | Updatedabout 6 hours ago | [Link](https://huggingface.co/HKUSTAudio/Audio-Omni) |
 | 5 | Unknown | zghhui/OmniNFTAny-to-Any | Updated2 days ago | [Link](https://huggingface.co/zghhui/OmniNFT) |
 | 18 | Unknown | bytedance-research/LanceAny-to-Any | Updatedabout 2 hours ago | [Link](https://huggingface.co/bytedance-research/Lance) |
+| 5 | Unknown | cyberneurova/CyberNeurova-Lance-3B-abliteratedAny-to-Any | Updated1 day ago | [Link](https://huggingface.co/cyberneurova/CyberNeurova-Lance-3B-abliterated) |
 
 ## Audio Classification
 
@@ -2372,6 +2374,7 @@ Updated on 2026-05-22
 | Updated4 days ago | 2.57k | coder3101/gemma-4-26B-A4B-it-hereticImage-Text-to-Text | 26B | [Link](https://huggingface.co/coder3101/gemma-4-26B-A4B-it-heretic) |
 | Updated4 days ago | 2.62k | Ex0bit/Gemma4-26B-A4B-PRISM-PRO-DQ-GGUFImage-Text-to-Text | 25B | [Link](https://huggingface.co/Ex0bit/Gemma4-26B-A4B-PRISM-PRO-DQ-GGUF) |
 | Updated4 days ago | 2.27k | zlaabsi/Qwen3 | 27B | [Link](https://huggingface.co/zlaabsi/Qwen3.6-27B-OTQ-GGUF) |
+| Updated2 days ago | 2.66k | byteshape/Qwen3 | 36B | [Link](https://huggingface.co/byteshape/Qwen3.6-35B-A3B-MTP-GGUF) |
 | 2.72k | 1.62k | microsoft/OmniParserImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/microsoft/OmniParser) |
 | 100k | 1.4k | stepfun-ai/GOT-OCR2_0Image-Text-to-Text | Updated21 days ago | [Link](https://huggingface.co/stepfun-ai/GOT-OCR2_0) |
 | 1.78M | 1.42k | microsoft/Florence-2-largeImage-Text-to-Text | UpdatedDec 8, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-large) |
@@ -5607,6 +5610,7 @@ Updated on 2026-05-22
 | Updatedabout 15 hours ago | 16 | aquif-ai/aquif-3 | 42B | [Link](https://huggingface.co/aquif-ai/aquif-3.5-Max-42B-A3B) |
 | Updatedabout 19 hours ago | 16 | Alibaba-Apsara/DASD-30B-A3B-Thinking-PreviewText | 31B | [Link](https://huggingface.co/Alibaba-Apsara/DASD-30B-A3B-Thinking-Preview) |
 | Updatedabout 16 hours ago | 16.6k | unsloth/NVIDIA-Nemotron-3-Super-120B-A12B-GGUFText | 121B | [Link](https://huggingface.co/unsloth/NVIDIA-Nemotron-3-Super-120B-A12B-GGUF) |
+| Updated2 days ago | 16.5k | nvidia/Nemotron-Labs-Diffusion-8BText | 8B | [Link](https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-8B) |
 | 60 | 15 | Zhihu-ai/Zhi-writing-dsr1-14bText | Updated3 days ago | [Link](https://huggingface.co/Zhihu-ai/Zhi-writing-dsr1-14b) |
 | 72 | 15 | DMindAI/DMind-1Text | Updatedabout 23 hours ago | [Link](https://huggingface.co/DMindAI/DMind-1) |
 | 23 | 15 | sarvamai/sarvam-mText | Updatedabout 2 hours ago | [Link](https://huggingface.co/sarvamai/sarvam-m) |
@@ -6230,6 +6234,7 @@ Updated on 2026-05-22
 | 43 | 11 | WarmBloodAban/Flux2_Klein_Anything_to_Real_CharactersText-to-Image | Updated1 day ago | [Link](https://huggingface.co/WarmBloodAban/Flux2_Klein_Anything_to_Real_Characters) |
 | 109 | 11 | UDCAI/Z-Image-Fun-Distill-ComfyUIText-to-Image | Updated1 day ago | [Link](https://huggingface.co/UDCAI/Z-Image-Fun-Distill-ComfyUI) |
 | 1.18k | 11 | linoyts/Flux2-Klein-Delight-LoRAText-to-Image | Updated13 days ago | [Link](https://huggingface.co/linoyts/Flux2-Klein-Delight-LoRA) |
+| 133 | 11 | microsoft/LensText-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/microsoft/Lens) |
 |  | 10 | strangerzonehf/Real-ClaymationText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/strangerzonehf/Real-Claymation) |
 | 17 | 10 | zhang0jhon/flux_waveletText-to-Image | Updated5 days ago | [Link](https://huggingface.co/zhang0jhon/flux_wavelet) |
 | 36 | 10 | codermert/ozgeefinalText-to-Image | Updated6 days ago | [Link](https://huggingface.co/codermert/ozgeefinal) |
@@ -6583,6 +6588,7 @@ Updated on 2026-05-22
 | 5 | Unknown | Abiray/Anima-base-v1 | Updated3 days ago | [Link](https://huggingface.co/Abiray/Anima-base-v1.0-FP8-INT8) |
 | 254 |  | Efficient-Large-Model/Sana_1600M_1024pxText-to-Image | UpdatedOct 28, 2025 | [Link](https://huggingface.co/Efficient-Large-Model/Sana_1600M_1024px) |
 | 14 | Unknown | oron1208/OOO_AnimaText-to-Image | Updatedabout 15 hours ago | [Link](https://huggingface.co/oron1208/OOO_Anima) |
+| 26.3k |  | Baraje/SexGod_NSFW_Female_Nudes_QWEN_Image_Edit_2511Text-to-Image | Updated30 days ago | [Link](https://huggingface.co/Baraje/SexGod_NSFW_Female_Nudes_QWEN_Image_Edit_2511) |
 
 ## Text-to-Speech
 
@@ -7349,6 +7355,7 @@ Updated on 2026-05-22
 | 3 | Unknown | INV-WZQ/ReactiveGWM-ModelsText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/INV-WZQ/ReactiveGWM-Models) |
 | 3 | Unknown | mvp-lab/RAVENText-to-Video | Updated3 days ago | [Link](https://huggingface.co/mvp-lab/RAVEN) |
 | 4 | Unknown | Efficient-Large-Model/LongLive-2 | Updatedabout 2 hours ago | [Link](https://huggingface.co/Efficient-Large-Model/LongLive-2.0-5B) |
+| 3 | Unknown | 6kplus/PhyMotion-CausalForcing-1 | Updated6 days ago | [Link](https://huggingface.co/6kplus/PhyMotion-CausalForcing-1.3B) |
 
 ## Text2Text Generation
 
