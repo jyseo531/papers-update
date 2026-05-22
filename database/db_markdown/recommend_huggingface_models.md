@@ -3271,6 +3271,7 @@ Updated on 2026-05-22
 | Updated26 days ago | 7 | Cosmobillian/radiologist_llamaImage-to-Text | 11B | [Link](https://huggingface.co/Cosmobillian/radiologist_llama) |
 | UpdatedMay 12, 2025 | 7.07k | unsloth/gemma-3-12b-it-bnb-4bitImage-to-Text | 13B | [Link](https://huggingface.co/unsloth/gemma-3-12b-it-bnb-4bit) |
 | UpdatedNov 24, 2025 | 7 | jKqfO84n/Qwen3-VL-8B-Instruct-HereticImage-to-Text | 9B | [Link](https://huggingface.co/jKqfO84n/Qwen3-VL-8B-Instruct-Heretic) |
+| UpdatedAug 6, 2025 | 7 | zelus82/verity-1AImage-to-Text | 0.2B | [Link](https://huggingface.co/zelus82/verity-1A) |
 | 624 | 6 | fhswf/TrOCR_Math_handwrittenImage-to-Text | UpdatedOct 21, 2024 | [Link](https://huggingface.co/fhswf/TrOCR_Math_handwritten) |
 | 511 | 6 | microsoft/trocr-base-strImage-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-base-str) |
 | Updated21 days ago | 6.36k | allenai/olmOCR-7B-0225-preview-FP8Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview-FP8) |
@@ -5629,6 +5630,7 @@ Updated on 2026-05-22
 | Updatedabout 11 hours ago | 14 | CohereLabs/command-a-translate-08-2025Text | 111B | [Link](https://huggingface.co/CohereLabs/command-a-translate-08-2025) |
 | Updated1 day ago | 14 | nvidia/Nemotron-Cascade-14B-ThinkingText | 15B | [Link](https://huggingface.co/nvidia/Nemotron-Cascade-14B-Thinking) |
 | Updated3 days ago | 14.9k | janhq/Jan-v3-4B-base-instruct-ggufText | 4B | [Link](https://huggingface.co/janhq/Jan-v3-4B-base-instruct-gguf) |
+| Updated3 days ago | 14.2k | nvidia/Nemotron-Labs-Diffusion-3BText | 4B | [Link](https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-3B) |
 | Updatedabout 23 hours ago | 13 | inclusionAI/Ring-flash-linear-2 | 104B | [Link](https://huggingface.co/inclusionAI/Ring-flash-linear-2.0) |
 | Updated1 day ago | 13 | cerebras/MiniMax-M2-REAP-162B-A10BText | 162B | [Link](https://huggingface.co/cerebras/MiniMax-M2-REAP-162B-A10B) |
 | Updatedabout 22 hours ago | 13.2k | unsloth/Qwen3-Next-80B-A3B-Thinking-GGUFText | 80B | [Link](https://huggingface.co/unsloth/Qwen3-Next-80B-A3B-Thinking-GGUF) |
@@ -6179,6 +6181,7 @@ Updated on 2026-05-22
 | Updated1 day ago | 37 | wikeeyang/Flux2-Klein-9B-True-V2Text-to-Image | 9B | [Link](https://huggingface.co/wikeeyang/Flux2-Klein-9B-True-V2) |
 | 5.59k | 33 | hashu786/HYVRewardText-to-Image | Updated5 days ago | [Link](https://huggingface.co/hashu786/HYVReward) |
 | 2.49k | 33 | Heartsync/NSFW-UncensoredText-to-Image | Updated7 days ago | [Link](https://huggingface.co/Heartsync/NSFW-Uncensored) |
+| 116 | 31 | microsoft/Lens-TurboText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/microsoft/Lens-Turbo) |
 | 1.59k | 29 | nunchaku-tech/nunchaku-z-image-turboText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-z-image-turbo) |
 | 145 | 28 | ByteDance/XVerseText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/ByteDance/XVerse) |
 | 2.41k | 27 | stanfordmimi/MerlinText-to-Image | UpdatedMar 4 | [Link](https://huggingface.co/stanfordmimi/Merlin) |
@@ -6312,6 +6315,7 @@ Updated on 2026-05-22
 | 336 | 6 | Danrisi/UltraReal_FineTune_Anima3Text-to-Image | Updated5 days ago | [Link](https://huggingface.co/Danrisi/UltraReal_FineTune_Anima3) |
 | 103 | 6 | byliutao/stable-diffusion-3-medium-turboText-to-Image | Updated4 days ago | [Link](https://huggingface.co/byliutao/stable-diffusion-3-medium-turbo) |
 | 8 | 6 | SeeSee21/AniSeeText-to-Image | Updated1 day ago | [Link](https://huggingface.co/SeeSee21/AniSee) |
+| 71 | 6 | microsoft/Lens-BaseText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/microsoft/Lens-Base) |
 | 42 | 5 | Shakker-Labs/RepTextText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Shakker-Labs/RepText) |
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
