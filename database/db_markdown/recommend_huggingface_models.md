@@ -2989,6 +2989,7 @@ Updated on 2026-05-23
 | 11 | Unknown | isp-uv-es/superIXImage-to-Image | UpdatedMay 28, 2024 | [Link](https://huggingface.co/isp-uv-es/superIX) |
 | 4 | Unknown | tori29umai/QwenImageEdit2511_LoRAImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/tori29umai/QwenImageEdit2511_LoRA) |
 | 505 |  | zachyuan/Qwen-Image-Edit-2511-Multiple-Angles-LoRAImage-to-Image | UpdatedApr 1 | [Link](https://huggingface.co/zachyuan/Qwen-Image-Edit-2511-Multiple-Angles-LoRA) |
+| 4 | Unknown | yjitiu/ComfyUI-Binyuan-SamplerImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/yjitiu/ComfyUI-Binyuan-Sampler) |
 
 ## Image-to-Text
 
@@ -5120,6 +5121,7 @@ Updated on 2026-05-23
 | Updatedabout 10 hours ago | 233 | Qwen/Qwen3-Coder-NextText | 80B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-Next) |
 | Updatedabout 10 hours ago | 232 | inclusionAI/Ling-mini-2 | 16B | [Link](https://huggingface.co/inclusionAI/Ling-mini-2.0) |
 | Updated1 day ago | 231 | Abiray/LTX2 | 21B | [Link](https://huggingface.co/Abiray/LTX2.3-10Eros-GGUF) |
+| UpdatedSep 8, 2024 | 222k | NousResearch/Hermes-3-Llama-3 | 8B | [Link](https://huggingface.co/NousResearch/Hermes-3-Llama-3.1-8B) |
 | Updated2 days ago | 220 | utter-project/EuroLLM-22B-Instruct-2512Text | 23B | [Link](https://huggingface.co/utter-project/EuroLLM-22B-Instruct-2512) |
 | Updatedabout 18 hours ago | 217 | google/gemma-3-270mText | 0.3B | [Link](https://huggingface.co/google/gemma-3-270m) |
 | Updated2 days ago | 216 | Simplified-Reasoning/SU-01Text | 31B | [Link](https://huggingface.co/Simplified-Reasoning/SU-01) |
@@ -5781,6 +5783,7 @@ Updated on 2026-05-23
 | Updated7 days ago | 1.96k | Brian6145/Qwen3 | 20B | [Link](https://huggingface.co/Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP) |
 | Updated2 days ago | 1.54k | chiennv/Orthrus-Qwen3-8BText | 10B | [Link](https://huggingface.co/chiennv/Orthrus-Qwen3-8B) |
 | Updatedabout 2 hours ago | 1.11k | HuggingFaceBio/Carbon-8BText | 8B | [Link](https://huggingface.co/HuggingFaceBio/Carbon-8B) |
+| Updatedabout 4 hours ago | 1.86k | OBLITERATUS/Qwen3 | 27B | [Link](https://huggingface.co/OBLITERATUS/Qwen3.6-27B-OBLITERATED) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -7033,6 +7036,7 @@ Updated on 2026-05-23
 | Updated2 days ago | 590 | Abiray/LTX-2 | 21B | [Link](https://huggingface.co/Abiray/LTX-2.3-22B-DISTILLED-1.1-GGUF) |
 | Updated19 days ago | 571 | vantagewithai/TurboWan2 | 14B | [Link](https://huggingface.co/vantagewithai/TurboWan2.1-T2V-14B-720P-ComfyUI-GGUF) |
 | Updatedabout 3 hours ago | 496 | calcuis/wan2-ggufText-to-Video | 0.1B | [Link](https://huggingface.co/calcuis/wan2-gguf) |
+| Updatedabout 17 hours ago | 485 | mlx-community/Lance-3B-Video-bf16Text-to-Video | 6B | [Link](https://huggingface.co/mlx-community/Lance-3B-Video-bf16) |
 | 23.8k | 473 | cerspense/zeroscope_v2_576wText-to-Video | UpdatedJul 1, 2023 | [Link](https://huggingface.co/cerspense/zeroscope_v2_576w) |
 | 4.01k | 461 | ali-vilab/modelscope-damo-text-to-video-synthesisText-to-Video | UpdatedMar 29, 2023 | [Link](https://huggingface.co/ali-vilab/modelscope-damo-text-to-video-synthesis) |
 | UpdatedAug 9, 2025 | 456 | calcuis/mochi-ggufText-to-Video | 10B | [Link](https://huggingface.co/calcuis/mochi-gguf) |
