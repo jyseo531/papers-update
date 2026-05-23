@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-05-22
+Updated on 2026-05-23
 
 > Generated from the Hugging Face database.
 
@@ -31,6 +31,7 @@ Updated on 2026-05-22
 | Updatedabout 12 hours ago | 470 | google/gemma-4-26B-A4B-it-assistantAny-to-Any | 0.4B | [Link](https://huggingface.co/google/gemma-4-26B-A4B-it-assistant) |
 | Updatedabout 14 hours ago | 450 | google/gemma-4-E4B-it-assistantAny-to-Any | 78.8M | [Link](https://huggingface.co/google/gemma-4-E4B-it-assistant) |
 | Updated3 days ago | 443 | cpatonn/Qwen3-Omni-30B-A3B-Instruct-AWQ-8bitAny-to-Any | 14B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Instruct-AWQ-8bit) |
+| Updated2 days ago | 438 | samuelchristlie/Lance-GGUFAny-to-Any | 6B | [Link](https://huggingface.co/samuelchristlie/Lance-GGUF) |
 | Updated22 days ago | 408 | cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-8bitAny-to-Any | 10B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-8bit) |
 | UpdatedJun 9 | 405 | RedHatAI/gemma-3-4b-it-FP8-dynamicAny-to-Any | 4B | [Link](https://huggingface.co/RedHatAI/gemma-3-4b-it-FP8-dynamic) |
 | Updatedabout 16 hours ago | 398 | QuantStack/HiDream-E1-1-GGUFAny-to-Any | 17B | [Link](https://huggingface.co/QuantStack/HiDream-E1-1-GGUF) |
@@ -3032,6 +3033,7 @@ Updated on 2026-05-22
 | Updatedabout 1 month ago | 274 | ZihCiLin/trocr-traditional-chinese-baselineImage-to-Text | 0.3B | [Link](https://huggingface.co/ZihCiLin/trocr-traditional-chinese-baseline) |
 | UpdatedSep 16, 2025 | 245 | mradermacher/Qwen2-VL-2B-Abliterated-Caption-it-GGUFImage-to-Text | 2B | [Link](https://huggingface.co/mradermacher/Qwen2-VL-2B-Abliterated-Caption-it-GGUF) |
 | UpdatedNov 15, 2024 | 242 | TIGER-Lab/Mantis-8B-Idefics2Image-to-Text | 8B | [Link](https://huggingface.co/TIGER-Lab/Mantis-8B-Idefics2) |
+| UpdatedJul 31, 2025 | 236 | mradermacher/QwenStoryteller2-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/mradermacher/QwenStoryteller2-GGUF) |
 | UpdatedMar 8 | 234 | convergence-ai/proxy-lite-3bImage-to-Text | 4B | [Link](https://huggingface.co/convergence-ai/proxy-lite-3b) |
 | Updatedabout 13 hours ago | 234 | PinkPixel/Pixel-2B-GGUFImage-to-Text | 2B | [Link](https://huggingface.co/PinkPixel/Pixel-2B-GGUF) |
 | Updated2 days ago | 230 | HelloKKMe/GTA1-32BImage-to-Text | 33B | [Link](https://huggingface.co/HelloKKMe/GTA1-32B) |
