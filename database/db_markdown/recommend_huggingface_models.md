@@ -3036,6 +3036,7 @@ Updated on 2026-05-24
 | Updatedabout 1 month ago | 274 | ZihCiLin/trocr-traditional-chinese-baselineImage-to-Text | 0.3B | [Link](https://huggingface.co/ZihCiLin/trocr-traditional-chinese-baseline) |
 | UpdatedSep 16, 2025 | 245 | mradermacher/Qwen2-VL-2B-Abliterated-Caption-it-GGUFImage-to-Text | 2B | [Link](https://huggingface.co/mradermacher/Qwen2-VL-2B-Abliterated-Caption-it-GGUF) |
 | UpdatedNov 15, 2024 | 242 | TIGER-Lab/Mantis-8B-Idefics2Image-to-Text | 8B | [Link](https://huggingface.co/TIGER-Lab/Mantis-8B-Idefics2) |
+| UpdatedJul 29, 2024 | 241 | paran3xus/typress_ocrImage-to-Text | 29.4M | [Link](https://huggingface.co/paran3xus/typress_ocr) |
 | UpdatedJul 31, 2025 | 236 | mradermacher/QwenStoryteller2-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/mradermacher/QwenStoryteller2-GGUF) |
 | UpdatedMar 8 | 234 | convergence-ai/proxy-lite-3bImage-to-Text | 4B | [Link](https://huggingface.co/convergence-ai/proxy-lite-3b) |
 | Updatedabout 13 hours ago | 234 | PinkPixel/Pixel-2B-GGUFImage-to-Text | 2B | [Link](https://huggingface.co/PinkPixel/Pixel-2B-GGUF) |
@@ -3058,6 +3059,7 @@ Updated on 2026-05-24
 | Updated4 days ago | 158 | Awarebeyond/receipt-donutImage-to-Text | 0.2B | [Link](https://huggingface.co/Awarebeyond/receipt-donut) |
 | Updatedabout 17 hours ago | 156 | allenai/olmOCR-2-7B-1025-FP8Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-2-7B-1025-FP8) |
 | UpdatedJan 18 | 156 | srswti/Llama-3 | 11B | [Link](https://huggingface.co/srswti/Llama-3.2-11B-Vision-Instruct-abliterated) |
+| Updatedabout 17 hours ago | 155 | Felldude/Ministral-3-8B-Uncensored-FP8Image-to-Text | 9B | [Link](https://huggingface.co/Felldude/Ministral-3-8B-Uncensored-FP8) |
 | Updated27 days ago | 154k | nvidia/Cosmos-Reason1-7BImage-to-Text | 8B | [Link](https://huggingface.co/nvidia/Cosmos-Reason1-7B) |
 | UpdatedMay 27 | 150 | songhieng/khmer-trocr-ocr-v1 | 0.4B | [Link](https://huggingface.co/songhieng/khmer-trocr-ocr-v1.0) |
 | UpdatedFeb 3 | 150 | mlx-community/GLM-OCR-6bitImage-to-Text | 0.6B | [Link](https://huggingface.co/mlx-community/GLM-OCR-6bit) |
@@ -5619,6 +5621,7 @@ Updated on 2026-05-24
 | Updatedabout 19 hours ago | 16 | Alibaba-Apsara/DASD-30B-A3B-Thinking-PreviewText | 31B | [Link](https://huggingface.co/Alibaba-Apsara/DASD-30B-A3B-Thinking-Preview) |
 | Updatedabout 16 hours ago | 16.6k | unsloth/NVIDIA-Nemotron-3-Super-120B-A12B-GGUFText | 121B | [Link](https://huggingface.co/unsloth/NVIDIA-Nemotron-3-Super-120B-A12B-GGUF) |
 | Updated2 days ago | 16.5k | nvidia/Nemotron-Labs-Diffusion-8BText | 8B | [Link](https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-8B) |
+| 295 | 16 | openbmb/BitCPM-CANN-8BText | Updatedabout 3 hours ago | [Link](https://huggingface.co/openbmb/BitCPM-CANN-8B) |
 | 60 | 15 | Zhihu-ai/Zhi-writing-dsr1-14bText | Updated3 days ago | [Link](https://huggingface.co/Zhihu-ai/Zhi-writing-dsr1-14b) |
 | 72 | 15 | DMindAI/DMind-1Text | Updatedabout 23 hours ago | [Link](https://huggingface.co/DMindAI/DMind-1) |
 | 23 | 15 | sarvamai/sarvam-mText | Updatedabout 2 hours ago | [Link](https://huggingface.co/sarvamai/sarvam-m) |
@@ -5787,6 +5790,7 @@ Updated on 2026-05-24
 | Updated2 days ago | 1.54k | chiennv/Orthrus-Qwen3-8BText | 10B | [Link](https://huggingface.co/chiennv/Orthrus-Qwen3-8B) |
 | Updatedabout 2 hours ago | 1.11k | HuggingFaceBio/Carbon-8BText | 8B | [Link](https://huggingface.co/HuggingFaceBio/Carbon-8B) |
 | Updatedabout 4 hours ago | 1.86k | OBLITERATUS/Qwen3 | 27B | [Link](https://huggingface.co/OBLITERATUS/Qwen3.6-27B-OBLITERATED) |
+| UpdatedJul 23, 2024 | 1.29k | aifeifei798/llama3-8B-DarkIdol-2 | 8B | [Link](https://huggingface.co/aifeifei798/llama3-8B-DarkIdol-2.3-Uncensored-32K) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -6324,6 +6328,7 @@ Updated on 2026-05-24
 | 103 | 6 | byliutao/stable-diffusion-3-medium-turboText-to-Image | Updated4 days ago | [Link](https://huggingface.co/byliutao/stable-diffusion-3-medium-turbo) |
 | 8 | 6 | SeeSee21/AniSeeText-to-Image | Updated1 day ago | [Link](https://huggingface.co/SeeSee21/AniSee) |
 | 71 | 6 | microsoft/Lens-BaseText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/microsoft/Lens-Base) |
+| 453 | 6 | Danrisi/UltraReal_FineTune_Anima_base1Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/Danrisi/UltraReal_FineTune_Anima_base1) |
 | 42 | 5 | Shakker-Labs/RepTextText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Shakker-Labs/RepText) |
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
