@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-05-23
+Updated on 2026-05-24
 
 > Generated from the Hugging Face database.
 
@@ -2570,6 +2570,7 @@ Updated on 2026-05-23
 | 71k | 114 | mit-han-lab/nunchaku-flux | Updatedabout 8 hours ago | [Link](https://huggingface.co/mit-han-lab/nunchaku-flux.1-kontext-dev) |
 | 28.7k | 113 | lllyasviel/control_v11p_sd15_inpaintImage-to-Image | UpdatedMay 26, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_inpaint) |
 | 13.5k | 113 | lllyasviel/control_v11f1e_sd15_tileImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11f1e_sd15_tile) |
+| Updated2 days ago | 112 | mlx-community/Lance-3B-bf16Image-to-Image | 6B | [Link](https://huggingface.co/mlx-community/Lance-3B-bf16) |
 | 15.3k | 109 | lllyasviel/control_v11p_sd15_openposeImage-to-Image | UpdatedAug 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_openpose) |
 | 4.13k | 88 | tlennon-ie/qwen-edit-skinImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/tlennon-ie/qwen-edit-skin) |
 | 6.03k | 85 | DiffSynth-Studio/Qwen-Image-Edit-F2PImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/DiffSynth-Studio/Qwen-Image-Edit-F2P) |
@@ -2749,6 +2750,7 @@ Updated on 2026-05-23
 | 522 | 3 | Jonny001/Qwen-Image-Edit-Remove-ClothesImage-to-Image | UpdatedAug 29, 2025 | [Link](https://huggingface.co/Jonny001/Qwen-Image-Edit-Remove-Clothes) |
 | 221 | 3 | nhathoangfoto/Flux | Updated7 days ago | [Link](https://huggingface.co/nhathoangfoto/Flux.2-Klein-9B-Mannequin) |
 |  | 3 | ovi054/QIE-2511-Draw2Photo-LoRAImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/ovi054/QIE-2511-Draw2Photo-LoRA) |
+| 79 | 3 | internlm/ETCHR-FLUX | Updated1 day ago | [Link](https://huggingface.co/internlm/ETCHR-FLUX.2-klein-9B) |
 | 67 | 2 | SherryXTChen/InstructCLIP-InstructPix2PixImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/SherryXTChen/InstructCLIP-InstructPix2Pix) |
 | 17 | 2 | SherryXTChen/Instruct-CLIPImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/SherryXTChen/Instruct-CLIP) |
 | 76 | 2 | VisualCloze/VisualClozePipeline-384Image-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/VisualCloze/VisualClozePipeline-384) |
@@ -5250,6 +5252,7 @@ Updated on 2026-05-23
 | Updated3 days ago | 73 | kurakurai/Luth-LFM2-1 | 1B | [Link](https://huggingface.co/kurakurai/Luth-LFM2-1.2B) |
 | 1.65k | 72 | perplexity-ai/r1-1776-distill-llama-70bText | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776-distill-llama-70b) |
 | 3.22k | 72 | sarvamai/sarvam-1Text | UpdatedNov 8, 2024 | [Link](https://huggingface.co/sarvamai/sarvam-1) |
+| Updated4 days ago | 72 | FINAL-Bench/Darwin-28B-CoderText | 27B | [Link](https://huggingface.co/FINAL-Bench/Darwin-28B-Coder) |
 | 37 | 71 | microsoft/Phi-4-reasoning-plusText | Updated13 days ago | [Link](https://huggingface.co/microsoft/Phi-4-reasoning-plus) |
 | Updatedabout 2 hours ago | 71 | moonshotai/Kimi-Linear-48B-A3B-BaseText | 49B | [Link](https://huggingface.co/moonshotai/Kimi-Linear-48B-A3B-Base) |
 | Updatedabout 8 hours ago | 71 | unsloth/Qwen3-Coder-Next-GGUFText | 80B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-Next-GGUF) |
@@ -6825,6 +6828,7 @@ Updated on 2026-05-23
 | 589 | 5 | mlx-community/VoxCPM2-4bitText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/mlx-community/VoxCPM2-4bit) |
 | Updated4 days ago | 5 | kizuna-intelligence/Irodori-TTS-500M-v2-duration-controlText-to-Speech | 0.5B | [Link](https://huggingface.co/kizuna-intelligence/Irodori-TTS-500M-v2-duration-control) |
 | 18 | 5 | XRXRX/X-VoiceText-to-Speech | Updated5 days ago | [Link](https://huggingface.co/XRXRX/X-Voice) |
+| Updatedabout 14 hours ago | 5 | aguken-ai/Qwen-3-TTS-12Hz-0 | 0.9B | [Link](https://huggingface.co/aguken-ai/Qwen-3-TTS-12Hz-0.6B-Base-hi-LoRA-Finetuned-BNB-NF4) |
 | 5 | 4 | lunahr/csm-1b-safetensors-fp16Text-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-fp16) |
 | 2 | 4 | VAGOsolutions/SauerkrautTTS-Preview-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/VAGOsolutions/SauerkrautTTS-Preview-0.1) |
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
@@ -7366,6 +7370,7 @@ Updated on 2026-05-23
 | 3 | Unknown | mvp-lab/RAVENText-to-Video | Updated3 days ago | [Link](https://huggingface.co/mvp-lab/RAVEN) |
 | 4 | Unknown | Efficient-Large-Model/LongLive-2 | Updatedabout 2 hours ago | [Link](https://huggingface.co/Efficient-Large-Model/LongLive-2.0-5B) |
 | 3 | Unknown | 6kplus/PhyMotion-CausalForcing-1 | Updated6 days ago | [Link](https://huggingface.co/6kplus/PhyMotion-CausalForcing-1.3B) |
+| 3 | Unknown | HKUSTAudio/Talker-T2AVText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/HKUSTAudio/Talker-T2AV) |
 
 ## Text2Text Generation
 
