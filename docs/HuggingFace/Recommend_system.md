@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-05-24
+Updated on 2026-05-25
 
 > Generated from the Hugging Face database.
 
@@ -2992,6 +2992,7 @@ Updated on 2026-05-24
 | 4 | Unknown | tori29umai/QwenImageEdit2511_LoRAImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/tori29umai/QwenImageEdit2511_LoRA) |
 | 505 |  | zachyuan/Qwen-Image-Edit-2511-Multiple-Angles-LoRAImage-to-Image | UpdatedApr 1 | [Link](https://huggingface.co/zachyuan/Qwen-Image-Edit-2511-Multiple-Angles-LoRA) |
 | 4 | Unknown | yjitiu/ComfyUI-Binyuan-SamplerImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/yjitiu/ComfyUI-Binyuan-Sampler) |
+| 3 | Unknown | nvidia/PiDImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/nvidia/PiD) |
 
 ## Image-to-Text
 
@@ -3409,6 +3410,8 @@ Updated on 2026-05-24
 | Updated18 days ago | 2.79k | KuroTo4ka/Qwen3-VL-8B-Instruct-Unredacted-MAX-Quants-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/KuroTo4ka/Qwen3-VL-8B-Instruct-Unredacted-MAX-Quants-GGUF) |
 | 352k | 2 | PaddlePaddle/en_PP-OCRv5_mobile_recImage-to-Text | UpdatedAug 29, 2025 | [Link](https://huggingface.co/PaddlePaddle/en_PP-OCRv5_mobile_rec) |
 | Updatedabout 4 hours ago | 2 | numind/NuExtract3-FP8Image-to-Text | 5B | [Link](https://huggingface.co/numind/NuExtract3-FP8) |
+| 1.84k | 2 | PaddlePaddle/PP-OCRv4_server_seal_detImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv4_server_seal_det) |
+| 3.36k | 2 | PaddlePaddle/PP-OCRv4_server_detImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv4_server_det) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -3480,6 +3483,9 @@ Updated on 2026-05-24
 | 16 | 1 | Brusnicki/SAVANT-scene-description-loraImage-to-Text | Updated4 days ago | [Link](https://huggingface.co/Brusnicki/SAVANT-scene-description-lora) |
 | 4 | 1 | RogerFerrod/RSICRCImage-to-Text | UpdatedFeb 15 | [Link](https://huggingface.co/RogerFerrod/RSICRC) |
 | Updatedabout 6 hours ago | 1.72k | numind/NuExtract3Image-to-Text | 5B | [Link](https://huggingface.co/numind/NuExtract3) |
+| 4.8k | 1 | PaddlePaddle/PP-OCRv3_mobile_detImage-to-Text | UpdatedJul 23, 2025 | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv3_mobile_det) |
+| 139 | 1 | PaddlePaddle/ka_PP-OCRv3_mobile_recImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/ka_PP-OCRv3_mobile_rec) |
+| 2.97k | 1 | PaddlePaddle/en_PP-OCRv3_mobile_recImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/en_PP-OCRv3_mobile_rec) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -5072,6 +5078,7 @@ Updated on 2026-05-24
 | Updatedabout 10 hours ago | 466 | AIDC-AI/Marco-Nano-InstructText | 8B | [Link](https://huggingface.co/AIDC-AI/Marco-Nano-Instruct) |
 | Updatedabout 24 hours ago | 463 | PowerInfer/SmallThinker-4BA0 | 4B | [Link](https://huggingface.co/PowerInfer/SmallThinker-4BA0.6B-Instruct) |
 | Updatedabout 16 hours ago | 461 | MaziyarPanahi/VibeThinker-1 | 2B | [Link](https://huggingface.co/MaziyarPanahi/VibeThinker-1.5B-GGUF) |
+| Updated1 day ago | 452 | openbmb/BitCPM-CANN-8B-ggufText | 8B | [Link](https://huggingface.co/openbmb/BitCPM-CANN-8B-gguf) |
 | Updatedabout 5 hours ago | 441k | EssentialAI/rnj-1-instructText | 8B | [Link](https://huggingface.co/EssentialAI/rnj-1-instruct) |
 | Updatedabout 24 hours ago | 433 | Jiunsong/supergemma4-e4b-abliteratedText | 8B | [Link](https://huggingface.co/Jiunsong/supergemma4-e4b-abliterated) |
 | Updatedabout 11 hours ago | 427 | Jiunsong/SuperGemma4-31b-abliterated-GGUFText | 31B | [Link](https://huggingface.co/Jiunsong/SuperGemma4-31b-abliterated-GGUF) |
@@ -6606,6 +6613,8 @@ Updated on 2026-05-24
 | 254 |  | Efficient-Large-Model/Sana_1600M_1024pxText-to-Image | UpdatedOct 28, 2025 | [Link](https://huggingface.co/Efficient-Large-Model/Sana_1600M_1024px) |
 | 14 | Unknown | oron1208/OOO_AnimaText-to-Image | Updatedabout 15 hours ago | [Link](https://huggingface.co/oron1208/OOO_Anima) |
 | 26.3k |  | Baraje/SexGod_NSFW_Female_Nudes_QWEN_Image_Edit_2511Text-to-Image | Updated30 days ago | [Link](https://huggingface.co/Baraje/SexGod_NSFW_Female_Nudes_QWEN_Image_Edit_2511) |
+| 7 | Unknown | Abiray/L2P-model-1k-merge-INT8Text-to-Image | Updated1 day ago | [Link](https://huggingface.co/Abiray/L2P-model-1k-merge-INT8) |
+| 6 | Unknown | darask0/anima-distill-lorasText-to-Image | Updated6 days ago | [Link](https://huggingface.co/darask0/anima-distill-loras) |
 
 ## Text-to-Speech
 
