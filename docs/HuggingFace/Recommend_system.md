@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-05-25
+Updated on 2026-05-26
 
 > Generated from the Hugging Face database.
 
@@ -2717,6 +2717,7 @@ Updated on 2026-05-25
 | 72 | 4 | kyutai/ovieImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/kyutai/ovie) |
 |  | 4 | oumoumad/LumiPicImage-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/oumoumad/LumiPic) |
 |  | 4 | prithivMLmods/QIE-2511-3D-Paper-Cut-IllustrationImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/prithivMLmods/QIE-2511-3D-Paper-Cut-Illustration) |
+|  | 4 | Leon1000/Flux-2-Multi-Angles-LoRA-v2Image-to-Image | Updated6 days ago | [Link](https://huggingface.co/Leon1000/Flux-2-Multi-Angles-LoRA-v2) |
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
@@ -3112,6 +3113,7 @@ Updated on 2026-05-25
 | UpdatedOct 14, 2025 | 56 | Disty0/Florence-2-large-PromptGen-v2 | 0.8B | [Link](https://huggingface.co/Disty0/Florence-2-large-PromptGen-v2.0) |
 | Updated1 day ago | 56 | badianeai/AnandaSkyImage-to-Text | 0.8B | [Link](https://huggingface.co/badianeai/AnandaSky) |
 | UpdatedApr 17, 2024 | 54 | hoang-quoc-trung/sumen-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/hoang-quoc-trung/sumen-base) |
+| 31 | 54 | stabilityai/japanese-instructblip-alphaImage-to-Text | UpdatedNov 17, 2023 | [Link](https://huggingface.co/stabilityai/japanese-instructblip-alpha) |
 | UpdatedAug 30, 2024 | 51.3k | U4R/StructTable-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/U4R/StructTable-base) |
 | Updatedabout 17 hours ago | 50 | Qwen/Qwen3-VL-Embedding-8BImage-to-Text | 8B | [Link](https://huggingface.co/Qwen/Qwen3-VL-Embedding-8B) |
 | UpdatedNov 26, 2025 | 50.3k | Qwen/Qwen3-VL-235B-A22B-ThinkingImage-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Thinking) |
@@ -5719,6 +5721,7 @@ Updated on 2026-05-25
 | Updated2 days ago | 4.19k | bartowski/FINAL-Bench_Darwin-36B-Opus-GGUFText | 35B | [Link](https://huggingface.co/bartowski/FINAL-Bench_Darwin-36B-Opus-GGUF) |
 | Updated1 day ago | 4.73k | nvidia/Gemma-4-26B-A4B-NVFP4Text | 14B | [Link](https://huggingface.co/nvidia/Gemma-4-26B-A4B-NVFP4) |
 | Updated4 days ago | 4.03k | lewtun/talkie-1930-13b-it-hfText | 13B | [Link](https://huggingface.co/lewtun/talkie-1930-13b-it-hf) |
+| Updated7 minutes ago | 4 | jedisct1/MiMo-V2 | 309B | [Link](https://huggingface.co/jedisct1/MiMo-V2.5-coder-Q2) |
 | Updated2 days ago | 3.87k | unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUFText | 480B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUF) |
 | Updated6 days ago | 3.39k | Qwen/Qwen3-30B-A3B-Thinking-2507-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507-FP8) |
 | Updatedabout 4 hours ago | 3.61k | openai/gpt-oss-120bText | 63B | [Link](https://huggingface.co/openai/gpt-oss-120b) |
@@ -5758,6 +5761,7 @@ Updated on 2026-05-25
 | Updatedabout 2 hours ago | 2.46k | FrontiersMind/Nandi-Mini-150M-Tool-CallingText | 0.2B | [Link](https://huggingface.co/FrontiersMind/Nandi-Mini-150M-Tool-Calling) |
 | Updated5 days ago | 2.53k | Jiunsong/supergemma4-e4b-abliterated-mlxText | 1B | [Link](https://huggingface.co/Jiunsong/supergemma4-e4b-abliterated-mlx) |
 | Updatedabout 2 hours ago | 2.18k | HuggingFaceBio/Carbon-3BText | 3B | [Link](https://huggingface.co/HuggingFaceBio/Carbon-3B) |
+| Updatedabout 5 hours ago | 2 | openbmb/MiniCPM5-1BText | 1B | [Link](https://huggingface.co/openbmb/MiniCPM5-1B) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
 | Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
@@ -5798,6 +5802,7 @@ Updated on 2026-05-25
 | Updatedabout 2 hours ago | 1.11k | HuggingFaceBio/Carbon-8BText | 8B | [Link](https://huggingface.co/HuggingFaceBio/Carbon-8B) |
 | Updatedabout 4 hours ago | 1.86k | OBLITERATUS/Qwen3 | 27B | [Link](https://huggingface.co/OBLITERATUS/Qwen3.6-27B-OBLITERATED) |
 | UpdatedJul 23, 2024 | 1.29k | aifeifei798/llama3-8B-DarkIdol-2 | 8B | [Link](https://huggingface.co/aifeifei798/llama3-8B-DarkIdol-2.3-Uncensored-32K) |
+| Updated2 days ago | 1.05k | SupraLabs/Supra-50M-InstructText | 51.8M | [Link](https://huggingface.co/SupraLabs/Supra-50M-Instruct) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -7043,6 +7048,7 @@ Updated on 2026-05-25
 | 4 | Unknown | huggingFresse/Kokoro-82M-ONNX-German-MartinText-to-Speech | Updatedabout 5 hours ago | [Link](https://huggingface.co/huggingFresse/Kokoro-82M-ONNX-German-Martin) |
 | 14 | Unknown | ScenemaAI/scenema-audioText-to-Speech | Updatedabout 2 hours ago | [Link](https://huggingface.co/ScenemaAI/scenema-audio) |
 | 4 | Unknown | thelamapi/neuvoiceText-to-Speech | Updatedabout 2 hours ago | [Link](https://huggingface.co/thelamapi/neuvoice) |
+| 4 | Unknown | HKUSTAudio/Talker-T2AVText-to-Speech | Updatedabout 8 hours ago | [Link](https://huggingface.co/HKUSTAudio/Talker-T2AV) |
 
 ## Text-to-Video
 
