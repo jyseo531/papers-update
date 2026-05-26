@@ -287,6 +287,7 @@ Updated on 2026-05-26
 | Updatedabout 11 hours ago | 1.21k | google/gemma-4-E4BAny-to-Any | 8B | [Link](https://huggingface.co/google/gemma-4-E4B) |
 | Updatedabout 16 hours ago | 1.27k | mlx-community/gemma-4-e4b-it-nvfp4Any-to-Any | 2B | [Link](https://huggingface.co/mlx-community/gemma-4-e4b-it-nvfp4) |
 | Updatedabout 14 hours ago | 1.21k | google/gemma-4-E2B-it-assistantAny-to-Any | 78M | [Link](https://huggingface.co/google/gemma-4-E2B-it-assistant) |
+| Updated6 days ago | 1.24k | aisingapore/Gemma-SEA-LION-v4 | 5B | [Link](https://huggingface.co/aisingapore/Gemma-SEA-LION-v4.5-E2B-IT) |
 | 2 | Unknown | guanwenhao/MonoSpeechAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/guanwenhao/MonoSpeech) |
 | 22 | Unknown | Goekdeniz-Guelmez/J | UpdatedOct 29, 2024 | [Link](https://huggingface.co/Goekdeniz-Guelmez/J.O.S.I.E.v4o) |
 | 1 | Unknown | hfcsrd/cryptographyAny-to-Any | UpdatedNov 17, 2024 | [Link](https://huggingface.co/hfcsrd/cryptography) |
@@ -3324,6 +3325,7 @@ Updated on 2026-05-26
 | 68 | 4 | HassanB4/Ketaba-OCR-LoRAImage-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/HassanB4/Ketaba-OCR-LoRA) |
 | 80 | 4 | jc-builds/CalorieCLIPImage-to-Text | Updatedabout 12 hours ago | [Link](https://huggingface.co/jc-builds/CalorieCLIP) |
 | Updatedabout 4 hours ago | 4 | lolzinventor/Qwen3 | 4B | [Link](https://huggingface.co/lolzinventor/Qwen3.5-4B-Base-ZitGen-V1) |
+| 17.1k | 4 | PaddlePaddle/PP-OCRv4_mobile_detImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv4_mobile_det) |
 | 299 | 3 | cnmoro/nano-image-captioningImage-to-Text | Updatedabout 1 month ago | [Link](https://huggingface.co/cnmoro/nano-image-captioning) |
 | 45 | 3 | braintacles/brainblipImage-to-Text | UpdatedJun 27, 2024 | [Link](https://huggingface.co/braintacles/brainblip) |
 | 55 | 3 | sbintuitions/sarashina2-vision-8bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-8b) |
@@ -3488,6 +3490,7 @@ Updated on 2026-05-26
 | 4.8k | 1 | PaddlePaddle/PP-OCRv3_mobile_detImage-to-Text | UpdatedJul 23, 2025 | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv3_mobile_det) |
 | 139 | 1 | PaddlePaddle/ka_PP-OCRv3_mobile_recImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/ka_PP-OCRv3_mobile_rec) |
 | 2.97k | 1 | PaddlePaddle/en_PP-OCRv3_mobile_recImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/en_PP-OCRv3_mobile_rec) |
+| 2.08k | 1 | PaddlePaddle/latin_PP-OCRv3_mobile_recImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/latin_PP-OCRv3_mobile_rec) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -5335,6 +5338,7 @@ Updated on 2026-05-26
 | Updated1 day ago | 46 | FINAL-Bench/Darwin-27B-OpusText | 28B | [Link](https://huggingface.co/FINAL-Bench/Darwin-27B-Opus) |
 | 2.08k | 45 | google/gemma-3-1b-itText | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-1b-it) |
 | Updatedabout 2 hours ago | 45 | Jiunsong/supergemma4-26b-uncensored-gguf-v2Text | 25B | [Link](https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-gguf-v2) |
+| Updatedabout 17 hours ago | 45 | openbmb/MiniCPM5-1B-GGUFText | 1B | [Link](https://huggingface.co/openbmb/MiniCPM5-1B-GGUF) |
 | 170 | 44 | open-r1/OlympicCoder-7BText | Updatedabout 5 hours ago | [Link](https://huggingface.co/open-r1/OlympicCoder-7B) |
 | 5 | 44 | Qwen/Qwen3-8BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-8B) |
 | Updatedabout 3 hours ago | 44 | unsloth/gpt-oss-120b-GGUFText | 117B | [Link](https://huggingface.co/unsloth/gpt-oss-120b-GGUF) |
@@ -6881,6 +6885,7 @@ Updated on 2026-05-26
 | Updated12 days ago | 4.44k | splendor1811/omnivoice-vietnameseText-to-Speech | 0.6B | [Link](https://huggingface.co/splendor1811/omnivoice-vietnamese) |
 | 701 | 4 | mlx-community/VoxCPM2-8bitText-to-Speech | Updated18 days ago | [Link](https://huggingface.co/mlx-community/VoxCPM2-8bit) |
 | Updatedabout 9 hours ago | 4 | p1atdev/Irodori-TTS-500M-v2-Character-Voice-TaggerText-to-Speech | 0.5B | [Link](https://huggingface.co/p1atdev/Irodori-TTS-500M-v2-Character-Voice-Tagger) |
+| 134 | 4 | Reza2kn/supertonic-3-litertText-to-Speech | Updated6 days ago | [Link](https://huggingface.co/Reza2kn/supertonic-3-litert) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 1.22k | 3 | CONCREE/Adia_TTSText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/CONCREE/Adia_TTS) |
