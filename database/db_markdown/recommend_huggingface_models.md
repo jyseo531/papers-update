@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-05-26
+Updated on 2026-05-27
 
 > Generated from the Hugging Face database.
 
@@ -224,6 +224,7 @@ Updated on 2026-05-26
 | 33 | 3 | onnx-community/gemma-4-E4B-it-ONNXAny-to-Any | Updated1 day ago | [Link](https://huggingface.co/onnx-community/gemma-4-E4B-it-ONNX) |
 | Updatedabout 8 hours ago | 3 | Abhiray/gemma-4-E4B-it-heretic-GGUFAny-to-Any | 8B | [Link](https://huggingface.co/Abhiray/gemma-4-E4B-it-heretic-GGUF) |
 | Updatedabout 14 hours ago | 3 | sensenova/SenseNova-U1-8B-MoT-8step-previewAny-to-Any | 18B | [Link](https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-8step-preview) |
+| UpdatedApr 13 | 3.37k | groxaxo/Huihui-gemma-4-31B-it-abliterated-v2-GGUFAny-to-Any | 31B | [Link](https://huggingface.co/groxaxo/Huihui-gemma-4-31B-it-abliterated-v2-GGUF) |
 | 47 | 2 | PKU-Alignment/AnyRewardModelAny-to-Any | UpdatedDec 28, 2024 | [Link](https://huggingface.co/PKU-Alignment/AnyRewardModel) |
 | 585 | 2 | wnma3mz/Janus-Pro-1B-4bitAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/wnma3mz/Janus-Pro-1B-4bit) |
 | 3 | 2 | lintw/HealthGPT-XL32Any-to-Any | Updatedabout 18 hours ago | [Link](https://huggingface.co/lintw/HealthGPT-XL32) |
@@ -6624,6 +6625,7 @@ Updated on 2026-05-26
 | 26.3k |  | Baraje/SexGod_NSFW_Female_Nudes_QWEN_Image_Edit_2511Text-to-Image | Updated30 days ago | [Link](https://huggingface.co/Baraje/SexGod_NSFW_Female_Nudes_QWEN_Image_Edit_2511) |
 | 7 | Unknown | Abiray/L2P-model-1k-merge-INT8Text-to-Image | Updated1 day ago | [Link](https://huggingface.co/Abiray/L2P-model-1k-merge-INT8) |
 | 6 | Unknown | darask0/anima-distill-lorasText-to-Image | Updated6 days ago | [Link](https://huggingface.co/darask0/anima-distill-loras) |
+| 8 | Unknown | tsolful/Z-Image-L2P-INT8Text-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/tsolful/Z-Image-L2P-INT8) |
 
 ## Text-to-Speech
 
@@ -6786,6 +6788,7 @@ Updated on 2026-05-26
 | Updated5 days ago | 13 | OmniAICreator/Galgame-Llasa-3BText-to-Speech | 4B | [Link](https://huggingface.co/OmniAICreator/Galgame-Llasa-3B) |
 | 9 | 13 | hi-paris/ssml-breaks2ssml-fr-loraText-to-Speech | Updatedabout 3 hours ago | [Link](https://huggingface.co/hi-paris/ssml-breaks2ssml-fr-lora) |
 | Updatedabout 8 hours ago | 13 | Soul-AILab/SoulX-Podcast-1 | 2B | [Link](https://huggingface.co/Soul-AILab/SoulX-Podcast-1.7B) |
+| Updatedabout 8 hours ago | 13 | OpenMOSS-Team/MOSS-TTS-v1 | 8B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-v1.5) |
 | 73 | 12 | geneing/KokoroText-to-Speech | UpdatedJan 10 | [Link](https://huggingface.co/geneing/Kokoro) |
 | 125 | 12 | Kamtera/persian-tts-female-vitsText-to-Speech | UpdatedMar 19, 2023 | [Link](https://huggingface.co/Kamtera/persian-tts-female-vits) |
 | Updated1 day ago | 12 | Aratako/MioTTS-0 | 0.1B | [Link](https://huggingface.co/Aratako/MioTTS-0.1B) |
