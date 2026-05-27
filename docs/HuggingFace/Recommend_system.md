@@ -2072,6 +2072,7 @@ Updated on 2026-05-27
 | Updatedabout 10 hours ago | 49 | nanonets/Nanonets-OCR2-3BImage-Text-to-Text | 4B | [Link](https://huggingface.co/nanonets/Nanonets-OCR2-3B) |
 | 848 | 47 | AIDC-AI/Ovis2-2BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-2B) |
 | 79.7k | 47 | Qwen/Qwen2-VL-7BImage-Text-to-Text | UpdatedJan 12 | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B) |
+| Updatedabout 21 hours ago | 47 | Kwai-Keye/Keye-VL-2 | 31B | [Link](https://huggingface.co/Kwai-Keye/Keye-VL-2.0-30B-A3B) |
 | 8 | 46 | CohereForAI/aya-vision-32bImage-Text-to-Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/CohereForAI/aya-vision-32b) |
 | 22.7k | 46 | OpenGVLab/InternVL2_5-8B-MPOImage-Text-to-Text | Updated30 days ago | [Link](https://huggingface.co/OpenGVLab/InternVL2_5-8B-MPO) |
 | 2.74k | 45 | OpenGVLab/InternVL2_5-78B-MPOImage-Text-to-Text | UpdatedFeb 5 | [Link](https://huggingface.co/OpenGVLab/InternVL2_5-78B-MPO) |
@@ -6626,6 +6627,11 @@ Updated on 2026-05-27
 | 7 | Unknown | Abiray/L2P-model-1k-merge-INT8Text-to-Image | Updated1 day ago | [Link](https://huggingface.co/Abiray/L2P-model-1k-merge-INT8) |
 | 6 | Unknown | darask0/anima-distill-lorasText-to-Image | Updated6 days ago | [Link](https://huggingface.co/darask0/anima-distill-loras) |
 | 8 | Unknown | tsolful/Z-Image-L2P-INT8Text-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/tsolful/Z-Image-L2P-INT8) |
+| 24 | Unknown | prism-ml/bonsai-image-ternary-4B-gemlite-2bitText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/prism-ml/bonsai-image-ternary-4B-gemlite-2bit) |
+| 17 | Unknown | prism-ml/bonsai-image-ternary-4B-mlx-2bitText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/prism-ml/bonsai-image-ternary-4B-mlx-2bit) |
+| 11 | Unknown | prism-ml/bonsai-image-ternary-4B-unpackedText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/prism-ml/bonsai-image-ternary-4B-unpacked) |
+| 9 | Unknown | prism-ml/bonsai-image-binary-4B-gemlite-1bitText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/prism-ml/bonsai-image-binary-4B-gemlite-1bit) |
+| 7 | Unknown | prism-ml/bonsai-image-binary-4B-unpackedText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/prism-ml/bonsai-image-binary-4B-unpacked) |
 
 ## Text-to-Speech
 
