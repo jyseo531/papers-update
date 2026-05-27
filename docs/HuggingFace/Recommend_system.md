@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-05-27
+Updated on 2026-05-28
 
 > Generated from the Hugging Face database.
 
@@ -2198,6 +2198,7 @@ Updated on 2026-05-27
 | Updatedabout 8 hours ago | 14.9k | Andycurrent/Gemma-3-4B-VL-it-Gemini-Pro-Heretic-Uncensored-Thinking_GGUFImage-Text-to-Text | 4B | [Link](https://huggingface.co/Andycurrent/Gemma-3-4B-VL-it-Gemini-Pro-Heretic-Uncensored-Thinking_GGUF) |
 | Updatedabout 5 hours ago | 14 | huihui-ai/Huihui-Qwen3 | 36B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated) |
 | Updated3 days ago | 14.9k | sakamakismile/Huihui-Qwen3 | 17B | [Link](https://huggingface.co/sakamakismile/Huihui-Qwen3.6-27B-abliterated-NVFP4-MTP) |
+| Updatedabout 7 hours ago | 14 | nvidia/LocateAnything-3BImage-Text-to-Text | 4B | [Link](https://huggingface.co/nvidia/LocateAnything-3B) |
 | 582 | 13 | google/gemma-3-4b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-4b-pt) |
 | 4.2k | 13 | mlabonne/gemma-3-12b-it-abliterated-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-12b-it-abliterated-GGUF) |
 | 10.7k | 13 | unsloth/Llama-4-Maverick-17B-128E-Instruct-GGUFImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/unsloth/Llama-4-Maverick-17B-128E-Instruct-GGUF) |
@@ -5151,6 +5152,7 @@ Updated on 2026-05-27
 | Updated25 minutes ago | 202 | shb777/Llama-3 | 8B | [Link](https://huggingface.co/shb777/Llama-3.3-8B-Instruct) |
 | Updated15 days ago | 201 | SamuelBang/AesCoder-4BText | 4B | [Link](https://huggingface.co/SamuelBang/AesCoder-4B) |
 | 11.7k | 196 | smirki/UIGEN-T1-Qwen-7bText | Updated5 days ago | [Link](https://huggingface.co/smirki/UIGEN-T1-Qwen-7b) |
+| Updated2 days ago | 190 | openbmb/MiniCPM5-1B-SFTText | 1B | [Link](https://huggingface.co/openbmb/MiniCPM5-1B-SFT) |
 | Updatedabout 4 hours ago | 183 | FrontiersMind/Nandi-Mini-600M-Early-CheckpointText | 0.6B | [Link](https://huggingface.co/FrontiersMind/Nandi-Mini-600M-Early-Checkpoint) |
 | Updated7 days ago | 181 | janhq/Jan-v1-2509Text | 0.0B | [Link](https://huggingface.co/janhq/Jan-v1-2509) |
 | Updated1 day ago | 179 | nvidia/OpenReasoning-Nemotron-7BText | 8B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-7B) |
@@ -6632,6 +6634,7 @@ Updated on 2026-05-27
 | 11 | Unknown | prism-ml/bonsai-image-ternary-4B-unpackedText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/prism-ml/bonsai-image-ternary-4B-unpacked) |
 | 9 | Unknown | prism-ml/bonsai-image-binary-4B-gemlite-1bitText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/prism-ml/bonsai-image-binary-4B-gemlite-1bit) |
 | 7 | Unknown | prism-ml/bonsai-image-binary-4B-unpackedText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/prism-ml/bonsai-image-binary-4B-unpacked) |
+| 11 | Unknown | prism-ml/bonsai-image-binary-4B-mlx-1bitText-to-Image | Updatedabout 24 hours ago | [Link](https://huggingface.co/prism-ml/bonsai-image-binary-4B-mlx-1bit) |
 
 ## Text-to-Speech
 
