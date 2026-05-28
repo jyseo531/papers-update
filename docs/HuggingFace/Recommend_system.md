@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-05-28
+Updated on 2026-05-29
 
 > Generated from the Hugging Face database.
 
@@ -3180,6 +3180,7 @@ Updated on 2026-05-28
 | 7.18k | 25 | ddobokki/ko-trocrImage-to-Text | UpdatedOct 22, 2024 | [Link](https://huggingface.co/ddobokki/ko-trocr) |
 | 68 | 25 | Ertugrul/Pixtral-12B-Captioner-RelaxedImage-to-Text | UpdatedOct 1, 2024 | [Link](https://huggingface.co/Ertugrul/Pixtral-12B-Captioner-Relaxed) |
 | Updatedabout 10 hours ago | 24 | CodeGoat24/UniGenBench-EvalModel-qwen-72b-v1Image-to-Text | 73B | [Link](https://huggingface.co/CodeGoat24/UniGenBench-EvalModel-qwen-72b-v1) |
+| Updatedabout 20 hours ago | 24 | OrionLLM/GRM-OCRImage-to-Text | 0.3B | [Link](https://huggingface.co/OrionLLM/GRM-OCR) |
 | 4.54k | 23 | raxtemur/trocr-base-ruImage-to-Text | UpdatedMay 29, 2024 | [Link](https://huggingface.co/raxtemur/trocr-base-ru) |
 | UpdatedJun 17, 2025 | 23.6k | unsloth/Llama-4-Scout-17B-16E-Instruct-GGUFImage-to-Text | 108B | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct-GGUF) |
 | UpdatedJun 9, 2025 | 23.9k | RedHatAI/gemma-3-27b-it-FP8-dynamicImage-to-Text | 27B | [Link](https://huggingface.co/RedHatAI/gemma-3-27b-it-FP8-dynamic) |
@@ -5533,6 +5534,7 @@ Updated on 2026-05-28
 | Updatedabout 1 hour ago | 24 | ai-sage/GigaChat3-702B-A36B-previewText | 715B | [Link](https://huggingface.co/ai-sage/GigaChat3-702B-A36B-preview) |
 | 14.5k | 24 | nvidia/Kimi-K2 | Updated5 days ago | [Link](https://huggingface.co/nvidia/Kimi-K2.5-NVFP4) |
 | Updatedabout 16 hours ago | 24 | JANGQ-AI/MiniMax-M2 | 15B | [Link](https://huggingface.co/JANGQ-AI/MiniMax-M2.7-JANGTQ) |
+| 113 | 24 | FINAL-Bench/Darwin-60B-DUOText | Updatedabout 13 hours ago | [Link](https://huggingface.co/FINAL-Bench/Darwin-60B-DUO) |
 | 10.3k | 23 | unsloth/Phi-4-mini-instruct-GGUFText | Updated4 days ago | [Link](https://huggingface.co/unsloth/Phi-4-mini-instruct-GGUF) |
 | 26.8k | 23 | lmstudio-community/QwQ-32B-GGUFText | Updated1 day ago | [Link](https://huggingface.co/lmstudio-community/QwQ-32B-GGUF) |
 | 1.47k | 23 | NousResearch/DeepHermes-3-Llama-3-3B-PreviewText | Updated4 days ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-3B-Preview) |
@@ -6326,6 +6328,7 @@ Updated on 2026-05-28
 | 162 | 7 | CodeGoat24/FLUX | Updated2 days ago | [Link](https://huggingface.co/CodeGoat24/FLUX.2-klein-base-9B-UnifiedReward-Flex-lora) |
 | 403 | 7 | Limbicnation/pixel-art-loraText-to-Image | UpdatedFeb 11 | [Link](https://huggingface.co/Limbicnation/pixel-art-lora) |
 | 268 | 7 | BlackHat404/DefacationAnimaText-to-Image | Updated5 days ago | [Link](https://huggingface.co/BlackHat404/DefacationAnima) |
+| 123 | 7 | Disty0/RaiFlow-v0_01-256px-rough-pre-trainText-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/Disty0/RaiFlow-v0_01-256px-rough-pre-train) |
 | 1.07k | 6 | DFloat11/FLUX | Updated1 day ago | [Link](https://huggingface.co/DFloat11/FLUX.1-dev-DF11) |
 | 836 | 6 | Minthy/RouWei-0 | Updated3 days ago | [Link](https://huggingface.co/Minthy/RouWei-0.8) |
 | 169 | 6 | PosterCraft/PosterCraft-v1_RLText-to-Image | Updated2 days ago | [Link](https://huggingface.co/PosterCraft/PosterCraft-v1_RL) |
@@ -7068,6 +7071,7 @@ Updated on 2026-05-28
 | 14 | Unknown | ScenemaAI/scenema-audioText-to-Speech | Updatedabout 2 hours ago | [Link](https://huggingface.co/ScenemaAI/scenema-audio) |
 | 4 | Unknown | thelamapi/neuvoiceText-to-Speech | Updatedabout 2 hours ago | [Link](https://huggingface.co/thelamapi/neuvoice) |
 | 4 | Unknown | HKUSTAudio/Talker-T2AVText-to-Speech | Updatedabout 8 hours ago | [Link](https://huggingface.co/HKUSTAudio/Talker-T2AV) |
+| 18 | Unknown | fuckSelf/GPT-SoVITS-RussianText-to-Speech | UpdatedSep 11, 2025 | [Link](https://huggingface.co/fuckSelf/GPT-SoVITS-Russian) |
 
 ## Text-to-Video
 
@@ -7146,6 +7150,7 @@ Updated on 2026-05-28
 | 6.29k | 6 | guoyww/animatediff-motion-lora-zoom-outText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-zoom-out) |
 | 5.95k | 5 | guoyww/animatediff-motion-lora-tilt-downText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-tilt-down) |
 | 504 | 5 | guoyww/animatediff-motion-lora-v1-5-3Text-to-Video | UpdatedJul 23, 2024 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-v1-5-3) |
+| 23 | 5 | robingg1/NAVAText-to-Video | Updatedabout 8 hours ago | [Link](https://huggingface.co/robingg1/NAVA) |
 | 56 | 4 | Skywork/SkyReels-V2-DF-14B-720PText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-DF-14B-720P) |
 | 410 | 4 | guoyww/animatediff-motion-adapter-v1-5Text-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-adapter-v1-5) |
 | 40 | 4 | QuantStack/MoviiGen1 | Updated16 minutes ago | [Link](https://huggingface.co/QuantStack/MoviiGen1.1-VACE-GGUF) |
