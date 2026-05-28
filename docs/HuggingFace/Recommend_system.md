@@ -3353,6 +3353,7 @@ Updated on 2026-05-28
 | 21 | 3 | microsoft/git-large-msrvtt-qaImage-to-Text | UpdatedJan 24, 2023 | [Link](https://huggingface.co/microsoft/git-large-msrvtt-qa) |
 | 111 | 3 | lbm364dl/PaddleOCR-VL-1 | UpdatedMar 27 | [Link](https://huggingface.co/lbm364dl/PaddleOCR-VL-1.5-ONNX) |
 | 29 | 3 | numind/NuMarkdown-8B-Thinking-mlx-4bitsImage-to-Text | Updatedabout 21 hours ago | [Link](https://huggingface.co/numind/NuMarkdown-8B-Thinking-mlx-4bits) |
+| 7.33k | 3 | PaddlePaddle/PP-OCRv4_mobile_recImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv4_mobile_rec) |
 | 51 | 2 | microsoft/git-base-msrvtt-qaImage-to-Text | UpdatedApr 4, 2024 | [Link](https://huggingface.co/microsoft/git-base-msrvtt-qa) |
 | 32 | 2 | baseplate/vit-gpt2-image-captioningImage-to-Text | UpdatedApr 5, 2023 | [Link](https://huggingface.co/baseplate/vit-gpt2-image-captioning) |
 | 38 | 2 | sbintuitions/sarashina2-vision-14bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-14b) |
@@ -6898,6 +6899,7 @@ Updated on 2026-05-28
 | 701 | 4 | mlx-community/VoxCPM2-8bitText-to-Speech | Updated18 days ago | [Link](https://huggingface.co/mlx-community/VoxCPM2-8bit) |
 | Updatedabout 9 hours ago | 4 | p1atdev/Irodori-TTS-500M-v2-Character-Voice-TaggerText-to-Speech | 0.5B | [Link](https://huggingface.co/p1atdev/Irodori-TTS-500M-v2-Character-Voice-Tagger) |
 | 134 | 4 | Reza2kn/supertonic-3-litertText-to-Speech | Updated6 days ago | [Link](https://huggingface.co/Reza2kn/supertonic-3-litert) |
+| Updatedabout 20 hours ago | 4 | SPRINGLab/Indic-MioText-to-Speech | 0.6B | [Link](https://huggingface.co/SPRINGLab/Indic-Mio) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 1.22k | 3 | CONCREE/Adia_TTSText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/CONCREE/Adia_TTS) |
