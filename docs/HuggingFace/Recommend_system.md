@@ -5695,6 +5695,7 @@ Updated on 2026-05-29
 | Updated3 days ago | 7.04k | bartowski/PrimeIntellect_INTELLECT-3-GGUFText | 107B | [Link](https://huggingface.co/bartowski/PrimeIntellect_INTELLECT-3-GGUF) |
 | Updatedabout 20 hours ago | 7.1k | nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-NVFP4Text | 18B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-NVFP4) |
 | Updatedabout 15 hours ago | 7 | Jackrong/Qwopus-GLM-18B-Merged-GGUFText | 16B | [Link](https://huggingface.co/Jackrong/Qwopus-GLM-18B-Merged-GGUF) |
+| Updated1 day ago | 7.46k | nvidia/GLM-5 | 382B | [Link](https://huggingface.co/nvidia/GLM-5.1-NVFP4) |
 | 578k | 6.11k | meta-llama/Meta-Llama-3-8BText | UpdatedSep 27, 2024 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) |
 | Updatedabout 18 hours ago | 6 | apple/sage-ft-mixtral-8x7bText | 47B | [Link](https://huggingface.co/apple/sage-ft-mixtral-8x7b) |
 | Updated5 days ago | 6.94k | mistralai/Devstral-Small-2507_ggufText | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2507_gguf) |
@@ -7415,6 +7416,7 @@ Updated on 2026-05-29
 | 4 | Unknown | Efficient-Large-Model/LongLive-2 | Updatedabout 2 hours ago | [Link](https://huggingface.co/Efficient-Large-Model/LongLive-2.0-5B) |
 | 3 | Unknown | 6kplus/PhyMotion-CausalForcing-1 | Updated6 days ago | [Link](https://huggingface.co/6kplus/PhyMotion-CausalForcing-1.3B) |
 | 3 | Unknown | HKUSTAudio/Talker-T2AVText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/HKUSTAudio/Talker-T2AV) |
+| 3 | Unknown | ernie-research/NAVAText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/ernie-research/NAVA) |
 
 ## Text2Text Generation
 
