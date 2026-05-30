@@ -163,6 +163,7 @@ Updated on 2026-05-30
 | Updated13 days ago | 8.66k | llmfan46/gemma-4-E4B-it-uncensored-heretic-GGUFAny-to-Any | 8B | [Link](https://huggingface.co/llmfan46/gemma-4-E4B-it-uncensored-heretic-GGUF) |
 | Updatedabout 1 hour ago | 8 | sensenova/SenseNova-U1-8B-MoT-InfographicAny-to-Any | 18B | [Link](https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-Infographic) |
 | 211 | 8 | DavidAU/gemma-4-E4B-it-The-DECKARD-V3-Expresso-HERETIC-UNCENSORED-ThinkingAny-to-Any | UpdatedApr 14 | [Link](https://huggingface.co/DavidAU/gemma-4-E4B-it-The-DECKARD-V3-Expresso-HERETIC-UNCENSORED-Thinking) |
+| Updated22 days ago | 8.2k | bekoozkan/godot-gemma-4-e4b-it-GGUFAny-to-Any | 8B | [Link](https://huggingface.co/bekoozkan/godot-gemma-4-e4b-it-GGUF) |
 | 612 | 7 | internlm/internlm-xcomposer2d5-7b-rewardAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/internlm/internlm-xcomposer2d5-7b-reward) |
 | 16 | 7 | FunAGI/Qwen2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/FunAGI/Qwen2.5-Omni-7B-GPTQ-4bit) |
 | Updatedabout 5 hours ago | 7 | wikeeyang/Nexus-GenV2-nf4-fp8Any-to-Any | 5B | [Link](https://huggingface.co/wikeeyang/Nexus-GenV2-nf4-fp8) |
