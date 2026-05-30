@@ -5500,6 +5500,7 @@ Updated on 2026-05-30
 | Updated14 days ago | 26 | vngrs-ai/Kumru-2BText | 2B | [Link](https://huggingface.co/vngrs-ai/Kumru-2B) |
 | 152 | 26 | salakash/MinimalismText | Updatedabout 20 hours ago | [Link](https://huggingface.co/salakash/Minimalism) |
 | 1.53k | 26 | nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16Text | Updated1 day ago | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16) |
+| Updated8 days ago | 26.3k | KevinJK51/Qwen3 | 12B | [Link](https://huggingface.co/KevinJK51/Qwen3.6-12B-IQ-Ultra-Heretic-Uncensored-Thinking-V2-Hightop-GGUF) |
 | 513 | 25 | CohereForAI/c4ai-command-r7b-arabic-02-2025Text | Updated2 days ago | [Link](https://huggingface.co/CohereForAI/c4ai-command-r7b-arabic-02-2025) |
 | 3.12k | 25 | ibm-granite/granite-3 | Updated9 days ago | [Link](https://huggingface.co/ibm-granite/granite-3.2-8b-instruct) |
 | 568 | 25 | GSAI-ML/LLaDA-8B-BaseText | Updated3 days ago | [Link](https://huggingface.co/GSAI-ML/LLaDA-8B-Base) |
@@ -5817,6 +5818,7 @@ Updated on 2026-05-30
 | Updatedabout 4 hours ago | 1.86k | OBLITERATUS/Qwen3 | 27B | [Link](https://huggingface.co/OBLITERATUS/Qwen3.6-27B-OBLITERATED) |
 | UpdatedJul 23, 2024 | 1.29k | aifeifei798/llama3-8B-DarkIdol-2 | 8B | [Link](https://huggingface.co/aifeifei798/llama3-8B-DarkIdol-2.3-Uncensored-32K) |
 | Updated2 days ago | 1.05k | SupraLabs/Supra-50M-InstructText | 51.8M | [Link](https://huggingface.co/SupraLabs/Supra-50M-Instruct) |
+| Updatedabout 22 hours ago | 1.51k | nvidia/DeepSeek-V4-Pro-NVFP4Text | 910B | [Link](https://huggingface.co/nvidia/DeepSeek-V4-Pro-NVFP4) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -6906,6 +6908,7 @@ Updated on 2026-05-30
 | Updatedabout 9 hours ago | 4 | p1atdev/Irodori-TTS-500M-v2-Character-Voice-TaggerText-to-Speech | 0.5B | [Link](https://huggingface.co/p1atdev/Irodori-TTS-500M-v2-Character-Voice-Tagger) |
 | 134 | 4 | Reza2kn/supertonic-3-litertText-to-Speech | Updated6 days ago | [Link](https://huggingface.co/Reza2kn/supertonic-3-litert) |
 | Updatedabout 20 hours ago | 4 | SPRINGLab/Indic-MioText-to-Speech | 0.6B | [Link](https://huggingface.co/SPRINGLab/Indic-Mio) |
+| 132 | 4 | FluidInference/supertonic-3-coremlText-to-Speech | Updated12 days ago | [Link](https://huggingface.co/FluidInference/supertonic-3-coreml) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 1.22k | 3 | CONCREE/Adia_TTSText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/CONCREE/Adia_TTS) |
