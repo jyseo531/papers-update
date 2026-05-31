@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-05-30
+Updated on 2026-05-31
 
 > Generated from the Hugging Face database.
 
@@ -2680,6 +2680,7 @@ Updated on 2026-05-30
 | 8 | 6 | stepfun-ai/Step1X-Edit-v1p2-previewImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/stepfun-ai/Step1X-Edit-v1p2-preview) |
 | 24 | 6 | chestnutlzj/Edit-R1-Qwen-Image-Edit-2509Image-to-Image | Updated2 days ago | [Link](https://huggingface.co/chestnutlzj/Edit-R1-Qwen-Image-Edit-2509) |
 | 255 | 6 | canberkkkkk/bs-vton-outfit-klein-9bImage-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/canberkkkkk/bs-vton-outfit-klein-9b) |
+| 69 | 6 | Rift-ai/Rift | Updated7 days ago | [Link](https://huggingface.co/Rift-ai/Rift.1-decoder) |
 | 80 | 5 | jasperai/LBM_relightingImage-to-Image | Updated8 days ago | [Link](https://huggingface.co/jasperai/LBM_relighting) |
 | 6 | 5 | carsonkatri/stable-diffusion-2-depth-diffusersImage-to-Image | UpdatedDec 2, 2022 | [Link](https://huggingface.co/carsonkatri/stable-diffusion-2-depth-diffusers) |
 | 128 | 5 | qualcomm/LaMa-DilatedImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/qualcomm/LaMa-Dilated) |
@@ -3131,6 +3132,7 @@ Updated on 2026-05-30
 | UpdatedMay 21 | 47.2k | llamaindex/vdr-2b-multi-v1Image-to-Text | 2B | [Link](https://huggingface.co/llamaindex/vdr-2b-multi-v1) |
 | UpdatedAug 14, 2025 | 47.3k | unsloth/gemma-3-12b-it-GGUFImage-to-Text | 12B | [Link](https://huggingface.co/unsloth/gemma-3-12b-it-GGUF) |
 | Updated6 days ago | 47 | AiAsistent/xthos-v2-the-sovereign-architectImage-to-Text | 4B | [Link](https://huggingface.co/AiAsistent/xthos-v2-the-sovereign-architect) |
+| UpdatedDec 31, 2023 | 47 | unum-cloud/uform-genImage-to-Text | 1B | [Link](https://huggingface.co/unum-cloud/uform-gen) |
 | Updatedabout 5 hours ago | 46 | mohajesmaeili/Qwen3-VL-2B-Persian-Arabic-Ocr-v1 | 2B | [Link](https://huggingface.co/mohajesmaeili/Qwen3-VL-2B-Persian-Arabic-Ocr-v1.0) |
 | Updated2 days ago | 46 | vvangfaye/SocioReasoner-3BImage-to-Text | 4B | [Link](https://huggingface.co/vvangfaye/SocioReasoner-3B) |
 | Updatedabout 14 hours ago | 46 | vanta-research/PE-Type-1-Vera-4BImage-to-Text | 4B | [Link](https://huggingface.co/vanta-research/PE-Type-1-Vera-4B) |
@@ -3581,6 +3583,7 @@ Updated on 2026-05-30
 | 1 | Unknown | mweinbach/nemotron-ocr-v2-mlxImage-to-Text | Updated26 days ago | [Link](https://huggingface.co/mweinbach/nemotron-ocr-v2-mlx) |
 | 1 | Unknown | leadingtorch/circuit-reasoning-google-gemma-4-31B-it-thinking-enabledImage-to-Text | Updated11 days ago | [Link](https://huggingface.co/leadingtorch/circuit-reasoning-google-gemma-4-31B-it-thinking-enabled) |
 | 1 | Unknown | luisf-mc/gui-g2-3b-ccfImage-to-Text | Updated30 days ago | [Link](https://huggingface.co/luisf-mc/gui-g2-3b-ccf) |
+| 2 | Unknown | Kiuyha/paddleocr-onnxImage-to-Text | UpdatedApr 29 | [Link](https://huggingface.co/Kiuyha/paddleocr-onnx) |
 
 ## Image-to-Video
 
@@ -5722,6 +5725,7 @@ Updated on 2026-05-30
 | Updated4 days ago | 5.07k | ubergarm/Step-3 | 197B | [Link](https://huggingface.co/ubergarm/Step-3.5-Flash-GGUF) |
 | Updatedabout 17 hours ago | 5.07k | TeichAI/Qwen3-14B-Claude-4 | 15B | [Link](https://huggingface.co/TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF) |
 | Updated12 days ago | 5.65k | LEONW24/Qwen3 | 10B | [Link](https://huggingface.co/LEONW24/Qwen3.5-9B-Uncensored) |
+| Updated3 days ago | 5.82k | Abiray/MiniCPM5-1B-GGUFText | 1B | [Link](https://huggingface.co/Abiray/MiniCPM5-1B-GGUF) |
 | Updatedabout 21 hours ago | 4.52k | unsloth/Devstral-Small-2507-GGUFText | 24B | [Link](https://huggingface.co/unsloth/Devstral-Small-2507-GGUF) |
 | Updatedabout 6 hours ago | 4 | baichuan-inc/Baichuan-M2-32BText | 33B | [Link](https://huggingface.co/baichuan-inc/Baichuan-M2-32B) |
 | UpdatedMay 14 | 4 | inclusionAI/Ling-lite-base-1 | 17B | [Link](https://huggingface.co/inclusionAI/Ling-lite-base-1.5) |
@@ -6645,6 +6649,7 @@ Updated on 2026-05-30
 | 9 | Unknown | prism-ml/bonsai-image-binary-4B-gemlite-1bitText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/prism-ml/bonsai-image-binary-4B-gemlite-1bit) |
 | 7 | Unknown | prism-ml/bonsai-image-binary-4B-unpackedText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/prism-ml/bonsai-image-binary-4B-unpacked) |
 | 11 | Unknown | prism-ml/bonsai-image-binary-4B-mlx-1bitText-to-Image | Updatedabout 24 hours ago | [Link](https://huggingface.co/prism-ml/bonsai-image-binary-4B-mlx-1bit) |
+| 10 | Unknown | yenupam/desi-maxText-to-Image | Updated27 days ago | [Link](https://huggingface.co/yenupam/desi-max) |
 
 ## Text-to-Speech
 
@@ -6754,6 +6759,7 @@ Updated on 2026-05-30
 | 482 | 44 | nvidia/magpie_tts_multilingual_357mText-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/nvidia/magpie_tts_multilingual_357m) |
 | Updated1 day ago | 44 | nineninesix/kani-tts-2-enText-to-Speech | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-2-en) |
 | Updated1 day ago | 44 | Wfloat/wfloat-ttsText-to-Speech | 30.2M | [Link](https://huggingface.co/Wfloat/wfloat-tts) |
+| Updated6 days ago | 43 | zeropointnine/Darwin-TTS-1 | 2B | [Link](https://huggingface.co/zeropointnine/Darwin-TTS-1.7B-Cross-Qwen3Tokenizer) |
 | Updatedabout 1 month ago | 41 | Anilosan15/kani-tts-400m-0 | 0.4B | [Link](https://huggingface.co/Anilosan15/kani-tts-400m-0.3-tr) |
 | Updated1 day ago | 41 | nineninesix/kani-tts-2-ptText-to-Speech | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-2-pt) |
 | 5.2k | 39 | speechbrain/tts-hifigan-ljspeechText-to-Speech | UpdatedFeb 25, 2024 | [Link](https://huggingface.co/speechbrain/tts-hifigan-ljspeech) |
@@ -7245,6 +7251,7 @@ Updated on 2026-05-30
 | 9 | 2 | pharmacypractice16/Wan2 | Updated1 day ago | [Link](https://huggingface.co/pharmacypractice16/Wan2.1-T2V-1.3B-Diffusers) |
 | 14 | 2 | Civitai/Sulphur-2-distilled-fp8Text-to-Video | Updated1 day ago | [Link](https://huggingface.co/Civitai/Sulphur-2-distilled-fp8) |
 | 2.02k | 2 | Seregil13th/Sulphur-2-baseText-to-Video | Updated5 days ago | [Link](https://huggingface.co/Seregil13th/Sulphur-2-base) |
+| 43 | 2 | SyFeee/ltx2 | Updated2 days ago | [Link](https://huggingface.co/SyFeee/ltx2.3-chinese-drama-iclora-canny) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
