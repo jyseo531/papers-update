@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-05-31
+Updated on 2026-06-01
 
 > Generated from the Hugging Face database.
 
@@ -2330,6 +2330,7 @@ Updated on 2026-05-31
 | 126 | 7 | kacperwikiel/RysOCRImage-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/kacperwikiel/RysOCR) |
 | Updatedabout 4 hours ago | 7 | google/medgemma-1 | 4B | [Link](https://huggingface.co/google/medgemma-1.5-4b-it) |
 | Updatedabout 3 hours ago | 7.05M | zai-org/GLM-OCRImage-Text-to-Text | 1B | [Link](https://huggingface.co/zai-org/GLM-OCR) |
+| Updated4 days ago | 7.87k | datalab-to/surya-ocr-2Image-Text-to-Text | 0.7B | [Link](https://huggingface.co/datalab-to/surya-ocr-2) |
 | 160 | 6 | MIL-UT/Asagi-14BImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/MIL-UT/Asagi-14B) |
 | Updatedabout 8 hours ago | 6.26k | Qwen/Qwen3-VL-30B-A3B-ThinkingImage-Text-to-Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Thinking) |
 | Updatedabout 14 hours ago | 6 | Qwen/Qwen3-VL-8B-InstructImage-Text-to-Text | 9B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct) |
@@ -2613,6 +2614,7 @@ Updated on 2026-05-31
 | 187 | 29 | briaai/Fibo-EditImage-to-Image | Updatedabout 16 hours ago | [Link](https://huggingface.co/briaai/Fibo-Edit) |
 | 1.87k | 28 | lllyasviel/sd-controlnet-hedImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-hed) |
 | 13 | 28 | nvidia/ChronoEdit-14B-Diffusers-Upscaler-LoraImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/ChronoEdit-14B-Diffusers-Upscaler-Lora) |
+| Updated3 days ago | 27 | Dl26/PiEaImage-to-Image | 1B | [Link](https://huggingface.co/Dl26/PiEa) |
 | 421 | 26 | BertChristiaens/controlnet-seg-roomImage-to-Image | UpdatedMay 25, 2023 | [Link](https://huggingface.co/BertChristiaens/controlnet-seg-room) |
 |  | 26 | dx8152/Qwen-Image-Edit-2511-Gaussian-SplashImage-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/dx8152/Qwen-Image-Edit-2511-Gaussian-Splash) |
 |  | 25 | peteromallet/Flux-Kontext-InSceneImage-to-Image | Updated3 minutes ago | [Link](https://huggingface.co/peteromallet/Flux-Kontext-InScene) |
@@ -3078,6 +3080,7 @@ Updated on 2026-05-31
 | UpdatedAug 27, 2025 | 138 | kpsss34/bl2 | 4B | [Link](https://huggingface.co/kpsss34/bl2.7b-Nsfw-long-captioning-1) |
 | UpdatedMay 24 | 137 | unsloth/Cosmos-Reason1-7BImage-to-Text | 8B | [Link](https://huggingface.co/unsloth/Cosmos-Reason1-7B) |
 | UpdatedMar 18 | 137 | Kansallisarkisto/cyrillic-large-handwrittenImage-to-Text | 0.6B | [Link](https://huggingface.co/Kansallisarkisto/cyrillic-large-handwritten) |
+| UpdatedJul 18, 2025 | 136 | loay/Arabic-OCR-Qwen2 | 8B | [Link](https://huggingface.co/loay/Arabic-OCR-Qwen2.5-VL-7B-Vision) |
 | UpdatedJul 22 | 135 | sugiv/cardvaultplus-500m-ggufImage-to-Text | 0.4B | [Link](https://huggingface.co/sugiv/cardvaultplus-500m-gguf) |
 | 1.69k | 134 | xtuner/llava-phi-3-mini-ggufImage-to-Text | UpdatedApr 29, 2024 | [Link](https://huggingface.co/xtuner/llava-phi-3-mini-gguf) |
 | Updated4 days ago | 134 | mlx-community/olmOCR-2-7B-1025-bf16Image-to-Text | 8B | [Link](https://huggingface.co/mlx-community/olmOCR-2-7B-1025-bf16) |
@@ -3087,6 +3090,7 @@ Updated on 2026-05-31
 | Updated32 minutes ago | 119 | stepfun-ai/GELab-Zero-4B-previewImage-to-Text | 4B | [Link](https://huggingface.co/stepfun-ai/GELab-Zero-4B-preview) |
 | UpdatedFeb 25 | 117k | allenai/olmOCR-7B-0225-previewImage-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview) |
 | UpdatedApr 2 | 116k | reducto/RolmOCRImage-to-Text | 8B | [Link](https://huggingface.co/reducto/RolmOCR) |
+| Updated6 days ago | 114 | Felldude/Ministral-3-3B-Uncensored-FP8Image-to-Text | 4B | [Link](https://huggingface.co/Felldude/Ministral-3-3B-Uncensored-FP8) |
 | Updated5 days ago | 110 | Svngoku/Qwen3-VL-TimeTravelImage-to-Text | 9B | [Link](https://huggingface.co/Svngoku/Qwen3-VL-TimeTravel) |
 | Updatedabout 20 hours ago | 110 | scb10x/typhoon-ocr1 | 2B | [Link](https://huggingface.co/scb10x/typhoon-ocr1.5-2b) |
 | Updatedabout 9 hours ago | 106 | manu02/LAnA-v2Image-to-Text | 0.3B | [Link](https://huggingface.co/manu02/LAnA-v2) |
@@ -3208,6 +3212,7 @@ Updated on 2026-05-31
 | UpdatedApr 27, 2023 | 19 | microsoft/git-large-rImage-to-Text | 0.4B | [Link](https://huggingface.co/microsoft/git-large-r) |
 | Updatedabout 17 hours ago | 18 | Qwen/Qwen3-VL-Reranker-2BImage-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-Reranker-2B) |
 | UpdatedMay 11, 2024 | 18 | calm-ai/donut-base-finetuned-forms-v1Image-to-Text | 0.2B | [Link](https://huggingface.co/calm-ai/donut-base-finetuned-forms-v1) |
+| UpdatedNov 19, 2025 | 18.5k | macpaw-research/blip-icon-captioningImage-to-Text | 0.2B | [Link](https://huggingface.co/macpaw-research/blip-icon-captioning) |
 | 433 | 17 | kpyu/video-blip-opt-2 | UpdatedMay 17, 2023 | [Link](https://huggingface.co/kpyu/video-blip-opt-2.7b-ego4d) |
 | Updated15 days ago | 17.2k | scb10x/typhoon-ocr-7bImage-to-Text | 8B | [Link](https://huggingface.co/scb10x/typhoon-ocr-7b) |
 | UpdatedMar 24, 2024 | 17 | Cdywalst/donut-base-handwriting_recognitionImage-to-Text | 0.2B | [Link](https://huggingface.co/Cdywalst/donut-base-handwriting_recognition) |
@@ -3258,6 +3263,7 @@ Updated on 2026-05-31
 | 13.7k | 10 | TIGER-Lab/VLM2Vec-Qwen2VL-7BImage-to-Text | UpdatedMay 3 | [Link](https://huggingface.co/TIGER-Lab/VLM2Vec-Qwen2VL-7B) |
 | 566 | 10 | hezarai/crnn-fa-license-plate-recognitionImage-to-Text | UpdatedNov 3, 2024 | [Link](https://huggingface.co/hezarai/crnn-fa-license-plate-recognition) |
 | UpdatedApr 10, 2024 | 10 | atasoglu/vit-small-patch16-224-turkish-small-bert-uncasedImage-to-Text | 55.8M | [Link](https://huggingface.co/atasoglu/vit-small-patch16-224-turkish-small-bert-uncased) |
+| UpdatedApr 2 | 10 | Proteus-Computer-Use/omniparser-finetunedImage-to-Text | 0.2B | [Link](https://huggingface.co/Proteus-Computer-Use/omniparser-finetuned) |
 | 475 | 9 | DunnBC22/trocr-base-printed_license_plates_ocrImage-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-base-printed_license_plates_ocr) |
 | 455 | 9 | fhswf/TrOCR_german_handwrittenImage-to-Text | UpdatedJun 18, 2024 | [Link](https://huggingface.co/fhswf/TrOCR_german_handwritten) |
 | UpdatedNov 20, 2023 | 9.05k | facebook/nougat-smallImage-to-Text | 0.2B | [Link](https://huggingface.co/facebook/nougat-small) |
@@ -3584,6 +3590,7 @@ Updated on 2026-05-31
 | 1 | Unknown | leadingtorch/circuit-reasoning-google-gemma-4-31B-it-thinking-enabledImage-to-Text | Updated11 days ago | [Link](https://huggingface.co/leadingtorch/circuit-reasoning-google-gemma-4-31B-it-thinking-enabled) |
 | 1 | Unknown | luisf-mc/gui-g2-3b-ccfImage-to-Text | Updated30 days ago | [Link](https://huggingface.co/luisf-mc/gui-g2-3b-ccf) |
 | 2 | Unknown | Kiuyha/paddleocr-onnxImage-to-Text | UpdatedApr 29 | [Link](https://huggingface.co/Kiuyha/paddleocr-onnx) |
+| 1 | Unknown | mbhosale/FairLLaVAImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/mbhosale/FairLLaVA) |
 
 ## Image-to-Video
 
@@ -6829,6 +6836,7 @@ Updated on 2026-05-31
 | Updatedabout 12 hours ago | 10 | Aratako/Irodori-TTS-500MText-to-Speech | 0.5B | [Link](https://huggingface.co/Aratako/Irodori-TTS-500M) |
 | Updated1 day ago | 9 | OpenMOSS-Team/MOSS-TTS-RealtimeText-to-Speech | 2B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Realtime) |
 | 1.31k | 9 | OpenMOSS-Team/MOSS-TTS-Local-TransformerText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Local-Transformer) |
+| Updatedabout 23 hours ago | 9 | Aratako/Irodori-TTS-600M-v3-VoiceDesignText-to-Speech | 0.6B | [Link](https://huggingface.co/Aratako/Irodori-TTS-600M-v3-VoiceDesign) |
 | 63 | 8 | isaiahbjork/orpheus-3b-0 | Updatedabout 9 hours ago | [Link](https://huggingface.co/isaiahbjork/orpheus-3b-0.1-ft-Q4_K_M-GGUF) |
 | 17 | 8 | MYZY-AI/Muyan-TTSText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/MYZY-AI/Muyan-TTS) |
 | 31 | 8 | marianbasti/XTTS-v2-argentinian-spanishText-to-Speech | UpdatedJul 22, 2024 | [Link](https://huggingface.co/marianbasti/XTTS-v2-argentinian-spanish) |
@@ -7252,6 +7260,7 @@ Updated on 2026-05-31
 | 14 | 2 | Civitai/Sulphur-2-distilled-fp8Text-to-Video | Updated1 day ago | [Link](https://huggingface.co/Civitai/Sulphur-2-distilled-fp8) |
 | 2.02k | 2 | Seregil13th/Sulphur-2-baseText-to-Video | Updated5 days ago | [Link](https://huggingface.co/Seregil13th/Sulphur-2-base) |
 | 43 | 2 | SyFeee/ltx2 | Updated2 days ago | [Link](https://huggingface.co/SyFeee/ltx2.3-chinese-drama-iclora-canny) |
+| 11 | 2 | Muapi/vr-outpaint-ic-lora-ltx2 | Updated6 days ago | [Link](https://huggingface.co/Muapi/vr-outpaint-ic-lora-ltx2.3-equirectangular-outpaint-lora) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
