@@ -372,6 +372,7 @@ Updated on 2026-06-02
 | 5 | Unknown | zghhui/OmniNFTAny-to-Any | Updated2 days ago | [Link](https://huggingface.co/zghhui/OmniNFT) |
 | 18 | Unknown | bytedance-research/LanceAny-to-Any | Updatedabout 2 hours ago | [Link](https://huggingface.co/bytedance-research/Lance) |
 | 5 | Unknown | cyberneurova/CyberNeurova-Lance-3B-abliteratedAny-to-Any | Updated1 day ago | [Link](https://huggingface.co/cyberneurova/CyberNeurova-Lance-3B-abliterated) |
+| 3 | Unknown | fbjr/LTX-2 | Updatedabout 5 hours ago | [Link](https://huggingface.co/fbjr/LTX-2.3-22b-IC-LoRA-Audio-Only-Context) |
 
 ## Audio Classification
 
@@ -2729,6 +2730,7 @@ Updated on 2026-06-02
 |  | 4 | oumoumad/LumiPicImage-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/oumoumad/LumiPic) |
 |  | 4 | prithivMLmods/QIE-2511-3D-Paper-Cut-IllustrationImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/prithivMLmods/QIE-2511-3D-Paper-Cut-Illustration) |
 |  | 4 | Leon1000/Flux-2-Multi-Angles-LoRA-v2Image-to-Image | Updated6 days ago | [Link](https://huggingface.co/Leon1000/Flux-2-Multi-Angles-LoRA-v2) |
+| 249 | 4 | thedeoxen/refcontrol-FLUX | Updated5 days ago | [Link](https://huggingface.co/thedeoxen/refcontrol-FLUX.2-klein-9B-reference-depth-lora) |
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
@@ -3006,6 +3008,7 @@ Updated on 2026-06-02
 | 4 | Unknown | yjitiu/ComfyUI-Binyuan-SamplerImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/yjitiu/ComfyUI-Binyuan-Sampler) |
 | 3 | Unknown | nvidia/PiDImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/nvidia/PiD) |
 | 22 | Unknown | ControlLight/ControlLightImage-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/ControlLight/ControlLight) |
+| 6 | Unknown | nvidia/HarmonizerImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/nvidia/Harmonizer) |
 
 ## Image-to-Text
 
@@ -5164,6 +5167,7 @@ Updated on 2026-06-02
 | Updatedabout 18 hours ago | 217 | google/gemma-3-270mText | 0.3B | [Link](https://huggingface.co/google/gemma-3-270m) |
 | Updated2 days ago | 216 | Simplified-Reasoning/SU-01Text | 31B | [Link](https://huggingface.co/Simplified-Reasoning/SU-01) |
 | 2.13k | 215 | XiaomiMiMo/MiMo-7B-RLText | Updatedabout 12 hours ago | [Link](https://huggingface.co/XiaomiMiMo/MiMo-7B-RL) |
+| Updated3 days ago | 211 | dphn/Dolphin-X1-Trinity-NanoText | 6B | [Link](https://huggingface.co/dphn/Dolphin-X1-Trinity-Nano) |
 | Updatedabout 11 hours ago | 206 | NousResearch/Hermes-4 | 36B | [Link](https://huggingface.co/NousResearch/Hermes-4.3-36B) |
 | 427 | 204 | microsoft/MAI-DS-R1Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/microsoft/MAI-DS-R1) |
 | Updatedabout 2 hours ago | 203 | nvidia/NVIDIA-Nemotron-Nano-9B-v2-JapaneseText | 9B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese) |
@@ -6932,6 +6936,7 @@ Updated on 2026-06-02
 | 134 | 4 | Reza2kn/supertonic-3-litertText-to-Speech | Updated6 days ago | [Link](https://huggingface.co/Reza2kn/supertonic-3-litert) |
 | Updatedabout 20 hours ago | 4 | SPRINGLab/Indic-MioText-to-Speech | 0.6B | [Link](https://huggingface.co/SPRINGLab/Indic-Mio) |
 | 132 | 4 | FluidInference/supertonic-3-coremlText-to-Speech | Updated12 days ago | [Link](https://huggingface.co/FluidInference/supertonic-3-coreml) |
+| 63 | 4 | KRAFTON/Raon-OpenTTS-1BText-to-Speech | Updated12 days ago | [Link](https://huggingface.co/KRAFTON/Raon-OpenTTS-1B) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 1.22k | 3 | CONCREE/Adia_TTSText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/CONCREE/Adia_TTS) |
