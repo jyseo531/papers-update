@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-06-02
+Updated on 2026-06-03
 
 > Generated from the Hugging Face database.
 
@@ -2294,6 +2294,7 @@ Updated on 2026-06-02
 | Updatedabout 16 hours ago | 9.19k | google/gemma-4-26B-A4B-itImage-Text-to-Text | 27B | [Link](https://huggingface.co/google/gemma-4-26B-A4B-it) |
 | Updatedabout 16 hours ago | 9.12k | havenoammo/Qwen3 | 0.4B | [Link](https://huggingface.co/havenoammo/Qwen3.6-27B-MTP-UD-GGUF) |
 | Updated5 days ago | 9.7k | ggml-org/MiniCPM-V-4 | 0.8B | [Link](https://huggingface.co/ggml-org/MiniCPM-V-4.6-GGUF) |
+| Updated3 days ago | 9.72k | unsloth/Step-3 | 197B | [Link](https://huggingface.co/unsloth/Step-3.7-Flash-GGUF) |
 | 9.71k | 8 | lmstudio-community/gemma-3-27b-it-GGUFImage-Text-to-Text | Updatedabout 18 hours ago | [Link](https://huggingface.co/lmstudio-community/gemma-3-27b-it-GGUF) |
 | 2.95k | 8 | bartowski/google_gemma-3-4b-it-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF) |
 | 725 | 8 | Mungert/gemma-3-4b-it-ggufImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/Mungert/gemma-3-4b-it-gguf) |
@@ -3170,6 +3171,7 @@ Updated on 2026-06-02
 | UpdatedDec 4, 2024 | 35 | shashikanth-a/Llama-3 | 1B | [Link](https://huggingface.co/shashikanth-a/Llama-3.2-11B-Vision-4bit) |
 | UpdatedApr 24, 2024 | 35 | HamAndCheese82/math-ocr-donut-v2Image-to-Text | 0.2B | [Link](https://huggingface.co/HamAndCheese82/math-ocr-donut-v2) |
 | UpdatedNov 22, 2025 | 34.4k | DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-ExtremeImage-to-Text | 4B | [Link](https://huggingface.co/DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-Extreme) |
+| Updated5 days ago | 34 | SEOKDONG/Qwen3 | 9B | [Link](https://huggingface.co/SEOKDONG/Qwen3.5-9B-kor-enterprise) |
 | Updated3 days ago | 33 | ENC-PSL/Medusa0 | 9B | [Link](https://huggingface.co/ENC-PSL/Medusa0.1Line-9B) |
 | 6.34k | 32 | thwri/CogFlorence-2 | UpdatedSep 28, 2024 | [Link](https://huggingface.co/thwri/CogFlorence-2.2-Large) |
 | Updatedabout 4 hours ago | 32 | junyoung-00/Phi-3 | 4B | [Link](https://huggingface.co/junyoung-00/Phi-3.5-vision-instruct-ChartCap) |
@@ -3598,6 +3600,7 @@ Updated on 2026-06-02
 | 1 | Unknown | luisf-mc/gui-g2-3b-ccfImage-to-Text | Updated30 days ago | [Link](https://huggingface.co/luisf-mc/gui-g2-3b-ccf) |
 | 2 | Unknown | Kiuyha/paddleocr-onnxImage-to-Text | UpdatedApr 29 | [Link](https://huggingface.co/Kiuyha/paddleocr-onnx) |
 | 1 | Unknown | mbhosale/FairLLaVAImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/mbhosale/FairLLaVA) |
+| 2 | Unknown | poolside-laguna-hackathon/laguna-visionImage-to-Text | Updated3 days ago | [Link](https://huggingface.co/poolside-laguna-hackathon/laguna-vision) |
 
 ## Image-to-Video
 
@@ -6442,6 +6445,7 @@ Updated on 2026-06-02
 | 5 | 1.41k | stabilityai/sd-vae-ft-mse-originalText-to-Image | UpdatedDec 19, 2022 | [Link](https://huggingface.co/stabilityai/sd-vae-ft-mse-original) |
 | Updated7 days ago | 1.55k | Granddyser/BigLoveKlein-CollectionText-to-Image | 9B | [Link](https://huggingface.co/Granddyser/BigLoveKlein-Collection) |
 | Updated5 days ago | 1.98k | InsecureErasure/CyberRealisticXL-GGUFText-to-Image | 3B | [Link](https://huggingface.co/InsecureErasure/CyberRealisticXL-GGUF) |
+| Updated1 day ago | 1.14k | Green-Sky/bonsai-image-binary-4B-GGUFText-to-Image | 4B | [Link](https://huggingface.co/Green-Sky/bonsai-image-binary-4B-GGUF) |
 | 1.84M |  | black-forest-labs/FLUX | UpdatedAug 16, 2024 | [Link](https://huggingface.co/black-forest-labs/FLUX.1-dev) |
 | 268k |  | stabilityai/stable-diffusion-3 | UpdatedOct 22, 2024 | [Link](https://huggingface.co/stabilityai/stable-diffusion-3.5-large) |
 | 3.52M |  | stabilityai/stable-diffusion-xl-base-1 | UpdatedOct 30, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) |
@@ -7452,6 +7456,8 @@ Updated on 2026-06-02
 | 3 | Unknown | 6kplus/PhyMotion-CausalForcing-1 | Updated6 days ago | [Link](https://huggingface.co/6kplus/PhyMotion-CausalForcing-1.3B) |
 | 3 | Unknown | HKUSTAudio/Talker-T2AVText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/HKUSTAudio/Talker-T2AV) |
 | 3 | Unknown | ernie-research/NAVAText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/ernie-research/NAVA) |
+| 2 | Unknown | mlx-community/LongCat-Video-Avatar-1 | Updated5 days ago | [Link](https://huggingface.co/mlx-community/LongCat-Video-Avatar-1.5-bf16-dmd-merged) |
+| 2 | Unknown | qixinhu11/LongLive-RAGText-to-Video | Updatedabout 12 hours ago | [Link](https://huggingface.co/qixinhu11/LongLive-RAG) |
 
 ## Text2Text Generation
 
