@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-06-03
+Updated on 2026-06-04
 
 > Generated from the Hugging Face database.
 
@@ -29,6 +29,7 @@ Updated on 2026-06-03
 | Updatedabout 12 hours ago | 489 | google/gemma-4-31B-it-assistantAny-to-Any | 0.5B | [Link](https://huggingface.co/google/gemma-4-31B-it-assistant) |
 | Updated4 days ago | 480 | llmfan46/gemma-4-E4B-it-ultra-uncensored-hereticAny-to-Any | 8B | [Link](https://huggingface.co/llmfan46/gemma-4-E4B-it-ultra-uncensored-heretic) |
 | Updatedabout 12 hours ago | 470 | google/gemma-4-26B-A4B-it-assistantAny-to-Any | 0.4B | [Link](https://huggingface.co/google/gemma-4-26B-A4B-it-assistant) |
+| Updatedabout 5 hours ago | 463 | google/gemma-4-12B-itAny-to-Any | 12B | [Link](https://huggingface.co/google/gemma-4-12B-it) |
 | Updatedabout 14 hours ago | 450 | google/gemma-4-E4B-it-assistantAny-to-Any | 78.8M | [Link](https://huggingface.co/google/gemma-4-E4B-it-assistant) |
 | Updated3 days ago | 443 | cpatonn/Qwen3-Omni-30B-A3B-Instruct-AWQ-8bitAny-to-Any | 14B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Instruct-AWQ-8bit) |
 | Updated2 days ago | 438 | samuelchristlie/Lance-GGUFAny-to-Any | 6B | [Link](https://huggingface.co/samuelchristlie/Lance-GGUF) |
@@ -113,6 +114,7 @@ Updated on 2026-06-03
 | Updated14 days ago | 37 | sensefvg/InteractiveOmni-8BAny-to-Any | 10B | [Link](https://huggingface.co/sensefvg/InteractiveOmni-8B) |
 | UpdatedAug 14 | 37k | unsloth/gemma-3-12b-it-GGUFAny-to-Any | 12B | [Link](https://huggingface.co/unsloth/gemma-3-12b-it-GGUF) |
 | Updated5 days ago | 37 | prithivMLmods/gemma-4-E4B-it-Uncensored-MAXAny-to-Any | 8B | [Link](https://huggingface.co/prithivMLmods/gemma-4-E4B-it-Uncensored-MAX) |
+| Updatedabout 5 hours ago | 37 | google/gemma-4-12B-it-assistantAny-to-Any | 0.4B | [Link](https://huggingface.co/google/gemma-4-12B-it-assistant) |
 | Updated6 days ago | 36 | CalmState/gemma-3-4b-polyglot-v1Any-to-Any | 4B | [Link](https://huggingface.co/CalmState/gemma-3-4b-polyglot-v1) |
 | Updated10 days ago | 36 | Lambent/IsoC-Gemma-3-12BAny-to-Any | 12B | [Link](https://huggingface.co/Lambent/IsoC-Gemma-3-12B) |
 | UpdatedMar 28 | 35 | allura-org/Gemma-3-Glitter-12BAny-to-Any | 12B | [Link](https://huggingface.co/allura-org/Gemma-3-Glitter-12B) |
@@ -155,6 +157,7 @@ Updated on 2026-06-03
 | 348 | 10 | mlx-community/Llama-4-Scout-17B-16E-Instruct-4bitAny-to-Any | UpdatedMay 3, 2025 | [Link](https://huggingface.co/mlx-community/Llama-4-Scout-17B-16E-Instruct-4bit) |
 | Updatedabout 1 hour ago | 10 | FlashLabs/Chroma-4BAny-to-Any | 6B | [Link](https://huggingface.co/FlashLabs/Chroma-4B) |
 | Updatedabout 10 hours ago | 10 | huihui-ai/Huihui-gemma-4-31B-it-abliteratedAny-to-Any | 33B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-31B-it-abliterated) |
+| Updatedabout 5 hours ago | 10 | google/gemma-4-12BAny-to-Any | 12B | [Link](https://huggingface.co/google/gemma-4-12B) |
 | 23 | 9 | Alpha-VLLM/Lumina-mGPT-7B-1024Any-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-1024) |
 | Updatedabout 11 hours ago | 9.76k | google/gemma-4-E2BAny-to-Any | 5B | [Link](https://huggingface.co/google/gemma-4-E2B) |
 | Updatedabout 10 hours ago | 9 | p-e-w/gemma-4-E2B-it-heretic-araAny-to-Any | 5B | [Link](https://huggingface.co/p-e-w/gemma-4-E2B-it-heretic-ara) |
@@ -1963,6 +1966,7 @@ Updated on 2026-06-03
 | Updated4 days ago | 341 | bakrianoo/arabic-legal-documents-ocr-1 | 4B | [Link](https://huggingface.co/bakrianoo/arabic-legal-documents-ocr-1.0) |
 | Updated2 days ago | 338 | lapa-llm/lapa-v0 | 12B | [Link](https://huggingface.co/lapa-llm/lapa-v0.1.2-instruct) |
 | Updated1 day ago | 317 | ZJU-AI4H/Hulu-Med-14BImage-Text-to-Text | 15B | [Link](https://huggingface.co/ZJU-AI4H/Hulu-Med-14B) |
+| Updated1 day ago | 313 | Hcompany/Holo-3 | 5B | [Link](https://huggingface.co/Hcompany/Holo-3.1-4B) |
 | Updated2 days ago | 311 | Open-Bee/Bee-8B-RLImage-Text-to-Text | 9B | [Link](https://huggingface.co/Open-Bee/Bee-8B-RL) |
 | Updatedabout 21 hours ago | 309 | inclusionAI/ZwZ-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/inclusionAI/ZwZ-4B) |
 | Updated5 days ago | 302 | Qwen/Qwen3-VL-2B-Thinking-FP8Image-Text-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-2B-Thinking-FP8) |
@@ -2074,6 +2078,7 @@ Updated on 2026-06-03
 | Updated2 days ago | 52.6k | bartowski/google_gemma-4-26B-A4B-it-GGUFImage-Text-to-Text | 25B | [Link](https://huggingface.co/bartowski/google_gemma-4-26B-A4B-it-GGUF) |
 | 1.27k | 51 | AIDC-AI/Ovis2-8BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-8B) |
 | Updatedabout 10 hours ago | 49 | nanonets/Nanonets-OCR2-3BImage-Text-to-Text | 4B | [Link](https://huggingface.co/nanonets/Nanonets-OCR2-3B) |
+| Updated31 minutes ago | 48 | unsloth/gemma-4-12b-it-GGUFImage-Text-to-Text | 12B | [Link](https://huggingface.co/unsloth/gemma-4-12b-it-GGUF) |
 | 848 | 47 | AIDC-AI/Ovis2-2BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-2B) |
 | 79.7k | 47 | Qwen/Qwen2-VL-7BImage-Text-to-Text | UpdatedJan 12 | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B) |
 | Updatedabout 21 hours ago | 47 | Kwai-Keye/Keye-VL-2 | 31B | [Link](https://huggingface.co/Kwai-Keye/Keye-VL-2.0-30B-A3B) |
@@ -3516,6 +3521,7 @@ Updated on 2026-06-03
 | 2.97k | 1 | PaddlePaddle/en_PP-OCRv3_mobile_recImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/en_PP-OCRv3_mobile_rec) |
 | 2.08k | 1 | PaddlePaddle/latin_PP-OCRv3_mobile_recImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/latin_PP-OCRv3_mobile_rec) |
 | 23 | 1 | Brian314/pix2text-mfr-quantizedImage-to-Text | UpdatedJun 18, 2024 | [Link](https://huggingface.co/Brian314/pix2text-mfr-quantized) |
+| 3.36k | 1 | PaddlePaddle/SLANeXt_wirelessImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/SLANeXt_wireless) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -6244,6 +6250,7 @@ Updated on 2026-06-03
 | 87 | 44 | Freepik/F-LiteText-to-Image | Updatedabout 15 hours ago | [Link](https://huggingface.co/Freepik/F-Lite) |
 | 17.9k | 43 | Disty0/Z-Image-Turbo-SDNQ-uint4-svd-r32Text-to-Image | Updated5 days ago | [Link](https://huggingface.co/Disty0/Z-Image-Turbo-SDNQ-uint4-svd-r32) |
 | 2.23k | 42 | aoxo/flux | Updatedabout 2 hours ago | [Link](https://huggingface.co/aoxo/flux.1dev-abliteratedv2) |
+| 19 | 42 | ideogram-ai/ideogram-4-fp8Text-to-Image | Updated7 minutes ago | [Link](https://huggingface.co/ideogram-ai/ideogram-4-fp8) |
 | 1.18k | 40 | tencent/SRPOText-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/tencent/SRPO) |
 | Updated1 day ago | 37 | wikeeyang/Flux2-Klein-9B-True-V2Text-to-Image | 9B | [Link](https://huggingface.co/wikeeyang/Flux2-Klein-9B-True-V2) |
 | 5.59k | 33 | hashu786/HYVRewardText-to-Image | Updated5 days ago | [Link](https://huggingface.co/hashu786/HYVReward) |
@@ -6253,6 +6260,7 @@ Updated on 2026-06-03
 | 145 | 28 | ByteDance/XVerseText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/ByteDance/XVerse) |
 | 2.41k | 27 | stanfordmimi/MerlinText-to-Image | UpdatedMar 4 | [Link](https://huggingface.co/stanfordmimi/Merlin) |
 | 41 | 26 | SG161222/SPARK | Updatedabout 17 hours ago | [Link](https://huggingface.co/SG161222/SPARK.Chroma_preview) |
+| 15 | 25 | ideogram-ai/ideogram-4-nf4Text-to-Image | Updated7 minutes ago | [Link](https://huggingface.co/ideogram-ai/ideogram-4-nf4) |
 | Updatedabout 8 hours ago | 24 | jayn7/Z-Image-GGUFText-to-Image | 6B | [Link](https://huggingface.co/jayn7/Z-Image-GGUF) |
 | Updatedabout 11 hours ago | 24 | shallowdream204/BitDance-14B-16xText-to-Image | 15B | [Link](https://huggingface.co/shallowdream204/BitDance-14B-16x) |
 | 12 | 24 | Lakonik/AsymFLUX | Updatedabout 13 hours ago | [Link](https://huggingface.co/Lakonik/AsymFLUX.2-klein-9B) |
@@ -6904,6 +6912,7 @@ Updated on 2026-06-03
 | Updated4 days ago | 5 | kizuna-intelligence/Irodori-TTS-500M-v2-duration-controlText-to-Speech | 0.5B | [Link](https://huggingface.co/kizuna-intelligence/Irodori-TTS-500M-v2-duration-control) |
 | 18 | 5 | XRXRX/X-VoiceText-to-Speech | Updated5 days ago | [Link](https://huggingface.co/XRXRX/X-Voice) |
 | Updatedabout 14 hours ago | 5 | aguken-ai/Qwen-3-TTS-12Hz-0 | 0.9B | [Link](https://huggingface.co/aguken-ai/Qwen-3-TTS-12Hz-0.6B-Base-hi-LoRA-Finetuned-BNB-NF4) |
+| Updated1 day ago | 5 | MisoLabs/MisoTTSText-to-Speech | 8B | [Link](https://huggingface.co/MisoLabs/MisoTTS) |
 | 5 | 4 | lunahr/csm-1b-safetensors-fp16Text-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-fp16) |
 | 2 | 4 | VAGOsolutions/SauerkrautTTS-Preview-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/VAGOsolutions/SauerkrautTTS-Preview-0.1) |
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
@@ -7143,6 +7152,7 @@ Updated on 2026-06-03
 | 1.6k | 71 | OmniAvatar/OmniAvatar-14BText-to-Video | Updatedabout 11 hours ago | [Link](https://huggingface.co/OmniAvatar/OmniAvatar-14B) |
 | 15.2k | 65 | Skywork/SkyReels-V1-Hunyuan-T2VText-to-Video | Updatedabout 21 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-T2V) |
 | 136 | 58 | alibaba-pai/CogVideoX-Fun-V1 | UpdatedDec 11, 2025 | [Link](https://huggingface.co/alibaba-pai/CogVideoX-Fun-V1.1-Reward-LoRAs) |
+| 159 | 57 | baidu/NAVAText-to-Video | Updatedabout 9 hours ago | [Link](https://huggingface.co/baidu/NAVA) |
 | UpdatedApr 16, 2024 | 55 | nagayama0706/video_generation_modelText-to-Video | 7B | [Link](https://huggingface.co/nagayama0706/video_generation_model) |
 | Updatedabout 12 hours ago | 50 | Nichonauta/Self-Forcing2 | 1B | [Link](https://huggingface.co/Nichonauta/Self-Forcing2.1-T2V-1.3B-GGUF) |
 | 12.7k | 48 | calcuis/hunyuan-ggufText-to-Video | UpdatedDec 21, 2024 | [Link](https://huggingface.co/calcuis/hunyuan-gguf) |
