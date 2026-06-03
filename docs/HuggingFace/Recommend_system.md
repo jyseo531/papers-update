@@ -7458,6 +7458,7 @@ Updated on 2026-06-03
 | 3 | Unknown | ernie-research/NAVAText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/ernie-research/NAVA) |
 | 2 | Unknown | mlx-community/LongCat-Video-Avatar-1 | Updated5 days ago | [Link](https://huggingface.co/mlx-community/LongCat-Video-Avatar-1.5-bf16-dmd-merged) |
 | 2 | Unknown | qixinhu11/LongLive-RAGText-to-Video | Updatedabout 12 hours ago | [Link](https://huggingface.co/qixinhu11/LongLive-RAG) |
+| 5 | Unknown | jdopensource/JoyAI-EchoText-to-Video | Updatedabout 16 hours ago | [Link](https://huggingface.co/jdopensource/JoyAI-Echo) |
 
 ## Text2Text Generation
 
