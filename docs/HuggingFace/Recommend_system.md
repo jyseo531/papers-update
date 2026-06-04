@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-06-04
+Updated on 2026-06-05
 
 > Generated from the Hugging Face database.
 
@@ -33,6 +33,7 @@ Updated on 2026-06-04
 | Updatedabout 14 hours ago | 450 | google/gemma-4-E4B-it-assistantAny-to-Any | 78.8M | [Link](https://huggingface.co/google/gemma-4-E4B-it-assistant) |
 | Updated3 days ago | 443 | cpatonn/Qwen3-Omni-30B-A3B-Instruct-AWQ-8bitAny-to-Any | 14B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Instruct-AWQ-8bit) |
 | Updated2 days ago | 438 | samuelchristlie/Lance-GGUFAny-to-Any | 6B | [Link](https://huggingface.co/samuelchristlie/Lance-GGUF) |
+| Updatedabout 19 hours ago | 427 | mlx-community/gemma-4-12B-8bitAny-to-Any | 3B | [Link](https://huggingface.co/mlx-community/gemma-4-12B-8bit) |
 | Updated22 days ago | 408 | cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-8bitAny-to-Any | 10B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-8bit) |
 | UpdatedJun 9 | 405 | RedHatAI/gemma-3-4b-it-FP8-dynamicAny-to-Any | 4B | [Link](https://huggingface.co/RedHatAI/gemma-3-4b-it-FP8-dynamic) |
 | Updatedabout 16 hours ago | 398 | QuantStack/HiDream-E1-1-GGUFAny-to-Any | 17B | [Link](https://huggingface.co/QuantStack/HiDream-E1-1-GGUF) |
@@ -49,6 +50,7 @@ Updated on 2026-06-04
 | Updated7 days ago | 259 | cpatonn/Qwen3-Omni-30B-A3B-Captioner-AWQ-4bitAny-to-Any | 6B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Captioner-AWQ-4bit) |
 | Updated1 day ago | 254 | NexaAI/Qwen2 | 3B | [Link](https://huggingface.co/NexaAI/Qwen2.5-Omni-3B-GGUF) |
 | Updatedabout 7 hours ago | 253 | csuhan/Tar-1 | 3B | [Link](https://huggingface.co/csuhan/Tar-1.5B) |
+| Updatedabout 20 hours ago | 227 | mlx-community/gemma-4-12B-4bitAny-to-Any | 3B | [Link](https://huggingface.co/mlx-community/gemma-4-12B-4bit) |
 | UpdatedMay 22 | 217k | meta-llama/Llama-4-Scout-17B-16E-InstructAny-to-Any | 109B | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct) |
 | Updatedabout 1 hour ago | 215 | XiaomiMiMo/MiMo-Audio-7B-BaseAny-to-Any | 8B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-Audio-7B-Base) |
 | Updatedabout 3 hours ago | 215 | inclusionAI/Ming-UniAudio-16B-A3BAny-to-Any | 18B | [Link](https://huggingface.co/inclusionAI/Ming-UniAudio-16B-A3B) |
@@ -3612,6 +3614,7 @@ Updated on 2026-06-04
 | 2 | Unknown | Kiuyha/paddleocr-onnxImage-to-Text | UpdatedApr 29 | [Link](https://huggingface.co/Kiuyha/paddleocr-onnx) |
 | 1 | Unknown | mbhosale/FairLLaVAImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/mbhosale/FairLLaVA) |
 | 2 | Unknown | poolside-laguna-hackathon/laguna-visionImage-to-Text | Updated3 days ago | [Link](https://huggingface.co/poolside-laguna-hackathon/laguna-vision) |
+| 2 | Unknown | Mrzhang666/Zeiss_IntelligenceImage-to-Text | UpdatedJul 5, 2025 | [Link](https://huggingface.co/Mrzhang666/Zeiss_Intelligence) |
 
 ## Image-to-Video
 
@@ -5133,6 +5136,7 @@ Updated on 2026-06-04
 | Updated21 minutes ago | 395 | deepseek-ai/DeepSeek-V4-ProText | 862B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro) |
 | Updatedabout 9 hours ago | 389 | zai-org/GLM-5 | 754B | [Link](https://huggingface.co/zai-org/GLM-5.1) |
 | Updatedabout 5 hours ago | 384 | RUC-DataLab/DeepAnalyze-8BText | 8B | [Link](https://huggingface.co/RUC-DataLab/DeepAnalyze-8B) |
+| Updatedabout 3 hours ago | 384 | nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16Text | 561B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16) |
 | Updated5 days ago | 376 | NousResearch/Hermes-4-70B-FP8Text | 71B | [Link](https://huggingface.co/NousResearch/Hermes-4-70B-FP8) |
 | Updated5 days ago | 376 | microsoft/FrogBoss-32B-2510Text | 677k | [Link](https://huggingface.co/microsoft/FrogBoss-32B-2510) |
 | Updated1 day ago | 375 | YTan2000/Qwen3 | 27B | [Link](https://huggingface.co/YTan2000/Qwen3.5-27B-TQ3_1S) |
@@ -5177,6 +5181,7 @@ Updated on 2026-06-04
 | Updatedabout 10 hours ago | 233 | Qwen/Qwen3-Coder-NextText | 80B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-Next) |
 | Updatedabout 10 hours ago | 232 | inclusionAI/Ling-mini-2 | 16B | [Link](https://huggingface.co/inclusionAI/Ling-mini-2.0) |
 | Updated1 day ago | 231 | Abiray/LTX2 | 21B | [Link](https://huggingface.co/Abiray/LTX2.3-10Eros-GGUF) |
+| Updatedabout 8 hours ago | 229 | nex-agi/Nex-N2-ProText | 397B | [Link](https://huggingface.co/nex-agi/Nex-N2-Pro) |
 | UpdatedSep 8, 2024 | 222k | NousResearch/Hermes-3-Llama-3 | 8B | [Link](https://huggingface.co/NousResearch/Hermes-3-Llama-3.1-8B) |
 | Updated2 days ago | 220 | utter-project/EuroLLM-22B-Instruct-2512Text | 23B | [Link](https://huggingface.co/utter-project/EuroLLM-22B-Instruct-2512) |
 | Updatedabout 18 hours ago | 217 | google/gemma-3-270mText | 0.3B | [Link](https://huggingface.co/google/gemma-3-270m) |
@@ -5190,6 +5195,7 @@ Updated on 2026-06-04
 | Updated25 minutes ago | 202 | shb777/Llama-3 | 8B | [Link](https://huggingface.co/shb777/Llama-3.3-8B-Instruct) |
 | Updated15 days ago | 201 | SamuelBang/AesCoder-4BText | 4B | [Link](https://huggingface.co/SamuelBang/AesCoder-4B) |
 | 11.7k | 196 | smirki/UIGEN-T1-Qwen-7bText | Updated5 days ago | [Link](https://huggingface.co/smirki/UIGEN-T1-Qwen-7b) |
+| Updatedabout 3 hours ago | 196 | nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-NVFP4Text | 335B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-NVFP4) |
 | Updated2 days ago | 190 | openbmb/MiniCPM5-1B-SFTText | 1B | [Link](https://huggingface.co/openbmb/MiniCPM5-1B-SFT) |
 | Updatedabout 4 hours ago | 183 | FrontiersMind/Nandi-Mini-600M-Early-CheckpointText | 0.6B | [Link](https://huggingface.co/FrontiersMind/Nandi-Mini-600M-Early-Checkpoint) |
 | Updated7 days ago | 181 | janhq/Jan-v1-2509Text | 0.0B | [Link](https://huggingface.co/janhq/Jan-v1-2509) |
@@ -5726,6 +5732,7 @@ Updated on 2026-06-04
 | Updated1 day ago | 8.42k | GadflyII/GLM-4 | 18B | [Link](https://huggingface.co/GadflyII/GLM-4.7-Flash-NVFP4) |
 | Updated3 days ago | 8.66k | unsloth/Qwen3-Coder-Next-FP8-DynamicText | 80B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-Next-FP8-Dynamic) |
 | Updatedabout 10 hours ago | 8 | nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8Text | 124B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8) |
+| Updated11 days ago | 8.45k | ibm-granite/granite-switch-4 | 4B | [Link](https://huggingface.co/ibm-granite/granite-switch-4.1-3b-preview) |
 | Updated2 days ago | 7.65k | Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8) |
 | Updatedabout 4 hours ago | 7 | tencent/Hunyuan-7B-InstructText | 8B | [Link](https://huggingface.co/tencent/Hunyuan-7B-Instruct) |
 | Updated4 days ago | 7k | bartowski/cerebras_GLM-4 | 85B | [Link](https://huggingface.co/bartowski/cerebras_GLM-4.5-Air-REAP-82B-A12B-GGUF) |
@@ -6832,6 +6839,7 @@ Updated on 2026-06-04
 | 1.54k | 19 | HKUSTAudio/Llasa-1B-MultilingualText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-1B-Multilingual) |
 | 18.9k | 19 | myshell-ai/MeloTTS-SpanishText-to-Speech | UpdatedMar 1, 2024 | [Link](https://huggingface.co/myshell-ai/MeloTTS-Spanish) |
 | 26 | 19 | fishaudio/openaudio-s1-miniText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/fishaudio/openaudio-s1-mini) |
+| Updated1 day ago | 19 | Trendyol/Trendyol-TTSText-to-Speech | 2B | [Link](https://huggingface.co/Trendyol/Trendyol-TTS) |
 | 2.35k | 18 | 2121-8/japanese-parler-tts-miniText-to-Speech | UpdatedDec 5, 2024 | [Link](https://huggingface.co/2121-8/japanese-parler-tts-mini) |
 | Updated2 days ago | 18 | NandemoGHS/Anime-Llasa-3BText-to-Speech | 3B | [Link](https://huggingface.co/NandemoGHS/Anime-Llasa-3B) |
 | Updatedabout 2 hours ago | 17 | microsoft/VibeVoice-Realtime-0 | 1B | [Link](https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B) |
@@ -6956,6 +6964,8 @@ Updated on 2026-06-04
 | Updatedabout 20 hours ago | 4 | SPRINGLab/Indic-MioText-to-Speech | 0.6B | [Link](https://huggingface.co/SPRINGLab/Indic-Mio) |
 | 132 | 4 | FluidInference/supertonic-3-coremlText-to-Speech | Updated12 days ago | [Link](https://huggingface.co/FluidInference/supertonic-3-coreml) |
 | 63 | 4 | KRAFTON/Raon-OpenTTS-1BText-to-Speech | Updated12 days ago | [Link](https://huggingface.co/KRAFTON/Raon-OpenTTS-1B) |
+| 6 | 4 | worstchan/WavTTSText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/worstchan/WavTTS) |
+| Updatedabout 8 hours ago | 4 | bosonai/higgs-audio-v3-tts-4bText-to-Speech | 5B | [Link](https://huggingface.co/bosonai/higgs-audio-v3-tts-4b) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 1.22k | 3 | CONCREE/Adia_TTSText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/CONCREE/Adia_TTS) |
@@ -7294,6 +7304,7 @@ Updated on 2026-06-04
 | 2.02k | 2 | Seregil13th/Sulphur-2-baseText-to-Video | Updated5 days ago | [Link](https://huggingface.co/Seregil13th/Sulphur-2-base) |
 | 43 | 2 | SyFeee/ltx2 | Updated2 days ago | [Link](https://huggingface.co/SyFeee/ltx2.3-chinese-drama-iclora-canny) |
 | 11 | 2 | Muapi/vr-outpaint-ic-lora-ltx2 | Updated6 days ago | [Link](https://huggingface.co/Muapi/vr-outpaint-ic-lora-ltx2.3-equirectangular-outpaint-lora) |
+| 245 | 2 | Muapi/ltx_2 | Updated12 days ago | [Link](https://huggingface.co/Muapi/ltx_2.3_multi-ref-character-storyboard) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
