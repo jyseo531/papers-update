@@ -183,6 +183,7 @@ Updated on 2026-06-04
 | UpdatedMay 12, 2025 | 6.86k | unsloth/gemma-3-12b-it-bnb-4bitAny-to-Any | 13B | [Link](https://huggingface.co/unsloth/gemma-3-12b-it-bnb-4bit) |
 | Updatedabout 10 hours ago | 6 | huihui-ai/Huihui-gemma-4-26B-A4B-it-abliteratedAny-to-Any | 27B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-26B-A4B-it-abliterated) |
 | Updated15 days ago | 6.42k | DavidAU/gemma-4-E4B-it-The-DECKARD-Expresso-Universe-HERETIC-UNCENSORED-Thinking-GGUFAny-to-Any | 8B | [Link](https://huggingface.co/DavidAU/gemma-4-E4B-it-The-DECKARD-Expresso-Universe-HERETIC-UNCENSORED-Thinking-GGUF) |
+| Updatedabout 9 hours ago | 6 | OpenYourMind/gemma-4-12B-it-abliterated-uncensoredAny-to-Any | 12B | [Link](https://huggingface.co/OpenYourMind/gemma-4-12B-it-abliterated-uncensored) |
 | 1.63k | 5 | PKU-Alignment/AA-chameleon-7b-plusAny-to-Any | UpdatedSep 13, 2024 | [Link](https://huggingface.co/PKU-Alignment/AA-chameleon-7b-plus) |
 | 2.67k | 5 | Junfeng5/Liquid_V1_7BAny-to-Any | Updated8 days ago | [Link](https://huggingface.co/Junfeng5/Liquid_V1_7B) |
 | UpdatedMay 9 | 5.89k | unsloth/gemma-3-27b-it-qat-GGUFAny-to-Any | 27B | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-qat-GGUF) |
@@ -196,6 +197,7 @@ Updated on 2026-06-04
 | Updatedabout 1 hour ago | 5 | groxaxo/Huihui-gemma-4-26B-A4B-it-abliterated-GGUFAny-to-Any | 25B | [Link](https://huggingface.co/groxaxo/Huihui-gemma-4-26B-A4B-it-abliterated-GGUF) |
 | Updatedabout 12 hours ago | 5 | sensenova/SenseNova-U1-8B-MoT-SFTAny-to-Any | 18B | [Link](https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-SFT) |
 | Updated4 days ago | 5.84k | llmfan46/gemma-4-E2B-it-ultra-uncensored-heretic-GGUFAny-to-Any | 5B | [Link](https://huggingface.co/llmfan46/gemma-4-E2B-it-ultra-uncensored-heretic-GGUF) |
+| Updatedless than a minute ago | 5 | Abiray/gemma-4-12b-it-GGUFAny-to-Any | 52.4M | [Link](https://huggingface.co/Abiray/gemma-4-12b-it-GGUF) |
 | 126 | 4 | Alpha-VLLM/Chameleon_7B_mGPTAny-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Chameleon_7B_mGPT) |
 | 37 | 4 | Alpha-VLLM/Lumina-mGPT-7B-512-MultiImageAny-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-512-MultiImage) |
 | 26 | 4 | EPFL-VILAB/4M-7-T2I_XL_CC12MAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-7-T2I_XL_CC12M) |
@@ -215,6 +217,7 @@ Updated on 2026-06-04
 | 132 | 4 | DavidAU/gemma-4-E4B-it-The-DECKARD-Claude-Opus-Expresso-Universe-HERETIC-UNCENSORED-ThinkingAny-to-Any | Updatedabout 8 hours ago | [Link](https://huggingface.co/DavidAU/gemma-4-E4B-it-The-DECKARD-Claude-Opus-Expresso-Universe-HERETIC-UNCENSORED-Thinking) |
 | Updatedabout 18 hours ago | 4.03k | mradermacher/Darkidol-Gemma-4-E4B-it-i1-GGUFAny-to-Any | 8B | [Link](https://huggingface.co/mradermacher/Darkidol-Gemma-4-E4B-it-i1-GGUF) |
 | Updated10 days ago | 4.6k | zecanard/gemma-4-E4B-it-ultra-uncensored-heretic-MLX-4bit-mixed_4_6Any-to-Any | 2B | [Link](https://huggingface.co/zecanard/gemma-4-E4B-it-ultra-uncensored-heretic-MLX-4bit-mixed_4_6) |
+| Updatedabout 9 hours ago | 4 | mlx-community/gemma-4-12B-bf16Any-to-Any | 12B | [Link](https://huggingface.co/mlx-community/gemma-4-12B-bf16) |
 | 481k | 3.11k | deepseek-ai/Janus-Pro-7BAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-7B) |
 | 78 | 3 | VARGPT-family/VARGPT_LLaVA-v1Any-to-Any | UpdatedJan 23 | [Link](https://huggingface.co/VARGPT-family/VARGPT_LLaVA-v1) |
 | 2 | 3 | impactframes/Janus-1 | UpdatedOct 19, 2024 | [Link](https://huggingface.co/impactframes/Janus-1.3B) |
@@ -230,6 +233,7 @@ Updated on 2026-06-04
 | Updatedabout 8 hours ago | 3 | Abhiray/gemma-4-E4B-it-heretic-GGUFAny-to-Any | 8B | [Link](https://huggingface.co/Abhiray/gemma-4-E4B-it-heretic-GGUF) |
 | Updatedabout 14 hours ago | 3 | sensenova/SenseNova-U1-8B-MoT-8step-previewAny-to-Any | 18B | [Link](https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-8step-preview) |
 | UpdatedApr 13 | 3.37k | groxaxo/Huihui-gemma-4-31B-it-abliterated-v2-GGUFAny-to-Any | 31B | [Link](https://huggingface.co/groxaxo/Huihui-gemma-4-31B-it-abliterated-v2-GGUF) |
+| Updatedabout 4 hours ago | 3 | osmapi/osmGemma-4-12B-uncensored-bf16Any-to-Any | 12B | [Link](https://huggingface.co/osmapi/osmGemma-4-12B-uncensored-bf16) |
 | 47 | 2 | PKU-Alignment/AnyRewardModelAny-to-Any | UpdatedDec 28, 2024 | [Link](https://huggingface.co/PKU-Alignment/AnyRewardModel) |
 | 585 | 2 | wnma3mz/Janus-Pro-1B-4bitAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/wnma3mz/Janus-Pro-1B-4bit) |
 | 3 | 2 | lintw/HealthGPT-XL32Any-to-Any | Updatedabout 18 hours ago | [Link](https://huggingface.co/lintw/HealthGPT-XL32) |
@@ -3015,6 +3019,7 @@ Updated on 2026-06-04
 | 3 | Unknown | nvidia/PiDImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/nvidia/PiD) |
 | 22 | Unknown | ControlLight/ControlLightImage-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/ControlLight/ControlLight) |
 | 6 | Unknown | nvidia/HarmonizerImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/nvidia/Harmonizer) |
+| 4 | Unknown | CompVis/rayderImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/CompVis/rayder) |
 
 ## Image-to-Text
 
@@ -5115,6 +5120,7 @@ Updated on 2026-06-04
 | Updated6 days ago | 480 | huihui-ai/Huihui-GLM-4 | 353B | [Link](https://huggingface.co/huihui-ai/Huihui-GLM-4.6-abliterated-mlx-4bit) |
 | Updated3 days ago | 478 | JonasGeiping/stream-qwen3 | 27B | [Link](https://huggingface.co/JonasGeiping/stream-qwen3.5-27b) |
 | Updatedabout 10 hours ago | 466 | AIDC-AI/Marco-Nano-InstructText | 8B | [Link](https://huggingface.co/AIDC-AI/Marco-Nano-Instruct) |
+| Updated1 day ago | 465 | latam-gpt/Llama-3 | 71B | [Link](https://huggingface.co/latam-gpt/Llama-3.1-70B-LatamGPT-SFT-1.0) |
 | Updatedabout 24 hours ago | 463 | PowerInfer/SmallThinker-4BA0 | 4B | [Link](https://huggingface.co/PowerInfer/SmallThinker-4BA0.6B-Instruct) |
 | Updatedabout 16 hours ago | 461 | MaziyarPanahi/VibeThinker-1 | 2B | [Link](https://huggingface.co/MaziyarPanahi/VibeThinker-1.5B-GGUF) |
 | Updated1 day ago | 452 | openbmb/BitCPM-CANN-8B-ggufText | 8B | [Link](https://huggingface.co/openbmb/BitCPM-CANN-8B-gguf) |
