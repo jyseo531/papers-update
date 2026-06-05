@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-06-05
+Updated on 2026-06-06
 
 > Generated from the Hugging Face database.
 
@@ -153,6 +153,7 @@ Updated on 2026-06-05
 | UpdatedApr 26 | 11 | yujiepan/qwen2 | 0.0B | [Link](https://huggingface.co/yujiepan/qwen2.5-omni-tiny-random) |
 | UpdatedDec 12, 2024 | 11 | Alpha-VLLM/Lumina-mGPT-34B-512Any-to-Any | 34B | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-34B-512) |
 | UpdatedMar 20 | 11 | Kfjjdjdjdhdhd/Gemma-3-4b-it-Uncensored-DBL-X-int2-quantizedAny-to-Any | 5B | [Link](https://huggingface.co/Kfjjdjdjdhdhd/Gemma-3-4b-it-Uncensored-DBL-X-int2-quantized) |
+| Updatedabout 1 hour ago | 11 | google/gemma-4-12B-it-qat-q4_0-ggufAny-to-Any | 12B | [Link](https://huggingface.co/google/gemma-4-12B-it-qat-q4_0-gguf) |
 | 42 | 10 | sanaka87/BAGEL-RecAAny-to-Any | Updated2 days ago | [Link](https://huggingface.co/sanaka87/BAGEL-RecA) |
 | 6 | 10 | dorni/UniVerse-1-BaseAny-to-Any | Updatedabout 10 hours ago | [Link](https://huggingface.co/dorni/UniVerse-1-Base) |
 | UpdatedDec 12, 2024 | 10 | Alpha-VLLM/Lumina-mGPT-7B-768-OmniAny-to-Any | 7B | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-768-Omni) |
@@ -165,6 +166,7 @@ Updated on 2026-06-05
 | Updatedabout 11 hours ago | 9.76k | google/gemma-4-E2BAny-to-Any | 5B | [Link](https://huggingface.co/google/gemma-4-E2B) |
 | Updatedabout 10 hours ago | 9 | p-e-w/gemma-4-E2B-it-heretic-araAny-to-Any | 5B | [Link](https://huggingface.co/p-e-w/gemma-4-E2B-it-heretic-ara) |
 | Updatedabout 10 hours ago | 9.82k | nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16Any-to-Any | 33B | [Link](https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16) |
+| Updatedabout 1 hour ago | 9 | unsloth/gemma-4-12B-it-qat-GGUFAny-to-Any | 12B | [Link](https://huggingface.co/unsloth/gemma-4-12B-it-qat-GGUF) |
 | UpdatedJul 9 | 8 | toandev/donglao-gemma-3-4b-it-viAny-to-Any | 4B | [Link](https://huggingface.co/toandev/donglao-gemma-3-4b-it-vi) |
 | Updated13 days ago | 8.66k | llmfan46/gemma-4-E4B-it-uncensored-heretic-GGUFAny-to-Any | 8B | [Link](https://huggingface.co/llmfan46/gemma-4-E4B-it-uncensored-heretic-GGUF) |
 | Updatedabout 1 hour ago | 8 | sensenova/SenseNova-U1-8B-MoT-InfographicAny-to-Any | 18B | [Link](https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-Infographic) |
@@ -6327,6 +6329,7 @@ Updated on 2026-06-05
 | 109 | 11 | UDCAI/Z-Image-Fun-Distill-ComfyUIText-to-Image | Updated1 day ago | [Link](https://huggingface.co/UDCAI/Z-Image-Fun-Distill-ComfyUI) |
 | 1.18k | 11 | linoyts/Flux2-Klein-Delight-LoRAText-to-Image | Updated13 days ago | [Link](https://huggingface.co/linoyts/Flux2-Klein-Delight-LoRA) |
 | 133 | 11 | microsoft/LensText-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/microsoft/Lens) |
+| 70 | 11 | ideogram-ai/ideogram-4-nf4-diffusersText-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/ideogram-ai/ideogram-4-nf4-diffusers) |
 |  | 10 | strangerzonehf/Real-ClaymationText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/strangerzonehf/Real-Claymation) |
 | 17 | 10 | zhang0jhon/flux_waveletText-to-Image | Updated5 days ago | [Link](https://huggingface.co/zhang0jhon/flux_wavelet) |
 | 36 | 10 | codermert/ozgeefinalText-to-Image | Updated6 days ago | [Link](https://huggingface.co/codermert/ozgeefinal) |
@@ -7229,6 +7232,7 @@ Updated on 2026-06-05
 | 13 | 4 | kairos-agi/kairos-sensenova-robot-4B-480P-distilledText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/kairos-agi/kairos-sensenova-robot-4B-480P-distilled) |
 | 31 | 4 | kairos-agi/kairos-sensenova-robotText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/kairos-agi/kairos-sensenova-robot) |
 | Updated14 minutes ago | 4 | SulphurAI/Sulphur-2-baseText-to-Video | 9B | [Link](https://huggingface.co/SulphurAI/Sulphur-2-base) |
+| 295 | 4 | vrgamedevgirl84/LTX2 | UpdatedApr 24 | [Link](https://huggingface.co/vrgamedevgirl84/LTX2.3_Cozy_Felt_Style_LoRa) |
 | 4.64k | 3 | guoyww/animatediff-motion-lora-pan-rightText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-pan-right) |
 | 28 | 3 | finetrainers/3dgs-v0Text-to-Video | UpdatedJan 29 | [Link](https://huggingface.co/finetrainers/3dgs-v0) |
 | 1 | 3 | longlian/text-to-video-lvd-msText-to-Video | UpdatedMay 1, 2024 | [Link](https://huggingface.co/longlian/text-to-video-lvd-ms) |
