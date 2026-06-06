@@ -170,6 +170,7 @@ Updated on 2026-06-06
 | Updatedabout 1 hour ago | 10 | FlashLabs/Chroma-4BAny-to-Any | 6B | [Link](https://huggingface.co/FlashLabs/Chroma-4B) |
 | Updatedabout 10 hours ago | 10 | huihui-ai/Huihui-gemma-4-31B-it-abliteratedAny-to-Any | 33B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-31B-it-abliterated) |
 | Updatedabout 5 hours ago | 10 | google/gemma-4-12BAny-to-Any | 12B | [Link](https://huggingface.co/google/gemma-4-12B) |
+| Updatedabout 22 hours ago | 10.1k | google/gemma-4-12B-it-qat-w4a16-ctAny-to-Any | 13B | [Link](https://huggingface.co/google/gemma-4-12B-it-qat-w4a16-ct) |
 | 23 | 9 | Alpha-VLLM/Lumina-mGPT-7B-1024Any-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-1024) |
 | Updatedabout 11 hours ago | 9.76k | google/gemma-4-E2BAny-to-Any | 5B | [Link](https://huggingface.co/google/gemma-4-E2B) |
 | Updatedabout 10 hours ago | 9 | p-e-w/gemma-4-E2B-it-heretic-araAny-to-Any | 5B | [Link](https://huggingface.co/p-e-w/gemma-4-E2B-it-heretic-ara) |
@@ -311,6 +312,8 @@ Updated on 2026-06-06
 | Updatedabout 16 hours ago | 1.27k | mlx-community/gemma-4-e4b-it-nvfp4Any-to-Any | 2B | [Link](https://huggingface.co/mlx-community/gemma-4-e4b-it-nvfp4) |
 | Updatedabout 14 hours ago | 1.21k | google/gemma-4-E2B-it-assistantAny-to-Any | 78M | [Link](https://huggingface.co/google/gemma-4-E2B-it-assistant) |
 | Updated6 days ago | 1.24k | aisingapore/Gemma-SEA-LION-v4 | 5B | [Link](https://huggingface.co/aisingapore/Gemma-SEA-LION-v4.5-E2B-IT) |
+| Updatedabout 3 hours ago | 1.12k | unsloth/gemma-4-E2B-it-qat-mobile-GGUFAny-to-Any | 5B | [Link](https://huggingface.co/unsloth/gemma-4-E2B-it-qat-mobile-GGUF) |
+| Updatedabout 3 hours ago | 1.48k | unsloth/gemma-4-E4B-it-qat-mobile-GGUFAny-to-Any | 7B | [Link](https://huggingface.co/unsloth/gemma-4-E4B-it-qat-mobile-GGUF) |
 | 2 | Unknown | guanwenhao/MonoSpeechAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/guanwenhao/MonoSpeech) |
 | 22 | Unknown | Goekdeniz-Guelmez/J | UpdatedOct 29, 2024 | [Link](https://huggingface.co/Goekdeniz-Guelmez/J.O.S.I.E.v4o) |
 | 1 | Unknown | hfcsrd/cryptographyAny-to-Any | UpdatedNov 17, 2024 | [Link](https://huggingface.co/hfcsrd/cryptography) |
@@ -2392,6 +2395,8 @@ Updated on 2026-06-06
 | Updatedabout 11 hours ago | 3.19k | google/gemma-4-26B-A4BImage-Text-to-Text | 27B | [Link](https://huggingface.co/google/gemma-4-26B-A4B) |
 | Updated1 day ago | 3.9k | ibm-granite/granite-vision-4 | 4B | [Link](https://huggingface.co/ibm-granite/granite-vision-4.1-4b) |
 | Updated1 day ago | 3.38k | HauhauCS/Gemma4-26B-A4B-Uncensored-HauhauCS-BalancedImage-Text-to-Text | 25B | [Link](https://huggingface.co/HauhauCS/Gemma4-26B-A4B-Uncensored-HauhauCS-Balanced) |
+| Updatedabout 22 hours ago | 3.82k | google/gemma-4-31B-it-qat-q4_0-ggufImage-Text-to-Text | 31B | [Link](https://huggingface.co/google/gemma-4-31B-it-qat-q4_0-gguf) |
+| Updatedabout 22 hours ago | 3.44k | google/gemma-4-26B-A4B-it-qat-q4_0-ggufImage-Text-to-Text | 25B | [Link](https://huggingface.co/google/gemma-4-26B-A4B-it-qat-q4_0-gguf) |
 | Updatedabout 7 hours ago | 2.63k | nvidia/Eagle2 | 8B | [Link](https://huggingface.co/nvidia/Eagle2.5-8B) |
 | Updatedabout 7 hours ago | 2 | internlm/Intern-S1-FP8Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1-FP8) |
 | Updated1 day ago | 2.26k | Qwen/Qwen3-VL-235B-A22B-InstructImage-Text-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct) |
