@@ -44,6 +44,7 @@ Updated on 2026-06-06
 | Updatedabout 3 hours ago | 306 | BAAI/Emu3 | 34B | [Link](https://huggingface.co/BAAI/Emu3.5) |
 | Updatedabout 6 hours ago | 298 | KRAFTON/Raon-Speech-9BAny-to-Any | 9B | [Link](https://huggingface.co/KRAFTON/Raon-Speech-9B) |
 | Updatedabout 19 hours ago | 296 | mlx-community/gemma-4-e4b-8bitAny-to-Any | 3B | [Link](https://huggingface.co/mlx-community/gemma-4-e4b-8bit) |
+| Updatedabout 8 hours ago | 294 | google/gemma-4-E2B-it-qat-mobile-transformersAny-to-Any | 2B | [Link](https://huggingface.co/google/gemma-4-E2B-it-qat-mobile-transformers) |
 | UpdatedSep 7, 2024 | 293 | ljnlonoljpiljm/florence-2-large-nsfw-pretrainAny-to-Any | 0.8B | [Link](https://huggingface.co/ljnlonoljpiljm/florence-2-large-nsfw-pretrain) |
 | UpdatedJul 18, 2024 | 271 | MiaoshouAI/Florence-2-base-PromptGenAny-to-Any | 0.3B | [Link](https://huggingface.co/MiaoshouAI/Florence-2-base-PromptGen) |
 | 488 | 260 | gpt-omni/mini-omni2Any-to-Any | UpdatedOct 24, 2024 | [Link](https://huggingface.co/gpt-omni/mini-omni2) |
@@ -61,6 +62,7 @@ Updated on 2026-06-06
 | Updated3 days ago | 193 | prithivMLmods/gemma-4-E2B-it-Uncensored-MAXAny-to-Any | 5B | [Link](https://huggingface.co/prithivMLmods/gemma-4-E2B-it-Uncensored-MAX) |
 | Updatedabout 8 hours ago | 191 | lijiang/Omni-DiffusionAny-to-Any | 8B | [Link](https://huggingface.co/lijiang/Omni-Diffusion) |
 | Updated27 days ago | 188 | rizkysulaeman/Gemma3N-4B-Conv-MM-Img-Audio-Text-Code-Reasoning-Q8_0-GGUFAny-to-Any | 7B | [Link](https://huggingface.co/rizkysulaeman/Gemma3N-4B-Conv-MM-Img-Audio-Text-Code-Reasoning-Q8_0-GGUF) |
+| Updatedabout 8 hours ago | 181 | google/gemma-4-E4B-it-qat-mobile-ctAny-to-Any | 9B | [Link](https://huggingface.co/google/gemma-4-E4B-it-qat-mobile-ct) |
 | Updated1 day ago | 177 | mlx-community/gemma-4-12B-it-assistant-bf16Any-to-Any | 0.4B | [Link](https://huggingface.co/mlx-community/gemma-4-12B-it-assistant-bf16) |
 | Updated12 days ago | 166 | Saktsant/Qwen3-Omni-30B-A3B-Instruct-AWQAny-to-Any | 10B | [Link](https://huggingface.co/Saktsant/Qwen3-Omni-30B-A3B-Instruct-AWQ) |
 | UpdatedDec 24, 2025 | 166 | mlx-community/Qwen3-Omni-30B-A3B-Instruct-8bitAny-to-Any | 11B | [Link](https://huggingface.co/mlx-community/Qwen3-Omni-30B-A3B-Instruct-8bit) |
@@ -80,9 +82,12 @@ Updated on 2026-06-06
 | Updatedabout 6 hours ago | 101 | KRAFTON/Raon-Speech-9B-FP8Any-to-Any | 9B | [Link](https://huggingface.co/KRAFTON/Raon-Speech-9B-FP8) |
 | 4.22k | 97 | inclusionAI/Ming-Lite-OmniAny-to-Any | Updatedabout 3 hours ago | [Link](https://huggingface.co/inclusionAI/Ming-Lite-Omni) |
 | UpdatedMay 28 | 92 | Gunulhona/Gemma-3-4BAny-to-Any | 4B | [Link](https://huggingface.co/Gunulhona/Gemma-3-4B) |
+| Updatedabout 13 hours ago | 91 | google/gemma-4-E2B-it-qat-q4_0-ggufAny-to-Any | 5B | [Link](https://huggingface.co/google/gemma-4-E2B-it-qat-q4_0-gguf) |
 | UpdatedMay 22 | 88.7k | meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8Any-to-Any | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8) |
 | 36.8k | 83 | openbmb/MiniCPM-o-2_6-ggufAny-to-Any | UpdatedJan 17 | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6-gguf) |
 | Updated5 days ago | 76 | DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-ExtremeAny-to-Any | 4B | [Link](https://huggingface.co/DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-Extreme) |
+| Updatedabout 13 hours ago | 70 | google/gemma-4-E4B-it-qat-q4_0-ggufAny-to-Any | 7B | [Link](https://huggingface.co/google/gemma-4-E4B-it-qat-q4_0-gguf) |
+| Updatedabout 13 hours ago | 68 | google/gemma-4-12B-it-qat-q4_0-unquantizedAny-to-Any | 12B | [Link](https://huggingface.co/google/gemma-4-12B-it-qat-q4_0-unquantized) |
 | Updated6 days ago | 65 | alphakek/gemma-4-E4B-it-heretic-mythos-v1Any-to-Any | 8B | [Link](https://huggingface.co/alphakek/gemma-4-E4B-it-heretic-mythos-v1) |
 | UpdatedAug 20 | 64 | Frane92O/Qwen2 | 8B | [Link](https://huggingface.co/Frane92O/Qwen2.5-Omni-7B-Q4_0-GGUF) |
 | Updatedabout 1 hour ago | 63 | wikeeyang/Emu35-NF4Any-to-Any | 35B | [Link](https://huggingface.co/wikeeyang/Emu35-NF4) |
@@ -104,6 +109,7 @@ Updated on 2026-06-06
 | Updated2 days ago | 46 | AuriAetherwiing/G4-E4B-Musica-v1Any-to-Any | 8B | [Link](https://huggingface.co/AuriAetherwiing/G4-E4B-Musica-v1) |
 | 32.5k | 44 | onnx-community/Janus-Pro-1B-ONNXAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/onnx-community/Janus-Pro-1B-ONNX) |
 | UpdatedAug 14 | 43.6k | unsloth/gemma-3-27b-it-GGUFAny-to-Any | 27B | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-GGUF) |
+| Updatedabout 13 hours ago | 43 | google/gemma-4-E2B-it-qat-q4_0-unquantizedAny-to-Any | 5B | [Link](https://huggingface.co/google/gemma-4-E2B-it-qat-q4_0-unquantized) |
 | 1 | 42 | lehduong/OneDiffusionAny-to-Any | UpdatedJul 24 | [Link](https://huggingface.co/lehduong/OneDiffusion) |
 | Updatedabout 1 hour ago | 42 | inclusionAI/Ming-flash-omni-2 | 104B | [Link](https://huggingface.co/inclusionAI/Ming-flash-omni-2.0) |
 | Updated5 days ago | 42.6k | mlx-community/gemma-4-e2b-it-4bitAny-to-Any | 1B | [Link](https://huggingface.co/mlx-community/gemma-4-e2b-it-4bit) |
@@ -154,6 +160,8 @@ Updated on 2026-06-06
 | UpdatedDec 12, 2024 | 11 | Alpha-VLLM/Lumina-mGPT-34B-512Any-to-Any | 34B | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-34B-512) |
 | UpdatedMar 20 | 11 | Kfjjdjdjdhdhd/Gemma-3-4b-it-Uncensored-DBL-X-int2-quantizedAny-to-Any | 5B | [Link](https://huggingface.co/Kfjjdjdjdhdhd/Gemma-3-4b-it-Uncensored-DBL-X-int2-quantized) |
 | Updatedabout 1 hour ago | 11 | google/gemma-4-12B-it-qat-q4_0-ggufAny-to-Any | 12B | [Link](https://huggingface.co/google/gemma-4-12B-it-qat-q4_0-gguf) |
+| Updatedabout 12 hours ago | 11 | unsloth/gemma-4-E4B-it-qat-GGUFAny-to-Any | 7B | [Link](https://huggingface.co/unsloth/gemma-4-E4B-it-qat-GGUF) |
+| Updatedabout 12 hours ago | 11 | unsloth/gemma-4-E2B-it-qat-GGUFAny-to-Any | 5B | [Link](https://huggingface.co/unsloth/gemma-4-E2B-it-qat-GGUF) |
 | 42 | 10 | sanaka87/BAGEL-RecAAny-to-Any | Updated2 days ago | [Link](https://huggingface.co/sanaka87/BAGEL-RecA) |
 | 6 | 10 | dorni/UniVerse-1-BaseAny-to-Any | Updatedabout 10 hours ago | [Link](https://huggingface.co/dorni/UniVerse-1-Base) |
 | UpdatedDec 12, 2024 | 10 | Alpha-VLLM/Lumina-mGPT-7B-768-OmniAny-to-Any | 7B | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-768-Omni) |
@@ -2118,6 +2126,7 @@ Updated on 2026-06-06
 | Updated1 day ago | 37 | xlangai/OpenCUA-32BImage-Text-to-Text | 33B | [Link](https://huggingface.co/xlangai/OpenCUA-32B) |
 | Updatedabout 1 hour ago | 37.9k | unsloth/gemma-4-E2B-it-GGUFImage-Text-to-Text | 5B | [Link](https://huggingface.co/unsloth/gemma-4-E2B-it-GGUF) |
 | Updated1 day ago | 36 | allenai/MolmoWeb-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/allenai/MolmoWeb-8B) |
+| Updatedabout 12 hours ago | 36 | unsloth/gemma-4-26B-A4B-it-qat-GGUFImage-Text-to-Text | 25B | [Link](https://huggingface.co/unsloth/gemma-4-26B-A4B-it-qat-GGUF) |
 | 23 | 35 | google/gemma-3-27b-it-qat-q4_0-ggufImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-it-qat-q4_0-gguf) |
 | 1.51k | 35 | unsloth/Llama-4-Scout-17B-16E-Instruct-unsloth-bnb-4bitImage-Text-to-Text | Updatedabout 2 hours ago | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct-unsloth-bnb-4bit) |
 | 810 | 35 | fancyfeast/llama-joycaption-beta-one-hf-llavaImage-Text-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/fancyfeast/llama-joycaption-beta-one-hf-llava) |
@@ -5111,6 +5120,7 @@ Updated on 2026-06-06
 | Updated1 day ago | 580 | allenai/Olmo-3 | 32B | [Link](https://huggingface.co/allenai/Olmo-3.1-32B-Think) |
 | Updatedabout 4 hours ago | 570 | MiniMaxAI/MiniMax-M2Text | 229B | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M2) |
 |  | 565 | deepseek-ai/DeepSeek-R1-0528Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528) |
+| Updatedabout 10 hours ago | 557 | nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-Base-BF16Text | 561B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-Base-BF16) |
 | Updated3 days ago | 545 | zed-industries/zeta-2 | 8B | [Link](https://huggingface.co/zed-industries/zeta-2.1) |
 | Updated3 days ago | 540 | ArliAI/gpt-oss-120b-DerestrictedText | 117B | [Link](https://huggingface.co/ArliAI/gpt-oss-120b-Derestricted) |
 | Updatedabout 15 hours ago | 536 | mlx-community/DeepSeek-V4-Flash-2bit-DQText | 284B | [Link](https://huggingface.co/mlx-community/DeepSeek-V4-Flash-2bit-DQ) |
@@ -5163,6 +5173,7 @@ Updated on 2026-06-06
 | Updated3 days ago | 287 | PrimeIntellect/INTELLECT-3 | 107B | [Link](https://huggingface.co/PrimeIntellect/INTELLECT-3.1) |
 | Updated8 days ago | 283 | perplexity-ai/browsesafeText | 31B | [Link](https://huggingface.co/perplexity-ai/browsesafe) |
 | Updatedabout 11 hours ago | 278 | AIDC-AI/Marco-Mini-InstructText | 17B | [Link](https://huggingface.co/AIDC-AI/Marco-Mini-Instruct) |
+| Updated2 days ago | 277 | SupraLabs/Supra-50M-ReasoningText | 51.8M | [Link](https://huggingface.co/SupraLabs/Supra-50M-Reasoning) |
 | Updated2 days ago | 266 | FutureMa/Qwen3-8B-Drama-ThinkingText | 308k | [Link](https://huggingface.co/FutureMa/Qwen3-8B-Drama-Thinking) |
 | Updated5 days ago | 264 | arcee-ai/Trinity-Nano-BaseText | 6B | [Link](https://huggingface.co/arcee-ai/Trinity-Nano-Base) |
 | 6.51k | 262 | NousResearch/DeepHermes-3-Llama-3-8B-PreviewText | Updated6 days ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview) |
@@ -5768,6 +5779,7 @@ Updated on 2026-06-06
 | Updatedabout 17 hours ago | 5.07k | TeichAI/Qwen3-14B-Claude-4 | 15B | [Link](https://huggingface.co/TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF) |
 | Updated12 days ago | 5.65k | LEONW24/Qwen3 | 10B | [Link](https://huggingface.co/LEONW24/Qwen3.5-9B-Uncensored) |
 | Updated3 days ago | 5.82k | Abiray/MiniCPM5-1B-GGUFText | 1B | [Link](https://huggingface.co/Abiray/MiniCPM5-1B-GGUF) |
+| Updated1 day ago | 5.53k | unsloth/NVIDIA-Nemotron-3-Ultra-550B-A55B-GGUFText | 549B | [Link](https://huggingface.co/unsloth/NVIDIA-Nemotron-3-Ultra-550B-A55B-GGUF) |
 | Updatedabout 21 hours ago | 4.52k | unsloth/Devstral-Small-2507-GGUFText | 24B | [Link](https://huggingface.co/unsloth/Devstral-Small-2507-GGUF) |
 | Updatedabout 6 hours ago | 4 | baichuan-inc/Baichuan-M2-32BText | 33B | [Link](https://huggingface.co/baichuan-inc/Baichuan-M2-32B) |
 | UpdatedMay 14 | 4 | inclusionAI/Ling-lite-base-1 | 17B | [Link](https://huggingface.co/inclusionAI/Ling-lite-base-1.5) |
@@ -7310,6 +7322,7 @@ Updated on 2026-06-06
 | 43 | 2 | SyFeee/ltx2 | Updated2 days ago | [Link](https://huggingface.co/SyFeee/ltx2.3-chinese-drama-iclora-canny) |
 | 11 | 2 | Muapi/vr-outpaint-ic-lora-ltx2 | Updated6 days ago | [Link](https://huggingface.co/Muapi/vr-outpaint-ic-lora-ltx2.3-equirectangular-outpaint-lora) |
 | 245 | 2 | Muapi/ltx_2 | Updated12 days ago | [Link](https://huggingface.co/Muapi/ltx_2.3_multi-ref-character-storyboard) |
+| 84 | 2 | DuoNeural/Cosmos3-Nano-AbliteratedText-to-Video | Updated3 days ago | [Link](https://huggingface.co/DuoNeural/Cosmos3-Nano-Abliterated) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
