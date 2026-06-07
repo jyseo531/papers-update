@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-06-06
+Updated on 2026-06-07
 
 > Generated from the Hugging Face database.
 
@@ -66,6 +66,7 @@ Updated on 2026-06-06
 | Updated1 day ago | 177 | mlx-community/gemma-4-12B-it-assistant-bf16Any-to-Any | 0.4B | [Link](https://huggingface.co/mlx-community/gemma-4-12B-it-assistant-bf16) |
 | Updated12 days ago | 166 | Saktsant/Qwen3-Omni-30B-A3B-Instruct-AWQAny-to-Any | 10B | [Link](https://huggingface.co/Saktsant/Qwen3-Omni-30B-A3B-Instruct-AWQ) |
 | UpdatedDec 24, 2025 | 166 | mlx-community/Qwen3-Omni-30B-A3B-Instruct-8bitAny-to-Any | 11B | [Link](https://huggingface.co/mlx-community/Qwen3-Omni-30B-A3B-Instruct-8bit) |
+| Updated1 day ago | 164 | google/gemma-4-E4B-it-qat-mobile-transformersAny-to-Any | 3B | [Link](https://huggingface.co/google/gemma-4-E4B-it-qat-mobile-transformers) |
 | UpdatedOct 23, 2024 | 153 | BAAI/Emu3-Stage1Any-to-Any | 8B | [Link](https://huggingface.co/BAAI/Emu3-Stage1) |
 | UpdatedDec 24, 2025 | 151 | mlx-community/Qwen3-Omni-30B-A3B-Instruct-bf16Any-to-Any | 35B | [Link](https://huggingface.co/mlx-community/Qwen3-Omni-30B-A3B-Instruct-bf16) |
 | 455 | 149 | NexaAI/OmniNeural-4BAny-to-Any | Updated4 days ago | [Link](https://huggingface.co/NexaAI/OmniNeural-4B) |
@@ -2275,6 +2276,7 @@ Updated on 2026-06-06
 | Updatedabout 10 hours ago | 11 | unsloth/gemma-4-31B-it-GGUFImage-Text-to-Text | 31B | [Link](https://huggingface.co/unsloth/gemma-4-31B-it-GGUF) |
 | Updated1 minute ago | 11.4k | dealignai/Gemma-4-26B-A4B-JANG_4M-CRACKImage-Text-to-Text | 5B | [Link](https://huggingface.co/dealignai/Gemma-4-26B-A4B-JANG_4M-CRACK) |
 | Updatedabout 10 hours ago | 11 | internlm/Intern-S2-PreviewImage-Text-to-Text | 36B | [Link](https://huggingface.co/internlm/Intern-S2-Preview) |
+| Updatedabout 18 hours ago | 11k | unsloth/gemma-4-31B-it-qat-GGUFImage-Text-to-Text | 31B | [Link](https://huggingface.co/unsloth/gemma-4-31B-it-qat-GGUF) |
 | 185 | 10 | prithivMLmods/Tokenized-OCRImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/prithivMLmods/Tokenized-OCR) |
 | 25 | 10 | prithivMLmods/Qwen2-VL-OCR2-2B-InstructImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/Qwen2-VL-OCR2-2B-Instruct) |
 | 9 | 10 | google/gemma-3-12b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-12b-pt) |
@@ -5101,6 +5103,7 @@ Updated on 2026-06-06
 | Updatedabout 18 hours ago | 758 | tiiuae/Falcon-H1R-7BText | 8B | [Link](https://huggingface.co/tiiuae/Falcon-H1R-7B) |
 | Updatedabout 24 hours ago | 752 | thu-pacman/PCMind-2 | 2B | [Link](https://huggingface.co/thu-pacman/PCMind-2.1-Kaiyuan-2B) |
 | Updatedabout 2 hours ago | 722 | nvidia/NVIDIA-Nemotron-Nano-9B-v2Text | 9B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2) |
+| Updatedabout 15 hours ago | 711 | AEON-7/Gemma-4-12B-it-AEON-Abliterated-K4-BF16Text | 12B | [Link](https://huggingface.co/AEON-7/Gemma-4-12B-it-AEON-Abliterated-K4-BF16) |
 | Updatedabout 2 hours ago | 706 | HuggingFaceBio/Carbon-500MText | 0.5B | [Link](https://huggingface.co/HuggingFaceBio/Carbon-500M) |
 |  | 682 | deepseek-ai/DeepSeek-V3-0324Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3-0324) |
 | Updated6 days ago | 679 | manjunathshiva/gpt-oss-20b-tq3Text | 22B | [Link](https://huggingface.co/manjunathshiva/gpt-oss-20b-tq3) |
@@ -5216,10 +5219,12 @@ Updated on 2026-06-06
 | 11.7k | 196 | smirki/UIGEN-T1-Qwen-7bText | Updated5 days ago | [Link](https://huggingface.co/smirki/UIGEN-T1-Qwen-7b) |
 | Updatedabout 3 hours ago | 196 | nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-NVFP4Text | 335B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-NVFP4) |
 | Updated2 days ago | 190 | openbmb/MiniCPM5-1B-SFTText | 1B | [Link](https://huggingface.co/openbmb/MiniCPM5-1B-SFT) |
+| Updated2 days ago | 190 | nex-agi/Nex-N2-miniText | 35B | [Link](https://huggingface.co/nex-agi/Nex-N2-mini) |
 | Updatedabout 4 hours ago | 183 | FrontiersMind/Nandi-Mini-600M-Early-CheckpointText | 0.6B | [Link](https://huggingface.co/FrontiersMind/Nandi-Mini-600M-Early-Checkpoint) |
 | Updated7 days ago | 181 | janhq/Jan-v1-2509Text | 0.0B | [Link](https://huggingface.co/janhq/Jan-v1-2509) |
 | Updated1 day ago | 179 | nvidia/OpenReasoning-Nemotron-7BText | 8B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-7B) |
 | Updated1 day ago | 175 | HuggingFaceTB/nanowhale-100mText | 0.1B | [Link](https://huggingface.co/HuggingFaceTB/nanowhale-100m) |
+| Updatedabout 1 hour ago | 175 | OBLITERATUS/Gemma-4-12B-OBLITERATEDText | 12B | [Link](https://huggingface.co/OBLITERATUS/Gemma-4-12B-OBLITERATED) |
 | Updated4 days ago | 173 | deepcogito/cogito-v2-preview-deepseek-671B-MoEText | 671B | [Link](https://huggingface.co/deepcogito/cogito-v2-preview-deepseek-671B-MoE) |
 | Updated4 days ago | 170 | Qwen/WebWorld-14BText | 15B | [Link](https://huggingface.co/Qwen/WebWorld-14B) |
 | Updated5 days ago | 170 | allenai/Emo_1b14b_1TText | 14B | [Link](https://huggingface.co/allenai/Emo_1b14b_1T) |
@@ -5801,6 +5806,7 @@ Updated on 2026-06-06
 | Updated1 day ago | 4.73k | nvidia/Gemma-4-26B-A4B-NVFP4Text | 14B | [Link](https://huggingface.co/nvidia/Gemma-4-26B-A4B-NVFP4) |
 | Updated4 days ago | 4.03k | lewtun/talkie-1930-13b-it-hfText | 13B | [Link](https://huggingface.co/lewtun/talkie-1930-13b-it-hf) |
 | Updated7 minutes ago | 4 | jedisct1/MiMo-V2 | 309B | [Link](https://huggingface.co/jedisct1/MiMo-V2.5-coder-Q2) |
+| Updated2 days ago | 4.33k | yuxinlu1/gemma-4-12B-it-Claude-4 | 12B | [Link](https://huggingface.co/yuxinlu1/gemma-4-12B-it-Claude-4.6-4.8-Opus-GGUF) |
 | Updated2 days ago | 3.87k | unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUFText | 480B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUF) |
 | Updated6 days ago | 3.39k | Qwen/Qwen3-30B-A3B-Thinking-2507-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507-FP8) |
 | Updatedabout 4 hours ago | 3.61k | openai/gpt-oss-120bText | 63B | [Link](https://huggingface.co/openai/gpt-oss-120b) |
@@ -7266,6 +7272,7 @@ Updated on 2026-06-06
 | 89 | 3 | BestWishYsh/Helios-MidText-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/BestWishYsh/Helios-Mid) |
 | 9 | 3 | nvidia/AnyFlow-FAR-Wan2 | Updatedabout 8 hours ago | [Link](https://huggingface.co/nvidia/AnyFlow-FAR-Wan2.1-1.3B-Diffusers) |
 | 5 | 3 | OmerHagage/ltx2-greenscreen-avatar-ic-lora-vertical-v1Text-to-Video | Updatedabout 18 hours ago | [Link](https://huggingface.co/OmerHagage/ltx2-greenscreen-avatar-ic-lora-vertical-v1) |
+| Updatedabout 4 hours ago | 3 | neuregex/Bernini-R-GGUFText-to-Video | 14B | [Link](https://huggingface.co/neuregex/Bernini-R-GGUF) |
 | 69 | 2 | obvious-research/onlyflowText-to-Video | Updated5 days ago | [Link](https://huggingface.co/obvious-research/onlyflow) |
 | 42 | 2 | jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIEText-to-Video | Updated7 days ago | [Link](https://huggingface.co/jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIE) |
 | 10 | 2 | vdo/Hotshot-XLText-to-Video | UpdatedOct 4, 2023 | [Link](https://huggingface.co/vdo/Hotshot-XL) |
@@ -7328,6 +7335,7 @@ Updated on 2026-06-06
 | 11 | 2 | Muapi/vr-outpaint-ic-lora-ltx2 | Updated6 days ago | [Link](https://huggingface.co/Muapi/vr-outpaint-ic-lora-ltx2.3-equirectangular-outpaint-lora) |
 | 245 | 2 | Muapi/ltx_2 | Updated12 days ago | [Link](https://huggingface.co/Muapi/ltx_2.3_multi-ref-character-storyboard) |
 | 84 | 2 | DuoNeural/Cosmos3-Nano-AbliteratedText-to-Video | Updated3 days ago | [Link](https://huggingface.co/DuoNeural/Cosmos3-Nano-Abliterated) |
+| 36 | 2 | mlx-community/Bernini-R-int4Text-to-Video | Updated3 days ago | [Link](https://huggingface.co/mlx-community/Bernini-R-int4) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
