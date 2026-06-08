@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-06-08
+Updated on 2026-06-09
 
 > Generated from the Hugging Face database.
 
@@ -166,6 +166,7 @@ Updated on 2026-06-08
 | Updatedabout 1 hour ago | 11 | google/gemma-4-12B-it-qat-q4_0-ggufAny-to-Any | 12B | [Link](https://huggingface.co/google/gemma-4-12B-it-qat-q4_0-gguf) |
 | Updatedabout 12 hours ago | 11 | unsloth/gemma-4-E4B-it-qat-GGUFAny-to-Any | 7B | [Link](https://huggingface.co/unsloth/gemma-4-E4B-it-qat-GGUF) |
 | Updatedabout 12 hours ago | 11 | unsloth/gemma-4-E2B-it-qat-GGUFAny-to-Any | 5B | [Link](https://huggingface.co/unsloth/gemma-4-E2B-it-qat-GGUF) |
+| Updatedabout 5 hours ago | 11 | huihui-ai/Huihui-gemma-4-12B-it-qat-q4_0-unquantized-abliterated-GGUFAny-to-Any | 12B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-12B-it-qat-q4_0-unquantized-abliterated-GGUF) |
 | 42 | 10 | sanaka87/BAGEL-RecAAny-to-Any | Updated2 days ago | [Link](https://huggingface.co/sanaka87/BAGEL-RecA) |
 | 6 | 10 | dorni/UniVerse-1-BaseAny-to-Any | Updatedabout 10 hours ago | [Link](https://huggingface.co/dorni/UniVerse-1-Base) |
 | UpdatedDec 12, 2024 | 10 | Alpha-VLLM/Lumina-mGPT-7B-768-OmniAny-to-Any | 7B | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-768-Omni) |
@@ -3552,6 +3553,7 @@ Updated on 2026-06-08
 | 2.08k | 1 | PaddlePaddle/latin_PP-OCRv3_mobile_recImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/latin_PP-OCRv3_mobile_rec) |
 | 23 | 1 | Brian314/pix2text-mfr-quantizedImage-to-Text | UpdatedJun 18, 2024 | [Link](https://huggingface.co/Brian314/pix2text-mfr-quantized) |
 | 3.36k | 1 | PaddlePaddle/SLANeXt_wirelessImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/SLANeXt_wireless) |
+| 262 | 1 | docling-project/MarkushGrapher-2Image-to-Text | UpdatedMar 23 | [Link](https://huggingface.co/docling-project/MarkushGrapher-2) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
