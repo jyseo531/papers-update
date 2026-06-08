@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-06-07
+Updated on 2026-06-08
 
 > Generated from the Hugging Face database.
 
@@ -16,12 +16,14 @@ Updated on 2026-06-07
 | UpdatedApr 9, 2025 | 728 | meta-llama/Llama-4-Maverick-17B-128EAny-to-Any | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E) |
 | Updatedabout 2 hours ago | 719 | AEON-7/Nemotron-3-Nano-Omni-AEON-Ultimate-Uncensored-NVFP4Any-to-Any | 20B | [Link](https://huggingface.co/AEON-7/Nemotron-3-Nano-Omni-AEON-Ultimate-Uncensored-NVFP4) |
 | Updatedabout 1 hour ago | 718 | XiaomiMiMo/MiMo-Audio-7B-InstructAny-to-Any | 8B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-Audio-7B-Instruct) |
+| Updated3 days ago | 708 | google/gemma-4-12B-it-qat-q4_0-unquantized-assistantAny-to-Any | 0.4B | [Link](https://huggingface.co/google/gemma-4-12B-it-qat-q4_0-unquantized-assistant) |
 | Updated3 days ago | 688 | mlx-community/gemma-4-e4b-it-OptiQ-4bitAny-to-Any | 8B | [Link](https://huggingface.co/mlx-community/gemma-4-e4b-it-OptiQ-4bit) |
 | Updatedabout 10 hours ago | 654 | HIT-TMG/Uni-MoE-2 | 33B | [Link](https://huggingface.co/HIT-TMG/Uni-MoE-2.0-Omni) |
 | Updated3 days ago | 638 | coder3101/gemma-4-E2B-it-hereticAny-to-Any | 5B | [Link](https://huggingface.co/coder3101/gemma-4-E2B-it-heretic) |
 | Updatedabout 10 hours ago | 629 | meituan-longcat/LongCat-Flash-OmniAny-to-Any | 561B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Omni) |
 | 189k | 577 | deepseek-ai/Janus-1 | Updated29 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-1.3B) |
 | Updatedabout 10 hours ago | 571 | inclusionAI/Ming-flash-omni-PreviewAny-to-Any | 104B | [Link](https://huggingface.co/inclusionAI/Ming-flash-omni-Preview) |
+| Updated2 days ago | 567 | google/gemma-4-E2B-it-qat-mobile-ctAny-to-Any | 6B | [Link](https://huggingface.co/google/gemma-4-E2B-it-qat-mobile-ct) |
 | UpdatedApr 14 | 541 | second-state/Llama-4-Scout-17B-16E-Instruct-GGUFAny-to-Any | 108B | [Link](https://huggingface.co/second-state/Llama-4-Scout-17B-16E-Instruct-GGUF) |
 | Updated4 days ago | 534 | WithinUsAI/Gemma4-Overlooked | 5B | [Link](https://huggingface.co/WithinUsAI/Gemma4-Overlooked.Thinker.Uncensored-E2B.gguf) |
 | Updatedabout 4 hours ago | 504 | Backup-bdg/Xoron-Dev-MultiMoeAny-to-Any | 4B | [Link](https://huggingface.co/Backup-bdg/Xoron-Dev-MultiMoe) |
@@ -64,6 +66,7 @@ Updated on 2026-06-07
 | Updated27 days ago | 188 | rizkysulaeman/Gemma3N-4B-Conv-MM-Img-Audio-Text-Code-Reasoning-Q8_0-GGUFAny-to-Any | 7B | [Link](https://huggingface.co/rizkysulaeman/Gemma3N-4B-Conv-MM-Img-Audio-Text-Code-Reasoning-Q8_0-GGUF) |
 | Updatedabout 8 hours ago | 181 | google/gemma-4-E4B-it-qat-mobile-ctAny-to-Any | 9B | [Link](https://huggingface.co/google/gemma-4-E4B-it-qat-mobile-ct) |
 | Updated1 day ago | 177 | mlx-community/gemma-4-12B-it-assistant-bf16Any-to-Any | 0.4B | [Link](https://huggingface.co/mlx-community/gemma-4-12B-it-assistant-bf16) |
+| Updatedabout 13 hours ago | 168 | huihui-ai/Huihui-gemma-4-12B-it-abliteratedAny-to-Any | 12B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-12B-it-abliterated) |
 | Updated12 days ago | 166 | Saktsant/Qwen3-Omni-30B-A3B-Instruct-AWQAny-to-Any | 10B | [Link](https://huggingface.co/Saktsant/Qwen3-Omni-30B-A3B-Instruct-AWQ) |
 | UpdatedDec 24, 2025 | 166 | mlx-community/Qwen3-Omni-30B-A3B-Instruct-8bitAny-to-Any | 11B | [Link](https://huggingface.co/mlx-community/Qwen3-Omni-30B-A3B-Instruct-8bit) |
 | Updated1 day ago | 164 | google/gemma-4-E4B-it-qat-mobile-transformersAny-to-Any | 3B | [Link](https://huggingface.co/google/gemma-4-E4B-it-qat-mobile-transformers) |
@@ -3405,6 +3408,7 @@ Updated on 2026-06-07
 | 111 | 3 | lbm364dl/PaddleOCR-VL-1 | UpdatedMar 27 | [Link](https://huggingface.co/lbm364dl/PaddleOCR-VL-1.5-ONNX) |
 | 29 | 3 | numind/NuMarkdown-8B-Thinking-mlx-4bitsImage-to-Text | Updatedabout 21 hours ago | [Link](https://huggingface.co/numind/NuMarkdown-8B-Thinking-mlx-4bits) |
 | 7.33k | 3 | PaddlePaddle/PP-OCRv4_mobile_recImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv4_mobile_rec) |
+| 2.43k | 3 | mayocream/manga-ocrImage-to-Text | UpdatedNov 29, 2025 | [Link](https://huggingface.co/mayocream/manga-ocr) |
 | 51 | 2 | microsoft/git-base-msrvtt-qaImage-to-Text | UpdatedApr 4, 2024 | [Link](https://huggingface.co/microsoft/git-base-msrvtt-qa) |
 | 32 | 2 | baseplate/vit-gpt2-image-captioningImage-to-Text | UpdatedApr 5, 2023 | [Link](https://huggingface.co/baseplate/vit-gpt2-image-captioning) |
 | 38 | 2 | sbintuitions/sarashina2-vision-14bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-14b) |
@@ -5143,6 +5147,7 @@ Updated on 2026-06-07
 | 894k | 486 | deepseek-ai/DeepSeek-R1-Distill-Qwen-7BText | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B) |
 | Updated6 days ago | 480 | huihui-ai/Huihui-GLM-4 | 353B | [Link](https://huggingface.co/huihui-ai/Huihui-GLM-4.6-abliterated-mlx-4bit) |
 | Updated3 days ago | 478 | JonasGeiping/stream-qwen3 | 27B | [Link](https://huggingface.co/JonasGeiping/stream-qwen3.5-27b) |
+| Updatedabout 12 hours ago | 467 | pat-jj/harness-1Text | 21B | [Link](https://huggingface.co/pat-jj/harness-1) |
 | Updatedabout 10 hours ago | 466 | AIDC-AI/Marco-Nano-InstructText | 8B | [Link](https://huggingface.co/AIDC-AI/Marco-Nano-Instruct) |
 | Updated1 day ago | 465 | latam-gpt/Llama-3 | 71B | [Link](https://huggingface.co/latam-gpt/Llama-3.1-70B-LatamGPT-SFT-1.0) |
 | Updatedabout 24 hours ago | 463 | PowerInfer/SmallThinker-4BA0 | 4B | [Link](https://huggingface.co/PowerInfer/SmallThinker-4BA0.6B-Instruct) |
@@ -6482,6 +6487,7 @@ Updated on 2026-06-07
 | UpdatedApr 24 | 2.38k | calcuis/illustriousText-to-Image | 3B | [Link](https://huggingface.co/calcuis/illustrious) |
 | Updated4 days ago | 2.33k | vantagewithai/Z-Image-Turbo-GGUFText-to-Image | 6B | [Link](https://huggingface.co/vantagewithai/Z-Image-Turbo-GGUF) |
 | UpdatedNov 19, 2025 | 2.29k | kpsss34/FHDR_UncensoredText-to-Image | 12B | [Link](https://huggingface.co/kpsss34/FHDR_Uncensored) |
+| Updatedabout 24 hours ago | 2 | leejet/ideogram-4-GGUFText-to-Image | 9B | [Link](https://huggingface.co/leejet/ideogram-4-GGUF) |
 | 90.4k | 1.31k | xinsir/controlnet-union-sdxl-1 | UpdatedJul 30, 2024 | [Link](https://huggingface.co/xinsir/controlnet-union-sdxl-1.0) |
 | 387k | 1.66k | h94/IP-Adapter-FaceIDText-to-Image | UpdatedApr 16, 2024 | [Link](https://huggingface.co/h94/IP-Adapter-FaceID) |
 | Updated6 days ago | 1.58k | QuantStack/Chroma1-HD-GGUFText-to-Image | 9B | [Link](https://huggingface.co/QuantStack/Chroma1-HD-GGUF) |
@@ -6721,6 +6727,8 @@ Updated on 2026-06-07
 | 7 | Unknown | prism-ml/bonsai-image-binary-4B-unpackedText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/prism-ml/bonsai-image-binary-4B-unpacked) |
 | 11 | Unknown | prism-ml/bonsai-image-binary-4B-mlx-1bitText-to-Image | Updatedabout 24 hours ago | [Link](https://huggingface.co/prism-ml/bonsai-image-binary-4B-mlx-1bit) |
 | 10 | Unknown | yenupam/desi-maxText-to-Image | Updated27 days ago | [Link](https://huggingface.co/yenupam/desi-max) |
+| 11 | Unknown | bertbobson/Ideogram-4-INT8-ConvRotText-to-Image | Updated2 days ago | [Link](https://huggingface.co/bertbobson/Ideogram-4-INT8-ConvRot) |
+| 7 | Unknown | DeverStyle/Ideogram-4 | Updatedabout 10 hours ago | [Link](https://huggingface.co/DeverStyle/Ideogram-4.0-Loras) |
 
 ## Text-to-Speech
 
@@ -6737,6 +6745,7 @@ Updated on 2026-06-07
 | Updated9 days ago | 679 | snorbyte/snorTTS-Indic-v0Text-to-Speech | 4B | [Link](https://huggingface.co/snorbyte/snorTTS-Indic-v0) |
 | Updatedabout 11 hours ago | 668 | HumeAI/tada-3b-mlText-to-Speech | 4B | [Link](https://huggingface.co/HumeAI/tada-3b-ml) |
 | Updated1 day ago | 646 | nineninesix/kani-tts-400m-0 | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-400m-0.3-pt) |
+| Updatedabout 20 hours ago | 639 | pnnbao-ump/VieNeu-TTS-v3-TurboText-to-Speech | 0.1B | [Link](https://huggingface.co/pnnbao-ump/VieNeu-TTS-v3-Turbo) |
 | Updatedabout 4 hours ago | 607 | neuphonic/neutts-nano-q4-ggufText-to-Speech | 0.3B | [Link](https://huggingface.co/neuphonic/neutts-nano-q4-gguf) |
 | 18.5k | 603 | IndexTeam/IndexTTS-2Text-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/IndexTeam/IndexTTS-2) |
 | 4.86k | 570 | fishaudio/s1-miniText-to-Speech | Updatedabout 15 hours ago | [Link](https://huggingface.co/fishaudio/s1-mini) |
