@@ -157,6 +157,7 @@ Updated on 2026-06-09
 | 1.03k | 14 | onnx-community/Janus-1 | UpdatedNov 28, 2024 | [Link](https://huggingface.co/onnx-community/Janus-1.3B-ONNX) |
 | Updatedabout 1 hour ago | 14 | AIDC-AI/Ovis-U1-3BAny-to-Any | 4B | [Link](https://huggingface.co/AIDC-AI/Ovis-U1-3B) |
 | Updated4 days ago | 14.5k | Abiray/gemma-4-E4B-it-heretic-GGUFAny-to-Any | 8B | [Link](https://huggingface.co/Abiray/gemma-4-E4B-it-heretic-GGUF) |
+| Updatedabout 17 hours ago | 13 | huihui-ai/Huihui-gemma-4-12B-it-qat-q4_0-unquantized-abliteratedAny-to-Any | 12B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-12B-it-qat-q4_0-unquantized-abliterated) |
 | Updated2 days ago | 12 | EasonXiao-888/HaploOmniAny-to-Any | 9B | [Link](https://huggingface.co/EasonXiao-888/HaploOmni) |
 | Updatedabout 7 hours ago | 12 | FunAudioLLM/Fun-Audio-Chat-8BAny-to-Any | 9B | [Link](https://huggingface.co/FunAudioLLM/Fun-Audio-Chat-8B) |
 | Updated2 days ago | 12k | mradermacher/Gemma-4-Queen-31B-it-i1-GGUFAny-to-Any | 31B | [Link](https://huggingface.co/mradermacher/Gemma-4-Queen-31B-it-i1-GGUF) |
@@ -2140,6 +2141,7 @@ Updated on 2026-06-09
 | 810 | 35 | fancyfeast/llama-joycaption-beta-one-hf-llavaImage-Text-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/fancyfeast/llama-joycaption-beta-one-hf-llava) |
 | Updated5 days ago | 35.7k | unsloth/Qwen3-VL-8B-Instruct-GGUFImage-Text-to-Text | 8B | [Link](https://huggingface.co/unsloth/Qwen3-VL-8B-Instruct-GGUF) |
 | Updatedabout 3 hours ago | 35 | PaddlePaddle/PaddleOCR-VL-1 | 1.0B | [Link](https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.5) |
+| Updatedabout 14 hours ago | 35.8k | mlx-community/gemma-4-12B-it-8bitImage-Text-to-Text | 3B | [Link](https://huggingface.co/mlx-community/gemma-4-12B-it-8bit) |
 | Updatedabout 17 hours ago | 34 | Jackrong/Qwopus3 | 9B | [Link](https://huggingface.co/Jackrong/Qwopus3.5-9B-v3-GGUF) |
 | Updated4 days ago | 33 | prithivMLmods/Qwen2 | 8B | [Link](https://huggingface.co/prithivMLmods/Qwen2.5-VL-7B-Abliterated-Caption-it) |
 | Updated3 days ago | 32.8k | cyankiwi/Qwen3 | 25B | [Link](https://huggingface.co/cyankiwi/Qwen3.5-122B-A10B-AWQ-4bit) |
@@ -5091,6 +5093,7 @@ Updated on 2026-06-09
 
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
+| Updatedabout 1 hour ago | 998 | mindlab-research/Macaron-V1-Preview-749BText | 754B | [Link](https://huggingface.co/mindlab-research/Macaron-V1-Preview-749B) |
 | Updated1 day ago | 995 | DJLougen/Ornstein3 | 35B | [Link](https://huggingface.co/DJLougen/Ornstein3.6-35B-A3B-GGUF) |
 | Updatedabout 21 hours ago | 971 | marin-community/marin-32b-baseText | 33B | [Link](https://huggingface.co/marin-community/marin-32b-base) |
 | UpdatedSep 12, 2025 | 958 | ytu-ce-cosmos/Turkish-Gemma-9b-T1Text | 9B | [Link](https://huggingface.co/ytu-ce-cosmos/Turkish-Gemma-9b-T1) |
@@ -5517,6 +5520,7 @@ Updated on 2026-06-09
 | Updated4 days ago | 31 | kakaocorp/kanana-2-30b-a3b-mid-2601Text | 31B | [Link](https://huggingface.co/kakaocorp/kanana-2-30b-a3b-mid-2601) |
 | Updated7 days ago | 31.9k | DavidAU/GLM-4 | 30B | [Link](https://huggingface.co/DavidAU/GLM-4.7-Flash-Uncensored-Heretic-NEO-CODE-Imatrix-MAX-GGUF) |
 | Updatedabout 7 hours ago | 31 | nvidia/Gemma-4-31B-IT-NVFP4Text | 21B | [Link](https://huggingface.co/nvidia/Gemma-4-31B-IT-NVFP4) |
+| Updated5 days ago | 31.1k | igorls/gemma-4-12B-it-heretic-GGUFText | 12B | [Link](https://huggingface.co/igorls/gemma-4-12B-it-heretic-GGUF) |
 | 277 | 30 | kakaocorp/kanana-nano-2 | Updatedabout 22 hours ago | [Link](https://huggingface.co/kakaocorp/kanana-nano-2.1b-instruct) |
 | 2.75k | 30 | allenai/OLMo-2-0425-1BText | Updated6 days ago | [Link](https://huggingface.co/allenai/OLMo-2-0425-1B) |
 | 509 | 30 | SWE-bench/SWE-agent-LM-32BText | Updatedabout 10 hours ago | [Link](https://huggingface.co/SWE-bench/SWE-agent-LM-32B) |
@@ -6240,6 +6244,7 @@ Updated on 2026-06-09
 | 49.2k | 457 | Shakker-Labs/FLUX | UpdatedAug 29, 2024 | [Link](https://huggingface.co/Shakker-Labs/FLUX.1-dev-ControlNet-Union-Pro) |
 | 39.9k | 449 | alimama-creative/FLUX | UpdatedOct 15, 2024 | [Link](https://huggingface.co/alimama-creative/FLUX.1-Turbo-Alpha) |
 | 37.6k | 445 | XLabs-AI/flux-controlnet-collectionsText-to-Image | UpdatedAug 30, 2024 | [Link](https://huggingface.co/XLabs-AI/flux-controlnet-collections) |
+| Updated1 day ago | 421 | Abiray/ideogram-4-GGUFText-to-Image | 9B | [Link](https://huggingface.co/Abiray/ideogram-4-GGUF) |
 | Updated4 days ago | 412 | easygoing0114/Qwen-Image-Edit-2509_clearText-to-Image | 20B | [Link](https://huggingface.co/easygoing0114/Qwen-Image-Edit-2509_clear) |
 | 779k | 392 | stabilityai/sd-turboText-to-Image | UpdatedJul 10, 2024 | [Link](https://huggingface.co/stabilityai/sd-turbo) |
 | 26.8k | 386 | ostris/Flex | UpdatedJan 19 | [Link](https://huggingface.co/ostris/Flex.1-alpha) |
