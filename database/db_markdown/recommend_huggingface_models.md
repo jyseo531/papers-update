@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-06-09
+Updated on 2026-06-10
 
 > Generated from the Hugging Face database.
 
@@ -2619,6 +2619,7 @@ Updated on 2026-06-09
 | Updated2 days ago | 112 | mlx-community/Lance-3B-bf16Image-to-Image | 6B | [Link](https://huggingface.co/mlx-community/Lance-3B-bf16) |
 | 15.3k | 109 | lllyasviel/control_v11p_sd15_openposeImage-to-Image | UpdatedAug 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_openpose) |
 | 4.13k | 88 | tlennon-ie/qwen-edit-skinImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/tlennon-ie/qwen-edit-skin) |
+| Updated5 days ago | 88 | mlx-community/EfRLFN-x4Image-to-Image | 504k | [Link](https://huggingface.co/mlx-community/EfRLFN-x4) |
 | 6.03k | 85 | DiffSynth-Studio/Qwen-Image-Edit-F2PImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/DiffSynth-Studio/Qwen-Image-Edit-F2P) |
 | 44 | 80 | keras-io/low-light-image-enhancementImage-to-Image | UpdatedJul 9, 2024 | [Link](https://huggingface.co/keras-io/low-light-image-enhancement) |
 | 378 | 74 | instruction-tuning-sd/cartoonizerImage-to-Image | UpdatedMay 13, 2023 | [Link](https://huggingface.co/instruction-tuning-sd/cartoonizer) |
@@ -3642,6 +3643,7 @@ Updated on 2026-06-09
 | 1 | Unknown | mbhosale/FairLLaVAImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/mbhosale/FairLLaVA) |
 | 2 | Unknown | poolside-laguna-hackathon/laguna-visionImage-to-Text | Updated3 days ago | [Link](https://huggingface.co/poolside-laguna-hackathon/laguna-vision) |
 | 2 | Unknown | Mrzhang666/Zeiss_IntelligenceImage-to-Text | UpdatedJul 5, 2025 | [Link](https://huggingface.co/Mrzhang666/Zeiss_Intelligence) |
+| 3 | Unknown | AhmedZaky1/DIMI-Arabic-OCRImage-to-Text | UpdatedOct 8, 2025 | [Link](https://huggingface.co/AhmedZaky1/DIMI-Arabic-OCR) |
 
 ## Image-to-Video
 
@@ -5901,6 +5903,7 @@ Updated on 2026-06-09
 | Updated2 days ago | 1.05k | SupraLabs/Supra-50M-InstructText | 51.8M | [Link](https://huggingface.co/SupraLabs/Supra-50M-Instruct) |
 | Updatedabout 22 hours ago | 1.51k | nvidia/DeepSeek-V4-Pro-NVFP4Text | 910B | [Link](https://huggingface.co/nvidia/DeepSeek-V4-Pro-NVFP4) |
 | Updated1 day ago | 1.04k | syntropy-ai/Soren-1-SmallText | 2B | [Link](https://huggingface.co/syntropy-ai/Soren-1-Small) |
+| Updatedabout 19 hours ago | 1 | silx-ai/Quasar-PreviewText | 17B | [Link](https://huggingface.co/silx-ai/Quasar-Preview) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -7352,6 +7355,7 @@ Updated on 2026-06-09
 | 245 | 2 | Muapi/ltx_2 | Updated12 days ago | [Link](https://huggingface.co/Muapi/ltx_2.3_multi-ref-character-storyboard) |
 | 84 | 2 | DuoNeural/Cosmos3-Nano-AbliteratedText-to-Video | Updated3 days ago | [Link](https://huggingface.co/DuoNeural/Cosmos3-Nano-Abliterated) |
 | 36 | 2 | mlx-community/Bernini-R-int4Text-to-Video | Updated3 days ago | [Link](https://huggingface.co/mlx-community/Bernini-R-int4) |
+| 34 | 2 | mlx-community/Bernini-R-bf16Text-to-Video | Updated5 days ago | [Link](https://huggingface.co/mlx-community/Bernini-R-bf16) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
