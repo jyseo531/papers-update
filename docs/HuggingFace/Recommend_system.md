@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-06-10
+Updated on 2026-06-11
 
 > Generated from the Hugging Face database.
 
@@ -5236,6 +5236,7 @@ Updated on 2026-06-10
 | Updatedabout 4 hours ago | 183 | FrontiersMind/Nandi-Mini-600M-Early-CheckpointText | 0.6B | [Link](https://huggingface.co/FrontiersMind/Nandi-Mini-600M-Early-Checkpoint) |
 | Updated7 days ago | 181 | janhq/Jan-v1-2509Text | 0.0B | [Link](https://huggingface.co/janhq/Jan-v1-2509) |
 | Updated1 day ago | 179 | nvidia/OpenReasoning-Nemotron-7BText | 8B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-7B) |
+| Updated4 days ago | 177 | BennyDaBall/Z-Image-Engineer-V6Text | 4B | [Link](https://huggingface.co/BennyDaBall/Z-Image-Engineer-V6) |
 | Updated1 day ago | 175 | HuggingFaceTB/nanowhale-100mText | 0.1B | [Link](https://huggingface.co/HuggingFaceTB/nanowhale-100m) |
 | Updatedabout 1 hour ago | 175 | OBLITERATUS/Gemma-4-12B-OBLITERATEDText | 12B | [Link](https://huggingface.co/OBLITERATUS/Gemma-4-12B-OBLITERATED) |
 | Updated4 days ago | 173 | deepcogito/cogito-v2-preview-deepseek-671B-MoEText | 671B | [Link](https://huggingface.co/deepcogito/cogito-v2-preview-deepseek-671B-MoE) |
@@ -7540,6 +7541,7 @@ Updated on 2026-06-10
 | 2 | Unknown | mlx-community/LongCat-Video-Avatar-1 | Updated5 days ago | [Link](https://huggingface.co/mlx-community/LongCat-Video-Avatar-1.5-bf16-dmd-merged) |
 | 2 | Unknown | qixinhu11/LongLive-RAGText-to-Video | Updatedabout 12 hours ago | [Link](https://huggingface.co/qixinhu11/LongLive-RAG) |
 | 5 | Unknown | jdopensource/JoyAI-EchoText-to-Video | Updatedabout 16 hours ago | [Link](https://huggingface.co/jdopensource/JoyAI-Echo) |
+| 1 | Unknown | TensorStack/Locomotion-ToonYou-amuseText-to-Video | UpdatedApr 1, 2025 | [Link](https://huggingface.co/TensorStack/Locomotion-ToonYou-amuse) |
 
 ## Text2Text Generation
 
