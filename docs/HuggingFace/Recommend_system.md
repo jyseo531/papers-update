@@ -3644,6 +3644,7 @@ Updated on 2026-06-10
 | 2 | Unknown | poolside-laguna-hackathon/laguna-visionImage-to-Text | Updated3 days ago | [Link](https://huggingface.co/poolside-laguna-hackathon/laguna-vision) |
 | 2 | Unknown | Mrzhang666/Zeiss_IntelligenceImage-to-Text | UpdatedJul 5, 2025 | [Link](https://huggingface.co/Mrzhang666/Zeiss_Intelligence) |
 | 3 | Unknown | AhmedZaky1/DIMI-Arabic-OCRImage-to-Text | UpdatedOct 8, 2025 | [Link](https://huggingface.co/AhmedZaky1/DIMI-Arabic-OCR) |
+| 1 | Unknown | eric-solak/ShoeClassificationAIImage-to-Text | UpdatedApr 10, 2025 | [Link](https://huggingface.co/eric-solak/ShoeClassificationAI) |
 
 ## Image-to-Video
 
@@ -5904,6 +5905,7 @@ Updated on 2026-06-10
 | Updatedabout 22 hours ago | 1.51k | nvidia/DeepSeek-V4-Pro-NVFP4Text | 910B | [Link](https://huggingface.co/nvidia/DeepSeek-V4-Pro-NVFP4) |
 | Updated1 day ago | 1.04k | syntropy-ai/Soren-1-SmallText | 2B | [Link](https://huggingface.co/syntropy-ai/Soren-1-Small) |
 | Updatedabout 19 hours ago | 1 | silx-ai/Quasar-PreviewText | 17B | [Link](https://huggingface.co/silx-ai/Quasar-Preview) |
+| Updatedabout 12 hours ago | 1.78k | CohereLabs/North-Mini-Code-1 | 30B | [Link](https://huggingface.co/CohereLabs/North-Mini-Code-1.0) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -7049,6 +7051,7 @@ Updated on 2026-06-10
 | 67 | 3 | NAMAA-Space/NAMAA-Saudi-TTS-V2Text-to-Speech | Updated4 days ago | [Link](https://huggingface.co/NAMAA-Space/NAMAA-Saudi-TTS-V2) |
 | 74 | 3 | CompactAI-O/Flare-TTS-28MText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/CompactAI-O/Flare-TTS-28M) |
 | 34 | 3 | modernjack3/Dramabox_DiT_SulfurText-to-Speech | Updatedabout 3 hours ago | [Link](https://huggingface.co/modernjack3/Dramabox_DiT_Sulfur) |
+| Updated5 days ago | 3.11k | multimodalart/higgs-audio-v3-tts-4b-transformersText-to-Speech | 5B | [Link](https://huggingface.co/multimodalart/higgs-audio-v3-tts-4b-transformers) |
 | 2.36M | 2.41k | coqui/XTTS-v2Text-to-Speech | UpdatedDec 11, 2023 | [Link](https://huggingface.co/coqui/XTTS-v2) |
 | 153 | 2 | mmwillet2/Dia_GGUFText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/mmwillet2/Dia_GGUF) |
 | 55 | 2 | unsloth/Spark-TTS-0 | Updated2 days ago | [Link](https://huggingface.co/unsloth/Spark-TTS-0.5B) |
