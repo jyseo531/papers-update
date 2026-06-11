@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-06-11
+Updated on 2026-06-12
 
 > Generated from the Hugging Face database.
 
@@ -1984,6 +1984,7 @@ Updated on 2026-06-11
 | Updated2 days ago | 461 | nvidia/Ising-Calibration-1-35B-A3BImage-Text-to-Text | 665k | [Link](https://huggingface.co/nvidia/Ising-Calibration-1-35B-A3B) |
 | Updatedabout 10 hours ago | 454 | Qwen/Qwen3-VL-32B-Instruct-FP8Image-Text-to-Text | 33B | [Link](https://huggingface.co/Qwen/Qwen3-VL-32B-Instruct-FP8) |
 | Updated13 days ago | 436 | SL-AI/GRaPE-2-ProImage-Text-to-Text | 28B | [Link](https://huggingface.co/SL-AI/GRaPE-2-Pro) |
+| Updated1 day ago | 422 | google/diffusiongemma-26B-A4B-itImage-Text-to-Text | 26B | [Link](https://huggingface.co/google/diffusiongemma-26B-A4B-it) |
 | 820k | 421 | liuhaotian/llava-v1 | UpdatedMay 8, 2024 | [Link](https://huggingface.co/liuhaotian/llava-v1.5-7b) |
 | 112k | 395 | HuggingFaceTB/SmolVLM-InstructImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-Instruct) |
 | 860k | 376 | Salesforce/blip2-opt-2 | UpdatedFeb 3 | [Link](https://huggingface.co/Salesforce/blip2-opt-2.7b) |
@@ -2027,6 +2028,7 @@ Updated on 2026-06-11
 | 116 | 167 | google/gemma-3-27b-itImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-it) |
 | 38.8k | 163 | stepfun-ai/GOT-OCR-2 | Updated25 days ago | [Link](https://huggingface.co/stepfun-ai/GOT-OCR-2.0-hf) |
 | Updatedabout 3 hours ago | 163 | THUDM/GLM-4 | 10B | [Link](https://huggingface.co/THUDM/GLM-4.1V-9B-Thinking) |
+| Updatedabout 22 hours ago | 162 | unsloth/diffusiongemma-26B-A4B-it-GGUFImage-Text-to-Text | 25B | [Link](https://huggingface.co/unsloth/diffusiongemma-26B-A4B-it-GGUF) |
 | Updatedabout 6 hours ago | 160 | internlm/Intern-S1-GGUFImage-Text-to-Text | 6B | [Link](https://huggingface.co/internlm/Intern-S1-GGUF) |
 | 39.1k | 159 | HuggingFaceTB/SmolVLM-256M-InstructImage-Text-to-Text | Updated22 days ago | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-256M-Instruct) |
 | Updatedabout 14 hours ago | 156 | Qwen/Qwen3-VL-4B-InstructImage-Text-to-Text | 4B | [Link](https://huggingface.co/Qwen/Qwen3-VL-4B-Instruct) |
@@ -2116,6 +2118,7 @@ Updated on 2026-06-11
 | Updatedabout 3 hours ago | 43 | OpenGVLab/InternVL3_5-241B-A28B-InstructImage-Text-to-Text | 241B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-241B-A28B-Instruct) |
 | Updatedabout 21 hours ago | 43 | ZJU-AI4H/Hulu-Med-32BImage-Text-to-Text | 33B | [Link](https://huggingface.co/ZJU-AI4H/Hulu-Med-32B) |
 | Updated6 days ago | 43 | allura-org/Luna-27B-v0Image-Text-to-Text | 27B | [Link](https://huggingface.co/allura-org/Luna-27B-v0) |
+| Updated5 days ago | 43.2k | zaakirio/gemma-4-12b-it-uncensored-GGUFImage-Text-to-Text | 12B | [Link](https://huggingface.co/zaakirio/gemma-4-12b-it-uncensored-GGUF) |
 | Updatedabout 11 hours ago | 41 | OpenGVLab/InternVL3_5-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-4B) |
 | Updated7 days ago | 41.4k | huihui-ai/Huihui-Qwen3-VL-32B-Instruct-abliteratedImage-Text-to-Text | 33B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3-VL-32B-Instruct-abliterated) |
 | Updatedabout 9 hours ago | 41 | stepfun-ai/Step3-VL-10B-BaseImage-Text-to-Text | 10B | [Link](https://huggingface.co/stepfun-ai/Step3-VL-10B-Base) |
@@ -3048,6 +3051,8 @@ Updated on 2026-06-11
 | 22 | Unknown | ControlLight/ControlLightImage-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/ControlLight/ControlLight) |
 | 6 | Unknown | nvidia/HarmonizerImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/nvidia/Harmonizer) |
 | 4 | Unknown | CompVis/rayderImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/CompVis/rayder) |
+| 6 | Unknown | dx8152/Flux2-Klein-9B-MigrationImage-to-Image | Updatedabout 15 hours ago | [Link](https://huggingface.co/dx8152/Flux2-Klein-9B-Migration) |
+| 5 | Unknown | jdopensource/JoyAI-Image-Edit-ComfyUIImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/jdopensource/JoyAI-Image-Edit-ComfyUI) |
 
 ## Image-to-Text
 
@@ -3287,6 +3292,7 @@ Updated on 2026-06-11
 | UpdatedMay 16, 2024 | 13.2k | LanguageBind/Video-LLaVA-7B-hfImage-to-Text | 7B | [Link](https://huggingface.co/LanguageBind/Video-LLaVA-7B-hf) |
 | UpdatedNov 3, 2024 | 13 | Vikhrmodels/Vikhr-2-VL-2b-Instruct-experimentalImage-to-Text | 2B | [Link](https://huggingface.co/Vikhrmodels/Vikhr-2-VL-2b-Instruct-experimental) |
 | 214 | 13 | tifa-benchmark/promptcap-coco-vqaImage-to-Text | UpdatedDec 11, 2023 | [Link](https://huggingface.co/tifa-benchmark/promptcap-coco-vqa) |
+| Updatedabout 8 hours ago | 13 | PaddlePaddle/PP-OCRv6_medium_det_safetensorsImage-to-Text | 22M | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv6_medium_det_safetensors) |
 | 3.63k | 12 | microsoft/trocr-small-stage1Image-to-Text | UpdatedJan 24, 2023 | [Link](https://huggingface.co/microsoft/trocr-small-stage1) |
 | 2.29k | 12 | MohamedRashad/arabic-large-nougatImage-to-Text | UpdatedNov 28, 2024 | [Link](https://huggingface.co/MohamedRashad/arabic-large-nougat) |
 | UpdatedDec 28, 2024 | 12 | grascii/gregg-vision-v0 | 0.0B | [Link](https://huggingface.co/grascii/gregg-vision-v0.2.1) |
@@ -3344,6 +3350,9 @@ Updated on 2026-06-11
 | UpdatedMay 12, 2025 | 7.07k | unsloth/gemma-3-12b-it-bnb-4bitImage-to-Text | 13B | [Link](https://huggingface.co/unsloth/gemma-3-12b-it-bnb-4bit) |
 | UpdatedNov 24, 2025 | 7 | jKqfO84n/Qwen3-VL-8B-Instruct-HereticImage-to-Text | 9B | [Link](https://huggingface.co/jKqfO84n/Qwen3-VL-8B-Instruct-Heretic) |
 | UpdatedAug 6, 2025 | 7 | zelus82/verity-1AImage-to-Text | 0.2B | [Link](https://huggingface.co/zelus82/verity-1A) |
+| Updatedabout 7 hours ago | 7 | PaddlePaddle/PP-OCRv6_small_rec_safetensorsImage-to-Text | 5.29M | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv6_small_rec_safetensors) |
+| Updatedabout 7 hours ago | 7 | PaddlePaddle/PP-OCRv6_small_det_safetensorsImage-to-Text | 2.48M | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv6_small_det_safetensors) |
+| Updatedabout 7 hours ago | 7 | PaddlePaddle/PP-OCRv6_tiny_det_safetensorsImage-to-Text | 438k | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv6_tiny_det_safetensors) |
 | 624 | 6 | fhswf/TrOCR_Math_handwrittenImage-to-Text | UpdatedOct 21, 2024 | [Link](https://huggingface.co/fhswf/TrOCR_Math_handwritten) |
 | 511 | 6 | microsoft/trocr-base-strImage-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-base-str) |
 | Updated21 days ago | 6.36k | allenai/olmOCR-7B-0225-preview-FP8Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview-FP8) |
@@ -3355,6 +3364,8 @@ Updated on 2026-06-11
 | Updated1 day ago | 6 | aisingapore/Qwen-SEA-Guard-4B-040226Image-to-Text | 570k | [Link](https://huggingface.co/aisingapore/Qwen-SEA-Guard-4B-040226) |
 | Updatedabout 1 hour ago | 6 | aisingapore/Qwen-SEA-Guard-4B-2602Image-to-Text | 570k | [Link](https://huggingface.co/aisingapore/Qwen-SEA-Guard-4B-2602) |
 | 78 | 6 | DunnBC22/trocr-large-printed-cmc7_tesseract_MICR_ocrImage-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-large-printed-cmc7_tesseract_MICR_ocr) |
+| Updatedabout 7 hours ago | 6 | PaddlePaddle/PP-OCRv6_tiny_rec_safetensorsImage-to-Text | 1.11M | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv6_tiny_rec_safetensors) |
+| Updatedabout 4 hours ago | 6 | PaddlePaddle/PP-OCRv6_medium_rec_safetensorsImage-to-Text | 19.2M | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv6_medium_rec_safetensors) |
 | 7 | 5 | laicsiifes/swin-gportuguese-2Image-to-Text | UpdatedMar 31 | [Link](https://huggingface.co/laicsiifes/swin-gportuguese-2) |
 | 5 | 5 | Yodazon/3DPrintFailureTypeImage-to-Text | UpdatedOct 18, 2024 | [Link](https://huggingface.co/Yodazon/3DPrintFailureType) |
 | Updated5 days ago | 5.7k | ChatDOC/OCRFlux-3BImage-to-Text | 4B | [Link](https://huggingface.co/ChatDOC/OCRFlux-3B) |
@@ -3645,6 +3656,18 @@ Updated on 2026-06-11
 | 2 | Unknown | Mrzhang666/Zeiss_IntelligenceImage-to-Text | UpdatedJul 5, 2025 | [Link](https://huggingface.co/Mrzhang666/Zeiss_Intelligence) |
 | 3 | Unknown | AhmedZaky1/DIMI-Arabic-OCRImage-to-Text | UpdatedOct 8, 2025 | [Link](https://huggingface.co/AhmedZaky1/DIMI-Arabic-OCR) |
 | 1 | Unknown | eric-solak/ShoeClassificationAIImage-to-Text | UpdatedApr 10, 2025 | [Link](https://huggingface.co/eric-solak/ShoeClassificationAI) |
+| 7 | Unknown | PaddlePaddle/PP-OCRv6_tiny_detImage-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv6_tiny_det) |
+| 6 | Unknown | PaddlePaddle/PP-OCRv6_tiny_det_onnxImage-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv6_tiny_det_onnx) |
+| 6 | Unknown | PaddlePaddle/PP-OCRv6_small_det_onnxImage-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv6_small_det_onnx) |
+| 6 | Unknown | PaddlePaddle/PP-OCRv6_medium_det_onnxImage-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv6_medium_det_onnx) |
+| 6 | Unknown | PaddlePaddle/PP-OCRv6_medium_rec_onnxImage-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv6_medium_rec_onnx) |
+| 6 | Unknown | PaddlePaddle/PP-OCRv6_small_rec_onnxImage-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv6_small_rec_onnx) |
+| 6 | Unknown | PaddlePaddle/PP-OCRv6_tiny_rec_onnxImage-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv6_tiny_rec_onnx) |
+| 6 | Unknown | PaddlePaddle/PP-OCRv6_medium_detImage-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv6_medium_det) |
+| 6 | Unknown | PaddlePaddle/PP-OCRv6_small_detImage-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv6_small_det) |
+| 6 | Unknown | PaddlePaddle/PP-OCRv6_small_recImage-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv6_small_rec) |
+| 5 | Unknown | PaddlePaddle/PP-OCRv6_medium_recImage-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv6_medium_rec) |
+| 5 | Unknown | PaddlePaddle/PP-OCRv6_tiny_recImage-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv6_tiny_rec) |
 
 ## Image-to-Video
 
@@ -5555,6 +5578,7 @@ Updated on 2026-06-11
 | Updated22 minutes ago | 28 | LGAI-EXAONE/EXAONE-4 | 32B | [Link](https://huggingface.co/LGAI-EXAONE/EXAONE-4.0-32B) |
 | Updated3 days ago | 28.2k | DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-ggufText | 21B | [Link](https://huggingface.co/DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf) |
 | Updatedabout 10 hours ago | 28 | swiss-ai/Apertus-70B-2509Text | 71B | [Link](https://huggingface.co/swiss-ai/Apertus-70B-2509) |
+| Updatedabout 16 hours ago | 28 | nvidia/diffusiongemma-26B-A4B-it-NVFP4Text | 14B | [Link](https://huggingface.co/nvidia/diffusiongemma-26B-A4B-it-NVFP4) |
 | 256 | 27 | amd/Instella-3BText | Updated5 days ago | [Link](https://huggingface.co/amd/Instella-3B) |
 | 2 | 27 | allenai/OLMo-2-0325-32B-InstructText | Updatedabout 3 hours ago | [Link](https://huggingface.co/allenai/OLMo-2-0325-32B-Instruct) |
 | 9.01k | 27 | lmstudio-community/Mistral-Small-3 | Updated2 days ago | [Link](https://huggingface.co/lmstudio-community/Mistral-Small-3.1-24B-Instruct-2503-GGUF) |
@@ -6485,6 +6509,8 @@ Updated on 2026-06-11
 | 1.3k | 5 | Abiray/ERNIE-Image-Turbo-FP8-NVFP4Text-to-Image | Updated3 days ago | [Link](https://huggingface.co/Abiray/ERNIE-Image-Turbo-FP8-NVFP4) |
 | 83 | 5 | nvidia/PixelDiT-1300M-1024pxText-to-Image | Updated6 days ago | [Link](https://huggingface.co/nvidia/PixelDiT-1300M-1024px) |
 | 75 | 5 | SeeSee21/ERNIE-AIOText-to-Image | Updated4 days ago | [Link](https://huggingface.co/SeeSee21/ERNIE-AIO) |
+| Updated16 days ago | 5 | RunDiffusion/Juggernaut-Z-Image-FastText-to-Image | 6B | [Link](https://huggingface.co/RunDiffusion/Juggernaut-Z-Image-Fast) |
+| UpdatedMay 2 | 5.86k | ponpoke/flux2-klein-4b-uncensored-text-encoderText-to-Image | 4B | [Link](https://huggingface.co/ponpoke/flux2-klein-4b-uncensored-text-encoder) |
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 46 | 4 | Sherwinroger002/fashion_mnist_diffusion_class_conditionalText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Sherwinroger002/fashion_mnist_diffusion_class_conditional) |
 | Updatedabout 1 hour ago | 4 | unsloth/Qwen-Image-2512-GGUFText-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-2512-GGUF) |
@@ -6742,6 +6768,7 @@ Updated on 2026-06-11
 | 10 | Unknown | yenupam/desi-maxText-to-Image | Updated27 days ago | [Link](https://huggingface.co/yenupam/desi-max) |
 | 11 | Unknown | bertbobson/Ideogram-4-INT8-ConvRotText-to-Image | Updated2 days ago | [Link](https://huggingface.co/bertbobson/Ideogram-4-INT8-ConvRot) |
 | 7 | Unknown | DeverStyle/Ideogram-4 | Updatedabout 10 hours ago | [Link](https://huggingface.co/DeverStyle/Ideogram-4.0-Loras) |
+| 9 | Unknown | tsolful/zjourney-Ideogram-4-Fantasy-Realism-RefinerText-to-Image | Updated2 days ago | [Link](https://huggingface.co/tsolful/zjourney-Ideogram-4-Fantasy-Realism-Refiner) |
 
 ## Text-to-Speech
 
@@ -6976,6 +7003,7 @@ Updated on 2026-06-11
 | 18 | 5 | XRXRX/X-VoiceText-to-Speech | Updated5 days ago | [Link](https://huggingface.co/XRXRX/X-Voice) |
 | Updatedabout 14 hours ago | 5 | aguken-ai/Qwen-3-TTS-12Hz-0 | 0.9B | [Link](https://huggingface.co/aguken-ai/Qwen-3-TTS-12Hz-0.6B-Base-hi-LoRA-Finetuned-BNB-NF4) |
 | Updated1 day ago | 5 | MisoLabs/MisoTTSText-to-Speech | 8B | [Link](https://huggingface.co/MisoLabs/MisoTTS) |
+| 949 | 5 | contextboxai/ViZipvoiceText-to-Speech | Updatedabout 9 hours ago | [Link](https://huggingface.co/contextboxai/ViZipvoice) |
 | 5 | 4 | lunahr/csm-1b-safetensors-fp16Text-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-fp16) |
 | 2 | 4 | VAGOsolutions/SauerkrautTTS-Preview-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/VAGOsolutions/SauerkrautTTS-Preview-0.1) |
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
@@ -7185,6 +7213,7 @@ Updated on 2026-06-11
 | 4 | Unknown | thelamapi/neuvoiceText-to-Speech | Updatedabout 2 hours ago | [Link](https://huggingface.co/thelamapi/neuvoice) |
 | 4 | Unknown | HKUSTAudio/Talker-T2AVText-to-Speech | Updatedabout 8 hours ago | [Link](https://huggingface.co/HKUSTAudio/Talker-T2AV) |
 | 18 | Unknown | fuckSelf/GPT-SoVITS-RussianText-to-Speech | UpdatedSep 11, 2025 | [Link](https://huggingface.co/fuckSelf/GPT-SoVITS-Russian) |
+| 43 | Unknown | ZzWater/ViiTorVoice-NARText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/ZzWater/ViiTorVoice-NAR) |
 
 ## Text-to-Video
 
@@ -7198,6 +7227,7 @@ Updated on 2026-06-11
 | Updatedabout 3 hours ago | 496 | calcuis/wan2-ggufText-to-Video | 0.1B | [Link](https://huggingface.co/calcuis/wan2-gguf) |
 | Updatedabout 17 hours ago | 485 | mlx-community/Lance-3B-Video-bf16Text-to-Video | 6B | [Link](https://huggingface.co/mlx-community/Lance-3B-Video-bf16) |
 | 23.8k | 473 | cerspense/zeroscope_v2_576wText-to-Video | UpdatedJul 1, 2023 | [Link](https://huggingface.co/cerspense/zeroscope_v2_576w) |
+| Updatedabout 7 hours ago | 466 | realrebelai/JoyAI-Echo_GGUFText-to-Video | 12B | [Link](https://huggingface.co/realrebelai/JoyAI-Echo_GGUF) |
 | 4.01k | 461 | ali-vilab/modelscope-damo-text-to-video-synthesisText-to-Video | UpdatedMar 29, 2023 | [Link](https://huggingface.co/ali-vilab/modelscope-damo-text-to-video-synthesis) |
 | UpdatedAug 9, 2025 | 456 | calcuis/mochi-ggufText-to-Video | 10B | [Link](https://huggingface.co/calcuis/mochi-gguf) |
 | 1.17k | 353 | stepfun-ai/stepvideo-t2vText-to-Video | Updated6 days ago | [Link](https://huggingface.co/stepfun-ai/stepvideo-t2v) |
