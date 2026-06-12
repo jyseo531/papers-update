@@ -320,6 +320,7 @@ Updated on 2026-06-12
 | Updated6 days ago | 1.24k | aisingapore/Gemma-SEA-LION-v4 | 5B | [Link](https://huggingface.co/aisingapore/Gemma-SEA-LION-v4.5-E2B-IT) |
 | Updatedabout 3 hours ago | 1.12k | unsloth/gemma-4-E2B-it-qat-mobile-GGUFAny-to-Any | 5B | [Link](https://huggingface.co/unsloth/gemma-4-E2B-it-qat-mobile-GGUF) |
 | Updatedabout 3 hours ago | 1.48k | unsloth/gemma-4-E4B-it-qat-mobile-GGUFAny-to-Any | 7B | [Link](https://huggingface.co/unsloth/gemma-4-E4B-it-qat-mobile-GGUF) |
+| Updated7 days ago | 1.67k | google/gemma-4-E4B-it-qat-q4_0-unquantizedAny-to-Any | 8B | [Link](https://huggingface.co/google/gemma-4-E4B-it-qat-q4_0-unquantized) |
 | 2 | Unknown | guanwenhao/MonoSpeechAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/guanwenhao/MonoSpeech) |
 | 22 | Unknown | Goekdeniz-Guelmez/J | UpdatedOct 29, 2024 | [Link](https://huggingface.co/Goekdeniz-Guelmez/J.O.S.I.E.v4o) |
 | 1 | Unknown | hfcsrd/cryptographyAny-to-Any | UpdatedNov 17, 2024 | [Link](https://huggingface.co/hfcsrd/cryptography) |
@@ -2425,6 +2426,7 @@ Updated on 2026-06-12
 | Updated4 days ago | 2.62k | Ex0bit/Gemma4-26B-A4B-PRISM-PRO-DQ-GGUFImage-Text-to-Text | 25B | [Link](https://huggingface.co/Ex0bit/Gemma4-26B-A4B-PRISM-PRO-DQ-GGUF) |
 | Updated4 days ago | 2.27k | zlaabsi/Qwen3 | 27B | [Link](https://huggingface.co/zlaabsi/Qwen3.6-27B-OTQ-GGUF) |
 | Updated2 days ago | 2.66k | byteshape/Qwen3 | 36B | [Link](https://huggingface.co/byteshape/Qwen3.6-35B-A3B-MTP-GGUF) |
+| Updated7 days ago | 2.83k | google/gemma-4-31B-it-qat-q4_0-unquantizedImage-Text-to-Text | 33B | [Link](https://huggingface.co/google/gemma-4-31B-it-qat-q4_0-unquantized) |
 | 2.72k | 1.62k | microsoft/OmniParserImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/microsoft/OmniParser) |
 | 100k | 1.4k | stepfun-ai/GOT-OCR2_0Image-Text-to-Text | Updated21 days ago | [Link](https://huggingface.co/stepfun-ai/GOT-OCR2_0) |
 | 1.78M | 1.42k | microsoft/Florence-2-largeImage-Text-to-Text | UpdatedDec 8, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-large) |
@@ -5424,6 +5426,7 @@ Updated on 2026-06-12
 | Updated6 days ago | 53 | GAIR/LIMIText | 353B | [Link](https://huggingface.co/GAIR/LIMI) |
 | 660 | 52 | nvidia/Llama-3_3-Nemotron-Super-49B-v1Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/nvidia/Llama-3_3-Nemotron-Super-49B-v1) |
 | 22 | 52 | Qwen/Qwen3-0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-0.6B) |
+| Updated4 days ago | 52 | apodex/Apodex-1 | 36B | [Link](https://huggingface.co/apodex/Apodex-1.0-mini) |
 | 325 | 51 | moonshotai/Moonlight-16B-A3BText | Updated2 days ago | [Link](https://huggingface.co/moonshotai/Moonlight-16B-A3B) |
 | Updatedabout 14 hours ago | 51 | nvidia/OpenReasoning-Nemotron-32BText | 33B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-32B) |
 | Updatedabout 9 hours ago | 51 | sarvamai/sarvam-30bText | 32B | [Link](https://huggingface.co/sarvamai/sarvam-30b) |
@@ -5622,6 +5625,7 @@ Updated on 2026-06-12
 | 193 | 25 | salakash/AskBuddyXText | Updated9 days ago | [Link](https://huggingface.co/salakash/AskBuddyX) |
 | 89 | 25 | silx-ai/Quasar-10BText | Updated11 days ago | [Link](https://huggingface.co/silx-ai/Quasar-10B) |
 | Updatedabout 15 hours ago | 25 | Qwen/WebWorld-32BText | 677k | [Link](https://huggingface.co/Qwen/WebWorld-32B) |
+| Updatedabout 21 hours ago | 25 | yuxinlu1/gemma-4-12B-coder-fable5-composer2 | 12B | [Link](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) |
 | 8.8k | 24 | unsloth/QwQ-32B-GGUFText | Updatedabout 1 hour ago | [Link](https://huggingface.co/unsloth/QwQ-32B-GGUF) |
 | 90.1k | 24 | allenai/OLMo-2-0325-32BText | Updated3 days ago | [Link](https://huggingface.co/allenai/OLMo-2-0325-32B) |
 | 722 | 24 | qihoo360/Light-R1-14B-DSText | Updatedabout 9 hours ago | [Link](https://huggingface.co/qihoo360/Light-R1-14B-DS) |
@@ -6323,6 +6327,7 @@ Updated on 2026-06-12
 | Updatedabout 9 hours ago | 55 | shallowdream204/BitDance-14B-64xText-to-Image | 15B | [Link](https://huggingface.co/shallowdream204/BitDance-14B-64x) |
 | 328 | 54 | briaai/FIBOText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/briaai/FIBO) |
 | 69 | 54 | NewBie-AI/NewBie-image-Exp0 | Updatedabout 11 hours ago | [Link](https://huggingface.co/NewBie-AI/NewBie-image-Exp0.1) |
+| Updated6 days ago | 53 | Glint-Research/Anthos-1Text-to-Image | 984k | [Link](https://huggingface.co/Glint-Research/Anthos-1) |
 | 3.82k | 52 | alibaba-pai/Z-Image-Fun-Lora-DistillText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/alibaba-pai/Z-Image-Fun-Lora-Distill) |
 | 36 | 51 | THUDM/CogView4-6BText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/THUDM/CogView4-6B) |
 | Updatedabout 9 hours ago | 51 | tencent/HunyuanImage-3 | 83B | [Link](https://huggingface.co/tencent/HunyuanImage-3.0) |
@@ -6769,6 +6774,7 @@ Updated on 2026-06-12
 | 11 | Unknown | bertbobson/Ideogram-4-INT8-ConvRotText-to-Image | Updated2 days ago | [Link](https://huggingface.co/bertbobson/Ideogram-4-INT8-ConvRot) |
 | 7 | Unknown | DeverStyle/Ideogram-4 | Updatedabout 10 hours ago | [Link](https://huggingface.co/DeverStyle/Ideogram-4.0-Loras) |
 | 9 | Unknown | tsolful/zjourney-Ideogram-4-Fantasy-Realism-RefinerText-to-Image | Updated2 days ago | [Link](https://huggingface.co/tsolful/zjourney-Ideogram-4-Fantasy-Realism-Refiner) |
+| 13 | Unknown | zlab-princeton/i1-3BText-to-Image | Updated13 minutes ago | [Link](https://huggingface.co/zlab-princeton/i1-3B) |
 
 ## Text-to-Speech
 
