@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-06-12
+Updated on 2026-06-13
 
 > Generated from the Hugging Face database.
 
@@ -1984,6 +1984,7 @@ Updated on 2026-06-12
 | Updated3 days ago | 468 | QuantTrio/GLM-4 | 17B | [Link](https://huggingface.co/QuantTrio/GLM-4.5V-AWQ) |
 | Updated2 days ago | 461 | nvidia/Ising-Calibration-1-35B-A3BImage-Text-to-Text | 665k | [Link](https://huggingface.co/nvidia/Ising-Calibration-1-35B-A3B) |
 | Updatedabout 10 hours ago | 454 | Qwen/Qwen3-VL-32B-Instruct-FP8Image-Text-to-Text | 33B | [Link](https://huggingface.co/Qwen/Qwen3-VL-32B-Instruct-FP8) |
+| Updatedabout 3 hours ago | 442 | MiniMaxAI/MiniMax-M3Image-Text-to-Text | 427B | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M3) |
 | Updated13 days ago | 436 | SL-AI/GRaPE-2-ProImage-Text-to-Text | 28B | [Link](https://huggingface.co/SL-AI/GRaPE-2-Pro) |
 | Updated1 day ago | 422 | google/diffusiongemma-26B-A4B-itImage-Text-to-Text | 26B | [Link](https://huggingface.co/google/diffusiongemma-26B-A4B-it) |
 | 820k | 421 | liuhaotian/llava-v1 | UpdatedMay 8, 2024 | [Link](https://huggingface.co/liuhaotian/llava-v1.5-7b) |
@@ -3115,6 +3116,7 @@ Updated on 2026-06-12
 | Updated6 days ago | 177 | thesby/Qwen3-VL-8B-NSFW-Caption-V4 | 9B | [Link](https://huggingface.co/thesby/Qwen3-VL-8B-NSFW-Caption-V4.5) |
 | Updated4 days ago | 175 | EZCon/GLM-OCR-4bit-g32-mxfp4-mixed_4_8-mlxImage-to-Text | 0.6B | [Link](https://huggingface.co/EZCon/GLM-OCR-4bit-g32-mxfp4-mixed_4_8-mlx) |
 | UpdatedJun 20 | 174k | BCCard/Qwen2 | 33B | [Link](https://huggingface.co/BCCard/Qwen2.5-VL-32B-Instruct-FP8-Dynamic) |
+| Updated18 days ago | 170 | Felldude/Ministral-3-8B-UncensoredImage-to-Text | 9B | [Link](https://huggingface.co/Felldude/Ministral-3-8B-Uncensored) |
 | UpdatedNov 26, 2025 | 164k | Qwen/Qwen3-VL-235B-A22B-InstructImage-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct) |
 | Updated1 day ago | 163 | HelloKKMe/GTA1-72BImage-to-Text | 73B | [Link](https://huggingface.co/HelloKKMe/GTA1-72B) |
 | UpdatedMay 22, 2025 | 161k | meta-llama/Llama-4-Maverick-17B-128E-InstructImage-to-Text | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct) |
