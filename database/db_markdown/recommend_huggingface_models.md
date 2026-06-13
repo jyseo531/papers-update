@@ -404,6 +404,7 @@ Updated on 2026-06-13
 | 18 | Unknown | bytedance-research/LanceAny-to-Any | Updatedabout 2 hours ago | [Link](https://huggingface.co/bytedance-research/Lance) |
 | 5 | Unknown | cyberneurova/CyberNeurova-Lance-3B-abliteratedAny-to-Any | Updated1 day ago | [Link](https://huggingface.co/cyberneurova/CyberNeurova-Lance-3B-abliterated) |
 | 3 | Unknown | fbjr/LTX-2 | Updatedabout 5 hours ago | [Link](https://huggingface.co/fbjr/LTX-2.3-22b-IC-LoRA-Audio-Only-Context) |
+| 11 | Unknown | lemonade-sdk/LMX-Omni-52B-HaloAny-to-Any | Updated9 days ago | [Link](https://huggingface.co/lemonade-sdk/LMX-Omni-52B-Halo) |
 
 ## Audio Classification
 
@@ -2389,6 +2390,7 @@ Updated on 2026-06-13
 | Updated10 days ago | 5.88k | Qwen/Qwen3-VL-8B-Instruct-GGUFImage-Text-to-Text | 8B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct-GGUF) |
 | Updatedabout 11 hours ago | 5 | meituan/EvoCUA-32B-20260105Image-Text-to-Text | 33B | [Link](https://huggingface.co/meituan/EvoCUA-32B-20260105) |
 | Updated7 days ago | 5.6k | prithivMLmods/Gliese-Qwen3 | 9B | [Link](https://huggingface.co/prithivMLmods/Gliese-Qwen3.5-9B-Abliterated-Caption) |
+| Updated2 days ago | 5.94k | prefeitura-rio/Rio-3 | 403B | [Link](https://huggingface.co/prefeitura-rio/Rio-3.5-Open-397B) |
 | Updated1 day ago | 4.45k | openbmb/MiniCPM-V-4_5-ggufImage-Text-to-Text | 8B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4_5-gguf) |
 | Updatedabout 12 hours ago | 4 | ibm-granite/granite-docling-258MImage-Text-to-Text | 0.3B | [Link](https://huggingface.co/ibm-granite/granite-docling-258M) |
 | Updated12 days ago | 4.44k | Jalea96/DeepSeek-OCR-bnb-4bit-NF4Image-Text-to-Text | 3B | [Link](https://huggingface.co/Jalea96/DeepSeek-OCR-bnb-4bit-NF4) |
@@ -6307,6 +6309,7 @@ Updated on 2026-06-13
 | 247k | 227 | SG161222/Realistic_Vision_V5 | Updated20 days ago | [Link](https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE) |
 | 126k | 206 | RunDiffusion/Juggernaut-XL-v9Text-to-Image | UpdatedDec 11, 2024 | [Link](https://huggingface.co/RunDiffusion/Juggernaut-XL-v9) |
 | Updated1 day ago | 189 | RockTalk/Lance-3B-MLXText-to-Image | 6B | [Link](https://huggingface.co/RockTalk/Lance-3B-MLX) |
+| Updated4 days ago | 174 | transformerlab/ideogram-4-gguf-q4_kText-to-Image | 19B | [Link](https://huggingface.co/transformerlab/ideogram-4-gguf-q4_k) |
 | 37.6k | 156 | tianweiy/DMD2Text-to-Image | UpdatedJun 11, 2024 | [Link](https://huggingface.co/tianweiy/DMD2) |
 | 35.7k | 147 | nunchaku-ai/nunchaku-z-image-turboText-to-Image | Updated15 days ago | [Link](https://huggingface.co/nunchaku-ai/nunchaku-z-image-turbo) |
 | 168k | 140 | SG161222/RealVisXL_V5 | UpdatedOct 8, 2024 | [Link](https://huggingface.co/SG161222/RealVisXL_V5.0) |
@@ -6781,6 +6784,7 @@ Updated on 2026-06-13
 | 9 | Unknown | tsolful/zjourney-Ideogram-4-Fantasy-Realism-RefinerText-to-Image | Updated2 days ago | [Link](https://huggingface.co/tsolful/zjourney-Ideogram-4-Fantasy-Realism-Refiner) |
 | 13 | Unknown | zlab-princeton/i1-3BText-to-Image | Updated13 minutes ago | [Link](https://huggingface.co/zlab-princeton/i1-3B) |
 | 7 | Unknown | Photoroom/prxpixel-t2iText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Photoroom/prxpixel-t2i) |
+| 6 | Unknown | transformerlab/ideogram-4-int8-w8a8Text-to-Image | Updated4 days ago | [Link](https://huggingface.co/transformerlab/ideogram-4-int8-w8a8) |
 
 ## Text-to-Speech
 
