@@ -103,6 +103,7 @@ Updated on 2026-06-13
 | Updated24 days ago | 59 | DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-balancedAny-to-Any | 4B | [Link](https://huggingface.co/DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-balanced) |
 | UpdatedApr 17, 2025 | 59 | OddTheGreat/Meteor_4B_V | 4B | [Link](https://huggingface.co/OddTheGreat/Meteor_4B_V.1) |
 | UpdatedMay 12 | 55.1k | unsloth/gemma-3-4b-it-unsloth-bnb-4bitAny-to-Any | 3B | [Link](https://huggingface.co/unsloth/gemma-3-4b-it-unsloth-bnb-4bit) |
+| Updated1 day ago | 55 | huihui-ai/Huihui-gemma-4-31B-it-qat-q4_0-unquantized-abliteratedAny-to-Any | 33B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-31B-it-qat-q4_0-unquantized-abliterated) |
 | Updated1 day ago | 53 | cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-4bitAny-to-Any | 6B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-4bit) |
 | Updated17 days ago | 53 | sensefvg/InteractiveOmni-4BAny-to-Any | 6B | [Link](https://huggingface.co/sensefvg/InteractiveOmni-4B) |
 | UpdatedApr 23 | 53 | unsloth/Llama-4-Scout-17B-16E-unsloth-bnb-8bitAny-to-Any | 109B | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-unsloth-bnb-8bit) |
@@ -2165,6 +2166,7 @@ Updated on 2026-06-13
 | Updatedabout 16 hours ago | 29k | google/gemma-4-31B-itImage-Text-to-Text | 33B | [Link](https://huggingface.co/google/gemma-4-31B-it) |
 | Updated2 days ago | 29.6k | nohurry/gemma-4-26B-A4B-it-heretic-GUFFImage-Text-to-Text | 25B | [Link](https://huggingface.co/nohurry/gemma-4-26B-A4B-it-heretic-GUFF) |
 | Updatedabout 23 hours ago | 29.9k | HauhauCS/Gemma-4-E2B-Uncensored-HauhauCS-AggressiveImage-Text-to-Text | 5B | [Link](https://huggingface.co/HauhauCS/Gemma-4-E2B-Uncensored-HauhauCS-Aggressive) |
+| Updatedabout 2 hours ago | 29 | unsloth/MiniMax-M3-GGUFImage-Text-to-Text | 426B | [Link](https://huggingface.co/unsloth/MiniMax-M3-GGUF) |
 | 26 | 28 | VIDraft/Gemma-3-R1984-12BImage-Text-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/VIDraft/Gemma-3-R1984-12B) |
 | 36 | 28 | meta-llama/Llama-4-Maverick-17B-128EImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E) |
 | 1.6k | 28 | unsloth/Llama-4-Scout-17B-16E-Instruct-GGUFImage-Text-to-Text | Updatedabout 16 hours ago | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct-GGUF) |
@@ -5308,6 +5310,7 @@ Updated on 2026-06-13
 | Updated1 day ago | 119 | LiquidAI/LFM2-350M-ExtractText | 0.4B | [Link](https://huggingface.co/LiquidAI/LFM2-350M-Extract) |
 | Updated7 days ago | 119 | gustavecortal/Beck-8BText | 8B | [Link](https://huggingface.co/gustavecortal/Beck-8B) |
 | UpdatedJan 5 | 118 | Fortytwo-Network/Strand-Rust-Coder-14B-v1Text | 15B | [Link](https://huggingface.co/Fortytwo-Network/Strand-Rust-Coder-14B-v1) |
+| Updated2 days ago | 117 | Muhammadreza/alduin-4b-it-baseText | 4B | [Link](https://huggingface.co/Muhammadreza/alduin-4b-it-base) |
 | Updatedabout 4 hours ago | 116 | tencent/Penguin-VL-8BText | 9B | [Link](https://huggingface.co/tencent/Penguin-VL-8B) |
 | Updatedabout 11 hours ago | 115 | mistralai/Devstral-Small-2507Text | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2507) |
 | Updatedabout 11 hours ago | 114 | OBLITERATUS/gemma-4-E4B-it-OBLITERATEDText | 8B | [Link](https://huggingface.co/OBLITERATUS/gemma-4-E4B-it-OBLITERATED) |
@@ -6777,6 +6780,7 @@ Updated on 2026-06-13
 | 7 | Unknown | DeverStyle/Ideogram-4 | Updatedabout 10 hours ago | [Link](https://huggingface.co/DeverStyle/Ideogram-4.0-Loras) |
 | 9 | Unknown | tsolful/zjourney-Ideogram-4-Fantasy-Realism-RefinerText-to-Image | Updated2 days ago | [Link](https://huggingface.co/tsolful/zjourney-Ideogram-4-Fantasy-Realism-Refiner) |
 | 13 | Unknown | zlab-princeton/i1-3BText-to-Image | Updated13 minutes ago | [Link](https://huggingface.co/zlab-princeton/i1-3B) |
+| 7 | Unknown | Photoroom/prxpixel-t2iText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Photoroom/prxpixel-t2i) |
 
 ## Text-to-Speech
 
@@ -6916,6 +6920,7 @@ Updated on 2026-06-13
 | 431 | 21 | firstpixel/F5-TTS-pt-brText-to-Speech | Updated13 days ago | [Link](https://huggingface.co/firstpixel/F5-TTS-pt-br) |
 | 48 | 21 | senstella/csm-expressiva-1bText-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/senstella/csm-expressiva-1b) |
 | Updatedabout 8 hours ago | 21 | ekwek/Soprano-1 | 79.7M | [Link](https://huggingface.co/ekwek/Soprano-1.1-80M) |
+| 2 | 21 | Zyphra/ZONOS2Text-to-Speech | Updatedabout 3 hours ago | [Link](https://huggingface.co/Zyphra/ZONOS2) |
 | 857 | 20 | MBZUAI/speecht5_tts_clartts_arText-to-Speech | UpdatedFeb 23, 2024 | [Link](https://huggingface.co/MBZUAI/speecht5_tts_clartts_ar) |
 | 234 | 20 | k2-fsa/OmniVoiceText-to-Speech | Updatedabout 1 hour ago | [Link](https://huggingface.co/k2-fsa/OmniVoice) |
 | Updated7 days ago | 20 | AMAImedia/Darwin-Qwen3-TTS-1 | 2B | [Link](https://huggingface.co/AMAImedia/Darwin-Qwen3-TTS-1.7B-Cross-AWQ-INT4-NOESIS) |
