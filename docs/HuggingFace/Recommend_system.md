@@ -5341,6 +5341,7 @@ Updated on 2026-06-14
 | Updatedabout 2 hours ago | 98 | XiaomiMiMo/MiMo-V2-FlashText | 310B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash) |
 | Updatedabout 4 hours ago | 98 | LiquidAI/LFM2-24B-A2BText | 24B | [Link](https://huggingface.co/LiquidAI/LFM2-24B-A2B) |
 | 26.5k | 97 | google/gemma-3n-E2B-it-litert-lmText | Updated13 days ago | [Link](https://huggingface.co/google/gemma-3n-E2B-it-litert-lm) |
+| Updated2 days ago | 97 | Gryphe/Gemma-4-31B-StyleTuneText | 33B | [Link](https://huggingface.co/Gryphe/Gemma-4-31B-StyleTune) |
 | 2 | 95 | Qwen/Qwen3-30B-A3BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B) |
 | 251 | 95 | facebook/MobileLLM-ProText | Updatedabout 7 hours ago | [Link](https://huggingface.co/facebook/MobileLLM-Pro) |
 | Updatedabout 19 hours ago | 95 | open-thoughts/OpenThinker-Agent-v1Text | 8B | [Link](https://huggingface.co/open-thoughts/OpenThinker-Agent-v1) |
@@ -7420,6 +7421,7 @@ Updated on 2026-06-14
 | 7 | 1 | AdamLucek/Wan2 | UpdatedMar 31, 2025 | [Link](https://huggingface.co/AdamLucek/Wan2.1-T2V-14B-OldBookIllustrations) |
 | 9 | 1 | AlekseyCalvin/UkraineWar_Wan21_14b_LoRA_BySAPText-to-Video | UpdatedJul 31, 2025 | [Link](https://huggingface.co/AlekseyCalvin/UkraineWar_Wan21_14b_LoRA_BySAP) |
 | 7 | 1 | AlekseyCalvin/UkraineWarA14b_wan2 | UpdatedJul 31, 2025 | [Link](https://huggingface.co/AlekseyCalvin/UkraineWarA14b_wan2.2_t2v-LoRA) |
+| UpdatedApr 7 | 1.18k | wanabmeya/clip_vision_h | 0.1B | [Link](https://huggingface.co/wanabmeya/clip_vision_h.safetensors) |
 | 7.59k |  | tencent/HunyuanVideoText-to-Video | UpdatedJan 21 | [Link](https://huggingface.co/tencent/HunyuanVideo) |
 | 26.6k |  | genmo/mochi-1-previewText-to-Video | UpdatedDec 18, 2024 | [Link](https://huggingface.co/genmo/mochi-1-preview) |
 | 91.5k |  | THUDM/CogVideoX-5bText-to-Video | UpdatedNov 23, 2024 | [Link](https://huggingface.co/THUDM/CogVideoX-5b) |
