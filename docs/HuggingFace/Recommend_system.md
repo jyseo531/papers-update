@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-06-13
+Updated on 2026-06-14
 
 > Generated from the Hugging Face database.
 
@@ -192,6 +192,7 @@ Updated on 2026-06-13
 | 16 | 7 | FunAGI/Qwen2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/FunAGI/Qwen2.5-Omni-7B-GPTQ-4bit) |
 | Updatedabout 5 hours ago | 7 | wikeeyang/Nexus-GenV2-nf4-fp8Any-to-Any | 5B | [Link](https://huggingface.co/wikeeyang/Nexus-GenV2-nf4-fp8) |
 | UpdatedApr 30 | 7 | braindao/gemma-3-4b-it-uncensored-v2Any-to-Any | 4B | [Link](https://huggingface.co/braindao/gemma-3-4b-it-uncensored-v2) |
+| Updated4 days ago | 7.24k | w-ahmad/Gemma-4-12B-it-qat-GGUF-MoQAny-to-Any | 12B | [Link](https://huggingface.co/w-ahmad/Gemma-4-12B-it-qat-GGUF-MoQ) |
 | 1.15k | 6 | EPFL-VILAB/4M-21_BAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-21_B) |
 | 186 | 6 | showlab/show-o2-7BAny-to-Any | Updatedabout 9 hours ago | [Link](https://huggingface.co/showlab/show-o2-7B) |
 | Updatedabout 11 hours ago | 6 | Qwen/Qwen3-Omni-30B-A3B-ThinkingAny-to-Any | 32B | [Link](https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Thinking) |
@@ -322,6 +323,7 @@ Updated on 2026-06-13
 | Updatedabout 3 hours ago | 1.12k | unsloth/gemma-4-E2B-it-qat-mobile-GGUFAny-to-Any | 5B | [Link](https://huggingface.co/unsloth/gemma-4-E2B-it-qat-mobile-GGUF) |
 | Updatedabout 3 hours ago | 1.48k | unsloth/gemma-4-E4B-it-qat-mobile-GGUFAny-to-Any | 7B | [Link](https://huggingface.co/unsloth/gemma-4-E4B-it-qat-mobile-GGUF) |
 | Updated7 days ago | 1.67k | google/gemma-4-E4B-it-qat-q4_0-unquantizedAny-to-Any | 8B | [Link](https://huggingface.co/google/gemma-4-E4B-it-qat-q4_0-unquantized) |
+| Updated3 days ago | 1.25k | huihui-ai/Huihui-gemma-4-31B-it-qat-q4_0-unquantized-abliterated-GGUFAny-to-Any | 31B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-31B-it-qat-q4_0-unquantized-abliterated-GGUF) |
 | 2 | Unknown | guanwenhao/MonoSpeechAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/guanwenhao/MonoSpeech) |
 | 22 | Unknown | Goekdeniz-Guelmez/J | UpdatedOct 29, 2024 | [Link](https://huggingface.co/Goekdeniz-Guelmez/J.O.S.I.E.v4o) |
 | 1 | Unknown | hfcsrd/cryptographyAny-to-Any | UpdatedNov 17, 2024 | [Link](https://huggingface.co/hfcsrd/cryptography) |
@@ -2177,6 +2179,7 @@ Updated on 2026-06-13
 | 1.18k | 27 | google/gemma-3n-E2B-itImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/google/gemma-3n-E2B-it) |
 | Updatedabout 8 hours ago | 27 | LiquidAI/LFM2-VL-1 | 2B | [Link](https://huggingface.co/LiquidAI/LFM2-VL-1.6B) |
 | 2.54k | 27 | onnx-community/FastVLM-0 | UpdatedJul 1 | [Link](https://huggingface.co/onnx-community/FastVLM-0.5B-ONNX) |
+| 1.95k | 27 | MiniMaxAI/MiniMax-M3-MXFP8Image-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M3-MXFP8) |
 | 3 | 26 | openfree/Gemma-3-R1984-27B-Q8_0-GGUFImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/openfree/Gemma-3-R1984-27B-Q8_0-GGUF) |
 | 4 | 26 | openfree/Gemma-3-R1984-27B-Q6_K-GGUFImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/openfree/Gemma-3-R1984-27B-Q6_K-GGUF) |
 | 3 | 26 | openfree/Mistral-Small-3 | Updatedabout 8 hours ago | [Link](https://huggingface.co/openfree/Mistral-Small-3.1-24B-Instruct-2503-Q8_0-GGUF) |
@@ -7589,6 +7592,7 @@ Updated on 2026-06-13
 | 2 | Unknown | qixinhu11/LongLive-RAGText-to-Video | Updatedabout 12 hours ago | [Link](https://huggingface.co/qixinhu11/LongLive-RAG) |
 | 5 | Unknown | jdopensource/JoyAI-EchoText-to-Video | Updatedabout 16 hours ago | [Link](https://huggingface.co/jdopensource/JoyAI-Echo) |
 | 1 | Unknown | TensorStack/Locomotion-ToonYou-amuseText-to-Video | UpdatedApr 1, 2025 | [Link](https://huggingface.co/TensorStack/Locomotion-ToonYou-amuse) |
+| 3 | Unknown | danhtran2mind/zeroscope_v2_576w-Ghibli-LoRAText-to-Video | UpdatedJul 21, 2025 | [Link](https://huggingface.co/danhtran2mind/zeroscope_v2_576w-Ghibli-LoRA) |
 
 ## Text2Text Generation
 
