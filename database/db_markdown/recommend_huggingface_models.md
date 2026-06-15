@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-06-14
+Updated on 2026-06-15
 
 > Generated from the Hugging Face database.
 
@@ -41,6 +41,7 @@ Updated on 2026-06-14
 | Updatedabout 16 hours ago | 398 | QuantStack/HiDream-E1-1-GGUFAny-to-Any | 17B | [Link](https://huggingface.co/QuantStack/HiDream-E1-1-GGUF) |
 | Updatedabout 19 hours ago | 387 | mlx-community/gemma-4-e4b-it-mxfp8Any-to-Any | 3B | [Link](https://huggingface.co/mlx-community/gemma-4-e4b-it-mxfp8) |
 | 121k | 381 | deepseek-ai/Janus-Pro-1BAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-1B) |
+| Updated10 days ago | 353 | google/gemma-4-E2B-it-qat-q4_0-unquantized-assistantAny-to-Any | 78M | [Link](https://huggingface.co/google/gemma-4-E2B-it-qat-q4_0-unquantized-assistant) |
 | Updated14 days ago | 330k | lmstudio-community/gemma-4-E4B-it-MLX-4bitAny-to-Any | 2B | [Link](https://huggingface.co/lmstudio-community/gemma-4-E4B-it-MLX-4bit) |
 | Updatedabout 10 hours ago | 316 | wcy1122/MGM-Omni-TTS-2B-0927Any-to-Any | 2B | [Link](https://huggingface.co/wcy1122/MGM-Omni-TTS-2B-0927) |
 | Updatedabout 3 hours ago | 306 | BAAI/Emu3 | 34B | [Link](https://huggingface.co/BAAI/Emu3.5) |
@@ -7064,6 +7065,7 @@ Updated on 2026-06-14
 | 63 | 4 | KRAFTON/Raon-OpenTTS-1BText-to-Speech | Updated12 days ago | [Link](https://huggingface.co/KRAFTON/Raon-OpenTTS-1B) |
 | 6 | 4 | worstchan/WavTTSText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/worstchan/WavTTS) |
 | Updatedabout 8 hours ago | 4 | bosonai/higgs-audio-v3-tts-4bText-to-Speech | 5B | [Link](https://huggingface.co/bosonai/higgs-audio-v3-tts-4b) |
+| 27 | 4 | HiMind/Packed-TTSText-to-Speech | Updated5 days ago | [Link](https://huggingface.co/HiMind/Packed-TTS) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 1.22k | 3 | CONCREE/Adia_TTSText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/CONCREE/Adia_TTS) |
@@ -7235,6 +7237,7 @@ Updated on 2026-06-14
 | 4 | Unknown | HKUSTAudio/Talker-T2AVText-to-Speech | Updatedabout 8 hours ago | [Link](https://huggingface.co/HKUSTAudio/Talker-T2AV) |
 | 18 | Unknown | fuckSelf/GPT-SoVITS-RussianText-to-Speech | UpdatedSep 11, 2025 | [Link](https://huggingface.co/fuckSelf/GPT-SoVITS-Russian) |
 | 43 | Unknown | ZzWater/ViiTorVoice-NARText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/ZzWater/ViiTorVoice-NAR) |
+| 4 | Unknown | drbaph/ZONOS2-BF16Text-to-Speech | Updated2 days ago | [Link](https://huggingface.co/drbaph/ZONOS2-BF16) |
 
 ## Text-to-Video
 
