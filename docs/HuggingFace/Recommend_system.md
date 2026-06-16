@@ -138,6 +138,7 @@ Updated on 2026-06-16
 | Updatedabout 10 hours ago | 30 | meituan-longcat/LongCat-NextAny-to-Any | 74B | [Link](https://huggingface.co/meituan-longcat/LongCat-Next) |
 | Updated14 days ago | 29 | multimodal-reasoning-lab/Anole-Zebra-CoTAny-to-Any | 7B | [Link](https://huggingface.co/multimodal-reasoning-lab/Anole-Zebra-CoT) |
 | Updated4 days ago | 29 | PaDT-MLLM/PaDT_Pro_7BAny-to-Any | 8B | [Link](https://huggingface.co/PaDT-MLLM/PaDT_Pro_7B) |
+| Updated5 days ago | 28 | sensenova/SenseNova-U1-8B-MoT-InterleavedAny-to-Any | 18B | [Link](https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-Interleaved) |
 | UpdatedMar 13, 2025 | 27 | ericrisco/gemma-3-4b-reasoningAny-to-Any | 4B | [Link](https://huggingface.co/ericrisco/gemma-3-4b-reasoning) |
 | UpdatedJun 17 | 26.1k | unsloth/Llama-4-Scout-17B-16E-Instruct-GGUFAny-to-Any | 108B | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct-GGUF) |
 | Updatedabout 2 hours ago | 24 | inclusionAI/Ming-Lite-Omni-1 | 19B | [Link](https://huggingface.co/inclusionAI/Ming-Lite-Omni-1.5) |
@@ -221,6 +222,7 @@ Updated on 2026-06-16
 | Updatedabout 12 hours ago | 5 | sensenova/SenseNova-U1-8B-MoT-SFTAny-to-Any | 18B | [Link](https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-SFT) |
 | Updated4 days ago | 5.84k | llmfan46/gemma-4-E2B-it-ultra-uncensored-heretic-GGUFAny-to-Any | 5B | [Link](https://huggingface.co/llmfan46/gemma-4-E2B-it-ultra-uncensored-heretic-GGUF) |
 | Updatedless than a minute ago | 5 | Abiray/gemma-4-12b-it-GGUFAny-to-Any | 52.4M | [Link](https://huggingface.co/Abiray/gemma-4-12b-it-GGUF) |
+| Updated4 days ago | 5.11k | llmfan46/gemma-4-12B-it-uncensored-heretic-GGUFAny-to-Any | 12B | [Link](https://huggingface.co/llmfan46/gemma-4-12B-it-uncensored-heretic-GGUF) |
 | 126 | 4 | Alpha-VLLM/Chameleon_7B_mGPTAny-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Chameleon_7B_mGPT) |
 | 37 | 4 | Alpha-VLLM/Lumina-mGPT-7B-512-MultiImageAny-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-512-MultiImage) |
 | 26 | 4 | EPFL-VILAB/4M-7-T2I_XL_CC12MAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-7-T2I_XL_CC12M) |
@@ -5838,6 +5840,7 @@ Updated on 2026-06-16
 | Updatedabout 6 hours ago | 6.31k | Jiunsong/supergemma4-26b-abliterated-multimodalText | 26B | [Link](https://huggingface.co/Jiunsong/supergemma4-26b-abliterated-multimodal) |
 | Updated3 days ago | 6.57k | prism-ml/Ternary-Bonsai-8B-ggufText | 8B | [Link](https://huggingface.co/prism-ml/Ternary-Bonsai-8B-gguf) |
 | Updated7 days ago | 6.34k | sjakek/Nex-N2-mini-GGUFText | 35B | [Link](https://huggingface.co/sjakek/Nex-N2-mini-GGUF) |
+| Updated3 days ago | 6.88k | BennyDaBall/Z-Image-Engineer-V6-GGUFText | 4B | [Link](https://huggingface.co/BennyDaBall/Z-Image-Engineer-V6-GGUF) |
 | Updated28 minutes ago | 5 | unsloth/Kimi-K2-Instruct-GGUFText | 1026B | [Link](https://huggingface.co/unsloth/Kimi-K2-Instruct-GGUF) |
 | Updatedabout 4 hours ago | 5 | tencent/Hunyuan-1 | 2B | [Link](https://huggingface.co/tencent/Hunyuan-1.8B-Instruct) |
 | Updatedabout 6 hours ago | 5.68k | deepseek-ai/DeepSeek-V3 | 685B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3.1-Base) |
@@ -6796,6 +6799,7 @@ Updated on 2026-06-16
 | 13 | Unknown | zlab-princeton/i1-3BText-to-Image | Updated13 minutes ago | [Link](https://huggingface.co/zlab-princeton/i1-3B) |
 | 7 | Unknown | Photoroom/prxpixel-t2iText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Photoroom/prxpixel-t2i) |
 | 6 | Unknown | transformerlab/ideogram-4-int8-w8a8Text-to-Image | Updated4 days ago | [Link](https://huggingface.co/transformerlab/ideogram-4-int8-w8a8) |
+| 7 | Unknown | Danrisi/UltraReal_FineTune_Anima_base1_v3Text-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/Danrisi/UltraReal_FineTune_Anima_base1_v3) |
 
 ## Text-to-Speech
 
