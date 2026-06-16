@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-06-16
+Updated on 2026-06-17
 
 > Generated from the Hugging Face database.
 
@@ -259,6 +259,7 @@ Updated on 2026-06-16
 | Updatedabout 14 hours ago | 3 | sensenova/SenseNova-U1-8B-MoT-8step-previewAny-to-Any | 18B | [Link](https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-8step-preview) |
 | UpdatedApr 13 | 3.37k | groxaxo/Huihui-gemma-4-31B-it-abliterated-v2-GGUFAny-to-Any | 31B | [Link](https://huggingface.co/groxaxo/Huihui-gemma-4-31B-it-abliterated-v2-GGUF) |
 | Updatedabout 4 hours ago | 3 | osmapi/osmGemma-4-12B-uncensored-bf16Any-to-Any | 12B | [Link](https://huggingface.co/osmapi/osmGemma-4-12B-uncensored-bf16) |
+| Updated5 days ago | 3.36k | huihui-ai/Huihui-gemma-4-E4B-it-qat-q4_0-unquantized-abliterated-GGUFAny-to-Any | 7B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-E4B-it-qat-q4_0-unquantized-abliterated-GGUF) |
 | 47 | 2 | PKU-Alignment/AnyRewardModelAny-to-Any | UpdatedDec 28, 2024 | [Link](https://huggingface.co/PKU-Alignment/AnyRewardModel) |
 | 585 | 2 | wnma3mz/Janus-Pro-1B-4bitAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/wnma3mz/Janus-Pro-1B-4bit) |
 | 3 | 2 | lintw/HealthGPT-XL32Any-to-Any | Updatedabout 18 hours ago | [Link](https://huggingface.co/lintw/HealthGPT-XL32) |
@@ -5389,6 +5390,7 @@ Updated on 2026-06-16
 | Updatedabout 19 hours ago | 76 | ByteDance-Seed/Seed-OSS-36B-BaseText | 36B | [Link](https://huggingface.co/ByteDance-Seed/Seed-OSS-36B-Base) |
 | Updatedabout 23 hours ago | 76 | microsoft/FrogMini-14B-2510Text | 425k | [Link](https://huggingface.co/microsoft/FrogMini-14B-2510) |
 | Updatedabout 23 hours ago | 75 | inceptionai/Jais-2-70B-ChatText | 72B | [Link](https://huggingface.co/inceptionai/Jais-2-70B-Chat) |
+| Updatedabout 10 hours ago | 75 | WeiboAI/VibeThinker-3BText | 3B | [Link](https://huggingface.co/WeiboAI/VibeThinker-3B) |
 | 2 | 74 | Qwen/Qwen3-32BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-32B) |
 | Updatedabout 10 hours ago | 74 | ByteDance-Seed/Seed-OSS-36B-InstructText | 36B | [Link](https://huggingface.co/ByteDance-Seed/Seed-OSS-36B-Instruct) |
 | Updatedabout 13 hours ago | 74 | IAAR-Shanghai/MemPrivacy-1 | 2B | [Link](https://huggingface.co/IAAR-Shanghai/MemPrivacy-1.7B-SFT) |
@@ -5715,6 +5717,7 @@ Updated on 2026-06-16
 | Updatedabout 15 hours ago | 20 | miromind-ai/MiroThinker-v1 | 73B | [Link](https://huggingface.co/miromind-ai/MiroThinker-v1.0-72B) |
 | 32 | 20 | nvidia/gpt-oss-120b-Eagle3-throughputText | Updated4 days ago | [Link](https://huggingface.co/nvidia/gpt-oss-120b-Eagle3-throughput) |
 | Updated3 days ago | 20 | zed-industries/zeta-2Text | 8B | [Link](https://huggingface.co/zed-industries/zeta-2) |
+| Updatedabout 17 hours ago | 20 | sakamakismile/gemma-4-12B-coder-fable5-composer2 | 7B | [Link](https://huggingface.co/sakamakismile/gemma-4-12B-coder-fable5-composer2.5-MTP-NVFP4) |
 | 14.1k | 19 | alamios/Mistral-Small-3 | Updated10 days ago | [Link](https://huggingface.co/alamios/Mistral-Small-3.1-DRAFT-0.5B) |
 | 358 | 19 | all-hands/openhands-lm-7b-v0 | Updated1 day ago | [Link](https://huggingface.co/all-hands/openhands-lm-7b-v0.1) |
 | 105 | 19 | nvidia/OpenCodeReasoning-Nemotron-32B-IOIText | Updated6 days ago | [Link](https://huggingface.co/nvidia/OpenCodeReasoning-Nemotron-32B-IOI) |
@@ -5804,6 +5807,7 @@ Updated on 2026-06-16
 | Updatedabout 10 hours ago | 11 | nvidia/Nemotron-Labs-Diffusion-14BText | 14B | [Link](https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-14B) |
 | Updatedabout 1 hour ago | 10.3k | unsloth/gemma-3-270m-it-GGUFText | 0.3B | [Link](https://huggingface.co/unsloth/gemma-3-270m-it-GGUF) |
 | Updated1 day ago | 10 | FINAL-Bench/Darwin-35B-A3B-OpusText | 36B | [Link](https://huggingface.co/FINAL-Bench/Darwin-35B-A3B-Opus) |
+| Updatedabout 20 hours ago | 10 | lordx64/Qwable-v1Text | 36B | [Link](https://huggingface.co/lordx64/Qwable-v1) |
 | Updatedabout 4 hours ago | 9 | meituan-longcat/LongCat-Flash-ChatText | 562B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Chat) |
 | Updatedabout 7 hours ago | 9 | facebook/MobileLLM-R1-950MText | 0.9B | [Link](https://huggingface.co/facebook/MobileLLM-R1-950M) |
 | Updatedabout 5 hours ago | 9 | Zyphra/ZAYA1-baseText | 9B | [Link](https://huggingface.co/Zyphra/ZAYA1-base) |
@@ -6379,6 +6383,7 @@ Updated on 2026-06-16
 | 182 | 19 | GuangyuanSD/Z-Image-DistilledText-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/GuangyuanSD/Z-Image-Distilled) |
 |  | 18 | multimodalart/isometric-skeumorphic-3d-bnbText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/multimodalart/isometric-skeumorphic-3d-bnb) |
 | Updatedabout 3 hours ago | 18 | jayn7/Z-Image-Turbo-GGUFText-to-Image | 6B | [Link](https://huggingface.co/jayn7/Z-Image-Turbo-GGUF) |
+| 289 | 18 | NO8D/ExpressionControlText-to-Image | Updated1 day ago | [Link](https://huggingface.co/NO8D/ExpressionControl) |
 | 59 | 17 | HiDream-ai/HiDream-I1-DevText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/HiDream-ai/HiDream-I1-Dev) |
 | 66 | 16 | HiDream-ai/HiDream-I1-FastText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/HiDream-ai/HiDream-I1-Fast) |
 | 42 | 16 | codermert/burcuufinal_fluxxText-to-Image | Updated5 days ago | [Link](https://huggingface.co/codermert/burcuufinal_fluxx) |
@@ -7609,6 +7614,7 @@ Updated on 2026-06-16
 | 5 | Unknown | jdopensource/JoyAI-EchoText-to-Video | Updatedabout 16 hours ago | [Link](https://huggingface.co/jdopensource/JoyAI-Echo) |
 | 1 | Unknown | TensorStack/Locomotion-ToonYou-amuseText-to-Video | UpdatedApr 1, 2025 | [Link](https://huggingface.co/TensorStack/Locomotion-ToonYou-amuse) |
 | 3 | Unknown | danhtran2mind/zeroscope_v2_576w-Ghibli-LoRAText-to-Video | UpdatedJul 21, 2025 | [Link](https://huggingface.co/danhtran2mind/zeroscope_v2_576w-Ghibli-LoRA) |
+| 3 | Unknown | karnewar/NeodragonText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/karnewar/Neodragon) |
 
 ## Text2Text Generation
 
