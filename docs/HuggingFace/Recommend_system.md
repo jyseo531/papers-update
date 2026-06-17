@@ -5845,6 +5845,7 @@ Updated on 2026-06-17
 | Updated3 days ago | 6.57k | prism-ml/Ternary-Bonsai-8B-ggufText | 8B | [Link](https://huggingface.co/prism-ml/Ternary-Bonsai-8B-gguf) |
 | Updated7 days ago | 6.34k | sjakek/Nex-N2-mini-GGUFText | 35B | [Link](https://huggingface.co/sjakek/Nex-N2-mini-GGUF) |
 | Updated3 days ago | 6.88k | BennyDaBall/Z-Image-Engineer-V6-GGUFText | 4B | [Link](https://huggingface.co/BennyDaBall/Z-Image-Engineer-V6-GGUF) |
+| Updated4 days ago | 6.9k | deadbydawn101/RavenX-CyberAgent-Qwen3 | 36B | [Link](https://huggingface.co/deadbydawn101/RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-GGUF) |
 | Updated28 minutes ago | 5 | unsloth/Kimi-K2-Instruct-GGUFText | 1026B | [Link](https://huggingface.co/unsloth/Kimi-K2-Instruct-GGUF) |
 | Updatedabout 4 hours ago | 5 | tencent/Hunyuan-1 | 2B | [Link](https://huggingface.co/tencent/Hunyuan-1.8B-Instruct) |
 | Updatedabout 6 hours ago | 5.68k | deepseek-ai/DeepSeek-V3 | 685B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3.1-Base) |
@@ -6805,6 +6806,7 @@ Updated on 2026-06-17
 | 7 | Unknown | Photoroom/prxpixel-t2iText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Photoroom/prxpixel-t2i) |
 | 6 | Unknown | transformerlab/ideogram-4-int8-w8a8Text-to-Image | Updated4 days ago | [Link](https://huggingface.co/transformerlab/ideogram-4-int8-w8a8) |
 | 7 | Unknown | Danrisi/UltraReal_FineTune_Anima_base1_v3Text-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/Danrisi/UltraReal_FineTune_Anima_base1_v3) |
+| 10 | Unknown | ostris/ideogram_4_unconditional_loraText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/ostris/ideogram_4_unconditional_lora) |
 
 ## Text-to-Speech
 
