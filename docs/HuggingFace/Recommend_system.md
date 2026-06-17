@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-06-17
+Updated on 2026-06-18
 
 > Generated from the Hugging Face database.
 
@@ -2761,6 +2761,7 @@ Updated on 2026-06-17
 | 171 | 5 | tonera/FLUX | Updated3 days ago | [Link](https://huggingface.co/tonera/FLUX.2-klein-9B-Nunchaku) |
 | 338 | 5 | jdopensource/JoyAI-Image-Edit-DiffusersImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/jdopensource/JoyAI-Image-Edit-Diffusers) |
 | 120 | 5 | ilkerzgi/face-swapImage-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/ilkerzgi/face-swap) |
+| 78 | 5 | TensorForger/FlowUpscalerImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/TensorForger/FlowUpscaler) |
 | 575 | 4 | prs-eth/marigold-normals-v1-1Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-normals-v1-1) |
 | 1k | 4 | stanfordmimi/MedVAEImage-to-Image | UpdatedMar 31 | [Link](https://huggingface.co/stanfordmimi/MedVAE) |
 | 3 | 4 | wikeeyang/UniWorld-V1-NF4Image-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/wikeeyang/UniWorld-V1-NF4) |
@@ -3069,6 +3070,7 @@ Updated on 2026-06-17
 | 4 | Unknown | CompVis/rayderImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/CompVis/rayder) |
 | 6 | Unknown | dx8152/Flux2-Klein-9B-MigrationImage-to-Image | Updatedabout 15 hours ago | [Link](https://huggingface.co/dx8152/Flux2-Klein-9B-Migration) |
 | 5 | Unknown | jdopensource/JoyAI-Image-Edit-ComfyUIImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/jdopensource/JoyAI-Image-Edit-ComfyUI) |
+| 5 | Unknown | LAXMAYDAY/Anima_Tile_and_Repair_ControlNet-LLLiteImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/LAXMAYDAY/Anima_Tile_and_Repair_ControlNet-LLLite) |
 
 ## Image-to-Text
 
@@ -5960,6 +5962,7 @@ Updated on 2026-06-17
 | Updated1 day ago | 1.04k | syntropy-ai/Soren-1-SmallText | 2B | [Link](https://huggingface.co/syntropy-ai/Soren-1-Small) |
 | Updatedabout 19 hours ago | 1 | silx-ai/Quasar-PreviewText | 17B | [Link](https://huggingface.co/silx-ai/Quasar-Preview) |
 | Updatedabout 12 hours ago | 1.78k | CohereLabs/North-Mini-Code-1 | 30B | [Link](https://huggingface.co/CohereLabs/North-Mini-Code-1.0) |
+| Updated2 days ago | 1.54k | bytkim/Qwen3 | 27B | [Link](https://huggingface.co/bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -6507,6 +6510,7 @@ Updated on 2026-06-17
 | 8 | 6 | SeeSee21/AniSeeText-to-Image | Updated1 day ago | [Link](https://huggingface.co/SeeSee21/AniSee) |
 | 71 | 6 | microsoft/Lens-BaseText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/microsoft/Lens-Base) |
 | 453 | 6 | Danrisi/UltraReal_FineTune_Anima_base1Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/Danrisi/UltraReal_FineTune_Anima_base1) |
+| 44 | 6 | multimodalart/tarot-ideogram-4Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/multimodalart/tarot-ideogram-4) |
 | 42 | 5 | Shakker-Labs/RepTextText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Shakker-Labs/RepText) |
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
@@ -7255,6 +7259,7 @@ Updated on 2026-06-17
 | 18 | Unknown | fuckSelf/GPT-SoVITS-RussianText-to-Speech | UpdatedSep 11, 2025 | [Link](https://huggingface.co/fuckSelf/GPT-SoVITS-Russian) |
 | 43 | Unknown | ZzWater/ViiTorVoice-NARText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/ZzWater/ViiTorVoice-NAR) |
 | 4 | Unknown | drbaph/ZONOS2-BF16Text-to-Speech | Updated2 days ago | [Link](https://huggingface.co/drbaph/ZONOS2-BF16) |
+| 4 | Unknown | owensong/Inflect-Nano-v1Text-to-Speech | Updatedabout 20 hours ago | [Link](https://huggingface.co/owensong/Inflect-Nano-v1) |
 
 ## Text-to-Video
 
