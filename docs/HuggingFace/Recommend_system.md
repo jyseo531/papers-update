@@ -223,6 +223,7 @@ Updated on 2026-06-18
 | Updated4 days ago | 5.84k | llmfan46/gemma-4-E2B-it-ultra-uncensored-heretic-GGUFAny-to-Any | 5B | [Link](https://huggingface.co/llmfan46/gemma-4-E2B-it-ultra-uncensored-heretic-GGUF) |
 | Updatedless than a minute ago | 5 | Abiray/gemma-4-12b-it-GGUFAny-to-Any | 52.4M | [Link](https://huggingface.co/Abiray/gemma-4-12b-it-GGUF) |
 | Updated4 days ago | 5.11k | llmfan46/gemma-4-12B-it-uncensored-heretic-GGUFAny-to-Any | 12B | [Link](https://huggingface.co/llmfan46/gemma-4-12B-it-uncensored-heretic-GGUF) |
+| Updated7 days ago | 5.31k | huihui-ai/Huihui-gemma-4-26B-A4B-it-qat-q4_0-unquantized-abliterated-GGUFAny-to-Any | 25B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-26B-A4B-it-qat-q4_0-unquantized-abliterated-GGUF) |
 | 126 | 4 | Alpha-VLLM/Chameleon_7B_mGPTAny-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Chameleon_7B_mGPT) |
 | 37 | 4 | Alpha-VLLM/Lumina-mGPT-7B-512-MultiImageAny-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-512-MultiImage) |
 | 26 | 4 | EPFL-VILAB/4M-7-T2I_XL_CC12MAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-7-T2I_XL_CC12M) |
@@ -5286,6 +5287,7 @@ Updated on 2026-06-18
 | Updated4 days ago | 170 | Qwen/WebWorld-14BText | 15B | [Link](https://huggingface.co/Qwen/WebWorld-14B) |
 | Updated5 days ago | 170 | allenai/Emo_1b14b_1TText | 14B | [Link](https://huggingface.co/allenai/Emo_1b14b_1T) |
 | Updated33 minutes ago | 167 | Qwen/Qwen3-Coder-30B-A3B-InstructText | 31B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct) |
+| Updated4 days ago | 166 | Gryphe/Gemma-4-26B-A4B-StyleTuneText | 27B | [Link](https://huggingface.co/Gryphe/Gemma-4-26B-A4B-StyleTune) |
 | Updated2 days ago | 164 | driaforall/mem-agentText | 0.0B | [Link](https://huggingface.co/driaforall/mem-agent) |
 | Updatedabout 17 hours ago | 164 | z-lab/gemma-4-26B-A4B-it-DFlashText | 0.4B | [Link](https://huggingface.co/z-lab/gemma-4-26B-A4B-it-DFlash) |
 | Updatedabout 3 hours ago | 163 | Alibaba-NLP/Tongyi-DeepResearch-30B-A3BText | 31B | [Link](https://huggingface.co/Alibaba-NLP/Tongyi-DeepResearch-30B-A3B) |
@@ -6811,6 +6813,7 @@ Updated on 2026-06-18
 | 6 | Unknown | transformerlab/ideogram-4-int8-w8a8Text-to-Image | Updated4 days ago | [Link](https://huggingface.co/transformerlab/ideogram-4-int8-w8a8) |
 | 7 | Unknown | Danrisi/UltraReal_FineTune_Anima_base1_v3Text-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/Danrisi/UltraReal_FineTune_Anima_base1_v3) |
 | 10 | Unknown | ostris/ideogram_4_unconditional_loraText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/ostris/ideogram_4_unconditional_lora) |
+| 45 | Unknown | ostris/ideogram_4_turbotime_loraText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/ostris/ideogram_4_turbotime_lora) |
 
 ## Text-to-Speech
 
