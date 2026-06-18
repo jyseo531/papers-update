@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-06-18
+Updated on 2026-06-19
 
 > Generated from the Hugging Face database.
 
@@ -412,6 +412,7 @@ Updated on 2026-06-18
 | 5 | Unknown | cyberneurova/CyberNeurova-Lance-3B-abliteratedAny-to-Any | Updated1 day ago | [Link](https://huggingface.co/cyberneurova/CyberNeurova-Lance-3B-abliterated) |
 | 3 | Unknown | fbjr/LTX-2 | Updatedabout 5 hours ago | [Link](https://huggingface.co/fbjr/LTX-2.3-22b-IC-LoRA-Audio-Only-Context) |
 | 11 | Unknown | lemonade-sdk/LMX-Omni-52B-HaloAny-to-Any | Updated9 days ago | [Link](https://huggingface.co/lemonade-sdk/LMX-Omni-52B-Halo) |
+| 7 | Unknown | catnip-ai-tech/MaineCoonAny-to-Any | Updatedabout 7 hours ago | [Link](https://huggingface.co/catnip-ai-tech/MaineCoon) |
 
 ## Audio Classification
 
@@ -5228,6 +5229,7 @@ Updated on 2026-06-18
 | Updatedabout 9 hours ago | 329 | Kwaipilot/KAT-DevText | 33B | [Link](https://huggingface.co/Kwaipilot/KAT-Dev) |
 | Updatedabout 4 hours ago | 329 | FractalAIResearch/Fathom-Search-4BText | 4B | [Link](https://huggingface.co/FractalAIResearch/Fathom-Search-4B) |
 | Updated3 days ago | 327 | nvidia/OpenReasoning-Nemotron-1 | 2B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-1.5B) |
+| Updatedabout 24 hours ago | 322 | AlexWortega/SIQ-1-35BText | 35B | [Link](https://huggingface.co/AlexWortega/SIQ-1-35B) |
 | Updated3 days ago | 321 | Jinx-org/Jinx-gpt-oss-20bText | 21B | [Link](https://huggingface.co/Jinx-org/Jinx-gpt-oss-20b) |
 | Updated3 days ago | 311 | SupraLabs/Supra-1 | 51.8M | [Link](https://huggingface.co/SupraLabs/Supra-1.5-50M-Instruct-exp) |
 | Updated3 days ago | 309 | MultiverseComputingCAI/HyperNova-60BText | 60B | [Link](https://huggingface.co/MultiverseComputingCAI/HyperNova-60B) |
@@ -6884,6 +6886,7 @@ Updated on 2026-06-18
 | UpdatedJun 1 | 123 | keanteng/sesame-csm-eliseText-to-Speech | 2B | [Link](https://huggingface.co/keanteng/sesame-csm-elise) |
 | Updated4 days ago | 120 | mlx-community/fish-audio-s2-pro-8bitText-to-Speech | 1B | [Link](https://huggingface.co/mlx-community/fish-audio-s2-pro-8bit) |
 | Updated1 day ago | 115 | vibevoice/VibeVoice-1 | 3B | [Link](https://huggingface.co/vibevoice/VibeVoice-1.5B) |
+| Updatedabout 9 hours ago | 114 | OpenMOSS-Team/MOSS-TTS-Local-Transformer-v1 | 5B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Local-Transformer-v1.5) |
 | Updatedabout 16 hours ago | 113 | syvai/plapre-nanoText-to-Speech | 0.3B | [Link](https://huggingface.co/syvai/plapre-nano) |
 | Updatedabout 22 hours ago | 110 | neuphonic/neutts-nano-frenchText-to-Speech | 0.2B | [Link](https://huggingface.co/neuphonic/neutts-nano-french) |
 | Updatedabout 22 hours ago | 106 | neuphonic/neutts-nano-germanText-to-Speech | 0.2B | [Link](https://huggingface.co/neuphonic/neutts-nano-german) |
