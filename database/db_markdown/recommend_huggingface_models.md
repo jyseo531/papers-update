@@ -185,6 +185,7 @@ Updated on 2026-06-19
 | Updatedabout 10 hours ago | 9 | p-e-w/gemma-4-E2B-it-heretic-araAny-to-Any | 5B | [Link](https://huggingface.co/p-e-w/gemma-4-E2B-it-heretic-ara) |
 | Updatedabout 10 hours ago | 9.82k | nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16Any-to-Any | 33B | [Link](https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16) |
 | Updatedabout 1 hour ago | 9 | unsloth/gemma-4-12B-it-qat-GGUFAny-to-Any | 12B | [Link](https://huggingface.co/unsloth/gemma-4-12B-it-qat-GGUF) |
+| Updated7 days ago | 9.27k | llmfan46/gemma-4-12B-it-qat-q4_0-uncensored-heretic-GGUFAny-to-Any | 12B | [Link](https://huggingface.co/llmfan46/gemma-4-12B-it-qat-q4_0-uncensored-heretic-GGUF) |
 | UpdatedJul 9 | 8 | toandev/donglao-gemma-3-4b-it-viAny-to-Any | 4B | [Link](https://huggingface.co/toandev/donglao-gemma-3-4b-it-vi) |
 | Updated13 days ago | 8.66k | llmfan46/gemma-4-E4B-it-uncensored-heretic-GGUFAny-to-Any | 8B | [Link](https://huggingface.co/llmfan46/gemma-4-E4B-it-uncensored-heretic-GGUF) |
 | Updatedabout 1 hour ago | 8 | sensenova/SenseNova-U1-8B-MoT-InfographicAny-to-Any | 18B | [Link](https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-Infographic) |
@@ -3689,6 +3690,7 @@ Updated on 2026-06-19
 | 6 | Unknown | PaddlePaddle/PP-OCRv6_small_recImage-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv6_small_rec) |
 | 5 | Unknown | PaddlePaddle/PP-OCRv6_medium_recImage-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv6_medium_rec) |
 | 5 | Unknown | PaddlePaddle/PP-OCRv6_tiny_recImage-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv6_tiny_rec) |
+| 2 | Unknown | Keyven/g-ocrImage-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/Keyven/g-ocr) |
 
 ## Image-to-Video
 
@@ -5229,6 +5231,7 @@ Updated on 2026-06-19
 | Updatedabout 9 hours ago | 329 | Kwaipilot/KAT-DevText | 33B | [Link](https://huggingface.co/Kwaipilot/KAT-Dev) |
 | Updatedabout 4 hours ago | 329 | FractalAIResearch/Fathom-Search-4BText | 4B | [Link](https://huggingface.co/FractalAIResearch/Fathom-Search-4B) |
 | Updated3 days ago | 327 | nvidia/OpenReasoning-Nemotron-1 | 2B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-1.5B) |
+| Updatedabout 7 hours ago | 325 | poolside/Laguna-M | 226B | [Link](https://huggingface.co/poolside/Laguna-M.1) |
 | Updatedabout 24 hours ago | 322 | AlexWortega/SIQ-1-35BText | 35B | [Link](https://huggingface.co/AlexWortega/SIQ-1-35B) |
 | Updated3 days ago | 321 | Jinx-org/Jinx-gpt-oss-20bText | 21B | [Link](https://huggingface.co/Jinx-org/Jinx-gpt-oss-20b) |
 | Updated3 days ago | 311 | SupraLabs/Supra-1 | 51.8M | [Link](https://huggingface.co/SupraLabs/Supra-1.5-50M-Instruct-exp) |
@@ -6415,6 +6418,7 @@ Updated on 2026-06-19
 | Updated40 minutes ago | 13 | wikeeyang/Z-Image-Turbo-ArtText-to-Image | 6B | [Link](https://huggingface.co/wikeeyang/Z-Image-Turbo-Art) |
 | 67 | 13 | Vrizzo/indian-art-sd-modelText-to-Image | Updated4 days ago | [Link](https://huggingface.co/Vrizzo/indian-art-sd-model) |
 | Updatedabout 3 hours ago | 13 | unsloth/ERNIE-Image-Turbo-GGUFText-to-Image | 8B | [Link](https://huggingface.co/unsloth/ERNIE-Image-Turbo-GGUF) |
+| Updatedabout 14 hours ago | 13 | realrebelai/Boogu-Image-Base_GGUFsText-to-Image | 10B | [Link](https://huggingface.co/realrebelai/Boogu-Image-Base_GGUFs) |
 | 217 | 12 | city96/HiDream-I1-Dev-ggufText-to-Image | Updated1 day ago | [Link](https://huggingface.co/city96/HiDream-I1-Dev-gguf) |
 | Updatedabout 4 hours ago | 12 | stepfun-ai/NextStep-1-LargeText-to-Image | 15B | [Link](https://huggingface.co/stepfun-ai/NextStep-1-Large) |
 | 59 | 12 | bytedance-research/UMOText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/bytedance-research/UMO) |
@@ -6560,6 +6564,7 @@ Updated on 2026-06-19
 | 2.56k | 3.84k | WarriorMama777/OrangeMixsText-to-Image | UpdatedJan 7, 2024 | [Link](https://huggingface.co/WarriorMama777/OrangeMixs) |
 | Updatedabout 2 hours ago | 3.74k | calcuis/qwen-image-ggufText-to-Image | 20B | [Link](https://huggingface.co/calcuis/qwen-image-gguf) |
 | Updatedabout 9 hours ago | 3.35k | jeremyhola/LORAsText-to-Image | 4B | [Link](https://huggingface.co/jeremyhola/LORAs) |
+| Updated1 day ago | 3 | realrebelai/Boogu-Image-Turbo_GGUFsText-to-Image | 10B | [Link](https://huggingface.co/realrebelai/Boogu-Image-Turbo_GGUFs) |
 | 2 | 2.77k | CompVis/stable-diffusion-v-1-4-originalText-to-Image | UpdatedNov 9, 2022 | [Link](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original) |
 | 5.16k | 2.44k | hakurei/waifu-diffusionText-to-Image | UpdatedJul 5, 2023 | [Link](https://huggingface.co/hakurei/waifu-diffusion) |
 | Updated8 days ago | 2.03k | StableDiffusionVN/FluxText-to-Image | 5B | [Link](https://huggingface.co/StableDiffusionVN/Flux) |
