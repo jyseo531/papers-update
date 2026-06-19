@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-06-19
+Updated on 2026-06-20
 
 > Generated from the Hugging Face database.
 
@@ -2020,6 +2020,7 @@ Updated on 2026-06-19
 | Updated1 day ago | 252 | Qwen/Qwen3-VL-235B-A22B-ThinkingImage-Text-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Thinking) |
 | Updatedabout 2 hours ago | 252 | Qwen/Qwen3 | 403B | [Link](https://huggingface.co/Qwen/Qwen3.5-397B-A17B) |
 | Updated3 days ago | 251 | Zyphra/ZAYA1-VL-8BImage-Text-to-Text | 10B | [Link](https://huggingface.co/Zyphra/ZAYA1-VL-8B) |
+| Updated2 days ago | 245 | TeichAI/Qwen3 | 28B | [Link](https://huggingface.co/TeichAI/Qwen3.6-27B-Fable-5-Experimental) |
 | 353k | 236 | microsoft/Florence-2-baseImage-Text-to-Text | UpdatedNov 4, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-base) |
 | Updatedabout 2 hours ago | 232 | deepseek-ai/DeepSeek-OCR-2Image-Text-to-Text | 3B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-OCR-2) |
 | Updatedabout 14 hours ago | 228 | CohereLabs/command-a-vision-07-2025Image-Text-to-Text | 112B | [Link](https://huggingface.co/CohereLabs/command-a-vision-07-2025) |
@@ -3130,6 +3131,7 @@ Updated on 2026-06-19
 | UpdatedMay 22, 2025 | 208k | meta-llama/Llama-4-Scout-17B-16E-InstructImage-to-Text | 109B | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct) |
 | UpdatedOct 29, 2024 | 206 | calcuis/sd3 | 8B | [Link](https://huggingface.co/calcuis/sd3.5-large-turbo) |
 | UpdatedNov 7, 2025 | 200 | noctrex/Chandra-OCR-i1-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/noctrex/Chandra-OCR-i1-GGUF) |
+| UpdatedApr 17 | 185 | Darayut/khmer-text-recognitionImage-to-Text | 17.6M | [Link](https://huggingface.co/Darayut/khmer-text-recognition) |
 | UpdatedMar 5 | 180 | r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUF) |
 | Updated6 days ago | 177 | thesby/Qwen3-VL-8B-NSFW-Caption-V4 | 9B | [Link](https://huggingface.co/thesby/Qwen3-VL-8B-NSFW-Caption-V4.5) |
 | Updated4 days ago | 175 | EZCon/GLM-OCR-4bit-g32-mxfp4-mixed_4_8-mlxImage-to-Text | 0.6B | [Link](https://huggingface.co/EZCon/GLM-OCR-4bit-g32-mxfp4-mixed_4_8-mlx) |
@@ -3446,6 +3448,7 @@ Updated on 2026-06-19
 | 29 | 3 | numind/NuMarkdown-8B-Thinking-mlx-4bitsImage-to-Text | Updatedabout 21 hours ago | [Link](https://huggingface.co/numind/NuMarkdown-8B-Thinking-mlx-4bits) |
 | 7.33k | 3 | PaddlePaddle/PP-OCRv4_mobile_recImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv4_mobile_rec) |
 | 2.43k | 3 | mayocream/manga-ocrImage-to-Text | UpdatedNov 29, 2025 | [Link](https://huggingface.co/mayocream/manga-ocr) |
+| Updatedabout 12 hours ago | 3 | SupraLabs/SupraVL-Nano-900kImage-to-Text | 961k | [Link](https://huggingface.co/SupraLabs/SupraVL-Nano-900k) |
 | 51 | 2 | microsoft/git-base-msrvtt-qaImage-to-Text | UpdatedApr 4, 2024 | [Link](https://huggingface.co/microsoft/git-base-msrvtt-qa) |
 | 32 | 2 | baseplate/vit-gpt2-image-captioningImage-to-Text | UpdatedApr 5, 2023 | [Link](https://huggingface.co/baseplate/vit-gpt2-image-captioning) |
 | 38 | 2 | sbintuitions/sarashina2-vision-14bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-14b) |
@@ -3590,6 +3593,7 @@ Updated on 2026-06-19
 | 23 | 1 | Brian314/pix2text-mfr-quantizedImage-to-Text | UpdatedJun 18, 2024 | [Link](https://huggingface.co/Brian314/pix2text-mfr-quantized) |
 | 3.36k | 1 | PaddlePaddle/SLANeXt_wirelessImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/SLANeXt_wireless) |
 | 262 | 1 | docling-project/MarkushGrapher-2Image-to-Text | UpdatedMar 23 | [Link](https://huggingface.co/docling-project/MarkushGrapher-2) |
+| 45 | 1 | PaddlePaddle/PicoDet-S_layout_17clsImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PicoDet-S_layout_17cls) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -5421,6 +5425,7 @@ Updated on 2026-06-19
 | 224 | 63 | GSAI-ML/LLaDA-8B-InstructText | Updatedabout 23 hours ago | [Link](https://huggingface.co/GSAI-ML/LLaDA-8B-Instruct) |
 | 251 | 63 | ByteDance-Seed/Seed-Coder-8B-ReasoningText | Updatedabout 6 hours ago | [Link](https://huggingface.co/ByteDance-Seed/Seed-Coder-8B-Reasoning) |
 | Updated1 day ago | 62 | Tesslate/UIGEN-X-4B-0729Text | 4B | [Link](https://huggingface.co/Tesslate/UIGEN-X-4B-0729) |
+| Updatedabout 6 hours ago | 62 | yuxinlu1/gemma-4-12B-agentic-fable5-composer2 | 12B | [Link](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF) |
 | Updated1 day ago | 61 | KurmaAI/AQUA-7BText | 7B | [Link](https://huggingface.co/KurmaAI/AQUA-7B) |
 | Updatedabout 23 hours ago | 61 | vandijklab/C2S-Scale-Gemma-2-27BText | 28B | [Link](https://huggingface.co/vandijklab/C2S-Scale-Gemma-2-27B) |
 | Updated35 minutes ago | 61 | naver-hyperclovax/HyperCLOVAX-SEED-Omni-8BText | 11B | [Link](https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Omni-8B) |
