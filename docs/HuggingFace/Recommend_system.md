@@ -414,6 +414,7 @@ Updated on 2026-06-20
 | 3 | Unknown | fbjr/LTX-2 | Updatedabout 5 hours ago | [Link](https://huggingface.co/fbjr/LTX-2.3-22b-IC-LoRA-Audio-Only-Context) |
 | 11 | Unknown | lemonade-sdk/LMX-Omni-52B-HaloAny-to-Any | Updated9 days ago | [Link](https://huggingface.co/lemonade-sdk/LMX-Omni-52B-Halo) |
 | 7 | Unknown | catnip-ai-tech/MaineCoonAny-to-Any | Updatedabout 7 hours ago | [Link](https://huggingface.co/catnip-ai-tech/MaineCoon) |
+| 10 | Unknown | Tele-AI/TeleStyleV2Any-to-Any | Updated5 days ago | [Link](https://huggingface.co/Tele-AI/TeleStyleV2) |
 
 ## Audio Classification
 
@@ -2120,6 +2121,7 @@ Updated on 2026-06-20
 | Updated2 days ago | 52 | inference-net/ClipTagger-12bImage-Text-to-Text | 12B | [Link](https://huggingface.co/inference-net/ClipTagger-12b) |
 | Updated2 days ago | 52.6k | bartowski/google_gemma-4-26B-A4B-it-GGUFImage-Text-to-Text | 25B | [Link](https://huggingface.co/bartowski/google_gemma-4-26B-A4B-it-GGUF) |
 | 1.27k | 51 | AIDC-AI/Ovis2-8BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-8B) |
+| Updatedabout 16 hours ago | 51 | datalab-to/liftImage-Text-to-Text | 10B | [Link](https://huggingface.co/datalab-to/lift) |
 | Updatedabout 10 hours ago | 49 | nanonets/Nanonets-OCR2-3BImage-Text-to-Text | 4B | [Link](https://huggingface.co/nanonets/Nanonets-OCR2-3B) |
 | Updated31 minutes ago | 48 | unsloth/gemma-4-12b-it-GGUFImage-Text-to-Text | 12B | [Link](https://huggingface.co/unsloth/gemma-4-12b-it-GGUF) |
 | 848 | 47 | AIDC-AI/Ovis2-2BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-2B) |
@@ -3119,6 +3121,7 @@ Updated on 2026-06-20
 | Updatedabout 24 hours ago | 297 | mradermacher/PaddleOCR-VL-1 | 0.5B | [Link](https://huggingface.co/mradermacher/PaddleOCR-VL-1.6-GGUF) |
 | Updatedabout 1 month ago | 274 | ZihCiLin/trocr-traditional-chinese-baselineImage-to-Text | 0.3B | [Link](https://huggingface.co/ZihCiLin/trocr-traditional-chinese-baseline) |
 | UpdatedSep 16, 2025 | 245 | mradermacher/Qwen2-VL-2B-Abliterated-Caption-it-GGUFImage-to-Text | 2B | [Link](https://huggingface.co/mradermacher/Qwen2-VL-2B-Abliterated-Caption-it-GGUF) |
+| UpdatedJan 24 | 243 | noctrex/LightOnOCR-2-1B-bbox-GGUFImage-to-Text | 0.6B | [Link](https://huggingface.co/noctrex/LightOnOCR-2-1B-bbox-GGUF) |
 | UpdatedNov 15, 2024 | 242 | TIGER-Lab/Mantis-8B-Idefics2Image-to-Text | 8B | [Link](https://huggingface.co/TIGER-Lab/Mantis-8B-Idefics2) |
 | UpdatedJul 29, 2024 | 241 | paran3xus/typress_ocrImage-to-Text | 29.4M | [Link](https://huggingface.co/paran3xus/typress_ocr) |
 | UpdatedJul 31, 2025 | 236 | mradermacher/QwenStoryteller2-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/mradermacher/QwenStoryteller2-GGUF) |
@@ -5975,6 +5978,7 @@ Updated on 2026-06-20
 | Updatedabout 19 hours ago | 1 | silx-ai/Quasar-PreviewText | 17B | [Link](https://huggingface.co/silx-ai/Quasar-Preview) |
 | Updatedabout 12 hours ago | 1.78k | CohereLabs/North-Mini-Code-1 | 30B | [Link](https://huggingface.co/CohereLabs/North-Mini-Code-1.0) |
 | Updated2 days ago | 1.54k | bytkim/Qwen3 | 27B | [Link](https://huggingface.co/bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF) |
+| Updatedabout 19 hours ago | 1 | hotdogs/qwen3 | 39.8M | [Link](https://huggingface.co/hotdogs/qwen3.6-27b-fable5-lora) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -6524,6 +6528,7 @@ Updated on 2026-06-20
 | 71 | 6 | microsoft/Lens-BaseText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/microsoft/Lens-Base) |
 | 453 | 6 | Danrisi/UltraReal_FineTune_Anima_base1Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/Danrisi/UltraReal_FineTune_Anima_base1) |
 | 44 | 6 | multimodalart/tarot-ideogram-4Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/multimodalart/tarot-ideogram-4) |
+| 45 | 6 | MiniT2I/MiniT2IText-to-Image | Updated4 days ago | [Link](https://huggingface.co/MiniT2I/MiniT2I) |
 | 42 | 5 | Shakker-Labs/RepTextText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Shakker-Labs/RepText) |
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
@@ -7276,6 +7281,7 @@ Updated on 2026-06-20
 | 43 | Unknown | ZzWater/ViiTorVoice-NARText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/ZzWater/ViiTorVoice-NAR) |
 | 4 | Unknown | drbaph/ZONOS2-BF16Text-to-Speech | Updated2 days ago | [Link](https://huggingface.co/drbaph/ZONOS2-BF16) |
 | 4 | Unknown | owensong/Inflect-Nano-v1Text-to-Speech | Updatedabout 20 hours ago | [Link](https://huggingface.co/owensong/Inflect-Nano-v1) |
+| 4 | Unknown | drbaph/ZONOS2-FP8Text-to-Speech | Updated6 days ago | [Link](https://huggingface.co/drbaph/ZONOS2-FP8) |
 
 ## Text-to-Video
 
