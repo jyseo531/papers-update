@@ -3077,6 +3077,7 @@ Updated on 2026-06-20
 | 6 | Unknown | dx8152/Flux2-Klein-9B-MigrationImage-to-Image | Updatedabout 15 hours ago | [Link](https://huggingface.co/dx8152/Flux2-Klein-9B-Migration) |
 | 5 | Unknown | jdopensource/JoyAI-Image-Edit-ComfyUIImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/jdopensource/JoyAI-Image-Edit-ComfyUI) |
 | 5 | Unknown | LAXMAYDAY/Anima_Tile_and_Repair_ControlNet-LLLiteImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/LAXMAYDAY/Anima_Tile_and_Repair_ControlNet-LLLite) |
+| 7 | Unknown | paom/texture2albedo-v2Image-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/paom/texture2albedo-v2) |
 
 ## Image-to-Text
 
@@ -5735,6 +5736,7 @@ Updated on 2026-06-20
 | 32 | 20 | nvidia/gpt-oss-120b-Eagle3-throughputText | Updated4 days ago | [Link](https://huggingface.co/nvidia/gpt-oss-120b-Eagle3-throughput) |
 | Updated3 days ago | 20 | zed-industries/zeta-2Text | 8B | [Link](https://huggingface.co/zed-industries/zeta-2) |
 | Updatedabout 17 hours ago | 20 | sakamakismile/gemma-4-12B-coder-fable5-composer2 | 7B | [Link](https://huggingface.co/sakamakismile/gemma-4-12B-coder-fable5-composer2.5-MTP-NVFP4) |
+| Updated4 days ago | 20.8k | prithivMLmods/VibeThinker-3B-GGUFText | 3B | [Link](https://huggingface.co/prithivMLmods/VibeThinker-3B-GGUF) |
 | 14.1k | 19 | alamios/Mistral-Small-3 | Updated10 days ago | [Link](https://huggingface.co/alamios/Mistral-Small-3.1-DRAFT-0.5B) |
 | 358 | 19 | all-hands/openhands-lm-7b-v0 | Updated1 day ago | [Link](https://huggingface.co/all-hands/openhands-lm-7b-v0.1) |
 | 105 | 19 | nvidia/OpenCodeReasoning-Nemotron-32B-IOIText | Updated6 days ago | [Link](https://huggingface.co/nvidia/OpenCodeReasoning-Nemotron-32B-IOI) |
