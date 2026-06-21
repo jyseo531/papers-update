@@ -5172,6 +5172,7 @@ Updated on 2026-06-21
 | Updatedabout 2 hours ago | 722 | nvidia/NVIDIA-Nemotron-Nano-9B-v2Text | 9B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2) |
 | Updatedabout 15 hours ago | 711 | AEON-7/Gemma-4-12B-it-AEON-Abliterated-K4-BF16Text | 12B | [Link](https://huggingface.co/AEON-7/Gemma-4-12B-it-AEON-Abliterated-K4-BF16) |
 | Updatedabout 2 hours ago | 706 | HuggingFaceBio/Carbon-500MText | 0.5B | [Link](https://huggingface.co/HuggingFaceBio/Carbon-500M) |
+| Updated2 days ago | 688 | empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUFText | 9B | [Link](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) |
 |  | 682 | deepseek-ai/DeepSeek-V3-0324Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3-0324) |
 | Updated6 days ago | 679 | manjunathshiva/gpt-oss-20b-tq3Text | 22B | [Link](https://huggingface.co/manjunathshiva/gpt-oss-20b-tq3) |
 | Updatedabout 6 hours ago | 670 | nvidia/Orchestrator-8BText | 8B | [Link](https://huggingface.co/nvidia/Orchestrator-8B) |
@@ -5499,6 +5500,7 @@ Updated on 2026-06-21
 | 1.49k | 43 | OmniSVG/OmniSVGText | Updated1 day ago | [Link](https://huggingface.co/OmniSVG/OmniSVG) |
 | Updated23 minutes ago | 43 | Qwen/Qwen3-Next-80B-A3B-ThinkingText | 81B | [Link](https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Thinking) |
 | Updatedabout 10 hours ago | 43 | meituan-longcat/LongCat-Flash-LiteText | 100B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Lite) |
+| Updatedabout 13 hours ago | 43 | huihui-ai/Huihui-gemma-4-12B-coder-fable5-composer2 | 12B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-12B-coder-fable5-composer2.5-v1-abliterated) |
 | 3.37k | 42 | Qwen/QwQ-32B-AWQText | Updatedabout 3 hours ago | [Link](https://huggingface.co/Qwen/QwQ-32B-AWQ) |
 | Updated1 day ago | 42 | ByteDance-Seed/Stable-DiffCoder-8B-InstructText | 8B | [Link](https://huggingface.co/ByteDance-Seed/Stable-DiffCoder-8B-Instruct) |
 | 796 | 41 | inclusionAI/Ling-liteText | Updated1 day ago | [Link](https://huggingface.co/inclusionAI/Ling-lite) |
@@ -5828,6 +5830,7 @@ Updated on 2026-06-21
 | Updatedabout 1 hour ago | 10.3k | unsloth/gemma-3-270m-it-GGUFText | 0.3B | [Link](https://huggingface.co/unsloth/gemma-3-270m-it-GGUF) |
 | Updated1 day ago | 10 | FINAL-Bench/Darwin-35B-A3B-OpusText | 36B | [Link](https://huggingface.co/FINAL-Bench/Darwin-35B-A3B-Opus) |
 | Updatedabout 20 hours ago | 10 | lordx64/Qwable-v1Text | 36B | [Link](https://huggingface.co/lordx64/Qwable-v1) |
+| Updated6 days ago | 10.4k | lordx64/Qwable-v1-GGUFText | 35B | [Link](https://huggingface.co/lordx64/Qwable-v1-GGUF) |
 | Updatedabout 4 hours ago | 9 | meituan-longcat/LongCat-Flash-ChatText | 562B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Chat) |
 | Updatedabout 7 hours ago | 9 | facebook/MobileLLM-R1-950MText | 0.9B | [Link](https://huggingface.co/facebook/MobileLLM-R1-950M) |
 | Updatedabout 5 hours ago | 9 | Zyphra/ZAYA1-baseText | 9B | [Link](https://huggingface.co/Zyphra/ZAYA1-base) |
