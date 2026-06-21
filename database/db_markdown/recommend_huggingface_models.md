@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-06-20
+Updated on 2026-06-21
 
 > Generated from the Hugging Face database.
 
@@ -95,6 +95,7 @@ Updated on 2026-06-20
 | Updatedabout 13 hours ago | 68 | google/gemma-4-12B-it-qat-q4_0-unquantizedAny-to-Any | 12B | [Link](https://huggingface.co/google/gemma-4-12B-it-qat-q4_0-unquantized) |
 | Updated6 days ago | 65 | alphakek/gemma-4-E4B-it-heretic-mythos-v1Any-to-Any | 8B | [Link](https://huggingface.co/alphakek/gemma-4-E4B-it-heretic-mythos-v1) |
 | UpdatedAug 20 | 64 | Frane92O/Qwen2 | 8B | [Link](https://huggingface.co/Frane92O/Qwen2.5-Omni-7B-Q4_0-GGUF) |
+| Updated4 days ago | 64 | aifeifei798/gemma-4-E4B-Queen-it-qat-q4_0-unquantizedAny-to-Any | 8B | [Link](https://huggingface.co/aifeifei798/gemma-4-E4B-Queen-it-qat-q4_0-unquantized) |
 | Updatedabout 1 hour ago | 63 | wikeeyang/Emu35-NF4Any-to-Any | 35B | [Link](https://huggingface.co/wikeeyang/Emu35-NF4) |
 | Updated24 days ago | 63 | sovthpaw/Omni-Senter-3BAny-to-Any | 29.9M | [Link](https://huggingface.co/sovthpaw/Omni-Senter-3B) |
 | Updatedabout 7 hours ago | 62.1k | nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-FP8Any-to-Any | 33B | [Link](https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-FP8) |
@@ -5981,6 +5982,7 @@ Updated on 2026-06-20
 | Updatedabout 12 hours ago | 1.78k | CohereLabs/North-Mini-Code-1 | 30B | [Link](https://huggingface.co/CohereLabs/North-Mini-Code-1.0) |
 | Updated2 days ago | 1.54k | bytkim/Qwen3 | 27B | [Link](https://huggingface.co/bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF) |
 | Updatedabout 19 hours ago | 1 | hotdogs/qwen3 | 39.8M | [Link](https://huggingface.co/hotdogs/qwen3.6-27b-fable5-lora) |
+| Updated1 day ago | 1.93k | squ11z1/Mythos-nanoText | 3B | [Link](https://huggingface.co/squ11z1/Mythos-nano) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
