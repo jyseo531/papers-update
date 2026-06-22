@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-06-22
+Updated on 2026-06-23
 
 > Generated from the Hugging Face database.
 
@@ -2164,6 +2164,7 @@ Updated on 2026-06-22
 | Updated5 days ago | 35.7k | unsloth/Qwen3-VL-8B-Instruct-GGUFImage-Text-to-Text | 8B | [Link](https://huggingface.co/unsloth/Qwen3-VL-8B-Instruct-GGUF) |
 | Updatedabout 3 hours ago | 35 | PaddlePaddle/PaddleOCR-VL-1 | 1.0B | [Link](https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.5) |
 | Updatedabout 14 hours ago | 35.8k | mlx-community/gemma-4-12B-it-8bitImage-Text-to-Text | 3B | [Link](https://huggingface.co/mlx-community/gemma-4-12B-it-8bit) |
+| Updated2 days ago | 35 | DJLougen/Qwable-5-27B-CoderImage-Text-to-Text | 28B | [Link](https://huggingface.co/DJLougen/Qwable-5-27B-Coder) |
 | Updatedabout 17 hours ago | 34 | Jackrong/Qwopus3 | 9B | [Link](https://huggingface.co/Jackrong/Qwopus3.5-9B-v3-GGUF) |
 | Updated4 days ago | 33 | prithivMLmods/Qwen2 | 8B | [Link](https://huggingface.co/prithivMLmods/Qwen2.5-VL-7B-Abliterated-Caption-it) |
 | Updated3 days ago | 32.8k | cyankiwi/Qwen3 | 25B | [Link](https://huggingface.co/cyankiwi/Qwen3.5-122B-A10B-AWQ-4bit) |
@@ -5194,6 +5195,7 @@ Updated on 2026-06-22
 | Updated1 day ago | 608 | ArliAI/GLM-4 | 110B | [Link](https://huggingface.co/ArliAI/GLM-4.5-Air-Derestricted) |
 | Updated2 days ago | 605 | nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUFText | 4B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUF) |
 | Updated6 days ago | 596 | tencent/Hy3-preview-BaseText | 299B | [Link](https://huggingface.co/tencent/Hy3-preview-Base) |
+| Updatedabout 1 hour ago | 596 | Multilingual-Multimodal-NLP/LoopCoder-V2Text | 8B | [Link](https://huggingface.co/Multilingual-Multimodal-NLP/LoopCoder-V2) |
 | Updated1 day ago | 594 | bigatuna/Qwen3 | 9B | [Link](https://huggingface.co/bigatuna/Qwen3.5-9b-Sushi-Coder-RL-GGUF) |
 | Updatedabout 8 hours ago | 593 | AEON-7/Qwen3 | 27B | [Link](https://huggingface.co/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored) |
 | Updated1 day ago | 580 | allenai/Olmo-3 | 32B | [Link](https://huggingface.co/allenai/Olmo-3.1-32B-Think) |
@@ -6992,6 +6994,7 @@ Updated on 2026-06-22
 | 18.9k | 19 | myshell-ai/MeloTTS-SpanishText-to-Speech | UpdatedMar 1, 2024 | [Link](https://huggingface.co/myshell-ai/MeloTTS-Spanish) |
 | 26 | 19 | fishaudio/openaudio-s1-miniText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/fishaudio/openaudio-s1-mini) |
 | Updated1 day ago | 19 | Trendyol/Trendyol-TTSText-to-Speech | 2B | [Link](https://huggingface.co/Trendyol/Trendyol-TTS) |
+| UpdatedApr 29 | 19 | AutoArk-AI/GPA-v1 | 1B | [Link](https://huggingface.co/AutoArk-AI/GPA-v1.5) |
 | 2.35k | 18 | 2121-8/japanese-parler-tts-miniText-to-Speech | UpdatedDec 5, 2024 | [Link](https://huggingface.co/2121-8/japanese-parler-tts-mini) |
 | Updated2 days ago | 18 | NandemoGHS/Anime-Llasa-3BText-to-Speech | 3B | [Link](https://huggingface.co/NandemoGHS/Anime-Llasa-3B) |
 | Updatedabout 2 hours ago | 17 | microsoft/VibeVoice-Realtime-0 | 1B | [Link](https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B) |
