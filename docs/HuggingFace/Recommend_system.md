@@ -2170,6 +2170,7 @@ Updated on 2026-06-23
 | Updated3 days ago | 32.8k | cyankiwi/Qwen3 | 25B | [Link](https://huggingface.co/cyankiwi/Qwen3.5-122B-A10B-AWQ-4bit) |
 | 4.01k | 31 | google/paligemma2-3b-mix-448Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-3b-mix-448) |
 | Updatedabout 11 hours ago | 31.6k | YannQi/R-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/YannQi/R-4B) |
+| Updatedabout 14 hours ago | 31 | HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-BalancedImage-Text-to-Text | 12B | [Link](https://huggingface.co/HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced) |
 | UpdatedSep 21, 2024 | 30k | google/paligemma-3b-pt-224Image-Text-to-Text | 3B | [Link](https://huggingface.co/google/paligemma-3b-pt-224) |
 | Updatedabout 7 hours ago | 30 | Qwen/Qwen3-VL-32B-InstructImage-Text-to-Text | 33B | [Link](https://huggingface.co/Qwen/Qwen3-VL-32B-Instruct) |
 | Updatedabout 7 hours ago | 30 | tencent/Youtu-VL-4B-InstructImage-Text-to-Text | 5B | [Link](https://huggingface.co/tencent/Youtu-VL-4B-Instruct) |
@@ -6845,6 +6846,7 @@ Updated on 2026-06-23
 | 7 | Unknown | Danrisi/UltraReal_FineTune_Anima_base1_v3Text-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/Danrisi/UltraReal_FineTune_Anima_base1_v3) |
 | 10 | Unknown | ostris/ideogram_4_unconditional_loraText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/ostris/ideogram_4_unconditional_lora) |
 | 45 | Unknown | ostris/ideogram_4_turbotime_loraText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/ostris/ideogram_4_turbotime_lora) |
+| 8 | Unknown | AlperKTS/Krea2_FP8Text-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/AlperKTS/Krea2_FP8) |
 
 ## Text-to-Speech
 
@@ -7083,6 +7085,7 @@ Updated on 2026-06-23
 | Updatedabout 14 hours ago | 5 | aguken-ai/Qwen-3-TTS-12Hz-0 | 0.9B | [Link](https://huggingface.co/aguken-ai/Qwen-3-TTS-12Hz-0.6B-Base-hi-LoRA-Finetuned-BNB-NF4) |
 | Updated1 day ago | 5 | MisoLabs/MisoTTSText-to-Speech | 8B | [Link](https://huggingface.co/MisoLabs/MisoTTS) |
 | 949 | 5 | contextboxai/ViZipvoiceText-to-Speech | Updatedabout 9 hours ago | [Link](https://huggingface.co/contextboxai/ViZipvoice) |
+| 598 | 5 | contextboxai/Kokoro-VietnameseText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/contextboxai/Kokoro-Vietnamese) |
 | 5 | 4 | lunahr/csm-1b-safetensors-fp16Text-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-fp16) |
 | 2 | 4 | VAGOsolutions/SauerkrautTTS-Preview-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/VAGOsolutions/SauerkrautTTS-Preview-0.1) |
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
