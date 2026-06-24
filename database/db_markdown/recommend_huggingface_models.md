@@ -2802,6 +2802,7 @@ Updated on 2026-06-24
 |  | 4 | prithivMLmods/QIE-2511-3D-Paper-Cut-IllustrationImage-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/prithivMLmods/QIE-2511-3D-Paper-Cut-Illustration) |
 |  | 4 | Leon1000/Flux-2-Multi-Angles-LoRA-v2Image-to-Image | Updated6 days ago | [Link](https://huggingface.co/Leon1000/Flux-2-Multi-Angles-LoRA-v2) |
 | 249 | 4 | thedeoxen/refcontrol-FLUX | Updated5 days ago | [Link](https://huggingface.co/thedeoxen/refcontrol-FLUX.2-klein-9B-reference-depth-lora) |
+| 44 | 4 | jdopensource/JoyAI-Image-Edit-Plus-DiffusersImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/jdopensource/JoyAI-Image-Edit-Plus-Diffusers) |
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
@@ -3144,6 +3145,7 @@ Updated on 2026-06-24
 | UpdatedMay 22, 2025 | 208k | meta-llama/Llama-4-Scout-17B-16E-InstructImage-to-Text | 109B | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct) |
 | UpdatedOct 29, 2024 | 206 | calcuis/sd3 | 8B | [Link](https://huggingface.co/calcuis/sd3.5-large-turbo) |
 | UpdatedNov 7, 2025 | 200 | noctrex/Chandra-OCR-i1-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/noctrex/Chandra-OCR-i1-GGUF) |
+| UpdatedOct 7, 2025 | 186 | eshangj/TrOCR-Sinhala-finetunedImage-to-Text | 0.3B | [Link](https://huggingface.co/eshangj/TrOCR-Sinhala-finetuned) |
 | UpdatedApr 17 | 185 | Darayut/khmer-text-recognitionImage-to-Text | 17.6M | [Link](https://huggingface.co/Darayut/khmer-text-recognition) |
 | UpdatedMar 5 | 180 | r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUF) |
 | Updated6 days ago | 177 | thesby/Qwen3-VL-8B-NSFW-Caption-V4 | 9B | [Link](https://huggingface.co/thesby/Qwen3-VL-8B-NSFW-Caption-V4.5) |
@@ -3462,6 +3464,7 @@ Updated on 2026-06-24
 | 7.33k | 3 | PaddlePaddle/PP-OCRv4_mobile_recImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv4_mobile_rec) |
 | 2.43k | 3 | mayocream/manga-ocrImage-to-Text | UpdatedNov 29, 2025 | [Link](https://huggingface.co/mayocream/manga-ocr) |
 | Updatedabout 12 hours ago | 3 | SupraLabs/SupraVL-Nano-900kImage-to-Text | 961k | [Link](https://huggingface.co/SupraLabs/SupraVL-Nano-900k) |
+| Updatedabout 9 hours ago | 3 | LoJexLLM/Unlimited-OCR-MLXImage-to-Text | 3B | [Link](https://huggingface.co/LoJexLLM/Unlimited-OCR-MLX) |
 | 51 | 2 | microsoft/git-base-msrvtt-qaImage-to-Text | UpdatedApr 4, 2024 | [Link](https://huggingface.co/microsoft/git-base-msrvtt-qa) |
 | 32 | 2 | baseplate/vit-gpt2-image-captioningImage-to-Text | UpdatedApr 5, 2023 | [Link](https://huggingface.co/baseplate/vit-gpt2-image-captioning) |
 | 38 | 2 | sbintuitions/sarashina2-vision-14bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-14b) |
@@ -5287,6 +5290,7 @@ Updated on 2026-06-24
 | Updatedabout 10 hours ago | 232 | inclusionAI/Ling-mini-2 | 16B | [Link](https://huggingface.co/inclusionAI/Ling-mini-2.0) |
 | Updated1 day ago | 231 | Abiray/LTX2 | 21B | [Link](https://huggingface.co/Abiray/LTX2.3-10Eros-GGUF) |
 | Updatedabout 8 hours ago | 229 | nex-agi/Nex-N2-ProText | 397B | [Link](https://huggingface.co/nex-agi/Nex-N2-Pro) |
+| Updatedabout 13 hours ago | 223 | Qwen/Qwen-AgentWorld-35B-A3BText | 35B | [Link](https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B) |
 | UpdatedSep 8, 2024 | 222k | NousResearch/Hermes-3-Llama-3 | 8B | [Link](https://huggingface.co/NousResearch/Hermes-3-Llama-3.1-8B) |
 | Updated2 days ago | 220 | utter-project/EuroLLM-22B-Instruct-2512Text | 23B | [Link](https://huggingface.co/utter-project/EuroLLM-22B-Instruct-2512) |
 | Updatedabout 18 hours ago | 217 | google/gemma-3-270mText | 0.3B | [Link](https://huggingface.co/google/gemma-3-270m) |
@@ -6376,6 +6380,7 @@ Updated on 2026-06-24
 | Updatedabout 17 hours ago | 116 | wikeeyang/Real-Qwen-Image-V2Text-to-Image | 20B | [Link](https://huggingface.co/wikeeyang/Real-Qwen-Image-V2) |
 | 205 | 116 | baidu/ERNIE-ImageText-to-Image | Updated39 minutes ago | [Link](https://huggingface.co/baidu/ERNIE-Image) |
 | 31.2k | 114 | nunchaku-ai/nunchaku-qwen-image-editText-to-Image | UpdatedNov 16, 2025 | [Link](https://huggingface.co/nunchaku-ai/nunchaku-qwen-image-edit) |
+| Updatedabout 20 hours ago | 112 | vantagewithai/Krea-2-Turbo-GGUFText-to-Image | 13B | [Link](https://huggingface.co/vantagewithai/Krea-2-Turbo-GGUF) |
 | 56.2k | 98 | Lykon/dreamshaper-8Text-to-Image | UpdatedDec 7, 2023 | [Link](https://huggingface.co/Lykon/dreamshaper-8) |
 | 117 | 82 | baidu/ERNIE-Image-TurboText-to-Image | Updated39 minutes ago | [Link](https://huggingface.co/baidu/ERNIE-Image-Turbo) |
 | 3.01k | 81 | RunDiffusion/Juggernaut-XI-v11Text-to-Image | UpdatedAug 29, 2024 | [Link](https://huggingface.co/RunDiffusion/Juggernaut-XI-v11) |
@@ -6525,6 +6530,7 @@ Updated on 2026-06-24
 | 123 | 7 | Disty0/RaiFlow-v0_01-256px-rough-pre-trainText-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/Disty0/RaiFlow-v0_01-256px-rough-pre-train) |
 | 84 | 7 | krea/Krea-2-TurboText-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/krea/Krea-2-Turbo) |
 | 194 | 7 | krea/Krea-2-RawText-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/krea/Krea-2-Raw) |
+| 80 | 7 | krea/Krea-2-LoRA-darkbrushText-to-Image | Updated1 day ago | [Link](https://huggingface.co/krea/Krea-2-LoRA-darkbrush) |
 | 1.07k | 6 | DFloat11/FLUX | Updated1 day ago | [Link](https://huggingface.co/DFloat11/FLUX.1-dev-DF11) |
 | 836 | 6 | Minthy/RouWei-0 | Updated3 days ago | [Link](https://huggingface.co/Minthy/RouWei-0.8) |
 | 169 | 6 | PosterCraft/PosterCraft-v1_RLText-to-Image | Updated2 days ago | [Link](https://huggingface.co/PosterCraft/PosterCraft-v1_RL) |
