@@ -2085,6 +2085,7 @@ Updated on 2026-06-24
 | Updated2 days ago | 87 | INSAIT-Institute/MamayLM-Gemma-3-4B-IT-v1 | 4B | [Link](https://huggingface.co/INSAIT-Institute/MamayLM-Gemma-3-4B-IT-v1.0) |
 | Updated2 days ago | 85 | Alibaba-DAMO-Academy/RynnBrain-2BImage-Text-to-Text | 2B | [Link](https://huggingface.co/Alibaba-DAMO-Academy/RynnBrain-2B) |
 | Updatedabout 14 hours ago | 85 | kai-os/Carnice-V2-27bImage-Text-to-Text | 27B | [Link](https://huggingface.co/kai-os/Carnice-V2-27b) |
+| Updated7 days ago | 83 | Gryphe/Qwen3 | 35B | [Link](https://huggingface.co/Gryphe/Qwen3.6-35B-A3B-StyleTune) |
 | Updatedabout 8 hours ago | 82 | KORMo-VL/KORMo-VLImage-Text-to-Text | 11B | [Link](https://huggingface.co/KORMo-VL/KORMo-VL) |
 | Updated20 days ago | 81.8k | zai-org/GLM-4 | 10B | [Link](https://huggingface.co/zai-org/GLM-4.1V-9B-Thinking) |
 | 10.9k | 80 | ibm-granite/granite-vision-3 | Updatedabout 7 hours ago | [Link](https://huggingface.co/ibm-granite/granite-vision-3.1-2b-preview) |
@@ -3085,6 +3086,7 @@ Updated on 2026-06-24
 | 5 | Unknown | LAXMAYDAY/Anima_Tile_and_Repair_ControlNet-LLLiteImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/LAXMAYDAY/Anima_Tile_and_Repair_ControlNet-LLLite) |
 | 7 | Unknown | paom/texture2albedo-v2Image-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/paom/texture2albedo-v2) |
 | 4 | Unknown | tpys/fuxi-2 | Updated5 days ago | [Link](https://huggingface.co/tpys/fuxi-2.1) |
+| 5 | Unknown | simonw/Moebius-ONNXImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/simonw/Moebius-ONNX) |
 
 ## Image-to-Text
 
@@ -6852,6 +6854,8 @@ Updated on 2026-06-24
 | 10 | Unknown | ostris/ideogram_4_unconditional_loraText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/ostris/ideogram_4_unconditional_lora) |
 | 45 | Unknown | ostris/ideogram_4_turbotime_loraText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/ostris/ideogram_4_turbotime_lora) |
 | 8 | Unknown | AlperKTS/Krea2_FP8Text-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/AlperKTS/Krea2_FP8) |
+| 13 | Unknown | krea/Krea-2-LoRA-retroanimeText-to-Image | Updatedabout 18 hours ago | [Link](https://huggingface.co/krea/Krea-2-LoRA-retroanime) |
+| 8 | Unknown | lilcheaty/Krea2-INT8-ConvRotText-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/lilcheaty/Krea2-INT8-ConvRot) |
 
 ## Text-to-Speech
 
@@ -6891,6 +6895,7 @@ Updated on 2026-06-24
 | Updatedabout 19 hours ago | 330 | kenpath/svara-tts-v1Text-to-Speech | 3B | [Link](https://huggingface.co/kenpath/svara-tts-v1) |
 | UpdatedMay 25, 2024 | 323 | utrobinmv/tts_ru_free_hf_vits_high_multispeakerText-to-Speech | 0.0B | [Link](https://huggingface.co/utrobinmv/tts_ru_free_hf_vits_high_multispeaker) |
 | Updated13 days ago | 308 | ModelsLab/omnivoice-singingText-to-Speech | 0.6B | [Link](https://huggingface.co/ModelsLab/omnivoice-singing) |
+| Updated4 days ago | 300 | remixerdec/Inflect-Nano-v1-GGUFText-to-Speech | 3.47M | [Link](https://huggingface.co/remixerdec/Inflect-Nano-v1-GGUF) |
 | Updated3 days ago | 279 | sheliak/VibeVoice-Large_MirrorText-to-Speech | 9B | [Link](https://huggingface.co/sheliak/VibeVoice-Large_Mirror) |
 | Updated7 days ago | 278 | aoi-ot/VibeVoice-1 | 3B | [Link](https://huggingface.co/aoi-ot/VibeVoice-1.5B) |
 | 171 | 276 | amphion/MaskGCTText-to-Speech | UpdatedDec 22, 2024 | [Link](https://huggingface.co/amphion/MaskGCT) |
@@ -6916,6 +6921,7 @@ Updated on 2026-06-24
 | 86.4k | 142 | Qwen/Qwen3-TTS-12Hz-0 | Updatedabout 5 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-0.6B-Base) |
 | 1.22k | 141 | stepfun-ai/Step-Audio-TTS-3BText-to-Speech | Updated8 days ago | [Link](https://huggingface.co/stepfun-ai/Step-Audio-TTS-3B) |
 | UpdatedSep 1, 2023 | 141 | facebook/mms-tts-tgkText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-tgk) |
+| Updated4 days ago | 139 | mohammedaly22/VoiceTut-TTSText-to-Speech | 0.6B | [Link](https://huggingface.co/mohammedaly22/VoiceTut-TTS) |
 | 18.2k | 136 | parler-tts/parler-tts-mini-v1Text-to-Speech | UpdatedNov 25, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-mini-v1) |
 | Updatedabout 14 hours ago | 131 | nineninesix/kani-tts-400m-enText-to-Speech | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-400m-en) |
 | 19.6k | 127 | onnx-community/Kokoro-82M-ONNXText-to-Speech | Updated17 days ago | [Link](https://huggingface.co/onnx-community/Kokoro-82M-ONNX) |
