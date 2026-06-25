@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-06-24
+Updated on 2026-06-25
 
 > Generated from the Hugging Face database.
 
@@ -5313,6 +5313,7 @@ Updated on 2026-06-24
 | Updated4 days ago | 177 | BennyDaBall/Z-Image-Engineer-V6Text | 4B | [Link](https://huggingface.co/BennyDaBall/Z-Image-Engineer-V6) |
 | Updated1 day ago | 175 | HuggingFaceTB/nanowhale-100mText | 0.1B | [Link](https://huggingface.co/HuggingFaceTB/nanowhale-100m) |
 | Updatedabout 1 hour ago | 175 | OBLITERATUS/Gemma-4-12B-OBLITERATEDText | 12B | [Link](https://huggingface.co/OBLITERATUS/Gemma-4-12B-OBLITERATED) |
+| Updated1 day ago | 174 | Chunjiang-Intelligence/DeepSeek-v4-FableText | 149B | [Link](https://huggingface.co/Chunjiang-Intelligence/DeepSeek-v4-Fable) |
 | Updated4 days ago | 173 | deepcogito/cogito-v2-preview-deepseek-671B-MoEText | 671B | [Link](https://huggingface.co/deepcogito/cogito-v2-preview-deepseek-671B-MoE) |
 | Updated4 days ago | 170 | Qwen/WebWorld-14BText | 15B | [Link](https://huggingface.co/Qwen/WebWorld-14B) |
 | Updated5 days ago | 170 | allenai/Emo_1b14b_1TText | 14B | [Link](https://huggingface.co/allenai/Emo_1b14b_1T) |
@@ -5682,6 +5683,7 @@ Updated on 2026-06-24
 | 89 | 25 | silx-ai/Quasar-10BText | Updated11 days ago | [Link](https://huggingface.co/silx-ai/Quasar-10B) |
 | Updatedabout 15 hours ago | 25 | Qwen/WebWorld-32BText | 677k | [Link](https://huggingface.co/Qwen/WebWorld-32B) |
 | Updatedabout 21 hours ago | 25 | yuxinlu1/gemma-4-12B-coder-fable5-composer2 | 12B | [Link](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) |
+| Updated6 days ago | 25.3k | empero-ai/Qwable-9B-Claude-Fable-5Text | 9B | [Link](https://huggingface.co/empero-ai/Qwable-9B-Claude-Fable-5) |
 | 8.8k | 24 | unsloth/QwQ-32B-GGUFText | Updatedabout 1 hour ago | [Link](https://huggingface.co/unsloth/QwQ-32B-GGUF) |
 | 90.1k | 24 | allenai/OLMo-2-0325-32BText | Updated3 days ago | [Link](https://huggingface.co/allenai/OLMo-2-0325-32B) |
 | 722 | 24 | qihoo360/Light-R1-14B-DSText | Updatedabout 9 hours ago | [Link](https://huggingface.co/qihoo360/Light-R1-14B-DS) |
@@ -6507,6 +6509,7 @@ Updated on 2026-06-24
 | 35 | 8 | OPPOer/Qwen-Image-PruningText-to-Image | Updated8 days ago | [Link](https://huggingface.co/OPPOer/Qwen-Image-Pruning) |
 | 10 | 8 | lokiz666/Realgen-detection-modelsText-to-Image | Updated4 days ago | [Link](https://huggingface.co/lokiz666/Realgen-detection-models) |
 | 45 | 8 | SearchingMan/Z-Image-Turbo-student-adapterText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/SearchingMan/Z-Image-Turbo-student-adapter) |
+| Updatedabout 16 hours ago | 8 | Abiray/Krea-2-Turbo-GGUFText-to-Image | 13B | [Link](https://huggingface.co/Abiray/Krea-2-Turbo-GGUF) |
 | 1.69k | 7 | silveroxides/Chroma-GGUFText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/silveroxides/Chroma-GGUF) |
 | 58 | 7 | Freepik/F-Lite-TextureText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Freepik/F-Lite-Texture) |
 | 41 | 7 | renderartist/simplevectorhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/simplevectorhidream) |
@@ -6862,6 +6865,9 @@ Updated on 2026-06-24
 | 8 | Unknown | AlperKTS/Krea2_FP8Text-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/AlperKTS/Krea2_FP8) |
 | 13 | Unknown | krea/Krea-2-LoRA-retroanimeText-to-Image | Updatedabout 18 hours ago | [Link](https://huggingface.co/krea/Krea-2-LoRA-retroanime) |
 | 8 | Unknown | lilcheaty/Krea2-INT8-ConvRotText-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/lilcheaty/Krea2-INT8-ConvRot) |
+| 21 |  | krea/Krea-2-LoRA-sunsetblurText-to-Image | Updated1 day ago | [Link](https://huggingface.co/krea/Krea-2-LoRA-sunsetblur) |
+| 38 |  | krea/Krea-2-LoRA-neondripText-to-Image | Updated1 day ago | [Link](https://huggingface.co/krea/Krea-2-LoRA-neondrip) |
+| 7 | Unknown | SeFi-Image/SeFi-Image-5B-turboText-to-Image | Updated2 days ago | [Link](https://huggingface.co/SeFi-Image/SeFi-Image-5B-turbo) |
 
 ## Text-to-Speech
 
@@ -6948,6 +6954,7 @@ Updated on 2026-06-24
 | 1.44k | 90 | kyutai/tts-1 | Updatedabout 14 hours ago | [Link](https://huggingface.co/kyutai/tts-1.6b-en_fr) |
 | UpdatedApr 18 | 90 | lex-au/Orpheus-3b-French-FT-Q8_0 | 3B | [Link](https://huggingface.co/lex-au/Orpheus-3b-French-FT-Q8_0.gguf) |
 | 3.52k | 87 | HKUSTAudio/Llasa-1BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-1B) |
+| Updatedabout 8 hours ago | 86.1k | bosonai/higgs-tts-v3-4bText-to-Speech | 5B | [Link](https://huggingface.co/bosonai/higgs-tts-v3-4b) |
 | 24.4k | 83 | myshell-ai/MeloTTS-ChineseText-to-Speech | UpdatedMar 1, 2024 | [Link](https://huggingface.co/myshell-ai/MeloTTS-Chinese) |
 | Updated4 days ago | 83 | wcy1122/MGM-Omni-TTS-4BText-to-Speech | 5B | [Link](https://huggingface.co/wcy1122/MGM-Omni-TTS-4B) |
 | UpdatedMar 14 | 79 | saheedniyi/YarnGPT2bText-to-Speech | 0.4B | [Link](https://huggingface.co/saheedniyi/YarnGPT2b) |
@@ -7351,8 +7358,10 @@ Updated on 2026-06-24
 | 9 | 71 | LanguageBind/Open-Sora-Plan-v1 | UpdatedDec 5, 2024 | [Link](https://huggingface.co/LanguageBind/Open-Sora-Plan-v1.3.0) |
 | 1.6k | 71 | OmniAvatar/OmniAvatar-14BText-to-Video | Updatedabout 11 hours ago | [Link](https://huggingface.co/OmniAvatar/OmniAvatar-14B) |
 | 15.2k | 65 | Skywork/SkyReels-V1-Hunyuan-T2VText-to-Video | Updatedabout 21 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-T2V) |
+| UpdatedAug 21, 2025 | 60 | ussoewwin/Wan2 | 17B | [Link](https://huggingface.co/ussoewwin/Wan2.2_T2V_A14B_VACE-test_fp16_GGUF) |
 | 136 | 58 | alibaba-pai/CogVideoX-Fun-V1 | UpdatedDec 11, 2025 | [Link](https://huggingface.co/alibaba-pai/CogVideoX-Fun-V1.1-Reward-LoRAs) |
 | 159 | 57 | baidu/NAVAText-to-Video | Updatedabout 9 hours ago | [Link](https://huggingface.co/baidu/NAVA) |
+| Updated10 days ago | 56 | mlx-community/Bernini-R-1 | 1B | [Link](https://huggingface.co/mlx-community/Bernini-R-1.3B-bf16) |
 | UpdatedApr 16, 2024 | 55 | nagayama0706/video_generation_modelText-to-Video | 7B | [Link](https://huggingface.co/nagayama0706/video_generation_model) |
 | Updatedabout 12 hours ago | 50 | Nichonauta/Self-Forcing2 | 1B | [Link](https://huggingface.co/Nichonauta/Self-Forcing2.1-T2V-1.3B-GGUF) |
 | 12.7k | 48 | calcuis/hunyuan-ggufText-to-Video | UpdatedDec 21, 2024 | [Link](https://huggingface.co/calcuis/hunyuan-gguf) |
