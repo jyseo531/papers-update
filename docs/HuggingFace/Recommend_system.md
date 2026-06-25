@@ -6868,6 +6868,7 @@ Updated on 2026-06-25
 | 21 |  | krea/Krea-2-LoRA-sunsetblurText-to-Image | Updated1 day ago | [Link](https://huggingface.co/krea/Krea-2-LoRA-sunsetblur) |
 | 38 |  | krea/Krea-2-LoRA-neondripText-to-Image | Updated1 day ago | [Link](https://huggingface.co/krea/Krea-2-LoRA-neondrip) |
 | 7 | Unknown | SeFi-Image/SeFi-Image-5B-turboText-to-Image | Updated2 days ago | [Link](https://huggingface.co/SeFi-Image/SeFi-Image-5B-turbo) |
+| 8 | Unknown | Abiray/Krea-2-Turbo-FP8-NVFP4Text-to-Image | Updated1 day ago | [Link](https://huggingface.co/Abiray/Krea-2-Turbo-FP8-NVFP4) |
 
 ## Text-to-Speech
 
@@ -7012,6 +7013,7 @@ Updated on 2026-06-25
 | 48 | 21 | senstella/csm-expressiva-1bText-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/senstella/csm-expressiva-1b) |
 | Updatedabout 8 hours ago | 21 | ekwek/Soprano-1 | 79.7M | [Link](https://huggingface.co/ekwek/Soprano-1.1-80M) |
 | 2 | 21 | Zyphra/ZONOS2Text-to-Speech | Updatedabout 3 hours ago | [Link](https://huggingface.co/Zyphra/ZONOS2) |
+| UpdatedMay 11 | 21.8k | Serveurperso/Qwen3-TTS-GGUFText-to-Speech | 0.9B | [Link](https://huggingface.co/Serveurperso/Qwen3-TTS-GGUF) |
 | 857 | 20 | MBZUAI/speecht5_tts_clartts_arText-to-Speech | UpdatedFeb 23, 2024 | [Link](https://huggingface.co/MBZUAI/speecht5_tts_clartts_ar) |
 | 234 | 20 | k2-fsa/OmniVoiceText-to-Speech | Updatedabout 1 hour ago | [Link](https://huggingface.co/k2-fsa/OmniVoice) |
 | Updated7 days ago | 20 | AMAImedia/Darwin-Qwen3-TTS-1 | 2B | [Link](https://huggingface.co/AMAImedia/Darwin-Qwen3-TTS-1.7B-Cross-AWQ-INT4-NOESIS) |
@@ -7505,6 +7507,7 @@ Updated on 2026-06-25
 | 36 | 2 | mlx-community/Bernini-R-int4Text-to-Video | Updated3 days ago | [Link](https://huggingface.co/mlx-community/Bernini-R-int4) |
 | 34 | 2 | mlx-community/Bernini-R-bf16Text-to-Video | Updated5 days ago | [Link](https://huggingface.co/mlx-community/Bernini-R-bf16) |
 | 1 | 2 | ernie-research/MementoText-to-Video | Updatedabout 18 hours ago | [Link](https://huggingface.co/ernie-research/Memento) |
+| 906 | 2 | attashe/Bernini-Wan2 | Updatedabout 17 hours ago | [Link](https://huggingface.co/attashe/Bernini-Wan2.2-fp8-scaled) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
