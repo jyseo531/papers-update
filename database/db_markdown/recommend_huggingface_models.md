@@ -6630,6 +6630,7 @@ Updated on 2026-06-26
 | Updated5 days ago | 1.98k | InsecureErasure/CyberRealisticXL-GGUFText-to-Image | 3B | [Link](https://huggingface.co/InsecureErasure/CyberRealisticXL-GGUF) |
 | Updated1 day ago | 1.14k | Green-Sky/bonsai-image-binary-4B-GGUFText-to-Image | 4B | [Link](https://huggingface.co/Green-Sky/bonsai-image-binary-4B-GGUF) |
 | Updated1 day ago | 1.38k | rectangleworm/ideogram-4-ggufText-to-Image | 8B | [Link](https://huggingface.co/rectangleworm/ideogram-4-gguf) |
+| Updated1 day ago | 1.16k | wikeeyang/Flux2-Klein-9B-True-V3Text-to-Image | 9B | [Link](https://huggingface.co/wikeeyang/Flux2-Klein-9B-True-V3) |
 | 1.84M |  | black-forest-labs/FLUX | UpdatedAug 16, 2024 | [Link](https://huggingface.co/black-forest-labs/FLUX.1-dev) |
 | 268k |  | stabilityai/stable-diffusion-3 | UpdatedOct 22, 2024 | [Link](https://huggingface.co/stabilityai/stable-diffusion-3.5-large) |
 | 3.52M |  | stabilityai/stable-diffusion-xl-base-1 | UpdatedOct 30, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) |
@@ -7430,6 +7431,7 @@ Updated on 2026-06-26
 | 31 | 4 | kairos-agi/kairos-sensenova-robotText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/kairos-agi/kairos-sensenova-robot) |
 | Updated14 minutes ago | 4 | SulphurAI/Sulphur-2-baseText-to-Video | 9B | [Link](https://huggingface.co/SulphurAI/Sulphur-2-base) |
 | 295 | 4 | vrgamedevgirl84/LTX2 | UpdatedApr 24 | [Link](https://huggingface.co/vrgamedevgirl84/LTX2.3_Cozy_Felt_Style_LoRa) |
+| 233 | 4 | FastVideo/FastWan-QAD-FP8-1 | Updated3 days ago | [Link](https://huggingface.co/FastVideo/FastWan-QAD-FP8-1.3B) |
 | 4.64k | 3 | guoyww/animatediff-motion-lora-pan-rightText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-pan-right) |
 | 28 | 3 | finetrainers/3dgs-v0Text-to-Video | UpdatedJan 29 | [Link](https://huggingface.co/finetrainers/3dgs-v0) |
 | 1 | 3 | longlian/text-to-video-lvd-msText-to-Video | UpdatedMay 1, 2024 | [Link](https://huggingface.co/longlian/text-to-video-lvd-ms) |
