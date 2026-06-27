@@ -43,6 +43,7 @@ Updated on 2026-06-27
 | 121k | 381 | deepseek-ai/Janus-Pro-1BAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-1B) |
 | Updated10 days ago | 353 | google/gemma-4-E2B-it-qat-q4_0-unquantized-assistantAny-to-Any | 78M | [Link](https://huggingface.co/google/gemma-4-E2B-it-qat-q4_0-unquantized-assistant) |
 | Updated14 days ago | 330k | lmstudio-community/gemma-4-E4B-it-MLX-4bitAny-to-Any | 2B | [Link](https://huggingface.co/lmstudio-community/gemma-4-E4B-it-MLX-4bit) |
+| Updated16 days ago | 319 | llmfan46/gemma-4-12B-it-uncensored-hereticAny-to-Any | 12B | [Link](https://huggingface.co/llmfan46/gemma-4-12B-it-uncensored-heretic) |
 | Updatedabout 10 hours ago | 316 | wcy1122/MGM-Omni-TTS-2B-0927Any-to-Any | 2B | [Link](https://huggingface.co/wcy1122/MGM-Omni-TTS-2B-0927) |
 | Updatedabout 3 hours ago | 306 | BAAI/Emu3 | 34B | [Link](https://huggingface.co/BAAI/Emu3.5) |
 | Updatedabout 6 hours ago | 298 | KRAFTON/Raon-Speech-9BAny-to-Any | 9B | [Link](https://huggingface.co/KRAFTON/Raon-Speech-9B) |
@@ -1980,6 +1981,7 @@ Updated on 2026-06-27
 | Updated2 days ago | 764 | unsloth/LFM2 | 1B | [Link](https://huggingface.co/unsloth/LFM2.5-VL-1.6B-GGUF) |
 | Updated3 days ago | 759 | Qwen/Qwen3-VL-2B-Instruct-FP8Image-Text-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct-FP8) |
 | Updatedabout 7 hours ago | 757 | jinaai/jina-vlmImage-Text-to-Text | 2B | [Link](https://huggingface.co/jinaai/jina-vlm) |
+| Updatedabout 5 hours ago | 713k | empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUFImage-Text-to-Text | 9B | [Link](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) |
 | Updated14 days ago | 681 | ByteDance/Dolphin-1 | 0.4B | [Link](https://huggingface.co/ByteDance/Dolphin-1.5) |
 | Updatedabout 5 hours ago | 626 | tencent/HunyuanOCRImage-Text-to-Text | 1.0B | [Link](https://huggingface.co/tencent/HunyuanOCR) |
 | Updated3 days ago | 618 | p-e-w/gemma-3-12b-it-hereticImage-Text-to-Text | 12B | [Link](https://huggingface.co/p-e-w/gemma-3-12b-it-heretic) |
@@ -5427,6 +5429,7 @@ Updated on 2026-06-27
 | Updatedabout 24 hours ago | 77 | ai21labs/AI21-Jamba2-MiniText | 52B | [Link](https://huggingface.co/ai21labs/AI21-Jamba2-Mini) |
 | Updatedabout 4 hours ago | 77 | openbmb/AgentCPM-ExploreText | 4B | [Link](https://huggingface.co/openbmb/AgentCPM-Explore) |
 | Updatedabout 6 hours ago | 77 | LocoreMind/LocoTrainer-4BText | 4B | [Link](https://huggingface.co/LocoreMind/LocoTrainer-4B) |
+| Updatedabout 9 hours ago | 77 | deepseek-ai/DeepSeek-V4-Pro-DSparkText | 889B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark) |
 | Updatedabout 19 hours ago | 76 | ByteDance-Seed/Seed-OSS-36B-BaseText | 36B | [Link](https://huggingface.co/ByteDance-Seed/Seed-OSS-36B-Base) |
 | Updatedabout 23 hours ago | 76 | microsoft/FrogMini-14B-2510Text | 425k | [Link](https://huggingface.co/microsoft/FrogMini-14B-2510) |
 | Updatedabout 23 hours ago | 75 | inceptionai/Jais-2-70B-ChatText | 72B | [Link](https://huggingface.co/inceptionai/Jais-2-70B-Chat) |
@@ -5905,6 +5908,7 @@ Updated on 2026-06-27
 | Updated12 days ago | 5.65k | LEONW24/Qwen3 | 10B | [Link](https://huggingface.co/LEONW24/Qwen3.5-9B-Uncensored) |
 | Updated3 days ago | 5.82k | Abiray/MiniCPM5-1B-GGUFText | 1B | [Link](https://huggingface.co/Abiray/MiniCPM5-1B-GGUF) |
 | Updated1 day ago | 5.53k | unsloth/NVIDIA-Nemotron-3-Ultra-550B-A55B-GGUFText | 549B | [Link](https://huggingface.co/unsloth/NVIDIA-Nemotron-3-Ultra-550B-A55B-GGUF) |
+| Updated1 day ago | 5.03k | nvidia/Nemotron-TwoTower-30B-A3B-Base-BF16Text | 63B | [Link](https://huggingface.co/nvidia/Nemotron-TwoTower-30B-A3B-Base-BF16) |
 | Updatedabout 21 hours ago | 4.52k | unsloth/Devstral-Small-2507-GGUFText | 24B | [Link](https://huggingface.co/unsloth/Devstral-Small-2507-GGUF) |
 | Updatedabout 6 hours ago | 4 | baichuan-inc/Baichuan-M2-32BText | 33B | [Link](https://huggingface.co/baichuan-inc/Baichuan-M2-32B) |
 | UpdatedMay 14 | 4 | inclusionAI/Ling-lite-base-1 | 17B | [Link](https://huggingface.co/inclusionAI/Ling-lite-base-1.5) |
@@ -6876,6 +6880,7 @@ Updated on 2026-06-27
 | 7 | Unknown | SeFi-Image/SeFi-Image-5B-turboText-to-Image | Updated2 days ago | [Link](https://huggingface.co/SeFi-Image/SeFi-Image-5B-turbo) |
 | 8 | Unknown | Abiray/Krea-2-Turbo-FP8-NVFP4Text-to-Image | Updated1 day ago | [Link](https://huggingface.co/Abiray/Krea-2-Turbo-FP8-NVFP4) |
 | 11 | Unknown | gokaygokay/Krea-2-Realism-LoRAText-to-Image | Updatedabout 18 hours ago | [Link](https://huggingface.co/gokaygokay/Krea-2-Realism-LoRA) |
+| 9 | Unknown | hellorob/nos-invisibles-krea2Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/hellorob/nos-invisibles-krea2) |
 
 ## Text-to-Speech
 
