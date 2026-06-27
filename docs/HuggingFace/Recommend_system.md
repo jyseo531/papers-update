@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-06-26
+Updated on 2026-06-27
 
 > Generated from the Hugging Face database.
 
@@ -3612,6 +3612,7 @@ Updated on 2026-06-26
 | 3.36k | 1 | PaddlePaddle/SLANeXt_wirelessImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/SLANeXt_wireless) |
 | 262 | 1 | docling-project/MarkushGrapher-2Image-to-Text | UpdatedMar 23 | [Link](https://huggingface.co/docling-project/MarkushGrapher-2) |
 | 45 | 1 | PaddlePaddle/PicoDet-S_layout_17clsImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PicoDet-S_layout_17cls) |
+| Updated9 days ago | 1 | Teklia/Qwen2 | 8B | [Link](https://huggingface.co/Teklia/Qwen2.5-VL-7B-DAI-CReTDHI-RecordGold-ATR) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
