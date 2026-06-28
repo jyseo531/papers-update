@@ -7712,6 +7712,7 @@ Updated on 2026-06-28
 | 1 | Unknown | TensorStack/Locomotion-ToonYou-amuseText-to-Video | UpdatedApr 1, 2025 | [Link](https://huggingface.co/TensorStack/Locomotion-ToonYou-amuse) |
 | 3 | Unknown | danhtran2mind/zeroscope_v2_576w-Ghibli-LoRAText-to-Video | UpdatedJul 21, 2025 | [Link](https://huggingface.co/danhtran2mind/zeroscope_v2_576w-Ghibli-LoRA) |
 | 3 | Unknown | karnewar/NeodragonText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/karnewar/Neodragon) |
+| 2 | Unknown | sediment1024/PhysRAGText-to-Video | Updated2 days ago | [Link](https://huggingface.co/sediment1024/PhysRAG) |
 
 ## Text2Text Generation
 
