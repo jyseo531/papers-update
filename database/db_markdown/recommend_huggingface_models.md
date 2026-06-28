@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-06-27
+Updated on 2026-06-28
 
 > Generated from the Hugging Face database.
 
@@ -2279,6 +2279,7 @@ Updated on 2026-06-27
 | Updatedabout 11 hours ago | 13 | zai-org/AutoGLM-Phone-9B-MultilingualImage-Text-to-Text | 934k | [Link](https://huggingface.co/zai-org/AutoGLM-Phone-9B-Multilingual) |
 | Updated3 days ago | 13.3k | nvidia/Cosmos-Reason2-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/nvidia/Cosmos-Reason2-8B) |
 | Updated2 days ago | 13.4k | dealignai/Gemma-4-26B-A4B-JANG_2L-CRACKImage-Text-to-Text | 3B | [Link](https://huggingface.co/dealignai/Gemma-4-26B-A4B-JANG_2L-CRACK) |
+| Updated3 days ago | 13k | HauhauCS/Gemma4-31B-QAT-Uncensored-HauhauCS-Balanced-MTPImage-Text-to-Text | 31B | [Link](https://huggingface.co/HauhauCS/Gemma4-31B-QAT-Uncensored-HauhauCS-Balanced-MTP) |
 | 225 | 12 | ds4sd/SmolDocling-256M-preview-mlx-bf16Image-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/ds4sd/SmolDocling-256M-preview-mlx-bf16) |
 | 1.94k | 12 | bartowski/google_gemma-3-27b-it-qat-GGUFImage-Text-to-Text | Updatedabout 19 hours ago | [Link](https://huggingface.co/bartowski/google_gemma-3-27b-it-qat-GGUF) |
 | 856 | 12 | bartowski/google_gemma-3-12b-it-qat-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/bartowski/google_gemma-3-12b-it-qat-GGUF) |
@@ -5462,6 +5463,7 @@ Updated on 2026-06-27
 | Updated35 minutes ago | 61 | naver-hyperclovax/HyperCLOVAX-SEED-Omni-8BText | 11B | [Link](https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Omni-8B) |
 | Updated33 minutes ago | 61 | inclusionAI/Ring-2 | 1T | [Link](https://huggingface.co/inclusionAI/Ring-2.5-1T) |
 | Updated3 days ago | 61.7k | sakamakismile/Qwen3 | 17B | [Link](https://huggingface.co/sakamakismile/Qwen3.6-27B-Text-NVFP4-MTP) |
+| Updatedabout 24 hours ago | 61 | deepseek-ai/DeepSeek-V4-Flash-DSparkText | 165B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-DSpark) |
 | Updated2 days ago | 60 | Alibaba-NLP/WebDancer-32BText | 33B | [Link](https://huggingface.co/Alibaba-NLP/WebDancer-32B) |
 | Updatedabout 20 hours ago | 60 | inclusionAI/LLaDA2 | 16B | [Link](https://huggingface.co/inclusionAI/LLaDA2.0-mini-preview) |
 | Updatedabout 13 hours ago | 60 | haykgrigorian/TimeCapsuleLLM-v2-llama-1 | 1B | [Link](https://huggingface.co/haykgrigorian/TimeCapsuleLLM-v2-llama-1.2B) |
@@ -6881,6 +6883,9 @@ Updated on 2026-06-27
 | 8 | Unknown | Abiray/Krea-2-Turbo-FP8-NVFP4Text-to-Image | Updated1 day ago | [Link](https://huggingface.co/Abiray/Krea-2-Turbo-FP8-NVFP4) |
 | 11 | Unknown | gokaygokay/Krea-2-Realism-LoRAText-to-Image | Updatedabout 18 hours ago | [Link](https://huggingface.co/gokaygokay/Krea-2-Realism-LoRA) |
 | 9 | Unknown | hellorob/nos-invisibles-krea2Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/hellorob/nos-invisibles-krea2) |
+| 667 |  | krea/Krea-2-LoRA-vintagetarotText-to-Image | Updated5 days ago | [Link](https://huggingface.co/krea/Krea-2-LoRA-vintagetarot) |
+| 640 |  | krea/Krea-2-LoRA-dotmatrixText-to-Image | Updated5 days ago | [Link](https://huggingface.co/krea/Krea-2-LoRA-dotmatrix) |
+| 714 |  | krea/Krea-2-LoRA-softwatercolorText-to-Image | Updated5 days ago | [Link](https://huggingface.co/krea/Krea-2-LoRA-softwatercolor) |
 
 ## Text-to-Speech
 
