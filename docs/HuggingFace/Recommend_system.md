@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-06-28
+Updated on 2026-06-29
 
 > Generated from the Hugging Face database.
 
@@ -2235,6 +2235,7 @@ Updated on 2026-06-28
 | Updatedabout 10 hours ago | 18 | RekaAI/reka-edge-2603Image-Text-to-Text | 7B | [Link](https://huggingface.co/RekaAI/reka-edge-2603) |
 | Updatedabout 15 hours ago | 18 | Hcompany/Holotron-12BImage-Text-to-Text | 13B | [Link](https://huggingface.co/Hcompany/Holotron-12B) |
 | Updatedabout 5 hours ago | 18.5k | froggeric/Qwen3 | 27B | [Link](https://huggingface.co/froggeric/Qwen3.6-27B-MTP-GGUF) |
+| Updated3 days ago | 18.3k | bartowski/deepreinforce-ai_Ornith-1 | 35B | [Link](https://huggingface.co/bartowski/deepreinforce-ai_Ornith-1.0-35B-GGUF) |
 | 1.49k | 17 | google/paligemma2-3b-mix-224Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-3b-mix-224) |
 | 247 | 17 | ds4sd/SmolDocling-256M-previewImage-Text-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/ds4sd/SmolDocling-256M-preview) |
 | 31 | 17 | burtenshaw/GemmaCoder3-12BImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/burtenshaw/GemmaCoder3-12B) |
@@ -2530,6 +2531,7 @@ Updated on 2026-06-28
 | Updatedabout 12 hours ago |  | CohereLabs/command-a-plus-05-2026-w4a4Image-Text-to-Text | 126B | [Link](https://huggingface.co/CohereLabs/command-a-plus-05-2026-w4a4) |
 | Updatedabout 12 hours ago |  | CohereLabs/command-a-plus-05-2026-bf16Image-Text-to-Text | 219B | [Link](https://huggingface.co/CohereLabs/command-a-plus-05-2026-bf16) |
 | Updatedabout 12 hours ago |  | CohereLabs/command-a-plus-05-2026-fp8Image-Text-to-Text | 219B | [Link](https://huggingface.co/CohereLabs/command-a-plus-05-2026-fp8) |
+| 25 | Unknown | ahmed22xa/Huihui-Qwen3-VL-4B-Instruct-abliterated-comfyImage-Text-to-Text | Updated4 days ago | [Link](https://huggingface.co/ahmed22xa/Huihui-Qwen3-VL-4B-Instruct-abliterated-comfy) |
 
 ## Image-to-3D
 
@@ -3132,6 +3134,7 @@ Updated on 2026-06-28
 | Updated9 days ago | 424 | InternScience/StructTable-InternVL2-1BImage-to-Text | 0.9B | [Link](https://huggingface.co/InternScience/StructTable-InternVL2-1B) |
 | UpdatedSep 6, 2023 | 382 | google/pix2struct-largeImage-to-Text | 1B | [Link](https://huggingface.co/google/pix2struct-large) |
 | UpdatedJan 29 | 335 | StanfordAIMI/CheXagent-2-3b-srrg-findingsImage-to-Text | 3B | [Link](https://huggingface.co/StanfordAIMI/CheXagent-2-3b-srrg-findings) |
+| Updated14 days ago | 332 | PatSnap/Hiro-MOSS-OCR-0 | 0.3B | [Link](https://huggingface.co/PatSnap/Hiro-MOSS-OCR-0.3B) |
 | UpdatedJul 18 | 323 | loay/ArabicOCR-Qwen2 | 8B | [Link](https://huggingface.co/loay/ArabicOCR-Qwen2.5-VL-7B-Vision) |
 | UpdatedFeb 23 | 313 | mradermacher/PaddleOCR-VL-0 | 0.5B | [Link](https://huggingface.co/mradermacher/PaddleOCR-VL-0.9B-GGUF) |
 | Updatedabout 24 hours ago | 297 | mradermacher/PaddleOCR-VL-1 | 0.5B | [Link](https://huggingface.co/mradermacher/PaddleOCR-VL-1.6-GGUF) |
@@ -5715,6 +5718,7 @@ Updated on 2026-06-28
 | 14.5k | 24 | nvidia/Kimi-K2 | Updated5 days ago | [Link](https://huggingface.co/nvidia/Kimi-K2.5-NVFP4) |
 | Updatedabout 16 hours ago | 24 | JANGQ-AI/MiniMax-M2 | 15B | [Link](https://huggingface.co/JANGQ-AI/MiniMax-M2.7-JANGTQ) |
 | 113 | 24 | FINAL-Bench/Darwin-60B-DUOText | Updatedabout 13 hours ago | [Link](https://huggingface.co/FINAL-Bench/Darwin-60B-DUO) |
+| Updated2 days ago | 24.8k | nvidia/MiniMax-M3-NVFP4Text | 247B | [Link](https://huggingface.co/nvidia/MiniMax-M3-NVFP4) |
 | 10.3k | 23 | unsloth/Phi-4-mini-instruct-GGUFText | Updated4 days ago | [Link](https://huggingface.co/unsloth/Phi-4-mini-instruct-GGUF) |
 | 26.8k | 23 | lmstudio-community/QwQ-32B-GGUFText | Updated1 day ago | [Link](https://huggingface.co/lmstudio-community/QwQ-32B-GGUF) |
 | 1.47k | 23 | NousResearch/DeepHermes-3-Llama-3-3B-PreviewText | Updated4 days ago | [Link](https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-3B-Preview) |
@@ -6495,6 +6499,7 @@ Updated on 2026-06-28
 | Updated3 minutes ago | 10 | city96/Qwen-Image-ggufText-to-Image | 20B | [Link](https://huggingface.co/city96/Qwen-Image-gguf) |
 |  | 10 | Shakker-Labs/AWPortrait-QWText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/Shakker-Labs/AWPortrait-QW) |
 | 88 | 10 | mrfakename/Z-Image-TurboText-to-Image | Updated21 days ago | [Link](https://huggingface.co/mrfakename/Z-Image-Turbo) |
+| 1 | 10 | clark-labs/clark-air-sana-1 | Updatedabout 9 hours ago | [Link](https://huggingface.co/clark-labs/clark-air-sana-1.6b-1.58bit) |
 |  | 9 | ART-Release/ART_v1 | Updatedabout 23 hours ago | [Link](https://huggingface.co/ART-Release/ART_v1.0) |
 | 9 | 9 | motimalu/wan-flat-color-v2Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/motimalu/wan-flat-color-v2) |
 | 11 | 9 | ShoufaChen/PixelFlow-Text2ImageText-to-Image | Updatedabout 19 hours ago | [Link](https://huggingface.co/ShoufaChen/PixelFlow-Text2Image) |
@@ -6886,6 +6891,7 @@ Updated on 2026-06-28
 | 667 |  | krea/Krea-2-LoRA-vintagetarotText-to-Image | Updated5 days ago | [Link](https://huggingface.co/krea/Krea-2-LoRA-vintagetarot) |
 | 640 |  | krea/Krea-2-LoRA-dotmatrixText-to-Image | Updated5 days ago | [Link](https://huggingface.co/krea/Krea-2-LoRA-dotmatrix) |
 | 714 |  | krea/Krea-2-LoRA-softwatercolorText-to-Image | Updated5 days ago | [Link](https://huggingface.co/krea/Krea-2-LoRA-softwatercolor) |
+| 740 |  | krea/Krea-2-LoRA-kidsdrawingText-to-Image | Updated6 days ago | [Link](https://huggingface.co/krea/Krea-2-LoRA-kidsdrawing) |
 
 ## Text-to-Speech
 
@@ -6936,6 +6942,7 @@ Updated on 2026-06-28
 | 19.5k | 241 | parler-tts/parler-tts-large-v1Text-to-Speech | UpdatedNov 22, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-large-v1) |
 | Updated8 days ago | 239 | wcy1122/MGM-Omni-TTS-0 | 0.7B | [Link](https://huggingface.co/wcy1122/MGM-Omni-TTS-0.6B) |
 | Updated5 days ago | 237 | neuphonic/neutts-nano-german-q4-ggufText-to-Speech | 0.2B | [Link](https://huggingface.co/neuphonic/neutts-nano-german-q4-gguf) |
+| Updated16 days ago | 231 | Vyvo/Vyvo-Multilingual-v0 | 0.9B | [Link](https://huggingface.co/Vyvo/Vyvo-Multilingual-v0.1) |
 | Updatedabout 9 hours ago | 216 | microsoft/VibeVoice-1 | 3B | [Link](https://huggingface.co/microsoft/VibeVoice-1.5B) |
 | Updatedabout 4 hours ago | 214 | neuphonic/neutts-nanoText-to-Speech | 0.3B | [Link](https://huggingface.co/neuphonic/neutts-nano) |
 | 108 | 202 | mistralai/Voxtral-4B-TTS-2603Text-to-Speech | Updatedabout 11 hours ago | [Link](https://huggingface.co/mistralai/Voxtral-4B-TTS-2603) |
@@ -7345,6 +7352,7 @@ Updated on 2026-06-28
 | 4 | Unknown | drbaph/ZONOS2-BF16Text-to-Speech | Updated2 days ago | [Link](https://huggingface.co/drbaph/ZONOS2-BF16) |
 | 4 | Unknown | owensong/Inflect-Nano-v1Text-to-Speech | Updatedabout 20 hours ago | [Link](https://huggingface.co/owensong/Inflect-Nano-v1) |
 | 4 | Unknown | drbaph/ZONOS2-FP8Text-to-Speech | Updated6 days ago | [Link](https://huggingface.co/drbaph/ZONOS2-FP8) |
+| 9 | Unknown | netease-youdao/Confucius4-TTSText-to-Speech | Updated26 days ago | [Link](https://huggingface.co/netease-youdao/Confucius4-TTS) |
 
 ## Text-to-Video
 
