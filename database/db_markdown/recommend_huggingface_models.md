@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-06-29
+Updated on 2026-06-30
 
 > Generated from the Hugging Face database.
 
@@ -3101,6 +3101,7 @@ Updated on 2026-06-29
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
 | Updated5 days ago | 951 | noctrex/LightOnOCR-2-1B-ocr-soup-GGUFImage-to-Text | 0.6B | [Link](https://huggingface.co/noctrex/LightOnOCR-2-1B-ocr-soup-GGUF) |
+| Updatedabout 7 hours ago | 936 | mradermacher/Rax-4 | 2B | [Link](https://huggingface.co/mradermacher/Rax-4.5-GGUF) |
 | UpdatedAug 25 | 929 | shenasa/persian-image-captioningImage-to-Text | 0.2B | [Link](https://huggingface.co/shenasa/persian-image-captioning) |
 | UpdatedJan 20 | 893 | HuggingFaceTB/SmolVLM-500M-BaseImage-to-Text | 0.5B | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-500M-Base) |
 | Updated3 days ago | 858 | mlx-community/GLM-OCR-bf16Image-to-Text | 1B | [Link](https://huggingface.co/mlx-community/GLM-OCR-bf16) |
@@ -6892,6 +6893,7 @@ Updated on 2026-06-29
 | 640 |  | krea/Krea-2-LoRA-dotmatrixText-to-Image | Updated5 days ago | [Link](https://huggingface.co/krea/Krea-2-LoRA-dotmatrix) |
 | 714 |  | krea/Krea-2-LoRA-softwatercolorText-to-Image | Updated5 days ago | [Link](https://huggingface.co/krea/Krea-2-LoRA-softwatercolor) |
 | 740 |  | krea/Krea-2-LoRA-kidsdrawingText-to-Image | Updated6 days ago | [Link](https://huggingface.co/krea/Krea-2-LoRA-kidsdrawing) |
+| 10 | Unknown | Winnougan/Boogu-INT8Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/Winnougan/Boogu-INT8) |
 
 ## Text-to-Speech
 
