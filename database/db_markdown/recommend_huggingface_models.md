@@ -5515,6 +5515,7 @@ Updated on 2026-06-30
 | Updatedabout 13 hours ago | 47 | LLM360/K2-ThinkText | 33B | [Link](https://huggingface.co/LLM360/K2-Think) |
 | Updatedabout 10 hours ago | 47 | inclusionAI/Ring-1T-previewText | 1000B | [Link](https://huggingface.co/inclusionAI/Ring-1T-preview) |
 | Updatedabout 5 hours ago | 47 | Nanbeige/Nanbeige4 | 4B | [Link](https://huggingface.co/Nanbeige/Nanbeige4.1-3B) |
+| Updatedabout 20 hours ago | 47 | huihui-ai/Huihui-GLM-5 | 754B | [Link](https://huggingface.co/huihui-ai/Huihui-GLM-5.2-abliterated-GGUF) |
 | 415 | 46 | LGAI-EXAONE/EXAONE-Deep-2 | Updated4 minutes ago | [Link](https://huggingface.co/LGAI-EXAONE/EXAONE-Deep-2.4B) |
 | 151 | 46 | bytedance-research/ChatTS-14BText | Updated2 days ago | [Link](https://huggingface.co/bytedance-research/ChatTS-14B) |
 | 13 | 46 | Qwen/Qwen3-4BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-4B) |
@@ -6894,6 +6895,7 @@ Updated on 2026-06-30
 | 714 |  | krea/Krea-2-LoRA-softwatercolorText-to-Image | Updated5 days ago | [Link](https://huggingface.co/krea/Krea-2-LoRA-softwatercolor) |
 | 740 |  | krea/Krea-2-LoRA-kidsdrawingText-to-Image | Updated6 days ago | [Link](https://huggingface.co/krea/Krea-2-LoRA-kidsdrawing) |
 | 10 | Unknown | Winnougan/Boogu-INT8Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/Winnougan/Boogu-INT8) |
+| 4.18k |  | ostris/krea2_turbo_training_adapterText-to-Image | Updated6 days ago | [Link](https://huggingface.co/ostris/krea2_turbo_training_adapter) |
 
 ## Text-to-Speech
 
@@ -7355,6 +7357,7 @@ Updated on 2026-06-30
 | 4 | Unknown | owensong/Inflect-Nano-v1Text-to-Speech | Updatedabout 20 hours ago | [Link](https://huggingface.co/owensong/Inflect-Nano-v1) |
 | 4 | Unknown | drbaph/ZONOS2-FP8Text-to-Speech | Updated6 days ago | [Link](https://huggingface.co/drbaph/ZONOS2-FP8) |
 | 9 | Unknown | netease-youdao/Confucius4-TTSText-to-Speech | Updated26 days ago | [Link](https://huggingface.co/netease-youdao/Confucius4-TTS) |
+| 6 | Unknown | prathoshap/vagdhenuText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/prathoshap/vagdhenu) |
 
 ## Text-to-Video
 
