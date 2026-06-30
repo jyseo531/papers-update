@@ -248,6 +248,7 @@ Updated on 2026-06-30
 | Updatedabout 18 hours ago | 4.03k | mradermacher/Darkidol-Gemma-4-E4B-it-i1-GGUFAny-to-Any | 8B | [Link](https://huggingface.co/mradermacher/Darkidol-Gemma-4-E4B-it-i1-GGUF) |
 | Updated10 days ago | 4.6k | zecanard/gemma-4-E4B-it-ultra-uncensored-heretic-MLX-4bit-mixed_4_6Any-to-Any | 2B | [Link](https://huggingface.co/zecanard/gemma-4-E4B-it-ultra-uncensored-heretic-MLX-4bit-mixed_4_6) |
 | Updatedabout 9 hours ago | 4 | mlx-community/gemma-4-12B-bf16Any-to-Any | 12B | [Link](https://huggingface.co/mlx-community/gemma-4-12B-bf16) |
+| Updatedabout 13 hours ago | 4 | sensenova/SenseNova-U1-8B-MoT-Infographic-V2Any-to-Any | 18B | [Link](https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-Infographic-V2) |
 | 481k | 3.11k | deepseek-ai/Janus-Pro-7BAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-7B) |
 | 78 | 3 | VARGPT-family/VARGPT_LLaVA-v1Any-to-Any | UpdatedJan 23 | [Link](https://huggingface.co/VARGPT-family/VARGPT_LLaVA-v1) |
 | 2 | 3 | impactframes/Janus-1 | UpdatedOct 19, 2024 | [Link](https://huggingface.co/impactframes/Janus-1.3B) |
@@ -5401,6 +5402,7 @@ Updated on 2026-06-30
 | Updatedabout 19 hours ago | 95 | open-thoughts/OpenThinker-Agent-v1Text | 8B | [Link](https://huggingface.co/open-thoughts/OpenThinker-Agent-v1) |
 | Updatedabout 10 hours ago | 92 | HelpingAI/Dhanishtha-2 | 15B | [Link](https://huggingface.co/HelpingAI/Dhanishtha-2.0-preview) |
 | 3 | 92 | moonshotai/Kimi-K2-BaseText | Updatedabout 10 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-K2-Base) |
+| Updatedabout 7 hours ago | 92 | InternScience/Agents-A1Text | 35B | [Link](https://huggingface.co/InternScience/Agents-A1) |
 | 448 | 91 | starvector/starvector-8b-im2svgText | Updated2 days ago | [Link](https://huggingface.co/starvector/starvector-8b-im2svg) |
 | 695 | 90 | moonshotai/Moonlight-16B-A3B-InstructText | Updated2 days ago | [Link](https://huggingface.co/moonshotai/Moonlight-16B-A3B-Instruct) |
 | 322 | 90 | XiaomiMiMo/MiMo-7B-BaseText | Updatedabout 12 hours ago | [Link](https://huggingface.co/XiaomiMiMo/MiMo-7B-Base) |
@@ -5666,6 +5668,7 @@ Updated on 2026-06-30
 | Updatedabout 19 hours ago | 27 | IQuestLab/IQuest-Coder-V1-40B-Loop-InstructText | 40B | [Link](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Loop-Instruct) |
 | Updatedabout 16 hours ago | 27 | arcee-ai/Trinity-Large-BaseText | 399B | [Link](https://huggingface.co/arcee-ai/Trinity-Large-Base) |
 | Updatedabout 11 hours ago | 27 | unsloth/DeepSeek-V4-FlashText | 158B | [Link](https://huggingface.co/unsloth/DeepSeek-V4-Flash) |
+| Updated5 days ago | 27.7k | huihui-ai/Huihui-Qwythos-9B-Claude-Mythos-5-1M-abliterated-GGUFText | 9B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwythos-9B-Claude-Mythos-5-1M-abliterated-GGUF) |
 | 7.18k | 26 | bartowski/RekaAI_reka-flash-3-GGUFText | Updated2 days ago | [Link](https://huggingface.co/bartowski/RekaAI_reka-flash-3-GGUF) |
 | 499 | 26 | mixedbread-ai/mxbai-rerank-large-v2Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/mixedbread-ai/mxbai-rerank-large-v2) |
 | 1 | 26 | openfree/QwQ-32B-Q8_0-GGUFText | Updatedabout 7 hours ago | [Link](https://huggingface.co/openfree/QwQ-32B-Q8_0-GGUF) |
@@ -7726,6 +7729,7 @@ Updated on 2026-06-30
 | 3 | Unknown | danhtran2mind/zeroscope_v2_576w-Ghibli-LoRAText-to-Video | UpdatedJul 21, 2025 | [Link](https://huggingface.co/danhtran2mind/zeroscope_v2_576w-Ghibli-LoRA) |
 | 3 | Unknown | karnewar/NeodragonText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/karnewar/Neodragon) |
 | 2 | Unknown | sediment1024/PhysRAGText-to-Video | Updated2 days ago | [Link](https://huggingface.co/sediment1024/PhysRAG) |
+| 2 | Unknown | mlboydaisuke/LTX-Video-2B-CoreAIText-to-Video | Updatedabout 14 hours ago | [Link](https://huggingface.co/mlboydaisuke/LTX-Video-2B-CoreAI) |
 
 ## Text2Text Generation
 
