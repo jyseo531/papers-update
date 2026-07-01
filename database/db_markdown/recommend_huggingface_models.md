@@ -2211,6 +2211,7 @@ Updated on 2026-07-01
 | 280 | 24 | google/paligemma2-28b-mix-448Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-28b-mix-448) |
 | 667 | 24 | nvidia/Eagle2-2BImage-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/nvidia/Eagle2-2B) |
 | Updatedabout 4 hours ago | 24 | Hcompany/Holo1 | 8B | [Link](https://huggingface.co/Hcompany/Holo1.5-7B) |
+| Updated1 day ago | 24 | microsoft/GELab-Zero-4B-preview-Sico-EvolutionImage-Text-to-Text | 4B | [Link](https://huggingface.co/microsoft/GELab-Zero-4B-preview-Sico-Evolution) |
 | Updatedabout 4 hours ago | 23 | openbmb/MiniCPM-V-4_5Image-Text-to-Text | 9B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4_5) |
 | Updatedabout 10 hours ago | 23 | internlm/JanusCoderV-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/internlm/JanusCoderV-7B) |
 | Updatedabout 5 hours ago | 23 | HauhauCS/Qwen3 | 35B | [Link](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive) |
@@ -2811,6 +2812,7 @@ Updated on 2026-07-01
 |  | 4 | Leon1000/Flux-2-Multi-Angles-LoRA-v2Image-to-Image | Updated6 days ago | [Link](https://huggingface.co/Leon1000/Flux-2-Multi-Angles-LoRA-v2) |
 | 249 | 4 | thedeoxen/refcontrol-FLUX | Updated5 days ago | [Link](https://huggingface.co/thedeoxen/refcontrol-FLUX.2-klein-9B-reference-depth-lora) |
 | 44 | 4 | jdopensource/JoyAI-Image-Edit-Plus-DiffusersImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/jdopensource/JoyAI-Image-Edit-Plus-Diffusers) |
+| 2.34k | 4 | darknight9121/FLUX | Updated5 days ago | [Link](https://huggingface.co/darknight9121/FLUX.2-klein-base-9B-bucket-uncensored) |
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
@@ -6903,6 +6905,7 @@ Updated on 2026-07-01
 | 10 | Unknown | Winnougan/Boogu-INT8Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/Winnougan/Boogu-INT8) |
 | 4.18k |  | ostris/krea2_turbo_training_adapterText-to-Image | Updated6 days ago | [Link](https://huggingface.co/ostris/krea2_turbo_training_adapter) |
 | 378 |  | AIImageStudio/RadianceChromeVoluptuous_Krea2Turbo_v1 | Updated5 days ago | [Link](https://huggingface.co/AIImageStudio/RadianceChromeVoluptuous_Krea2Turbo_v1.0) |
+| 91 |  | victor/Krea-2-LoRA-magritteText-to-Image | Updated2 days ago | [Link](https://huggingface.co/victor/Krea-2-LoRA-magritte) |
 
 ## Text-to-Speech
 
