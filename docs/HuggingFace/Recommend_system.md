@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-06-30
+Updated on 2026-07-01
 
 > Generated from the Hugging Face database.
 
@@ -3096,6 +3096,7 @@ Updated on 2026-06-30
 | 7 | Unknown | paom/texture2albedo-v2Image-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/paom/texture2albedo-v2) |
 | 4 | Unknown | tpys/fuxi-2 | Updated5 days ago | [Link](https://huggingface.co/tpys/fuxi-2.1) |
 | 5 | Unknown | simonw/Moebius-ONNXImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/simonw/Moebius-ONNX) |
+| 5 | Unknown | wafer-bob/ASASRImage-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/wafer-bob/ASASR) |
 
 ## Image-to-Text
 
@@ -3541,6 +3542,7 @@ Updated on 2026-06-30
 | Updatedabout 4 hours ago | 2 | numind/NuExtract3-FP8Image-to-Text | 5B | [Link](https://huggingface.co/numind/NuExtract3-FP8) |
 | 1.84k | 2 | PaddlePaddle/PP-OCRv4_server_seal_detImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv4_server_seal_det) |
 | 3.36k | 2 | PaddlePaddle/PP-OCRv4_server_detImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv4_server_det) |
+| 124 | 2 | Rattatammanoon/hurricane-ocr-tlpr-v1-LoRAImage-to-Text | UpdatedApr 9 | [Link](https://huggingface.co/Rattatammanoon/hurricane-ocr-tlpr-v1-LoRA) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -5892,6 +5894,7 @@ Updated on 2026-06-30
 | Updatedabout 20 hours ago | 7.1k | nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-NVFP4Text | 18B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-NVFP4) |
 | Updatedabout 15 hours ago | 7 | Jackrong/Qwopus-GLM-18B-Merged-GGUFText | 16B | [Link](https://huggingface.co/Jackrong/Qwopus-GLM-18B-Merged-GGUF) |
 | Updated1 day ago | 7.46k | nvidia/GLM-5 | 382B | [Link](https://huggingface.co/nvidia/GLM-5.1-NVFP4) |
+| Updatedabout 4 hours ago | 7.63k | nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16Text | 63B | [Link](https://huggingface.co/nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16) |
 | 578k | 6.11k | meta-llama/Meta-Llama-3-8BText | UpdatedSep 27, 2024 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) |
 | Updatedabout 18 hours ago | 6 | apple/sage-ft-mixtral-8x7bText | 47B | [Link](https://huggingface.co/apple/sage-ft-mixtral-8x7b) |
 | Updated5 days ago | 6.94k | mistralai/Devstral-Small-2507_ggufText | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2507_gguf) |
@@ -6899,6 +6902,7 @@ Updated on 2026-06-30
 | 740 |  | krea/Krea-2-LoRA-kidsdrawingText-to-Image | Updated6 days ago | [Link](https://huggingface.co/krea/Krea-2-LoRA-kidsdrawing) |
 | 10 | Unknown | Winnougan/Boogu-INT8Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/Winnougan/Boogu-INT8) |
 | 4.18k |  | ostris/krea2_turbo_training_adapterText-to-Image | Updated6 days ago | [Link](https://huggingface.co/ostris/krea2_turbo_training_adapter) |
+| 378 |  | AIImageStudio/RadianceChromeVoluptuous_Krea2Turbo_v1 | Updated5 days ago | [Link](https://huggingface.co/AIImageStudio/RadianceChromeVoluptuous_Krea2Turbo_v1.0) |
 
 ## Text-to-Speech
 
