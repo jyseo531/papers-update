@@ -6911,6 +6911,7 @@ Updated on 2026-07-02
 | 4.18k |  | ostris/krea2_turbo_training_adapterText-to-Image | Updated6 days ago | [Link](https://huggingface.co/ostris/krea2_turbo_training_adapter) |
 | 378 |  | AIImageStudio/RadianceChromeVoluptuous_Krea2Turbo_v1 | Updated5 days ago | [Link](https://huggingface.co/AIImageStudio/RadianceChromeVoluptuous_Krea2Turbo_v1.0) |
 | 91 |  | victor/Krea-2-LoRA-magritteText-to-Image | Updated2 days ago | [Link](https://huggingface.co/victor/Krea-2-LoRA-magritte) |
+| 10 | Unknown | Winnougan/Z-Image-Base-Turbo-INT8-ConvrotText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/Winnougan/Z-Image-Base-Turbo-INT8-Convrot) |
 
 ## Text-to-Speech
 
