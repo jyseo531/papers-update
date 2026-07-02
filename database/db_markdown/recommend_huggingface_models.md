@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-07-01
+Updated on 2026-07-02
 
 > Generated from the Hugging Face database.
 
@@ -2752,6 +2752,7 @@ Updated on 2026-07-01
 |  | 8 | xuminglong/kontext-tryon7Image-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/xuminglong/kontext-tryon7) |
 | 160 | 8 | Jamichsu/Stream-DiffVSRImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/Jamichsu/Stream-DiffVSR) |
 |  | 8 | prithivMLmods/Qwen-Image-Edit-2511-Unblur-UpscaleImage-to-Image | Updated15 minutes ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-2511-Unblur-Upscale) |
+| 1.75k | 8 | wraps/FLUX | Updated3 days ago | [Link](https://huggingface.co/wraps/FLUX.2-klein-9B-Blitz-ComfyUI) |
 | 1.74k | 7 | xiaozaa/catvton-flux-betaImage-to-Image | UpdatedJan 16 | [Link](https://huggingface.co/xiaozaa/catvton-flux-beta) |
 | 33 | 7 | kontext-community/relighting-kontext-dev-lora-v3Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/kontext-community/relighting-kontext-dev-lora-v3) |
 | Updatedabout 1 hour ago | 7 | chatpig/flux2-dev-ggufImage-to-Image | 18B | [Link](https://huggingface.co/chatpig/flux2-dev-gguf) |
@@ -3099,6 +3100,7 @@ Updated on 2026-07-01
 | 4 | Unknown | tpys/fuxi-2 | Updated5 days ago | [Link](https://huggingface.co/tpys/fuxi-2.1) |
 | 5 | Unknown | simonw/Moebius-ONNXImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/simonw/Moebius-ONNX) |
 | 5 | Unknown | wafer-bob/ASASRImage-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/wafer-bob/ASASR) |
+| 4 | Unknown | eric-venti-seeds/Sun-Direction-Lora-Flux2Klein9BImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/eric-venti-seeds/Sun-Direction-Lora-Flux2Klein9B) |
 
 ## Image-to-Text
 
@@ -5879,6 +5881,7 @@ Updated on 2026-07-01
 | Updatedabout 15 hours ago | 9.27k | mudler/Qwen3 | 35B | [Link](https://huggingface.co/mudler/Qwen3.5-35B-A3B-APEX-GGUF) |
 | Updatedabout 11 hours ago | 9.14k | Jackrong/Gemopus-4-26B-A4B-it-GGUFText | 25B | [Link](https://huggingface.co/Jackrong/Gemopus-4-26B-A4B-it-GGUF) |
 | Updated2 days ago | 9.92k | hesamation/Qwen3 | 35B | [Link](https://huggingface.co/hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF) |
+| Updated3 days ago | 9.5k | protoLabsAI/Ornith-1 | 2B | [Link](https://huggingface.co/protoLabsAI/Ornith-1.0-9B-MTP-GGUF) |
 | Updated3 days ago | 8.32k | trillionlabs/Tri-21BText | 21B | [Link](https://huggingface.co/trillionlabs/Tri-21B) |
 | Updatedabout 14 hours ago | 8 | janhq/Jan-v1-4B-GGUFText | 4B | [Link](https://huggingface.co/janhq/Jan-v1-4B-GGUF) |
 | Updatedabout 16 hours ago | 8.51k | nvidia/NVIDIA-Nemotron-Nano-12B-v2Text | 12B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-12B-v2) |
@@ -6444,6 +6447,7 @@ Updated on 2026-07-01
 | 2.41k | 27 | stanfordmimi/MerlinText-to-Image | UpdatedMar 4 | [Link](https://huggingface.co/stanfordmimi/Merlin) |
 | 41 | 26 | SG161222/SPARK | Updatedabout 17 hours ago | [Link](https://huggingface.co/SG161222/SPARK.Chroma_preview) |
 | 15 | 25 | ideogram-ai/ideogram-4-nf4Text-to-Image | Updated7 minutes ago | [Link](https://huggingface.co/ideogram-ai/ideogram-4-nf4) |
+| 3.41k | 25 | Bedovyy/Anima-INT8Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/Bedovyy/Anima-INT8) |
 | Updatedabout 8 hours ago | 24 | jayn7/Z-Image-GGUFText-to-Image | 6B | [Link](https://huggingface.co/jayn7/Z-Image-GGUF) |
 | Updatedabout 11 hours ago | 24 | shallowdream204/BitDance-14B-16xText-to-Image | 15B | [Link](https://huggingface.co/shallowdream204/BitDance-14B-16x) |
 | 12 | 24 | Lakonik/AsymFLUX | Updatedabout 13 hours ago | [Link](https://huggingface.co/Lakonik/AsymFLUX.2-klein-9B) |
@@ -6499,6 +6503,7 @@ Updated on 2026-07-01
 | 1.18k | 11 | linoyts/Flux2-Klein-Delight-LoRAText-to-Image | Updated13 days ago | [Link](https://huggingface.co/linoyts/Flux2-Klein-Delight-LoRA) |
 | 133 | 11 | microsoft/LensText-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/microsoft/Lens) |
 | 70 | 11 | ideogram-ai/ideogram-4-nf4-diffusersText-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/ideogram-ai/ideogram-4-nf4-diffusers) |
+| 44 | 11 | alfredplpl/ecocoro-preview-1Text-to-Image | Updated1 day ago | [Link](https://huggingface.co/alfredplpl/ecocoro-preview-1) |
 |  | 10 | strangerzonehf/Real-ClaymationText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/strangerzonehf/Real-Claymation) |
 | 17 | 10 | zhang0jhon/flux_waveletText-to-Image | Updated5 days ago | [Link](https://huggingface.co/zhang0jhon/flux_wavelet) |
 | 36 | 10 | codermert/ozgeefinalText-to-Image | Updated6 days ago | [Link](https://huggingface.co/codermert/ozgeefinal) |
