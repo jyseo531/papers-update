@@ -3390,6 +3390,7 @@ Updated on 2026-07-03
 | Updatedabout 11 hours ago | 8 | internlm/CapRL-3BImage-to-Text | 4B | [Link](https://huggingface.co/internlm/CapRL-3B) |
 | Updated2 days ago | 8 | ob11/Qwen-VL-PRM-7BImage-to-Text | 8B | [Link](https://huggingface.co/ob11/Qwen-VL-PRM-7B) |
 | UpdatedApr 2, 2024 | 8 | unstructuredio/donut-base-labelstudio-A1 | 0.2B | [Link](https://huggingface.co/unstructuredio/donut-base-labelstudio-A1.0) |
+| 4 | 8 | Riksarkivet/satrn_htrImage-to-Text | UpdatedNov 9, 2024 | [Link](https://huggingface.co/Riksarkivet/satrn_htr) |
 | 1.58k | 7 | DunnBC22/trocr-base-printed_captcha_ocrImage-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-base-printed_captcha_ocr) |
 | 24.7k | 7 | Riksarkivet/trocr-base-handwritten-hist-swe-2Image-to-Text | Updated11 days ago | [Link](https://huggingface.co/Riksarkivet/trocr-base-handwritten-hist-swe-2) |
 | 285 | 7 | purna419/invoice-parserImage-to-Text | UpdatedJul 10, 2023 | [Link](https://huggingface.co/purna419/invoice-parser) |
@@ -6912,6 +6913,7 @@ Updated on 2026-07-03
 | 378 |  | AIImageStudio/RadianceChromeVoluptuous_Krea2Turbo_v1 | Updated5 days ago | [Link](https://huggingface.co/AIImageStudio/RadianceChromeVoluptuous_Krea2Turbo_v1.0) |
 | 91 |  | victor/Krea-2-LoRA-magritteText-to-Image | Updated2 days ago | [Link](https://huggingface.co/victor/Krea-2-LoRA-magritte) |
 | 10 | Unknown | Winnougan/Z-Image-Base-Turbo-INT8-ConvrotText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/Winnougan/Z-Image-Base-Turbo-INT8-Convrot) |
+| 8 | Unknown | deadman44/Krea-2_LoRAText-to-Image | Updated2 days ago | [Link](https://huggingface.co/deadman44/Krea-2_LoRA) |
 
 ## Text-to-Speech
 
