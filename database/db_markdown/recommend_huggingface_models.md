@@ -5429,6 +5429,7 @@ Updated on 2026-07-04
 | Updatedabout 3 hours ago | 83 | jxm/gpt-oss-20b-baseText | 21B | [Link](https://huggingface.co/jxm/gpt-oss-20b-base) |
 | Updatedabout 2 hours ago | 83 | WeiboAI/VibeThinker-1 | 2B | [Link](https://huggingface.co/WeiboAI/VibeThinker-1.5B) |
 | Updated36 minutes ago | 83 | naver-hyperclovax/HyperCLOVAX-SEED-Think-32BText | 33B | [Link](https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Think-32B) |
+| Updatedabout 9 hours ago | 83 | AliesTaha/fable-tracesText | 4B | [Link](https://huggingface.co/AliesTaha/fable-traces) |
 | 966 | 82 | ServiceNow-AI/Apriel-Nemotron-15b-ThinkerText | Updatedabout 5 hours ago | [Link](https://huggingface.co/ServiceNow-AI/Apriel-Nemotron-15b-Thinker) |
 | Updated1 day ago | 82 | kakaocorp/kanana-2-30b-a3b-instruct-2601Text | 31B | [Link](https://huggingface.co/kakaocorp/kanana-2-30b-a3b-instruct-2601) |
 | Updatedabout 2 hours ago | 81 | stepfun-ai/step3Text | 321B | [Link](https://huggingface.co/stepfun-ai/step3) |
@@ -5879,6 +5880,7 @@ Updated on 2026-07-04
 | Updated1 day ago | 10 | FINAL-Bench/Darwin-35B-A3B-OpusText | 36B | [Link](https://huggingface.co/FINAL-Bench/Darwin-35B-A3B-Opus) |
 | Updatedabout 20 hours ago | 10 | lordx64/Qwable-v1Text | 36B | [Link](https://huggingface.co/lordx64/Qwable-v1) |
 | Updated6 days ago | 10.4k | lordx64/Qwable-v1-GGUFText | 35B | [Link](https://huggingface.co/lordx64/Qwable-v1-GGUF) |
+| Updated5 days ago | 10.4k | AEON-7/Ornith-1 | 21B | [Link](https://huggingface.co/AEON-7/Ornith-1.0-35B-AEON-Ultimate-Uncensored-NVFP4) |
 | Updatedabout 4 hours ago | 9 | meituan-longcat/LongCat-Flash-ChatText | 562B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Chat) |
 | Updatedabout 7 hours ago | 9 | facebook/MobileLLM-R1-950MText | 0.9B | [Link](https://huggingface.co/facebook/MobileLLM-R1-950M) |
 | Updatedabout 5 hours ago | 9 | Zyphra/ZAYA1-baseText | 9B | [Link](https://huggingface.co/Zyphra/ZAYA1-base) |
