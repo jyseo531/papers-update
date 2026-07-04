@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-07-03
+Updated on 2026-07-04
 
 > Generated from the Hugging Face database.
 
@@ -3101,6 +3101,8 @@ Updated on 2026-07-03
 | 5 | Unknown | simonw/Moebius-ONNXImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/simonw/Moebius-ONNX) |
 | 5 | Unknown | wafer-bob/ASASRImage-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/wafer-bob/ASASR) |
 | 4 | Unknown | eric-venti-seeds/Sun-Direction-Lora-Flux2Klein9BImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/eric-venti-seeds/Sun-Direction-Lora-Flux2Klein9B) |
+| 20 | Unknown | Patil/Krea-2-depth-controlnetImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/Patil/Krea-2-depth-controlnet) |
+| 5 | Unknown | nynxz/NK2EImage-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/nynxz/NK2E) |
 
 ## Image-to-Text
 
@@ -5264,6 +5266,7 @@ Updated on 2026-07-03
 | Updated2 days ago | 358 | tencent/WeDLM-7B-InstructText | 8B | [Link](https://huggingface.co/tencent/WeDLM-7B-Instruct) |
 |  | 356 | Qwen/QwQ-32BText | Updatedabout 8 hours ago | [Link](https://huggingface.co/Qwen/QwQ-32B) |
 | Updated3 days ago | 355 | Nanbeige/Nanbeige4-3B-BaseText | 4B | [Link](https://huggingface.co/Nanbeige/Nanbeige4-3B-Base) |
+| Updated1 day ago | 354 | poolside/Laguna-XS-2 | 33B | [Link](https://huggingface.co/poolside/Laguna-XS-2.1) |
 | Updatedabout 6 hours ago | 351 | K-intelligence/Midm-2 | 12B | [Link](https://huggingface.co/K-intelligence/Midm-2.0-Base-Instruct) |
 | Updated1 day ago | 344 | CohereLabs/tiny-aya-baseText | 3B | [Link](https://huggingface.co/CohereLabs/tiny-aya-base) |
 | Updated5 days ago | 342 | CohereLabs/tiny-aya-waterText | 3B | [Link](https://huggingface.co/CohereLabs/tiny-aya-water) |
@@ -6489,6 +6492,7 @@ Updated on 2026-07-03
 | Updatedabout 4 hours ago | 12 | stepfun-ai/NextStep-1-LargeText-to-Image | 15B | [Link](https://huggingface.co/stepfun-ai/NextStep-1-Large) |
 | 59 | 12 | bytedance-research/UMOText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/bytedance-research/UMO) |
 | 154 | 12 | drbaph/Z-Image-Turbo-FP8Text-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/drbaph/Z-Image-Turbo-FP8) |
+|  | 12 | RudySen/Krea2-realism-V2Text-to-Image | Updated1 day ago | [Link](https://huggingface.co/RudySen/Krea2-realism-V2) |
 | 116 | 11 | Efficient-Large-Model/SANA1 | Updatedabout 6 hours ago | [Link](https://huggingface.co/Efficient-Large-Model/SANA1.5_4.8B_1024px) |
 | 687 | 11 | azaneko/HiDream-I1-Full-nf4Text-to-Image | Updated3 days ago | [Link](https://huggingface.co/azaneko/HiDream-I1-Full-nf4) |
 | 945 | 11 | calcuis/hidream-ggufText-to-Image | Updated20 minutes ago | [Link](https://huggingface.co/calcuis/hidream-gguf) |
@@ -6914,6 +6918,7 @@ Updated on 2026-07-03
 | 91 |  | victor/Krea-2-LoRA-magritteText-to-Image | Updated2 days ago | [Link](https://huggingface.co/victor/Krea-2-LoRA-magritte) |
 | 10 | Unknown | Winnougan/Z-Image-Base-Turbo-INT8-ConvrotText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/Winnougan/Z-Image-Base-Turbo-INT8-Convrot) |
 | 8 | Unknown | deadman44/Krea-2_LoRAText-to-Image | Updated2 days ago | [Link](https://huggingface.co/deadman44/Krea-2_LoRA) |
+| 7 | Unknown | Winnougan/Qwen-Image-INT8Text-to-Image | Updated3 days ago | [Link](https://huggingface.co/Winnougan/Qwen-Image-INT8) |
 
 ## Text-to-Speech
 
