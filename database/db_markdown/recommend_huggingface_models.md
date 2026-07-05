@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-07-04
+Updated on 2026-07-05
 
 > Generated from the Hugging Face database.
 
@@ -266,6 +266,7 @@ Updated on 2026-07-04
 | UpdatedApr 13 | 3.37k | groxaxo/Huihui-gemma-4-31B-it-abliterated-v2-GGUFAny-to-Any | 31B | [Link](https://huggingface.co/groxaxo/Huihui-gemma-4-31B-it-abliterated-v2-GGUF) |
 | Updatedabout 4 hours ago | 3 | osmapi/osmGemma-4-12B-uncensored-bf16Any-to-Any | 12B | [Link](https://huggingface.co/osmapi/osmGemma-4-12B-uncensored-bf16) |
 | Updated5 days ago | 3.36k | huihui-ai/Huihui-gemma-4-E4B-it-qat-q4_0-unquantized-abliterated-GGUFAny-to-Any | 7B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-E4B-it-qat-q4_0-unquantized-abliterated-GGUF) |
+| Updated1 day ago | 3.93k | mradermacher/gemma-4-12B-Queen-it-qat-q4_0-unquantized-i1-GGUFAny-to-Any | 12B | [Link](https://huggingface.co/mradermacher/gemma-4-12B-Queen-it-qat-q4_0-unquantized-i1-GGUF) |
 | 47 | 2 | PKU-Alignment/AnyRewardModelAny-to-Any | UpdatedDec 28, 2024 | [Link](https://huggingface.co/PKU-Alignment/AnyRewardModel) |
 | 585 | 2 | wnma3mz/Janus-Pro-1B-4bitAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/wnma3mz/Janus-Pro-1B-4bit) |
 | 3 | 2 | lintw/HealthGPT-XL32Any-to-Any | Updatedabout 18 hours ago | [Link](https://huggingface.co/lintw/HealthGPT-XL32) |
@@ -3103,6 +3104,7 @@ Updated on 2026-07-04
 | 4 | Unknown | eric-venti-seeds/Sun-Direction-Lora-Flux2Klein9BImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/eric-venti-seeds/Sun-Direction-Lora-Flux2Klein9B) |
 | 20 | Unknown | Patil/Krea-2-depth-controlnetImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/Patil/Krea-2-depth-controlnet) |
 | 5 | Unknown | nynxz/NK2EImage-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/nynxz/NK2E) |
+| 13 | Unknown | rzgar/Bernini-R-LightX2V-4step-lorasImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/rzgar/Bernini-R-LightX2V-4step-loras) |
 
 ## Image-to-Text
 
@@ -3732,6 +3734,7 @@ Updated on 2026-07-04
 | 5 | Unknown | PaddlePaddle/PP-OCRv6_tiny_recImage-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv6_tiny_rec) |
 | 2 | Unknown | Keyven/g-ocrImage-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/Keyven/g-ocr) |
 | 2 | Unknown | mlboydaisuke/Unlimited-OCR-CoreAIImage-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/mlboydaisuke/Unlimited-OCR-CoreAI) |
+| 2 | Unknown | Quazim0t0/Byrne-Docling-131MImage-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/Quazim0t0/Byrne-Docling-131M) |
 
 ## Image-to-Video
 
@@ -5991,6 +5994,7 @@ Updated on 2026-07-04
 | Updated5 days ago | 2.53k | Jiunsong/supergemma4-e4b-abliterated-mlxText | 1B | [Link](https://huggingface.co/Jiunsong/supergemma4-e4b-abliterated-mlx) |
 | Updatedabout 2 hours ago | 2.18k | HuggingFaceBio/Carbon-3BText | 3B | [Link](https://huggingface.co/HuggingFaceBio/Carbon-3B) |
 | Updatedabout 5 hours ago | 2 | openbmb/MiniCPM5-1BText | 1B | [Link](https://huggingface.co/openbmb/MiniCPM5-1B) |
+| Updated4 days ago | 2.9k | MaralGPT/MaralGPT-Mythos-9B-2606-GGUFText | 9B | [Link](https://huggingface.co/MaralGPT/MaralGPT-Mythos-9B-2606-GGUF) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
 | Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
@@ -7167,6 +7171,7 @@ Updated on 2026-07-04
 | 949 | 5 | contextboxai/ViZipvoiceText-to-Speech | Updatedabout 9 hours ago | [Link](https://huggingface.co/contextboxai/ViZipvoice) |
 | 598 | 5 | contextboxai/Kokoro-VietnameseText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/contextboxai/Kokoro-Vietnamese) |
 | 4 | 5 | OpenFormosa/BlueMagpie-TTSText-to-Speech | Updatedabout 15 hours ago | [Link](https://huggingface.co/OpenFormosa/BlueMagpie-TTS) |
+| 31 | 5 | mlx-community/supertonic-3-mlxText-to-Speech | Updated5 days ago | [Link](https://huggingface.co/mlx-community/supertonic-3-mlx) |
 | 5 | 4 | lunahr/csm-1b-safetensors-fp16Text-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-fp16) |
 | 2 | 4 | VAGOsolutions/SauerkrautTTS-Preview-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/VAGOsolutions/SauerkrautTTS-Preview-0.1) |
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
@@ -7207,6 +7212,7 @@ Updated on 2026-07-04
 | 6 | 4 | worstchan/WavTTSText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/worstchan/WavTTS) |
 | Updatedabout 8 hours ago | 4 | bosonai/higgs-audio-v3-tts-4bText-to-Speech | 5B | [Link](https://huggingface.co/bosonai/higgs-audio-v3-tts-4b) |
 | 27 | 4 | HiMind/Packed-TTSText-to-Speech | Updated5 days ago | [Link](https://huggingface.co/HiMind/Packed-TTS) |
+| 43 | 4 | oddadmix/Nabra-82M-v0 | Updated1 day ago | [Link](https://huggingface.co/oddadmix/Nabra-82M-v0.1) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 1.22k | 3 | CONCREE/Adia_TTSText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/CONCREE/Adia_TTS) |
