@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-07-06
+Updated on 2026-07-07
 
 > Generated from the Hugging Face database.
 
@@ -5997,6 +5997,7 @@ Updated on 2026-07-06
 | Updatedabout 2 hours ago | 2.18k | HuggingFaceBio/Carbon-3BText | 3B | [Link](https://huggingface.co/HuggingFaceBio/Carbon-3B) |
 | Updatedabout 5 hours ago | 2 | openbmb/MiniCPM5-1BText | 1B | [Link](https://huggingface.co/openbmb/MiniCPM5-1B) |
 | Updated4 days ago | 2.9k | MaralGPT/MaralGPT-Mythos-9B-2606-GGUFText | 9B | [Link](https://huggingface.co/MaralGPT/MaralGPT-Mythos-9B-2606-GGUF) |
+| Updatedabout 2 hours ago | 2 | tencent/Hy3Text | 299B | [Link](https://huggingface.co/tencent/Hy3) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
 | Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
@@ -6928,6 +6929,7 @@ Updated on 2026-07-06
 | 10 | Unknown | Winnougan/Z-Image-Base-Turbo-INT8-ConvrotText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/Winnougan/Z-Image-Base-Turbo-INT8-Convrot) |
 | 8 | Unknown | deadman44/Krea-2_LoRAText-to-Image | Updated2 days ago | [Link](https://huggingface.co/deadman44/Krea-2_LoRA) |
 | 7 | Unknown | Winnougan/Qwen-Image-INT8Text-to-Image | Updated3 days ago | [Link](https://huggingface.co/Winnougan/Qwen-Image-INT8) |
+| 11 | Unknown | SeFi-Image/SeFi-Image-5B-BaseText-to-Image | Updated14 days ago | [Link](https://huggingface.co/SeFi-Image/SeFi-Image-5B-Base) |
 
 ## Text-to-Speech
 
@@ -7762,6 +7764,7 @@ Updated on 2026-07-06
 | 3 | Unknown | karnewar/NeodragonText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/karnewar/Neodragon) |
 | 2 | Unknown | sediment1024/PhysRAGText-to-Video | Updated2 days ago | [Link](https://huggingface.co/sediment1024/PhysRAG) |
 | 2 | Unknown | mlboydaisuke/LTX-Video-2B-CoreAIText-to-Video | Updatedabout 14 hours ago | [Link](https://huggingface.co/mlboydaisuke/LTX-Video-2B-CoreAI) |
+| 4 | Unknown | SOLRICKS/ltx-2 | Updatedabout 2 hours ago | [Link](https://huggingface.co/SOLRICKS/ltx-2.3-product-ad-style) |
 
 ## Text2Text Generation
 
