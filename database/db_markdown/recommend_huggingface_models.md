@@ -3106,6 +3106,7 @@ Updated on 2026-07-07
 | 20 | Unknown | Patil/Krea-2-depth-controlnetImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/Patil/Krea-2-depth-controlnet) |
 | 5 | Unknown | nynxz/NK2EImage-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/nynxz/NK2E) |
 | 13 | Unknown | rzgar/Bernini-R-LightX2V-4step-lorasImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/rzgar/Bernini-R-LightX2V-4step-loras) |
+| 24 |  | FractalAIResearch/Kalaido-qwenedit-loraImage-to-Image | Updated7 days ago | [Link](https://huggingface.co/FractalAIResearch/Kalaido-qwenedit-lora) |
 
 ## Image-to-Text
 
@@ -6559,6 +6560,7 @@ Updated on 2026-07-07
 | 10 | 8 | lokiz666/Realgen-detection-modelsText-to-Image | Updated4 days ago | [Link](https://huggingface.co/lokiz666/Realgen-detection-models) |
 | 45 | 8 | SearchingMan/Z-Image-Turbo-student-adapterText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/SearchingMan/Z-Image-Turbo-student-adapter) |
 | Updatedabout 16 hours ago | 8 | Abiray/Krea-2-Turbo-GGUFText-to-Image | 13B | [Link](https://huggingface.co/Abiray/Krea-2-Turbo-GGUF) |
+| 299 | 8 | pmczip/Krea2Raw_LorasText-to-Image | Updatedabout 17 hours ago | [Link](https://huggingface.co/pmczip/Krea2Raw_Loras) |
 | 1.69k | 7 | silveroxides/Chroma-GGUFText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/silveroxides/Chroma-GGUF) |
 | 58 | 7 | Freepik/F-Lite-TextureText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Freepik/F-Lite-Texture) |
 | 41 | 7 | renderartist/simplevectorhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/simplevectorhidream) |
@@ -7770,6 +7772,8 @@ Updated on 2026-07-07
 | 2 | Unknown | sediment1024/PhysRAGText-to-Video | Updated2 days ago | [Link](https://huggingface.co/sediment1024/PhysRAG) |
 | 2 | Unknown | mlboydaisuke/LTX-Video-2B-CoreAIText-to-Video | Updatedabout 14 hours ago | [Link](https://huggingface.co/mlboydaisuke/LTX-Video-2B-CoreAI) |
 | 4 | Unknown | SOLRICKS/ltx-2 | Updatedabout 2 hours ago | [Link](https://huggingface.co/SOLRICKS/ltx-2.3-product-ad-style) |
+| 2 | Unknown | a3xrfgb/Fable5_Ltx2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/a3xrfgb/Fable5_Ltx2.3_vintage_style) |
+| 11 | Unknown | ID-Animator/ID-AnimatorText-to-Video | UpdatedMay 14, 2024 | [Link](https://huggingface.co/ID-Animator/ID-Animator) |
 
 ## Text2Text Generation
 
