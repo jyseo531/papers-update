@@ -2154,6 +2154,7 @@ Updated on 2026-07-07
 | Updatedabout 8 hours ago | 40 | microsoft/Phi-4-reasoning-vision-15BImage-Text-to-Text | 15B | [Link](https://huggingface.co/microsoft/Phi-4-reasoning-vision-15B) |
 | 132 | 40 | jason1966/CoPaw-Flash-9B-DataAnalyst-LoRAImage-Text-to-Text | Updated4 days ago | [Link](https://huggingface.co/jason1966/CoPaw-Flash-9B-DataAnalyst-LoRA) |
 | Updatedabout 7 hours ago | 39 | OpenGVLab/InternVL3_5-38BImage-Text-to-Text | 38B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-38B) |
+| Updatedabout 6 hours ago | 39 | bottlecapai/ThinkingCap-Qwen3 | 27B | [Link](https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B) |
 | 12.4k | 38 | zhibinlan/LLaVE-2BImage-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/zhibinlan/LLaVE-2B) |
 | 7.23k | 38 | nvidia/Cosmos-Reason1-7BImage-Text-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/nvidia/Cosmos-Reason1-7B) |
 | Updatedabout 14 hours ago | 38 | Qwen/Qwen3-VL-4B-ThinkingImage-Text-to-Text | 4B | [Link](https://huggingface.co/Qwen/Qwen3-VL-4B-Thinking) |
@@ -3735,6 +3736,7 @@ Updated on 2026-07-07
 | 2 | Unknown | Keyven/g-ocrImage-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/Keyven/g-ocr) |
 | 2 | Unknown | mlboydaisuke/Unlimited-OCR-CoreAIImage-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/mlboydaisuke/Unlimited-OCR-CoreAI) |
 | 2 | Unknown | Quazim0t0/Byrne-Docling-131MImage-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/Quazim0t0/Byrne-Docling-131M) |
+| 2 | Unknown | mlboydaisuke/GLM-OCR-CoreAIImage-to-Text | Updated3 days ago | [Link](https://huggingface.co/mlboydaisuke/GLM-OCR-CoreAI) |
 
 ## Image-to-Video
 
@@ -5588,6 +5590,7 @@ Updated on 2026-07-07
 | Updatedabout 10 hours ago | 36 | LiquidAI/LFM2-700MText | 0.7B | [Link](https://huggingface.co/LiquidAI/LFM2-700M) |
 | Updated1 day ago | 36 | inclusionAI/GroveMoE-InstText | 33B | [Link](https://huggingface.co/inclusionAI/GroveMoE-Inst) |
 | Updatedabout 13 hours ago | 36 | tencent/Youtu-LLM-2BText | 2B | [Link](https://huggingface.co/tencent/Youtu-LLM-2B) |
+| Updated1 day ago | 36 | SupraLabs/Supra-Router-51MText | 51.8M | [Link](https://huggingface.co/SupraLabs/Supra-Router-51M) |
 | 3.68k | 35 | arcee-ai/Arcee-Maestro-7B-PreviewText | Updated4 days ago | [Link](https://huggingface.co/arcee-ai/Arcee-Maestro-7B-Preview) |
 | 2.14k | 35 | google/gemma-3-1b-ptText | Updatedabout 17 hours ago | [Link](https://huggingface.co/google/gemma-3-1b-pt) |
 | 1.6k | 35 | Menlo/ReZero-v0 | Updatedabout 3 hours ago | [Link](https://huggingface.co/Menlo/ReZero-v0.1-llama-3.2-3b-it-grpo-250404) |
@@ -6648,6 +6651,7 @@ Updated on 2026-07-07
 | 634 | 4 | profpeng/blinkdoublepenetrationText-to-Image | Updated5 days ago | [Link](https://huggingface.co/profpeng/blinkdoublepenetration) |
 | 70 | 4 | Danrisi/Samsung_Qwen2512Text-to-Image | Updated1 day ago | [Link](https://huggingface.co/Danrisi/Samsung_Qwen2512) |
 | 193 | 4 | Danrisi/Nicegirls_qwen2512Text-to-Image | Updated3 days ago | [Link](https://huggingface.co/Danrisi/Nicegirls_qwen2512) |
+| Updatedabout 22 hours ago | 4 | wikeeyang/Krea2-Turbo-HD-V1Text-to-Image | 13B | [Link](https://huggingface.co/wikeeyang/Krea2-Turbo-HD-V1) |
 | 2.56k | 3.84k | WarriorMama777/OrangeMixsText-to-Image | UpdatedJan 7, 2024 | [Link](https://huggingface.co/WarriorMama777/OrangeMixs) |
 | Updatedabout 2 hours ago | 3.74k | calcuis/qwen-image-ggufText-to-Image | 20B | [Link](https://huggingface.co/calcuis/qwen-image-gguf) |
 | Updatedabout 9 hours ago | 3.35k | jeremyhola/LORAsText-to-Image | 4B | [Link](https://huggingface.co/jeremyhola/LORAs) |
@@ -6998,6 +7002,7 @@ Updated on 2026-07-07
 | UpdatedSep 1, 2023 | 141 | facebook/mms-tts-tgkText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-tgk) |
 | Updated4 days ago | 139 | mohammedaly22/VoiceTut-TTSText-to-Speech | 0.6B | [Link](https://huggingface.co/mohammedaly22/VoiceTut-TTS) |
 | 18.2k | 136 | parler-tts/parler-tts-mini-v1Text-to-Speech | UpdatedNov 25, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-mini-v1) |
+| Updated11 days ago | 132k | bosonai/higgs-tts-2-3b-baseText-to-Speech | 6B | [Link](https://huggingface.co/bosonai/higgs-tts-2-3b-base) |
 | Updatedabout 14 hours ago | 131 | nineninesix/kani-tts-400m-enText-to-Speech | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-400m-en) |
 | 19.6k | 127 | onnx-community/Kokoro-82M-ONNXText-to-Speech | Updated17 days ago | [Link](https://huggingface.co/onnx-community/Kokoro-82M-ONNX) |
 | UpdatedJun 1 | 123 | keanteng/sesame-csm-eliseText-to-Speech | 2B | [Link](https://huggingface.co/keanteng/sesame-csm-elise) |
