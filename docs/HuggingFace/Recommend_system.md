@@ -2137,6 +2137,7 @@ Updated on 2026-07-08
 | Updatedabout 21 hours ago | 47 | Kwai-Keye/Keye-VL-2 | 31B | [Link](https://huggingface.co/Kwai-Keye/Keye-VL-2.0-30B-A3B) |
 | 8 | 46 | CohereForAI/aya-vision-32bImage-Text-to-Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/CohereForAI/aya-vision-32b) |
 | 22.7k | 46 | OpenGVLab/InternVL2_5-8B-MPOImage-Text-to-Text | Updated30 days ago | [Link](https://huggingface.co/OpenGVLab/InternVL2_5-8B-MPO) |
+| Updated12 days ago | 46.8k | SC117/Qwen3 | 0.4B | [Link](https://huggingface.co/SC117/Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved-APEX-GGUF) |
 | 2.74k | 45 | OpenGVLab/InternVL2_5-78B-MPOImage-Text-to-Text | UpdatedFeb 5 | [Link](https://huggingface.co/OpenGVLab/InternVL2_5-78B-MPO) |
 | 1.59k | 44 | meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8Image-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8) |
 | Updatedabout 10 hours ago | 44 | internlm/JanusCoder-14BImage-Text-to-Text | 15B | [Link](https://huggingface.co/internlm/JanusCoder-14B) |
@@ -2178,6 +2179,7 @@ Updated on 2026-07-08
 | 4.01k | 31 | google/paligemma2-3b-mix-448Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-3b-mix-448) |
 | Updatedabout 11 hours ago | 31.6k | YannQi/R-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/YannQi/R-4B) |
 | Updatedabout 14 hours ago | 31 | HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-BalancedImage-Text-to-Text | 12B | [Link](https://huggingface.co/HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced) |
+| Updatedabout 11 hours ago | 31 | migtissera/Tess-4-27BImage-Text-to-Text | 28B | [Link](https://huggingface.co/migtissera/Tess-4-27B) |
 | UpdatedSep 21, 2024 | 30k | google/paligemma-3b-pt-224Image-Text-to-Text | 3B | [Link](https://huggingface.co/google/paligemma-3b-pt-224) |
 | Updatedabout 7 hours ago | 30 | Qwen/Qwen3-VL-32B-InstructImage-Text-to-Text | 33B | [Link](https://huggingface.co/Qwen/Qwen3-VL-32B-Instruct) |
 | Updatedabout 7 hours ago | 30 | tencent/Youtu-VL-4B-InstructImage-Text-to-Text | 5B | [Link](https://huggingface.co/tencent/Youtu-VL-4B-Instruct) |
@@ -3740,6 +3742,7 @@ Updated on 2026-07-08
 | 2 | Unknown | mlboydaisuke/Unlimited-OCR-CoreAIImage-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/mlboydaisuke/Unlimited-OCR-CoreAI) |
 | 2 | Unknown | Quazim0t0/Byrne-Docling-131MImage-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/Quazim0t0/Byrne-Docling-131M) |
 | 2 | Unknown | mlboydaisuke/GLM-OCR-CoreAIImage-to-Text | Updated3 days ago | [Link](https://huggingface.co/mlboydaisuke/GLM-OCR-CoreAI) |
+| 1 | Unknown | Karez/KHLRImage-to-Text | Updated10 days ago | [Link](https://huggingface.co/Karez/KHLR) |
 
 ## Image-to-Video
 
@@ -5357,6 +5360,7 @@ Updated on 2026-07-08
 | Updatedabout 10 hours ago | 159 | Qwen/Qwen3-235B-A22B-Instruct-2507Text | 235B | [Link](https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507) |
 | Updatedabout 5 hours ago | 159 | PerceptronAI/Isaac-0 | 3B | [Link](https://huggingface.co/PerceptronAI/Isaac-0.1) |
 | Updated6 days ago | 159 | AIDC-AI/Marco-DeepResearch-8BText | 8B | [Link](https://huggingface.co/AIDC-AI/Marco-DeepResearch-8B) |
+| Updated1 day ago | 159 | nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-BF16Text | 75B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-BF16) |
 | 6.18k | 156 | google/medgemma-27b-text-itText | Updated18 minutes ago | [Link](https://huggingface.co/google/medgemma-27b-text-it) |
 | Updatedabout 7 hours ago | 154 | tencent/Hunyuan-0 | 0.5B | [Link](https://huggingface.co/tencent/Hunyuan-0.5B-Instruct) |
 | 2.25k | 153 | open-thoughts/OpenThinker-32BText | Updated11 days ago | [Link](https://huggingface.co/open-thoughts/OpenThinker-32B) |
@@ -5540,6 +5544,7 @@ Updated on 2026-07-08
 | Updatedabout 10 hours ago | 47 | inclusionAI/Ring-1T-previewText | 1000B | [Link](https://huggingface.co/inclusionAI/Ring-1T-preview) |
 | Updatedabout 5 hours ago | 47 | Nanbeige/Nanbeige4 | 4B | [Link](https://huggingface.co/Nanbeige/Nanbeige4.1-3B) |
 | Updatedabout 20 hours ago | 47 | huihui-ai/Huihui-GLM-5 | 754B | [Link](https://huggingface.co/huihui-ai/Huihui-GLM-5.2-abliterated-GGUF) |
+| Updated1 day ago | 47 | nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4Text | 45B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4) |
 | 415 | 46 | LGAI-EXAONE/EXAONE-Deep-2 | Updated4 minutes ago | [Link](https://huggingface.co/LGAI-EXAONE/EXAONE-Deep-2.4B) |
 | 151 | 46 | bytedance-research/ChatTS-14BText | Updated2 days ago | [Link](https://huggingface.co/bytedance-research/ChatTS-14B) |
 | 13 | 46 | Qwen/Qwen3-4BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-4B) |
@@ -6941,6 +6946,7 @@ Updated on 2026-07-08
 | 8 | Unknown | deadman44/Krea-2_LoRAText-to-Image | Updated2 days ago | [Link](https://huggingface.co/deadman44/Krea-2_LoRA) |
 | 7 | Unknown | Winnougan/Qwen-Image-INT8Text-to-Image | Updated3 days ago | [Link](https://huggingface.co/Winnougan/Qwen-Image-INT8) |
 | 11 | Unknown | SeFi-Image/SeFi-Image-5B-BaseText-to-Image | Updated14 days ago | [Link](https://huggingface.co/SeFi-Image/SeFi-Image-5B-Base) |
+| 115 |  | ilkerzgi/krea-2-moody-golden-hour-editorial-loraText-to-Image | Updated12 days ago | [Link](https://huggingface.co/ilkerzgi/krea-2-moody-golden-hour-editorial-lora) |
 
 ## Text-to-Speech
 
@@ -7407,6 +7413,7 @@ Updated on 2026-07-08
 | 4 | Unknown | drbaph/ZONOS2-FP8Text-to-Speech | Updated6 days ago | [Link](https://huggingface.co/drbaph/ZONOS2-FP8) |
 | 9 | Unknown | netease-youdao/Confucius4-TTSText-to-Speech | Updated26 days ago | [Link](https://huggingface.co/netease-youdao/Confucius4-TTS) |
 | 6 | Unknown | prathoshap/vagdhenuText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/prathoshap/vagdhenu) |
+| 4 | Unknown | ResembleAI/chatterbox-nanoText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/ResembleAI/chatterbox-nano) |
 
 ## Text-to-Video
 
@@ -7781,6 +7788,7 @@ Updated on 2026-07-08
 | 4 | Unknown | SOLRICKS/ltx-2 | Updatedabout 2 hours ago | [Link](https://huggingface.co/SOLRICKS/ltx-2.3-product-ad-style) |
 | 2 | Unknown | a3xrfgb/Fable5_Ltx2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/a3xrfgb/Fable5_Ltx2.3_vintage_style) |
 | 11 | Unknown | ID-Animator/ID-AnimatorText-to-Video | UpdatedMay 14, 2024 | [Link](https://huggingface.co/ID-Animator/ID-Animator) |
+| 2 | Unknown | Qualcomm-AI-Research/NeodragonText-to-Video | Updated6 days ago | [Link](https://huggingface.co/Qualcomm-AI-Research/Neodragon) |
 
 ## Text2Text Generation
 
