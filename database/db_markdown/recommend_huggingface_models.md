@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-07-07
+Updated on 2026-07-08
 
 > Generated from the Hugging Face database.
 
@@ -3107,6 +3107,7 @@ Updated on 2026-07-07
 | 5 | Unknown | nynxz/NK2EImage-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/nynxz/NK2E) |
 | 13 | Unknown | rzgar/Bernini-R-LightX2V-4step-lorasImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/rzgar/Bernini-R-LightX2V-4step-loras) |
 | 24 |  | FractalAIResearch/Kalaido-qwenedit-loraImage-to-Image | Updated7 days ago | [Link](https://huggingface.co/FractalAIResearch/Kalaido-qwenedit-lora) |
+| 4 | Unknown | jdopensource/JoyAI-Image-Edit-Plus-ComfyUIImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/jdopensource/JoyAI-Image-Edit-Plus-ComfyUI) |
 
 ## Image-to-Text
 
@@ -3487,6 +3488,7 @@ Updated on 2026-07-07
 | 2.43k | 3 | mayocream/manga-ocrImage-to-Text | UpdatedNov 29, 2025 | [Link](https://huggingface.co/mayocream/manga-ocr) |
 | Updatedabout 12 hours ago | 3 | SupraLabs/SupraVL-Nano-900kImage-to-Text | 961k | [Link](https://huggingface.co/SupraLabs/SupraVL-Nano-900k) |
 | Updatedabout 9 hours ago | 3 | LoJexLLM/Unlimited-OCR-MLXImage-to-Text | 3B | [Link](https://huggingface.co/LoJexLLM/Unlimited-OCR-MLX) |
+| 33 | 3 | sensenova/SenseNova-Vision-7B-MoTImage-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/sensenova/SenseNova-Vision-7B-MoT) |
 | 51 | 2 | microsoft/git-base-msrvtt-qaImage-to-Text | UpdatedApr 4, 2024 | [Link](https://huggingface.co/microsoft/git-base-msrvtt-qa) |
 | 32 | 2 | baseplate/vit-gpt2-image-captioningImage-to-Text | UpdatedApr 5, 2023 | [Link](https://huggingface.co/baseplate/vit-gpt2-image-captioning) |
 | 38 | 2 | sbintuitions/sarashina2-vision-14bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-14b) |
@@ -5257,6 +5259,7 @@ Updated on 2026-07-07
 | Updatedabout 24 hours ago | 463 | PowerInfer/SmallThinker-4BA0 | 4B | [Link](https://huggingface.co/PowerInfer/SmallThinker-4BA0.6B-Instruct) |
 | Updatedabout 16 hours ago | 461 | MaziyarPanahi/VibeThinker-1 | 2B | [Link](https://huggingface.co/MaziyarPanahi/VibeThinker-1.5B-GGUF) |
 | Updated1 day ago | 452 | openbmb/BitCPM-CANN-8B-ggufText | 8B | [Link](https://huggingface.co/openbmb/BitCPM-CANN-8B-gguf) |
+| Updated1 day ago | 443 | tencent/Hy3-FP8Text | 299B | [Link](https://huggingface.co/tencent/Hy3-FP8) |
 | Updatedabout 5 hours ago | 441k | EssentialAI/rnj-1-instructText | 8B | [Link](https://huggingface.co/EssentialAI/rnj-1-instruct) |
 | Updatedabout 24 hours ago | 433 | Jiunsong/supergemma4-e4b-abliteratedText | 8B | [Link](https://huggingface.co/Jiunsong/supergemma4-e4b-abliterated) |
 | Updatedabout 11 hours ago | 427 | Jiunsong/SuperGemma4-31b-abliterated-GGUFText | 31B | [Link](https://huggingface.co/Jiunsong/SuperGemma4-31b-abliterated-GGUF) |
@@ -6119,6 +6122,7 @@ Updated on 2026-07-07
 | 51 | Unknown | Tesslate/OmniCoder-9BText | Updatedabout 5 hours ago | [Link](https://huggingface.co/Tesslate/OmniCoder-9B) |
 | 26 | Unknown | Tesslate/OmniCoder-2-9BText | Updatedabout 11 hours ago | [Link](https://huggingface.co/Tesslate/OmniCoder-2-9B) |
 | 16 | Unknown | ByteDance-Seed/Cola-DLMText | Updated2 days ago | [Link](https://huggingface.co/ByteDance-Seed/Cola-DLM) |
+| 47 | Unknown | nvidia/Nemotron-Labs-Audex-30B-A3BText | Updatedabout 9 hours ago | [Link](https://huggingface.co/nvidia/Nemotron-Labs-Audex-30B-A3B) |
 
 ## Text Ranking
 
@@ -6549,6 +6553,7 @@ Updated on 2026-07-07
 | 744 | 9 | drbaph/Z-Image-fp8Text-to-Image | Updated3 days ago | [Link](https://huggingface.co/drbaph/Z-Image-fp8) |
 | 2.18k | 9 | diroverflo/FLux_Klein_9B_NSFWText-to-Image | UpdatedFeb 24 | [Link](https://huggingface.co/diroverflo/FLux_Klein_9B_NSFW) |
 | Updatedabout 13 hours ago | 9 | RunDiffusion/Juggernaut-Z-ImageText-to-Image | 6B | [Link](https://huggingface.co/RunDiffusion/Juggernaut-Z-Image) |
+|  | 9 | mgwr/M87Text-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/mgwr/M87) |
 | 215 | 8 | tensorart/stable-diffusion-3 | Updated8 minutes ago | [Link](https://huggingface.co/tensorart/stable-diffusion-3.5-large-TurboX) |
 | 34 | 8 | renderartist/coloringbookhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/coloringbookhidream) |
 | 1.79k | 8 | MaxedOut/ComfyUI-Starter-PacksText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/MaxedOut/ComfyUI-Starter-Packs) |
@@ -6945,6 +6950,7 @@ Updated on 2026-07-07
 | Updated1 day ago | 920 | neuphonic/neutts-nano-q8-ggufText-to-Speech | 0.3B | [Link](https://huggingface.co/neuphonic/neutts-nano-q8-gguf) |
 | 1.09M | 916 | SWivid/F5-TTSText-to-Speech | UpdatedNov 8, 2024 | [Link](https://huggingface.co/SWivid/F5-TTS) |
 | Updated2 days ago | 863 | mlx-community/Voxtral-4B-TTS-2603-mlx-4bitText-to-Speech | 0.8B | [Link](https://huggingface.co/mlx-community/Voxtral-4B-TTS-2603-mlx-4bit) |
+| Updatedabout 10 hours ago | 819 | nineninesix/gepard-1 | 0.6B | [Link](https://huggingface.co/nineninesix/gepard-1.0) |
 | 1.16k | 785 | metavoiceio/metavoice-1B-v0 | UpdatedApr 3, 2024 | [Link](https://huggingface.co/metavoiceio/metavoice-1B-v0.1) |
 | UpdatedSep 1, 2023 | 775 | facebook/mms-tts-telText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-tel) |
 | 155k | 733 | microsoft/speecht5_ttsText-to-Speech | UpdatedNov 8, 2023 | [Link](https://huggingface.co/microsoft/speecht5_tts) |
@@ -7584,6 +7590,7 @@ Updated on 2026-07-07
 | 1 | 2 | ernie-research/MementoText-to-Video | Updatedabout 18 hours ago | [Link](https://huggingface.co/ernie-research/Memento) |
 | 906 | 2 | attashe/Bernini-Wan2 | Updatedabout 17 hours ago | [Link](https://huggingface.co/attashe/Bernini-Wan2.2-fp8-scaled) |
 |  | 2 | Alissonerdx/LTX-Best-Face-IDText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/Alissonerdx/LTX-Best-Face-ID) |
+| 4 | 2 | epfl-neuroai/NEvoText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/epfl-neuroai/NEvo) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
