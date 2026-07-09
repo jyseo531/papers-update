@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-07-08
+Updated on 2026-07-09
 
 > Generated from the Hugging Face database.
 
@@ -6058,6 +6058,7 @@ Updated on 2026-07-08
 | Updated2 days ago | 1.54k | bytkim/Qwen3 | 27B | [Link](https://huggingface.co/bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF) |
 | Updatedabout 19 hours ago | 1 | hotdogs/qwen3 | 39.8M | [Link](https://huggingface.co/hotdogs/qwen3.6-27b-fable5-lora) |
 | Updated1 day ago | 1.93k | squ11z1/Mythos-nanoText | 3B | [Link](https://huggingface.co/squ11z1/Mythos-nano) |
+| Updated1 day ago | 1.93k | RedHatAI/GLM-5 | 4B | [Link](https://huggingface.co/RedHatAI/GLM-5.2-speculator.dspark) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -6483,6 +6484,7 @@ Updated on 2026-07-08
 | 5.26k | 20 | mit-han-lab/svdq-int4-flux | Updated22 days ago | [Link](https://huggingface.co/mit-han-lab/svdq-int4-flux.1-dev) |
 | 2 | 20 | HiDream-ai/HiDream-I1-FullText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/HiDream-ai/HiDream-I1-Full) |
 | 8.81k | 20 | sd2-community/stable-diffusion-2-1Text-to-Image | UpdatedNov 15, 2025 | [Link](https://huggingface.co/sd2-community/stable-diffusion-2-1) |
+|  | 20 | ostris/krea2_turbo_style_referenceText-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/ostris/krea2_turbo_style_reference) |
 | 182 | 19 | GuangyuanSD/Z-Image-DistilledText-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/GuangyuanSD/Z-Image-Distilled) |
 |  | 18 | multimodalart/isometric-skeumorphic-3d-bnbText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/multimodalart/isometric-skeumorphic-3d-bnb) |
 | Updatedabout 3 hours ago | 18 | jayn7/Z-Image-Turbo-GGUFText-to-Image | 6B | [Link](https://huggingface.co/jayn7/Z-Image-Turbo-GGUF) |
