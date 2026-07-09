@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-07-09
+Updated on 2026-07-10
 
 > Generated from the Hugging Face database.
 
@@ -2072,6 +2072,7 @@ Updated on 2026-07-09
 | Updated5 days ago | 109k | bartowski/google_gemma-4-31B-it-GGUFImage-Text-to-Text | 31B | [Link](https://huggingface.co/bartowski/google_gemma-4-31B-it-GGUF) |
 | 16.1k | 106 | bytedance-research/UI-TARS-72B-DPOImage-Text-to-Text | UpdatedJan 25 | [Link](https://huggingface.co/bytedance-research/UI-TARS-72B-DPO) |
 | Updated4 days ago | 105 | Alibaba-DAMO-Academy/RynnBrain-30B-A3BImage-Text-to-Text | 17B | [Link](https://huggingface.co/Alibaba-DAMO-Academy/RynnBrain-30B-A3B) |
+| Updated2 days ago | 105 | MirilAI/Miril-Drone-2B-1Image-Text-to-Text | 5B | [Link](https://huggingface.co/MirilAI/Miril-Drone-2B-1) |
 | Updatedabout 1 hour ago | 101 | LiquidAI/LFM2-VL-3BImage-Text-to-Text | 3B | [Link](https://huggingface.co/LiquidAI/LFM2-VL-3B) |
 | Updated1 minute ago | 101 | baidu/Qianfan-OCRImage-Text-to-Text | 5B | [Link](https://huggingface.co/baidu/Qianfan-OCR) |
 | Updatedabout 12 hours ago | 100 | google/translategemma-4b-itImage-Text-to-Text | 5B | [Link](https://huggingface.co/google/translategemma-4b-it) |
@@ -3110,6 +3111,7 @@ Updated on 2026-07-09
 | 13 | Unknown | rzgar/Bernini-R-LightX2V-4step-lorasImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/rzgar/Bernini-R-LightX2V-4step-loras) |
 | 24 |  | FractalAIResearch/Kalaido-qwenedit-loraImage-to-Image | Updated7 days ago | [Link](https://huggingface.co/FractalAIResearch/Kalaido-qwenedit-lora) |
 | 4 | Unknown | jdopensource/JoyAI-Image-Edit-Plus-ComfyUIImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/jdopensource/JoyAI-Image-Edit-Plus-ComfyUI) |
+| 6 | Unknown | rzgar/Bernini-R-S2VImage-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/rzgar/Bernini-R-S2V) |
 
 ## Image-to-Text
 
@@ -3221,6 +3223,7 @@ Updated on 2026-07-09
 | 6.2k | 77 | unum-cloud/uform-gen2-qwen-500mImage-to-Text | UpdatedApr 24, 2024 | [Link](https://huggingface.co/unum-cloud/uform-gen2-qwen-500m) |
 | UpdatedNov 19, 2024 | 77 | ashok2216/vit-gpt2-image-captioning_COCO_FineTunedImage-to-Text | 0.2B | [Link](https://huggingface.co/ashok2216/vit-gpt2-image-captioning_COCO_FineTuned) |
 | 2.27k | 77 | lightonai/LightOnOCR-1B-1025Image-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/lightonai/LightOnOCR-1B-1025) |
+| Updated3 days ago | 76 | genshiai-daichi/baberu-ocrImage-to-Text | 0.1B | [Link](https://huggingface.co/genshiai-daichi/baberu-ocr) |
 | Updated11 days ago | 73 | nightmedia/UI-Venus-1 | 8B | [Link](https://huggingface.co/nightmedia/UI-Venus-1.5-30B-A3B-qx86-hi-mlx) |
 | 131 | 71 | keras-io/ocr-for-captchaImage-to-Text | UpdatedMay 29, 2022 | [Link](https://huggingface.co/keras-io/ocr-for-captcha) |
 | Updated5 days ago | 70 | virtuous7373/Lambent-Mira-EratoImage-to-Text | 27B | [Link](https://huggingface.co/virtuous7373/Lambent-Mira-Erato) |
@@ -3417,6 +3420,7 @@ Updated on 2026-07-09
 | Updatedabout 7 hours ago | 7 | PaddlePaddle/PP-OCRv6_small_rec_safetensorsImage-to-Text | 5.29M | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv6_small_rec_safetensors) |
 | Updatedabout 7 hours ago | 7 | PaddlePaddle/PP-OCRv6_small_det_safetensorsImage-to-Text | 2.48M | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv6_small_det_safetensors) |
 | Updatedabout 7 hours ago | 7 | PaddlePaddle/PP-OCRv6_tiny_det_safetensorsImage-to-Text | 438k | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv6_tiny_det_safetensors) |
+| Updatedabout 10 hours ago | 7 | UniParser/MolParser-MobileImage-to-Text | 9.98M | [Link](https://huggingface.co/UniParser/MolParser-Mobile) |
 | 624 | 6 | fhswf/TrOCR_Math_handwrittenImage-to-Text | UpdatedOct 21, 2024 | [Link](https://huggingface.co/fhswf/TrOCR_Math_handwritten) |
 | 511 | 6 | microsoft/trocr-base-strImage-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-base-str) |
 | Updated21 days ago | 6.36k | allenai/olmOCR-7B-0225-preview-FP8Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview-FP8) |
@@ -5550,6 +5554,7 @@ Updated on 2026-07-09
 | 13 | 46 | Qwen/Qwen3-4BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-4B) |
 | UpdatedApr 14 | 46 | inclusionAI/Ling-lite-baseText | 17B | [Link](https://huggingface.co/inclusionAI/Ling-lite-base) |
 | Updated1 day ago | 46 | FINAL-Bench/Darwin-27B-OpusText | 28B | [Link](https://huggingface.co/FINAL-Bench/Darwin-27B-Opus) |
+| 584 | 46 | nvidia/Nemotron-Labs-Audex-2BText | Updatedabout 21 hours ago | [Link](https://huggingface.co/nvidia/Nemotron-Labs-Audex-2B) |
 | 2.08k | 45 | google/gemma-3-1b-itText | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-1b-it) |
 | Updatedabout 2 hours ago | 45 | Jiunsong/supergemma4-26b-uncensored-gguf-v2Text | 25B | [Link](https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-gguf-v2) |
 | Updatedabout 17 hours ago | 45 | openbmb/MiniCPM5-1B-GGUFText | 1B | [Link](https://huggingface.co/openbmb/MiniCPM5-1B-GGUF) |
@@ -6010,6 +6015,7 @@ Updated on 2026-07-09
 | Updatedabout 5 hours ago | 2 | openbmb/MiniCPM5-1BText | 1B | [Link](https://huggingface.co/openbmb/MiniCPM5-1B) |
 | Updated4 days ago | 2.9k | MaralGPT/MaralGPT-Mythos-9B-2606-GGUFText | 9B | [Link](https://huggingface.co/MaralGPT/MaralGPT-Mythos-9B-2606-GGUF) |
 | Updatedabout 2 hours ago | 2 | tencent/Hy3Text | 299B | [Link](https://huggingface.co/tencent/Hy3) |
+| Updated1 day ago | 2.24k | GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUFText | 1B | [Link](https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
 | Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
@@ -6949,6 +6955,7 @@ Updated on 2026-07-09
 | 7 | Unknown | Winnougan/Qwen-Image-INT8Text-to-Image | Updated3 days ago | [Link](https://huggingface.co/Winnougan/Qwen-Image-INT8) |
 | 11 | Unknown | SeFi-Image/SeFi-Image-5B-BaseText-to-Image | Updated14 days ago | [Link](https://huggingface.co/SeFi-Image/SeFi-Image-5B-Base) |
 | 115 |  | ilkerzgi/krea-2-moody-golden-hour-editorial-loraText-to-Image | Updated12 days ago | [Link](https://huggingface.co/ilkerzgi/krea-2-moody-golden-hour-editorial-lora) |
+| 12 | Unknown | ostris/Krea2OstrisEditText-to-Image | Updatedabout 17 hours ago | [Link](https://huggingface.co/ostris/Krea2OstrisEdit) |
 
 ## Text-to-Speech
 
