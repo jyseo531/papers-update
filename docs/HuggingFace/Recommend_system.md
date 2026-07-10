@@ -141,6 +141,7 @@ Updated on 2026-07-10
 | Updated14 days ago | 29 | multimodal-reasoning-lab/Anole-Zebra-CoTAny-to-Any | 7B | [Link](https://huggingface.co/multimodal-reasoning-lab/Anole-Zebra-CoT) |
 | Updated4 days ago | 29 | PaDT-MLLM/PaDT_Pro_7BAny-to-Any | 8B | [Link](https://huggingface.co/PaDT-MLLM/PaDT_Pro_7B) |
 | Updated5 days ago | 28 | sensenova/SenseNova-U1-8B-MoT-InterleavedAny-to-Any | 18B | [Link](https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-Interleaved) |
+| 388 | 28 | sensenova/SenseNova-Vision-7B-MoTAny-to-Any | Updatedabout 5 hours ago | [Link](https://huggingface.co/sensenova/SenseNova-Vision-7B-MoT) |
 | UpdatedMar 13, 2025 | 27 | ericrisco/gemma-3-4b-reasoningAny-to-Any | 4B | [Link](https://huggingface.co/ericrisco/gemma-3-4b-reasoning) |
 | UpdatedJun 17 | 26.1k | unsloth/Llama-4-Scout-17B-16E-Instruct-GGUFAny-to-Any | 108B | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct-GGUF) |
 | Updatedabout 2 hours ago | 24 | inclusionAI/Ming-Lite-Omni-1 | 19B | [Link](https://huggingface.co/inclusionAI/Ming-Lite-Omni-1.5) |
@@ -2467,6 +2468,7 @@ Updated on 2026-07-10
 | Updated4 days ago | 2.27k | zlaabsi/Qwen3 | 27B | [Link](https://huggingface.co/zlaabsi/Qwen3.6-27B-OTQ-GGUF) |
 | Updated2 days ago | 2.66k | byteshape/Qwen3 | 36B | [Link](https://huggingface.co/byteshape/Qwen3.6-35B-A3B-MTP-GGUF) |
 | Updated7 days ago | 2.83k | google/gemma-4-31B-it-qat-q4_0-unquantizedImage-Text-to-Text | 33B | [Link](https://huggingface.co/google/gemma-4-31B-it-qat-q4_0-unquantized) |
+| Updatedabout 19 hours ago | 2.28k | migtissera/Tess-4-27B-GGUFImage-Text-to-Text | 27B | [Link](https://huggingface.co/migtissera/Tess-4-27B-GGUF) |
 | 2.72k | 1.62k | microsoft/OmniParserImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/microsoft/OmniParser) |
 | 100k | 1.4k | stepfun-ai/GOT-OCR2_0Image-Text-to-Text | Updated21 days ago | [Link](https://huggingface.co/stepfun-ai/GOT-OCR2_0) |
 | 1.78M | 1.42k | microsoft/Florence-2-largeImage-Text-to-Text | UpdatedDec 8, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-large) |
@@ -3164,6 +3166,7 @@ Updated on 2026-07-10
 | UpdatedJul 31, 2025 | 236 | mradermacher/QwenStoryteller2-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/mradermacher/QwenStoryteller2-GGUF) |
 | UpdatedMar 8 | 234 | convergence-ai/proxy-lite-3bImage-to-Text | 4B | [Link](https://huggingface.co/convergence-ai/proxy-lite-3b) |
 | Updatedabout 13 hours ago | 234 | PinkPixel/Pixel-2B-GGUFImage-to-Text | 2B | [Link](https://huggingface.co/PinkPixel/Pixel-2B-GGUF) |
+| UpdatedJan 11 | 234 | noctrex/Mistral-Nemo-Instruct-2407-heretic-noslop-GGUFImage-to-Text | 12B | [Link](https://huggingface.co/noctrex/Mistral-Nemo-Instruct-2407-heretic-noslop-GGUF) |
 | Updated2 days ago | 230 | HelloKKMe/GTA1-32BImage-to-Text | 33B | [Link](https://huggingface.co/HelloKKMe/GTA1-32B) |
 | UpdatedMar 28 | 229 | David-Magdy/TR_OCR_LARGEImage-to-Text | 0.6B | [Link](https://huggingface.co/David-Magdy/TR_OCR_LARGE) |
 | Updated14 days ago | 217 | sugam24/dots-ocr-awq-4bitImage-to-Text | 0.8B | [Link](https://huggingface.co/sugam24/dots-ocr-awq-4bit) |
@@ -3748,6 +3751,7 @@ Updated on 2026-07-10
 | 2 | Unknown | Quazim0t0/Byrne-Docling-131MImage-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/Quazim0t0/Byrne-Docling-131M) |
 | 2 | Unknown | mlboydaisuke/GLM-OCR-CoreAIImage-to-Text | Updated3 days ago | [Link](https://huggingface.co/mlboydaisuke/GLM-OCR-CoreAI) |
 | 1 | Unknown | Karez/KHLRImage-to-Text | Updated10 days ago | [Link](https://huggingface.co/Karez/KHLR) |
+| 1 | Unknown | chanhanyang/Easy-to-use-OCR-Handwritten-MathmaticsImage-to-Text | UpdatedNov 15, 2025 | [Link](https://huggingface.co/chanhanyang/Easy-to-use-OCR-Handwritten-Mathmatics) |
 
 ## Image-to-Video
 
@@ -7426,6 +7430,7 @@ Updated on 2026-07-10
 | 6 | Unknown | prathoshap/vagdhenuText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/prathoshap/vagdhenu) |
 | 4 | Unknown | ResembleAI/chatterbox-nanoText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/ResembleAI/chatterbox-nano) |
 | 3 | Unknown | ResembleAI/chatterbox-flashText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/ResembleAI/chatterbox-flash) |
+| 3 | Unknown | XXH333/WordVoice-base-0 | Updated8 days ago | [Link](https://huggingface.co/XXH333/WordVoice-base-0.5B) |
 
 ## Text-to-Video
 
@@ -7610,6 +7615,7 @@ Updated on 2026-07-10
 | 906 | 2 | attashe/Bernini-Wan2 | Updatedabout 17 hours ago | [Link](https://huggingface.co/attashe/Bernini-Wan2.2-fp8-scaled) |
 |  | 2 | Alissonerdx/LTX-Best-Face-IDText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/Alissonerdx/LTX-Best-Face-ID) |
 | 4 | 2 | epfl-neuroai/NEvoText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/epfl-neuroai/NEvo) |
+| 27 | 2 | Qualcomm-AI-Research/mobilewanText-to-Video | Updatedabout 5 hours ago | [Link](https://huggingface.co/Qualcomm-AI-Research/mobilewan) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
