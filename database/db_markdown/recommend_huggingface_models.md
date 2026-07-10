@@ -3642,6 +3642,7 @@ Updated on 2026-07-10
 | 262 | 1 | docling-project/MarkushGrapher-2Image-to-Text | UpdatedMar 23 | [Link](https://huggingface.co/docling-project/MarkushGrapher-2) |
 | 45 | 1 | PaddlePaddle/PicoDet-S_layout_17clsImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PicoDet-S_layout_17cls) |
 | Updated9 days ago | 1 | Teklia/Qwen2 | 8B | [Link](https://huggingface.co/Teklia/Qwen2.5-VL-7B-DAI-CReTDHI-RecordGold-ATR) |
+| Updated2 days ago | 1.41k | mradermacher/dots | 2B | [Link](https://huggingface.co/mradermacher/dots.ocr-i1-GGUF) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -6956,6 +6957,7 @@ Updated on 2026-07-10
 | 11 | Unknown | SeFi-Image/SeFi-Image-5B-BaseText-to-Image | Updated14 days ago | [Link](https://huggingface.co/SeFi-Image/SeFi-Image-5B-Base) |
 | 115 |  | ilkerzgi/krea-2-moody-golden-hour-editorial-loraText-to-Image | Updated12 days ago | [Link](https://huggingface.co/ilkerzgi/krea-2-moody-golden-hour-editorial-lora) |
 | 12 | Unknown | ostris/Krea2OstrisEditText-to-Image | Updatedabout 17 hours ago | [Link](https://huggingface.co/ostris/Krea2OstrisEdit) |
+| 12 | Unknown | John2386/fullgreedText-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/John2386/fullgreed) |
 
 ## Text-to-Speech
 
@@ -7423,6 +7425,7 @@ Updated on 2026-07-10
 | 9 | Unknown | netease-youdao/Confucius4-TTSText-to-Speech | Updated26 days ago | [Link](https://huggingface.co/netease-youdao/Confucius4-TTS) |
 | 6 | Unknown | prathoshap/vagdhenuText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/prathoshap/vagdhenu) |
 | 4 | Unknown | ResembleAI/chatterbox-nanoText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/ResembleAI/chatterbox-nano) |
+| 3 | Unknown | ResembleAI/chatterbox-flashText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/ResembleAI/chatterbox-flash) |
 
 ## Text-to-Video
 
@@ -7798,6 +7801,7 @@ Updated on 2026-07-10
 | 2 | Unknown | a3xrfgb/Fable5_Ltx2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/a3xrfgb/Fable5_Ltx2.3_vintage_style) |
 | 11 | Unknown | ID-Animator/ID-AnimatorText-to-Video | UpdatedMay 14, 2024 | [Link](https://huggingface.co/ID-Animator/ID-Animator) |
 | 2 | Unknown | Qualcomm-AI-Research/NeodragonText-to-Video | Updated6 days ago | [Link](https://huggingface.co/Qualcomm-AI-Research/Neodragon) |
+| 47 | Unknown | PAIR/StreamingT2VText-to-Video | UpdatedNov 18, 2024 | [Link](https://huggingface.co/PAIR/StreamingT2V) |
 
 ## Text2Text Generation
 
