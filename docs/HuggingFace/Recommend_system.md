@@ -2499,6 +2499,7 @@ Updated on 2026-07-11
 | Updated4 days ago | 1.42k | Jiunsong/supergemma4-26b-abliterated-multimodal-mlx-4bitImage-Text-to-Text | 5B | [Link](https://huggingface.co/Jiunsong/supergemma4-26b-abliterated-multimodal-mlx-4bit) |
 | Updatedabout 9 hours ago | 1.16k | numind/NuExtract3Image-Text-to-Text | 5B | [Link](https://huggingface.co/numind/NuExtract3) |
 | Updated1 day ago | 1.37k | internlm/Intern-S2-Preview-FP8Image-Text-to-Text | 36B | [Link](https://huggingface.co/internlm/Intern-S2-Preview-FP8) |
+| Updated1 day ago | 1.14k | empero-ai/Qwythos-9B-v2-GGUFImage-Text-to-Text | 9B | [Link](https://huggingface.co/empero-ai/Qwythos-9B-v2-GGUF) |
 | 1.07M |  | meta-llama/Llama-3 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) |
 | 1.49M |  | Qwen/Qwen2-VL-7B-InstructImage-Text-to-Text | Updated19 days ago | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) |
 | 288k |  | microsoft/Phi-3 | UpdatedSep 26, 2024 | [Link](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) |
@@ -6021,6 +6022,7 @@ Updated on 2026-07-11
 | Updated4 days ago | 2.9k | MaralGPT/MaralGPT-Mythos-9B-2606-GGUFText | 9B | [Link](https://huggingface.co/MaralGPT/MaralGPT-Mythos-9B-2606-GGUF) |
 | Updatedabout 2 hours ago | 2 | tencent/Hy3Text | 299B | [Link](https://huggingface.co/tencent/Hy3) |
 | Updated1 day ago | 2.24k | GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUFText | 1B | [Link](https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF) |
+| Updated4 days ago | 2.8k | josefprusa/ThinkingCap-Qwen3 | 6B | [Link](https://huggingface.co/josefprusa/ThinkingCap-Qwen3.6-27B-int4-AutoRound-v1) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
 | Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
@@ -7290,6 +7292,7 @@ Updated on 2026-07-11
 | 74 | 3 | CompactAI-O/Flare-TTS-28MText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/CompactAI-O/Flare-TTS-28M) |
 | 34 | 3 | modernjack3/Dramabox_DiT_SulfurText-to-Speech | Updatedabout 3 hours ago | [Link](https://huggingface.co/modernjack3/Dramabox_DiT_Sulfur) |
 | Updated5 days ago | 3.11k | multimodalart/higgs-audio-v3-tts-4b-transformersText-to-Speech | 5B | [Link](https://huggingface.co/multimodalart/higgs-audio-v3-tts-4b-transformers) |
+| 23 | 3 | avris/kokoro-hebrew-saspeechText-to-Speech | Updated7 days ago | [Link](https://huggingface.co/avris/kokoro-hebrew-saspeech) |
 | 2.36M | 2.41k | coqui/XTTS-v2Text-to-Speech | UpdatedDec 11, 2023 | [Link](https://huggingface.co/coqui/XTTS-v2) |
 | 153 | 2 | mmwillet2/Dia_GGUFText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/mmwillet2/Dia_GGUF) |
 | 55 | 2 | unsloth/Spark-TTS-0 | Updated2 days ago | [Link](https://huggingface.co/unsloth/Spark-TTS-0.5B) |
@@ -7809,6 +7812,7 @@ Updated on 2026-07-11
 | 2 | Unknown | Qualcomm-AI-Research/NeodragonText-to-Video | Updated6 days ago | [Link](https://huggingface.co/Qualcomm-AI-Research/Neodragon) |
 | 47 | Unknown | PAIR/StreamingT2VText-to-Video | UpdatedNov 18, 2024 | [Link](https://huggingface.co/PAIR/StreamingT2V) |
 | 2 | Unknown | realrebelai/LingBot_ComfyUIText-to-Video | Updatedabout 11 hours ago | [Link](https://huggingface.co/realrebelai/LingBot_ComfyUI) |
+| 2 | Unknown | MeiGen-AI/OPSD-VText-to-Video | Updated3 days ago | [Link](https://huggingface.co/MeiGen-AI/OPSD-V) |
 
 ## Text2Text Generation
 
