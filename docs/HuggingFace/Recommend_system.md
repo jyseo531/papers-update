@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-07-10
+Updated on 2026-07-11
 
 > Generated from the Hugging Face database.
 
@@ -7808,6 +7808,7 @@ Updated on 2026-07-10
 | 11 | Unknown | ID-Animator/ID-AnimatorText-to-Video | UpdatedMay 14, 2024 | [Link](https://huggingface.co/ID-Animator/ID-Animator) |
 | 2 | Unknown | Qualcomm-AI-Research/NeodragonText-to-Video | Updated6 days ago | [Link](https://huggingface.co/Qualcomm-AI-Research/Neodragon) |
 | 47 | Unknown | PAIR/StreamingT2VText-to-Video | UpdatedNov 18, 2024 | [Link](https://huggingface.co/PAIR/StreamingT2V) |
+| 2 | Unknown | realrebelai/LingBot_ComfyUIText-to-Video | Updatedabout 11 hours ago | [Link](https://huggingface.co/realrebelai/LingBot_ComfyUI) |
 
 ## Text2Text Generation
 
