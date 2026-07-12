@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-07-11
+Updated on 2026-07-12
 
 > Generated from the Hugging Face database.
 
@@ -67,6 +67,7 @@ Updated on 2026-07-11
 | Updatedabout 8 hours ago | 191 | lijiang/Omni-DiffusionAny-to-Any | 8B | [Link](https://huggingface.co/lijiang/Omni-Diffusion) |
 | Updated27 days ago | 188 | rizkysulaeman/Gemma3N-4B-Conv-MM-Img-Audio-Text-Code-Reasoning-Q8_0-GGUFAny-to-Any | 7B | [Link](https://huggingface.co/rizkysulaeman/Gemma3N-4B-Conv-MM-Img-Audio-Text-Code-Reasoning-Q8_0-GGUF) |
 | Updatedabout 8 hours ago | 181 | google/gemma-4-E4B-it-qat-mobile-ctAny-to-Any | 9B | [Link](https://huggingface.co/google/gemma-4-E4B-it-qat-mobile-ct) |
+| UpdatedJun 3 | 179 | mlx-community/gemma-4-12B-6bitAny-to-Any | 3B | [Link](https://huggingface.co/mlx-community/gemma-4-12B-6bit) |
 | Updated1 day ago | 177 | mlx-community/gemma-4-12B-it-assistant-bf16Any-to-Any | 0.4B | [Link](https://huggingface.co/mlx-community/gemma-4-12B-it-assistant-bf16) |
 | Updatedabout 13 hours ago | 168 | huihui-ai/Huihui-gemma-4-12B-it-abliteratedAny-to-Any | 12B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-12B-it-abliterated) |
 | Updated12 days ago | 166 | Saktsant/Qwen3-Omni-30B-A3B-Instruct-AWQAny-to-Any | 10B | [Link](https://huggingface.co/Saktsant/Qwen3-Omni-30B-A3B-Instruct-AWQ) |
@@ -3753,6 +3754,7 @@ Updated on 2026-07-11
 | 2 | Unknown | mlboydaisuke/GLM-OCR-CoreAIImage-to-Text | Updated3 days ago | [Link](https://huggingface.co/mlboydaisuke/GLM-OCR-CoreAI) |
 | 1 | Unknown | Karez/KHLRImage-to-Text | Updated10 days ago | [Link](https://huggingface.co/Karez/KHLR) |
 | 1 | Unknown | chanhanyang/Easy-to-use-OCR-Handwritten-MathmaticsImage-to-Text | UpdatedNov 15, 2025 | [Link](https://huggingface.co/chanhanyang/Easy-to-use-OCR-Handwritten-Mathmatics) |
+| 1 | Unknown | AlienKevin/ipa_ocrImage-to-Text | UpdatedMay 9, 2023 | [Link](https://huggingface.co/AlienKevin/ipa_ocr) |
 
 ## Image-to-Video
 
@@ -5490,6 +5492,7 @@ Updated on 2026-07-11
 | Updated1 day ago | 69 | kakaocorp/kanana-2-30b-a3b-thinking-2601Text | 31B | [Link](https://huggingface.co/kakaocorp/kanana-2-30b-a3b-thinking-2601) |
 | Updatedabout 3 hours ago | 67 | Qwen/Qwen3-235B-A22B-Thinking-2507Text | 235B | [Link](https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507) |
 | Updatedabout 7 hours ago | 67 | DavidAU/Llama3 | 8B | [Link](https://huggingface.co/DavidAU/Llama3.3-8B-Instruct-Thinking-Claude-4.5-Opus-High-Reasoning) |
+| Updatedabout 2 hours ago | 67 | empero-ai/Qwythos-9B-v2Text | 10B | [Link](https://huggingface.co/empero-ai/Qwythos-9B-v2) |
 | Updatedabout 19 hours ago | 66 | nvidia/Llama-3_3-Nemotron-Super-49B-v1_5Text | 50B | [Link](https://huggingface.co/nvidia/Llama-3_3-Nemotron-Super-49B-v1_5) |
 | Updatedabout 22 hours ago | 66 | unsloth/Qwen-AgentWorld-35B-A3B-GGUFText | 35B | [Link](https://huggingface.co/unsloth/Qwen-AgentWorld-35B-A3B-GGUF) |
 | 172 | 65 | microsoft/Phi-4-reasoningText | Updated16 days ago | [Link](https://huggingface.co/microsoft/Phi-4-reasoning) |
@@ -7293,6 +7296,7 @@ Updated on 2026-07-11
 | 34 | 3 | modernjack3/Dramabox_DiT_SulfurText-to-Speech | Updatedabout 3 hours ago | [Link](https://huggingface.co/modernjack3/Dramabox_DiT_Sulfur) |
 | Updated5 days ago | 3.11k | multimodalart/higgs-audio-v3-tts-4b-transformersText-to-Speech | 5B | [Link](https://huggingface.co/multimodalart/higgs-audio-v3-tts-4b-transformers) |
 | 23 | 3 | avris/kokoro-hebrew-saspeechText-to-Speech | Updated7 days ago | [Link](https://huggingface.co/avris/kokoro-hebrew-saspeech) |
+| 12 | 3 | MenaVoice/KasbahTTS-V0Text-to-Speech | Updated1 day ago | [Link](https://huggingface.co/MenaVoice/KasbahTTS-V0) |
 | 2.36M | 2.41k | coqui/XTTS-v2Text-to-Speech | UpdatedDec 11, 2023 | [Link](https://huggingface.co/coqui/XTTS-v2) |
 | 153 | 2 | mmwillet2/Dia_GGUFText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/mmwillet2/Dia_GGUF) |
 | 55 | 2 | unsloth/Spark-TTS-0 | Updated2 days ago | [Link](https://huggingface.co/unsloth/Spark-TTS-0.5B) |
