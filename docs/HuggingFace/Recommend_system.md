@@ -7536,6 +7536,7 @@ Updated on 2026-07-12
 | Updated14 minutes ago | 4 | SulphurAI/Sulphur-2-baseText-to-Video | 9B | [Link](https://huggingface.co/SulphurAI/Sulphur-2-base) |
 | 295 | 4 | vrgamedevgirl84/LTX2 | UpdatedApr 24 | [Link](https://huggingface.co/vrgamedevgirl84/LTX2.3_Cozy_Felt_Style_LoRa) |
 | 233 | 4 | FastVideo/FastWan-QAD-FP8-1 | Updated3 days ago | [Link](https://huggingface.co/FastVideo/FastWan-QAD-FP8-1.3B) |
+| 60 | 4 | ALXOPENSOURCE/lingbot-video-1 | Updated1 day ago | [Link](https://huggingface.co/ALXOPENSOURCE/lingbot-video-1.3b-fp8) |
 | 4.64k | 3 | guoyww/animatediff-motion-lora-pan-rightText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-pan-right) |
 | 28 | 3 | finetrainers/3dgs-v0Text-to-Video | UpdatedJan 29 | [Link](https://huggingface.co/finetrainers/3dgs-v0) |
 | 1 | 3 | longlian/text-to-video-lvd-msText-to-Video | UpdatedMay 1, 2024 | [Link](https://huggingface.co/longlian/text-to-video-lvd-ms) |
@@ -7554,6 +7555,7 @@ Updated on 2026-07-12
 | 5 | 3 | OmerHagage/ltx2-greenscreen-avatar-ic-lora-vertical-v1Text-to-Video | Updatedabout 18 hours ago | [Link](https://huggingface.co/OmerHagage/ltx2-greenscreen-avatar-ic-lora-vertical-v1) |
 | Updatedabout 4 hours ago | 3 | neuregex/Bernini-R-GGUFText-to-Video | 14B | [Link](https://huggingface.co/neuregex/Bernini-R-GGUF) |
 | 54 | 3 | FastVideo/FastWan-QAD-1 | Updatedabout 4 hours ago | [Link](https://huggingface.co/FastVideo/FastWan-QAD-1.3B-SA2) |
+| Updated5 minutes ago | 3 | realrebelai/LingBot-30B-3B_GGUF_ComfyUIText-to-Video | 30B | [Link](https://huggingface.co/realrebelai/LingBot-30B-3B_GGUF_ComfyUI) |
 | 69 | 2 | obvious-research/onlyflowText-to-Video | Updated5 days ago | [Link](https://huggingface.co/obvious-research/onlyflow) |
 | 42 | 2 | jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIEText-to-Video | Updated7 days ago | [Link](https://huggingface.co/jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIE) |
 | 10 | 2 | vdo/Hotshot-XLText-to-Video | UpdatedOct 4, 2023 | [Link](https://huggingface.co/vdo/Hotshot-XL) |
