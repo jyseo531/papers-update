@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-07-12
+Updated on 2026-07-13
 
 > Generated from the Hugging Face database.
 
@@ -214,6 +214,7 @@ Updated on 2026-07-12
 | Updatedabout 10 hours ago | 6 | huihui-ai/Huihui-gemma-4-26B-A4B-it-abliteratedAny-to-Any | 27B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-26B-A4B-it-abliterated) |
 | Updated15 days ago | 6.42k | DavidAU/gemma-4-E4B-it-The-DECKARD-Expresso-Universe-HERETIC-UNCENSORED-Thinking-GGUFAny-to-Any | 8B | [Link](https://huggingface.co/DavidAU/gemma-4-E4B-it-The-DECKARD-Expresso-Universe-HERETIC-UNCENSORED-Thinking-GGUF) |
 | Updatedabout 9 hours ago | 6 | OpenYourMind/gemma-4-12B-it-abliterated-uncensoredAny-to-Any | 12B | [Link](https://huggingface.co/OpenYourMind/gemma-4-12B-it-abliterated-uncensored) |
+| UpdatedJun 11 | 6.65k | huihui-ai/Huihui-gemma-4-E2B-it-qat-q4_0-unquantized-abliterated-GGUFAny-to-Any | 5B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-E2B-it-qat-q4_0-unquantized-abliterated-GGUF) |
 | 1.63k | 5 | PKU-Alignment/AA-chameleon-7b-plusAny-to-Any | UpdatedSep 13, 2024 | [Link](https://huggingface.co/PKU-Alignment/AA-chameleon-7b-plus) |
 | 2.67k | 5 | Junfeng5/Liquid_V1_7BAny-to-Any | Updated8 days ago | [Link](https://huggingface.co/Junfeng5/Liquid_V1_7B) |
 | UpdatedMay 9 | 5.89k | unsloth/gemma-3-27b-it-qat-GGUFAny-to-Any | 27B | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-qat-GGUF) |
@@ -3186,6 +3187,7 @@ Updated on 2026-07-12
 | UpdatedNov 26, 2025 | 164k | Qwen/Qwen3-VL-235B-A22B-InstructImage-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct) |
 | Updated1 day ago | 163 | HelloKKMe/GTA1-72BImage-to-Text | 73B | [Link](https://huggingface.co/HelloKKMe/GTA1-72B) |
 | UpdatedMay 22, 2025 | 161k | meta-llama/Llama-4-Maverick-17B-128E-InstructImage-to-Text | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct) |
+| UpdatedApr 4 | 160 | mradermacher/Hulu-Med-Flash-Preview-27B-i1-GGUFImage-to-Text | 27B | [Link](https://huggingface.co/mradermacher/Hulu-Med-Flash-Preview-27B-i1-GGUF) |
 | 170k | 159 | microsoft/kosmos-2-patch14-224Image-to-Text | UpdatedNov 28, 2023 | [Link](https://huggingface.co/microsoft/kosmos-2-patch14-224) |
 | UpdatedApr 27, 2024 | 158 | gospacedev/blip-image-captioning-base-bf16Image-to-Text | 0.2B | [Link](https://huggingface.co/gospacedev/blip-image-captioning-base-bf16) |
 | Updated4 days ago | 158 | Awarebeyond/receipt-donutImage-to-Text | 0.2B | [Link](https://huggingface.co/Awarebeyond/receipt-donut) |
@@ -5907,6 +5909,7 @@ Updated on 2026-07-12
 | Updatedabout 16 hours ago | 11.6k | unsloth/MiniMax-M2-GGUFText | 229B | [Link](https://huggingface.co/unsloth/MiniMax-M2-GGUF) |
 | Updatedabout 3 hours ago | 11 | LGAI-EXAONE/K-EXAONE-236B-A23BText | 237B | [Link](https://huggingface.co/LGAI-EXAONE/K-EXAONE-236B-A23B) |
 | Updatedabout 10 hours ago | 11 | nvidia/Nemotron-Labs-Diffusion-14BText | 14B | [Link](https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-14B) |
+| Updated3 days ago | 11k | satgeze/Hy3-1M-GGUFText | 295B | [Link](https://huggingface.co/satgeze/Hy3-1M-GGUF) |
 | Updatedabout 1 hour ago | 10.3k | unsloth/gemma-3-270m-it-GGUFText | 0.3B | [Link](https://huggingface.co/unsloth/gemma-3-270m-it-GGUF) |
 | Updated1 day ago | 10 | FINAL-Bench/Darwin-35B-A3B-OpusText | 36B | [Link](https://huggingface.co/FINAL-Bench/Darwin-35B-A3B-Opus) |
 | Updatedabout 20 hours ago | 10 | lordx64/Qwable-v1Text | 36B | [Link](https://huggingface.co/lordx64/Qwable-v1) |
@@ -5952,6 +5955,7 @@ Updated on 2026-07-12
 | Updated7 days ago | 6.34k | sjakek/Nex-N2-mini-GGUFText | 35B | [Link](https://huggingface.co/sjakek/Nex-N2-mini-GGUF) |
 | Updated3 days ago | 6.88k | BennyDaBall/Z-Image-Engineer-V6-GGUFText | 4B | [Link](https://huggingface.co/BennyDaBall/Z-Image-Engineer-V6-GGUF) |
 | Updated4 days ago | 6.9k | deadbydawn101/RavenX-CyberAgent-Qwen3 | 36B | [Link](https://huggingface.co/deadbydawn101/RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-GGUF) |
+| Updatedabout 9 hours ago | 6.23k | ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUFText | 1B | [Link](https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF) |
 | Updated28 minutes ago | 5 | unsloth/Kimi-K2-Instruct-GGUFText | 1026B | [Link](https://huggingface.co/unsloth/Kimi-K2-Instruct-GGUF) |
 | Updatedabout 4 hours ago | 5 | tencent/Hunyuan-1 | 2B | [Link](https://huggingface.co/tencent/Hunyuan-1.8B-Instruct) |
 | Updatedabout 6 hours ago | 5.68k | deepseek-ai/DeepSeek-V3 | 685B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3.1-Base) |
@@ -7556,6 +7560,7 @@ Updated on 2026-07-12
 | Updatedabout 4 hours ago | 3 | neuregex/Bernini-R-GGUFText-to-Video | 14B | [Link](https://huggingface.co/neuregex/Bernini-R-GGUF) |
 | 54 | 3 | FastVideo/FastWan-QAD-1 | Updatedabout 4 hours ago | [Link](https://huggingface.co/FastVideo/FastWan-QAD-1.3B-SA2) |
 | Updated5 minutes ago | 3 | realrebelai/LingBot-30B-3B_GGUF_ComfyUIText-to-Video | 30B | [Link](https://huggingface.co/realrebelai/LingBot-30B-3B_GGUF_ComfyUI) |
+| 16 | 3 | aidealab/AnimeGen-T2VText-to-Video | Updated14 days ago | [Link](https://huggingface.co/aidealab/AnimeGen-T2V) |
 | 69 | 2 | obvious-research/onlyflowText-to-Video | Updated5 days ago | [Link](https://huggingface.co/obvious-research/onlyflow) |
 | 42 | 2 | jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIEText-to-Video | Updated7 days ago | [Link](https://huggingface.co/jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIE) |
 | 10 | 2 | vdo/Hotshot-XLText-to-Video | UpdatedOct 4, 2023 | [Link](https://huggingface.co/vdo/Hotshot-XL) |
