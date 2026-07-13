@@ -2135,6 +2135,7 @@ Updated on 2026-07-13
 | Updatedabout 16 hours ago | 51 | datalab-to/liftImage-Text-to-Text | 10B | [Link](https://huggingface.co/datalab-to/lift) |
 | Updated1 day ago | 51 | HauhauCS/Gemma4-26B-A4B-QAT-Uncensored-HauhauCS-Balanced-MTPImage-Text-to-Text | 25B | [Link](https://huggingface.co/HauhauCS/Gemma4-26B-A4B-QAT-Uncensored-HauhauCS-Balanced-MTP) |
 | Updatedabout 10 hours ago | 49 | nanonets/Nanonets-OCR2-3BImage-Text-to-Text | 4B | [Link](https://huggingface.co/nanonets/Nanonets-OCR2-3B) |
+| Updatedabout 5 hours ago | 49 | ATH-MaaS/OvisOCR2Image-Text-to-Text | 0.9B | [Link](https://huggingface.co/ATH-MaaS/OvisOCR2) |
 | Updated31 minutes ago | 48 | unsloth/gemma-4-12b-it-GGUFImage-Text-to-Text | 12B | [Link](https://huggingface.co/unsloth/gemma-4-12b-it-GGUF) |
 | 848 | 47 | AIDC-AI/Ovis2-2BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-2B) |
 | 79.7k | 47 | Qwen/Qwen2-VL-7BImage-Text-to-Text | UpdatedJan 12 | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B) |
@@ -2502,6 +2503,7 @@ Updated on 2026-07-13
 | Updatedabout 9 hours ago | 1.16k | numind/NuExtract3Image-Text-to-Text | 5B | [Link](https://huggingface.co/numind/NuExtract3) |
 | Updated1 day ago | 1.37k | internlm/Intern-S2-Preview-FP8Image-Text-to-Text | 36B | [Link](https://huggingface.co/internlm/Intern-S2-Preview-FP8) |
 | Updated1 day ago | 1.14k | empero-ai/Qwythos-9B-v2-GGUFImage-Text-to-Text | 9B | [Link](https://huggingface.co/empero-ai/Qwythos-9B-v2-GGUF) |
+| Updated5 days ago | 1.98k | moondream/moondream3 | 9B | [Link](https://huggingface.co/moondream/moondream3.1-9B-A2B) |
 | 1.07M |  | meta-llama/Llama-3 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) |
 | 1.49M |  | Qwen/Qwen2-VL-7B-InstructImage-Text-to-Text | Updated19 days ago | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) |
 | 288k |  | microsoft/Phi-3 | UpdatedSep 26, 2024 | [Link](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) |
@@ -5554,6 +5556,7 @@ Updated on 2026-07-13
 | Updatedabout 16 hours ago | 48 | osmosis-ai/Osmosis-Apply-1 | 2B | [Link](https://huggingface.co/osmosis-ai/Osmosis-Apply-1.7B) |
 | Updatedabout 7 hours ago | 48 | ServiceNow-AI/Apriel-1 | 15B | [Link](https://huggingface.co/ServiceNow-AI/Apriel-1.5-15b-Thinker) |
 | Updated3 days ago | 48 | nvidia/NVIDIA-Nemotron-Labs-3-Elastic-30B-A3B-BF16Text | 32B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-3-Elastic-30B-A3B-BF16) |
+| UpdatedJun 8 | 48.9k | RavichandranJ/Dolphin3-Cyber-8B-GGUFText | 8B | [Link](https://huggingface.co/RavichandranJ/Dolphin3-Cyber-8B-GGUF) |
 | 39 | 47 | open-r1/OlympicCoder-32BText | Updatedabout 17 hours ago | [Link](https://huggingface.co/open-r1/OlympicCoder-32B) |
 | Updatedabout 13 hours ago | 47 | LLM360/K2-ThinkText | 33B | [Link](https://huggingface.co/LLM360/K2-Think) |
 | Updatedabout 10 hours ago | 47 | inclusionAI/Ring-1T-previewText | 1000B | [Link](https://huggingface.co/inclusionAI/Ring-1T-preview) |
