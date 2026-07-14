@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-07-13
+Updated on 2026-07-14
 
 > Generated from the Hugging Face database.
 
@@ -5913,6 +5913,7 @@ Updated on 2026-07-13
 | Updatedabout 3 hours ago | 11 | LGAI-EXAONE/K-EXAONE-236B-A23BText | 237B | [Link](https://huggingface.co/LGAI-EXAONE/K-EXAONE-236B-A23B) |
 | Updatedabout 10 hours ago | 11 | nvidia/Nemotron-Labs-Diffusion-14BText | 14B | [Link](https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-14B) |
 | Updated3 days ago | 11k | satgeze/Hy3-1M-GGUFText | 295B | [Link](https://huggingface.co/satgeze/Hy3-1M-GGUF) |
+| UpdatedAug 15, 2025 | 11.9k | DeepHat/DeepHat-V1-7BText | 8B | [Link](https://huggingface.co/DeepHat/DeepHat-V1-7B) |
 | Updatedabout 1 hour ago | 10.3k | unsloth/gemma-3-270m-it-GGUFText | 0.3B | [Link](https://huggingface.co/unsloth/gemma-3-270m-it-GGUF) |
 | Updated1 day ago | 10 | FINAL-Bench/Darwin-35B-A3B-OpusText | 36B | [Link](https://huggingface.co/FINAL-Bench/Darwin-35B-A3B-Opus) |
 | Updatedabout 20 hours ago | 10 | lordx64/Qwable-v1Text | 36B | [Link](https://huggingface.co/lordx64/Qwable-v1) |
@@ -6596,6 +6597,7 @@ Updated on 2026-07-13
 | 45 | 8 | SearchingMan/Z-Image-Turbo-student-adapterText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/SearchingMan/Z-Image-Turbo-student-adapter) |
 | Updatedabout 16 hours ago | 8 | Abiray/Krea-2-Turbo-GGUFText-to-Image | 13B | [Link](https://huggingface.co/Abiray/Krea-2-Turbo-GGUF) |
 | 299 | 8 | pmczip/Krea2Raw_LorasText-to-Image | Updatedabout 17 hours ago | [Link](https://huggingface.co/pmczip/Krea2Raw_Loras) |
+| 4.3k | 8 | rzgar/Wan2 | Updated12 days ago | [Link](https://huggingface.co/rzgar/Wan2.2-Bernini-R-Motion-Enhancer-n4w-i2v) |
 | 1.69k | 7 | silveroxides/Chroma-GGUFText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/silveroxides/Chroma-GGUF) |
 | 58 | 7 | Freepik/F-Lite-TextureText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Freepik/F-Lite-Texture) |
 | 41 | 7 | renderartist/simplevectorhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/simplevectorhidream) |
@@ -6974,6 +6976,8 @@ Updated on 2026-07-13
 | 115 |  | ilkerzgi/krea-2-moody-golden-hour-editorial-loraText-to-Image | Updated12 days ago | [Link](https://huggingface.co/ilkerzgi/krea-2-moody-golden-hour-editorial-lora) |
 | 12 | Unknown | ostris/Krea2OstrisEditText-to-Image | Updatedabout 17 hours ago | [Link](https://huggingface.co/ostris/Krea2OstrisEdit) |
 | 12 | Unknown | John2386/fullgreedText-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/John2386/fullgreed) |
+| 13 | Unknown | fal/ideogram-v4-fastText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/fal/ideogram-v4-fast) |
+| 11 | Unknown | fal/ideogram-v4-instantText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/fal/ideogram-v4-instant) |
 
 ## Text-to-Speech
 
