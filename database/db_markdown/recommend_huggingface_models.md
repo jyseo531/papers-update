@@ -5569,6 +5569,7 @@ Updated on 2026-07-14
 | UpdatedApr 14 | 46 | inclusionAI/Ling-lite-baseText | 17B | [Link](https://huggingface.co/inclusionAI/Ling-lite-base) |
 | Updated1 day ago | 46 | FINAL-Bench/Darwin-27B-OpusText | 28B | [Link](https://huggingface.co/FINAL-Bench/Darwin-27B-Opus) |
 | 584 | 46 | nvidia/Nemotron-Labs-Audex-2BText | Updatedabout 21 hours ago | [Link](https://huggingface.co/nvidia/Nemotron-Labs-Audex-2B) |
+| Updatedabout 2 hours ago | 46.1k | InternScience/Agents-A1-Q4_K_M-GGUFText | 35B | [Link](https://huggingface.co/InternScience/Agents-A1-Q4_K_M-GGUF) |
 | 2.08k | 45 | google/gemma-3-1b-itText | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-1b-it) |
 | Updatedabout 2 hours ago | 45 | Jiunsong/supergemma4-26b-uncensored-gguf-v2Text | 25B | [Link](https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-gguf-v2) |
 | Updatedabout 17 hours ago | 45 | openbmb/MiniCPM5-1B-GGUFText | 1B | [Link](https://huggingface.co/openbmb/MiniCPM5-1B-GGUF) |
@@ -5679,6 +5680,7 @@ Updated on 2026-07-14
 | Updatedabout 1 hour ago | 30 | swiss-ai/Apertus-70B-Instruct-2509Text | 71B | [Link](https://huggingface.co/swiss-ai/Apertus-70B-Instruct-2509) |
 | 74 | 30 | Shaligram-Dewangan/Dhi-5B-BaseText | Updated6 days ago | [Link](https://huggingface.co/Shaligram-Dewangan/Dhi-5B-Base) |
 | 11 | 30 | kai-os/gemma4-31b-Opus-4 | Updatedabout 11 hours ago | [Link](https://huggingface.co/kai-os/gemma4-31b-Opus-4.6-reasoning) |
+| Updatedabout 5 hours ago | 30 | AngelSlim/Hy3-GGUFText | 295B | [Link](https://huggingface.co/AngelSlim/Hy3-GGUF) |
 | 323 | 29 | smirki/UIGEN-T1 | Updated6 days ago | [Link](https://huggingface.co/smirki/UIGEN-T1.1-Qwen-14B) |
 | 10 | 29 | ai21labs/AI21-Jamba-Large-1 | Updatedabout 13 hours ago | [Link](https://huggingface.co/ai21labs/AI21-Jamba-Large-1.6) |
 | 750 | 29 | amd/Instella-3B-InstructText | Updated4 days ago | [Link](https://huggingface.co/amd/Instella-3B-Instruct) |
@@ -6978,6 +6980,7 @@ Updated on 2026-07-14
 | 12 | Unknown | John2386/fullgreedText-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/John2386/fullgreed) |
 | 13 | Unknown | fal/ideogram-v4-fastText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/fal/ideogram-v4-fast) |
 | 11 | Unknown | fal/ideogram-v4-instantText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/fal/ideogram-v4-instant) |
+| 1.2k |  | uzumix/krea2_nsfwText-to-Image | Updated7 days ago | [Link](https://huggingface.co/uzumix/krea2_nsfw) |
 
 ## Text-to-Speech
 
