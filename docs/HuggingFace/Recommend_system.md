@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-07-14
+Updated on 2026-07-15
 
 > Generated from the Hugging Face database.
 
@@ -2826,6 +2826,7 @@ Updated on 2026-07-14
 | 249 | 4 | thedeoxen/refcontrol-FLUX | Updated5 days ago | [Link](https://huggingface.co/thedeoxen/refcontrol-FLUX.2-klein-9B-reference-depth-lora) |
 | 44 | 4 | jdopensource/JoyAI-Image-Edit-Plus-DiffusersImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/jdopensource/JoyAI-Image-Edit-Plus-Diffusers) |
 | 2.34k | 4 | darknight9121/FLUX | Updated5 days ago | [Link](https://huggingface.co/darknight9121/FLUX.2-klein-base-9B-bucket-uncensored) |
+| 14 | 4 | Motif-Technologies/motif-vaeImage-to-Image | Updated19 days ago | [Link](https://huggingface.co/Motif-Technologies/motif-vae) |
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
@@ -5264,6 +5265,7 @@ Updated on 2026-07-14
 | Updated3 days ago | 528 | huihui-ai/Huihui-Qwen3-Coder-Next-abliteratedText | 80B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3-Coder-Next-abliterated) |
 | Updated3 days ago | 528 | atbender/Qwen3 | 30B | [Link](https://huggingface.co/atbender/Qwen3.5-REAP-212B-A17B-W4A16) |
 | Updated4 days ago | 517 | ai21labs/AI21-Jamba2-3BText | 3B | [Link](https://huggingface.co/ai21labs/AI21-Jamba2-3B) |
+| Updatedabout 5 hours ago | 513 | prism-ml/Bonsai-27B-ggufText | 4B | [Link](https://huggingface.co/prism-ml/Bonsai-27B-gguf) |
 | Updated2 days ago | 509 | Zigeng/DMax-Coder-16BText | 16B | [Link](https://huggingface.co/Zigeng/DMax-Coder-16B) |
 | Updated7 days ago | 498 | flwrlabs/Lizzy-7BText | 7B | [Link](https://huggingface.co/flwrlabs/Lizzy-7B) |
 | Updatedabout 13 hours ago | 492 | ubergarm/Kimi-K2 | 1T | [Link](https://huggingface.co/ubergarm/Kimi-K2.6-GGUF) |
@@ -5790,6 +5792,7 @@ Updated on 2026-07-14
 | 6.11k | 23 | allenai/Olmo-Hybrid-7BText | Updatedabout 11 hours ago | [Link](https://huggingface.co/allenai/Olmo-Hybrid-7B) |
 | Updatedabout 3 hours ago | 23 | miromind-ai/MiroThinker-1 | 235B | [Link](https://huggingface.co/miromind-ai/MiroThinker-1.7) |
 | Updatedabout 1 hour ago | 23 | douyamv/Gemma-4-31B-JANG_4M-CRACK-GGUFText | 31B | [Link](https://huggingface.co/douyamv/Gemma-4-31B-JANG_4M-CRACK-GGUF) |
+| Updatedabout 5 hours ago | 23 | prism-ml/Ternary-Bonsai-27B-ggufText | 4B | [Link](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf) |
 | 44 | 22 | deepcogito/cogito-v1-preview-llama-3BText | Updatedabout 12 hours ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-llama-3B) |
 | 10.2k | 22 | bartowski/THUDM_GLM-4-32B-0414-GGUFText | Updated6 days ago | [Link](https://huggingface.co/bartowski/THUDM_GLM-4-32B-0414-GGUF) |
 | 6.82k | 22 | bartowski/deepseek-ai_DeepSeek-R1-0528-Qwen3-8B-GGUFText | Updatedabout 23 hours ago | [Link](https://huggingface.co/bartowski/deepseek-ai_DeepSeek-R1-0528-Qwen3-8B-GGUF) |
@@ -6007,6 +6010,7 @@ Updated on 2026-07-14
 | Updated21 days ago | 3.01k | ruv/ruvltra-claude-codeText | 0.5B | [Link](https://huggingface.co/ruv/ruvltra-claude-code) |
 | Updatedabout 8 hours ago | 3.53k | janhq/Jan-code-4b-ggufText | 4B | [Link](https://huggingface.co/janhq/Jan-code-4b-gguf) |
 | Updated5 days ago | 3.51k | llm-jp/llm-jp-4-8b-thinkingText | 9B | [Link](https://huggingface.co/llm-jp/llm-jp-4-8b-thinking) |
+| Updated1 day ago | 3.48k | GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-ThinkingText | 1B | [Link](https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking) |
 | Updated6 days ago | 2.04k | marcelbinz/Llama-3 | 71B | [Link](https://huggingface.co/marcelbinz/Llama-3.1-Centaur-70B) |
 | Updatedabout 2 hours ago | 2.66k | unsloth/Qwen3-235B-A22B-Instruct-2507-GGUFText | 235B | [Link](https://huggingface.co/unsloth/Qwen3-235B-A22B-Instruct-2507-GGUF) |
 | Updatedabout 10 hours ago | 2 | Qwen/Qwen3-30B-A3B-Thinking-2507Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507) |
@@ -7640,6 +7644,7 @@ Updated on 2026-07-14
 |  | 2 | Alissonerdx/LTX-Best-Face-IDText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/Alissonerdx/LTX-Best-Face-ID) |
 | 4 | 2 | epfl-neuroai/NEvoText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/epfl-neuroai/NEvo) |
 | 27 | 2 | Qualcomm-AI-Research/mobilewanText-to-Video | Updatedabout 5 hours ago | [Link](https://huggingface.co/Qualcomm-AI-Research/mobilewan) |
+| 1 | 2 | mehmetkeremturkcan/Suturing-Wan2 | UpdatedMar 14, 2025 | [Link](https://huggingface.co/mehmetkeremturkcan/Suturing-Wan2.1-1.3B-T2V) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
