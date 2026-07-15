@@ -166,6 +166,7 @@ Updated on 2026-07-15
 | Updated4 days ago | 14.5k | Abiray/gemma-4-E4B-it-heretic-GGUFAny-to-Any | 8B | [Link](https://huggingface.co/Abiray/gemma-4-E4B-it-heretic-GGUF) |
 | Updatedabout 17 hours ago | 13 | huihui-ai/Huihui-gemma-4-12B-it-qat-q4_0-unquantized-abliteratedAny-to-Any | 12B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-12B-it-qat-q4_0-unquantized-abliterated) |
 | Updatedabout 17 hours ago | 13 | SupraLabs/Supra-A2A-Nano-ExpAny-to-Any | 29.7M | [Link](https://huggingface.co/SupraLabs/Supra-A2A-Nano-Exp) |
+| Updatedabout 9 hours ago | 13 | XiaomiRobotics/Xiaomi-Robotics-U0Any-to-Any | 34B | [Link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0) |
 | Updated2 days ago | 12 | EasonXiao-888/HaploOmniAny-to-Any | 9B | [Link](https://huggingface.co/EasonXiao-888/HaploOmni) |
 | Updatedabout 7 hours ago | 12 | FunAudioLLM/Fun-Audio-Chat-8BAny-to-Any | 9B | [Link](https://huggingface.co/FunAudioLLM/Fun-Audio-Chat-8B) |
 | Updated2 days ago | 12k | mradermacher/Gemma-4-Queen-31B-it-i1-GGUFAny-to-Any | 31B | [Link](https://huggingface.co/mradermacher/Gemma-4-Queen-31B-it-i1-GGUF) |
@@ -231,6 +232,7 @@ Updated on 2026-07-15
 | Updatedless than a minute ago | 5 | Abiray/gemma-4-12b-it-GGUFAny-to-Any | 52.4M | [Link](https://huggingface.co/Abiray/gemma-4-12b-it-GGUF) |
 | Updated4 days ago | 5.11k | llmfan46/gemma-4-12B-it-uncensored-heretic-GGUFAny-to-Any | 12B | [Link](https://huggingface.co/llmfan46/gemma-4-12B-it-uncensored-heretic-GGUF) |
 | Updated7 days ago | 5.31k | huihui-ai/Huihui-gemma-4-26B-A4B-it-qat-q4_0-unquantized-abliterated-GGUFAny-to-Any | 25B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-26B-A4B-it-qat-q4_0-unquantized-abliterated-GGUF) |
+| Updatedabout 9 hours ago | 5 | XiaomiRobotics/Xiaomi-Robotics-U0-FlashARAny-to-Any | 38B | [Link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR) |
 | 126 | 4 | Alpha-VLLM/Chameleon_7B_mGPTAny-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Chameleon_7B_mGPT) |
 | 37 | 4 | Alpha-VLLM/Lumina-mGPT-7B-512-MultiImageAny-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-512-MultiImage) |
 | 26 | 4 | EPFL-VILAB/4M-7-T2I_XL_CC12MAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-7-T2I_XL_CC12M) |
@@ -5793,6 +5795,7 @@ Updated on 2026-07-15
 | Updatedabout 3 hours ago | 23 | miromind-ai/MiroThinker-1 | 235B | [Link](https://huggingface.co/miromind-ai/MiroThinker-1.7) |
 | Updatedabout 1 hour ago | 23 | douyamv/Gemma-4-31B-JANG_4M-CRACK-GGUFText | 31B | [Link](https://huggingface.co/douyamv/Gemma-4-31B-JANG_4M-CRACK-GGUF) |
 | Updatedabout 5 hours ago | 23 | prism-ml/Ternary-Bonsai-27B-ggufText | 4B | [Link](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf) |
+| Updatedabout 16 hours ago | 23 | prism-ml/Bonsai-27B-mlx-1bitText | 2B | [Link](https://huggingface.co/prism-ml/Bonsai-27B-mlx-1bit) |
 | 44 | 22 | deepcogito/cogito-v1-preview-llama-3BText | Updatedabout 12 hours ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-llama-3B) |
 | 10.2k | 22 | bartowski/THUDM_GLM-4-32B-0414-GGUFText | Updated6 days ago | [Link](https://huggingface.co/bartowski/THUDM_GLM-4-32B-0414-GGUF) |
 | 6.82k | 22 | bartowski/deepseek-ai_DeepSeek-R1-0528-Qwen3-8B-GGUFText | Updatedabout 23 hours ago | [Link](https://huggingface.co/bartowski/deepseek-ai_DeepSeek-R1-0528-Qwen3-8B-GGUF) |
@@ -5965,6 +5968,7 @@ Updated on 2026-07-15
 | Updated3 days ago | 6.88k | BennyDaBall/Z-Image-Engineer-V6-GGUFText | 4B | [Link](https://huggingface.co/BennyDaBall/Z-Image-Engineer-V6-GGUF) |
 | Updated4 days ago | 6.9k | deadbydawn101/RavenX-CyberAgent-Qwen3 | 36B | [Link](https://huggingface.co/deadbydawn101/RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-GGUF) |
 | Updatedabout 9 hours ago | 6.23k | ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUFText | 1B | [Link](https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF) |
+| Updatedabout 16 hours ago | 6 | prism-ml/Ternary-Bonsai-27B-mlx-2bitText | 3B | [Link](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit) |
 | Updated28 minutes ago | 5 | unsloth/Kimi-K2-Instruct-GGUFText | 1026B | [Link](https://huggingface.co/unsloth/Kimi-K2-Instruct-GGUF) |
 | Updatedabout 4 hours ago | 5 | tencent/Hunyuan-1 | 2B | [Link](https://huggingface.co/tencent/Hunyuan-1.8B-Instruct) |
 | Updatedabout 6 hours ago | 5.68k | deepseek-ai/DeepSeek-V3 | 685B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3.1-Base) |
