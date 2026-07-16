@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-07-15
+Updated on 2026-07-16
 
 > Generated from the Hugging Face database.
 
@@ -2011,6 +2011,7 @@ Updated on 2026-07-15
 | Updated13 days ago | 436 | SL-AI/GRaPE-2-ProImage-Text-to-Text | 28B | [Link](https://huggingface.co/SL-AI/GRaPE-2-Pro) |
 | Updated1 day ago | 422 | google/diffusiongemma-26B-A4B-itImage-Text-to-Text | 26B | [Link](https://huggingface.co/google/diffusiongemma-26B-A4B-it) |
 | 820k | 421 | liuhaotian/llava-v1 | UpdatedMay 8, 2024 | [Link](https://huggingface.co/liuhaotian/llava-v1.5-7b) |
+| Updatedabout 7 hours ago | 396 | thinkingmachines/InklingImage-Text-to-Text | 952B | [Link](https://huggingface.co/thinkingmachines/Inkling) |
 | 112k | 395 | HuggingFaceTB/SmolVLM-InstructImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-Instruct) |
 | 860k | 376 | Salesforce/blip2-opt-2 | UpdatedFeb 3 | [Link](https://huggingface.co/Salesforce/blip2-opt-2.7b) |
 | Updatedabout 7 hours ago | 365 | stepfun-ai/step3Image-Text-to-Text | 321B | [Link](https://huggingface.co/stepfun-ai/step3) |
@@ -2152,6 +2153,7 @@ Updated on 2026-07-15
 | Updatedabout 21 hours ago | 43 | ZJU-AI4H/Hulu-Med-32BImage-Text-to-Text | 33B | [Link](https://huggingface.co/ZJU-AI4H/Hulu-Med-32B) |
 | Updated6 days ago | 43 | allura-org/Luna-27B-v0Image-Text-to-Text | 27B | [Link](https://huggingface.co/allura-org/Luna-27B-v0) |
 | Updated5 days ago | 43.2k | zaakirio/gemma-4-12b-it-uncensored-GGUFImage-Text-to-Text | 12B | [Link](https://huggingface.co/zaakirio/gemma-4-12b-it-uncensored-GGUF) |
+| Updatedabout 1 hour ago | 43 | unsloth/inkling-GGUFImage-Text-to-Text | 947B | [Link](https://huggingface.co/unsloth/inkling-GGUF) |
 | Updatedabout 11 hours ago | 41 | OpenGVLab/InternVL3_5-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-4B) |
 | Updated7 days ago | 41.4k | huihui-ai/Huihui-Qwen3-VL-32B-Instruct-abliteratedImage-Text-to-Text | 33B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3-VL-32B-Instruct-abliterated) |
 | Updatedabout 9 hours ago | 41 | stepfun-ai/Step3-VL-10B-BaseImage-Text-to-Text | 10B | [Link](https://huggingface.co/stepfun-ai/Step3-VL-10B-Base) |
@@ -2216,6 +2218,7 @@ Updated on 2026-07-15
 | 3 | 26 | openfree/Mistral-Small-3 | Updatedabout 8 hours ago | [Link](https://huggingface.co/openfree/Mistral-Small-3.1-24B-Instruct-2503-Q8_0-GGUF) |
 | 190 | 26 | facebook/Perception-LM-8BImage-Text-to-Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/facebook/Perception-LM-8B) |
 | Updated7 days ago | 26.5k | groxaxo/Qwen3 | 27B | [Link](https://huggingface.co/groxaxo/Qwen3.6-27B-GPTQ-Pro-4bit) |
+| Updatedabout 7 hours ago | 26 | thinkingmachines/Inkling-NVFP4Image-Text-to-Text | 553B | [Link](https://huggingface.co/thinkingmachines/Inkling-NVFP4) |
 | 10 | 25 | openfree/Gemma-3-R1984-27B-Q4_K_M-GGUFImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/openfree/Gemma-3-R1984-27B-Q4_K_M-GGUF) |
 | 66 | 25 | google/gemma-3-4b-it-qat-q4_0-ggufImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/google/gemma-3-4b-it-qat-q4_0-gguf) |
 | Updatedabout 8 hours ago | 25 | LiquidAI/LFM2-VL-450MImage-Text-to-Text | 0.5B | [Link](https://huggingface.co/LiquidAI/LFM2-VL-450M) |
@@ -2223,6 +2226,7 @@ Updated on 2026-07-15
 | 667 | 24 | nvidia/Eagle2-2BImage-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/nvidia/Eagle2-2B) |
 | Updatedabout 4 hours ago | 24 | Hcompany/Holo1 | 8B | [Link](https://huggingface.co/Hcompany/Holo1.5-7B) |
 | Updated1 day ago | 24 | microsoft/GELab-Zero-4B-preview-Sico-EvolutionImage-Text-to-Text | 4B | [Link](https://huggingface.co/microsoft/GELab-Zero-4B-preview-Sico-Evolution) |
+| Updatedabout 22 hours ago | 24 | tencent/Hy-Embodied-RxBrain-1 | 6B | [Link](https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0) |
 | Updatedabout 4 hours ago | 23 | openbmb/MiniCPM-V-4_5Image-Text-to-Text | 9B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4_5) |
 | Updatedabout 10 hours ago | 23 | internlm/JanusCoderV-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/internlm/JanusCoderV-7B) |
 | Updatedabout 5 hours ago | 23 | HauhauCS/Qwen3 | 35B | [Link](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive) |
@@ -5255,6 +5259,7 @@ Updated on 2026-07-15
 | Updated2 days ago | 605 | nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUFText | 4B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUF) |
 | Updated6 days ago | 596 | tencent/Hy3-preview-BaseText | 299B | [Link](https://huggingface.co/tencent/Hy3-preview-Base) |
 | Updatedabout 1 hour ago | 596 | Multilingual-Multimodal-NLP/LoopCoder-V2Text | 8B | [Link](https://huggingface.co/Multilingual-Multimodal-NLP/LoopCoder-V2) |
+| Updated2 days ago | 595 | GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUFText | 1B | [Link](https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF) |
 | Updated1 day ago | 594 | bigatuna/Qwen3 | 9B | [Link](https://huggingface.co/bigatuna/Qwen3.5-9b-Sushi-Coder-RL-GGUF) |
 | Updatedabout 8 hours ago | 593 | AEON-7/Qwen3 | 27B | [Link](https://huggingface.co/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored) |
 | Updated1 day ago | 580 | allenai/Olmo-3 | 32B | [Link](https://huggingface.co/allenai/Olmo-3.1-32B-Think) |
@@ -6568,6 +6573,7 @@ Updated on 2026-07-15
 | 133 | 11 | microsoft/LensText-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/microsoft/Lens) |
 | 70 | 11 | ideogram-ai/ideogram-4-nf4-diffusersText-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/ideogram-ai/ideogram-4-nf4-diffusers) |
 | 44 | 11 | alfredplpl/ecocoro-preview-1Text-to-Image | Updated1 day ago | [Link](https://huggingface.co/alfredplpl/ecocoro-preview-1) |
+| 3.16k | 11 | TheDivergentAI/krea2-turbo-distill-loraText-to-Image | Updated16 days ago | [Link](https://huggingface.co/TheDivergentAI/krea2-turbo-distill-lora) |
 |  | 10 | strangerzonehf/Real-ClaymationText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/strangerzonehf/Real-Claymation) |
 | 17 | 10 | zhang0jhon/flux_waveletText-to-Image | Updated5 days ago | [Link](https://huggingface.co/zhang0jhon/flux_wavelet) |
 | 36 | 10 | codermert/ozgeefinalText-to-Image | Updated6 days ago | [Link](https://huggingface.co/codermert/ozgeefinal) |
