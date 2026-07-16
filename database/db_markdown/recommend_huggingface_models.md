@@ -6049,6 +6049,7 @@ Updated on 2026-07-16
 | Updatedabout 2 hours ago | 2 | tencent/Hy3Text | 299B | [Link](https://huggingface.co/tencent/Hy3) |
 | Updated1 day ago | 2.24k | GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUFText | 1B | [Link](https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF) |
 | Updated4 days ago | 2.8k | josefprusa/ThinkingCap-Qwen3 | 6B | [Link](https://huggingface.co/josefprusa/ThinkingCap-Qwen3.6-27B-int4-AutoRound-v1) |
+| Updated2 days ago | 2.13k | Jiunsong/SuperGLM-5 | 381B | [Link](https://huggingface.co/Jiunsong/SuperGLM-5.2-abliterated-NVFP4) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
 | Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
@@ -6664,6 +6665,7 @@ Updated on 2026-07-16
 | 453 | 6 | Danrisi/UltraReal_FineTune_Anima_base1Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/Danrisi/UltraReal_FineTune_Anima_base1) |
 | 44 | 6 | multimodalart/tarot-ideogram-4Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/multimodalart/tarot-ideogram-4) |
 | 45 | 6 | MiniT2I/MiniT2IText-to-Image | Updated4 days ago | [Link](https://huggingface.co/MiniT2I/MiniT2I) |
+| 91 | 6 | LAXMAYDAY/krea2-scene-linear-hdr-loraText-to-Image | Updated5 days ago | [Link](https://huggingface.co/LAXMAYDAY/krea2-scene-linear-hdr-lora) |
 | 42 | 5 | Shakker-Labs/RepTextText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Shakker-Labs/RepText) |
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
