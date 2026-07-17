@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-07-16
+Updated on 2026-07-17
 
 > Generated from the Hugging Face database.
 
@@ -202,6 +202,7 @@ Updated on 2026-07-16
 | Updatedabout 5 hours ago | 7 | wikeeyang/Nexus-GenV2-nf4-fp8Any-to-Any | 5B | [Link](https://huggingface.co/wikeeyang/Nexus-GenV2-nf4-fp8) |
 | UpdatedApr 30 | 7 | braindao/gemma-3-4b-it-uncensored-v2Any-to-Any | 4B | [Link](https://huggingface.co/braindao/gemma-3-4b-it-uncensored-v2) |
 | Updated4 days ago | 7.24k | w-ahmad/Gemma-4-12B-it-qat-GGUF-MoQAny-to-Any | 12B | [Link](https://huggingface.co/w-ahmad/Gemma-4-12B-it-qat-GGUF-MoQ) |
+| Updatedabout 14 hours ago | 7 | sensenova/SenseNova-U1-8B-MoT-Infographic-V3Any-to-Any | 18B | [Link](https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-Infographic-V3) |
 | 1.15k | 6 | EPFL-VILAB/4M-21_BAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-21_B) |
 | 186 | 6 | showlab/show-o2-7BAny-to-Any | Updatedabout 9 hours ago | [Link](https://huggingface.co/showlab/show-o2-7B) |
 | Updatedabout 11 hours ago | 6 | Qwen/Qwen3-Omni-30B-A3B-ThinkingAny-to-Any | 32B | [Link](https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Thinking) |
@@ -2655,6 +2656,7 @@ Updated on 2026-07-16
 | 129k | 550 | yisol/IDM-VTONImage-to-Image | UpdatedApr 22, 2024 | [Link](https://huggingface.co/yisol/IDM-VTON) |
 | 169k | 534 | stabilityai/stable-diffusion-2-inpaintingImage-to-Image | UpdatedJul 5, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-2-inpainting) |
 | Updatedabout 6 hours ago | 349 | inclusionAI/MingTok-VisionImage-to-Image | 0.7B | [Link](https://huggingface.co/inclusionAI/MingTok-Vision) |
+| Updatedabout 11 hours ago | 344 | Boogu/Boogu-Image-0 | 10B | [Link](https://huggingface.co/Boogu/Boogu-Image-0.1-Edit-Turbo) |
 | 3.02k | 268 | fal/AuraSR-v2Image-to-Image | UpdatedAug 7, 2024 | [Link](https://huggingface.co/fal/AuraSR-v2) |
 | Updatedabout 10 hours ago | 262 | vantagewithai/Qwen-Image-Edit-2511-GGUFImage-to-Image | 20B | [Link](https://huggingface.co/vantagewithai/Qwen-Image-Edit-2511-GGUF) |
 | 6.24k | 260 | enhanceaiteam/Flux-Uncensored-V2Image-to-Image | UpdatedOct 11, 2024 | [Link](https://huggingface.co/enhanceaiteam/Flux-Uncensored-V2) |
@@ -3482,6 +3484,7 @@ Updated on 2026-07-16
 | 80 | 4 | jc-builds/CalorieCLIPImage-to-Text | Updatedabout 12 hours ago | [Link](https://huggingface.co/jc-builds/CalorieCLIP) |
 | Updatedabout 4 hours ago | 4 | lolzinventor/Qwen3 | 4B | [Link](https://huggingface.co/lolzinventor/Qwen3.5-4B-Base-ZitGen-V1) |
 | 17.1k | 4 | PaddlePaddle/PP-OCRv4_mobile_detImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv4_mobile_det) |
+| UpdatedMay 6 | 4 | hasindu-k/sinhala-handwritten-notes-v3Image-to-Text | 0.3B | [Link](https://huggingface.co/hasindu-k/sinhala-handwritten-notes-v3) |
 | 299 | 3 | cnmoro/nano-image-captioningImage-to-Text | Updatedabout 1 month ago | [Link](https://huggingface.co/cnmoro/nano-image-captioning) |
 | 45 | 3 | braintacles/brainblipImage-to-Text | UpdatedJun 27, 2024 | [Link](https://huggingface.co/braintacles/brainblip) |
 | 55 | 3 | sbintuitions/sarashina2-vision-8bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-8b) |
@@ -3659,6 +3662,7 @@ Updated on 2026-07-16
 | 45 | 1 | PaddlePaddle/PicoDet-S_layout_17clsImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PicoDet-S_layout_17cls) |
 | Updated9 days ago | 1 | Teklia/Qwen2 | 8B | [Link](https://huggingface.co/Teklia/Qwen2.5-VL-7B-DAI-CReTDHI-RecordGold-ATR) |
 | Updated2 days ago | 1.41k | mradermacher/dots | 2B | [Link](https://huggingface.co/mradermacher/dots.ocr-i1-GGUF) |
+| 178 | 1 | PaddlePaddle/RT-DETR-L_wireless_table_cell_det_onnxImage-to-Text | UpdatedJun 10 | [Link](https://huggingface.co/PaddlePaddle/RT-DETR-L_wireless_table_cell_det_onnx) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
