@@ -2780,6 +2780,7 @@ Updated on 2026-07-17
 |  | 7 | lrzjason/Anything2Real_2601Image-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/lrzjason/Anything2Real_2601) |
 | 285 | 7 | GuangyuanSD/FLUX | Updatedabout 15 hours ago | [Link](https://huggingface.co/GuangyuanSD/FLUX.2-klein-9B-Blitz-ComfyUI) |
 |  | 7 | prithivMLmods/QIE-2509-Object-Remover-Bbox-v3Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prithivMLmods/QIE-2509-Object-Remover-Bbox-v3) |
+| 2 | 7 | yijunwang2/krea2-reidImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/yijunwang2/krea2-reid) |
 | 1.97k | 6 | TencentARC/t2iadapter_sketch_sd15v2Image-to-Image | UpdatedAug 1, 2023 | [Link](https://huggingface.co/TencentARC/t2iadapter_sketch_sd15v2) |
 | 443 | 6 | LPX55/FLUX | Updated6 days ago | [Link](https://huggingface.co/LPX55/FLUX.1_Kontext-Lightning) |
 | 8 | 6 | stepfun-ai/Step1X-Edit-v1p2-previewImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/stepfun-ai/Step1X-Edit-v1p2-preview) |
@@ -5453,6 +5454,7 @@ Updated on 2026-07-17
 | 2 | 95 | Qwen/Qwen3-30B-A3BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B) |
 | 251 | 95 | facebook/MobileLLM-ProText | Updatedabout 7 hours ago | [Link](https://huggingface.co/facebook/MobileLLM-Pro) |
 | Updatedabout 19 hours ago | 95 | open-thoughts/OpenThinker-Agent-v1Text | 8B | [Link](https://huggingface.co/open-thoughts/OpenThinker-Agent-v1) |
+| Updatedabout 1 hour ago | 95 | Soofi-Project/Soofi-S-BaseText | 32B | [Link](https://huggingface.co/Soofi-Project/Soofi-S-Base) |
 | Updatedabout 10 hours ago | 92 | HelpingAI/Dhanishtha-2 | 15B | [Link](https://huggingface.co/HelpingAI/Dhanishtha-2.0-preview) |
 | 3 | 92 | moonshotai/Kimi-K2-BaseText | Updatedabout 10 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-K2-Base) |
 | Updatedabout 7 hours ago | 92 | InternScience/Agents-A1Text | 35B | [Link](https://huggingface.co/InternScience/Agents-A1) |
@@ -7001,6 +7003,7 @@ Updated on 2026-07-17
 | 13 | Unknown | fal/ideogram-v4-fastText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/fal/ideogram-v4-fast) |
 | 11 | Unknown | fal/ideogram-v4-instantText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/fal/ideogram-v4-instant) |
 | 1.2k |  | uzumix/krea2_nsfwText-to-Image | Updated7 days ago | [Link](https://huggingface.co/uzumix/krea2_nsfw) |
+| 8 | Unknown | WarmBloodAban/boogu_Anything2RealCharactersText-to-Image | Updated4 days ago | [Link](https://huggingface.co/WarmBloodAban/boogu_Anything2RealCharacters) |
 
 ## Text-to-Speech
 
