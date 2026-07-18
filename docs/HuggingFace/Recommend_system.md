@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-07-17
+Updated on 2026-07-18
 
 > Generated from the Hugging Face database.
 
@@ -2204,6 +2204,7 @@ Updated on 2026-07-17
 | Updated2 days ago | 29.6k | nohurry/gemma-4-26B-A4B-it-heretic-GUFFImage-Text-to-Text | 25B | [Link](https://huggingface.co/nohurry/gemma-4-26B-A4B-it-heretic-GUFF) |
 | Updatedabout 23 hours ago | 29.9k | HauhauCS/Gemma-4-E2B-Uncensored-HauhauCS-AggressiveImage-Text-to-Text | 5B | [Link](https://huggingface.co/HauhauCS/Gemma-4-E2B-Uncensored-HauhauCS-Aggressive) |
 | Updatedabout 2 hours ago | 29 | unsloth/MiniMax-M3-GGUFImage-Text-to-Text | 426B | [Link](https://huggingface.co/unsloth/MiniMax-M3-GGUF) |
+| Updatedabout 18 hours ago | 29 | internlm/Intern-S2-Preview-397BImage-Text-to-Text | 403B | [Link](https://huggingface.co/internlm/Intern-S2-Preview-397B) |
 | 26 | 28 | VIDraft/Gemma-3-R1984-12BImage-Text-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/VIDraft/Gemma-3-R1984-12B) |
 | 36 | 28 | meta-llama/Llama-4-Maverick-17B-128EImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E) |
 | 1.6k | 28 | unsloth/Llama-4-Scout-17B-16E-Instruct-GGUFImage-Text-to-Text | Updatedabout 16 hours ago | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct-GGUF) |
@@ -2738,6 +2739,7 @@ Updated on 2026-07-17
 | 8.6k | 13 | lllyasviel/control_v11p_sd15_segImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_seg) |
 |  | 13 | reverentelusarca/kontext-turnaround-sheet-lora-v1Image-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/reverentelusarca/kontext-turnaround-sheet-lora-v1) |
 | 27 | 13 | Xenova/4x_APISR_GRL_GAN_generator-onnxImage-to-Image | UpdatedJul 7 | [Link](https://huggingface.co/Xenova/4x_APISR_GRL_GAN_generator-onnx) |
+| 1 | 13 | yijunwang2/krea2-outpaintImage-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/yijunwang2/krea2-outpaint) |
 | Updatedabout 1 hour ago | 12 | gguf-org/flux2-dev-ggufImage-to-Image | 18B | [Link](https://huggingface.co/gguf-org/flux2-dev-gguf) |
 |  | 12 | lovis93/Flux-2-Multi-Angles-LoRA-v2Image-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/lovis93/Flux-2-Multi-Angles-LoRA-v2) |
 | 1.03k | 11 | xiaozaa/cat-tryoff-fluxImage-to-Image | UpdatedDec 6, 2024 | [Link](https://huggingface.co/xiaozaa/cat-tryoff-flux) |
@@ -6460,6 +6462,7 @@ Updated on 2026-07-17
 | 31.8k | 362 | thibaud/controlnet-openpose-sdxl-1 | UpdatedSep 3, 2023 | [Link](https://huggingface.co/thibaud/controlnet-openpose-sdxl-1.0) |
 | 8.52k | 350 | fofr/sdxl-emojiText-to-Image | UpdatedJun 27, 2024 | [Link](https://huggingface.co/fofr/sdxl-emoji) |
 | 252k | 347 | diffusers/stable-diffusion-xl-1 | UpdatedSep 3, 2023 | [Link](https://huggingface.co/diffusers/stable-diffusion-xl-1.0-inpainting-0.1) |
+| Updatedabout 22 hours ago | 330 | realrebelai/Krea-R-TurboText-to-Image | 13B | [Link](https://huggingface.co/realrebelai/Krea-R-Turbo) |
 | 14.6k | 321 | JujoHotaru/loraText-to-Image | UpdatedApr 28 | [Link](https://huggingface.co/JujoHotaru/lora) |
 | 3.97k | 317 | Shitao/OmniGen-v1Text-to-Image | UpdatedNov 7, 2024 | [Link](https://huggingface.co/Shitao/OmniGen-v1) |
 | Updatedabout 14 hours ago | 311 | unsloth/ERNIE-Image-GGUFText-to-Image | 8B | [Link](https://huggingface.co/unsloth/ERNIE-Image-GGUF) |
