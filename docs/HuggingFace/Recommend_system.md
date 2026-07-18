@@ -6177,6 +6177,7 @@ Updated on 2026-07-18
 | 26 | Unknown | Tesslate/OmniCoder-2-9BText | Updatedabout 11 hours ago | [Link](https://huggingface.co/Tesslate/OmniCoder-2-9B) |
 | 16 | Unknown | ByteDance-Seed/Cola-DLMText | Updated2 days ago | [Link](https://huggingface.co/ByteDance-Seed/Cola-DLM) |
 | 47 | Unknown | nvidia/Nemotron-Labs-Audex-30B-A3BText | Updatedabout 9 hours ago | [Link](https://huggingface.co/nvidia/Nemotron-Labs-Audex-30B-A3B) |
+| 33 | Unknown | basaltlabsai/monolith-1 | Updated1 day ago | [Link](https://huggingface.co/basaltlabsai/monolith-1.0) |
 
 ## Text Ranking
 
@@ -6444,6 +6445,7 @@ Updated on 2026-07-18
 | Updated5 days ago | 662 | Gthalmie1/moody-real-mix-v4-dpo-ggufText-to-Image | 6B | [Link](https://huggingface.co/Gthalmie1/moody-real-mix-v4-dpo-gguf) |
 | Updated1 day ago | 650 | ponpoke/flux2-klein-9b-uncensored-text-encoderText-to-Image | 8B | [Link](https://huggingface.co/ponpoke/flux2-klein-9b-uncensored-text-encoder) |
 | 8.63k | 644 | ostris/OpenFLUX | UpdatedOct 3, 2024 | [Link](https://huggingface.co/ostris/OpenFLUX.1) |
+| Updated5 days ago | 591 | Abiray/Anima-turbo-v1 | 2B | [Link](https://huggingface.co/Abiray/Anima-turbo-v1.0-GGUF) |
 | Updated6 days ago | 556 | mlx-community/HiDream-O1-Image-Dev-mlx-bf16Text-to-Image | 9B | [Link](https://huggingface.co/mlx-community/HiDream-O1-Image-Dev-mlx-bf16) |
 | Updatedabout 5 hours ago | 494 | unsloth/Qwen-Image-GGUFText-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-GGUF) |
 | 28.8k | 470 | Shakker-Labs/AWPortrait-FLText-to-Image | UpdatedSep 5, 2024 | [Link](https://huggingface.co/Shakker-Labs/AWPortrait-FL) |
@@ -7861,6 +7863,7 @@ Updated on 2026-07-18
 | 47 | Unknown | PAIR/StreamingT2VText-to-Video | UpdatedNov 18, 2024 | [Link](https://huggingface.co/PAIR/StreamingT2V) |
 | 2 | Unknown | realrebelai/LingBot_ComfyUIText-to-Video | Updatedabout 11 hours ago | [Link](https://huggingface.co/realrebelai/LingBot_ComfyUI) |
 | 2 | Unknown | MeiGen-AI/OPSD-VText-to-Video | Updated3 days ago | [Link](https://huggingface.co/MeiGen-AI/OPSD-V) |
+| 2 | Unknown | elismasilva/LTX-2 | Updated9 days ago | [Link](https://huggingface.co/elismasilva/LTX-2.3-LoRa-Camera-Controls) |
 
 ## Text2Text Generation
 
