@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-07-18
+Updated on 2026-07-19
 
 > Generated from the Hugging Face database.
 
@@ -6058,6 +6058,7 @@ Updated on 2026-07-18
 | Updated1 day ago | 2.24k | GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUFText | 1B | [Link](https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF) |
 | Updated4 days ago | 2.8k | josefprusa/ThinkingCap-Qwen3 | 6B | [Link](https://huggingface.co/josefprusa/ThinkingCap-Qwen3.6-27B-int4-AutoRound-v1) |
 | Updated2 days ago | 2.13k | Jiunsong/SuperGLM-5 | 381B | [Link](https://huggingface.co/Jiunsong/SuperGLM-5.2-abliterated-NVFP4) |
+| Updated5 days ago | 2.21k | InternScience/Agents-A1-4BText | 5B | [Link](https://huggingface.co/InternScience/Agents-A1-4B) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
 | Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
@@ -6532,6 +6533,7 @@ Updated on 2026-07-18
 | 12 | 24 | Lakonik/AsymFLUX | Updatedabout 13 hours ago | [Link](https://huggingface.co/Lakonik/AsymFLUX.2-klein-9B) |
 | 8 | 22 | nunchaku-tech/nunchaku-qwen-image-edit-2509Text-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-qwen-image-edit-2509) |
 | Updatedabout 14 hours ago | 22 | purplesmartai/pony-v7-baseText-to-Image | 7B | [Link](https://huggingface.co/purplesmartai/pony-v7-base) |
+| 234 | 22 | DeverStyle/Krea-2-Premium-LorasText-to-Image | Updatedabout 15 hours ago | [Link](https://huggingface.co/DeverStyle/Krea-2-Premium-Loras) |
 | 5.26k | 20 | mit-han-lab/svdq-int4-flux | Updated22 days ago | [Link](https://huggingface.co/mit-han-lab/svdq-int4-flux.1-dev) |
 | 2 | 20 | HiDream-ai/HiDream-I1-FullText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/HiDream-ai/HiDream-I1-Full) |
 | 8.81k | 20 | sd2-community/stable-diffusion-2-1Text-to-Image | UpdatedNov 15, 2025 | [Link](https://huggingface.co/sd2-community/stable-diffusion-2-1) |
