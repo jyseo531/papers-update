@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-07-19
+Updated on 2026-07-20
 
 > Generated from the Hugging Face database.
 
@@ -3773,6 +3773,7 @@ Updated on 2026-07-19
 | 1 | Unknown | Karez/KHLRImage-to-Text | Updated10 days ago | [Link](https://huggingface.co/Karez/KHLR) |
 | 1 | Unknown | chanhanyang/Easy-to-use-OCR-Handwritten-MathmaticsImage-to-Text | UpdatedNov 15, 2025 | [Link](https://huggingface.co/chanhanyang/Easy-to-use-OCR-Handwritten-Mathmatics) |
 | 1 | Unknown | AlienKevin/ipa_ocrImage-to-Text | UpdatedMay 9, 2023 | [Link](https://huggingface.co/AlienKevin/ipa_ocr) |
+| 1 | Unknown | AnhadMahajan/AgriVision-BLIP2Image-to-Text | UpdatedJun 10 | [Link](https://huggingface.co/AnhadMahajan/AgriVision-BLIP2) |
 
 ## Image-to-Video
 
@@ -5947,6 +5948,7 @@ Updated on 2026-07-19
 | Updatedabout 11 hours ago | 9.14k | Jackrong/Gemopus-4-26B-A4B-it-GGUFText | 25B | [Link](https://huggingface.co/Jackrong/Gemopus-4-26B-A4B-it-GGUF) |
 | Updated2 days ago | 9.92k | hesamation/Qwen3 | 35B | [Link](https://huggingface.co/hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF) |
 | Updated3 days ago | 9.5k | protoLabsAI/Ornith-1 | 2B | [Link](https://huggingface.co/protoLabsAI/Ornith-1.0-9B-MTP-GGUF) |
+| Updated2 days ago | 9.42k | unsloth/Ornith-1 | 35B | [Link](https://huggingface.co/unsloth/Ornith-1.0-35B-GGUF) |
 | Updated3 days ago | 8.32k | trillionlabs/Tri-21BText | 21B | [Link](https://huggingface.co/trillionlabs/Tri-21B) |
 | Updatedabout 14 hours ago | 8 | janhq/Jan-v1-4B-GGUFText | 4B | [Link](https://huggingface.co/janhq/Jan-v1-4B-GGUF) |
 | Updatedabout 16 hours ago | 8.51k | nvidia/NVIDIA-Nemotron-Nano-12B-v2Text | 12B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-12B-v2) |
