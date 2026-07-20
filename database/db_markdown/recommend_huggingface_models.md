@@ -3292,6 +3292,7 @@ Updated on 2026-07-20
 | Updatedabout 8 hours ago | 39 | xingxm/HiVG-3B-BaseImage-to-Text | 4B | [Link](https://huggingface.co/xingxm/HiVG-3B-Base) |
 | UpdatedNov 4, 2023 | 38.2k | adept/fuyu-8bImage-to-Text | 9B | [Link](https://huggingface.co/adept/fuyu-8b) |
 | Updated3 days ago | 38 | TIGER-Lab/RationalRewards-8B-EditImage-to-Text | 9B | [Link](https://huggingface.co/TIGER-Lab/RationalRewards-8B-Edit) |
+| Updated8 days ago | 37 | nakasyou/capsolve-spImage-to-Text | 487k | [Link](https://huggingface.co/nakasyou/capsolve-sp) |
 | 7.54k | 36 | breezedeus/pix2text-mfrImage-to-Text | UpdatedMay 5, 2024 | [Link](https://huggingface.co/breezedeus/pix2text-mfr) |
 | Updated1 day ago | 36 | helizac/dots | 2B | [Link](https://huggingface.co/helizac/dots.ocr-4bit) |
 | UpdatedJul 6, 2024 | 36 | medieval-data/trocr-medieval-printImage-to-Text | 0.3B | [Link](https://huggingface.co/medieval-data/trocr-medieval-print) |
@@ -5437,6 +5438,7 @@ Updated on 2026-07-20
 | 176 | 109 | nvidia/DeepSeek-R1-FP4Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/nvidia/DeepSeek-R1-FP4) |
 | Updated8 days ago | 109 | LiquidAI/LFM2-24B-A2B-GGUFText | 24B | [Link](https://huggingface.co/LiquidAI/LFM2-24B-A2B-GGUF) |
 | 3 | 107 | MiniMaxAI/MiniMax-M1-80kText | Updatedabout 10 hours ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M1-80k) |
+| Updated4 days ago | 107 | t-tech/T-SearchText | 36B | [Link](https://huggingface.co/t-tech/T-Search) |
 | Updated1 day ago | 106 | opendatalab/MinerU-HTMLText | 0.8B | [Link](https://huggingface.co/opendatalab/MinerU-HTML) |
 | UpdatedMay 26 | 105k | mistralai/Devstral-Small-2505Text | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2505) |
 | Updatedabout 3 hours ago | 105 | KORMo-Team/KORMo-10B-sftText | 11B | [Link](https://huggingface.co/KORMo-Team/KORMo-10B-sft) |
@@ -6497,6 +6499,7 @@ Updated on 2026-07-20
 | 3.01k | 81 | RunDiffusion/Juggernaut-XI-v11Text-to-Image | UpdatedAug 29, 2024 | [Link](https://huggingface.co/RunDiffusion/Juggernaut-XI-v11) |
 | 128 | 75 | bytedance-research/USOText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/bytedance-research/USO) |
 | 1.96k | 71 | aquif-ai/Reupload-Magic-Wan-Image-v1 | Updated34 minutes ago | [Link](https://huggingface.co/aquif-ai/Reupload-Magic-Wan-Image-v1.0) |
+| Updated3 days ago | 70 | bench-labs/pixelmodel-v1Text-to-Image | 23.7k | [Link](https://huggingface.co/bench-labs/pixelmodel-v1) |
 | Updated1 day ago | 68 | epfl-vita/flux2-klein-1step-rdmText-to-Image | 4B | [Link](https://huggingface.co/epfl-vita/flux2-klein-1step-rdm) |
 | 8.76k | 66 | Freepik/flux | UpdatedDec 30, 2024 | [Link](https://huggingface.co/Freepik/flux.1-lite-8B) |
 | 9.8k | 66 | cyberdelia/CyberRealisticText-to-Image | Updated12 days ago | [Link](https://huggingface.co/cyberdelia/CyberRealistic) |
