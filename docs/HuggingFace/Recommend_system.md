@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-07-20
+Updated on 2026-07-21
 
 > Generated from the Hugging Face database.
 
@@ -2404,6 +2404,7 @@ Updated on 2026-07-20
 | Updatedabout 9 hours ago | 8 | Hcompany/Holo2-30B-A3BImage-Text-to-Text | 31B | [Link](https://huggingface.co/Hcompany/Holo2-30B-A3B) |
 | 833 | 8 | mistralai/Ministral-3-3B-Instruct-2512-ONNXImage-Text-to-Text | Updatedabout 22 hours ago | [Link](https://huggingface.co/mistralai/Ministral-3-3B-Instruct-2512-ONNX) |
 | 2.38k | 8 | vincentzed-hf/Qwen3 | Updatedabout 22 hours ago | [Link](https://huggingface.co/vincentzed-hf/Qwen3.5-397B-A17B-NVFP4) |
+| Updated5 days ago | 8.28k | unsloth/gemma-4-31B-it-NVFP4Image-Text-to-Text | 23B | [Link](https://huggingface.co/unsloth/gemma-4-31B-it-NVFP4) |
 | 27 | 7 | ByteDance-Seed/SAIL-7BImage-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/ByteDance-Seed/SAIL-7B) |
 | 677 | 7 | turing-motors/Heron-NVILA-Lite-15BImage-Text-to-Text | Updated14 days ago | [Link](https://huggingface.co/turing-motors/Heron-NVILA-Lite-15B) |
 | 25 | 7 | mlabonne/gemma-3-27b-it-qat-abliteratedImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-qat-abliterated) |
@@ -2554,6 +2555,7 @@ Updated on 2026-07-20
 | Updatedabout 12 hours ago |  | CohereLabs/command-a-plus-05-2026-bf16Image-Text-to-Text | 219B | [Link](https://huggingface.co/CohereLabs/command-a-plus-05-2026-bf16) |
 | Updatedabout 12 hours ago |  | CohereLabs/command-a-plus-05-2026-fp8Image-Text-to-Text | 219B | [Link](https://huggingface.co/CohereLabs/command-a-plus-05-2026-fp8) |
 | 25 | Unknown | ahmed22xa/Huihui-Qwen3-VL-4B-Instruct-abliterated-comfyImage-Text-to-Text | Updated4 days ago | [Link](https://huggingface.co/ahmed22xa/Huihui-Qwen3-VL-4B-Instruct-abliterated-comfy) |
+| 25 | Unknown | DreamFast/Qwen3-VL-4b-Heretic-ComfyUIImage-Text-to-Text | Updated4 days ago | [Link](https://huggingface.co/DreamFast/Qwen3-VL-4b-Heretic-ComfyUI) |
 
 ## Image-to-3D
 
@@ -3131,6 +3133,7 @@ Updated on 2026-07-20
 | 24 |  | FractalAIResearch/Kalaido-qwenedit-loraImage-to-Image | Updated7 days ago | [Link](https://huggingface.co/FractalAIResearch/Kalaido-qwenedit-lora) |
 | 4 | Unknown | jdopensource/JoyAI-Image-Edit-Plus-ComfyUIImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/jdopensource/JoyAI-Image-Edit-Plus-ComfyUI) |
 | 6 | Unknown | rzgar/Bernini-R-S2VImage-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/rzgar/Bernini-R-S2V) |
+| 5 | Unknown | Comfy-Org/JoyAI-Image-EditImage-to-Image | Updatedabout 17 hours ago | [Link](https://huggingface.co/Comfy-Org/JoyAI-Image-Edit) |
 
 ## Image-to-Text
 
@@ -3489,6 +3492,7 @@ Updated on 2026-07-20
 | Updatedabout 4 hours ago | 4 | lolzinventor/Qwen3 | 4B | [Link](https://huggingface.co/lolzinventor/Qwen3.5-4B-Base-ZitGen-V1) |
 | 17.1k | 4 | PaddlePaddle/PP-OCRv4_mobile_detImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv4_mobile_det) |
 | UpdatedMay 6 | 4 | hasindu-k/sinhala-handwritten-notes-v3Image-to-Text | 0.3B | [Link](https://huggingface.co/hasindu-k/sinhala-handwritten-notes-v3) |
+| 9.04k | 4 | PaddlePaddle/RT-DETR-L_wireless_table_cell_detImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/RT-DETR-L_wireless_table_cell_det) |
 | 299 | 3 | cnmoro/nano-image-captioningImage-to-Text | Updatedabout 1 month ago | [Link](https://huggingface.co/cnmoro/nano-image-captioning) |
 | 45 | 3 | braintacles/brainblipImage-to-Text | UpdatedJun 27, 2024 | [Link](https://huggingface.co/braintacles/brainblip) |
 | 55 | 3 | sbintuitions/sarashina2-vision-8bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-8b) |
@@ -5693,6 +5697,7 @@ Updated on 2026-07-20
 | Updated7 days ago | 31.9k | DavidAU/GLM-4 | 30B | [Link](https://huggingface.co/DavidAU/GLM-4.7-Flash-Uncensored-Heretic-NEO-CODE-Imatrix-MAX-GGUF) |
 | Updatedabout 7 hours ago | 31 | nvidia/Gemma-4-31B-IT-NVFP4Text | 21B | [Link](https://huggingface.co/nvidia/Gemma-4-31B-IT-NVFP4) |
 | Updated5 days ago | 31.1k | igorls/gemma-4-12B-it-heretic-GGUFText | 12B | [Link](https://huggingface.co/igorls/gemma-4-12B-it-heretic-GGUF) |
+| Updatedabout 2 hours ago | 31 | Motif-Technologies/Motif-3-BetaText | 315B | [Link](https://huggingface.co/Motif-Technologies/Motif-3-Beta) |
 | 277 | 30 | kakaocorp/kanana-nano-2 | Updatedabout 22 hours ago | [Link](https://huggingface.co/kakaocorp/kanana-nano-2.1b-instruct) |
 | 2.75k | 30 | allenai/OLMo-2-0425-1BText | Updated6 days ago | [Link](https://huggingface.co/allenai/OLMo-2-0425-1B) |
 | 509 | 30 | SWE-bench/SWE-agent-LM-32BText | Updatedabout 10 hours ago | [Link](https://huggingface.co/SWE-bench/SWE-agent-LM-32B) |
@@ -7871,6 +7876,7 @@ Updated on 2026-07-20
 | 2 | Unknown | realrebelai/LingBot_ComfyUIText-to-Video | Updatedabout 11 hours ago | [Link](https://huggingface.co/realrebelai/LingBot_ComfyUI) |
 | 2 | Unknown | MeiGen-AI/OPSD-VText-to-Video | Updated3 days ago | [Link](https://huggingface.co/MeiGen-AI/OPSD-V) |
 | 2 | Unknown | elismasilva/LTX-2 | Updated9 days ago | [Link](https://huggingface.co/elismasilva/LTX-2.3-LoRa-Camera-Controls) |
+| 2 | Unknown | joeygambino/ltx23-echoVid-ltxAud-surgicalText-to-Video | Updatedabout 8 hours ago | [Link](https://huggingface.co/joeygambino/ltx23-echoVid-ltxAud-surgical) |
 
 ## Text2Text Generation
 
