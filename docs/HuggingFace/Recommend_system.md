@@ -6609,6 +6609,7 @@ Updated on 2026-07-21
 |  | 10 | Shakker-Labs/AWPortrait-QWText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/Shakker-Labs/AWPortrait-QW) |
 | 88 | 10 | mrfakename/Z-Image-TurboText-to-Image | Updated21 days ago | [Link](https://huggingface.co/mrfakename/Z-Image-Turbo) |
 | 1 | 10 | clark-labs/clark-air-sana-1 | Updatedabout 9 hours ago | [Link](https://huggingface.co/clark-labs/clark-air-sana-1.6b-1.58bit) |
+| 228 | 10 | AliveAi/Krea-2-Edit-Outfit-TransferText-to-Image | Updatedabout 24 hours ago | [Link](https://huggingface.co/AliveAi/Krea-2-Edit-Outfit-Transfer) |
 |  | 9 | ART-Release/ART_v1 | Updatedabout 23 hours ago | [Link](https://huggingface.co/ART-Release/ART_v1.0) |
 | 9 | 9 | motimalu/wan-flat-color-v2Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/motimalu/wan-flat-color-v2) |
 | 11 | 9 | ShoufaChen/PixelFlow-Text2ImageText-to-Image | Updatedabout 19 hours ago | [Link](https://huggingface.co/ShoufaChen/PixelFlow-Text2Image) |
@@ -7361,6 +7362,7 @@ Updated on 2026-07-21
 | Updated16 minutes ago | 2 | amphion/TaDiCodec-TTS-AR-Qwen2 | 0.5B | [Link](https://huggingface.co/amphion/TaDiCodec-TTS-AR-Qwen2.5-0.5B) |
 | Updated1 day ago | 2 | Aratako/MioTTS-2 | 3B | [Link](https://huggingface.co/Aratako/MioTTS-2.6B) |
 | Updatedabout 2 hours ago | 2.24k | HumeAI/tada-1bText-to-Speech | 2B | [Link](https://huggingface.co/HumeAI/tada-1b) |
+| UpdatedJun 10 | 2.67k | dots-studio/dots | 2B | [Link](https://huggingface.co/dots-studio/dots.tts-soar) |
 | UpdatedSep 1, 2023 | 1.78k | facebook/mms-tts-turText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-tur) |
 | UpdatedSep 1, 2023 | 1.05k | facebook/mms-tts-porText-to-Speech | 0.0B | [Link](https://huggingface.co/facebook/mms-tts-por) |
 | Updated16 days ago | 1.21k | Mungert/orpheus-3b-0 | 4B | [Link](https://huggingface.co/Mungert/orpheus-3b-0.1-ft-GGUF) |
