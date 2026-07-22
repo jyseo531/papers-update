@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-07-21
+Updated on 2026-07-22
 
 > Generated from the Hugging Face database.
 
@@ -111,6 +111,7 @@ Updated on 2026-07-21
 | Updated1 day ago | 53 | cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-4bitAny-to-Any | 6B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-4bit) |
 | Updated17 days ago | 53 | sensefvg/InteractiveOmni-4BAny-to-Any | 6B | [Link](https://huggingface.co/sensefvg/InteractiveOmni-4B) |
 | UpdatedApr 23 | 53 | unsloth/Llama-4-Scout-17B-16E-unsloth-bnb-8bitAny-to-Any | 109B | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-unsloth-bnb-8bit) |
+| Updated6 days ago | 53 | sequelbox/gemma-4-12B-it-Tachibana-AgentAny-to-Any | 12B | [Link](https://huggingface.co/sequelbox/gemma-4-12B-it-Tachibana-Agent) |
 | UpdatedAug 14 | 48k | unsloth/gemma-3-4b-it-GGUFAny-to-Any | 4B | [Link](https://huggingface.co/unsloth/gemma-3-4b-it-GGUF) |
 | UpdatedSep 11, 2024 | 47 | ljnlonoljpiljm/florence-2-large-nsfw-ptAny-to-Any | 0.8B | [Link](https://huggingface.co/ljnlonoljpiljm/florence-2-large-nsfw-pt) |
 | UpdatedNov 4, 2023 | 47.8k | adept/fuyu-8bAny-to-Any | 9B | [Link](https://huggingface.co/adept/fuyu-8b) |
@@ -3779,6 +3780,7 @@ Updated on 2026-07-21
 | 1 | Unknown | chanhanyang/Easy-to-use-OCR-Handwritten-MathmaticsImage-to-Text | UpdatedNov 15, 2025 | [Link](https://huggingface.co/chanhanyang/Easy-to-use-OCR-Handwritten-Mathmatics) |
 | 1 | Unknown | AlienKevin/ipa_ocrImage-to-Text | UpdatedMay 9, 2023 | [Link](https://huggingface.co/AlienKevin/ipa_ocr) |
 | 1 | Unknown | AnhadMahajan/AgriVision-BLIP2Image-to-Text | UpdatedJun 10 | [Link](https://huggingface.co/AnhadMahajan/AgriVision-BLIP2) |
+| 6 | Unknown | nutrientdocs/form-field-vlmImage-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/nutrientdocs/form-field-vlm) |
 
 ## Image-to-Video
 
@@ -6037,6 +6039,7 @@ Updated on 2026-07-21
 | Updatedabout 8 hours ago | 3.53k | janhq/Jan-code-4b-ggufText | 4B | [Link](https://huggingface.co/janhq/Jan-code-4b-gguf) |
 | Updated5 days ago | 3.51k | llm-jp/llm-jp-4-8b-thinkingText | 9B | [Link](https://huggingface.co/llm-jp/llm-jp-4-8b-thinking) |
 | Updated1 day ago | 3.48k | GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-ThinkingText | 1B | [Link](https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking) |
+| Updatedabout 5 hours ago | 3.06k | poolside/Laguna-S-2 | 118B | [Link](https://huggingface.co/poolside/Laguna-S-2.1) |
 | Updated6 days ago | 2.04k | marcelbinz/Llama-3 | 71B | [Link](https://huggingface.co/marcelbinz/Llama-3.1-Centaur-70B) |
 | Updatedabout 2 hours ago | 2.66k | unsloth/Qwen3-235B-A22B-Instruct-2507-GGUFText | 235B | [Link](https://huggingface.co/unsloth/Qwen3-235B-A22B-Instruct-2507-GGUF) |
 | Updatedabout 10 hours ago | 2 | Qwen/Qwen3-30B-A3B-Thinking-2507Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507) |
@@ -6690,6 +6693,7 @@ Updated on 2026-07-21
 | 44 | 6 | multimodalart/tarot-ideogram-4Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/multimodalart/tarot-ideogram-4) |
 | 45 | 6 | MiniT2I/MiniT2IText-to-Image | Updated4 days ago | [Link](https://huggingface.co/MiniT2I/MiniT2I) |
 | 91 | 6 | LAXMAYDAY/krea2-scene-linear-hdr-loraText-to-Image | Updated5 days ago | [Link](https://huggingface.co/LAXMAYDAY/krea2-scene-linear-hdr-lora) |
+| 461 | 6 | Danrisi/Canon_UltraRealText-to-Image | Updated6 days ago | [Link](https://huggingface.co/Danrisi/Canon_UltraReal) |
 | 42 | 5 | Shakker-Labs/RepTextText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Shakker-Labs/RepText) |
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
@@ -7271,6 +7275,7 @@ Updated on 2026-07-21
 | 598 | 5 | contextboxai/Kokoro-VietnameseText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/contextboxai/Kokoro-Vietnamese) |
 | 4 | 5 | OpenFormosa/BlueMagpie-TTSText-to-Speech | Updatedabout 15 hours ago | [Link](https://huggingface.co/OpenFormosa/BlueMagpie-TTS) |
 | 31 | 5 | mlx-community/supertonic-3-mlxText-to-Speech | Updated5 days ago | [Link](https://huggingface.co/mlx-community/supertonic-3-mlx) |
+| 7.65k | 5 | audio-cpp/audio | Updatedabout 11 hours ago | [Link](https://huggingface.co/audio-cpp/audio.cpp-gguf) |
 | 5 | 4 | lunahr/csm-1b-safetensors-fp16Text-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-fp16) |
 | 2 | 4 | VAGOsolutions/SauerkrautTTS-Preview-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/VAGOsolutions/SauerkrautTTS-Preview-0.1) |
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
@@ -7683,6 +7688,7 @@ Updated on 2026-07-21
 | 4 | 2 | epfl-neuroai/NEvoText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/epfl-neuroai/NEvo) |
 | 27 | 2 | Qualcomm-AI-Research/mobilewanText-to-Video | Updatedabout 5 hours ago | [Link](https://huggingface.co/Qualcomm-AI-Research/mobilewan) |
 | 1 | 2 | mehmetkeremturkcan/Suturing-Wan2 | UpdatedMar 14, 2025 | [Link](https://huggingface.co/mehmetkeremturkcan/Suturing-Wan2.1-1.3B-T2V) |
+| Updatedabout 2 hours ago | 2 | ChrisColeTech/LTX-2 | 12B | [Link](https://huggingface.co/ChrisColeTech/LTX-2.3-uncensored-fp8) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
