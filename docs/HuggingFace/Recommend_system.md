@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-07-22
+Updated on 2026-07-23
 
 > Generated from the Hugging Face database.
 
@@ -2724,6 +2724,7 @@ Updated on 2026-07-22
 |  | 26 | dx8152/Qwen-Image-Edit-2511-Gaussian-SplashImage-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/dx8152/Qwen-Image-Edit-2511-Gaussian-Splash) |
 |  | 25 | peteromallet/Flux-Kontext-InSceneImage-to-Image | Updated3 minutes ago | [Link](https://huggingface.co/peteromallet/Flux-Kontext-InScene) |
 | Updatedabout 8 hours ago | 24 | QuantStack/Qwen-Image-Edit-GGUFImage-to-Image | 20B | [Link](https://huggingface.co/QuantStack/Qwen-Image-Edit-GGUF) |
+| Updatedabout 4 hours ago | 24 | microsoft/Mage-Flow-Edit-TurboImage-to-Image | 4B | [Link](https://huggingface.co/microsoft/Mage-Flow-Edit-Turbo) |
 | 52 | 22 | sayakpaul/whitebox-cartoonizerImage-to-Image | UpdatedMar 17, 2023 | [Link](https://huggingface.co/sayakpaul/whitebox-cartoonizer) |
 | 260k | 22 | Lykon/dreamshaper-8-inpaintingImage-to-Image | UpdatedSep 17, 2024 | [Link](https://huggingface.co/Lykon/dreamshaper-8-inpainting) |
 | 12.1k | 19 | lllyasviel/control_v11p_sd15_softedgeImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_softedge) |
@@ -2786,6 +2787,7 @@ Updated on 2026-07-22
 | 285 | 7 | GuangyuanSD/FLUX | Updatedabout 15 hours ago | [Link](https://huggingface.co/GuangyuanSD/FLUX.2-klein-9B-Blitz-ComfyUI) |
 |  | 7 | prithivMLmods/QIE-2509-Object-Remover-Bbox-v3Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prithivMLmods/QIE-2509-Object-Remover-Bbox-v3) |
 | 2 | 7 | yijunwang2/krea2-reidImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/yijunwang2/krea2-reid) |
+| Updatedabout 4 hours ago | 7 | microsoft/Mage-Flow-EditImage-to-Image | 4B | [Link](https://huggingface.co/microsoft/Mage-Flow-Edit) |
 | 1.97k | 6 | TencentARC/t2iadapter_sketch_sd15v2Image-to-Image | UpdatedAug 1, 2023 | [Link](https://huggingface.co/TencentARC/t2iadapter_sketch_sd15v2) |
 | 443 | 6 | LPX55/FLUX | Updated6 days ago | [Link](https://huggingface.co/LPX55/FLUX.1_Kontext-Lightning) |
 | 8 | 6 | stepfun-ai/Step1X-Edit-v1p2-previewImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/stepfun-ai/Step1X-Edit-v1p2-preview) |
@@ -5415,6 +5417,7 @@ Updated on 2026-07-22
 | Updated1 day ago | 140 | PleIAs/MonadText | 56.7M | [Link](https://huggingface.co/PleIAs/Monad) |
 | Updatedabout 10 hours ago | 139 | google/vaultgemma-1bText | 1B | [Link](https://huggingface.co/google/vaultgemma-1b) |
 | Updatedabout 12 hours ago | 139 | nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-Base-BF16Text | 32B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-Base-BF16) |
+| Updatedabout 7 hours ago | 139 | upstage/Solar-Open2-250BText | 250B | [Link](https://huggingface.co/upstage/Solar-Open2-250B) |
 | Updatedabout 4 hours ago | 138 | AvitoTech/avibeText | 8B | [Link](https://huggingface.co/AvitoTech/avibe) |
 | Updatedabout 6 hours ago | 136 | naver-hyperclovax/HyperCLOVAX-SEED-Think-14BText | 15B | [Link](https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Think-14B) |
 | 324 | 133 | moonshotai/Kimi-Dev-72BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-Dev-72B) |
@@ -5482,6 +5485,7 @@ Updated on 2026-07-22
 | Updatedabout 18 hours ago | 86 | Tesslate/WEBGEN-OSS-20BText | 21B | [Link](https://huggingface.co/Tesslate/WEBGEN-OSS-20B) |
 | Updated6 days ago | 85 | AI-MO/Kimina-Prover-72BText | 73B | [Link](https://huggingface.co/AI-MO/Kimina-Prover-72B) |
 | Updatedabout 19 hours ago | 85 | tencent/Penguin-VL-2BText | 2B | [Link](https://huggingface.co/tencent/Penguin-VL-2B) |
+| Updatedabout 8 hours ago | 84 | unsloth/Laguna-S-2 | 118B | [Link](https://huggingface.co/unsloth/Laguna-S-2.1-GGUF) |
 | Updatedabout 3 hours ago | 83 | jxm/gpt-oss-20b-baseText | 21B | [Link](https://huggingface.co/jxm/gpt-oss-20b-base) |
 | Updatedabout 2 hours ago | 83 | WeiboAI/VibeThinker-1 | 2B | [Link](https://huggingface.co/WeiboAI/VibeThinker-1.5B) |
 | Updated36 minutes ago | 83 | naver-hyperclovax/HyperCLOVAX-SEED-Think-32BText | 33B | [Link](https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Think-32B) |
@@ -5511,6 +5515,7 @@ Updated on 2026-07-22
 | 2 | 74 | Qwen/Qwen3-32BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-32B) |
 | Updatedabout 10 hours ago | 74 | ByteDance-Seed/Seed-OSS-36B-InstructText | 36B | [Link](https://huggingface.co/ByteDance-Seed/Seed-OSS-36B-Instruct) |
 | Updatedabout 13 hours ago | 74 | IAAR-Shanghai/MemPrivacy-1 | 2B | [Link](https://huggingface.co/IAAR-Shanghai/MemPrivacy-1.7B-SFT) |
+| Updatedabout 2 hours ago | 74 | fdtn-ai/antares-1bText | 2B | [Link](https://huggingface.co/fdtn-ai/antares-1b) |
 | 21 | 73 | nvidia/Llama-3_1-Nemotron-Ultra-253B-v1Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/nvidia/Llama-3_1-Nemotron-Ultra-253B-v1) |
 | Updated3 days ago | 73 | kurakurai/Luth-LFM2-1 | 1B | [Link](https://huggingface.co/kurakurai/Luth-LFM2-1.2B) |
 | 1.65k | 72 | perplexity-ai/r1-1776-distill-llama-70bText | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776-distill-llama-70b) |
@@ -6505,6 +6510,7 @@ Updated on 2026-07-22
 | 56.2k | 98 | Lykon/dreamshaper-8Text-to-Image | UpdatedDec 7, 2023 | [Link](https://huggingface.co/Lykon/dreamshaper-8) |
 | 117 | 82 | baidu/ERNIE-Image-TurboText-to-Image | Updated39 minutes ago | [Link](https://huggingface.co/baidu/ERNIE-Image-Turbo) |
 | 3.01k | 81 | RunDiffusion/Juggernaut-XI-v11Text-to-Image | UpdatedAug 29, 2024 | [Link](https://huggingface.co/RunDiffusion/Juggernaut-XI-v11) |
+| Updatedabout 4 hours ago | 79 | microsoft/Mage-FlowText-to-Image | 4B | [Link](https://huggingface.co/microsoft/Mage-Flow) |
 | 128 | 75 | bytedance-research/USOText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/bytedance-research/USO) |
 | 1.96k | 71 | aquif-ai/Reupload-Magic-Wan-Image-v1 | Updated34 minutes ago | [Link](https://huggingface.co/aquif-ai/Reupload-Magic-Wan-Image-v1.0) |
 | Updated3 days ago | 70 | bench-labs/pixelmodel-v1Text-to-Image | 23.7k | [Link](https://huggingface.co/bench-labs/pixelmodel-v1) |
@@ -6561,12 +6567,14 @@ Updated on 2026-07-22
 | 326 | 16 | rockerBOO/flux | Updatedabout 10 hours ago | [Link](https://huggingface.co/rockerBOO/flux.1-dev-SRPO) |
 | 247 | 16 | Photoroom/prx-1024-t2i-betaText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/Photoroom/prx-1024-t2i-beta) |
 | 112 | 16 | KlingTeam/SVG-T2IText-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/KlingTeam/SVG-T2I) |
+| Updatedabout 4 hours ago | 16 | microsoft/Mage-Flow-BaseText-to-Image | 4B | [Link](https://huggingface.co/microsoft/Mage-Flow-Base) |
 |  | 15 | Shakker-Labs/AWPortrait-ZText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/Shakker-Labs/AWPortrait-Z) |
 | 45 | 15 | NucleusAI/Nucleus-ImageText-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/NucleusAI/Nucleus-Image) |
 | 8 | 14 | mikeyandfriends/PixelWave_FLUX | Updated1 day ago | [Link](https://huggingface.co/mikeyandfriends/PixelWave_FLUX.1-schnell_04) |
 | 2.23k | 14 | mingyi456/Z-Image-Turbo-DF11-ComfyUIText-to-Image | Updated16 days ago | [Link](https://huggingface.co/mingyi456/Z-Image-Turbo-DF11-ComfyUI) |
 | 9 | 14 | Applesay123456/REDland_Aesthetic_FLUX | UpdatedNov 24 | [Link](https://huggingface.co/Applesay123456/REDland_Aesthetic_FLUX.1_v1) |
 | 109 | 14 | AiArtLab/sdxs-1bText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/AiArtLab/sdxs-1b) |
+| Updatedabout 4 hours ago | 14 | microsoft/Mage-Flow-TurboText-to-Image | 4B | [Link](https://huggingface.co/microsoft/Mage-Flow-Turbo) |
 |  | 13 | aaronaftab/mirage-ghibliText-to-Image | Updatedabout 14 hours ago | [Link](https://huggingface.co/aaronaftab/mirage-ghibli) |
 | 4 | 13 | fumeisama/drawatoon-v1Text-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/fumeisama/drawatoon-v1) |
 | 2.1k | 13 | city96/HiDream-I1-Full-ggufText-to-Image | Updated1 day ago | [Link](https://huggingface.co/city96/HiDream-I1-Full-gguf) |
@@ -7026,6 +7034,8 @@ Updated on 2026-07-22
 | 11 | Unknown | fal/ideogram-v4-instantText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/fal/ideogram-v4-instant) |
 | 1.2k |  | uzumix/krea2_nsfwText-to-Image | Updated7 days ago | [Link](https://huggingface.co/uzumix/krea2_nsfw) |
 | 8 | Unknown | WarmBloodAban/boogu_Anything2RealCharactersText-to-Image | Updated4 days ago | [Link](https://huggingface.co/WarmBloodAban/boogu_Anything2RealCharacters) |
+| 11 | Unknown | LAXMAYDAY/NOOB2-Project-Character-Reference-Bypass-Injector-ResearchText-to-Image | Updated1 day ago | [Link](https://huggingface.co/LAXMAYDAY/NOOB2-Project-Character-Reference-Bypass-Injector-Research) |
+| 741 |  | newsletter/Krea-2-Turbo-unlockedText-to-Image | Updated19 days ago | [Link](https://huggingface.co/newsletter/Krea-2-Turbo-unlocked) |
 
 ## Text-to-Speech
 
@@ -7252,6 +7262,7 @@ Updated on 2026-07-22
 | Updatedabout 11 hours ago | 6 | Aratako/Irodori-TTS-500M-v2Text-to-Speech | 0.5B | [Link](https://huggingface.co/Aratako/Irodori-TTS-500M-v2) |
 | Updatedabout 9 hours ago | 6 | p1atdev/Irodori-TTS-500M-v2-Character-Voice-SigLIPText-to-Speech | 0.5B | [Link](https://huggingface.co/p1atdev/Irodori-TTS-500M-v2-Character-Voice-SigLIP) |
 | Updatedabout 2 hours ago | 6 | hotdogs/omnivoice-thaiText-to-Speech | 0.6B | [Link](https://huggingface.co/hotdogs/omnivoice-thai) |
+| Updatedabout 3 hours ago | 6 | neuphonic/neutts-2eText-to-Speech | 0.2B | [Link](https://huggingface.co/neuphonic/neutts-2e) |
 | 87 | 5 | lunahr/csm-1b-safetensors-quantsText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-quants) |
 | 26 | 5 | 2121-8/canary-tts-0 | Updatedabout 19 hours ago | [Link](https://huggingface.co/2121-8/canary-tts-0.5b) |
 | 12 | 5 | MYZY-AI/Muyan-TTS-SFTText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/MYZY-AI/Muyan-TTS-SFT) |
@@ -7317,6 +7328,7 @@ Updated on 2026-07-22
 | Updatedabout 8 hours ago | 4 | bosonai/higgs-audio-v3-tts-4bText-to-Speech | 5B | [Link](https://huggingface.co/bosonai/higgs-audio-v3-tts-4b) |
 | 27 | 4 | HiMind/Packed-TTSText-to-Speech | Updated5 days ago | [Link](https://huggingface.co/HiMind/Packed-TTS) |
 | 43 | 4 | oddadmix/Nabra-82M-v0 | Updated1 day ago | [Link](https://huggingface.co/oddadmix/Nabra-82M-v0.1) |
+| Updatedabout 3 hours ago | 4 | neuphonic/neutts-2e-q4-ggufText-to-Speech | 0.2B | [Link](https://huggingface.co/neuphonic/neutts-2e-q4-gguf) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 1.22k | 3 | CONCREE/Adia_TTSText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/CONCREE/Adia_TTS) |
@@ -7885,6 +7897,7 @@ Updated on 2026-07-22
 | 2 | Unknown | MeiGen-AI/OPSD-VText-to-Video | Updated3 days ago | [Link](https://huggingface.co/MeiGen-AI/OPSD-V) |
 | 2 | Unknown | elismasilva/LTX-2 | Updated9 days ago | [Link](https://huggingface.co/elismasilva/LTX-2.3-LoRa-Camera-Controls) |
 | 2 | Unknown | joeygambino/ltx23-echoVid-ltxAud-surgicalText-to-Video | Updatedabout 8 hours ago | [Link](https://huggingface.co/joeygambino/ltx23-echoVid-ltxAud-surgical) |
+| 5 | Unknown | joeygambino/joyai-echo-ltx23-echoVid-ltxAud-surgicalText-to-Video | Updatedabout 7 hours ago | [Link](https://huggingface.co/joeygambino/joyai-echo-ltx23-echoVid-ltxAud-surgical) |
 
 ## Text2Text Generation
 
