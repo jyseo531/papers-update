@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-07-23
+Updated on 2026-07-24
 
 > Generated from the Hugging Face database.
 
@@ -2071,6 +2071,7 @@ Updated on 2026-07-23
 | Updated5 days ago | 141 | ByteDance/EvoQualityImage-Text-to-Text | 8B | [Link](https://huggingface.co/ByteDance/EvoQuality) |
 | Updatedabout 11 hours ago | 140 | tencent/POINTS-ReaderImage-Text-to-Text | 4B | [Link](https://huggingface.co/tencent/POINTS-Reader) |
 | Updated5 days ago | 137 | nvidia/NV-Reason-CXR-3BImage-Text-to-Text | 4B | [Link](https://huggingface.co/nvidia/NV-Reason-CXR-3B) |
+| Updated1 day ago | 137 | microsoft/Fara1 | 27B | [Link](https://huggingface.co/microsoft/Fara1.5-27B) |
 | 404 | 136 | allenai/olmOCR-7B-0225-previewImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview) |
 | Updated1 day ago | 134 | DavidAU/Gemma3-27B-it-vl-GLM-4 | 27B | [Link](https://huggingface.co/DavidAU/Gemma3-27B-it-vl-GLM-4.7-Uncensored-Heretic-Deep-Reasoning) |
 | 1.28k | 115 | AIDC-AI/Ovis2-34BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-34B) |
@@ -2081,6 +2082,7 @@ Updated on 2026-07-23
 | 16.1k | 106 | bytedance-research/UI-TARS-72B-DPOImage-Text-to-Text | UpdatedJan 25 | [Link](https://huggingface.co/bytedance-research/UI-TARS-72B-DPO) |
 | Updated4 days ago | 105 | Alibaba-DAMO-Academy/RynnBrain-30B-A3BImage-Text-to-Text | 17B | [Link](https://huggingface.co/Alibaba-DAMO-Academy/RynnBrain-30B-A3B) |
 | Updated2 days ago | 105 | MirilAI/Miril-Drone-2B-1Image-Text-to-Text | 5B | [Link](https://huggingface.co/MirilAI/Miril-Drone-2B-1) |
+| Updated1 day ago | 102 | PaddlePaddle/HPD-ParsingImage-Text-to-Text | 1B | [Link](https://huggingface.co/PaddlePaddle/HPD-Parsing) |
 | Updatedabout 1 hour ago | 101 | LiquidAI/LFM2-VL-3BImage-Text-to-Text | 3B | [Link](https://huggingface.co/LiquidAI/LFM2-VL-3B) |
 | Updated1 minute ago | 101 | baidu/Qianfan-OCRImage-Text-to-Text | 5B | [Link](https://huggingface.co/baidu/Qianfan-OCR) |
 | Updatedabout 12 hours ago | 100 | google/translategemma-4b-itImage-Text-to-Text | 5B | [Link](https://huggingface.co/google/translategemma-4b-it) |
@@ -2106,6 +2108,7 @@ Updated on 2026-07-23
 | Updated6 days ago | 77 | AvitoTech/avisionImage-Text-to-Text | 7B | [Link](https://huggingface.co/AvitoTech/avision) |
 | Updatedabout 1 hour ago | 76.7k | huihui-ai/Huihui-Qwen3-VL-30B-A3B-Instruct-abliteratedImage-Text-to-Text | 31B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3-VL-30B-A3B-Instruct-abliterated) |
 | Updated5 days ago | 73 | neovateai/UI-UG-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/neovateai/UI-UG-7B) |
+| Updated1 day ago | 73 | baseten/GLM-5 | 381B | [Link](https://huggingface.co/baseten/GLM-5.2-Vision-NVFP4) |
 | 1.06k | 71 | AIDC-AI/Ovis2-16BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-16B) |
 | Updatedabout 8 hours ago | 71.1k | Qwen/Qwen3-VL-30B-A3B-Thinking-FP8Image-Text-to-Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Thinking-FP8) |
 | Updated5 days ago | 70 | smolagents/SmolVLM2-2 | 2B | [Link](https://huggingface.co/smolagents/SmolVLM2-2.2B-Instruct-Agentic-GUI) |
@@ -2670,6 +2673,7 @@ Updated on 2026-07-23
 | Updatedabout 13 hours ago | 222 | unsloth/Qwen-Image-Edit-GGUFImage-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-Edit-GGUF) |
 | Updated1 day ago | 206 | unsloth/Qwen-Image-Edit-2509-GGUFImage-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-Edit-2509-GGUF) |
 | 13.9k | 205 | XLabs-AI/flux-ip-adapter-v2Image-to-Image | UpdatedOct 24, 2024 | [Link](https://huggingface.co/XLabs-AI/flux-ip-adapter-v2) |
+| Updatedabout 12 hours ago | 181 | microsoft/Mage-Flow-Edit-BaseImage-to-Image | 4B | [Link](https://huggingface.co/microsoft/Mage-Flow-Edit-Base) |
 | 1 | 167 | InstantX/InstantIRImage-to-Image | UpdatedNov 7, 2024 | [Link](https://huggingface.co/InstantX/InstantIR) |
 | Updated1 day ago | 138 | rafacost/DreamOmni2-7 | 8B | [Link](https://huggingface.co/rafacost/DreamOmni2-7.6B-GGUF) |
 | 8.65k | 135 | lllyasviel/sd-controlnet-openposeImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-openpose) |
@@ -5245,6 +5249,7 @@ Updated on 2026-07-23
 | Updatedabout 8 hours ago | 886 | KORMo-Team/KORMo-10B-baseText | 11B | [Link](https://huggingface.co/KORMo-Team/KORMo-10B-base) |
 | Updatedabout 19 hours ago | 868 | inclusionAI/Ling-2 | 1T | [Link](https://huggingface.co/inclusionAI/Ling-2.5-1T) |
 | Updated23 minutes ago | 854 | Qwen/Qwen3-Next-80B-A3B-InstructText | 81B | [Link](https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct) |
+| Updated1 day ago | 839 | fdtn-ai/antares-350mText | 0.4B | [Link](https://huggingface.co/fdtn-ai/antares-350m) |
 | Updated3 days ago | 809 | ibm-granite/granite-guardian-4 | 8B | [Link](https://huggingface.co/ibm-granite/granite-guardian-4.1-8b) |
 | Updated1 day ago | 789 | FINAL-Bench/Darwin-31B-OpusText | 33B | [Link](https://huggingface.co/FINAL-Bench/Darwin-31B-Opus) |
 | Updated3 days ago | 786 | apple/FastVLM-1 | 2B | [Link](https://huggingface.co/apple/FastVLM-1.5B) |
@@ -5631,6 +5636,7 @@ Updated on 2026-07-23
 | Updatedabout 2 hours ago | 39 | meituan-longcat/LongCat-Flash-Thinking-2601Text | 562B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Thinking-2601) |
 | Updatedabout 4 hours ago | 39k | cyankiwi/GLM-4 | 6B | [Link](https://huggingface.co/cyankiwi/GLM-4.7-Flash-AWQ-4bit) |
 | Updatedabout 2 hours ago | 39 | Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2Text | 25B | [Link](https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2) |
+| 77 | 39 | badtheorylabs/BTL-3Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/badtheorylabs/BTL-3) |
 | 227 | 38 | LGAI-EXAONE/EXAONE-Deep-7 | Updated4 minutes ago | [Link](https://huggingface.co/LGAI-EXAONE/EXAONE-Deep-7.8B) |
 | 9.86k | 38 | starvector/starvector-1b-im2svgText | Updated2 days ago | [Link](https://huggingface.co/starvector/starvector-1b-im2svg) |
 | 278 | 38 | deepcogito/cogito-v1-preview-qwen-32BText | Updated1 day ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-qwen-32B) |
@@ -7287,6 +7293,7 @@ Updated on 2026-07-23
 | 4 | 5 | OpenFormosa/BlueMagpie-TTSText-to-Speech | Updatedabout 15 hours ago | [Link](https://huggingface.co/OpenFormosa/BlueMagpie-TTS) |
 | 31 | 5 | mlx-community/supertonic-3-mlxText-to-Speech | Updated5 days ago | [Link](https://huggingface.co/mlx-community/supertonic-3-mlx) |
 | 7.65k | 5 | audio-cpp/audio | Updatedabout 11 hours ago | [Link](https://huggingface.co/audio-cpp/audio.cpp-gguf) |
+| 78 | 5 | Sariel00/cosyvoice2_rknnText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/Sariel00/cosyvoice2_rknn) |
 | 5 | 4 | lunahr/csm-1b-safetensors-fp16Text-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-fp16) |
 | 2 | 4 | VAGOsolutions/SauerkrautTTS-Preview-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/VAGOsolutions/SauerkrautTTS-Preview-0.1) |
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
@@ -7631,6 +7638,7 @@ Updated on 2026-07-23
 | 54 | 3 | FastVideo/FastWan-QAD-1 | Updatedabout 4 hours ago | [Link](https://huggingface.co/FastVideo/FastWan-QAD-1.3B-SA2) |
 | Updated5 minutes ago | 3 | realrebelai/LingBot-30B-3B_GGUF_ComfyUIText-to-Video | 30B | [Link](https://huggingface.co/realrebelai/LingBot-30B-3B_GGUF_ComfyUI) |
 | 16 | 3 | aidealab/AnimeGen-T2VText-to-Video | Updated14 days ago | [Link](https://huggingface.co/aidealab/AnimeGen-T2V) |
+| 38 | 3 | joeygambino/joyai-echo-ltx23-echoVid-ltxAud-surgical-int8Text-to-Video | Updatedabout 4 hours ago | [Link](https://huggingface.co/joeygambino/joyai-echo-ltx23-echoVid-ltxAud-surgical-int8) |
 | 69 | 2 | obvious-research/onlyflowText-to-Video | Updated5 days ago | [Link](https://huggingface.co/obvious-research/onlyflow) |
 | 42 | 2 | jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIEText-to-Video | Updated7 days ago | [Link](https://huggingface.co/jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIE) |
 | 10 | 2 | vdo/Hotshot-XLText-to-Video | UpdatedOct 4, 2023 | [Link](https://huggingface.co/vdo/Hotshot-XL) |
