@@ -7539,6 +7539,7 @@ Updated on 2026-07-23
 | 28k | 169 | ali-vilab/i2vgen-xlText-to-Video | UpdatedFeb 9, 2024 | [Link](https://huggingface.co/ali-vilab/i2vgen-xl) |
 | 68 | 160 | camenduru/potat1Text-to-Video | UpdatedJun 15, 2023 | [Link](https://huggingface.co/camenduru/potat1) |
 | 30.2k | 141 | city96/HunyuanVideo-ggufText-to-Video | UpdatedDec 17, 2024 | [Link](https://huggingface.co/city96/HunyuanVideo-gguf) |
+| Updated5 days ago | 127 | NullpoLab/AnimeGen-T2V-GGUFText-to-Video | 14B | [Link](https://huggingface.co/NullpoLab/AnimeGen-T2V-GGUF) |
 | Updated14 days ago | 118 | Brian9999/game-editingText-to-Video | 1B | [Link](https://huggingface.co/Brian9999/game-editing) |
 | Updated1 day ago | 101 | jayn7/HunyuanVideo-1 | 8B | [Link](https://huggingface.co/jayn7/HunyuanVideo-1.5_T2V_720p-GGUF) |
 | 9 | 71 | LanguageBind/Open-Sora-Plan-v1 | UpdatedDec 5, 2024 | [Link](https://huggingface.co/LanguageBind/Open-Sora-Plan-v1.3.0) |
