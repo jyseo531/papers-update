@@ -6510,6 +6510,7 @@ Updated on 2026-07-24
 | 35.7k | 147 | nunchaku-ai/nunchaku-z-image-turboText-to-Image | Updated15 days ago | [Link](https://huggingface.co/nunchaku-ai/nunchaku-z-image-turbo) |
 | 168k | 140 | SG161222/RealVisXL_V5 | UpdatedOct 8, 2024 | [Link](https://huggingface.co/SG161222/RealVisXL_V5.0) |
 | Updatedabout 13 hours ago | 139 | nvidia/Cosmos3-Super-Text2ImageText-to-Image | 65B | [Link](https://huggingface.co/nvidia/Cosmos3-Super-Text2Image) |
+| Updated1 day ago | 134 | nvidia/Qwen-Image-FlashText-to-Image | 20B | [Link](https://huggingface.co/nvidia/Qwen-Image-Flash) |
 | Updatedabout 17 hours ago | 126 | nicolas-dufour/miroText-to-Image | 0.4B | [Link](https://huggingface.co/nicolas-dufour/miro) |
 | Updatedabout 16 hours ago | 124 | calcuis/krea-ggufText-to-Image | 12B | [Link](https://huggingface.co/calcuis/krea-gguf) |
 | Updatedabout 17 hours ago | 116 | wikeeyang/Real-Qwen-Image-V2Text-to-Image | 20B | [Link](https://huggingface.co/wikeeyang/Real-Qwen-Image-V2) |
@@ -6567,6 +6568,7 @@ Updated on 2026-07-24
 | 8.81k | 20 | sd2-community/stable-diffusion-2-1Text-to-Image | UpdatedNov 15, 2025 | [Link](https://huggingface.co/sd2-community/stable-diffusion-2-1) |
 |  | 20 | ostris/krea2_turbo_style_referenceText-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/ostris/krea2_turbo_style_reference) |
 | 182 | 19 | GuangyuanSD/Z-Image-DistilledText-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/GuangyuanSD/Z-Image-Distilled) |
+| Updatedabout 4 hours ago | 19 | bench-labs/PixelModel-v2Text-to-Image | 200k | [Link](https://huggingface.co/bench-labs/PixelModel-v2) |
 |  | 18 | multimodalart/isometric-skeumorphic-3d-bnbText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/multimodalart/isometric-skeumorphic-3d-bnb) |
 | Updatedabout 3 hours ago | 18 | jayn7/Z-Image-Turbo-GGUFText-to-Image | 6B | [Link](https://huggingface.co/jayn7/Z-Image-Turbo-GGUF) |
 | 289 | 18 | NO8D/ExpressionControlText-to-Image | Updated1 day ago | [Link](https://huggingface.co/NO8D/ExpressionControl) |
@@ -7538,6 +7540,7 @@ Updated on 2026-07-24
 | Updatedabout 7 hours ago | 466 | realrebelai/JoyAI-Echo_GGUFText-to-Video | 12B | [Link](https://huggingface.co/realrebelai/JoyAI-Echo_GGUF) |
 | 4.01k | 461 | ali-vilab/modelscope-damo-text-to-video-synthesisText-to-Video | UpdatedMar 29, 2023 | [Link](https://huggingface.co/ali-vilab/modelscope-damo-text-to-video-synthesis) |
 | UpdatedAug 9, 2025 | 456 | calcuis/mochi-ggufText-to-Video | 10B | [Link](https://huggingface.co/calcuis/mochi-gguf) |
+| Updatedabout 5 hours ago | 446 | joeygambino/joyai-echo-ltx23-echoVid-ltxAud-surgical-ggufText-to-Video | 22B | [Link](https://huggingface.co/joeygambino/joyai-echo-ltx23-echoVid-ltxAud-surgical-gguf) |
 | 1.17k | 353 | stepfun-ai/stepvideo-t2vText-to-Video | Updated6 days ago | [Link](https://huggingface.co/stepfun-ai/stepvideo-t2v) |
 | 56.9k | 332 | zai-org/CogVideoX-2bText-to-Video | UpdatedNov 23, 2024 | [Link](https://huggingface.co/zai-org/CogVideoX-2b) |
 | 81.9k | 322 | wangfuyun/AnimateLCMText-to-Video | UpdatedOct 16, 2024 | [Link](https://huggingface.co/wangfuyun/AnimateLCM) |
