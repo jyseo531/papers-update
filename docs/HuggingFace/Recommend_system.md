@@ -3313,6 +3313,7 @@ Updated on 2026-07-24
 | UpdatedApr 24, 2024 | 35 | HamAndCheese82/math-ocr-donut-v2Image-to-Text | 0.2B | [Link](https://huggingface.co/HamAndCheese82/math-ocr-donut-v2) |
 | UpdatedNov 22, 2025 | 34.4k | DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-ExtremeImage-to-Text | 4B | [Link](https://huggingface.co/DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-Extreme) |
 | Updated5 days ago | 34 | SEOKDONG/Qwen3 | 9B | [Link](https://huggingface.co/SEOKDONG/Qwen3.5-9B-kor-enterprise) |
+| UpdatedMay 10 | 34 | thekamilya/kazakh-trocr-fine-tunedImage-to-Text | 0.3B | [Link](https://huggingface.co/thekamilya/kazakh-trocr-fine-tuned) |
 | Updated3 days ago | 33 | ENC-PSL/Medusa0 | 9B | [Link](https://huggingface.co/ENC-PSL/Medusa0.1Line-9B) |
 | 6.34k | 32 | thwri/CogFlorence-2 | UpdatedSep 28, 2024 | [Link](https://huggingface.co/thwri/CogFlorence-2.2-Large) |
 | Updatedabout 4 hours ago | 32 | junyoung-00/Phi-3 | 4B | [Link](https://huggingface.co/junyoung-00/Phi-3.5-vision-instruct-ChartCap) |
@@ -5526,6 +5527,7 @@ Updated on 2026-07-24
 | 1.65k | 72 | perplexity-ai/r1-1776-distill-llama-70bText | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776-distill-llama-70b) |
 | 3.22k | 72 | sarvamai/sarvam-1Text | UpdatedNov 8, 2024 | [Link](https://huggingface.co/sarvamai/sarvam-1) |
 | Updated4 days ago | 72 | FINAL-Bench/Darwin-28B-CoderText | 27B | [Link](https://huggingface.co/FINAL-Bench/Darwin-28B-Coder) |
+| Updatedabout 16 hours ago | 72 | Kwaipilot/KAT-Coder-V2 | 35B | [Link](https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev) |
 | 37 | 71 | microsoft/Phi-4-reasoning-plusText | Updated13 days ago | [Link](https://huggingface.co/microsoft/Phi-4-reasoning-plus) |
 | Updatedabout 2 hours ago | 71 | moonshotai/Kimi-Linear-48B-A3B-BaseText | 49B | [Link](https://huggingface.co/moonshotai/Kimi-Linear-48B-A3B-Base) |
 | Updatedabout 8 hours ago | 71 | unsloth/Qwen3-Coder-Next-GGUFText | 80B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-Next-GGUF) |
@@ -5875,6 +5877,7 @@ Updated on 2026-07-24
 | 4 | 19 | xTimeCrystal/MiniModel-200M-BaseText | Updatedabout 21 hours ago | [Link](https://huggingface.co/xTimeCrystal/MiniModel-200M-Base) |
 | Updatedabout 2 hours ago | 19 | inclusionAI/Ring-mini-sparse-2 | 16B | [Link](https://huggingface.co/inclusionAI/Ring-mini-sparse-2.0-exp) |
 | Updated1 day ago | 19 | deepcogito/cogito-671b-v2 | 671B | [Link](https://huggingface.co/deepcogito/cogito-671b-v2.1) |
+| Updated12 minutes ago | 19 | ProCreations/grug-27bText | 27B | [Link](https://huggingface.co/ProCreations/grug-27b) |
 | 969 | 18 | bartowski/all-hands_openhands-lm-32b-v0 | Updated2 days ago | [Link](https://huggingface.co/bartowski/all-hands_openhands-lm-32b-v0.1-GGUF) |
 | 256 | 18 | Trendyol/Trendyol-LLM-7B-chat-v4 | Updated3 days ago | [Link](https://huggingface.co/Trendyol/Trendyol-LLM-7B-chat-v4.1.0) |
 | 1.11k | 18 | bartowski/Zyphra_ZR1-1 | Updated1 day ago | [Link](https://huggingface.co/bartowski/Zyphra_ZR1-1.5B-GGUF) |
@@ -7095,6 +7098,7 @@ Updated on 2026-07-24
 | Updated5 days ago | 237 | neuphonic/neutts-nano-german-q4-ggufText-to-Speech | 0.2B | [Link](https://huggingface.co/neuphonic/neutts-nano-german-q4-gguf) |
 | Updated16 days ago | 231 | Vyvo/Vyvo-Multilingual-v0 | 0.9B | [Link](https://huggingface.co/Vyvo/Vyvo-Multilingual-v0.1) |
 | Updatedabout 9 hours ago | 216 | microsoft/VibeVoice-1 | 3B | [Link](https://huggingface.co/microsoft/VibeVoice-1.5B) |
+| Updated1 day ago | 216 | neuphonic/neutts-2e-q8-ggufText-to-Speech | 0.2B | [Link](https://huggingface.co/neuphonic/neutts-2e-q8-gguf) |
 | Updatedabout 4 hours ago | 214 | neuphonic/neutts-nanoText-to-Speech | 0.3B | [Link](https://huggingface.co/neuphonic/neutts-nano) |
 | 108 | 202 | mistralai/Voxtral-4B-TTS-2603Text-to-Speech | Updatedabout 11 hours ago | [Link](https://huggingface.co/mistralai/Voxtral-4B-TTS-2603) |
 | Updated6 days ago | 197 | neuphonic/neutts-nano-german-q8-ggufText-to-Speech | 0.2B | [Link](https://huggingface.co/neuphonic/neutts-nano-german-q8-gguf) |
