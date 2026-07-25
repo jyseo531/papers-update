@@ -3503,6 +3503,7 @@ Updated on 2026-07-25
 | 17.1k | 4 | PaddlePaddle/PP-OCRv4_mobile_detImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv4_mobile_det) |
 | UpdatedMay 6 | 4 | hasindu-k/sinhala-handwritten-notes-v3Image-to-Text | 0.3B | [Link](https://huggingface.co/hasindu-k/sinhala-handwritten-notes-v3) |
 | 9.04k | 4 | PaddlePaddle/RT-DETR-L_wireless_table_cell_detImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/RT-DETR-L_wireless_table_cell_det) |
+| UpdatedJan 9 | 4 | TESS-Computer/qwen-click-ditImage-to-Text | 4B | [Link](https://huggingface.co/TESS-Computer/qwen-click-dit) |
 | 299 | 3 | cnmoro/nano-image-captioningImage-to-Text | Updatedabout 1 month ago | [Link](https://huggingface.co/cnmoro/nano-image-captioning) |
 | 45 | 3 | braintacles/brainblipImage-to-Text | UpdatedJun 27, 2024 | [Link](https://huggingface.co/braintacles/brainblip) |
 | 55 | 3 | sbintuitions/sarashina2-vision-8bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-8b) |
@@ -3681,6 +3682,7 @@ Updated on 2026-07-25
 | Updated9 days ago | 1 | Teklia/Qwen2 | 8B | [Link](https://huggingface.co/Teklia/Qwen2.5-VL-7B-DAI-CReTDHI-RecordGold-ATR) |
 | Updated2 days ago | 1.41k | mradermacher/dots | 2B | [Link](https://huggingface.co/mradermacher/dots.ocr-i1-GGUF) |
 | 178 | 1 | PaddlePaddle/RT-DETR-L_wireless_table_cell_det_onnxImage-to-Text | UpdatedJun 10 | [Link](https://huggingface.co/PaddlePaddle/RT-DETR-L_wireless_table_cell_det_onnx) |
+| 20 | 1 | mapo80/DeQA-Doc-SharpnessImage-to-Text | UpdatedDec 18, 2025 | [Link](https://huggingface.co/mapo80/DeQA-Doc-Sharpness) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -7165,6 +7167,7 @@ Updated on 2026-07-25
 | Updatedabout 8 hours ago | 51 | neuphonic/neutts-air-q8-ggufText-to-Speech | 0.7B | [Link](https://huggingface.co/neuphonic/neutts-air-q8-gguf) |
 | Updated3 days ago | 50 | nineninesix/kani-tts-400m-koText-to-Speech | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-400m-ko) |
 | 38.3k | 48 | SWivid/E2-TTSText-to-Speech | UpdatedMar 12 | [Link](https://huggingface.co/SWivid/E2-TTS) |
+| 47 | 46 | owensong/Inflect-Micro-v2Text-to-Speech | Updatedabout 5 hours ago | [Link](https://huggingface.co/owensong/Inflect-Micro-v2) |
 | 73.1k | 45 | onnx-community/Kokoro-82M-v1 | Updated17 days ago | [Link](https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX) |
 | 482 | 44 | nvidia/magpie_tts_multilingual_357mText-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/nvidia/magpie_tts_multilingual_357m) |
 | Updated1 day ago | 44 | nineninesix/kani-tts-2-enText-to-Speech | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-2-en) |
@@ -7188,6 +7191,7 @@ Updated on 2026-07-25
 | Updatedabout 7 hours ago | 30 | microsoft/VibeVoice-LargeText-to-Speech | 9B | [Link](https://huggingface.co/microsoft/VibeVoice-Large) |
 | Updatedabout 20 hours ago | 30 | SVECTOR-CORPORATION/Continue-TTSText-to-Speech | 4B | [Link](https://huggingface.co/SVECTOR-CORPORATION/Continue-TTS) |
 | Updatedabout 3 hours ago | 30 | Aratako/T5Gemma-TTS-2b-2bText-to-Speech | 5B | [Link](https://huggingface.co/Aratako/T5Gemma-TTS-2b-2b) |
+| 42 | 30 | owensong/Inflect-Nano-v2Text-to-Speech | Updatedabout 5 hours ago | [Link](https://huggingface.co/owensong/Inflect-Nano-v2) |
 | 3.72k | 29 | parler-tts/parler-tts-mini-multilingual-v1 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-mini-multilingual-v1.1) |
 | 1.34k | 29 | Xenova/speecht5_ttsText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/Xenova/speecht5_tts) |
 | 1.2k | 27 | saheedniyi/YarnGPTText-to-Speech | UpdatedJan 29 | [Link](https://huggingface.co/saheedniyi/YarnGPT) |
@@ -7628,6 +7632,7 @@ Updated on 2026-07-25
 | 295 | 4 | vrgamedevgirl84/LTX2 | UpdatedApr 24 | [Link](https://huggingface.co/vrgamedevgirl84/LTX2.3_Cozy_Felt_Style_LoRa) |
 | 233 | 4 | FastVideo/FastWan-QAD-FP8-1 | Updated3 days ago | [Link](https://huggingface.co/FastVideo/FastWan-QAD-FP8-1.3B) |
 | 60 | 4 | ALXOPENSOURCE/lingbot-video-1 | Updated1 day ago | [Link](https://huggingface.co/ALXOPENSOURCE/lingbot-video-1.3b-fp8) |
+| 475 | 4 | linoyts/ltx2 | Updated19 days ago | [Link](https://huggingface.co/linoyts/ltx2.3-ic-lora-ingredients-multishot) |
 | 4.64k | 3 | guoyww/animatediff-motion-lora-pan-rightText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-pan-right) |
 | 28 | 3 | finetrainers/3dgs-v0Text-to-Video | UpdatedJan 29 | [Link](https://huggingface.co/finetrainers/3dgs-v0) |
 | 1 | 3 | longlian/text-to-video-lvd-msText-to-Video | UpdatedMay 1, 2024 | [Link](https://huggingface.co/longlian/text-to-video-lvd-ms) |
