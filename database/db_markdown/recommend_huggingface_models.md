@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-07-24
+Updated on 2026-07-25
 
 > Generated from the Hugging Face database.
 
@@ -2560,6 +2560,7 @@ Updated on 2026-07-24
 | Updatedabout 12 hours ago |  | CohereLabs/command-a-plus-05-2026-fp8Image-Text-to-Text | 219B | [Link](https://huggingface.co/CohereLabs/command-a-plus-05-2026-fp8) |
 | 25 | Unknown | ahmed22xa/Huihui-Qwen3-VL-4B-Instruct-abliterated-comfyImage-Text-to-Text | Updated4 days ago | [Link](https://huggingface.co/ahmed22xa/Huihui-Qwen3-VL-4B-Instruct-abliterated-comfy) |
 | 25 | Unknown | DreamFast/Qwen3-VL-4b-Heretic-ComfyUIImage-Text-to-Text | Updated4 days ago | [Link](https://huggingface.co/DreamFast/Qwen3-VL-4b-Heretic-ComfyUI) |
+| Updatedabout 18 hours ago |  | swiss-ai/Apertus-v1 | 72B | [Link](https://huggingface.co/swiss-ai/Apertus-v1.5-70B) |
 
 ## Image-to-3D
 
@@ -3436,6 +3437,7 @@ Updated on 2026-07-24
 | Updated2 days ago | 8 | ob11/Qwen-VL-PRM-7BImage-to-Text | 8B | [Link](https://huggingface.co/ob11/Qwen-VL-PRM-7B) |
 | UpdatedApr 2, 2024 | 8 | unstructuredio/donut-base-labelstudio-A1 | 0.2B | [Link](https://huggingface.co/unstructuredio/donut-base-labelstudio-A1.0) |
 | 4 | 8 | Riksarkivet/satrn_htrImage-to-Text | UpdatedNov 9, 2024 | [Link](https://huggingface.co/Riksarkivet/satrn_htr) |
+| UpdatedDec 23, 2025 | 8 | PengxiangLi/dart-gui-7bImage-to-Text | 8B | [Link](https://huggingface.co/PengxiangLi/dart-gui-7b) |
 | 1.58k | 7 | DunnBC22/trocr-base-printed_captcha_ocrImage-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-base-printed_captcha_ocr) |
 | 24.7k | 7 | Riksarkivet/trocr-base-handwritten-hist-swe-2Image-to-Text | Updated11 days ago | [Link](https://huggingface.co/Riksarkivet/trocr-base-handwritten-hist-swe-2) |
 | 285 | 7 | purna419/invoice-parserImage-to-Text | UpdatedJul 10, 2023 | [Link](https://huggingface.co/purna419/invoice-parser) |
@@ -6495,6 +6497,7 @@ Updated on 2026-07-24
 | 14.6k | 321 | JujoHotaru/loraText-to-Image | UpdatedApr 28 | [Link](https://huggingface.co/JujoHotaru/lora) |
 | 3.97k | 317 | Shitao/OmniGen-v1Text-to-Image | UpdatedNov 7, 2024 | [Link](https://huggingface.co/Shitao/OmniGen-v1) |
 | Updatedabout 14 hours ago | 311 | unsloth/ERNIE-Image-GGUFText-to-Image | 8B | [Link](https://huggingface.co/unsloth/ERNIE-Image-GGUF) |
+| Updated5 days ago | 301 | nvidia/Cosmos3-Super-Text2Image-4StepText-to-Image | 64B | [Link](https://huggingface.co/nvidia/Cosmos3-Super-Text2Image-4Step) |
 | 70.7k | 272 | nunchaku-ai/nunchaku-qwen-image-edit-2509Text-to-Image | UpdatedNov 16, 2025 | [Link](https://huggingface.co/nunchaku-ai/nunchaku-qwen-image-edit-2509) |
 | Updatedabout 15 hours ago | 266 | Danrisi/UltraReal_FineTune_AnimaText-to-Image | 2B | [Link](https://huggingface.co/Danrisi/UltraReal_FineTune_Anima) |
 | 15.3k | 254 | InstantX/FLUX | UpdatedNov 23, 2024 | [Link](https://huggingface.co/InstantX/FLUX.1-dev-IP-Adapter) |
