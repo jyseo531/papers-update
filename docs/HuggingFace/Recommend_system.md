@@ -3242,9 +3242,11 @@ Updated on 2026-07-26
 | Updatedabout 20 hours ago | 110 | scb10x/typhoon-ocr1 | 2B | [Link](https://huggingface.co/scb10x/typhoon-ocr1.5-2b) |
 | Updatedabout 9 hours ago | 106 | manu02/LAnA-v2Image-to-Text | 0.3B | [Link](https://huggingface.co/manu02/LAnA-v2) |
 | UpdatedAug 14, 2025 | 105k | unsloth/gemma-3-27b-it-GGUFImage-to-Text | 27B | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-GGUF) |
+| Updatedabout 20 hours ago | 100 | arkhabbazan/ocr-captcha-routerImage-to-Text | 2.26M | [Link](https://huggingface.co/arkhabbazan/ocr-captcha-router) |
 | UpdatedSep 7, 2024 | 99 | antoniorv6/smt-camera-grandstaffImage-to-Text | 21.4M | [Link](https://huggingface.co/antoniorv6/smt-camera-grandstaff) |
 | Updatedabout 19 hours ago | 96 | davanstrien/iconclass-vlmImage-to-Text | 4B | [Link](https://huggingface.co/davanstrien/iconclass-vlm) |
 | UpdatedJun 26, 2025 | 96 | Daniil-Domino/trocr-base-ru-dialectic-stackmixImage-to-Text | 0.3B | [Link](https://huggingface.co/Daniil-Domino/trocr-base-ru-dialectic-stackmix) |
+| Updatedabout 20 hours ago | 94 | arkhabbazan/ocr-math-captchaImage-to-Text | 0.3B | [Link](https://huggingface.co/arkhabbazan/ocr-math-captcha) |
 | Updated1 day ago | 93 | EpistemeAI/Audiogemma-3N-finetuneImage-to-Text | 8B | [Link](https://huggingface.co/EpistemeAI/Audiogemma-3N-finetune) |
 | Updated3 days ago | 87 | shkb/MemeLeakImage-to-Text | 9B | [Link](https://huggingface.co/shkb/MemeLeak) |
 | UpdatedOct 5, 2024 | 82 | syubraj/TrOCR_NepaliImage-to-Text | 0.2B | [Link](https://huggingface.co/syubraj/TrOCR_Nepali) |
@@ -5368,6 +5370,7 @@ Updated on 2026-07-26
 | Updated2 days ago | 246 | nvidia/Efficient-DLM-4BText | 4B | [Link](https://huggingface.co/nvidia/Efficient-DLM-4B) |
 | Updated5 days ago | 244 | jet-ai/Jet-Nemotron-4BText | 4B | [Link](https://huggingface.co/jet-ai/Jet-Nemotron-4B) |
 | Updatedabout 18 hours ago | 243 | Ex0bit/Qwen3 | 27B | [Link](https://huggingface.co/Ex0bit/Qwen3.6-27B-PRISM-PRO-DQ) |
+| Updated3 days ago | 242 | mindlab-research/Macaron-V1-VentiText | 753B | [Link](https://huggingface.co/mindlab-research/Macaron-V1-Venti) |
 | 8.85k | 235 | microsoft/BioGPT-LargeText | UpdatedFeb 5, 2023 | [Link](https://huggingface.co/microsoft/BioGPT-Large) |
 | Updated2 days ago | 235 | Multilingual-Multimodal-NLP/IndustrialCoderText | 32B | [Link](https://huggingface.co/Multilingual-Multimodal-NLP/IndustrialCoder) |
 | Updatedabout 20 hours ago | 234 | radicalnumerics/RND1-Base-0910Text | 31B | [Link](https://huggingface.co/radicalnumerics/RND1-Base-0910) |
@@ -7308,6 +7311,7 @@ Updated on 2026-07-26
 | 31 | 5 | mlx-community/supertonic-3-mlxText-to-Speech | Updated5 days ago | [Link](https://huggingface.co/mlx-community/supertonic-3-mlx) |
 | 7.65k | 5 | audio-cpp/audio | Updatedabout 11 hours ago | [Link](https://huggingface.co/audio-cpp/audio.cpp-gguf) |
 | 78 | 5 | Sariel00/cosyvoice2_rknnText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/Sariel00/cosyvoice2_rknn) |
+| 33 | 5 | owensong/Inflect-Micro-v2-ONNXText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/owensong/Inflect-Micro-v2-ONNX) |
 | 5 | 4 | lunahr/csm-1b-safetensors-fp16Text-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-fp16) |
 | 2 | 4 | VAGOsolutions/SauerkrautTTS-Preview-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/VAGOsolutions/SauerkrautTTS-Preview-0.1) |
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
