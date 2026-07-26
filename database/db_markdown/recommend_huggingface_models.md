@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-07-25
+Updated on 2026-07-26
 
 > Generated from the Hugging Face database.
 
@@ -6529,6 +6529,7 @@ Updated on 2026-07-25
 | 128 | 75 | bytedance-research/USOText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/bytedance-research/USO) |
 | 1.96k | 71 | aquif-ai/Reupload-Magic-Wan-Image-v1 | Updated34 minutes ago | [Link](https://huggingface.co/aquif-ai/Reupload-Magic-Wan-Image-v1.0) |
 | Updated3 days ago | 70 | bench-labs/pixelmodel-v1Text-to-Image | 23.7k | [Link](https://huggingface.co/bench-labs/pixelmodel-v1) |
+| Updatedabout 18 hours ago | 69 | bench-labs/PixelModel-v3Text-to-Image | 919k | [Link](https://huggingface.co/bench-labs/PixelModel-v3) |
 | Updated1 day ago | 68 | epfl-vita/flux2-klein-1step-rdmText-to-Image | 4B | [Link](https://huggingface.co/epfl-vita/flux2-klein-1step-rdm) |
 | 8.76k | 66 | Freepik/flux | UpdatedDec 30, 2024 | [Link](https://huggingface.co/Freepik/flux.1-lite-8B) |
 | 9.8k | 66 | cyberdelia/CyberRealisticText-to-Image | Updated12 days ago | [Link](https://huggingface.co/cyberdelia/CyberRealistic) |
