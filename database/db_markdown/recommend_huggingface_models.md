@@ -3507,6 +3507,7 @@ Updated on 2026-07-27
 | UpdatedMay 6 | 4 | hasindu-k/sinhala-handwritten-notes-v3Image-to-Text | 0.3B | [Link](https://huggingface.co/hasindu-k/sinhala-handwritten-notes-v3) |
 | 9.04k | 4 | PaddlePaddle/RT-DETR-L_wireless_table_cell_detImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/RT-DETR-L_wireless_table_cell_det) |
 | UpdatedJan 9 | 4 | TESS-Computer/qwen-click-ditImage-to-Text | 4B | [Link](https://huggingface.co/TESS-Computer/qwen-click-dit) |
+| UpdatedSep 28, 2025 | 4 | Glazkov/qwen2 | 4B | [Link](https://huggingface.co/Glazkov/qwen2.5-vl-table-extraction-FP8-Dynamic) |
 | 299 | 3 | cnmoro/nano-image-captioningImage-to-Text | Updatedabout 1 month ago | [Link](https://huggingface.co/cnmoro/nano-image-captioning) |
 | 45 | 3 | braintacles/brainblipImage-to-Text | UpdatedJun 27, 2024 | [Link](https://huggingface.co/braintacles/brainblip) |
 | 55 | 3 | sbintuitions/sarashina2-vision-8bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-8b) |
@@ -5293,6 +5294,7 @@ Updated on 2026-07-27
 | Updated1 day ago | 594 | bigatuna/Qwen3 | 9B | [Link](https://huggingface.co/bigatuna/Qwen3.5-9b-Sushi-Coder-RL-GGUF) |
 | Updatedabout 8 hours ago | 593 | AEON-7/Qwen3 | 27B | [Link](https://huggingface.co/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored) |
 | Updated1 day ago | 580 | allenai/Olmo-3 | 32B | [Link](https://huggingface.co/allenai/Olmo-3.1-32B-Think) |
+| Updated3 days ago | 580 | amd/Instella-MoE-16B-A3B-ThinkText | 16B | [Link](https://huggingface.co/amd/Instella-MoE-16B-A3B-Think) |
 | Updatedabout 4 hours ago | 570 | MiniMaxAI/MiniMax-M2Text | 229B | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M2) |
 |  | 565 | deepseek-ai/DeepSeek-R1-0528Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528) |
 | Updatedabout 10 hours ago | 557 | nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-Base-BF16Text | 561B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-Base-BF16) |
@@ -5596,6 +5598,7 @@ Updated on 2026-07-27
 | Updated1 day ago | 50 | cerebras/Kimi-Linear-REAP-35B-A3B-InstructText | 35B | [Link](https://huggingface.co/cerebras/Kimi-Linear-REAP-35B-A3B-Instruct) |
 | Updatedabout 11 hours ago | 50 | unsloth/Nemotron-3-Nano-30B-A3B-GGUFText | 32B | [Link](https://huggingface.co/unsloth/Nemotron-3-Nano-30B-A3B-GGUF) |
 | Updatedabout 11 hours ago | 50 | unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUFText | 32B | [Link](https://huggingface.co/unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF) |
+| UpdatedDec 12, 2025 | 50.5k | Virtue-AI-HUB/VulnLLM-R-7BText | 8B | [Link](https://huggingface.co/Virtue-AI-HUB/VulnLLM-R-7B) |
 | Updatedabout 1 hour ago | 49 | swiss-ai/Apertus-8B-Instruct-2509Text | 8B | [Link](https://huggingface.co/swiss-ai/Apertus-8B-Instruct-2509) |
 | Updated2 days ago | 49 | inclusionAI/Ling-flash-base-2 | 106B | [Link](https://huggingface.co/inclusionAI/Ling-flash-base-2.0) |
 | Updatedabout 7 hours ago | 49 | unsloth/GLM-5 | 754B | [Link](https://huggingface.co/unsloth/GLM-5.1-GGUF) |
@@ -7932,6 +7935,7 @@ Updated on 2026-07-27
 | 2 | Unknown | elismasilva/LTX-2 | Updated9 days ago | [Link](https://huggingface.co/elismasilva/LTX-2.3-LoRa-Camera-Controls) |
 | 2 | Unknown | joeygambino/ltx23-echoVid-ltxAud-surgicalText-to-Video | Updatedabout 8 hours ago | [Link](https://huggingface.co/joeygambino/ltx23-echoVid-ltxAud-surgical) |
 | 5 | Unknown | joeygambino/joyai-echo-ltx23-echoVid-ltxAud-surgicalText-to-Video | Updatedabout 7 hours ago | [Link](https://huggingface.co/joeygambino/joyai-echo-ltx23-echoVid-ltxAud-surgical) |
+| 3 | Unknown | Pensioner/ShotPlan-Wan2 | Updated6 days ago | [Link](https://huggingface.co/Pensioner/ShotPlan-Wan2.2-T2V-A14B-HighNoise) |
 
 ## Text2Text Generation
 
