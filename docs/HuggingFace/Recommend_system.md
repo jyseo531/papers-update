@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-07-26
+Updated on 2026-07-27
 
 > Generated from the Hugging Face database.
 
@@ -1979,6 +1979,7 @@ Updated on 2026-07-26
 | Updatedabout 7 hours ago | 952 | FINAL-Bench/Darwin-35B-A3B-OpusImage-Text-to-Text | 36B | [Link](https://huggingface.co/FINAL-Bench/Darwin-35B-A3B-Opus) |
 | Updated1 day ago | 941 | nvidia/NVIDIA-Nemotron-Nano-12B-v2-VL-BF16Image-Text-to-Text | 13B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-12B-v2-VL-BF16) |
 | 109k | 939 | openbmb/MiniCPM-V-2_6Image-Text-to-Text | UpdatedJan 15 | [Link](https://huggingface.co/openbmb/MiniCPM-V-2_6) |
+| Updatedabout 1 hour ago | 936 | Reza2kn/Bina-0 | 0.7B | [Link](https://huggingface.co/Reza2kn/Bina-0.1-Koochik) |
 | 4.89k | 934 | microsoft/OmniParser-v2 | Updated7 days ago | [Link](https://huggingface.co/microsoft/OmniParser-v2.0) |
 | Updated8 days ago | 908 | OpenGVLab/ScaleCUA-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/OpenGVLab/ScaleCUA-7B) |
 | Updated1 day ago | 908 | ZJU-AI4H/Hulu-Med-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/ZJU-AI4H/Hulu-Med-7B) |
@@ -6014,6 +6015,7 @@ Updated on 2026-07-26
 | Updated4 days ago | 6.9k | deadbydawn101/RavenX-CyberAgent-Qwen3 | 36B | [Link](https://huggingface.co/deadbydawn101/RavenX-CyberAgent-Qwen3.6-35B-A3B-Opus-4.7-OpenMythos-Pentester-BugHunter-RATH-GGUF) |
 | Updatedabout 9 hours ago | 6.23k | ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUFText | 1B | [Link](https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF) |
 | Updatedabout 16 hours ago | 6 | prism-ml/Ternary-Bonsai-27B-mlx-2bitText | 3B | [Link](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit) |
+| Updatedabout 21 hours ago | 6.55k | FINAL-Bench/POCKET-35B-GGUFText | 35B | [Link](https://huggingface.co/FINAL-Bench/POCKET-35B-GGUF) |
 | Updated28 minutes ago | 5 | unsloth/Kimi-K2-Instruct-GGUFText | 1026B | [Link](https://huggingface.co/unsloth/Kimi-K2-Instruct-GGUF) |
 | Updatedabout 4 hours ago | 5 | tencent/Hunyuan-1 | 2B | [Link](https://huggingface.co/tencent/Hunyuan-1.8B-Instruct) |
 | Updatedabout 6 hours ago | 5.68k | deepseek-ai/DeepSeek-V3 | 685B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3.1-Base) |
@@ -6694,6 +6696,7 @@ Updated on 2026-07-26
 | 84 | 7 | krea/Krea-2-TurboText-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/krea/Krea-2-Turbo) |
 | 194 | 7 | krea/Krea-2-RawText-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/krea/Krea-2-Raw) |
 | 80 | 7 | krea/Krea-2-LoRA-darkbrushText-to-Image | Updated1 day ago | [Link](https://huggingface.co/krea/Krea-2-LoRA-darkbrush) |
+| 838 | 7 | Winnougan/Ideogram_Instant_NSFWText-to-Image | Updated6 days ago | [Link](https://huggingface.co/Winnougan/Ideogram_Instant_NSFW) |
 | 1.07k | 6 | DFloat11/FLUX | Updated1 day ago | [Link](https://huggingface.co/DFloat11/FLUX.1-dev-DF11) |
 | 836 | 6 | Minthy/RouWei-0 | Updated3 days ago | [Link](https://huggingface.co/Minthy/RouWei-0.8) |
 | 169 | 6 | PosterCraft/PosterCraft-v1_RLText-to-Image | Updated2 days ago | [Link](https://huggingface.co/PosterCraft/PosterCraft-v1_RL) |
@@ -7286,6 +7289,7 @@ Updated on 2026-07-26
 | Updatedabout 9 hours ago | 6 | p1atdev/Irodori-TTS-500M-v2-Character-Voice-SigLIPText-to-Speech | 0.5B | [Link](https://huggingface.co/p1atdev/Irodori-TTS-500M-v2-Character-Voice-SigLIP) |
 | Updatedabout 2 hours ago | 6 | hotdogs/omnivoice-thaiText-to-Speech | 0.6B | [Link](https://huggingface.co/hotdogs/omnivoice-thai) |
 | Updatedabout 3 hours ago | 6 | neuphonic/neutts-2eText-to-Speech | 0.2B | [Link](https://huggingface.co/neuphonic/neutts-2e) |
+| 32 | 6 | owensong/Inflect-Nano-v2-ONNXText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/owensong/Inflect-Nano-v2-ONNX) |
 | 87 | 5 | lunahr/csm-1b-safetensors-quantsText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-quants) |
 | 26 | 5 | 2121-8/canary-tts-0 | Updatedabout 19 hours ago | [Link](https://huggingface.co/2121-8/canary-tts-0.5b) |
 | 12 | 5 | MYZY-AI/Muyan-TTS-SFTText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/MYZY-AI/Muyan-TTS-SFT) |
@@ -7613,6 +7617,7 @@ Updated on 2026-07-26
 | 123k | 8 | guoyww/animatediff-motion-lora-zoom-inText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-zoom-in) |
 | 680 | 8 | a-r-r-o-w/LTX-Video-0 | UpdatedMar 18 | [Link](https://huggingface.co/a-r-r-o-w/LTX-Video-0.9.1-diffusers) |
 | 34 | 8 | yaleiyaleichiling/NSFW-Anime-wan-5BText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/yaleiyaleichiling/NSFW-Anime-wan-5B) |
+| Updated13 days ago | 8 | Real-Alex-Dan/Amina-AI-StudioText-to-Video | 9B | [Link](https://huggingface.co/Real-Alex-Dan/Amina-AI-Studio) |
 | 5.9k | 7 | SVECTOR-CORPORATION/Spectro-2BText-to-Video | UpdatedDec 25, 2024 | [Link](https://huggingface.co/SVECTOR-CORPORATION/Spectro-2B) |
 | 15 | 7 | DREX-Institute/potat1 | UpdatedJun 8, 2023 | [Link](https://huggingface.co/DREX-Institute/potat1.pth) |
 | 863 | 6 | guoyww/animatediff-motion-adapter-v1-5-3Text-to-Video | UpdatedJul 8, 2024 | [Link](https://huggingface.co/guoyww/animatediff-motion-adapter-v1-5-3) |
