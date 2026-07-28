@@ -6572,6 +6572,7 @@ Updated on 2026-07-28
 | 5.59k | 33 | hashu786/HYVRewardText-to-Image | Updated5 days ago | [Link](https://huggingface.co/hashu786/HYVReward) |
 | 2.49k | 33 | Heartsync/NSFW-UncensoredText-to-Image | Updated7 days ago | [Link](https://huggingface.co/Heartsync/NSFW-Uncensored) |
 | 116 | 31 | microsoft/Lens-TurboText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/microsoft/Lens-Turbo) |
+| Updated3 days ago | 31 | bench-labs/PixelModel-v4Text-to-Image | 40.1M | [Link](https://huggingface.co/bench-labs/PixelModel-v4) |
 | 1.59k | 29 | nunchaku-tech/nunchaku-z-image-turboText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-z-image-turbo) |
 | 145 | 28 | ByteDance/XVerseText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/ByteDance/XVerse) |
 | 2.41k | 27 | stanfordmimi/MerlinText-to-Image | UpdatedMar 4 | [Link](https://huggingface.co/stanfordmimi/Merlin) |
@@ -7636,6 +7637,7 @@ Updated on 2026-07-28
 | 5.95k | 5 | guoyww/animatediff-motion-lora-tilt-downText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-tilt-down) |
 | 504 | 5 | guoyww/animatediff-motion-lora-v1-5-3Text-to-Video | UpdatedJul 23, 2024 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-v1-5-3) |
 | 23 | 5 | robingg1/NAVAText-to-Video | Updatedabout 8 hours ago | [Link](https://huggingface.co/robingg1/NAVA) |
+| 101 | 5 | JunhaoZhuang/Self_Gradient_ForcingText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/JunhaoZhuang/Self_Gradient_Forcing) |
 | 56 | 4 | Skywork/SkyReels-V2-DF-14B-720PText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-DF-14B-720P) |
 | 410 | 4 | guoyww/animatediff-motion-adapter-v1-5Text-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-adapter-v1-5) |
 | 40 | 4 | QuantStack/MoviiGen1 | Updated16 minutes ago | [Link](https://huggingface.co/QuantStack/MoviiGen1.1-VACE-GGUF) |
