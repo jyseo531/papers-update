@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-07-27
+Updated on 2026-07-28
 
 > Generated from the Hugging Face database.
 
@@ -2025,6 +2025,7 @@ Updated on 2026-07-27
 | Updated1 day ago | 313 | Hcompany/Holo-3 | 5B | [Link](https://huggingface.co/Hcompany/Holo-3.1-4B) |
 | Updated2 days ago | 311 | Open-Bee/Bee-8B-RLImage-Text-to-Text | 9B | [Link](https://huggingface.co/Open-Bee/Bee-8B-RL) |
 | Updatedabout 21 hours ago | 309 | inclusionAI/ZwZ-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/inclusionAI/ZwZ-4B) |
+| Updatedabout 12 hours ago | 308 | microsoft/Mage-VLImage-Text-to-Text | 5B | [Link](https://huggingface.co/microsoft/Mage-VL) |
 | Updated5 days ago | 302 | Qwen/Qwen3-VL-2B-Thinking-FP8Image-Text-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-2B-Thinking-FP8) |
 | UpdatedOct 21, 2025 | 298k | datalab-to/chandraImage-Text-to-Text | 9B | [Link](https://huggingface.co/datalab-to/chandra) |
 | 17.9k | 287 | deepseek-ai/deepseek-vl2Image-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2) |
@@ -2083,6 +2084,7 @@ Updated on 2026-07-27
 | 16.1k | 106 | bytedance-research/UI-TARS-72B-DPOImage-Text-to-Text | UpdatedJan 25 | [Link](https://huggingface.co/bytedance-research/UI-TARS-72B-DPO) |
 | Updated4 days ago | 105 | Alibaba-DAMO-Academy/RynnBrain-30B-A3BImage-Text-to-Text | 17B | [Link](https://huggingface.co/Alibaba-DAMO-Academy/RynnBrain-30B-A3B) |
 | Updated2 days ago | 105 | MirilAI/Miril-Drone-2B-1Image-Text-to-Text | 5B | [Link](https://huggingface.co/MirilAI/Miril-Drone-2B-1) |
+| Updatedabout 4 hours ago | 103 | unsloth/Kimi-K3Image-Text-to-Text | 2.8T | [Link](https://huggingface.co/unsloth/Kimi-K3) |
 | Updated1 day ago | 102 | PaddlePaddle/HPD-ParsingImage-Text-to-Text | 1B | [Link](https://huggingface.co/PaddlePaddle/HPD-Parsing) |
 | Updatedabout 1 hour ago | 101 | LiquidAI/LFM2-VL-3BImage-Text-to-Text | 3B | [Link](https://huggingface.co/LiquidAI/LFM2-VL-3B) |
 | Updated1 minute ago | 101 | baidu/Qianfan-OCRImage-Text-to-Text | 5B | [Link](https://huggingface.co/baidu/Qianfan-OCR) |
@@ -2486,6 +2488,7 @@ Updated on 2026-07-27
 | Updated2 days ago | 2.66k | byteshape/Qwen3 | 36B | [Link](https://huggingface.co/byteshape/Qwen3.6-35B-A3B-MTP-GGUF) |
 | Updated7 days ago | 2.83k | google/gemma-4-31B-it-qat-q4_0-unquantizedImage-Text-to-Text | 33B | [Link](https://huggingface.co/google/gemma-4-31B-it-qat-q4_0-unquantized) |
 | Updatedabout 19 hours ago | 2.28k | migtissera/Tess-4-27B-GGUFImage-Text-to-Text | 27B | [Link](https://huggingface.co/migtissera/Tess-4-27B-GGUF) |
+| Updatedabout 11 hours ago | 2.85k | moonshotai/Kimi-K3Image-Text-to-Text | 2.8T | [Link](https://huggingface.co/moonshotai/Kimi-K3) |
 | 2.72k | 1.62k | microsoft/OmniParserImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/microsoft/OmniParser) |
 | 100k | 1.4k | stepfun-ai/GOT-OCR2_0Image-Text-to-Text | Updated21 days ago | [Link](https://huggingface.co/stepfun-ai/GOT-OCR2_0) |
 | 1.78M | 1.42k | microsoft/Florence-2-largeImage-Text-to-Text | UpdatedDec 8, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-large) |
@@ -2562,6 +2565,7 @@ Updated on 2026-07-27
 | 25 | Unknown | ahmed22xa/Huihui-Qwen3-VL-4B-Instruct-abliterated-comfyImage-Text-to-Text | Updated4 days ago | [Link](https://huggingface.co/ahmed22xa/Huihui-Qwen3-VL-4B-Instruct-abliterated-comfy) |
 | 25 | Unknown | DreamFast/Qwen3-VL-4b-Heretic-ComfyUIImage-Text-to-Text | Updated4 days ago | [Link](https://huggingface.co/DreamFast/Qwen3-VL-4b-Heretic-ComfyUI) |
 | Updatedabout 18 hours ago |  | swiss-ai/Apertus-v1 | 72B | [Link](https://huggingface.co/swiss-ai/Apertus-v1.5-70B) |
+| 44 | Unknown | unsloth/Kimi-K3-GGUFImage-Text-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/unsloth/Kimi-K3-GGUF) |
 
 ## Image-to-3D
 
@@ -5340,6 +5344,7 @@ Updated on 2026-07-27
 | Updatedabout 6 hours ago | 351 | K-intelligence/Midm-2 | 12B | [Link](https://huggingface.co/K-intelligence/Midm-2.0-Base-Instruct) |
 | Updated1 day ago | 344 | CohereLabs/tiny-aya-baseText | 3B | [Link](https://huggingface.co/CohereLabs/tiny-aya-base) |
 | Updated5 days ago | 342 | CohereLabs/tiny-aya-waterText | 3B | [Link](https://huggingface.co/CohereLabs/tiny-aya-water) |
+| Updated5 days ago | 342 | mindlab-research/Macaron-V1-TallText | 36B | [Link](https://huggingface.co/mindlab-research/Macaron-V1-Tall) |
 |  | 339 | deepseek-ai/DeepSeek-Prover-V2-671BText | Updatedabout 1 hour ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-Prover-V2-671B) |
 | Updated2 days ago | 332 | prism-ml/Bonsai-1 | 2B | [Link](https://huggingface.co/prism-ml/Bonsai-1.7B-gguf) |
 | Updatedabout 9 hours ago | 329 | Kwaipilot/KAT-DevText | 33B | [Link](https://huggingface.co/Kwaipilot/KAT-Dev) |
@@ -5756,6 +5761,7 @@ Updated on 2026-07-27
 | Updated3 days ago | 28.2k | DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-ggufText | 21B | [Link](https://huggingface.co/DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf) |
 | Updatedabout 10 hours ago | 28 | swiss-ai/Apertus-70B-2509Text | 71B | [Link](https://huggingface.co/swiss-ai/Apertus-70B-2509) |
 | Updatedabout 16 hours ago | 28 | nvidia/diffusiongemma-26B-A4B-it-NVFP4Text | 14B | [Link](https://huggingface.co/nvidia/diffusiongemma-26B-A4B-it-NVFP4) |
+| Updated4 days ago | 28.9k | bartowski/Kwaipilot_KAT-Coder-V2 | 35B | [Link](https://huggingface.co/bartowski/Kwaipilot_KAT-Coder-V2.5-Dev-GGUF) |
 | 256 | 27 | amd/Instella-3BText | Updated5 days ago | [Link](https://huggingface.co/amd/Instella-3B) |
 | 2 | 27 | allenai/OLMo-2-0325-32B-InstructText | Updatedabout 3 hours ago | [Link](https://huggingface.co/allenai/OLMo-2-0325-32B-Instruct) |
 | 9.01k | 27 | lmstudio-community/Mistral-Small-3 | Updated2 days ago | [Link](https://huggingface.co/lmstudio-community/Mistral-Small-3.1-24B-Instruct-2503-GGUF) |
@@ -6049,6 +6055,7 @@ Updated on 2026-07-27
 | Updated4 days ago | 4.03k | lewtun/talkie-1930-13b-it-hfText | 13B | [Link](https://huggingface.co/lewtun/talkie-1930-13b-it-hf) |
 | Updated7 minutes ago | 4 | jedisct1/MiMo-V2 | 309B | [Link](https://huggingface.co/jedisct1/MiMo-V2.5-coder-Q2) |
 | Updated2 days ago | 4.33k | yuxinlu1/gemma-4-12B-it-Claude-4 | 12B | [Link](https://huggingface.co/yuxinlu1/gemma-4-12B-it-Claude-4.6-4.8-Opus-GGUF) |
+| Updated5 days ago | 4.78k | nota-ai/Solar-Open2-250B-Nota-NVFP4Text | 145B | [Link](https://huggingface.co/nota-ai/Solar-Open2-250B-Nota-NVFP4) |
 | Updated2 days ago | 3.87k | unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUFText | 480B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUF) |
 | Updated6 days ago | 3.39k | Qwen/Qwen3-30B-A3B-Thinking-2507-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507-FP8) |
 | Updatedabout 4 hours ago | 3.61k | openai/gpt-oss-120bText | 63B | [Link](https://huggingface.co/openai/gpt-oss-120b) |
