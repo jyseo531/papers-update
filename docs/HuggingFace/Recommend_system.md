@@ -138,6 +138,7 @@ Updated on 2026-07-29
 | Updated10 days ago | 36 | Lambent/IsoC-Gemma-3-12BAny-to-Any | 12B | [Link](https://huggingface.co/Lambent/IsoC-Gemma-3-12B) |
 | UpdatedMar 28 | 35 | allura-org/Gemma-3-Glitter-12BAny-to-Any | 12B | [Link](https://huggingface.co/allura-org/Gemma-3-Glitter-12B) |
 | 94 | 34 | EPFL-VILAB/4M-21_XLAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-21_XL) |
+| Updatedabout 7 hours ago | 32 | KRAFTON/A | 21B | [Link](https://huggingface.co/KRAFTON/A.X-K2-Raon-Speech-21B-A3B) |
 | Updated1 day ago | 31 | sensenova/InteractiveOmni-4BAny-to-Any | 6B | [Link](https://huggingface.co/sensenova/InteractiveOmni-4B) |
 | Updatedabout 10 hours ago | 30 | meituan-longcat/LongCat-NextAny-to-Any | 74B | [Link](https://huggingface.co/meituan-longcat/LongCat-Next) |
 | Updated14 days ago | 29 | multimodal-reasoning-lab/Anole-Zebra-CoTAny-to-Any | 7B | [Link](https://huggingface.co/multimodal-reasoning-lab/Anole-Zebra-CoT) |
@@ -2824,6 +2825,7 @@ Updated on 2026-07-29
 | 338 | 5 | jdopensource/JoyAI-Image-Edit-DiffusersImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/jdopensource/JoyAI-Image-Edit-Diffusers) |
 | 120 | 5 | ilkerzgi/face-swapImage-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/ilkerzgi/face-swap) |
 | 78 | 5 | TensorForger/FlowUpscalerImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/TensorForger/FlowUpscaler) |
+| 3.87k | 5 | starsfriday/Mage-Flow-Edit-FP8Image-to-Image | Updated6 days ago | [Link](https://huggingface.co/starsfriday/Mage-Flow-Edit-FP8) |
 | 575 | 4 | prs-eth/marigold-normals-v1-1Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-normals-v1-1) |
 | 1k | 4 | stanfordmimi/MedVAEImage-to-Image | UpdatedMar 31 | [Link](https://huggingface.co/stanfordmimi/MedVAE) |
 | 3 | 4 | wikeeyang/UniWorld-V1-NF4Image-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/wikeeyang/UniWorld-V1-NF4) |
@@ -5650,6 +5652,7 @@ Updated on 2026-07-29
 | Updatedabout 3 hours ago | 40 | MachineLearningLM/MachineLearningLM-7B-v1Text | 8B | [Link](https://huggingface.co/MachineLearningLM/MachineLearningLM-7B-v1) |
 | Updatedabout 13 hours ago | 40 | ai21labs/AI21-Jamba-Reasoning-3BText | 3B | [Link](https://huggingface.co/ai21labs/AI21-Jamba-Reasoning-3B) |
 | Updatedabout 12 hours ago | 40 | Qwen/Qwen3-Coder-Next-GGUFText | 80B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-Next-GGUF) |
+| Updatedabout 12 hours ago | 40 | KyleHessling1/Qwopus3 | 27B | [Link](https://huggingface.co/KyleHessling1/Qwopus3.6-27B-Fusion-GGUF) |
 | 4 | 39 | Qwen/Qwen3-14BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-14B) |
 | UpdatedJun 8 | 39.4k | unsloth/Qwen3-4B-GGUFText | 4B | [Link](https://huggingface.co/unsloth/Qwen3-4B-GGUF) |
 | Updatedabout 2 hours ago | 39 | meituan-longcat/LongCat-Flash-Thinking-2601Text | 562B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Thinking-2601) |
@@ -6740,6 +6743,7 @@ Updated on 2026-07-29
 | 91 | 6 | LAXMAYDAY/krea2-scene-linear-hdr-loraText-to-Image | Updated5 days ago | [Link](https://huggingface.co/LAXMAYDAY/krea2-scene-linear-hdr-lora) |
 | 461 | 6 | Danrisi/Canon_UltraRealText-to-Image | Updated6 days ago | [Link](https://huggingface.co/Danrisi/Canon_UltraReal) |
 | 4.5k | 6 | cusiman/Krea2_CollectionText-to-Image | Updated8 days ago | [Link](https://huggingface.co/cusiman/Krea2_Collection) |
+| 658 | 6 | AlperKTS/Krea-2-SVDQuant-ComfyUIText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/AlperKTS/Krea-2-SVDQuant-ComfyUI) |
 | 42 | 5 | Shakker-Labs/RepTextText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Shakker-Labs/RepText) |
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
@@ -7074,6 +7078,7 @@ Updated on 2026-07-29
 | 8 | Unknown | WarmBloodAban/boogu_Anything2RealCharactersText-to-Image | Updated4 days ago | [Link](https://huggingface.co/WarmBloodAban/boogu_Anything2RealCharacters) |
 | 11 | Unknown | LAXMAYDAY/NOOB2-Project-Character-Reference-Bypass-Injector-ResearchText-to-Image | Updated1 day ago | [Link](https://huggingface.co/LAXMAYDAY/NOOB2-Project-Character-Reference-Bypass-Injector-Research) |
 | 741 |  | newsletter/Krea-2-Turbo-unlockedText-to-Image | Updated19 days ago | [Link](https://huggingface.co/newsletter/Krea-2-Turbo-unlocked) |
+| 9 | Unknown | inlineresearch/skin-lora-krea-2-rawText-to-Image | Updated2 days ago | [Link](https://huggingface.co/inlineresearch/skin-lora-krea-2-raw) |
 
 ## Text-to-Speech
 
@@ -7205,6 +7210,7 @@ Updated on 2026-07-29
 | Updatedabout 6 hours ago | 37 | pnnbao-ump/kani-tts-370m-vieText-to-Speech | 0.4B | [Link](https://huggingface.co/pnnbao-ump/kani-tts-370m-vie) |
 | Updated1 day ago | 35 | mlx-community/Qwen3-TTS-12Hz-0 | 0.3B | [Link](https://huggingface.co/mlx-community/Qwen3-TTS-12Hz-0.6B-CustomVoice-8bit) |
 | 375 | 34 | mrfakename/OpenF5-TTS-BaseText-to-Speech | Updatedabout 1 hour ago | [Link](https://huggingface.co/mrfakename/OpenF5-TTS-Base) |
+| Updatedabout 7 hours ago | 33 | Audio8/Audio8-TTS-Preview-0 | 0.6B | [Link](https://huggingface.co/Audio8/Audio8-TTS-Preview-0.6b) |
 | 25 | 31 | amphion/VevoText-to-Speech | Updated10 days ago | [Link](https://huggingface.co/amphion/Vevo) |
 | Updatedabout 8 hours ago | 31 | aoi-ot/VibeVoice-LargeText-to-Speech | 9B | [Link](https://huggingface.co/aoi-ot/VibeVoice-Large) |
 | Updatedabout 12 hours ago | 31 | pnnbao-ump/VieNeu-TTS-1000hText-to-Speech | 0.6B | [Link](https://huggingface.co/pnnbao-ump/VieNeu-TTS-1000h) |
@@ -7267,6 +7273,7 @@ Updated on 2026-07-29
 | 27.9k | 10 | unsloth/orpheus-3b-0 | UpdatedMar 24 | [Link](https://huggingface.co/unsloth/orpheus-3b-0.1-ft-unsloth-bnb-4bit) |
 | 22 | 10 | hynt/F5-TTS-Vietnamese-ViVoiceText-to-Speech | Updated35 minutes ago | [Link](https://huggingface.co/hynt/F5-TTS-Vietnamese-ViVoice) |
 | Updatedabout 12 hours ago | 10 | Aratako/Irodori-TTS-500MText-to-Speech | 0.5B | [Link](https://huggingface.co/Aratako/Irodori-TTS-500M) |
+| 65 | 10 | xmanii/Ava-82MText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/xmanii/Ava-82M) |
 | Updated1 day ago | 9 | OpenMOSS-Team/MOSS-TTS-RealtimeText-to-Speech | 2B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Realtime) |
 | 1.31k | 9 | OpenMOSS-Team/MOSS-TTS-Local-TransformerText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Local-Transformer) |
 | Updatedabout 23 hours ago | 9 | Aratako/Irodori-TTS-600M-v3-VoiceDesignText-to-Speech | 0.6B | [Link](https://huggingface.co/Aratako/Irodori-TTS-600M-v3-VoiceDesign) |
@@ -7555,6 +7562,7 @@ Updated on 2026-07-29
 | 4 | Unknown | ResembleAI/chatterbox-nanoText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/ResembleAI/chatterbox-nano) |
 | 3 | Unknown | ResembleAI/chatterbox-flashText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/ResembleAI/chatterbox-flash) |
 | 3 | Unknown | XXH333/WordVoice-base-0 | Updated8 days ago | [Link](https://huggingface.co/XXH333/WordVoice-base-0.5B) |
+| 6 | Unknown | scrappylabsai/scrappy-voice-1Text-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/scrappylabsai/scrappy-voice-1) |
 
 ## Text-to-Video
 
