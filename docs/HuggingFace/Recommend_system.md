@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-07-28
+Updated on 2026-07-29
 
 > Generated from the Hugging Face database.
 
@@ -2712,6 +2712,7 @@ Updated on 2026-07-28
 | 105 | 44 | ghoskno/Color-Canny-Controlnet-modelImage-to-Image | UpdatedMay 25, 2023 | [Link](https://huggingface.co/ghoskno/Color-Canny-Controlnet-model) |
 | 16k | 44 | lllyasviel/control_v11p_sd15_cannyImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_canny) |
 | 1.31k | 41 | xiaozaa/catvton-flux-alphaImage-to-Image | UpdatedNov 26, 2024 | [Link](https://huggingface.co/xiaozaa/catvton-flux-alpha) |
+| Updated5 days ago | 41 | Motif-Technologies/Motif-VAEImage-to-Image | 1B | [Link](https://huggingface.co/Motif-Technologies/Motif-VAE) |
 |  | 40 | fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRAImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA) |
 | Updatedabout 9 hours ago | 38 | unsloth/Qwen-Image-Edit-2511-GGUFImage-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-Edit-2511-GGUF) |
 | 50 | 37 | yichengup/flux | Updatedabout 11 hours ago | [Link](https://huggingface.co/yichengup/flux.1-fill-dev-OneReward) |
@@ -6153,6 +6154,7 @@ Updated on 2026-07-28
 | Updatedabout 19 hours ago | 1 | hotdogs/qwen3 | 39.8M | [Link](https://huggingface.co/hotdogs/qwen3.6-27b-fable5-lora) |
 | Updated1 day ago | 1.93k | squ11z1/Mythos-nanoText | 3B | [Link](https://huggingface.co/squ11z1/Mythos-nano) |
 | Updated1 day ago | 1.93k | RedHatAI/GLM-5 | 4B | [Link](https://huggingface.co/RedHatAI/GLM-5.2-speculator.dspark) |
+| Updatedabout 8 hours ago | 1.17k | FermionResearch/Neutrino-8BText | 8B | [Link](https://huggingface.co/FermionResearch/Neutrino-8B) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -6574,6 +6576,7 @@ Updated on 2026-07-28
 | 116 | 31 | microsoft/Lens-TurboText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/microsoft/Lens-Turbo) |
 | Updated3 days ago | 31 | bench-labs/PixelModel-v4Text-to-Image | 40.1M | [Link](https://huggingface.co/bench-labs/PixelModel-v4) |
 | 1.59k | 29 | nunchaku-tech/nunchaku-z-image-turboText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-z-image-turbo) |
+| Updatedabout 24 hours ago | 29 | bench-labs/PixelModel-v5Text-to-Image | 0.2B | [Link](https://huggingface.co/bench-labs/PixelModel-v5) |
 | 145 | 28 | ByteDance/XVerseText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/ByteDance/XVerse) |
 | 2.41k | 27 | stanfordmimi/MerlinText-to-Image | UpdatedMar 4 | [Link](https://huggingface.co/stanfordmimi/Merlin) |
 | 41 | 26 | SG161222/SPARK | Updatedabout 17 hours ago | [Link](https://huggingface.co/SG161222/SPARK.Chroma_preview) |
@@ -6736,6 +6739,7 @@ Updated on 2026-07-28
 | 45 | 6 | MiniT2I/MiniT2IText-to-Image | Updated4 days ago | [Link](https://huggingface.co/MiniT2I/MiniT2I) |
 | 91 | 6 | LAXMAYDAY/krea2-scene-linear-hdr-loraText-to-Image | Updated5 days ago | [Link](https://huggingface.co/LAXMAYDAY/krea2-scene-linear-hdr-lora) |
 | 461 | 6 | Danrisi/Canon_UltraRealText-to-Image | Updated6 days ago | [Link](https://huggingface.co/Danrisi/Canon_UltraReal) |
+| 4.5k | 6 | cusiman/Krea2_CollectionText-to-Image | Updated8 days ago | [Link](https://huggingface.co/cusiman/Krea2_Collection) |
 | 42 | 5 | Shakker-Labs/RepTextText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Shakker-Labs/RepText) |
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
@@ -7945,6 +7949,8 @@ Updated on 2026-07-28
 | 2 | Unknown | joeygambino/ltx23-echoVid-ltxAud-surgicalText-to-Video | Updatedabout 8 hours ago | [Link](https://huggingface.co/joeygambino/ltx23-echoVid-ltxAud-surgical) |
 | 5 | Unknown | joeygambino/joyai-echo-ltx23-echoVid-ltxAud-surgicalText-to-Video | Updatedabout 7 hours ago | [Link](https://huggingface.co/joeygambino/joyai-echo-ltx23-echoVid-ltxAud-surgical) |
 | 3 | Unknown | Pensioner/ShotPlan-Wan2 | Updated6 days ago | [Link](https://huggingface.co/Pensioner/ShotPlan-Wan2.2-T2V-A14B-HighNoise) |
+| 22 | Unknown | PrunaAI/PrunaVAEDText-to-Video | Updatedabout 13 hours ago | [Link](https://huggingface.co/PrunaAI/PrunaVAED) |
+| 3 | Unknown | lightx2v/LightLingBot-VideoText-to-Video | Updatedabout 17 hours ago | [Link](https://huggingface.co/lightx2v/LightLingBot-Video) |
 
 ## Text2Text Generation
 
