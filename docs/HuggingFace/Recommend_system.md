@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-07-29
+Updated on 2026-07-30
 
 > Generated from the Hugging Face database.
 
@@ -2030,6 +2030,7 @@ Updated on 2026-07-29
 | Updated5 days ago | 302 | Qwen/Qwen3-VL-2B-Thinking-FP8Image-Text-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-2B-Thinking-FP8) |
 | UpdatedOct 21, 2025 | 298k | datalab-to/chandraImage-Text-to-Text | 9B | [Link](https://huggingface.co/datalab-to/chandra) |
 | 17.9k | 287 | deepseek-ai/deepseek-vl2Image-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2) |
+| Updatedabout 9 hours ago | 280 | empero-ai/Qwythos-27B-v1Image-Text-to-Text | 28B | [Link](https://huggingface.co/empero-ai/Qwythos-27B-v1) |
 | Updatedabout 12 hours ago | 279 | openbmb/MiniCPM-V-4 | 1B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4.6) |
 | Updatedabout 11 hours ago | 272 | tencent/HY-Embodied-0 | 4B | [Link](https://huggingface.co/tencent/HY-Embodied-0.5) |
 | 26.4k | 267 | MiniMaxAI/MiniMax-VL-01Image-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-VL-01) |
@@ -3150,6 +3151,7 @@ Updated on 2026-07-29
 | 4 | Unknown | jdopensource/JoyAI-Image-Edit-Plus-ComfyUIImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/jdopensource/JoyAI-Image-Edit-Plus-ComfyUI) |
 | 6 | Unknown | rzgar/Bernini-R-S2VImage-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/rzgar/Bernini-R-S2V) |
 | 5 | Unknown | Comfy-Org/JoyAI-Image-EditImage-to-Image | Updatedabout 17 hours ago | [Link](https://huggingface.co/Comfy-Org/JoyAI-Image-Edit) |
+| 11 | Unknown | lvladikov/SeedVR2-1 | Updatedabout 8 hours ago | [Link](https://huggingface.co/lvladikov/SeedVR2-1.4B) |
 
 ## Image-to-Text
 
@@ -3544,6 +3546,7 @@ Updated on 2026-07-29
 | Updatedabout 12 hours ago | 3 | SupraLabs/SupraVL-Nano-900kImage-to-Text | 961k | [Link](https://huggingface.co/SupraLabs/SupraVL-Nano-900k) |
 | Updatedabout 9 hours ago | 3 | LoJexLLM/Unlimited-OCR-MLXImage-to-Text | 3B | [Link](https://huggingface.co/LoJexLLM/Unlimited-OCR-MLX) |
 | 33 | 3 | sensenova/SenseNova-Vision-7B-MoTImage-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/sensenova/SenseNova-Vision-7B-MoT) |
+| 19 | 3 | ekacare/parrotlet-v-lite-4bImage-to-Text | UpdatedJan 20 | [Link](https://huggingface.co/ekacare/parrotlet-v-lite-4b) |
 | 51 | 2 | microsoft/git-base-msrvtt-qaImage-to-Text | UpdatedApr 4, 2024 | [Link](https://huggingface.co/microsoft/git-base-msrvtt-qa) |
 | 32 | 2 | baseplate/vit-gpt2-image-captioningImage-to-Text | UpdatedApr 5, 2023 | [Link](https://huggingface.co/baseplate/vit-gpt2-image-captioning) |
 | 38 | 2 | sbintuitions/sarashina2-vision-14bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-14b) |
@@ -5721,6 +5724,7 @@ Updated on 2026-07-29
 | Updatedabout 14 hours ago | 32 | meituan-longcat/LongCat-Flash-OmniText | 561B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Omni) |
 | Updatedabout 5 hours ago | 32 | arcee-ai/Trinity-MiniText | 26B | [Link](https://huggingface.co/arcee-ai/Trinity-Mini) |
 | Updatedabout 16 hours ago | 32 | dealignai/Gemma-4-31B-JANG_4M-CRACKText | 6B | [Link](https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK) |
+| Updatedabout 2 hours ago | 32 | EschaLabs/Qwen3 | 7B | [Link](https://huggingface.co/EschaLabs/Qwen3.6-35B-A3B-Escha-W2) |
 | 172 | 31 | huihui-ai/QwQ-32B-abliteratedText | Updated2 days ago | [Link](https://huggingface.co/huihui-ai/QwQ-32B-abliterated) |
 | 76 | 31 | manycore-research/SpatialLM-Qwen-0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/manycore-research/SpatialLM-Qwen-0.5B) |
 | 4 | 31 | Qwen/Qwen3-Embedding-8BText | Updatedabout 10 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-Embedding-8B) |
@@ -6648,6 +6652,7 @@ Updated on 2026-07-29
 | 70 | 11 | ideogram-ai/ideogram-4-nf4-diffusersText-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/ideogram-ai/ideogram-4-nf4-diffusers) |
 | 44 | 11 | alfredplpl/ecocoro-preview-1Text-to-Image | Updated1 day ago | [Link](https://huggingface.co/alfredplpl/ecocoro-preview-1) |
 | 3.16k | 11 | TheDivergentAI/krea2-turbo-distill-loraText-to-Image | Updated16 days ago | [Link](https://huggingface.co/TheDivergentAI/krea2-turbo-distill-lora) |
+| Updated2 days ago | 11 | FINAL-Bench/POCKET-Image-ZimageText-to-Image | 3B | [Link](https://huggingface.co/FINAL-Bench/POCKET-Image-Zimage) |
 |  | 10 | strangerzonehf/Real-ClaymationText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/strangerzonehf/Real-Claymation) |
 | 17 | 10 | zhang0jhon/flux_waveletText-to-Image | Updated5 days ago | [Link](https://huggingface.co/zhang0jhon/flux_wavelet) |
 | 36 | 10 | codermert/ozgeefinalText-to-Image | Updated6 days ago | [Link](https://huggingface.co/codermert/ozgeefinal) |
