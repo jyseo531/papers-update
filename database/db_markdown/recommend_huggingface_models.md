@@ -5270,6 +5270,7 @@ Updated on 2026-07-30
 | Updated23 minutes ago | 854 | Qwen/Qwen3-Next-80B-A3B-InstructText | 81B | [Link](https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct) |
 | Updated1 day ago | 839 | fdtn-ai/antares-350mText | 0.4B | [Link](https://huggingface.co/fdtn-ai/antares-350m) |
 | Updated3 days ago | 809 | ibm-granite/granite-guardian-4 | 8B | [Link](https://huggingface.co/ibm-granite/granite-guardian-4.1-8b) |
+| Updated1 day ago | 808 | XYZAILab/XYZ-Aquila-proText | 397B | [Link](https://huggingface.co/XYZAILab/XYZ-Aquila-pro) |
 | Updated1 day ago | 789 | FINAL-Bench/Darwin-31B-OpusText | 33B | [Link](https://huggingface.co/FINAL-Bench/Darwin-31B-Opus) |
 | Updated3 days ago | 786 | apple/FastVLM-1 | 2B | [Link](https://huggingface.co/apple/FastVLM-1.5B) |
 | Updated1 day ago | 771 | nvidia/Nemotron-Cascade-8B-ThinkingText | 8B | [Link](https://huggingface.co/nvidia/Nemotron-Cascade-8B-Thinking) |
@@ -5329,6 +5330,7 @@ Updated on 2026-07-30
 | Updatedabout 24 hours ago | 463 | PowerInfer/SmallThinker-4BA0 | 4B | [Link](https://huggingface.co/PowerInfer/SmallThinker-4BA0.6B-Instruct) |
 | Updatedabout 16 hours ago | 461 | MaziyarPanahi/VibeThinker-1 | 2B | [Link](https://huggingface.co/MaziyarPanahi/VibeThinker-1.5B-GGUF) |
 | Updated1 day ago | 452 | openbmb/BitCPM-CANN-8B-ggufText | 8B | [Link](https://huggingface.co/openbmb/BitCPM-CANN-8B-gguf) |
+| Updated1 day ago | 447 | XYZAILab/XYZ-Aquila-miniText | 35B | [Link](https://huggingface.co/XYZAILab/XYZ-Aquila-mini) |
 | Updated1 day ago | 443 | tencent/Hy3-FP8Text | 299B | [Link](https://huggingface.co/tencent/Hy3-FP8) |
 | Updatedabout 5 hours ago | 441k | EssentialAI/rnj-1-instructText | 8B | [Link](https://huggingface.co/EssentialAI/rnj-1-instruct) |
 | Updatedabout 24 hours ago | 433 | Jiunsong/supergemma4-e4b-abliteratedText | 8B | [Link](https://huggingface.co/Jiunsong/supergemma4-e4b-abliterated) |
@@ -6005,6 +6007,7 @@ Updated on 2026-07-30
 | Updated3 days ago | 8.66k | unsloth/Qwen3-Coder-Next-FP8-DynamicText | 80B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-Next-FP8-Dynamic) |
 | Updatedabout 10 hours ago | 8 | nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8Text | 124B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8) |
 | Updated11 days ago | 8.45k | ibm-granite/granite-switch-4 | 4B | [Link](https://huggingface.co/ibm-granite/granite-switch-4.1-3b-preview) |
+| Updated1 day ago | 8.3k | Inferact/Kimi-K3-DSparkText | 4B | [Link](https://huggingface.co/Inferact/Kimi-K3-DSpark) |
 | Updated2 days ago | 7.65k | Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8) |
 | Updatedabout 4 hours ago | 7 | tencent/Hunyuan-7B-InstructText | 8B | [Link](https://huggingface.co/tencent/Hunyuan-7B-Instruct) |
 | Updated4 days ago | 7k | bartowski/cerebras_GLM-4 | 85B | [Link](https://huggingface.co/bartowski/cerebras_GLM-4.5-Air-REAP-82B-A12B-GGUF) |
@@ -7084,6 +7087,7 @@ Updated on 2026-07-30
 | 11 | Unknown | LAXMAYDAY/NOOB2-Project-Character-Reference-Bypass-Injector-ResearchText-to-Image | Updated1 day ago | [Link](https://huggingface.co/LAXMAYDAY/NOOB2-Project-Character-Reference-Bypass-Injector-Research) |
 | 741 |  | newsletter/Krea-2-Turbo-unlockedText-to-Image | Updated19 days ago | [Link](https://huggingface.co/newsletter/Krea-2-Turbo-unlocked) |
 | 9 | Unknown | inlineresearch/skin-lora-krea-2-rawText-to-Image | Updated2 days ago | [Link](https://huggingface.co/inlineresearch/skin-lora-krea-2-raw) |
+| 28 | Unknown | realrebelai/LOW_VRAM_WorkflowsText-to-Image | Updatedless than a minute ago | [Link](https://huggingface.co/realrebelai/LOW_VRAM_Workflows) |
 
 ## Text-to-Speech
 
