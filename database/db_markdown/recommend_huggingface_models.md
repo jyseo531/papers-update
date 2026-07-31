@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-07-30
+Updated on 2026-07-31
 
 > Generated from the Hugging Face database.
 
@@ -1988,6 +1988,7 @@ Updated on 2026-07-30
 | Updated1 day ago | 872 | prithivMLmods/Qwen3-VisionCaption-2B-GGUFImage-Text-to-Text | 2B | [Link](https://huggingface.co/prithivMLmods/Qwen3-VisionCaption-2B-GGUF) |
 | Updated2 days ago | 858 | MBZUAI/MedMO-4BImage-Text-to-Text | 4B | [Link](https://huggingface.co/MBZUAI/MedMO-4B) |
 | 57.2k | 851 | mistralai/Mistral-Small-3 | Updatedabout 11 hours ago | [Link](https://huggingface.co/mistralai/Mistral-Small-3.1-24B-Instruct-2503) |
+| Updatedabout 3 hours ago | 840 | thinkingmachines/Inkling-SmallImage-Text-to-Text | 266B | [Link](https://huggingface.co/thinkingmachines/Inkling-Small) |
 | Updatedabout 4 hours ago | 829 | lmms-lab/LLaVA-OneVision-1 | 9B | [Link](https://huggingface.co/lmms-lab/LLaVA-OneVision-1.5-8B-Instruct) |
 | Updated2 days ago | 764 | unsloth/LFM2 | 1B | [Link](https://huggingface.co/unsloth/LFM2.5-VL-1.6B-GGUF) |
 | Updated3 days ago | 759 | Qwen/Qwen3-VL-2B-Instruct-FP8Image-Text-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct-FP8) |
@@ -2168,6 +2169,7 @@ Updated on 2026-07-30
 | Updated7 days ago | 41.4k | huihui-ai/Huihui-Qwen3-VL-32B-Instruct-abliteratedImage-Text-to-Text | 33B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3-VL-32B-Instruct-abliterated) |
 | Updatedabout 9 hours ago | 41 | stepfun-ai/Step3-VL-10B-BaseImage-Text-to-Text | 10B | [Link](https://huggingface.co/stepfun-ai/Step3-VL-10B-Base) |
 | Updatedabout 8 hours ago | 41 | trillionlabs/gWorld-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/trillionlabs/gWorld-8B) |
+| Updatedabout 5 hours ago | 41 | unsloth/Inkling-Small-GGUFImage-Text-to-Text | 264B | [Link](https://huggingface.co/unsloth/Inkling-Small-GGUF) |
 | 6 | 40 | convergence-ai/proxy-lite-3bImage-Text-to-Text | Updatedabout 15 hours ago | [Link](https://huggingface.co/convergence-ai/proxy-lite-3b) |
 | 25 | 40 | Hcompany/Holo1-7BImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/Hcompany/Holo1-7B) |
 | Updatedabout 6 hours ago | 40 | microsoft/Fara-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/microsoft/Fara-7B) |
@@ -2491,6 +2493,7 @@ Updated on 2026-07-30
 | Updated7 days ago | 2.83k | google/gemma-4-31B-it-qat-q4_0-unquantizedImage-Text-to-Text | 33B | [Link](https://huggingface.co/google/gemma-4-31B-it-qat-q4_0-unquantized) |
 | Updatedabout 19 hours ago | 2.28k | migtissera/Tess-4-27B-GGUFImage-Text-to-Text | 27B | [Link](https://huggingface.co/migtissera/Tess-4-27B-GGUF) |
 | Updatedabout 11 hours ago | 2.85k | moonshotai/Kimi-K3Image-Text-to-Text | 2.8T | [Link](https://huggingface.co/moonshotai/Kimi-K3) |
+| Updatedabout 9 hours ago | 2.52k | thinkingmachines/Inkling-Small-NVFP4Image-Text-to-Text | 156B | [Link](https://huggingface.co/thinkingmachines/Inkling-Small-NVFP4) |
 | 2.72k | 1.62k | microsoft/OmniParserImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/microsoft/OmniParser) |
 | 100k | 1.4k | stepfun-ai/GOT-OCR2_0Image-Text-to-Text | Updated21 days ago | [Link](https://huggingface.co/stepfun-ai/GOT-OCR2_0) |
 | 1.78M | 1.42k | microsoft/Florence-2-largeImage-Text-to-Text | UpdatedDec 8, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-large) |
@@ -5644,6 +5647,7 @@ Updated on 2026-07-30
 | Updated23 minutes ago | 43 | Qwen/Qwen3-Next-80B-A3B-ThinkingText | 81B | [Link](https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Thinking) |
 | Updatedabout 10 hours ago | 43 | meituan-longcat/LongCat-Flash-LiteText | 100B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Lite) |
 | Updatedabout 13 hours ago | 43 | huihui-ai/Huihui-gemma-4-12B-coder-fable5-composer2 | 12B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-12B-coder-fable5-composer2.5-v1-abliterated) |
+| Updatedabout 2 hours ago | 43 | LGAI-EXAONE/K-EXAONE-2 | 749B | [Link](https://huggingface.co/LGAI-EXAONE/K-EXAONE-2.0-750B-A37B) |
 | 3.37k | 42 | Qwen/QwQ-32B-AWQText | Updatedabout 3 hours ago | [Link](https://huggingface.co/Qwen/QwQ-32B-AWQ) |
 | Updated1 day ago | 42 | ByteDance-Seed/Stable-DiffCoder-8B-InstructText | 8B | [Link](https://huggingface.co/ByteDance-Seed/Stable-DiffCoder-8B-Instruct) |
 | 796 | 41 | inclusionAI/Ling-liteText | Updated1 day ago | [Link](https://huggingface.co/inclusionAI/Ling-lite) |
