@@ -179,6 +179,7 @@ Updated on 2026-07-31
 | Updatedabout 12 hours ago | 11 | unsloth/gemma-4-E4B-it-qat-GGUFAny-to-Any | 7B | [Link](https://huggingface.co/unsloth/gemma-4-E4B-it-qat-GGUF) |
 | Updatedabout 12 hours ago | 11 | unsloth/gemma-4-E2B-it-qat-GGUFAny-to-Any | 5B | [Link](https://huggingface.co/unsloth/gemma-4-E2B-it-qat-GGUF) |
 | Updatedabout 5 hours ago | 11 | huihui-ai/Huihui-gemma-4-12B-it-qat-q4_0-unquantized-abliterated-GGUFAny-to-Any | 12B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-12B-it-qat-q4_0-unquantized-abliterated-GGUF) |
+| Updatedabout 5 hours ago | 11 | sensenova/SenseNova-U1 | 18B | [Link](https://huggingface.co/sensenova/SenseNova-U1.5-8B-MoT-Preview) |
 | 42 | 10 | sanaka87/BAGEL-RecAAny-to-Any | Updated2 days ago | [Link](https://huggingface.co/sanaka87/BAGEL-RecA) |
 | 6 | 10 | dorni/UniVerse-1-BaseAny-to-Any | Updatedabout 10 hours ago | [Link](https://huggingface.co/dorni/UniVerse-1-Base) |
 | UpdatedDec 12, 2024 | 10 | Alpha-VLLM/Lumina-mGPT-7B-768-OmniAny-to-Any | 7B | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-768-Omni) |
@@ -5326,6 +5327,7 @@ Updated on 2026-07-31
 | Updated4 days ago | 489 | AlicanKiraz0/Kara-Kumru-v1 | 2B | [Link](https://huggingface.co/AlicanKiraz0/Kara-Kumru-v1.0-2B) |
 | 894k | 486 | deepseek-ai/DeepSeek-R1-Distill-Qwen-7BText | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B) |
 | Updated6 days ago | 480 | huihui-ai/Huihui-GLM-4 | 353B | [Link](https://huggingface.co/huihui-ai/Huihui-GLM-4.6-abliterated-mlx-4bit) |
+| Updatedabout 2 hours ago | 480 | deepseek-ai/DeepSeek-V4-Flash-0731Text | 304B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) |
 | Updated3 days ago | 478 | JonasGeiping/stream-qwen3 | 27B | [Link](https://huggingface.co/JonasGeiping/stream-qwen3.5-27b) |
 | Updatedabout 12 hours ago | 467 | pat-jj/harness-1Text | 21B | [Link](https://huggingface.co/pat-jj/harness-1) |
 | Updatedabout 10 hours ago | 466 | AIDC-AI/Marco-Nano-InstructText | 8B | [Link](https://huggingface.co/AIDC-AI/Marco-Nano-Instruct) |
@@ -7092,6 +7094,7 @@ Updated on 2026-07-31
 | 741 |  | newsletter/Krea-2-Turbo-unlockedText-to-Image | Updated19 days ago | [Link](https://huggingface.co/newsletter/Krea-2-Turbo-unlocked) |
 | 9 | Unknown | inlineresearch/skin-lora-krea-2-rawText-to-Image | Updated2 days ago | [Link](https://huggingface.co/inlineresearch/skin-lora-krea-2-raw) |
 | 28 | Unknown | realrebelai/LOW_VRAM_WorkflowsText-to-Image | Updatedless than a minute ago | [Link](https://huggingface.co/realrebelai/LOW_VRAM_Workflows) |
+| 29 | Unknown | lodestones/KromaText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/lodestones/Kroma) |
 
 ## Text-to-Speech
 
