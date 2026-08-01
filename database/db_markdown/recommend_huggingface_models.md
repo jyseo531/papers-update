@@ -3187,6 +3187,7 @@ Updated on 2026-08-01
 | UpdatedApr 24, 2024 | 541 | unum-cloud/uform-gen2-dpoImage-to-Text | 1B | [Link](https://huggingface.co/unum-cloud/uform-gen2-dpo) |
 | Updated8 days ago | 541 | Z3NN001/gemma4-21b-a4b-REAP-it-mlx-Q4Image-to-Text | 4B | [Link](https://huggingface.co/Z3NN001/gemma4-21b-a4b-REAP-it-mlx-Q4) |
 | UpdatedApr 20, 2024 | 537 | toshi456/llava-jp-1 | 2B | [Link](https://huggingface.co/toshi456/llava-jp-1.3b-v1.1) |
+| UpdatedApr 3 | 522 | PaddlePaddle/PP-OCRv5_server_det_safetensorsImage-to-Text | 22M | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv5_server_det_safetensors) |
 | Updated21 days ago | 510 | AiAsistent/gemma-3-4b-it-Cognitive-LibertyImage-to-Text | 4B | [Link](https://huggingface.co/AiAsistent/gemma-3-4b-it-Cognitive-Liberty) |
 | UpdatedOct 20, 2025 | 505 | PJMixers-Images/Florence-2-base-Castollux-v0 | 0.2B | [Link](https://huggingface.co/PJMixers-Images/Florence-2-base-Castollux-v0.5) |
 | Updated4 days ago | 485 | mradermacher/Qwen2 | 8B | [Link](https://huggingface.co/mradermacher/Qwen2.5-VL-7B-Abliterated-Caption-it-GGUF) |
@@ -5948,6 +5949,7 @@ Updated on 2026-08-01
 | Updated2 days ago | 17 | meituan-longcat/LongCat-Flash-Thinking-ZigZagText | 562B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Thinking-ZigZag) |
 | Updated3 days ago | 17 | arcee-ai/Trinity-Large-Preview-FP8Text | 399B | [Link](https://huggingface.co/arcee-ai/Trinity-Large-Preview-FP8) |
 | Updated1 day ago | 17.2k | ubergarm/MiniMax-M2 | 229B | [Link](https://huggingface.co/ubergarm/MiniMax-M2.5-GGUF) |
+| Updatedless than a minute ago | 17 | meituan-longcat/LongCat-Flash-Lite-SparseText | 69B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Lite-Sparse) |
 | 938 | 16 | ubergarm/DeepSeek-V3-0324-GGUFText | Updated3 days ago | [Link](https://huggingface.co/ubergarm/DeepSeek-V3-0324-GGUF) |
 | 2.09k | 16 | google/gemma-3-1b-it-qat-q4_0-ggufText | Updated3 days ago | [Link](https://huggingface.co/google/gemma-3-1b-it-qat-q4_0-gguf) |
 | 2.94k | 16 | nvidia/AceMath-RL-Nemotron-7BText | Updated4 days ago | [Link](https://huggingface.co/nvidia/AceMath-RL-Nemotron-7B) |
@@ -7335,6 +7337,7 @@ Updated on 2026-08-01
 | Updatedabout 2 hours ago | 6 | hotdogs/omnivoice-thaiText-to-Speech | 0.6B | [Link](https://huggingface.co/hotdogs/omnivoice-thai) |
 | Updatedabout 3 hours ago | 6 | neuphonic/neutts-2eText-to-Speech | 0.2B | [Link](https://huggingface.co/neuphonic/neutts-2e) |
 | 32 | 6 | owensong/Inflect-Nano-v2-ONNXText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/owensong/Inflect-Nano-v2-ONNX) |
+| Updated19 minutes ago | 6 | Aratako/Irodori-TTS-v4-SmallText-to-Speech | 0.8B | [Link](https://huggingface.co/Aratako/Irodori-TTS-v4-Small) |
 | 87 | 5 | lunahr/csm-1b-safetensors-quantsText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-quants) |
 | 26 | 5 | 2121-8/canary-tts-0 | Updatedabout 19 hours ago | [Link](https://huggingface.co/2121-8/canary-tts-0.5b) |
 | 12 | 5 | MYZY-AI/Muyan-TTS-SFTText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/MYZY-AI/Muyan-TTS-SFT) |
@@ -7586,6 +7589,7 @@ Updated on 2026-08-01
 | 3 | Unknown | ResembleAI/chatterbox-flashText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/ResembleAI/chatterbox-flash) |
 | 3 | Unknown | XXH333/WordVoice-base-0 | Updated8 days ago | [Link](https://huggingface.co/XXH333/WordVoice-base-0.5B) |
 | 6 | Unknown | scrappylabsai/scrappy-voice-1Text-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/scrappylabsai/scrappy-voice-1) |
+| 6 | Unknown | Abiray/Vaniq-EdgeText-to-Speech | Updated2 minutes ago | [Link](https://huggingface.co/Abiray/Vaniq-Edge) |
 
 ## Text-to-Video
 
