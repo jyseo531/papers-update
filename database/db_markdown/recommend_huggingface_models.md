@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-07-31
+Updated on 2026-08-01
 
 > Generated from the Hugging Face database.
 
@@ -2284,6 +2284,7 @@ Updated on 2026-07-31
 | Updatedabout 7 hours ago | 15 | OpenGVLab/InternVL3_5-14BImage-Text-to-Text | 15B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-14B) |
 | Updatedabout 8 hours ago | 15.8k | Qwen/Qwen3-VL-30B-A3B-Instruct-FP8Image-Text-to-Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Instruct-FP8) |
 | 7.01k | 15 | nvidia/Cosmos-Reason2-2BImage-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/nvidia/Cosmos-Reason2-2B) |
+| Updated2 days ago | 15.5k | empero-ai/Qwythos-27B-v1-GGUFImage-Text-to-Text | 27B | [Link](https://huggingface.co/empero-ai/Qwythos-27B-v1-GGUF) |
 | 296 | 14 | Fancy-MLLM/R1-Onevision-7BImage-Text-to-Text | Updatedabout 12 hours ago | [Link](https://huggingface.co/Fancy-MLLM/R1-Onevision-7B) |
 | 80 | 14 | google/gemma-3-27b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-pt) |
 | 20 | 14 | lusxvr/nanoVLM-222MImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/lusxvr/nanoVLM-222M) |
@@ -2805,12 +2806,14 @@ Updated on 2026-07-31
 |  | 7 | prithivMLmods/QIE-2509-Object-Remover-Bbox-v3Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prithivMLmods/QIE-2509-Object-Remover-Bbox-v3) |
 | 2 | 7 | yijunwang2/krea2-reidImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/yijunwang2/krea2-reid) |
 | Updatedabout 4 hours ago | 7 | microsoft/Mage-Flow-EditImage-to-Image | 4B | [Link](https://huggingface.co/microsoft/Mage-Flow-Edit) |
+| 95 | 7 | prov-gigatime/gigatime-flashImage-to-Image | Updated10 days ago | [Link](https://huggingface.co/prov-gigatime/gigatime-flash) |
 | 1.97k | 6 | TencentARC/t2iadapter_sketch_sd15v2Image-to-Image | UpdatedAug 1, 2023 | [Link](https://huggingface.co/TencentARC/t2iadapter_sketch_sd15v2) |
 | 443 | 6 | LPX55/FLUX | Updated6 days ago | [Link](https://huggingface.co/LPX55/FLUX.1_Kontext-Lightning) |
 | 8 | 6 | stepfun-ai/Step1X-Edit-v1p2-previewImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/stepfun-ai/Step1X-Edit-v1p2-preview) |
 | 24 | 6 | chestnutlzj/Edit-R1-Qwen-Image-Edit-2509Image-to-Image | Updated2 days ago | [Link](https://huggingface.co/chestnutlzj/Edit-R1-Qwen-Image-Edit-2509) |
 | 255 | 6 | canberkkkkk/bs-vton-outfit-klein-9bImage-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/canberkkkkk/bs-vton-outfit-klein-9b) |
 | 69 | 6 | Rift-ai/Rift | Updated7 days ago | [Link](https://huggingface.co/Rift-ai/Rift.1-decoder) |
+| Updatedabout 19 hours ago | 6 | clark-labs/clark-swin2sr-lightweight-x2-1 | 1.01M | [Link](https://huggingface.co/clark-labs/clark-swin2sr-lightweight-x2-1.58bit) |
 | 80 | 5 | jasperai/LBM_relightingImage-to-Image | Updated8 days ago | [Link](https://huggingface.co/jasperai/LBM_relighting) |
 | 6 | 5 | carsonkatri/stable-diffusion-2-depth-diffusersImage-to-Image | UpdatedDec 2, 2022 | [Link](https://huggingface.co/carsonkatri/stable-diffusion-2-depth-diffusers) |
 | 128 | 5 | qualcomm/LaMa-DilatedImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/qualcomm/LaMa-Dilated) |
@@ -3156,11 +3159,13 @@ Updated on 2026-07-31
 | 6 | Unknown | rzgar/Bernini-R-S2VImage-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/rzgar/Bernini-R-S2V) |
 | 5 | Unknown | Comfy-Org/JoyAI-Image-EditImage-to-Image | Updatedabout 17 hours ago | [Link](https://huggingface.co/Comfy-Org/JoyAI-Image-Edit) |
 | 11 | Unknown | lvladikov/SeedVR2-1 | Updatedabout 8 hours ago | [Link](https://huggingface.co/lvladikov/SeedVR2-1.4B) |
+| 8 | Unknown | Alissonerdx/CharacterSheetImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/Alissonerdx/CharacterSheet) |
 
 ## Image-to-Text
 
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
+| UpdatedApr 3 | 970 | PaddlePaddle/PP-OCRv5_mobile_det_safetensorsImage-to-Text | 3.55M | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv5_mobile_det_safetensors) |
 | Updated5 days ago | 951 | noctrex/LightOnOCR-2-1B-ocr-soup-GGUFImage-to-Text | 0.6B | [Link](https://huggingface.co/noctrex/LightOnOCR-2-1B-ocr-soup-GGUF) |
 | Updatedabout 7 hours ago | 936 | mradermacher/Rax-4 | 2B | [Link](https://huggingface.co/mradermacher/Rax-4.5-GGUF) |
 | UpdatedAug 25 | 929 | shenasa/persian-image-captioningImage-to-Text | 0.2B | [Link](https://huggingface.co/shenasa/persian-image-captioning) |
@@ -5445,6 +5450,7 @@ Updated on 2026-07-31
 | Updated1 day ago | 150 | lm-provers/QED-NanoText | 4B | [Link](https://huggingface.co/lm-provers/QED-Nano) |
 | Updatedabout 15 hours ago | 149 | openai/gpt-oss-safeguard-120bText | 120B | [Link](https://huggingface.co/openai/gpt-oss-safeguard-120b) |
 | Updated1 day ago | 147 | Qwen/WebWorld-8BText | 8B | [Link](https://huggingface.co/Qwen/WebWorld-8B) |
+| Updatedabout 2 hours ago | 147k | RadixArk/Kimi-K3-DSparkText | 2B | [Link](https://huggingface.co/RadixArk/Kimi-K3-DSpark) |
 | 38 | 143 | qihoo360/TinyR1-32B-PreviewText | Updatedabout 17 hours ago | [Link](https://huggingface.co/qihoo360/TinyR1-32B-Preview) |
 | Updatedabout 10 hours ago | 141 | XiaomiMiMo/MiMo-V2 | 1T | [Link](https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro) |
 | Updated6 days ago | 140 | zerofata/MS3 | 24B | [Link](https://huggingface.co/zerofata/MS3.2-PaintedFantasy-24B) |
@@ -6558,6 +6564,7 @@ Updated on 2026-07-31
 | 56.2k | 98 | Lykon/dreamshaper-8Text-to-Image | UpdatedDec 7, 2023 | [Link](https://huggingface.co/Lykon/dreamshaper-8) |
 | 117 | 82 | baidu/ERNIE-Image-TurboText-to-Image | Updated39 minutes ago | [Link](https://huggingface.co/baidu/ERNIE-Image-Turbo) |
 | 3.01k | 81 | RunDiffusion/Juggernaut-XI-v11Text-to-Image | UpdatedAug 29, 2024 | [Link](https://huggingface.co/RunDiffusion/Juggernaut-XI-v11) |
+| Updated1 day ago | 80 | realrebelai/Kreamagine_v1 | 13B | [Link](https://huggingface.co/realrebelai/Kreamagine_v1.0) |
 | Updatedabout 4 hours ago | 79 | microsoft/Mage-FlowText-to-Image | 4B | [Link](https://huggingface.co/microsoft/Mage-Flow) |
 | 128 | 75 | bytedance-research/USOText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/bytedance-research/USO) |
 | 1.96k | 71 | aquif-ai/Reupload-Magic-Wan-Image-v1 | Updated34 minutes ago | [Link](https://huggingface.co/aquif-ai/Reupload-Magic-Wan-Image-v1.0) |
