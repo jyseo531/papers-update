@@ -2754,6 +2754,7 @@ Updated on 2026-08-02
 | 10.1k | 17 | Stable-X/yoso-delight-v0-4-baseImage-to-Image | UpdatedSep 26, 2024 | [Link](https://huggingface.co/Stable-X/yoso-delight-v0-4-base) |
 | 29 | 17 | RedRocket/furception_vaeImage-to-Image | UpdatedJan 17, 2024 | [Link](https://huggingface.co/RedRocket/furception_vae) |
 | 4.17k | 17 | ohayonguy/PMRF_blind_face_image_restorationImage-to-Image | UpdatedOct 3, 2024 | [Link](https://huggingface.co/ohayonguy/PMRF_blind_face_image_restoration) |
+| 435 | 17 | NO8D/HighResolutionImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/NO8D/HighResolution) |
 | 37.8k | 16 | caidas/swin2SR-realworld-sr-x4-64-bsrgan-psnrImage-to-Image | UpdatedJan 21, 2023 | [Link](https://huggingface.co/caidas/swin2SR-realworld-sr-x4-64-bsrgan-psnr) |
 | 13.9k | 15 | lllyasviel/control_v11p_sd15_mlsdImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_mlsd) |
 | 179 | 15 | Kr1sJ/iMontageImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/Kr1sJ/iMontage) |
@@ -3708,6 +3709,7 @@ Updated on 2026-08-02
 | Updated2 days ago | 1.41k | mradermacher/dots | 2B | [Link](https://huggingface.co/mradermacher/dots.ocr-i1-GGUF) |
 | 178 | 1 | PaddlePaddle/RT-DETR-L_wireless_table_cell_det_onnxImage-to-Text | UpdatedJun 10 | [Link](https://huggingface.co/PaddlePaddle/RT-DETR-L_wireless_table_cell_det_onnx) |
 | 20 | 1 | mapo80/DeQA-Doc-SharpnessImage-to-Text | UpdatedDec 18, 2025 | [Link](https://huggingface.co/mapo80/DeQA-Doc-Sharpness) |
+| 65 | 1 | chayuto/thai-id-ocr-crnn-numeric-readerImage-to-Text | UpdatedMar 23 | [Link](https://huggingface.co/chayuto/thai-id-ocr-crnn-numeric-reader) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -3817,6 +3819,7 @@ Updated on 2026-08-02
 | 1 | Unknown | AlienKevin/ipa_ocrImage-to-Text | UpdatedMay 9, 2023 | [Link](https://huggingface.co/AlienKevin/ipa_ocr) |
 | 1 | Unknown | AnhadMahajan/AgriVision-BLIP2Image-to-Text | UpdatedJun 10 | [Link](https://huggingface.co/AnhadMahajan/AgriVision-BLIP2) |
 | 6 | Unknown | nutrientdocs/form-field-vlmImage-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/nutrientdocs/form-field-vlm) |
+| 1 | Unknown | ksithu/myanmar-crnn-ocrImage-to-Text | UpdatedApr 18 | [Link](https://huggingface.co/ksithu/myanmar-crnn-ocr) |
 
 ## Image-to-Video
 
@@ -6624,6 +6627,7 @@ Updated on 2026-08-02
 |  | 18 | multimodalart/isometric-skeumorphic-3d-bnbText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/multimodalart/isometric-skeumorphic-3d-bnb) |
 | Updatedabout 3 hours ago | 18 | jayn7/Z-Image-Turbo-GGUFText-to-Image | 6B | [Link](https://huggingface.co/jayn7/Z-Image-Turbo-GGUF) |
 | 289 | 18 | NO8D/ExpressionControlText-to-Image | Updated1 day ago | [Link](https://huggingface.co/NO8D/ExpressionControl) |
+| 2.35k | 18 | ifmylove2011/girlslike-krea2Text-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/ifmylove2011/girlslike-krea2) |
 | 59 | 17 | HiDream-ai/HiDream-I1-DevText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/HiDream-ai/HiDream-I1-Dev) |
 | 66 | 16 | HiDream-ai/HiDream-I1-FastText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/HiDream-ai/HiDream-I1-Fast) |
 | 42 | 16 | codermert/burcuufinal_fluxxText-to-Image | Updated5 days ago | [Link](https://huggingface.co/codermert/burcuufinal_fluxx) |
@@ -7134,6 +7138,7 @@ Updated on 2026-08-02
 | 8.56k | 455 | HKUSTAudio/Llasa-3BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-3B) |
 | 199 | 451 | CAMB-AI/MARS5-TTSText-to-Speech | UpdatedJul 5, 2024 | [Link](https://huggingface.co/CAMB-AI/MARS5-TTS) |
 | Updated4 days ago | 448 | Ken-Z/latin_SpeechT5Text-to-Speech | 0.1B | [Link](https://huggingface.co/Ken-Z/latin_SpeechT5) |
+| Updated5 days ago | 403 | remixerdec/Inflect-Nano-v2-GGUFText-to-Speech | 3.96M | [Link](https://huggingface.co/remixerdec/Inflect-Nano-v2-GGUF) |
 | Updated3 days ago | 399 | Aratako/MioTTS-GGUFText-to-Speech | 0.1B | [Link](https://huggingface.co/Aratako/MioTTS-GGUF) |
 | Updatedabout 11 hours ago | 389 | calcuis/vibevoice-ggufText-to-Speech | 3B | [Link](https://huggingface.co/calcuis/vibevoice-gguf) |
 | UpdatedSep 5, 2024 | 389 | wasmdashai/vits-arText-to-Speech | 0.0B | [Link](https://huggingface.co/wasmdashai/vits-ar) |
@@ -7293,6 +7298,7 @@ Updated on 2026-08-02
 | 43 | 12 | KRAFTON/Raon-OpenTTS-0 | Updatedabout 12 hours ago | [Link](https://huggingface.co/KRAFTON/Raon-OpenTTS-0.3B) |
 | 109 | 11 | NeuroDonu/RU-XTTS-DonuModelText-to-Speech | UpdatedMay 1, 2024 | [Link](https://huggingface.co/NeuroDonu/RU-XTTS-DonuModel) |
 | 36 | 11 | Abhinay45/XTTS-Hindi-finetunedText-to-Speech | UpdatedJan 11 | [Link](https://huggingface.co/Abhinay45/XTTS-Hindi-finetuned) |
+| 10.4k | 11 | JTS-AI/JaiTTS-F5TTSText-to-Speech | Updated27 days ago | [Link](https://huggingface.co/JTS-AI/JaiTTS-F5TTS) |
 | 27 | 10 | hexgrad/Kokoro-82M-v1 | Updatedabout 7 hours ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M-v1.1-zh) |
 | 879 | 10 | FunAudioLLM/CosyVoice-300M-SFTText-to-Speech | UpdatedDec 27, 2024 | [Link](https://huggingface.co/FunAudioLLM/CosyVoice-300M-SFT) |
 | 367 | 10 | IbrahimSalah/F5-TTS-ArabicText-to-Speech | UpdatedFeb 15 | [Link](https://huggingface.co/IbrahimSalah/F5-TTS-Arabic) |
