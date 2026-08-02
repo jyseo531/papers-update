@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-08-01
+Updated on 2026-08-02
 
 > Generated from the Hugging Face database.
 
@@ -300,6 +300,7 @@ Updated on 2026-08-01
 | 19 | 2 | AviadDahan/LTX-2 | Updatedabout 17 hours ago | [Link](https://huggingface.co/AviadDahan/LTX-2.3-ID-LoRA-CelebVHQ-3K) |
 | Updatedabout 9 hours ago | 2 | nightmedia/gemma-4-E4B-it-mxfp8-mlxAny-to-Any | 3B | [Link](https://huggingface.co/nightmedia/gemma-4-E4B-it-mxfp8-mlx) |
 | Updated2 days ago | 2.35k | llmfan46/gemma-4-E4B-it-ultra-uncensored-heretic-GGUFAny-to-Any | 8B | [Link](https://huggingface.co/llmfan46/gemma-4-E4B-it-ultra-uncensored-heretic-GGUF) |
+| Updated1 day ago | 2.33k | bartowski/Vortex5_G4-Dark-Soul-26B-A4B-GGUFAny-to-Any | 25B | [Link](https://huggingface.co/bartowski/Vortex5_G4-Dark-Soul-26B-A4B-GGUF) |
 | 170 | 1 | tezuesh/moshi_generalAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/tezuesh/moshi_general) |
 | 35 | 1 | tezuesh/IBLlama_v1Any-to-Any | UpdatedJan 24 | [Link](https://huggingface.co/tezuesh/IBLlama_v1) |
 | 43 | 1 | Athagi/Janus-Pro-7BAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/Athagi/Janus-Pro-7B) |
@@ -6604,6 +6605,7 @@ Updated on 2026-08-01
 | Updatedabout 24 hours ago | 29 | bench-labs/PixelModel-v5Text-to-Image | 0.2B | [Link](https://huggingface.co/bench-labs/PixelModel-v5) |
 | 145 | 28 | ByteDance/XVerseText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/ByteDance/XVerse) |
 | 2.41k | 27 | stanfordmimi/MerlinText-to-Image | UpdatedMar 4 | [Link](https://huggingface.co/stanfordmimi/Merlin) |
+| Updated2 days ago | 27.3k | Granddyser/flux-klein-9b-Biglove-CollectionText-to-Image | 9B | [Link](https://huggingface.co/Granddyser/flux-klein-9b-Biglove-Collection) |
 | 41 | 26 | SG161222/SPARK | Updatedabout 17 hours ago | [Link](https://huggingface.co/SG161222/SPARK.Chroma_preview) |
 | 15 | 25 | ideogram-ai/ideogram-4-nf4Text-to-Image | Updated7 minutes ago | [Link](https://huggingface.co/ideogram-ai/ideogram-4-nf4) |
 | 3.41k | 25 | Bedovyy/Anima-INT8Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/Bedovyy/Anima-INT8) |
