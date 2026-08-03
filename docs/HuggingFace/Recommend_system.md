@@ -2575,6 +2575,7 @@ Updated on 2026-08-03
 | 25 | Unknown | DreamFast/Qwen3-VL-4b-Heretic-ComfyUIImage-Text-to-Text | Updated4 days ago | [Link](https://huggingface.co/DreamFast/Qwen3-VL-4b-Heretic-ComfyUI) |
 | Updatedabout 18 hours ago |  | swiss-ai/Apertus-v1 | 72B | [Link](https://huggingface.co/swiss-ai/Apertus-v1.5-70B) |
 | 44 | Unknown | unsloth/Kimi-K3-GGUFImage-Text-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/unsloth/Kimi-K3-GGUF) |
+| 33 | Unknown | ethanfel/Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRotImage-Text-to-Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot) |
 
 ## Image-to-3D
 
@@ -6107,6 +6108,7 @@ Updated on 2026-08-03
 | Updated5 days ago | 3.51k | llm-jp/llm-jp-4-8b-thinkingText | 9B | [Link](https://huggingface.co/llm-jp/llm-jp-4-8b-thinking) |
 | Updated1 day ago | 3.48k | GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-ThinkingText | 1B | [Link](https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking) |
 | Updatedabout 5 hours ago | 3.06k | poolside/Laguna-S-2 | 118B | [Link](https://huggingface.co/poolside/Laguna-S-2.1) |
+| Updatedabout 1 hour ago | 3.48k | huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUFText | 284B | [Link](https://huggingface.co/huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF) |
 | Updated6 days ago | 2.04k | marcelbinz/Llama-3 | 71B | [Link](https://huggingface.co/marcelbinz/Llama-3.1-Centaur-70B) |
 | Updatedabout 2 hours ago | 2.66k | unsloth/Qwen3-235B-A22B-Instruct-2507-GGUFText | 235B | [Link](https://huggingface.co/unsloth/Qwen3-235B-A22B-Instruct-2507-GGUF) |
 | Updatedabout 10 hours ago | 2 | Qwen/Qwen3-30B-A3B-Thinking-2507Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507) |
@@ -7648,6 +7650,7 @@ Updated on 2026-08-03
 | 12.7k | 48 | calcuis/hunyuan-ggufText-to-Video | UpdatedDec 21, 2024 | [Link](https://huggingface.co/calcuis/hunyuan-gguf) |
 | 15.7k | 46 | calcuis/ltxv-ggufText-to-Video | Updated2 days ago | [Link](https://huggingface.co/calcuis/ltxv-gguf) |
 | 3 | 43 | bertjiazheng/KoolCogVideoX-5bText-to-Video | UpdatedSep 13, 2024 | [Link](https://huggingface.co/bertjiazheng/KoolCogVideoX-5b) |
+| Updated16 minutes ago | 42 | realrebelai/MiniMax-H3_GGUFsText-to-Video | 33B | [Link](https://huggingface.co/realrebelai/MiniMax-H3_GGUFs) |
 | 23.3k | 40 | zai-org/CogVideoX1 | UpdatedMar 28 | [Link](https://huggingface.co/zai-org/CogVideoX1.5-5B) |
 | 20 | 39 | Vchitect/Vchitect-2 | UpdatedMar 25 | [Link](https://huggingface.co/Vchitect/Vchitect-2.0-2B) |
 | 58 | 38 | wileewang/TransPixarText-to-Video | UpdatedJan 14 | [Link](https://huggingface.co/wileewang/TransPixar) |
@@ -7671,6 +7674,7 @@ Updated on 2026-08-03
 | 3.74k | 17 | calcuis/hyvidText-to-Video | Updated24 days ago | [Link](https://huggingface.co/calcuis/hyvid) |
 | Updatedabout 1 hour ago | 15 | burakkizil/LAMP-editText-to-Video | 8B | [Link](https://huggingface.co/burakkizil/LAMP-edit) |
 | 189 | 14 | showlab/show-1-baseText-to-Video | UpdatedOct 12, 2023 | [Link](https://huggingface.co/showlab/show-1-base) |
+| Updatedabout 2 hours ago | 14 | Abiray/MiniMax-H3-GGUFText-to-Video | 33B | [Link](https://huggingface.co/Abiray/MiniMax-H3-GGUF) |
 | 141 | 12 | finetrainers/pika-dissolve-v0Text-to-Video | UpdatedJan 16 | [Link](https://huggingface.co/finetrainers/pika-dissolve-v0) |
 | 53 | 11 | lucataco/hunyuan-musubi-lora-heygen-6Text-to-Video | UpdatedJan 13 | [Link](https://huggingface.co/lucataco/hunyuan-musubi-lora-heygen-6) |
 | 471 | 11 | Skywork/SkyReels-V2-DF-14B-540PText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-DF-14B-540P) |
@@ -7811,6 +7815,7 @@ Updated on 2026-08-03
 | 9 | 1 | AlekseyCalvin/UkraineWar_Wan21_14b_LoRA_BySAPText-to-Video | UpdatedJul 31, 2025 | [Link](https://huggingface.co/AlekseyCalvin/UkraineWar_Wan21_14b_LoRA_BySAP) |
 | 7 | 1 | AlekseyCalvin/UkraineWarA14b_wan2 | UpdatedJul 31, 2025 | [Link](https://huggingface.co/AlekseyCalvin/UkraineWarA14b_wan2.2_t2v-LoRA) |
 | UpdatedApr 7 | 1.18k | wanabmeya/clip_vision_h | 0.1B | [Link](https://huggingface.co/wanabmeya/clip_vision_h.safetensors) |
+| UpdatedOct 28, 2025 | 1.19k | wangkanai/wan22-qx-encoders-ggufText-to-Video | 6B | [Link](https://huggingface.co/wangkanai/wan22-qx-encoders-gguf) |
 | 7.59k |  | tencent/HunyuanVideoText-to-Video | UpdatedJan 21 | [Link](https://huggingface.co/tencent/HunyuanVideo) |
 | 26.6k |  | genmo/mochi-1-previewText-to-Video | UpdatedDec 18, 2024 | [Link](https://huggingface.co/genmo/mochi-1-preview) |
 | 91.5k |  | THUDM/CogVideoX-5bText-to-Video | UpdatedNov 23, 2024 | [Link](https://huggingface.co/THUDM/CogVideoX-5b) |
@@ -8000,6 +8005,7 @@ Updated on 2026-08-03
 | 3 | Unknown | Pensioner/ShotPlan-Wan2 | Updated6 days ago | [Link](https://huggingface.co/Pensioner/ShotPlan-Wan2.2-T2V-A14B-HighNoise) |
 | 22 | Unknown | PrunaAI/PrunaVAEDText-to-Video | Updatedabout 13 hours ago | [Link](https://huggingface.co/PrunaAI/PrunaVAED) |
 | 3 | Unknown | lightx2v/LightLingBot-VideoText-to-Video | Updatedabout 17 hours ago | [Link](https://huggingface.co/lightx2v/LightLingBot-Video) |
+| 15 | Unknown | lilcheaty/MiniMax-H3-NVFP4Text-to-Video | Updatedabout 7 hours ago | [Link](https://huggingface.co/lilcheaty/MiniMax-H3-NVFP4) |
 
 ## Text2Text Generation
 
