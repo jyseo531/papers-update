@@ -2369,6 +2369,7 @@ Updated on 2026-08-04
 | Updatedabout 23 hours ago | 10 | tencent/Youtu-ParsingImage-Text-to-Text | 3B | [Link](https://huggingface.co/tencent/Youtu-Parsing) |
 | Updatedabout 12 hours ago | 10 | Trendyol/Trendyol-LLM-Asure-12BImage-Text-to-Text | 12B | [Link](https://huggingface.co/Trendyol/Trendyol-LLM-Asure-12B) |
 | Updated1 day ago | 10.1k | bartowski/Qwen_Qwen3 | 27B | [Link](https://huggingface.co/bartowski/Qwen_Qwen3.5-27B-GGUF) |
+| Updated1 day ago | 10.6k | AlicanKiraz0/Mizan-27B-Turkish-Legal-LLM-Q4_K_M-GGUFImage-Text-to-Text | 27B | [Link](https://huggingface.co/AlicanKiraz0/Mizan-27B-Turkish-Legal-LLM-Q4_K_M-GGUF) |
 | 9.49k | 9 | unsloth/gemma-3-27b-it-bnb-4bitImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-bnb-4bit) |
 | 40.9k | 9 | lmstudio-community/gemma-3-12b-it-GGUFImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/lmstudio-community/gemma-3-12b-it-GGUF) |
 | 1.89k | 9 | Mungert/gemma-3-12b-it-ggufImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/Mungert/gemma-3-12b-it-gguf) |
@@ -3165,6 +3166,7 @@ Updated on 2026-08-04
 | 5 | Unknown | Comfy-Org/JoyAI-Image-EditImage-to-Image | Updatedabout 17 hours ago | [Link](https://huggingface.co/Comfy-Org/JoyAI-Image-Edit) |
 | 11 | Unknown | lvladikov/SeedVR2-1 | Updatedabout 8 hours ago | [Link](https://huggingface.co/lvladikov/SeedVR2-1.4B) |
 | 8 | Unknown | Alissonerdx/CharacterSheetImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/Alissonerdx/CharacterSheet) |
+| 6 | Unknown | thedeoxen/Krea-2-pose-controlnetImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/thedeoxen/Krea-2-pose-controlnet) |
 
 ## Image-to-Text
 
@@ -3826,6 +3828,7 @@ Updated on 2026-08-04
 | 1 | Unknown | AnhadMahajan/AgriVision-BLIP2Image-to-Text | UpdatedJun 10 | [Link](https://huggingface.co/AnhadMahajan/AgriVision-BLIP2) |
 | 6 | Unknown | nutrientdocs/form-field-vlmImage-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/nutrientdocs/form-field-vlm) |
 | 1 | Unknown | ksithu/myanmar-crnn-ocrImage-to-Text | UpdatedApr 18 | [Link](https://huggingface.co/ksithu/myanmar-crnn-ocr) |
+| 4 | Unknown | kulibinai/cadenaImage-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/kulibinai/cadena) |
 
 ## Image-to-Video
 
@@ -5703,6 +5706,7 @@ Updated on 2026-08-04
 | 125 | 37 | microsoft/Phi-4-mini-instructText | Updatedabout 2 hours ago | [Link](https://huggingface.co/microsoft/Phi-4-mini-instruct) |
 | Updatedabout 13 hours ago | 37 | Tesslate/UIGEN-X-32B-0727Text | 0.0B | [Link](https://huggingface.co/Tesslate/UIGEN-X-32B-0727) |
 | Updated1 day ago | 37 | Shekswess/trlm-135mText | 0.1B | [Link](https://huggingface.co/Shekswess/trlm-135m) |
+| Updated1 day ago | 37 | ai9stars/G9v3-39A5BText | 39B | [Link](https://huggingface.co/ai9stars/G9v3-39A5B) |
 | 60 | 36 | Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1Text | Updatedabout 9 hours ago | [Link](https://huggingface.co/Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1) |
 | Updated1 day ago | 36 | KurmaAI/AQUA-1BText | 1.0B | [Link](https://huggingface.co/KurmaAI/AQUA-1B) |
 | Updatedabout 10 hours ago | 36 | LiquidAI/LFM2-700MText | 0.7B | [Link](https://huggingface.co/LiquidAI/LFM2-700M) |
@@ -6715,6 +6719,7 @@ Updated on 2026-08-04
 | 2.18k | 9 | diroverflo/FLux_Klein_9B_NSFWText-to-Image | UpdatedFeb 24 | [Link](https://huggingface.co/diroverflo/FLux_Klein_9B_NSFW) |
 | Updatedabout 13 hours ago | 9 | RunDiffusion/Juggernaut-Z-ImageText-to-Image | 6B | [Link](https://huggingface.co/RunDiffusion/Juggernaut-Z-Image) |
 |  | 9 | mgwr/M87Text-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/mgwr/M87) |
+| Updatedabout 7 hours ago | 9 | bench-labs/PixelModel-v6Text-to-Image | 0.2B | [Link](https://huggingface.co/bench-labs/PixelModel-v6) |
 | 215 | 8 | tensorart/stable-diffusion-3 | Updated8 minutes ago | [Link](https://huggingface.co/tensorart/stable-diffusion-3.5-large-TurboX) |
 | 34 | 8 | renderartist/coloringbookhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/coloringbookhidream) |
 | 1.79k | 8 | MaxedOut/ComfyUI-Starter-PacksText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/MaxedOut/ComfyUI-Starter-Packs) |
