@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-08-03
+Updated on 2026-08-04
 
 > Generated from the Hugging Face database.
 
@@ -2838,6 +2838,7 @@ Updated on 2026-08-03
 | 120 | 5 | ilkerzgi/face-swapImage-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/ilkerzgi/face-swap) |
 | 78 | 5 | TensorForger/FlowUpscalerImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/TensorForger/FlowUpscaler) |
 | 3.87k | 5 | starsfriday/Mage-Flow-Edit-FP8Image-to-Image | Updated6 days ago | [Link](https://huggingface.co/starsfriday/Mage-Flow-Edit-FP8) |
+| 3 | 5 | yijunwang2/krea2-anypaintImage-to-Image | Updatedabout 14 hours ago | [Link](https://huggingface.co/yijunwang2/krea2-anypaint) |
 | 575 | 4 | prs-eth/marigold-normals-v1-1Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-normals-v1-1) |
 | 1k | 4 | stanfordmimi/MedVAEImage-to-Image | UpdatedMar 31 | [Link](https://huggingface.co/stanfordmimi/MedVAE) |
 | 3 | 4 | wikeeyang/UniWorld-V1-NF4Image-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/wikeeyang/UniWorld-V1-NF4) |
@@ -3276,6 +3277,7 @@ Updated on 2026-08-03
 | Updated3 days ago | 87 | shkb/MemeLeakImage-to-Text | 9B | [Link](https://huggingface.co/shkb/MemeLeak) |
 | UpdatedOct 5, 2024 | 82 | syubraj/TrOCR_NepaliImage-to-Text | 0.2B | [Link](https://huggingface.co/syubraj/TrOCR_Nepali) |
 | UpdatedNov 29, 2024 | 81 | fancyfeast/llama-joycaption-alpha-two-vqa-test-1Image-to-Text | 8B | [Link](https://huggingface.co/fancyfeast/llama-joycaption-alpha-two-vqa-test-1) |
+| UpdatedApr 19 | 81 | Makadi86/Arabic-GLM-OCR-v2-GGUFImage-to-Text | 0.7B | [Link](https://huggingface.co/Makadi86/Arabic-GLM-OCR-v2-GGUF) |
 | UpdatedMar 3 | 79 | mlx-community/olmOCR-7B-0225-preview-bf16Image-to-Text | 8B | [Link](https://huggingface.co/mlx-community/olmOCR-7B-0225-preview-bf16) |
 | Updated3 days ago | 78 | Rainnighttram/GLM-4 | 10B | [Link](https://huggingface.co/Rainnighttram/GLM-4.1V-9B-Thinking-bnb-4bit) |
 | Updated16 days ago | 78.3k | InternScience/StructTable-baseImage-to-Text | 0.3B | [Link](https://huggingface.co/InternScience/StructTable-base) |
@@ -6574,6 +6576,7 @@ Updated on 2026-08-03
 | 205 | 116 | baidu/ERNIE-ImageText-to-Image | Updated39 minutes ago | [Link](https://huggingface.co/baidu/ERNIE-Image) |
 | 31.2k | 114 | nunchaku-ai/nunchaku-qwen-image-editText-to-Image | UpdatedNov 16, 2025 | [Link](https://huggingface.co/nunchaku-ai/nunchaku-qwen-image-edit) |
 | Updatedabout 20 hours ago | 112 | vantagewithai/Krea-2-Turbo-GGUFText-to-Image | 13B | [Link](https://huggingface.co/vantagewithai/Krea-2-Turbo-GGUF) |
+| Updated13 days ago | 104 | mage-flow-community/Mage-FlowText-to-Image | 4B | [Link](https://huggingface.co/mage-flow-community/Mage-Flow) |
 | 56.2k | 98 | Lykon/dreamshaper-8Text-to-Image | UpdatedDec 7, 2023 | [Link](https://huggingface.co/Lykon/dreamshaper-8) |
 | 117 | 82 | baidu/ERNIE-Image-TurboText-to-Image | Updated39 minutes ago | [Link](https://huggingface.co/baidu/ERNIE-Image-Turbo) |
 | 3.01k | 81 | RunDiffusion/Juggernaut-XI-v11Text-to-Image | UpdatedAug 29, 2024 | [Link](https://huggingface.co/RunDiffusion/Juggernaut-XI-v11) |
@@ -7484,6 +7487,7 @@ Updated on 2026-08-03
 | Updated5 days ago | 1.22k | mlx-community/Qwen3-TTS-12Hz-1 | 2B | [Link](https://huggingface.co/mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-bf16) |
 | Updated8 days ago | 1.76k | bluryar/VoxCPM-GGUFText-to-Speech | 0.7B | [Link](https://huggingface.co/bluryar/VoxCPM-GGUF) |
 | Updated8 days ago | 1.29k | Serveurperso/OmniVoice-GGUFText-to-Speech | 0.6B | [Link](https://huggingface.co/Serveurperso/OmniVoice-GGUF) |
+| Updated7 days ago | 1.76k | freyavoice/Freya-TTSText-to-Speech | 0.2B | [Link](https://huggingface.co/freyavoice/Freya-TTS) |
 | 302 | Unknown | lj1995/GPT-SoVITSText-to-Speech | Updated14 days ago | [Link](https://huggingface.co/lj1995/GPT-SoVITS) |
 | 436 | Unknown | myshell-ai/OpenVoiceText-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoice) |
 | 365 | Unknown | myshell-ai/OpenVoiceV2Text-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoiceV2) |
@@ -8006,6 +8010,8 @@ Updated on 2026-08-03
 | 22 | Unknown | PrunaAI/PrunaVAEDText-to-Video | Updatedabout 13 hours ago | [Link](https://huggingface.co/PrunaAI/PrunaVAED) |
 | 3 | Unknown | lightx2v/LightLingBot-VideoText-to-Video | Updatedabout 17 hours ago | [Link](https://huggingface.co/lightx2v/LightLingBot-Video) |
 | 15 | Unknown | lilcheaty/MiniMax-H3-NVFP4Text-to-Video | Updatedabout 7 hours ago | [Link](https://huggingface.co/lilcheaty/MiniMax-H3-NVFP4) |
+| 6 | Unknown | rockerBOO/minimax-h3-nvfp4Text-to-Video | Updated41 minutes ago | [Link](https://huggingface.co/rockerBOO/minimax-h3-nvfp4) |
+| 4 | Unknown | ddalcu/MiniMax-H3-FL2VA-MLX-Serve-8bitText-to-Video | Updatedabout 21 hours ago | [Link](https://huggingface.co/ddalcu/MiniMax-H3-FL2VA-MLX-Serve-8bit) |
 
 ## Text2Text Generation
 
