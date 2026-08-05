@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-08-04
+Updated on 2026-08-05
 
 > Generated from the Hugging Face database.
 
@@ -5847,6 +5847,7 @@ Updated on 2026-08-04
 | Updatedabout 15 hours ago | 25 | Qwen/WebWorld-32BText | 677k | [Link](https://huggingface.co/Qwen/WebWorld-32B) |
 | Updatedabout 21 hours ago | 25 | yuxinlu1/gemma-4-12B-coder-fable5-composer2 | 12B | [Link](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) |
 | Updated6 days ago | 25.3k | empero-ai/Qwable-9B-Claude-Fable-5Text | 9B | [Link](https://huggingface.co/empero-ai/Qwable-9B-Claude-Fable-5) |
+| Updated6 minutes ago | 25 | inclusionAI/Ling-3 | 127B | [Link](https://huggingface.co/inclusionAI/Ling-3.0-flash) |
 | 8.8k | 24 | unsloth/QwQ-32B-GGUFText | Updatedabout 1 hour ago | [Link](https://huggingface.co/unsloth/QwQ-32B-GGUF) |
 | 90.1k | 24 | allenai/OLMo-2-0325-32BText | Updated3 days ago | [Link](https://huggingface.co/allenai/OLMo-2-0325-32B) |
 | 722 | 24 | qihoo360/Light-R1-14B-DSText | Updatedabout 9 hours ago | [Link](https://huggingface.co/qihoo360/Light-R1-14B-DS) |
@@ -7742,6 +7743,7 @@ Updated on 2026-08-04
 | Updated5 minutes ago | 3 | realrebelai/LingBot-30B-3B_GGUF_ComfyUIText-to-Video | 30B | [Link](https://huggingface.co/realrebelai/LingBot-30B-3B_GGUF_ComfyUI) |
 | 16 | 3 | aidealab/AnimeGen-T2VText-to-Video | Updated14 days ago | [Link](https://huggingface.co/aidealab/AnimeGen-T2V) |
 | 38 | 3 | joeygambino/joyai-echo-ltx23-echoVid-ltxAud-surgical-int8Text-to-Video | Updatedabout 4 hours ago | [Link](https://huggingface.co/joeygambino/joyai-echo-ltx23-echoVid-ltxAud-surgical-int8) |
+| 273 | 3 | ddalcu/MiniMax-H3-FL2VA-MLX-Serve-4bitText-to-Video | Updated1 day ago | [Link](https://huggingface.co/ddalcu/MiniMax-H3-FL2VA-MLX-Serve-4bit) |
 | 69 | 2 | obvious-research/onlyflowText-to-Video | Updated5 days ago | [Link](https://huggingface.co/obvious-research/onlyflow) |
 | 42 | 2 | jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIEText-to-Video | Updated7 days ago | [Link](https://huggingface.co/jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIE) |
 | 10 | 2 | vdo/Hotshot-XLText-to-Video | UpdatedOct 4, 2023 | [Link](https://huggingface.co/vdo/Hotshot-XL) |
@@ -8017,6 +8019,7 @@ Updated on 2026-08-04
 | 15 | Unknown | lilcheaty/MiniMax-H3-NVFP4Text-to-Video | Updatedabout 7 hours ago | [Link](https://huggingface.co/lilcheaty/MiniMax-H3-NVFP4) |
 | 6 | Unknown | rockerBOO/minimax-h3-nvfp4Text-to-Video | Updated41 minutes ago | [Link](https://huggingface.co/rockerBOO/minimax-h3-nvfp4) |
 | 4 | Unknown | ddalcu/MiniMax-H3-FL2VA-MLX-Serve-8bitText-to-Video | Updatedabout 21 hours ago | [Link](https://huggingface.co/ddalcu/MiniMax-H3-FL2VA-MLX-Serve-8bit) |
+| 16 | Unknown | joeygambino/MiniMax-H3-Multishot-WorkflowText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/joeygambino/MiniMax-H3-Multishot-Workflow) |
 
 ## Text2Text Generation
 
