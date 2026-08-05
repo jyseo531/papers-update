@@ -2577,6 +2577,7 @@ Updated on 2026-08-05
 | Updatedabout 18 hours ago |  | swiss-ai/Apertus-v1 | 72B | [Link](https://huggingface.co/swiss-ai/Apertus-v1.5-70B) |
 | 44 | Unknown | unsloth/Kimi-K3-GGUFImage-Text-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/unsloth/Kimi-K3-GGUF) |
 | 33 | Unknown | ethanfel/Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRotImage-Text-to-Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot) |
+| 248 | Unknown | ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRotImage-Text-to-Text | Updated37 minutes ago | [Link](https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot) |
 
 ## Image-to-3D
 
@@ -5361,6 +5362,7 @@ Updated on 2026-08-05
 | Updatedabout 11 hours ago | 427 | Jiunsong/SuperGemma4-31b-abliterated-GGUFText | 31B | [Link](https://huggingface.co/Jiunsong/SuperGemma4-31b-abliterated-GGUF) |
 | Updatedabout 12 hours ago | 425 | Nikity/lille-130m-instructText | 0.1B | [Link](https://huggingface.co/Nikity/lille-130m-instruct) |
 | Updated2 days ago | 419 | rstar2-reproduce/rStar2-Agent-14BText | 15B | [Link](https://huggingface.co/rstar2-reproduce/rStar2-Agent-14B) |
+| UpdatedAug 27, 2024 | 417k | google/gemma-2-9b-itText | 9B | [Link](https://huggingface.co/google/gemma-2-9b-it) |
 | Updated2 days ago | 414 | FINAL-Bench/Darwin-36B-OpusText | 35B | [Link](https://huggingface.co/FINAL-Bench/Darwin-36B-Opus) |
 | Updated21 minutes ago | 395 | deepseek-ai/DeepSeek-V4-ProText | 862B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro) |
 | Updatedabout 9 hours ago | 389 | zai-org/GLM-5 | 754B | [Link](https://huggingface.co/zai-org/GLM-5.1) |
@@ -5501,6 +5503,7 @@ Updated on 2026-08-05
 | Updated4 days ago | 110 | LatitudeGames/Wayfarer-2-12BText | 12B | [Link](https://huggingface.co/LatitudeGames/Wayfarer-2-12B) |
 | 176 | 109 | nvidia/DeepSeek-R1-FP4Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/nvidia/DeepSeek-R1-FP4) |
 | Updated8 days ago | 109 | LiquidAI/LFM2-24B-A2B-GGUFText | 24B | [Link](https://huggingface.co/LiquidAI/LFM2-24B-A2B-GGUF) |
+| Updatedabout 18 hours ago | 109 | deepgrove/maple-previewText | 20B | [Link](https://huggingface.co/deepgrove/maple-preview) |
 | 3 | 107 | MiniMaxAI/MiniMax-M1-80kText | Updatedabout 10 hours ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M1-80k) |
 | Updated4 days ago | 107 | t-tech/T-SearchText | 36B | [Link](https://huggingface.co/t-tech/T-Search) |
 | Updated1 day ago | 106 | opendatalab/MinerU-HTMLText | 0.8B | [Link](https://huggingface.co/opendatalab/MinerU-HTML) |
@@ -8020,6 +8023,7 @@ Updated on 2026-08-05
 | 6 | Unknown | rockerBOO/minimax-h3-nvfp4Text-to-Video | Updated41 minutes ago | [Link](https://huggingface.co/rockerBOO/minimax-h3-nvfp4) |
 | 4 | Unknown | ddalcu/MiniMax-H3-FL2VA-MLX-Serve-8bitText-to-Video | Updatedabout 21 hours ago | [Link](https://huggingface.co/ddalcu/MiniMax-H3-FL2VA-MLX-Serve-8bit) |
 | 16 | Unknown | joeygambino/MiniMax-H3-Multishot-WorkflowText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/joeygambino/MiniMax-H3-Multishot-Workflow) |
+| 3 | Unknown | dotexec/MiniMax-H3-T2V-NVFP4Text-to-Video | Updated2 days ago | [Link](https://huggingface.co/dotexec/MiniMax-H3-T2V-NVFP4) |
 
 ## Text2Text Generation
 
