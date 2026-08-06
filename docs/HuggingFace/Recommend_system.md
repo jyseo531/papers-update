@@ -2246,6 +2246,7 @@ Updated on 2026-08-06
 | Updatedabout 4 hours ago | 23 | openbmb/MiniCPM-V-4_5Image-Text-to-Text | 9B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4_5) |
 | Updatedabout 10 hours ago | 23 | internlm/JanusCoderV-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/internlm/JanusCoderV-7B) |
 | Updatedabout 5 hours ago | 23 | HauhauCS/Qwen3 | 35B | [Link](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive) |
+| Updated1 day ago | 23 | internlm/Intern-S2-MobiusImage-Text-to-Text | 36B | [Link](https://huggingface.co/internlm/Intern-S2-Mobius) |
 | 27 | 22 | ByteDance-Seed/UI-TARS-1 | Updated14 minutes ago | [Link](https://huggingface.co/ByteDance-Seed/UI-TARS-1.5-7B) |
 | Updatedabout 8 hours ago | 22 | Qwen/Qwen3-VL-32B-ThinkingImage-Text-to-Text | 33B | [Link](https://huggingface.co/Qwen/Qwen3-VL-32B-Thinking) |
 | 9 | 21 | Skywork/Skywork-R1V-38BImage-Text-to-Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/Skywork/Skywork-R1V-38B) |
@@ -7749,6 +7750,7 @@ Updated on 2026-08-06
 | 16 | 3 | aidealab/AnimeGen-T2VText-to-Video | Updated14 days ago | [Link](https://huggingface.co/aidealab/AnimeGen-T2V) |
 | 38 | 3 | joeygambino/joyai-echo-ltx23-echoVid-ltxAud-surgical-int8Text-to-Video | Updatedabout 4 hours ago | [Link](https://huggingface.co/joeygambino/joyai-echo-ltx23-echoVid-ltxAud-surgical-int8) |
 | 273 | 3 | ddalcu/MiniMax-H3-FL2VA-MLX-Serve-4bitText-to-Video | Updated1 day ago | [Link](https://huggingface.co/ddalcu/MiniMax-H3-FL2VA-MLX-Serve-4bit) |
+| Updatedabout 9 hours ago | 3 | unsloth/Wan2 | 5B | [Link](https://huggingface.co/unsloth/Wan2.2-TI2V-5B-GGUF) |
 | 69 | 2 | obvious-research/onlyflowText-to-Video | Updated5 days ago | [Link](https://huggingface.co/obvious-research/onlyflow) |
 | 42 | 2 | jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIEText-to-Video | Updated7 days ago | [Link](https://huggingface.co/jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIE) |
 | 10 | 2 | vdo/Hotshot-XLText-to-Video | UpdatedOct 4, 2023 | [Link](https://huggingface.co/vdo/Hotshot-XL) |
@@ -7832,6 +7834,7 @@ Updated on 2026-08-06
 | 7 | 1 | AlekseyCalvin/UkraineWarA14b_wan2 | UpdatedJul 31, 2025 | [Link](https://huggingface.co/AlekseyCalvin/UkraineWarA14b_wan2.2_t2v-LoRA) |
 | UpdatedApr 7 | 1.18k | wanabmeya/clip_vision_h | 0.1B | [Link](https://huggingface.co/wanabmeya/clip_vision_h.safetensors) |
 | UpdatedOct 28, 2025 | 1.19k | wangkanai/wan22-qx-encoders-ggufText-to-Video | 6B | [Link](https://huggingface.co/wangkanai/wan22-qx-encoders-gguf) |
+| Updated3 days ago | 1.58k | FenomAI/MiniMax-H3_GGUFsText-to-Video | 33B | [Link](https://huggingface.co/FenomAI/MiniMax-H3_GGUFs) |
 | 7.59k |  | tencent/HunyuanVideoText-to-Video | UpdatedJan 21 | [Link](https://huggingface.co/tencent/HunyuanVideo) |
 | 26.6k |  | genmo/mochi-1-previewText-to-Video | UpdatedDec 18, 2024 | [Link](https://huggingface.co/genmo/mochi-1-preview) |
 | 91.5k |  | THUDM/CogVideoX-5bText-to-Video | UpdatedNov 23, 2024 | [Link](https://huggingface.co/THUDM/CogVideoX-5b) |
@@ -8027,6 +8030,7 @@ Updated on 2026-08-06
 | 16 | Unknown | joeygambino/MiniMax-H3-Multishot-WorkflowText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/joeygambino/MiniMax-H3-Multishot-Workflow) |
 | 3 | Unknown | dotexec/MiniMax-H3-T2V-NVFP4Text-to-Video | Updated2 days ago | [Link](https://huggingface.co/dotexec/MiniMax-H3-T2V-NVFP4) |
 | 42 | Unknown | larryvrh/MiniMax-H3-Turbo-LoraText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora) |
+| 78 | Unknown | drbaph/MiniMax-H3-Turbo-Lora-ComfyUIText-to-Video | Updatedabout 4 hours ago | [Link](https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI) |
 
 ## Text2Text Generation
 
