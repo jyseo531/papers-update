@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-08-05
+Updated on 2026-08-06
 
 > Generated from the Hugging Face database.
 
@@ -3168,6 +3168,7 @@ Updated on 2026-08-05
 | 11 | Unknown | lvladikov/SeedVR2-1 | Updatedabout 8 hours ago | [Link](https://huggingface.co/lvladikov/SeedVR2-1.4B) |
 | 8 | Unknown | Alissonerdx/CharacterSheetImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/Alissonerdx/CharacterSheet) |
 | 6 | Unknown | thedeoxen/Krea-2-pose-controlnetImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/thedeoxen/Krea-2-pose-controlnet) |
+| 7 | Unknown | WarmBloodAban/Krea2_Anything2RealCharacters-V2Image-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/WarmBloodAban/Krea2_Anything2RealCharacters-V2) |
 
 ## Image-to-Text
 
@@ -7240,6 +7241,7 @@ Updated on 2026-08-05
 | 1.59k | 61 | OpenMOSS-Team/MOSS-TTS-Nano-100MText-to-Speech | Updatedabout 4 hours ago | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Nano-100M) |
 | Updatedabout 13 hours ago | 58 | NandemoGHS/Anime-Llasa-3B-CaptionsText-to-Speech | 3B | [Link](https://huggingface.co/NandemoGHS/Anime-Llasa-3B-Captions) |
 | UpdatedMar 14 | 58 | saheedniyi/YarnGPT-localText-to-Speech | 0.4B | [Link](https://huggingface.co/saheedniyi/YarnGPT-local) |
+| Updated4 days ago | 58 | scrappylabsai/warbleText-to-Speech | 0.6B | [Link](https://huggingface.co/scrappylabsai/warble) |
 | Updated3 days ago | 57 | mlx-community/VoxCPM1 | 0.9B | [Link](https://huggingface.co/mlx-community/VoxCPM1.5) |
 | Updated1 day ago | 54 | nineninesix/kani-tts-370m-expo2025-osaka-jaText-to-Speech | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-370m-expo2025-osaka-ja) |
 | Updatedabout 8 hours ago | 51 | neuphonic/neutts-air-q8-ggufText-to-Speech | 0.7B | [Link](https://huggingface.co/neuphonic/neutts-air-q8-gguf) |
@@ -8024,6 +8026,7 @@ Updated on 2026-08-05
 | 4 | Unknown | ddalcu/MiniMax-H3-FL2VA-MLX-Serve-8bitText-to-Video | Updatedabout 21 hours ago | [Link](https://huggingface.co/ddalcu/MiniMax-H3-FL2VA-MLX-Serve-8bit) |
 | 16 | Unknown | joeygambino/MiniMax-H3-Multishot-WorkflowText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/joeygambino/MiniMax-H3-Multishot-Workflow) |
 | 3 | Unknown | dotexec/MiniMax-H3-T2V-NVFP4Text-to-Video | Updated2 days ago | [Link](https://huggingface.co/dotexec/MiniMax-H3-T2V-NVFP4) |
+| 42 | Unknown | larryvrh/MiniMax-H3-Turbo-LoraText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora) |
 
 ## Text2Text Generation
 
