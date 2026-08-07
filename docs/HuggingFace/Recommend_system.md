@@ -276,6 +276,8 @@ Updated on 2026-08-07
 | Updatedabout 4 hours ago | 3 | osmapi/osmGemma-4-12B-uncensored-bf16Any-to-Any | 12B | [Link](https://huggingface.co/osmapi/osmGemma-4-12B-uncensored-bf16) |
 | Updated5 days ago | 3.36k | huihui-ai/Huihui-gemma-4-E4B-it-qat-q4_0-unquantized-abliterated-GGUFAny-to-Any | 7B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-E4B-it-qat-q4_0-unquantized-abliterated-GGUF) |
 | Updated1 day ago | 3.93k | mradermacher/gemma-4-12B-Queen-it-qat-q4_0-unquantized-i1-GGUFAny-to-Any | 12B | [Link](https://huggingface.co/mradermacher/gemma-4-12B-Queen-it-qat-q4_0-unquantized-i1-GGUF) |
+| Updated1 day ago | 3 | bartowski/TheDrummer_Artemis-31B-v1 | 31B | [Link](https://huggingface.co/bartowski/TheDrummer_Artemis-31B-v1.1-GGUF) |
+| Updatedabout 10 hours ago | 3 | bartowski/ReadyArt_gemma-4-31B-it-scotoma-2-GGUFAny-to-Any | 31B | [Link](https://huggingface.co/bartowski/ReadyArt_gemma-4-31B-it-scotoma-2-GGUF) |
 | 47 | 2 | PKU-Alignment/AnyRewardModelAny-to-Any | UpdatedDec 28, 2024 | [Link](https://huggingface.co/PKU-Alignment/AnyRewardModel) |
 | 585 | 2 | wnma3mz/Janus-Pro-1B-4bitAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/wnma3mz/Janus-Pro-1B-4bit) |
 | 3 | 2 | lintw/HealthGPT-XL32Any-to-Any | Updatedabout 18 hours ago | [Link](https://huggingface.co/lintw/HealthGPT-XL32) |
@@ -2087,6 +2089,7 @@ Updated on 2026-08-07
 | Updatedabout 8 hours ago | 111 | deepseek-ai/DeepSeek-OCRImage-Text-to-Text | 3B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-OCR) |
 | Updated16 days ago | 109 | ChatDOC/OCRFlux-3BImage-Text-to-Text | 4B | [Link](https://huggingface.co/ChatDOC/OCRFlux-3B) |
 | Updated5 days ago | 109k | bartowski/google_gemma-4-31B-it-GGUFImage-Text-to-Text | 31B | [Link](https://huggingface.co/bartowski/google_gemma-4-31B-it-GGUF) |
+| Updated1 day ago | 109 | endless-frontier/BigBang-v1Image-Text-to-Text | 36B | [Link](https://huggingface.co/endless-frontier/BigBang-v1) |
 | 16.1k | 106 | bytedance-research/UI-TARS-72B-DPOImage-Text-to-Text | UpdatedJan 25 | [Link](https://huggingface.co/bytedance-research/UI-TARS-72B-DPO) |
 | Updated4 days ago | 105 | Alibaba-DAMO-Academy/RynnBrain-30B-A3BImage-Text-to-Text | 17B | [Link](https://huggingface.co/Alibaba-DAMO-Academy/RynnBrain-30B-A3B) |
 | Updated2 days ago | 105 | MirilAI/Miril-Drone-2B-1Image-Text-to-Text | 5B | [Link](https://huggingface.co/MirilAI/Miril-Drone-2B-1) |
@@ -3637,6 +3640,7 @@ Updated on 2026-08-07
 | 1.84k | 2 | PaddlePaddle/PP-OCRv4_server_seal_detImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv4_server_seal_det) |
 | 3.36k | 2 | PaddlePaddle/PP-OCRv4_server_detImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv4_server_det) |
 | 124 | 2 | Rattatammanoon/hurricane-ocr-tlpr-v1-LoRAImage-to-Text | UpdatedApr 9 | [Link](https://huggingface.co/Rattatammanoon/hurricane-ocr-tlpr-v1-LoRA) |
+| Updatedabout 1 hour ago | 2 | OttomanNLP/Azra-1-Mini-0 | 0.9B | [Link](https://huggingface.co/OttomanNLP/Azra-1-Mini-0.8b) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -3834,6 +3838,7 @@ Updated on 2026-08-07
 | 6 | Unknown | nutrientdocs/form-field-vlmImage-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/nutrientdocs/form-field-vlm) |
 | 1 | Unknown | ksithu/myanmar-crnn-ocrImage-to-Text | UpdatedApr 18 | [Link](https://huggingface.co/ksithu/myanmar-crnn-ocr) |
 | 4 | Unknown | kulibinai/cadenaImage-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/kulibinai/cadena) |
+| 2 | Unknown | mhalimi3008/pashtoOCRImage-to-Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/mhalimi3008/pashtoOCR) |
 
 ## Image-to-Video
 
@@ -7400,6 +7405,7 @@ Updated on 2026-08-07
 | 7.65k | 5 | audio-cpp/audio | Updatedabout 11 hours ago | [Link](https://huggingface.co/audio-cpp/audio.cpp-gguf) |
 | 78 | 5 | Sariel00/cosyvoice2_rknnText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/Sariel00/cosyvoice2_rknn) |
 | 33 | 5 | owensong/Inflect-Micro-v2-ONNXText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/owensong/Inflect-Micro-v2-ONNX) |
+| 32 | 5 | tryorato/orato-tts-hindi-v1Text-to-Speech | Updated7 days ago | [Link](https://huggingface.co/tryorato/orato-tts-hindi-v1) |
 | 5 | 4 | lunahr/csm-1b-safetensors-fp16Text-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-fp16) |
 | 2 | 4 | VAGOsolutions/SauerkrautTTS-Preview-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/VAGOsolutions/SauerkrautTTS-Preview-0.1) |
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
