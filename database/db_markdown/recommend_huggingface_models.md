@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-08-06
+Updated on 2026-08-07
 
 > Generated from the Hugging Face database.
 
@@ -2500,6 +2500,7 @@ Updated on 2026-08-06
 | Updatedabout 19 hours ago | 2.28k | migtissera/Tess-4-27B-GGUFImage-Text-to-Text | 27B | [Link](https://huggingface.co/migtissera/Tess-4-27B-GGUF) |
 | Updatedabout 11 hours ago | 2.85k | moonshotai/Kimi-K3Image-Text-to-Text | 2.8T | [Link](https://huggingface.co/moonshotai/Kimi-K3) |
 | Updatedabout 9 hours ago | 2.52k | thinkingmachines/Inkling-Small-NVFP4Image-Text-to-Text | 156B | [Link](https://huggingface.co/thinkingmachines/Inkling-Small-NVFP4) |
+| Updatedabout 12 hours ago | 2.09k | nvidia/NVIDIA-Nemotron-Parse-2 | 0.9B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Parse-2.0) |
 | 2.72k | 1.62k | microsoft/OmniParserImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/microsoft/OmniParser) |
 | 100k | 1.4k | stepfun-ai/GOT-OCR2_0Image-Text-to-Text | Updated21 days ago | [Link](https://huggingface.co/stepfun-ai/GOT-OCR2_0) |
 | 1.78M | 1.42k | microsoft/Florence-2-largeImage-Text-to-Text | UpdatedDec 8, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-large) |
@@ -3721,6 +3722,7 @@ Updated on 2026-08-06
 | 20 | 1 | mapo80/DeQA-Doc-SharpnessImage-to-Text | UpdatedDec 18, 2025 | [Link](https://huggingface.co/mapo80/DeQA-Doc-Sharpness) |
 | 65 | 1 | chayuto/thai-id-ocr-crnn-numeric-readerImage-to-Text | UpdatedMar 23 | [Link](https://huggingface.co/chayuto/thai-id-ocr-crnn-numeric-reader) |
 | UpdatedJun 29 | 1.08k | SandLogicTechnologies/DeepSeek-OCR-2-GGUFImage-to-Text | 3B | [Link](https://huggingface.co/SandLogicTechnologies/DeepSeek-OCR-2-GGUF) |
+| 14 | 1 | PaddlePaddle/PicoDet-S_layout_3clsImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PicoDet-S_layout_3cls) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -5370,6 +5372,7 @@ Updated on 2026-08-06
 | Updatedabout 9 hours ago | 389 | zai-org/GLM-5 | 754B | [Link](https://huggingface.co/zai-org/GLM-5.1) |
 | Updatedabout 5 hours ago | 384 | RUC-DataLab/DeepAnalyze-8BText | 8B | [Link](https://huggingface.co/RUC-DataLab/DeepAnalyze-8B) |
 | Updatedabout 3 hours ago | 384 | nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16Text | 561B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16) |
+| Updated3 days ago | 377 | AxiomicLabs/GPT-X2 | 0.1B | [Link](https://huggingface.co/AxiomicLabs/GPT-X2.5-135M) |
 | Updated5 days ago | 376 | NousResearch/Hermes-4-70B-FP8Text | 71B | [Link](https://huggingface.co/NousResearch/Hermes-4-70B-FP8) |
 | Updated5 days ago | 376 | microsoft/FrogBoss-32B-2510Text | 677k | [Link](https://huggingface.co/microsoft/FrogBoss-32B-2510) |
 | Updated1 day ago | 375 | YTan2000/Qwen3 | 27B | [Link](https://huggingface.co/YTan2000/Qwen3.5-27B-TQ3_1S) |
@@ -5630,6 +5633,7 @@ Updated on 2026-08-06
 | 658 | 54 | ByteDance-Seed/Seed-Coder-8B-InstructText | Updatedabout 6 hours ago | [Link](https://huggingface.co/ByteDance-Seed/Seed-Coder-8B-Instruct) |
 | Updated2 days ago | 54 | S4nfs/Neeto-1 | 8B | [Link](https://huggingface.co/S4nfs/Neeto-1.0-8b) |
 | Updatedabout 23 hours ago | 54 | allenai/Bolmo-7BText | 8B | [Link](https://huggingface.co/allenai/Bolmo-7B) |
+| Updated1 day ago | 54 | Akahsizrr/fuse-1-LiteText | 6B | [Link](https://huggingface.co/Akahsizrr/fuse-1-Lite) |
 | Updated6 days ago | 53 | GAIR/LIMIText | 353B | [Link](https://huggingface.co/GAIR/LIMI) |
 | 660 | 52 | nvidia/Llama-3_3-Nemotron-Super-49B-v1Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/nvidia/Llama-3_3-Nemotron-Super-49B-v1) |
 | 22 | 52 | Qwen/Qwen3-0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-0.6B) |
@@ -5637,6 +5641,7 @@ Updated on 2026-08-06
 | 325 | 51 | moonshotai/Moonlight-16B-A3BText | Updated2 days ago | [Link](https://huggingface.co/moonshotai/Moonlight-16B-A3B) |
 | Updatedabout 14 hours ago | 51 | nvidia/OpenReasoning-Nemotron-32BText | 33B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-32B) |
 | Updatedabout 9 hours ago | 51 | sarvamai/sarvam-30bText | 32B | [Link](https://huggingface.co/sarvamai/sarvam-30b) |
+| Updatedabout 8 hours ago | 51 | badtheorylabs/BTL-4Text | 35B | [Link](https://huggingface.co/badtheorylabs/BTL-4) |
 | 1.45k | 50 | ALLaM-AI/ALLaM-7B-Instruct-previewText | Updated8 days ago | [Link](https://huggingface.co/ALLaM-AI/ALLaM-7B-Instruct-preview) |
 | 5 | 50 | microsoft/Phi-4-mini-reasoningText | Updatedabout 11 hours ago | [Link](https://huggingface.co/microsoft/Phi-4-mini-reasoning) |
 | Updated1 day ago | 50 | cerebras/Kimi-Linear-REAP-35B-A3B-InstructText | 35B | [Link](https://huggingface.co/cerebras/Kimi-Linear-REAP-35B-A3B-Instruct) |
@@ -6794,6 +6799,7 @@ Updated on 2026-08-06
 | 461 | 6 | Danrisi/Canon_UltraRealText-to-Image | Updated6 days ago | [Link](https://huggingface.co/Danrisi/Canon_UltraReal) |
 | 4.5k | 6 | cusiman/Krea2_CollectionText-to-Image | Updated8 days ago | [Link](https://huggingface.co/cusiman/Krea2_Collection) |
 | 658 | 6 | AlperKTS/Krea-2-SVDQuant-ComfyUIText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/AlperKTS/Krea-2-SVDQuant-ComfyUI) |
+| Updated1 day ago | 6 | unsloth/Krea-2-TurboText-to-Image | 13B | [Link](https://huggingface.co/unsloth/Krea-2-Turbo) |
 | 42 | 5 | Shakker-Labs/RepTextText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Shakker-Labs/RepText) |
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
@@ -7689,6 +7695,7 @@ Updated on 2026-08-06
 | 34 | 19 | FastVideo/FastMochi-diffusersText-to-Video | UpdatedDec 16, 2024 | [Link](https://huggingface.co/FastVideo/FastMochi-diffusers) |
 | 3.74k | 17 | calcuis/hyvidText-to-Video | Updated24 days ago | [Link](https://huggingface.co/calcuis/hyvid) |
 | Updatedabout 1 hour ago | 15 | burakkizil/LAMP-editText-to-Video | 8B | [Link](https://huggingface.co/burakkizil/LAMP-edit) |
+| 24.6k | 15 | rockerBOO/minimax-h3-nvfp4-convrotText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/rockerBOO/minimax-h3-nvfp4-convrot) |
 | 189 | 14 | showlab/show-1-baseText-to-Video | UpdatedOct 12, 2023 | [Link](https://huggingface.co/showlab/show-1-base) |
 | Updatedabout 2 hours ago | 14 | Abiray/MiniMax-H3-GGUFText-to-Video | 33B | [Link](https://huggingface.co/Abiray/MiniMax-H3-GGUF) |
 | 141 | 12 | finetrainers/pika-dissolve-v0Text-to-Video | UpdatedJan 16 | [Link](https://huggingface.co/finetrainers/pika-dissolve-v0) |
@@ -8031,6 +8038,7 @@ Updated on 2026-08-06
 | 3 | Unknown | dotexec/MiniMax-H3-T2V-NVFP4Text-to-Video | Updated2 days ago | [Link](https://huggingface.co/dotexec/MiniMax-H3-T2V-NVFP4) |
 | 42 | Unknown | larryvrh/MiniMax-H3-Turbo-LoraText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora) |
 | 78 | Unknown | drbaph/MiniMax-H3-Turbo-Lora-ComfyUIText-to-Video | Updatedabout 4 hours ago | [Link](https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI) |
+| 4 | Unknown | InstantX/MiniMax-H3-Turbo-Lora-DiffusersText-to-Video | Updatedabout 18 hours ago | [Link](https://huggingface.co/InstantX/MiniMax-H3-Turbo-Lora-Diffusers) |
 
 ## Text2Text Generation
 
