@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-08-07
+Updated on 2026-08-08
 
 > Generated from the Hugging Face database.
 
@@ -2035,6 +2035,7 @@ Updated on 2026-08-07
 | Updated5 days ago | 302 | Qwen/Qwen3-VL-2B-Thinking-FP8Image-Text-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-2B-Thinking-FP8) |
 | UpdatedOct 21, 2025 | 298k | datalab-to/chandraImage-Text-to-Text | 9B | [Link](https://huggingface.co/datalab-to/chandra) |
 | 17.9k | 287 | deepseek-ai/deepseek-vl2Image-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2) |
+| Updated6 days ago | 282 | AlicanKiraz0/Mizan-27B-Turkish-Legal-LLM-mlx-4BitImage-Text-to-Text | 27B | [Link](https://huggingface.co/AlicanKiraz0/Mizan-27B-Turkish-Legal-LLM-mlx-4Bit) |
 | Updatedabout 9 hours ago | 280 | empero-ai/Qwythos-27B-v1Image-Text-to-Text | 28B | [Link](https://huggingface.co/empero-ai/Qwythos-27B-v1) |
 | Updatedabout 12 hours ago | 279 | openbmb/MiniCPM-V-4 | 1B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4.6) |
 | Updatedabout 11 hours ago | 272 | tencent/HY-Embodied-0 | 4B | [Link](https://huggingface.co/tencent/HY-Embodied-0.5) |
@@ -5679,6 +5680,7 @@ Updated on 2026-08-07
 | 170 | 44 | open-r1/OlympicCoder-7BText | Updatedabout 5 hours ago | [Link](https://huggingface.co/open-r1/OlympicCoder-7B) |
 | 5 | 44 | Qwen/Qwen3-8BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-8B) |
 | Updatedabout 3 hours ago | 44 | unsloth/gpt-oss-120b-GGUFText | 117B | [Link](https://huggingface.co/unsloth/gpt-oss-120b-GGUF) |
+| Updated1 day ago | 44k | Jackrong/DeepSeek-V4-Pro-Qwen3 | 9B | [Link](https://huggingface.co/Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B-MTP-GGUF) |
 | 52 | 43 | facebook/KernelLLMText | Updatedabout 11 hours ago | [Link](https://huggingface.co/facebook/KernelLLM) |
 | Updatedabout 10 hours ago | 43 | LiquidAI/LFM2-350MText | 0.4B | [Link](https://huggingface.co/LiquidAI/LFM2-350M) |
 | 1.49k | 43 | OmniSVG/OmniSVGText | Updated1 day ago | [Link](https://huggingface.co/OmniSVG/OmniSVG) |
@@ -8045,6 +8047,8 @@ Updated on 2026-08-07
 | 42 | Unknown | larryvrh/MiniMax-H3-Turbo-LoraText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora) |
 | 78 | Unknown | drbaph/MiniMax-H3-Turbo-Lora-ComfyUIText-to-Video | Updatedabout 4 hours ago | [Link](https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI) |
 | 4 | Unknown | InstantX/MiniMax-H3-Turbo-Lora-DiffusersText-to-Video | Updatedabout 18 hours ago | [Link](https://huggingface.co/InstantX/MiniMax-H3-Turbo-Lora-Diffusers) |
+| 114 | Unknown | SexGod1979/PinkCherry_MiniMax-H3Text-to-Video | Updatedabout 8 hours ago | [Link](https://huggingface.co/SexGod1979/PinkCherry_MiniMax-H3) |
+| 3 | Unknown | infosave/MiniMax-H3-Turbo-cmfText-to-Video | Updatedabout 22 hours ago | [Link](https://huggingface.co/infosave/MiniMax-H3-Turbo-cmf) |
 
 ## Text2Text Generation
 
