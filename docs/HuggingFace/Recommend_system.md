@@ -6214,6 +6214,7 @@ Updated on 2026-08-08
 | Updated1 day ago | 1.93k | squ11z1/Mythos-nanoText | 3B | [Link](https://huggingface.co/squ11z1/Mythos-nano) |
 | Updated1 day ago | 1.93k | RedHatAI/GLM-5 | 4B | [Link](https://huggingface.co/RedHatAI/GLM-5.2-speculator.dspark) |
 | Updatedabout 8 hours ago | 1.17k | FermionResearch/Neutrino-8BText | 8B | [Link](https://huggingface.co/FermionResearch/Neutrino-8B) |
+| Updated1 day ago | 1.25k | badtheorylabs/BTL-4-CompactText | 35B | [Link](https://huggingface.co/badtheorylabs/BTL-4-Compact) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -7144,6 +7145,7 @@ Updated on 2026-08-08
 | 9 | Unknown | inlineresearch/skin-lora-krea-2-rawText-to-Image | Updated2 days ago | [Link](https://huggingface.co/inlineresearch/skin-lora-krea-2-raw) |
 | 28 | Unknown | realrebelai/LOW_VRAM_WorkflowsText-to-Image | Updatedless than a minute ago | [Link](https://huggingface.co/realrebelai/LOW_VRAM_Workflows) |
 | 29 | Unknown | lodestones/KromaText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/lodestones/Kroma) |
+| 6 | Unknown | peculiar/sbgridText-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/peculiar/sbgrid) |
 
 ## Text-to-Speech
 
