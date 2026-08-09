@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-08-08
+Updated on 2026-08-09
 
 > Generated from the Hugging Face database.
 
@@ -5435,6 +5435,7 @@ Updated on 2026-08-08
 | Updatedabout 8 hours ago | 229 | nex-agi/Nex-N2-ProText | 397B | [Link](https://huggingface.co/nex-agi/Nex-N2-Pro) |
 | Updatedabout 13 hours ago | 223 | Qwen/Qwen-AgentWorld-35B-A3BText | 35B | [Link](https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B) |
 | UpdatedSep 8, 2024 | 222k | NousResearch/Hermes-3-Llama-3 | 8B | [Link](https://huggingface.co/NousResearch/Hermes-3-Llama-3.1-8B) |
+| Updated3 days ago | 221 | ReadyArt/gemma-4-31B-it-scotoma-2Text | 31B | [Link](https://huggingface.co/ReadyArt/gemma-4-31B-it-scotoma-2) |
 | Updated2 days ago | 220 | utter-project/EuroLLM-22B-Instruct-2512Text | 23B | [Link](https://huggingface.co/utter-project/EuroLLM-22B-Instruct-2512) |
 | Updatedabout 18 hours ago | 217 | google/gemma-3-270mText | 0.3B | [Link](https://huggingface.co/google/gemma-3-270m) |
 | Updated2 days ago | 216 | Simplified-Reasoning/SU-01Text | 31B | [Link](https://huggingface.co/Simplified-Reasoning/SU-01) |
@@ -6777,6 +6778,7 @@ Updated on 2026-08-08
 | 194 | 7 | krea/Krea-2-RawText-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/krea/Krea-2-Raw) |
 | 80 | 7 | krea/Krea-2-LoRA-darkbrushText-to-Image | Updated1 day ago | [Link](https://huggingface.co/krea/Krea-2-LoRA-darkbrush) |
 | 838 | 7 | Winnougan/Ideogram_Instant_NSFWText-to-Image | Updated6 days ago | [Link](https://huggingface.co/Winnougan/Ideogram_Instant_NSFW) |
+| 186 | 7 | xixxix-HF/SydneySweeney_Krea2Text-to-Image | Updated5 days ago | [Link](https://huggingface.co/xixxix-HF/SydneySweeney_Krea2) |
 | 1.07k | 6 | DFloat11/FLUX | Updated1 day ago | [Link](https://huggingface.co/DFloat11/FLUX.1-dev-DF11) |
 | 836 | 6 | Minthy/RouWei-0 | Updated3 days ago | [Link](https://huggingface.co/Minthy/RouWei-0.8) |
 | 169 | 6 | PosterCraft/PosterCraft-v1_RLText-to-Image | Updated2 days ago | [Link](https://huggingface.co/PosterCraft/PosterCraft-v1_RL) |
