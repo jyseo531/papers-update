@@ -3840,6 +3840,7 @@ Updated on 2026-08-09
 | 1 | Unknown | ksithu/myanmar-crnn-ocrImage-to-Text | UpdatedApr 18 | [Link](https://huggingface.co/ksithu/myanmar-crnn-ocr) |
 | 4 | Unknown | kulibinai/cadenaImage-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/kulibinai/cadena) |
 | 2 | Unknown | mhalimi3008/pashtoOCRImage-to-Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/mhalimi3008/pashtoOCR) |
+| 1 | Unknown | medyas/arabic_PP-OCRv6_small_recImage-to-Text | UpdatedJun 23 | [Link](https://huggingface.co/medyas/arabic_PP-OCRv6_small_rec) |
 
 ## Image-to-Video
 
@@ -7148,6 +7149,7 @@ Updated on 2026-08-09
 | 28 | Unknown | realrebelai/LOW_VRAM_WorkflowsText-to-Image | Updatedless than a minute ago | [Link](https://huggingface.co/realrebelai/LOW_VRAM_Workflows) |
 | 29 | Unknown | lodestones/KromaText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/lodestones/Kroma) |
 | 6 | Unknown | peculiar/sbgridText-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/peculiar/sbgrid) |
+| 10 | Unknown | realrebelai/Rebels_w4a8sText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/realrebelai/Rebels_w4a8s) |
 
 ## Text-to-Speech
 
@@ -7369,6 +7371,7 @@ Updated on 2026-08-09
 | Updated1 day ago | 7 | nineninesix/kani-tts-370mText-to-Speech | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-370m) |
 | 10 | 7 | tarun7r/vibevoice-hindi-loraText-to-Speech | UpdatedNov 1, 2025 | [Link](https://huggingface.co/tarun7r/vibevoice-hindi-lora) |
 | Updatedabout 9 hours ago | 7 | fishaudio/s2-proText-to-Speech | 5B | [Link](https://huggingface.co/fishaudio/s2-pro) |
+| 46 | 7 | pymaster/VocalRenderText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/pymaster/VocalRender) |
 | 13 | 6 | ntdgo/ttsviText-to-Speech | UpdatedApr 17, 2024 | [Link](https://huggingface.co/ntdgo/ttsvi) |
 | 29 | 6 | erax-ai/EraX-Smile-UnixSex-F5Text-to-Speech | Updatedabout 8 hours ago | [Link](https://huggingface.co/erax-ai/EraX-Smile-UnixSex-F5) |
 | 29 | 6 | ICTNLP/SLED-TTS-Streaming-LibriheavyText-to-Speech | Updatedabout 18 hours ago | [Link](https://huggingface.co/ICTNLP/SLED-TTS-Streaming-Libriheavy) |
@@ -8053,6 +8056,8 @@ Updated on 2026-08-09
 | 4 | Unknown | InstantX/MiniMax-H3-Turbo-Lora-DiffusersText-to-Video | Updatedabout 18 hours ago | [Link](https://huggingface.co/InstantX/MiniMax-H3-Turbo-Lora-Diffusers) |
 | 114 | Unknown | SexGod1979/PinkCherry_MiniMax-H3Text-to-Video | Updatedabout 8 hours ago | [Link](https://huggingface.co/SexGod1979/PinkCherry_MiniMax-H3) |
 | 3 | Unknown | infosave/MiniMax-H3-Turbo-cmfText-to-Video | Updatedabout 22 hours ago | [Link](https://huggingface.co/infosave/MiniMax-H3-Turbo-cmf) |
+| 6 | Unknown | NicoLab28/ClipProj-MiniMax-H3Text-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/NicoLab28/ClipProj-MiniMax-H3) |
+| 3 | Unknown | SanDiegoDude/H3-Turbo-6-Step-LoRA-ComfyText-to-Video | Updated1 day ago | [Link](https://huggingface.co/SanDiegoDude/H3-Turbo-6-Step-LoRA-Comfy) |
 
 ## Text2Text Generation
 
