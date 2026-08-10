@@ -2034,6 +2034,7 @@ Updated on 2026-08-10
 | Updatedabout 12 hours ago | 308 | microsoft/Mage-VLImage-Text-to-Text | 5B | [Link](https://huggingface.co/microsoft/Mage-VL) |
 | Updated5 days ago | 302 | Qwen/Qwen3-VL-2B-Thinking-FP8Image-Text-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-2B-Thinking-FP8) |
 | UpdatedOct 21, 2025 | 298k | datalab-to/chandraImage-Text-to-Text | 9B | [Link](https://huggingface.co/datalab-to/chandra) |
+| Updatedabout 5 hours ago | 290 | meta-models/Muse-Glimmer-30BImage-Text-to-Text | 30B | [Link](https://huggingface.co/meta-models/Muse-Glimmer-30B) |
 | 17.9k | 287 | deepseek-ai/deepseek-vl2Image-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2) |
 | Updated6 days ago | 282 | AlicanKiraz0/Mizan-27B-Turkish-Legal-LLM-mlx-4BitImage-Text-to-Text | 27B | [Link](https://huggingface.co/AlicanKiraz0/Mizan-27B-Turkish-Legal-LLM-mlx-4Bit) |
 | Updatedabout 9 hours ago | 280 | empero-ai/Qwythos-27B-v1Image-Text-to-Text | 28B | [Link](https://huggingface.co/empero-ai/Qwythos-27B-v1) |
@@ -2108,6 +2109,7 @@ Updated on 2026-08-10
 | Updated5 days ago | 96 | prithivMLmods/DeepCaption-VLA-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/prithivMLmods/DeepCaption-VLA-7B) |
 | Updated5 days ago | 95 | internlm/Spatial-SSRL-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/internlm/Spatial-SSRL-7B) |
 | Updated3 days ago | 94 | OpenMMReasoner/OpenMMReasoner-RLImage-Text-to-Text | 8B | [Link](https://huggingface.co/OpenMMReasoner/OpenMMReasoner-RL) |
+| Updatedabout 2 hours ago | 92 | unsloth/Muse-Glimmer-30B-GGUFImage-Text-to-Text | 28B | [Link](https://huggingface.co/unsloth/Muse-Glimmer-30B-GGUF) |
 | Updated8 days ago | 89 | Alibaba-DAMO-Academy/RynnBrain-Nav-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/Alibaba-DAMO-Academy/RynnBrain-Nav-8B) |
 | 1.69k | 88 | google/gemma-3n-E4B-itImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/google/gemma-3n-E4B-it) |
 | Updated2 days ago | 87 | INSAIT-Institute/MamayLM-Gemma-3-4B-IT-v1 | 4B | [Link](https://huggingface.co/INSAIT-Institute/MamayLM-Gemma-3-4B-IT-v1.0) |
@@ -2133,6 +2135,7 @@ Updated on 2026-08-10
 | 1.47k | 64 | AIDC-AI/Ovis2-1BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-1B) |
 | Updatedabout 17 hours ago | 64 | prithivMLmods/DeepCaption-VLA-V2 | 8B | [Link](https://huggingface.co/prithivMLmods/DeepCaption-VLA-V2.0-7B) |
 | Updatedabout 5 hours ago | 64 | inclusionAI/ZwZ-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/inclusionAI/ZwZ-8B) |
+| Updatedabout 3 hours ago | 63 | meta-models/Muse-Glimmer-30B-GGUFImage-Text-to-Text | 28B | [Link](https://huggingface.co/meta-models/Muse-Glimmer-30B-GGUF) |
 | 1.64k | 62 | google/gemma-3-4b-itImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-4b-it) |
 | Updated2 days ago | 62 | vincentkaufmann/gpt-oss-20b-vision-previewImage-Text-to-Text | 21B | [Link](https://huggingface.co/vincentkaufmann/gpt-oss-20b-vision-preview) |
 | 69 | 61 | google/gemma-3-12b-itImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-12b-it) |
@@ -3248,6 +3251,7 @@ Updated on 2026-08-10
 | Updated18 days ago | 170 | Felldude/Ministral-3-8B-UncensoredImage-to-Text | 9B | [Link](https://huggingface.co/Felldude/Ministral-3-8B-Uncensored) |
 | UpdatedNov 26, 2025 | 164k | Qwen/Qwen3-VL-235B-A22B-InstructImage-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct) |
 | Updated1 day ago | 163 | HelloKKMe/GTA1-72BImage-to-Text | 73B | [Link](https://huggingface.co/HelloKKMe/GTA1-72B) |
+| Updated21 days ago | 163 | bhaskar1707/qwen3 | 0.9B | [Link](https://huggingface.co/bhaskar1707/qwen3.5-latex-ocr-finetune) |
 | UpdatedMay 22, 2025 | 161k | meta-llama/Llama-4-Maverick-17B-128E-InstructImage-to-Text | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct) |
 | UpdatedApr 4 | 160 | mradermacher/Hulu-Med-Flash-Preview-27B-i1-GGUFImage-to-Text | 27B | [Link](https://huggingface.co/mradermacher/Hulu-Med-Flash-Preview-27B-i1-GGUF) |
 | 170k | 159 | microsoft/kosmos-2-patch14-224Image-to-Text | UpdatedNov 28, 2023 | [Link](https://huggingface.co/microsoft/kosmos-2-patch14-224) |
@@ -6221,6 +6225,7 @@ Updated on 2026-08-10
 | Updated1 day ago | 1.93k | RedHatAI/GLM-5 | 4B | [Link](https://huggingface.co/RedHatAI/GLM-5.2-speculator.dspark) |
 | Updatedabout 8 hours ago | 1.17k | FermionResearch/Neutrino-8BText | 8B | [Link](https://huggingface.co/FermionResearch/Neutrino-8B) |
 | Updated1 day ago | 1.25k | badtheorylabs/BTL-4-CompactText | 35B | [Link](https://huggingface.co/badtheorylabs/BTL-4-Compact) |
+| Updated5 days ago | 1.65k | SupraLabs/Supra2-100M-InstructText | 0.1B | [Link](https://huggingface.co/SupraLabs/Supra2-100M-Instruct) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -7155,6 +7160,7 @@ Updated on 2026-08-10
 | 29 | Unknown | lodestones/KromaText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/lodestones/Kroma) |
 | 6 | Unknown | peculiar/sbgridText-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/peculiar/sbgrid) |
 | 10 | Unknown | realrebelai/Rebels_w4a8sText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/realrebelai/Rebels_w4a8s) |
+| 6 | Unknown | Stabhappy/kroma-v0 | Updatedabout 23 hours ago | [Link](https://huggingface.co/Stabhappy/kroma-v0.2-base-INT8-convrot) |
 
 ## Text-to-Speech
 
