@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-08-09
+Updated on 2026-08-10
 
 > Generated from the Hugging Face database.
 
@@ -2253,6 +2253,7 @@ Updated on 2026-08-09
 | Updated1 day ago | 23 | internlm/Intern-S2-MobiusImage-Text-to-Text | 36B | [Link](https://huggingface.co/internlm/Intern-S2-Mobius) |
 | 27 | 22 | ByteDance-Seed/UI-TARS-1 | Updated14 minutes ago | [Link](https://huggingface.co/ByteDance-Seed/UI-TARS-1.5-7B) |
 | Updatedabout 8 hours ago | 22 | Qwen/Qwen3-VL-32B-ThinkingImage-Text-to-Text | 33B | [Link](https://huggingface.co/Qwen/Qwen3-VL-32B-Thinking) |
+| Updated29 minutes ago | 22 | peculiar-ragdoll/Nail-Qwen3 | 35B | [Link](https://huggingface.co/peculiar-ragdoll/Nail-Qwen3.6-35B-A3B-GGUF) |
 | 9 | 21 | Skywork/Skywork-R1V-38BImage-Text-to-Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/Skywork/Skywork-R1V-38B) |
 | 29 | 21 | google/gemma-3-12b-it-qat-q4_0-ggufImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/google/gemma-3-12b-it-qat-q4_0-gguf) |
 | 3 | 21 | OpenGVLab/InternVL3-78BImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/OpenGVLab/InternVL3-78B) |
@@ -3728,6 +3729,7 @@ Updated on 2026-08-09
 | 65 | 1 | chayuto/thai-id-ocr-crnn-numeric-readerImage-to-Text | UpdatedMar 23 | [Link](https://huggingface.co/chayuto/thai-id-ocr-crnn-numeric-reader) |
 | UpdatedJun 29 | 1.08k | SandLogicTechnologies/DeepSeek-OCR-2-GGUFImage-to-Text | 3B | [Link](https://huggingface.co/SandLogicTechnologies/DeepSeek-OCR-2-GGUF) |
 | 14 | 1 | PaddlePaddle/PicoDet-S_layout_3clsImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PicoDet-S_layout_3cls) |
+| 96 | 1 | PaddlePaddle/te_PP-OCRv5_mobile_recImage-to-Text | UpdatedOct 16, 2025 | [Link](https://huggingface.co/PaddlePaddle/te_PP-OCRv5_mobile_rec) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -3841,6 +3843,7 @@ Updated on 2026-08-09
 | 4 | Unknown | kulibinai/cadenaImage-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/kulibinai/cadena) |
 | 2 | Unknown | mhalimi3008/pashtoOCRImage-to-Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/mhalimi3008/pashtoOCR) |
 | 1 | Unknown | medyas/arabic_PP-OCRv6_small_recImage-to-Text | UpdatedJun 23 | [Link](https://huggingface.co/medyas/arabic_PP-OCRv6_small_rec) |
+| 1 | Unknown | BDRC/Bod_uchen_tesseractImage-to-Text | UpdatedJun 1 | [Link](https://huggingface.co/BDRC/Bod_uchen_tesseract) |
 
 ## Image-to-Video
 
@@ -5795,6 +5798,7 @@ Updated on 2026-08-09
 | 74 | 30 | Shaligram-Dewangan/Dhi-5B-BaseText | Updated6 days ago | [Link](https://huggingface.co/Shaligram-Dewangan/Dhi-5B-Base) |
 | 11 | 30 | kai-os/gemma4-31b-Opus-4 | Updatedabout 11 hours ago | [Link](https://huggingface.co/kai-os/gemma4-31b-Opus-4.6-reasoning) |
 | Updatedabout 5 hours ago | 30 | AngelSlim/Hy3-GGUFText | 295B | [Link](https://huggingface.co/AngelSlim/Hy3-GGUF) |
+| Updatedabout 17 hours ago | 30.6k | AtomicChat/Ling-3 | 124B | [Link](https://huggingface.co/AtomicChat/Ling-3.0-flash-GGUF) |
 | 323 | 29 | smirki/UIGEN-T1 | Updated6 days ago | [Link](https://huggingface.co/smirki/UIGEN-T1.1-Qwen-14B) |
 | 10 | 29 | ai21labs/AI21-Jamba-Large-1 | Updatedabout 13 hours ago | [Link](https://huggingface.co/ai21labs/AI21-Jamba-Large-1.6) |
 | 750 | 29 | amd/Instella-3B-InstructText | Updated4 days ago | [Link](https://huggingface.co/amd/Instella-3B-Instruct) |
@@ -6741,6 +6745,7 @@ Updated on 2026-08-09
 | Updatedabout 13 hours ago | 9 | RunDiffusion/Juggernaut-Z-ImageText-to-Image | 6B | [Link](https://huggingface.co/RunDiffusion/Juggernaut-Z-Image) |
 |  | 9 | mgwr/M87Text-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/mgwr/M87) |
 | Updatedabout 7 hours ago | 9 | bench-labs/PixelModel-v6Text-to-Image | 0.2B | [Link](https://huggingface.co/bench-labs/PixelModel-v6) |
+| 7 | 9 | jimmycarter/krea2-turbo-bboxText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/jimmycarter/krea2-turbo-bbox) |
 | 215 | 8 | tensorart/stable-diffusion-3 | Updated8 minutes ago | [Link](https://huggingface.co/tensorart/stable-diffusion-3.5-large-TurboX) |
 | 34 | 8 | renderartist/coloringbookhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/coloringbookhidream) |
 | 1.79k | 8 | MaxedOut/ComfyUI-Starter-PacksText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/MaxedOut/ComfyUI-Starter-Packs) |
@@ -7359,6 +7364,7 @@ Updated on 2026-08-09
 | UpdatedJan 21 | 8.3k | akh99/veena-hinglishText-to-Speech | 4B | [Link](https://huggingface.co/akh99/veena-hinglish) |
 | Updatedabout 13 hours ago | 8 | Aratako/Irodori-TTS-500M-v3Text-to-Speech | 0.5B | [Link](https://huggingface.co/Aratako/Irodori-TTS-500M-v3) |
 | 12 | 8 | ErnarBahat/Spark-TTS-KazakhText-to-Speech | UpdatedJan 20 | [Link](https://huggingface.co/ErnarBahat/Spark-TTS-Kazakh) |
+| 2 | 8 | TeraSpace/TeraTTSv2Text-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/TeraSpace/TeraTTSv2) |
 | 1.11k | 7 | DragonLineageAI/Vi-SparkTTS-0 | Updatedabout 10 hours ago | [Link](https://huggingface.co/DragonLineageAI/Vi-SparkTTS-0.5B) |
 | 9 | 7 | canopylabs/3b-zh-pretrain-research_releaseText-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/canopylabs/3b-zh-pretrain-research_release) |
 | 618 | 7 | canopylabs/3b-de-pretrain-research_releaseText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/canopylabs/3b-de-pretrain-research_release) |
