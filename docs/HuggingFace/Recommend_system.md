@@ -3181,6 +3181,7 @@ Updated on 2026-08-11
 | 8 | Unknown | Alissonerdx/CharacterSheetImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/Alissonerdx/CharacterSheet) |
 | 6 | Unknown | thedeoxen/Krea-2-pose-controlnetImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/thedeoxen/Krea-2-pose-controlnet) |
 | 7 | Unknown | WarmBloodAban/Krea2_Anything2RealCharacters-V2Image-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/WarmBloodAban/Krea2_Anything2RealCharacters-V2) |
+| 10 | Unknown | StabilityLabs/Stable-LayersImage-to-Image | Updated19 days ago | [Link](https://huggingface.co/StabilityLabs/Stable-Layers) |
 
 ## Image-to-Text
 
@@ -3244,6 +3245,7 @@ Updated on 2026-08-11
 | UpdatedMay 22, 2025 | 208k | meta-llama/Llama-4-Scout-17B-16E-InstructImage-to-Text | 109B | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct) |
 | UpdatedOct 29, 2024 | 206 | calcuis/sd3 | 8B | [Link](https://huggingface.co/calcuis/sd3.5-large-turbo) |
 | UpdatedNov 7, 2025 | 200 | noctrex/Chandra-OCR-i1-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/noctrex/Chandra-OCR-i1-GGUF) |
+| UpdatedMay 4 | 190 | Hukyl/trocr-kgb-archiveImage-to-Text | 0.3B | [Link](https://huggingface.co/Hukyl/trocr-kgb-archive) |
 | UpdatedOct 7, 2025 | 186 | eshangj/TrOCR-Sinhala-finetunedImage-to-Text | 0.3B | [Link](https://huggingface.co/eshangj/TrOCR-Sinhala-finetuned) |
 | UpdatedApr 17 | 185 | Darayut/khmer-text-recognitionImage-to-Text | 17.6M | [Link](https://huggingface.co/Darayut/khmer-text-recognition) |
 | UpdatedMar 5 | 180 | r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/r3b31/Qwen2-VL-7B-Captioner-Relaxed-GGUF) |
@@ -3853,6 +3855,7 @@ Updated on 2026-08-11
 | 1 | Unknown | medyas/arabic_PP-OCRv6_small_recImage-to-Text | UpdatedJun 23 | [Link](https://huggingface.co/medyas/arabic_PP-OCRv6_small_rec) |
 | 1 | Unknown | BDRC/Bod_uchen_tesseractImage-to-Text | UpdatedJun 1 | [Link](https://huggingface.co/BDRC/Bod_uchen_tesseract) |
 | 1 | Unknown | EdisonScientific/OCSRGlyphImage-to-Text | Updated19 days ago | [Link](https://huggingface.co/EdisonScientific/OCSRGlyph) |
+| 2 | Unknown | ctogaurav/GLM_OCRImage-to-Text | Updated7 days ago | [Link](https://huggingface.co/ctogaurav/GLM_OCR) |
 
 ## Image-to-Video
 
@@ -5417,6 +5420,7 @@ Updated on 2026-08-11
 | Updatedabout 20 hours ago | 296 | Maincode/Maincoder-1BText | 1B | [Link](https://huggingface.co/Maincode/Maincoder-1B) |
 |  | 295 | deepseek-ai/DeepSeek-R1-0528-Qwen3-8BText | Updatedabout 13 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B) |
 | Updatedabout 4 hours ago | 293 | Qwen/Qwen3Guard-Gen-0 | 0.8B | [Link](https://huggingface.co/Qwen/Qwen3Guard-Gen-0.6B) |
+| Updatedabout 16 hours ago | 289 | webAI-Official/TwIL-LM3Text | 3B | [Link](https://huggingface.co/webAI-Official/TwIL-LM3) |
 | Updated2 days ago | 288 | janhq/Jan-v3-4B-base-instructText | 4B | [Link](https://huggingface.co/janhq/Jan-v3-4B-base-instruct) |
 | Updated3 days ago | 287 | PrimeIntellect/INTELLECT-3 | 107B | [Link](https://huggingface.co/PrimeIntellect/INTELLECT-3.1) |
 | Updated8 days ago | 283 | perplexity-ai/browsesafeText | 31B | [Link](https://huggingface.co/perplexity-ai/browsesafe) |
@@ -6303,6 +6307,7 @@ Updated on 2026-08-11
 | 16 | Unknown | ByteDance-Seed/Cola-DLMText | Updated2 days ago | [Link](https://huggingface.co/ByteDance-Seed/Cola-DLM) |
 | 47 | Unknown | nvidia/Nemotron-Labs-Audex-30B-A3BText | Updatedabout 9 hours ago | [Link](https://huggingface.co/nvidia/Nemotron-Labs-Audex-30B-A3B) |
 | 33 | Unknown | basaltlabsai/monolith-1 | Updated1 day ago | [Link](https://huggingface.co/basaltlabsai/monolith-1.0) |
+| 40 | Unknown | Cactus-Compute/needle2Text | Updatedabout 15 hours ago | [Link](https://huggingface.co/Cactus-Compute/needle2) |
 
 ## Text Ranking
 
@@ -7434,6 +7439,7 @@ Updated on 2026-08-11
 | 78 | 5 | Sariel00/cosyvoice2_rknnText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/Sariel00/cosyvoice2_rknn) |
 | 33 | 5 | owensong/Inflect-Micro-v2-ONNXText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/owensong/Inflect-Micro-v2-ONNX) |
 | 32 | 5 | tryorato/orato-tts-hindi-v1Text-to-Speech | Updated7 days ago | [Link](https://huggingface.co/tryorato/orato-tts-hindi-v1) |
+| Updatedabout 11 hours ago | 5 | Aratako/Irodori-TTS-v4 | 0.8B | [Link](https://huggingface.co/Aratako/Irodori-TTS-v4.1-Small) |
 | 5 | 4 | lunahr/csm-1b-safetensors-fp16Text-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-fp16) |
 | 2 | 4 | VAGOsolutions/SauerkrautTTS-Preview-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/VAGOsolutions/SauerkrautTTS-Preview-0.1) |
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
@@ -8081,6 +8087,7 @@ Updated on 2026-08-11
 | 3 | Unknown | SanDiegoDude/H3-Turbo-6-Step-LoRA-ComfyText-to-Video | Updated1 day ago | [Link](https://huggingface.co/SanDiegoDude/H3-Turbo-6-Step-LoRA-Comfy) |
 | 54 | Unknown | fal/MiniMax-H3-Realism-People-LoRAText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/fal/MiniMax-H3-Realism-People-LoRA) |
 | 4 | Unknown | t8star/minimax_h3_turbo_4step_10ErosMax_test4_pruned_curveproj1025_T8Text-to-Video | Updatedabout 7 hours ago | [Link](https://huggingface.co/t8star/minimax_h3_turbo_4step_10ErosMax_test4_pruned_curveproj1025_T8) |
+| 5 | Unknown | smhfacct/Minimax-H3-fl2va-ref2va-hybrid-modelsText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/smhfacct/Minimax-H3-fl2va-ref2va-hybrid-models) |
 
 ## Text2Text Generation
 
