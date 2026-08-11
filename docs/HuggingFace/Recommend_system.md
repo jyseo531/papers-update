@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-08-10
+Updated on 2026-08-11
 
 > Generated from the Hugging Face database.
 
@@ -2205,6 +2205,7 @@ Updated on 2026-08-10
 | Updatedabout 14 hours ago | 35.8k | mlx-community/gemma-4-12B-it-8bitImage-Text-to-Text | 3B | [Link](https://huggingface.co/mlx-community/gemma-4-12B-it-8bit) |
 | Updated2 days ago | 35 | DJLougen/Qwable-5-27B-CoderImage-Text-to-Text | 28B | [Link](https://huggingface.co/DJLougen/Qwable-5-27B-Coder) |
 | Updatedabout 17 hours ago | 34 | Jackrong/Qwopus3 | 9B | [Link](https://huggingface.co/Jackrong/Qwopus3.5-9B-v3-GGUF) |
+| Updatedabout 2 hours ago | 34 | meta-models/Muse-Glimmer-30B-assistantImage-Text-to-Text | 3B | [Link](https://huggingface.co/meta-models/Muse-Glimmer-30B-assistant) |
 | Updated4 days ago | 33 | prithivMLmods/Qwen2 | 8B | [Link](https://huggingface.co/prithivMLmods/Qwen2.5-VL-7B-Abliterated-Caption-it) |
 | Updated3 days ago | 32.8k | cyankiwi/Qwen3 | 25B | [Link](https://huggingface.co/cyankiwi/Qwen3.5-122B-A10B-AWQ-4bit) |
 | 4.01k | 31 | google/paligemma2-3b-mix-448Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-3b-mix-448) |
@@ -2808,6 +2809,7 @@ Updated on 2026-08-10
 | 67 | 9 | briaai/Fibo-Edit-RMBGImage-to-Image | Updatedabout 18 hours ago | [Link](https://huggingface.co/briaai/Fibo-Edit-RMBG) |
 | 2.15k | 9 | vafipas663/flux2-klein-base-9b-distill-loraImage-to-Image | UpdatedJan 30 | [Link](https://huggingface.co/vafipas663/flux2-klein-base-9b-distill-lora) |
 | 203 | 9 | ShinoharaHare/Waifu-Decensor-XLImage-to-Image | UpdatedMar 28 | [Link](https://huggingface.co/ShinoharaHare/Waifu-Decensor-XL) |
+| Updated5 days ago | 9 | unsloth/Qwen-Image-Edit-2511Image-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-Edit-2511) |
 | 59 | 8 | qualcomm/AOT-GANImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/qualcomm/AOT-GAN) |
 |  | 8 | xuminglong/kontext-tryon7Image-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/xuminglong/kontext-tryon7) |
 | 160 | 8 | Jamichsu/Stream-DiffVSRImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/Jamichsu/Stream-DiffVSR) |
@@ -3335,6 +3337,7 @@ Updated on 2026-08-10
 | Updatedabout 5 hours ago | 45 | LastRef/gemma-3-12b-it-heretic-xImage-to-Text | 12B | [Link](https://huggingface.co/LastRef/gemma-3-12b-it-heretic-x) |
 | Updated23 days ago | 43 | Jaireyu/Qwen2 | 8B | [Link](https://huggingface.co/Jaireyu/Qwen2.5-VL-UniSVG-finetuned) |
 | UpdatedJul 5 | 43 | QuickHawk/trocr-indicImage-to-Text | 0.3B | [Link](https://huggingface.co/QuickHawk/trocr-indic) |
+| Updated6 days ago | 42 | Archatext/hatformer-arams28kImage-to-Text | 0.3B | [Link](https://huggingface.co/Archatext/hatformer-arams28k) |
 | UpdatedMay 18, 2024 | 41 | moranyanuka/blip-image-captioning-large-mochaImage-to-Text | 0.5B | [Link](https://huggingface.co/moranyanuka/blip-image-captioning-large-mocha) |
 | Updated2 days ago | 41 | clquwu/Clarity-OMRImage-to-Text | 0.2B | [Link](https://huggingface.co/clquwu/Clarity-OMR) |
 | Updatedabout 8 hours ago | 41 | opendatalab/MinerU-Diffusion-V1-0320-2 | 3B | [Link](https://huggingface.co/opendatalab/MinerU-Diffusion-V1-0320-2.5B) |
@@ -3734,6 +3737,7 @@ Updated on 2026-08-10
 | UpdatedJun 29 | 1.08k | SandLogicTechnologies/DeepSeek-OCR-2-GGUFImage-to-Text | 3B | [Link](https://huggingface.co/SandLogicTechnologies/DeepSeek-OCR-2-GGUF) |
 | 14 | 1 | PaddlePaddle/PicoDet-S_layout_3clsImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PicoDet-S_layout_3cls) |
 | 96 | 1 | PaddlePaddle/te_PP-OCRv5_mobile_recImage-to-Text | UpdatedOct 16, 2025 | [Link](https://huggingface.co/PaddlePaddle/te_PP-OCRv5_mobile_rec) |
+| 26 | 1 | tieubaoca/pp-ocrv6-medium-rec-vietnameseImage-to-Text | Updated10 days ago | [Link](https://huggingface.co/tieubaoca/pp-ocrv6-medium-rec-vietnamese) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -3848,6 +3852,7 @@ Updated on 2026-08-10
 | 2 | Unknown | mhalimi3008/pashtoOCRImage-to-Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/mhalimi3008/pashtoOCR) |
 | 1 | Unknown | medyas/arabic_PP-OCRv6_small_recImage-to-Text | UpdatedJun 23 | [Link](https://huggingface.co/medyas/arabic_PP-OCRv6_small_rec) |
 | 1 | Unknown | BDRC/Bod_uchen_tesseractImage-to-Text | UpdatedJun 1 | [Link](https://huggingface.co/BDRC/Bod_uchen_tesseract) |
+| 1 | Unknown | EdisonScientific/OCSRGlyphImage-to-Text | Updated19 days ago | [Link](https://huggingface.co/EdisonScientific/OCSRGlyph) |
 
 ## Image-to-Video
 
@@ -5686,6 +5691,7 @@ Updated on 2026-08-10
 | 2.08k | 45 | google/gemma-3-1b-itText | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-1b-it) |
 | Updatedabout 2 hours ago | 45 | Jiunsong/supergemma4-26b-uncensored-gguf-v2Text | 25B | [Link](https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-gguf-v2) |
 | Updatedabout 17 hours ago | 45 | openbmb/MiniCPM5-1B-GGUFText | 1B | [Link](https://huggingface.co/openbmb/MiniCPM5-1B-GGUF) |
+| Updated42 minutes ago | 45 | Motif-Technologies/Motif-3Text | 315B | [Link](https://huggingface.co/Motif-Technologies/Motif-3) |
 | 170 | 44 | open-r1/OlympicCoder-7BText | Updatedabout 5 hours ago | [Link](https://huggingface.co/open-r1/OlympicCoder-7B) |
 | 5 | 44 | Qwen/Qwen3-8BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-8B) |
 | Updatedabout 3 hours ago | 44 | unsloth/gpt-oss-120b-GGUFText | 117B | [Link](https://huggingface.co/unsloth/gpt-oss-120b-GGUF) |
@@ -7161,6 +7167,7 @@ Updated on 2026-08-10
 | 6 | Unknown | peculiar/sbgridText-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/peculiar/sbgrid) |
 | 10 | Unknown | realrebelai/Rebels_w4a8sText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/realrebelai/Rebels_w4a8s) |
 | 6 | Unknown | Stabhappy/kroma-v0 | Updatedabout 23 hours ago | [Link](https://huggingface.co/Stabhappy/kroma-v0.2-base-INT8-convrot) |
+| 6 | Unknown | silveroxides/Kroma-QuantText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/silveroxides/Kroma-Quant) |
 
 ## Text-to-Speech
 
@@ -7655,6 +7662,8 @@ Updated on 2026-08-10
 | 6 | Unknown | scrappylabsai/scrappy-voice-1Text-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/scrappylabsai/scrappy-voice-1) |
 | 6 | Unknown | Abiray/Vaniq-EdgeText-to-Speech | Updated2 minutes ago | [Link](https://huggingface.co/Abiray/Vaniq-Edge) |
 | 5 | Unknown | Aratako/Irodori-TTS-v4-Small-QuantizedText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/Aratako/Irodori-TTS-v4-Small-Quantized) |
+| 8 | Unknown | IndexTeam/IndexTTS-2 | Updatedabout 14 hours ago | [Link](https://huggingface.co/IndexTeam/IndexTTS-2.5) |
+| 7 | Unknown | javawock7618/comfy-MiniMax-H3-workflowsText-to-Speech | Updatedabout 2 hours ago | [Link](https://huggingface.co/javawock7618/comfy-MiniMax-H3-workflows) |
 
 ## Text-to-Video
 
@@ -8070,6 +8079,8 @@ Updated on 2026-08-10
 | 3 | Unknown | infosave/MiniMax-H3-Turbo-cmfText-to-Video | Updatedabout 22 hours ago | [Link](https://huggingface.co/infosave/MiniMax-H3-Turbo-cmf) |
 | 6 | Unknown | NicoLab28/ClipProj-MiniMax-H3Text-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/NicoLab28/ClipProj-MiniMax-H3) |
 | 3 | Unknown | SanDiegoDude/H3-Turbo-6-Step-LoRA-ComfyText-to-Video | Updated1 day ago | [Link](https://huggingface.co/SanDiegoDude/H3-Turbo-6-Step-LoRA-Comfy) |
+| 54 | Unknown | fal/MiniMax-H3-Realism-People-LoRAText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/fal/MiniMax-H3-Realism-People-LoRA) |
+| 4 | Unknown | t8star/minimax_h3_turbo_4step_10ErosMax_test4_pruned_curveproj1025_T8Text-to-Video | Updatedabout 7 hours ago | [Link](https://huggingface.co/t8star/minimax_h3_turbo_4step_10ErosMax_test4_pruned_curveproj1025_T8) |
 
 ## Text2Text Generation
 
