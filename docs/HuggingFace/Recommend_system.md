@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-08-11
+Updated on 2026-08-12
 
 > Generated from the Hugging Face database.
 
@@ -25,6 +25,7 @@ Updated on 2026-08-11
 | Updatedabout 10 hours ago | 571 | inclusionAI/Ming-flash-omni-PreviewAny-to-Any | 104B | [Link](https://huggingface.co/inclusionAI/Ming-flash-omni-Preview) |
 | Updated2 days ago | 567 | google/gemma-4-E2B-it-qat-mobile-ctAny-to-Any | 6B | [Link](https://huggingface.co/google/gemma-4-E2B-it-qat-mobile-ct) |
 | UpdatedApr 14 | 541 | second-state/Llama-4-Scout-17B-16E-Instruct-GGUFAny-to-Any | 108B | [Link](https://huggingface.co/second-state/Llama-4-Scout-17B-16E-Instruct-GGUF) |
+| Updated22 days ago | 541k | google/gemma-4-E4B-it-qat-w4a16-ctAny-to-Any | 9B | [Link](https://huggingface.co/google/gemma-4-E4B-it-qat-w4a16-ct) |
 | Updated4 days ago | 534 | WithinUsAI/Gemma4-Overlooked | 5B | [Link](https://huggingface.co/WithinUsAI/Gemma4-Overlooked.Thinker.Uncensored-E2B.gguf) |
 | Updatedabout 4 hours ago | 504 | Backup-bdg/Xoron-Dev-MultiMoeAny-to-Any | 4B | [Link](https://huggingface.co/Backup-bdg/Xoron-Dev-MultiMoe) |
 | Updated3 days ago | 500 | thenexthub/EverosAny-to-Any | 1000B | [Link](https://huggingface.co/thenexthub/Everos) |
@@ -3554,6 +3555,7 @@ Updated on 2026-08-11
 | 9.04k | 4 | PaddlePaddle/RT-DETR-L_wireless_table_cell_detImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/RT-DETR-L_wireless_table_cell_det) |
 | UpdatedJan 9 | 4 | TESS-Computer/qwen-click-ditImage-to-Text | 4B | [Link](https://huggingface.co/TESS-Computer/qwen-click-dit) |
 | UpdatedSep 28, 2025 | 4 | Glazkov/qwen2 | 4B | [Link](https://huggingface.co/Glazkov/qwen2.5-vl-table-extraction-FP8-Dynamic) |
+| Updatedabout 15 hours ago | 4 | JustANormalTinkerer/hayai-ocr-v2Image-to-Text | 0.2B | [Link](https://huggingface.co/JustANormalTinkerer/hayai-ocr-v2) |
 | 299 | 3 | cnmoro/nano-image-captioningImage-to-Text | Updatedabout 1 month ago | [Link](https://huggingface.co/cnmoro/nano-image-captioning) |
 | 45 | 3 | braintacles/brainblipImage-to-Text | UpdatedJun 27, 2024 | [Link](https://huggingface.co/braintacles/brainblip) |
 | 55 | 3 | sbintuitions/sarashina2-vision-8bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-8b) |
@@ -5707,6 +5709,7 @@ Updated on 2026-08-11
 | Updatedabout 10 hours ago | 43 | meituan-longcat/LongCat-Flash-LiteText | 100B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Lite) |
 | Updatedabout 13 hours ago | 43 | huihui-ai/Huihui-gemma-4-12B-coder-fable5-composer2 | 12B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-12B-coder-fable5-composer2.5-v1-abliterated) |
 | Updatedabout 2 hours ago | 43 | LGAI-EXAONE/K-EXAONE-2 | 749B | [Link](https://huggingface.co/LGAI-EXAONE/K-EXAONE-2.0-750B-A37B) |
+| Updatedabout 23 hours ago | 43 | huihui-ai/Huihui-CyberStrike-OffSec-35B-abliteratedText | 36B | [Link](https://huggingface.co/huihui-ai/Huihui-CyberStrike-OffSec-35B-abliterated) |
 | 3.37k | 42 | Qwen/QwQ-32B-AWQText | Updatedabout 3 hours ago | [Link](https://huggingface.co/Qwen/QwQ-32B-AWQ) |
 | Updated1 day ago | 42 | ByteDance-Seed/Stable-DiffCoder-8B-InstructText | 8B | [Link](https://huggingface.co/ByteDance-Seed/Stable-DiffCoder-8B-Instruct) |
 | 796 | 41 | inclusionAI/Ling-liteText | Updated1 day ago | [Link](https://huggingface.co/inclusionAI/Ling-lite) |
@@ -5972,6 +5975,7 @@ Updated on 2026-08-11
 | Updatedabout 2 hours ago | 19 | inclusionAI/Ring-mini-sparse-2 | 16B | [Link](https://huggingface.co/inclusionAI/Ring-mini-sparse-2.0-exp) |
 | Updated1 day ago | 19 | deepcogito/cogito-671b-v2 | 671B | [Link](https://huggingface.co/deepcogito/cogito-671b-v2.1) |
 | Updated12 minutes ago | 19 | ProCreations/grug-27bText | 27B | [Link](https://huggingface.co/ProCreations/grug-27b) |
+| Updatedabout 4 hours ago | 19.3k | nvidia/NVIDIA-Nemotron-3 | 18B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4) |
 | 969 | 18 | bartowski/all-hands_openhands-lm-32b-v0 | Updated2 days ago | [Link](https://huggingface.co/bartowski/all-hands_openhands-lm-32b-v0.1-GGUF) |
 | 256 | 18 | Trendyol/Trendyol-LLM-7B-chat-v4 | Updated3 days ago | [Link](https://huggingface.co/Trendyol/Trendyol-LLM-7B-chat-v4.1.0) |
 | 1.11k | 18 | bartowski/Zyphra_ZR1-1 | Updated1 day ago | [Link](https://huggingface.co/bartowski/Zyphra_ZR1-1.5B-GGUF) |
@@ -7800,6 +7804,7 @@ Updated on 2026-08-11
 | 38 | 3 | joeygambino/joyai-echo-ltx23-echoVid-ltxAud-surgical-int8Text-to-Video | Updatedabout 4 hours ago | [Link](https://huggingface.co/joeygambino/joyai-echo-ltx23-echoVid-ltxAud-surgical-int8) |
 | 273 | 3 | ddalcu/MiniMax-H3-FL2VA-MLX-Serve-4bitText-to-Video | Updated1 day ago | [Link](https://huggingface.co/ddalcu/MiniMax-H3-FL2VA-MLX-Serve-4bit) |
 | Updatedabout 9 hours ago | 3 | unsloth/Wan2 | 5B | [Link](https://huggingface.co/unsloth/Wan2.2-TI2V-5B-GGUF) |
+| Updatedabout 6 hours ago | 3 | ChrisColeTech/minimax-h3-turbo-GGUFText-to-Video | 20B | [Link](https://huggingface.co/ChrisColeTech/minimax-h3-turbo-GGUF) |
 | 69 | 2 | obvious-research/onlyflowText-to-Video | Updated5 days ago | [Link](https://huggingface.co/obvious-research/onlyflow) |
 | 42 | 2 | jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIEText-to-Video | Updated7 days ago | [Link](https://huggingface.co/jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIE) |
 | 10 | 2 | vdo/Hotshot-XLText-to-Video | UpdatedOct 4, 2023 | [Link](https://huggingface.co/vdo/Hotshot-XL) |
