@@ -142,6 +142,7 @@ Updated on 2026-08-12
 | Updatedabout 7 hours ago | 32 | KRAFTON/A | 21B | [Link](https://huggingface.co/KRAFTON/A.X-K2-Raon-Speech-21B-A3B) |
 | Updated1 day ago | 31 | sensenova/InteractiveOmni-4BAny-to-Any | 6B | [Link](https://huggingface.co/sensenova/InteractiveOmni-4B) |
 | Updatedabout 10 hours ago | 30 | meituan-longcat/LongCat-NextAny-to-Any | 74B | [Link](https://huggingface.co/meituan-longcat/LongCat-Next) |
+| Updated7 days ago | 30 | SHS-Lab/Kimi-K3-AbliteratedAny-to-Any | 2.8T | [Link](https://huggingface.co/SHS-Lab/Kimi-K3-Abliterated) |
 | Updated14 days ago | 29 | multimodal-reasoning-lab/Anole-Zebra-CoTAny-to-Any | 7B | [Link](https://huggingface.co/multimodal-reasoning-lab/Anole-Zebra-CoT) |
 | Updated4 days ago | 29 | PaDT-MLLM/PaDT_Pro_7BAny-to-Any | 8B | [Link](https://huggingface.co/PaDT-MLLM/PaDT_Pro_7B) |
 | Updated5 days ago | 28 | sensenova/SenseNova-U1-8B-MoT-InterleavedAny-to-Any | 18B | [Link](https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-Interleaved) |
@@ -207,6 +208,7 @@ Updated on 2026-08-12
 | UpdatedApr 30 | 7 | braindao/gemma-3-4b-it-uncensored-v2Any-to-Any | 4B | [Link](https://huggingface.co/braindao/gemma-3-4b-it-uncensored-v2) |
 | Updated4 days ago | 7.24k | w-ahmad/Gemma-4-12B-it-qat-GGUF-MoQAny-to-Any | 12B | [Link](https://huggingface.co/w-ahmad/Gemma-4-12B-it-qat-GGUF-MoQ) |
 | Updatedabout 14 hours ago | 7 | sensenova/SenseNova-U1-8B-MoT-Infographic-V3Any-to-Any | 18B | [Link](https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-Infographic-V3) |
+| Updatedabout 16 hours ago | 7 | lemonade666/Ex-Omni-2DAny-to-Any | 11B | [Link](https://huggingface.co/lemonade666/Ex-Omni-2D) |
 | 1.15k | 6 | EPFL-VILAB/4M-21_BAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-21_B) |
 | 186 | 6 | showlab/show-o2-7BAny-to-Any | Updatedabout 9 hours ago | [Link](https://huggingface.co/showlab/show-o2-7B) |
 | Updatedabout 11 hours ago | 6 | Qwen/Qwen3-Omni-30B-A3B-ThinkingAny-to-Any | 32B | [Link](https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Thinking) |
@@ -5346,6 +5348,7 @@ Updated on 2026-08-12
 | Updatedabout 16 hours ago | 632 | KyleHessling1/Qwopus-GLM-18B-Merged-GGUFText | 16B | [Link](https://huggingface.co/KyleHessling1/Qwopus-GLM-18B-Merged-GGUF) |
 | Updated6 days ago | 630 | kakaocorp/kanana-2-30b-a3b-instructText | 31B | [Link](https://huggingface.co/kakaocorp/kanana-2-30b-a3b-instruct) |
 | Updated2 days ago | 628 | PrimeIntellect/INTELLECT-3-FP8Text | 107B | [Link](https://huggingface.co/PrimeIntellect/INTELLECT-3-FP8) |
+| Updated3 days ago | 625 | SupraLabs/SupraElegans-500kText | 612k | [Link](https://huggingface.co/SupraLabs/SupraElegans-500k) |
 | Updatedabout 5 hours ago | 623 | NousResearch/nomos-1Text | 31B | [Link](https://huggingface.co/NousResearch/nomos-1) |
 | Updatedabout 4 hours ago | 614 | prism-ml/Ternary-Bonsai-8B-mlx-2bitText | 0.6B | [Link](https://huggingface.co/prism-ml/Ternary-Bonsai-8B-mlx-2bit) |
 | UpdatedJun 4, 2025 | 613 | AlicanKiraz0/Cybersecurity-BaronLLM_Offensive_Security_LLM_Q6_K_GGUFText | 8B | [Link](https://huggingface.co/AlicanKiraz0/Cybersecurity-BaronLLM_Offensive_Security_LLM_Q6_K_GGUF) |
@@ -6080,6 +6083,7 @@ Updated on 2026-08-12
 | Updatedabout 10 hours ago | 8 | nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8Text | 124B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8) |
 | Updated11 days ago | 8.45k | ibm-granite/granite-switch-4 | 4B | [Link](https://huggingface.co/ibm-granite/granite-switch-4.1-3b-preview) |
 | Updated1 day ago | 8.3k | Inferact/Kimi-K3-DSparkText | 4B | [Link](https://huggingface.co/Inferact/Kimi-K3-DSpark) |
+| Updated6 days ago | 8.2k | ReadyArt/gemma-4-31B-it-scotoma-2-GGUFText | 31B | [Link](https://huggingface.co/ReadyArt/gemma-4-31B-it-scotoma-2-GGUF) |
 | Updated2 days ago | 7.65k | Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8) |
 | Updatedabout 4 hours ago | 7 | tencent/Hunyuan-7B-InstructText | 8B | [Link](https://huggingface.co/tencent/Hunyuan-7B-Instruct) |
 | Updated4 days ago | 7k | bartowski/cerebras_GLM-4 | 85B | [Link](https://huggingface.co/bartowski/cerebras_GLM-4.5-Air-REAP-82B-A12B-GGUF) |
@@ -6090,6 +6094,7 @@ Updated on 2026-08-12
 | Updatedabout 15 hours ago | 7 | Jackrong/Qwopus-GLM-18B-Merged-GGUFText | 16B | [Link](https://huggingface.co/Jackrong/Qwopus-GLM-18B-Merged-GGUF) |
 | Updated1 day ago | 7.46k | nvidia/GLM-5 | 382B | [Link](https://huggingface.co/nvidia/GLM-5.1-NVFP4) |
 | Updatedabout 4 hours ago | 7.63k | nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16Text | 63B | [Link](https://huggingface.co/nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16) |
+| Updated2 days ago | 7.23k | quimmedes/Deepwen-3 | 35B | [Link](https://huggingface.co/quimmedes/Deepwen-3.6) |
 | 578k | 6.11k | meta-llama/Meta-Llama-3-8BText | UpdatedSep 27, 2024 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) |
 | Updatedabout 18 hours ago | 6 | apple/sage-ft-mixtral-8x7bText | 47B | [Link](https://huggingface.co/apple/sage-ft-mixtral-8x7b) |
 | Updated5 days ago | 6.94k | mistralai/Devstral-Small-2507_ggufText | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2507_gguf) |
@@ -7177,6 +7182,7 @@ Updated on 2026-08-12
 | 10 | Unknown | realrebelai/Rebels_w4a8sText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/realrebelai/Rebels_w4a8s) |
 | 6 | Unknown | Stabhappy/kroma-v0 | Updatedabout 23 hours ago | [Link](https://huggingface.co/Stabhappy/kroma-v0.2-base-INT8-convrot) |
 | 6 | Unknown | silveroxides/Kroma-QuantText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/silveroxides/Kroma-Quant) |
+| 24 | Unknown | Gazingstars123/Anima-2 | Updatedabout 1 hour ago | [Link](https://huggingface.co/Gazingstars123/Anima-2.9B) |
 
 ## Text-to-Speech
 
@@ -8093,6 +8099,7 @@ Updated on 2026-08-12
 | 54 | Unknown | fal/MiniMax-H3-Realism-People-LoRAText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/fal/MiniMax-H3-Realism-People-LoRA) |
 | 4 | Unknown | t8star/minimax_h3_turbo_4step_10ErosMax_test4_pruned_curveproj1025_T8Text-to-Video | Updatedabout 7 hours ago | [Link](https://huggingface.co/t8star/minimax_h3_turbo_4step_10ErosMax_test4_pruned_curveproj1025_T8) |
 | 5 | Unknown | smhfacct/Minimax-H3-fl2va-ref2va-hybrid-modelsText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/smhfacct/Minimax-H3-fl2va-ref2va-hybrid-models) |
+| 3 | Unknown | rockerBOO/ltx-2 | Updatedabout 15 hours ago | [Link](https://huggingface.co/rockerBOO/ltx-2.5-nvfp4-convrot) |
 
 ## Text2Text Generation
 
