@@ -5549,6 +5549,7 @@ Updated on 2026-08-13
 | Updatedabout 14 hours ago | 104 | deepreinforce-ai/Ornith-1 | 35B | [Link](https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF) |
 | 1.55k | 102 | Tesslate/UIGEN-T2-7B-Q8_0-GGUFText | Updatedabout 10 hours ago | [Link](https://huggingface.co/Tesslate/UIGEN-T2-7B-Q8_0-GGUF) |
 | Updatedabout 15 hours ago | 102 | cerebras/GLM-4 | 82B | [Link](https://huggingface.co/cerebras/GLM-4.5-Air-REAP-82B-A12B) |
+| Updatedabout 1 hour ago | 102 | deepseek-ai/DeepSeek-V4-Pro-0813Text | 1.7T | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813) |
 | 1.24k | 101 | nvidia/Nemotron-Research-Reasoning-Qwen-1 | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/Nemotron-Research-Reasoning-Qwen-1.5B) |
 | Updatedabout 7 hours ago | 101 | tencent/Youtu-LLM-2B-BaseText | 2B | [Link](https://huggingface.co/tencent/Youtu-LLM-2B-Base) |
 | Updatedabout 9 hours ago | 100 | PrimeIntellect/INTELLECT-3Text | 107B | [Link](https://huggingface.co/PrimeIntellect/INTELLECT-3) |
@@ -6585,6 +6586,7 @@ Updated on 2026-08-13
 | 334k | 698 | cagliostrolab/animagine-xl-3 | UpdatedMar 18, 2024 | [Link](https://huggingface.co/cagliostrolab/animagine-xl-3.1) |
 | 241k | 683 | stabilityai/stable-diffusion-2-1-baseText-to-Image | UpdatedJul 5, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-2-1-base) |
 | Updated5 days ago | 662 | Gthalmie1/moody-real-mix-v4-dpo-ggufText-to-Image | 6B | [Link](https://huggingface.co/Gthalmie1/moody-real-mix-v4-dpo-gguf) |
+| Updated7 days ago | 655 | unsloth/Z-Image-TurboText-to-Image | 6B | [Link](https://huggingface.co/unsloth/Z-Image-Turbo) |
 | Updated1 day ago | 650 | ponpoke/flux2-klein-9b-uncensored-text-encoderText-to-Image | 8B | [Link](https://huggingface.co/ponpoke/flux2-klein-9b-uncensored-text-encoder) |
 | 8.63k | 644 | ostris/OpenFLUX | UpdatedOct 3, 2024 | [Link](https://huggingface.co/ostris/OpenFLUX.1) |
 | Updated5 days ago | 591 | Abiray/Anima-turbo-v1 | 2B | [Link](https://huggingface.co/Abiray/Anima-turbo-v1.0-GGUF) |
