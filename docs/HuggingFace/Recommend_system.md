@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-08-12
+Updated on 2026-08-13
 
 > Generated from the Hugging Face database.
 
@@ -2108,6 +2108,7 @@ Updated on 2026-08-12
 | 1.15k | 98 | ContactDoctor/Bio-Medical-MultiModal-Llama-3-8B-V1Image-Text-to-Text | UpdatedOct 17, 2024 | [Link](https://huggingface.co/ContactDoctor/Bio-Medical-MultiModal-Llama-3-8B-V1) |
 | Updatedabout 8 hours ago | 98.8k | Qwen/Qwen3-VL-30B-A3B-InstructImage-Text-to-Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Instruct) |
 | Updatedabout 23 hours ago | 98 | internlm/JanusCoderV-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/internlm/JanusCoderV-8B) |
+| Updatedabout 9 hours ago | 98 | CohereLabs/North-Micro-Vision-InstructImage-Text-to-Text | 2B | [Link](https://huggingface.co/CohereLabs/North-Micro-Vision-Instruct) |
 | Updatedabout 4 hours ago | 96 | AIDC-AI/Ovis2 | 9B | [Link](https://huggingface.co/AIDC-AI/Ovis2.5-9B) |
 | Updated5 days ago | 96 | prithivMLmods/DeepCaption-VLA-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/prithivMLmods/DeepCaption-VLA-7B) |
 | Updated5 days ago | 95 | internlm/Spatial-SSRL-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/internlm/Spatial-SSRL-7B) |
@@ -2920,6 +2921,7 @@ Updated on 2026-08-12
 | 221 | 3 | nhathoangfoto/Flux | Updated7 days ago | [Link](https://huggingface.co/nhathoangfoto/Flux.2-Klein-9B-Mannequin) |
 |  | 3 | ovi054/QIE-2511-Draw2Photo-LoRAImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/ovi054/QIE-2511-Draw2Photo-LoRA) |
 | 79 | 3 | internlm/ETCHR-FLUX | Updated1 day ago | [Link](https://huggingface.co/internlm/ETCHR-FLUX.2-klein-9B) |
+| 44 | 3 | rimochan/RUM-FLUX | Updated5 days ago | [Link](https://huggingface.co/rimochan/RUM-FLUX.2-klein-4B) |
 | 67 | 2 | SherryXTChen/InstructCLIP-InstructPix2PixImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/SherryXTChen/InstructCLIP-InstructPix2Pix) |
 | 17 | 2 | SherryXTChen/Instruct-CLIPImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/SherryXTChen/Instruct-CLIP) |
 | 76 | 2 | VisualCloze/VisualClozePipeline-384Image-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/VisualCloze/VisualClozePipeline-384) |
@@ -5773,6 +5775,7 @@ Updated on 2026-08-12
 | Updatedabout 24 hours ago | 34 | FutureMa/Eva-4BText | 4B | [Link](https://huggingface.co/FutureMa/Eva-4B) |
 | 49.7k | 34 | nvidia/Qwen3 | Updated6 days ago | [Link](https://huggingface.co/nvidia/Qwen3.5-397B-A17B-NVFP4) |
 | Updated5 days ago | 34k | cyankiwi/MiniMax-M2 | 37B | [Link](https://huggingface.co/cyankiwi/MiniMax-M2.7-AWQ-4bit) |
+| Updatedabout 2 hours ago | 34 | unsloth/NVIDIA-Nemotron-3 | 33B | [Link](https://huggingface.co/unsloth/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-GGUF) |
 | 566 | 33 | deepcogito/cogito-v1-preview-qwen-14BText | Updated1 day ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-qwen-14B) |
 | 115 | 33 | shuttleai/shuttle-3 | Updated2 days ago | [Link](https://huggingface.co/shuttleai/shuttle-3.5) |
 | 4.66k | 33 | Qwen/Qwen3-32B-AWQText | Updated5 days ago | [Link](https://huggingface.co/Qwen/Qwen3-32B-AWQ) |
@@ -7787,6 +7790,7 @@ Updated on 2026-08-12
 | 233 | 4 | FastVideo/FastWan-QAD-FP8-1 | Updated3 days ago | [Link](https://huggingface.co/FastVideo/FastWan-QAD-FP8-1.3B) |
 | 60 | 4 | ALXOPENSOURCE/lingbot-video-1 | Updated1 day ago | [Link](https://huggingface.co/ALXOPENSOURCE/lingbot-video-1.3b-fp8) |
 | 475 | 4 | linoyts/ltx2 | Updated19 days ago | [Link](https://huggingface.co/linoyts/ltx2.3-ic-lora-ingredients-multishot) |
+| Updatedabout 13 hours ago | 4 | realrebelai/LTX-2 | 21B | [Link](https://huggingface.co/realrebelai/LTX-2.5_GGUFs) |
 | 4.64k | 3 | guoyww/animatediff-motion-lora-pan-rightText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-pan-right) |
 | 28 | 3 | finetrainers/3dgs-v0Text-to-Video | UpdatedJan 29 | [Link](https://huggingface.co/finetrainers/3dgs-v0) |
 | 1 | 3 | longlian/text-to-video-lvd-msText-to-Video | UpdatedMay 1, 2024 | [Link](https://huggingface.co/longlian/text-to-video-lvd-ms) |
@@ -8100,6 +8104,7 @@ Updated on 2026-08-12
 | 4 | Unknown | t8star/minimax_h3_turbo_4step_10ErosMax_test4_pruned_curveproj1025_T8Text-to-Video | Updatedabout 7 hours ago | [Link](https://huggingface.co/t8star/minimax_h3_turbo_4step_10ErosMax_test4_pruned_curveproj1025_T8) |
 | 5 | Unknown | smhfacct/Minimax-H3-fl2va-ref2va-hybrid-modelsText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/smhfacct/Minimax-H3-fl2va-ref2va-hybrid-models) |
 | 3 | Unknown | rockerBOO/ltx-2 | Updatedabout 15 hours ago | [Link](https://huggingface.co/rockerBOO/ltx-2.5-nvfp4-convrot) |
+| 4 | Unknown | Winnougan/ltx-2 | Updatedabout 12 hours ago | [Link](https://huggingface.co/Winnougan/ltx-2.5-w4a8-convrot-int4-convrot-Winnougan-Blessing) |
 
 ## Text2Text Generation
 
