@@ -2364,6 +2364,7 @@ Updated on 2026-08-14
 | Updated1 minute ago | 11.4k | dealignai/Gemma-4-26B-A4B-JANG_4M-CRACKImage-Text-to-Text | 5B | [Link](https://huggingface.co/dealignai/Gemma-4-26B-A4B-JANG_4M-CRACK) |
 | Updatedabout 10 hours ago | 11 | internlm/Intern-S2-PreviewImage-Text-to-Text | 36B | [Link](https://huggingface.co/internlm/Intern-S2-Preview) |
 | Updatedabout 18 hours ago | 11k | unsloth/gemma-4-31B-it-qat-GGUFImage-Text-to-Text | 31B | [Link](https://huggingface.co/unsloth/gemma-4-31B-it-qat-GGUF) |
+| Updatedabout 11 hours ago | 11 | dots-studio/dots3-note-prevImage-Text-to-Text | 288B | [Link](https://huggingface.co/dots-studio/dots3-note-prev) |
 | 185 | 10 | prithivMLmods/Tokenized-OCRImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/prithivMLmods/Tokenized-OCR) |
 | 25 | 10 | prithivMLmods/Qwen2-VL-OCR2-2B-InstructImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/Qwen2-VL-OCR2-2B-Instruct) |
 | 9 | 10 | google/gemma-3-12b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-12b-pt) |
@@ -3187,6 +3188,7 @@ Updated on 2026-08-14
 | 6 | Unknown | thedeoxen/Krea-2-pose-controlnetImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/thedeoxen/Krea-2-pose-controlnet) |
 | 7 | Unknown | WarmBloodAban/Krea2_Anything2RealCharacters-V2Image-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/WarmBloodAban/Krea2_Anything2RealCharacters-V2) |
 | 10 | Unknown | StabilityLabs/Stable-LayersImage-to-Image | Updated19 days ago | [Link](https://huggingface.co/StabilityLabs/Stable-Layers) |
+| 3 | Unknown | DraconicDragon/NAFNet-VAE-DeGridImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/DraconicDragon/NAFNet-VAE-DeGrid) |
 
 ## Image-to-Text
 
@@ -3229,6 +3231,7 @@ Updated on 2026-08-14
 | Updated9 days ago | 424 | InternScience/StructTable-InternVL2-1BImage-to-Text | 0.9B | [Link](https://huggingface.co/InternScience/StructTable-InternVL2-1B) |
 | UpdatedSep 6, 2023 | 382 | google/pix2struct-largeImage-to-Text | 1B | [Link](https://huggingface.co/google/pix2struct-large) |
 | UpdatedJun 22 | 377 | SandLogicTechnologies/chandra-ocr-2-GGUFImage-to-Text | 5B | [Link](https://huggingface.co/SandLogicTechnologies/chandra-ocr-2-GGUF) |
+| UpdatedMar 20 | 369 | docling-project/ChemicalOCRImage-to-Text | 0.3B | [Link](https://huggingface.co/docling-project/ChemicalOCR) |
 | UpdatedJan 29 | 335 | StanfordAIMI/CheXagent-2-3b-srrg-findingsImage-to-Text | 3B | [Link](https://huggingface.co/StanfordAIMI/CheXagent-2-3b-srrg-findings) |
 | Updated14 days ago | 332 | PatSnap/Hiro-MOSS-OCR-0 | 0.3B | [Link](https://huggingface.co/PatSnap/Hiro-MOSS-OCR-0.3B) |
 | UpdatedJul 18 | 323 | loay/ArabicOCR-Qwen2 | 8B | [Link](https://huggingface.co/loay/ArabicOCR-Qwen2.5-VL-7B-Vision) |
@@ -3274,6 +3277,7 @@ Updated on 2026-08-14
 | UpdatedFeb 3 | 150 | mlx-community/GLM-OCR-6bitImage-to-Text | 0.6B | [Link](https://huggingface.co/mlx-community/GLM-OCR-6bit) |
 | Updated4 days ago | 146 | hquan21/ai-bike-pricingImage-to-Text | 0.2B | [Link](https://huggingface.co/hquan21/ai-bike-pricing) |
 | UpdatedMar 25 | 145 | dh-unibe/trocr-kurrentImage-to-Text | 0.3B | [Link](https://huggingface.co/dh-unibe/trocr-kurrent) |
+| UpdatedJul 7 | 144 | Kansallisarkisto/latvian-large-handwrittenImage-to-Text | 0.6B | [Link](https://huggingface.co/Kansallisarkisto/latvian-large-handwritten) |
 | UpdatedAug 27, 2025 | 138 | kpsss34/bl2 | 4B | [Link](https://huggingface.co/kpsss34/bl2.7b-Nsfw-long-captioning-1) |
 | UpdatedMay 24 | 137 | unsloth/Cosmos-Reason1-7BImage-to-Text | 8B | [Link](https://huggingface.co/unsloth/Cosmos-Reason1-7B) |
 | UpdatedMar 18 | 137 | Kansallisarkisto/cyrillic-large-handwrittenImage-to-Text | 0.6B | [Link](https://huggingface.co/Kansallisarkisto/cyrillic-large-handwritten) |
@@ -5352,6 +5356,7 @@ Updated on 2026-08-14
 | Updated2 days ago | 628 | PrimeIntellect/INTELLECT-3-FP8Text | 107B | [Link](https://huggingface.co/PrimeIntellect/INTELLECT-3-FP8) |
 | Updated3 days ago | 625 | SupraLabs/SupraElegans-500kText | 612k | [Link](https://huggingface.co/SupraLabs/SupraElegans-500k) |
 | Updatedabout 5 hours ago | 623 | NousResearch/nomos-1Text | 31B | [Link](https://huggingface.co/NousResearch/nomos-1) |
+| Updated3 days ago | 622 | Jiunsong/SuperDeepseek-V4-Flash-abliterated-MQ-2xDGXText | 306B | [Link](https://huggingface.co/Jiunsong/SuperDeepseek-V4-Flash-abliterated-MQ-2xDGX) |
 | Updatedabout 4 hours ago | 614 | prism-ml/Ternary-Bonsai-8B-mlx-2bitText | 0.6B | [Link](https://huggingface.co/prism-ml/Ternary-Bonsai-8B-mlx-2bit) |
 | UpdatedJun 4, 2025 | 613 | AlicanKiraz0/Cybersecurity-BaronLLM_Offensive_Security_LLM_Q6_K_GGUFText | 8B | [Link](https://huggingface.co/AlicanKiraz0/Cybersecurity-BaronLLM_Offensive_Security_LLM_Q6_K_GGUF) |
 | Updated1 day ago | 608 | ArliAI/GLM-4 | 110B | [Link](https://huggingface.co/ArliAI/GLM-4.5-Air-Derestricted) |
@@ -7191,6 +7196,7 @@ Updated on 2026-08-14
 | 6 | Unknown | silveroxides/Kroma-QuantText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/silveroxides/Kroma-Quant) |
 | 24 | Unknown | Gazingstars123/Anima-2 | Updatedabout 1 hour ago | [Link](https://huggingface.co/Gazingstars123/Anima-2.9B) |
 | 10.2k |  | Omnico/Krea2_turbo_diff_lorasText-to-Image | Updated2 days ago | [Link](https://huggingface.co/Omnico/Krea2_turbo_diff_loras) |
+| 5 | Unknown | RicemanT/Anima-TelescopaText-to-Image | Updated5 days ago | [Link](https://huggingface.co/RicemanT/Anima-Telescopa) |
 
 ## Text-to-Speech
 
@@ -7796,6 +7802,7 @@ Updated on 2026-08-14
 | 60 | 4 | ALXOPENSOURCE/lingbot-video-1 | Updated1 day ago | [Link](https://huggingface.co/ALXOPENSOURCE/lingbot-video-1.3b-fp8) |
 | 475 | 4 | linoyts/ltx2 | Updated19 days ago | [Link](https://huggingface.co/linoyts/ltx2.3-ic-lora-ingredients-multishot) |
 | Updatedabout 13 hours ago | 4 | realrebelai/LTX-2 | 21B | [Link](https://huggingface.co/realrebelai/LTX-2.5_GGUFs) |
+| 7.99k | 4 | rzgar/minimax_h3_fl2v_lightx2v_4step_int8-convrot_comfyText-to-Video | Updated1 day ago | [Link](https://huggingface.co/rzgar/minimax_h3_fl2v_lightx2v_4step_int8-convrot_comfy) |
 | 4.64k | 3 | guoyww/animatediff-motion-lora-pan-rightText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-pan-right) |
 | 28 | 3 | finetrainers/3dgs-v0Text-to-Video | UpdatedJan 29 | [Link](https://huggingface.co/finetrainers/3dgs-v0) |
 | 1 | 3 | longlian/text-to-video-lvd-msText-to-Video | UpdatedMay 1, 2024 | [Link](https://huggingface.co/longlian/text-to-video-lvd-ms) |
@@ -7821,6 +7828,7 @@ Updated on 2026-08-14
 | Updatedabout 9 hours ago | 3 | unsloth/Wan2 | 5B | [Link](https://huggingface.co/unsloth/Wan2.2-TI2V-5B-GGUF) |
 | Updatedabout 6 hours ago | 3 | ChrisColeTech/minimax-h3-turbo-GGUFText-to-Video | 20B | [Link](https://huggingface.co/ChrisColeTech/minimax-h3-turbo-GGUF) |
 | 230 | 3 | BennyDaBall/LTX-2 | Updated2 days ago | [Link](https://huggingface.co/BennyDaBall/LTX-2.5-22b-distilled-nvfp4-comfy) |
+| 13 | 3 | TheDivergentAI/ltx25-turbo-distill-loraText-to-Video | Updated1 day ago | [Link](https://huggingface.co/TheDivergentAI/ltx25-turbo-distill-lora) |
 | 69 | 2 | obvious-research/onlyflowText-to-Video | Updated5 days ago | [Link](https://huggingface.co/obvious-research/onlyflow) |
 | 42 | 2 | jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIEText-to-Video | Updated7 days ago | [Link](https://huggingface.co/jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIE) |
 | 10 | 2 | vdo/Hotshot-XLText-to-Video | UpdatedOct 4, 2023 | [Link](https://huggingface.co/vdo/Hotshot-XL) |
