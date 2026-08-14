@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-08-13
+Updated on 2026-08-14
 
 > Generated from the Hugging Face database.
 
@@ -5378,6 +5378,7 @@ Updated on 2026-08-13
 | Updatedabout 13 hours ago | 492 | ubergarm/Kimi-K2 | 1T | [Link](https://huggingface.co/ubergarm/Kimi-K2.6-GGUF) |
 | Updated2 days ago | 490 | DJLougen/Harmonic-27B-GGUFText | 27B | [Link](https://huggingface.co/DJLougen/Harmonic-27B-GGUF) |
 | Updated4 days ago | 489 | AlicanKiraz0/Kara-Kumru-v1 | 2B | [Link](https://huggingface.co/AlicanKiraz0/Kara-Kumru-v1.0-2B) |
+| Updated4 days ago | 488 | ThorOdinson246/nl2sh-1 | 2B | [Link](https://huggingface.co/ThorOdinson246/nl2sh-1.5b-Q4_K_M) |
 | 894k | 486 | deepseek-ai/DeepSeek-R1-Distill-Qwen-7BText | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B) |
 | Updated6 days ago | 480 | huihui-ai/Huihui-GLM-4 | 353B | [Link](https://huggingface.co/huihui-ai/Huihui-GLM-4.6-abliterated-mlx-4bit) |
 | Updatedabout 2 hours ago | 480 | deepseek-ai/DeepSeek-V4-Flash-0731Text | 304B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) |
@@ -5397,6 +5398,7 @@ Updated on 2026-08-13
 | Updated2 days ago | 419 | rstar2-reproduce/rStar2-Agent-14BText | 15B | [Link](https://huggingface.co/rstar2-reproduce/rStar2-Agent-14B) |
 | UpdatedAug 27, 2024 | 417k | google/gemma-2-9b-itText | 9B | [Link](https://huggingface.co/google/gemma-2-9b-it) |
 | Updated2 days ago | 414 | FINAL-Bench/Darwin-36B-OpusText | 35B | [Link](https://huggingface.co/FINAL-Bench/Darwin-36B-Opus) |
+| Updated3 days ago | 414 | Motif-Technologies/Motif-3-BaseText | 315B | [Link](https://huggingface.co/Motif-Technologies/Motif-3-Base) |
 | Updated21 minutes ago | 395 | deepseek-ai/DeepSeek-V4-ProText | 862B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro) |
 | Updatedabout 9 hours ago | 389 | zai-org/GLM-5 | 754B | [Link](https://huggingface.co/zai-org/GLM-5.1) |
 | Updatedabout 5 hours ago | 384 | RUC-DataLab/DeepAnalyze-8BText | 8B | [Link](https://huggingface.co/RUC-DataLab/DeepAnalyze-8B) |
@@ -7188,6 +7190,7 @@ Updated on 2026-08-13
 | 6 | Unknown | Stabhappy/kroma-v0 | Updatedabout 23 hours ago | [Link](https://huggingface.co/Stabhappy/kroma-v0.2-base-INT8-convrot) |
 | 6 | Unknown | silveroxides/Kroma-QuantText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/silveroxides/Kroma-Quant) |
 | 24 | Unknown | Gazingstars123/Anima-2 | Updatedabout 1 hour ago | [Link](https://huggingface.co/Gazingstars123/Anima-2.9B) |
+| 10.2k |  | Omnico/Krea2_turbo_diff_lorasText-to-Image | Updated2 days ago | [Link](https://huggingface.co/Omnico/Krea2_turbo_diff_loras) |
 
 ## Text-to-Speech
 
@@ -7817,6 +7820,7 @@ Updated on 2026-08-13
 | 273 | 3 | ddalcu/MiniMax-H3-FL2VA-MLX-Serve-4bitText-to-Video | Updated1 day ago | [Link](https://huggingface.co/ddalcu/MiniMax-H3-FL2VA-MLX-Serve-4bit) |
 | Updatedabout 9 hours ago | 3 | unsloth/Wan2 | 5B | [Link](https://huggingface.co/unsloth/Wan2.2-TI2V-5B-GGUF) |
 | Updatedabout 6 hours ago | 3 | ChrisColeTech/minimax-h3-turbo-GGUFText-to-Video | 20B | [Link](https://huggingface.co/ChrisColeTech/minimax-h3-turbo-GGUF) |
+| 230 | 3 | BennyDaBall/LTX-2 | Updated2 days ago | [Link](https://huggingface.co/BennyDaBall/LTX-2.5-22b-distilled-nvfp4-comfy) |
 | 69 | 2 | obvious-research/onlyflowText-to-Video | Updated5 days ago | [Link](https://huggingface.co/obvious-research/onlyflow) |
 | 42 | 2 | jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIEText-to-Video | Updated7 days ago | [Link](https://huggingface.co/jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIE) |
 | 10 | 2 | vdo/Hotshot-XLText-to-Video | UpdatedOct 4, 2023 | [Link](https://huggingface.co/vdo/Hotshot-XL) |
