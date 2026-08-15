@@ -1996,6 +1996,7 @@ Updated on 2026-08-15
 | Updated1 day ago | 872 | prithivMLmods/Qwen3-VisionCaption-2B-GGUFImage-Text-to-Text | 2B | [Link](https://huggingface.co/prithivMLmods/Qwen3-VisionCaption-2B-GGUF) |
 | Updated2 days ago | 858 | MBZUAI/MedMO-4BImage-Text-to-Text | 4B | [Link](https://huggingface.co/MBZUAI/MedMO-4B) |
 | 57.2k | 851 | mistralai/Mistral-Small-3 | Updatedabout 11 hours ago | [Link](https://huggingface.co/mistralai/Mistral-Small-3.1-24B-Instruct-2503) |
+| Updatedabout 18 hours ago | 841 | trohrbaugh/Qwen3 | 27B | [Link](https://huggingface.co/trohrbaugh/Qwen3.8-27B-heretic-ara) |
 | Updatedabout 3 hours ago | 840 | thinkingmachines/Inkling-SmallImage-Text-to-Text | 266B | [Link](https://huggingface.co/thinkingmachines/Inkling-Small) |
 | Updatedabout 4 hours ago | 829 | lmms-lab/LLaVA-OneVision-1 | 9B | [Link](https://huggingface.co/lmms-lab/LLaVA-OneVision-1.5-8B-Instruct) |
 | Updated2 days ago | 764 | unsloth/LFM2 | 1B | [Link](https://huggingface.co/unsloth/LFM2.5-VL-1.6B-GGUF) |
@@ -3516,6 +3517,7 @@ Updated on 2026-08-15
 | Updatedabout 7 hours ago | 7 | PaddlePaddle/PP-OCRv6_small_det_safetensorsImage-to-Text | 2.48M | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv6_small_det_safetensors) |
 | Updatedabout 7 hours ago | 7 | PaddlePaddle/PP-OCRv6_tiny_det_safetensorsImage-to-Text | 438k | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv6_tiny_det_safetensors) |
 | Updatedabout 10 hours ago | 7 | UniParser/MolParser-MobileImage-to-Text | 9.98M | [Link](https://huggingface.co/UniParser/MolParser-Mobile) |
+| UpdatedJun 4 | 7 | nviquang/Vie-BLIPImage-to-Text | 0.2B | [Link](https://huggingface.co/nviquang/Vie-BLIP) |
 | 624 | 6 | fhswf/TrOCR_Math_handwrittenImage-to-Text | UpdatedOct 21, 2024 | [Link](https://huggingface.co/fhswf/TrOCR_Math_handwritten) |
 | 511 | 6 | microsoft/trocr-base-strImage-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-base-str) |
 | Updated21 days ago | 6.36k | allenai/olmOCR-7B-0225-preview-FP8Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview-FP8) |
@@ -5778,6 +5780,7 @@ Updated on 2026-08-15
 | Updatedabout 1 hour ago | 35 | meituan-longcat/LongCat-Flash-ThinkingText | 562B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Thinking) |
 | Updatedabout 1 hour ago | 35 | unsloth/GLM-5-GGUFText | 753B | [Link](https://huggingface.co/unsloth/GLM-5-GGUF) |
 | Updatedabout 8 hours ago | 35.1k | antirez/deepseek-v4-ggufText | 284B | [Link](https://huggingface.co/antirez/deepseek-v4-gguf) |
+| Updatedabout 5 hours ago | 35 | Youssofal/Qwen3 | 6B | [Link](https://huggingface.co/Youssofal/Qwen3.8-27B-MTPLX-Optimized-Speed) |
 | 4.1k | 34 | bartowski/mistralai_Mistral-Small-3 | Updatedabout 18 hours ago | [Link](https://huggingface.co/bartowski/mistralai_Mistral-Small-3.1-24B-Instruct-2503-GGUF) |
 | Updated1 day ago | 34 | nvidia/NVIDIA-Nemotron-Nano-9B-v2-BaseText | 9B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2-Base) |
 | Updatedabout 6 hours ago | 34 | continuedev/instinctText | 8B | [Link](https://huggingface.co/continuedev/instinct) |
@@ -6098,6 +6101,7 @@ Updated on 2026-08-15
 | Updated11 days ago | 8.45k | ibm-granite/granite-switch-4 | 4B | [Link](https://huggingface.co/ibm-granite/granite-switch-4.1-3b-preview) |
 | Updated1 day ago | 8.3k | Inferact/Kimi-K3-DSparkText | 4B | [Link](https://huggingface.co/Inferact/Kimi-K3-DSpark) |
 | Updated6 days ago | 8.2k | ReadyArt/gemma-4-31B-it-scotoma-2-GGUFText | 31B | [Link](https://huggingface.co/ReadyArt/gemma-4-31B-it-scotoma-2-GGUF) |
+| Updatedabout 16 hours ago | 8.04k | AtomicChat/Qwen3 | 27B | [Link](https://huggingface.co/AtomicChat/Qwen3.8-27B-GGUF) |
 | Updated2 days ago | 7.65k | Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8) |
 | Updatedabout 4 hours ago | 7 | tencent/Hunyuan-7B-InstructText | 8B | [Link](https://huggingface.co/tencent/Hunyuan-7B-Instruct) |
 | Updated4 days ago | 7k | bartowski/cerebras_GLM-4 | 85B | [Link](https://huggingface.co/bartowski/cerebras_GLM-4.5-Air-REAP-82B-A12B-GGUF) |
@@ -6799,6 +6803,7 @@ Updated on 2026-08-15
 | Updatedabout 16 hours ago | 8 | Abiray/Krea-2-Turbo-GGUFText-to-Image | 13B | [Link](https://huggingface.co/Abiray/Krea-2-Turbo-GGUF) |
 | 299 | 8 | pmczip/Krea2Raw_LorasText-to-Image | Updatedabout 17 hours ago | [Link](https://huggingface.co/pmczip/Krea2Raw_Loras) |
 | 4.3k | 8 | rzgar/Wan2 | Updated12 days ago | [Link](https://huggingface.co/rzgar/Wan2.2-Bernini-R-Motion-Enhancer-n4w-i2v) |
+| Updated12 days ago | 8.53k | ChrisColeTech/krea2-turbo-edit-GGUFText-to-Image | 13B | [Link](https://huggingface.co/ChrisColeTech/krea2-turbo-edit-GGUF) |
 | 1.69k | 7 | silveroxides/Chroma-GGUFText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/silveroxides/Chroma-GGUF) |
 | 58 | 7 | Freepik/F-Lite-TextureText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Freepik/F-Lite-Texture) |
 | 41 | 7 | renderartist/simplevectorhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/simplevectorhidream) |
@@ -8123,6 +8128,7 @@ Updated on 2026-08-15
 | 3 | Unknown | rockerBOO/ltx-2 | Updatedabout 15 hours ago | [Link](https://huggingface.co/rockerBOO/ltx-2.5-nvfp4-convrot) |
 | 4 | Unknown | Winnougan/ltx-2 | Updatedabout 12 hours ago | [Link](https://huggingface.co/Winnougan/ltx-2.5-w4a8-convrot-int4-convrot-Winnougan-Blessing) |
 | 4 | Unknown | SII-YuanyangYin/EvokeText-to-Video | Updated1 day ago | [Link](https://huggingface.co/SII-YuanyangYin/Evoke) |
+| 4 | Unknown | AlayaLab/EvokeText-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/AlayaLab/Evoke) |
 
 ## Text2Text Generation
 
