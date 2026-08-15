@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-08-14
+Updated on 2026-08-15
 
 > Generated from the Hugging Face database.
 
@@ -8,6 +8,7 @@ Updated on 2026-08-14
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
 | 617k | 999 | openbmb/MiniCPM-o-2_6Any-to-Any | Updated5 days ago | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6) |
+| UpdatedJul 4 | 994 | kirilldual0987/rumeni-1-nano-GGUFAny-to-Any | 5B | [Link](https://huggingface.co/kirilldual0987/rumeni-1-nano-GGUF) |
 | UpdatedSep 29, 2025 | 860 | cyankiwi/Qwen3-Omni-30B-A3B-Instruct-AWQ-8bitAny-to-Any | 14B | [Link](https://huggingface.co/cyankiwi/Qwen3-Omni-30B-A3B-Instruct-AWQ-8bit) |
 | UpdatedSep 28, 2025 | 832 | cyankiwi/Qwen3-Omni-30B-A3B-Thinking-AWQ-4bitAny-to-Any | 6B | [Link](https://huggingface.co/cyankiwi/Qwen3-Omni-30B-A3B-Thinking-AWQ-4bit) |
 | UpdatedJun 9 | 806 | RedHatAI/gemma-3-4b-it-quantized | 2B | [Link](https://huggingface.co/RedHatAI/gemma-3-4b-it-quantized.w4a16) |
@@ -2212,6 +2213,7 @@ Updated on 2026-08-14
 | Updatedabout 2 hours ago | 34 | meta-models/Muse-Glimmer-30B-assistantImage-Text-to-Text | 3B | [Link](https://huggingface.co/meta-models/Muse-Glimmer-30B-assistant) |
 | Updated4 days ago | 33 | prithivMLmods/Qwen2 | 8B | [Link](https://huggingface.co/prithivMLmods/Qwen2.5-VL-7B-Abliterated-Caption-it) |
 | Updated3 days ago | 32.8k | cyankiwi/Qwen3 | 25B | [Link](https://huggingface.co/cyankiwi/Qwen3.5-122B-A10B-AWQ-4bit) |
+| Updatedabout 9 hours ago | 32 | bartowski/Qwen3 | 27B | [Link](https://huggingface.co/bartowski/Qwen3.8-27B-GGUF) |
 | 4.01k | 31 | google/paligemma2-3b-mix-448Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-3b-mix-448) |
 | Updatedabout 11 hours ago | 31.6k | YannQi/R-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/YannQi/R-4B) |
 | Updatedabout 14 hours ago | 31 | HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-BalancedImage-Text-to-Text | 12B | [Link](https://huggingface.co/HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced) |
@@ -5821,6 +5823,7 @@ Updated on 2026-08-14
 | Updatedabout 7 hours ago | 31 | nvidia/Gemma-4-31B-IT-NVFP4Text | 21B | [Link](https://huggingface.co/nvidia/Gemma-4-31B-IT-NVFP4) |
 | Updated5 days ago | 31.1k | igorls/gemma-4-12B-it-heretic-GGUFText | 12B | [Link](https://huggingface.co/igorls/gemma-4-12B-it-heretic-GGUF) |
 | Updatedabout 2 hours ago | 31 | Motif-Technologies/Motif-3-BetaText | 315B | [Link](https://huggingface.co/Motif-Technologies/Motif-3-Beta) |
+| Updatedabout 7 hours ago | 31 | JonathanColetti/Qwen3 | 27B | [Link](https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF) |
 | 277 | 30 | kakaocorp/kanana-nano-2 | Updatedabout 22 hours ago | [Link](https://huggingface.co/kakaocorp/kanana-nano-2.1b-instruct) |
 | 2.75k | 30 | allenai/OLMo-2-0425-1BText | Updated6 days ago | [Link](https://huggingface.co/allenai/OLMo-2-0425-1B) |
 | 509 | 30 | SWE-bench/SWE-agent-LM-32BText | Updatedabout 10 hours ago | [Link](https://huggingface.co/SWE-bench/SWE-agent-LM-32B) |
@@ -8119,6 +8122,7 @@ Updated on 2026-08-14
 | 5 | Unknown | smhfacct/Minimax-H3-fl2va-ref2va-hybrid-modelsText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/smhfacct/Minimax-H3-fl2va-ref2va-hybrid-models) |
 | 3 | Unknown | rockerBOO/ltx-2 | Updatedabout 15 hours ago | [Link](https://huggingface.co/rockerBOO/ltx-2.5-nvfp4-convrot) |
 | 4 | Unknown | Winnougan/ltx-2 | Updatedabout 12 hours ago | [Link](https://huggingface.co/Winnougan/ltx-2.5-w4a8-convrot-int4-convrot-Winnougan-Blessing) |
+| 4 | Unknown | SII-YuanyangYin/EvokeText-to-Video | Updated1 day ago | [Link](https://huggingface.co/SII-YuanyangYin/Evoke) |
 
 ## Text2Text Generation
 
