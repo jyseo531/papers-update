@@ -159,6 +159,7 @@ Updated on 2026-08-15
 | Updatedabout 10 hours ago | 20 | jinzhuoran/OmniRewardModelAny-to-Any | 8B | [Link](https://huggingface.co/jinzhuoran/OmniRewardModel) |
 | UpdatedMay 12 | 20.6k | unsloth/gemma-3-27b-itAny-to-Any | 27B | [Link](https://huggingface.co/unsloth/gemma-3-27b-it) |
 | Updatedabout 16 hours ago | 20.9k | google/gemma-4-E2B-itAny-to-Any | 5B | [Link](https://huggingface.co/google/gemma-4-E2B-it) |
+| Updated3 days ago | 20 | sequelbox/Muse-Glimmer-30B-Tachibana-AgentAny-to-Any | 30B | [Link](https://huggingface.co/sequelbox/Muse-Glimmer-30B-Tachibana-Agent) |
 | 142 | 19 | mit-han-lab/vila-u-7b-256Any-to-Any | UpdatedOct 29, 2024 | [Link](https://huggingface.co/mit-han-lab/vila-u-7b-256) |
 | Updatedabout 11 hours ago | 19 | Qwen/Qwen3-Omni-30B-A3B-InstructAny-to-Any | 35B | [Link](https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Instruct) |
 | UpdatedApr 27 | 19 | Tokymin/SmolVLM2-2 | 2B | [Link](https://huggingface.co/Tokymin/SmolVLM2-2.2B-Instruct-video-feedback) |
