@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-08-15
+Updated on 2026-08-16
 
 > Generated from the Hugging Face database.
 
@@ -2066,6 +2066,7 @@ Updated on 2026-08-15
 | Updated2 days ago | 187 | huihui-ai/Huihui-Qwen3-VL-8B-Instruct-abliteratedImage-Text-to-Text | 9B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3-VL-8B-Instruct-abliterated) |
 | 7.06k | 180 | meta-llama/Llama-4-Scout-17B-16E-InstructImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct) |
 | Updated2 days ago | 180 | trillionlabs/gWorld-32BImage-Text-to-Text | 33B | [Link](https://huggingface.co/trillionlabs/gWorld-32B) |
+| Updatedabout 15 hours ago | 177 | orcarouter/Qwen3 | 28B | [Link](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8) |
 | Updatedabout 12 hours ago | 176 | huihui-ai/Huihui-Step3-VL-10B-abliteratedImage-Text-to-Text | 10B | [Link](https://huggingface.co/huihui-ai/Huihui-Step3-VL-10B-abliterated) |
 | Updated3 days ago | 176 | z-lab/Qwen3 | 3B | [Link](https://huggingface.co/z-lab/Qwen3.5-9B-PARO) |
 | Updated5 days ago | 175 | DavidAU/gemma-3-12b-it-vl-GLM-4 | 12B | [Link](https://huggingface.co/DavidAU/gemma-3-12b-it-vl-GLM-4.7-Flash-Heretic-Uncensored-Thinking) |
@@ -2168,6 +2169,7 @@ Updated on 2026-08-15
 | Updatedabout 10 hours ago | 49 | nanonets/Nanonets-OCR2-3BImage-Text-to-Text | 4B | [Link](https://huggingface.co/nanonets/Nanonets-OCR2-3B) |
 | Updatedabout 5 hours ago | 49 | ATH-MaaS/OvisOCR2Image-Text-to-Text | 0.9B | [Link](https://huggingface.co/ATH-MaaS/OvisOCR2) |
 | Updated31 minutes ago | 48 | unsloth/gemma-4-12b-it-GGUFImage-Text-to-Text | 12B | [Link](https://huggingface.co/unsloth/gemma-4-12b-it-GGUF) |
+| Updatedabout 2 hours ago | 48 | empero-ai/Qwen3 | 27B | [Link](https://huggingface.co/empero-ai/Qwen3.8-27B-Ridge-GGUF) |
 | 848 | 47 | AIDC-AI/Ovis2-2BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-2B) |
 | 79.7k | 47 | Qwen/Qwen2-VL-7BImage-Text-to-Text | UpdatedJan 12 | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B) |
 | Updatedabout 21 hours ago | 47 | Kwai-Keye/Keye-VL-2 | 31B | [Link](https://huggingface.co/Kwai-Keye/Keye-VL-2.0-30B-A3B) |
@@ -2497,6 +2499,7 @@ Updated on 2026-08-15
 | Updatedabout 22 hours ago | 3.44k | google/gemma-4-26B-A4B-it-qat-q4_0-ggufImage-Text-to-Text | 25B | [Link](https://huggingface.co/google/gemma-4-26B-A4B-it-qat-q4_0-gguf) |
 | Updatedabout 3 hours ago | 3 | baidu/Unlimited-OCRImage-Text-to-Text | 3B | [Link](https://huggingface.co/baidu/Unlimited-OCR) |
 | Updated3 days ago | 3.4k | sahilchachra/Unlimited-OCR-GGUFImage-Text-to-Text | 3B | [Link](https://huggingface.co/sahilchachra/Unlimited-OCR-GGUF) |
+| Updatedabout 6 hours ago | 3.25k | Blackfrost-AI/Qwen3 | 27B | [Link](https://huggingface.co/Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF) |
 | Updatedabout 7 hours ago | 2.63k | nvidia/Eagle2 | 8B | [Link](https://huggingface.co/nvidia/Eagle2.5-8B) |
 | Updatedabout 7 hours ago | 2 | internlm/Intern-S1-FP8Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1-FP8) |
 | Updated1 day ago | 2.26k | Qwen/Qwen3-VL-235B-A22B-InstructImage-Text-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct) |
@@ -7206,6 +7209,7 @@ Updated on 2026-08-15
 | 24 | Unknown | Gazingstars123/Anima-2 | Updatedabout 1 hour ago | [Link](https://huggingface.co/Gazingstars123/Anima-2.9B) |
 | 10.2k |  | Omnico/Krea2_turbo_diff_lorasText-to-Image | Updated2 days ago | [Link](https://huggingface.co/Omnico/Krea2_turbo_diff_loras) |
 | 5 | Unknown | RicemanT/Anima-TelescopaText-to-Image | Updated5 days ago | [Link](https://huggingface.co/RicemanT/Anima-Telescopa) |
+| 5 | Unknown | flurryman/kroma-v0 | Updated6 days ago | [Link](https://huggingface.co/flurryman/kroma-v0.2-turbo-fp8) |
 
 ## Text-to-Speech
 
@@ -7727,6 +7731,7 @@ Updated on 2026-08-15
 | 4.43k | 306 | hotshotco/Hotshot-XLText-to-Video | UpdatedOct 11, 2023 | [Link](https://huggingface.co/hotshotco/Hotshot-XL) |
 | Updatedabout 10 hours ago | 260 | Abiray/Sulphur-2-base-GGUFText-to-Video | 21B | [Link](https://huggingface.co/Abiray/Sulphur-2-base-GGUF) |
 | 250 | 258 | rhymes-ai/AllegroText-to-Video | UpdatedOct 31, 2024 | [Link](https://huggingface.co/rhymes-ai/Allegro) |
+| Updatedabout 19 hours ago | 225 | ruygar/LTX-2 | 21B | [Link](https://huggingface.co/ruygar/LTX-2.5-Comfy-GGUF) |
 | 7.53k | 218 | nvidia/Cosmos-1 | Updated10 days ago | [Link](https://huggingface.co/nvidia/Cosmos-1.0-Diffusion-7B-Text2World) |
 | 315 | 175 | FastVideo/FastHunyuanText-to-Video | UpdatedJan 8 | [Link](https://huggingface.co/FastVideo/FastHunyuan) |
 | 28k | 169 | ali-vilab/i2vgen-xlText-to-Video | UpdatedFeb 9, 2024 | [Link](https://huggingface.co/ali-vilab/i2vgen-xl) |
