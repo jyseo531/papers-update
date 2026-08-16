@@ -2601,6 +2601,7 @@ Updated on 2026-08-16
 | 44 | Unknown | unsloth/Kimi-K3-GGUFImage-Text-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/unsloth/Kimi-K3-GGUF) |
 | 33 | Unknown | ethanfel/Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRotImage-Text-to-Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot) |
 | 248 | Unknown | ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRotImage-Text-to-Text | Updated37 minutes ago | [Link](https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot) |
+| 56 | Unknown | PocketAiHub/Qwen3 | Updatedabout 11 hours ago | [Link](https://huggingface.co/PocketAiHub/Qwen3.8-27B-Abliterated-MLX) |
 
 ## Image-to-3D
 
@@ -5976,6 +5977,7 @@ Updated on 2026-08-16
 | Updatedabout 21 hours ago | 21 | guidelabs/steerling-8bText | 8B | [Link](https://huggingface.co/guidelabs/steerling-8b) |
 | 907 | 21 | FINAL-Bench/Darwin-4B-DavidText | Updated4 days ago | [Link](https://huggingface.co/FINAL-Bench/Darwin-4B-David) |
 | Updatedabout 11 hours ago | 21 | unsloth/DeepSeek-V4-ProText | 862B | [Link](https://huggingface.co/unsloth/DeepSeek-V4-Pro) |
+| Updatedabout 22 hours ago | 21.2k | esatapedico/Qwen3 | 0.5B | [Link](https://huggingface.co/esatapedico/Qwen3.8-27B-NVFP4-MTP-GGUF) |
 | 335 | 20 | google/txgemma-27b-chatText | Updated2 days ago | [Link](https://huggingface.co/google/txgemma-27b-chat) |
 | 473 | 20 | google/txgemma-9b-chatText | Updated4 days ago | [Link](https://huggingface.co/google/txgemma-9b-chat) |
 | 15 | 20 | Intelligent-Internet/II-Medical-8B-1706Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/Intelligent-Internet/II-Medical-8B-1706) |
@@ -7843,6 +7845,7 @@ Updated on 2026-08-16
 | Updatedabout 6 hours ago | 3 | ChrisColeTech/minimax-h3-turbo-GGUFText-to-Video | 20B | [Link](https://huggingface.co/ChrisColeTech/minimax-h3-turbo-GGUF) |
 | 230 | 3 | BennyDaBall/LTX-2 | Updated2 days ago | [Link](https://huggingface.co/BennyDaBall/LTX-2.5-22b-distilled-nvfp4-comfy) |
 | 13 | 3 | TheDivergentAI/ltx25-turbo-distill-loraText-to-Video | Updated1 day ago | [Link](https://huggingface.co/TheDivergentAI/ltx25-turbo-distill-lora) |
+| 15 | 3 | PocketAiHub/LTX-2 | Updated1 day ago | [Link](https://huggingface.co/PocketAiHub/LTX-2.5-MLX) |
 | 69 | 2 | obvious-research/onlyflowText-to-Video | Updated5 days ago | [Link](https://huggingface.co/obvious-research/onlyflow) |
 | 42 | 2 | jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIEText-to-Video | Updated7 days ago | [Link](https://huggingface.co/jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIE) |
 | 10 | 2 | vdo/Hotshot-XLText-to-Video | UpdatedOct 4, 2023 | [Link](https://huggingface.co/vdo/Hotshot-XL) |
@@ -8135,6 +8138,7 @@ Updated on 2026-08-16
 | 4 | Unknown | Winnougan/ltx-2 | Updatedabout 12 hours ago | [Link](https://huggingface.co/Winnougan/ltx-2.5-w4a8-convrot-int4-convrot-Winnougan-Blessing) |
 | 4 | Unknown | SII-YuanyangYin/EvokeText-to-Video | Updated1 day ago | [Link](https://huggingface.co/SII-YuanyangYin/Evoke) |
 | 4 | Unknown | AlayaLab/EvokeText-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/AlayaLab/Evoke) |
+| 4 | Unknown | SOLRICKS/ltx-2-5-t2v-i2v-audio-comfyui-workflowText-to-Video | Updated1 day ago | [Link](https://huggingface.co/SOLRICKS/ltx-2-5-t2v-i2v-audio-comfyui-workflow) |
 
 ## Text2Text Generation
 
