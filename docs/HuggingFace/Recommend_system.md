@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-08-16
+Updated on 2026-08-17
 
 > Generated from the Hugging Face database.
 
@@ -108,6 +108,7 @@ Updated on 2026-08-16
 | Updatedabout 9 hours ago | 60 | armand0e/gemma-4-E2B-it-Claude-Opus-DistillAny-to-Any | 5B | [Link](https://huggingface.co/armand0e/gemma-4-E2B-it-Claude-Opus-Distill) |
 | Updated24 days ago | 59 | DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-balancedAny-to-Any | 4B | [Link](https://huggingface.co/DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-balanced) |
 | UpdatedApr 17, 2025 | 59 | OddTheGreat/Meteor_4B_V | 4B | [Link](https://huggingface.co/OddTheGreat/Meteor_4B_V.1) |
+| Updated22 days ago | 57.1k | ggml-org/gemma-4-E4B-it-GGUFAny-to-Any | 8B | [Link](https://huggingface.co/ggml-org/gemma-4-E4B-it-GGUF) |
 | UpdatedMay 12 | 55.1k | unsloth/gemma-3-4b-it-unsloth-bnb-4bitAny-to-Any | 3B | [Link](https://huggingface.co/unsloth/gemma-3-4b-it-unsloth-bnb-4bit) |
 | Updated1 day ago | 55 | huihui-ai/Huihui-gemma-4-31B-it-qat-q4_0-unquantized-abliteratedAny-to-Any | 33B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-31B-it-qat-q4_0-unquantized-abliterated) |
 | Updated1 day ago | 53 | cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-4bitAny-to-Any | 6B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Thinking-AWQ-4bit) |
@@ -2554,6 +2555,7 @@ Updated on 2026-08-16
 | Updated1 day ago | 1.37k | internlm/Intern-S2-Preview-FP8Image-Text-to-Text | 36B | [Link](https://huggingface.co/internlm/Intern-S2-Preview-FP8) |
 | Updated1 day ago | 1.14k | empero-ai/Qwythos-9B-v2-GGUFImage-Text-to-Text | 9B | [Link](https://huggingface.co/empero-ai/Qwythos-9B-v2-GGUF) |
 | Updated5 days ago | 1.98k | moondream/moondream3 | 9B | [Link](https://huggingface.co/moondream/moondream3.1-9B-A2B) |
+| Updated1 day ago | 1.41k | gittensor-model-hub/Qwen3 | 15B | [Link](https://huggingface.co/gittensor-model-hub/Qwen3.8-27B-NVFP4-RTX5090) |
 | 1.07M |  | meta-llama/Llama-3 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) |
 | 1.49M |  | Qwen/Qwen2-VL-7B-InstructImage-Text-to-Text | Updated19 days ago | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) |
 | 288k |  | microsoft/Phi-3 | UpdatedSep 26, 2024 | [Link](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) |
@@ -3759,6 +3761,7 @@ Updated on 2026-08-16
 | 14 | 1 | PaddlePaddle/PicoDet-S_layout_3clsImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PicoDet-S_layout_3cls) |
 | 96 | 1 | PaddlePaddle/te_PP-OCRv5_mobile_recImage-to-Text | UpdatedOct 16, 2025 | [Link](https://huggingface.co/PaddlePaddle/te_PP-OCRv5_mobile_rec) |
 | 26 | 1 | tieubaoca/pp-ocrv6-medium-rec-vietnameseImage-to-Text | Updated10 days ago | [Link](https://huggingface.co/tieubaoca/pp-ocrv6-medium-rec-vietnamese) |
+| 278 | 1 | PaddlePaddle/PP-DocLayout-SImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PP-DocLayout-S) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -5604,6 +5607,7 @@ Updated on 2026-08-16
 | 966 | 82 | ServiceNow-AI/Apriel-Nemotron-15b-ThinkerText | Updatedabout 5 hours ago | [Link](https://huggingface.co/ServiceNow-AI/Apriel-Nemotron-15b-Thinker) |
 | Updated1 day ago | 82 | kakaocorp/kanana-2-30b-a3b-instruct-2601Text | 31B | [Link](https://huggingface.co/kakaocorp/kanana-2-30b-a3b-instruct-2601) |
 | Updatedabout 2 hours ago | 81 | stepfun-ai/step3Text | 321B | [Link](https://huggingface.co/stepfun-ai/step3) |
+| Updatedabout 1 hour ago | 81.7k | 0bserverx/Qwen3 | 27B | [Link](https://huggingface.co/0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF) |
 | Updatedabout 9 hours ago | 80 | sarvamai/sarvam-105bText | 106B | [Link](https://huggingface.co/sarvamai/sarvam-105b) |
 | Updatedabout 20 hours ago | 80 | prism-ml/Bonsai-8B-ggufText | 8B | [Link](https://huggingface.co/prism-ml/Bonsai-8B-gguf) |
 | Updatedabout 2 hours ago | 80 | JetBrains/Mellum2-12B-A2 | 12B | [Link](https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking) |
@@ -7846,6 +7850,7 @@ Updated on 2026-08-16
 | 230 | 3 | BennyDaBall/LTX-2 | Updated2 days ago | [Link](https://huggingface.co/BennyDaBall/LTX-2.5-22b-distilled-nvfp4-comfy) |
 | 13 | 3 | TheDivergentAI/ltx25-turbo-distill-loraText-to-Video | Updated1 day ago | [Link](https://huggingface.co/TheDivergentAI/ltx25-turbo-distill-lora) |
 | 15 | 3 | PocketAiHub/LTX-2 | Updated1 day ago | [Link](https://huggingface.co/PocketAiHub/LTX-2.5-MLX) |
+| 246 | 3 | mlx-community/ltx-2 | Updated3 days ago | [Link](https://huggingface.co/mlx-community/ltx-2.5-mlx) |
 | 69 | 2 | obvious-research/onlyflowText-to-Video | Updated5 days ago | [Link](https://huggingface.co/obvious-research/onlyflow) |
 | 42 | 2 | jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIEText-to-Video | Updated7 days ago | [Link](https://huggingface.co/jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIE) |
 | 10 | 2 | vdo/Hotshot-XLText-to-Video | UpdatedOct 4, 2023 | [Link](https://huggingface.co/vdo/Hotshot-XL) |
@@ -8139,6 +8144,8 @@ Updated on 2026-08-16
 | 4 | Unknown | SII-YuanyangYin/EvokeText-to-Video | Updated1 day ago | [Link](https://huggingface.co/SII-YuanyangYin/Evoke) |
 | 4 | Unknown | AlayaLab/EvokeText-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/AlayaLab/Evoke) |
 | 4 | Unknown | SOLRICKS/ltx-2-5-t2v-i2v-audio-comfyui-workflowText-to-Video | Updated1 day ago | [Link](https://huggingface.co/SOLRICKS/ltx-2-5-t2v-i2v-audio-comfyui-workflow) |
+| 6 | Unknown | siraxe/3d_to_real_detail_slider_H3Text-to-Video | Updatedabout 14 hours ago | [Link](https://huggingface.co/siraxe/3d_to_real_detail_slider_H3) |
+| 5 | Unknown | SpXMerlin1D/MiniMaxH3-CondBridge-Qwen3 | Updatedabout 12 hours ago | [Link](https://huggingface.co/SpXMerlin1D/MiniMaxH3-CondBridge-Qwen3.5-4B) |
 
 ## Text2Text Generation
 
