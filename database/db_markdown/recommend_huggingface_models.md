@@ -2257,6 +2257,7 @@ Updated on 2026-08-17
 | 10 | 25 | openfree/Gemma-3-R1984-27B-Q4_K_M-GGUFImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/openfree/Gemma-3-R1984-27B-Q4_K_M-GGUF) |
 | 66 | 25 | google/gemma-3-4b-it-qat-q4_0-ggufImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/google/gemma-3-4b-it-qat-q4_0-gguf) |
 | Updatedabout 8 hours ago | 25 | LiquidAI/LFM2-VL-450MImage-Text-to-Text | 0.5B | [Link](https://huggingface.co/LiquidAI/LFM2-VL-450M) |
+| Updated3 days ago | 25.5k | mlx-community/Qwen3 | 5B | [Link](https://huggingface.co/mlx-community/Qwen3.8-27B-4bit) |
 | 280 | 24 | google/paligemma2-28b-mix-448Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-28b-mix-448) |
 | 667 | 24 | nvidia/Eagle2-2BImage-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/nvidia/Eagle2-2B) |
 | Updatedabout 4 hours ago | 24 | Hcompany/Holo1 | 8B | [Link](https://huggingface.co/Hcompany/Holo1.5-7B) |
@@ -3878,6 +3879,7 @@ Updated on 2026-08-17
 | 1 | Unknown | BDRC/Bod_uchen_tesseractImage-to-Text | UpdatedJun 1 | [Link](https://huggingface.co/BDRC/Bod_uchen_tesseract) |
 | 1 | Unknown | EdisonScientific/OCSRGlyphImage-to-Text | Updated19 days ago | [Link](https://huggingface.co/EdisonScientific/OCSRGlyph) |
 | 2 | Unknown | ctogaurav/GLM_OCRImage-to-Text | Updated7 days ago | [Link](https://huggingface.co/ctogaurav/GLM_OCR) |
+| 4 | Unknown | xberg-io/paddleocr-onnx-modelsImage-to-Text | Updated12 days ago | [Link](https://huggingface.co/xberg-io/paddleocr-onnx-models) |
 
 ## Image-to-Video
 
@@ -5768,6 +5770,7 @@ Updated on 2026-08-17
 | Updated18 days ago | 38 | DMindAI/DMind-3Text | 21B | [Link](https://huggingface.co/DMindAI/DMind-3) |
 | Updatedabout 20 hours ago | 38 | prism-ml/Bonsai-8B-mlx-1bitText | 0.4B | [Link](https://huggingface.co/prism-ml/Bonsai-8B-mlx-1bit) |
 | Updatedabout 9 hours ago | 38 | 0xSero/gemma-4-21b-a4b-it-REAPText | 21B | [Link](https://huggingface.co/0xSero/gemma-4-21b-a4b-it-REAP) |
+| Updated1 day ago | 38.5k | RadixArk/Qwen3 | 1B | [Link](https://huggingface.co/RadixArk/Qwen3.8-27B-DSpark) |
 | 125 | 37 | microsoft/Phi-4-mini-instructText | Updatedabout 2 hours ago | [Link](https://huggingface.co/microsoft/Phi-4-mini-instruct) |
 | Updatedabout 13 hours ago | 37 | Tesslate/UIGEN-X-32B-0727Text | 0.0B | [Link](https://huggingface.co/Tesslate/UIGEN-X-32B-0727) |
 | Updated1 day ago | 37 | Shekswess/trlm-135mText | 0.1B | [Link](https://huggingface.co/Shekswess/trlm-135m) |
@@ -7797,6 +7800,7 @@ Updated on 2026-08-17
 | Updated13 days ago | 8 | Real-Alex-Dan/Amina-AI-StudioText-to-Video | 9B | [Link](https://huggingface.co/Real-Alex-Dan/Amina-AI-Studio) |
 | 5.9k | 7 | SVECTOR-CORPORATION/Spectro-2BText-to-Video | UpdatedDec 25, 2024 | [Link](https://huggingface.co/SVECTOR-CORPORATION/Spectro-2B) |
 | 15 | 7 | DREX-Institute/potat1 | UpdatedJun 8, 2023 | [Link](https://huggingface.co/DREX-Institute/potat1.pth) |
+| 49 | 7 | Jojocodex/minimax-h3-spatial-physics-loraText-to-Video | Updatedabout 12 hours ago | [Link](https://huggingface.co/Jojocodex/minimax-h3-spatial-physics-lora) |
 | 863 | 6 | guoyww/animatediff-motion-adapter-v1-5-3Text-to-Video | UpdatedJul 8, 2024 | [Link](https://huggingface.co/guoyww/animatediff-motion-adapter-v1-5-3) |
 | 184 | 6 | BAAI/nova-d48w1024-osp480Text-to-Video | UpdatedDec 21, 2024 | [Link](https://huggingface.co/BAAI/nova-d48w1024-osp480) |
 | 6.29k | 6 | guoyww/animatediff-motion-lora-zoom-outText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-zoom-out) |
