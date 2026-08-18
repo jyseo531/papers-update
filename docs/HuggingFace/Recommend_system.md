@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-08-17
+Updated on 2026-08-18
 
 > Generated from the Hugging Face database.
 
@@ -3200,6 +3200,7 @@ Updated on 2026-08-17
 | 7 | Unknown | WarmBloodAban/Krea2_Anything2RealCharacters-V2Image-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/WarmBloodAban/Krea2_Anything2RealCharacters-V2) |
 | 10 | Unknown | StabilityLabs/Stable-LayersImage-to-Image | Updated19 days ago | [Link](https://huggingface.co/StabilityLabs/Stable-Layers) |
 | 3 | Unknown | DraconicDragon/NAFNet-VAE-DeGridImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/DraconicDragon/NAFNet-VAE-DeGrid) |
+| 7 | Unknown | PoopMan333/H3_Character_Sheet_GeneratorImage-to-Image | Updated26 minutes ago | [Link](https://huggingface.co/PoopMan333/H3_Character_Sheet_Generator) |
 
 ## Image-to-Text
 
@@ -5746,6 +5747,7 @@ Updated on 2026-08-17
 | Updatedabout 2 hours ago | 41 | Intelligent-Internet/II-Search-4BText | 4B | [Link](https://huggingface.co/Intelligent-Internet/II-Search-4B) |
 | Updated4 days ago | 41 | nvidia/Nemotron-Elastic-12BText | 12B | [Link](https://huggingface.co/nvidia/Nemotron-Elastic-12B) |
 | Updatedabout 17 hours ago | 41 | baichuan-inc/Baichuan-M3-235BText | 235B | [Link](https://huggingface.co/baichuan-inc/Baichuan-M3-235B) |
+| Updatedabout 11 hours ago | 41.9k | bloomer010/Ling-3 | 8B | [Link](https://huggingface.co/bloomer010/Ling-3.0-tiny-GGUF) |
 | 3 | 40 | MiniMaxAI/MiniMax-M1-40kText | Updatedabout 10 hours ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M1-40k) |
 | Updated2 days ago | 40 | Tesslate/UIGEN-X-8BText | 8B | [Link](https://huggingface.co/Tesslate/UIGEN-X-8B) |
 | Updatedabout 3 hours ago | 40 | MachineLearningLM/MachineLearningLM-7B-v1Text | 8B | [Link](https://huggingface.co/MachineLearningLM/MachineLearningLM-7B-v1) |
@@ -7790,9 +7792,11 @@ Updated on 2026-08-17
 | 141 | 12 | finetrainers/pika-dissolve-v0Text-to-Video | UpdatedJan 16 | [Link](https://huggingface.co/finetrainers/pika-dissolve-v0) |
 | 53 | 11 | lucataco/hunyuan-musubi-lora-heygen-6Text-to-Video | UpdatedJan 13 | [Link](https://huggingface.co/lucataco/hunyuan-musubi-lora-heygen-6) |
 | 471 | 11 | Skywork/SkyReels-V2-DF-14B-540PText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-DF-14B-540P) |
+| 67 | 11 | Jojocodex/minimax-h3-yunjing-loraText-to-Video | Updated1 day ago | [Link](https://huggingface.co/Jojocodex/minimax-h3-yunjing-lora) |
 | 23 | 10 | APRIL-AIGC/T3-VideoText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/APRIL-AIGC/T3-Video) |
 | 363 | 9 | Skywork/SkyReels-V2-T2V-14B-540PText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-T2V-14B-540P) |
 | 96 | 9 | Scrappy-Doo/LTX_2 | Updated5 days ago | [Link](https://huggingface.co/Scrappy-Doo/LTX_2.3_Pixar_Toon_Style_LoRa) |
+| 50 | 9 | Jojocodex/minimax-h3-wushu-action-loraText-to-Video | Updated1 day ago | [Link](https://huggingface.co/Jojocodex/minimax-h3-wushu-action-lora) |
 | 638 | 8 | calcuis/mochiText-to-Video | Updated22 days ago | [Link](https://huggingface.co/calcuis/mochi) |
 | 123k | 8 | guoyww/animatediff-motion-lora-zoom-inText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-zoom-in) |
 | 680 | 8 | a-r-r-o-w/LTX-Video-0 | UpdatedMar 18 | [Link](https://huggingface.co/a-r-r-o-w/LTX-Video-0.9.1-diffusers) |
@@ -7827,6 +7831,7 @@ Updated on 2026-08-17
 | 475 | 4 | linoyts/ltx2 | Updated19 days ago | [Link](https://huggingface.co/linoyts/ltx2.3-ic-lora-ingredients-multishot) |
 | Updatedabout 13 hours ago | 4 | realrebelai/LTX-2 | 21B | [Link](https://huggingface.co/realrebelai/LTX-2.5_GGUFs) |
 | 7.99k | 4 | rzgar/minimax_h3_fl2v_lightx2v_4step_int8-convrot_comfyText-to-Video | Updated1 day ago | [Link](https://huggingface.co/rzgar/minimax_h3_fl2v_lightx2v_4step_int8-convrot_comfy) |
+| 61 | 4 | siraxe/Venom_transformation_H3Text-to-Video | Updated7 days ago | [Link](https://huggingface.co/siraxe/Venom_transformation_H3) |
 | 4.64k | 3 | guoyww/animatediff-motion-lora-pan-rightText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-pan-right) |
 | 28 | 3 | finetrainers/3dgs-v0Text-to-Video | UpdatedJan 29 | [Link](https://huggingface.co/finetrainers/3dgs-v0) |
 | 1 | 3 | longlian/text-to-video-lvd-msText-to-Video | UpdatedMay 1, 2024 | [Link](https://huggingface.co/longlian/text-to-video-lvd-ms) |
