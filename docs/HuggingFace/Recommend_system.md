@@ -2899,6 +2899,7 @@ Updated on 2026-08-18
 | 44 | 4 | jdopensource/JoyAI-Image-Edit-Plus-DiffusersImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/jdopensource/JoyAI-Image-Edit-Plus-Diffusers) |
 | 2.34k | 4 | darknight9121/FLUX | Updated5 days ago | [Link](https://huggingface.co/darknight9121/FLUX.2-klein-base-9B-bucket-uncensored) |
 | 14 | 4 | Motif-Technologies/motif-vaeImage-to-Image | Updated19 days ago | [Link](https://huggingface.co/Motif-Technologies/motif-vae) |
+| 85 | 4 | Wuli-art/Gemma-4-for-Qwen-Image-Edit-2511-Prompt-ExtendImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/Wuli-art/Gemma-4-for-Qwen-Image-Edit-2511-Prompt-Extend) |
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
@@ -6098,6 +6099,7 @@ Updated on 2026-08-18
 | Updatedabout 20 hours ago | 10 | lordx64/Qwable-v1Text | 36B | [Link](https://huggingface.co/lordx64/Qwable-v1) |
 | Updated6 days ago | 10.4k | lordx64/Qwable-v1-GGUFText | 35B | [Link](https://huggingface.co/lordx64/Qwable-v1-GGUF) |
 | Updated5 days ago | 10.4k | AEON-7/Ornith-1 | 21B | [Link](https://huggingface.co/AEON-7/Ornith-1.0-35B-AEON-Ultimate-Uncensored-NVFP4) |
+| Updated1 day ago | 10.9k | soyaakinohara/qwen3 | 27B | [Link](https://huggingface.co/soyaakinohara/qwen3.8-27b-abliterated-3.69bpw-12GB-MTP.gguf) |
 | Updatedabout 4 hours ago | 9 | meituan-longcat/LongCat-Flash-ChatText | 562B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Chat) |
 | Updatedabout 7 hours ago | 9 | facebook/MobileLLM-R1-950MText | 0.9B | [Link](https://huggingface.co/facebook/MobileLLM-R1-950M) |
 | Updatedabout 5 hours ago | 9 | Zyphra/ZAYA1-baseText | 9B | [Link](https://huggingface.co/Zyphra/ZAYA1-base) |
