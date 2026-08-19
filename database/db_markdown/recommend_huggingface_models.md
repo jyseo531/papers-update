@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-08-18
+Updated on 2026-08-19
 
 > Generated from the Hugging Face database.
 
@@ -3245,6 +3245,7 @@ Updated on 2026-08-18
 | UpdatedSep 6, 2023 | 382 | google/pix2struct-largeImage-to-Text | 1B | [Link](https://huggingface.co/google/pix2struct-large) |
 | UpdatedJun 22 | 377 | SandLogicTechnologies/chandra-ocr-2-GGUFImage-to-Text | 5B | [Link](https://huggingface.co/SandLogicTechnologies/chandra-ocr-2-GGUF) |
 | UpdatedMar 20 | 369 | docling-project/ChemicalOCRImage-to-Text | 0.3B | [Link](https://huggingface.co/docling-project/ChemicalOCR) |
+| UpdatedMay 23 | 360 | torchsnow/Ministral-3-8B-Uncensored-Q5_K_S-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/torchsnow/Ministral-3-8B-Uncensored-Q5_K_S-GGUF) |
 | UpdatedJan 29 | 335 | StanfordAIMI/CheXagent-2-3b-srrg-findingsImage-to-Text | 3B | [Link](https://huggingface.co/StanfordAIMI/CheXagent-2-3b-srrg-findings) |
 | Updated14 days ago | 332 | PatSnap/Hiro-MOSS-OCR-0 | 0.3B | [Link](https://huggingface.co/PatSnap/Hiro-MOSS-OCR-0.3B) |
 | UpdatedJul 18 | 323 | loay/ArabicOCR-Qwen2 | 8B | [Link](https://huggingface.co/loay/ArabicOCR-Qwen2.5-VL-7B-Vision) |
@@ -3765,6 +3766,7 @@ Updated on 2026-08-18
 | 96 | 1 | PaddlePaddle/te_PP-OCRv5_mobile_recImage-to-Text | UpdatedOct 16, 2025 | [Link](https://huggingface.co/PaddlePaddle/te_PP-OCRv5_mobile_rec) |
 | 26 | 1 | tieubaoca/pp-ocrv6-medium-rec-vietnameseImage-to-Text | Updated10 days ago | [Link](https://huggingface.co/tieubaoca/pp-ocrv6-medium-rec-vietnamese) |
 | 278 | 1 | PaddlePaddle/PP-DocLayout-SImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PP-DocLayout-S) |
+| 47 | 1 | kk9293/guitar-tab-omrImage-to-Text | UpdatedMay 23 | [Link](https://huggingface.co/kk9293/guitar-tab-omr) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
