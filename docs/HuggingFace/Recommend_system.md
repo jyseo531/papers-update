@@ -2935,6 +2935,7 @@ Updated on 2026-08-19
 |  | 3 | ovi054/QIE-2511-Draw2Photo-LoRAImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/ovi054/QIE-2511-Draw2Photo-LoRA) |
 | 79 | 3 | internlm/ETCHR-FLUX | Updated1 day ago | [Link](https://huggingface.co/internlm/ETCHR-FLUX.2-klein-9B) |
 | 44 | 3 | rimochan/RUM-FLUX | Updated5 days ago | [Link](https://huggingface.co/rimochan/RUM-FLUX.2-klein-4B) |
+| 30 | 3 | BennyDaBall/PiD-1 | Updated2 days ago | [Link](https://huggingface.co/BennyDaBall/PiD-1.5-qwenimage-nvfp4-comfy) |
 | 67 | 2 | SherryXTChen/InstructCLIP-InstructPix2PixImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/SherryXTChen/InstructCLIP-InstructPix2Pix) |
 | 17 | 2 | SherryXTChen/Instruct-CLIPImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/SherryXTChen/Instruct-CLIP) |
 | 76 | 2 | VisualCloze/VisualClozePipeline-384Image-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/VisualCloze/VisualClozePipeline-384) |
@@ -6282,6 +6283,7 @@ Updated on 2026-08-19
 | Updatedabout 8 hours ago | 1.17k | FermionResearch/Neutrino-8BText | 8B | [Link](https://huggingface.co/FermionResearch/Neutrino-8B) |
 | Updated1 day ago | 1.25k | badtheorylabs/BTL-4-CompactText | 35B | [Link](https://huggingface.co/badtheorylabs/BTL-4-Compact) |
 | Updated5 days ago | 1.65k | SupraLabs/Supra2-100M-InstructText | 0.1B | [Link](https://huggingface.co/SupraLabs/Supra2-100M-Instruct) |
+| Updatedabout 10 hours ago | 1.48k | incoai/Qwen3 | 2B | [Link](https://huggingface.co/incoai/Qwen3.8-27B-DFlash2) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -7791,6 +7793,7 @@ Updated on 2026-08-19
 | 3.74k | 17 | calcuis/hyvidText-to-Video | Updated24 days ago | [Link](https://huggingface.co/calcuis/hyvid) |
 | Updatedabout 1 hour ago | 15 | burakkizil/LAMP-editText-to-Video | 8B | [Link](https://huggingface.co/burakkizil/LAMP-edit) |
 | 24.6k | 15 | rockerBOO/minimax-h3-nvfp4-convrotText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/rockerBOO/minimax-h3-nvfp4-convrot) |
+|  | 15 | mvp-lab/MiniMax-H3-RAVEN-Streaming-LoRAText-to-Video | Updatedabout 12 hours ago | [Link](https://huggingface.co/mvp-lab/MiniMax-H3-RAVEN-Streaming-LoRA) |
 | 189 | 14 | showlab/show-1-baseText-to-Video | UpdatedOct 12, 2023 | [Link](https://huggingface.co/showlab/show-1-base) |
 | Updatedabout 2 hours ago | 14 | Abiray/MiniMax-H3-GGUFText-to-Video | 33B | [Link](https://huggingface.co/Abiray/MiniMax-H3-GGUF) |
 | 141 | 12 | finetrainers/pika-dissolve-v0Text-to-Video | UpdatedJan 16 | [Link](https://huggingface.co/finetrainers/pika-dissolve-v0) |
