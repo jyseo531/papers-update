@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-08-19
+Updated on 2026-08-20
 
 > Generated from the Hugging Face database.
 
@@ -2082,6 +2082,7 @@ Updated on 2026-08-19
 | Updatedabout 14 hours ago | 156 | Qwen/Qwen3-VL-4B-InstructImage-Text-to-Text | 4B | [Link](https://huggingface.co/Qwen/Qwen3-VL-4B-Instruct) |
 | 3.21k | 154 | bytedance-research/UI-TARS-7B-SFTImage-Text-to-Text | UpdatedJan 25 | [Link](https://huggingface.co/bytedance-research/UI-TARS-7B-SFT) |
 | Updatedabout 20 hours ago | 152 | prithivMLmods/Qwen3-VL-8B-Abliterated-Caption-itImage-Text-to-Text | 9B | [Link](https://huggingface.co/prithivMLmods/Qwen3-VL-8B-Abliterated-Caption-it) |
+| Updated1 day ago | 152 | tencent/UI-Mate-27BImage-Text-to-Text | 3.05M | [Link](https://huggingface.co/tencent/UI-Mate-27B) |
 | 98.7k | 146 | deepseek-ai/deepseek-vl2-tinyImage-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2-tiny) |
 | 30.2k | 145 | bytedance-research/UI-TARS-7B-DPOImage-Text-to-Text | UpdatedJan 25 | [Link](https://huggingface.co/bytedance-research/UI-TARS-7B-DPO) |
 | 38.6k | 144 | deepseek-ai/deepseek-vl2-smallImage-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2-small) |
@@ -2185,6 +2186,7 @@ Updated on 2026-08-19
 | Updated6 days ago | 43 | allura-org/Luna-27B-v0Image-Text-to-Text | 27B | [Link](https://huggingface.co/allura-org/Luna-27B-v0) |
 | Updated5 days ago | 43.2k | zaakirio/gemma-4-12b-it-uncensored-GGUFImage-Text-to-Text | 12B | [Link](https://huggingface.co/zaakirio/gemma-4-12b-it-uncensored-GGUF) |
 | Updatedabout 1 hour ago | 43 | unsloth/inkling-GGUFImage-Text-to-Text | 947B | [Link](https://huggingface.co/unsloth/inkling-GGUF) |
+| Updated4 days ago | 43.1k | lued/Qwen3 | 28B | [Link](https://huggingface.co/lued/Qwen3.8-27B-INT8-W8A16-MTP) |
 | Updatedabout 11 hours ago | 41 | OpenGVLab/InternVL3_5-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-4B) |
 | Updated7 days ago | 41.4k | huihui-ai/Huihui-Qwen3-VL-32B-Instruct-abliteratedImage-Text-to-Text | 33B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3-VL-32B-Instruct-abliterated) |
 | Updatedabout 9 hours ago | 41 | stepfun-ai/Step3-VL-10B-BaseImage-Text-to-Text | 10B | [Link](https://huggingface.co/stepfun-ai/Step3-VL-10B-Base) |
@@ -3380,6 +3382,7 @@ Updated on 2026-08-19
 | 7.54k | 36 | breezedeus/pix2text-mfrImage-to-Text | UpdatedMay 5, 2024 | [Link](https://huggingface.co/breezedeus/pix2text-mfr) |
 | Updated1 day ago | 36 | helizac/dots | 2B | [Link](https://huggingface.co/helizac/dots.ocr-4bit) |
 | UpdatedJul 6, 2024 | 36 | medieval-data/trocr-medieval-printImage-to-Text | 0.3B | [Link](https://huggingface.co/medieval-data/trocr-medieval-print) |
+| Updated21 days ago | 36 | Hukyl/trocr-rukopysImage-to-Text | 0.3B | [Link](https://huggingface.co/Hukyl/trocr-rukopys) |
 | 42.7k | 35 | microsoft/trocr-small-printedImage-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-small-printed) |
 | UpdatedJan 11 | 35 | AdamCodd/donut-receipts-extractImage-to-Text | 0.2B | [Link](https://huggingface.co/AdamCodd/donut-receipts-extract) |
 | Updated11 days ago | 35 | Daniil-Domino/trocr-base-ru-dialecticImage-to-Text | 0.3B | [Link](https://huggingface.co/Daniil-Domino/trocr-base-ru-dialectic) |
@@ -5558,6 +5561,7 @@ Updated on 2026-08-19
 | Updated2 days ago | 117 | Muhammadreza/alduin-4b-it-baseText | 4B | [Link](https://huggingface.co/Muhammadreza/alduin-4b-it-base) |
 | Updatedabout 4 hours ago | 116 | tencent/Penguin-VL-8BText | 9B | [Link](https://huggingface.co/tencent/Penguin-VL-8B) |
 | Updatedabout 11 hours ago | 115 | mistralai/Devstral-Small-2507Text | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2507) |
+| Updatedabout 14 hours ago | 115 | ornith-ai/Ornith-1 | 36B | [Link](https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B) |
 | Updatedabout 11 hours ago | 114 | OBLITERATUS/gemma-4-E4B-it-OBLITERATEDText | 8B | [Link](https://huggingface.co/OBLITERATUS/gemma-4-E4B-it-OBLITERATED) |
 | Updated1 day ago | 113 | mlx-community/VibeThinker-1 | 0.2B | [Link](https://huggingface.co/mlx-community/VibeThinker-1.5B-mlx-4bit) |
 | Updatedabout 10 hours ago | 112 | nvidia/Qwen3-Nemotron-32B-RLBFFText | 33B | [Link](https://huggingface.co/nvidia/Qwen3-Nemotron-32B-RLBFF) |
@@ -5600,6 +5604,7 @@ Updated on 2026-08-19
 | 27.1k | 89 | google/gemma-3n-E4B-it-litert-lmText | Updated12 days ago | [Link](https://huggingface.co/google/gemma-3n-E4B-it-litert-lm) |
 | Updated3 days ago | 89 | Salesforce/CoDA-v0-InstructText | 2B | [Link](https://huggingface.co/Salesforce/CoDA-v0-Instruct) |
 | Updatedabout 12 hours ago | 89 | z-lab/gemma-4-31B-it-DFlashText | 2B | [Link](https://huggingface.co/z-lab/gemma-4-31B-it-DFlash) |
+| Updatedabout 11 hours ago | 89 | superwhisper/s1-miniText | 0.8B | [Link](https://huggingface.co/superwhisper/s1-mini) |
 | 420 | 88 | all-hands/openhands-lm-32b-v0 | Updatedabout 16 hours ago | [Link](https://huggingface.co/all-hands/openhands-lm-32b-v0.1) |
 | UpdatedDec 2, 2025 | 88.4k | RedHatAI/Qwen3-8B-speculator | 1B | [Link](https://huggingface.co/RedHatAI/Qwen3-8B-speculator.eagle3) |
 | 3.93k | 86 | PocketDoc/Dans-PersonalityEngine-V1 | Updated24 days ago | [Link](https://huggingface.co/PocketDoc/Dans-PersonalityEngine-V1.2.0-24b) |
@@ -8162,6 +8167,8 @@ Updated on 2026-08-19
 | 4 | Unknown | SOLRICKS/ltx-2-5-t2v-i2v-audio-comfyui-workflowText-to-Video | Updated1 day ago | [Link](https://huggingface.co/SOLRICKS/ltx-2-5-t2v-i2v-audio-comfyui-workflow) |
 | 6 | Unknown | siraxe/3d_to_real_detail_slider_H3Text-to-Video | Updatedabout 14 hours ago | [Link](https://huggingface.co/siraxe/3d_to_real_detail_slider_H3) |
 | 5 | Unknown | SpXMerlin1D/MiniMaxH3-CondBridge-Qwen3 | Updatedabout 12 hours ago | [Link](https://huggingface.co/SpXMerlin1D/MiniMaxH3-CondBridge-Qwen3.5-4B) |
+| 425 |  | Jojocodex/minimax-h3-Camera-Motion-loraText-to-Video | Updated16 minutes ago | [Link](https://huggingface.co/Jojocodex/minimax-h3-Camera-Motion-lora) |
+| 6 | Unknown | Smite79/MiniMax-H3-LongvideosText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/Smite79/MiniMax-H3-Longvideos) |
 
 ## Text2Text Generation
 
