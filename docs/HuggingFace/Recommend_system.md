@@ -7232,6 +7232,7 @@ Updated on 2026-08-20
 | 10.2k |  | Omnico/Krea2_turbo_diff_lorasText-to-Image | Updated2 days ago | [Link](https://huggingface.co/Omnico/Krea2_turbo_diff_loras) |
 | 5 | Unknown | RicemanT/Anima-TelescopaText-to-Image | Updated5 days ago | [Link](https://huggingface.co/RicemanT/Anima-Telescopa) |
 | 5 | Unknown | flurryman/kroma-v0 | Updated6 days ago | [Link](https://huggingface.co/flurryman/kroma-v0.2-turbo-fp8) |
+| 6 | Unknown | TenStrip/Krea2Zimage-CrossArch_Grafted_Model_DemoText-to-Image | Updatedabout 13 hours ago | [Link](https://huggingface.co/TenStrip/Krea2Zimage-CrossArch_Grafted_Model_Demo) |
 
 ## Text-to-Speech
 
@@ -8169,6 +8170,7 @@ Updated on 2026-08-20
 | 5 | Unknown | SpXMerlin1D/MiniMaxH3-CondBridge-Qwen3 | Updatedabout 12 hours ago | [Link](https://huggingface.co/SpXMerlin1D/MiniMaxH3-CondBridge-Qwen3.5-4B) |
 | 425 |  | Jojocodex/minimax-h3-Camera-Motion-loraText-to-Video | Updated16 minutes ago | [Link](https://huggingface.co/Jojocodex/minimax-h3-Camera-Motion-lora) |
 | 6 | Unknown | Smite79/MiniMax-H3-LongvideosText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/Smite79/MiniMax-H3-Longvideos) |
+| 4 | Unknown | joeygambino/joyai-echo-ltx25-echoVid-comfy-nativeText-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/joeygambino/joyai-echo-ltx25-echoVid-comfy-native) |
 
 ## Text2Text Generation
 
