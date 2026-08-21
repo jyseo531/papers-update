@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-08-20
+Updated on 2026-08-21
 
 > Generated from the Hugging Face database.
 
@@ -2305,6 +2305,7 @@ Updated on 2026-08-20
 | Updatedabout 8 hours ago | 17 | google/t5gemma-2-1b-1bImage-Text-to-Text | 2B | [Link](https://huggingface.co/google/t5gemma-2-1b-1b) |
 | Updatedabout 12 hours ago | 17 | google/translategemma-12b-itImage-Text-to-Text | 13B | [Link](https://huggingface.co/google/translategemma-12b-it) |
 | Updated1 day ago | 16.1k | bartowski/moonshotai_Kimi-K2 | 1T | [Link](https://huggingface.co/bartowski/moonshotai_Kimi-K2.5-GGUF) |
+| Updatedabout 2 hours ago | 16k | peculiar-ragdoll/Dirk-Qwen3 | 27B | [Link](https://huggingface.co/peculiar-ragdoll/Dirk-Qwen3.8-27B-GGUF) |
 | 14 | 15 | Sony/AKI-4B-phi-3 | Updated2 days ago | [Link](https://huggingface.co/Sony/AKI-4B-phi-3.5-mini) |
 | 1.82k | 15 | stepfun-ai/step3-fp8Image-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/stepfun-ai/step3-fp8) |
 | Updatedabout 7 hours ago | 15 | OpenGVLab/InternVL3_5-14BImage-Text-to-Text | 15B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-14B) |
@@ -6816,6 +6817,7 @@ Updated on 2026-08-20
 |  | 9 | mgwr/M87Text-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/mgwr/M87) |
 | Updatedabout 7 hours ago | 9 | bench-labs/PixelModel-v6Text-to-Image | 0.2B | [Link](https://huggingface.co/bench-labs/PixelModel-v6) |
 | 7 | 9 | jimmycarter/krea2-turbo-bboxText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/jimmycarter/krea2-turbo-bbox) |
+|  | 9 | lvladikov/Krea2-Turbo-Distill-4step-LoRAText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/lvladikov/Krea2-Turbo-Distill-4step-LoRA) |
 | 215 | 8 | tensorart/stable-diffusion-3 | Updated8 minutes ago | [Link](https://huggingface.co/tensorart/stable-diffusion-3.5-large-TurboX) |
 | 34 | 8 | renderartist/coloringbookhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/coloringbookhidream) |
 | 1.79k | 8 | MaxedOut/ComfyUI-Starter-PacksText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/MaxedOut/ComfyUI-Starter-Packs) |
@@ -6923,6 +6925,7 @@ Updated on 2026-08-20
 | 75 | 5 | SeeSee21/ERNIE-AIOText-to-Image | Updated4 days ago | [Link](https://huggingface.co/SeeSee21/ERNIE-AIO) |
 | Updated16 days ago | 5 | RunDiffusion/Juggernaut-Z-Image-FastText-to-Image | 6B | [Link](https://huggingface.co/RunDiffusion/Juggernaut-Z-Image-Fast) |
 | UpdatedMay 2 | 5.86k | ponpoke/flux2-klein-4b-uncensored-text-encoderText-to-Image | 4B | [Link](https://huggingface.co/ponpoke/flux2-klein-4b-uncensored-text-encoder) |
+| 24 | 5 | Raxephion/Krea2-Serendipity-V2Text-to-Image | Updatedabout 17 hours ago | [Link](https://huggingface.co/Raxephion/Krea2-Serendipity-V2) |
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 46 | 4 | Sherwinroger002/fashion_mnist_diffusion_class_conditionalText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Sherwinroger002/fashion_mnist_diffusion_class_conditional) |
 | Updatedabout 1 hour ago | 4 | unsloth/Qwen-Image-2512-GGUFText-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-2512-GGUF) |
