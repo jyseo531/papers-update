@@ -7236,6 +7236,7 @@ Updated on 2026-08-21
 | 5 | Unknown | RicemanT/Anima-TelescopaText-to-Image | Updated5 days ago | [Link](https://huggingface.co/RicemanT/Anima-Telescopa) |
 | 5 | Unknown | flurryman/kroma-v0 | Updated6 days ago | [Link](https://huggingface.co/flurryman/kroma-v0.2-turbo-fp8) |
 | 6 | Unknown | TenStrip/Krea2Zimage-CrossArch_Grafted_Model_DemoText-to-Image | Updatedabout 13 hours ago | [Link](https://huggingface.co/TenStrip/Krea2Zimage-CrossArch_Grafted_Model_Demo) |
+| 17 | Unknown | UntMods/Krea2_Chars_LoRAText-to-Image | Updated16 days ago | [Link](https://huggingface.co/UntMods/Krea2_Chars_LoRA) |
 
 ## Text-to-Speech
 
@@ -8174,6 +8175,7 @@ Updated on 2026-08-21
 | 425 |  | Jojocodex/minimax-h3-Camera-Motion-loraText-to-Video | Updated16 minutes ago | [Link](https://huggingface.co/Jojocodex/minimax-h3-Camera-Motion-lora) |
 | 6 | Unknown | Smite79/MiniMax-H3-LongvideosText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/Smite79/MiniMax-H3-Longvideos) |
 | 4 | Unknown | joeygambino/joyai-echo-ltx25-echoVid-comfy-nativeText-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/joeygambino/joyai-echo-ltx25-echoVid-comfy-native) |
+| 3 | Unknown | FastVideo/FastMetal-1 | Updated1 day ago | [Link](https://huggingface.co/FastVideo/FastMetal-1.3B-QAD) |
 
 ## Text2Text Generation
 
