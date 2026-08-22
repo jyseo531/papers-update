@@ -2187,6 +2187,7 @@ Updated on 2026-08-22
 | Updated5 days ago | 43.2k | zaakirio/gemma-4-12b-it-uncensored-GGUFImage-Text-to-Text | 12B | [Link](https://huggingface.co/zaakirio/gemma-4-12b-it-uncensored-GGUF) |
 | Updatedabout 1 hour ago | 43 | unsloth/inkling-GGUFImage-Text-to-Text | 947B | [Link](https://huggingface.co/unsloth/inkling-GGUF) |
 | Updated4 days ago | 43.1k | lued/Qwen3 | 28B | [Link](https://huggingface.co/lued/Qwen3.8-27B-INT8-W8A16-MTP) |
+| Updated5 days ago | 42.1k | chimingw/Qwen3 | 27B | [Link](https://huggingface.co/chimingw/Qwen3.8-27B-Uncensored-OrcaRouter-GGUF) |
 | Updatedabout 11 hours ago | 41 | OpenGVLab/InternVL3_5-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-4B) |
 | Updated7 days ago | 41.4k | huihui-ai/Huihui-Qwen3-VL-32B-Instruct-abliteratedImage-Text-to-Text | 33B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3-VL-32B-Instruct-abliterated) |
 | Updatedabout 9 hours ago | 41 | stepfun-ai/Step3-VL-10B-BaseImage-Text-to-Text | 10B | [Link](https://huggingface.co/stepfun-ai/Step3-VL-10B-Base) |
