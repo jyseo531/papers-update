@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-08-21
+Updated on 2026-08-22
 
 > Generated from the Hugging Face database.
 
@@ -3206,6 +3206,7 @@ Updated on 2026-08-21
 | 10 | Unknown | StabilityLabs/Stable-LayersImage-to-Image | Updated19 days ago | [Link](https://huggingface.co/StabilityLabs/Stable-Layers) |
 | 3 | Unknown | DraconicDragon/NAFNet-VAE-DeGridImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/DraconicDragon/NAFNet-VAE-DeGrid) |
 | 7 | Unknown | PoopMan333/H3_Character_Sheet_GeneratorImage-to-Image | Updated26 minutes ago | [Link](https://huggingface.co/PoopMan333/H3_Character_Sheet_Generator) |
+| 5 | Unknown | joyfox/SenseNova-U1 | Updatedabout 12 hours ago | [Link](https://huggingface.co/joyfox/SenseNova-U1.5-8B-MoT-FP8) |
 
 ## Image-to-Text
 
@@ -7237,6 +7238,7 @@ Updated on 2026-08-21
 | 5 | Unknown | flurryman/kroma-v0 | Updated6 days ago | [Link](https://huggingface.co/flurryman/kroma-v0.2-turbo-fp8) |
 | 6 | Unknown | TenStrip/Krea2Zimage-CrossArch_Grafted_Model_DemoText-to-Image | Updatedabout 13 hours ago | [Link](https://huggingface.co/TenStrip/Krea2Zimage-CrossArch_Grafted_Model_Demo) |
 | 17 | Unknown | UntMods/Krea2_Chars_LoRAText-to-Image | Updated16 days ago | [Link](https://huggingface.co/UntMods/Krea2_Chars_LoRA) |
+| 6 | Unknown | t8star/SenseNova-U1 | Updatedabout 9 hours ago | [Link](https://huggingface.co/t8star/SenseNova-U1.5-Comfy) |
 
 ## Text-to-Speech
 
