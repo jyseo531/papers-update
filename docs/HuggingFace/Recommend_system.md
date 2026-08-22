@@ -3334,6 +3334,7 @@ Updated on 2026-08-22
 | Updated3 days ago | 76 | genshiai-daichi/baberu-ocrImage-to-Text | 0.1B | [Link](https://huggingface.co/genshiai-daichi/baberu-ocr) |
 | Updated11 days ago | 73 | nightmedia/UI-Venus-1 | 8B | [Link](https://huggingface.co/nightmedia/UI-Venus-1.5-30B-A3B-qx86-hi-mlx) |
 | 131 | 71 | keras-io/ocr-for-captchaImage-to-Text | UpdatedMay 29, 2022 | [Link](https://huggingface.co/keras-io/ocr-for-captcha) |
+| Updatedabout 8 hours ago | 71 | sorryhyun/anima-taggerImage-to-Text | 26.6M | [Link](https://huggingface.co/sorryhyun/anima-tagger) |
 | Updated5 days ago | 70 | virtuous7373/Lambent-Mira-EratoImage-to-Text | 27B | [Link](https://huggingface.co/virtuous7373/Lambent-Mira-Erato) |
 | Updated2 days ago | 70 | KrorngAI/TrorYongOCRImage-to-Text | 7.09M | [Link](https://huggingface.co/KrorngAI/TrorYongOCR) |
 | UpdatedSep 24, 2024 | 69 | impactframes/Qwen2-VL-7B-CaptionerImage-to-Text | 8B | [Link](https://huggingface.co/impactframes/Qwen2-VL-7B-Captioner) |
@@ -3615,6 +3616,7 @@ Updated on 2026-08-22
 | Updatedabout 9 hours ago | 3 | LoJexLLM/Unlimited-OCR-MLXImage-to-Text | 3B | [Link](https://huggingface.co/LoJexLLM/Unlimited-OCR-MLX) |
 | 33 | 3 | sensenova/SenseNova-Vision-7B-MoTImage-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/sensenova/SenseNova-Vision-7B-MoT) |
 | 19 | 3 | ekacare/parrotlet-v-lite-4bImage-to-Text | UpdatedJan 20 | [Link](https://huggingface.co/ekacare/parrotlet-v-lite-4b) |
+| 20 | 3 | factlogic/phoenix-arabic-manuscript-htrImage-to-Text | Updated1 day ago | [Link](https://huggingface.co/factlogic/phoenix-arabic-manuscript-htr) |
 | 51 | 2 | microsoft/git-base-msrvtt-qaImage-to-Text | UpdatedApr 4, 2024 | [Link](https://huggingface.co/microsoft/git-base-msrvtt-qa) |
 | 32 | 2 | baseplate/vit-gpt2-image-captioningImage-to-Text | UpdatedApr 5, 2023 | [Link](https://huggingface.co/baseplate/vit-gpt2-image-captioning) |
 | 38 | 2 | sbintuitions/sarashina2-vision-14bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-14b) |
@@ -3773,6 +3775,7 @@ Updated on 2026-08-22
 | 26 | 1 | tieubaoca/pp-ocrv6-medium-rec-vietnameseImage-to-Text | Updated10 days ago | [Link](https://huggingface.co/tieubaoca/pp-ocrv6-medium-rec-vietnamese) |
 | 278 | 1 | PaddlePaddle/PP-DocLayout-SImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PP-DocLayout-S) |
 | 47 | 1 | kk9293/guitar-tab-omrImage-to-Text | UpdatedMay 23 | [Link](https://huggingface.co/kk9293/guitar-tab-omr) |
+| 8 | 1 | UCSC-VLAA/openvision2-vit-large-patch14-336-vision-onlyImage-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/UCSC-VLAA/openvision2-vit-large-patch14-336-vision-only) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -6129,6 +6132,7 @@ Updated on 2026-08-22
 | Updated1 day ago | 8.3k | Inferact/Kimi-K3-DSparkText | 4B | [Link](https://huggingface.co/Inferact/Kimi-K3-DSpark) |
 | Updated6 days ago | 8.2k | ReadyArt/gemma-4-31B-it-scotoma-2-GGUFText | 31B | [Link](https://huggingface.co/ReadyArt/gemma-4-31B-it-scotoma-2-GGUF) |
 | Updatedabout 16 hours ago | 8.04k | AtomicChat/Qwen3 | 27B | [Link](https://huggingface.co/AtomicChat/Qwen3.8-27B-GGUF) |
+| Updatedabout 14 hours ago | 8.47k | outsourc-e/Qwen3 | 27B | [Link](https://huggingface.co/outsourc-e/Qwen3.8-27B-Unleashed-GGUF) |
 | Updated2 days ago | 7.65k | Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8) |
 | Updatedabout 4 hours ago | 7 | tencent/Hunyuan-7B-InstructText | 8B | [Link](https://huggingface.co/tencent/Hunyuan-7B-Instruct) |
 | Updated4 days ago | 7k | bartowski/cerebras_GLM-4 | 85B | [Link](https://huggingface.co/bartowski/cerebras_GLM-4.5-Air-REAP-82B-A12B-GGUF) |
@@ -6927,6 +6931,7 @@ Updated on 2026-08-22
 | Updated16 days ago | 5 | RunDiffusion/Juggernaut-Z-Image-FastText-to-Image | 6B | [Link](https://huggingface.co/RunDiffusion/Juggernaut-Z-Image-Fast) |
 | UpdatedMay 2 | 5.86k | ponpoke/flux2-klein-4b-uncensored-text-encoderText-to-Image | 4B | [Link](https://huggingface.co/ponpoke/flux2-klein-4b-uncensored-text-encoder) |
 | 24 | 5 | Raxephion/Krea2-Serendipity-V2Text-to-Image | Updatedabout 17 hours ago | [Link](https://huggingface.co/Raxephion/Krea2-Serendipity-V2) |
+| 272 | 5 | oron1208/OOO_ANIMA-29B-V10Text-to-Image | Updated1 day ago | [Link](https://huggingface.co/oron1208/OOO_ANIMA-29B-V10) |
 | 22 | 4 | AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliuText-to-Image | Updated6 days ago | [Link](https://huggingface.co/AlekseyCalvin/RealComic-Kontext_FluxLoRA_by_vjleoliu) |
 | 46 | 4 | Sherwinroger002/fashion_mnist_diffusion_class_conditionalText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Sherwinroger002/fashion_mnist_diffusion_class_conditional) |
 | Updatedabout 1 hour ago | 4 | unsloth/Qwen-Image-2512-GGUFText-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-2512-GGUF) |
@@ -8178,6 +8183,7 @@ Updated on 2026-08-22
 | 6 | Unknown | Smite79/MiniMax-H3-LongvideosText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/Smite79/MiniMax-H3-Longvideos) |
 | 4 | Unknown | joeygambino/joyai-echo-ltx25-echoVid-comfy-nativeText-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/joeygambino/joyai-echo-ltx25-echoVid-comfy-native) |
 | 3 | Unknown | FastVideo/FastMetal-1 | Updated1 day ago | [Link](https://huggingface.co/FastVideo/FastMetal-1.3B-QAD) |
+| 5 | Unknown | SOLRICKS/LTX-2-5-ComfyUI-WorkflowsText-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/SOLRICKS/LTX-2-5-ComfyUI-Workflows) |
 
 ## Text2Text Generation
 
