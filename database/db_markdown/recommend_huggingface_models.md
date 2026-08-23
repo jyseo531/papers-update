@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-08-22
+Updated on 2026-08-23
 
 > Generated from the Hugging Face database.
 
@@ -2768,6 +2768,7 @@ Updated on 2026-08-22
 | 8 | 31 | FireRedTeam/FireRed-Image-Edit-1 | Updatedabout 3 hours ago | [Link](https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0) |
 | 303 | 30 | lllyasviel/sd-controlnet-normalImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-normal) |
 | 3 | 30 | vllab/controlnet-handsImage-to-Image | UpdatedMay 19, 2023 | [Link](https://huggingface.co/vllab/controlnet-hands) |
+| 15.7k | 30 | WarmBloodAban/Krea2_Anything2RealCharactersImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/WarmBloodAban/Krea2_Anything2RealCharacters) |
 | 298 | 29 | ixarchakos/tryOffAnyoneImage-to-Image | UpdatedDec 13, 2024 | [Link](https://huggingface.co/ixarchakos/tryOffAnyone) |
 | 8.53k | 29 | lllyasviel/control_v11p_sd15_scribbleImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_scribble) |
 | 187 | 29 | briaai/Fibo-EditImage-to-Image | Updatedabout 16 hours ago | [Link](https://huggingface.co/briaai/Fibo-Edit) |
@@ -6738,6 +6739,7 @@ Updated on 2026-08-22
 | 2 | 20 | HiDream-ai/HiDream-I1-FullText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/HiDream-ai/HiDream-I1-Full) |
 | 8.81k | 20 | sd2-community/stable-diffusion-2-1Text-to-Image | UpdatedNov 15, 2025 | [Link](https://huggingface.co/sd2-community/stable-diffusion-2-1) |
 |  | 20 | ostris/krea2_turbo_style_referenceText-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/ostris/krea2_turbo_style_reference) |
+| 1.4k | 20 | Claquasse/Anima-Control-PoseText-to-Image | UpdatedJun 27 | [Link](https://huggingface.co/Claquasse/Anima-Control-Pose) |
 | 182 | 19 | GuangyuanSD/Z-Image-DistilledText-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/GuangyuanSD/Z-Image-Distilled) |
 | Updatedabout 4 hours ago | 19 | bench-labs/PixelModel-v2Text-to-Image | 200k | [Link](https://huggingface.co/bench-labs/PixelModel-v2) |
 |  | 18 | multimodalart/isometric-skeumorphic-3d-bnbText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/multimodalart/isometric-skeumorphic-3d-bnb) |
