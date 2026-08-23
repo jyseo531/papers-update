@@ -7839,6 +7839,7 @@ Updated on 2026-08-23
 | 504 | 5 | guoyww/animatediff-motion-lora-v1-5-3Text-to-Video | UpdatedJul 23, 2024 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-v1-5-3) |
 | 23 | 5 | robingg1/NAVAText-to-Video | Updatedabout 8 hours ago | [Link](https://huggingface.co/robingg1/NAVA) |
 | 101 | 5 | JunhaoZhuang/Self_Gradient_ForcingText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/JunhaoZhuang/Self_Gradient_Forcing) |
+| 99 | 5 | Efficient-Large-Model/SANA-Video_2 | Updatedabout 4 hours ago | [Link](https://huggingface.co/Efficient-Large-Model/SANA-Video_2.0_5B_720p) |
 | 56 | 4 | Skywork/SkyReels-V2-DF-14B-720PText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-DF-14B-720P) |
 | 410 | 4 | guoyww/animatediff-motion-adapter-v1-5Text-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-adapter-v1-5) |
 | 40 | 4 | QuantStack/MoviiGen1 | Updated16 minutes ago | [Link](https://huggingface.co/QuantStack/MoviiGen1.1-VACE-GGUF) |
@@ -8187,6 +8188,7 @@ Updated on 2026-08-23
 | 4 | Unknown | joeygambino/joyai-echo-ltx25-echoVid-comfy-nativeText-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/joeygambino/joyai-echo-ltx25-echoVid-comfy-native) |
 | 3 | Unknown | FastVideo/FastMetal-1 | Updated1 day ago | [Link](https://huggingface.co/FastVideo/FastMetal-1.3B-QAD) |
 | 5 | Unknown | SOLRICKS/LTX-2-5-ComfyUI-WorkflowsText-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/SOLRICKS/LTX-2-5-ComfyUI-Workflows) |
+| 4 | Unknown | misstoyou/ClipProj-MiniMax-H3Text-to-Video | Updated1 day ago | [Link](https://huggingface.co/misstoyou/ClipProj-MiniMax-H3) |
 
 ## Text2Text Generation
 
