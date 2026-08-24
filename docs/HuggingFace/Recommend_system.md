@@ -3417,6 +3417,7 @@ Updated on 2026-08-24
 | UpdatedFeb 10 | 28 | noctrex/UI-Venus-1 | 2B | [Link](https://huggingface.co/noctrex/UI-Venus-1.5-2B-GGUF) |
 | 809 | 27 | MixTex/ZhEn-Latex-OCRImage-to-Text | UpdatedJul 30, 2024 | [Link](https://huggingface.co/MixTex/ZhEn-Latex-OCR) |
 | UpdatedMay 22, 2025 | 27.9k | meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8Image-to-Text | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8) |
+| UpdatedJul 15 | 27 | Hukyl/trocr-large-uk-handwritten-realImage-to-Text | 0.6B | [Link](https://huggingface.co/Hukyl/trocr-large-uk-handwritten-real) |
 | 290 | 26 | paragon-AI/blip2-image-to-textImage-to-Text | UpdatedJun 24, 2023 | [Link](https://huggingface.co/paragon-AI/blip2-image-to-text) |
 | 2.31k | 26 | Xenova/vit-gpt2-image-captioningImage-to-Text | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Xenova/vit-gpt2-image-captioning) |
 | 7.18k | 25 | ddobokki/ko-trocrImage-to-Text | UpdatedOct 22, 2024 | [Link](https://huggingface.co/ddobokki/ko-trocr) |
@@ -3539,6 +3540,7 @@ Updated on 2026-08-24
 | Updatedabout 7 hours ago | 7 | PaddlePaddle/PP-OCRv6_tiny_det_safetensorsImage-to-Text | 438k | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv6_tiny_det_safetensors) |
 | Updatedabout 10 hours ago | 7 | UniParser/MolParser-MobileImage-to-Text | 9.98M | [Link](https://huggingface.co/UniParser/MolParser-Mobile) |
 | UpdatedJun 4 | 7 | nviquang/Vie-BLIPImage-to-Text | 0.2B | [Link](https://huggingface.co/nviquang/Vie-BLIP) |
+| 17 | 7 | Aekanun/thai-handwriting-llmImage-to-Text | UpdatedNov 17, 2024 | [Link](https://huggingface.co/Aekanun/thai-handwriting-llm) |
 | 624 | 6 | fhswf/TrOCR_Math_handwrittenImage-to-Text | UpdatedOct 21, 2024 | [Link](https://huggingface.co/fhswf/TrOCR_Math_handwritten) |
 | 511 | 6 | microsoft/trocr-base-strImage-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-base-str) |
 | Updated21 days ago | 6.36k | allenai/olmOCR-7B-0225-preview-FP8Image-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview-FP8) |
@@ -3552,6 +3554,7 @@ Updated on 2026-08-24
 | 78 | 6 | DunnBC22/trocr-large-printed-cmc7_tesseract_MICR_ocrImage-to-Text | UpdatedAug 25, 2023 | [Link](https://huggingface.co/DunnBC22/trocr-large-printed-cmc7_tesseract_MICR_ocr) |
 | Updatedabout 7 hours ago | 6 | PaddlePaddle/PP-OCRv6_tiny_rec_safetensorsImage-to-Text | 1.11M | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv6_tiny_rec_safetensors) |
 | Updatedabout 4 hours ago | 6 | PaddlePaddle/PP-OCRv6_medium_rec_safetensorsImage-to-Text | 19.2M | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv6_medium_rec_safetensors) |
+| UpdatedJan 24 | 6.9k | noctrex/LightOnOCR-2-1B-bbox-soup-GGUFImage-to-Text | 0.6B | [Link](https://huggingface.co/noctrex/LightOnOCR-2-1B-bbox-soup-GGUF) |
 | 7 | 5 | laicsiifes/swin-gportuguese-2Image-to-Text | UpdatedMar 31 | [Link](https://huggingface.co/laicsiifes/swin-gportuguese-2) |
 | 5 | 5 | Yodazon/3DPrintFailureTypeImage-to-Text | UpdatedOct 18, 2024 | [Link](https://huggingface.co/Yodazon/3DPrintFailureType) |
 | Updated5 days ago | 5.7k | ChatDOC/OCRFlux-3BImage-to-Text | 4B | [Link](https://huggingface.co/ChatDOC/OCRFlux-3B) |
@@ -6196,6 +6199,7 @@ Updated on 2026-08-24
 | Updated7 minutes ago | 4 | jedisct1/MiMo-V2 | 309B | [Link](https://huggingface.co/jedisct1/MiMo-V2.5-coder-Q2) |
 | Updated2 days ago | 4.33k | yuxinlu1/gemma-4-12B-it-Claude-4 | 12B | [Link](https://huggingface.co/yuxinlu1/gemma-4-12B-it-Claude-4.6-4.8-Opus-GGUF) |
 | Updated5 days ago | 4.78k | nota-ai/Solar-Open2-250B-Nota-NVFP4Text | 145B | [Link](https://huggingface.co/nota-ai/Solar-Open2-250B-Nota-NVFP4) |
+| Updated4 days ago | 4.68k | danish-foundation-models/DFM-MimirText | 2B | [Link](https://huggingface.co/danish-foundation-models/DFM-Mimir) |
 | Updated2 days ago | 3.87k | unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUFText | 480B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUF) |
 | Updated6 days ago | 3.39k | Qwen/Qwen3-30B-A3B-Thinking-2507-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507-FP8) |
 | Updatedabout 4 hours ago | 3.61k | openai/gpt-oss-120bText | 63B | [Link](https://huggingface.co/openai/gpt-oss-120b) |
@@ -6298,6 +6302,7 @@ Updated on 2026-08-24
 | Updated1 day ago | 1.25k | badtheorylabs/BTL-4-CompactText | 35B | [Link](https://huggingface.co/badtheorylabs/BTL-4-Compact) |
 | Updated5 days ago | 1.65k | SupraLabs/Supra2-100M-InstructText | 0.1B | [Link](https://huggingface.co/SupraLabs/Supra2-100M-Instruct) |
 | Updatedabout 10 hours ago | 1.48k | incoai/Qwen3 | 2B | [Link](https://huggingface.co/incoai/Qwen3.8-27B-DFlash2) |
+| Updatedabout 23 hours ago | 1.97k | jcbtc/Qwen3 | 27B | [Link](https://huggingface.co/jcbtc/Qwen3.8-27B-IU4-Kairic-Edge) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -6947,6 +6952,7 @@ Updated on 2026-08-24
 | Updatedabout 2 hours ago | 3.74k | calcuis/qwen-image-ggufText-to-Image | 20B | [Link](https://huggingface.co/calcuis/qwen-image-gguf) |
 | Updatedabout 9 hours ago | 3.35k | jeremyhola/LORAsText-to-Image | 4B | [Link](https://huggingface.co/jeremyhola/LORAs) |
 | Updated1 day ago | 3 | realrebelai/Boogu-Image-Turbo_GGUFsText-to-Image | 10B | [Link](https://huggingface.co/realrebelai/Boogu-Image-Turbo_GGUFs) |
+| Updated1 day ago | 3.33k | realrebelai/SenseNova-U1 | 18B | [Link](https://huggingface.co/realrebelai/SenseNova-U1.5-8B_GGUFs) |
 | 2 | 2.77k | CompVis/stable-diffusion-v-1-4-originalText-to-Image | UpdatedNov 9, 2022 | [Link](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original) |
 | 5.16k | 2.44k | hakurei/waifu-diffusionText-to-Image | UpdatedJul 5, 2023 | [Link](https://huggingface.co/hakurei/waifu-diffusion) |
 | Updated8 days ago | 2.03k | StableDiffusionVN/FluxText-to-Image | 5B | [Link](https://huggingface.co/StableDiffusionVN/Flux) |
@@ -8193,6 +8199,7 @@ Updated on 2026-08-24
 | 3 | Unknown | FastVideo/FastMetal-1 | Updated1 day ago | [Link](https://huggingface.co/FastVideo/FastMetal-1.3B-QAD) |
 | 5 | Unknown | SOLRICKS/LTX-2-5-ComfyUI-WorkflowsText-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/SOLRICKS/LTX-2-5-ComfyUI-Workflows) |
 | 4 | Unknown | misstoyou/ClipProj-MiniMax-H3Text-to-Video | Updated1 day ago | [Link](https://huggingface.co/misstoyou/ClipProj-MiniMax-H3) |
+| 37 | Unknown | alibaba-pai/MiniMax-H3-Fun-Controlnet-UnionText-to-Video | Updatedabout 4 hours ago | [Link](https://huggingface.co/alibaba-pai/MiniMax-H3-Fun-Controlnet-Union) |
 
 ## Text2Text Generation
 
