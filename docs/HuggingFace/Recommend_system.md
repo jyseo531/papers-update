@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-08-23
+Updated on 2026-08-24
 
 > Generated from the Hugging Face database.
 
@@ -2198,6 +2198,7 @@ Updated on 2026-08-23
 | Updatedabout 6 hours ago | 40 | microsoft/Fara-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/microsoft/Fara-7B) |
 | Updatedabout 8 hours ago | 40 | microsoft/Phi-4-reasoning-vision-15BImage-Text-to-Text | 15B | [Link](https://huggingface.co/microsoft/Phi-4-reasoning-vision-15B) |
 | 132 | 40 | jason1966/CoPaw-Flash-9B-DataAnalyst-LoRAImage-Text-to-Text | Updated4 days ago | [Link](https://huggingface.co/jason1966/CoPaw-Flash-9B-DataAnalyst-LoRA) |
+| Updated4 days ago | 40.8k | AtomicChat/Ornith-1 | 35B | [Link](https://huggingface.co/AtomicChat/Ornith-1.5-35B-A3B-GGUF) |
 | Updatedabout 7 hours ago | 39 | OpenGVLab/InternVL3_5-38BImage-Text-to-Text | 38B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-38B) |
 | Updatedabout 6 hours ago | 39 | bottlecapai/ThinkingCap-Qwen3 | 27B | [Link](https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B) |
 | 12.4k | 38 | zhibinlan/LLaVE-2BImage-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/zhibinlan/LLaVE-2B) |
@@ -7771,6 +7772,7 @@ Updated on 2026-08-23
 | Updatedabout 19 hours ago | 225 | ruygar/LTX-2 | 21B | [Link](https://huggingface.co/ruygar/LTX-2.5-Comfy-GGUF) |
 | 7.53k | 218 | nvidia/Cosmos-1 | Updated10 days ago | [Link](https://huggingface.co/nvidia/Cosmos-1.0-Diffusion-7B-Text2World) |
 | 315 | 175 | FastVideo/FastHunyuanText-to-Video | UpdatedJan 8 | [Link](https://huggingface.co/FastVideo/FastHunyuan) |
+| Updated1 day ago | 170 | joeygambino/MiniMax-H3-x-Z-Image-GGUFText-to-Video | 20B | [Link](https://huggingface.co/joeygambino/MiniMax-H3-x-Z-Image-GGUF) |
 | 28k | 169 | ali-vilab/i2vgen-xlText-to-Video | UpdatedFeb 9, 2024 | [Link](https://huggingface.co/ali-vilab/i2vgen-xl) |
 | 68 | 160 | camenduru/potat1Text-to-Video | UpdatedJun 15, 2023 | [Link](https://huggingface.co/camenduru/potat1) |
 | 30.2k | 141 | city96/HunyuanVideo-ggufText-to-Video | UpdatedDec 17, 2024 | [Link](https://huggingface.co/city96/HunyuanVideo-gguf) |
@@ -7809,6 +7811,7 @@ Updated on 2026-08-23
 | 1.12k | 21 | maxin-cn/Latte-1Text-to-Video | UpdatedSep 2, 2024 | [Link](https://huggingface.co/maxin-cn/Latte-1) |
 | 119 | 20 | PAIR/text2video-zero-controlnet-canny-animeText-to-Video | UpdatedApr 6, 2023 | [Link](https://huggingface.co/PAIR/text2video-zero-controlnet-canny-anime) |
 | 433 | 20 | Skywork/SkyReels-V2-DF-1 | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-DF-1.3B-540P) |
+| 186 | 20 | joeygambino/MiniMax-H3-x-Z-Image-nativeText-to-Video | Updated1 day ago | [Link](https://huggingface.co/joeygambino/MiniMax-H3-x-Z-Image-native) |
 | 34 | 19 | FastVideo/FastMochi-diffusersText-to-Video | UpdatedDec 16, 2024 | [Link](https://huggingface.co/FastVideo/FastMochi-diffusers) |
 | 3.74k | 17 | calcuis/hyvidText-to-Video | Updated24 days ago | [Link](https://huggingface.co/calcuis/hyvid) |
 | Updatedabout 1 hour ago | 15 | burakkizil/LAMP-editText-to-Video | 8B | [Link](https://huggingface.co/burakkizil/LAMP-edit) |
@@ -7832,6 +7835,7 @@ Updated on 2026-08-23
 | 5.9k | 7 | SVECTOR-CORPORATION/Spectro-2BText-to-Video | UpdatedDec 25, 2024 | [Link](https://huggingface.co/SVECTOR-CORPORATION/Spectro-2B) |
 | 15 | 7 | DREX-Institute/potat1 | UpdatedJun 8, 2023 | [Link](https://huggingface.co/DREX-Institute/potat1.pth) |
 | 49 | 7 | Jojocodex/minimax-h3-spatial-physics-loraText-to-Video | Updatedabout 12 hours ago | [Link](https://huggingface.co/Jojocodex/minimax-h3-spatial-physics-lora) |
+| Updatedabout 21 hours ago | 7 | FastVideo/FastVideo-Minimax-FastH3-Preview-v0 | 35B | [Link](https://huggingface.co/FastVideo/FastVideo-Minimax-FastH3-Preview-v0.2) |
 | 863 | 6 | guoyww/animatediff-motion-adapter-v1-5-3Text-to-Video | UpdatedJul 8, 2024 | [Link](https://huggingface.co/guoyww/animatediff-motion-adapter-v1-5-3) |
 | 184 | 6 | BAAI/nova-d48w1024-osp480Text-to-Video | UpdatedDec 21, 2024 | [Link](https://huggingface.co/BAAI/nova-d48w1024-osp480) |
 | 6.29k | 6 | guoyww/animatediff-motion-lora-zoom-outText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-zoom-out) |
