@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-08-24
+Updated on 2026-08-25
 
 > Generated from the Hugging Face database.
 
@@ -2188,6 +2188,7 @@ Updated on 2026-08-24
 | Updatedabout 1 hour ago | 43 | unsloth/inkling-GGUFImage-Text-to-Text | 947B | [Link](https://huggingface.co/unsloth/inkling-GGUF) |
 | Updated4 days ago | 43.1k | lued/Qwen3 | 28B | [Link](https://huggingface.co/lued/Qwen3.8-27B-INT8-W8A16-MTP) |
 | Updated5 days ago | 42.1k | chimingw/Qwen3 | 27B | [Link](https://huggingface.co/chimingw/Qwen3.8-27B-Uncensored-OrcaRouter-GGUF) |
+| Updatedabout 4 hours ago | 42 | peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUFImage-Text-to-Text | 35B | [Link](https://huggingface.co/peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF) |
 | Updatedabout 11 hours ago | 41 | OpenGVLab/InternVL3_5-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-4B) |
 | Updated7 days ago | 41.4k | huihui-ai/Huihui-Qwen3-VL-32B-Instruct-abliteratedImage-Text-to-Text | 33B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3-VL-32B-Instruct-abliterated) |
 | Updatedabout 9 hours ago | 41 | stepfun-ai/Step3-VL-10B-BaseImage-Text-to-Text | 10B | [Link](https://huggingface.co/stepfun-ai/Step3-VL-10B-Base) |
@@ -3782,6 +3783,8 @@ Updated on 2026-08-24
 | 278 | 1 | PaddlePaddle/PP-DocLayout-SImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PP-DocLayout-S) |
 | 47 | 1 | kk9293/guitar-tab-omrImage-to-Text | UpdatedMay 23 | [Link](https://huggingface.co/kk9293/guitar-tab-omr) |
 | 8 | 1 | UCSC-VLAA/openvision2-vit-large-patch14-336-vision-onlyImage-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/UCSC-VLAA/openvision2-vit-large-patch14-336-vision-only) |
+| 39 | 1 | Hukyl/parseq-s-cyrillic-handwrittenImage-to-Text | Updated25 days ago | [Link](https://huggingface.co/Hukyl/parseq-s-cyrillic-handwritten) |
+| 21 | 1 | Hukyl/parseq-b-cyrillic-handwrittenImage-to-Text | Updated25 days ago | [Link](https://huggingface.co/Hukyl/parseq-b-cyrillic-handwritten) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -3899,6 +3902,8 @@ Updated on 2026-08-24
 | 1 | Unknown | EdisonScientific/OCSRGlyphImage-to-Text | Updated19 days ago | [Link](https://huggingface.co/EdisonScientific/OCSRGlyph) |
 | 2 | Unknown | ctogaurav/GLM_OCRImage-to-Text | Updated7 days ago | [Link](https://huggingface.co/ctogaurav/GLM_OCR) |
 | 4 | Unknown | xberg-io/paddleocr-onnx-modelsImage-to-Text | Updated12 days ago | [Link](https://huggingface.co/xberg-io/paddleocr-onnx-models) |
+| 1 | Unknown | FixFips/arabicocr-khattImage-to-Text | UpdatedJul 8 | [Link](https://huggingface.co/FixFips/arabicocr-khatt) |
+| 1 | Unknown | qualcomm-ai-hub-community/pp-ocrv5-zh-ko-snapdragon-int8Image-to-Text | UpdatedJul 11 | [Link](https://huggingface.co/qualcomm-ai-hub-community/pp-ocrv5-zh-ko-snapdragon-int8) |
 
 ## Image-to-Video
 
@@ -8200,6 +8205,7 @@ Updated on 2026-08-24
 | 5 | Unknown | SOLRICKS/LTX-2-5-ComfyUI-WorkflowsText-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/SOLRICKS/LTX-2-5-ComfyUI-Workflows) |
 | 4 | Unknown | misstoyou/ClipProj-MiniMax-H3Text-to-Video | Updated1 day ago | [Link](https://huggingface.co/misstoyou/ClipProj-MiniMax-H3) |
 | 37 | Unknown | alibaba-pai/MiniMax-H3-Fun-Controlnet-UnionText-to-Video | Updatedabout 4 hours ago | [Link](https://huggingface.co/alibaba-pai/MiniMax-H3-Fun-Controlnet-Union) |
+| 5 | Unknown | zuanfilm/H3_HD_2K_DetailerText-to-Video | Updatedabout 5 hours ago | [Link](https://huggingface.co/zuanfilm/H3_HD_2K_Detailer) |
 
 ## Text2Text Generation
 
