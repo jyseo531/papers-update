@@ -7259,6 +7259,7 @@ Updated on 2026-08-25
 | 6 | Unknown | TenStrip/Krea2Zimage-CrossArch_Grafted_Model_DemoText-to-Image | Updatedabout 13 hours ago | [Link](https://huggingface.co/TenStrip/Krea2Zimage-CrossArch_Grafted_Model_Demo) |
 | 17 | Unknown | UntMods/Krea2_Chars_LoRAText-to-Image | Updated16 days ago | [Link](https://huggingface.co/UntMods/Krea2_Chars_LoRA) |
 | 6 | Unknown | t8star/SenseNova-U1 | Updatedabout 9 hours ago | [Link](https://huggingface.co/t8star/SenseNova-U1.5-Comfy) |
+| 7 | Unknown | mrjackspade/Ideogram4-Natural-Language-Text-EncoderText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/mrjackspade/Ideogram4-Natural-Language-Text-Encoder) |
 
 ## Text-to-Speech
 
@@ -7819,6 +7820,7 @@ Updated on 2026-08-25
 | Updatedabout 2 hours ago | 22 | burakkizil/LAMP-Qwen-2 | 8B | [Link](https://huggingface.co/burakkizil/LAMP-Qwen-2.5-VL) |
 | 7 | 22 | Tune-A-Video-library/mo-di-bear-guitarText-to-Video | UpdatedFeb 9, 2023 | [Link](https://huggingface.co/Tune-A-Video-library/mo-di-bear-guitar) |
 | Updatedabout 23 hours ago | 22 | Motif-Technologies/Motif-Video-2B-GGUFText-to-Video | 2B | [Link](https://huggingface.co/Motif-Technologies/Motif-Video-2B-GGUF) |
+| 65 | 22 | lovis93/studio-1939-old-animation-lora-minimax-h3Text-to-Video | Updatedabout 12 hours ago | [Link](https://huggingface.co/lovis93/studio-1939-old-animation-lora-minimax-h3) |
 | 1.12k | 21 | maxin-cn/Latte-1Text-to-Video | UpdatedSep 2, 2024 | [Link](https://huggingface.co/maxin-cn/Latte-1) |
 | 119 | 20 | PAIR/text2video-zero-controlnet-canny-animeText-to-Video | UpdatedApr 6, 2023 | [Link](https://huggingface.co/PAIR/text2video-zero-controlnet-canny-anime) |
 | 433 | 20 | Skywork/SkyReels-V2-DF-1 | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-DF-1.3B-540P) |
@@ -8206,6 +8208,7 @@ Updated on 2026-08-25
 | 4 | Unknown | misstoyou/ClipProj-MiniMax-H3Text-to-Video | Updated1 day ago | [Link](https://huggingface.co/misstoyou/ClipProj-MiniMax-H3) |
 | 37 | Unknown | alibaba-pai/MiniMax-H3-Fun-Controlnet-UnionText-to-Video | Updatedabout 4 hours ago | [Link](https://huggingface.co/alibaba-pai/MiniMax-H3-Fun-Controlnet-Union) |
 | 5 | Unknown | zuanfilm/H3_HD_2K_DetailerText-to-Video | Updatedabout 5 hours ago | [Link](https://huggingface.co/zuanfilm/H3_HD_2K_Detailer) |
+| 5 | Unknown | htdong/LoopyText-to-Video | Updatedabout 9 hours ago | [Link](https://huggingface.co/htdong/Loopy) |
 
 ## Text2Text Generation
 
