@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-08-25
+Updated on 2026-08-26
 
 > Generated from the Hugging Face database.
 
@@ -438,6 +438,7 @@ Updated on 2026-08-25
 | 11 | Unknown | lemonade-sdk/LMX-Omni-52B-HaloAny-to-Any | Updated9 days ago | [Link](https://huggingface.co/lemonade-sdk/LMX-Omni-52B-Halo) |
 | 7 | Unknown | catnip-ai-tech/MaineCoonAny-to-Any | Updatedabout 7 hours ago | [Link](https://huggingface.co/catnip-ai-tech/MaineCoon) |
 | 10 | Unknown | Tele-AI/TeleStyleV2Any-to-Any | Updated5 days ago | [Link](https://huggingface.co/Tele-AI/TeleStyleV2) |
+| 3 | Unknown | Milor123/ComfyUI-ConvRot-SenseNova-U1 | Updatedabout 14 hours ago | [Link](https://huggingface.co/Milor123/ComfyUI-ConvRot-SenseNova-U1.5-8B-MoT-T8) |
 
 ## Audio Classification
 
@@ -2064,6 +2065,7 @@ Updated on 2026-08-25
 | Updatedabout 20 hours ago | 206 | nvidia/NVIDIA-Nemotron-Nano-12B-v2-VL-FP8Image-Text-to-Text | 13B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-12B-v2-VL-FP8) |
 | Updated1 day ago | 202 | Qwen/Qwen-Image-BenchImage-Text-to-Text | 27B | [Link](https://huggingface.co/Qwen/Qwen-Image-Bench) |
 | Updated16 days ago | 200 | grimjim/gemma-3-12b-it-norm-preserved-biprojected-abliteratedImage-Text-to-Text | 12B | [Link](https://huggingface.co/grimjim/gemma-3-12b-it-norm-preserved-biprojected-abliterated) |
+| Updated1 day ago | 193 | Jiunsong/SuperQwen3 | 28B | [Link](https://huggingface.co/Jiunsong/SuperQwen3.8-27b-abliterated) |
 | Updated2 days ago | 187 | huihui-ai/Huihui-Qwen3-VL-8B-Instruct-abliteratedImage-Text-to-Text | 9B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3-VL-8B-Instruct-abliterated) |
 | 7.06k | 180 | meta-llama/Llama-4-Scout-17B-16E-InstructImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct) |
 | Updated2 days ago | 180 | trillionlabs/gWorld-32BImage-Text-to-Text | 33B | [Link](https://huggingface.co/trillionlabs/gWorld-32B) |
@@ -6908,6 +6910,7 @@ Updated on 2026-08-25
 | 4.5k | 6 | cusiman/Krea2_CollectionText-to-Image | Updated8 days ago | [Link](https://huggingface.co/cusiman/Krea2_Collection) |
 | 658 | 6 | AlperKTS/Krea-2-SVDQuant-ComfyUIText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/AlperKTS/Krea-2-SVDQuant-ComfyUI) |
 | Updated1 day ago | 6 | unsloth/Krea-2-TurboText-to-Image | 13B | [Link](https://huggingface.co/unsloth/Krea-2-Turbo) |
+| Updated25 days ago | 6.27k | data-archetype/canterText-to-Image | 2B | [Link](https://huggingface.co/data-archetype/canter) |
 | 42 | 5 | Shakker-Labs/RepTextText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Shakker-Labs/RepText) |
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
@@ -7527,6 +7530,7 @@ Updated on 2026-08-25
 | 33 | 5 | owensong/Inflect-Micro-v2-ONNXText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/owensong/Inflect-Micro-v2-ONNX) |
 | 32 | 5 | tryorato/orato-tts-hindi-v1Text-to-Speech | Updated7 days ago | [Link](https://huggingface.co/tryorato/orato-tts-hindi-v1) |
 | Updatedabout 11 hours ago | 5 | Aratako/Irodori-TTS-v4 | 0.8B | [Link](https://huggingface.co/Aratako/Irodori-TTS-v4.1-Small) |
+| Updatedabout 9 hours ago | 5 | BreezeBlue/Breeze-TTS-2Text-to-Speech | 3B | [Link](https://huggingface.co/BreezeBlue/Breeze-TTS-2) |
 | 5 | 4 | lunahr/csm-1b-safetensors-fp16Text-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-fp16) |
 | 2 | 4 | VAGOsolutions/SauerkrautTTS-Preview-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/VAGOsolutions/SauerkrautTTS-Preview-0.1) |
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
@@ -7757,6 +7761,7 @@ Updated on 2026-08-25
 | 5 | Unknown | Aratako/Irodori-TTS-v4-Small-QuantizedText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/Aratako/Irodori-TTS-v4-Small-Quantized) |
 | 8 | Unknown | IndexTeam/IndexTTS-2 | Updatedabout 14 hours ago | [Link](https://huggingface.co/IndexTeam/IndexTTS-2.5) |
 | 7 | Unknown | javawock7618/comfy-MiniMax-H3-workflowsText-to-Speech | Updatedabout 2 hours ago | [Link](https://huggingface.co/javawock7618/comfy-MiniMax-H3-workflows) |
+| 24 | Unknown | Audio8/audio8-TTS-0 | Updatedabout 13 hours ago | [Link](https://huggingface.co/Audio8/audio8-TTS-0.1B-ONNX-INT8) |
 
 ## Text-to-Video
 
