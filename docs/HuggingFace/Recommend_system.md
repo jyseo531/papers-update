@@ -2061,6 +2061,7 @@ Updated on 2026-08-26
 | Updatedabout 3 hours ago | 225 | lightonai/LightOnOCR-2-1BImage-Text-to-Text | 1B | [Link](https://huggingface.co/lightonai/LightOnOCR-2-1B) |
 | Updatedabout 21 hours ago | 220 | magibu/magibu-11b-v0 | 12B | [Link](https://huggingface.co/magibu/magibu-11b-v0.8) |
 | Updated3 days ago | 218 | OctoMed/OctoMed-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/OctoMed/OctoMed-7B) |
+| Updated2 days ago | 214 | thomsonreuters/Thomson-1 | 35B | [Link](https://huggingface.co/thomsonreuters/Thomson-1.0-Small) |
 | Updatedabout 13 hours ago | 211 | INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v1 | 12B | [Link](https://huggingface.co/INSAIT-Institute/MamayLM-Gemma-3-12B-IT-v1.0) |
 | Updatedabout 20 hours ago | 206 | nvidia/NVIDIA-Nemotron-Nano-12B-v2-VL-FP8Image-Text-to-Text | 13B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-12B-v2-VL-FP8) |
 | Updated1 day ago | 202 | Qwen/Qwen-Image-BenchImage-Text-to-Text | 27B | [Link](https://huggingface.co/Qwen/Qwen-Image-Bench) |
@@ -2085,6 +2086,7 @@ Updated on 2026-08-26
 | 3.21k | 154 | bytedance-research/UI-TARS-7B-SFTImage-Text-to-Text | UpdatedJan 25 | [Link](https://huggingface.co/bytedance-research/UI-TARS-7B-SFT) |
 | Updatedabout 20 hours ago | 152 | prithivMLmods/Qwen3-VL-8B-Abliterated-Caption-itImage-Text-to-Text | 9B | [Link](https://huggingface.co/prithivMLmods/Qwen3-VL-8B-Abliterated-Caption-it) |
 | Updated1 day ago | 152 | tencent/UI-Mate-27BImage-Text-to-Text | 3.05M | [Link](https://huggingface.co/tencent/UI-Mate-27B) |
+| Updated2 days ago | 151 | kai-os/Carnice-V3Image-Text-to-Text | 27B | [Link](https://huggingface.co/kai-os/Carnice-V3) |
 | 98.7k | 146 | deepseek-ai/deepseek-vl2-tinyImage-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2-tiny) |
 | 30.2k | 145 | bytedance-research/UI-TARS-7B-DPOImage-Text-to-Text | UpdatedJan 25 | [Link](https://huggingface.co/bytedance-research/UI-TARS-7B-DPO) |
 | 38.6k | 144 | deepseek-ai/deepseek-vl2-smallImage-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2-small) |
@@ -2715,6 +2717,7 @@ Updated on 2026-08-26
 | 1.52k | 564 | CrucibleAI/ControlNetMediaPipeFaceImage-to-Image | UpdatedMay 19, 2023 | [Link](https://huggingface.co/CrucibleAI/ControlNetMediaPipeFace) |
 | 129k | 550 | yisol/IDM-VTONImage-to-Image | UpdatedApr 22, 2024 | [Link](https://huggingface.co/yisol/IDM-VTON) |
 | 169k | 534 | stabilityai/stable-diffusion-2-inpaintingImage-to-Image | UpdatedJul 5, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-2-inpainting) |
+| Updated1 day ago | 531 | briaai/Fibo-Edit-1 | 8B | [Link](https://huggingface.co/briaai/Fibo-Edit-1.5-turbo) |
 | Updatedabout 6 hours ago | 349 | inclusionAI/MingTok-VisionImage-to-Image | 0.7B | [Link](https://huggingface.co/inclusionAI/MingTok-Vision) |
 | Updatedabout 11 hours ago | 344 | Boogu/Boogu-Image-0 | 10B | [Link](https://huggingface.co/Boogu/Boogu-Image-0.1-Edit-Turbo) |
 | 3.02k | 268 | fal/AuraSR-v2Image-to-Image | UpdatedAug 7, 2024 | [Link](https://huggingface.co/fal/AuraSR-v2) |
@@ -6664,6 +6667,7 @@ Updated on 2026-08-26
 | 26.8k | 386 | ostris/Flex | UpdatedJan 19 | [Link](https://huggingface.co/ostris/Flex.1-alpha) |
 | 275 | 375 | dalle-mini/dalle-miniText-to-Image | UpdatedJan 11, 2023 | [Link](https://huggingface.co/dalle-mini/dalle-mini) |
 | 89.5k | 370 | OnomaAIResearch/Illustrious-xl-early-release-v0Text-to-Image | UpdatedFeb 13 | [Link](https://huggingface.co/OnomaAIResearch/Illustrious-xl-early-release-v0) |
+| Updated1 day ago | 370 | briaai/Fibo-1 | 8B | [Link](https://huggingface.co/briaai/Fibo-1.5) |
 |  | 366 | Tongyi-MAI/Z-ImageText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/Tongyi-MAI/Z-Image) |
 | Updated7 days ago | 363 | leejet/FLUX | 4B | [Link](https://huggingface.co/leejet/FLUX.2-klein-base-4B-GGUF) |
 | 31.8k | 362 | thibaud/controlnet-openpose-sdxl-1 | UpdatedSep 3, 2023 | [Link](https://huggingface.co/thibaud/controlnet-openpose-sdxl-1.0) |
@@ -8214,6 +8218,7 @@ Updated on 2026-08-26
 | 37 | Unknown | alibaba-pai/MiniMax-H3-Fun-Controlnet-UnionText-to-Video | Updatedabout 4 hours ago | [Link](https://huggingface.co/alibaba-pai/MiniMax-H3-Fun-Controlnet-Union) |
 | 5 | Unknown | zuanfilm/H3_HD_2K_DetailerText-to-Video | Updatedabout 5 hours ago | [Link](https://huggingface.co/zuanfilm/H3_HD_2K_Detailer) |
 | 5 | Unknown | htdong/LoopyText-to-Video | Updatedabout 9 hours ago | [Link](https://huggingface.co/htdong/Loopy) |
+| 8 | Unknown | alibaba-pai/MiniMax-H3-Acc-LoRAsText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/alibaba-pai/MiniMax-H3-Acc-LoRAs) |
 
 ## Text2Text Generation
 
