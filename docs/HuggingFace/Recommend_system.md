@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-08-27
+Updated on 2026-08-28
 
 > Generated from the Hugging Face database.
 
@@ -2224,6 +2224,7 @@ Updated on 2026-08-27
 | Updatedabout 3 hours ago | 35 | PaddlePaddle/PaddleOCR-VL-1 | 1.0B | [Link](https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.5) |
 | Updatedabout 14 hours ago | 35.8k | mlx-community/gemma-4-12B-it-8bitImage-Text-to-Text | 3B | [Link](https://huggingface.co/mlx-community/gemma-4-12B-it-8bit) |
 | Updated2 days ago | 35 | DJLougen/Qwable-5-27B-CoderImage-Text-to-Text | 28B | [Link](https://huggingface.co/DJLougen/Qwable-5-27B-Coder) |
+| Updatedabout 13 hours ago | 35 | LibertAIDAI/GLM-5 | 165B | [Link](https://huggingface.co/LibertAIDAI/GLM-5.3-Flash-NVFP4) |
 | Updatedabout 17 hours ago | 34 | Jackrong/Qwopus3 | 9B | [Link](https://huggingface.co/Jackrong/Qwopus3.5-9B-v3-GGUF) |
 | Updatedabout 2 hours ago | 34 | meta-models/Muse-Glimmer-30B-assistantImage-Text-to-Text | 3B | [Link](https://huggingface.co/meta-models/Muse-Glimmer-30B-assistant) |
 | Updated4 days ago | 33 | prithivMLmods/Qwen2 | 8B | [Link](https://huggingface.co/prithivMLmods/Qwen2.5-VL-7B-Abliterated-Caption-it) |
@@ -2334,6 +2335,7 @@ Updated on 2026-08-27
 | Updatedabout 5 hours ago | 14 | huihui-ai/Huihui-Qwen3 | 36B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated) |
 | Updated3 days ago | 14.9k | sakamakismile/Huihui-Qwen3 | 17B | [Link](https://huggingface.co/sakamakismile/Huihui-Qwen3.6-27B-abliterated-NVFP4-MTP) |
 | Updatedabout 7 hours ago | 14 | nvidia/LocateAnything-3BImage-Text-to-Text | 4B | [Link](https://huggingface.co/nvidia/LocateAnything-3B) |
+| Updated3 days ago | 14k | peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF-MTPImage-Text-to-Text | 0.4B | [Link](https://huggingface.co/peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF-MTP) |
 | 582 | 13 | google/gemma-3-4b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-4b-pt) |
 | 4.2k | 13 | mlabonne/gemma-3-12b-it-abliterated-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-12b-it-abliterated-GGUF) |
 | 10.7k | 13 | unsloth/Llama-4-Maverick-17B-128E-Instruct-GGUFImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/unsloth/Llama-4-Maverick-17B-128E-Instruct-GGUF) |
@@ -3791,6 +3793,7 @@ Updated on 2026-08-27
 | 8 | 1 | UCSC-VLAA/openvision2-vit-large-patch14-336-vision-onlyImage-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/UCSC-VLAA/openvision2-vit-large-patch14-336-vision-only) |
 | 39 | 1 | Hukyl/parseq-s-cyrillic-handwrittenImage-to-Text | Updated25 days ago | [Link](https://huggingface.co/Hukyl/parseq-s-cyrillic-handwritten) |
 | 21 | 1 | Hukyl/parseq-b-cyrillic-handwrittenImage-to-Text | Updated25 days ago | [Link](https://huggingface.co/Hukyl/parseq-b-cyrillic-handwritten) |
+| 14 | 1 | Aleton/Autopilot-qwen3-vlImage-to-Text | UpdatedMay 27 | [Link](https://huggingface.co/Aleton/Autopilot-qwen3-vl) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -6916,6 +6919,8 @@ Updated on 2026-08-27
 | 658 | 6 | AlperKTS/Krea-2-SVDQuant-ComfyUIText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/AlperKTS/Krea-2-SVDQuant-ComfyUI) |
 | Updated1 day ago | 6 | unsloth/Krea-2-TurboText-to-Image | 13B | [Link](https://huggingface.co/unsloth/Krea-2-Turbo) |
 | Updated25 days ago | 6.27k | data-archetype/canterText-to-Image | 2B | [Link](https://huggingface.co/data-archetype/canter) |
+|  | 6 | WeiChow/DiffusionOPSDText-to-Image | Updated1 day ago | [Link](https://huggingface.co/WeiChow/DiffusionOPSD) |
+| 38 | 6 | sakils123/Anima-Control-PoseText-to-Image | Updated6 days ago | [Link](https://huggingface.co/sakils123/Anima-Control-Pose) |
 | 42 | 5 | Shakker-Labs/RepTextText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Shakker-Labs/RepText) |
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
