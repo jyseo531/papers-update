@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-08-26
+Updated on 2026-08-27
 
 > Generated from the Hugging Face database.
 
@@ -2125,6 +2125,7 @@ Updated on 2026-08-26
 | Updated3 days ago | 94 | OpenMMReasoner/OpenMMReasoner-RLImage-Text-to-Text | 8B | [Link](https://huggingface.co/OpenMMReasoner/OpenMMReasoner-RL) |
 | Updatedabout 2 hours ago | 92 | unsloth/Muse-Glimmer-30B-GGUFImage-Text-to-Text | 28B | [Link](https://huggingface.co/unsloth/Muse-Glimmer-30B-GGUF) |
 | Updated8 days ago | 89 | Alibaba-DAMO-Academy/RynnBrain-Nav-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/Alibaba-DAMO-Academy/RynnBrain-Nav-8B) |
+| Updated4 days ago | 89 | QUASAR-QAT/Qwen3 | 27B | [Link](https://huggingface.co/QUASAR-QAT/Qwen3.8-27B-QUASAR-NVFP4) |
 | 1.69k | 88 | google/gemma-3n-E4B-itImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/google/gemma-3n-E4B-it) |
 | Updated2 days ago | 87 | INSAIT-Institute/MamayLM-Gemma-3-4B-IT-v1 | 4B | [Link](https://huggingface.co/INSAIT-Institute/MamayLM-Gemma-3-4B-IT-v1.0) |
 | Updated2 days ago | 85 | Alibaba-DAMO-Academy/RynnBrain-2BImage-Text-to-Text | 2B | [Link](https://huggingface.co/Alibaba-DAMO-Academy/RynnBrain-2B) |
@@ -7267,6 +7268,7 @@ Updated on 2026-08-26
 | 17 | Unknown | UntMods/Krea2_Chars_LoRAText-to-Image | Updated16 days ago | [Link](https://huggingface.co/UntMods/Krea2_Chars_LoRA) |
 | 6 | Unknown | t8star/SenseNova-U1 | Updatedabout 9 hours ago | [Link](https://huggingface.co/t8star/SenseNova-U1.5-Comfy) |
 | 7 | Unknown | mrjackspade/Ideogram4-Natural-Language-Text-EncoderText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/mrjackspade/Ideogram4-Natural-Language-Text-Encoder) |
+| 10 | Unknown | Vaelico/WulverText-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/Vaelico/Wulver) |
 
 ## Text-to-Speech
 
@@ -7766,6 +7768,7 @@ Updated on 2026-08-26
 | 8 | Unknown | IndexTeam/IndexTTS-2 | Updatedabout 14 hours ago | [Link](https://huggingface.co/IndexTeam/IndexTTS-2.5) |
 | 7 | Unknown | javawock7618/comfy-MiniMax-H3-workflowsText-to-Speech | Updatedabout 2 hours ago | [Link](https://huggingface.co/javawock7618/comfy-MiniMax-H3-workflows) |
 | 24 | Unknown | Audio8/audio8-TTS-0 | Updatedabout 13 hours ago | [Link](https://huggingface.co/Audio8/audio8-TTS-0.1B-ONNX-INT8) |
+| 13 | Unknown | onnx-community/higgs-audio-v3-tts-4bText-to-Speech | UpdatedJun 22 | [Link](https://huggingface.co/onnx-community/higgs-audio-v3-tts-4b) |
 
 ## Text-to-Video
 
@@ -7834,6 +7837,7 @@ Updated on 2026-08-26
 | 119 | 20 | PAIR/text2video-zero-controlnet-canny-animeText-to-Video | UpdatedApr 6, 2023 | [Link](https://huggingface.co/PAIR/text2video-zero-controlnet-canny-anime) |
 | 433 | 20 | Skywork/SkyReels-V2-DF-1 | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-DF-1.3B-540P) |
 | 186 | 20 | joeygambino/MiniMax-H3-x-Z-Image-nativeText-to-Video | Updated1 day ago | [Link](https://huggingface.co/joeygambino/MiniMax-H3-x-Z-Image-native) |
+|  | 20 | aptech0081/MiniMax-H3-Acc-LoRAs-ComfyUIText-to-Video | Updatedabout 17 hours ago | [Link](https://huggingface.co/aptech0081/MiniMax-H3-Acc-LoRAs-ComfyUI) |
 | 34 | 19 | FastVideo/FastMochi-diffusersText-to-Video | UpdatedDec 16, 2024 | [Link](https://huggingface.co/FastVideo/FastMochi-diffusers) |
 | 3.74k | 17 | calcuis/hyvidText-to-Video | Updated24 days ago | [Link](https://huggingface.co/calcuis/hyvid) |
 | Updatedabout 1 hour ago | 15 | burakkizil/LAMP-editText-to-Video | 8B | [Link](https://huggingface.co/burakkizil/LAMP-edit) |
@@ -8219,6 +8223,7 @@ Updated on 2026-08-26
 | 5 | Unknown | zuanfilm/H3_HD_2K_DetailerText-to-Video | Updatedabout 5 hours ago | [Link](https://huggingface.co/zuanfilm/H3_HD_2K_Detailer) |
 | 5 | Unknown | htdong/LoopyText-to-Video | Updatedabout 9 hours ago | [Link](https://huggingface.co/htdong/Loopy) |
 | 8 | Unknown | alibaba-pai/MiniMax-H3-Acc-LoRAsText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/alibaba-pai/MiniMax-H3-Acc-LoRAs) |
+| 5 | Unknown | joeygambino/joyai-echo-ltx25-x-Z-Image-nativeText-to-Video | Updated3 days ago | [Link](https://huggingface.co/joeygambino/joyai-echo-ltx25-x-Z-Image-native) |
 
 ## Text2Text Generation
 
