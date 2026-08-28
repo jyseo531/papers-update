@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-08-28
+Updated on 2026-08-29
 
 > Generated from the Hugging Face database.
 
@@ -3479,6 +3479,7 @@ Updated on 2026-08-28
 | Updatedabout 11 hours ago | 14 | datalab-to/chandraImage-to-Text | 9B | [Link](https://huggingface.co/datalab-to/chandra) |
 | Updatedabout 9 hours ago | 14 | lightonai/LightOnOCR-2-1BImage-to-Text | 1B | [Link](https://huggingface.co/lightonai/LightOnOCR-2-1B) |
 | 96 | 14 | tiiuae/Falcon-OCRImage-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/tiiuae/Falcon-OCR) |
+| Updated11 days ago | 14 | SpacemiT/FastVLM-0 | 0.6B | [Link](https://huggingface.co/SpacemiT/FastVLM-0.5B) |
 | 207 | 13 | DGurgurov/im2latexImage-to-Text | UpdatedOct 23, 2024 | [Link](https://huggingface.co/DGurgurov/im2latex) |
 | 24.8k | 13 | microsoft/trocr-base-stage1Image-to-Text | UpdatedMay 27, 2024 | [Link](https://huggingface.co/microsoft/trocr-base-stage1) |
 | UpdatedMay 4 | 13 | ragunath-ravi/blip-histopathology-finetunedImage-to-Text | 0.2B | [Link](https://huggingface.co/ragunath-ravi/blip-histopathology-finetuned) |
@@ -3795,6 +3796,7 @@ Updated on 2026-08-28
 | 39 | 1 | Hukyl/parseq-s-cyrillic-handwrittenImage-to-Text | Updated25 days ago | [Link](https://huggingface.co/Hukyl/parseq-s-cyrillic-handwritten) |
 | 21 | 1 | Hukyl/parseq-b-cyrillic-handwrittenImage-to-Text | Updated25 days ago | [Link](https://huggingface.co/Hukyl/parseq-b-cyrillic-handwritten) |
 | 14 | 1 | Aleton/Autopilot-qwen3-vlImage-to-Text | UpdatedMay 27 | [Link](https://huggingface.co/Aleton/Autopilot-qwen3-vl) |
+| 147 | 1 | Kansallisarkisto/multicentury-htr-model-smallImage-to-Text | UpdatedNov 21, 2025 | [Link](https://huggingface.co/Kansallisarkisto/multicentury-htr-model-small) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -7832,6 +7834,7 @@ Updated on 2026-08-28
 | 1 | 37 | TencentARC/AnimeGamerText-to-Video | Updatedabout 4 hours ago | [Link](https://huggingface.co/TencentARC/AnimeGamer) |
 | 14.9k | 36 | city96/FastHunyuan-ggufText-to-Video | UpdatedJan 8 | [Link](https://huggingface.co/city96/FastHunyuan-gguf) |
 | 847 | 35 | benjamin-paine/steamboat-willie-14bText-to-Video | Updatedabout 12 hours ago | [Link](https://huggingface.co/benjamin-paine/steamboat-willie-14b) |
+| Updatedabout 3 hours ago | 31 | FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFreeText-to-Video | 35B | [Link](https://huggingface.co/FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree) |
 | 48 | 30 | PAIR/text2video-zero-controlnet-canny-arcaneText-to-Video | UpdatedApr 6, 2023 | [Link](https://huggingface.co/PAIR/text2video-zero-controlnet-canny-arcane) |
 | 8.22k | 26 | Searchium-ai/clip4clip-webvid150kText-to-Video | UpdatedOct 27, 2024 | [Link](https://huggingface.co/Searchium-ai/clip4clip-webvid150k) |
 | 1.96k | 26 | guoyww/animatediff-motion-adapter-v1-5-2Text-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-adapter-v1-5-2) |
