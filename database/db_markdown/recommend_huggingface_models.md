@@ -3391,6 +3391,7 @@ Updated on 2026-08-28
 | 573 | 39 | katanaml-org/invoices-donut-model-v1Image-to-Text | UpdatedMay 11, 2023 | [Link](https://huggingface.co/katanaml-org/invoices-donut-model-v1) |
 | UpdatedDec 21, 2025 | 39 | naazimsnh02/medocr-visionImage-to-Text | 1.0B | [Link](https://huggingface.co/naazimsnh02/medocr-vision) |
 | Updatedabout 8 hours ago | 39 | xingxm/HiVG-3B-BaseImage-to-Text | 4B | [Link](https://huggingface.co/xingxm/HiVG-3B-Base) |
+| Updated8 days ago | 39 | Werea-co/Werea-DocOCR-1BImage-to-Text | 1B | [Link](https://huggingface.co/Werea-co/Werea-DocOCR-1B) |
 | UpdatedNov 4, 2023 | 38.2k | adept/fuyu-8bImage-to-Text | 9B | [Link](https://huggingface.co/adept/fuyu-8b) |
 | Updated3 days ago | 38 | TIGER-Lab/RationalRewards-8B-EditImage-to-Text | 9B | [Link](https://huggingface.co/TIGER-Lab/RationalRewards-8B-Edit) |
 | Updated8 days ago | 37 | nakasyou/capsolve-spImage-to-Text | 487k | [Link](https://huggingface.co/nakasyou/capsolve-sp) |
@@ -5539,6 +5540,7 @@ Updated on 2026-08-28
 | Updated4 days ago | 173 | deepcogito/cogito-v2-preview-deepseek-671B-MoEText | 671B | [Link](https://huggingface.co/deepcogito/cogito-v2-preview-deepseek-671B-MoE) |
 | Updated4 days ago | 170 | Qwen/WebWorld-14BText | 15B | [Link](https://huggingface.co/Qwen/WebWorld-14B) |
 | Updated5 days ago | 170 | allenai/Emo_1b14b_1TText | 14B | [Link](https://huggingface.co/allenai/Emo_1b14b_1T) |
+| Updatedabout 1 hour ago | 168 | tencent/Hy4-previewText | 780B | [Link](https://huggingface.co/tencent/Hy4-preview) |
 | Updated33 minutes ago | 167 | Qwen/Qwen3-Coder-30B-A3B-InstructText | 31B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct) |
 | Updated4 days ago | 166 | Gryphe/Gemma-4-26B-A4B-StyleTuneText | 27B | [Link](https://huggingface.co/Gryphe/Gemma-4-26B-A4B-StyleTune) |
 | Updated2 days ago | 164 | driaforall/mem-agentText | 0.0B | [Link](https://huggingface.co/driaforall/mem-agent) |
@@ -5687,6 +5689,8 @@ Updated on 2026-08-28
 | Updatedabout 20 hours ago | 65 | meituan-longcat/LongCat-2 | 1.8T | [Link](https://huggingface.co/meituan-longcat/LongCat-2.0) |
 | Updated4 days ago | 64 | katanemo/Arch-Router-1 | 2B | [Link](https://huggingface.co/katanemo/Arch-Router-1.5B) |
 | Updated1 day ago | 64 | Skywork/MindLink-72B-0801Text | 73B | [Link](https://huggingface.co/Skywork/MindLink-72B-0801) |
+| Updatedabout 17 hours ago | 64 | pipecat-ai/phonellm-alpha-1Text | 32B | [Link](https://huggingface.co/pipecat-ai/phonellm-alpha-1) |
+| Updatedabout 12 hours ago | 64 | incoai/GLM-5 | 1B | [Link](https://huggingface.co/incoai/GLM-5.3-Flash-DFlash2) |
 | 224 | 63 | GSAI-ML/LLaDA-8B-InstructText | Updatedabout 23 hours ago | [Link](https://huggingface.co/GSAI-ML/LLaDA-8B-Instruct) |
 | 251 | 63 | ByteDance-Seed/Seed-Coder-8B-ReasoningText | Updatedabout 6 hours ago | [Link](https://huggingface.co/ByteDance-Seed/Seed-Coder-8B-Reasoning) |
 | Updated1 day ago | 62 | Tesslate/UIGEN-X-4B-0729Text | 4B | [Link](https://huggingface.co/Tesslate/UIGEN-X-4B-0729) |
@@ -6214,6 +6218,7 @@ Updated on 2026-08-28
 | Updated2 days ago | 4.33k | yuxinlu1/gemma-4-12B-it-Claude-4 | 12B | [Link](https://huggingface.co/yuxinlu1/gemma-4-12B-it-Claude-4.6-4.8-Opus-GGUF) |
 | Updated5 days ago | 4.78k | nota-ai/Solar-Open2-250B-Nota-NVFP4Text | 145B | [Link](https://huggingface.co/nota-ai/Solar-Open2-250B-Nota-NVFP4) |
 | Updated4 days ago | 4.68k | danish-foundation-models/DFM-MimirText | 2B | [Link](https://huggingface.co/danish-foundation-models/DFM-Mimir) |
+| Updated6 days ago | 4.11k | JackAgentLead/Jack-3 | 27B | [Link](https://huggingface.co/JackAgentLead/Jack-3.8-27B-Coder-16GB-VRAM) |
 | Updated2 days ago | 3.87k | unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUFText | 480B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-1M-GGUF) |
 | Updated6 days ago | 3.39k | Qwen/Qwen3-30B-A3B-Thinking-2507-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507-FP8) |
 | Updatedabout 4 hours ago | 3.61k | openai/gpt-oss-120bText | 63B | [Link](https://huggingface.co/openai/gpt-oss-120b) |
