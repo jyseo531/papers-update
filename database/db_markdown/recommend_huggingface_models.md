@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-08-29
+Updated on 2026-08-30
 
 > Generated from the Hugging Face database.
 
@@ -3268,6 +3268,7 @@ Updated on 2026-08-29
 | UpdatedJul 18 | 323 | loay/ArabicOCR-Qwen2 | 8B | [Link](https://huggingface.co/loay/ArabicOCR-Qwen2.5-VL-7B-Vision) |
 | UpdatedFeb 23 | 313 | mradermacher/PaddleOCR-VL-0 | 0.5B | [Link](https://huggingface.co/mradermacher/PaddleOCR-VL-0.9B-GGUF) |
 | Updatedabout 24 hours ago | 297 | mradermacher/PaddleOCR-VL-1 | 0.5B | [Link](https://huggingface.co/mradermacher/PaddleOCR-VL-1.6-GGUF) |
+| Updated4 days ago | 296 | Axway/Rukopys-OCR-4B-GGUFImage-to-Text | 4B | [Link](https://huggingface.co/Axway/Rukopys-OCR-4B-GGUF) |
 | Updatedabout 1 month ago | 274 | ZihCiLin/trocr-traditional-chinese-baselineImage-to-Text | 0.3B | [Link](https://huggingface.co/ZihCiLin/trocr-traditional-chinese-baseline) |
 | UpdatedSep 16, 2025 | 245 | mradermacher/Qwen2-VL-2B-Abliterated-Caption-it-GGUFImage-to-Text | 2B | [Link](https://huggingface.co/mradermacher/Qwen2-VL-2B-Abliterated-Caption-it-GGUF) |
 | UpdatedJan 24 | 243 | noctrex/LightOnOCR-2-1B-bbox-GGUFImage-to-Text | 0.6B | [Link](https://huggingface.co/noctrex/LightOnOCR-2-1B-bbox-GGUF) |
@@ -7782,6 +7783,7 @@ Updated on 2026-08-29
 | 24 | Unknown | Audio8/audio8-TTS-0 | Updatedabout 13 hours ago | [Link](https://huggingface.co/Audio8/audio8-TTS-0.1B-ONNX-INT8) |
 | 13 | Unknown | onnx-community/higgs-audio-v3-tts-4bText-to-Speech | UpdatedJun 22 | [Link](https://huggingface.co/onnx-community/higgs-audio-v3-tts-4b) |
 | 5 | Unknown | TontaubeAI/TontaubeV1Text-to-Speech | Updated1 day ago | [Link](https://huggingface.co/TontaubeAI/TontaubeV1) |
+| 20 | Unknown | darkps/ice-012-audioText-to-Speech | Updatedabout 2 hours ago | [Link](https://huggingface.co/darkps/ice-012-audio) |
 
 ## Text-to-Video
 
