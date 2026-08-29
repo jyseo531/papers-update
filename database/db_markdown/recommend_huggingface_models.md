@@ -7781,6 +7781,7 @@ Updated on 2026-08-29
 | 7 | Unknown | javawock7618/comfy-MiniMax-H3-workflowsText-to-Speech | Updatedabout 2 hours ago | [Link](https://huggingface.co/javawock7618/comfy-MiniMax-H3-workflows) |
 | 24 | Unknown | Audio8/audio8-TTS-0 | Updatedabout 13 hours ago | [Link](https://huggingface.co/Audio8/audio8-TTS-0.1B-ONNX-INT8) |
 | 13 | Unknown | onnx-community/higgs-audio-v3-tts-4bText-to-Speech | UpdatedJun 22 | [Link](https://huggingface.co/onnx-community/higgs-audio-v3-tts-4b) |
+| 5 | Unknown | TontaubeAI/TontaubeV1Text-to-Speech | Updated1 day ago | [Link](https://huggingface.co/TontaubeAI/TontaubeV1) |
 
 ## Text-to-Video
 
