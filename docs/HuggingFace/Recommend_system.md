@@ -5564,6 +5564,7 @@ Updated on 2026-08-30
 | Updated1 day ago | 147 | Qwen/WebWorld-8BText | 8B | [Link](https://huggingface.co/Qwen/WebWorld-8B) |
 | Updatedabout 2 hours ago | 147k | RadixArk/Kimi-K3-DSparkText | 2B | [Link](https://huggingface.co/RadixArk/Kimi-K3-DSpark) |
 | 38 | 143 | qihoo360/TinyR1-32B-PreviewText | Updatedabout 17 hours ago | [Link](https://huggingface.co/qihoo360/TinyR1-32B-Preview) |
+| Updated1 day ago | 143 | ISTA-DASLab/Qwen3 | 27B | [Link](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF) |
 | Updatedabout 10 hours ago | 141 | XiaomiMiMo/MiMo-V2 | 1T | [Link](https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro) |
 | Updated6 days ago | 140 | zerofata/MS3 | 24B | [Link](https://huggingface.co/zerofata/MS3.2-PaintedFantasy-24B) |
 | Updated1 day ago | 140 | PleIAs/MonadText | 56.7M | [Link](https://huggingface.co/PleIAs/Monad) |
@@ -5698,6 +5699,7 @@ Updated on 2026-08-30
 | 251 | 63 | ByteDance-Seed/Seed-Coder-8B-ReasoningText | Updatedabout 6 hours ago | [Link](https://huggingface.co/ByteDance-Seed/Seed-Coder-8B-Reasoning) |
 | Updated1 day ago | 62 | Tesslate/UIGEN-X-4B-0729Text | 4B | [Link](https://huggingface.co/Tesslate/UIGEN-X-4B-0729) |
 | Updatedabout 6 hours ago | 62 | yuxinlu1/gemma-4-12B-agentic-fable5-composer2 | 12B | [Link](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF) |
+| Updatedabout 21 hours ago | 62 | orcarouter/GLM-5 | 321B | [Link](https://huggingface.co/orcarouter/GLM-5.3-Flash-Uncensored-FP8) |
 | Updated1 day ago | 61 | KurmaAI/AQUA-7BText | 7B | [Link](https://huggingface.co/KurmaAI/AQUA-7B) |
 | Updatedabout 23 hours ago | 61 | vandijklab/C2S-Scale-Gemma-2-27BText | 28B | [Link](https://huggingface.co/vandijklab/C2S-Scale-Gemma-2-27B) |
 | Updated35 minutes ago | 61 | naver-hyperclovax/HyperCLOVAX-SEED-Omni-8BText | 11B | [Link](https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Omni-8B) |
@@ -7377,6 +7379,7 @@ Updated on 2026-08-30
 | Updatedabout 11 hours ago | 86.3k | bosonai/higgs-tts-3-4bText-to-Speech | 5B | [Link](https://huggingface.co/bosonai/higgs-tts-3-4b) |
 | 24.4k | 83 | myshell-ai/MeloTTS-ChineseText-to-Speech | UpdatedMar 1, 2024 | [Link](https://huggingface.co/myshell-ai/MeloTTS-Chinese) |
 | Updated4 days ago | 83 | wcy1122/MGM-Omni-TTS-4BText-to-Speech | 5B | [Link](https://huggingface.co/wcy1122/MGM-Omni-TTS-4B) |
+| Updated3 days ago | 81 | samuel-vitorino/sopro-v2-turboText-to-Speech | 0.1B | [Link](https://huggingface.co/samuel-vitorino/sopro-v2-turbo) |
 | UpdatedMar 14 | 79 | saheedniyi/YarnGPT2bText-to-Speech | 0.4B | [Link](https://huggingface.co/saheedniyi/YarnGPT2b) |
 | 2.42k | 77 | FunAudioLLM/CosyVoice2-0 | UpdatedDec 27, 2024 | [Link](https://huggingface.co/FunAudioLLM/CosyVoice2-0.5B) |
 | 162 | 72 | canopylabs/orpheus-3b-0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/canopylabs/orpheus-3b-0.1-ft) |
