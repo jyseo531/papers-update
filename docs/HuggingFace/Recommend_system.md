@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-08-31
+Updated on 2026-09-01
 
 > Generated from the Hugging Face database.
 
@@ -2041,6 +2041,7 @@ Updated on 2026-08-31
 | Updatedabout 21 hours ago | 309 | inclusionAI/ZwZ-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/inclusionAI/ZwZ-4B) |
 | Updatedabout 12 hours ago | 308 | microsoft/Mage-VLImage-Text-to-Text | 5B | [Link](https://huggingface.co/microsoft/Mage-VL) |
 | Updated5 days ago | 302 | Qwen/Qwen3-VL-2B-Thinking-FP8Image-Text-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-2B-Thinking-FP8) |
+| Updatedabout 7 hours ago | 299 | deepseek-ai/DeepSeek-V4-Flash-Vision-ExpImage-Text-to-Text | 305B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp) |
 | UpdatedOct 21, 2025 | 298k | datalab-to/chandraImage-Text-to-Text | 9B | [Link](https://huggingface.co/datalab-to/chandra) |
 | Updatedabout 5 hours ago | 290 | meta-models/Muse-Glimmer-30BImage-Text-to-Text | 30B | [Link](https://huggingface.co/meta-models/Muse-Glimmer-30B) |
 | 17.9k | 287 | deepseek-ai/deepseek-vl2Image-Text-to-Text | UpdatedDec 18, 2024 | [Link](https://huggingface.co/deepseek-ai/deepseek-vl2) |
@@ -5797,6 +5798,7 @@ Updated on 2026-08-31
 | Updatedabout 13 hours ago | 40 | ai21labs/AI21-Jamba-Reasoning-3BText | 3B | [Link](https://huggingface.co/ai21labs/AI21-Jamba-Reasoning-3B) |
 | Updatedabout 12 hours ago | 40 | Qwen/Qwen3-Coder-Next-GGUFText | 80B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-Next-GGUF) |
 | Updatedabout 12 hours ago | 40 | KyleHessling1/Qwopus3 | 27B | [Link](https://huggingface.co/KyleHessling1/Qwopus3.6-27B-Fusion-GGUF) |
+| 196 | 40 | lightx2v/MiniMax-H3-Prompt-Rewriter-LoRA-OmniText | Updated5 days ago | [Link](https://huggingface.co/lightx2v/MiniMax-H3-Prompt-Rewriter-LoRA-Omni) |
 | 4 | 39 | Qwen/Qwen3-14BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-14B) |
 | UpdatedJun 8 | 39.4k | unsloth/Qwen3-4B-GGUFText | 4B | [Link](https://huggingface.co/unsloth/Qwen3-4B-GGUF) |
 | Updatedabout 2 hours ago | 39 | meituan-longcat/LongCat-Flash-Thinking-2601Text | 562B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Thinking-2601) |
@@ -7555,6 +7557,7 @@ Updated on 2026-08-31
 | 32 | 5 | tryorato/orato-tts-hindi-v1Text-to-Speech | Updated7 days ago | [Link](https://huggingface.co/tryorato/orato-tts-hindi-v1) |
 | Updatedabout 11 hours ago | 5 | Aratako/Irodori-TTS-v4 | 0.8B | [Link](https://huggingface.co/Aratako/Irodori-TTS-v4.1-Small) |
 | Updatedabout 9 hours ago | 5 | BreezeBlue/Breeze-TTS-2Text-to-Speech | 3B | [Link](https://huggingface.co/BreezeBlue/Breeze-TTS-2) |
+| 87 | 5 | mlboydaisuke/Pocket-TTS-LiteRTText-to-Speech | Updated6 days ago | [Link](https://huggingface.co/mlboydaisuke/Pocket-TTS-LiteRT) |
 | 5 | 4 | lunahr/csm-1b-safetensors-fp16Text-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-fp16) |
 | 2 | 4 | VAGOsolutions/SauerkrautTTS-Preview-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/VAGOsolutions/SauerkrautTTS-Preview-0.1) |
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
@@ -8245,6 +8248,7 @@ Updated on 2026-08-31
 | 5 | Unknown | htdong/LoopyText-to-Video | Updatedabout 9 hours ago | [Link](https://huggingface.co/htdong/Loopy) |
 | 8 | Unknown | alibaba-pai/MiniMax-H3-Acc-LoRAsText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/alibaba-pai/MiniMax-H3-Acc-LoRAs) |
 | 5 | Unknown | joeygambino/joyai-echo-ltx25-x-Z-Image-nativeText-to-Video | Updated3 days ago | [Link](https://huggingface.co/joeygambino/joyai-echo-ltx25-x-Z-Image-native) |
+| 116 |  | siraxe/H3_slider_experimentsText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/siraxe/H3_slider_experiments) |
 
 ## Text2Text Generation
 
