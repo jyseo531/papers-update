@@ -6142,6 +6142,7 @@ Updated on 2026-08-31
 | Updated6 days ago | 10.4k | lordx64/Qwable-v1-GGUFText | 35B | [Link](https://huggingface.co/lordx64/Qwable-v1-GGUF) |
 | Updated5 days ago | 10.4k | AEON-7/Ornith-1 | 21B | [Link](https://huggingface.co/AEON-7/Ornith-1.0-35B-AEON-Ultimate-Uncensored-NVFP4) |
 | Updated1 day ago | 10.9k | soyaakinohara/qwen3 | 27B | [Link](https://huggingface.co/soyaakinohara/qwen3.8-27b-abliterated-3.69bpw-12GB-MTP.gguf) |
+| Updated4 days ago | 10.4k | OBLITERATUS/Ornith-1 | 10B | [Link](https://huggingface.co/OBLITERATUS/Ornith-1.5-9B-OBLITERATED) |
 | Updatedabout 4 hours ago | 9 | meituan-longcat/LongCat-Flash-ChatText | 562B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Chat) |
 | Updatedabout 7 hours ago | 9 | facebook/MobileLLM-R1-950MText | 0.9B | [Link](https://huggingface.co/facebook/MobileLLM-R1-950M) |
 | Updatedabout 5 hours ago | 9 | Zyphra/ZAYA1-baseText | 9B | [Link](https://huggingface.co/Zyphra/ZAYA1-base) |
@@ -6931,6 +6932,7 @@ Updated on 2026-08-31
 | Updated25 days ago | 6.27k | data-archetype/canterText-to-Image | 2B | [Link](https://huggingface.co/data-archetype/canter) |
 |  | 6 | WeiChow/DiffusionOPSDText-to-Image | Updated1 day ago | [Link](https://huggingface.co/WeiChow/DiffusionOPSD) |
 | 38 | 6 | sakils123/Anima-Control-PoseText-to-Image | Updated6 days ago | [Link](https://huggingface.co/sakils123/Anima-Control-Pose) |
+|  | 6 | F16/krea2-turbo-sdaText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/F16/krea2-turbo-sda) |
 | 42 | 5 | Shakker-Labs/RepTextText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Shakker-Labs/RepText) |
 | 46 | 5 | ldiex/TACAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/ldiex/TACA) |
 | 49 | 5 | suzushi/miso-diffusion-2 | Updated4 days ago | [Link](https://huggingface.co/suzushi/miso-diffusion-2.0) |
