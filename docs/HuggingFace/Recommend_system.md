@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-09-01
+Updated on 2026-09-02
 
 > Generated from the Hugging Face database.
 
@@ -3220,6 +3220,7 @@ Updated on 2026-09-01
 | 3 | Unknown | DraconicDragon/NAFNet-VAE-DeGridImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/DraconicDragon/NAFNet-VAE-DeGrid) |
 | 7 | Unknown | PoopMan333/H3_Character_Sheet_GeneratorImage-to-Image | Updated26 minutes ago | [Link](https://huggingface.co/PoopMan333/H3_Character_Sheet_Generator) |
 | 5 | Unknown | joyfox/SenseNova-U1 | Updatedabout 12 hours ago | [Link](https://huggingface.co/joyfox/SenseNova-U1.5-8B-MoT-FP8) |
+| 95.2k |  | ScottzillaSystems/qwen-image-edit-plus-nsfw-loraImage-to-Image | UpdatedApr 26 | [Link](https://huggingface.co/ScottzillaSystems/qwen-image-edit-plus-nsfw-lora) |
 
 ## Image-to-Text
 
