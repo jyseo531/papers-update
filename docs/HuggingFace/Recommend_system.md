@@ -6165,6 +6165,7 @@ Updated on 2026-09-01
 | Updated6 days ago | 8.2k | ReadyArt/gemma-4-31B-it-scotoma-2-GGUFText | 31B | [Link](https://huggingface.co/ReadyArt/gemma-4-31B-it-scotoma-2-GGUF) |
 | Updatedabout 16 hours ago | 8.04k | AtomicChat/Qwen3 | 27B | [Link](https://huggingface.co/AtomicChat/Qwen3.8-27B-GGUF) |
 | Updatedabout 14 hours ago | 8.47k | outsourc-e/Qwen3 | 27B | [Link](https://huggingface.co/outsourc-e/Qwen3.8-27B-Unleashed-GGUF) |
+| Updated1 day ago | 8.11k | agentionai/Qwen3 | 177B | [Link](https://huggingface.co/agentionai/Qwen3.8-Flash-Next-ROCmFP4-FAST-imatrix-GGUF) |
 | Updated2 days ago | 7.65k | Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8) |
 | Updatedabout 4 hours ago | 7 | tencent/Hunyuan-7B-InstructText | 8B | [Link](https://huggingface.co/tencent/Hunyuan-7B-Instruct) |
 | Updated4 days ago | 7k | bartowski/cerebras_GLM-4 | 85B | [Link](https://huggingface.co/bartowski/cerebras_GLM-4.5-Air-REAP-82B-A12B-GGUF) |
@@ -7347,6 +7348,7 @@ Updated on 2026-09-01
 | 108 | 202 | mistralai/Voxtral-4B-TTS-2603Text-to-Speech | Updatedabout 11 hours ago | [Link](https://huggingface.co/mistralai/Voxtral-4B-TTS-2603) |
 | Updated6 days ago | 197 | neuphonic/neutts-nano-german-q8-ggufText-to-Speech | 0.2B | [Link](https://huggingface.co/neuphonic/neutts-nano-german-q8-gguf) |
 | 27.5k | 194 | suno/bark-smallText-to-Speech | UpdatedNov 10, 2023 | [Link](https://huggingface.co/suno/bark-small) |
+| Updated5 days ago | 194 | mlx-community/Breeze-TTS-2-mlxText-to-Speech | 3B | [Link](https://huggingface.co/mlx-community/Breeze-TTS-2-mlx) |
 | Updatedabout 16 hours ago | 187 | mlx-community/fish-audio-s2-pro-bf16Text-to-Speech | 5B | [Link](https://huggingface.co/mlx-community/fish-audio-s2-pro-bf16) |
 | Updated3 days ago | 182 | fnlp/MOSS-TTSD-v0 | 2B | [Link](https://huggingface.co/fnlp/MOSS-TTSD-v0.5) |
 | Updated6 days ago | 171 | baicai1145/s2-pro-w4a16Text-to-Speech | 5B | [Link](https://huggingface.co/baicai1145/s2-pro-w4a16) |
@@ -7558,6 +7560,7 @@ Updated on 2026-09-01
 | Updatedabout 11 hours ago | 5 | Aratako/Irodori-TTS-v4 | 0.8B | [Link](https://huggingface.co/Aratako/Irodori-TTS-v4.1-Small) |
 | Updatedabout 9 hours ago | 5 | BreezeBlue/Breeze-TTS-2Text-to-Speech | 3B | [Link](https://huggingface.co/BreezeBlue/Breeze-TTS-2) |
 | 87 | 5 | mlboydaisuke/Pocket-TTS-LiteRTText-to-Speech | Updated6 days ago | [Link](https://huggingface.co/mlboydaisuke/Pocket-TTS-LiteRT) |
+| 287 | 5 | drbaph/Breeze-TTS-2-comfyuiText-to-Speech | Updated5 days ago | [Link](https://huggingface.co/drbaph/Breeze-TTS-2-comfyui) |
 | 5 | 4 | lunahr/csm-1b-safetensors-fp16Text-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-fp16) |
 | 2 | 4 | VAGOsolutions/SauerkrautTTS-Preview-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/VAGOsolutions/SauerkrautTTS-Preview-0.1) |
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
