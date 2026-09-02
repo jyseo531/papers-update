@@ -3332,6 +3332,7 @@ Updated on 2026-09-02
 | UpdatedAug 14, 2025 | 105k | unsloth/gemma-3-27b-it-GGUFImage-to-Text | 27B | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-GGUF) |
 | Updatedabout 20 hours ago | 100 | arkhabbazan/ocr-captcha-routerImage-to-Text | 2.26M | [Link](https://huggingface.co/arkhabbazan/ocr-captcha-router) |
 | UpdatedSep 7, 2024 | 99 | antoniorv6/smt-camera-grandstaffImage-to-Text | 21.4M | [Link](https://huggingface.co/antoniorv6/smt-camera-grandstaff) |
+| UpdatedOct 31, 2025 | 99 | Mungert/LightOnOCR-1B-1025-GGUFImage-to-Text | 0.8B | [Link](https://huggingface.co/Mungert/LightOnOCR-1B-1025-GGUF) |
 | Updatedabout 19 hours ago | 96 | davanstrien/iconclass-vlmImage-to-Text | 4B | [Link](https://huggingface.co/davanstrien/iconclass-vlm) |
 | UpdatedJun 26, 2025 | 96 | Daniil-Domino/trocr-base-ru-dialectic-stackmixImage-to-Text | 0.3B | [Link](https://huggingface.co/Daniil-Domino/trocr-base-ru-dialectic-stackmix) |
 | Updatedabout 20 hours ago | 94 | arkhabbazan/ocr-math-captchaImage-to-Text | 0.3B | [Link](https://huggingface.co/arkhabbazan/ocr-math-captcha) |
@@ -3705,6 +3706,7 @@ Updated on 2026-09-02
 | 3.36k | 2 | PaddlePaddle/PP-OCRv4_server_detImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PP-OCRv4_server_det) |
 | 124 | 2 | Rattatammanoon/hurricane-ocr-tlpr-v1-LoRAImage-to-Text | UpdatedApr 9 | [Link](https://huggingface.co/Rattatammanoon/hurricane-ocr-tlpr-v1-LoRA) |
 | Updatedabout 1 hour ago | 2 | OttomanNLP/Azra-1-Mini-0 | 0.9B | [Link](https://huggingface.co/OttomanNLP/Azra-1-Mini-0.8b) |
+| Updatedabout 11 hours ago | 2 | ArkAiLab-Adl/nexora-ocr-v0 | 0.9B | [Link](https://huggingface.co/ArkAiLab-Adl/nexora-ocr-v0.1-0.8b) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -3919,6 +3921,7 @@ Updated on 2026-09-02
 | 4 | Unknown | xberg-io/paddleocr-onnx-modelsImage-to-Text | Updated12 days ago | [Link](https://huggingface.co/xberg-io/paddleocr-onnx-models) |
 | 1 | Unknown | FixFips/arabicocr-khattImage-to-Text | UpdatedJul 8 | [Link](https://huggingface.co/FixFips/arabicocr-khatt) |
 | 1 | Unknown | qualcomm-ai-hub-community/pp-ocrv5-zh-ko-snapdragon-int8Image-to-Text | UpdatedJul 11 | [Link](https://huggingface.co/qualcomm-ai-hub-community/pp-ocrv5-zh-ko-snapdragon-int8) |
+| 2 | Unknown | PadishahIIIXXX/latex-ocrImage-to-Text | Updatedabout 21 hours ago | [Link](https://huggingface.co/PadishahIIIXXX/latex-ocr) |
 
 ## Image-to-Video
 
@@ -5451,6 +5454,7 @@ Updated on 2026-09-02
 | Updated1 day ago | 443 | tencent/Hy3-FP8Text | 299B | [Link](https://huggingface.co/tencent/Hy3-FP8) |
 | Updatedabout 5 hours ago | 441k | EssentialAI/rnj-1-instructText | 8B | [Link](https://huggingface.co/EssentialAI/rnj-1-instruct) |
 | Updatedabout 24 hours ago | 433 | Jiunsong/supergemma4-e4b-abliteratedText | 8B | [Link](https://huggingface.co/Jiunsong/supergemma4-e4b-abliterated) |
+| Updatedabout 2 hours ago | 429 | XHToken/Spark-X2 | 4B | [Link](https://huggingface.co/XHToken/Spark-X2.5-4B) |
 | Updatedabout 11 hours ago | 427 | Jiunsong/SuperGemma4-31b-abliterated-GGUFText | 31B | [Link](https://huggingface.co/Jiunsong/SuperGemma4-31b-abliterated-GGUF) |
 | Updatedabout 12 hours ago | 425 | Nikity/lille-130m-instructText | 0.1B | [Link](https://huggingface.co/Nikity/lille-130m-instruct) |
 | Updated2 days ago | 419 | rstar2-reproduce/rStar2-Agent-14BText | 15B | [Link](https://huggingface.co/rstar2-reproduce/rStar2-Agent-14B) |
@@ -8253,6 +8257,7 @@ Updated on 2026-09-02
 | 8 | Unknown | alibaba-pai/MiniMax-H3-Acc-LoRAsText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/alibaba-pai/MiniMax-H3-Acc-LoRAs) |
 | 5 | Unknown | joeygambino/joyai-echo-ltx25-x-Z-Image-nativeText-to-Video | Updated3 days ago | [Link](https://huggingface.co/joeygambino/joyai-echo-ltx25-x-Z-Image-native) |
 | 116 |  | siraxe/H3_slider_experimentsText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/siraxe/H3_slider_experiments) |
+| 4 | Unknown | PulpCut/FastH3-VSA-INT8-ConvRotText-to-Video | Updated2 days ago | [Link](https://huggingface.co/PulpCut/FastH3-VSA-INT8-ConvRot) |
 
 ## Text2Text Generation
 
