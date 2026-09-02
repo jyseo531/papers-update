@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-09-02
+Updated on 2026-09-03
 
 > Generated from the Hugging Face database.
 
@@ -5600,6 +5600,7 @@ Updated on 2026-09-02
 | Updatedabout 11 hours ago | 115 | mistralai/Devstral-Small-2507Text | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2507) |
 | Updatedabout 14 hours ago | 115 | ornith-ai/Ornith-1 | 36B | [Link](https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B) |
 | Updatedabout 11 hours ago | 114 | OBLITERATUS/gemma-4-E4B-it-OBLITERATEDText | 8B | [Link](https://huggingface.co/OBLITERATUS/gemma-4-E4B-it-OBLITERATED) |
+| Updatedabout 21 hours ago | 114k | zerodigest/Qwen3 | 27B | [Link](https://huggingface.co/zerodigest/Qwen3.8-27B-Uncensored-YMQ-MTP-GGUF) |
 | Updated1 day ago | 113 | mlx-community/VibeThinker-1 | 0.2B | [Link](https://huggingface.co/mlx-community/VibeThinker-1.5B-mlx-4bit) |
 | Updatedabout 10 hours ago | 112 | nvidia/Qwen3-Nemotron-32B-RLBFFText | 33B | [Link](https://huggingface.co/nvidia/Qwen3-Nemotron-32B-RLBFF) |
 | Updated1 day ago | 111 | moelanoby/phi-3-M3-coderText | 4B | [Link](https://huggingface.co/moelanoby/phi-3-M3-coder) |
@@ -7566,6 +7567,7 @@ Updated on 2026-09-02
 | Updatedabout 9 hours ago | 5 | BreezeBlue/Breeze-TTS-2Text-to-Speech | 3B | [Link](https://huggingface.co/BreezeBlue/Breeze-TTS-2) |
 | 87 | 5 | mlboydaisuke/Pocket-TTS-LiteRTText-to-Speech | Updated6 days ago | [Link](https://huggingface.co/mlboydaisuke/Pocket-TTS-LiteRT) |
 | 287 | 5 | drbaph/Breeze-TTS-2-comfyuiText-to-Speech | Updated5 days ago | [Link](https://huggingface.co/drbaph/Breeze-TTS-2-comfyui) |
+| 20 | 5 | canberkkkkkk/ema-ttsText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/canberkkkkkk/ema-tts) |
 | 5 | 4 | lunahr/csm-1b-safetensors-fp16Text-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-fp16) |
 | 2 | 4 | VAGOsolutions/SauerkrautTTS-Preview-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/VAGOsolutions/SauerkrautTTS-Preview-0.1) |
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
@@ -7922,6 +7924,7 @@ Updated on 2026-09-02
 | Updatedabout 13 hours ago | 4 | realrebelai/LTX-2 | 21B | [Link](https://huggingface.co/realrebelai/LTX-2.5_GGUFs) |
 | 7.99k | 4 | rzgar/minimax_h3_fl2v_lightx2v_4step_int8-convrot_comfyText-to-Video | Updated1 day ago | [Link](https://huggingface.co/rzgar/minimax_h3_fl2v_lightx2v_4step_int8-convrot_comfy) |
 | 61 | 4 | siraxe/Venom_transformation_H3Text-to-Video | Updated7 days ago | [Link](https://huggingface.co/siraxe/Venom_transformation_H3) |
+| 565 | 4 | berryber09/10Eros-Max-h3-turbo-hybrid-beta4-w4a8Text-to-Video | Updated3 days ago | [Link](https://huggingface.co/berryber09/10Eros-Max-h3-turbo-hybrid-beta4-w4a8) |
 | 4.64k | 3 | guoyww/animatediff-motion-lora-pan-rightText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-pan-right) |
 | 28 | 3 | finetrainers/3dgs-v0Text-to-Video | UpdatedJan 29 | [Link](https://huggingface.co/finetrainers/3dgs-v0) |
 | 1 | 3 | longlian/text-to-video-lvd-msText-to-Video | UpdatedMay 1, 2024 | [Link](https://huggingface.co/longlian/text-to-video-lvd-ms) |
