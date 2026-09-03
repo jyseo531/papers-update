@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-09-03
+Updated on 2026-09-04
 
 > Generated from the Hugging Face database.
 
@@ -3708,6 +3708,7 @@ Updated on 2026-09-03
 | 124 | 2 | Rattatammanoon/hurricane-ocr-tlpr-v1-LoRAImage-to-Text | UpdatedApr 9 | [Link](https://huggingface.co/Rattatammanoon/hurricane-ocr-tlpr-v1-LoRA) |
 | Updatedabout 1 hour ago | 2 | OttomanNLP/Azra-1-Mini-0 | 0.9B | [Link](https://huggingface.co/OttomanNLP/Azra-1-Mini-0.8b) |
 | Updatedabout 11 hours ago | 2 | ArkAiLab-Adl/nexora-ocr-v0 | 0.9B | [Link](https://huggingface.co/ArkAiLab-Adl/nexora-ocr-v0.1-0.8b) |
+| 10 | 2 | dh-unibe/kraken-medieval-german-v2Image-to-Text | Updated3 days ago | [Link](https://huggingface.co/dh-unibe/kraken-medieval-german-v2) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -3923,6 +3924,7 @@ Updated on 2026-09-03
 | 1 | Unknown | FixFips/arabicocr-khattImage-to-Text | UpdatedJul 8 | [Link](https://huggingface.co/FixFips/arabicocr-khatt) |
 | 1 | Unknown | qualcomm-ai-hub-community/pp-ocrv5-zh-ko-snapdragon-int8Image-to-Text | UpdatedJul 11 | [Link](https://huggingface.co/qualcomm-ai-hub-community/pp-ocrv5-zh-ko-snapdragon-int8) |
 | 2 | Unknown | PadishahIIIXXX/latex-ocrImage-to-Text | Updatedabout 21 hours ago | [Link](https://huggingface.co/PadishahIIIXXX/latex-ocr) |
+| 2 | Unknown | small-models-for-glam/kraken-ppocrv6-tinyImage-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/small-models-for-glam/kraken-ppocrv6-tiny) |
 
 ## Image-to-Video
 
@@ -7904,6 +7906,7 @@ Updated on 2026-09-03
 | 863 | 6 | guoyww/animatediff-motion-adapter-v1-5-3Text-to-Video | UpdatedJul 8, 2024 | [Link](https://huggingface.co/guoyww/animatediff-motion-adapter-v1-5-3) |
 | 184 | 6 | BAAI/nova-d48w1024-osp480Text-to-Video | UpdatedDec 21, 2024 | [Link](https://huggingface.co/BAAI/nova-d48w1024-osp480) |
 | 6.29k | 6 | guoyww/animatediff-motion-lora-zoom-outText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-zoom-out) |
+|  | 6 | rehan-fal/minimax-h3-vr180-sbs-loraText-to-Video | Updatedabout 14 hours ago | [Link](https://huggingface.co/rehan-fal/minimax-h3-vr180-sbs-lora) |
 | 5.95k | 5 | guoyww/animatediff-motion-lora-tilt-downText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-tilt-down) |
 | 504 | 5 | guoyww/animatediff-motion-lora-v1-5-3Text-to-Video | UpdatedJul 23, 2024 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-v1-5-3) |
 | 23 | 5 | robingg1/NAVAText-to-Video | Updatedabout 8 hours ago | [Link](https://huggingface.co/robingg1/NAVA) |
@@ -8267,6 +8270,7 @@ Updated on 2026-09-03
 | 116 |  | siraxe/H3_slider_experimentsText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/siraxe/H3_slider_experiments) |
 | 4 | Unknown | PulpCut/FastH3-VSA-INT8-ConvRotText-to-Video | Updated2 days ago | [Link](https://huggingface.co/PulpCut/FastH3-VSA-INT8-ConvRot) |
 | 52 | Unknown | OpenVDN/vdn-minimax-h3Text-to-Video | Updatedabout 8 hours ago | [Link](https://huggingface.co/OpenVDN/vdn-minimax-h3) |
+| 8 | Unknown | t8star/Vdn-Minimax-H3-ComfyText-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/t8star/Vdn-Minimax-H3-Comfy) |
 
 ## Text2Text Generation
 
