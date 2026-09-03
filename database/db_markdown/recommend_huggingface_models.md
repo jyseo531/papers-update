@@ -2952,6 +2952,7 @@ Updated on 2026-09-03
 | 79 | 3 | internlm/ETCHR-FLUX | Updated1 day ago | [Link](https://huggingface.co/internlm/ETCHR-FLUX.2-klein-9B) |
 | 44 | 3 | rimochan/RUM-FLUX | Updated5 days ago | [Link](https://huggingface.co/rimochan/RUM-FLUX.2-klein-4B) |
 | 30 | 3 | BennyDaBall/PiD-1 | Updated2 days ago | [Link](https://huggingface.co/BennyDaBall/PiD-1.5-qwenimage-nvfp4-comfy) |
+| 18 | 3 | milan33/Qwen-Image-Edit-2511-INT4-DiffusersImage-to-Image | Updated5 days ago | [Link](https://huggingface.co/milan33/Qwen-Image-Edit-2511-INT4-Diffusers) |
 | 67 | 2 | SherryXTChen/InstructCLIP-InstructPix2PixImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/SherryXTChen/InstructCLIP-InstructPix2Pix) |
 | 17 | 2 | SherryXTChen/Instruct-CLIPImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/SherryXTChen/Instruct-CLIP) |
 | 76 | 2 | VisualCloze/VisualClozePipeline-384Image-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/VisualCloze/VisualClozePipeline-384) |
@@ -5507,6 +5508,7 @@ Updated on 2026-09-03
 | Updatedabout 2 hours ago | 255 | agentica-org/DeepSWE-PreviewText | 33B | [Link](https://huggingface.co/agentica-org/DeepSWE-Preview) |
 | Updated3 days ago | 249 | cerebras/DeepSeek-V3 | 345B | [Link](https://huggingface.co/cerebras/DeepSeek-V3.2-REAP-345B-A37B) |
 | 117 | 248 | moonshotai/Kimi-K2-ThinkingText | Updatedabout 10 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-K2-Thinking) |
+| Updated8 days ago | 248 | Mia-AiLab/Qwen3 | 8B | [Link](https://huggingface.co/Mia-AiLab/Qwen3.8-27B-EXL3-3.5bpw) |
 | Updatedabout 17 hours ago | 247 | PleIAs/BaguettotronText | 0.3B | [Link](https://huggingface.co/PleIAs/Baguettotron) |
 | UpdatedApr 22 | 246 | inclusionAI/Ling-Coder-liteText | 17B | [Link](https://huggingface.co/inclusionAI/Ling-Coder-lite) |
 | Updated2 days ago | 246 | nvidia/Efficient-DLM-4BText | 4B | [Link](https://huggingface.co/nvidia/Efficient-DLM-4B) |
@@ -5521,6 +5523,7 @@ Updated on 2026-09-03
 | Updatedabout 10 hours ago | 232 | inclusionAI/Ling-mini-2 | 16B | [Link](https://huggingface.co/inclusionAI/Ling-mini-2.0) |
 | Updated1 day ago | 231 | Abiray/LTX2 | 21B | [Link](https://huggingface.co/Abiray/LTX2.3-10Eros-GGUF) |
 | Updatedabout 8 hours ago | 229 | nex-agi/Nex-N2-ProText | 397B | [Link](https://huggingface.co/nex-agi/Nex-N2-Pro) |
+| Updatedabout 23 hours ago | 227 | dealignai/GLM-5 | 753B | [Link](https://huggingface.co/dealignai/GLM-5.3-CYBERSECURITY-FP8) |
 | Updatedabout 13 hours ago | 223 | Qwen/Qwen-AgentWorld-35B-A3BText | 35B | [Link](https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B) |
 | UpdatedSep 8, 2024 | 222k | NousResearch/Hermes-3-Llama-3 | 8B | [Link](https://huggingface.co/NousResearch/Hermes-3-Llama-3.1-8B) |
 | Updated3 days ago | 221 | ReadyArt/gemma-4-31B-it-scotoma-2Text | 31B | [Link](https://huggingface.co/ReadyArt/gemma-4-31B-it-scotoma-2) |
@@ -7520,6 +7523,7 @@ Updated on 2026-09-03
 | 10 | 7 | tarun7r/vibevoice-hindi-loraText-to-Speech | UpdatedNov 1, 2025 | [Link](https://huggingface.co/tarun7r/vibevoice-hindi-lora) |
 | Updatedabout 9 hours ago | 7 | fishaudio/s2-proText-to-Speech | 5B | [Link](https://huggingface.co/fishaudio/s2-pro) |
 | 46 | 7 | pymaster/VocalRenderText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/pymaster/VocalRender) |
+| 63 | 7 | OPPOer/CuteTTSText-to-Speech | Updated10 days ago | [Link](https://huggingface.co/OPPOer/CuteTTS) |
 | 13 | 6 | ntdgo/ttsviText-to-Speech | UpdatedApr 17, 2024 | [Link](https://huggingface.co/ntdgo/ttsvi) |
 | 29 | 6 | erax-ai/EraX-Smile-UnixSex-F5Text-to-Speech | Updatedabout 8 hours ago | [Link](https://huggingface.co/erax-ai/EraX-Smile-UnixSex-F5) |
 | 29 | 6 | ICTNLP/SLED-TTS-Streaming-LibriheavyText-to-Speech | Updatedabout 18 hours ago | [Link](https://huggingface.co/ICTNLP/SLED-TTS-Streaming-Libriheavy) |
@@ -7674,6 +7678,7 @@ Updated on 2026-09-03
 | Updated8 days ago | 1.76k | bluryar/VoxCPM-GGUFText-to-Speech | 0.7B | [Link](https://huggingface.co/bluryar/VoxCPM-GGUF) |
 | Updated8 days ago | 1.29k | Serveurperso/OmniVoice-GGUFText-to-Speech | 0.6B | [Link](https://huggingface.co/Serveurperso/OmniVoice-GGUF) |
 | Updated7 days ago | 1.76k | freyavoice/Freya-TTSText-to-Speech | 0.2B | [Link](https://huggingface.co/freyavoice/Freya-TTS) |
+| Updated6 days ago | 1.28k | HoppouAI/Breeze-TTS-2 | 3B | [Link](https://huggingface.co/HoppouAI/Breeze-TTS-2.cpp) |
 | 302 | Unknown | lj1995/GPT-SoVITSText-to-Speech | Updated14 days ago | [Link](https://huggingface.co/lj1995/GPT-SoVITS) |
 | 436 | Unknown | myshell-ai/OpenVoiceText-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoice) |
 | 365 | Unknown | myshell-ai/OpenVoiceV2Text-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoiceV2) |
@@ -8261,6 +8266,7 @@ Updated on 2026-09-03
 | 5 | Unknown | joeygambino/joyai-echo-ltx25-x-Z-Image-nativeText-to-Video | Updated3 days ago | [Link](https://huggingface.co/joeygambino/joyai-echo-ltx25-x-Z-Image-native) |
 | 116 |  | siraxe/H3_slider_experimentsText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/siraxe/H3_slider_experiments) |
 | 4 | Unknown | PulpCut/FastH3-VSA-INT8-ConvRotText-to-Video | Updated2 days ago | [Link](https://huggingface.co/PulpCut/FastH3-VSA-INT8-ConvRot) |
+| 52 | Unknown | OpenVDN/vdn-minimax-h3Text-to-Video | Updatedabout 8 hours ago | [Link](https://huggingface.co/OpenVDN/vdn-minimax-h3) |
 
 ## Text2Text Generation
 
