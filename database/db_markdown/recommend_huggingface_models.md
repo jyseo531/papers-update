@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-09-04
+Updated on 2026-09-05
 
 > Generated from the Hugging Face database.
 
@@ -3434,6 +3434,7 @@ Updated on 2026-09-04
 | 809 | 27 | MixTex/ZhEn-Latex-OCRImage-to-Text | UpdatedJul 30, 2024 | [Link](https://huggingface.co/MixTex/ZhEn-Latex-OCR) |
 | UpdatedMay 22, 2025 | 27.9k | meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8Image-to-Text | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8) |
 | UpdatedJul 15 | 27 | Hukyl/trocr-large-uk-handwritten-realImage-to-Text | 0.6B | [Link](https://huggingface.co/Hukyl/trocr-large-uk-handwritten-real) |
+| UpdatedNov 25, 2025 | 27 | korea-deep-learning/Qwen2 | 8B | [Link](https://huggingface.co/korea-deep-learning/Qwen2.5-VL-7B-TableRecog) |
 | 290 | 26 | paragon-AI/blip2-image-to-textImage-to-Text | UpdatedJun 24, 2023 | [Link](https://huggingface.co/paragon-AI/blip2-image-to-text) |
 | 2.31k | 26 | Xenova/vit-gpt2-image-captioningImage-to-Text | UpdatedOct 8, 2024 | [Link](https://huggingface.co/Xenova/vit-gpt2-image-captioning) |
 | 7.18k | 25 | ddobokki/ko-trocrImage-to-Text | UpdatedOct 22, 2024 | [Link](https://huggingface.co/ddobokki/ko-trocr) |
@@ -3927,6 +3928,7 @@ Updated on 2026-09-04
 | 2 | Unknown | PadishahIIIXXX/latex-ocrImage-to-Text | Updatedabout 21 hours ago | [Link](https://huggingface.co/PadishahIIIXXX/latex-ocr) |
 | 2 | Unknown | small-models-for-glam/kraken-ppocrv6-tinyImage-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/small-models-for-glam/kraken-ppocrv6-tiny) |
 | 8 | Unknown | small-models-for-glam/kraken-ppocrv6-mediumImage-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/small-models-for-glam/kraken-ppocrv6-medium) |
+| 1 | Unknown | HackerAditya56/NutriScan-3BImage-to-Text | UpdatedJan 25 | [Link](https://huggingface.co/HackerAditya56/NutriScan-3B) |
 
 ## Image-to-Video
 
@@ -6807,6 +6809,7 @@ Updated on 2026-09-04
 | Updatedabout 4 hours ago | 16 | microsoft/Mage-Flow-BaseText-to-Image | 4B | [Link](https://huggingface.co/microsoft/Mage-Flow-Base) |
 |  | 15 | Shakker-Labs/AWPortrait-ZText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/Shakker-Labs/AWPortrait-Z) |
 | 45 | 15 | NucleusAI/Nucleus-ImageText-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/NucleusAI/Nucleus-Image) |
+| Updatedabout 5 hours ago | 15 | inclusionAI/LLaDA-ImageText-to-Image | 7B | [Link](https://huggingface.co/inclusionAI/LLaDA-Image) |
 | 8 | 14 | mikeyandfriends/PixelWave_FLUX | Updated1 day ago | [Link](https://huggingface.co/mikeyandfriends/PixelWave_FLUX.1-schnell_04) |
 | 2.23k | 14 | mingyi456/Z-Image-Turbo-DF11-ComfyUIText-to-Image | Updated16 days ago | [Link](https://huggingface.co/mingyi456/Z-Image-Turbo-DF11-ComfyUI) |
 | 9 | 14 | Applesay123456/REDland_Aesthetic_FLUX | UpdatedNov 24 | [Link](https://huggingface.co/Applesay123456/REDland_Aesthetic_FLUX.1_v1) |
@@ -6892,6 +6895,7 @@ Updated on 2026-09-04
 | 299 | 8 | pmczip/Krea2Raw_LorasText-to-Image | Updatedabout 17 hours ago | [Link](https://huggingface.co/pmczip/Krea2Raw_Loras) |
 | 4.3k | 8 | rzgar/Wan2 | Updated12 days ago | [Link](https://huggingface.co/rzgar/Wan2.2-Bernini-R-Motion-Enhancer-n4w-i2v) |
 | Updated12 days ago | 8.53k | ChrisColeTech/krea2-turbo-edit-GGUFText-to-Image | 13B | [Link](https://huggingface.co/ChrisColeTech/krea2-turbo-edit-GGUF) |
+| Updatedabout 5 hours ago | 8 | inclusionAI/LLaDA-Image-Turbo-FP8Text-to-Image | 7B | [Link](https://huggingface.co/inclusionAI/LLaDA-Image-Turbo-FP8) |
 | 1.69k | 7 | silveroxides/Chroma-GGUFText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/silveroxides/Chroma-GGUF) |
 | 58 | 7 | Freepik/F-Lite-TextureText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Freepik/F-Lite-Texture) |
 | 41 | 7 | renderartist/simplevectorhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/simplevectorhidream) |
@@ -6918,6 +6922,7 @@ Updated on 2026-09-04
 | 80 | 7 | krea/Krea-2-LoRA-darkbrushText-to-Image | Updated1 day ago | [Link](https://huggingface.co/krea/Krea-2-LoRA-darkbrush) |
 | 838 | 7 | Winnougan/Ideogram_Instant_NSFWText-to-Image | Updated6 days ago | [Link](https://huggingface.co/Winnougan/Ideogram_Instant_NSFW) |
 | 186 | 7 | xixxix-HF/SydneySweeney_Krea2Text-to-Image | Updated5 days ago | [Link](https://huggingface.co/xixxix-HF/SydneySweeney_Krea2) |
+| Updatedabout 5 hours ago | 7 | inclusionAI/LLaDA-Image-TurboText-to-Image | 7B | [Link](https://huggingface.co/inclusionAI/LLaDA-Image-Turbo) |
 | 1.07k | 6 | DFloat11/FLUX | Updated1 day ago | [Link](https://huggingface.co/DFloat11/FLUX.1-dev-DF11) |
 | 836 | 6 | Minthy/RouWei-0 | Updated3 days ago | [Link](https://huggingface.co/Minthy/RouWei-0.8) |
 | 169 | 6 | PosterCraft/PosterCraft-v1_RLText-to-Image | Updated2 days ago | [Link](https://huggingface.co/PosterCraft/PosterCraft-v1_RL) |
@@ -7816,6 +7821,7 @@ Updated on 2026-09-04
 | 5 | Unknown | TontaubeAI/TontaubeV1Text-to-Speech | Updated1 day ago | [Link](https://huggingface.co/TontaubeAI/TontaubeV1) |
 | 20 | Unknown | darkps/ice-012-audioText-to-Speech | Updatedabout 2 hours ago | [Link](https://huggingface.co/darkps/ice-012-audio) |
 | 9 | Unknown | ampixa/sanoTTSText-to-Speech | UpdatedJul 13 | [Link](https://huggingface.co/ampixa/sanoTTS) |
+| 6 | Unknown | dogenthq/KorvaTTSText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/dogenthq/KorvaTTS) |
 
 ## Text-to-Video
 
