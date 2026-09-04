@@ -34,6 +34,7 @@ Updated on 2026-09-04
 | Updated4 days ago | 480 | llmfan46/gemma-4-E4B-it-ultra-uncensored-hereticAny-to-Any | 8B | [Link](https://huggingface.co/llmfan46/gemma-4-E4B-it-ultra-uncensored-heretic) |
 | Updatedabout 12 hours ago | 470 | google/gemma-4-26B-A4B-it-assistantAny-to-Any | 0.4B | [Link](https://huggingface.co/google/gemma-4-26B-A4B-it-assistant) |
 | Updatedabout 5 hours ago | 463 | google/gemma-4-12B-itAny-to-Any | 12B | [Link](https://huggingface.co/google/gemma-4-12B-it) |
+| UpdatedJul 20 | 463k | google/gemma-4-E2B-it-qat-w4a16-ctAny-to-Any | 6B | [Link](https://huggingface.co/google/gemma-4-E2B-it-qat-w4a16-ct) |
 | Updatedabout 14 hours ago | 450 | google/gemma-4-E4B-it-assistantAny-to-Any | 78.8M | [Link](https://huggingface.co/google/gemma-4-E4B-it-assistant) |
 | Updated3 days ago | 443 | cpatonn/Qwen3-Omni-30B-A3B-Instruct-AWQ-8bitAny-to-Any | 14B | [Link](https://huggingface.co/cpatonn/Qwen3-Omni-30B-A3B-Instruct-AWQ-8bit) |
 | Updated2 days ago | 438 | samuelchristlie/Lance-GGUFAny-to-Any | 6B | [Link](https://huggingface.co/samuelchristlie/Lance-GGUF) |
@@ -3925,6 +3926,7 @@ Updated on 2026-09-04
 | 1 | Unknown | qualcomm-ai-hub-community/pp-ocrv5-zh-ko-snapdragon-int8Image-to-Text | UpdatedJul 11 | [Link](https://huggingface.co/qualcomm-ai-hub-community/pp-ocrv5-zh-ko-snapdragon-int8) |
 | 2 | Unknown | PadishahIIIXXX/latex-ocrImage-to-Text | Updatedabout 21 hours ago | [Link](https://huggingface.co/PadishahIIIXXX/latex-ocr) |
 | 2 | Unknown | small-models-for-glam/kraken-ppocrv6-tinyImage-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/small-models-for-glam/kraken-ppocrv6-tiny) |
+| 8 | Unknown | small-models-for-glam/kraken-ppocrv6-mediumImage-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/small-models-for-glam/kraken-ppocrv6-medium) |
 
 ## Image-to-Video
 
@@ -5557,6 +5559,7 @@ Updated on 2026-09-04
 | Updatedabout 1 hour ago | 168 | tencent/Hy4-previewText | 780B | [Link](https://huggingface.co/tencent/Hy4-preview) |
 | Updated33 minutes ago | 167 | Qwen/Qwen3-Coder-30B-A3B-InstructText | 31B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct) |
 | Updated4 days ago | 166 | Gryphe/Gemma-4-26B-A4B-StyleTuneText | 27B | [Link](https://huggingface.co/Gryphe/Gemma-4-26B-A4B-StyleTune) |
+| Updatedabout 11 hours ago | 166 | IFM/K2-Horizon-7BText | 9B | [Link](https://huggingface.co/IFM/K2-Horizon-7B) |
 | Updated2 days ago | 164 | driaforall/mem-agentText | 0.0B | [Link](https://huggingface.co/driaforall/mem-agent) |
 | Updatedabout 17 hours ago | 164 | z-lab/gemma-4-26B-A4B-it-DFlashText | 0.4B | [Link](https://huggingface.co/z-lab/gemma-4-26B-A4B-it-DFlash) |
 | Updatedabout 3 hours ago | 163 | Alibaba-NLP/Tongyi-DeepResearch-30B-A3BText | 31B | [Link](https://huggingface.co/Alibaba-NLP/Tongyi-DeepResearch-30B-A3B) |
@@ -5666,6 +5669,7 @@ Updated on 2026-09-04
 | Updatedabout 9 hours ago | 80 | sarvamai/sarvam-105bText | 106B | [Link](https://huggingface.co/sarvamai/sarvam-105b) |
 | Updatedabout 20 hours ago | 80 | prism-ml/Bonsai-8B-ggufText | 8B | [Link](https://huggingface.co/prism-ml/Bonsai-8B-gguf) |
 | Updatedabout 2 hours ago | 80 | JetBrains/Mellum2-12B-A2 | 12B | [Link](https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking) |
+| Updatedabout 15 hours ago | 80 | IFM/K2-Horizon-MoVA-36B-A4BText | 37B | [Link](https://huggingface.co/IFM/K2-Horizon-MoVA-36B-A4B) |
 | Updated2 minutes ago | 79 | Skywork/MindLink-32B-0801Text | 33B | [Link](https://huggingface.co/Skywork/MindLink-32B-0801) |
 | 21.7k | 78 | unsloth/r1-1776-GGUFText | Updated6 days ago | [Link](https://huggingface.co/unsloth/r1-1776-GGUF) |
 | 10 | 78 | JetBrains/Mellum-4b-baseText | Updatedabout 15 hours ago | [Link](https://huggingface.co/JetBrains/Mellum-4b-base) |
@@ -5752,6 +5756,7 @@ Updated on 2026-09-04
 | Updatedabout 14 hours ago | 51 | nvidia/OpenReasoning-Nemotron-32BText | 33B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-32B) |
 | Updatedabout 9 hours ago | 51 | sarvamai/sarvam-30bText | 32B | [Link](https://huggingface.co/sarvamai/sarvam-30b) |
 | Updatedabout 8 hours ago | 51 | badtheorylabs/BTL-4Text | 35B | [Link](https://huggingface.co/badtheorylabs/BTL-4) |
+| Updatedabout 6 hours ago | 51 | IFM/K2-Horizon-MoVA-36B-A4B-GGUFText | 37B | [Link](https://huggingface.co/IFM/K2-Horizon-MoVA-36B-A4B-GGUF) |
 | 1.45k | 50 | ALLaM-AI/ALLaM-7B-Instruct-previewText | Updated8 days ago | [Link](https://huggingface.co/ALLaM-AI/ALLaM-7B-Instruct-preview) |
 | 5 | 50 | microsoft/Phi-4-mini-reasoningText | Updatedabout 11 hours ago | [Link](https://huggingface.co/microsoft/Phi-4-mini-reasoning) |
 | Updated1 day ago | 50 | cerebras/Kimi-Linear-REAP-35B-A3B-InstructText | 35B | [Link](https://huggingface.co/cerebras/Kimi-Linear-REAP-35B-A3B-Instruct) |
@@ -5884,6 +5889,7 @@ Updated on 2026-09-04
 | Updatedabout 5 hours ago | 32 | arcee-ai/Trinity-MiniText | 26B | [Link](https://huggingface.co/arcee-ai/Trinity-Mini) |
 | Updatedabout 16 hours ago | 32 | dealignai/Gemma-4-31B-JANG_4M-CRACKText | 6B | [Link](https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK) |
 | Updatedabout 2 hours ago | 32 | EschaLabs/Qwen3 | 7B | [Link](https://huggingface.co/EschaLabs/Qwen3.6-35B-A3B-Escha-W2) |
+| Updatedabout 3 hours ago | 32 | IFM/K2-Horizon-375B-A23BText | 379B | [Link](https://huggingface.co/IFM/K2-Horizon-375B-A23B) |
 | 172 | 31 | huihui-ai/QwQ-32B-abliteratedText | Updated2 days ago | [Link](https://huggingface.co/huihui-ai/QwQ-32B-abliterated) |
 | 76 | 31 | manycore-research/SpatialLM-Qwen-0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/manycore-research/SpatialLM-Qwen-0.5B) |
 | 4 | 31 | Qwen/Qwen3-Embedding-8BText | Updatedabout 10 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-Embedding-8B) |
@@ -7809,6 +7815,7 @@ Updated on 2026-09-04
 | 13 | Unknown | onnx-community/higgs-audio-v3-tts-4bText-to-Speech | UpdatedJun 22 | [Link](https://huggingface.co/onnx-community/higgs-audio-v3-tts-4b) |
 | 5 | Unknown | TontaubeAI/TontaubeV1Text-to-Speech | Updated1 day ago | [Link](https://huggingface.co/TontaubeAI/TontaubeV1) |
 | 20 | Unknown | darkps/ice-012-audioText-to-Speech | Updatedabout 2 hours ago | [Link](https://huggingface.co/darkps/ice-012-audio) |
+| 9 | Unknown | ampixa/sanoTTSText-to-Speech | UpdatedJul 13 | [Link](https://huggingface.co/ampixa/sanoTTS) |
 
 ## Text-to-Video
 
