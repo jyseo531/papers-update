@@ -3929,6 +3929,7 @@ Updated on 2026-09-05
 | 2 | Unknown | small-models-for-glam/kraken-ppocrv6-tinyImage-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/small-models-for-glam/kraken-ppocrv6-tiny) |
 | 8 | Unknown | small-models-for-glam/kraken-ppocrv6-mediumImage-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/small-models-for-glam/kraken-ppocrv6-medium) |
 | 1 | Unknown | HackerAditya56/NutriScan-3BImage-to-Text | UpdatedJan 25 | [Link](https://huggingface.co/HackerAditya56/NutriScan-3B) |
+| 1 | Unknown | avishadilhara/sinhala-deepseek-ocr-QloraImage-to-Text | UpdatedJul 1 | [Link](https://huggingface.co/avishadilhara/sinhala-deepseek-ocr-Qlora) |
 
 ## Image-to-Video
 
@@ -6896,6 +6897,7 @@ Updated on 2026-09-05
 | 4.3k | 8 | rzgar/Wan2 | Updated12 days ago | [Link](https://huggingface.co/rzgar/Wan2.2-Bernini-R-Motion-Enhancer-n4w-i2v) |
 | Updated12 days ago | 8.53k | ChrisColeTech/krea2-turbo-edit-GGUFText-to-Image | 13B | [Link](https://huggingface.co/ChrisColeTech/krea2-turbo-edit-GGUF) |
 | Updatedabout 5 hours ago | 8 | inclusionAI/LLaDA-Image-Turbo-FP8Text-to-Image | 7B | [Link](https://huggingface.co/inclusionAI/LLaDA-Image-Turbo-FP8) |
+| Updatedabout 17 hours ago | 8 | realrebelai/LLaDa-Image-Turbo_ComfyUIText-to-Image | 16B | [Link](https://huggingface.co/realrebelai/LLaDa-Image-Turbo_ComfyUI) |
 | 1.69k | 7 | silveroxides/Chroma-GGUFText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/silveroxides/Chroma-GGUF) |
 | 58 | 7 | Freepik/F-Lite-TextureText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Freepik/F-Lite-Texture) |
 | 41 | 7 | renderartist/simplevectorhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/simplevectorhidream) |
@@ -7907,6 +7909,7 @@ Updated on 2026-09-05
 | 363 | 9 | Skywork/SkyReels-V2-T2V-14B-540PText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-T2V-14B-540P) |
 | 96 | 9 | Scrappy-Doo/LTX_2 | Updated5 days ago | [Link](https://huggingface.co/Scrappy-Doo/LTX_2.3_Pixar_Toon_Style_LoRa) |
 | 50 | 9 | Jojocodex/minimax-h3-wushu-action-loraText-to-Video | Updated1 day ago | [Link](https://huggingface.co/Jojocodex/minimax-h3-wushu-action-lora) |
+|  | 9 | shamanic/minimax-h3-equi360-loraText-to-Video | Updatedabout 16 hours ago | [Link](https://huggingface.co/shamanic/minimax-h3-equi360-lora) |
 | 638 | 8 | calcuis/mochiText-to-Video | Updated22 days ago | [Link](https://huggingface.co/calcuis/mochi) |
 | 123k | 8 | guoyww/animatediff-motion-lora-zoom-inText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-zoom-in) |
 | 680 | 8 | a-r-r-o-w/LTX-Video-0 | UpdatedMar 18 | [Link](https://huggingface.co/a-r-r-o-w/LTX-Video-0.9.1-diffusers) |
