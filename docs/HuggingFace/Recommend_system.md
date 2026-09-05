@@ -186,6 +186,7 @@ Updated on 2026-09-05
 | Updatedabout 12 hours ago | 11 | unsloth/gemma-4-E2B-it-qat-GGUFAny-to-Any | 5B | [Link](https://huggingface.co/unsloth/gemma-4-E2B-it-qat-GGUF) |
 | Updatedabout 5 hours ago | 11 | huihui-ai/Huihui-gemma-4-12B-it-qat-q4_0-unquantized-abliterated-GGUFAny-to-Any | 12B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-12B-it-qat-q4_0-unquantized-abliterated-GGUF) |
 | Updatedabout 5 hours ago | 11 | sensenova/SenseNova-U1 | 18B | [Link](https://huggingface.co/sensenova/SenseNova-U1.5-8B-MoT-Preview) |
+| Updated10 days ago | 11.9k | bartowski/TheDrummer_Orion-26B-A4B-v1-GGUFAny-to-Any | 25B | [Link](https://huggingface.co/bartowski/TheDrummer_Orion-26B-A4B-v1-GGUF) |
 | 42 | 10 | sanaka87/BAGEL-RecAAny-to-Any | Updated2 days ago | [Link](https://huggingface.co/sanaka87/BAGEL-RecA) |
 | 6 | 10 | dorni/UniVerse-1-BaseAny-to-Any | Updatedabout 10 hours ago | [Link](https://huggingface.co/dorni/UniVerse-1-Base) |
 | UpdatedDec 12, 2024 | 10 | Alpha-VLLM/Lumina-mGPT-7B-768-OmniAny-to-Any | 7B | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-768-Omni) |
@@ -2003,6 +2004,7 @@ Updated on 2026-09-05
 | Updatedabout 18 hours ago | 841 | trohrbaugh/Qwen3 | 27B | [Link](https://huggingface.co/trohrbaugh/Qwen3.8-27B-heretic-ara) |
 | Updatedabout 3 hours ago | 840 | thinkingmachines/Inkling-SmallImage-Text-to-Text | 266B | [Link](https://huggingface.co/thinkingmachines/Inkling-Small) |
 | Updatedabout 4 hours ago | 829 | lmms-lab/LLaVA-OneVision-1 | 9B | [Link](https://huggingface.co/lmms-lab/LLaVA-OneVision-1.5-8B-Instruct) |
+| Updated3 days ago | 776 | Qwen/Qwen-Drive-1 | 5B | [Link](https://huggingface.co/Qwen/Qwen-Drive-1.0-4B) |
 | Updated2 days ago | 764 | unsloth/LFM2 | 1B | [Link](https://huggingface.co/unsloth/LFM2.5-VL-1.6B-GGUF) |
 | Updated3 days ago | 759 | Qwen/Qwen3-VL-2B-Instruct-FP8Image-Text-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct-FP8) |
 | Updatedabout 7 hours ago | 757 | jinaai/jina-vlmImage-Text-to-Text | 2B | [Link](https://huggingface.co/jinaai/jina-vlm) |
@@ -6297,6 +6299,8 @@ Updated on 2026-09-05
 | Updated4 days ago | 2.8k | josefprusa/ThinkingCap-Qwen3 | 6B | [Link](https://huggingface.co/josefprusa/ThinkingCap-Qwen3.6-27B-int4-AutoRound-v1) |
 | Updated2 days ago | 2.13k | Jiunsong/SuperGLM-5 | 381B | [Link](https://huggingface.co/Jiunsong/SuperGLM-5.2-abliterated-NVFP4) |
 | Updated5 days ago | 2.21k | InternScience/Agents-A1-4BText | 5B | [Link](https://huggingface.co/InternScience/Agents-A1-4B) |
+| Updated2 days ago | 2.57k | IFM/K2-Horizon-0 | 1B | [Link](https://huggingface.co/IFM/K2-Horizon-0.9B) |
+| Updated3 days ago | 2.75k | nvidia/DeepSeek-V4-Flash-0731-NVFP4Text | 304B | [Link](https://huggingface.co/nvidia/DeepSeek-V4-Flash-0731-NVFP4) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
 | Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
@@ -8287,6 +8291,8 @@ Updated on 2026-09-05
 | 4 | Unknown | PulpCut/FastH3-VSA-INT8-ConvRotText-to-Video | Updated2 days ago | [Link](https://huggingface.co/PulpCut/FastH3-VSA-INT8-ConvRot) |
 | 52 | Unknown | OpenVDN/vdn-minimax-h3Text-to-Video | Updatedabout 8 hours ago | [Link](https://huggingface.co/OpenVDN/vdn-minimax-h3) |
 | 8 | Unknown | t8star/Vdn-Minimax-H3-ComfyText-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/t8star/Vdn-Minimax-H3-Comfy) |
+| 77 |  | vpakarinen/better-human-motion-h3-loraText-to-Video | Updatedabout 5 hours ago | [Link](https://huggingface.co/vpakarinen/better-human-motion-h3-lora) |
+| 17 |  | vpakarinen/insta-tiktok-aesthetics-h3-loraText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/vpakarinen/insta-tiktok-aesthetics-h3-lora) |
 
 ## Text2Text Generation
 
