@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-09-13
+Updated on 2026-09-14
 
 > Generated from the Hugging Face database.
 
@@ -2071,6 +2071,7 @@ Updated on 2026-09-13
 | Updatedabout 2 hours ago | 232 | deepseek-ai/DeepSeek-OCR-2Image-Text-to-Text | 3B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-OCR-2) |
 | Updatedabout 14 hours ago | 228 | CohereLabs/command-a-vision-07-2025Image-Text-to-Text | 112B | [Link](https://huggingface.co/CohereLabs/command-a-vision-07-2025) |
 | Updatedabout 3 hours ago | 225 | lightonai/LightOnOCR-2-1BImage-Text-to-Text | 1B | [Link](https://huggingface.co/lightonai/LightOnOCR-2-1B) |
+| Updatedabout 9 hours ago | 223 | ukisai/Swift-Qwen3 | 28B | [Link](https://huggingface.co/ukisai/Swift-Qwen3.8-27b) |
 | Updatedabout 21 hours ago | 220 | magibu/magibu-11b-v0 | 12B | [Link](https://huggingface.co/magibu/magibu-11b-v0.8) |
 | Updated3 days ago | 218 | OctoMed/OctoMed-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/OctoMed/OctoMed-7B) |
 | Updated2 days ago | 214 | thomsonreuters/Thomson-1 | 35B | [Link](https://huggingface.co/thomsonreuters/Thomson-1.0-Small) |
@@ -6160,6 +6161,7 @@ Updated on 2026-09-13
 | 45 | 15 | cerebras/Qwen3-Coder-REAP-25B-A3BText | Updatedabout 19 hours ago | [Link](https://huggingface.co/cerebras/Qwen3-Coder-REAP-25B-A3B) |
 | Updated1 minute ago | 15 | meituan-longcat/LongCat-Flash-ProverText | 561B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Prover) |
 | Updatedabout 12 hours ago | 15 | poolside/Laguna-XS | 33B | [Link](https://huggingface.co/poolside/Laguna-XS.2) |
+| Updated2 days ago | 15.7k | LessThanThreeAI/Qwen3 | 27B | [Link](https://huggingface.co/LessThanThreeAI/Qwen3.8-27B-Humanlike-Chat-GGUF) |
 | 1k | 14 | unsloth/DeepSeek-R1-0528Text | Updated2 days ago | [Link](https://huggingface.co/unsloth/DeepSeek-R1-0528) |
 | 57 | 14 | katanemo/Arch-Agent-32BText | Updated3 days ago | [Link](https://huggingface.co/katanemo/Arch-Agent-32B) |
 | Updatedabout 11 hours ago | 14 | CohereLabs/command-a-translate-08-2025Text | 111B | [Link](https://huggingface.co/CohereLabs/command-a-translate-08-2025) |
@@ -7353,6 +7355,7 @@ Updated on 2026-09-13
 | 10 | Unknown | Vaelico/WulverText-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/Vaelico/Wulver) |
 | 213 |  | Edweibin/flux-dev-nfswText-to-Image | UpdatedAug 26, 2025 | [Link](https://huggingface.co/Edweibin/flux-dev-nfsw) |
 | 6 | Unknown | RicemanT/MageTrailText-to-Image | Updated1 day ago | [Link](https://huggingface.co/RicemanT/MageTrail) |
+| 6 | Unknown | javawock7618/comfy-workflowsText-to-Image | Updated1 day ago | [Link](https://huggingface.co/javawock7618/comfy-workflows) |
 
 ## Text-to-Speech
 
@@ -7537,6 +7540,7 @@ Updated on 2026-09-13
 | 2.61k | 14 | SPRINGLab/F5-Hindi-24KHzText-to-Speech | UpdatedJan 1 | [Link](https://huggingface.co/SPRINGLab/F5-Hindi-24KHz) |
 | Updated8 days ago | 14 | niobures/OuteTTSText-to-Speech | 1B | [Link](https://huggingface.co/niobures/OuteTTS) |
 | 30 | 14 | tencent/AuKText-to-Speech | Updatedabout 11 hours ago | [Link](https://huggingface.co/tencent/AuK) |
+| 947 | 14 | zeroweight-ai/ZeroTTSText-to-Speech | Updated7 days ago | [Link](https://huggingface.co/zeroweight-ai/ZeroTTS) |
 | 6 | 13 | OuteAI/Llama-OuteTTS-1 | Updatedabout 2 hours ago | [Link](https://huggingface.co/OuteAI/Llama-OuteTTS-1.0-1B) |
 | Updated5 days ago | 13 | OmniAICreator/Galgame-Llasa-3BText-to-Speech | 4B | [Link](https://huggingface.co/OmniAICreator/Galgame-Llasa-3B) |
 | 9 | 13 | hi-paris/ssml-breaks2ssml-fr-loraText-to-Speech | Updatedabout 3 hours ago | [Link](https://huggingface.co/hi-paris/ssml-breaks2ssml-fr-lora) |
