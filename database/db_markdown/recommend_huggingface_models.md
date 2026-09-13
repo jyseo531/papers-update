@@ -6934,6 +6934,7 @@ Updated on 2026-09-13
 | Updated12 days ago | 8.53k | ChrisColeTech/krea2-turbo-edit-GGUFText-to-Image | 13B | [Link](https://huggingface.co/ChrisColeTech/krea2-turbo-edit-GGUF) |
 | Updatedabout 5 hours ago | 8 | inclusionAI/LLaDA-Image-Turbo-FP8Text-to-Image | 7B | [Link](https://huggingface.co/inclusionAI/LLaDA-Image-Turbo-FP8) |
 | Updatedabout 17 hours ago | 8 | realrebelai/LLaDa-Image-Turbo_ComfyUIText-to-Image | 16B | [Link](https://huggingface.co/realrebelai/LLaDa-Image-Turbo_ComfyUI) |
+| 5.15k | 8 | lynaNSFW/mysticxxx_MM_H3Text-to-Image | Updated18 days ago | [Link](https://huggingface.co/lynaNSFW/mysticxxx_MM_H3) |
 | 1.69k | 7 | silveroxides/Chroma-GGUFText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/silveroxides/Chroma-GGUF) |
 | 58 | 7 | Freepik/F-Lite-TextureText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Freepik/F-Lite-Texture) |
 | 41 | 7 | renderartist/simplevectorhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/simplevectorhidream) |
