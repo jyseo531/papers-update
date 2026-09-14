@@ -7356,6 +7356,7 @@ Updated on 2026-09-14
 | 213 |  | Edweibin/flux-dev-nfswText-to-Image | UpdatedAug 26, 2025 | [Link](https://huggingface.co/Edweibin/flux-dev-nfsw) |
 | 6 | Unknown | RicemanT/MageTrailText-to-Image | Updated1 day ago | [Link](https://huggingface.co/RicemanT/MageTrail) |
 | 6 | Unknown | javawock7618/comfy-workflowsText-to-Image | Updated1 day ago | [Link](https://huggingface.co/javawock7618/comfy-workflows) |
+| 231 |  | lvladikov/Krea2-Turbo-Distill-2step-LoRAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/lvladikov/Krea2-Turbo-Distill-2step-LoRA) |
 
 ## Text-to-Speech
 
@@ -7880,6 +7881,7 @@ Updated on 2026-09-14
 | 8 | Unknown | Gander-Omni/GanderText-to-Speech | Updatedabout 11 hours ago | [Link](https://huggingface.co/Gander-Omni/Gander) |
 | 6 | Unknown | llm-jp/kaburi-ttsText-to-Speech | Updatedabout 11 hours ago | [Link](https://huggingface.co/llm-jp/kaburi-tts) |
 | 6 | Unknown | genvoice/xVibePocketTTSText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/genvoice/xVibePocketTTS) |
+| 7 | Unknown | drbaph/AuK-comfyuiText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/drbaph/AuK-comfyui) |
 
 ## Text-to-Video
 
@@ -8349,6 +8351,7 @@ Updated on 2026-09-14
 | 17 |  | vpakarinen/insta-tiktok-aesthetics-h3-loraText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/vpakarinen/insta-tiktok-aesthetics-h3-lora) |
 | 28 |  | vpakarinen/natural-face-speech-h3-loraText-to-Video | Updated1 day ago | [Link](https://huggingface.co/vpakarinen/natural-face-speech-h3-lora) |
 | 34 |  | TaoLiveAIGC/TaoMate-H3Text-to-Video | Updated3 days ago | [Link](https://huggingface.co/TaoLiveAIGC/TaoMate-H3) |
+| 20.7k |  | nyxia/H3-LorasText-to-Video | Updated11 days ago | [Link](https://huggingface.co/nyxia/H3-Loras) |
 
 ## Text2Text Generation
 
