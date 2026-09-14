@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-09-14
+Updated on 2026-09-15
 
 > Generated from the Hugging Face database.
 
@@ -110,6 +110,7 @@ Updated on 2026-09-14
 | Updatedabout 9 hours ago | 60 | armand0e/gemma-4-E2B-it-Claude-Opus-DistillAny-to-Any | 5B | [Link](https://huggingface.co/armand0e/gemma-4-E2B-it-Claude-Opus-Distill) |
 | Updated24 days ago | 59 | DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-balancedAny-to-Any | 4B | [Link](https://huggingface.co/DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-balanced) |
 | UpdatedApr 17, 2025 | 59 | OddTheGreat/Meteor_4B_V | 4B | [Link](https://huggingface.co/OddTheGreat/Meteor_4B_V.1) |
+| Updated5 days ago | 58 | Lucifer2006/Arcle-V1Any-to-Any | 6B | [Link](https://huggingface.co/Lucifer2006/Arcle-V1) |
 | Updated22 days ago | 57.1k | ggml-org/gemma-4-E4B-it-GGUFAny-to-Any | 8B | [Link](https://huggingface.co/ggml-org/gemma-4-E4B-it-GGUF) |
 | UpdatedMay 12 | 55.1k | unsloth/gemma-3-4b-it-unsloth-bnb-4bitAny-to-Any | 3B | [Link](https://huggingface.co/unsloth/gemma-3-4b-it-unsloth-bnb-4bit) |
 | Updated1 day ago | 55 | huihui-ai/Huihui-gemma-4-31B-it-qat-q4_0-unquantized-abliteratedAny-to-Any | 33B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-31B-it-qat-q4_0-unquantized-abliterated) |
@@ -121,6 +122,7 @@ Updated on 2026-09-14
 | UpdatedSep 11, 2024 | 47 | ljnlonoljpiljm/florence-2-large-nsfw-ptAny-to-Any | 0.8B | [Link](https://huggingface.co/ljnlonoljpiljm/florence-2-large-nsfw-pt) |
 | UpdatedNov 4, 2023 | 47.8k | adept/fuyu-8bAny-to-Any | 9B | [Link](https://huggingface.co/adept/fuyu-8b) |
 | Updated4 days ago | 47 | AiAsistent/xthos-v2-the-sovereign-architectAny-to-Any | 4B | [Link](https://huggingface.co/AiAsistent/xthos-v2-the-sovereign-architect) |
+| Updated23 days ago | 47.7k | ggml-org/gemma-4-12B-it-GGUFAny-to-Any | 12B | [Link](https://huggingface.co/ggml-org/gemma-4-12B-it-GGUF) |
 | Updated2 days ago | 46 | AuriAetherwiing/G4-E4B-Musica-v1Any-to-Any | 8B | [Link](https://huggingface.co/AuriAetherwiing/G4-E4B-Musica-v1) |
 | 32.5k | 44 | onnx-community/Janus-Pro-1B-ONNXAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/onnx-community/Janus-Pro-1B-ONNX) |
 | UpdatedAug 14 | 43.6k | unsloth/gemma-3-27b-it-GGUFAny-to-Any | 27B | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-GGUF) |
@@ -316,6 +318,7 @@ Updated on 2026-09-14
 | Updatedabout 9 hours ago | 2 | nightmedia/gemma-4-E4B-it-mxfp8-mlxAny-to-Any | 3B | [Link](https://huggingface.co/nightmedia/gemma-4-E4B-it-mxfp8-mlx) |
 | Updated2 days ago | 2.35k | llmfan46/gemma-4-E4B-it-ultra-uncensored-heretic-GGUFAny-to-Any | 8B | [Link](https://huggingface.co/llmfan46/gemma-4-E4B-it-ultra-uncensored-heretic-GGUF) |
 | Updated1 day ago | 2.33k | bartowski/Vortex5_G4-Dark-Soul-26B-A4B-GGUFAny-to-Any | 25B | [Link](https://huggingface.co/bartowski/Vortex5_G4-Dark-Soul-26B-A4B-GGUF) |
+| Updatedabout 22 hours ago | 2.79k | bartowski/TheDrummer_Orion-26B-A4B-v1 | 25B | [Link](https://huggingface.co/bartowski/TheDrummer_Orion-26B-A4B-v1.1-GGUF) |
 | 170 | 1 | tezuesh/moshi_generalAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/tezuesh/moshi_general) |
 | 35 | 1 | tezuesh/IBLlama_v1Any-to-Any | UpdatedJan 24 | [Link](https://huggingface.co/tezuesh/IBLlama_v1) |
 | 43 | 1 | Athagi/Janus-Pro-7BAny-to-Any | Updated28 days ago | [Link](https://huggingface.co/Athagi/Janus-Pro-7B) |
@@ -2636,6 +2639,7 @@ Updated on 2026-09-14
 | 33 | Unknown | ethanfel/Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRotImage-Text-to-Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot) |
 | 248 | Unknown | ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRotImage-Text-to-Text | Updated37 minutes ago | [Link](https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot) |
 | 56 | Unknown | PocketAiHub/Qwen3 | Updatedabout 11 hours ago | [Link](https://huggingface.co/PocketAiHub/Qwen3.8-27B-Abliterated-MLX) |
+| 62 | Unknown | drowzeys/DeepSeek-V4 | Updatedabout 10 hours ago | [Link](https://huggingface.co/drowzeys/DeepSeek-V4.1-Flash-Abliterated-Cybersecurity-Unleashed) |
 
 ## Image-to-3D
 
@@ -3415,6 +3419,7 @@ Updated on 2026-09-14
 | UpdatedDec 21, 2025 | 39 | naazimsnh02/medocr-visionImage-to-Text | 1.0B | [Link](https://huggingface.co/naazimsnh02/medocr-vision) |
 | Updatedabout 8 hours ago | 39 | xingxm/HiVG-3B-BaseImage-to-Text | 4B | [Link](https://huggingface.co/xingxm/HiVG-3B-Base) |
 | Updated8 days ago | 39 | Werea-co/Werea-DocOCR-1BImage-to-Text | 1B | [Link](https://huggingface.co/Werea-co/Werea-DocOCR-1B) |
+| UpdatedJan 29 | 39 | Philipp92/donut-base-german-receiptsImage-to-Text | 0.2B | [Link](https://huggingface.co/Philipp92/donut-base-german-receipts) |
 | UpdatedNov 4, 2023 | 38.2k | adept/fuyu-8bImage-to-Text | 9B | [Link](https://huggingface.co/adept/fuyu-8b) |
 | Updated3 days ago | 38 | TIGER-Lab/RationalRewards-8B-EditImage-to-Text | 9B | [Link](https://huggingface.co/TIGER-Lab/RationalRewards-8B-Edit) |
 | Updated8 days ago | 37 | nakasyou/capsolve-spImage-to-Text | 487k | [Link](https://huggingface.co/nakasyou/capsolve-sp) |
@@ -7578,6 +7583,7 @@ Updated on 2026-09-14
 | 12 | 8 | ErnarBahat/Spark-TTS-KazakhText-to-Speech | UpdatedJan 20 | [Link](https://huggingface.co/ErnarBahat/Spark-TTS-Kazakh) |
 | 2 | 8 | TeraSpace/TeraTTSv2Text-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/TeraSpace/TeraTTSv2) |
 | Updated15 days ago | 8.37k | Edge0/Audio8-TTS-Preview-0 | 0.2B | [Link](https://huggingface.co/Edge0/Audio8-TTS-Preview-0.1b) |
+| Updatedabout 18 hours ago | 8 | mehdi-hf/pocket-tts-farsi-v2Text-to-Speech | 0.1B | [Link](https://huggingface.co/mehdi-hf/pocket-tts-farsi-v2) |
 | 1.11k | 7 | DragonLineageAI/Vi-SparkTTS-0 | Updatedabout 10 hours ago | [Link](https://huggingface.co/DragonLineageAI/Vi-SparkTTS-0.5B) |
 | 9 | 7 | canopylabs/3b-zh-pretrain-research_releaseText-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/canopylabs/3b-zh-pretrain-research_release) |
 | 618 | 7 | canopylabs/3b-de-pretrain-research_releaseText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/canopylabs/3b-de-pretrain-research_release) |
