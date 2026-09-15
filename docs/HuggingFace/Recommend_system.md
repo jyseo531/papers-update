@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-09-15
+Updated on 2026-09-16
 
 > Generated from the Hugging Face database.
 
@@ -1998,6 +1998,7 @@ Updated on 2026-09-15
 
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
+| Updated1 day ago | 973 | Accio-Lab/occamy-1 | 35B | [Link](https://huggingface.co/Accio-Lab/occamy-1.0) |
 | Updated4 days ago | 964 | OrionLLM/GRM-2 | 28B | [Link](https://huggingface.co/OrionLLM/GRM-2.6-Plus) |
 | Updatedabout 7 hours ago | 952 | FINAL-Bench/Darwin-35B-A3B-OpusImage-Text-to-Text | 36B | [Link](https://huggingface.co/FINAL-Bench/Darwin-35B-A3B-Opus) |
 | Updated1 day ago | 941 | nvidia/NVIDIA-Nemotron-Nano-12B-v2-VL-BF16Image-Text-to-Text | 13B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-12B-v2-VL-BF16) |
@@ -2383,6 +2384,7 @@ Updated on 2026-09-15
 | Updatedabout 1 hour ago | 12 | janhq/Jan-v2-VL-medImage-Text-to-Text | 9B | [Link](https://huggingface.co/janhq/Jan-v2-VL-med) |
 | Updatedabout 15 hours ago | 12 | janhq/Jan-v2-VL-max-Instruct-FP8Image-Text-to-Text | 31B | [Link](https://huggingface.co/janhq/Jan-v2-VL-max-Instruct-FP8) |
 | Updated4 days ago | 12k | mlx-community/diffusiongemma-26B-A4B-it-4bitImage-Text-to-Text | 5B | [Link](https://huggingface.co/mlx-community/diffusiongemma-26B-A4B-it-4bit) |
+| Updatedabout 11 hours ago | 12 | TaichuAI/ZDTaichu5 | 10B | [Link](https://huggingface.co/TaichuAI/ZDTaichu5.0-9B) |
 | 918 | 11 | mlabonne/gemma-3-27b-it-abliterated-GGUFImage-Text-to-Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-abliterated-GGUF) |
 | 4.38k | 11 | bartowski/mlabonne_gemma-3-27b-it-abliterated-GGUFImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/bartowski/mlabonne_gemma-3-27b-it-abliterated-GGUF) |
 | 862 | 11 | mlabonne/gemma-3-4b-it-abliteratedImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-4b-it-abliterated) |
@@ -2768,6 +2770,7 @@ Updated on 2026-09-15
 | 13.5k | 113 | lllyasviel/control_v11f1e_sd15_tileImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11f1e_sd15_tile) |
 | Updated2 days ago | 112 | mlx-community/Lance-3B-bf16Image-to-Image | 6B | [Link](https://huggingface.co/mlx-community/Lance-3B-bf16) |
 | 15.3k | 109 | lllyasviel/control_v11p_sd15_openposeImage-to-Image | UpdatedAug 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_openpose) |
+| 192 | 96 | ApolloQT/Flux-Uncensored-V2Image-to-Image | UpdatedMar 27 | [Link](https://huggingface.co/ApolloQT/Flux-Uncensored-V2) |
 | 4.13k | 88 | tlennon-ie/qwen-edit-skinImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/tlennon-ie/qwen-edit-skin) |
 | Updated5 days ago | 88 | mlx-community/EfRLFN-x4Image-to-Image | 504k | [Link](https://huggingface.co/mlx-community/EfRLFN-x4) |
 | 6.03k | 85 | DiffSynth-Studio/Qwen-Image-Edit-F2PImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/DiffSynth-Studio/Qwen-Image-Edit-F2P) |
@@ -3958,6 +3961,7 @@ Updated on 2026-09-15
 | 1 | Unknown | avishadilhara/sinhala-deepseek-ocr-QloraImage-to-Text | UpdatedJul 1 | [Link](https://huggingface.co/avishadilhara/sinhala-deepseek-ocr-Qlora) |
 | 10 | Unknown | bodhan-ai/indic-ocrImage-to-Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/bodhan-ai/indic-ocr) |
 | 3 | Unknown | Intel/ocr-text-recognitionImage-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/Intel/ocr-text-recognition) |
+| 2 | Unknown | itayinbar/Mishkefet-v1Image-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/itayinbar/Mishkefet-v1) |
 
 ## Image-to-Video
 
@@ -6853,6 +6857,7 @@ Updated on 2026-09-15
 | 247 | 16 | Photoroom/prx-1024-t2i-betaText-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/Photoroom/prx-1024-t2i-beta) |
 | 112 | 16 | KlingTeam/SVG-T2IText-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/KlingTeam/SVG-T2I) |
 | Updatedabout 4 hours ago | 16 | microsoft/Mage-Flow-BaseText-to-Image | 4B | [Link](https://huggingface.co/microsoft/Mage-Flow-Base) |
+| 138 | 16 | Cierpliwy/krea2_lineart_editText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/Cierpliwy/krea2_lineart_edit) |
 |  | 15 | Shakker-Labs/AWPortrait-ZText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/Shakker-Labs/AWPortrait-Z) |
 | 45 | 15 | NucleusAI/Nucleus-ImageText-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/NucleusAI/Nucleus-Image) |
 | Updatedabout 5 hours ago | 15 | inclusionAI/LLaDA-ImageText-to-Image | 7B | [Link](https://huggingface.co/inclusionAI/LLaDA-Image) |
@@ -7563,6 +7568,7 @@ Updated on 2026-09-15
 | 109 | 11 | NeuroDonu/RU-XTTS-DonuModelText-to-Speech | UpdatedMay 1, 2024 | [Link](https://huggingface.co/NeuroDonu/RU-XTTS-DonuModel) |
 | 36 | 11 | Abhinay45/XTTS-Hindi-finetunedText-to-Speech | UpdatedJan 11 | [Link](https://huggingface.co/Abhinay45/XTTS-Hindi-finetuned) |
 | 10.4k | 11 | JTS-AI/JaiTTS-F5TTSText-to-Speech | Updated27 days ago | [Link](https://huggingface.co/JTS-AI/JaiTTS-F5TTS) |
+| 35 | 11 | oddadmix/Kokoro-7M-DistillText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/oddadmix/Kokoro-7M-Distill) |
 | 27 | 10 | hexgrad/Kokoro-82M-v1 | Updatedabout 7 hours ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M-v1.1-zh) |
 | 879 | 10 | FunAudioLLM/CosyVoice-300M-SFTText-to-Speech | UpdatedDec 27, 2024 | [Link](https://huggingface.co/FunAudioLLM/CosyVoice-300M-SFT) |
 | 367 | 10 | IbrahimSalah/F5-TTS-ArabicText-to-Speech | UpdatedFeb 15 | [Link](https://huggingface.co/IbrahimSalah/F5-TTS-Arabic) |
@@ -8017,6 +8023,7 @@ Updated on 2026-09-15
 | 7.99k | 4 | rzgar/minimax_h3_fl2v_lightx2v_4step_int8-convrot_comfyText-to-Video | Updated1 day ago | [Link](https://huggingface.co/rzgar/minimax_h3_fl2v_lightx2v_4step_int8-convrot_comfy) |
 | 61 | 4 | siraxe/Venom_transformation_H3Text-to-Video | Updated7 days ago | [Link](https://huggingface.co/siraxe/Venom_transformation_H3) |
 | 565 | 4 | berryber09/10Eros-Max-h3-turbo-hybrid-beta4-w4a8Text-to-Video | Updated3 days ago | [Link](https://huggingface.co/berryber09/10Eros-Max-h3-turbo-hybrid-beta4-w4a8) |
+| 96 | 4 | JOKER141/BUNNY_H3_Conditioning_BridgeText-to-Video | Updated1 day ago | [Link](https://huggingface.co/JOKER141/BUNNY_H3_Conditioning_Bridge) |
 | 4.64k | 3 | guoyww/animatediff-motion-lora-pan-rightText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-pan-right) |
 | 28 | 3 | finetrainers/3dgs-v0Text-to-Video | UpdatedJan 29 | [Link](https://huggingface.co/finetrainers/3dgs-v0) |
 | 1 | 3 | longlian/text-to-video-lvd-msText-to-Video | UpdatedMay 1, 2024 | [Link](https://huggingface.co/longlian/text-to-video-lvd-ms) |
