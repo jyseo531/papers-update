@@ -3383,6 +3383,7 @@ Updated on 2026-09-15
 | UpdatedJan 27, 2025 | 65 | cnmoro/mini-image-captioningImage-to-Text | 34.2M | [Link](https://huggingface.co/cnmoro/mini-image-captioning) |
 | UpdatedFeb 6 | 65 | JEILDLWLRMA/Qwen3-VL-8B-Instruct-NVFP4-FP8-DynamicImage-to-Text | 6B | [Link](https://huggingface.co/JEILDLWLRMA/Qwen3-VL-8B-Instruct-NVFP4-FP8-Dynamic) |
 | 8.31k | 64 | alibaba-damo/mgp-str-baseImage-to-Text | UpdatedDec 11, 2023 | [Link](https://huggingface.co/alibaba-damo/mgp-str-base) |
+| Updated4 days ago | 62 | LaMOP/TrOCR_Manicule_2026_Latin_MedievalImage-to-Text | 0.3B | [Link](https://huggingface.co/LaMOP/TrOCR_Manicule_2026_Latin_Medieval) |
 | UpdatedMar 25, 2024 | 61 | emisilab/model-ocr-ktp-v1Image-to-Text | 0.2B | [Link](https://huggingface.co/emisilab/model-ocr-ktp-v1) |
 | Updated10 days ago | 59 | phxember/Uni-MuMER-Qwen3 | 5B | [Link](https://huggingface.co/phxember/Uni-MuMER-Qwen3.5-4B) |
 | Updated1 day ago | 56 | huihui-ai/Huihui-Devstral-Small-2-24B-Instruct-2512-abliteratedImage-to-Text | 24B | [Link](https://huggingface.co/huihui-ai/Huihui-Devstral-Small-2-24B-Instruct-2512-abliterated) |
@@ -3501,6 +3502,7 @@ Updated on 2026-09-15
 | 312 | 15 | IDEA-CCNL/Taiyi-BLIP-750M-ChineseImage-to-Text | UpdatedJun 6, 2023 | [Link](https://huggingface.co/IDEA-CCNL/Taiyi-BLIP-750M-Chinese) |
 | UpdatedDec 10, 2024 | 15.5k | unsloth/Llama-3 | 11B | [Link](https://huggingface.co/unsloth/Llama-3.2-11B-Vision-Instruct) |
 | Updatedabout 9 hours ago | 15 | nyu-visionx/Cambrian-S-7BImage-to-Text | 8B | [Link](https://huggingface.co/nyu-visionx/Cambrian-S-7B) |
+| UpdatedFeb 23 | 15 | afirelily/GlanceOCR-v2_2-tinyImage-to-Text | 4.35M | [Link](https://huggingface.co/afirelily/GlanceOCR-v2_2-tiny) |
 | 135k | 14 | naver-clova-ix/donut-base-finetuned-rvlcdipImage-to-Text | UpdatedMar 9, 2024 | [Link](https://huggingface.co/naver-clova-ix/donut-base-finetuned-rvlcdip) |
 | 159 | 14 | yayayaaa/florence-2-large-ft-moredetailedImage-to-Text | UpdatedJul 16, 2024 | [Link](https://huggingface.co/yayayaaa/florence-2-large-ft-moredetailed) |
 | UpdatedMar 6 | 14 | ankitelastiq/llama-3-2-11b-vision-electrical-components-instructImage-to-Text | 11B | [Link](https://huggingface.co/ankitelastiq/llama-3-2-11b-vision-electrical-components-instruct) |
