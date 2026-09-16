@@ -65,6 +65,7 @@ Updated on 2026-09-16
 | Updatedabout 3 hours ago | 215 | inclusionAI/Ming-UniAudio-16B-A3BAny-to-Any | 18B | [Link](https://huggingface.co/inclusionAI/Ming-UniAudio-16B-A3B) |
 | Updated4 days ago | 212 | PaDT-MLLM/PaDT_Pro_3BAny-to-Any | 4B | [Link](https://huggingface.co/PaDT-MLLM/PaDT_Pro_3B) |
 | 1.68k | 208 | BAAI/Emu3-GenAny-to-Any | UpdatedOct 23, 2024 | [Link](https://huggingface.co/BAAI/Emu3-Gen) |
+| Updated28 minutes ago | 207 | DeepCybo/PhysBrain1 | 9B | [Link](https://huggingface.co/DeepCybo/PhysBrain1.5-8B) |
 | UpdatedApr 9 | 203 | Tesslate/Synthia-S1-27bAny-to-Any | 27B | [Link](https://huggingface.co/Tesslate/Synthia-S1-27b) |
 | Updated16 days ago | 193 | OddTheGreat/Mars_27B_V | 29B | [Link](https://huggingface.co/OddTheGreat/Mars_27B_V.1) |
 | Updated3 days ago | 193 | prithivMLmods/gemma-4-E2B-it-Uncensored-MAXAny-to-Any | 5B | [Link](https://huggingface.co/prithivMLmods/gemma-4-E2B-it-Uncensored-MAX) |
@@ -5617,6 +5618,7 @@ Updated on 2026-09-16
 | Updatedabout 2 hours ago | 147k | RadixArk/Kimi-K3-DSparkText | 2B | [Link](https://huggingface.co/RadixArk/Kimi-K3-DSpark) |
 | 38 | 143 | qihoo360/TinyR1-32B-PreviewText | Updatedabout 17 hours ago | [Link](https://huggingface.co/qihoo360/TinyR1-32B-Preview) |
 | Updated1 day ago | 143 | ISTA-DASLab/Qwen3 | 27B | [Link](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF) |
+| Updated13 days ago | 142 | audnai/penclaw-GLM-5 | 753B | [Link](https://huggingface.co/audnai/penclaw-GLM-5.3-abliterated) |
 | Updatedabout 10 hours ago | 141 | XiaomiMiMo/MiMo-V2 | 1T | [Link](https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro) |
 | Updated6 days ago | 140 | zerofata/MS3 | 24B | [Link](https://huggingface.co/zerofata/MS3.2-PaintedFantasy-24B) |
 | Updated1 day ago | 140 | PleIAs/MonadText | 56.7M | [Link](https://huggingface.co/PleIAs/Monad) |
@@ -8123,6 +8125,7 @@ Updated on 2026-09-16
 | 27 | 2 | Qualcomm-AI-Research/mobilewanText-to-Video | Updatedabout 5 hours ago | [Link](https://huggingface.co/Qualcomm-AI-Research/mobilewan) |
 | 1 | 2 | mehmetkeremturkcan/Suturing-Wan2 | UpdatedMar 14, 2025 | [Link](https://huggingface.co/mehmetkeremturkcan/Suturing-Wan2.1-1.3B-T2V) |
 | Updatedabout 2 hours ago | 2 | ChrisColeTech/LTX-2 | 12B | [Link](https://huggingface.co/ChrisColeTech/LTX-2.3-uncensored-fp8) |
+| Updatedabout 13 hours ago | 2 | FastVideo/FastVideo-FastH3-8-Step-V2Text-to-Video | 35B | [Link](https://huggingface.co/FastVideo/FastVideo-FastH3-8-Step-V2) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
