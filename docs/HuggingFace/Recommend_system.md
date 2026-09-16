@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-09-16
+Updated on 2026-09-17
 
 > Generated from the Hugging Face database.
 
@@ -2521,6 +2521,7 @@ Updated on 2026-09-16
 | Updated1 day ago | 4.56k | bartowski/ServiceNow-AI_Apriel-1 | 14B | [Link](https://huggingface.co/bartowski/ServiceNow-AI_Apriel-1.6-15b-Thinker-GGUF) |
 | Updatedabout 9 hours ago | 4.22k | stepfun-ai/Step3-VL-10BImage-Text-to-Text | 10B | [Link](https://huggingface.co/stepfun-ai/Step3-VL-10B) |
 | Updated3 days ago | 4.66k | Jackrong/Negentropy-claude-opus-4 | 9B | [Link](https://huggingface.co/Jackrong/Negentropy-claude-opus-4.7-9B-GGUF) |
+| Updated27 days ago | 4.92k | cyjin-yl/Qwen3 | 3.39M | [Link](https://huggingface.co/cyjin-yl/Qwen3.8-27B-Uncensored-Cyber-agentic-imatrix-GGUF) |
 | Updated5 minutes ago | 3.08k | openbmb/MiniCPM-V-4-ggufImage-Text-to-Text | 4B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4-gguf) |
 | Updatedabout 14 hours ago | 3 | Qwen/Qwen3-VL-8B-ThinkingImage-Text-to-Text | 9B | [Link](https://huggingface.co/Qwen/Qwen3-VL-8B-Thinking) |
 | Updatedabout 13 hours ago | 3 | Qwen/Qwen3-VL-4B-Thinking-FP8Image-Text-to-Text | 5B | [Link](https://huggingface.co/Qwen/Qwen3-VL-4B-Thinking-FP8) |
@@ -6471,6 +6472,7 @@ Updated on 2026-09-16
 | 33 | Unknown | basaltlabsai/monolith-1 | Updated1 day ago | [Link](https://huggingface.co/basaltlabsai/monolith-1.0) |
 | 40 | Unknown | Cactus-Compute/needle2Text | Updatedabout 15 hours ago | [Link](https://huggingface.co/Cactus-Compute/needle2) |
 | 43 | Unknown | peonist-ai/halogen-qwen3 | Updatedabout 4 hours ago | [Link](https://huggingface.co/peonist-ai/halogen-qwen3.8-flash-next) |
+| 72 | Unknown | harshatheg/Qwen-2 | Updatedabout 10 hours ago | [Link](https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD) |
 
 ## Text Ranking
 
@@ -8370,6 +8372,7 @@ Updated on 2026-09-16
 | 28 |  | vpakarinen/natural-face-speech-h3-loraText-to-Video | Updated1 day ago | [Link](https://huggingface.co/vpakarinen/natural-face-speech-h3-lora) |
 | 34 |  | TaoLiveAIGC/TaoMate-H3Text-to-Video | Updated3 days ago | [Link](https://huggingface.co/TaoLiveAIGC/TaoMate-H3) |
 | 20.7k |  | nyxia/H3-LorasText-to-Video | Updated11 days ago | [Link](https://huggingface.co/nyxia/H3-Loras) |
+| 37 |  | Asirus/TaoMate_H3_3_Step_LoRAText-to-Video | Updated1 day ago | [Link](https://huggingface.co/Asirus/TaoMate_H3_3_Step_LoRA) |
 
 ## Text2Text Generation
 
