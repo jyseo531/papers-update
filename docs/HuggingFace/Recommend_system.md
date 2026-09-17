@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-09-17
+Updated on 2026-09-18
 
 > Generated from the Hugging Face database.
 
@@ -5763,6 +5763,7 @@ Updated on 2026-09-17
 | Updated33 minutes ago | 61 | inclusionAI/Ring-2 | 1T | [Link](https://huggingface.co/inclusionAI/Ring-2.5-1T) |
 | Updated3 days ago | 61.7k | sakamakismile/Qwen3 | 17B | [Link](https://huggingface.co/sakamakismile/Qwen3.6-27B-Text-NVFP4-MTP) |
 | Updatedabout 24 hours ago | 61 | deepseek-ai/DeepSeek-V4-Flash-DSparkText | 165B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-DSpark) |
+| Updatedabout 16 hours ago | 61 | XingChen-AGI/Xing4 | 31B | [Link](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B) |
 | Updated2 days ago | 60 | Alibaba-NLP/WebDancer-32BText | 33B | [Link](https://huggingface.co/Alibaba-NLP/WebDancer-32B) |
 | Updatedabout 20 hours ago | 60 | inclusionAI/LLaDA2 | 16B | [Link](https://huggingface.co/inclusionAI/LLaDA2.0-mini-preview) |
 | Updatedabout 13 hours ago | 60 | haykgrigorian/TimeCapsuleLLM-v2-llama-1 | 1B | [Link](https://huggingface.co/haykgrigorian/TimeCapsuleLLM-v2-llama-1.2B) |
@@ -6953,6 +6954,7 @@ Updated on 2026-09-17
 | Updatedabout 5 hours ago | 8 | inclusionAI/LLaDA-Image-Turbo-FP8Text-to-Image | 7B | [Link](https://huggingface.co/inclusionAI/LLaDA-Image-Turbo-FP8) |
 | Updatedabout 17 hours ago | 8 | realrebelai/LLaDa-Image-Turbo_ComfyUIText-to-Image | 16B | [Link](https://huggingface.co/realrebelai/LLaDa-Image-Turbo_ComfyUI) |
 | 5.15k | 8 | lynaNSFW/mysticxxx_MM_H3Text-to-Image | Updated18 days ago | [Link](https://huggingface.co/lynaNSFW/mysticxxx_MM_H3) |
+| 175 | 8 | e-n-v-y/Krea-2-Pixel-ArtText-to-Image | Updated1 day ago | [Link](https://huggingface.co/e-n-v-y/Krea-2-Pixel-Art) |
 | 1.69k | 7 | silveroxides/Chroma-GGUFText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/silveroxides/Chroma-GGUF) |
 | 58 | 7 | Freepik/F-Lite-TextureText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Freepik/F-Lite-Texture) |
 | 41 | 7 | renderartist/simplevectorhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/simplevectorhidream) |
@@ -7373,6 +7375,7 @@ Updated on 2026-09-17
 | 6 | Unknown | RicemanT/MageTrailText-to-Image | Updated1 day ago | [Link](https://huggingface.co/RicemanT/MageTrail) |
 | 6 | Unknown | javawock7618/comfy-workflowsText-to-Image | Updated1 day ago | [Link](https://huggingface.co/javawock7618/comfy-workflows) |
 | 231 |  | lvladikov/Krea2-Turbo-Distill-2step-LoRAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/lvladikov/Krea2-Turbo-Distill-2step-LoRA) |
+| 547 |  | WarmBloodAban/Krea-Edit-loraText-to-Image | Updated3 days ago | [Link](https://huggingface.co/WarmBloodAban/Krea-Edit-lora) |
 
 ## Text-to-Speech
 
@@ -7401,6 +7404,7 @@ Updated on 2026-09-17
 | 8.56k | 455 | HKUSTAudio/Llasa-3BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-3B) |
 | 199 | 451 | CAMB-AI/MARS5-TTSText-to-Speech | UpdatedJul 5, 2024 | [Link](https://huggingface.co/CAMB-AI/MARS5-TTS) |
 | Updated4 days ago | 448 | Ken-Z/latin_SpeechT5Text-to-Speech | 0.1B | [Link](https://huggingface.co/Ken-Z/latin_SpeechT5) |
+| Updatedabout 8 hours ago | 410 | AlicanKiraz0/Kizagan-TTS-v1 | 2B | [Link](https://huggingface.co/AlicanKiraz0/Kizagan-TTS-v1.0) |
 | Updated5 days ago | 403 | remixerdec/Inflect-Nano-v2-GGUFText-to-Speech | 3.96M | [Link](https://huggingface.co/remixerdec/Inflect-Nano-v2-GGUF) |
 | Updated3 days ago | 399 | Aratako/MioTTS-GGUFText-to-Speech | 0.1B | [Link](https://huggingface.co/Aratako/MioTTS-GGUF) |
 | Updatedabout 11 hours ago | 389 | calcuis/vibevoice-ggufText-to-Speech | 3B | [Link](https://huggingface.co/calcuis/vibevoice-gguf) |
@@ -7582,6 +7586,7 @@ Updated on 2026-09-17
 | Updatedabout 12 hours ago | 10 | Aratako/Irodori-TTS-500MText-to-Speech | 0.5B | [Link](https://huggingface.co/Aratako/Irodori-TTS-500M) |
 | 65 | 10 | xmanii/Ava-82MText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/xmanii/Ava-82M) |
 | Updatedabout 21 hours ago | 10 | mehdi-hf/pocket-tts-farsiText-to-Speech | 0.1B | [Link](https://huggingface.co/mehdi-hf/pocket-tts-farsi) |
+| 100 | 10 | oddadmix/Nabra-7M-DistillText-to-Speech | Updatedabout 24 hours ago | [Link](https://huggingface.co/oddadmix/Nabra-7M-Distill) |
 | Updated1 day ago | 9 | OpenMOSS-Team/MOSS-TTS-RealtimeText-to-Speech | 2B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Realtime) |
 | 1.31k | 9 | OpenMOSS-Team/MOSS-TTS-Local-TransformerText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Local-Transformer) |
 | Updatedabout 23 hours ago | 9 | Aratako/Irodori-TTS-600M-v3-VoiceDesignText-to-Speech | 0.6B | [Link](https://huggingface.co/Aratako/Irodori-TTS-600M-v3-VoiceDesign) |
@@ -7905,6 +7910,7 @@ Updated on 2026-09-17
 
 | Downloads | Likes | Model Name | Update Date | Link |
 |:----------|:------|:-----------|:------------|:------|
+| Updated3 days ago | 919 | frtertaer/LTX-2 | 21B | [Link](https://huggingface.co/frtertaer/LTX-2.5-uncensored-v1.1-FP8) |
 | 882k | 892 | ByteDance/AnimateDiff-LightningText-to-Video | UpdatedJan 6 | [Link](https://huggingface.co/ByteDance/AnimateDiff-Lightning) |
 | UpdatedJan 10 | 665 | oxide-lab/LTX-Video-0 | 5B | [Link](https://huggingface.co/oxide-lab/LTX-Video-0.9.8-2B-distilled) |
 | 16.5k | 612 | ali-vilab/text-to-video-ms-1 | UpdatedDec 1, 2023 | [Link](https://huggingface.co/ali-vilab/text-to-video-ms-1.7b) |
