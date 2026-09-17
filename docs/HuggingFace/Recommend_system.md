@@ -7971,6 +7971,7 @@ Updated on 2026-09-17
 | 186 | 20 | joeygambino/MiniMax-H3-x-Z-Image-nativeText-to-Video | Updated1 day ago | [Link](https://huggingface.co/joeygambino/MiniMax-H3-x-Z-Image-native) |
 |  | 20 | aptech0081/MiniMax-H3-Acc-LoRAs-ComfyUIText-to-Video | Updatedabout 17 hours ago | [Link](https://huggingface.co/aptech0081/MiniMax-H3-Acc-LoRAs-ComfyUI) |
 | 34 | 19 | FastVideo/FastMochi-diffusersText-to-Video | UpdatedDec 16, 2024 | [Link](https://huggingface.co/FastVideo/FastMochi-diffusers) |
+| Updatedabout 3 hours ago | 18 | realrebelai/FastH3-V2_GGUFsText-to-Video | 35B | [Link](https://huggingface.co/realrebelai/FastH3-V2_GGUFs) |
 | 3.74k | 17 | calcuis/hyvidText-to-Video | Updated24 days ago | [Link](https://huggingface.co/calcuis/hyvid) |
 | Updatedabout 1 hour ago | 15 | burakkizil/LAMP-editText-to-Video | 8B | [Link](https://huggingface.co/burakkizil/LAMP-edit) |
 | 24.6k | 15 | rockerBOO/minimax-h3-nvfp4-convrotText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/rockerBOO/minimax-h3-nvfp4-convrot) |
