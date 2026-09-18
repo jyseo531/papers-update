@@ -2156,6 +2156,7 @@ Updated on 2026-09-18
 | Updated3 days ago | 78 | internlm/Spatial-SSRL-Qwen3VL-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/internlm/Spatial-SSRL-Qwen3VL-4B) |
 | Updated6 days ago | 77 | AvitoTech/avisionImage-Text-to-Text | 7B | [Link](https://huggingface.co/AvitoTech/avision) |
 | Updatedabout 1 hour ago | 76.7k | huihui-ai/Huihui-Qwen3-VL-30B-A3B-Instruct-abliteratedImage-Text-to-Text | 31B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3-VL-30B-A3B-Instruct-abliterated) |
+| Updatedabout 20 hours ago | 74 | jinaai/jina-ocr-v1Image-Text-to-Text | 3B | [Link](https://huggingface.co/jinaai/jina-ocr-v1) |
 | Updated5 days ago | 73 | neovateai/UI-UG-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/neovateai/UI-UG-7B) |
 | Updated1 day ago | 73 | baseten/GLM-5 | 381B | [Link](https://huggingface.co/baseten/GLM-5.2-Vision-NVFP4) |
 | 1.06k | 71 | AIDC-AI/Ovis2-16BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-16B) |
@@ -5538,6 +5539,7 @@ Updated on 2026-09-18
 | Updatedabout 16 hours ago | 289 | webAI-Official/TwIL-LM3Text | 3B | [Link](https://huggingface.co/webAI-Official/TwIL-LM3) |
 | Updated2 days ago | 288 | janhq/Jan-v3-4B-base-instructText | 4B | [Link](https://huggingface.co/janhq/Jan-v3-4B-base-instruct) |
 | Updated3 days ago | 287 | PrimeIntellect/INTELLECT-3 | 107B | [Link](https://huggingface.co/PrimeIntellect/INTELLECT-3.1) |
+| Updatedabout 9 hours ago | 285 | prism-ml/Ternary-Bonsai-2-27B-ggufText | 27B | [Link](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) |
 | Updated8 days ago | 283 | perplexity-ai/browsesafeText | 31B | [Link](https://huggingface.co/perplexity-ai/browsesafe) |
 | Updatedabout 11 hours ago | 278 | AIDC-AI/Marco-Mini-InstructText | 17B | [Link](https://huggingface.co/AIDC-AI/Marco-Mini-Instruct) |
 | Updated2 days ago | 277 | SupraLabs/Supra-50M-ReasoningText | 51.8M | [Link](https://huggingface.co/SupraLabs/Supra-50M-Reasoning) |
@@ -5767,6 +5769,7 @@ Updated on 2026-09-18
 | Updated2 days ago | 60 | Alibaba-NLP/WebDancer-32BText | 33B | [Link](https://huggingface.co/Alibaba-NLP/WebDancer-32B) |
 | Updatedabout 20 hours ago | 60 | inclusionAI/LLaDA2 | 16B | [Link](https://huggingface.co/inclusionAI/LLaDA2.0-mini-preview) |
 | Updatedabout 13 hours ago | 60 | haykgrigorian/TimeCapsuleLLM-v2-llama-1 | 1B | [Link](https://huggingface.co/haykgrigorian/TimeCapsuleLLM-v2-llama-1.2B) |
+| Updatedabout 9 hours ago | 60 | prism-ml/Ternary-Bonsai-2-27B-mlx-2bitText | 27B | [Link](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-mlx-2bit) |
 | Updatedabout 1 hour ago | 59 | janhq/Jan-v1-4BText | 4B | [Link](https://huggingface.co/janhq/Jan-v1-4B) |
 | Updated2 days ago | 59 | Motif-Technologies/Motif-2-12 | 13B | [Link](https://huggingface.co/Motif-Technologies/Motif-2-12.7B-Instruct) |
 | Updated1 day ago | 59 | kai-os/Carnice-9bText | 9B | [Link](https://huggingface.co/kai-os/Carnice-9b) |
