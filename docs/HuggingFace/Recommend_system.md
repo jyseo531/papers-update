@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-09-18
+Updated on 2026-09-19
 
 > Generated from the Hugging Face database.
 
@@ -2031,6 +2031,7 @@ Updated on 2026-09-18
 | Updated5 days ago | 593 | Minthy/ToriiGate-0 | 5B | [Link](https://huggingface.co/Minthy/ToriiGate-0.5) |
 | Updated6 days ago | 583 | Qwen/Qwen3-VL-235B-A22B-Instruct-GGUFImage-Text-to-Text | 235B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct-GGUF) |
 | Updated2 days ago | 579 | coder3101/Qwen3 | 27B | [Link](https://huggingface.co/coder3101/Qwen3.5-27B-heretic) |
+| Updated1 day ago | 550 | nvidia/DeepSeek-V4 | 763B | [Link](https://huggingface.co/nvidia/DeepSeek-V4.1-Flash-NVFP4) |
 | 1.67M | 546 | Qwen/Qwen2 | Updated10 days ago | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct) |
 | Updatedabout 8 hours ago | 544 | sensenova/SenseNova-SI-1 | 8B | [Link](https://huggingface.co/sensenova/SenseNova-SI-1.1-InternVL3-8B) |
 | Updated1 day ago | 534 | lightonai/LightOnOCR-2-1B-bboxImage-Text-to-Text | 1B | [Link](https://huggingface.co/lightonai/LightOnOCR-2-1B-bbox) |
@@ -3838,6 +3839,7 @@ Updated on 2026-09-18
 | 14 | 1 | Aleton/Autopilot-qwen3-vlImage-to-Text | UpdatedMay 27 | [Link](https://huggingface.co/Aleton/Autopilot-qwen3-vl) |
 | 147 | 1 | Kansallisarkisto/multicentury-htr-model-smallImage-to-Text | UpdatedNov 21, 2025 | [Link](https://huggingface.co/Kansallisarkisto/multicentury-htr-model-small) |
 | 8 | 1 | lodestones/Florence-2-baseImage-to-Text | UpdatedJun 19, 2024 | [Link](https://huggingface.co/lodestones/Florence-2-base) |
+| 140 | 1 | hazhu/mlx-deepdanbooruImage-to-Text | UpdatedAug 8 | [Link](https://huggingface.co/hazhu/mlx-deepdanbooru) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -5698,6 +5700,7 @@ Updated on 2026-09-18
 | UpdatedDec 2, 2025 | 88.4k | RedHatAI/Qwen3-8B-speculator | 1B | [Link](https://huggingface.co/RedHatAI/Qwen3-8B-speculator.eagle3) |
 | 3.93k | 86 | PocketDoc/Dans-PersonalityEngine-V1 | Updated24 days ago | [Link](https://huggingface.co/PocketDoc/Dans-PersonalityEngine-V1.2.0-24b) |
 | Updatedabout 18 hours ago | 86 | Tesslate/WEBGEN-OSS-20BText | 21B | [Link](https://huggingface.co/Tesslate/WEBGEN-OSS-20B) |
+| 50.6k | 86 | IFM/K2-Horizon-7B-UnoText | Updated13 days ago | [Link](https://huggingface.co/IFM/K2-Horizon-7B-Uno) |
 | Updated6 days ago | 85 | AI-MO/Kimina-Prover-72BText | 73B | [Link](https://huggingface.co/AI-MO/Kimina-Prover-72B) |
 | Updatedabout 19 hours ago | 85 | tencent/Penguin-VL-2BText | 2B | [Link](https://huggingface.co/tencent/Penguin-VL-2B) |
 | Updatedabout 8 hours ago | 84 | unsloth/Laguna-S-2 | 118B | [Link](https://huggingface.co/unsloth/Laguna-S-2.1-GGUF) |
@@ -6403,6 +6406,7 @@ Updated on 2026-09-18
 | Updated2 days ago | 1.3k | medismera/Qwen3 | 28B | [Link](https://huggingface.co/medismera/Qwen3.8-27B-OBLITERATED-Mythos-Class-Agentic) |
 | Updated1 day ago | 1.77k | TokenRhythm/NeoHorse-1-4BText | 4B | [Link](https://huggingface.co/TokenRhythm/NeoHorse-1-4B) |
 | Updated3 days ago | 1.47k | OrionLLM/OxCoder-9BText | 9B | [Link](https://huggingface.co/OrionLLM/OxCoder-9B) |
+| Updatedabout 8 hours ago | 1.43k | dealignai/Bonsai-2-27B-Ternary-CRACK-GGUFText | 27B | [Link](https://huggingface.co/dealignai/Bonsai-2-27B-Ternary-CRACK-GGUF) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
