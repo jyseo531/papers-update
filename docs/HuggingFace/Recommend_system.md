@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-09-19
+Updated on 2026-09-20
 
 > Generated from the Hugging Face database.
 
@@ -203,6 +203,7 @@ Updated on 2026-09-19
 | Updatedabout 10 hours ago | 10 | huihui-ai/Huihui-gemma-4-31B-it-abliteratedAny-to-Any | 33B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-31B-it-abliterated) |
 | Updatedabout 5 hours ago | 10 | google/gemma-4-12BAny-to-Any | 12B | [Link](https://huggingface.co/google/gemma-4-12B) |
 | Updatedabout 22 hours ago | 10.1k | google/gemma-4-12B-it-qat-w4a16-ctAny-to-Any | 13B | [Link](https://huggingface.co/google/gemma-4-12B-it-qat-w4a16-ct) |
+| Updatedabout 7 hours ago | 10 | ginigen-ai/Edge-4B-TELLAny-to-Any | 7B | [Link](https://huggingface.co/ginigen-ai/Edge-4B-TELL) |
 | 23 | 9 | Alpha-VLLM/Lumina-mGPT-7B-1024Any-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-1024) |
 | Updatedabout 11 hours ago | 9.76k | google/gemma-4-E2BAny-to-Any | 5B | [Link](https://huggingface.co/google/gemma-4-E2B) |
 | Updatedabout 10 hours ago | 9 | p-e-w/gemma-4-E2B-it-heretic-araAny-to-Any | 5B | [Link](https://huggingface.co/p-e-w/gemma-4-E2B-it-heretic-ara) |
@@ -3745,6 +3746,7 @@ Updated on 2026-09-19
 | Updatedabout 1 hour ago | 2 | OttomanNLP/Azra-1-Mini-0 | 0.9B | [Link](https://huggingface.co/OttomanNLP/Azra-1-Mini-0.8b) |
 | Updatedabout 11 hours ago | 2 | ArkAiLab-Adl/nexora-ocr-v0 | 0.9B | [Link](https://huggingface.co/ArkAiLab-Adl/nexora-ocr-v0.1-0.8b) |
 | 10 | 2 | dh-unibe/kraken-medieval-german-v2Image-to-Text | Updated3 days ago | [Link](https://huggingface.co/dh-unibe/kraken-medieval-german-v2) |
+| 13 | 2 | dh-unibe/qwen3vl-german-xix-v2Image-to-Text | Updated1 day ago | [Link](https://huggingface.co/dh-unibe/qwen3vl-german-xix-v2) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -8390,6 +8392,8 @@ Updated on 2026-09-19
 | 34 |  | TaoLiveAIGC/TaoMate-H3Text-to-Video | Updated3 days ago | [Link](https://huggingface.co/TaoLiveAIGC/TaoMate-H3) |
 | 20.7k |  | nyxia/H3-LorasText-to-Video | Updated11 days ago | [Link](https://huggingface.co/nyxia/H3-Loras) |
 | 37 |  | Asirus/TaoMate_H3_3_Step_LoRAText-to-Video | Updated1 day ago | [Link](https://huggingface.co/Asirus/TaoMate_H3_3_Step_LoRA) |
+| 60 |  | vpakarinen/asmr-trigger-audio-h3-loraText-to-Video | Updated2 days ago | [Link](https://huggingface.co/vpakarinen/asmr-trigger-audio-h3-lora) |
+| 1.23k |  | vladmandic/MiniMax-H3-Turbo-LoRAText-to-Video | Updated3 days ago | [Link](https://huggingface.co/vladmandic/MiniMax-H3-Turbo-LoRA) |
 
 ## Text2Text Generation
 
