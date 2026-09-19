@@ -451,6 +451,7 @@ Updated on 2026-09-19
 | 7 | Unknown | catnip-ai-tech/MaineCoonAny-to-Any | Updatedabout 7 hours ago | [Link](https://huggingface.co/catnip-ai-tech/MaineCoon) |
 | 10 | Unknown | Tele-AI/TeleStyleV2Any-to-Any | Updated5 days ago | [Link](https://huggingface.co/Tele-AI/TeleStyleV2) |
 | 3 | Unknown | Milor123/ComfyUI-ConvRot-SenseNova-U1 | Updatedabout 14 hours ago | [Link](https://huggingface.co/Milor123/ComfyUI-ConvRot-SenseNova-U1.5-8B-MoT-T8) |
+| 20 | Unknown | inclusionAI/Realtime-VenusAny-to-Any | Updated34 minutes ago | [Link](https://huggingface.co/inclusionAI/Realtime-Venus) |
 
 ## Audio Classification
 
@@ -3301,6 +3302,7 @@ Updated on 2026-09-19
 | UpdatedFeb 23 | 313 | mradermacher/PaddleOCR-VL-0 | 0.5B | [Link](https://huggingface.co/mradermacher/PaddleOCR-VL-0.9B-GGUF) |
 | Updatedabout 24 hours ago | 297 | mradermacher/PaddleOCR-VL-1 | 0.5B | [Link](https://huggingface.co/mradermacher/PaddleOCR-VL-1.6-GGUF) |
 | Updated4 days ago | 296 | Axway/Rukopys-OCR-4B-GGUFImage-to-Text | 4B | [Link](https://huggingface.co/Axway/Rukopys-OCR-4B-GGUF) |
+| Updated4 days ago | 279 | khazarai/Qwen3 | 4B | [Link](https://huggingface.co/khazarai/Qwen3.5-4B-Agentic-Coding-GGUF) |
 | Updatedabout 1 month ago | 274 | ZihCiLin/trocr-traditional-chinese-baselineImage-to-Text | 0.3B | [Link](https://huggingface.co/ZihCiLin/trocr-traditional-chinese-baseline) |
 | UpdatedSep 16, 2025 | 245 | mradermacher/Qwen2-VL-2B-Abliterated-Caption-it-GGUFImage-to-Text | 2B | [Link](https://huggingface.co/mradermacher/Qwen2-VL-2B-Abliterated-Caption-it-GGUF) |
 | UpdatedJan 24 | 243 | noctrex/LightOnOCR-2-1B-bbox-GGUFImage-to-Text | 0.6B | [Link](https://huggingface.co/noctrex/LightOnOCR-2-1B-bbox-GGUF) |
@@ -5746,6 +5748,7 @@ Updated on 2026-09-19
 | Updatedabout 2 hours ago | 71 | moonshotai/Kimi-Linear-48B-A3B-BaseText | 49B | [Link](https://huggingface.co/moonshotai/Kimi-Linear-48B-A3B-Base) |
 | Updatedabout 8 hours ago | 71 | unsloth/Qwen3-Coder-Next-GGUFText | 80B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-Next-GGUF) |
 | Updated1 day ago | 69 | kakaocorp/kanana-2-30b-a3b-thinking-2601Text | 31B | [Link](https://huggingface.co/kakaocorp/kanana-2-30b-a3b-thinking-2601) |
+| 4.35k | 68 | Cactus-Compute/needle3Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/Cactus-Compute/needle3) |
 | Updatedabout 3 hours ago | 67 | Qwen/Qwen3-235B-A22B-Thinking-2507Text | 235B | [Link](https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507) |
 | Updatedabout 7 hours ago | 67 | DavidAU/Llama3 | 8B | [Link](https://huggingface.co/DavidAU/Llama3.3-8B-Instruct-Thinking-Claude-4.5-Opus-High-Reasoning) |
 | Updatedabout 2 hours ago | 67 | empero-ai/Qwythos-9B-v2Text | 10B | [Link](https://huggingface.co/empero-ai/Qwythos-9B-v2) |
