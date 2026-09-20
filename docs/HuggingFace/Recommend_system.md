@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-09-20
+Updated on 2026-09-21
 
 > Generated from the Hugging Face database.
 
@@ -5467,6 +5467,7 @@ Updated on 2026-09-20
 | UpdatedJun 4, 2025 | 613 | AlicanKiraz0/Cybersecurity-BaronLLM_Offensive_Security_LLM_Q6_K_GGUFText | 8B | [Link](https://huggingface.co/AlicanKiraz0/Cybersecurity-BaronLLM_Offensive_Security_LLM_Q6_K_GGUF) |
 | Updated1 day ago | 608 | ArliAI/GLM-4 | 110B | [Link](https://huggingface.co/ArliAI/GLM-4.5-Air-Derestricted) |
 | Updated2 days ago | 605 | nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUFText | 4B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUF) |
+| Updated1 day ago | 597 | yandex/AliceAI-Foundation-80B-A3B-BaseText | 81B | [Link](https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base) |
 | Updated6 days ago | 596 | tencent/Hy3-preview-BaseText | 299B | [Link](https://huggingface.co/tencent/Hy3-preview-Base) |
 | Updatedabout 1 hour ago | 596 | Multilingual-Multimodal-NLP/LoopCoder-V2Text | 8B | [Link](https://huggingface.co/Multilingual-Multimodal-NLP/LoopCoder-V2) |
 | Updated2 days ago | 595 | GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUFText | 1B | [Link](https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF) |
@@ -6204,6 +6205,7 @@ Updated on 2026-09-20
 | Updatedabout 6 hours ago | 12 | Alibaba-Apsara/DASD-4B-ThinkingText | 4B | [Link](https://huggingface.co/Alibaba-Apsara/DASD-4B-Thinking) |
 | Updated6 days ago | 12.5k | nvidia/MiniMax-M2 | 116B | [Link](https://huggingface.co/nvidia/MiniMax-M2.7-NVFP4) |
 | Updated7 days ago | 12.2k | tvall43/Qwen3 | 14B | [Link](https://huggingface.co/tvall43/Qwen3.6-14B-A3B-FableVibes-GGUF) |
+| Updated2 days ago | 12.9k | dealignai/Bonsai-2-27B-1bit-CRACK-GGUFText | 27B | [Link](https://huggingface.co/dealignai/Bonsai-2-27B-1bit-CRACK-GGUF) |
 | Updatedabout 10 hours ago | 11.9k | unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUFText | 31B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUF) |
 | Updatedabout 16 hours ago | 11.6k | unsloth/MiniMax-M2-GGUFText | 229B | [Link](https://huggingface.co/unsloth/MiniMax-M2-GGUF) |
 | Updatedabout 3 hours ago | 11 | LGAI-EXAONE/K-EXAONE-236B-A23BText | 237B | [Link](https://huggingface.co/LGAI-EXAONE/K-EXAONE-236B-A23B) |
@@ -6790,6 +6792,7 @@ Updated on 2026-09-20
 | 247k | 227 | SG161222/Realistic_Vision_V5 | Updated20 days ago | [Link](https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE) |
 | 126k | 206 | RunDiffusion/Juggernaut-XL-v9Text-to-Image | UpdatedDec 11, 2024 | [Link](https://huggingface.co/RunDiffusion/Juggernaut-XL-v9) |
 | Updated1 day ago | 189 | RockTalk/Lance-3B-MLXText-to-Image | 6B | [Link](https://huggingface.co/RockTalk/Lance-3B-MLX) |
+| Updatedabout 6 hours ago | 183 | Qwen/Qwen-Image-2 | 7B | [Link](https://huggingface.co/Qwen/Qwen-Image-2.1) |
 | Updated4 days ago | 174 | transformerlab/ideogram-4-gguf-q4_kText-to-Image | 19B | [Link](https://huggingface.co/transformerlab/ideogram-4-gguf-q4_k) |
 | 37.6k | 156 | tianweiy/DMD2Text-to-Image | UpdatedJun 11, 2024 | [Link](https://huggingface.co/tianweiy/DMD2) |
 | 35.7k | 147 | nunchaku-ai/nunchaku-z-image-turboText-to-Image | Updated15 days ago | [Link](https://huggingface.co/nunchaku-ai/nunchaku-z-image-turbo) |
@@ -6930,6 +6933,7 @@ Updated on 2026-09-20
 | 88 | 10 | mrfakename/Z-Image-TurboText-to-Image | Updated21 days ago | [Link](https://huggingface.co/mrfakename/Z-Image-Turbo) |
 | 1 | 10 | clark-labs/clark-air-sana-1 | Updatedabout 9 hours ago | [Link](https://huggingface.co/clark-labs/clark-air-sana-1.6b-1.58bit) |
 | 228 | 10 | AliveAi/Krea-2-Edit-Outfit-TransferText-to-Image | Updatedabout 24 hours ago | [Link](https://huggingface.co/AliveAi/Krea-2-Edit-Outfit-Transfer) |
+| Updated27 minutes ago | 10 | Abiray/Qwen-Image-2 | 7B | [Link](https://huggingface.co/Abiray/Qwen-Image-2.1-GGUF) |
 |  | 9 | ART-Release/ART_v1 | Updatedabout 23 hours ago | [Link](https://huggingface.co/ART-Release/ART_v1.0) |
 | 9 | 9 | motimalu/wan-flat-color-v2Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/motimalu/wan-flat-color-v2) |
 | 11 | 9 | ShoufaChen/PixelFlow-Text2ImageText-to-Image | Updatedabout 19 hours ago | [Link](https://huggingface.co/ShoufaChen/PixelFlow-Text2Image) |
@@ -8395,6 +8399,7 @@ Updated on 2026-09-20
 | 37 |  | Asirus/TaoMate_H3_3_Step_LoRAText-to-Video | Updated1 day ago | [Link](https://huggingface.co/Asirus/TaoMate_H3_3_Step_LoRA) |
 | 60 |  | vpakarinen/asmr-trigger-audio-h3-loraText-to-Video | Updated2 days ago | [Link](https://huggingface.co/vpakarinen/asmr-trigger-audio-h3-lora) |
 | 1.23k |  | vladmandic/MiniMax-H3-Turbo-LoRAText-to-Video | Updated3 days ago | [Link](https://huggingface.co/vladmandic/MiniMax-H3-Turbo-LoRA) |
+| 9 | Unknown | wanvideo/wan-3-0-videoText-to-Video | Updated16 days ago | [Link](https://huggingface.co/wanvideo/wan-3-0-video) |
 
 ## Text2Text Generation
 
