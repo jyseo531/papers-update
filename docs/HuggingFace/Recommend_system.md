@@ -6949,6 +6949,7 @@ Updated on 2026-09-20
 | Updatedabout 7 hours ago | 9 | bench-labs/PixelModel-v6Text-to-Image | 0.2B | [Link](https://huggingface.co/bench-labs/PixelModel-v6) |
 | 7 | 9 | jimmycarter/krea2-turbo-bboxText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/jimmycarter/krea2-turbo-bbox) |
 |  | 9 | lvladikov/Krea2-Turbo-Distill-4step-LoRAText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/lvladikov/Krea2-Turbo-Distill-4step-LoRA) |
+| 62 | 9 | Johnny-Z/Anima-Light-LavenderText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Johnny-Z/Anima-Light-Lavender) |
 | 215 | 8 | tensorart/stable-diffusion-3 | Updated8 minutes ago | [Link](https://huggingface.co/tensorart/stable-diffusion-3.5-large-TurboX) |
 | 34 | 8 | renderartist/coloringbookhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/coloringbookhidream) |
 | 1.79k | 8 | MaxedOut/ComfyUI-Starter-PacksText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/MaxedOut/ComfyUI-Starter-Packs) |
