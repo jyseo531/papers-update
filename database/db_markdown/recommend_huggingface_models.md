@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-09-21
+Updated on 2026-09-22
 
 > Generated from the Hugging Face database.
 
@@ -174,6 +174,7 @@ Updated on 2026-09-21
 | UpdatedApr 27 | 19 | Tokymin/SmolVLM2-2 | 2B | [Link](https://huggingface.co/Tokymin/SmolVLM2-2.2B-Instruct-video-feedback) |
 | Updated6 days ago | 19.3k | mlx-community/gemma-4-e4b-it-4bitAny-to-Any | 2B | [Link](https://huggingface.co/mlx-community/gemma-4-e4b-it-4bit) |
 | Updated3 days ago | 18 | ericleigh007/MiniCPM-o-4_5-BNB-Int4Any-to-Any | 10B | [Link](https://huggingface.co/ericleigh007/MiniCPM-o-4_5-BNB-Int4) |
+| Updated4 days ago | 18 | kyutai/glm-4-voice-of-reason-9bAny-to-Any | 10B | [Link](https://huggingface.co/kyutai/glm-4-voice-of-reason-9b) |
 | 621 | 16 | EPFL-VILAB/4M-7_B_CC12MAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-7_B_CC12M) |
 | 470 | 15 | showlab/show-oAny-to-Any | UpdatedAug 27, 2024 | [Link](https://huggingface.co/showlab/show-o) |
 | 1.03k | 14 | onnx-community/Janus-1 | UpdatedNov 28, 2024 | [Link](https://huggingface.co/onnx-community/Janus-1.3B-ONNX) |
@@ -2263,6 +2264,7 @@ Updated on 2026-09-21
 | Updatedabout 7 hours ago | 30 | Qwen/Qwen3-VL-32B-InstructImage-Text-to-Text | 33B | [Link](https://huggingface.co/Qwen/Qwen3-VL-32B-Instruct) |
 | Updatedabout 7 hours ago | 30 | tencent/Youtu-VL-4B-InstructImage-Text-to-Text | 5B | [Link](https://huggingface.co/tencent/Youtu-VL-4B-Instruct) |
 | Updated5 days ago | 30.4k | llmfan46/Qwen3 | 35B | [Link](https://huggingface.co/llmfan46/Qwen3.5-35B-A3B-heretic-v2-GGUF) |
+| Updated4 days ago | 30.4k | StarDoc-AI/TeleOCRImage-Text-to-Text | 1B | [Link](https://huggingface.co/StarDoc-AI/TeleOCR) |
 | 2.75k | 29 | HuggingFaceTB/SmolVLM2-256M-Video-InstructImage-Text-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM2-256M-Video-Instruct) |
 | 2.28k | 29 | unsloth/Llama-4-Scout-17B-16E-InstructImage-Text-to-Text | Updatedabout 12 hours ago | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct) |
 | 41 | 29 | VIDraft/Gemma-3-R1984-4BImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/VIDraft/Gemma-3-R1984-4B) |
@@ -6787,6 +6789,7 @@ Updated on 2026-09-21
 | Updatedabout 21 hours ago | 283 | neonforestmist/Clover-Image-TinyText-to-Image | 0.3B | [Link](https://huggingface.co/neonforestmist/Clover-Image-Tiny) |
 | 70.7k | 272 | nunchaku-ai/nunchaku-qwen-image-edit-2509Text-to-Image | UpdatedNov 16, 2025 | [Link](https://huggingface.co/nunchaku-ai/nunchaku-qwen-image-edit-2509) |
 | Updatedabout 15 hours ago | 266 | Danrisi/UltraReal_FineTune_AnimaText-to-Image | 2B | [Link](https://huggingface.co/Danrisi/UltraReal_FineTune_Anima) |
+| Updatedabout 20 hours ago | 263 | KasugaiSakura/Qwen-Image-2 | 7B | [Link](https://huggingface.co/KasugaiSakura/Qwen-Image-2.1-Uncensored-GGUF) |
 | 15.3k | 254 | InstantX/FLUX | UpdatedNov 23, 2024 | [Link](https://huggingface.co/InstantX/FLUX.1-dev-IP-Adapter) |
 | Updated1 day ago | 244 | wikeeyang/Magic-Wan-Image-V2Text-to-Image | 14B | [Link](https://huggingface.co/wikeeyang/Magic-Wan-Image-V2) |
 | 28.5k | 241 | xinsir/controlnet-openpose-sdxl-1 | UpdatedJul 9, 2024 | [Link](https://huggingface.co/xinsir/controlnet-openpose-sdxl-1.0) |
@@ -6875,6 +6878,7 @@ Updated on 2026-09-21
 | 289 | 18 | NO8D/ExpressionControlText-to-Image | Updated1 day ago | [Link](https://huggingface.co/NO8D/ExpressionControl) |
 | 2.35k | 18 | ifmylove2011/girlslike-krea2Text-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/ifmylove2011/girlslike-krea2) |
 | 59 | 17 | HiDream-ai/HiDream-I1-DevText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/HiDream-ai/HiDream-I1-Dev) |
+| 266 | 17 | WarmBloodAban/Qwen-Image-2 | Updatedabout 19 hours ago | [Link](https://huggingface.co/WarmBloodAban/Qwen-Image-2.1-LoRAs) |
 | 66 | 16 | HiDream-ai/HiDream-I1-FastText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/HiDream-ai/HiDream-I1-Fast) |
 | 42 | 16 | codermert/burcuufinal_fluxxText-to-Image | Updated5 days ago | [Link](https://huggingface.co/codermert/burcuufinal_fluxx) |
 | 326 | 16 | rockerBOO/flux | Updatedabout 10 hours ago | [Link](https://huggingface.co/rockerBOO/flux.1-dev-SRPO) |
@@ -7400,6 +7404,7 @@ Updated on 2026-09-21
 | 6 | Unknown | javawock7618/comfy-workflowsText-to-Image | Updated1 day ago | [Link](https://huggingface.co/javawock7618/comfy-workflows) |
 | 231 |  | lvladikov/Krea2-Turbo-Distill-2step-LoRAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/lvladikov/Krea2-Turbo-Distill-2step-LoRA) |
 | 547 |  | WarmBloodAban/Krea-Edit-loraText-to-Image | Updated3 days ago | [Link](https://huggingface.co/WarmBloodAban/Krea-Edit-lora) |
+| 32 | Unknown | SupraLabs/Supra2-IMGText-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/SupraLabs/Supra2-IMG) |
 
 ## Text-to-Speech
 
@@ -7929,6 +7934,7 @@ Updated on 2026-09-21
 | 6 | Unknown | llm-jp/kaburi-ttsText-to-Speech | Updatedabout 11 hours ago | [Link](https://huggingface.co/llm-jp/kaburi-tts) |
 | 6 | Unknown | genvoice/xVibePocketTTSText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/genvoice/xVibePocketTTS) |
 | 7 | Unknown | drbaph/AuK-comfyuiText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/drbaph/AuK-comfyui) |
+| 7 | Unknown | Nimaone/pocket-tts-farsi-v2-onnxText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/Nimaone/pocket-tts-farsi-v2-onnx) |
 
 ## Text-to-Video
 
