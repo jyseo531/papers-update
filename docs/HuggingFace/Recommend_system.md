@@ -3253,6 +3253,7 @@ Updated on 2026-09-21
 | 5 | Unknown | joyfox/SenseNova-U1 | Updatedabout 12 hours ago | [Link](https://huggingface.co/joyfox/SenseNova-U1.5-8B-MoT-FP8) |
 | 95.2k |  | ScottzillaSystems/qwen-image-edit-plus-nsfw-loraImage-to-Image | UpdatedApr 26 | [Link](https://huggingface.co/ScottzillaSystems/qwen-image-edit-plus-nsfw-lora) |
 | 12 | Unknown | eric-venti-seeds/Eyes_Direction_Lora_Flux2Klein9BImage-to-Image | Updatedabout 16 hours ago | [Link](https://huggingface.co/eric-venti-seeds/Eyes_Direction_Lora_Flux2Klein9B) |
+| 5 | Unknown | taowen/dlss5-onnxImage-to-Image | Updated12 days ago | [Link](https://huggingface.co/taowen/dlss5-onnx) |
 
 ## Image-to-Text
 
@@ -3844,6 +3845,7 @@ Updated on 2026-09-21
 | 147 | 1 | Kansallisarkisto/multicentury-htr-model-smallImage-to-Text | UpdatedNov 21, 2025 | [Link](https://huggingface.co/Kansallisarkisto/multicentury-htr-model-small) |
 | 8 | 1 | lodestones/Florence-2-baseImage-to-Text | UpdatedJun 19, 2024 | [Link](https://huggingface.co/lodestones/Florence-2-base) |
 | 140 | 1 | hazhu/mlx-deepdanbooruImage-to-Text | UpdatedAug 8 | [Link](https://huggingface.co/hazhu/mlx-deepdanbooru) |
+| UpdatedJan 27 | 1.11k | JHL3/KLOCRImage-to-Text | 54.5M | [Link](https://huggingface.co/JHL3/KLOCR) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -5642,6 +5644,7 @@ Updated on 2026-09-21
 | Updated2 days ago | 132 | Gryphe/WorldSim-Opus-3 | 35B | [Link](https://huggingface.co/Gryphe/WorldSim-Opus-3.6-35B-A3B) |
 | Updated1 day ago | 129 | allenai/Bolmo-1BText | 1B | [Link](https://huggingface.co/allenai/Bolmo-1B) |
 | Updated6 days ago | 128 | arcee-ai/Trinity-Mini-BaseText | 26B | [Link](https://huggingface.co/arcee-ai/Trinity-Mini-Base) |
+| Updatedabout 13 hours ago | 127 | Altworld/Hemmingway-1Text | 27B | [Link](https://huggingface.co/Altworld/Hemmingway-1) |
 | Updated2 days ago | 126 | Gryphe/Pantheon-Reasoning-27BText | 28B | [Link](https://huggingface.co/Gryphe/Pantheon-Reasoning-27B) |
 | Updatedabout 18 hours ago | 125 | NousResearch/Hermes-4-405BText | 406B | [Link](https://huggingface.co/NousResearch/Hermes-4-405B) |
 | Updated3 days ago | 125 | janhq/Jan-v1-edgeText | 2B | [Link](https://huggingface.co/janhq/Jan-v1-edge) |
@@ -6803,6 +6806,7 @@ Updated on 2026-09-21
 | Updatedabout 16 hours ago | 124 | calcuis/krea-ggufText-to-Image | 12B | [Link](https://huggingface.co/calcuis/krea-gguf) |
 | Updatedabout 17 hours ago | 116 | wikeeyang/Real-Qwen-Image-V2Text-to-Image | 20B | [Link](https://huggingface.co/wikeeyang/Real-Qwen-Image-V2) |
 | 205 | 116 | baidu/ERNIE-ImageText-to-Image | Updated39 minutes ago | [Link](https://huggingface.co/baidu/ERNIE-Image) |
+| Updatedabout 5 hours ago | 116 | abenzerps/Qwen-Image-2 | 7B | [Link](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) |
 | 31.2k | 114 | nunchaku-ai/nunchaku-qwen-image-editText-to-Image | UpdatedNov 16, 2025 | [Link](https://huggingface.co/nunchaku-ai/nunchaku-qwen-image-edit) |
 | Updatedabout 20 hours ago | 112 | vantagewithai/Krea-2-Turbo-GGUFText-to-Image | 13B | [Link](https://huggingface.co/vantagewithai/Krea-2-Turbo-GGUF) |
 | Updated13 days ago | 104 | mage-flow-community/Mage-FlowText-to-Image | 4B | [Link](https://huggingface.co/mage-flow-community/Mage-Flow) |
@@ -6903,6 +6907,8 @@ Updated on 2026-09-21
 | 59 | 12 | bytedance-research/UMOText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/bytedance-research/UMO) |
 | 154 | 12 | drbaph/Z-Image-Turbo-FP8Text-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/drbaph/Z-Image-Turbo-FP8) |
 |  | 12 | RudySen/Krea2-realism-V2Text-to-Image | Updated1 day ago | [Link](https://huggingface.co/RudySen/Krea2-realism-V2) |
+| Updatedabout 14 hours ago | 12 | AlperKTS/Qwen-Image-2 | 7B | [Link](https://huggingface.co/AlperKTS/Qwen-Image-2.1-GGUF) |
+| Updated14 minutes ago | 12 | realrebelai/Qwen-Image-2 | 7B | [Link](https://huggingface.co/realrebelai/Qwen-Image-2.1_GGUFs) |
 | 116 | 11 | Efficient-Large-Model/SANA1 | Updatedabout 6 hours ago | [Link](https://huggingface.co/Efficient-Large-Model/SANA1.5_4.8B_1024px) |
 | 687 | 11 | azaneko/HiDream-I1-Full-nf4Text-to-Image | Updated3 days ago | [Link](https://huggingface.co/azaneko/HiDream-I1-Full-nf4) |
 | 945 | 11 | calcuis/hidream-ggufText-to-Image | Updated20 minutes ago | [Link](https://huggingface.co/calcuis/hidream-gguf) |
@@ -6934,6 +6940,7 @@ Updated on 2026-09-21
 | 1 | 10 | clark-labs/clark-air-sana-1 | Updatedabout 9 hours ago | [Link](https://huggingface.co/clark-labs/clark-air-sana-1.6b-1.58bit) |
 | 228 | 10 | AliveAi/Krea-2-Edit-Outfit-TransferText-to-Image | Updatedabout 24 hours ago | [Link](https://huggingface.co/AliveAi/Krea-2-Edit-Outfit-Transfer) |
 | Updated27 minutes ago | 10 | Abiray/Qwen-Image-2 | 7B | [Link](https://huggingface.co/Abiray/Qwen-Image-2.1-GGUF) |
+| Updatedabout 13 hours ago | 10 | leejet/Qwen-Image-2 | 7B | [Link](https://huggingface.co/leejet/Qwen-Image-2.1-GGUF) |
 |  | 9 | ART-Release/ART_v1 | Updatedabout 23 hours ago | [Link](https://huggingface.co/ART-Release/ART_v1.0) |
 | 9 | 9 | motimalu/wan-flat-color-v2Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/motimalu/wan-flat-color-v2) |
 | 11 | 9 | ShoufaChen/PixelFlow-Text2ImageText-to-Image | Updatedabout 19 hours ago | [Link](https://huggingface.co/ShoufaChen/PixelFlow-Text2Image) |
@@ -8006,6 +8013,7 @@ Updated on 2026-09-21
 | 471 | 11 | Skywork/SkyReels-V2-DF-14B-540PText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-DF-14B-540P) |
 | 67 | 11 | Jojocodex/minimax-h3-yunjing-loraText-to-Video | Updated1 day ago | [Link](https://huggingface.co/Jojocodex/minimax-h3-yunjing-lora) |
 | 23 | 10 | APRIL-AIGC/T3-VideoText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/APRIL-AIGC/T3-Video) |
+| 7 | 10 | LaDruid/MiniMax-H3-Multishot-WorkflowText-to-Video | Updated1 day ago | [Link](https://huggingface.co/LaDruid/MiniMax-H3-Multishot-Workflow) |
 | 363 | 9 | Skywork/SkyReels-V2-T2V-14B-540PText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-T2V-14B-540P) |
 | 96 | 9 | Scrappy-Doo/LTX_2 | Updated5 days ago | [Link](https://huggingface.co/Scrappy-Doo/LTX_2.3_Pixar_Toon_Style_LoRa) |
 | 50 | 9 | Jojocodex/minimax-h3-wushu-action-loraText-to-Video | Updated1 day ago | [Link](https://huggingface.co/Jojocodex/minimax-h3-wushu-action-lora) |
