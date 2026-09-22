@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-09-22
+Updated on 2026-09-23
 
 > Generated from the Hugging Face database.
 
@@ -2917,6 +2917,7 @@ Updated on 2026-09-22
 | 78 | 5 | TensorForger/FlowUpscalerImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/TensorForger/FlowUpscaler) |
 | 3.87k | 5 | starsfriday/Mage-Flow-Edit-FP8Image-to-Image | Updated6 days ago | [Link](https://huggingface.co/starsfriday/Mage-Flow-Edit-FP8) |
 | 3 | 5 | yijunwang2/krea2-anypaintImage-to-Image | Updatedabout 14 hours ago | [Link](https://huggingface.co/yijunwang2/krea2-anypaint) |
+| Updated30 minutes ago | 5 | AiArtLab/zen-image-editImage-to-Image | 7B | [Link](https://huggingface.co/AiArtLab/zen-image-edit) |
 | 575 | 4 | prs-eth/marigold-normals-v1-1Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-normals-v1-1) |
 | 1k | 4 | stanfordmimi/MedVAEImage-to-Image | UpdatedMar 31 | [Link](https://huggingface.co/stanfordmimi/MedVAE) |
 | 3 | 4 | wikeeyang/UniWorld-V1-NF4Image-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/wikeeyang/UniWorld-V1-NF4) |
@@ -6865,6 +6866,7 @@ Updated on 2026-09-22
 | Updatedabout 8 hours ago | 24 | jayn7/Z-Image-GGUFText-to-Image | 6B | [Link](https://huggingface.co/jayn7/Z-Image-GGUF) |
 | Updatedabout 11 hours ago | 24 | shallowdream204/BitDance-14B-16xText-to-Image | 15B | [Link](https://huggingface.co/shallowdream204/BitDance-14B-16x) |
 | 12 | 24 | Lakonik/AsymFLUX | Updatedabout 13 hours ago | [Link](https://huggingface.co/Lakonik/AsymFLUX.2-klein-9B) |
+| Updated20 minutes ago | 23 | unsloth/Qwen-Image-2 | 7B | [Link](https://huggingface.co/unsloth/Qwen-Image-2.1-GGUF) |
 | 8 | 22 | nunchaku-tech/nunchaku-qwen-image-edit-2509Text-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/nunchaku-tech/nunchaku-qwen-image-edit-2509) |
 | Updatedabout 14 hours ago | 22 | purplesmartai/pony-v7-baseText-to-Image | 7B | [Link](https://huggingface.co/purplesmartai/pony-v7-base) |
 | 234 | 22 | DeverStyle/Krea-2-Premium-LorasText-to-Image | Updatedabout 15 hours ago | [Link](https://huggingface.co/DeverStyle/Krea-2-Premium-Loras) |
@@ -6915,6 +6917,7 @@ Updated on 2026-09-22
 |  | 12 | RudySen/Krea2-realism-V2Text-to-Image | Updated1 day ago | [Link](https://huggingface.co/RudySen/Krea2-realism-V2) |
 | Updatedabout 14 hours ago | 12 | AlperKTS/Qwen-Image-2 | 7B | [Link](https://huggingface.co/AlperKTS/Qwen-Image-2.1-GGUF) |
 | Updated14 minutes ago | 12 | realrebelai/Qwen-Image-2 | 7B | [Link](https://huggingface.co/realrebelai/Qwen-Image-2.1_GGUFs) |
+| 868 | 12 | neph1/1980s_horror_movies_minimax_h3Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/neph1/1980s_horror_movies_minimax_h3) |
 | 116 | 11 | Efficient-Large-Model/SANA1 | Updatedabout 6 hours ago | [Link](https://huggingface.co/Efficient-Large-Model/SANA1.5_4.8B_1024px) |
 | 687 | 11 | azaneko/HiDream-I1-Full-nf4Text-to-Image | Updated3 days ago | [Link](https://huggingface.co/azaneko/HiDream-I1-Full-nf4) |
 | 945 | 11 | calcuis/hidream-ggufText-to-Image | Updated20 minutes ago | [Link](https://huggingface.co/calcuis/hidream-gguf) |
@@ -8416,6 +8419,7 @@ Updated on 2026-09-22
 | 60 |  | vpakarinen/asmr-trigger-audio-h3-loraText-to-Video | Updated2 days ago | [Link](https://huggingface.co/vpakarinen/asmr-trigger-audio-h3-lora) |
 | 1.23k |  | vladmandic/MiniMax-H3-Turbo-LoRAText-to-Video | Updated3 days ago | [Link](https://huggingface.co/vladmandic/MiniMax-H3-Turbo-LoRA) |
 | 9 | Unknown | wanvideo/wan-3-0-videoText-to-Video | Updated16 days ago | [Link](https://huggingface.co/wanvideo/wan-3-0-video) |
+| 12 | Unknown | alibaba-pai/MiniMax-H3-Fun-Controlnet-Union-2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/alibaba-pai/MiniMax-H3-Fun-Controlnet-Union-2.0) |
 
 ## Text2Text Generation
 
