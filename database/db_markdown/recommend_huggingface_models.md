@@ -5496,6 +5496,7 @@ Updated on 2026-09-22
 | Updated4 days ago | 489 | AlicanKiraz0/Kara-Kumru-v1 | 2B | [Link](https://huggingface.co/AlicanKiraz0/Kara-Kumru-v1.0-2B) |
 | Updated4 days ago | 488 | ThorOdinson246/nl2sh-1 | 2B | [Link](https://huggingface.co/ThorOdinson246/nl2sh-1.5b-Q4_K_M) |
 | 894k | 486 | deepseek-ai/DeepSeek-R1-Distill-Qwen-7BText | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B) |
+| Updated1 day ago | 484 | AikidoSec/altar-1Text | 501B | [Link](https://huggingface.co/AikidoSec/altar-1) |
 | Updated6 days ago | 480 | huihui-ai/Huihui-GLM-4 | 353B | [Link](https://huggingface.co/huihui-ai/Huihui-GLM-4.6-abliterated-mlx-4bit) |
 | Updatedabout 2 hours ago | 480 | deepseek-ai/DeepSeek-V4-Flash-0731Text | 304B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) |
 | Updated3 days ago | 478 | JonasGeiping/stream-qwen3 | 27B | [Link](https://huggingface.co/JonasGeiping/stream-qwen3.5-27b) |
@@ -6783,6 +6784,7 @@ Updated on 2026-09-22
 | 252k | 347 | diffusers/stable-diffusion-xl-1 | UpdatedSep 3, 2023 | [Link](https://huggingface.co/diffusers/stable-diffusion-xl-1.0-inpainting-0.1) |
 | Updatedabout 22 hours ago | 330 | realrebelai/Krea-R-TurboText-to-Image | 13B | [Link](https://huggingface.co/realrebelai/Krea-R-Turbo) |
 | 14.6k | 321 | JujoHotaru/loraText-to-Image | UpdatedApr 28 | [Link](https://huggingface.co/JujoHotaru/lora) |
+| Updated1 day ago | 319 | 0xSojalSec/Qwen-Image-2 | 7B | [Link](https://huggingface.co/0xSojalSec/Qwen-Image-2.1-Uncensored-GGUF) |
 | 3.97k | 317 | Shitao/OmniGen-v1Text-to-Image | UpdatedNov 7, 2024 | [Link](https://huggingface.co/Shitao/OmniGen-v1) |
 | Updatedabout 14 hours ago | 311 | unsloth/ERNIE-Image-GGUFText-to-Image | 8B | [Link](https://huggingface.co/unsloth/ERNIE-Image-GGUF) |
 | Updated5 days ago | 301 | nvidia/Cosmos3-Super-Text2Image-4StepText-to-Image | 64B | [Link](https://huggingface.co/nvidia/Cosmos3-Super-Text2Image-4Step) |
