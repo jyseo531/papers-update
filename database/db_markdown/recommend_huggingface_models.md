@@ -454,6 +454,7 @@ Updated on 2026-09-23
 | 10 | Unknown | Tele-AI/TeleStyleV2Any-to-Any | Updated5 days ago | [Link](https://huggingface.co/Tele-AI/TeleStyleV2) |
 | 3 | Unknown | Milor123/ComfyUI-ConvRot-SenseNova-U1 | Updatedabout 14 hours ago | [Link](https://huggingface.co/Milor123/ComfyUI-ConvRot-SenseNova-U1.5-8B-MoT-T8) |
 | 20 | Unknown | inclusionAI/Realtime-VenusAny-to-Any | Updated34 minutes ago | [Link](https://huggingface.co/inclusionAI/Realtime-Venus) |
+| 4 | Unknown | diffbot/MiMo-V2 | Updatedabout 21 hours ago | [Link](https://huggingface.co/diffbot/MiMo-V2.6-Flash-RL-FP8KV-W4A8-2x-RTX-PRO-6000) |
 
 ## Audio Classification
 
@@ -5435,6 +5436,7 @@ Updated on 2026-09-23
 | 4.08M | 912 | unsloth/DeepSeek-R1-GGUFText | Updated12 days ago | [Link](https://huggingface.co/unsloth/DeepSeek-R1-GGUF) |
 | Updated5 days ago | 911 | kakaocorp/kanana-2-30b-a3b-base-2601Text | 31B | [Link](https://huggingface.co/kakaocorp/kanana-2-30b-a3b-base-2601) |
 | Updated1 day ago | 906 | Nanbeige/Nanbeige4-3B-Thinking-2511Text | 4B | [Link](https://huggingface.co/Nanbeige/Nanbeige4-3B-Thinking-2511) |
+| Updatedabout 15 hours ago | 904 | paradigma-inc/limite-1b-violettoText | 1B | [Link](https://huggingface.co/paradigma-inc/limite-1b-violetto) |
 | Updatedabout 8 hours ago | 886 | KORMo-Team/KORMo-10B-baseText | 11B | [Link](https://huggingface.co/KORMo-Team/KORMo-10B-base) |
 | Updatedabout 19 hours ago | 868 | inclusionAI/Ling-2 | 1T | [Link](https://huggingface.co/inclusionAI/Ling-2.5-1T) |
 | Updated23 minutes ago | 854 | Qwen/Qwen3-Next-80B-A3B-InstructText | 81B | [Link](https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct) |
@@ -6421,6 +6423,7 @@ Updated on 2026-09-23
 | Updated1 day ago | 1.77k | TokenRhythm/NeoHorse-1-4BText | 4B | [Link](https://huggingface.co/TokenRhythm/NeoHorse-1-4B) |
 | Updated3 days ago | 1.47k | OrionLLM/OxCoder-9BText | 9B | [Link](https://huggingface.co/OrionLLM/OxCoder-9B) |
 | Updatedabout 8 hours ago | 1.43k | dealignai/Bonsai-2-27B-Ternary-CRACK-GGUFText | 27B | [Link](https://huggingface.co/dealignai/Bonsai-2-27B-Ternary-CRACK-GGUF) |
+| Updated2 days ago | 1.25k | peculiar-ragdoll/Sharp-Spark-X2 | 4B | [Link](https://huggingface.co/peculiar-ragdoll/Sharp-Spark-X2.5-4B-GGUF) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -6813,6 +6816,7 @@ Updated on 2026-09-23
 | Updatedabout 17 hours ago | 116 | wikeeyang/Real-Qwen-Image-V2Text-to-Image | 20B | [Link](https://huggingface.co/wikeeyang/Real-Qwen-Image-V2) |
 | 205 | 116 | baidu/ERNIE-ImageText-to-Image | Updated39 minutes ago | [Link](https://huggingface.co/baidu/ERNIE-Image) |
 | Updatedabout 5 hours ago | 116 | abenzerps/Qwen-Image-2 | 7B | [Link](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) |
+| Updatedabout 13 hours ago | 115 | inclusionAI/Ming-Image-0 | 6B | [Link](https://huggingface.co/inclusionAI/Ming-Image-0.1-Design) |
 | 31.2k | 114 | nunchaku-ai/nunchaku-qwen-image-editText-to-Image | UpdatedNov 16, 2025 | [Link](https://huggingface.co/nunchaku-ai/nunchaku-qwen-image-edit) |
 | Updatedabout 20 hours ago | 112 | vantagewithai/Krea-2-Turbo-GGUFText-to-Image | 13B | [Link](https://huggingface.co/vantagewithai/Krea-2-Turbo-GGUF) |
 | Updated13 days ago | 104 | mage-flow-community/Mage-FlowText-to-Image | 4B | [Link](https://huggingface.co/mage-flow-community/Mage-Flow) |
@@ -6850,6 +6854,7 @@ Updated on 2026-09-23
 | 2.23k | 42 | aoxo/flux | Updatedabout 2 hours ago | [Link](https://huggingface.co/aoxo/flux.1dev-abliteratedv2) |
 | 19 | 42 | ideogram-ai/ideogram-4-fp8Text-to-Image | Updated7 minutes ago | [Link](https://huggingface.co/ideogram-ai/ideogram-4-fp8) |
 | 1.18k | 40 | tencent/SRPOText-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/tencent/SRPO) |
+| Updatedabout 10 hours ago | 38 | Viggle/Qwen-Image-2 | 7B | [Link](https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo) |
 | Updated1 day ago | 37 | wikeeyang/Flux2-Klein-9B-True-V2Text-to-Image | 9B | [Link](https://huggingface.co/wikeeyang/Flux2-Klein-9B-True-V2) |
 | 5.59k | 33 | hashu786/HYVRewardText-to-Image | Updated5 days ago | [Link](https://huggingface.co/hashu786/HYVReward) |
 | 2.49k | 33 | Heartsync/NSFW-UncensoredText-to-Image | Updated7 days ago | [Link](https://huggingface.co/Heartsync/NSFW-Uncensored) |
@@ -7410,6 +7415,7 @@ Updated on 2026-09-23
 | 231 |  | lvladikov/Krea2-Turbo-Distill-2step-LoRAText-to-Image | Updated1 day ago | [Link](https://huggingface.co/lvladikov/Krea2-Turbo-Distill-2step-LoRA) |
 | 547 |  | WarmBloodAban/Krea-Edit-loraText-to-Image | Updated3 days ago | [Link](https://huggingface.co/WarmBloodAban/Krea-Edit-lora) |
 | 32 | Unknown | SupraLabs/Supra2-IMGText-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/SupraLabs/Supra2-IMG) |
+| 17 | Unknown | e-n-v-y/Qwen-Image-2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/e-n-v-y/Qwen-Image-2.1-Fix) |
 
 ## Text-to-Speech
 
