@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-09-23
+Updated on 2026-09-24
 
 > Generated from the Hugging Face database.
 
@@ -3258,6 +3258,7 @@ Updated on 2026-09-23
 | 95.2k |  | ScottzillaSystems/qwen-image-edit-plus-nsfw-loraImage-to-Image | UpdatedApr 26 | [Link](https://huggingface.co/ScottzillaSystems/qwen-image-edit-plus-nsfw-lora) |
 | 12 | Unknown | eric-venti-seeds/Eyes_Direction_Lora_Flux2Klein9BImage-to-Image | Updatedabout 16 hours ago | [Link](https://huggingface.co/eric-venti-seeds/Eyes_Direction_Lora_Flux2Klein9B) |
 | 5 | Unknown | taowen/dlss5-onnxImage-to-Image | Updated12 days ago | [Link](https://huggingface.co/taowen/dlss5-onnx) |
+| 4 | Unknown | ProCreations/stopmotion-consistency-v1-loraImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/ProCreations/stopmotion-consistency-v1-lora) |
 
 ## Image-to-Text
 
@@ -3681,6 +3682,7 @@ Updated on 2026-09-23
 | 33 | 3 | sensenova/SenseNova-Vision-7B-MoTImage-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/sensenova/SenseNova-Vision-7B-MoT) |
 | 19 | 3 | ekacare/parrotlet-v-lite-4bImage-to-Text | UpdatedJan 20 | [Link](https://huggingface.co/ekacare/parrotlet-v-lite-4b) |
 | 20 | 3 | factlogic/phoenix-arabic-manuscript-htrImage-to-Text | Updated1 day ago | [Link](https://huggingface.co/factlogic/phoenix-arabic-manuscript-htr) |
+| 25 | 3 | LocalDoc/azerbaijani-ocr-crnnImage-to-Text | Updated11 days ago | [Link](https://huggingface.co/LocalDoc/azerbaijani-ocr-crnn) |
 | 51 | 2 | microsoft/git-base-msrvtt-qaImage-to-Text | UpdatedApr 4, 2024 | [Link](https://huggingface.co/microsoft/git-base-msrvtt-qa) |
 | 32 | 2 | baseplate/vit-gpt2-image-captioningImage-to-Text | UpdatedApr 5, 2023 | [Link](https://huggingface.co/baseplate/vit-gpt2-image-captioning) |
 | 38 | 2 | sbintuitions/sarashina2-vision-14bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-14b) |
@@ -5927,6 +5929,7 @@ Updated on 2026-09-23
 | 49.7k | 34 | nvidia/Qwen3 | Updated6 days ago | [Link](https://huggingface.co/nvidia/Qwen3.5-397B-A17B-NVFP4) |
 | Updated5 days ago | 34k | cyankiwi/MiniMax-M2 | 37B | [Link](https://huggingface.co/cyankiwi/MiniMax-M2.7-AWQ-4bit) |
 | Updatedabout 2 hours ago | 34 | unsloth/NVIDIA-Nemotron-3 | 33B | [Link](https://huggingface.co/unsloth/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-GGUF) |
+| Updatedabout 1 hour ago | 34.7k | BoldingBuilds/Ternary-Bonsai-2-27B-Abliterated-PTQ1_0-GGUFText | 27B | [Link](https://huggingface.co/BoldingBuilds/Ternary-Bonsai-2-27B-Abliterated-PTQ1_0-GGUF) |
 | 566 | 33 | deepcogito/cogito-v1-preview-qwen-14BText | Updated1 day ago | [Link](https://huggingface.co/deepcogito/cogito-v1-preview-qwen-14B) |
 | 115 | 33 | shuttleai/shuttle-3 | Updated2 days ago | [Link](https://huggingface.co/shuttleai/shuttle-3.5) |
 | 4.66k | 33 | Qwen/Qwen3-32B-AWQText | Updated5 days ago | [Link](https://huggingface.co/Qwen/Qwen3-32B-AWQ) |
