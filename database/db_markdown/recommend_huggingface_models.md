@@ -2078,6 +2078,7 @@ Updated on 2026-09-24
 | Updated3 days ago | 251 | Zyphra/ZAYA1-VL-8BImage-Text-to-Text | 10B | [Link](https://huggingface.co/Zyphra/ZAYA1-VL-8B) |
 | Updated2 days ago | 245 | TeichAI/Qwen3 | 28B | [Link](https://huggingface.co/TeichAI/Qwen3.6-27B-Fable-5-Experimental) |
 | 353k | 236 | microsoft/Florence-2-baseImage-Text-to-Text | UpdatedNov 4, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-base) |
+| Updated1 day ago | 233 | apple/LensVLM-9BImage-Text-to-Text | 9B | [Link](https://huggingface.co/apple/LensVLM-9B) |
 | Updatedabout 2 hours ago | 232 | deepseek-ai/DeepSeek-OCR-2Image-Text-to-Text | 3B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-OCR-2) |
 | Updatedabout 14 hours ago | 228 | CohereLabs/command-a-vision-07-2025Image-Text-to-Text | 112B | [Link](https://huggingface.co/CohereLabs/command-a-vision-07-2025) |
 | Updatedabout 3 hours ago | 225 | lightonai/LightOnOCR-2-1BImage-Text-to-Text | 1B | [Link](https://huggingface.co/lightonai/LightOnOCR-2-1B) |
@@ -2919,6 +2920,7 @@ Updated on 2026-09-24
 | 3.87k | 5 | starsfriday/Mage-Flow-Edit-FP8Image-to-Image | Updated6 days ago | [Link](https://huggingface.co/starsfriday/Mage-Flow-Edit-FP8) |
 | 3 | 5 | yijunwang2/krea2-anypaintImage-to-Image | Updatedabout 14 hours ago | [Link](https://huggingface.co/yijunwang2/krea2-anypaint) |
 | Updated30 minutes ago | 5 | AiArtLab/zen-image-editImage-to-Image | 7B | [Link](https://huggingface.co/AiArtLab/zen-image-edit) |
+| 4 | 5 | yijunwang2/krea2-anyglesImage-to-Image | Updatedabout 19 hours ago | [Link](https://huggingface.co/yijunwang2/krea2-anygles) |
 | 575 | 4 | prs-eth/marigold-normals-v1-1Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-normals-v1-1) |
 | 1k | 4 | stanfordmimi/MedVAEImage-to-Image | UpdatedMar 31 | [Link](https://huggingface.co/stanfordmimi/MedVAE) |
 | 3 | 4 | wikeeyang/UniWorld-V1-NF4Image-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/wikeeyang/UniWorld-V1-NF4) |
@@ -3355,6 +3357,7 @@ Updated on 2026-09-24
 | UpdatedMay 24 | 137 | unsloth/Cosmos-Reason1-7BImage-to-Text | 8B | [Link](https://huggingface.co/unsloth/Cosmos-Reason1-7B) |
 | UpdatedMar 18 | 137 | Kansallisarkisto/cyrillic-large-handwrittenImage-to-Text | 0.6B | [Link](https://huggingface.co/Kansallisarkisto/cyrillic-large-handwritten) |
 | UpdatedJul 18, 2025 | 136 | loay/Arabic-OCR-Qwen2 | 8B | [Link](https://huggingface.co/loay/Arabic-OCR-Qwen2.5-VL-7B-Vision) |
+| UpdatedMay 5, 2024 | 136 | MoMonir/llava-llama-3-8b-v1_1-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/MoMonir/llava-llama-3-8b-v1_1-GGUF) |
 | UpdatedJul 22 | 135 | sugiv/cardvaultplus-500m-ggufImage-to-Text | 0.4B | [Link](https://huggingface.co/sugiv/cardvaultplus-500m-gguf) |
 | 1.69k | 134 | xtuner/llava-phi-3-mini-ggufImage-to-Text | UpdatedApr 29, 2024 | [Link](https://huggingface.co/xtuner/llava-phi-3-mini-gguf) |
 | Updated4 days ago | 134 | mlx-community/olmOCR-2-7B-1025-bf16Image-to-Text | 8B | [Link](https://huggingface.co/mlx-community/olmOCR-2-7B-1025-bf16) |
@@ -3754,6 +3757,7 @@ Updated on 2026-09-24
 | Updatedabout 11 hours ago | 2 | ArkAiLab-Adl/nexora-ocr-v0 | 0.9B | [Link](https://huggingface.co/ArkAiLab-Adl/nexora-ocr-v0.1-0.8b) |
 | 10 | 2 | dh-unibe/kraken-medieval-german-v2Image-to-Text | Updated3 days ago | [Link](https://huggingface.co/dh-unibe/kraken-medieval-german-v2) |
 | 13 | 2 | dh-unibe/qwen3vl-german-xix-v2Image-to-Text | Updated1 day ago | [Link](https://huggingface.co/dh-unibe/qwen3vl-german-xix-v2) |
+| 3.44k | 2 | breezedeus/pix2text-mfr-1 | UpdatedJul 25, 2025 | [Link](https://huggingface.co/breezedeus/pix2text-mfr-1.5) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -7497,6 +7501,7 @@ Updated on 2026-09-24
 | 19.6k | 127 | onnx-community/Kokoro-82M-ONNXText-to-Speech | Updated17 days ago | [Link](https://huggingface.co/onnx-community/Kokoro-82M-ONNX) |
 | UpdatedJun 1 | 123 | keanteng/sesame-csm-eliseText-to-Speech | 2B | [Link](https://huggingface.co/keanteng/sesame-csm-elise) |
 | Updated4 days ago | 120 | mlx-community/fish-audio-s2-pro-8bitText-to-Speech | 1B | [Link](https://huggingface.co/mlx-community/fish-audio-s2-pro-8bit) |
+| Updated3 days ago | 120 | saki22/koko-ttsText-to-Speech | 24.6M | [Link](https://huggingface.co/saki22/koko-tts) |
 | Updated1 day ago | 115 | vibevoice/VibeVoice-1 | 3B | [Link](https://huggingface.co/vibevoice/VibeVoice-1.5B) |
 | Updatedabout 9 hours ago | 114 | OpenMOSS-Team/MOSS-TTS-Local-Transformer-v1 | 5B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Local-Transformer-v1.5) |
 | Updatedabout 16 hours ago | 113 | syvai/plapre-nanoText-to-Speech | 0.3B | [Link](https://huggingface.co/syvai/plapre-nano) |
