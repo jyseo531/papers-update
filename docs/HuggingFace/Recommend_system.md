@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-09-24
+Updated on 2026-09-25
 
 > Generated from the Hugging Face database.
 
@@ -142,6 +142,7 @@ Updated on 2026-09-24
 | UpdatedAug 14 | 37k | unsloth/gemma-3-12b-it-GGUFAny-to-Any | 12B | [Link](https://huggingface.co/unsloth/gemma-3-12b-it-GGUF) |
 | Updated5 days ago | 37 | prithivMLmods/gemma-4-E4B-it-Uncensored-MAXAny-to-Any | 8B | [Link](https://huggingface.co/prithivMLmods/gemma-4-E4B-it-Uncensored-MAX) |
 | Updatedabout 5 hours ago | 37 | google/gemma-4-12B-it-assistantAny-to-Any | 0.4B | [Link](https://huggingface.co/google/gemma-4-12B-it-assistant) |
+| Updated7 days ago | 37 | kyutai/glm-4-voice-of-reason-stitch-9bAny-to-Any | 10B | [Link](https://huggingface.co/kyutai/glm-4-voice-of-reason-stitch-9b) |
 | Updated6 days ago | 36 | CalmState/gemma-3-4b-polyglot-v1Any-to-Any | 4B | [Link](https://huggingface.co/CalmState/gemma-3-4b-polyglot-v1) |
 | Updated10 days ago | 36 | Lambent/IsoC-Gemma-3-12BAny-to-Any | 12B | [Link](https://huggingface.co/Lambent/IsoC-Gemma-3-12B) |
 | UpdatedMar 28 | 35 | allura-org/Gemma-3-Glitter-12BAny-to-Any | 12B | [Link](https://huggingface.co/allura-org/Gemma-3-Glitter-12B) |
@@ -2841,6 +2842,7 @@ Updated on 2026-09-24
 | 179 | 15 | Kr1sJ/iMontageImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/Kr1sJ/iMontage) |
 | 12 | 14 | InstantX/Qwen-Image-ControlNet-InpaintingImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/InstantX/Qwen-Image-ControlNet-Inpainting) |
 | Updated24 minutes ago | 14 | QuantStack/Qwen-Image-Edit-2509-GGUFImage-to-Image | 20B | [Link](https://huggingface.co/QuantStack/Qwen-Image-Edit-2509-GGUF) |
+| 129 | 14 | prithivMLmods/Qwen-Image-2 | Updated1 day ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-2.1-Natural-Exposure-LoRA) |
 | 8.6k | 13 | lllyasviel/control_v11p_sd15_segImage-to-Image | UpdatedMay 4, 2023 | [Link](https://huggingface.co/lllyasviel/control_v11p_sd15_seg) |
 |  | 13 | reverentelusarca/kontext-turnaround-sheet-lora-v1Image-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/reverentelusarca/kontext-turnaround-sheet-lora-v1) |
 | 27 | 13 | Xenova/4x_APISR_GRL_GAN_generator-onnxImage-to-Image | UpdatedJul 7 | [Link](https://huggingface.co/Xenova/4x_APISR_GRL_GAN_generator-onnx) |
@@ -7423,6 +7425,7 @@ Updated on 2026-09-24
 | 547 |  | WarmBloodAban/Krea-Edit-loraText-to-Image | Updated3 days ago | [Link](https://huggingface.co/WarmBloodAban/Krea-Edit-lora) |
 | 32 | Unknown | SupraLabs/Supra2-IMGText-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/SupraLabs/Supra2-IMG) |
 | 17 | Unknown | e-n-v-y/Qwen-Image-2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/e-n-v-y/Qwen-Image-2.1-Fix) |
+| 23 | Unknown | alibaba-pai/Qwen-Image-2 | Updatedabout 11 hours ago | [Link](https://huggingface.co/alibaba-pai/Qwen-Image-2.1-Fun-Controlnet-Union) |
 
 ## Text-to-Speech
 
@@ -8434,6 +8437,7 @@ Updated on 2026-09-24
 | 1.23k |  | vladmandic/MiniMax-H3-Turbo-LoRAText-to-Video | Updated3 days ago | [Link](https://huggingface.co/vladmandic/MiniMax-H3-Turbo-LoRA) |
 | 9 | Unknown | wanvideo/wan-3-0-videoText-to-Video | Updated16 days ago | [Link](https://huggingface.co/wanvideo/wan-3-0-video) |
 | 12 | Unknown | alibaba-pai/MiniMax-H3-Fun-Controlnet-Union-2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/alibaba-pai/MiniMax-H3-Fun-Controlnet-Union-2.0) |
+| 4 | Unknown | cicalooo/MiniMax-H3-hybrid-b45-49-rtx3090-w4a8-int8Text-to-Video | Updated7 days ago | [Link](https://huggingface.co/cicalooo/MiniMax-H3-hybrid-b45-49-rtx3090-w4a8-int8) |
 
 ## Text2Text Generation
 
