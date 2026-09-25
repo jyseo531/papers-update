@@ -2244,6 +2244,7 @@ Updated on 2026-09-25
 | Updatedabout 1 hour ago | 37.9k | unsloth/gemma-4-E2B-it-GGUFImage-Text-to-Text | 5B | [Link](https://huggingface.co/unsloth/gemma-4-E2B-it-GGUF) |
 | Updated1 day ago | 36 | allenai/MolmoWeb-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/allenai/MolmoWeb-8B) |
 | Updatedabout 12 hours ago | 36 | unsloth/gemma-4-26B-A4B-it-qat-GGUFImage-Text-to-Text | 25B | [Link](https://huggingface.co/unsloth/gemma-4-26B-A4B-it-qat-GGUF) |
+| Updated3 days ago | 36.7k | bartowski/MiMo-V2 | 9B | [Link](https://huggingface.co/bartowski/MiMo-V2.6-Distill-Qwen-9B-GGUF) |
 | 23 | 35 | google/gemma-3-27b-it-qat-q4_0-ggufImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-it-qat-q4_0-gguf) |
 | 1.51k | 35 | unsloth/Llama-4-Scout-17B-16E-Instruct-unsloth-bnb-4bitImage-Text-to-Text | Updatedabout 2 hours ago | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct-unsloth-bnb-4bit) |
 | 810 | 35 | fancyfeast/llama-joycaption-beta-one-hf-llavaImage-Text-to-Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/fancyfeast/llama-joycaption-beta-one-hf-llava) |
@@ -3263,6 +3264,7 @@ Updated on 2026-09-25
 | 12 | Unknown | eric-venti-seeds/Eyes_Direction_Lora_Flux2Klein9BImage-to-Image | Updatedabout 16 hours ago | [Link](https://huggingface.co/eric-venti-seeds/Eyes_Direction_Lora_Flux2Klein9B) |
 | 5 | Unknown | taowen/dlss5-onnxImage-to-Image | Updated12 days ago | [Link](https://huggingface.co/taowen/dlss5-onnx) |
 | 4 | Unknown | ProCreations/stopmotion-consistency-v1-loraImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/ProCreations/stopmotion-consistency-v1-lora) |
+| 7 | Unknown | Cierpliwy/krea2-inpaint-editImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/Cierpliwy/krea2-inpaint-edit) |
 
 ## Image-to-Text
 
@@ -5701,6 +5703,7 @@ Updated on 2026-09-25
 | Updated5 days ago | 98 | haykgrigorian/v2mini-eval1Text | 0.3B | [Link](https://huggingface.co/haykgrigorian/v2mini-eval1) |
 | Updatedabout 2 hours ago | 98 | XiaomiMiMo/MiMo-V2-FlashText | 310B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash) |
 | Updatedabout 4 hours ago | 98 | LiquidAI/LFM2-24B-A2BText | 24B | [Link](https://huggingface.co/LiquidAI/LFM2-24B-A2B) |
+| Updatedabout 13 hours ago | 98 | orcarouter/OrcaSAQ-2-27BText | 7B | [Link](https://huggingface.co/orcarouter/OrcaSAQ-2-27B) |
 | 26.5k | 97 | google/gemma-3n-E2B-it-litert-lmText | Updated13 days ago | [Link](https://huggingface.co/google/gemma-3n-E2B-it-litert-lm) |
 | Updated2 days ago | 97 | Gryphe/Gemma-4-31B-StyleTuneText | 33B | [Link](https://huggingface.co/Gryphe/Gemma-4-31B-StyleTune) |
 | 2 | 95 | Qwen/Qwen3-30B-A3BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B) |
@@ -6224,6 +6227,7 @@ Updated on 2026-09-25
 | Updated6 days ago | 12.5k | nvidia/MiniMax-M2 | 116B | [Link](https://huggingface.co/nvidia/MiniMax-M2.7-NVFP4) |
 | Updated7 days ago | 12.2k | tvall43/Qwen3 | 14B | [Link](https://huggingface.co/tvall43/Qwen3.6-14B-A3B-FableVibes-GGUF) |
 | Updated2 days ago | 12.9k | dealignai/Bonsai-2-27B-1bit-CRACK-GGUFText | 27B | [Link](https://huggingface.co/dealignai/Bonsai-2-27B-1bit-CRACK-GGUF) |
+| Updated7 days ago | 12.7k | Hikari07jp/Ternary-Bonsai-2-27B-Abliterated-GGUFText | 27B | [Link](https://huggingface.co/Hikari07jp/Ternary-Bonsai-2-27B-Abliterated-GGUF) |
 | Updatedabout 10 hours ago | 11.9k | unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUFText | 31B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUF) |
 | Updatedabout 16 hours ago | 11.6k | unsloth/MiniMax-M2-GGUFText | 229B | [Link](https://huggingface.co/unsloth/MiniMax-M2-GGUF) |
 | Updatedabout 3 hours ago | 11 | LGAI-EXAONE/K-EXAONE-236B-A23BText | 237B | [Link](https://huggingface.co/LGAI-EXAONE/K-EXAONE-236B-A23B) |
@@ -6857,6 +6861,7 @@ Updated on 2026-09-25
 | 36 | 51 | THUDM/CogView4-6BText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/THUDM/CogView4-6B) |
 | Updatedabout 9 hours ago | 51 | tencent/HunyuanImage-3 | 83B | [Link](https://huggingface.co/tencent/HunyuanImage-3.0) |
 |  | 50 | zai-org/GLM-ImageText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/zai-org/GLM-Image) |
+| 2 | 48 | PrunaAI/Pruna-Qwen-Image-2 | Updatedabout 12 hours ago | [Link](https://huggingface.co/PrunaAI/Pruna-Qwen-Image-2.1) |
 |  | 46 | fal/FLUX | Updatedabout 5 hours ago | [Link](https://huggingface.co/fal/FLUX.2-dev-Turbo) |
 | 87 | 44 | Freepik/F-LiteText-to-Image | Updatedabout 15 hours ago | [Link](https://huggingface.co/Freepik/F-Lite) |
 | 17.9k | 43 | Disty0/Z-Image-Turbo-SDNQ-uint4-svd-r32Text-to-Image | Updated5 days ago | [Link](https://huggingface.co/Disty0/Z-Image-Turbo-SDNQ-uint4-svd-r32) |
