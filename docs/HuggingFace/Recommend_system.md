@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-09-25
+Updated on 2026-09-26
 
 > Generated from the Hugging Face database.
 
@@ -96,6 +96,7 @@ Updated on 2026-09-25
 | UpdatedMay 28 | 92 | Gunulhona/Gemma-3-4BAny-to-Any | 4B | [Link](https://huggingface.co/Gunulhona/Gemma-3-4B) |
 | Updatedabout 13 hours ago | 91 | google/gemma-4-E2B-it-qat-q4_0-ggufAny-to-Any | 5B | [Link](https://huggingface.co/google/gemma-4-E2B-it-qat-q4_0-gguf) |
 | UpdatedMay 22 | 88.7k | meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8Any-to-Any | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8) |
+| UpdatedJul 26 | 85.8k | ggml-org/gemma-4-E2B-it-GGUFAny-to-Any | 5B | [Link](https://huggingface.co/ggml-org/gemma-4-E2B-it-GGUF) |
 | 36.8k | 83 | openbmb/MiniCPM-o-2_6-ggufAny-to-Any | UpdatedJan 17 | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6-gguf) |
 | Updated5 days ago | 76 | DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-ExtremeAny-to-Any | 4B | [Link](https://huggingface.co/DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-Extreme) |
 | Updatedabout 13 hours ago | 70 | google/gemma-4-E4B-it-qat-q4_0-ggufAny-to-Any | 7B | [Link](https://huggingface.co/google/gemma-4-E4B-it-qat-q4_0-gguf) |
@@ -6437,6 +6438,7 @@ Updated on 2026-09-25
 | Updated3 days ago | 1.47k | OrionLLM/OxCoder-9BText | 9B | [Link](https://huggingface.co/OrionLLM/OxCoder-9B) |
 | Updatedabout 8 hours ago | 1.43k | dealignai/Bonsai-2-27B-Ternary-CRACK-GGUFText | 27B | [Link](https://huggingface.co/dealignai/Bonsai-2-27B-Ternary-CRACK-GGUF) |
 | Updated2 days ago | 1.25k | peculiar-ragdoll/Sharp-Spark-X2 | 4B | [Link](https://huggingface.co/peculiar-ragdoll/Sharp-Spark-X2.5-4B-GGUF) |
+| Updated2 days ago | 1.31k | juspay/xorText | 35B | [Link](https://huggingface.co/juspay/xor) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -7522,6 +7524,7 @@ Updated on 2026-09-25
 | Updatedabout 11 hours ago | 99 | pnnbao-ump/VieNeu-TTSText-to-Speech | 0.6B | [Link](https://huggingface.co/pnnbao-ump/VieNeu-TTS) |
 | UpdatedMay 13 | 99 | wasmdashai/vits-ar-sa-huba-v2Text-to-Speech | 83M | [Link](https://huggingface.co/wasmdashai/vits-ar-sa-huba-v2) |
 | Updatedabout 9 hours ago | 99 | pnnbao-ump/VieNeu-TTS-v2-TurboText-to-Speech | 0.1B | [Link](https://huggingface.co/pnnbao-ump/VieNeu-TTS-v2-Turbo) |
+| Updated10 days ago | 93 | cloud0day3/antalia-1Text-to-Speech | 0.3B | [Link](https://huggingface.co/cloud0day3/antalia-1) |
 | 1.44k | 90 | kyutai/tts-1 | Updatedabout 14 hours ago | [Link](https://huggingface.co/kyutai/tts-1.6b-en_fr) |
 | UpdatedApr 18 | 90 | lex-au/Orpheus-3b-French-FT-Q8_0 | 3B | [Link](https://huggingface.co/lex-au/Orpheus-3b-French-FT-Q8_0.gguf) |
 | 3.52k | 87 | HKUSTAudio/Llasa-1BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-1B) |
