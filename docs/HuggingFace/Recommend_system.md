@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-09-26
+Updated on 2026-09-27
 
 > Generated from the Hugging Face database.
 
@@ -60,6 +60,7 @@ Updated on 2026-09-26
 | Updated1 day ago | 254 | NexaAI/Qwen2 | 3B | [Link](https://huggingface.co/NexaAI/Qwen2.5-Omni-3B-GGUF) |
 | Updatedabout 7 hours ago | 253 | csuhan/Tar-1 | 3B | [Link](https://huggingface.co/csuhan/Tar-1.5B) |
 | Updatedabout 20 hours ago | 227 | mlx-community/gemma-4-12B-4bitAny-to-Any | 3B | [Link](https://huggingface.co/mlx-community/gemma-4-12B-4bit) |
+| Updatedabout 10 hours ago | 220 | Abiray/Artemis-31B-v1 | 31B | [Link](https://huggingface.co/Abiray/Artemis-31B-v1.2-GGUF) |
 | UpdatedMay 22 | 217k | meta-llama/Llama-4-Scout-17B-16E-InstructAny-to-Any | 109B | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct) |
 | Updatedabout 1 hour ago | 215 | XiaomiMiMo/MiMo-Audio-7B-BaseAny-to-Any | 8B | [Link](https://huggingface.co/XiaomiMiMo/MiMo-Audio-7B-Base) |
 | Updatedabout 3 hours ago | 215 | inclusionAI/Ming-UniAudio-16B-A3BAny-to-Any | 18B | [Link](https://huggingface.co/inclusionAI/Ming-UniAudio-16B-A3B) |
@@ -3267,6 +3268,8 @@ Updated on 2026-09-26
 | 5 | Unknown | taowen/dlss5-onnxImage-to-Image | Updated12 days ago | [Link](https://huggingface.co/taowen/dlss5-onnx) |
 | 4 | Unknown | ProCreations/stopmotion-consistency-v1-loraImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/ProCreations/stopmotion-consistency-v1-lora) |
 | 7 | Unknown | Cierpliwy/krea2-inpaint-editImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/Cierpliwy/krea2-inpaint-edit) |
+| 13 | Unknown | ausboss/Qwen-Image-2 | Updatedabout 8 hours ago | [Link](https://huggingface.co/ausboss/Qwen-Image-2.1-Outpaint-LoRA) |
+| 14 | Unknown | CSWRY/VOSRImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/CSWRY/VOSR) |
 
 ## Image-to-Text
 
@@ -3285,6 +3288,7 @@ Updated on 2026-09-26
 | Updated6 days ago | 699 | mlx-community/GLM-OCR-8bitImage-to-Text | 0.6B | [Link](https://huggingface.co/mlx-community/GLM-OCR-8bit) |
 | UpdatedApr 28 | 631 | Hyphonical/Pixtral-12B-Captioner-Relaxed-Q4_K_M-GGUFImage-to-Text | 12B | [Link](https://huggingface.co/Hyphonical/Pixtral-12B-Captioner-Relaxed-Q4_K_M-GGUF) |
 | Updated7 days ago | 603 | PinkPixel/Mochi-2B-GGUFImage-to-Text | 2B | [Link](https://huggingface.co/PinkPixel/Mochi-2B-GGUF) |
+| UpdatedJul 31, 2025 | 600 | mradermacher/QwenStoryteller-GGUFImage-to-Text | 8B | [Link](https://huggingface.co/mradermacher/QwenStoryteller-GGUF) |
 | UpdatedApr 9, 2025 | 599 | meta-llama/Llama-4-Maverick-17B-128EImage-to-Text | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E) |
 | UpdatedJan 29 | 586 | chatpig/llava-llama3Image-to-Text | 8B | [Link](https://huggingface.co/chatpig/llava-llama3) |
 | Updated1 day ago | 570 | HelloKKMe/GTA1-7BImage-to-Text | 8B | [Link](https://huggingface.co/HelloKKMe/GTA1-7B) |
@@ -5980,6 +5984,7 @@ Updated on 2026-09-26
 | Updated5 days ago | 31.1k | igorls/gemma-4-12B-it-heretic-GGUFText | 12B | [Link](https://huggingface.co/igorls/gemma-4-12B-it-heretic-GGUF) |
 | Updatedabout 2 hours ago | 31 | Motif-Technologies/Motif-3-BetaText | 315B | [Link](https://huggingface.co/Motif-Technologies/Motif-3-Beta) |
 | Updatedabout 7 hours ago | 31 | JonathanColetti/Qwen3 | 27B | [Link](https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF) |
+| Updated6 days ago | 31.1k | bartowski/Altworld_Hemmingway-1-GGUFText | 27B | [Link](https://huggingface.co/bartowski/Altworld_Hemmingway-1-GGUF) |
 | 277 | 30 | kakaocorp/kanana-nano-2 | Updatedabout 22 hours ago | [Link](https://huggingface.co/kakaocorp/kanana-nano-2.1b-instruct) |
 | 2.75k | 30 | allenai/OLMo-2-0425-1BText | Updated6 days ago | [Link](https://huggingface.co/allenai/OLMo-2-0425-1B) |
 | 509 | 30 | SWE-bench/SWE-agent-LM-32BText | Updatedabout 10 hours ago | [Link](https://huggingface.co/SWE-bench/SWE-agent-LM-32B) |
@@ -6923,6 +6928,7 @@ Updated on 2026-09-26
 | 9 | 14 | Applesay123456/REDland_Aesthetic_FLUX | UpdatedNov 24 | [Link](https://huggingface.co/Applesay123456/REDland_Aesthetic_FLUX.1_v1) |
 | 109 | 14 | AiArtLab/sdxs-1bText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/AiArtLab/sdxs-1b) |
 | Updatedabout 4 hours ago | 14 | microsoft/Mage-Flow-TurboText-to-Image | 4B | [Link](https://huggingface.co/microsoft/Mage-Flow-Turbo) |
+| 17 | 14 | Logolabs/agate-preview-001Text-to-Image | Updatedabout 18 hours ago | [Link](https://huggingface.co/Logolabs/agate-preview-001) |
 |  | 13 | aaronaftab/mirage-ghibliText-to-Image | Updatedabout 14 hours ago | [Link](https://huggingface.co/aaronaftab/mirage-ghibli) |
 | 4 | 13 | fumeisama/drawatoon-v1Text-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/fumeisama/drawatoon-v1) |
 | 2.1k | 13 | city96/HiDream-I1-Full-ggufText-to-Image | Updated1 day ago | [Link](https://huggingface.co/city96/HiDream-I1-Full-gguf) |
