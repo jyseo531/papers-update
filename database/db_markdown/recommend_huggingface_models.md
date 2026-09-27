@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-09-27
+Updated on 2026-09-28
 
 > Generated from the Hugging Face database.
 
@@ -5561,6 +5561,7 @@ Updated on 2026-09-27
 | Updatedabout 7 hours ago | 325 | poolside/Laguna-M | 226B | [Link](https://huggingface.co/poolside/Laguna-M.1) |
 | Updatedabout 24 hours ago | 322 | AlexWortega/SIQ-1-35BText | 35B | [Link](https://huggingface.co/AlexWortega/SIQ-1-35B) |
 | Updated3 days ago | 321 | Jinx-org/Jinx-gpt-oss-20bText | 21B | [Link](https://huggingface.co/Jinx-org/Jinx-gpt-oss-20b) |
+| Updatedabout 22 hours ago | 313 | orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUFText | 27B | [Link](https://huggingface.co/orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF) |
 | Updated3 days ago | 311 | SupraLabs/Supra-1 | 51.8M | [Link](https://huggingface.co/SupraLabs/Supra-1.5-50M-Instruct-exp) |
 | Updated3 days ago | 309 | MultiverseComputingCAI/HyperNova-60BText | 60B | [Link](https://huggingface.co/MultiverseComputingCAI/HyperNova-60B) |
 | Updated1 day ago | 309 | drowzeys/keys-DeepSeekV4-Flash-GA-0731-Dspark-Abliterated-32-32Text | 304B | [Link](https://huggingface.co/drowzeys/keys-DeepSeekV4-Flash-GA-0731-Dspark-Abliterated-32-32) |
@@ -7976,6 +7977,7 @@ Updated on 2026-09-27
 | 6 | Unknown | genvoice/xVibePocketTTSText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/genvoice/xVibePocketTTS) |
 | 7 | Unknown | drbaph/AuK-comfyuiText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/drbaph/AuK-comfyui) |
 | 7 | Unknown | Nimaone/pocket-tts-farsi-v2-onnxText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/Nimaone/pocket-tts-farsi-v2-onnx) |
+| 6 | Unknown | SupraLabs/SupraTTS-0 | Updatedabout 6 hours ago | [Link](https://huggingface.co/SupraLabs/SupraTTS-0.1-Beta) |
 
 ## Text-to-Video
 
@@ -8458,6 +8460,7 @@ Updated on 2026-09-27
 | 12 | Unknown | alibaba-pai/MiniMax-H3-Fun-Controlnet-Union-2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/alibaba-pai/MiniMax-H3-Fun-Controlnet-Union-2.0) |
 | 4 | Unknown | cicalooo/MiniMax-H3-hybrid-b45-49-rtx3090-w4a8-int8Text-to-Video | Updated7 days ago | [Link](https://huggingface.co/cicalooo/MiniMax-H3-hybrid-b45-49-rtx3090-w4a8-int8) |
 | 6 | Unknown | Veda-Sparse/Minimax-H3-T2VA-Veda-8NFE-600Step-PreviewText-to-Video | Updatedabout 15 hours ago | [Link](https://huggingface.co/Veda-Sparse/Minimax-H3-T2VA-Veda-8NFE-600Step-Preview) |
+| 209 |  | neph1/1950sScifiMinimaxH3Text-to-Video | Updated8 days ago | [Link](https://huggingface.co/neph1/1950sScifiMinimaxH3) |
 
 ## Text2Text Generation
 
