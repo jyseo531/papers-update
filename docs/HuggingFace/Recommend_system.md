@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-09-28
+Updated on 2026-09-29
 
 > Generated from the Hugging Face database.
 
@@ -227,6 +227,7 @@ Updated on 2026-09-28
 | Updated4 days ago | 7.24k | w-ahmad/Gemma-4-12B-it-qat-GGUF-MoQAny-to-Any | 12B | [Link](https://huggingface.co/w-ahmad/Gemma-4-12B-it-qat-GGUF-MoQ) |
 | Updatedabout 14 hours ago | 7 | sensenova/SenseNova-U1-8B-MoT-Infographic-V3Any-to-Any | 18B | [Link](https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-Infographic-V3) |
 | Updatedabout 16 hours ago | 7 | lemonade666/Ex-Omni-2DAny-to-Any | 11B | [Link](https://huggingface.co/lemonade666/Ex-Omni-2D) |
+| UpdatedAug 9 | 7.16k | bartowski/Ateron_Gemma-4-Dark-Thoughts-31B-GGUFAny-to-Any | 31B | [Link](https://huggingface.co/bartowski/Ateron_Gemma-4-Dark-Thoughts-31B-GGUF) |
 | 1.15k | 6 | EPFL-VILAB/4M-21_BAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-21_B) |
 | 186 | 6 | showlab/show-o2-7BAny-to-Any | Updatedabout 9 hours ago | [Link](https://huggingface.co/showlab/show-o2-7B) |
 | Updatedabout 11 hours ago | 6 | Qwen/Qwen3-Omni-30B-A3B-ThinkingAny-to-Any | 32B | [Link](https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Thinking) |
@@ -299,6 +300,7 @@ Updated on 2026-09-28
 | Updated1 day ago | 3.93k | mradermacher/gemma-4-12B-Queen-it-qat-q4_0-unquantized-i1-GGUFAny-to-Any | 12B | [Link](https://huggingface.co/mradermacher/gemma-4-12B-Queen-it-qat-q4_0-unquantized-i1-GGUF) |
 | Updated1 day ago | 3 | bartowski/TheDrummer_Artemis-31B-v1 | 31B | [Link](https://huggingface.co/bartowski/TheDrummer_Artemis-31B-v1.1-GGUF) |
 | Updatedabout 10 hours ago | 3 | bartowski/ReadyArt_gemma-4-31B-it-scotoma-2-GGUFAny-to-Any | 31B | [Link](https://huggingface.co/bartowski/ReadyArt_gemma-4-31B-it-scotoma-2-GGUF) |
+| 26 | 3 | furkanbekmezci/TR-Omni-E4B-Turkish-Native-Speech-to-Speech-ModelAny-to-Any | Updated3 days ago | [Link](https://huggingface.co/furkanbekmezci/TR-Omni-E4B-Turkish-Native-Speech-to-Speech-Model) |
 | 47 | 2 | PKU-Alignment/AnyRewardModelAny-to-Any | UpdatedDec 28, 2024 | [Link](https://huggingface.co/PKU-Alignment/AnyRewardModel) |
 | 585 | 2 | wnma3mz/Janus-Pro-1B-4bitAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/wnma3mz/Janus-Pro-1B-4bit) |
 | 3 | 2 | lintw/HealthGPT-XL32Any-to-Any | Updatedabout 18 hours ago | [Link](https://huggingface.co/lintw/HealthGPT-XL32) |
@@ -2049,6 +2051,7 @@ Updated on 2026-09-28
 | Updated3 days ago | 468 | QuantTrio/GLM-4 | 17B | [Link](https://huggingface.co/QuantTrio/GLM-4.5V-AWQ) |
 | Updated2 days ago | 461 | nvidia/Ising-Calibration-1-35B-A3BImage-Text-to-Text | 665k | [Link](https://huggingface.co/nvidia/Ising-Calibration-1-35B-A3B) |
 | Updatedabout 10 hours ago | 454 | Qwen/Qwen3-VL-32B-Instruct-FP8Image-Text-to-Text | 33B | [Link](https://huggingface.co/Qwen/Qwen3-VL-32B-Instruct-FP8) |
+| Updated4 days ago | 445 | ukisai/Swift1 | 180B | [Link](https://huggingface.co/ukisai/Swift1.5-Qwen3.8-Flash-Next) |
 | Updatedabout 3 hours ago | 442 | MiniMaxAI/MiniMax-M3Image-Text-to-Text | 427B | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M3) |
 | Updated13 days ago | 436 | SL-AI/GRaPE-2-ProImage-Text-to-Text | 28B | [Link](https://huggingface.co/SL-AI/GRaPE-2-Pro) |
 | Updated1 day ago | 422 | google/diffusiongemma-26B-A4B-itImage-Text-to-Text | 26B | [Link](https://huggingface.co/google/diffusiongemma-26B-A4B-it) |
@@ -2060,6 +2063,7 @@ Updated on 2026-09-28
 | Updatedabout 2 hours ago | 349 | moondream/moondream3-previewImage-Text-to-Text | 9B | [Link](https://huggingface.co/moondream/moondream3-preview) |
 | Updated4 days ago | 341 | bakrianoo/arabic-legal-documents-ocr-1 | 4B | [Link](https://huggingface.co/bakrianoo/arabic-legal-documents-ocr-1.0) |
 | Updated2 days ago | 338 | lapa-llm/lapa-v0 | 12B | [Link](https://huggingface.co/lapa-llm/lapa-v0.1.2-instruct) |
+| Updated2 days ago | 338 | internlm/Intern-Decision-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/internlm/Intern-Decision-4B) |
 | Updated1 day ago | 317 | ZJU-AI4H/Hulu-Med-14BImage-Text-to-Text | 15B | [Link](https://huggingface.co/ZJU-AI4H/Hulu-Med-14B) |
 | Updated1 day ago | 313 | Hcompany/Holo-3 | 5B | [Link](https://huggingface.co/Hcompany/Holo-3.1-4B) |
 | Updated2 days ago | 311 | Open-Bee/Bee-8B-RLImage-Text-to-Text | 9B | [Link](https://huggingface.co/Open-Bee/Bee-8B-RL) |
@@ -3271,6 +3275,7 @@ Updated on 2026-09-28
 | 7 | Unknown | Cierpliwy/krea2-inpaint-editImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/Cierpliwy/krea2-inpaint-edit) |
 | 13 | Unknown | ausboss/Qwen-Image-2 | Updatedabout 8 hours ago | [Link](https://huggingface.co/ausboss/Qwen-Image-2.1-Outpaint-LoRA) |
 | 14 | Unknown | CSWRY/VOSRImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/CSWRY/VOSR) |
+| 44 | Unknown | lilylilith/QI_2 | Updatedabout 4 hours ago | [Link](https://huggingface.co/lilylilith/QI_2.1_AnyAngle) |
 
 ## Image-to-Text
 
@@ -3697,6 +3702,7 @@ Updated on 2026-09-28
 | 19 | 3 | ekacare/parrotlet-v-lite-4bImage-to-Text | UpdatedJan 20 | [Link](https://huggingface.co/ekacare/parrotlet-v-lite-4b) |
 | 20 | 3 | factlogic/phoenix-arabic-manuscript-htrImage-to-Text | Updated1 day ago | [Link](https://huggingface.co/factlogic/phoenix-arabic-manuscript-htr) |
 | 25 | 3 | LocalDoc/azerbaijani-ocr-crnnImage-to-Text | Updated11 days ago | [Link](https://huggingface.co/LocalDoc/azerbaijani-ocr-crnn) |
+| Updatedabout 8 hours ago | 3 | UniParser/MolParser-Mobile-V2Image-to-Text | 10M | [Link](https://huggingface.co/UniParser/MolParser-Mobile-V2) |
 | 51 | 2 | microsoft/git-base-msrvtt-qaImage-to-Text | UpdatedApr 4, 2024 | [Link](https://huggingface.co/microsoft/git-base-msrvtt-qa) |
 | 32 | 2 | baseplate/vit-gpt2-image-captioningImage-to-Text | UpdatedApr 5, 2023 | [Link](https://huggingface.co/baseplate/vit-gpt2-image-captioning) |
 | 38 | 2 | sbintuitions/sarashina2-vision-14bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-14b) |
@@ -7051,6 +7057,7 @@ Updated on 2026-09-28
 | 838 | 7 | Winnougan/Ideogram_Instant_NSFWText-to-Image | Updated6 days ago | [Link](https://huggingface.co/Winnougan/Ideogram_Instant_NSFW) |
 | 186 | 7 | xixxix-HF/SydneySweeney_Krea2Text-to-Image | Updated5 days ago | [Link](https://huggingface.co/xixxix-HF/SydneySweeney_Krea2) |
 | Updatedabout 5 hours ago | 7 | inclusionAI/LLaDA-Image-TurboText-to-Image | 7B | [Link](https://huggingface.co/inclusionAI/LLaDA-Image-Turbo) |
+| Updated4 days ago | 7.88k | realrebelai/Ming-Image_GGUFsText-to-Image | 6B | [Link](https://huggingface.co/realrebelai/Ming-Image_GGUFs) |
 | 1.07k | 6 | DFloat11/FLUX | Updated1 day ago | [Link](https://huggingface.co/DFloat11/FLUX.1-dev-DF11) |
 | 836 | 6 | Minthy/RouWei-0 | Updated3 days ago | [Link](https://huggingface.co/Minthy/RouWei-0.8) |
 | 169 | 6 | PosterCraft/PosterCraft-v1_RLText-to-Image | Updated2 days ago | [Link](https://huggingface.co/PosterCraft/PosterCraft-v1_RL) |
@@ -7706,6 +7713,7 @@ Updated on 2026-09-28
 | 32 | 6 | owensong/Inflect-Nano-v2-ONNXText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/owensong/Inflect-Nano-v2-ONNX) |
 | Updated19 minutes ago | 6 | Aratako/Irodori-TTS-v4-SmallText-to-Speech | 0.8B | [Link](https://huggingface.co/Aratako/Irodori-TTS-v4-Small) |
 | Updatedabout 13 hours ago | 6 | Aratako/Irodori-TTS-v4-LargeText-to-Speech | 3B | [Link](https://huggingface.co/Aratako/Irodori-TTS-v4-Large) |
+| 26 | 6 | LH-Tech-AI/Flare-TTS-v1 | UpdatedMay 5 | [Link](https://huggingface.co/LH-Tech-AI/Flare-TTS-v1.5) |
 | 87 | 5 | lunahr/csm-1b-safetensors-quantsText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-quants) |
 | 26 | 5 | 2121-8/canary-tts-0 | Updatedabout 19 hours ago | [Link](https://huggingface.co/2121-8/canary-tts-0.5b) |
 | 12 | 5 | MYZY-AI/Muyan-TTS-SFTText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/MYZY-AI/Muyan-TTS-SFT) |
@@ -7982,6 +7990,7 @@ Updated on 2026-09-28
 | 7 | Unknown | drbaph/AuK-comfyuiText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/drbaph/AuK-comfyui) |
 | 7 | Unknown | Nimaone/pocket-tts-farsi-v2-onnxText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/Nimaone/pocket-tts-farsi-v2-onnx) |
 | 6 | Unknown | SupraLabs/SupraTTS-0 | Updatedabout 6 hours ago | [Link](https://huggingface.co/SupraLabs/SupraTTS-0.1-Beta) |
+| 6 | Unknown | Aratako/Irodori-TTS-v4-Large-QuantizedText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/Aratako/Irodori-TTS-v4-Large-Quantized) |
 
 ## Text-to-Video
 
@@ -8086,6 +8095,7 @@ Updated on 2026-09-28
 |  | 6 | rehan-fal/minimax-h3-vr180-sbs-loraText-to-Video | Updatedabout 14 hours ago | [Link](https://huggingface.co/rehan-fal/minimax-h3-vr180-sbs-lora) |
 |  | 6 | EllipsesMark/minimax-h3-vr180-sbs-loraText-to-Video | Updated1 day ago | [Link](https://huggingface.co/EllipsesMark/minimax-h3-vr180-sbs-lora) |
 | 79 | 6 | Raretutor/vdn-minimax-h3-comfyui-int8-convrotText-to-Video | Updatedabout 18 hours ago | [Link](https://huggingface.co/Raretutor/vdn-minimax-h3-comfyui-int8-convrot) |
+| 28 | 6 | KlingTeam/UnityVideoText-to-Video | UpdatedJul 14 | [Link](https://huggingface.co/KlingTeam/UnityVideo) |
 | 5.95k | 5 | guoyww/animatediff-motion-lora-tilt-downText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-tilt-down) |
 | 504 | 5 | guoyww/animatediff-motion-lora-v1-5-3Text-to-Video | UpdatedJul 23, 2024 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-v1-5-3) |
 | 23 | 5 | robingg1/NAVAText-to-Video | Updatedabout 8 hours ago | [Link](https://huggingface.co/robingg1/NAVA) |
