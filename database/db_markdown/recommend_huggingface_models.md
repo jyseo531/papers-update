@@ -2293,6 +2293,7 @@ Updated on 2026-09-28
 | Updatedabout 8 hours ago | 27 | LiquidAI/LFM2-VL-1 | 2B | [Link](https://huggingface.co/LiquidAI/LFM2-VL-1.6B) |
 | 2.54k | 27 | onnx-community/FastVLM-0 | UpdatedJul 1 | [Link](https://huggingface.co/onnx-community/FastVLM-0.5B-ONNX) |
 | 1.95k | 27 | MiniMaxAI/MiniMax-M3-MXFP8Image-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M3-MXFP8) |
+| Updated6 days ago | 27.8k | XingChen-AGI/TeleOCRImage-Text-to-Text | 1B | [Link](https://huggingface.co/XingChen-AGI/TeleOCR) |
 | 3 | 26 | openfree/Gemma-3-R1984-27B-Q8_0-GGUFImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/openfree/Gemma-3-R1984-27B-Q8_0-GGUF) |
 | 4 | 26 | openfree/Gemma-3-R1984-27B-Q6_K-GGUFImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/openfree/Gemma-3-R1984-27B-Q6_K-GGUF) |
 | 3 | 26 | openfree/Mistral-Small-3 | Updatedabout 8 hours ago | [Link](https://huggingface.co/openfree/Mistral-Small-3.1-24B-Instruct-2503-Q8_0-GGUF) |
@@ -6523,6 +6524,7 @@ Updated on 2026-09-28
 | 40 | Unknown | Cactus-Compute/needle2Text | Updatedabout 15 hours ago | [Link](https://huggingface.co/Cactus-Compute/needle2) |
 | 43 | Unknown | peonist-ai/halogen-qwen3 | Updatedabout 4 hours ago | [Link](https://huggingface.co/peonist-ai/halogen-qwen3.8-flash-next) |
 | 72 | Unknown | harshatheg/Qwen-2 | Updatedabout 10 hours ago | [Link](https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD) |
+| 55 | Unknown | NaiveAI/Naive-N0 | Updatedabout 10 hours ago | [Link](https://huggingface.co/NaiveAI/Naive-N0.5-Flash) |
 
 ## Text Ranking
 
@@ -6851,6 +6853,7 @@ Updated on 2026-09-28
 | Updated1 day ago | 80 | realrebelai/Kreamagine_v1 | 13B | [Link](https://huggingface.co/realrebelai/Kreamagine_v1.0) |
 | Updatedabout 4 hours ago | 79 | microsoft/Mage-FlowText-to-Image | 4B | [Link](https://huggingface.co/microsoft/Mage-Flow) |
 | Updated2 days ago | 78 | ivanmikhnenkov/tinydit-256Text-to-Image | 0.2B | [Link](https://huggingface.co/ivanmikhnenkov/tinydit-256) |
+| Updated3 days ago | 76 | FINAL-Bench/POCKET-Zimage-CPUText-to-Image | 6B | [Link](https://huggingface.co/FINAL-Bench/POCKET-Zimage-CPU) |
 | 128 | 75 | bytedance-research/USOText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/bytedance-research/USO) |
 | 1.96k | 71 | aquif-ai/Reupload-Magic-Wan-Image-v1 | Updated34 minutes ago | [Link](https://huggingface.co/aquif-ai/Reupload-Magic-Wan-Image-v1.0) |
 | Updated3 days ago | 70 | bench-labs/pixelmodel-v1Text-to-Image | 23.7k | [Link](https://huggingface.co/bench-labs/pixelmodel-v1) |
@@ -7702,6 +7705,7 @@ Updated on 2026-09-28
 | Updatedabout 3 hours ago | 6 | neuphonic/neutts-2eText-to-Speech | 0.2B | [Link](https://huggingface.co/neuphonic/neutts-2e) |
 | 32 | 6 | owensong/Inflect-Nano-v2-ONNXText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/owensong/Inflect-Nano-v2-ONNX) |
 | Updated19 minutes ago | 6 | Aratako/Irodori-TTS-v4-SmallText-to-Speech | 0.8B | [Link](https://huggingface.co/Aratako/Irodori-TTS-v4-Small) |
+| Updatedabout 13 hours ago | 6 | Aratako/Irodori-TTS-v4-LargeText-to-Speech | 3B | [Link](https://huggingface.co/Aratako/Irodori-TTS-v4-Large) |
 | 87 | 5 | lunahr/csm-1b-safetensors-quantsText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-quants) |
 | 26 | 5 | 2121-8/canary-tts-0 | Updatedabout 19 hours ago | [Link](https://huggingface.co/2121-8/canary-tts-0.5b) |
 | 12 | 5 | MYZY-AI/Muyan-TTS-SFTText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/MYZY-AI/Muyan-TTS-SFT) |
