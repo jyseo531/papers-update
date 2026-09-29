@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-09-29
+Updated on 2026-09-30
 
 > Generated from the Hugging Face database.
 
@@ -2892,6 +2892,7 @@ Updated on 2026-09-29
 | 160 | 8 | Jamichsu/Stream-DiffVSRImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/Jamichsu/Stream-DiffVSR) |
 |  | 8 | prithivMLmods/Qwen-Image-Edit-2511-Unblur-UpscaleImage-to-Image | Updated15 minutes ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-2511-Unblur-Upscale) |
 | 1.75k | 8 | wraps/FLUX | Updated3 days ago | [Link](https://huggingface.co/wraps/FLUX.2-klein-9B-Blitz-ComfyUI) |
+| 32 | 8 | ML-Intern-lab/Qwen-Image-2 | Updatedabout 13 hours ago | [Link](https://huggingface.co/ML-Intern-lab/Qwen-Image-2.1-doodle-in-LoRA) |
 | 1.74k | 7 | xiaozaa/catvton-flux-betaImage-to-Image | UpdatedJan 16 | [Link](https://huggingface.co/xiaozaa/catvton-flux-beta) |
 | 33 | 7 | kontext-community/relighting-kontext-dev-lora-v3Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/kontext-community/relighting-kontext-dev-lora-v3) |
 | Updatedabout 1 hour ago | 7 | chatpig/flux2-dev-ggufImage-to-Image | 18B | [Link](https://huggingface.co/chatpig/flux2-dev-gguf) |
@@ -5672,6 +5673,7 @@ Updated on 2026-09-29
 | 324 | 133 | moonshotai/Kimi-Dev-72BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-Dev-72B) |
 | Updated5 days ago | 132 | microsoft/OptiMind-SFTText | 21B | [Link](https://huggingface.co/microsoft/OptiMind-SFT) |
 | Updated2 days ago | 132 | Gryphe/WorldSim-Opus-3 | 35B | [Link](https://huggingface.co/Gryphe/WorldSim-Opus-3.6-35B-A3B) |
+| Updatedabout 8 hours ago | 130 | IQuestLab/IQuest-Q1Text | 320B | [Link](https://huggingface.co/IQuestLab/IQuest-Q1) |
 | Updated1 day ago | 129 | allenai/Bolmo-1BText | 1B | [Link](https://huggingface.co/allenai/Bolmo-1B) |
 | Updated6 days ago | 128 | arcee-ai/Trinity-Mini-BaseText | 26B | [Link](https://huggingface.co/arcee-ai/Trinity-Mini-Base) |
 | Updatedabout 13 hours ago | 127 | Altworld/Hemmingway-1Text | 27B | [Link](https://huggingface.co/Altworld/Hemmingway-1) |
@@ -6953,6 +6955,7 @@ Updated on 2026-09-29
 | Updatedabout 3 hours ago | 13 | unsloth/ERNIE-Image-Turbo-GGUFText-to-Image | 8B | [Link](https://huggingface.co/unsloth/ERNIE-Image-Turbo-GGUF) |
 | Updatedabout 14 hours ago | 13 | realrebelai/Boogu-Image-Base_GGUFsText-to-Image | 10B | [Link](https://huggingface.co/realrebelai/Boogu-Image-Base_GGUFs) |
 | 4.68k | 13 | ddalcu/Qwen-Image-2 | Updated6 days ago | [Link](https://huggingface.co/ddalcu/Qwen-Image-2.1-MLX-Serve-8bit) |
+| 331 | 13 | neph1/minimax_h3_handheld_shaky_cameraText-to-Image | Updated3 days ago | [Link](https://huggingface.co/neph1/minimax_h3_handheld_shaky_camera) |
 | 217 | 12 | city96/HiDream-I1-Dev-ggufText-to-Image | Updated1 day ago | [Link](https://huggingface.co/city96/HiDream-I1-Dev-gguf) |
 | Updatedabout 4 hours ago | 12 | stepfun-ai/NextStep-1-LargeText-to-Image | 15B | [Link](https://huggingface.co/stepfun-ai/NextStep-1-Large) |
 | 59 | 12 | bytedance-research/UMOText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/bytedance-research/UMO) |
@@ -8478,6 +8481,7 @@ Updated on 2026-09-29
 | 6 | Unknown | Veda-Sparse/Minimax-H3-T2VA-Veda-8NFE-600Step-PreviewText-to-Video | Updatedabout 15 hours ago | [Link](https://huggingface.co/Veda-Sparse/Minimax-H3-T2VA-Veda-8NFE-600Step-Preview) |
 | 209 |  | neph1/1950sScifiMinimaxH3Text-to-Video | Updated8 days ago | [Link](https://huggingface.co/neph1/1950sScifiMinimaxH3) |
 | 4 | Unknown | QuantFunc/Minimax-H3-Quantfunc-4bitText-to-Video | Updatedabout 13 hours ago | [Link](https://huggingface.co/QuantFunc/Minimax-H3-Quantfunc-4bit) |
+| 3.51k |  | poopooness/H3-LorasText-to-Video | Updated14 days ago | [Link](https://huggingface.co/poopooness/H3-Loras) |
 
 ## Text2Text Generation
 
