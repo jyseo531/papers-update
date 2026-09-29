@@ -6360,6 +6360,7 @@ Updated on 2026-09-29
 | Updated1 day ago | 3.48k | GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-ThinkingText | 1B | [Link](https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking) |
 | Updatedabout 5 hours ago | 3.06k | poolside/Laguna-S-2 | 118B | [Link](https://huggingface.co/poolside/Laguna-S-2.1) |
 | Updatedabout 1 hour ago | 3.48k | huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUFText | 284B | [Link](https://huggingface.co/huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF) |
+| Updated5 days ago | 3.81k | ukisai/Swift-Bonsai-2-GGUFText | 27B | [Link](https://huggingface.co/ukisai/Swift-Bonsai-2-GGUF) |
 | Updated6 days ago | 2.04k | marcelbinz/Llama-3 | 71B | [Link](https://huggingface.co/marcelbinz/Llama-3.1-Centaur-70B) |
 | Updatedabout 2 hours ago | 2.66k | unsloth/Qwen3-235B-A22B-Instruct-2507-GGUFText | 235B | [Link](https://huggingface.co/unsloth/Qwen3-235B-A22B-Instruct-2507-GGUF) |
 | Updatedabout 10 hours ago | 2 | Qwen/Qwen3-30B-A3B-Thinking-2507Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507) |
@@ -7455,6 +7456,7 @@ Updated on 2026-09-29
 | 32 | Unknown | SupraLabs/Supra2-IMGText-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/SupraLabs/Supra2-IMG) |
 | 17 | Unknown | e-n-v-y/Qwen-Image-2 | Updatedabout 7 hours ago | [Link](https://huggingface.co/e-n-v-y/Qwen-Image-2.1-Fix) |
 | 23 | Unknown | alibaba-pai/Qwen-Image-2 | Updatedabout 11 hours ago | [Link](https://huggingface.co/alibaba-pai/Qwen-Image-2.1-Fun-Controlnet-Union) |
+| 15 | Unknown | NidAll/pruna-image-2 | Updated4 days ago | [Link](https://huggingface.co/NidAll/pruna-image-2.1-comfyui-loras) |
 
 ## Text-to-Speech
 
@@ -8475,6 +8477,7 @@ Updated on 2026-09-29
 | 4 | Unknown | cicalooo/MiniMax-H3-hybrid-b45-49-rtx3090-w4a8-int8Text-to-Video | Updated7 days ago | [Link](https://huggingface.co/cicalooo/MiniMax-H3-hybrid-b45-49-rtx3090-w4a8-int8) |
 | 6 | Unknown | Veda-Sparse/Minimax-H3-T2VA-Veda-8NFE-600Step-PreviewText-to-Video | Updatedabout 15 hours ago | [Link](https://huggingface.co/Veda-Sparse/Minimax-H3-T2VA-Veda-8NFE-600Step-Preview) |
 | 209 |  | neph1/1950sScifiMinimaxH3Text-to-Video | Updated8 days ago | [Link](https://huggingface.co/neph1/1950sScifiMinimaxH3) |
+| 4 | Unknown | QuantFunc/Minimax-H3-Quantfunc-4bitText-to-Video | Updatedabout 13 hours ago | [Link](https://huggingface.co/QuantFunc/Minimax-H3-Quantfunc-4bit) |
 
 ## Text2Text Generation
 
