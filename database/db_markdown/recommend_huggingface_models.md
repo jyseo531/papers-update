@@ -2089,6 +2089,7 @@ Updated on 2026-09-30
 | Updated1 day ago | 233 | apple/LensVLM-9BImage-Text-to-Text | 9B | [Link](https://huggingface.co/apple/LensVLM-9B) |
 | Updatedabout 2 hours ago | 232 | deepseek-ai/DeepSeek-OCR-2Image-Text-to-Text | 3B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-OCR-2) |
 | Updatedabout 14 hours ago | 228 | CohereLabs/command-a-vision-07-2025Image-Text-to-Text | 112B | [Link](https://huggingface.co/CohereLabs/command-a-vision-07-2025) |
+| Updatedabout 2 hours ago | 226 | FINAL-Bench/Darwin-180B-RSIImage-Text-to-Text | 180B | [Link](https://huggingface.co/FINAL-Bench/Darwin-180B-RSI) |
 | Updatedabout 3 hours ago | 225 | lightonai/LightOnOCR-2-1BImage-Text-to-Text | 1B | [Link](https://huggingface.co/lightonai/LightOnOCR-2-1B) |
 | Updatedabout 9 hours ago | 223 | ukisai/Swift-Qwen3 | 28B | [Link](https://huggingface.co/ukisai/Swift-Qwen3.8-27b) |
 | Updatedabout 21 hours ago | 220 | magibu/magibu-11b-v0 | 12B | [Link](https://huggingface.co/magibu/magibu-11b-v0.8) |
@@ -3776,6 +3777,7 @@ Updated on 2026-09-30
 | 10 | 2 | dh-unibe/kraken-medieval-german-v2Image-to-Text | Updated3 days ago | [Link](https://huggingface.co/dh-unibe/kraken-medieval-german-v2) |
 | 13 | 2 | dh-unibe/qwen3vl-german-xix-v2Image-to-Text | Updated1 day ago | [Link](https://huggingface.co/dh-unibe/qwen3vl-german-xix-v2) |
 | 3.44k | 2 | breezedeus/pix2text-mfr-1 | UpdatedJul 25, 2025 | [Link](https://huggingface.co/breezedeus/pix2text-mfr-1.5) |
+| Updatedabout 12 hours ago | 2 | atonlee/Qota-OCRImage-to-Text | 6.69M | [Link](https://huggingface.co/atonlee/Qota-OCR) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -7601,6 +7603,7 @@ Updated on 2026-09-30
 | Updated2 days ago | 35.7k | remsky/kokoro-inno-clone-tunerText-to-Speech | 9.65M | [Link](https://huggingface.co/remsky/kokoro-inno-clone-tuner) |
 | 375 | 34 | mrfakename/OpenF5-TTS-BaseText-to-Speech | Updatedabout 1 hour ago | [Link](https://huggingface.co/mrfakename/OpenF5-TTS-Base) |
 | Updatedabout 7 hours ago | 33 | Audio8/Audio8-TTS-Preview-0 | 0.6B | [Link](https://huggingface.co/Audio8/Audio8-TTS-Preview-0.6b) |
+| UpdatedAug 29, 2025 | 32 | szhengac25/higgs-audio-v2-generation-3B-baseText-to-Speech | 6B | [Link](https://huggingface.co/szhengac25/higgs-audio-v2-generation-3B-base) |
 | 25 | 31 | amphion/VevoText-to-Speech | Updated10 days ago | [Link](https://huggingface.co/amphion/Vevo) |
 | Updatedabout 8 hours ago | 31 | aoi-ot/VibeVoice-LargeText-to-Speech | 9B | [Link](https://huggingface.co/aoi-ot/VibeVoice-Large) |
 | Updatedabout 12 hours ago | 31 | pnnbao-ump/VieNeu-TTS-1000hText-to-Speech | 0.6B | [Link](https://huggingface.co/pnnbao-ump/VieNeu-TTS-1000h) |
