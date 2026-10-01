@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-10-01
+Updated on 2026-10-02
 
 > Generated from the Hugging Face database.
 
@@ -2344,6 +2344,7 @@ Updated on 2026-10-01
 | Updatedabout 15 hours ago | 18 | Hcompany/Holotron-12BImage-Text-to-Text | 13B | [Link](https://huggingface.co/Hcompany/Holotron-12B) |
 | Updatedabout 5 hours ago | 18.5k | froggeric/Qwen3 | 27B | [Link](https://huggingface.co/froggeric/Qwen3.6-27B-MTP-GGUF) |
 | Updated3 days ago | 18.3k | bartowski/deepreinforce-ai_Ornith-1 | 35B | [Link](https://huggingface.co/bartowski/deepreinforce-ai_Ornith-1.0-35B-GGUF) |
+| Updatedabout 3 hours ago | 18 | Cloudflare/clefImage-Text-to-Text | 27B | [Link](https://huggingface.co/Cloudflare/clef) |
 | 1.49k | 17 | google/paligemma2-3b-mix-224Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-3b-mix-224) |
 | 247 | 17 | ds4sd/SmolDocling-256M-previewImage-Text-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/ds4sd/SmolDocling-256M-preview) |
 | 31 | 17 | burtenshaw/GemmaCoder3-12BImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/burtenshaw/GemmaCoder3-12B) |
@@ -2561,6 +2562,7 @@ Updated on 2026-10-01
 | Updatedabout 3 hours ago | 3 | baidu/Unlimited-OCRImage-Text-to-Text | 3B | [Link](https://huggingface.co/baidu/Unlimited-OCR) |
 | Updated3 days ago | 3.4k | sahilchachra/Unlimited-OCR-GGUFImage-Text-to-Text | 3B | [Link](https://huggingface.co/sahilchachra/Unlimited-OCR-GGUF) |
 | Updatedabout 6 hours ago | 3.25k | Blackfrost-AI/Qwen3 | 27B | [Link](https://huggingface.co/Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF) |
+| Updatedabout 15 hours ago | 3.39k | isichan-ai/Mitsuba-ComfyUI-27B-GGUFImage-Text-to-Text | 27B | [Link](https://huggingface.co/isichan-ai/Mitsuba-ComfyUI-27B-GGUF) |
 | Updatedabout 7 hours ago | 2.63k | nvidia/Eagle2 | 8B | [Link](https://huggingface.co/nvidia/Eagle2.5-8B) |
 | Updatedabout 7 hours ago | 2 | internlm/Intern-S1-FP8Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1-FP8) |
 | Updated1 day ago | 2.26k | Qwen/Qwen3-VL-235B-A22B-InstructImage-Text-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct) |
@@ -5474,6 +5476,7 @@ Updated on 2026-10-01
 | Updated2 days ago | 801 | Edge0/Edge0-8B-A1B-previewText | 8B | [Link](https://huggingface.co/Edge0/Edge0-8B-A1B-preview) |
 | Updated1 day ago | 789 | FINAL-Bench/Darwin-31B-OpusText | 33B | [Link](https://huggingface.co/FINAL-Bench/Darwin-31B-Opus) |
 | Updated3 days ago | 786 | apple/FastVLM-1 | 2B | [Link](https://huggingface.co/apple/FastVLM-1.5B) |
+| Updated4 days ago | 785 | Blackfrost-AI/CYBER-FROST-3 | 180B | [Link](https://huggingface.co/Blackfrost-AI/CYBER-FROST-3.8-BF16) |
 | Updated1 day ago | 771 | nvidia/Nemotron-Cascade-8B-ThinkingText | 8B | [Link](https://huggingface.co/nvidia/Nemotron-Cascade-8B-Thinking) |
 | Updatedabout 18 hours ago | 769 | LiquidAI/LFM2-350M-MathText | 0.4B | [Link](https://huggingface.co/LiquidAI/LFM2-350M-Math) |
 | Updatedabout 18 hours ago | 758 | tiiuae/Falcon-H1R-7BText | 8B | [Link](https://huggingface.co/tiiuae/Falcon-H1R-7B) |
@@ -6970,6 +6973,7 @@ Updated on 2026-10-01
 | Updatedabout 14 hours ago | 12 | AlperKTS/Qwen-Image-2 | 7B | [Link](https://huggingface.co/AlperKTS/Qwen-Image-2.1-GGUF) |
 | Updated14 minutes ago | 12 | realrebelai/Qwen-Image-2 | 7B | [Link](https://huggingface.co/realrebelai/Qwen-Image-2.1_GGUFs) |
 | 868 | 12 | neph1/1980s_horror_movies_minimax_h3Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/neph1/1980s_horror_movies_minimax_h3) |
+| 3.61k | 12 | chriswritescode/Turbo8-LoRA-Qwen-Image-2 | Updated5 days ago | [Link](https://huggingface.co/chriswritescode/Turbo8-LoRA-Qwen-Image-2.1) |
 | 116 | 11 | Efficient-Large-Model/SANA1 | Updatedabout 6 hours ago | [Link](https://huggingface.co/Efficient-Large-Model/SANA1.5_4.8B_1024px) |
 | 687 | 11 | azaneko/HiDream-I1-Full-nf4Text-to-Image | Updated3 days ago | [Link](https://huggingface.co/azaneko/HiDream-I1-Full-nf4) |
 | 945 | 11 | calcuis/hidream-ggufText-to-Image | Updated20 minutes ago | [Link](https://huggingface.co/calcuis/hidream-gguf) |
