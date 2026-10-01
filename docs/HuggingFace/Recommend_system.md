@@ -6403,6 +6403,7 @@ Updated on 2026-10-01
 | Updated3 days ago | 2.75k | nvidia/DeepSeek-V4-Flash-0731-NVFP4Text | 304B | [Link](https://huggingface.co/nvidia/DeepSeek-V4-Flash-0731-NVFP4) |
 | Updatedabout 21 hours ago | 2 | openbmb/MiniCPM5-2B-GGUFText | 3B | [Link](https://huggingface.co/openbmb/MiniCPM5-2B-GGUF) |
 | Updatedabout 12 hours ago | 2 | nex-agi/Nex-N2 | 35B | [Link](https://huggingface.co/nex-agi/Nex-N2.5-mini) |
+| UpdatedJul 12 | 2.81k | terrorswift/REDCELL-26B-A4B-OSINT-Cyber-APEX-GGUFText | 25B | [Link](https://huggingface.co/terrorswift/REDCELL-26B-A4B-OSINT-Cyber-APEX-GGUF) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
 | Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
@@ -8116,6 +8117,7 @@ Updated on 2026-10-01
 | 23 | 5 | robingg1/NAVAText-to-Video | Updatedabout 8 hours ago | [Link](https://huggingface.co/robingg1/NAVA) |
 | 101 | 5 | JunhaoZhuang/Self_Gradient_ForcingText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/JunhaoZhuang/Self_Gradient_Forcing) |
 | 99 | 5 | Efficient-Large-Model/SANA-Video_2 | Updatedabout 4 hours ago | [Link](https://huggingface.co/Efficient-Large-Model/SANA-Video_2.0_5B_720p) |
+|  | 5 | Iwannapose/minimax_h3_pdmd_4nfe_comfyuiText-to-Video | Updatedabout 9 hours ago | [Link](https://huggingface.co/Iwannapose/minimax_h3_pdmd_4nfe_comfyui) |
 | 56 | 4 | Skywork/SkyReels-V2-DF-14B-720PText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-DF-14B-720P) |
 | 410 | 4 | guoyww/animatediff-motion-adapter-v1-5Text-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-adapter-v1-5) |
 | 40 | 4 | QuantStack/MoviiGen1 | Updated16 minutes ago | [Link](https://huggingface.co/QuantStack/MoviiGen1.1-VACE-GGUF) |
@@ -8138,6 +8140,7 @@ Updated on 2026-10-01
 | 61 | 4 | siraxe/Venom_transformation_H3Text-to-Video | Updated7 days ago | [Link](https://huggingface.co/siraxe/Venom_transformation_H3) |
 | 565 | 4 | berryber09/10Eros-Max-h3-turbo-hybrid-beta4-w4a8Text-to-Video | Updated3 days ago | [Link](https://huggingface.co/berryber09/10Eros-Max-h3-turbo-hybrid-beta4-w4a8) |
 | 96 | 4 | JOKER141/BUNNY_H3_Conditioning_BridgeText-to-Video | Updated1 day ago | [Link](https://huggingface.co/JOKER141/BUNNY_H3_Conditioning_Bridge) |
+|  | 4 | Iwannapose/minimax_h3_pdmd_2nfe_comfyuiText-to-Video | Updatedabout 7 hours ago | [Link](https://huggingface.co/Iwannapose/minimax_h3_pdmd_2nfe_comfyui) |
 | 4.64k | 3 | guoyww/animatediff-motion-lora-pan-rightText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-pan-right) |
 | 28 | 3 | finetrainers/3dgs-v0Text-to-Video | UpdatedJan 29 | [Link](https://huggingface.co/finetrainers/3dgs-v0) |
 | 1 | 3 | longlian/text-to-video-lvd-msText-to-Video | UpdatedMay 1, 2024 | [Link](https://huggingface.co/longlian/text-to-video-lvd-ms) |
@@ -8492,6 +8495,7 @@ Updated on 2026-10-01
 | 209 |  | neph1/1950sScifiMinimaxH3Text-to-Video | Updated8 days ago | [Link](https://huggingface.co/neph1/1950sScifiMinimaxH3) |
 | 4 | Unknown | QuantFunc/Minimax-H3-Quantfunc-4bitText-to-Video | Updatedabout 13 hours ago | [Link](https://huggingface.co/QuantFunc/Minimax-H3-Quantfunc-4bit) |
 | 3.51k |  | poopooness/H3-LorasText-to-Video | Updated14 days ago | [Link](https://huggingface.co/poopooness/H3-Loras) |
+| 2 |  | pdmd2026/pdmd_4NFE_loraText-to-Video | Updatedabout 23 hours ago | [Link](https://huggingface.co/pdmd2026/pdmd_4NFE_lora) |
 
 ## Text2Text Generation
 
