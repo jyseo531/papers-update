@@ -2103,6 +2103,7 @@ Updated on 2026-10-02
 | Updated16 days ago | 200 | grimjim/gemma-3-12b-it-norm-preserved-biprojected-abliteratedImage-Text-to-Text | 12B | [Link](https://huggingface.co/grimjim/gemma-3-12b-it-norm-preserved-biprojected-abliterated) |
 | Updated1 day ago | 193 | Jiunsong/SuperQwen3 | 28B | [Link](https://huggingface.co/Jiunsong/SuperQwen3.8-27b-abliterated) |
 | Updated2 days ago | 187 | huihui-ai/Huihui-Qwen3-VL-8B-Instruct-abliteratedImage-Text-to-Text | 9B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3-VL-8B-Instruct-abliterated) |
+| Updatedabout 22 hours ago | 182 | BAAI/AREX-2Image-Text-to-Text | 27B | [Link](https://huggingface.co/BAAI/AREX-2) |
 | 7.06k | 180 | meta-llama/Llama-4-Scout-17B-16E-InstructImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct) |
 | Updated2 days ago | 180 | trillionlabs/gWorld-32BImage-Text-to-Text | 33B | [Link](https://huggingface.co/trillionlabs/gWorld-32B) |
 | Updatedabout 15 hours ago | 177 | orcarouter/Qwen3 | 28B | [Link](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8) |
@@ -2345,6 +2346,7 @@ Updated on 2026-10-02
 | Updatedabout 5 hours ago | 18.5k | froggeric/Qwen3 | 27B | [Link](https://huggingface.co/froggeric/Qwen3.6-27B-MTP-GGUF) |
 | Updated3 days ago | 18.3k | bartowski/deepreinforce-ai_Ornith-1 | 35B | [Link](https://huggingface.co/bartowski/deepreinforce-ai_Ornith-1.0-35B-GGUF) |
 | Updatedabout 3 hours ago | 18 | Cloudflare/clefImage-Text-to-Text | 27B | [Link](https://huggingface.co/Cloudflare/clef) |
+| Updatedabout 14 hours ago | 18 | Cloudflare/clef-flashImage-Text-to-Text | 9B | [Link](https://huggingface.co/Cloudflare/clef-flash) |
 | 1.49k | 17 | google/paligemma2-3b-mix-224Image-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/google/paligemma2-3b-mix-224) |
 | 247 | 17 | ds4sd/SmolDocling-256M-previewImage-Text-to-Text | Updatedabout 1 hour ago | [Link](https://huggingface.co/ds4sd/SmolDocling-256M-preview) |
 | 31 | 17 | burtenshaw/GemmaCoder3-12BImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/burtenshaw/GemmaCoder3-12B) |
@@ -4007,6 +4009,7 @@ Updated on 2026-10-02
 | 10 | Unknown | bodhan-ai/indic-ocrImage-to-Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/bodhan-ai/indic-ocr) |
 | 3 | Unknown | Intel/ocr-text-recognitionImage-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/Intel/ocr-text-recognition) |
 | 2 | Unknown | itayinbar/Mishkefet-v1Image-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/itayinbar/Mishkefet-v1) |
+| 11 | Unknown | nvidia/PixelUMMImage-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/PixelUMM) |
 
 ## Image-to-Video
 
