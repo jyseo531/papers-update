@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-10-02
+Updated on 2026-10-03
 
 > Generated from the Hugging Face database.
 
@@ -281,6 +281,7 @@ Updated on 2026-10-02
 | Updated10 days ago | 4.6k | zecanard/gemma-4-E4B-it-ultra-uncensored-heretic-MLX-4bit-mixed_4_6Any-to-Any | 2B | [Link](https://huggingface.co/zecanard/gemma-4-E4B-it-ultra-uncensored-heretic-MLX-4bit-mixed_4_6) |
 | Updatedabout 9 hours ago | 4 | mlx-community/gemma-4-12B-bf16Any-to-Any | 12B | [Link](https://huggingface.co/mlx-community/gemma-4-12B-bf16) |
 | Updatedabout 13 hours ago | 4 | sensenova/SenseNova-U1-8B-MoT-Infographic-V2Any-to-Any | 18B | [Link](https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-Infographic-V2) |
+| 89 | 4 | Denali-AI/Rainier-VL-2B-MTPAny-to-Any | Updatedabout 23 hours ago | [Link](https://huggingface.co/Denali-AI/Rainier-VL-2B-MTP) |
 | 481k | 3.11k | deepseek-ai/Janus-Pro-7BAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-7B) |
 | 78 | 3 | VARGPT-family/VARGPT_LLaVA-v1Any-to-Any | UpdatedJan 23 | [Link](https://huggingface.co/VARGPT-family/VARGPT_LLaVA-v1) |
 | 2 | 3 | impactframes/Janus-1 | UpdatedOct 19, 2024 | [Link](https://huggingface.co/impactframes/Janus-1.3B) |
@@ -2106,6 +2107,7 @@ Updated on 2026-10-02
 | Updatedabout 22 hours ago | 182 | BAAI/AREX-2Image-Text-to-Text | 27B | [Link](https://huggingface.co/BAAI/AREX-2) |
 | 7.06k | 180 | meta-llama/Llama-4-Scout-17B-16E-InstructImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E-Instruct) |
 | Updated2 days ago | 180 | trillionlabs/gWorld-32BImage-Text-to-Text | 33B | [Link](https://huggingface.co/trillionlabs/gWorld-32B) |
+| Updatedabout 6 hours ago | 179k | autotrust/JEV-27B-VLImage-Text-to-Text | 28B | [Link](https://huggingface.co/autotrust/JEV-27B-VL) |
 | Updatedabout 15 hours ago | 177 | orcarouter/Qwen3 | 28B | [Link](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8) |
 | Updatedabout 12 hours ago | 176 | huihui-ai/Huihui-Step3-VL-10B-abliteratedImage-Text-to-Text | 10B | [Link](https://huggingface.co/huihui-ai/Huihui-Step3-VL-10B-abliterated) |
 | Updated3 days ago | 176 | z-lab/Qwen3 | 3B | [Link](https://huggingface.co/z-lab/Qwen3.5-9B-PARO) |
@@ -3389,6 +3391,7 @@ Updated on 2026-10-02
 | UpdatedAug 14, 2025 | 129 | WafaaFraih/blip-roco-radiology-captioningImage-to-Text | 0.2B | [Link](https://huggingface.co/WafaaFraih/blip-roco-radiology-captioning) |
 | Updatedabout 13 hours ago | 124 | ADSKAILab/Zero-To-CAD-Qwen3-VL-2BImage-to-Text | 2B | [Link](https://huggingface.co/ADSKAILab/Zero-To-CAD-Qwen3-VL-2B) |
 | Updated32 minutes ago | 119 | stepfun-ai/GELab-Zero-4B-previewImage-to-Text | 4B | [Link](https://huggingface.co/stepfun-ai/GELab-Zero-4B-preview) |
+| Updated5 days ago | 118 | adidsh/indic-ocr-int8-onnxImage-to-Text | 33.3M | [Link](https://huggingface.co/adidsh/indic-ocr-int8-onnx) |
 | UpdatedFeb 25 | 117k | allenai/olmOCR-7B-0225-previewImage-to-Text | 8B | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview) |
 | UpdatedApr 2 | 116k | reducto/RolmOCRImage-to-Text | 8B | [Link](https://huggingface.co/reducto/RolmOCR) |
 | Updated6 days ago | 114 | Felldude/Ministral-3-3B-Uncensored-FP8Image-to-Text | 4B | [Link](https://huggingface.co/Felldude/Ministral-3-3B-Uncensored-FP8) |
@@ -5688,6 +5691,7 @@ Updated on 2026-10-02
 | Updated1 day ago | 129 | allenai/Bolmo-1BText | 1B | [Link](https://huggingface.co/allenai/Bolmo-1B) |
 | Updated6 days ago | 128 | arcee-ai/Trinity-Mini-BaseText | 26B | [Link](https://huggingface.co/arcee-ai/Trinity-Mini-Base) |
 | Updatedabout 13 hours ago | 127 | Altworld/Hemmingway-1Text | 27B | [Link](https://huggingface.co/Altworld/Hemmingway-1) |
+| Updated1 day ago | 127 | Infatoshi/GLM-5 | 146B | [Link](https://huggingface.co/Infatoshi/GLM-5.3-UNCENSORED-EXL3-3.0bpw) |
 | Updated2 days ago | 126 | Gryphe/Pantheon-Reasoning-27BText | 28B | [Link](https://huggingface.co/Gryphe/Pantheon-Reasoning-27B) |
 | Updatedabout 18 hours ago | 125 | NousResearch/Hermes-4-405BText | 406B | [Link](https://huggingface.co/NousResearch/Hermes-4-405B) |
 | Updated3 days ago | 125 | janhq/Jan-v1-edgeText | 2B | [Link](https://huggingface.co/janhq/Jan-v1-edge) |
