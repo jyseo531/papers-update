@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-10-03
+Updated on 2026-10-04
 
 > Generated from the Hugging Face database.
 
@@ -303,6 +303,7 @@ Updated on 2026-10-03
 | Updated1 day ago | 3 | bartowski/TheDrummer_Artemis-31B-v1 | 31B | [Link](https://huggingface.co/bartowski/TheDrummer_Artemis-31B-v1.1-GGUF) |
 | Updatedabout 10 hours ago | 3 | bartowski/ReadyArt_gemma-4-31B-it-scotoma-2-GGUFAny-to-Any | 31B | [Link](https://huggingface.co/bartowski/ReadyArt_gemma-4-31B-it-scotoma-2-GGUF) |
 | 26 | 3 | furkanbekmezci/TR-Omni-E4B-Turkish-Native-Speech-to-Speech-ModelAny-to-Any | Updated3 days ago | [Link](https://huggingface.co/furkanbekmezci/TR-Omni-E4B-Turkish-Native-Speech-to-Speech-Model) |
+| 132 | 3 | YijiaFan/UMM-Reflection-BAGEL-RLAny-to-Any | Updated5 days ago | [Link](https://huggingface.co/YijiaFan/UMM-Reflection-BAGEL-RL) |
 | 47 | 2 | PKU-Alignment/AnyRewardModelAny-to-Any | UpdatedDec 28, 2024 | [Link](https://huggingface.co/PKU-Alignment/AnyRewardModel) |
 | 585 | 2 | wnma3mz/Janus-Pro-1B-4bitAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/wnma3mz/Janus-Pro-1B-4bit) |
 | 3 | 2 | lintw/HealthGPT-XL32Any-to-Any | Updatedabout 18 hours ago | [Link](https://huggingface.co/lintw/HealthGPT-XL32) |
@@ -462,6 +463,7 @@ Updated on 2026-10-03
 | 3 | Unknown | Milor123/ComfyUI-ConvRot-SenseNova-U1 | Updatedabout 14 hours ago | [Link](https://huggingface.co/Milor123/ComfyUI-ConvRot-SenseNova-U1.5-8B-MoT-T8) |
 | 20 | Unknown | inclusionAI/Realtime-VenusAny-to-Any | Updated34 minutes ago | [Link](https://huggingface.co/inclusionAI/Realtime-Venus) |
 | 4 | Unknown | diffbot/MiMo-V2 | Updatedabout 21 hours ago | [Link](https://huggingface.co/diffbot/MiMo-V2.6-Flash-RL-FP8KV-W4A8-2x-RTX-PRO-6000) |
+| 3 | Unknown | hustvl/Multimodal-FlowAny-to-Any | Updated3 days ago | [Link](https://huggingface.co/hustvl/Multimodal-Flow) |
 
 ## Audio Classification
 
@@ -2196,6 +2198,7 @@ Updated on 2026-10-03
 | 69 | 61 | google/gemma-3-12b-itImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-12b-it) |
 | 3.25k | 61 | meta-llama/Llama-4-Scout-17B-16EImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Scout-17B-16E) |
 | Updatedabout 1 hour ago | 61.9k | Sehyo/Qwen3 | 71B | [Link](https://huggingface.co/Sehyo/Qwen3.5-122B-A10B-NVFP4) |
+| 1.4k | 60 | mohit67890/imajev-4bImage-Text-to-Text | Updated4 days ago | [Link](https://huggingface.co/mohit67890/imajev-4b) |
 | Updated3 minutes ago | 59.9k | dealignai/Gemma-4-31B-JANG_4M-CRACKImage-Text-to-Text | 6B | [Link](https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK) |
 | 18.5k | 57 | prithivMLmods/Qwen2-VL-OCR-2B-InstructImage-Text-to-Text | UpdatedJan 11 | [Link](https://huggingface.co/prithivMLmods/Qwen2-VL-OCR-2B-Instruct) |
 | 944 | 56 | nvidia/Eagle2-9BImage-Text-to-Text | UpdatedJan 28 | [Link](https://huggingface.co/nvidia/Eagle2-9B) |
@@ -5669,6 +5672,7 @@ Updated on 2026-10-03
 | 2.25k | 153 | open-thoughts/OpenThinker-32BText | Updated11 days ago | [Link](https://huggingface.co/open-thoughts/OpenThinker-32B) |
 | Updatedabout 4 hours ago | 153 | Qwen/Qwen3Guard-Gen-8BText | 8B | [Link](https://huggingface.co/Qwen/Qwen3Guard-Gen-8B) |
 | Updatedabout 4 hours ago | 151 | moondream/moondream3-previewText | 9B | [Link](https://huggingface.co/moondream/moondream3-preview) |
+| Updatedabout 7 hours ago | 151 | Aleph-Alpha/Kolibri-1Text | 78B | [Link](https://huggingface.co/Aleph-Alpha/Kolibri-1) |
 | Updated1 day ago | 150 | lm-provers/QED-NanoText | 4B | [Link](https://huggingface.co/lm-provers/QED-Nano) |
 | Updatedabout 15 hours ago | 149 | openai/gpt-oss-safeguard-120bText | 120B | [Link](https://huggingface.co/openai/gpt-oss-safeguard-120b) |
 | Updatedabout 3 hours ago | 149 | Blackfrost-Research/GLM-5 | 753B | [Link](https://huggingface.co/Blackfrost-Research/GLM-5.3-F.U-AnthraClaud-Edition-BF16) |
@@ -5940,6 +5944,7 @@ Updated on 2026-10-03
 | Updatedabout 20 hours ago | 38 | prism-ml/Bonsai-8B-mlx-1bitText | 0.4B | [Link](https://huggingface.co/prism-ml/Bonsai-8B-mlx-1bit) |
 | Updatedabout 9 hours ago | 38 | 0xSero/gemma-4-21b-a4b-it-REAPText | 21B | [Link](https://huggingface.co/0xSero/gemma-4-21b-a4b-it-REAP) |
 | Updated1 day ago | 38.5k | RadixArk/Qwen3 | 1B | [Link](https://huggingface.co/RadixArk/Qwen3.8-27B-DSpark) |
+| 880 | 38 | allenai/AstaBrief_8BText | Updatedabout 17 hours ago | [Link](https://huggingface.co/allenai/AstaBrief_8B) |
 | 125 | 37 | microsoft/Phi-4-mini-instructText | Updatedabout 2 hours ago | [Link](https://huggingface.co/microsoft/Phi-4-mini-instruct) |
 | Updatedabout 13 hours ago | 37 | Tesslate/UIGEN-X-32B-0727Text | 0.0B | [Link](https://huggingface.co/Tesslate/UIGEN-X-32B-0727) |
 | Updated1 day ago | 37 | Shekswess/trlm-135mText | 0.1B | [Link](https://huggingface.co/Shekswess/trlm-135m) |
@@ -7557,6 +7562,7 @@ Updated on 2026-10-03
 | 18.2k | 136 | parler-tts/parler-tts-mini-v1Text-to-Speech | UpdatedNov 25, 2024 | [Link](https://huggingface.co/parler-tts/parler-tts-mini-v1) |
 | Updated11 days ago | 132k | bosonai/higgs-tts-2-3b-baseText-to-Speech | 6B | [Link](https://huggingface.co/bosonai/higgs-tts-2-3b-base) |
 | Updatedabout 14 hours ago | 131 | nineninesix/kani-tts-400m-enText-to-Speech | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-400m-en) |
+| Updatedabout 18 hours ago | 130 | KittenML/kitten-tts-2Text-to-Speech | 2B | [Link](https://huggingface.co/KittenML/kitten-tts-2) |
 | 19.6k | 127 | onnx-community/Kokoro-82M-ONNXText-to-Speech | Updated17 days ago | [Link](https://huggingface.co/onnx-community/Kokoro-82M-ONNX) |
 | UpdatedJun 1 | 123 | keanteng/sesame-csm-eliseText-to-Speech | 2B | [Link](https://huggingface.co/keanteng/sesame-csm-elise) |
 | Updated4 days ago | 120 | mlx-community/fish-audio-s2-pro-8bitText-to-Speech | 1B | [Link](https://huggingface.co/mlx-community/fish-audio-s2-pro-8bit) |
@@ -8511,6 +8517,7 @@ Updated on 2026-10-03
 | 4 | Unknown | QuantFunc/Minimax-H3-Quantfunc-4bitText-to-Video | Updatedabout 13 hours ago | [Link](https://huggingface.co/QuantFunc/Minimax-H3-Quantfunc-4bit) |
 | 3.51k |  | poopooness/H3-LorasText-to-Video | Updated14 days ago | [Link](https://huggingface.co/poopooness/H3-Loras) |
 | 2 |  | pdmd2026/pdmd_4NFE_loraText-to-Video | Updatedabout 23 hours ago | [Link](https://huggingface.co/pdmd2026/pdmd_4NFE_lora) |
+| 351 |  | pdmd2026/pdmd_2NFE_loraText-to-Video | Updated3 days ago | [Link](https://huggingface.co/pdmd2026/pdmd_2NFE_lora) |
 
 ## Text2Text Generation
 
