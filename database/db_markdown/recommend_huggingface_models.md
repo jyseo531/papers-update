@@ -4013,6 +4013,7 @@ Updated on 2026-10-03
 | 3 | Unknown | Intel/ocr-text-recognitionImage-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/Intel/ocr-text-recognition) |
 | 2 | Unknown | itayinbar/Mishkefet-v1Image-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/itayinbar/Mishkefet-v1) |
 | 11 | Unknown | nvidia/PixelUMMImage-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/PixelUMM) |
+| 1 | Unknown | kotmayyaka/hwr_text_ocr_rusImage-to-Text | UpdatedDec 18, 2025 | [Link](https://huggingface.co/kotmayyaka/hwr_text_ocr_rus) |
 
 ## Image-to-Video
 
@@ -6295,6 +6296,7 @@ Updated on 2026-10-03
 | Updatedabout 16 hours ago | 8.04k | AtomicChat/Qwen3 | 27B | [Link](https://huggingface.co/AtomicChat/Qwen3.8-27B-GGUF) |
 | Updatedabout 14 hours ago | 8.47k | outsourc-e/Qwen3 | 27B | [Link](https://huggingface.co/outsourc-e/Qwen3.8-27B-Unleashed-GGUF) |
 | Updated1 day ago | 8.11k | agentionai/Qwen3 | 177B | [Link](https://huggingface.co/agentionai/Qwen3.8-Flash-Next-ROCmFP4-FAST-imatrix-GGUF) |
+| Updated4 days ago | 8.85k | Venastine-Research/Xing4 | 31B | [Link](https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF) |
 | Updated2 days ago | 7.65k | Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8) |
 | Updatedabout 4 hours ago | 7 | tencent/Hunyuan-7B-InstructText | 8B | [Link](https://huggingface.co/tencent/Hunyuan-7B-Instruct) |
 | Updated4 days ago | 7k | bartowski/cerebras_GLM-4 | 85B | [Link](https://huggingface.co/bartowski/cerebras_GLM-4.5-Air-REAP-82B-A12B-GGUF) |
@@ -6859,6 +6861,7 @@ Updated on 2026-10-03
 | Updatedabout 6 hours ago | 183 | Qwen/Qwen-Image-2 | 7B | [Link](https://huggingface.co/Qwen/Qwen-Image-2.1) |
 | Updated4 days ago | 174 | transformerlab/ideogram-4-gguf-q4_kText-to-Image | 19B | [Link](https://huggingface.co/transformerlab/ideogram-4-gguf-q4_k) |
 | 37.6k | 156 | tianweiy/DMD2Text-to-Image | UpdatedJun 11, 2024 | [Link](https://huggingface.co/tianweiy/DMD2) |
+| 12.9k | 156 | Noctaluna/Noct-Q-Uncensored-Qwen-Image-2 | Updated3 days ago | [Link](https://huggingface.co/Noctaluna/Noct-Q-Uncensored-Qwen-Image-2.1) |
 | 35.7k | 147 | nunchaku-ai/nunchaku-z-image-turboText-to-Image | Updated15 days ago | [Link](https://huggingface.co/nunchaku-ai/nunchaku-z-image-turbo) |
 | 168k | 140 | SG161222/RealVisXL_V5 | UpdatedOct 8, 2024 | [Link](https://huggingface.co/SG161222/RealVisXL_V5.0) |
 | Updatedabout 13 hours ago | 139 | nvidia/Cosmos3-Super-Text2ImageText-to-Image | 65B | [Link](https://huggingface.co/nvidia/Cosmos3-Super-Text2Image) |
@@ -8073,6 +8076,7 @@ Updated on 2026-10-03
 | 847 | 35 | benjamin-paine/steamboat-willie-14bText-to-Video | Updatedabout 12 hours ago | [Link](https://huggingface.co/benjamin-paine/steamboat-willie-14b) |
 | Updatedabout 3 hours ago | 31 | FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFreeText-to-Video | 35B | [Link](https://huggingface.co/FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree) |
 | 48 | 30 | PAIR/text2video-zero-controlnet-canny-arcaneText-to-Video | UpdatedApr 6, 2023 | [Link](https://huggingface.co/PAIR/text2video-zero-controlnet-canny-arcane) |
+|  | 27 | ZhengmingYu/DMADText-to-Video | Updatedabout 8 hours ago | [Link](https://huggingface.co/ZhengmingYu/DMAD) |
 | 8.22k | 26 | Searchium-ai/clip4clip-webvid150kText-to-Video | UpdatedOct 27, 2024 | [Link](https://huggingface.co/Searchium-ai/clip4clip-webvid150k) |
 | 1.96k | 26 | guoyww/animatediff-motion-adapter-v1-5-2Text-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-adapter-v1-5-2) |
 | 417 | 25 | ByteDance/ContentV-8BText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/ByteDance/ContentV-8B) |
