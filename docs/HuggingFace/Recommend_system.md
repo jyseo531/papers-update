@@ -6313,6 +6313,7 @@ Updated on 2026-10-04
 | Updated1 day ago | 7.46k | nvidia/GLM-5 | 382B | [Link](https://huggingface.co/nvidia/GLM-5.1-NVFP4) |
 | Updatedabout 4 hours ago | 7.63k | nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16Text | 63B | [Link](https://huggingface.co/nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16) |
 | Updated2 days ago | 7.23k | quimmedes/Deepwen-3 | 35B | [Link](https://huggingface.co/quimmedes/Deepwen-3.6) |
+| Updated1 day ago | 7.04k | jialinyyzz/humanizerText | 12B | [Link](https://huggingface.co/jialinyyzz/humanizer) |
 | 578k | 6.11k | meta-llama/Meta-Llama-3-8BText | UpdatedSep 27, 2024 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) |
 | Updatedabout 18 hours ago | 6 | apple/sage-ft-mixtral-8x7bText | 47B | [Link](https://huggingface.co/apple/sage-ft-mixtral-8x7b) |
 | Updated5 days ago | 6.94k | mistralai/Devstral-Small-2507_ggufText | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2507_gguf) |
