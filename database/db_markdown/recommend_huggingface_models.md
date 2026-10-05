@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-10-04
+Updated on 2026-10-05
 
 > Generated from the Hugging Face database.
 
@@ -2508,6 +2508,7 @@ Updated on 2026-10-04
 | 833 | 8 | mistralai/Ministral-3-3B-Instruct-2512-ONNXImage-Text-to-Text | Updatedabout 22 hours ago | [Link](https://huggingface.co/mistralai/Ministral-3-3B-Instruct-2512-ONNX) |
 | 2.38k | 8 | vincentzed-hf/Qwen3 | Updatedabout 22 hours ago | [Link](https://huggingface.co/vincentzed-hf/Qwen3.5-397B-A17B-NVFP4) |
 | Updated5 days ago | 8.28k | unsloth/gemma-4-31B-it-NVFP4Image-Text-to-Text | 23B | [Link](https://huggingface.co/unsloth/gemma-4-31B-it-NVFP4) |
+| Updated9 minutes ago | 8.42k | isichan-ai/Mitsuba_and_HiMitsuba-27B-GGUFImage-Text-to-Text | 17.3M | [Link](https://huggingface.co/isichan-ai/Mitsuba_and_HiMitsuba-27B-GGUF) |
 | 27 | 7 | ByteDance-Seed/SAIL-7BImage-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/ByteDance-Seed/SAIL-7B) |
 | 677 | 7 | turing-motors/Heron-NVILA-Lite-15BImage-Text-to-Text | Updated14 days ago | [Link](https://huggingface.co/turing-motors/Heron-NVILA-Lite-15B) |
 | 25 | 7 | mlabonne/gemma-3-27b-it-qat-abliteratedImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-qat-abliterated) |
@@ -6483,6 +6484,7 @@ Updated on 2026-10-04
 | Updated2 days ago | 1.25k | peculiar-ragdoll/Sharp-Spark-X2 | 4B | [Link](https://huggingface.co/peculiar-ragdoll/Sharp-Spark-X2.5-4B-GGUF) |
 | Updated2 days ago | 1.31k | juspay/xorText | 35B | [Link](https://huggingface.co/juspay/xor) |
 | Updated1 day ago | 1.12k | ukisai/Swift-1 | 27B | [Link](https://huggingface.co/ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF) |
+| Updated4 days ago | 1.77k | webAI-Official/TwIL-LM3-ProText | 4B | [Link](https://huggingface.co/webAI-Official/TwIL-LM3-Pro) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -6990,6 +6992,7 @@ Updated on 2026-10-04
 | Updated14 minutes ago | 12 | realrebelai/Qwen-Image-2 | 7B | [Link](https://huggingface.co/realrebelai/Qwen-Image-2.1_GGUFs) |
 | 868 | 12 | neph1/1980s_horror_movies_minimax_h3Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/neph1/1980s_horror_movies_minimax_h3) |
 | 3.61k | 12 | chriswritescode/Turbo8-LoRA-Qwen-Image-2 | Updated5 days ago | [Link](https://huggingface.co/chriswritescode/Turbo8-LoRA-Qwen-Image-2.1) |
+| 142 | 12 | Muapi/jav-company-uncensored-redcraft-wan2 | UpdatedJun 10 | [Link](https://huggingface.co/Muapi/jav-company-uncensored-redcraft-wan2.1-il-pony-flux.1-lora) |
 | 116 | 11 | Efficient-Large-Model/SANA1 | Updatedabout 6 hours ago | [Link](https://huggingface.co/Efficient-Large-Model/SANA1.5_4.8B_1024px) |
 | 687 | 11 | azaneko/HiDream-I1-Full-nf4Text-to-Image | Updated3 days ago | [Link](https://huggingface.co/azaneko/HiDream-I1-Full-nf4) |
 | 945 | 11 | calcuis/hidream-ggufText-to-Image | Updated20 minutes ago | [Link](https://huggingface.co/calcuis/hidream-gguf) |
@@ -7488,6 +7491,7 @@ Updated on 2026-10-04
 | 23 | Unknown | alibaba-pai/Qwen-Image-2 | Updatedabout 11 hours ago | [Link](https://huggingface.co/alibaba-pai/Qwen-Image-2.1-Fun-Controlnet-Union) |
 | 15 | Unknown | NidAll/pruna-image-2 | Updated4 days ago | [Link](https://huggingface.co/NidAll/pruna-image-2.1-comfyui-loras) |
 | 12 | Unknown | AcademiaSD/TAE-Qwen-Image-2 | Updated1 day ago | [Link](https://huggingface.co/AcademiaSD/TAE-Qwen-Image-2.1) |
+| 33 | Unknown | RunningHubAI/rh-qwen-image-2 | Updated5 days ago | [Link](https://huggingface.co/RunningHubAI/rh-qwen-image-2.1-lora-2104918997757157378) |
 
 ## Text-to-Speech
 
@@ -7783,6 +7787,7 @@ Updated on 2026-10-04
 | 287 | 5 | drbaph/Breeze-TTS-2-comfyuiText-to-Speech | Updated5 days ago | [Link](https://huggingface.co/drbaph/Breeze-TTS-2-comfyui) |
 | 20 | 5 | canberkkkkkk/ema-ttsText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/canberkkkkkk/ema-tts) |
 | Updatedabout 7 hours ago | 5 | AlicanKiraz0/Kahya-TTS-v1 | 2B | [Link](https://huggingface.co/AlicanKiraz0/Kahya-TTS-v1.0) |
+| 17 | 5 | polyskill/LGTMText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/polyskill/LGTM) |
 | 5 | 4 | lunahr/csm-1b-safetensors-fp16Text-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-fp16) |
 | 2 | 4 | VAGOsolutions/SauerkrautTTS-Preview-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/VAGOsolutions/SauerkrautTTS-Preview-0.1) |
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
