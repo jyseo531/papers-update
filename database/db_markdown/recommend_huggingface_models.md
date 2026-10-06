@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-10-05
+Updated on 2026-10-06
 
 > Generated from the Hugging Face database.
 
@@ -2571,6 +2571,7 @@ Updated on 2026-10-05
 | Updated3 days ago | 3.4k | sahilchachra/Unlimited-OCR-GGUFImage-Text-to-Text | 3B | [Link](https://huggingface.co/sahilchachra/Unlimited-OCR-GGUF) |
 | Updatedabout 6 hours ago | 3.25k | Blackfrost-AI/Qwen3 | 27B | [Link](https://huggingface.co/Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF) |
 | Updatedabout 15 hours ago | 3.39k | isichan-ai/Mitsuba-ComfyUI-27B-GGUFImage-Text-to-Text | 27B | [Link](https://huggingface.co/isichan-ai/Mitsuba-ComfyUI-27B-GGUF) |
+| Updated1 day ago | 3.72k | alesha-pro/Qwen3 | 120k | [Link](https://huggingface.co/alesha-pro/Qwen3.8-Flash-Next-abliterated-GSQ-RCO-Strata-GGUF) |
 | Updatedabout 7 hours ago | 2.63k | nvidia/Eagle2 | 8B | [Link](https://huggingface.co/nvidia/Eagle2.5-8B) |
 | Updatedabout 7 hours ago | 2 | internlm/Intern-S1-FP8Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1-FP8) |
 | Updated1 day ago | 2.26k | Qwen/Qwen3-VL-235B-A22B-InstructImage-Text-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct) |
@@ -3791,6 +3792,7 @@ Updated on 2026-10-05
 | 13 | 2 | dh-unibe/qwen3vl-german-xix-v2Image-to-Text | Updated1 day ago | [Link](https://huggingface.co/dh-unibe/qwen3vl-german-xix-v2) |
 | 3.44k | 2 | breezedeus/pix2text-mfr-1 | UpdatedJul 25, 2025 | [Link](https://huggingface.co/breezedeus/pix2text-mfr-1.5) |
 | Updatedabout 12 hours ago | 2 | atonlee/Qota-OCRImage-to-Text | 6.69M | [Link](https://huggingface.co/atonlee/Qota-OCR) |
+| 26 | 2 | ningpp/GLM-OCR-ONNXImage-to-Text | UpdatedMar 6 | [Link](https://huggingface.co/ningpp/GLM-OCR-ONNX) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -4018,6 +4020,7 @@ Updated on 2026-10-05
 | 2 | Unknown | itayinbar/Mishkefet-v1Image-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/itayinbar/Mishkefet-v1) |
 | 11 | Unknown | nvidia/PixelUMMImage-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/PixelUMM) |
 | 1 | Unknown | kotmayyaka/hwr_text_ocr_rusImage-to-Text | UpdatedDec 18, 2025 | [Link](https://huggingface.co/kotmayyaka/hwr_text_ocr_rus) |
+| 3 | Unknown | Kellenok/PP-OCRv6_mangaImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/Kellenok/PP-OCRv6_manga) |
 
 ## Image-to-Video
 
@@ -5512,6 +5515,7 @@ Updated on 2026-10-05
 | Updated3 days ago | 625 | SupraLabs/SupraElegans-500kText | 612k | [Link](https://huggingface.co/SupraLabs/SupraElegans-500k) |
 | Updatedabout 5 hours ago | 623 | NousResearch/nomos-1Text | 31B | [Link](https://huggingface.co/NousResearch/nomos-1) |
 | Updated3 days ago | 622 | Jiunsong/SuperDeepseek-V4-Flash-abliterated-MQ-2xDGXText | 306B | [Link](https://huggingface.co/Jiunsong/SuperDeepseek-V4-Flash-abliterated-MQ-2xDGX) |
+| Updated3 days ago | 617 | Aleph-Alpha/Kolibri-1-BF16Text | 78B | [Link](https://huggingface.co/Aleph-Alpha/Kolibri-1-BF16) |
 | Updatedabout 4 hours ago | 614 | prism-ml/Ternary-Bonsai-8B-mlx-2bitText | 0.6B | [Link](https://huggingface.co/prism-ml/Ternary-Bonsai-8B-mlx-2bit) |
 | UpdatedJun 4, 2025 | 613 | AlicanKiraz0/Cybersecurity-BaronLLM_Offensive_Security_LLM_Q6_K_GGUFText | 8B | [Link](https://huggingface.co/AlicanKiraz0/Cybersecurity-BaronLLM_Offensive_Security_LLM_Q6_K_GGUF) |
 | Updated1 day ago | 608 | ArliAI/GLM-4 | 110B | [Link](https://huggingface.co/ArliAI/GLM-4.5-Air-Derestricted) |
@@ -6017,6 +6021,7 @@ Updated on 2026-10-05
 | Updatedabout 2 hours ago | 31 | Motif-Technologies/Motif-3-BetaText | 315B | [Link](https://huggingface.co/Motif-Technologies/Motif-3-Beta) |
 | Updatedabout 7 hours ago | 31 | JonathanColetti/Qwen3 | 27B | [Link](https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF) |
 | Updated6 days ago | 31.1k | bartowski/Altworld_Hemmingway-1-GGUFText | 27B | [Link](https://huggingface.co/bartowski/Altworld_Hemmingway-1-GGUF) |
+| Updated14 days ago | 31.5k | autotrust/GLM-5 | 279B | [Link](https://huggingface.co/autotrust/GLM-5.3-Flash-GGUF-DGX-Spark) |
 | 277 | 30 | kakaocorp/kanana-nano-2 | Updatedabout 22 hours ago | [Link](https://huggingface.co/kakaocorp/kanana-nano-2.1b-instruct) |
 | 2.75k | 30 | allenai/OLMo-2-0425-1BText | Updated6 days ago | [Link](https://huggingface.co/allenai/OLMo-2-0425-1B) |
 | 509 | 30 | SWE-bench/SWE-agent-LM-32BText | Updatedabout 10 hours ago | [Link](https://huggingface.co/SWE-bench/SWE-agent-LM-32B) |
@@ -7492,6 +7497,7 @@ Updated on 2026-10-05
 | 15 | Unknown | NidAll/pruna-image-2 | Updated4 days ago | [Link](https://huggingface.co/NidAll/pruna-image-2.1-comfyui-loras) |
 | 12 | Unknown | AcademiaSD/TAE-Qwen-Image-2 | Updated1 day ago | [Link](https://huggingface.co/AcademiaSD/TAE-Qwen-Image-2.1) |
 | 33 | Unknown | RunningHubAI/rh-qwen-image-2 | Updated5 days ago | [Link](https://huggingface.co/RunningHubAI/rh-qwen-image-2.1-lora-2104918997757157378) |
+| 11 | Unknown | sensenova/Looped-DiT-B16Text-to-Image | Updated7 days ago | [Link](https://huggingface.co/sensenova/Looped-DiT-B16) |
 
 ## Text-to-Speech
 
