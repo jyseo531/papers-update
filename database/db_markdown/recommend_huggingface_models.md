@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-10-06
+Updated on 2026-10-07
 
 > Generated from the Hugging Face database.
 
@@ -2033,6 +2033,7 @@ Updated on 2026-10-06
 | Updated2 days ago | 764 | unsloth/LFM2 | 1B | [Link](https://huggingface.co/unsloth/LFM2.5-VL-1.6B-GGUF) |
 | Updated3 days ago | 759 | Qwen/Qwen3-VL-2B-Instruct-FP8Image-Text-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct-FP8) |
 | Updatedabout 7 hours ago | 757 | jinaai/jina-vlmImage-Text-to-Text | 2B | [Link](https://huggingface.co/jinaai/jina-vlm) |
+| Updated4 days ago | 731 | cantina-security/apex-flash-1Image-Text-to-Text | 321B | [Link](https://huggingface.co/cantina-security/apex-flash-1) |
 | Updatedabout 5 hours ago | 713k | empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUFImage-Text-to-Text | 9B | [Link](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) |
 | Updated14 days ago | 681 | ByteDance/Dolphin-1 | 0.4B | [Link](https://huggingface.co/ByteDance/Dolphin-1.5) |
 | Updated4 days ago | 654 | badtheorylabs/Tinfield-1Image-Text-to-Text | 180B | [Link](https://huggingface.co/badtheorylabs/Tinfield-1) |
@@ -6918,6 +6919,7 @@ Updated on 2026-10-06
 | Updatedabout 9 hours ago | 51 | tencent/HunyuanImage-3 | 83B | [Link](https://huggingface.co/tencent/HunyuanImage-3.0) |
 |  | 50 | zai-org/GLM-ImageText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/zai-org/GLM-Image) |
 | 2 | 48 | PrunaAI/Pruna-Qwen-Image-2 | Updatedabout 12 hours ago | [Link](https://huggingface.co/PrunaAI/Pruna-Qwen-Image-2.1) |
+| Updatedabout 7 hours ago | 48 | aina-tech/Anima-LightningText-to-Image | 2B | [Link](https://huggingface.co/aina-tech/Anima-Lightning) |
 |  | 46 | fal/FLUX | Updatedabout 5 hours ago | [Link](https://huggingface.co/fal/FLUX.2-dev-Turbo) |
 | 87 | 44 | Freepik/F-LiteText-to-Image | Updatedabout 15 hours ago | [Link](https://huggingface.co/Freepik/F-Lite) |
 | 17.9k | 43 | Disty0/Z-Image-Turbo-SDNQ-uint4-svd-r32Text-to-Image | Updated5 days ago | [Link](https://huggingface.co/Disty0/Z-Image-Turbo-SDNQ-uint4-svd-r32) |
@@ -7689,6 +7691,7 @@ Updated on 2026-10-06
 | Updated8 days ago | 14 | niobures/OuteTTSText-to-Speech | 1B | [Link](https://huggingface.co/niobures/OuteTTS) |
 | 30 | 14 | tencent/AuKText-to-Speech | Updatedabout 11 hours ago | [Link](https://huggingface.co/tencent/AuK) |
 | 947 | 14 | zeroweight-ai/ZeroTTSText-to-Speech | Updated7 days ago | [Link](https://huggingface.co/zeroweight-ai/ZeroTTS) |
+| 10 | 14 | canberkkkkkk/ema-lightningText-to-Speech | Updatedabout 9 hours ago | [Link](https://huggingface.co/canberkkkkkk/ema-lightning) |
 | 6 | 13 | OuteAI/Llama-OuteTTS-1 | Updatedabout 2 hours ago | [Link](https://huggingface.co/OuteAI/Llama-OuteTTS-1.0-1B) |
 | Updated5 days ago | 13 | OmniAICreator/Galgame-Llasa-3BText-to-Speech | 4B | [Link](https://huggingface.co/OmniAICreator/Galgame-Llasa-3B) |
 | 9 | 13 | hi-paris/ssml-breaks2ssml-fr-loraText-to-Speech | Updatedabout 3 hours ago | [Link](https://huggingface.co/hi-paris/ssml-breaks2ssml-fr-lora) |
@@ -8038,6 +8041,7 @@ Updated on 2026-10-06
 | 7 | Unknown | Nimaone/pocket-tts-farsi-v2-onnxText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/Nimaone/pocket-tts-farsi-v2-onnx) |
 | 6 | Unknown | SupraLabs/SupraTTS-0 | Updatedabout 6 hours ago | [Link](https://huggingface.co/SupraLabs/SupraTTS-0.1-Beta) |
 | 6 | Unknown | Aratako/Irodori-TTS-v4-Large-QuantizedText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/Aratako/Irodori-TTS-v4-Large-Quantized) |
+| 7 | Unknown | ArtShtorm/Shtorm-PocketTTS-RUText-to-Speech | Updatedabout 6 hours ago | [Link](https://huggingface.co/ArtShtorm/Shtorm-PocketTTS-RU) |
 
 ## Text-to-Video
 
@@ -8145,6 +8149,7 @@ Updated on 2026-10-06
 | 79 | 6 | Raretutor/vdn-minimax-h3-comfyui-int8-convrotText-to-Video | Updatedabout 18 hours ago | [Link](https://huggingface.co/Raretutor/vdn-minimax-h3-comfyui-int8-convrot) |
 | 28 | 6 | KlingTeam/UnityVideoText-to-Video | UpdatedJul 14 | [Link](https://huggingface.co/KlingTeam/UnityVideo) |
 |  | 6 | rehan-fal/minimax-h3-360-equirect-loraText-to-Video | Updatedabout 12 hours ago | [Link](https://huggingface.co/rehan-fal/minimax-h3-360-equirect-lora) |
+| 24 | 6 | longlian/text-to-video-lvd-zsText-to-Video | UpdatedMay 1, 2024 | [Link](https://huggingface.co/longlian/text-to-video-lvd-zs) |
 | 5.95k | 5 | guoyww/animatediff-motion-lora-tilt-downText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-tilt-down) |
 | 504 | 5 | guoyww/animatediff-motion-lora-v1-5-3Text-to-Video | UpdatedJul 23, 2024 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-v1-5-3) |
 | 23 | 5 | robingg1/NAVAText-to-Video | Updatedabout 8 hours ago | [Link](https://huggingface.co/robingg1/NAVA) |
