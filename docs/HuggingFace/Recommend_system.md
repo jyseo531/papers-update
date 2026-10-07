@@ -2336,6 +2336,7 @@ Updated on 2026-10-07
 | 56 | 21 | lingshu-medical-mllm/Lingshu-32BImage-Text-to-Text | Updated13 minutes ago | [Link](https://huggingface.co/lingshu-medical-mllm/Lingshu-32B) |
 | Updatedabout 1 hour ago | 21 | OpenGVLab/InternVL3_5-241B-A28BImage-Text-to-Text | 241B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-241B-A28B) |
 | Updated9 days ago | 21 | zai-org/WebVIA-AgentImage-Text-to-Text | 10B | [Link](https://huggingface.co/zai-org/WebVIA-Agent) |
+| Updated1 day ago | 21.2k | bartowski/Cloudflare_clef-flash-GGUFImage-Text-to-Text | 9B | [Link](https://huggingface.co/bartowski/Cloudflare_clef-flash-GGUF) |
 | 4 | 20 | Tesslate/Synthia-S1-27bImage-Text-to-Text | Updatedabout 11 hours ago | [Link](https://huggingface.co/Tesslate/Synthia-S1-27b) |
 | 2 | 20 | nvidia/DAM-3B-VideoImage-Text-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/DAM-3B-Video) |
 | Updated3 days ago | 20 | zai-org/GlyphImage-Text-to-Text | 10B | [Link](https://huggingface.co/zai-org/Glyph) |
@@ -6491,6 +6492,7 @@ Updated on 2026-10-07
 | Updated2 days ago | 1.31k | juspay/xorText | 35B | [Link](https://huggingface.co/juspay/xor) |
 | Updated1 day ago | 1.12k | ukisai/Swift-1 | 27B | [Link](https://huggingface.co/ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF) |
 | Updated4 days ago | 1.77k | webAI-Official/TwIL-LM3-ProText | 4B | [Link](https://huggingface.co/webAI-Official/TwIL-LM3-Pro) |
+| Updated1 day ago | 1.08k | vcruz305/CYBER-FROST-3 | 33B | [Link](https://huggingface.co/vcruz305/CYBER-FROST-3.8-EXL3-SAGE-3.87bpw) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -7500,6 +7502,7 @@ Updated on 2026-10-07
 | 12 | Unknown | AcademiaSD/TAE-Qwen-Image-2 | Updated1 day ago | [Link](https://huggingface.co/AcademiaSD/TAE-Qwen-Image-2.1) |
 | 33 | Unknown | RunningHubAI/rh-qwen-image-2 | Updated5 days ago | [Link](https://huggingface.co/RunningHubAI/rh-qwen-image-2.1-lora-2104918997757157378) |
 | 11 | Unknown | sensenova/Looped-DiT-B16Text-to-Image | Updated7 days ago | [Link](https://huggingface.co/sensenova/Looped-DiT-B16) |
+| 14 | Unknown | 19nbrown/qwen-image-2 | Updated2 days ago | [Link](https://huggingface.co/19nbrown/qwen-image-2.1-casual-phone-photo-style-lora) |
 
 ## Text-to-Speech
 
@@ -7797,6 +7800,7 @@ Updated on 2026-10-07
 | 20 | 5 | canberkkkkkk/ema-ttsText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/canberkkkkkk/ema-tts) |
 | Updatedabout 7 hours ago | 5 | AlicanKiraz0/Kahya-TTS-v1 | 2B | [Link](https://huggingface.co/AlicanKiraz0/Kahya-TTS-v1.0) |
 | 17 | 5 | polyskill/LGTMText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/polyskill/LGTM) |
+| 165 | 5 | Natiq-Studio/Natiq-dz-ARGText-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/Natiq-Studio/Natiq-dz-ARG) |
 | 5 | 4 | lunahr/csm-1b-safetensors-fp16Text-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-fp16) |
 | 2 | 4 | VAGOsolutions/SauerkrautTTS-Preview-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/VAGOsolutions/SauerkrautTTS-Preview-0.1) |
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
