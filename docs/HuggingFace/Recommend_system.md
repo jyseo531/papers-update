@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-10-07
+Updated on 2026-10-08
 
 > Generated from the Hugging Face database.
 
@@ -3293,6 +3293,7 @@ Updated on 2026-10-07
 | 13 | Unknown | ausboss/Qwen-Image-2 | Updatedabout 8 hours ago | [Link](https://huggingface.co/ausboss/Qwen-Image-2.1-Outpaint-LoRA) |
 | 14 | Unknown | CSWRY/VOSRImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/CSWRY/VOSR) |
 | 44 | Unknown | lilylilith/QI_2 | Updatedabout 4 hours ago | [Link](https://huggingface.co/lilylilith/QI_2.1_AnyAngle) |
+| 25 | Unknown | akhaliq/Qwen-Image-2 | Updatedabout 3 hours ago | [Link](https://huggingface.co/akhaliq/Qwen-Image-2.1-Multiple-Angles-LoRA) |
 
 ## Image-to-Text
 
@@ -3795,6 +3796,7 @@ Updated on 2026-10-07
 | 3.44k | 2 | breezedeus/pix2text-mfr-1 | UpdatedJul 25, 2025 | [Link](https://huggingface.co/breezedeus/pix2text-mfr-1.5) |
 | Updatedabout 12 hours ago | 2 | atonlee/Qota-OCRImage-to-Text | 6.69M | [Link](https://huggingface.co/atonlee/Qota-OCR) |
 | 26 | 2 | ningpp/GLM-OCR-ONNXImage-to-Text | UpdatedMar 6 | [Link](https://huggingface.co/ningpp/GLM-OCR-ONNX) |
+| 118 | 2 | PaddlePaddle/PP-FormulaNet-SImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PP-FormulaNet-S) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -4023,6 +4025,7 @@ Updated on 2026-10-07
 | 11 | Unknown | nvidia/PixelUMMImage-to-Text | Updatedabout 7 hours ago | [Link](https://huggingface.co/nvidia/PixelUMM) |
 | 1 | Unknown | kotmayyaka/hwr_text_ocr_rusImage-to-Text | UpdatedDec 18, 2025 | [Link](https://huggingface.co/kotmayyaka/hwr_text_ocr_rus) |
 | 3 | Unknown | Kellenok/PP-OCRv6_mangaImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/Kellenok/PP-OCRv6_manga) |
+| 2 | Unknown | snowfluke/ppu-paddle-ocr-modelsImage-to-Text | UpdatedAug 25 | [Link](https://huggingface.co/snowfluke/ppu-paddle-ocr-models) |
 
 ## Image-to-Video
 
@@ -7208,6 +7211,7 @@ Updated on 2026-10-07
 | Updated1 day ago | 1.38k | rectangleworm/ideogram-4-ggufText-to-Image | 8B | [Link](https://huggingface.co/rectangleworm/ideogram-4-gguf) |
 | Updated1 day ago | 1.16k | wikeeyang/Flux2-Klein-9B-True-V3Text-to-Image | 9B | [Link](https://huggingface.co/wikeeyang/Flux2-Klein-9B-True-V3) |
 | Updated4 days ago | 1.1k | LuffyTheFox/Qwen-Image-2 | 7B | [Link](https://huggingface.co/LuffyTheFox/Qwen-Image-2.1-Uncensored-Genesis-BF16-GGUF) |
+| Updated15 days ago | 1.62k | Felldude/QWEN_2 | 0.3B | [Link](https://huggingface.co/Felldude/QWEN_2.1_HDR_VAE) |
 | 1.84M |  | black-forest-labs/FLUX | UpdatedAug 16, 2024 | [Link](https://huggingface.co/black-forest-labs/FLUX.1-dev) |
 | 268k |  | stabilityai/stable-diffusion-3 | UpdatedOct 22, 2024 | [Link](https://huggingface.co/stabilityai/stable-diffusion-3.5-large) |
 | 3.52M |  | stabilityai/stable-diffusion-xl-base-1 | UpdatedOct 30, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) |
@@ -7523,6 +7527,7 @@ Updated on 2026-10-07
 | Updatedabout 20 hours ago | 639 | pnnbao-ump/VieNeu-TTS-v3-TurboText-to-Speech | 0.1B | [Link](https://huggingface.co/pnnbao-ump/VieNeu-TTS-v3-Turbo) |
 | Updatedabout 4 hours ago | 607 | neuphonic/neutts-nano-q4-ggufText-to-Speech | 0.3B | [Link](https://huggingface.co/neuphonic/neutts-nano-q4-gguf) |
 | 18.5k | 603 | IndexTeam/IndexTTS-2Text-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/IndexTeam/IndexTTS-2) |
+| Updated5 days ago | 578 | kova-ai/kova-tts-1Text-to-Speech | 1B | [Link](https://huggingface.co/kova-ai/kova-tts-1) |
 | 4.86k | 570 | fishaudio/s1-miniText-to-Speech | Updatedabout 15 hours ago | [Link](https://huggingface.co/fishaudio/s1-mini) |
 | Updatedabout 9 hours ago | 515 | bosonai/higgs-audio-v2-generation-3B-baseText-to-Speech | 6B | [Link](https://huggingface.co/bosonai/higgs-audio-v2-generation-3B-base) |
 | Updatedabout 9 hours ago | 499 | inclusionAI/Ming-omni-tts-0 | 2B | [Link](https://huggingface.co/inclusionAI/Ming-omni-tts-0.5B) |
