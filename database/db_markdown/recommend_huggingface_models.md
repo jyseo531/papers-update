@@ -2301,6 +2301,7 @@ Updated on 2026-10-08
 | 36 | 28 | meta-llama/Llama-4-Maverick-17B-128EImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E) |
 | 1.6k | 28 | unsloth/Llama-4-Scout-17B-16E-Instruct-GGUFImage-Text-to-Text | Updatedabout 16 hours ago | [Link](https://huggingface.co/unsloth/Llama-4-Scout-17B-16E-Instruct-GGUF) |
 | Updatedabout 19 hours ago | 28 | opendatalab/MinerU2 | 1B | [Link](https://huggingface.co/opendatalab/MinerU2.5-2509-1.2B) |
+| Updatedabout 9 hours ago | 28 | LiquidAI/d1-omni-600MImage-Text-to-Text | 0.6B | [Link](https://huggingface.co/LiquidAI/d1-omni-600M) |
 | 5 | 27 | openfree/Gemma-3-R1984-12B-Q8_0-GGUFImage-Text-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/openfree/Gemma-3-R1984-12B-Q8_0-GGUF) |
 | 4 | 27 | openfree/Gemma-3-R1984-12B-Q6_K-GGUFImage-Text-to-Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/openfree/Gemma-3-R1984-12B-Q6_K-GGUF) |
 | 1.18k | 27 | google/gemma-3n-E2B-itImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/google/gemma-3n-E2B-it) |
@@ -2373,6 +2374,7 @@ Updated on 2026-10-08
 | Updatedabout 8 hours ago | 15.8k | Qwen/Qwen3-VL-30B-A3B-Instruct-FP8Image-Text-to-Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Instruct-FP8) |
 | 7.01k | 15 | nvidia/Cosmos-Reason2-2BImage-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/nvidia/Cosmos-Reason2-2B) |
 | Updated2 days ago | 15.5k | empero-ai/Qwythos-27B-v1-GGUFImage-Text-to-Text | 27B | [Link](https://huggingface.co/empero-ai/Qwythos-27B-v1-GGUF) |
+| Updatedabout 9 hours ago | 15 | LiquidAI/d1-3BImage-Text-to-Text | 3B | [Link](https://huggingface.co/LiquidAI/d1-3B) |
 | 296 | 14 | Fancy-MLLM/R1-Onevision-7BImage-Text-to-Text | Updatedabout 12 hours ago | [Link](https://huggingface.co/Fancy-MLLM/R1-Onevision-7B) |
 | 80 | 14 | google/gemma-3-27b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-pt) |
 | 20 | 14 | lusxvr/nanoVLM-222MImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/lusxvr/nanoVLM-222M) |
@@ -2629,6 +2631,7 @@ Updated on 2026-10-08
 | Updated1 day ago | 1.14k | empero-ai/Qwythos-9B-v2-GGUFImage-Text-to-Text | 9B | [Link](https://huggingface.co/empero-ai/Qwythos-9B-v2-GGUF) |
 | Updated5 days ago | 1.98k | moondream/moondream3 | 9B | [Link](https://huggingface.co/moondream/moondream3.1-9B-A2B) |
 | Updated1 day ago | 1.41k | gittensor-model-hub/Qwen3 | 15B | [Link](https://huggingface.co/gittensor-model-hub/Qwen3.8-27B-NVFP4-RTX5090) |
+| Updated3 days ago | 1.78k | Mia-AiLab/GLM-5 | 88B | [Link](https://huggingface.co/Mia-AiLab/GLM-5.3-Flash-EXL3-4bpw-TensorFold-Ablit) |
 | 1.07M |  | meta-llama/Llama-3 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) |
 | 1.49M |  | Qwen/Qwen2-VL-7B-InstructImage-Text-to-Text | Updated19 days ago | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) |
 | 288k |  | microsoft/Phi-3 | UpdatedSep 26, 2024 | [Link](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) |
@@ -5553,6 +5556,7 @@ Updated on 2026-10-08
 | Updated1 day ago | 484 | AikidoSec/altar-1Text | 501B | [Link](https://huggingface.co/AikidoSec/altar-1) |
 | Updated6 days ago | 480 | huihui-ai/Huihui-GLM-4 | 353B | [Link](https://huggingface.co/huihui-ai/Huihui-GLM-4.6-abliterated-mlx-4bit) |
 | Updatedabout 2 hours ago | 480 | deepseek-ai/DeepSeek-V4-Flash-0731Text | 304B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) |
+| Updated7 days ago | 480 | PleIAs/baguettotron-600mText | 0.6B | [Link](https://huggingface.co/PleIAs/baguettotron-600m) |
 | Updated3 days ago | 478 | JonasGeiping/stream-qwen3 | 27B | [Link](https://huggingface.co/JonasGeiping/stream-qwen3.5-27b) |
 | Updatedabout 12 hours ago | 467 | pat-jj/harness-1Text | 21B | [Link](https://huggingface.co/pat-jj/harness-1) |
 | Updatedabout 10 hours ago | 466 | AIDC-AI/Marco-Nano-InstructText | 8B | [Link](https://huggingface.co/AIDC-AI/Marco-Nano-Instruct) |
@@ -7615,6 +7619,7 @@ Updated on 2026-10-08
 | Updated1 day ago | 72 | Vyvo/VyvoTTS-LFM2-JennyText-to-Speech | 0.4B | [Link](https://huggingface.co/Vyvo/VyvoTTS-LFM2-Jenny) |
 | Updated1 day ago | 72 | jaeyong2/neutts-air-hi-previewText-to-Speech | 0.6B | [Link](https://huggingface.co/jaeyong2/neutts-air-hi-preview) |
 | Updatedabout 9 hours ago | 69 | inclusionAI/Ming-omni-tts-16 | 18B | [Link](https://huggingface.co/inclusionAI/Ming-omni-tts-16.8B-A3B) |
+| Updated4 days ago | 68 | erkamk/qwen3-tts-tiny-trText-to-Speech | 0.2B | [Link](https://huggingface.co/erkamk/qwen3-tts-tiny-tr) |
 | Updatedabout 2 hours ago | 67 | stepfun-ai/Step-Audio-EditXText-to-Speech | 4B | [Link](https://huggingface.co/stepfun-ai/Step-Audio-EditX) |
 | Updatedabout 11 hours ago | 66 | OpenMOSS-Team/MOSS-TTSText-to-Speech | 8B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS) |
 | 2.93k | 65 | capleaf/viXTTSText-to-Speech | UpdatedApr 7, 2024 | [Link](https://huggingface.co/capleaf/viXTTS) |
@@ -7687,6 +7692,7 @@ Updated on 2026-10-08
 | Updatedabout 2 hours ago | 17 | microsoft/VibeVoice-Realtime-0 | 1B | [Link](https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B) |
 | Updatedabout 12 hours ago | 17 | pnnbao-ump/VieNeu-TTS-0 | 0.3B | [Link](https://huggingface.co/pnnbao-ump/VieNeu-TTS-0.3B) |
 | Updated5 days ago | 17 | NAMAA-Space/NAMAA-Saudi-TTSText-to-Speech | 0.5B | [Link](https://huggingface.co/NAMAA-Space/NAMAA-Saudi-TTS) |
+| 86 | 17 | sahilmahendrakar/Paradee-8M-v1 | Updated1 day ago | [Link](https://huggingface.co/sahilmahendrakar/Paradee-8M-v1.0) |
 | 77 | 16 | Mofa-Xingche/girl-style-bert-vits2-JPExtra-modelsText-to-Speech | UpdatedMay 31, 2024 | [Link](https://huggingface.co/Mofa-Xingche/girl-style-bert-vits2-JPExtra-models) |
 | 179 | 16 | esnya/japanese_speecht5_ttsText-to-Speech | UpdatedAug 9, 2023 | [Link](https://huggingface.co/esnya/japanese_speecht5_tts) |
 | Updatedabout 2 hours ago | 16 | OpenMOSS-Team/MOSS-TTS-GGUFText-to-Speech | 8B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-GGUF) |
@@ -8108,6 +8114,7 @@ Updated on 2026-10-08
 | Updatedabout 3 hours ago | 31 | FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFreeText-to-Video | 35B | [Link](https://huggingface.co/FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree) |
 | 48 | 30 | PAIR/text2video-zero-controlnet-canny-arcaneText-to-Video | UpdatedApr 6, 2023 | [Link](https://huggingface.co/PAIR/text2video-zero-controlnet-canny-arcane) |
 |  | 27 | ZhengmingYu/DMADText-to-Video | Updatedabout 8 hours ago | [Link](https://huggingface.co/ZhengmingYu/DMAD) |
+| Updated2 days ago | 27 | FastVideo/FastVideo-FastH3-Trim-8-StepText-to-Video | 19B | [Link](https://huggingface.co/FastVideo/FastVideo-FastH3-Trim-8-Step) |
 | 8.22k | 26 | Searchium-ai/clip4clip-webvid150kText-to-Video | UpdatedOct 27, 2024 | [Link](https://huggingface.co/Searchium-ai/clip4clip-webvid150k) |
 | 1.96k | 26 | guoyww/animatediff-motion-adapter-v1-5-2Text-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-adapter-v1-5-2) |
 | 417 | 25 | ByteDance/ContentV-8BText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/ByteDance/ContentV-8B) |
@@ -8544,6 +8551,7 @@ Updated on 2026-10-08
 | 3.51k |  | poopooness/H3-LorasText-to-Video | Updated14 days ago | [Link](https://huggingface.co/poopooness/H3-Loras) |
 | 2 |  | pdmd2026/pdmd_4NFE_loraText-to-Video | Updatedabout 23 hours ago | [Link](https://huggingface.co/pdmd2026/pdmd_4NFE_lora) |
 | 351 |  | pdmd2026/pdmd_2NFE_loraText-to-Video | Updated3 days ago | [Link](https://huggingface.co/pdmd2026/pdmd_2NFE_lora) |
+| 6 | Unknown | ZihanSu/Self_Gradient_Forcing_PlusText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/ZihanSu/Self_Gradient_Forcing_Plus) |
 
 ## Text2Text Generation
 
