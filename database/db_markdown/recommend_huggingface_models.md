@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-10-08
+Updated on 2026-10-09
 
 > Generated from the Hugging Face database.
 
@@ -46,6 +46,7 @@ Updated on 2026-10-08
 | Updatedabout 19 hours ago | 387 | mlx-community/gemma-4-e4b-it-mxfp8Any-to-Any | 3B | [Link](https://huggingface.co/mlx-community/gemma-4-e4b-it-mxfp8) |
 | 121k | 381 | deepseek-ai/Janus-Pro-1BAny-to-Any | Updated24 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-Pro-1B) |
 | Updated10 days ago | 353 | google/gemma-4-E2B-it-qat-q4_0-unquantized-assistantAny-to-Any | 78M | [Link](https://huggingface.co/google/gemma-4-E2B-it-qat-q4_0-unquantized-assistant) |
+| Updatedabout 6 hours ago | 344 | kandinskylab/Kandinsky-6 | 1B | [Link](https://huggingface.co/kandinskylab/Kandinsky-6.0-VSR-distilled2steps-5s-Diffusers) |
 | Updated14 days ago | 330k | lmstudio-community/gemma-4-E4B-it-MLX-4bitAny-to-Any | 2B | [Link](https://huggingface.co/lmstudio-community/gemma-4-E4B-it-MLX-4bit) |
 | Updated16 days ago | 319 | llmfan46/gemma-4-12B-it-uncensored-hereticAny-to-Any | 12B | [Link](https://huggingface.co/llmfan46/gemma-4-12B-it-uncensored-heretic) |
 | Updatedabout 10 hours ago | 316 | wcy1122/MGM-Omni-TTS-2B-0927Any-to-Any | 2B | [Link](https://huggingface.co/wcy1122/MGM-Omni-TTS-2B-0927) |
@@ -2547,6 +2548,7 @@ Updated on 2026-10-08
 | Updated7 days ago | 5.6k | prithivMLmods/Gliese-Qwen3 | 9B | [Link](https://huggingface.co/prithivMLmods/Gliese-Qwen3.5-9B-Abliterated-Caption) |
 | Updated2 days ago | 5.94k | prefeitura-rio/Rio-3 | 403B | [Link](https://huggingface.co/prefeitura-rio/Rio-3.5-Open-397B) |
 | Updated1 day ago | 5.59k | peculiar-ragdoll/Cyber-Tiel-Coder-35B-A3B-GGUF-MTPImage-Text-to-Text | 36B | [Link](https://huggingface.co/peculiar-ragdoll/Cyber-Tiel-Coder-35B-A3B-GGUF-MTP) |
+| Updatedabout 4 hours ago | 5.42k | autotrust/GLM5 | 128B | [Link](https://huggingface.co/autotrust/GLM5.3-Flash-E224-DGX-Spark) |
 | Updated1 day ago | 4.45k | openbmb/MiniCPM-V-4_5-ggufImage-Text-to-Text | 8B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4_5-gguf) |
 | Updatedabout 12 hours ago | 4 | ibm-granite/granite-docling-258MImage-Text-to-Text | 0.3B | [Link](https://huggingface.co/ibm-granite/granite-docling-258M) |
 | Updated12 days ago | 4.44k | Jalea96/DeepSeek-OCR-bnb-4bit-NF4Image-Text-to-Text | 3B | [Link](https://huggingface.co/Jalea96/DeepSeek-OCR-bnb-4bit-NF4) |
@@ -2912,6 +2914,7 @@ Updated on 2026-10-08
 |  | 8 | prithivMLmods/Qwen-Image-Edit-2511-Unblur-UpscaleImage-to-Image | Updated15 minutes ago | [Link](https://huggingface.co/prithivMLmods/Qwen-Image-Edit-2511-Unblur-Upscale) |
 | 1.75k | 8 | wraps/FLUX | Updated3 days ago | [Link](https://huggingface.co/wraps/FLUX.2-klein-9B-Blitz-ComfyUI) |
 | 32 | 8 | ML-Intern-lab/Qwen-Image-2 | Updatedabout 13 hours ago | [Link](https://huggingface.co/ML-Intern-lab/Qwen-Image-2.1-doodle-in-LoRA) |
+| 41 | 8 | trmz/plate-extract-qwen-image-2 | Updated2 days ago | [Link](https://huggingface.co/trmz/plate-extract-qwen-image-2.1) |
 | 1.74k | 7 | xiaozaa/catvton-flux-betaImage-to-Image | UpdatedJan 16 | [Link](https://huggingface.co/xiaozaa/catvton-flux-beta) |
 | 33 | 7 | kontext-community/relighting-kontext-dev-lora-v3Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/kontext-community/relighting-kontext-dev-lora-v3) |
 | Updatedabout 1 hour ago | 7 | chatpig/flux2-dev-ggufImage-to-Image | 18B | [Link](https://huggingface.co/chatpig/flux2-dev-gguf) |
@@ -4029,6 +4032,7 @@ Updated on 2026-10-08
 | 1 | Unknown | kotmayyaka/hwr_text_ocr_rusImage-to-Text | UpdatedDec 18, 2025 | [Link](https://huggingface.co/kotmayyaka/hwr_text_ocr_rus) |
 | 3 | Unknown | Kellenok/PP-OCRv6_mangaImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/Kellenok/PP-OCRv6_manga) |
 | 2 | Unknown | snowfluke/ppu-paddle-ocr-modelsImage-to-Text | UpdatedAug 25 | [Link](https://huggingface.co/snowfluke/ppu-paddle-ocr-models) |
+| 2 | Unknown | Kansallisarkisto/estonian-ppocrv6-mediumImage-to-Text | Updated1 day ago | [Link](https://huggingface.co/Kansallisarkisto/estonian-ppocrv6-medium) |
 
 ## Image-to-Video
 
@@ -5695,6 +5699,7 @@ Updated on 2026-10-08
 | 38 | 143 | qihoo360/TinyR1-32B-PreviewText | Updatedabout 17 hours ago | [Link](https://huggingface.co/qihoo360/TinyR1-32B-Preview) |
 | Updated1 day ago | 143 | ISTA-DASLab/Qwen3 | 27B | [Link](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF) |
 | Updated13 days ago | 142 | audnai/penclaw-GLM-5 | 753B | [Link](https://huggingface.co/audnai/penclaw-GLM-5.3-abliterated) |
+| Updatedabout 17 hours ago | 142 | ConwayResearch/Underdog-Saluki-27B-1 | 27B | [Link](https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0) |
 | Updatedabout 10 hours ago | 141 | XiaomiMiMo/MiMo-V2 | 1T | [Link](https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro) |
 | Updated6 days ago | 140 | zerofata/MS3 | 24B | [Link](https://huggingface.co/zerofata/MS3.2-PaintedFantasy-24B) |
 | Updated1 day ago | 140 | PleIAs/MonadText | 56.7M | [Link](https://huggingface.co/PleIAs/Monad) |
@@ -5915,6 +5920,7 @@ Updated on 2026-10-08
 | 5 | 44 | Qwen/Qwen3-8BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-8B) |
 | Updatedabout 3 hours ago | 44 | unsloth/gpt-oss-120b-GGUFText | 117B | [Link](https://huggingface.co/unsloth/gpt-oss-120b-GGUF) |
 | Updated1 day ago | 44k | Jackrong/DeepSeek-V4-Pro-Qwen3 | 9B | [Link](https://huggingface.co/Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B-MTP-GGUF) |
+| Updated4 days ago | 44k | FINAL-Bench/POCKET-Darwin-180B-GGUFText | 177B | [Link](https://huggingface.co/FINAL-Bench/POCKET-Darwin-180B-GGUF) |
 | 52 | 43 | facebook/KernelLLMText | Updatedabout 11 hours ago | [Link](https://huggingface.co/facebook/KernelLLM) |
 | Updatedabout 10 hours ago | 43 | LiquidAI/LFM2-350MText | 0.4B | [Link](https://huggingface.co/LiquidAI/LFM2-350M) |
 | 1.49k | 43 | OmniSVG/OmniSVGText | Updated1 day ago | [Link](https://huggingface.co/OmniSVG/OmniSVG) |
@@ -7061,6 +7067,7 @@ Updated on 2026-10-08
 | 7 | 9 | jimmycarter/krea2-turbo-bboxText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/jimmycarter/krea2-turbo-bbox) |
 |  | 9 | lvladikov/Krea2-Turbo-Distill-4step-LoRAText-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/lvladikov/Krea2-Turbo-Distill-4step-LoRA) |
 | 62 | 9 | Johnny-Z/Anima-Light-LavenderText-to-Image | Updated1 day ago | [Link](https://huggingface.co/Johnny-Z/Anima-Light-Lavender) |
+| 117 | 9 | PedroMarinhoDev/HunyuanImage-3 | Updated15 days ago | [Link](https://huggingface.co/PedroMarinhoDev/HunyuanImage-3.0-Instruct-Distil-ComfyUI) |
 | 215 | 8 | tensorart/stable-diffusion-3 | Updated8 minutes ago | [Link](https://huggingface.co/tensorart/stable-diffusion-3.5-large-TurboX) |
 | 34 | 8 | renderartist/coloringbookhidreamText-to-Image | Updated5 days ago | [Link](https://huggingface.co/renderartist/coloringbookhidream) |
 | 1.79k | 8 | MaxedOut/ComfyUI-Starter-PacksText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/MaxedOut/ComfyUI-Starter-Packs) |
@@ -7511,6 +7518,7 @@ Updated on 2026-10-08
 | 33 | Unknown | RunningHubAI/rh-qwen-image-2 | Updated5 days ago | [Link](https://huggingface.co/RunningHubAI/rh-qwen-image-2.1-lora-2104918997757157378) |
 | 11 | Unknown | sensenova/Looped-DiT-B16Text-to-Image | Updated7 days ago | [Link](https://huggingface.co/sensenova/Looped-DiT-B16) |
 | 14 | Unknown | 19nbrown/qwen-image-2 | Updated2 days ago | [Link](https://huggingface.co/19nbrown/qwen-image-2.1-casual-phone-photo-style-lora) |
+| 11 | Unknown | Clybius/Kroma-QuantizationsText-to-Image | Updated2 days ago | [Link](https://huggingface.co/Clybius/Kroma-Quantizations) |
 
 ## Text-to-Speech
 
@@ -8057,6 +8065,7 @@ Updated on 2026-10-08
 | 6 | Unknown | SupraLabs/SupraTTS-0 | Updatedabout 6 hours ago | [Link](https://huggingface.co/SupraLabs/SupraTTS-0.1-Beta) |
 | 6 | Unknown | Aratako/Irodori-TTS-v4-Large-QuantizedText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/Aratako/Irodori-TTS-v4-Large-Quantized) |
 | 7 | Unknown | ArtShtorm/Shtorm-PocketTTS-RUText-to-Speech | Updatedabout 6 hours ago | [Link](https://huggingface.co/ArtShtorm/Shtorm-PocketTTS-RU) |
+| 6 | Unknown | ozcancelik/ema-lightning-onnxText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/ozcancelik/ema-lightning-onnx) |
 
 ## Text-to-Video
 
@@ -8295,6 +8304,7 @@ Updated on 2026-10-08
 | 1 | 2 | mehmetkeremturkcan/Suturing-Wan2 | UpdatedMar 14, 2025 | [Link](https://huggingface.co/mehmetkeremturkcan/Suturing-Wan2.1-1.3B-T2V) |
 | Updatedabout 2 hours ago | 2 | ChrisColeTech/LTX-2 | 12B | [Link](https://huggingface.co/ChrisColeTech/LTX-2.3-uncensored-fp8) |
 | Updatedabout 13 hours ago | 2 | FastVideo/FastVideo-FastH3-8-Step-V2Text-to-Video | 35B | [Link](https://huggingface.co/FastVideo/FastVideo-FastH3-8-Step-V2) |
+| Updated1 day ago | 2 | ApolloRaines/LTX-2 | 21B | [Link](https://huggingface.co/ApolloRaines/LTX-2.5-22b-OmniGen-v12) |
 | 239 | 1 | samuelchristlie/Wan2 | Updated14 days ago | [Link](https://huggingface.co/samuelchristlie/Wan2.1-T2V-1.3B-GGUF) |
 | 25 | 1 | mrfakename/ZuluVision-MoviiGen1 | Updated20 days ago | [Link](https://huggingface.co/mrfakename/ZuluVision-MoviiGen1.1) |
 | 9 | 1 | Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusersText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Alibaba-Research-Intelligence-Computing/Tora_T2V_diffusers) |
