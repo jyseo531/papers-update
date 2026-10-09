@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-10-09
+Updated on 2026-10-10
 
 > Generated from the Hugging Face database.
 
@@ -2516,6 +2516,7 @@ Updated on 2026-10-09
 | 2.38k | 8 | vincentzed-hf/Qwen3 | Updatedabout 22 hours ago | [Link](https://huggingface.co/vincentzed-hf/Qwen3.5-397B-A17B-NVFP4) |
 | Updated5 days ago | 8.28k | unsloth/gemma-4-31B-it-NVFP4Image-Text-to-Text | 23B | [Link](https://huggingface.co/unsloth/gemma-4-31B-it-NVFP4) |
 | Updated9 minutes ago | 8.42k | isichan-ai/Mitsuba_and_HiMitsuba-27B-GGUFImage-Text-to-Text | 17.3M | [Link](https://huggingface.co/isichan-ai/Mitsuba_and_HiMitsuba-27B-GGUF) |
+| Updatedabout 1 hour ago | 8.87k | nerkyor/Qwen3 | 27B | [Link](https://huggingface.co/nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2) |
 | 27 | 7 | ByteDance-Seed/SAIL-7BImage-Text-to-Text | Updated2 days ago | [Link](https://huggingface.co/ByteDance-Seed/SAIL-7B) |
 | 677 | 7 | turing-motors/Heron-NVILA-Lite-15BImage-Text-to-Text | Updated14 days ago | [Link](https://huggingface.co/turing-motors/Heron-NVILA-Lite-15B) |
 | 25 | 7 | mlabonne/gemma-3-27b-it-qat-abliteratedImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-qat-abliterated) |
@@ -7700,6 +7701,7 @@ Updated on 2026-10-09
 | 26 | 19 | fishaudio/openaudio-s1-miniText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/fishaudio/openaudio-s1-mini) |
 | Updated1 day ago | 19 | Trendyol/Trendyol-TTSText-to-Speech | 2B | [Link](https://huggingface.co/Trendyol/Trendyol-TTS) |
 | UpdatedApr 29 | 19 | AutoArk-AI/GPA-v1 | 1B | [Link](https://huggingface.co/AutoArk-AI/GPA-v1.5) |
+| 2 | 19 | cloud0day3/antalia-miniText-to-Speech | Updatedabout 9 hours ago | [Link](https://huggingface.co/cloud0day3/antalia-mini) |
 | 2.35k | 18 | 2121-8/japanese-parler-tts-miniText-to-Speech | UpdatedDec 5, 2024 | [Link](https://huggingface.co/2121-8/japanese-parler-tts-mini) |
 | Updated2 days ago | 18 | NandemoGHS/Anime-Llasa-3BText-to-Speech | 3B | [Link](https://huggingface.co/NandemoGHS/Anime-Llasa-3B) |
 | Updatedabout 2 hours ago | 17 | microsoft/VibeVoice-Realtime-0 | 1B | [Link](https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B) |
@@ -8210,6 +8212,7 @@ Updated on 2026-10-09
 | 565 | 4 | berryber09/10Eros-Max-h3-turbo-hybrid-beta4-w4a8Text-to-Video | Updated3 days ago | [Link](https://huggingface.co/berryber09/10Eros-Max-h3-turbo-hybrid-beta4-w4a8) |
 | 96 | 4 | JOKER141/BUNNY_H3_Conditioning_BridgeText-to-Video | Updated1 day ago | [Link](https://huggingface.co/JOKER141/BUNNY_H3_Conditioning_Bridge) |
 |  | 4 | Iwannapose/minimax_h3_pdmd_2nfe_comfyuiText-to-Video | Updatedabout 7 hours ago | [Link](https://huggingface.co/Iwannapose/minimax_h3_pdmd_2nfe_comfyui) |
+| 90 | 4 | Veda-Sparse/Minimax-H3-R2VA-Veda-PreviewText-to-Video | Updated1 day ago | [Link](https://huggingface.co/Veda-Sparse/Minimax-H3-R2VA-Veda-Preview) |
 | 4.64k | 3 | guoyww/animatediff-motion-lora-pan-rightText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-pan-right) |
 | 28 | 3 | finetrainers/3dgs-v0Text-to-Video | UpdatedJan 29 | [Link](https://huggingface.co/finetrainers/3dgs-v0) |
 | 1 | 3 | longlian/text-to-video-lvd-msText-to-Video | UpdatedMay 1, 2024 | [Link](https://huggingface.co/longlian/text-to-video-lvd-ms) |
