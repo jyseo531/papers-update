@@ -69,6 +69,7 @@ Updated on 2026-10-09
 | 1.68k | 208 | BAAI/Emu3-GenAny-to-Any | UpdatedOct 23, 2024 | [Link](https://huggingface.co/BAAI/Emu3-Gen) |
 | Updated28 minutes ago | 207 | DeepCybo/PhysBrain1 | 9B | [Link](https://huggingface.co/DeepCybo/PhysBrain1.5-8B) |
 | UpdatedApr 9 | 203 | Tesslate/Synthia-S1-27bAny-to-Any | 27B | [Link](https://huggingface.co/Tesslate/Synthia-S1-27b) |
+| UpdatedJul 23 | 196k | lmstudio-community/gemma-4-E2B-it-MLX-4bitAny-to-Any | 5B | [Link](https://huggingface.co/lmstudio-community/gemma-4-E2B-it-MLX-4bit) |
 | Updated16 days ago | 193 | OddTheGreat/Mars_27B_V | 29B | [Link](https://huggingface.co/OddTheGreat/Mars_27B_V.1) |
 | Updated3 days ago | 193 | prithivMLmods/gemma-4-E2B-it-Uncensored-MAXAny-to-Any | 5B | [Link](https://huggingface.co/prithivMLmods/gemma-4-E2B-it-Uncensored-MAX) |
 | Updatedabout 8 hours ago | 191 | lijiang/Omni-DiffusionAny-to-Any | 8B | [Link](https://huggingface.co/lijiang/Omni-Diffusion) |
@@ -2205,6 +2206,7 @@ Updated on 2026-10-09
 | 18.5k | 57 | prithivMLmods/Qwen2-VL-OCR-2B-InstructImage-Text-to-Text | UpdatedJan 11 | [Link](https://huggingface.co/prithivMLmods/Qwen2-VL-OCR-2B-Instruct) |
 | 944 | 56 | nvidia/Eagle2-9BImage-Text-to-Text | UpdatedJan 28 | [Link](https://huggingface.co/nvidia/Eagle2-9B) |
 | Updatedabout 12 hours ago | 56 | Hcompany/Holo3-35B-A3BImage-Text-to-Text | 35B | [Link](https://huggingface.co/Hcompany/Holo3-35B-A3B) |
+| Updatedabout 12 hours ago | 56.4k | SC117/Swift-1 | 177B | [Link](https://huggingface.co/SC117/Swift-1.5-Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF) |
 | Updatedabout 7 hours ago | 55 | OpenGVLab/InternVL3_5-30B-A3BImage-Text-to-Text | 31B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-30B-A3B) |
 | Updated5 days ago | 55 | hkust-nlp/WebExplorer-8BImage-Text-to-Text | 8B | [Link](https://huggingface.co/hkust-nlp/WebExplorer-8B) |
 | Updated3 days ago | 55 | OpenGVLab/ScaleCUA-3BImage-Text-to-Text | 4B | [Link](https://huggingface.co/OpenGVLab/ScaleCUA-3B) |
@@ -5737,6 +5739,7 @@ Updated on 2026-10-09
 | Updatedabout 10 hours ago | 112 | nvidia/Qwen3-Nemotron-32B-RLBFFText | 33B | [Link](https://huggingface.co/nvidia/Qwen3-Nemotron-32B-RLBFF) |
 | Updated1 day ago | 111 | moelanoby/phi-3-M3-coderText | 4B | [Link](https://huggingface.co/moelanoby/phi-3-M3-coder) |
 | Updated4 days ago | 110 | LatitudeGames/Wayfarer-2-12BText | 12B | [Link](https://huggingface.co/LatitudeGames/Wayfarer-2-12B) |
+| Updated1 day ago | 110 | JetBrains/Mellum2 | 12B | [Link](https://huggingface.co/JetBrains/Mellum2.1-12B-A2.5B-Thinking) |
 | 176 | 109 | nvidia/DeepSeek-R1-FP4Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/nvidia/DeepSeek-R1-FP4) |
 | Updated8 days ago | 109 | LiquidAI/LFM2-24B-A2B-GGUFText | 24B | [Link](https://huggingface.co/LiquidAI/LFM2-24B-A2B-GGUF) |
 | Updatedabout 18 hours ago | 109 | deepgrove/maple-previewText | 20B | [Link](https://huggingface.co/deepgrove/maple-preview) |
@@ -6506,6 +6509,7 @@ Updated on 2026-10-09
 | Updated1 day ago | 1.12k | ukisai/Swift-1 | 27B | [Link](https://huggingface.co/ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF) |
 | Updated4 days ago | 1.77k | webAI-Official/TwIL-LM3-ProText | 4B | [Link](https://huggingface.co/webAI-Official/TwIL-LM3-Pro) |
 | Updated1 day ago | 1.08k | vcruz305/CYBER-FROST-3 | 33B | [Link](https://huggingface.co/vcruz305/CYBER-FROST-3.8-EXL3-SAGE-3.87bpw) |
+| Updated6 days ago | 1.51k | IFM/K2-Type-0 | 1B | [Link](https://huggingface.co/IFM/K2-Type-0.9B) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -6973,6 +6977,7 @@ Updated on 2026-10-09
 | Updatedabout 3 hours ago | 18 | jayn7/Z-Image-Turbo-GGUFText-to-Image | 6B | [Link](https://huggingface.co/jayn7/Z-Image-Turbo-GGUF) |
 | 289 | 18 | NO8D/ExpressionControlText-to-Image | Updated1 day ago | [Link](https://huggingface.co/NO8D/ExpressionControl) |
 | 2.35k | 18 | ifmylove2011/girlslike-krea2Text-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/ifmylove2011/girlslike-krea2) |
+| Updatedabout 13 hours ago | 18 | speridlabs/iris-3bText-to-Image | 3B | [Link](https://huggingface.co/speridlabs/iris-3b) |
 | 59 | 17 | HiDream-ai/HiDream-I1-DevText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/HiDream-ai/HiDream-I1-Dev) |
 | 266 | 17 | WarmBloodAban/Qwen-Image-2 | Updatedabout 19 hours ago | [Link](https://huggingface.co/WarmBloodAban/Qwen-Image-2.1-LoRAs) |
 | 66 | 16 | HiDream-ai/HiDream-I1-FastText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/HiDream-ai/HiDream-I1-Fast) |
@@ -7767,6 +7772,7 @@ Updated on 2026-10-09
 | Updatedabout 9 hours ago | 7 | fishaudio/s2-proText-to-Speech | 5B | [Link](https://huggingface.co/fishaudio/s2-pro) |
 | 46 | 7 | pymaster/VocalRenderText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/pymaster/VocalRender) |
 | 63 | 7 | OPPOer/CuteTTSText-to-Speech | Updated10 days ago | [Link](https://huggingface.co/OPPOer/CuteTTS) |
+| 47 | 7 | AKinvox/kokoro-cloning-v1Text-to-Speech | Updated11 days ago | [Link](https://huggingface.co/AKinvox/kokoro-cloning-v1) |
 | 13 | 6 | ntdgo/ttsviText-to-Speech | UpdatedApr 17, 2024 | [Link](https://huggingface.co/ntdgo/ttsvi) |
 | 29 | 6 | erax-ai/EraX-Smile-UnixSex-F5Text-to-Speech | Updatedabout 8 hours ago | [Link](https://huggingface.co/erax-ai/EraX-Smile-UnixSex-F5) |
 | 29 | 6 | ICTNLP/SLED-TTS-Streaming-LibriheavyText-to-Speech | Updatedabout 18 hours ago | [Link](https://huggingface.co/ICTNLP/SLED-TTS-Streaming-Libriheavy) |
