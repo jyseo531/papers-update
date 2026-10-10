@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-10-10
+Updated on 2026-10-11
 
 > Generated from the Hugging Face database.
 
@@ -2149,6 +2149,7 @@ Updated on 2026-10-10
 | Updated16 days ago | 109 | ChatDOC/OCRFlux-3BImage-Text-to-Text | 4B | [Link](https://huggingface.co/ChatDOC/OCRFlux-3B) |
 | Updated5 days ago | 109k | bartowski/google_gemma-4-31B-it-GGUFImage-Text-to-Text | 31B | [Link](https://huggingface.co/bartowski/google_gemma-4-31B-it-GGUF) |
 | Updated1 day ago | 109 | endless-frontier/BigBang-v1Image-Text-to-Text | 36B | [Link](https://huggingface.co/endless-frontier/BigBang-v1) |
+| Updatedabout 23 hours ago | 108 | Cloudflare/clef-omniImage-Text-to-Text | 35B | [Link](https://huggingface.co/Cloudflare/clef-omni) |
 | 16.1k | 106 | bytedance-research/UI-TARS-72B-DPOImage-Text-to-Text | UpdatedJan 25 | [Link](https://huggingface.co/bytedance-research/UI-TARS-72B-DPO) |
 | Updated4 days ago | 105 | Alibaba-DAMO-Academy/RynnBrain-30B-A3BImage-Text-to-Text | 17B | [Link](https://huggingface.co/Alibaba-DAMO-Academy/RynnBrain-30B-A3B) |
 | Updated2 days ago | 105 | MirilAI/Miril-Drone-2B-1Image-Text-to-Text | 5B | [Link](https://huggingface.co/MirilAI/Miril-Drone-2B-1) |
@@ -3305,6 +3306,7 @@ Updated on 2026-10-10
 | 14 | Unknown | CSWRY/VOSRImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/CSWRY/VOSR) |
 | 44 | Unknown | lilylilith/QI_2 | Updatedabout 4 hours ago | [Link](https://huggingface.co/lilylilith/QI_2.1_AnyAngle) |
 | 25 | Unknown | akhaliq/Qwen-Image-2 | Updatedabout 3 hours ago | [Link](https://huggingface.co/akhaliq/Qwen-Image-2.1-Multiple-Angles-LoRA) |
+| 46 | Unknown | MicksHF/Qwen-Image-2 | Updatedabout 10 hours ago | [Link](https://huggingface.co/MicksHF/Qwen-Image-2.1-Anime-Fusal) |
 
 ## Image-to-Text
 
@@ -4038,6 +4040,7 @@ Updated on 2026-10-10
 | 3 | Unknown | Kellenok/PP-OCRv6_mangaImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/Kellenok/PP-OCRv6_manga) |
 | 2 | Unknown | snowfluke/ppu-paddle-ocr-modelsImage-to-Text | UpdatedAug 25 | [Link](https://huggingface.co/snowfluke/ppu-paddle-ocr-models) |
 | 2 | Unknown | Kansallisarkisto/estonian-ppocrv6-mediumImage-to-Text | Updated1 day ago | [Link](https://huggingface.co/Kansallisarkisto/estonian-ppocrv6-medium) |
+| 3 | Unknown | kobimusic/copista-28mImage-to-Text | Updated4 days ago | [Link](https://huggingface.co/kobimusic/copista-28m) |
 
 ## Image-to-Video
 
@@ -7122,6 +7125,7 @@ Updated on 2026-10-10
 | 186 | 7 | xixxix-HF/SydneySweeney_Krea2Text-to-Image | Updated5 days ago | [Link](https://huggingface.co/xixxix-HF/SydneySweeney_Krea2) |
 | Updatedabout 5 hours ago | 7 | inclusionAI/LLaDA-Image-TurboText-to-Image | 7B | [Link](https://huggingface.co/inclusionAI/LLaDA-Image-Turbo) |
 | Updated4 days ago | 7.88k | realrebelai/Ming-Image_GGUFsText-to-Image | 6B | [Link](https://huggingface.co/realrebelai/Ming-Image_GGUFs) |
+| Updatedabout 6 hours ago | 7.31k | AtomicChat/Qwen-Image-2 | 8B | [Link](https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF) |
 | 1.07k | 6 | DFloat11/FLUX | Updated1 day ago | [Link](https://huggingface.co/DFloat11/FLUX.1-dev-DF11) |
 | 836 | 6 | Minthy/RouWei-0 | Updated3 days ago | [Link](https://huggingface.co/Minthy/RouWei-0.8) |
 | 169 | 6 | PosterCraft/PosterCraft-v1_RLText-to-Image | Updated2 days ago | [Link](https://huggingface.co/PosterCraft/PosterCraft-v1_RL) |
@@ -8216,6 +8220,7 @@ Updated on 2026-10-10
 | 96 | 4 | JOKER141/BUNNY_H3_Conditioning_BridgeText-to-Video | Updated1 day ago | [Link](https://huggingface.co/JOKER141/BUNNY_H3_Conditioning_Bridge) |
 |  | 4 | Iwannapose/minimax_h3_pdmd_2nfe_comfyuiText-to-Video | Updatedabout 7 hours ago | [Link](https://huggingface.co/Iwannapose/minimax_h3_pdmd_2nfe_comfyui) |
 | 90 | 4 | Veda-Sparse/Minimax-H3-R2VA-Veda-PreviewText-to-Video | Updated1 day ago | [Link](https://huggingface.co/Veda-Sparse/Minimax-H3-R2VA-Veda-Preview) |
+| 34 | 4 | Aazeus/Spark-H3Text-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/Aazeus/Spark-H3) |
 | 4.64k | 3 | guoyww/animatediff-motion-lora-pan-rightText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-pan-right) |
 | 28 | 3 | finetrainers/3dgs-v0Text-to-Video | UpdatedJan 29 | [Link](https://huggingface.co/finetrainers/3dgs-v0) |
 | 1 | 3 | longlian/text-to-video-lvd-msText-to-Video | UpdatedMay 1, 2024 | [Link](https://huggingface.co/longlian/text-to-video-lvd-ms) |
