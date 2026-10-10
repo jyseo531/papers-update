@@ -2178,6 +2178,7 @@ Updated on 2026-10-10
 | Updatedabout 8 hours ago | 82 | KORMo-VL/KORMo-VLImage-Text-to-Text | 11B | [Link](https://huggingface.co/KORMo-VL/KORMo-VL) |
 | Updated20 days ago | 81.8k | zai-org/GLM-4 | 10B | [Link](https://huggingface.co/zai-org/GLM-4.1V-9B-Thinking) |
 | 10.9k | 80 | ibm-granite/granite-vision-3 | Updatedabout 7 hours ago | [Link](https://huggingface.co/ibm-granite/granite-vision-3.1-2b-preview) |
+| Updatedabout 19 hours ago | 80 | lightonai/LightOnOCR-3-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/lightonai/LightOnOCR-3-4B) |
 | Updated3 days ago | 78 | internlm/Spatial-SSRL-Qwen3VL-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/internlm/Spatial-SSRL-Qwen3VL-4B) |
 | Updated6 days ago | 77 | AvitoTech/avisionImage-Text-to-Text | 7B | [Link](https://huggingface.co/AvitoTech/avision) |
 | Updatedabout 1 hour ago | 76.7k | huihui-ai/Huihui-Qwen3-VL-30B-A3B-Instruct-abliteratedImage-Text-to-Text | 31B | [Link](https://huggingface.co/huihui-ai/Huihui-Qwen3-VL-30B-A3B-Instruct-abliterated) |
@@ -2220,6 +2221,7 @@ Updated on 2026-10-10
 | 1.27k | 51 | AIDC-AI/Ovis2-8BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-8B) |
 | Updatedabout 16 hours ago | 51 | datalab-to/liftImage-Text-to-Text | 10B | [Link](https://huggingface.co/datalab-to/lift) |
 | Updated1 day ago | 51 | HauhauCS/Gemma4-26B-A4B-QAT-Uncensored-HauhauCS-Balanced-MTPImage-Text-to-Text | 25B | [Link](https://huggingface.co/HauhauCS/Gemma4-26B-A4B-QAT-Uncensored-HauhauCS-Balanced-MTP) |
+| Updatedabout 20 hours ago | 50 | tencent/Youtu-Parsing-OmniImage-Text-to-Text | 5B | [Link](https://huggingface.co/tencent/Youtu-Parsing-Omni) |
 | Updatedabout 10 hours ago | 49 | nanonets/Nanonets-OCR2-3BImage-Text-to-Text | 4B | [Link](https://huggingface.co/nanonets/Nanonets-OCR2-3B) |
 | Updatedabout 5 hours ago | 49 | ATH-MaaS/OvisOCR2Image-Text-to-Text | 0.9B | [Link](https://huggingface.co/ATH-MaaS/OvisOCR2) |
 | Updated31 minutes ago | 48 | unsloth/gemma-4-12b-it-GGUFImage-Text-to-Text | 12B | [Link](https://huggingface.co/unsloth/gemma-4-12b-it-GGUF) |
@@ -8074,6 +8076,7 @@ Updated on 2026-10-10
 | 6 | Unknown | Aratako/Irodori-TTS-v4-Large-QuantizedText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/Aratako/Irodori-TTS-v4-Large-Quantized) |
 | 7 | Unknown | ArtShtorm/Shtorm-PocketTTS-RUText-to-Speech | Updatedabout 6 hours ago | [Link](https://huggingface.co/ArtShtorm/Shtorm-PocketTTS-RU) |
 | 6 | Unknown | ozcancelik/ema-lightning-onnxText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/ozcancelik/ema-lightning-onnx) |
+| 6 | Unknown | edwixx/rapido-ttsText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/edwixx/rapido-tts) |
 
 ## Text-to-Video
 
@@ -8571,6 +8574,7 @@ Updated on 2026-10-10
 | 2 |  | pdmd2026/pdmd_4NFE_loraText-to-Video | Updatedabout 23 hours ago | [Link](https://huggingface.co/pdmd2026/pdmd_4NFE_lora) |
 | 351 |  | pdmd2026/pdmd_2NFE_loraText-to-Video | Updated3 days ago | [Link](https://huggingface.co/pdmd2026/pdmd_2NFE_lora) |
 | 6 | Unknown | ZihanSu/Self_Gradient_Forcing_PlusText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/ZihanSu/Self_Gradient_Forcing_Plus) |
+| 4 | Unknown | Wuli-art/MiniMax-H3-TurboText-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/Wuli-art/MiniMax-H3-Turbo) |
 
 ## Text2Text Generation
 
