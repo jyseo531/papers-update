@@ -2640,6 +2640,7 @@ Updated on 2026-10-11
 | Updated5 days ago | 1.98k | moondream/moondream3 | 9B | [Link](https://huggingface.co/moondream/moondream3.1-9B-A2B) |
 | Updated1 day ago | 1.41k | gittensor-model-hub/Qwen3 | 15B | [Link](https://huggingface.co/gittensor-model-hub/Qwen3.8-27B-NVFP4-RTX5090) |
 | Updated3 days ago | 1.78k | Mia-AiLab/GLM-5 | 88B | [Link](https://huggingface.co/Mia-AiLab/GLM-5.3-Flash-EXL3-4bpw-TensorFold-Ablit) |
+| Updated2 days ago | 1.05k | lightonai/LightOnOCR-3-0 | 0.9B | [Link](https://huggingface.co/lightonai/LightOnOCR-3-0.8B) |
 | 1.07M |  | meta-llama/Llama-3 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) |
 | 1.49M |  | Qwen/Qwen2-VL-7B-InstructImage-Text-to-Text | Updated19 days ago | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) |
 | 288k |  | microsoft/Phi-3 | UpdatedSep 26, 2024 | [Link](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) |
@@ -5887,6 +5888,7 @@ Updated on 2026-10-11
 | Updatedabout 23 hours ago | 54 | allenai/Bolmo-7BText | 8B | [Link](https://huggingface.co/allenai/Bolmo-7B) |
 | Updated1 day ago | 54 | Akahsizrr/fuse-1-LiteText | 6B | [Link](https://huggingface.co/Akahsizrr/fuse-1-Lite) |
 | Updated6 days ago | 53 | GAIR/LIMIText | 353B | [Link](https://huggingface.co/GAIR/LIMI) |
+| Updatedabout 7 hours ago | 53 | AxiomicLabs/GPT-X3-150MText | 0.1B | [Link](https://huggingface.co/AxiomicLabs/GPT-X3-150M) |
 | 660 | 52 | nvidia/Llama-3_3-Nemotron-Super-49B-v1Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/nvidia/Llama-3_3-Nemotron-Super-49B-v1) |
 | 22 | 52 | Qwen/Qwen3-0 | Updatedabout 7 hours ago | [Link](https://huggingface.co/Qwen/Qwen3-0.6B) |
 | Updated4 days ago | 52 | apodex/Apodex-1 | 36B | [Link](https://huggingface.co/apodex/Apodex-1.0-mini) |
