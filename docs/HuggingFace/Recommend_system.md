@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-10-11
+Updated on 2026-10-12
 
 > Generated from the Hugging Face database.
 
@@ -466,6 +466,7 @@ Updated on 2026-10-11
 | 20 | Unknown | inclusionAI/Realtime-VenusAny-to-Any | Updated34 minutes ago | [Link](https://huggingface.co/inclusionAI/Realtime-Venus) |
 | 4 | Unknown | diffbot/MiMo-V2 | Updatedabout 21 hours ago | [Link](https://huggingface.co/diffbot/MiMo-V2.6-Flash-RL-FP8KV-W4A8-2x-RTX-PRO-6000) |
 | 3 | Unknown | hustvl/Multimodal-FlowAny-to-Any | Updated3 days ago | [Link](https://huggingface.co/hustvl/Multimodal-Flow) |
+| 4 | Unknown | DavidAU/supportAny-to-Any | Updatedabout 7 hours ago | [Link](https://huggingface.co/DavidAU/support) |
 
 ## Audio Classification
 
@@ -2641,6 +2642,7 @@ Updated on 2026-10-11
 | Updated1 day ago | 1.41k | gittensor-model-hub/Qwen3 | 15B | [Link](https://huggingface.co/gittensor-model-hub/Qwen3.8-27B-NVFP4-RTX5090) |
 | Updated3 days ago | 1.78k | Mia-AiLab/GLM-5 | 88B | [Link](https://huggingface.co/Mia-AiLab/GLM-5.3-Flash-EXL3-4bpw-TensorFold-Ablit) |
 | Updated2 days ago | 1.05k | lightonai/LightOnOCR-3-0 | 0.9B | [Link](https://huggingface.co/lightonai/LightOnOCR-3-0.8B) |
+| Updatedabout 2 hours ago | 1.25k | h2oai/h2o-lightning-4bImage-Text-to-Text | 5B | [Link](https://huggingface.co/h2oai/h2o-lightning-4b) |
 | 1.07M |  | meta-llama/Llama-3 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) |
 | 1.49M |  | Qwen/Qwen2-VL-7B-InstructImage-Text-to-Text | Updated19 days ago | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) |
 | 288k |  | microsoft/Phi-3 | UpdatedSep 26, 2024 | [Link](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) |
@@ -5534,6 +5536,7 @@ Updated on 2026-10-11
 | Updated6 days ago | 630 | kakaocorp/kanana-2-30b-a3b-instructText | 31B | [Link](https://huggingface.co/kakaocorp/kanana-2-30b-a3b-instruct) |
 | Updated2 days ago | 628 | PrimeIntellect/INTELLECT-3-FP8Text | 107B | [Link](https://huggingface.co/PrimeIntellect/INTELLECT-3-FP8) |
 | Updated3 days ago | 625 | SupraLabs/SupraElegans-500kText | 612k | [Link](https://huggingface.co/SupraLabs/SupraElegans-500k) |
+| Updated5 days ago | 625 | amazon/ALoDLM-8BText | 8B | [Link](https://huggingface.co/amazon/ALoDLM-8B) |
 | Updatedabout 5 hours ago | 623 | NousResearch/nomos-1Text | 31B | [Link](https://huggingface.co/NousResearch/nomos-1) |
 | Updated3 days ago | 622 | Jiunsong/SuperDeepseek-V4-Flash-abliterated-MQ-2xDGXText | 306B | [Link](https://huggingface.co/Jiunsong/SuperDeepseek-V4-Flash-abliterated-MQ-2xDGX) |
 | Updated3 days ago | 617 | Aleph-Alpha/Kolibri-1-BF16Text | 78B | [Link](https://huggingface.co/Aleph-Alpha/Kolibri-1-BF16) |
