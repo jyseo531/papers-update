@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-10-12
+Updated on 2026-10-13
 
 > Generated from the Hugging Face database.
 
@@ -3555,6 +3555,7 @@ Updated on 2026-10-12
 | Updatedabout 1 hour ago | 19 | aisingapore/Qwen-SEA-Guard-8B-2602Image-to-Text | 770k | [Link](https://huggingface.co/aisingapore/Qwen-SEA-Guard-8B-2602) |
 | Updatedabout 12 hours ago | 19 | FireRedTeam/FireRed-OCRImage-to-Text | 2B | [Link](https://huggingface.co/FireRedTeam/FireRed-OCR) |
 | UpdatedApr 27, 2023 | 19 | microsoft/git-large-rImage-to-Text | 0.4B | [Link](https://huggingface.co/microsoft/git-large-r) |
+| 1.49k | 19 | microsoft/trocr-large-strImage-to-Text | UpdatedJan 24, 2023 | [Link](https://huggingface.co/microsoft/trocr-large-str) |
 | Updatedabout 17 hours ago | 18 | Qwen/Qwen3-VL-Reranker-2BImage-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-Reranker-2B) |
 | UpdatedMay 11, 2024 | 18 | calm-ai/donut-base-finetuned-forms-v1Image-to-Text | 0.2B | [Link](https://huggingface.co/calm-ai/donut-base-finetuned-forms-v1) |
 | UpdatedNov 19, 2025 | 18.5k | macpaw-research/blip-icon-captioningImage-to-Text | 0.2B | [Link](https://huggingface.co/macpaw-research/blip-icon-captioning) |
