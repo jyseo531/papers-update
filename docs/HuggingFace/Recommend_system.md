@@ -3310,6 +3310,7 @@ Updated on 2026-10-12
 | 44 | Unknown | lilylilith/QI_2 | Updatedabout 4 hours ago | [Link](https://huggingface.co/lilylilith/QI_2.1_AnyAngle) |
 | 25 | Unknown | akhaliq/Qwen-Image-2 | Updatedabout 3 hours ago | [Link](https://huggingface.co/akhaliq/Qwen-Image-2.1-Multiple-Angles-LoRA) |
 | 46 | Unknown | MicksHF/Qwen-Image-2 | Updatedabout 10 hours ago | [Link](https://huggingface.co/MicksHF/Qwen-Image-2.1-Anime-Fusal) |
+| 5 | Unknown | NicknickAI/QwenImage2 | Updated8 days ago | [Link](https://huggingface.co/NicknickAI/QwenImage2.1-2anime) |
 
 ## Image-to-Text
 
@@ -6085,6 +6086,7 @@ Updated on 2026-10-12
 | Updatedabout 10 hours ago | 28 | swiss-ai/Apertus-70B-2509Text | 71B | [Link](https://huggingface.co/swiss-ai/Apertus-70B-2509) |
 | Updatedabout 16 hours ago | 28 | nvidia/diffusiongemma-26B-A4B-it-NVFP4Text | 14B | [Link](https://huggingface.co/nvidia/diffusiongemma-26B-A4B-it-NVFP4) |
 | Updated4 days ago | 28.9k | bartowski/Kwaipilot_KAT-Coder-V2 | 35B | [Link](https://huggingface.co/bartowski/Kwaipilot_KAT-Coder-V2.5-Dev-GGUF) |
+| 57.4k | 28 | peasantsmith/GLM-5 | Updated2 days ago | [Link](https://huggingface.co/peasantsmith/GLM-5.3-Flash-Maya-GGUF) |
 | 256 | 27 | amd/Instella-3BText | Updated5 days ago | [Link](https://huggingface.co/amd/Instella-3B) |
 | 2 | 27 | allenai/OLMo-2-0325-32B-InstructText | Updatedabout 3 hours ago | [Link](https://huggingface.co/allenai/OLMo-2-0325-32B-Instruct) |
 | 9.01k | 27 | lmstudio-community/Mistral-Small-3 | Updated2 days ago | [Link](https://huggingface.co/lmstudio-community/Mistral-Small-3.1-24B-Instruct-2503-GGUF) |
@@ -7536,6 +7538,7 @@ Updated on 2026-10-12
 | 11 | Unknown | sensenova/Looped-DiT-B16Text-to-Image | Updated7 days ago | [Link](https://huggingface.co/sensenova/Looped-DiT-B16) |
 | 14 | Unknown | 19nbrown/qwen-image-2 | Updated2 days ago | [Link](https://huggingface.co/19nbrown/qwen-image-2.1-casual-phone-photo-style-lora) |
 | 11 | Unknown | Clybius/Kroma-QuantizationsText-to-Image | Updated2 days ago | [Link](https://huggingface.co/Clybius/Kroma-Quantizations) |
+| 20 | Unknown | AuroraAI-Research/AuroraIMG-6MText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/AuroraAI-Research/AuroraIMG-6M) |
 
 ## Text-to-Speech
 
