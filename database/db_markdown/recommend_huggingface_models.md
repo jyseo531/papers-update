@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-10-13
+Updated on 2026-10-14
 
 > Generated from the Hugging Face database.
 
@@ -377,6 +377,7 @@ Updated on 2026-10-13
 | Updated7 days ago | 1.67k | google/gemma-4-E4B-it-qat-q4_0-unquantizedAny-to-Any | 8B | [Link](https://huggingface.co/google/gemma-4-E4B-it-qat-q4_0-unquantized) |
 | Updated3 days ago | 1.25k | huihui-ai/Huihui-gemma-4-31B-it-qat-q4_0-unquantized-abliterated-GGUFAny-to-Any | 31B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-31B-it-qat-q4_0-unquantized-abliterated-GGUF) |
 | UpdatedApr 11 | 1.53k | bullerwins/Huihui-gemma-4-26B-A4B-it-abliterated-GGUFAny-to-Any | 25B | [Link](https://huggingface.co/bullerwins/Huihui-gemma-4-26B-A4B-it-abliterated-GGUF) |
+| UpdatedJul 23 | 1.09M | lmstudio-community/gemma-4-E4B-it-MLX-6bitAny-to-Any | 8B | [Link](https://huggingface.co/lmstudio-community/gemma-4-E4B-it-MLX-6bit) |
 | 2 | Unknown | guanwenhao/MonoSpeechAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/guanwenhao/MonoSpeech) |
 | 22 | Unknown | Goekdeniz-Guelmez/J | UpdatedOct 29, 2024 | [Link](https://huggingface.co/Goekdeniz-Guelmez/J.O.S.I.E.v4o) |
 | 1 | Unknown | hfcsrd/cryptographyAny-to-Any | UpdatedNov 17, 2024 | [Link](https://huggingface.co/hfcsrd/cryptography) |
@@ -3311,6 +3312,7 @@ Updated on 2026-10-13
 | 25 | Unknown | akhaliq/Qwen-Image-2 | Updatedabout 3 hours ago | [Link](https://huggingface.co/akhaliq/Qwen-Image-2.1-Multiple-Angles-LoRA) |
 | 46 | Unknown | MicksHF/Qwen-Image-2 | Updatedabout 10 hours ago | [Link](https://huggingface.co/MicksHF/Qwen-Image-2.1-Anime-Fusal) |
 | 5 | Unknown | NicknickAI/QwenImage2 | Updated8 days ago | [Link](https://huggingface.co/NicknickAI/QwenImage2.1-2anime) |
+| 10 | Unknown | toyxyz/Anima_ControlNet-LLLiteImage-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/toyxyz/Anima_ControlNet-LLLite) |
 
 ## Image-to-Text
 
@@ -4046,6 +4048,7 @@ Updated on 2026-10-13
 | 2 | Unknown | snowfluke/ppu-paddle-ocr-modelsImage-to-Text | UpdatedAug 25 | [Link](https://huggingface.co/snowfluke/ppu-paddle-ocr-models) |
 | 2 | Unknown | Kansallisarkisto/estonian-ppocrv6-mediumImage-to-Text | Updated1 day ago | [Link](https://huggingface.co/Kansallisarkisto/estonian-ppocrv6-medium) |
 | 3 | Unknown | kobimusic/copista-28mImage-to-Text | Updated4 days ago | [Link](https://huggingface.co/kobimusic/copista-28m) |
+| 14 | Unknown | datalab-to/indra-ocrImage-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/datalab-to/indra-ocr) |
 
 ## Image-to-Video
 
@@ -6352,6 +6355,7 @@ Updated on 2026-10-13
 | Updatedabout 4 hours ago | 7.63k | nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16Text | 63B | [Link](https://huggingface.co/nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16) |
 | Updated2 days ago | 7.23k | quimmedes/Deepwen-3 | 35B | [Link](https://huggingface.co/quimmedes/Deepwen-3.6) |
 | Updated1 day ago | 7.04k | jialinyyzz/humanizerText | 12B | [Link](https://huggingface.co/jialinyyzz/humanizer) |
+| Updated6 days ago | 7.82k | jialinyyzz/humanizer-GGUFText | 12B | [Link](https://huggingface.co/jialinyyzz/humanizer-GGUF) |
 | 578k | 6.11k | meta-llama/Meta-Llama-3-8BText | UpdatedSep 27, 2024 | [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B) |
 | Updatedabout 18 hours ago | 6 | apple/sage-ft-mixtral-8x7bText | 47B | [Link](https://huggingface.co/apple/sage-ft-mixtral-8x7b) |
 | Updated5 days ago | 6.94k | mistralai/Devstral-Small-2507_ggufText | 24B | [Link](https://huggingface.co/mistralai/Devstral-Small-2507_gguf) |
@@ -7701,6 +7705,7 @@ Updated on 2026-10-13
 | 4 | 27 | ResembleAI/DramaboxText-to-Speech | Updatedabout 11 hours ago | [Link](https://huggingface.co/ResembleAI/Dramabox) |
 | 152 | 23 | OmarSamir/EGTTS-V0 | Updated27 days ago | [Link](https://huggingface.co/OmarSamir/EGTTS-V0.1) |
 | Updatedabout 15 hours ago | 23 | wcy1122/MGM-Omni-TTS-2B-0927Text-to-Speech | 2B | [Link](https://huggingface.co/wcy1122/MGM-Omni-TTS-2B-0927) |
+| Updatedabout 3 hours ago | 23 | fishaudio/drama-3Text-to-Speech | 36B | [Link](https://huggingface.co/fishaudio/drama-3) |
 | 943k | 22 | myshell-ai/MeloTTS-KoreanText-to-Speech | UpdatedFeb 29, 2024 | [Link](https://huggingface.co/myshell-ai/MeloTTS-Korean) |
 | 431 | 21 | firstpixel/F5-TTS-pt-brText-to-Speech | Updated13 days ago | [Link](https://huggingface.co/firstpixel/F5-TTS-pt-br) |
 | 48 | 21 | senstella/csm-expressiva-1bText-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/senstella/csm-expressiva-1b) |
