@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-10-14
+Updated on 2026-10-15
 
 > Generated from the Hugging Face database.
 
@@ -7656,6 +7656,7 @@ Updated on 2026-10-14
 | Updated1 day ago | 72 | jaeyong2/neutts-air-hi-previewText-to-Speech | 0.6B | [Link](https://huggingface.co/jaeyong2/neutts-air-hi-preview) |
 | Updatedabout 9 hours ago | 69 | inclusionAI/Ming-omni-tts-16 | 18B | [Link](https://huggingface.co/inclusionAI/Ming-omni-tts-16.8B-A3B) |
 | Updated4 days ago | 68 | erkamk/qwen3-tts-tiny-trText-to-Speech | 0.2B | [Link](https://huggingface.co/erkamk/qwen3-tts-tiny-tr) |
+| Updatedabout 11 hours ago | 68 | akhaliq/drama-3-int4Text-to-Speech | 7B | [Link](https://huggingface.co/akhaliq/drama-3-int4) |
 | Updatedabout 2 hours ago | 67 | stepfun-ai/Step-Audio-EditXText-to-Speech | 4B | [Link](https://huggingface.co/stepfun-ai/Step-Audio-EditX) |
 | Updatedabout 11 hours ago | 66 | OpenMOSS-Team/MOSS-TTSText-to-Speech | 8B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS) |
 | 2.93k | 65 | capleaf/viXTTSText-to-Speech | UpdatedApr 7, 2024 | [Link](https://huggingface.co/capleaf/viXTTS) |
