@@ -3313,6 +3313,7 @@ Updated on 2026-10-14
 | 46 | Unknown | MicksHF/Qwen-Image-2 | Updatedabout 10 hours ago | [Link](https://huggingface.co/MicksHF/Qwen-Image-2.1-Anime-Fusal) |
 | 5 | Unknown | NicknickAI/QwenImage2 | Updated8 days ago | [Link](https://huggingface.co/NicknickAI/QwenImage2.1-2anime) |
 | 10 | Unknown | toyxyz/Anima_ControlNet-LLLiteImage-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/toyxyz/Anima_ControlNet-LLLite) |
+| 11 | Unknown | gribbliest/qwen-image-2 | Updatedabout 15 hours ago | [Link](https://huggingface.co/gribbliest/qwen-image-2.1-qma-camera-angles) |
 
 ## Image-to-Text
 
@@ -5726,6 +5727,7 @@ Updated on 2026-10-14
 | Updatedabout 4 hours ago | 138 | AvitoTech/avibeText | 8B | [Link](https://huggingface.co/AvitoTech/avibe) |
 | Updatedabout 6 hours ago | 136 | naver-hyperclovax/HyperCLOVAX-SEED-Think-14BText | 15B | [Link](https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Think-14B) |
 | 324 | 133 | moonshotai/Kimi-Dev-72BText | Updatedabout 7 hours ago | [Link](https://huggingface.co/moonshotai/Kimi-Dev-72B) |
+| Updated1 day ago | 133 | codacus/Qwen3 | 3.83M | [Link](https://huggingface.co/codacus/Qwen3.6-35B-A3B-MicroTurn-Duplex-LoRA) |
 | Updated5 days ago | 132 | microsoft/OptiMind-SFTText | 21B | [Link](https://huggingface.co/microsoft/OptiMind-SFT) |
 | Updated2 days ago | 132 | Gryphe/WorldSim-Opus-3 | 35B | [Link](https://huggingface.co/Gryphe/WorldSim-Opus-3.6-35B-A3B) |
 | Updatedabout 8 hours ago | 130 | IQuestLab/IQuest-Q1Text | 320B | [Link](https://huggingface.co/IQuestLab/IQuest-Q1) |
@@ -7544,6 +7546,7 @@ Updated on 2026-10-14
 | 14 | Unknown | 19nbrown/qwen-image-2 | Updated2 days ago | [Link](https://huggingface.co/19nbrown/qwen-image-2.1-casual-phone-photo-style-lora) |
 | 11 | Unknown | Clybius/Kroma-QuantizationsText-to-Image | Updated2 days ago | [Link](https://huggingface.co/Clybius/Kroma-Quantizations) |
 | 20 | Unknown | AuroraAI-Research/AuroraIMG-6MText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/AuroraAI-Research/AuroraIMG-6M) |
+| 30 | Unknown | lightx2v/Qwen-Image-2 | Updatedabout 13 hours ago | [Link](https://huggingface.co/lightx2v/Qwen-Image-2.1-Lightning) |
 
 ## Text-to-Speech
 
