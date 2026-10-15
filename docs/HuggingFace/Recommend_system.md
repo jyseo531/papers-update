@@ -7773,6 +7773,7 @@ Updated on 2026-10-15
 | Updated1 day ago | 9 | OpenMOSS-Team/MOSS-TTS-RealtimeText-to-Speech | 2B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Realtime) |
 | 1.31k | 9 | OpenMOSS-Team/MOSS-TTS-Local-TransformerText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Local-Transformer) |
 | Updatedabout 23 hours ago | 9 | Aratako/Irodori-TTS-600M-v3-VoiceDesignText-to-Speech | 0.6B | [Link](https://huggingface.co/Aratako/Irodori-TTS-600M-v3-VoiceDesign) |
+| 1.21k | 9 | Jmica/Drama-3-GGUFText-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/Jmica/Drama-3-GGUF) |
 | 63 | 8 | isaiahbjork/orpheus-3b-0 | Updatedabout 9 hours ago | [Link](https://huggingface.co/isaiahbjork/orpheus-3b-0.1-ft-Q4_K_M-GGUF) |
 | 17 | 8 | MYZY-AI/Muyan-TTSText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/MYZY-AI/Muyan-TTS) |
 | 31 | 8 | marianbasti/XTTS-v2-argentinian-spanishText-to-Speech | UpdatedJul 22, 2024 | [Link](https://huggingface.co/marianbasti/XTTS-v2-argentinian-spanish) |
@@ -8598,6 +8599,7 @@ Updated on 2026-10-15
 | 351 |  | pdmd2026/pdmd_2NFE_loraText-to-Video | Updated3 days ago | [Link](https://huggingface.co/pdmd2026/pdmd_2NFE_lora) |
 | 6 | Unknown | ZihanSu/Self_Gradient_Forcing_PlusText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/ZihanSu/Self_Gradient_Forcing_Plus) |
 | 4 | Unknown | Wuli-art/MiniMax-H3-TurboText-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/Wuli-art/MiniMax-H3-Turbo) |
+| 4 | Unknown | t8star/Kandinsky-ComfyText-to-Video | Updated6 days ago | [Link](https://huggingface.co/t8star/Kandinsky-Comfy) |
 
 ## Text2Text Generation
 
