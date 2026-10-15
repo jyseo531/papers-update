@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-10-15
+Updated on 2026-10-16
 
 > Generated from the Hugging Face database.
 
@@ -468,6 +468,7 @@ Updated on 2026-10-15
 | 4 | Unknown | diffbot/MiMo-V2 | Updatedabout 21 hours ago | [Link](https://huggingface.co/diffbot/MiMo-V2.6-Flash-RL-FP8KV-W4A8-2x-RTX-PRO-6000) |
 | 3 | Unknown | hustvl/Multimodal-FlowAny-to-Any | Updated3 days ago | [Link](https://huggingface.co/hustvl/Multimodal-Flow) |
 | 4 | Unknown | DavidAU/supportAny-to-Any | Updatedabout 7 hours ago | [Link](https://huggingface.co/DavidAU/support) |
+| 88 | Unknown | nvidia/PixelUMMAny-to-Any | Updatedabout 11 hours ago | [Link](https://huggingface.co/nvidia/PixelUMM) |
 
 ## Audio Classification
 
@@ -2057,6 +2058,7 @@ Updated on 2026-10-15
 | Updated2 days ago | 531 | OpenGVLab/InternVL3_5-2BImage-Text-to-Text | 2B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-2B) |
 | Updated18 days ago | 503 | prithivMLmods/Qwen3-VL-8B-Instruct-abliterated-v2Image-Text-to-Text | 9B | [Link](https://huggingface.co/prithivMLmods/Qwen3-VL-8B-Instruct-abliterated-v2) |
 | Updated3 days ago | 490 | Kwai-Keye/Keye-VL-1_5-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/Kwai-Keye/Keye-VL-1_5-8B) |
+| Updatedabout 21 hours ago | 476 | microsoft/AesCode-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/microsoft/AesCode-8B) |
 | Updated3 days ago | 468 | QuantTrio/GLM-4 | 17B | [Link](https://huggingface.co/QuantTrio/GLM-4.5V-AWQ) |
 | Updated2 days ago | 461 | nvidia/Ising-Calibration-1-35B-A3BImage-Text-to-Text | 665k | [Link](https://huggingface.co/nvidia/Ising-Calibration-1-35B-A3B) |
 | Updatedabout 10 hours ago | 454 | Qwen/Qwen3-VL-32B-Instruct-FP8Image-Text-to-Text | 33B | [Link](https://huggingface.co/Qwen/Qwen3-VL-32B-Instruct-FP8) |
@@ -2811,6 +2813,7 @@ Updated on 2026-10-15
 | 1 | 167 | InstantX/InstantIRImage-to-Image | UpdatedNov 7, 2024 | [Link](https://huggingface.co/InstantX/InstantIR) |
 | Updated1 day ago | 138 | rafacost/DreamOmni2-7 | 8B | [Link](https://huggingface.co/rafacost/DreamOmni2-7.6B-GGUF) |
 | 8.65k | 135 | lllyasviel/sd-controlnet-openposeImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-openpose) |
+| Updatedabout 1 hour ago | 134 | black-forest-labs/flux-3-image-klein-baseImage-to-Image | 6B | [Link](https://huggingface.co/black-forest-labs/flux-3-image-klein-base) |
 | 39.2k | 129 | prs-eth/marigold-depth-v1-0Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-depth-v1-0) |
 | 14.4k | 124 | Yuanshi/OminiControlImage-to-Image | UpdatedDec 10, 2024 | [Link](https://huggingface.co/Yuanshi/OminiControl) |
 | 4.36k | 119 | dx8152/Qwen-Image-Edit-2509-FusionImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/dx8152/Qwen-Image-Edit-2509-Fusion) |
@@ -2829,6 +2832,7 @@ Updated on 2026-10-15
 | 378 | 74 | instruction-tuning-sd/cartoonizerImage-to-Image | UpdatedMay 13, 2023 | [Link](https://huggingface.co/instruction-tuning-sd/cartoonizer) |
 | 95 | 65 | rsortino/ColorizeNetImage-to-Image | UpdatedJul 31, 2023 | [Link](https://huggingface.co/rsortino/ColorizeNet) |
 | 2.06k | 64 | dx8152/Qwen-Image-Edit-2509-White_to_SceneImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/dx8152/Qwen-Image-Edit-2509-White_to_Scene) |
+| 39 | 62 | black-forest-labs/flux-3-image-klein-comfyImage-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) |
 | Updatedabout 10 hours ago | 60 | stepfun-ai/NextStep-1-Large-EditImage-to-Image | 15B | [Link](https://huggingface.co/stepfun-ai/NextStep-1-Large-Edit) |
 | 1 | 56 | bytedance-research/OneRewardImage-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/bytedance-research/OneReward) |
 | 5.02k | 54 | lllyasviel/sd-controlnet-scribbleImage-to-Image | UpdatedApr 24, 2023 | [Link](https://huggingface.co/lllyasviel/sd-controlnet-scribble) |
@@ -3033,6 +3037,7 @@ Updated on 2026-10-15
 | 44 | 3 | rimochan/RUM-FLUX | Updated5 days ago | [Link](https://huggingface.co/rimochan/RUM-FLUX.2-klein-4B) |
 | 30 | 3 | BennyDaBall/PiD-1 | Updated2 days ago | [Link](https://huggingface.co/BennyDaBall/PiD-1.5-qwenimage-nvfp4-comfy) |
 | 18 | 3 | milan33/Qwen-Image-Edit-2511-INT4-DiffusersImage-to-Image | Updated5 days ago | [Link](https://huggingface.co/milan33/Qwen-Image-Edit-2511-INT4-Diffusers) |
+| Updatedabout 1 hour ago | 3.24k | black-forest-labs/flux-3-image-kleinImage-to-Image | 6B | [Link](https://huggingface.co/black-forest-labs/flux-3-image-klein) |
 | 67 | 2 | SherryXTChen/InstructCLIP-InstructPix2PixImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/SherryXTChen/InstructCLIP-InstructPix2Pix) |
 | 17 | 2 | SherryXTChen/Instruct-CLIPImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/SherryXTChen/Instruct-CLIP) |
 | 76 | 2 | VisualCloze/VisualClozePipeline-384Image-to-Image | Updatedabout 21 hours ago | [Link](https://huggingface.co/VisualCloze/VisualClozePipeline-384) |
@@ -6309,6 +6314,7 @@ Updated on 2026-10-15
 | Updated7 days ago | 12.2k | tvall43/Qwen3 | 14B | [Link](https://huggingface.co/tvall43/Qwen3.6-14B-A3B-FableVibes-GGUF) |
 | Updated2 days ago | 12.9k | dealignai/Bonsai-2-27B-1bit-CRACK-GGUFText | 27B | [Link](https://huggingface.co/dealignai/Bonsai-2-27B-1bit-CRACK-GGUF) |
 | Updated7 days ago | 12.7k | Hikari07jp/Ternary-Bonsai-2-27B-Abliterated-GGUFText | 27B | [Link](https://huggingface.co/Hikari07jp/Ternary-Bonsai-2-27B-Abliterated-GGUF) |
+| Updated2 days ago | 12.5k | AtomicChat/LFM2 | 24B | [Link](https://huggingface.co/AtomicChat/LFM2.5-24B-A2B-Uncensored-GGUF) |
 | Updatedabout 10 hours ago | 11.9k | unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUFText | 31B | [Link](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUF) |
 | Updatedabout 16 hours ago | 11.6k | unsloth/MiniMax-M2-GGUFText | 229B | [Link](https://huggingface.co/unsloth/MiniMax-M2-GGUF) |
 | Updatedabout 3 hours ago | 11 | LGAI-EXAONE/K-EXAONE-236B-A23BText | 237B | [Link](https://huggingface.co/LGAI-EXAONE/K-EXAONE-236B-A23B) |
@@ -6530,6 +6536,7 @@ Updated on 2026-10-15
 | Updated4 days ago | 1.77k | webAI-Official/TwIL-LM3-ProText | 4B | [Link](https://huggingface.co/webAI-Official/TwIL-LM3-Pro) |
 | Updated1 day ago | 1.08k | vcruz305/CYBER-FROST-3 | 33B | [Link](https://huggingface.co/vcruz305/CYBER-FROST-3.8-EXL3-SAGE-3.87bpw) |
 | Updated6 days ago | 1.51k | IFM/K2-Type-0 | 1B | [Link](https://huggingface.co/IFM/K2-Type-0.9B) |
+| Updated1 day ago | 1.05k | schizophyllume/BeeLLMText | 12M | [Link](https://huggingface.co/schizophyllume/BeeLLM) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -8600,6 +8607,7 @@ Updated on 2026-10-15
 | 6 | Unknown | ZihanSu/Self_Gradient_Forcing_PlusText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/ZihanSu/Self_Gradient_Forcing_Plus) |
 | 4 | Unknown | Wuli-art/MiniMax-H3-TurboText-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/Wuli-art/MiniMax-H3-Turbo) |
 | 4 | Unknown | t8star/Kandinsky-ComfyText-to-Video | Updated6 days ago | [Link](https://huggingface.co/t8star/Kandinsky-Comfy) |
+| 4 | Unknown | nynxz/MiniMax-H3-ExperimentsText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/nynxz/MiniMax-H3-Experiments) |
 
 ## Text2Text Generation
 
