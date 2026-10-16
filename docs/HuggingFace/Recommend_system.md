@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-10-16
+Updated on 2026-10-17
 
 > Generated from the Hugging Face database.
 
@@ -3321,6 +3321,7 @@ Updated on 2026-10-16
 | 5 | Unknown | NicknickAI/QwenImage2 | Updated8 days ago | [Link](https://huggingface.co/NicknickAI/QwenImage2.1-2anime) |
 | 10 | Unknown | toyxyz/Anima_ControlNet-LLLiteImage-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/toyxyz/Anima_ControlNet-LLLite) |
 | 11 | Unknown | gribbliest/qwen-image-2 | Updatedabout 15 hours ago | [Link](https://huggingface.co/gribbliest/qwen-image-2.1-qma-camera-angles) |
+| 9 | Unknown | ausboss/FLUX-3-Image-Klein-Outpaint-LoRAImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/ausboss/FLUX-3-Image-Klein-Outpaint-LoRA) |
 
 ## Image-to-Text
 
@@ -3825,6 +3826,7 @@ Updated on 2026-10-16
 | Updatedabout 12 hours ago | 2 | atonlee/Qota-OCRImage-to-Text | 6.69M | [Link](https://huggingface.co/atonlee/Qota-OCR) |
 | 26 | 2 | ningpp/GLM-OCR-ONNXImage-to-Text | UpdatedMar 6 | [Link](https://huggingface.co/ningpp/GLM-OCR-ONNX) |
 | 118 | 2 | PaddlePaddle/PP-FormulaNet-SImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PP-FormulaNet-S) |
+| Updated5 days ago | 2 | guangyangmusic/legato-2Image-to-Text | 0.9B | [Link](https://huggingface.co/guangyangmusic/legato-2) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -5596,6 +5598,7 @@ Updated on 2026-10-16
 | Updated1 day ago | 447 | XYZAILab/XYZ-Aquila-miniText | 35B | [Link](https://huggingface.co/XYZAILab/XYZ-Aquila-mini) |
 | Updated1 day ago | 443 | tencent/Hy3-FP8Text | 299B | [Link](https://huggingface.co/tencent/Hy3-FP8) |
 | Updatedabout 5 hours ago | 441k | EssentialAI/rnj-1-instructText | 8B | [Link](https://huggingface.co/EssentialAI/rnj-1-instruct) |
+| Updatedabout 3 hours ago | 440 | reflection/Beam-1 | 501B | [Link](https://huggingface.co/reflection/Beam-1.0-501B-A23B) |
 | Updatedabout 24 hours ago | 433 | Jiunsong/supergemma4-e4b-abliteratedText | 8B | [Link](https://huggingface.co/Jiunsong/supergemma4-e4b-abliterated) |
 | Updatedabout 2 hours ago | 429 | XHToken/Spark-X2 | 4B | [Link](https://huggingface.co/XHToken/Spark-X2.5-4B) |
 | Updatedabout 11 hours ago | 427 | Jiunsong/SuperGemma4-31b-abliterated-GGUFText | 31B | [Link](https://huggingface.co/Jiunsong/SuperGemma4-31b-abliterated-GGUF) |
@@ -5809,6 +5812,7 @@ Updated on 2026-10-16
 | 3.93k | 86 | PocketDoc/Dans-PersonalityEngine-V1 | Updated24 days ago | [Link](https://huggingface.co/PocketDoc/Dans-PersonalityEngine-V1.2.0-24b) |
 | Updatedabout 18 hours ago | 86 | Tesslate/WEBGEN-OSS-20BText | 21B | [Link](https://huggingface.co/Tesslate/WEBGEN-OSS-20B) |
 | 50.6k | 86 | IFM/K2-Horizon-7B-UnoText | Updated13 days ago | [Link](https://huggingface.co/IFM/K2-Horizon-7B-Uno) |
+| Updatedabout 8 hours ago | 86 | tencent/Hy-Memory-30B-A3BText | 30B | [Link](https://huggingface.co/tencent/Hy-Memory-30B-A3B) |
 | Updated6 days ago | 85 | AI-MO/Kimina-Prover-72BText | 73B | [Link](https://huggingface.co/AI-MO/Kimina-Prover-72B) |
 | Updatedabout 19 hours ago | 85 | tencent/Penguin-VL-2BText | 2B | [Link](https://huggingface.co/tencent/Penguin-VL-2B) |
 | Updatedabout 8 hours ago | 84 | unsloth/Laguna-S-2 | 118B | [Link](https://huggingface.co/unsloth/Laguna-S-2.1-GGUF) |
@@ -6946,6 +6950,7 @@ Updated on 2026-10-16
 | Updated2 days ago | 78 | ivanmikhnenkov/tinydit-256Text-to-Image | 0.2B | [Link](https://huggingface.co/ivanmikhnenkov/tinydit-256) |
 | Updated3 days ago | 76 | FINAL-Bench/POCKET-Zimage-CPUText-to-Image | 6B | [Link](https://huggingface.co/FINAL-Bench/POCKET-Zimage-CPU) |
 | 128 | 75 | bytedance-research/USOText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/bytedance-research/USO) |
+| Updatedabout 9 hours ago | 73 | OpenMOSS-Team/MOSS-Image-BaseText-to-Image | 5B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base) |
 | 1.96k | 71 | aquif-ai/Reupload-Magic-Wan-Image-v1 | Updated34 minutes ago | [Link](https://huggingface.co/aquif-ai/Reupload-Magic-Wan-Image-v1.0) |
 | Updated3 days ago | 70 | bench-labs/pixelmodel-v1Text-to-Image | 23.7k | [Link](https://huggingface.co/bench-labs/pixelmodel-v1) |
 | Updatedabout 18 hours ago | 69 | bench-labs/PixelModel-v3Text-to-Image | 919k | [Link](https://huggingface.co/bench-labs/PixelModel-v3) |
@@ -6962,6 +6967,7 @@ Updated on 2026-10-16
 | Updatedabout 9 hours ago | 55 | shallowdream204/BitDance-14B-64xText-to-Image | 15B | [Link](https://huggingface.co/shallowdream204/BitDance-14B-64x) |
 | 328 | 54 | briaai/FIBOText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/briaai/FIBO) |
 | 69 | 54 | NewBie-AI/NewBie-image-Exp0 | Updatedabout 11 hours ago | [Link](https://huggingface.co/NewBie-AI/NewBie-image-Exp0.1) |
+| Updatedabout 9 hours ago | 54 | OpenMOSS-Team/MOSS-Image-SFTText-to-Image | 5B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT) |
 | Updated6 days ago | 53 | Glint-Research/Anthos-1Text-to-Image | 984k | [Link](https://huggingface.co/Glint-Research/Anthos-1) |
 | 3.82k | 52 | alibaba-pai/Z-Image-Fun-Lora-DistillText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/alibaba-pai/Z-Image-Fun-Lora-Distill) |
 | 36 | 51 | THUDM/CogView4-6BText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/THUDM/CogView4-6B) |
@@ -7558,6 +7564,8 @@ Updated on 2026-10-16
 | 11 | Unknown | Clybius/Kroma-QuantizationsText-to-Image | Updated2 days ago | [Link](https://huggingface.co/Clybius/Kroma-Quantizations) |
 | 20 | Unknown | AuroraAI-Research/AuroraIMG-6MText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/AuroraAI-Research/AuroraIMG-6M) |
 | 30 | Unknown | lightx2v/Qwen-Image-2 | Updatedabout 13 hours ago | [Link](https://huggingface.co/lightx2v/Qwen-Image-2.1-Lightning) |
+| 16 | Unknown | nif0/MOSS-Image-SFT-ComfyUIText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/nif0/MOSS-Image-SFT-ComfyUI) |
+| 15 | Unknown | Abiray/MOSS-Image-SFT-INT8-convrotText-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/Abiray/MOSS-Image-SFT-INT8-convrot) |
 
 ## Text-to-Speech
 
@@ -8113,6 +8121,7 @@ Updated on 2026-10-16
 | 7 | Unknown | ArtShtorm/Shtorm-PocketTTS-RUText-to-Speech | Updatedabout 6 hours ago | [Link](https://huggingface.co/ArtShtorm/Shtorm-PocketTTS-RU) |
 | 6 | Unknown | ozcancelik/ema-lightning-onnxText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/ozcancelik/ema-lightning-onnx) |
 | 6 | Unknown | edwixx/rapido-ttsText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/edwixx/rapido-tts) |
+| 10 | Unknown | PedroMarinhoDev/Drama-3-ComfyUIText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/PedroMarinhoDev/Drama-3-ComfyUI) |
 
 ## Text-to-Video
 
