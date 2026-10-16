@@ -2067,6 +2067,7 @@ Updated on 2026-10-16
 | Updated13 days ago | 436 | SL-AI/GRaPE-2-ProImage-Text-to-Text | 28B | [Link](https://huggingface.co/SL-AI/GRaPE-2-Pro) |
 | Updated1 day ago | 422 | google/diffusiongemma-26B-A4B-itImage-Text-to-Text | 26B | [Link](https://huggingface.co/google/diffusiongemma-26B-A4B-it) |
 | 820k | 421 | liuhaotian/llava-v1 | UpdatedMay 8, 2024 | [Link](https://huggingface.co/liuhaotian/llava-v1.5-7b) |
+| Updatedabout 12 hours ago | 402 | meta-models/Muse-Spark-Open-816B-A42BImage-Text-to-Text | 822B | [Link](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B) |
 | Updatedabout 7 hours ago | 396 | thinkingmachines/InklingImage-Text-to-Text | 952B | [Link](https://huggingface.co/thinkingmachines/Inkling) |
 | 112k | 395 | HuggingFaceTB/SmolVLM-InstructImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-Instruct) |
 | 860k | 376 | Salesforce/blip2-opt-2 | UpdatedFeb 3 | [Link](https://huggingface.co/Salesforce/blip2-opt-2.7b) |
@@ -2075,6 +2076,7 @@ Updated on 2026-10-16
 | Updated4 days ago | 341 | bakrianoo/arabic-legal-documents-ocr-1 | 4B | [Link](https://huggingface.co/bakrianoo/arabic-legal-documents-ocr-1.0) |
 | Updated2 days ago | 338 | lapa-llm/lapa-v0 | 12B | [Link](https://huggingface.co/lapa-llm/lapa-v0.1.2-instruct) |
 | Updated2 days ago | 338 | internlm/Intern-Decision-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/internlm/Intern-Decision-4B) |
+| Updatedabout 11 hours ago | 331 | meta-models/Muse-Spark-Open-816B-A42B-NVFP4Image-Text-to-Text | 484B | [Link](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B-NVFP4) |
 | Updated1 day ago | 317 | ZJU-AI4H/Hulu-Med-14BImage-Text-to-Text | 15B | [Link](https://huggingface.co/ZJU-AI4H/Hulu-Med-14B) |
 | Updated1 day ago | 313 | Hcompany/Holo-3 | 5B | [Link](https://huggingface.co/Hcompany/Holo-3.1-4B) |
 | Updated2 days ago | 311 | Open-Bee/Bee-8B-RLImage-Text-to-Text | 9B | [Link](https://huggingface.co/Open-Bee/Bee-8B-RL) |
@@ -5627,6 +5629,7 @@ Updated on 2026-10-16
 | Updatedabout 7 hours ago | 325 | poolside/Laguna-M | 226B | [Link](https://huggingface.co/poolside/Laguna-M.1) |
 | Updatedabout 24 hours ago | 322 | AlexWortega/SIQ-1-35BText | 35B | [Link](https://huggingface.co/AlexWortega/SIQ-1-35B) |
 | Updated3 days ago | 321 | Jinx-org/Jinx-gpt-oss-20bText | 21B | [Link](https://huggingface.co/Jinx-org/Jinx-gpt-oss-20b) |
+| Updated4 days ago | 314 | lightonai/colgrep-agent-2BText | 3B | [Link](https://huggingface.co/lightonai/colgrep-agent-2B) |
 | Updatedabout 22 hours ago | 313 | orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUFText | 27B | [Link](https://huggingface.co/orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF) |
 | Updated3 days ago | 311 | SupraLabs/Supra-1 | 51.8M | [Link](https://huggingface.co/SupraLabs/Supra-1.5-50M-Instruct-exp) |
 | Updated3 days ago | 309 | MultiverseComputingCAI/HyperNova-60BText | 60B | [Link](https://huggingface.co/MultiverseComputingCAI/HyperNova-60B) |
@@ -7014,6 +7017,7 @@ Updated on 2026-10-16
 | 112 | 16 | KlingTeam/SVG-T2IText-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/KlingTeam/SVG-T2I) |
 | Updatedabout 4 hours ago | 16 | microsoft/Mage-Flow-BaseText-to-Image | 4B | [Link](https://huggingface.co/microsoft/Mage-Flow-Base) |
 | 138 | 16 | Cierpliwy/krea2_lineart_editText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/Cierpliwy/krea2_lineart_edit) |
+| Updatedabout 8 hours ago | 16 | Abiray/flux-3-image-klein-sd-GGUFText-to-Image | 6B | [Link](https://huggingface.co/Abiray/flux-3-image-klein-sd-GGUF) |
 |  | 15 | Shakker-Labs/AWPortrait-ZText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/Shakker-Labs/AWPortrait-Z) |
 | 45 | 15 | NucleusAI/Nucleus-ImageText-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/NucleusAI/Nucleus-Image) |
 | Updatedabout 5 hours ago | 15 | inclusionAI/LLaDA-ImageText-to-Image | 7B | [Link](https://huggingface.co/inclusionAI/LLaDA-Image) |
@@ -7616,6 +7620,7 @@ Updated on 2026-10-16
 | Updated6 days ago | 197 | neuphonic/neutts-nano-german-q8-ggufText-to-Speech | 0.2B | [Link](https://huggingface.co/neuphonic/neutts-nano-german-q8-gguf) |
 | 27.5k | 194 | suno/bark-smallText-to-Speech | UpdatedNov 10, 2023 | [Link](https://huggingface.co/suno/bark-small) |
 | Updated5 days ago | 194 | mlx-community/Breeze-TTS-2-mlxText-to-Speech | 3B | [Link](https://huggingface.co/mlx-community/Breeze-TTS-2-mlx) |
+| Updated1 day ago | 190 | fishaudio/drama-3-int4Text-to-Speech | 7B | [Link](https://huggingface.co/fishaudio/drama-3-int4) |
 | Updatedabout 16 hours ago | 187 | mlx-community/fish-audio-s2-pro-bf16Text-to-Speech | 5B | [Link](https://huggingface.co/mlx-community/fish-audio-s2-pro-bf16) |
 | Updated3 days ago | 182 | fnlp/MOSS-TTSD-v0 | 2B | [Link](https://huggingface.co/fnlp/MOSS-TTSD-v0.5) |
 | Updated6 days ago | 171 | baicai1145/s2-pro-w4a16Text-to-Speech | 5B | [Link](https://huggingface.co/baicai1145/s2-pro-w4a16) |
@@ -7807,6 +7812,7 @@ Updated on 2026-10-16
 | 46 | 7 | pymaster/VocalRenderText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/pymaster/VocalRender) |
 | 63 | 7 | OPPOer/CuteTTSText-to-Speech | Updated10 days ago | [Link](https://huggingface.co/OPPOer/CuteTTS) |
 | 47 | 7 | AKinvox/kokoro-cloning-v1Text-to-Speech | Updated11 days ago | [Link](https://huggingface.co/AKinvox/kokoro-cloning-v1) |
+| 227 | 7 | mlx-community/fish-audio-drama-3-4bitText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/mlx-community/fish-audio-drama-3-4bit) |
 | 13 | 6 | ntdgo/ttsviText-to-Speech | UpdatedApr 17, 2024 | [Link](https://huggingface.co/ntdgo/ttsvi) |
 | 29 | 6 | erax-ai/EraX-Smile-UnixSex-F5Text-to-Speech | Updatedabout 8 hours ago | [Link](https://huggingface.co/erax-ai/EraX-Smile-UnixSex-F5) |
 | 29 | 6 | ICTNLP/SLED-TTS-Streaming-LibriheavyText-to-Speech | Updatedabout 18 hours ago | [Link](https://huggingface.co/ICTNLP/SLED-TTS-Streaming-Libriheavy) |
