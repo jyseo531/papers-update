@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-10-17
+Updated on 2026-10-18
 
 > Generated from the Hugging Face database.
 
@@ -2223,6 +2223,7 @@ Updated on 2026-10-17
 | 6.92k | 53 | 5CD-AI/Vintern-1B-v3_5Image-Text-to-Text | UpdatedFeb 12 | [Link](https://huggingface.co/5CD-AI/Vintern-1B-v3_5) |
 | 88 | 53 | nanonets/Nanonets-OCR-sImage-Text-to-Text | Updatedabout 15 hours ago | [Link](https://huggingface.co/nanonets/Nanonets-OCR-s) |
 | Updatedabout 5 hours ago | 53 | prithivMLmods/Gliese-OCR-7B-Post1 | 8B | [Link](https://huggingface.co/prithivMLmods/Gliese-OCR-7B-Post1.0) |
+| Updated2 days ago | 53.2k | prism-ml/Ternary-Bonsai-2-9B-ggufImage-Text-to-Text | 1B | [Link](https://huggingface.co/prism-ml/Ternary-Bonsai-2-9B-gguf) |
 | Updated2 days ago | 52 | inference-net/ClipTagger-12bImage-Text-to-Text | 12B | [Link](https://huggingface.co/inference-net/ClipTagger-12b) |
 | Updated2 days ago | 52.6k | bartowski/google_gemma-4-26B-A4B-it-GGUFImage-Text-to-Text | 25B | [Link](https://huggingface.co/bartowski/google_gemma-4-26B-A4B-it-GGUF) |
 | 1.27k | 51 | AIDC-AI/Ovis2-8BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-8B) |
@@ -5541,6 +5542,7 @@ Updated on 2026-10-17
 | Updated2 days ago | 688 | empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUFText | 9B | [Link](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) |
 |  | 682 | deepseek-ai/DeepSeek-V3-0324Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3-0324) |
 | Updated6 days ago | 679 | manjunathshiva/gpt-oss-20b-tq3Text | 22B | [Link](https://huggingface.co/manjunathshiva/gpt-oss-20b-tq3) |
+| Updatedabout 15 hours ago | 674 | nvidia/NVIDIA-Nemotron-Labs-Dory1 | 4B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16) |
 | Updatedabout 6 hours ago | 670 | nvidia/Orchestrator-8BText | 8B | [Link](https://huggingface.co/nvidia/Orchestrator-8B) |
 | Updatedabout 19 hours ago | 668 | Rta-AILabs/Nandi-Mini-150M-InstructText | 0.2B | [Link](https://huggingface.co/Rta-AILabs/Nandi-Mini-150M-Instruct) |
 | Updated5 days ago | 663k | lmstudio-community/gpt-oss-20b-MLX-8bitText | 21B | [Link](https://huggingface.co/lmstudio-community/gpt-oss-20b-MLX-8bit) |
