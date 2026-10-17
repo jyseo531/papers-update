@@ -1,0 +1,22 @@
+.pagination-container {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.pagination-button {
+    margin: 2px;
+    padding: 5px 10px;
+    border: none;
+    background: #eee;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.pagination-button:hover {
+    background: #ccc;
+}
+
+.pagination-button:active {
+    background: #6200ea;
+    color: white;
+}
