@@ -2895,6 +2895,7 @@ Updated on 2026-10-17
 | 1 | 13 | yijunwang2/krea2-outpaintImage-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/yijunwang2/krea2-outpaint) |
 | Updatedabout 1 hour ago | 12 | gguf-org/flux2-dev-ggufImage-to-Image | 18B | [Link](https://huggingface.co/gguf-org/flux2-dev-gguf) |
 |  | 12 | lovis93/Flux-2-Multi-Angles-LoRA-v2Image-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/lovis93/Flux-2-Multi-Angles-LoRA-v2) |
+| Updatedabout 22 hours ago | 12 | unsloth/flux-3-image-klein-GGUFImage-to-Image | 6B | [Link](https://huggingface.co/unsloth/flux-3-image-klein-GGUF) |
 | 1.03k | 11 | xiaozaa/cat-tryoff-fluxImage-to-Image | UpdatedDec 6, 2024 | [Link](https://huggingface.co/xiaozaa/cat-tryoff-flux) |
 | 1.19k | 11 | prs-eth/marigold-depth-v1-1Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-depth-v1-1) |
 | 424 | 11 | camenduru/IDM-VTON-F16Image-to-Image | UpdatedApr 23, 2024 | [Link](https://huggingface.co/camenduru/IDM-VTON-F16) |
@@ -5564,6 +5565,7 @@ Updated on 2026-10-17
 | Updatedabout 1 hour ago | 596 | Multilingual-Multimodal-NLP/LoopCoder-V2Text | 8B | [Link](https://huggingface.co/Multilingual-Multimodal-NLP/LoopCoder-V2) |
 | Updated2 days ago | 595 | GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUFText | 1B | [Link](https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF) |
 | Updated1 day ago | 594 | bigatuna/Qwen3 | 9B | [Link](https://huggingface.co/bigatuna/Qwen3.5-9b-Sushi-Coder-RL-GGUF) |
+| Updated1 day ago | 594 | scratchyone/anon-1bText | 1.0B | [Link](https://huggingface.co/scratchyone/anon-1b) |
 | Updatedabout 8 hours ago | 593 | AEON-7/Qwen3 | 27B | [Link](https://huggingface.co/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored) |
 | Updated1 day ago | 580 | allenai/Olmo-3 | 32B | [Link](https://huggingface.co/allenai/Olmo-3.1-32B-Think) |
 | Updated3 days ago | 580 | amd/Instella-MoE-16B-A3B-ThinkText | 16B | [Link](https://huggingface.co/amd/Instella-MoE-16B-A3B-Think) |
@@ -6879,6 +6881,7 @@ Updated on 2026-10-17
 | 151k | 971 | Lykon/DreamShaperText-to-Image | UpdatedApr 14, 2024 | [Link](https://huggingface.co/Lykon/DreamShaper) |
 | Updated1 day ago | 941 | Granddyser/biglove-klein2Text-to-Image | 9B | [Link](https://huggingface.co/Granddyser/biglove-klein2) |
 | 249k | 892 | city96/FLUX | UpdatedAug 18, 2024 | [Link](https://huggingface.co/city96/FLUX.1-dev-gguf) |
+| Updatedabout 1 hour ago | 876 | realrebelai/FLUX-3-Image-Klein_GGUFsText-to-Image | 6B | [Link](https://huggingface.co/realrebelai/FLUX-3-Image-Klein_GGUFs) |
 | Updated4 days ago | 852 | babakarto/z-image-base-ggufText-to-Image | 6B | [Link](https://huggingface.co/babakarto/z-image-base-gguf) |
 | 101k | 791 | InstantX/InstantIDText-to-Image | UpdatedJan 22, 2024 | [Link](https://huggingface.co/InstantX/InstantID) |
 | 334k | 698 | cagliostrolab/animagine-xl-3 | UpdatedMar 18, 2024 | [Link](https://huggingface.co/cagliostrolab/animagine-xl-3.1) |
@@ -7821,6 +7824,7 @@ Updated on 2026-10-17
 | 63 | 7 | OPPOer/CuteTTSText-to-Speech | Updated10 days ago | [Link](https://huggingface.co/OPPOer/CuteTTS) |
 | 47 | 7 | AKinvox/kokoro-cloning-v1Text-to-Speech | Updated11 days ago | [Link](https://huggingface.co/AKinvox/kokoro-cloning-v1) |
 | 227 | 7 | mlx-community/fish-audio-drama-3-4bitText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/mlx-community/fish-audio-drama-3-4bit) |
+| Updated1 day ago | 7 | SupraLabs/SupraTTS-1 | 1.03M | [Link](https://huggingface.co/SupraLabs/SupraTTS-1.0-Preview) |
 | 13 | 6 | ntdgo/ttsviText-to-Speech | UpdatedApr 17, 2024 | [Link](https://huggingface.co/ntdgo/ttsvi) |
 | 29 | 6 | erax-ai/EraX-Smile-UnixSex-F5Text-to-Speech | Updatedabout 8 hours ago | [Link](https://huggingface.co/erax-ai/EraX-Smile-UnixSex-F5) |
 | 29 | 6 | ICTNLP/SLED-TTS-Streaming-LibriheavyText-to-Speech | Updatedabout 18 hours ago | [Link](https://huggingface.co/ICTNLP/SLED-TTS-Streaming-Libriheavy) |
@@ -8623,6 +8627,7 @@ Updated on 2026-10-17
 | 4 | Unknown | Wuli-art/MiniMax-H3-TurboText-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/Wuli-art/MiniMax-H3-Turbo) |
 | 4 | Unknown | t8star/Kandinsky-ComfyText-to-Video | Updated6 days ago | [Link](https://huggingface.co/t8star/Kandinsky-Comfy) |
 | 4 | Unknown | nynxz/MiniMax-H3-ExperimentsText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/nynxz/MiniMax-H3-Experiments) |
+| 164 |  | Imagineer13/H3-Anti-Burn-LoRAText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Imagineer13/H3-Anti-Burn-LoRA) |
 
 ## Text2Text Generation
 
