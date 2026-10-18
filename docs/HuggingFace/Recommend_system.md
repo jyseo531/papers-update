@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-10-18
+Updated on 2026-10-19
 
 > Generated from the Hugging Face database.
 
@@ -5682,6 +5682,7 @@ Updated on 2026-10-18
 | UpdatedSep 8, 2024 | 222k | NousResearch/Hermes-3-Llama-3 | 8B | [Link](https://huggingface.co/NousResearch/Hermes-3-Llama-3.1-8B) |
 | Updated3 days ago | 221 | ReadyArt/gemma-4-31B-it-scotoma-2Text | 31B | [Link](https://huggingface.co/ReadyArt/gemma-4-31B-it-scotoma-2) |
 | Updated2 days ago | 220 | utter-project/EuroLLM-22B-Instruct-2512Text | 23B | [Link](https://huggingface.co/utter-project/EuroLLM-22B-Instruct-2512) |
+| Updated30 days ago | 219k | OS-Software/Ternary-Bonsai-2-27B-Uncensored-Heretic-GGUFText | 27B | [Link](https://huggingface.co/OS-Software/Ternary-Bonsai-2-27B-Uncensored-Heretic-GGUF) |
 | Updatedabout 18 hours ago | 217 | google/gemma-3-270mText | 0.3B | [Link](https://huggingface.co/google/gemma-3-270m) |
 | Updated2 days ago | 216 | Simplified-Reasoning/SU-01Text | 31B | [Link](https://huggingface.co/Simplified-Reasoning/SU-01) |
 | 2.13k | 215 | XiaomiMiMo/MiMo-7B-RLText | Updatedabout 12 hours ago | [Link](https://huggingface.co/XiaomiMiMo/MiMo-7B-RL) |
@@ -7032,6 +7033,7 @@ Updated on 2026-10-18
 |  | 15 | Shakker-Labs/AWPortrait-ZText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/Shakker-Labs/AWPortrait-Z) |
 | 45 | 15 | NucleusAI/Nucleus-ImageText-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/NucleusAI/Nucleus-Image) |
 | Updatedabout 5 hours ago | 15 | inclusionAI/LLaDA-ImageText-to-Image | 7B | [Link](https://huggingface.co/inclusionAI/LLaDA-Image) |
+| 2.15k | 15 | darask0/MOSS-Image_4-step_adapter_loraText-to-Image | Updated1 day ago | [Link](https://huggingface.co/darask0/MOSS-Image_4-step_adapter_lora) |
 | 8 | 14 | mikeyandfriends/PixelWave_FLUX | Updated1 day ago | [Link](https://huggingface.co/mikeyandfriends/PixelWave_FLUX.1-schnell_04) |
 | 2.23k | 14 | mingyi456/Z-Image-Turbo-DF11-ComfyUIText-to-Image | Updated16 days ago | [Link](https://huggingface.co/mingyi456/Z-Image-Turbo-DF11-ComfyUI) |
 | 9 | 14 | Applesay123456/REDland_Aesthetic_FLUX | UpdatedNov 24 | [Link](https://huggingface.co/Applesay123456/REDland_Aesthetic_FLUX.1_v1) |
