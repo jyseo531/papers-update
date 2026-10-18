@@ -8128,6 +8128,7 @@ Updated on 2026-10-18
 | 6 | Unknown | ozcancelik/ema-lightning-onnxText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/ozcancelik/ema-lightning-onnx) |
 | 6 | Unknown | edwixx/rapido-ttsText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/edwixx/rapido-tts) |
 | 10 | Unknown | PedroMarinhoDev/Drama-3-ComfyUIText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/PedroMarinhoDev/Drama-3-ComfyUI) |
+| 9 | Unknown | ozgurguler/ahenk-tts-trText-to-Speech | Updatedabout 18 hours ago | [Link](https://huggingface.co/ozgurguler/ahenk-tts-tr) |
 
 ## Text-to-Video
 
