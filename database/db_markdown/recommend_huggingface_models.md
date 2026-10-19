@@ -378,6 +378,8 @@ Updated on 2026-10-19
 | Updated3 days ago | 1.25k | huihui-ai/Huihui-gemma-4-31B-it-qat-q4_0-unquantized-abliterated-GGUFAny-to-Any | 31B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-31B-it-qat-q4_0-unquantized-abliterated-GGUF) |
 | UpdatedApr 11 | 1.53k | bullerwins/Huihui-gemma-4-26B-A4B-it-abliterated-GGUFAny-to-Any | 25B | [Link](https://huggingface.co/bullerwins/Huihui-gemma-4-26B-A4B-it-abliterated-GGUF) |
 | UpdatedJul 23 | 1.09M | lmstudio-community/gemma-4-E4B-it-MLX-6bitAny-to-Any | 8B | [Link](https://huggingface.co/lmstudio-community/gemma-4-E4B-it-MLX-6bit) |
+| UpdatedJul 23 | 1.1M | lmstudio-community/gemma-4-E4B-it-MLX-5bitAny-to-Any | 8B | [Link](https://huggingface.co/lmstudio-community/gemma-4-E4B-it-MLX-5bit) |
+| UpdatedJul 23 | 1.11M | lmstudio-community/gemma-4-E4B-it-MLX-8bitAny-to-Any | 8B | [Link](https://huggingface.co/lmstudio-community/gemma-4-E4B-it-MLX-8bit) |
 | 2 | Unknown | guanwenhao/MonoSpeechAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/guanwenhao/MonoSpeech) |
 | 22 | Unknown | Goekdeniz-Guelmez/J | UpdatedOct 29, 2024 | [Link](https://huggingface.co/Goekdeniz-Guelmez/J.O.S.I.E.v4o) |
 | 1 | Unknown | hfcsrd/cryptographyAny-to-Any | UpdatedNov 17, 2024 | [Link](https://huggingface.co/hfcsrd/cryptography) |
@@ -2973,6 +2975,7 @@ Updated on 2026-10-19
 | 3 | 5 | yijunwang2/krea2-anypaintImage-to-Image | Updatedabout 14 hours ago | [Link](https://huggingface.co/yijunwang2/krea2-anypaint) |
 | Updated30 minutes ago | 5 | AiArtLab/zen-image-editImage-to-Image | 7B | [Link](https://huggingface.co/AiArtLab/zen-image-edit) |
 | 4 | 5 | yijunwang2/krea2-anyglesImage-to-Image | Updatedabout 19 hours ago | [Link](https://huggingface.co/yijunwang2/krea2-anygles) |
+| 111k | 5 | ml-resources/flux-3-image-klein-comfyImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/ml-resources/flux-3-image-klein-comfy) |
 | 575 | 4 | prs-eth/marigold-normals-v1-1Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/prs-eth/marigold-normals-v1-1) |
 | 1k | 4 | stanfordmimi/MedVAEImage-to-Image | UpdatedMar 31 | [Link](https://huggingface.co/stanfordmimi/MedVAE) |
 | 3 | 4 | wikeeyang/UniWorld-V1-NF4Image-to-Image | Updatedabout 3 hours ago | [Link](https://huggingface.co/wikeeyang/UniWorld-V1-NF4) |
@@ -6889,6 +6892,7 @@ Updated on 2026-10-19
 | 101k | 791 | InstantX/InstantIDText-to-Image | UpdatedJan 22, 2024 | [Link](https://huggingface.co/InstantX/InstantID) |
 | 334k | 698 | cagliostrolab/animagine-xl-3 | UpdatedMar 18, 2024 | [Link](https://huggingface.co/cagliostrolab/animagine-xl-3.1) |
 | 241k | 683 | stabilityai/stable-diffusion-2-1-baseText-to-Image | UpdatedJul 5, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-2-1-base) |
+| Updatedabout 2 hours ago | 669 | akhaliq/MOSS-Image-SFT-4-stepsText-to-Image | 5B | [Link](https://huggingface.co/akhaliq/MOSS-Image-SFT-4-steps) |
 | Updated5 days ago | 662 | Gthalmie1/moody-real-mix-v4-dpo-ggufText-to-Image | 6B | [Link](https://huggingface.co/Gthalmie1/moody-real-mix-v4-dpo-gguf) |
 | Updated7 days ago | 655 | unsloth/Z-Image-TurboText-to-Image | 6B | [Link](https://huggingface.co/unsloth/Z-Image-Turbo) |
 | Updated1 day ago | 650 | ponpoke/flux2-klein-9b-uncensored-text-encoderText-to-Image | 8B | [Link](https://huggingface.co/ponpoke/flux2-klein-9b-uncensored-text-encoder) |
