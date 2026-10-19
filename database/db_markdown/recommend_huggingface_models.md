@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-10-19
+Updated on 2026-10-20
 
 > Generated from the Hugging Face database.
 
@@ -471,6 +471,7 @@ Updated on 2026-10-19
 | 3 | Unknown | hustvl/Multimodal-FlowAny-to-Any | Updated3 days ago | [Link](https://huggingface.co/hustvl/Multimodal-Flow) |
 | 4 | Unknown | DavidAU/supportAny-to-Any | Updatedabout 7 hours ago | [Link](https://huggingface.co/DavidAU/support) |
 | 88 | Unknown | nvidia/PixelUMMAny-to-Any | Updatedabout 11 hours ago | [Link](https://huggingface.co/nvidia/PixelUMM) |
+| 3 | Unknown | Xuerui123/HYdraAny-to-Any | Updated6 days ago | [Link](https://huggingface.co/Xuerui123/HYdra) |
 
 ## Audio Classification
 
@@ -2476,6 +2477,7 @@ Updated on 2026-10-19
 | Updatedabout 12 hours ago | 10 | Trendyol/Trendyol-LLM-Asure-12BImage-Text-to-Text | 12B | [Link](https://huggingface.co/Trendyol/Trendyol-LLM-Asure-12B) |
 | Updated1 day ago | 10.1k | bartowski/Qwen_Qwen3 | 27B | [Link](https://huggingface.co/bartowski/Qwen_Qwen3.5-27B-GGUF) |
 | Updated1 day ago | 10.6k | AlicanKiraz0/Mizan-27B-Turkish-Legal-LLM-Q4_K_M-GGUFImage-Text-to-Text | 27B | [Link](https://huggingface.co/AlicanKiraz0/Mizan-27B-Turkish-Legal-LLM-Q4_K_M-GGUF) |
+| Updatedabout 15 hours ago | 10.4k | orcarouter/OrcaCyber-Nano-1 | 2B | [Link](https://huggingface.co/orcarouter/OrcaCyber-Nano-1.0) |
 | 9.49k | 9 | unsloth/gemma-3-27b-it-bnb-4bitImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-bnb-4bit) |
 | 40.9k | 9 | lmstudio-community/gemma-3-12b-it-GGUFImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/lmstudio-community/gemma-3-12b-it-GGUF) |
 | 1.89k | 9 | Mungert/gemma-3-12b-it-ggufImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/Mungert/gemma-3-12b-it-gguf) |
@@ -3064,6 +3066,7 @@ Updated on 2026-10-19
 | 27 | 2 | lrzjason/qwen_image_edit_plus_nf4Image-to-Image | Updated18 days ago | [Link](https://huggingface.co/lrzjason/qwen_image_edit_plus_nf4) |
 | 69 | 2 | chestnutlzj/UniWorld-R1-Qwen-Image-Edit-2509Image-to-Image | Updated6 days ago | [Link](https://huggingface.co/chestnutlzj/UniWorld-R1-Qwen-Image-Edit-2509) |
 | 5 | 2 | radames/stable-diffusion-2-1-unclip-small-img2imgImage-to-Image | UpdatedMay 8, 2023 | [Link](https://huggingface.co/radames/stable-diffusion-2-1-unclip-small-img2img) |
+| Updated3 days ago | 2.11k | unsloth/flux-3-image-kleinImage-to-Image | 6B | [Link](https://huggingface.co/unsloth/flux-3-image-klein) |
 | 12 | 1 | Jorgvt/CycleGAN_GTA_REALImage-to-Image | UpdatedJul 11, 2024 | [Link](https://huggingface.co/Jorgvt/CycleGAN_GTA_REAL) |
 | 41 | 1 | Estabousi/MIPHEI-vitImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/Estabousi/MIPHEI-vit) |
 | 1.54M |  | stabilityai/stable-diffusion-xl-refiner-1 | UpdatedSep 25, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0) |
@@ -3756,6 +3759,7 @@ Updated on 2026-10-19
 | 20 | 3 | factlogic/phoenix-arabic-manuscript-htrImage-to-Text | Updated1 day ago | [Link](https://huggingface.co/factlogic/phoenix-arabic-manuscript-htr) |
 | 25 | 3 | LocalDoc/azerbaijani-ocr-crnnImage-to-Text | Updated11 days ago | [Link](https://huggingface.co/LocalDoc/azerbaijani-ocr-crnn) |
 | Updatedabout 8 hours ago | 3 | UniParser/MolParser-Mobile-V2Image-to-Text | 10M | [Link](https://huggingface.co/UniParser/MolParser-Mobile-V2) |
+| 19 | 3 | abhijit2111/Pic2StoryImage-to-Text | UpdatedApr 9, 2024 | [Link](https://huggingface.co/abhijit2111/Pic2Story) |
 | 51 | 2 | microsoft/git-base-msrvtt-qaImage-to-Text | UpdatedApr 4, 2024 | [Link](https://huggingface.co/microsoft/git-base-msrvtt-qa) |
 | 32 | 2 | baseplate/vit-gpt2-image-captioningImage-to-Text | UpdatedApr 5, 2023 | [Link](https://huggingface.co/baseplate/vit-gpt2-image-captioning) |
 | 38 | 2 | sbintuitions/sarashina2-vision-14bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-14b) |
@@ -4064,6 +4068,8 @@ Updated on 2026-10-19
 | 2 | Unknown | Kansallisarkisto/estonian-ppocrv6-mediumImage-to-Text | Updated1 day ago | [Link](https://huggingface.co/Kansallisarkisto/estonian-ppocrv6-medium) |
 | 3 | Unknown | kobimusic/copista-28mImage-to-Text | Updated4 days ago | [Link](https://huggingface.co/kobimusic/copista-28m) |
 | 14 | Unknown | datalab-to/indra-ocrImage-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/datalab-to/indra-ocr) |
+| 2 | Unknown | ANZ-Innovation/OCeanpaRk-small-v1Image-to-Text | Updated7 days ago | [Link](https://huggingface.co/ANZ-Innovation/OCeanpaRk-small-v1) |
+| 1 | Unknown | Inventic-AI/Account_Number_ExtracterImage-to-Text | UpdatedFeb 12 | [Link](https://huggingface.co/Inventic-AI/Account_Number_Extracter) |
 
 ## Image-to-Video
 
@@ -6552,6 +6558,7 @@ Updated on 2026-10-19
 | Updated1 day ago | 1.08k | vcruz305/CYBER-FROST-3 | 33B | [Link](https://huggingface.co/vcruz305/CYBER-FROST-3.8-EXL3-SAGE-3.87bpw) |
 | Updated6 days ago | 1.51k | IFM/K2-Type-0 | 1B | [Link](https://huggingface.co/IFM/K2-Type-0.9B) |
 | Updated1 day ago | 1.05k | schizophyllume/BeeLLMText | 12M | [Link](https://huggingface.co/schizophyllume/BeeLLM) |
+| Updatedabout 8 hours ago | 1.6k | LibertAIDAI/DeepSeek-V4 | 105B | [Link](https://huggingface.co/LibertAIDAI/DeepSeek-V4.1-Flash-1017-EXL3-2.9bpw) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -6926,6 +6933,7 @@ Updated on 2026-10-19
 | Updatedabout 21 hours ago | 283 | neonforestmist/Clover-Image-TinyText-to-Image | 0.3B | [Link](https://huggingface.co/neonforestmist/Clover-Image-Tiny) |
 | 70.7k | 272 | nunchaku-ai/nunchaku-qwen-image-edit-2509Text-to-Image | UpdatedNov 16, 2025 | [Link](https://huggingface.co/nunchaku-ai/nunchaku-qwen-image-edit-2509) |
 | Updatedabout 15 hours ago | 266 | Danrisi/UltraReal_FineTune_AnimaText-to-Image | 2B | [Link](https://huggingface.co/Danrisi/UltraReal_FineTune_Anima) |
+| Updatedabout 2 hours ago | 264 | lodestones/KromossText-to-Image | 5B | [Link](https://huggingface.co/lodestones/Kromoss) |
 | Updatedabout 20 hours ago | 263 | KasugaiSakura/Qwen-Image-2 | 7B | [Link](https://huggingface.co/KasugaiSakura/Qwen-Image-2.1-Uncensored-GGUF) |
 | 15.3k | 254 | InstantX/FLUX | UpdatedNov 23, 2024 | [Link](https://huggingface.co/InstantX/FLUX.1-dev-IP-Adapter) |
 | Updated1 day ago | 244 | wikeeyang/Magic-Wan-Image-V2Text-to-Image | 14B | [Link](https://huggingface.co/wikeeyang/Magic-Wan-Image-V2) |
@@ -7248,6 +7256,7 @@ Updated on 2026-10-19
 | 70 | 4 | Danrisi/Samsung_Qwen2512Text-to-Image | Updated1 day ago | [Link](https://huggingface.co/Danrisi/Samsung_Qwen2512) |
 | 193 | 4 | Danrisi/Nicegirls_qwen2512Text-to-Image | Updated3 days ago | [Link](https://huggingface.co/Danrisi/Nicegirls_qwen2512) |
 | Updatedabout 22 hours ago | 4 | wikeeyang/Krea2-Turbo-HD-V1Text-to-Image | 13B | [Link](https://huggingface.co/wikeeyang/Krea2-Turbo-HD-V1) |
+| Updated3 days ago | 4.24k | realrebelai/MOSS-Image_GGUFsText-to-Image | 5B | [Link](https://huggingface.co/realrebelai/MOSS-Image_GGUFs) |
 | 2.56k | 3.84k | WarriorMama777/OrangeMixsText-to-Image | UpdatedJan 7, 2024 | [Link](https://huggingface.co/WarriorMama777/OrangeMixs) |
 | Updatedabout 2 hours ago | 3.74k | calcuis/qwen-image-ggufText-to-Image | 20B | [Link](https://huggingface.co/calcuis/qwen-image-gguf) |
 | Updatedabout 9 hours ago | 3.35k | jeremyhola/LORAsText-to-Image | 4B | [Link](https://huggingface.co/jeremyhola/LORAs) |
@@ -7577,6 +7586,7 @@ Updated on 2026-10-19
 | 30 | Unknown | lightx2v/Qwen-Image-2 | Updatedabout 13 hours ago | [Link](https://huggingface.co/lightx2v/Qwen-Image-2.1-Lightning) |
 | 16 | Unknown | nif0/MOSS-Image-SFT-ComfyUIText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/nif0/MOSS-Image-SFT-ComfyUI) |
 | 15 | Unknown | Abiray/MOSS-Image-SFT-INT8-convrotText-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/Abiray/MOSS-Image-SFT-INT8-convrot) |
+| 18 | Unknown | malcolmrey/moss-serenityText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/malcolmrey/moss-serenity) |
 
 ## Text-to-Speech
 
@@ -7742,6 +7752,7 @@ Updated on 2026-10-19
 | Updatedabout 15 hours ago | 23 | wcy1122/MGM-Omni-TTS-2B-0927Text-to-Speech | 2B | [Link](https://huggingface.co/wcy1122/MGM-Omni-TTS-2B-0927) |
 | Updatedabout 3 hours ago | 23 | fishaudio/drama-3Text-to-Speech | 36B | [Link](https://huggingface.co/fishaudio/drama-3) |
 | 943k | 22 | myshell-ai/MeloTTS-KoreanText-to-Speech | UpdatedFeb 29, 2024 | [Link](https://huggingface.co/myshell-ai/MeloTTS-Korean) |
+| Updatedabout 2 hours ago | 22 | inclusionAI/Ming-3 | 128B | [Link](https://huggingface.co/inclusionAI/Ming-3.0-audio-flash) |
 | 431 | 21 | firstpixel/F5-TTS-pt-brText-to-Speech | Updated13 days ago | [Link](https://huggingface.co/firstpixel/F5-TTS-pt-br) |
 | 48 | 21 | senstella/csm-expressiva-1bText-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/senstella/csm-expressiva-1b) |
 | Updatedabout 8 hours ago | 21 | ekwek/Soprano-1 | 79.7M | [Link](https://huggingface.co/ekwek/Soprano-1.1-80M) |
@@ -8210,6 +8221,7 @@ Updated on 2026-10-19
 |  | 20 | aptech0081/MiniMax-H3-Acc-LoRAs-ComfyUIText-to-Video | Updatedabout 17 hours ago | [Link](https://huggingface.co/aptech0081/MiniMax-H3-Acc-LoRAs-ComfyUI) |
 | 34 | 19 | FastVideo/FastMochi-diffusersText-to-Video | UpdatedDec 16, 2024 | [Link](https://huggingface.co/FastVideo/FastMochi-diffusers) |
 | Updatedabout 3 hours ago | 18 | realrebelai/FastH3-V2_GGUFsText-to-Video | 35B | [Link](https://huggingface.co/realrebelai/FastH3-V2_GGUFs) |
+| UpdatedMay 7, 2023 | 18 | vdo/text-to-video-ms-1 | 1B | [Link](https://huggingface.co/vdo/text-to-video-ms-1.7b) |
 | 3.74k | 17 | calcuis/hyvidText-to-Video | Updated24 days ago | [Link](https://huggingface.co/calcuis/hyvid) |
 | Updatedabout 1 hour ago | 15 | burakkizil/LAMP-editText-to-Video | 8B | [Link](https://huggingface.co/burakkizil/LAMP-edit) |
 | 24.6k | 15 | rockerBOO/minimax-h3-nvfp4-convrotText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/rockerBOO/minimax-h3-nvfp4-convrot) |
