@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-10-20
+Updated on 2026-10-21
 
 > Generated from the Hugging Face database.
 
@@ -3010,6 +3010,7 @@ Updated on 2026-10-20
 | 2.34k | 4 | darknight9121/FLUX | Updated5 days ago | [Link](https://huggingface.co/darknight9121/FLUX.2-klein-base-9B-bucket-uncensored) |
 | 14 | 4 | Motif-Technologies/motif-vaeImage-to-Image | Updated19 days ago | [Link](https://huggingface.co/Motif-Technologies/motif-vae) |
 | 85 | 4 | Wuli-art/Gemma-4-for-Qwen-Image-Edit-2511-Prompt-ExtendImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/Wuli-art/Gemma-4-for-Qwen-Image-Edit-2511-Prompt-Extend) |
+| Updatedabout 2 hours ago | 4 | briaai/Fibo-2 | 8B | [Link](https://huggingface.co/briaai/Fibo-2.0-edit-turbo) |
 | 91 | 3 | NoxiusEngine/VividImage-to-Image | UpdatedMay 16, 2023 | [Link](https://huggingface.co/NoxiusEngine/Vivid) |
 | 76 | 3 | modelscope/Nexus-GenImage-to-Image | Updated3 days ago | [Link](https://huggingface.co/modelscope/Nexus-Gen) |
 | 26 | 3 | JFoz/dog-cat-poseImage-to-Image | UpdatedMay 30, 2023 | [Link](https://huggingface.co/JFoz/dog-cat-pose) |
@@ -3331,6 +3332,7 @@ Updated on 2026-10-20
 | 10 | Unknown | toyxyz/Anima_ControlNet-LLLiteImage-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/toyxyz/Anima_ControlNet-LLLite) |
 | 11 | Unknown | gribbliest/qwen-image-2 | Updatedabout 15 hours ago | [Link](https://huggingface.co/gribbliest/qwen-image-2.1-qma-camera-angles) |
 | 9 | Unknown | ausboss/FLUX-3-Image-Klein-Outpaint-LoRAImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/ausboss/FLUX-3-Image-Klein-Outpaint-LoRA) |
+| 5 | Unknown | ausboss/FLUX-3-Image-Klein-Consistency-LoRAImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/ausboss/FLUX-3-Image-Klein-Consistency-LoRA) |
 
 ## Image-to-Text
 
@@ -3582,6 +3584,7 @@ Updated on 2026-10-20
 | 433 | 17 | kpyu/video-blip-opt-2 | UpdatedMay 17, 2023 | [Link](https://huggingface.co/kpyu/video-blip-opt-2.7b-ego4d) |
 | Updated15 days ago | 17.2k | scb10x/typhoon-ocr-7bImage-to-Text | 8B | [Link](https://huggingface.co/scb10x/typhoon-ocr-7b) |
 | UpdatedMar 24, 2024 | 17 | Cdywalst/donut-base-handwriting_recognitionImage-to-Text | 0.2B | [Link](https://huggingface.co/Cdywalst/donut-base-handwriting_recognition) |
+| Updated11 days ago | 17k | JustANormalTinkerer/hayai-ocr-v2 | 0.2B | [Link](https://huggingface.co/JustANormalTinkerer/hayai-ocr-v2.5-nova) |
 | 207 | 16 | bipin/image-caption-generatorImage-to-Text | UpdatedJul 27, 2024 | [Link](https://huggingface.co/bipin/image-caption-generator) |
 | UpdatedSep 20, 2024 | 16 | xeko56/simple-html-generator-tokensImage-to-Text | 0.2B | [Link](https://huggingface.co/xeko56/simple-html-generator-tokens) |
 | UpdatedOct 31, 2024 | 16.1k | royokong/e5-vImage-to-Text | 8B | [Link](https://huggingface.co/royokong/e5-v) |
@@ -6167,6 +6170,7 @@ Updated on 2026-10-20
 | Updatedabout 21 hours ago | 25 | yuxinlu1/gemma-4-12B-coder-fable5-composer2 | 12B | [Link](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) |
 | Updated6 days ago | 25.3k | empero-ai/Qwable-9B-Claude-Fable-5Text | 9B | [Link](https://huggingface.co/empero-ai/Qwable-9B-Claude-Fable-5) |
 | Updated6 minutes ago | 25 | inclusionAI/Ling-3 | 127B | [Link](https://huggingface.co/inclusionAI/Ling-3.0-flash) |
+| Updatedabout 11 hours ago | 25 | MemTensor/MemT-1 | 288B | [Link](https://huggingface.co/MemTensor/MemT-1.0-Flash) |
 | 8.8k | 24 | unsloth/QwQ-32B-GGUFText | Updatedabout 1 hour ago | [Link](https://huggingface.co/unsloth/QwQ-32B-GGUF) |
 | 90.1k | 24 | allenai/OLMo-2-0325-32BText | Updated3 days ago | [Link](https://huggingface.co/allenai/OLMo-2-0325-32B) |
 | 722 | 24 | qihoo360/Light-R1-14B-DSText | Updatedabout 9 hours ago | [Link](https://huggingface.co/qihoo360/Light-R1-14B-DS) |
@@ -7589,6 +7593,7 @@ Updated on 2026-10-20
 | 16 | Unknown | nif0/MOSS-Image-SFT-ComfyUIText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/nif0/MOSS-Image-SFT-ComfyUI) |
 | 15 | Unknown | Abiray/MOSS-Image-SFT-INT8-convrotText-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/Abiray/MOSS-Image-SFT-INT8-convrot) |
 | 18 | Unknown | malcolmrey/moss-serenityText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/malcolmrey/moss-serenity) |
+| 16 | Unknown | KBlueLeaf/MOSS-Image-FP16-fixedText-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/KBlueLeaf/MOSS-Image-FP16-fixed) |
 
 ## Text-to-Speech
 
@@ -8207,6 +8212,7 @@ Updated on 2026-10-20
 | 48 | 30 | PAIR/text2video-zero-controlnet-canny-arcaneText-to-Video | UpdatedApr 6, 2023 | [Link](https://huggingface.co/PAIR/text2video-zero-controlnet-canny-arcane) |
 |  | 27 | ZhengmingYu/DMADText-to-Video | Updatedabout 8 hours ago | [Link](https://huggingface.co/ZhengmingYu/DMAD) |
 | Updated2 days ago | 27 | FastVideo/FastVideo-FastH3-Trim-8-StepText-to-Video | 19B | [Link](https://huggingface.co/FastVideo/FastVideo-FastH3-Trim-8-Step) |
+| Updatedabout 19 hours ago | 27 | FastVideo/FastH3-QAD-v2Text-to-Video | 14B | [Link](https://huggingface.co/FastVideo/FastH3-QAD-v2) |
 | 8.22k | 26 | Searchium-ai/clip4clip-webvid150kText-to-Video | UpdatedOct 27, 2024 | [Link](https://huggingface.co/Searchium-ai/clip4clip-webvid150k) |
 | 1.96k | 26 | guoyww/animatediff-motion-adapter-v1-5-2Text-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-adapter-v1-5-2) |
 | 417 | 25 | ByteDance/ContentV-8BText-to-Video | Updatedabout 1 hour ago | [Link](https://huggingface.co/ByteDance/ContentV-8B) |
@@ -8404,6 +8410,7 @@ Updated on 2026-10-20
 | UpdatedApr 7 | 1.18k | wanabmeya/clip_vision_h | 0.1B | [Link](https://huggingface.co/wanabmeya/clip_vision_h.safetensors) |
 | UpdatedOct 28, 2025 | 1.19k | wangkanai/wan22-qx-encoders-ggufText-to-Video | 6B | [Link](https://huggingface.co/wangkanai/wan22-qx-encoders-gguf) |
 | Updated3 days ago | 1.58k | FenomAI/MiniMax-H3_GGUFsText-to-Video | 33B | [Link](https://huggingface.co/FenomAI/MiniMax-H3_GGUFs) |
+| Updatedabout 9 hours ago | 1 | TK3105/UniAVCText-to-Video | 23B | [Link](https://huggingface.co/TK3105/UniAVC) |
 | 7.59k |  | tencent/HunyuanVideoText-to-Video | UpdatedJan 21 | [Link](https://huggingface.co/tencent/HunyuanVideo) |
 | 26.6k |  | genmo/mochi-1-previewText-to-Video | UpdatedDec 18, 2024 | [Link](https://huggingface.co/genmo/mochi-1-preview) |
 | 91.5k |  | THUDM/CogVideoX-5bText-to-Video | UpdatedNov 23, 2024 | [Link](https://huggingface.co/THUDM/CogVideoX-5b) |
