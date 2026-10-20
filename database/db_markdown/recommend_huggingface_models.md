@@ -2653,6 +2653,7 @@ Updated on 2026-10-20
 | Updated3 days ago | 1.78k | Mia-AiLab/GLM-5 | 88B | [Link](https://huggingface.co/Mia-AiLab/GLM-5.3-Flash-EXL3-4bpw-TensorFold-Ablit) |
 | Updated2 days ago | 1.05k | lightonai/LightOnOCR-3-0 | 0.9B | [Link](https://huggingface.co/lightonai/LightOnOCR-3-0.8B) |
 | Updatedabout 2 hours ago | 1.25k | h2oai/h2o-lightning-4bImage-Text-to-Text | 5B | [Link](https://huggingface.co/h2oai/h2o-lightning-4b) |
+| Updatedabout 4 hours ago | 1.45k | unsloth/DeepSeek-V4 | 748B | [Link](https://huggingface.co/unsloth/DeepSeek-V4.1-Flash-1017-GGUF) |
 | 1.07M |  | meta-llama/Llama-3 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) |
 | 1.49M |  | Qwen/Qwen2-VL-7B-InstructImage-Text-to-Text | Updated19 days ago | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) |
 | 288k |  | microsoft/Phi-3 | UpdatedSep 26, 2024 | [Link](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) |
@@ -6493,6 +6494,7 @@ Updated on 2026-10-20
 | Updatedabout 21 hours ago | 2 | openbmb/MiniCPM5-2B-GGUFText | 3B | [Link](https://huggingface.co/openbmb/MiniCPM5-2B-GGUF) |
 | Updatedabout 12 hours ago | 2 | nex-agi/Nex-N2 | 35B | [Link](https://huggingface.co/nex-agi/Nex-N2.5-mini) |
 | UpdatedJul 12 | 2.81k | terrorswift/REDCELL-26B-A4B-OSINT-Cyber-APEX-GGUFText | 25B | [Link](https://huggingface.co/terrorswift/REDCELL-26B-A4B-OSINT-Cyber-APEX-GGUF) |
+| Updated3 days ago | 2.34k | ttindall/Qwen3 | 27B | [Link](https://huggingface.co/ttindall/Qwen3.8-27B-Defiance-Uncensored-MTP-GGUF) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
 | Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
@@ -8153,6 +8155,7 @@ Updated on 2026-10-20
 |:----------|:------|:-----------|:------------|:------|
 | Updated3 days ago | 919 | frtertaer/LTX-2 | 21B | [Link](https://huggingface.co/frtertaer/LTX-2.5-uncensored-v1.1-FP8) |
 | 882k | 892 | ByteDance/AnimateDiff-LightningText-to-Video | UpdatedJan 6 | [Link](https://huggingface.co/ByteDance/AnimateDiff-Lightning) |
+| Updated14 days ago | 872 | FastVideo/FastVideo-FastH3-Trim-8-Step-NVFP4Text-to-Video | 0.9B | [Link](https://huggingface.co/FastVideo/FastVideo-FastH3-Trim-8-Step-NVFP4) |
 | UpdatedJan 10 | 665 | oxide-lab/LTX-Video-0 | 5B | [Link](https://huggingface.co/oxide-lab/LTX-Video-0.9.8-2B-distilled) |
 | 16.5k | 612 | ali-vilab/text-to-video-ms-1 | UpdatedDec 1, 2023 | [Link](https://huggingface.co/ali-vilab/text-to-video-ms-1.7b) |
 | Updated2 days ago | 590 | Abiray/LTX-2 | 21B | [Link](https://huggingface.co/Abiray/LTX-2.3-22B-DISTILLED-1.1-GGUF) |
@@ -8649,6 +8652,7 @@ Updated on 2026-10-20
 | 4 | Unknown | t8star/Kandinsky-ComfyText-to-Video | Updated6 days ago | [Link](https://huggingface.co/t8star/Kandinsky-Comfy) |
 | 4 | Unknown | nynxz/MiniMax-H3-ExperimentsText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/nynxz/MiniMax-H3-Experiments) |
 | 164 |  | Imagineer13/H3-Anti-Burn-LoRAText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Imagineer13/H3-Anti-Burn-LoRA) |
+| 3 | Unknown | timmyboy26/LTX-Video-2B-0 | Updated1 day ago | [Link](https://huggingface.co/timmyboy26/LTX-Video-2B-0.9.8-distilled-QNN) |
 
 ## Text2Text Generation
 
