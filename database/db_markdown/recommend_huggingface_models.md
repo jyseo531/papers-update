@@ -91,6 +91,7 @@ Updated on 2026-10-21
 | Updatedabout 6 hours ago | 128 | KRAFTON/Raon-Speech-9B-AWQ-INT4Any-to-Any | 9B | [Link](https://huggingface.co/KRAFTON/Raon-Speech-9B-AWQ-INT4) |
 | Updated12 days ago | 127 | andrewheins55/Ming-flash-omni-2 | 104B | [Link](https://huggingface.co/andrewheins55/Ming-flash-omni-2.1) |
 | Updatedabout 2 hours ago | 117 | llmfan46/gemma-4-E2B-it-ultra-uncensored-hereticAny-to-Any | 5B | [Link](https://huggingface.co/llmfan46/gemma-4-E2B-it-ultra-uncensored-heretic) |
+| UpdatedSep 7 | 110 | OS-Software/gemma-4-12B-it-qat-q4_0-unquantized-uncensored-heretic-v3Any-to-Any | 12B | [Link](https://huggingface.co/OS-Software/gemma-4-12B-it-qat-q4_0-unquantized-uncensored-heretic-v3) |
 | UpdatedMar 28, 2025 | 109 | ToastyPigeon/Gemma-3-Starshine-12BAny-to-Any | 12B | [Link](https://huggingface.co/ToastyPigeon/Gemma-3-Starshine-12B) |
 | 2k | 102 | OpenMOSS-Team/MOVA-720pAny-to-Any | Updatedabout 11 hours ago | [Link](https://huggingface.co/OpenMOSS-Team/MOVA-720p) |
 | UpdatedMay 12 | 101k | unsloth/gemma-3-12b-it-unsloth-bnb-4bitAny-to-Any | 12B | [Link](https://huggingface.co/unsloth/gemma-3-12b-it-unsloth-bnb-4bit) |
@@ -2948,6 +2949,7 @@ Updated on 2026-10-21
 | 2 | 7 | yijunwang2/krea2-reidImage-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/yijunwang2/krea2-reid) |
 | Updatedabout 4 hours ago | 7 | microsoft/Mage-Flow-EditImage-to-Image | 4B | [Link](https://huggingface.co/microsoft/Mage-Flow-Edit) |
 | 95 | 7 | prov-gigatime/gigatime-flashImage-to-Image | Updated10 days ago | [Link](https://huggingface.co/prov-gigatime/gigatime-flash) |
+| 708 | 7 | toxicdog/FLUX | Updated5 days ago | [Link](https://huggingface.co/toxicdog/FLUX.3-Image-Klein-INT4-ConvRot-ComfyUI) |
 | 1.97k | 6 | TencentARC/t2iadapter_sketch_sd15v2Image-to-Image | UpdatedAug 1, 2023 | [Link](https://huggingface.co/TencentARC/t2iadapter_sketch_sd15v2) |
 | 443 | 6 | LPX55/FLUX | Updated6 days ago | [Link](https://huggingface.co/LPX55/FLUX.1_Kontext-Lightning) |
 | 8 | 6 | stepfun-ai/Step1X-Edit-v1p2-previewImage-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/stepfun-ai/Step1X-Edit-v1p2-preview) |
@@ -7594,6 +7596,7 @@ Updated on 2026-10-21
 | 15 | Unknown | Abiray/MOSS-Image-SFT-INT8-convrotText-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/Abiray/MOSS-Image-SFT-INT8-convrot) |
 | 18 | Unknown | malcolmrey/moss-serenityText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/malcolmrey/moss-serenity) |
 | 16 | Unknown | KBlueLeaf/MOSS-Image-FP16-fixedText-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/KBlueLeaf/MOSS-Image-FP16-fixed) |
+| 16 | Unknown | darask0/MOSS-Image-color-depth-controlText-to-Image | Updated1 day ago | [Link](https://huggingface.co/darask0/MOSS-Image-color-depth-control) |
 
 ## Text-to-Speech
 
@@ -7765,6 +7768,7 @@ Updated on 2026-10-21
 | Updatedabout 8 hours ago | 21 | ekwek/Soprano-1 | 79.7M | [Link](https://huggingface.co/ekwek/Soprano-1.1-80M) |
 | 2 | 21 | Zyphra/ZONOS2Text-to-Speech | Updatedabout 3 hours ago | [Link](https://huggingface.co/Zyphra/ZONOS2) |
 | UpdatedMay 11 | 21.8k | Serveurperso/Qwen3-TTS-GGUFText-to-Speech | 0.9B | [Link](https://huggingface.co/Serveurperso/Qwen3-TTS-GGUF) |
+| Updatedabout 14 hours ago | 21 | gradium/phonon-40m-enText-to-Speech | 50.5M | [Link](https://huggingface.co/gradium/phonon-40m-en) |
 | 857 | 20 | MBZUAI/speecht5_tts_clartts_arText-to-Speech | UpdatedFeb 23, 2024 | [Link](https://huggingface.co/MBZUAI/speecht5_tts_clartts_ar) |
 | 234 | 20 | k2-fsa/OmniVoiceText-to-Speech | Updatedabout 1 hour ago | [Link](https://huggingface.co/k2-fsa/OmniVoice) |
 | Updated7 days ago | 20 | AMAImedia/Darwin-Qwen3-TTS-1 | 2B | [Link](https://huggingface.co/AMAImedia/Darwin-Qwen3-TTS-1.7B-Cross-AWQ-INT4-NOESIS) |
@@ -7789,6 +7793,8 @@ Updated on 2026-10-21
 | Updatedabout 18 hours ago | 15 | samuel-vitorino/soproText-to-Speech | 0.2B | [Link](https://huggingface.co/samuel-vitorino/sopro) |
 | 11 | 15 | YatharthS/LuxTTSText-to-Speech | Updatedabout 5 hours ago | [Link](https://huggingface.co/YatharthS/LuxTTS) |
 | Updatedabout 4 hours ago | 15 | pnnbao-ump/VieNeu-TTS-v2Text-to-Speech | 0.3B | [Link](https://huggingface.co/pnnbao-ump/VieNeu-TTS-v2) |
+| Updatedabout 14 hours ago | 15 | gradium/phonon-31m-enText-to-Speech | 41.1M | [Link](https://huggingface.co/gradium/phonon-31m-en) |
+| Updatedabout 14 hours ago | 15 | gradium/phonon-40m-multilingualText-to-Speech | 50.5M | [Link](https://huggingface.co/gradium/phonon-40m-multilingual) |
 | 2.61k | 14 | SPRINGLab/F5-Hindi-24KHzText-to-Speech | UpdatedJan 1 | [Link](https://huggingface.co/SPRINGLab/F5-Hindi-24KHz) |
 | Updated8 days ago | 14 | niobures/OuteTTSText-to-Speech | 1B | [Link](https://huggingface.co/niobures/OuteTTS) |
 | 30 | 14 | tencent/AuKText-to-Speech | Updatedabout 11 hours ago | [Link](https://huggingface.co/tencent/AuK) |
