@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-10-21
+Updated on 2026-10-22
 
 > Generated from the Hugging Face database.
 
@@ -2506,6 +2506,7 @@ Updated on 2026-10-21
 | Updatedabout 16 hours ago | 9.12k | havenoammo/Qwen3 | 0.4B | [Link](https://huggingface.co/havenoammo/Qwen3.6-27B-MTP-UD-GGUF) |
 | Updated5 days ago | 9.7k | ggml-org/MiniCPM-V-4 | 0.8B | [Link](https://huggingface.co/ggml-org/MiniCPM-V-4.6-GGUF) |
 | Updated3 days ago | 9.72k | unsloth/Step-3 | 197B | [Link](https://huggingface.co/unsloth/Step-3.7-Flash-GGUF) |
+| Updated6 days ago | 9.5k | unsloth/Muse-Spark-Open-816B-A42B-GGUFImage-Text-to-Text | 820B | [Link](https://huggingface.co/unsloth/Muse-Spark-Open-816B-A42B-GGUF) |
 | 9.71k | 8 | lmstudio-community/gemma-3-27b-it-GGUFImage-Text-to-Text | Updatedabout 18 hours ago | [Link](https://huggingface.co/lmstudio-community/gemma-3-27b-it-GGUF) |
 | 2.95k | 8 | bartowski/google_gemma-3-4b-it-GGUFImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF) |
 | 725 | 8 | Mungert/gemma-3-4b-it-ggufImage-Text-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/Mungert/gemma-3-4b-it-gguf) |
@@ -3383,6 +3384,7 @@ Updated on 2026-10-21
 | UpdatedJan 29 | 335 | StanfordAIMI/CheXagent-2-3b-srrg-findingsImage-to-Text | 3B | [Link](https://huggingface.co/StanfordAIMI/CheXagent-2-3b-srrg-findings) |
 | Updated14 days ago | 332 | PatSnap/Hiro-MOSS-OCR-0 | 0.3B | [Link](https://huggingface.co/PatSnap/Hiro-MOSS-OCR-0.3B) |
 | UpdatedJul 18 | 323 | loay/ArabicOCR-Qwen2 | 8B | [Link](https://huggingface.co/loay/ArabicOCR-Qwen2.5-VL-7B-Vision) |
+| UpdatedMar 17 | 320 | TirGun/Qwen3-VL-4B-Thinking-GGUFImage-to-Text | 4B | [Link](https://huggingface.co/TirGun/Qwen3-VL-4B-Thinking-GGUF) |
 | UpdatedFeb 23 | 313 | mradermacher/PaddleOCR-VL-0 | 0.5B | [Link](https://huggingface.co/mradermacher/PaddleOCR-VL-0.9B-GGUF) |
 | Updatedabout 24 hours ago | 297 | mradermacher/PaddleOCR-VL-1 | 0.5B | [Link](https://huggingface.co/mradermacher/PaddleOCR-VL-1.6-GGUF) |
 | Updated4 days ago | 296 | Axway/Rukopys-OCR-4B-GGUFImage-to-Text | 4B | [Link](https://huggingface.co/Axway/Rukopys-OCR-4B-GGUF) |
@@ -5914,6 +5916,7 @@ Updated on 2026-10-21
 | Updatedabout 11 hours ago | 58 | CohereLabs/command-a-reasoning-08-2025Text | 111B | [Link](https://huggingface.co/CohereLabs/command-a-reasoning-08-2025) |
 | Updatedabout 16 hours ago | 58 | jdopensource/JoyAI-LLM-FlashText | 49B | [Link](https://huggingface.co/jdopensource/JoyAI-LLM-Flash) |
 | Updatedabout 9 hours ago | 58 | arcee-ai/Trinity-Large-ThinkingText | 399B | [Link](https://huggingface.co/arcee-ai/Trinity-Large-Thinking) |
+| Updatedabout 2 hours ago | 58 | InternScience/Sage-A1 | 36B | [Link](https://huggingface.co/InternScience/Sage-A1.5) |
 | 406 | 57 | LatitudeGames/Wayfarer-Large-70B-Llama-3 | Updated6 days ago | [Link](https://huggingface.co/LatitudeGames/Wayfarer-Large-70B-Llama-3.3) |
 | 46 | 57 | a-m-team/AM-Thinking-v1Text | Updatedabout 10 hours ago | [Link](https://huggingface.co/a-m-team/AM-Thinking-v1) |
 | Updatedabout 5 hours ago | 57 | LiquidAI/LFM2-8B-A1BText | 8B | [Link](https://huggingface.co/LiquidAI/LFM2-8B-A1B) |
@@ -6173,6 +6176,7 @@ Updated on 2026-10-21
 | Updated6 days ago | 25.3k | empero-ai/Qwable-9B-Claude-Fable-5Text | 9B | [Link](https://huggingface.co/empero-ai/Qwable-9B-Claude-Fable-5) |
 | Updated6 minutes ago | 25 | inclusionAI/Ling-3 | 127B | [Link](https://huggingface.co/inclusionAI/Ling-3.0-flash) |
 | Updatedabout 11 hours ago | 25 | MemTensor/MemT-1 | 288B | [Link](https://huggingface.co/MemTensor/MemT-1.0-Flash) |
+| Updatedabout 1 hour ago | 25 | KRAFTON/Raon-1-mini-previewText | 29B | [Link](https://huggingface.co/KRAFTON/Raon-1-mini-preview) |
 | 8.8k | 24 | unsloth/QwQ-32B-GGUFText | Updatedabout 1 hour ago | [Link](https://huggingface.co/unsloth/QwQ-32B-GGUF) |
 | 90.1k | 24 | allenai/OLMo-2-0325-32BText | Updated3 days ago | [Link](https://huggingface.co/allenai/OLMo-2-0325-32B) |
 | 722 | 24 | qihoo360/Light-R1-14B-DSText | Updatedabout 9 hours ago | [Link](https://huggingface.co/qihoo360/Light-R1-14B-DS) |
@@ -6950,6 +6954,7 @@ Updated on 2026-10-21
 | UpdatedNov 17, 2024 | 229 | advokat/AnimePro-FLUXText-to-Image | 12B | [Link](https://huggingface.co/advokat/AnimePro-FLUX) |
 | 247k | 227 | SG161222/Realistic_Vision_V5 | Updated20 days ago | [Link](https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE) |
 | 126k | 206 | RunDiffusion/Juggernaut-XL-v9Text-to-Image | UpdatedDec 11, 2024 | [Link](https://huggingface.co/RunDiffusion/Juggernaut-XL-v9) |
+| 3.74k | 196 | axiomofmind/Moss-image-nsfw-uncensored-loraText-to-Image | Updated1 day ago | [Link](https://huggingface.co/axiomofmind/Moss-image-nsfw-uncensored-lora) |
 | Updated1 day ago | 189 | RockTalk/Lance-3B-MLXText-to-Image | 6B | [Link](https://huggingface.co/RockTalk/Lance-3B-MLX) |
 | Updatedabout 6 hours ago | 183 | Qwen/Qwen-Image-2 | 7B | [Link](https://huggingface.co/Qwen/Qwen-Image-2.1) |
 | Updated4 days ago | 174 | transformerlab/ideogram-4-gguf-q4_kText-to-Image | 19B | [Link](https://huggingface.co/transformerlab/ideogram-4-gguf-q4_k) |
@@ -7691,6 +7696,7 @@ Updated on 2026-10-21
 | Updatedabout 11 hours ago | 99 | pnnbao-ump/VieNeu-TTSText-to-Speech | 0.6B | [Link](https://huggingface.co/pnnbao-ump/VieNeu-TTS) |
 | UpdatedMay 13 | 99 | wasmdashai/vits-ar-sa-huba-v2Text-to-Speech | 83M | [Link](https://huggingface.co/wasmdashai/vits-ar-sa-huba-v2) |
 | Updatedabout 9 hours ago | 99 | pnnbao-ump/VieNeu-TTS-v2-TurboText-to-Speech | 0.1B | [Link](https://huggingface.co/pnnbao-ump/VieNeu-TTS-v2-Turbo) |
+| Updated2 days ago | 95 | WhissleAI/steer-ttsText-to-Speech | 9.59M | [Link](https://huggingface.co/WhissleAI/steer-tts) |
 | Updated10 days ago | 93 | cloud0day3/antalia-1Text-to-Speech | 0.3B | [Link](https://huggingface.co/cloud0day3/antalia-1) |
 | 1.44k | 90 | kyutai/tts-1 | Updatedabout 14 hours ago | [Link](https://huggingface.co/kyutai/tts-1.6b-en_fr) |
 | UpdatedApr 18 | 90 | lex-au/Orpheus-3b-French-FT-Q8_0 | 3B | [Link](https://huggingface.co/lex-au/Orpheus-3b-French-FT-Q8_0.gguf) |
