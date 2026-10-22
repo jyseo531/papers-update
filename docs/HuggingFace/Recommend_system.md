@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-10-22
+Updated on 2026-10-23
 
 > Generated from the Hugging Face database.
 
@@ -2656,6 +2656,7 @@ Updated on 2026-10-22
 | Updated2 days ago | 1.05k | lightonai/LightOnOCR-3-0 | 0.9B | [Link](https://huggingface.co/lightonai/LightOnOCR-3-0.8B) |
 | Updatedabout 2 hours ago | 1.25k | h2oai/h2o-lightning-4bImage-Text-to-Text | 5B | [Link](https://huggingface.co/h2oai/h2o-lightning-4b) |
 | Updatedabout 4 hours ago | 1.45k | unsloth/DeepSeek-V4 | 748B | [Link](https://huggingface.co/unsloth/DeepSeek-V4.1-Flash-1017-GGUF) |
+| Updatedabout 21 hours ago | 1.8k | nvidia/Nemotron-3 | 0.6B | [Link](https://huggingface.co/nvidia/Nemotron-3.5-Parse) |
 | 1.07M |  | meta-llama/Llama-3 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) |
 | 1.49M |  | Qwen/Qwen2-VL-7B-InstructImage-Text-to-Text | Updated19 days ago | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) |
 | 288k |  | microsoft/Phi-3 | UpdatedSep 26, 2024 | [Link](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) |
@@ -3337,6 +3338,7 @@ Updated on 2026-10-22
 | 11 | Unknown | gribbliest/qwen-image-2 | Updatedabout 15 hours ago | [Link](https://huggingface.co/gribbliest/qwen-image-2.1-qma-camera-angles) |
 | 9 | Unknown | ausboss/FLUX-3-Image-Klein-Outpaint-LoRAImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/ausboss/FLUX-3-Image-Klein-Outpaint-LoRA) |
 | 5 | Unknown | ausboss/FLUX-3-Image-Klein-Consistency-LoRAImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/ausboss/FLUX-3-Image-Klein-Consistency-LoRA) |
+| 10 | Unknown | chinoll/Moss-Image-EditImage-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/chinoll/Moss-Image-Edit) |
 
 ## Image-to-Text
 
@@ -5944,6 +5946,7 @@ Updated on 2026-10-22
 | Updatedabout 9 hours ago | 51 | sarvamai/sarvam-30bText | 32B | [Link](https://huggingface.co/sarvamai/sarvam-30b) |
 | Updatedabout 8 hours ago | 51 | badtheorylabs/BTL-4Text | 35B | [Link](https://huggingface.co/badtheorylabs/BTL-4) |
 | Updatedabout 6 hours ago | 51 | IFM/K2-Horizon-MoVA-36B-A4B-GGUFText | 37B | [Link](https://huggingface.co/IFM/K2-Horizon-MoVA-36B-A4B-GGUF) |
+| Updatedabout 7 hours ago | 51 | HuggingFaceBio/Carbon-XText | 15B | [Link](https://huggingface.co/HuggingFaceBio/Carbon-X) |
 | 1.45k | 50 | ALLaM-AI/ALLaM-7B-Instruct-previewText | Updated8 days ago | [Link](https://huggingface.co/ALLaM-AI/ALLaM-7B-Instruct-preview) |
 | 5 | 50 | microsoft/Phi-4-mini-reasoningText | Updatedabout 11 hours ago | [Link](https://huggingface.co/microsoft/Phi-4-mini-reasoning) |
 | Updated1 day ago | 50 | cerebras/Kimi-Linear-REAP-35B-A3B-InstructText | 35B | [Link](https://huggingface.co/cerebras/Kimi-Linear-REAP-35B-A3B-Instruct) |
@@ -8676,6 +8679,7 @@ Updated on 2026-10-22
 | 4 | Unknown | nynxz/MiniMax-H3-ExperimentsText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/nynxz/MiniMax-H3-Experiments) |
 | 164 |  | Imagineer13/H3-Anti-Burn-LoRAText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Imagineer13/H3-Anti-Burn-LoRA) |
 | 3 | Unknown | timmyboy26/LTX-Video-2B-0 | Updated1 day ago | [Link](https://huggingface.co/timmyboy26/LTX-Video-2B-0.9.8-distilled-QNN) |
+| 5 | Unknown | nynxz/MiniMax-H3-PTD-LoRAsText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/nynxz/MiniMax-H3-PTD-LoRAs) |
 
 ## Text2Text Generation
 
