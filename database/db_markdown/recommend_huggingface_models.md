@@ -2705,6 +2705,7 @@ Updated on 2026-10-22
 | 248 | Unknown | ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRotImage-Text-to-Text | Updated37 minutes ago | [Link](https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot) |
 | 56 | Unknown | PocketAiHub/Qwen3 | Updatedabout 11 hours ago | [Link](https://huggingface.co/PocketAiHub/Qwen3.8-27B-Abliterated-MLX) |
 | 62 | Unknown | drowzeys/DeepSeek-V4 | Updatedabout 10 hours ago | [Link](https://huggingface.co/drowzeys/DeepSeek-V4.1-Flash-Abliterated-Cybersecurity-Unleashed) |
+| 69 | Unknown | drowzeys/keys-DeepSeek-V4 | Updated1 day ago | [Link](https://huggingface.co/drowzeys/keys-DeepSeek-V4.1-Flash-1017-Abliterated) |
 
 ## Image-to-3D
 
@@ -5664,6 +5665,7 @@ Updated on 2026-10-22
 | Updatedabout 16 hours ago | 289 | webAI-Official/TwIL-LM3Text | 3B | [Link](https://huggingface.co/webAI-Official/TwIL-LM3) |
 | Updated2 days ago | 288 | janhq/Jan-v3-4B-base-instructText | 4B | [Link](https://huggingface.co/janhq/Jan-v3-4B-base-instruct) |
 | Updated3 days ago | 287 | PrimeIntellect/INTELLECT-3 | 107B | [Link](https://huggingface.co/PrimeIntellect/INTELLECT-3.1) |
+| Updatedabout 14 hours ago | 286 | RecursiveSI/flintText | 40B | [Link](https://huggingface.co/RecursiveSI/flint) |
 | Updatedabout 9 hours ago | 285 | prism-ml/Ternary-Bonsai-2-27B-ggufText | 27B | [Link](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) |
 | Updated8 days ago | 283 | perplexity-ai/browsesafeText | 31B | [Link](https://huggingface.co/perplexity-ai/browsesafe) |
 | Updatedabout 11 hours ago | 278 | AIDC-AI/Marco-Mini-InstructText | 17B | [Link](https://huggingface.co/AIDC-AI/Marco-Mini-Instruct) |
@@ -6354,6 +6356,7 @@ Updated on 2026-10-22
 | Updated3 days ago | 11k | satgeze/Hy3-1M-GGUFText | 295B | [Link](https://huggingface.co/satgeze/Hy3-1M-GGUF) |
 | UpdatedAug 15, 2025 | 11.9k | DeepHat/DeepHat-V1-7BText | 8B | [Link](https://huggingface.co/DeepHat/DeepHat-V1-7B) |
 | Updated3 days ago | 11.8k | sudoingx/Ternary-Bonsai-2-27B-PTQ1_0-MTP-GGUFText | 27B | [Link](https://huggingface.co/sudoingx/Ternary-Bonsai-2-27B-PTQ1_0-MTP-GGUF) |
+| Updatedabout 4 hours ago | 11 | unsloth/flint-GGUFText | 40B | [Link](https://huggingface.co/unsloth/flint-GGUF) |
 | Updatedabout 1 hour ago | 10.3k | unsloth/gemma-3-270m-it-GGUFText | 0.3B | [Link](https://huggingface.co/unsloth/gemma-3-270m-it-GGUF) |
 | Updated1 day ago | 10 | FINAL-Bench/Darwin-35B-A3B-OpusText | 36B | [Link](https://huggingface.co/FINAL-Bench/Darwin-35B-A3B-Opus) |
 | Updatedabout 20 hours ago | 10 | lordx64/Qwable-v1Text | 36B | [Link](https://huggingface.co/lordx64/Qwable-v1) |
@@ -7625,6 +7628,7 @@ Updated on 2026-10-22
 | Updated5 days ago | 578 | kova-ai/kova-tts-1Text-to-Speech | 1B | [Link](https://huggingface.co/kova-ai/kova-tts-1) |
 | 4.86k | 570 | fishaudio/s1-miniText-to-Speech | Updatedabout 15 hours ago | [Link](https://huggingface.co/fishaudio/s1-mini) |
 | Updatedabout 9 hours ago | 515 | bosonai/higgs-audio-v2-generation-3B-baseText-to-Speech | 6B | [Link](https://huggingface.co/bosonai/higgs-audio-v2-generation-3B-base) |
+| Updatedabout 17 hours ago | 502 | gradium/phonon-40m-frText-to-Speech | 50.5M | [Link](https://huggingface.co/gradium/phonon-40m-fr) |
 | Updatedabout 9 hours ago | 499 | inclusionAI/Ming-omni-tts-0 | 2B | [Link](https://huggingface.co/inclusionAI/Ming-omni-tts-0.5B) |
 | 11.8k | 480 | fishaudio/fish-speech-1 | UpdatedDec 3, 2024 | [Link](https://huggingface.co/fishaudio/fish-speech-1.5) |
 | 5.67k | 478 | nari-labs/Dia-1 | Updatedabout 9 hours ago | [Link](https://huggingface.co/nari-labs/Dia-1.6B) |
