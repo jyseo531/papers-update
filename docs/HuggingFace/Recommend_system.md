@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-10-23
+Updated on 2026-10-24
 
 > Generated from the Hugging Face database.
 
@@ -3340,6 +3340,10 @@ Updated on 2026-10-23
 | 9 | Unknown | ausboss/FLUX-3-Image-Klein-Outpaint-LoRAImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/ausboss/FLUX-3-Image-Klein-Outpaint-LoRA) |
 | 5 | Unknown | ausboss/FLUX-3-Image-Klein-Consistency-LoRAImage-to-Image | Updated4 days ago | [Link](https://huggingface.co/ausboss/FLUX-3-Image-Klein-Consistency-LoRA) |
 | 10 | Unknown | chinoll/Moss-Image-EditImage-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/chinoll/Moss-Image-Edit) |
+| 7 | Unknown | sorryhyun/moss-image-colorizeImage-to-Image | Updated1 day ago | [Link](https://huggingface.co/sorryhyun/moss-image-colorize) |
+| 7 | Unknown | PedroMarinhoDev/Moss-Image-Edit-ComfyUIImage-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/PedroMarinhoDev/Moss-Image-Edit-ComfyUI) |
+| 6 | Unknown | aptech0081/H3-Character-Sheet-CreatorImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/aptech0081/H3-Character-Sheet-Creator) |
+| 6 | Unknown | NidAll/Fibo-2 | Updated3 days ago | [Link](https://huggingface.co/NidAll/Fibo-2.0-Edit-Turbo-INT8-ConvRot) |
 
 ## Image-to-Text
 
@@ -7609,6 +7613,7 @@ Updated on 2026-10-23
 | 18 | Unknown | malcolmrey/moss-serenityText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/malcolmrey/moss-serenity) |
 | 16 | Unknown | KBlueLeaf/MOSS-Image-FP16-fixedText-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/KBlueLeaf/MOSS-Image-FP16-fixed) |
 | 16 | Unknown | darask0/MOSS-Image-color-depth-controlText-to-Image | Updated1 day ago | [Link](https://huggingface.co/darask0/MOSS-Image-color-depth-control) |
+| 46 | Unknown | comfyanonymous/MOSS_image_MAX_ULTRA_hires_lora_testText-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/comfyanonymous/MOSS_image_MAX_ULTRA_hires_lora_test) |
 
 ## Text-to-Speech
 
@@ -7739,6 +7744,7 @@ Updated on 2026-10-23
 | Updatedabout 8 hours ago | 51 | neuphonic/neutts-air-q8-ggufText-to-Speech | 0.7B | [Link](https://huggingface.co/neuphonic/neutts-air-q8-gguf) |
 | Updated3 days ago | 50 | nineninesix/kani-tts-400m-koText-to-Speech | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-400m-ko) |
 | 38.3k | 48 | SWivid/E2-TTSText-to-Speech | UpdatedMar 12 | [Link](https://huggingface.co/SWivid/E2-TTS) |
+| Updatedabout 21 hours ago | 47 | AuroraAI-Research/AuroraTTS-100KText-to-Speech | 95.6k | [Link](https://huggingface.co/AuroraAI-Research/AuroraTTS-100K) |
 | 47 | 46 | owensong/Inflect-Micro-v2Text-to-Speech | Updatedabout 5 hours ago | [Link](https://huggingface.co/owensong/Inflect-Micro-v2) |
 | 73.1k | 45 | onnx-community/Kokoro-82M-v1 | Updated17 days ago | [Link](https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX) |
 | 482 | 44 | nvidia/magpie_tts_multilingual_357mText-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/nvidia/magpie_tts_multilingual_357m) |
@@ -8683,6 +8689,7 @@ Updated on 2026-10-23
 | 164 |  | Imagineer13/H3-Anti-Burn-LoRAText-to-Video | Updated2 days ago | [Link](https://huggingface.co/Imagineer13/H3-Anti-Burn-LoRA) |
 | 3 | Unknown | timmyboy26/LTX-Video-2B-0 | Updated1 day ago | [Link](https://huggingface.co/timmyboy26/LTX-Video-2B-0.9.8-distilled-QNN) |
 | 5 | Unknown | nynxz/MiniMax-H3-PTD-LoRAsText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/nynxz/MiniMax-H3-PTD-LoRAs) |
+| 13 | Unknown | tencent/Hy-NomasText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/tencent/Hy-Nomas) |
 
 ## Text2Text Generation
 
