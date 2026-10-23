@@ -2076,6 +2076,7 @@ Updated on 2026-10-23
 | 112k | 395 | HuggingFaceTB/SmolVLM-InstructImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-Instruct) |
 | 860k | 376 | Salesforce/blip2-opt-2 | UpdatedFeb 3 | [Link](https://huggingface.co/Salesforce/blip2-opt-2.7b) |
 | Updatedabout 7 hours ago | 365 | stepfun-ai/step3Image-Text-to-Text | 321B | [Link](https://huggingface.co/stepfun-ai/step3) |
+| Updated30 minutes ago | 357 | MiniMaxAI/MiniMax-M3 | 220B | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash) |
 | Updatedabout 2 hours ago | 349 | moondream/moondream3-previewImage-Text-to-Text | 9B | [Link](https://huggingface.co/moondream/moondream3-preview) |
 | Updated4 days ago | 341 | bakrianoo/arabic-legal-documents-ocr-1 | 4B | [Link](https://huggingface.co/bakrianoo/arabic-legal-documents-ocr-1.0) |
 | Updated2 days ago | 338 | lapa-llm/lapa-v0 | 12B | [Link](https://huggingface.co/lapa-llm/lapa-v0.1.2-instruct) |
@@ -8172,6 +8173,7 @@ Updated on 2026-10-23
 | 6 | Unknown | edwixx/rapido-ttsText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/edwixx/rapido-tts) |
 | 10 | Unknown | PedroMarinhoDev/Drama-3-ComfyUIText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/PedroMarinhoDev/Drama-3-ComfyUI) |
 | 9 | Unknown | ozgurguler/ahenk-tts-trText-to-Speech | Updatedabout 18 hours ago | [Link](https://huggingface.co/ozgurguler/ahenk-tts-tr) |
+| 17 | Unknown | alicangunduz/nefes-0 | Updatedabout 18 hours ago | [Link](https://huggingface.co/alicangunduz/nefes-0.5) |
 
 ## Text-to-Video
 
@@ -8180,6 +8182,7 @@ Updated on 2026-10-23
 | Updated3 days ago | 919 | frtertaer/LTX-2 | 21B | [Link](https://huggingface.co/frtertaer/LTX-2.5-uncensored-v1.1-FP8) |
 | 882k | 892 | ByteDance/AnimateDiff-LightningText-to-Video | UpdatedJan 6 | [Link](https://huggingface.co/ByteDance/AnimateDiff-Lightning) |
 | Updated14 days ago | 872 | FastVideo/FastVideo-FastH3-Trim-8-Step-NVFP4Text-to-Video | 0.9B | [Link](https://huggingface.co/FastVideo/FastVideo-FastH3-Trim-8-Step-NVFP4) |
+| Updated2 days ago | 773 | Abiray/FastH3-Omni-GGUFText-to-Video | 22B | [Link](https://huggingface.co/Abiray/FastH3-Omni-GGUF) |
 | UpdatedJan 10 | 665 | oxide-lab/LTX-Video-0 | 5B | [Link](https://huggingface.co/oxide-lab/LTX-Video-0.9.8-2B-distilled) |
 | 16.5k | 612 | ali-vilab/text-to-video-ms-1 | UpdatedDec 1, 2023 | [Link](https://huggingface.co/ali-vilab/text-to-video-ms-1.7b) |
 | Updated2 days ago | 590 | Abiray/LTX-2 | 21B | [Link](https://huggingface.co/Abiray/LTX-2.3-22B-DISTILLED-1.1-GGUF) |
