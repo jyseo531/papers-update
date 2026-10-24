@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-10-24
+Updated on 2026-10-25
 
 > Generated from the Hugging Face database.
 
@@ -381,6 +381,7 @@ Updated on 2026-10-24
 | UpdatedJul 23 | 1.09M | lmstudio-community/gemma-4-E4B-it-MLX-6bitAny-to-Any | 8B | [Link](https://huggingface.co/lmstudio-community/gemma-4-E4B-it-MLX-6bit) |
 | UpdatedJul 23 | 1.1M | lmstudio-community/gemma-4-E4B-it-MLX-5bitAny-to-Any | 8B | [Link](https://huggingface.co/lmstudio-community/gemma-4-E4B-it-MLX-5bit) |
 | UpdatedJul 23 | 1.11M | lmstudio-community/gemma-4-E4B-it-MLX-8bitAny-to-Any | 8B | [Link](https://huggingface.co/lmstudio-community/gemma-4-E4B-it-MLX-8bit) |
+| UpdatedSep 7 | 1.68k | OS-Software/gemma-4-12B-it-qat-q4_0-uncensored-heretic-v3-GGUFAny-to-Any | 12B | [Link](https://huggingface.co/OS-Software/gemma-4-12B-it-qat-q4_0-uncensored-heretic-v3-GGUF) |
 | 2 | Unknown | guanwenhao/MonoSpeechAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/guanwenhao/MonoSpeech) |
 | 22 | Unknown | Goekdeniz-Guelmez/J | UpdatedOct 29, 2024 | [Link](https://huggingface.co/Goekdeniz-Guelmez/J.O.S.I.E.v4o) |
 | 1 | Unknown | hfcsrd/cryptographyAny-to-Any | UpdatedNov 17, 2024 | [Link](https://huggingface.co/hfcsrd/cryptography) |
@@ -2925,6 +2926,7 @@ Updated on 2026-10-24
 | 36 | 10 | nvidia/ChronoEdit-14B-DiffusersImage-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/nvidia/ChronoEdit-14B-Diffusers) |
 | 24 | 10 | tarn59/apply_texture_qwen_image_edit_2509Image-to-Image | Updated10 minutes ago | [Link](https://huggingface.co/tarn59/apply_texture_qwen_image_edit_2509) |
 |  | 10 | fal/flux-2-klein-4B-background-remove-loraImage-to-Image | Updated2 days ago | [Link](https://huggingface.co/fal/flux-2-klein-4B-background-remove-lora) |
+| 138 | 10 | linoyts/Qwen-Image-2 | Updatedabout 21 hours ago | [Link](https://huggingface.co/linoyts/Qwen-Image-2.1-DMD2-2steps) |
 | 11 | 9 | keras-io/conditional-ganImage-to-Image | UpdatedJul 5, 2024 | [Link](https://huggingface.co/keras-io/conditional-gan) |
 | 10.5k | 9 | hafsa000/interior-designImage-to-Image | UpdatedMay 16, 2024 | [Link](https://huggingface.co/hafsa000/interior-design) |
 |  | 9 | ilkerzgi/Overlay-Kontext-Dev-LoRAImage-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/ilkerzgi/Overlay-Kontext-Dev-LoRA) |
@@ -3345,6 +3347,7 @@ Updated on 2026-10-24
 | 7 | Unknown | PedroMarinhoDev/Moss-Image-Edit-ComfyUIImage-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/PedroMarinhoDev/Moss-Image-Edit-ComfyUI) |
 | 6 | Unknown | aptech0081/H3-Character-Sheet-CreatorImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/aptech0081/H3-Character-Sheet-Creator) |
 | 6 | Unknown | NidAll/Fibo-2 | Updated3 days ago | [Link](https://huggingface.co/NidAll/Fibo-2.0-Edit-Turbo-INT8-ConvRot) |
+| 7 | Unknown | sorryhyun/MOSS-I2I-LORAsImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/sorryhyun/MOSS-I2I-LORAs) |
 
 ## Image-to-Text
 
@@ -4087,6 +4090,7 @@ Updated on 2026-10-24
 | 14 | Unknown | datalab-to/indra-ocrImage-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/datalab-to/indra-ocr) |
 | 2 | Unknown | ANZ-Innovation/OCeanpaRk-small-v1Image-to-Text | Updated7 days ago | [Link](https://huggingface.co/ANZ-Innovation/OCeanpaRk-small-v1) |
 | 1 | Unknown | Inventic-AI/Account_Number_ExtracterImage-to-Text | UpdatedFeb 12 | [Link](https://huggingface.co/Inventic-AI/Account_Number_Extracter) |
+| 3 | Unknown | Wall3/Yara_Captcha_SolverImage-to-Text | UpdatedJul 12 | [Link](https://huggingface.co/Wall3/Yara_Captcha_Solver) |
 
 ## Image-to-Video
 
@@ -6481,6 +6485,7 @@ Updated on 2026-10-24
 | Updatedabout 5 hours ago | 3.06k | poolside/Laguna-S-2 | 118B | [Link](https://huggingface.co/poolside/Laguna-S-2.1) |
 | Updatedabout 1 hour ago | 3.48k | huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUFText | 284B | [Link](https://huggingface.co/huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF) |
 | Updated5 days ago | 3.81k | ukisai/Swift-Bonsai-2-GGUFText | 27B | [Link](https://huggingface.co/ukisai/Swift-Bonsai-2-GGUF) |
+| Updatedabout 10 hours ago | 3 | orcarouter/DeepSeek-V4 | 748B | [Link](https://huggingface.co/orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF) |
 | Updated6 days ago | 2.04k | marcelbinz/Llama-3 | 71B | [Link](https://huggingface.co/marcelbinz/Llama-3.1-Centaur-70B) |
 | Updatedabout 2 hours ago | 2.66k | unsloth/Qwen3-235B-A22B-Instruct-2507-GGUFText | 235B | [Link](https://huggingface.co/unsloth/Qwen3-235B-A22B-Instruct-2507-GGUF) |
 | Updatedabout 10 hours ago | 2 | Qwen/Qwen3-30B-A3B-Thinking-2507Text | 31B | [Link](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507) |
