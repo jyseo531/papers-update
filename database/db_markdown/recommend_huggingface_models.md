@@ -2110,6 +2110,7 @@ Updated on 2026-10-24
 | Updatedabout 14 hours ago | 228 | CohereLabs/command-a-vision-07-2025Image-Text-to-Text | 112B | [Link](https://huggingface.co/CohereLabs/command-a-vision-07-2025) |
 | Updatedabout 2 hours ago | 226 | FINAL-Bench/Darwin-180B-RSIImage-Text-to-Text | 180B | [Link](https://huggingface.co/FINAL-Bench/Darwin-180B-RSI) |
 | Updatedabout 3 hours ago | 225 | lightonai/LightOnOCR-2-1BImage-Text-to-Text | 1B | [Link](https://huggingface.co/lightonai/LightOnOCR-2-1B) |
+| Updated3 days ago | 224 | ATH-MaaS/OvisOCR3Image-Text-to-Text | 0.9B | [Link](https://huggingface.co/ATH-MaaS/OvisOCR3) |
 | Updatedabout 9 hours ago | 223 | ukisai/Swift-Qwen3 | 28B | [Link](https://huggingface.co/ukisai/Swift-Qwen3.8-27b) |
 | Updatedabout 21 hours ago | 220 | magibu/magibu-11b-v0 | 12B | [Link](https://huggingface.co/magibu/magibu-11b-v0.8) |
 | Updated3 days ago | 218 | OctoMed/OctoMed-7BImage-Text-to-Text | 8B | [Link](https://huggingface.co/OctoMed/OctoMed-7B) |
@@ -5901,6 +5902,7 @@ Updated on 2026-10-24
 | Updated1 day ago | 64 | Skywork/MindLink-72B-0801Text | 73B | [Link](https://huggingface.co/Skywork/MindLink-72B-0801) |
 | Updatedabout 17 hours ago | 64 | pipecat-ai/phonellm-alpha-1Text | 32B | [Link](https://huggingface.co/pipecat-ai/phonellm-alpha-1) |
 | Updatedabout 12 hours ago | 64 | incoai/GLM-5 | 1B | [Link](https://huggingface.co/incoai/GLM-5.3-Flash-DFlash2) |
+| Updatedabout 5 hours ago | 64 | ISTA-DASLab/DeepSeek-V4 | 197B | [Link](https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF) |
 | 224 | 63 | GSAI-ML/LLaDA-8B-InstructText | Updatedabout 23 hours ago | [Link](https://huggingface.co/GSAI-ML/LLaDA-8B-Instruct) |
 | 251 | 63 | ByteDance-Seed/Seed-Coder-8B-ReasoningText | Updatedabout 6 hours ago | [Link](https://huggingface.co/ByteDance-Seed/Seed-Coder-8B-Reasoning) |
 | Updated1 day ago | 62 | Tesslate/UIGEN-X-4B-0729Text | 4B | [Link](https://huggingface.co/Tesslate/UIGEN-X-4B-0729) |
@@ -7066,6 +7068,7 @@ Updated on 2026-10-24
 | Updatedabout 4 hours ago | 16 | microsoft/Mage-Flow-BaseText-to-Image | 4B | [Link](https://huggingface.co/microsoft/Mage-Flow-Base) |
 | 138 | 16 | Cierpliwy/krea2_lineart_editText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/Cierpliwy/krea2_lineart_edit) |
 | Updatedabout 8 hours ago | 16 | Abiray/flux-3-image-klein-sd-GGUFText-to-Image | 6B | [Link](https://huggingface.co/Abiray/flux-3-image-klein-sd-GGUF) |
+| 2.79k | 16 | MATLOWAI/MOSS-Image-SFT-DeBandText-to-Image | Updated4 days ago | [Link](https://huggingface.co/MATLOWAI/MOSS-Image-SFT-DeBand) |
 |  | 15 | Shakker-Labs/AWPortrait-ZText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/Shakker-Labs/AWPortrait-Z) |
 | 45 | 15 | NucleusAI/Nucleus-ImageText-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/NucleusAI/Nucleus-Image) |
 | Updatedabout 5 hours ago | 15 | inclusionAI/LLaDA-ImageText-to-Image | 7B | [Link](https://huggingface.co/inclusionAI/LLaDA-Image) |
@@ -8690,6 +8693,7 @@ Updated on 2026-10-24
 | 3 | Unknown | timmyboy26/LTX-Video-2B-0 | Updated1 day ago | [Link](https://huggingface.co/timmyboy26/LTX-Video-2B-0.9.8-distilled-QNN) |
 | 5 | Unknown | nynxz/MiniMax-H3-PTD-LoRAsText-to-Video | Updatedabout 3 hours ago | [Link](https://huggingface.co/nynxz/MiniMax-H3-PTD-LoRAs) |
 | 13 | Unknown | tencent/Hy-NomasText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/tencent/Hy-Nomas) |
+| 5 | Unknown | PedroMarinhoDev/Hy-Nomas-ComfyUIText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/PedroMarinhoDev/Hy-Nomas-ComfyUI) |
 
 ## Text2Text Generation
 
