@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-10-25
+Updated on 2026-10-26
 
 > Generated from the Hugging Face database.
 
@@ -2946,6 +2946,7 @@ Updated on 2026-10-25
 | 1.75k | 8 | wraps/FLUX | Updated3 days ago | [Link](https://huggingface.co/wraps/FLUX.2-klein-9B-Blitz-ComfyUI) |
 | 32 | 8 | ML-Intern-lab/Qwen-Image-2 | Updatedabout 13 hours ago | [Link](https://huggingface.co/ML-Intern-lab/Qwen-Image-2.1-doodle-in-LoRA) |
 | 41 | 8 | trmz/plate-extract-qwen-image-2 | Updated2 days ago | [Link](https://huggingface.co/trmz/plate-extract-qwen-image-2.1) |
+| 21 | 8 | newHashMap/PokemonFoilMask-LoRA-Qwen-Image-2 | Updated3 days ago | [Link](https://huggingface.co/newHashMap/PokemonFoilMask-LoRA-Qwen-Image-2.1) |
 | 1.74k | 7 | xiaozaa/catvton-flux-betaImage-to-Image | UpdatedJan 16 | [Link](https://huggingface.co/xiaozaa/catvton-flux-beta) |
 | 33 | 7 | kontext-community/relighting-kontext-dev-lora-v3Image-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/kontext-community/relighting-kontext-dev-lora-v3) |
 | Updatedabout 1 hour ago | 7 | chatpig/flux2-dev-ggufImage-to-Image | 18B | [Link](https://huggingface.co/chatpig/flux2-dev-gguf) |
@@ -4092,6 +4093,7 @@ Updated on 2026-10-25
 | 1 | Unknown | Inventic-AI/Account_Number_ExtracterImage-to-Text | UpdatedFeb 12 | [Link](https://huggingface.co/Inventic-AI/Account_Number_Extracter) |
 | 3 | Unknown | Wall3/Yara_Captcha_SolverImage-to-Text | UpdatedJul 12 | [Link](https://huggingface.co/Wall3/Yara_Captcha_Solver) |
 | 4 | Unknown | asterxlabs/asternet-vietnamese-ocrImage-to-Text | Updatedabout 12 hours ago | [Link](https://huggingface.co/asterxlabs/asternet-vietnamese-ocr) |
+| 2 | Unknown | CharlZKP/indra-ocr-fp16Image-to-Text | Updated4 days ago | [Link](https://huggingface.co/CharlZKP/indra-ocr-fp16) |
 
 ## Image-to-Video
 
@@ -7626,6 +7628,7 @@ Updated on 2026-10-25
 | 46 | Unknown | comfyanonymous/MOSS_image_MAX_ULTRA_hires_lora_testText-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/comfyanonymous/MOSS_image_MAX_ULTRA_hires_lora_test) |
 | 16 | Unknown | RicemanT/MossAD-DemoText-to-Image | Updated1 day ago | [Link](https://huggingface.co/RicemanT/MossAD-Demo) |
 | 14 | Unknown | paralaif/MOSS-Image-Alpha-LoRAText-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/paralaif/MOSS-Image-Alpha-LoRA) |
+| 17 | Unknown | heathcliff01/Kaloscope-style-adapterText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/heathcliff01/Kaloscope-style-adapter) |
 
 ## Text-to-Speech
 
@@ -8339,6 +8342,7 @@ Updated on 2026-10-25
 | 90 | 4 | Veda-Sparse/Minimax-H3-R2VA-Veda-PreviewText-to-Video | Updated1 day ago | [Link](https://huggingface.co/Veda-Sparse/Minimax-H3-R2VA-Veda-Preview) |
 | 34 | 4 | Aazeus/Spark-H3Text-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/Aazeus/Spark-H3) |
 | 29 | 4 | SexGod1979/MiniMax-H3-refmodsText-to-Video | Updated8 days ago | [Link](https://huggingface.co/SexGod1979/MiniMax-H3-refmods) |
+| 52 | 4 | berryber09/FastH3-OmniRef-8step-pruned-w4a8Text-to-Video | Updated2 days ago | [Link](https://huggingface.co/berryber09/FastH3-OmniRef-8step-pruned-w4a8) |
 | 4.64k | 3 | guoyww/animatediff-motion-lora-pan-rightText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-pan-right) |
 | 28 | 3 | finetrainers/3dgs-v0Text-to-Video | UpdatedJan 29 | [Link](https://huggingface.co/finetrainers/3dgs-v0) |
 | 1 | 3 | longlian/text-to-video-lvd-msText-to-Video | UpdatedMay 1, 2024 | [Link](https://huggingface.co/longlian/text-to-video-lvd-ms) |
