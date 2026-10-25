@@ -4091,6 +4091,7 @@ Updated on 2026-10-25
 | 2 | Unknown | ANZ-Innovation/OCeanpaRk-small-v1Image-to-Text | Updated7 days ago | [Link](https://huggingface.co/ANZ-Innovation/OCeanpaRk-small-v1) |
 | 1 | Unknown | Inventic-AI/Account_Number_ExtracterImage-to-Text | UpdatedFeb 12 | [Link](https://huggingface.co/Inventic-AI/Account_Number_Extracter) |
 | 3 | Unknown | Wall3/Yara_Captcha_SolverImage-to-Text | UpdatedJul 12 | [Link](https://huggingface.co/Wall3/Yara_Captcha_Solver) |
+| 4 | Unknown | asterxlabs/asternet-vietnamese-ocrImage-to-Text | Updatedabout 12 hours ago | [Link](https://huggingface.co/asterxlabs/asternet-vietnamese-ocr) |
 
 ## Image-to-Video
 
@@ -6386,6 +6387,7 @@ Updated on 2026-10-25
 | Updated2 days ago | 9.92k | hesamation/Qwen3 | 35B | [Link](https://huggingface.co/hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF) |
 | Updated3 days ago | 9.5k | protoLabsAI/Ornith-1 | 2B | [Link](https://huggingface.co/protoLabsAI/Ornith-1.0-9B-MTP-GGUF) |
 | Updated2 days ago | 9.42k | unsloth/Ornith-1 | 35B | [Link](https://huggingface.co/unsloth/Ornith-1.0-35B-GGUF) |
+| Updated3 days ago | 9.82k | KRAFTON/Raon-1-mini-preview-ggufText | 29B | [Link](https://huggingface.co/KRAFTON/Raon-1-mini-preview-gguf) |
 | Updated3 days ago | 8.32k | trillionlabs/Tri-21BText | 21B | [Link](https://huggingface.co/trillionlabs/Tri-21B) |
 | Updatedabout 14 hours ago | 8 | janhq/Jan-v1-4B-GGUFText | 4B | [Link](https://huggingface.co/janhq/Jan-v1-4B-GGUF) |
 | Updatedabout 16 hours ago | 8.51k | nvidia/NVIDIA-Nemotron-Nano-12B-v2Text | 12B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-12B-v2) |
@@ -7622,6 +7624,8 @@ Updated on 2026-10-25
 | 16 | Unknown | KBlueLeaf/MOSS-Image-FP16-fixedText-to-Image | Updatedabout 23 hours ago | [Link](https://huggingface.co/KBlueLeaf/MOSS-Image-FP16-fixed) |
 | 16 | Unknown | darask0/MOSS-Image-color-depth-controlText-to-Image | Updated1 day ago | [Link](https://huggingface.co/darask0/MOSS-Image-color-depth-control) |
 | 46 | Unknown | comfyanonymous/MOSS_image_MAX_ULTRA_hires_lora_testText-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/comfyanonymous/MOSS_image_MAX_ULTRA_hires_lora_test) |
+| 16 | Unknown | RicemanT/MossAD-DemoText-to-Image | Updated1 day ago | [Link](https://huggingface.co/RicemanT/MossAD-Demo) |
+| 14 | Unknown | paralaif/MOSS-Image-Alpha-LoRAText-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/paralaif/MOSS-Image-Alpha-LoRA) |
 
 ## Text-to-Speech
 
@@ -7980,6 +7984,7 @@ Updated on 2026-10-25
 | 27 | 4 | HiMind/Packed-TTSText-to-Speech | Updated5 days ago | [Link](https://huggingface.co/HiMind/Packed-TTS) |
 | 43 | 4 | oddadmix/Nabra-82M-v0 | Updated1 day ago | [Link](https://huggingface.co/oddadmix/Nabra-82M-v0.1) |
 | Updatedabout 3 hours ago | 4 | neuphonic/neutts-2e-q4-ggufText-to-Speech | 0.2B | [Link](https://huggingface.co/neuphonic/neutts-2e-q4-gguf) |
+| Updated1 day ago | 4.54k | gradium/phonon-40m-deText-to-Speech | 50.5M | [Link](https://huggingface.co/gradium/phonon-40m-de) |
 | 1.12M | 3.4k | hexgrad/Kokoro-82MText-to-Speech | Updated23 days ago | [Link](https://huggingface.co/hexgrad/Kokoro-82M) |
 | 9 | 3 | amphion/MetisText-to-Speech | Updatedabout 17 hours ago | [Link](https://huggingface.co/amphion/Metis) |
 | 1.22k | 3 | CONCREE/Adia_TTSText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/CONCREE/Adia_TTS) |
@@ -8045,6 +8050,7 @@ Updated on 2026-10-25
 | Updated8 days ago | 1.29k | Serveurperso/OmniVoice-GGUFText-to-Speech | 0.6B | [Link](https://huggingface.co/Serveurperso/OmniVoice-GGUF) |
 | Updated7 days ago | 1.76k | freyavoice/Freya-TTSText-to-Speech | 0.2B | [Link](https://huggingface.co/freyavoice/Freya-TTS) |
 | Updated6 days ago | 1.28k | HoppouAI/Breeze-TTS-2 | 3B | [Link](https://huggingface.co/HoppouAI/Breeze-TTS-2.cpp) |
+| Updated1 day ago | 1.96k | gradium/phonon-40m-esText-to-Speech | 50.5M | [Link](https://huggingface.co/gradium/phonon-40m-es) |
 | 302 | Unknown | lj1995/GPT-SoVITSText-to-Speech | Updated14 days ago | [Link](https://huggingface.co/lj1995/GPT-SoVITS) |
 | 436 | Unknown | myshell-ai/OpenVoiceText-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoice) |
 | 365 | Unknown | myshell-ai/OpenVoiceV2Text-to-Speech | UpdatedDec 24, 2024 | [Link](https://huggingface.co/myshell-ai/OpenVoiceV2) |
@@ -8332,6 +8338,7 @@ Updated on 2026-10-25
 |  | 4 | Iwannapose/minimax_h3_pdmd_2nfe_comfyuiText-to-Video | Updatedabout 7 hours ago | [Link](https://huggingface.co/Iwannapose/minimax_h3_pdmd_2nfe_comfyui) |
 | 90 | 4 | Veda-Sparse/Minimax-H3-R2VA-Veda-PreviewText-to-Video | Updated1 day ago | [Link](https://huggingface.co/Veda-Sparse/Minimax-H3-R2VA-Veda-Preview) |
 | 34 | 4 | Aazeus/Spark-H3Text-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/Aazeus/Spark-H3) |
+| 29 | 4 | SexGod1979/MiniMax-H3-refmodsText-to-Video | Updated8 days ago | [Link](https://huggingface.co/SexGod1979/MiniMax-H3-refmods) |
 | 4.64k | 3 | guoyww/animatediff-motion-lora-pan-rightText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-pan-right) |
 | 28 | 3 | finetrainers/3dgs-v0Text-to-Video | UpdatedJan 29 | [Link](https://huggingface.co/finetrainers/3dgs-v0) |
 | 1 | 3 | longlian/text-to-video-lvd-msText-to-Video | UpdatedMay 1, 2024 | [Link](https://huggingface.co/longlian/text-to-video-lvd-ms) |
