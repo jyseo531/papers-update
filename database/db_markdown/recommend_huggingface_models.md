@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-10-26
+Updated on 2026-10-27
 
 > Generated from the Hugging Face database.
 
@@ -2622,6 +2622,7 @@ Updated on 2026-10-26
 | Updatedabout 11 hours ago | 2.85k | moonshotai/Kimi-K3Image-Text-to-Text | 2.8T | [Link](https://huggingface.co/moonshotai/Kimi-K3) |
 | Updatedabout 9 hours ago | 2.52k | thinkingmachines/Inkling-Small-NVFP4Image-Text-to-Text | 156B | [Link](https://huggingface.co/thinkingmachines/Inkling-Small-NVFP4) |
 | Updatedabout 12 hours ago | 2.09k | nvidia/NVIDIA-Nemotron-Parse-2 | 0.9B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Parse-2.0) |
+| Updated3 days ago | 2.61k | tencent/WeVisOne-VL-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/tencent/WeVisOne-VL-4B) |
 | 2.72k | 1.62k | microsoft/OmniParserImage-Text-to-Text | UpdatedDec 2, 2024 | [Link](https://huggingface.co/microsoft/OmniParser) |
 | 100k | 1.4k | stepfun-ai/GOT-OCR2_0Image-Text-to-Text | Updated21 days ago | [Link](https://huggingface.co/stepfun-ai/GOT-OCR2_0) |
 | 1.78M | 1.42k | microsoft/Florence-2-largeImage-Text-to-Text | UpdatedDec 8, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-large) |
@@ -3349,6 +3350,7 @@ Updated on 2026-10-26
 | 6 | Unknown | aptech0081/H3-Character-Sheet-CreatorImage-to-Image | Updated6 days ago | [Link](https://huggingface.co/aptech0081/H3-Character-Sheet-Creator) |
 | 6 | Unknown | NidAll/Fibo-2 | Updated3 days ago | [Link](https://huggingface.co/NidAll/Fibo-2.0-Edit-Turbo-INT8-ConvRot) |
 | 7 | Unknown | sorryhyun/MOSS-I2I-LORAsImage-to-Image | Updatedabout 6 hours ago | [Link](https://huggingface.co/sorryhyun/MOSS-I2I-LORAs) |
+| 6 | Unknown | pleiades7/MOSS-Image-CharRef-PoCImage-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/pleiades7/MOSS-Image-CharRef-PoC) |
 
 ## Image-to-Text
 
@@ -7212,6 +7214,7 @@ Updated on 2026-10-26
 | Updatedabout 5 hours ago | 7 | inclusionAI/LLaDA-Image-TurboText-to-Image | 7B | [Link](https://huggingface.co/inclusionAI/LLaDA-Image-Turbo) |
 | Updated4 days ago | 7.88k | realrebelai/Ming-Image_GGUFsText-to-Image | 6B | [Link](https://huggingface.co/realrebelai/Ming-Image_GGUFs) |
 | Updatedabout 6 hours ago | 7.31k | AtomicChat/Qwen-Image-2 | 8B | [Link](https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF) |
+| Updated5 days ago | 7.41k | AtomicChat/FLUX-3-Image-Klein-GGUFText-to-Image | 6B | [Link](https://huggingface.co/AtomicChat/FLUX-3-Image-Klein-GGUF) |
 | 1.07k | 6 | DFloat11/FLUX | Updated1 day ago | [Link](https://huggingface.co/DFloat11/FLUX.1-dev-DF11) |
 | 836 | 6 | Minthy/RouWei-0 | Updated3 days ago | [Link](https://huggingface.co/Minthy/RouWei-0.8) |
 | 169 | 6 | PosterCraft/PosterCraft-v1_RLText-to-Image | Updated2 days ago | [Link](https://huggingface.co/PosterCraft/PosterCraft-v1_RL) |
