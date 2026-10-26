@@ -8028,6 +8028,7 @@ Updated on 2026-10-26
 | Updated5 days ago | 3.11k | multimodalart/higgs-audio-v3-tts-4b-transformersText-to-Speech | 5B | [Link](https://huggingface.co/multimodalart/higgs-audio-v3-tts-4b-transformers) |
 | 23 | 3 | avris/kokoro-hebrew-saspeechText-to-Speech | Updated7 days ago | [Link](https://huggingface.co/avris/kokoro-hebrew-saspeech) |
 | 12 | 3 | MenaVoice/KasbahTTS-V0Text-to-Speech | Updated1 day ago | [Link](https://huggingface.co/MenaVoice/KasbahTTS-V0) |
+| Updated9 days ago | 3 | destined/hurston-1Text-to-Speech | 3B | [Link](https://huggingface.co/destined/hurston-1) |
 | 2.36M | 2.41k | coqui/XTTS-v2Text-to-Speech | UpdatedDec 11, 2023 | [Link](https://huggingface.co/coqui/XTTS-v2) |
 | 153 | 2 | mmwillet2/Dia_GGUFText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/mmwillet2/Dia_GGUF) |
 | 55 | 2 | unsloth/Spark-TTS-0 | Updated2 days ago | [Link](https://huggingface.co/unsloth/Spark-TTS-0.5B) |
