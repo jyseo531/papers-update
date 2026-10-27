@@ -2056,6 +2056,7 @@ Updated on 2026-10-27
 | Updated5 days ago | 593 | Minthy/ToriiGate-0 | 5B | [Link](https://huggingface.co/Minthy/ToriiGate-0.5) |
 | Updated6 days ago | 583 | Qwen/Qwen3-VL-235B-A22B-Instruct-GGUFImage-Text-to-Text | 235B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct-GGUF) |
 | Updated2 days ago | 579 | coder3101/Qwen3 | 27B | [Link](https://huggingface.co/coder3101/Qwen3.5-27B-heretic) |
+| Updated3 days ago | 572 | fastino/GLiDEImage-Text-to-Text | 26B | [Link](https://huggingface.co/fastino/GLiDE) |
 | Updated1 day ago | 550 | nvidia/DeepSeek-V4 | 763B | [Link](https://huggingface.co/nvidia/DeepSeek-V4.1-Flash-NVFP4) |
 | 1.67M | 546 | Qwen/Qwen2 | Updated10 days ago | [Link](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct) |
 | Updatedabout 8 hours ago | 544 | sensenova/SenseNova-SI-1 | 8B | [Link](https://huggingface.co/sensenova/SenseNova-SI-1.1-InternVL3-8B) |
@@ -7050,6 +7051,7 @@ Updated on 2026-10-27
 | 41 | 26 | SG161222/SPARK | Updatedabout 17 hours ago | [Link](https://huggingface.co/SG161222/SPARK.Chroma_preview) |
 | 15 | 25 | ideogram-ai/ideogram-4-nf4Text-to-Image | Updated7 minutes ago | [Link](https://huggingface.co/ideogram-ai/ideogram-4-nf4) |
 | 3.41k | 25 | Bedovyy/Anima-INT8Text-to-Image | Updated2 days ago | [Link](https://huggingface.co/Bedovyy/Anima-INT8) |
+| 8.07k | 25 | chatrlabs/Qwen-Image-2 | Updated11 days ago | [Link](https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-LoRA-v0.1) |
 | Updatedabout 8 hours ago | 24 | jayn7/Z-Image-GGUFText-to-Image | 6B | [Link](https://huggingface.co/jayn7/Z-Image-GGUF) |
 | Updatedabout 11 hours ago | 24 | shallowdream204/BitDance-14B-16xText-to-Image | 15B | [Link](https://huggingface.co/shallowdream204/BitDance-14B-16x) |
 | 12 | 24 | Lakonik/AsymFLUX | Updatedabout 13 hours ago | [Link](https://huggingface.co/Lakonik/AsymFLUX.2-klein-9B) |
@@ -7090,6 +7092,7 @@ Updated on 2026-10-27
 | 109 | 14 | AiArtLab/sdxs-1bText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/AiArtLab/sdxs-1b) |
 | Updatedabout 4 hours ago | 14 | microsoft/Mage-Flow-TurboText-to-Image | 4B | [Link](https://huggingface.co/microsoft/Mage-Flow-Turbo) |
 | 17 | 14 | Logolabs/agate-preview-001Text-to-Image | Updatedabout 18 hours ago | [Link](https://huggingface.co/Logolabs/agate-preview-001) |
+| Updated5 days ago | 14.6k | unsloth/MOSS-Image-SFT-GGUFText-to-Image | 5B | [Link](https://huggingface.co/unsloth/MOSS-Image-SFT-GGUF) |
 |  | 13 | aaronaftab/mirage-ghibliText-to-Image | Updatedabout 14 hours ago | [Link](https://huggingface.co/aaronaftab/mirage-ghibli) |
 | 4 | 13 | fumeisama/drawatoon-v1Text-to-Image | Updatedabout 12 hours ago | [Link](https://huggingface.co/fumeisama/drawatoon-v1) |
 | 2.1k | 13 | city96/HiDream-I1-Full-ggufText-to-Image | Updated1 day ago | [Link](https://huggingface.co/city96/HiDream-I1-Full-gguf) |
