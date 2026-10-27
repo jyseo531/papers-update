@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-10-27
+Updated on 2026-10-28
 
 > Generated from the Hugging Face database.
 
@@ -81,6 +81,7 @@ Updated on 2026-10-27
 | Updated12 days ago | 166 | Saktsant/Qwen3-Omni-30B-A3B-Instruct-AWQAny-to-Any | 10B | [Link](https://huggingface.co/Saktsant/Qwen3-Omni-30B-A3B-Instruct-AWQ) |
 | UpdatedDec 24, 2025 | 166 | mlx-community/Qwen3-Omni-30B-A3B-Instruct-8bitAny-to-Any | 11B | [Link](https://huggingface.co/mlx-community/Qwen3-Omni-30B-A3B-Instruct-8bit) |
 | Updated1 day ago | 164 | google/gemma-4-E4B-it-qat-mobile-transformersAny-to-Any | 3B | [Link](https://huggingface.co/google/gemma-4-E4B-it-qat-mobile-transformers) |
+| Updatedabout 1 hour ago | 156 | LiquidAI/LFM3-Audio-2BAny-to-Any | 2B | [Link](https://huggingface.co/LiquidAI/LFM3-Audio-2B) |
 | UpdatedOct 23, 2024 | 153 | BAAI/Emu3-Stage1Any-to-Any | 8B | [Link](https://huggingface.co/BAAI/Emu3-Stage1) |
 | UpdatedDec 24, 2025 | 151 | mlx-community/Qwen3-Omni-30B-A3B-Instruct-bf16Any-to-Any | 35B | [Link](https://huggingface.co/mlx-community/Qwen3-Omni-30B-A3B-Instruct-bf16) |
 | 455 | 149 | NexaAI/OmniNeural-4BAny-to-Any | Updated4 days ago | [Link](https://huggingface.co/NexaAI/OmniNeural-4B) |
@@ -102,6 +103,7 @@ Updated on 2026-10-27
 | UpdatedMay 22 | 88.7k | meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8Any-to-Any | 402B | [Link](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8) |
 | UpdatedJul 26 | 85.8k | ggml-org/gemma-4-E2B-it-GGUFAny-to-Any | 5B | [Link](https://huggingface.co/ggml-org/gemma-4-E2B-it-GGUF) |
 | 36.8k | 83 | openbmb/MiniCPM-o-2_6-ggufAny-to-Any | UpdatedJan 17 | [Link](https://huggingface.co/openbmb/MiniCPM-o-2_6-gguf) |
+| Updated24 minutes ago | 83 | LiquidAI/LFM3-Omni-2BAny-to-Any | 2B | [Link](https://huggingface.co/LiquidAI/LFM3-Omni-2B) |
 | Updated5 days ago | 76 | DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-ExtremeAny-to-Any | 4B | [Link](https://huggingface.co/DavidAU/gemma-3-4b-it-heretic-uncensored-abliterated-Extreme) |
 | Updatedabout 13 hours ago | 70 | google/gemma-4-E4B-it-qat-q4_0-ggufAny-to-Any | 7B | [Link](https://huggingface.co/google/gemma-4-E4B-it-qat-q4_0-gguf) |
 | Updatedabout 13 hours ago | 68 | google/gemma-4-12B-it-qat-q4_0-unquantizedAny-to-Any | 12B | [Link](https://huggingface.co/google/gemma-4-12B-it-qat-q4_0-unquantized) |
@@ -2062,6 +2064,7 @@ Updated on 2026-10-27
 | Updatedabout 8 hours ago | 544 | sensenova/SenseNova-SI-1 | 8B | [Link](https://huggingface.co/sensenova/SenseNova-SI-1.1-InternVL3-8B) |
 | Updated1 day ago | 534 | lightonai/LightOnOCR-2-1B-bboxImage-Text-to-Text | 1B | [Link](https://huggingface.co/lightonai/LightOnOCR-2-1B-bbox) |
 | Updated2 days ago | 531 | OpenGVLab/InternVL3_5-2BImage-Text-to-Text | 2B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-2B) |
+| Updatedabout 4 hours ago | 513 | baidu/Unlimited-OCR-2Image-Text-to-Text | 3B | [Link](https://huggingface.co/baidu/Unlimited-OCR-2) |
 | Updated18 days ago | 503 | prithivMLmods/Qwen3-VL-8B-Instruct-abliterated-v2Image-Text-to-Text | 9B | [Link](https://huggingface.co/prithivMLmods/Qwen3-VL-8B-Instruct-abliterated-v2) |
 | Updated3 days ago | 490 | Kwai-Keye/Keye-VL-1_5-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/Kwai-Keye/Keye-VL-1_5-8B) |
 | Updatedabout 21 hours ago | 476 | microsoft/AesCode-8BImage-Text-to-Text | 9B | [Link](https://huggingface.co/microsoft/AesCode-8B) |
@@ -7701,6 +7704,7 @@ Updated on 2026-10-27
 | Updated1 day ago | 190 | fishaudio/drama-3-int4Text-to-Speech | 7B | [Link](https://huggingface.co/fishaudio/drama-3-int4) |
 | Updatedabout 16 hours ago | 187 | mlx-community/fish-audio-s2-pro-bf16Text-to-Speech | 5B | [Link](https://huggingface.co/mlx-community/fish-audio-s2-pro-bf16) |
 | Updated3 days ago | 182 | fnlp/MOSS-TTSD-v0 | 2B | [Link](https://huggingface.co/fnlp/MOSS-TTSD-v0.5) |
+| Updated3 days ago | 176 | Aratako/Drama-3-JapaneseText-to-Speech | 36B | [Link](https://huggingface.co/Aratako/Drama-3-Japanese) |
 | Updated6 days ago | 171 | baicai1145/s2-pro-w4a16Text-to-Speech | 5B | [Link](https://huggingface.co/baicai1145/s2-pro-w4a16) |
 | Updatedabout 5 hours ago | 169k | Qwen/Qwen3-TTS-12Hz-1 | 2B | [Link](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice) |
 | Updated1 day ago | 165 | kjanh/KhanhTTS-OmniVoiceText-to-Speech | 0.6B | [Link](https://huggingface.co/kjanh/KhanhTTS-OmniVoice) |
@@ -7753,6 +7757,7 @@ Updated on 2026-10-27
 | 2.93k | 65 | capleaf/viXTTSText-to-Speech | UpdatedApr 7, 2024 | [Link](https://huggingface.co/capleaf/viXTTS) |
 | 2.99k | 63 | HKUSTAudio/Llasa-8BText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/HKUSTAudio/Llasa-8B) |
 | 1.54k | 62 | facebook/hf-seamless-m4t-largeText-to-Speech | UpdatedDec 8, 2023 | [Link](https://huggingface.co/facebook/hf-seamless-m4t-large) |
+| Updatedabout 5 hours ago | 62 | maya-research/maya2-nativeText-to-Speech | 3B | [Link](https://huggingface.co/maya-research/maya2-native) |
 | Updatedabout 7 hours ago | 61 | maya-research/maya1Text-to-Speech | 3B | [Link](https://huggingface.co/maya-research/maya1) |
 | Updatedabout 11 hours ago | 61 | neuphonic/neutts-nano-spanishText-to-Speech | 0.2B | [Link](https://huggingface.co/neuphonic/neutts-nano-spanish) |
 | 1.59k | 61 | OpenMOSS-Team/MOSS-TTS-Nano-100MText-to-Speech | Updatedabout 4 hours ago | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Nano-100M) |
@@ -7916,6 +7921,7 @@ Updated on 2026-10-27
 | Updated19 minutes ago | 6 | Aratako/Irodori-TTS-v4-SmallText-to-Speech | 0.8B | [Link](https://huggingface.co/Aratako/Irodori-TTS-v4-Small) |
 | Updatedabout 13 hours ago | 6 | Aratako/Irodori-TTS-v4-LargeText-to-Speech | 3B | [Link](https://huggingface.co/Aratako/Irodori-TTS-v4-Large) |
 | 26 | 6 | LH-Tech-AI/Flare-TTS-v1 | UpdatedMay 5 | [Link](https://huggingface.co/LH-Tech-AI/Flare-TTS-v1.5) |
+| Updatedabout 7 hours ago | 6 | Edge0/Audio8-TTS-Realistic-0 | 0.6B | [Link](https://huggingface.co/Edge0/Audio8-TTS-Realistic-0.6b) |
 | 87 | 5 | lunahr/csm-1b-safetensors-quantsText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-quants) |
 | 26 | 5 | 2121-8/canary-tts-0 | Updatedabout 19 hours ago | [Link](https://huggingface.co/2121-8/canary-tts-0.5b) |
 | 12 | 5 | MYZY-AI/Muyan-TTS-SFTText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/MYZY-AI/Muyan-TTS-SFT) |
