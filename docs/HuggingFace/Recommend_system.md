@@ -2068,6 +2068,7 @@ Updated on 2026-10-29
 | Updatedabout 12 hours ago | 598 | deepcogito/cogito-v2-preview-llama-109B-MoEImage-Text-to-Text | 109B | [Link](https://huggingface.co/deepcogito/cogito-v2-preview-llama-109B-MoE) |
 | Updated5 days ago | 593 | Minthy/ToriiGate-0 | 5B | [Link](https://huggingface.co/Minthy/ToriiGate-0.5) |
 | Updated6 days ago | 583 | Qwen/Qwen3-VL-235B-A22B-Instruct-GGUFImage-Text-to-Text | 235B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct-GGUF) |
+| Updatedabout 16 hours ago | 581 | openbmb/MiniCPM-OCR-JevImage-Text-to-Text | 2B | [Link](https://huggingface.co/openbmb/MiniCPM-OCR-Jev) |
 | Updated2 days ago | 579 | coder3101/Qwen3 | 27B | [Link](https://huggingface.co/coder3101/Qwen3.5-27B-heretic) |
 | Updated3 days ago | 572 | fastino/GLiDEImage-Text-to-Text | 26B | [Link](https://huggingface.co/fastino/GLiDE) |
 | Updated1 day ago | 550 | nvidia/DeepSeek-V4 | 763B | [Link](https://huggingface.co/nvidia/DeepSeek-V4.1-Flash-NVFP4) |
@@ -2618,6 +2619,7 @@ Updated on 2026-10-29
 | Updatedabout 6 hours ago | 3.25k | Blackfrost-AI/Qwen3 | 27B | [Link](https://huggingface.co/Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF) |
 | Updatedabout 15 hours ago | 3.39k | isichan-ai/Mitsuba-ComfyUI-27B-GGUFImage-Text-to-Text | 27B | [Link](https://huggingface.co/isichan-ai/Mitsuba-ComfyUI-27B-GGUF) |
 | Updated1 day ago | 3.72k | alesha-pro/Qwen3 | 120k | [Link](https://huggingface.co/alesha-pro/Qwen3.8-Flash-Next-abliterated-GSQ-RCO-Strata-GGUF) |
+| Updatedabout 16 hours ago | 3.88k | tencent/WeVisOne-VL-2BImage-Text-to-Text | 2B | [Link](https://huggingface.co/tencent/WeVisOne-VL-2B) |
 | Updatedabout 7 hours ago | 2.63k | nvidia/Eagle2 | 8B | [Link](https://huggingface.co/nvidia/Eagle2.5-8B) |
 | Updatedabout 7 hours ago | 2 | internlm/Intern-S1-FP8Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1-FP8) |
 | Updated1 day ago | 2.26k | Qwen/Qwen3-VL-235B-A22B-InstructImage-Text-to-Text | 236B | [Link](https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct) |
@@ -2884,6 +2886,7 @@ Updated on 2026-10-29
 |  | 40 | fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRAImage-to-Image | Updatedabout 9 hours ago | [Link](https://huggingface.co/fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA) |
 | Updatedabout 9 hours ago | 38 | unsloth/Qwen-Image-Edit-2511-GGUFImage-to-Image | 20B | [Link](https://huggingface.co/unsloth/Qwen-Image-Edit-2511-GGUF) |
 | 50 | 37 | yichengup/flux | Updatedabout 11 hours ago | [Link](https://huggingface.co/yichengup/flux.1-fill-dev-OneReward) |
+| Updated1 day ago | 36 | IvmeLabs/Ivme-Denoise-v1Image-to-Image | 2.97M | [Link](https://huggingface.co/IvmeLabs/Ivme-Denoise-v1) |
 | 102 | 34 | keras-io/lowlight-enhance-mirnetImage-to-Image | UpdatedJul 5, 2024 | [Link](https://huggingface.co/keras-io/lowlight-enhance-mirnet) |
 |  | 34 | meituan-longcat/LongCat-Image-EditImage-to-Image | Updatedabout 13 hours ago | [Link](https://huggingface.co/meituan-longcat/LongCat-Image-Edit) |
 | 8.66k | 33 | caidas/swin2SR-classical-sr-x2-64Image-to-Image | UpdatedMar 27, 2024 | [Link](https://huggingface.co/caidas/swin2SR-classical-sr-x2-64) |
@@ -7660,6 +7663,7 @@ Updated on 2026-10-29
 | 16 | Unknown | RicemanT/MossAD-DemoText-to-Image | Updated1 day ago | [Link](https://huggingface.co/RicemanT/MossAD-Demo) |
 | 14 | Unknown | paralaif/MOSS-Image-Alpha-LoRAText-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/paralaif/MOSS-Image-Alpha-LoRA) |
 | 17 | Unknown | heathcliff01/Kaloscope-style-adapterText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/heathcliff01/Kaloscope-style-adapter) |
+| 21 | Unknown | ElectronGirl/anima-ref-adapterText-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/ElectronGirl/anima-ref-adapter) |
 
 ## Text-to-Speech
 
@@ -7880,6 +7884,7 @@ Updated on 2026-10-29
 | Updated1 day ago | 12 | Aratako/MioTTS-0 | 0.1B | [Link](https://huggingface.co/Aratako/MioTTS-0.1B) |
 | 43 | 12 | KRAFTON/Raon-OpenTTS-0 | Updatedabout 12 hours ago | [Link](https://huggingface.co/KRAFTON/Raon-OpenTTS-0.3B) |
 | Updatedabout 2 hours ago | 12 | rumik-ai/rumik-oss-1Text-to-Speech | 3B | [Link](https://huggingface.co/rumik-ai/rumik-oss-1) |
+| 28 | 12 | owensong/Inflect-Mini-v3-PreviewText-to-Speech | Updatedabout 1 hour ago | [Link](https://huggingface.co/owensong/Inflect-Mini-v3-Preview) |
 | 109 | 11 | NeuroDonu/RU-XTTS-DonuModelText-to-Speech | UpdatedMay 1, 2024 | [Link](https://huggingface.co/NeuroDonu/RU-XTTS-DonuModel) |
 | 36 | 11 | Abhinay45/XTTS-Hindi-finetunedText-to-Speech | UpdatedJan 11 | [Link](https://huggingface.co/Abhinay45/XTTS-Hindi-finetuned) |
 | 10.4k | 11 | JTS-AI/JaiTTS-F5TTSText-to-Speech | Updated27 days ago | [Link](https://huggingface.co/JTS-AI/JaiTTS-F5TTS) |
