@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-10-29
+Updated on 2026-10-30
 
 > Generated from the Hugging Face database.
 
@@ -2681,6 +2681,7 @@ Updated on 2026-10-29
 | Updatedabout 2 hours ago | 1.25k | h2oai/h2o-lightning-4bImage-Text-to-Text | 5B | [Link](https://huggingface.co/h2oai/h2o-lightning-4b) |
 | Updatedabout 4 hours ago | 1.45k | unsloth/DeepSeek-V4 | 748B | [Link](https://huggingface.co/unsloth/DeepSeek-V4.1-Flash-1017-GGUF) |
 | Updatedabout 21 hours ago | 1.8k | nvidia/Nemotron-3 | 0.6B | [Link](https://huggingface.co/nvidia/Nemotron-3.5-Parse) |
+| 278 | 1.16k | mistralai/Mistral-Large-4-1T-A52BImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) |
 | 1.07M |  | meta-llama/Llama-3 | UpdatedDec 4, 2024 | [Link](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) |
 | 1.49M |  | Qwen/Qwen2-VL-7B-InstructImage-Text-to-Text | Updated19 days ago | [Link](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) |
 | 288k |  | microsoft/Phi-3 | UpdatedSep 26, 2024 | [Link](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) |
@@ -3807,6 +3808,7 @@ Updated on 2026-10-29
 | 25 | 3 | LocalDoc/azerbaijani-ocr-crnnImage-to-Text | Updated11 days ago | [Link](https://huggingface.co/LocalDoc/azerbaijani-ocr-crnn) |
 | Updatedabout 8 hours ago | 3 | UniParser/MolParser-Mobile-V2Image-to-Text | 10M | [Link](https://huggingface.co/UniParser/MolParser-Mobile-V2) |
 | 19 | 3 | abhijit2111/Pic2StoryImage-to-Text | UpdatedApr 9, 2024 | [Link](https://huggingface.co/abhijit2111/Pic2Story) |
+| 1.07k | 3 | litert-community/PP-OCRv6-Small-LiteRTImage-to-Text | Updated3 days ago | [Link](https://huggingface.co/litert-community/PP-OCRv6-Small-LiteRT) |
 | 51 | 2 | microsoft/git-base-msrvtt-qaImage-to-Text | UpdatedApr 4, 2024 | [Link](https://huggingface.co/microsoft/git-base-msrvtt-qa) |
 | 32 | 2 | baseplate/vit-gpt2-image-captioningImage-to-Text | UpdatedApr 5, 2023 | [Link](https://huggingface.co/baseplate/vit-gpt2-image-captioning) |
 | 38 | 2 | sbintuitions/sarashina2-vision-14bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-14b) |
@@ -3883,6 +3885,7 @@ Updated on 2026-10-29
 | 26 | 2 | ningpp/GLM-OCR-ONNXImage-to-Text | UpdatedMar 6 | [Link](https://huggingface.co/ningpp/GLM-OCR-ONNX) |
 | 118 | 2 | PaddlePaddle/PP-FormulaNet-SImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/PP-FormulaNet-S) |
 | Updated5 days ago | 2 | guangyangmusic/legato-2Image-to-Text | 0.9B | [Link](https://huggingface.co/guangyangmusic/legato-2) |
+| 15 | 2 | naver-clova-ix/donut-base-finetuned-cord-v1-2560Image-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base-finetuned-cord-v1-2560) |
 | 13 | 1 | Brian314/TexTellerImage-to-Text | UpdatedAug 14, 2024 | [Link](https://huggingface.co/Brian314/TexTeller) |
 | 47 | 1 | omarsabri8756/blip-Arabic-flickr-8kImage-to-Text | Updated6 days ago | [Link](https://huggingface.co/omarsabri8756/blip-Arabic-flickr-8k) |
 | 12 | 1 | adalbertojunior/image_captioning_portugueseImage-to-Text | UpdatedJul 17, 2024 | [Link](https://huggingface.co/adalbertojunior/image_captioning_portuguese) |
@@ -3981,6 +3984,7 @@ Updated on 2026-10-29
 | 8 | 1 | lodestones/Florence-2-baseImage-to-Text | UpdatedJun 19, 2024 | [Link](https://huggingface.co/lodestones/Florence-2-base) |
 | 140 | 1 | hazhu/mlx-deepdanbooruImage-to-Text | UpdatedAug 8 | [Link](https://huggingface.co/hazhu/mlx-deepdanbooru) |
 | UpdatedJan 27 | 1.11k | JHL3/KLOCRImage-to-Text | 54.5M | [Link](https://huggingface.co/JHL3/KLOCR) |
+| 30 | 1 | naver-clova-ix/donut-base-finetuned-cord-v1Image-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base-finetuned-cord-v1) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -5695,6 +5699,7 @@ Updated on 2026-10-29
 | Updatedabout 7 hours ago | 325 | poolside/Laguna-M | 226B | [Link](https://huggingface.co/poolside/Laguna-M.1) |
 | Updatedabout 24 hours ago | 322 | AlexWortega/SIQ-1-35BText | 35B | [Link](https://huggingface.co/AlexWortega/SIQ-1-35B) |
 | Updated3 days ago | 321 | Jinx-org/Jinx-gpt-oss-20bText | 21B | [Link](https://huggingface.co/Jinx-org/Jinx-gpt-oss-20b) |
+| Updated6 days ago | 321 | divagr1925/Qwen3 | 9B | [Link](https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer) |
 | Updated4 days ago | 314 | lightonai/colgrep-agent-2BText | 3B | [Link](https://huggingface.co/lightonai/colgrep-agent-2B) |
 | Updatedabout 22 hours ago | 313 | orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUFText | 27B | [Link](https://huggingface.co/orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF) |
 | Updated3 days ago | 311 | SupraLabs/Supra-1 | 51.8M | [Link](https://huggingface.co/SupraLabs/Supra-1.5-50M-Instruct-exp) |
@@ -7110,6 +7115,7 @@ Updated on 2026-10-29
 | 138 | 16 | Cierpliwy/krea2_lineart_editText-to-Image | Updatedabout 8 hours ago | [Link](https://huggingface.co/Cierpliwy/krea2_lineart_edit) |
 | Updatedabout 8 hours ago | 16 | Abiray/flux-3-image-klein-sd-GGUFText-to-Image | 6B | [Link](https://huggingface.co/Abiray/flux-3-image-klein-sd-GGUF) |
 | 2.79k | 16 | MATLOWAI/MOSS-Image-SFT-DeBandText-to-Image | Updated4 days ago | [Link](https://huggingface.co/MATLOWAI/MOSS-Image-SFT-DeBand) |
+| 423 | 16 | aoleg/MOSS-Sharpness-SliderText-to-Image | Updated2 days ago | [Link](https://huggingface.co/aoleg/MOSS-Sharpness-Slider) |
 |  | 15 | Shakker-Labs/AWPortrait-ZText-to-Image | Updatedabout 7 hours ago | [Link](https://huggingface.co/Shakker-Labs/AWPortrait-Z) |
 | 45 | 15 | NucleusAI/Nucleus-ImageText-to-Image | Updatedabout 20 hours ago | [Link](https://huggingface.co/NucleusAI/Nucleus-Image) |
 | Updatedabout 5 hours ago | 15 | inclusionAI/LLaDA-ImageText-to-Image | 7B | [Link](https://huggingface.co/inclusionAI/LLaDA-Image) |
@@ -7729,6 +7735,7 @@ Updated on 2026-10-29
 | Updated5 days ago | 194 | mlx-community/Breeze-TTS-2-mlxText-to-Speech | 3B | [Link](https://huggingface.co/mlx-community/Breeze-TTS-2-mlx) |
 | Updated1 day ago | 190 | fishaudio/drama-3-int4Text-to-Speech | 7B | [Link](https://huggingface.co/fishaudio/drama-3-int4) |
 | Updatedabout 16 hours ago | 187 | mlx-community/fish-audio-s2-pro-bf16Text-to-Speech | 5B | [Link](https://huggingface.co/mlx-community/fish-audio-s2-pro-bf16) |
+| Updated4 days ago | 183 | Tesslate/Lure-TTS-0 | 0.9B | [Link](https://huggingface.co/Tesslate/Lure-TTS-0.6B) |
 | Updated3 days ago | 182 | fnlp/MOSS-TTSD-v0 | 2B | [Link](https://huggingface.co/fnlp/MOSS-TTSD-v0.5) |
 | Updated3 days ago | 176 | Aratako/Drama-3-JapaneseText-to-Speech | 36B | [Link](https://huggingface.co/Aratako/Drama-3-Japanese) |
 | Updated6 days ago | 171 | baicai1145/s2-pro-w4a16Text-to-Speech | 5B | [Link](https://huggingface.co/baicai1145/s2-pro-w4a16) |
@@ -8314,6 +8321,7 @@ Updated on 2026-10-29
 | 433 | 20 | Skywork/SkyReels-V2-DF-1 | Updatedabout 10 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V2-DF-1.3B-540P) |
 | 186 | 20 | joeygambino/MiniMax-H3-x-Z-Image-nativeText-to-Video | Updated1 day ago | [Link](https://huggingface.co/joeygambino/MiniMax-H3-x-Z-Image-native) |
 |  | 20 | aptech0081/MiniMax-H3-Acc-LoRAs-ComfyUIText-to-Video | Updatedabout 17 hours ago | [Link](https://huggingface.co/aptech0081/MiniMax-H3-Acc-LoRAs-ComfyUI) |
+| UpdatedJul 2 | 20 | zeeahh/video_generation_modelText-to-Video | 7B | [Link](https://huggingface.co/zeeahh/video_generation_model) |
 | 34 | 19 | FastVideo/FastMochi-diffusersText-to-Video | UpdatedDec 16, 2024 | [Link](https://huggingface.co/FastVideo/FastMochi-diffusers) |
 | Updatedabout 3 hours ago | 18 | realrebelai/FastH3-V2_GGUFsText-to-Video | 35B | [Link](https://huggingface.co/realrebelai/FastH3-V2_GGUFs) |
 | UpdatedMay 7, 2023 | 18 | vdo/text-to-video-ms-1 | 1B | [Link](https://huggingface.co/vdo/text-to-video-ms-1.7b) |
