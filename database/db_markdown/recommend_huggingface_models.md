@@ -276,6 +276,7 @@ Updated on 2026-10-30
 | Updated7 days ago | 5.31k | huihui-ai/Huihui-gemma-4-26B-A4B-it-qat-q4_0-unquantized-abliterated-GGUFAny-to-Any | 25B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-26B-A4B-it-qat-q4_0-unquantized-abliterated-GGUF) |
 | Updatedabout 9 hours ago | 5 | XiaomiRobotics/Xiaomi-Robotics-U0-FlashARAny-to-Any | 38B | [Link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0-FlashAR) |
 | Updatedabout 13 hours ago | 5 | LiquidAI/LFM3-Omni-2B-MLX-8bitAny-to-Any | 2B | [Link](https://huggingface.co/LiquidAI/LFM3-Omni-2B-MLX-8bit) |
+| Updatedabout 3 hours ago | 5 | tencent/WeVisCutAny-to-Any | 9B | [Link](https://huggingface.co/tencent/WeVisCut) |
 | 126 | 4 | Alpha-VLLM/Chameleon_7B_mGPTAny-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Chameleon_7B_mGPT) |
 | 37 | 4 | Alpha-VLLM/Lumina-mGPT-7B-512-MultiImageAny-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-512-MultiImage) |
 | 26 | 4 | EPFL-VILAB/4M-7-T2I_XL_CC12MAny-to-Any | UpdatedOct 7, 2024 | [Link](https://huggingface.co/EPFL-VILAB/4M-7-T2I_XL_CC12M) |
@@ -487,6 +488,7 @@ Updated on 2026-10-30
 | 4 | Unknown | DavidAU/supportAny-to-Any | Updatedabout 7 hours ago | [Link](https://huggingface.co/DavidAU/support) |
 | 88 | Unknown | nvidia/PixelUMMAny-to-Any | Updatedabout 11 hours ago | [Link](https://huggingface.co/nvidia/PixelUMM) |
 | 3 | Unknown | Xuerui123/HYdraAny-to-Any | Updated6 days ago | [Link](https://huggingface.co/Xuerui123/HYdra) |
+| 6 | Unknown | SanRiiiii/VitronEditAny-to-Any | Updated9 days ago | [Link](https://huggingface.co/SanRiiiii/VitronEdit) |
 
 ## Audio Classification
 
@@ -2172,6 +2174,7 @@ Updated on 2026-10-30
 | Updated1 day ago | 137 | microsoft/Fara1 | 27B | [Link](https://huggingface.co/microsoft/Fara1.5-27B) |
 | 404 | 136 | allenai/olmOCR-7B-0225-previewImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/allenai/olmOCR-7B-0225-preview) |
 | Updated1 day ago | 134 | DavidAU/Gemma3-27B-it-vl-GLM-4 | 27B | [Link](https://huggingface.co/DavidAU/Gemma3-27B-it-vl-GLM-4.7-Uncensored-Heretic-Deep-Reasoning) |
+| Updatedabout 18 hours ago | 130 | sensenova/SenseNova-6 | 27B | [Link](https://huggingface.co/sensenova/SenseNova-6.8-Code2Video) |
 | Updated3 days ago | 118 | Uniboshi/Kimi-K3-Abliterated-V1Image-Text-to-Text | 2.8T | [Link](https://huggingface.co/Uniboshi/Kimi-K3-Abliterated-V1) |
 | 1.28k | 115 | AIDC-AI/Ovis2-34BImage-Text-to-Text | Updated6 days ago | [Link](https://huggingface.co/AIDC-AI/Ovis2-34B) |
 | 26.7k | 114 | HuggingFaceTB/SmolVLM-500M-InstructImage-Text-to-Text | Updated5 days ago | [Link](https://huggingface.co/HuggingFaceTB/SmolVLM-500M-Instruct) |
@@ -2500,6 +2503,7 @@ Updated on 2026-10-30
 | Updated1 day ago | 10.1k | bartowski/Qwen_Qwen3 | 27B | [Link](https://huggingface.co/bartowski/Qwen_Qwen3.5-27B-GGUF) |
 | Updated1 day ago | 10.6k | AlicanKiraz0/Mizan-27B-Turkish-Legal-LLM-Q4_K_M-GGUFImage-Text-to-Text | 27B | [Link](https://huggingface.co/AlicanKiraz0/Mizan-27B-Turkish-Legal-LLM-Q4_K_M-GGUF) |
 | Updatedabout 15 hours ago | 10.4k | orcarouter/OrcaCyber-Nano-1 | 2B | [Link](https://huggingface.co/orcarouter/OrcaCyber-Nano-1.0) |
+| Updatedabout 12 hours ago | 10.4k | huihui-ai/Huihui-DeepSeek-V4 | 2B | [Link](https://huggingface.co/huihui-ai/Huihui-DeepSeek-V4.1-Flash-1017-abliterated-GGUF) |
 | 9.49k | 9 | unsloth/gemma-3-27b-it-bnb-4bitImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-bnb-4bit) |
 | 40.9k | 9 | lmstudio-community/gemma-3-12b-it-GGUFImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/lmstudio-community/gemma-3-12b-it-GGUF) |
 | 1.89k | 9 | Mungert/gemma-3-12b-it-ggufImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/Mungert/gemma-3-12b-it-gguf) |
@@ -5610,6 +5614,7 @@ Updated on 2026-10-30
 | Updatedabout 19 hours ago | 668 | Rta-AILabs/Nandi-Mini-150M-InstructText | 0.2B | [Link](https://huggingface.co/Rta-AILabs/Nandi-Mini-150M-Instruct) |
 | Updated5 days ago | 663k | lmstudio-community/gpt-oss-20b-MLX-8bitText | 21B | [Link](https://huggingface.co/lmstudio-community/gpt-oss-20b-MLX-8bit) |
 | Updated5 days ago | 661 | LiquidAI/LFM2-700M-GGUFText | 0.7B | [Link](https://huggingface.co/LiquidAI/LFM2-700M-GGUF) |
+| Updated3 days ago | 660 | gugujiji/novel-humanize-4bText | 4B | [Link](https://huggingface.co/gugujiji/novel-humanize-4b) |
 | Updated14 days ago | 656 | TeichAI/GLM-4 | 31B | [Link](https://huggingface.co/TeichAI/GLM-4.7-Flash-Claude-Opus-4.5-High-Reasoning-Distill) |
 | Updated11 days ago | 655 | DataPilot/ArrowCanaria-Llama-8B-SFT-v0 | 8B | [Link](https://huggingface.co/DataPilot/ArrowCanaria-Llama-8B-SFT-v0.1) |
 | Updated1 day ago | 635 | 0xSero/GLM-4 | 2B | [Link](https://huggingface.co/0xSero/GLM-4.7-REAP-50-W4A16) |
@@ -7362,6 +7367,7 @@ Updated on 2026-10-30
 | Updated1 day ago | 1.16k | wikeeyang/Flux2-Klein-9B-True-V3Text-to-Image | 9B | [Link](https://huggingface.co/wikeeyang/Flux2-Klein-9B-True-V3) |
 | Updated4 days ago | 1.1k | LuffyTheFox/Qwen-Image-2 | 7B | [Link](https://huggingface.co/LuffyTheFox/Qwen-Image-2.1-Uncensored-Genesis-BF16-GGUF) |
 | Updated15 days ago | 1.62k | Felldude/QWEN_2 | 0.3B | [Link](https://huggingface.co/Felldude/QWEN_2.1_HDR_VAE) |
+| 10.2M | 1.23k | Comfy-Org/Qwen-Image-2 | Updatedabout 5 hours ago | [Link](https://huggingface.co/Comfy-Org/Qwen-Image-2.1) |
 | 1.84M |  | black-forest-labs/FLUX | UpdatedAug 16, 2024 | [Link](https://huggingface.co/black-forest-labs/FLUX.1-dev) |
 | 268k |  | stabilityai/stable-diffusion-3 | UpdatedOct 22, 2024 | [Link](https://huggingface.co/stabilityai/stable-diffusion-3.5-large) |
 | 3.52M |  | stabilityai/stable-diffusion-xl-base-1 | UpdatedOct 30, 2023 | [Link](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) |
@@ -8282,6 +8288,7 @@ Updated on 2026-10-30
 | Updated5 days ago | 127 | NullpoLab/AnimeGen-T2V-GGUFText-to-Video | 14B | [Link](https://huggingface.co/NullpoLab/AnimeGen-T2V-GGUF) |
 | Updated14 days ago | 118 | Brian9999/game-editingText-to-Video | 1B | [Link](https://huggingface.co/Brian9999/game-editing) |
 | Updated1 day ago | 101 | jayn7/HunyuanVideo-1 | 8B | [Link](https://huggingface.co/jayn7/HunyuanVideo-1.5_T2V_720p-GGUF) |
+| 29.3k | 85 | aptech0081/MiniMax-H3-PDD-ComfyUIText-to-Video | Updated10 days ago | [Link](https://huggingface.co/aptech0081/MiniMax-H3-PDD-ComfyUI) |
 | 9 | 71 | LanguageBind/Open-Sora-Plan-v1 | UpdatedDec 5, 2024 | [Link](https://huggingface.co/LanguageBind/Open-Sora-Plan-v1.3.0) |
 | 1.6k | 71 | OmniAvatar/OmniAvatar-14BText-to-Video | Updatedabout 11 hours ago | [Link](https://huggingface.co/OmniAvatar/OmniAvatar-14B) |
 | 15.2k | 65 | Skywork/SkyReels-V1-Hunyuan-T2VText-to-Video | Updatedabout 21 hours ago | [Link](https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-T2V) |
