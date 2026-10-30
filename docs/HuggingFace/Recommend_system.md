@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-10-30
+Updated on 2026-10-31
 
 > Generated from the Hugging Face database.
 
@@ -396,6 +396,8 @@ Updated on 2026-10-30
 | UpdatedJul 23 | 1.1M | lmstudio-community/gemma-4-E4B-it-MLX-5bitAny-to-Any | 8B | [Link](https://huggingface.co/lmstudio-community/gemma-4-E4B-it-MLX-5bit) |
 | UpdatedJul 23 | 1.11M | lmstudio-community/gemma-4-E4B-it-MLX-8bitAny-to-Any | 8B | [Link](https://huggingface.co/lmstudio-community/gemma-4-E4B-it-MLX-8bit) |
 | UpdatedSep 7 | 1.68k | OS-Software/gemma-4-12B-it-qat-q4_0-uncensored-heretic-v3-GGUFAny-to-Any | 12B | [Link](https://huggingface.co/OS-Software/gemma-4-12B-it-qat-q4_0-uncensored-heretic-v3-GGUF) |
+| Updated2 days ago | 1.16k | ggml-org/LFM3-Omni-2B-GGUFAny-to-Any | 2B | [Link](https://huggingface.co/ggml-org/LFM3-Omni-2B-GGUF) |
+| Updated2 days ago | 1.87k | abliter8-ai/lfm3-2b-omni-abliter8-ggufAny-to-Any | 2B | [Link](https://huggingface.co/abliter8-ai/lfm3-2b-omni-abliter8-gguf) |
 | 2 | Unknown | guanwenhao/MonoSpeechAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/guanwenhao/MonoSpeech) |
 | 22 | Unknown | Goekdeniz-Guelmez/J | UpdatedOct 29, 2024 | [Link](https://huggingface.co/Goekdeniz-Guelmez/J.O.S.I.E.v4o) |
 | 1 | Unknown | hfcsrd/cryptographyAny-to-Any | UpdatedNov 17, 2024 | [Link](https://huggingface.co/hfcsrd/cryptography) |
@@ -4128,6 +4130,7 @@ Updated on 2026-10-30
 | 3 | Unknown | Wall3/Yara_Captcha_SolverImage-to-Text | UpdatedJul 12 | [Link](https://huggingface.co/Wall3/Yara_Captcha_Solver) |
 | 4 | Unknown | asterxlabs/asternet-vietnamese-ocrImage-to-Text | Updatedabout 12 hours ago | [Link](https://huggingface.co/asterxlabs/asternet-vietnamese-ocr) |
 | 2 | Unknown | CharlZKP/indra-ocr-fp16Image-to-Text | Updated4 days ago | [Link](https://huggingface.co/CharlZKP/indra-ocr-fp16) |
+| 2 | Unknown | NidAll/Anima-Prompt-Architect-ModelsImage-to-Text | Updated7 days ago | [Link](https://huggingface.co/NidAll/Anima-Prompt-Architect-Models) |
 
 ## Image-to-Video
 
@@ -7069,6 +7072,7 @@ Updated on 2026-10-30
 |  | 50 | zai-org/GLM-ImageText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/zai-org/GLM-Image) |
 | 2 | 48 | PrunaAI/Pruna-Qwen-Image-2 | Updatedabout 12 hours ago | [Link](https://huggingface.co/PrunaAI/Pruna-Qwen-Image-2.1) |
 | Updatedabout 7 hours ago | 48 | aina-tech/Anima-LightningText-to-Image | 2B | [Link](https://huggingface.co/aina-tech/Anima-Lightning) |
+| Updated2 days ago | 48 | AuroraAI-Research/AuroraIMG2-50M-PreviewText-to-Image | 50.4M | [Link](https://huggingface.co/AuroraAI-Research/AuroraIMG2-50M-Preview) |
 |  | 46 | fal/FLUX | Updatedabout 5 hours ago | [Link](https://huggingface.co/fal/FLUX.2-dev-Turbo) |
 | 87 | 44 | Freepik/F-LiteText-to-Image | Updatedabout 15 hours ago | [Link](https://huggingface.co/Freepik/F-Lite) |
 | 17.9k | 43 | Disty0/Z-Image-Turbo-SDNQ-uint4-svd-r32Text-to-Image | Updated5 days ago | [Link](https://huggingface.co/Disty0/Z-Image-Turbo-SDNQ-uint4-svd-r32) |
@@ -7912,6 +7916,7 @@ Updated on 2026-10-30
 | 65 | 10 | xmanii/Ava-82MText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/xmanii/Ava-82M) |
 | Updatedabout 21 hours ago | 10 | mehdi-hf/pocket-tts-farsiText-to-Speech | 0.1B | [Link](https://huggingface.co/mehdi-hf/pocket-tts-farsi) |
 | 100 | 10 | oddadmix/Nabra-7M-DistillText-to-Speech | Updatedabout 24 hours ago | [Link](https://huggingface.co/oddadmix/Nabra-7M-Distill) |
+| 43 | 10 | dvchd/vifasttts-ngochuyen-smallText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/dvchd/vifasttts-ngochuyen-small) |
 | Updated1 day ago | 9 | OpenMOSS-Team/MOSS-TTS-RealtimeText-to-Speech | 2B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Realtime) |
 | 1.31k | 9 | OpenMOSS-Team/MOSS-TTS-Local-TransformerText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Local-Transformer) |
 | Updatedabout 23 hours ago | 9 | Aratako/Irodori-TTS-600M-v3-VoiceDesignText-to-Speech | 0.6B | [Link](https://huggingface.co/Aratako/Irodori-TTS-600M-v3-VoiceDesign) |
@@ -8333,6 +8338,7 @@ Updated on 2026-10-30
 | Updatedabout 3 hours ago | 18 | realrebelai/FastH3-V2_GGUFsText-to-Video | 35B | [Link](https://huggingface.co/realrebelai/FastH3-V2_GGUFs) |
 | UpdatedMay 7, 2023 | 18 | vdo/text-to-video-ms-1 | 1B | [Link](https://huggingface.co/vdo/text-to-video-ms-1.7b) |
 | 3.74k | 17 | calcuis/hyvidText-to-Video | Updated24 days ago | [Link](https://huggingface.co/calcuis/hyvid) |
+| Updated2 days ago | 17 | udgamlabs/Drishya-TinyText-to-Video | 0.2B | [Link](https://huggingface.co/udgamlabs/Drishya-Tiny) |
 | Updatedabout 1 hour ago | 15 | burakkizil/LAMP-editText-to-Video | 8B | [Link](https://huggingface.co/burakkizil/LAMP-edit) |
 | 24.6k | 15 | rockerBOO/minimax-h3-nvfp4-convrotText-to-Video | Updatedabout 10 hours ago | [Link](https://huggingface.co/rockerBOO/minimax-h3-nvfp4-convrot) |
 |  | 15 | mvp-lab/MiniMax-H3-RAVEN-Streaming-LoRAText-to-Video | Updatedabout 12 hours ago | [Link](https://huggingface.co/mvp-lab/MiniMax-H3-RAVEN-Streaming-LoRA) |
@@ -8427,6 +8433,7 @@ Updated on 2026-10-30
 | 13 | 3 | TheDivergentAI/ltx25-turbo-distill-loraText-to-Video | Updated1 day ago | [Link](https://huggingface.co/TheDivergentAI/ltx25-turbo-distill-lora) |
 | 15 | 3 | PocketAiHub/LTX-2 | Updated1 day ago | [Link](https://huggingface.co/PocketAiHub/LTX-2.5-MLX) |
 | 246 | 3 | mlx-community/ltx-2 | Updated3 days ago | [Link](https://huggingface.co/mlx-community/ltx-2.5-mlx) |
+| Updated10 days ago | 3.46k | off-grid-ai/Video-Companions-GGUFText-to-Video | 4B | [Link](https://huggingface.co/off-grid-ai/Video-Companions-GGUF) |
 | 69 | 2 | obvious-research/onlyflowText-to-Video | Updated5 days ago | [Link](https://huggingface.co/obvious-research/onlyflow) |
 | 42 | 2 | jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIEText-to-Video | Updated7 days ago | [Link](https://huggingface.co/jbilcke-hf/SkyReels-V1-Hunyuan-I2V-HFIE) |
 | 10 | 2 | vdo/Hotshot-XLText-to-Video | UpdatedOct 4, 2023 | [Link](https://huggingface.co/vdo/Hotshot-XL) |
