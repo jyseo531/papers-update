@@ -2418,6 +2418,7 @@ Updated on 2026-10-31
 | 7.01k | 15 | nvidia/Cosmos-Reason2-2BImage-Text-to-Text | Updated18 days ago | [Link](https://huggingface.co/nvidia/Cosmos-Reason2-2B) |
 | Updated2 days ago | 15.5k | empero-ai/Qwythos-27B-v1-GGUFImage-Text-to-Text | 27B | [Link](https://huggingface.co/empero-ai/Qwythos-27B-v1-GGUF) |
 | Updatedabout 9 hours ago | 15 | LiquidAI/d1-3BImage-Text-to-Text | 3B | [Link](https://huggingface.co/LiquidAI/d1-3B) |
+| Updated2 days ago | 15.5k | xiaomi-research/Xiaomi-OCR-0Image-Text-to-Text | 0.9B | [Link](https://huggingface.co/xiaomi-research/Xiaomi-OCR-0) |
 | 296 | 14 | Fancy-MLLM/R1-Onevision-7BImage-Text-to-Text | Updatedabout 12 hours ago | [Link](https://huggingface.co/Fancy-MLLM/R1-Onevision-7B) |
 | 80 | 14 | google/gemma-3-27b-ptImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-pt) |
 | 20 | 14 | lusxvr/nanoVLM-222MImage-Text-to-Text | Updatedabout 3 hours ago | [Link](https://huggingface.co/lusxvr/nanoVLM-222M) |
@@ -2462,6 +2463,7 @@ Updated on 2026-10-31
 | Updatedabout 15 hours ago | 12 | janhq/Jan-v2-VL-max-Instruct-FP8Image-Text-to-Text | 31B | [Link](https://huggingface.co/janhq/Jan-v2-VL-max-Instruct-FP8) |
 | Updated4 days ago | 12k | mlx-community/diffusiongemma-26B-A4B-it-4bitImage-Text-to-Text | 5B | [Link](https://huggingface.co/mlx-community/diffusiongemma-26B-A4B-it-4bit) |
 | Updatedabout 11 hours ago | 12 | TaichuAI/ZDTaichu5 | 10B | [Link](https://huggingface.co/TaichuAI/ZDTaichu5.0-9B) |
+| Updatedabout 16 hours ago | 12 | sensenova/SenseNova-Loop-9B-PreviewImage-Text-to-Text | 10B | [Link](https://huggingface.co/sensenova/SenseNova-Loop-9B-Preview) |
 | 918 | 11 | mlabonne/gemma-3-27b-it-abliterated-GGUFImage-Text-to-Text | Updatedabout 14 hours ago | [Link](https://huggingface.co/mlabonne/gemma-3-27b-it-abliterated-GGUF) |
 | 4.38k | 11 | bartowski/mlabonne_gemma-3-27b-it-abliterated-GGUFImage-Text-to-Text | Updated3 days ago | [Link](https://huggingface.co/bartowski/mlabonne_gemma-3-27b-it-abliterated-GGUF) |
 | 862 | 11 | mlabonne/gemma-3-4b-it-abliteratedImage-Text-to-Text | Updated1 day ago | [Link](https://huggingface.co/mlabonne/gemma-3-4b-it-abliterated) |
