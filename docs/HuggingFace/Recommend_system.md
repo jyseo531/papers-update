@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-10-31
+Updated on 2026-11-01
 
 > Generated from the Hugging Face database.
 
@@ -258,6 +258,7 @@ Updated on 2026-10-31
 | UpdatedApr 19 | 6.11k | mradermacher/Gemma-4-Queen-31B-it-uncensored-heretic-i1-GGUFAny-to-Any | 31B | [Link](https://huggingface.co/mradermacher/Gemma-4-Queen-31B-it-uncensored-heretic-i1-GGUF) |
 | Updatedabout 13 hours ago | 6 | LiquidAI/LFM3-Omni-2B-MLX-4bitAny-to-Any | 2B | [Link](https://huggingface.co/LiquidAI/LFM3-Omni-2B-MLX-4bit) |
 | 42 | 6 | LiquidAI/LFM3-Audio-2B-ONNXAny-to-Any | Updatedabout 16 hours ago | [Link](https://huggingface.co/LiquidAI/LFM3-Audio-2B-ONNX) |
+| 109 | 6 | litert-community/LFM3-Omni-2B-LiteRTAny-to-Any | Updated1 day ago | [Link](https://huggingface.co/litert-community/LFM3-Omni-2B-LiteRT) |
 | 1.63k | 5 | PKU-Alignment/AA-chameleon-7b-plusAny-to-Any | UpdatedSep 13, 2024 | [Link](https://huggingface.co/PKU-Alignment/AA-chameleon-7b-plus) |
 | 2.67k | 5 | Junfeng5/Liquid_V1_7BAny-to-Any | Updated8 days ago | [Link](https://huggingface.co/Junfeng5/Liquid_V1_7B) |
 | UpdatedMay 9 | 5.89k | unsloth/gemma-3-27b-it-qat-GGUFAny-to-Any | 27B | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-qat-GGUF) |
@@ -2128,6 +2129,7 @@ Updated on 2026-10-31
 | Updated2 days ago | 245 | TeichAI/Qwen3 | 28B | [Link](https://huggingface.co/TeichAI/Qwen3.6-27B-Fable-5-Experimental) |
 | 353k | 236 | microsoft/Florence-2-baseImage-Text-to-Text | UpdatedNov 4, 2024 | [Link](https://huggingface.co/microsoft/Florence-2-base) |
 | Updated1 day ago | 233 | apple/LensVLM-9BImage-Text-to-Text | 9B | [Link](https://huggingface.co/apple/LensVLM-9B) |
+| Updated1 day ago | 233 | microsoft/Mage-VL-CoworkImage-Text-to-Text | 5B | [Link](https://huggingface.co/microsoft/Mage-VL-Cowork) |
 | Updatedabout 2 hours ago | 232 | deepseek-ai/DeepSeek-OCR-2Image-Text-to-Text | 3B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-OCR-2) |
 | Updatedabout 14 hours ago | 228 | CohereLabs/command-a-vision-07-2025Image-Text-to-Text | 112B | [Link](https://huggingface.co/CohereLabs/command-a-vision-07-2025) |
 | Updatedabout 2 hours ago | 226 | FINAL-Bench/Darwin-180B-RSIImage-Text-to-Text | 180B | [Link](https://huggingface.co/FINAL-Bench/Darwin-180B-RSI) |
@@ -3495,6 +3497,7 @@ Updated on 2026-10-31
 | Updated6 days ago | 114 | Felldude/Ministral-3-3B-Uncensored-FP8Image-to-Text | 4B | [Link](https://huggingface.co/Felldude/Ministral-3-3B-Uncensored-FP8) |
 | Updated5 days ago | 110 | Svngoku/Qwen3-VL-TimeTravelImage-to-Text | 9B | [Link](https://huggingface.co/Svngoku/Qwen3-VL-TimeTravel) |
 | Updatedabout 20 hours ago | 110 | scb10x/typhoon-ocr1 | 2B | [Link](https://huggingface.co/scb10x/typhoon-ocr1.5-2b) |
+| Updated16 days ago | 109 | muscgab/manga-ocr-base-CPT-flexImage-to-Text | 0.1B | [Link](https://huggingface.co/muscgab/manga-ocr-base-CPT-flex) |
 | Updatedabout 9 hours ago | 106 | manu02/LAnA-v2Image-to-Text | 0.3B | [Link](https://huggingface.co/manu02/LAnA-v2) |
 | UpdatedAug 14, 2025 | 105k | unsloth/gemma-3-27b-it-GGUFImage-to-Text | 27B | [Link](https://huggingface.co/unsloth/gemma-3-27b-it-GGUF) |
 | Updatedabout 20 hours ago | 100 | arkhabbazan/ocr-captcha-routerImage-to-Text | 2.26M | [Link](https://huggingface.co/arkhabbazan/ocr-captcha-router) |
@@ -6432,6 +6435,7 @@ Updated on 2026-10-31
 | Updated3 days ago | 9.5k | protoLabsAI/Ornith-1 | 2B | [Link](https://huggingface.co/protoLabsAI/Ornith-1.0-9B-MTP-GGUF) |
 | Updated2 days ago | 9.42k | unsloth/Ornith-1 | 35B | [Link](https://huggingface.co/unsloth/Ornith-1.0-35B-GGUF) |
 | Updated3 days ago | 9.82k | KRAFTON/Raon-1-mini-preview-ggufText | 29B | [Link](https://huggingface.co/KRAFTON/Raon-1-mini-preview-gguf) |
+| Updatedabout 10 hours ago | 9.72k | AtomicChat/DeepSeek-V4 | 552B | [Link](https://huggingface.co/AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF) |
 | Updated3 days ago | 8.32k | trillionlabs/Tri-21BText | 21B | [Link](https://huggingface.co/trillionlabs/Tri-21B) |
 | Updatedabout 14 hours ago | 8 | janhq/Jan-v1-4B-GGUFText | 4B | [Link](https://huggingface.co/janhq/Jan-v1-4B-GGUF) |
 | Updatedabout 16 hours ago | 8.51k | nvidia/NVIDIA-Nemotron-Nano-12B-v2Text | 12B | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-12B-v2) |
@@ -7682,6 +7686,7 @@ Updated on 2026-10-31
 | 14 | Unknown | paralaif/MOSS-Image-Alpha-LoRAText-to-Image | Updatedabout 22 hours ago | [Link](https://huggingface.co/paralaif/MOSS-Image-Alpha-LoRA) |
 | 17 | Unknown | heathcliff01/Kaloscope-style-adapterText-to-Image | Updatedabout 11 hours ago | [Link](https://huggingface.co/heathcliff01/Kaloscope-style-adapter) |
 | 21 | Unknown | ElectronGirl/anima-ref-adapterText-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/ElectronGirl/anima-ref-adapter) |
+| 14 | Unknown | 0ppxnhximxr/snapref-v1bText-to-Image | Updatedabout 1 hour ago | [Link](https://huggingface.co/0ppxnhximxr/snapref-v1b) |
 
 ## Text-to-Speech
 
